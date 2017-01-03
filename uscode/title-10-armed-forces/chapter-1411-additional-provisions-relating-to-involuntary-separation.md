@@ -15,7 +15,7 @@ source: >-
 ### Statutory Notes
 
 #### Effective Date
-Chapter effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14902"></a>
@@ -25,6 +25,11 @@ Chapter effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 **(b) Misconduct, Etc.—** The Secretary of the military department concerned shall prescribe, by regulation, procedures for the review at any time of the record of any reserve officer to determine whether that officer should be required, because of misconduct, because of moral or professional dereliction, or because the officer’s retention is not clearly consistent with the interests of national security, to show cause for retention in an active status.
 
 **(c) Regulations.—** The authority of the Secretary of a military department under this section shall be carried out subject to such limitations as the Secretary of Defense may prescribe by regulation.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14903"></a>
@@ -61,6 +66,9 @@ Chapter effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
 
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14904"></a>
 ## § 14904. Rights and procedures
@@ -75,6 +83,11 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 (4) shall be allowed full access to, and shall be furnished copies of, records relevant to the case, except that the board of inquiry shall withhold any record that the Secretary concerned determines should be withheld in the interest of national security.
 
 **(b) Summary of Records Withheld.—** When a record is withheld under subsection (a)(4), the officer whose case is under consideration shall, to the extent that the interest of national security permits, be furnished a summary of the record so withheld.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14905"></a>
@@ -101,6 +114,11 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 **(c) Separation Pay.—** An officer who is discharged under subsection (b)(3) is entitled, if eligible therefor, to separation pay under [section 1174(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1174/c&num=0&edition=prelim).
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14906"></a>
 ## § 14906. Officers eligible to serve on boards
@@ -123,6 +141,9 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 “(2) An officer may not serve on a board under this chapter unless the officer holds a grade above lieutenant colonel or commander and is senior in grade and rank to any officer considered by the board.”
 
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14907"></a>
 ## § 14907. Army National Guard of the United States and Air National Guard of the United States: discharge and withdrawal of Federal recognition of officers absent without leave
@@ -138,3 +159,6 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 3820(a), (b) and 8820 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(2), (c)(2).
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).

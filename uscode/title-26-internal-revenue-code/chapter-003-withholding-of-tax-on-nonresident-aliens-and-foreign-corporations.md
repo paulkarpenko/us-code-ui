@@ -345,7 +345,7 @@ Section applicable to payments made after Jan. 12, 1983, see section 1(e)(2) of 
 
 <a id="section-1445"></a>
 ## § 1445. Withholding of tax on dispositions of United States real property interests
-**(a) General rule** Except as otherwise provided in this section, in the case of any disposition of a United States real property interest (as defined in section 897(c)) by a foreign person, the transferee shall be required to deduct and withhold a tax equal to 10 percent of the amount realized on the disposition.
+**(a) General rule** Except as otherwise provided in this section, in the case of any disposition of a United States real property interest (as defined in section 897(c)) by a foreign person, the transferee shall be required to deduct and withhold a tax equal to 15 percent of the amount realized on the disposition.
 
 **(b) Exemptions**
 
@@ -428,6 +428,15 @@ Section applicable to payments made after Jan. 12, 1983, see section 1(e)(2) of 
 
   (B) *Requests to be handled within 90 days* — The Secretary shall take action with respect to any request described in subparagraph (A) within 90 days after the Secretary receives the request.
 
+(4) **Reduced rate of withholding for residence where amount realized does not exceed $1,000,000** — In the case of a disposition—
+
+  (A) of property which is acquired by the transferee for use by the transferee as a residence,
+
+  (B) with respect to which the amount realized for such property does not exceed $1,000,000, and
+
+  (C) to which subsection (b)(5) does not apply,
+  subsection (a) shall be applied by substituting “10 percent” for “15 percent”.
+
 **(d) Liability of transferor’s agents, transferee’s agents, or qualified substitutes**
 
 (1) **Notice of false affidavit; foreign corporations** — If—
@@ -479,11 +488,11 @@ Section applicable to payments made after Jan. 12, 1983, see section 1(e)(2) of 
 
 (2) **Certain distributions by foreign corporations** — In the case of any distribution by a foreign corporation on which gain is recognized under subsection (d) or (e) of section 897, the foreign corporation shall deduct and withhold under subsection (a) a tax equal to 35 percent of the amount of gain recognized on such distribution under such subsection.
 
-(3) **Distributions by certain domestic corporations to foreign shareholders** — If a domestic corporation which is or has been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii) distributes property to a foreign person in a transaction to which section 302 or part II of subchapter C applies, such corporation shall deduct and withhold under subsection (a) a tax equal to 10 percent of the amount realized by the foreign shareholder. The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B). Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.
+(3) **Distributions by certain domestic corporations to foreign shareholders** — If a domestic corporation which is or has been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii) distributes property to a foreign person in a transaction to which section 302 or part II of subchapter C applies, such corporation shall deduct and withhold under subsection (a) a tax equal to 15 percent of the amount realized by the foreign shareholder. The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B). Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.
 
-(4) **Taxable distributions by domestic or foreign partnerships, trusts, or estates** — A domestic or foreign partnership, the trustee of a domestic or foreign trust, or the executor of a domestic or foreign estate shall be required to deduct and withhold under subsection (a) a tax equal to 10 percent of the fair market value (as of the time of the taxable distribution) of any United States real property interest distributed to a partner of the partnership or a beneficiary of the trust or estate, as the case may be, who is a foreign person in a transaction which would constitute a taxable distribution under the regulations promulgated by the Secretary pursuant to section 897.
+(4) **Taxable distributions by domestic or foreign partnerships, trusts, or estates** — A domestic or foreign partnership, the trustee of a domestic or foreign trust, or the executor of a domestic or foreign estate shall be required to deduct and withhold under subsection (a) a tax equal to 15 percent of the fair market value (as of the time of the taxable distribution) of any United States real property interest distributed to a partner of the partnership or a beneficiary of the trust or estate, as the case may be, who is a foreign person in a transaction which would constitute a taxable distribution under the regulations promulgated by the Secretary pursuant to section 897.
 
-(5) **Rules relating to dispositions of interest in partnerships, trusts, or estates** — To the extent provided in regulations, the transferee of a partnership interest or of a beneficial interest in a trust or estate shall be required to deduct and withhold under subsection (a) a tax equal to 10 percent of the amount realized on the disposition.
+(5) **Rules relating to dispositions of interest in partnerships, trusts, or estates** — To the extent provided in regulations, the transferee of a partnership interest or of a beneficial interest in a trust or estate shall be required to deduct and withhold under subsection (a) a tax equal to 15 percent of the amount realized on the disposition.
 
 (6) **Distributions by regulated investment companies and real estate investment trusts** — If any portion of a distribution from a qualified investment entity (as defined in section 897(h)(4)) to a nonresident alien individual or a foreign corporation is treated under section 897(h)(1) as gain realized by such individual or corporation from the sale or exchange of a United States real property interest, the qualified investment entity shall deduct and withhold under subsection (a) a tax equal to 35 percent (or, to the extent provided in regulations, 20 percent) of the amount so treated.
 
@@ -495,7 +504,11 @@ Section applicable to payments made after Jan. 12, 1983, see section 1(e)(2) of 
 
 (2) **Transferee** — The term “transferee” means the person acquiring the United States real property interest.
 
-(3) **Foreign person** — The term “foreign person” means any person other than a United States person.
+(3) **Foreign person** — The term “foreign person” means any person other than—
+
+  (A) a United States person, and
+
+  (B) except as otherwise provided by the Secretary, an entity with respect to which section 897 does not apply by reason of subsection (l) thereof.
 
 (4) **Transferor’s maximum tax liability** — The term “transferor’s maximum tax liability” means, with respect to the disposition of any interest, the sum of—
 
@@ -514,6 +527,14 @@ Section applicable to payments made after Jan. 12, 1983, see section 1(e)(2) of 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–113, § 324(a), substituted “15 percent” for “10 percent”.
+
+Subsec. (c)(4). Pub. L. 114–113, § 324(b), added par. (4).
+
+Subsec. (e)(3) to (5). Pub. L. 114–113, § 324(a), substituted “15 percent” for “10 percent”.
+
+Subsec. (f)(3). Pub. L. 114–113, § 323(b), substituted “any person other than—” for “any person other than a United States person.” and added subpars. (A) and (B).
+
 2013—Subsec. (e)(1). Pub. L. 112–240, § 102(c)(1)(C), substituted “20 percent” for “15 percent” in introductory provisions.
 
 Subsec. (e)(6). Pub. L. 112–240, § 102(c)(3), substituted “20 percent” for “15 percent (20 percent in the case of taxable years beginning after December 31, 2010)”.
@@ -571,6 +592,11 @@ Subsec. (e)(3). Pub. L. 99–514, § 1810(f)(5), inserted “The preceding sente
 Subsec. (e)(4). Pub. L. 99–514, § 1810(f)(6), substituted “section 897” for “section 897(g)”.
 
 Subsec. (e)(6). Pub. L. 99–514, § 1810(f)(8), inserted “and regulations for the application of this subsection in the case of payments through 1 or more entities”.
+
+#### Effective Date of 2015 Amendment
+Amendment by section 323(b) of Pub. L. 114–113 applicable to dispositions and distributions after Dec. 18, 2015, see section 323(c) of Pub. L. 114–113, set out as a note under [section 897 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-897).
+
+Pub. L. 114–113, div. Q, title III, § 324(c), Dec. 18, 2015, 129 Stat. 3103, provided that: “The amendments made by this section [amending this section] shall apply to dispositions after the date which is 60 days after the date of the enactment of this Act [Dec. 18, 2015].”
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2012 and applicable to amounts paid on or after Jan. 1, 2013, see section 102(d) of Pub. L. 112–240, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).

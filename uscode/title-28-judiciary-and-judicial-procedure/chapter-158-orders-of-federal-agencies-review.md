@@ -54,7 +54,7 @@ Par. (3)(E). Pub. L. 104–88, § 305(d)(2)–(4), added subpar. (E).
 1975—Par. (3)(A). Pub. L. 93–584 inserted reference to the Interstate Commerce Commission.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–430 effective on the 180th day beginning after Sept. 13, 1988, see section 13(a) of Pub. L. 100–430, set out as a note under [section 3601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3601&num=0&edition=prelim), The Public Health and Welfare.
@@ -158,7 +158,7 @@ Par. (5). Pub. L. 104–88, § 305(d)(8), added par. (5) and struck out former p
 Pub. L. 104–287, § 6(f), Oct. 11, 1996, 110 Stat. 3399, provided that the amendment made by that section is effective Dec. 29, 1995.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–430 effective on 180th day beginning after Sept. 13, 1988, see section 13(a) of Pub. L. 100–430, set out as a note under [section 3601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3601&num=0&edition=prelim), The Public Health and Welfare.

@@ -168,18 +168,11 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 
 <a id="section-744"></a>
-## § 744. Physician to White House: assignment; grade
-
-An officer of the Medical Corps of the Army, or a medical officer of the Air Force, who is below the grade of colonel and who is assigned to duty as physician to the White House has the rank, pay, and allowances of colonel while so serving. An officer of the Medical Corps of the Navy who is below the grade of captain and who is assigned to that duty has the rank, pay, and allowances of captain while so serving.
+## § 744. Repealed. Pub. L. 114–328, div. A, title V, § 502(i)(1), Dec. 23, 2016, 130 Stat. 2103]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised section | Source (U.S. Code) | Source (Statutes at Large) |
-| 744 | 10:515. 34:251a. | Apr. 4, 1930, ch. 104, 46 Stat. 140. |
-
-The word “temporary”, in 10:515 and 34:251a, is omitted as surplusage.
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 34, related to assignment and grade of physician to the White House.
 
 
 <a id="section-745"></a>

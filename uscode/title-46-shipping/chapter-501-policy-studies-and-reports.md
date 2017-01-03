@@ -242,12 +242,14 @@ The Secretary of Transportation shall—
 
 
 <a id="section-50111"></a>
-## § 50111. Reports to Congress
-**(a) In General.—** Not later than April 1 of each year, the Secretary of Transportation shall submit a report to Congress. The report shall include, with respect to activities of the Secretary under this subtitle, the results of investigations, a summary of transactions, a statement of all expenditures and receipts, the purposes for which all expenditures were made, and any recommendations for legislation.
+## § 50111. Submission of annual MARAD authorization request
+**(a) Submission of Legislative Proposal.—** Not later than 30 days after the date on which the President submits to Congress a budget for a fiscal year pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Secretary of Transportation shall submit to the Committee on Armed Services and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate the Maritime Administration authorization request for that fiscal year.
 
-**(b) Administered and Oversight Funds.—** The Secretary, in the report under subsection (a) and in the annual budget estimate for the Maritime Administration submitted to Congress, shall state separately the amount, source, intended use, and nature of any funds (other than funds appropriated to the Administration or to the Secretary of Transportation for use by the Administration) administered, or subject to oversight, by the Administration.
+**(b) Maritime Administration Request Defined.—** In this section, the term “Maritime Administration authorization request” means a proposal for legislation that, for a fiscal year—
 
-**(c) Additional Recommendations for Legislation.—** The Secretary, from time to time, shall make recommendations to Congress for legislation the Secretary considers necessary to better achieve the objectives and policy of [section 50101 of this title](./chapter-501-policy-studies-and-reports.md#section-50101).
+(1) recommends authorizations of appropriations for the Maritime Administration for that fiscal year, including with respect to matters described in subsection 11 So in original. Probably should be “section”. 109(j) of title 49 or authorized in subtitle V of this title; and
+
+(2) addresses any other matter with respect to the Maritime Administration that the Secretary determines is appropriate.
 
 ### Statutory Notes
 
@@ -262,6 +264,9 @@ The Secretary of Transportation shall—
 | 50111(c) | 46 App.:1122(g). | June 29, 1936, ch. 858, title II, § 212(g), 49 Stat. 1990; Pub. L. 90–268, § 1, Mar. 16, 1968, 82 Stat. 49; Pub. L. 97–31, § 12(69), Aug. 6, 1981, 95 Stat. 159; Pub. L. 98–237, § 20(c), Mar. 20, 1984, 98 Stat. 90. |
 
 In subsection (a), the words “on or before the 1st day of December in each year” in 46 App. U.S.C. 811 (last sentence) are omitted for consistency with the April 1 date in 46 App.:1118. The words “and of the operations of any corporation in which the United States is a stockholder, and the names and compensation of all persons employed by the Secretary of Transportation” in 46 App. U.S.C. 811 (last sentence) are omitted because the provision originally applied to the United States Shipping Board (which was abolished in 1933) and presumably is not intended to apply to the Secretary.
+
+#### Amendments
+2015—Pub. L. 114–92 amended section generally. Prior to amendment, section related to annual reports to Congress.
 
 
 <a id="section-50112"></a>
@@ -314,7 +319,7 @@ In subsection (a), the words “on or before the 1st day of December in each yea
 | 50112 | 46 App.:1121–2. | Pub. L. 101–115, § 8, Oct. 13, 1989, 103 Stat. 694; Pub. L. 101–595, title VII, § 702, Nov. 16, 1990, 104 Stat. 2994; Pub. L. 102–241, § 47, Dec. 19, 1991, 105 Stat. 2227; Pub. L. 106–398, § 1 [div. C, title XXXV, § 3504], Oct. 30, 2000, 114 Stat. 1654, 1654A–493; Pub. L. 108–426, Nov. 30, 2004, § 2(c)(4), 118 Stat. 2424. |
 
 #### Change of Name
-“Office of the Assistant Secretary for Research and Technology of the Department of Transportation” substituted for “Research and Innovative Technology Administration” in subsec. (f) on authority of title I of div. L of Pub. L. 113–76, set out in part as a note under [section 112 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section112&num=0&edition=prelim), Transportation.
+“Office of the Assistant Secretary for Research and Technology of the Department of Transportation” substituted for “Research and Innovative Technology Administration” in subsec. (f) on authority of title I of div. L of Pub. L. 113–76, set out in part as a note under former [section 112 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section112&num=0&edition=prelim), Transportation.
 
 
 <a id="section-50113"></a>

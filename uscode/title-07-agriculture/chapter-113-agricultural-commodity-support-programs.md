@@ -46,6 +46,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Amendments
 2014—Subsec. (d). Pub. L. 113–79 substituted “fiscal year 2009 and each succeeding fiscal year” for “each of fiscal years 2009 through 2012”.
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 
 <a id="section-8702"></a>
 ## § 8702. Implementation
@@ -59,6 +62,9 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8711"></a>
@@ -174,6 +180,9 @@ This chapter, referred to in text, was in the original “this title”, meaning
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 
 <a id="section-8713"></a>
 ## § 8713. Base acres
@@ -266,6 +275,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Amendments
 2008—Subsec. (d)(4). Pub. L. 110–398 added par. (4).
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 
 <a id="section-8714"></a>
 ## § 8714. Payment yields
@@ -293,6 +305,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8715"></a>
@@ -390,6 +405,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Amendments
 2008—Subsec. (f). Pub. L. 110–398 added subsec. (f).
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 
 <a id="section-8719"></a>
 ## § 8719. Planting flexibility
@@ -480,6 +498,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 
 <a id="section-8731"></a>
 ## § 8731. Special rule for long grain and medium grain rice
@@ -503,6 +524,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 
 <a id="section-8732"></a>
 ## § 8732. Period of effectiveness
@@ -513,6 +537,9 @@ This subchapter shall be effective beginning with the 2008 crop year of each cov
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8733"></a>
@@ -534,6 +561,9 @@ The Food Security Act of 1985, referred to in subsec. (c), is Pub. L. 99–198, 
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8734"></a>
@@ -720,6 +750,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 
 <a id="section-8735"></a>
 ## § 8735. Term of loans
@@ -731,6 +764,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8736"></a>
@@ -825,6 +861,9 @@ The date of enactment of this Act, referred to in subsec. (e)(2)(B), is the date
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 
 <a id="section-8737"></a>
 ## § 8737. Loan deficiency payments
@@ -872,6 +911,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8738"></a>
@@ -923,6 +965,9 @@ The Federal Crop Insurance Act, referred to in subsec. (d), is subtitle A of tit
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8739"></a>
@@ -1029,6 +1074,9 @@ The Harmonized Tariff Schedule, referred to in subsecs. (a)(6)(D) and (b)(2)(C)(
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 
 <a id="section-8740"></a>
 ## § 8740. Special competitive provisions for extra long staple cotton
@@ -1057,6 +1105,9 @@ The date of enactment of this Act, referred to in subsec. (a), is the date of en
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8751"></a>
@@ -1093,6 +1144,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8752"></a>
@@ -1159,6 +1213,9 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(3)(B), is Pub. L.
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 
 <a id="section-8753"></a>
 ## § 8753. Definitions
@@ -1218,6 +1275,9 @@ In this subchapter:
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8754"></a>
@@ -1309,6 +1369,9 @@ Subsec. (d)(4). Pub. L. 113–188, § 101(a)(2), (3), substituted “Paragraphs 
 
 2008—Subsec. (d)(4). Pub. L. 110–398 added par. (4).
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 
 <a id="section-8755"></a>
 ## § 8755. Repealed. Pub. L. 113–79, title I, § 1101, Feb. 7, 2014, 128 Stat. 658
@@ -1392,6 +1455,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Amendments
 2008—Subsec. (f). Pub. L. 110–398 added subsec. (f).
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 
 <a id="section-8758"></a>
 ## § 8758. Planting flexibility
@@ -1427,6 +1493,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8771"></a>
@@ -1525,6 +1594,9 @@ The Food Security Act of 1985, referred to in subsec. (f), is Pub. L. 99–198, 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 
 <a id="section-8772"></a>
 ## § 8772. Adjustments of loans
@@ -1545,6 +1617,9 @@ Subtitles B, D, and E, referred to in subsec. (b), are subtitles B (§ 1201 et s
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8773"></a>
@@ -1605,6 +1680,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Subsec. (e)(2). Pub. L. 113–79, § 1424(2), substituted “2021” for “2015”.
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 
 <a id="section-8782"></a>
 ## § 8782. Repealed. Pub. L. 113–79, title I, § 1422(b)(1), Feb. 7, 2014, 128 Stat. 695
@@ -1658,6 +1736,9 @@ Sections 1603 and 1604, referred to in subsec. (c)(4), are sections 1603 and 160
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 Section is comprised of section 1601 of Pub. L. 110–246. Subsec. (e) of section 1601 of Pub. L. 110–246 amended [section 7991 of this title](./chapter-106-commodity-programs.md#section-7991).
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8784"></a>
@@ -1713,6 +1794,9 @@ The joint resolution relating to corn and wheat marketing quotas under the Agric
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8785"></a>
@@ -1794,6 +1878,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 
 <a id="section-8786"></a>
 ## § 8786. Assignment of payments
@@ -1808,6 +1895,9 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8787"></a>
@@ -1824,6 +1914,9 @@ Titles I and II, referred to in text, are titles I and II of Pub. L. 110–246, 
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8788"></a>
@@ -1845,6 +1938,9 @@ This chapter, referred to in subsec. (b), was in the original “this title”, 
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8789"></a>
@@ -1888,6 +1984,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 
 <a id="section-8790"></a>
 ## § 8790. Durum wheat quality program
@@ -1901,6 +2000,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8791"></a>
@@ -1949,6 +2051,9 @@ The date of enactment of this Act, referred to in subsec. (a), is the date of en
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 
 <a id="section-8792"></a>
 ## § 8792. Signature authority
@@ -1971,6 +2076,9 @@ This title and title II, referred to in subsec. (a), are titles I and II of Pub.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8793"></a>
@@ -2015,3 +2123,6 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).

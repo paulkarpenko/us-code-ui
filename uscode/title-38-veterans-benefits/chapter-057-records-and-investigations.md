@@ -129,7 +129,7 @@ source: >-
 
 (2) In this subsection, the term “organ procurement organization” has the meaning given the term “qualified organ procurement organization” in section 371(b) of the Public Health Service Act ([42 U.S.C. 273(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section273/b&num=0&edition=prelim)).
 
-**(l)** Under regulations the Secretary shall prescribe, the Secretary may disclose information about a veteran or the dependent of a veteran to a State controlled substance monitoring program, including a program approved by the Secretary of Health and Human Services under section 399O of the Public Health Service Act ([42 U.S.C. 280g–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section280g–3&num=0&edition=prelim)), to the extent necessary to prevent misuse and diversion of prescription medicines.
+**(l)** Under regulations the Secretary shall prescribe, the Secretary shall disclose information about a veteran or the dependent of a veteran to a State controlled substance monitoring program, including a program approved by the Secretary of Health and Human Services under section 399O of the Public Health Service Act ([42 U.S.C. 280g–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section280g–3&num=0&edition=prelim)), to the extent necessary to prevent misuse and diversion of prescription medicines.
 
 ### Statutory Notes
 
@@ -137,6 +137,8 @@ source: >-
 Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (k)(1)(A)(ii), is section 264 of title II of Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 2033, which is set out as a note under [section 1320d–2 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320d–2&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2016—Subsec. (l). Pub. L. 114–198 and Pub. L. 114–223 amended subsec. (l) identically, substituting “shall disclose” for “may disclose”.
+
 2011—Subsec. (l). Pub. L. 112–74 added subsec. (l).
 
 2006—Subsec. (k). Pub. L. 109–461 added subsec. (k).

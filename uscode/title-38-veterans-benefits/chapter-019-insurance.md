@@ -321,7 +321,7 @@ Without prejudice to any other cause of disability, the permanent loss of the us
 ### Statutory Notes
 
 #### Amendments
-1991—Pub. L. 102–83 renumbered [section 714 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section714&num=0&edition=prelim) as this section.
+1991—Pub. L. 102–83 renumbered [section 714 of this title](./chapter-007-employees.md#section-714) as this section.
 
 
 <a id="section-1915"></a>
@@ -337,7 +337,7 @@ Section 620 of the National Service Life Insurance Act of 1940, referred to in t
 Section 602(v) of the National Service Life Insurance Act of 1940, referred to in text, is section 602(v) of act Oct. 8, 1940, ch. 757, title VI, pt. I, 54 Stat. 1009, which enacted section 802(v) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section and section 721 [now 1921] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 #### Amendments
-1991—Pub. L. 102–83, § 5(a), renumbered [section 715 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section715&num=0&edition=prelim) as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered [section 715 of this title](./chapter-007-employees.md#section-715) as this section.
 
 Pub. L. 102–83, § 5(c)(1), substituted “1922” for “722”.
 
@@ -383,7 +383,7 @@ Pub. L. 88–355 provided that the amendment made by Pub. L. 88–355 is effecti
 Section 602(d) of the National Service Life Insurance Act of 1940, referred to in subsec. (c), is section 602(d) of act Oct. 8, 1940, ch. 757, title VI, pt. I, 54 Stat. 1009, which enacted section 802(d) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was omitted in the general revision and reenactment of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 #### Amendments
-1991—Pub. L. 102–83, § 5(a), renumbered [section 716 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section716&num=0&edition=prelim) as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered [section 716 of this title](./chapter-007-employees.md#section-716) as this section.
 
 Subsec. (b). Pub. L. 102–86 amended subsec. (b) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by substituting “unpaid” for “upaid”.
 
@@ -427,7 +427,7 @@ Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” f
 #### Amendments
 2003—Subsec. (f). Pub. L. 108–183 added subsec. (f).
 
-1991—Pub. L. 102–83 renumbered [section 717 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section717&num=0&edition=prelim) as this section and substituted “Secretary” for “Administrator” in subsec. (e).
+1991—Pub. L. 102–83 renumbered [section 717 of this title](./chapter-007-employees.md#section-717) as this section and substituted “Secretary” for “Administrator” in subsec. (e).
 
 1981—Subsec. (c). Pub. L. 97–66 substituted “Except as provided in the second and third sentences of this subsection, unless” for “Unless” and inserted provision that, in the case of insurance maturing after September 30, 1981, and for which no option has been elected by the insured, the first beneficiary may elect to receive payment in one sum.
 
@@ -605,7 +605,7 @@ Subsec. (b)(3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary�
 
 Pub. L. 102–83, § 4(a)(2)(D)(i), substituted “with the Secretary” for “in the Veterans’ Administration”.
 
-Subsec. (b)(4). Pub. L. 102–86, § 202(a)(1), amended subsec. (b) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by amending par. (4) generally. Prior to amendment, par. (4) read as follows: “Notwithstanding the provisions of [section 717 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section717&num=0&edition=prelim), insurance under this subsection shall be payable at the election of the first beneficiary in 240 equal monthly installments or under the options specified in section 717(b)(3) or (4) of this title. Any installments certain of insurance remaining unpaid at the death of any beneficiary shall be paid in equal monthly installments in an amount equal to the monthly installments paid to the first beneficiary, to the person or persons then in being within the classes specified in subsection (b)(2) of this section and in the order named.”
+Subsec. (b)(4). Pub. L. 102–86, § 202(a)(1), amended subsec. (b) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by amending par. (4) generally. Prior to amendment, par. (4) read as follows: “Notwithstanding the provisions of [section 717 of this title](./chapter-007-employees.md#section-717), insurance under this subsection shall be payable at the election of the first beneficiary in 240 equal monthly installments or under the options specified in section 717(b)(3) or (4) of this title. Any installments certain of insurance remaining unpaid at the death of any beneficiary shall be paid in equal monthly installments in an amount equal to the monthly installments paid to the first beneficiary, to the person or persons then in being within the classes specified in subsection (b)(2) of this section and in the order named.”
 
 Pub. L. 102–83, § 5(c)(1), amended par. (4) as amended by Pub. L. 102–86, § 202(a)(1), by substituting “1917” for “717”. See above.
 

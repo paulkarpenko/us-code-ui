@@ -30,6 +30,21 @@ source: >-
 
 (2) **Use of funds** — Amounts appropriated for the activities set forth in subsection (a) shall be used pursuant to the authorization and requirements under this section.
 
+### Statutory Notes
+
+#### Delegation of Authority Pursuant to Section 302(b) of the Sean and David Goldman International Child Abduction Prevention and Return Act of 2014
+Memorandum of President of the United States, May 7, 2015, 80 F.R. 32849, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby delegate the functions and authorities vested in the President by section 302(b) of the Sean and David Goldman International Child Abduction Prevention and Return Act of 2014 (Public Law 113–150) (the “Act”), to the Secretary of State.
+
+Any reference in this memorandum to the Act shall be deemed to be a reference to any future act that is the same or substantially the same as such provision.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.
+
 
 <a id="section-9111"></a>
 ## § 9111. Definitions

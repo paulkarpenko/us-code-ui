@@ -2,7 +2,7 @@
 title: 18
 chapter: '303'
 heading: BUREAU OF PRISONS
-section_count: 8
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
 ---
@@ -209,6 +209,41 @@ Pub. L. 101–647, title XXIX, § 2907, Nov. 29, 1990, 104 Stat. 4915, provided 
 #### Administration of Confinement Facilities Located on Military Installations by Bureau of Prisons
 Pub. L. 100–690, title VII, § 7302, Nov. 18, 1988, 102 Stat. 4463, provided that: “In conjunction with the Department of Defense and the Commission on Alternative Utilization of Military Facilities as established in the National Defense Authorization Act of Fiscal Year 1989 [see section 2819 of Pub. L. 100–456, 104 Stat. 1820, formerly set out as a note under [section 2391 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2391&num=0&edition=prelim), Armed Forces], the Bureau of Prisons shall be responsible for— “(1) administering Bureau of Prisons confinement facilities for civilian nonviolent prisoners located on military installations in cooperation with the Secretary of Defense, with an emphasis on placing women inmates in such facilities, or in similar minimum security confinement facilities not located on military installations, so that the percentage of eligible women equals the percentage of eligible men housed in such or similar minimum security confinement facilities (i.e., prison camps); “(2) establishing and regulating drug treatment programs for inmates held in such facilities in coordination and cooperation with the National Institute on Drug Abuse; and “(3) establishing and managing work programs in accordance with guidelines under the Bureau of Prisons for persons held in such facilities and in cooperation with the installation commander.”
 
+#### Limiting the Use of Restrictive Housing by the Federal Government
+Memorandum of President of the United States, Mar. 1, 2016, 81 F.R. 11997, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+A growing body of evidence suggests that the overuse of solitary confinement and other forms of restrictive housing in U.S. correctional systems undermines public safety and is contrary to our Nation’s values.
+
+In July 2015, as part of my Administration’s ongoing efforts to pursue reforms that make the criminal justice system more fair and effective, I directed the Attorney General to undertake a comprehensive review of the overuse of solitary confinement across American prisons. Since that time, senior officials at the Department of Justice (DOJ) have met regularly to study the issue and develop strategies for reducing the use of this practice nationwide.
+
+Those efforts gave rise to a final report transmitted to me on January 25, 2016 (DOJ Report and Recommendations Concerning the Use of Restrictive Housing) (the “DOJ Report”), that sets forth specific policy recommendations for DOJ with respect to the Federal Bureau of Prisons and other DOJ entities as well as more general guiding principles for all correctional systems.
+
+As the DOJ Report makes clear, although occasions exist when correctional officials have no choice but to segregate inmates from the general population, this action has the potential to cause serious, long-lasting harm. The DOJ Report accordingly emphasizes the responsibility of Government to ensure that this practice is limited, applied with constraints, and used only as a measure of last resort.
+
+Given the urgency and importance of this issue, it is critical that DOJ accelerate efforts to reduce the number of Federal inmates and detainees held in restrictive housing and that Federal correctional and detention systems be models for facilities across the United States. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, and to address the overuse of solitary confinement in correctional and detention systems throughout the United States, I hereby direct as follows:
+
+Section 1. Implementation of the DOJ Report. (a) DOJ shall promptly undertake to revise its regulations and policies, consistent with the direction of the Attorney General, to implement the policy recommendations in the DOJ Report concerning the use of restrictive housing. DOJ shall provide me with an update on the status of these efforts not later than 180 days after the date of this memorandum.
+
+(b) Other executive departments and agencies (agencies) that impose restrictive housing shall review the DOJ Report to determine whether corresponding changes at their facilities should be made in light of the policy recommendations and guiding principles in the DOJ Report.
+
+These other agencies shall report back to me not later than 180 days after the date of this memorandum on how they plan to address their use of restrictive housing.
+
+Sec. 2. General Provisions. (a) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(b) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 3. Publication. The Attorney General is authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.
+
 
 <a id="section-4043"></a>
 ## § 4043. Acceptance of gifts and bequests to the Commissary Funds, Federal Prisons
@@ -373,3 +408,30 @@ Pub. L. 101–647, title XXX, § 3002, Nov. 29, 1990, 104 Stat. 4915, provided t
 
 #### References in Text
 The date of the enactment of the Federal Prisoner Health Care Copayment Act of 2000, referred to in subsec. (k), is the date of enactment of Pub. L. 106–294, which was approved Oct. 12, 2000.
+
+
+<a id="section-4049"></a>
+## § 4049. Officers and employees of the Bureau of Prisons authorized to carry oleoresin capsicum spray
+**(a) In General.—** The Director of the Bureau of Prisons shall issue, on a routine basis, oleoresin capsicum spray to—
+
+(1) any officer or employee of the Bureau of Prisons who—
+
+  (A) is employed in a prison that is not a minimum or low security prison; and
+
+  (B) may respond to an emergency situation in such a prison; and
+
+(2) to such additional officers and employees of prisons as the Director determines appropriate, in accordance with this section.
+
+**(b) Training Requirement.—**
+
+(1) **In general.—** — In order for an officer or employee of the Bureau of Prisons, including a correctional officer, to be eligible to receive and carry oleoresin capsicum spray pursuant to this section, the officer or employee shall complete a training course before being issued such spray, and annually thereafter, on the use of oleoresin capsicum spray.
+
+(2) **Transferability of training.—** — An officer or employee of the Bureau of Prisons who completes a training course pursuant to paragraph (1) and subsequently transfers to employment at a different prison, shall not be required to complete an additional training course solely due such transfer.
+
+(3) **Training conducted during regular employment.—** — An officer or employee of the Bureau of Prisons who completes a training course required under paragraph (1) shall do so during the course of that officer or employee’s regular employment, and shall be compensated at the same rate that the officer or employee would be compensated for conducting the officer or employee’s regular duties.
+
+**(c) Use of Oleoresin Capsicum Spray.—** Officers and employees of the Bureau of Prisons issued oleoresin capsicum spray pursuant to subsection (a) may use such spray to reduce acts of violence—
+
+(1) committed by prisoners against themselves, other prisoners, prison visitors, and officers and employees of the Bureau of Prisons; and
+
+(2) committed by prison visitors against themselves, prisoners, other visitors, and officers and employees of the Bureau of Prisons.

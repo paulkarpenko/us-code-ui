@@ -220,7 +220,7 @@ Pub. L. 101–380, title IV, § 4116(c), (d), Aug. 18, 1990, 104 Stat. 523, as a
 
 (5) a barge of less than 1,500 gross tons (as measured under chapter 145 of this title) carrying refined petroleum product in bulk as cargo in or adjacent to waters of the Bering Sea, Chukchi Sea, and Arctic Ocean and waters tributary thereto and in the waters of the Aleutian Islands and the Alaskan Peninsula west of 155 degrees west longitude; or
 
-(6) a vessel in the National Defense Reserve Fleet pursuant to section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744).
+(6) a vessel in the National Defense Reserve Fleet pursuant to section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744).11 See References in Text note below.
 
 **(c)**
 
@@ -334,6 +334,8 @@ Pub. L. 101–380, title IV, § 4116(c), (d), Aug. 18, 1990, 104 Stat. 523, as a
 
 #### References in Text
 The Deepwater Port Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29 (§ 1501 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1501&num=0&edition=prelim) and Tables.
+
+Section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744), referred to in subsec. (b)(6), is section 11 of act Mar. 8, 1946, ch. 82, 60 Stat. 49, which was classified to section 1744 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification, and is now classified to [section 4405 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4405&num=0&edition=prelim).
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (e)(2)(A)(iv)(I), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
 
@@ -708,7 +710,7 @@ Section 3714(c) requires each vessel subject to this chapter to have a person au
 
 (1) the transfer was conducted consistent with regulations prescribed by the Secretary;
 
-(2) both the delivering and receiving vessels had on board, at the time of transfer, a certificate of inspection or a certificate of compliance, as would have been required under section 3710 or 3711 of this title, had the transfer taken place in a port or place subject to the jurisdiction of the United States; and 11 So in original. The word “and” probably should not appear.
+(2) both the delivering and receiving vessels had on board, at the time of transfer, a certificate of inspection or a certificate of compliance, as would have been required under section 3710 or 3711 of this title, had the transfer taken place in a port or place subject to the jurisdiction of the United States;
 
 (3) the delivering and the receiving vessel had on board at the time of transfer, a certificate of financial responsibility as would have been required under section 1016 of the Oil Pollution Act of 1990, had the transfer taken place in a place subject to the jurisdiction of the United States;
 
@@ -745,6 +747,8 @@ The regulations to be prescribed by the Secretary shall include a number of spec
 Section 1016 of the Oil Pollution Act of 1990, referred to in subsec. (a)(3), is classified to [section 2716 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2716&num=0&edition=prelim), Navigation and Navigable Waters.
 
 #### Amendments
+2016—Subsec. (a)(2). Pub. L. 114–120, § 306(a)(4), substituted semicolon for “; and”.
+
 1990—Subsec. (a)(3) to (5). Pub. L. 101–380 added pars. (3) to (5).
 
 #### Effective Date of 1990 Amendment

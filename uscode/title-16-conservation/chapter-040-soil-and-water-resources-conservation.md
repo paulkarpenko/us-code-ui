@@ -75,7 +75,7 @@ Enforcement functions of Secretary or other official in Department of Agricultur
 ### Statutory Notes
 
 #### Amendments
-2014—Subsec. (b). Pub. L. 113–79, § 2508(a)(1), inserted “and tribal” after “State” in two places.
+2014—Subsec. (b). Pub. L. 113–79, § 2508(a)(1), inserted “and tribal” after “State” in two places in text.
 
 Subsec. (c)(2). Pub. L. 113–79, § 2508(a)(2), inserted “, tribal,” after “State”.
 
@@ -166,7 +166,7 @@ For transfer of certain enforcement functions of Secretary or other official in 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
-2014—Subsec. (a). Pub. L. 113–79 inserted “, tribal,” after “conservation districts, State” and ‘, tribal,” after “private” in introductory provisions, and “, tribal” after “Federal, State” wherever appearing.
+2014—Subsec. (a). Pub. L. 113–79 inserted “, tribal,” after “conservation districts, State” and “, tribal,” after “private” in introductory provisions, and “, tribal” after “Federal, State” wherever appearing.
 
 2008—Subsecs. (b) to (d). Pub. L. 110–246, § 2804(c), added subsecs. (b) and (c), redesignated former subsec. (b) as (d), and substituted “December 31, 2011, and December 31, 2016” for “December 31, 1979, and program updates shall be completed by December 31, 1987, December 31, 1997, and December 31, 2007”.
 

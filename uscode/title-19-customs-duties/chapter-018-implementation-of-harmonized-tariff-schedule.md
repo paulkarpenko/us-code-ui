@@ -165,7 +165,7 @@ Subsecs. (b) and (d) effective Aug. 23, 1988, and subsec. (c) effective Jan. 1, 
 
 (5) to make technical rectifications.
 
-**(b) Agency and public views regarding recommendations** In formulating recommendations under subsection (a) of this section, the Commission shall solicit, and give consideration to, the views of interested Federal agencies and the public. For purposes of obtaining public views, the Commission—
+**(b) Agency and public views regarding recommendations** In formulating recommendations under subsection (a), the Commission shall solicit, and give consideration to, the views of interested Federal agencies and the public. For purposes of obtaining public views, the Commission—
 
 (1) shall give notice of the proposed recommendations and afford reasonable opportunity for interested parties to present their views in writing; and
 
@@ -206,7 +206,7 @@ Section 1216 of Pub. L. 100–418 required Commission, in consultation with othe
 
 **(b) Lay-over period**
 
-(1) The President may proclaim a modification under subsection (a) of this section only after the expiration of the 60-day period beginning on the date on which the President submits a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate that sets forth the proposed modification and the reasons therefor.
+(1) The President may proclaim a modification under subsection (a) only after the expiration of the 60-day period beginning on the date on which the President submits a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate that sets forth the proposed modification and the reasons therefor.
 
 (2) The 60-day period referred to in paragraph (1) shall be computed by excluding—
 
@@ -214,7 +214,7 @@ Section 1216 of Pub. L. 100–418 required Commission, in consultation with othe
 
   (B) any Saturday and Sunday, not excluded under subparagraph (A), when either House is not in session.
 
-**(c) Effective date of modifications** Modifications proclaimed by the President under subsection (a) of this section may not take effect before the 30th day after the date on which the text of the proclamation is published in the Federal Register.
+**(c) Effective date of modifications** Modifications proclaimed by the President under subsection (a) may not take effect before the 30th day after the date on which the text of the proclamation is published in the Federal Register.
 
 ### Statutory Notes
 
@@ -246,7 +246,7 @@ George Bush.
 
 (2) in the form of electronic media.
 
-**(b) Content** Publications under subsection (a) of this section, in whatever format, shall contain—
+**(b) Content** Publications under subsection (a), in whatever format, shall contain—
 
 (1) the then current Harmonized Tariff Schedule;
 

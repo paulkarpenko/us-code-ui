@@ -2,7 +2,7 @@
 title: 50
 chapter: '41'
 heading: NATIONAL NUCLEAR SECURITY ADMINISTRATION
-section_count: 37
+section_count: 39
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -266,7 +266,7 @@ Notwithstanding the authority granted by [section 7253 of title 42](https://usco
 
 **(b) Status of contractor personnel** Each officer or employee of a contractor of the Administration shall not be responsible to, or subject to the authority, direction, or control of, any officer, employee, or agent of the Department of Energy who is not an employee of the Administration, except for the Secretary of Energy consistent with [section 7132(c)(3) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7132/c/3&num=0&edition=prelim).
 
-**(c) Construction of section** Subsections (a) and (b) of this section may not be interpreted to in any way preclude or interfere with the communication of technical findings derived from, and in accord with, duly authorized activities between—
+**(c) Construction of section** Subsections (a) and (b) may not be interpreted to in any way preclude or interfere with the communication of technical findings derived from, and in accord with, duly authorized activities between—
 
 (1) the head, or any contractor employee, of a national security laboratory or of a nuclear weapons production facility; and
 
@@ -436,7 +436,7 @@ Subsecs. (b), (c). Pub. L. 109–364, § 3117(b)(1)(C), (D), redesignated subsec
 ## § 2423. Counterintelligence programs
 **(a) National security laboratories and nuclear weapons production facilities** The Secretary of Energy shall, at each national security laboratory and nuclear weapons production facility, establish and maintain a counterintelligence program adequate to protect national security information at that laboratory or production facility.
 
-**(b) Other facilities** The Secretary of Energy shall, at each Administration facility not described in subsection (a) of this section at which Restricted Data is located, assign an employee of the Office of Counterintelligence of the Department of Energy who shall be responsible for and assess counterintelligence matters at that facility.
+**(b) Other facilities** The Secretary of Energy shall, at each Administration facility not described in subsection (a) at which Restricted Data is located, assign an employee of the Office of Counterintelligence of the Department of Energy who shall be responsible for and assess counterintelligence matters at that facility.
 
 ### Statutory Notes
 
@@ -525,7 +525,7 @@ The Electronic Communications Privacy Act of 1986, referred to in subsec. (b), i
 
 **(e) Waiver authority**
 
-(1) The Administrator may waive any requirement under subsection (a), (b), or (c) of this section that certain information be included in a report under that subsection if the Administrator determines that inclusion of that information in the report would adversely affect the national security. The Administrator may waive the report-and-wait requirement in subsection (f) of this section if the Administrator determines that compliance with such requirement would adversely affect the national security. Any waiver under this paragraph shall be made on a case-by-case basis.
+(1) The Administrator may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Administrator determines that inclusion of that information in the report would adversely affect the national security. The Administrator may waive the report-and-wait requirement in subsection (f) if the Administrator determines that compliance with such requirement would adversely affect the national security. Any waiver under this paragraph shall be made on a case-by-case basis.
 
 (2) If the Administrator exercises the authority provided under paragraph (1), the Administrator shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the congressional defense committees.
 
@@ -590,9 +590,29 @@ Pub. L. 112–239, in section catchline, inserted “contracting, program manage
 
 **(e) Office of the Administrator employees** In this section, the term “Office of the Administrator”, with respect to the employees of the Administration, includes employees whose funding is derived from an account of the Administration titled “Federal Salaries and Expenses”.
 
+**(f) Annual report** The Administrator shall include in the budget justification materials submitted to Congress in support of the budget of the Administration for each fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim)) a report containing the following information as of the date of the report:
+
+(1) The number of full-time equivalent employees of the Office of the Administrator, as counted under subsection (a).
+
+(2) The number of service support contracts of the Administration and whether such contracts are funded using program or program direction funds.
+
+(3) The number of full-time equivalent contractor employees working under each contract identified under paragraph (2).
+
+(4) The number of full-time equivalent contractor employees described in paragraph (3) that have been employed under such a contract for a period greater than two years.
+
+(5) With respect to each contract identified under paragraph (2)—
+
+  (A) the cost of the contract; and
+
+  (B) identification of the program or program direction accounts that support the contract.
+
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (f)(5). Pub. L. 114–328 added par. (5).
+
+2015—Subsec. (f). Pub. L. 114–92 added subsec. (f).
+
 2014—Subsec. (a)(1). Pub. L. 113–291, § 3116(a)(1), substituted “2015” for “2014” and “1,690” for “1,825”.
 
 Subsec. (a)(2). Pub. L. 113–291, § 3116(a)(2), substituted “2016” for “2015” and “1,690” for “1,825”.
@@ -609,11 +629,33 @@ Section, Pub. L. 106–65, div. C, title XXXII, § 3242, Oct. 5, 1999, 113 Stat.
 
 
 <a id="section-2443"></a>
-## § 2443. Repealed. Pub. L. 107–107, div. C, title XXXI, § 3143, Dec. 28, 2001, 115 Stat. 1371
+## § 2443. Notification of employee practices affecting national security
+**(a) Annual notification** At or about the time that the President’s budget is submitted to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Secretary of Energy and the Administrator shall jointly notify the appropriate congressional committees of—
+
+(1) the number of covered employees whose security clearance was revoked during the year prior to the year in which the notification is made; and
+
+(2) for each employee counted under paragraph (1), the length of time such employee has been employed at the Department or the Administration, as the case may be, since such revocation.
+
+**(b) Notification to congressional committees** Whenever the Secretary or the Administrator terminates the employment of a covered employee or removes and reassigns a covered employee for cause, the Secretary or the Administrator, as the case may be, shall notify the appropriate congressional committees of such termination or reassignment by not later than 30 days after the date of such termination or reassignment.
+
+**(c) Definitions** In this section:
+
+(1) The term “appropriate congressional committees” means—
+
+  (A) the congressional defense committees; and
+
+  (B) the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
+
+(2) The term “covered employee” means—
+
+  (A) an employee of the Administration; or
+
+  (B) an employee of an element of the Department of Energy (other than the Administration) involved in nuclear security.
 
 ### Statutory Notes
 
-Section, Pub. L. 106–65, div. C, title XXXII, § 3245, as added Pub. L. 106–377, § 1(a)(2) [title III, § 315], Oct. 27, 2000, 114 Stat. 1441, 1441A–81, related to prohibition on pay of personnel engaged in concurrent service or duties inside and outside Administration.
+#### Prior Provisions
+A prior section 2443, Pub. L. 106–65, div. C, title XXXII, § 3245, as added Pub. L. 106–377, § 1(a)(2) [title III, § 315], Oct. 27, 2000, 114 Stat. 1441, 1441A–81, related to prohibition on pay of personnel engaged in concurrent service or duties inside and outside Administration, prior to repeal by Pub. L. 107–107, div. C, title XXXI, § 3143, Dec. 28, 2001, 115 Stat. 1371.
 
 
 <a id="section-2444"></a>
@@ -670,7 +712,7 @@ Section, Pub. L. 106–65, div. C, title XXXII, § 3245, as added Pub. L. 106–
 
 **(e) Preference for cooperative education students** In evaluating individuals for the award of a scholarship or fellowship under the program established under this section, the Administrator may give a preference to an individual who is enrolled in, or accepted for enrollment in, an institution of higher education that has a cooperative education program with the Department of Energy.
 
-**(f) Coordination of benefits** A scholarship or fellowship awarded under the program established under this section shall be taken into account in determining the eligibility of an individual receiving such scholarship or fellowship for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.) [and [42 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751&num=0&edition=prelim) et seq.].
+**(f) Coordination of benefits** A scholarship or fellowship awarded under the program established under this section shall be taken into account in determining the eligibility of an individual receiving such scholarship or fellowship for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.).
 
 **(g) Report to Congress** Not later than January 1, 2010, the Administrator shall submit to the congressional defense committees a report on the activities carried out under the program established under this section, including any recommendations for future activities under such program.
 
@@ -679,7 +721,7 @@ Section, Pub. L. 106–65, div. C, title XXXII, § 3245, as added Pub. L. 106–
 ### Statutory Notes
 
 #### References in Text
-The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 Section 3101(a)(2), referred to in subsec. (h), is section 3101(a)(2) of Pub. L. 110–417, div. C, title XXXI, Oct. 14, 2008, 122 Stat. 4752, which is not classified to the Code.
 
@@ -693,6 +735,66 @@ Subsec. (d)(2). Pub. L. 111–383, § 1075(e)(19)(B), substituted “fails to re
 
 #### “Congressional Defense Committees” Defined
 Congressional defense committees has the meaning given that term in [section 101(a)(16) of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/16&num=0&edition=prelim), Armed Forces, see section 3 of Pub. L. 110–417, Oct. 14, 2008, 122 Stat. 4372. See note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim).
+
+
+<a id="section-2445"></a>
+## § 2445. Limitation on bonuses for employees who engage in improper program management
+**(a) Limitation**
+
+(1) **In general** — The Secretary of Energy or the Administrator may not pay to a covered employee a bonus during the one-year period beginning on the date on which the Secretary or the Administrator, as the case may be, determines that the covered employee engaged in improper program management that resulted in a notification under [section 2753 of this title](./chapter-042-atomic-energy-defense-provisions.md#section-2753) or significantly and detrimentally affected the cost, scope, or schedule associated with the approval of critical decision 3 in the acquisition process for a project (as defined in Department of Energy Order 413.3B (relating to program management and project management for the acquisition of capital assets)).
+
+(2) **Implementation guidance** — Not later than one year after November 25, 2015, the Secretary shall issue guidance for the implementation of paragraph (1).
+
+**(b) Guidance prohibiting bonuses for additional employees** Not later than 180 days after November 25, 2015, the Secretary and the Administrator shall each issue guidance prohibiting the payment of a bonus to a covered employee during the one-year period beginning on the date on which the Secretary or the Administrator, as the case may be, determines that the covered employee engaged in improper program management—
+
+(1) that jeopardized the health, safety, or security of employees or facilities of the Administration or another element of the Department of Energy involved in nuclear security; or
+
+(2) in carrying out defense nuclear nonproliferation activities.
+
+**(c) Waiver** The Secretary or the Administrator, as the case may be, may waive the limitation on the payment of a bonus under subsection (a) or (b) on a case-by-case basis if—
+
+(1) the Secretary or the Administrator, as the case may be, notifies the appropriate congressional committees of such waiver; and
+
+(2) a period of 60 days elapses following such notification.
+
+**(d) Definitions** In this section:
+
+(1) The term “appropriate congressional committees” means—
+
+  (A) the congressional defense committees; and
+
+  (B) the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
+
+(2) The term “bonus” means a bonus or award paid under title 5, including under chapters 45 or 53 of such title, or any other provision of law.
+
+(3) The term “covered employee” has the meaning given that term in [section 2443 of this title](./chapter-041-national-nuclear-security-administration.md#section-2443).
+
+
+<a id="section-2446"></a>
+## § 2446. Treatment of contractors who engage in improper program management
+**(a) In general** Except as provided by subsection (b), if the Secretary of Energy or the Administrator determines that a covered contractor engaged in improper program management that resulted in a notification under [section 2753 of this title](./chapter-042-atomic-energy-defense-provisions.md#section-2753) or significantly and detrimentally affected the cost, scope, or schedule associated with the approval of critical decision 3 in the acquisition process for a project (as defined in Department of Energy Order 413.3B (relating to program management and project management for the acquisition of capital assets)), the Secretary or the Administrator, as the case may be, shall submit to the appropriate congressional committees—
+
+(1) an explanation as to whether termination of the contract is an appropriate remedy;
+
+(2) a description of the terms of the contract regarding award fees and performance; and
+
+(3) a description of how the Secretary or the Administrator, as the case may be, plans to exercise options under the contract.
+
+**(b) Exception** If the Secretary or the Administrator, as the case may be, is not able to submit the information described in paragraphs (1) through (3) of subsection (a) by reason of a contract enforcement action, the Secretary or the Administrator, as the case may be, shall submit to the appropriate congressional committees a notification of such contract enforcement action and the date on which the Secretary or the Administrator, as the case may be, plans to submit the information described in such paragraphs.
+
+**(c) Definitions** In this section:
+
+(1) The term “appropriate congressional committees” means—
+
+  (A) the congressional defense committees; and
+
+  (B) the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
+
+(2) The term “covered contractor” means—
+
+  (A) a contractor of the Administration; or
+
+  (B) a contractor of an element of the Department of Energy (other than the Administration) involved in nuclear security.
 
 
 <a id="section-2451"></a>
@@ -728,7 +830,7 @@ Pub. L. 111–84, div. C, title XXXI, § 3141, Oct. 28, 2009, 123 Stat. 2715, pr
 
 **(c) Submission of plan and report** The Administrator shall submit to Congress each year, at or about the time that the President’s budget is submitted to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), each of the following:
 
-(1) The plan required by subsection (b) of this section prepared with respect to that budget.
+(1) The plan required by subsection (b) prepared with respect to that budget.
 
 (2) A report on the plans prepared with respect to the preceding years’ budgets, which shall include, for each goal provided in those plans—
 
@@ -797,11 +899,11 @@ Pub. L. 106–398, § 1 [div. C, title XXXI, § 3158(b), (c)], Oct. 30, 2000, 11
 
 (2) Amounts referred to in paragraph (1) are the following:
 
-  (A) The amounts specified in program and budget information submitted to Congress by the Administrator in support of expenditure estimates and proposed appropriations in the budget submitted to Congress by the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim) for any fiscal year, as shown in the future-years nuclear security program submitted pursuant to subsection (a) of this section.
+  (A) The amounts specified in program and budget information submitted to Congress by the Administrator in support of expenditure estimates and proposed appropriations in the budget submitted to Congress by the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim) for any fiscal year, as shown in the future-years nuclear security program submitted pursuant to subsection (a).
 
   (B) The total amounts of estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the Administration included pursuant to paragraph (5) of section 1105(a) of such title in the budget submitted to Congress under that section for any fiscal year.
 
-**(d) Treatment of management contingencies** Nothing in this section shall be construed to prohibit the inclusion in the future-years nuclear security program of amounts for management contingencies, subject to the requirements of subsection (c) of this section.
+**(d) Treatment of management contingencies** Nothing in this section shall be construed to prohibit the inclusion in the future-years nuclear security program of amounts for management contingencies, subject to the requirements of subsection (c).
 
 ### Statutory Notes
 
@@ -860,13 +962,15 @@ Pub. L. 108–136, div. C, title XXXI, § 3121(b), Nov. 24, 2003, 117 Stat. 1747
 
 (1) For the nuclear security budget materials submitted in each fiscal year by the Administrator, the Comptroller General of the United States shall conduct a study on whether both the budget for the fiscal year following the fiscal year in which such budget materials are submitted and the future-years nuclear security program submitted to Congress in relation to such budget under [section 2453 of this title](./chapter-041-national-nuclear-security-administration.md#section-2453) provide for funding of the nuclear security enterprise at a level that is sufficient for the modernization and refurbishment of the nuclear security enterprise.
 
-(2) Not later than 90 days after the date on which the Administrator submits the nuclear security budget materials, the Comptroller General shall submit to the congressional defense committees a report on the study under paragraph (1), including—
+(2) Not later than 90 days after the date on which the Administrator submits the nuclear security budget materials in an even-numbered year, and not later than 150 days after the date on which the Administrator submits such materials in an odd-numbered year, the Comptroller General shall submit to the congressional defense committees a report on the study under paragraph (1), including—
 
   (A) the findings of such study; and
 
   (B) whether the nuclear security budget materials support the requirements for infrastructure recapitalization of the facilities of the nuclear security enterprise.
 
-**(b) Definitions** In this section:
+**(b) Temporary suspension** The requirements of subsection (a) shall not apply with respect to the nuclear security budget materials submitted for fiscal year 2018 or 2019.
+
+**(c) Definitions** In this section:
 
 (1) The term “budget” means the budget for a fiscal year that is submitted to Congress by the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim).
 
@@ -875,6 +979,10 @@ Pub. L. 108–136, div. C, title XXXI, § 3121(b), Nov. 24, 2003, 117 Stat. 1747
 ### Statutory Notes
 
 #### Amendments
+2016—Subsecs. (b), (c). Pub. L. 114–328 added subsec. (b) and redesignated former subsec. (b) as (c).
+
+2015—Subsec. (a)(2). Pub. L. 114–92 inserted “in an even-numbered year, and not later than 150 days after the date on which the Administrator submits such materials in an odd-numbered year” before “, the Comptroller General” in introductory provisions.
+
 2013—Subsec. (a). Pub. L. 112–239, § 3132(a)(2)(A), substituted “nuclear security enterprise” for “nuclear security complex” wherever appearing.
 
 Subsec. (b)(3). Pub. L. 112–239, § 3132(a)(2)(B), struck out par. (3), which defined “nuclear security complex”.
@@ -958,6 +1066,9 @@ The Secretary of Energy, in consultation with the Administrator, shall establish
 
 #### Amendments
 2013—Pub. L. 113–66 inserted “of Energy” after “Secretary”.
+
+#### Establishment of Microlab Pilot Program
+Pub. L. 114–92, div. C, title XXXI, § 3120, Nov. 25, 2015, 129 Stat. 1198, provided that: “(a) In General.—The Secretary of Energy, in consultation with the directors of the national security laboratories, may establish a microlab pilot program under which the Secretary establishes a microlab for the purposes of—“(1) enhancing collaboration with regional research groups, such as institutions of higher education and industry groups; “(2) accelerating technology transfer from national security laboratories to the marketplace; and “(3) promoting regional workforce development through science, technology, engineering, and mathematics instruction and training. “(b) Criteria.—“(1) In general.—In determining the placement of a microlab under subsection (a), the Secretary shall consider—“(A) the interest of a national security laboratory in establishing a microlab; “(B) the existence of an available facility that has the capability to house a microlab; “(C) whether employees of a national security laboratory and persons from academia, industry, and government are available to be assigned to the microlab; and “(D) cost-sharing or in-kind contributions from State and local governments and private industry. “(2) Cost-sharing.—The Secretary shall, to the extent feasible, require cost-sharing or in-kind contributions described in paragraph (1)(D) to cover the full cost of the microlab under subsection (a). “(c) Timing.—If the Secretary, in consultation with the directors of the national security laboratories, elects to establish a microlab pilot program under this section, the Secretary, in collaboration with such directors, shall—“(1) not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], begin the process of determining the placement of the microlab under subsection (a); and “(2) not later than one year after such date of enactment, implement the microlab pilot program under this section. “(d) Reports Required.—If the Secretary, in consultation with the directors of the national security laboratories, elects to establish a microlab pilot program under this section, the Secretary shall submit to the appropriate congressional committees—“(1) not later than 120 days after the date of the implementation of the program, a report that provides an update on the implementation of the program; and “(2) not later than one year after the date of the implementation of the program, a report on the program, including findings and recommendations of the Secretary with respect to the program. “(e) Definitions.—In this section:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Armed Services and the Committee on Energy and Natural Resources of the Senate; and “(B) the Committee on Armed Services, the Committee on Science, Space, and Technology, and the Committee on Energy and Commerce of the House of Representatives. “(2) Microlab.—The term ‘microlab’ means a facility that is—“(A) in close proximity to, but outside the perimeter of, a national security laboratory; “(B) an extension of or affiliated with a national security laboratory; and “(C) accessible to the public. “(3) National security laboratory.—The term ‘national security laboratory’ has the meaning given that term in section 3281 of the National Nuclear Security Administration Act ([50 U.S.C. 2471](./chapter-041-national-nuclear-security-administration.md#section-2471)).”
 
 
 <a id="section-2465"></a>
@@ -1097,7 +1208,7 @@ Section 2483, Pub. L. 106–65, div. C, title XXXII, § 3295, Oct. 5, 1999, 113 
 <a id="section-2484"></a>
 ## § 2484. Applicability of preexisting laws and regulations
 
-With respect to any facility, mission, or function of the Department of Energy that the Secretary of Energy transfers to the Administrator under section 3291, unless otherwise provided in this chapter, all provisions of law and regulations in effect immediately before the date of the transfer that are applicable to such facility, mission, or function shall continue to apply to the corresponding functions of the Administration.
+With respect to any facility, mission, or function of the Department of Energy that the Secretary of Energy transfers to the Administrator under [section 2481 of this title](./chapter-041-national-nuclear-security-administration.md#section-2481), unless otherwise provided in this chapter, all provisions of law and regulations in effect immediately before the date of the transfer that are applicable to such facility, mission, or function shall continue to apply to the corresponding functions of the Administration.
 
 ### Statutory Notes
 

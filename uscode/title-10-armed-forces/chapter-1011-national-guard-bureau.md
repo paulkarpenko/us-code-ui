@@ -21,7 +21,7 @@ Provisions similar to those in this section were contained in [section 3040(a) o
 2008—Subsec. (a). Pub. L. 110–181 substituted “joint activity of the Department of Defense” for “joint bureau of the Department of the Army and the Department of the Air Force”.
 
 #### Effective Date
-Section 904(d) of Pub. L. 103–337, as amended by Pub. L. 104–106, div. A, title XV, § 1504(a)(6), Feb. 10, 1996, 110 Stat. 513, provided that: “The provisions of chapter 1011 of title 10, United States Code, as added by subsection (a), shall become effective, and the repeal made by subsection (b) [repealing [section 3040 of this title](./chapter-305-the-army-staff.md#section-3040)] and the amendment made by subsection (c) [amending [section 108 of Title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section108&num=0&edition=prelim), National Guard] shall take effect, at the end of the 90-day period beginning on the date of the enactment of this Act [Oct. 5, 1994].”
+Pub. L. 103–337, div. A, title IX, § 904(d), Oct. 5, 1994, 108 Stat. 2827, as amended by Pub. L. 104–106, div. A, title XV, § 1504(a)(6), Feb. 10, 1996, 110 Stat. 513, provided that: “The provisions of chapter 1011 of title 10, United States Code, as added by subsection (a), shall become effective, and the repeal made by subsection (b) [repealing [section 3040 of this title](./chapter-305-the-army-staff.md#section-3040)] and the amendment made by subsection (c) [amending [section 108 of Title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section108&num=0&edition=prelim), National Guard] shall take effect, at the end of the 90-day period beginning on the date of the enactment of this Act [Oct. 5, 1994].”
 
 
 <a id="section-10502"></a>
@@ -106,6 +106,9 @@ Subsec. (d). Pub. L. 110–181, § 1811(b), substituted “general” for “lie
 
 Subsec. (e). Pub. L. 108–375, § 507(a), added subsec. (e).
 
+#### Effective Date
+Section effective at end of 90-day period beginning on Oct. 5, 1994, see section 904(d) of Pub. L. 103–337, set out as a note under [section 10501 of this title](./chapter-1011-national-guard-bureau.md#section-10501).
+
 
 <a id="section-10503"></a>
 ## § 10503. Functions of National Guard Bureau: charter
@@ -161,6 +164,9 @@ Pub. L. 110–181, § 1813(b)(1), in introductory provisions, substituted “The
 
 Pars. (2) to (14). Pub. L. 110–181, § 1813(a), (b)(2), added pars. (2) and (13), redesignated former pars. (2) to (11) as (3) to (12), respectively, and former par. (12) as (14), and substituted “the Secretary of Defense” for “the Secretaries” in par. (14).
 
+#### Effective Date
+Section effective at end of 90-day period beginning on Oct. 5, 1994, see section 904(d) of Pub. L. 103–337, set out as a note under [section 10501 of this title](./chapter-1011-national-guard-bureau.md#section-10501).
+
 #### Annual Preparation of Future Years Defense Plan
 Pub. L. 104–196, § 123, Sept. 16, 1996, 110 Stat. 2392, provided that: “The National Guard Bureau shall annually prepare a future years defense plan based on the requirement and priorities of the National Guard: Provided, That this plan shall be presented to the committees of Congress concurrent with the President’s budget submission for each fiscal year.”
 
@@ -170,6 +176,11 @@ Pub. L. 104–196, § 123, Sept. 16, 1996, 110 Stat. 2392, provided that: “The
 **(a) Annual Report.—** The Chief of the National Guard Bureau shall submit to the Secretary of Defense, through the Secretaries of the Army and the Air Force, an annual report on the state of the National Guard and the ability of the National Guard to meet its missions. The report shall be prepared in conjunction with the Secretary of the Army and the Secretary of the Air Force and may be submitted in classified and unclassified versions.
 
 **(b) Submission of Report to Congress.—** The Secretary of Defense shall transmit the annual report of the Chief of the National Guard Bureau to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under [section 113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/c&num=0&edition=prelim) is submitted to Congress.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective at end of 90-day period beginning on Oct. 5, 1994, see section 904(d) of Pub. L. 103–337, set out as a note under [section 10501 of this title](./chapter-1011-national-guard-bureau.md#section-10501).
 
 
 <a id="section-10505"></a>
@@ -182,11 +193,9 @@ Pub. L. 104–196, § 123, Sept. 16, 1996, 110 Stat. 2392, provided that: “The
 
   (B) are recommended by the Secretary of the Army, in the case of officers of the Army National Guard of the United States, or by the Secretary of the Air Force, in the case of officers of the Air National Guard of the United States, and by the Secretary of Defense;
 
-  (C) are determined by the Chairman of the Joint Chiefs of Staff, in accordance with criteria and as a result of a process established by the Chairman, to have significant joint duty experience;
+  (C) are determined by the Chairman of the Joint Chiefs of Staff, in accordance with criteria and as a result of a process established by the Chairman, to have significant joint duty experience; and
 
-  (D) have had at least 10 years of federally recognized commissioned service in an active status in the National Guard; and
-
-  (E) are in a grade above the grade of brigadier general.
+  (D) have had at least 10 years of federally recognized commissioned service in an active status in the National Guard.
 
 (2) The Chief of the National Guard Bureau and the Vice Chief of the National Guard Bureau may not both be members of the Army or of the Air Force.
 
@@ -196,19 +205,23 @@ Pub. L. 104–196, § 123, Sept. 16, 1996, 110 Stat. 2392, provided that: “The
 
   (B) The term of the Vice Chief of the National Guard Bureau shall end upon the appointment of a Chief of the National Guard Bureau who is a member of the same armed force as the Vice Chief.
 
-(4) The Secretary of Defense may waive the restrictions in paragraph (2) and the provisions of paragraph (3)(B) for a limited period of time to provide for the orderly transition of officers appointed to serve in the positions of Chief of the National Guard Bureau and the Vice Chief of the National Guard Bureau.
+(4) The Secretary of Defense may waive the restrictions in paragraph (2) and the provisions of paragraph (3) for not more than 90 days to provide for the orderly transition of officers appointed to serve in the positions of Chief of the National Guard Bureau and the Vice Chief of the National Guard Bureau.
 
 **(b) Duties.—** The Vice Chief of the National Guard Bureau performs such duties as may be prescribed by the Chief of the National Guard Bureau.
-
-**(c) Grade and Exclusion From General and Flag Officer Authorized Strength.—**
-
-(1) The Vice Chief of the National Guard Bureau shall be appointed to serve in the grade of lieutenant general.
-
-(2) The Secretary of Defense shall designate, pursuant to subsection (b) of [section 526 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-526), the position of Vice Chief of the National Guard Bureau as one of the general officer and flag officer positions to be excluded from the limitations in subsection (a) of such section.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a)(1)(E). Pub. L. 114–328, § 502(rr)(1), struck out subpar. (E) which read as follows: “are in a grade above the grade of brigadier general.”
+
+Subsec. (a)(4). Pub. L. 114–328, § 511, substituted “paragraph (3) for not more than 90 days” for “paragraph (3)(B) for a limited period of time”.
+
+Subsec. (c). Pub. L. 114–328, § 502(rr)(2), struck out subsec. (c). Text read as follows:
+
+“(1) The Vice Chief of the National Guard Bureau shall be appointed to serve in the grade of lieutenant general.
+
+“(2) The Secretary of Defense shall designate, pursuant to subsection (b) of [section 526 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-526), the position of Vice Chief of the National Guard Bureau as one of the general officer and flag officer positions to be excluded from the limitations in subsection (a) of such section.”
+
 2011—Pub. L. 112–81, § 511(d)(1), substituted “Vice Chief of the National Guard Bureau” for “Director of the Joint Staff of the National Guard Bureau” in section catchline.
 
 Subsec. (a)(1). Pub. L. 112–81, § 511(b)(1), substituted “Vice Chief of the National Guard Bureau, appointed by the President, by and with the advice and consent of the Senate. The appointment shall be made from” for “Director of the Joint Staff of the National Guard Bureau, selected by the Secretary of Defense from” in introductory provisions.
@@ -242,6 +255,9 @@ Pub. L. 112–81, div. A, title V, § 511(c)(3), Dec. 31, 2011, 125 Stat. 1393, 
 
 Pub. L. 108–375, div. A, title V, § 508(d), Oct. 28, 2004, 118 Stat. 1877, provided that: “Any reference in any law, regulation, document, paper, or other record of the United States to the Vice Chief of the National Guard Bureau shall be deemed to be a reference to the Director of the Joint Staff of the National Guard Bureau.”
 
+#### Effective Date
+Section effective at end of 90-day period beginning on Oct. 5, 1994, see section 904(d) of Pub. L. 103–337, set out as a note under [section 10501 of this title](./chapter-1011-national-guard-bureau.md#section-10501).
+
 #### Treatment of Current Director of the Joint Staff of the National Guard Bureau
 Pub. L. 112–81, div. A, title V, § 511(e), Dec. 31, 2011, 125 Stat. 1393, provided that: “The officer who is serving as Director of the Joint Staff of the National Guard Bureau on the date of the enactment of this Act [Dec. 31, 2011] shall serve, in the grade of major general, as acting Vice Chief of the National Guard Bureau until the appointment of a Vice Chief of the National Guard Bureau in accordance with subsection (a) of [section 10505 of title 10](./chapter-1011-national-guard-bureau.md#section-10505), United States Code, as amended by subsection (b). Notwithstanding the amendment made by subsection (b)(3) [amending this section], the acting Vice Chief of the National Guard Bureau shall not be excluded from the limitations in section 526(a) of such title.”
 
@@ -252,9 +268,9 @@ Pub. L. 112–81, div. A, title V, § 511(e), Dec. 31, 2011, 125 Stat. 1393, pro
 
 (1) In addition to the Chief and Vice Chief of the National Guard Bureau, there shall be assigned to the National Guard Bureau—
 
-  (A) two general officers selected by the Secretary of the Army (after consultation with the Chief of the National Guard Bureau) from officers of the Army National Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom shall be appointed in accordance with paragraph (3), shall hold the grade of lieutenant general while so serving, and shall serve as Director, Army National Guard, with the other serving as Deputy Director, Army National Guard; and
+  (A) two officers selected by the Secretary of the Army (after consultation with the Chief of the National Guard Bureau) from officers of the Army National Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom shall be appointed in accordance with paragraph (3) and shall serve as Director, Army National Guard, with the other serving as Deputy Director, Army National Guard; and
 
-  (B) two general officers selected by the Secretary of the Air Force (after consultation with the Chief of the National Guard Bureau) from officers of the Air National Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom shall be appointed in accordance with paragraph (3), shall hold the grade of lieutenant general while so serving, and shall serve as Director, Air National Guard, with the other serving as Deputy Director, Air National Guard.
+  (B) two officers selected by the Secretary of the Air Force (after consultation with the Chief of the National Guard Bureau) from officers of the Air National Guard of the United States who have been nominated by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard, the senior of whom shall be appointed in accordance with paragraph (3) and shall serve as Director, Air National Guard, with the other serving as Deputy Director, Air National Guard.
 
 (2) The Director and Deputy Director, Army National Guard, and the Director and Deputy Director, Air National Guard, shall assist the Chief of the National Guard Bureau in carrying out the functions of the National Guard Bureau as they relate to their respective branches.
 
@@ -277,6 +293,10 @@ Pub. L. 112–81, div. A, title V, § 511(e), Dec. 31, 2011, 125 Stat. 1393, pro
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a)(1)(A), (B). Pub. L. 114–328, § 502(ss)(2), which directed amendment of subpars. (A) and (B) by striking “, and shall hold the grade of lieutenant general while so serving,” was executed by striking “, shall hold the grade of lieutenant general while so serving,” after “in accordance with paragraph (3)” to reflect the probable intent of Congress.
+
+Pub. L. 114–328, § 502(ss)(1), which directed amendment of subpars. (A) and (B) by striking “general”, was executed by striking “general” before “officers selected” to reflect the probable intent of Congress.
+
 2014—Subsec. (a)(1)(A). Pub. L. 113–291, § 512(a)(1), inserted “(after consultation with the Chief of the National Guard Bureau)” after “selected by the Secretary of the Army”.
 
 Subsec. (a)(1)(B). Pub. L. 113–291, § 512(a)(2), inserted “(after consultation with the Chief of the National Guard Bureau)” after “selected by the Secretary of the Air Force”.
@@ -305,6 +325,9 @@ Pub. L. 113–291, div. A, title V, § 512(d), Dec. 19, 2014, 128 Stat. 3358, pr
 #### Effective Date of 1999 Amendment; Applicability to Incumbents
 Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who is a covered position incumbent who is appointed under that amendment to the grade of lieutenant general or vice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as a note under [section 3038 of this title](./chapter-305-the-army-staff.md#section-3038).
 
+#### Effective Date
+Section effective at end of 90-day period beginning on Oct. 5, 1994, see section 904(d) of Pub. L. 103–337, set out as a note under [section 10501 of this title](./chapter-1011-national-guard-bureau.md#section-10501).
+
 
 <a id="section-10507"></a>
 ## § 10507. National Guard Bureau: assignment of officers of regular or reserve components
@@ -328,10 +351,33 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 <a id="section-10508"></a>
 ## § 10508. National Guard Bureau: general provisions
+**(a) Manpower Requirements of National Guard Bureau.—** The manpower requirements of the National Guard Bureau as a joint activity of the Department of Defense shall be determined in accordance with regulations prescribed by the Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff.
 
-The manpower requirements of the National Guard Bureau as a joint activity of the Department of Defense shall be determined in accordance with regulations prescribed by the Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff.
+**(b) Personnel for Functions of National Guard Bureau.—**
+
+(1) **In general.—** — The Chief of the National Guard Bureau may program for, appoint, employ, administer, detail, and assign persons under sections 2103, 2105, and 3101 of title 5, or [section 328 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section328&num=0&edition=prelim), within the National Guard Bureau and the National Guard of each State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands to execute the functions of the National Guard Bureau and the missions of the National Guard, and missions as assigned by the Chief of the National Guard Bureau.
+
+(2) **Administration through adjutants general.—** — The Chief of the National Guard Bureau may designate the adjutants general referred to in [section 314 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section314&num=0&edition=prelim) to appoint, employ, and administer the National Guard employees authorized by this subsection.
+
+(3) **Administrative actions.—** — Notwithstanding the Intergovernmental Personnel Act of 1970 ([42 U.S.C. 4701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4701&num=0&edition=prelim) et seq.) and under regulations prescribed by the Chief of the National Guard Bureau, all personnel actions or conditions of employment, including adverse actions under title 5, pertaining to a person appointed, employed, or administered by an adjutant general under this subsection shall be accomplished by the adjutant general of the jurisdiction concerned. For purposes of any administrative complaint, grievance, claim, or action arising from, or relating to, such a personnel action or condition of employment:
+
+  (A) The adjutant general of the jurisdiction concerned shall be considered the head of the agency and the National Guard of the jurisdiction concerned shall be considered the employing agency of the individual and the sole defendant or respondent in any administrative action.
+
+  (B) The National Guard of the jurisdiction concerned shall defend any administrative complaint, grievance, claim, or action, and shall promptly implement all aspects of any final administrative order, judgment, or decision.
+
+  (C) In any civil action or proceeding brought in any court arising from an action under this section, the United States shall be the sole defendant or respondent.
+
+  (D) The Attorney General of the United States shall defend the United States in actions arising under this section described in subparagraph (C).
+
+  (E) Any settlement, judgment, or costs arising from an action described in subparagraph (A) or (C) shall be paid from appropriated funds allocated to the National Guard of the jurisdiction concerned.
 
 ### Statutory Notes
 
+#### References in Text
+The Intergovernmental Personnel Act of 1970, referred to in subsec. subsec. (b)(3), is Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, which is classified principally to chapter 62 (§ 4701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4701 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4701&num=0&edition=prelim) and Tables.
+
 #### Prior Provisions
 A prior section 10508, added Pub. L. 103–337, div. A, title IX, § 904(a), Oct. 5, 1994, 108 Stat. 2827, defined “State” for purposes of this chapter, prior to repeal by Pub. L. 104–106, div. A, title XV, § 1501(b)(7)(A), Feb. 10, 1996, 110 Stat. 496.
+
+#### Amendments
+2016—Pub. L. 114–328 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).

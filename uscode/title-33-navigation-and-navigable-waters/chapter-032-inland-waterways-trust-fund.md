@@ -115,7 +115,7 @@ Section 158 of the Water Resources Development Act of 1976 (Public Law 94–587)
 1995—Subsec. (f)(1). Pub. L. 104–88 substituted “as set forth in sections 10101 and 13101 of title 49” for “as set forth in the preamble to the Transportation Act of 1940”.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 #### Short Title
 For short title of title II of Pub. L. 95–502 as the “Inland Waterways Revenue Act of 1978”, see section 201 of Pub. L. 95–502, set out as a Short Title of 1978 Amendment note under [section 1 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim), Internal Revenue Code.

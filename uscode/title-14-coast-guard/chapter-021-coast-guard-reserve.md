@@ -268,12 +268,12 @@ No member of the Reserve, other than a temporary member, may be a member of anot
 Provisions similar to those in this section were contained in [section 757 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section757&num=0&edition=prelim) prior to the complete revision of this chapter by Pub. L. 96–322.
 
 #### Amendments
-1981—Pub. L. 97–136 struck out provision that a member of the Reserve, other than a temporary member, is exempt from registration and liability for military training and service under any other law, and substituted “Exclusiveness of service” for “Exemption from military training and draft; exclusiveness of service” in section catchline.
+1981—Pub. L. 97–136 struck out provision that a member of the Reserve, other than a temporary member, is exempt from registration and liability for military training and service under any other law, and substituted “Exclusiveness of service” for “Exemption from military training and draft; exclusiveness of service” in section catchline.k
 
 
 <a id="section-712"></a>
 ## § 712. Active duty for emergency augmentation of regular forces
-**(a)** Notwithstanding another law, and for the emergency augmentation of the Regular Coast Guard forces during a, or to aid in prevention of an imminent, serious natural or manmade disaster, accident, catastrophe, act of terrorism (as defined in section 2(16) of the Homeland Security Act of 2002 ([6 U.S.C. 101(16)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101/16&num=0&edition=prelim))), or transportation security incident as defined in [section 70101 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70101&num=0&edition=prelim), the Secretary may, without the consent of the member affected, order to active duty of not more than 120 days in any 2-year period an organized training unit of the Coast Guard Ready Reserve, a member thereof, or a member not assigned to a unit organized to serve as a unit.
+**(a)** Notwithstanding another law, and for the emergency augmentation of the Regular Coast Guard forces during a, or to aid in prevention of an imminent, serious natural or manmade disaster, accident, catastrophe, act of terrorism (as defined in section 2 of the Homeland Security Act of 2002 ([6 U.S.C. 101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim))), or transportation security incident as defined in [section 70101 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70101&num=0&edition=prelim), the Secretary may, without the consent of the member affected, order to active duty of not more than 120 days in any 2-year period an organized training unit of the Coast Guard Ready Reserve, a member thereof, or a member not assigned to a unit organized to serve as a unit.
 
 **(b)** Under the circumstances of the domestic emergency involved, a reasonable time shall be allowed between the date when a Reserve member ordered to active duty under this section is alerted for that duty and the date when the member is required to enter upon that duty. Unless the Secretary determines that the nature of the domestic emergency does not allow it, this period shall be at least two days.
 
@@ -295,6 +295,8 @@ Provisions similar to those in this section were contained in [section 757 of th
 Provisions similar to those in this section were contained in [section 764 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section764&num=0&edition=prelim) prior to the complete revision of this chapter by Pub. L. 96–322.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328 substituted “section 2 of the Homeland Security Act of 2002 ([6 U.S.C. 101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim))” for “section 2(16) of the Homeland Security Act of 2002 ([6 U.S.C. 101(16)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101/16&num=0&edition=prelim))”.
+
 2014—Subsec. (a). Pub. L. 113–281 struck out “not more than 60 days in any 4-month period and” before “not more than 120 days”.
 
 2007—Subsec. (a). Pub. L. 110–53 substituted “section 2(16) of the Homeland Security Act of 2002 ([6 U.S.C. 101(16)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101/16&num=0&edition=prelim))” for “section 2(15) of the Homeland Security Act of 2002 ([6 U.S.C. 101(15)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101/15&num=0&edition=prelim))”.
@@ -825,13 +827,15 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 **(b)** A Reserve officer on active duty shall, if qualified, be retired effective upon the day the officer become 62 years of age. If not qualified for retirement, a Reserve officer on active duty shall be discharged effective upon the day the officer becomes 62 years of age.
 
-**(c)** Notwithstanding subsection 11 So in original. Probably should be “subsections”. (a) and (b), the Secretary may authorize the retention of a Reserve rear admiral or rear admiral (lower half) in an active status not longer than the day on which the officer concerned becomes 64 years of age.
+**(c)** Notwithstanding subsections (a) and (b), the Secretary may authorize the retention of a Reserve rear admiral or rear admiral (lower half) in an active status not longer than the day on which the officer concerned becomes 64 years of age.
 
 **(d)** For purposes of this section, “active duty” does not include active duty for training, duty on a board, or duty of a limited or temporary nature if assigned to active duty from an inactive duty status.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (c). Pub. L. 114–120 substituted “subsections” for “subsection”.
+
 2004—Pub. L. 108–293 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
 “(a) A Reserve officer, if qualified, shall be transferred to the Retired Reserve on the day the officer becomes sixty-two years of age.

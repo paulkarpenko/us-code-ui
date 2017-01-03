@@ -2,7 +2,7 @@
 title: 16
 chapter: '88'
 heading: WESTERN AND CENTRAL PACIFIC FISHERIES CONVENTION
-section_count: 10
+section_count: 11
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -58,7 +58,7 @@ Pub. L. 109–479, title V, § 501, Jan. 12, 2007, 120 Stat. 3635, provided that
 
 <a id="section-6902"></a>
 ## § 6902. Appointment of United States Commissioners
-**(a) In general** The United States shall be represented on the Commission by 5 United States Commissioners. The President shall appoint individuals to serve on the Commission at the pleasure of the President. In making the appointments, the President shall select Commissioners from among individuals who are knowledgeable or experienced concerning highly migratory fish stocks in the Western and Central Pacific Ocean, one of whom shall be an officer or employee of the Department of Commerce, and one of whom shall be the chairman or a member of the Western Pacific Fishery Management Council, and one of whom shall be the chairman or a member of the Pacific Fishery Management Council. The Commissioners shall be entitled to adopt such rules of procedures as they find necessary and to select a chairman from among members who are officers or employees of the United States Government.
+**(a) In general** The United States shall be represented on the Commission by 5 United States Commissioners. The President shall appoint individuals to serve on the Commission at the pleasure of the President. In making the appointments, the President shall select Commissioners from among individuals who are knowledgeable or experienced concerning highly migratory fish stocks and commercial fishing in the Western and Central Pacific Ocean, one of whom shall be an officer or employee of the Department of Commerce, and one of whom shall be the chairman or a member of the Western Pacific Fishery Management Council, and one of whom shall be the chairman or a member of the Pacific Fishery Management Council. The Commissioners shall be entitled to adopt such rules of procedures as they find necessary and to select a chairman from among members who are officers or employees of the United States Government.
 
 **(b) Alternate Commissioners** The Secretary of State, in consultation with the Secretary, may designate from time to time and for periods of time deemed appropriate Alternate United States Commissioners to the Commission. Any Alternate United States Commissioner may exercise at any meeting of the Commission, Council, any Panel, or the advisory committee established pursuant to subsection (d), all powers and duties of a United States Commissioner in the absence of any Commissioner appointed pursuant to subsection (a) of this section for whatever reason. The number of such Alternate United States Commissioners that may be designated for any such meeting shall be limited to the number of United States Commissioners appointed pursuant to subsection (a) of this section who will not be present at such meeting.
 
@@ -92,6 +92,8 @@ Pub. L. 109–479, title V, § 501, Jan. 12, 2007, 120 Stat. 3635, provided that
 
   (D) *Provision of information* — The Secretary and the Secretary of State shall furnish the advisory committee with relevant information concerning fisheries and international fishery agreements.
 
+  (E) *Agenda recommendations* — No later than 30 days before each annual meeting of the Commission, the Advisory Committee shall transmit to the United States Commissioners recommendations relating to the agenda of the annual meeting. The recommendations must be agreed to by a majority of the Advisory Committee members. The United States Commissioners shall consider such recommendations, along with additional views transmitted by Advisory Committee members, in the formulation of the United States position for the Commission meeting and during the negotiations at that meeting.
+
 (2) **Administrative matters**
 
   (A) *Support services* — The Secretary shall provide to advisory committees in a timely manner such administrative and technical support services as are necessary for their effective functioning.
@@ -122,6 +124,10 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 The Federal Advisory Committee Act, referred to in subsec. (d)(1)(C), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–327, § 301(a)(1)(A), inserted “and commercial fishing” after “fish stocks”.
+
+Subsec. (d)(1)(E). Pub. L. 114–327, § 301(a)(1)(B), added subpar. (E).
+
 2011—Subsec. (a). Pub. L. 111–348, § 301(1), substituted “Management Council, and one of whom shall be the chairman or a member of” for “Management Council and”.
 
 Subsec. (c)(1). Pub. L. 111–348, § 301(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Individuals serving as such Commissioners, other than officers or employees of the United States Government, shall be considered to be Federal employees while performing such service, only for purposes of—
@@ -187,7 +193,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 **(b) Consistency with other laws** The Secretary shall ensure the consistency, to the extent practicable, of fishery management programs administered under this Act, the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.), the Tuna Conventions Act ([16 U.S.C. 951](./chapter-016-tuna-conventions.md#section-951) et seq.), the South Pacific Tuna Act ([16 U.S.C. 973](./chapter-16c-south-pacific-tuna-fishing.md#section-973) et seq.), section 401 of Public Law 108–219 ([16 U.S.C. 1821](./chapter-038-fishery-conservation-and-management.md#section-1821) note) (relating to Pacific albacore tuna), and the Atlantic Tunas Convention Act ([16 U.S.C. 971](./chapter-16a-atlantic-tunas-convention.md#section-971) [et seq.]).
 
-**(c) Actions by the Secretary** The Secretary shall prevent any person from violating this chapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1857](./chapter-038-fishery-conservation-and-management.md#section-1857)) were incorporated into and made a part of this chapter. Any person that violates any provision of this chapter is subject to the penalties and entitled to the privileges and immunities provided in the Magnuson-Stevens Fishery Conservation and Management Act [[16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.] in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of that Act were incorporated into and made a part of this chapter.
+**(c) Additional prohibitions and enforcement** For additional prohibitions relating to this chapter and enforcement of this chapter, see [section 1826g of this title](./chapter-038-fishery-conservation-and-management.md#section-1826g).
 
 **(d) Confidentiality**
 
@@ -210,13 +216,16 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 #### References in Text
 This Act, referred to in subsecs. (a)(1), (b), and (d), is Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3575, known as the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsecs. (b) and (c), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 The Tuna Conventions Act, referred to in subsec. (b), probably means the Tuna Conventions Act of 1950, act Sept. 7, 1950, ch. 907, 64 Stat. 777, which is classified generally to chapter 16 (§ 951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of this title](./chapter-016-tuna-conventions.md#section-951) and Tables.
 
 The South Pacific Tuna Act, referred to in subsec. (b), probably means the South Pacific Tuna Act of 1988, Pub. L. 100–330, June 7, 1988, 102 Stat. 591, which is classified generally to chapter 16C (§ 973 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 973 of this title](./chapter-16c-south-pacific-tuna-fishing.md#section-973) and Tables.
 
 The Atlantic Tunas Convention Act, referred to in subsec. (b), probably means the Atlantic Tunas Convention Act of 1975, Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 971 of this title](./chapter-16a-atlantic-tunas-convention.md#section-971) and Tables.
+
+#### Amendments
+2015—Pub. L. 114–81 amended subsec. (c) generally. Prior to amendment, text read as follows: “The Secretary shall prevent any person from violating this chapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1857](./chapter-038-fishery-conservation-and-management.md#section-1857)) were incorporated into and made a part of this chapter. Any person that violates any provision of this chapter is subject to the penalties and entitled to the privileges and immunities provided in the Magnuson-Stevens Fishery Conservation and Management Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of that Act were incorporated into and made a part of this chapter.”
 
 
 <a id="section-6906"></a>
@@ -225,7 +234,7 @@ The Atlantic Tunas Convention Act, referred to in subsec. (b), probably means th
 
 (1) to violate any provision of this chapter or any regulation or permit issued pursuant to this chapter;
 
-(2) to use any fishing vessel to engage in fishing after the revocation, or during the period of suspension, on an applicable permit issued pursuant to this chapter;
+(2) to use any fishing vessel to engage in fishing after the revocation, or during the period of suspension, of an applicable permit issued pursuant to this chapter;
 
 (3) to refuse to permit any officer authorized to enforce the provisions of this chapter to board a fishing vessel subject to such person’s control for the purposes of conducting any search, investigation, or inspection in connection with the enforcement of this chapter or any regulation, permit, or the Convention;
 
@@ -252,6 +261,11 @@ The Atlantic Tunas Convention Act, referred to in subsec. (b), probably means th
 (14) to import, in violation of any regulation adopted pursuant to [section 6905(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6905/a&num=0&edition=prelim), any fish in any form of those species subject to regulation pursuant to a recommendation, resolution, or decision of the Commission, or any tuna in any form not under regulation but under investigation by the Commission, during the period such fish have been denied entry in accordance with the provisions of [section 6905(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6905/a&num=0&edition=prelim).
 
 **(b) Entry certification** In the case of any fish described in subsection (a) offered for entry into the United States, the Secretary of Commerce shall require proof satisfactory to the Secretary that such fish is not ineligible for such entry under the terms of [section 6905(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6905/a&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendments
+2015—Subsec. (a)(2). Pub. L. 114–81 substituted “suspension, of” for “suspension, on”.
 
 
 <a id="section-6907"></a>
@@ -303,6 +317,25 @@ Masters of commercial fishing vessels of nations fishing for species under the m
 (2) ensure that all fishing gear on board the vessel is stowed below deck or otherwise removed from the place where it is normally used for fishing and placed where it is not readily available for fishing; and
 
 (3) where requested by an enforcement officer, proceed to a specified location so that a vessel inspection can be conducted.
+
+
+<a id="section-6909a"></a>
+## § 6909a. United States conservation, management, and enforcement objectives
+
+The Secretary, in consultation with the Secretary of State, in the course of negotiations, shall seek—
+
+(1) to minimize any disadvantage to United States fishermen in relation to other members of the Commission;
+
+(2) to maximize the opportunities for fishing vessels of the United States to harvest fish stocks on the high seas in the Convention area, recognizing that such harvests may be restricted if the Commission, based on the best available scientific information provided by the Scientific Committee, determines it is necessary to achieve the conservation objective set forth in Article 2 of the Convention;
+
+(3) to prevent any requirement for the transfer to other nations or foreign entities of the fishing capacity, fishing capacity rights, or fishing vessels of the United States or its territories, unless any such requirement is voluntary and market-based; and
+
+(4) to ensure that conservation and management measures take into consideration traditional fishing patterns of fishing vessels of the United States and the operating requirements of the fisheries covered by the Western and Central Pacific Convention.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 511 of Pub. L. 109–479 was renumbered section 512 and is classified to [section 6910 of this title](./chapter-088-western-and-central-pacific-fisheries-convention.md#section-6910).
 
 
 <a id="section-6910"></a>

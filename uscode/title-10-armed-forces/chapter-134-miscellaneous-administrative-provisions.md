@@ -2,7 +2,7 @@
 title: 10
 chapter: '134'
 heading: MISCELLANEOUS ADMINISTRATIVE PROVISIONS
-section_count: 30
+section_count: 31
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -41,6 +41,9 @@ Section 705 of Public Law 98–212, to be codified as [10 U.S.C. 2241(b)](https:
 
 #### Amendments
 2003—Subsec. (c). Pub. L. 108–136 added subsec. (c).
+
+#### Prohibition on Use of Funds for Certain Programs and Projects of the Department of Defense in Afghanistan That Cannot Be Safely Accessed by United States Government Personnel
+Pub. L. 114–328, div. A, title XII, § 1216, Dec. 23, 2016, 130 Stat. 2480, provided that: “(a) Prohibition.—“(1) In general.—Amounts available to the Department of Defense may not be obligated or expended for a construction or other infrastructure program or project of the Department in Afghanistan if military or civilian personnel of the United States Government or their representatives with authority to conduct oversight of such program or project cannot safely access such program or project. “(2) Applicability.—Paragraph (1) shall apply only with respect to a program or project that is initiated on or after the date of the enactment of this Act [Dec. 23, 2016]. “(b) Waiver.—“(1) In general.—The prohibition in subsection (a) may be waived with respect to a program or project otherwise covered by that subsection if a determination described in paragraph (2) is made as follows:“(A) In the case of a program or project with an estimated lifecycle cost of less than $1,000,000, by the contracting officer assigned to oversee the program or project. “(B) In the case of a program or project with an estimated lifecycle cost of $1,000,000 or more, but less than $20,000,000, by the Commander of the Combined Security Transition Command-Afghanistan. “(C) In the case of a program or project with an estimated lifecycle cost of $20,000,000 or more, but less than $40,000,000, by the Commander of United States Forces-Afghanistan. “(D) In the case of a program or project with an estimated lifecycle cost of $40,000,000 or more, by the Secretary of Defense. “(2) Determination.—A determination described in this paragraph with respect to a program or project is a determination of each of the following:“(A) That the program or project clearly contributes to United States national interests or strategic objectives. “(B) That the Government of Afghanistan has requested or expressed a need for the program or project. “(C) That the program or project has been coordinated with the Government of Afghanistan, and with any other implementing agencies or international donors. “(D) That security conditions permit effective implementation and oversight of the program or project. “(E) That the program or project includes safeguards to detect, deter, and mitigate corruption and waste, fraud, and abuse of funds. “(F) That adequate arrangements have been made for the sustainment of the program or project following its completion, including arrangements with respect to funding and technical capacity for sustainment. “(G) That meaningful metrics have been established to measure the progress and effectiveness of the program or project in meeting its objectives. “(3) Notice on certain waivers.—In the event a waiver is issued under paragraph (1) for a program or project described in subparagraph (D) of that paragraph, the Secretary of Defense shall notify Congress of the waiver not later than 15 days after the issuance of the waiver.”
 
 #### Funds Prohibited for Support of Department or Agency in Arrears in Making Payment to Department of Defense
 Pub. L. 113–235, div. C, title VIII, § 8063, Dec. 16, 2014, 128 Stat. 2268, provided that: “During the current fiscal year and hereafter, none of the funds available to the Department of Defense may be used to provide support to another department or agency of the United States if such department or agency is more than 90 days in arrears in making payment to the Department of Defense for goods or services previously provided to such department or agency on a reimbursable basis: Provided, That this restriction shall not apply if the department is authorized by law to provide support to such department or agency on a nonreimbursable basis, and is providing the requested support pursuant to such authority: Provided further, That the Secretary of Defense may waive this restriction on a case-by-case basis by certifying in writing to the Committees on Appropriations of the House of Representatives and the Senate that it is in the national security interest to do so.”
@@ -142,6 +145,13 @@ Funds available to the Department of Defense may not be obligated or expended fo
 Pub. L. 111–84, div. A, title X, § 1031(b), Oct. 28, 2009, 123 Stat. 2448, provided that: “[Section 2241a of title 10](./chapter-134-miscellaneous-administrative-provisions.md#section-2241a), United States Code, as added by subsection (a), shall take effect on October 1, 2009, or the date of the enactment of this Act [Oct. 28, 2009], whichever is later.”
 
 
+<a id="section-2241b"></a>
+## § 2241b. Prohibition on contracts providing payments for activities at sporting events to honor members of the armed forces
+**(a) Prohibition.—** The Department of Defense may not enter into any contract or other agreement under which payments are to be made in exchange for activities by the contractor intended to honor, or giving the appearance of honoring, members of the armed forces (whether members of the regular components or the reserve components) at any form of sporting event.
+
+**(b) Construction.—** Nothing in subsection (a) shall be construed as prohibiting the Department of Defense from taking actions to facilitate activities intended to honor members of the armed forces at sporting events that are provided on a pro bono basis or otherwise funded with non-Federal funds if such activities are provided and received in accordance with applicable rules and regulations regarding the acceptance of gifts by the military departments, the armed forces, and members of the armed forces.
+
+
 <a id="section-2242"></a>
 ## § 2242. Authority to use appropriated funds for certain investigations and security services
 
@@ -164,18 +174,35 @@ Paragraphs (2) and (3) are based on Pub. L. 99–190, § 101(b) [title VIII, §�
 
 
 <a id="section-2243"></a>
-## § 2243. Authority to use appropriated funds to support student meal programs in overseas dependents’ schools
-**(a) Authority.—** Subject to subsection (b), amounts appropriated to the Department of Defense for the operation of the defense dependents’ education system may be used by the Secretary of Defense to enable an overseas meal program to provide students enrolled in that system with meals at a price equal to the average price paid by students for equivalent meals under a comparable public school meal program in the United States.
+## § 2243. Authority to use appropriated funds to support student meal programs in overseas defense dependents’ schools
+**(a) Authority.—** Subject to subsection (b), amounts appropriated to the Department of Defense for the operation of overseas defense dependents’ schools may be used by the Secretary of Defense to enable an overseas meal program to provide students enrolled in such a school with meals at a price equal to the average price paid by students for equivalent meals under a comparable public school meal program in the United States.
 
 **(b) Limitation.—** The authority provided by subsection (a) may be used only if the Secretary of Defense determines that Federal payments and commodities provided under section 20 of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1769b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1769b&num=0&edition=prelim)) and section 20 of the Child Nutrition Act of 1966 ([42 U.S.C. 1789](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1789&num=0&edition=prelim)) to support an overseas meal program are insufficient to provide meals under that program at a price for students equal to the average price paid by students for equivalent meals under a comparable public school meal program in the United States.
 
 **(c) Determining Average Price.—** In determining the average price paid by students in the United States for meals under a school meal program, the Secretary of Defense shall exclude free and reduced price meals provided pursuant to income guidelines.
 
-**(d) Overseas Meal Program Defined.—** In this section, the term “overseas meal program” means a program administered by the Secretary of Defense to provide breakfasts or lunches to students attending Department of Defense dependents’ schools which are located outside the United States.
+**(d) Overseas Meal Program Defined.—** In this section, the term “overseas meal program” means a program administered by the Secretary of Defense to provide breakfasts or lunches to students attending overseas defense dependents’ schools.
+
+**(e) Overseas Defense Dependents’ School Defined.—** In this section, the term “overseas defense dependents’ school” means the following:
+
+(1) A school established as part of the defense dependents’ education system provided for under the Defense Dependents’ Education Act of 1978 ([20 U.S.C. 921](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section921&num=0&edition=prelim) et seq.).
+
+(2) An elementary or secondary school established pursuant to [section 2164 of this title](./chapter-108-department-of-defense-schools.md#section-2164) that is located in a territory, commonwealth, or possession of the United States.
 
 ### Statutory Notes
 
+#### References in Text
+The Defense Dependents’ Education Act of 1978, referred to in subsec. (e)(1), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 921 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section921&num=0&edition=prelim) and Tables.
+
 #### Amendments
+2015—Pub. L. 114–92, § 573(b)(1), substituted “Authority to use appropriated funds to support student meal programs in overseas defense dependents’ schools” for “Authority to use appropriated funds to support student meal programs in overseas dependents’ schools” in section catchline.
+
+Subsec. (a). Pub. L. 114–92, § 573(a)(1), substituted “overseas defense dependents’ schools” for “the defense dependents’ education system” and “students enrolled in such a school” for “students enrolled in that system”.
+
+Subsec. (d). Pub. L. 114–92, § 573(a)(2), substituted “overseas defense dependents’ schools” for “Department of Defense dependents’ schools which are located outside the United States”.
+
+Subsec. (e). Pub. L. 114–92, § 573(a)(3), added subsec. (e).
+
 1999—Subsec. (b). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
 
@@ -241,9 +268,11 @@ Provisions similar to those in this section were contained in Pub. L. 101–165,
 
 
 <a id="section-2245a"></a>
-## § 2245a. Use of operation and maintenance funds for purchase of investment items: limitation
+## § 2245a. Repealed. Pub. L. 114–328, div. A, title VIII, § 833(b)(1)(A), Dec. 23, 2016, 130 Stat. 2284]
 
-Funds appropriated to the Department of Defense for operation and maintenance may not be used to purchase any item (including any item to be acquired as a replacement for an item) that has an investment item unit cost that is greater than $250,000.
+### Statutory Notes
+
+Section, added Pub. L. 109–163, div. A, title III, § 373(a), Jan. 6, 2006, 119 Stat. 3210, related to use of operation and maintenance funds for purchase of investment items: limitation.
 
 
 <a id="section-2246"></a>
@@ -282,44 +311,7 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 
 <a id="section-2249a"></a>
-## § 2249a. Prohibition on providing financial assistance to terrorist countries
-**(a) Prohibition.—** Funds available to the Department of Defense may not be obligated or expended to provide financial assistance to—
-
-(1) any country with respect to which the Secretary of State has made a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A));
-
-(2) any country identified in the latest report submitted to Congress under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 ([22 U.S.C. 2656f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656f&num=0&edition=prelim)), as providing significant support for international terrorism; or
-
-(3) any other country that, as determined by the President—
-
-  (A) grants sanctuary from prosecution to any individual or group that has committed an act of international terrorism; or
-
-  (B) otherwise supports international terrorism.
-
-**(b) Waiver.—**
-
-(1) The President may waive the application of subsection (a) to a country if the President determines—
-
-  (A) that it is in the national security interests of the United States to do so; or
-
-  (B) that the waiver should be granted for humanitarian reasons.
-
-(2) The President shall—
-
-  (A) notify the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on International Relations of the House of Representatives at least 15 days before the waiver takes effect; and
-
-  (B) publish a notice of the waiver in the Federal Register.
-
-**(c) Definition.—** In this section, the term “international terrorism” has the meaning given that term in section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 ([22 U.S.C. 2656f(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656f/d&num=0&edition=prelim)).
-
-### Statutory Notes
-
-#### Amendments
-1999—Subsec. (b)(2)(A). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
-
-1997—Subsec. (a)(1). Pub. L. 105–85 substituted “50 U.S.C. App. 2405(j)(1)(A)” for “50 App. 2405(j)”.
-
-#### Change of Name
-Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+## § 2249a. Renumbered § 361]
 
 
 <a id="section-2249b"></a>
@@ -339,146 +331,15 @@ Subsec. (a). Pub. L. 112–239, § 588(a), amended subsec. (a) generally. Prior 
 
 
 <a id="section-2249c"></a>
-## § 2249c. Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials
-**(a) Authority To Use Funds.—** Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense may be used to pay any costs associated with the education and training of foreign military officers, ministry of defense officials, or security officials at military or civilian educational institutions, regional centers, conferences, seminars, or other training programs conducted under the Regional Defense Combating Terrorism Fellowship Program. Costs for which payment may be made under this section include the costs of transportation and travel and subsistence costs.
-
-**(b) Limitation.—** The total amount of funds used under the authority in subsection (a) in any fiscal year may not exceed $35,000,000. Amounts available under the authority in subsection (a) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.
-
-**(c) Annual Report.—** Not later than December 1 of each year, the Secretary of Defense shall submit to Congress a report on the administration of this section during the fiscal year ended in such year. The report shall include the following matters:
-
-(1) A complete accounting of the expenditure of appropriated funds for purposes authorized under subsection (a), including—
-
-  (A) the countries of the foreign officers and officials for whom costs were paid; and
-
-  (B) for each such country, the total amount of the costs paid.
-
-(2) The training courses attended by the foreign officers and officials, including a specification of which, if any, courses were conducted in foreign countries.
-
-(3) An assessment of the effectiveness of the program referred to in subsection (a), including engagement activities for program alumni, in increasing the cooperation of the governments of foreign countries with the United States in the global war on terrorism.
-
-(4) A discussion of any actions being taken to improve the program, including a list of any unfunded or unmet training requirements and requests.
-
-(5) A discussion and justification of how the program fits within the theater security priorities of each of the commanders of the geographic combatant commands.
-
-### Statutory Notes
-
-#### Amendments
-2013—Subsec. (c)(3). Pub. L. 113–66, § 1032(a)(1), inserted “, including engagement activities for program alumni,” after “subsection (a)”.
-
-Subsec. (c)(4). Pub. L. 113–66, § 1032(a)(2), inserted “, including a list of any unfunded or unmet training requirements and requests” after “program”.
-
-Subsec. (c)(5). Pub. L. 113–66, § 1032(a)(3), added par. (5).
-
-2008—Subsec. (b). Pub. L. 110–417 substituted “$35,000,000” for “$25,000,000”.
-
-2006—Pub. L. 109–364, § 1204(d)(2), substituted “Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials” for “Authority to use appropriated funds for costs of attendance of foreign visitors under Regional Defense Counterterrorism Fellowship Program” in section catchline.
-
-Subsec. (a). Pub. L. 109–364, § 1204(a), substituted “the education and training of foreign military officers, ministry of defense officials, or security officials at military or civilian educational institutions, regional centers, conferences, seminars, or other training programs conducted under the Regional Defense Combating Terrorism Fellowship Program” for “the attendance of foreign military officers, ministry of defense officials, or security officials at United States military educational institutions, regional centers, conferences, seminars, or other training programs conducted under the Regional Defense Counterterrorism Fellowship Program, including costs of transportation and travel and subsistence costs” and inserted at end “Costs for which payment may be made under this section include the costs of transportation and travel and subsistence costs.”
-
-Subsec. (b). Pub. L. 109–364, § 1204(b), (c), substituted “$25,000,000” for “$20,000,000” and inserted at end “Amounts available under the authority in subsection (a) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.”
-
-Subsec. (c)(3). Pub. L. 109–364, § 1204(d)(1), substituted “program referred to in subsection (a)” for “Regional Defense Counterterrorism Fellowship Program”.
-
-#### Effective Date of 2013 Amendment
-Pub. L. 113–66, div. A, title X, § 1032(b), Dec. 26, 2013, 127 Stat. 850, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to a report submitted for a fiscal year beginning after the date of the enactment of this Act [Dec. 26, 2013].”
-
-#### Effective Date of 2008 Amendment
-Pub. L. 110–417, [div. A], title XII, § 1209(b), Oct. 14, 2008, 122 Stat. 4627, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2008, and shall apply with respect to fiscal years beginning on or after that date.”
-
-#### Regulations
-Pub. L. 108–136, div. A, title XII, § 1221(b), Nov. 24, 2003, 117 Stat. 1651, provided that: “Not later than December 1, 2003, the Secretary of Defense shall— “(1) prescribe the final regulations for carrying out [section 2249c of title 10](./chapter-134-miscellaneous-administrative-provisions.md#section-2249c), United States Code, as added by subsection (a); and “(2) notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and House of Representatives] of the prescription of such regulations.”
+## § 2249c. Renumbered § 345]
 
 
 <a id="section-2249d"></a>
-## § 2249d. Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces
-**(a) Distribution Authorized.—** To enhance interoperability between the armed forces and military forces of friendly foreign nations, the Secretary of Defense, with the concurrence of the Secretary of State, may—
-
-(1) provide to personnel referred to in subsection (b) electronically-distributed learning content for the education and training of such personnel for the development or enhancement of allied and friendly military and civilian capabilities for multinational operations, including joint exercises and coalition operations; and
-
-(2) provide information technology, including computer software developed for such purpose, but only to the extent necessary to support the use of such learning content for the education and training of such personnel.
-
-**(b) Authorized Recipients.—** The personnel to whom learning content and information technology may be provided under subsection (a) are military and civilian personnel of a friendly foreign government, with the permission of that government.
-
-**(c) Education and Training.—** Any education and training provided under subsection (a) shall include the following:
-
-(1) Internet-based education and training.
-
-(2) Advanced distributed learning and similar Internet learning tools, as well as distributed training and computer-assisted exercises.
-
-**(d) Applicability of Export Control Regimes.—** The provision of learning content and information technology under this section shall be subject to the provisions of the Arms Export Control Act ([22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) et seq.) and any other export control regime under law relating to the transfer of military technology to foreign nations.
-
-**(e) Guidance on Utilization of Authority.—**
-
-(1) **Guidance required.—** — The Secretary of Defense shall develop and issue guidance on the procedures for the use of the authority in this section.
-
-(2) **Modification.—** — If the Secretary modifies the guidance issued under paragraph (1), the Secretary shall submit to the appropriate committees of Congress a report setting forth the modified guidance not later than 30 days after the date of such modification.
-
-**(f) Annual Report.—**
-
-(1) **Report required.—** — Not later than October 31 following each fiscal year in which the authority in this section is used, the Secretary of Defense shall submit to the appropriate committees of Congress a report on the exercise of the authority during such fiscal year.
-
-(2) **Elements.—** — Each report under paragraph (1) shall include, for the fiscal year covered by such report, the following:
-
-  (A) A statement of the recipients of learning content and information technology provided under this section.
-
-  (B) A description of the type, quantity, and value of the learning content and information technology provided under this section.
-
-**(g) Appropriate Committees of Congress Defined.—** In this section, the term “appropriate committees of Congress” means—
-
-(1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
-
-(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
-
-### Statutory Notes
-
-#### References in Text
-The Arms Export Control Act, referred to in subsec. (d), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) and Tables.
-
-#### Effective Date
-Pub. L. 110–417, [div. A], title XII, § 1205(d), Oct. 14, 2008, 122 Stat. 4625, provided that: “This section [enacting this section and provisions set out as notes under this section] and the amendments made by this section shall take effect on October 1, 2008.”
-
-#### Guidance on Utilization of Authority
-Pub. L. 110–417, [div. A], title XII, § 1205(b), Oct. 14, 2008, 122 Stat. 4624, provided that: “(1) Submittal to congress.—Not later than 30 days after issuing the guidance required by [section 2249d(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2249d/e&num=0&edition=prelim), United States Code, as added by subsection (a), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth such guidance. “(2) Utilization of similar guidance.—In developing the guidance required by [section 2249d(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2249d/e&num=0&edition=prelim), United States Code, as so added, the Secretary may utilize applicable portions of the current guidance developed by the Secretary under subsection (f) of section 1207 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2419) for purposes of the exercise of the authority in such section 1207.”
+## § 2249d. Renumbered § 346]
 
 
 <a id="section-2249e"></a>
-## § 2249e. Prohibition on use of funds for assistance to units of foreign security forces that have committed a gross violation of human rights
-**(a) In General.—**
-
-(1) Of the amounts made available to the Department of Defense, none may be used for any training, equipment, or other assistance for a unit of a foreign security force if the Secretary of Defense has credible information that the unit has committed a gross violation of human rights.
-
-(2) The Secretary of Defense shall, in consultation with the Secretary of State, ensure that prior to a decision to provide any training, equipment, or other assistance to a unit of a foreign security force full consideration is given to any credible information available to the Department of State relating to human rights violations by such unit.
-
-**(b) Exception.—** The prohibition in subsection (a)(1) shall not apply if the Secretary of Defense, after consultation with the Secretary of State, determines that the government of such country has taken all necessary corrective steps, or if the equipment or other assistance is necessary to assist in disaster relief operations or other humanitarian or national security emergencies.
-
-**(c) Waiver.—** The Secretary of Defense, after consultation with the Secretary of State, may waive the prohibition in subsection (a)(1) if the Secretary determines that the waiver is required by extraordinary circumstances.
-
-**(d) Procedures.—** The Secretary of Defense shall establish, and periodically update, procedures to ensure that any information in the possession of the Department of Defense about gross violations of human rights by units of foreign security forces is shared on a timely basis with the Department of State.
-
-**(e) Report.—** Not later than 15 days after the application of any exception under subsection (b) or the exercise of any waiver under subsection (c), the Secretary of Defense shall submit to the appropriate committees of Congress a report—
-
-(1) in the case of an exception under subsection (b), providing notice of the use of the exception and stating the grounds for the exception; and
-
-(2) in the case of a waiver under subsection (c), describing—
-
-  (A) the information relating to the gross violation of human rights;
-
-  (B) the extraordinary circumstances that necessitate the waiver;
-
-  (C) the purpose and duration of the training, equipment, or other assistance; and
-
-  (D) the United States forces and the foreign security force unit involved.
-
-**(f) Appropriate Committees of Congress Defined.—** In this section, the term “appropriate committees of Congress” means—
-
-(1) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
-
-(2) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.
-
-### Statutory Notes
-
-#### Annual Reports
-Pub. L. 113–291, div. A, title XII, § 1204(b), Dec. 19, 2014, 128 Stat. 3533, provided that: “(1) In general.—Not later than March 31, 2015, and every March 31 thereafter through 2024, the Secretary of Defense shall submit to the appropriate committees of Congress a report setting forth for the preceding fiscal year the following:“(A) The total number of cases submitted for vetting for purposes of [section 2249e of title 10](./chapter-134-miscellaneous-administrative-provisions.md#section-2249e), United States Code (as added by subsection (a)), and the total number of such cases approved, or suspended or rejected for human rights reasons, non-human rights reasons, or administrative reasons. “(B) In the case of units rejected for non-human rights reasons, a detailed description of the reasons relating to the rejection. “(C) A description of the interagency processes that were used to evaluate compliance with requirements to conduct vetting. “(D) An addendum that includes any comments by the commanders of the combatant commands about the impact of [section 2249e of title 10](./chapter-134-miscellaneous-administrative-provisions.md#section-2249e), United States Code (as so added), on their theater security cooperation plan. “(E) Such other matters with respect to the administration of [section 2249e of title 10](./chapter-134-miscellaneous-administrative-provisions.md#section-2249e), United States Code (as so added), as the Secretary considers appropriate. “(2) Form.—Each report under this subsection shall be submitted in unclassified form, but may include a classified annex. “(3) Appropriate committees of congress defined.—In this subsection, the term ‘appropriate committees of Congress’ has the meaning given that term in subsection (f) of [section 2249e of title 10](./chapter-134-miscellaneous-administrative-provisions.md#section-2249e), United States Code (as so added).”
+## § 2249e. Renumbered § 362]
 
 
 <a id="section-2251"></a>

@@ -171,7 +171,7 @@ A prior section, act Aug. 27, 1935, ch. 748, § 5, 49 Stat. 892, related to coun
 
 (3) **Indian tribe**
 
-  (A) *In general* — The term “Indian tribe” has the meaning given the term in [section 450b of this title](./chapter-014-miscellaneous.md#section-450b).
+  (A) *In general* — The term “Indian tribe” has the meaning given the term in [section 5304 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5304).
 
   (B) *Inclusion* — The term “Indian tribe” includes, for purposes of this section only, an Indian group that has been formally recognized as an Indian tribe by—
 
@@ -279,7 +279,7 @@ Pub. L. 101–644, title I, § 107, Nov. 29, 1990, 104 Stat. 4665, provided that
 
 <a id="section-305f"></a>
 ## § 305f. Indian Arts and Crafts Board art collection
-**(a) Transfer of art collection and costs** Notwithstanding any other provision of law, the Secretary of the Interior is directed to transfer all right, title and interest in that portion of the Indian Arts and Crafts Board art collection maintained permanently by the Indian Arts and Crafts Board in Washington, District of Columbia, to the Secretary of the Smithsonian Institution to be a part of the collection of the National Museum of the American Indian, subject to subsection (b) of this section. Transfer of the collection and costs thereof shall be carried out in accordance with terms, conditions, and standards mutually agreed upon by the Secretary of the Interior and the Secretary of the Smithsonian Institution.
+**(a) Transfer of art collection and costs** Notwithstanding any other provision of law, the Secretary of the Interior is directed to transfer all right, title and interest in that portion of the Indian Arts and Crafts Board art collection maintained permanently by the Indian Arts and Crafts Board in Washington, District of Columbia, to the Secretary of the Smithsonian Institution to be a part of the collection of the National Museum of the American Indian, subject to subsection (b). Transfer of the collection and costs thereof shall be carried out in accordance with terms, conditions, and standards mutually agreed upon by the Secretary of the Interior and the Secretary of the Smithsonian Institution.
 
 **(b) Retention of permanent license to use of images** The Indian Arts and Crafts Board shall retain a permanent license to the use of images of the collection for promotional, economic development, educational and related nonprofit purposes. The Indian Arts and Crafts Board shall not be required to pay any royalty or fee for such license.
 
@@ -343,12 +343,12 @@ There is authorized to be appropriated for the purposes of sections 309 and 309a
 <a id="section-309b"></a>
 ## § 309b. Vocational education funds
 
-Notwithstanding any other provision of law, funds provided by the Bureau for adult vocational education to any vocational school (as defined for purposes of any program of assistance to students under the Higher Education Act of 1965 [[20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq., [42 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751&num=0&edition=prelim) et seq.]) may be treated as non-Federal, private funds of such school for purposes of any provision of Federal law which requires that non-Federal or private funds of such school be used in a project or for a specific purpose.
+Notwithstanding any other provision of law, funds provided by the Bureau for adult vocational education to any vocational school (as defined for purposes of any program of assistance to students under the Higher Education Act of 1965 [[20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq.]) may be treated as non-Federal, private funds of such school for purposes of any provision of Federal law which requires that non-Federal or private funds of such school be used in a project or for a specific purpose.
 
 ### Statutory Notes
 
 #### References in Text
-The Higher Education Act of 1965, referred to in text, is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in text, is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Effective Date
 For effective date and applicability of section, see section 6303 of Pub. L. 100–297, set out as an Effective Date of 1988 Amendment note under [section 1071 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1071&num=0&edition=prelim), Education.

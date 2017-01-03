@@ -2,7 +2,7 @@
 title: 38
 chapter: '20'
 heading: BENEFITS FOR HOMELESS VETERANS
-section_count: 28
+section_count: 30
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -35,12 +35,21 @@ Pub. L. 107–95, § 2, Dec. 21, 2001, 115 Stat. 903, provided that: “For purp
 
 <a id="section-2002"></a>
 ## § 2002. Definitions
+**(a) In General.—** In this chapter:
 
-In this chapter:
-
-(1) The term “homeless veteran” means a veteran who is homeless (as that term is defined in section 103(a) of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11302(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11302/a&num=0&edition=prelim))).
+(1) The term “homeless veteran” means a veteran who is homeless (as that term is defined in subsection (a) or (b) of section 103 of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11302&num=0&edition=prelim))).
 
 (2) The term “grant and per diem provider” means an entity in receipt of a grant under section 2011 or 2012 of this title.
+
+**(b) Veteran Defined.—**
+
+(1) Notwithstanding [section 101(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/2&num=0&edition=prelim) and except as provided in paragraph (2), for purposes of sections 2011, 2012, 2013, 2044, and 2061 of this title, the term “veteran” means a person who served in the active military, naval, or air service, regardless of length of service, and who was discharged or released therefrom.
+
+(2) For purposes of paragraph (1), the term “veteran” excludes a person who—
+
+  (A) received a dishonorable discharge from the Armed Forces; or
+
+  (B) was discharged or dismissed from the Armed Forces by reason of the sentence of a general court-martial.
 
 ### Statutory Notes
 
@@ -52,11 +61,22 @@ Another prior section 2002, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1217, rela
 A prior section 2002A was renumbered [section 4102A of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4102a).
 
 #### Amendments
+2016—Pub. L. 114–315 designated existing provisions as subsec. (a), inserted heading, substituted “in subsection (a) or (b) of section 103 of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11302&num=0&edition=prelim))” for “in section 103(a) of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11302(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11302/a&num=0&edition=prelim))” in par. (1), and added subsec. (b).
+
 2006—Par. (1). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under [section 101 of this title](./chapter-001-general.md#section-101).
 
 Pub. L. 109–461, § 1004(a)(3), inserted closing parenthesis before period at end.
 
 Pub. L. 109–444, which inserted closing parenthesis before period at end, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–315, title VII, § 706, Dec. 16, 2016, 130 Stat. 1586, provided that: “This subtitle [subtitle A (§§ 701–706) of title VII of Pub. L. 114–315, amending this section and sections 5303 and 5303A of this title and enacting provisions set out as notes under this section] and the amendments made by this subtitle shall apply to individuals seeking benefits under chapter 20 of title 38, United States Code, before, on, and after the date of the enactment of this Act [Dec. 16, 2016].”
+
+#### Regulations
+Pub. L. 114–315, title VII, § 705, Dec. 16, 2016, 130 Stat. 1585, provided that: “Not later than 270 days after the date of the enactment of this Act [Dec. 16, 2016], the Secretary of Veterans Affairs shall prescribe regulations, including such modifications to section 3.12 of title 38, Code of Federal Regulations (or any successor regulation), as the Secretary considers appropriate, to ensure that the Department of Veterans Affairs is in full compliance with this title [see Tables for classification] and the amendments made by this subtitle [subtitle A (§§ 701–706) of title VII of Pub. L. 114–315, amending this section and sections 5303 and 5303A of this title].”
+
+#### Training of Personnel of the Department of Veterans Affairs and Grant Recipients
+Pub. L. 114–315, title VII, § 704, Dec. 16, 2016, 130 Stat. 1585, provided that: “The Secretary of Veterans Affairs shall conduct a program of training and education to ensure that the following persons are aware of and implement this title [see Tables for classification] and the amendments made by this subtitle [subtitle A (§§ 701–706) of title VII of Pub. L. 114–315, amending this section and sections 5303 and 5303A of this title]: “(1) Personnel of the Department of Veterans Affairs who are supporting or administering a program under chapter 20 of title 38, United States Code. “(2) Recipients of grants or other amounts for purposes of carrying out such a program.”
 
 
 <a id="section-2003"></a>
@@ -252,6 +272,9 @@ Pub. L. 109–444, § 8(a)(4), which inserted period at end of subpar. (C) of pa
 
 Subsec. (a)(2). Pub. L. 109–444, § 2(b), which substituted “September 30, 2007” for “September 30, 2005”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
+#### Requirement for Department of Veterans Affairs to Assess Comprehensive Service Programs for Homeless Veterans.
+Pub. L. 114–315, title VII, § 714, Dec. 16, 2016, 130 Stat. 1588, provided that: “(a) In General.—Not later than 1 year after the date of the enactment of this Act [Dec. 16, 2016], the Secretary of Veterans Affairs shall—“(1) assess and measure the capacity of programs for which entities receive grants under [section 2011 of title 38](./chapter-020-benefits-for-homeless-veterans.md#section-2011), United States Code, or per diem payments under section 2012 or 2061 of such title; and “(2) assess such programs with respect to—“(A) how well they achieve their stated goals at a national level; “(B) placements in permanent housing; “(C) placements in employment; and “(D) increases in the regular income of participants in the programs. “(b) Assessment at National and Local Levels.—In assessing and measuring under subsection (a)(1), the Secretary shall develop and use tools to examine the capacity of programs described in such subsection at both the national and local level in order to assess the following:“(1) Whether sufficient capacity exists to meet the needs of homeless veterans in each geographic area. “(2) Whether existing capacity meets the needs of the subpopulations of homeless veterans located in each geographic area. “(3) The amount of capacity that recipients of grants under sections 2011 and 2061 and per diem payments under section 2012 of such title have to provide services for which the recipients are eligible to receive per diem under [section 2012(a)(2)(B)(ii) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2012/a/2/B/ii&num=0&edition=prelim), United States Code, as added by section 711(6). “(c) Consideration of Other Resources.—In assessing and measuring programs under subsection (a)(1), the Secretary shall consider the availability to such programs of resources made available to such programs and to homeless veterans, including resources provided by the Department of Veterans Affairs and by entities other than the Department. “(d) Use of Information.—The Secretary shall use the information collected under this section as follows:“(1) To set specific goals to ensure that programs described in subsection (a) are effectively serving the needs of homeless veterans. “(2) To assess whether programs described in subsection (a) are meeting goals set under paragraph (1). “(3) To inform funding allocations for programs described in subsection (a). “(4) To improve the referral of homeless veterans to programs described in subsection (a). “(e) Report.—Not later than 180 days after the date on which the assessment required by subsection (a) is completed, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on such assessment and such recommendations for legislative and administrative action as the Secretary may have to improve the programs and per diem payments described in subsection (a).”
+
 #### Grant and Per Diem Payments
 Pub. L. 112–154, title III, § 301(b), Aug. 6, 2012, 126 Stat. 1183, provided that: “(1) Study and development of fiscal controls and payment method.—Not later than one year after the date of the enactment of this Act [Aug. 6, 2012], the Secretary of Veterans Affairs shall—“(A) complete a study of all matters relating to the method used by the Secretary to make per diem payments under [section 2012(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2012/a&num=0&edition=prelim), United States Code, including changes anticipated by the Secretary in the cost of furnishing services to homeless veterans and accounting for costs of providing such services in various geographic areas; “(B) develop more effective and efficient procedures for fiscal control and fund accounting by recipients of grants under sections 2011, 2012, and 2061 of such title; and “(C) develop a more effective and efficient method for adequately reimbursing recipients of grants under section 2011 of such title for services furnished to homeless veterans. “(2) Consideration.—In developing the method required by paragraph (1)(C), the Secretary may consider payments and grants received by recipients of grants described in such paragraph from other departments and agencies of Federal and local governments and from private entities. “(3) Report.—Not later than one year after the date of the enactment of this Act, the Secretary shall submit to Congress a report on—“(A) the findings of the Secretary with respect to the study required by subparagraph (A) of paragraph (1); “(B) the methods developed under subparagraphs (B) and (C) of such paragraph; and “(C) any recommendations of the Secretary for revising the method described in subparagraph (A) of such paragraph and any legislative action the Secretary considers necessary to implement such method.”
 
@@ -271,13 +294,19 @@ Pub. L. 109–114, title II, § 230, Nov. 30, 2005, 119 Stat. 2393, provided tha
 
 (2)
 
-  (A) The rate for such per diem payments shall be the daily cost of care estimated by the grant recipient or eligible entity adjusted by the Secretary under subparagraph (B). In no case may the rate determined under this paragraph exceed the rate authorized for State homes for domiciliary care under subsection (a)(1)(A) of [section 1741 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1741), as the Secretary may increase from time to time under subsection (c) of that section.
+  (A) Except as otherwise provided in subparagraph (B), the rate for such per diem payments shall be the daily cost of care estimated by the grant recipient or eligible entity adjusted by the Secretary under subparagraph (C).
 
-  (B) The Secretary shall adjust the rate estimated by the grant recipient or eligible entity under subparagraph (A) to exclude other sources of income described in subparagraph (D) that the grant recipient or eligible entity certifies to be correct.
+  (B)
 
-  (C) Each grant recipient or eligible entity shall provide to the Secretary such information with respect to other sources of income as the Secretary may require to make the adjustment under subparagraph (B).
+    (i) Except as provided in clause (ii), in no case may the rate determined under this paragraph exceed the rate authorized for State homes for domiciliary care under subsection (a)(1)(A) of [section 1741 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1741), as the Secretary may increase from time to time under subsection (c) of that section.
 
-  (D) The other sources of income referred to in subparagraphs (B) and (C) are payments to the grant recipient or eligible entity for furnishing services to homeless veterans under programs other than under this subchapter, including payments and grants from other departments and agencies of the United States, from departments or agencies of State or local government, and from private entities or organizations.
+    (ii) In the case of services furnished to a homeless veteran who is placed in housing that will become permanent housing for the veteran upon termination of the furnishing of such services to such veteran, the maximum rate of per diem authorized under this section is 150 percent of the rate authorized for State homes for domiciliary care under subsection (a)(1)(A) of [section 1741 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1741), as the Secretary may increase from time to time under subsection (c) of that section.
+
+  (C) The Secretary shall adjust the rate estimated by the grant recipient or eligible entity under subparagraph (A) to exclude other sources of income described in subparagraph (E) that the grant recipient or eligible entity certifies to be correct.
+
+  (D) Each grant recipient or eligible entity shall provide to the Secretary such information with respect to other sources of income as the Secretary may require to make the adjustment under subparagraph (C).
+
+  (E) The other sources of income referred to in subparagraphs (C) and (D) are payments to the grant recipient or eligible entity for furnishing services to homeless veterans under programs other than under this subchapter, including payments and grants from other departments and agencies of the United States, from departments or agencies of State or local government, and from private entities or organizations.
 
 (3) In a case in which the Secretary has authorized the provision of services, per diem payments under paragraph (1) may be paid retroactively for services provided not more than three days before the authorization was provided.
 
@@ -336,11 +365,54 @@ A prior section 2012 was renumbered [section 4212 of this title](./chapter-042-e
 Another prior section 2012 was renumbered [section 4103 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4103).
 
 #### Amendments
+2016—Subsec. (a)(2)(A). Pub. L. 114–315, § 711(5), substituted “Except as otherwise provided in subparagraph (B), the rate” for “The rate” and “under subparagraph (C).” for “under subparagraph (B). In no case may the rate determined under this paragraph exceed the rate authorized for State homes for domiciliary care under subsection (a)(1)(A) of [section 1741 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1741), as the Secretary may increase from time to time under subsection (c) of that section.”
+
+Subsec. (a)(2)(B). Pub. L. 114–315, § 711(6), added subpar. (B). Former subpar. (B) redesignated (C).
+
+Subsec. (a)(2)(C). Pub. L. 114–315, § 711(1), (2), redesignated subpar. (B) as (C) and substituted “in subparagraph (E)” for “in subparagraph (D)”. Former subpar. (C) redesignated (D).
+
+Subsec. (a)(2)(D). Pub. L. 114–315, § 711(1), (3), redesignated subpar. (C) as (D) and substituted “under subparagraph (C)” for “under subparagraph (B)”. Former subpar. (D) redesignated (E).
+
+Subsec. (a)(2)(E). Pub. L. 114–315, § 711(1), (4), redesignated subpar. (D) as (E) and substituted “in subparagraphs (C) and (D)” for “in subparagraphs (B) and (C)”.
+
 2010—Subsec. (d). Pub. L. 111–163 added subsec. (d).
 
 
 <a id="section-2013"></a>
-## § 2013. Authorization of appropriations
+## § 2013. Program to improve retention of housing by formerly homeless veterans and veterans at risk of becoming homeless
+**(a) Program Required.—** The Secretary shall carry out a program under which the Secretary shall provide case management services to improve the retention of housing by veterans who were previously homeless and are transitioning to permanent housing and veterans who are at risk of becoming homeless.
+
+**(b) Grants.—**
+
+(1) The Secretary shall carry out the program through the award of grants.
+
+(2)
+
+  (A) In awarding grants under paragraph (1), the Secretary shall give priority to organizations that demonstrate a capability to provide case management services as described in subsection (a), particularly organizations that are successfully providing or have successfully provided transitional housing services using amounts provided by the Secretary under sections 2012 and 2061 of this title.
+
+  (B) In giving priority under subparagraph (A), the Secretary shall give extra priority to an organization described in such subparagraph that—
+
+    (i) voluntarily stops receiving amounts provided by the Secretary under sections 2012 and 2061 of this title; and
+
+    (ii) converts a facility that the organization used to provide transitional housing services into a facility that the organization uses to provide permanent housing that meets housing quality standards established under section 8(o)(8)(B) of the United States Housing Act of 1937 ([42 U.S.C. 1437f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437f&num=0&edition=prelim)(o)(8)(B)).
+
+  (C) In any case in which a facility, with respect to which a person received a grant for construction, rehabilitation, or acquisition under [section 2011 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2011), is converted as described in subparagraph (B)(ii), such conversion shall be considered to have been carried out pursuant to the needs of the Department and such person shall not be considered in noncompliance with the terms of such grant by reason of such conversion.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 2013 was renumbered [section 2014 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2014).
+
+Another prior section 2013 was renumbered [section 4213 of this title](./chapter-042-employment-and-training-of-veterans.md#section-4213).
+
+Another prior section 2013 was renumbered [section 4104 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4104).
+
+#### Regulations
+Pub. L. 114–315, title VII, § 712(b), Dec. 16, 2016, 130 Stat. 1587, provided that: “Not later than 1 year after the date of the enactment of this Act [Dec. 16, 2016], the Secretary of Veterans Affairs shall prescribe regulations to carry out section 2013 of such title [[38 U.S.C. 2013](./chapter-020-benefits-for-homeless-veterans.md#section-2013)], as added by subsection (a)(1)(B).”
+
+
+<a id="section-2014"></a>
+## § 2014. Authorization of appropriations
 
 There is authorized to be appropriated to carry out this subchapter amounts as follows:
 
@@ -356,20 +428,20 @@ There is authorized to be appropriated to carry out this subchapter amounts as f
 
 (6) $250,000,000 for fiscal year 2014.
 
-(7) $250,000,000 for fiscal year 2015 and each subsequent fiscal year.
+(7) $257,700,000 for fiscal year 2015 and each subsequent fiscal year.
 
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 2013 was renumbered [section 4213 of this title](./chapter-042-employment-and-training-of-veterans.md#section-4213).
-
-Another prior section 2013 was renumbered [section 4104 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4104).
-
 A prior section 2014 was renumbered [section 4214 of this title](./chapter-042-employment-and-training-of-veterans.md#section-4214).
 
 Another prior section 2014 was renumbered [section 4105 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4105).
 
 #### Amendments
+2016—Pub. L. 114–315 renumbered [section 2013 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2013) as this section.
+
+Par. (7). Pub. L. 114–228 substituted “$257,700,000” for “$250,000,000”.
+
 2014—Par. (7). Pub. L. 113–175 substituted “$250,000,000” for “$150,000,000”.
 
 2013—Pars. (6), (7). Pub. L. 113–37 added pars. (6) and (7) and struck out former par. (6) which read as follows: “$150,000,000 for fiscal year 2014 and each subsequent fiscal year.”
@@ -424,7 +496,7 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
   (E) $50,000,000 for fiscal year 2006.
 
-  (F) $50,000,000 for each of fiscal years 2007 through 2015.
+  (F) $50,000,000 for each of fiscal years 2007 through 2017.
 
 (2) Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
 
@@ -434,6 +506,10 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 A prior section 2021 was renumbered [section 4301 of this title](./chapter-043-employment-and-reemployment-rights-of-members-of-the-uniformed-services.md#section-4301) and subsequently omitted in the general amendment of chapter 43 of this title by Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150.
 
 #### Amendments
+2016—Subsec. (e)(1)(F). Pub. L. 114–228 substituted “2017” for “2016”.
+
+2015—Subsec. (e)(1)(F). Pub. L. 114–58 substituted “2016” for “2015”.
+
 2014—Subsec. (e)(1)(F). Pub. L. 113–175 substituted “2015” for “2014”.
 
 2013—Subsec. (e)(1)(F). Pub. L. 113–37 substituted “2014” for “2013”.
@@ -468,9 +544,16 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 **(f) Authorization of Appropriations.—**
 
-(1) In addition to any amount authorized to be appropriated to carry out [section 2021 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2021), there is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2011 through 2015.
+(1) In addition to any amount authorized to be appropriated to carry out [section 2021 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2021), there is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2011 through 2017.
 
 (2) Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
+
+### Statutory Notes
+
+#### Amendments
+2016—Subsec. (f)(1). Pub. L. 114–228 substituted “2017” for “2016”.
+
+2015—Subsec. (f)(1). Pub. L. 114–58 substituted “2016” for “2015”.
 
 
 <a id="section-2022"></a>
@@ -562,7 +645,7 @@ A prior section 2022 was renumbered [section 4302 of this title](./chapter-043-e
 
 (4) In developing the program, the Secretaries shall consult with officials of the Bureau of Prisons, officials of penal institutions of States and political subdivisions of States, and such other officials as the Secretaries determine appropriate.
 
-**(d) Duration.—** The authority of the Secretaries to enter into a contract to provide referral and counseling services under the demonstration program shall cease on September 30, 2015.
+**(d) Duration.—** The authority of the Secretaries to enter into a contract to provide referral and counseling services under the demonstration program shall cease on September 30, 2017.
 
 **(e) Definition.—** In this section, the term “eligible veteran” means a veteran who—
 
@@ -576,6 +659,10 @@ A prior section 2022 was renumbered [section 4302 of this title](./chapter-043-e
 Prior sections 2023 to 2027 were renumbered sections 4303 to 4307 of this title, respectively, and subsequently omitted in the general amendment of chapter 43 of this title by Pub. L. 103–353, § 2(a), Oct. 13, 1994, 108 Stat. 3150.
 
 #### Amendments
+2016—Subsec. (d). Pub. L. 114–228 substituted “September 30, 2017” for “September 30, 2016”.
+
+2015—Subsec. (d). Pub. L. 114–58 substituted “September 30, 2016” for “September 30, 2015”.
+
 2014—Subsec. (c)(3). Pub. L. 113–175, § 203(b), substituted “make grants” for “enter into contracts”.
 
 Subsec. (d). Pub. L. 113–175, § 203(a), substituted “September 30, 2015” for “September 30, 2014”.
@@ -610,11 +697,15 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 (3) therapeutic transitional housing assistance under [section 2032 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2032), in conjunction with work therapy under subsection (a) or (b) of [section 1718 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1718) and outpatient care.
 
-**(b)** The authority of the Secretary under subsection (a) expires on September 30, 2015.
+**(b)** The authority of the Secretary under subsection (a) expires on September 30, 2017.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (b). Pub. L. 114–228 substituted “September 30, 2017” for “September 30, 2016”.
+
+2015—Subsec. (b). Pub. L. 114–58 substituted “September 30, 2016” for “September 30, 2015”.
+
 2014—Subsec. (b). Pub. L. 113–175 substituted “September 30, 2015” for “December 31, 2014”.
 
 2013—Subsec. (b). Pub. L. 113–59 substituted “December 31, 2014” for “December 31, 2013”.
@@ -700,11 +791,15 @@ Subsec. (b). Pub. L. 107–95, § 5(f), substituted “December 31, 2006” for 
 
 **(c)** The program shall include the services of such employees of the Veterans Benefits Administration as the Secretary determines appropriate at sites under the jurisdiction of the Secretary at which services are provided to homeless veterans.
 
-**(d)** The program under this section shall terminate on September 30, 2015.
+**(d)** The program under this section shall terminate on September 30, 2017.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (d). Pub. L. 114–228 substituted “September 30, 2017” for “September 30, 2016”.
+
+2015—Subsec. (d). Pub. L. 114–58 substituted “September 30, 2016” for “September 30, 2015”.
+
 2014—Subsec. (d). Pub. L. 113–175 substituted “September 30, 2015” for “December 31, 2014”.
 
 2013—Subsec. (d). Pub. L. 113–59 substituted “December 31, 2014” for “December 31, 2013”.
@@ -826,11 +921,15 @@ Subsec. (b)(6). Pub. L. 107–95, § 6(b)(2), added par. (6).
 
   (C) may waive the collection of a fee under [section 3729 of this title](./chapter-037-housing-and-small-business-loans.md#section-3729) in any case in which the Secretary determines that such a waiver would be appropriate.
 
-**(c)** The Secretary may not enter into agreements under subsection (a) after September 30, 2015.
+**(c)** The Secretary may not enter into agreements under subsection (a) after September 30, 2017.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (c). Pub. L. 114–228 substituted “September 30, 2017” for “September 30, 2016”.
+
+2015—Subsec. (c). Pub. L. 114–58 substituted “September 30, 2016” for “September 30, 2015”.
+
 2014—Subsec. (c). Pub. L. 113–175 substituted “September 30, 2015” for “December 31, 2014”.
 
 2013—Subsec. (c). Pub. L. 113–59 substituted “December 31, 2014” for “December 31, 2013”.
@@ -879,7 +978,7 @@ Subsec. (c). Pub. L. 102–590, § 9(a)(1), redesignated subsec. (b) as (c).
 Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as a note under [section 2106 of this title](./chapter-021-specially-adapted-housing-for-disabled-veterans.md#section-2106).
 
 #### Collaboration in Provision of Case Management Services to Homeless Veterans in Supported Housing Program
-Pub. L. 112–154, title III, § 304, Aug. 6, 2012, 126 Stat. 1185, provided that: “(a) In General.—The Secretary of Veterans Affairs shall consider entering into contracts or agreements, under sections 513 and 8153 of title 38, United States Code, with eligible entities to collaborate with the Secretary in the provision of case management services to covered veterans as part of the supported housing program carried out under section 8(o)(19) of the United States Housing Act of 1937 ([42 U.S.C. 1437f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437f&num=0&edition=prelim)(o)(19)) to ensure that the homeless veterans facing the most significant difficulties in obtaining suitable housing receive the assistance they require to obtain such housing. “(b) Covered Veterans.—For purposes of this section, a covered veteran is any veteran who, at the time of receipt of a housing voucher under such section 8(o)(19)—“(1) requires the assistance of a case manager in obtaining suitable housing with such voucher; and “(2) is having difficulty obtaining the amount of such assistance the veteran requires, including because—“(A) the veteran resides in an area that has a shortage of low-income housing and because of such shortage the veteran requires more assistance from a case manager than the Secretary otherwise provides; “(B) the location in which the veteran resides is located at such distance from facilities of the Department of Veterans Affairs as makes the provision of case management services by the Secretary to such veteran impractical; or “(C) the veteran resides in an area where veterans who receive case management services from the Secretary under such section have a significantly lower average rate of successfully obtaining suitable housing than the average rate of successfully obtaining suitable housing for all veterans receiving such services. “(c) Eligible Entities.—For purposes of this section, an eligible entity is any State or local government agency, tribal organization (as such term is defined in section 4 of the Indian Self[-]Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim))), or nonprofit organization that—“(1) under a contract or agreement described in subsection (a), agrees—“(A) to ensure access to case management services by covered veterans on an as-needed basis; “(B) to maintain referral networks for covered veterans for purposes of assisting covered veterans in demonstrating eligibility for assistance and additional services under entitlement and assistance programs available for covered veterans, and to otherwise aid covered veterans in obtaining such assistance and services; “(C) to ensure the confidentiality of records maintained by the entity on covered veterans receiving services through the supported housing program described in subsection (a); “(D) to establish such procedures for fiscal control and fund accounting as the Secretary of Veterans Affairs considers appropriate to ensure proper disbursement and accounting of funds under a contract or agreement entered into by the entity as described in subsection (a); “(E) to submit to the Secretary each year, in such form and such manner as the Secretary may require, a report on the collaboration undertaken by the entity under a contract or agreement described in such subsection during the most recent fiscal year, including a description of, for the year covered by the report—“(i) the services and assistance provided to covered veterans as part of such collaboration; “(ii) the process by which covered veterans were referred to the entity for such services and assistance; “(iii) the specific goals jointly set by the entity and the Secretary for the provision of such services and assistance and whether the entity achieved such goals; and “(iv) the average length of time taken by a covered veteran who received such services and assistance to successfully obtain suitable housing and the average retention rate of such a veteran in such housing; and “(F) to meet such other requirements as the Secretary considers appropriate for purposes of providing assistance to covered veterans in obtaining suitable housing; and “(2) has demonstrated experience in—“(A) identifying and serving homeless veterans, especially those who have the greatest difficulty obtaining suitable housing; “(B) working collaboratively with the Department of Veterans Affairs or the Department of Housing and Urban Development; “(C) conducting outreach to, and maintaining relationships with, landlords to encourage and facilitate participation by landlords in supported housing programs similar to the supported housing program described in subsection (a); “(D) mediating disputes between landlords and veterans receiving assistance under such supported housing program; and “(E) carrying out such other activities as the Secretary of Veterans Affairs considers appropriate. “(d) Consultation.—In considering entering into contracts or agreements as described in subsection (a), the Secretary of Veterans Affairs shall consult with—“(1) the Secretary of Housing and Urban Development; and “(2) third parties that provide services as part of the Department of Housing and Urban Development continuum of care. “(e) Technical Assistance for Collaborating Entities.—“(1) In general.—The Secretary may provide training and technical assistance to entities with whom the Secretary collaborates in the provision of case management services to veterans as part of the supported housing program described in subsection (a). “(2) Grants.—The Secretary may provide training and technical assistance under paragraph (1) through the award of grants or contracts to appropriate public and nonprofit private entities. “(3) Funding.—From amounts appropriated or otherwise made available to the Secretary in the Medical Services account in a year, $500,000 shall be available to the Secretary in that year to carry out this subsection. “(f) Annual Report.—“(1) In general.—Not later than 545 days after the date of the enactment of this Act [Aug. 6, 2012] and not less frequently than once each year thereafter, the Secretary of Veterans Affairs shall submit to Congress a report on the collaboration between the Secretary and eligible entities in the provision of case management services as described in subsection (a) during the most recently completed fiscal year. “(2) Elements.—Each report required by paragraph (1) shall include, for the period covered by the report, the following:“(A) A discussion of each case in which a contract or agreement described in subsection (a) was considered by the Secretary, including a description of whether or not and why the Secretary chose or did not choose to enter into such contract or agreement. “(B) The number and types of eligible entities with whom the Secretary has entered into a contract or agreement as described in subsection (a). “(C) A description of the geographic regions in which such entities provide case management services as described in such subsection. “(D) A description of the number and types of covered veterans who received case management services from such entities under such contracts or agreements. “(E) An assessment of the performance of each eligible entity with whom the Secretary entered into a contract or agreement as described in subsection (a). “(F) An assessment of the benefits to covered veterans of such contracts and agreements. “(G) A discussion of the benefits of increasing the ratio of case managers to recipients of vouchers under the supported housing program described in such subsection to veterans who reside in rural areas. “(H) Such recommendations for legislative or administrative action as the Secretary considers appropriate for the improvement of collaboration in the provision of case management services under such supported housing program.”
+Pub. L. 112–154, title III, § 304, Aug. 6, 2012, 126 Stat. 1185, provided that: “(a) In General.—The Secretary of Veterans Affairs shall consider entering into contracts or agreements, under sections 513 and 8153 of title 38, United States Code, with eligible entities to collaborate with the Secretary in the provision of case management services to covered veterans as part of the supported housing program carried out under section 8(o)(19) of the United States Housing Act of 1937 ([42 U.S.C. 1437f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437f&num=0&edition=prelim)(o)(19)) to ensure that the homeless veterans facing the most significant difficulties in obtaining suitable housing receive the assistance they require to obtain such housing. “(b) Covered Veterans.—For purposes of this section, a covered veteran is any veteran who, at the time of receipt of a housing voucher under such section 8(o)(19)—“(1) requires the assistance of a case manager in obtaining suitable housing with such voucher; and “(2) is having difficulty obtaining the amount of such assistance the veteran requires, including because—“(A) the veteran resides in an area that has a shortage of low-income housing and because of such shortage the veteran requires more assistance from a case manager than the Secretary otherwise provides; “(B) the location in which the veteran resides is located at such distance from facilities of the Department of Veterans Affairs as makes the provision of case management services by the Secretary to such veteran impractical; or “(C) the veteran resides in an area where veterans who receive case management services from the Secretary under such section have a significantly lower average rate of successfully obtaining suitable housing than the average rate of successfully obtaining suitable housing for all veterans receiving such services. “(c) Eligible Entities.—For purposes of this section, an eligible entity is any State or local government agency, tribal organization (as such term is defined in section 4 of the Indian Self[-]Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)) [now [25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)]), or nonprofit organization that—“(1) under a contract or agreement described in subsection (a), agrees—“(A) to ensure access to case management services by covered veterans on an as-needed basis; “(B) to maintain referral networks for covered veterans for purposes of assisting covered veterans in demonstrating eligibility for assistance and additional services under entitlement and assistance programs available for covered veterans, and to otherwise aid covered veterans in obtaining such assistance and services; “(C) to ensure the confidentiality of records maintained by the entity on covered veterans receiving services through the supported housing program described in subsection (a); “(D) to establish such procedures for fiscal control and fund accounting as the Secretary of Veterans Affairs considers appropriate to ensure proper disbursement and accounting of funds under a contract or agreement entered into by the entity as described in subsection (a); “(E) to submit to the Secretary each year, in such form and such manner as the Secretary may require, a report on the collaboration undertaken by the entity under a contract or agreement described in such subsection during the most recent fiscal year, including a description of, for the year covered by the report—“(i) the services and assistance provided to covered veterans as part of such collaboration; “(ii) the process by which covered veterans were referred to the entity for such services and assistance; “(iii) the specific goals jointly set by the entity and the Secretary for the provision of such services and assistance and whether the entity achieved such goals; and “(iv) the average length of time taken by a covered veteran who received such services and assistance to successfully obtain suitable housing and the average retention rate of such a veteran in such housing; and “(F) to meet such other requirements as the Secretary considers appropriate for purposes of providing assistance to covered veterans in obtaining suitable housing; and “(2) has demonstrated experience in—“(A) identifying and serving homeless veterans, especially those who have the greatest difficulty obtaining suitable housing; “(B) working collaboratively with the Department of Veterans Affairs or the Department of Housing and Urban Development; “(C) conducting outreach to, and maintaining relationships with, landlords to encourage and facilitate participation by landlords in supported housing programs similar to the supported housing program described in subsection (a); “(D) mediating disputes between landlords and veterans receiving assistance under such supported housing program; and “(E) carrying out such other activities as the Secretary of Veterans Affairs considers appropriate. “(d) Consultation.—In considering entering into contracts or agreements as described in subsection (a), the Secretary of Veterans Affairs shall consult with—“(1) the Secretary of Housing and Urban Development; and “(2) third parties that provide services as part of the Department of Housing and Urban Development continuum of care. “(e) Technical Assistance for Collaborating Entities.—“(1) In general.—The Secretary may provide training and technical assistance to entities with whom the Secretary collaborates in the provision of case management services to veterans as part of the supported housing program described in subsection (a). “(2) Grants.—The Secretary may provide training and technical assistance under paragraph (1) through the award of grants or contracts to appropriate public and nonprofit private entities. “(3) Funding.—From amounts appropriated or otherwise made available to the Secretary in the Medical Services account in a year, $500,000 shall be available to the Secretary in that year to carry out this subsection. “(f) Annual Report.—“(1) In general.—Not later than 545 days after the date of the enactment of this Act [Aug. 6, 2012] and not less frequently than once each year thereafter, the Secretary of Veterans Affairs shall submit to Congress a report on the collaboration between the Secretary and eligible entities in the provision of case management services as described in subsection (a) during the most recently completed fiscal year. “(2) Elements.—Each report required by paragraph (1) shall include, for the period covered by the report, the following:“(A) A discussion of each case in which a contract or agreement described in subsection (a) was considered by the Secretary, including a description of whether or not and why the Secretary chose or did not choose to enter into such contract or agreement. “(B) The number and types of eligible entities with whom the Secretary has entered into a contract or agreement as described in subsection (a). “(C) A description of the geographic regions in which such entities provide case management services as described in such subsection. “(D) A description of the number and types of covered veterans who received case management services from such entities under such contracts or agreements. “(E) An assessment of the performance of each eligible entity with whom the Secretary entered into a contract or agreement as described in subsection (a). “(F) An assessment of the benefits to covered veterans of such contracts and agreements. “(G) A discussion of the benefits of increasing the ratio of case managers to recipients of vouchers under the supported housing program described in such subsection to veterans who reside in rural areas. “(H) Such recommendations for legislative or administrative action as the Secretary considers appropriate for the improvement of collaboration in the provision of case management services under such supported housing program.”
 
 #### Ratification of Actions During Period of Expired Authority
 Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under [section 1710 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1710).
@@ -938,7 +1037,7 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 
   (C) assistance in obtaining any benefits from the Department which the veteran may be eligible to receive, including, but not limited to, vocational and rehabilitation counseling, employment and training service, educational assistance, and health care services; and
 
-  (D) assistance in obtaining and coordinating the provision of other public benefits provided in federal,11 So in original. Probably should be capitalized. State, or local agencies, or any organization defined in subsection (f), including—
+  (D) assistance in obtaining and coordinating the provision of other public benefits provided in Federal, State, or local agencies, or any organization defined in subsection (f), including—
 
     (i) health care services (including obtaining health insurance);
 
@@ -1010,7 +1109,7 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 
   (D) $100,000,000 for fiscal year 2012.
 
-  (E) $300,000,000 for each of fiscal years 2013 through 2015.
+  (E) $320,000,000 for each of fiscal years 2015 through 2017.
 
 (2) Not more than $750,000 may be available under paragraph (1) in any fiscal year to provide technical assistance under subsection (d).
 
@@ -1062,6 +1161,12 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 Pub. L. 112–37, § 12, Oct. 5, 2011, 125 Stat. 397, which directed amendment of “section 2044” without specifying the Code title to be amended, was executed to this section, which is [section 2044 of Title 38](./chapter-020-benefits-for-homeless-veterans.md#section-2044), Veterans’ Benefits, to reflect the probable intent of Congress. See 2011 Amendment notes below.
 
 #### Amendments
+2016—Subsec. (e)(1)(E). Pub. L. 114–228 amended subpar. (E) generally. Prior to amendment, text read as follows: “$300,000,000 for each of fiscal years 2015 through 2016.”
+
+2015—Subsec. (b)(1)(D). Pub. L. 114–58, § 601(9), substituted “Federal” for “federal” in introductory provisions.
+
+Subsec. (e)(1)(E). Pub. L. 114–58, § 304, substituted “fiscal years 2015 through 2016” for “fiscal years 2013 through 2015”.
+
 2014—Subsec. (e)(1)(E). Pub. L. 113–175 substituted “fiscal years 2013 through 2015” for “fiscal years 2013 and 2014”.
 
 2013—Subsec. (e)(1)(E). Pub. L. 113–37 substituted “for each of fiscal years 2013 and 2014” for “for fiscal year 2013”.
@@ -1256,13 +1361,17 @@ Subsec. (a). Pub. L. 107–95, § 5(d)(2)(C), substituted “[section 2051 of th
 
 **(d) Funding.—**
 
-(1) From amounts appropriated to the Department for “Medical Services” for each of fiscal years 2007 through 2015, $5,000,000 shall be available for each such fiscal year for the purposes of the program under this section.
+(1) From amounts appropriated to the Department for “Medical Services” for each of fiscal years 2007 through 2017, $5,000,000 shall be available for each such fiscal year for the purposes of the program under this section.
 
 (2) The Secretary shall ensure that funds for grants under this section are designated for the first three years of operation of the program under this section as a special purpose program for which funds are not allocated through the Veterans Equitable Resource Allocation system.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (d)(1). Pub. L. 114–228 substituted “2017” for “2016”.
+
+2015—Subsec. (d)(1). Pub. L. 114–58 substituted “2016” for “2015”.
+
 2014—Subsec. (d)(1). Pub. L. 113–175 substituted “2015” for “2014”.
 
 2013—Subsec. (d)(1). Pub. L. 113–37 substituted “2007 through 2014” for “2007 through 2013”.
@@ -1511,7 +1620,7 @@ The Secretary may authorize homeless veterans receiving care through vocational 
 
 (4) The Secretary shall submit with each annual report submitted to the Congress pursuant to [section 529 of this title](./chapter-005-authority-and-duties-of-the-secretary.md#section-529) a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to that section.
 
-**(d) Termination.—** The Committee shall cease to exist December 31, 2015.
+**(d) Termination.—** The Committee shall cease to exist December 31, 2017.
 
 ### Statutory Notes
 
@@ -1519,6 +1628,10 @@ The Secretary may authorize homeless veterans receiving care through vocational 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(3)(F), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title II of the Act is classified generally to subchapter II (§ 11311 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11301&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2016—Subsec. (d). Pub. L. 114–228 substituted “December 31, 2017” for “December 31, 2016”.
+
+2015—Subsec. (d). Pub. L. 114–58 substituted “December 31, 2016” for “December 31, 2015”.
+
 2014—Subsec. (d). Pub. L. 113–175 substituted “December 31, 2015” for “December 31, 2014”.
 
 2013—Subsec. (d). Pub. L. 113–59 substituted “December 31, 2014” for “December 31, 2013”.
@@ -1537,3 +1650,26 @@ Pub. L. 109–444, which substituted “December 31, 2007” for “December 31,
 
 #### Change of Name
 Interagency Council on the Homeless changed to United States Interagency Council on Homelessness by Pub. L. 108–199, div. G, title II, § 216, Jan. 23, 2004, 118 Stat. 394.
+
+
+<a id="section-2067"></a>
+## § 2067. National Center on Homelessness Among Veterans
+**(a) In General.—**
+
+(1) The Secretary shall establish and operate a center to carry out the functions described in subsection (b).
+
+(2) The center established under paragraph (1) shall be known as the “National Center on Homelessness Among Veterans”.
+
+(3) To the degree practicable, the Secretary shall operate the center established under paragraph (1) independently of the other programs of the Department that address homelessness among veterans.
+
+**(b) Functions.—** The functions described in this subsection are as follows:
+
+(1) To carry out and promote research into the causes and contributing factors to veteran homelessness.
+
+(2) To assess the effectiveness of programs of the Department to meet the needs of homeless veterans.
+
+(3) To identify and disseminate best practices with regard to housing stabilization, income support, employment assistance, community partnerships, and such other matters as the Secretary considers appropriate with respect to addressing veteran homelessness.
+
+(4) To integrate evidence-based and best practices, policies, and programs into programs of the Department for homeless veterans and veterans at risk of homelessness and to ensure that the staff of the Department and community partners can implement such practices, policies, and programs.
+
+(5) To serve as a resource center for, and promote and seek to coordinate the exchange of information regarding, all research and training activities carried out by the Department and by other Federal and non-Federal entities with respect to veteran homelessness.

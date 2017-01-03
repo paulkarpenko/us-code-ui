@@ -544,7 +544,7 @@ In order to prevent unnecessary expenses and duplications of functions, and to p
 
 (4) that each Federal agency that has programs or projects requiring the acquisition of real property or causing a displacement from real property subject to the provisions of this chapter shall provide to the lead agency an annual summary report the 11 So in original. Probably should be “that”. describes the activities conducted by the Federal agency.
 
-**(c) Applicability to Tennessee Valley Authority and Rural Electrification Administration** The regulations and procedures issued pursuant to this section shall apply to the Tennessee Valley Authority and the Rural Electrification Administration only with respect to relocation assistance under this subchapter and subchapter I of this chapter.
+**(c) Applicability to Tennessee Valley Authority and Rural Electrification Administration** The regulations and procedures issued pursuant to this section shall apply to the Tennessee Valley Authority and the Rural Electrification Administration only with respect to relocation assistance under this subchapter and subchapter I.
 
 **(d) Adjustment of payments** The head of the lead agency may adjust, by regulation, the amounts of relocation payments provided under sections 4622(a)(4), 4622(c), 4623(a), and 4624(a) of this title if the head of the lead agency determines that cost of living, inflation, or other factors indicate that the payments should be adjusted to meet the policy objectives of this chapter.
 
@@ -702,7 +702,7 @@ In order to encourage and expedite the acquisition of real property by agreement
 
 (4) No owner shall be required to surrender possession of real property before the head of the Federal agency concerned pays the agreed purchase price, or deposits with the court in accordance with section 3114(a) to (d) of title 40, for the benefit of the owner, an amount not less than the agency’s approved appraisal of the fair market value of such property, or the amount of the award of compensation in the condemnation proceeding for such property.
 
-(5) The construction or development of a public improvement shall be so scheduled that, to the greatest extent practicable, no person lawfully occupying real property shall be required to move from a dwelling (assuming a replacement dwelling as required by subchapter II of this chapter will be available), or to move his business or farm operation, without at least ninety days’ written notice from the head of the Federal agency concerned, of the date by which such move is required.
+(5) The construction or development of a public improvement shall be so scheduled that, to the greatest extent practicable, no person lawfully occupying real property shall be required to move from a dwelling (assuming a replacement dwelling as required by subchapter II will be available), or to move his business or farm operation, without at least ninety days’ written notice from the head of the Federal agency concerned, of the date by which such move is required.
 
 (6) If the head of a Federal agency permits an owner or tenant to occupy the real property acquired on a rental basis for a short term or for a period subject to termination by the Government on short notice, the amount of rent required shall not exceed the fair rental value of the property to a short-term occupier.
 
@@ -717,7 +717,7 @@ In order to encourage and expedite the acquisition of real property by agreement
 ### Statutory Notes
 
 #### References in Text
-Subchapter II of this chapter, referred to in par. (5), was in the original “title II of this Act”, meaning title II of Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1895, which is classified principally to subchapter II of this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 4601 of this title](./chapter-061-uniform-relocation-assistance-and-real-property-acquisition-policies-for-federal-and-federally-assisted-programs.md#section-4601) and Tables.
+Subchapter II, referred to in par. (5), was in the original “title II”, meaning title II of Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1895, which is classified principally to subchapter II of this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 4601 of this title](./chapter-061-uniform-relocation-assistance-and-real-property-acquisition-policies-for-federal-and-federally-assisted-programs.md#section-4601) and Tables.
 
 This chapter, referred to in par. (9), was in the original “this Act”, meaning Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, known as the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of this title](./chapter-061-uniform-relocation-assistance-and-real-property-acquisition-policies-for-federal-and-federally-assisted-programs.md#section-4601) and Tables.
 

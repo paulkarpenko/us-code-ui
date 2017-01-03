@@ -98,9 +98,9 @@ Notwithstanding any other provision of law, the Secretary of Agriculture is auth
 
 (7) license use of the National Arboretum name and logo for public service or commercial uses.
 
-**(b) Use of funds** Any funds received or collected by the Secretary of Agriculture as a result of activities described in subsection (a) of this section shall be retained in a special fund in the Treasury. Amounts in the special fund shall be available to the Secretary of Agriculture, without further appropriation, for the use and benefit of the National Arboretum as the Secretary of Agriculture considers appropriate.
+**(b) Use of funds** Any funds received or collected by the Secretary of Agriculture as a result of activities described in subsection (a) shall be retained in a special fund in the Treasury. Amounts in the special fund shall be available to the Secretary of Agriculture, without further appropriation, for the use and benefit of the National Arboretum as the Secretary of Agriculture considers appropriate.
 
-**(c) Acceptance of voluntary services** The Secretary of Agriculture may accept the voluntary services of organizations described in subsection (a)(1) of this section, and the voluntary services of individuals (including employees of the National Arboretum), for the benefit of the National Arboretum.
+**(c) Acceptance of voluntary services** The Secretary of Agriculture may accept the voluntary services of organizations described in subsection (a)(1), and the voluntary services of individuals (including employees of the National Arboretum), for the benefit of the National Arboretum.
 
 **(d) Recognition of donors** A nonprofit organization that entered into a concession or agreement under subsection (a)(1) may recognize donors if that recognition is approved in advance by the Secretary of Agriculture. In considering whether to approve such recognition, the Secretary shall broadly exercise the discretion of the Secretary to the fullest extent allowed under Federal law.
 

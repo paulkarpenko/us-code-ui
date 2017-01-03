@@ -2,7 +2,7 @@
 title: 10
 chapter: '7'
 heading: 'BOARDS, COUNCILS, AND COMMITTEES'
-section_count: 20
+section_count: 21
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -95,7 +95,7 @@ Pub. L. 98–36, § 1, May 27, 1983, 97 Stat. 200, provided: “That this Act [e
 
 **(d) Responsibilities.—**
 
-(1) The Council shall be responsible for oversight of the command, control, and communications system for the national leadership of the United States, including nuclear command, control, and communications.
+(1) The Council shall be responsible for oversight of the command, control, and communications system for the national leadership of the United States, including nuclear command, control, and communications, and including with respect to the integrated tactical warning and attack assessment systems, processes, and enablers, and continuity of the governmental functions of the Department of Defense.
 
 (2) In carrying out the responsibility for oversight of the command, control, and communications system as specified in paragraph (1), the Council shall be responsible for the following:
 
@@ -103,13 +103,13 @@ Pub. L. 98–36, § 1, May 27, 1983, 97 Stat. 200, provided: “That this Act [e
 
   (B) Vulnerability identification and mitigation.
 
-  (C) Architecture development.
+  (C) Architecture development(including space system architectures and associated user terminals and ground segments).
 
   (D) Resource prioritization.
 
   (E) Such other responsibilities as the Secretary of Defense shall specify for purposes of this section.
 
-**(e) Annual Reports.—** At the same time each year that the budget of the President is submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Council shall submit to the congressional defense committees a report on the activities of the Council. Each report shall include the following:
+**(e) Annual Reports.—** During the period preceding January 31, 2021, at the same time each year that the budget of the President is submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), and from time to time after such period at the discretion of the Council, the Council shall submit to the congressional defense committees a report on the activities of the Council. Each report shall include the following:
 
 (1) A description and assessment of the activities of the Council during the previous fiscal year.
 
@@ -119,7 +119,13 @@ Pub. L. 98–36, § 1, May 27, 1983, 97 Stat. 200, provided: “That this Act [e
 
 (4) A breakdown of each program element in such budget that relates to the system, including how such program element relates to the operation and sustainment, research and development, procurement, or other activity of the system.
 
-**(f) Budget and Funding Matters.—**
+(5) An assessment of the threats and vulnerabilities described in the reports and assessments collected under subsection (f) during the previous year, including any plans to address such threats and vulnerabilities.
+
+(6) An assessment of the readiness of the command, control, and communications system for the national leadership of the United States and of each layer of the system, as that layer relates to nuclear command, control, and communications.
+
+**(f) Collection of Assessments on Certain Threats.—** The Council shall collect and assess (consistent with the provision of classified information and intelligence sources and methods) all reports and assessments otherwise conducted by the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)) 11 So in original. Another closing parenthesis probably should appear. regarding foreign threats, including cyber threats, to the command, control, and communications system for the national leadership of the United States and the vulnerabilities of such system to such threats.
+
+**(g) Budget and Funding Matters.—**
 
 (1) Not later than 30 days after the President submits to Congress the budget for a fiscal year under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Commander of the United States Strategic Command shall submit to the Chairman of the Joint Chiefs of Staff an assessment of—
 
@@ -135,19 +141,74 @@ Pub. L. 98–36, § 1, May 27, 1983, 97 Stat. 200, provided: “That this Act [e
 
 (3) If a House of Congress adopts a bill authorizing or appropriating funds for the activities of the command, control, and communications system for the national leadership of the United States that, as determined by the Council, provides insufficient funds for such activities for the period covered by such bill, the Council shall notify the congressional defense committees of the determination.
 
-**(g) Notification of Anomalies.—**
+**(h) Notification of Anomalies.—**
 
 (1) The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system for the national leadership of the United States that is reported to the Secretary or the Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
 
 (2) In this subsection, the term “anomaly” means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.
 
-**(h) National Leadership of the United States Defined.—** In this section, the term “national leadership of the United States” means the following:
+**(i) Reports on Space Architecture Development.—**
+
+(1) Not less than 90 days before each of the dates on which a system described in paragraph (2) achieves Milestone A or Milestone B approval, the Under Secretary of Defense for Acquisitions, Technology, and Logistics shall submit to the congressional defense committees a report prepared by the Council detailing the implications of any changes to the architecture of such a system with respect to the systems, capabilities, and programs covered under subsection (d).
+
+(2) A system described in this paragraph is any of the following:
+
+  (A) Advanced extremely high frequency satellites.
+
+  (B) The space-based infrared system.
+
+  (C) The integrated tactical warning and attack assessment system and its command and control system.
+
+  (D) The enhanced polar system.
+
+(3) In this subsection, the terms “Milestone A approval” and “Milestone B approval” have the meanings given such terms in section 2366(e) 22 See References in Text note below. of this title.
+
+**(j) Notification of Reduction of Certain Warning Time.—**
+
+(1) None of the funds authorized to be appropriated or otherwise made available to the Department of Defense for any fiscal year may be used to change any command, control, and communications system described in subsection (d)(1) in a manner that reduces the warning time provided to the national leadership of the United States with respect to a warning of a strategic missile attack on the United States unless—
+
+  (A) the Secretary of Defense notifies the congressional defense committees of such proposed change and reduction; and
+
+  (B) a period of one year elapses following the date of such notification.
+
+(2) Not later than March 1, 2017, and each year thereafter, the Council shall determine whether the integrated tactical warning and attack assessment system and its command and control system have met all warfighter requirements for operational availability, survivability, and endurability. If the Council determines that such systems have not met such requirements, the Secretary of Defense and the Chairman of the Joint Chiefs of Staff shall jointly submit to the congressional defense committees—
+
+  (A) an explanation for such negative determination;
+
+  (B) a description of the mitigations that are in place or being put in place as a result of such negative determination; and
+
+  (C) the plan of the Secretary and the Chairman to ensure that the Council is able to make a positive determination in the following year.
+
+**(k) National Leadership of the United States Defined.—** In this section, the term “national leadership of the United States” means the following:
 
 (1) The President.
 
 (2) The Vice President.
 
 (3) Such other civilian officials of the United States Government as the President shall designate for purposes of this section.
+
+### Statutory Notes
+
+#### References in Text
+[Section 2366(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2366/e&num=0&edition=prelim), referred to in subsec. (i)(3), defines term “Milestone B approval”, but does not define term “Milestone A approval”. Provisions defining term “Milestone A approval” are contained in [section 2366a(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2366a/d&num=0&edition=prelim).
+
+#### Amendments
+2016—Subsec. (d)(1). Pub. L. 114–328, § 1661(a)(1), inserted “, and including with respect to the integrated tactical warning and attack assessment systems, processes, and enablers, and continuity of the governmental functions of the Department of Defense” before period at end.
+
+Subsec. (d)(2)(C). Pub. L. 114–328, § 1661(a)(2), inserted “(including space system architectures and associated user terminals and ground segments)” before period at end.
+
+Subsec. (e). Pub. L. 114–328, § 1661(c)(1), substituted “During the period preceding January 31, 2021, at the same time each year that the budget of the President is submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), and from time to time after such period at the discretion of the Council,” for “At the same time each year that the budget of the President is submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim),” in introductory provisions.
+
+Subsec. (e)(6). Pub. L. 114–328, § 1661(c)(2), added par. (6).
+
+Subsecs. (i) to (k). Pub. L. 114–328, § 1661(b), added subsecs. (i) and (j) and redesignated former subsec. (i) as (k).
+
+2015—Subsec. (e)(5). Pub. L. 114–92, § 1651(3), added par. (5).
+
+Subsecs. (f) to (i). Pub. L. 114–92, § 1651(1), (2), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
+
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsecs. (e) and (g)(2) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
 
 <a id="section-172"></a>
@@ -548,7 +609,7 @@ Pub. L. 98–132, § 1, Oct. 17, 1983, 97 Stat. 849, provided: “That (a) the F
 
     (ii) A detailed assessment by the Nuclear Weapons Council regarding how the Administrator for Nuclear Security implemented any agreements and decisions of the Council made during such prior fiscal year.
 
-    (iii) An assessment from each of the Chairman of the Joints Chiefs of Staff and the Commander of the United States Strategic Command regarding any effects to the military during such prior fiscal year that were caused by the delay or failure of the Administrator to implement any agreements or decisions described in clause (ii).
+    (iii) An assessment from each of the Chairman of the Joints 11 So in original. Chiefs of Staff and the Commander of the United States Strategic Command regarding any effects to the military during such prior fiscal year that were caused by the delay or failure of the Administrator to implement any agreements or decisions described in clause (ii).
 
   (C) With respect to a report described in subparagraph (B), the Secretary may waive the requirement to include the certification described in clause (i) of such subparagraph if the Secretary—
 
@@ -584,29 +645,11 @@ Pub. L. 98–132, § 1, Oct. 17, 1983, 97 Stat. 849, provided: “That (a) the F
 
   (C) The term “proposed transfer of estimated nuclear budget request authority” means, in preparing a budget, a request for the Secretary of Defense to transfer an estimated amount of the proposed budget authority of the Secretary to the Secretary of Energy for purposes relating to nuclear weapons.
 
-**(g) Annual Report.—** Each fiscal year, at the same time the President submits the budget pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Chairman of the Council, through the Secretary of Energy, shall submit to the congressional defense committees a report, in classified form, that includes the following:
-
-(1) The effectiveness and efficiency of the Council, and of the deliberative and decisionmaking processes used by the Council, in carrying out the responsibilities described in subsection (d).
-
-(2) A description of all activities conducted by the Department of Energy during that fiscal year, or planned to be conducted by the Department of Energy during the next fiscal year, for the study, development, production, and retirement of nuclear warheads and that have been approved by the Council, including a description of—
-
-  (A) the concept definition activities and feasibility studies conducted or planned to be conducted by the Department of Energy;
-
-  (B) the schedule for completion of each such activity or study; and
-
-  (C) the degree to which each such activity or study is consistent with United States policy for new nuclear warhead development or warhead modification and with established or projected military requirements.
-
-(3) A description of the activities of the Council during the 12-month period ending on the date of the report together with any assessments or studies conducted by the Council during that period.
-
-(4) A description of the highest priority requirements of the Department of Defense with respect to the Department of Energy stockpile stewardship and management program as of that date.
-
-(5) An assessment of the extent to which the requirements referred to in paragraph (4) are being addressed by the Department of Energy as of that date.
-
-(6) A description and assessment of the joint efforts of the Secretary of Defense and the Secretary of Energy to develop common security practices that improve the security of the nuclear weapons and facilities of the Department of Defense and the Department of Energy.
-
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (g). Pub. L. 114–92 struck out subsec. (g) which related to annual report.
+
 2014—Subsec. (f)(3) to (6). Pub. L. 113–291 added pars. (3) to (6).
 
 2013—Subsec. (a)(5). Pub. L. 113–66, § 1091(a)(3), substituted “Commander” for “commander”.
@@ -700,6 +743,9 @@ Subsec. (e). Pub. L. 103–337, § 3152(b), added subsec. (e).
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under [section 131 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-131).
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (f) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
 #### Chairman of JCS To Serve on Council If There Is No Vice Chairman of JCS
 Pub. L. 99–661, div. C, title I, § 3137(b), Nov. 14, 1986, 100 Stat. 4066, provided that, if on Nov. 14, 1986, the position of Vice Chairman of the Joint Chiefs of Staff had not been established by law, the Chairman of the Joint Chiefs of Staff would be a member of the Nuclear Weapons Council established by [section 179 of this title](./chapter-007-boards-councils-and-committees.md#section-179), and would remain a member of such Council until an individual had been appointed Vice Chairman of the Joint Chiefs of Staff.
 
@@ -738,79 +784,98 @@ Pub. L. 99–661, div. C, title I, § 3137(b), Nov. 14, 1986, 100 Stat. 4066, pr
 
 <a id="section-181"></a>
 ## § 181. Joint Requirements Oversight Council
-**(a) Establishment.—** There is a Joint Requirements Oversight Council in the Department of Defense.
+**(a) In General.—** There is a Joint Requirements Oversight Council in the Department of Defense.
 
-**(b) Mission.—** In addition to other matters assigned to it by the President or Secretary of Defense, the Joint Requirements Oversight Council shall—
+**(b) Mission.—** In addition to other matters assigned to it by the President or Secretary of Defense, the Joint Requirements Oversight Council shall assist the Chairman of the Joint Chiefs of Staff in—
 
-(1) assist the Chairman of the Joint Chiefs of Staff—
+(1) assessing joint military capabilities, and identifying, approving, and prioritizing gaps in such capabilities, to meet applicable requirements in the national defense strategy under section 118 11 See References in Text note below. of this title;
 
-  (A) in identifying, assessing, and approving joint military requirements (including existing systems and equipment) to meet the national military strategy;
+(2) reviewing and validating whether a capability proposed by an armed force, Defense Agency, or other entity of the Department of Defense fulfills a gap in joint military capabilities;
 
-  (B) in identifying the core mission area associated with each such requirement; and
+(3) developing recommendations, in consultation with the advisors to the Council under subsection (d), for program cost and fielding targets pursuant to [section 2448a of this title](./chapter-144b-weapon-systems-development-and-related-matters.md#section-2448a) that—
 
-  (C) in ensuring that appropriate trade-offs are made among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, in the establishment and approval of military requirements in consultation with the advisors specified in subsection (d);
+  (A) require a level of resources that is consistent with the level of priority assigned to the associated capability gap; and
 
-(2) assist the Chairman in establishing and assigning priority levels for joint military requirements;
+  (B) have an estimated period of time for the delivery of an initial operational capability that is consistent with the urgency of the associated capability gap;
 
-(3) assist the Chairman, in consultation with the advisors to the Council under subsection (d), in reviewing the estimated level of resources required in the fulfillment of each joint military requirement and in ensuring that the total cost of such resources is consistent with the level of priority assigned to such requirement;
+(4) establishing and approving joint performance requirements that—
 
-(4) assist acquisition officials in identifying alternatives to any acquisition program that meet joint military requirements for the purposes of section 2366a(b), section 2366b(a)(4), and [section 2433(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2433/e/2&num=0&edition=prelim); and
+  (A) ensure interoperability, where appropriate, between and among joint military capabilities; and
 
-(5) assist the Chairman, in consultation with the commanders of the combatant commands and the Under Secretary of Defense for Acquisition, Technology, and Logistics, in establishing an objective for the overall period of time within which an initial operational capability should be delivered to meet each joint military requirement.
+  (B) are necessary, as designated by the Chairman of the Joint Chiefs of Staff, to fulfill capability gaps of more than one armed force, Defense Agency, or other entity of the Department;
+
+(5) reviewing performance requirements for any existing or proposed capability that the Chairman of the Joint Chiefs of Staff determines should be reviewed by the Council;
+
+(6) identifying new joint military capabilities based on advances in technology and concepts of operation; and
+
+(7) identifying alternatives to any acquisition program that meets approved joint military capability requirements for the purposes of sections 2366a(b), 2366b(a)(4), and 2433(e)(2) of this title.
 
 **(c) Composition.—**
 
-(1) The Joint Requirements Oversight Council is composed of—
+(1) **In general.—** — The Joint Requirements Oversight Council is composed of the following:
 
-  (A) the Vice Chairman of the Joint Chiefs of Staff, who is the chairman of the Council;
+  (A) The Vice Chairman of the Joint Chiefs of Staff, who is the Chair of the Council and is the principal adviser to the Chairman of the Joint Chiefs of Staff for making recommendations about joint military capabilities or joint performance requirements.
 
-  (B) an Army officer in the grade of general;
+  (B) An Army officer in the grade of general.
 
-  (C) a Navy officer in the grade of admiral;
+  (C) A Navy officer in the grade of admiral.
 
-  (D) an Air Force officer in the grade of general;
+  (D) An Air Force officer in the grade of general.
 
-  (E) a Marine Corps officer in the grade of general; and
+  (E) A Marine Corps officer in the grade of general.
 
-  (F) in addition, when directed by the chairman, the commander of any combatant command (or, as directed by that commander, the deputy commander of that command) when matters related to the area of responsibility or functions of that command will be under consideration by the Council.
+(2) **Selection of members.—** — Members of the Council under subparagraphs (B), (C), (D), and (E) of paragraph (1) shall be selected by the Chairman of the Joint Chiefs of Staff, after consultation with the Secretary of Defense, from officers in the grade of general or admiral, as the case may be, who are recommended for selection by the Secretary of the military department concerned.
 
-(2) Members of the Council under subparagraphs (B), (C), (D), and (E) of paragraph (1) shall be selected by the Chairman of the Joint Chiefs of Staff, after consultation with the Secretary of Defense, from officers in the grade of general or admiral, as the case may be, who are recommended for such selection by the Secretary of the military department concerned.
+(3) **Recommendations.—** — In making any recommendation to the Chairman of the Joint Chiefs of Staff as described in paragraph (1)(A), the Vice Chairman of the Joint Chiefs of Staff shall provide the Chairman any dissenting view of members of the Council under paragraph (1) with respect to such recommendation.
 
 **(d) Advisors.—**
 
-(1) The following officials of the Department of Defense shall serve as advisors to the Council on matters within their authority and expertise:
+(1) **In general.—** — The following officials of the Department of Defense shall serve as advisors to the Joint Requirements Oversight Council on matters within their authority and expertise:
 
-  (A) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+  (A) The Under Secretary of Defense for Policy.
 
-  (B) The Under Secretary of Defense (Comptroller).
+  (B) The Under Secretary of Defense for Intelligence.
 
-  (C) The Under Secretary of Defense for Policy.
+  (C) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
-  (D) The Director of Cost Assessment and Program Evaluation.
+  (D) The Under Secretary of Defense (Comptroller).
 
-  (E) The Director of Operational Test and Evaluation.
+  (E) The Director of Cost Assessment and Program Evaluation.
 
-  (F) Such other civilian officials of the Department of Defense as are designated by the Secretary of Defense for purposes of this subsection.
+  (F) The Director of Operational Test and Evaluation.
 
-(2) The Council shall seek and consider input from the commanders of the combatant commands in carrying out its mission under paragraphs (1) and (2) of subsection (b) and in conducting periodic reviews in accordance with the requirements of subsection (e).
+  (G) The commander of a combatant command when matters related to the area of responsibility or functions of that command are under consideration by the Council.
 
-**(e) Organization.—** The Joint Requirements Oversight Council shall conduct periodic reviews of joint military requirements within a core mission area of the Department of Defense. In any such review of a core mission area, the officer or official assigned to lead the review shall have a deputy from a different military department.
+(2) **Input from combatant commands.—** — The Council shall seek and consider input from the commanders of the combatant commands in carrying out its mission under paragraphs (1) and (2) of subsection (b).
 
-**(f) Availability of Oversight Information to Congressional Defense Committees.—**
+(3) **Input from chiefs of staff.—** — The Council shall seek, and strongly consider, the views of the Chiefs of Staff of the armed forces, in their roles as customers of the acquisition system, on matters pertaining to a capability proposed by an armed force, Defense Agency, or other entity of the Department of Defense under subsection (b)(2) and joint performance requirements pursuant to subsection (b)(3).
 
-(1) The Secretary of Defense shall ensure that, in the case of a recommendation by the Chairman to the Secretary that is approved by the Secretary, oversight information with respect to such recommendation that is produced as a result of the activities of the Joint Requirements Oversight Council is made available in a timely fashion to the congressional defense committees.
+**(e) Performance Requirements as Responsibility of Armed Forces.—** The Chief of Staff of an armed force is responsible for all performance requirements for that armed force and, except for performance requirements specified in subsections (b)(4) and (b)(5), such performance requirements do not need to be validated by the Joint Requirements Oversight Council.
 
-(2) In this subsection, the term “oversight information” means information and materials comprising analysis and justification that are prepared to support a recommendation that is made to, and approved by, the Secretary of Defense.
+**(f) Analytic Support.—** The Secretary of Defense shall ensure that analytical organizations within the Department of Defense, such as the Office of Cost Assessment and Program Evaluation, provide resources and expertise in operations research, systems analysis, and cost estimation to the Joint Requirements Oversight Council to assist the Council in performing the mission in subsection (b).
 
-**(g) Definitions.—** In this section:
+**(g) Availability of Oversight Information to Congressional Defense Committees.—** The Secretary of Defense shall ensure that, in the case of a recommendation by the Chairman of the Joint Chiefs of Staff to the Secretary that is approved by the Secretary, oversight information with respect to such recommendation that is produced as a result of the activities of the Joint Requirements Oversight Council is made available in a timely fashion to the congressional defense committees.
 
-(1) The term “joint military requirement” means a capability necessary to fulfill a gap in a core mission area of the Department of Defense.
+**(h) Definitions.—** In this section:
 
-(2) The term “core mission area” means a core mission area of the Department of Defense identified under the most recent quadrennial roles and missions review pursuant to [section 118b of this title](./chapter-002-department-of-defense.md#section-118b).
+(1) The term “joint military capabilities” means the collective capabilities across the joint force, including both joint and force-specific capabilities, that are available to conduct military operations.
+
+(2) The term “performance requirement” means a performance attribute of a particular system considered critical or essential to the development of an effective military capability.
+
+(3) The term “joint performance requirement” means a performance requirement that is critical or essential to ensure interoperability or fulfill a capability gap of more than one armed force, Defense Agency, or other entity of the Department of Defense, or impacts the joint force in other ways such as logistics.
+
+(4) The term “oversight information” means information and materials comprising analysis and justification that are prepared to support a recommendation that is made to, and approved by, the Secretary of Defense.
 
 ### Statutory Notes
 
+#### References in Text
+[Section 118 of this title](./chapter-002-department-of-defense.md#section-118), referred to in subsec. (b)(1), was repealed by Pub. L. 114–328, div. A, title IX, § 941(b)(1), Dec. 23, 2016, 130 Stat. 2367. Requirements in the national defense strategy are now set out in subsec. (g) of [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
+
 #### Amendments
+2016—Pub. L. 114–328 amended section generally. Prior to amendment, related to Joint Requirements Oversight Council and consisted of its establishment, mission, composition, advisors, organization, availability of oversight information to Congressional defense committees, and definitions.
+
+2015—Subsec. (d)(3). Pub. L. 114–92 added par. (3).
+
 2013—Subsec. (b)(1)(C). Pub. L. 112–239, § 951(b)(1), substituted “in ensuring that appropriate trade-offs are made among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, in the establishment and approval of military requirements” for “in ensuring the consideration of trade-offs among cost, schedule, and performance objectives for joint military requirements”.
 
 Subsec. (b)(3). Pub. L. 112–239, § 951(b)(2), substituted “the total cost of such resources” for “such resource level”.
@@ -876,7 +941,7 @@ Pub. L. 111–23, title II, § 201(c), May 22, 2009, 123 Stat. 1720, provided th
 Pub. L. 111–23, title II, § 201(d), May 22, 2009, 123 Stat. 1720, provided that: “The Director of Cost Assessment and Program Evaluation shall take the lead in the development of study guidance for an analysis of alternatives for each joint military requirement for which the Chairman of the Joint Requirements Oversight Council is the validation authority. In developing the guidance, the Director shall solicit the advice of appropriate officials within the Department of Defense and ensure that the guidance requires, at a minimum— “(1) full consideration of possible trade-offs among cost, schedule, and performance objectives for each alternative considered; and “(2) an assessment of whether or not the joint military requirement can be met in a manner that is consistent with the cost and schedule objectives recommended by the Joint Requirements Oversight Council.”
 
 #### Deadlines for Inclusion of Core Mission References in Documents
-Pub. L. 110–181, div. A, title IX, § 942(f), Jan. 28, 2008, 122 Stat. 288, provided that: “Effective June 1, 2009, all joint military requirements documents of the Joint Requirements Oversight Council produced to carry out its mission under [section 181(b)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section181/b/1&num=0&edition=prelim), United States Code, shall reference the core mission areas organized and defined under section 118b of such title. Not later than October 1, 2009, all such documents produced before June 1, 2009, shall reference such structure.”
+Pub. L. 110–181, div. A, title IX, § 942(f), Jan. 28, 2008, 122 Stat. 288, provided that: “Effective June 1, 2009, all joint military requirements documents of the Joint Requirements Oversight Council produced to carry out its mission under [section 181(b)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section181/b/1&num=0&edition=prelim), United States Code, shall reference the core mission areas organized and defined under [former] section 118b of such title. Not later than October 1, 2009, all such documents produced before June 1, 2009, shall reference such structure.”
 
 #### Reports on Joint Requirements Oversight Council Reform Initiative
 Pub. L. 106–398, § 1 [[div. A], title IX, § 916], Oct. 30, 2000, 114 Stat. 1654, 1654A–231, as amended by Pub. L. 107–107, div. A, title IX, § 923, Dec. 28, 2001, 115 Stat. 1199, directed the Chairman of the Joints Chiefs of Staff to submit reports to committees of Congress not later than Mar. 1, 2001, Sept. 1, 2001, Mar. 1, 2002, and Mar. 1, 2003, on the progress made on the initiative of the Chairman to reform and refocus the Joint Requirements Oversight Council.
@@ -984,159 +1049,20 @@ Pub. L. 110–181, div. A, title IX, § 906(a)(3), Jan. 28, 2008, 122 Stat. 277,
 
 
 <a id="section-184"></a>
-## § 184. Regional Centers for Security Studies
-**(a) In General.—** The Secretary of Defense shall administer the Department of Defense Regional Centers for Security Studies in accordance with this section as international venues for bilateral and multilateral research, communication, and exchange of ideas involving military and civilian participants.
-
-**(b) Regional Centers Specified.—**
-
-(1) A Department of Defense Regional Center for Security Studies is a Department of Defense institution that—
-
-  (A) is operated, and designated as such, by the Secretary of Defense for the study of security issues relating to a specified geographic region of the world; and
-
-  (B) serves as a forum for bilateral and multilateral research, communication, and exchange of ideas involving military and civilian participants.
-
-(2) The Department of Defense Regional Centers for Security Studies are the following:
-
-  (A) The George C. Marshall European Center for Security Studies, established in 1993 and located in Garmisch-Partenkirchen, Germany.
-
-  (B) The Daniel K. Inouye Asia-Pacific Center for Security Studies, established in 1995 and located in Honolulu, Hawaii.
-
-  (C) The William J. Perry Center for Hemispheric Defense Studies, established in 1997 and located in Washington, D.C.
-
-  (D) The Africa Center for Strategic Studies, established in 1999 and located in Washington, D.C.
-
-  (E) The Near East South Asia Center for Strategic Studies, established in 2000 and located in Washington, D.C.
-
-(3) No institution or element of the Department of Defense may be designated as a Department of Defense Regional Center for Security Studies for purposes of this section, other than the institutions specified in paragraph (2), except as specifically provided by law after October 17, 2006.
-
-**(c) Regulations.—** The administration of the Regional Centers under this section shall be carried out under regulations prescribed by the Secretary.
-
-**(d) Participation.—** Participants in activities of the Regional Centers may include United States and foreign military, civilian, and nongovernmental personnel.
-
-**(e) Employment and Compensation of Faculty.—** At each Regional Center, the Secretary may, subject to the availability of appropriations—
-
-(1) employ a Director, a Deputy Director, and as many civilians as professors, instructors, and lecturers as the Secretary considers necessary; and
-
-(2) prescribe the compensation of such persons, in accordance with Federal guidelines.
-
-**(f) Payment of Costs.—**
-
-(1) Participation in activities of a Regional Center shall be on a reimbursable basis (or by payment in advance), except in a case in which reimbursement is waived in accordance with paragraph (3).
-
-(2) For a foreign national participant, payment of costs may be made by the participant, the participant’s own government, by a Department or agency of the United States other than the Department of Defense, or by a gift or donation on behalf of one or more Regional Centers accepted under [section 2611 of this title](./chapter-155-acceptance-of-gifts-and-services.md#section-2611) on behalf of the participant’s government.
-
-(3) The Secretary of Defense may waive reimbursement of the costs of activities of the Regional Centers for foreign military officers and foreign defense and security civilian government officials from a developing country if the Secretary determines that attendance of such personnel without reimbursement is in the national security interest of the United States. Costs for which reimbursement is waived pursuant to this paragraph shall be paid from appropriations available to the Regional Centers.
-
-(4) Funds accepted for the payment of costs shall be credited to the appropriation then currently available to the Department of Defense for the Regional Center that incurred the costs. Funds so credited shall be merged with the appropriation to which credited and shall be available to that Regional Center for the same purposes and same period as the appropriation with which merged.
-
-(5) Funds available for the payment of personnel expenses under the Latin American cooperation authority set forth in [section 1050 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1050) are also available for the costs of the operation of the William J. Perry Center for Hemispheric Defense Studies.
-
-(6) Funds available to carry out this section, including funds accepted under paragraph (4) and funds available under paragraph (5), shall be available, to the extent provided in appropriations Acts, for programs and activities under this section that begin in a fiscal year and end in the following fiscal year.
-
-**(g) Support to Other Agencies.—** The Director of a Regional Center may enter into agreements with the Secretaries of the military departments, the heads of the Defense Agencies, and, with the concurrence of the Secretary of Defense, the heads of other Federal departments and agencies for the provision of services by that Regional Center under this section. Any such participating department and agency shall transfer to the Regional Center funds to pay the full costs of the services received.
+## § 184. Renumbered § 342]
 
 ### Statutory Notes
 
-#### Amendments
-2014—Subsec. (b)(2)(B). Pub. L. 113–291 substituted “Daniel K. Inouye Asia-Pacific Center for Security Studies” for “Asia-Pacific Center for Security Studies”.
-
-2013—Subsec. (b)(2)(C). Pub. L. 112–239, § 2854(b)(1)(A), substituted “The William J. Perry Center for Hemispheric Defense Studies” for “The Center for Hemispheric Defense Studies”.
-
-Subsec. (f)(5). Pub. L. 112–239, § 2854(b)(1)(B), substituted “the William J. Perry Center for Hemispheric Defense Studies” for “the Center for Hemispheric Defense Studies”.
-
-2011—Subsec. (h). Pub. L. 112–81 struck out subsec. (h) which required the Secretary of Defense to submit an annual report on the operation of the Regional Centers for security studies during the preceding fiscal year.
-
-2009—Subsec. (b)(3). Pub. L. 111–84 substituted “October 17, 2006” for “the date of the enactment of this section”.
-
-2008—Subsec. (f)(6). Pub. L. 110–417 added par. (6).
-
-2006—Pub. L. 109–364 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to notification to Congress of the establishment of new regional centers, annual report on the operation of such centers, and definition of “regional center for security studies”.
-
-Subsec. (b)(4). Pub. L. 109–163 substituted “under [section 2611 of this title](./chapter-155-acceptance-of-gifts-and-services.md#section-2611).” for “under any of the following provisions of law:
-
-“(A) [Section 2611 of this title](./chapter-155-acceptance-of-gifts-and-services.md#section-2611).
-
-“(B) Section 1306 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2892).
-
-“(C) Section 1065 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2653; [10 U.S.C. 113](./chapter-002-department-of-defense.md#section-113) note).”
-
-2003—Subsec. (b)(4). Pub. L. 108–136 struck out “foreign” before “gifts”.
-
-2001—Subsec. (a). Pub. L. 107–107 substituted “October 30, 2000,” for “the date of the enactment of this section,” in introductory provisions.
-
-#### Effective Date of 2008 Amendment
-Pub. L. 110–417, [div. A], title IX, § 941(a)(2), Oct. 14, 2008, 122 Stat. 4576, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on October 1, 2008, and shall apply with respect to programs and activities under [section 184 of title 10](./chapter-007-boards-councils-and-committees.md#section-184), United States Code (as so amended), that begin on or after that date.”
-
-#### Redesignation of the Asia-Pacific Center for Security Studies as the Daniel K. Inouye Asia-Pacific Center for Security Studies
-Pub. L. 113–291, div. B, title XXVIII, § 2861(a), Dec. 19, 2014, 128 Stat. 3715, provided that: “The Department of Defense regional center for security studies known as the Asia-Pacific Center for Security Studies is hereby renamed the ‘Daniel K. Inouye Asia-Pacific Center for Security Studies’.”
-
-Pub. L. 113–291, div. B, title XXVIII, § 2861(c), Dec. 19, 2014, 128 Stat. 3716, provided that: “Any reference to the Department of Defense Asia-Pacific Center for Security Studies in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Daniel K. Inouye Asia-Pacific Center for Security Studies.”
-
-#### Redesignation of the Center for Hemispheric Defense Studies as the William J. Perry Center for Hemispheric Defense Studies
-Pub. L. 112–239, div. B, title XXVIII, § 2854(a), Jan. 2, 2013, 126 Stat. 2161, provided that: “The Department of Defense regional center for security studies known as the Center for Hemispheric Defense Studies is hereby renamed the ‘William J. Perry Center for Hemispheric Defense Studies’ ”.
-
-Pub. L. 112–239, div. B, title XXVIII, § 2854(c), Jan. 2, 2013, 126 Stat. 2162, provided that: “Any reference to the Department of Defense Center for Hemispheric Defense Studies in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the William J. Perry Center for Hemispheric Defense Studies.”
-
 #### Temporary Waiver of Reimbursement of Costs of Activities for Nongovernmental Personnel
-Pub. L. 110–417, [div. A], title IX, § 941(b), Oct. 14, 2008, 122 Stat. 4577, as amended by Pub. L. 111–383, div. A, title IX, § 941, Jan. 7, 2011, 124 Stat. 4340; Pub. L. 112–239, div. A, title IX, § 953, Jan. 2, 2013, 126 Stat. 1895; Pub. L. 113–66, div. A, title X, § 1094(b), Dec. 26, 2013, 127 Stat. 878; Pub. L. 113–291, div. A, title IX, § 913, Dec. 19, 2014, 128 Stat. 3474, provided that: “(1) Authority for temporary waiver.—In fiscal years 2009 through 2019, the Secretary of Defense may, with the concurrence of the Secretary of State, waive reimbursement otherwise required under subsection (f) of [section 184 of title 10](./chapter-007-boards-councils-and-committees.md#section-184), United States Code, of the costs of activities of Regional Centers under such section for personnel of nongovernmental and international organizations who participate in activities of the Regional Centers that enhance cooperation of nongovernmental organizations and international organizations with United States forces if the Secretary of Defense determines that attendance of such personnel without reimbursement is in the national security interests of the United States. “(2) Limitation.—The amount of reimbursement that may be waived under paragraph (1) in any fiscal year may not exceed $1,000,000. “(3) Annual report.—The Secretary of Defense shall include in the annual report under [former] [section 184(h) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section184/h&num=0&edition=prelim), United States Code, in each year through 2013 information on the attendance of personnel of nongovernmental and international organizations in activities of the Regional Centers during the preceding fiscal year for which a waiver of reimbursement was made under paragraph (1), including information on the costs incurred by the United States for the participation of personnel of each nongovernmental or international organization that so attended.”
+Pub. L. 110–417, [div. A], title IX, § 941(b), Oct. 14, 2008, 122 Stat. 4577, as amended by Pub. L. 111–383, div. A, title IX, § 941, Jan. 7, 2011, 124 Stat. 4340; Pub. L. 112–239, div. A, title IX, § 953, Jan. 2, 2013, 126 Stat. 1895; Pub. L. 113–66, div. A, title X, § 1094(b), Dec. 26, 2013, 127 Stat. 878; Pub. L. 113–291, div. A, title IX, § 913, Dec. 19, 2014, 128 Stat. 3474, provided a temporary waiver of reimbursement of costs of activities for nongovernmental personnel, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1241(e)(5)(A), Dec. 23, 2016, 130 Stat. 2507.
 
 
 <a id="section-185"></a>
-## § 185. Financial Management Modernization Executive Committee
-**(a) Establishment of Financial Management Modernization Executive Committee.—**
-
-(1) The Secretary of Defense shall establish a Financial Management Modernization Executive Committee.
-
-(2) The Committee shall be composed of the following:
-
-  (A) The Under Secretary of Defense (Comptroller), who shall be the chairman of the committee.
-
-  (B) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
-
-  (C) The Under Secretary of Defense for Personnel and Readiness.
-
-  (D) The Chief Information Officer of the Department of Defense.
-
-  (E) Such additional personnel of the Department of Defense (including appropriate personnel of the military departments and Defense Agencies) as are designated by the Secretary.
-
-(3) The Committee shall be accountable to the Senior Executive Council (composed of the Secretary of Defense, the Deputy Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force).
-
-**(b) Duties.—** In addition to other matters assigned to it by the Secretary of Defense, the Committee shall have the following duties:
-
-(1) To establish a process that ensures that each critical accounting system, financial management system, and data feeder system of the Department of Defense is compliant with applicable Federal financial management and reporting requirements.
-
-(2) To develop a management plan for the implementation of the financial and data feeder systems compliance process established pursuant to paragraph (1).
-
-(3) To supervise and monitor the actions that are necessary to implement the management plan developed pursuant to paragraph (2), as approved by the Secretary of Defense.
-
-(4) To ensure that a Department of Defense financial management enterprise architecture is developed and maintained in accordance with—
-
-  (A) the overall business process transformation strategy of the Department; and
-
-  (B) the architecture framework of the Department for command, control, communications, computers, intelligence, surveillance, and reconnaissance functions.
-
-(5) To ensure that investments in existing or proposed financial management systems for the Department comply with the overall business practice transformation strategy of the Department and the financial management enterprise architecture developed under paragraph (4).
-
-(6) To provide an annual accounting of each financial and data feeder system investment technology project to ensure that each such project is being implemented at acceptable cost and within a reasonable schedule and is contributing to tangible, observable improvements in mission performance.
-
-**(c) Management Plan for Implementation of Financial Data Feeder Systems Compliance Process.—** The management plan developed under subsection (b)(2) shall include among its principal elements at least the following elements:
-
-(1) A requirement for the establishment and maintenance of a complete inventory of all budgetary, accounting, finance, and data feeder systems that support the transformed business processes of the Department and produce financial statements.
-
-(2) A phased process (consisting of the successive phases of Awareness, Evaluation, Renovation, Validation, and Compliance) for improving systems referred to in paragraph (1) that provides for mapping financial data flow from the cognizant Department business function source (as part of the overall business process transformation strategy of the Department) to Department financial statements.
-
-(3) Periodic submittal to the Secretary of Defense, the Deputy Secretary of Defense, and the Senior Executive Council (or any combination thereof) of reports on the progress being made in achieving financial management transformation goals and milestones included in the annual financial management improvement plan in 2002.
-
-(4) Documentation of the completion of each phase specified in paragraph (2) of improvements made to each accounting, finance, and data feeder system of the Department.
-
-(5) Independent audit by the Inspector General of the Department, the audit agencies of the military departments, and private sector firms contracted to conduct validation audits (or any combination thereof) at the validation phase for each accounting, finance, and data feeder system.
-
-**(d) Data Feeder Systems.—** In this section, the term “data feeder system” means an automated or manual system from which information is derived for a financial management system or an accounting system.
+## § 185. Repealed. Pub. L. 114–328, div. A, title IX, § 904(a), Dec. 23, 2016, 130 Stat. 2345]
 
 ### Statutory Notes
 
-#### Amendments
-2002—Subsec. (d). Pub. L. 107–314 substituted “means an automated or manual system from which information is derived for a financial management system or an accounting system” for “has the meaning given that term in [section 2222(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2222/c/2&num=0&edition=prelim)”.
+Section, added Pub. L. 107–107, div. A, title X, § 1009(a)(1), Dec. 28, 2001, 115 Stat. 1206; amended Pub. L. 107–314, div. A, title X, § 1004(h)(2), Dec. 2, 2002, 116 Stat. 2631, related to Financial Management Modernization Executive Committee.
 
 
 <a id="section-186"></a>
@@ -1159,7 +1085,7 @@ Section, added Pub. L. 108–375, div. A, title III, § 332(b)(1), Oct. 28, 2004
 
   (B) The Administrator of the Defense Logistics Agency Strategic Materials, or any successor organization, who shall be the vice chairman of the Board.
 
-  (C) A designee of the Assistant Secretary of the Army for Acquisition, Logistics, and Technology.
+  (C) A designee of the Assistant Secretary of the Army for Acquisition, Technology, and Logistics.
 
   (D) A designee of the Assistant Secretary of the Navy for Research, Development, and Acquisition.
 
@@ -1200,6 +1126,8 @@ Section, added Pub. L. 108–375, div. A, title III, § 332(b)(1), Oct. 28, 2004
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a)(2)(C). Pub. L. 114–328 substituted “Acquisition, Technology, and Logistics” for “Acquisition, Logistics, and Technology”.
+
 2013—Subsec. (a)(2). Pub. L. 112–239, § 901(c)(1), amended par. (2) generally. Prior to amendment, par. (2) related to composition of the Strategic Materials Protection Board.
 
 Subsec. (b)(3), (4). Pub. L. 112–239, § 901(c)(2), substituted “Secretary” for “President”.
@@ -1323,3 +1251,58 @@ Pub. L. 112–239, div. A, title X, § 1040(c), Jan. 2, 2013, 126 Stat. 1930, pr
 
 #### Amendments
 2014—Subsec. (c)(1). Pub. L. 113–291 substituted “2430(a)” for “139c” in introductory provisions.
+
+
+<a id="section-190"></a>
+## § 190. Defense Cost Accounting Standards Board
+**(a) Organization.—** The Defense Cost Accounting Standards Board is an independent board in the Office of the Secretary of Defense.
+
+**(b) Membership.—**
+
+(1) The Board consists of seven members. One member is the Chief Financial Officer of the Department of Defense or a designee of the Chief Financial Officer, who serves as Chairman. The other six members, all of whom shall have experience in contract pricing, finance, or cost accounting, are as follows:
+
+  (A) Three representatives of the Department of Defense appointed by the Secretary of Defense; and
+
+  (B) Three individuals from the private sector, each of whom is appointed by the Secretary of Defense, and—
+
+    (i) one of whom is a representative of a nontraditional defense contractor (as defined in [section 2302(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302/9&num=0&edition=prelim)); and
+
+    (ii) one of whom is a representative from a public accounting firm.
+
+(2) A member appointed under paragraph (1)(A) may not continue to serve after ceasing to be an officer or employee of the Department of Defense.
+
+**(c) Duties of the Chairman.—** The Chief Financial Officer of the Department of Defense, after consultation with the Defense Cost Accounting Standards Board, shall prescribe rules and procedures governing actions of the Board under this section.
+
+**(d) Duties.—** The Defense Cost Accounting Standards Board—
+
+(1) shall review cost accounting standards established under [section 1502 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1502&num=0&edition=prelim) and recommend changes to such cost accounting standards to the Cost Accounting Standards Board established under section 1501 of such title;
+
+(2) has exclusive authority, with respect to the Department of Defense, to implement such cost accounting standards to achieve uniformity and consistency in the standards governing measurement, assignment, and allocation of costs to contracts with the Department of Defense; and
+
+(3) shall develop standards to ensure that commercial operations performed by Government employees at the Department of Defense adhere to cost accounting standards (based on cost accounting standards established under [section 1502 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1502&num=0&edition=prelim) or Generally Accepted Accounting Principles) that inform managerial decisionmaking.
+
+**(e) Compensation.—**
+
+(1) Members of the Defense Cost Accounting Standards Board who are officers or employees of the Department of Defense shall not receive additional compensation for services but shall continue to be compensated by the Department of Defense.
+
+(2) Each member of the Board appointed from the private sector shall receive compensation at a rate not to exceed the daily equivalent of the rate for level IV of the Executive Schedule for each day (including travel time) in which the member is engaged in the actual performance of duties vested in the Board.
+
+(3) While serving away from home or regular place of business, Board members and other individuals serving on an intermittent basis shall be allowed travel expenses in accordance with [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
+
+**(f) Auditing Requirements.—**
+
+(1) Notwithstanding any other provision of law, contractors with the Department of Defense may present, and the Defense Contract Audit Agency shall accept without performing additional audits, a summary of audit findings prepared by a commercial auditor if—
+
+  (A) the auditor previously performed an audit of the allowability, measurement, assignment to accounting periods, and allocation of indirect costs of the contractor; and
+
+  (B) such audit was performed using relevant commercial accounting standards (such as Generally Accepted Accounting Principles) and relevant commercial auditing standards established by the commercial auditing industry for the relevant accounting period.
+
+(2) The Defense Contract Audit Agency may audit direct costs of Department of Defense cost contracts and shall rely on commercial audits of indirect costs without performing additional audits, except that in the case of companies or business units that have a predominance of cost-type contracts as a percentage of sales, the Defense Contract Audit Agency may audit both direct and indirect costs.
+
+### Statutory Notes
+
+#### References in Text
+Level IV of the Executive Schedule, referred to in subsec. (e)(2), is set out in [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
+
+#### Effective Date
+Pub. L. 114–328, div. A, title VIII, § 820(d), Dec. 23, 2016, 130 Stat. 2276, provided that: “The amendments made by this section [enacting this section and amending sections 1501 and 1502 of Title 41, Public Contracts] shall take effect on October 1, 2018.”

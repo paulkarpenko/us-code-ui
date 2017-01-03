@@ -52,7 +52,7 @@ Section 435, Pub. L. 92–225, title III, § 305, Feb. 7, 1972, 86 Stat. 16; Pub
 Section 436, Pub. L. 92–225, title III, § 306, Feb. 7, 1972, 86 Stat. 16; Pub. L. 93–443, title II, §§ 206, 207, 208(c)(5), Oct. 15, 1974, 88 Stat. 1278, 1279, 1286; Pub. L. 94–283, title I, § 115(a), May 11, 1976, 90 Stat. 495, set forth formal requirements respecting reports and statements.
 
 #### Effective Date of Repeal
-Repeal effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as an Effective Date of 1980 Amendment note under [section 431 of this title](./chapter-014-federal-election-campaigns.md#section-431).
+Repeal effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as an Effective Date of 1980 Amendment note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-437"></a>
@@ -69,7 +69,7 @@ Section 437 was editorially reclassified as [section 30105 of Title 52](https://
 
 ### Statutory Notes
 
-Section, Pub. L. 92–225, title III, § 308, as added Pub. L. 93–443, title II, § 208(a), Oct. 15, 1974, 88 Stat. 1279, required the filing of reports with the Commission by certain named persons other than individuals who act to influence others to vote for or against political candidates. See section 441d et seq. of this title.
+Section, Pub. L. 92–225, title III, § 308, as added Pub. L. 93–443, title II, § 208(a), Oct. 15, 1974, 88 Stat. 1279, required the filing of reports with the Commission by certain named persons other than individuals who act to influence others to vote for or against political candidates. See section 30120 et seq. of Title 52, Voting and Elections.
 
 #### Savings Provision
 Repeal by Pub. L. 94–283 not to release or extinguish any penalty, forfeiture, or liability incurred under this section, with this section or penalty to be treated as remaining in force for the purpose of sustaining any proper action or prosecution for the enforcement of any penalty, forfeiture, or liability, see section 114 of Pub. L. 94–283, set out as a note under [section 441 of this title](./chapter-014-federal-election-campaigns.md#section-441).
@@ -83,7 +83,7 @@ Repeal by Pub. L. 94–283 not to release or extinguish any penalty, forfeiture,
 Section, Pub. L. 92–225, title III, § 308, formerly § 309, as added Pub. L. 93–443, title II, § 208(a), Oct. 15, 1974, 88 Stat. 1280; renumbered § 308 and amended Pub. L. 94–283, title I, §§ 105, 106, 115(i), May 11, 1976, 90 Stat. 481, 496, set forth provisions respecting designation, etc., of campaign depositories.
 
 #### Effective Date of Repeal
-Repeal effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as an Effective Date of 1980 Amendment note under [section 431 of this title](./chapter-014-federal-election-campaigns.md#section-431).
+Repeal effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as an Effective Date of 1980 Amendment note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-437c"></a>
@@ -112,7 +112,7 @@ Section 437d was editorially reclassified as [section 30107 of Title 52](https:/
 Section, Pub. L. 92–225, title III, § 311, formerly § 312, as added Pub. L. 93–443, title II, § 208(a), Oct. 15, 1974, 88 Stat. 1283; renumbered § 311, Pub. L. 94–283, title I, § 105, May 11, 1976, 90 Stat. 481, related to reports to the President and Congress.
 
 #### Effective Date of Repeal
-Repeal effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as an Effective Date of 1980 Amendment note under [section 431 of this title](./chapter-014-federal-election-campaigns.md#section-431).
+Repeal effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as an Effective Date of 1980 Amendment note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-437f"></a>
@@ -189,7 +189,7 @@ Section 439a was editorially reclassified as [section 30114 of Title 52](https:/
 Section, Pub. L. 92–225, title III, § 318, formerly § 319, as added Pub. L. 93–443, title II, § 210, Oct. 15, 1974, 88 Stat. 1289; renumbered § 318, Pub. L. 94–283, title I, § 105, May 11, 1976, 90 Stat. 481, set forth prohibitions respecting franked solicitations.
 
 #### Effective Date of Repeal
-Repeal effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as an Effective Date of 1980 Amendment note under [section 431 of this title](./chapter-014-federal-election-campaigns.md#section-431).
+Repeal effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as an Effective Date of 1980 Amendment note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-439c"></a>
@@ -206,10 +206,10 @@ Section 439c was editorially reclassified as [section 30115 of Title 52](https:/
 
 ### Statutory Notes
 
-Section, Pub. L. 92–225, title III, § 310, Feb. 7, 1972, 86 Stat. 19, related to prohibition of contributions in the name of another. See [section 441f of this title](./chapter-014-federal-election-campaigns.md#section-441f).
+Section, Pub. L. 92–225, title III, § 310, Feb. 7, 1972, 86 Stat. 19, related to prohibition of contributions in the name of another. See [section 30122 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30122&num=0&edition=prelim), Voting and Elections.
 
 #### Effective Date of Repeal
-Repeal effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under [section 431 of this title](./chapter-014-federal-election-campaigns.md#section-431).
+Repeal effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-441"></a>
@@ -217,10 +217,10 @@ Repeal effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out a
 
 ### Statutory Notes
 
-Section, Pub. L. 92–225, title III, § 320, formerly § 311, Feb. 7, 1972, 86 Stat. 19; renumbered § 321, Pub. L. 93–443, title II, § 208(a), Oct. 15, 1974, 88 Stat. 1279; renumbered § 320, Pub. L. 94–283, title I, § 105, May 11, 1976, 90 Stat. 481, provided penalties of not more than $1,000 fine or not more than 1 year imprisonment, or both for violations of this subchapter. See [section 441j of this title](./chapter-014-federal-election-campaigns.md#section-441j).
+Section, Pub. L. 92–225, title III, § 320, formerly § 311, Feb. 7, 1972, 86 Stat. 19; renumbered § 321, Pub. L. 93–443, title II, § 208(a), Oct. 15, 1974, 88 Stat. 1279; renumbered § 320, Pub. L. 94–283, title I, § 105, May 11, 1976, 90 Stat. 481, provided penalties of not more than $1,000 fine or not more than 1 year imprisonment, or both for violations of this subchapter.
 
 #### Savings Provision
-Pub. L. 94–283, title I, § 114, May 11, 1976, 90 Stat. 495, provided that: “Except as otherwise provided by this Act [see Short Title of 1976 Amendment note set out under [section 431 of this title](./chapter-014-federal-election-campaigns.md#section-431)], the repeal by this Act of any section or penalty shall not have the effect of releasing or extinguishing any penalty, forfeiture, or liability incurred under such section or penalty, and such section or penalty shall be treated as remaining in force for the purpose of sustaining any proper action or prosecution for the enforcement of any penalty, forfeiture, or liability.”
+Pub. L. 94–283, title I, § 114, May 11, 1976, 90 Stat. 495, provided that: “Except as otherwise provided by this Act [see Tables for classification], the repeal by this Act of any section or penalty shall not have the effect of releasing or extinguishing any penalty, forfeiture, or liability incurred under such section or penalty, and such section or penalty shall be treated as remaining in force for the purpose of sustaining any proper action or prosecution for the enforcement of any penalty, forfeiture, or liability.”
 
 
 <a id="section-441a"></a>
@@ -321,7 +321,7 @@ Section 441i was editorially reclassified as [section 30125 of Title 52](https:/
 Section, Pub. L. 92–225, title III, § 329, as added Pub. L. 94–283, title I, § 112(2), May 11, 1976, 90 Stat. 494, set forth provisions respecting penalties for violations of the Federal Election Campaign Act of 1971.
 
 #### Effective Date of Repeal
-Repeal effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as an Effective Date of 1980 Amendment note under [section 431 of this title](./chapter-014-federal-election-campaigns.md#section-431).
+Repeal effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as an Effective Date of 1980 Amendment note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-441k"></a>

@@ -2,7 +2,7 @@
 title: 22
 chapter: '52'
 heading: FOREIGN SERVICE
-section_count: 209
+section_count: 211
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -530,6 +530,41 @@ Section is comprised of section 7110 of Pub. L. 108–458. Subsec. (c) of sectio
 Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the 9/11 Commission Implementation Act of 2004, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
 
 
+<a id="section-3922c"></a>
+## § 3922c. Integration of foreign economic policy
+**(a) In general** The Secretary, in conjunction with the Under Secretary of Economic Growth, Energy, and the Environment, shall establish—
+
+(1) foreign economic policy priorities for each regional bureau, including for individual countries, as appropriate; and
+
+(2) policies and guidance for integrating such foreign economic policy priorities throughout the Department.
+
+**(b) Deputy Assistant Secretary** Within each regional bureau of the Department, the Secretary shall task an existing Deputy Assistant Secretary with appropriate training and background in economic and commercial affairs with the responsibility for economic matters and interests within the responsibilities of each such regional bureau, including the integration of the foreign economic policy priorities established pursuant to subsection (a).
+
+**(c) Training** The Secretary shall establish curriculum at the George P. Shultz National Foreign Affairs Training Center to develop the practical foreign economic policy expertise and skill sets of Foreign Service officers, including by making available distance-learning courses in commercial, economic, and business affairs, including in the following:
+
+(1) The global business environment.
+
+(2) The economics of development.
+
+(3) Development and infrastructure finance.
+
+(4) Current trade and investment agreements negotiations.
+
+(5) Implementing existing multilateral and World Trade Organization agreements, and United States trade and investment agreements.
+
+(6) Best practices for customs and export procedures.
+
+(7) Market analysis and global supply chain management.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Department of State Authorities Act, Fiscal Year 2017, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
+
+#### Definitions
+For definitions of “Secretary”, “Department”, and “Foreign Service” as used in this section, see section 2 of Pub. L. 114–323, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
+
 <a id="section-3923"></a>
 ## § 3923. Compatibility among agencies utilizing Foreign Service personnel system
 **(a)** The Service shall be administered to the extent practicable in a manner that will assure maximum compatibility among the agencies authorized by law to utilize the Foreign Service personnel system. To this end, the other heads of such agencies shall consult regularly with the Secretary of State.
@@ -669,6 +704,20 @@ The President shall appoint, by and with the advice and consent of the Senate, a
 
     (ii) include in every final report of investigation any exculpatory information, as well as any inculpatory information, that has been discovered in the course of the investigation.
 
+(6) **Required reporting of allegations and investigations and inspector general authority.—**
+
+  (A) *In general.—* — The head of a bureau, post, or other office of the Department of State (in this paragraph referred to as a “Department entity”) shall submit to the Inspector General a report of any allegation of—
+
+    (i) waste, fraud, or abuse in a Department program or operation;
+
+    (ii) criminal or serious misconduct on the part of a Department employee at the FS–1, GS–15, or GM–15 level or higher;
+
+    (iii) criminal misconduct on the part of a Department employee; and
+
+    (iv) serious, noncriminal misconduct on the part of any Department employee who is authorized to carry a weapon, make arrests, or conduct searches, such as conduct that, if proved, would constitute perjury or material dishonesty, warrant suspension as discipline for a first offense, or result in loss of law enforcement authority.
+
+  (B) *Deadline.—* — The head of a Department entity shall submit to the Inspector General a report of an allegation described in subparagraph (A) not later than 5 business days after the date on which the head of such Department entity is made aware of such allegation.
+
 **(d) Reports by Inspector General and Secretary of State**
 
 (1) The Inspector General shall keep the Secretary of State fully and currently informed, by means of the reports required by paragraphs (2) and (3) and otherwise, concerning fraud and other serious problems, abuses, and deficiencies relating to the administration of activities and operations administered or financed by the Department of State.
@@ -718,6 +767,8 @@ The President shall appoint, by and with the advice and consent of the Senate, a
 The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in Title 5, Appendix, Government Organization and Employees.
 
 #### Amendments
+2016—Subsec. (c)(6). Pub. L. 114–323 added par. (6).
+
 1999—Subsec. (c)(5). Pub. L. 106–113, § 1000(a)(7) [div. A, title III, § 339(a)], added par. (5).
 
 Subsec. (d)(2)(F). Pub. L. 106–113, § 1000(a)(7) [div. A, title III, § 339(b)], added subpar. (F).
@@ -962,6 +1013,9 @@ George Bush.
 #### Amendments
 1999—Subsec. (c). Pub. L. 106–113 struck out subsec. (c) which read as follows: “Within 6 months after assuming the position, the chief of mission to a foreign country shall submit, to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, a report describing his or her own foreign language competence and the foreign language competence of the mission staff in the principal language or other dialect of that country.”
 
+#### Public Availability of Reports on Nominees to be Chiefs of Mission
+Pub. L. 114–323, title VII, § 712, Dec. 16, 2016, 130 Stat. 1945, provided that: “Not later than 7 days after submitting the report required under section 304(a)(4) of the Foreign Service Act of 1980 ([22 U.S.C. 3944(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3944/a/4&num=0&edition=prelim)) to the Committee on Foreign Relations of the Senate, the President shall make the report available to the public, including by posting the report on the website of the Department [of State] in a conspicuous manner and location.”
+
 
 <a id="section-3945"></a>
 ## § 3945. Senior Foreign Service
@@ -1048,9 +1102,11 @@ A career candidate for appointment as a Foreign Service officer may not be initi
 ### Statutory Notes
 
 #### USAID Overseas Program
-Pub. L. 113–235, div. J, title VII, § 7057(a)–(e), Dec. 16, 2014, 128 Stat. 2664, 2665, provided that: “(a) Authority.—Up to $93,000,000 of the funds made available in title III of this Act [title III of div. J of Pub. L. 113–235, 128 Stat. 2584] pursuant to or to carry out the provisions of part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.] may be used by the United States Agency for International Development (USAID) to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 [[22 U.S.C. 3948](./chapter-052-foreign-service.md#section-3948), 3949]. “(b) Restrictions.—“(1) The number of individuals hired in any fiscal year pursuant to the authority contained in subsection (a) may not exceed 175. “(2) The authority to hire individuals contained in subsection (a) shall expire on September 30, 2016. “(c) Conditions.—The authority of subsection (a) should only be used to the extent that an equivalent number of positions that are filled by personal services contractors or other non-direct hire employees of USAID, who are compensated with funds appropriated to carry out part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.], are eliminated. “(d) Program Account Charged.—The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which such individual’s responsibilities primarily relate: Provided, That funds made available to carry out this section may be transferred to, and merged with, funds appropriated by this Act in title II [title II of div. J of Pub. L. 113–235, 128 Stat. 2583] under the heading ‘Operating Expenses’. “(e) Foreign Service Limited Extensions.—Individuals hired and employed by USAID, with funds made available in this Act [div. J of Pub. L. 113–235, 128 Stat. 2573] or prior Acts making appropriations for the Department of State, foreign operations, and related programs, pursuant to the authority of section 309 of the Foreign Service Act of 1980 [[22 U.S.C. 3949](./chapter-052-foreign-service.md#section-3949)], may be extended for a period of up to 4 years notwithstanding the limitation set forth in such section.”
+Pub. L. 114–113, div. K, title VII, § 7057(a)–(e), Dec. 18, 2015, 129 Stat. 2803, 2804, provided that: “(a) Authority.—Up to $93,000,000 of the funds made available in title III of this Act [title III of div. K of Pub. L. 114–113, 129 Stat. 2716] pursuant to or to carry out the provisions of part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.], including funds appropriated under the heading ‘Assistance for Europe, Eurasia and Central Asia’, may be used by the United States Agency for International Development (USAID) to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 [[22 U.S.C. 3948](./chapter-052-foreign-service.md#section-3948), 3949]. “(b) Restrictions.—“(1) The number of individuals hired in any fiscal year pursuant to the authority contained in subsection (a) may not exceed 175. “(2) The authority to hire individuals contained in subsection (a) shall expire on September 30, 2017. “(c) Conditions.—The authority of subsection (a) should only be used to the extent that an equivalent number of positions that are filled by personal services contractors or other non-direct hire employees of USAID, who are compensated with funds appropriated to carry out part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.], including funds appropriated under the heading ‘Assistance for Europe, Eurasia and Central Asia’, are eliminated. “(d) Program Account Charged.—The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which the responsibilities of such individual primarily relate: Provided, That funds made available to carry out this section may be transferred to, and merged with, funds appropriated by this Act in title II [title II of div. K of Pub. L. 114–113, 129 Stat. 2715] under the heading ‘Operating Expenses’. “(e) Foreign Service Limited Extensions.—Individuals hired and employed by USAID, with funds made available in this Act [div. K of Pub. L. 114–113, 129 Stat. 2705] or prior Acts making appropriations for the Department of State, foreign operations, and related programs, pursuant to the authority of section 309 of the Foreign Service Act of 1980 [[22 U.S.C. 3949](./chapter-052-foreign-service.md#section-3949)], may be extended for a period of up to 4 years notwithstanding the limitation set forth in such section.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. J, title VII, § 7057(a)–(e), Dec. 16, 2014, 128 Stat. 2664, 2665.
 
 Pub. L. 113–76, div. K, title VII, § 7057(a)–(e), Jan. 17, 2014, 128 Stat. 549.
 
@@ -1071,7 +1127,7 @@ Pub. L. 108–199, div. D, title V, § 525, Jan. 23, 2004, 118 Stat. 176, provid
 
 <a id="section-3949"></a>
 ## § 3949. Limited appointments
-**(a)** A limited appointment in the Service, including an appointment of an individual who is an employee of an agency, may not exceed 5 years in duration and, except as provided in subsection (b), may not be extended or renewed. A limited appointment in the Service which is limited by its terms to a period of one year or less is a temporary appointment.
+**(a)** A limited appointment in the Service, including an appointment of an individual who is an employee of an agency, may not exceed 5 years in duration and, except as provided in subsections (b) and (c), may not be extended or renewed. A limited appointment in the Service which is limited by its terms to a period of one year or less is a temporary appointment.
 
 **(b)** A limited appointment may be extended for continued service—
 
@@ -1079,15 +1135,39 @@ Pub. L. 108–199, div. D, title V, § 525, Jan. 23, 2004, 118 Stat. 176, provid
 
 (2) in accordance with [section 3951(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3951/a&num=0&edition=prelim);
 
-(3) as a career candidate, if continued service is determined appropriate to remedy a matter that would be cognizable as a grievance under subchapter XI;
+(3) as a career candidate, if—
 
-(4) as a career employee in another Federal personnel system serving in a Foreign Service position on detail from another agency; and
+  (A) continued service is determined appropriate to remedy a matter that would be cognizable as a grievance under subchapter XI; or
 
-(5) as a foreign national employee.
+  (B) the individual is serving in the uniformed services (as defined in [section 4303 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4303&num=0&edition=prelim)) and the limited appointment expires in the course of such service;
+
+(4) as a career employee in another Federal personnel system serving in a Foreign Service position on detail from another agency;
+
+(5) as a foreign national employee;
+
+(6) in exceptional circumstances if the Secretary determines the needs of the Service require the extension of—
+
+  (A) a limited noncareer appointment for a period not to exceed 1 year; or
+
+  (B) a limited appointment of a career candidate for the minimum time needed to resolve a grievance, claim, investigation, or complaint not otherwise provided for in this section.
+
+**(c)**
+
+(1) Except as provided in paragraph (2) noncareer employees who have served for 5 consecutive years under a limited appointment under this section may be reappointed to a subsequent noncareer limited appointment if there is at least a 1-year break in service before such new appointment.
+
+(2) The Secretary may waive the 1-year break requirement under paragraph (1) in cases of special need.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–323, § 409(1), substituted “subsections (b) and (c)” for “subsection (b)”.
+
+Subsec. (b)(3). Pub. L. 114–323, § 409(2)(A), substituted “if—” for “if”, inserted subpar. (A) designation before “continued service”, and added subpar. (B).
+
+Subsec. (b)(6). Pub. L. 114–323, § 409(2)(B)–(D), added par. (6).
+
+Subsec. (c). Pub. L. 114–323, § 409(3), added subsec. (c).
+
 1994—Subsec. (b)(5). Pub. L. 103–236, as amended by Pub. L. 103–415, added par. (5).
 
 1987—Pub. L. 100–204 designated existing provisions as subsec. (a), substituted “subsection (b)” for “[section 3951(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3951/a&num=0&edition=prelim)”, and added subsec. (b).
@@ -1374,6 +1454,31 @@ Pub. L. 101–246, title I, § 141(c), Feb. 16, 1990, 104 Stat. 35, provided tha
 Pub. L. 96–60, title I, § 107(a), Aug. 15, 1979, 93 Stat. 397, provided that: “It is the sense of the Congress that the Secretary of State should— “(1) improve coordination between the Department of State and the Department of Defense and other departments and agencies of the United States operating outside the United States with respect to foreign national pay systems and wage schedules to the extent that—“(A) joint wage surveys and compatible pay schedules are adopted in countries where two or more departments or agencies of the United States directly employ foreign nationals, and “(B) Department of Defense wage rates are included in wage surveys of the Department of State where the Department of Defense operates under indirect-hire arrangements; “(2) monitor the establishment of wage rates outside the United States more closely to insure that United States missions—“(A) operate under salary schedules that reflect private sector average pay or average pay ranges, “(B) include the cost of severance in making pay adjustments, and “(C) survey jobs in the private sector which represent as closely as possible the work force of the mission; and “(3) substitute, whenever possible, prevailing local retirement plans for civil service retirement with respect to the retirement of foreign nationals employed by the United States.”
 
 
+<a id="section-3968a"></a>
+## § 3968a. Locally-employed staff wages
+**(a) Market-responsive staff wages** Not later than 180 days after December 16, 2016, and periodically thereafter, the Secretary shall establish and implement a prevailing wage rates goal for positions in the local compensation plan, as described in [section 3968 of this title](./chapter-052-foreign-service.md#section-3968), at each diplomatic post that—
+
+(1) is based on the specific recruiting and retention needs of each such post and local labor market conditions, as determined annually; and
+
+(2) is not less than the 50th percentile of the prevailing wage for comparable employment in the labor market surrounding each such post.
+
+**(b) Exception** The prevailing wage rate goal established under subsection (a) shall not apply if compliance with such subsection would be inconsistent with applicable United States law, the law in the locality of employment, or the public interest.
+
+**(c) Recordkeeping requirement** The analytical assumptions underlying the calculation of wage levels at each diplomatic post under subsection (a), and the data upon which such calculation is based—
+
+(1) shall be filed electronically and retained for not less than 5 years; and
+
+(2) shall be made available to the appropriate congressional committees upon request.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Department of State Authorities Act, Fiscal Year 2017, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
+
+#### Definitions
+For definitions of “Secretary” and “appropriate congressional committees” as used in this section, see section 2 of Pub. L. 114–323, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
+
 <a id="section-3969"></a>
 ## § 3969. Salaries of consular agents
 
@@ -1414,13 +1519,15 @@ For such time (in excess of such minimum period as the Secretary of State may es
 ## § 3972. Special differentials
 **(a) Additional work requirements** The Secretary may pay special differentials, in addition to compensation otherwise authorized, to Foreign Service officers who are required because of the nature of their assignments to perform additional work on a regular basis in substantial excess of normal requirements.
 
-**(b) Repealed. Pub. L. 103–236, title I, § 139(6), Apr. 30, 1994, 108 Stat. 398**
+**(b) Salary limitations** The Inspector General of the United States Agency for International Development (USAID) shall limit the payment of special differentials to USAID Foreign Service criminal investigators to levels at which the aggregate of basic pay and special differential for any pay period would equal, for such criminal investigators, the bi-weekly pay limitations on premium pay regularly placed on other criminal investigators within the Federal law enforcement community. This provision shall be retroactive to January 1, 2013.
 
 **(c) Compensatory time off** Nothing in this chapter, or in subchapter V of chapter 55 of title 5 shall preclude the granting of compensatory time off for Foreign Service officers.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (b). Pub. L. 114–323 added subsec. (b).
+
 1994—Subsec. (b). Pub. L. 103–236 struck out subsec. (b) which read as follows: “Before implementing any proposal to limit either the number of Foreign Service officers who may receive a special differential under subsection (a) of this section or the amounts of such special differentials, the Secretary shall submit such proposal to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.”
 
 
@@ -1482,7 +1589,7 @@ Pub. L. 113–76, div. K, title VII, § 7082(c), Jan. 17, 2014, 128 Stat. 567, p
 ## § 3975. Group life insurance supplement applicable to those killed in terrorist attacks
 **(a) Foreign Service employees**
 
-(1) **In general** — Notwithstanding the amounts specified in chapter 87 of title 5, a Foreign Service employee who dies as a result of injuries sustained while on duty abroad because of an act of terrorism, as defined in [section 2656f(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656f/d&num=0&edition=prelim), shall be eligible for a payment from the United States in an amount that, when added to the amount of the employee’s employer-provided group life insurance policy coverage (if any), equals $400,000. In the case of an employee compensated under a local compensation plan established under [section 3968 of this title](./chapter-052-foreign-service.md#section-3968), the amount of such payment shall be determined by regulations implemented by the Secretary of State and shall be no greater than $400,000.
+(1) **In general** — Notwithstanding the amounts specified in chapter 87 of title 5, a Foreign Service employee who dies as a result of injuries sustained while on duty abroad because of an act of terrorism, as defined in [section 2656f(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656f/d&num=0&edition=prelim), shall be eligible for a special payment of $400,000, which shall be in addition to any employer provided life insurance policy coverage. In the case of an employee compensated under a local compensation plan established under [section 3968 of this title](./chapter-052-foreign-service.md#section-3968), the amount of such payment shall be determined by regulations implemented by the Secretary of State and shall be no greater than $400,000.
 
 (2) **Designation of beneficiary** — A payment made under paragraph (1) shall be made in accordance with the guidance issued under [section 3973(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3973/c&num=0&edition=prelim).
 
@@ -1493,8 +1600,14 @@ Pub. L. 113–76, div. K, title VII, § 7082(c), Jan. 17, 2014, 128 Stat. 567, p
 #### References in Text
 [Section 2656f(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656f/d&num=0&edition=prelim), referred to in subsecs. (a)(1) and (b), was in the original “section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1998 and 1999”, and was translated as meaning “section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989”, to reflect the probable intent of Congress.
 
+#### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–113 substituted “a special payment of $400,000, which shall be in addition to any employer provided life insurance policy coverage” for “a payment from the United States in an amount that, when added to the amount of the employee’s employer-provided group life insurance policy coverage (if any), equals $400,000”.
+
 #### Effective Date
 Section applicable in the case of a Foreign Service or executive branch employee subject to the authority of the chief of mission pursuant to [section 3927 of this title](./chapter-052-foreign-service.md#section-3927), serving at a United States diplomatic or consular mission abroad, who died on or after April 18, 1983, as a result of injuries from an act of terrorism, as defined in [section 2656f(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656f/d&num=0&edition=prelim), see section 7082(c) of Pub. L. 113–76, set out as an Effective Date of 2014 Amendment note under [section 3973 of this title](./chapter-052-foreign-service.md#section-3973).
+
+#### Applicability
+Pub. L. 114–113, div. K, title VII, § 7034(d)(5)(B), Dec. 18, 2015, 129 Stat. 2763, provided that: “The insurance benefit under section 415 of the Foreign Service Act of 1980 ([22 U.S.C. 3975](./chapter-052-foreign-service.md#section-3975)), as amended by subparagraph (A), shall be applicable to eligible employees who die as a result of injuries sustained while on duty abroad because of an act of terrorism, as defined in section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1998 and 1999 ([22 U.S.C. 2656f(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656f/d&num=0&edition=prelim)), anytime on or after April 18, 1983.”
 
 
 <a id="section-3976"></a>
@@ -1528,7 +1641,7 @@ The Secretary shall designate and classify positions in the Department and at Fo
 
 (1) The Secretary (with the concurrence of the agency concerned) may assign a member of the Service to any position classified under [section 3981 of this title](./chapter-052-foreign-service.md#section-3981) in which that member is eligible to serve (other than as chief of mission or ambassador at large), and may assign a member from one such position to another such position as the needs of the Service may require.
 
-(2) In making assignments under paragraph (1), the Secretary shall assure that a member of the Service is not assigned to a position at a post in a particular geographic area exclusively on the basis of the race, ethnicity, or religion of that member.
+(2) In making assignments under paragraph (1), the Secretary shall assure that a member of the Service is not assigned to or prohibited from being assigned to a position at a post in a particular geographic area on the basis of the race, ethnicity, or religion of that member.
 
 **(b) Filling of positions by members of Service; employment of members of State Department and other agencies** Positions designated as Foreign Service positions normally shall be filled by the assignment of members of the Service to those positions. Subject to that limitation—
 
@@ -1546,6 +1659,8 @@ The Secretary shall designate and classify positions in the Department and at Fo
 [Section 3902(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3902/a/3&num=0&edition=prelim), referred to in subsec. (c), was redesignated [section 3902(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3902/3&num=0&edition=prelim) pursuant to Pub. L. 98–164, which struck out the designation “(a)” and subsec. (b) of section 3902.
 
 #### Amendments
+2016—Subsec. (a)(2). Pub. L. 114–323 inserted “or prohibited from being assigned to” after “assigned to” and struck out “exclusively” before “on the basis”.
+
 1983—Subsec. (d). Pub. L. 98–164 added subsec. (d).
 
 #### Delegation of Functions
@@ -1646,21 +1761,59 @@ shall be based upon the recommendations and rankings of selection boards establi
 
 (3) The affidavit requirements of sections 3332 and 3333(a) of title 5 shall not apply with respect to a member of the Service who has previously complied with those requirements and who subsequently is promoted by appointment to any class in the Senior Foreign Service without a break in service.
 
-(4) Not later than March 1, 2001, and every four years thereafter, the Secretary of State shall submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate which shall include the following:
+(4) , (5) Repealed. Pub. L. 114–323, title VII, § 715(b)(5), Dec. 16, 2016, 130 Stat. 1946.
 
-  (A) A description of the steps taken and planned in furtherance of—
+(6)
 
-    (i) maximum compatibility among agencies utilizing the Foreign Service personnel system, as provided for in [section 3923 of this title](./chapter-052-foreign-service.md#section-3923), and
+  (A) The promotion of any individual joining the Service on or after January 1, 2017, to the Senior Foreign Service shall be contingent upon such individual completing at least one tour in—
 
-    (ii) the development of uniform policies and procedures and consolidated personnel functions, as provided for in [section 3924 of this title](./chapter-052-foreign-service.md#section-3924).
+    (i) a global affairs bureau; or
 
-  (B) A workforce plan for the subsequent five years, including projected personnel needs, by grade and by skill. Each such plan shall include for each category the needs for foreign language proficiency, geographic and functional expertise, and specialist technical skills. Each workforce plan shall specifically account for the training needs of Foreign Service personnel and shall delineate an intake program of generalist and specialist Foreign Service personnel to meet projected future requirements.
+    (ii) a global affairs position.
 
-(5) If there are substantial modifications to any workforce plan under paragraph (4)(B) during any year in which a report under paragraph (4) is not required, a supplemental annual notification shall be submitted in the same manner as reports are required to be submitted under paragraph (4).
+  (B) The requirements under subparagraph (A) shall not apply if the Secretary certifies that the individual proposed for promotion to the Senior Foreign Service—
+
+    (i) has met all other requirements applicable to such promotion; and
+
+    (ii) was unable to complete a tour in a global affairs bureau or global affairs position because there was not a reasonable opportunity for such individual to be assigned to such a position.
+
+  (C) In this paragraph—
+
+    (i) the term “global affairs bureau” means any bureau of the Department that is under the responsibility of—
+
+      (I) the Under Secretary for Economic Growth, Energy, and Environment;
+
+      (II) the Under Secretary for Arms Control and International Security Affairs;
+
+      (III) the Under Secretary for Management;
+
+      (IV) the Assistant Secretary for International Organization Affairs;
+
+      (V) the Under Secretary for Public Diplomacy and Public Affairs; or
+
+      (VI) the Under Secretary for Civilian, Security, Democracy, and Human Rights; and
+
+    (ii) the term “global affairs position” means any position funded with amounts appropriated to the Department under the heading “Diplomatic Policy and Support”.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (c)(4). Pub. L. 114–323, § 715(b)(5), struck out par. (4) which read as follows: “Not later than March 1, 2001, and every four years thereafter, the Secretary of State shall submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate which shall include a workforce plan for the subsequent five years, including projected personnel needs, by grade and by skill. Each such plan shall include for each category the needs for foreign language proficiency, geographic and functional expertise, and specialist technical skills. Each workforce plan shall specifically account for the training needs of Foreign Service personnel and shall delineate an intake program of generalist and specialist Foreign Service personnel to meet projected future requirements.”
+
+Pub. L. 114–291 substituted “include a workforce plan” for “include the following:
+
+“(A) A description of the steps taken and planned in furtherance of—
+
+“(i) maximum compatibility among agencies utilizing the Foreign Service personnel system, as provided for in [section 3923 of this title](./chapter-052-foreign-service.md#section-3923), and
+
+“(ii) the development of uniform policies and procedures and consolidated personnel functions, as provided for in [section 3924 of this title](./chapter-052-foreign-service.md#section-3924).
+
+“(B) A workforce plan”.
+
+Subsec. (c)(5). Pub. L. 114–323, § 715(b)(5), struck out par. (5) which read as follows: “If there are substantial modifications to any workforce plan under paragraph (4)(B) during any year in which a report under paragraph (4) is not required, a supplemental annual notification shall be submitted in the same manner as reports are required to be submitted under paragraph (4).”
+
+Subsec. (c)(6). Pub. L. 114–323, § 403, added par. (6).
+
 1999—Subsec. (c)(4), (5). Pub. L. 106–113 added pars. (4) and (5) and struck out former par. (4), which required report not later than Mar. 1 of each year, describing steps taken and planned in furtherance of compatibility and development of uniform procedures and consolidated personnel functions, specifying upper and lower limits planned for recruitment, retention, and advancement of members, and specifying numbers of members assigned to positions more than one grade higher or lower than the member.
 
 1994—Subsec. (b). Pub. L. 103–236, which directed amendment of par. (2) by striking “and” the last place it appears and by inserting “and other members of the Service” after “categories of career candidates,”, was executed by striking “and” after “categories of career members,” and making the insertion in concluding provisions below par. (2), to reflect the probable intent of Congress.
@@ -1855,7 +2008,7 @@ Pub. L. 95–105, title IV, § 411, Aug. 17, 1977, 91 Stat. 855, as amended by P
 
 
 <a id="section-4010"></a>
-## § 4010. Separation for cause
+## § 4010. Separation for cause; suspension
 **(a) Authorization of Secretary; right to hearing; attorneys fees and backpay; leave without pay**
 
 (1) The Secretary may decide to separate any member from the Service for such cause as will promote the efficiency of the Service.
@@ -1877,9 +2030,49 @@ Pub. L. 95–105, title IV, § 411, Aug. 17, 1977, 91 Stat. 855, as amended by P
 
 **(b) Refund of contributions to Fund; annuity election** Any participant in the Foreign Service Retirement and Disability System who is separated under subsection (a) shall be entitled to receive a refund as provided in [section 4055 of this title](./chapter-052-foreign-service.md#section-4055) of the contributions made by the participant to the Foreign Service Retirement and Disability Fund. Except in cases where the Secretary determines that separation was based in whole or in part on the ground of disloyalty to the United States, a participant who has at least 5 years of service credit toward retirement under the Foreign Service Retirement and Disability System (excluding military and naval service) may elect, in lieu of such refund, to an annuity, computed under [section 4046 of this title](./chapter-052-foreign-service.md#section-4046), commencing at age 60.
 
+**(c) Suspension**
+
+(1) In order to promote the efficiency of the Service, the Secretary may suspend a member of the Service when—
+
+  (A) the member’s security clearance is suspended; or
+
+  (B) there is reasonable cause to believe that the member has committed a crime for which a sentence of imprisonment may be imposed.
+
+(2) Any member of the Service for whom a suspension is proposed under this subsection shall be entitled to—
+
+  (A) written notice stating the specific reasons for the proposed suspension;
+
+  (B) a reasonable time to respond orally and in writing to the proposed suspension;
+
+  (C) obtain at such member’s own expense representation by an attorney or other representative; and
+
+  (D) a final written decision, including the specific reasons for such decision, as soon as practicable.
+
+(3) Any member suspended under this subsection may file a grievance in accordance with the procedures applicable to grievances under subchapter XI of this chapter.
+
+(4) If a grievance is filed pursuant to paragraph (3)—
+
+  (A) the review by the Foreign Service Grievance Board shall be limited to a determination of whether the provisions of paragraphs (1) and (2) have been fulfilled; and
+
+  (B) the Board may not exercise the authority provided under [section 4136(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4136/8&num=0&edition=prelim).
+
+(5) In this subsection:
+
+  (A) The term “reasonable time” means—
+
+    (i) with respect to a member of the Service assigned to duty in the United States, 15 days after receiving notice of the proposed suspension; and
+
+    (ii) with respect to a member of the Service assigned to duty outside the United States, 30 days after receiving notice of the proposed suspension.
+
+  (B) The terms “suspend” and “suspension” mean placing a member of the Foreign Service in a temporary status without duties.
+
 ### Statutory Notes
 
 #### Amendments
+2016—Pub. L. 114–323, § 415(a)(1), substituted “Separation for cause; suspension” for “Separation for cause” in section catchline.
+
+Subsec. (c). Pub. L. 114–323, § 415(a)(2), added subsec. (c).
+
 2002—Subsec. (a)(1). Pub. L. 107–228, § 314(a)(1), inserted “decide to” after “may”.
 
 Subsec. (a)(2) to (6). Pub. L. 107–228, § 314(a)(2), (3), added pars. (2) to (4) and struck out former pars. (2) to (6) which related to the rights of members of the Service to hearings before the Foreign Service Grievance Board prior to being separated from the Service, suspensions from the Service pending final resolution of the underlying matter, procedural rights of suspended members, review of suspensions by the Board, and leave without pay pending final resolution for members recommended for separation.
@@ -2111,7 +2304,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 Pub. L. 103–236, title I, § 192, Apr. 30, 1994, 108 Stat. 419, provided that: “(a) Policy.—It is the sense of the Congress that—“(1) the Department of State, by virtue of the Secretary’s overall responsibility under section 701(a) of the Foreign Service Act of 1980 ([22 U.S.C. 4011(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4011/a&num=0&edition=prelim) [[22 U.S.C. 4021(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4021/a&num=0&edition=prelim)]) for training and instruction in the field of foreign relations to meet the needs of all Federal agencies, should take the lead in this interagency effort; and “(2) in order to promote efficiency and quality in the training provided by the Secretary of State and other Federal agencies, the Secretary should call upon other agencies to share in the joint management and coordination of Federal foreign language resources. “(b) Foreign Language Resources Coordinator.—“(1) The Secretary of State should appoint a Foreign Language Resources Coordinator (in this subsection referred to as the ‘Coordinator’) who shall be responsible—“(A) for coordinating the efforts of the appropriate agencies of Government—“(i) to strengthen mechanisms for sharing of foreign language resources; and “(ii) to identify Federal foreign language resource requirements in the areas of diplomacy, military preparedness, international security, and other foreign policy objectives; and “(B) for making recommendations to the Secretary of State as to which Federal foreign language assets, if any, should be made available to the private sector in support of national global economic competitiveness goals. “(2) All appropriate United States Government agencies maintaining and utilizing Federal foreign language training and related resources shall cooperate fully with any Coordinator.”
 
 #### Foreign Service Institute Facilities
-Pub. L. 99–93, title I, § 123, Aug. 16, 1985, 99 Stat. 413, as amended by Pub. L. 100–204, title I, § 135, Dec. 22, 1987, 101 Stat. 1345; Pub. L. 102–138, title I, § 124, Oct. 28, 1991, 105 Stat. 659; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2219(a)(3), Oct. 21, 1998, 112 Stat. 2681–817, provided that: “(a) Purpose.—The purpose of this section is to promote comprehensive training to meet the foreign relations and national security objectives of the United States and to provide facilities designed for that purpose to assure cost efficient training. “(b) Construction of Training Facilities.—The Administrator of General Services may construct a consolidated training facility for the Foreign Service Institute on a site made available by the Secretary of State or acquired by the Administrator of General Services. Such site shall be located outside the District of Columbia but within reasonable proximity to the Department of State. The Administrator of General Services may carry out this subsection only to the extent that funds are provided in advance in appropriation Acts to the Department of State and are transferred to the Administrator of General Services for carrying out this section. “(c) Use of Funds.—(1)(A) Of amounts authorized to be appropriated to the Department of State for fiscal years 1986 and 1987 for ‘Administration of Foreign Affairs’ by section 101(1) [Pub. L. 99–93, § 101(1), which is not classified to the Code], a total of not to exceed $11,000,000 may be transferred by the Secretary of State to the Administrator of General Services for carrying out feasibility studies, site acquisition, and design, architectural, and engineering planning under subsection (b) of this section. “(B) Of the amounts authorized to be appropriated to the Department of State for fiscal years beginning after September 30, 1987, the Secretary of State may transfer a total not to exceed $11,000,000 for ‘Administration of Foreign Affairs’ to the Administrator of General Services for carrying out feasibility studies, site preparation, and design, architectural, and engineering planning under subsection (b). “(2) Of amounts authorized to be appropriated to the Department of State for fiscal years beginning after September 30, 1987, for ‘Administration of Foreign Affairs’, a total not to exceed $70,000,000 may be transferred by the Secretary of State to the Administrator of General Services for carrying out construction under subsection (b) of this section. “(3) Funds may not be obligated for construction of a facility under this section before the end of the period of 30 days of continuous session of Congress beginning on the date on which plans and estimates developed to carry out this section are submitted to the Committees on Foreign Affairs and Public Works and Transportation of the House of Representatives and the Committees on Foreign Relations and Environment and Public Works of the Senate. In determining days of continuous session of Congress for purposes of this paragraph—“(A) continuity of session is broken only by an adjournment of Congress sine die; and “(B) the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the determination. If both Houses of Congress are not in session on the day any plans and estimates are submitted to such committees, such submittal shall be deemed to have been submitted on the first succeeding day on which both Houses are in session. If all such committees do not receive a submittal on the same day, such period shall not begin until the date on which all such committees have received it. “(d) Jurisdiction and Custody.—The facility constructed under this section and the site of such facility shall be under jurisdiction and in the custody of the Administrator of General Services. “(e) Operation, Maintenance, Security, Alteration, and Repair.—(1) The Administrator of General Services shall delegate, in accordance with section 205 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim)) [see [40 U.S.C. 121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section121&num=0&edition=prelim) and Historical and Revision notes thereunder] and section 15 of the Public Buildings Act of 1959 ([40 U.S.C. 614](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section614&num=0&edition=prelim)) [now [40 U.S.C. 3314](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3314&num=0&edition=prelim)], to the Secretary of State responsibility for the operation, maintenance, and security of and alterations and repairs to the facility constructed pursuant to this section, provided the facility is used by the Secretary for the purposes authorized by this section. “[(2) Repealed. Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2219(a)(3), Oct. 21, 1998, 112 Stat. 2681–817.] “(f) Exemption From Payment of Charges.—(1) Except as provided in paragraph (2), the Department of State shall be exempt from the charges required by section 210(j) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 490(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section490/j&num=0&edition=prelim)) [now [40 U.S.C. 586(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section586/a&num=0&edition=prelim), (b)] for the use of the facility constructed under this section for the Foreign Service Institute. “(2) The Administrator of General Services shall charge the Department of State under such section 210(j) for the costs of any operation, maintenance, repairs, or alterations of such facility carried out by the Administrator of General Services.”
+Pub. L. 99–93, title I, § 123, Aug. 16, 1985, 99 Stat. 413, as amended by Pub. L. 100–204, title I, § 135, Dec. 22, 1987, 101 Stat. 1345; Pub. L. 102–138, title I, § 124, Oct. 28, 1991, 105 Stat. 659; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2219(a)(3), Oct. 21, 1998, 112 Stat. 2681–817, provided that: “(a) Purpose.—The purpose of this section is to promote comprehensive training to meet the foreign relations and national security objectives of the United States and to provide facilities designed for that purpose to assure cost efficient training. “(b) Construction of Training Facilities.—The Administrator of General Services may construct a consolidated training facility for the Foreign Service Institute on a site made available by the Secretary of State or acquired by the Administrator of General Services. Such site shall be located outside the District of Columbia but within reasonable proximity to the Department of State. The Administrator of General Services may carry out this subsection only to the extent that funds are provided in advance in appropriation Acts to the Department of State and are transferred to the Administrator of General Services for carrying out this section. “(c) Use of Funds.—(1)(A) Of amounts authorized to be appropriated to the Department of State for fiscal years 1986 and 1987 for ‘Administration of Foreign Affairs’ by section 101(1) [Pub. L. 99–93, § 101(1), which is not classified to the Code], a total of not to exceed $11,000,000 may be transferred by the Secretary of State to the Administrator of General Services for carrying out feasibility studies, site acquisition, and design, architectural, and engineering planning under subsection (b) of this section. “(B) Of the amounts authorized to be appropriated to the Department of State for fiscal years beginning after September 30, 1987, the Secretary of State may transfer a total not to exceed $11,000,000 for ‘Administration of Foreign Affairs’ to the Administrator of General Services for carrying out feasibility studies, site preparation, and design, architectural, and engineering planning under subsection (b). “(2) Of amounts authorized to be appropriated to the Department of State for fiscal years beginning after September 30, 1987, for ‘Administration of Foreign Affairs’, a total not to exceed $70,000,000 may be transferred by the Secretary of State to the Administrator of General Services for carrying out construction under subsection (b) of this section. “(3) Funds may not be obligated for construction of a facility under this section before the end of the period of 30 days of continuous session of Congress beginning on the date on which plans and estimates developed to carry out this section are submitted to the Committees on Foreign Affairs and Public Works and Transportation of the House of Representatives and the Committees on Foreign Relations and Environment and Public Works of the Senate. In determining days of continuous session of Congress for purposes of this paragraph—“(A) continuity of session is broken only by an adjournment of Congress sine die; and “(B) the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the determination. If both Houses of Congress are not in session on the day any plans and estimates are submitted to such committees, such submittal shall be deemed to have been submitted on the first succeeding day on which both Houses are in session. If all such committees do not receive a submittal on the same day, such period shall not begin until the date on which all such committees have received it. “(d) Jurisdiction and Custody.—The facility constructed under this section and the site of such facility shall be under jurisdiction and in the custody of the Administrator of General Services. “(e) Operation, Maintenance, Security, Alteration, and Repair.—(1) The Administrator of General Services shall delegate, in accordance with section 205 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim)) [see [40 U.S.C. 121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section121&num=0&edition=prelim) and Historical and Revision notes thereunder] and section 15 of the Public Buildings Act of 1959 ([40 U.S.C. 614](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section614&num=0&edition=prelim)) [now [40 U.S.C. 3315](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3315&num=0&edition=prelim)], to the Secretary of State responsibility for the operation, maintenance, and security of and alterations and repairs to the facility constructed pursuant to this section, provided the facility is used by the Secretary for the purposes authorized by this section. “[(2) Repealed. Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2219(a)(3), Oct. 21, 1998, 112 Stat. 2681–817.] “(f) Exemption From Payment of Charges.—(1) Except as provided in paragraph (2), the Department of State shall be exempt from the charges required by section 210(j) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 490(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section490/j&num=0&edition=prelim)) [now [40 U.S.C. 586(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section586/a&num=0&edition=prelim), (b)] for the use of the facility constructed under this section for the Foreign Service Institute. “(2) The Administrator of General Services shall charge the Department of State under such section 210(j) for the costs of any operation, maintenance, repairs, or alterations of such facility carried out by the Administrator of General Services.”
 
 #### Language Training for Family Members of Foreign Service Personnel
 Pub. L. 95–105, title IV, § 414, Aug. 17, 1977, 91 Stat. 857, as amended by Pub. L. 97–241, title V, § 505(a)(3), (b)(1), Aug. 24, 1982, 96 Stat. 299, provided that: “It is the sense of Congress that, in order to increase the effectiveness of United States diplomatic representation abroad, the Secretary of State should make greater use of his authority under section 701 of the Foreign Service Act of 1946 [former [section 1041 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1041&num=0&edition=prelim)] in order to increase the language training opportunities available to the family members of Foreign Service personnel.”
@@ -2174,7 +2367,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
   (A) employ in accordance with the civil service laws such personnel as may be necessary to carry out the provisions of this subchapter, and
 
-  (B) if and to the extent determined to be necessary by the Secretary of State, obtain without regard to the provisions of law governing appointments in the competitive service, by appointment or contract (subject to the availability of appropriations), the services of individuals to serve as language instructors, linguists, and other academic and training specialists (including, in the absence of suitably qualified United States citizens, qualified individuals who are not citizens of the United States); and
+  (B) if and to the extent determined to be necessary by the Secretary of State, obtain without regard to the provisions of law governing appointments in the competitive service, by appointment or contract (subject to the availability of appropriations), the services of individuals to serve as education and training specialists, including language instructors and linguists, and other specialists who perform work directly relating to the design, delivery, oversight, or coordination of training delivered by the institution (including, in the absence of suitably qualified United States citizens, qualified individuals who are not citizens of the United States); and
 
 (5) acquire such real and personal property and equipment as may be necessary for the establishment, maintenance, and operation of the facilities necessary to carry out the provisions of this subchapter without regard to sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41.
 
@@ -2211,6 +2404,8 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 In subsec. (a)(5), “sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim)) and section 302 of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 252](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section252&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2016—Subsec. (a)(4)(B). Pub. L. 114–323 substituted “education and training specialists, including language instructors and linguists, and other specialists who perform work directly relating to the design, delivery, oversight, or coordination of training delivered by the institution” for “language instructors, linguists, and other academic and training specialists”.
+
 1998—Subsec. (d). Pub. L. 105–277 added subsec. (d).
 
 1994—Subsec. (a)(1) to (3). Pub. L. 103–236 substituted “institution” for “Institute”.
@@ -2278,26 +2473,56 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 
 <a id="section-4028"></a>
 ## § 4028. Training for Foreign Service officers
-**(a)** The Secretary of State, with the assistance of other relevant officials, such as the Ambassador at Large for International Religious Freedom appointed under [section 6411(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6411/b&num=0&edition=prelim), the Director of the Office to Monitor and Combat Trafficking, and the director of the George P. Shultz National Foreign Affairs Training Center, shall establish as part of the standard training provided after January 1, 1999, for officers of the Service, including chiefs of mission, instruction in the field of internationally recognized human rights. Such training shall include—
+**(a) Human rights, religious freedom, and human trafficking training**
 
-(1) instruction on international documents and United States policy in human rights, which shall be mandatory for all members of the Service having reporting responsibilities relating to human rights and for chiefs of mission;
+(1) **In general** — The Secretary of State, with the assistance of other relevant officials, such as the Ambassador at Large for International Religious Freedom appointed under [section 6411(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6411/b&num=0&edition=prelim), the Director of the Office to Monitor and Combat Trafficking, and the director of the George P. Shultz National Foreign Affairs Training Center, shall establish as part of the standard training provided after January 1, 1999, for officers of the Service, including chiefs of mission, instruction in the field of internationally recognized human rights. Such training shall include—
 
-(2) instruction on the internationally recognized right to freedom of religion, the nature, activities, and beliefs of different religions, and the various aspects and manifestations of violations of religious freedom; and
+  (A) instruction on international documents and United States policy in human rights, which shall be mandatory for all members of the Service having reporting responsibilities relating to human rights and for chiefs of mission;
 
-(3) instruction on international documents and United States policy on trafficking in persons, including provisions of the Trafficking Victims Protection Act of 2000 (division A of Public Law 106–386; [22 U.S.C. 7101](./chapter-078-trafficking-victims-protection.md#section-7101) et seq.) which may affect the United States bilateral relationships.
+  (B) instruction on the internationally recognized right to freedom of religion, the nature, activities, and beliefs of different religions, and the various aspects and manifestations of violations of religious freedom; and
 
-**(b)** The Secretary of State shall provide sessions on refugee law and adjudications and on religious persecution to each individual seeking a commission as a United States consular officer. The Secretary shall also ensure that any member of the Service who is assigned to a position that may be called upon to assess requests for consideration for refugee admissions, including any consular officer, has completed training on refugee law and refugee adjudications in addition to the training required in this section.
+  (C) instruction on international documents and United States policy on trafficking in persons, including provisions of the Trafficking Victims Protection Act of 2000 (division A of Public Law 106–386; [22 U.S.C. 7101](./chapter-078-trafficking-victims-protection.md#section-7101) et seq.) which may affect the United States bilateral relationships.
 
-**(c)** The Secretary of State, with the assistance of other relevant officials, shall establish as part of the standard training provided for chiefs of mission, deputy chiefs of mission, and other officers of the Service who are or will be involved in the assessment of child soldier use or the drafting of the annual Human Rights Report instruction on matters related to child soldiers, and the substance of the Child Soldiers Prevention Act of 2008.
+(2) **Religious freedom training**
+
+  (A) *In general* — In carrying out the training required under paragraph (1)(B), the Director of the George P. Shultz National Foreign Affairs Training Center shall, not later than the one year after December 16, 2016, conduct training on religious freedom for all Foreign Service officers, including all entry level officers, all officers prior to departure for posting outside the United States, and all outgoing deputy chiefs of mission and ambassadors. Such training shall be included in—
+
+    (i) the A–100 course attended by all Foreign Service officers;
+
+    (ii) the courses required of every Foreign Service officer prior to a posting outside the United States, with segments tailored to the particular religious demography, religious freedom conditions, and United States strategies for advancing religious freedom, in each receiving country; and
+
+    (iii) the courses required of all outgoing deputy chiefs of mission and ambassadors.
+
+  (B) *Development of curriculum* — In carrying out the training required under paragraph (1)(B), the Ambassador at Large for International Religious Freedom, in coordination with the Director of the George P. Shultz National Foreign Affairs Training Center and other Federal officials, as appropriate, and in consultation with the United States Commission on International Religious Freedom established under [section 6431(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6431/a&num=0&edition=prelim), shall make recommendations to the Secretary of State regarding a curriculum for the training of United States Foreign Service officers under paragraph (1)(B) on the scope and strategic value of international religious freedom, how violations of international religious freedom harm fundamental United States interests, how the advancement of international religious freedom can advance such interests, how United States international religious freedom policy should be carried out in practice by United States diplomats and other Foreign Service officers, and the relevance and relationship of international religious freedom to United States defense, diplomacy, development, and public affairs efforts. The Secretary of State should ensure the availability of sufficient resources to develop and implement such curriculum.
+
+  (C) *Information sharing* — The curriculum and training materials developed under this paragraph shall be shared with the United States Armed Forces and other Federal departments and agencies with personnel who are stationed overseas, as appropriate, to provide training on—
+
+    (i) United States religious freedom policies;
+
+    (ii) religious traditions;
+
+    (iii) religious engagement strategies;
+
+    (iv) religious and cultural issues; and
+
+    (v) efforts to counter violent religious extremism.
+
+**(b) Refugees** The Secretary of State shall provide sessions on refugee law and adjudications and on religious persecution to each individual seeking a commission as a United States consular officer. The Secretary shall also ensure that any member of the Service who is assigned to a position that may be called upon to assess requests for consideration for refugee admissions, including any consular officer, has completed training on refugee law and refugee adjudications in addition to the training required in this section.
+
+**(c) Child soldiers** The Secretary of State, with the assistance of other relevant officials, shall establish as part of the standard training provided for chiefs of mission, deputy chiefs of mission, and other officers of the Service who are or will be involved in the assessment of child soldier use or the drafting of the annual Human Rights Report instruction on matters related to child soldiers, and the substance of the Child Soldiers Prevention Act of 2008.
 
 ### Statutory Notes
 
 #### References in Text
-The Trafficking Victims Protection Act of 2000, referred to in subsec. (a)(3), is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to chapter 78 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-078-trafficking-victims-protection.md#section-7101) and Tables.
+The Trafficking Victims Protection Act of 2000, referred to in subsec. (a)(1)(C), is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to chapter 78 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-078-trafficking-victims-protection.md#section-7101) and Tables.
 
 The Child Soldiers Prevention Act of 2008, referred to in subsec. (c), is title IV of Pub. L. 110–457, Dec. 23, 2008, 122 Stat. 5087, which is classified principally to sections 2370c to 2370c–2 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–281, § 103(a)(1), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
+
+Subsecs. (b), (c). Pub. L. 114–281, § 103(a)(2), (3), inserted headings.
+
 2008—Subsec. (c). Pub. L. 110–457 added subsec. (c).
 
 2006—Subsec. (a). Pub. L. 109–164 inserted “, the Director of the Office to Monitor and Combat Trafficking,” after “[section 6411(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6411/b&num=0&edition=prelim)” in introductory provisions and added par. (3).
@@ -3690,7 +3915,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
   (A) if, and for so long as, such waiver is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances;
 
-  (B) to facilitate the assignment of persons to Iraq, Pakistan, and Afghanistan or to posts vacated by members of the Service assigned to Iraq, Pakistan, and Afghanistan, if the annuitant is employed in a position for which there is exceptional difficulty in recruiting or retaining a qualified employee; or
+  (B) if the annuitant is employed in a position for which there is exceptional difficulty in recruiting or retaining a qualified employee; or
 
   (C)
 
@@ -3698,21 +3923,23 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
     (ii) to provide assistance to meet the demand resulting from the passport and travel document requirements set forth in section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; [8 U.S.C. 1185](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1185&num=0&edition=prelim) note), including assistance related to the investigation of fraud in connection with an application for a passport.
 
-(2)
-
-  (A) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (B) of paragraph (1), or to grant authority to the head of an Executive agency to waive the application of such subsections to an annuitant under such subparagraph, shall terminate on October 1, 2010. An annuitant reemployed pursuant to such authority prior to such termination date may be employed for a period ending not later than one year after such date.
-
-  (B) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (C)(i) of paragraph (1) shall terminate on September 30, 2009.
-
-  (C) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (C)(ii) of paragraph (1) shall terminate on September 30, 2009.
-
-(3) The Secretary should prescribe procedures for the exercise of any authority under paragraph (1)(B), including criteria for any exercise of authority and procedures for a delegation of authority.
+(2) The Secretary should prescribe procedures for the exercise of any authority under paragraph (1)(B), including criteria for any exercise of authority and procedures for a delegation of authority.
 
 **(h) Effects of waiver** A reemployed annuitant as to whom a waiver under subsection (g) is in effect shall not be considered a participant for purposes of this part or part II, or an employee for purposes of chapter 83 or 84 of title 5.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (g)(1)(B). Pub. L. 114–323, § 405(a)(1), struck out “to facilitate the assignment of persons to Iraq, Pakistan, and Afghanistan or to posts vacated by members of the Service assigned to Iraq, Pakistan, and Afghanistan,” before “if the annuitant”.
+
+Subsec. (g)(2), (3). Pub. L. 114–323, § 405(a)(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows:
+
+“(2)(A) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (B) of paragraph (1), or to grant authority to the head of an Executive agency to waive the application of such subsections to an annuitant under such subparagraph, shall terminate on October 1, 2010. An annuitant reemployed pursuant to such authority prior to such termination date may be employed for a period ending not later than one year after such date.
+
+“(B) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (C)(i) of paragraph (1) shall terminate on September 30, 2009.
+
+“(C) The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (C)(ii) of paragraph (1) shall terminate on September 30, 2009.”
+
 2009—Subsec. (g)(1)(B). Pub. L. 111–32 inserted “, Pakistan,” after “Iraq” in two places.
 
 Subsec. (g)(2). Pub. L. 111–32, § 1115(c)(1), which directed amendment of subsec. (g)(2) by substituting “2010” for “2009”, was executed by making the substitution in subpar. (A) only, to reflect the probable intent of Congress.
@@ -3759,9 +3986,11 @@ Amendment by Pub. L. 99–556 effective Jan. 1, 1987, and applicable to any indi
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under [section 8401 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8401&num=0&edition=prelim), Government Organization and Employees.
 
 #### Extension of Authority
-Pub. L. 113–235, div. J, title VII, § 7034(l)(4), Dec. 16, 2014, 128 Stat. 2625, provided that: “Section 824(g) of the Foreign Service Act of 1980 ([22 U.S.C. 4064(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4064/g&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2015’ for ‘October 1, 2010’ in paragraph (2).”
+Pub. L. 114–113, div. K, title VII, § 7034(k)(4), Dec. 18, 2015, 129 Stat. 2764, provided that: “Section 824(g) of the Foreign Service Act of 1980 ([22 U.S.C. 4064(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4064/g&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2016’ for ‘October 1, 2010’ in paragraph (2).”
 
 Prior extensions were contained in the following prior acts:
+
+Pub. L. 113–235, div. J, title VII, § 7034(l)(4), Dec. 16, 2014, 128 Stat. 2625.
 
 Pub. L. 113–76, div. K, title VII, § 7034(m)(4), Jan. 17, 2014, 128 Stat. 515.
 
@@ -6474,9 +6703,12 @@ In subsecs. (a) and (b), “February 15, 1981” substituted for “the effectiv
 ## § 4173. Congressional oversight of implementation
 **(a) , (b) Repealed. Pub. L. 100–204, title I, § 185(c)(2), Dec. 22, 1987, 101 Stat. 1366**
 
-**(c) Consultation with agency representatives** The Secretary shall consult, in accordance with the procedures set out in [section 4113(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4113/g&num=0&edition=prelim), with the exclusive representative (if any) of members of the Foreign Service in each agency specified in [section 4103(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4103/a&num=0&edition=prelim) with respect to steps to be taken in implementing this chapter and reported under [section 4001(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4001/c/4&num=0&edition=prelim). To that end, each such exclusive representative will have timely access to all relevant information at each stage. Each such report shall include the views of each such exclusive representative on any and all aspects of the report and the information contained in such report.
+**(c) Consultation with agency representatives** The Secretary shall consult, in accordance with the procedures set out in [section 4113(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4113/g&num=0&edition=prelim), with the exclusive representative (if any) of members of the Foreign Service in each agency specified in [section 4103(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4103/a&num=0&edition=prelim) with respect to steps to be taken in implementing this chapter and reported under section 4001(c)(4) 11 See Reference in Text note below. of this title. To that end, each such exclusive representative will have timely access to all relevant information at each stage. Each such report shall include the views of each such exclusive representative on any and all aspects of the report and the information contained in such report.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 4001(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4001/c/4&num=0&edition=prelim), referred to in subsec. (c), was repealed by Pub. L. 114–323, title VII, § 715(b)(5), Dec. 16, 2016, 130 Stat. 1946.
 
 #### Amendments
 1987—Subsecs. (a), (b). Pub. L. 100–204 struck out subsec. (a) which related to report by Secretary of State and its contents and subsec. (b) which related to annual supplemental report and its contents.

@@ -68,7 +68,7 @@ source: >-
 
 (17) the capability of the criminal justice system to deliver timely, accurate, and complete criminal history record information to child welfare agencies, organizations, and programs that are engaged in the assessment of risk and other activities related to the protection of children, including protection against child sexual abuse, and placement of children in foster care; and
 
-(18) notwithstanding subsection (c) of this section, antiterrorism purposes as they relate to any other uses under this section or for other antiterrorism programs.
+(18) notwithstanding subsection (c), antiterrorism purposes as they relate to any other uses under this section or for other antiterrorism programs.
 
 **(c) Assurances**
 

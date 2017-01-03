@@ -20,7 +20,7 @@ source: >-
 
 **(f) Indian priority system** Funds appropriated pursuant to the authorizations provided by this section and available for a tribal justice system shall not be subject to the Indian priority system. Nothing in this chapter shall preclude a tribal government from supplementing any funds received under this chapter with funds received from any other source including the Bureau or any other Federal agency.
 
-**(g) Allocation of funds** In allocating funds appropriated pursuant to the authorization contained in subsection (a) of this section among the Bureau, Office, tribal governments and Courts of Indian Offenses, the Secretary shall take such actions as may be necessary to ensure that such allocation is carried out in a manner that is fair and equitable to all tribal governments and is proportionate to base support funding under [section 3613 of this title](./chapter-038-indian-tribal-justice-support.md#section-3613) received by the Bureau, Office, tribal governments, and Courts of Indian Offenses.
+**(g) Allocation of funds** In allocating funds appropriated pursuant to the authorization contained in subsection (a) among the Bureau, Office, tribal governments and Courts of Indian Offenses, the Secretary shall take such actions as may be necessary to ensure that such allocation is carried out in a manner that is fair and equitable to all tribal governments and is proportionate to base support funding under [section 3613 of this title](./chapter-038-indian-tribal-justice-support.md#section-3613) received by the Bureau, Office, tribal governments, and Courts of Indian Offenses.
 
 **(h) No offset** No Federal agency shall offset funds made available pursuant to this chapter for tribal justice systems against other funds otherwise available for use in connection with tribal justice systems.
 
@@ -100,7 +100,7 @@ For purposes of this chapter:
 
 (6) The term “Secretary” means the Secretary of the Interior.
 
-(7) The term “tribal organization” means any organization defined in section 450b(l) of this title.
+(7) The term “tribal organization” means any organization defined in section 5304(l) of this title.
 
 (8) The term “tribal justice system” means the entire judicial branch, and employees thereof, of an Indian tribe, including (but not limited to) traditional methods and forums for dispute resolution, lower courts, appellate courts (including intertribal appellate courts), alternative dispute resolution systems, and circuit rider systems, established by inherent tribal authority whether or not they constitute a court of record.
 
@@ -111,7 +111,7 @@ For purposes of this chapter:
 
 **(b) Transfer of existing functions and personnel** All functions performed before December 3, 1993, by the Branch of Judicial Services of the Bureau and all personnel assigned to such Branch as of December 3, 1993, are hereby transferred to the Office of Tribal Justice Support. Any reference in any law, regulation, executive order, reorganization plan, or delegation of authority to the Branch of Judicial Services is deemed to be a reference to the Office of Tribal Justice Support.
 
-**(c) Functions** In addition to the functions transferred to the Office pursuant to subsection (b) of this section, the Office shall perform the following functions:
+**(c) Functions** In addition to the functions transferred to the Office pursuant to subsection (b), the Office shall perform the following functions:
 
 (1) Provide funds to Indian tribes and tribal organizations for the development, enhancement, and continuing operation of tribal justice systems.
 
@@ -176,7 +176,7 @@ Subcommittee on Native American Affairs changed to Subcommittee on Native Americ
 
 <a id="section-3621"></a>
 ## § 3621. Base support funding for tribal justice systems
-**(a) In general** Pursuant to the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.], the Secretary is authorized (to the extent provided in advance in appropriations Acts) to enter into contracts, grants, or agreements with Indian tribes for the performance of any function of the Office and for the development, enhancement, and continuing operation of tribal justice systems and traditional tribal judicial practices by Indian tribal governments.
+**(a) In general** Pursuant to the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.], the Secretary is authorized (to the extent provided in advance in appropriations Acts) to enter into contracts, grants, or agreements with Indian tribes for the performance of any function of the Office and for the development, enhancement, and continuing operation of tribal justice systems and traditional tribal judicial practices by Indian tribal governments.
 
 **(b) Purposes for which financial assistance may be used** Financial assistance provided through contracts, grants, or agreements entered into pursuant to this section may be used for—
 
@@ -233,7 +233,7 @@ Subcommittee on Native American Affairs changed to Subcommittee on Native Americ
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Amendments
 2010—Subsec. (b)(2). Pub. L. 111–211 added par. (2) and struck out former par. (2) which read as follows: “the employment of judicial personnel;”.
@@ -242,7 +242,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 <a id="section-3631"></a>
 ## § 3631. Tribal judicial conferences
 
-The Secretary is authorized to provide funds to tribal judicial conferences, under [section 3611 of this title](./chapter-038-indian-tribal-justice-support.md#section-3611), pursuant to contracts entered into under the authority of the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.] for the development, enhancement, and continuing operation of tribal justice systems of Indian tribes which are members of such conference. Funds provided under this section may be used for—
+The Secretary is authorized to provide funds to tribal judicial conferences, under [section 3611 of this title](./chapter-038-indian-tribal-justice-support.md#section-3611), pursuant to contracts entered into under the authority of the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.] for the development, enhancement, and continuing operation of tribal justice systems of Indian tribes which are members of such conference. Funds provided under this section may be used for—
 
 (1) the employment of judges, magistrates, court counselors, court clerks, court administrators, bailiffs, probation officers, officers of the court, or dispute resolution facilitators;
 
@@ -271,4 +271,4 @@ The Secretary is authorized to provide funds to tribal judicial conferences, und
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.

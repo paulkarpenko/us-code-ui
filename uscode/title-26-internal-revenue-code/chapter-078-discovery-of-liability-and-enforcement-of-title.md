@@ -1487,7 +1487,7 @@ Pub. L. 95–30, title IV, § 407, May 23, 1977, 91 Stat. 156, provided that: �
 
 **(f) Limitation on cover over of tax on distilled spirits** For purposes of this section, with respect to taxes imposed under section 5001 or this section on distilled spirits, the amount covered into the treasuries of Puerto Rico and the Virgin Islands shall not exceed the lesser of the rate of—
 
-(1) $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999, and before January 1, 2015), or
+(1) $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999, and before January 1, 2017), or
 
 (2) the tax imposed under section 5001(a)(1), on each proof gallon.
 
@@ -1517,6 +1517,8 @@ Section 213 of the Caribbean Basin Economic Recovery Act, referred to in subsec.
 The Harmonized Tariff Schedule of the United States ([19 U.S.C. 1202](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1202&num=0&edition=prelim)), referred to in subsec. (e)(3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1202&num=0&edition=prelim).
 
 #### Amendments
+2015—Subsec. (f)(1). Pub. L. 114–113 substituted “January 1, 2017” for “January 1, 2015”.
+
 2014—Subsec. (f)(1). Pub. L. 113–295 substituted “January 1, 2015” for “January 1, 2014”.
 
 2013—Subsec. (f)(1). Pub. L. 112–240 substituted “January 1, 2014” for “January 1, 2012”.
@@ -1578,6 +1580,9 @@ Pub. L. 94–202 substituted “calendar quarter ending September 30, 1975, and 
 1958—Subsec. (a)(1). Pub. L. 85–859, § 204(17), substituted “section 5314” for “section 5318”.
 
 Subsec. (b)(1). Pub. L. 85–859, § 204(18), substituted “section 5314” for “section 5318”.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title I, § 172(b), Dec. 18, 2015, 129 Stat. 3071, provided that: “The amendment made by this section [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2014.”
 
 #### Effective Date of 2014 Amendment
 Pub. L. 113–295, div. A, title I, § 140(b), Dec. 19, 2014, 128 Stat. 4020, provided that: “The amendment made by this section [amending this section] shall apply to distilled spirits brought into the United States after December 31, 2013.”
@@ -1700,7 +1705,7 @@ Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 22(i) of Pub. L
 
 **(d) Federal personnel** In addition to the amount determined under subsection (a), the United States shall pay to each specified possession at such times and in such manner as determined by the Secretary—
 
-(1) the amount of the taxes deducted and withheld by the United States under chapter 24 with respect to compensation paid to members of the Armed Forces who are stationed in such possession but who have no income tax liability to such possession with respect to such compensation by reason of the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.), and
+(1) the amount of the taxes deducted and withheld by the United States under chapter 24 with respect to compensation paid to members of the Armed Forces who are stationed in such possession but who have no income tax liability to such possession with respect to such compensation by reason of the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.),11 See References in Text note below. and
 
 (2) the amount of the taxes deducted and withheld under chapter 24 with respect to amounts paid for services performed as an employee of the United States (or any agency thereof) in a specified possession with respect to an individual unless section 931 or 932(c) applies.
 
@@ -1709,7 +1714,7 @@ Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 22(i) of Pub. L
 ### Statutory Notes
 
 #### References in Text
-The Servicemembers Civil Relief Act, referred to in subsec. (d)(1), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see section 501 of the Appendix to Title 50 and Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (d)(1), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, was classified to sections 501 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification, and is now classified principally to chapter 50 (§ 3901 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2003—Subsec. (d)(1). Pub. L. 108–189 substituted “Servicemembers Civil Relief Act” for “Soldiers’ and Sailors’ Civil Relief Act”.

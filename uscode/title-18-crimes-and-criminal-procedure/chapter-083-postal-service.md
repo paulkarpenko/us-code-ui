@@ -679,7 +679,7 @@ Pub. L. 92–191, § 3, Dec. 15, 1971, 85 Stat. 647, provided that: “The amend
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding [section 101 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section101&num=0&edition=prelim), Postal Service.
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–623 effective on sixtieth day after Aug. 12, 1958, see Effective Date note set out under [section 1241 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1241&num=0&edition=prelim), Commerce and Trade.
+Amendment by Pub. L. 85–623 effective on the sixtieth day after Aug. 12, 1958, see section 6 of Pub. L. 85–623, set out as an Effective Date note under [section 1241 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1241&num=0&edition=prelim), Commerce and Trade.
 
 #### Hazardous Substances
 Federal Hazardous Substances Act as not modifying this section, see Pub. L. 86–613, § 17, July 12, 1960, 74 Stat. 380, set out as a note under [section 1261 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1261&num=0&edition=prelim), Commerce and Trade.

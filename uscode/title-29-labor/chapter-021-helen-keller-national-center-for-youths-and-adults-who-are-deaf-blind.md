@@ -47,7 +47,7 @@ Pub. L. 98–221, title II, § 201, Feb. 22, 1984, 98 Stat. 32, provided that: �
 
 <a id="section-1902"></a>
 ## § 1902. Continued operation of Center
-**(a) Administration by Secretary of Education** The Secretary of Education shall continue to administer and support the Helen Keller National Center for Youths and Adults who are Deaf-Blind in the same manner as such Center was administered prior to February 22, 1984, to the extent such manner of administration is not inconsistent with any purpose described in subsection (b) of this section or any other requirement of this chapter.
+**(a) Administration by Secretary of Education** The Secretary of Education shall continue to administer and support the Helen Keller National Center for Youths and Adults who are Deaf-Blind in the same manner as such Center was administered prior to February 22, 1984, to the extent such manner of administration is not inconsistent with any purpose described in subsection (b) or any other requirement of this chapter.
 
 **(b) Purposes of Center** The purposes of the Center are to—
 
@@ -95,7 +95,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (b)(2) of this
 ## § 1904. Authorization of appropriations
 **(a)** There are authorized to be appropriated to carry out the provisions of this chapter such sums as may be necessary for each of the fiscal years 1999 through 2003. Such sums shall remain available until expended.
 
-**(b)** Any appropriation Act containing any appropriation authorized by subsection (a) of this section shall contain a statement of the specific amount being made available to the Center.
+**(b)** Any appropriation Act containing any appropriation authorized by subsection (a) shall contain a statement of the specific amount being made available to the Center.
 
 ### Statutory Notes
 
@@ -159,7 +159,7 @@ This chapter shall not be construed as modifying or affecting any agreement betw
 
 **(b) Federal payments**
 
-(1) **In general** — The Secretary shall make payments to the Endowment Fund from amounts appropriated pursuant to subsection (h) of this section, consistent with the provisions of this section.
+(1) **In general** — The Secretary shall make payments to the Endowment Fund from amounts appropriated pursuant to subsection (h), consistent with the provisions of this section.
 
 (2) **Amount of payment** — Subject to the availability of appropriations, the Secretary shall make payments to the Endowment Fund in amounts equal to sums contributed to the Endowment Fund from non-Federal sources (excluding transfers from other endowment funds of the Center).
 
@@ -239,10 +239,10 @@ This chapter shall not be construed as modifying or affecting any agreement betw
 ## § 1908. Registry
 **(a) In general** To assist the Center in providing services to individuals who are deaf-blind, the Center may establish and maintain registries of such individuals in each of the regional field offices of the network of the Center.
 
-**(b) Voluntary provision of information** No individual who is deaf-blind may be required to provide information to the Center for any purpose with respect to a registry established under subsection (a) of this section.
+**(b) Voluntary provision of information** No individual who is deaf-blind may be required to provide information to the Center for any purpose with respect to a registry established under subsection (a).
 
-**(c) Nondisclosure** The Center (including the network of the Center) may not disclose information contained in a registry established under subsection (a) of this section to any individual or organization that is not affiliated with the Center, unless the individual to whom the information relates provides specific written authorization for the Center to disclose the information.
+**(c) Nondisclosure** The Center (including the network of the Center) may not disclose information contained in a registry established under subsection (a) to any individual or organization that is not affiliated with the Center, unless the individual to whom the information relates provides specific written authorization for the Center to disclose the information.
 
-**(d) Privacy rights** The requirements of [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim) (commonly known as the “Privacy Act of 1974”) shall apply to personally identifiable information contained in the registries established by the Center under subsection (a) of this section, in the same manner and to the same extent as such requirements apply to a record of an agency.
+**(d) Privacy rights** The requirements of [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim) (commonly known as the “Privacy Act of 1974”) shall apply to personally identifiable information contained in the registries established by the Center under subsection (a), in the same manner and to the same extent as such requirements apply to a record of an agency.
 
-**(e) Removal of information** On the request of an individual, the Center shall remove all information relating to the individual from any registry established under subsection (a) of this section.
+**(e) Removal of information** On the request of an individual, the Center shall remove all information relating to the individual from any registry established under subsection (a).

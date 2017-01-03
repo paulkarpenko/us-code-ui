@@ -173,7 +173,7 @@ Pub. L. 106–383, Oct. 27, 2000, 114 Stat. 1459, provided that: “SECTION 1. F
 Pub. L. 105–178, title I, § 1214(b), June 9, 1998, 112 Stat. 204, provided that: “(1) In general.—The Secretary [of Transportation] shall allocate amounts made available by this subsection for obligation at the discretion of the Secretary of the Smithsonian Institution, in consultation with the Secretary, to carry out projects and activities described in paragraph (2). “(2) Eligible uses.—Amounts allocated under paragraph (1) may be obligated only—“(A) for transportation-related exhibitions, exhibits, and educational outreach programs; “(B) to enhance the care and protection of the Nation’s collection of transportation-related artifacts; “(C) to acquire historically significant transportation-related artifacts; and “(D) to support research programs within the Smithsonian Institution that document the history and evolution of transportation, in cooperation with other museums in the United States. “(3) Authorization of appropriations.—There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) $1,000,000 for each of fiscal years 1998 through 2003 to carry out this subsection. “(4) Applicability of title 23.—Funds authorized by this subsection shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that the Federal share of the cost of any project or activity under this subsection shall be 100 percent and such funds shall remain available until expended.”
 
 #### National Health Museum
-Pub. L. 105–78, title VII, Nov. 13, 1997, 111 Stat. 1524, known as the National Health Museum Development Act, which provided that the National Health Museum would be located on or near the Mall, established the National Health Museum Commission and its duties, including submission of a report to the President and Congress, provided that all Commission activities would be administered in accordance with the Federal Advisory Committee Act, provided for compensation of Commission members who were not officers or employees of the U.S., appropriated funds, and specified the Commission would terminate 60 days after submission of the report, was repealed, except for section 702, by Pub. L. 107–303, title III, § 303, Nov. 27, 2002, 116 Stat. 2361. Section 702 of Pub. L. 105–78 amended section 1067 of Pub. L. 103–337, set out as a note under [section 176 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section176&num=0&edition=prelim), Armed Forces.
+Pub. L. 105–78, title VII, Nov. 13, 1997, 111 Stat. 1524, known as the National Health Museum Development Act, which provided that the National Health Museum would be located on or near the Mall and established the National Health Museum Commission and its duties, was repealed, except for section 702, by Pub. L. 107–303, title III, § 303, Nov. 27, 2002, 116 Stat. 2361. Section 702 of Pub. L. 105–78 amended section 1067 of Pub. L. 103–337, set out as a note under [section 176 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section176&num=0&edition=prelim), Armed Forces.
 
 #### West Court of National Museum of Natural History Building
 Pub. L. 103–151, Nov. 24, 1993, 107 Stat. 1515, provided that: “SECTION 1. PLANNING, DESIGN, AND CONSTRUCTION OF WEST COURT OF NATIONAL MUSEUM OF NATURAL HISTORY BUILDING.“The Board of Regents of the Smithsonian Institution is authorized to plan, design, and construct the West Court of the National Museum of Natural History building. “SEC. 2. FUNDING.“No appropriated funds may be used to pay any expense of the planning, design, and construction authorized by section 1.”
@@ -628,7 +628,7 @@ Pub. L. 87–443, § 1, Apr. 27, 1962, 76 Stat. 62, provided: “That this Act [
 Act of March 28, 1958, referred to in subsec. (a), is act Mar. 28, 1958, Pub. L. 85–357, 72 Stat. 68, which was not classified to the Code.
 
 #### Patent Office Building Improvements
-Pub. L. 108–72, § 3, Aug. 15, 2003, 117 Stat. 888, provided that: “(a) Authorization of Use of Funds.—“(1) In general.—The Board of Regents of the Smithsonian Institution may plan, design, and construct improvements to the interior and exterior of the Patent Office Building (including the construction of a roof covering for the courtyard), using funds available to the Institution from nonappropriated sources. “(2) Definition.—In this section, the term ‘Patent Office Building’ means the building transferred to the Smithsonian Institution pursuant to Public Law 85–357 [72 Stat. 68]. “(b) Design and Specifications.—The design and specifications for any exterior alterations authorized by subsection (a) shall be—“(1) submitted by the Secretary of the Smithsonian Institution (referred to in this section as the ‘Secretary’) to the Commission of Fine Arts for comments and recommendations; and “(2) subject to the review and approval of the National Capital Planning Commission in accordance with [section 8722 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section8722&num=0&edition=prelim), United States Code, and section 16 of the Act of June 20, 1938 (sec. 6–641.15, D.C. Official Code). “(c) Authority of Historic Preservation Agencies.—“(1) In general.—The Secretary shall—“(A) take into account the effect of the improvements authorized by subsection (a) on the historic character of the Patent Office Building; and “(B) provide the Advisory Council on Historic Preservation a reasonable opportunity to comment with regard to such improvements. “(2) Status of smithsonian.—In carrying out this subsection, and in carrying out other projects in the District of Columbia which are subject to the review and approval of the National Capital Planning Commission in accordance with section 16 of the Act of June 20, 1938 (sec. 6–641.15, D.C. Official Code), the Smithsonian Institution shall be deemed to be an agency for purposes of compliance with regulations promulgated by the Advisory Council on Historic Preservation pursuant to section 106 of the National Historic Preservation Act ([16 U.S.C. 470f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470f&num=0&edition=prelim)) [see [54 U.S.C. 306108](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section306108&num=0&edition=prelim)].”
+Pub. L. 108–72, § 3, Aug. 15, 2003, 117 Stat. 888, provided that: “(a) Authorization of Use of Funds.—“(1) In general.—The Board of Regents of the Smithsonian Institution may plan, design, and construct improvements to the interior and exterior of the Patent Office Building (including the construction of a roof covering for the courtyard), using funds available to the Institution from nonappropriated sources. “(2) Definition.—In this section, the term ‘Patent Office Building’ means the building transferred to the Smithsonian Institution pursuant to Public Law 85–357 [72 Stat. 68]. “(b) Design and Specifications.—The design and specifications for any exterior alterations authorized by subsection (a) shall be—“(1) submitted by the Secretary of the Smithsonian Institution (referred to in this section as the ‘Secretary’) to the Commission of Fine Arts for comments and recommendations; and “(2) subject to the review and approval of the National Capital Planning Commission in accordance with [section 8722 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section8722&num=0&edition=prelim), United States Code, and section 16 of the Act of June 20, 1938 (sec. 6–641.15, D.C. Official Code). “(c) Authority of Historic Preservation Agencies.—“(1) In general.—The Secretary shall—“(A) take into account the effect of the improvements authorized by subsection (a) on the historic character of the Patent Office Building; and “(B) provide the Advisory Council on Historic Preservation a reasonable opportunity to comment with regard to such improvements. “(2) Status of smithsonian.—In carrying out this subsection, and in carrying out other projects in the District of Columbia which are subject to the review and approval of the National Capital Planning Commission in accordance with section 16 of the Act of June 20, 1938 (sec. 6–641.15, D.C. Official Code), the Smithsonian Institution shall be deemed to be an agency for purposes of compliance with regulations promulgated by the Advisory Council on Historic Preservation pursuant to section 106 of the National Historic Preservation Act ([former] [16 U.S.C. 470f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470f&num=0&edition=prelim)) [see [54 U.S.C. 306108](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section306108&num=0&edition=prelim)].”
 
 
 <a id="section-75c"></a>
@@ -823,7 +823,7 @@ There are authorized to be appropriated annually such sums as may be necessary t
 
     (iii) three additional Members of the Senate appointed by the President of the Senate; and
 
-  (L) thirty-six general trustees, who shall be citizens of the United States, to be appointed in accordance with subsection (b) of this section.
+  (L) thirty-six general trustees, who shall be citizens of the United States, to be appointed in accordance with subsection (b).
 
 **(b) General trustees** The general trustees shall be appointed by the President of the United States. Each trustee shall hold office as a member of the Board for a term of 6 years, except that—
 
@@ -1384,9 +1384,9 @@ Subsec. (g). Pub. L. 108–410, § 3(c), added subsec. (g).
 
 <a id="section-76r"></a>
 ## § 76r. Authorization of appropriations
-**(a) Maintenance, repair, and security** There is authorized to be appropriated to the Board to carry out [section 76j(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1/H&num=0&edition=prelim) $22,379,000 for each of fiscal years 2013 and 2014.
+**(a) Maintenance, repair, and security** There is authorized to be appropriated to the Board to carry out [section 76j(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1/H&num=0&edition=prelim), $22,000,000 for fiscal year 2016.
 
-**(b) Capital projects** There is authorized to be appropriated to the Board to carry out subparagraphs (F) and (G) of [section 76j(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1&num=0&edition=prelim) $13,588,000 for each of fiscal years 2013 and 2014.
+**(b) Capital projects** There is authorized to be appropriated to the Board to carry out subparagraphs (F) and (G) of [section 76j(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1&num=0&edition=prelim), $15,000,000 for fiscal year 2016.
 
 **(c) John F. Kennedy Center Plaza** There is authorized to be appropriated to the Secretary of Transportation for capital costs incurred in the planning, design, engineering, and construction of the project authorized by [section 76q–1 of this title](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-76q-1) (including roadway improvements related to the North and South Interchanges and construction of the John F. Kennedy Center Plaza, but not including construction of any buildings on the plaza) a total of $400,000,000 for fiscal years 2003 through 2010. Such sums shall remain available until expended.
 
@@ -1400,6 +1400,12 @@ Subsec. (g). Pub. L. 108–410, § 3(c), added subsec. (g).
 A prior section 13 of Pub. L. 85–874 was renumbered section 14 and is classified to [section 76s of this title](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-76s).
 
 #### Amendments
+2015—Subsecs. (a), (b). Pub. L. 114–113 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
+
+“(a) Maintenance, Repair, and Security.—There is authorized to be appropriated to the Board to carry out [section 76j(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1/H&num=0&edition=prelim) $22,379,000 for each of fiscal years 2013 and 2014.
+
+“(b) Capital Projects.—There is authorized to be appropriated to the Board to carry out subparagraphs (F) and (G) of [section 76j(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1&num=0&edition=prelim) $13,588,000 for each of fiscal years 2013 and 2014.”
+
 2012—Subsecs. (a), (b). Pub. L. 112–131 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
 “(a) Maintenance, Repair, and Security.—There are authorized to be appropriated to the Board to carry out [section 76j(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section76j/a/1/H&num=0&edition=prelim)—
@@ -1795,9 +1801,9 @@ Pub. L. 90–637, § 1, Oct. 24, 1968, 82 Stat. 1356, provided: “That this Act
 
 (9) 9 members appointed by the President from private life.
 
-**(c) Appointment of alternate members by members of Board** Each member of the Board of Trustees specified in paragraphs (1) through (8) of subsection (b) of this section may designate another official to serve on the Board of Trustees in his stead.
+**(c) Appointment of alternate members by members of Board** Each member of the Board of Trustees specified in paragraphs (1) through (8) of subsection (b) may designate another official to serve on the Board of Trustees in his stead.
 
-**(d) Terms of office; vacancies; reappointment** Each member of the Board of Trustees appointed under paragraph (10) of subsection (b) of this section shall serve for a term of six years from the expiration of his predecessor’s term; except that (1) any trustee appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and (2) the terms of office of the trustees first taking office shall begin on October 24, 1968, and shall expire as designated at the time of appointment, two at the end of two years, three at the end of four years, and three at the end of six years. No trustee of the Board chosen from private life shall be eligible to serve in excess of two consecutive terms, except that a trustee whose term has expired may serve until his successor has qualified.
+**(d) Terms of office; vacancies; reappointment** Each member of the Board of Trustees appointed under paragraph (10) of subsection (b) shall serve for a term of six years from the expiration of his predecessor’s term; except that (1) any trustee appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and (2) the terms of office of the trustees first taking office shall begin on October 24, 1968, and shall expire as designated at the time of appointment, two at the end of two years, three at the end of four years, and three at the end of six years. No trustee of the Board chosen from private life shall be eligible to serve in excess of two consecutive terms, except that a trustee whose term has expired may serve until his successor has qualified.
 
 **(e) Chairman and Vice Chairman of Board** The President shall designate a Chairman and a Vice Chairman from among the members of the Board chosen from private life.
 
@@ -1879,7 +1885,7 @@ The Housing Act of 1949, as amended, referred to in subsec. (b), is act July 15,
 ## § 80g–1. Hubert H. Humphrey Fellowship in Social and Political Thought
 **(a) Establishment in Center** There is hereby established in the Center a Hubert H. Humphrey Fellowship in Social and Political Thought.
 
-**(b) Selection of Humphrey Fellow; term; compensation** Each year the Board shall select a distinguished scholar, statesman, or cultural figure, from the United States or abroad, to serve at the Center for a period of up to one year as the Hubert H. Humphrey Fellow in Social and Political Thought (hereinafter in this section referred to as the “Humphrey Fellow”). Each Humphrey Fellow shall receive compensation in an amount, determined by the Board, not to exceed the annual income of the trust fund established under subsection (d) of this section.
+**(b) Selection of Humphrey Fellow; term; compensation** Each year the Board shall select a distinguished scholar, statesman, or cultural figure, from the United States or abroad, to serve at the Center for a period of up to one year as the Hubert H. Humphrey Fellow in Social and Political Thought (hereinafter in this section referred to as the “Humphrey Fellow”). Each Humphrey Fellow shall receive compensation in an amount, determined by the Board, not to exceed the annual income of the trust fund established under subsection (d).
 
 **(c) Functions of Humphrey Fellow; publication and dissemination by Board of Memorial Lectures** Each Humphrey Fellow shall—
 
@@ -1890,13 +1896,13 @@ The Board shall provide for the publication and dissemination of the Hubert H. H
 
 **(d) Hubert H. Humphrey Fellowship Trust Fund; establishment, composition, investments, etc.**
 
-(1) There is hereby established in the Treasury of the United States a trust fund to be known as the Hubert H. Humphrey Fellowship Trust Fund (hereinafter in this section referred to as the “fund”). The Secretary of the Treasury shall deposit in the fund such sums as may be appropriated to the fund under subsection (f) of this section and shall receive into the Treasury and deposit into the fund such sums as may be received as contributions to the fund.
+(1) There is hereby established in the Treasury of the United States a trust fund to be known as the Hubert H. Humphrey Fellowship Trust Fund (hereinafter in this section referred to as the “fund”). The Secretary of the Treasury shall deposit in the fund such sums as may be appropriated to the fund under subsection (f) and shall receive into the Treasury and deposit into the fund such sums as may be received as contributions to the fund.
 
 (2) The Secretary of the Treasury shall invest amounts in the fund in public debt securities with maturities suitable for the needs of the fund and bearing interest at prevailing market rates; and the interest on such investments shall be credited to and form a part of the fund.
 
 (3) Notwithstanding [section 80g(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section80g/a/2&num=0&edition=prelim) any gift, bequest, or devise of money, securities or other property for the benefit of the Hubert H. Humphrey Fellowship in Social and Political Thought received by the Board shall, upon receipt, be deposited into the fund as provided by paragraph (1).
 
-**(e) Payments to Board from investments for implementation of Fellowship purposes** The Secretary of the Treasury shall pay to the Board from amounts received as interest on investments under subsection (d)(2) of this section such sums as the Board determines are necessary and appropriate for the purposes of the Humphrey Fellowship.
+**(e) Payments to Board from investments for implementation of Fellowship purposes** The Secretary of the Treasury shall pay to the Board from amounts received as interest on investments under subsection (d)(2) such sums as the Board determines are necessary and appropriate for the purposes of the Humphrey Fellowship.
 
 **(f) Authorization of appropriations** There is authorized to be appropriated to the fund for the fiscal year beginning October 1, 1978, $1,000,000.
 
@@ -1962,7 +1968,7 @@ Regents of Smithsonian Institution authorized to construct building for National
 
 **(b) Membership** The Commission shall consist of fifteen members to be appointed by the Board. In addition, the Secretary and an Assistant Secretary of the Smithsonian Institution shall serve as ex officio members. The Board shall appoint to the first term on the Commission no less than ten members of the Board of Trustees of the Museum of African Art who are serving on October 5, 1978. Each initial member so appointed shall serve for a three-year term. Thereafter, in appointing members of the Commission the Board shall continue to include representatives of African descendants in the United States, collectors of African Art, and scholars in the fields of African art and culture.
 
-**(c) Terms of office** Members of the Commission shall be appointed to serve for a three-year term, except that after the appointment of the first term of the Commission as specified in subsection (b) of this section, the terms of office of members next appointed shall expire, as designated by the Board at the time of appointment, one-third at the end of one year, one-third at the end of two years, and one-third at the end of three years. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term. Members may be reappointed.
+**(c) Terms of office** Members of the Commission shall be appointed to serve for a three-year term, except that after the appointment of the first term of the Commission as specified in subsection (b), the terms of office of members next appointed shall expire, as designated by the Board at the time of appointment, one-third at the end of one year, one-third at the end of two years, and one-third at the end of three years. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term. Members may be reappointed.
 
 **(d) Quorum; vacancies** A majority of the appointed members of the Commission shall constitute a quorum and any vacancy in the Commission shall not affect its power to function.
 
@@ -2132,18 +2138,18 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 (2) other Federal and non-Federal entities for additional returns of Indian human remains and Indian funerary objects.
 
-**(b) Authorization of appropriations** There is authorized to be appropriated $1,000,000 for fiscal year 1991 and such sums as may be necessary for succeeding fiscal years for grants under subsection (a) of this section.
+**(b) Authorization of appropriations** There is authorized to be appropriated $1,000,000 for fiscal year 1991 and such sums as may be necessary for succeeding fiscal years for grants under subsection (a).
 
 
 <a id="section-80q-13"></a>
 ## § 80q–13. Grants by Secretary of the Interior to assist Indian organizations with respect to renovation and repair of museum facilities and exhibit facilities
 **(a) Grants** The Secretary of the Interior may make grants to Indian organizations, including Indian tribes, museums, cultural centers, educational institutions, libraries, and archives, for renovation and repair of museum facilities and exhibit facilities to enable such organizations to exhibit objects and artifacts on loan from the collections of the Smithsonian Institution or from other sources. Such grants may be made only from the Tribal Museum Endowment Fund.
 
-**(b) Indian organization contribution** In making grants under subsection (a) of this section, the Secretary may require the organization receiving the grant to contribute, in cash or in kind, not more than 50 percent of the cost of the renovation or repair involved. Such contribution may be derived from any source other than the Tribal Museum Endowment Fund.
+**(b) Indian organization contribution** In making grants under subsection (a), the Secretary may require the organization receiving the grant to contribute, in cash or in kind, not more than 50 percent of the cost of the renovation or repair involved. Such contribution may be derived from any source other than the Tribal Museum Endowment Fund.
 
 **(c) Tribal Museum Endowment Fund**
 
-(1) **Establishment** — There is established in the Treasury a fund, to be known as the “Tribal Museum Endowment Fund” (hereinafter in this subsection referred to as the “Fund”) for the purpose of making grants under subsection (a) of this section. The Fund shall consist of (A) amounts deposited and credited under paragraph (2), (B) obligations obtained under paragraph (3), and (C) amounts appropriated pursuant to authorization under paragraph (5).
+(1) **Establishment** — There is established in the Treasury a fund, to be known as the “Tribal Museum Endowment Fund” (hereinafter in this subsection referred to as the “Fund”) for the purpose of making grants under subsection (a). The Fund shall consist of (A) amounts deposited and credited under paragraph (2), (B) obligations obtained under paragraph (3), and (C) amounts appropriated pursuant to authorization under paragraph (5).
 
 (2) **Deposits and credits** — The Secretary of the Interior is authorized to accept contributions to the Fund from non-Federal sources and shall deposit such contributions in the Fund. The Secretary of the Treasury shall credit to the Fund the interest on, and the proceeds from sale and redemption of, obligations held in the Fund.
 
@@ -2181,7 +2187,7 @@ As used in this subchapter—
 
 (7) the term “Indian” means a member of an Indian tribe;
 
-(8) the term “Indian tribe” has the meaning given that term in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim);
+(8) the term “Indian tribe” has the meaning given that term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim);
 
 (9) the term “National Museum” means the National Museum of the American Indian established by [section 80q–1 of this title](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-80q-1);
 
@@ -2198,7 +2204,7 @@ As used in this subchapter—
 
 (2) such sums as may be necessary for each succeeding fiscal year.
 
-**(b) Period of availability** Funds appropriated under subsection (a) of this section shall remain available without fiscal year limitation for any period prior to the availability of the facilities to be constructed under [section 80q–5 of this title](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-80q-5) for administrative and planning expenses and for the care and custody of the collections of the National Museum.
+**(b) Period of availability** Funds appropriated under subsection (a) shall remain available without fiscal year limitation for any period prior to the availability of the facilities to be constructed under [section 80q–5 of this title](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-80q-5) for administrative and planning expenses and for the care and custody of the collections of the National Museum.
 
 
 <a id="section-80q-2"></a>
@@ -2264,7 +2270,7 @@ The United States District Court for the Southern District of New York shall hav
 
 **(f) Subsequent appointments to Board of Trustees**
 
-(1) **Membership** — Upon the expiration of the terms under subsection (e) of this section, the Board of Trustees shall consist of—
+(1) **Membership** — Upon the expiration of the terms under subsection (e), the Board of Trustees shall consist of—
 
   (A) the Secretary of the Smithsonian Institution;
 
@@ -2308,11 +2314,11 @@ The United States District Court for the Southern District of New York shall hav
 
 **(c) Applicability of certain civil service laws** The Secretary may—
 
-(1) appoint the Director, 2 employees under subsection (a)(2) of this section, and the employees under subsection (b) of this section without regard to the provisions of title 5, governing appointments in the competitive service;
+(1) appoint the Director, 2 employees under subsection (a)(2), and the employees under subsection (b) without regard to the provisions of title 5, governing appointments in the competitive service;
 
 (2) fix the pay of the Director and such 2 employees without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates; and
 
-(3) fix the pay of the employees under subsection (b) of this section in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, subject to subsection (b)(2) of this section.
+(3) fix the pay of the employees under subsection (b) in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, subject to subsection (b)(2).
 
 
 <a id="section-80q-5"></a>
@@ -2388,7 +2394,7 @@ Pub. L. 103–384, Oct. 22, 1994, 108 Stat. 4067, as amended by Pub. L. 113–70
 
 (3) upon written agreement between the Board and any qualified successor, provide training, scholarship, technical, and other assistance (other than operating funds) with respect to the area referred to in paragraph (1) for the purposes described in that paragraph.
 
-**(b) Determination of charges** Any charge by the Board of Regents for activities pursuant to agreements under paragraph (2) or (3) of subsection (a) of this section shall be determined according to the ability of the successor to pay.
+**(b) Determination of charges** Any charge by the Board of Regents for activities pursuant to agreements under paragraph (2) or (3) of subsection (a) shall be determined according to the ability of the successor to pay.
 
 **(c) Definition** As used in this section, the terms “qualified successor to the Heye Foundation at Audubon Terrace”, “qualified successor”, and,11 So in original. The comma probably should not appear. “successor” mean an organization described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim), and exempt from tax under [section 501(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim), that, as determined by the Board of Regents—
 
@@ -2418,7 +2424,7 @@ the Board of Regents shall give priority to agreements with Indian organizations
 
 **(c) Indian Museum Management Fellowships** The Board of Regents shall establish an Indian Museum Management Fellowship program to provide stipend support to Indians for training in museum development and management.
 
-**(d) Authorization of appropriations** There is authorized to be appropriated $2,000,000 for each fiscal year, beginning with fiscal year 1991, to carry out subsections (b) and (c) of this section.
+**(d) Authorization of appropriations** There is authorized to be appropriated $2,000,000 for each fiscal year, beginning with fiscal year 1991, to carry out subsections (b) and (c).
 
 ### Statutory Notes
 
@@ -2471,7 +2477,7 @@ Subsec. (f). Pub. L. 104–278, § 3(b), inserted “and [section 80q–9a of th
 ## § 80q–9a. Summary and repatriation of unassociated funerary objects, sacred objects, and cultural patrimony
 **(a) Summary** Not later than December 31, 1996, the Secretary of the Smithsonian Institution shall provide a written summary that contains a summary of unassociated funerary objects, sacred objects, and objects of cultural patrimony (as those terms are defined in subparagraphs (B), (C), and (D), respectively, of [section 3001(3) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3001/3&num=0&edition=prelim), based upon available information held by the Smithsonian Institution. The summary required under this section shall include, at a minimum, the information required under [section 3004 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3004&num=0&edition=prelim).
 
-**(b) Repatriation** Where cultural affiliation of Native American unassociated funerary objects, sacred objects, and objects of cultural patrimony has been established in the summary prepared pursuant to subsection (a) of this section, or where a requesting Indian tribe or Native Hawaiian organization can show cultural affiliation by a preponderance of the evidence based upon geographical, kinship, biological, archaeological, anthropological, linguistic, folkloric, oral traditional, historical, or other relevant information or expert opinion, then the Smithsonian Institution shall expeditiously return such unassociated funerary object, sacred object, or object of cultural patrimony where—
+**(b) Repatriation** Where cultural affiliation of Native American unassociated funerary objects, sacred objects, and objects of cultural patrimony has been established in the summary prepared pursuant to subsection (a), or where a requesting Indian tribe or Native Hawaiian organization can show cultural affiliation by a preponderance of the evidence based upon geographical, kinship, biological, archaeological, anthropological, linguistic, folkloric, oral traditional, historical, or other relevant information or expert opinion, then the Smithsonian Institution shall expeditiously return such unassociated funerary object, sacred object, or object of cultural patrimony where—
 
 (1) the requesting party is the direct lineal descendant of an individual who owned the unassociated funerary object or sacred object;
 
@@ -2624,7 +2630,7 @@ In this subchapter:
 
 (1) **In general** — Except as provided in this subsection, each appointed member of the Council shall be appointed for a term of 3 years.
 
-(2) **Initial appointees** — As designated by the Board of Regents at the time of appointment, of the voting members first appointed under subparagraph (C) of subsection (c)(2) of this section—
+(2) **Initial appointees** — As designated by the Board of Regents at the time of appointment, of the voting members first appointed under subparagraph (C) of subsection (c)(2)—
 
   (A) six members shall be appointed for a term of 1 year;
 
@@ -2671,7 +2677,7 @@ In this subchapter:
 
 **(b) Staff** The Secretary may appoint two additional employees to serve under the Director, except that such additional employees may be appointed without regard to the provisions of title 5 governing appointments in the competitive service.
 
-**(c) Pay** The employees appointed by the Secretary under subsection (b) of this section may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates.
+**(c) Pay** The employees appointed by the Secretary under subsection (b) may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates.
 
 
 <a id="section-80r-5"></a>
@@ -2688,7 +2694,7 @@ In this subchapter:
 
     (ii) programs carried out in collaboration with elementary schools, secondary schools, and postsecondary schools; and
 
-  (B) consult with the Director of the Institute of Museum and Library Services concerning the grant and scholarship programs carried out under subsection (b) of this section.
+  (B) consult with the Director of the Institute of Museum and Library Services concerning the grant and scholarship programs carried out under subsection (b).
 
 **(b) Grant and scholarship programs**
 
@@ -2809,7 +2815,7 @@ The National Museum of African American History and Culture Plan for Action Pres
 
 (2) such sums as are necessary for each fiscal year thereafter.
 
-**(b) Availability** Amounts made available under subsection (a) of this section shall remain available until expended.
+**(b) Availability** Amounts made available under subsection (a) shall remain available until expended.
 
 **(c) Use of funds for fundraising** Amounts appropriated pursuant to the authorization under this section may be used to conduct fundraising in support of the Museum from private sources.
 

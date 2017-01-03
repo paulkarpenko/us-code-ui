@@ -57,7 +57,7 @@ source: >-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 102701 | [16 U.S.C. 1a–6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–6&num=0&edition=prelim) | Pub. L. 91–383, § 10, as added Pub. L. 94–458, § § 2, Oct. 7, 1976, 90 Stat. 1941; Pub. L. 106–437, § 2, Nov. 6, 2000, 114 Stat. 1920; Pub. L. 108–352, § 11, Oct. 21, 2004, 118 Stat. 1397. |
+| 102701 | [16 U.S.C. 1a–6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–6&num=0&edition=prelim). | Pub. L. 91–383, § 10, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1941; Pub. L. 106–437, § 2, Nov. 6, 2000, 114 Stat. 1920; Pub. L. 108–352, § 11, Oct. 21, 2004, 118 Stat. 1397. |
 
 In subsection (a)(1), the words “In addition to any other authority conferred by law” are omitted as unnecessary.
 
@@ -91,7 +91,7 @@ In subsection (a)(1), the words “In addition to any other authority conferred 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 102702 | [16 U.S.C. 1a–7a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–7a&num=0&edition=prelim) | Pub. L. 91–383, § 13, as added Pub. L. 103–322, title IV, § 40132, Sept. 13, 1994, 108 Stat. 1917. |
+| 102702 | [16 U.S.C. 1a–7a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–7a&num=0&edition=prelim). | Pub. L. 91–383, § 13, as added Pub. L. 103–322, title IV, § 40132, Sept. 13, 1994, 108 Stat. 1917. |
 
 
 <a id="section-102711"></a>
@@ -104,7 +104,7 @@ To facilitate the administration of the System, the Secretary may use applicable
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 102711 | [16 U.S.C. 1b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1b&num=0&edition=prelim) (matter before (1)), (1) | Aug. 8, 1953, ch. 384, § 1 (matter before (1)), (1), 67 Stat. 495; Pub. L. 91–383, § 2(a), Aug. 18, 1970, 84 Stat. 826. |
+| 102711 | [16 U.S.C. 1b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1b&num=0&edition=prelim) (matter before (1)), (1). | Aug. 8, 1953, ch. 384, § 1 (matter before (1)), (1), 67 Stat. 495; Pub. L. 91–383, § 2(a), Aug. 18, 1970, 84 Stat. 826. |
 
 The words “and he may use applicable appropriations for the aforesaid system for the following purposes” are retained because the appropriation is to be used for something outside the System.
 
@@ -120,5 +120,5 @@ The words “and he may use applicable appropriations for the aforesaid system f
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 102712(a) | [16 U.S.C. 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section12&num=0&edition=prelim) | July 3, 1926, ch. 792, § 1, 44 Stat. 900. |
-| 102712(b) | [16 U.S.C. 17c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17c&num=0&edition=prelim) | May 26, 1930, ch. 324, § 4, 46 Stat. 382. |
+| 102712(a) | [16 U.S.C. 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section12&num=0&edition=prelim). | July 3, 1926, ch. 792, § 1, 44 Stat. 900. |
+| 102712(b) | [16 U.S.C. 17c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17c&num=0&edition=prelim). | May 26, 1930, ch. 324, § 4, 46 Stat. 382. |

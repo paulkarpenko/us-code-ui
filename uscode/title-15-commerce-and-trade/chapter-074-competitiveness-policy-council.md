@@ -165,7 +165,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
     (iv) one shall be a representative of State or local government.
 
-(2) In addition to the head of a Federal department or agency appointed in accordance with subsection (a)(1)(A)(iv) of this section, other Federal officials may participate on an ex-officio basis as requested by the Council.
+(2) In addition to the head of a Federal department or agency appointed in accordance with subsection (a)(1)(A)(iv), other Federal officials may participate on an ex-officio basis as requested by the Council.
 
 (3) All members of the Council shall be individuals who have a broad understanding of the United States economy and the United States competitive position internationally.
 
@@ -197,7 +197,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 **(i) Meetings** The Council shall meet at the call of the chairperson or a majority of the members.
 
-**(j) Policy actions** Except as provided in subsection (g) of this section, no action establishing policy shall be taken by the Council unless approved by two-thirds of the entire membership of the Council.
+**(j) Policy actions** Except as provided in subsection (g), no action establishing policy shall be taken by the Council unless approved by two-thirds of the entire membership of the Council.
 
 **(k) Alternate members**
 
@@ -342,7 +342,7 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 (4) a summary of significant economic and technological developments, in the United States and abroad, affecting the competitive position of United States industries.
 
-**(b) Contents of report** The report submitted under subsection (a) of this section shall—
+**(b) Contents of report** The report submitted under subsection (a) shall—
 
 (1) identify and describe actual or foreseeable developments, in the United States and abroad, which—
 

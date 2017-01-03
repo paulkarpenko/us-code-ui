@@ -2,7 +2,7 @@
 title: 42
 chapter: '79'
 heading: 'SCIENCE AND TECHNOLOGY POLICY, ORGANIZATION AND PRIORITIES'
-section_count: 27
+section_count: 30
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -52,10 +52,16 @@ source: >-
 
 ### Statutory Notes
 
+#### Short Title of 2017 Amendment
+Pub. L. 114–329, title VI, § 604(a), Jan. 6, 2017, 130 Stat. 3037, provided that: “This section [amending [section 6612 of this title](./chapter-079-science-and-technology-policy-organization-and-priorities.md#section-6612)] may be cited as the ‘United States Chief Technology Officer Act’.”
+
 #### Short Title
 Pub. L. 94–282, § 1, May 11, 1976, 90 Stat. 459, provided that: “This Act [enacting this chapter, amending [section 1863 of this title](./chapter-016-national-science-foundation.md#section-1863), repealing sections 1, 2, 3, and 4 of Reorganization Plan Numbered 2 of 1962 (76 Stat. 1253), set out as a note under [section 1861 of this title](./chapter-016-national-science-foundation.md#section-1861), and section 2 of Reorganization Plan Numbered 1 of 1973 (87 Stat. 1089), set out as a note under [section 5195 of this title](./chapter-068-disaster-relief.md#section-5195), and enacting provisions set out as notes under this section and sections 1862 and 6611 of this title] may be cited as the ‘National Science and Technology Policy, Organization, and Priorities Act of 1976’.”
 
 Pub. L. 94–282, title II, § 201, May 11, 1976, 90 Stat. 463, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Presidential Science and Technology Advisory Organization Act of 1976’.”
+
+#### Physical Sciences Coordination
+Pub. L. 114–329, title I, § 106, Jan. 6, 2017, 130 Stat. 2985, provided that: “(a) High-energy Physics.—“(1) In general.—The Physical Science Subcommittee of the National Science and Technology Council (referred to in this section as ‘Subcommittee’) shall continue to coordinate Federal efforts related to high-energy physics research to maximize the efficiency and effectiveness of United States investment in high-energy physics. “(2) Purposes.—The purposes of the Subcommittee include—“(A) to advise and assist the Committee on Science and the National Science and Technology Council on United States policies, procedures, and plans in the physical sciences, including high-energy physics; and “(B) to identify emerging opportunities, stimulate international cooperation, and foster the development of the physical sciences in the United States, including—“(i) in high-energy physics research, including related underground science and engineering research; “(ii) in physical infrastructure and facilities; “(iii) in information and analysis; and “(iv) in coordination activities. “(3) Responsibilities.—In regard to coordinating Federal efforts related to high-energy physics research, the Subcommittee shall, taking into account the findings and recommendations of relevant advisory committees—“(A) provide recommendations on planning for construction and stewardship of large facilities participating in high-energy physics; “(B) provide recommendations on research coordination and collaboration among the programs and activities of Federal agencies related to underground science, neutrino research, dark energy, and dark matter research; “(C) establish goals and priorities for high-energy physics, related underground science, and research and development that will strengthen United States competitiveness in high-energy physics; “(D) propose methods for engagement with international, Federal, and State agencies and Federal laboratories not represented on the National Science and Technology Council to identify and reduce regulatory, logistical, and fiscal barriers that inhibit United States leadership in high-energy physics and related underground science; and “(E) develop, and update as necessary, a strategic plan to guide Federal programs and activities in support of high-energy physics research, including—“(i) the efforts taken in support of paragraph (2) since the last strategic plan; “(ii) an evaluation of the current research needs for maintaining United States leadership in high-energy physics; and “(iii) an identification of future priorities in the area of high-energy physics. “(b) Radiation Biology.—“(1) In general.—The Subcommittee shall continue to coordinate Federal efforts related to radiation biology research to maximize the efficiency and effectiveness of United States investment in radiation biology. “(2) Responsibilities for radiation biology.—In regard to coordinating Federal efforts related to radiation biology research, the Subcommittee shall—“(A) advise and assist the National Science and Technology Council on policies and initiatives in radiation biology, including enhancing scientific knowledge of the effects of low dose radiation on biological systems to improve radiation risk management methods; “(B) identify opportunities to stimulate international cooperation and leverage research and knowledge from sources outside of the United States; “(C) ensure coordination between the Department of Energy Office of Science, [National Science] Foundation, National Aeronautics and Space Administration, National Institutes of Health, Environmental Protection Agency, Department of Defense, Nuclear Regulatory Commission, and Department of Homeland Security; “(D) identify ongoing scientific challenges for understanding the long-term effects of ionizing radiation on biological systems; and “(E) formulate overall scientific goals for the future of low-dose radiation research in the United States. “(c) Fusion Energy Sciences.—“(1) In general.—The Subcommittee shall continue to coordinate Federal efforts related to fusion energy research to maximize the efficiency and effectiveness of United States investment in fusion energy sciences. “(2) Responsibilities for fusion energy sciences.—In regard to coordinating Federal efforts related to fusion energy sciences, the Subcommittee shall—“(A) advise and assist the National Science and Technology Council on policies and initiatives in fusion energy sciences, including enhancing scientific knowledge of fusion energy science, plasma physics, and related materials sciences; “(B) identify opportunities to stimulate international cooperation and leverage research and knowledge from sources outside of the United States, including the ITER project; “(C) ensure coordination between the Department of Energy Office of Science, National Nuclear Security Administration, Advanced Research Projects Agency-Energy, National Aeronautics and Space Administration, {National Science] Foundation, and Department of Defense regarding fusion energy sciences and plasma physics; and “(D) formulate overall scientific goals for the future of fusion energy sciences and plasma physics.”
 
 #### Ex. Ord. No. 12039. Transfer of Certain Science and Technology Policy Functions
 Ex. Ord. No. 12039, Feb. 24, 1978, 43 F.R. 8095, as amended by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, provided:
@@ -162,21 +168,25 @@ Ex. Ord. No. 12975, Oct. 3, 1995, 60 F.R. 52063, as amended by Ex. Ord. No. 1301
 Ex. Ord. No. 13226, Sept. 30, 2001, 66 F.R. 50523, as amended by Ex. Ord. No. 13305, May 28, 2003, 68 F.R. 32323; Ex. Ord. No. 13349, July 23, 2004, 69 F.R. 44891; Ex. Ord. No. 13385, § 8, Sept. 29, 2005, 70 F.R. 57991, which established the President’s Council of Advisors on Science and Technology, was revoked by Ex. Ord. No. 13539, § 6, Apr. 21, 2010, 75 F.R. 21975, set out below.
 
 #### Extension of Term of President’s Council of Advisors on Science and Technology
-Term of President’s Council of Advisors on Science and Technology extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Council of Advisors on Science and Technology extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of President’s Council of Advisors on Science and Technology extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Previous extensions of term of President’s Council of Advisors on Science and Technology were contained in the following prior Executive Orders:
 
-Term of President’s Council of Advisors on Science and Technology extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, extended term until Sept. 30, 2009.
+
+Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, extended term until Sept. 30, 2007.
 
 #### Executive Order No. 13237
 Ex. Ord. No. 13237, Nov. 28, 2001, 66 F.R. 59851, which created the President’s Council on Bioethics, was superseded by Ex. Ord. No. 13521, § 6(a), Nov. 24, 2009, 74 F.R. 62672, set out below.
 
 #### Extension of Term of President’s Council on Bioethics
-Term of President’s Council on Bioethics extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Council on Bioethics extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of President’s Council on Bioethics extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Previous extensions of term of President’s Council on Bioethics were contained in the following prior Executive Orders:
 
-Term of President’s Council on Bioethics extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, extended term until Sept. 30, 2007.
+
+Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, extended term until Sept. 30, 2005.
 
 #### Ex. Ord. No. 13521. Establishing the Presidential Commission for the Study of Bioethical Issues
 Ex. Ord. No. 13521, Nov. 24, 2009, 74 F.R. 62671, provided:
@@ -244,9 +254,13 @@ Sec. 6. General Provisions.
 Barack Obama.
 
 #### Extension of Term of Presidential Commission for the Study of Bioethical Issues
-Term of Presidential Commission for the Study of Bioethical Issues extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Presidential Commission for the Study of Bioethical Issues extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of Presidential Commission for the Study of Bioethical Issues extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Previous extensions of term of Presidential Commission for the Study of Bioethical Issues were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
+
+Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 2013.
 
 #### Ex. Ord. No. 13539. President’s Council of Advisors on Science and Technology
 Ex. Ord. No. 13539, Apr. 21, 2010, 75 F.R. 21973, as amended by Ex. Ord. No. 13596, § 2, Dec. 19, 2011, 76 F.R. 80725, provided:
@@ -261,7 +275,7 @@ Sec. 2. Functions. (a) The PCAST shall advise the President, directly at its mee
 
 (ii) solicit information and ideas from the broad range of stakeholders, including but not limited to the research community, the private sector, universities, national laboratories, State and local governments, foundations, and nonprofit organizations;
 
-(iii) serve as the advisory committee identified in subsections 101(b) and 103(b) of the High[-]Performance Computing Act of 1991 (Public Law 102–194), as amended ([15 U.S.C. 5511(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5511/b&num=0&edition=prelim) and 5513(b)). In performing the functions of such advisory committee, the PCAST shall be known as the President’s Innovation and Technology Advisory Committee; and
+(iii) serve as the advisory committee identified in subsections 101(b) and [former] 103(b) of the High[-]Performance Computing Act of 1991 (Public Law 102–194), as amended ([15 U.S.C. 5511(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5511/b&num=0&edition=prelim) and [former 15 U.S.C.] 5513(b)). In performing the functions of such advisory committee, the PCAST shall be known as the President’s Innovation and Technology Advisory Committee; and
 
 (iv) serve as the advisory panel identified in section 4 of the 21st Century Nanotechnology Research and Development Act ([15 U.S.C. 7503](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7503&num=0&edition=prelim)) (21st Century Act). In performing the functions of such advisory committee, the PCAST shall be known as the National Nanotechnology Advisory Panel. Nothing in this order shall be construed to require the National Nanotechnology Advisory Panel to comply with any requirement from which it is exempted by section 4(f) of the 21st Century Act.
 
@@ -296,9 +310,13 @@ Sec. 6. Revocation. Executive Order 13226 of September 30, 2001, as amended, is 
 Barack Obama.
 
 #### Extension of Term of President’s Council of Advisors on Science and Technology
-Term of President’s Council of Advisors on Science and Technology extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Council of Advisors on Science and Technology extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of President’s Council of Advisors on Science and Technology extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Previous extensions of term of President’s Council of Advisors on Science and Technology were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
+
+Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 2013.
 
 #### Strengthened Protections for Human Subjects of Classified Research
 Memorandum of President of the United States, Mar. 27, 1997, 62 F.R. 26369, provided:
@@ -433,15 +451,7 @@ William J. Clinton.
 
 **(b) Sense of Congress on setting annual funding goals for basic research** It is the sense of Congress that each Executive agency that funds research in science, technology, engineering, or mathematics should set a goal of allocating an appropriate percentage of the annual basic research budget of such agency to funding high-risk, high-reward basic research projects described in subsection (a).
 
-**(c) Report** Each Executive agency described in subsection (b) shall submit to Congress each year, together with documents submitted to Congress in support of the budget of the President for the fiscal year beginning in such year (as submitted pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim)), a report describing whether a funding goal as described in subsection (b) has been established, and if such a goal has been established, the following:
-
-(1) A description of such funding goal.
-
-(2) Whether such funding goal is being met by the agency.
-
-(3) A description of activities supported by amounts allocated in accordance with such funding goal.
-
-**(d) Definitions** In this section:
+**(c) Definitions** In this section:
 
 (1) **Basic research** — The term “basic research” has the meaning given such term in the Office of Management and Budget Circular No. A–11.
 
@@ -451,6 +461,124 @@ William J. Clinton.
 
 #### Codification
 Section was enacted as part of the America COMPETES Act, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
+
+#### Amendments
+2017—Subsecs. (c), (d). Pub. L. 114–329 redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to annual reports to Congress.
+
+
+<a id="section-6604"></a>
+## § 6604. Interagency working group on research regulation
+**(a) Short title** This section may be cited as the “Research and Development Efficiency Act”.
+
+**(b) Findings** Congress makes the following findings:
+
+(1) Scientific and technological advancement have been the largest drivers of economic growth in the last 50 years, with the Federal Government being the largest investor in basic research.
+
+(2) Substantial and increasing administrative burdens and costs in Federal research administration, particularly in the higher education sector where most federally funded research is performed, are eroding funds available to carry out basic scientific research.
+
+(3) Federally funded grants are increasingly competitive, with the Foundation funding only approximately 1 in every 5 grant proposals.
+
+(4) Progress has been made over the last decade in streamlining the pre-award grant application process through the Federal Government’s Grants.gov website.
+
+(5) Post-award administrative costs have increased as Federal research agencies have continued to impose agency-unique compliance and reporting requirements on researchers and research institutions.
+
+(6) Researchers spend as much as 42 percent of their time complying with Federal regulations, including administrative tasks such as applying for grants or meeting reporting requirements.
+
+**(c) Sense of Congress** It is the sense of Congress that—
+
+(1) administrative burdens faced by researchers may be reducing the return on investment of federally funded research and development; and
+
+(2) it is a matter of critical importance to United States competitiveness that administrative costs of federally funded research be streamlined so that a higher proportion of federal funding is applied to direct research activities.
+
+**(d) Establishment** The Director of the Office of Management and Budget, in coordination with the Office of Science and Technology Policy, shall establish an interagency working group (referred to in this section as the “Working Group”) for the purpose of reducing administrative burdens on federally funded researchers while protecting the public interest through the transparency of and accountability for federally funded activities.
+
+**(e) Responsibilities**
+
+(1) **In general** — The Working Group shall—
+
+  (A) regularly review relevant, administration-related regulations imposed on federally funded researchers;
+
+  (B) recommend those regulations or processes that may be eliminated, streamlined, or otherwise improved for the purpose described in subsection (d);
+
+  (C) recommend ways to minimize the regulatory burden on United States institutions of higher education performing federally funded research while maintaining accountability for federal funding; and
+
+  (D) recommend ways to identify and update specific regulations to refocus on performance-based goals rather than on process while achieving the outcome described in subparagraph (C).
+
+(2) **Grant review**
+
+  (A) *In general* — The Working Group shall—
+
+    (i) conduct a comprehensive review of Federal science agency grant proposal documents; and
+
+    (ii) develop, to the extent practicable, a simplified, uniform grant format to be used by all Federal science agencies.
+
+  (B) *Considerations* — In developing the uniform grant format, the Working Group shall consider whether to implement—
+
+    (i) procedures for preliminary project proposals in advance of peer-review selection;
+
+    (ii) increased use of “Just-In-Time” procedures for documentation that does not bear directly on the scientific merit of a proposal;
+
+    (iii) simplified initial budget proposals in advance of peer review selection; and
+
+    (iv) detailed budget proposals for applicants that peer review selection identifies as likely to be funded.
+
+(3) **Centralized researcher profile database**
+
+  (A) *Establishment* — The Working Group shall establish, to the extent practicable, a secure, centralized database for investigator biosketches, curriculum vitae, licenses, lists of publications, and other documents considered relevant by the Working Group.
+
+  (B) *Considerations* — In establishing the centralized profile database under subparagraph (A), the Working Group shall consider incorporating existing investigator databases.
+
+  (C) *Grant proposals* — To the extent practicable, all grant proposals shall utilize the centralized investigator profile database established under subparagraph (A).
+
+  (D) *Requirements* — Each investigator shall—
+
+    (i) be responsible for ensuring the investigator’s profile is current and accurate; and
+
+    (ii) be assigned a unique identifier linked to the database and accessible to all Federal funding agencies.
+
+(4) **Centralized assurances repository** — The Working Group shall—
+
+  (A) establish a central repository for all of the assurances required for Federal research grants; and
+
+  (B) provide guidance to institutions of higher education and Federal science agencies on the use of the centralized assurances repository.
+
+(5) **Comprehensive review**
+
+  (A) *In general* — The Working Group shall—
+
+    (i) conduct a comprehensive review of the mandated progress reports for federally funded research; and
+
+    (ii) develop a strategy to simplify investigator progress reports.
+
+  (B) *Considerations* — In developing the strategy, the Working Group shall consider limiting progress reports to performance outcomes.
+
+**(f) Consultation** In carrying out its responsibilities under subsection (e)(1), the Working Group shall consult with academic researchers outside the Federal Government, including—
+
+(1) federally funded researchers;
+
+(2) non-federally funded researchers;
+
+(3) institutions of higher education and their representative associations;
+
+(4) scientific and engineering disciplinary societies and associations;
+
+(5) nonprofit research institutions;
+
+(6) industry, including small businesses;
+
+(7) federally funded research and development centers; and
+
+(8) members of the public with a stake in ensuring effectiveness, efficiency, and accountability in the performance of scientific research.
+
+**(g) Reports** Not later than 1 year after January 6, 2017, and annually thereafter for 3 years, the Working Group shall submit to the appropriate committees of Congress a report on its responsibilities under this section, including a discussion of the considerations described in paragraphs (2)(B), (3)(B), and (5)(B) of subsection (e) and recommendations made under subsection (e)(1).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as the Research and Development Efficiency Act and also as part of the American Innovation and Competitiveness Act, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
+
+#### Definitions
+For definitions of terms used in this section, see section 2 of Pub. L. 114–329, set out as a note under [section 1862s of this title](./chapter-016-national-science-foundation.md#section-1862s).
 
 
 <a id="section-6611"></a>
@@ -469,8 +597,20 @@ Pub. L. 102–245, title V, § 501, Feb. 14, 1992, 106 Stat. 22, authorized the 
 
 <a id="section-6612"></a>
 ## § 6612. Director; Associate Directors
+**(a) In general** There shall be at the head of the Office a Director who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate provided for level II of the Executive Schedule in [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim).
 
-There shall be at the head of the Office a Director who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate provided for level II of the Executive Schedule in [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim). The President is authorized to appoint not more than four Associate Directors, by and with the advice and consent of the Senate, who shall be compensated at a rate not to exceed that provided for level III of the Executive Schedule in section 5314 of such title. Associate Directors shall perform such functions as the Director may prescribe.
+**(b) Associate Directors** The President is authorized to appoint not more than four Associate Directors, by and with the advice and consent of the Senate, who shall be compensated at a rate not to exceed that provided for level III of the Executive Schedule in section 5314 of such title. Associate Directors shall perform such functions as the Director may prescribe.
+
+**(c) Chief Technology Officer** Subject to subsection (b), the President is authorized to designate 1 of the Associate Directors under that subsection as a United States Chief Technology Officer.
+
+### Statutory Notes
+
+#### Amendments
+2017—Subsec. (a). Pub. L. 114–329, § 604(b)(2), designated first sentence of existing provisions as subsec. (a) and inserted heading.
+
+Subsec. (b). Pub. L. 114–329, § 604(b)(1), designated second and third sentences of existing provisions as subsec. (b) and inserted heading.
+
+Subsec. (c). Pub. L. 114–329, § 604(b)(3), added subsec. (c).
 
 
 <a id="section-6613"></a>
@@ -603,7 +743,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (a) of this se
 ## § 6616. Additional functions of Director
 **(a) Service as Chairman of Federal Coordinating Council for Science, Engineering, and Technology and as member of Domestic Council** The Director shall, in addition to the other duties and functions set forth in this subchapter—
 
-(1) serve as Chairman of the Federal Coordinating Council for Science, Engineering, and Technology established under subchapter IV of this chapter; and
+(1) serve as Chairman of the Federal Coordinating Council for Science, Engineering, and Technology established under subchapter IV; and
 
 (2) serve as a member of the Domestic Council.
 
@@ -709,7 +849,7 @@ Section was enacted as part of the America COMPETES Act, also known as the Ameri
 ## § 6621. Coordination of Federal STEM education
 **(a) Establishment** The Director shall establish a committee under the National Science and Technology Council, including the Office of Management and Budget, with the responsibility to coordinate Federal programs and activities in support of STEM education, including at the National Science Foundation, the Department of Energy, the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, the Department of Education, and all other Federal agencies that have programs and activities in support of STEM education.
 
-**(b) 11 So in original. Two subsecs. (b) have been enacted. Responsibilities** The committee established under subsection (a) shall—
+**(b) Responsibilities** The committee established under subsection (a) shall—
 
 (1) coordinate the STEM education activities and programs of the Federal agencies;
 
@@ -727,13 +867,21 @@ Section was enacted as part of the America COMPETES Act, also known as the Ameri
 
   (C) describe the approaches that will be taken by each participating agency to assess the effectiveness of its STEM education programs and activities; and
 
-  (D) with respect to subparagraph (A), describe the role of each agency in supporting programs and activities designed to achieve the objectives; and
+  (D) with respect to subparagraph (A), describe the role of each agency in supporting programs and activities designed to achieve the objectives;
 
-(6) establish, periodically update, and maintain an inventory of federally sponsored STEM education programs and activities, including documentation of assessments of the effectiveness of such programs and activities and rates of participation by women, underrepresented minorities, and persons in rural areas in such programs and activities.
+(6) establish, periodically update, and maintain an inventory of federally sponsored STEM education programs and activities, including documentation of assessments of the effectiveness of such programs and activities and rates of participation by women, underrepresented minorities, and persons in rural areas in such programs and activities;
 
-**(b) 1 Responsibilities of OSTP** The Director shall encourage and monitor the efforts of the participating agencies to ensure that the strategic plan under subsection (b)(5) is developed and executed effectively and that the objectives of the strategic plan are met.
+(7) collaborate with the STEM Education Advisory Panel established under section 303 of the American Innovation and Competitiveness Act and other outside stakeholders to ensure the engagement of the STEM education community;
 
-**(c) Report** The Director shall transmit a report annually to Congress at the time of the President’s budget request describing the plan required under subsection (b)(5). The annual report shall include—
+(8) review the measures used by a Federal agency to evaluate its STEM education activities and programs;
+
+(9) request and review feedback from States on how the States are utilizing Federal STEM education programs and activities; and
+
+(10) recommend the reform, termination, or consolidation of Federal STEM education activities and programs, taking into consideration the recommendations of the STEM Education Advisory Panel.
+
+**(c) Responsibilities of OSTP** The Director shall encourage and monitor the efforts of the participating agencies to ensure that the strategic plan under subsection (b)(5) is developed and executed effectively and that the objectives of the strategic plan are met.
+
+**(d) Reports** The Director shall transmit a report annually to Congress at the time of the President’s budget request describing the plan required under subsection (b)(5). The annual report shall include—
 
 (1) a description of the STEM education programs and activities for the previous and current fiscal years, and the proposed programs and activities under the President’s budget request, of each participating Federal agency;
 
@@ -741,16 +889,41 @@ Section was enacted as part of the America COMPETES Act, also known as the Ameri
 
 (3) an evaluation of the levels of duplication and fragmentation of the programs and activities described under paragraph (1);
 
-(4) except for the initial annual report, a description of the progress made in carrying out the implementation plan, including a description of the outcome of any program assessments completed in the previous year, and any changes made to that plan since the previous annual report; and
+(4) except for the initial annual report, a description of the progress made in carrying out the implementation plan, including a description of the outcome of any program assessments completed in the previous year, and any changes made to that plan since the previous annual report;
 
-(5) a description of how the participating Federal agencies will disseminate information about federally supported resources for STEM education practitioners, including teacher professional development programs, to States and to STEM education practitioners, including to teachers and administrators in schools that meet the criteria described in subsection (c)(1)(A) and (B) of [section 7381j of this title](./chapter-084-department-of-energy.md#section-7381j).
+(5) a description of how the participating Federal agencies will disseminate information about federally supported resources for STEM education practitioners, including teacher professional development programs, to States and to STEM education practitioners, including to teachers and administrators in schools that meet the criteria described in subsection (c)(1)(A) and (B) of [section 7381j of this title](./chapter-084-department-of-energy.md#section-7381j);
+
+(6) a description of all consolidations and terminations of Federal STEM education programs and activities implemented in the previous fiscal year, including an explanation for the consolidations and terminations;
+
+(7) recommendations for reforms, consolidations, and terminations of STEM education programs or activities in the upcoming fiscal year; and
+
+(8) a description of any significant new STEM education public-private partnerships.
 
 ### Statutory Notes
+
+#### References in Text
+Section 303 of the American Innovation and Competitiveness Act, referred to in subsec. (b)(7), is section 303 of Pub. L. 114–329, which is set out as a note under this section.
 
 #### Codification
 Section was enacted as part of the America COMPETES Reauthorization Act of 2010, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
 
+#### Amendments
+2017—Subsec. (b)(7) to (10). Pub. L. 114–329, § 304(a), added pars. (7) to (10).
+
+Subsec. (c). Pub. L. 114–329, § 304(b)(2), redesignated subsec. (b) relating to responsibilities of OSTP as (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 114–329, § 304(b)(1), redesignated subsec. (c) as (d) and substituted “Reports” for “Report” in heading.
+
+Subsec. (d)(6) to (8). Pub. L. 114–329, § 304(b)(3), added pars. (6) to (8).
+
+#### STEM Education Advisory Panel
+Pub. L. 114–329, title III, § 303, Jan. 6, 2017, 130 Stat. 3004, provided that: “(a) Establishment.—Not later than 180 days after the date of enactment this Act [Jan. 6, 2017], the Director of the Foundation, Secretary of Education, Administrator of the National Aeronautics and Space Administration, and Administrator of the National Oceanic and Atmospheric Administration shall jointly establish an advisory panel (referred to in this section as the ‘STEM Education Advisory Panel’) to advise the Committee on STEM Education of the National Science and Technology Council (referred to in this section as ‘CoSTEM’) on matters relating to STEM education. “(b) Members.—“(1) In general.—The STEM Education Advisory Panel shall be composed of not less than 11 members. “(2) Appointment.—“(A) In general.—Subject to subparagraph (B), the Director of the Foundation, in consultation with the Secretary of Education and the heads of the Federal science agencies, shall appoint the members of the STEM Education Advisory Panel. “(B) Consideration.—In selecting individuals to appoint under subparagraph (A), the Director of the Foundation shall seek and give consideration to recommendations from Congress, industry, the scientific community, including the National Academy of Sciences, scientific professional societies, academia, State and local governments, organizations representing individuals identified in section 33 or section 34 of the Science and Engineering Equal Opportunities Act ([42 U.S.C. 1885a](./chapter-016-national-science-foundation.md#section-1885a), 1885b), and such other organizations as the Director considers appropriate. “(C) Qualifications.—Members shall—“(i) primarily be individuals from academic institutions, nonprofit organizations, and industry, including in-school, out-of-school, and informal education practitioners; and “(ii) be individuals who are qualified to provide advice and information on STEM education research, development, training, implementation, interventions, professional development, or workforce needs or concerns. “(c) Responsibilities.—“(1) In general.—The STEM Education Advisory Panel shall—“(A) advise CoSTEM; “(B) periodically assess CoSTEM’s progress in carrying out its responsibilities under section 101(b) of the America COMPETES Reauthorization Act of 2010 ([42 U.S.C. 6621(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6621/b&num=0&edition=prelim)); and “(C) help identify any need or opportunity to update the strategic plan under section 101(b) of that Act. “(2) Considerations.—In its advisory role, the STEM Education Advisory Panel shall consider—“(A) the management, coordination, and implementation of STEM education programs and activities across the Federal Government; “(B) the appropriateness of criteria used by Federal agencies to evaluate the effectiveness of Federal STEM education programs and activities; “(C) whether societal and workforce concerns are adequately addressed by current Federal STEM education programs and activities; “(D) how Federal agencies can incentivize institutions of higher education to improve retention of STEM students; “(E) ways to leverage private and nonprofit STEM investments and encourage public-private partnerships to strengthen STEM education and help build the STEM workforce pipeline; “(F) ways to incorporate workforce needs into Federal STEM education programs and activities, particularly for specific employment fields of national interest and employment fields experiencing high unemployment rates; “(G) ways to better vertically and horizontally integrate Federal STEM education programs and activities from pre-kindergarten through graduate study and the workforce, and from in-school to out-of-school in order to improve transitions for students moving through the STEM education and workforce pipelines; “(H) the extent to which Federal STEM education programs and activities are contributing to recruitment and retention of individuals identified in sections 33 and 34 of the Science and Engineering Equal Opportunities Act ([42 U.S.C. 1885a](./chapter-016-national-science-foundation.md#section-1885a), 1885b) in the STEM education and workforce pipelines; and “(I) ways to encourage geographic diversity in the STEM education and the workforce pipelines. “(3) Recommendations.—The STEM Education Advisory Panel shall make recommendations to improve Federal STEM education programs and activities based on each assessment under paragraph (1)(B). “(d) Funding.—The Director of the Foundation, the Secretary of Education, the Administrator of the National Aeronautics and Space Administration, and the Administrator of the National Oceanic and Atmospheric Administration shall jointly make funds available on an annual basis to support the activities of the STEM Education Advisory Panel. “(e) Reports.—Not later than 1 year after the date of enactment of this Act [Jan. 6, 2017], and after each assessment under subsection (c)(1)(B), the STEM Education Advisory Panel shall submit to the appropriate committees of Congress and CoSTEM a report on its assessment under that subsection and its recommendations under subsection (c)(3). “(f) Travel Expenses of Non-Federal Members.—“(1) In general.—Non-Federal members of the STEM Education Advisory Panel, while attending meetings of the panel or while otherwise serving at the request of a co-chairperson away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim), United States Code, for individuals in the Government serving without pay. “(2) Rule of construction.—Nothing in this subsection shall be construed to prohibit members of the STEM Advisory Panel who are officers or employees of the United States from being allowed travel expenses, including per diem in lieu of subsistence, in accordance with existing law. “(g) Termination.—The STEM Education Advisory Panel established under subsection (a) shall terminate on the date that is 5 years after the date that it is established.”
+
+[For definitions of terms as used in section 303 of Pub. L. 114–329, set out above, see section 2 of Pub. L. 114–329, set out as a note under [section 1862s of this title](./chapter-016-national-science-foundation.md#section-1862s).]
+
 #### Definitions
+Pub. L. 114–59, § 2, Oct. 7, 2015, 129 Stat. 540, provided that: “For purposes of carrying out STEM education activities at the National Science Foundation, the Department of Energy, the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, the National Institute of Standards and Technology, and the Environmental Protection Agency, the term ‘STEM education’ means education in the subjects of science, technology, engineering, and mathematics, including computer science.”
+
 Pub. L. 111–358, § 2, Jan. 4, 2011, 124 Stat. 3984, provided that: “In this Act [see Tables for classification]: “(1) Director.—In title I [enacting this section, sections 6622 to 6624 of this title, and [section 3719 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3719&num=0&edition=prelim), Commerce and Trade, and amending [section 20144 of Title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section20144&num=0&edition=prelim), National and Commercial Space Programs], the term ‘Director’ means the Director of the Office of Science and Technology Policy. “(2) STEM.—The term ‘STEM’ means the academic and professional disciplines of science, technology, engineering, and mathematics.”
 
 
@@ -774,7 +947,7 @@ Pub. L. 111–358, § 2, Jan. 4, 2011, 124 Stat. 3984, provided that: “In this
 
 (7) develop and update a national strategic plan for advanced manufacturing in accordance with subsection (c).
 
-**(c) National Strategic Plan for Advanced Manufacturing**
+**(c) National strategic plan for advanced manufacturing**
 
 (1) **In general** — The President shall submit to Congress, and publish on an Internet website that is accessible to the public, the strategic plan developed under paragraph (2).
 
@@ -926,6 +1099,88 @@ For definition of “Director” as used in this section, see section 2 of Pub. 
 Section was enacted as part of the America COMPETES Reauthorization Act of 2010, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
 
 
+<a id="section-6625"></a>
+## § 6625. Coordination of international science and technology partnerships
+**(a) Short title** This section may be cited as the “International Science and Technology Cooperation Act of 2016”.
+
+**(b) Establishment** The Director of the Office of Science and Technology Policy shall establish a body under the National Science and Technology Council with the responsibility to identify and coordinate international science and technology cooperation that can strengthen the United States science and technology enterprise, improve economic and national security, and support United States foreign policy goals.
+
+**(c) NSTC body leadership** The body established under subsection (b) shall be co-chaired by senior level officials from the Office of Science and Technology Policy and the Department of State.
+
+**(d) Responsibilities** The body established under subsection (b) shall—
+
+(1) plan and coordinate interagency international science and technology cooperative research and training activities and partnerships supported or managed by Federal agencies;
+
+(2) work with other National Science and Technology Council committees to help plan and coordinate the international component of national science and technology priorities;
+
+(3) establish Federal priorities and policies for aligning, as appropriate, international science and technology cooperative research and training activities and partnerships supported or managed by Federal agencies with the foreign policy goals of the United States;
+
+(4) identify opportunities for new international science and technology cooperative research and training partnerships that advance both the science and technology and the foreign policy priorities of the United States;
+
+(5) in carrying out paragraph (4), solicit input and recommendations from non-Federal science and technology stakeholders, including institutions of higher education, scientific and professional societies, industry, and other relevant organizations and institutions; and
+
+(6) identify broad issues that influence the ability of United States scientists and engineers to collaborate with foreign counterparts, including barriers to collaboration and access to scientific information.
+
+**(e) Report to Congress** The Director of the Office of Science and Technology Policy shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Foreign Relations of the Senate and the Committee on Science, Space, and Technology and the Committee on Foreign Affairs of the House of Representatives a biennial report on the requirements of this section.
+
+**(f) Website** The Director shall make each report available to the public on the Office of Science and Technology Policy website.
+
+**(g) Termination** The body established under subsection (b) shall terminate on the date that is 10 years after January 6, 2017.
+
+**(h) Additional reports to Congress** The Director of the Office of Science and Technology Policy shall submit, not later than 60 days after January 6, 2017, and annually thereafter, to the Committee on Commerce, Science, and Transportation and the Committee on Foreign Relations of the Senate and the Committee on Science, Space, and Technology and the Committee on Foreign Affairs of the House of Representatives a report that lists and describes the details of all foreign travel by Office of Science and Technology Policy staff and detailees.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as the International Science and Technology Cooperation Act of 2016 and also as part of the American Innovation and Competitiveness Act, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
+
+#### Definition
+For definition of “institutions of higher education” as used in this section, see section 2 of Pub. L. 114–329, set out as a note under [section 1862s of this title](./chapter-016-national-science-foundation.md#section-1862s).
+
+
+<a id="section-6626"></a>
+## § 6626. Working group on inclusion in STEM fields
+**(a) Establishment** The Office of Science and Technology Policy, in collaboration with Federal departments and agencies, shall establish an interagency working group to compile and summarize available research and best practices on how to promote diversity and inclusions in STEM fields and examine whether barriers exist to promoting diversity and inclusion within Federal agencies employing scientists and engineers.
+
+**(b) Responsibilities** The working group shall be responsible for reviewing and assessing research, best practices, and policies across Federal science agencies related to the inclusion of individuals identified in sections 1885a and 1885b of this title in the Federal STEM workforce, including available research and best practices on how to promote diversity and inclusion in STEM fields, including—
+
+(1) policies providing flexibility for scientists and engineers that are also caregivers, particularly on the timing of research grants;
+
+(2) policies to address the proper handling of claims of sexual harassment;
+
+(3) policies to minimize the effects of implicit bias and other systemic factors in hiring, promotion, evaluation and the workplace in general; and
+
+(4) other evidence-based strategies that the working group considers effective for promoting diversity and inclusion in the STEM fields.
+
+**(c) Stakeholder input** In carrying out the responsibilities under section (b), the working group shall solicit and consider input and recommendations from non-Federal stakeholders, including—
+
+(1) the Council of Advisors on Science and Technology;
+
+(2) federally funded and non-federally funded researchers, institutions of higher education, scientific disciplinary societies, and associations;
+
+(3) nonprofit research institutions;
+
+(4) industry, including small businesses;
+
+(5) federally funded research and development centers;
+
+(6) non-governmental organizations; and
+
+(7) such other members of the public interested in promoting a diverse and inclusive Federal STEM workforce.
+
+**(d) Public reports** Not later than 1 year after January 6, 2017, and periodically thereafter, the working group shall publish a report on the review and assessment under subsection (b), including a summary of available research and best practices, any recommendations for Federal actions to promote a diverse and inclusive Federal STEM workforce, and updates on the implementation of previous recommendations for Federal actions.
+
+**(e) Termination** The interagency working group established under subsection (a) shall terminate on the date that is 10 years after the date that it is established.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the American Innovation and Competitiveness Act, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
+
+#### Definitions
+For definitions of terms used in this section, see section 2 of Pub. L. 114–329, set out as a note under [section 1862s of this title](./chapter-016-national-science-foundation.md#section-1862s).
+
+
 <a id="section-6631"></a>
 ## § 6631. Establishment of Committee
 
@@ -949,7 +1204,7 @@ The President’s Committee on Science and Technology, established pursuant to t
 
 (1) be qualified and distinguished in one or more of the following areas: science, engineering, technology, information dissemination, education, management, labor, or public affairs;
 
-(2) be capable of critically assessing the policies, priorities, programs, and activities of the Nation, with respect to the findings, policies, and purposes set forth in subchapter I of this chapter; and
+(2) be capable of critically assessing the policies, priorities, programs, and activities of the Nation, with respect to the findings, policies, and purposes set forth in subchapter I; and
 
 (3) shall collectively constitute a balanced composition with respect to (A) fields of science and engineering, (B) academic, industrial, and government experience, and (C) business, labor, consumer, and public interest points of view.
 

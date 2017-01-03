@@ -2,19 +2,19 @@
 title: 42
 chapter: '55'
 heading: NATIONAL ENVIRONMENTAL POLICY
-section_count: 42
+section_count: 55
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
 <a id="section-4321"></a>
-## § 4321. Availability of funds for facilities
+## § 4321. Sunset
 
-For fiscal year 2009 and thereafter, the Science and Technology, Environmental Programs and Management, Office of Inspector General, Hazardous Substance Superfund, and Leaking Underground Storage Tank Trust Fund Program Accounts, are available for the construction, alteration, repair, rehabilitation, and renovation of facilities provided that the cost does not exceed $85,000 per project.
+This subchapter shall terminate 7 years after December 4, 2015.
 
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2009, and also as part of the Omnibus Appropriations Act, 2009, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+Section was enacted as part of the Fixing America’s Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
 
 
 <a id="section-4331"></a>
@@ -37,9 +37,11 @@ For assignment of certain emergency preparedness functions to Administrator of E
 Pub. L. 112–237, § 2, Dec. 28, 2012, 126 Stat. 1628, provided that: “(a) Redesignation.—The Environmental Protection Agency Headquarters located at 1200 Pennsylvania Avenue N.W. in Washington, D.C., known as the Ariel Rios Building, shall be known and redesignated as the ‘William Jefferson Clinton Federal Building’. “(b) References.—Any reference in a law, map, regulation, document, paper, or other record of the United States to the Environmental Protection Agency Headquarters referred to in subsection (a) shall be deemed to be a reference to the ‘William Jefferson Clinton Federal Building’.”
 
 #### Modification or Replacement of Executive Order No. 13423
-Pub. L. 111–117, div. C, title VII, § 742(b), Dec. 16, 2009, 123 Stat. 3216, provided that: “Hereafter, the President may modify or replace Executive Order No. 13423 [set out as a note under this section] if the President determines that a revised or new executive order will achieve equal or better environmental or energy efficiency results.”
+Pub. L. 111–117, div. C, title VII, § 742(b), Dec. 16, 2009, 123 Stat. 3216, provided that: “Hereafter, the President may modify or replace Executive Order No. 13423 [formerly set out below] if the President determines that a revised or new executive order will achieve equal or better environmental or energy efficiency results.”
 
-Pub. L. 111–8, div. D, title VII, § 748, Mar. 11, 2009, 123 Stat. 693, which provided that Ex. Ord. No. 13423 (set out as a note under this section) would remain in effect on and after Mar. 11, 2009, except as otherwise provided by law after Mar. 11, 2009, was repealed by Pub. L. 111–117, div. C, title VII, § 742(a), Dec. 16, 2009, 123 Stat. 3216.
+[Pursuant to section 742(b) of Pub. L. 111–117, set out above, Ex. Ord. No. 13423 was replaced by Ex. Ord. No. 13693, Mar. 19, 2015, 80 F.R. 15871, set out below.]
+
+Pub. L. 111–8, div. D, title VII, § 748, Mar. 11, 2009, 123 Stat. 693, which provided that Ex. Ord. No. 13423 (formerly set out below) would remain in effect on and after Mar. 11, 2009, except as otherwise provided by law after Mar. 11, 2009, was repealed by Pub. L. 111–117, div. C, title VII, § 742(a), Dec. 16, 2009, 123 Stat. 3216.
 
 #### Necessity of Military Low-Level Flight Training To Protect National Security and Enhance Military Readiness
 Pub. L. 106–398, § 1 [[div. A], title III, § 317], Oct. 30, 2000, 114 Stat. 1654, 1654A–57, provided that: “Nothing in the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](./chapter-055-national-environmental-policy.md#section-4321) et seq.) or the regulations implementing such law shall require the Secretary of Defense or the Secretary of a military department to prepare a programmatic, nation-wide environmental impact statement for low-level flight training as a precondition to the use by the Armed Forces of an airspace for the performance of low-level training flights.”
@@ -1356,475 +1358,26 @@ Sec. 6. Judicial Review and Administration. (a) This order is intended only to i
 
 (d) The requirements of section 2(a)(3) of this order shall not apply to any action of the Department of State or Department of Defense if the Secretary of State or the Secretary of Defense finds that exemption from such requirements is necessary for foreign policy or national security reasons.
 
+#### Extension of Term of Invasive Species Advisory Committee
+Term of Invasive Species Advisory Committee extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
 #### Executive Order No. 13148
-Ex. Ord. No. 13148, Apr. 21, 2000, 65 F.R. 24595, which directed Federal agencies to establish strategies that supported environmental leadership programs, policies, and procedures and to implement environmental compliance audit programs and policies that emphasized pollution prevention, was revoked by Ex. Ord. No. 13423, § 11(a)(iv), Jan. 24, 2007, 72 F.R. 3923, set out below.
+Ex. Ord. No. 13148, Apr. 21, 2000, 65 F.R. 24595, which directed Federal agencies to establish strategies that supported environmental leadership programs, policies, and procedures and to implement environmental compliance audit programs and policies that emphasized pollution prevention, was revoked by Ex. Ord. No. 13423, § 11(a)(iv), Jan. 24, 2007, 72 F.R. 3923, formerly set out below.
 
-#### Ex. Ord. No. 13423. Strengthening Federal Environmental, Energy, and Transportation Management
-Ex. Ord. No. 13423, Jan. 24, 2007, 72 F.R. 3919, provided:
+#### Executive Order No. 13423
+Ex. Ord. No. 13423, Jan. 24, 2007, 72 F.R. 3919, which set out various goals and duties for Federal Agencies to conduct their environmental, transportation, and energy-related activities under the law in support of their respective missions in an environmentally, economically and fiscally sound, integrated, continuously improving, efficient, and sustainable manner, was revoked by Ex. Ord. No. 13693, § 16(a), Mar. 19, 2015, 80 F.R. 15880, set out below.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and to strengthen the environmental, energy, and transportation management of Federal agencies, it is hereby ordered as follows:
-
-Section 1. Policy. It is the policy of the United States that Federal agencies conduct their environmental, transportation, and energy-related activities under the law in support of their respective missions in an environmentally, economically and fiscally sound, integrated, continuously improving, efficient, and sustainable manner.
-
-Sec. 2. Goals for Agencies. In implementing the policy set forth in section 1 of this order, the head of each agency shall:
-
-(a) improve energy efficiency and reduce greenhouse gas emissions of the agency, through reduction of energy intensity by (i) 3 percent annually through the end of fiscal year 2015, or (ii) 30 percent by the end of fiscal year 2015, relative to the baseline of the agency’s energy use in fiscal year 2003;
-
-(b) ensure that (i) at least half of the statutorily required renewable energy consumed by the agency in a fiscal year comes from new renewable sources, and (ii) to the extent feasible, the agency implements renewable energy generation projects on agency property for agency use;
-
-(c) beginning in FY 2008, reduce water consumption intensity, relative to the baseline of the agency’s water consumption in fiscal year 2007, through life-cycle cost-effective measures by 2 percent annually through the end of fiscal year 2015 or 16 percent by the end of fiscal year 2015;
-
-(d) require in agency acquisitions of goods and services (i) use of sustainable environmental practices, including acquisition of biobased, environmentally preferable, energy-efficient, water-efficient, and recycled-content products, and (ii) use of paper of at least 30 percent post-consumer fiber content;
-
-(e) ensure that the agency (i) reduces the quantity of toxic and hazardous chemicals and materials acquired, used, or disposed of by the agency, (ii) increases diversion of solid waste as appropriate, and (iii) maintains cost-effective waste prevention and recycling programs in its facilities;
-
-(f) ensure that (i) new construction and major renovation of agency buildings comply with the Guiding Principles for Federal Leadership in High Performance and Sustainable Buildings set forth in the Federal Leadership in High Performance and Sustainable Buildings Memorandum of Understanding (2006), and (ii) 15 percent of the existing Federal capital asset building inventory of the agency as of the end of fiscal year 2015 incorporates the sustainable practices in the Guiding Principles;
-
-(g) ensure that, if the agency operates a fleet of at least 20 motor vehicles, the agency, relative to agency baselines for fiscal year 2005, (i) reduces the fleet’s total consumption of petroleum products by 2 percent annually through the end of fiscal year 2015, (ii) increases the total fuel consumption that is non-petroleum-based by 10 percent annually, and (iii) uses plug-in hybrid (PIH) vehicles when PIH vehicles are commercially available at a cost reasonably comparable, on the basis of life-cycle cost, to non-PIH vehicles; and
-
-(h) ensure that the agency (i) when acquiring an electronic product to meet its requirements, meets at least 95 percent of those requirements with an Electronic Product Environmental Assessment Tool (EPEAT)-registered electronic product, unless there is no EPEAT standard for such product, (ii) enables the Energy Star feature on agency computers and monitors, (iii) establishes and implements policies to extend the useful life of agency electronic equipment, and (iv) uses environmentally sound practices with respect to disposition of agency electronic equipment that has reached the end of its useful life.
-
-Sec. 3. Duties of Heads of Agencies. In implementing the policy set forth in section 1 of this order, the head of each agency shall:
-
-(a) implement within the agency sustainable practices for (i) energy efficiency, greenhouse gas emissions avoidance or reduction, and petroleum products use reduction, (ii) renewable energy, including bioenergy, (iii) water conservation, (iv) acquisition, (v) pollution and waste prevention and recycling, (vi) reduction or elimination of acquisition and use of toxic or hazardous chemicals, (vii) high performance construction, lease, operation, and maintenance of buildings, (viii) vehicle fleet management, and (ix) electronic equipment management;
-
-(b) implement within the agency environmental management systems (EMS) at all appropriate organizational levels to ensure (i) use of EMS as the primary management approach for addressing environmental aspects of internal agency operations and activities, including environmental aspects of energy and transportation functions, (ii) establishment of agency objectives and targets to ensure implementation of this order, and (iii) collection, analysis, and reporting of information to measure performance in the implementation of this order;
-
-(c) establish within the agency programs for (i) environmental management training, (ii) environmental compliance review and audit, and (iii) leadership awards to recognize outstanding environmental, energy, or transportation management performance in the agency;
-
-(d) within 30 days after the date of this order (i) designate a senior civilian officer of the United States, compensated annually in an amount at or above the amount payable at level IV of the Executive Schedule, to be responsible for implementation of this order within the agency, (ii) report such designation to the Director of the Office of Management and Budget and the Chairman of the Council on Environmental Quality, and (iii) assign the designated official the authority and duty to (A) monitor and report to the head of the agency on agency activities to carry out subsections (a) and (b) of this section, and (B) perform such other duties relating to the implementation of this order within the agency as the head of the agency deems appropriate;
-
-(e) ensure that contracts entered into after the date of this order for contractor operation of government-owned facilities or vehicles require the contractor to comply with the provisions of this order with respect to such facilities or vehicles to the same extent as the agency would be required to comply if the agency operated the facilities or vehicles;
-
-(f) ensure that agreements, permits, leases, licenses, or other legally-binding obligations between the agency and a tenant or concessionaire entered into after the date of this order require, to the extent the head of the agency determines appropriate, that the tenant or concessionaire take actions relating to matters within the scope of the contract that facilitate the agency’s compliance with this order;
-
-(g) provide reports on agency implementation of this order to the Chairman of the Council on such schedule and in such format as the Chairman of the Council may require; and
-
-(h) provide information and assistance to the Director of the Office of Management and Budget, the Chairman of the Council, and the Federal Environmental Executive.
-
-Sec. 4. Additional Duties of the Chairman of the Council on Environmental Quality. In implementing the policy set forth in section 1 of this order, the Chairman of the Council on Environmental Quality:
-
-(a)(i) shall establish a Steering Committee on Strengthening Federal Environmental, Energy, and Transportation Management to advise the Director of the Office of Management and Budget and the Chairman of the Council on the performance of their functions under this order that shall consist exclusively of (A) the Federal Environmental Executive, who shall chair, convene and preside at meetings of, determine the agenda of, and direct the work of, the Steering Committee, and (B) the senior officials designated under section 3(d)(i) of this order, and (ii) may establish subcommittees of the Steering Committee, to assist the Steering Committee in developing the advice of the Steering Committee on particular subjects;
-
-(b) may, after consultation with the Director of the Office of Management and Budget and the Steering Committee, issue instructions to implement this order, other than instructions within the authority of the Director to issue under section 5 of this order; and
-
-(c) shall administer a presidential leadership award program to recognize exceptional and outstanding environmental, energy, or transportation management performance and excellence in agency efforts to implement this order.
-
-Sec. 5. Duties of the Director of the Office of Management and Budget. In implementing the policy set forth in section 1 of this order, the Director of the Office of Management and Budget shall, after consultation with the Chairman of the Council and the Steering Committee, issue instructions to the heads of agencies concerning:
-
-(a) periodic evaluation of agency implementation of this order;
-
-(b) budget and appropriations matters relating to implementation of this order;
-
-(c) implementation of section 2(d) of this order; and
-
-(d) amendments of the Federal Acquisition Regulation as necessary to implement this order.
-
-Sec. 6. Duties of the Federal Environmental Executive. A Federal Environmental Executive designated by the President shall head the Office of the Federal Environmental Executive, which shall be maintained in the Environmental Protection Agency for funding and administrative purposes. In implementing the policy set forth in section 1 of this order, the Federal Environmental Executive shall:
-
-(a) monitor, and advise the Chairman of the Council on, performance by agencies of functions assigned by sections 2 and 3 of this order;
-
-(b) submit a report to the President, through the Chairman of the Council, not less often than once every 2 years, on the activities of agencies to implement this order; and
-
-(c) advise the Chairman of the Council on the Chairman’s exercise of authority granted by subsection 4(c) of this order.
-
-Sec. 7. Limitations. (a) This order shall apply to an agency with respect to the activities, personnel, resources, and facilities of the agency that are located within the United States. The head of an agency may provide that this order shall apply in whole or in part with respect to the activities, personnel, resources, and facilities of the agency that are not located within the United States, if the head of the agency determines that such application is in the interest of the United States.
-
-(b) The head of an agency shall manage activities, personnel, resources, and facilities of the agency that are not located within the United States, and with respect to which the head of the agency has not made a determination under subsection (a) of this section, in a manner consistent with the policy set forth in section 1 of this order to the extent the head of the agency determines practicable.
-
-Sec. 8. Exemption Authority. (a) The Director of National Intelligence may exempt an intelligence activity of the United States, and related personnel, resources, and facilities, from the provisions of this order, other than this subsection and section 10, to the extent the Director determines necessary to protect intelligence sources and methods from unauthorized disclosure.
-
-(b) The head of an agency may exempt law enforcement activities of that agency, and related personnel, resources, and facilities, from the provisions of this order, other than this subsection and section 10, to the extent the head of an agency determines necessary to protect undercover operations from unauthorized disclosure.
-
-(c)(i) The head of an agency may exempt law enforcement, protective, emergency response, or military tactical vehicle fleets of that agency from the provisions of this order, other than this subsection and section 10.
-
-(ii) Heads of agencies shall manage fleets to which paragraph (i) of this subsection refers in a manner consistent with the policy set forth in section 1 of this order to the extent they determine practicable.
-
-(d) The head of an agency may submit to the President, through the Chairman of the Council, a request for an exemption of an agency activity, and related personnel, resources, and facilities, from this order.
-
-Sec. 9. Definitions. As used in this order:
-
-(a) “agency” means an executive agency as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim), United States Code, excluding the Government Accountability Office;
-
-(b) “Chairman of the Council” means the Chairman of the Council on Environmental Quality, including in the Chairman’s capacity as Director of the Office of Environmental Quality;
-
-(c) “Council” means the Council on Environmental Quality;
-
-(d) “environmental” means environmental aspects of internal agency operations and activities, including those environmental aspects related to energy and transportation functions;
-
-(e) “greenhouse gases” means carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, and sulfur hexafluoride;
-
-(f) “life-cycle cost-effective” means the life-cycle costs of a product, project, or measure are estimated to be equal to or less than the base case (i.e., current or standard practice or product);
-
-(g) “new renewable sources” means sources of renewable energy placed into service after January 1, 1999;
-
-(h) “renewable energy” means energy produced by solar, wind, biomass, landfill gas, ocean (including tidal, wave, current and thermal), geothermal, municipal solid waste, or new hydroelectric generation capacity achieved from increased efficiency or additions of new capacity at an existing hydroelectric project;
-
-(i) “energy intensity” means energy consumption per square foot of building space, including industrial or laboratory facilities;
-
-(j) “Steering Committee” means the Steering Committee on Strengthening Federal Environmental, Energy, and Transportation Management established under subsection 4(b) of this order;
-
-(k) “sustainable” means to create and maintain conditions, under which humans and nature can exist in productive harmony, that permit fulfilling the social, economic, and other requirements of present and future generations of Americans; and
-
-(l) “United States” when used in a geographical sense, means the fifty states, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Northern Mariana Islands, and associated territorial waters and airspace.
-
-Sec. 10. General Provisions. (a) This order shall be implemented in a manner consistent with applicable law and subject to the availability of appropriations.
-
-(b) Nothing in this order shall be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
-
-(c) This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities, entities, officers, employees or agents, or any other person.
-
-Sec. 11. Revocations; Conforming Provisions. (a) The following are revoked:
-
-(i) Executive Order 13101 of September 14, 1998;
-
-(ii) Executive Order 13123 of June 3, 1999;
-
-(iii) Executive Order 13134 of August 12, 1999, as amended;
-
-(iv) Executive Order 13148 of April 21, 2000; and
-
-(v) Executive Order 13149 of April 21, 2000.
-
-(b) In light of subsection 317(e) of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107), not later than January 1 of each year through and including 2010, the Secretary of Defense shall submit to the Senate and the House of Representatives a report regarding progress made toward achieving the energy efficiency goals of the Department of Defense.
-
-(c) [Amended Ex. Ord. No. 13327, set out as a note under [section 121 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section121&num=0&edition=prelim), Public Buildings, Property, and Works.]
-
-#### Ex. Ord. No. 13514. Federal Leadership in Environmental, Energy, and Economic Performance
-Ex. Ord. No. 13514, Oct. 5, 2009, 74 F.R. 52117, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and to establish an integrated strategy towards sustainability in the Federal Government and to make reduction of greenhouse gas emissions a priority for Federal agencies, it is hereby ordered as follows:
-
-Section 1. Policy. In order to create a clean energy economy that will increase our Nation’s prosperity, promote energy security, protect the interests of taxpayers, and safeguard the health of our environment, the Federal Government must lead by example. It is therefore the policy of the United States that Federal agencies shall increase energy efficiency; measure, report, and reduce their greenhouse gas emissions from direct and indirect activities; conserve and protect water resources through efficiency, reuse, and stormwater management; eliminate waste, recycle, and prevent pollution; leverage agency acquisitions to foster markets for sustainable technologies and environmentally preferable materials, products, and services; design, construct, maintain, and operate high performance sustainable buildings in sustainable locations; strengthen the vitality and livability of the communities in which Federal facilities are located; and inform Federal employees about and involve them in the achievement of these goals.
-
-It is further the policy of the United States that to achieve these goals and support their respective missions, agencies shall prioritize actions based on a full accounting of both economic and social benefits and costs and shall drive continuous improvement by annually evaluating performance, extending or expanding projects that have net benefits, and reassessing or discontinuing under-performing projects.
-
-Finally, it is also the policy of the United States that agencies’ efforts and outcomes in implementing this order shall be transparent and that agencies shall therefore disclose results associated with the actions taken pursuant to this order on publicly available Federal websites.
-
-Sec. 2. Goals for Agencies. In implementing the policy set forth in section 1 of this order, and preparing and implementing the Strategic Sustainability Performance Plan called for in section 8 of this order, the head of each agency shall:
-
-(a) within 90 days of the date of this order, establish and report to the Chair of the Council on Environmental Quality (CEQ Chair) and the Director of the Office of Management and Budget (OMB Director) a percentage reduction target for agency-wide reductions of scope 1 and 2 greenhouse gas emissions in absolute terms by fiscal year 2020, relative to a fiscal year 2008 baseline of the agency’s scope 1 and 2 greenhouse gas emissions. Where appropriate, the target shall exclude direct emissions from excluded vehicles and equipment and from electric power produced and sold commercially to other parties in the course of regular business. This target shall be subject to review and approval by the CEQ Chair in consultation with the OMB Director under section 5 of this order. In establishing the target, the agency head shall consider reductions associated with:
-
-(i) reducing energy intensity in agency buildings;
-
-(ii) increasing agency use of renewable energy and implementing renewable energy generation projects on agency property; and
-
-(iii) reducing the use of fossil fuels by:
-
-(A) using low greenhouse gas emitting vehicles including alternative fuel vehicles;
-
-(B) optimizing the number of vehicles in the agency fleet; and
-
-(C) reducing, if the agency operates a fleet of at least 20 motor vehicles, the agency fleet’s total consumption of petroleum products by a minimum of 2 percent annually through the end of fiscal year 2020, relative to a baseline of fiscal year 2005;
-
-(b) within 240 days of the date of this order and concurrent with submission of the Strategic Sustainability Performance Plan as described in section 8 of this order, establish and report to the CEQ Chair and the OMB Director a percentage reduction target for reducing agency-wide scope 3 greenhouse gas emissions in absolute terms by fiscal year 2020, relative to a fiscal year 2008 baseline of agency scope 3 emissions. This target shall be subject to review and approval by the CEQ Chair in consultation with the OMB Director under section 5 of this order. In establishing the target, the agency head shall consider reductions associated with:
-
-(i) pursuing opportunities with vendors and contractors to address and incorporate incentives to reduce greenhouse gas emissions (such as changes to manufacturing, utility or delivery services, modes of transportation used, or other changes in supply chain activities);
-
-(ii) implementing strategies and accommodations for transit, travel, training, and conferencing that actively support lower-carbon commuting and travel by agency staff;
-
-(iii) greenhouse gas emission reductions associated with pursuing other relevant goals in this section; and
-
-(iv) developing and implementing innovative policies and practices to address scope 3 greenhouse gas emissions unique to agency operations;
-
-(c) establish and report to the CEQ Chair and OMB Director a comprehensive inventory of absolute greenhouse gas emissions, including scope 1, scope 2, and specified scope 3 emissions (i) within 15 months of the date of this order for fiscal year 2010, and (ii) thereafter, annually at the end of January, for the preceding fiscal year.
-
-(d) improve water use efficiency and management by:
-
-(i) reducing potable water consumption intensity by 2 percent annually through fiscal year 2020, or 26 percent by the end of fiscal year 2020, relative to a baseline of the agency’s water consumption in fiscal year 2007, by implementing water management strategies including water-efficient and low-flow fixtures and efficient cooling towers;
-
-(ii) reducing agency industrial, landscaping, and agricultural water consumption by 2 percent annually or 20 percent by the end of fiscal year 2020 relative to a baseline of the agency’s industrial, landscaping, and agricultural water consumption in fiscal year 2010;
-
-(iii) consistent with State law, identifying, promoting, and implementing water reuse strategies that reduce potable water consumption; and
-
-(iv) implementing and achieving the objectives identified in the stormwater management guidance referenced in section 14 of this order;
-
-(e) promote pollution prevention and eliminate waste by:
-
-(i) minimizing the generation of waste and pollutants through source reduction;
-
-(ii) diverting at least 50 percent of non-hazardous solid waste, excluding construction and demolition debris, by the end of fiscal year 2015;
-
-(iii) diverting at least 50 percent of construction and demolition materials and debris by the end of fiscal year 2015;
-
-(iv) reducing printing paper use and acquiring uncoated printing and writing paper containing at least 30 percent postconsumer fiber;
-
-(v) reducing and minimizing the quantity of toxic and hazardous chemicals and materials acquired, used, or disposed of;
-
-(vi) increasing diversion of compostable and organic material from the waste stream;
-
-(vii) implementing integrated pest management and other appropriate landscape management practices;
-
-(viii) increasing agency use of acceptable alternative chemicals and processes in keeping with the agency’s procurement policies;
-
-(ix) decreasing agency use of chemicals where such decrease will assist the agency in achieving greenhouse gas emission reduction targets under section 2(a) and (b) of this order; and
-
-(x) reporting in accordance with the requirements of sections 301 through 313 of the Emergency Planning and Community Right-to-Know Act of 1986 ([42 U.S.C. 11001](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11001) et seq.);
-
-(f) advance regional and local integrated planning by:
-
-(i) participating in regional transportation planning and recognizing existing community transportation infrastructure;
-
-(ii) aligning Federal policies to increase the effectiveness of local planning for energy choices such as locally generated renewable energy;
-
-(iii) ensuring that planning for new Federal facilities or new leases includes consideration of sites that are pedestrian friendly, near existing employment centers, and accessible to public transit, and emphasizes existing central cities and, in rural communities, existing or planned town centers;
-
-(iv) identifying and analyzing impacts from energy usage and alternative energy sources in all Environmental Impact Statements and Environmental Assessments for proposals for new or expanded Federal facilities under the National Environmental Policy Act of 1969, as amended ([42 U.S.C. 4321](./chapter-055-national-environmental-policy.md#section-4321) et seq.); and
-
-(v) coordinating with regional programs for Federal, State, tribal, and local ecosystem, watershed, and environmental management;
-
-(g) implement high performance sustainable Federal building design, construction, operation and management, maintenance, and deconstruction including by:
-
-(i) beginning in 2020 and thereafter, ensuring that all new Federal buildings that enter the planning process are designed to achieve zero-net-energy by 2030;
-
-(ii) ensuring that all new construction, major renovation, or repair and alteration of Federal buildings complies with the Guiding Principles for Federal Leadership in High Performance and Sustainable Buildings, (Guiding Principles);
-
-(iii) ensuring that at least 15 percent of the agency’s existing buildings (above 5,000 gross square feet) and building leases (above 5,000 gross square feet) meet the Guiding Principles by fiscal year 2015 and that the agency makes annual progress toward 100-percent conformance with the Guiding Principles for its building inventory;
-
-(iv) pursuing cost-effective, innovative strategies, such as highly reflective and vegetated roofs, to minimize consumption of energy, water, and materials;
-
-(v) managing existing building systems to reduce the consumption of energy, water, and materials, and identifying alternatives to renovation that reduce existing assets’ deferred maintenance costs;
-
-(vi) when adding assets to the agency’s real property inventory, identifying opportunities to consolidate and dispose of existing assets, optimize the performance of the agency’s real-property portfolio, and reduce associated environmental impacts; and
-
-(vii) ensuring that rehabilitation of federally owned historic buildings utilizes best practices and technologies in retrofitting to promote long-term viability of the buildings;
-
-(h) advance sustainable acquisition to ensure that 95 percent of new contract actions including task and delivery orders, for products and services with the exception of acquisition of weapon systems, are energy-efficient (Energy Star or Federal Energy Management Program (FEMP) designated), water-efficient, biobased, environmentally preferable (e.g., Electronic Product Environmental Assessment Tool (EPEAT) certified), non-ozone depleting, contain recycled content, or are non-toxic or less-toxic alternatives, where such products and services meet agency performance requirements;
-
-(i) promote electronics stewardship, in particular by:
-
-(i) ensuring procurement preference for EPEAT-registered electronic products;
-
-(ii) establishing and implementing policies to enable power management, duplex printing, and other energy-efficient or environmentally preferable features on all eligible agency electronic products;
-
-(iii) employing environmentally sound practices with respect to the agency’s disposition of all agency excess or surplus electronic products;
-
-(iv) ensuring the procurement of Energy Star and FEMP designated electronic equipment;
-
-(v) implementing best management practices for energy-efficient management of servers and Federal data centers; and
-
-(j) sustain environmental management, including by:
-
-(i) continuing implementation of formal environmental management systems at all appropriate organizational levels; and
-
-(ii) ensuring these formal systems are appropriately implemented and maintained to achieve the performance necessary to meet the goals of this order.
-
-Sec. 3. Steering Committee on Federal Sustainability. The OMB Director and the CEQ Chair shall:
-
-(a) establish an interagency Steering Committee (Steering Committee) on Federal Sustainability composed of the Federal Environmental Executive, designated under section 6 of Executive Order 13423 of January 24, 2007, and Agency Senior Sustainability Officers, designated under section 7 of this order, and that shall:
-
-(i) serve in the dual capacity of the Steering Committee on Strengthening Federal Environmental, Energy, and Transportation Management designated by the CEQ Chair pursuant to section 4 of Executive Order 13423;
-
-(ii) advise the OMB Director and the CEQ Chair on implementation of this order;
-
-(iii) facilitate the implementation of each agency’s Strategic Sustainability Performance Plan; and
-
-(iv) share information and promote progress towards the goals of this order;
-
-(b) enlist the support of other organizations within the Federal Government to assist the Steering Committee in addressing the goals of this order;
-
-(c) establish and disband, as appropriate, interagency subcommittees of the Steering Committee, to assist the Steering Committee in carrying out its responsibilities;
-
-(d) determine appropriate Federal actions to achieve the policy of section 1 and the goals of section 2 of this order;
-
-(e) ensure that Federal agencies are held accountable for conformance with the requirements of this order; and
-
-(f) in coordination with the Department of Energy’s Federal Energy Management Program and the Office of the Federal Environmental Executive designated under section 6 of Executive Order 13423, provide guidance and assistance to facilitate the development of agency targets for greenhouse gas emission reductions required under subsections 2(a) and (b) of this order.
-
-Sec. 4. Additional Duties of the Director of the Office of Management and Budget. In addition to the duties of the OMB Director specified elsewhere in this order, the OMB Director shall:
-
-(a) review and approve each agency’s multi-year Strategic Sustainability Performance Plan under section 8 of this order and each update of the Plan. The Director shall, where feasible, review each agency’s Plan concurrently with OMB’s review and evaluation of the agency’s budget request;
-
-(b) prepare scorecards providing periodic evaluation of Federal agency performance in implementing this order and publish scorecard results on a publicly available website; and
-
-(c) approve and issue instructions to the heads of agencies concerning budget and appropriations matters relating to implementation of this order.
-
-Sec. 5. Additional Duties of the Chair of the Council on Environmental Quality. In addition to the duties of the CEQ Chair specified elsewhere in this order, the CEQ Chair shall:
-
-(a) issue guidance for greenhouse gas accounting and reporting required under section 2 of this order;
-
-(b) issue instructions to implement this order, in addition to instructions within the authority of the OMB Director to issue under subsection 4(c) of this order;
-
-(c) review and approve each agency’s targets, in consultation with the OMB Director, for agency-wide reductions of greenhouse gas emissions under section 2 of this order;
-
-(d) prepare, in coordination with the OMB Director, streamlined reporting metrics to determine each agency’s progress under section 2 of this order;
-
-(e) review and evaluate each agency’s multi-year Strategic Sustainability Performance Plan under section 8 of this order and each update of the Plan;
-
-(f) assess agency progress toward achieving the goals and policies of this order, and provide its assessment of the agency’s progress to the OMB Director;
-
-(g) within 120 days of the date of this order, provide the President with an aggregate Federal Government-wide target for reducing scope 1 and 2 greenhouse gas emissions in absolute terms by fiscal year 2020 relative to a fiscal year 2008 baseline;
-
-(h) within 270 days of the date of this order, provide the President with an aggregate Federal Government-wide target for reducing scope 3 greenhouse gas emissions in absolute terms by fiscal year 2020 relative to a fiscal year 2008 baseline;
-
-(i) establish and disband, as appropriate, interagency working groups to provide recommendations to the CEQ for areas of Federal agency operational and managerial improvement associated with the goals of this order; and
-
-(j) administer the Presidential leadership awards program, established under subsection 4(c) of Executive Order 13423, to recognize exceptional and outstanding agency performance with respect to achieving the goals of this order and to recognize extraordinary innovation, technologies, and practices employed to achieve the goals of this order.
-
-Sec. 6. Duties of the Federal Environmental Executive. The Federal Environmental Executive designated by the President to head the Office of the Federal Environmental Executive, pursuant to section 6 of Executive Order 13423, shall:
-
-(a) identify strategies and tools to assist Federal implementation efforts under this order, including through the sharing of best practices from successful Federal sustainability efforts; and
-
-(b) monitor and advise the CEQ Chair and the OMB Director on the agencies’ implementation of this order and their progress in achieving the order’s policies and goals.
-
-Sec. 7. Agency Senior Sustainability Officers. (a) Within 30 days of the date of this order, the head of each agency shall designate from among the agency’s senior management officials a Senior Sustainability Officer who shall be accountable for agency conformance with the requirements of this order; and shall report such designation to the OMB Director and the CEQ Chair.
-
-(b) The Senior Sustainability Officer for each agency shall perform the functions of the senior agency official designated by the head of each agency pursuant to section 3(d)(i) of Executive Order 13423 and shall be responsible for:
-
-(i) preparing the targets for agency-wide reductions and the inventory of greenhouse gas emissions required under subsections 2(a), (b), and (c) of this order;
-
-(ii) within 240 days of the date of this order, and annually thereafter, preparing and submitting to the CEQ Chair and the OMB Director, for their review and approval, a multi-year Strategic Sustainability Performance Plan (Sustainability Plan or Plan) as described in section 8 of this order;
-
-(iii) preparing and implementing the approved Plan in coordination with appropriate offices and organizations within the agency including the General Counsel, Chief Information Officer, Chief Acquisition Officer, Chief Financial Officer, and Senior Real Property Officers, and in coordination with other agency plans, policies, and activities;
-
-(iv) monitoring the agency’s performance and progress in implementing the Plan, and reporting the performance and progress to the CEQ Chair and the OMB Director, on such schedule and in such format as the Chair and the Director may require; and
-
-(v) reporting annually to the head of the agency on the adequacy and effectiveness of the agency’s Plan in implementing this order.
-
-Sec. 8. Agency Strategic Sustainability Performance Plan. Each agency shall develop, implement, and annually update an integrated Strategic Sustainability Performance Plan that will prioritize agency actions based on lifecycle return on investment. Each agency Plan and update shall be subject to approval by the OMB Director under section 4 of this order. With respect to the period beginning in fiscal year 2011 and continuing through the end of fiscal year 2021, each agency Plan shall:
-
-(a) include a policy statement committing the agency to compliance with environmental and energy statutes, regulations, and Executive Orders;
-
-(b) achieve the sustainability goals and targets, including greenhouse gas reduction targets, established under section 2 of this order;
-
-(c) be integrated into the agency’s strategic planning and budget process, including the agency’s strategic plan under section 3 of the Government Performance and Results Act of 1993, as amended ([5 U.S.C. 306](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim));
-
-(d) identify agency activities, policies, plans, procedures, and practices that are relevant to the agency’s implementation of this order, and where necessary, provide for development and implementation of new or revised policies, plans, procedures, and practices;
-
-(e) identify specific agency goals, a schedule, milestones, and approaches for achieving results, and quantifiable metrics for agency implementation of this order;
-
-(f) take into consideration environmental measures as well as economic and social benefits and costs in evaluating projects and activities based on lifecycle return on investment;
-
-(g) outline planned actions to provide information about agency progress and performance with respect to achieving the goals of this order on a publicly available Federal website;
-
-(h) incorporate actions for achieving progress metrics identified by the OMB Director and the CEQ Chair;
-
-(i) evaluate agency climate-change risks and vulnerabilities to manage the effects of climate change on the agency’s operations and mission in both the short and long term; and
-
-(j) identify in annual updates opportunities for improvement and evaluation of past performance in order to extend or expand projects that have net lifecycle benefits, and reassess or discontinue under-performing projects.
-
-Sec. 9. Recommendations for Greenhouse Gas Accounting and Reporting. The Department of Energy, through its Federal Energy Management Program, and in coordination with the Environmental Protection Agency, the Department of Defense, the General Services Administration, the Department of the Interior, the Department of Commerce, and other agencies as appropriate, shall:
-
-(a) within 180 days of the date of this order develop and provide to the CEQ Chair recommended Federal greenhouse gas reporting and accounting procedures for agencies to use in carrying out their obligations under subsections 2(a), (b), and (c) of this order, including procedures that will ensure that agencies:
-
-(i) accurately and consistently quantify and account for greenhouse gas emissions from all scope 1, 2, and 3 sources, using accepted greenhouse gas accounting and reporting principles, and identify appropriate opportunities to revise the fiscal year 2008 baseline to address significant changes in factors affecting agency emissions such as reorganization and improvements in accuracy of data collection and estimation procedures or other major changes that would otherwise render the initial baseline information unsuitable;
-
-(ii) consider past Federal agency efforts to reduce greenhouse gas emissions; and
-
-(iii) consider and account for sequestration and emissions of greenhouse gases resulting from Federal land management practices;
-
-(b) within 1 year of the date of this order, to ensure consistent and accurate reporting under this section, provide electronic accounting and reporting capability for the Federal greenhouse gas reporting procedures developed under subsection (a) of this section, and to the extent practicable, ensure compatibility between this capability and existing Federal agency reporting systems; and
-
-(c) every 3 years from the date of the CEQ Chair’s issuance of the initial version of the reporting guidance, and as otherwise necessary, develop and provide recommendations to the CEQ Chair for revised Federal greenhouse gas reporting procedures for agencies to use in implementing subsections 2(a), (b), and (c) of this order.
-
-Sec. 10. Recommendations for Sustainable Locations for Federal Facilities. Within 180 days of the date of this order, the Department of Transportation, in accordance with its Sustainable Partnership Agreement with the Department of Housing and Urban Development and the Environmental Protection Agency, and in coordination with the General Services Administration, the Department of Homeland Security, the Department of Defense, and other agencies as appropriate, shall:
-
-(a) review existing policies and practices associated with site selection for Federal facilities; and
-
-(b) provide recommendations to the CEQ Chair regarding sustainable location strategies for consideration in Sustainability Plans. The recommendations shall be consistent with principles of sustainable development including prioritizing central business district and rural town center locations, prioritizing sites well served by transit, including site design elements that ensure safe and convenient pedestrian access, consideration of transit access and proximity to housing affordable to a wide range of Federal employees, adaptive reuse or renovation of buildings, avoidance of development of sensitive land resources, and evaluation of parking management strategies.
-
-Sec. 11. Recommendations for Federal Local Transportation Logistics. Within 180 days of the date of this order, the General Services Administration, in coordination with the Department of Transportation, the Department of the Treasury, the Department of Energy, the Office of Personnel Management, and other agencies as appropriate, shall review current policies and practices associated with use of public transportation by Federal personnel, Federal shuttle bus and vehicle transportation routes supported by multiple Federal agencies, and use of alternative fuel vehicles in Federal shuttle bus fleets, and shall provide recommendations to the CEQ Chair on how these policies and practices could be revised to support the implementation of this order and the achievement of its policies and goals.
-
-Sec. 12. Guidance for Federal Fleet Management. Within 180 days of the date of this order, the Department of Energy, in coordination with the General Services Administration, shall issue guidance on Federal fleet management that addresses the acquisition of alternative fuel vehicles and use of alternative fuels; the use of biodiesel blends in diesel vehicles; the acquisition of electric vehicles for appropriate functions; improvement of fleet fuel economy; the optimizing of fleets to the agency mission; petroleum reduction strategies, such as the acquisition of low greenhouse gas emitting vehicles and the reduction of vehicle miles traveled; and the installation of renewable fuel pumps at Federal fleet fueling centers.
-
-Sec. 13. Recommendations for Vendor and Contractor Emissions. Within 180 days of the date of this order, the General Services Administration, in coordination with the Department of Defense, the Environmental Protection Agency, and other agencies as appropriate, shall review and provide recommendations to the CEQ Chair and the Administrator of OMB’s Office of Federal Procurement Policy regarding the feasibility of working with the Federal vendor and contractor community to provide information that will assist Federal agencies in tracking and reducing scope 3 greenhouse gas emissions related to the supply of products and services to the Government. These recommendations should consider the potential impacts on the procurement process, and the Federal vendor and contractor community including small businesses and other socioeconomic procurement programs. Recommendations should also explore the feasibility of:
-
-(a) requiring vendors and contractors to register with a voluntary registry or organization for reporting greenhouse gas emissions;
-
-(b) requiring contractors, as part of a new or revised registration under the Central Contractor Registration or other tracking system, to develop and make available its greenhouse gas inventory and description of efforts to mitigate greenhouse gas emissions;
-
-(c) using Federal Government purchasing preferences or other incentives for products manufactured using processes that minimize greenhouse gas emissions; and
-
-(d) other options for encouraging sustainable practices and reducing greenhouse gas emissions.
-
-Sec. 14. Stormwater Guidance for Federal Facilities. Within 60 days of the date of this order, the Environmental Protection Agency, in coordination with other Federal agencies as appropriate, shall issue guidance on the implementation of section 438 of the Energy Independence and Security Act of 2007 ([42 U.S.C. 17094](./chapter-152-energy-independence-and-security.md#section-17094)).
-
-Sec. 15. Regional Coordination. Within 180 days of the date of this order, the Federal Environmental Executive shall develop and implement a regional implementation plan to support the goals of this order taking into account energy and environmental priorities of particular regions of the United States.
-
-Sec. 16. Agency Roles in Support of Federal Adaptation Strategy. In addition to other roles and responsibilities of agencies with respect to environmental leadership as specified in this order, the agencies shall participate actively in the interagency Climate Change Adaptation Task Force, which is already engaged in developing the domestic and international dimensions of a U.S. strategy for adaptation to climate change, and shall develop approaches through which the policies and practices of the agencies can be made compatible with and reinforce that strategy. Within 1 year of the date of this order the CEQ Chair shall provide to the President, following consultation with the agencies and the Climate Change Adaptation Task Force, as appropriate, a progress report on agency actions in support of the national adaptation strategy and recommendations for any further such measures as the CEQ Chair may deem necessary.
-
-Sec. 17. Limitations. (a) This order shall apply to an agency with respect to the activities, personnel, resources, and facilities of the agency that are located within the United States. The head of an agency may provide that this order shall apply in whole or in part with respect to the activities, personnel, resources, and facilities of the agency that are not located within the United States, if the head of the agency determines that such application is in the interest of the United States.
-
-(b) The head of an agency shall manage activities, personnel, resources, and facilities of the agency that are not located within the United States, and with respect to which the head of the agency has not made a determination under subsection (a) of this section, in a manner consistent with the policy set forth in section 1 of this order to the extent the head of the agency determines practicable.
-
-Sec. 18. Exemption Authority.
-
-(a) The Director of National Intelligence may exempt an intelligence activity of the United States, and related personnel, resources, and facilities, from the provisions of this order, other than this subsection and section 20, to the extent the Director determines necessary to protect intelligence sources and methods from unauthorized disclosure.
-
-(b) The head of an agency may exempt law enforcement activities of that agency, and related personnel, resources, and facilities, from the provisions of this order, other than this subsection and section 20, to the extent the head of an agency determines necessary to protect undercover operations from unauthorized disclosure.
-
-(c)(i) The head of an agency may exempt law enforcement, protective, emergency response, or military tactical vehicle fleets of that agency from the provisions of this order, other than this subsection and section 20.
-
-(ii) Heads of agencies shall manage fleets to which paragraph (i) of this subsection refers in a manner consistent with the policy set forth in section 1 of this order to the extent they determine practicable.
-
-(d) The head of an agency may exempt particular agency activities and facilities from the provisions of this order, other than this subsection and section 20, where it is in the interest of national security. If the head of an agency issues an exemption under this section, the agency must notify the CEQ Chair in writing within 30 days of issuance of the exemption under this subsection. To the maximum extent practicable, and without compromising national security, each agency shall strive to comply with the purposes, goals, and implementation steps in this order.
-
-(e) The head of an agency may submit to the President, through the CEQ Chair, a request for an exemption of an agency activity, and related personnel, resources, and facilities, from this order.
-
-Sec. 19. Definitions. As used in this order:
-
-(a) “absolute greenhouse gas emissions” means total greenhouse gas emissions without normalization for activity levels and includes any allowable consideration of sequestration;
-
-(b) “agency” means an executive agency as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim), United States Code, excluding the Government Accountability Office;
-
-(c) “alternative fuel vehicle” means vehicles defined by section 301 of the Energy Policy Act of 1992, as amended ([42 U.S.C. 13211](./chapter-134-energy-policy.md#section-13211)), and otherwise includes electric fueled vehicles, hybrid electric vehicles, plug-in hybrid electric vehicles, dedicated alternative fuel vehicles, dual fueled alternative fuel vehicles, qualified fuel cell motor vehicles, advanced lean burn technology motor vehicles, self-propelled vehicles such as bicycles and any other alternative fuel vehicles that are defined by statute;
-
-(d) “construction and demolition materials and debris” means materials and debris generated during construction, renovation, demolition, or dismantling of all structures and buildings and associated infrastructure;
-
-(e) “divert” and “diverting” means redirecting materials that might otherwise be placed in the waste stream to recycling or recovery, excluding diversion to waste-to-energy facilities;
-
-(f) “energy intensity” means energy consumption per square foot of building space, including industrial or laboratory facilities;
-
-(g) “environmental” means environmental aspects of internal agency operations and activities, including those aspects related to energy and transportation functions;
-
-(h) “excluded vehicles and equipment” means any vehicle, vessel, aircraft, or non-road equipment owned or operated by an agency of the Federal Government that is used in:
-
-(i) combat support, combat service support, tactical or relief operations, or training for such operations;
-
-(ii) Federal law enforcement (including protective service and investigation);
-
-(iii) emergency response (including fire and rescue); or
-
-(iv) spaceflight vehicles (including associated ground-support equipment);
-
-(i) “greenhouse gases” means carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, and sulfur hexafluoride;
-
-(j) “renewable energy” means energy produced by solar, wind, biomass, landfill gas, ocean (including tidal, wave, current, and thermal), geothermal, municipal solid waste, or new hydroelectric generation capacity achieved from increased efficiency or additions of new capacity at an existing hydroelectric project;
-
-(k) “scope 1, 2, and 3” mean;
-
-(i) scope 1: direct greenhouse gas emissions from sources that are owned or controlled by the Federal agency;
-
-(ii) scope 2: direct greenhouse gas emissions resulting from the generation of electricity, heat, or steam purchased by a Federal agency; and
-
-(iii) scope 3: greenhouse gas emissions from sources not owned or directly controlled by a Federal agency but related to agency activities such as vendor supply chains, delivery services, and employee travel and commuting;
-
-(l) “sustainability” and “sustainable” mean to create and maintain conditions, under which humans and nature can exist in productive harmony, that permit fulfilling the social, economic, and other requirements of present and future generations;
-
-(m) “United States” means the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Northern Mariana Islands, and associated territorial waters and airspace;
-
-(n) “water consumption intensity” means water consumption per square foot of building space; and
-
-(o) “zero-net-energy building” means a building that is designed, constructed, and operated to require a greatly reduced quantity of energy to operate, meet the balance of energy needs from sources of energy that do not produce greenhouse gases, and therefore result in no net emissions of greenhouse gases and be economically viable.
-
-Sec. 20. General Provisions.
-
-(a) This order shall be implemented in a manner consistent with applicable law and subject to the availability of appropriations.
-
-(b) Nothing in this order shall be construed to impair or otherwise affect the functions of the OMB Director relating to budgetary, administrative, or legislative proposals.
-
-(c) This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Barack Obama.
+#### Executive Order No. 13514
+Ex. Ord. No. 13514, Oct. 5, 2009, 74 F.R. 52117, which related to environmental sustainability in the Federal Government, was revoked by Ex. Ord. No. 13693, § 16(b), Mar. 19, 2015, 80 F.R. 15880, set out below.
 
 #### Ex. Ord. No. 13653. Preparing the United States for the Impacts of Climate Change
-Ex. Ord. No. 13653, Nov. 1, 2013, 78 F.R. 66819, as amended by Ex. Ord. No. 13683, § 2, Dec. 11, 2014, 79 F.R. 75041, provided:
+Ex. Ord. No. 13653, Nov. 1, 2013, 78 F.R. 66819, as amended by Ex. Ord. No. 13683, § 2, Dec. 11, 2014, 79 F.R. 75041; Ex. Ord. No. 13693, § 16(f), Mar. 19, 2015, 80 F.R. 15881, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to prepare the Nation for the impacts of climate change by undertaking actions to enhance climate preparedness and resilience, it is hereby ordered as follows:
 
 Section 1. Policy. The impacts of climate change—including an increase in prolonged periods of excessively high temperatures, more heavy downpours, an increase in wildfires, more severe droughts, permafrost thawing, ocean acidification, and sea-level rise—are already affecting communities, natural resources, ecosystems, economies, and public health across the Nation. These impacts are often most significant for communities that already face economic or health-related challenges, and for species and habitats that are already facing other pressures. Managing these risks requires deliberate preparation, close cooperation, and coordinated planning by the Federal Government, as well as by stakeholders, to facilitate Federal, State, local, tribal, private-sector, and nonprofit-sector efforts to improve climate preparedness and resilience; help safeguard our economy, infrastructure, environment, and natural resources; and provide for the continuity of executive department and agency (agency) operations, services, and programs.
 
-A foundation for coordinated action on climate change preparedness and resilience across the Federal Government was established by Executive Order 13514 of October 5, 2009 (Federal Leadership in Environmental, Energy, and Economic Performance), and the Interagency Climate Change Adaptation Task Force led by the Council on Environmental Quality (CEQ), the Office of Science and Technology Policy (OSTP), and the National Oceanic and Atmospheric Administration (NOAA). In addition, through the U.S. Global Change Research Program (USGCRP), established by section 103 of the Global Change Research Act of 1990 ([15 U.S.C. 2933](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2933&num=0&edition=prelim)), and agency programs and activities, the Federal Government will continue to support scientific research, observational capabilities, and assessments necessary to improve our understanding of and response to climate change and its impacts on the Nation.
+A foundation for coordinated action on climate change preparedness and resilience across the Federal Government was established by [former] Executive Order 13514 of October 5, 2009 (Federal Leadership in Environmental, Energy, and Economic Performance), and the Interagency Climate Change Adaptation Task Force led by the Council on Environmental Quality (CEQ), the Office of Science and Technology Policy (OSTP), and the National Oceanic and Atmospheric Administration (NOAA). In addition, through the U.S. Global Change Research Program (USGCRP), established by section 103 of the Global Change Research Act of 1990 ([15 U.S.C. 2933](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2933&num=0&edition=prelim)), and agency programs and activities, the Federal Government will continue to support scientific research, observational capabilities, and assessments necessary to improve our understanding of and response to climate change and its impacts on the Nation.
 
 The Federal Government must build on recent progress and pursue new strategies to improve the Nation’s preparedness and resilience. In doing so, agencies should promote: (1) engaged and strong partnerships and information sharing at all levels of government; (2) risk-informed decisionmaking and the tools to facilitate it; (3) adaptive learning, in which experiences serve as opportunities to inform and adjust future actions; and (4) preparedness planning.
 
@@ -1848,7 +1401,7 @@ Sec. 4. Providing Information, Data, and Tools for Climate Change Preparedness a
 
 (b) As part of the broader open data policy, CEQ and OSTP, in collaboration with OMB and consistent with Executive Order 13642 of May 9, 2013 (Making Open and Machine Readable the New Default for Government Information), shall oversee the establishment of a web-based portal on “Data.gov” and work with agencies on identifying, developing, and integrating data and tools relevant to climate issues and decisionmaking. Agencies shall coordinate their work on these data and tools with relevant interagency councils and committees such as the National Science and Technology Council and those that support the implementation of Presidential Policy Directive–21 of February 12, 2013 (Critical Infrastructure Security and Resilience).
 
-Sec. 5. Federal Agency Planning for Climate Change Related Risk. (a) Consistent with Executive Order 13514, agencies have developed Agency Adaptation Plans and provided them to CEQ and OMB. These plans evaluate the most significant climate change related risks to, and vulnerabilities in, agency operations and missions in both the short and long term, and outline actions that agencies will take to manage these risks and vulnerabilities. Building on these efforts, each agency shall develop or continue to develop, implement, and update comprehensive plans that integrate consideration of climate change into agency operations and overall mission objectives and submit those plans to CEQ and OMB for review. Each Agency Adaptation Plan shall include:
+Sec. 5. Federal Agency Planning for Climate Change Related Risk. (a) Consistent with other Executive Orders, agencies have developed Agency Adaptation Plans and provided them to CEQ and OMB. These plans evaluate the most significant climate change related risks to, and vulnerabilities in, agency operations and missions in both the short and long term, and outline actions that agencies will take to manage these risks and vulnerabilities. Building on these efforts, each agency shall develop or continue to develop, implement, and update comprehensive plans that integrate consideration of climate change into agency operations and overall mission objectives and submit those plans to CEQ and OMB for review. Each Agency Adaptation Plan shall include:
 
 (i) identification and assessment of climate change related impacts on and risks to the agency’s ability to accomplish its missions, operations, and programs;
 
@@ -2025,6 +1578,476 @@ Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impa
 
 Barack Obama.
 
+#### Ex. Ord. No. 13693. Planning for Federal Sustainability in the Next Decade
+Ex. Ord. No. 13693, Mar. 19, 2015, 80 F.R. 15871, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to maintain Federal leadership in sustainability and greenhouse gas emission reductions, it is hereby ordered as follows:
+
+Section 1. Policy. Executive departments and agencies (agencies) have been among our Nation’s leaders as the United States works to build a clean energy economy that will sustain our prosperity and the health of our people and our environment for generations to come. Federal leadership in energy, environmental water, fleet, buildings, and acquisition management will continue to drive national greenhouse gas reductions and support preparations for the impacts of climate change. Through a combination of more efficient Federal operations such as those outlined in this Executive Order (order), we have the opportunity to reduce agency direct greenhouse gas emissions by at least 40 percent over the next decade while at the same time fostering innovation, reducing spending, and strengthening the communities in which our Federal facilities operate.
+
+It therefore continues to be the policy of the United States that agencies shall increase efficiency and improve their environmental performance. Improved environmental performance will help us protect our planet for future generations and save taxpayer dollars through avoided energy costs and increased efficiency, while also making Federal facilities more resilient. To improve environmental performance and Federal sustainability, priority should first be placed on reducing energy use and cost, then on finding renewable or alternative energy solutions. Pursuing clean sources of energy will improve energy and water security, while ensuring that Federal facilities will continue to meet mission requirements and lead by example. Employing this strategy for the next decade calls for expanded and updated Federal environmental performance goals with a clear overarching objective of reducing greenhouse gas emissions across Federal operations and the Federal supply chain.
+
+Sec. 2. Agency Greenhouse Gas Emission Reductions. In implementing the policy set forth in section 1 of this order, the head of each agency shall, within 90 days of the date of this order, propose to the Chair of the Council on Environmental Quality (CEQ) and the Director of the Office of Management and Budget (OMB) percentage reduction targets for agency-wide reductions of scope 1 and 2 and scope 3 greenhouse gas emissions in absolute terms by the end of fiscal year 2025 relative to a fiscal year 2008 baseline. Where appropriate, the target shall exclude direct emissions from excluded vehicles and equipment and from electric power produced and sold commercially to other parties as the primary business of the agency. The proposed targets shall be subject to the review and approval of the Chair of CEQ in coordination with the Director of OMB under section 4(b) of this order.
+
+Sec. 3. Sustainability Goals for Agencies. In implementing the policy set forth in section 1 of this order and to achieve the goals of section 2 of this order, the head of each agency shall, where life-cycle cost-effective, beginning in fiscal year 2016, unless otherwise specified:
+
+(a) promote building energy conservation, efficiency, and management by:
+
+(i) reducing agency building energy intensity measured in British thermal units per gross square foot by 2.5 percent annually through the end of fiscal year 2025, relative to the baseline of the agency’s building energy use in fiscal year 2015 and taking into account agency progress to date, except where revised pursuant to section 9(f) of this order, by implementing efficiency measures based on and using practices such as:
+
+(A) using remote building energy performance assessment auditing technology;
+
+(B) participating in demand management programs;
+
+(C) ensuring that monthly performance data is entered into the Environmental Protection Agency (EPA) ENERGY STAR Portfolio Manager for covered buildings;
+
+(D) incorporating, where feasible, the consensus-based, industry standard Green Button data access system into reporting, data analytics, and automation processes;
+
+(E) implementing space utilization and optimization practices and policies;
+
+(F) identifying opportunities to transition test-bed technologies to achieve the goals of this section; and
+
+(G) conforming, where feasible, to city energy performance benchmarking and reporting requirements; and
+
+(ii) improving data center energy efficiency at agency facilities by:
+
+(A) ensuring the agency chief information officer promotes data center energy optimization, efficiency, and performance;
+
+(B) installing and monitoring advanced energy meters in all data centers by fiscal year 2018; and
+
+(C) establishing a power usage effectiveness target of 1.2 to 1.4 for new data centers and less than 1.5 for existing data centers;
+
+(b) ensure that at a minimum, the following percentage of the total amount of building electric energy and thermal energy shall be clean energy, accounted for by renewable electric energy and alternative energy:
+
+(i) not less than 10 percent in fiscal years 2016 and 2017;
+
+(ii) not less than 13 percent in fiscal years 2018 and 2019;
+
+(iii) not less than 16 percent in fiscal years 2020 and 2021;
+
+(iv) not less than 20 percent in fiscal years 2022 and 2023; and
+
+(v) not less than 25 percent by fiscal year 2025 and each year thereafter;
+
+(c) ensure that the percentage of the total amount of building electric energy consumed by the agency that is renewable electric energy is:
+
+(i) not less than 10 percent in fiscal years 2016 and 2017;
+
+(ii) not less than 15 percent in fiscal years 2018 and 2019;
+
+(iii) not less than 20 percent in fiscal years 2020 and 2021;
+
+(iv) not less than 25 percent in fiscal years 2022 and 2023; and
+
+(v) not less than 30 percent by fiscal year 2025 and each year thereafter;
+
+(d) include in the renewable electric energy portion of the clean energy target established in subsection (b) of this section renewable electric energy as defined in section 19(v) of this order and associated with the following actions, which are listed in order of priority:
+
+(i) installing agency-funded renewable energy on site at Federal facilities and retaining corresponding renewable energy certificates (RECs) or obtaining equal value replacement RECs;
+
+(ii) contracting for the purchase of energy that includes the installation of renewable energy on site at a Federal facility or off site from a Federal facility and the retention of corresponding RECs or obtaining equal value replacement RECs for the term of the contract;
+
+(iii) purchasing electricity and corresponding RECs or obtaining equal value replacement RECs; and
+
+(iv) purchasing RECs;
+
+(e) include in the alternative energy portion of the clean energy target established in subsection (b) of this section alternative energy as defined in section 19(c) of this order and associated with the following actions, where feasible:
+
+(i) installing thermal renewable energy on site at Federal facilities and retaining corresponding renewable attributes or obtaining equal value replacement RECs where applicable;
+
+(ii) installing combined heat and power processes on site at Federal facilities;
+
+(iii) installing fuel cell energy systems on site at Federal facilities;
+
+(iv) utilizing energy from new small modular nuclear reactor technologies;
+
+(v) utilizing energy from a new project that includes the active capture and storage of carbon dioxide emissions associated with energy generation;
+
+(vi) implementing other alternative energy approaches that advance the policy set forth in section 1 and achieve the goals of section 2 of this order and are in accord with any sustainability, environmental performance, and other instructions or guidance established pursuant to sections 4(e) and 5(a) of this order; and
+
+(vii) including in the Department of Defense (DOD) accounting for alternative energy for this subsection, fulfillment of the requirements for DOD goals established under section 2852 of the National Defense Authorization Act for Fiscal Year 2007 as amended by section 2842 of the National Defense Authorization Act for Fiscal Year 2010;
+
+(f) improve agency water use efficiency and management, including stormwater management by:
+
+(i) reducing agency potable water consumption intensity measured in gallons per gross square foot by 36 percent by fiscal year 2025 through reductions of 2 percent annually through fiscal year 2025 relative to a baseline of the agency’s water consumption in fiscal year 2007;
+
+(ii) installing water meters and collecting and utilizing building and facility water balance data to improve water conservation and management;
+
+(iii) reducing agency industrial, landscaping, and agricultural (ILA) water consumption measured in gallons by 2 percent annually through fiscal year 2025 relative to a baseline of the agency’s ILA water consumption in fiscal year 2010; and
+
+(iv) installing appropriate green infrastructure features on federally owned property to help with stormwater and wastewater management;
+
+(g) if the agency operates a fleet of at least 20 motor vehicles, improve agency fleet and vehicle efficiency and management by:
+
+(i) determining, as part of the planning requirements of section 14 of this order, the optimum fleet inventory with emphasis placed on eliminating unnecessary or non-essential vehicles from the agency’s fleet inventory;
+
+(ii) taking actions that reduce fleet-wide per-mile greenhouse gas emissions from agency fleet vehicles, relative to a baseline of emissions in fiscal year 2014, to achieve the following percentage reductions:
+
+(A) not less than 4 percent by the end of fiscal year 2017;
+
+(B) not less than 15 percent by the end of fiscal year 2021; and
+
+(C) not less than 30 percent by the end of fiscal year 2025;
+
+(iii) collecting and utilizing as a fleet efficiency management tool, as soon as practicable but not later than 2 years after the date of this order, agency fleet operational data through deployment of vehicle telematics at a vehicle asset level for all new passenger and light duty vehicle acquisitions and for medium duty vehicles where appropriate;
+
+(iv) ensuring that agency annual asset-level fleet data is properly and accurately accounted for in a formal agency Fleet Management System and any relevant data is submitted to the Federal Automotive Statistical Tool reporting database, the Federal Motor Vehicle Registration System, and the Fleet Sustainability Dashboard (FleetDASH) system;
+
+(v) planning for agency fleet composition such that by December 31, 2020, zero emission vehicles or plug-in hybrid vehicles account for 20 percent of all new agency passenger vehicle acquisitions and by December 31, 2025, zero emission vehicles or plug-in hybrid vehicles account for 50 percent of all new agency passenger vehicles and including, where practicable, acquisition of such vehicles in other vehicle classes and counting double credit towards the targets in this section for such acquisitions; and
+
+(vi) planning for appropriate charging or refueling infrastructure or other power storage technologies for zero emission vehicles or plug-in hybrid vehicles and opportunities for ancillary services to support vehicle-to-grid technology;
+
+(h) improve building efficiency, performance, and management by:
+
+(i) ensuring, beginning in fiscal year 2020 and thereafter, that all new construction of Federal buildings greater than 5,000 gross square feet that enters the planning process is designed to achieve energy net-zero and, where feasible, water or waste net-zero by fiscal year 2030;
+
+(ii) identifying, beginning in June of 2016, as part of the planning requirements of section 14 of this order, a percentage of at least 15 percent, by number or total square footage, of the agency’s existing buildings above 5,000 gross square feet that will, by fiscal year 2025, comply with the revised Guiding Principles for Federal Leadership in High Performance and Sustainable Buildings (Guiding Principles), developed pursuant to section 4 of this order, and making annual progress toward 100 percent conformance with the Guiding Principles for its building inventory;
+
+(iii) identifying, as part of the planning requirements of section 14 of this order, a percentage of the agency’s existing buildings above 5,000 gross square feet intended to be energy, waste, or water net-zero buildings by fiscal year 2025 and implementing actions that will allow those buildings to meet that target;
+
+(iv) including in all new agency lease solicitations over 10,000 rentable square feet:
+
+(A) criteria for energy efficiency either as a required performance specification or as a source selection evaluation factor in best-value tradeoff procurements; and
+
+(B) requirements for building lessor disclosure of carbon emission or energy consumption data for that portion of the building occupied by the agency that may be provided by the lessor through submetering or estimation from pro-rated occupancy data, whichever is more cost-effective;
+
+(v) reporting building energy, beginning in fiscal year 2016 as part of the agency scope 3 greenhouse gas emissions for newly solicited leases over 10,000 rentable square feet;
+
+(vi) including in the planning for new buildings or leases cost-effective strategies to optimize sustainable space usage and consideration of existing community transportation planning and infrastructure, including access to public transit;
+
+(vii) ensuring that all new construction, major renovation, repair, and alteration of agency buildings includes appropriate design and deployment of fleet charging infrastructure; and
+
+(viii) including the incorporation of climate-resilient design and management elements into the operation, repair, and renovation of existing agency buildings and the design of new agency buildings;
+
+(i) promote sustainable acquisition and procurement by ensuring that each of the following environmental performance and sustainability factors are included to the maximum extent practicable for all applicable procurements in the planning, award, and execution phases of the acquisition by:
+
+(i) meeting statutory mandates that require purchase preference for:
+
+(A) recycled content products designated by EPA;
+
+(B) energy and water efficient products and services, such as ENERGY STAR qualified and Federal Energy Management Program (FEMP)-designated products, identified by EPA and the Department of Energy (DOE); and
+
+(C) BioPreferred and biobased designated products designated by the United States Department of Agriculture;
+
+(ii) purchasing sustainable products and services identified by EPA programs including:
+
+(A) Significant New Alternative Policy (SNAP) chemicals or other alternatives to ozone-depleting substances and high global warming potential hydrofluorocarbons, where feasible, as identified by SNAP;
+
+(B) WaterSense certified products and services (water efficient products);
+
+(C) Safer Choice labeled products (chemically intensive products that contain safer ingredients); and
+
+(D) SmartWay Transport partners and SmartWay products (fuel efficient products and services);
+
+(iii) purchasing environmentally preferable products or services that:
+
+(A) meet or exceed specifications, standards, or labels recommended by EPA that have been determined to assist agencies in meeting their needs and further advance sustainable procurement goals of this order; or
+
+(B) meet environmental performance criteria developed or adopted by voluntary consensus standards bodies consistent with section 12(d) of the National Technology Transfer and Advancement Act of 1995 (Public Law 104–113) and OMB Circular A–119;
+
+(iv) acting, as part of the implementation of planning requirements of section 14 of this order, until an agency achieves at least 95 percent compliance with the BioPreferred and biobased purchasing requirement in paragraph (i) of this subsection, to:
+
+(A) establish an annual target for the number of contracts to be awarded with BioPreferred and biobased criteria and dollar value of BioPreferred and biobased products to be delivered and reported under those contracts in the following fiscal year. To establish this target, agencies shall consider the dollar value of designated BioPreferred and biobased products reported in previous years, the specifications reviewed and revised for inclusion of BioPreferred and biobased products, and the number of applicable product and service contracts to be awarded, including construction, operations and maintenance, food services, vehicle maintenance, and janitorial services; and
+
+(B) ensure contractors submit timely annual reports of their BioPreferred and biobased purchases; and
+
+(v) reducing copier and printing paper use and acquiring uncoated printing and writing paper containing at least 30 percent postconsumer recycled content or higher as designated by future instruction under section 4(e) of this order;
+
+(j) advance waste prevention and pollution prevention by:
+
+(i) reporting in accordance with the requirements of sections 301 through 313 of the Emergency Planning and Community Right-to-Know Act of 1986 ([42 U.S.C. 11001](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11001) through 11023);
+
+(ii) diverting at least 50 percent of non-hazardous solid waste, including food and compostable material but not construction and demolition materials and debris, annually, and pursuing opportunities for net-zero waste or additional diversion opportunities;
+
+(iii) diverting at least 50 percent of non-hazardous construction and demolition materials and debris; and
+
+(iv) reducing or minimizing the quantity of toxic and hazardous chemicals and materials acquired, used, or disposed of, particularly where such reduction will assist the agency in pursuing agency greenhouse gas emission reduction targets established in section 2 of this order;
+
+(k) implement performance contracts for Federal buildings by:
+
+(i) utilizing performance contracting as an important tool to help meet identified energy efficiency and management goals while deploying life-cycle cost-effective energy efficiency and clean energy technology and water conservation measures;
+
+(ii) fulfilling existing agency performance contracting commitments towards the goal of $4 billion in Federal performance-based contracts by the end of calendar year 2016; and
+
+(iii) providing annual agency targets for performance contracting for energy savings to be implemented in fiscal year 2017 and annually thereafter as part of the planning requirements of section 14 of this order;
+
+(l) promote electronics stewardship by establishing, measuring, and reporting by:
+
+(i) ensuring procurement preference for environmentally sustainable electronic products as established in subsection (i) of this section;
+
+(ii) establishing and implementing policies to enable power management, duplex printing, and other energy-efficient or environmentally sustainable features on all eligible agency electronic products; and
+
+(iii) employing environmentally sound practices with respect to the agency’s disposition of all agency excess or surplus electronic products.
+
+Sec. 4. Duties of the Chair of the Council on Environmental Quality. In implementing the policy set forth in section 1 of this order, the Chair of CEQ shall:
+
+(a) in coordination with the Director of OMB, establish a Federal Interagency Sustainability Steering Committee (Steering Committee) that shall advise the Director of OMB and the Chair of CEQ on the performance of agency responsibilities under sections 2 and 3 of this order and shall include the Federal Chief Sustainability Officer referenced in section 6 of this order and agency Chief Sustainability Officers designated under sections 7 and 8 of this order;
+
+(b) in coordination with the Director of OMB review and approve agency-wide scope 1 and 2 and scope 3 greenhouse gas emissions reduction targets developed under section 2 of this order;
+
+(c) in coordination with the Director of OMB, prepare streamlined reporting metrics to determine each agency’s progress under sections 2 and 3 of this order;
+
+(d) review and evaluate each agency’s Plan prepared under section 14 of this order;
+
+(e) within 45 days of the date of this order and thereafter as necessary, after consultation with the Director of OMB, issue implementing instructions or other guidance to direct agency implementation of this order, other than instructions within the authority of the Director of OMB to issue under section 5 of this order;
+
+(f) within 150 days of the date of this order, prepare and issue revised Guiding Principles for both new and existing Federal buildings including consideration of climate change resilience and employee and visitor wellness;
+
+(g) revise, as necessary and in coordination with the Director of OMB, existing CEQ guidance and implementing instructions on Sustainable Locations for Federal Facilities of September 15, 2011, Sustainable Practices for Designed Landscapes of October 31, 2011, as supplemented on October 22, 2014, Federal Greenhouse Gas Accounting and Reporting Guidance [Revision 1] of June 4, 2012, and Federal Agency Implementation of Water Efficiency and Management Provisions of [former] Executive Order 13514 of July 10, 2013 [Oct. 5, 2009];
+
+(h) within 150 days of the date of this order, prepare and issue guidance to assist agencies in the implementation of section 13 of this order;
+
+(i) identify annually, based on total contract spending in the previous fiscal year as reported in the Federal Procurement Data System, the seven largest Federal procuring agencies responsible for implementation of section 15(b) of this order;
+
+(j) administer a Presidential leadership award program to recognize exceptional and outstanding performance and excellence in agency efforts to implement this order; and
+
+(k) establish and disband, as appropriate, temporary interagency working groups to provide recommendations to the Chair of CEQ associated with the goals of this order, including: grid-based green power; data quality, collection, and reporting; greenhouse gas emissions associated with the transportation of Federal freight and cargo; sustainability considerations in resilience planning; agency supply chain climate vulnerability; recycled content paper; green infrastructure; and carbon uptake accounting and wood products.
+
+Sec. 5. Duties of the Director of the Office of Management and Budget. In implementing the policy set forth in section 1 of this order, the Director of OMB shall:
+
+(a) issue, after consultation with the Chair of CEQ, instructions to the heads of agencies concerning periodic performance evaluation of agency implementation of this order, including consideration of the results from section 4(c) of this order;
+
+(b) prepare scorecards providing periodic evaluation of Principal Agency performance in implementing this order and publish scorecard results on a publicly available Web site; and
+
+(c) review and approve each agency’s Plan prepared under section 14 of this order.
+
+Sec. 6. Duties of the Federal Chief Sustainability Officer. Henceforth, the Federal Environmental Executive is reestablished as the Federal Chief Sustainability Officer and the Office of the Federal Environmental Executive is reestablished as the Office of the Chief Sustainability Officer, for which the Environmental Protection Agency shall provide funding and administrative support and that shall be maintained at CEQ. In implementing the policy set forth in section 1 of this order, the Federal Chief Sustainability Officer shall:
+
+(a) monitor progress and advise the Chair of CEQ on agency goals in sections 2 and 3 of this order;
+
+(b) chair, convene, and preside at quarterly meetings; determine the agenda; and direct the work of the Steering Committee;
+
+(c) lead the development of programs and policies to assist agencies in implementing the goals of this order in coordination with DOE, EPA, the General Services Administration (GSA), and other agencies as appropriate;
+
+(d) coordinate and provide direction to relevant existing workgroups through quarterly meetings to ensure that opportunities for improvement in implementation of this order are identified and addressed; and
+
+(e) advise the Chair of CEQ on the implementation of this order.
+
+Sec. 7. Duties of Principal Agencies. To ensure successful implementation of the policy established in section 1 of this order, the head of each Principal Agency shall:
+
+(a) designate, within 45 days of the date of this order, an agency Chief Sustainability Officer, who shall be a senior civilian officer of the United States, compensated annually in an amount at or above the amount payable at level IV of the Executive Schedule, and report such designation to the Director of OMB and the Chair of CEQ;
+
+(b) assign the designated official the authority to represent the agency on the Steering Committee established under section 4 of this order and perform such other duties relating to the implementation of this order within the agency as the head of the agency deems appropriate;
+
+(c) prepare and distribute internally, where appropriate, performance evaluations of agency implementation of this order that reflect the contribution of agency services, components, bureaus, and operating divisions to the goals of this order;
+
+(d) ensure, as soon as practicable after the date of this order, that leases and contracts entered into after the date of this order for lessor or contractor operation of Government-owned buildings or vehicles facilitate the agency’s compliance with this order;
+
+(e) implement opportunities to improve agency fleet sustainability, including vehicle acquisitions as established in section 3(g) of this order, waiver authority, and fleet data management practices, by revising agency fleet management review and approval procedures to include the Chief Sustainability Officers designated under this section and section 8 of this order;
+
+(f) consider the development of policies to promote sustainable commuting and work-related travel practices for Federal employees that foster workplace vehicle charging, encourage telecommuting, teleconferencing, and reward carpooling and the use of public transportation, where consistent with agency authority and Federal appropriations law;
+
+(g) ensure regional agency actions consider and are consistent with, sustainability and climate preparedness priorities of States, local governments, and tribal communities where agency facilities are located;
+
+(h) foster outstanding performance and excellence in agency efforts to implement this order through opportunities such as agency leadership award programs;
+
+(i) continue implementation of formal Environmental Management Systems (EMS) where those systems have proven effective and deploy new EMSs where appropriate; and
+
+(j) notwithstanding the limitations on implementation in section 17 of this order, apply, where feasible and appropriate, the strategies and plans to achieve the goals of this order in whole or in part with respect to fueling, operation, and management of tactical or emergency vehicles and to the activities and facilities of the agency that are not located within the United States.
+
+Sec. 8. Duties of Contributing Agencies. Within 45 days of the date of this order, to ensure successful implementation of the policy established in section 1 of this order, the head of each contributing agency shall designate an agency Chief Sustainability Officer, who shall be a senior civilian officer of the United States, compensated annually in an amount at or above the amount payable at level IV of the Executive Schedule, and report such designation to the Director of OMB and the Chair of CEQ.
+
+Sec. 9. Duties of the Agency Chief Sustainability Officers. The Chief Sustainability Officers designated under sections 7 and 8 of this order shall be responsible for:
+
+(a) ensuring agency policies, plans, and strategies implemented to achieve the goals of this order consider the role of agency regional facilities and personnel and are integrated into agency permitting and environmental review policies, programs, and planning;
+
+(b) developing and implementing an agency-wide strategic process that coordinates appropriate agency functions and programs to ensure that those functions and programs consider and address the goals of this order;
+
+(c) reporting annually to the Chair of CEQ and Director of OMB a comprehensive inventory of progress towards the greenhouse gas emissions goals established in section 2 of this order;
+
+(d) representing the agency on the Steering Committee;
+
+(e) convening quarterly meetings of agency bureaus, commands, or operating divisions that are responsible for the implementation of strategies necessary to meet the goals of this order;
+
+(f) representing the agency in any requests to the Chair of CEQ and Director of OMB to amend or normalize a baseline for goals established in this order due to change of greater than 5 percent as a result of agency space consolidation, a change in mission tempo, or improved data quality;
+
+(g) providing plans, including the Plan prepared under section 14 of this order, reports, information, and assistance necessary to implement this order, to the Director of OMB, the Chair of CEQ, and the Federal Chief Sustainability Officer; and
+
+(h) performing such other duties relating to the implementation of this order as the head of the agency deems appropriate.
+
+Sec. 10. Regional Coordination. Within 180 days of the date of this order, each EPA and GSA Regional office shall in coordination with Federal Executive Boards established by the Presidential Memorandum of November 10, 1961 (The Need for Greater Coordination of Regional and Field Activities of the Government), DOD and other agencies as appropriate, convene regional interagency workgroups to identify and address:
+
+(a) sustainable operations of Federal fleet vehicles, including identification and implementation of opportunities to use and share fueling infrastructure and logistical resources to support the adoption and use of alternative fuel vehicles, including E–85 compatible vehicles, zero emission and plug-in hybrid vehicles, and compressed natural gas powered vehicles;
+
+(b) water resource management and drought response opportunities;
+
+(c) climate change preparedness and resilience planning in coordination with State, local, and tribal communities; and
+
+(d) opportunities for collective procurement of clean energy to satisfy energy demand for multiple agency buildings.
+
+Sec. 11. Employee Education and Training. Within 180 days of the date of this order, the Office of Personnel Management, in coordination with DOE, GSA, EPA, and other agencies as appropriate, shall:
+
+(a) consider the establishment of a dedicated Federal occupational series for sustainability professionals and relevant positions that directly impact the achievement of Federal sustainability goals and if appropriate, prepare and issue such occupational series; and
+
+(b) initiate the inclusion of environmental sustainability and climate preparedness and resilience into Federal leadership and educational programs in courses and training, delivered through electronic learning, in classroom settings, and residential centers, particularly developmental training for Senior Executive Service and GS–15 personnel.
+
+Sec. 12. Supporting the Federal Fleet. (a) GSA shall ensure that vehicles available to agencies for either lease or sale, at or below market cost, through its vehicle program include adequate variety and volume of alternative fuel vehicles, including zero emission and plug-in hybrid vehicles, to meet the fleet management goals of this order.
+
+(b) DOE shall assist the United States Postal Service (USPS) in evaluating the best alternative and advanced fuel technologies for the USPS fleet and report on such progress annually as part of the planning requirements of section 14 of this order.
+
+Sec. 13. Supporting Federal Facility Climate Preparedness and Resilience. The head of each agency shall, consistent with Executive Order 13653 of November 1, 2013, ensure that agency operations and facilities prepare for impacts of climate change as part of the planning requirements of section 14 of this order and consistent with planning required under section 5 of Executive Order 13653 by:
+
+(a) identifying and addressing projected impacts of climate change on mission critical water, energy, communication, and transportation demands and considering those climate impacts in operational preparedness planning for major agency facilities and operations; and
+
+(b) calculating the potential cost and risk to mission associated with agency operations that do not take into account the information collected in subsection (a) of this section and considering that cost in agency decision-making.
+
+Sec. 14. Agency Strategic Sustainability Performance Plan. Beginning in June 2015, and continuing through fiscal year 2025, the head of each Principal Agency shall develop, implement, and annually update an integrated Strategic Sustainability Performance Plan (Plan) based on guidance prepared by the Chair of CEQ under section 4 of this order. Contributing agencies are encouraged to prepare a Plan but may limit content of the Plan to a summary of agency actions to meet the requirements of this order. Each Principal Agency Plan and update shall be provided to the Chair of CEQ and Director of OMB, shall be subject to approval by the Director under section 5 of this order, and shall be made publicly available on an agency Web site once approved.
+
+Sec. 15. Supply Chain Greenhouse Gas Management. In implementing the greenhouse gas management policies in section 1 of this order and to better understand and manage the implications of Federal supply chain greenhouse gas emissions:
+
+(a) the Chair of CEQ shall, within 30 days of the date of this order and annually thereafter, identify and publicly release an inventory of major Federal suppliers using publicly available Federal procurement information, including information as to whether the supplier has accounted for and publicly disclosed, during the previous calendar year, annual scope 1 and 2 greenhouse gas emission data and publicly disclosed a greenhouse gas emission reductions target (or targets) for 2015 or beyond; and
+
+(b) the seven largest Federal procuring agencies shall each submit for consideration, in conjunction with the planning requirements of section 14 of this order, a plan to implement at least five new procurements annually in which the agency may include, as appropriate, contract requirements for vendors or evaluation criteria that consider contractor emissions and greenhouse gas emissions management practices. The plans submitted for consideration may include identification of evaluation criteria, performance period criteria, and contract clauses that will encourage suppliers to manage and reduce greenhouse gas emissions, and shall be implemented as soon as practicable after any relevant administrative requirements have been met.
+
+Sec. 16. Revocations and Conforming Provisions. (a) Pursuant to section 742(b) of Public Law 111–117, I have determined that this order will achieve equal or better environmental or energy efficiency results than Executive Order 13423. Therefore, Executive Order 13423 of January 24, 2007, is revoked.
+
+(b) Executive Order 13514 of October 5, 2009; Presidential Memorandum of December 2, 2011 (Implementation of Energy Savings Projects and Performance-Based Contracting for Energy Savings); section 1 of Presidential Memorandum of February 21, 2012 (Driving Innovation and Creating Jobs in Rural America through Biobased and Sustainable Product Procurement); and Presidential Memorandum of December 5, 2013 (Federal Leadership on Energy Management), are revoked.
+
+(c) Presidential Memorandum of May 24, 2011 (Federal Fleet Performance), is revoked as of October 1, 2015.
+
+(d) [Amended Ex. Ord. No. 13327, set out as a note under [section 121 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section121&num=0&edition=prelim), Public Buildings, Property, and Works.]
+
+(e) [Amended Ex. Ord. No. 13432, set out as a note under [section 7521 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7521).]
+
+(f) [Amended Ex. Ord. No. 13653, set out above.]
+
+(g) [Amended Ex. Ord. No. 13677, set out as a note under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim), Foreign Relations and Intercourse.]
+
+Sec. 17. Limitations. (a) This order shall apply to an agency with respect to the activities, personnel, resources, and facilities of the agency that are located within the United States. The head of an agency may provide that this order shall apply in whole or in part with respect to the activities, personnel, resources, and facilities of the agency that are not located within the United States, if the head of the agency determines that such application is in the interest of the United States.
+
+(b) The head of an agency shall manage activities, personnel, resources, and facilities of the agency that are not located within the United States with respect to which the head of the agency has not made a determination under subsection (a) of this section in a manner consistent with the policy set forth in section 1 of this order to the extent the head of the agency determines practicable.
+
+Sec. 18. Exemption Authority. (a) The Director of National Intelligence may exempt an intelligence activity of the United States, and related personnel, resources, and facilities, from the provisions of this order other than this subsection to the extent the Director determines necessary to protect intelligence sources and methods from unauthorized disclosure.
+
+(b) The head of an agency may exempt law enforcement activities of that agency, and related personnel, resources, and facilities, from the provisions of this order other than this subsection to the extent the head of an agency determines necessary to protect undercover operations from unauthorized disclosure.
+
+(c) The head of an agency may exempt law enforcement, protective, emergency response, or military tactical vehicle fleets of that agency from the provisions of this order other than this subsection. Heads of agencies shall manage fleets to which this paragraph refers in a manner consistent with the policy set forth in section 1 of this order to the extent they determine practicable.
+
+(d) The head of an agency may exempt particular agency activities and facilities from the provisions of this order other than this subsection where it is in the interest of national security. If the head of an agency issues an exemption under this section, the agency must notify the Chair of CEQ in writing within 30 days of issuance of the exemption under this subsection. To the maximum extent practicable, and without compromising national security, each agency shall strive to comply with the purposes, goals, and implementation steps in this order.
+
+(e) The head of an agency may submit to the President, through the Chair of CEQ, a request for an exemption of an agency activity, and related personnel, resources, and facilities, from this order.
+
+Sec. 19. Definitions. As used in this order:
+
+(a) “absolute greenhouse gas emissions” means total greenhouse gas emissions without normalization for activity levels and includes any allowable consideration of sequestration;
+
+(b) “agency” means an executive agency as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim), United States Code, excluding the Government Accountability Office;
+
+(c) “alternative energy” means energy generated from technologies and approaches that advance renewable heat sources, including biomass, solar thermal, geothermal, waste heat, and renewable combined heat and power processes; combined heat and power; small modular nuclear reactor technologies; fuel cell energy systems; and energy generation, where active capture and storage of carbon dioxide emissions associated with that energy generation is verified;
+
+(d) “alternative fuel vehicle” means vehicles defined by section 301 of the Energy Policy Act of 1992, as amended ([42 U.S.C. 13211](./chapter-134-energy-policy.md#section-13211)), and otherwise includes electric vehicles, hybrid electric vehicles, plug-in hybrid electric vehicles, dedicated alternative fuel vehicles, dual fueled alternative fuel vehicles, qualified fuel cell motor vehicles, advanced lean burn technology motor vehicles, low greenhouse gas vehicles, compressed natural gas powered vehicles, self-propelled vehicles such as bicycles, and any other alternative fuel vehicles that are defined by statute;
+
+(e) “clean energy” means renewable electric energy and alternative energy;
+
+(f) “climate resilient design” means to design assets to prepare for, withstand, respond to, or quickly recover from disruptions due to severe weather events and climate change for the intended life of the asset;
+
+(g) “construction and demolition materials and debris” means waste materials and debris generated during construction, renovation, demolition, or dismantling of all structures and buildings and associated infrastructure;
+
+(h) “Contributing Agencies” are defined as executive agencies that are not subject to the Chief Financial Officers Act [of 1990] and include Federal Boards, Commissions, and Committees;
+
+(i) “divert” or “diverting” means redirecting materials from disposal in landfills or incinerators to recycling or recovery, excluding diversion to waste-to-energy facilities;
+
+(j) “environmentally preferable” means products or services that have a lesser or reduced effect on human health and the environment when compared with competing products or services that serve the same purpose. This comparison may consider raw materials acquisition, production, manufacturing, packaging, distribution, reuse, use, operation, maintenance, or disposal related to the product or service;
+
+(k) “excluded vehicles and equipment” means any vehicle, vessel, aircraft, or non-road equipment owned or operated by an agency of the Federal Government that is used in combat support, combat service support, tactical or relief operations, or training for such operations or spaceflight vehicles (including associated ground-support equipment);
+
+(l) “Federal facility” means any building or collection of buildings, grounds, or structures, as well as any fixture or part thereof, which is owned by the United States or any Federal agency or that is held by the United States or any Federal agency under a lease-acquisition agreement under which the United States or a Federal agency will receive fee simple title under the terms of such agreement without further negotiation;
+
+(m) “greenhouse gases” means carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, nitrogen triflouride [sic], and sulfur hexafluoride;
+
+(n) “life-cycle cost-effective” means the life-cycle costs of a product, project, or measure are estimated to be equal to or less than the base case (i.e., current or standard practice or product);
+
+(o) “net-zero energy building” means a building that is designed, constructed, or renovated and operated such that the actual annual source energy consumption is balanced by on-site renewable energy;
+
+(p) “net-zero water building” means a building that is designed, constructed, or renovated and operated to greatly reduce total water consumption, use non-potable sources as much as possible, and recycle and reuse water in order to return the equivalent amount of water as was withdrawn from all sources, including municipal supply, without compromising groundwater and surface water quantity or quality;
+
+(q) “net-zero waste building” means a building that is operated to reduce, reuse, recycle, compost, or recover solid waste streams (with the exception of hazardous and medical waste) thereby resulting in zero waste disposal;
+
+(r) “passenger vehicle” means a sedan or station wagon designed primarily to transport people as defined in [section] 102–34.35 of the Federal Management Regulation;
+
+(s) “power usage effectiveness” means the ratio obtained by dividing the total amount of electricity and other power consumed in running a data center by the power consumed by the information and communications technology in the data center;
+
+(t) “Principal Agencies” mean agencies subject to the Chief Financial Officers Act [of 1990] and agencies subject to the OMB Scorecard process under section 5(b) of this order;
+
+(u) “renewable energy certificate” means the technology and environmental (non-energy) attributes that represent proof that 1 megawatt-hour (MWh) of electricity was generated from an eligible renewable energy resource, that can be sold separately from the underlying generic electricity with which they are associated, and that, for the purposes of section 3(d)(iii) and (iv) of this order, were produced by sources of renewable energy placed into service within 10 years prior to the start of the fiscal year;
+
+(v) “renewable electric energy” means energy produced by solar, wind, biomass, landfill gas, ocean (including tidal, wave, current, and thermal), geothermal, geothermal heat pumps, microturbines, municipal solid waste, or new hydroelectric generation capacity achieved from increased efficiency or additions of new capacity at an existing hydroelectric project;
+
+(w) “resilience” means the ability to anticipate, prepare for, and adapt to changing conditions and withstand, respond to, and recover rapidly from disruptions;
+
+(x) “scope 1, 2, and 3” mean:
+
+(i) scope 1: direct greenhouse gas emissions from sources that are owned or controlled by the agency;
+
+(ii) scope 2: direct greenhouse gas emissions resulting from the generation of electricity, heat, or steam purchased by an agency;
+
+(iii) scope 3: greenhouse gas emissions from sources not owned or directly controlled by an agency but related to agency activities such as vendor supply chains, delivery and transportation services, and employee travel and commuting;
+
+(y) “United States” means the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, and the Northern Mariana Islands, and associated territorial waters and airspace;
+
+(z) “water balance” means a comparison of the water supplied to a defined system to the water consumed by that system in order to identify the proportion of water consumed for specific end-uses and ensure potential water leaks in the system are addressed; and
+
+(aa) “zero emission vehicle” means a vehicle that produces zero exhaust emissions of any criteria pollutant (or precursor pollutant) or greenhouse gas under any possible operational modes or conditions.
+
+Sec. 20. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of OMB relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented in a manner consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.
+
+#### Ex. Ord. No. 13751. Safeguarding the Nation From the Impacts of Invasive Species
+Ex. Ord. No. 13751, Dec. 5, 2016, 81 F.R. 88609, provided:
+
+By the authority vested in me as President by the Constitution and to ensure the faithful execution of the laws of the United States of America, including the National Environmental Policy Act of 1969, as amended ([42 U.S.C. 4321](./chapter-055-national-environmental-policy.md#section-4321) et seq.), the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, ([16 U.S.C. 4701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4701&num=0&edition=prelim) et seq.), the Plant Protection Act ([7 U.S.C. 7701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7701&num=0&edition=prelim) et seq.), the Lacey Act, as amended ([18 U.S.C. 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section42&num=0&edition=prelim), [16 U.S.C. 3371–337](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3371–337&num=0&edition=prelim)8 et seq.), the Endangered Species Act of 1973, as amended ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.), the Noxious Weed Control and Eradication Act of 2004 ([7 U.S.C. 7781](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7781&num=0&edition=prelim) et seq.), and other pertinent statutes, to prevent the introduction of invasive species and provide for their control, and to minimize the economic, plant, animal, ecological, and human health impacts that invasive species cause, it is hereby ordered as follows:
+
+Section 1. Policy. It is the policy of the United States to prevent the introduction, establishment, and spread of invasive species, as well as to eradicate and control populations of invasive species that are established. Invasive species pose threats to prosperity, security, and quality of life. They have negative impacts on the environment and natural resources, agriculture and food production systems, water resources, human, animal, and plant health, infrastructure, the economy, energy, cultural resources, and military readiness. Every year, invasive species cost the United States billions of dollars in economic losses and other damages.
+
+Of substantial growing concern are invasive species that are or may be vectors, reservoirs, and causative agents of disease, which threaten human, animal, and plant health. The introduction, establishment, and spread of invasive species create the potential for serious public health impacts, especially when considered in the context of changing climate conditions. Climate change influences the establishment, spread, and impacts of invasive species.
+
+Executive Order 13112 of February 3, 1999 (Invasive Species), called upon executive departments and agencies to take steps to prevent the introduction and spread of invasive species, and to support efforts to eradicate and control invasive species that are established. Executive Order 13112 also created a coordinating body—the Invasive Species Council, also referred to as the National Invasive Species Council—to oversee implementation of the order, encourage proactive planning and action, develop recommendations for international cooperation, and take other steps to improve the Federal response to invasive species. Past efforts at preventing, eradicating, and controlling invasive species demonstrated that collaboration across Federal, State, local, tribal, and territorial government; stakeholders; and the private sector is critical to minimizing the spread of invasive species and that coordinated action is necessary to protect the assets and security of the United States.
+
+This order amends Executive Order 13112 and directs actions to continue coordinated Federal prevention and control efforts related to invasive species. This order maintains the National Invasive Species Council (Council) and the Invasive Species Advisory Committee; expands the membership of the Council; clarifies the operations of the Council; incorporates considerations of human and environmental health, climate change, technological innovation, and other emerging priorities into Federal efforts to address invasive species; and strengthens coordinated, cost-efficient Federal action.
+
+Sec. 2. Definitions. [Amended Ex. Ord. No. 13112, set out as a note above.]
+
+Sec. 3. Federal Agency Duties. [Amended Ex. Ord. No. 13112, set out as a note above.]
+
+Sec. 4. Emerging Priorities. Federal agencies that are members of the Council and Federal interagency bodies working on issues relevant to the prevention, eradication, and control of invasive species shall take emerging priorities into consideration, including:
+
+(a) Federal agencies shall consider the potential public health and safety impacts of invasive species, especially those species that are vectors, reservoirs, and causative agents of disease. The Department of Health and Human Services, in coordination and consultation with relevant agencies as appropriate, shall within 1 year of this order, and as requested by the Council thereafter, provide the Office of Science and Technology Policy and the Council a report on public health impacts associated with invasive species. That report shall describe the disease, injury, immunologic, and safety impacts associated with invasive species, including any direct and indirect impacts on low-income, minority, and tribal communities.
+
+(b) Federal agencies shall consider the impacts of climate change when working on issues relevant to the prevention, eradication, and control of invasive species, including in research and monitoring efforts, and integrate invasive species into Federal climate change coordinating frameworks and initiatives.
+
+(c) Federal agencies shall consider opportunities to apply innovative science and technology when addressing the duties identified in section 2 of Executive Order 13112, as amended, including, but not limited to, promoting open data and data analytics; harnessing technological advances in remote sensing technologies, molecular tools, cloud computing, and predictive analytics; and using tools such as challenge prizes, citizen science, and crowdsourcing.
+
+Sec. 5. National Invasive Species Council. [Amended Ex. Ord. No. 13112, set out as a note above.]
+
+Sec. 6. Duties of the National Invasive Species Council. [Amended Ex. Ord. No. 13112, set out as a note above.]
+
+Sec. 7. National Invasive Species Council Management Plan. [Amended Ex. Ord. No. 13112, set out as a note above.]
+
+Sec. 8. Actions of the Department of State and Department of Defense. [Amended Ex. Ord. No. 13112, set out as a note above.]
+
+Sec. 9. Obligations of the Department of Health and Human Services. [Amended Ex. Ord. No. 13112, set out as a note above.]
+
+Sec. 10. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(1) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(2) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.
+
 
 <a id="section-4332"></a>
 ## § 4332. Congressional declaration of national environmental policy
@@ -2146,29 +2169,14 @@ George W. Bush.
 
 
 <a id="section-4333"></a>
-## § 4333. Accelerated decisionmaking in environmental reviews
-**(a) In general** In preparing a final environmental impact statement under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](./chapter-055-national-environmental-policy.md#section-4321) et seq.), if the lead agency modifies the statement in response to comments that are minor and are confined to factual corrections or explanations of why the comments do not warrant additional agency response, the lead agency may write on errata sheets attached to the statement instead of rewriting the draft statement, subject to the condition that the errata sheets—
-
-(1) cite the sources, authorities, or reasons that support the position of the agency; and
-
-(2) if appropriate, indicate the circumstances that would trigger agency reappraisal or further response.
-
-**(b) Incorporation** To the maximum extent practicable, the lead agency shall expeditiously develop a single document that consists of a final environmental impact statement and a record of decision, unless—
-
-(1) the final environmental impact statement makes substantial changes to the proposed action that are relevant to environmental or safety concerns; or
-
-(2) there are significant new circumstances or information relevant to environmental concerns and that bear on the proposed action or the impacts of the proposed action.
+## § 4333. Repealed. Pub. L. 114–94, div. A, title I, § 1304(j)(2), Dec. 4, 2015, 129 Stat. 1386
 
 ### Statutory Notes
 
-#### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+Section, Pub. L. 112–141, div. A, title I, § 1319, July 6, 2012, 126 Stat. 551, related to accelerated decisionmaking in environmental reviews.
 
-#### Codification
-Section was enacted as part of the Moving Ahead for Progress in the 21st Century Act, also known as the MAP–21, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
-
-#### Effective Date
-Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+#### Effective Date of Repeal
+Repeal effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-4334"></a>
@@ -2723,7 +2731,7 @@ Section was enacted as part of the Environmental Research, Development, and Demo
 ### Statutory Notes
 
 #### References in Text
-The Older Americans Act of 1965, referred to in subsec. (a), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of this title. Title V of the Act, known as the “Community Service Senior Opportunities Act”, is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
+The Older Americans Act of 1965, referred to in subsec. (a), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218. Title V of the Act, known as the “Community Service Senior Opportunities Act”, is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (a), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Subsection D of title I of the Act is classified generally to part D (§ 3221 et seq.) of subchapter I of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
@@ -2987,3 +2995,805 @@ Level IV of the Executive Schedule, referred to in text, is set out under [secti
 
 #### Codification
 Section was enacted as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2009, and also as part of the Omnibus Appropriations Act, 2009, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+
+
+<a id="section-4370m"></a>
+## § 4370m. Availability of funds for facilities
+
+For fiscal year 2009 and thereafter, the Science and Technology, Environmental Programs and Management, Office of Inspector General, Hazardous Substance Superfund, and Leaking Underground Storage Tank Trust Fund Program Accounts, are available for the construction, alteration, repair, rehabilitation, and renovation of facilities provided that the cost does not exceed $85,000 per project.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2009, and also as part of the Omnibus Appropriations Act, 2009, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+
+
+<a id="section-4370m-1"></a>
+## § 4370m–1. Definitions
+
+In this subchapter:
+
+(1) **Agency** — The term “agency” has the meaning given the term in [section 551 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551&num=0&edition=prelim).
+
+(2) **Agency CERPO** — The term “agency CERPO” means the chief environmental review and permitting officer of an agency, as designated by the head of the agency under [section 4370m–1(b)(2)(A)(iii)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–1/b/2/A/iii/I&num=0&edition=prelim).
+
+(3) **Authorization** — The term “authorization” means any license, permit, approval, finding, determination, or other administrative decision issued by an agency that is required or authorized under Federal law in order to site, construct, reconstruct, or commence operations of a covered project administered by a Federal agency or, in the case of a State that chooses to participate in the environmental review and authorization process in accordance with [section 4370m–2(c)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–2/c/3/A&num=0&edition=prelim), a State agency.
+
+(4) **Cooperating agency** — The term “cooperating agency” means any agency with—
+
+  (A) jurisdiction under Federal law; or
+
+  (B) special expertise as described in section 1501.6 of title 40, Code of Federal Regulations (as in effect on December 4, 2015).
+
+(5) **Council** — The term “Council” means the Federal Infrastructure Permitting Improvement Steering Council 11 So in original. Probably should be “Federal Permitting Improvement Steering Council”. established under [section 4370m–1(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–1/a&num=0&edition=prelim).
+
+(6) **Covered project**
+
+  (A) *In general* — The term “covered project” means any activity in the United States that requires authorization or environmental review by a Federal agency involving construction of infrastructure for renewable or conventional energy production, electricity transmission, surface transportation, aviation, ports and waterways, water resource projects, broadband, pipelines, manufacturing, or any other sector as determined by a majority vote of the Council that—
+
+    (i)
+
+      (I) is subject to NEPA;
+
+      (II) is likely to require a total investment of more than $200,000,000; and
+
+      (III) does not qualify for abbreviated authorization or environmental review processes under any applicable law; or
+
+    (ii) is subject to NEPA and the size and complexity of which, in the opinion of the Council, make the project likely to benefit from enhanced oversight and coordination, including a project likely to require—
+
+      (I) authorization from or environmental review involving more than 2 Federal agencies; or
+
+      (II) the preparation of an environmental impact statement under NEPA.
+
+  (B) *Exclusion* — The term “covered project” does not include—
+
+    (i) any project subject to [section 139 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section139&num=0&edition=prelim); or
+
+    (ii) any project subject to [section 2348 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2348&num=0&edition=prelim).
+
+(7) **Dashboard** — The term “Dashboard” means the Permitting Dashboard required under [section 4370m–2(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–2/b&num=0&edition=prelim).
+
+(8) **Environmental assessment** — The term “environmental assessment” means a concise public document for which a Federal agency is responsible under section 1508.9 of title 40, Code of Federal Regulations (or successor regulations).
+
+(9) **Environmental document**
+
+  (A) *In general* — The term “environmental document” means an environmental assessment, finding of no significant impact, notice of intent, environmental impact statement, or record of decision.
+
+  (B) *Inclusions* — The term “environmental document” includes—
+
+    (i) any document that is a supplement to a document described in subparagraph (A); and
+
+    (ii) a document prepared pursuant to a court order.
+
+(10) **Environmental impact statement** — The term “environmental impact statement” means the detailed written statement required under section 102(2)(C) of NEPA [[42 U.S.C. 4332(2)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332/2/C&num=0&edition=prelim)].
+
+(11) **Environmental review** — The term “environmental review” means the agency procedures and processes for applying a categorical exclusion or for preparing an environmental assessment, an environmental impact statement, or other document required under NEPA.
+
+(12) **Executive Director** — The term “Executive Director” means the Executive Director appointed by the President under [section 4370m–1(b)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–1/b/1/A&num=0&edition=prelim).
+
+(13) **Facilitating agency** — The term “facilitating agency” means the agency that receives the initial notification from the project sponsor required under [section 4370m–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–2/a&num=0&edition=prelim).
+
+(14) **Inventory** — The term “inventory” means the inventory of covered projects established by the Executive Director under [section 4370m–1(c)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–1/c/1/A&num=0&edition=prelim).
+
+(15) **Lead agency** — The term “lead agency” means the agency with principal responsibility for an environmental review of a covered project under NEPA and parts 1500 through 1508 of title 40, Code of Federal Regulations (or successor regulations).
+
+(16) **NEPA** — The term “NEPA” means the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](./chapter-055-national-environmental-policy.md#section-4321) et seq.).
+
+(17) **Participating agency** — The term “participating agency” means an agency participating in an environmental review or authorization for a covered project in accordance with [section 4370m–2 of this title](./chapter-055-national-environmental-policy.md#section-4370m-2).
+
+(18) **Project sponsor** — The term “project sponsor” means an entity, including any private, public, or public-private entity, seeking an authorization for a covered project.
+
+### Statutory Notes
+
+#### References in Text
+The National Environmental Policy Act of 1969 or NEPA, referred to in pars. (6)(A), (11), and (15) and defined in (16), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+
+#### Codification
+Section was enacted as part of the Fixing America’s Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+
+#### Savings Clause
+Pub. L. 114–94, div. A, title XI, § 11503(b), Dec. 4, 2015, 129 Stat. 1692, provided that: “Except as expressly provided in section 41003(f) [[42 U.S.C. 4370m–2(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–2/f&num=0&edition=prelim)] and subsection (o) of [section 139 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section139&num=0&edition=prelim), United States Code, the requirements and other provisions of title 41 of this Act [probably means title XLI of div. D of Pub. L. 114–94, [42 U.S.C. 4370m](./chapter-055-national-environmental-policy.md#section-4370m) et seq.] shall not apply to— “(1) programs administered now and in the future by the Department of Transportation or its operating administrations under title 23, 46, or 49, United States Code, including direct loan and loan guarantee programs, or other Federal statutes or programs or projects administered by an agency pursuant to their authority under title 49, United States Code; or “(2) any project subject to section 2045 of the Water Resources Development Act of 2007 ([33 U.S.C. 2348](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2348&num=0&edition=prelim)).”
+
+#### Placement in United States Code
+Pub. L. 114–94, div. D, title XLI, § 41014, Dec. 4, 2015, 129 Stat. 1762, provided that: “The Office of the Law Revision Counsel is directed to place sections 41001 through 41013 of this title in chapter 55 of title 42, United States Code, as subchapter IV.”
+
+
+<a id="section-4370m-10"></a>
+## § 4370m–10. Application
+
+This subchapter applies to any covered project for which—
+
+(1) a notice is filed under [section 4370m–2(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–2/a/1&num=0&edition=prelim); or
+
+(2) an application or other request for a Federal authorization is pending before a Federal agency 90 days after December 4, 2015.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Fixing America’s Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+
+
+<a id="section-4370m-11"></a>
+## § 4370m–11. GAO report
+
+Not later than 3 years after December 4, 2015, the Comptroller General of the United States shall submit to Congress a report that includes an analysis of whether the provisions of this subchapter could be adapted to streamline the Federal permitting process for smaller projects that are not covered projects.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Fixing America’s Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+
+
+<a id="section-4370m-12"></a>
+## § 4370m–12. Savings provision
+
+Nothing in this subchapter amends the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](./chapter-055-national-environmental-policy.md#section-4321) et seq.).
+
+### Statutory Notes
+
+#### References in Text
+The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+
+#### Codification
+Section was enacted as part of the Fixing America’s Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+
+
+<a id="section-4370m-2"></a>
+## § 4370m–2. Federal Permitting Improvement Council
+**(a) Establishment** There is established the Federal Permitting Improvement Steering Council.
+
+**(b) Composition**
+
+(1) **Chair** — The Executive Director shall—
+
+  (A) be appointed by the President; and
+
+  (B) serve as Chair of the Council.
+
+(2) **Council members**
+
+  (A) *In general*
+
+    (i) *Designation by head of agency* — Each individual listed in subparagraph (B) shall designate a member of the agency in which the individual serves to serve on the Council.
+
+    (ii) *Qualifications* — A councilmem-ber 11 So in original. described in clause (i) shall hold a position in the agency of deputy secretary (or the equivalent) or higher.
+
+    (iii) *Support*
+
+      (I) *In general* — Consistent with guidance provided by the Director of the Office of Management and Budget, each individual listed in subparagraph (B) shall designate 1 or more appropriate members of the agency in which the individual serves to serve as an agency CERPO.
+
+      (II) *Reporting* — In carrying out the duties of the agency CERPO under this subchapter, an agency CERPO shall report directly to a deputy secretary (or the equivalent) or higher.
+
+  (B) *Heads of agencies* — The individuals that shall each designate a councilmember under this subparagraph are as follows:
+
+    (i) The Secretary of Agriculture.
+
+    (ii) The Secretary of the Army.
+
+    (iii) The Secretary of Commerce.
+
+    (iv) The Secretary of the Interior.
+
+    (v) The Secretary of Energy.
+
+    (vi) The Secretary of Transportation.
+
+    (vii) The Secretary of Defense.
+
+    (viii) The Administrator of the Environmental Protection Agency.
+
+    (ix) The Chairman of the Federal Energy Regulatory Commission.
+
+    (x) The Chairman of the Nuclear Regulatory Commission.
+
+    (xi) The Secretary of Homeland Security.
+
+    (xii) The Secretary of Housing and Urban Development.
+
+    (xiii) The Chairman of the Advisory Council on Historic Preservation.
+
+    (xiv) Any other head of a Federal agency that the Executive Director may invite to participate as a member of the Council.
+
+(3) **Additional members** — In addition to the members listed in paragraphs (1) and (2), the Chairman of the Council on Environmental Quality and the Director of the Office of Management and Budget shall also be members of the Council.
+
+**(c) Duties**
+
+(1) **Executive Director**
+
+  (A) *Inventory development* — The Executive Director, in consultation with the Council, shall—
+
+    (i) not later than 180 days after December 4, 2015, establish an inventory of covered projects that are pending the environmental review or authorization of the head of any Federal agency;
+
+    (ii)
+
+      (I) categorize the projects in the inventory as appropriate, based on sector and project type; and
+
+      (II) for each category, identify the types of environmental reviews and authorizations most commonly involved; and
+
+    (iii) add a covered project to the inventory after receiving a notice described in [section 4370m–2(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–2/a/1&num=0&edition=prelim).
+
+  (B) *Facilitating agency designation* — The Executive Director, in consultation with the Council, shall—
+
+    (i) designate a facilitating agency for each category of covered projects described in subparagraph (A)(ii); and
+
+    (ii) publish the list of designated facilitating agencies for each category of projects in the inventory on the Dashboard in an easily accessible format.
+
+  (C) *Performance schedules*
+
+    (i) *In general* — Not later than 1 year after December 4, 2015, the Executive Director, in consultation with the Council, shall develop recommended performance schedules, including intermediate and final completion dates, for environmental reviews and authorizations most commonly required for each category of covered projects described in subparagraph (A)(ii).
+
+    (ii) *Requirements*
+
+      (I) *In general* — The performance schedules shall reflect employment of the use of the most efficient applicable processes, including the alignment of Federal reviews of projects and reduction of permitting and project delivery time.
+
+      (II) *Limit*
+
+        (aa) *In general* — The final completion dates in any performance schedule for the completion of an environmental review or authorization under clause (i) shall not exceed the average time to complete an environmental review or authorization for a project within that category.
+
+        (bb) *Calculation of average time* — The average time referred to in item (aa) shall be calculated on the basis of data from the preceding 2 calendar years and shall run from the period beginning on the date on which the Executive Director must make a specific entry for the project on the Dashboard under [section 4370m–2(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–2/b/2&num=0&edition=prelim) (except that, for projects initiated before that duty takes effect, the period beginning on the date of filing of a completed application), and ending on the date of the issuance of a record of decision or other final agency action on the review or authorization.
+
+        (cc) *Completion date* — Each performance schedule shall specify that any decision by an agency on an environmental review or authorization must be issued not later than 180 days after the date on which all information needed to complete the review or authorization (including any hearing that an agency holds on the matter) is in the possession of the agency.
+
+    (iii) *Review and revision* — Not later than 2 years after the date on which the performance schedules are established under this subparagraph, and not less frequently than once every 2 years thereafter, the Executive Director, in consultation with the Council, shall review and revise the performance schedules.
+
+  (D) *Guidance* — The Executive Director, in consultation with the Council, may recommend to the Director of the Office of Management and Budget or to the Council on Environmental Quality, as appropriate, that guidance be issued as necessary for agencies—
+
+    (i) to carry out responsibilities under this subchapter; and
+
+    (ii) to effectuate the adoption by agencies of the best practices and recommendations of the Council described in paragraph (2).
+
+(2) **Council**
+
+  (A) *Recommendations*
+
+    (i) *In general* — The Council shall make recommendations to the Executive Director with respect to the designations under paragraph (1)(B) and the performance schedules under paragraph (1)(C).
+
+    (ii) *Update* — The Council may update the recommendations described in clause (i).
+
+  (B) *Best practices* — Not later than 1 year after December 4, 2015, and not less frequently than annually thereafter, the Council shall issue recommendations on the best practices for—
+
+    (i) enhancing early stakeholder engagement, including fully considering and, as appropriate, incorporating recommendations provided in public comments on any proposed covered project;
+
+    (ii) ensuring timely decisions regarding environmental reviews and authorizations, including through the development of performance metrics;
+
+    (iii) improving coordination between Federal and non-Federal governmental entities, including through the development of common data standards and terminology across agencies;
+
+    (iv) increasing transparency;
+
+    (v) reducing information collection requirements and other administrative burdens on agencies, project sponsors, and other interested parties;
+
+    (vi) developing and making available to applicants appropriate geographic information systems and other tools;
+
+    (vii) creating and distributing training materials useful to Federal, State, tribal, and local permitting officials; and
+
+    (viii) addressing other aspects of infrastructure permitting, as determined by the Council.
+
+  (C) *Meetings* — The Council shall meet not less frequently than annually with groups or individuals representing State, tribal, and local governments that are engaged in the infrastructure permitting process.
+
+(3) **Agency CERPOs** — An agency CERPO shall—
+
+  (A) advise the respective agency councilmember on matters related to environmental reviews and authorizations;
+
+  (B) provide technical support, when requested to facilitate efficient and timely processes for environmental reviews and authorizations for covered projects under the jurisdictional responsibility of the agency, including supporting timely identification and resolution of potential disputes within the agency or between the agency and other Federal agencies;
+
+  (C) analyze agency environmental review and authorization processes, policies, and authorities and make recommendations to the respective agency councilmember for ways to standardize, simplify, and improve the efficiency of the processes, policies, and authorities, including by implementing guidance issued under paragraph (1)(D) and other best practices, including the use of information technology and geographic information system tools within the agency and across agencies, to the extent consistent with existing law; and
+
+  (D) review and develop training programs for agency staff that support and conduct environmental reviews or authorizations.
+
+**(d) Administrative support** The Director of the Office of Management and Budget shall designate a Federal agency, other than an agency that carries out or provides support only for projects that are not covered projects, to provide administrative support for the Executive Director, and the designated agency shall, as reasonably necessary, provide support and staff to enable the Executive Director to fulfill the duties of the Executive Director under this subchapter.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Fixing America’s Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+
+
+<a id="section-4370m-3"></a>
+## § 4370m–3. Permitting process improvement
+**(a) Project initiation and designation of participating agencies**
+
+(1) **Notice**
+
+  (A) *In general* — A project sponsor of a covered project shall submit to the Executive Director and the facilitating agency notice of the initiation of a proposed covered project.
+
+  (B) *Default designation* — If, at the time of submission of the notice under subparagraph (A), the Executive Director has not designated a facilitating agency under [section 4370m–1(c)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–1/c/1/B&num=0&edition=prelim) for the categories of projects noticed, the agency that receives the notice under subparagraph (A) shall be designated as the facilitating agency.
+
+  (C) *Contents* — Each notice described in subparagraph (A) shall include—
+
+    (i) a statement of the purposes and objectives of the proposed project;
+
+    (ii) a concise description, including the general location of the proposed project and a summary of geospatial information, if available, illustrating the project area and the locations, if any, of environmental, cultural, and historic resources;
+
+    (iii) a statement regarding the technical and financial ability of the project sponsor to construct the proposed project;
+
+    (iv) a statement of any Federal financing, environmental reviews, and authorizations anticipated to be required to complete the proposed project; and
+
+    (v) an assessment that the proposed project meets the definition of a covered project under [section 4370m of this title](./chapter-055-national-environmental-policy.md#section-4370m) and a statement of reasons supporting the assessment.
+
+(2) **Invitation**
+
+  (A) *In general* — Not later than 45 days after the date on which the Executive Director must make a specific entry for the project on the Dashboard under subsection (b)(2)(A), the facilitating agency or lead agency, as applicable, shall—
+
+    (i) identify all Federal and non-Federal agencies and governmental entities likely to have financing, environmental review, authorization, or other responsibilities with respect to the proposed project; and
+
+    (ii) invite all Federal agencies identified under clause (i) to become a participating agency or a cooperating agency, as appropriate, in the environmental review and authorization management process described in [section 4370m–4 of this title](./chapter-055-national-environmental-policy.md#section-4370m-4).
+
+  (B) *Deadlines* — Each invitation made under subparagraph (A) shall include a deadline for a response to be submitted to the facilitating or lead agency, as applicable.
+
+(3) **Participating and cooperating agencies**
+
+  (A) *In general* — An agency invited under paragraph (2) shall be designated as a participating or cooperating agency for a covered project, unless the agency informs the facilitating or lead agency, as applicable, in writing before the deadline under paragraph (2)(B) that the agency—
+
+    (i) has no jurisdiction or authority with respect to the proposed project; or
+
+    (ii) does not intend to exercise authority related to, or submit comments on, the proposed project.
+
+  (B) *Changed circumstances* — On request and a showing of changed circumstances, the Executive Director may designate an agency that has opted out under subparagraph (A)(ii) to be a participating or cooperating agency, as appropriate.
+
+(4) **Effect of designation** — The designation described in paragraph (3) shall not—
+
+  (A) give the participating agency authority or jurisdiction over the covered project; or
+
+  (B) expand any jurisdiction or authority a cooperating agency may have over the proposed project.
+
+(5) **Lead agency designation**
+
+  (A) *In general* — On establishment of the lead agency, the lead agency shall assume the responsibilities of the facilitating agency under this subchapter.
+
+  (B) *Redesignation of facilitating agency* — If the lead agency assumes the responsibilities of the facilitating agency under subparagraph (A), the facilitating agency may be designated as a cooperative or participating agency.
+
+(6) **Change of facilitating or lead agency**
+
+  (A) *In general* — On the request of a participating agency or project sponsor, the Executive Director may designate a different agency as the facilitating or lead agency, as applicable, for a covered project, if the facilitating or lead agency or the Executive Director receives new information regarding the scope or nature of a covered project that indicates that the project should be placed in a different category under [section 4370m–1(c)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–1/c/1/B&num=0&edition=prelim).
+
+  (B) *Resolution of dispute* — The Chairman of the Council on Environmental Quality shall resolve any dispute over designation of a facilitating or lead agency for a particular covered project.
+
+**(b) Permitting dashboard**
+
+(1) **Requirement to maintain**
+
+  (A) *In general* — The Executive Director, in coordination with the Administrator of General Services, shall maintain an online database to be known as the “Permitting Dashboard” to track the status of Federal environmental reviews and authorizations for any covered project in the inventory described in [section 4370m–1(c)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–1/c/1/A&num=0&edition=prelim).
+
+  (B) *Specific and searchable entry* — The Dashboard shall include a specific and searchable entry for each covered project.
+
+(2) **Additions**
+
+  (A) *In general*
+
+    (i) *Existing projects* — Not later than 14 days after the date on which the Executive Director adds a project to the inventory under [section 4370m–1(c)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–1/c/1/A&num=0&edition=prelim), the Executive Director shall create a specific entry on the Dashboard for the covered project.
+
+    (ii) *New projects* — Not later than 14 days after the date on which the Executive Director receives a notice under subsection (a)(1), the Executive Director shall create a specific entry on the Dashboard for the covered project, unless the Executive Director, facilitating agency, or lead agency, as applicable, determines that the project is not a covered project.
+
+  (B) *Explanation* — If the facilitating agency or lead agency, as applicable, determines that the project is not a covered project, the project sponsor may submit a further explanation as to why the project is a covered project not later than 14 days after the date of the determination under subparagraph (A).
+
+  (C) *Final determination* — Not later than 14 days after receiving an explanation described in subparagraph (B), the Executive Director shall—
+
+    (i) make a final and conclusive determination as to whether the project is a covered project; and
+
+    (ii) if the Executive Director determines that the project is a covered project, create a specific entry on the Dashboard for the covered project.
+
+(3) **Postings by agencies**
+
+  (A) *In general* — For each covered project added to the Dashboard under paragraph (2), the facilitating or lead agency, as applicable, and each cooperating and participating agency shall post to the Dashboard—
+
+    (i) a hyperlink that directs to a website that contains, to the extent consistent with applicable law—
+
+      (I) the notification submitted under subsection (a)(1);
+
+      (II)
+
+        (aa) where practicable, the application and supporting documents, if applicable, that have been submitted by a project sponsor for any required environmental review or authorization; or
+
+        (bb) a notice explaining how the public may obtain access to such documents;
+
+      (III) a description of any Federal agency action taken or decision made that materially affects the status of a covered project;
+
+      (IV) any significant document that supports the action or decision described in subclause (III); and
+
+      (V) a description of the status of any litigation to which the agency is a party that is directly related to the project, including, if practicable, any judicial document made available on an electronic docket maintained by a Federal, State, or local court; and
+
+    (ii) any document described in clause (i) that is not available by hyperlink on another website.
+
+  (B) *Deadline* — The information described in subparagraph (A) shall be posted to the website made available by hyperlink on the Dashboard not later than 5 business days after the date on which the Federal agency receives the information.
+
+(4) **Postings by the Executive Director** — The Executive Director shall publish to the Dashboard—
+
+  (A) the permitting timetable established under subparagraph (A) or (C) of subsection (c)(2);
+
+  (B) the status of the compliance of each agency with the permitting timetable;
+
+  (C) any modifications of the permitting timetable;
+
+  (D) an explanation of each modification described in subparagraph (C); and
+
+  (E) any memorandum of understanding established under subsection (c)(3)(B).
+
+**(c) Coordination and timetables**
+
+(1) **Coordinated project plan**
+
+  (A) *In general* — Not later than 60 days after the date on which the Executive Director must make a specific entry for the project on the Dashboard under subsection (b)(2)(A), the facilitating or lead agency, as applicable, in consultation with each coordinating and participating agency, shall establish a concise plan for coordinating public and agency participation in, and completion of, any required Federal environmental review and authorization for the project.
+
+  (B) *Required information* — The Coordinated Project Plan shall include the following information and be updated by the facilitating or lead agency, as applicable, at least once per quarter:
+
+    (i) A list of, and roles and responsibilities for, all entities with environmental review or authorization responsibility for the project.
+
+    (ii) A permitting timetable, as described in paragraph (2), setting forth a comprehensive schedule of dates by which all environmental reviews and authorizations, and to the maximum extent practicable, State permits, reviews and approvals must be made.
+
+    (iii) A discussion of potential avoidance, minimization, and mitigation strategies, if required by applicable law and known.
+
+    (iv) Plans and a schedule for public and tribal outreach and coordination, to the extent required by applicable law.
+
+  (C) *Memorandum of understanding* — The coordinated project plan described in subparagraph (A) may be incorporated into a memorandum of understanding.
+
+(2) **Permitting timetable**
+
+  (A) *Establishment* — As part of the coordination project plan under paragraph (1), the facilitating or lead agency, as applicable, in consultation with each cooperating and participating agency, the project sponsor, and any State in which the project is located, and, subject to subparagraph (C), with the concurrence of each cooperating agency, shall establish a permitting timetable that includes intermediate and final completion dates for action by each participating agency on any Federal environmental review or authorization required for the project.
+
+  (B) *Factors for consideration* — In establishing the permitting timetable under subparagraph (A), the facilitating or lead agency shall follow the performance schedules established under [section 4370m–1(c)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–1/c/1/C&num=0&edition=prelim), but may vary the timetable based on relevant factors, including—
+
+    (i) the size and complexity of the covered project;
+
+    (ii) the resources available to each participating agency;
+
+    (iii) the regional or national economic significance of the project;
+
+    (iv) the sensitivity of the natural or historic resources that may be affected by the project;
+
+    (v) the financing plan for the project; and
+
+    (vi) the extent to which similar projects in geographic proximity to the project were recently subject to environmental review or similar procedures under State law.
+
+  (C) *Dispute resolution*
+
+    (i) *In general* — The Executive Director, in consultation with appropriate agency CERPOs and the project sponsor, shall, as necessary, mediate any disputes regarding the permitting timetable referred to under subparagraph (A).
+
+    (ii) *Disputes* — If a dispute remains unresolved 30 days after the date on which the dispute was submitted to the Executive Director, the Director of the Office of Management and Budget, in consultation with the Chairman of the Council on Environmental Quality, shall facilitate a resolution of the dispute and direct the agencies party to the dispute to resolve the dispute by the end of the 60-day period beginning on the date of submission of the dispute to the Executive Director.
+
+    (iii) *Final resolution* — Any action taken by the Director of the Office of Management and Budget in the resolution of a dispute under clause (ii) shall—
+
+      (I) be final and conclusive; and
+
+      (II) not be subject to judicial review.
+
+  (D) *Modification after approval*
+
+    (i) *In general* — The facilitating or lead agency, as applicable, may modify a permitting timetable established under subparagraph (A) only if—
+
+      (I) the facilitating or lead agency, as applicable, and the affected cooperating agencies, after consultation with the participating agencies and the project sponsor, agree to a different completion date;
+
+      (II) the facilitating agency or lead agency, as applicable, or the affected cooperating agency provides a written justification for the modification; and
+
+      (III) in the case of a modification that would necessitate an extension of a final completion date under a permitting timetable established under subparagraph (A) to a date more than 30 days after the final completion date originally established under subparagraph (A), the facilitating or lead agency submits a request to modify the permitting timetable to the Executive Director, who shall consult with the project sponsor and make a determination on the record, based on consideration of the relevant factors described under subparagraph (B), whether to grant the facilitating or lead agency, as applicable, authority to make such modification.
+
+    (ii) *Completion date* — A completion date in the permitting timetable may not be modified within 30 days of the completion date.
+
+    (iii) *Limitation on length of modifications*
+
+      (I) *In general* — Except as provided in subclause (II), the total length of all modifications to a permitting timetable authorized or made under this subparagraph, other than for reasons outside the control of Federal, State, local, or tribal governments, may not extend the permitting timetable for a period of time greater than half of the amount of time from the establishment of the permitting timetable under subparagraph (A) to the last final completion date originally established under subparagraph (A).
+
+      (II) *Additional extensions* — The Director of the Office of Management and Budget, after consultation with the project sponsor, may permit the Executive Director to authorize additional extensions of a permitting timetable beyond the limit prescribed by subclause (I). In such a case, the Director of the Office of Management and Budget shall transmit, not later than 5 days after making a determination to permit an authorization of extension under this subclause, a report to Congress explaining why such modification is required. Such report shall explain to Congress with specificity why the original permitting timetable and the modifications authorized by the Executive Director failed to be adequate. The lead or facilitating agency, as applicable, shall transmit to Congress, the Director of the Office of Management and Budget, and the Executive Director a supplemental report on progress toward the final completion date each year thereafter, until the permit review is completed or the project sponsor withdraws its notice or application or other request to which this subchapter applies under [section 4370m–9 of this title](./chapter-055-national-environmental-policy.md#section-4370m-9).
+
+    (iv) *Limitation on judicial review* — The following shall not be subject to judicial review:
+
+      (I) A determination by the Executive Director under clause (i)(III).
+
+      (II) A determination under clause (iii)(II) by the Director of the Office of Management and Budget to permit the Executive Director to authorize extensions of a permitting timetable.
+
+  (E) *Consistency with other time periods* — A permitting timetable established under subparagraph (A) shall be consistent with any other relevant time periods established under Federal law and shall not prevent any cooperating or participating agency from discharging any obligation under Federal law in connection with the project.
+
+  (F) *Conforming to permitting timetables*
+
+    (i) *In general* — Each Federal agency shall conform to the completion dates set forth in the permitting timetable established under subparagraph (A), or with any completion date modified under subparagraph (D).
+
+    (ii) *Failure to conform* — If a Federal agency fails to conform with a completion date for agency action on a covered project or is at significant risk of failing to conform with such a completion date, the agency shall—
+
+      (I) promptly submit to the Executive Director for publication on the Dashboard an explanation of the specific reasons for failing or significantly risking failing to conform to the completion date and a proposal for an alternative completion date;
+
+      (II) in consultation with the facilitating or lead agency, as applicable, establish an alternative completion date; and
+
+      (III) each month thereafter until the agency has taken final action on the delayed authorization or review, submit to the Executive Director for posting on the Dashboard a status report describing any agency activity related to the project.
+
+  (G) *Abandonment of covered project*
+
+    (i) *In general* — If the facilitating or lead agency, as applicable, has a reasonable basis to doubt the continuing technical or financial ability of the project sponsor to construct the covered project, the facilitating or lead agency may request the project sponsor provide an updated statement regarding the ability of the project sponsor to complete the project.
+
+    (ii) *Failure to respond* — If the project sponsor fails to respond to a request described in clause (i) by the date that is 30 days after receiving the request, the lead or facilitating agency, as applicable, shall notify the Executive Director, who shall publish an appropriate notice on the Dashboard.
+
+    (iii) *Publication to Dashboard* — On publication of a notice under clause (ii), the completion dates in the permitting timetable shall be tolled and agencies shall be relieved of the obligation to comply with subparagraph (F) until such time as the project sponsor submits to the facilitating or lead agency, as applicable, an updated statement regarding the technical and financial ability of the project sponsor to construct the project.
+
+(3) **Cooperating State, local, or tribal governments**
+
+  (A) *State authority* — If the Federal environmental review is being implemented within the boundaries of a State, the State, consistent with State law, may choose to participate in the environmental review and authorization process under this subsection and to make subject to the process all State agencies that—
+
+    (i) have jurisdiction over the covered project;
+
+    (ii) are required to conduct or issue a review, analysis, opinion, or statement for the covered project; or
+
+    (iii) are required to make a determination on issuing a permit, license, or other approval or decision for the covered project.
+
+  (B) *Coordination* — To the maximum extent practicable under applicable law, the facilitating or lead agency, as applicable, shall coordinate the Federal environmental review and authorization processes under this subsection with any State, local, or tribal agency responsible for conducting any separate review or authorization of the covered project to ensure timely and efficient completion of environmental reviews and authorizations.
+
+  (C) *Memorandum of understanding*
+
+    (i) *In general* — Any coordination plan between the facilitating or lead agency, as applicable, and any State, local, or tribal agency shall, to the maximum extent practicable, be included in a memorandum of understanding.
+
+    (ii) *Submission to Executive Director* — The facilitating or lead agency, as applicable, shall submit to the Executive Director each memorandum of understanding described in clause (i).
+
+  (D) *Applicability* — The requirements under this subchapter shall only apply to a State or an authorization issued by a State if the State has chosen to participate in the environmental review and authorization process pursuant to this paragraph.
+
+**(d) Early consultation** The facilitating or lead agency, as applicable, shall provide an expeditious process for project sponsors to confer with each cooperating and participating agency involved and, not later than 60 days after the date on which the project sponsor submits a request under this subsection, to have each such agency provide to the project sponsor information concerning—
+
+(1) the availability of information and tools, including pre-application toolkits, to facilitate early planning efforts;
+
+(2) key issues of concern to each agency and to the public; and
+
+(3) issues that must be addressed before an environmental review or authorization can be completed.
+
+**(e) Cooperating agency**
+
+(1) **In general** — A lead agency may designate a participating agency as a cooperating agency in accordance with part 1501 of title 40, Code of Federal Regulations (or successor regulations).
+
+(2) **Effect on other designation** — The designation described in paragraph (1) shall not affect any designation under subsection (a)(3).
+
+(3) **Limitation on designation** — Any agency not designated as a participating agency under subsection (a)(3) shall not be designated as a cooperating agency under paragraph (1).
+
+**(f) Reporting status of other projects on Dashboard**
+
+(1) **In general** — On request of the Executive Director, the Secretary and the Secretary of the Army shall use best efforts to provide information for inclusion on the Dashboard on projects subject to [section 139 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section139&num=0&edition=prelim) and [section 2348 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2348&num=0&edition=prelim) likely to require—
+
+  (A) a total investment of more than $200,000,000; and
+
+  (B) an environmental impact statement under NEPA.
+
+(2) **Effect of inclusion on Dashboard** — Inclusion on the Dashboard of information regarding projects subject to [section 139 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section139&num=0&edition=prelim) or [section 2348 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2348&num=0&edition=prelim) shall not subject those projects to any requirements of this subchapter.
+
+### Statutory Notes
+
+#### References in Text
+NEPA, referred to in subsec. (f)(1)(B), means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to this chapter. See [section 4370m(16) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m/16&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+
+#### Codification
+Section was enacted as part of the Fixing America’s Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+
+
+<a id="section-4370m-4"></a>
+## § 4370m–4. Interstate compacts
+**(a) In general** The consent of Congress is given for 3 or more contiguous States to enter into an interstate compact establishing regional infrastructure development agencies to facilitate authorization and review of covered projects, under State law or in the exercise of delegated permitting authority described under [section 4370m–5 of this title](./chapter-055-national-environmental-policy.md#section-4370m-5), that will advance infrastructure development, production, and generation within the States that are parties to the compact.
+
+**(b) Regional infrastructure** For the purpose of this subchapter, a regional infrastructure development agency referred to in subsection (a) shall have the same authorities and responsibilities of a State agency.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Fixing America’s Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+
+
+<a id="section-4370m-5"></a>
+## § 4370m–5. Coordination of required reviews
+**(a) Concurrent reviews** To integrate environmental reviews and authorizations, each agency shall, to the maximum extent practicable—
+
+(1) carry out the obligations of the agency with respect to a covered project under any other applicable law concurrently, and in conjunction with, other environmental reviews and authorizations being conducted by other cooperating or participating agencies, including environmental reviews and authorizations required under NEPA, unless the agency determines that doing so would impair the ability of the agency to carry out the statutory obligations of the agency; and
+
+(2) formulate and implement administrative, policy, and procedural mechanisms to enable the agency to ensure completion of the environmental review process in a timely, coordinated, and environmentally responsible manner.
+
+**(b) Adoption, incorporation by reference, and use of documents**
+
+(1) **11 So in original. No par. (2) has been enacted. State environmental documents; supplemental documents**
+
+  (A) *Use of existing documents*
+
+    (i) *In general* — On the request of a project sponsor, a lead agency shall consider and, as appropriate, adopt or incorporate by reference, the analysis and documentation that has been prepared for a covered project under State laws and procedures as the documentation, or part of the documentation, required to complete an environmental review for the covered project, if the analysis and documentation were, as determined by the lead agency in consultation with the Council on Environmental Quality, prepared under circumstances that allowed for opportunities for public participation and consideration of alternatives, environmental consequences, and other required analyses that are substantially equivalent to what would have been available had the documents and analysis been prepared by a Federal agency pursuant to NEPA.
+
+    (ii) *Guidance by CEQ* — The Council on Environmental Quality may issue guidance to carry out this subsection.
+
+  (B) *NEPA obligations* — An environmental document adopted under subparagraph (A) or a document that includes documentation incorporated under subparagraph (A) may serve as the documentation required for an environmental review or a supplemental environmental review required to be prepared by a lead agency under NEPA.
+
+  (C) *Supplementation of State documents* — If the lead agency adopts or incorporates analysis and documentation described in subparagraph (A), the lead agency shall prepare and publish a supplemental document if the lead agency determines that during the period after preparation of the analysis and documentation and before the adoption or incorporation—
+
+    (i) a significant change has been made to the covered project that is relevant for purposes of environmental review of the project; or
+
+    (ii) there has been a significant circumstance or new information has emerged that is relevant to the environmental review for the covered project.
+
+  (D) *Comments* — If a lead agency prepares and publishes a supplemental document under subparagraph (C), the lead agency shall solicit comments from other agencies and the public on the supplemental document for a period of not more than 45 days, beginning on the date on which the supplemental document is published, unless—
+
+    (i) the lead agency, the project sponsor, and any cooperating agency agree to a longer deadline; or
+
+    (ii) the lead agency extends the deadline for good cause.
+
+  (E) *Notice of outcome of environmental review* — A lead agency shall issue a record of decision or finding of no significant impact, as appropriate, based on the document adopted under subparagraph (A) and any supplemental document prepared under subparagraph (C).
+
+**(c) Alternatives analysis**
+
+(1) **Participation**
+
+  (A) *In general* — As early as practicable during the environmental review, but not later than the commencement of scoping for a project requiring the preparation of an environmental impact statement, the lead agency shall engage the cooperating agencies and the public to determine the range of reasonable alternatives to be considered for a covered project.
+
+  (B) *Determination* — The determination under subparagraph (A) shall be completed not later than the completion of scoping.
+
+(2) **Range of alternatives**
+
+  (A) *In general* — Following participation under paragraph (1) and subject to subparagraph (B), the lead agency shall determine the range of reasonable alternatives for consideration in any document that the lead agency is responsible for preparing for the covered project.
+
+  (B) *Alternatives required by law* — In determining the range of alternatives under subparagraph (A), the lead agency shall include all alternatives required to be considered by law.
+
+(3) **Methodologies**
+
+  (A) *In general* — The lead agency shall determine, in collaboration with each cooperating agency at appropriate times during the environmental review, the methodologies to be used and the level of detail required in the analysis of each alternative for a covered project.
+
+  (B) *Environmental review* — A cooperating agency shall use the methodologies referred to in subparagraph (A) when conducting any required environmental review, to the extent consistent with existing law.
+
+(4) **Preferred alternative** — With the concurrence of the cooperating agencies with jurisdiction under Federal law and at the discretion of the lead agency, the preferred alternative for a project, after being identified, may be developed to a higher level of detail than other alternatives to facilitate the development of mitigation measures or concurrent compliance with other applicable laws if the lead agency determines that the development of the higher level of detail will not prevent—
+
+  (A) the lead agency from making an impartial decision as to whether to accept another alternative that is being considered in the environmental review; and
+
+  (B) the public from commenting on the preferred and other alternatives.
+
+**(d) Environmental review comments**
+
+(1) **Comments on draft environmental impact statement** — For comments by an agency or the public on a draft environmental impact statement, the lead agency shall establish a comment period of not less than 45 days and not more than 60 days after the date on which a notice announcing availability of the environmental impact statement is published in the Federal Register, unless—
+
+  (A) the lead agency, the project sponsor, and any cooperating agency agree to a longer deadline; or
+
+  (B) the lead agency, in consultation with each cooperating agency, extends the deadline for good cause.
+
+(2) **Other review and comment periods** — For all other review or comment periods in the environmental review process described in parts 1500 through 1508 of title 40, Code of Federal Regulations (or successor regulations), the lead agency shall establish a comment period of not more than 45 days after the date on which the materials on which comment is requested are made available, unless—
+
+  (A) the lead agency, the project sponsor, and any cooperating agency agree to a longer deadline; or
+
+  (B) the lead agency extends the deadline for good cause.
+
+**(e) Issue identification and resolution**
+
+(1) **Cooperation** — The lead agency and each cooperating and participating agency shall work cooperatively in accordance with this section to identify and resolve issues that could delay completion of an environmental review or an authorization required for the project under applicable law or result in the denial of any approval under applicable law.
+
+(2) **Lead agency responsibilities**
+
+  (A) *In general* — The lead agency shall make information available to each cooperating and participating agency and project sponsor as early as practicable in the environmental review regarding the environmental, historic, and socioeconomic resources located within the project area and the general locations of the alternatives under consideration.
+
+  (B) *Sources of information* — The information described in subparagraph (A) may be based on existing data sources, including geographic information systems mapping.
+
+(3) **Cooperating and participating agency responsibilities** — Each cooperating and participating agency shall—
+
+  (A) identify, as early as practicable, any issues of concern regarding any potential environmental impacts of the covered project, including any issues that could substantially delay or prevent an agency from completing any environmental review or authorization required for the project; and
+
+  (B) communicate any issues described in subparagraph (A) to the project sponsor.
+
+**(f) Categories of projects** The authorities granted under this section may be exercised for an individual covered project or a category of covered projects.
+
+### Statutory Notes
+
+#### References in Text
+NEPA, referred to in subsecs. (a)(1) and (b)(1)(A)(i), (B), means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to this chapter. See [section 4370m(16) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m/16&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+
+#### Codification
+Section was enacted as part of the Fixing America’s Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+
+
+<a id="section-4370m-6"></a>
+## § 4370m–6. Delegated State permitting programs
+**(a) In general** If a Federal statute permits a Federal agency to delegate to or otherwise authorize a State to issue or otherwise administer a permit program in lieu of the Federal agency, the Federal agency with authority to carry out the statute shall—
+
+(1) on publication by the Council of best practices under [section 4370m–1(c)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–1/c/2/B&num=0&edition=prelim), initiate a national process, with public participation, to determine whether and the extent to which any of the best practices are generally applicable on a delegation- or authorization-wide basis to permitting under the statute; and
+
+(2) not later than 2 years after December 4, 2015, make model recommendations for State modifications of the applicable permit program to reflect the best practices described in [section 4370m–1(c)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–1/c/2/B&num=0&edition=prelim), as appropriate.
+
+**(b) Best practices** Lead and cooperating agencies may share with State, tribal, and local authorities best practices involved in review of covered projects and invite input from State, tribal, and local authorities regarding best practices.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Fixing America’s Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+
+
+<a id="section-4370m-7"></a>
+## § 4370m–7. Litigation, judicial review, and savings provision
+**(a) Limitations on claims**
+
+(1) **In general** — Notwithstanding any other provision of law, a claim arising under Federal law seeking judicial review of any authorization issued by a Federal agency for a covered project shall be barred unless—
+
+  (A) the action is filed not later than 2 years after the date of publication in the Federal Register of the final record of decision or approval or denial of a permit, unless a shorter time is specified in the Federal law under which judicial review is allowed; and
+
+  (B) in the case of an action pertaining to an environmental review conducted under NEPA—
+
+    (i) the action is filed by a party that submitted a comment during the environmental review; and
+
+    (ii) any commenter filed a sufficiently detailed comment so as to put the lead agency on notice of the issue on which the party seeks judicial review, or the lead agency did not provide a reasonable opportunity for such a comment on that issue.
+
+(2) **New information**
+
+  (A) *In general* — The head of a lead agency or participating agency shall consider new information received after the close of a comment period if the information satisfies the requirements under regulations implementing NEPA.
+
+  (B) *Separate action* — If Federal law requires the preparation of a supplemental environmental impact statement or other supplemental environmental document, the preparation of such document shall be considered a separate final agency action and the deadline for filing a claim for judicial review of the agency action shall be 2 years after the date on which a notice announcing the final agency action is published in the Federal Register, unless a shorter time is specified in the Federal law under which judicial review is allowed.
+
+(3) **Rule of construction** — Nothing in this subsection creates a right to judicial review or places any limit on filing a claim that a person has violated the terms of an authorization.
+
+**(b) Preliminary injunctive relief** In addition to considering any other applicable equitable factors, in any action seeking a temporary restraining order or preliminary injunction against an agency or a project sponsor in connection with review or authorization of a covered project, the court shall—
+
+(1) consider the potential effects on public health, safety, and the environment, and the potential for significant negative effects on jobs resulting from an order or injunction; and
+
+(2) not presume that the harms described in paragraph (1) are reparable.
+
+**(c) Judicial review** Except as provided in subsection (a), nothing in this subchapter affects the reviewability of any final Federal agency action in a court of competent jurisdiction.
+
+**(d) Savings clause** Nothing in this subchapter—
+
+(1) supersedes, amends, or modifies any Federal statute or affects the responsibility of any Federal officer to comply with or enforce any statute; or
+
+(2) creates a presumption that a covered project will be approved or favorably reviewed by any agency.
+
+**(e) Limitations** Nothing in this section preempts, limits, or interferes with—
+
+(1) any practice of seeking, considering, or responding to public comment; or
+
+(2) any power, jurisdiction, responsibility, or authority that a Federal, State, or local governmental agency, metropolitan planning organization, Indian tribe, or project sponsor has with respect to carrying out a project or any other provisions of law applicable to any project, plan, or program.
+
+### Statutory Notes
+
+#### References in Text
+NEPA, referred to in subsec. (a)(1)(B), (2)(A), means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to this chapter. See [section 4370m(16) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m/16&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+
+#### Codification
+Section was enacted as part of the Fixing America’s Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+
+
+<a id="section-4370m-8"></a>
+## § 4370m–8. Reports
+**(a) Report to Congress**
+
+(1) **In general** — Not later than April 15 of each year for 10 years beginning on December 4, 2015, the Executive Director shall submit to Congress a report detailing the progress accomplished under this subchapter during the previous fiscal year.
+
+(2) **Contents** — The report described in paragraph (1) shall assess the performance of each participating agency and lead agency based on the best practices described in [section 4370m–1(c)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–1/c/2/B&num=0&edition=prelim), including—
+
+  (A) agency progress in making improvements consistent with those best practices; and
+
+  (B) agency compliance with the performance schedules established under [section 4370m–1(c)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–1/c/1/C&num=0&edition=prelim).
+
+(3) **Opportunity to include comments** — Each councilmember, with input from the respective agency CERPO, shall have the opportunity to include comments concerning the performance of the agency in the report described in paragraph (1).
+
+**(b) Comptroller general report** Not later than 3 years after December 4, 2015, the Comptroller General of the United States shall submit to Congress a report that describes—
+
+(1) agency progress in making improvements consistent with the best practices issued under [section 4370m–1(c)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–1/c/2/B&num=0&edition=prelim); and
+
+(2) agency compliance with the performance schedules established under [section 4370m–1(c)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–1/c/1/C&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Fixing America’s Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+
+
+<a id="section-4370m-9"></a>
+## § 4370m–9. Funding for governance, oversight, and processing of environmental reviews and permits
+**(a) In general** The heads of agencies listed in [section 4370m–1(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–1/b/2/B&num=0&edition=prelim), with the guidance of the Director of the Office of Management and Budget and in consultation with the Executive Director, may, after public notice and opportunity for comment, issue regulations establishing a fee structure for project proponents to reimburse the United States for reasonable costs incurred in conducting environmental reviews and authorizations for covered projects.
+
+**(b) Reasonable costs** As used in this section, the term “reasonable costs” shall include costs to implement the requirements and authorities required under sections 4370m–1 and 4370m–2 of this title, including the costs to agencies and the costs of operating the Council.
+
+**(c) Fee structure** The fee structure established under subsection (a) shall—
+
+(1) be developed in consultation with affected project proponents, industries, and other stakeholders;
+
+(2) exclude parties for which the fee would impose an undue financial burden or is otherwise determined to be inappropriate; and
+
+(3) be established in a manner that ensures that the aggregate amount of fees collected for a fiscal year is estimated not to exceed 20 percent of the total estimated costs for the fiscal year for the resources allocated for the conduct of the environmental reviews and authorizations covered by this subchapter, as determined by the Director of the Office of Management and Budget.
+
+**(d) Environmental Review and Permitting Improvement Fund**
+
+(1) **In general** — All amounts collected pursuant to this section shall be deposited into a separate fund in the Treasury of the United States to be known as the “Environmental Review Improvement Fund” (referred to in this section as the “Fund”).
+
+(2) **Availability** — Amounts in the Fund shall be available to the Executive Director, without appropriation or fiscal year limitation, solely for the purposes of administering, implementing, and enforcing this subchapter, including the expenses of the Council.
+
+(3) **Transfer** — The Executive Director, with the approval of the Director of the Office of Management and Budget, may transfer amounts in the Fund to other agencies to facilitate timely and efficient environmental reviews and authorizations for proposed covered projects.
+
+**(e) Effect on permitting** The regulations adopted pursuant to subsection (a) shall ensure that the use of funds accepted under subsection (d) will not impact impartial decision-making with respect to environmental reviews or authorizations, either substantively or procedurally.
+
+**(f) Transfer of appropriated funds**
+
+(1) **In general** — The heads of agencies listed in [section 4370m–1(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–1/b/2/B&num=0&edition=prelim) shall have the authority to transfer, in accordance with [section 1535 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim), funds appropriated to those agencies and not otherwise obligated to other affected Federal agencies for the purpose of implementing the provisions of this subchapter.
+
+(2) **Limitation** — Appropriations under title 23 and appropriations for the civil works program of the Army Corps of Engineers shall not be available for transfer under paragraph (1).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Fixing America’s Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.

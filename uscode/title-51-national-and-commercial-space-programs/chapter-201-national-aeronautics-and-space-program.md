@@ -316,6 +316,8 @@ Sec. 8. Report. The Council shall submit an annual report setting forth its asse
 
 (2) if the Administration considers that a claim in excess of $25,000 is meritorious and would otherwise be covered by this subsection, to report the facts and circumstances to Congress for its consideration.
 
+**(n) Identification of Government Astronauts.—** For purposes of a license issued or transferred by the Secretary of Transportation under chapter 509 to launch a launch vehicle or to reenter a reentry vehicle carrying a government astronaut (as defined in section 50902), the Administration shall designate a government astronaut in accordance with requirements prescribed by the Administration.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -339,6 +341,12 @@ In subsection (k)(1), the words “[section 1302 of title 40](https://uscode.hou
 Level III of the Executive Schedule, referred to in subsec. (b)(1), is set out in [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees.
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(4), is act June 30, 1949, ch. 288, 63 Stat. 377. Title III of the Act was classified generally to subchapter IV (§ 251 et seq.) of chapter 4 of former Title 41, Public Contracts, and was substantially repealed and restated in division C (§ 3101 et seq.) of subtitle I of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1949 Act note set out under [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim) and Tables. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim).
+
+#### Amendments
+2015—Subsec. (n). Pub. L. 114–90 added subsec. (n).
+
+#### Sense of Congress
+Pub. L. 114–90, title I, § 112(b), Nov. 25, 2015, 129 Stat. 711, provided that: “The National Aeronautics and Space Administration has a need to fly government astronauts (as defined in [section 50902 of title 51](./chapter-509-commercial-space-launch-activities.md#section-50902), United States Code, as amended) within commercial launch vehicles and reentry vehicles under chapter 509 of that title. This need was identified by the Secretary of Transportation and the Administrator of the National Aeronautics and Space Administration due to the intended use of commercial launch vehicles and reentry vehicles developed under the Commercial Crew Development Program, authorized in section 402 of the National Aeronautics and Space Administration Authorization Act of 2010 (124 Stat. 2820; Public Law 111–267). It is the sense of Congress that the authority delegated to the Administration by the amendment made by subsection (d) of this section [amending this section] should be used for that purpose.”
 
 #### Purchase of American-Made Equipment and Products
 Pub. L. 106–391, title III, § 319, Oct. 30, 2000, 114 Stat. 1597, provided that: “(a) Purchase of American-Made Equipment and Products.—In the case of any equipment or products that may be authorized to be purchased with financial assistance provided under this Act [see Tables for classification], it is the sense of the Congress that entities receiving such assistance should, in expending the assistance, purchase only American-made equipment and products. “(b) Notice to Recipients of Assistance.—In providing financial assistance under this Act, the Administrator [of the National Aeronautics and Space Administration] shall provide to each recipient of the assistance a notice describing the statement made in subsection (a) by the Congress.”
@@ -999,9 +1007,11 @@ In subsection (g), the words “10 years after December 26, 2007” are substitu
 2011—Subsec. (b)(1). Pub. L. 112–55 designated existing provisions as subpar. (A) and added subpar. (B).
 
 #### Deposit of Proceeds
-Pub. L. 113–6, div. B, title III, Mar. 26, 2013, 127 Stat. 263, provided in part: “That hereafter, notwithstanding section 315 of the National Aeronautics and Space Act of 1958 ([now] [51 U.S.C. 20145](./chapter-201-national-aeronautics-and-space-program.md#section-20145)), all proceeds from leases entered into under that section shall be deposited into this account [funds appropriated under the headings ‘National Aeronautics and Space Administration’ and ‘construction and environmental compliance and restoration’ of title III of div. B of Pub. L. 113–6]: Provided further, That such proceeds shall be available for a period of 5 years to the extent and in amounts as provided in annual appropriations Acts”.
+Pub. L. 113–6, div. B, title III, Mar. 26, 2013, 127 Stat. 263, provided in part: “That hereafter, notwithstanding section 315 of the National Aeronautics and Space Act of 1958 (see [51 U.S.C. 20145](./chapter-201-national-aeronautics-and-space-program.md#section-20145)), all proceeds from leases entered into under that section shall be deposited into this account [funds appropriated under the headings ‘National Aeronautics and Space Administration’ and ‘construction and environmental compliance and restoration’ of title III of div. B of Pub. L. 113–6]: Provided further, That such proceeds shall be available for a period of 5 years to the extent and in amounts as provided in annual appropriations Acts”.
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 114–113, div. B, title III, Dec. 18, 2015, 129 Stat. 2317.
 
 Pub. L. 113–235, div. B, title III, Dec. 16, 2014, 128 Stat. 2203.
 

@@ -166,7 +166,7 @@ Pub. L. 101–121, title I, § 118, Oct. 23, 1989, 103 Stat. 722, provided that:
 
 (6) A Commissioner may only be removed from office before the expiration of the term of office of the member by the President (or, in the case of associate member, by the Secretary) for neglect of duty, or malfeasance in office, or for other good cause shown.
 
-**(c) Vacancies** Vacancies occurring on the Commission shall be filled in the same manner as the original appointment. A member may serve after the expiration of his term of office until his successor has been appointed, unless the member has been removed for cause under subsection (b)(6) of this section.
+**(c) Vacancies** Vacancies occurring on the Commission shall be filled in the same manner as the original appointment. A member may serve after the expiration of his term of office until his successor has been appointed, unless the member has been removed for cause under subsection (b)(6).
 
 **(d) Quorum** Two members of the Commission, at least one of which is the Chairman or Vice Chairman, shall constitute a quorum.
 
@@ -384,7 +384,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 (1) The Commission may consult with appropriate law enforcement officials concerning gaming licenses issued by an Indian tribe and shall have thirty days to notify the Indian tribe of any objections to issuance of such license.
 
-(2) If, after the issuance of a gaming license by an Indian tribe, reliable information is received from the Commission indicating that a primary management official or key employee does not meet the standard established under subsection (b)(2)(F)(ii)(II) of this section, the Indian tribe shall suspend such license and, after notice and hearing, may revoke such license.
+(2) If, after the issuance of a gaming license by an Indian tribe, reliable information is received from the Commission indicating that a primary management official or key employee does not meet the standard established under subsection (b)(2)(F)(ii)(II), the Indian tribe shall suspend such license and, after notice and hearing, may revoke such license.
 
 (3) Any Indian tribe which operates a class II gaming activity and which—
 
@@ -417,7 +417,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
   (A) the tribe shall not be subject to the provisions of paragraphs (1), (2), (3), and (4) of [section 2706(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2706/b&num=0&edition=prelim);
 
-  (B) the tribe shall continue to submit an annual independent audit as required by subsection (b)(2)(C) of this section and shall submit to the Commission a complete resume on all employees hired and licensed by the tribe subsequent to the issuance of a certificate of self-regulation; and
+  (B) the tribe shall continue to submit an annual independent audit as required by subsection (b)(2)(C) and shall submit to the Commission a complete resume on all employees hired and licensed by the tribe subsequent to the issuance of a certificate of self-regulation; and
 
   (C) the Commission may not assess a fee on such activity pursuant to [section 2717 of this title](./chapter-029-indian-gaming-regulation.md#section-2717) in excess of one quarter of 1 per centum of the gross revenue.
 
@@ -431,7 +431,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
     (i) is adopted by the governing body of the Indian tribe having jurisdiction over such lands,
 
-    (ii) meets the requirements of subsection (b) of this section, and
+    (ii) meets the requirements of subsection (b), and
 
     (iii) is approved by the Chairman,
 
@@ -441,7 +441,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 (2)
 
-  (A) If any Indian tribe proposes to engage in, or to authorize any person or entity to engage in, a class III gaming activity on Indian lands of the Indian tribe, the governing body of the Indian tribe shall adopt and submit to the Chairman an ordinance or resolution that meets the requirements of subsection (b) of this section.
+  (A) If any Indian tribe proposes to engage in, or to authorize any person or entity to engage in, a class III gaming activity on Indian lands of the Indian tribe, the governing body of the Indian tribe shall adopt and submit to the Chairman an ordinance or resolution that meets the requirements of subsection (b).
 
   (B) The Chairman shall approve any ordinance or resolution described in subparagraph (A), unless the Chairman specifically determines that—
 
@@ -610,7 +610,7 @@ For information regarding constitutionality of certain provisions of section 11 
 
   (B) has been or subsequently is convicted of any felony or gaming offense;
 
-  (C) has knowingly and willfully provided materially important false statements or information to the Commission or the Indian tribe pursuant to this chapter or has refused to respond to questions propounded pursuant to subsection (a)(2) of this section; or
+  (C) has knowingly and willfully provided materially important false statements or information to the Commission or the Indian tribe pursuant to this chapter or has refused to respond to questions propounded pursuant to subsection (a)(2); or
 
   (D) has been determined to be a person whose prior activities, criminal record if any, or reputation, habits, and associations pose a threat to the public interest or to the effective regulation and control of gaming, or create or enhance the dangers of unsuitable, unfair, or illegal practices, methods, and activities in the conduct of gaming or the carrying on of the business and financial arrangements incidental thereto;
 
@@ -640,19 +640,19 @@ This chapter, referred to in subsecs. (a)(3), (e)(1)(C), (3), (g), and (h), was 
 
 **(b) Approval or modification of ordinance or resolution**
 
-(1) By no later than the date that is 90 days after the date on which an ordinance or resolution authorizing class II gaming or class III gaming is submitted to the Chairman pursuant to subsection (a) of this section, the Chairman shall review such ordinance or resolution to determine if it conforms to the requirements of [section 2710(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2710/b&num=0&edition=prelim).
+(1) By no later than the date that is 90 days after the date on which an ordinance or resolution authorizing class II gaming or class III gaming is submitted to the Chairman pursuant to subsection (a), the Chairman shall review such ordinance or resolution to determine if it conforms to the requirements of [section 2710(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2710/b&num=0&edition=prelim).
 
-(2) If the Chairman determines that an ordinance or resolution submitted under subsection (a) of this section conforms to the requirements of [section 2710(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2710/b&num=0&edition=prelim), the Chairman shall approve it.
+(2) If the Chairman determines that an ordinance or resolution submitted under subsection (a) conforms to the requirements of [section 2710(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2710/b&num=0&edition=prelim), the Chairman shall approve it.
 
-(3) If the Chairman determines that an ordinance or resolution submitted under subsection (a) of this section does not conform to the requirements of [section 2710(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2710/b&num=0&edition=prelim), the Chairman shall provide written notification of necessary modifications to the Indian tribe which shall have not more than 120 days to bring such ordinance or resolution into compliance.
+(3) If the Chairman determines that an ordinance or resolution submitted under subsection (a) does not conform to the requirements of [section 2710(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2710/b&num=0&edition=prelim), the Chairman shall provide written notification of necessary modifications to the Indian tribe which shall have not more than 120 days to bring such ordinance or resolution into compliance.
 
 **(c) Approval or modification of management contract**
 
-(1) Within 180 days after the submission of a management contract, including all collateral agreements, pursuant to subsection (a) of this section, the Chairman shall subject such contract to the requirements and process of [section 2711 of this title](./chapter-029-indian-gaming-regulation.md#section-2711).
+(1) Within 180 days after the submission of a management contract, including all collateral agreements, pursuant to subsection (a), the Chairman shall subject such contract to the requirements and process of [section 2711 of this title](./chapter-029-indian-gaming-regulation.md#section-2711).
 
-(2) If the Chairman determines that a management contract submitted under subsection (a) of this section, and the management contractor under such contract, meet the requirements of [section 2711 of this title](./chapter-029-indian-gaming-regulation.md#section-2711), the Chairman shall approve the management contract.
+(2) If the Chairman determines that a management contract submitted under subsection (a), and the management contractor under such contract, meet the requirements of [section 2711 of this title](./chapter-029-indian-gaming-regulation.md#section-2711), the Chairman shall approve the management contract.
 
-(3) If the Chairman determines that a contract submitted under subsection (a) of this section, or the management contractor under a contract submitted under subsection (a) of this section, does not meet the requirements of [section 2711 of this title](./chapter-029-indian-gaming-regulation.md#section-2711), the Chairman shall provide written notification to the parties to such contract of necessary modifications and the parties shall have not more than 120 days to come into compliance. If a management contract has been approved by the Secretary prior to October 17, 1988, the parties shall have not more than 180 days after notification of necessary modifications to come into compliance.
+(3) If the Chairman determines that a contract submitted under subsection (a), or the management contractor under a contract submitted under subsection (a), does not meet the requirements of [section 2711 of this title](./chapter-029-indian-gaming-regulation.md#section-2711), the Chairman shall provide written notification to the parties to such contract of necessary modifications and the parties shall have not more than 120 days to come into compliance. If a management contract has been approved by the Secretary prior to October 17, 1988, the parties shall have not more than 180 days after notification of necessary modifications to come into compliance.
 
 ### Statutory Notes
 
@@ -668,7 +668,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 (2) The Commission shall, by regulation, provide an opportunity for an appeal and hearing before the Commission on fines levied and collected by the Chairman.
 
-(3) Whenever the Commission has reason to believe that the tribal operator of an Indian game or a management contractor is engaged in activities regulated by this chapter, by regulations prescribed under this chapter, or by tribal regulations, ordinances, or resolutions, approved under section 2710 or 2712 of this title, that may result in the imposition of a fine under subsection (a)(1) of this section, the permanent closure of such game, or the modification or termination of any management contract, the Commission shall provide such tribal operator or management contractor with a written complaint stating the acts or omissions which form the basis for such belief and the action or choice of action being considered by the Commission. The allegation shall be set forth in common and concise language and must specify the statutory or regulatory provisions alleged to have been violated, but may not consist merely of allegations stated in statutory or regulatory language.
+(3) Whenever the Commission has reason to believe that the tribal operator of an Indian game or a management contractor is engaged in activities regulated by this chapter, by regulations prescribed under this chapter, or by tribal regulations, ordinances, or resolutions, approved under section 2710 or 2712 of this title, that may result in the imposition of a fine under subsection (a)(1), the permanent closure of such game, or the modification or termination of any management contract, the Commission shall provide such tribal operator or management contractor with a written complaint stating the acts or omissions which form the basis for such belief and the action or choice of action being considered by the Commission. The allegation shall be set forth in common and concise language and must specify the statutory or regulatory provisions alleged to have been violated, but may not consist merely of allegations stated in statutory or regulatory language.
 
 **(b) Temporary closure; hearing**
 
@@ -709,7 +709,7 @@ Decisions made by the Commission pursuant to sections 2710, 2711, 2712, and 2713
 
 <a id="section-2716"></a>
 ## § 2716. Investigative powers
-**(a) Confidential information** Except as provided in subsection (b) of this section, the Commission shall preserve any and all information received pursuant to this chapter as confidential pursuant to the provisions of paragraphs (4) and (7) of [section 552(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b&num=0&edition=prelim).
+**(a) Confidential information** Except as provided in subsection (b), the Commission shall preserve any and all information received pursuant to this chapter as confidential pursuant to the provisions of paragraphs (4) and (7) of [section 552(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b&num=0&edition=prelim).
 
 **(b) Provision to law enforcement officials** The Commission shall, when such information indicates a violation of Federal, State, or tribal statutes, ordinances, or resolutions, provide such information to the appropriate law enforcement officials.
 
@@ -750,7 +750,7 @@ This chapter, referred to in subsecs. (a) and (c), was in the original “this A
 
 (1) The Commission, in coordination with the Secretary and in conjunction with the fiscal year of the United States, shall adopt an annual budget for the expenses and operation of the Commission.
 
-(2) The budget of the Commission may include a request for appropriations, as authorized by [section 2718 of this title](./chapter-029-indian-gaming-regulation.md#section-2718), in an amount equal the amount of funds derived from assessments authorized by subsection (a) of this section for the fiscal year preceding the fiscal year for which the appropriation request is made.
+(2) The budget of the Commission may include a request for appropriations, as authorized by [section 2718 of this title](./chapter-029-indian-gaming-regulation.md#section-2718), in an amount equal the amount of funds derived from assessments authorized by subsection (a) for the fiscal year preceding the fiscal year for which the appropriation request is made.
 
 (3) The request for appropriations pursuant to paragraph (2) shall be subject to the approval of the Secretary and shall be included as a part of the budget request of the Department of the Interior.
 
@@ -787,7 +787,7 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 ## § 2718. Authorization of appropriations
 **(a)** Subject to [section 2717 of this title](./chapter-029-indian-gaming-regulation.md#section-2717), there are authorized to be appropriated, for fiscal year 1998, and for each fiscal year thereafter, an amount equal to the amount of funds derived from the assessments authorized by [section 2717(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2717/a&num=0&edition=prelim).
 
-**(b)** Notwithstanding [section 2717 of this title](./chapter-029-indian-gaming-regulation.md#section-2717), there are authorized to be appropriated to fund the operation of the Commission, $2,000,000 for fiscal year 1998, and $2,000,000 for each fiscal year thereafter. The amounts authorized to be appropriated in the preceding sentence shall be in addition to the amounts authorized to be appropriated under subsection (a) of this section.
+**(b)** Notwithstanding [section 2717 of this title](./chapter-029-indian-gaming-regulation.md#section-2717), there are authorized to be appropriated to fund the operation of the Commission, $2,000,000 for fiscal year 1998, and $2,000,000 for each fiscal year thereafter. The amounts authorized to be appropriated in the preceding sentence shall be in addition to the amounts authorized to be appropriated under subsection (a).
 
 ### Statutory Notes
 
@@ -803,7 +803,7 @@ Subsec. (b). Pub. L. 105–83, § 123(b)(2), added subsec. (b) and struck out fo
 
 <a id="section-2719"></a>
 ## § 2719. Gaming on lands acquired after October 17, 1988
-**(a) Prohibition on lands acquired in trust by Secretary** Except as provided in subsection (b) of this section, gaming regulated by this chapter shall not be conducted on lands acquired by the Secretary in trust for the benefit of an Indian tribe after October 17, 1988, unless—
+**(a) Prohibition on lands acquired in trust by Secretary** Except as provided in subsection (b), gaming regulated by this chapter shall not be conducted on lands acquired by the Secretary in trust for the benefit of an Indian tribe after October 17, 1988, unless—
 
 (1) such lands are located within or contiguous to the boundaries of the reservation of the Indian tribe on October 17, 1988; or
 
@@ -819,7 +819,7 @@ Subsec. (b). Pub. L. 105–83, § 123(b)(2), added subsec. (b) and struck out fo
 
 **(b) Exceptions**
 
-(1) Subsection (a) of this section will not apply when—
+(1) Subsection (a) will not apply when—
 
   (A) the Secretary, after consultation with the Indian tribe and appropriate State and local officials, including officials of other nearby Indian tribes, determines that a gaming establishment on newly acquired lands would be in the best interest of the Indian tribe and its members, and would not be detrimental to the surrounding community, but only if the Governor of the State in which the gaming activity is to be conducted concurs in the Secretary’s determination; or
 
@@ -831,13 +831,13 @@ Subsec. (b). Pub. L. 105–83, § 123(b)(2), added subsec. (b) and struck out fo
 
     (iii) the restoration of lands for an Indian tribe that is restored to Federal recognition.
 
-(2) Subsection (a) of this section shall not apply to—
+(2) Subsection (a) shall not apply to—
 
   (A) any lands involved in the trust petition of the St. Croix Chippewa Indians of Wisconsin that is the subject of the action filed in the United States District Court for the District of Columbia entitled St. Croix Chippewa Indians of Wisconsin v. United States, Civ. No. 86–2278, or
 
   (B) the interests of the Miccosukee Tribe of Indians of Florida in approximately 25 contiguous acres of land, more or less, in Dade County, Florida, located within one mile of the intersection of State Road Numbered 27 (also known as Krome Avenue) and the Tamiami Trail.
 
-(3) Upon request of the governing body of the Miccosukee Tribe of Indians of Florida, the Secretary shall, notwithstanding any other provision of law, accept the transfer by such Tribe to the Secretary of the interests of such Tribe in the lands described in paragraph (2)(B) and the Secretary shall declare that such interests are held in trust by the Secretary for the benefit of such Tribe and that such interests are part of the reservation of such Tribe under sections 465 and 467 of this title, subject to any encumbrances and rights that are held at the time of such transfer by any person or entity other than such Tribe. The Secretary shall publish in the Federal Register the legal description of any lands that are declared held in trust by the Secretary under this paragraph.
+(3) Upon request of the governing body of the Miccosukee Tribe of Indians of Florida, the Secretary shall, notwithstanding any other provision of law, accept the transfer by such Tribe to the Secretary of the interests of such Tribe in the lands described in paragraph (2)(B) and the Secretary shall declare that such interests are held in trust by the Secretary for the benefit of such Tribe and that such interests are part of the reservation of such Tribe under sections 5108 and 5110 of this title, subject to any encumbrances and rights that are held at the time of such transfer by any person or entity other than such Tribe. The Secretary shall publish in the Federal Register the legal description of any lands that are declared held in trust by the Secretary under this paragraph.
 
 **(c) Authority of Secretary not affected** Nothing in this section shall affect or diminish the authority and responsibility of the Secretary to take land into trust.
 

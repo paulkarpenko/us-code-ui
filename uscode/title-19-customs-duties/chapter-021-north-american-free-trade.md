@@ -63,6 +63,9 @@ Sec. 10. The authority of the President under section 6 of Public Law 102–532;
 
 Sec. 11. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right to administrative or judicial review, or any other right or benefit or trust responsibility, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
+#### Extension of Term of Good Neighbor Environmental Board
+Term of the Good Neighbor Environmental Board extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
 
 <a id="section-3311"></a>
 ## § 3311. Definitions
@@ -401,7 +404,7 @@ Section to cease to have effect with respect to any country during any period in
 
 (4) the President has consulted with such Committees regarding the proposed action during the period referred to in paragraph (3).
 
-**(b) Effective date of certain proclaimed actions** Any action proclaimed by the President under the authority of this Act that is not subject to the consultation and layover requirements under subsection (a) of this section may not take effect before the 15th day after the date on which the text of the proclamation is published in the Federal Register.
+**(b) Effective date of certain proclaimed actions** Any action proclaimed by the President under the authority of this Act that is not subject to the consultation and layover requirements under subsection (a) may not take effect before the 15th day after the date on which the text of the proclamation is published in the Federal Register.
 
 ### Statutory Notes
 
@@ -465,7 +468,7 @@ The North American Free Trade Agreement entered into force on Jan. 1, 1994, see 
 (2) $2,000,000;
 for the establishment and operations of the United States Section and for the payment of the United States share of the expenses, including food when sequestered, of binational panels and extraordinary challenge committees convened under chapter 19, and of the expenses incurred in dispute settlement proceedings under chapter 20, of the Agreement.
 
-**(c) Reimbursement of certain expenses** If, in accordance with Annex 2002.2 of the Agreement, the Canadian Section or the Mexican Section of the Secretariat provides funds to the United States Section during any fiscal year, as reimbursement for expenses by the Canadian Section or the Mexican Section in connection with settlement proceedings under chapter 19 or 20 of the Agreement, the United States Section may retain and use such funds to carry out the functions described in subsection (a) of this section.
+**(c) Reimbursement of certain expenses** If, in accordance with Annex 2002.2 of the Agreement, the Canadian Section or the Mexican Section of the Secretariat provides funds to the United States Section during any fiscal year, as reimbursement for expenses by the Canadian Section or the Mexican Section in connection with settlement proceedings under chapter 19 or 20 of the Agreement, the United States Section may retain and use such funds to carry out the functions described in subsection (a).
 
 ### Statutory Notes
 
@@ -582,7 +585,7 @@ Section to cease to have effect with respect to any country during any period in
 
 (2) **Special rule for articles with tariff phaseout periods of more than 10 years** — The President may not consider a request to accelerate the staging of duty reductions for an article for which the United States tariff phaseout period is more than 10 years if a request for acceleration with respect to such article has been denied in the preceding 3 calendar years.
 
-**(c) Conversion to ad valorem rates for certain textiles** For purposes of subsections (a) and (b) of this section, with respect to an article covered by Annex 300–B of the Agreement imported from Mexico for which the base rate in the Schedule of the United States in Annex 300–B is a specific or compound rate of duty, the President may substitute for the base rate an ad valorem rate that the President determines to be equivalent to the base rate.
+**(c) Conversion to ad valorem rates for certain textiles** For purposes of subsections (a) and (b), with respect to an article covered by Annex 300–B of the Agreement imported from Mexico for which the base rate in the Schedule of the United States in Annex 300–B is a specific or compound rate of duty, the President may substitute for the base rate an ad valorem rate that the President determines to be equivalent to the base rate.
 
 ### Statutory Notes
 
@@ -639,7 +642,7 @@ The Committee for the Implementation of Textile Agreements to implement safeguar
 
   (A) *Foreign-trade zones* — Subparagraph (B) of paragraph (1) shall not apply to a good produced in a foreign-trade zone or subzone (established pursuant to the Act of June 18, 1934, commonly known as the Foreign Trade Zones Act [[19 U.S.C. 81a](./chapter-1a-foreign-trade-zones.md#section-81a) et seq.]) that is entered for consumption in the customs territory of the United States.
 
-  (B) *Regional value-content requirement* — For purposes of subparagraph (D) of paragraph (1), a good shall be treated as originating in a NAFTA country if the regional value-content of the good, determined in accordance with subsection (b) of this section, is not less than 60 percent where the transaction value method is used, or not less than 50 percent where the net cost method is used, and the good satisfies all other applicable requirements of this section.
+  (B) *Regional value-content requirement* — For purposes of subparagraph (D) of paragraph (1), a good shall be treated as originating in a NAFTA country if the regional value-content of the good, determined in accordance with subsection (b), is not less than 60 percent where the transaction value method is used, or not less than 50 percent where the net cost method is used, and the good satisfies all other applicable requirements of this section.
 
 **(b) Regional value-content**
 
@@ -673,7 +676,7 @@ The Committee for the Implementation of Textile Agreements to implement safeguar
 
     (iii) The term “VNM” means the value of nonoriginating materials used by the producer in the production of the good.
 
-(4) **Value of nonoriginating materials used in originating materials** — Except as provided in subsection (c)(1) of this section, and for a motor vehicle identified in subsection (c)(2) of this section or a component identified in Annex 403.2 of the Agreement, the value of nonoriginating materials used by the producer in the production of a good shall not, for purposes of calculating the regional value-content of the good under paragraph (2) or (3), include the value of nonoriginating materials used to produce originating materials that are subsequently used in the production of the good.
+(4) **Value of nonoriginating materials used in originating materials** — Except as provided in subsection (c)(1), and for a motor vehicle identified in subsection (c)(2) or a component identified in Annex 403.2 of the Agreement, the value of nonoriginating materials used by the producer in the production of a good shall not, for purposes of calculating the regional value-content of the good under paragraph (2) or (3), include the value of nonoriginating materials used to produce originating materials that are subsequently used in the production of the good.
 
 (5) **Net cost method must be used in certain cases** — An exporter or producer shall calculate the regional value-content of a good solely on the basis of the net cost method described in paragraph (3), if—
 
@@ -693,7 +696,7 @@ The Committee for the Implementation of Textile Agreements to implement safeguar
 
     (iv) a word processing machine provided for in subheading 8469.10.00;
 
-  (E) the exporter or producer chooses to accumulate the regional value-content of the good in accordance with subsection (d) of this section; or
+  (E) the exporter or producer chooses to accumulate the regional value-content of the good in accordance with subsection (d); or
 
   (F) the good is designated as an intermediate material under paragraph (10) and is subject to a regional value-content requirement.
 
@@ -729,7 +732,7 @@ The Committee for the Implementation of Textile Agreements to implement safeguar
 
     (iii) the cost of waste and spoilage resulting from the use of the material in the production of the good, less the value of renewable scrap or by-product.
 
-(10) **Intermediate material** — Except for goods described in subsection (c)(1) of this section, any self-produced material, other than a component identified in Annex 403.2 of the Agreement, that is used in the production of a good may be designated by the producer of the good as an intermediate material for the purpose of calculating the regional value-content of the good under paragraph (2) or (3); provided that if the intermediate material is subject to a regional value-content requirement, no other self-produced material that is subject to a regional value-content requirement and is used in the production of the intermediate material may be designated by the producer as an intermediate material.
+(10) **Intermediate material** — Except for goods described in subsection (c)(1), any self-produced material, other than a component identified in Annex 403.2 of the Agreement, that is used in the production of a good may be designated by the producer of the good as an intermediate material for the purpose of calculating the regional value-content of the good under paragraph (2) or (3); provided that if the intermediate material is subject to a regional value-content requirement, no other self-produced material that is subject to a regional value-content requirement and is used in the production of the intermediate material may be designated by the producer as an intermediate material.
 
 (11) **Value of intermediate material** — The value of an intermediate material shall be—
 
@@ -746,17 +749,17 @@ The Committee for the Implementation of Textile Agreements to implement safeguar
   (A) a good that is a motor vehicle for the transport of 15 or fewer persons provided for in subheading 8702.10.00 or 8702.90.00, or a motor vehicle provided for in subheadings 8703.21 through 8703.90, or subheading 8704.21 or 8704.31, or
 
   (B) a good provided for in the tariff provisions listed in Annex 403.1 of the Agreement, that is subject to a regional value-content requirement and is for use as original equipment in the production of a motor vehicle for the transport of 15 or fewer persons provided for in subheading 8702.10.00 or 8702.90.00, or a motor vehicle provided for in subheadings 8703.21 through 8703.90, or subheading 8704.21 or 8704.31,
-  the value of nonoriginating materials used by the producer in the production of the good shall be the sum of the values of all nonoriginating materials, determined in accordance with subsection (b)(9) of this section at the time the nonoriginating materials are received by the first person in the territory of a NAFTA country who takes title to them, that are imported from outside the territories of the NAFTA countries under the tariff provisions listed in Annex 403.1 of the Agreement and are used in the production of the good or that are used in the production of any material used in the production of the good.
+  the value of nonoriginating materials used by the producer in the production of the good shall be the sum of the values of all nonoriginating materials, determined in accordance with subsection (b)(9) at the time the nonoriginating materials are received by the first person in the territory of a NAFTA country who takes title to them, that are imported from outside the territories of the NAFTA countries under the tariff provisions listed in Annex 403.1 of the Agreement and are used in the production of the good or that are used in the production of any material used in the production of the good.
 
 (2) **Other vehicles and their automotive parts** — For purposes of calculating the regional value-content under the net cost method for a good that is a motor vehicle provided for in heading 8701, subheading 8704.10, 8704.22, 8704.23, 8704.32, or 8704.90, or heading 8705 or 8706, a motor vehicle for the transport of 16 or more persons provided for in subheading 8702.10.00 or 8702.90.00, or a component identified in Annex 403.2 of the Agreement for use as original equipment in the production of the motor vehicle, the value of nonoriginating materials used by the producer in the production of the good shall be the sum of—
 
-  (A) for each material used by the producer listed in Annex 403.2 of the Agreement, whether or not produced by the producer, at the choice of the producer and determined in accordance with subsection (b) of this section, either—
+  (A) for each material used by the producer listed in Annex 403.2 of the Agreement, whether or not produced by the producer, at the choice of the producer and determined in accordance with subsection (b), either—
 
     (i) the value of such material that is nonoriginating, or
 
     (ii) the value of nonoriginating materials used in the production of such material; and
 
-  (B) the value of any other nonoriginating material used by the producer that is not listed in Annex 403.2 of the Agreement determined in accordance with subsection (b) of this section.
+  (B) the value of any other nonoriginating material used by the producer that is not listed in Annex 403.2 of the Agreement determined in accordance with subsection (b).
 
 (3) **Averaging permitted**
 
@@ -827,7 +830,7 @@ The Committee for the Implementation of Textile Agreements to implement safeguar
   (C) the good satisfies all other applicable requirements of this section.
   The requirements of subparagraphs (A) and (B) must be satisfied entirely in the territory of one or more of the NAFTA countries.
 
-(2) **Treatment as single producer** — For purposes of subsection (b)(10) of this section, the production of a producer that chooses to accumulate its production with that of other producers under paragraph (1) shall be treated as the production of a single producer.
+(2) **Treatment as single producer** — For purposes of subsection (b)(10), the production of a producer that chooses to accumulate its production with that of other producers under paragraph (1) shall be treated as the production of a single producer.
 
 **(e) De minimis amounts of nonoriginating materials**
 
@@ -935,7 +938,7 @@ The Committee for the Implementation of Textile Agreements to implement safeguar
 
 (2) in determining whether the good satisfies a regional value-content requirement.
 
-**(k) Transshipment** A good shall not be considered to be an originating good by reason of having undergone production that satisfies the requirements of subsection (a) of this section if, subsequent to that production, the good undergoes further production or any other operation outside the territories of the NAFTA countries, other than unloading, reloading, or any other operation necessary to preserve it in good condition or to transport the good to the territory of a NAFTA country.
+**(k) Transshipment** A good shall not be considered to be an originating good by reason of having undergone production that satisfies the requirements of subsection (a) if, subsequent to that production, the good undergoes further production or any other operation outside the territories of the NAFTA countries, other than unloading, reloading, or any other operation necessary to preserve it in good condition or to transport the good to the territory of a NAFTA country.
 
 **(l) Nonqualifying operations** A good shall not be considered to be an originating good merely by reason of—
 
@@ -949,7 +952,7 @@ The Committee for the Implementation of Textile Agreements to implement safeguar
 
 (2) Except as otherwise expressly provided, whenever in this section there is a reference to a heading or subheading such reference shall be a reference to a heading or subheading of the HTS.
 
-(3) In applying subsection (a)(4) of this section, the determination of whether a heading or subheading under the HTS provides for and specifically describes both a good and its parts shall be made on the basis of the nomenclature of the heading or subheading, the rules of interpretation, or notes of the HTS.
+(3) In applying subsection (a)(4), the determination of whether a heading or subheading under the HTS provides for and specifically describes both a good and its parts shall be made on the basis of the nomenclature of the heading or subheading, the rules of interpretation, or notes of the HTS.
 
 (4) In applying the Customs Valuation Code—
 
@@ -957,7 +960,7 @@ The Committee for the Implementation of Textile Agreements to implement safeguar
 
   (B) the provisions of this section shall take precedence over the Customs Valuation Code to the extent of any difference; and
 
-  (C) the definitions in subsection (p) of this section shall take precedence over the definitions in the Customs Valuation Code to the extent of any difference.
+  (C) the definitions in subsection (p) shall take precedence over the definitions in the Customs Valuation Code to the extent of any difference.
 
 (5) All costs referred to in this section shall be recorded and maintained in accordance with the Generally Accepted Accounting Principles applicable in the territory of the NAFTA country in which the good is produced.
 
@@ -1047,7 +1050,7 @@ such good shall be treated as a nonoriginating good and, for purposes of this su
 
     (viii) Any other goods that are not incorporated into the good, if the use of such goods in the production of the good can reasonably be demonstrated to be a part of that production.
 
-(9) **Intermediate material** — The term “intermediate material” means a material that is self-produced, used in the production of a good, and designated pursuant to subsection (b)(10) of this section.
+(9) **Intermediate material** — The term “intermediate material” means a material that is self-produced, used in the production of a good, and designated pursuant to subsection (b)(10).
 
 (10) **Marque** — The term “marque” means the trade name used by a separate marketing division of a motor vehicle assembler.
 
@@ -1063,7 +1066,7 @@ such good shall be treated as a nonoriginating good and, for purposes of this su
 
 (16) **Net cost** — The term “net cost” means total cost less sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the total cost.
 
-(17) **Net cost of a good** — The term “net cost of a good” means the net cost that can be reasonably allocated to a good using one of the methods set out in subsection (b)(8) of this section.
+(17) **Net cost of a good** — The term “net cost of a good” means the net cost that can be reasonably allocated to a good using one of the methods set out in subsection (b)(8).
 
 (18) **Nonallowable interest costs** — The term “nonallowable interest costs” means interest costs incurred by a producer as a result of an interest rate that exceeds the applicable Federal Government interest rate for comparable maturities by more than 700 basis points, determined pursuant to regulations implementing this section.
 
@@ -1130,7 +1133,7 @@ such good shall be treated as a nonoriginating good and, for purposes of this su
 
 (29) **Shipping and packing costs** — The term “shipping and packing costs” means the costs incurred in packing a good for shipment and shipping the good from the point of direct shipment to the buyer, but does not include the costs of preparing and packaging the good for retail sale.
 
-(30) **Size category** — The term “size category” means with respect to a motor vehicle identified in subsection (c)(1)(A) of this section—
+(30) **Size category** — The term “size category” means with respect to a motor vehicle identified in subsection (c)(1)(A)—
 
   (A) 85 cubic feet or less of passenger and luggage interior volume;
 
@@ -1146,7 +1149,7 @@ such good shall be treated as a nonoriginating good and, for purposes of this su
 
 (32) **Total cost** — The term “total cost” means all product costs, period costs, and other costs incurred in the territory of one or more of the NAFTA countries.
 
-(33) **Transaction value** — Except as provided in subsection (c)(1) or (c)(2)(A) of this section, the term “transaction value” means the price actually paid or payable for a good or material with respect to a transaction of the producer of the good, adjusted in accordance with the principles of paragraphs 1, 3, and 4 of Article 8 of the Customs Valuation Code and determined without regard to whether the good or material is sold for export.
+(33) **Transaction value** — Except as provided in subsection (c)(1) or (c)(2)(A), the term “transaction value” means the price actually paid or payable for a good or material with respect to a transaction of the producer of the good, adjusted in accordance with the principles of paragraphs 1, 3, and 4 of Article 8 of the Customs Valuation Code and determined without regard to whether the good or material is sold for export.
 
 (34) **Underbody** — The term “underbody” means the floor pan of a motor vehicle.
 
@@ -1164,7 +1167,7 @@ such good shall be treated as a nonoriginating good and, for purposes of this su
 
   (A) modifications to the provisions proclaimed under the authority of paragraph (1)(A), other than the provisions of paragraph A of Appendix 6 of Annex 300–B and section XI of part B of Annex 401 of the Agreement; and
 
-  (B) a modified version of the definition of any term set out in subsection (p) of this section (and such modified version of the definition shall supersede the version in subsection (p) of this section), but only if the modified version reflects solely those modifications to the same term in article 415 of the Agreement that are agreed to by the NAFTA countries before December 8, 1994.
+  (B) a modified version of the definition of any term set out in subsection (p) (and such modified version of the definition shall supersede the version in subsection (p)), but only if the modified version reflects solely those modifications to the same term in article 415 of the Agreement that are agreed to by the NAFTA countries before December 8, 1994.
 
 (3) **Special rules for textiles** — Notwithstanding the provisions of paragraph (2)(A), and subject to the consultation and layover requirements of [section 3313 of this title](./chapter-021-north-american-free-trade.md#section-3313), the President may proclaim—
 
@@ -1192,7 +1195,7 @@ Subsec. (p)(18). Pub. L. 104–295, § 21(a)(2)(B), substituted “Federal Gover
 Section effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], see section 213(b) of Pub. L. 103–182, set out as a note under [section 3331 of this title](./chapter-021-north-american-free-trade.md#section-3331).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### North American Free Trade Agreement: Entry Into Force
 The North American Free Trade Agreement entered into force on Jan. 1, 1994, see note set out under [section 3311 of this title](./chapter-021-north-american-free-trade.md#section-3311).
@@ -1200,7 +1203,7 @@ The North American Free Trade Agreement entered into force on Jan. 1, 1994, see 
 
 <a id="section-3334"></a>
 ## § 3334. Drawback
-**(a) “Good subject to NAFTA drawback” defined** For purposes of this Act and the amendments made by subsection (b) of this section, the term “good subject to NAFTA drawback” means any imported good other than the following:
+**(a) “Good subject to NAFTA drawback” defined** For purposes of this Act and the amendments made by subsection (b), the term “good subject to NAFTA drawback” means any imported good other than the following:
 
 (1) A good entered under bond for transportation and exportation to a NAFTA country.
 
@@ -1261,7 +1264,7 @@ Where in paragraph (6) a good referred to by an item is described in parentheses
 
 **(b) , (c) Omitted**
 
-**(d) Elimination of drawback for fees under [section 624 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section624&num=0&edition=prelim)** Notwithstanding any other provision of law, the Secretary of the Treasury may not, on condition of export, refund or reduce a fee applied pursuant to [section 624 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section624&num=0&edition=prelim) with respect to goods included under subsection (a) of this section that are exported to—
+**(d) Elimination of drawback for fees under [section 624 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section624&num=0&edition=prelim)** Notwithstanding any other provision of law, the Secretary of the Treasury may not, on condition of export, refund or reduce a fee applied pursuant to [section 624 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section624&num=0&edition=prelim) with respect to goods included under subsection (a) that are exported to—
 
 (1) Canada after December 31, 1995, for so long as it is a NAFTA country; or
 
@@ -1308,7 +1311,7 @@ Section effective on the date the North American Free Trade Agreement enters int
 ## § 3351. Monitoring of television and picture tube imports
 **(a) Monitoring** Beginning on the date the Agreement enters into force with respect to the United States, the United States Customs Service shall, for a period of 5 years, monitor imports into the United States of articles described in subheading 8528.10 of the HTS from NAFTA countries and shall take action to exercise all rights of the United States under chapter 5 of the Agreement with respect to such imports. The United States Customs Service shall take appropriate action under chapter 5 of the Agreement with respect to such imports, including verifications to ensure that the rules of origin under the Agreement are fully complied with and that the duty drawback obligations contained in article 303 and Annex 303.8 of the Agreement are fully implemented and duties are correctly assessed.
 
-**(b) Report to Trade Representative** The United States Customs Service shall make the results of the monitoring and verification required by subsection (a) of this section available to the President and the Trade Representative. If, based on such information, the President has reason to believe that articles described in subheading 8540.11 of the HTS, intended for ultimate consumption in the United States, are entering the territory of a NAFTA country inconsistent with the provisions of the Agreement, or have been undervalued in a manner that may raise concerns under United States trade laws, the President shall promptly take such action as may be appropriate under all relevant provisions of the Agreement, including article 317 and chapter 20, and under applicable United States trade statutes.
+**(b) Report to Trade Representative** The United States Customs Service shall make the results of the monitoring and verification required by subsection (a) available to the President and the Trade Representative. If, based on such information, the President has reason to believe that articles described in subheading 8540.11 of the HTS, intended for ultimate consumption in the United States, are entering the territory of a NAFTA country inconsistent with the provisions of the Agreement, or have been undervalued in a manner that may raise concerns under United States trade laws, the President shall promptly take such action as may be appropriate under all relevant provisions of the Agreement, including article 317 and chapter 20, and under applicable United States trade statutes.
 
 ### Statutory Notes
 
@@ -1316,7 +1319,7 @@ Section effective on the date the North American Free Trade Agreement enters int
 Section effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], see section 213(b) of Pub. L. 103–182, set out as a note under [section 3331 of this title](./chapter-021-north-american-free-trade.md#section-3331).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### North American Free Trade Agreement: Entry Into Force
 The North American Free Trade Agreement entered into force on Jan. 1, 1994, see note set out under [section 3311 of this title](./chapter-021-north-american-free-trade.md#section-3311).
@@ -1356,9 +1359,9 @@ Pub. L. 103–182, title III, § 318, Dec. 8, 1993, 107 Stat. 2108, provided tha
 
 (2) **Provisional relief** — An entity filing a petition under this subsection may request that provisional relief be provided as if the petition had been filed under [section 2252(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2252/a&num=0&edition=prelim).
 
-(3) **Critical circumstances** — An allegation that critical circumstances exist must be included in the petition or made on or before the 90th day after the date on which the investigation is initiated under subsection (b) of this section.
+(3) **Critical circumstances** — An allegation that critical circumstances exist must be included in the petition or made on or before the 90th day after the date on which the investigation is initiated under subsection (b).
 
-**(b) Investigation and determination** Upon the filing of a petition under subsection (a) of this section, the International Trade Commission, unless subsection (d) of this section applies, shall promptly initiate an investigation to determine whether, as a result of the reduction or elimination of a duty provided for under the Agreement, a Canadian article or a Mexican article, as the case may be, is being imported into the United States in such increased quantities (in absolute terms) and under such conditions so that imports of the article, alone, constitute a substantial cause of—
+**(b) Investigation and determination** Upon the filing of a petition under subsection (a), the International Trade Commission, unless subsection (d) applies, shall promptly initiate an investigation to determine whether, as a result of the reduction or elimination of a duty provided for under the Agreement, a Canadian article or a Mexican article, as the case may be, is being imported into the United States in such increased quantities (in absolute terms) and under such conditions so that imports of the article, alone, constitute a substantial cause of—
 
 (1) serious injury; or
 
@@ -1372,7 +1375,7 @@ to the domestic industry producing an article that is like, or directly competit
 (2) subsection (c); and
 
 (3) subsection (d),
-of [section 2252 of this title](./chapter-012-trade-act-of-1974.md#section-2252) apply with respect to any investigation initiated under subsection (b) of this section.
+of [section 2252 of this title](./chapter-012-trade-act-of-1974.md#section-2252) apply with respect to any investigation initiated under subsection (b).
 
 **(d) Articles exempt from investigation** No investigation may be initiated under this section with respect to—
 
@@ -1394,24 +1397,24 @@ Paragraphs (3) and (4) of subsection (b) of [section 2252 of this title](./chapt
 
 (2) if the determination referred to in paragraph (1) is affirmative and an allegation regarding critical circumstances was made under [section 3352(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3352/a&num=0&edition=prelim), make a determination regarding that allegation.
 
-**(b) Additional finding and recommendation if determination affirmative** If the determination made by the International Trade Commission under subsection (a) of this section with respect to imports of an article is affirmative, the International Trade Commission shall find, and recommend to the President in the report required under subsection (c) of this section, the amount of import relief that is necessary to remedy or, except in the case of imports of a Canadian article, prevent the injury found by the International Trade Commission in the determination. The import relief recommended by the International Trade Commission under this subsection shall be limited to that described in [section 3354(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3354/c&num=0&edition=prelim).
+**(b) Additional finding and recommendation if determination affirmative** If the determination made by the International Trade Commission under subsection (a) with respect to imports of an article is affirmative, the International Trade Commission shall find, and recommend to the President in the report required under subsection (c), the amount of import relief that is necessary to remedy or, except in the case of imports of a Canadian article, prevent the injury found by the International Trade Commission in the determination. The import relief recommended by the International Trade Commission under this subsection shall be limited to that described in [section 3354(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3354/c&num=0&edition=prelim).
 
-**(c) Report to President** No later than the date that is 30 days after the date on which a determination is made under subsection (a) of this section with respect to an investigation, the International Trade Commission shall submit to the President a report that shall include—
+**(c) Report to President** No later than the date that is 30 days after the date on which a determination is made under subsection (a) with respect to an investigation, the International Trade Commission shall submit to the President a report that shall include—
 
 (1) a statement of the basis for the determination;
 
 (2) dissenting and separate views; and
 
-(3) any finding made under subsection (b) of this section regarding import relief.
+(3) any finding made under subsection (b) regarding import relief.
 
-**(d) Public notice** Upon submitting a report to the President under subsection (c) of this section, the International Trade Commission shall promptly make public such report (with the exception of information which the International Trade Commission determines to be confidential) and shall cause a summary thereof to be published in the Federal Register.
+**(d) Public notice** Upon submitting a report to the President under subsection (c), the International Trade Commission shall promptly make public such report (with the exception of information which the International Trade Commission determines to be confidential) and shall cause a summary thereof to be published in the Federal Register.
 
 **(e) Applicable provisions** For purposes of this subpart, the provisions of paragraphs (1), (2), and (3) of [section 1330(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1330/d&num=0&edition=prelim) shall be applied with respect to determinations and findings made under this section as if such determinations and findings were made under [section 2252 of this title](./chapter-012-trade-act-of-1974.md#section-2252).
 
 
 <a id="section-3355"></a>
 ## § 3355. Provision of relief
-**(a) In general** No later than the date that is 30 days after the date on which the President receives the report of the International Trade Commission containing an affirmative determination of the International Trade Commission under [section 3353(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3353/a&num=0&edition=prelim), the President, subject to subsection (b) of this section, shall provide relief from imports of the article that is the subject of such determination to the extent that the President determines necessary to remedy or, except in the case of imports of a Canadian article, prevent the injury found by the International Trade Commission.
+**(a) In general** No later than the date that is 30 days after the date on which the President receives the report of the International Trade Commission containing an affirmative determination of the International Trade Commission under [section 3353(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3353/a&num=0&edition=prelim), the President, subject to subsection (b), shall provide relief from imports of the article that is the subject of such determination to the extent that the President determines necessary to remedy or, except in the case of imports of a Canadian article, prevent the injury found by the International Trade Commission.
 
 **(b) Exception** The President is not required to provide import relief under this section if the President determines that the provision of the import relief will not provide greater economic and social benefits than costs.
 
@@ -1466,14 +1469,14 @@ The North American Free Trade Agreement entered into force on Jan. 1, 1994, see 
 
 <a id="section-3356"></a>
 ## § 3356. Termination of relief authority
-**(a) General rule** Except as provided in subsection (b) of this section, no import relief may be provided under this subpart—
+**(a) General rule** Except as provided in subsection (b), no import relief may be provided under this subpart—
 
 (1) in the case of a Canadian article, after December 31, 1998; or
 
 (2) in the case of a Mexican article, after the date that is 10 years after the date on which the Agreement enters into force;
 unless the article against which the action is taken is an item for which the transition period for tariff elimination set out in the United States Schedule to Annex 302.2 of the Agreement is greater than 10 years, in which case the period during which relief may be granted shall be the period of staged tariff elimination for that article.
 
-**(b) Exception** Import relief may be provided under this subpart in the case of a Canadian article or Mexican article after the date on which such relief would, but for this subsection, terminate under subsection (a) of this section, but only if the Government of Canada or Mexico, as the case may be, consents to such provision.
+**(b) Exception** Import relief may be provided under this subpart in the case of a Canadian article or Mexican article after the date on which such relief would, but for this subsection, terminate under subsection (a), but only if the Government of Canada or Mexico, as the case may be, consents to such provision.
 
 ### Statutory Notes
 
@@ -1519,16 +1522,16 @@ The Trade Act of 1974, referred to in pars. (2) and (3), is Pub. L. 93–618, Ja
 
   (B) for each period determined under subparagraph (A), the first period occurring thereafter of 5 consecutive business days in which the daily price for frozen concentrated orange juice is greater than the trigger price.
 
-(2) **Notice of determinations** — The Secretary shall immediately notify the Commissioner of Customs and publish notice in the Federal Register of any determination under paragraph (1), and the date of such publication shall be the determination date for that determination.
+(2) **Notice of determinations** — The Secretary shall immediately notify the Commissioner of U.S. Customs and Border Protection and publish notice in the Federal Register of any determination under paragraph (1), and the date of such publication shall be the determination date for that determination.
 
-**(b) Imports of Mexican articles** Whenever after any determination date for a determination under subsection (a)(1)(A) of this section, the quantity of Mexican articles of frozen concentrated orange juice that is entered exceeds—
+**(b) Imports of Mexican articles** Whenever after any determination date for a determination under subsection (a)(1)(A), the quantity of Mexican articles of frozen concentrated orange juice that is entered exceeds—
 
 (1) 264,978,000 liters (single strength equivalent) in any of calendar years 1994 through 2002; or
 
 (2) 340,560,000 liters (single strength equivalent) in any of calendar years 2003 through 2007;
-the rate of duty on Mexican articles of frozen concentrated orange juice that are entered after the date on which the applicable limitation in paragraph (1) or (2) is reached and before the determination date for the related determination under subsection (a)(1)(B) of this section shall be the rate of duty specified in subsection (c) of this section.
+the rate of duty on Mexican articles of frozen concentrated orange juice that are entered after the date on which the applicable limitation in paragraph (1) or (2) is reached and before the determination date for the related determination under subsection (a)(1)(B) shall be the rate of duty specified in subsection (c).
 
-**(c) Rate of duty** The rate of duty specified for purposes of subsection (b) of this section for articles entered on any day is the rate in the HTS that is the lower of—
+**(c) Rate of duty** The rate of duty specified for purposes of subsection (b) for articles entered on any day is the rate in the HTS that is the lower of—
 
 (1) the column 1 general rate of duty in effect for such articles on July 1, 1991; or
 
@@ -1553,8 +1556,11 @@ the rate of duty on Mexican articles of frozen concentrated orange juice that ar
 #### Amendments
 1996—Subsec. (c)(1), (2). Pub. L. 104–295 substituted “column 1 general” for “column 1–General”.
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (a)(2) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-3372"></a>
@@ -1587,11 +1593,11 @@ The Trade Act of 1974, referred to in subsec. (a), is Pub. L. 93–618, Jan. 3, 
 
 (2) imports from a NAFTA country, considered individually, or in exceptional circumstances imports from NAFTA countries considered collectively, contribute importantly to the serious injury, or threat thereof, found by the International Trade Commission.
 
-**(b) Exclusion of NAFTA imports** In determining the nature and extent of action to be taken under chapter 1 of title II of the Trade Act of 1974 [[19 U.S.C. 2251](./chapter-012-trade-act-of-1974.md#section-2251) et seq.], the President shall exclude from such action imports from a NAFTA country if the President makes a negative determination under subsection (a)(1) or (2) of this section with respect to imports from such country.
+**(b) Exclusion of NAFTA imports** In determining the nature and extent of action to be taken under chapter 1 of title II of the Trade Act of 1974 [[19 U.S.C. 2251](./chapter-012-trade-act-of-1974.md#section-2251) et seq.], the President shall exclude from such action imports from a NAFTA country if the President makes a negative determination under subsection (a)(1) or (2) with respect to imports from such country.
 
 **(c) Action after exclusion of NAFTA country imports**
 
-(1) **In general** — If the President, under subsection (b) of this section, excludes imports from a NAFTA country or countries from action under chapter 1 of title II of the Trade Act of 1974 [[19 U.S.C. 2251](./chapter-012-trade-act-of-1974.md#section-2251) et seq.] but thereafter determines that a surge in imports from that country or countries is undermining the effectiveness of the action—
+(1) **In general** — If the President, under subsection (b), excludes imports from a NAFTA country or countries from action under chapter 1 of title II of the Trade Act of 1974 [[19 U.S.C. 2251](./chapter-012-trade-act-of-1974.md#section-2251) et seq.] but thereafter determines that a surge in imports from that country or countries is undermining the effectiveness of the action—
 
   (A) the President may take appropriate action under such chapter 1 to include those imports in the action; and
 
@@ -1628,7 +1634,7 @@ This part, referred to in text, was in the original “this subtitle”, meaning
 1996—Pub. L. 104–295 substituted “subsection (d)(1)(C)(i) of section 2252” for “section 2252(d)(1)(C)(i) of section 2252”.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-3391"></a>
@@ -1689,7 +1695,7 @@ The International Trade Commission shall adopt such procedures and rules and reg
 
 **(f) End-use certificates**
 
-(1) **In general** — The Secretary of Agriculture (referred to in this subsection as the “Secretary”) shall implement, in coordination with the Commissioner of Customs, a program requiring that end-use certificates be included in the documentation covering the entry into, or the withdrawal from a warehouse for consumption in, the customs territory of the United States—
+(1) **In general** — The Secretary of Agriculture (referred to in this subsection as the “Secretary”) shall implement, in coordination with the Commissioner of U.S. Customs and Border Protection, a program requiring that end-use certificates be included in the documentation covering the entry into, or the withdrawal from a warehouse for consumption in, the customs territory of the United States—
 
   (A) of any wheat that is a product of any foreign country or instrumentality that requires, as of the effective date of this subsection, end-use certificates for imports of wheat that is a product of the United States (referred to in this subsection as “United States-produced wheat”); and
 
@@ -1753,8 +1759,11 @@ This Act, referred to in subsec. (d)(1)(A), is Pub. L. 103–182, Dec. 8, 1993, 
 #### Codification
 Section is comprised of section 321 of Pub. L. 103–182. Subsec. (a) of section 321 of Pub. L. 103–182 amended provisions set out as a note under [section 2253 of this title](./chapter-012-trade-act-of-1974.md#section-2253). Subsec. (d)(1)(B) of section 321 of Pub. L. 103–182 amended [section 1359a of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1359a&num=0&edition=prelim), Agriculture. Subsec. (g) of section 321 of Pub. L. 103–182 amended provisions set out as a note under [section 5622 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5622&num=0&edition=prelim).
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (f)(1) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-3411"></a>
@@ -1868,7 +1877,7 @@ No regulation issued by the Secretary of Transportation implementing a recommend
 Section is comprised of section 361 of Pub. L. 103–182. Subsecs. (a) to (f) of section 361 of Pub. L. 103–182 are classified as follows: subsec. (a) amended [section 1582 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1582&num=0&edition=prelim), Agriculture; subsec. (b) amended [section 104 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section104&num=0&edition=prelim), Food and Drugs; subsec. (c) amended [section 105 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section105&num=0&edition=prelim); subsec. (d) amended [section 1306 of this title](./chapter-004-tariff-act-of-1930.md#section-1306) and [section 281 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section281&num=0&edition=prelim); subsec. (e) amended [section 466 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section466&num=0&edition=prelim); and subsec. (f) amended [section 620 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section620&num=0&edition=prelim).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### North American Free Trade Agreement: Entry Into Force
 The North American Free Trade Agreement entered into force on Jan. 1, 1994, see note set out under [section 3311 of this title](./chapter-021-north-american-free-trade.md#section-3311).
@@ -1891,32 +1900,32 @@ Pub. L. 103–182, title IV, § 416, Dec. 8, 1993, 107 Stat. 2148, provided that
 
 (1) **In general** — The selection of individuals under this section for—
 
-  (A) placement on lists prepared by the interagency group under subsection (c)(2)(B)(i) and (ii) of this section;
+  (A) placement on lists prepared by the interagency group under subsection (c)(2)(B)(i) and (ii);
 
-  (B) placement on preliminary candidate lists under subsection (c)(3)(A) of this section;
+  (B) placement on preliminary candidate lists under subsection (c)(3)(A);
 
-  (C) placement on final candidate lists under subsection (c)(4)(A) of this section;
+  (C) placement on final candidate lists under subsection (c)(4)(A);
 
   (D) placement by the Trade Representative on the rosters described in paragraph 1 of Annex 1901.2 and paragraph 1 of Annex 1904.13; and
 
   (E) appointment by the Trade Representative for service on the panels and committees convened under chapter 19;
   shall be made on the basis of the criteria provided in paragraph 1 of Annex 1901.2 and paragraph 1 of Annex 1904.13 and shall be made without regard to political affiliation.
 
-(2) **Additional criteria for roster placements and appointments under paragraph 1 of Annex 1901.2** — Rosters described in paragraph 1 of Annex 1901.2 shall include, to the fullest extent practicable, judges and former judges who meet the criteria referred to in paragraph (1). The Trade Representative shall, subject to subsection (b) of this section, appoint judges to binational panels convened under chapter 19, extraordinary challenge committees convened under chapter 19, and special committees established under article 1905, where such judges offer and are available to serve and such service is authorized by the chief judge of the court on which they sit.
+(2) **Additional criteria for roster placements and appointments under paragraph 1 of Annex 1901.2** — Rosters described in paragraph 1 of Annex 1901.2 shall include, to the fullest extent practicable, judges and former judges who meet the criteria referred to in paragraph (1). The Trade Representative shall, subject to subsection (b), appoint judges to binational panels convened under chapter 19, extraordinary challenge committees convened under chapter 19, and special committees established under article 1905, where such judges offer and are available to serve and such service is authorized by the chief judge of the court on which they sit.
 
 **(b) Selection of certain judges to serve on panels and committees**
 
 (1) **Applicability** — This subsection applies only with respect to the selection of individuals for binational panels convened under chapter 19, extraordinary challenge committees convened under chapter 19, and special committees established under article 1905, who are judges of courts created under article III of the Constitution of the United States.
 
-(2) **Consultation with chief judges** — The Trade Representative shall consult, from time to time, with the chief judges of the Federal judicial circuits regarding the interest in, and availability for, participation in binational panels, extraordinary challenge committees, and special committees, of judges within their respective circuits. If the chief judge of a Federal judicial circuit determines that it is appropriate for one or more judges within that circuit to be included on a roster described in subsection (a)(1)(D) of this section, the chief judge shall identify all such judges for the Chief Justice of the United States who may, upon his or her approval, submit the names of such judges to the Trade Representative. The Trade Representative shall include the names of such judges on the roster.
+(2) **Consultation with chief judges** — The Trade Representative shall consult, from time to time, with the chief judges of the Federal judicial circuits regarding the interest in, and availability for, participation in binational panels, extraordinary challenge committees, and special committees, of judges within their respective circuits. If the chief judge of a Federal judicial circuit determines that it is appropriate for one or more judges within that circuit to be included on a roster described in subsection (a)(1)(D), the chief judge shall identify all such judges for the Chief Justice of the United States who may, upon his or her approval, submit the names of such judges to the Trade Representative. The Trade Representative shall include the names of such judges on the roster.
 
-(3) **Submission of lists to Congress** — The Trade Representative shall submit to the Committee on the Judiciary and the Committee on Ways and Means of the House of Representatives and to the Committee on Finance and the Committee on the Judiciary of the Senate a list of all judges included on a roster under paragraph (2). Such list shall be submitted at the same time as the final candidate lists are submitted under subsection (c)(4)(A) of this section and the final forms of amendments are submitted under subsection (c)(4)(C)(iv) of this section.
+(3) **Submission of lists to Congress** — The Trade Representative shall submit to the Committee on the Judiciary and the Committee on Ways and Means of the House of Representatives and to the Committee on Finance and the Committee on the Judiciary of the Senate a list of all judges included on a roster under paragraph (2). Such list shall be submitted at the same time as the final candidate lists are submitted under subsection (c)(4)(A) and the final forms of amendments are submitted under subsection (c)(4)(C)(iv).
 
 (4) **Appointment of judges to panels or committees** — At such time as the Trade Representative proposes to appoint a judge described in paragraph (1) to a binational panel, an extraordinary challenge committee, or a special committee, the Trade Representative shall consult with that judge in order to ascertain whether the judge is available for such appointment.
 
 **(c) Selection of other candidates**
 
-(1) **Applicability** — This subsection applies only with respect to the selection of individuals for binational panels convened under chapter 19, extraordinary challenge committees convened under chapter 19, and special committees established under article 1905, other than those individuals to whom subsection (b) of this section applies.
+(1) **Applicability** — This subsection applies only with respect to the selection of individuals for binational panels convened under chapter 19, extraordinary challenge committees convened under chapter 19, and special committees established under article 1905, other than those individuals to whom subsection (b) applies.
 
 (2) **Interagency group**
 
@@ -1988,7 +1997,7 @@ Pub. L. 103–182, title IV, § 416, Dec. 8, 1993, 107 Stat. 2148, provided that
 
       (IV) *Finality of amendment* — No additions may be made to the final form of an amendment described in subclause (I) after the final form of such amendment is submitted to the appropriate Congressional Committees under subclause (I).
 
-(5) **Treatment of responses** — For purposes of applying [section 1001 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1001&num=0&edition=prelim), the written or oral responses of individuals to inquiries of the interagency group established under paragraph (2)(A) or of the Trade Representative regarding their personal and professional qualifications, and financial and other relevant interests, that bear on their suitability for the placements and appointments described in subsection (a)(1) of this section, shall be treated as matters within the jurisdiction of an agency of the United States.
+(5) **Treatment of responses** — For purposes of applying [section 1001 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1001&num=0&edition=prelim), the written or oral responses of individuals to inquiries of the interagency group established under paragraph (2)(A) or of the Trade Representative regarding their personal and professional qualifications, and financial and other relevant interests, that bear on their suitability for the placements and appointments described in subsection (a)(1), shall be treated as matters within the jurisdiction of an agency of the United States.
 
 **(d) Selection and appointment**
 
@@ -2008,32 +2017,32 @@ Pub. L. 103–182, title IV, § 416, Dec. 8, 1993, 107 Stat. 2148, provided that
     (ii) appoint an individual to serve as one of those members of any panel or committee convened under chapter 19 during such 1-year period who, under the terms of the Agreement, are to be appointed solely by the United States Government; or
 
     (iii) act to make a joint appointment with the Government of a NAFTA country, under the terms of the Agreement, of any individual who is a citizen or national of the United States to serve as any other member of such a panel or committee;
-    only if such individual is on the appropriate final candidate list that was submitted to the appropriate Congressional Committees under subsection (c)(4)(A) of this section during such calendar year or on such list as it may be amended under subsection (c)(4)(C)(iv)(I) of this section, or on the list submitted under subsection (b)(3) of this section to the Congressional Committees referred to in such subsection; and
+    only if such individual is on the appropriate final candidate list that was submitted to the appropriate Congressional Committees under subsection (c)(4)(A) during such calendar year or on such list as it may be amended under subsection (c)(4)(C)(iv)(I), or on the list submitted under subsection (b)(3) to the Congressional Committees referred to in such subsection; and
 
   (B) no individual may—
 
     (i) be selected by the United States Government for placement on the rosters described in paragraph 1 of Annex 1901.2 and paragraph 1 of Annex 1904.13; or
 
     (ii) be appointed solely or jointly by the United States Government to serve as a member of a panel or committee convened under chapter 19;
-    during the 1-year period beginning on April 1 of any calendar year for which the Trade Representative has not met the requirements of subsection (a) of this section, and of subsection (b) or (c) of this section (as the case may be).
+    during the 1-year period beginning on April 1 of any calendar year for which the Trade Representative has not met the requirements of subsection (a), and of subsection (b) or (c) (as the case may be).
 
-(3) **Exceptions** — Notwithstanding subsection (c)(3) of this section (other than subparagraph (B)), subsection (c)(4) of this section, or paragraph (2)(A) of this subsection, individuals included on the preliminary candidate lists submitted to the appropriate Congressional Committees under subsection (c)(3)(B) of this section may—
+(3) **Exceptions** — Notwithstanding subsection (c)(3) (other than subparagraph (B)), subsection (c)(4), or paragraph (2)(A) of this subsection, individuals included on the preliminary candidate lists submitted to the appropriate Congressional Committees under subsection (c)(3)(B) may—
 
   (A) be selected by the Trade Representative for placement on the rosters described in paragraph 1 of Annex 1901.2 and paragraph 1 of Annex 1904.13 during the 3-month period beginning on the date on which the Agreement enters into force with respect to the United States; and
 
   (B) be appointed solely or jointly by the Trade Representative under the terms of the Agreement to serve as members of panels or committees that are convened under chapter 19 during such 3-month period.
 
-**(e) Transition** If the Agreement enters into force between the United States and a NAFTA country after January 3, 1994, the provisions of subsection (c) of this section shall be applied with respect to the calendar year in which such entering into force occurs—
+**(e) Transition** If the Agreement enters into force between the United States and a NAFTA country after January 3, 1994, the provisions of subsection (c) shall be applied with respect to the calendar year in which such entering into force occurs—
 
-(1) by substituting “the date that is 30 days after the date on which the Agreement enters into force with respect to the United States” for “January 3 of each calendar year” in subsections (c)(2)(B)(i) and (c)(3)(B)(i) of this section; and
+(1) by substituting “the date that is 30 days after the date on which the Agreement enters into force with respect to the United States” for “January 3 of each calendar year” in subsections (c)(2)(B)(i) and (c)(3)(B)(i); and
 
-(2) by substituting “the date that is 3 months after the date on which the Agreement enters into force with respect to the United States” for “March 31 of each calendar year” in subsection (c)(4)(A) of this section.
+(2) by substituting “the date that is 3 months after the date on which the Agreement enters into force with respect to the United States” for “March 31 of each calendar year” in subsection (c)(4)(A).
 
 **(f) Immunity** With the exception of acts described in section 777(f)(3) of the Tariff Act of 1930 ([19 U.S.C. 1677f(f)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677f/f/3&num=0&edition=prelim)), individuals serving on panels or committees convened pursuant to chapter 19, and individuals designated to assist the individuals serving on such panels or committees, shall be immune from suit and legal process relating to acts performed by such individuals in their official capacity and within the scope of their functions as such panelists or committee members or assistants to such panelists or committee members.
 
 **(g) Regulations** The administering authority under title VII of the Tariff Act of 1930 [[19 U.S.C. 1671](./chapter-004-tariff-act-of-1930.md#section-1671) et seq.], the International Trade Commission, and the Trade Representative may promulgate such regulations as are necessary or appropriate to carry out actions in order to implement their respective responsibilities under chapter 19. Initial regulations to carry out such functions shall be issued before the date on which the Agreement enters into force with respect to the United States.
 
-**(h) Report to Congress** At such time as the final candidate lists are submitted under subsection (c)(4)(A) of this section and the final forms of amendments are submitted under subsection (c)(4)(C)(iv) of this section, the Trade Representative shall submit to the Committee on the Judiciary and the Committee on Ways and Means of the House of Representatives, and to the Committee on Finance and the Committee on the Judiciary of the Senate, a report regarding the efforts made to secure the participation of judges and former judges on binational panels, extraordinary challenge committees, and special committees established under chapter 19.
+**(h) Report to Congress** At such time as the final candidate lists are submitted under subsection (c)(4)(A) and the final forms of amendments are submitted under subsection (c)(4)(C)(iv), the Trade Representative shall submit to the Committee on the Judiciary and the Committee on Ways and Means of the House of Representatives, and to the Committee on Finance and the Committee on the Judiciary of the Senate, a report regarding the efforts made to secure the participation of judges and former judges on binational panels, extraordinary challenge committees, and special committees established under chapter 19.
 
 ### Statutory Notes
 
@@ -2041,7 +2050,7 @@ Pub. L. 103–182, title IV, § 416, Dec. 8, 1993, 107 Stat. 2148, provided that
 The Tariff Act of 1930, referred to in subsec. (g), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
 
 #### Amendments
-1996—Subsec. (d)(3). Pub. L. 104–295 substituted “subsection (c)(4) of this section” for “(c)(4)” in introductory provisions.
+1996—Subsec. (d)(3). Pub. L. 104–295 substituted “subsection (c)(4)” for “(c)(4)” in introductory provisions.
 
 #### North American Free Trade Agreement: Entry Into Force
 The North American Free Trade Agreement entered into force on Jan. 1, 1994, see note set out under [section 3311 of this title](./chapter-021-north-american-free-trade.md#section-3311).
@@ -2060,9 +2069,9 @@ The North American Free Trade Agreement entered into force on Jan. 1, 1994, see 
 (4) may require any individual, partnership, corporation, association, organization, or other entity to furnish in writing, in such detail and in such form as the committee may prescribe, information in its possession pertaining to the matter.
 Any member of the committee may sign subpoenas, and members of the committee, when authorized by the committee, may administer oaths and affirmations, examine witnesses, take testimony, and receive evidence.
 
-**(b) Witnesses and evidence** The attendance of witnesses who are authorized to be summoned, and the production of documentary evidence authorized to be ordered, under subsection (a) of this section may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena authorized under subsection (a) of this section, the committee may request the Attorney General of the United States to invoke the aid of any district or territorial court of the United States in requiring the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization, or other entity, issue an order requiring such individual or entity to appear before the committee, or to produce documentary evidence if so ordered or to give evidence concerning the matter in question. Any failure to obey such order of the court may be punished by such court as a contempt thereof.
+**(b) Witnesses and evidence** The attendance of witnesses who are authorized to be summoned, and the production of documentary evidence authorized to be ordered, under subsection (a) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena authorized under subsection (a), the committee may request the Attorney General of the United States to invoke the aid of any district or territorial court of the United States in requiring the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization, or other entity, issue an order requiring such individual or entity to appear before the committee, or to produce documentary evidence if so ordered or to give evidence concerning the matter in question. Any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
-**(c) Mandamus** Any court referred to in subsection (b) of this section shall have jurisdiction to issue writs of mandamus commanding compliance with the provisions of this section or any order of the committee made in pursuance thereof.
+**(c) Mandamus** Any court referred to in subsection (b) shall have jurisdiction to issue writs of mandamus commanding compliance with the provisions of this section or any order of the committee made in pursuance thereof.
 
 **(d) Depositions** The committee may order testimony to be taken by deposition at any stage of the committee review. Such deposition may be taken before any person designated by the committee and having power to administer oaths. Such testimony shall be reduced to writing by the person taking the deposition, or under the direction of such person, and shall then be subscribed by the deponent. Any individual, partnership, corporation, association, organization, or other entity may be compelled to appear and be deposed and to produce documentary evidence in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the committee, as provided in this section.
 
@@ -2098,7 +2107,7 @@ Any member of the committee may sign subpoenas, and members of the committee, wh
 
 **(c) Rules of procedure for safeguarding panel review system** The administering authority shall prescribe rules, negotiated in accordance with Annex 1905.6, governing the procedures for special committees described in such Annex.
 
-**(d) Publication of rules** The rules prescribed under subsections (a), (b), and (c) of this section shall be published in the Federal Register.
+**(d) Publication of rules** The rules prescribed under subsections (a), (b), and (c) shall be published in the Federal Register.
 
 **(e) Administering authority** As used in this section, the term “administering authority” has the meaning given such term in [section 1677(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/1&num=0&edition=prelim).
 
@@ -2136,9 +2145,9 @@ In the case of any trade agreement which may be entered into by the President wi
 (2) that the industry is likely to experience a deterioration of its competitive position before more effective rules and disciplines relating to the use of government subsidies have been developed with respect to the country concerned;
 may file with the Trade Representative a petition that such industry be identified under this section.
 
-**(b) Identification of industry** Within 90 days after receipt of a petition under subsection (a) of this section, the Trade Representative, in consultation with the Secretary of Commerce, shall decide whether to identify the industry on the basis that there is a reasonable likelihood that the industry may face both the subsidization described in subsection (a)(1) of this section and the deterioration described in subsection (a)(2) of this section.
+**(b) Identification of industry** Within 90 days after receipt of a petition under subsection (a), the Trade Representative, in consultation with the Secretary of Commerce, shall decide whether to identify the industry on the basis that there is a reasonable likelihood that the industry may face both the subsidization described in subsection (a)(1) and the deterioration described in subsection (a)(2).
 
-**(c) Action after identification** At the request of an entity that is representative of an industry identified under subsection (b) of this section, the Trade Representative shall—
+**(c) Action after identification** At the request of an entity that is representative of an industry identified under subsection (b), the Trade Representative shall—
 
 (1) compile and make available to the industry information under [section 2418 of this title](./chapter-012-trade-act-of-1974.md#section-2418);
 
@@ -2149,7 +2158,7 @@ The industry may request the Trade Representative to take appropriate action to 
 
 **(d) Initiation of action under other law**
 
-(1) **In general** — The Trade Representative and the Secretary of Commerce shall review information obtained under subsection (c) of this section and consult with the industry identified under subsection (b) of this section with a view to deciding whether any action is appropriate—
+(1) **In general** — The Trade Representative and the Secretary of Commerce shall review information obtained under subsection (c) and consult with the industry identified under subsection (b) with a view to deciding whether any action is appropriate—
 
   (A) under [section 2411 of this title](./chapter-012-trade-act-of-1974.md#section-2411), including the initiation of an investigation under [section 2412(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2412/c&num=0&edition=prelim) (in the case of the Trade Representative); or
 
@@ -2205,6 +2214,9 @@ shall apply to goods from a NAFTA country only to the extent specified in the am
 #### References in Text
 The Tariff Act of 1930, referred to in par. (1), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. Section 303 of the Act was classified to [section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303) and was repealed, effective Jan. 1, 1995, by Pub. L. 103–465, title II, § 261(a), Dec. 8, 1994, 108 Stat. 4908. For savings provisions and treatment of references to section 1303 in other laws, see section 261(b), (d)(1)(C) of Pub. L. 103–465, set out as notes under [section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303). For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
 
+#### Application of Amendments by Public Law 114–27 to Goods From Canada and Mexico
+Pub. L. 114–27, title V, § 507, June 29, 2015, 129 Stat. 387, provided that: “Pursuant to article 1902 of the North American Free Trade Agreement and section 408 of the North American Free Trade Agreement Implementation Act ([19 U.S.C. 3438](./chapter-021-north-american-free-trade.md#section-3438)), the amendments made by this title [see Short Title of 2015 Amendment note set out under [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654)] shall apply with respect to goods from Canada and Mexico.”
+
 #### Application of Amendments by Public Law 103–465 to Goods From Canada and Mexico
 Pub. L. 103–465, title II, § 234, Dec. 8, 1994, 108 Stat. 4901, provided that: “Pursuant to article 1902 of the North American Free Trade Agreement and section 408 of the North American Free Trade Agreement Implementation Act [[19 U.S.C. 3438](./chapter-021-north-american-free-trade.md#section-3438)], the amendments made by this title [see Tables for classification] shall apply with respect to goods from Canada and Mexico.”
 
@@ -2214,7 +2226,7 @@ The North American Free Trade Agreement entered into force on Jan. 1, 1994, see 
 
 <a id="section-3461"></a>
 ## § 3461. Effect of termination of NAFTA country status
-**(a) In general** Except as provided in subsection (b) of this section, on the date on which a country ceases to be a NAFTA country, the provisions of this title 11 See References in Text note below. (other than this section) and the amendments made by this title 1 shall cease to have effect with respect to that country.
+**(a) In general** Except as provided in subsection (b), on the date on which a country ceases to be a NAFTA country, the provisions of this title 11 See References in Text note below. (other than this section) and the amendments made by this title 1 shall cease to have effect with respect to that country.
 
 **(b) Transition provisions**
 
@@ -2267,7 +2279,7 @@ Pub. L. 103–182, title V, § 516, Dec. 8, 1993, 107 Stat. 2160, provided that:
 
   (C) the reduction or abatement of pollution in the region of the United States-Mexico border.
 
-**(b) Scope** In assessing the factors listed in subsection (a) of this section, to the extent possible, the study shall distinguish between the consequences of the Agreement and events that likely would have occurred without the Agreement. In addition, the study shall evaluate the effects of the Agreement relative to aggregate economic changes and, to the extent possible, relative to the effects of other factors, including—
+**(b) Scope** In assessing the factors listed in subsection (a), to the extent possible, the study shall distinguish between the consequences of the Agreement and events that likely would have occurred without the Agreement. In addition, the study shall evaluate the effects of the Agreement relative to aggregate economic changes and, to the extent possible, relative to the effects of other factors, including—
 
 (1) international competition,
 
@@ -2277,7 +2289,7 @@ Pub. L. 103–182, title V, § 516, Dec. 8, 1993, 107 Stat. 2160, provided that:
 
 (4) the Federal debt burden.
 
-**(c) Recommendations of President** The study shall include any appropriate recommendations by the President with respect to the operation and effects of the Agreement, including recommendations with respect to the specific factors listed in subsection (a) of this section.
+**(c) Recommendations of President** The study shall include any appropriate recommendations by the President with respect to the operation and effects of the Agreement, including recommendations with respect to the specific factors listed in subsection (a).
 
 **(d) Recommendations of certain committees** The President shall provide the study to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate and any other committee that has jurisdiction over any provision of United States law that was either enacted or amended by the North American Free Trade Agreement Implementation Act. Each such committee may hold hearings and make recommendations to the President with respect to the operation and effects of the Agreement.
 
@@ -2405,3 +2417,9 @@ Sec. 4. UNITED STATES CONTRIBUTIONS TO THE COMMISSION FOR ENVIRONMENTAL COOPERAT
 Sec. 5. JUDICIAL REVIEW. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right to administrative or judicial review, or any other right or benefit or trust responsibility, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.
+
+#### Extension of Term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation
+Term of the Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+#### Extension of Term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation
+Term of the National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.

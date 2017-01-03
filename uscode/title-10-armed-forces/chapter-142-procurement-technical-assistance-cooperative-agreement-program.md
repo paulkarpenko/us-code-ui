@@ -19,7 +19,7 @@ In this chapter:
 
   (C) A private, nonprofit organization.
 
-  (D) A tribal organization, as defined in section 4(l) of the Indian Self-Determination and Education Assistance Act (Public Law 93–638; [25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)(l)), or an economic enterprise, as defined in section 3(e) of the Indian Financing Act of 1974 (Public Law 93–262; [25 U.S.C. 1452(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1452/e&num=0&edition=prelim)), whether or not such economic enterprise is organized for profit purposes or nonprofit purposes.
+  (D) A tribal organization, as defined in section 4(l) of the Indian Self-Determination and Education Assistance Act (Public Law 93–638; [25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)(l)),11 See References in Text note below. or an economic enterprise, as defined in section 3(e) of the Indian Financing Act of 1974 (Public Law 93–262; [25 U.S.C. 1452(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1452/e&num=0&edition=prelim)), whether or not such economic enterprise is organized for profit purposes or nonprofit purposes.
 
 (2) The term “distressed area” means—
 
@@ -36,6 +36,9 @@ In this chapter:
 (4) The terms “State” and “local government” have the meaning given those terms in [section 6302 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6302&num=0&edition=prelim).
 
 ### Statutory Notes
+
+#### References in Text
+Section 4(l) of the Indian Self-Determination and Education Assistance Act, referred to in par. (1)(D), was classified to section 450b(l) of Title 25, Indians, prior to editorial reclassification as section 5304(l) of Title 25.
 
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.

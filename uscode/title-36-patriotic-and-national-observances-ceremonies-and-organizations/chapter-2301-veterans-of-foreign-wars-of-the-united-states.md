@@ -74,7 +74,7 @@ An individual is eligible for membership in the corporation only if the individu
 
 (2) on the Korean peninsula or in its territorial waters for at least 30 consecutive days, or a total of 60 days, after June 30, 1949; or
 
-(3) in an area which entitled the individual to receive special pay for duty subject to hostile fire or imminent danger under [section 310 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section310&num=0&edition=prelim).
+(3) in an area which entitled the individual to receive special pay for duty subject to hostile fire or imminent danger under section 310 or 351 of title 37.
 
 ### Statutory Notes
 
@@ -86,6 +86,8 @@ An individual is eligible for membership in the corporation only if the individu
 The words “is eligible for membership . . . only if” are substituted for “may not be a member . . . unless” for consistency in the revised title. The words “served honorably as a member of the armed forces of the United States” are substituted for “served honorably as a member of the Armed Forces of the United States” and “while a member of the Armed Forces of the United States, served honorably” to eliminate unnecessary words. In clause (2), the words “at least” are substituted for “not less than” for consistency in the revised title.
 
 #### Amendments
+2016—Par. (3). Pub. L. 114–328 inserted “or 351” after “section 310”.
+
 2002—Par. (3). Pub. L. 107–242 added par. (3).
 
 

@@ -238,7 +238,7 @@ Amendment by Pub. L. 91–222 effective Jan. 1, 1970, except where otherwise spe
 
 **(b)**
 
-(1) At such times as the Secretary considers appropriate, the Secretary shall transmit to the Congress a report, based on the information provided under subsection (a) of this section, respecting—
+(1) At such times as the Secretary considers appropriate, the Secretary shall transmit to the Congress a report, based on the information provided under subsection (a), respecting—
 
   (A) a summary of research activities and proposed research activities on the health effects of ingredients added to tobacco in the manufacture of cigarettes and the findings of such research;
 
@@ -248,11 +248,11 @@ Amendment by Pub. L. 91–222 effective Jan. 1, 1970, except where otherwise spe
 
 (2)
 
-  (A) Any information provided to the Secretary under subsection (a) of this section shall be treated as trade secret or confidential information subject to [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim) and [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim) and shall not be revealed, except as provided in paragraph (1), to any person other than those authorized by the Secretary in carrying out their official duties under this section.
+  (A) Any information provided to the Secretary under subsection (a) shall be treated as trade secret or confidential information subject to [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim) and [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim) and shall not be revealed, except as provided in paragraph (1), to any person other than those authorized by the Secretary in carrying out their official duties under this section.
 
-  (B) Subparagraph (A) does not authorize the withholding of a list provided under subsection (a) of this section from any duly authorized subcommittee or committee of the Congress. If a subcommittee or committee of the Congress requests the Secretary to provide it such a list, the Secretary shall make the list available to the subcommittee or committee and shall, at the same time, notify in writing the person who provided the list of such request.
+  (B) Subparagraph (A) does not authorize the withholding of a list provided under subsection (a) from any duly authorized subcommittee or committee of the Congress. If a subcommittee or committee of the Congress requests the Secretary to provide it such a list, the Secretary shall make the list available to the subcommittee or committee and shall, at the same time, notify in writing the person who provided the list of such request.
 
-  (C) The Secretary shall establish written procedures to assure the confidentiality of information provided under subsection (a) of this section. Such procedures shall include the designation of a duly authorized agent to serve as custodian of such information. The agent—
+  (C) The Secretary shall establish written procedures to assure the confidentiality of information provided under subsection (a). Such procedures shall include the designation of a duly authorized agent to serve as custodian of such information. The agent—
 
     (i) shall take physical possession of the information and, when not in use by a person authorized to have access to such information, shall store it in a locked cabinet or file, and
 
@@ -357,7 +357,7 @@ Section effective Jan. 1, 1970, see section 3 of Pub. L. 91–222, set out in pa
 
 (1) conduct and support research on the effect of cigarette smoking on human health and develop materials for informing the public of such effect;
 
-(2) coordinate all research and educational programs and other activities within the Department of Health and Human Services (hereinafter in this section referred to as the “Department”) which relate to the effect of cigarette smoking on human health and coordinate, through the Interagency Committee on Smoking and Health (established under subsection (b) of this section), such activities with similar activities of other Federal agencies and of private agencies;
+(2) coordinate all research and educational programs and other activities within the Department of Health and Human Services (hereinafter in this section referred to as the “Department”) which relate to the effect of cigarette smoking on human health and coordinate, through the Interagency Committee on Smoking and Health (established under subsection (b)), such activities with similar activities of other Federal agencies and of private agencies;
 
 (3) establish and maintain a liaison with appropriate private entities, other Federal agencies, and State and local public agencies respecting activities relating to the effect of cigarette smoking on human health;
 
@@ -369,7 +369,7 @@ Section effective Jan. 1, 1970, see section 3 of Pub. L. 91–222, set out in pa
 
 **(b) Interagency Committee on Smoking and Health; composition; chairman; compensation; staffing and other assistance**
 
-(1) To carry out the activities described in paragraphs (2) and (3) of subsection (a) of this section there is established an Interagency Committee on Smoking and Health. The Committee shall be composed of—
+(1) To carry out the activities described in paragraphs (2) and (3) of subsection (a) there is established an Interagency Committee on Smoking and Health. The Committee shall be composed of—
 
   (A) members appointed by the Secretary from appropriate institutes and agencies of the Department, which may include the National Cancer Institute, the National Heart, Lung, and Blood Institute, the Eunice Kennedy Shriver National Institute of Child Health and Human Development, the National Institute on Drug Abuse, the Health Resources and Services Administration, and the Centers for Disease Control and Prevention;
 
@@ -386,7 +386,7 @@ Section effective Jan. 1, 1970, see section 3 of Pub. L. 91–222, set out in pa
 
 (1) an overview and assessment of Federal activities undertaken to inform the public of the health consequences of smoking and the extent of public knowledge of such consequences,
 
-(2) a description of the Secretary’s and Committee’s activities under subsection (a) of this section,
+(2) a description of the Secretary’s and Committee’s activities under subsection (a),
 
 (3) information regarding the activities of the private sector taken in response to the effects of smoking on health, and
 

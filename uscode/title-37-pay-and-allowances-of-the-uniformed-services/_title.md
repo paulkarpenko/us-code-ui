@@ -2,7 +2,7 @@
 title: 37
 heading: PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
 positive_law: false
-sections: 257
+sections: 258
 chapters: 12
 ---
 # Title 37. PAY AND ALLOWANCES OF THE UNIFORMED SERVICES

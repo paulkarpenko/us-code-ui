@@ -165,7 +165,7 @@ Pub. L. 100–428, § 1, Sept. 9, 1988, 102 Stat. 1615, as amended by Pub. L. 11
 
   (C) may provide for the reimbursement of any party thereto for all or any part of the costs incurred by such party in furnishing wildfire protection resources for, or on behalf of, any other party thereto.
 
-**(b) Exchange of wildfire protection resources without a reciprocal agreement** In the absence of any agreement authorized under subsection (a) of this section, the Secretary of Agriculture or the Secretary of the Interior may—
+**(b) Exchange of wildfire protection resources without a reciprocal agreement** In the absence of any agreement authorized under subsection (a), the Secretary of Agriculture or the Secretary of the Interior may—
 
 (1) furnish emergency wildfire protection resources to any foreign nation when the furnishing of such resources is determined by such Secretary to be in the best interest of the United States; and
 

@@ -2,7 +2,7 @@
 title: 46
 chapter: '3'
 heading: FEDERAL MARITIME COMMISSION
-section_count: 7
+section_count: 8
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -38,13 +38,15 @@ source: >-
 
     (i) appoint and supervise officers and employees of the Commission;
 
-    (ii) appoint the heads of major organizational units, but only after consultation with the other Commissioners;
+    (ii) appoint the heads of major organizational units (with such appointments subject to the approval of the Commission);
 
     (iii) distribute the business of the Commission among personnel and organizational units;
 
-    (iv) supervise the expenditure of money for administrative purposes; and
+    (iv) supervise the expenditure of money for administrative purposes;
 
-    (v) assign Commission personnel, including Commissioners, to perform duties and powers delegated by the Commission under [section 304 of this title](./chapter-003-federal-maritime-commission.md#section-304).
+    (v) assign Commission personnel, including Commissioners, to perform duties and powers delegated by the Commission under [section 304 of this title](./chapter-003-federal-maritime-commission.md#section-304); and
+
+    (vi) prepare and submit to the President and the Congress requests for appropriations for the Commission (with such requests subject to the approval of the Commission).
 
   (B) *Nonapplication.—* — Subparagraph (A) (other than clause (v)) does not apply to personnel employed regularly and full-time in the offices of Commissioners other than the Chairman.
 
@@ -79,6 +81,10 @@ Subsection (c)(3) is based on section 2 of Reorganization Plan No. 6 of 1949 and
 Subsection (c)(4) is based on section 3 of Reorganization Plan No. 6 of 1949.
 
 #### Amendments
+2016—Subsec. (c)(3)(A)(ii). Pub. L. 114–120, § 402(1), substituted “units (with such appointments subject to the approval of the Commission);” for “units, but only after consultation with the other Commissioners;”.
+
+Subsec. (c)(3)(A)(vi). Pub. L. 114–120, § 402(2)–(4), added cl. (vi).
+
 2014—Subsec. (b)(2). Pub. L. 113–281, § 403(a)(1), amended par. (2) generally. Prior to amendment, text read as follows: “The term of each Commissioner is 5 years, with each term beginning one year apart. An individual appointed to fill a vacancy is appointed only for the unexpired term of the individual being succeeded. A vacancy shall be filled in the same manner as the original appointment. When the term of a Commissioner ends, the Commissioner may continue to serve until a successor is appointed and qualified.”
 
 Subsec. (b)(3) to (5). Pub. L. 113–281, § 403(a)(2), added pars. (3) and (4) and redesignated former par. (3) as (5).
@@ -176,8 +182,9 @@ In subsection (a), the words “a statement of all receipts under this chapter�
 
 <a id="section-307"></a>
 ## § 307. Expenditures
+**(a) In General.—** The Federal Maritime Commission may make such expenditures as are necessary in the performance of its functions from funds appropriated or otherwise made available to it, which appropriations are authorized.
 
-The Federal Maritime Commission may make such expenditures as are necessary in the performance of its functions from funds appropriated or otherwise made available to it, which appropriations are authorized.
+**(b) Prohibition.—** Notwithstanding subsection (a), the Federal Maritime Commission may not expend any funds appropriated or otherwise made available to it to a non-Federal entity to issue an award, prize, commendation, or other honor that is not related to the purposes set forth in section 40101.
 
 ### Statutory Notes
 
@@ -187,3 +194,12 @@ The Federal Maritime Commission may make such expenditures as are necessary in t
 | 307 | 46 App.:1111(d) (related to Commission). | June 29, 1936, ch. 858, title II, § 201(d) (related to Commission), 49 Stat. 1986; Pub. L. 97–31, § 12(58)(B), Aug. 6, 1981, 95 Stat. 158. |
 
 The words “by this chapter”, “after June 29, 1936”, and “further” are omitted as unnecessary.
+
+#### Amendments
+2016—Pub. L. 114–120 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+
+<a id="section-308"></a>
+## § 308. Authorization of appropriations
+
+There is authorized to be appropriated to the Federal Maritime Commission $24,700,000 for each of fiscal years 2016 and 2017 for the activities of the Commission authorized under this chapter and subtitle IV.

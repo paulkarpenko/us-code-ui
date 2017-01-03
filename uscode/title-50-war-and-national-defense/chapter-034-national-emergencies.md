@@ -21,7 +21,7 @@ source: >-
 ### Statutory Notes
 
 #### Short Title
-Pub. L. 94–412, § 1, Sept. 14, 1976, 90 Stat. 1255, provided: “That this Act [enacting this chapter, amending [section 1481 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1481&num=0&edition=prelim), Aliens and Nationality, and [section 2667 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2667&num=0&edition=prelim), Armed Forces, repealing [section 249 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section249&num=0&edition=prelim), Banks and Banking, [section 831d of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section831d&num=0&edition=prelim), Conservation, [section 1383 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1383&num=0&edition=prelim), Crimes and Criminal Procedure, [section 211b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section211b&num=0&edition=prelim), The Public Health and Welfare, and section 1742 of the Appendix to this title, and enacting provisions set out below] may be cited as the ‘National Emergencies Act’.”
+Pub. L. 94–412, § 1, Sept. 14, 1976, 90 Stat. 1255, provided: “That this Act [enacting this chapter, amending [section 1481 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1481&num=0&edition=prelim), Aliens and Nationality, and [section 2667 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2667&num=0&edition=prelim), Armed Forces, repealing [section 249 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section249&num=0&edition=prelim), Banks and Banking, [section 831d of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section831d&num=0&edition=prelim), Conservation, [section 1383 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1383&num=0&edition=prelim), Crimes and Criminal Procedure, [section 211b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section211b&num=0&edition=prelim), The Public Health and Welfare, and section 1742 of the former Appendix to this title, and enacting provisions set out below] may be cited as the ‘National Emergencies Act’.”
 
 #### Savings Provision
 Pub. L. 94–412, title V, § 501(h), Sept. 14, 1976, 90 Stat. 1258, provided that: “This section [amending [section 1481 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1481&num=0&edition=prelim), Aliens and Nationality and [section 2667 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2667&num=0&edition=prelim), Armed Forces, and repealing [section 249 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section249&num=0&edition=prelim), Banks and Banking, [section 831d of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section831d&num=0&edition=prelim), Conservation, [section 1383 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1383&num=0&edition=prelim), Crimes and Criminal Procedure, and [section 211b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section211b&num=0&edition=prelim), The Public Health and Welfare] shall not affect— “(1) any action taken or proceeding pending not finally concluded or determined at the time of repeal; “(2) any action or proceeding based on any act committed prior to repeal; or “(3) any rights or duties that matured or penalties that were incurred prior to repeal.”
@@ -51,17 +51,21 @@ IN WITNESS WHEREOF, I have hereunto set my hand this fourteenth day of September
 George W. Bush.
 
 #### Continuation of National Emergency Declared by Proc. No. 7463
-Notice of President of the United States, dated Sept. 4, 2014, 79 F.R. 53279, provided:
+Notice of President of the United States, dated Aug. 30, 2016, 81 F.R. 60579, provided:
 
 Consistent with section 202(d) of the National Emergencies Act, [50 U.S.C. 1622(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1622/d&num=0&edition=prelim), I am continuing for 1 year the national emergency previously declared on September 14, 2001, in Proclamation 7463, with respect to the terrorist attacks of September 11, 2001, and the continuing and immediate threat of further attacks on the United States.
 
-Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2014. Therefore, I am continuing in effect for an additional year the national emergency that was declared on September 14, 2001, with respect to the terrorist threat.
+Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2016. Therefore, I am continuing in effect for an additional year the national emergency that was declared on September 14, 2001, with respect to the terrorist threat.
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
 Barack Obama.
 
 Prior continuations of national emergency declared by Proc. No. 7463 were contained in the following:
+
+Notice of President of the United States, dated Sept. 10, 2015, 80 F.R. 55013.
+
+Notice of President of the United States, dated Sept. 4, 2014, 79 F.R. 53279.
 
 Notice of President of the United States, dated Sept. 10, 2013, 78 F.R. 56581.
 

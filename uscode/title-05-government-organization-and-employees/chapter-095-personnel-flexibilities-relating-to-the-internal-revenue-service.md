@@ -290,7 +290,7 @@ The Government Performance and Results Act of 1993, referred to in subsec. (a)(2
 
 (4) An appointing authority may select any applicant from the highest quality category or, if fewer than three candidates have been assigned to the highest quality category, from a merged category consisting of the highest and second highest quality categories.
 
-(5) Notwithstanding paragraph (4), the appointing authority may not pass over a preference eligible in the same or higher category from which selection is made unless the requirements of section 3317(b) or 3318(b), as applicable, are satisfied.
+(5) Notwithstanding paragraph (4), the appointing authority may not pass over a preference eligible in the same or higher category from which selection is made unless the requirements of section 3317(b) or 3318(c), as applicable, are satisfied.
 
 **(c)** The Secretary of the Treasury may detail employees among the offices of the Internal Revenue Service without regard to the 120-day limitation in section 3341(b).
 
@@ -306,3 +306,6 @@ The Government Performance and Results Act of 1993, referred to in subsec. (a)(2
 
 #### References in Text
 GS–9, referred to in subsec. (b)(3), is contained in the General Schedule which is set out under [section 5332 of this title](./chapter-053-pay-rates-and-systems.md#section-5332).
+
+#### Amendments
+2016—Subsec. (b)(5). Pub. L. 114–137 substituted “3318(c)” for “3318(b)”.

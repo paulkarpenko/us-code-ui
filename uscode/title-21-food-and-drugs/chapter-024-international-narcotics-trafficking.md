@@ -18,7 +18,7 @@ source: >-
 
 (4) There is a national emergency resulting from the activities of international narcotics traffickers and their organizations that threatens the national security, foreign policy, and economy of the United States.
 
-**(b) Policy** It shall be the policy of the United States to apply economic and other financial sanctions to significant foreign narcotics traffickers and their organizations worldwide to protect the national security, foreign policy, and economy of the United States from the threat described in subsection (a)(4) of this section.
+**(b) Policy** It shall be the policy of the United States to apply economic and other financial sanctions to significant foreign narcotics traffickers and their organizations worldwide to protect the national security, foreign policy, and economy of the United States from the threat described in subsection (a)(4).
 
 ### Statutory Notes
 
@@ -47,7 +47,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 <a id="section-1903"></a>
 ## § 1903. Public identification of significant foreign narcotics traffickers and required reports
-**(a) Provision of information to the President** The Secretary of the Treasury, the Attorney General, the Secretary of Defense, the Secretary of State, and the Director of Central Intelligence shall consult among themselves and provide the appropriate and necessary information to enable the President to submit the report under subsection (b) of this section. This information shall also be provided to the Director of the Office of National Drug Control Policy.
+**(a) Provision of information to the President** The Secretary of the Treasury, the Attorney General, the Secretary of Defense, the Secretary of State, and the Director of Central Intelligence shall consult among themselves and provide the appropriate and necessary information to enable the President to submit the report under subsection (b). This information shall also be provided to the Director of the Office of National Drug Control Policy.
 
 **(b) Public identification and sanctioning of significant foreign narcotics traffickers** Not later than June 1, 2000, and not later than June 1 of each year thereafter, the President shall submit a report to the Permanent Select Committee on Intelligence, and the Committees on the Judiciary, International Relations, Armed Services, and Ways and Means of the House of Representatives; and to the Select Committee on Intelligence, and the Committees on the Judiciary, Foreign Relations, Armed Services, and Finance of the Senate—
 
@@ -56,7 +56,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 (2) detailing publicly the President’s intent to impose sanctions upon these significant foreign narcotics traffickers pursuant to this chapter.
 The report required in this subsection shall not include information on persons upon which United States sanctions imposed under this chapter, or otherwise on account of narcotics trafficking, are already in effect.
 
-**(c) Unclassified report required** The report required by subsection (b) of this section shall be submitted in unclassified form and made available to the public.
+**(c) Unclassified report required** The report required by subsection (b) shall be submitted in unclassified form and made available to the public.
 
 **(d) Classified report**
 
@@ -68,9 +68,9 @@ The report required in this subsection shall not include information on persons 
 
 **(e) Exclusion of certain information**
 
-(1) **Intelligence** — Notwithstanding any other provision of this section, the reports described in subsections (b) and (d) of this section shall not disclose the identity of any person, if the Director of Central Intelligence determines that such disclosure could compromise an intelligence operation, activity, source, or method of the United States.
+(1) **Intelligence** — Notwithstanding any other provision of this section, the reports described in subsections (b) and (d) shall not disclose the identity of any person, if the Director of Central Intelligence determines that such disclosure could compromise an intelligence operation, activity, source, or method of the United States.
 
-(2) **Law enforcement** — Notwithstanding any other provision of this section, the reports described in subsections (b) and (d) of this section shall not disclose the name of any person if the Attorney General, in coordination as appropriate with the Director of the Federal Bureau of Investigation, the Administrator of the Drug Enforcement Administration, and the Secretary of the Treasury, determines that such disclosure could reasonably be expected to—
+(2) **Law enforcement** — Notwithstanding any other provision of this section, the reports described in subsections (b) and (d) shall not disclose the name of any person if the Attorney General, in coordination as appropriate with the Director of the Federal Bureau of Investigation, the Administrator of the Drug Enforcement Administration, and the Secretary of the Treasury, determines that such disclosure could reasonably be expected to—
 
   (A) compromise the identity of a confidential source, including a State, local, or foreign agency or authority or any private institution that furnished information on a confidential basis;
 
@@ -82,7 +82,7 @@ The report required in this subsection shall not include information on persons 
 
 **(f) Notification required**
 
-(1) Whenever either the Director of Central Intelligence or the Attorney General makes a determination under subsection (e) of this section, the Director of Central Intelligence or the Attorney General shall notify the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, and explain the reasons for such determination.
+(1) Whenever either the Director of Central Intelligence or the Attorney General makes a determination under subsection (e), the Director of Central Intelligence or the Attorney General shall notify the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, and explain the reasons for such determination.
 
 (2) The notification required under this subsection shall be submitted to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate not later than July 1, 2000, and on an annual basis thereafter.
 
@@ -96,7 +96,7 @@ The report required in this subsection shall not include information on persons 
 
 (1) **Additional determinations**
 
-  (A) If at any time after the report required under subsection (b) of this section the President finds that a foreign person is a significant foreign narcotics trafficker and such foreign person has not been publicly identified in a report required under subsection (b) of this section, the President shall submit an additional public report containing the information described in subsection (b) of this section with respect to such foreign person to the Permanent Select Committee on Intelligence, and the Committees on the Judiciary, International Relations, Armed Services, and Ways and Means of the House of Representatives, and the Select Committee on Intelligence, and the Committees on the Judiciary, Foreign Relations, Armed Services, and Finance of the Senate.
+  (A) If at any time after the report required under subsection (b) the President finds that a foreign person is a significant foreign narcotics trafficker and such foreign person has not been publicly identified in a report required under subsection (b), the President shall submit an additional public report containing the information described in subsection (b) with respect to such foreign person to the Permanent Select Committee on Intelligence, and the Committees on the Judiciary, International Relations, Armed Services, and Ways and Means of the House of Representatives, and the Select Committee on Intelligence, and the Committees on the Judiciary, Foreign Relations, Armed Services, and Finance of the Senate.
 
   (B) The President may apply sanctions authorized under this chapter to the significant foreign narcotics trafficker identified in the report submitted under subparagraph (A) as if the trafficker were originally included in the report submitted pursuant to subsection (b) of this section.
 
@@ -104,14 +104,21 @@ The report required in this subsection shall not include information on persons 
 
 (2) **Revocation of determination**
 
-  (A) Whenever the President finds that a foreign person that has been publicly identified as a significant foreign narcotics trafficker in the report required under subsection (b) of this section or this subsection no longer engages in those activities for which sanctions under this chapter may be applied, the President shall issue public notice of such a finding.
+  (A) Whenever the President finds that a foreign person that has been publicly identified as a significant foreign narcotics trafficker in the report required under subsection (b) or this subsection no longer engages in those activities for which sanctions under this chapter may be applied, the President shall issue public notice of such a finding.
 
   (B) Not later than the date of the public notice issued pursuant to subparagraph (A), the President shall notify, in writing and in classified or unclassified form, the Permanent Select Committee on Intelligence, and the Committees on the Judiciary, International Relations, Armed Services, and Ways and Means of the House of Representatives, and the Select Committee on Intelligence, and the Committees on the Judiciary, Foreign Relations, Armed Services, and Finance of the Senate of actions taken under this paragraph and a description of the basis for such actions.
+
+**(i) Protection of classified information in Federal court challenges relating to designations** In any judicial review of a determination made under this section, if the determination was based on classified information (as defined in section 1(a) of the Classified Information Procedures Act) such information may be submitted to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review.
 
 ### Statutory Notes
 
 #### References in Text
 The National Security Act of 1947, referred to in subsec. (d)(3), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§ 3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+
+Section 1(a) of the Classified Information Procedures Act, referred to in subsec. (i), is section 1(a) of Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+
+#### Amendments
+2016—Subsec. (i). Pub. L. 114–198 added subsec. (i).
 
 #### Change of Name
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
@@ -125,6 +132,17 @@ For delegation of Congressional reporting functions of President under subsec. (
 Memorandum of President of the United States, May 31, 2013, 78 F.R. 33943, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby delegate the functions conferred upon the President by section 804(h)(2)(A) of the Foreign Narcotics Kingpin Designation Act ([21 U.S.C. 1903(h)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1903/h/2/A&num=0&edition=prelim)), to the Secretary of the Treasury.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.
+
+#### Delegation of Functions Under the Foreign Narcotics Kingpin Designation Act
+Memorandum of President of the United States, May 15, 2015, 80 F.R. 29201, provided:
+
+Memorandum for the Secretary of the Treasury
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby delegate the functions conferred upon the President by sections 804(b), (c), (g), and (h) of the Foreign Narcotics Kingpin Designation Act ([21 U.S.C. 1903(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1903/b&num=0&edition=prelim), (c), (g), and (h)), to the Secretary of the Treasury.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 
@@ -189,7 +207,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 (2) investigate, block during the pendency of an investigation, regulate, direct and compel, nullify, void, prevent, or prohibit any acquisition, holding, withholding, use, transfer, withdrawal, transportation, placement into foreign or domestic commerce of, or dealing in, or exercising any right, power, or privilege with respect to, or transactions involving, any property in which any foreign country or a national thereof has any interest,
 by any person, or with respect to any property, subject to the jurisdiction of the United States.
 
-**(b) Recordkeeping** Pursuant to subsection (a) of this section, the Secretary of the Treasury may require recordkeeping, reporting, and production of documents to carry out the purposes of this chapter.
+**(b) Recordkeeping** Pursuant to subsection (a), the Secretary of the Treasury may require recordkeeping, reporting, and production of documents to carry out the purposes of this chapter.
 
 **(c) Defenses**
 
@@ -215,7 +233,7 @@ by any person, or with respect to any property, subject to the jurisdiction of t
 
 **(b) Civil penalties** A civil penalty not to exceed $1,000,000 may be imposed by the Secretary of the Treasury on any person who violates any license, order, rule, or regulation issued in compliance with the provisions of this chapter.
 
-**(c) Judicial review of civil penalty** Any penalty imposed under subsection (b) of this section shall be subject to judicial review only to the extent provided in [section 702 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section702&num=0&edition=prelim).
+**(c) Judicial review of civil penalty** Any penalty imposed under subsection (b) shall be subject to judicial review only to the extent provided in [section 702 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section702&num=0&edition=prelim).
 
 
 <a id="section-1907"></a>
@@ -312,7 +330,7 @@ As used in this chapter:
 
 **(g) Report**
 
-(1) Not later than 1 year after December 3, 1999, the Commissions 33 So in original. Probably should be “Commission”. shall submit to the committees of Congress referred to in paragraph (4) a report on the activities of the Commission under this section, including the findings, conclusions, and recommendations, if any, of the Commission as a result of the review under subsection (c)(1) of this section and the examination and evaluation under subsection (c)(2) of this section.
+(1) Not later than 1 year after December 3, 1999, the Commissions 33 So in original. Probably should be “Commission”. shall submit to the committees of Congress referred to in paragraph (4) a report on the activities of the Commission under this section, including the findings, conclusions, and recommendations, if any, of the Commission as a result of the review under subsection (c)(1) and the examination and evaluation under subsection (c)(2).
 
 (2) The report under paragraph (1) shall include any additional or dissenting views of a member of the Commission upon the request of the member.
 
@@ -324,7 +342,7 @@ As used in this chapter:
 
   (B) The Permanent Select Committee on Intelligence and the Committees on International Relations and the Judiciary of the House of Representatives.
 
-**(h) Termination** The Commission shall terminate at the end of the 60-day period beginning on the date on which the report required by subsection (g) of this section is submitted to the committees of Congress referred to in that subsection.
+**(h) Termination** The Commission shall terminate at the end of the 60-day period beginning on the date on which the report required by subsection (g) is submitted to the committees of Congress referred to in that subsection.
 
 **(i) Inapplicability of certain administrative provisions**
 

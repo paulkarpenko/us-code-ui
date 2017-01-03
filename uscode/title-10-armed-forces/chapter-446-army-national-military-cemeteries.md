@@ -24,6 +24,9 @@ source: >-
 
 ### Statutory Notes
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (e) of this section relating to submitting annual budget request to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
 #### Digitization of Arlington National Cemetery Interment and Inurnment Records
 Pub. L. 112–81, div. A, title V, § 591(b), Dec. 31, 2011, 125 Stat. 1441, provided that: “(1) Deadline for conversion and use.—Not later than June 1, 2012, all records related to interments and inurnments at Arlington National Cemetery shall be converted to a digitized format. Thereafter, use of the digitized format shall be the method by which all subsequent records related to interments and inurnments at Arlington National Cemetery are preserved and utilized. “(2) Digitized format defined.—In this subsection, the term ‘digitized format’ refers to the use of an electronic database for recordkeeping and includes the full accounting of all records of each specific gravesite and niche location at Arlington National Cemetery and the identification of the individual interred or inurned at each specific gravesite and niche location.”
 

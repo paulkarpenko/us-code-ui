@@ -2,7 +2,7 @@
 title: 42
 chapter: '67'
 heading: CHILD ABUSE PREVENTION AND TREATMENT AND ADOPTION REFORM
-section_count: 45
+section_count: 46
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -10,7 +10,7 @@ source: >-
 ## § 5101. Office on Child Abuse and Neglect
 **(a) Establishment** The Secretary of Health and Human Services may establish an office to be known as the Office on Child Abuse and Neglect.
 
-**(b) Purpose** The purpose of the Office established under subsection (a) of this section shall be to execute and coordinate the functions and activities of this subchapter and subchapter III of this chapter. In the event that such functions and activities are performed by another entity or entities within the Department of Health and Human Services, the Secretary shall ensure that such functions and activities are executed with the necessary expertise and in a fully coordinated manner involving regular intradepartmental and interdepartmental consultation with all agencies involved in child abuse and neglect activities.
+**(b) Purpose** The purpose of the Office established under subsection (a) of this section shall be to execute and coordinate the functions and activities of this subchapter and subchapter III. In the event that such functions and activities are performed by another entity or entities within the Department of Health and Human Services, the Secretary shall ensure that such functions and activities are executed with the necessary expertise and in a fully coordinated manner involving regular intradepartmental and interdepartmental consultation with all agencies involved in child abuse and neglect activities.
 
 ### Statutory Notes
 
@@ -124,7 +124,7 @@ Pub. L. 99–401, title I, § 105, Aug. 27, 1986, 100 Stat. 906, provided that: 
 Pub. L. 93–247, § 2, as added by Pub. L. 102–295, title I, § 102(a), May 28, 1992, 106 Stat. 188, and amended by Pub. L. 104–235, title I, § 100, Oct. 3, 1996, 110 Stat. 3064; Pub. L. 108–36, title I, § 101, June 25, 2003, 117 Stat. 801; Pub. L. 111–320, title I, § 101, Dec. 20, 2010, 124 Stat. 3459, provided that: “Congress finds that— “(1) in fiscal year 2008, approximately 772,000 children were found by States to be victims of child abuse and neglect; “(2)(A) more children suffer neglect than any other form of maltreatment and close to ⅓ of all child maltreatment-related fatalities in fiscal year 2008 were attributed to neglect alone; and “(B) investigations have determined that approximately 71 percent of children who were victims of maltreatment in fiscal year 2008 suffered neglect, 16 percent suffered physical abuse, 9 percent suffered sexual abuse,, [sic] 7 percent suffered psychological maltreatment, 2 percent experienced medical neglect, and 9 percent were victims of other forms of maltreatment; “(3)(A) child abuse or neglect can result in the death of a child; “(B) in fiscal year 2008, an estimated 1,740 children were counted by child protection services to have died as a result of abuse or neglect; and “(C) in fiscal year 2008, children younger than 1 year old comprised 45 percent of child maltreatment fatalities and 72 percent of child maltreatment fatalities were younger than 4 years of age; “(4)(A) many of these children and their families fail to receive adequate protection and treatment; and “(B) approximately 37 percent of victims of child abuse did not receive post-investigation services in fiscal year 2008; “(5) African-American children, American Indian children, Alaska Native children, and children of multiple races and ethnicities experience the highest rates of child abuse or neglect; “(6) the problem of child abuse and neglect requires a comprehensive approach that—“(A) integrates the work of social service, legal, health, mental health, domestic violence services, education, and substance abuse agencies and community-based organizations; “(B) strengthens coordination among all levels of government, and with private agencies, civic, religious, and professional organizations, and individual volunteers; “(C) emphasizes the need for abuse and neglect prevention, assessment, investigation, and treatment at the neighborhood level; “(D) recognizes the need for properly trained staff with the qualifications needed, to carry out their child protection duties; and “(E) recognizes the diversity of ethnic, cultural, and religious beliefs and traditions that may impact child rearing patterns, while not allowing the differences in those beliefs and traditions to enable abuse or neglect; “(7) the failure to coordinate and comprehensively prevent and treat child abuse and neglect threatens the futures of thousands of children and results in a cost to the Nation of billions of dollars in tangible expenditures, as well as significant intangible costs; “(8) all elements of American society have a shared responsibility in responding to child abuse and neglect; “(9) substantial reductions in the prevalence and incidence of child abuse and neglect and the alleviation of its consequences are matters of the highest national priority; “(10) national policy should strengthen families to prevent child abuse and neglect, provide support for needed services to prevent the unnecessary removal of children from families, and promote the reunification of families where appropriate; “(11) the child protection system should be comprehensive, child-centered, family-focused, and community-based, should incorporate all appropriate measures to prevent the occurrence or recurrence of child abuse and neglect, and should promote physical and psychological recovery and social re-integration in an environment that fosters the health, safety, self-respect, and dignity of the child; “(12) because both child maltreatment and domestic violence occur in up to 60 percent of the families in which either is present, States and communities should adopt assessments and intervention procedures aimed at enhancing the safety both of children and victims of domestic violence; “(13) because of the limited resources available in low-income communities, Federal aid for the child protection system should be distributed with due regard to the relative financial need of the communities; “(14) the Federal Government should assist States and communities with the fiscal, human, and technical resources necessary to develop and implement a successful and comprehensive child and family protection strategy; and “(15) the Federal Government should provide leadership and assist communities in their child and family protection efforts by—“(A) promoting coordinated planning among all levels of government; “(B) generating and sharing knowledge relevant to child and family protection, including the development of models for service delivery; “(C) strengthening the capacity of States to assist communities; “(D) allocating financial resources to assist States in implementing community plans; “(E) helping communities to carry out their child and family protection plans by promoting the competence of professional, paraprofessional, and volunteer resources; and “(F) providing leadership to end the abuse and neglect of the nation’s children and youth.”
 
 #### Definitions
-Pub. L. 93–247, § 3, as added by Pub. L. 111–320, title I, § 142(a), Dec. 20, 2010, 124 Stat. 3482, as amended by Pub. L. 114–22, title VIII, § 802(c)(2), May 29, 2015, 129 Stat. 264, provided that: “In this Act [see Short Title note above]— “(1) the term ‘child’ means a person who has not attained the lesser of—“(A) the age of 18; or “(B) except in the case of sexual abuse, the age specified by the child protection law of the State in which the child resides; “(2) the term ‘child abuse and neglect’ means, at a minimum, any recent act or failure to act on the part of a parent or caretaker, which results in death, serious physical or emotional harm, sexual abuse or exploitation, or an act or failure to act which presents an imminent risk of serious harm; “(3) the term ‘child with a disability’ means a child with a disability as defined in section 602 of the Individuals with Disabilities Education Act ([20 U.S.C. 1401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1401&num=0&edition=prelim)), or an infant or toddler with a disability as defined in section 632 of such Act ([20 U.S.C. 1432](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1432&num=0&edition=prelim)); “(4) the term ‘Governor’ means the chief executive officer of a State; “(5) the terms ‘Indian’, ‘Indian tribe’, and ‘tribal organization’ have the meanings given the terms in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)); “(6) the term ‘Secretary’ means the Secretary of Health and Human Services; “(7) except as provided in section 106(f) [[42 U.S.C. 5106a(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/f&num=0&edition=prelim)], the term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands; and “(8) the term ‘unaccompanied homeless youth’ means an individual who is described in paragraphs (2) and (6) of section 725 of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11434a](./chapter-119-homeless-assistance.md#section-11434a)).”
+Pub. L. 93–247, § 3, as added by Pub. L. 111–320, title I, § 142(a), Dec. 20, 2010, 124 Stat. 3482, as amended by Pub. L. 114–22, title VIII, § 802(c)(2), May 29, 2015, 129 Stat. 264, provided that: “In this Act [see Short Title note above]— “(1) the term ‘child’ means a person who has not attained the lesser of—“(A) the age of 18; or “(B) except in the case of sexual abuse, the age specified by the child protection law of the State in which the child resides; “(2) the term ‘child abuse and neglect’ means, at a minimum, any recent act or failure to act on the part of a parent or caretaker, which results in death, serious physical or emotional harm, sexual abuse or exploitation, or an act or failure to act which presents an imminent risk of serious harm; “(3) the term ‘child with a disability’ means a child with a disability as defined in section 602 of the Individuals with Disabilities Education Act ([20 U.S.C. 1401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1401&num=0&edition=prelim)), or an infant or toddler with a disability as defined in section 632 of such Act ([20 U.S.C. 1432](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1432&num=0&edition=prelim)); “(4) the term ‘Governor’ means the chief executive officer of a State; “(5) the terms ‘Indian’, ‘Indian tribe’, and ‘tribal organization’ have the meanings given the terms in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)) [now [25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)]; “(6) the term ‘Secretary’ means the Secretary of Health and Human Services; “(7) except as provided in section 106(f) [[42 U.S.C. 5106a(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/f&num=0&edition=prelim)], the term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands; and “(8) the term ‘unaccompanied homeless youth’ means an individual who is described in paragraphs (2) and (6) of section 725 of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11434a](./chapter-119-homeless-assistance.md#section-11434a)).”
 
 [Pub. L. 114–22, title VIII, § 802(a), (c)(2), May 29, 2015, 129 Stat. 263, 264, provided that, effective 2 years after May 29, 2015, section 3 of Pub. L. 93–247, set out above, is amended in par. (2) by inserting “(including sexual abuse as determined under section 111 [[42 U.S.C. 5106g](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5106g)])” after “sexual abuse or exploitation”.]
 
@@ -251,7 +251,9 @@ Section, Pub. L. 93–247, title I, § 103, formerly § 4, Jan. 31, 1974, 88 Sta
 
 (4) maintain and disseminate information about the best practices used for achieving improvements in child protective systems;
 
-(5) maintain and disseminate information relating to—
+(5) maintain and disseminate information about the requirements of [section 5106a(b)(2)(B)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b/2/B/iii&num=0&edition=prelim) and best practices relating to the development of plans of safe care as described in such section for infants born and identified as being affected by substance abuse or withdrawal symptoms, or a Fetal Alcohol Spectrum Disorder;
+
+(6) maintain and disseminate information relating to—
 
   (A) the incidence of cases of child abuse and neglect in the United States;
 
@@ -259,21 +261,21 @@ Section, Pub. L. 93–247, title I, § 103, formerly § 4, Jan. 31, 1974, 88 Sta
 
   (C) the incidence of any such cases related to substance abuse;
 
-(6) provide technical assistance upon request that may include an evaluation or identification of—
+(7) provide technical assistance upon request that may include an evaluation or identification of—
 
   (A) various methods and procedures for the investigation, assessment, and prosecution of child physical and sexual abuse cases;
 
   (B) ways to mitigate psychological trauma to the child victim; and
 
-  (C) effective programs carried out by the States under this subchapter and subchapter III of this chapter;
+  (C) effective programs carried out by the States under this subchapter and subchapter III;
 
-(7) collect and disseminate information relating to various training resources available at the State and local level to—
+(8) collect and disseminate information relating to various training resources available at the State and local level to—
 
   (A) individuals who are engaged, or who intend to engage, in the prevention, identification, and treatment of child abuse and neglect; and
 
   (B) appropriate State and local officials to assist in training law enforcement, legal, judicial, medical, mental health, education, child welfare, substance abuse treatment services, and domestic violence services personnel; and
 
-(8) collect and disseminate information, in conjunction with the National Resource Centers authorized in [section 10410(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10410/b&num=0&edition=prelim), on effective programs and best practices for developing and carrying out collaboration between entities providing child protective services and entities providing domestic violence services.
+(9) collect and disseminate information, in conjunction with the National Resource Centers authorized in [section 10410(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10410/b&num=0&edition=prelim), on effective programs and best practices for developing and carrying out collaboration between entities providing child protective services and entities providing domestic violence services.
 
 **(c) Coordination with available resources**
 
@@ -306,12 +308,14 @@ Section, Pub. L. 93–247, title I, § 103, formerly § 4, Jan. 31, 1974, 88 Sta
 ### Statutory Notes
 
 #### References in Text
-Section 105(a)(1) of the Child Abuse Prevention, Adoption, and Family Services Act of 1988, referred to in subsec. (b)(5)(B), is section 105(a)(1) of Pub. L. 100–294, which is set out as a note under [section 5105 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5105).
+Section 105(a)(1) of the Child Abuse Prevention, Adoption, and Family Services Act of 1988, referred to in subsec. (b)(6)(B), is section 105(a)(1) of Pub. L. 100–294, which is set out as a note under [section 5105 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5105).
 
 #### Prior Provisions
 A prior section 103 of Pub. L. 93–247 was classified to [section 5103 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5103) prior to repeal by Pub. L. 104–235.
 
 #### Amendments
+2016—Subsec. (b)(5) to (9). Pub. L. 114–198 added par. (5) and redesignated former pars. (5) to (8) as (6) to (9), respectively.
+
 2010—Subsec. (a). Pub. L. 111–320, § 112(1), inserted “and neglect” before period at end.
 
 Subsec. (b). Pub. L. 111–320, § 112(2), added pars. (1) to (3) and (8), redesignated former pars. (2) to (5) as (4) to (7), respectively, in par. (4) inserted “and disseminate” after “maintain”, in par. (5)(B) inserted “([42 U.S.C. 5105](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5105) note)” before semicolon, in par. (5)(C) substituted “substance” for “alcohol or drug”, in par. (6)(C) struck out “and” at end, in par. (7)(B) substituted “child welfare, substance abuse treatment services, and domestic violence services personnel; and” for “and child welfare personnel.”, and struck out former par. (1) which read as follows: “maintain, coordinate, and disseminate information on all effective programs, including private and community-based programs, that show promise of success with respect to the prevention, assessment, identification, and treatment of child abuse and neglect and hold the potential for broad scale implementation and replication;”.
@@ -483,7 +487,7 @@ Pub. L. 98–457, § 104(b), struck out subsec. (b) which authorized appropriati
 
   (B) ways to mitigate psychological trauma to the child victim;
 
-  (C) effective programs carried out by the States under this subchapter and subchapter III of this chapter; and
+  (C) effective programs carried out by the States under this subchapter and subchapter III; and
 
   (D) effective approaches being utilized to link child protective service agencies with health care, mental health care, and developmental services to improve forensic diagnosis and health evaluations, and barriers and shortages to such linkages.
 
@@ -1009,13 +1013,17 @@ Subsec. (c)(6)(C)(ii). Pub. L. 102–295, § 141(2), substituted “child with d
 
     (i) provisions or procedures for an individual to report known and suspected instances of child abuse and neglect, including a State law for mandatory reporting by individuals required to report such instances;
 
-    (ii) policies and procedures (including appropriate referrals to child protection service systems and for other appropriate services) to address the needs of infants born with and identified as being affected by illegal substance abuse or withdrawal symptoms resulting from prenatal drug exposure, or a Fetal Alcohol Spectrum Disorder, including a requirement that health care providers involved in the delivery or care of such infants notify the child protective services system of the occurrence of such condition in such infants, except that such notification shall not be construed to—
+    (ii) policies and procedures (including appropriate referrals to child protection service systems and for other appropriate services) to address the needs of infants born with and identified as being affected by substance abuse or withdrawal symptoms resulting from prenatal drug exposure, or a Fetal Alcohol Spectrum Disorder, including a requirement that health care providers involved in the delivery or care of such infants notify the child protective services system of the occurrence of such condition in such infants, except that such notification shall not be construed to—
 
       (I) establish a definition under Federal law of what constitutes child abuse or neglect; or
 
       (II) require prosecution for any illegal action;
 
-    (iii) the development of a plan of safe care for the infant born and identified as being affected by illegal substance abuse or withdrawal symptoms, or a Fetal Alcohol Spectrum Disorder;
+    (iii) the development of a plan of safe care for the infant born and identified as being affected by substance abuse or withdrawal symptoms, or a Fetal Alcohol Spectrum Disorder to ensure the safety and well-being of such infant following release from the care of health care providers, including through—
+
+      (I) addressing the health and substance use disorder treatment needs of the infant and affected family or caregiver; and
+
+      (II) the development and implementation by the State of monitoring systems regarding the implementation of such plans to determine whether and in what manner local entities are providing, in accordance with State requirements, referrals to and delivery of appropriate services for the infant and affected family or caregiver;
 
     (iv) procedures for the immediate screening, risk and safety assessment, and prompt investigation of such reports;
 
@@ -1025,7 +1033,7 @@ Subsec. (c)(6)(C)(ii). Pub. L. 102–295, § 141(2), substituted “child with d
 
     (vii) provisions for immunity from prosecution under State and local laws and regulations for individuals making good faith reports of suspected or known instances of child abuse or neglect;
 
-    (viii) methods to preserve the confidentiality of all records in order to protect the rights of the child and of the child’s parents or guardians, including requirements ensuring that reports and records made and maintained pursuant to the purposes of this subchapter and subchapter III of this chapter shall only be made available to—
+    (viii) methods to preserve the confidentiality of all records in order to protect the rights of the child and of the child’s parents or guardians, including requirements ensuring that reports and records made and maintained pursuant to the purposes of this subchapter and subchapter III shall only be made available to—
 
       (I) individuals who are the subject of the report;
 
@@ -1242,6 +1250,14 @@ Subsec. (c)(6)(C)(ii). Pub. L. 102–295, § 141(2), substituted “child with d
 
 (16) The number of children determined to be eligible for referral, and the number of children referred, under subsection (b)(2)(B)(xxi), to agencies providing early intervention services under part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1431&num=0&edition=prelim) et seq.).
 
+(17) The number of infants—
+
+  (A) identified under subsection (b)(2)(B)(ii);
+
+  (B) for whom a plan of safe care was developed under subsection (b)(2)(B)(iii); and
+
+  (C) for whom a referral was made for appropriate services, including services for the affected family or caregiver, under subsection (b)(2)(B)(iii).
+
 **(e) Annual report by Secretary** Within 6 months after receiving the State reports under subsection (d) of this section, the Secretary shall prepare a report based on information provided by the States for the fiscal year under such subsection and shall make the report and such information available to the Congress and the national clearinghouse for information relating to child abuse and neglect.
 
 **(f) Allotments**
@@ -1281,6 +1297,8 @@ Subsec. (c)(6)(C)(ii). Pub. L. 102–295, § 141(2), substituted “child with d
 ### Statutory Notes
 
 #### Amendment of Section
+Pub. L. 114–198, title V, § 503(c)(2), July 22, 2016, 130 Stat. 730, provided that, effective May 29, 2017, subsection (d) of this section is amended by redesignating the paragraph (17) added by Pub. L. 114–198 as (18). See 2016 Amendment note below.
+
 Pub. L. 114–22, title VIII, § 802(a), (b), May 29, 2015, 129 Stat. 263, provided that, effective 2 years after May 29, 2015, this section is amended—
 
 (1) in subsection (b)(2)(B)—
@@ -1310,9 +1328,21 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(2)(F), is
 A prior section 106 of Pub. L. 93–247 was renumbered section 105 and is classified to [section 5106 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5106).
 
 #### Amendments
+2016—Subsec. (b)(2)(B)(ii). Pub. L. 114–198, § 503(b)(1), substituted “substance abuse” for “illegal substance abuse” in introductory provisions.
+
+Subsec. (b)(2)(B)(iii). Pub. L. 114–198, § 503(b)(2), substituted “substance abuse” for “illegal substance abuse” and inserted before semicolon at end “to ensure the safety and well-being of such infant following release from the care of health care providers, including through—
+
+“(I) addressing the health and substance use disorder treatment needs of the infant and affected family or caregiver; and
+
+“(II) the development and implementation by the State of monitoring systems regarding the implementation of such plans to determine whether and in what manner local entities are providing, in accordance with State requirements, referrals to and delivery of appropriate services for the infant and affected family or caregiver”.
+
+Subsec. (d)(17). Pub. L. 114–198, § 503(c)(1), added par. (17) relating to the number of infants described in subsec. (b)(2)(B)(ii) and (iii).
+
+Subsec. (d)(18). Pub. L. 114–198, § 503(c)(2), redesignated par. (17) relating to the number of infants described in subsec. (b)(2)(B)(ii) and (iii) as (18).
+
 2015—Subsec. (b)(2)(B)(xxiv), (xxv). Pub. L. 114–22, § 802(b)(1), added cls. (xxiv) and (xxv).
 
-Subsec. (d)(17). Pub. L. 114–22, § 802(b)(2), added par. (17).
+Subsec. (d)(17). Pub. L. 114–22, § 802(b)(2), added par. (17) relating to the number of children determined to be victims described in subsection (b)(2)(B)(xxiv).
 
 2010—Pub. L. 111–320, § 115(a), substituted “child abuse or neglect” for “child abuse and neglect” in section catchline.
 
@@ -1510,6 +1540,9 @@ Subsec. (d)(1). Pub. L. 102–295, § 114(c), which directed the amendment of su
 
 Subsecs. (e) to (g). Pub. L. 102–295, § 114(b)(1), redesignated subsecs. (d) to (f) as (e) to (g), respectively.
 
+#### Effective Date of 2016 Amendment
+Pub. L. 114–198, title V, § 503(c)(2), July 22, 2016, 130 Stat. 730, provided that the amendment made by section 503(c)(2) is effective on May 29, 2017.
+
 #### Effective Date of 2015 Amendment
 Pub. L. 114–22, title VIII, § 802(a), May 29, 2015, 129 Stat. 263, provided that: “The amendments to the Child Abuse Prevention and Treatment Act ([42 U.S.C. 5101](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5101) et seq.) made by this section [amending this section and [section 5106g of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5106g) and provisions set out as a note under [section 5101 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5101)] shall take effect 2 years after the date of the enactment of this Act [May 29, 2015].”
 
@@ -1517,6 +1550,9 @@ Pub. L. 114–22, title VIII, § 802(a), May 29, 2015, 129 Stat. 263, provided t
 Pub. L. 102–295, title I, § 114(d), May 28, 1992, 106 Stat. 195, as amended by Pub. L. 103–171, § 9(a), Dec. 2, 1993, 107 Stat. 1994, provided that: “The amendments described in subsections (a) and (b) [amending this section] are made upon the date of the enactment of this Act [May 28, 1992]. Such amendments take effect on October 1 of the first fiscal year for which $40,000,000 or more is made available under subsection (a)(2)(B)(ii) of section 114 of the Child Abuse Prevention and Treatment Act [[section 5106h(a)(2)(B)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106h/a/2/B/ii&num=0&edition=prelim)] (as amended by section 117 of this Act). Prior to such amendments taking effect, section 107(a) of the Child Abuse Prevention and Treatment Act [subsec. (a) of this section], as in effect on the day before the date of the enactment of this Act, continues to be in effect.”
 
 [Pub. L. 103–171, § 9(b), Dec. 2, 1993, 107 Stat. 1994, provided that: “The amendments made by subsection (a) [amending section 114(d) of Pub. L. 102–295, set out above] take effect on September 30, 1993.” ]
+
+#### Construction of 2016 Amendment
+Pub. L. 114–198, title V, § 503(e), July 22, 2016, 130 Stat. 731, provided that: “Nothing in this section [enacting [section 5108 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5108), amending this section and [section 5104 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5104), and enacting provisions set out as a note above], or the amendments made by this section, shall be construed to authorize the Secretary of Health and Human Services or any other officer of the Federal Government to add new requirements to section 106(b) of the Child Abuse Prevention and Treatment Act ([42 U.S.C. 5106a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b&num=0&edition=prelim)), as amended by this section.”
 
 #### Report
 Pub. L. 108–36, title I, § 114(e), June 25, 2003, 117 Stat. 812, required the Secretary of Health and Human Services to prepare and submit to Congress, not later than 2 years after June 25, 2003, a report describing the extent of State implementation of the policies and procedures required under [section 5106a(b)(2)(B)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b/2/B/ii&num=0&edition=prelim).
@@ -1691,17 +1727,17 @@ Subsec. (e)(1)(C). Pub. L. 102–295, § 116(a)(6)(C), inserted “, protocols�
 ## § 5106d. Miscellaneous requirements relating to assistance
 **(a) Construction of facilities**
 
-(1) **Restriction on use of funds** — Assistance provided under this subchapter and subchapter III of this chapter may not be used for construction of facilities.
+(1) **Restriction on use of funds** — Assistance provided under this subchapter and subchapter III may not be used for construction of facilities.
 
-(2) **Lease, rental, or repair** — The Secretary may authorize the use of funds received under this subchapter and subchapter III of this chapter—
+(2) **Lease, rental, or repair** — The Secretary may authorize the use of funds received under this subchapter and subchapter III—
 
   (A) where adequate facilities are not otherwise available, for the lease or rental of facilities; or
 
   (B) for the repair or minor remodeling or alteration of existing facilities.
 
-**(b) Geographical distribution** The Secretary shall establish criteria designed to achieve equitable distribution of assistance under this subchapter and subchapter III of this chapter among the States, among geographic areas of the Nation, and among rural and urban areas of the Nation. To the extent possible, the Secretary shall ensure that the citizens of each State receive assistance from at least one project under this subchapter and subchapter III of this chapter.
+**(b) Geographical distribution** The Secretary shall establish criteria designed to achieve equitable distribution of assistance under this subchapter and subchapter III among the States, among geographic areas of the Nation, and among rural and urban areas of the Nation. To the extent possible, the Secretary shall ensure that the citizens of each State receive assistance from at least one project under this subchapter and subchapter III.
 
-**(c) Limitation** No funds appropriated for any grant or contract pursuant to authorizations made in this subchapter and subchapter III of this chapter may be used for any purpose other than that for which such funds were authorized to be appropriated.
+**(c) Limitation** No funds appropriated for any grant or contract pursuant to authorizations made in this subchapter and subchapter III may be used for any purpose other than that for which such funds were authorized to be appropriated.
 
 **(d) Sense of Congress** It is the sense of Congress that the Secretary should encourage all States and public and private entities that receive assistance under this subchapter to—
 
@@ -1709,7 +1745,7 @@ Subsec. (e)(1)(C). Pub. L. 102–295, § 116(a)(6)(C), inserted “, protocols�
 
 (2) ensure that individuals with disabilities who participate in programs under this subchapter are provided with materials and services through such programs that are appropriate to their disabilities.
 
-**(e) Annual report** A State that receives funds under [section 5106a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/a&num=0&edition=prelim) shall annually prepare and submit to the Secretary a report describing the manner in which funds provided under this subchapter and subchapter III of this chapter, alone or in combination with other Federal funds, were used to address the purposes and achieve the objectives of [section 5106a of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5106a).
+**(e) Annual report** A State that receives funds under [section 5106a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/a&num=0&edition=prelim) shall annually prepare and submit to the Secretary a report describing the manner in which funds provided under this subchapter and subchapter III, alone or in combination with other Federal funds, were used to address the purposes and achieve the objectives of [section 5106a of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5106a).
 
 ### Statutory Notes
 
@@ -1727,7 +1763,7 @@ A prior section 108 of Pub. L. 93–247 was classified to [section 5106b of this
 <a id="section-5106e"></a>
 ## § 5106e. Coordination of child abuse and neglect programs
 
-The Secretary shall prescribe regulations and make such arrangements as may be necessary or appropriate to ensure that there is effective coordination among programs related to child abuse and neglect under this subchapter and subchapter III of this chapter and other such programs which are assisted by Federal funds.
+The Secretary shall prescribe regulations and make such arrangements as may be necessary or appropriate to ensure that there is effective coordination among programs related to child abuse and neglect under this subchapter and subchapter III and other such programs which are assisted by Federal funds.
 
 ### Statutory Notes
 
@@ -1868,6 +1904,8 @@ A prior section 111 of Pub. L. 93–247 was renumbered section 109 and is classi
 
 Subsec. (a)(5)(C). Pub. L. 114–22, § 802(c)(3), substituted period for semicolon at end.
 
+Par. (3). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7517 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7517&num=0&edition=prelim).
+
 2010—Pars. (1), (2). Pub. L. 111–320, § 142(b)(1), (2), redesignated pars. (7) and (8) as (1) and (2), respectively, and struck out former pars. (1) and (2) which read as follows:
 
 “(1) the term ‘child’ means a person who has not attained the lesser of—
@@ -1927,6 +1965,8 @@ Par. (10). Pub. L. 104–235, § 110(2)(B), redesignated par. (10) as (6).
 Pars. (1), (2), (9). Pub. L. 101–126, § 3(b)(7)(B)–(D), made technical amendments to references to sections 5101, 5102, and 5103 of this title to reflect renumbering of corresponding sections of original act.
 
 #### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 Amendment by Pub. L. 114–22 effective 2 years after May 29, 2015, see section 802(a) of Pub. L. 114–22, set out as a note under [section 5106a of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5106a).
 
 
@@ -1980,7 +2020,7 @@ Pub. L. 102–295, title I, § 117(b), May 28, 1992, 106 Stat. 197, provided tha
 
 <a id="section-5106i"></a>
 ## § 5106i. Rule of construction
-**(a) In general** Nothing in this subchapter and subchapter III of this chapter shall be construed—
+**(a) In general** Nothing in this subchapter and subchapter III shall be construed—
 
 (1) as establishing a Federal requirement that a parent or legal guardian provide a child any medical service or treatment against the religious beliefs of the parent or legal guardian; and
 
@@ -2013,6 +2053,28 @@ The Child Abuse Prevention and Treatment and Adoption Reform Act of 1978, referr
 
 #### Codification
 Section was enacted as part of the Omnibus Budget Reconciliation Act of 1981, and not as part of title I of the Child Abuse Prevention and Treatment Act which comprises this subchapter.
+
+
+<a id="section-5108"></a>
+## § 5108. Monitoring and oversight
+
+The Secretary shall conduct monitoring to ensure that each State that receives a grant under [section 5106a of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5106a) is in compliance with the requirements of [section 5106a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b&num=0&edition=prelim), which—
+
+(1) shall—
+
+  (A) be in addition to the review of the State plan upon its submission under [section 5106a(b)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b/1/A&num=0&edition=prelim); and
+
+  (B) include monitoring of State policies and procedures required under clauses (ii) and (iii) of [section 5106a(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b/2/B&num=0&edition=prelim); and
+
+(2) may include—
+
+  (A) a comparison of activities carried out by the State to comply with the requirements of [section 5106a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b&num=0&edition=prelim) with the State plan most recently approved under [section 629b of this title](./chapter-007-social-security.md#section-629b);
+
+  (B) a review of information available on the website of the State relating to its compliance with the requirements of [section 5106a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106a/b&num=0&edition=prelim);
+
+  (C) site visits, as may be necessary to carry out such monitoring; and
+
+  (D) a review of information available in the State’s Annual Progress and Services Report most recently submitted under section 1357.16 of title 45, Code of Federal Regulations (or successor regulations).
 
 
 <a id="section-5111"></a>

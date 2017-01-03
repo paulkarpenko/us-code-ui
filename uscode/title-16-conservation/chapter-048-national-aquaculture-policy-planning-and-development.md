@@ -95,7 +95,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 (1) Within eighteen months after September 26, 1980, the Secretaries shall establish the National Aquaculture Development Plan.
 
-(2) In developing the Plan, and revisions thereto under subsection (d) of this section, beginning not later than six months after September 26, 1980, the Secretary shall consult with the Secretary of Commerce and the Secretary of the Interior, other appropriate Federal officers, States, regional fishery management councils established under [section 1852 of this title](./chapter-038-fishery-conservation-and-management.md#section-1852), and representatives of the aquaculture industry. In addition, the Secretary shall give interested persons and organizations an opportunity to comment during the development of the Plan.
+(2) In developing the Plan, and revisions thereto under subsection (d), beginning not later than six months after September 26, 1980, the Secretary shall consult with the Secretary of Commerce and the Secretary of the Interior, other appropriate Federal officers, States, regional fishery management councils established under [section 1852 of this title](./chapter-038-fishery-conservation-and-management.md#section-1852), and representatives of the aquaculture industry. In addition, the Secretary shall give interested persons and organizations an opportunity to comment during the development of the Plan.
 
 **(b) Contents of Plan** The Plan shall—
 
@@ -141,7 +141,7 @@ The specifications of Secretarial responsibilities under paragraph (2) for imple
 
 (C) the concurrence of the Secretaries.
 
-**(d) Revision of Plan** The Secretaries shall undertake periodic reviews of the operation and effectiveness of the Plan. If as a result of any such review, or the aquaculture assessment required under subsection (e) of this section, the Secretaries determine that—
+**(d) Revision of Plan** The Secretaries shall undertake periodic reviews of the operation and effectiveness of the Plan. If as a result of any such review, or the aquaculture assessment required under subsection (e), the Secretaries determine that—
 
 (1) any aquatic species not currently identified in the Plan has significant potential for aquaculture;
 
@@ -262,7 +262,7 @@ Pub. L. 104–40, § 1, Nov. 1, 1995, 109 Stat. 350, provided: “(a) In General
 
 <a id="section-2805"></a>
 ## § 2805. Coordination of national activities regarding aquaculture
-**(a) Establishment** There is established within the Office of Science and Technology Policy an interagency aquaculture coordinating group that shall, subject to subsection (f) of this section, operate as a Joint Subcommittee on Aquaculture of the Federal Coordinating Council on Science, Engineering, and Technology (hereinafter in this section referred to as the “Federal Council”) established by Executive Order 12039, dated February 24, 1978. The coordinating group shall be composed of the following members or their designees:
+**(a) Establishment** There is established within the Office of Science and Technology Policy an interagency aquaculture coordinating group that shall, subject to subsection (f), operate as a Joint Subcommittee on Aquaculture of the Federal Coordinating Council on Science, Engineering, and Technology (hereinafter in this section referred to as the “Federal Council”) established by Executive Order 12039, dated February 24, 1978. The coordinating group shall be composed of the following members or their designees:
 
 (1) The Secretary of Agriculture, who shall be the permanent chairman of the coordinating group.
 
@@ -308,7 +308,7 @@ Pub. L. 104–40, § 1, Nov. 1, 1995, 109 Stat. 350, provided: “(a) In General
 
 **(d) Federal consistency** Each Federal department and agency that has functions or responsibilities with respect to aquaculture or has jurisdiction over any activity that affects, or that may affect, the achievement of the purpose and policy of this chapter, shall, in consultation with the coordinating group and to the maximum extent practicable, perform such function, responsibility, or activity in a manner that is consistent with the purpose and policy of this chapter.
 
-**(e) Functions if Federal Council terminated** If at any time after September 26, 1980, the functions of the Federal Council are by executive action terminated or transferred to an agency other than the Office of Science and Technology Policy, the coordinating group shall carry out its purpose under the direction of the Director. In that event, the recommendations of the coordinating group referred to in subsection (b)(6) of this section and the reports required under subsection (c) of this section shall be made to the Director.
+**(e) Functions if Federal Council terminated** If at any time after September 26, 1980, the functions of the Federal Council are by executive action terminated or transferred to an agency other than the Office of Science and Technology Policy, the coordinating group shall carry out its purpose under the direction of the Director. In that event, the recommendations of the coordinating group referred to in subsection (b)(6) and the reports required under subsection (c) shall be made to the Director.
 
 ### Statutory Notes
 
@@ -318,16 +318,16 @@ Executive Order 12039, dated February 24, 1978, referred to in subsec. (a), is E
 #### Amendments
 1985—Subsec. (a)(1). Pub. L. 99–198, § 1736(1), inserted “, who shall be the permanent chairman of the coordinating group”.
 
-Subsecs. (c) to (f). Pub. L. 99–198, § 1736(2)–(4), struck out subsec. (c) which provided that each of the Secretaries or their designees, on such rotating basis as determined by the Director, shall serve as the chairman of the coordinating group, with the term of office of the chairman set at two years, redesignated subsecs. (d) to (f) as (c) to (e), respectively, and in subsec. (e), as redesignated, substituted “subsection (c) of this section” for “subsection (d) of this section”.
+Subsecs. (c) to (f). Pub. L. 99–198, § 1736(2)–(4), struck out subsec. (c) which provided that each of the Secretaries or their designees, on such rotating basis as determined by the Director, shall serve as the chairman of the coordinating group, with the term of office of the chairman set at two years, redesignated subsecs. (d) to (f) as (c) to (e), respectively, and in subsec. (e), as redesignated, substituted “subsection (c)” for “subsection (d)”.
 
 
 <a id="section-2806"></a>
 ## § 2806. Contracts and grants
 **(a) In general** The Secretaries may each carry out any action that such Secretary is responsible for implementing under the Plan through grants to, or contracts with, any person, any other Federal department or agency, any State agency, or any regional commission.
 
-**(b) Terms and conditions** Any contract entered into, or any grant made, under subsection (a) of this section shall contain such terms and conditions as the Secretary concerned shall by regulation prescribe as being necessary or appropriate to protect the interests of the United States. No contract may be entered into, and no grant may be made under subsection (a) of this section, for any purpose that is in violation of any applicable State or local law.
+**(b) Terms and conditions** Any contract entered into, or any grant made, under subsection (a) shall contain such terms and conditions as the Secretary concerned shall by regulation prescribe as being necessary or appropriate to protect the interests of the United States. No contract may be entered into, and no grant may be made under subsection (a), for any purpose that is in violation of any applicable State or local law.
 
-**(c) Limitation** The amount of any grant made under subsection (a) of this section may not exceed an amount equal to one-half the estimated cost of the project for which the grant is made.
+**(c) Limitation** The amount of any grant made under subsection (a) may not exceed an amount equal to one-half the estimated cost of the project for which the grant is made.
 
 **(d) Audit** Each recipient of a grant or contract under this section shall make available to the Secretary concerned and to the Comptroller General of the United States, for purposes of audit and examination, any book, document, paper, or record that is pertinent to the funds received under such grant or contract.
 
@@ -341,7 +341,7 @@ Subsecs. (c) to (f). Pub. L. 99–198, § 1736(2)–(4), struck out subsec. (c) 
 (2) evaluate the role that appropriate Federal financial assistance does or could play in filling gaps in the normal credit market with respect to aquaculture.
 The study will identify the capital needs of the United States aquaculture industry, with emphasis on the needs that are not being filled either in normal credit channels or through government programs for direct loans, loan guarantees, disaster loans, and insurance. Upon its completion, the Secretaries shall submit the results of the study to Congress.
 
-**(b) Capital requirements plan** Based on the results of the Capital Requirements Study conducted under subsection (a) of this section, and within six months of the completion of the study, the Secretaries shall formulate a plan for acting on the study’s findings. The plan shall include: (1) those Federal actions, if any, found to be necessary to meet financial needs unmet through normal credit channels and existing Federal programs; and (2) recommendations, if any, for legislative actions. Upon completion, the plan shall be submitted to Congress.
+**(b) Capital requirements plan** Based on the results of the Capital Requirements Study conducted under subsection (a), and within six months of the completion of the study, the Secretaries shall formulate a plan for acting on the study’s findings. The plan shall include: (1) those Federal actions, if any, found to be necessary to meet financial needs unmet through normal credit channels and existing Federal programs; and (2) recommendations, if any, for legislative actions. Upon completion, the plan shall be submitted to Congress.
 
 
 <a id="section-2808"></a>
@@ -359,7 +359,7 @@ The study will identify the capital needs of the United States aquaculture indus
 (5) develop a flow-chart time line using the information obtained by means of paragraphs (1) through (4) to identify those regulations and restrictions that could have the most detrimental effect in establishing commercial aquaculture operations in the United States.
 Upon completion of the study, the Secretaries shall submit its results to Congress.
 
-**(b) Regulatory constraints plan** Based on the results of the Regulatory Constraints Study conducted under subsection (a) of this section, and within six months of the study’s completion, the Secretaries shall formulate a plan for acting on the study’s findings. The plan will contain specific steps the Federal Government can take to remove unnecessarily burdensome regulatory barriers to the initiation and operation of commercial aquaculture ventures. Upon its completion, the Secretaries shall submit the plan to Congress.
+**(b) Regulatory constraints plan** Based on the results of the Regulatory Constraints Study conducted under subsection (a), and within six months of the study’s completion, the Secretaries shall formulate a plan for acting on the study’s findings. The plan will contain specific steps the Federal Government can take to remove unnecessarily burdensome regulatory barriers to the initiation and operation of commercial aquaculture ventures. Upon its completion, the Secretaries shall submit the plan to Congress.
 
 
 <a id="section-2809"></a>

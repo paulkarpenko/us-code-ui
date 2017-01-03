@@ -156,21 +156,22 @@ Amendments by Pub. L. 108–126 not applicable to a commemorative work for which
 | American Armored Force Memorial.—Pub. L. 99–620, Nov. 6, 1986, 100 Stat. 3493. |
 | Benjamin Banneker Memorial.—Pub. L. 105–355, title V, § 512, Nov. 6, 1998, 112 Stat. 3266. |
 | Black Revolutionary War Patriots Memorial.—Pub. L. 99–500, § 101(h) [title I, § 118], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, § 101(h) [title I, § 118], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–558, Oct. 27, 1986, 100 Stat. 3144, repealed by Pub. L. 112–239, div. B, title XXVIII, § 2860(f), Jan. 2, 2013, 126 Stat. 2165; Pub. L. 99–590, title VIII, §§ 801, 802, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 100–265, Mar. 25, 1988, 102 Stat. 39, repealed by Pub. L. 112–239, div. B, title XXVIII, § 2860(f), Jan. 2, 2013, 126 Stat. 2165; Pub. L. 103–321, § 1(a)(1), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 104–333, div. I, title V, § 506, Nov. 12, 1996, 110 Stat. 4155; Pub. L. 105–345, § 1, Nov. 2, 1998, 112 Stat. 3205; Pub. L. 106–442, Nov. 6, 2000, 114 Stat. 1926; Pub. L. 112–239, div. B, title XXVIII, § 2860, Jan. 2, 2013, 126 Stat. 2164; Pub. L. 113–176, Sept. 26, 2014, 128 Stat. 1910. |
-| Brigadier General Francis Marion Commemorative Work.—Pub. L. 110–229, title III, § 331, May 8, 2008, 122 Stat. 781. |
+| Brigadier General Francis Marion Commemorative Work.—Pub. L. 110–229, title III, § 331, May 8, 2008, 122 Stat. 781; Pub. L. 114–92, div. B, title XXVIII, § 2852, Nov. 25, 2015, 129 Stat. 1184. |
 | Disabled Veterans’ LIFE Memorial.—Pub. L. 106–348, Oct. 24, 2000, 114 Stat. 1358; Pub. L. 109–396, title II, § 201, Dec. 15, 2006, 120 Stat. 2713; Pub. L. 110–106, § 1, Oct. 25, 2007, 121 Stat. 1022. |
-| Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, § 8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, § 8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274; Pub. L. 109–220, May 5, 2006, 120 Stat. 335; Pub. L. 110–229, title III, § 332, May 8, 2008, 122 Stat. 782; Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1036; Pub. L. 113–6, div. F, title IV, § 1413, Mar. 26, 2013, 127 Stat. 421; Pub. L. 113–76, div. G, title IV, § 437(a), Jan. 17, 2014, 128 Stat. 347; Pub. L. 113–235, div. F, title IV, § 423(a), Dec. 16, 2014, 128 Stat. 2449. |
+| Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, § 8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, § 8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274; Pub. L. 109–220, May 5, 2006, 120 Stat. 335; Pub. L. 110–229, title III, § 332, May 8, 2008, 122 Stat. 782; Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1036; Pub. L. 113–6, div. F, title IV, § 1413, Mar. 26, 2013, 127 Stat. 421; Pub. L. 113–76, div. G, title IV, § 437(a), Jan. 17, 2014, 128 Stat. 347; Pub. L. 113–235, div. F, title IV, § 423(a), Dec. 16, 2014, 128 Stat. 2449; Pub. L. 114–113, div. G, title IV, § 419(a), Dec. 18, 2015, 129 Stat. 2579. |
 | Francis Scott Key Memorial.—Pub. L. 99–531, Oct. 27, 1986, 100 Stat. 3022. |
 | Frederick Douglass Memorial and Gardens.—Pub. L. 106–479, Nov. 9, 2000, 114 Stat. 2184. |
 | George Mason Memorial.—Pub. L. 101–358, Aug. 10, 1990, 104 Stat. 419; Pub. L. 102–277, Apr. 28, 1992, 106 Stat. 127; Pub. L. 105–182, § 1, June 19, 1998, 112 Stat. 516. |
 | Gold Star Mothers Commemorative Work.—Pub. L. 112–239, div. B, title XXVIII, § 2859, Jan. 2, 2013, 126 Stat. 2164. |
 | Japanese American Patriotism in World War II Memorial.—Pub. L. 102–502, Oct. 24, 1992, 106 Stat. 3273; Pub. L. 104–333, div. I, title V, § 514, Nov. 12, 1996, 110 Stat. 4165. |
 | Korean War Veterans Memorial.—Pub. L. 99–572, Oct. 28, 1986, 100 Stat. 3226; Pub. L. 100–202, § 101(f) [title II, §§ 1, 2], Dec. 22, 1987, 101 Stat. 1329–195, 1329–196; Pub. L. 100–230, §§ 1, 2, Jan. 5, 1988, 101 Stat. 1563; Pub. L. 100–267, Mar. 28, 1988, 102 Stat. 41; Pub. L. 105–262, title VIII, § 8122, Oct. 17, 1998, 112 Stat. 2332. |
+| Korean War Veterans Memorial Wall of Remembrance.—Pub. L. 114–230, Oct. 7, 2016, 130 Stat. 947. |
 | Lincoln Memorial, “I Have a Dream Speech” Commemorative Plaque.—Pub. L. 106–365, Oct. 27, 2000, 114 Stat. 1409; Pub. L. 108–352, § 4, Oct. 21, 2004, 118 Stat. 1395. |
 | Mahatma Gandhi Memorial.—Pub. L. 105–284, § 1, Oct. 26, 1998, 112 Stat. 2701. |
 | Martin Luther King, Jr., Memorial.—Pub. L. 104–333, div. I, title V, § 508, Nov. 12, 1996, 110 Stat. 4157; Pub. L. 105–201, § 1, July 16, 1998, 112 Stat. 675; Pub. L. 106–176, title I, § 108, Mar. 10, 2000, 114 Stat. 26; Pub. L. 108–125, § 1, Nov. 11, 2003, 117 Stat. 1347; Pub. L. 109–54, title I, § 134(c), Aug. 2, 2005, 119 Stat. 527; Pub. L. 110–453, title III, § 301, Dec. 2, 2008, 122 Stat. 5034; Pub. L. 111–88, div. A, title I, § 129, Oct. 30, 2009, 123 Stat. 2933. |
-| National Desert Storm and Desert Shield Memorial.—Pub. L. 113–291, div. B, title XXX, § 3093(a), Dec. 19, 2014, 128 Stat. 3879. |
+| National Desert Storm and Desert Shield Memorial.—Pub. L. 113–291, div. B, title XXX, § 3093, Dec. 19, 2014, 128 Stat. 3879. |
 | National Peace Garden.—Pub. L. 100–63, June 30, 1987, 101 Stat. 379; Pub. L. 103–321, § 1(a)(3), (b), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 105–202, July 16, 1998, 112 Stat. 676. |
-| Peace Corps Memorial.—Pub. L. 113–78, Jan. 24, 2014, 128 Stat. 647. |
+| Peace Corps Memorial.—Pub. L. 113–78, § 1, Jan. 24, 2014, 128 Stat. 647. |
 | Thomas Paine Memorial.—Pub. L. 102–407, Oct. 13, 1992, 106 Stat. 1991; Pub. L. 102–459, Oct. 23, 1992, 106 Stat. 2268; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–113, div. B, § 1000(a)(3) [title I, § 142], Nov. 29, 1999, 113 Stat. 1535, 1501A–171. |
 | Tomas G. Masaryk Memorial.—Pub. L. 107–61, Nov. 5, 2001, 115 Stat. 410. |
 | Ukrainian Famine-Genocide Victims Memorial.—Pub. L. 109–340, Oct. 13, 2006, 120 Stat. 1864. |
@@ -303,7 +304,7 @@ Advisory commissions established after Jan. 5, 1973, to terminate not later than
 | 8905(b) | 40:1007(b). |  |
 
 #### Amendments
-2014—Subsec. (b)(7). Pub. L. 113–291, § 3054(c)(1), struck out par. (7) which read as follows: “Donor contributions to commemorative works shall not be acknowledged in any manner as part of the commemorative work or its site.”
+2014—Subsec. (b)(7). Pub. L. 113–291, § 3054(c)(1), struck out par. (7). Text read as follows: “Donor contributions to commemorative works shall not be acknowledged in any manner as part of the commemorative work or its site.”
 
 Subsec. (c). Pub. L. 113–291, § 3054(c)(2), added subsec. (c).
 

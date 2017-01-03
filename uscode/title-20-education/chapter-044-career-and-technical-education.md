@@ -481,7 +481,7 @@ Unless otherwise specified, in this chapter:
 
   (C) an area career and technical education school providing education at the postsecondary level;
 
-  (D) a postsecondary educational institution controlled by the Bureau of Indian Affairs or operated by or on behalf of any Indian tribe that is eligible to contract with the Secretary of the Interior for the administration of programs under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.) or the Act of April 16, 1934 ([25 U.S.C. 452](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section452&num=0&edition=prelim) et seq.);
+  (D) a postsecondary educational institution controlled by the Bureau of Indian Affairs or operated by or on behalf of any Indian tribe that is eligible to contract with the Secretary of the Interior for the administration of programs under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.) 11 See References in Text note below. or the Act of April 16, 1934 ([25 U.S.C. 452](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section452&num=0&edition=prelim) et seq.); 1
 
   (E) an educational service agency; or
 
@@ -582,9 +582,9 @@ Unless otherwise specified, in this chapter:
 #### References in Text
 The Social Security Act, referred to in par. (10)(A)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in par. (13)(D), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.), referred to in par. (13)(D), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
-Act of April 16, 1934, referred to in par. (13)(D), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, as amended, popularly known as the Johnson-O’Malley Act, which is classified generally to section 452 et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 452 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section452&num=0&edition=prelim) and Tables.
+Act of April 16, 1934 ([25 U.S.C. 452](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section452&num=0&edition=prelim) et seq.), referred to in par. (13)(D), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, popularly known as the Johnson-O’Malley Act, which was classified generally to section 452 et seq. of Title 25, Indians, prior to editorial reclassification as section 5342 et seq. of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 2302, Pub. L. 88–210, § 3, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3077; amended Pub. L. 107–110, title X, § 1076(k), Jan. 8, 2002, 115 Stat. 2091, related to definitions, prior to the general amendment of this chapter by Pub. L. 109–270.
@@ -592,7 +592,18 @@ A prior section 2302, Pub. L. 88–210, § 3, as added Pub. L. 105–332, § 1(b
 Another prior section 2302, Pub. L. 88–210, § 3, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2437; amended Pub. L. 100–418, title VI, §§ 6131(b), 6134(b), Aug. 23, 1988, 102 Stat. 1511, 1512; Pub. L. 101–392, § 3, Sept. 25, 1990, 104 Stat. 756, authorized appropriations for fiscal years 1991 to 1995 to carry out former subchapters I to IV of this chapter, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 #### Amendments
+2015—Par. (8). Pub. L. 114–95, § 9215(n)(1)(A), made technical amendment to reference in original act which appears in text as reference to [section 7221i of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7221i).
+
+Par. (11). Pub. L. 114–95, § 9215(n)(1)(B), made technical amendment to reference in original act which appears in text as reference to [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
+
+Par. (19). Pub. L. 114–95, § 9215(n)(1)(C), made technical amendment to reference in original act which appears in text as reference to [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
+
+Par. (27). Pub. L. 114–95, § 9215(n)(1)(D), made technical amendment to reference in original act which appears in text as reference to [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
+
 2008—Par. (33). Pub. L. 110–315 made technical amendment to reference in original act which appears in text as reference to [section 1801(a) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1801/a&num=0&edition=prelim).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 
 <a id="section-2323"></a>
@@ -657,12 +668,18 @@ A prior section 2306, Pub. L. 88–210, § 7, as added Pub. L. 105–332, § 1(b
 
 **(d) Rule of construction** Nothing in this section shall be construed to affect the requirements under [section 2323 of this title](./chapter-044-career-and-technical-education.md#section-2323).
 
-**(e) Coherent and rigorous content** For the purposes of this chapter, coherent and rigorous content shall be determined by the State consistent with [section 6311(b)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1/D&num=0&edition=prelim).
+**(e) Coherent and rigorous content** For the purposes of this chapter, coherent and rigorous content shall be determined by the State consistent with [section 6311(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 8 of Pub. L. 88–210 was classified to [section 2307 of this title](./chapter-044-career-and-technical-education.md#section-2307) prior to the general amendment of this chapter by Pub. L. 109–270.
+
+#### Amendments
+2015—Subsec. (e). Pub. L. 114–95 substituted “[section 6311(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1&num=0&edition=prelim)” for “[section 6311(b)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1/D&num=0&edition=prelim)”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 
 <a id="section-2328"></a>
@@ -684,7 +701,7 @@ A prior section 2307, Pub. L. 88–210, § 8, as added Pub. L. 105–332, § 1(b
 
 **(c) Duties** The Task Force shall—
 
-(1) examine principal data required for programs under the Adult Education Act, the Carl D. Perkins Vocational and Applied Technology Education Act, the Job Training Partnership Act, the Rehabilitation Act of 1973, and the Wagner-Peyser Act [[29 U.S.C. 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section49&num=0&edition=prelim) et seq.];
+(1) examine principal data required for programs under the Adult Education Act, the Carl D. Perkins Vocational and Applied Technology Education Act, the Job Training Partnership Act, the Rehabilitation Act of 1973 [[29 U.S.C. 701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) et seq.], and the Wagner-Peyser Act [[29 U.S.C. 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section49&num=0&edition=prelim) et seq.];
 
 (2) examine possible common objectives, definitions, measures, and standards for such programs; and
 
@@ -697,7 +714,7 @@ The Adult Education Act, referred to in subsec. (c)(1), was title III of Pub. L.
 
 The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (c)(1), was Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to this chapter, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3076, and amended generally and renamed the Carl D. Perkins Career and Technical Education Act of 2006 by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301) and Tables.
 
-The Job Training Partnership Act, referred to in subsec. (c)(1), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former [section 2940(b) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2940/b&num=0&edition=prelim), references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
+The Job Training Partnership Act, referred to in subsec. (c)(1), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former [section 2940(b) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2940/b&num=0&edition=prelim), references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (c)(1), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified principally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
@@ -914,7 +931,7 @@ Another prior section 2322, Pub. L. 88–210, title I, § 112, as added Pub. L. 
 
   (A) *Core indicators of performance for career and technical education students at the secondary level* — Each eligible agency shall identify in the State plan core indicators of performance for career and technical education students at the secondary level that are valid and reliable, and that include, at a minimum, measures of each of the following:
 
-    (i) Student attainment of challenging academic content standards and student academic achievement standards, as adopted by a State in accordance with [section 6311(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1&num=0&edition=prelim) and measured by the State determined proficient levels on the academic assessments described in [section 6311(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/3&num=0&edition=prelim).
+    (i) Student attainment of the challenging State academic standards, as adopted by a State in accordance with [section 6311(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1&num=0&edition=prelim) and measured by the State determined levels of achievement on the academic assessments described in [section 6311(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2&num=0&edition=prelim).
 
     (ii) Student attainment of career and technical skill proficiencies, including student achievement on technical assessments, that are aligned with industry-recognized standards, if available and appropriate.
 
@@ -926,7 +943,7 @@ Another prior section 2322, Pub. L. 88–210, title I, § 112, as added Pub. L. 
 
       (III) A proficiency credential, certificate, or degree, in conjunction with a secondary school diploma (if such credential, certificate, or degree is offered by the State in conjunction with a secondary school diploma).
 
-    (iv) Student graduation rates (as described in [section 6311(b)(2)(C)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/C/vi&num=0&edition=prelim)).
+    (iv) Student graduation rates (as described in [section 6311(c)(4)(A)(i)(I)(bb) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/c/4/A/i/I/bb&num=0&edition=prelim)).
 
     (v) Student placement in postsecondary education or advanced training, in military service, or in employment.
 
@@ -1012,7 +1029,7 @@ Another prior section 2322, Pub. L. 88–210, title I, § 112, as added Pub. L. 
 
     (ii) *Data* — Except as provided in clauses (iii) and (iv), each eligible recipient that receives an allocation described in [section 2322 of this title](./chapter-044-career-and-technical-education.md#section-2322) shall—
 
-      (I) disaggregate data for each of the indicators of performance under paragraph (2) for the categories of students described in [section 6311(h)(1)(C)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/h/1/C/i&num=0&edition=prelim) and [section 2302(29) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2302/29&num=0&edition=prelim) that are served under this chapter; and
+      (I) disaggregate data for each of the indicators of performance under paragraph (2) for the subgroups of students described in [section 6311(h)(1)(C)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/h/1/C/i&num=0&edition=prelim) and [section 2302(29) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2302/29&num=0&edition=prelim) that are served under this chapter; and
 
       (II) identify and quantify any disparities or gaps in performance between any such category of students and the performance of all students served by the eligible recipient under this chapter.
 
@@ -1057,6 +1074,16 @@ This section (as amended by such Act), referred to in subsec. (b)(2)(D), is this
 A prior section 2323, Pub. L. 88–210, title I, § 113, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3087, related to accountability, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2323, Pub. L. 88–210, title I, § 113, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2445; amended Pub. L. 99–159, title VII, §§ 704, 713(a)(1), (2), Nov. 22, 1985, 99 Stat. 905, 907; Pub. L. 101–392, title I, § 113, Sept. 25, 1990, 104 Stat. 766; Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–382, title III, § 391(s)(2), Oct. 20, 1994, 108 Stat. 4024, required submission of State plans, prior to the general amendment of this chapter by Pub. L. 105–332.
+
+#### Amendments
+2015—Subsec. (b)(2)(A)(i). Pub. L. 114–95, § 9215(n)(3)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows: “Student attainment of challenging academic content standards and student academic achievement standards, as adopted by a State in accordance with [section 6311(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1&num=0&edition=prelim) and measured by the State determined proficient levels on the academic assessments described in [section 6311(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/3&num=0&edition=prelim).”
+
+Subsec. (b)(2)(A)(iv). Pub. L. 114–95, § 9215(n)(3)(A)(ii), substituted “(as described in [section 6311(c)(4)(A)(i)(I)(bb) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/c/4/A/i/I/bb&num=0&edition=prelim))” for “(as described in [section 6311(b)(2)(C)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/C/vi&num=0&edition=prelim))”.
+
+Subsec. (b)(4)(C)(ii)(I). Pub. L. 114–95, § 9215(n)(3)(B), substituted “subgroups” for “categories”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 
 <a id="section-2351"></a>
@@ -1181,7 +1208,7 @@ Another prior section 2323, Pub. L. 88–210, title I, § 113, as added Pub. L. 
 
       (I) effective in-service and preservice teacher and faculty education that assists career and technical education programs in—
 
-        (aa) integrating those programs with academic content standards and student academic achievement standards, as adopted by States under [section 6311(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1&num=0&edition=prelim); and
+        (aa) integrating those programs with challenging State academic standards, as adopted by States under [section 6311(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1&num=0&edition=prelim); and
 
         (bb) coordinating technical education with industry-recognized certification requirements;
 
@@ -1212,7 +1239,12 @@ A prior section 2324, Pub. L. 88–210, title I, § 114, as added Pub. L. 105–
 Another prior section 2324, Pub. L. 88–210, title I, § 114, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2449; amended Pub. L. 101–392, title I, § 114, Sept. 25, 1990, 104 Stat. 769, related to development and approval of State plans, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 #### Amendments
+2015—Subsec. (d)(4)(A)(iii)(I)(aa). Pub. L. 114–95 substituted “integrating those programs with challenging State academic standards, as adopted by States under [section 6311(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1&num=0&edition=prelim);” for “integrating those programs with academic content standards and student academic achievement standards, as adopted by States under [section 6311(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1&num=0&edition=prelim);”.
+
 2014—Subsec. (b)(1). Pub. L. 113–76 substituted “Office of Career, Technical, and Adult Education” for “Office of Vocational and Adult Education”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 
 <a id="section-2352"></a>
@@ -1257,7 +1289,7 @@ Another prior section 2325, Pub. L. 88–210, title I, § 115, as added Pub. L. 
 
 (2) **Bureau-funded school** — The term “Bureau-funded school” has the meaning given the term in [section 2021 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2021&num=0&edition=prelim).
 
-(3) **Indian, Indian tribe, and tribal organization** — The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings given the terms in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim).
+(3) **Indian, Indian tribe, and tribal organization** — The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings given the terms in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 (4) **Native Hawaiian** — The term “Native Hawaiian” means any individual any of whose ancestors were natives, prior to 1778, of the area which now comprises the State of Hawaii.
 
@@ -1267,7 +1299,7 @@ Another prior section 2325, Pub. L. 88–210, title I, § 115, as added Pub. L. 
 
 (1) **Authority** — From funds reserved under [section 2321(a)(1)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2321/a/1/B/i&num=0&edition=prelim), the Secretary shall make grants to or enter into contracts with Indian tribes, tribal organizations, and Alaska Native entities to carry out the authorized programs described in subsection (c), except that such grants or contracts shall not be awarded to secondary school programs in Bureau-funded schools.
 
-(2) **Indian tribes and tribal organizations** — The grants or contracts described in this section that are awarded to any Indian tribe or tribal organization shall be subject to the terms and conditions of [section 450f of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450f&num=0&edition=prelim) and shall be conducted in accordance with the provisions of sections 455, 456, and 457 of title 25, which are relevant to the programs administered under this subsection.
+(2) **Indian tribes and tribal organizations** — The grants or contracts described in this section that are awarded to any Indian tribe or tribal organization shall be subject to the terms and conditions of [section 5321 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5321&num=0&edition=prelim) and shall be conducted in accordance with the provisions of sections 5345, 5346, and 5347 of title 25, which are relevant to the programs administered under this subsection.
 
 (3) **Special authority relating to secondary schools operated or supported by the Bureau of Indian Affairs** — An Indian tribe, a tribal organization, or an Alaska Native entity, that receives funds through a grant made or contract entered into under paragraph (1) may use the funds to provide assistance to a secondary school operated or supported by the Bureau of Indian Affairs to enable such school to carry out career and technical education programs.
 
@@ -1323,6 +1355,12 @@ A prior section 2326, Pub. L. 88–210, title I, § 116, as added Pub. L. 105–
 
 Another prior section 2326, Pub. L. 88–210, title I, § 116, as added Pub. L. 101–392, title I, § 116, Sept. 25, 1990, 104 Stat. 772, related to State assessments of program quality, prior to the general amendment of this chapter by Pub. L. 105–332.
 
+#### Amendments
+2015—Subsec. (a)(5). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7517 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7517).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
+
 
 <a id="section-2354"></a>
 ## § 2354. Tribally controlled postsecondary career and technical institutions
@@ -1330,7 +1368,7 @@ Another prior section 2326, Pub. L. 88–210, title I, § 116, as added Pub. L. 
 
 (1) title I of the Tribally Controlled Colleges and Universities Assistance Act of 1978 ([25 U.S.C. 1802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1802&num=0&edition=prelim) et seq.); or
 
-(2) the Navajo Community College Act ([25 U.S.C. 640a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section640a&num=0&edition=prelim) et seq.).
+(2) the Navajo Community College Act ([25 U.S.C. 640a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section640a&num=0&edition=prelim) et seq.).11 See References in Text note below.
 
 **(b) Uses of grants** Amounts made available under this section shall be used for career and technical education programs for Indian students and for the institutional support costs of the grant, including the expenses described in subsection (e).
 
@@ -1342,7 +1380,7 @@ Another prior section 2326, Pub. L. 88–210, title I, § 116, as added Pub. L. 
 
 (3) **Indirect costs** — Notwithstanding any other provision of law or regulation, the Secretary shall not require the use of a restricted indirect cost rate for grants issued under this section.
 
-**(d) Applications** To be eligible to receive a grant under this section, a tribally controlled postsecondary career and technical institution that is not receiving Federal assistance under title I of the Tribally Controlled Colleges and Universities Assistance Act of 1978 ([25 U.S.C. 1802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1802&num=0&edition=prelim) et seq.) or the Navajo Community College Act ([25 U.S.C. 640a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section640a&num=0&edition=prelim) et seq.) shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+**(d) Applications** To be eligible to receive a grant under this section, a tribally controlled postsecondary career and technical institution that is not receiving Federal assistance under title I of the Tribally Controlled Colleges and Universities Assistance Act of 1978 ([25 U.S.C. 1802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1802&num=0&edition=prelim) et seq.) or the Navajo Community College Act ([25 U.S.C. 640a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section640a&num=0&edition=prelim) et seq.) 1 shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
 **(e) Expenses**
 
@@ -1360,11 +1398,11 @@ Another prior section 2326, Pub. L. 88–210, title I, § 116, as added Pub. L. 
 
 **(f) Other programs**
 
-(1) **In general** — Except as specifically provided in this chapter, eligibility for assistance under this section shall not preclude any tribally controlled postsecondary career and technical institution from receiving Federal financial assistance under any program authorized under the Higher Education Act of 1965 [[20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq., [42 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751&num=0&edition=prelim) et seq.], or under any other applicable program for the benefit of institutions of higher education or career and technical education.
+(1) **In general** — Except as specifically provided in this chapter, eligibility for assistance under this section shall not preclude any tribally controlled postsecondary career and technical institution from receiving Federal financial assistance under any program authorized under the Higher Education Act of 1965 [[20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.], or under any other applicable program for the benefit of institutions of higher education or career and technical education.
 
 (2) **Prohibition on alteration of grant amount** — The amount of any grant for which tribally controlled postsecondary career and technical institutions are eligible under this section shall not be altered because of funds allocated to any such institution from funds appropriated under [section 13 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section13&num=0&edition=prelim).
 
-(3) **Prohibition on contract denial** — No tribally controlled postsecondary career and technical institution for which an Indian tribe has designated a portion of the funds appropriated for the tribe from funds appropriated under [section 13 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section13&num=0&edition=prelim), may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.] (except as provided in that Act), or denied appropriate contract support to administer such portion of the appropriated funds.
+(3) **Prohibition on contract denial** — No tribally controlled postsecondary career and technical institution for which an Indian tribe has designated a portion of the funds appropriated for the tribe from funds appropriated under [section 13 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section13&num=0&edition=prelim), may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) et seq.] (except as provided in that Act), or denied appropriate contract support to administer such portion of the appropriated funds.
 
 **(g) Complaint resolution procedure** The Secretary shall establish (after consultation with tribally controlled postsecondary career and technical institutions) a complaint resolution procedure for grant determinations and calculations under this section for tribally controlled postsecondary career and technical institutions.
 
@@ -1409,11 +1447,11 @@ Another prior section 2326, Pub. L. 88–210, title I, § 116, as added Pub. L. 
 #### References in Text
 The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsecs. (a)(1) and (d), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325. Title I of the Act is classified generally to subchapter I (§ 1802 et seq.) of chapter 20 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1801&num=0&edition=prelim) and Tables.
 
-The Navajo Community College Act, referred to in subsecs. (a)(2) and (d), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, which is classified to section 640a et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 640a of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section640a&num=0&edition=prelim) and Tables.
+The Navajo Community College Act, referred to in subsecs. (a)(2) and (d), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, which was classified to section 640a et seq. of Title 25, Indians, and was omitted from the Code as being of special and not general application.
 
-The Higher Education Act of 1965, referred to in subsec. (f)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (f)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (f)(3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (f)(3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 2327, Pub. L. 88–210, title I, § 117, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3097; amended Pub. L. 106–554, § 1(a)(1) [title III, § 310], Dec. 21, 2000, 114 Stat. 2763, 2763A–46; Pub. L. 107–20, title II, § 2701(a), July 24, 2001, 115 Stat. 181, related to tribally controlled postsecondary vocational and technical institutions, prior to the general amendment of this chapter by Pub. L. 109–270.
@@ -1659,7 +1697,7 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
   (I) how funds will be used to improve or develop new career and technical education courses—
 
-    (i) at the secondary level that are aligned with rigorous and challenging academic content standards and student academic achievement standards adopted by the State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6311(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1&num=0&edition=prelim)];
+    (i) at the secondary level that are aligned with challenging State academic standards adopted by the State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6311(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1&num=0&edition=prelim)];
 
     (ii) at the postsecondary level that are relevant and challenging; and
 
@@ -1707,7 +1745,7 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
   (A) improve the academic and technical skills of students participating in career and technical education programs, including strengthening the academic and career and technical components of career and technical education programs through the integration of academics with career and technical education to ensure learning in—
 
-    (i) the core academic subjects (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7801](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)]); and
+    (i) a well-rounded education (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7801](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)]); and
 
     (ii) career and technical education subjects;
 
@@ -1786,11 +1824,18 @@ Another prior section 2342, Pub. L. 88–210, title II, § 235, as added Pub. L.
 Another prior section 2342, Pub. L. 88–210, title II, § 252, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2457, related to criteria for program improvement, innovation, and expansion, prior to the general amendment of former subchapter II of this chapter by Pub. L. 101–392.
 
 #### Amendments
+2015—Subsec. (c)(1)(I)(i). Pub. L. 114–95, § 9215(n)(6)(A), substituted “aligned with challenging State academic standards adopted by the State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965” for “aligned with rigorous and challenging academic content standards and student academic achievement standards adopted by the State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965”.
+
+Subsec. (c)(7)(A)(i). Pub. L. 114–95, § 9215(n)(6)(B), substituted “a well-rounded education (as defined in section 8101 of the Elementary and Secondary Education Act of 1965)” for “the core academic subjects (as defined in section 9101 of the Elementary and Secondary Education Act of 1965)”.
+
 2014—Subsec. (b)(1)(A)(viii). Pub. L. 113–128, § 512(e)(3)(A), substituted “entities participating in activities described in [section 3111 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim)” for “entities participating in activities described in [section 2821 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2821&num=0&edition=prelim)”.
 
 Subsec. (c)(20). Pub. L. 113–128, § 512(e)(3)(B), substituted “the description and information specified in subparagraphs (B) and (C)(iii) of section 3112(b)(2), and, as appropriate, section 3113(b)(3)(A), and section 3151(c), of title 29 concerning the provision of services only for postsecondary students and school dropouts” for “the description and information specified in sections 2822(b)(8) and 2841(c) of title 29 concerning the provision of services only for postsecondary students and school dropouts”.
 
 Subsec. (d)(2). Pub. L. 113–128, § 512(e)(3)(C), substituted “combined plan” for “501 plan” in heading and “as part of the plan submitted under [section 3113 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3113&num=0&edition=prelim)” for “as part of the plan submitted under section 501 of Public Law 105–220” in text.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
@@ -1898,7 +1943,7 @@ Another prior section 2343, Pub. L. 88–210, title II, § 240, as added Pub. L.
 
 (4) supporting career and technical education programs that improve the academic and career and technical skills of students participating in career and technical education programs by strengthening the academic and career and technical components of such career and technical education programs, through the integration of coherent and relevant content aligned with challenging academic standards and relevant career and technical education, to ensure achievement in—
 
-  (A) the core academic subjects (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7801](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)]); and
+  (A) a well-rounded education (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7801](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)]); and
 
   (B) career and technical education subjects;
 
@@ -1966,7 +2011,7 @@ Another prior section 2343, Pub. L. 88–210, title II, § 240, as added Pub. L.
 
 (11) providing for activities to support entrepreneurship education and training;
 
-(12) providing career and technical education programs for adults and school dropouts to complete their secondary school education, in coordination, to the extent practicable, with activities authorized under the Adult Education and Family Literacy Act [[29 U.S.C. 3271](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3271&num=0&edition=prelim) et seq.];
+(12) providing career and technical education programs for adults and school dropouts to complete their secondary school education, in coordination, to the extent practicable, with activities authorized under the Adult Education and Family Literacy Act;
 
 (13) providing assistance to individuals, who have participated in services and activities under this subchapter, in continuing the individuals’ education or training or finding appropriate jobs, such as through referral to the system established under [section 3151 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151&num=0&edition=prelim);
 
@@ -1991,13 +2036,18 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(3
 
 The Higher Education Act of 1965, referred to in subsec. (b)(3)(E), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title II of the Act is classified generally to subchapter II (§ 1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
 
-The Adult Education and Family Literacy Act, referred to in subsec. (c)(12), is title II of Pub. L. 113–128, July 22, 2014, 128 Stat. 1608, which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this Title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3101&num=0&edition=prelim) 29 and Tables.
+The Adult Education and Family Literacy Act, referred to in subsec. (c)(12), was title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, which was classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of this title, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pub. L. 113–128 also included a title II, entitled the “Adult Education and Family Literacy Act”, which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of Pub. L. 105–220 are deemed to refer to the corresponding provision of Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of title II of Pub. L. 105–220 to the Code, see Tables. For complete classification of title II of Pub. L. 113–128 to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 2344, Pub. L. 88–210, title I, § 124, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3107, related to State leadership activities, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 #### Amendments
+2015—Subsec. (b)(4)(A). Pub. L. 114–95 substituted “a well-rounded education (as defined in section 8101 of the Elementary and Secondary Education Act of 1965)” for “the core academic subjects (as defined in section 9101 of the Elementary and Secondary Education Act of 1965)”.
+
 2014—Subsec. (c)(13). Pub. L. 113–128 substituted “such as through referral to the system established under [section 3151 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151&num=0&edition=prelim)” for “such as through referral to the system established under [section 2841 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2841&num=0&edition=prelim)”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
@@ -2178,7 +2228,7 @@ A prior section 2353, Pub. L. 88–210, title I, § 133, as added Pub. L. 105–
 
   (B) improve the academic and technical skills of students participating in career and technical education programs by strengthening the academic and career and technical education components of such programs through the integration of coherent and rigorous content aligned with challenging academic standards and relevant career and technical education programs to ensure learning in—
 
-    (i) the core academic subjects (as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)); and
+    (i) a well-rounded education (as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)); and
 
     (ii) career and technical education subjects;
 
@@ -2186,7 +2236,7 @@ A prior section 2353, Pub. L. 88–210, title I, § 133, as added Pub. L. 105–
 
   (D) ensure that students who participate in such career and technical education programs are taught to the same coherent and rigorous content aligned with challenging academic standards as are taught to all other students; and
 
-  (E) encourage career and technical education students at the secondary level to enroll in rigorous and challenging courses in core academic subjects (as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801));
+  (E) encourage career and technical education students at the secondary level to enroll in rigorous and challenging courses in order to provide a well-rounded education (as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801));
 
 (4) describe how comprehensive professional development (including initial teacher preparation) for career and technical education, academic, guidance, and administrative personnel will be provided that promotes the integration of coherent and rigorous content aligned with challenging academic standards and relevant career and technical education (including curriculum development);
 
@@ -2222,7 +2272,14 @@ A prior section 2353, Pub. L. 88–210, title I, § 133, as added Pub. L. 105–
 A prior section 2354, Pub. L. 88–210, title I, § 134, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3114, related to local plan for vocational and technical education programs, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 #### Amendments
+2015—Subsec. (b)(3)(B)(i). Pub. L. 114–95, § 9215(n)(8)(A), substituted “a well-rounded education (as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801))” for “the core academic subjects (as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801))”.
+
+Subsec. (b)(3)(E). Pub. L. 114–95, § 9215(n)(8)(B), substituted “in order to provide a well-rounded education (as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801))” for “in core academic subjects (as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801))”.
+
 2014—Subsec. (b)(5). Pub. L. 113–128 substituted “entities participating in activities described in [section 3122 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3122&num=0&edition=prelim) (if applicable)” for “entities participating in activities described in [section 2832 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2832&num=0&edition=prelim) (if applicable)”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
@@ -2236,7 +2293,7 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 (1) strengthen the academic and career and technical skills of students participating in career and technical education programs, by strengthening the academic and career and technical education components of such programs through the integration of academics with career and technical education programs through a coherent sequence of courses, such as career and technical programs of study described in [section 2342(c)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2342/c/1/A&num=0&edition=prelim), to ensure learning in—
 
-  (A) the core academic subjects (as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)); and
+  (A) a well-rounded education (as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)); and
 
   (B) career and technical education subjects;
 
@@ -2370,7 +2427,12 @@ Section 2362, Pub. L. 88–210, title III, § 312, as added Pub. L. 98–524, §
 Section 2363, Pub. L. 88–210, title III, § 313, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2459; amended Pub. L. 99–159, title VII, § 707, Nov. 22, 1985, 99 Stat. 906; Pub. L. 101–392, title III, § 304, Sept. 25, 1990, 104 Stat. 786, related to information dissemination and leadership.
 
 #### Amendments
+2015—Subsec. (b)(1)(A). Pub. L. 114–95 substituted “a well-rounded education (as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801))” for “the core academic subjects (as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801))”.
+
 2014—Subsec. (c)(16). Pub. L. 113–128 substituted “such as through referral to the system established under [section 3151 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151&num=0&edition=prelim)” for “such as through referral to the system established under [section 2841 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2841&num=0&edition=prelim)”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
@@ -2473,7 +2535,7 @@ Another prior section 202 of Pub. L. 88–210 was classified to [section 2332 of
 
   (C) provides technical preparation in a career field, including high skill, high wage, or high demand occupations;
 
-  (D) builds student competence in technical skills and in core academic subjects (as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)), as appropriate, through applied, contextual, and integrated instruction, in a coherent sequence of courses;
+  (D) builds student competence in technical skills and as part of a well-rounded education (as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)), as appropriate, through applied, contextual, and integrated instruction, in a coherent sequence of courses;
 
   (E) leads to technical skill proficiency, an industry-recognized credential, a certificate, or a degree, in a specific career field;
 
@@ -2590,7 +2652,12 @@ A prior section 203 of Pub. L. 88–210 was classified to [section 2372 of this 
 Another prior section 203 of Pub. L. 88–210 was classified to [section 2333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2333&num=0&edition=prelim), prior to the general amendment of former subchapter II of this chapter by Pub. L. 101–392.
 
 #### Amendments
+2015—Subsec. (c)(2)(D). Pub. L. 114–95 substituted “as part of a well-rounded education (as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801))” for “in core academic subjects (as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801))”.
+
 2008—Subsec. (a)(1)(B)(i)(I)(bb)(AA). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 
 <a id="section-2397"></a>

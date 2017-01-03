@@ -308,7 +308,7 @@ Minor changes were made in phraseology.
 
 (1) the term “counterfeit label” means an identifying label or container that appears to be genuine, but is not;
 
-(2) the term “traffic” has the same meaning as in section 2320(e) 22 See References in Text note below. of this title;
+(2) the term “traffic” has the same meaning as in [section 2320(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2320/f&num=0&edition=prelim);
 
 (3) the terms “copy”, “phonorecord”, “motion picture”, “computer program”, “audiovisual work”, “literary work”, “pictorial, graphic, or sculptural work”, “sound recording”, “work of visual art”, and “copyright owner” have, respectively, the meanings given those terms in section 101 (relating to definitions) of title 17;
 
@@ -408,10 +408,9 @@ Minor changes were made in phraseology.
 
 ### Statutory Notes
 
-#### References in Text
-[Section 2320 of this title](./chapter-113-stolen-property.md#section-2320), referred to in subsec. (b)(2), was amended generally by Pub. L. 112–81, div. A, title VIII, § 818(h), Dec. 31, 2011, 125 Stat. 1497, and, as so amended, provisions similar to those formerly appearing in subsec. (e) are now contained in subsec. (f).
-
 #### Amendments
+2016—Subsec. (b)(2). Pub. L. 114–154 substituted “section 2320(f)” for “section 2320(e)”.
+
 2010—Subsec. (e)(6). Pub. L. 111–295 substituted “under this subsection” for “under section”.
 
 2008—Subsec. (a). Pub. L. 110–403, § 202(1), designated existing provisions as par. (1) and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A).
@@ -636,7 +635,7 @@ Subsec. (c). Pub. L. 110–403, § 203(b), substituted “The Secretary of Homel
 1997—Subsecs. (d) to (f). Pub. L. 105–147 added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-2319b"></a>
@@ -697,7 +696,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), are set 
 
 (3) traffics in goods or services knowing that such good or service is a counterfeit military good or service the use, malfunction, or failure of which is likely to cause serious bodily injury or death, the disclosure of classified information, impairment of combat operations, or other significant harm to a combat operation, a member of the Armed Forces, or to national security, or
 
-(4) traffics in a counterfeit drug,
+(4) traffics in a drug and knowingly uses a counterfeit mark on or in connection with such drug,
 or attempts or conspires to violate any of paragraphs (1) through (4) shall be punished as provided in subsection (b).
 
 **(b) Penalties.—**
@@ -714,7 +713,7 @@ or attempts or conspires to violate any of paragraphs (1) through (4) shall be p
 
   (B) *Death.—* — Whoever knowingly or recklessly causes or attempts to cause death from conduct in violation of subsection (a), if an individual, shall be fined not more than $5,000,000 or imprisoned for any term of years or for life, or both, and if other than an individual, shall be fined not more than $15,000,000.
 
-(3) **Counterfeit military goods or services and counterfeit drugs.—** — Whoever commits an offense under subsection (a) involving a counterfeit military good or service or counterfeit drug—
+(3) **Counterfeit military goods or services and counterfeit drugs.—** — Whoever commits an offense under subsection (a) involving a counterfeit military good or service or drug that uses a counterfeit mark on or in connection with the drug—
 
   (A) if an individual, shall be fined not more than $5,000,000, imprisoned not more than 20 years, or both, and if other than an individual, be fined not more than $15,000,000; and
 
@@ -765,7 +764,7 @@ or attempts or conspires to violate any of paragraphs (1) through (4) shall be p
 
 (5) the term “traffic” means to transport, transfer, or otherwise dispose of, to another, for purposes of commercial advantage or private financial gain, or to make, import, export, obtain control of, or possess, with intent to so transport, transfer, or otherwise dispose of; and
 
-(6) the term “counterfeit drug” means a drug, as defined by section 201 of the Federal Food, Drug, and Cosmetic Act, that uses a counterfeit mark on or in connection with the drug.
+(6) the term “drug” means a drug, as defined in section 201 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321&num=0&edition=prelim)).
 
 **(g) Limitation on Cause of Action.—** Nothing in this section shall entitle the United States to bring a criminal cause of action under this section for the repackaging of genuine goods or services not intended to deceive or confuse.
 
@@ -810,14 +809,18 @@ The Lanham Act, referred to in subsecs. (d), (f)(1)(B), (3), and (i), also known
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), are set out in the Appendix to this title.
 
-Section 201 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(6), is classified to [section 321 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321&num=0&edition=prelim), Food and Drugs.
-
 The date of enactment of this subsection, referred to in subsec. (h)(1), is the date of enactment of Pub. L. 112–81, which was approved Dec. 31, 2011.
 
 #### Codification
 Another section 2320 was renumbered [section 2321 of this title](./chapter-113-stolen-property.md#section-2321).
 
 #### Amendments
+2016—Subsec. (a)(4). Pub. L. 114–154, § 3(2)(A), added par. (4) and struck out former par. (4) which read as follows: “traffics in a counterfeit drug,”.
+
+Subsec. (b)(3). Pub. L. 114–154, § 3(2)(B), substituted “drug that uses a counterfeit mark on or in connection with the drug” for “counterfeit drug” in introductory provisions.
+
+Subsec. (f)(6). Pub. L. 114–154, § 3(2)(C), added par. (6) and struck out former par. (6) which defined “counterfeit drug”.
+
 2012—Subsec. (a). Pub. L. 112–144, § 717(a)(1), added par. (4) and substituted “through (4)” for “through (3)” in concluding provisions.
 
 Subsec. (b)(3). Pub. L. 112–144, § 717(a)(2), inserted “and counterfeit drugs” after “services” in heading and “or counterfeit drug” after “service” in introductory provisions.
@@ -876,7 +879,7 @@ Subsec. (a). Pub. L. 103–322, § 320104(a), in first sentence, substituted “
 Pub. L. 105–354, § 2(c), Nov. 3, 1998, 112 Stat. 3244, provided that the amendment made by section 2(c) is effective Aug. 12, 1998.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Priority Given to Certain Investigations and Prosecutions
 Pub. L. 112–144, title VII, § 717(a)(4), July 9, 2012, 126 Stat. 1076, provided that: “The Attorney General shall give increased priority to efforts to investigate and prosecute offenses under [section 2320 of title 18](./chapter-113-stolen-property.md#section-2320), United States Code, that involve counterfeit drugs.”

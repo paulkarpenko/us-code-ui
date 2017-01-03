@@ -20,7 +20,7 @@ source: >-
 Provisions similar to those in this section were contained in sections 267 and 2001 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A), (3)(A).
 
 #### Effective Date
-Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-10142"></a>
@@ -33,6 +33,9 @@ Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 268(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section268/a&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-10143"></a>
@@ -55,6 +58,9 @@ Provisions similar to those in this section were contained in section 268(b), (c
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-10144"></a>
@@ -80,6 +86,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 #### Amendments
 1997—Pub. L. 105–85 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-10145"></a>
 ## § 10145. Ready Reserve: placement in
@@ -103,6 +112,9 @@ Provisions similar to those in this section were contained in section 269(a)–(
 #### Amendments
 2003—Subsec. (d). Pub. L. 108–136 substituted last sentence of introductory provisions and pars. (1) and (2) for “The Secretary concerned may not delegate his authority under the preceding sentence.”
 
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-10146"></a>
 ## § 10146. Ready Reserve: transfer from
@@ -122,6 +134,9 @@ Provisions similar to those in this section were contained in section 269(e)–(
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-10147"></a>
@@ -182,7 +197,19 @@ Pub. L. 103–337, div. A, title XVI, § 1661(a)(5)(B), Oct. 5, 1994, 108 Stat. 
 
 (5) That members whose mobilization in an emergency would result in an extreme personal or community hardship are not retained in the Ready Reserve.
 
-**(b)** Under regulations to be prescribed by the Secretary of Defense, and by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, a member of the Ready Reserve who is designated as a member not to be retained in the Ready Reserve as a result of screening under subsection (a) shall, as appropriate, be—
+**(b)**
+
+(1) In applying Ready Reserve continuous screening under this section, an individual who is both a member of the Ready Reserve and a Member of Congress may not be transferred to the Standby Reserve or discharged on account of the individual’s position as a Member of Congress.
+
+(2) The transfer or discharge of an individual who is both a member of the Ready Reserve and a Member of Congress may be ordered—
+
+  (A) only by the Secretary of Defense or, in the case of a Member of Congress who also is a member of the Coast Guard Reserve, the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Navy; and
+
+  (B) only on the basis of the needs of the service, taking into consideration the position and duties of the individual in the Ready Reserve.
+
+(3) In this subsection, the term “Member of Congress” includes a Delegate or Resident Commissioner to Congress and a Member-elect.
+
+**(c)** Under regulations to be prescribed by the Secretary of Defense, and by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, a member of the Ready Reserve who is designated as a member not to be retained in the Ready Reserve as a result of screening under subsection (a) shall, as appropriate, be—
 
 (1) transferred to the Standby Reserve;
 
@@ -193,13 +220,18 @@ Pub. L. 103–337, div. A, title XVI, § 1661(a)(5)(B), Oct. 5, 1994, 108 Stat. 
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 271 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section271&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+Provisions similar to those in this section were contained in [section 271 of this title](./chapter-015-military-support-for-civilian-law-enforcement-agencies.md#section-271), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
 
 #### Amendments
+2015—Subsecs. (b), (c). Pub. L. 114–92 added subsec. (b) and redesignated former subsec. (b) as (c).
+
 2002—Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Ex. Ord. No. 11190. Screening of Ready Reserve
 Ex. Ord. No. 11190, Dec. 29, 1964, 29 F.R. 19183, as amended by Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 13286, § 67, Feb. 28, 2003, 68 F.R. 10630, provided:
@@ -219,13 +251,16 @@ Under regulations to be prescribed by the Secretary of Defense, and by the Secre
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 272 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section272&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+Provisions similar to those in this section were contained in [section 272 of this title](./chapter-015-military-support-for-civilian-law-enforcement-agencies.md#section-272), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
 
 #### Amendments
 2002—Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-10151"></a>
@@ -238,6 +273,9 @@ The Standby Reserve consists of those units or members, or both, of the reserve 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 273(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section273/a&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
 
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-10152"></a>
 ## § 10152. Standby Reserve: inactive status list
@@ -249,6 +287,9 @@ An inactive status list shall be maintained in the Standby Reserve. Whenever an 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 273(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section273/b&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
 
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-10153"></a>
 ## § 10153. Standby Reserve: status of members
@@ -259,6 +300,9 @@ While in an inactive status, a Reserve is not eligible for pay or promotion and 
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 273(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section273/c&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-10154"></a>
@@ -273,13 +317,16 @@ The Retired Reserve consists of the following Reserves:
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 274 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section274&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+Provisions similar to those in this section were contained in [section 274 of this title](./chapter-015-military-support-for-civilian-law-enforcement-agencies.md#section-274), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
 
 #### Amendments
 2001—Par. (2). Pub. L. 107–107 struck out “upon their request” after “Retired Reserve”.
 
 #### Effective Date of 2001 Amendment
 Pub. L. 107–107, div. A, title V, § 517(g), Dec. 28, 2001, 115 Stat. 1096, provided that: “The amendments made by this section [enacting sections 12108 and 12244 of this title and amending this section and sections 14513 to 14515 of this title] shall take effect on the first day of the first month that begins more than 180 days after the date of the enactment of this Act [Dec. 28, 2001].”
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Authority To Issue Military Identification Cards to So-Called Honorary Retirees of the Naval and Marine Corps Reserves
 Pub. L. 103–337, div. A, title III, § 377, Oct. 5, 1994, 108 Stat. 2737, as amended by Pub. L. 104–106, div. A, title XV, § 1501(d)(1), Feb. 10, 1996, 110 Stat. 500; Pub. L. 105–85, div. A, title X, § 1073(d)(1)(E)(i), Nov. 18, 1997, 111 Stat. 1905; Pub. L. 109–163, div. A, title V, § 515(h), Jan. 6, 2006, 119 Stat. 3237, provided that: “(a) Authority.—The Secretary of the Navy may issue a military identification card to a member of the Retired Reserve described in subsection (b). “(b) Covered Members.—A member of the Retired Reserve referred to in subsection (a) is a member of the Navy Reserve or Marine Corps Reserve who transferred to the Retired Reserve under section 274(2) [see 10154(2)] of title 10, United States Code, without having completed the years of service required under section 1331(a)(2) [see 12731(a)(2)] of such title for eligibility for retired pay under chapter 67 [see 1223] of such title or who after November 30, 1994, transferred to the Retired Reserve under [section 10154(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section10154/2&num=0&edition=prelim), United States Code, without having completed the years of service required under section 12731(a)(2) of such title for eligibility for retired pay under chapter 1223 of such title. “(c) Effect on Commissary and Exchange Benefits.—The issuance of a military identification card under subsection (a) to a member of the Retired Reserve does not confer eligibility for commissary and exchange benefits on that member. “(d) Limitation on Color and Format.—The Secretary shall ensure that the color and format in which a military identification card is issued under subsection (a) is not similar to the color and format in which a military identification card is issued by the Department of Defense to individuals other than members described in subsection (b).”

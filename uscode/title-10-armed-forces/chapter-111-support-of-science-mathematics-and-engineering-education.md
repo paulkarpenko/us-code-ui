@@ -81,7 +81,7 @@ Pub. L. 102–190, div. A, title VIII, § 829, Dec. 5, 1991, 105 Stat. 1444, dir
 
 (1) Under the program under this section, the Secretary of Defense may award a scholarship or fellowship in accordance with this section to a person who—
 
-  (A) is a citizen of the United States;
+  (A) is a citizen of the United States or, subject to subsection (g), a country the government of which is a party to The Technical Cooperation Program (TTCP) memorandum of understanding of October 24, 1995;
 
   (B) is pursuing an associates degree, undergraduate degree, or advanced degree in a critical skill or discipline described in subsection (a) at an accredited institution of higher education; and
 
@@ -142,7 +142,19 @@ Pub. L. 102–190, div. A, title VIII, § 829, Dec. 5, 1991, 105 Stat. 1444, dir
 
 **(f) Relationship to Other Programs.—** The Secretary of Defense shall coordinate the provision of financial assistance under the authority of this section with the provision of financial assistance under the other authorities provided in this chapter in order to maximize the benefits derived by the Department of Defense from the exercise of all such authorities.
 
-**(g) Institution of Higher Education Defined.—** In this section, the term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)).
+**(g) Limitation on Participation.—**
+
+(1) The Secretary may not award scholarships or fellowships under this section to more than five individuals described in paragraph (2) per year.
+
+(2) An individual described in this paragraph is an individual who—
+
+  (A) has not previously been awarded a scholarship or fellowship under the program under this section;
+
+  (B) is not a citizen of the United States; and
+
+  (C) is a citizen of a country the government of which is a party to The Technical Cooperation Program (TTCP) memorandum of understanding of October 24, 1995.
+
+**(h) Institution of Higher Education Defined.—** In this section, the term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)).
 
 ### Statutory Notes
 
@@ -150,6 +162,10 @@ Pub. L. 102–190, div. A, title VIII, § 829, Dec. 5, 1991, 105 Stat. 1444, dir
 Section, as added by Pub. L. 109–163, consists of text of Pub. L. 108–375, div. A, title XI, § 1105, Oct. 28, 2004, 118 Stat. 2074; Pub. L. 109–163, div. A, title X, § 1056(d), title XI, § 1104(a)–(c), Jan. 6, 2006, 119 Stat. 3440, 3448, 3449; Pub. L. 111–383, div. A, title X, § 1075(h)(5), Jan. 7, 2011, 124 Stat. 4377, which was formerly set out as a note under [section 2192 of this title](./chapter-111-support-of-science-mathematics-and-engineering-education.md#section-2192), and was repealed by Pub. L. 109–163, div. A, title XI, § 1104(e)(1), Jan. 6, 2006, 119 Stat. 3450.
 
 #### Amendments
+2015—Subsec. (b)(1)(A). Pub. L. 114–92, § 212(1), inserted “or, subject to subsection (g), a country the government of which is a party to The Technical Cooperation Program (TTCP) memorandum of understanding of October 24, 1995” after “United States”.
+
+Subsecs. (g), (h). Pub. L. 114–92, § 212(2), (3), added subsec. (g) and redesignated former subsec. (g) as (h).
+
 2014—Subsec. (c)(1)(B). Pub. L. 113–291 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of a person not an employee of the Department of Defense, the person shall enter into a written agreement to accept and continue employment in the Department of Defense for the period of obligated service determined under paragraph (2).”
 
 2013—Subsec. (b)(2). Pub. L. 113–66 substituted “an amount determined by the Secretary of Defense” for “the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, equipment expenses, and expenses of room and board”.
@@ -280,7 +296,7 @@ Pub. L. 106–65, div. A, title V, § 580(b), Oct. 5, 1999, 113 Stat. 632, provi
 
 <a id="section-2194"></a>
 ## § 2194. Education partnerships
-**(a)** The Secretary of Defense shall authorize the director of each defense laboratory to enter into one or more education partnership agreements with educational institutions in the United States for the purpose of encouraging and enhancing study in scientific disciplines at all levels of education. The educational institutions referred to in the preceding sentence are local educational agency, colleges, universities, and any other nonprofit institutions that are dedicated to improving science, mathematics, and engineering education.
+**(a)** The Secretary of Defense shall authorize the director of each defense laboratory to enter into one or more education partnership agreements with educational institutions in the United States for the purpose of encouraging and enhancing study in scientific disciplines at all levels of education. The educational institutions referred to in the preceding sentence are local educational agency, colleges, universities, and any other nonprofit institutions that are dedicated to improving science, mathematics, business, law, technology transfer or transition and engineering education.
 
 **(b)** Under a partnership agreement entered into with an educational institution under this section, the director of a defense laboratory may provide, and is encouraged to provide, assistance to the educational institution by—
 
@@ -296,11 +312,13 @@ Pub. L. 106–65, div. A, title V, § 580(b), Oct. 5, 1999, 113 Stat. 632, provi
 
 (3) making laboratory personnel available to teach science courses or to assist in the development of science courses and materials for the institution;
 
-(4) involving faculty and students of the institution in defense laboratory research projects;
+(4) providing in the defense laboratory sabbatical opportunities for faculty and internship opportunities for students;
 
-(5) cooperating with the institution in developing a program under which students may be given academic credit for work on defense laboratory research projects; and
+(5) involving faculty and students of the institution in defense laboratory projects, including research and technology transfer or transition projects;
 
-(6) providing academic and career advice and assistance to students of the institution.
+(6) cooperating with the institution in developing a program under which students may be given academic credit for work on defense laboratory projects, including research and technology transfer or transition projects; and
+
+(7) providing academic and career advice and assistance to students of the institution.
 
 **(c)** The Secretary of Defense shall ensure that the director of each defense laboratory shall give a priority under this section to entering into an education partnership agreement with one or more historically Black colleges and universities and other minority institutions referred to in paragraphs (3), (4), and (5) of section 312(b) 11 See References in Text note below. of the Higher Education Act of 1965 ([20 U.S.C. 1058(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1058/b&num=0&edition=prelim)).
 
@@ -312,7 +330,7 @@ Pub. L. 106–65, div. A, title V, § 580(b), Oct. 5, 1999, 113 Stat. 632, provi
 
 (1) The term “defense laboratory” means any laboratory, product center, test center, depot, training and educational organization, or operational command under the jurisdiction of the Department of Defense.
 
-(2) The term “local educational agency” has the meaning given such term in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)).
+(2) The term “local educational agency” has the meaning given such term in section 8101 of the Elementary and Secondary Education Act of 1965.
 
 (3) The term “United States” includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
 
@@ -321,7 +339,15 @@ Pub. L. 106–65, div. A, title V, § 580(b), Oct. 5, 1999, 113 Stat. 632, provi
 #### References in Text
 Paragraphs (3), (4), and (5) of section 312(b) of the Higher Education Act of 1965 ([20 U.S.C. 1058(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1058/b&num=0&edition=prelim)), referred to in subsec. (c), were repealed by Pub. L. 102–325, title III, § 302(a)(3), July 23, 1992, 106 Stat. 472.
 
+Section 8101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(2), is classified to [section 7801 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim), Education.
+
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–92, § 213(1), inserted “business, law, technology transfer or transition” after “mathematics,”.
+
+Subsec. (b)(4) to (7). Pub. L. 114–92, § 213(2), added par. (4), redesignated former pars. (4) to (6) as (5) to (7), respectively, and, in pars. (5) and (6), substituted “projects, including research and technology transfer or transition projects” for “research projects”.
+
+Subsec. (f)(2). Pub. L. 114–95 substituted “section 8101 of the Elementary and Secondary Education Act of 1965” for “section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim))”.
+
 2013—Subsec. (f)(2). Pub. L. 112–239, § 251(b), inserted “([20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim))” before period at end.
 
 Subsec. (f)(3). Pub. L. 112–239, § 251(a), added par. (3).
@@ -349,6 +375,9 @@ Subsec. (e). Pub. L. 106–398, § 1 [[div. A], title II, § 253(b)], amended su
 Subsec. (e). Pub. L. 103–382, § 394(b)(4)(B)(iii), which directed amendment of subsec. (e) by striking out “([20 U.S.C. 1058(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1058/b&num=0&edition=prelim)” could not be executed because “([20 U.S.C. 1058(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1058/b&num=0&edition=prelim)” does not appear in subsec. (e).
 
 Pub. L. 103–382, § 391(b)(4)(B)(i), (ii), substituted “educational agency” for “education agency” and “section 14101” for “section 1471(12)”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date of 2003 Amendment
 Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under [section 5334 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5334&num=0&edition=prelim), Government Organization and Employees.
@@ -394,89 +423,90 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 
 <a id="section-2196"></a>
-## § 2196. Manufacturing engineering education: grant program
-**(a) Establishment of Grant Program.—**
+## § 2196. Manufacturing engineering education program
+**(a) Establishment of Manufacturing Engineering Education Program.—**
 
-(1) The Secretary of Defense shall establish a program under which the Secretary makes grants to support—
+(1) The Secretary of Defense shall establish a program under which the Secretary makes grants or other awards to support—
 
-  (A) the enhancement of existing programs in manufacturing engineering education; or
+  (A) the enhancement of existing programs in manufacturing engineering education to further a mission of the department; or
 
   (B) the establishment of new programs in manufacturing engineering education that meet such requirements.
 
-(2) Grants under this section may be made to institutions of higher education or to consortia of such institutions.
+(2) Grants and awards under this section may be made to industry, not-for-profit institutions, institutions of higher education, or to consortia of such institutions or industry.
 
-(3) The Secretary shall establish the program in consultation with the Secretary of Education, the Director of the National Science Foundation, and the Director of the Office of Science and Technology Policy.
+(3) The Secretary shall establish the program in consultation with the Secretary of Education, the Director of the National Science Foundation, the Director of the Office of Science and Technology Policy, and the secretaries of such other relevant Federal agencies as the Secretary considers appropriate.
 
-**(b) New Programs in Manufacturing Engineering Education.—** A program in manufacturing engineering education to be established at an institution of higher education may be considered to be a new program for the purpose of subsection (a)(1)(B) regardless of whether the program is to be conducted—
+(4) The Secretary shall ensure that the program is coordinated with Department programs associated with advanced manufacturing.
 
-(1) within an existing department in a school of engineering of the institution;
+(5) The program shall be known as the “Manufacturing Engineering Education Program”.
 
-(2) within a manufacturing engineering department to be established separately from the existing departments within such school of engineering; or
+**(b) Geographical Distribution of Grants and Awards.—** In awarding grants and other awards under this subsection, the Secretary shall, to the maximum extent practicable, avoid geographical concentration of awards.
 
-(3) within a manufacturing engineering school or center to be established separately from an existing school of engineering of such institution.
+**(c) Covered Programs.—** A program of engineering education supported pursuant to this section shall meet the requirements of this section.
 
-**(c) Minimum Number of Grants for New Programs.—** Of the total number of grants awarded pursuant to this section, at least one-third shall be awarded for the purpose stated in subsection (a)(1)(B).
-
-**(d) Geographical Distribution of Grants.—** In awarding grants under this subsection, the Secretary shall, to the maximum extent practicable, avoid geographical concentration of grant awards.
-
-**(e) Coordination of Grant Program With the National Science Foundation.—** The Secretary of Defense and the Director of the National Science Foundation shall enter into an agreement for carrying out the grant program established pursuant to this section. The agreement shall include procedures to ensure that the grant program is fully coordinated with similar existing programs of the National Science Foundation.
-
-**(f) Covered Programs.—**
-
-(1) A program of engineering education supported with a grant awarded pursuant to this section shall meet the requirements of this section.
-
-(2) Such a grant may be made for a program of education to be conducted at the undergraduate level, at the graduate level, or at both the undergraduate and graduate levels.
-
-**(g) Components of Program.—** The program of education for which such a grant is made shall be a consolidated and integrated multidisciplinary program of education having each of the following components:
+**(d) Components of Program.—** The program of education for which such a grant is made shall be a consolidated and integrated multidisciplinary program of education with an emphasis on the following components:
 
 (1) Multidisciplinary instruction that encompasses the total manufacturing engineering enterprise and that may include—
 
-  (A) manufacturing engineering education and training through classroom activities, laboratory activities, thesis projects, individual or team projects, and visits to industrial facilities, consortia, or centers of excellence in the United States and foreign countries;
+  (A) manufacturing engineering education and training through classroom activities, laboratory activities, thesis projects, individual or team projects, internships, cooperative work-study programs, and interactions with industrial facilities, consortia, or such other activities and organizations in the United States and foreign countries as the Secretary considers appropriate;
 
   (B) faculty development programs;
 
-  (C) recruitment of educators highly qualified in manufacturing engineering;
+  (C) recruitment of educators highly qualified in manufacturing engineering to teach or develop manufacturing engineering courses;
 
-  (D) presentation of seminars, workshops, and training for the development of specific research or education skills; and
+  (D) presentation of seminars, workshops, and training for the development of specific manufacturing engineering skills;
 
-  (E) activities involving interaction between the institution of higher education conducting the program and industry, including programs for visiting scholars or industry executives.
+  (E) activities involving interaction between students and industry, including programs for visiting scholars, personnel exchange, or industry executives;
+
+  (F) development of new, or updating and modification of existing, manufacturing curriculum, course offerings, and education programs;
+
+  (G) establishment of programs in manufacturing workforce training;
+
+  (H) establishment of joint manufacturing engineering programs with defense laboratories and depots; and
+
+  (I) expansion of manufacturing training and education programs and outreach for members of the armed forces, dependents and children of such members, veterans, and employees of the Department of Defense.
 
 (2) Opportunities for students to obtain work experience in manufacturing through such activities as internships, summer job placements, or cooperative work-study programs.
 
-(3) Faculty and student research that is directly related to, and supportive of, the education of undergraduate or graduate students in advanced manufacturing science and technology because of—
+(3) Faculty and student engagement with industry that is directly related to, and supportive of, the education of students in manufacturing engineering because of—
 
-  (A) the increased understanding of advanced manufacturing science and technology that is derived from such research; and
+  (A) the increased understanding of manufacturing engineering challenges and potential solutions; and
 
   (B) the enhanced quality and effectiveness of the instruction that result from that increased understanding.
 
-**(h) Grant Proposals.—** The Secretary of Defense, in coordination with the Director of the National Science Foundation, shall solicit from institutions of higher education in the United States (and from consortia of such institutions) proposals for grants to be made pursuant to this section for the support of programs of manufacturing engineering education that are consistent with the purposes of this section.
+**(e) Proposals.—** The Secretary of Defense shall solicit proposals for grants and other awards to be made pursuant to this section for the support of programs of manufacturing engineering education that are consistent with the purposes of this section.
 
-**(i) Merit Competition.—** Applications for grants shall be evaluated on the basis of merit pursuant to competitive procedures prescribed by the Secretary in consultation with the Director of the National Science Foundation.
+**(f) Merit Competition.—** Applications for awards shall be evaluated on the basis of merit pursuant to competitive procedures prescribed by the Secretary.
 
-**(j) Selection Criteria.—** The Secretary may select a proposal for the award of a grant pursuant to this section if the proposal, at a minimum, does each of the following:
+**(g) Selection Criteria.—** The Secretary may select a proposal for an award pursuant to this section if the proposal, at a minimum, does each of the following:
 
 (1) Contains innovative approaches for improving engineering education in manufacturing technology.
 
-(2) Demonstrates a strong commitment by the proponents to apply the resources necessary to achieve the objectives for which the grant is to be made.
+(2) Demonstrates a strong commitment by the proponents to apply the resources necessary to achieve the objectives for which the award is to be made.
 
-(3) Provides for the conduct of research that supports the instruction to be provided in the proposed program and is likely to improve manufacturing engineering and technology.
+(3) Provides for effective engagement with industry or government organizations that supports the instruction to be provided in the proposed program and is likely to improve manufacturing engineering and technology.
 
 (4) Demonstrates a significant level of involvement of United States industry in the proposed instructional and research activities.
 
-(5) Is likely to attract superior students.
+(5) Is likely to attract superior students and promote careers in manufacturing engineering.
 
-(6) Proposes to involve fully qualified faculty personnel who are experienced in research and education in areas associated with manufacturing engineering and technology.
+(6) Proposes to involve fully qualified personnel who are experienced in manufacturing engineering education and technology.
 
-(7) Proposes a program that, within three years after the grant is made, is likely to attract from sources other than the Federal Government the financial and other support necessary to sustain such program.
+(7) Proposes a program that, within three years after the award is made, is likely to attract from sources other than the Federal Government the financial and other support necessary to sustain such program.
 
 (8) Proposes to achieve a significant level of participation by women, members of minority groups, and individuals with disabilities through active recruitment of students from among such persons.
 
-**(k) Federal Support.—** The amount of financial assistance furnished to an institution under this section may not exceed 50 percent of the estimated cost of carrying out the activities proposed to be supported in part with such financial assistance for the period for which the assistance is to be provided.
+(9) Trains students in advanced manufacturing and in relevant emerging technologies and production processes.
+
+**(h) Institution of Higher Education Defined.—** In this section, the term “institution of higher education” has the meaning given such term in section 101(a) of the Higher Education Act of 1965 ([20 U.S.C. 1001(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim)).
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 2196, added Pub. L. 101–510, div. A, title II, § 247(a)(1), Nov. 5, 1990, 104 Stat. 1523; amended Pub. L. 102–25, title VII, § 701(i)(2), Apr. 6, 1991, 105 Stat. 116, defined “defense laboratory”, prior to repeal by Pub. L. 102–190, § 825(a)(1). See [section 2199 of this title](./chapter-111-support-of-science-mathematics-and-engineering-education.md#section-2199).
+
+#### Amendments
+2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to grants for manufacturing engineering education.
 
 #### Implementation of Grant Program; Priority in Funding
 Pub. L. 102–190, div. A, title VIII, § 825(b), Dec. 5, 1991, 105 Stat. 1442, provided that: “Within one year after the date of the enactment of this Act [Dec. 5, 1991], the Secretary of Defense, in consultation with the Director of the National Science Foundation, shall award grants under [section 2196 of title 10](./chapter-111-support-of-science-mathematics-and-engineering-education.md#section-2196), United States Code (as added by subsection (a)), to institutions of higher education throughout the United States.”
@@ -559,7 +589,7 @@ In this chapter:
 
 (2) The term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965.
 
-(3) The term “regional center for the transfer of manufacturing technology” means a regional center for the transfer of manufacturing technology referred to in section 25(a) of the National Institute of Standards and Technology Act ([15 U.S.C. 278k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278k&num=0&edition=prelim)).
+(3) The term “regional center for the transfer of manufacturing technology” means a manufacturing extension center for the transfer of manufacturing technology and best business practices referred to in section 25(b) of the National Institute of Standards and Technology Act ([15 U.S.C. 278k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278k&num=0&edition=prelim)).
 
 ### Statutory Notes
 
@@ -567,6 +597,10 @@ In this chapter:
 Section 101 of the Higher Education Act of 1965, referred to in par. (2), is classified to [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
 
 #### Amendments
+2017—Par. (3). Pub. L. 114–329, § 501(e)(1)(B), (C), inserted “and best business practices” before “referred” and substituted “section 25(b)” for “section 25(a)”.
+
+Pub. L. 114–329, § 501(e)(1)(A), which directed substitution of “manufacturing extension center” for “regional center”, was executed by making the substitution after “means a” outside of the defined term, to reflect the probable intent of Congress.
+
 1998—Par. (2). Pub. L. 105–244 substituted “section 101 of the Higher Education Act of 1965” for “section 1201(a) of the Higher Education Act of 1965 ([20 U.S.C. 1141(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1141/a&num=0&edition=prelim))”.
 
 #### Effective Date of 1998 Amendment

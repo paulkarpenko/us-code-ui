@@ -34,7 +34,7 @@ source: >-
 
 (3) **Areas designated based solely on degree of poverty**
 
-  (A) *In general* — Except as provided in subparagraph (B), the Secretary shall designate (i) the nominated areas with the highest average ranking with respect to the criteria set forth in subparagraphs (C) and (D) of subsection (c)(3) of this section, and the 1 criterion set forth in subparagraph (E)(i) or (E)(ii) of subsection (c)(3) of this section that gives an area a higher ranking; and (ii) for areas described in paragraph (2)(B), the nominated areas with the highest ranking with respect to the 1 criterion set forth in subparagraph (C), (D), (E)(i), or (E)(ii) of subsection (c)(3) of this section that gives an area a higher ranking. For purposes of the preceding sentence, an area shall be ranked within each such criterion on the basis of the amount by which the area exceeds such criterion, with the area that exceeds such criterion by the greatest amount given the highest ranking.
+  (A) *In general* — Except as provided in subparagraph (B), the Secretary shall designate (i) the nominated areas with the highest average ranking with respect to the criteria set forth in subparagraphs (C) and (D) of subsection (c)(3), and the 1 criterion set forth in subparagraph (E)(i) or (E)(ii) of subsection (c)(3) that gives an area a higher ranking; and (ii) for areas described in paragraph (2)(B), the nominated areas with the highest ranking with respect to the 1 criterion set forth in subparagraph (C), (D), (E)(i), or (E)(ii) of subsection (c)(3) that gives an area a higher ranking. For purposes of the preceding sentence, an area shall be ranked within each such criterion on the basis of the amount by which the area exceeds such criterion, with the area that exceeds such criterion by the greatest amount given the highest ranking.
 
   (B) *Exception where inadequate course of action, etc.* — An area shall not be designated under subparagraph (A) if the Secretary determines that the course of action with respect to such area is inadequate.
 
@@ -48,7 +48,7 @@ source: >-
 
     (ii) the parameters relating to the size and population characteristics of an enterprise zone; and
 
-    (iii) the manner in which nominated areas will be evaluated based on the criteria specified in subsection (d) of this section.
+    (iii) the manner in which nominated areas will be evaluated based on the criteria specified in subsection (d).
 
   (B) *Time limitations* — The Secretary shall designate nominated areas as enterprise zones only during the 24-month period beginning on the 1st day of the 1st month following the month in which the date of the enactment of the Housing and Community Development Act of 1992 occurs.
 
@@ -58,7 +58,7 @@ source: >-
 
       (I) to nominate such area for designation as an enterprise zone;
 
-      (II) to make the State and local commitments under subsection (d) of this section; and
+      (II) to make the State and local commitments under subsection (d); and
 
       (III) to provide assurances satisfactory to the Secretary that such commitments will be fulfilled;
 
@@ -76,15 +76,15 @@ source: >-
 
   (A) December 31 of the 24th calendar year following the calendar year in which such date occurs;
 
-  (B) the termination date designated by the State and local governments as provided for in their nomination pursuant to subsection (a)(4)(C)(ii) of this section; or
+  (B) the termination date designated by the State and local governments as provided for in their nomination pursuant to subsection (a)(4)(C)(ii); or
 
   (C) the date the Secretary revokes such designation under paragraph (2).
 
-(2) **Revocation of designation** — The Secretary, after consultation with the officials described in subsection (a)(1)(B) of this section and a hearing on the record involving officials of the State or local government involved, may revoke the designation of an area if the Secretary determines that the local government or the State in which it is located is not complying substantially with the State and local commitments pursuant to subsection (d) of this section.
+(2) **Revocation of designation** — The Secretary, after consultation with the officials described in subsection (a)(1)(B) and a hearing on the record involving officials of the State or local government involved, may revoke the designation of an area if the Secretary determines that the local government or the State in which it is located is not complying substantially with the State and local commitments pursuant to subsection (d).
 
 **(c) Area and eligibility requirements**
 
-(1) **In general** — The Secretary may make a designation of any nominated area under subsection (a)(1) of this section only if it meets the requirements of paragraphs (2) and (3).
+(1) **In general** — The Secretary may make a designation of any nominated area under subsection (a)(1) only if it meets the requirements of paragraphs (2) and (3).
 
 (2) **Area requirements** — A nominated area meets the requirements of this paragraph if—
 
@@ -96,7 +96,7 @@ source: >-
 
     (i) has a population, as determined by the most recent census data available, of not less than—
 
-      (I) 4,000 if any portion of such area (other than a rural area described in subsection (a)(2)(B)(i) of this section) is located within a metropolitan statistical area (as designated by the Director of the Office of Management and Budget) with a population of 50,000 or more; or
+      (I) 4,000 if any portion of such area (other than a rural area described in subsection (a)(2)(B)(i)) is located within a metropolitan statistical area (as designated by the Director of the Office of Management and Budget) with a population of 50,000 or more; or
 
       (II) 1,000 in any other case; or
 
@@ -118,7 +118,7 @@ source: >-
 
     (ii) The population of the area decreased by 20 percent or more between 1970 and 1980 (as determined from the most recent census available).
 
-(4) **Eligibility requirements for rural areas** — For purposes of paragraph (1), a nominated area that is a rural area described in subsection (a)(2)(B) of this section meets the requirements of paragraph (3) if the State and local governments in which it is located certify and the Secretary, after such review of supporting data as he deems appropriate, accepts such certification, that the area meets—
+(4) **Eligibility requirements for rural areas** — For purposes of paragraph (1), a nominated area that is a rural area described in subsection (a)(2)(B) meets the requirements of paragraph (3) if the State and local governments in which it is located certify and the Secretary, after such review of supporting data as he deems appropriate, accepts such certification, that the area meets—
 
   (A) the criteria set forth in subparagraphs (A) and (B) of paragraph (3); and
 
@@ -233,7 +233,7 @@ The Uniform Relocation Assistance and Real Property Acquisition Policy Act of 19
 
 **(b) Limitation** No provision of this section may be construed to authorize the Secretary to waive or modify any rule adopted to carry out a statute or Executive order that prohibits, or the purpose of which is to protect persons against, discrimination on the basis of race, color, religion, sex, marital status, national origin, age, or handicap.
 
-**(c) Submission of requests** A request under subsection (a) of this section shall specify the rule or rules to be waived or modified and the change proposed, and shall briefly describe why the change would promote the achievement of the job creation, community development, or economic revitalization objectives of the enterprise zone. If a request is made to the Secretary of Agriculture, the requesting governments shall send a copy of the request to the Secretary of Housing and Urban Development at the time the request is made.
+**(c) Submission of requests** A request under subsection (a) shall specify the rule or rules to be waived or modified and the change proposed, and shall briefly describe why the change would promote the achievement of the job creation, community development, or economic revitalization objectives of the enterprise zone. If a request is made to the Secretary of Agriculture, the requesting governments shall send a copy of the request to the Secretary of Housing and Urban Development at the time the request is made.
 
 **(d) Consideration of requests** In considering a request, the Secretary shall weigh the extent to which the proposed change is likely to further job creation, community development, or economic revitalization within the enterprise zone against the effect the change is likely to have on the underlying purposes of applicable statutes in the geographic area that would be affected by the change. The Secretary shall approve the request whenever the Secretary finds, in the discretion of the Secretary, that the public interest that the proposed change would serve in furthering such job creation, community development or economic revitalization outweighs the public interest that continuation of the rule unchanged would serve in furthering such underlying purposes. The Secretary shall not approve any request to waive or modify a rule if that waiver or modification would—
 
@@ -241,13 +241,13 @@ The Uniform Relocation Assistance and Real Property Acquisition Policy Act of 19
 
 (2) be likely to present a significant risk to the public health, including environmental health or safety.
 
-**(e) Notice of disapproval** If a request is disapproved, the Secretary shall inform the requesting governments in writing of the reasons therefor and shall, to the maximum extent possible, work with such governments to develop an alternative, consistent with the standards contained in subsection (d) of this section.
+**(e) Notice of disapproval** If a request is disapproved, the Secretary shall inform the requesting governments in writing of the reasons therefor and shall, to the maximum extent possible, work with such governments to develop an alternative, consistent with the standards contained in subsection (d).
 
 **(f) Period for determination** The Secretary shall discharge the responsibilities of the Secretary under this section in an expeditious manner, and shall make a determination on requests not later than 90 days after their receipt.
 
-**(g) Applicable procedures** A waiver or modification of a rule under subsection (a) of this section shall not be considered to be a rule, rulemaking, or regulation under chapter 5 of title 5. To facilitate reaching a decision on any requested waiver or modification, the Secretary may seek the views of interested parties and, if the views are to be sought, determine how they should be obtained and to what extent, if any, they should be taken into account in considering the request. The Secretary shall publish a notice in the Federal Register stating any waiver or modification of a rule under this section.
+**(g) Applicable procedures** A waiver or modification of a rule under subsection (a) shall not be considered to be a rule, rulemaking, or regulation under chapter 5 of title 5. To facilitate reaching a decision on any requested waiver or modification, the Secretary may seek the views of interested parties and, if the views are to be sought, determine how they should be obtained and to what extent, if any, they should be taken into account in considering the request. The Secretary shall publish a notice in the Federal Register stating any waiver or modification of a rule under this section.
 
-**(h) Effect of subsequent amendment of rules** In the event that the Secretary proposes to amend a rule for which a waiver or modification under this section is in effect, the Secretary shall not change the waiver or modification to impose additional requirements unless the Secretary determines, consistent with standards contained in subsection (d) of this section, that such action is necessary.
+**(h) Effect of subsequent amendment of rules** In the event that the Secretary proposes to amend a rule for which a waiver or modification under this section is in effect, the Secretary shall not change the waiver or modification to impose additional requirements unless the Secretary determines, consistent with standards contained in subsection (d), that such action is necessary.
 
 **(i) Expiration of waivers and modifications** No waiver or modification of a rule under this section shall remain in effect for a longer period than the period for which the enterprise zone designation remains in effect for the area in which the waiver or modification applies.
 

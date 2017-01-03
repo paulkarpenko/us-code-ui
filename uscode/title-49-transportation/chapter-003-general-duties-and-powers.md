@@ -2,7 +2,7 @@
 title: 49
 chapter: '3'
 heading: GENERAL DUTIES AND POWERS
-section_count: 30
+section_count: 33
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -49,6 +49,12 @@ Par. (6). Pub. L. 102–240, §§ 5002(a), 6017, redesignated par. (5) as (6) an
 
 Pars. (7), (8). Pub. L. 102–240, § 5002(a), redesignated pars. (6) and (7) as (7) and (8), respectively.
 
+#### National Advisory Committee on Travel and Tourism Infrastructure
+Pub. L. 114–94, div. A, title I, § 1431, Dec. 4, 2015, 129 Stat. 1427, provided that: “(a) Findings.—Congress finds that—“(1) 1 out of every 9 jobs in the United States depends on travel and tourism, and the industry supports 15,000,000 jobs in the United States; “(2) the travel and tourism industry employs individuals in all 50 States, the District of Columbia, and all of the territories of the United States; “(3) international travel to the United States is the single largest export industry in the United States, generating a trade surplus balance of approximately $74,000,000,000; “(4) travel and tourism provide significant economic benefits to the United States by generating nearly $2,100,000,000,000 in annual economic output; and “(5) the United States intermodal transportation network facilitates the large-scale movement of business and leisure travelers, and is the most important asset of the travel industry. “(b) Establishment.—Not later than 180 days after the date of enactment of this Act [Dec. 4, 2015], the Secretary [of Transportation] shall establish an advisory committee to be known as the National Advisory Committee on Travel and Tourism Infrastructure (referred to in this section as the ‘Committee’) to provide information, advice, and recommendations to the Secretary on matters relating to the role of intermodal transportation in facilitating mobility related to travel and tourism activities. “(c) Membership.—The Committee shall—“(1) be composed of members appointed by the Secretary for terms of not more than 3 years; and “(2) include a representative cross-section of public and private sector stakeholders involved in the travel and tourism industry, including representatives of—“(A) the travel and tourism industry, product and service providers, and travel and tourism-related associations; “(B) travel, tourism, and destination marketing organizations; “(C) the travel and tourism-related workforce; “(D) State tourism offices; “(E) State departments of transportation; “(F) regional and metropolitan planning organizations; and “(G) local governments. “(d) Role of Committee.—The Committee shall—“(1) advise the Secretary on current and emerging priorities, issues, projects, and funding needs related to the use of the intermodal transportation network of the United States to facilitate travel and tourism; “(2) serve as a forum for discussion for travel and tourism stakeholders on transportation issues affecting interstate and interregional mobility of passengers; “(3) promote the sharing of information between the private and public sectors on transportation issues impacting travel and tourism; “(4) gather information, develop technical advice, and make recommendations to the Secretary on policies that improve the condition and performance of an integrated national transportation system that—“(A) is safe, economical, and efficient; and “(B) maximizes the benefits to the United States generated through the travel and tourism industry; “(5) identify critical transportation facilities and corridors that facilitate and support the interstate and interregional transportation of passengers for tourism, commercial, and recreational activities; “(6) provide for development of measures of condition, safety, and performance for transportation related to travel and tourism; “(7) provide for development of transportation investment, data, and planning tools to assist Federal, State, and local officials in making investment decisions relating to transportation projects that improve travel and tourism; and “(8) address other issues of transportation policy and programs impacting the movement of travelers for tourism and recreational purposes, including by making legislative recommendations. “(e) National Travel and Tourism Infrastructure Strategic Plan.—Not later than 3 years after the date of enactment of this Act [Dec. 4, 2015], the Secretary, in consultation with the Committee, State departments of transportation, and other appropriate public and private transportation stakeholders, shall develop and post on the public Internet website of the Department a national travel and tourism infrastructure strategic plan that includes—“(1) an assessment of the condition and performance of the national transportation network; “(2) an identification of the issues on the national transportation network that create significant congestion problems and barriers to long-haul passenger travel and tourism; “(3) forecasts of long-haul passenger travel and tourism volumes for the 20-year period beginning in the year during which the plan is issued; “(4) an identification of the major transportation facilities and corridors for current and forecasted long-haul travel and tourism volumes, the identification of which shall be revised, as appropriate, in subsequent plans; “(5) an assessment of statutory, regulatory, technological, institutional, financial, and other barriers to improved long-haul passenger travel performance (including opportunities for overcoming the barriers); “(6) best practices for improving the performance of the national transportation network; and “(7) strategies to improve intermodal connectivity for long-haul passenger travel and tourism.”
+
+#### Collaboration and Support
+Pub. L. 114–94, div. A, title VI, § 6024, Dec. 4, 2015, 129 Stat. 1585, provided that: “The Secretary [of Transportation] may solicit the support of, and identify opportunities to collaborate with, other Federal research agencies and national laboratories to assist in the effective and efficient pursuit and resolution of research challenges identified by the Secretary.”
+
 #### Public-Private Partnerships
 Pub. L. 112–141, div. A, title I, § 1534, July 6, 2012, 126 Stat. 584, provided that: “(a) Best Practices.—The Secretary [of Transportation] shall compile, and make available to the public on the website of the Department [of Transportation], best practices on how States, public transportation agencies, and other public officials can work with the private sector in the development, financing, construction, and operation of transportation facilities. “(b) Contents.—The best practices compiled under subsection (a) shall include polices and techniques to ensure that the interests of the traveling public and State and local governments are protected in any agreement entered into with the private sector for the development, financing, construction, and operation of transportation facilities. “(c) Technical Assistance.—The Secretary, on request, may provide technical assistance to States, public transportation agencies, and other public officials regarding proposed public-private partnership agreements for the development, financing, construction, and operation of transportation facilities, including assistance in analyzing whether the use of a public-private partnership agreement would provide value compared with traditional public delivery methods. “(d) Standard Transaction Contracts.—“(1) Development.—Not later than 18 months after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways], the Secretary shall develop standard public-private partnership transaction model contracts for the most popular types of public-private partnerships for the development, financing, construction, and operation of transportation facilities. “(2) Use.—The Secretary shall encourage States, public transportation agencies, and other public officials to use the model contracts as a base template when developing their own public-private partnership agreements for the development, financing, construction, and operation of transportation facilities.”
 
@@ -67,7 +73,7 @@ Pub. L. 105–178, title III, § 3034, June 9, 1998, 112 Stat. 386, provided tha
 Pub. L. 105–66, title III, § 346, Oct. 27, 1997, 111 Stat. 1449, provided that: “(a) As soon as practicable after the date of enactment of this Act [Oct. 27, 1997], the Secretary of Transportation, acting for the Department of Transportation, may take receipt of such equipment and sites of the Ground Wave Emergency Network (referred to in this section as ‘GWEN’) as the Secretary of Transportation determines to be necessary for the establishment of a nationwide system to be known as the ‘Nationwide Differential Global Positioning System’ (referred to in this section as ‘NDGPS’). “(b) As soon as practicable after the date of enactment of this Act [Oct. 27, 1997], the Secretary of Transportation may establish the NDGPS. In establishing the NDGPS, the Secretary of Transportation may—“(1) if feasible, reuse GWEN equipment and sites transferred to the Department of Transportation under subsection (a); “(2) to the maximum extent practicable, use contractor services to install the NDGPS; “(3) modify the positioning system operated by the Coast Guard at the time of the establishment of the NDGPS to integrate the reference stations made available pursuant to subsection (a); “(4) in cooperation with the Secretary of Commerce, ensure that the reference stations referred to in paragraph (3) are compatible with, and integrated into, the Continuously Operating Reference Station (commonly referred to as ‘CORS’) system of the National Geodetic Survey of the Department of Commerce; and “(5) in cooperation with the Secretary of Commerce, investigate the use of the NDGPS reference stations for the Global Positioning System Integrated Precipitable Water Vapor System of the National Oceanic and Atmospheric Administration. “(c) The Secretary of Transportation may—“(1) manage and operate the NDGPS; “(2) ensure that the service of the NDGPS is provided without the assessment of any user fee; and “(3) in cooperation with the Secretary of Defense, ensure that the use of the NDGPS is denied to any enemy of the United States. “(d) In any case in which the Secretary of Transportation determines that contracting for the maintenance of 1 or more NDGPS reference stations is cost-effective, the Secretary of Transportation may enter into a contract to provide for that maintenance. “(e) The Secretary of Transportation may—“(1) in cooperation with appropriate representatives of private industries and universities and officials of State governments—“(A) investigate improvements (including potential improvements) to the NDGPS; “(B) develop standards for the NDGPS; and “(C) sponsor the development of new applications for the NDGPS; and “(2) provide for the continual upgrading of the NDGPS to improve performance and address the needs of—“(A) the Federal Government; “(B) State and local governments; and “(C) the general public.”
 
 #### Intermodal Transportation Advisory Board and Office of Intermodalism
-Pub. L. 102–240, title V, § 5002(b), (c), Dec. 18, 1991, 105 Stat. 2158, which provided for establishment within the Office of the Secretary of Transportation of an Intermodal Transportation Advisory Board to make recommendations for carrying out responsibilities of the Secretary concerning the coordination of Federal policy on intermodal transportation, and for establishment within the Office of the Secretary of an Office of Intermodalism to develop intermodal transportation data, to coordinate Federal research on intermodal transportation, to provide technical assistance to States and metropolitan planning organizations, and to provide administrative and clerical support to the Intermodal Transportation Advisory Board, was repealed and reenacted as sections 5502 and 5503 of this title by Pub. L. 103–272, §§ 1(d), 7(b), July 5, 1994, 108 Stat. 849, 850, 1379.
+Pub. L. 102–240, title V, § 5002(b), (c), Dec. 18, 1991, 105 Stat. 2158, which provided for establishment within the Office of the Secretary of Transportation of an Intermodal Transportation Advisory Board to make recommendations for carrying out responsibilities of the Secretary concerning the coordination of Federal policy on intermodal transportation, and for establishment within the Office of the Secretary of an Office of Intermodalism to develop intermodal transportation data, to coordinate Federal research on intermodal transportation, to provide technical assistance to States and metropolitan planning organizations, and to provide administrative and clerical support to the Intermodal Transportation Advisory Board, was repealed and reenacted as sections 5502 and former 5503 of this title by Pub. L. 103–272, §§ 1(d), 7(b), July 5, 1994, 108 Stat. 849, 850, 1379.
 
 #### Model Intermodal Transportation Plans
 Pub. L. 102–240, title V, § 5003, Dec. 18, 1991, 105 Stat. 2159, which directed Secretary of Transportation to make grants to States, representing a variety of geographic regions and transportation needs, patterns, and modes, for purpose of developing model State intermodal transportation plans consistent with policy of United States to encourage and promote development of national intermodal transportation system, was repealed and reenacted as [section 5504 of this title](./chapter-055-intermodal-transportation.md#section-5504) by Pub. L. 103–272, §§ 1(d), 7(b), July 5, 1994, 108 Stat. 850, 1379.
@@ -156,7 +162,7 @@ George W. Bush.
 | 302(b) | 49:1653(b)(2). |  |
 | 302(c) | 49:1653(b)(3). |  |
 
-In subsection (a), the words “In carrying out his duties and responsibilities under this chapter” before “Secretary of Transportation” are omitted as surplus. The words “the transportation policy of sections 10101 and 10101a of this title in addition to other laws” are substituted for “all applicable statutes including the policy standards set forth in the Federal Aviation Act of 1958, as amended [[49 U.S.C. 1301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim) et seq.]; the national transportation policy of the Interstate Commerce Act, as amended; title 23, relating to Federal-aid highways; and title 14, titles 52 and 53 of the Revised Statutes, the Act of April 25, 1940, as amended, and the Act of September 2, 1958, as amended, relating to the United States Coast Guard” because each of the omitted laws is now applicable to the Secretary of Transportation and the Department of Transportation as the result of the restatement of those laws, and the Secretary is therefore bound to follow those laws by their own terms.
+In subsection (a), the words “In carrying out his duties and responsibilities under this chapter” before “Secretary of Transportation” are omitted as surplus. The words “the transportation policy of sections 10101 and 10101a of this title in addition to other laws” are substituted for “all applicable statutes including the policy standards set forth in the Federal Aviation Act of 1958, as amended [[49 U.S.C. 1301](./chapter-013-surface-transportation-board.md#section-1301) et seq.]; the national transportation policy of the Interstate Commerce Act, as amended; title 23, relating to Federal-aid highways; and title 14, titles 52 and 53 of the Revised Statutes, the Act of April 25, 1940, as amended, and the Act of September 2, 1958, as amended, relating to the United States Coast Guard” because each of the omitted laws is now applicable to the Secretary of Transportation and the Department of Transportation as the result of the restatement of those laws, and the Secretary is therefore bound to follow those laws by their own terms.
 
 In subsection (c), the words “In exercising the functions, powers, and duties conferred on and transferred to the Secretary by this chapter” before “Secretary” are omitted as surplus. The word “consider” is substituted for “give full consideration to” to eliminate surplus words. The words “for operational continuity of the functions transferred” after “the needs” are omitted as executed.
 
@@ -172,7 +178,7 @@ Subsec. (e). Pub. L. 102–240, § 5001, added subsec. (e).
 1984—Subsec. (b). Pub. L. 98–216 substituted “49 App. U.S.C.” for “49 U.S.C.”.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Effective Date of 1991 Amendment
 Amendment by section 1036(a) of Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under [section 104 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section104&num=0&edition=prelim), Highways.
@@ -184,7 +190,7 @@ Amendment by section 1036(a) of Pub. L. 102–240 effective Dec. 18, 1991, and a
 
 **(b)** The Secretary of Transportation shall cooperate and consult with the Secretaries of the Interior, Housing and Urban Development, and Agriculture, and with the States, in developing transportation plans and programs that include measures to maintain or enhance the natural beauty of lands crossed by transportation activities or facilities.
 
-**(c) Approval of Programs and Projects.—** Subject to subsection (d), the Secretary may approve a transportation program or project (other than any project for a park road or parkway under section 204 11 See References in Text note below. of title 23) requiring the use of publicly owned land of a public park, recreation area, or wildlife and waterfowl refuge of national, State, or local significance, or land of an historic site of national, State, or local significance (as determined by the Federal, State, or local officials having jurisdiction over the park, area, refuge, or site) only if—
+**(c) Approval of Programs and Projects.—** Subject to subsections (d) and (h), the Secretary may approve a transportation program or project (other than any project for a park road or parkway under section 204 11 See References in Text note below. of title 23) requiring the use of publicly owned land of a public park, recreation area, or wildlife and waterfowl refuge of national, State, or local significance, or land of an historic site of national, State, or local significance (as determined by the Federal, State, or local officials having jurisdiction over the park, area, refuge, or site) only if—
 
 (1) there is no prudent and feasible alternative to using that land; and
 
@@ -202,7 +208,7 @@ Amendment by section 1036(a) of Pub. L. 102–240 effective Dec. 18, 1991, and a
 
 (2) **Historic sites.—** — With respect to historic sites, the Secretary may make a finding of de minimis impact only if—
 
-  (A) the Secretary has determined, in accordance with the consultation process required under [section 306108 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section306108&num=0&edition=prelim), United States Code,22 So in original. The words “, United States Code,” probably should not appear. that—
+  (A) the Secretary has determined, in accordance with the consultation process required under [section 306108 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section306108&num=0&edition=prelim), United States Code,22 So in original. The words “, United States Code” probably should not appear. that—
 
     (i) the transportation program or project will have no adverse effect on the historic site; or
 
@@ -217,6 +223,74 @@ Amendment by section 1036(a) of Pub. L. 102–240 effective Dec. 18, 1991, and a
   (A) the Secretary has determined, after public notice and opportunity for public review and comment, that the transportation program or project will not adversely affect the activities, features, and attributes of the park, recreation area, or wildlife or waterfowl refuge eligible for protection under this section; and
 
   (B) the finding of the Secretary has received concurrence from the officials with jurisdiction over the park, recreation area, or wildlife or waterfowl refuge.
+
+**(e) Satisfaction of Requirements for Certain Historic Sites.—**
+
+(1) **In general.—** — The Secretary shall—
+
+  (A) align, to the maximum extent practicable, the requirements of this section with the requirements of the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) and [section 306108 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section306108&num=0&edition=prelim), including implementing regulations; and
+
+  (B) not later than 90 days after the date of enactment of this subsection, coordinate with the Secretary of the Interior and the Executive Director of the Advisory Council on Historic Preservation (referred to in this subsection as the “Council”) to establish procedures to satisfy the requirements described in subparagraph (A) (including regulations).
+
+(2) **Avoidance alternative analysis.—**
+
+  (A) *In general.—* — If, in an analysis required under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), the Secretary determines that there is no feasible or prudent alternative to avoid use of a historic site, the Secretary may—
+
+    (i) include the determination of the Secretary in the analysis required under that Act;
+
+    (ii) provide a notice of the determination to—
+
+      (I) each applicable State historic preservation officer and tribal historic preservation officer;
+
+      (II) the Council, if the Council is participating in the consultation process under [section 306108 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section306108&num=0&edition=prelim); and
+
+      (III) the Secretary of the Interior; and
+
+    (iii) request from the applicable preservation officer, the Council, and the Secretary of the Interior a concurrence that the determination is sufficient to satisfy subsection (c)(1).
+
+  (B) *Concurrence.—* — If the applicable preservation officer, the Council, and the Secretary of the Interior each provide a concurrence requested under subparagraph (A)(iii), no further analysis under subsection (c)(1) shall be required.
+
+  (C) *Publication.—* — A notice of a determination, together with each relevant concurrence to that determination, under subparagraph (A) shall—
+
+    (i) be included in the record of decision or finding of no significant impact of the Secretary; and
+
+    (ii) be posted on an appropriate Federal website by not later than 3 days after the date of receipt by the Secretary of all concurrences requested under subparagraph (A)(iii).
+
+(3) **Aligning historical reviews.—**
+
+  (A) *In general.—* — If the Secretary, the applicable preservation officer, the Council, and the Secretary of the Interior concur that no feasible and prudent alternative exists as described in paragraph (2), the Secretary may provide to the applicable preservation officer, the Council, and the Secretary of the Interior notice of the intent of the Secretary to satisfy subsection (c)(2) through the consultation requirements of [section 306108 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section306108&num=0&edition=prelim).
+
+  (B) *Satisfaction of conditions.—* — To satisfy subsection (c)(2), the applicable preservation officer, the Council, and the Secretary of the Interior shall concur in the treatment of the applicable historic site described in the memorandum of agreement or programmatic agreement developed under [section 306108 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section306108&num=0&edition=prelim).
+
+**(f) References to Past Transportation Environmental Authorities.—**
+
+(1) **Section 4(f) requirements.—** — The requirements of this section are commonly referred to as section 4(f) requirements (see section 4(f) of the Department of Transportation Act (Public Law 89–670; 80 Stat. 934) as in effect before the repeal of that section).
+
+(2) **Section 106 requirements.—** — The requirements of [section 306108 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section306108&num=0&edition=prelim) are commonly referred to as section 106 requirements (see section 106 of the National Historic Preservation Act of 1966 (Public Law 89–665; 80 Stat. 917) as in effect before the repeal of that section).
+
+**(g) Bridge Exemption From Consideration.—** A common post-1945 concrete or steel bridge or culvert (as described in 77 Fed. Reg. 68790) that is exempt from individual review under [section 306108 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section306108&num=0&edition=prelim) shall be exempt from consideration under this section.
+
+**(h) Rail and Transit.—**
+
+(1) **In general.—** — Improvements to, or the maintenance, rehabilitation, or operation of, railroad or rail transit lines or elements thereof that are in use or were historically used for the transportation of goods or passengers shall not be considered a use of a historic site under subsection (c), regardless of whether the railroad or rail transit line or element thereof is listed on, or eligible for listing on, the National Register of Historic Places.
+
+(2) **Exceptions.—**
+
+  (A) *In general.—* — Paragraph (1) shall not apply to—
+
+    (i) stations; or
+
+    (ii) bridges or tunnels located on—
+
+      (I) railroad lines that have been abandoned; or
+
+      (II) transit lines that are not in use.
+
+  (B) *Clarification with respect to certain bridges and tunnels.—* — The bridges and tunnels referred to in subparagraph (A)(ii) do not include bridges or tunnels located on railroad or transit lines—
+
+    (i) over which service has been discontinued; or
+
+    (ii) that have been railbanked or otherwise reserved for the transportation of goods or passengers.
 
 ### Statutory Notes
 
@@ -237,7 +311,21 @@ In subsection (c), before clause (1), the words “After August 23, 1968” afte
 #### References in Text
 [Section 204 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section204&num=0&edition=prelim), referred to in subsec. (c), was repealed and a new section 204 enacted by Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 473, 489.
 
+The National Environmental Policy Act of 1969, referred to in subsec. (e)(1)(A), (2)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+The date of enactment of this subsection, referred to in subsec. (e)(1)(B), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
 #### Amendments
+2015—Subsec. (c). Pub. L. 114–94, § 11502(b)(1), substituted “subsections (d) and (h)” for “subsection (d)”.
+
+Subsec. (e). Pub. L. 114–94, § 1301(b), added subsec. (e).
+
+Subsec. (f). Pub. L. 114–94, § 1302(b), added subsec. (f).
+
+Subsec. (g). Pub. L. 114–94, § 1303(b), added subsec. (g).
+
+Subsec. (h). Pub. L. 114–94, § 11502(b)(2), added subsec. (h).
+
 2014—Subsec. (d)(2)(A). Pub. L. 113–287 substituted “[section 306108 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section306108&num=0&edition=prelim), United States Code” for “section 106 of the National Historic Preservation Act ([16 U.S.C. 470f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470f&num=0&edition=prelim))” in introductory provisions.
 
 2005—Subsec. (c). Pub. L. 109–59, § 6009(a)(2)(A), inserted heading and substituted “Subject to subsection (d), the Secretary” for “The Secretary” in introductory provisions.
@@ -245,6 +333,9 @@ In subsection (c), before clause (1), the words “After August 23, 1968” afte
 Subsec. (d). Pub. L. 109–59, § 6009(a)(2)(B), added subsec. (d).
 
 1987—Subsec. (c). Pub. L. 100–17 inserted “(other than any project for a park road or parkway under [section 204 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section204&num=0&edition=prelim))” after “program or project”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Treatment of Military Flight Operations
 Pub. L. 105–85, div. A, title X, § 1079, Nov. 18, 1997, 111 Stat. 1916, provided that: “No military flight operation (including a military training flight), or designation of airspace for such an operation, may be treated as a transportation program or project for purposes of [section 303(c) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section303/c&num=0&edition=prelim), United States Code.”
@@ -304,47 +395,31 @@ In subsection (c)(6), the words “province and”, “from time to time”, and
 ## § 304. Application of categorical exclusions for multimodal projects
 **(a) Definitions.—** In this section, the following definitions apply:
 
-(1) **Cooperating authority.—** — The term “cooperating authority” means a Department of Transportation operating authority that is not the lead authority with respect to a project.
+(1) **Cooperating authority.—** — The term “cooperating authority” means a Department of Transportation operating administration or secretarial office that has expertise but is not the lead authority with respect to a proposed multimodal project.
 
-(2) **Lead authority.—** — The term “lead authority” means a Department of Transportation operating administration or secretarial office that—
-
-  (A) is the lead authority over a proposed multimodal project; and
-
-  (B) has determined that the components of the project that fall under the modal expertise of the lead authority—
-
-    (i) satisfy the conditions for a categorical exclusion under implementing regulations or procedures of the lead authority under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.); and
-
-    (ii) do not require the preparation of an environmental assessment or environmental impact statement under that Act.
+(2) **Lead authority.—** — The term “lead authority” means a Department of Transportation operating administration or secretarial office that has the lead responsibility for compliance with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) with respect to a proposed multimodal project.
 
 (3) **Multimodal project.—** — The term “multimodal project” has the meaning given the term in [section 139(a) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section139/a&num=0&edition=prelim).
 
-**(b) Exercise of Authorities.—** The authorities granted in this section may be exercised for a multimodal project, class of projects, or program of projects that are carried out under this title.
+**(b) Exercise of Authorities.—** The authorities granted in this section may be exercised for a multimodal project, class of projects, or program of projects that are carried out under this title or title 23.
 
-**(c) Application of Categorical Exclusions for Multimodal Projects.—** In considering the environmental impacts of a proposed multimodal project, a lead authority may apply a categorical exclusion designated under the implementing regulations or procedures of a cooperating authority for other components of the project, subject to the conditions that—
+**(c) Application of Categorical Exclusions for Multimodal Projects.—** In considering the environmental impacts of a proposed multimodal project, a lead authority may apply categorical exclusions designated under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) in implementing regulations or procedures of a cooperating authority for a proposed multimodal project, subject to the conditions that—
 
-(1) the multimodal project is funded under 1 grant agreement administered by the lead authority;
+(1) the lead authority makes a determination, with the concurrence of the cooperating authority—
 
-(2) the multimodal project has components that require the expertise of a cooperating authority to assess the environmental impacts of the components;
+  (A) on the applicability of a categorical exclusion to a proposed multimodal project; and
 
-(3) the component of the project to be covered by the categorical exclusion of the cooperating authority has independent utility;
+  (B) that the project satisfies the conditions for a categorical exclusion under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) and this section;
 
-(4) the cooperating authority, in consultation with the lead authority—
+(2) the lead authority follows the implementing regulations of the cooperating authority or procedures under that Act; and
 
-  (A) follows implementing regulations or procedures under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.); and
+(3) the lead authority determines that—
 
-  (B) determines that a categorical exclusion under that Act applies to the components; and
+  (A) the proposed multimodal project does not individually or cumulatively have a significant impact on the environment; and
 
-(5) the lead authority has determined that—
+  (B) extraordinary circumstances do not exist that merit additional analysis and documentation in an environmental impact statement or environmental assessment required under that Act.
 
-  (A) the project, using the categorical exclusions of the lead authority and each applicable cooperating authority, does not individually or cumulatively have a significant impact on the environment; and
-
-  (B) extraordinary circumstances do not exist that merit additional analysis and documentation in an environmental impact statement or environmental assessment required under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.).
-
-**(d) Modal Cooperation.—**
-
-(1) **In general.—** — A cooperating authority shall provide modal expertise to the lead authority on such aspects of the multimodal project in which the cooperating authority has expertise.
-
-(2) **Use of categorical exclusion.—** — In a case described in paragraph (1), the 1 or more categorical exclusions of a cooperating authority may be applied by the lead authority once the cooperating authority reviews the project on behalf of the lead authority and determines the project satisfies the conditions for a categorical exclusion under the implementing regulations or procedures of the cooperating authority under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) and this section.
+**(d) Cooperating Authority Expertise.—** A cooperating authority shall provide expertise to the lead authority on aspects of the multimodal project in which the cooperating authority has expertise.
 
 ### Statutory Notes
 
@@ -361,13 +436,81 @@ In subsection (a)(4), the word “ensure” is substituted for “assure” as b
 In subsection (b), the words “The Secretaries shall report on April 1 of each year” are substituted for “They shall, within one year after the effective date of the Act, and annually thereafter, report” to omit executed words and to specify the date of April 1 because the President prescribed April 1, 1967, as the effective date of the Department of Transportation Act (Pub. L. 89–670, 80 Stat. 931) by Executive Order No. 11340, March 30, 1967 (32 F.R. 5443). The word “consider” is substituted for “determine” for consistency.
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsecs. (a)(2)(B)(i), (c)(4)(A), (5)(B), and (d)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(2) and (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–94, § 1310(1)(A), substituted “operating administration or secretarial office that has expertise but” for “operating authority that” and inserted “proposed multimodal” after “with respect to a”.
+
+Subsec. (a)(2). Pub. L. 114–94, § 1310(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The term ‘lead authority’ means a Department of Transportation operating administration or secretarial office that—
+
+“(A) is the lead authority over a proposed multimodal project; and
+
+“(B) has determined that the components of the project that fall under the modal expertise of the lead authority—
+
+“(i) satisfy the conditions for a categorical exclusion under implementing regulations or procedures of the lead authority under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.); and
+
+“(ii) do not require the preparation of an environmental assessment or environmental impact statement under that Act.”
+
+Subsec. (b). Pub. L. 114–94, § 1310(2), inserted “or title 23” after “under this title”.
+
+Subsec. (c). Pub. L. 114–94, § 1310(3), added subsec. (c) and struck out former subsec. (c) which related to application of categorical exclusions for multimodal projects.
+
+Subsec. (d). Pub. L. 114–94, § 1310(3), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows:
+
+“(1) In general.—A cooperating authority shall provide modal expertise to the lead authority on such aspects of the multimodal project in which the cooperating authority has expertise.
+
+“(2) Use of categorical exclusion.—In a case described in paragraph (1), the 1 or more categorical exclusions of a cooperating authority may be applied by the lead authority once the cooperating authority reviews the project on behalf of the lead authority and determines the project satisfies the conditions for a categorical exclusion under the implementing regulations or procedures of the cooperating authority under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) and this section.”
+
 2012–Pub. L. 112–141 amended section generally. Prior to amendment, section related to joint activities with the Secretary of Housing and Urban Development.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+
+<a id="section-304a"></a>
+## § 304a. Accelerated decisionmaking in environmental reviews
+**(a) In General.—** In preparing a final environmental impact statement under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), if the lead agency modifies the statement in response to comments that are minor and are confined to factual corrections or explanations of why the comments do not warrant additional agency response, the lead agency may write on errata sheets attached to the statement, instead of rewriting the draft statement, subject to the condition that the errata sheets—
+
+(1) cite the sources, authorities, and reasons that support the position of the agency; and
+
+(2) if appropriate, indicate the circumstances that would trigger agency reappraisal or further response.
+
+**(b) Single Document.—** To the maximum extent practicable, the lead agency shall expeditiously develop a single document that consists of a final environmental impact statement and a record of decision, unless—
+
+(1) the final environmental impact statement makes substantial changes to the proposed action that are relevant to environmental or safety concerns; or
+
+(2) there is a significant new circumstance or information relevant to environmental concerns that bears on the proposed action or the impacts of the proposed action.
+
+**(c) Adoption and Incorporation by Reference of Documents.—**
+
+(1) **Avoiding duplication.—** — To prevent duplication of analyses and support expeditious and efficient decisions, the operating administrations of the Department of Transportation shall use adoption and incorporation by reference in accordance with this subsection.
+
+(2) **Adoption of documents of other operating administrations.—** — An operating administration or a secretarial office within the Department of Transportation may adopt a draft environmental impact statement, an environmental assessment, or a final environmental impact statement of another operating administration for the use of the adopting operating administration when preparing an environmental assessment or final environmental impact statement for a project without recirculating the document for public review, if—
+
+  (A) the adopting operating administration certifies that the proposed action is substantially the same as the project considered in the document to be adopted;
+
+  (B) the other operating administration concurs with such decision; and
+
+  (C) such actions are consistent with the requirements of the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.).
+
+(3) **Incorporation by reference.—** — An operating administration or secretarial office within the Department of Transportation may incorporate by reference all or portions of a draft environmental impact statement, an environmental assessment, or a final environmental impact statement for the use of the adopting operating administration when preparing an environmental assessment or final environmental impact statement for a project if—
+
+  (A) the incorporated material is cited in the environmental assessment or final environmental impact statement and the contents of the incorporated material are briefly described;
+
+  (B) the incorporated material is reasonably available for inspection by potentially interested persons within the time allowed for review and comment; and
+
+  (C) the incorporated material does not include proprietary data that is not available for review and comment.
+
+### Statutory Notes
+
+#### References in Text
+The National Environmental Policy Act of 1969, referred to in subsecs. (a) and (c)(2)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+#### Effective Date
+Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-305"></a>
@@ -478,14 +621,43 @@ The Civil Rights Act of 1964, referred to in subsec. (d)(3), is Pub. L. 88–352
 
 
 <a id="section-307"></a>
-## § 307. Repealed. Pub. L. 112–141, div. C, title II, § 32932(a)(1), July 6, 2012, 126 Stat. 829]
+## § 307. Improving State and Federal agency engagement in environmental reviews
+**(a) In General.—**
+
+(1) **Requests to provide funds.—** — A public entity receiving financial assistance from the Department of Transportation for 1 or more projects, or for a program of projects, for a public purpose may request that the Secretary allow the public entity to provide funds to Federal agencies, including the Department, State agencies, and Indian tribes participating in the environmental planning and review process for the project, projects, or program.
+
+(2) **Use of funds.—** — The funds may be provided only to support activities that directly and meaningfully contribute to expediting and improving permitting and review processes, including planning, approval, and consultation processes for the project, projects, or program.
+
+**(b) Activities Eligible for Funding.—** Activities for which funds may be provided under subsection (a) include transportation planning activities that precede the initiation of the environmental review process, activities directly related to the environmental review process, dedicated staffing, training of agency personnel, information gathering and mapping, and development of programmatic agreements.
+
+**(c) Amounts.—** A request under subsection (a) may be approved only for the additional amounts that the Secretary determines are necessary for the Federal agencies, State agencies, or Indian tribes participating in the environmental review process to timely conduct the review.
+
+**(d) Agreements.—** Prior to providing funds approved by the Secretary for dedicated staffing at an affected Federal agency under subsection (a), the affected Federal agency and the requesting public entity shall enter into an agreement that establishes a process to identify projects or priorities to be addressed by the use of the funds.
+
+**(e) Guidance.—**
+
+(1) **In general.—** — Not later than 180 days after the date of enactment of this section, the Secretary shall issue guidance to implement this section.
+
+(2) **Factors.—** — As part of the guidance issued under paragraph (1), the Secretary shall ensure—
+
+  (A) to the maximum extent practicable, that expediting and improving the process of environmental review and permitting through the use of funds accepted and expended under this section does not adversely affect the timeline for review and permitting by Federal agencies, State agencies, or Indian tribes of other entities that have not contributed funds under this section;
+
+  (B) that the use of funds accepted under this section will not impact impartial decisionmaking with respect to environmental reviews or permits, either substantively or procedurally; and
+
+  (C) that the Secretary maintains, and makes publicly available, including on the Internet, a list of projects or programs for which such review or permits have been carried out using funds authorized under this section.
+
+**(f) Existing Authority.—** Nothing in this section may be construed to conflict with [section 139(j) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section139/j&num=0&edition=prelim).
 
 ### Statutory Notes
 
-Section, Pub. L. 97–449, § 1(b), Jan. 12, 1983, 96 Stat. 2421, related to safety information and intervention in Interstate Commerce Commission proceedings.
+#### References in Text
+The date of enactment of this section, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
-#### Effective Date of Repeal
-Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+#### Prior Provisions
+A prior section 307, Pub. L. 97–449, § 1(b), Jan. 12, 1983, 96 Stat. 2421, related to safety information and intervention in Interstate Commerce Commission proceedings, prior to repeal by Pub. L. 112–141, div. C, title II, § 32932(a)(1), July 6, 2012, 126 Stat. 829, effective Oct. 1, 2012.
+
+#### Effective Date
+Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-308"></a>
@@ -555,6 +727,9 @@ In subsection (e)(1), the words “January of each even-numbered year” are sub
 Subsec. (a). Pub. L. 98–216, § 2(1)(A)(ii), struck out requirement that the report include a complete statement on the effectiveness of the United States Railway Association and the Consolidated Rail Corporation in carrying out the purposes of the Regional Rail Reorganization Act of 1973.
 
 Subsecs. (d), (e). Pub. L. 98–216, § 2(1)(A)(iii), added subsecs. (d) and (e).
+
+#### Availability of Reports
+Pub. L. 114–94, div. A, title I, § 1434, Dec. 4, 2015, 129 Stat. 1430, provided that: “(a) In General.—The Secretary [of Transportation] shall make available to the public on the website of the Department any report required to be submitted by the Secretary to Congress after the date of enactment of this Act [Dec. 4, 2015]. “(b) Deadline.—Each report described in subsection (a) shall be made available on the website not later than 30 days after the report is submitted to Congress.”
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reporting provisions contained in subsecs. (a) and (b) of this section and, as subsequently amended, subsec. (e) of this section, are listed, respectively, as the 11th item on page 133, the last item on page 132, and the 5th item on page 138), see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance.
@@ -707,6 +882,102 @@ Section effective Dec. 18, 1991, and applicable to funds authorized to be approp
 
 #### National Magnetic Levitation Prototype Development Program
 Pub. L. 102–240, title I, § 1036(b), Dec. 18, 1991, 105 Stat. 1978, provided that: “(1) Management of program.—There is hereby established a national magnetic levitation prototype development program to be managed by a program director appointed jointly by the Secretary and the Assistant Secretary of the Army for Civil Works (hereinafter in this subsection referred to as the ‘Assistant Secretary’). To carry out such program, the Secretary and the Assistant Secretary shall establish a national maglev joint project office (hereinafter in this subsection referred to as the ‘Maglev Project Office’), which shall be headed by the program director, and shall enter into such arrangements as may be necessary for funding, staffing, office space, and other requirements that will allow the Maglev Project Office to carry out its functions. In carrying out such program, the program director shall consult with appropriate Federal officials, including the Secretary of Energy and the Administrator of the Environmental Protection Agency. “(2) Phase one contracts.—“(A) Request for proposals.—Not later than 12 months after the date of the enactment of this Act [Dec. 18, 1991], the Maglev Project Office shall release a request for proposals for development of conceptual designs for a maglev system and for research to facilitate the development of such conceptual designs. “(B) Award of contracts.—Not later than 15 months after the date of the enactment of this Act, the Secretary and the Assistant Secretary shall, based on the recommendations of the program director, award 1-year contracts for research and development to no fewer than 5 eligible applicants. If fewer than 5 complete applications have been received, contracts shall be awarded to as many eligible applicants as is practical. “(C) Factors and conditions to be considered.—The Secretary and the Assistant Secretary may approve contracts under subparagraph (B) only after consideration of factors relating to the construction and operation of a magnetic levitation system, including the cost-effectiveness, ease of maintenance, safety, limited environmental impact, ability to achieve sustained high speeds, ability to operate along the Interstate highway rights-of-way, the potential for the guideway design to be a national standard, the applicant’s resources, capabilities, and history of successfully designing and developing systems of similar complexity, and the desirability of geographic diversity among contractors and only if the applicant agrees to submit a report to the Maglev Project Office detailing the results of the research and development and agrees to provide for matching of the phase one contract at a 90 percent Federal, 10 percent non-Federal, cost share. “(3) Phase two contracts.—Within 3 months of receiving the final reports of contract activities under paragraph (2), and based only on such reports and the recommendations of the program director, the Secretary and the Assistant Secretary shall select not more than 3 eligible applicants from among the contract recipients submitting reports under paragraph (2) to receive 18-month contracts for research and development leading to a detailed design for a prototype maglev system. The Secretary and the Assistant Secretary may only award contracts under this paragraph if—“(A) they determine that the applicant has demonstrated technical merit for the conceptual design and the potential for further development of such design into an operational prototype as described in paragraph (4), “(B) the applicant agrees to submit the detailed design within such 18-month period to the Maglev Project Office and the selection committee described in paragraph (4), and “(C) the applicant agrees to provide for matching of the phase two contract at an 80 percent Federal, 20 percent non-Federal, cost share. “(4) Prototype.—“(A) Selection of design.—Within 6 months of receiving the detailed designs developed under paragraph (3), the Secretary and the Assistant Secretary shall, based on the recommendations of the selection committee described in this subparagraph, select 1 design for development into a full-scale prototype, unless the Secretary and the Assistant Secretary determine jointly that no design shall be selected, based on an assessment of technical feasibility and projected cost of construction and operation of the prototype. A selection committee of 8 members, consisting of—“(i) 1 member to be appointed by the Secretary, “(ii) 1 member to be appointed by the Assistant Secretary, “(iii) 3 members to be appointed by the Senate majority and minority leaders, and “(iv) 3 members to be appointed by the Speaker of the House and the minority leader of the House, shall be appointed not later than 1 year following the award of contracts under paragraph (3). The selection committee, within 3 months of receiving the detailed designs developed under paragraph (3), shall make a recommendation to the Secretary and the Assistant Secretary as to the best prototype design or the unsuitability of any design. The program director shall provide technical reviews of the phase two contract reports to the selection committee and otherwise provide any technical assistance that the committee requires to assist it in making a recommendation. In the event that the Secretary and the Assistant Secretary determine jointly not to select a design for development under this subsection, they shall report to Congress on the basis for such determination, together with recommendations for future action, including further research, development, or design, termination of the program, or such other action as may be appropriate. “(B) Award of construction grant or contract.—Unless the Secretary and the Assistant Secretary determine not to proceed pursuant to subparagraph (A), they shall, not later than 3 months after selection of a design for development into a full-scale prototype, and based on the recommendations of the program director, award 1 construction grant or contract to the applicant whose detailed design was selected under subparagraph (A) for the purpose of constructing a prototype maglev system in accordance with the selected design. Not more than 75 percent of the cost of the project shall be borne by the United States. “(C) Factors to be considered in selection.—Selection of the detailed design under this paragraph shall be based on consideration of the following factors, among others:“(i) The project shall be capable of utilizing Interstate highway rights-of-way along or above a significant portion of its route, and may also use railroad rights-of-way along or above any portion of the railroad route. “(ii) The total length of guideway shall be at least 19 miles and allow significant full-speed operations between stops. “(iii) The project shall be constructed and ready for operational testing within 3 years after the award of the contract or grant. “(iv) The project shall provide for the conversion of the prototype to commercial operation after testing and technical evaluation is completed. “(v) The project shall be located in an area that provides a potential ridership base for future commercial operation. “(vi) The project shall utilize a technology capable of being applied in commercial service in most parts of the contiguous United States. “(vii) The project shall have at least 1 switch. “(viii) The project shall be intermodal in nature connecting a major metropolitan area with an airport, port, passenger rail station, or other transportation mode. “(D) Additional factors for consideration.—In awarding a grant or contract under this paragraph, the Secretary shall encourage the development of domestic manufacturing capabilities. In selecting among eligible applicants, the Secretary shall consider existing railroads and equipment manufacturers with excess production capacity, including railroads that have experience in advanced technologies (including self-propelled cars). “(5) Licensing.—“(A) Proprietary rights.—No trade secrets or commercial or financial information that is privileged or confidential, under the meaning of [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim), United States Code, which is obtained from a United States business, research, or education entity as a result of activities under this subsection shall be disclosed. “(B) Commercial information.—The research, development, and use of any technology developed pursuant to an agreement reached pursuant to this subsection, including the terms under which any technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3701–371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701–371&num=0&edition=prelim)4). In addition, the Secretary and the Assistant Secretary may require any grant or contract recipient to assure that research and development be performed substantially in the United States and that the products embodying the inventions made under any agreement pursuant to this subsection or produced through the use of such inventions be manufactured substantially in the United States. “(6) Reports.—The Secretary and the Assistant Secretary shall provide periodic reports to Congress on progress made under this subsection. “(7) Eligible applicant defined.—For purposes of this subsection, the term ‘eligible applicant’ means a United States private business, United States public or private education and research organization, Federal laboratory, or a consortium of such businesses, organizations, and laboratories.”
+
+
+<a id="section-310"></a>
+## § 310. Aligning Federal environmental reviews
+**(a) Coordinated and Concurrent Environmental Reviews.—** Not later than 1 year after the date of enactment of this section, the Department of Transportation, in coordination with the heads of Federal agencies likely to have substantive review or approval responsibilities under Federal law, shall develop a coordinated and concurrent environmental review and permitting process for transportation projects when initiating an environmental impact statement under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) (in this section referred to as “NEPA”).
+
+**(b) Contents.—** The coordinated and concurrent environmental review and permitting process developed under subsection (a) shall—
+
+(1) ensure that the Department of Transportation and agencies of jurisdiction possess sufficient information early in the review process to determine a statement of a transportation project’s purpose and need and range of alternatives for analysis that the lead agency and agencies of jurisdiction will rely on for concurrent environmental reviews and permitting decisions required for the proposed project;
+
+(2) achieve early concurrence or issue resolution during the NEPA scoping process on the Department of Transportation’s statement of a project’s purpose and need, and during development of the environmental impact statement on the range of alternatives for analysis, that the lead agency and agencies of jurisdiction will rely on for concurrent environmental reviews and permitting decisions required for the proposed project absent circumstances that require reconsideration in order to meet an agency of jurisdiction’s obligations under a statute or Executive order; and
+
+(3) achieve concurrence or issue resolution in an expedited manner if circumstances arise that require a reconsideration of the purpose and need or range of alternatives considered during any Federal agency’s environmental or permitting review in order to meet an agency of jurisdiction’s obligations under a statute or Executive order.
+
+**(c) Environmental Checklist.—**
+
+(1) **In general.—** — Not later than 90 days after the date of enactment of this section, the Secretary of Transportation and Federal agencies of jurisdiction likely to have substantive review or approval responsibilities on transportation projects shall jointly develop a checklist to help project sponsors identify potential natural, cultural, and historic resources in the area of a proposed project.
+
+(2) **Purpose.—** — The purpose of the checklist shall be to—
+
+  (A) identify agencies of jurisdiction and cooperating agencies;
+
+  (B) develop the information needed for the purpose and need and alternatives for analysis; and
+
+  (C) improve interagency collaboration to help expedite the permitting process for the lead agency and agencies of jurisdiction.
+
+**(d) Interagency Collaboration.—**
+
+(1) **In general.—** — Consistent with Federal environmental statutes, the Secretary of Transportation shall facilitate annual interagency collaboration sessions at the appropriate jurisdictional level to coordinate business plans and facilitate coordination of workload planning and workforce management.
+
+(2) **Purpose of collaboration sessions.—** — The interagency collaboration sessions shall ensure that agency staff is—
+
+  (A) fully engaged;
+
+  (B) utilizing the flexibility of existing regulations, policies, and guidance; and
+
+  (C) identifying additional actions to facilitate high quality, efficient, and targeted environmental reviews and permitting decisions.
+
+(3) **Focus of collaboration sessions.—** — The interagency collaboration sessions, and the interagency collaborations generated by the sessions, shall focus on methods to—
+
+  (A) work with State and local transportation entities to improve project planning, siting, and application quality; and
+
+  (B) consult and coordinate with relevant stakeholders and Federal, tribal, State, and local representatives early in permitting processes.
+
+(4) **Consultation.—** — The interagency collaboration sessions shall include a consultation with groups or individuals representing State, tribal, and local governments that are engaged in the infrastructure permitting process.
+
+**(e) Performance Measurement.—** Not later than 1 year after the date of enactment of this section, the Secretary of Transportation, in coordination with relevant Federal agencies, shall establish a program to measure and report on progress toward aligning Federal reviews and reducing permitting and project delivery time as outlined in this section.
+
+**(f) Reports.—**
+
+(1) **Report to congress.—** — Not later than 2 years after the date of enactment of this section and biennially thereafter, the Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes—
+
+  (A) progress in aligning Federal environmental reviews under this section; and
+
+  (B) the impact this section has had on accelerating the environmental review and permitting process.
+
+(2) **Inspector general report.—** — Not later than 3 years after the date of enactment of this section, the Inspector General of the Department of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes—
+
+  (A) progress in aligning Federal environmental reviews under this section; and
+
+  (B) the impact this section has had on accelerating the environmental review and permitting process.
+
+**(g) Savings Provision.—** This section shall not apply to any project subject to [section 139 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section139&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsecs. (a), (c)(1), (e), and (f)(1), (2), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+#### Effective Date
+Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-311"></a>
+## § 311. Congressional notification requirements
+**(a) In General.—** Except as provided in subsection (b) or as expressly provided in another provision of law, the Secretary of Transportation shall provide to the appropriate committees of Congress notice of an announcement concerning a covered project at least 3 full business days before the announcement is made by the Department.
+
+**(b) Emergency Program.—** With respect to an allocation of funds under [section 125 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section125&num=0&edition=prelim), the Secretary shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate notice of the allocation—
+
+(1) at least 3 full business days before the issuance of the allocation; or
+
+(2) concurrently with the issuance of the allocation, if the allocation is made using the quick release process of the Department (or any successor process).
+
+**(c) Definitions.—** In this section, the following definitions apply:
+
+(1) **Appropriate committees of congress.—** — The term “appropriate committees of Congress” means—
+
+  (A) the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+  (B) the Committee on Environment and Public Works, the Committee on Commerce, Science, and Transportation, and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+(2) **Covered project.—** — The term “covered project” means a project competitively selected by the Department to receive a discretionary grant award, letter of intent, loan commitment, loan guarantee commitment, or line of credit commitment in an amount equal to or greater than $750,000.
+
+(3) **Department.—** — The term “Department” means the Department of Transportation, including the modal administrations of the Department.
 
 
 <a id="section-321"></a>
@@ -1123,7 +1394,7 @@ In subsection (c)(1), the words “of the United States” are added for clarity
 
 In subsection (c)(2), the words “governmental authority requesting information under paragraph (1) of this subsection” are substituted for “body requesting it” for clarity and consistency. The word “separate” before “account” is omitted as unnecessary and for consistency. The words “must pay” are substituted for “upon the payment” after “other records” for clarity. The words “preparing the information” are substituted for “such work” after “actual cost of” for clarity. The word “payments” is substituted for “All moneys received by the Department in payment of the cost of work under paragraph (1)” to eliminate unnecessary words. The words “in the Treasury” are added for clarity and consistency. The words “The Secretary may use amounts in the account” are substituted for “These moneys may be used, in the discretion of the Secretary” for clarity and to eliminate unnecessary words. The words “to getting and providing the information” are substituted for “to the work and/or to secure in connection therewith the special services of persons who are neither officers nor employees of the United States” for clarity and to eliminate unnecessary words.
 
-In subsection (d), the words “in carrying out duties and powers under the Federal Aviation Act of 1958 ([49 U.S.C. 1301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim) et seq.)” are substituted for “in discharge of responsibilities under this chapter” in 49:1343(b) because of the transfer of aviation functions to the Secretary under 49:1655(c)(1) and for consistency. The words “directly related to carrying out that part” are substituted for “directly relating to such responsibilities” in 49:1343(b) because of the restatement of the source provisions.
+In subsection (d), the words “in carrying out duties and powers under the Federal Aviation Act of 1958 ([49 U.S.C. 1301](./chapter-013-surface-transportation-board.md#section-1301) et seq.)” are substituted for “in discharge of responsibilities under this chapter” in 49:1343(b) because of the transfer of aviation functions to the Secretary under 49:1655(c)(1) and for consistency. The words “directly related to carrying out that part” are substituted for “directly relating to such responsibilities” in 49:1343(b) because of the restatement of the source provisions.
 
 #### Pub. L. 103–272
 Section 4(j)(7) amends 49:329 to omit references to overseas air transportation because there no longer is a distinction between interstate air transportation and overseas air transportation.
@@ -1158,10 +1429,10 @@ Pub. L. 98–443, § 5(b), Oct. 4, 1984, 98 Stat. 1705, provided that: “The am
 
 
 <a id="section-330"></a>
-## § 330. Research contracts
-**(a)** The Secretary of Transportation may make contracts with educational institutions, public and private agencies and organizations, and persons for scientific or technological research into a problem related to programs carried out by the Secretary. Before making a contract, the Secretary must require the institution, agency, organization, or person to show that it is able to carry out the contract.
+## § 330. Research activities
+**(a) In General.—** The Secretary of Transportation may make contracts with educational institutions, public and private agencies and organizations, and persons for scientific or technological research into a problem related to programs carried out by the Secretary. Before making a contract, the Secretary must require the institution, agency, organization, or person to show that it is able to carry out the contract.
 
-**(b)** In carrying out this section, the Secretary shall—
+**(b) Responsibilities.—** In carrying out this section, the Secretary shall—
 
 (1) give advice and assistance the Secretary believes will best carry out the duties and powers of the Secretary;
 
@@ -1171,7 +1442,49 @@ Pub. L. 98–443, § 5(b), Oct. 4, 1984, 98 Stat. 1705, provided that: “The am
 
 (4) encourage and assist in establishing and maintaining cooperation by and between contractors and between them and other research organizations, the Department of Transportation, and other departments, agencies, and instrumentalities of the United States Government.
 
-**(c)** The Secretary may distribute publications containing information the Secretary considers relevant to research carried out under this section.
+**(c) Publications.—** The Secretary may distribute publications containing information the Secretary considers relevant to research carried out under this section.
+
+**(d) Duties.—** The Secretary shall provide for the following:
+
+(1) Coordination, facilitation, and review of Department of Transportation research and development programs and activities.
+
+(2) Advancement, and research and development, of innovative technologies, including intelligent transportation systems.
+
+(3) Comprehensive transportation statistics research, analysis, and reporting.
+
+(4) Education and training in transportation and transportation-related fields.
+
+(5) Activities of the Volpe National Transportation Systems Center.
+
+(6) Coordination in support of multimodal and multidisciplinary research activities.
+
+**(e) Additional Authorities.—** The Secretary may—
+
+(1) enter into grants and cooperative agreements with Federal agencies, State and local government agencies, other public entities, private organizations, and other persons to conduct research into transportation service and infrastructure assurance and to carry out other research activities of the Department of Transportation;
+
+(2) carry out, on a cost-shared basis, collaborative research and development to encourage innovative solutions to multimodal transportation problems and stimulate the deployment of new technology with—
+
+  (A) non-Federal entities, including State and local governments, foreign governments, institutions of higher education, corporations, institutions, partnerships, sole proprietorships, and trade associations that are incorporated or established under the laws of any State;
+
+  (B) Federal laboratories; and
+
+  (C) other Federal agencies; and
+
+(3) directly initiate contracts, grants, cooperative research and development agreements (as defined in section 12(d) of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3710a/d&num=0&edition=prelim))), and other agreements to fund, and accept funds from, the Transportation Research Board of the National Academies, State departments of transportation, cities, counties, institutions of higher education, associations, and the agents of those entities to carry out joint transportation research and technology efforts.
+
+**(f) Federal Share.—**
+
+(1) **In general.—** — Subject to paragraph (2), the Federal share of the cost of an activity carried out under subsection (e)(3) shall not exceed 50 percent.
+
+(2) **Exception.—** — If the Secretary determines that the activity is of substantial public interest or benefit, the Secretary may approve a greater Federal share.
+
+(3) **Non-federal share.—** — All costs directly incurred by the non-Federal partners, including personnel, travel, facility, and hardware development costs, shall be credited toward the non-Federal share of the cost of an activity described in subsection (e)(3).
+
+**(g) Program Evaluation and Oversight.—** For each of fiscal years 2016 through 2020, the Secretary is authorized to expend not more than 1 ½ percent of the amounts authorized to be appropriated for the coordination, evaluation, and oversight of the programs administered by the Office of the Assistant Secretary for Research and Technology.
+
+**(h) Use of Technology.—** The research, development, or use of a technology under a contract, grant, cooperative research and development agreement, or other agreement entered into under this section, including the terms under which the technology may be licensed and the resulting royalties may be distributed, shall be subject to the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) et seq.).
+
+**(i) Waiver of Advertising Requirements.—** [Section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim) shall not apply to a contract, grant, or other agreement entered into under this section.
 
 ### Statutory Notes
 
@@ -1188,6 +1501,19 @@ In subsection (a), the words “may make contracts” are substituted for “is 
 In subsection (b), before clause (1), the words “In carrying out this section” are added for clarity. In clause (1), the word “give” is substituted for “furnish” before “such advice” for consistency. The words “duties and powers of the Secretary” are substituted for “mission of the Department” for clarity and consistency. In clause (4), the word “contractors” is substituted for “the institutions, agencies, organizations, or persons” to eliminate unnecessary words. The words “departments, agencies, and instrumentalities of the United States Government” are substituted for “Federal agencies” for clarity and consistency.
 
 In subsection (c), the words “considers relevant” are substituted for “as he deems pertinent” as more precise. The words “from time to time” before “disseminate” and “in the form of reports or . . . to public or private agencies or organizations, or individuals” before “such information” are omitted as unnecessary.
+
+#### References in Text
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (h), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2015—Pub. L. 114–94, § 6011(b)(1), substituted “activities” for “contracts” in section catchline.
+
+Subsecs. (a) to (c). Pub. L. 114–94, § 6011(b)(2)–(4), inserted headings.
+
+Subsecs. (d) to (i). Pub. L. 114–94, § 6011(b)(5), added subsecs. (d) to (i).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Conflicts of Interest
 Pub. L. 106–159, title I, § 101(g), Dec. 9, 1999, 113 Stat. 1752, provided that: “(1) Compliance with regulation.—In awarding any contract for research, the Secretary shall comply with section 1252.209–70 of title 48, Code of Federal Regulations, as in effect on the date of the enactment of this section [Dec. 9, 1999]. The Secretary shall require that the text of such section be included in any request for proposal and contract for research made by the Secretary. “(2) Study.—“(A) In general.—The Secretary shall conduct a study to determine whether or not compliance with the section referred to in paragraph (1) is sufficient to avoid conflicts of interest in contracts for research awarded by the Secretary and to evaluate whether or not compliance with such section unreasonably delays or burdens the awarding of such contracts. “(B) Consultation.—In conducting the study under this paragraph, the Secretary shall consult, as appropriate, with the Inspector General of the Department of Transportation, the Comptroller General, the heads of other Federal agencies, research organizations, industry representatives, employee organizations, safety organizations, and other entities. “(C) Report.—Not later than 18 months after the date of the enactment of this Act [Dec. 9, 1999], the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the results of the study conducted under this paragraph.”
@@ -1388,7 +1714,7 @@ Subsec. (e). Pub. L. 104–88, § 308(b)(2), substituted “11323(a)” for “1
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-334-335"></a>
@@ -1462,7 +1788,7 @@ The Department of Transportation Act, referred to in subsecs. (a) and (b), is Pu
 2005—Subsec. (a). Pub. L. 109–59 substituted “Federal Motor Carrier Safety Administration” for “Federal Highway Administration”.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 702 of this title](./chapter-007-surface-transportation-board.md#section-702), and section 101 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of this title](./chapter-013-surface-transportation-board.md#section-1302), and section 101 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-352"></a>
@@ -1525,8 +1851,8 @@ The text of section 228 of Pub. L. 106–159, formerly set out as a note under s
 2003—Pub. L. 108–168 renumbered section 228 of Pub. L. 106–159 as this section and substituted “Investigative authority of Inspector General” for “DOT Authority” in section catchline. See Codification note above.
 
 #### Deposit of Forfeited Funds
-Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2724, provided in part: “That hereafter funds transferred to the Office of the Inspector General through forfeiture proceedings or from the Department of Justice Assets Forfeiture Fund or the Department of the Treasury Forfeiture Fund, as a participating agency, as an equitable share from the forfeiture of property in investigations in which the Office of Inspector General participates, or through the granting of a Petition for Remission or Mitigation, shall be deposited to the credit of this account [Office of Inspector General, Salaries and Expenses] for law enforcement activities authorized under the Inspector General Act of 1978, as amended [5 U.S.C. App], to remain available until expended.”
+Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2724, provided in part: “That hereafter funds transferred to the Office of the Inspector General through forfeiture proceedings or from the Department of Justice Assets Forfeiture Fund or the Department of the Treasury Forfeiture Fund, as a participating agency, as an equitable share from the forfeiture of property in investigations in which the Office of Inspector General participates, or through the granting of a Petition for Remission or Mitigation, shall be deposited to the credit of this account [Office of Inspector General, Salaries and Expenses] for law enforcement activities authorized under the Inspector General Act of 1978, as amended [5 U.S.C. App.], to remain available until expended.”
 
-Similar provisions were contained in the following prior appropriation acts:
+Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 600.

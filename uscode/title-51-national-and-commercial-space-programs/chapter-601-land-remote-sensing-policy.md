@@ -2,7 +2,7 @@
 title: 51
 chapter: '601'
 heading: LAND REMOTE SENSING POLICY
-section_count: 23
+section_count: 24
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51&num=0&edition=prelim
 ---
@@ -356,6 +356,36 @@ The Secretary may issue regulations to carry out this subchapter. Such regulatio
 
 #### References in Text
 The Communications Act of 1934, referred to in subsec. (e), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see [section 609 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section609&num=0&edition=prelim) and Tables.
+
+
+<a id="section-60126"></a>
+## § 60126. Annual reports
+**(a) In General.—** The Secretary shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives not later than 180 days after the date of enactment of the U.S. Commercial Space Launch Competitiveness Act, and annually thereafter, on—
+
+(1) the Secretary’s implementation of section 60121, including—
+
+  (A) a list of all applications received in the previous calendar year;
+
+  (B) a list of all applications that resulted in a license under section 60121;
+
+  (C) a list of all applications denied and an explanation of why each application was denied, including any information relevant to the interagency adjudication process of a licensing request;
+
+  (D) a list of all applications that required additional information; and
+
+  (E) a list of all applications whose disposition exceeded the 120 day deadline established in section 60121(c), the total days overdue for each application that exceeded such deadline, and an explanation for the delay;
+
+(2) all notifications and information provided to the Secretary under section 60122; and
+
+(3) a description of all actions taken by the Secretary under the administrative authority granted by paragraphs (4), (5), and (6) of section 60123(a).
+
+**(b) Classified Annexes.—** Each report under subsection (a) may include classified annexes as necessary to protect the disclosure of sensitive or classified information.
+
+**(c) Sunset.—** The reporting requirement under this section terminates effective September 30, 2020.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of the U.S. Commercial Space Launch Competitiveness Act, referred to in subsec. (a), is the date of enactment of Pub. L. 114–90, which was approved Nov. 25, 2015.
 
 
 <a id="section-60131"></a>

@@ -16,7 +16,7 @@ In this chapter, the term “State” includes a State, the District of Columbia
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 312501 | [16 U.S.C. 469c–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469c–1&num=0&edition=prelim) | Pub. L. 86–523, § 8, as added Pub. L. 96–205, title VI, § 608(b)(2), Mar. 12, 1980, 94 Stat. 92. |
+| 312501 | [16 U.S.C. 469c–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469c–1&num=0&edition=prelim). | Pub. L. 86–523, § 8, as added Pub. L. 96–205, title VI, § 608(b)(2), Mar. 12, 1980, 94 Stat. 92. |
 
 The words “the Trust Territory of the Pacific Islands” are omitted as obsolete. See note at 48 U.S.C. prec. 1681. For continued application of certain laws of the United States in certain cases, see the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America ([48 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1801&num=0&edition=prelim) note), the Compact of Free Association between the Government of the United States of America and the Governments of the Marshall Islands and the Federated States of Micronesia ([48 U.S.C. 1901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1901&num=0&edition=prelim) note), and the Compact of Free Association between the Government of the United States of America and the Government of Palau ([48 U.S.C. 1931](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1931&num=0&edition=prelim) note).
 
@@ -50,7 +50,7 @@ The words “the Trust Territory of the Pacific Islands” are omitted as obsole
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 312502 | [16 U.S.C. 469a–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469a–1&num=0&edition=prelim) | Pub. L. 86–523, § 3, as added Pub. L. 93–291, § 1(3), May 24, 1974, 88 Stat. 174. |
+| 312502 | [16 U.S.C. 469a–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469a–1&num=0&edition=prelim). | Pub. L. 86–523, § 3, as added Pub. L. 93–291, § 1(3), May 24, 1974, 88 Stat. 174. |
 
 
 <a id="section-312503"></a>
@@ -76,7 +76,7 @@ The words “the Trust Territory of the Pacific Islands” are omitted as obsole
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 312503 | [16 U.S.C. 469a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469a–2&num=0&edition=prelim) | Pub. L. 86–523, § 4, as added Pub. L. 93–291, § 1(3), May 24, 1974, 88 Stat. 174. |
+| 312503 | [16 U.S.C. 469a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469a–2&num=0&edition=prelim). | Pub. L. 86–523, § 4, as added Pub. L. 93–291, § 1(3), May 24, 1974, 88 Stat. 174. |
 
 
 <a id="section-312504"></a>
@@ -92,7 +92,7 @@ The words “the Trust Territory of the Pacific Islands” are omitted as obsole
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 312504 | [16 U.S.C. 469a–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469a–3&num=0&edition=prelim) | Pub. L. 86–523, § 5, formerly § 2(c), (e), June 27, 1960, 74 Stat. 220, renumbered as § 5 and amended Pub. L. 93–291, § 1(4), (6), (7), May 24, 1974, 88 Stat. 175; Pub. L. 96–205, title VI, § 608(b)(1), Mar. 12, 1980, 94 Stat. 92; Pub. L. 103–437, § 6(d)(27), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, § 814(d)(2)(B), Nov. 12, 1996, 110 Stat. 4196. |
+| 312504 | [16 U.S.C. 469a–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469a–3&num=0&edition=prelim). | Pub. L. 86–523, § 5, formerly § 2(c), (e), June 27, 1960, 74 Stat. 220, renumbered as § 5 and amended Pub. L. 93–291, § 1(4), (6), (7), May 24, 1974, 88 Stat. 175; Pub. L. 96–205, title VI, § 608(b)(1), Mar. 12, 1980, 94 Stat. 92; Pub. L. 103–437, § 6(d)(27), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, § 814(d)(2)(B), Nov. 12, 1996, 110 Stat. 4196. |
 
 
 <a id="section-312505"></a>
@@ -106,7 +106,7 @@ The words “the Trust Territory of the Pacific Islands” are omitted as obsole
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 312505 | [16 U.S.C. 469a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469a&num=0&edition=prelim) | Pub. L. 86–523, § 2, formerly § 2(a), June 27, 1960, 74 Stat. 220, renumbered as § 2 and amended Pub. L. 93–291, § 1(2), (5), May 24, 1974, 88 Stat. 174, 175. |
+| 312505 | [16 U.S.C. 469a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469a&num=0&edition=prelim). | Pub. L. 86–523, § 2, formerly § 2(a), June 27, 1960, 74 Stat. 220, renumbered as § 2 and amended Pub. L. 93–291, § 1(2), (5), May 24, 1974, 88 Stat. 174, 175. |
 
 In subsection (a), the words “Federal agency” are substituted for “agency of the United States” for consistency in the revised title and with other titles of the United States Code.
 
@@ -127,7 +127,7 @@ In the administration of this chapter, the Secretary may—
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 312506 | [16 U.S.C. 469b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469b&num=0&edition=prelim) | Pub. L. 86–523, § 6, formerly § 3, June 27, 1960, 74 Stat. 221, renumbered as § 6 and amended Pub. L. 93–291, § 1(8), May 24, 1974, 88 Stat. 175. |
+| 312506 | [16 U.S.C. 469b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469b&num=0&edition=prelim). | Pub. L. 86–523, § 6, formerly § 3, June 27, 1960, 74 Stat. 221, renumbered as § 6 and amended Pub. L. 93–291, § 1(8), May 24, 1974, 88 Stat. 175. |
 
 
 <a id="section-312507"></a>
@@ -141,8 +141,8 @@ In the administration of this chapter, the Secretary may—
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 312507(a) | [16 U.S.C. 469c(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469c/a&num=0&edition=prelim) through (c) | Pub. L. 86–523, § 7, formerly § 4, June 27, 1960, 74 Stat. 221, renumbered as § 7 and amended Pub. L. 93–291, § 1(9), May 24, 1974, 88 Stat. 175; Pub. L. 95–625, title VI, § 603, Nov. 10, 1978, 92 Stat. 3518. |
-| 312507(b) | [16 U.S.C. 469c(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469c/d&num=0&edition=prelim) |  |
+| 312507(a) | [16 U.S.C. 469c(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469c/a&num=0&edition=prelim) through (c). | Pub. L. 86–523, § 7, formerly § 4, June 27, 1960, 74 Stat. 221, renumbered as § 7 and amended Pub. L. 93–291, § 1(9), May 24, 1974, 88 Stat. 175; Pub. L. 95–625, title VI, § 603, Nov. 10, 1978, 92 Stat. 3518. |
+| 312507(b) | [16 U.S.C. 469c(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469c/d&num=0&edition=prelim). |  |
 
 In subsection (a), the text of [16 U.S.C. 469c(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469c/b&num=0&edition=prelim) and (c) is omitted as obsolete. The words “cost of the” are added for clarity.
 
@@ -165,4 +165,4 @@ Notwithstanding [section 312507(a) of this title](https://uscode.house.gov/view.
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 312508 | [16 U.S.C. 469c–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469c–2&num=0&edition=prelim) | Pub. L. 96–515, title II, § 208, Dec. 12, 1980, 94 Stat. 2997; Pub. L. 103–437, § 6(d)(28), Nov. 2, 1994, 108 Stat. 4584. |
+| 312508 | [16 U.S.C. 469c–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469c–2&num=0&edition=prelim). | Pub. L. 96–515, title II, § 208, Dec. 12, 1980, 94 Stat. 2997; Pub. L. 103–437, § 6(d)(28), Nov. 2, 1994, 108 Stat. 4584. |

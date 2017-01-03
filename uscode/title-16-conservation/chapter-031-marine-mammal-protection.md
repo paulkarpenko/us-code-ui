@@ -128,7 +128,7 @@ For the purposes of this chapter—
 
     (ii) the Secretary of the Interior as to all responsibility, authority, funding, and duties under this chapter with respect to all other marine mammals covered by this chapter.
 
-  (B) in 11 So in original. Probably should be capitalized. [section 1387 of this title](./chapter-031-marine-mammal-protection.md#section-1387) and subchapter V of this chapter (other than [section 1421f–1 of this title](./chapter-031-marine-mammal-protection.md#section-1421f-1)) the term “Secretary” means the Secretary of Commerce.
+  (B) in 11 So in original. Probably should be capitalized. [section 1387 of this title](./chapter-031-marine-mammal-protection.md#section-1387) and subchapter V (other than [section 1421f–1 of this title](./chapter-031-marine-mammal-protection.md#section-1421f-1)) the term “Secretary” means the Secretary of Commerce.
 
 (13) The term “take” means to harass, hunt, capture, or kill, or attempt to harass, hunt, capture, or kill any marine mammal.
 
@@ -228,7 +228,7 @@ The Endangered Species Act of 1973, referred to in pars. (1)(C) and (19)(B), (C)
 
 “(C) The term ‘Level B harassment’ means harassment described in subparagraph (A)(ii).”
 
-2000—Par. (12)(B). Pub. L. 106–555 inserted “(other than [section 1421f–1 of this title](./chapter-031-marine-mammal-protection.md#section-1421f-1))” after “subchapter V of this chapter”.
+2000—Par. (12)(B). Pub. L. 106–555 inserted “(other than [section 1421f–1 of this title](./chapter-031-marine-mammal-protection.md#section-1421f-1))” after “subchapter V”.
 
 1997—Pars. (28), (29). Pub. L. 105–42 added pars. (28) and (29).
 
@@ -242,7 +242,7 @@ Pub. L. 104–297, § 404(b)(3), amended par. (15) generally. Prior to amendment
 
 Par. (21). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to [section 1852 of this title](./chapter-038-fishery-conservation-and-management.md#section-1852).
 
-1994—Par. (12)(B). Pub. L. 103–238, § 24(a)(2), substituted “in [section 1387 of this title](./chapter-031-marine-mammal-protection.md#section-1387) and subchapter V of this chapter” for “in subchapter V of this chapter”.
+1994—Par. (12)(B). Pub. L. 103–238, § 24(a)(2), substituted “in [section 1387 of this title](./chapter-031-marine-mammal-protection.md#section-1387) and subchapter V” for “in subchapter V”.
 
 Pars. (15) to (17). Pub. L. 103–238, § 16(a), redesignated par. (15) defining “fishery”, and par. (16), as pars. (16) and (17), respectively, and struck out former par. (17) which defined “intermediary nation”.
 
@@ -320,9 +320,9 @@ For extension of territorial sea and contiguous zone of United States, see Proc.
 ## § 1371. Moratorium on taking and importing marine mammals and marine mammal products
 **(a) Imposition; exceptions** There shall be a moratorium on the taking and importation of marine mammals and marine mammal products, commencing on the effective date of this chapter, during which time no permit may be issued for the taking of any marine mammal and no marine mammal or marine mammal product may be imported into the United States except in the following cases:
 
-(1) Consistent with the provisions of [section 1374 of this title](./chapter-031-marine-mammal-protection.md#section-1374), permits may be issued by the Secretary for taking, and importation for purposes of scientific research, public display, photography for educational or commercial purposes, or enhancing the survival or recovery of a species or stock, or for importation of polar bear parts (other than internal organs) taken in sport hunts in Canada. Such permits, except permits issued under [section 1374(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1374/c/5&num=0&edition=prelim), may be issued if the taking or importation proposed to be made is first reviewed by the Marine Mammal Commission and the Committee of Scientific Advisors on Marine Mammals established under subchapter III of this chapter. The Commission and Committee shall recommend any proposed taking or importation, other than importation under [section 1374(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1374/c/5&num=0&edition=prelim), which is consistent with the purposes and policies of [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361). If the Secretary issues such a permit for importation, the Secretary shall issue to the importer concerned a certificate to that effect in such form as the Secretary of the Treasury prescribes, and such importation may be made upon presentation of the certificate to the customs officer concerned.
+(1) Consistent with the provisions of [section 1374 of this title](./chapter-031-marine-mammal-protection.md#section-1374), permits may be issued by the Secretary for taking, and importation for purposes of scientific research, public display, photography for educational or commercial purposes, or enhancing the survival or recovery of a species or stock, or for importation of polar bear parts (other than internal organs) taken in sport hunts in Canada. Such permits, except permits issued under [section 1374(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1374/c/5&num=0&edition=prelim), may be issued if the taking or importation proposed to be made is first reviewed by the Marine Mammal Commission and the Committee of Scientific Advisors on Marine Mammals established under subchapter III. The Commission and Committee shall recommend any proposed taking or importation, other than importation under [section 1374(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1374/c/5&num=0&edition=prelim), which is consistent with the purposes and policies of [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361). If the Secretary issues such a permit for importation, the Secretary shall issue to the importer concerned a certificate to that effect in such form as the Secretary of the Treasury prescribes, and such importation may be made upon presentation of the certificate to the customs officer concerned.
 
-(2) Marine mammals may be taken incidentally in the course of commercial fishing operations and permits may be issued therefor under [section 1374 of this title](./chapter-031-marine-mammal-protection.md#section-1374) subject to regulations prescribed by the Secretary in accordance with [section 1373 of this title](./chapter-031-marine-mammal-protection.md#section-1373), or in lieu of such permits, authorizations may be granted therefor under [section 1387 of this title](./chapter-031-marine-mammal-protection.md#section-1387), subject to regulations prescribed under that section by the Secretary without regard to [section 1373 of this title](./chapter-031-marine-mammal-protection.md#section-1373). Such authorizations may be granted under subchapter IV of this chapter with respect to purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean, subject to regulations prescribed under that subchapter by the Secretary without regard to [section 1373 of this title](./chapter-031-marine-mammal-protection.md#section-1373). In any event it shall be the immediate goal that the incidental kill or incidental serious injury of marine mammals permitted in the course of commercial fishing operations be reduced to insignificant levels approaching a zero mortality and serious injury rate. The Secretary of the Treasury shall ban the importation of commercial fish or products from fish which have been caught with commercial fishing technology which results in the incidental kill or incidental serious injury of ocean mammals in excess of United States standards. For purposes of applying the preceding sentence, the Secretary—
+(2) Marine mammals may be taken incidentally in the course of commercial fishing operations and permits may be issued therefor under [section 1374 of this title](./chapter-031-marine-mammal-protection.md#section-1374) subject to regulations prescribed by the Secretary in accordance with [section 1373 of this title](./chapter-031-marine-mammal-protection.md#section-1373), or in lieu of such permits, authorizations may be granted therefor under [section 1387 of this title](./chapter-031-marine-mammal-protection.md#section-1387), subject to regulations prescribed under that section by the Secretary without regard to [section 1373 of this title](./chapter-031-marine-mammal-protection.md#section-1373). Such authorizations may be granted under subchapter IV with respect to purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean, subject to regulations prescribed under that subchapter by the Secretary without regard to [section 1373 of this title](./chapter-031-marine-mammal-protection.md#section-1373). In any event it shall be the immediate goal that the incidental kill or incidental serious injury of marine mammals permitted in the course of commercial fishing operations be reduced to insignificant levels approaching a zero mortality and serious injury rate. The Secretary of the Treasury shall ban the importation of commercial fish or products from fish which have been caught with commercial fishing technology which results in the incidental kill or incidental serious injury of ocean mammals in excess of United States standards. For purposes of applying the preceding sentence, the Secretary—
 
   (A) shall insist on reasonable proof from the government of any nation from which fish or fish products will be exported to the United States of the effects on ocean mammals of the commercial fishing technology in use for such fish or fish products exported from such nation to the United States;
 
@@ -390,7 +390,7 @@ For extension of territorial sea and contiguous zone of United States, see Proc.
 
     (i) Upon request therefor by citizens of the United States who engage in a specified activity (other than commercial fishing) within a specified geographical region, the Secretary shall allow, during periods of not more than five consecutive years each, the incidental, but not intentional, taking by citizens while engaging in that activity within that region of small numbers of marine mammals of a species or population stock if the Secretary, after notice (in the Federal Register and in newspapers of general circulation, and through appropriate electronic media, in the coastal areas that may be affected by such activity) and opportunity for public comment—
 
-      (I) finds that the total of such taking during each five-year (or less) period concerned will have a negligible impact on such species or stock and will not have an unmitigable adverse impact on the availability of such species or stock for taking for subsistence uses pursuant to subsection (b) of this section or [section 1379(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1379/f&num=0&edition=prelim) or, in the case of a cooperative agreement under both this chapter and the Whaling Convention Act of 1949 ([16 U.S.C. 916](./chapter-014-regulation-of-whaling.md#section-916) et seq.), pursuant to [section 1382(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1382/c&num=0&edition=prelim); and
+      (I) finds that the total of such taking during each five-year (or less) period concerned will have a negligible impact on such species or stock and will not have an unmitigable adverse impact on the availability of such species or stock for taking for subsistence uses pursuant to subsection (b) or [section 1379(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1379/f&num=0&edition=prelim) or, in the case of a cooperative agreement under both this chapter and the Whaling Convention Act of 1949 ([16 U.S.C. 916](./chapter-014-regulation-of-whaling.md#section-916) et seq.), pursuant to [section 1382(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1382/c&num=0&edition=prelim); and
 
       (II) prescribes regulations setting forth—
 
@@ -420,15 +420,15 @@ For extension of territorial sea and contiguous zone of United States, see Proc.
 
       (I) will have a negligible impact on such species or stock, and
 
-      (II) will not have an unmitigable adverse impact on the availability of such species or stock for taking for subsistence uses pursuant to subsection (b) of this section, or [section 1379(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1379/f&num=0&edition=prelim) or pursuant to a cooperative agreement under [section 1388 of this title](./chapter-031-marine-mammal-protection.md#section-1388).
+      (II) will not have an unmitigable adverse impact on the availability of such species or stock for taking for subsistence uses pursuant to subsection (b), or [section 1379(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1379/f&num=0&edition=prelim) or pursuant to a cooperative agreement under [section 1388 of this title](./chapter-031-marine-mammal-protection.md#section-1388).
 
     (ii) The authorization for such activity shall prescribe, where applicable—
 
-      (I) permissible methods of taking by harassment pursuant to such activity, and other means of effecting the least practicable impact on such species or stock and its habitat, paying particular attention to rookeries, mating grounds, and areas of similar significance, and on the availability of such species or stock for taking for subsistence uses pursuant to subsection (b) of this section or [section 1379(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1379/f&num=0&edition=prelim) or pursuant to a cooperative agreement under [section 1388 of this title](./chapter-031-marine-mammal-protection.md#section-1388),
+      (I) permissible methods of taking by harassment pursuant to such activity, and other means of effecting the least practicable impact on such species or stock and its habitat, paying particular attention to rookeries, mating grounds, and areas of similar significance, and on the availability of such species or stock for taking for subsistence uses pursuant to subsection (b) or [section 1379(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1379/f&num=0&edition=prelim) or pursuant to a cooperative agreement under [section 1388 of this title](./chapter-031-marine-mammal-protection.md#section-1388),
 
-      (II) the measures that the Secretary determines are necessary to ensure no unmitigable adverse impact on the availability of the species or stock for taking for subsistence uses pursuant to subsection (b) of this section or [section 1379(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1379/f&num=0&edition=prelim) or pursuant to a cooperative agreement under [section 1388 of this title](./chapter-031-marine-mammal-protection.md#section-1388), and
+      (II) the measures that the Secretary determines are necessary to ensure no unmitigable adverse impact on the availability of the species or stock for taking for subsistence uses pursuant to subsection (b) or [section 1379(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1379/f&num=0&edition=prelim) or pursuant to a cooperative agreement under [section 1388 of this title](./chapter-031-marine-mammal-protection.md#section-1388), and
 
-      (III) requirements pertaining to the monitoring and reporting of such taking by harassment, including requirements for the independent peer review of proposed monitoring plans or other research proposals where the proposed activity may affect the availability of a species or stock for taking for subsistence uses pursuant to subsection (b) of this section or [section 1379(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1379/f&num=0&edition=prelim) or pursuant to a cooperative agreement under [section 1388 of this title](./chapter-031-marine-mammal-protection.md#section-1388).
+      (III) requirements pertaining to the monitoring and reporting of such taking by harassment, including requirements for the independent peer review of proposed monitoring plans or other research proposals where the proposed activity may affect the availability of a species or stock for taking for subsistence uses pursuant to subsection (b) or [section 1379(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1379/f&num=0&edition=prelim) or pursuant to a cooperative agreement under [section 1388 of this title](./chapter-031-marine-mammal-protection.md#section-1388).
 
     (iii) The Secretary shall publish a proposed authorization not later than 45 days after receiving an application under this subparagraph and request public comment through notice in the Federal Register, newspapers of general circulation, and appropriate electronic media and to all locally affected communities for a period of 30 days after publication. Not later than 45 days after the close of the public comment period, if the Secretary makes the findings set forth in clause (i), the Secretary shall issue an authorization with appropriate conditions to meet the requirements of clause (ii).
 
@@ -491,7 +491,7 @@ For extension of territorial sea and contiguous zone of United States, see Proc.
 (2) is done for purposes of creating and selling authentic native articles of handicrafts and clothing: Provided, That only authentic native articles of handicrafts and clothing may be sold in interstate commerce: And provided further, That any edible portion of marine mammals may be sold in native villages and towns in Alaska or for native consumption. For the purposes of this subsection, the term “authentic native articles of handicrafts and clothing” means items composed wholly or in some significant respect of natural materials, and which are produced, decorated, or fashioned in the exercise of traditional native handicrafts without the use of pantographs, multiple carvers, or other mass copying devices. Traditional native handicrafts include, but are not limited to weaving, carving, stitching, sewing, lacing, beading, drawing and painting; and
 
 (3) in each case, is not accomplished in a wasteful manner.
-Notwithstanding the preceding provisions of this subsection, when, under this chapter, the Secretary determines any species or stock of marine mammal subject to taking by Indians, Aleuts, or Eskimos to be depleted, he may prescribe regulations upon the taking of such marine mammals by any Indian, Aleut, or Eskimo described in this subsection. Such regulations may be established with reference to species or stocks, geographical description of the area included, the season for taking, or any other factors related to the reason for establishing such regulations and consistent with the purposes of this chapter. Such regulations shall be prescribed after notice and hearing required by [section 1373 of this title](./chapter-031-marine-mammal-protection.md#section-1373) and shall be removed as soon as the Secretary determines that the need for their imposition has disappeared. In promulgating any regulation or making any assessment pursuant to a hearing or proceeding under this subsection or [section 1386(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1386/b/2&num=0&edition=prelim), or in making any determination of depletion under this subsection or finding regarding unmitigable adverse impacts under subsection (a)(5) of this section that affects stocks or persons to which this subsection applies, the Secretary shall be responsible for demonstrating that such regulation, assessment, determination, or finding is supported by substantial evidence on the basis of the record as a whole. The preceding sentence shall only be applicable in an action brought by one or more Alaska Native organizations representing persons to which this subsection applies.
+Notwithstanding the preceding provisions of this subsection, when, under this chapter, the Secretary determines any species or stock of marine mammal subject to taking by Indians, Aleuts, or Eskimos to be depleted, he may prescribe regulations upon the taking of such marine mammals by any Indian, Aleut, or Eskimo described in this subsection. Such regulations may be established with reference to species or stocks, geographical description of the area included, the season for taking, or any other factors related to the reason for establishing such regulations and consistent with the purposes of this chapter. Such regulations shall be prescribed after notice and hearing required by [section 1373 of this title](./chapter-031-marine-mammal-protection.md#section-1373) and shall be removed as soon as the Secretary determines that the need for their imposition has disappeared. In promulgating any regulation or making any assessment pursuant to a hearing or proceeding under this subsection or [section 1386(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1386/b/2&num=0&edition=prelim), or in making any determination of depletion under this subsection or finding regarding unmitigable adverse impacts under subsection (a)(5) that affects stocks or persons to which this subsection applies, the Secretary shall be responsible for demonstrating that such regulation, assessment, determination, or finding is supported by substantial evidence on the basis of the record as a whole. The preceding sentence shall only be applicable in an action brought by one or more Alaska Native organizations representing persons to which this subsection applies.
 
 **(c) Taking in defense of self or others** It shall not be a violation of this chapter to take a marine mammal if such taking is imminently necessary in self-defense or to save the life of a person in immediate danger, and such taking is reported to the Secretary within 48 hours. The Secretary may seize and dispose of any carcass.
 
@@ -551,7 +551,7 @@ Subsec. (a)(5)(F). Pub. L. 108–136, § 319(c)(3), added subpar. (F).
 
 Subsec. (f). Pub. L. 108–136, § 319(b), added subsec. (f).
 
-1997—Subsec. (a)(2). Pub. L. 105–42, § 4(a), (b)(4), in introductory provisions, inserted after first sentence “Such authorizations may be granted under subchapter IV of this chapter with respect to purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean, subject to regulations prescribed under that subchapter by the Secretary without regard to [section 1373 of this title](./chapter-031-marine-mammal-protection.md#section-1373).” and struck out “; provided that this goal shall be satisfied in the case of the incidental taking of marine mammals in the course of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable” after “serious injury rate” and, in closing provisions, substituted “For purposes of subparagraph (F)” for “For purposes of subparagraph (E)”.
+1997—Subsec. (a)(2). Pub. L. 105–42, § 4(a), (b)(4), in introductory provisions, inserted after first sentence “Such authorizations may be granted under subchapter IV with respect to purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean, subject to regulations prescribed under that subchapter by the Secretary without regard to [section 1373 of this title](./chapter-031-marine-mammal-protection.md#section-1373).” and struck out “; provided that this goal shall be satisfied in the case of the incidental taking of marine mammals in the course of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable” after “serious injury rate” and, in closing provisions, substituted “For purposes of subparagraph (F)” for “For purposes of subparagraph (E)”.
 
 Subsec. (a)(2)(B). Pub. L. 105–42, § 4(b)(1), added subpar. (B) and struck out former subpar. (B) which contained requirement that nations exporting yellowfin tuna harvested with purse seines in eastern tropical Pacific Ocean provide documentary evidence of adoption of regulatory program governing incidental taking of other mammals and comparison of the average rates of incidental taking between harvesting nation and United States.
 
@@ -595,7 +595,7 @@ Subsec. (a)(5)(D), (E). Pub. L. 103–238, § 4(a)(5), added subpars. (D) and (E
 
 Subsec. (a)(6). Pub. L. 103–238, § 4(a)(6), added par. (6).
 
-Subsec. (b). Pub. L. 103–238, § 4(b), inserted at end “In promulgating any regulation or making any assessment pursuant to a hearing or proceeding under this subsection or [section 1386(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1386/b/2&num=0&edition=prelim), or in making any determination of depletion under this subsection or finding regarding unmitigable adverse impacts under subsection (a)(5) of this section that affects stocks or persons to which this subsection applies, the Secretary shall be responsible for demonstrating that such regulation, assessment, determination, or finding is supported by substantial evidence on the basis of the record as a whole. The preceding sentence shall only be applicable in an action brought by one or more Alaska Native organizations representing persons to which this subsection applies.”
+Subsec. (b). Pub. L. 103–238, § 4(b), inserted at end “In promulgating any regulation or making any assessment pursuant to a hearing or proceeding under this subsection or [section 1386(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1386/b/2&num=0&edition=prelim), or in making any determination of depletion under this subsection or finding regarding unmitigable adverse impacts under subsection (a)(5) that affects stocks or persons to which this subsection applies, the Secretary shall be responsible for demonstrating that such regulation, assessment, determination, or finding is supported by substantial evidence on the basis of the record as a whole. The preceding sentence shall only be applicable in an action brought by one or more Alaska Native organizations representing persons to which this subsection applies.”
 
 Subsec. (c). Pub. L. 103–238, § 4(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In order to minimize undue economic hardship to persons subject to this chapter, other than those engaged in commercial fishing operations referred to in subsection (a)(2) of this section, the Secretary, upon any such person filing an application with him and upon filing such information as the Secretary may require showing, to his satisfaction, such hardship, may exempt such person or class of persons from provisions of this chapter for no more than one year from October 21, 1972, as he determines to be appropriate.”
 
@@ -646,7 +646,7 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 <a id="section-1372"></a>
 ## § 1372. Prohibitions
-**(a) Taking** Except as provided in sections 1371, 1373, 1374, 1379, 1381, 1383, 1383a, and 1387 of this title and subchapter V of this chapter, it is unlawful—
+**(a) Taking** Except as provided in sections 1371, 1373, 1374, 1379, 1381, 1383, 1383a, and 1387 of this title and subchapter V, it is unlawful—
 
 (1) for any person subject to the jurisdiction of the United States or any vessel or other conveyance subject to the jurisdiction of the United States to take any marine mammal on the high seas;
 
@@ -719,7 +719,7 @@ Subsec. (a)(2)(B). Pub. L. 103–238, § 5(a)(1), substituted “to take or impo
 
 Subsec. (a)(4). Pub. L. 103–238, § 5(a)(2), substituted “export, or offer to purchase, sell, or export” for “or offer to purchase or sell” and “product—” for “product; and” and added subpars. (A) and (B).
 
-1992—Subsec. (a). Pub. L. 102–587 inserted “or subchapter V of this chapter” in introductory provisions.
+1992—Subsec. (a). Pub. L. 102–587 inserted “or subchapter V” in introductory provisions.
 
 1988—Subsec. (a). Pub. L. 100–711, § 2(b), substituted “1383, and 1383a” for “and 1383”.
 
@@ -853,13 +853,13 @@ In any case in which an application for a permit cites as a reason for the propo
     (i) finds in concurrence with the Secretary of Agriculture, that a person that holds a permit under this paragraph for a marine mammal, or a person exercising rights under subparagraph (C), no longer meets the requirements of subparagraph (A)(ii) and is not reasonably likely to meet those requirements in the near future, or
 
     (ii) finds that a person that holds a permit under this paragraph for a marine mammal, or a person exercising rights under subparagraph (C), no longer meets the requirements of subparagraph (A)(i) or (iii) and is not reasonably likely to meet those requirements in the near future,
-    the Secretary may revoke the permit in accordance with subsection (e) of this section, seize the marine mammal, or cooperate with other persons authorized to hold marine mammals under this chapter for disposition of the marine mammal. The Secretary may recover from the person expenses incurred by the Secretary for that seizure.
+    the Secretary may revoke the permit in accordance with subsection (e), seize the marine mammal, or cooperate with other persons authorized to hold marine mammals under this chapter for disposition of the marine mammal. The Secretary may recover from the person expenses incurred by the Secretary for that seizure.
 
   (E) No marine mammal held pursuant to a permit issued under subparagraph (A), or by a person exercising rights under subparagraph (C), may be sold, purchased, exported, or transported unless the Secretary is notified of such action no later than 15 days before such action, and such action is for purposes of public display, scientific research, or enhancing the survival or recovery of a species or stock. The Secretary may only require the notification to include the information required for the inventory established under paragraph (10).
 
 (3)
 
-  (A) The Secretary may issue a permit under this paragraph for scientific research purposes to an applicant which submits with its permit application information indicating that the taking is required to further a bona fide scientific purpose. The Secretary may issue a permit under this paragraph before the end of the public review and comment period required under subsection (d)(2) of this section if delaying issuance of the permit could result in injury to a species, stock, or individual, or in loss of unique research opportunities.
+  (A) The Secretary may issue a permit under this paragraph for scientific research purposes to an applicant which submits with its permit application information indicating that the taking is required to further a bona fide scientific purpose. The Secretary may issue a permit under this paragraph before the end of the public review and comment period required under subsection (d)(2) if delaying issuance of the permit could result in injury to a species, stock, or individual, or in loss of unique research opportunities.
 
   (B) No permit issued for purposes of scientific research shall authorize the lethal taking of a marine mammal unless the applicant demonstrates that a nonlethal method of conducting the research is not feasible. The Secretary shall not issue a permit for research which involves the lethal taking of a marine mammal from a species or stock that is depleted, unless the Secretary determines that the results of such research will directly benefit that species or stock, or that such research fulfills a critically important research need.
 
@@ -913,7 +913,7 @@ In any case in which an application for a permit cites as a reason for the propo
 
     (ii) The Secretary shall not issue permits under this paragraph after September 30, 1996, if the Secretary determines, based on the scientific review, that the issuance of permits under this paragraph is having a significant adverse impact on the polar bear population stocks in Canada. The Secretary may review such determination annually thereafter, in light of the best scientific information available, and shall complete the review not later than January 31 in any year a review is undertaken. The Secretary may issue permits under this paragraph whenever the Secretary determines, on the basis of such annual review, that the issuance of permits under this paragraph is not having a significant adverse impact on the polar bear population stocks in Canada.
 
-  (D) The Secretary of the Interior shall, expeditiously after the expiration of the applicable 30 day period under subsection (d)(2) of this section, issue a permit for the importation of polar bear parts (other than internal organs) from polar bears taken in sport hunts in Canada before February 18, 1997, to each applicant who submits, with the permit application, proof that the polar bear was legally harvested in Canada by the applicant. The Secretary shall issue such permits without regard to the provisions of subparagraphs (A) and (C)(ii) of this paragraph, subsection (d)(3) of this section, and sections 1371 and 1372 of this title. This subparagraph shall not apply to polar bear parts that were imported before June 12, 1997.
+  (D) The Secretary of the Interior shall, expeditiously after the expiration of the applicable 30 day period under subsection (d)(2), issue a permit for the importation of polar bear parts (other than internal organs) from polar bears taken in sport hunts in Canada before February 18, 1997, to each applicant who submits, with the permit application, proof that the polar bear was legally harvested in Canada by the applicant. The Secretary shall issue such permits without regard to the provisions of subparagraphs (A) and (C)(ii) of this paragraph, subsection (d)(3) of this section, and sections 1371 and 1372 of this title. This subparagraph shall not apply to polar bear parts that were imported before June 12, 1997.
 
 (6) A permit may be issued for photography for educational or commercial purposes involving marine mammals in the wild only to an applicant which submits with its permit application information indicating that the taking will be limited to Level B harassment, and the manner in which the products of such activities will be made available to the public.
 
@@ -989,7 +989,7 @@ In any case in which an application for a permit cites as a reason for the propo
 
   (B) in any case in which a violation of the terms and conditions of the permit is found, or
 
-  (C) if, in the case of a permit under subsection (c)(5) of this section authorizing importation of polar bear parts, the Secretary, in consultation with the appropriate authority in Canada, determines that the sustainability of Canada’s polar bear population stocks are being adversely affected or that sport hunting may be having a detrimental effect on maintaining polar bear population stocks throughout their range.
+  (C) if, in the case of a permit under subsection (c)(5) authorizing importation of polar bear parts, the Secretary, in consultation with the appropriate authority in Canada, determines that the sustainability of Canada’s polar bear population stocks are being adversely affected or that sport hunting may be having a detrimental effect on maintaining polar bear population stocks throughout their range.
 
 (2) Whenever the Secretary shall propose any modification, suspension, or revocation of a permit under this subsection, the permittee shall be afforded opportunity, after due notice, for a hearing by the Secretary with respect to such proposed modification, suspension, or revocation. Such proposed action by the Secretary shall not take effect until a decision is issued by him after such hearing. Any action taken by the Secretary after such a hearing is subject to judicial review on the same basis as is any action taken by him with respect to a permit application under paragraph (5) of subsection (d) of this section.
 
@@ -1190,7 +1190,7 @@ Section was enacted as part of the Department of the Interior and Related Agenci
   (B) as a result of the study required under paragraph (1)(B) of this subsection, that modifications of the Convention are desirable to make it and this chapter consistent;
   he shall, through the Secretary of State, immediately initiate negotiations to modify the Convention so as to (i) reduce or halt the taking of seals to the extent required to assure that such herds attain and remain at their optimum sustainable population, or (ii) make the Convention and this chapter consistent; or both, as the case may be. If negotiations to so modify the Convention are unsuccessful, the Secretary shall, through the Secretary of State, take such steps as may be necessary to continue the existing Convention beyond its present termination date so as to continue to protect and conserve the North Pacific fur seals and to prevent a return to pelagic sealing.
 
-**(c) Description of annual results of discussions; proposals for further action** The Secretary shall include a description of the annual results of discussions initiated and conducted pursuant to subsection (a)(2)(B) of this section, as well as any proposals for further action to achieve the purposes of that subsection, in the report required under [section 1373(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1373/f&num=0&edition=prelim).
+**(c) Description of annual results of discussions; proposals for further action** The Secretary shall include a description of the annual results of discussions initiated and conducted pursuant to subsection (a)(2)(B), as well as any proposals for further action to achieve the purposes of that subsection, in the report required under [section 1373(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1373/f&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -1207,7 +1207,7 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
 <a id="section-1379"></a>
 ## § 1379. Transfer of management authority
-**(a) State enforcement of State laws or regulations prohibited without transfer to State of management authority by Secretary** No State may enforce, or attempt to enforce, any State law or regulation relating to the taking of any species (which term for purposes of this section includes any population stock) of marine mammal within the State unless the Secretary has transferred authority for the conservation and management of that species (hereinafter referred to in this section as “management authority”) to the State under subsection (b)(1) of this section.
+**(a) State enforcement of State laws or regulations prohibited without transfer to State of management authority by Secretary** No State may enforce, or attempt to enforce, any State law or regulation relating to the taking of any species (which term for purposes of this section includes any population stock) of marine mammal within the State unless the Secretary has transferred authority for the conservation and management of that species (hereinafter referred to in this section as “management authority”) to the State under subsection (b)(1).
 
 **(b) Findings prerequisite to transfer of authority; State program; implementation**
 
@@ -1219,21 +1219,21 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
   (C) does not permit the taking of the species unless and until—
 
-    (i) the State has determined, under a process consistent with the standards set forth in subsection (c) of this section—
+    (i) the State has determined, under a process consistent with the standards set forth in subsection (c)—
 
       (I) that the species is at its optimum sustainable population (hereinafter in this section referred to as “OSP”), and
 
       (II) the maximum number of animals of that species that may be taken without reducing the species below its OSP, and
 
-    (ii) the determination required under clause (i) is final and implemented under State law, and, if a cooperative allocation agreement for the species is required under subsection (d)(1) of this section, such an agreement is implemented;
+    (ii) the determination required under clause (i) is final and implemented under State law, and, if a cooperative allocation agreement for the species is required under subsection (d)(1), such an agreement is implemented;
 
-  (D) does not permit the taking of a number of animals of the species that exceeds the maximum number determined pursuant to subparagraph (C)(i)(II), and, in the case of taking for subsistence uses (as defined in subsection (f)(2) of this section), does not permit the taking of a number of animals that would be inconsistent with the maintenance of the species at its OSP;
+  (D) does not permit the taking of a number of animals of the species that exceeds the maximum number determined pursuant to subparagraph (C)(i)(II), and, in the case of taking for subsistence uses (as defined in subsection (f)(2)), does not permit the taking of a number of animals that would be inconsistent with the maintenance of the species at its OSP;
 
   (E) does not permit the taking of the species for scientific research, public display, or enhancing the survival or recovery of a species or stock, except for taking for such purposes that is undertaken by, or on behalf of, the State;
 
   (F) provides procedures for acquiring data, and evaluating such data and other new evidence, relating to the OSP of the species, and the maximum take that would maintain the species at the level, and, if required on the basis of such evaluation, for amending determinations under subparagraph (C)(i);
 
-  (G) provides procedures for the resolution of differences between the State and the Secretary that might arise during the development of a cooperative allocation agreement under subsection (d)(1) of this section; and
+  (G) provides procedures for the resolution of differences between the State and the Secretary that might arise during the development of a cooperative allocation agreement under subsection (d)(1); and
 
   (H) provides for the submission of an annual report to the Secretary regarding the administration of the program during the reporting period.
 
@@ -1243,7 +1243,7 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
   (B) the Secretary shall continue to regulate, under this subchapter, all takings of the species within the State.
 
-(3) After the determination required under paragraph (1)(C)(i) regarding a species is final and implemented under State law and after a cooperative allocation agreement described in subsection (d)(1) of this section, if required, is implemented for such species—
+(3) After the determination required under paragraph (1)(C)(i) regarding a species is final and implemented under State law and after a cooperative allocation agreement described in subsection (d)(1), if required, is implemented for such species—
 
   (A) such determination shall be treated, for purposes of applying this subchapter beyond the territory of the State, as a determination made in accordance with [section 1373 of this title](./chapter-031-marine-mammal-protection.md#section-1373) and as an applicable waiver under [section 1371(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1371/a/3&num=0&edition=prelim);
 
@@ -1255,7 +1255,7 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
   (C) [section 1371(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1371/b&num=0&edition=prelim) shall not apply.
 
-**(c) Standards with which State process must comply** The State process required under subsection (b)(1)(C) of this section must comply with the following standards:
+**(c) Standards with which State process must comply** The State process required under subsection (b)(1)(C) must comply with the following standards:
 
 (1) The State agency with management authority for the species (hereinafter in this section referred to as the “State agency”) must make an initial determination regarding the factors described in clause (i) of that subsection. The State agency must identify, and make available to the public under reasonable circumstances, the documentation supporting such initial determination. Unless request for a hearing under paragraph (2) regarding the initial determination is timely made, the initial determination shall be treated as final under State law.
 
@@ -1272,13 +1272,13 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
 **(d) Cooperative allocation agreements**
 
-(1) If the range of a species with respect to which a determination under paragraph (1)(C)(i) of subsection (b) of this section is made extends beyond the territorial waters of the State, the State agency and the Secretary (who shall first coordinate with the Marine Mammal Commission and the appropriate Regional Fishery Management Council established under [section 1852 of this title](./chapter-038-fishery-conservation-and-management.md#section-1852)) shall enter into a cooperative allocation agreement providing procedures for allocating, on a timely basis, such of the number of animals, as determined under paragraph (1)(C)(i)(II) of subsection (b) of this section, as may be appropriate with priority of allocation being given firstly to taking for subsistence uses in the case of the State of Alaska, and secondly to taking for purposes provided for under [section 1371(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1371/a&num=0&edition=prelim) within the zone described in section 1362(14)(B) 1 of this title.
+(1) If the range of a species with respect to which a determination under paragraph (1)(C)(i) of subsection (b) is made extends beyond the territorial waters of the State, the State agency and the Secretary (who shall first coordinate with the Marine Mammal Commission and the appropriate Regional Fishery Management Council established under [section 1852 of this title](./chapter-038-fishery-conservation-and-management.md#section-1852)) shall enter into a cooperative allocation agreement providing procedures for allocating, on a timely basis, such of the number of animals, as determined under paragraph (1)(C)(i)(II) of subsection (b), as may be appropriate with priority of allocation being given firstly to taking for subsistence uses in the case of the State of Alaska, and secondly to taking for purposes provided for under [section 1371(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1371/a&num=0&edition=prelim) within the zone described in section 1362(14)(B) 1 of this title.
 
 (2) If the State agency requests the Secretary to regulate the taking of a species to which paragraph (1) applies within the zone described in section 1362(14)(B) 1 of this title for subsistence uses or for hunting, or both, in a manner consistent with the regulation by the State agency of such taking within the State, the Secretary shall adopt, and enforce within such zone, such of the State agency’s regulatory provisions as the Secretary considers to be consistent with his administration of [section 1371(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1371/a&num=0&edition=prelim) within such zone. The Secretary shall adopt such provisions through the issuance of regulations under [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), and with respect to such issuance the Regulatory Flexibility Act [[5 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim) et seq.], the Paperwork Reduction Act,1 Executive Order Numbered 12291, dated February 17, 1981, and the thirty-day notice requirement in subsection (d) of such section 553 shall not apply. For purposes of sections 1375, 1376, and 1377 of this title, such regulations shall be treated as having been issued under this subchapter.
 
 **(e) Revocation of transfer of management authority**
 
-(1) Subject to paragraph (2), the Secretary shall revoke, after opportunity for a hearing, any transfer of management authority made to a State under subsection (b)(1) of this section if the Secretary finds that the State program for the conservation and management of the species concerned is not being implemented, or is being implemented in a manner inconsistent with the provisions of this section or the provisions of the program. The Secretary shall also establish a procedure for the voluntary return by a State to the Secretary of species management authority that was previously transferred to the State under subsection (b)(1) of this section.
+(1) Subject to paragraph (2), the Secretary shall revoke, after opportunity for a hearing, any transfer of management authority made to a State under subsection (b)(1) if the Secretary finds that the State program for the conservation and management of the species concerned is not being implemented, or is being implemented in a manner inconsistent with the provisions of this section or the provisions of the program. The Secretary shall also establish a procedure for the voluntary return by a State to the Secretary of species management authority that was previously transferred to the State under subsection (b)(1).
 
 (2)
 
@@ -1296,7 +1296,7 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
 **(f) Transfer of management authority to State of Alaska**
 
-(1) The Secretary may not transfer management authority to the State of Alaska under subsection (b)(1) of this section for any species of marine mammal unless—
+(1) The Secretary may not transfer management authority to the State of Alaska under subsection (b)(1) for any species of marine mammal unless—
 
   (A) the State has adopted and will implement a statute and regulations that insure that the taking of the species for subsistence uses—
 
@@ -1328,11 +1328,11 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
     (ii) for other food or for nonedible items other than money if the exchange is of a limited and noncommercial nature.
 
-**(g) Environmental impact statement not required** Neither the transfer of management authority to a State under subsection (b)(1) of this section, nor the revocation or voluntary return of such authority under subsection (e) of this section, shall be deemed to be an action for which an environmental impact statement is required under [section 4332 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332&num=0&edition=prelim).
+**(g) Environmental impact statement not required** Neither the transfer of management authority to a State under subsection (b)(1), nor the revocation or voluntary return of such authority under subsection (e), shall be deemed to be an action for which an environmental impact statement is required under [section 4332 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332&num=0&edition=prelim).
 
 **(h) Taking of marine mammals as part of official duties**
 
-(1) Nothing in this subchapter or subchapter V of this chapter shall prevent a Federal, State, or local government official or employee or a person designated under [section 1382(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1382/c&num=0&edition=prelim) from taking, in the course of his or her duties as an official, employee, or designee, a marine mammal in a humane manner (including euthanasia) if such taking is for—
+(1) Nothing in this subchapter or subchapter V shall prevent a Federal, State, or local government official or employee or a person designated under [section 1382(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1382/c&num=0&edition=prelim) from taking, in the course of his or her duties as an official, employee, or designee, a marine mammal in a humane manner (including euthanasia) if such taking is for—
 
   (A) the protection or welfare of the mammal,
 
@@ -1348,7 +1348,7 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
 **(j) Grants to develop or administer State conservation and management programs** The Secretary may make grants to States to assist them—
 
-(1) in developing programs, to be submitted for approval under subsection (b) of this section, for the conservation and management of species of marine mammals; and
+(1) in developing programs, to be submitted for approval under subsection (b), for the conservation and management of species of marine mammals; and
 
 (2) in administering such programs if management authority for such species is transferred to the State under such subsection.
 Grants made under this subsection may not exceed 50 per centum of the costs of developing a State program before Secretarial approval, or of administering the program thereafter.
@@ -1375,7 +1375,7 @@ Executive Order Numbered 12291, dated February 17, 1981, referred to in subsec. 
 #### Amendments
 1994—Subsec. (h)(1). Pub. L. 103–238 made technical amendment to reference to subchapter V of this chapter to reflect renumbering of corresponding title of original act.
 
-1992—Subsec. (h)(1). Pub. L. 102–587 inserted “or subchapter V of this chapter” in introductory provisions.
+1992—Subsec. (h)(1). Pub. L. 102–587 inserted “or subchapter V” after “this subchapter” in introductory provisions.
 
 1988—Subsec. (b)(1)(E). Pub. L. 100–711, § 5(e)(3)(A), substituted “research, public display, or enhancing the survival or recovery of a species or stock” for “research and public display purposes”.
 
@@ -1482,7 +1482,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 **(b) Cooperation by Federal agencies** Each Federal agency is authorized and directed to cooperate with the Secretary, in such manner as may be mutually agreeable, in carrying out the purposes of this subchapter.
 
-**(c) Contracts, leases, and cooperative agreements** The Secretary may enter into such contracts, leases, cooperative agreements, or other transactions as may be necessary to carry out the purposes of this subchapter or subchapter V of this chapter and on such terms as he deems appropriate with any Federal or State agency, public or private institution, or other person.
+**(c) Contracts, leases, and cooperative agreements** The Secretary may enter into such contracts, leases, cooperative agreements, or other transactions as may be necessary to carry out the purposes of this subchapter or subchapter V and on such terms as he deems appropriate with any Federal or State agency, public or private institution, or other person.
 
 **(d) Annual review; suspension of program** The Secretary shall review annually the operation of each program in which the United States participates involving the taking of marine mammals on lands. If at any time the Secretary finds that any such program cannot be administered on lands owned by the United States or in which the United States has an interest in a manner consistent with the purposes of 11 So in original. policies of this chapter, he shall suspend the operation of that program and shall include in the annual report to the public and the Congress required under [section 1373(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1373/f&num=0&edition=prelim) his reasons for such suspension, together with recommendations for such legislation as he deems necessary and appropriate to resolve the problem.
 
@@ -1495,7 +1495,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 Subsec. (e). Pub. L. 103–238, § 7(a), added subsec. (e).
 
-1992—Subsec. (c). Pub. L. 102–587 inserted “or subchapter V of this chapter” after “of this subchapter”.
+1992—Subsec. (c). Pub. L. 102–587 inserted “or subchapter V” after “of this subchapter”.
 
 1980—Subsec. (d). Pub. L. 96–470 substituted “include in the annual report to the public and the Congress required under [section 1373(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1373/f&num=0&edition=prelim)” for “forthwith submit to Congress”.
 
@@ -1530,7 +1530,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 (1) During the period beginning on November 23, 1988, and until superseded by regulations prescribed under [section 1387 of this title](./chapter-031-marine-mammal-protection.md#section-1387), or until September 1, 1995, whichever is earlier, except as provided in paragraph (2), the provisions of this section, rather than sections 1371, 1373, and 1374 of this title, shall govern the incidental taking of marine mammals in the course of commercial fishing operations by persons using vessels of the United States and vessels which have valid fishing permits issued by the Secretary in accordance with [section 1824(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1824/b&num=0&edition=prelim). In any event it shall be the immediate goal that the incidental kill or serious injury of marine mammals permitted in the course of commercial fishing operations be reduced to insignificant levels approaching a zero mortality and serious injury rate.
 
-(2) The provisions of this section other than subsection (e)(6)(A) of this section shall not govern the incidental taking of marine mammals in the course of commercial yellowfin tuna fishing subject to [section 1374(h)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1374/h/2&num=0&edition=prelim).
+(2) The provisions of this section other than subsection (e)(6)(A) shall not govern the incidental taking of marine mammals in the course of commercial yellowfin tuna fishing subject to [section 1374(h)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1374/h/2&num=0&edition=prelim).
 
 **(b) Proposed and final list of fisheries taking marine mammals; publication in Federal Register; grant of exemption; conditions; suspension of grant of exemption; administration of exemption provisions; fees**
 
@@ -1546,7 +1546,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
   (B) publish in the Federal Register not later than one hundred and twenty days after November 23, 1988, a final list of the fisheries and other information required by paragraph (A), together with a summary of the provisions of this section and information sufficient to advise vessel owners on how to obtain an exemption and otherwise comply with the requirements of this section; and
 
-  (C) at least once each year thereafter, and at such other times as the Secretary considers appropriate, reexamine, based on information gathered from the program established under subsections (c), (d), (e), and (f) of this section, and other relevant sources and after notice and opportunity for public comment, the classification of fisheries and other determinations required under subparagraph (A) and publish in the Federal Register any necessary changes.
+  (C) at least once each year thereafter, and at such other times as the Secretary considers appropriate, reexamine, based on information gathered from the program established under subsections (c), (d), (e), and (f), and other relevant sources and after notice and opportunity for public comment, the classification of fisheries and other determinations required under subparagraph (A) and publish in the Federal Register any necessary changes.
 
 (2)
 
@@ -1568,7 +1568,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
     (ii) ensure that a decal or such other physical evidence of a current and valid exemption as the Secretary may require is displayed on or is in the possession of the master of each such vessel; and
 
-    (iii) report as required by subsection (c) of this section.
+    (iii) report as required by subsection (c).
 
   (B) Any owner of a vessel receiving an exemption under this section for any fishery identified under paragraph (1)(A)(i) shall, as a condition of that exemption, take on board a natural resource observer if requested to do so by the Secretary.
 
@@ -1585,7 +1585,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
   (E) Each owner of a vessel engaged in any fishery not identified in paragraph (1)(A)(i) or (ii), and the master and crew members of such a vessel, shall not be subject to the penalties set forth in this subchapter for the incidental taking of marine mammals if such owner reports to the Secretary, in such form and manner as the Secretary may require, instances of lethal incidental taking in the course of that fishery.
 
-(4) The Secretary shall suspend or revoke an exemption granted under this section and shall not issue a decal or other physical evidence of the exemption for any vessel until the owner of such vessel complies with the reporting requirements under subsection (c) of this section and such requirements to take on board a natural resource observer under paragraph (3)(B) as are applicable to such vessel.
+(4) The Secretary shall suspend or revoke an exemption granted under this section and shall not issue a decal or other physical evidence of the exemption for any vessel until the owner of such vessel complies with the reporting requirements under subsection (c) and such requirements to take on board a natural resource observer under paragraph (3)(B) as are applicable to such vessel.
 
 (5)
 
@@ -1613,13 +1613,13 @@ If there was no incidental taking of marine mammals during the reporting period,
   (B) interviews with fishermen; and
 
   (C) other such information gathering and verification activities that will enable the Secretary to determine reliably the nature, type, and extent of the incidental taking of marine mammals that occurs in a fishery.
-  Except to the extent authorized by the provisions of subsection (e) of this section, the program shall not include placement of observers aboard exempted vessels.
+  Except to the extent authorized by the provisions of subsection (e), the program shall not include placement of observers aboard exempted vessels.
 
-(2) Information obtained under this subsection shall be subject to the confidentiality provisions of subsection (j) of this section.
+(2) Information obtained under this subsection shall be subject to the confidentiality provisions of subsection (j).
 
 **(e) Observers on board exempted vessels; confidentiality of information; authorization of appropriations**
 
-(1) For each fishery identified under subsection (b)(1)(A)(i) of this section, the Secretary shall, after consultation with the appropriate Regional Fishery Management Councils, other Federal and State agencies, and other interested parties, and subject to paragraph (6), place observers on board exempted vessels so as to monitor not less than 20 percent nor more than 35 percent of the fishing operations by vessels in the fishery to obtain statistically reliable information on the species and number of marine mammals incidentally taken in the fishery. If the Secretary determines that fewer than 20 percent of the fishing operations by vessels in the fishery will be monitored during the course of the fishing season, the Secretary shall implement the alternative observation program described in subsection (f) of this section to the extent necessary to supplement the observer program described in this subsection.
+(1) For each fishery identified under subsection (b)(1)(A)(i) of this section, the Secretary shall, after consultation with the appropriate Regional Fishery Management Councils, other Federal and State agencies, and other interested parties, and subject to paragraph (6), place observers on board exempted vessels so as to monitor not less than 20 percent nor more than 35 percent of the fishing operations by vessels in the fishery to obtain statistically reliable information on the species and number of marine mammals incidentally taken in the fishery. If the Secretary determines that fewer than 20 percent of the fishing operations by vessels in the fishery will be monitored during the course of the fishing season, the Secretary shall implement the alternative observation program described in subsection (f) to the extent necessary to supplement the observer program described in this subsection.
 
 (2) When determining the distribution of observers among fisheries and between vessels in a particular fishery, the Secretary shall be guided by the following standards:
 
@@ -1639,10 +1639,10 @@ If there was no incidental taking of marine mammals during the reporting period,
 
   (C) those fisheries other than those described in subparagraphs (A) and (B) in which the greatest incidental take of marine mammals occur; and
 
-  (D) any other fishery identified under subsection (b)(1)(A)(i) of this section.
-  The Secretary may, with the consent of the vessel owner, station an observer on board a vessel engaged in a fishery not identified under subsection (b)(1)(A)(i) of this section.
+  (D) any other fishery identified under subsection (b)(1)(A)(i).
+  The Secretary may, with the consent of the vessel owner, station an observer on board a vessel engaged in a fishery not identified under subsection (b)(1)(A)(i).
 
-(4) Information gathered by observers shall be subject to the provisions of subsection (j) of this section. Consistent with the requirements of paragraph (1), the Secretary shall, if requested by the Appropriate 11 So in original. Probably should not be capitalized. Regional Fishery Management Council, or in the case of a State fishery, the State, require observers to collect additional information, including but not limited to the quantities, species, and physical condition of target and non-target fishery resources and, if requested by the Secretary of the Interior, seabirds.
+(4) Information gathered by observers shall be subject to the provisions of subsection (j). Consistent with the requirements of paragraph (1), the Secretary shall, if requested by the Appropriate 11 So in original. Probably should not be capitalized. Regional Fishery Management Council, or in the case of a State fishery, the State, require observers to collect additional information, including but not limited to the quantities, species, and physical condition of target and non-target fishery resources and, if requested by the Secretary of the Interior, seabirds.
 
 (5) Notwithstanding the provisions of paragraph (4), the Secretary may decline to require observers to collect information described in such paragraph, if the Secretary finds in writing, following public notice and opportunity for comment, that such information will not contribute to the protection of marine mammals or the understanding of the marine ecosystem, including fishery resources and seabirds.
 
@@ -1666,13 +1666,13 @@ If there was no incidental taking of marine mammals during the reporting period,
 
 (1) The Secretary shall establish an alternative observation program to provide statistically reliable information on the species and number of marine mammals incidentally taken in those fisheries identified pursuant to subsection (b)(1)(A)(i) of this section for which the required level of observer coverage has not been met or for any other fisheries about which such reliable information is not otherwise available. The alternative program shall include, but not be limited to, direct observation of fishing activities from vessels, airplanes, or points on shore.
 
-(2) Individuals engaged in the alternative observation program shall collect scientific information on the fisheries subject to observation, consistent with the requirements of paragraph (1) and subsection (e)(4) and (5) of this section. All information collected shall be subject to the provisions of subsection (j) of this section.
+(2) Individuals engaged in the alternative observation program shall collect scientific information on the fisheries subject to observation, consistent with the requirements of paragraph (1) and subsection (e)(4) and (5). All information collected shall be subject to the provisions of subsection (j).
 
 **(g) Review of information and evaluation of effects of incidental taking on population stocks of marine mammals; promulgation of emergency regulations to mitigate immediate and significant adverse impacts; action to mitigate non-immediate impacts**
 
 (1) The Secretary shall review information regarding the incidental taking of marine mammals and evaluate the effects of such incidental taking on the affected population stocks of marine mammals.
 
-(2) If the Secretary finds, based on the information received from the programs established under subsections (c), (d), (e), and (f) of this section, that the incidental taking of marine mammals in a fishery is having an immediate and significant adverse impact on a marine mammal population stock or, in the case of Steller sea lions and North Pacific fur seals, that more than 1,350 and 50, respectively, will be incidentally killed during a calendar year, the Secretary shall consult with appropriate Regional Fishery Management Councils and State fishery managers and prescribe emergency regulations to prevent to the maximum extent practicable any further taking. Any emergency regulations prescribed under this paragraph—
+(2) If the Secretary finds, based on the information received from the programs established under subsections (c), (d), (e), and (f), that the incidental taking of marine mammals in a fishery is having an immediate and significant adverse impact on a marine mammal population stock or, in the case of Steller sea lions and North Pacific fur seals, that more than 1,350 and 50, respectively, will be incidentally killed during a calendar year, the Secretary shall consult with appropriate Regional Fishery Management Councils and State fishery managers and prescribe emergency regulations to prevent to the maximum extent practicable any further taking. Any emergency regulations prescribed under this paragraph—
 
   (A) shall, to the maximum extent practicable, avoid interfering with existing State or regional fishery management plans;
 
@@ -1683,15 +1683,15 @@ If there was no incidental taking of marine mammals during the reporting period,
   (D) may be terminated by the Secretary at an earlier date by publication in the Federal Register of a notice of termination if the Secretary determines the reasons for the emergency regulations no longer exist.
   In prescribing emergency regulations under this paragraph, the Secretary shall take into account the economics of the fishery concerned and the availability of existing technology to prevent or minimize incidental taking of marine mammals.
 
-(3) If the Secretary finds, based on information received from the programs established under subsections (c), (d), (e), and (f) of this section, that incidental taking of marine mammals in a fishery is not having an immediate and significant adverse impact on a marine mammal population stock but that it will likely have a significant adverse impact over a period of time longer than one year, the Secretary shall request the appropriate Regional Fishery Management Council or State to initiate, recommend, or take such action within its authority as it considers necessary to mitigate the adverse impacts, including adjustments to requirements on fishing times or areas or the imposition of restrictions on the use of vessels or gear.
+(3) If the Secretary finds, based on information received from the programs established under subsections (c), (d), (e), and (f), that incidental taking of marine mammals in a fishery is not having an immediate and significant adverse impact on a marine mammal population stock but that it will likely have a significant adverse impact over a period of time longer than one year, the Secretary shall request the appropriate Regional Fishery Management Council or State to initiate, recommend, or take such action within its authority as it considers necessary to mitigate the adverse impacts, including adjustments to requirements on fishing times or areas or the imposition of restrictions on the use of vessels or gear.
 
-(4) The Secretary shall impose appropriate conditions and restrictions on an exemption granted under subsection (b) of this section if—
+(4) The Secretary shall impose appropriate conditions and restrictions on an exemption granted under subsection (b) if—
 
   (A) a Regional Fishery Management Council or State does not act in a reasonable period of time on a request made by the Secretary under paragraph (3); or
 
   (B) if the Secretary determines after notice and opportunity for public comment that the purposes of this section would be better served by such action.
 
-**(h) Information and management system for processing and analyzing reports and information; accessibility to public** The Secretary shall design and implement an information management system capable of processing and analyzing reports received from the programs established under subsections (c), (d), (e), and (f) of this section, and other relevant sources, including Federal and State enforcement authorities, marine mammal stranding networks, and the marine mammal researchers. The information shall be made accessible to the public on a continuing basis, but in any case no later than six months after it is received, subject to the provisions of subsection (j) of this section.
+**(h) Information and management system for processing and analyzing reports and information; accessibility to public** The Secretary shall design and implement an information management system capable of processing and analyzing reports received from the programs established under subsections (c), (d), (e), and (f), and other relevant sources, including Federal and State enforcement authorities, marine mammal stranding networks, and the marine mammal researchers. The information shall be made accessible to the public on a continuing basis, but in any case no later than six months after it is received, subject to the provisions of subsection (j).
 
 **(i) Utilization of services of State and Federal agencies and private entities** When carrying out the Secretary’s responsibilities under subsections (b), (d), (e), (f), and (h) of this section, the Secretary shall, to the maximum extent practicable, utilize the services and programs of State agencies, Federal agencies (including programs established by Regional Fishery Management Councils), marine fisheries commissions, universities, and private entities, on a reimbursable basis or otherwise. The Secretary is authorized to enter into contracts and agreements to carry out his or her responsibilities and shall establish appropriate guidelines to ensure that other programs used or contracted for will meet the same standards as a program established by the Secretary. A person contracting with the Secretary to provide observer services under subsection (e) of this section must provide evidence of financial responsibility in an amount and form prescribed by the Secretary to compensate employees (or their survivors) adequately for any illness, disability, injury, or death from service on a vessel.
 
@@ -1840,7 +1840,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 ## § 1384. Authorization of appropriations
 **(a) Department of Commerce**
 
-(1) There are authorized to be appropriated to the Department of Commerce, for purposes of carrying out its functions and responsibilities under this subchapter (other than sections 1386 and 1387 of this title) and subchapter V of this chapter, $12,138,000 for fiscal year 1994, $12,623,000 for fiscal year 1995, $13,128,000 for fiscal year 1996, $13,653,000 for fiscal year 1997, $14,200,000 for fiscal year 1998, and $14,768,000 for fiscal year 1999.
+(1) There are authorized to be appropriated to the Department of Commerce, for purposes of carrying out its functions and responsibilities under this subchapter (other than sections 1386 and 1387 of this title) and subchapter V, $12,138,000 for fiscal year 1994, $12,623,000 for fiscal year 1995, $13,128,000 for fiscal year 1996, $13,653,000 for fiscal year 1997, $14,200,000 for fiscal year 1998, and $14,768,000 for fiscal year 1999.
 
 (2) There are authorized to be appropriated to the Department of Commerce, for purposes of carrying out sections 1386 and 1387 of this title, $20,000,000 for each of the fiscal years 1994 through 1999.
 
@@ -1913,7 +1913,7 @@ Subsec. (b). Pub. L. 95–136, § 2(2), inserted “, and not to exceed $850,000
 
   (B)
 
-    (i) the product is accompanied by a written statement executed by the captain providing the certification required under subsection (h) of this section;
+    (i) the product is accompanied by a written statement executed by the captain providing the certification required under subsection (h);
 
     (ii) the product is accompanied by a written statement executed by—
 
@@ -1922,7 +1922,7 @@ Subsec. (b). Pub. L. 95–136, § 2(2), inserted “, and not to exceed $850,000
       (II) a representative of the Inter-American Tropical Tuna Commission; or
 
       (III) an authorized representative of a participating nation whose national program meets the requirements of the International Dolphin Conservation Program,
-      which states that there was an observer approved by the International Dolphin Conservation Program on board the vessel during the entire trip and that such observer provided the certification required under subsection (h) of this section; and
+      which states that there was an observer approved by the International Dolphin Conservation Program on board the vessel during the entire trip and that such observer provided the certification required under subsection (h); and
 
     (iii) the statements referred to in clauses (i) and (ii) are endorsed in writing by each exporter, importer, and processor of the product; and
 
@@ -1930,7 +1930,7 @@ Subsec. (b). Pub. L. 95–136, § 2(2), inserted “, and not to exceed $850,000
 
 (3)
 
-  (A) The Secretary of Commerce shall develop an official mark that may be used to label tuna products as dolphin safe in accordance with this Act.11 So in original. Probably should be “this section”.
+  (A) The Secretary of Commerce shall develop an official mark that may be used to label tuna products as dolphin safe in accordance with this section.11 See References in Text note below.
 
   (B) A tuna product that bears the dolphin safe mark developed under subparagraph (A) shall not bear any other label or mark that refers to dolphins, porpoises, or marine mammals.
 
@@ -1938,7 +1938,7 @@ Subsec. (b). Pub. L. 95–136, § 2(2), inserted “, and not to exceed $850,000
 
     (i) no dolphins were killed or seriously injured in the sets or other gear deployments in which the tuna were caught;
 
-    (ii) the label is supported by a tracking and verification program which is comparable in effectiveness to the program established under subsection (f) of this section; and
+    (ii) the label is supported by a tracking and verification program which is comparable in effectiveness to the program established under subsection (f); and
 
     (iii) the label complies with all applicable labeling, marketing, and advertising laws and regulations of the Federal Trade Commission, including any guidelines for environmental labeling.
 
@@ -1946,21 +1946,21 @@ Subsec. (b). Pub. L. 95–136, § 2(2), inserted “, and not to exceed $850,000
 
   (E) It is a violation of [section 45 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section45&num=0&edition=prelim) willingly and knowingly to use a label referred to in subparagraph (C) in a campaign or effort to mislead or deceive consumers about the level of protection afforded dolphins under the International Dolphin Conservation Program.
 
-**(e) Enforcement** Any person who knowingly and willfully makes a statement or endorsement described in subsection (d)(2)(B) of this section that is false is liable for a civil penalty of not to exceed $100,000 assessed in an action brought in any appropriate district court of the United States on behalf of the Secretary.
+**(e) Additional prohibitions and enforcement** For additional prohibitions relating to this section 1 and enforcement of this section,1 see [section 1826g of this title](./chapter-038-fishery-conservation-and-management.md#section-1826g).
 
-**(f) Regulations** The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations to implement this Act,1 including regulations to establish a domestic tracking and verification program that provides for the effective tracking of tuna labeled under subsection (d) of this section. In the development of these regulations, the Secretary shall establish appropriate procedures for ensuring the confidentiality of proprietary information the submission of which is voluntary or mandatory. The regulations shall address each of the following items:
+**(f) Regulations** The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations to implement this section,1 including regulations to establish a domestic tracking and verification program that provides for the effective tracking of tuna labeled under subsection (d). In the development of these regulations, the Secretary shall establish appropriate procedures for ensuring the confidentiality of proprietary information the submission of which is voluntary or mandatory. The regulations shall address each of the following items:
 
 (1) The use of weight calculation for purposes of tracking tuna caught, landed, processed, and exported.
 
 (2) Additional measures to enhance current observer coverage, including the establishment of criteria for training, and for improving monitoring and reporting capabilities and procedures.
 
-(3) The designation of well location, procedures for sealing holds, procedures for monitoring and certifying both above and below deck, or through equally effective methods, the tracking and verification of tuna labeled under subsection (d) of this section.
+(3) The designation of well location, procedures for sealing holds, procedures for monitoring and certifying both above and below deck, or through equally effective methods, the tracking and verification of tuna labeled under subsection (d).
 
 (4) The reporting, receipt, and database storage of radio and facsimile transmittals from fishing vessels containing information related to the tracking and verification of tuna, and the definition of set.
 
 (5) The shore-based verification and tracking throughout the fishing, transshipment, and canning process by means of Inter-American Tropical Tuna Commission trip records or otherwise.
 
-(6) The use of periodic audits and spot checks for caught, landed, and processed tuna products labeled in accordance with subsection (d) of this section.
+(6) The use of periodic audits and spot checks for caught, landed, and processed tuna products labeled in accordance with subsection (d).
 
 (7) The provision of timely access to data required under this subsection by the Secretary from harvesting nations to undertake the actions required in paragraph (6) of this paragraph.22 So in original. Probably should be “this subsection”.
 The Secretary may make such adjustments as may be appropriate to the regulations promulgated under this subsection to implement an international tracking and verification program that meets or exceeds the minimum requirements established by the Secretary under this subsection.
@@ -1973,22 +1973,27 @@ The Secretary may make such adjustments as may be appropriate to the regulations
 
 **(h) Certification by captain and observer**
 
-(1) Unless otherwise required by paragraph (2), the certification by the captain under subsection (d)(2)(B)(i) of this section and the certification provided by the observer as specified in subsection (d)(2)(B)(ii) of this section shall be that no dolphins were killed or seriously injured during the sets in which the tuna were caught.
+(1) Unless otherwise required by paragraph (2), the certification by the captain under subsection (d)(2)(B)(i) and the certification provided by the observer as specified in subsection (d)(2)(B)(ii) shall be that no dolphins were killed or seriously injured during the sets in which the tuna were caught.
 
-(2) The certification by the captain under subsection (d)(2)(B)(i) of this section and the certification provided by the observer as specified under subsection (d)(2)(B)(ii) of this section shall be that no tuna were caught on the trip in which such tuna were harvested using a purse seine net intentionally deployed on or to encircle dolphins, and that no dolphins were killed or seriously injured during the sets in which the tuna were caught, if the tuna were caught on a trip commencing—
+(2) The certification by the captain under subsection (d)(2)(B)(i) and the certification provided by the observer as specified under subsection (d)(2)(B)(ii) shall be that no tuna were caught on the trip in which such tuna were harvested using a purse seine net intentionally deployed on or to encircle dolphins, and that no dolphins were killed or seriously injured during the sets in which the tuna were caught, if the tuna were caught on a trip commencing—
 
-  (A) before the effective date of the initial finding by the Secretary under subsection (g)(1) of this section;
+  (A) before the effective date of the initial finding by the Secretary under subsection (g)(1);
 
-  (B) after the effective date of such initial finding and before the effective date of the finding of the Secretary under subsection (g)(2) of this section, where the initial finding is that the intentional deployment on or encirclement of dolphins is having a significant adverse impact on any depleted dolphin stock; or
+  (B) after the effective date of such initial finding and before the effective date of the finding of the Secretary under subsection (g)(2), where the initial finding is that the intentional deployment on or encirclement of dolphins is having a significant adverse impact on any depleted dolphin stock; or
 
-  (C) after the effective date of the finding under subsection (g)(2) of this section, where such finding is that the intentional deployment on or encirclement of dolphins is having a significant adverse impact on any such depleted stock.
+  (C) after the effective date of the finding under subsection (g)(2), where such finding is that the intentional deployment on or encirclement of dolphins is having a significant adverse impact on any such depleted stock.
 
 ### Statutory Notes
+
+#### References in Text
+This section, referred to in subsecs. (d)(3)(A), (e), and (f), was in the original “this Act”, and was translated as referring to the Dolphin Protection Consumer Information Act, which is classified to this section, to reflect the probable intent of Congress.
 
 #### Codification
 Section was not enacted as part of the Marine Mammal Protection Act of 1972 which comprises this chapter.
 
 #### Amendments
+2015—Subsec. (e). Pub. L. 114–81 amended subsec. (e) generally. Prior to amendment, text read as follows: “Any person who knowingly and willfully makes a statement or endorsement described in subsection (d)(2)(B) that is false is liable for a civil penalty of not to exceed $100,000 assessed in an action brought in any appropriate district court of the United States on behalf of the Secretary.”
+
 1997—Subsec. (d). Pub. L. 105–42, § 5(a), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
 “(1) It is a violation of [section 45 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section45&num=0&edition=prelim) for any producer, importer, exporter, distributor, or seller of any tuna product that is exported from or offered for sale in the United States to include on the label of that product the term ‘Dolphin Safe’ or any other term or symbol that falsely claims or suggests that the tuna contained in the product was harvested using a method of fishing that is not harmful to dolphins if the product contains—
@@ -2032,7 +2037,7 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
 <a id="section-1386"></a>
 ## § 1386. Stock assessments
-**(a) In general** Not later than August 1, 1994, the Secretary shall, in consultation with the appropriate regional scientific review group established under subsection (d) of this section, prepare a draft stock assessment for each marine mammal stock which occurs in waters under the jurisdiction of the United States. Each draft stock assessment, based on the best scientific information available, shall—
+**(a) In general** Not later than August 1, 1994, the Secretary shall, in consultation with the appropriate regional scientific review group established under subsection (d), prepare a draft stock assessment for each marine mammal stock which occurs in waters under the jurisdiction of the United States. Each draft stock assessment, based on the best scientific information available, shall—
 
 (1) describe the geographic range of the affected stock, including any seasonal or temporal variation in such range;
 
@@ -2064,7 +2069,7 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
 (2) Subsequent to the notice of availability required under paragraph (1), if requested by a person to which [section 1371(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1371/b&num=0&edition=prelim) applies, the Secretary shall conduct a proceeding on the record prior to publishing a final stock assessment or any revision thereof for any stock subject to taking under [section 1371(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1371/b&num=0&edition=prelim).
 
-(3) After consideration of the best scientific information available, the advice of the appropriate regional scientific review group established under subsection (d) of this section, and the comments of the general public, the Secretary shall publish in the Federal Register a notice of availability and a summary of the final stock assessment or any revision thereof, not later than 90 days after—
+(3) After consideration of the best scientific information available, the advice of the appropriate regional scientific review group established under subsection (d), and the comments of the general public, the Secretary shall publish in the Federal Register a notice of availability and a summary of the final stock assessment or any revision thereof, not later than 90 days after—
 
   (A) the close of the public comment period on a draft stock assessment or revision thereof; or
 
@@ -2080,7 +2085,7 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
   (C) at least once every 3 years for all other stocks.
 
-(2) If the review under paragraph (1) indicates that the status of the stock has changed or can be more accurately determined, the Secretary shall revise the stock assessment in accordance with subsection (b) of this section.
+(2) If the review under paragraph (1) indicates that the status of the stock has changed or can be more accurately determined, the Secretary shall revise the stock assessment in accordance with subsection (b).
 
 **(d) Regional scientific review groups**
 
@@ -2120,7 +2125,7 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92
 
 (2) In the case of the incidental taking of marine mammals from species or stocks designated under this chapter as depleted on the basis of their listing as threatened species or endangered species under the Endangered Species Act of 1973 ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.), both this section and [section 1371(a)(5)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1371/a/5/E&num=0&edition=prelim) shall apply.
 
-(3) Sections 11 So in original. Probably should be “Section”. 1374(h) of this title and subchapter IV of this chapter, and not this section, shall govern the taking of marine mammals in the course of commercial purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean.
+(3) Sections 11 So in original. Probably should be “Section”. 1374(h) of this title and subchapter IV, and not this section, shall govern the taking of marine mammals in the course of commercial purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean.
 
 (4) This section shall not govern the incidental taking of California sea otters and shall not be deemed to amend or repeal the Act of November 7, 1986 (Public Law 99–625; 100 Stat. 3500).
 
@@ -2136,7 +2141,7 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92
 
 (3) Three years after April 30, 1994, the Secretary shall review the progress of all commercial fisheries, by fishery, toward reducing incidental mortality and serious injury to insignificant levels approaching a zero rate. The Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives a report setting forth the results of such review within 1 year after commencement of the review. The Secretary shall note any commercial fishery for which additional information is required to accurately assess the level of incidental mortality and serious injury of marine mammals in the fishery.
 
-(4) If the Secretary determines after review under paragraph (3) that the rate of incidental mortality and serious injury of marine mammals in a commercial fishery is not consistent with paragraph (1), then the Secretary shall take appropriate action under subsection (f) of this section.
+(4) If the Secretary determines after review under paragraph (3) that the rate of incidental mortality and serious injury of marine mammals in a commercial fishery is not consistent with paragraph (1), then the Secretary shall take appropriate action under subsection (f).
 
 **(c) Registration and authorization**
 
@@ -2164,7 +2169,7 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92
 
     (ii) has a valid fishing permit issued by the Secretary in accordance with [section 1824(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1824/b&num=0&edition=prelim).
 
-  (C) Except as provided in subsection (a) of this section, an authorization granted under this section shall allow the incidental taking of all species and stocks of marine mammals to which this chapter applies.
+  (C) Except as provided in subsection (a), an authorization granted under this section shall allow the incidental taking of all species and stocks of marine mammals to which this chapter applies.
 
 (3)
 
@@ -2174,7 +2179,7 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92
 
     (ii) ensure that a decal or such other physical evidence of a current and valid authorization as the Secretary may require is displayed on or is in the possession of the master of each such vessel;
 
-    (iii) report as required by subsection (e) of this section; and
+    (iii) report as required by subsection (e); and
 
     (iv) comply with any applicable take reduction plan and emergency regulations issued under this section.
 
@@ -2191,11 +2196,11 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92
 
   (D) If the owner of a vessel has obtained and maintains a current and valid authorization from the Secretary under this section and meets the requirements set forth in this section, including compliance with any regulations to implement a take reduction plan under this section, the owner of such vessel, and the master and crew members of the vessel, shall not be subject to the penalties set forth in this subchapter for the incidental taking of marine mammals while such vessel is engaged in a fishery to which the authorization applies.
 
-  (E) Each owner of a vessel engaged in any fishery not listed under paragraph (1)(A)(i) or (ii), and the master and crew members of such a vessel, shall not be subject to the penalties set forth in this subchapter for the incidental taking of marine mammals if such owner reports to the Secretary, in the form and manner required under subsection (e) of this section, instances of incidental mortality or injury of marine mammals in the course of that fishery.
+  (E) Each owner of a vessel engaged in any fishery not listed under paragraph (1)(A)(i) or (ii), and the master and crew members of such a vessel, shall not be subject to the penalties set forth in this subchapter for the incidental taking of marine mammals if such owner reports to the Secretary, in the form and manner required under subsection (e), instances of incidental mortality or injury of marine mammals in the course of that fishery.
 
 (4)
 
-  (A) The Secretary shall suspend or revoke an authorization granted under this section and shall not issue a decal or other physical evidence of the authorization for any vessel until the owner of such vessel complies with the reporting requirements under subsection (e) of this section and such requirements to take on board an observer under paragraph (3)(B) as are applicable to such vessel. Previous failure to comply with the requirements of [section 1383a of this title](./chapter-031-marine-mammal-protection.md#section-1383a) shall not bar authorization under this section for an owner who complies with the requirements of this section.
+  (A) The Secretary shall suspend or revoke an authorization granted under this section and shall not issue a decal or other physical evidence of the authorization for any vessel until the owner of such vessel complies with the reporting requirements under subsection (e) and such requirements to take on board an observer under paragraph (3)(B) as are applicable to such vessel. Previous failure to comply with the requirements of [section 1383a of this title](./chapter-031-marine-mammal-protection.md#section-1383a) shall not bar authorization under this section for an owner who complies with the requirements of this section.
 
   (B) The Secretary may suspend or revoke an authorization granted under this subsection, and may not issue a decal or other physical evidence of the authorization for any vessel which fails to comply with a take reduction plan or emergency regulations issued under this section.
 
@@ -2215,7 +2220,7 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92
 
   (A) obtain statistically reliable estimates of incidental mortality and serious injury;
 
-  (B) determine the reliability of reports of incidental mortality and serious injury under subsection (e) of this section; and
+  (B) determine the reliability of reports of incidental mortality and serious injury under subsection (e); and
 
   (C) identify changes in fishing methods or technology that may increase or decrease incidental mortality and serious injury.
 
@@ -2255,7 +2260,7 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92
 
   (C) for reasons beyond the control of the Secretary, an observer is not available.
 
-(7) The Secretary may, with the consent of the vessel owner, station an observer on board a vessel engaged in a fishery not listed under subsection (c)(1)(A)(i) or (ii) of this section.
+(7) The Secretary may, with the consent of the vessel owner, station an observer on board a vessel engaged in a fishery not listed under subsection (c)(1)(A)(i) or (ii).
 
 (8) Any proprietary information collected under this subsection shall be confidential and shall not be disclosed except—
 
@@ -2281,11 +2286,11 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92
 
 **(f) Take reduction plans**
 
-(1) The Secretary shall develop and implement a take reduction plan designed to assist in the recovery or prevent the depletion of each strategic stock which interacts with a commercial fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, and may develop and implement such a plan for any other marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) of this section which the Secretary determines, after notice and opportunity for public comment, has a high level of mortality and serious injury across a number of such marine mammal stocks.
+(1) The Secretary shall develop and implement a take reduction plan designed to assist in the recovery or prevent the depletion of each strategic stock which interacts with a commercial fishery listed under subsection (c)(1)(A)(i) or (ii), and may develop and implement such a plan for any other marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) which the Secretary determines, after notice and opportunity for public comment, has a high level of mortality and serious injury across a number of such marine mammal stocks.
 
 (2) The immediate goal of a take reduction plan for a strategic stock shall be to reduce, within 6 months of its implementation, the incidental mortality or serious injury of marine mammals incidentally taken in the course of commercial fishing operations to levels less than the potential biological removal level established for that stock under [section 1386 of this title](./chapter-031-marine-mammal-protection.md#section-1386). The long-term goal of the plan shall be to reduce, within 5 years of its implementation, the incidental mortality or serious injury of marine mammals incidentally taken in the course of commercial fishing operations to insignificant levels approaching a zero mortality and serious injury rate, taking into account the economics of the fishery, the availability of existing technology, and existing State or regional fishery management plans.
 
-(3) If there is insufficient funding available to develop and implement a take reduction plan for all such stocks that interact with commercial fisheries listed under subsection (c)(1)(A)(i) or (ii) of this section, the Secretary shall give highest priority to the development and implementation of take reduction plans for species or stocks whose level of incidental mortality and serious injury exceeds the potential biological removal level, those that have a small population size, and those which are declining most rapidly.
+(3) If there is insufficient funding available to develop and implement a take reduction plan for all such stocks that interact with commercial fisheries listed under subsection (c)(1)(A)(i) or (ii), the Secretary shall give highest priority to the development and implementation of take reduction plans for species or stocks whose level of incidental mortality and serious injury exceeds the potential biological removal level, those that have a small population size, and those which are declining most rapidly.
 
 (4) Each take reduction plan shall include—
 
@@ -2305,7 +2310,7 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92
 
 (6)
 
-  (A) At the earliest possible time (not later than 30 days) after the Secretary issues a final stock assessment under [section 1386(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1386/b&num=0&edition=prelim) for a strategic stock, the Secretary shall, and for stocks that interact with a fishery listed under subsection (c)(1)(A)(i) of this section for which the Secretary has made a determination under paragraph (1), the Secretary may—
+  (A) At the earliest possible time (not later than 30 days) after the Secretary issues a final stock assessment under [section 1386(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1386/b&num=0&edition=prelim) for a strategic stock, the Secretary shall, and for stocks that interact with a fishery listed under subsection (c)(1)(A)(i) for which the Secretary has made a determination under paragraph (1), the Secretary may—
 
     (i) establish a take reduction team for such stock and appoint the members of such team in accordance with subparagraph (C); and
 
@@ -2319,7 +2324,7 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92
 
   (E) Members of take reduction teams shall serve without compensation, but may be reimbursed by the Secretary, upon request, for reasonable travel costs and expenses incurred in performing their duties as members of the team.
 
-(7) Where the human-caused mortality and serious injury from a strategic stock is estimated to be equal to or greater than the potential biological removal level established under [section 1386 of this title](./chapter-031-marine-mammal-protection.md#section-1386) for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, the following procedures shall apply in the development of the take reduction plan for the stock:
+(7) Where the human-caused mortality and serious injury from a strategic stock is estimated to be equal to or greater than the potential biological removal level established under [section 1386 of this title](./chapter-031-marine-mammal-protection.md#section-1386) for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii), the following procedures shall apply in the development of the take reduction plan for the stock:
 
   (A)
 
@@ -2341,7 +2346,7 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92
 
   (F) The Secretary shall amend the take reduction plan and implementing regulations as necessary to meet the requirements of this section, in accordance with the procedures in this section for the issuance of such plans and regulations.
 
-(8) Where the human-caused mortality and serious injury from a strategic stock is estimated to be less than the potential biological removal level established under [section 1386 of this title](./chapter-031-marine-mammal-protection.md#section-1386) for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, or for any marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) of this section for which the Secretary has made a determination under paragraph (1), the following procedures shall apply in the development of the take reduction plan for such stock:
+(8) Where the human-caused mortality and serious injury from a strategic stock is estimated to be less than the potential biological removal level established under [section 1386 of this title](./chapter-031-marine-mammal-protection.md#section-1386) for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii), or for any marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) for which the Secretary has made a determination under paragraph (1), the following procedures shall apply in the development of the take reduction plan for such stock:
 
   (A)
 
@@ -2371,7 +2376,7 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92
 
   (C) educate commercial fishermen, through workshops and other means, on the importance of reducing the incidental mortality and serious injury of marine mammals in affected commercial fisheries; and
 
-  (D) monitor, in accordance with subsection (d) of this section, the effectiveness of measures taken to reduce the level of incidental mortality and serious injury of marine mammals in the course of commercial fishing operations.
+  (D) monitor, in accordance with subsection (d), the effectiveness of measures taken to reduce the level of incidental mortality and serious injury of marine mammals in the course of commercial fishing operations.
 
 (10)
 
@@ -2403,13 +2408,13 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92
 
     (ii) approve and implement, on an expedited basis, such plan, which shall provide methods to address such adverse impact if still necessary.
 
-  (C) In the case of a stock or species for which a take reduction plan does not exist and is not being developed, or in the case of a commercial fishery listed under subsection (c)(1)(A)(iii) of this section which the Secretary believes may be contributing to such adverse impact, the Secretary shall—
+  (C) In the case of a stock or species for which a take reduction plan does not exist and is not being developed, or in the case of a commercial fishery listed under subsection (c)(1)(A)(iii) which the Secretary believes may be contributing to such adverse impact, the Secretary shall—
 
     (i) prescribe emergency regulations to reduce such incidental mortality and serious injury in that fishery, to the extent necessary to mitigate such adverse impact;
 
     (ii) immediately review the stock assessment for such stock or species and the classification of such commercial fishery under this section to determine if a take reduction team should be established; and
 
-    (iii) may, where necessary to address such adverse impact on a species or stock listed as a threatened species or endangered species under the Endangered Species Act of 1973 ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.), place observers on vessels in a commercial fishery listed under subsection (c)(1)(A)(iii) of this section, if the Secretary has reason to believe such vessels may be causing the incidental mortality and serious injury to marine mammals from such stock.
+    (iii) may, where necessary to address such adverse impact on a species or stock listed as a threatened species or endangered species under the Endangered Species Act of 1973 ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.), place observers on vessels in a commercial fishery listed under subsection (c)(1)(A)(iii), if the Secretary has reason to believe such vessels may be causing the incidental mortality and serious injury to marine mammals from such stock.
 
 (2) Prior to taking action under paragraph (1)(A), (B), or (C), the Secretary shall consult with the Marine Mammal Commission, all appropriate Regional Fishery Management Councils, State fishery managers, and the appropriate take reduction team (if established).
 
@@ -2423,7 +2428,7 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92
 
 (4) If the Secretary finds that incidental mortality and serious injury of marine mammals in a commercial fishery is continuing to have an immediate and significant adverse impact on a stock or species, the Secretary may extend the emergency regulations for an additional period of not more than 90 days or until reasons for the emergency no longer exist, whichever is earlier.
 
-**(h) Penalties** Except as provided in subsection (c) of this section, any person who violates this section shall be subject to the provisions of sections 1375 and 1377 of this title, and may be subject to [section 1376 of this title](./chapter-031-marine-mammal-protection.md#section-1376) as the Secretary shall establish by regulations.
+**(h) Penalties** Except as provided in subsection (c), any person who violates this section shall be subject to the provisions of sections 1375 and 1377 of this title, and may be subject to [section 1376 of this title](./chapter-031-marine-mammal-protection.md#section-1376) as the Secretary shall establish by regulations.
 
 **(i) Assistance** The Secretary shall provide assistance to Regional Fishery Management Councils, States, interstate fishery commissions, and Indian tribal organizations in meeting the goal of reducing incidental mortality and serious injury to insignificant levels approaching a zero mortality and serious injury rate.
 
@@ -2561,7 +2566,7 @@ The amounts authorized to be appropriated under this subsection are in addition 
 
 (2) Subject to the availability of appropriations, the Secretary may, not later than 18 months after the commencement of the study under this subsection, transmit a report on the results of the study to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives.
 
-(3) The study conducted under this subsection may not be used by the Secretary as a reason for delaying or deferring a determination or consideration under subsection (c) or (d) of this section.
+(3) The study conducted under this subsection may not be used by the Secretary as a reason for delaying or deferring a determination or consideration under subsection (c) or (d).
 
 **(h) Gulf of Maine Task Force** The Secretary shall establish a Pinniped-Fishery Interaction Task Force to advise the Secretary on issues or problems regarding pinnipeds interacting in a dangerous or damaging manner with aquaculture resources in the Gulf of Maine. No later than 2 years from April 30, 1994, the Secretary shall after notice and opportunity for public comment submit to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing recommended available alternatives to mitigate such interactions.
 
@@ -2586,7 +2591,7 @@ The amounts authorized to be appropriated under this subsection are in addition 
 #### References in Text
 The Endangered Species Act of 1973, referred to in subsecs. (b)(1)(A), (B), (e)(1), and (f)(1)(A), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (i)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (i)(1)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
@@ -2937,7 +2942,7 @@ For effective date of repeal, see section 8 of Pub. L. 105–42, set out as an E
 
 **(b) Other research**
 
-(1) **In general** — In addition to conducting the research described in subsection (a) of this section, the Secretary shall, in consultation with the Marine Mammal Commission and in cooperation with the nations participating in the International Dolphin Conservation Program and the Inter-American Tropical Tuna Commission, undertake or support appropriate scientific research to further the goals of the International Dolphin Conservation Program.
+(1) **In general** — In addition to conducting the research described in subsection (a), the Secretary shall, in consultation with the Marine Mammal Commission and in cooperation with the nations participating in the International Dolphin Conservation Program and the Inter-American Tropical Tuna Commission, undertake or support appropriate scientific research to further the goals of the International Dolphin Conservation Program.
 
 (2) **Specific areas of research** — Research carried out under paragraph (1) may include—
 
@@ -2951,7 +2956,7 @@ For effective date of repeal, see section 8 of Pub. L. 105–42, set out as an E
 
 **(c) Authorization of appropriations**
 
-(1) There are authorized to be appropriated to the Secretary the following amounts, to be used by the Secretary to carry out the research described in subsection (a) of this section:
+(1) There are authorized to be appropriated to the Secretary the following amounts, to be used by the Secretary to carry out the research described in subsection (a):
 
   (A) $4,000,000 for fiscal year 1998.
 
@@ -3079,9 +3084,9 @@ For effective date of section, see section 8 of Pub. L. 105–42, set out as an 
 
 **(b) Penalties**
 
-(1) **Civil penalty** — A person that knowingly and willfully violates subsection (a)(1), (2), (3), (4), or (5) of this section shall be subject to a civil penalty under [section 1375(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1375/a&num=0&edition=prelim).
+(1) **Civil penalty** — A person that knowingly and willfully violates subsection (a)(1), (2), (3), (4), or (5) shall be subject to a civil penalty under [section 1375(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1375/a&num=0&edition=prelim).
 
-(2) **Criminal penalty** — A person that knowingly and willfully violates subsection (a)(5) or (a)(6) of this section shall be subject to a criminal penalty under [section 1375(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1375/b&num=0&edition=prelim).
+(2) **Criminal penalty** — A person that knowingly and willfully violates subsection (a)(5) or (a)(6) shall be subject to a criminal penalty under [section 1375(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1375/b&num=0&edition=prelim).
 
 **(c) Civil forfeitures** Any vessel (including its fishing gear, appurtenances, stores, and cargo) used, and any fish (or its fair market value) taken or retained, in any manner, in connection with or as a result of the commission of any act prohibited by this section shall be subject to forfeiture to the United States in the manner provided in [section 1860 of this title](./chapter-038-fishery-conservation-and-management.md#section-1860).
 
@@ -3190,7 +3195,7 @@ Pub. L. 102–587, title III, § 3003(b), Nov. 4, 1992, 106 Stat. 5066, provided
 ## § 1421b. Stranding response agreements
 **(a) In general** The Secretary may enter into an agreement under [section 1382(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1382/c&num=0&edition=prelim) with any person to take marine mammals under [section 1379(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1379/h/1&num=0&edition=prelim) in response to a stranding.
 
-**(b) Required provision** An agreement authorized by subsection (a) of this section shall—
+**(b) Required provision** An agreement authorized by subsection (a) shall—
 
 (1) specify each person who is authorized to perform activities under the agreement; and
 
@@ -3211,7 +3216,7 @@ Pub. L. 102–587, title III, § 3003(b), Nov. 4, 1992, 106 Stat. 5066, provided
 
     (ii) determining, after an unusual mortality event has begun, if response actions with respect to that event are no longer necessary; and
 
-    (iii) developing the contingency plan in accordance with subsection (b) of this section, to assist the Secretary in responding to unusual mortality events.
+    (iii) developing the contingency plan in accordance with subsection (b), to assist the Secretary in responding to unusual mortality events.
 
   (B) The Federal Advisory Committee Act (5 App. U.S.C.) shall not apply to the marine mammal unusual mortality event working group established under this paragraph.
 
@@ -3225,7 +3230,7 @@ Pub. L. 102–587, title III, § 3003(b), Nov. 4, 1992, 106 Stat. 5066, provided
 
     (ii) inform the stranding network participant of that determination; and
 
-    (iii) if the Secretary has determined an unusual mortality event is occurring, designate an Onsite Coordinator for the event, in accordance with subsection (c) of this section.
+    (iii) if the Secretary has determined an unusual mortality event is occurring, designate an Onsite Coordinator for the event, in accordance with subsection (c).
 
 **(b) Contingency plan**
 
@@ -3261,7 +3266,7 @@ Pub. L. 102–587, title III, § 3003(b), Nov. 4, 1992, 106 Stat. 5066, provided
 
 (2) **Functions**
 
-  (A) An Onsite Coordinator designated under this subsection shall coordinate and direct the activities of all persons responding to an unusual mortality event in accordance with the contingency plan issued under subsection (b) of this section, except that—
+  (A) An Onsite Coordinator designated under this subsection shall coordinate and direct the activities of all persons responding to an unusual mortality event in accordance with the contingency plan issued under subsection (b), except that—
 
     (i) with respect to any matter that is not covered by the contingency plan, an Onsite Coordinator shall use his or her best professional judgment; and
 
@@ -3277,7 +3282,7 @@ The Federal Advisory Committee Act, referred to in subsec. (a)(1)(B), is Pub. L.
 
 <a id="section-1421d"></a>
 ## § 1421d. Unusual mortality event activity funding
-**(a) Establishment of Fund** There is established in the Treasury an interest bearing fund to be known as the “Marine Mammal Unusual Mortality Event Fund”, which shall consist of amounts deposited into the Fund under subsection (c) of this section.
+**(a) Establishment of Fund** There is established in the Treasury an interest bearing fund to be known as the “Marine Mammal Unusual Mortality Event Fund”, which shall consist of amounts deposited into the Fund under subsection (c).
 
 **(b) Uses**
 
@@ -3301,7 +3306,7 @@ The Federal Advisory Committee Act, referred to in subsec. (a)(1)(B), is Pub. L.
 
 (2) other amounts appropriated to the Secretary for use with respect to unusual mortality events; and
 
-(3) amounts received by the United States in the form of gifts, devises, and bequests under subsection (d) of this section.
+(3) amounts received by the United States in the form of gifts, devises, and bequests under subsection (d).
 
 **(d) Acceptance of donations** For purposes of carrying out this subchapter and [section 1374(c)(2)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1374/c/2/D&num=0&edition=prelim), the Secretary may accept, solicit, and use the services of volunteers, and may accept, solicit, receive, hold, administer, and use gifts, devises, and bequests.
 
@@ -3331,7 +3336,7 @@ Subsec. (d). Pub. L. 103–238, § 6(2), inserted “and [section 1374(c)(2)(D) 
 
   (C) the best professional judgment of an Onsite Coordinator, in the case of any matter that is not covered by the contingency plan.
 
-**(b) Limitation** Subsection (a) of this section does not apply to actions of a person described in that subsection that are grossly negligent or that constitute willful misconduct.
+**(b) Limitation** Subsection (a) does not apply to actions of a person described in that subsection that are grossly negligent or that constitute willful misconduct.
 
 ### Statutory Notes
 
@@ -3381,9 +3386,9 @@ Subsec. (d). Pub. L. 103–238, § 6(2), inserted “and [section 1374(c)(2)(D) 
 
 (1) marine mammal tissues in the Tissue Bank;
 
-(2) analyses conducted pursuant to subsection (b) of this section; and
+(2) analyses conducted pursuant to subsection (b); and
 
-(3) marine mammal data in the data base maintained under subsection (c) of this section;
+(3) marine mammal data in the data base maintained under subsection (c);
 which provide for appropriate uses of the tissues, analyses, and data by qualified scientists, including stranding network participants.
 
 

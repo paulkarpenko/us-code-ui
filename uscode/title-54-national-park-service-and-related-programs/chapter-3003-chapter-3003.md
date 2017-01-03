@@ -16,7 +16,7 @@ In this division, the term “agency” has the meaning given the term in [secti
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 300301 | [16 U.S.C. 470w(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/1&num=0&edition=prelim) | Pub. L. 89–665, title III, § 301(1), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001; Pub. L. 102–575, title XL, § 4019(a)(1), Oct. 30, 1992, 106 Stat. 4763; Pub. L. 106–208, § 5(a)(10), May 26, 2000, 114 Stat. 319. |
+| 300301 | [16 U.S.C. 470w(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/1&num=0&edition=prelim). | Pub. L. 89–665, title III, § 301(1), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001; Pub. L. 102–575, title XL, § 4019(a)(1), Oct. 30, 1992, 106 Stat. 4763; Pub. L. 106–208, § 5(a)(10), May 26, 2000, 114 Stat. 319. |
 
 
 <a id="section-300302"></a>
@@ -29,7 +29,7 @@ In this division, the term “certified local government” means a local govern
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 300302 | [16 U.S.C. 470w(15)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/15&num=0&edition=prelim) | Pub. L. 89–665, title III, § 301(15), as added Pub. L. 102–575, title XL, § 4019(a)12, Oct. 30, 1992, 106 Stat. 4764. |
+| 300302 | [16 U.S.C. 470w(15)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/15&num=0&edition=prelim). | Pub. L. 89–665, title III, § 301(15), as added Pub. L. 102–575, title XL, § 4019(a)(12), Oct. 30, 1992, 106 Stat. 4764. |
 
 
 <a id="section-300303"></a>
@@ -42,7 +42,7 @@ In this division, the term “Council” means the Advisory Council on Historic 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 300303 | [16 U.S.C. 470w(16)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/16&num=0&edition=prelim) | Pub. L. 89–665, title III, § 301(16), as added Pub. L. 102–575, title XL, § 4019(a), Oct. 30, 1992, 106 Stat. 4764. |
+| 300303 | [16 U.S.C. 470w(16)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/16&num=0&edition=prelim). | Pub. L. 89–665, title III, § 301(16), as added Pub. L. 102–575, title XL, § 4019(a), Oct. 30, 1992, 106 Stat. 4764. |
 
 
 <a id="section-300304"></a>
@@ -59,7 +59,7 @@ In this division, the term “cultural park” means a definable area that—
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 300304 | [16 U.S.C. 470w(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/9&num=0&edition=prelim) | Pub. L. 89–665, title III, § 301(9), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001; Pub. L. 102–575, title XL, § 4019(a)(7), Oct. 30, 1992, 106 Stat. 4764. |
+| 300304 | [16 U.S.C. 470w(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/9&num=0&edition=prelim). | Pub. L. 89–665, title III, § 301(9), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001; Pub. L. 102–575, title XL, § 4019(a)(7), Oct. 30, 1992, 106 Stat. 4764. |
 
 
 <a id="section-300305"></a>
@@ -80,7 +80,7 @@ In this division, the term “historic conservation district” means an area th
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 300305 | [16 U.S.C. 470w(10)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/10&num=0&edition=prelim) | Pub. L. 89–665, title III, § 301(10), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001; Pub. L. 102–575, title XL, § 4019(a)(8), Oct. 30, 1992, 106 Stat. 4764. |
+| 300305 | [16 U.S.C. 470w(10)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/10&num=0&edition=prelim). | Pub. L. 89–665, title III, § 301(10), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001; Pub. L. 102–575, title XL, § 4019(a)(8), Oct. 30, 1992, 106 Stat. 4764. |
 
 
 <a id="section-300306"></a>
@@ -93,7 +93,7 @@ In this division, the term “Historic Preservation Fund” means the Historic P
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 300306 | no source |  |
+| 300306 | no source. |  |
 
 
 <a id="section-300307"></a>
@@ -114,7 +114,7 @@ In this division, the term “historic preservation review commission” means a
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 300307 | [16 U.S.C. 470w(13)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/13&num=0&edition=prelim) | Pub. L. 89–665, title III, § 301(13), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3002; Pub. L. 102–575, title XL, § 4019(a)(11), Oct. 30, 1992, 106 Stat. 4764. |
+| 300307 | [16 U.S.C. 470w(13)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/13&num=0&edition=prelim). | Pub. L. 89–665, title III, § 301(13), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3002; Pub. L. 102–575, title XL, § 4019(a)(11), Oct. 30, 1992, 106 Stat. 4764. |
 
 
 <a id="section-300308"></a>
@@ -127,7 +127,7 @@ In this division, the term “historic property” means any prehistoric or hist
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 300308 | [16 U.S.C. 470w(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/5&num=0&edition=prelim) | Pub. L. 89–665, title III, § 301(5), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001; Pub. L. 102–575, title XL, § 4019(a)(4), Oct. 30, 1992, 106 Stat. 4764. |
+| 300308 | [16 U.S.C. 470w(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/5&num=0&edition=prelim). | Pub. L. 89–665, title III, § 301(5), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001; Pub. L. 102–575, title XL, § 4019(a)(4), Oct. 30, 1992, 106 Stat. 4764. |
 
 The words “historic resource” are omitted so that a uniform term is used throughout this division.
 
@@ -142,7 +142,7 @@ In this division, the term “Indian tribe” means an Indian tribe, band, natio
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 300309 | [16 U.S.C. 470w(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/4&num=0&edition=prelim) | Pub. L. 89–665, title III, § 301(4), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001; Pub. L. 102–575, title XL, § 4019(a)(3), Oct. 30, 1992, 106 Stat. 4763. |
+| 300309 | [16 U.S.C. 470w(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/4&num=0&edition=prelim). | Pub. L. 89–665, title III, § 301(4), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001; Pub. L. 102–575, title XL, § 4019(a)(3), Oct. 30, 1992, 106 Stat. 4763. |
 
 
 <a id="section-300310"></a>
@@ -155,7 +155,7 @@ In this division, the term “local government” means a city, county, township
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 300310 | [16 U.S.C. 470w(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/3&num=0&edition=prelim) | Pub. L. 89–665, title III, § 301(3), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001. |
+| 300310 | [16 U.S.C. 470w(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/3&num=0&edition=prelim). | Pub. L. 89–665, title III, § 301(3), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001. |
 
 The word “parish” is omitted as unnecessary because of [1 U.S.C. 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section2&num=0&edition=prelim).
 
@@ -170,7 +170,7 @@ In this division, the term “National Register” means the National Register o
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 300311 | [16 U.S.C. 470w(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/6&num=0&edition=prelim) | Pub. L. 89–665, title III, § 301(6), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001. |
+| 300311 | [16 U.S.C. 470w(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/6&num=0&edition=prelim). | Pub. L. 89–665, title III, § 301(6), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001. |
 
 
 <a id="section-300312"></a>
@@ -183,7 +183,7 @@ In this division, the term “National Trust” means the National Trust for His
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 300312 | no source |  |
+| 300312 | no source. |  |
 
 
 <a id="section-300313"></a>
@@ -196,7 +196,7 @@ In this division, the term “Native Hawaiian” means any individual who is a d
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 300313 | [16 U.S.C. 470w(17)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/17&num=0&edition=prelim) | Pub. L. 89–665, title III, § 301(17), as added Pub. L. 102–575, title XL, § 4019(a)(12), Oct. 30, 1992, 106 Stat. 4764. |
+| 300313 | [16 U.S.C. 470w(17)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/17&num=0&edition=prelim). | Pub. L. 89–665, title III, § 301(17), as added Pub. L. 102–575, title XL, § 4019(a)(12), Oct. 30, 1992, 106 Stat. 4764. |
 
 
 <a id="section-300314"></a>
@@ -216,7 +216,7 @@ In this division, the term “Native Hawaiian” means any individual who is a d
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 300314 | [16 U.S.C. 470w(18)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/18&num=0&edition=prelim) | Pub. L. 89–665, title III, § 301(18), as added Pub. L. 102–575, title XL, § 4019(a), Oct. 30, 1992, 106 Stat. 4764. |
+| 300314 | [16 U.S.C. 470w(18)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/18&num=0&edition=prelim). | Pub. L. 89–665, title III, § 301(18), as added Pub. L. 102–575, title XL, § 4019(a), Oct. 30, 1992, 106 Stat. 4764. |
 
 
 <a id="section-300315"></a>
@@ -235,7 +235,7 @@ In this division, the term “preservation” or “historic preservation” inc
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 300315 | [16 U.S.C. 470w(8)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/8&num=0&edition=prelim) | Pub. L. 89–665, title III, § 301(8), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001; Pub. L. 102–575, title XL, § 4019(a)(6), Oct. 30, 1992, 106 Stat. 4764. |
+| 300315 | [16 U.S.C. 470w(8)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/8&num=0&edition=prelim). | Pub. L. 89–665, title III, § 301(8), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001; Pub. L. 102–575, title XL, § 4019(a)(6), Oct. 30, 1992, 106 Stat. 4764. |
 
 
 <a id="section-300316"></a>
@@ -248,7 +248,7 @@ In this division, the term “Secretary” means the Secretary acting through th
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 300316 | [16 U.S.C. 470w(11)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/11&num=0&edition=prelim) | Pub. L. 89–665, title III, § 301(11), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001; Pub. L. 102–575, title XL, § 4019(a)(9), Oct. 30, 1992, 106 Stat. 4764. |
+| 300316 | [16 U.S.C. 470w(11)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/11&num=0&edition=prelim). | Pub. L. 89–665, title III, § 301(11), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001; Pub. L. 102–575, title XL, § 4019(a)(9), Oct. 30, 1992, 106 Stat. 4764. |
 
 
 <a id="section-300317"></a>
@@ -265,7 +265,7 @@ In this division, the term “State” means—
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 300317 | [16 U.S.C. 470w(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/2&num=0&edition=prelim) | Pub. L. 89–665, title III, § 301(2), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001; Pub. L. 102–575, title XL, § 4019(a)(2), Oct. 30, 1992, 106 Stat. 4763. |
+| 300317 | [16 U.S.C. 470w(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/2&num=0&edition=prelim). | Pub. L. 89–665, title III, § 301(2), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001; Pub. L. 102–575, title XL, § 4019(a)(2), Oct. 30, 1992, 106 Stat. 4763. |
 
 
 <a id="section-300318"></a>
@@ -292,7 +292,7 @@ In this division, the term “State historic preservation review board” means 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 300318 | [16 U.S.C. 470w(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/12&num=0&edition=prelim) | Pub. L. 89–665, title III, § 301(12), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001; Pub. L. 102–575, title XL, § 4019(a), Oct. 30, 1992, 106 Stat. 4764; Pub. L. 106–208, § 5(a)(10), May 26, 2000, 114 Stat. 319. |
+| 300318 | [16 U.S.C. 470w(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/12&num=0&edition=prelim). | Pub. L. 89–665, title III, § 301(12), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001; Pub. L. 102–575, title XL, § 4019(a), Oct. 30, 1992, 106 Stat. 4764; Pub. L. 106–208, § 5(a)(10), May 26, 2000, 114 Stat. 319. |
 
 
 <a id="section-300319"></a>
@@ -309,7 +309,7 @@ In this division, the term “tribal land” means—
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 300319 | [16 U.S.C. 470w(14)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/14&num=0&edition=prelim) | Pub. L. 89–665, title III, § 301(14), as added Pub. L. 102–575, title XL, § 4019(a)(12), Oct. 30, 1992, 106 Stat. 4764. |
+| 300319 | [16 U.S.C. 470w(14)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/14&num=0&edition=prelim). | Pub. L. 89–665, title III, § 301(14), as added Pub. L. 102–575, title XL, § 4019(a)(12), Oct. 30, 1992, 106 Stat. 4764. |
 
 
 <a id="section-300320"></a>
@@ -330,7 +330,7 @@ In this division, the term “undertaking” means a project, activity, or progr
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 300320 | [16 U.S.C. 470w(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/7&num=0&edition=prelim) | Pub. L. 89–665, title III, § 301(7), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001; Pub. L. 102–575, title XL, § 4019(a)(5), Oct. 30, 1992, 106 Stat. 4764. |
+| 300320 | [16 U.S.C. 470w(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/7&num=0&edition=prelim). | Pub. L. 89–665, title III, § 301(7), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3001; Pub. L. 102–575, title XL, § 4019(a)(5), Oct. 30, 1992, 106 Stat. 4764. |
 
 
 <a id="section-300321"></a>
@@ -343,6 +343,6 @@ In this division, the term “World Heritage Convention” means the Convention 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 300321 | no source |  |
+| 300321 | no source. |  |
 
-The words “the Trust Territory of the Pacific Islands .á.á. and, upon termination of the Trusteeship Agreement for the Trust Territories of the Pacific Islands” are omitted as obsolete. See note at 48 U.S.C. prec. 1681. For continued application of certain laws of the United States in certain cases, see the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America ([48 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1801&num=0&edition=prelim) note), the Compact of Free Association between the Government of the United States of America and the Governments of the Marshall Islands and the Federated States of Micronesia ([48 U.S.C. 1901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1901&num=0&edition=prelim) note), and the Compact of Free Association between the Government of the United States of America and the Government of Palau ([48 U.S.C. 1931](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1931&num=0&edition=prelim) note).
+The words “the Trust Territory of the Pacific Islands . . . and, upon termination of the Trusteeship Agreement for the Trust Territories of the Pacific Islands” are omitted as obsolete. See note at 48 U.S.C. prec. 1681. For continued application of certain laws of the United States in certain cases, see the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America ([48 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1801&num=0&edition=prelim) note), the Compact of Free Association between the Government of the United States of America and the Governments of the Marshall Islands and the Federated States of Micronesia ([48 U.S.C. 1901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1901&num=0&edition=prelim) note), and the Compact of Free Association between the Government of the United States of America and the Government of Palau ([48 U.S.C. 1931](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1931&num=0&edition=prelim) note).

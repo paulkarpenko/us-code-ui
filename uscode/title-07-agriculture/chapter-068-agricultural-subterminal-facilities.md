@@ -52,6 +52,9 @@ As used in this chapter, the term—
 #### References in Text
 This chapter, referred to in the introductory phrase, was in the original “this Act,” meaning Pub. L. 96–358, Sept. 25, 1980, 94 Stat. 1184, known as the Agricultural Subterminal Facilities Act of 1980, which enacted this chapter and amended [section 1932 of this title](./chapter-050-agricultural-credit.md#section-1932). For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of this title](./chapter-068-agricultural-subterminal-facilities.md#section-3701) and Tables.
 
+#### Effective Date
+Section effective Oct. 1, 1980, see section 6 of Pub. L. 96–358, set out as a note under [section 3701 of this title](./chapter-068-agricultural-subterminal-facilities.md#section-3701).
+
 
 <a id="section-3703"></a>
 ## § 3703. State and regional plans
@@ -114,3 +117,6 @@ Act of August 30, 1890 ([7 U.S.C. 321–326](https://uscode.house.gov/view.xhtml
 
 #### Codification
 In subsec. (d)(4), “[section 22102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section22102&num=0&edition=prelim)” substituted for “section 5(j) of the Department of Transportation Act ([49 U.S.C. 1654(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1654/j&num=0&edition=prelim))” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. Previously, section 5 of the Department of Transportation Act was amended generally by Pub. L. 101–213, § 2(c), Dec. 11, 1989, 103 Stat. 1843, and, as so amended, provisions of subsec. (j), relating to an adequate State plan, were set out in subsec. (a).
+
+#### Effective Date
+Section effective Oct. 1, 1980, see section 6 of Pub. L. 96–358, set out as a note under [section 3701 of this title](./chapter-068-agricultural-subterminal-facilities.md#section-3701).

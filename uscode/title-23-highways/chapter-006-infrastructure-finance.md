@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-601"></a>
 ## § 601. Generally applicable provisions
-**(a) Definitions.—** In this chapter, the following definitions apply:
+**(a) Definitions.—** The following definitions apply to sections 601 through 609:
 
 (1) **Contingent commitment.—** — The term “contingent commitment” means a commitment to obligate an amount from future available budget authority that is—
 
@@ -20,11 +20,13 @@ source: >-
 
   (A) development phase activities, including planning, feasibility analysis, revenue forecasting, environmental review, permitting, preliminary engineering and design work, and other preconstruction activities;
 
-  (B) construction, reconstruction, rehabilitation, replacement, and acquisition of real property (including land relating to the project and improvements to land), environmental mitigation, construction contingencies, and acquisition of equipment; and
+  (B) construction, reconstruction, rehabilitation, replacement, and acquisition of real property (including land relating to the project and improvements to land), environmental mitigation, construction contingencies, and acquisition of equipment;
 
-  (C) capitalized interest necessary to meet market requirements, reasonably required reserve funds, capital issuance expenses, and other carrying costs during construction.
+  (C) capitalized interest necessary to meet market requirements, reasonably required reserve funds, capital issuance expenses, and other carrying costs during construction; and
 
-(3) **Federal credit instrument.—** — The term “Federal credit instrument” means a secured loan, loan guarantee, or line of credit authorized to be made available under this chapter with respect to a project.
+  (D) capitalizing a rural projects fund.
+
+(3) **Federal credit instrument.—** — The term “Federal credit instrument” means a secured loan, loan guarantee, or line of credit authorized to be made available under the TIFIA program with respect to a project.
 
 (4) **Investment-grade rating.—** — The term “investment-grade rating” means a rating of BBB minus, Baa3, bbb minus, BBB (low), or higher assigned by a rating agency to project obligations.
 
@@ -58,9 +60,13 @@ source: >-
 
 (9) **Loan guarantee.—** — The term “loan guarantee” means any guarantee or other pledge by the Secretary to pay all or part of the principal of and interest on a loan or other debt obligation issued by an obligor and funded by a lender.
 
-(10) **Master credit agreement.—** — The term “master credit agreement” means an agreement to extend credit assistance for a program of projects secured by a common security pledge (which shall receive an investment grade rating from a rating agency), or for a single project covered under section 602(b)(2) that would—
+(10) **Master credit agreement.—** — The term “master credit agreement” means a conditional agreement to extend credit assistance for a program of related projects secured by a common security pledge covered under section 602(b)(2)(A) or for a single project covered under section 602(b)(2)(B) that does not provide for a current obligation of Federal funds, and that would—
 
-  (A) make contingent commitments of 1 or more secured loans or other Federal credit instruments at future dates, subject to the availability of future funds being made available to carry out this chapter;
+  (A) make contingent commitments of 1 or more secured loans or other Federal credit instruments at future dates, subject to—
+
+    (i) the availability of future funds being made available to carry out the TIFIA program; and
+
+    (ii) the satisfaction of all of the conditions for the provision of credit assistance under the TIFIA program, including section 603(b)(1);
 
   (B) establish the maximum amounts and general terms and conditions of the secured loans or other Federal credit instruments;
 
@@ -70,9 +76,11 @@ source: >-
 
     (i) completion of an environmental impact statement or similar analysis required under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.);
 
-    (ii) compliance with such other requirements as are specified in section 602(c); and
+    (ii) receiving an investment grade rating from a rating agency;
 
-    (iii) the availability of funds to carry out this chapter; and
+    (iii) compliance with such other requirements as are specified under the TIFIA program, including sections 602(c) and 603(b)(1); and
+
+    (iv) the availability of funds to carry out the TIFIA program; and
 
   (E) require that contingent commitments result in a financial close and obligation of credit assistance not later than 3 years after the date of entry into the master credit agreement, or release of the commitment, unless otherwise extended by the Secretary.
 
@@ -88,7 +96,7 @@ source: >-
 
   (B) a project for an international bridge or tunnel for which an international entity authorized under Federal or State law is responsible;
 
-  (C) a project for intercity passenger bus or rail facilities and vehicles, including facilities and vehicles owned by the National Railroad Passenger Corporation and components of magnetic levitation transportation systems; and
+  (C) a project for intercity passenger bus or rail facilities and vehicles, including facilities and vehicles owned by the National Railroad Passenger Corporation and components of magnetic levitation transportation systems;
 
   (D) a project that—
 
@@ -108,31 +116,45 @@ source: >-
 
     (iii) if located within the boundaries of a port terminal, includes only such surface transportation infrastructure modifications as are necessary to facilitate direct intermodal interchange, transfer, and access into and out of the port; and
 
-    (iv) is composed of related highway, surface transportation, transit, rail, or intermodal capital improvement projects eligible for assistance under this section in order to meet the eligible project cost threshold under section 602, by grouping related projects together for that purpose, subject to the condition that the credit assistance for the projects is secured by a common pledge.
+    (iv) is composed of related highway, surface transportation, transit, rail, or intermodal capital improvement projects eligible for assistance under this section in order to meet the eligible project cost threshold under section 602, by grouping related projects together for that purpose, subject to the condition that the credit assistance for the projects is secured by a common pledge;
+
+  (E) a project to improve or construct public infrastructure that is located within walking distance of, and accessible to, a fixed guideway transit facility, passenger rail station, intercity bus station, or intermodal facility, including a transportation, public utility, or capital project described in [section 5302(3)(G)(v) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5302/3/G/v&num=0&edition=prelim), and related infrastructure; and
+
+  (F) the capitalization of a rural projects fund.
 
 (13) **Project obligation.—** — The term “project obligation” means any note, bond, debenture, or other debt obligation issued by an obligor in connection with the financing of a project, other than a Federal credit instrument.
 
 (14) **Rating agency.—** — The term “rating agency” means a credit rating agency registered with the Securities and Exchange Commission as a nationally recognized statistical rating organization (as that term is defined in section 3(a) of the Securities Exchange Act of 1934 ([15 U.S.C. 78c(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a&num=0&edition=prelim))).
 
-(15) **Rural infrastructure project.—** — The term “rural infrastructure project” means a surface transportation infrastructure project located in any area other than a city with a population of more than 250,000 inhabitants within the city limits.
+(15) **Rural infrastructure project.—** — The term “rural infrastructure project” means a surface transportation infrastructure project located in an area that is outside of an urbanized area with a population greater than 150,000 individuals, as determined by the Bureau of the Census.
 
-(16) **Secured loan.—** — The term “secured loan” means a direct loan or other debt obligation issued by an obligor and funded by the Secretary in connection with the financing of a project under section 603.
+(16) **Rural projects fund.—** — The term “rural projects fund” means a fund—
 
-(17) **State.—** — The term “State” has the meaning given the term in section 101.
+  (A) established by a State infrastructure bank in accordance with section 610(d)(4);
 
-(18) **Subsidy amount.—** — The term “subsidy amount” means the amount of budget authority sufficient to cover the estimated long-term cost to the Federal Government of a Federal credit instrument—
+  (B) capitalized with the proceeds of a secured loan made to the bank in accordance with sections 602 and 603; and
+
+  (C) for the purpose of making loans to sponsors of rural infrastructure projects in accordance with section 610.
+
+(17) **Secured loan.—** — The term “secured loan” means a direct loan or other debt obligation issued by an obligor and funded by the Secretary in connection with the financing of a project under section 603.
+
+(18) **State.—** — The term “State” has the meaning given the term in section 101.
+
+(19) **State infrastructure bank.—** — The term “State infrastructure bank” means an infrastructure bank established under section 610.
+
+(20) **Subsidy amount.—** — The term “subsidy amount” means the amount of budget authority sufficient to cover the estimated long-term cost to the Federal Government of a Federal credit instrument—
 
   (A) calculated on a net present value basis; and
 
   (B) excluding administrative costs and any incidental effects on governmental receipts or outlays in accordance with the Federal Credit Reform Act of 1990 ([2 U.S.C. 661](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim) et seq.).
 
-(19) **Substantial completion.—** — The term “substantial completion” means—
+(21) **Substantial completion.—** — The term “substantial completion” means—
 
   (A) the opening of a project to vehicular or passenger traffic; or
 
   (B) a comparable event, as determined by the Secretary and specified in the credit agreement.
 
-(20) **TIFIA program.—** — The term “TIFIA program” means the transportation infrastructure finance and innovation program of the Department.
+(22) **TIFIA program.—** — The term “TIFIA program” means the transportation infrastructure finance and innovation program of the Department established under sections 602 through 609.
 
 **(b) Treatment of Chapter.—** For purposes of this title, this chapter shall be treated as being part of chapter 1.
 
@@ -145,9 +167,31 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(5), is set out in 
 
 The National Environmental Policy Act of 1969, referred to in subsec. (a)(10)(D)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
-The Federal Credit Reform Act of 1990, referred to in subsec. (a)(18)(B), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (a)(20)(B), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–94, § 2001(a)(1), in introductory provisions, substituted “The” for “In this chapter, the” and inserted “to sections 601 through 609” after “apply”.
+
+Subsec. (a)(2)(D). Pub. L. 114–94, § 2001(a)(2), added subpar. (D).
+
+Subsec. (a)(3). Pub. L. 114–94, § 2001(a)(3), substituted “the TIFIA program” for “this chapter”.
+
+Subsec. (a)(10). Pub. L. 114–94, § 2001(a)(4)(A), inserted heading and introductory provisions and struck out former heading and introductory provisions. Prior to amendment, introductory provisions read as follows: “The term ‘master credit agreement’ means an agreement to extend credit assistance for a program of projects secured by a common security pledge (which shall receive an investment grade rating from a rating agency), or for a single project covered under section 602(b)(2) that would—”.
+
+Subsec. (a)(10)(A). Pub. L. 114–94, § 2001(a)(4)(B), substituted “subject to—” for “subject to the availability of future funds being made available to carry out this chapter;” and added cls. (i) and (ii).
+
+Subsec. (a)(10)(D)(ii). Pub. L. 114–94, § 2001(a)(4)(C)(ii), added cl. (ii). Former cl. (ii) redesignated (iii).
+
+Subsec. (a)(10)(D)(iii). Pub. L. 114–94, § 2001(a)(4)(C)(i), (iii), redesignated cl. (ii) as (iii) and substituted “under the TIFIA program, including sections 602(c) and 603(b)(1)” for “in section 602(c)”. Former cl. (iii) redesignated (iv).
+
+Subsec. (a)(10)(D)(iv). Pub. L. 114–94, § 2001(a)(4)(C)(i), (iv), redesignated cl. (iii) as (iv) and substituted “the TIFIA program” for “this chapter”.
+
+Subsec. (a)(12)(E), (F). Pub. L. 114–94, § 2001(a)(5), added subpars. (E) and (F).
+
+Subsec. (a)(15). Pub. L. 114–94, § 2001(a)(6), substituted “means a surface transportation infrastructure project located in an area that is outside of an urbanized area with a population greater than 150,000 individuals, as determined by the Bureau of the Census.” for “means a surface transportation infrastructure project located in any area other than a city with a population of more than 250,000 inhabitants within the city limits.”
+
+Subsec. (a)(16) to (22). Pub. L. 114–94, § 2001(a)(7)–(10), added pars. (16) and (19), redesignated former pars. (16), (17), (18), (19), and (20) as pars. (17), (18), (20), (21), and (22), respectively, and inserted “established under sections 602 through 609” after “Department” in par. (22).
+
 2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to generally applicable provisions.
 
 2008—Subsec. (a)(3). Pub. L. 110–244 inserted “bbb minus, BBB (low),” after “Baa3,”.
@@ -174,8 +218,14 @@ Par. (10). Pub. L. 109–59, § 1601(a)(2), (4), redesignated par. (11) as (10) 
 
 Pars. (11) to (15). Pub. L. 109–59, § 1601(a)(2), redesignated pars. (12) to (15) as (11) to (14), respectively. Former par. (11) redesignated (10).
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
+
+#### Regional Infrastructure Accelerator Demonstration Program
+Pub. L. 114–94, div. A, title I, § 1441, Dec. 4, 2015, 129 Stat. 1435, provided that: “(a) In General.—The Secretary [of Transportation] shall establish a regional infrastructure demonstration program (referred to in this section as the ‘program’) to assist entities in developing improved infrastructure priorities and financing strategies for the accelerated development of a project that is eligible for funding under the TIFIA program under chapter 6 of title 23, United States Code. “(b) Designation of Regional Infrastructure Accelerators.—In carrying out the program, the Secretary may designate regional infrastructure accelerators that will—“(1) serve a defined geographic area; and “(2) act as a resource in the geographic area to qualified entities in accordance with this section. “(c) Application.—To be eligible for a designation under subsection (b), a proposed regional infrastructure accelerator shall submit to the Secretary a proposal at such time, in such manner, and containing such information as the Secretary may require. “(d) Criteria.—In evaluating a proposal submitted under subsection (c), the Secretary shall consider—“(1) the need for geographic diversity among regional infrastructure accelerators; and “(2) the ability of the proposal to promote investment in covered infrastructure projects, which shall include a plan—“(A) to evaluate and promote innovative financing methods for local projects, including the use of the TIFIA program under chapter 6 of title 23, United States Code; “(B) to build capacity of State, local, and tribal governments to evaluate and structure projects involving the investment of private capital; “(C) to provide technical assistance and information on best practices with respect to financing the projects; “(D) to increase transparency with respect to infrastructure project analysis and using innovative financing for public infrastructure projects; “(E) to deploy predevelopment capital programs designed to facilitate the creation of a pipeline of infrastructure projects available for investment; “(F) to bundle smaller-scale and rural projects into larger proposals that may be more attractive for investment; and “(G) to reduce transaction costs for public project sponsors. “(e) Annual Report.—Not less frequently than once each year, the Secretary shall submit to Congress a report that describes the findings and effectiveness of the program. “(f) Authorization of Appropriations.—There is authorized to be appropriated to carry out the program $12,000,000, of which the Secretary shall use—“(1) $11,750,000 for initial grants to regional infrastructure accelerators under subsection (b); and “(2) $250,000 for administrative costs of carrying out the program.”
 
 #### Congressional Findings
 Pub. L. 105–178, title I, § 1502, June 9, 1998, 112 Stat. 241, provided that: “Congress finds that— “(1) a well-developed system of transportation infrastructure is critical to the economic well-being, health, and welfare of the people of the United States; “(2) traditional public funding techniques such as grant programs are unable to keep pace with the infrastructure investment needs of the United States because of budgetary constraints at the Federal, State, and local levels of government; “(3) major transportation infrastructure facilities that address critical national needs, such as intermodal facilities, border crossings, and multistate trade corridors, are of a scale that exceeds the capacity of Federal and State assistance programs in effect on the date of enactment of this Act [June 9, 1998]; “(4) new investment capital can be attracted to infrastructure projects that are capable of generating their own revenue streams through user charges or other dedicated funding sources; and “(5) a Federal credit program for projects of national significance can complement existing funding resources by filling market gaps, thereby leveraging substantial private co-investment.”
@@ -190,7 +240,7 @@ Pub. L. 104–59, title III, § 350, Nov. 28, 1995, 109 Stat. 618, provided that
 ## § 602. Determination of eligibility and project selection
 **(a) Eligibility.—**
 
-(1) **In general.—** — A project shall be eligible to receive credit assistance under this chapter if—
+(1) **In general.—** — A project shall be eligible to receive credit assistance under the TIFIA program if—
 
   (A) the entity proposing to carry out the project submits a letter of interest prior to submission of a formal application for the project; and
 
@@ -198,7 +248,7 @@ Pub. L. 104–59, title III, § 350, Nov. 28, 1995, 109 Stat. 618, provided that
 
 (2) **Creditworthiness.—**
 
-  (A) *In general.—* — To be eligible for assistance under this chapter, a project shall satisfy applicable creditworthiness standards, which, at a minimum, shall include—
+  (A) *In general.—* — To be eligible for assistance under the TIFIA program, a project shall satisfy applicable creditworthiness standards, which, at a minimum, shall include—
 
     (i) a rate covenant, if applicable;
 
@@ -210,23 +260,33 @@ Pub. L. 104–59, title III, § 350, Nov. 28, 1995, 109 Stat. 618, provided that
 
   (B) *Senior debt.—* — Notwithstanding subparagraph (A), in a case in which the Federal credit instrument is the senior debt, the Federal credit instrument shall be required to receive an investment grade rating from at least 2 rating agencies, unless the credit instrument is for an amount less than $75,000,000, in which case 1 rating agency opinion shall be sufficient.
 
-(3) **Inclusion in transportation plans and programs.—** — A project shall satisfy the applicable planning and programming requirements of sections 134 and 135 at such time as an agreement to make available a Federal credit instrument is entered into under this chapter.
+(3) **Inclusion in transportation plans and programs.—** — A project shall satisfy the applicable planning and programming requirements of sections 134 and 135 at such time as an agreement to make available a Federal credit instrument is entered into under the TIFIA program.
 
 (4) **Application.—** — A State, local government, public authority, public-private partnership, or any other legal entity undertaking the project and authorized by the Secretary shall submit a project application that is acceptable to the Secretary.
 
-(5) **Eligible project costs.—**
+(5) **Eligible project cost parameters.—**
 
-  (A) *In general.—* — Except as provided in subparagraph (B), to be eligible for assistance under this chapter, a project shall have eligible project costs that are reasonably anticipated to equal or exceed the lesser of—
+  (A) *In general.—* — Except as provided in subparagraph (B), a project under the TIFIA program shall have eligible project costs that are reasonably anticipated to equal or exceed the lesser of—
 
-    (i)
+    (i) $50,000,000; and
 
-      (I) $50,000,000; or
+    (ii) 33⅓ percent of the amount of Federal highway funds apportioned for the most recently completed fiscal year to the State in which the project is located.
 
-      (II) in the case of a rural infrastructure project, $25,000,000; and
+  (B) *Exceptions.—*
 
-    (ii) 33⅓ percent of the amount of Federal highway assistance funds apportioned for the most recently completed fiscal year to the State in which the project is located.
+    (i) *Intelligent transportation systems.—* — In the case of a project principally involving the installation of an intelligent transportation system, eligible project costs shall be reasonably anticipated to equal or exceed $15,000,000.
 
-  (B) *Intelligent transportation system projects.—* — In the case of a project principally involving the installation of an intelligent transportation system, eligible project costs shall be reasonably anticipated to equal or exceed $15,000,000.
+    (ii) *Transit-oriented development projects.—* — In the case of a project described in section 601(a)(12)(E), eligible project costs shall be reasonably anticipated to equal or exceed $10,000,000.
+
+    (iii) *Rural projects.—* — In the case of a rural infrastructure project or a project capitalizing a rural projects fund, eligible project costs shall be reasonably anticipated to equal or exceed $10,000,000, but not to exceed $100,000,000.
+
+    (iv) *Local infrastructure projects.—* — Eligible project costs shall be reasonably anticipated to equal or exceed $10,000,000 in the case of a project or program of projects—
+
+      (I) in which the applicant is a local government, public authority, or instrumentality of local government;
+
+      (II) located on a facility owned by a local government; or
+
+      (III) for which the Secretary determines that a local government is substantially involved in the development of the project.
 
 (6) **Dedicated revenue sources.—** — The applicable Federal credit instrument shall be repayable, in whole or in part, from—
 
@@ -246,7 +306,7 @@ Pub. L. 104–59, title III, § 350, Nov. 28, 1995, 109 Stat. 618, provided that
 
   (B) identified later through completion of a procurement and selection of the private party.
 
-(9) **Beneficial effects.—** — The Secretary shall determine that financial assistance for the project under this chapter will—
+(9) **Beneficial effects.—** — The Secretary shall determine that financial assistance for the project under the TIFIA program will—
 
   (A) foster, if appropriate, partnerships that attract public and private investment for the project;
 
@@ -254,17 +314,21 @@ Pub. L. 104–59, title III, § 350, Nov. 28, 1995, 109 Stat. 618, provided that
 
   (C) reduce the contribution of Federal grant assistance for the project.
 
-(10) **Project readiness.—** — To be eligible for assistance under this chapter, the applicant shall demonstrate a reasonable expectation that the contracting process for construction of the project can commence by not later than 90 days after the date on which a Federal credit instrument is obligated for the project under this chapter.
+(10) **Project readiness.—**
+
+  (A) *In general.—* — Except as provided in subparagraph (B), to be eligible for assistance under the TIFIA program, the applicant shall demonstrate a reasonable expectation that the contracting process for construction of the project can commence by no later than 90 days after the date on which a Federal credit instrument is obligated for the project under the TIFIA program.
+
+  (B) *Rural projects fund.—* — In the case of a project capitalizing a rural projects fund, the State infrastructure bank shall demonstrate, not later than 2 years after the date on which a secured loan is obligated for the project under the TIFIA program, that the bank has executed a loan agreement with a borrower for a rural infrastructure project in accordance with section 610. After the demonstration is made, the bank may draw upon the secured loan. At the end of the 2-year period, to the extent the bank has not used the loan commitment, the Secretary may extend the term of the loan or withdraw the loan commitment.
 
 **(b) Selection Among Eligible Projects.—**
 
 (1) **Establishment.—** — The Secretary shall establish a rolling application process under which projects that are eligible to receive credit assistance under subsection (a) shall receive credit assistance on terms acceptable to the Secretary, if adequate funds are available to cover the subsidy costs associated with the Federal credit instrument.
 
-(2) **Adequate funding not available.—** — If the Secretary fully obligates funding to eligible projects in a fiscal year, and adequate funding is not available to fund a credit instrument, a project sponsor of an eligible project may elect to enter into a master credit agreement and wait until the earlier of—
+(2) **Master credit agreements.—**
 
-  (A) the following fiscal year; and
+  (A) *Program of related projects.—* — The Secretary may enter into a master credit agreement for a program of related projects secured by a common security pledge on terms acceptable to the Secretary.
 
-  (B) the fiscal year during which additional funds are available to receive credit assistance.
+  (B) *Adequate funding not available.—* — If the Secretary fully obligates funding to eligible projects for a fiscal year and adequate funding is not available to fund a credit instrument, a project sponsor of an eligible project may elect to enter into a master credit agreement and wait to execute a credit instrument until the fiscal year for which additional funds are available to receive credit assistance.
 
 (3) **Preliminary rating opinion letter.—** — The Secretary shall require each project applicant to provide a preliminary rating opinion letter from at least 1 rating agency—
 
@@ -274,7 +338,7 @@ Pub. L. 104–59, title III, § 350, Nov. 28, 1995, 109 Stat. 618, provided that
 
 **(c) Federal Requirements.—**
 
-(1) **In general.—** — In addition to the requirements of this title for highway projects, the requirements of chapter 53 of title 49 for transit projects, and the requirements of [section 5333(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5333/a&num=0&edition=prelim) for rail projects, the following provisions of law shall apply to funds made available under this chapter and projects assisted with those funds:
+(1) **In general.—** — In addition to the requirements of this title for highway projects, the requirements of chapter 53 of title 49 for transit projects, and the requirements of [section 5333(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5333/a&num=0&edition=prelim) for rail projects, the following provisions of law shall apply to funds made available under the TIFIA program and projects assisted with those funds:
 
   (A) Title VI of the Civil Rights Act of 1964 ([42 U.S.C. 2000d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d&num=0&edition=prelim) et seq.).
 
@@ -294,7 +358,7 @@ Pub. L. 104–59, title III, § 350, Nov. 28, 1995, 109 Stat. 618, provided that
 
 (2) **Approval or denial of application.—** — Not later than 60 days after the date of issuance of the written notice under paragraph (1), the Secretary shall provide to the applicant a written notice informing the applicant whether the Secretary has approved or disapproved the application.
 
-**(e) Development Phase Activities.—** Any credit instrument secured under this chapter may be used to finance up to 100 percent of the cost of development phase activities as described in section 601(a)(1)(A).
+**(e) Development Phase Activities.—** Any credit instrument secured under the TIFIA program may be used to finance up to 100 percent of the cost of development phase activities as described in section 601(a)(1)(A).
 
 ### Statutory Notes
 
@@ -306,6 +370,34 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(B),
 The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (c)(1)(C), is act Jan. 2, 1971, Pub. L. 91–646, 84 Stat. 1894, and which is classified principally to chapter 61 (§ 4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4601&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (a)(1), (2)(A), (3). Pub. L. 114–94, § 2001(b)(1)(A)–(C), substituted “the TIFIA program” for “this chapter”.
+
+Subsec. (a)(5). Pub. L. 114–94, § 2001(b)(1)(D)(i), substituted “Eligible project cost parameters” for “Eligible project costs” in heading.
+
+Subsec. (a)(5)(A). Pub. L. 114–94, § 2001(b)(1)(D)(ii)(I), substituted “subparagraph (B), a project under the TIFIA program” for “subparagraph (B), to be eligible for assistance under this chapter, a project” in introductory provisions.
+
+Subsec. (a)(5)(A)(i). Pub. L. 114–94, § 2001(b)(1)(D)(ii)(II), added cl. (i) and struck out former cl. (i) which read as follows:
+
+“(I) $50,000,000; or
+
+“(II) in the case of a rural infrastructure project, $25,000,000; and”.
+
+Subsec. (a)(5)(A)(ii). Pub. L. 114–94, § 2001(b)(1)(D)(ii)(III), struck out “assistance” after “highway”.
+
+Subsec. (a)(5)(B). Pub. L. 114–94, § 2001(b)(1)(D)(iii), substituted “Exceptions” for “Intelligent transportation system projects” in heading, designated existing provisions as cl. (i), inserted cl. (i) heading, and added cls. (ii) to (iv).
+
+Subsec. (a)(9). Pub. L. 114–94, § 2001(b)(1)(E), substituted “the TIFIA program” for “this chapter” in introductory provisions.
+
+Subsec. (a)(10). Pub. L. 114–94, § 2001(b)(1)(F), designated existing provisions as subpar. (A), inserted subpar. (A) heading, substituted “Except as provided in subparagraph (B), to be eligible” for “To be eligible”, “the TIFIA program” for “this chapter” in two places, and “no later than” for “not later than”, and added subpar. (B).
+
+Subsec. (b)(2). Pub. L. 114–94, § 2001(b)(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “If the Secretary fully obligates funding to eligible projects in a fiscal year, and adequate funding is not available to fund a credit instrument, a project sponsor of an eligible project may elect to enter into a master credit agreement and wait until the earlier of—
+
+“(A) the following fiscal year; and
+
+“(B) the fiscal year during which additional funds are available to receive credit assistance.”
+
+Subsecs. (c)(1), (e). Pub. L. 114–94, § 2001(b)(3), (4), substituted “the TIFIA program” for “this chapter”.
+
 2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to determination of eligibility and project selection, consisting of subsecs. (a) to (c).
 
 2005—Pub. L. 109–59, § 1602(d), renumbered [section 182 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section182&num=0&edition=prelim) as this section.
@@ -342,6 +434,9 @@ Subsec. (b)(2)(B). Pub. L. 109–59, § 1601(c)(2), inserted “, which may be t
 
 Subsec. (c). Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter” in introductory provisions.
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
@@ -364,7 +459,11 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
     (ii) otherwise meets the requirements of section 602.
 
-(2) **Limitation on refinancing of interim construction financing.—** — A loan under paragraph (1) shall not refinance interim construction financing under paragraph (1)(B) later than 1 year after the date of substantial completion of the project.
+(2) **Limitation on refinancing of interim construction financing.—** — A loan under paragraph (1) shall not refinance interim construction financing under paragraph (1)(B)—
+
+  (A) if the maturity of such interim construction financing is later than 1 year after the substantial completion of the project; and
+
+  (B) later than 1 year after the date of substantial completion of the project.
 
 (3) **Risk assessment.—** — Before entering into an agreement under this subsection, the Secretary, in consultation with the Director of the Office of Management and Budget, shall determine an appropriate capital reserve subsidy amount for each secured loan, taking into account each rating letter provided by an agency under section 602(b)(3)(B).
 
@@ -372,7 +471,11 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 (1) **In general.—** — A secured loan under this section with respect to a project shall be on such terms and conditions and contain such covenants, representations, warranties, and requirements (including requirements for audits) as the Secretary determines to be appropriate.
 
-(2) **Maximum amount.—** — The amount of a secured loan under this section shall not exceed the lesser of 49 percent of the reasonably anticipated eligible project costs or if the secured loan does not receive an investment grade rating, the amount of the senior project obligations.
+(2) **Maximum amount.—**
+
+  (A) *In general.—* — Except as provided in subparagraph (B), the amount of a secured loan under this section shall not exceed the lesser of 49 percent of the reasonably anticipated eligible project costs or if the secured loan does not receive an investment grade rating, the amount of the senior project obligations.
+
+  (B) *Rural projects fund.—* — In the case of a project capitalizing a rural projects fund, the maximum amount of a secured loan made to a State infrastructure bank shall be determined in accordance with section 602(a)(5)(B)(iii).
 
 (3) **Payment.—** — A secured loan under this section—
 
@@ -384,9 +487,11 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
       (II) user fees;
 
-      (III) payments owing to the obligor under a public-private partnership; or
+      (III) payments owing to the obligor under a public-private partnership;
 
-      (IV) other dedicated revenue sources that also secure the senior project obligations; and
+      (IV) other dedicated revenue sources that also secure the senior project obligations; or
+
+      (V) in the case of a secured loan for a project capitalizing a rural projects fund, any other dedicated revenue sources available to a State infrastructure bank, including repayments from loans made by the bank for rural infrastructure projects; and
 
     (ii) include a rate covenant, coverage requirement, or similar security feature supporting the project obligations; and
 
@@ -398,9 +503,9 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
   (B) *Rural infrastructure projects.—*
 
-    (i) *In general.—* — The interest rate of a loan offered to a rural infrastructure project under this chapter shall be at ½ of the Treasury Rate in effect on the date of execution of the loan agreement.
+    (i) *In general.—* — The interest rate of a loan offered to a rural infrastructure project or a rural projects fund under the TIFIA program shall be at ½ of the Treasury Rate in effect on the date of execution of the loan agreement.
 
-    (ii) *Application.—* — The rate described in clause (i) shall only apply to any portion of a loan the subsidy cost of which is funded by amounts set aside for rural infrastructure projects under section 608(a)(3)(A).
+    (ii) *Application.—* — The rate described in clause (i) shall only apply to any portion of a loan the subsidy cost of which is funded by amounts set aside for rural infrastructure projects and rural project funds under section 608(a)(3)(A).
 
   (C) *Limited buydowns.—* — The interest rate of a secured loan under this section may not be lowered by more than the lower of—
 
@@ -408,11 +513,15 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
     (ii) the amount of the increase in the interest rate.
 
-(5) **Maturity date.—** — The final maturity date of the secured loan shall be the lesser of—
+(5) **Maturity date.—**
 
-  (A) 35 years after the date of substantial completion of the project; and
+  (A) *In general.—* — Except as provided in subparagraph (B), the final maturity date of the secured loan shall be the lesser of—
 
-  (B) if the useful life of the capital asset being financed is of a lesser period, the useful life of the asset.
+    (i) 35 years after the date of substantial completion of the project; and
+
+    (ii) if the useful life of the capital asset being financed is of a lesser period, the useful life of the asset.
+
+  (B) *Rural projects fund.—* — In the case of a project capitalizing a rural projects fund, the final maturity date of the secured loan shall not exceed 35 years after the date on which the secured loan is obligated.
 
 (6) **Nonsubordination.—**
 
@@ -436,9 +545,13 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 (7) **Fees.—** — The Secretary may establish fees at a level sufficient to cover all or a portion of the costs to the Federal Government of making a secured loan under this section.
 
-(8) **Non-federal share.—** — The proceeds of a secured loan under this chapter may be used for any non-Federal share of project costs required under this title or chapter 53 of title 49, if the loan is repayable from non-Federal funds.
+(8) **Non-federal share.—** — The proceeds of a secured loan under the TIFIA program may be used for any non-Federal share of project costs required under this title or chapter 53 of title 49, if the loan is repayable from non-Federal funds.
 
-(9) **Maximum federal involvement.—** — The total Federal assistance provided on a project receiving a loan under this chapter shall not exceed 80 percent of the total project cost.
+(9) **Maximum federal involvement.—**
+
+  (A) *In general.—* — The total Federal assistance provided for a project receiving a loan under the TIFIA program shall not exceed 80 percent of the total project cost.
+
+  (B) *Rural projects fund.—* — A project capitalizing a rural projects fund shall satisfy subparagraph (A) through compliance with the Federal share requirement described in section 610(e)(3)(B).
 
 **(c) Repayment.—**
 
@@ -484,9 +597,42 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 (2) **Terms.—** — The terms of a loan guarantee under paragraph (1) shall be consistent with the terms required under this section for a secured loan, except that the rate on the guaranteed loan and any prepayment features shall be negotiated between the obligor and the lender, with the consent of the Secretary.
 
+**(f) Streamlined Application Process.—**
+
+(1) **In general.—** — Not later than 180 days after the date of enactment of the FAST Act, the Secretary shall make available an expedited application process or processes available at the request of entities seeking secured loans under the TIFIA program that use a set or sets of conventional terms established pursuant to this section.
+
+(2) **Terms.—** — In establishing the streamlined application process required by this subsection, the Secretary may include terms commonly included in prior credit agreements and allow for an expedited application period, including—
+
+  (A) the secured loan is in an amount of not greater than $100,000,000;
+
+  (B) the secured loan is secured and payable from pledged revenues not affected by project performance, such as a tax-backed revenue pledge, tax increment financing, or a system-backed pledge of project revenues; and
+
+  (C) repayment of the loan commences not later than 5 years after disbursement.
+
 ### Statutory Notes
 
+#### References in Text
+The date of enactment of the FAST Act, referred to in subsec. (f)(1), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
 #### Amendments
+2015—Subsec. (a)(2). Pub. L. 114–94, § 2001(c)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “A loan under paragraph (1) shall not refinance interim construction financing under paragraph (1)(B) later than 1 year after the date of substantial completion of the project.”
+
+Subsec. (b)(2). Pub. L. 114–94, § 2001(c)(2)(A), designated existing provisions as subpar. (A), inserted subpar. (A) heading, substituted “Except as provided in subparagraph (B), the amount of” for “The amount of”, and added subpar. (B).
+
+Subsec. (b)(3)(A)(i)(V). Pub. L. 114–94, § 2001(c)(2)(B), added subcl. (V).
+
+Subsec. (b)(4)(B)(i). Pub. L. 114–94, § 2001(c)(2)(C)(i), substituted “or a rural projects fund under the TIFIA program” for “under this chapter”.
+
+Subsec. (b)(4)(B)(ii). Pub. L. 114–94, § 2001(c)(2)(C)(ii), inserted “and rural project funds” after “rural infrastructure projects”.
+
+Subsec. (b)(5). Pub. L. 114–94, § 2001(c)(2)(D), designated existing provisions as subpar. (A) and inserted heading, substituted “Except as provided in subparagraph (B), the final” for “The final”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+
+Subsec. (b)(8). Pub. L. 114–94, § 2001(c)(2)(E), substituted “the TIFIA program” for “this chapter”.
+
+Subsec. (b)(9). Pub. L. 114–94, § 2001(c)(2)(F), designated existing provisions as subpar. (A) and inserted heading, substituted “The total Federal assistance provided for a project receiving a loan under the TIFIA program” for “The total Federal assistance provided on a project receiving a loan under this chapter”, and added subpar. (B).
+
+Subsec. (f). Pub. L. 114–94, § 2001(c)(3), added subsec. (f).
+
 2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to secured loans.
 
 2005—Pub. L. 109–59, § 1602(d), renumbered [section 183 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section183&num=0&edition=prelim) as this section.
@@ -510,6 +656,9 @@ Subsec. (b)(4). Pub. L. 109–59, § 1601(d)(3)(C), struck out “marketable” 
 Subsec. (b)(8). Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter”.
 
 Subsec. (c)(3) to (5). Pub. L. 109–59, § 1601(d)(4), redesignated pars. (4) and (5) as (3) and (4), respectively, in par. (3)(A), struck out “during the 10 years” after “at any time”, in par. (3)(B)(ii), substituted “loan” for “loan beginning not later than 10 years after the date of substantial completion of the project in accordance with paragraph (1)”, and struck out heading and text of former par. (3). Text read as follows: “The sources of funds for scheduled loan repayments under this section shall include tolls, user fees, or other dedicated revenue sources.”
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
@@ -646,7 +795,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 <a id="section-605"></a>
 ## § 605. Program administration
-**(a) Requirement.—** The Secretary shall establish a uniform system to service the Federal credit instruments made available under this chapter.
+**(a) Requirement.—** The Secretary shall establish a uniform system to service the Federal credit instruments made available under the TIFIA program.
 
 **(b) Fees.—** The Secretary may collect and spend fees, contingent on authority being provided in appropriations Acts, at a level that is sufficient to cover—
 
@@ -664,11 +813,21 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 **(d) Assistance From Expert Firms.—** The Secretary may retain the services of expert firms, including counsel, in the field of municipal and project finance to assist in the underwriting and servicing of Federal credit instruments.
 
-**(e) Expedited Processing.—** The Secretary shall implement procedures and measures to economize the time and cost involved in obtaining approval and the issuance of credit assistance under this chapter.
+**(e) Expedited Processing.—** The Secretary shall implement procedures and measures to economize the time and cost involved in obtaining approval and the issuance of credit assistance under the TIFIA program.
+
+**(f) Assistance to Small Projects.—**
+
+(1) **Reservation of funds.—** — Of the funds made available to carry out the TIFIA program for each fiscal year, and after the set aside under section 608(a)(5), not less than $2,000,000 shall be made available for the Secretary to use in lieu of fees collected under subsection (b) for projects under the TIFIA program having eligible project costs that are reasonably anticipated not to equal or exceed $75,000,000.
+
+(2) **Release of funds.—** — Any funds not used under paragraph (1) in a fiscal year shall be made available on October 1 of the following fiscal year to provide credit assistance to any project under the TIFIA program.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsecs. (a), (e). Pub. L. 114–94, § 2001(d)(1), substituted “the TIFIA program” for “this chapter”.
+
+Subsec. (f). Pub. L. 114–94, § 2001(d)(2), added subsec. (f).
+
 2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to program administration, consisting of subsecs. (a) to (d).
 
 2005—Pub. L. 109–59, § 1602(d), renumbered [section 185 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section185&num=0&edition=prelim) as this section.
@@ -677,6 +836,9 @@ Pub. L. 109–59, § 1601(f), amended section catchline and text generally, subs
 
 Subsec. (a). Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter”.
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
@@ -684,7 +846,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 <a id="section-606"></a>
 ## § 606. State and local permits
 
-The provision of credit assistance under this chapter with respect to a project shall not—
+The provision of credit assistance under the TIFIA program with respect to a project shall not—
 
 (1) relieve any recipient of the assistance of any obligation to obtain any required State or local permit or approval with respect to the project;
 
@@ -695,6 +857,8 @@ The provision of credit assistance under this chapter with respect to a project 
 ### Statutory Notes
 
 #### Amendments
+2015—Pub. L. 114–94 substituted “the TIFIA program” for “this chapter” in introductory provisions.
+
 2012—Pub. L. 112–141 amended section generally. Prior to amendment, section read as follows: “The provision of financial assistance under this chapter with respect to a project shall not—
 
 “(1) relieve any recipient of the assistance of any obligation to obtain any required State or local permit or approval with respect to the project;
@@ -707,6 +871,9 @@ The provision of credit assistance under this chapter with respect to a project 
 
 Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter” in introductory provisions.
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
@@ -714,16 +881,21 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 <a id="section-607"></a>
 ## § 607. Regulations
 
-The Secretary may promulgate such regulations as the Secretary determines to be appropriate to carry out this chapter
+The Secretary may promulgate such regulations as the Secretary determines to be appropriate to carry out the TIFIA program.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Pub. L. 114–94 substituted “the TIFIA program” for “this chapter”.
+
 2012—Pub. L. 112–141 amended section generally. Prior to amendment, section read as follows: “The Secretary may issue such regulations as the Secretary determines appropriate to carry out this chapter.”
 
 2005—Pub. L. 109–59, § 1602(d), renumbered [section 187 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section187&num=0&edition=prelim) as this section.
 
 Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
@@ -735,39 +907,39 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 (1) **Spending and borrowing authority.—** — Spending and borrowing authority for a fiscal year to enter into Federal credit instruments shall be promptly apportioned to the Secretary on a fiscal-year basis.
 
-(2) **Reestimates.—** — If the subsidy cost of a Federal credit instrument is reestimated, the cost increase or decrease of the reestimate shall be borne by, or benefit, the general fund of the Treasury, consistent with section 504(f) the Congressional Budget Act of 1974 ([2 U.S.C. 661c(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661c/f&num=0&edition=prelim)).
+(2) **Reestimates.—** — If the subsidy cost of a Federal credit instrument is reestimated, the cost increase or decrease of the reestimate shall be borne by, or benefit, the general fund of the Treasury, consistent with section 504(f) of the Congressional Budget Act of 1974 ([2 U.S.C. 661c(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661c/f&num=0&edition=prelim)).
 
 (3) **Rural set-aside.—**
 
-  (A) *In general.—* — Of the total amount of funds made available to carry out this chapter for each fiscal year, not more than 10 percent shall be set aside for rural infrastructure projects.
+  (A) *In general.—* — Of the total amount of funds made available to carry out the TIFIA program for each fiscal year, not more than 10 percent shall be set aside for rural infrastructure projects or rural projects funds.
 
-  (B) *Reobligation.—* — Any amounts set aside under subparagraph (A) that remain unobligated by June 1 of the fiscal year for which the amounts were set aside shall be available for obligation by the Secretary on projects other than rural infrastructure projects.
+  (B) *Reobligation.—* — Any amounts set aside under subparagraph (A) that remain unobligated by June 1 of the fiscal year for which the amounts were set aside shall be available for obligation by the Secretary on projects other than rural infrastructure projects or rural projects funds.
 
-(4) **Redistribution of authorized funding.—**
+(4) **Availability.—** — Amounts made available to carry out the TIFIA program shall remain available until expended.
 
-  (A) *In general.—* — Beginning in fiscal year 2014, on April 1 of each fiscal year, if the cumulative unobligated and uncommitted balance of funding available exceeds 75 percent of the amount made available to carry out this chapter for that fiscal year, the Secretary shall distribute to the States the amount of funds and associated obligation authority in excess of that amount.
-
-  (B) *Distribution.—* — The amounts and obligation authority distributed under this paragraph shall be distributed, in the same manner as obligation authority is distributed to the States for the fiscal year, based on the proportion that—
-
-    (i) the relative share of each State of obligation authority for the fiscal year; bears to
-
-    (ii) the total amount of obligation authority distributed to all States for the fiscal year.
-
-  (C) *Purpose.—* — Funds distributed under subparagraph (B) shall be available for any purpose described in section 133(b).
-
-(5) **Availability.—** — Amounts made available to carry out this chapter shall remain available until expended.
-
-(6) **Administrative costs.—** — Of the amounts made available to carry out this chapter, the Secretary may use not more than 0.50 percent for each fiscal year for the administration of this chapter.
+(5) **Administrative costs.—** — Of the amounts made available to carry out the TIFIA program, the Secretary may use not more than $6,875,000 for fiscal year 2016, $7,081,000 for fiscal year 2017, $7,559,000 for fiscal year 2018, $8,195,000 for fiscal year 2019, and $8,441,000 for fiscal year 2020 for the administration of the TIFIA program.
 
 **(b) Contract Authority.—**
 
-(1) **In general.—** — Notwithstanding any other provision of law, execution of a term sheet by the Secretary of a Federal credit instrument that uses amounts made available under this chapter shall impose on the United States a contractual obligation to fund the Federal credit investment.
+(1) **In general.—** — Notwithstanding any other provision of law, execution of a term sheet by the Secretary of a Federal credit instrument that uses amounts made available under the TIFIA program shall impose on the United States a contractual obligation to fund the Federal credit investment.
 
-(2) **Availability.—** — Amounts made available to carry out this chapter for a fiscal year shall be available for obligation on October 1 of the fiscal year.
+(2) **Availability.—** — Amounts made available to carry out the TIFIA program for a fiscal year shall be available for obligation on October 1 of the fiscal year.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Pub. L. 114–94, § 2001(g)(1), substituted “the TIFIA program” for “this chapter” wherever appearing.
+
+Subsec. (a)(2). Pub. L. 114–94, § 2001(g)(2)(A), inserted “of” after “504(f)”.
+
+Subsec. (a)(3)(A), (B). Pub. L. 114–94, § 2001(g)(2)(B), inserted “or rural projects funds” after “rural infrastructure projects”.
+
+Subsec. (a)(4). Pub. L. 114–94, § 2001(g)(2)(C), redesignated par. (5) as (4) and struck out former par. (4) which related to redistribution of authorized funding.
+
+Subsec. (a)(5). Pub. L. 114–94, § 2001(g)(2)(D), added par. (5). Former par. (5) redesignated (4).
+
+Subsec. (a)(6). Pub. L. 114–94, § 2001(g)(2)(C), struck out par. (6). Text read as follows: “Of the amounts made available to carry out this chapter, the Secretary may use not more than 0.50 percent for each fiscal year for the administration of this chapter.”
+
 2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to funding for fiscal years 2005 through 2009 and contract authority.
 
 2005—Pub. L. 109–59, § 1602(d), renumbered [section 188 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section188&num=0&edition=prelim) as this section.
@@ -859,6 +1031,9 @@ Subsec. (c). Pub. L. 105–178, § 1503(c)(2), as added by Pub. L. 105–206, §
 | 2002 | $2,300,000,000 |
 | 2003 | $2,300,000,000.” |
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
@@ -868,17 +1043,17 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 <a id="section-609"></a>
 ## § 609. Reports to Congress
-**(a) In General.—** On June 1, 2012, and every 2 years thereafter, the Secretary shall submit to Congress a report summarizing the financial performance of the projects that are receiving, or have received, assistance under this chapter (other than section 610), including a recommendation as to whether the objectives of this chapter (other than section 610) are best served by—
+**(a) In General.—** On June 1, 2012, and every 2 years thereafter, the Secretary shall submit to Congress a report summarizing the financial performance of the projects that are receiving, or have received, assistance under the TIFIA program, including a recommendation as to whether the objectives of the TIFIA program are best served by—
 
 (1) continuing the program under the authority of the Secretary;
 
 (2) establishing a Federal corporation or federally sponsored enterprise to administer the program; or
 
-(3) phasing out the program and relying on the capital markets to fund the types of infrastructure investments assisted by this chapter (other than section 610) without Federal participation.
+(3) phasing out the program and relying on the capital markets to fund the types of infrastructure investments assisted by the TIFIA program without Federal participation.
 
 **(b) Application Process Report.—**
 
-(1) **In general.—** — Not later than December 1, 2012, and annually thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that includes a list of all of the letters of interest and applications received from project sponsors for assistance under this chapter (other than section 610) during the preceding fiscal year.
+(1) **In general.—** — Not later than December 1, 2012, and annually thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that includes a list of all of the letters of interest and applications received from project sponsors for assistance under the TIFIA program during the preceding fiscal year.
 
 (2) **Inclusions.—**
 
@@ -899,6 +1074,8 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 ### Statutory Notes
 
 #### Amendments
+2015—Pub. L. 114–94 substituted “the TIFIA program” for “this chapter (other than section 610)” wherever appearing.
+
 2012—Pub. L. 112–141 amended section generally. Prior to amendment, section read as follows: “On June 1, 2006, and every 2 years thereafter, the Secretary shall submit to Congress a report summarizing the financial performance of the projects that are receiving, or have received, assistance under this chapter (other than section 610), including a recommendation as to whether the objectives of this chapter (other than section 610) are best served—
 
 “(1) by continuing the program under the authority of the Secretary;
@@ -910,6 +1087,9 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 2005—Pub. L. 109–59, § 1602(d), renumbered [section 189 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section189&num=0&edition=prelim) as this section.
 
 Pub. L. 109–59, § 1601(h), substituted “Reports” for “Report” in section catchline, “On June 1, 2006, and every 2 years thereafter,” for “Not later than 4 years after the date of enactment of this subchapter,” in introductory provisions, and “chapter (other than section 610)” for “subchapter” wherever appearing.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
@@ -953,6 +1133,10 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 (10) **Leveraged.—** — The term “leveraged”, as used with respect to a State infrastructure bank, means that the bank has total potential liabilities that exceed the capital of the bank.
 
+(11) **Rural infrastructure project.—** — The term “rural infrastructure project” has the meaning given the term in section 601.
+
+(12) **Rural projects fund.—** — The term “rural projects fund” has the meaning given the term in section 601.
+
 **(b) Cooperative Agreements.—** Subject to the provisions of this section, the Secretary may enter into cooperative agreements with States for the establishment of State infrastructure banks for making loans and providing other forms of credit assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section.
 
 **(c) Interstate Compacts.—**
@@ -965,15 +1149,17 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 (1) **Highway account.—** — Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank to deposit into the highway account of the bank not to exceed—
 
-  (A) 10 percent of the funds apportioned to the State for each of fiscal years 2005 through 2009 under each of sections 104(b)(1), 104(b)(3), 104(b)(4),11 See References in Text note below. and 144; 1 and
+  (A) 10 percent of the funds apportioned to the State for each of fiscal years 2016 through 2020 under each of paragraphs (1), (2), and (5) of section 104(b); and
 
   (B) 10 percent of the funds allocated to the State for each of such fiscal years.
 
-(2) **Transit account.—** — Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under section 5307, 5309, or 5311 of title 49, to deposit into the transit account of the bank not to exceed 10 percent of the funds made available to the State or other recipient in each of fiscal years 2005 through 2009 for capital projects under each of such sections.
+(2) **Transit account.—** — Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under section 5307, 5309, or 5311 of title 49, to deposit into the transit account of the bank not to exceed 10 percent of the funds made available to the State or other recipient in each of fiscal years 2016 through 2020 for capital projects under each of such sections.
 
-(3) **Rail account.—** — Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under subtitle V of title 49, to deposit into the rail account of the bank funds made available to the State or other recipient in each of fiscal years 2005 through 2009 for capital projects under such subtitle.
+(3) **Rail account.—** — Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under subtitle V of title 49, to deposit into the rail account of the bank funds made available to the State or other recipient in each of fiscal years 2016 through 2020 for capital projects under such subtitle.
 
-(4) **Capital grants.—**
+(4) **Rural projects fund.—** — Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank to deposit into the rural projects fund of the bank the proceeds of a secured loan made to the bank in accordance with sections 602 and 603.
+
+(5) **Capital grants.—**
 
   (A) *Highway account.—* — Federal funds deposited into a highway account of a State infrastructure bank under paragraph (1) shall constitute for purposes of this section a capitalization grant for the highway account of the bank.
 
@@ -981,17 +1167,33 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
   (C) *Rail account.—* — Federal funds deposited into a rail account of a State infrastructure bank under paragraph 3 shall constitute for purposes of this section a capitalization grant for the rail account of the bank.
 
-(5) **Special rule for urbanized areas of over 200,000.—** — Funds in a State infrastructure bank that are attributed to urbanized areas of a State with urbanized populations of over 200,000 under section 133(d)(3) 1 may be used to provide assistance with respect to a project only if the metropolitan planning organization designated for such area concurs, in writing, with the provision of such assistance.
+(6) **Special rule for urbanized areas of over 200,000.—** — Funds in a State infrastructure bank that are attributed to urbanized areas of a State with urbanized populations of over 200,000 under section 133(d)(1)(A)(i) may be used to provide assistance with respect to a project only if the metropolitan planning organization designated for such area concurs, in writing, with the provision of such assistance.
 
-(6) **Discontinuance of funding.—** — If the Secretary determines that a State is not implementing the State’s infrastructure bank in accordance with a cooperative agreement entered into under subsection (b), the Secretary may prohibit the State from contributing additional Federal funds to the bank.
+(7) **Discontinuance of funding.—** — If the Secretary determines that a State is not implementing the State’s infrastructure bank in accordance with a cooperative agreement entered into under subsection (b), the Secretary may prohibit the State from contributing additional Federal funds to the bank.
 
-**(e) Forms of Assistance From Infrastructure Banks.—** An infrastructure bank established under this section may make loans or provide other forms of credit assistance to a public or private entity in an amount equal to all or a part of the cost of carrying out a project eligible for assistance under this section. The amount of any loan or other form of credit assistance provided for the project may be subordinated to any other debt financing for the project. Initial assistance provided with respect to a project from Federal funds deposited into an infrastructure bank under this section may not be made in the form of a grant.
+**(e) Forms of Assistance From State Infrastructure Banks.—**
+
+(1) **In general.—** — A State infrastructure bank established under this section may—
+
+  (A) with funds deposited into the highway account, transit account, or rail account of the bank, make loans or provide other forms of credit assistance to a public or private entity to carry out a project eligible for assistance under this section; and
+
+  (B) with funds deposited into the rural projects fund, make loans to a public or private entity to carry out a rural infrastructure project.
+
+(2) **Subordination of loan.—** — The amount of a loan or other form of credit assistance provided for a project described in paragraph (1) may be subordinated to any other debt financing for the project.
+
+(3) **Maximum amount of assistance.—** — A State infrastructure bank established under this section may—
+
+  (A) with funds deposited into the highway account, transit account, or rail account of the bank, make loans or provide other forms of credit assistance to a public or private entity in an amount up to 100 percent of the cost of carrying out a project eligible for assistance under this section; and
+
+  (B) with funds deposited into the rural projects fund, make loans to a public or private entity in an amount not to exceed 80 percent of the cost of carrying out a rural infrastructure project.
+
+(4) **Initial assistance.—** — Initial assistance provided with respect to a project from Federal funds deposited into a State infrastructure bank under this section may not be made in the form of a grant.
 
 **(f) Eligible Projects.—** Subject to subsection (e), funds in an infrastructure bank established under this section may be used only to provide assistance for projects eligible for assistance under this title and capital projects defined in [section 5302 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5302&num=0&edition=prelim), and any other projects relating to surface transportation that the Secretary determines to be appropriate.
 
 **(g) Infrastructure Bank Requirements.—** In order to establish an infrastructure bank under this section, the State establishing the bank shall—
 
-(1) deposit in cash, at a minimum, into each account of the bank from non-Federal sources an amount equal to 25 percent of the amount of each capitalization grant made to the State and deposited into such account; except that, if the deposit is into the highway account of the bank and the State has a non-Federal share under section 120(b) that is less than 25 percent, the percentage to be deposited from non-Federal sources shall be the lower percentage of such grant;
+(1) deposit in cash, at a minimum, into the highway account, the transit account, and the rail account of the bank from non-Federal sources an amount equal to 25 percent of the amount of each capitalization grant made to the State and deposited into such account; except that, if the deposit is into the highway account of the bank and the State has a non-Federal share under section 120(b) that is less than 25 percent, the percentage to be deposited from non-Federal sources shall be the lower percentage of such grant;
 
 (2) ensure that the bank maintains on a continuing basis an investment grade rating on its debt, or has a sufficient level of bond or debt financing instrument insurance, to maintain the viability of the bank;
 
@@ -1003,7 +1205,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
   (C) invested in United States Treasury securities, bank deposits, or such other financing instruments as the Secretary may approve to earn interest to enhance the leveraging of projects assisted by the bank;
 
-(4) ensure that any loan from the bank will bear interest at or below market interest rates, as determined by the State, to make the project that is the subject of the loan feasible;
+(4) ensure that any loan from the bank will bear interest at or below market interest rates, as determined by the State, to make the project that is the subject of the loan feasible, except that any loan funded from the rural projects fund of the bank shall bear interest at or below the interest rate charged for the TIFIA loan provided to the bank under section 603;
 
 (5) ensure that repayment of any loan from the bank will commence not later than 5 years after the project has been completed or, in the case of a highway project, the facility has opened to traffic, whichever is later;
 
@@ -1026,21 +1228,39 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 **(j) Management of Federal Funds.—** Sections 3335 and 6503 of title 31 shall not apply to funds deposited into an infrastructure bank under this section.
 
-**(k) Program Administration.—** For each of fiscal years 2005 through 2009, a State may expend not to exceed 2 percent of the Federal funds contributed to an infrastructure bank established by the State under this section to pay the reasonable costs of administering the bank.
+**(k) Program Administration.—** For each of fiscal years 2016 through 2020, a State may expend not to exceed 2 percent of the Federal funds contributed to an infrastructure bank established by the State under this section to pay the reasonable costs of administering the bank.
 
 ### Statutory Notes
 
-#### References in Text
-Sections 104 and 144, referred to in subsec. (d)(1)(A), were amended generally by Pub. L. 112–141, div. A, title I, §§ 1105(a), 1111(a), July 6, 2012, 126 Stat. 427, 445.
-
-Subsec. (d) of section 133, referred to in subsec. (d)(5), was struck out and a new subsec. (d) enacted by Pub. L. 112–141, div. A, title I, § 1108(c), July 6, 2012, 126 Stat. 442.
-
 #### Amendments
-2012—Subsec. (d)(1)(B). Pub. L. 112–141 struck out “under section 105” before period at end.
+2015—Subsec. (a)(11), (12). Pub. L. 114–94, § 2001(i)(1), added pars. (11) and (12).
+
+Subsec. (d)(1)(A). Pub. L. 114–94, § 2001(i)(2)(A), substituted “each of fiscal years 2016 through 2020 under each of paragraphs (1), (2), and (5) of section 104(b); and” for “fiscal years 2005 through 2009 under each of sections 104(b)(1), 104(b)(3), 104(b)(4), and 144; and”.
+
+Subsec. (d)(1)(B). Pub. L. 114–94, § 1446(d)(5)(B), amended Pub. L. 112–141, div. A, title I, § 1519(c). See 2012 Amendment note below.
+
+Subsec. (d)(2), (3). Pub. L. 114–94, § 2001(i)(2)(B), (C), substituted “fiscal years 2016 through 2020” for “fiscal years 2005 through 2009”.
+
+Subsec. (d)(4) to (7). Pub. L. 114–94, § 2001(i)(2)(D)–(F), added par. (4), redesignated former pars. (4) to (6) as (5) to (7), respectively, and substituted “section 133(d)(1)(A)(i)” for “section 133(d)(3)” in par. (6).
+
+Subsec. (e). Pub. L. 114–94, § 2001(i)(3), added subsec. (e) and struck out former subsec. (e) which related to forms of assistance from infrastructure banks.
+
+Subsec. (g)(1). Pub. L. 114–94, § 2001(i)(4)(A), substituted “the highway account, the transit account, and the rail account” for “each account”.
+
+Subsec. (g)(4). Pub. L. 114–94, § 2001(i)(4)(B), inserted “, except that any loan funded from the rural projects fund of the bank shall bear interest at or below the interest rate charged for the TIFIA loan provided to the bank under section 603” after “feasible”.
+
+Subsec. (k). Pub. L. 114–94, § 2001(i)(5), substituted “fiscal years 2016 through 2020” for “fiscal years 2005 through 2009”.
+
+2012—Subsec. (d)(1)(B). Pub. L. 112–141, § 1519(c)(11), formerly § 1519(c)(12), as renumbered by Pub. L. 114–94, § 1446(d)(5)(B), struck out “under section 105” before period at end.
 
 2008—Pub. L. 110–244 amended Pub. L. 109–59, § 1602(d). See 2005 Amendment note below.
 
 2005—Pub. L. 109–59, as amended by Pub. L. 110–244, renumbered [section 190 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section190&num=0&edition=prelim) as this section.
+
+#### Effective Date of 2015 Amendment
+Except as otherwise provided, amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+Pub. L. 114–94, div. A, title I, § 1446(d), Dec. 4, 2015, 129 Stat. 1438, provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).

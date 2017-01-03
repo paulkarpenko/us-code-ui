@@ -39,7 +39,10 @@ Amendment by Pub. L. 110–161 effective Oct. 1, 2009, see section 1004(d)(4) of
 #### Effective Date of 2003 Amendment
 Amendment by Pub. L. 108–7 applicable to fiscal year 2003 and each fiscal year thereafter, see section 1016(d) of Pub. L. 108–7, set out as a note under [section 1961 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1961&num=0&edition=prelim), The Congress.
 
-#### Designation of Great Hall of the Capitol Visitor Center as Emancipation Hall
+#### Designating Small House Rotunda as “Freedom Foyer”
+Pub. L. 114–74, title XII, § 1201, Nov. 2, 2015, 129 Stat. 639, provided that: “The first floor of the area of the House of Representatives wing of the United States Capitol known as the small House rotunda is designated the ‘Freedom Foyer’.”
+
+#### Designation of Great Hall of the Capitol Visitor Center as “Emancipation Hall”
 Pub. L. 110–139, § 1, Dec. 18, 2007, 121 Stat. 1491, provided that: “(a) In General.—The great hall of the Capitol Visitor Center shall be known and designated as ‘Emancipation Hall’, and any reference to the great hall in any law, rule, or regulation shall be deemed to be a reference to Emancipation Hall. “(b) Effective Date.—This section shall apply on and after the date of the enactment of this Act [Dec. 18, 2007].”
 
 

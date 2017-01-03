@@ -2,7 +2,7 @@
 title: 38
 chapter: '33'
 heading: POST–9/11 EDUCATIONAL ASSISTANCE
-section_count: 16
+section_count: 18
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -63,7 +63,7 @@ Chapter effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 Pub. L. 110–252, title V, § 5002, June 30, 2008, 122 Stat. 2357, provided that: “Congress makes the following findings: “(1) On September 11, 2001, terrorists attacked the United States, and the brave members of the Armed Forces of the United States were called to the defense of the Nation. “(2) Service on active duty in the Armed Forces has been especially arduous for the members of the Armed Forces since September 11, 2001. “(3) The United States has a proud history of offering educational assistance to millions of veterans, as demonstrated by the many ‘G.I. Bills’ enacted since World War II. Educational assistance for veterans helps reduce the costs of war, assist veterans in readjusting to civilian life after wartime service, and boost the United States economy, and has a positive effect on recruitment for the Armed Forces. “(4) The current educational assistance program for veterans is outmoded and designed for peacetime service in the Armed Forces. “(5) The people of the United States greatly value military service and recognize the difficult challenges involved in readjusting to civilian life after wartime service in the Armed Forces. “(6) It is in the national interest for the United States to provide veterans who serve on active duty in the Armed Forces after September 11, 2001, with enhanced educational assistance benefits that are worthy of such service and are commensurate with the educational assistance benefits provided by a grateful Nation to veterans of World War II.”
 
 #### Applicability to Individuals Under Montgomery GI Bill Program
-Pub. L. 110–252, title V, § 5003(c), June 30, 2008, 122 Stat. 2375, provided that: “(1) Individuals Eligible to Elect Participation in Post-9/11 Educational Assistance.—An individual may elect to receive educational assistance under chapter 33 of title 38, United States Code (as added by subsection (a)), if such individual—“(A) as of August 1, 2009—“(i) is entitled to basic educational assistance under chapter 30 of title 38, United States Code, and has used, but retains unused, entitlement under that chapter; “(ii) is entitled to educational assistance under chapter 107, 1606, or 1607 of title 10, United States Code, and has used, but retains unused, entitlement under the applicable chapter; “(iii) is entitled to basic educational assistance under chapter 30 of title 38, United States Code, but has not used any entitlement under that chapter; “(iv) is entitled to educational assistance under chapter 107, 1606, or 1607 of title 10, United States Code, but has not used any entitlement under such chapter; “(v) is a member of the Armed Forces who is eligible for receipt of basic educational assistance under chapter 30 of title 38, United States Code, and is making contributions toward such assistance under section 3011(b) or 3012(c) of such title; or “(vi) is a member of the Armed Forces who is not entitled to basic educational assistance under chapter 30 of title 38, United States Code, by reason of an election under section 3011(c)(1) or 3012(d)(1) of such title; and “(B) as of the date of the individual’s election under this paragraph, meets the requirements for entitlement to educational assistance under chapter 33 of title 38, United States Code (as so added). “(2) Cessation of Contributions Toward Gi [sic] Bill.—Effective as of the first month beginning on or after the date of an election under paragraph (1) of an individual described by subparagraph (A)(v) of that paragraph, the obligation of the individual to make contributions under section 3011(b) or 3012(c) of title 38, United States Code, as applicable, shall cease, and the requirements of such section shall be deemed to be no longer applicable to the individual. “(3) Revocation of Remaining Transferred Entitlement.—“(A) Election to revoke.—If, on the date an individual described in subparagraph (A)(i) or (A)(iii) of paragraph (1) makes an election under that paragraph, a transfer of the entitlement of the individual to basic educational assistance under [section 3020 of title 38](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3020), United States Code, is in effect and a number of months of the entitlement so transferred remain unutilized, the individual may elect to revoke all or a portion of the entitlement so transferred that remains unutilized. “(B) Availability of revoked entitlement.—Any entitlement revoked by an individual under this paragraph shall no longer be available to the dependent to whom transferred, but shall be available to the individual instead for educational assistance under chapter 33 of title 38, United States Code (as so added), in accordance with the provisions of this subsection. “(C) Availability of unrevoked entitlement.—Any entitlement described in subparagraph (A) that is not revoked by an individual in accordance with that subparagraph shall remain available to the dependent or dependents concerned in accordance with the current transfer of such entitlement under [section 3020 of title 38](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3020), United States Code. “(4) Post-9/11 Educational Assistance.—“(A) In general.—Subject to subparagraph (B) and except as provided in paragraph (5), an individual making an election under paragraph (1) shall be entitled to educational assistance under chapter 33 of title 38, United States Code (as so added), in accordance with the provisions of such chapter, instead of basic educational assistance under chapter 30 of title 38, United States Code, or educational assistance under chapter 107, 1606, or 1607 of title 10, United States Code, as applicable. “(B) Limitation on entitlement for certain individuals.—In the case of an individual making an election under paragraph (1) who is described by subparagraph (A)(i) of that paragraph, the number of months of entitlement of the individual to educational assistance under chapter 33 of title 38, United States Code (as so added), shall be the number of months equal to—“(i) the number of months of unused entitlement of the individual under chapter 30 of title 38, United States Code, as of the date of the election, plus “(ii) the number of months, if any, of entitlement revoked by the individual under paragraph (3)(A). “(5) Continuing Entitlement to Educational Assistance Not Available Under 9/11 Assistance Program.—“(A) In general.—In the event educational assistance to which an individual making an election under paragraph (1) would be entitled under chapter 30 of title 38, United States Code, or chapter 107, 1606, or 1607 of title 10, United States Code, as applicable, is not authorized to be available to the individual under the provisions of chapter 33 of title 38, United States Code (as so added), the individual shall remain entitled to such educational assistance in accordance with the provisions of the applicable chapter. “(B) Charge for use of entitlement.—The utilization by an individual of entitlement under subparagraph (A) shall be chargeable against the entitlement of the individual to educational assistance under chapter 33 of title 38, United States Code (as so added), at the rate of one month of entitlement under such chapter 33 for each month of entitlement utilized by the individual under subparagraph (A) (as determined as if such entitlement were utilized under the provisions of chapter 30 of title 38, United States Code, or chapter 107, 1606, or 1607 of title 10, United States Code, as applicable). “(6) Additional Post-9/11 Assistance for Members Having Made Contributions Toward Gi [sic] Bill.—“(A) Additional assistance.—In the case of an individual making an election under paragraph (1) who is described by clause (i), (iii), or (v) of subparagraph (A) of that paragraph, the amount of educational assistance payable to the individual under chapter 33 of title 38, United States Code (as so added), as a monthly stipend payable under paragraph (1)(B) of section 3313(c) of such title, or under paragraphs (2) through (7) of that section (as applicable), shall be the amount otherwise payable as a monthly stipend under the applicable paragraph increased by the amount equal to—“(i) the total amount of contributions toward basic educational assistance made by the individual under section 3011(b) or 3012(c) of title 38, United States Code, as of the date of the election, multiplied by “(ii) the fraction—“(I) the numerator of which is— “(aa) the number of months of entitlement to basic educational assistance under chapter 30 of title 38, United States Code, remaining to the individual at the time of the election; plus “(bb) the number of months, if any, of entitlement under such chapter 30 revoked by the individual under paragraph (3)(A); and “(II) the denominator of which is 36 months. “(B) Months of remaining entitlement for certain individuals.—In the case of an individual covered by subparagraph (A) who is described by paragraph (1)(A)(v), the number of months of entitlement to basic educational assistance remaining to the individual for purposes of subparagraph (A)(ii)(I)(aa) shall be 36 months. “(C) Timing of payment.—The amount payable with respect to an individual under subparagraph (A) shall be paid to the individual together with the last payment of the monthly stipend payable to the individual under paragraph (1)(B) of [section 3313(c) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3313/c&num=0&edition=prelim), United States Code (as so added), or under paragraphs (2) through (7) of that section (as applicable), before the exhaustion of the individual’s entitlement to educational assistance under chapter 33 of such title (as so added). “(7) Continuing Entitlement to Additional Assistance for Critical Skills or Speciality and Additional Service.—An individual making an election under paragraph (1)(A) who, at the time of the election, is entitled to increased educational assistance under [section 3015(d) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3015/d&num=0&edition=prelim), United States Code, or [section 16131(i) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16131/i&num=0&edition=prelim), United States Code, or supplemental educational assistance under subchapter III of chapter 30 of title 38, United States Code, shall remain entitled to such increased educational assistance or supplemental educational assistance in the utilization of entitlement to educational assistance under chapter 33 of title 38, United States Code (as so added), in an amount equal to the quarter, semester, or term, as applicable, equivalent of the monthly amount of such increased educational assistance or supplemental educational assistance payable with respect to the individual at the time of the election. “(8) Irrevocability of Elections.—An election under paragraph (1) or (3)(A) is irrevocable.”
+Pub. L. 110–252, title V, § 5003(c), June 30, 2008, 122 Stat. 2375, which related to applicability of Post-9/11 Educational Assistance program to individuals entitled to education assistance under chapter 33 of this title, was repealed by Pub. L. 114–315, title IV, § 405(c), Dec. 16, 2016, 130 Stat. 1558. See [section 3327 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3327).
 
 #### Ex. Ord. No. 13607. Establishing Principles of Excellence for Educational Institutions Serving Service Members, Veterans, Spouses, and Other Family Members
 Ex. Ord. No. 13607, Apr. 27, 2012, 77 F.R. 25861, provided:
@@ -259,13 +259,32 @@ Barack Obama.
 
   (B) the date on which the individual remarries.
 
-(3) **Election on receipt of certain benefits.—** — A surviving spouse entitled to assistance under subsection (a) pursuant to paragraph (9) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
+(3) **Election on receipt of certain benefits.—** — Except as provided in paragraph (4), a surviving spouse entitled to assistance under subsection (a) pursuant to paragraph (9) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
 
-(4) **Definition of child.—** — For purposes of that paragraph, the term “child” includes a married individual or an individual who is above the age of twenty-three years.
+(4) **Exception for certain elections.—**
+
+  (A) *In general.—* — An election made under paragraph (3) by a spouse described in subparagraph (B) may not be treated as irrevocable if such election occurred before the date of the enactment of this paragraph.
+
+  (B) *Eligible surviving spouse.—* — A spouse described in this subparagraph is an individual—
+
+    (i) who is entitled to assistance under subsection (a) pursuant to paragraph (9) of subsection (b); and
+
+    (ii) who was the spouse of a member of the Armed Forces who died during the period beginning on September 11, 2001, and ending on December 31, 2005.
+
+(5) **Definition of child.—** — For purposes of paragraph (9) of subsection (b), the term “child” includes a married individual or an individual who is above the age of twenty-three years.
 
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of this paragraph, referred to in subsec. (f)(4)(A), is the date of enactment of Pub. L. 114–315, which was approved Dec. 16, 2016.
+
 #### Amendments
+2016—Subsec. (f)(3). Pub. L. 114–315, § 401(b)(1), substituted “Except as provided in paragraph (4), a surviving spouse” for “A surviving spouse”.
+
+Subsec. (f)(4). Pub. L. 114–315, § 401(b)(3), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (f)(5). Pub. L. 114–315, § 401(b)(2), (c), redesignated par. (4) as (5) and substituted “paragraph (9) of subsection (b)” for “that paragraph”.
+
 2014—Subsec. (b)(9). Pub. L. 113–146, § 701(a), inserted “or spouse” after “child”.
 
 Subsec. (f)(2) to (4). Pub. L. 113–146, § 701(b), added pars. (2) and (3) and redesignated former par. (2) as (4).
@@ -279,7 +298,7 @@ Subsec. (d)(2). Pub. L. 111–377, § 101(c), inserted “or [section 182 of tit
 Subsec. (f). Pub. L. 111–32, § 1002(a)(2), added subsec. (f).
 
 #### Effective Date of 2014 Amendment
-Pub. L. 113–146, title VII, § 701(d), Aug. 7, 2014, 128 Stat. 1796, provided that: “The amendments made by this section [amending this section and [section 3321 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3321)] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after January 1, 2015.”
+Pub. L. 113–146, title VII, § 701(d), Aug. 7, 2014, 128 Stat. 1796, as amended by Pub. L. 114–315, title IV, § 401(a), Dec. 16, 2016, 130 Stat. 1553, provided that: “(1) In general.—The amendments made by this section [amending this section and [section 3321 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3321)] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after January 1, 2015. “(2) Deaths that occurred between september 11, 2001, and december 31, 2005.—For purposes of [section 3311(f)(2) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3311/f/2&num=0&edition=prelim), United States Code, any member of the Armed Forces who died during the period beginning on September 11, 2001, and ending on December 31, 2005, is deemed to have died on January 1, 2006.”
 
 #### Effective Date of 2011 Amendment
 Pub. L. 111–377, title I, § 101(d)(4), (5), Jan. 4, 2011, 124 Stat. 4108, provided that: “(4) Honorable service requirement.—The amendment made by subsection (b) [amending this section] shall take effect on the date of the enactment of this Act [Jan. 4, 2011], and shall apply with respect to discharges and releases from the Armed Forces that occur on or after that date. “(5) Service in connection with attendance at coast guard academy.—The amendment made by subsection (c) [amending this section] shall take effect on the date of the enactment of this Act, and shall apply with respect to individuals entering into agreements on service in the Coast Guard on or after that date.”
@@ -331,7 +350,7 @@ Pub. L. 111–32, title X, § 1002(d), June 24, 2009, 123 Stat. 1890, provided t
 
       (I) any waiver of, or reduction in, tuition and fees; and
 
-      (II) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ([20 U.S.C. 1070a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a&num=0&edition=prelim))) 11 So in original. Probably should be “([20 U.S.C. 1070a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/b&num=0&edition=prelim)))”. that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees.
+      (II) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ([20 U.S.C. 1070a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/b&num=0&edition=prelim))) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees.
 
     (ii) In the case of a program of education pursued at a non-public or foreign institution of higher learning, the lesser of—
 
@@ -409,7 +428,7 @@ Pub. L. 111–32, title X, § 1002(d), June 24, 2009, 123 Stat. 1890, provided t
 
       (I) any waiver of, or reduction in, tuition and fees; and
 
-      (II) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ([20 U.S.C. 1070a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a&num=0&edition=prelim))) 1 that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees;
+      (II) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ([20 U.S.C. 1070a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/b&num=0&edition=prelim))) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees;
 
     (ii) in the case of a program of education pursued at a non-public or foreign institution of higher learning, the lesser of—
 
@@ -425,7 +444,7 @@ Pub. L. 111–32, title X, § 1002(d), June 24, 2009, 123 Stat. 1890, provided t
 
         (bb) for an academic year beginning on any subsequent August 1, the amount for the previous academic year beginning on August 1 under this subclause, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h); or
 
-    (iii) the amount of the charges of the educational institution as elected by the individual in the manner specified in section 3014(b)(1)..22 So in original.
+    (iii) the amount of the charges of the educational institution as elected by the individual in the manner specified in section 3014(b)(1).
 
   (B) Subject to subparagraph (C), for the first month of each quarter, semester, or term, as applicable, of the program of education pursued by the individual, a lump sum amount for books, supplies, equipment, and other educational costs with respect to such quarter, semester, or term in the amount equal to—
 
@@ -451,7 +470,7 @@ Pub. L. 111–32, title X, § 1002(d), June 24, 2009, 123 Stat. 1890, provided t
 
       (I) any waiver of, or reduction in, tuition and fees; and
 
-      (II) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ([20 U.S.C. 1070a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a&num=0&edition=prelim))) 1 that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
+      (II) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ([20 U.S.C. 1070a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/b&num=0&edition=prelim))) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
 
     (ii) the maximum amount that would be payable to the individual for the program of education under paragraph (1)(A) of subsection (c), or under the provisions of paragraphs (2) through (7) of subsection (c) applicable to the individual, for the program of education if the individual were entitled to amounts for the program of education under subsection (c) rather than this subsection.
 
@@ -481,7 +500,7 @@ Pub. L. 111–32, title X, § 1002(d), June 24, 2009, 123 Stat. 1890, provided t
 
         (aa) any waiver of, or reduction in, tuition and fees; and
 
-        (bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ([20 U.S.C. 1070a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a&num=0&edition=prelim))) 1 that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
+        (bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 ([20 U.S.C. 1070a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/b&num=0&edition=prelim))) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
 
       (II) the amount equal to—
 
@@ -503,7 +522,7 @@ Pub. L. 111–32, title X, § 1002(d), June 24, 2009, 123 Stat. 1890, provided t
 
         (bb) the number of course hours borne by the individual in pursuit of the program of education involved, divided by the minimum number of course hours required for full-time pursuit of such program of education, rounded to the nearest multiple of 10.
 
-    (iii) Subject to clause (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for a partial month) of training pursued for books 33 So in original. Probably should be followed by a comma. supplies, equipment, and other educational costs.
+    (iii) Subject to clause (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for a partial month) of training pursued for books, supplies, equipment, and other educational costs.
 
     (iv) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of section 3311(b), the amounts payable pursuant to clauses (i), (ii), and (iii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
 
@@ -521,7 +540,7 @@ Pub. L. 111–32, title X, § 1002(d), June 24, 2009, 123 Stat. 1890, provided t
 
       (V) during any month after the first 24 months of such program, 20 percent of the monthly amount of the basic allowance for housing payable as described in subclause (I).
 
-    (ii) Subject to clauses (iii) and (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for each partial month) of training pursued for books 3 supplies, equipment, and other educational costs.
+    (ii) Subject to clauses (iii) and (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for each partial month) of training pursued for books 11 So in original. Probably should be followed by a comma. supplies, equipment, and other educational costs.
 
     (iii) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of sections 3311(b), the amounts payable pursuant to clauses (i) and (ii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
 
@@ -605,6 +624,12 @@ Pub. L. 111–32, title X, § 1002(d), June 24, 2009, 123 Stat. 1890, provided t
 Section 401(b) of the Higher Education Act of 1965, referred to in subsecs. (c)(1)(A)(i)(II), (ii)(I)(bb), (e)(2)(A)(i)(II), (ii)(I)(bb), (f)(2)(A)(i)(II), and (g)(3)(A)(i)(I)(bb), (C)(i)(I)(bb), (D)(i)(I)(bb), is classified to [section 1070a(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/b&num=0&edition=prelim), Education.
 
 #### Amendments
+2015—Pub. L. 114–58, § 601(16), substituted “1070a(b)” for “1070a” wherever appearing.
+
+Subsec. (e)(2)(A)(iii). Pub. L. 114–58, § 601(17), struck out second period at end.
+
+Subsec. (g)(3)(A)(iii). Pub. L. 114–58, § 601(18), substituted “books,” for “books”.
+
 2011—Subsec. (b). Pub. L. 111–377, § 105(a), struck out “is offered by an institution of higher learning (as that term is defined in section 3452(f)) and” before “is approved”.
 
 Subsec. (c). Pub. L. 111–377, § 102(a)(2), amended heading generally. Prior to amendment, heading read as follows: “Amount of Educational Assistance”.
@@ -885,7 +910,7 @@ Pub. L. 111–275, title I, § 107, Oct. 13, 2010, 124 Stat. 2872, provided that
 
 **(b) Eligible Individuals.—** An individual referred to in subsection (a) is any member of the uniformed services who, at the time of the approval of the individual’s request to transfer entitlement to educational assistance under this section, has completed at least—
 
-(1) six years of service in the armed forces and enters into an agreement to serve at least four more years as a member of the uniformed services; or
+(1) six years of service in the Armed Forces and enters into an agreement to serve at least four more years as a member of the uniformed services; or
 
 (2) the years of service as determined in regulations pursuant to subsection (j).
 
@@ -909,7 +934,7 @@ Pub. L. 111–275, title I, § 107, Oct. 13, 2010, 124 Stat. 2872, provided that
 
 **(f) Time for Transfer; Revocation and Modification.—**
 
-(1) **Time for transfer.—** — Subject to the time limitation for use of entitlement under section 3321 an individual approved to transfer entitlement to educational assistance under this section may transfer such entitlement only while serving as a member of the armed forces when the transfer is executed.
+(1) **Time for transfer.—** — Subject to the time limitation for use of entitlement under section 3321 an individual approved to transfer entitlement to educational assistance under this section may transfer such entitlement only while serving as a member of the Armed Forces when the transfer is executed.
 
 (2) **Modification or revocation.—**
 
@@ -923,7 +948,7 @@ Pub. L. 111–275, title I, § 107, Oct. 13, 2010, 124 Stat. 2872, provided that
 
 (1) in the case of entitlement transferred to a spouse, the completion by the individual making the transfer of at least—
 
-  (A) six years of service in the armed forces; or
+  (A) six years of service in the Armed Forces; or
 
   (B) the years of service as determined in regulations pursuant to subsection (j); or
 
@@ -931,7 +956,7 @@ Pub. L. 111–275, title I, § 107, Oct. 13, 2010, 124 Stat. 2872, provided that
 
   (A) the completion by the individual making the transfer of at least—
 
-    (i) ten years of service in the armed forces; or
+    (i) ten years of service in the Armed Forces; or
 
     (ii) the years of service as determined in regulations pursuant to subsection (j); and
 
@@ -1020,6 +1045,8 @@ Pub. L. 111–275, title I, § 107, Oct. 13, 2010, 124 Stat. 2872, provided that
 ### Statutory Notes
 
 #### Amendments
+2015—Pub. L. 114–58 substituted “Armed Forces” for “armed forces” in subsecs. (b)(1), (f)(1), and (g)(1)(A), (2)(A)(i).
+
 2011—Subsec. (a). Pub. L. 111–377, § 110(b), designated existing provisions as par. (1), substituted “Subject to the provisions of this section, the Secretary concerned may permit” for “Subject to the provisions of this section, the Secretary of Defense may authorize the Secretary concerned, to promote recruitment and retention of members of the Armed Forces, to permit”, and added par. (2).
 
 Subsec. (b). Pub. L. 111–377, § 110(a)(1), substituted “uniformed services” for “Armed Forces” in introductory provisions and par. (1).
@@ -1070,7 +1097,7 @@ Amendment by section 201(b) of Pub. L. 111–377 effective Aug. 1, 2011, and app
 2009—Subsec. (b)(4). Pub. L. 111–32 added par. (4).
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–146 applicable with respect to a quarter, semester, or term, as applicable, commencing on or after Jan. 1, 2015, see section 701(d) of Pub. L. 113–146, set out as a note under [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311).
+Amendment by Pub. L. 113–146 applicable with respect to a quarter, semester, or term, as applicable, commencing on or after Jan. 1, 2015, with provision for deaths occurring between September 11, 2001 and December 31, 2005, see section 701(d) of Pub. L. 113–146, set out as a note under [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311).
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–32 effective Aug. 1, 2009, see section 1002(d)(1) of Pub. L. 111–32, set out as a note under [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311).
@@ -1201,5 +1228,111 @@ Pub. L. 111–377, title II, § 202(c), Jan. 4, 2011, 124 Stat. 4124, provided t
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)
+Pub. L. 114–315, title IV, § 404(a)(1), (c), Dec. 16, 2016, 130 Stat. 1554, provided that, effective 1 year after Dec. 16, 2016, subsection (c) of this section is amended by striking “and” at the end of paragraph (2), redesignating paragraph (3) as (4), and adding after paragraph (2) the following new paragraph (3):
+
+“(3) the information received by the Secretary under [section 3326 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3326); and”.
+
+See 2016 Amendment note below.
+
+#### Amendments
+2016—Subsec. (c)(3), (4). Pub. L. 114–315 added par. (3) and redesignated former par. (3) as (4).
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–315, title IV, § 404(c), Dec. 16, 2016, 130 Stat. 1554, provided that: “The amendments made by this section [enacting [section 3326 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3326) and amending this section] shall take effect on the date that is 1 year after the date of the enactment of this Act [Dec. 16, 2016].”
+
 #### Deadline for Submittal of First Report
 Pub. L. 112–154, title IV, § 402(a)(3), Aug. 6, 2012, 126 Stat. 1189, provided that: “The first reports required under [section 3325 of title 38](./chapter-033-post-9-11-educational-assistance.md#section-3325), United States Code, as added by paragraph (1), shall be submitted by not later than November 1, 2013.”
+
+
+<a id="section-3326"></a>
+## § 3326. Report on student progress
+
+As a condition of approval under chapter 36 of this title of a course offered by an educational institution (as defined in [section 3452 of this title](./chapter-034-veterans-educational-assistance.md#section-3452)), each year, each educational institution (as so defined) that received a payment in that year on behalf of an individual entitled to educational assistance under this chapter shall submit to the Secretary such information regarding the academic progress of the individual as the Secretary may require.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 1 year after Dec. 16, 2016, see section 404(c) of Pub. L. 114–315, set out as an Effective Date of 2016 Amendment note under [section 3325 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3325).
+
+
+<a id="section-3327"></a>
+## § 3327. Election to receive educational assistance
+**(a) Individuals Eligible To Elect Participation in Post-9/11 Educational Assistance.—** An individual may elect to receive educational assistance under this chapter if such individual—
+
+(1) as of August 1, 2009—
+
+  (A) is entitled to basic educational assistance under chapter 30 of this title and has used, but retains unused, entitlement under that chapter;
+
+  (B) is entitled to educational assistance under chapter 107, 1606, or 1607 of title 10 and has used, but retains unused, entitlement under the applicable chapter;
+
+  (C) is entitled to basic educational assistance under chapter 30 of this title but has not used any entitlement under that chapter;
+
+  (D) is entitled to educational assistance under chapter 107, 1606, or 1607 of title 10 but has not used any entitlement under such chapter;
+
+  (E) is a member of the Armed Forces who is eligible for receipt of basic educational assistance under chapter 30 of this title and is making contributions toward such assistance under section 3011(b) or 3012(c) of this title; or
+
+  (F) is a member of the Armed Forces who is not entitled to basic educational assistance under chapter 30 of this title by reason of an election under section 3011(c)(1) or 3012(d)(1) of this title; and
+
+(2) as of the date of the individual’s election under this paragraph, meets the requirements for entitlement to educational assistance under this chapter.
+
+**(b) Cessation of Contributions Toward GI Bill.—** Effective as of the first month beginning on or after the date of an election under subsection (a) of an individual described by paragraph (1)(E) of that subsection, the obligation of the individual to make contributions under section 3011(b) or 3012(c) of this title, as applicable, shall cease, and the requirements of such section shall be deemed to be no longer applicable to the individual.
+
+**(c) Revocation of Remaining Transferred Entitlement.—**
+
+(1) **Election to revoke.—** — If, on the date an individual described in paragraph (1)(A) or (1)(C) of subsection (a) makes an election under that subsection, a transfer of the entitlement of the individual to basic educational assistance under [section 3020 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3020) is in effect and a number of months of the entitlement so transferred remain unutilized, the individual may elect to revoke all or a portion of the entitlement so transferred that remains unutilized.
+
+(2) **Availability of revoked entitlement.—** — Any entitlement revoked by an individual under this subsection shall no longer be available to the dependent to whom transferred, but shall be available to the individual instead for educational assistance under chapter 33 of this title in accordance with the provisions of this section.
+
+(3) **Availability of unrevoked entitlement.—** — Any entitlement described in paragraph (1) that is not revoked by an individual in accordance with that paragraph shall remain available to the dependent or dependents concerned in accordance with the current transfer of such entitlement under [section 3020 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3020).
+
+**(d) Post-9/11 Educational Assistance.—**
+
+(1) **In general.—** — Subject to paragraph (2) and except as provided in subsection (e), an individual making an election under subsection (a) shall be entitled to educational assistance under this chapter in accordance with the provisions of this chapter, instead of basic educational assistance under chapter 30 of this title, or educational assistance under chapter 107, 1606, or 1607 of title 10, as applicable.
+
+(2) **Limitation on entitlement for certain individuals.—** — In the case of an individual making an election under subsection (a) who is described by paragraph (1)(A) of that subsection, the number of months of entitlement of the individual to educational assistance under this chapter shall be the number of months equal to—
+
+  (A) the number of months of unused entitlement of the individual under chapter 30 of this title, as of the date of the election, plus
+
+  (B) the number of months, if any, of entitlement revoked by the individual under subsection (c)(1).
+
+**(e) Continuing Entitlement to Educational Assistance Not Available Under Post-9/11 Educational Assistance Program.—**
+
+(1) **In general.—** — In the event educational assistance to which an individual making an election under subsection (a) would be entitled under chapter 30 of this title, or chapter 107, 1606, or 1607 of title 10, as applicable, is not authorized to be available to the individual under the provisions of this chapter, the individual shall remain entitled to such educational assistance in accordance with the provisions of the applicable chapter.
+
+(2) **Charge for use of entitlement.—** — The utilization by an individual of entitlement under paragraph (1) shall be chargeable against the entitlement of the individual to educational assistance under this chapter at the rate of 1 month of entitlement under this chapter for each month of entitlement utilized by the individual under paragraph (1) (as determined as if such entitlement were utilized under the provisions of chapter 30 of this title, or chapter 107, 1606, or 1607 of title 10, as applicable).
+
+**(f) Additional Post-9/11 Assistance for Members Having Made Contributions Toward GI Bill.—**
+
+(1) **Additional assistance.—** — In the case of an individual making an election under subsection (a) who is described by subparagraph (A), (C), or (E) of paragraph (1) of that subsection, the amount of educational assistance payable to the individual under this chapter as a monthly stipend payable under paragraph (1)(B) of [section 3313(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3313/c&num=0&edition=prelim), or under paragraphs (2) through (7) of that section (as applicable), shall be the amount otherwise payable as a monthly stipend under the applicable paragraph increased by the amount equal to—
+
+  (A) the total amount of contributions toward basic educational assistance made by the individual under section 3011(b) or 3012(c) of this title, as of the date of the election, multiplied by
+
+  (B) the fraction—
+
+    (i) the numerator of which is—
+
+      (I) the number of months of entitlement to basic educational assistance under chapter 30 of this title remaining to the individual at the time of the election; plus
+
+      (II) the number of months, if any, of entitlement under chapter 30 of this title revoked by the individual under subsection (c)(1); and
+
+    (ii) the denominator of which is 36 months.
+
+(2) **Months of remaining entitlement for certain individuals.—** — In the case of an individual covered by paragraph (1) who is described by subsection (a)(1)(E), the number of months of entitlement to basic educational assistance remaining to the individual for purposes of paragraph (1)(B)(i)(II) shall be 36 months.
+
+(3) **Timing of payment.—** — The amount payable with respect to an individual under paragraph (1) shall be paid to the individual together with the last payment of the monthly stipend payable to the individual under paragraph (1)(B) of [section 3313(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3313/c&num=0&edition=prelim), or under paragraphs (2) through (7) of that section (as applicable), before the exhaustion of the individual’s entitlement to educational assistance under this chapter.
+
+**(g) Continuing Entitlement to Additional Assistance for Critical Skills or Specialty and Additional Service.—** An individual making an election under subsection (a)(1) who, at the time of the election, is entitled to increased educational assistance under [section 3015(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3015/d&num=0&edition=prelim), or [section 16131(i) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16131/i&num=0&edition=prelim), or supplemental educational assistance under subchapter III of chapter 30 of this title, shall remain entitled to such increased educational assistance or supplemental educational assistance in the utilization of entitlement to educational assistance under this chapter, in an amount equal to the quarter, semester, or term, as applicable, equivalent of the monthly amount of such increased educational assistance or supplemental educational assistance payable with respect to the individual at the time of the election.
+
+**(h) Alternative Election by Secretary.—**
+
+(1) **In general.—** — In the case of an individual who, on or after January 1, 2017, submits to the Secretary an election under this section that the Secretary determines is clearly against the interests of the individual, or who fails to make an election under this section, the Secretary may make an alternative election on behalf of the individual that the Secretary determines is in the best interests of the individual.
+
+(2) **Notice.—** — If the Secretary makes an election on behalf of an individual under this subsection, the Secretary shall notify the individual by not later than seven days after making such election and shall provide the individual with a 30-day period, beginning on the date of the individual’s receipt of such notice, during which the individual may modify or revoke the election made by the Secretary on the individual’s behalf. The Secretary shall include, as part of such notice, a clear statement of why the alternative election made by the Secretary is in the best interests of the individual as compared to the election submitted by the individual. The Secretary shall provide the notice required under this paragraph by electronic means whenever possible.
+
+**(i) Irrevocability of Elections.—** An election under subsection (a) or (c)(1) is irrevocable.
+
+### Statutory Notes
+
+#### Prior Provisions
+Provisions similar to those comprising this section were contained in Pub. L. 110–252, title V, § 5003(c), June 30, 2008, 122 Stat. 2375, which was formerly set out as a note under [section 3301 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3301) prior to repeal by Pub. L. 114–315, title IV, § 405(c), Dec. 16, 2016, 130 Stat. 1558.

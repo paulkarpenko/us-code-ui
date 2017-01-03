@@ -173,9 +173,9 @@ Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1
 
 (2) whether the enforcement of the Plan by each coastal State is satisfactory.
 
-**(b) Satisfactory State enforcement** For purposes of subsection (a)(2) of this section, enforcement by a coastal State shall not be considered satisfactory by the Commission if, in its view, the enforcement is being carried out in such a manner that the implementation of the Plan within the coastal waters of the State is being, or will likely be, substantially and adversely affected.
+**(b) Satisfactory State enforcement** For purposes of subsection (a)(2), enforcement by a coastal State shall not be considered satisfactory by the Commission if, in its view, the enforcement is being carried out in such a manner that the implementation of the Plan within the coastal waters of the State is being, or will likely be, substantially and adversely affected.
 
-**(c) Notification of Secretaries** The Commission shall immediately notify the Secretaries of each negative determination made by it under subsection (a) of this section.
+**(c) Notification of Secretaries** The Commission shall immediately notify the Secretaries of each negative determination made by it under subsection (a).
 
 ### Statutory Notes
 
@@ -213,21 +213,21 @@ Subsec. (d). Pub. L. 99–432, § 2(a), redesignated subsec. (d) as (b).
 
 (2) to land, or attempt to land, Atlantic striped bass that are caught, taken, or harvested in violation of paragraph (1);
 
-(3) to land lawfully harvested Atlantic striped bass within the boundaries of a coastal State when a moratorium declared under subsection (a) of this section applies to that State; or
+(3) to land lawfully harvested Atlantic striped bass within the boundaries of a coastal State when a moratorium declared under subsection (a) applies to that State; or
 
 (4) to fail to return to the water Atlantic striped bass to which the moratorium applies that are caught incidental to harvesting that occurs in the course of commercial or recreational fish catching activities, regardless of the physical condition of the striped bass when caught.
 
 **(c) Civil penalties**
 
-(1) **Civil penalty** — Any person who commits any act that is unlawful under subsection (b) of this section shall be liable to the United States for a civil penalty as provided by section 308 of the Magnuson Act ([16 U.S.C. 1858](./chapter-038-fishery-conservation-and-management.md#section-1858)).
+(1) **Civil penalty** — Any person who commits any act that is unlawful under subsection (b) shall be liable to the United States for a civil penalty as provided by section 308 of the Magnuson Act ([16 U.S.C. 1858](./chapter-038-fishery-conservation-and-management.md#section-1858)).
 
 (2) **Civil forfeitures**
 
-  (A) *In general* — Any vessel (including its gear, equipment, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with, or as the result of, the commission of any act that is unlawful under subsection (b) of this section shall be subject to forfeiture to the United States as provided in section 310 of the Magnuson Act ([16 U.S.C. 1860](./chapter-038-fishery-conservation-and-management.md#section-1860)).
+  (A) *In general* — Any vessel (including its gear, equipment, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with, or as the result of, the commission of any act that is unlawful under subsection (b) shall be subject to forfeiture to the United States as provided in section 310 of the Magnuson Act ([16 U.S.C. 1860](./chapter-038-fishery-conservation-and-management.md#section-1860)).
 
   (B) *Disposal of fish* — Any fish seized pursuant to this chapter may be disposed of pursuant to the order of a court of competent jurisdiction, or, if perishable, in a manner prescribed in regulations.
 
-**(d) Enforcement** A person authorized by the Secretaries or the Secretary of the department in which the Coast Guard is operating may take any action to enforce a moratorium declared under subsection (a) of this section that an officer authorized by the Secretary under section 311(b) of the Magnuson Act ([16 U.S.C. 1861(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1861/b&num=0&edition=prelim)) may take to enforce that Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.). The Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal department or agency and of any agency of a State in carrying out that enforcement.
+**(d) Enforcement** A person authorized by the Secretaries or the Secretary of the department in which the Coast Guard is operating may take any action to enforce a moratorium declared under subsection (a) that an officer authorized by the Secretary under section 311(b) of the Magnuson Act ([16 U.S.C. 1861(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1861/b&num=0&edition=prelim)) may take to enforce that Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.). The Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal department or agency and of any agency of a State in carrying out that enforcement.
 
 **(e) Regulations** The Secretaries may issue regulations to implement this section.
 
@@ -271,7 +271,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(b) Socio-economic study** The Secretaries, in consultation with with 11 So in original. the Atlantic States Marine Fisheries Commission, shall conduct a study of the socio-economic benefits of the Atlantic striped bass resource. The Secretaries shall issue a report to the Congress concerning the findings of this study no later than September 30, 1998.
 
-**(c) Reports** The Secretaries shall make biennial reports to the Congress and to the Commission concerning the progress and findings of studies conducted under subsection (a) of this section and shall make those reports public. Such reports shall, to the extent appropriate, contain recommendations of actions which could be taken to encourage the sustainable management of Atlantic striped bass.
+**(c) Reports** The Secretaries shall make biennial reports to the Congress and to the Commission concerning the progress and findings of studies conducted under subsection (a) and shall make those reports public. Such reports shall, to the extent appropriate, contain recommendations of actions which could be taken to encourage the sustainable management of Atlantic striped bass.
 
 ### Statutory Notes
 
@@ -315,7 +315,7 @@ Pub. L. 102–130, § 2(b)(1)–(3), designated existing provisions as subsec. (
 ## § 5157. Public participation in preparation of management plans and amendments
 **(a) Standards and procedures** In order to ensure the opportunity for public participation in the preparation of management plans and amendments to management plans for Atlantic striped bass, the Commission shall prepare such plans and amendments in accordance with the standards and procedures established under [section 5104(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5104/a/2&num=0&edition=prelim).
 
-**(b) Application** Subsection (a) of this section shall apply to management plans and amendments adopted by the Commission after the 6-month period beginning on December 16, 1997.
+**(b) Application** Subsection (a) shall apply to management plans and amendments adopted by the Commission after the 6-month period beginning on December 16, 1997.
 
 ### Statutory Notes
 
@@ -335,7 +335,7 @@ Pub. L. 102–130, § 2(b)(1)–(3), designated existing provisions as subsec. (
 
 (4) are sufficient to assure the long-term conservation of Atlantic striped bass populations.
 
-**(b) Consultation; periodic review of regulations** In preparing regulations under subsection (a) of this section, the Secretary shall consult with the Atlantic States Marine Fisheries Commission, the appropriate Regional Fishery Management Councils, and each affected Federal, State, and local government entity. The Secretary shall periodically review regulations promulgated under subsection (a) of this section, and if necessary to ensure their continued consistency with the requirements of subsection (a) of this section, shall amend those regulations.
+**(b) Consultation; periodic review of regulations** In preparing regulations under subsection (a), the Secretary shall consult with the Atlantic States Marine Fisheries Commission, the appropriate Regional Fishery Management Councils, and each affected Federal, State, and local government entity. The Secretary shall periodically review regulations promulgated under subsection (a), and if necessary to ensure their continued consistency with the requirements of subsection (a), shall amend those regulations.
 
 **(c) Applicability of Magnuson Act provisions** The provisions of sections 307, 308, 309, 310, and 311 of the Magnuson Act ([16 U.S.C. 1857](./chapter-038-fishery-conservation-and-management.md#section-1857), 1858, 1859, 1860, and 1861) regarding prohibited acts, civil penalties, criminal offenses, civil forfeitures, and enforcement shall apply with respect to regulations and any plan issued under subsection (a) of this section as if such regulations or plan were issued under the Magnuson Act.
 

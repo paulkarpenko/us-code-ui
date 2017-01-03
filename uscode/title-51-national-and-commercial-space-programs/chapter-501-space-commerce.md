@@ -201,7 +201,7 @@ In subsection (b), the date “December 30, 2005” is substituted for “the da
 
 <a id="section-50131"></a>
 ## § 50131. Requirement to procure commercial space transportation services
-**(a) In General.—** Except as otherwise provided in this section, the Federal Government shall acquire space transportation services from United States commercial providers whenever such services are required in the course of its activities. To the maximum extent practicable, the Federal Government shall plan missions to accommodate the space transportation services capabilities of United States commercial providers.
+**(a) In General.—** Except as otherwise provided in this section or in section 70102, the Federal Government shall acquire space transportation services from United States commercial providers whenever such services are required in the course of its activities. To the maximum extent practicable, the Federal Government shall plan missions to accommodate the space transportation services capabilities of United States commercial providers.
 
 **(b) Exceptions.—** The Federal Government shall not be required to acquire space transportation services under subsection (a) if, on a case-by-case basis, the Administrator or, in the case of a national security issue, the Secretary of the Air Force, determines that—
 
@@ -237,6 +237,9 @@ In subsection (b), the date “December 30, 2005” is substituted for “the da
 | 50131(e) | [42 U.S.C. 14731(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14731/d&num=0&edition=prelim). |  |
 
 In subsection (d), the date “October 28, 1998” is substituted for “the date of the enactment of this Act” and for “such date” to reflect the date of enactment of the Commercial Space Act of 1998 (Public Law 105–303, 112 Stat. 2843).
+
+#### Amendments
+2015—Subsec. (a). Pub. L. 114–90 inserted “or in section 70102” after “in this section”.
 
 
 <a id="section-50132"></a>

@@ -306,7 +306,7 @@ Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see sectio
 Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 702 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section702&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim).
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1302&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim).
 
 
 <a id="section-3503"></a>
@@ -1651,9 +1651,11 @@ The purposes of this subchapter are to—
 Provisions similar to this section were contained in sections 3531 and 3541 of this title prior to repeal by Pub. L. 113–283.
 
 #### Cybersecurity Improvements to Agency Information Systems
-Pub. L. 113–76, div. F, title V, § 554, Jan. 17, 2014, 128 Stat. 278, provided that: “(a) Of the amounts made available by this Act [div. F of Pub. L. 113–76, see Tables for classification] for National Protection and Programs Directorate, ‘Infrastructure Protection and Information Security’, $166,000,000 for the ‘Federal Network Security’ program, project, and activity shall be used to deploy on Federal systems technology to improve the information security of agency information systems covered by [former] [section 3543(a) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3543/a&num=0&edition=prelim), United States Code [see now [44 U.S.C. 3553](./chapter-035-coordination-of-federal-information-policy.md#section-3553)]: Provided, That funds made available under this section shall be used to assist and support Government-wide and agency-specific efforts to provide adequate, risk-based, and cost-effective cybersecurity to address escalating and rapidly evolving threats to information security, including the acquisition and operation of a continuous monitoring and diagnostics program, in collaboration with departments and agencies, that includes equipment, software, and Department of Homeland Security supplied services: Provided further, That not later than April 1, 2014, and quarterly thereafter, the Under Secretary of Homeland Security of the National Protection and Programs Directorate shall submit to the Committees on Appropriations of the Senate and the House of Representatives a report on the obligation and expenditure of funds made available under this section: Provided further, That continuous monitoring and diagnostics software procured by the funds made available by this section shall not transmit to the Department of Homeland Security any personally identifiable information or content of network communications of other agencies’ users: Provided further, That such software shall be installed, maintained, and operated in accordance with all applicable privacy laws and agency-specific policies regarding network content. “(b) Funds made available under this section may not be used to supplant funds provided for any such system within an agency budget. “(c) Not later than July 1, 2014, the heads of all Federal agencies shall submit to the Committees on Appropriations of the Senate and the House of Representatives expenditure plans for necessary cybersecurity improvements to address known vulnerabilities to information systems described in subsection (a). “(d) Not later than October 1, 2014, and quarterly thereafter, the head of each Federal agency shall submit to the Director of the Office of Management and Budget a report on the execution of the expenditure plan for that agency required by subsection (c): Provided, That the Director of the Office of Management and Budget shall summarize such execution reports and annually submit such summaries to Congress in conjunction with the annual progress report on implementation of the E-Government Act of 2002 (Public Law 107–347) [see Tables for classification], as required by [section 3606 of title 44](./chapter-036-management-and-promotion-of-electronic-government-services.md#section-3606), United States Code. “(e) This section shall not apply to the legislative and judicial branches of the Federal Government and shall apply to all Federal agencies within the executive branch except for the Department of Defense, the Central Intelligence Agency, and the Office of the Director of National Intelligence.”
+Pub. L. 114–4, title V, § 547, Mar. 4, 2015, 129 Stat. 69, provided that: “(a) Of the amounts made available by this Act [Pub. L. 114–4, see Tables for classification] for ‘National Protection and Programs Directorate, Infrastructure Protection and Information Security’, $140,525,000 for the Federal Network Security program, project, and activity shall be used to deploy on Federal systems technology to improve the information security of agency information systems covered by [former] [section 3543(a) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3543/a&num=0&edition=prelim), United States Code [see now [44 U.S.C. 3553](./chapter-035-coordination-of-federal-information-policy.md#section-3553)]: Provided, That funds made available under this section shall be used to assist and support Government-wide and agency-specific efforts to provide adequate, risk-based, and cost-effective cybersecurity to address escalating and rapidly evolving threats to information security, including the acquisition and operation of a continuous monitoring and diagnostics program, in collaboration with departments and agencies, that includes equipment, software, and Department of Homeland Security supplied services: Provided further, That continuous monitoring and diagnostics software procured by the funds made available by this section shall not transmit to the Department of Homeland Security any personally identifiable information or content of network communications of other agencies’ users: Provided further, That such software shall be installed, maintained, and operated in accordance with all applicable privacy laws and agency-specific policies regarding network content. “(b) Funds made available under this section may not be used to supplant funds provided for any such system within an agency budget. “(c) Not later than July 1, 2015, the heads of all Federal agencies shall submit to the Committees on Appropriations of the Senate and the House of Representatives expenditure plans for necessary cybersecurity improvements to address known vulnerabilities to information systems described in subsection (a). “(d) Not later than October 1, 2015, and semiannually thereafter, the head of each Federal agency shall submit to the Director of the Office of Management and Budget a report on the execution of the expenditure plan for that agency required by subsection (c): Provided, That the Director of the Office of Management and Budget shall summarize such execution reports and annually submit such summaries to Congress in conjunction with the annual progress report on implementation of the E-Government Act of 2002 (Public Law 107–347) [see Tables for classification], as required by [section 3606 of title 44](./chapter-036-management-and-promotion-of-electronic-government-services.md#section-3606), United States Code. “(e) This section shall not apply to the legislative and judicial branches of the Federal Government and shall apply to all Federal agencies within the executive branch except for the Department of Defense, the Central Intelligence Agency, and the Office of the Director of National Intelligence.”
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. F, title V, § 554, Jan. 17, 2014, 128 Stat. 278.
 
 Pub. L. 113–6, div. D, title V, § 558, Mar. 26, 2013, 127 Stat. 377.
 
@@ -1762,7 +1764,7 @@ Provisions similar to this section were contained in sections 3532 and 3542 of t
 
   (A) operating the Federal information security incident center established under section 3556;
 
-  (B) upon request by an agency, deploying technology to assist the agency to continuously diagnose and mitigate against cyber threats and vulnerabilities, with or without reimbursement;
+  (B) upon request by an agency, deploying, operating, and maintaining technology to assist the agency to continuously diagnose and mitigate against cyber threats and vulnerabilities, with or without reimbursement;
 
   (C) compiling and analyzing data on agency information security; and
 
@@ -1806,10 +1808,96 @@ Provisions similar to this section were contained in sections 3532 and 3542 of t
 
 **(g) Exercise of Authority.—** To ensure fiscal and policy consistency, the Secretary shall exercise the authority under this section subject to direction by the President, in coordination with the Director.
 
+**(h) Direction to Agencies.—**
+
+(1) **Authority.—**
+
+  (A) *In general.—* — Subject to subparagraph (B), in response to a known or reasonably suspected information security threat, vulnerability, or incident that represents a substantial threat to the information security of an agency, the Secretary may issue an emergency directive to the head of an agency to take any lawful action with respect to the operation of the information system, including such systems used or operated by another entity on behalf of an agency, that collects, processes, stores, transmits, disseminates, or otherwise maintains agency information, for the purpose of protecting the information system from, or mitigating, an information security threat.
+
+  (B) *Exception.—* — The authorities of the Secretary under this subsection shall not apply to a system described subsection (d) or to a system described in paragraph (2) or (3) of subsection (e).
+
+(2) **Procedures for use of authority.—** — The Secretary shall—
+
+  (A) in coordination with the Director, and in consultation with Federal contractors as appropriate, establish procedures governing the circumstances under which a directive may be issued under this subsection, which shall include—
+
+    (i) thresholds and other criteria;
+
+    (ii) privacy and civil liberties protections; and
+
+    (iii) providing notice to potentially affected third parties;
+
+  (B) specify the reasons for the required action and the duration of the directive;
+
+  (C) minimize the impact of a directive under this subsection by—
+
+    (i) adopting the least intrusive means possible under the circumstances to secure the agency information systems; and
+
+    (ii) limiting directives to the shortest period practicable;
+
+  (D) notify the Director and the head of any affected agency immediately upon the issuance of a directive under this subsection;
+
+  (E) consult with the Director of the National Institute of Standards and Technology regarding any directive under this subsection that implements standards and guidelines developed by the National Institute of Standards and Technology;
+
+  (F) ensure that directives issued under this subsection do not conflict with the standards and guidelines issued under [section 11331 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11331&num=0&edition=prelim);
+
+  (G) consider any applicable standards or guidelines developed by the National Institute of Standards and Technology issued by the Secretary of Commerce under [section 11331 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11331&num=0&edition=prelim); and
+
+  (H) not later than February 1 of each year, submit to the appropriate congressional committees a report regarding the specific actions the Secretary has taken pursuant to paragraph (1)(A).
+
+(3) **Imminent threats.—**
+
+  (A) *In general.—* — Notwithstanding section 3554, the Secretary may authorize the use under this subsection of the intrusion detection and prevention capabilities established under section 230(b)(1) of the Homeland Security Act of 2002 for the purpose of ensuring the security of agency information systems, if—
+
+    (i) the Secretary determines there is an imminent threat to agency information systems;
+
+    (ii) the Secretary determines a directive under subsection (b)(2)(C) or paragraph (1)(A) is not reasonably likely to result in a timely response to the threat;
+
+    (iii) the Secretary determines the risk posed by the imminent threat outweighs any adverse consequences reasonably expected to result from the use of the intrusion detection and prevention capabilities under the control of the Secretary;
+
+    (iv) the Secretary provides prior notice to the Director, and the head and chief information officer (or equivalent official) of each agency to which specific actions will be taken pursuant to this paragraph, and notifies the appropriate congressional committees and authorizing committees of each such agency within 7 days of taking an action under this paragraph of—
+
+      (I) any action taken under this paragraph; and
+
+      (II) the reasons for and duration and nature of the action;
+
+    (v) the action of the Secretary is consistent with applicable law; and
+
+    (vi) the Secretary authorizes the use of the intrusion detection and prevention capabilities in accordance with the advance procedures established under subparagraph (C).
+
+  (B) *Limitation on delegation.—* — The authority under this paragraph may not be delegated by the Secretary.
+
+  (C) *Advance procedures.—* — The Secretary shall, in coordination with the Director, and in consultation with the heads of Federal agencies, establish procedures governing the circumstances under which the Secretary may authorize the use of the intrusion detection and prevention capabilities under subparagraph (A). The Secretary shall submit the procedures to Congress.
+
+(4) **Limitation.—** — The Secretary may direct or authorize lawful action or the use of the intrusion detection and prevention capabilities under this subsection only to—
+
+  (A) protect agency information from unauthorized access, use, disclosure, disruption, modification, or destruction; or
+
+  (B) require the remediation of or protect against identified information security risks with respect to—
+
+    (i) information collected or maintained by or on behalf of an agency; or
+
+    (ii) that portion of an information system used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency.
+
+**(i) Annual Report to Congress.—** Not later than February 1 of each year, the Director and the Secretary shall submit to the appropriate congressional committees a report regarding the specific actions the Director and the Secretary have taken pursuant to subsection (a)(5), including any actions taken pursuant to [section 11303(b)(5) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11303/b/5&num=0&edition=prelim).
+
+**(j) Appropriate Congressional Committees Defined.—** In this section, the term “appropriate congressional committees” means—
+
+(1) the Committee on Appropriations and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+(2) the Committee on Appropriations, the Committee on Homeland Security, the Committee on Oversight and Government Reform, and the Committee on Science, Space, and Technology of the House of Representatives.
+
 ### Statutory Notes
+
+#### References in Text
+Section 230(b)(1) of the Homeland Security Act of 2002, referred to in subsec. (h)(3)(A), is section 230(b)(1) of title II of Pub. L. 107–296, as added by Pub. L. 114–113, div. N, title II, § 223(a)(6), Dec. 18, 2015, 129 Stat. 2964, which is classified to [section 151(b)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section151/b/1&num=0&edition=prelim), Domestic Security.
 
 #### Prior Provisions
 Provisions similar to this section were contained in sections 3533 and 3543 of this title prior to repeal by Pub. L. 113–283.
+
+#### Amendments
+2015—Subsec. (b)(6)(B). Pub. L. 114–113, § 224(e), inserted “, operating, and maintaining” after “deploying”.
+
+Subsecs. (h) to (j). Pub. L. 114–113, § 229(a), added subsecs. (h) to (j).
 
 #### Breaches
 Pub. L. 113–283, § 2(d), Dec. 18, 2014, 128 Stat. 3085, provided that: “(1) Requirements.—The Director of the Office of Management and Budget shall ensure that data breach notification policies and guidelines are updated periodically and require—“(A) except as provided in paragraph (4), notice by the affected agency to each committee of Congress described in [section 3554(c)(1) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3554/c/1&num=0&edition=prelim), United States Code, as added by subsection (a), the Committee on the Judiciary of the Senate, and the Committee on the Judiciary of the House of Representatives, which shall—“(i) be provided expeditiously and not later than 30 days after the date on which the agency discovered the unauthorized acquisition or access; and “(ii) include—“(I) information about the breach, including a summary of any information that the agency knows on the date on which notification is provided about how the breach occurred; “(II) an estimate of the number of individuals affected by the breach, based on information that the agency knows on the date on which notification is provided, including an assessment of the risk of harm to affected individuals; “(III) a description of any circumstances necessitating a delay in providing notice to affected individuals; and “(IV) an estimate of whether and when the agency will provide notice to affected individuals; and “(B) notice by the affected agency to affected individuals, pursuant to data breach notification policies and guidelines, which shall be provided as expeditiously as practicable and without unreasonable delay after the agency discovers the unauthorized acquisition or access. “(2) National security; law enforcement; remediation.—The Attorney General, the head of an element of the intelligence community (as such term is defined under section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)), or the Secretary of Homeland Security may delay the notice to affected individuals under paragraph (1)(B) if the notice would disrupt a law enforcement investigation, endanger national security, or hamper security remediation actions. “(3) Reports.—“(A) Director of omb.—During the first 2 years beginning after the date of enactment of this Act [Dec. 18, 2014], the Director of the Office of Management and Budget shall, on an annual basis—“(i) assess agency implementation of data breach notification policies and guidelines in aggregate; and “(ii) include the assessment described in clause (i) in the report required under [section 3553(c) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3553/c&num=0&edition=prelim), United States Code. “(B) Secretary of homeland security.—During the first 2 years beginning after the date of enactment of this Act, the Secretary of Homeland Security shall include an assessment of the status of agency implementation of data breach notification policies and guidelines in the requirements under [section 3553(b)(2)(B) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3553/b/2/B&num=0&edition=prelim), United States Code. “(4) Exception.—Any element of the intelligence community (as such term is defined under section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)) that is required to provide notice under paragraph (1)(A) shall only provide such notice to appropriate committees of Congress. “(5) Rule of construction.—Nothing in paragraph (1) shall be construed to alter any authority of a Federal agency or department.”
@@ -1835,9 +1923,11 @@ Similar provisions were contained in Pub. L. 113–282, § 7(b), Dec. 18, 2014, 
 
     (ii) operational directives developed by the Secretary under section 3553(b);
 
-    (iii) policies and procedures issued by the Director; and
+    (iii) policies and procedures issued by the Director;
 
     (iv) information security standards and guidelines for national security systems issued in accordance with law and as directed by the President; and
+
+    (v) emergency directives issued by the Secretary under section 3553(h); and
 
   (C) ensuring that information security management processes are integrated with agency strategic, operational, and budgetary planning processes;
 
@@ -1911,7 +2001,7 @@ Similar provisions were contained in Pub. L. 113–282, § 7(b), Dec. 18, 2014, 
 
 (5) periodic testing and evaluation of the effectiveness of information security policies, procedures, and practices, to be performed with a frequency depending on risk, but no less than annually, of which such testing—
 
-  (A) shall include testing of management, operational, and technical controls of every information system identified in the inventory required under section 3505(c); 11 See References in Text note below.
+  (A) shall include testing of management, operational, and technical controls of every information system identified in the inventory required under section 3505(c); 11 So in original. Section 3505 contains two subsecs. (c).
 
   (B) may include testing relied on in an evaluation under section 3555; and
 
@@ -1999,8 +2089,8 @@ Similar provisions were contained in Pub. L. 113–282, § 7(b), Dec. 18, 2014, 
 #### Prior Provisions
 Provisions similar to this section were contained in sections 3534 and 3544 of this title prior to repeal by Pub. L. 113–283.
 
-#### References in Text
-Section 3505(c), referred to in subsec. (b)(5)(A), probably means the section 3505(c) added by section 1005(c)(2) of Pub. L. 107–296, which relates to inventory of information systems.
+#### Amendments
+2015—Subsec. (a)(1)(B)(v). Pub. L. 114–113 added cl. (v).
 
 #### Major Incident
 Pub. L. 113–283, § 2(b), Dec. 18, 2014, 128 Stat. 3085, provided that: “The Director of the Office of Management and Budget shall— “(1) develop guidance on what constitutes a major incident for purposes of [section 3554(b) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3554/b&num=0&edition=prelim), United States Code, as added by subsection (a); and “(2) provide to Congress periodic briefings on the status of the developing of the guidance until the date on which the guidance is issued.”
@@ -2062,11 +2152,11 @@ Pub. L. 113–283, § 2(b), Dec. 18, 2014, 128 Stat. 3085, provided that: “The
 
 ### Statutory Notes
 
-#### Prior Provisions
-Provisions similar to this section were contained in sections 3535 and 3545 of this title prior to repeal by Pub. L. 113–283.
-
 #### References in Text
 The Inspector General Act of 1978, referred to in subsec. (b)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Prior Provisions
+Provisions similar to this section were contained in sections 3535 and 3545 of this title prior to repeal by Pub. L. 113–283.
 
 
 <a id="section-3556"></a>
@@ -2111,7 +2201,7 @@ Provisions similar to this section were contained in sections 3536 and 3547 of t
 <a id="section-3558"></a>
 ## § 3558. Effect on existing law
 
-Nothing in this subchapter, [section 11331 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11331&num=0&edition=prelim), or section 20 of the National Standards 11 So in original. Probably should be “National Institute of Standards”. and Technology Act ([15 U.S.C. 278g–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278g–3&num=0&edition=prelim)) may be construed as affecting the authority of the President, the Office of Management and Budget or the Director thereof, the National Institute of Standards and Technology, or the head of any agency, with respect to the authorized use or disclosure of information, including with regard to the protection of personal privacy under [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), the disclosure of information under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), the management and disposition of records under chapters 29, 31, or 33 of title 44, the management of information resources under subchapter I of chapter 35 of this title, or the disclosure of information to the Congress or the Comptroller General of the United States.
+Nothing in this subchapter, [section 11331 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11331&num=0&edition=prelim), or section 20 of the National Standards 11 So in original. Probably should be “National Institute of Standards”. and Technology Act ([15 U.S.C. 278g–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278g–3&num=0&edition=prelim)) may be construed as affecting the authority of the President, the Office of Management and Budget or the Director thereof, the National Institute of Standards and Technology, or the head of any agency, with respect to the authorized use or disclosure of information, including with regard to the protection of personal privacy under [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), the disclosure of information under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), the management and disposition of records under chapters 22 So in original. Probably should be “chapter”. 29, 31, or 33 of title 44, the management of information resources under subchapter I of chapter 35 of this title, or the disclosure of information to the Congress or the Comptroller General of the United States.
 
 ### Statutory Notes
 

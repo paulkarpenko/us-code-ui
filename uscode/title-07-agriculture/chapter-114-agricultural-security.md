@@ -56,6 +56,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Amendments
 2014—Subsec. (e). Pub. L. 113–79 struck out “sums as are necessary” after “appropriated”, substituted “section—” for “section for each of fiscal years 2008 through 2012, to remain available until expended.”, and added pars. (1) and (2).
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 #### Definition of “Secretary”
 “Secretary” as meaning the Secretary of Agriculture, see [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
@@ -127,7 +130,7 @@ In this chapter:
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Effective Date
-Enactment of this chapter and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Short Title
 Pub. L. 110–234, title XIV, § 14101, May 22, 2008, 122 Stat. 1453, and Pub. L. 110–246, § 4(a), title XIV, § 14101, June 18, 2008, 122 Stat. 1664, 2215, provided that: “This subtitle [subtitle B (§§ 14101–14122) of title XIV of Pub. L. 110–246, enacting this chapter] may be cited as the ‘Agricultural Security Improvement Act of 2008’.”
@@ -163,6 +166,9 @@ Pub. L. 110–234, title XIV, § 14101, May 22, 2008, 122 Stat. 1453, and Pub. L
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 #### Definition of “Secretary”
 “Secretary” as meaning the Secretary of Agriculture, see [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
@@ -194,6 +200,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Amendments
 2014—Subsec. (c). Pub. L. 113–79 amended subsec. (c) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2008 through 2012.”
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Definition of “Secretary”
 “Secretary” as meaning the Secretary of Agriculture, see [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -231,6 +240,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Subsec. (b)(2). Pub. L. 113–79, § 7502(2), substituted “are authorized to be appropriated to carry out this subsection—” for “is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2008 through 2012.” and added subpars. (A) and (B).
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 #### Definition of “Secretary”
 “Secretary” as meaning the Secretary of Agriculture, see [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
@@ -265,6 +277,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Amendments
 2014—Subsec. (b). Pub. L. 113–79 substituted “are authorized to be appropriated to carry out this section—” for “is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2008 through 2012.” and added pars. (1) and (2).
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Definition of “Secretary”
 “Secretary” as meaning the Secretary of Agriculture, see [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).

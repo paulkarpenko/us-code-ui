@@ -43,15 +43,15 @@ is exclusive. Except as otherwise provided in this part, the remedies provided u
 
   (A) the term “local governmental authority”—
 
-    (i) has the same meaning given that term by section 5302(a) 11 See References in Text note below. of this title; and
+    (i) has the same meaning given that term by [section 5302 of this title](./chapter-053-public-transportation.md#section-5302); and
 
     (ii) includes a person or entity that contracts with the local governmental authority to provide transportation services; and
 
-  (B) the term “mass transportation” means transportation services described in section 5302(a) 1 of this title that are provided by rail.
+  (B) the term “public transportation” means transportation services described in [section 5302 of this title](./chapter-053-public-transportation.md#section-5302) that are provided by rail.
 
 (2) Except as provided in paragraph (3), the Board does not have jurisdiction under this part over—
 
-  (A) mass transportation provided by a local government authority; or
+  (A) public transportation provided by a local government authority; or
 
   (B) a solid waste rail transfer facility as defined in [section 10908 of this title](./chapter-109-licensing.md#section-10908), except as provided under sections 10908 and 10909 of this title.
 
@@ -70,8 +70,6 @@ is exclusive. Except as otherwise provided in this part, the remedies provided u
 ### Statutory Notes
 
 #### References in Text
-[Section 5302 of this title](./chapter-053-public-transportation.md#section-5302), referred to in subsec. (c)(1)(A)(i), (B), was amended generally by Pub. L. 112–141, div. B, § 20004, July 6, 2012, 126 Stat. 623, and, as so amended, no longer contains a subsec. (a) or a definition of “mass transportation”. However, the term “local governmental authority” is defined elsewhere in that section.
-
 The ICC Termination Act of 1995, referred to in subsec. (c)(3)(B), is Pub. L. 104–88, Dec. 29, 1995, 109 Stat. 803. For complete classification of this Act to the Code, see Short Title of 1995 Amendment note set out under [section 101 of this title](./chapter-001-organization.md#section-101) and Tables.
 
 The Railway Labor Act, referred to in subsec. (c)(3)(B), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
@@ -88,15 +86,24 @@ Provisions similar to those in this section were contained in sections 10501 and
 A prior section 10501, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1359; Pub. L. 96–448, title II, § 214(c)(3)–(5), Oct. 14, 1980, 94 Stat. 1915; Pub. L. 103–272, § 4(j)(15), July 5, 1994, 108 Stat. 1369, related to jurisdiction of the Interstate Commerce Commission, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See sections 10501 and 15301 of this title.
 
 #### Amendments
+2015—Subsec. (c)(1)(A)(i). Pub. L. 114–94, § 3030(g)(1)(A), substituted “section 5302” for “section 5302(a)”.
+
+Subsec. (c)(1)(B). Pub. L. 114–94, § 3030(g)(1)(B), substituted “public transportation” for “mass transportation” and “section 5302” for “section 5302(a)”.
+
+Subsec. (c)(2)(A). Pub. L. 114–94, § 3030(g)(2), substituted “public transportation” for “ mass transportation”.
+
 2008—Subsec. (c)(2). Pub. L. 110–432 amended par. (2) generally. Prior to amendment, text read as follows: “Except as provided in paragraph (3), the Board does not have jurisdiction under this part over mass transportation provided by a local governmental authority.”
 
 1996—Subsec. (c)(3)(B). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of the ICC Termination Act of 1995”.
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Abolition of Interstate Commerce Commission
-Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-10502"></a>

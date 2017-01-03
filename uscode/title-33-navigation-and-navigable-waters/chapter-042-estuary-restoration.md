@@ -91,7 +91,7 @@ In this chapter, the following definitions apply:
 
     (iv) the interstate management plan developed pursuant to the Chesapeake Bay program under [section 1267 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1267).
 
-(7) **Indian tribe** — The term “Indian tribe” has the meaning given such term by [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim).
+(7) **Indian tribe** — The term “Indian tribe” has the meaning given such term by [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 (8) **Non-Federal interest** — The term “non-Federal interest” means a State, a political subdivision of a State, an Indian tribe, a regional or interstate agency, or, as provided in [section 2903(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2903/f/2&num=0&edition=prelim), a nongovernmental organization.
 
@@ -156,7 +156,7 @@ The Coastal Zone Management Act of 1972, referred to in pars. (2) and (6)(B)(iii
 
 (1) **Federal share**
 
-  (A) *In general* — Except as provided in paragraph (2) and subsection (e)(2) of this section, the Federal share of the cost of an estuary habitat restoration project (other than the cost of operation and maintenance of the project) carried out under this chapter shall not exceed 65 percent of such cost.
+  (A) *In general* — Except as provided in paragraph (2) and subsection (e)(2), the Federal share of the cost of an estuary habitat restoration project (other than the cost of operation and maintenance of the project) carried out under this chapter shall not exceed 65 percent of such cost.
 
   (B) *Monitoring*
 
@@ -168,7 +168,7 @@ The Coastal Zone Management Act of 1972, referred to in pars. (2) and (6)(B)(iii
 
       (II) to allow adaptive management to ensure project success.
 
-(2) **Innovative technology costs** — The Federal share of the incremental additional cost of including in a project pilot testing of or a demonstration of an innovative technology or approach described in subsection (c)(4)(B) of this section shall be 85 percent.
+(2) **Innovative technology costs** — The Federal share of the incremental additional cost of including in a project pilot testing of or a demonstration of an innovative technology or approach described in subsection (c)(4)(B) shall be 85 percent.
 
 (3) **Non-Federal share** — The non-Federal share of the cost of an estuary habitat restoration project carried out under this chapter shall include lands, easements, rights-of-way, and relocations and may include services (including monitoring), or any other form of in-kind contribution determined by the Secretary to be an appropriate contribution equivalent to the monetary amount required for the non-Federal share of the activity.
 
@@ -184,11 +184,13 @@ The Coastal Zone Management Act of 1972, referred to in pars. (2) and (6)(B)(iii
 
 (1) **In general** — The Secretary may not carry out an estuary habitat restoration project until a non-Federal interest has entered into a written agreement with the Secretary in which the non-Federal interest agrees to—
 
-  (A) provide all lands, easements, rights-of-way, and relocations and any other elements the Secretary determines appropriate under subsection (d)(3) of this section; and
+  (A) provide all lands, easements, rights-of-way, and relocations and any other elements the Secretary determines appropriate under subsection (d)(3); and
 
   (B) provide for long-term maintenance and monitoring of the project.
 
 (2) **Nongovernmental organizations** — Notwithstanding [section 1962d–5b(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5b/b&num=0&edition=prelim), for any project to be undertaken under this chapter, the Secretary, in consultation and coordination with appropriate State and local governmental agencies and Indian tribes, may allow a nongovernmental organization to serve as the non-Federal interest for the project.
+
+(3) **Project agreements** — For a project carried out under this chapter, the requirements of [section 2213(j)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2213/j/1&num=0&edition=prelim) may be fulfilled by a nongovernmental organization serving as the non-Federal interest for the project pursuant to paragraph (2).
 
 **(g) Delegation of project implementation**
 
@@ -215,6 +217,8 @@ The Coastal Zone Management Act of 1972, referred to in pars. (2) and (6)(B)(iii
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (f)(3). Pub. L. 114–322 added par. (3).
+
 2007—Subsec. (a). Pub. L. 110–114, § 5017(c)(1), inserted “through the award of contracts and cooperative agreements” after “assistance”.
 
 Subsec. (c)(3)(A). Pub. L. 110–114, § 5017(c)(2)(A), inserted “or State” after “Federal”.
@@ -363,7 +367,7 @@ Subsec. (g). Pub. L. 110–114, § 5017(c)(5), designated existing provisions as
 ## § 2907. Reporting
 **(a) In general** Not later than September 30, 2008, and every 2 years thereafter, the Secretary, after considering the advice and recommendations of the Council, shall transmit to Congress a report on the results of activities carried out under this chapter.
 
-**(b) Contents of report** A report under subsection (a) of this section shall include—
+**(b) Contents of report** A report under subsection (a) shall include—
 
 (1) data on the number of acres of estuary habitat restored under this chapter, including descriptions of, and partners involved with, projects selected, in progress, and completed under this chapter that comprise those acres;
 
@@ -389,24 +393,26 @@ Subsec. (g). Pub. L. 110–114, § 5017(c)(5), designated existing provisions as
 
 (1) **Estuary habitat restoration projects** — There is authorized to be appropriated for carrying out and providing technical assistance for estuary habitat restoration projects—
 
-  (A) to the Secretary, $25,000,000 for each of fiscal years 2008 through 2012;
+  (A) to the Secretary, $25,000,000 for each of fiscal years 2008 through 2021;
 
-  (B) to the Secretary of the Interior (acting through the Director of the United States Fish and Wildlife Service), $2,500,000 for each of fiscal years 2008 through 2012;
+  (B) to the Secretary of the Interior (acting through the Director of the United States Fish and Wildlife Service), $2,500,000 for each of fiscal years 2008 through 2021;
 
-  (C) to the Under Secretary for Oceans and Atmosphere of the Department of Commerce, $2,500,000 for each of fiscal years 2008 through 2012;
+  (C) to the Under Secretary for Oceans and Atmosphere of the Department of Commerce, $2,500,000 for each of fiscal years 2008 through 2021;
 
-  (D) to the Administrator of the Environmental Protection Agency, $2,500,000 for each of fiscal years 2008 through 2012; and
+  (D) to the Administrator of the Environmental Protection Agency, $2,500,000 for each of fiscal years 2008 through 2021; and
 
-  (E) to the Secretary of Agriculture, $2,500,000 for each of fiscal years 2008 through 2012.
+  (E) to the Secretary of Agriculture, $2,500,000 for each of fiscal years 2008 through 2021.
   Such sums shall remain available until expended.
 
-(2) **Monitoring** — There is authorized to be appropriated to the Under Secretary for Oceans and Atmosphere of the Department of Commerce for the acquisition, maintenance, and management of monitoring data on restoration projects carried out under this chapter and other information compiled under [section 2906 of this title](./chapter-042-estuary-restoration.md#section-2906), $1,500,000 for each of fiscal years 2001 through 2012. Such sums shall remain available until expended.
+(2) **Monitoring** — There is authorized to be appropriated to the Under Secretary for Oceans and Atmosphere of the Department of Commerce for the acquisition, maintenance, and management of monitoring data on restoration projects carried out under this chapter and other information compiled under [section 2906 of this title](./chapter-042-estuary-restoration.md#section-2906), $1,500,000 for each of fiscal years 2001 through 2021. Such sums shall remain available until expended.
 
-**(b) Set-aside for administrative expenses of the Council** Not to exceed 3 percent of the amounts appropriated for a fiscal year under subsection (a)(1) of this section or $1,500,000, whichever is greater, may be used by the Secretary for administration and operation of the Council.
+**(b) Set-aside for administrative expenses of the Council** Not to exceed 3 percent of the amounts appropriated for a fiscal year under subsection (a)(1) or $1,500,000, whichever is greater, may be used by the Secretary for administration and operation of the Council.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–322 substituted “through 2021” for “through 2012” wherever appearing.
+
 2007—Subsec. (a)(1). Pub. L. 110–114, § 5017(g)(1), struck out “to the Secretary” after “appropriated” in introductory provisions, added subpars. (A) to (E), and struck out former subpars. (A) to (D) which read as follows:
 
 “(A) $40,000,000 for fiscal year 2001;

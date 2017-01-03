@@ -31,7 +31,7 @@ The Secretary and the Board have jurisdiction, as specified in this part, over t
 Provisions similar to those in this section were contained in [section 10521 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10521&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13502"></a>
@@ -182,9 +182,11 @@ Provisions similar to those in this section were contained in [section 10524 of 
 
 (13) transportation of wood chips;
 
-(14) brokers for motor carriers of passengers, except as provided in section 13904(d); 11 See References in Text note below. or
+(14) brokers for motor carriers of passengers, except as provided in section 13904(d); 11 See References in Text note below.
 
-(15) transportation of broken, crushed, or powdered glass.
+(15) transportation of broken, crushed, or powdered glass; or
+
+(16) the transportation of passengers by 9 to 15 passenger motor vehicles operated by youth or family camps that provide recreational or educational activities.
 
 **(b) Exempt Unless Otherwise Necessary.—** Except to the extent the Secretary or Board, as applicable, finds it necessary to exercise jurisdiction to carry out the transportation policy of section 13101, neither the Secretary nor the Board has jurisdiction under this part over—
 
@@ -210,12 +212,14 @@ Section 13904(d), referred to in subsec. (a)(14), was redesignated section 13904
 Provisions similar to those in this section were contained in [section 10526 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10526&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Amendments
+2015—Subsec. (a)(16). Pub. L. 114–113 added par. (16).
+
 2002—Subsec. (a)(2). Pub. L. 107–298 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a motor vehicle providing taxicab service and having a capacity of not more than 6 passengers and not operated on a regular route or between specified places;”.
 
 1997—Subsec. (a)(5). Pub. L. 105–102 substituted “1141j(a)))” for “1141j(a))”.
 
 #### Abolition of Interstate Commerce Commission
-Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13507"></a>
@@ -362,4 +366,4 @@ Provisions similar to those in this section were contained in [section 10561 of 
 Provisions similar to those in this section were contained in [section 10505 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10505&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Abolition of Interstate Commerce Commission
-Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).

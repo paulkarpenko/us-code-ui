@@ -40,6 +40,9 @@ Pub. L. 106–398, § 1 [[div. A], title X, § 1090(c)], Oct. 30, 2000, 114 Stat
 #### Prior Provisions
 A prior section 9442, added Pub. L. 98–525, title XV, § 1533(b)(1), Oct. 19, 1984, 98 Stat. 2632, related to assistance of Civil Air Patrol by other agencies, prior to the general amendment of this chapter by Pub. L. 106–398.
 
+#### Effective Date
+Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as a note under [section 9441 of this title](./chapter-909-civil-air-patrol.md#section-9441).
+
 
 <a id="section-9443"></a>
 ## § 9443. Activities performed as federally chartered nonprofit corporation
@@ -54,6 +57,11 @@ A prior section 9442, added Pub. L. 98–525, title XV, § 1533(b)(1), Oct. 19, 
 **(c) Authority Not Contingent on Reimbursement.—** The authority for the Civil Air Patrol to provide assistance under subsection (a)(1) is not contingent on the Civil Air Patrol being reimbursed for the cost of providing the assistance. If the Civil Air Patrol elects to require reimbursement for the provision of assistance under such subsection, the Civil Air Patrol may establish the reimbursement rate at a rate less than the rates charged by private sector sources for equivalent services.
 
 **(d) Liability Insurance.—** The Secretary of the Air Force may provide the Civil Air Patrol with funds for paying the cost of liability insurance to cover missions and activities carried out under this section.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as a note under [section 9441 of this title](./chapter-909-civil-air-patrol.md#section-9441).
 
 
 <a id="section-9444"></a>
@@ -113,11 +121,19 @@ A prior section 9442, added Pub. L. 98–525, title XV, § 1533(b)(1), Oct. 19, 
 
 2002—Subsec. (b)(1). Pub. L. 107–217, in introductory provisions, inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)” for “([40 U.S.C. 471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section471&num=0&edition=prelim) et seq.)”.
 
+#### Effective Date
+Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as a note under [section 9441 of this title](./chapter-909-civil-air-patrol.md#section-9441).
+
 
 <a id="section-9445"></a>
 ## § 9445. Funds appropriated for the Civil Air Patrol
 
 Funds appropriated for the Civil Air Patrol shall be available only for the exclusive use of the Civil Air Patrol.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as a note under [section 9441 of this title](./chapter-909-civil-air-patrol.md#section-9441).
 
 
 <a id="section-9446"></a>
@@ -131,6 +147,11 @@ Funds appropriated for the Civil Air Patrol shall be available only for the excl
 (3) A person, while providing services under a contract authorized under paragraph (1), may not be considered to be on active duty or inactive-duty training for any purpose.
 
 **(b) Use of Civil Air Patrol Chaplains.—** The Secretary of the Air Force may use the services of Civil Air Patrol chaplains in support of the Air Force active duty and reserve component forces to the extent and under conditions that the Secretary determines appropriate.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as a note under [section 9441 of this title](./chapter-909-civil-air-patrol.md#section-9441).
 
 
 <a id="section-9447"></a>
@@ -185,6 +206,11 @@ Funds appropriated for the Civil Air Patrol shall be available only for the excl
 
 (4) The protections provided under this subsection are in addition to the protections provided under subsection (f).
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as a note under [section 9441 of this title](./chapter-909-civil-air-patrol.md#section-9441).
+
 
 <a id="section-9448"></a>
 ## § 9448. Regulations
@@ -199,3 +225,8 @@ Funds appropriated for the Civil Air Patrol shall be available only for the excl
 (3) Regulations governing the qualifications of retired Air Force personnel to serve as an administrator or liaison officer for the Civil Air Patrol under a personal services contract entered into under [section 9446(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9446/a&num=0&edition=prelim).
 
 **(c) Approval by Secretary of Defense.—** The regulations required by subsection (b)(2) shall be subject to the approval of the Secretary of Defense.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as a note under [section 9441 of this title](./chapter-909-civil-air-patrol.md#section-9441).

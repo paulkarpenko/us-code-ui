@@ -265,7 +265,7 @@ Subsec. (b). Pub. L. 100–399, § 401(b), amended subsec. (b) generally. Prior 
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
 
 #### Effective Date
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this subchapter is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 #### Long-Term Lending Authority of Farm Credit Bank of Texas With Respect to States of Alabama, Louisiana, and Mississippi
 Pub. L. 102–552, title IV, § 401(b), Oct. 28, 1992, 106 Stat. 4128, as amended by Pub. L. 110–234, title V, § 5407(c)(3), May 22, 2008, 122 Stat. 1160; Pub. L. 110–246, § 4(a), title V, § 5407(c)(3), June 18, 2008, 122 Stat. 1664, 1922, provided that: “(1) In general.—Notwithstanding any other provision of law (except section 7.7 of the Farm Credit Act of 1971 [[12 U.S.C. 2279c](./chapter-023-farm-credit-system.md#section-2279c)]), the Farm Credit Bank of Texas may act in accordance with the exclusive charter of the bank, as amended by the Farm Credit Administration on February 7, 1989, and effective February 9, 1989 (except to the extent that the charter may be further amended by the Farm Credit Administration in accordance with its general authorities under the Farm Credit Act of 1971 ([12 U.S.C. 2001](./chapter-023-farm-credit-system.md#section-2001) et seq.). “(2) Effective date.—Paragraph (1) shall take effect as if such paragraph had become law on February 7, 1989.”
@@ -289,6 +289,9 @@ A prior section 2012, Pub. L. 92–181, title I, § 1.4, Dec. 10, 1971, 85 Stat.
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
+
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 
 <a id="section-2015"></a>
@@ -413,6 +416,9 @@ Pub. L. 104–105, title III, § 302, Feb. 10, 1996, 110 Stat. 185, provided tha
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
 
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+
 
 <a id="section-2016"></a>
 ## § 2016. Farm Credit Bank capitalization
@@ -423,6 +429,9 @@ In accordance with [section 2154a of this title](./chapter-023-farm-credit-syste
 
 #### Prior Provisions
 A prior section 2014, Pub. L. 92–181, title I, § 1.6, Dec. 10, 1971, 85 Stat. 585; Pub. L. 96–592, title I, § 103, Dec. 24, 1980, 94 Stat. 3438, related to real estate mortgage loans, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 
 <a id="section-2017"></a>
@@ -490,6 +499,9 @@ Subsec. (b)(4)(A). Pub. L. 100–399, § 401(f)(3), substituted “subsection”
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
 
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+
 
 <a id="section-2018"></a>
 ## § 2018. Interest rates and other charges
@@ -508,6 +520,9 @@ A prior section 2016, Pub. L. 92–181, title I, § 1.8, Dec. 10, 1971, 85 Stat.
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
 
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+
 
 <a id="section-2019"></a>
 ## § 2019. Eligibility
@@ -524,6 +539,9 @@ The credit and financial services authorized in this subchapter may be made avai
 
 #### Prior Provisions
 A prior section 2017, Pub. L. 92–181, title I, § 1.9, Dec. 10, 1971, 85 Stat. 586; Pub. L. 96–592, title I, § 106, Dec. 24, 1980, 94 Stat. 3438; Pub. L. 100–233, title IV, § 426, title VIII, § 802(d), Jan. 6, 1988, 101 Stat. 1657, 1710; Pub. L. 100–399, title IV, § 412, title VII, § 701, Aug. 17, 1988, 102 Stat. 1004, 1006, related to security, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 
 <a id="section-2020"></a>
@@ -569,6 +587,9 @@ Subsec. (b). Pub. L. 100–399, § 401(i), substituted “harvesters of aquatic 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
 
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+
 
 <a id="section-2021"></a>
 ## § 2021. Purposes for extensions of credit
@@ -609,6 +630,9 @@ Amendment by Pub. L. 102–237 effective as if included in the provision of the 
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
+
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 
 <a id="section-2022"></a>
@@ -664,6 +688,9 @@ Pub. L. 101–220, § 6(c), Dec. 12, 1989, 103 Stat. 1880, provided that: “The
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
 
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+
 
 <a id="section-2023"></a>
 ## § 2023. Loans through associations or agents
@@ -678,6 +705,9 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 #### Prior Provisions
 A prior section 1.13 of Pub. L. 92–181 was classified to [section 2031 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2031&num=0&edition=prelim) prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+
 
 <a id="section-2071"></a>
 ## § 2071. Liens on stock
@@ -688,6 +718,9 @@ The Farm Credit Banks shall have a first lien on the stock or participation cert
 
 #### Prior Provisions
 A prior section 1.14 of Pub. L. 92–181 was classified to [section 2032 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2032&num=0&edition=prelim) prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 
 <a id="section-2072"></a>
@@ -723,6 +756,9 @@ A prior section 2055, Pub. L. 92–181, title I, § 1.21, Dec. 10, 1971, 85 Stat
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
+
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 
 <a id="section-2073"></a>
@@ -784,7 +820,7 @@ Amendment by Pub. L. 102–237 effective as if included in the provision of the 
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
 
 #### Effective Date
-Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided in part that this subchapter is effective 6 months after Jan. 6, 1988.
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 #### Merger of Production Credit Associations and Federal Land Bank Associations
 Pub. L. 100–233, title IV, § 411, Jan. 6, 1988, 101 Stat. 1638, as amended by Pub. L. 100–399, title IV, § 403, Aug. 17, 1988, 102 Stat. 999, provided that: “(a) Submission of Proposal.—Not later than 6 months after the date of the merger of the Federal land bank and the Federal intermediate credit bank in a district, the Boards of Directors of each Federal land bank association and each production credit association in such district, that share substantially the same geographical territory with each other, shall submit to the voting stockholders of each such association for their approval, a plan, approved by the supervising bank and the Farm Credit Administration, for merging such associations. “(b) Prerequisites to Merger.—“(1) Stockholder vote.—The stockholder vote required for approval of a merger under subsection (a) shall be a majority of the voting stockholders of each association voting, in person or by written proxy, at a duly authorized stockholders meeting. “(2) Submission to fca.—Not later than 60 days prior to the end of the 12-month period beginning on the date of the enactment of this section [Jan. 6, 1988], the plan of merger under subsection (a), together with all information to be presented to the stockholders, shall be submitted to the Farm Credit Administration. “(3) Expedited consideration by fca.—The Farm Credit Administration shall expedite its consideration of the plan and accompanying information submitted under paragraph (2) so that review and approval of such plan and information shall be completed by the Administration so as to enable a stockholder vote to occur within the 12-month period referred to in paragraph (2). “(c) Direct Lenders.—On approval of a merger under this subsection, the resulting association shall be a direct lender in the same manner as applies to production credit associations.”
@@ -810,6 +846,9 @@ A prior section 2072, Pub. L. 92–181, title II, § 2.1, Dec. 10, 1971, 85 Stat
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
+
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided in part that this section is effective 6 months after Jan. 6, 1988.
 
 
 <a id="section-2075"></a>
@@ -894,6 +933,9 @@ Par. (21). Pub. L. 100–399, § 401(o)(3)–(5), added par. (21).
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
 
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided in part that this section is effective 6 months after Jan. 6, 1988.
+
 
 <a id="section-2076"></a>
 ## § 2076. Production credit association capitalization
@@ -914,6 +956,9 @@ A prior section 2074, Pub. L. 92–181, title II, § 2.3, Dec. 10, 1971, 85 Stat
 
 #### Amendments
 1992—Subsec. (b). Pub. L. 102–552 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each production credit association at the end of each fiscal year shall apply the amount of the earnings of the association for such year in excess of the operating expenses of the association (including provision for valuation reserves against loan assets in an amount equal to one-half of 1 percent of the loans outstanding at the end of the fiscal year to the extent that such earnings in such year in excess of other operating expenses permit, or in such greater amounts as are deemed necessary under generally accepted accounting principles, until such reserves equal or exceed 3½ percent of the loans outstanding at the end of the fiscal year, beyond which 3½ percent further additions to such reserves may be made, if deemed necessary under generally accepted accounting principles) first to the restoration of the impairment, if any, of capital, and second, to the establishment and maintenance of the surplus accounts, the minimum aggregate amount of which shall be prescribed by the Farm Credit Bank.”
+
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 
 <a id="section-2076a"></a>
@@ -967,6 +1012,9 @@ Subsec. (d). Pub. L. 100–399, § 401(q), added subsec. (d).
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
 
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided in part that this section is effective 6 months after Jan. 6, 1988.
+
 
 <a id="section-2077"></a>
 ## § 2077. Other services
@@ -977,6 +1025,9 @@ Each production credit association may provide technical assistance to borrowers
 
 #### Prior Provisions
 A prior section 2076, Pub. L. 92–181, title II, § 2.5, Dec. 10, 1971, 85 Stat. 595; Pub. L. 96–592, title II, § 205, Dec. 24, 1980, 94 Stat. 3442; Pub. L. 100–233, title III, § 305, Jan. 6, 1988, 101 Stat. 1621, related to services related to borrowers’ operations, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 
 <a id="section-2091"></a>
@@ -1012,6 +1063,9 @@ A prior section 2079, Pub. L. 92–181, title II, § 2.8, Dec. 10, 1971, 85 Stat
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
+
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided in part that this section is effective 6 months after Jan. 6, 1988.
 
 
 <a id="section-2093"></a>
@@ -1077,6 +1131,9 @@ Subsec. (c). Pub. L. 100–399, § 401(t), amended subsec. (c) generally. Prior 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
 
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+
 
 <a id="section-2094"></a>
 ## § 2094. Board of directors
@@ -1090,6 +1147,9 @@ A prior section 2092, Pub. L. 92–181, title II, § 2.11, Dec. 10, 1971, 85 Sta
 
 #### Amendments
 1991—Pub. L. 102–237 substituted “stockholder, or agent” for “or stockholder”.
+
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 
 <a id="section-2095"></a>
@@ -1170,6 +1230,9 @@ Par. (22). Pub. L. 100–399, § 401(u)(4)–(6), added par. (22).
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
 
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+
 
 <a id="section-2096"></a>
 ## § 2096. Federal land bank association capitalization
@@ -1180,6 +1243,9 @@ In accordance with [section 2154a of this title](./chapter-023-farm-credit-syste
 
 #### Prior Provisions
 A prior section 2094, Pub. L. 92–181, title II, § 2.13, Dec. 10, 1971, 85 Stat. 599; Pub. L. 96–592, title II, § 209, Dec. 24, 1980, 94 Stat. 3442; Pub. L. 99–205, title II, § 205(e)(12)–(14), title III, § 304(b), Dec. 23, 1985, 99 Stat. 1705, 1708; Pub. L. 100–233, title VIII, § 805(h), Jan. 6, 1988, 101 Stat. 1715, related to stock and participation certificates, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
+
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 
 <a id="section-2097"></a>
@@ -1207,6 +1273,9 @@ A prior section 2096, Pub. L. 92–181, title II, § 2.15, Dec. 10, 1971, 85 Sta
 
 A prior section 2.14 of Pub. L. 92–181 was classified to [section 2095 of this title](./chapter-023-farm-credit-system.md#section-2095) and was repealed by Pub. L. 100–399, § 401(v).
 
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
+
 
 <a id="section-2121"></a>
 ## § 2121. Liens on stock
@@ -1219,6 +1288,9 @@ Each Federal land bank association shall have a first lien on the stock and part
 A prior section 2097, Pub. L. 92–181, title II, § 2.16, Dec. 10, 1971, 85 Stat. 602; Pub. L. 96–592, title II, § 211, Dec. 24, 1980, 94 Stat. 3443, related to other services, prior to the general amendment of this subchapter by Pub. L. 100–233, § 401.
 
 A prior section 2.15 of Pub. L. 92–181 was renumbered section 2.14 and is classified to [section 2096 of this title](./chapter-023-farm-credit-system.md#section-2096).
+
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 
 <a id="section-2122"></a>
@@ -1238,6 +1310,9 @@ A prior section 2.16 of Pub. L. 92–181 was renumbered section 2.15 and is clas
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
+
+#### Effective Date
+Pub. L. 100–233, title IV, § 401, Jan. 6, 1988, 101 Stat. 1622, provided that this section is effective 6 months after Jan. 6, 1988.
 
 
 <a id="section-2123"></a>

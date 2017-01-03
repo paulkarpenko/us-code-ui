@@ -87,23 +87,11 @@ This section was enacted as part of the Department of Energy High-End Computing 
 
 
 <a id="section-5503"></a>
-## § 5503. Authorization of appropriations
-
-In addition to amounts otherwise made available for high-end computing, there are authorized to be appropriated to the Secretary to carry out this subchapter—
-
-(1) $50,000,000 for fiscal year 2005;
-
-(2) $55,000,000 for fiscal year 2006; and
-
-(3) $60,000,000 for fiscal year 2007.
+## § 5503. Repealed. Pub. L. 114–329, title I, § 105(u), Jan. 6, 2017, 130 Stat. 2985
 
 ### Statutory Notes
 
-#### References in Text
-This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–423, Nov. 30, 2004, 118 Stat. 2400, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5501 of this title](./chapter-081-high-performance-computing.md#section-5501) and Tables.
-
-#### Codification
-This section was enacted as part of the Department of Energy High-End Computing Revitalization Act of 2004 which comprises this subchapter, and not as part of the High-Performance Computing Act of 1991 which comprises this chapter.
+Section, Pub. L. 108–423, § 4, Nov. 30, 2004, 118 Stat. 2402, authorized appropriations for fiscal years 2005 to 2007.
 
 
 <a id="section-5511"></a>
@@ -113,13 +101,13 @@ The Congress finds the following:
 
 (1) Advances in computer science and technology are vital to the Nation’s prosperity, national and economic security, industrial production, engineering, and scientific advancement.
 
-(2) The United States currently leads the world in the development and use of high-performance computing for national security, industrial productivity, science, and engineering, but that lead is being challenged by foreign competitors.
+(2) The United States currently leads the world in the development and use of networking and information technology, including high-performance computing, for national security, industrial productivity, science, and engineering, but that lead is being challenged by foreign competitors.
 
-(3) Further research and development, expanded educational programs, improved computer research networks, and more effective technology transfer from government to industry are necessary for the United States to reap fully the benefits of high-performance computing.
+(3) Further research and development, expanded educational programs, improved computer research networks, and more effective technology transfer from government to industry are necessary for the United States to reap fully the benefits of networking and information technology, including high-performance computing.
 
 (4) A high-capacity, flexible, high-speed national research and education computer network is needed to provide researchers and educators with access to computational and information resources, act as a test bed for further research and development for high-capacity and high-speed computer networks, and provide researchers the necessary vehicle for continued network technology improvement through research.
 
-(5) Several Federal agencies have ongoing high-performance computing programs, but improved long-term interagency coordination, cooperation, and planning would enhance the effectiveness of these programs.
+(5) Several Federal agencies have ongoing networking and information technology, including high-performance computing, programs, but improved long-term interagency coordination, cooperation, and planning would enhance the effectiveness of these programs.
 
 (6) A 1991 report entitled “Grand Challenges: High-Performance Computing and Communications” by the Office of Science and Technology Policy, outlining a research and development strategy for high-performance computing, provides a framework for a multiagency high-performance computing program. Such a program would provide American researchers and educators with the computer and information resources they need, and demonstrate how advanced computers, high-capacity and high-speed networks, and electronic data bases can improve the national information infrastructure for use by all Americans.
 
@@ -132,9 +120,18 @@ The Congress finds the following:
 ### Statutory Notes
 
 #### Amendments
+2017—Par. (2). Pub. L. 114–329, § 105(b)(1), substituted “networking and information technology, including high-performance computing,” for “high-performance computing”.
+
+Par. (3). Pub. L. 114–329, § 105(b)(2), substituted “networking and information technology, including high-performance computing” for “high-performance computing”.
+
+Par. (5). Pub. L. 114–329, § 105(b)(1), substituted “networking and information technology, including high-performance computing,” for “high-performance computing”.
+
 1998—Par. (4). Pub. L. 105–305, § 2(b)(1), added par. (4) and struck out former par. (4) which read as follows: “A high-capacity and high-speed national research and education computer network would provide researchers and educators with access to computer and information resources and act as a test bed for further research and development of high-capacity and high-speed computer networks.”
 
 Pars. (7) to (9). Pub. L. 105–305, § 2(b)(2), added pars. (7) to (9).
+
+#### Short Title of 2017 Amendment
+Pub. L. 114–329, title I, § 105(a), Jan. 6, 2017, 130 Stat. 2976, provided that: “This section [enacting [section 5512 of this title](./chapter-081-high-performance-computing.md#section-5512), amending this section, sections 5502, 5503, 5511, 5521 to 5524, 5527, 7403, and 7431 of this title, and [section 17912 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17912&num=0&edition=prelim), The Public Health and Welfare, and repealing sections 5512, 5513, 5525, 5526, 5528, and 5543 of this title] may be cited as the ‘Networking and Information Technology Research and Development Modernization Act of 2016’.”
 
 #### Short Title of 1998 Amendment
 Pub. L. 105–305, § 1, Oct. 28, 1998, 112 Stat. 2919, provided that: “This Act [enacting [section 5513 of this title](./chapter-081-high-performance-computing.md#section-5513), amending this section and sections 5502, 5503, and 5511 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Next Generation Internet Research Act of 1998’.”
@@ -153,31 +150,102 @@ Pub. L. 105–305, § 3(a), Oct. 28, 1998, 112 Stat. 2920, provided that: “The
 #### Definitions
 Pub. L. 105–305, § 7(a), Oct. 28, 1998, 112 Stat. 2924, provided that: “For purposes of this Act [see Short Title of 1998 Amendment note above]— “(1) Geographic penalty.—The term ‘geographic penalty’ means the imposition of costs on users of the Internet in rural or other locations, attributable to the distance of the user from network facilities, the low population density of the area in which the user is located, or other factors, that are disproportionately greater than the costs imposed on users in locations closer to such facilities or on users in locations with significantly greater population density. “(2) Internet.—The term ‘Internet’ means the international computer network of both Federal and non-Federal interoperable packet switched data networks.”
 
+#### Ex. Ord. No. 13702. Creating a National Strategic Computing Initiative
+Ex. Ord. No. 13702, July 29, 2015, 80 F.R. 46177, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to maximize benefits of high-performance computing (HPC) research, development, and deployment, it is hereby ordered as follows:
+
+Section 1. Policy. In order to maximize the benefits of HPC for economic competitiveness and scientific discovery, the United States Government must create a coordinated Federal strategy in HPC research, development, and deployment. Investment in HPC has contributed substantially to national economic prosperity and rapidly accelerated scientific discovery. Creating and deploying technology at the leading edge is vital to advancing my Administration’s priorities and spurring innovation. Accordingly, this order establishes the National Strategic Computing Initiative (NSCI). The NSCI is a whole-of-government effort designed to create a cohesive, multi-agency strategic vision and Federal investment strategy, executed in collaboration with industry and academia, to maximize the benefits of HPC for the United States.
+
+Over the past six decades, U.S. computing capabilities have been maintained through continuous research and the development and deployment of new computing systems with rapidly increasing performance on applications of major significance to government, industry, and academia. Maximizing the benefits of HPC in the coming decades will require an effective national response to increasing demands for computing power, emerging technological challenges and opportunities, and growing economic dependency on and competition with other nations. This national response will require a cohesive, strategic effort within the Federal Government and a close collaboration between the public and private sectors.
+
+It is the policy of the United States to sustain and enhance its scientific, technological, and economic leadership position in HPC research, development, and deployment through a coordinated Federal strategy guided by four principles:
+
+(1) The United States must deploy and apply new HPC technologies broadly for economic competitiveness and scientific discovery.
+
+(2) The United States must foster public-private collaboration, relying on the respective strengths of government, industry, and academia to maximize the benefits of HPC.
+
+(3) The United States must adopt a whole-of-government approach that draws upon the strengths of and seeks cooperation among all executive departments and agencies with significant expertise or equities in HPC while also collaborating with industry and academia.
+
+(4) The United States must develop a comprehensive technical and scientific approach to transition HPC research on hardware, system software, development tools, and applications efficiently into development and, ultimately, operations.
+
+This order establishes the NSCI to implement this whole-of-government strategy, in collaboration with industry and academia, for HPC research, development, and deployment.
+
+Sec. 2. Objectives. Executive departments, agencies, and offices (agencies) participating in the NSCI shall pursue five strategic objectives:
+
+(1) Accelerating delivery of a capable exascale computing system that integrates hardware and software capability to deliver approximately 100 times the performance of current 10 petaflop systems across a range of applications representing government needs.
+
+(2) Increasing coherence between the technology base used for modeling and simulation and that used for data analytic computing.
+
+(3) Establishing, over the next 15 years, a viable path forward for future HPC systems even after the limits of current semiconductor technology are reached (the “post-Moore’s Law era”).
+
+(4) Increasing the capacity and capability of an enduring national HPC ecosystem by employing a holistic approach that addresses relevant factors such as networking technology, workflow, downward scaling, foundational algorithms and software, accessibility, and workforce development.
+
+(5) Developing an enduring public-private collaboration to ensure that the benefits of the research and development advances are, to the greatest extent, shared between the United States Government and industrial and academic sectors.
+
+Sec. 3. Roles and Responsibilities. To achieve the five strategic objectives, this order identifies lead agencies, foundational research and development agencies, and deployment agencies. Lead agencies are charged with developing and delivering the next generation of integrated HPC capability and will engage in mutually supportive research and development in hardware and software, as well as in developing the workforce to support the objectives of the NSCI. Foundational research and development agencies are charged with fundamental scientific discovery work and associated advances in engineering necessary to support the NSCI objectives. Deployment agencies will develop mission-based HPC requirements to influence the early stages of the design of new HPC systems and will seek viewpoints from the private sector and academia on target HPC requirements. These groups may expand to include other government entities as HPC-related mission needs emerge.
+
+(a) Lead Agencies. There are three lead agencies for the NSCI: the Department of Energy (DOE), the Department of Defense (DOD), and the National Science Foundation (NSF). The DOE Office of Science and DOE National Nuclear Security Administration will execute a joint program focused on advanced simulation through a capable exascale computing program emphasizing sustained performance on relevant applications and analytic computing to support their missions. NSF will play a central role in scientific discovery advances, the broader HPC ecosystem for scientific discovery, and workforce development. DOD will focus on data analytic computing to support its mission. The assignment of these responsibilities reflects the historical roles that each of the lead agencies have played in pushing the frontiers of HPC, and will keep the Nation on the forefront of this strategically important field. The lead agencies will also work with the foundational research and development agencies and the deployment agencies to support the objectives of the NSCI and address the wide variety of needs across the Federal Government.
+
+(b) Foundational Research and Development Agencies. There are two foundational research and development agencies for the NSCI: the Intelligence Advanced Research Projects Activity (IARPA) and the National Institute of Standards and Technology (NIST). IARPA will focus on future computing paradigms offering an alternative to standard semiconductor computing technologies. NIST will focus on measurement science to support future computing technologies. The foundational research and development agencies will coordinate with deployment agencies to enable effective transition of research and development efforts that support the wide variety of requirements across the Federal Government.
+
+(c) Deployment Agencies. There are five deployment agencies for the NSCI: the National Aeronautics and Space Administration, the Federal Bureau of Investigation, the National Institutes of Health, the Department of Homeland Security, and the National Oceanic and Atmospheric Administration. These agencies may participate in the co-design process to integrate the special requirements of their respective missions and influence the early stages of design of new HPC systems, software, and applications. Agencies will also have the opportunity to participate in testing, supporting workforce development activities, and ensuring effective deployment within their mission contexts.
+
+Sec. 4. Executive Council. (a) To ensure accountability for and coordination of research, development, and deployment activities within the NSCI, there is established an NSCI Executive Council to be co-chaired by the Director of the Office of Science and Technology Policy (OSTP) and the Director of the Office of Management and Budget (OMB). The Director of OSTP shall designate members of the Executive Council from within the executive branch. The Executive Council will include representatives from agencies with roles and responsibilities as identified in this order.
+
+(b) The Executive Council shall coordinate and collaborate with the National Science and Technology Council established by Executive Order 12881 of November 23, 1993, and its subordinate entities as appropriate to ensure that HPC efforts across the Federal Government are aligned with the NSCI. The Executive Council shall also consult with representatives from other agencies as it determines necessary. The Executive Council may create additional task forces as needed to ensure accountability and coordination.
+
+(c) The Executive Council shall meet regularly to assess the status of efforts to implement this order. The Executive Council shall meet no less often than twice yearly in the first year after issuance of this order. The Executive Council may revise the meeting frequency as needed thereafter. In the event the Executive Council is unable to reach consensus, the Co-Chairs will be responsible for documenting issues and potential resolutions through a process led by OSTP and OMB.
+
+(d) The Executive Council will encourage agencies to collaborate with the private sector as appropriate. The Executive Council may seek advice from the President’s Council of Advisors on Science and Technology through the Assistant to the President for Science and Technology and may interact with other private sector groups consistent with the Federal Advisory Committee Act.
+
+Sec. 5. Implementation. (a) The Executive Council shall, within 90 days of the date of this order, establish an implementation plan to support and align efforts across agencies in support of the NSCI objectives. Annually thereafter for 5 years, the Executive Council shall update the implementation plan as required and document the progress made in implementing the plan, engaging with the private sector, and taking actions to implement this order. After 5 years, updates to the implementation plan may be requested at the discretion of the Co-Chairs.
+
+(b) The Co-Chairs shall prepare a report each year until 5 years from the date of this order on the status of the NSCI for the President. After 5 years, reports may be prepared at the discretion of the Co-Chairs.
+
+Sec. 6. Definitions. For the purposes of this order:
+
+The term “high-performance computing” refers to systems that, through a combination of processing capability and storage capacity, can solve computational problems that are beyond the capability of small- to medium-scale systems.
+
+The term “petaflop” refers to the ability to perform one quadrillion arithmetic operations per second.
+
+The term “exascale computing system” refers to a system operating at one thousand petaflops.
+
+Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of OMB relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.
+
 
 <a id="section-5512"></a>
 ## § 5512. Purposes
 
-The purposes of this chapter are to help ensure the continued leadership of the United States in high-performance computing and its applications by—
+The purposes of this chapter are to help ensure the continued leadership of the United States in networking and information technology and its applications by—
 
-(1) expanding Federal support for research, development, and application of high-performance computing in order to—
+(1) supporting Federal research, development, and application of networking and information technology in order to—
 
-  (A) expand the number of researchers, educators, and students with training in high-performance computing and access to high-performance computing resources;
+  (A) expand the number of researchers, educators, and students with training in networking and information technology and access to networking and information technology resources;
 
   (B) promote the further development of an information infrastructure of data bases, services, access mechanisms, and research facilities available for use through the Internet;
 
-  (C) stimulate research on software technology;
+  (C) stimulate research on and promote more rapid development of high-end computing systems software and applications software;
 
-  (D) promote the more rapid development and wider distribution of computing software tools and applications software;
+  (D) accelerate the development of high-end computing systems and subsystems;
 
-  (E) accelerate the development of computing systems and subsystems;
+  (E) provide for the application of networking and information technology to Grand Challenges;
 
-  (F) provide for the application of high-performance computing to Grand Challenges;
+  (F) invest in basic research and education, and promote the inclusion of networking and information technology into educational institutions at all levels; and
 
-  (G) invest in basic research and education, and promote the inclusion of high-performance computing into educational institutions at all levels; and
+  (G) promote greater collaboration among government, Federal laboratories, industry, high-end computing centers, and universities;
 
-  (H) promote greater collaboration among government, Federal laboratories, industry, high-performance computing centers, and universities;
-
-(2) improving the interagency planning and coordination of Federal research and development on high-performance computing and maximizing the effectiveness of the Federal Government’s high-performance computing network research and development programs;
+(2) improving the interagency planning and coordination of Federal research and development on networking and information technology and maximizing the effectiveness of the Federal Government’s networking and information technology research and development programs;
 
 (3) promoting the more rapid development and wider distribution of networking management and development tools; and
 
@@ -186,6 +254,22 @@ The purposes of this chapter are to help ensure the continued leadership of the 
 ### Statutory Notes
 
 #### Amendments
+2017—Pub. L. 114–329, § 105(c)(1), substituted “networking and information technology” for “high-performance computing” in introductory provisions.
+
+Par. (1). Pub. L. 114–329, § 105(c)(2)(A), substituted “supporting Federal research, development, and application of networking and information technology” for “expanding Federal support for research, development, and application of high-performance computing” in introductory provisions.
+
+Par. (1)(A). Pub. L. 114–329, § 105(c)(2)(B), substituted “networking and information technology” for “high-performance computing” in two places.
+
+Par. (1)(C). Pub. L. 114–329, § 105(c)(2)(C), (D), added subpar. (C) and struck out former subpar. (C) which read as follows: “stimulate research on software technology;”.
+
+Par. (1)(D). Pub. L. 114–329, § 105(c)(2)(C), (E), (F), redesignated subpar. (E) as (D), inserted “high-end” after “the development of”, and struck out former subpar. (D) which read as follows: “promote the more rapid development and wider distribution of computing software tools and applications software;”.
+
+Par. (1)(E), (F). Pub. L. 114–329, § 105(c)(2)(E), (G), redesignated subpars. (F) and (G) as (E) and (F), respectively, and substituted “networking and information technology” for “high-performance computing”. Former subpar. (E) redesignated (D).
+
+Par. (1)(G), (H). Pub. L. 114–329, § 105(c)(2)(E), (H), redesignated subpar. (H) as (G) and substituted “high-end” for “high-performance”. Former subpar. (G) redesignated (F).
+
+Par. (2). Pub. L. 114–329, § 105(c)(3), substituted “high-performance computing and” for “high-performance computing and” and “high-performance computing network” for “high-performance computing network”.
+
 1998—Pub. L. 105–305, § 3(b)(1), substituted “Purposes” for “Purpose” as section catchline.
 
 Pub. L. 105–305, § 3(b)(2), substituted “purposes of this chapter are” for “purpose of this chapter is” in introductory provisions.
@@ -206,23 +290,41 @@ Pars. (3), (4). Pub. L. 105–305, § 3(b)(7), added pars. (3) and (4).
 
 As used in this chapter, the term—
 
-(1) “Director” means the Director of the Office of Science and Technology Policy;
+(1) “cyber-physical systems” means physical or engineered systems whose networking and information technology functions and physical elements are deeply integrated and are actively connected to the physical world through sensors, actuators, or other means to enable safe and effective, real-time performance in safety-critical and other applications;
 
-(2) “Grand Challenge” means a fundamental problem in science or engineering, with broad economic and scientific impact, whose solution will require the application of high-performance computing resources and multidisciplinary teams of researchers;
+(2) “Director” means the Director of the Office of Science and Technology Policy;
 
-(3) “high-performance computing” means advanced computing, communications, and information technologies, including supercomputer systems, high-capacity and high-speed networks, special purpose and experimental systems, applications and systems software, and the management of large data sets;
+(3) “Grand Challenge” means a fundamental problem in science or engineering, with broad economic and scientific impact, whose solution will require the application of networking and information technology resources and multidisciplinary teams of researchers;
 
-(4) “Internet” means the international computer network of both Federal and non-Federal interoperable data networks;
+(4) “high-end computing” means the most advanced and capable computing systems, including their hardware, storage, networking and software, encompassing both massive computational capability and large-scale data analytics to solve computational problems of national importance that are beyond the capability of small- to medium-scale systems, including computing formerly known as high-performance computing;
 
-(5) “Network” means a computer network referred to as the National Research and Education Network established under [section 5512 of this title](./chapter-081-high-performance-computing.md#section-5512);
+(5) “Internet” means the international computer network of both Federal and non-Federal interoperable data networks;
 
-(6) “Program” means the National High-Performance Computing Program described in [section 5511 of this title](./chapter-081-high-performance-computing.md#section-5511); and
+(6) “networking and information technology” means high-end computing, communications, and information technologies, high-capacity and high-speed networks, special purpose and experimental systems, high-end computing systems software and applications software, and the management of large data sets;
 
-(7) “Program Component Areas” means the major subject areas under which related individual projects and activities carried out under the Program are grouped.
+(7) “participating agency” means an agency described in [section 5511(a)(3)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5511/a/3/C&num=0&edition=prelim);
+
+(8) “Program” means the Networking and Information Technology Research and Development Program described in [section 5511 of this title](./chapter-081-high-performance-computing.md#section-5511); and
+
+(9) “Program Component Areas” means the major subject areas under which related individual projects and activities carried out under the Program are grouped.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Pars. (1), (2). Pub. L. 114–329, § 105(d)(2), (3), added par. (1) and redesignated former par. (1) as (2). Former par. (2) redesignated (3).
+
+Par. (3). Pub. L. 114–329, § 105(d)(1), (2), (4), redesignated par. (2) as (3), substituted “networking and information technology” for “high-performance computing”, and struck out former par. (3) which read as follows: “ ‘high-performance computing’ means advanced computing, communications, and information technologies, including supercomputer systems, high-capacity and high-speed networks, special purpose and experimental systems, applications and systems software, and the management of large data sets;”.
+
+Par. (4). Pub. L. 114–329, § 105(d)(5), added par. (4). Former par. (4) redesignated (5).
+
+Par. (5). Pub. L. 114–329, § 105(d)(1), (2), redesignated par. (4) as (5) and struck out former par. (5) which read as follows: “ ‘Network’ means a computer network referred to as the National Research and Education Network established under [section 5512 of this title](./chapter-081-high-performance-computing.md#section-5512);”.
+
+Pars. (6), (7). Pub. L. 114–329, § 105(d)(6), added pars. (6) and (7). Former pars. (6) and (7) redesignated (8) and (9), respectively.
+
+Par. (8). Pub. L. 114–329, § 105(d)(2), (7), redesignated par. (6) as (8) and substituted “Networking and Information Technology Research and Development Program” for “National High-Performance Computing Program”.
+
+Par. (9). Pub. L. 114–329, § 105(d)(2), redesignated par. (7) as (9).
+
 2007—Par. (2). Pub. L. 110–69, § 7024(a)(2)(A), inserted “and multidisciplinary teams of researchers” after “high-performance computing resources”.
 
 Par. (3). Pub. L. 110–69, § 7024(a)(2)(B), struck out “scientific workstations,” after “technologies, including” and “(including vector supercomputers and large scale parallel systems)” after “supercomputer systems”, substituted “applications” for “and applications”, and inserted “, and the management of large data sets” after “systems software”.
@@ -235,50 +337,68 @@ Par. (7). Pub. L. 110–69, § 7024(a)(2)(D)–(F), added par. (7).
 
 
 <a id="section-5521"></a>
-## § 5521. National High-Performance Computing Program
-**(a) National High-Performance Computing Program**
+## § 5521. Networking and Information Technology Research and Development Program
+**(a) Networking and Information Technology Research and Development**
 
-(1) The President shall implement a National High-Performance Computing Program, which shall—
+(1) The President shall implement a Networking and Information Technology Research and Development Program, which shall—
 
-  (A) provide for long-term basic and applied research on high-performance computing, including networking;
+  (A) provide for long-term basic and applied research on networking and information technology;
 
-  (B) provide for research and development on, and demonstration of, technologies to advance the capacity and capabilities of high-performance computing and networking systems, and related software;
+  (B) provide for research and development on, and demonstration of, technologies to advance the capacity and capabilities of high-end computing and networking systems, and related software;
 
-  (C) provide for sustained access by the research community throughout the United States to high-performance computing and networking systems that are among the most advanced in the world in terms of performance in solving scientific and engineering problems, including provision for technical support for users of such systems;
+  (C) provide for sustained access by the research community throughout the United States to high-end computing, distributed, and networking systems that are among the most advanced in the world in terms of performance in solving scientific and engineering problems, including provision for technical support for users of such systems;
 
-  (D) provide for widely dispersed efforts to increase software availability, productivity, capability, security, portability, and reliability;
+  (D) provide for efforts to increase software security and reliability;
 
   (E) provide for high-performance networks, including experimental testbed networks, to enable research and development on, and demonstration of, advanced applications enabled by such networks;
 
   (F) provide for computational science and engineering research on mathematical modeling and algorithms for applications in all fields of science and engineering;
 
-  (G) provide for the technical support of, and research and development on, high-performance computing systems and software required to address Grand Challenges;
+  (G) provide for the technical support of, and research and development on, high-end computing systems and software required to address Grand Challenges;
 
-  (H) provide for educating and training additional undergraduate and graduate students in software engineering, computer science, computer and network security, applied mathematics, library and information science, and computational science; and
+  (H) provide support and guidance for educating and training additional undergraduate and graduate students in software engineering, computer science, computer and network security, applied mathematics, library and information science, and computational science;
 
-  (I) provide for improving the security of computing and networking systems, including Federal systems, including providing for research required to establish security standards and practices for these systems.
+  (I) provide for improving the security, reliability, and resilience of computing and networking systems, including Federal systems, including providing for research required to establish security standards and practices for these systems;
+
+  (J) provide for increased understanding of the scientific principles of cyber-physical systems and improve the methods available for the design, development, and operation of cyber-physical systems that are characterized by high reliability, safety, and security;
+
+  (K) provide for research and development on human-computer interactions, visualization, and big data;
+
+  (L) provide for research and development on the enhancement of cybersecurity, including the human facets of cyber threats and secure cyber systems;
+
+  (M) provide for the understanding of the science, engineering, policy, and privacy protection related to networking and information technology;
+
+  (N) provide for the transition of high-end computing hardware, system software, development tools, and applications into development and operations; and
+
+  (O) foster public-private collaboration among government, industry research laboratories, academia, and nonprofit organizations to maximize research and development efforts and the benefits of networking and information technology, including high-end computing.
 
 (2) The Director shall—
 
-  (A) establish the goals and priorities for Federal high-performance computing research, development, networking, and other activities;
+  (A) establish the goals and priorities for Federal networking and information technology research, development, education, and other activities;
 
   (B) establish Program Component Areas that implement the goals established under subparagraph (A), and identify the Grand Challenges that the Program should address;
 
-  (C) provide for interagency coordination of Federal high-performance computing research, development, networking, and other activities undertaken pursuant to the Program;
+  (C) provide for interagency coordination of Federal networking and information technology research, development, education, and other activities undertaken pursuant to the Program—
+
+    (i) among the participating agencies; and
+
+    (ii) to the extent practicable, with other Federal agencies not described in paragraph (3)(C), other Federal and private research laboratories, industry, research entities, institutions of higher education, relevant nonprofit organizations, and international partners of the United States;
 
   (D) submit to the Congress an annual report, along with the President’s annual budget request, describing the implementation of the Program;
 
-  (E) develop and maintain a research, development, and deployment roadmap covering all States and regions for the provision of high-performance computing and networking systems under paragraph (1)(C); and
+  (E) encourage and monitor the efforts of the agencies participating in the Program to allocate the level of resources and management attention necessary to ensure that the strategic plans under subsection (e) are developed and executed effectively and that the objectives of the Program are met; and
 
-  (F) consult with academic, State, industry, and other appropriate groups conducting research on and using high-performance computing.
+  (F) consult with academic, State, industry, and other appropriate groups conducting research on and using high-end computing.
 
 (3) The annual report submitted under paragraph (2)(D) shall—
 
   (A) provide a detailed description of the Program Component Areas, including a description of any changes in the definition of or activities under the Program Component Areas from the preceding report, and the reasons for such changes, and a description of Grand Challenges addressed under the Program;
 
-  (B) set forth the relevant programs and activities, for the fiscal year with respect to which the budget submission applies, of each Federal agency and department, including—
+  (B) provide a detailed description of the nature and scope of research infrastructure designated as such under the Program;
 
-    (i) the Department of Agriculture;
+  (C) set forth the relevant programs and activities, for the fiscal year with respect to which the budget submission applies, of each Federal agency and department, including—
+
+    (i) the Department of Justice;
 
     (ii) the Department of Commerce;
 
@@ -290,25 +410,29 @@ Par. (7). Pub. L. 110–69, § 7024(a)(2)(D)–(F), added par. (7).
 
     (vi) the Department of Health and Human Services;
 
-    (vii) the Department of the Interior;
+    (vii) the Department of Homeland Security;
 
-    (viii) the Environmental Protection Agency;
+    (viii) the National Archives and Records Administration;
 
-    (ix) the National Aeronautics and Space Administration;
+    (ix) the Environmental Protection Agency;
 
-    (x) the National Science Foundation; and
+    (x) the National Aeronautics and Space Administration;
 
-    (xi) such other agencies and departments as the President or the Director considers appropriate;
+    (xi) the National Science Foundation; and
 
-  (C) describe the levels of Federal funding for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies, for each Program Component Area;
+    (xii) such other agencies and departments as the President or the Director considers appropriate;
 
-  (D) describe the levels of Federal funding for each agency and department participating in the Program, and for each Program Component Area, for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies; and
+  (D) describe the levels of Federal funding for the fiscal year during which such report is submitted, the levels for the previous fiscal year, and the levels proposed for the fiscal year with respect to which the budget submission applies, for each Program Component Area and research area supported in accordance with [section 5512 of this title](./chapter-081-high-performance-computing.md#section-5512);
 
-  (E) include an analysis of the progress made toward achieving the goals and priorities established for the Program and the extent to which the Program incorporates the recommendations of the advisory committee established under subsection (b).
+  (E) describe the levels of Federal funding for each participating agency, and for each Program Component Area, for the fiscal year during which such report is submitted, the levels for the previous fiscal year, and the levels proposed for the fiscal year with respect to which the budget submission applies;
+
+  (F) include a description of how the objectives for each Program Component Area, and the objectives for activities that involve multiple Program Component Areas, relate to the objectives of the Program identified in the strategic plans required under subsection (e); and
+
+  (G) include an analysis of the progress made toward achieving the goals and priorities established for the Program and the extent to which the Program incorporates the recommendations of the advisory committee established under subsection (b).
 
 **(b) Advisory committee**
 
-(1) The President shall establish an advisory committee on high-performance computing, consisting of geographically dispersed non-Federal members, including representatives of the research, education, and library communities, network and related software providers, and industry representatives in the Program Component Areas, who are specially qualified to provide the Director with advice and information on high-performance computing. The recommendations of the advisory committee shall be considered in reviewing and revising the Program. The advisory committee shall provide the Director with an independent assessment of—
+(1) The President shall establish an advisory committee on networking and information technology, consisting of geographically dispersed non-Federal members, including representatives of the research, education, and library communities, network and related software providers, and industry representatives in the Program Component Areas, who are specially qualified to provide the Director with advice and information on networking and information technology. Each chair of the advisory committee shall meet the qualifications of committee membership and may be a member of the President’s Council of Advisors on Science and Technology. The recommendations of the advisory committee shall be considered in reviewing and revising the Program. The advisory committee shall provide the Director with an independent assessment of—
 
   (A) progress made in implementing the Program;
 
@@ -316,11 +440,11 @@ Par. (7). Pub. L. 110–69, § 7024(a)(2)(D)–(F), added par. (7).
 
   (C) the balance between the components of the Program, including funding levels for the Program Component Areas;
 
-  (D) whether the research and development undertaken pursuant to the Program is helping to maintain United States leadership in high-performance computing, networking technology, and related software; and
+  (D) whether the research and development undertaken pursuant to the Program is helping to maintain United States leadership in networking and information technology; and
 
   (E) other issues identified by the Director.
 
-(2) In addition to the duties outlined in paragraph (1), the advisory committee shall conduct periodic evaluations of the funding, management, coordination, implementation, and activities of the Program. The advisory committee shall report not less frequently than once every 2 fiscal years to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on its findings and recommendations. The first report shall be due within 1 year after August 9, 2007.
+(2) In addition to the duties outlined in paragraph (1), the advisory committee shall conduct periodic evaluations of the funding, management, coordination, implementation, and activities of the Program. The advisory committee shall report not less frequently than once every 3 fiscal years to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on its findings and recommendations.
 
 (3) Section 14 of the Federal Advisory Committee Act shall not apply to the advisory committee established under this subsection.
 
@@ -328,11 +452,61 @@ Par. (7). Pub. L. 110–69, § 7024(a)(2)(D)–(F), added par. (7).
 
 (1) Each Federal agency and department participating in the Program shall, as part of its annual request for appropriations to the Office of Management and Budget, submit a report to the Office of Management and Budget which—
 
-  (A) identifies each element of its high-performance computing activities which contributes directly to the Program Component Areas or benefits from the Program; and
+  (A) identifies each element of its networking and information technology activities which contributes directly to the Program Component Areas or benefits from the Program; and
 
   (B) states the portion of its request for appropriations that is allocated to each such element.
 
-(2) The Office of Management and Budget shall review each such report in light of the goals, priorities, and agency and departmental responsibilities set forth in the annual report submitted under subsection (a)(2)(D) of this section, and shall include, in the President’s annual budget estimate, a statement of the portion of each appropriate agency’s or department’s annual budget estimate relating to its activities undertaken pursuant to the Program.
+(2) The Office of Management and Budget shall review each such report in light of the goals, priorities, and agency and departmental responsibilities set forth in the annual report submitted under subsection (a)(2)(D), and shall include, in the President’s annual budget estimate, a statement of the portion of each appropriate agency’s or department’s annual budget estimate relating to its activities undertaken pursuant to the Program.
+
+**(d) Periodic reviews** The heads of the participating agencies, working through the National Science and Technology Council and the Program, shall—
+
+(1) periodically assess and update, as appropriate, the structure of the Program, including the Program Component Areas and associated contents, scope, and funding levels, taking into consideration any relevant recommendations of the advisory committee established under subsection (b); and
+
+(2) ensure that such agency’s implementation of the Program includes foundational, large-scale, long-term, and interdisciplinary information technology research and development activities, including activities described in [section 5512 of this title](./chapter-081-high-performance-computing.md#section-5512).
+
+**(e) Strategic plans**
+
+(1) **In general** — The heads of the participating agencies, working through the National Science and Technology Council and the Program, shall develop and implement strategic plans to guide—
+
+  (A) emerging activities of Federal networking and information technology research and development; and
+
+  (B) the activities described in subsection (a)(1).
+
+(2) **Updates** — The heads of the participating agencies shall update the strategic plans as appropriate.
+
+(3) **Contents** — Each strategic plan shall—
+
+  (A) specify near-term and long-term objectives for the portions of the Program relevant to the strategic plan, the anticipated schedule for achieving the near-term and long-term objectives, and the metrics to be used for assessing progress toward the near-term and long-term objectives;
+
+  (B) specify how the near-term and long-term objectives complement research and development areas in which academia and the private sector are actively engaged;
+
+  (C) describe how the heads of the participating agencies will support mechanisms for foundational, large-scale, long-term, and interdisciplinary information technology research and development and for Grand Challenges, including through collaborations—
+
+    (i) across Federal agencies;
+
+    (ii) across Program Component Areas; and
+
+    (iii) with industry, Federal and private research laboratories, research entities, institutions of higher education, relevant nonprofit organizations, and international partners of the United States;
+
+  (D) describe how the heads of the participating agencies will foster the rapid transfer of research and development results into new technologies and applications in the national interest, including through cooperation and collaborations with networking and information technology research, development, and technology transition initiatives supported by the States; and
+
+  (E) describe how the portions of the Program relevant to the strategic plan will address long-term challenges for which solutions require foundational, large-scale, long-term, and interdisciplinary information technology research and development.
+
+(4) **Private sector efforts** — In developing, implementing, and updating strategic plans, the heads of the participating agencies, working through the National Science and Technology Council and the Program, shall coordinate with industry, academia, and other interested stakeholders to ensure, to the extent practicable, that the Federal networking and information technology research and development activities carried out under this section do not duplicate the efforts of the private sector.
+
+(5) **Recommendations** — In developing and updating strategic plans, the heads of the participating agencies shall solicit recommendations and advice from—
+
+  (A) the advisory committee under subsection (b);
+
+  (B) the Committee on Science and relevant subcommittees of the National Science and Technology Council; and
+
+  (C) a wide range of stakeholders, including industry, academia, National Laboratories, and other relevant organizations and institutions.
+
+**(f) Reports** The heads of the participating agencies, working through the National Science and Technology Council and the Program, shall submit to the advisory committee, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives—
+
+(1) the strategic plans developed under subsection (e)(1); and
+
+(2) each update under subsection (e)(2).
 
 ### Statutory Notes
 
@@ -340,6 +514,66 @@ Par. (7). Pub. L. 110–69, § 7024(a)(2)(D)–(F), added par. (7).
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(3), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2017—Pub. L. 114–329, § 105(f)(1), substituted “Networking and Information Technology Research and Development Program” for “National High-Performance Computing Program” in section catchline.
+
+Subsec. (a). Pub. L. 114–329, § 105(f)(2)(A), substituted “Networking and Information Technology Research and Development” for “National High-Performance Computing Program” in heading.
+
+Subsec. (a)(1). Pub. L. 114–329, § 105(f)(2)(B)(i), substituted “Networking and Information Technology Research and Development Program” for “National High-Performance Computing Program” in introductory provisions.
+
+Subsec. (a)(1)(A). Pub. L. 114–329, § 105(f)(2)(B)(ii), substituted “networking and information technology” for “high-performance computing, including networking”.
+
+Subsec. (a)(1)(B). Pub. L. 114–329, § 105(f)(2)(B)(iii), substituted “high-end” for “high-performance”.
+
+Subsec. (a)(1)(C). Pub. L. 114–329, § 105(f)(2)(B)(iv), substituted “high-end computing, distributed, and networking” for “high-performance computing and networking”.
+
+Subsec. (a)(1)(D). Pub. L. 114–329, § 105(f)(2)(B)(v), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “provide for widely dispersed efforts to increase software availability, productivity, capability, security, portability, and reliability;”.
+
+Subsec. (a)(1)(G). Pub. L. 114–329, § 105(f)(2)(B)(iii), substituted “high-end” for “high-performance”.
+
+Subsec. (a)(1)(H). Pub. L. 114–329, § 105(f)(2)(B)(vi), inserted “support and guidance” after “provide” and struck out “and” at end.
+
+Subsec. (a)(1)(I). Pub. L. 114–329, § 105(f)(2)(B)(vii), substituted “improving the security, reliability, and resilience” for “improving the security” and semicolon for period at end.
+
+Subsec. (a)(1)(J) to (O). Pub. L. 114–329, § 105(f)(2)(B)(viii), added subpars. (J) to (O).
+
+Subsec. (a)(2)(A). Pub. L. 114–329, § 105(f)(2)(C)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “establish the goals and priorities for Federal high-performance computing research, development, networking, and other activities;”.
+
+Subsec. (a)(2)(C). Pub. L. 114–329, § 105(f)(2)(C)(ii), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “provide for interagency coordination of Federal high-performance computing research, development, networking, and other activities undertaken pursuant to the Program;”.
+
+Subsec. (a)(2)(E). Pub. L. 114–329, § 105(f)(2)(C)(iii), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “develop and maintain a research, development, and deployment roadmap covering all States and regions for the provision of high-performance computing and networking systems under paragraph (1)(C); and”.
+
+Subsec. (a)(2)(F). Pub. L. 114–329, § 105(f)(2)(C)(iv), substituted “high-end” for “high-performance”.
+
+Subsec. (a)(3)(B). Pub. L. 114–329, § 105(f)(2)(D)(ii), added subpar. (B). Former subpar. (B) redesignated (C).
+
+Subsec. (a)(3)(C). Pub. L. 114–329, § 105(f)(2)(D)(i), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
+
+Subsec. (a)(3)(C)(i). Pub. L. 114–329, § 105(f)(2)(D)(iii)(I), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the Department of Agriculture;”.
+
+Subsec. (a)(3)(C)(vii). Pub. L. 114–329, § 105(f)(2)(D)(iii)(III), added cl. (vii). Former cl. (vii) redesignated (viii).
+
+Subsec. (a)(3)(C)(viii). Pub. L. 114–329, § 105(f)(2)(D)(iii)(II), (IV), redesignated cl. (vii) as (viii) and amended it generally. Prior to amendment, cl. (viii) read as follows: “the Department of the Interior;”. Former cl. (viii) redesignated (ix).
+
+Subsec. (a)(3)(C)(ix) to (xii). Pub. L. 114–329, § 105(f)(2)(D)(iii)(II), redesignated cls. (viii) to (xi) as (ix) to (xii), respectively.
+
+Subsec. (a)(3)(D). Pub. L. 114–329, § 105(f)(2)(D)(i), (iv), redesignated subpar. (C) as (D) and substituted “is submitted, the levels for the previous fiscal year,” for “is submitted,” and “each Program Component Area and research area supported in accordance with [section 5512 of this title](./chapter-081-high-performance-computing.md#section-5512);” for “each Program Component Area;”. Former subpar. (D) redesignated (E).
+
+Subsec. (a)(3)(E). Pub. L. 114–329, § 105(f)(2)(D)(i), (v), redesignated subpar. (D) as (E) and amended it generally. Prior to amendment, subpar. (E) read as follows: “describe the levels of Federal funding for each agency and department participating in the Program, and for each Program Component Area, for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies; and”. Former subpar. (E) redesignated (G).
+
+Subsec. (a)(3)(F). Pub. L. 114–329, § 105(f)(2)(D)(vi), added subpar. (F).
+
+Subsec. (a)(3)(G). Pub. L. 114–329, § 105(f)(2)(D)(i), redesignated subpar. (E) as (G).
+
+Subsec. (b)(1). Pub. L. 114–329, § 105(f)(3)(A), in introductory provisions, substituted “networking and information technology” for “high-performance computing” in two places and inserted “Each chair of the advisory committee shall meet the qualifications of committee membership and may be a member of the President’s Council of Advisors on Science and Technology.” before “The recommendations”.
+
+Subsec. (b)(1)(D). Pub. L. 114–329, § 105(f)(3)(B), substituted “networking and information technology” for “high-performance computing, networking technology, and related software”.
+
+Subsec. (b)(2). Pub. L. 114–329, § 105(f)(3)(C), substituted “3 fiscal years” for “2 fiscal years” and “Committee on Science, Space, and Technology” for “Committee on Science and Technology” and struck out at end “The first report shall be due within 1 year after August 9, 2007.”
+
+Subsec. (c)(1)(A). Pub. L. 114–329, § 105(f)(4), substituted “networking and information technology” for “high-performance computing”.
+
+Subsecs. (d) to (f). Pub. L. 114–329, § 105(f)(5), added subsecs. (d) to (f).
+
 2007—Subsec. (a)(1)(A) to (I). Pub. L. 110–69, § 7024(a)(1)(B)(i), added subpars. (A) to (I) and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) establish the goals and priorities for Federal high-performance computing research, development, networking, and other activities; and
@@ -378,14 +612,11 @@ Subsec. (b). Pub. L. 105–305, § 4(b), struck out “High-performance computin
 
 1995—Subsec. (a)(4)(D) to (F). Pub. L. 104–66 struck out “and” at end of subpar. (D), added subpar. (E), and redesignated former subpar. (E) as (F).
 
-#### Change of Name
-Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
-
 #### Termination of Advisory Committees
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Delegation of Functions
-President’s Council of Advisors on Science and Technology to serve as the advisory committee identified in sections 5511(b) and 5513(b) of this title and to be known as the President’s Innovation and Technology Advisory Committee when so serving, see section 2(a)(iii) of Ex. Ord. No. 13539, set out as a note under [section 6601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6601&num=0&edition=prelim), The Public Health and Welfare.
+President’s Council of Advisors on Science and Technology to serve as the advisory committee identified in section 5511(b) and former [section 5513(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5513/b&num=0&edition=prelim) and to be known as the President’s Innovation and Technology Advisory Committee when so serving, see section 2(a)(iii) of Ex. Ord. No. 13539, set out as a note under [section 6601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6601&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Ex. Ord. No. 13035. President’s Information Technology Advisory Committee
 Ex. Ord. No. 13035, Feb. 11, 1997, 62 F.R. 7131, as amended by Ex. Ord. No. 13092, July 24, 1998, 63 F.R. 40167; Ex. Ord. No. 13113, Feb. 10, 1999, 64 F.R. 7489; Ex. Ord. No. 13200, Feb. 11, 2001, 66 F.R. 10183; Ex. Ord. No. 13215, May 31, 2001, 66 F.R. 30285; Ex. Ord. No. 13305, May 28, 2003, 68 F.R. 32323, provided:
@@ -424,154 +655,95 @@ Sec. 4. General. (a) Notwithstanding any other Executive order, the functions of
 
 
 <a id="section-5522"></a>
-## § 5522. National Research and Education Network
-**(a) Establishment** As part of the Program, the National Science Foundation, the Department of Defense, the Department of Energy, the Department of Commerce, the National Aeronautics and Space Administration, and other agencies participating in the Program shall support the establishment of the National Research and Education Network, portions of which shall, to the extent technically feasible, be capable of transmitting data at one gigabit per second or greater by 1996. The Network shall provide for the linkage of research institutions and educational institutions, government, and industry in every State.
+## § 5522. Grand challenges in areas of national importance
+**(a) In general** The Program shall encourage the participating agencies to support foundational, large-scale, long-term, interdisciplinary, and interagency information technology research and development activities in networking and information technology directed toward agency mission areas that have the potential for significant contributions to national economic competitiveness and for other significant societal benefits. Such activities, ranging from basic research to the demonstration of technical solutions, shall be designed to advance the development of fundamental discoveries. The advisory committee established under [section 5511(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5511/b&num=0&edition=prelim) shall make recommendations to the Program for candidate research and development areas for support under this section.
 
-**(b) Access** Federal agencies and departments shall work with private network service providers, State and local agencies, libraries, educational institutions and organizations, and others, as appropriate, in order to ensure that the researchers, educators, and students have access, as appropriate, to the Network. The Network is to provide users with appropriate access to high-performance computing systems, electronic information resources, other research facilities, and libraries. The Network shall provide access, to the extent practicable, to electronic information resources maintained by libraries, research facilities, publishers, and affiliated organizations.
+**(b) Characteristics**
 
-**(c) Network characteristics** The Network shall—
+(1) **In general** — Research and development activities under this section shall—
 
-(1) be developed and deployed with the computer, telecommunications, and information industries;
+  (A) include projects selected on the basis of applications for support through a competitive, merit-based process;
 
-(2) be designed, developed, and operated in collaboration with potential users in government, industry, and research institutions and educational institutions;
+  (B) to the extent practicable, involve collaborations among researchers in institutions of higher education and industry, and may involve nonprofit research institutions and Federal laboratories, as appropriate;
 
-(3) be designed, developed, and operated in a manner which fosters and maintains competition and private sector investment in high-speed data networking within the telecommunications industry;
+  (C) to the extent practicable, leverage Federal investments through collaboration with related State and private sector initiatives; and
 
-(4) be designed, developed, and operated in a manner which promotes research and development leading to development of commercial data communications and telecommunications standards, whose development will encourage the establishment of privately operated high-speed commercial networks;
+  (D) include a plan for fostering the transfer of research discoveries and the results of technology demonstration activities, including from institutions of higher education and Federal laboratories, to industry for commercial development.
 
-(5) be designed and operated so as to ensure the continued application of laws that provide network and information resources security measures, including those that protect copyright and other intellectual property rights, and those that control access to data bases and protect national security;
-
-(6) have accounting mechanisms which allow users or groups of users to be charged for their usage of copyrighted materials available over the Network and, where appropriate and technically feasible, for their usage of the Network;
-
-(7) ensure the interoperability of Federal and non-Federal computer networks, to the extent appropriate, in a way that allows autonomy for each component network;
-
-(8) be developed by purchasing standard commercial transmission and network services from vendors whenever feasible, and by contracting for customized services when not feasible, in order to minimize Federal investment in network hardware;
-
-(9) support research and development of networking software and hardware; and
-
-(10) serve as a test bed for further research and development of high-capacity and high-speed computing networks and demonstrate how advanced computers, high-capacity and high-speed computing networks, and data bases can improve the national information infrastructure.
-
-**(d) Defense Advanced Research Projects Agency responsibility** As part of the Program, the Department of Defense, through the Defense Advanced Research Projects Agency, shall support research and development of advanced fiber optics technology, switches, and protocols needed to develop the Network.
-
-**(e) Information services** The Director shall assist the President in coordinating the activities of appropriate agencies and departments to promote the development of information services that could be provided over the Network. These services may include the provision of directories of the users and services on computer networks, data bases of unclassified Federal scientific data, training of users of data bases and computer networks, access to commercial information services for users of the Network, and technology to support computer-based collaboration that allows researchers and educators around the Nation to share information and instrumentation.
-
-**(f) Use of grant funds** All Federal agencies and departments are authorized to allow recipients of Federal research grants to use grant moneys to pay for computer networking expenses.
-
-**(g) Report to Congress** Within one year after December 9, 1991, the Director shall report to the Congress on—
-
-(1) effective mechanisms for providing operating funds for the maintenance and use of the Network, including user fees, industry support, and continued Federal investment;
-
-(2) the future operation and evolution of the Network;
-
-(3) how commercial information service providers could be charged for access to the Network, and how Network users could be charged for such commercial information services;
-
-(4) the technological feasibility of allowing commercial information service providers to use the Network and other federally funded research networks;
-
-(5) how to protect the copyrights of material distributed over the Network; and
-
-(6) appropriate policies to ensure the security of resources available on the Network and to protect the privacy of users of networks.
-
-
-<a id="section-5523"></a>
-## § 5523. Next Generation Internet
-**(a) Establishment** The National Science Foundation, the Department of Energy, the National Institutes of Health, the National Aeronautics and Space Administration, and the National Institute of Standards and Technology may support the Next Generation Internet program. The objectives of the Next Generation Internet program shall be to—
-
-(1) support research, development, and demonstration of advanced networking technologies to increase the capabilities and improve the performance of the Internet;
-
-(2) develop an advanced testbed network connecting a significant number of research sites, including universities, Federal research institutions, and other appropriate research partner institutions, to support networking research and to demonstrate new networking technologies; and
-
-(3) develop and demonstrate advanced Internet applications that meet important national goals or agency mission needs, and that are supported by the activities described in paragraphs (1) and (2).
-
-**(b) Duties of Advisory Committee** The President’s Information Technology Advisory Committee (established pursuant to [section 5511(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5511/b&num=0&edition=prelim) by Executive Order No. 13035 of February 11, 1997 (62 F.R. 7131), as amended by Executive Order No. 13092 of July 24, 1998), in addition to its functions under [section 5511(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5511/b&num=0&edition=prelim), shall—
-
-(1) assess the extent to which the Next Generation Internet program—
-
-  (A) carries out the purposes of this chapter; and
-
-  (B) addresses concerns relating to, among other matters—
-
-    (i) geographic penalties (as defined in section 7(1) of the Next Generation Internet Research Act of 1998); 11 See References in Text note below.
-
-    (ii) the adequacy of access to the Internet by Historically Black Colleges and Universities, Hispanic Serving Institutions, and small colleges and universities (whose enrollment is less than 5,000) and the degree of participation of those institutions in activities described in subsection (a) of this section; and
-
-    (iii) technology transfer to and from the private sector;
-
-(2) review the extent to which the role of each Federal agency and department involved in implementing the Next Generation Internet program is clear and complementary to, and non-duplicative of, the roles of other participating agencies and departments;
-
-(3) assess the extent to which Federal support of fundamental research in computing is sufficient to maintain the Nation’s critical leadership in this field; and
-
-(4) make recommendations relating to its findings under paragraphs (1), (2), and (3).
-
-**(c) Reports** The Advisory Committee shall review implementation of the Next Generation Internet program and shall report, not less frequently than annually, to the President, the Committee on Commerce, Science, and Transportation, the Committee on Appropriations, and the Committee on Armed Services of the Senate, and the Committee on Science, the Committee on Appropriations, and the Committee on Armed Services of the House of Representatives on its findings and recommendations for the preceding fiscal year. The first such report shall be submitted 6 months after October 28, 1998, and the last report shall be submitted by September 30, 2000.
-
-**(d) Authorization of appropriations** There are authorized to be appropriated for the purposes of this section—
-
-(1) for the Department of Energy, $22,000,000 for fiscal year 1999 and $25,000,000 for fiscal year 2000;
-
-(2) for the National Science Foundation, $25,000,000 for fiscal year 1999 and $25,000,000 for fiscal year 2000, as authorized in the National Science Foundation Authorization Act of 1998;
-
-(3) for the National Institutes of Health, $5,000,000 for fiscal year 1999 and $7,500,000 for fiscal year 2000;
-
-(4) for the National Aeronautics and Space Administration, $10,000,000 for fiscal year 1999 and $10,000,000 for fiscal year 2000; and
-
-(5) for the National Institute of Standards and Technology, $5,000,000 for fiscal year 1999 and $7,500,000 for fiscal year 2000.
-Such funds may not be used for routine upgrades to existing federally funded communication networks.
+(2) **Cost-sharing** — In selecting applications for support, the agencies may give special consideration to projects that include cost sharing from non-Federal sources.
 
 ### Statutory Notes
 
-#### References in Text
-Executive Order No. 13035, referred to in subsec. (b), is set out as a note under [section 5511 of this title](./chapter-081-high-performance-computing.md#section-5511).
+#### Prior Provisions
+A prior section 5512, Pub. L. 102–194, title I, § 102, Dec. 9, 1991, 105 Stat. 1598, related to the National Research and Education Network, prior to repeal by Pub. L. 114–329, title I, § 105(g), Jan. 6, 2017, 130 Stat. 2982.
 
-Section 7(1) of the Next Generation Internet Research Act of 1998, referred to in subsec. (b)(1)(B)(i), probably means section 7(a)(1) of Pub. L. 105–305, which is set out as a note under [section 5501 of this title](./chapter-081-high-performance-computing.md#section-5501).
 
-The National Science Foundation Authorization Act of 1998, referred to in subsec. (d)(2), is Pub. L. 105–207, July 29, 1998, 112 Stat. 869. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under [section 1861 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1861&num=0&edition=prelim), The Public Health and Welfare, and Tables.
+<a id="section-5523"></a>
+## § 5523. Repealed. Pub. L. 114–329, title I, § 105(h), Jan. 6, 2017, 130 Stat. 2982
 
-#### Amendments
-1999—Subsec. (c). Pub. L. 106–65 substituted “Committee on Armed Services of the House” for “Committee on National Security of the House”.
+### Statutory Notes
 
-#### Change of Name
-Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+Section, Pub. L. 102–194, title I, § 103, as added Pub. L. 105–305, § 5, Oct. 28, 1998, 112 Stat. 2921; amended Pub. L. 106–65, div. A, title X, § 1067(20), Oct. 5, 1999, 113 Stat. 775, related to the Next Generation Internet program.
 
 
 <a id="section-5524"></a>
 ## § 5524. National Science Foundation activities
-**(a) General responsibilities** As part of the Program described in subchapter I of this chapter—
 
-(1) the National Science Foundation shall provide computing and networking infrastructure support for all science and engineering disciplines, and support basic research and human resource development in all aspects of high-performance computing and advanced high-speed computer networking;
+As part of the Program described in subchapter I—
 
-(2) to the extent that colleges, universities, and libraries cannot connect to the Network with the assistance of the private sector, the National Science Foundation shall have primary responsibility for assisting colleges, universities, and libraries to connect to the Network;
+(1) the National Science Foundation shall provide high-end computing and networking infrastructure support for all science and engineering disciplines, and support basic research and human resource development in all aspects of networking and information technology; and
 
-(3) the National Science Foundation shall serve as the primary source of information on access to and use of the Network; and
-
-(4) the National Science Foundation shall upgrade the National Science Foundation funded network, assist regional networks to upgrade their capabilities, and provide other Federal departments and agencies the opportunity to connect to the National Science Foundation funded network.
-
-**(b) Authorization of appropriations** From sums otherwise authorized to be appropriated, there are authorized to be appropriated to the National Science Foundation for the purposes of the Program $213,000,000 for fiscal year 1992; $262,000,000 for fiscal year 1993; $305,000,000 for fiscal year 1994; $354,000,000 for fiscal year 1995; and $413,000,000 for fiscal year 1996.
-
-
-<a id="section-5525"></a>
-## § 5525. National Aeronautics and Space Administration activities
-**(a) General responsibilities** As part of the Program described in subchapter I of this chapter, the National Aeronautics and Space Administration shall conduct basic and applied research in high-performance computing, particularly in the field of computational science, with emphasis on aerospace sciences, earth and space sciences, and remote exploration and experimentation.
-
-**(b) Authorization of appropriations** From sums otherwise authorized to be appropriated, there are authorized to be appropriated to the National Aeronautics and Space Administration for the purposes of the Program $72,000,000 for fiscal year 1992; $107,000,000 for fiscal year 1993; $134,000,000 for fiscal year 1994; $151,000,000 for fiscal year 1995; and $145,000,000 for fiscal year 1996.
-
-
-<a id="section-5526"></a>
-## § 5526. Department of Energy activities
-**(a) General responsibilities** As part of the Program described in subchapter I of this chapter, the Secretary of Energy shall—
-
-(1) conduct and support basic and applied research in high-performance computing and networking to support fundamental research in science and engineering disciplines related to energy applications; and
-
-(2) provide computing and networking infrastructure support, including—
-
-  (A) the provision of high-performance computing systems that are among the most advanced in the world in terms of performance in solving scientific and engineering problems; and
-
-  (B) support for advanced software and applications development for science and engineering disciplines related to energy applications.
-
-**(b) Authorization of appropriations** There are authorized to be appropriated to the Secretary of Energy such sums as are necessary to carry out this section.
+(2) the National Science Foundation shall use its existing programs, in collaboration with other agencies, as appropriate, to improve the teaching and learning of networking and information technology at all levels of education and to increase participation in networking and information technology fields, including by individuals identified in sections 1885a and 1885b of title 42.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Pub. L. 114–329, § 105(j)(1)(A), (2), struck out subsec. (a) designation and heading “General responsibilities” and struck out subsec. (b) which authorized appropriations for fiscal years 1992 to 1996.
+
+Par. (1). Pub. L. 114–329, § 105(j)(1)(B), inserted “high-end” after “National Science Foundation shall provide” and substituted “networking and information technology; and” for “high-performance computing and advanced high-speed computer networking;”.
+
+Par. (2). Pub. L. 114–329, § 105(j)(1)(C), (D), added par. (2) and struck out former par. (2) which read as follows: “to the extent that colleges, universities, and libraries cannot connect to the Network with the assistance of the private sector, the National Science Foundation shall have primary responsibility for assisting colleges, universities, and libraries to connect to the Network;”.
+
+Pars. (3), (4). Pub. L. 114–329, § 105(j)(1)(C), struck out pars. (3) and (4) which read as follows:
+
+“(3) the National Science Foundation shall serve as the primary source of information on access to and use of the Network; and
+
+“(4) the National Science Foundation shall upgrade the National Science Foundation funded network, assist regional networks to upgrade their capabilities, and provide other Federal departments and agencies the opportunity to connect to the National Science Foundation funded network.”
+
+
+<a id="section-5525"></a>
+## § 5525. National Aeronautics and Space Administration activities
+
+As part of the Program described in subchapter I, the National Aeronautics and Space Administration shall conduct basic and applied research in networking and information technology, particularly in the field of computational science, with emphasis on aerospace sciences, earth and space sciences, and remote exploration and experimentation.
+
+### Statutory Notes
+
+#### Amendments
+2017—Pub. L. 114–329 struck out subsec. (a) designation and heading “General responsibilities”, substituted “networking and information technology” for “high-performance computing”, and struck out subsec. (b) which authorized appropriations for fiscal years 1992 to 1996.
+
+
+<a id="section-5526"></a>
+## § 5526. Department of Energy activities
+
+As part of the Program described in subchapter I, the Secretary of Energy shall—
+
+(1) conduct and support basic and applied research in networking and information technology to support fundamental research in science and engineering disciplines related to energy applications; and
+
+(2) provide computing and networking infrastructure support, including—
+
+  (A) the provision of high-end computing systems that are among the most advanced in the world in terms of performance in solving scientific and engineering problems; and
+
+  (B) support for advanced software and applications development for science and engineering disciplines related to energy applications.
+
+### Statutory Notes
+
+#### Amendments
+2017—Pub. L. 114–329, § 105(l)(1), (4), struck out subsec. (a) designation and heading “General responsibilities” and struck out subsec. (b) which authorized to be appropriated to the Secretary of Energy such sums as necessary to carry out this section.
+
+Par. (1). Pub. L. 114–329, § 105(l)(2), substituted “networking and information technology” for “high-performance computing and networking”.
+
+Par. (2)(A). Pub. L. 114–329, § 105(l)(3), substituted “high-end” for “high-performance”.
+
 2005—Pub. L. 109–58 reenacted section catchline without change and amended text generally, substituting provisions relating to general responsibilities and authorization of appropriations for provisions relating to general responsibilities, establishment of High-Performance Computing Research and Development Collaborative Consortia, transfer of technology to private sector and others, reports on activities, and authorization of appropriations.
 
 1995—Subsec. (d). Pub. L. 104–66 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “Within one year after December 9, 1991, and every year thereafter, the Secretary of Energy shall transmit to the Congress a report on activities taken to carry out this chapter.”
@@ -579,54 +751,48 @@ Committee on Science of House of Representatives changed to Committee on Science
 
 <a id="section-5527"></a>
 ## § 5527. Department of Commerce activities
-**(a) General responsibilities** As part of the Program described in subchapter I of this chapter—
+**(a) General responsibilities** As part of the Program described in subchapter I—
 
 (1) the National Institute of Standards and Technology shall—
 
-  (A) conduct basic and applied measurement research needed to support various high-performance computing systems and networks;
+  (A) conduct basic and applied measurement research needed to support various networking and information technology systems and capabilities;
 
-  (B) develop and propose standards and guidelines, and develop measurement techniques and test methods, for the interoperability of high-performance computing systems in networks and for common user interfaces to systems; and
+  (B) develop and propose standards and guidelines, and develop measurement techniques and test methods, for the interoperability and usability of networking and information technology systems; and
 
-  (C) be responsible for developing benchmark tests and standards for high-performance computing systems and software; and
+  (C) be responsible for developing benchmark tests and standards for networking and information technology systems and software; and
 
 (2) the National Oceanic and Atmospheric Administration shall conduct basic and applied research in weather prediction and ocean sciences, particularly in development of new forecast models, in computational fluid dynamics, and in the incorporation of evolving computer architectures and networks into the systems that carry out agency missions.
 
-**(b) High-performance computing and network security** Pursuant to the Computer Security Act of 1987 (Public Law 100–235; 101 Stat. 1724), the National Institute of Standards and Technology shall be responsible for developing and proposing standards and guidelines needed to assure the cost-effective security and privacy of sensitive information in Federal computer systems.
-
-**(c) Study of impact of Federal procurement regulations**
-
-(1) The Secretary of Commerce shall conduct a study to—
-
-  (A) evaluate the impact of Federal procurement regulations that require that contractors providing software to the Federal Government share the rights to proprietary software development tools that the contractors use to develop the software; and
-
-  (B) determine whether such regulations discourage development of improved software development tools and techniques.
-
-(2) The Secretary of Commerce shall, within one year after December 9, 1991, report to the Congress regarding the results of the study conducted under paragraph (1).
-
-**(d) Authorization of appropriations** From sums otherwise authorized to be appropriated, there are authorized to be appropriated—
-
-(1) to the National Institute of Standards and Technology for the purposes of the Program $3,000,000 for fiscal year 1992; $4,000,000 for fiscal year 1993; $5,000,000 for fiscal year 1994; $6,000,000 for fiscal year 1995; and $7,000,000 for fiscal year 1996; and
-
-(2) to the National Oceanic and Atmospheric Administration for the purposes of the Program $2,500,000 for fiscal year 1992; $3,000,000 for fiscal year 1993; $3,500,000 for fiscal year 1994; $4,000,000 for fiscal year 1995; and $4,500,000 for fiscal year 1996.
+**(b) Networking and information technology security** The National Institute of Standards and Technology shall be responsible for developing and proposing standards and guidelines needed to assure the cost-effective security and privacy of Federal agency information and information systems.
 
 ### Statutory Notes
 
-#### References in Text
-The Computer Security Act of 1987, referred to in subsec. (b), is Pub. L. 100–235, Jan. 8, 1988, 101 Stat. 1724, which enacted sections 278g–3 and 278g–4 of this title, amended [section 272 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-272) and section 759 of former Title 40, Public Buildings, Property, and Works, and enacted provisions set out as notes under [section 271 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-271) and section 1441 of former Title 40. For complete classification of this Act to the Code, see Tables.
+#### Amendments
+2017—Subsec. (a)(1)(A). Pub. L. 114–329, § 105(m)(1)(A), substituted “networking and information technology systems and capabilities” for “high-performance computing systems and networks”.
+
+Subsec. (a)(1)(B). Pub. L. 114–329, § 105(m)(1)(B), substituted “interoperability and usability of networking and information technology systems” for “interoperability of high-performance computing systems in networks and for common user interfaces to systems”.
+
+Subsec. (a)(1)(C). Pub. L. 114–329, § 105(m)(1)(C), substituted “networking and information technology” for “high-performance computing”.
+
+Subsec. (b). Pub. L. 114–329, § 105(m)(2), in heading, substituted “Networking and information technology” for “High-performance computing and network” and, in text, substituted “The National Institute” for “Pursuant to the Computer Security Act of 1987 (Public Law 100–235; 101 Stat. 1724), the National Institute” and “Federal agency information and information systems” for “sensitive information in Federal computer systems”.
+
+Subsecs. (c), (d). Pub. L. 114–329, § 105(m)(3), struck out subsecs. (c) and (d) which required a study of the impact of Federal procurement regulations and authorized appropriations for fiscal years 1992 to 1996.
 
 
 <a id="section-5528"></a>
-## § 5528. Environmental Protection Agency activities
-**(a) General responsibilities** As part of the Program described in subchapter I of this chapter, the Environmental Protection Agency shall conduct basic and applied research directed toward the advancement and dissemination of computational techniques and software tools which form the core of ecosystem, atmospheric chemistry, and atmospheric dynamics models.
+## § 5528. Repealed. Pub. L. 114–329, title I, § 105(n), Jan. 6, 2017, 130 Stat. 2984
 
-**(b) Authorization of appropriations** From sums otherwise authorized to be appropriated, there are authorized to be appropriated to the Environmental Protection Agency for the purposes of the Program $5,000,000 for fiscal year 1992; $5,500,000 for fiscal year 1993; $6,000,000 for fiscal year 1994; $6,500,000 for fiscal year 1995; and $7,000,000 for fiscal year 1996.
+### Statutory Notes
+
+Section, Pub. L. 102–194, title II, § 205, Dec. 9, 1991, 105 Stat. 1602, described Environmental Protection Agency activities and authorized appropriations for fiscal years 1992 to 1996.
 
 
 <a id="section-5541"></a>
-## § 5541. Role of Department of Education
-**(a) General responsibilities** As part of the Program described in subchapter I of this chapter, the Secretary of Education is authorized to conduct basic and applied research in computational research with an emphasis on the coordination of activities with libraries, school facilities, and education research groups with respect to the advancement and dissemination of computational science and the development, evaluation and application of software capabilities.
+## § 5541. Repealed. Pub. L. 114–329, title I, § 105(o), Jan. 6, 2017, 130 Stat. 2984
 
-**(b) Authorization of appropriations** From sums otherwise authorized to be appropriated, there are authorized to be appropriated to the Department of Education for the purposes of this section $1,500,000 for fiscal year 1992; $1,700,000 for fiscal year 1993; $1,900,000 for fiscal year 1994; $2,100,000 for fiscal year 1995; and $2,300,000 for fiscal year 1996.
+### Statutory Notes
+
+Section, Pub. L. 102–194, title II, § 206, Dec. 9, 1991, 105 Stat. 1602, described the role of the Department of Education and authorized appropriations for fiscal years 1992 to 1996.
 
 
 <a id="section-5542"></a>
@@ -635,60 +801,21 @@ The Computer Security Act of 1987, referred to in subsec. (b), is Pub. L. 100–
 
 (1) programs or activities regarding computer systems that process classified information; or
 
-(2) computer systems the function, operation, or use of which are those delineated in paragraphs (1) through (5) of [section 2315(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2315/a&num=0&edition=prelim).11 So in original. [Section 2315 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2315&num=0&edition=prelim) does not contain a subsec. (a).
+(2) computer systems the function, operation, or use of which are those delineated in [section 3552(b)(6)(A)(i) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552/b/6/A/i&num=0&edition=prelim).
 
-**(b) Acquisition of prototype and early production models** In accordance with Federal contracting law, Federal agencies and departments participating in the Program may acquire prototype or early production models of new high-performance computing systems and subsystems to stimulate hardware and software development. Items of computing equipment acquired under this subsection shall be considered research computers for purposes of applicable acquisition regulations.
-
-
-<a id="section-5543"></a>
-## § 5543. Fostering United States competitiveness in high-performance computing and related activities
-**(a) Findings** The Congress finds the following:
-
-(1) High-performance computing and associated technologies are critical to the United States economy.
-
-(2) While the United States has led the development of high-performance computing, United States industry is facing increasing global competition.
-
-(3) Despite existing international agreements on fair competition and nondiscrimination in government procurements, there is increasing concern that such agreements are not being honored, that more aggressive enforcement of such agreements is needed, and that additional steps may be required to ensure fair global competition, particularly in high-technology fields such as high-performance computing and associated technologies.
-
-(4) It is appropriate for Federal agencies and departments to use the funds authorized for the Program in a manner which most effectively fosters the maintenance and development of United States leadership in high-performance computers and associated technologies in and for the benefit of the United States.
-
-(5) It is appropriate for Federal agencies and departments to use the funds authorized for the Program in a manner, consistent with the Trade Agreements Act of 1979 ([19 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2501&num=0&edition=prelim) et seq.), which most effectively fosters reciprocal competitive procurement treatment by foreign governments for United States high-performance computing and associated technology products and suppliers.
-
-**(b) Annual report**
-
-(1) **Report** — The Director shall submit an annual report to Congress that identifies—
-
-  (A) any grant, contract, cooperative agreement, or cooperative research and development agreement (as defined under [section 3710a(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3710a/d/1&num=0&edition=prelim)) made or entered into by any Federal agency or department for research and development under the Program with—
-
-    (i) any company other than a company that is either incorporated or located in the United States, and that has majority ownership by individuals who are citizens of the United States; or
-
-    (ii) any educational institution or nonprofit institution located outside the United States; and
-
-  (B) any procurement exceeding $1,000,000 by any Federal agency or department under the Program for—
-
-    (i) unmanufactured articles, materials, or supplies mined or produced outside the United States; or
-
-    (ii) manufactured articles, materials, or supplies other than those manufactured in the United States substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States,
-    under the meaning of chapter 83 of title 41.
-
-(2) **Consolidation of reports** — The report required by this subsection may be included with the report required by section 5511(a)(3)(A) 11 See References in Text note below. of this title.
-
-**(c) Application of Buy American Act** This chapter does not affect the applicability of chapter 83 of title 41 to procurements by Federal agencies and departments undertaken as a part of the Program.
+**(b) Acquisition of prototype and early production models** In accordance with Federal contracting law, Federal agencies and departments participating in the Program may acquire prototype or early production models of new networking and information technology systems and subsystems to stimulate hardware and software development. Items of computing equipment acquired under this subsection shall be considered research computers for purposes of applicable acquisition regulations.
 
 ### Statutory Notes
 
-#### References in Text
-The Trade Agreements Act of 1979, referred to in subsec. (a)(5), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144, as amended. For complete classification of this Act to the Code, see References in Text note set out under [section 2501 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2501&num=0&edition=prelim), Customs Duties, and Tables.
-
-[Section 5511(a)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5511/a/3/A&num=0&edition=prelim), referred to in subsec. (b)(2), was redesignated [section 5511(a)(2)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5511/a/2/D&num=0&edition=prelim) by Pub. L. 110–69, title VII, § 7024(a)(1)(B)(ii), (iii)(II), Aug. 9, 2007, 121 Stat. 687.
-
-#### Codification
-In subsec. (b)(1)(B), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 ([41 U.S.C. 10a–10d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section10a–10d&num=0&edition=prelim); popularly known as the Buy American Act) as amended by the Buy American Act of 1988” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
-
-In subsec. (c), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 ([41 U.S.C. 10a–10d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section10a–10d&num=0&edition=prelim); popularly known as the Buy American Act), as amended by the Buy American Act of 1988,” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
-
 #### Amendments
-2007—Subsecs. (c), (d). Pub. L. 110–69 redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to review of Supercomputer Agreement.
+2017—Subsec. (a)(2). Pub. L. 114–329, § 105(p)(1), substituted “[section 3552(b)(6)(A)(i) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552/b/6/A/i&num=0&edition=prelim)” for “paragraphs (1) through (5) of [section 2315(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2315/a&num=0&edition=prelim)”.
 
-#### Termination of Reporting Requirements
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (b)(1) of this section is listed on page 185), see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance.
+Subsec. (b). Pub. L. 114–329, § 105(p)(2), substituted “networking and information technology” for “high-performance computing”.
+
+
+<a id="section-5543"></a>
+## § 5543. Repealed. Pub. L. 114–329, title I, § 105(q), Jan. 6, 2017, 130 Stat. 2984
+
+### Statutory Notes
+
+Section Pub. L. 102–194, title II, § 208, Dec. 9, 1991, 105 Stat. 1603; Pub. L. 110–69, title III, § 3002(c)(6), Aug. 9, 2007, 121 Stat. 587, related to findings and annual reports for fostering United States competitiveness in high-performance computing and related activities.

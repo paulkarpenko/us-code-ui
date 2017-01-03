@@ -753,7 +753,7 @@ For the purpose of this subchapter the term “State” means a State, the Distr
 ## § 1962d–20. Comprehensive plans for development, utilization, and conservation of water and related resources
 **(a) Federal State cooperation**
 
-(1) **Comprehensive plans** — The Secretary of the Army, acting through the Chief of Engineers, is authorized to cooperate with any State or other non-Federal interest working with a State in the preparation of comprehensive plans for the development, utilization, and conservation of the water and related resources of drainage basins, watersheds, or ecosystems located within the boundaries of such State, including plans to comprehensively address water resources challenges, and to submit to Congress reports and recommendations with respect to appropriate Federal participation in carrying out such plans.
+(1) **Comprehensive plans** — The Secretary of the Army, acting through the Chief of Engineers, is authorized to cooperate with any State, group of States, or non-Federal interest working with a State or group of States in the preparation of comprehensive plans for the development, utilization, and conservation of the water and related resources of drainage basins, watersheds, or ecosystems located within the boundaries of such State or group of States, including plans to comprehensively address water resources challenges, and to submit to Congress reports and recommendations with respect to appropriate Federal participation in carrying out such plans.
 
 (2) **Technical assistance**
 
@@ -773,7 +773,7 @@ For the purpose of this subchapter the term “State” means a State, the Distr
 
 **(c) Authorization of appropriations**
 
-(1) **Federal and State cooperation** — There is authorized to be appropriated not to exceed $30,000,000 annually to carry out subsection (a)(1), except that not more than $5,000,000 in Federal funds shall be expended in any one year in any one State.
+(1) **Federal and State cooperation** — There is authorized to be appropriated not to exceed $30,000,000 annually to carry out subsection (a)(1), except that not more than $5,000,000 in Federal funds shall be expended in any one year in any one State. The Secretary may allow 2 or more States to combine all or a portion of the funds that the Secretary makes available to the States in carrying out subsection (a)(1).
 
 (2) **Technical assistance** — There is authorized to be appropriated $15,000,000 annually to carry out subsection (a)(2), of which not more than $2,000,000 annually may be used by the Secretary to enter into cooperative agreements with nonprofit organizations to provide assistance to rural and small communities.
 
@@ -781,12 +781,20 @@ For the purpose of this subchapter the term “State” means a State, the Distr
 
 **(e) “State” defined** For the purposes of this section, the term “State” means the several States of the United States, Indian tribes, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Marianas, and the Trust Territory of the Pacific Islands.
 
+**(f) Special rule** The cost-share for assistance under this section provided to Indian tribes, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Marianas, and the Trust Territory of the Pacific Islands shall be as provided under [section 2310 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2310&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### Codification
 Section was enacted as part of the Water Resources Development Act of 1974, and not as part of the Water Resources Planning Act which comprises this chapter.
 
 #### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–322, § 1128(1), substituted “, group of States, or non-Federal interest” for “or other non-Federal interest” and inserted “or group of States” after “working with a State” and after “boundaries of such State”.
+
+Subsec. (c)(1). Pub. L. 114–322, § 1128(2), inserted at end “The Secretary may allow 2 or more States to combine all or a portion of the funds that the Secretary makes available to the States in carrying out subsection (a)(1).”
+
+Subsec. (f). Pub. L. 114–322, § 1129, added subsec. (f).
+
 2014—Subsec. (a)(1). Pub. L. 113–121, § 3015(1)(A), inserted “or other non-Federal interest working with a State” after “cooperate with any State” and “, including plans to comprehensively address water resources challenges,” after “of such State”.
 
 Subsec. (a)(2)(A). Pub. L. 113–121, § 3015(1)(B), struck out “, at Federal expense,” after “provide”.
@@ -924,7 +932,7 @@ The Council is authorized to make such rules and regulations as it may deem nece
 <a id="section-1962d-5a"></a>
 ## § 1962d–5a. Delegation of functions
 
-The Council is authorized to delegate to any member or employee of the Council its administrative functions under [section 1962a–4 of this title](./chapter-19b-water-resources-planning.md#section-1962a-4) and the detailed administration of the grant program under subchapter III of this chapter.
+The Council is authorized to delegate to any member or employee of the Council its administrative functions under [section 1962a–4 of this title](./chapter-19b-water-resources-planning.md#section-1962a-4) and the detailed administration of the grant program under subchapter III.
 
 
 <a id="section-1962d-5b"></a>
@@ -1083,7 +1091,7 @@ Section was enacted as part of the Flood Control Act of 1968, and not as part of
 
 **(b) Definition of non-Federal interest** The term “non-Federal interest” means—
 
-(1) a legally constituted public body (including a federally recognized Indian tribe); or
+(1) a legally constituted public body (including a federally recognized Indian tribe and, as defined in [section 1602 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim), a Native village, Regional Corporation, and Village Corporation); or
 
 (2) a nonprofit entity with the consent of the affected local government,
 that has full authority and capability to perform the terms of its agreement and to pay damages, if necessary, in the event of failure to perform.
@@ -1125,6 +1133,8 @@ The Water Supply Act of 1958, as amended, referred to in subsec. (h), is Pub. L.
 Section was enacted as part of the Flood Control Act of 1970, and not as part of the Water Resources Planning Act which comprises this chapter.
 
 #### Amendments
+Subsec. (b)(1). Pub. L. 114–322 inserted “and, as defined in [section 1602 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim), a Native village, Regional Corporation, and Village Corporation” after “Indian tribe”.
+
 2014—Subsec. (a)(4)(A). Pub. L. 113–121, § 1018(a)(1), inserted “or a project under an environmental infrastructure assistance program” after “law” in introductory provisions.
 
 Subsec. (a)(4)(C). Pub. L. 113–121, § 1018(a)(2), added text of subpar. (C) and struck out text of former subpar. (C) which read as follows: “In any case in which the non-Federal interest is to receive credit under subparagraph (A)(ii) for the cost of work carried out by the non-Federal interest and such work has not been carried out as of November 8, 2007, the Secretary and the non-Federal interest shall enter into an agreement under which the non-Federal interest shall carry out such work, and only work carried out following the execution of the agreement shall be eligible for credit.”
@@ -1239,7 +1249,7 @@ Section was enacted as part of the Water Resources Development Act of 1976, and 
 
 (2) include in the subsequent annual report to Congress required under [section 2282d of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2282d&num=0&edition=prelim), any recommendations that require specific congressional authorization.
 
-**(e) Special rule** Notwithstanding any other provision of this section, for any existing authorized water resources development project for which the maximum period for nourishment described in subsection (a) will expire within the 5 year-period beginning on June 10, 2014, that project shall remain eligible for nourishment for an additional 3 years after the expiration of such period.
+**(e) Special rule** Notwithstanding any other provision of this section, for any existing authorized water resources development project for which the maximum period for nourishment described in subsection (a) will expire within the 5 year-period beginning on June 10, 2014, that project shall remain eligible for nourishment for an additional 6 years after the expiration of such period.
 
 ### Statutory Notes
 
@@ -1247,6 +1257,8 @@ Section was enacted as part of the Water Resources Development Act of 1976, and 
 Section was enacted as part of the Water Resources Development Act of 1976, and not as part of the Water Resources Planning Act which comprises this chapter.
 
 #### Amendments
+2016—Subsec. (e). Pub. L. 114–322 substituted “6 years” for “3 years”.
+
 2014—Pub. L. 113–121 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (e).
 
 1986—Pub. L. 99–662 substituted “fiftieth” for “fifteenth”.
@@ -1274,7 +1286,7 @@ Section was enacted as part of the Water Resources Development Act of 1976, and 
 
 (9) any other pertinent factors necessary to evaluate the development and operation of hydroelectric projects of the Corps of Engineers.
 
-**(b) Transmittal of plan to Congressional committees** Within three years after the date of the first appropriation of funds for the purpose of carrying out this section, the Secretary of the Army, acting through the Chief of Engineers, shall transmit the plan prepared pursuant to subsection (a) of this section with supporting studies and documentation, together with the recommendations of the Secretary and the Chief of Engineers on such plan, to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives.
+**(b) Transmittal of plan to Congressional committees** Within three years after the date of the first appropriation of funds for the purpose of carrying out this section, the Secretary of the Army, acting through the Chief of Engineers, shall transmit the plan prepared pursuant to subsection (a) with supporting studies and documentation, together with the recommendations of the Secretary and the Chief of Engineers on such plan, to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives.
 
 **(c) Authorization of appropriation** There is authorized to be appropriated to carry out subsections (a) and (b) of this section not to exceed $7,000,000.
 
@@ -1425,7 +1437,7 @@ Pub. L. 99–662, title XI, § 1142, Nov. 17, 1986, 100 Stat. 4253, as amended b
 
 **(e) Water use activities and policies** The Secretary may provide technical assistance to the Great Lakes States to develop interstate guidelines to improve the consistency and efficiency of State-level water use activities and policies in the Great Lakes basin.
 
-**(f) Cost sharing** The Secretary may seek and accept funds from non-Federal entities to be used to pay up to 25 percent of the cost of carrying out subsections (b), (c), (d), and (e) of this section.
+**(f) Cost sharing** The Secretary may seek and accept funds from non-Federal entities to be used to pay up to 25 percent of the cost of carrying out subsections (b), (c), (d), and (e).
 
 **(g) In-kind contributions for study** The non-Federal interest may provide up to 100 percent of the non-Federal share required under subsection (f) in the form of in-kind services and materials.
 
@@ -1493,15 +1505,17 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, se
 
   (B) *Studies* — Evaluations under subparagraph (A) shall be conducted in consultation with the Great Lakes Fishery Commission and appropriate Federal, State, and local agencies.
 
+(5) **Recreation features** — A project carried out pursuant to this subsection may include compatible recreation features as determined by the Secretary, except that the Federal costs of such features may not exceed 10 percent of the Federal ecosystem restoration costs of the project.
+
 **(d) Cooperative agreements** In carrying out this section, the Secretary may enter into a cooperative agreement with the Great Lakes Commission or any other agency established to facilitate active State participation in management of the Great Lakes.
 
 **(e) Relationship to other Great Lakes activities** No activity under this section shall affect the date of completion of any other activity relating to the Great Lakes that is authorized under other law.
 
 **(f) Cost sharing**
 
-(1) **Development of plan** — The Federal share of the cost of development of the plan under subsection (c)(1) of this section shall be 65 percent.
+(1) **Development of plan** — The Federal share of the cost of development of the plan under subsection (c)(1) shall be 65 percent.
 
-(2) **Project planning, design, construction, and evaluation** — Except for reconnaissance studies, the Federal share of the cost of planning, design, construction, and evaluation of a project under paragraph (3) or (4) of subsection (c) of this section shall be 65 percent.
+(2) **Project planning, design, construction, and evaluation** — Except for reconnaissance studies, the Federal share of the cost of planning, design, construction, and evaluation of a project under paragraph (3) or (4) of subsection (c) shall be 65 percent.
 
 (3) **Non-Federal share**
 
@@ -1513,12 +1527,6 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, se
 
 (5) **Non-Federal interests** — In accordance with [section 1962d–5b of this title](./chapter-19b-water-resources-planning.md#section-1962d-5b), for any project carried out under this section, a non-Federal interest may include a private interest and a nonprofit entity.
 
-**(g) Authorization of appropriations**
-
-(1) **Development of plan** — There is authorized to be appropriated for development of the plan under subsection (c)(1) of this section $300,000.
-
-(2) **Other activities** — There is authorized to be appropriated to carry out paragraphs (2) and (3) of subsection (c) of this section $100,000,000.
-
 ### Statutory Notes
 
 #### References in Text
@@ -1528,6 +1536,10 @@ The Great Lakes Basin Compact, referred to in subsec. (b)(2), is not classified 
 Section was enacted as part of the Water Resources Development Act of 2000, and not as part of the Water Resources Planning Act which comprises this chapter.
 
 #### Amendments
+2016—Subsec. (c)(5). Pub. L. 114–322, § 1140, added par. (5).
+
+Subsec. (g). Pub. L. 114–322, § 1123, struck out subsec. (g) which authorized appropriations for subsec. (c)(1) to (3).
+
 2007—Subsec. (c)(2) to (4). Pub. L. 110–114, § 5011(a), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “paragraph (3)” for “paragraph (2)” in subpar. (A) of par. (4).
 
 Subsec. (f)(2). Pub. L. 110–114, § 5011(b)(1), substituted “Except for reconnaissance studies, the Federal share” for “The Federal share” and “(3) or (4)” for “(2) or (3)”.

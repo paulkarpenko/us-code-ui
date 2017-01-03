@@ -2,7 +2,7 @@
 title: 31
 chapter: '75'
 heading: REQUIREMENTS FOR SINGLE AUDITS
-section_count: 7
+section_count: 6
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31&num=0&edition=prelim
 ---
@@ -86,6 +86,9 @@ The Alaskan Native Claims Settlement Act, referred to in subsec. (a)(9), probabl
 #### Amendments
 1996—Pub. L. 104–156 reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions defining terms used in this chapter.
 
+#### Short Title of 2016 Amendment
+Pub. L. 114–301, § 1, Dec. 16, 2016, 130 Stat. 1514, provided that: “This Act [amending [section 5226 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5226&num=0&edition=prelim), Banks and Banking, [section 280g–15 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section280g–15&num=0&edition=prelim), The Public Health and Welfare, and [section 114 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114&num=0&edition=prelim), Transportation, renumbering [section 7507 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section7507&num=0&edition=prelim) as section 7506, repealing [section 7506 of this title](./chapter-075-requirements-for-single-audits.md#section-7506), amending provisions set out as notes under [section 78m of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m&num=0&edition=prelim), Commerce and Trade, and [section 5189a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5189a&num=0&edition=prelim), and repealing provisions set out as a note under section 1395l of Title 42] may be cited as the ‘GAO Mandates Revision Act of 2016’.”
+
 #### Short Title of 1996 Amendment
 Pub. L. 104–156, § 1(a), July 5, 1996, 110 Stat. 1396, provided that: “This Act [amending this chapter and enacting provisions set out as notes below] may be cited as the ‘Single Audit Act Amendments of 1996’.”
 
@@ -96,7 +99,7 @@ Pub. L. 98–502, § 1(a), Oct. 19, 1984, 98 Stat. 2327, provided that: “This 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 #### Transitional Application
-Pub. L. 104–156, § 3, July 5, 1996, 110 Stat. 1404, provided that: “Subject to [section 7507 of title 31](./chapter-075-requirements-for-single-audits.md#section-7507), United States Code (as amended by section 2 of this Act) the provisions of chapter 75 of such title (before amendment by section 2 of this Act) shall continue to apply to any State or local government with respect to any of its fiscal years beginning before July 1, 1996.”
+Pub. L. 104–156, § 3, July 5, 1996, 110 Stat. 1404, provided that: “Subject to [former] [section 7507 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section7507&num=0&edition=prelim), United States Code (as amended by section 2 of this Act) [now [31 U.S.C. 7506](./chapter-075-requirements-for-single-audits.md#section-7506)] the provisions of chapter 75 of such title (before amendment by section 2 of this Act) shall continue to apply to any State or local government with respect to any of its fiscal years beginning before July 1, 1996.”
 
 #### Congressional Statement of Purpose
 Pub. L. 104–156, § 1(b), July 5, 1996, 110 Stat. 1396, provided that: “The purposes of this Act [see Short Title of 1996 Amendment note above] are to— “(1) promote sound financial management, including effective internal controls, with respect to Federal awards administered by non-Federal entities; “(2) establish uniform requirements for audits of Federal awards administered by non-Federal entities; “(3) promote the efficient and effective use of audit resources; “(4) reduce burdens on State and local governments, Indian tribes, and nonprofit organizations; and “(5) ensure that Federal departments and agencies, to the maximum extent practicable, rely upon and use audit work done pursuant to chapter 75 of title 31, United States Code (as amended by this Act).”
@@ -204,7 +207,7 @@ Pub. L. 98–502, § 2(b), Oct. 19, 1984, 98 Stat. 2334, provided that: “The p
 ### Statutory Notes
 
 #### References in Text
-The effective date of the Single Audit Act Amendments of 1996, referred to in subsec. (h)(2)(A), is the effective date of Pub. L. 104–156, which is classified generally to this chapter. See [section 7507 of this title](./chapter-075-requirements-for-single-audits.md#section-7507).
+The effective date of the Single Audit Act Amendments of 1996, referred to in subsec. (h)(2)(A), is the effective date of Pub. L. 104–156, which is classified generally to this chapter. See [section 7506 of this title](./chapter-075-requirements-for-single-audits.md#section-7506).
 
 #### Amendments
 1996—Pub. L. 104–156 reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions relating to audit requirements and exemptions from such requirements for State and local governments receiving Federal financial assistance of $100,000 or more in any fiscal year and requiring audits to be conducted annually in most instances, to cover entirety of government operations, for reports to be made on audits in specified time period, and for appropriate corrective action plans to be submitted to Federal officials for any material State or local noncompliance with Federal laws and regulations.
@@ -312,44 +315,18 @@ Pub. L. 104–201, div. A, title VIII, § 808(c), Sept. 23, 1996, 110 Stat. 2607
 
 
 <a id="section-7506"></a>
-## § 7506. Monitoring responsibilities of the Comptroller General
-**(a)** The Comptroller General shall review provisions requiring financial audits of non-Federal entities that receive Federal awards that are contained in bills and resolutions reported by the committees of the Senate and the House of Representatives.
-
-**(b)** If the Comptroller General determines that a bill or resolution contains provisions that are inconsistent with the requirements of this chapter, the Comptroller General shall, at the earliest practicable date, notify in writing—
-
-(1) the committee that reported such bill or resolution; and
-
-(2)
-
-  (A) the Committee on Governmental Affairs of the Senate (in the case of a bill or resolution reported by a committee of the Senate); or
-
-  (B) the Committee on Government Reform and Oversight of the House of Representatives (in the case of a bill or resolution reported by a committee of the House of Representatives).
-
-### Statutory Notes
-
-#### Amendments
-1996—Pub. L. 104–156 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The Comptroller General shall review provisions requiring financial or financial and compliance audits of recipients of Federal assistance that are contained in bills and resolutions reported by the committees of the Senate and the House of Representatives. If the Comptroller General determines that a bill or resolution contains provisions that are inconsistent with the requirements of this chapter, the Comptroller General shall, at the earliest practicable date, notify in writing—
-
-“(1) the committee that reported such bill or resolution; and
-
-“(2)(A) the Committee on Governmental Affairs of the Senate (in the case of a bill or resolution reported by a committee of the Senate); or
-
-“(B) the Committee on Government Operations of the House of Representatives (in the case of a bill or resolution reported by a committee of the House of Representatives).”
-
-#### Change of Name
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
-
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
-
-
-<a id="section-7507"></a>
-## § 7507. Effective date
+## § 7506. Effective date
 
 This chapter shall apply to any non-Federal entity with respect to any of its fiscal years which begin after June 30, 1996.
 
 ### Statutory Notes
 
+#### Prior Provisions
+A prior section 7506, added Pub. L. 98–502, § 2(a), Oct. 19, 1984, 98 Stat. 2333; amended Pub. L. 104–156, § 2, July 5, 1996, 110 Stat. 1403, related to the monitoring responsibilities of the Comptroller General, prior to repeal by Pub. L. 114–301, § 2(a)(1)(A), Dec. 16, 2016, 130 Stat. 1514.
+
 #### Amendments
+2016—Pub. L. 114–301 renumbered [section 7507 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section7507&num=0&edition=prelim) as this section.
+
 1996—Pub. L. 104–156 struck out “; report” after “Effective date” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) This chapter shall apply to any State or local government with respect to any of its fiscal years which begin after December 31, 1984.

@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-3501"></a>
 ## § 3501. Additional program funding
-**(a) Use of additional funds** Consistent, as determined by the President, with the obligations undertaken by the United States set forth in the Uruguay Round Agreements, the Commodity Credit Corporation shall use, in addition to any other funds appropriated or made available for such purposes, any funds made available under subsection (b) of this section for authorized export promotion, foreign market development, export credit financing, and promoting the development, commercialization, and marketing of products resulting from alternative uses of agricultural commodities.
+**(a) Use of additional funds** Consistent, as determined by the President, with the obligations undertaken by the United States set forth in the Uruguay Round Agreements, the Commodity Credit Corporation shall use, in addition to any other funds appropriated or made available for such purposes, any funds made available under subsection (b) for authorized export promotion, foreign market development, export credit financing, and promoting the development, commercialization, and marketing of products resulting from alternative uses of agricultural commodities.
 
 **(b) Amount of additional funds** Amounts shall be credited to the Commodity Credit Corporation in fiscal year 1995 equal to the lesser of the dollar amount of—
 
@@ -72,7 +72,7 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 ## § 3512. Approval and entry into force of Uruguay Round Agreements
 **(a) Approval of agreements and statement of administrative action** Pursuant to [section 2903 of this title](./chapter-017-negotiation-and-implementation-of-trade-agreements.md#section-2903) and [section 2191 of this title](./chapter-012-trade-act-of-1974.md#section-2191), the Congress approves—
 
-(1) the trade agreements described in subsection (d) of this section resulting from the Uruguay Round of multilateral trade negotiations under the auspices of the General Agreement on Tariffs and Trade, entered into on April 15, 1994, and submitted to the Congress on September 27, 1994; and
+(1) the trade agreements described in subsection (d) resulting from the Uruguay Round of multilateral trade negotiations under the auspices of the General Agreement on Tariffs and Trade, entered into on April 15, 1994, and submitted to the Congress on September 27, 1994; and
 
 (2) the statement of administrative action proposed to implement the agreements that was submitted to the Congress on September 27, 1994.
 
@@ -80,7 +80,7 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
 **(c) Authorization of appropriations** There are authorized to be appropriated annually such sums as may be necessary for the payment by the United States of its share of the expenses of the WTO.
 
-**(d) Trade agreements to which this Act applies** Subsection (a) of this section applies to the WTO Agreement and to the following agreements annexed to that Agreement:
+**(d) Trade agreements to which this Act applies** Subsection (a) applies to the WTO Agreement and to the following agreements annexed to that Agreement:
 
 (1) The General Agreement on Tariffs and Trade 1994.
 
@@ -499,15 +499,15 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
 <a id="section-3523"></a>
 ## § 3523. Liquidation or reliquidation and refund of duty paid on certain entries
-**(a) Liquidation or reliquidation** Notwithstanding [section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514) or any other provision of law, and subject to subsection (b) of this section, the Secretary of the Treasury shall liquidate or reliquidate the entries listed or otherwise described in subsection (c) of this section and refund any duty or excess duty that was paid, as provided in subsection (c) of this section.
+**(a) Liquidation or reliquidation** Notwithstanding [section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514) or any other provision of law, and subject to subsection (b), the Secretary of the Treasury shall liquidate or reliquidate the entries listed or otherwise described in subsection (c) and refund any duty or excess duty that was paid, as provided in subsection (c).
 
-**(b) Requests** Liquidation or reliquidation may be made under subsection (a) of this section with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date on which the WTO Agreement enters into force with respect to the United States, that contains sufficient information to enable the Customs Service—
+**(b) Requests** Liquidation or reliquidation may be made under subsection (a) with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date on which the WTO Agreement enters into force with respect to the United States, that contains sufficient information to enable the Customs Service—
 
 (1) to locate the entry; or
 
 (2) to reconstruct the entry if it cannot be located.
 
-**(c) Entries** The entries referred to in subsection (a) of this section are as follows:
+**(c) Entries** The entries referred to in subsection (a) are as follows:
 
 (1) **Agglomerated stone tiles** — Any goods—
 
@@ -525,7 +525,7 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Uruguay Round Agreements: Entry Into Force
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in [section 3511(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d&num=0&edition=prelim), entered into force with respect to the United States on Jan. 1, 1995. See note set out under [section 3511 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3511).
@@ -613,7 +613,7 @@ Pub. L. 103–465, title I, § 130, Dec. 8, 1994, 108 Stat. 4839, provided that:
 ## § 3533. Implementation of Uruguay Round Agreements
 **(a) Decisionmaking** In the implementation of the Uruguay Round Agreements and the functioning of the World Trade Organization, it is the objective of the United States to ensure that the Ministerial Conference and the General Council continue the practice of decisionmaking by consensus followed under the GATT 1947, as required by paragraph 1 of article IX of the WTO Agreement.
 
-**(b) Consultations with congressional committees** In furtherance of the objective set forth in subsection (a) of this section, the Trade Representative shall consult with the appropriate congressional committees before any vote is taken by the Ministerial Conference or the General Council relating to—
+**(b) Consultations with congressional committees** In furtherance of the objective set forth in subsection (a), the Trade Representative shall consult with the appropriate congressional committees before any vote is taken by the Ministerial Conference or the General Council relating to—
 
 (1) the adoption of an interpretation of the WTO Agreement or another multilateral trade agreement,
 
@@ -630,7 +630,7 @@ if the action described in paragraph (1), (2), (3), (4), (5), or (6) would subst
 
 **(c) Report on decisions**
 
-(1) **In general** — Not later than 30 days after the end of any calendar year in which the Ministerial Conference or the General Council adopts by vote any decision to take any action described in paragraph (1), (2), (4), or (6) of subsection (b) of this section, the Trade Representative shall submit a report to the appropriate congressional committees describing—
+(1) **In general** — Not later than 30 days after the end of any calendar year in which the Ministerial Conference or the General Council adopts by vote any decision to take any action described in paragraph (1), (2), (4), or (6) of subsection (b), the Trade Representative shall submit a report to the appropriate congressional committees describing—
 
   (A) the nature of the decision;
 
@@ -644,11 +644,11 @@ if the action described in paragraph (1), (2), (3), (4), (5), or (6) would subst
 
 (2) **Additional reporting requirements**
 
-  (A) *Grant of waiver* — In the case of a decision to grant a waiver described in subsection (b)(3) of this section, the report under paragraph (1) shall describe the terms and conditions of the waiver and the rights and obligations of the United States that are affected by the waiver.
+  (A) *Grant of waiver* — In the case of a decision to grant a waiver described in subsection (b)(3), the report under paragraph (1) shall describe the terms and conditions of the waiver and the rights and obligations of the United States that are affected by the waiver.
 
-  (B) *Accession* — In the case of a decision on accession described in subsection (b)(5) of this section, the report under paragraph (1) shall state whether the United States intends to invoke Article XIII of the WTO Agreement.
+  (B) *Accession* — In the case of a decision on accession described in subsection (b)(5), the report under paragraph (1) shall state whether the United States intends to invoke Article XIII of the WTO Agreement.
 
-**(d) Consultation on report** Promptly after the submission of a report under subsection (c) of this section, the Trade Representative shall consult with the appropriate congressional committees with respect to the report.
+**(d) Consultation on report** Promptly after the submission of a report under subsection (c), the Trade Representative shall consult with the appropriate congressional committees with respect to the report.
 
 
 <a id="section-3534"></a>
@@ -671,13 +671,13 @@ if the action described in paragraph (1), (2), (3), (4), (5), or (6) would subst
 
 (3) whether there was any departure from the rule of consensus with respect to the selection of persons to serve on the panel.
 
-**(e) Notice of appeals of panel reports** If an appeal is taken of a report of a panel in a proceeding described in subsection (d) of this section, the Trade Representative shall, promptly after the notice of appeal is filed, notify the appropriate congressional committees of—
+**(e) Notice of appeals of panel reports** If an appeal is taken of a report of a panel in a proceeding described in subsection (d), the Trade Representative shall, promptly after the notice of appeal is filed, notify the appropriate congressional committees of—
 
 (1) the issues under appeal; and
 
 (2) the identity of the persons serving on the Appellate Body who are reviewing the report of the panel.
 
-**(f) Actions upon circulation of reports** Promptly after the circulation of a report of a panel or of the Appellate Body to WTO members in a proceeding described in subsection (d) of this section, the Trade Representative shall—
+**(f) Actions upon circulation of reports** Promptly after the circulation of a report of a panel or of the Appellate Body to WTO members in a proceeding described in subsection (d), the Trade Representative shall—
 
 (1) notify the appropriate congressional committees of the report;
 
@@ -689,7 +689,7 @@ if the action described in paragraph (1), (2), (3), (4), (5), or (6) would subst
 
 (1) **Changes in agency regulations or practice** — In any case in which a dispute settlement panel or the Appellate Body finds in its report that a regulation or practice of a department or agency of the United States is inconsistent with any of the Uruguay Round Agreements, that regulation or practice may not be amended, rescinded, or otherwise modified in the implementation of such report unless and until—
 
-  (A) the appropriate congressional committees have been consulted under subsection (f) of this section;
+  (A) the appropriate congressional committees have been consulted under subsection (f);
 
   (B) the Trade Representative has sought advice regarding the modification from relevant private sector advisory committees established under [section 2155 of this title](./chapter-012-trade-act-of-1974.md#section-2155);
 
@@ -743,17 +743,17 @@ shall include an analysis of the effects of the WTO Agreement on the interests o
 
 **(b) Congressional disapproval of U.S. participation in WTO**
 
-(1) **General rule** — The approval of the Congress, provided under [section 3511(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/a&num=0&edition=prelim), of the WTO Agreement shall cease to be effective if, and only if, a joint resolution described in subsection (c) of this section is enacted into law pursuant to the provisions of paragraph (2).
+(1) **General rule** — The approval of the Congress, provided under [section 3511(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/a&num=0&edition=prelim), of the WTO Agreement shall cease to be effective if, and only if, a joint resolution described in subsection (c) is enacted into law pursuant to the provisions of paragraph (2).
 
 (2) **Procedural provisions**
 
-  (A) The requirements of this paragraph are met if the joint resolution is enacted under subsection (c) of this section, and—
+  (A) The requirements of this paragraph are met if the joint resolution is enacted under subsection (c), and—
 
-    (i) the Congress adopts and transmits the joint resolution to the President before the end of the 90-day period (excluding any day described in [section 2194(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2194/b&num=0&edition=prelim)), beginning on the date on which the Congress receives a report referred to in subsection (a) of this section, and
+    (i) the Congress adopts and transmits the joint resolution to the President before the end of the 90-day period (excluding any day described in [section 2194(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2194/b&num=0&edition=prelim)), beginning on the date on which the Congress receives a report referred to in subsection (a), and
 
     (ii) if the President vetoes the joint resolution, each House of Congress votes to override that veto on or before the later of the last day of the 90-day period referred to in clause (i) or the last day of the 15-day period (excluding any day described in [section 2194(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2194/b&num=0&edition=prelim)) beginning on the date on which the Congress receives the veto message from the President.
 
-  (B) A joint resolution to which this section applies may be introduced at any time on or after the date on which the President transmits to the Congress a report described in subsection (a) of this section, and before the end of the 90-day period referred to in subparagraph (A).
+  (B) A joint resolution to which this section applies may be introduced at any time on or after the date on which the President transmits to the Congress a report described in subsection (a), and before the end of the 90-day period referred to in subparagraph (A).
 
 **(c) Joint resolutions**
 
@@ -802,7 +802,7 @@ The Trade Representative shall seek the adoption by the Ministerial Conference a
 ## § 3538. Access to WTO dispute settlement process
 **(a) In general** Whenever the United States is a party before a dispute settlement panel established pursuant to Article 6 of the Dispute Settlement Understanding, the Trade Representative shall, at each stage of the proceeding before the panel or the Appellate Body, consult with the appropriate congressional committees, the petitioner (if any) under [section 2412(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2412/a&num=0&edition=prelim) with respect to the matter that is the subject of the proceeding, and relevant private sector advisory committees established under [section 2155 of this title](./chapter-012-trade-act-of-1974.md#section-2155), and shall consider the views of representatives of appropriate interested private sector and nongovernmental organizations concerning the matter.
 
-**(b) Notice and public comment** In any proceeding described in subsection (a) of this section, the Trade Representative shall—
+**(b) Notice and public comment** In any proceeding described in subsection (a), the Trade Representative shall—
 
 (1) promptly after requesting the establishment of a panel, or receiving a request from another WTO member country for the establishment of a panel, publish a notice in the Federal Register—
 
@@ -814,11 +814,11 @@ The Trade Representative shall seek the adoption by the Ministerial Conference a
 
   (D) seeking written comments from the public concerning the issues raised in the dispute; and
 
-(2) take into account any advice received from appropriate congressional committees and relevant private sector advisory committees referred to in subsection (a) of this section, and written comments received pursuant to paragraph (1)(D), in preparing United States submissions to the panel or the Appellate Body.
+(2) take into account any advice received from appropriate congressional committees and relevant private sector advisory committees referred to in subsection (a), and written comments received pursuant to paragraph (1)(D), in preparing United States submissions to the panel or the Appellate Body.
 
-**(c) Access to documents** In each proceeding described in subsection (a) of this section, the Trade Representative shall—
+**(c) Access to documents** In each proceeding described in subsection (a), the Trade Representative shall—
 
-(1) make written submissions by the United States referred to in subsection (b) of this section available to the public promptly after they are submitted to the panel or Appellate Body, except that the Trade Representative is authorized to withhold from disclosure any information contained in such submissions identified by the provider of the information as proprietary information or information treated as confidential by a foreign government;
+(1) make written submissions by the United States referred to in subsection (b) available to the public promptly after they are submitted to the panel or Appellate Body, except that the Trade Representative is authorized to withhold from disclosure any information contained in such submissions identified by the provider of the information as proprietary information or information treated as confidential by a foreign government;
 
 (2) request each other party to the dispute to permit the Trade Representative to make that party’s written submissions to the panel or the Appellate Body available to the public; and
 
@@ -868,9 +868,9 @@ Section is comprised of section 127 of Pub. L. 103–465. Subsec. (f) of section
 
 (1) **Effects of determinations** — Determinations concerning title VII of the Tariff Act of 1930 [[19 U.S.C. 1671](./chapter-004-tariff-act-of-1930.md#section-1671) et seq.] that are implemented under this section shall apply with respect to unliquidated entries of the subject merchandise (as defined in section 771 of that Act [[19 U.S.C. 1677](./chapter-004-tariff-act-of-1930.md#section-1677)]) that are entered, or withdrawn from warehouse, for consumption on or after—
 
-  (A) in the case of a determination by the Commission under subsection (a)(4) of this section, the date on which the Trade Representative directs the administering authority under subsection (a)(6) of this section to revoke an order pursuant to that determination, and
+  (A) in the case of a determination by the Commission under subsection (a)(4), the date on which the Trade Representative directs the administering authority under subsection (a)(6) to revoke an order pursuant to that determination, and
 
-  (B) in the case of a determination by the administering authority under subsection (b)(2) of this section, the date on which the Trade Representative directs the administering authority under subsection (b)(4) of this section to implement that determination.
+  (B) in the case of a determination by the administering authority under subsection (b)(2), the date on which the Trade Representative directs the administering authority under subsection (b)(4) to implement that determination.
 
 (2) **Notice of implementation**
 
@@ -895,20 +895,20 @@ Section is comprised of section 129 of Pub. L. 103–465. Subsecs. (a)(7) and (e
 ## § 3551. Fund for WTO dispute settlements
 **(a) Establishment of fund** There is established in the Treasury a fund for the payment of settlements under this section.
 
-**(b) Authority of USTR to pay settlements** Amounts in the fund established under subsection (a) of this section shall be available, as provided in appropriations Acts, only for the payment by the United States Trade Representative of the amount of the total or partial settlement of any dispute pursuant to proceedings under the auspices of the World Trade Organization, if—
+**(b) Authority of USTR to pay settlements** Amounts in the fund established under subsection (a) shall be available, as provided in appropriations Acts, only for the payment by the United States Trade Representative of the amount of the total or partial settlement of any dispute pursuant to proceedings under the auspices of the World Trade Organization, if—
 
 (1) in the case of a total or partial settlement in an amount of not more than $10,000,000, the Trade Representative certifies to the Secretary of the Treasury that the settlement is in the best interests of the United States; and
 
 (2) in the case of a total or partial settlement in an amount of more than $10,000,000, the Trade Representative certifies to the Congress that the settlement is in the best interests of the United States.
 
-**(c) Appropriations** There are authorized to be appropriated to the fund established under subsection (a) of this section—
+**(c) Appropriations** There are authorized to be appropriated to the fund established under subsection (a)—
 
 (1) $50,000,000; and
 
 (2) amounts equivalent to amounts recovered by the United States pursuant to the settlement of disputes pursuant to proceedings under the auspices of the World Trade Organization.
 Amounts appropriated to the fund are authorized to remain available until expended.
 
-**(d) Management of fund** Sections 9601 and 9602(b) of title 26 shall apply to the fund established under subsection (a) of this section to the same extent as such provisions apply to trust funds established under subchapter A of chapter 98 of such title.
+**(d) Management of fund** Sections 9601 and 9602(b) of title 26 shall apply to the fund established under subsection (a) to the same extent as such provisions apply to trust funds established under subchapter A of chapter 98 of such title.
 
 ### Statutory Notes
 
@@ -920,7 +920,7 @@ Section was enacted as part of the Trade Act of 2002, and not as part of the Uru
 ## § 3552. Working party on worker rights
 **(a) In general** The President shall seek the establishment in the GATT 1947, and, upon entry into force of the WTO Agreement with respect to the United States, in the WTO, of a working party to examine the relationship of internationally recognized worker rights, as defined in [section 2467(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2467/4&num=0&edition=prelim), to the articles, objectives, and related instruments of the GATT 1947 and of the WTO, respectively.
 
-**(b) Objectives of working party** The objectives of the United States for the working party described in subsection (a) of this section are to—
+**(b) Objectives of working party** The objectives of the United States for the working party described in subsection (a) are to—
 
 (1) explore the linkage between international trade and internationally recognized worker rights, as defined in [section 2467(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2467/4&num=0&edition=prelim), taking into account differences in the level of development among countries;
 
@@ -967,14 +967,14 @@ Section effective on date on which WTO Agreement enters into force with respect 
 <a id="section-3554"></a>
 ## § 3554. Membership in WTO of boycotting countries
 
-It is the sense of the Congress that the Trade Representative should vigorously oppose the admission into the World Trade Organization of any country which, through its laws, regulations, official policies, or governmental practices, fosters, imposes, complies with, furthers, or supports any boycott described in [section 2407(a) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2407/a&num=0&edition=prelim), Appendix (as in effect on August 20, 1994), including requiring or encouraging entities within that country to refuse to do business with persons who do not comply with requests to take any action prohibited under that section.
+It is the sense of the Congress that the Trade Representative should vigorously oppose the admission into the World Trade Organization of any country which, through its laws, regulations, official policies, or governmental practices, fosters, imposes, complies with, furthers, or supports any boycott described in [section 4607(a) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4607/a&num=0&edition=prelim) (as in effect on August 20, 1994), including requiring or encouraging entities within that country to refuse to do business with persons who do not comply with requests to take any action prohibited under that section.
 
 
 <a id="section-3555"></a>
 ## § 3555. Africa trade and development policy
 **(a) Development of policy** The President should develop and implement a comprehensive trade and development policy for the countries of Africa.
 
-**(b) Reports to Congress** The President shall, not later than 12 months after December 8, 1994, and annually thereafter for a period of 4 years, submit to the Committee on Ways and Means and the Committee on Foreign Affairs of the House of Representatives, the Committee on Finance and the Committee on Foreign Relations of the Senate, and other appropriate committees of the Congress, a report on the steps taken to carry out subsection (a) of this section.
+**(b) Reports to Congress** The President shall, not later than 12 months after December 8, 1994, and annually thereafter for a period of 4 years, submit to the Committee on Ways and Means and the Committee on Foreign Affairs of the House of Representatives, the Committee on Finance and the Committee on Foreign Relations of the Senate, and other appropriate committees of the Congress, a report on the steps taken to carry out subsection (a).
 
 
 <a id="section-3556"></a>
@@ -1055,7 +1055,7 @@ countervailing duties shall be assessed at rates equal to the amount of the cash
 
 (2) **Request by interested party regarding adverse effects** — An interested party may request the administering authority to determine if there is reason to believe that a subsidy which is actionable under the Subsidies Agreement is causing adverse effects. The request shall contain such information as the administering authority may require to support the allegations contained in the request. At the request of the administering authority, the Commission shall assist the administering authority in analyzing the information pertaining to the existence of such adverse effects. If the administering authority, after analyzing the request and other information reasonably available to the administering authority, determines that there is reason to believe that a subsidy which is actionable under the Subsidies Agreement is causing adverse effects, the administering authority shall so notify the Trade Representative, and shall include supporting information with the notification.
 
-**(d) Initiation of section 2411 investigation** On the basis of the notification and information provided by the administering authority pursuant to subsection (b) or (c) of this section, such other information as the Trade Representative may have or obtain, and where applicable, after consultation with an interested party referred to in subsection (b)(2) or (c)(2) of this section, the Trade Representative shall, unless such interested party objects, determine as expeditiously as possible, in accordance with the procedures in section 302(b)(1) of the Trade Act of 1974 ([19 U.S.C. 2412(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2412/b/1&num=0&edition=prelim)), whether to initiate an investigation pursuant to title III of that Act ([19 U.S.C. 2411](./chapter-012-trade-act-of-1974.md#section-2411) et seq.). At the request of the Trade Representative, the administering authority and the Commission shall assist the Trade Representative in an investigation initiated pursuant to this subsection.
+**(d) Initiation of section 2411 investigation** On the basis of the notification and information provided by the administering authority pursuant to subsection (b) or (c), such other information as the Trade Representative may have or obtain, and where applicable, after consultation with an interested party referred to in subsection (b)(2) or (c)(2), the Trade Representative shall, unless such interested party objects, determine as expeditiously as possible, in accordance with the procedures in section 302(b)(1) of the Trade Act of 1974 ([19 U.S.C. 2412(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2412/b/1&num=0&edition=prelim)), whether to initiate an investigation pursuant to title III of that Act ([19 U.S.C. 2411](./chapter-012-trade-act-of-1974.md#section-2411) et seq.). At the request of the Trade Representative, the administering authority and the Commission shall assist the Trade Representative in an investigation initiated pursuant to this subsection.
 
 **(e) Nonactionable subsidies**
 
@@ -1281,7 +1281,7 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
 <a id="section-3601"></a>
 ## § 3601. Rules of origin for textile and apparel products
-**(a) Regulatory authority** The Secretary of the Treasury shall prescribe rules implementing the principles contained in subsection (b) of this section for determining the origin of textiles and apparel products. Such rules shall be promulgated in final form not later than July 1, 1995.
+**(a) Regulatory authority** The Secretary of the Treasury shall prescribe rules implementing the principles contained in subsection (b) for determining the origin of textiles and apparel products. Such rules shall be promulgated in final form not later than July 1, 1995.
 
 **(b) Principles**
 
@@ -1332,7 +1332,7 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
     (ii) the article itself before importation into the United States
     do not enter into the commerce of any foreign country other than such a beneficiary country.
 
-(5) **Exception for United States-Israel Free Trade Agreement** — This section shall not affect, for purposes of the customs laws and administration of quantitative restrictions, the status of goods that, under rulings and administrative practices in effect immediately before December 8, 1994, would have originated in, or been the growth, product, or manufacture of, a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1987. For such purposes, such rulings and administrative practices that were applied, immediately before December 8, 1994, to determine the origin of textile and apparel products covered by such agreement shall continue to apply after December 8, 1994, and on and after the effective date described in subsection (c) of this section, unless such rulings and practices are modified by the mutual consent of the parties to the agreement.
+(5) **Exception for United States-Israel Free Trade Agreement** — This section shall not affect, for purposes of the customs laws and administration of quantitative restrictions, the status of goods that, under rulings and administrative practices in effect immediately before December 8, 1994, would have originated in, or been the growth, product, or manufacture of, a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1987. For such purposes, such rulings and administrative practices that were applied, immediately before December 8, 1994, to determine the origin of textile and apparel products covered by such agreement shall continue to apply after December 8, 1994, and on and after the effective date described in subsection (c), unless such rulings and practices are modified by the mutual consent of the parties to the agreement.
 
 **(c) Effective date** This section shall apply to goods entered, or withdrawn from warehouse, for consumption on or after July 1, 1996, except that this section shall not apply to goods if—
 
@@ -1356,7 +1356,7 @@ The origin of goods to which this section does not apply shall be determined in 
 Pub. L. 106–200, title IV, § 405(b), May 18, 2000, 114 Stat. 293, provided that: “The amendments made by this section [amending this section] apply to goods entered, or withdrawn from warehouse for consumption, on or after the date of the enactment of this Act [May 18, 2000].”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-3602"></a>
@@ -1445,7 +1445,7 @@ William J. Clinton.
 (2) the volume-based safeguard in accordance with subparagraph 1(a) of Article 5,
 the President shall, consistent with Article 5 as determined by the President, determine the amount of the duty to be imposed, the period such duty shall be in effect, and any other terms and conditions applicable to the duty.
 
-**(c) Imposition of safeguard** The President shall direct the Secretary of the Treasury to impose a duty on a special safeguard agricultural good entered, or withdrawn from warehouse, for consumption in the United States in accordance with a determination made under subsection (b) of this section.
+**(c) Imposition of safeguard** The President shall direct the Secretary of the Treasury to impose a duty on a special safeguard agricultural good entered, or withdrawn from warehouse, for consumption in the United States in accordance with a determination made under subsection (b).
 
 **(d) No simultaneous safeguard** A duty may not be in effect for a special safeguard agricultural good pursuant to this section during any period in which such good is the subject of any action proclaimed pursuant to section 2252 or 2253 of this title.
 

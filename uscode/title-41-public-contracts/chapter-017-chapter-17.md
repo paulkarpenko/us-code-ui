@@ -345,6 +345,9 @@ Subsec. (l). Pub. L. 112–81, § 864(c)(2), added subsec. (l).
 #### Effective Date of 2013 Amendment
 Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(15) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
+#### Effective Communication Between Government and Industry
+Pub. L. 114–92, div. A, title VIII, § 887, Nov. 25, 2015, 129 Stat. 949, provided that: “Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], the Federal Acquisition Regulatory Council shall prescribe a regulation making clear that agency acquisition personnel are permitted and encouraged to engage in responsible and constructive exchanges with industry, so long as those exchanges are consistent with existing law and regulation and do not promote an unfair competitive advantage to particular firms.”
+
 #### Training for Contracting and Enforcement Personnel
 Pub. L. 111–240, title I, § 1343(a), Sept. 27, 2010, 124 Stat. 2545, provided that: “Not later than 1 year after the date of enactment of this Act [Sept. 27, 2010], the Federal Acquisition Institute, in consultation with the Administrator for Federal Procurement Policy, the Defense Acquisition University, and the Administrator [of the Small Business Administration], shall develop courses for acquisition personnel concerning proper classification of business concerns and small business size and status for purposes of Federal contracts, subcontracts, grants, cooperative agreements, and cooperative research and development agreements.”
 
@@ -737,7 +740,7 @@ In subsection (b)(2), the text of [41 U.S.C. 416(C)(1)(H)](https://uscode.house.
 
 Subsection (b)(3) is added because of section 850(e)(3) of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85, 111 Stat. 1849, 15:637 note), which in part provided that the amendments made by section 850(e)(2), which amended 41:416(c)(1), be implemented in a manner consistent with applicable international agreements.
 
-Subsection (d) is substituted for 41:416(a)(2) and (7) to eliminate unnecessary words. Federal Business Opportunities is the designated single point of universal electronic public access for publication of all procurement information and notices previously published by the Secretary of Commerce in the Commerce Business Daily. See 66 Fed. Reg. 27407, May 16, 2001, 68 Fed. Reg. 56678, October 1, 2003, 48 CFR ch. 1, subch. B, part 5, and the special notice posted in CBDNet on December 28, 2001, and printed on January 2, 2002. The special notice can be found by going to http://cbdnet.gpo.gov and clicking on “Federal Business Opportunities to replace the Commerce Business Daily”.
+Subsection (d) is substituted for 41:416(a)(2) and (7) to eliminate unnecessary words. Federal Business Opportunities is the designated single point of universal electronic public access for publication of all procurement information and notices previously published by the Secretary of Commerce in the Commerce Business Daily. See 66 Fed. Reg. 27407, May 16, 2001, 68 Fed. Reg. 56678, October 1, 2003, 48 CFR ch. 1, subch. B, part 5, and the special notice posted in CBDNet on December 28, 2001, and printed on January 2, 2002.
 
 In subsection (e)(1)(B)(i), the words “required for a bid or proposal for a contract described in” are substituted for “required by” for clarity.
 
@@ -777,7 +780,7 @@ Pub. L. 98–577, title III, § 303(c), Oct. 30, 1984, 98 Stat. 3079, provided t
 In subsection (a), before paragraph (1), the words “Personnel referred to in subsection (b) are” are substituted for “For purposes of subsection (a) of this section, the personnel described in this subsection are as follows” to eliminate unnecessary words. In paragraph (3), the words “employee from State or local governments” are substituted for “person” for clarity.
 
 #### Senate Revision Amendment
-In subsec. (a)(3), “individual” substituted for “employee from State or local governments” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. S8442, Dec. 2, 2010 (daily ed.).
+In subsec. (a)(3), “individual” substituted for “employee from State or local governments” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
 
 #### Requirement for Guidance and Regulations
 Pub. L. 103–355, title VI, § 6002(b), Oct. 13, 1994, 108 Stat. 3363, provided that: “The Federal Acquisition Regulatory Council established by section 25(a) of the Office of Federal Procurement Policy Act ([former] [41 U.S.C. 421(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section421/a&num=0&edition=prelim)) [now [41 U.S.C. 1302(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1302/a&num=0&edition=prelim)] shall— “(1) review part 37 of title 48 of the Code of Federal Regulations as it relates to the use of advisory and assistance services; and “(2) provide guidance and promulgate regulations regarding—“(A) what actions Federal agencies are required to take to determine whether expertise is readily available within the Federal Government before contracting for advisory and technical services to conduct acquisitions; and “(B) the manner in which personnel with expertise may be shared with agencies needing expertise for such acquisitions.”

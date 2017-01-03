@@ -25,7 +25,7 @@ Subsecs. (a), (b). Pub. L. 98–525 amended subsecs. (a) and (b) generally, subs
 Pub. L. 98–525, title V, § 524(b)(3), Oct. 19, 1984, 98 Stat. 2524, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and the analysis to this chapter] shall take effect on the first day of the first month that begins more than 60 days after the date of the enactment of this Act [Oct. 19, 1984], but shall not apply to any case in which, before that date, a board of officers has been ordered to convene under the provisions of [section 1181 of title 10](./chapter-060-separation-of-regular-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-1181), United States Code, as in effect before that date.”
 
 #### Effective Date
-Chapter effective Sept. 15, 1981, but the authority to prescribe regulations under this chapter effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this chapter effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under [section 611 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-611).
@@ -67,6 +67,9 @@ For provisions to prevent extinction or premature termination of rights, duties,
 #### Effective Date of 2000 Amendment
 Pub. L. 106–398, § 1 [[div. A], title X, § 1087(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that the amendment made by section 1 [[div. A], title X, § 1087(d)(2)] is effective Oct. 17, 1998, and as if included in the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, Pub. L. 105–261, as enacted.
 
+#### Effective Date
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+
 
 <a id="section-1183"></a>
 ## § 1183. Repealed. Pub. L. 105–261, div. A, title V, § 503(a), Oct. 17, 1998, 112 Stat. 2003]
@@ -86,6 +89,9 @@ The Secretary of the military department concerned may remove an officer from ac
 #### Amendments
 1998—Pub. L. 105–261 substituted “inquiry” for “review” in section catchline and “board of inquiry convened under [section 1182 of this title](./chapter-060-separation-of-regular-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-1182)” for “board of review convened under [section 1183 of this title](./chapter-060-separation-of-regular-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-1183)” in text.
 
+#### Effective Date
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+
 
 <a id="section-1185"></a>
 ## § 1185. Rights and procedures
@@ -100,6 +106,11 @@ The Secretary of the military department concerned may remove an officer from ac
 (4) shall be allowed full access to, and shall be furnished copies of, records relevant to his case, except that the board of inquiry shall withhold any record that the Secretary concerned determines should be withheld in the interest of national security.
 
 **(b)** When a record is withheld under subsection (a)(4), the officer whose case is under consideration shall, to the extent that the interest of national security permits, be furnished a summary of the record so withheld.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
 
 <a id="section-1186"></a>
@@ -126,6 +137,9 @@ The Secretary of the military department concerned may remove an officer from ac
 
 #### Amendments
 1990—Subsec. (c). Pub. L. 101–510 substituted “section 1174(a)(2)” for “section 1174(b)”.
+
+#### Effective Date
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
 
 <a id="section-1187"></a>
@@ -156,3 +170,6 @@ The Secretary of the military department concerned may remove an officer from ac
 Subsec. (b). Pub. L. 110–417, § 505(a)(2), struck out “on active duty” after “qualified officers” in introductory provisions.
 
 1999—Pub. L. 106–65 amended text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to officers eligible to serve on boards.
+
+#### Effective Date
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).

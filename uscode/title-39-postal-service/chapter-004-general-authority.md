@@ -360,7 +360,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 (2) With respect to shipments of international mail that are competitive products within the meaning of section 3631 that are exported or imported by the Postal Service, the Customs Service and other appropriate Federal agencies shall apply the customs laws of the United States and all other laws relating to the importation or exportation of such shipments in the same manner to both shipments by the Postal Service and similar shipments by private companies.
 
-(3) In exercising the authority under subsection (b) to conclude new postal treaties and conventions related to international postal services and to renegotiate such treaties and conventions, the Secretary of State shall, to the maximum extent practicable, take such measures as are within the Secretary’s control to encourage the governments of other countries to make available to the Postal Service and private companies a range of nondiscriminatory customs procedures that will fully meet the needs of all types of American shippers. The Secretary of State shall consult with the United States Trade Representative and the Commissioner of Customs in carrying out this paragraph.
+(3) In exercising the authority under subsection (b) to conclude new postal treaties and conventions related to international postal services and to renegotiate such treaties and conventions, the Secretary of State shall, to the maximum extent practicable, take such measures as are within the Secretary’s control to encourage the governments of other countries to make available to the Postal Service and private companies a range of nondiscriminatory customs procedures that will fully meet the needs of all types of American shippers. The Secretary of State shall consult with the United States Trade Representative and the Commissioner of U.S. Customs and Border Protection in carrying out this paragraph.
 
 (4) The provisions of this subsection shall take effect 6 months after the date of enactment of this subsection or such earlier date as the Bureau of Customs and Border Protection of the Department of Homeland Security may determine in writing.
 
@@ -379,6 +379,9 @@ The date of enactment of this subsection, referred to in subsec. (e)(4), is the 
 “(a) The Postal Service, with the consent of the President, may negotiate and conclude postal treaties or conventions, and may establish the rates of postage or other charges on mail matter conveyed between the United States and other countries. The decisions of the Postal Service construing or interpreting the provisions of any treaty or convention which has been or may be negotiated and concluded shall, if approved by the President, be conclusive upon all officers of the Government of the United States.
 
 “(b) The Postal Service shall transmit a copy of each postal convention concluded with other governments to the Secretary of State, who shall furnish a copy of the same to the Public Printer for publication.”
+
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (e)(3) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–435, title IV, § 405(b), Dec. 20, 2006, 120 Stat. 3232, provided that: “Notwithstanding any provision of the amendment made by subsection (a) [amending this section], the authority of the United States Postal Service to establish the rates of postage or other charges on mail matter conveyed between the United States and other countries shall remain available to the Postal Service until— “(1) with respect to market-dominant products, the date as of which the regulations promulgated under [section 3622 of title 39](./chapter-036-postal-rates-classes-and-services.md#section-3622), United States Code (as amended by section 201(a)) take effect; and “(2) with respect to competitive products, the date as of which the regulations promulgated under [section 3633 of title 39](./chapter-036-postal-rates-classes-and-services.md#section-3633), United States Code (as amended by section 202) take effect.”
@@ -757,7 +760,7 @@ The use of the special rate of postage established under this section shall be v
   (A) 70 percent to the National Institutes of Health; and
 
   (B) the remainder to the Department of Defense.
-  Payments under this paragraph to an agency shall be made under such arrangements as the Postal Service shall by mutual agreement with such agency establish in order to carry out the purposes of this section, except that, under those arrangements, payments to such agency shall be made at least twice a year.
+  Payments under this paragraph to an agency shall be made under such arrangements as the Postal Service shall by mutual agreement with such agency establish in order to carry out the purposes of this section, except that, under those arrangements, payments to such agency shall be made at least twice a year. An agency that receives amounts from the Postal Service under this paragraph shall use the amounts for breast cancer research.
 
 (2) For purposes of this section, the term “amounts becoming available for breast cancer research pursuant to this section” means—
 
@@ -782,7 +785,7 @@ The use of the special rate of postage established under this section shall be v
 
 **(g)** For purposes of section 416 (including any regulation prescribed under subsection (e)(1)(C) of that section), the special postage stamp issued under this section shall not apply to any limitation relating to whether more than 1 semipostal may be offered for sale at the same time.
 
-**(h)** This section shall cease to be effective after December 31, 2015.
+**(h)** This section shall cease to be effective after December 31, 2019.
 
 ### Statutory Notes
 
@@ -790,6 +793,10 @@ The use of the special rate of postage established under this section shall be v
 The date of the enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 105–41, which was approved Aug. 13, 1997.
 
 #### Amendments
+2015—Subsec. (c)(1). Pub. L. 114–99, § 3, inserted at end of concluding provisions “An agency that receives amounts from the Postal Service under this paragraph shall use the amounts for breast cancer research.”
+
+Subsec. (h). Pub. L. 114–99, § 2, substituted “2019” for “2015”.
+
 2011—Subsec. (h). Pub. L. 112–80 substituted “2015” for “2011”.
 
 2007—Subsec. (h). Pub. L. 110–150 substituted “2011” for “2007”.

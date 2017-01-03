@@ -99,7 +99,7 @@ Subsec. (d). Pub. L. 113–128, § 475A(5), added subsec. (d) and struck out for
 
 (3) **Adjustment for inflation** — For any fiscal year, beginning in fiscal year 1999, in which the total amount appropriated to carry out this subpart exceeds the total amount appropriated to carry out this subpart for the preceding fiscal year, the Administrator shall increase the minimum allotment under paragraph (1)(C) by a percentage that shall not exceed the percentage increase in the total amount appropriated to carry out this subpart between the preceding fiscal year and the fiscal year involved.
 
-**(b) Proportional reduction** To provide allotments to States in accordance with subsection (a)(1)(B) of this section, to provide minimum allotments to States (as increased under subsection (a)(3) of this section) under subsection (a)(1)(C) of this section, or to provide minimum allotments to States under subsection (a)(2)(B) of this section, the Administrator shall proportionately reduce the allotments of the remaining States under subsection (a)(1)(A) of this section, with such adjustments as may be necessary to prevent the allotment of any such remaining State from being reduced to less than the amount required by subsection (a)(1)(B) of this section.
+**(b) Proportional reduction** To provide allotments to States in accordance with subsection (a)(1)(B), to provide minimum allotments to States (as increased under subsection (a)(3)) under subsection (a)(1)(C), or to provide minimum allotments to States under subsection (a)(2)(B), the Administrator shall proportionately reduce the allotments of the remaining States under subsection (a)(1)(A), with such adjustments as may be necessary to prevent the allotment of any such remaining State from being reduced to less than the amount required by subsection (a)(1)(B).
 
 **(c) Reallotment** Whenever the Administrator determines that any amount of an allotment to a State for any fiscal year will not be expended by such State in carrying out the provisions of this subpart, the Administrator shall make such amount available for carrying out the provisions of this subpart to one or more of the States that the Administrator determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a State for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the State (as determined under the preceding provisions of this section) for such year.
 
@@ -198,7 +198,7 @@ A prior section 796e–3, Pub. L. 93–112, title VII, § 714, as added Pub. L. 
 
 <a id="section-707"></a>
 ## § 707. Program authorization
-**(a) In general** From the funds appropriated for fiscal year 2015 and for each subsequent fiscal year to carry out this subpart, the Administrator shall make available such sums as may be necessary to States, centers for independent living, and other entities in accordance with subsections (b) through (d) of this section.
+**(a) In general** From the funds appropriated for fiscal year 2015 and for each subsequent fiscal year to carry out this subpart, the Administrator shall make available such sums as may be necessary to States, centers for independent living, and other entities in accordance with subsections (b) through (d).
 
 **(b) Training**
 
@@ -216,7 +216,7 @@ A prior section 796e–3, Pub. L. 93–112, title VII, § 714, as added Pub. L. 
 
 (1) **States**
 
-  (A) *Population basis* — After the reservation required by subsection (b) of this section has been made, and except as provided in subparagraphs (B) and (C), from the remainder of the amounts appropriated for each such fiscal year to carry out this subpart, the Administrator shall make an allotment to each State whose State plan has been approved under [section 796d–1 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796d-1) of an amount bearing the same ratio to such remainder as the population of the State bears to the population of all States.
+  (A) *Population basis* — After the reservation required by subsection (b) has been made, and except as provided in subparagraphs (B) and (C), from the remainder of the amounts appropriated for each such fiscal year to carry out this subpart, the Administrator shall make an allotment to each State whose State plan has been approved under [section 796d–1 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796d-1) of an amount bearing the same ratio to such remainder as the population of the State bears to the population of all States.
 
   (B) *Maintenance of 1992 amounts* — Subject to the availability of appropriations to carry out this subpart, the amount of any allotment made under subparagraph (A) to a State for a fiscal year shall not be less than the amount of financial assistance received by centers for independent living in the State for fiscal year 1992 under part B of this subchapter, as in effect on the day before October 29, 1992.
 
@@ -322,11 +322,11 @@ Subsec. (d). Pub. L. 113–128, § 481(5), substituted “Administrator” for �
 
 **(e) Order of priorities** The Administrator shall be guided by the following order of priorities in allocating funds among centers for independent living within a State, to the extent funds are available:
 
-(1) The Administrator shall support existing centers for independent living, as described in subsection (c) of this section, that comply with the standards and assurances set forth in [section 796f–4 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796f-4), at the level of funding for the previous year.
+(1) The Administrator shall support existing centers for independent living, as described in subsection (c), that comply with the standards and assurances set forth in [section 796f–4 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796f-4), at the level of funding for the previous year.
 
 (2) The Administrator shall provide for a cost-of-living increase for such existing centers for independent living.
 
-(3) The Administrator shall fund new centers for independent living, as described in subsection (d) of this section, that comply with the standards and assurances set forth in [section 796f–4 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796f-4).
+(3) The Administrator shall fund new centers for independent living, as described in subsection (d), that comply with the standards and assurances set forth in [section 796f–4 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796f-4).
 
 **(f) Nonresidential agencies** A center that provides or manages residential housing after October 1, 1994, shall not be considered to be an eligible agency under this section.
 
@@ -418,11 +418,11 @@ Pub. L. 111–213, § 2(a), July 29, 2010, 124 Stat. 2343, provided that: “(1)
 
 **(e) Order of priorities** Unless the director of the designated State unit and the chairperson of the Council or other individual designated by the Council acting on behalf of and at the direction of the Council jointly agree on another order of priority, the director shall be guided by the following order of priorities in allocating funds among centers for independent living within a State, to the extent funds are available:
 
-(1) The director of the designated State unit shall support existing centers for independent living, as described in subsection (c) of this section, that comply with the standards and assurances set forth in [section 796f–4 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796f-4), at the level of funding for the previous year.
+(1) The director of the designated State unit shall support existing centers for independent living, as described in subsection (c), that comply with the standards and assurances set forth in [section 796f–4 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796f-4), at the level of funding for the previous year.
 
 (2) The director of the designated State unit shall provide for a cost-of-living increase for such existing centers for independent living.
 
-(3) The director of the designated State unit shall fund new centers for independent living, as described in subsection (d) of this section, that comply with the standards and assurances set forth in [section 796f–4 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796f-4).
+(3) The director of the designated State unit shall fund new centers for independent living, as described in subsection (d), that comply with the standards and assurances set forth in [section 796f–4 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796f-4).
 
 **(f) Nonresidential agencies** A center that provides or manages residential housing after October 1, 1994, shall not be considered to be an eligible agency under this section.
 
@@ -434,7 +434,7 @@ Pub. L. 111–213, § 2(a), July 29, 2010, 124 Stat. 2343, provided that: “(1)
 
   (A) the date of such notification; or
 
-  (B) in the case of a center that requests an appeal under subsection (i) of this section, the date of any final decision under subsection (i) of this section,
+  (B) in the case of a center that requests an appeal under subsection (i), the date of any final decision under subsection (i),
   unless the center submits a plan to achieve compliance within 90 days and such plan is approved by the director, or if appealed, by the Administrator.
 
 **(h) Onsite compliance review** The director of the designated State unit shall annually conduct onsite compliance reviews of at least 15 percent of the centers for independent living that receive funding under this section in the State. Each team that conducts onsite compliance review of centers for independent living shall include at least one person who is not an employee of the designated State agency, who has experience in the operation of centers for independent living, and who is jointly selected by the director of the designated State unit and the chairperson of or other individual designated by the Council acting on behalf of and at the direction of the Council. A copy of this review shall be provided to the Administrator.
@@ -489,7 +489,7 @@ Pars. (1)(A), (2). Pub. L. 113–128, § 482(c)(2), substituted “Administrator
 
 <a id="section-711"></a>
 ## § 711. Standards and assurances for centers for independent living
-**(a) In general** Each center for independent living that receives assistance under this subpart shall comply with the standards set out in subsection (b) of this section and provide and comply with the assurances set out in subsection (c) of this section in order to ensure that all programs and activities under this subpart are planned, conducted, administered, and evaluated in a manner consistent with the purposes of this part and the objective of providing assistance effectively and efficiently.
+**(a) In general** Each center for independent living that receives assistance under this subpart shall comply with the standards set out in subsection (b) and provide and comply with the assurances set out in subsection (c) in order to ensure that all programs and activities under this subpart are planned, conducted, administered, and evaluated in a manner consistent with the purposes of this part and the objective of providing assistance effectively and efficiently.
 
 **(b) Standards**
 
@@ -521,7 +521,7 @@ Pars. (1)(A), (2). Pub. L. 113–128, § 482(c)(2), substituted “Administrator
 
 (2) the center will be designed and operated within local communities by individuals with disabilities, including an assurance that the center will have a Board that is the principal governing body of the center and a majority of which shall be composed of individuals with significant disabilities;
 
-(3) the applicant will comply with the standards set forth in subsection (b) of this section;
+(3) the applicant will comply with the standards set forth in subsection (b);
 
 (4) the applicant will establish clear priorities through annual and 3-year program and financial planning objectives for the center, including overall goals or a mission for the center, a work plan for achieving the goals or mission, specific objectives, service priorities, and types of services to be provided, and a description that shall demonstrate how the proposed activities of the applicant are consistent with the most recent 3-year State plan under [section 796c of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796c);
 
@@ -553,7 +553,7 @@ Pars. (1)(A), (2). Pub. L. 113–128, § 482(c)(2), substituted “Administrator
 
 (12) the center will submit to the Statewide Independent Living Council a copy of its approved grant application and the annual report required under paragraph (8);
 
-(13) the center will prepare and submit a report to the designated State unit or the Administrator, as the case may be, at the end of each fiscal year that contains the information described in paragraph (8) and information regarding the extent to which the center is in compliance with the standards set forth in subsection (b) of this section; and
+(13) the center will prepare and submit a report to the designated State unit or the Administrator, as the case may be, at the end of each fiscal year that contains the information described in paragraph (8) and information regarding the extent to which the center is in compliance with the standards set forth in subsection (b); and
 
 (14) an independent living plan described in [section 796c(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section796c/e&num=0&edition=prelim) will be developed unless the individual who would receive services under the plan signs a waiver stating that such a plan is unnecessary.
 
@@ -627,11 +627,11 @@ A prior section 796j, Pub. L. 93–112, title VII, § 751, as added Pub. L. 102�
 ## § 716. Program of grants
 **(a) In general**
 
-(1) **Authority for grants** — Subject to subsections (b) and (c) of this section, the Commissioner may make grants to States for the purpose of providing the services described in subsection (d) of this section to older individuals who are blind.
+(1) **Authority for grants** — Subject to subsections (b) and (c), the Commissioner may make grants to States for the purpose of providing the services described in subsection (d) to older individuals who are blind.
 
 (2) **Designated State agency** — The Commissioner may not make a grant under this subsection unless the State involved agrees that the grant will be administered solely by the agency described in [section 721(a)(2)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section721/a/2/A/i&num=0&edition=prelim).
 
-**(b) Contingent competitive grants** Beginning with fiscal year 1993, in the case of any fiscal year for which the amount appropriated under section 796l of this title is less than $13,000,000, grants made under subsection (a) of this section shall be—
+**(b) Contingent competitive grants** Beginning with fiscal year 1993, in the case of any fiscal year for which the amount appropriated under section 796l of this title is less than $13,000,000, grants made under subsection (a) shall be—
 
 (1) discretionary grants made on a competitive basis to States; or
 
@@ -639,15 +639,15 @@ A prior section 796j, Pub. L. 93–112, title VII, § 751, as added Pub. L. 102�
 
   (A) under this part; or
 
-  (B) under part C of this subchapter, as in effect on the day before October 29, 1992.
+  (B) under part C, as in effect on the day before October 29, 1992.
 
 **(c) Contingent formula grants**
 
-(1) **In general** — In the case of any fiscal year for which the amount appropriated under section 796l of this title is equal to or greater than $13,000,000, grants under subsection (a) of this section shall be made only to States and shall be made only from allotments under paragraph (2).
+(1) **In general** — In the case of any fiscal year for which the amount appropriated under section 796l of this title is equal to or greater than $13,000,000, grants under subsection (a) shall be made only to States and shall be made only from allotments under paragraph (2).
 
-(2) **Allotments** — For grants under subsection (a) of this section for a fiscal year described in paragraph (1), the Commissioner shall make an allotment to each State in an amount determined in accordance with subsection (i) of this section, and shall make a grant to the State of the allotment made for the State if the State submits to the Commissioner an application in accordance with subsection (h) of this section.
+(2) **Allotments** — For grants under subsection (a) for a fiscal year described in paragraph (1), the Commissioner shall make an allotment to each State in an amount determined in accordance with subsection (i), and shall make a grant to the State of the allotment made for the State if the State submits to the Commissioner an application in accordance with subsection (h).
 
-**(d) Services generally** The Commissioner may not make a grant under subsection (a) of this section unless the State involved agrees that the grant will be expended only for purposes of—
+**(d) Services generally** The Commissioner may not make a grant under subsection (a) unless the State involved agrees that the grant will be expended only for purposes of—
 
 (1) providing independent living services to older individuals who are blind;
 
@@ -655,7 +655,7 @@ A prior section 796j, Pub. L. 93–112, title VII, § 751, as added Pub. L. 102�
 
 (3) conducting activities to help improve public understanding of the problems of such individuals.
 
-**(e) Independent living services** Independent living services for purposes of subsection (d)(1) of this section include—
+**(e) Independent living services** Independent living services for purposes of subsection (d)(1) include—
 
 (1) services to help correct blindness, such as—
 
@@ -683,19 +683,19 @@ A prior section 796j, Pub. L. 93–112, title VII, § 751, as added Pub. L. 102�
 
 **(f) Matching funds**
 
-(1) **In general** — The Commissioner may not make a grant under subsection (a) of this section unless the State involved agrees, with respect to the costs of the program to be carried out by the State pursuant to such subsection, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than $1 for each $9 of Federal funds provided in the grant.
+(1) **In general** — The Commissioner may not make a grant under subsection (a) unless the State involved agrees, with respect to the costs of the program to be carried out by the State pursuant to such subsection, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than $1 for each $9 of Federal funds provided in the grant.
 
 (2) **Determination of amount contributed** — Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
-**(g) Certain expenditures of grants** A State may expend a grant under subsection (a) of this section to carry out the purposes specified in subsection (d) of this section through grants to, or contracts or cooperative agreements with, public and nonprofit private agencies or organizations.
+**(g) Certain expenditures of grants** A State may expend a grant under subsection (a) to carry out the purposes specified in subsection (d) through grants to, or contracts or cooperative agreements with, public and nonprofit private agencies or organizations.
 
 **(h) Application for grant**
 
-(1) **In general** — The Commissioner may not make a grant under subsection (a) of this section unless an application for the grant is submitted to the Commissioner and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Commissioner determines to be necessary to carry out this section (including agreements, assurances, and information with respect to any grants under subsection (i)(4) of this section).
+(1) **In general** — The Commissioner may not make a grant under subsection (a) unless an application for the grant is submitted to the Commissioner and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Commissioner determines to be necessary to carry out this section (including agreements, assurances, and information with respect to any grants under subsection (i)(4)).
 
 (2) **Contents** — An application for a grant under this section shall contain—
 
-  (A) an assurance that the agency described in subsection (a)(2) of this section will prepare and submit to the Commissioner a report, at the end of each fiscal year, with respect to each project or program the agency operates or administers under this section, whether directly or through a grant or contract, which report shall contain, at a minimum, information on—
+  (A) an assurance that the agency described in subsection (a)(2) will prepare and submit to the Commissioner a report, at the end of each fiscal year, with respect to each project or program the agency operates or administers under this section, whether directly or through a grant or contract, which report shall contain, at a minimum, information on—
 
     (i) the number and types of older individuals who are blind and are receiving services;
 
@@ -723,7 +723,7 @@ A prior section 796j, Pub. L. 93–112, title VII, § 751, as added Pub. L. 102�
 
 **(i) Amount of formula grant**
 
-(1) **In general** — Subject to the availability of appropriations, the amount of an allotment under subsection (a) of this section for a State for a fiscal year shall be the greater of—
+(1) **In general** — Subject to the availability of appropriations, the amount of an allotment under subsection (a) for a State for a fiscal year shall be the greater of—
 
   (A) the amount determined under paragraph (2); or
 
@@ -735,13 +735,13 @@ A prior section 796j, Pub. L. 93–112, title VII, § 751, as added Pub. L. 102�
 
     (i) $225,000; or
 
-    (ii) an amount equal to ⅓ of 1 percent of the amount appropriated under section 796l of this title, and not reserved under [section 796j–1 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796j-1), for the fiscal year and available for allotments under subsection (a) of this section.
+    (ii) an amount equal to ⅓ of 1 percent of the amount appropriated under section 796l of this title, and not reserved under [section 796j–1 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796j-1), for the fiscal year and available for allotments under subsection (a).
 
   (B) *Certain territories* — In the case of Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands, the amount referred to in subparagraph (A) of paragraph (1) for a fiscal year is $40,000.
 
 (3) **Formula** — The amount referred to in subparagraph (B) of paragraph (1) for a State for a fiscal year is the product of—
 
-  (A) the amount appropriated under section 796l of this title, and not reserved under [section 796j–1 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796j-1), and available for allotments under subsection (a) of this section; and
+  (A) the amount appropriated under section 796l of this title, and not reserved under [section 796j–1 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796j-1), and available for allotments under subsection (a); and
 
   (B) a percentage equal to the quotient of—
 
@@ -751,22 +751,22 @@ A prior section 796j, Pub. L. 93–112, title VII, § 751, as added Pub. L. 102�
 
 (4) **Disposition of certain amounts**
 
-  (A) *Grants* — From the amounts specified in subparagraph (B), the Commissioner may make grants to States whose population of older individuals who are blind has a substantial need for the services specified in subsection (d) of this section relative to the populations in other States of older individuals who are blind.
+  (A) *Grants* — From the amounts specified in subparagraph (B), the Commissioner may make grants to States whose population of older individuals who are blind has a substantial need for the services specified in subsection (d) relative to the populations in other States of older individuals who are blind.
 
-  (B) *Amounts* — The amounts referred to in subparagraph (A) are any amounts that are not paid to States under subsection (a) of this section as a result of—
+  (B) *Amounts* — The amounts referred to in subparagraph (A) are any amounts that are not paid to States under subsection (a) as a result of—
 
-    (i) the failure of any State to submit an application under subsection (h) of this section;
+    (i) the failure of any State to submit an application under subsection (h);
 
     (ii) the failure of any State to prepare within a reasonable period of time such application in compliance with such subsection; or
 
-    (iii) any State informing the Commissioner that the State does not intend to expend the full amount of the allotment made for the State under subsection (a) of this section.
+    (iii) any State informing the Commissioner that the State does not intend to expend the full amount of the allotment made for the State under subsection (a).
 
-  (C) *Conditions* — The Commissioner may not make a grant under subparagraph (A) unless the State involved agrees that the grant is subject to the same conditions as grants made under subsection (a) of this section.
+  (C) *Conditions* — The Commissioner may not make a grant under subparagraph (A) unless the State involved agrees that the grant is subject to the same conditions as grants made under subsection (a).
 
 ### Statutory Notes
 
 #### References in Text
-Part C of this subchapter, as in effect on the day before October 29, 1992, referred to in subsec. (b)(2)(B), means former part C (§ 796f) which was included in the repeal of subchapter VII of this chapter by Pub. L. 102–569, title VII, § 701(1), Oct. 29, 1992, 106 Stat. 4443.
+Part C, as in effect on the day before October 29, 1992, referred to in subsec. (b)(2)(B), means former part C (§ 796f) which was included in the repeal of subchapter VII of this chapter by Pub. L. 102–569, title VII, § 701(1), Oct. 29, 1992, 106 Stat. 4443.
 
 #### Prior Provisions
 A prior section 796k, Pub. L. 93–112, title VII, § 752, as added Pub. L. 102–569, title VII, § 703(a), Oct. 29, 1992, 106 Stat. 4465; amended Pub. L. 103–73, title I, § 114(m), Aug. 11, 1993, 107 Stat. 732, authorized grants to provide independent living services for older individuals who are blind, prior to the general amendment of this subchapter by Pub. L. 105–220.
@@ -776,7 +776,7 @@ A prior section 796k, Pub. L. 93–112, title VII, § 752, as added Pub. L. 102�
 
 Subsec. (g). Pub. L. 113–128, § 487(4), inserted “, or contracts or cooperative agreements with,” after “grants to”.
 
-Subsec. (h). Pub. L. 113–128, § 487(1), (2), redesignated subsec. (i) as (h) and struck out former subsec. (h). Prior to amendment, text read as follows: “The Commissioner may not make a grant under subsection (a) of this section unless the State involved agrees that, in carrying out subsection (d)(1) of this section, the State will seek to incorporate into the State plan under [section 796c of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796c) any new methods and approaches relating to independent living services for older individuals who are blind.”
+Subsec. (h). Pub. L. 113–128, § 487(1), (2), redesignated subsec. (i) as (h) and struck out former subsec. (h). Prior to amendment, text read as follows: “The Commissioner may not make a grant under subsection (a) unless the State involved agrees that, in carrying out subsection (d)(1), the State will seek to incorporate into the State plan under [section 796c of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796c) any new methods and approaches relating to independent living services for older individuals who are blind.”
 
 Subsec. (h)(1). Pub. L. 113–128, § 487(5)(A), substituted “subsection (i)(4)” for “subsection (j)(4)”.
 
@@ -839,7 +839,7 @@ Section 797b, Pub. L. 93–112, title VIII, § 803, as added Pub. L. 102–569, 
 
   (F) enjoy full inclusion and integration in the economic, political, social, cultural, and educational mainstream of American society;
 
-(4) increased employment of individuals with disabilities can be achieved through implementation of statewide workforce development systems defined in [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102) that provide meaningful and effective participation for individuals with disabilities in workforce investment activities and activities carried out under the vocational rehabilitation program established under subchapter I of this chapter, and through the provision of independent living services, support services, and meaningful opportunities for employment in integrated work settings through the provision of reasonable accommodations;
+(4) increased employment of individuals with disabilities can be achieved through implementation of statewide workforce development systems defined in [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102) that provide meaningful and effective participation for individuals with disabilities in workforce investment activities and activities carried out under the vocational rehabilitation program established under subchapter I, and through the provision of independent living services, support services, and meaningful opportunities for employment in integrated work settings through the provision of reasonable accommodations;
 
 (5) individuals with disabilities continually encounter various forms of discrimination in such critical areas as employment, housing, public accommodations, education, transportation, communication, recreation, institutionalization, health services, voting, and public services;
 
@@ -1019,7 +1019,7 @@ Sec. 2. Specific activities by Task Force members and other agencies.
 
 (g) All executive agencies that are not members of the Task Force shall: (1) coordinate and cooperate with the Task Force; and (2) review their programs and policies to ensure that they are being conducted and delivered in a manner that facilitates and promotes the employment of adults with disabilities. Each agency shall file a report with the Task Force on the results of its review on November 15, 1998.
 
-(h) To improve employment outcomes for persons with disabilities by addressing, among other things, the education, transition, employment, health and rehabilitation, and independent living issues affecting young people with disabilities, executive departments and agencies shall coordinate and cooperate with the Task Force to: (1) strengthen interagency research, demonstration, and training activities relating to young people with disabilities; (2) create a public awareness campaign focused on access to equal opportunity for young people with disabilities; (3) promote the views of young people with disabilities through collaboration with the Youth Councils authorized under the Workforce Investment Act of 1998 [Pub. L. 105–220 repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015]; (4) increase access to and utilization of health insurance and health care for young people with disabilities through the formalization of the Federal Healthy and Ready to Work Interagency Council; (5) increase participation by young people with disabilities in postsecondary education and training programs; and (6) create a nationally representative Youth Advisory Council, to be funded and chaired by the Department of Labor, to advise the Task Force in conducting these and other appropriate activities.
+(h) To improve employment outcomes for persons with disabilities by addressing, among other things, the education, transition, employment, health and rehabilitation, and independent living issues affecting young people with disabilities, executive departments and agencies shall coordinate and cooperate with the Task Force to: (1) strengthen interagency research, demonstration, and training activities relating to young people with disabilities; (2) create a public awareness campaign focused on access to equal opportunity for young people with disabilities; (3) promote the views of young people with disabilities through collaboration with the Youth Councils authorized under the Workforce Investment Act of 1998 [Pub. L. 105–220, repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015]; (4) increase access to and utilization of health insurance and health care for young people with disabilities through the formalization of the Federal Healthy and Ready to Work Interagency Council; (5) increase participation by young people with disabilities in postsecondary education and training programs; and (6) create a nationally representative Youth Advisory Council, to be funded and chaired by the Department of Labor, to advise the Task Force in conducting these and other appropriate activities.
 
 Sec. 3. Cooperation. All efforts taken by executive departments and agencies under sections 1 and 2 of this order shall, as appropriate, further partnerships and cooperation with public and private sector employers, organizations that represent people with disabilities, organized labor, veteran service organizations, and State and local governments whenever such partnerships and cooperation are possible and would promote the employment and gainful economic activities of individuals with disabilities.
 
@@ -1073,7 +1073,7 @@ William J. Clinton.
 
 <a id="section-721"></a>
 ## § 721. Rehabilitation Services Administration
-**(a)** There is established in the Office of the Secretary in the Department of Education a Rehabilitation Services Administration which shall be headed by a Commissioner (hereinafter in this chapter referred to as the “Commissioner”) appointed by the President by and with the advice and consent of the Senate. Such Administration shall be the principal agency, and the Commissioner shall be the principal officer, of the Department for purposes of carrying out subchapters I, III, VI, and part B of subchapter VII of this chapter. The Commissioner shall be an individual with substantial experience in rehabilitation and in rehabilitation program management. In the performance of the functions of the office, the Commissioner shall be directly responsible to the Secretary of Education or to the Under Secretary or an appropriate Assistant Secretary of such Department, as designated by the Secretary. The functions of the Commissioner shall not be delegated to any officer not directly responsible, both with respect to program operation and administration, to the Commissioner. Any reference in this chapter to duties to be carried out by the Commissioner shall be considered to be a reference to duties to be carried out by the Secretary of Education acting through the Commissioner. In carrying out any of the functions of the office under this chapter, the Commissioner shall be guided by general policies of the National Council on Disability established under subchapter IV of this chapter.
+**(a)** There is established in the Office of the Secretary in the Department of Education a Rehabilitation Services Administration which shall be headed by a Commissioner (hereinafter in this chapter referred to as the “Commissioner”) appointed by the President by and with the advice and consent of the Senate. Such Administration shall be the principal agency, and the Commissioner shall be the principal officer, of the Department for purposes of carrying out subchapters I, III, VI, and part B of subchapter VII. The Commissioner shall be an individual with substantial experience in rehabilitation and in rehabilitation program management. In the performance of the functions of the office, the Commissioner shall be directly responsible to the Secretary of Education or to the Under Secretary or an appropriate Assistant Secretary of such Department, as designated by the Secretary. The functions of the Commissioner shall not be delegated to any officer not directly responsible, both with respect to program operation and administration, to the Commissioner. Any reference in this chapter to duties to be carried out by the Commissioner shall be considered to be a reference to duties to be carried out by the Secretary of Education acting through the Commissioner. In carrying out any of the functions of the office under this chapter, the Commissioner shall be guided by general policies of the National Council on Disability established under subchapter IV of this chapter.
 
 **(b)** The Secretary of Education shall take whatever action is necessary to ensure that funds appropriated pursuant to this chapter are expended only for the programs, personnel, and administration of programs carried out under this chapter.
 
@@ -1083,7 +1083,7 @@ William J. Clinton.
 A prior section 702, Pub. L. 93–112, § 3, Sept. 26, 1973, 87 Stat. 357; Pub. L. 93–516, title I, § 101(a), Dec. 7, 1974, 88 Stat. 1617; Pub. L. 93–651, title I, § 101(a), Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 95–602, title I, § 122(a)(2), (3), Nov. 6, 1978, 92 Stat. 2984; Pub. L. 99–506, title I, § 102, title X, § 1001(a)(1), Oct. 21, 1986, 100 Stat. 1808, 1841; Pub. L. 100–630, title II, § 201(a), Nov. 7, 1988, 102 Stat. 3303, related to the Rehabilitation Services Administration, prior to repeal by Pub. L. 105–220, title IV, § 403, Aug. 7, 1998, 112 Stat. 1093.
 
 #### Amendments
-2014—Subsec. (a). Pub. L. 113–128, § 403(1), inserted “in the Department of Education” after “Secretary” in first sentence, substituted “Such Administration shall be the principal agency, and the Commissioner shall be the principal officer, of the Department for purposes of carrying out subchapters I, III, VI, and part B of subchapter VII of this chapter.” for “Except for subchapters IV and V of this chapter and as otherwise specifically provided in this chapter, such Administration shall be the principal agency, and the Commissioner shall be the principal officer, of such Department for carrying out this chapter.” in second sentence, and inserted “of Education” after “to the Secretary” in fourth sentence and after “by the Secretary” in sixth sentence.
+2014—Subsec. (a). Pub. L. 113–128, § 403(1), inserted “in the Department of Education” after “Secretary” in first sentence, substituted “Such Administration shall be the principal agency, and the Commissioner shall be the principal officer, of the Department for purposes of carrying out subchapters I, III, VI, and part B of subchapter VII.” for “Except for subchapters IV and V and as otherwise specifically provided in this chapter, such Administration shall be the principal agency, and the Commissioner shall be the principal officer, of such Department for carrying out this chapter.” in second sentence, and inserted “of Education” after “to the Secretary” in fourth sentence and after “by the Secretary” in sixth sentence.
 
 Subsec. (b). Pub. L. 113–128, § 403(2), inserted “of Education” after “Secretary”.
 
@@ -1129,7 +1129,7 @@ Authority of the President under this section delegated to Director of Office of
 
 For the purposes of this chapter:
 
-(1) **Administrative costs** — The term “administrative costs” means expenditures incurred in the performance of administrative functions under the vocational rehabilitation program carried out under subchapter I of this chapter, including expenses related to program planning, development, monitoring, and evaluation, including expenses for—
+(1) **Administrative costs** — The term “administrative costs” means expenditures incurred in the performance of administrative functions under the vocational rehabilitation program carried out under subchapter I, including expenses related to program planning, development, monitoring, and evaluation, including expenses for—
 
   (A) quality assurance;
 
@@ -1301,7 +1301,7 @@ For the purposes of this chapter:
 
   (A) except as otherwise provided in subparagraph (B), a physical or mental impairment that constitutes or results in a substantial impediment to employment; or
 
-  (B) for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII of this chapter, the meaning given it in [section 12102 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12102&num=0&edition=prelim).
+  (B) for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII, the meaning given it in [section 12102 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12102&num=0&edition=prelim).
 
 (10) **Drug and illegal use of drugs**
 
@@ -1332,7 +1332,7 @@ For the purposes of this chapter:
 
   (A) *In general* — Subject to subparagraph (B), the term “Federal share” means 78.7 percent.
 
-  (B) *Exception* — The term “Federal share” means the share specifically set forth in [section 731(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section731/a/3&num=0&edition=prelim), except that with respect to payments pursuant to part B of subchapter I of this chapter to any State that are used to meet the costs of construction of those rehabilitation facilities identified in [section 723(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section723/b/2&num=0&edition=prelim) in such State, the Federal share shall be the percentages determined in accordance with the provisions of [section 731(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section731/a/3&num=0&edition=prelim) applicable with respect to the State.
+  (B) *Exception* — The term “Federal share” means the share specifically set forth in [section 731(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section731/a/3&num=0&edition=prelim), except that with respect to payments pursuant to part B of subchapter I to any State that are used to meet the costs of construction of those rehabilitation facilities identified in [section 723(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section723/b/2&num=0&edition=prelim) in such State, the Federal share shall be the percentages determined in accordance with the provisions of [section 731(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section731/a/3&num=0&edition=prelim) applicable with respect to the State.
 
   (C) *Relationship to expenditures by a political subdivision* — For the purpose of determining the non-Federal share with respect to a State, expenditures by a political subdivision thereof or by a local agency shall be regarded as expenditures by such State, subject to such limitations and conditions as the Secretary of Education shall by regulation prescribe.
 
@@ -1424,7 +1424,7 @@ For the purposes of this chapter:
 
   (A) *In general* — The terms “Indian”, “American Indian”, and “Indian American” mean an individual who is a member of an Indian tribe and includes a Native and a descendant of a Native, as such terms are defined in subsections (b) and (r) of section 3 of the Alaska Native Claims Settlement Act ([43 U.S.C. 1602](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim)).
 
-  (B) *Indian tribe* — The term “Indian tribe” means any Federal or State Indian tribe, band, rancheria, pueblo, colony, or community, including any Alaskan native village or regional village corporation (as defined in or established pursuant to the Alaska Native Claims Settlement Act [[43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.]) and a tribal organization (as defined in section 450b(l) of title 25).
+  (B) *Indian tribe* — The term “Indian tribe” means any Federal or State Indian tribe, band, rancheria, pueblo, colony, or community, including any Alaskan native village or regional village corporation (as defined in or established pursuant to the Alaska Native Claims Settlement Act [[43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.]) and a tribal organization (as defined in section 5304(l) of title 25).
 
 (20) **Individual with a disability**
 
@@ -1432,13 +1432,13 @@ For the purposes of this chapter:
 
     (i) has a physical or mental impairment which for such individual constitutes or results in a substantial impediment to employment; and
 
-    (ii) can benefit in terms of an employment outcome from vocational rehabilitation services provided pursuant to subchapter I, III, or VI of this chapter.
+    (ii) can benefit in terms of an employment outcome from vocational rehabilitation services provided pursuant to subchapter I, III, or VI.
 
   (B) *Certain programs; limitations on major life activities* — Subject to subparagraphs (C), (D), (E), and (F), the term “individual with a disability” means, for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII of this chapter, any person who has a disability as defined in [section 12102 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12102&num=0&edition=prelim).
 
   (C) *Rights and advocacy provisions*
 
-    (i) *In general; exclusion of individuals engaging in drug use* — For purposes of subchapter V of this chapter, the term “individual with a disability” does not include an individual who is currently engaging in the illegal use of drugs, when a covered entity acts on the basis of such use.
+    (i) *In general; exclusion of individuals engaging in drug use* — For purposes of subchapter V, the term “individual with a disability” does not include an individual who is currently engaging in the illegal use of drugs, when a covered entity acts on the basis of such use.
 
     (ii) *Exception for individuals no longer engaging in drug use* — Nothing in clause (i) shall be construed to exclude as an individual with a disability an individual who—
 
@@ -1449,7 +1449,7 @@ For the purposes of this chapter:
       (III) is erroneously regarded as engaging in such use, but is not engaging in such use;
     except that it shall not be a violation of this chapter for a covered entity to adopt or administer reasonable policies or procedures, including but not limited to drug testing, designed to ensure that an individual described in subclause (I) or (II) is no longer engaging in the illegal use of drugs.
 
-    (iii) *Exclusion for certain services* — Notwithstanding clause (i), for purposes of programs and activities providing health services and services provided under subchapters I, II, and III of this chapter, an individual shall not be excluded from the benefits of such programs or activities on the basis of his or her current illegal use of drugs if he or she is otherwise entitled to such services.
+    (iii) *Exclusion for certain services* — Notwithstanding clause (i), for purposes of programs and activities providing health services and services provided under subchapters I, II, and III, an individual shall not be excluded from the benefits of such programs or activities on the basis of his or her current illegal use of drugs if he or she is otherwise entitled to such services.
 
     (iv) *Disciplinary action* — For purposes of programs and activities providing educational services, local educational agencies may take disciplinary action pertaining to the use or possession of illegal drugs or alcohol against any student who is an individual with a disability and who currently is engaging in the illegal use of drugs or in the use of alcohol to the same extent that such disciplinary action is taken against students who are not individuals with disabilities. Furthermore, the due process procedures at section 104.36 of title 34, Code of Federal Regulations (or any corresponding similar regulation or ruling) shall not apply to such disciplinary actions.
 
@@ -1483,9 +1483,9 @@ For the purposes of this chapter:
 
     (iii) who has one or more physical or mental disabilities resulting from amputation, arthritis, autism, blindness, burn injury, cancer, cerebral palsy, cystic fibrosis, deafness, head injury, heart disease, hemiplegia, hemophilia, respiratory or pulmonary dysfunction, intellectual disability, mental illness, multiple sclerosis, muscular dystrophy, musculo-skeletal disorders, neurological disorders (including stroke and epilepsy), paraplegia, quadriplegia, and other spinal cord conditions, sickle cell anemia, specific learning disability, end-stage renal disease, or another disability or combination of disabilities determined on the basis of an assessment for determining eligibility and vocational rehabilitation needs described in subparagraphs (A) and (B) of paragraph (2) to cause comparable substantial functional limitation.
 
-  (B) *Independent living services and centers for independent living* — For purposes of subchapter VII of this chapter, the term “individual with a significant disability” means an individual with a severe physical or mental impairment whose ability to function independently in the family or community or whose ability to obtain, maintain, or advance in employment is substantially limited and for whom the delivery of independent living services will improve the ability to function, continue functioning, or move toward functioning independently in the family or community or to continue in employment, respectively.
+  (B) *Independent living services and centers for independent living* — For purposes of subchapter VII, the term “individual with a significant disability” means an individual with a severe physical or mental impairment whose ability to function independently in the family or community or whose ability to obtain, maintain, or advance in employment is substantially limited and for whom the delivery of independent living services will improve the ability to function, continue functioning, or move toward functioning independently in the family or community or to continue in employment, respectively.
 
-  (C) *Research and training* — For purposes of subchapter II of this chapter, the term “individual with a significant disability” includes an individual described in subparagraph (A) or (B).
+  (C) *Research and training* — For purposes of subchapter II, the term “individual with a significant disability” includes an individual described in subparagraph (A) or (B).
 
   (D) *Individuals with significant disabilities* — The term “individuals with significant disabilities” means more than one individual with a significant disability.
 
@@ -1668,7 +1668,7 @@ Par. (18). Pub. L. 113–128, § 404(12), substituted “term ‘independent liv
 
 Par. (19)(A). Pub. L. 113–128, § 404(13)(A), inserted “and includes a Native and a descendant of a Native, as such terms are defined in subsections (b) and (r) of section 3 of the Alaska Native Claims Settlement Act ([43 U.S.C. 1602](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim))” before period at end.
 
-Par. (19)(B). Pub. L. 113–128, § 404(13)(B), inserted “and a tribal organization (as defined in section 450b(l) of title 25)” before period at end.
+Par. (19)(B). Pub. L. 113–128, § 404(13)(B), inserted “and a tribal organization (as defined in section 5304(l) of title 25)” before period at end.
 
 Par. (23). Pub. L. 113–128, § 404(14), substituted “section 1002” for “section 1001”.
 
@@ -2109,7 +2109,7 @@ Another prior section 18 of Pub. L. 93–112 was classified to [section 717 of t
 
 <a id="section-751"></a>
 ## § 751. Carryover
-**(a) In general** Except as provided in subsection (b) of this section, and notwithstanding any other provision of law—
+**(a) In general** Except as provided in subsection (b), and notwithstanding any other provision of law—
 
 (1) any funds appropriated for a fiscal year to carry out any grant program under part B of subchapter I, [section 794e of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-794e) (except as provided in [section 794e(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794e/b&num=0&edition=prelim)), subchapter VI, subpart 2 or 3 of part A of subchapter VII, or part B of subchapter VII (except as provided in [section 796k(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section796k/b&num=0&edition=prelim)), including any funds reallotted under any such grant program, that are not obligated and expended by recipients prior to the beginning of the succeeding fiscal year; or
 
@@ -2158,7 +2158,7 @@ A prior section 20 of Pub. L. 93–112 was classified to [section 718a of this t
 
 <a id="section-761"></a>
 ## § 761. Traditionally underserved populations
-**(a) Findings** With respect to the programs authorized in subchapters II through VII of this chapter, the Congress finds as follows:
+**(a) Findings** With respect to the programs authorized in subchapters II through VII, the Congress finds as follows:
 
 (1) **Racial profile** — The demographic profile of America is rapidly changing. While the percentage increase from 2000 to 2010 for white Americans was 9.7 percent, the percentage increase for racial and ethnic minorities was much higher: 43.0 percent for Latinos, 12.3 percent for African-Americans, and 43.2 percent for Asian-Americans.
 
@@ -2176,11 +2176,11 @@ A prior section 20 of Pub. L. 93–112 was classified to [section 718a of this t
 
 **(b) Outreach to minorities**
 
-(1) **In general** — For each fiscal year, the Commissioner and the Director of the National Institute on Disability, Independent Living, and Rehabilitation Research (referred to in this subsection as the “Director”) shall reserve 1 percent of the funds appropriated for the fiscal year for programs authorized under subchapters II, III, VI, and VII of this chapter to carry out this subsection. The Commissioner and the Director shall use the reserved funds to carry out one or more of the activities described in paragraph (2) through a grant, contract, or cooperative agreement.
+(1) **In general** — For each fiscal year, the Commissioner and the Director of the National Institute on Disability, Independent Living, and Rehabilitation Research (referred to in this subsection as the “Director”) shall reserve 1 percent of the funds appropriated for the fiscal year for programs authorized under subchapters II, III, VI, and VII to carry out this subsection. The Commissioner and the Director shall use the reserved funds to carry out one or more of the activities described in paragraph (2) through a grant, contract, or cooperative agreement.
 
 (2) **Activities** — The activities carried out by the Commissioner and the Director shall include one or more of the following:
 
-  (A) Making awards to minority entities and Indian tribes to carry out activities under the programs authorized under subchapters II, III, VI, and VII of this chapter.
+  (A) Making awards to minority entities and Indian tribes to carry out activities under the programs authorized under subchapters II, III, VI, and VII.
 
   (B) Making awards to minority entities and Indian tribes to conduct research, training, technical assistance, or a related activity, to improve services provided under this chapter, especially services provided to individuals from minority backgrounds.
 
@@ -2251,7 +2251,7 @@ Subsec. (a)(3). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(3)], substit
 
     (iv) lack of education, training, and supports to meet job qualification standards necessary to secure, retain, regain, or advance in employment;
 
-  (E) enforcement of subchapter V of this chapter and of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.) holds the promise of ending discrimination for individuals with disabilities;
+  (E) enforcement of subchapter V and of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.) holds the promise of ending discrimination for individuals with disabilities;
 
   (F) the provision of workforce development activities and vocational rehabilitation services can enable individuals with disabilities, including individuals with the most significant disabilities, to pursue meaningful careers by securing gainful employment commensurate with their abilities and capabilities; and
 
@@ -2285,9 +2285,9 @@ Subsec. (a)(3). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(3)], substit
 
 **(b) Authorization of appropriations**
 
-(1) **In general** — For the purpose of making grants to States under part B of this subchapter to assist States in meeting the costs of vocational rehabilitation services provided in accordance with State plans under [section 721 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-721), there are authorized to be appropriated $3,302,053,000 for each of the fiscal years 2015 through 2020, except that the amount to be appropriated for a fiscal year shall not be less than the amount of the appropriation under this paragraph for the immediately preceding fiscal year, increased by the percentage change in the Consumer Price Index determined under subsection (c) of this section for the immediately preceding fiscal year.
+(1) **In general** — For the purpose of making grants to States under part B to assist States in meeting the costs of vocational rehabilitation services provided in accordance with State plans under [section 721 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-721), there are authorized to be appropriated $3,302,053,000 for each of the fiscal years 2015 through 2020, except that the amount to be appropriated for a fiscal year shall not be less than the amount of the appropriation under this paragraph for the immediately preceding fiscal year, increased by the percentage change in the Consumer Price Index determined under subsection (c) for the immediately preceding fiscal year.
 
-(2) **Reference** — The reference in paragraph (1) to grants to States under part B of this subchapter shall not be considered to refer to grants under [section 732 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-732).
+(2) **Reference** — The reference in paragraph (1) to grants to States under part B shall not be considered to refer to grants under [section 732 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-732).
 
 **(c) Consumer Price Index**
 
@@ -2295,9 +2295,9 @@ Subsec. (a)(3). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(3)], substit
 
 (2) **Application**
 
-  (A) *Increase* — If in any fiscal year the percentage change published under paragraph (1) indicates an increase in the Consumer Price Index, then the amount to be appropriated under subsection (b)(1) of this section for the subsequent fiscal year shall be at least the amount appropriated under subsection (b)(1) of this section for the fiscal year in which the publication is made under paragraph (1) increased by such percentage change.
+  (A) *Increase* — If in any fiscal year the percentage change published under paragraph (1) indicates an increase in the Consumer Price Index, then the amount to be appropriated under subsection (b)(1) for the subsequent fiscal year shall be at least the amount appropriated under subsection (b)(1) for the fiscal year in which the publication is made under paragraph (1) increased by such percentage change.
 
-  (B) *No increase or decrease* — If in any fiscal year the percentage change published under paragraph (1) does not indicate an increase in the Consumer Price Index, then the amount to be appropriated under subsection (b)(1) of this section for the subsequent fiscal year shall be at least the amount appropriated under subsection (b)(1) of this section for the fiscal year in which the publication is made under paragraph (1).
+  (B) *No increase or decrease* — If in any fiscal year the percentage change published under paragraph (1) does not indicate an increase in the Consumer Price Index, then the amount to be appropriated under subsection (b)(1) for the subsequent fiscal year shall be at least the amount appropriated under subsection (b)(1) for the fiscal year in which the publication is made under paragraph (1).
 
 (3) **Definition** — For purposes of this section, the term “Consumer Price Index” means the Consumer Price Index for All Urban Consumers, published monthly by the Bureau of Labor Statistics.
 
@@ -2312,7 +2312,7 @@ Subsec. (a)(3). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(3)], substit
     (ii) of the duration of the program authorized by the State grant program under part B of this subchapter;
     has passed legislation which would have the effect of extending the authorization or duration (as the case may be) of such program, such authorization or duration is automatically extended for 1 additional year for the program authorized by this subchapter.
 
-  (B) *Calculation* — The amount authorized to be appropriated for the additional fiscal year described in subparagraph (A) shall be an amount equal to the amount appropriated for such program for fiscal year 2003, increased by the percentage change in the Consumer Price Index determined under subsection (c) of this section for the immediately preceding fiscal year, if the percentage change indicates an increase.
+  (B) *Calculation* — The amount authorized to be appropriated for the additional fiscal year described in subparagraph (A) shall be an amount equal to the amount appropriated for such program for fiscal year 2003, increased by the percentage change in the Consumer Price Index determined under subsection (c) for the immediately preceding fiscal year, if the percentage change indicates an increase.
 
 (2) **Construction**
 
@@ -2350,7 +2350,7 @@ Subsec. (a)(3)(E). Pub. L. 113–128, § 411(a)(3)(B), inserted “should” bef
 Subsec. (b)(1). Pub. L. 113–128, § 411(b), substituted “$3,302,053,000 for each of the fiscal years 2015 through 2020” for “such sums as may be necessary for fiscal years 1999 through 2003”.
 
 #### Definitions of Terms in Pub. L. 113–128
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
 
 
 <a id="section-762a"></a>
@@ -2393,7 +2393,7 @@ Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, w
 
   (C) *Responsibility for services for the blind* — If the State has designated only 1 State agency pursuant to subparagraph (A), the State may assign responsibility for the part of the plan under which vocational rehabilitation services are provided for individuals who are blind to an organizational unit of the designated State agency and assign responsibility for the rest of the plan to another organizational unit of the designated State agency, with the provisions of subparagraph (B) applying separately to each of the designated State units.
 
-(3) **Non-Federal share** — The State plan shall provide for financial participation by the State, or if the State so elects, by the State and local agencies, to provide the amount of the non-Federal share of the cost of carrying out part B of this subchapter.
+(3) **Non-Federal share** — The State plan shall provide for financial participation by the State, or if the State so elects, by the State and local agencies, to provide the amount of the non-Federal share of the cost of carrying out part B.
 
 (4) **Statewideness** — The State plan shall provide that the plan shall be in effect in all political subdivisions of the State, except that—
 
@@ -2637,11 +2637,11 @@ Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, w
 
     (ii) transition services for youth with disabilities and students with disabilities, such as pre-employment transition services.
 
-  (F) *Coordination with Statewide Independent Living Councils and independent living centers* — The State plan shall include an assurance that the designated State unit, the Statewide Independent Living Council established under [section 796d of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796d), and the independent living centers described in subpart 3 of part A of subchapter VII of this chapter within the State have developed working relationships and coordinate their activities, as appropriate.
+  (F) *Coordination with Statewide Independent Living Councils and independent living centers* — The State plan shall include an assurance that the designated State unit, the Statewide Independent Living Council established under [section 796d of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796d), and the independent living centers described in subpart 3 of part A of subchapter VII within the State have developed working relationships and coordinate their activities, as appropriate.
 
   (G) *Cooperative agreement regarding individuals eligible for home and community-based waiver programs* — The State plan shall include an assurance that the designated State unit has entered into a formal cooperative agreement with the State agency responsible for administering the State Medicaid plan under title XIX of the Social Security Act ([42 U.S.C. 1396](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396&num=0&edition=prelim) et seq.) and the State agency with primary responsibility for providing services and supports for individuals with intellectual disabilities and individuals with developmental disabilities, with respect to the delivery of vocational rehabilitation services, including extended services, for individuals with the most significant disabilities who have been determined to be eligible for home and community-based services under a Medicaid waiver, Medicaid State plan amendment, or other authority related to a State Medicaid program.
 
-  (H) *Cooperative agreement with recipients of grants for services to American Indians* — In applicable cases, the State plan shall include an assurance that the State has entered into a formal cooperative agreement with each grant recipient in the State that receives funds under part C of this subchapter. The agreement shall describe strategies for collaboration and coordination in providing vocational rehabilitation services to American Indians who are individuals with disabilities, including—
+  (H) *Cooperative agreement with recipients of grants for services to American Indians* — In applicable cases, the State plan shall include an assurance that the State has entered into a formal cooperative agreement with each grant recipient in the State that receives funds under part C. The agreement shall describe strategies for collaboration and coordination in providing vocational rehabilitation services to American Indians who are individuals with disabilities, including—
 
     (i) strategies for interagency referral and information sharing that will assist in eligibility determinations and the development of individualized plans for employment;
 
@@ -2659,7 +2659,7 @@ Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, w
 
 (12) **Residency** — The State plan shall include an assurance that the State will not impose a residence requirement that excludes from services provided under the plan any individual who is present in the State.
 
-(13) **Services to American Indians** — The State plan shall include an assurance that, except as otherwise provided in part C of this subchapter, the designated State agency will provide vocational rehabilitation services to American Indians who are individuals with disabilities residing in the State to the same extent as the designated State agency provides such services to other significant populations of individuals with disabilities residing in the State.
+(13) **Services to American Indians** — The State plan shall include an assurance that, except as otherwise provided in part C, the designated State agency will provide vocational rehabilitation services to American Indians who are individuals with disabilities residing in the State to the same extent as the designated State agency provides such services to other significant populations of individuals with disabilities residing in the State.
 
 (14) **Semiannual review of individuals in extended employment or other employment under special certificate provisions of the Fair Labor Standards Act of 1938** — The State plan shall provide for—
 
@@ -2695,7 +2695,7 @@ Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, w
 
     (i) the number of individuals in the State who are eligible for services under this subchapter;
 
-    (ii) the number of such individuals who will receive services provided with funds provided under part B of this subchapter and under subchapter VI of this chapter, including, if the designated State agency uses an order of selection in accordance with paragraph (5), estimates of the number of individuals to be served under each priority category within the order;
+    (ii) the number of such individuals who will receive services provided with funds provided under part B and under subchapter VI, including, if the designated State agency uses an order of selection in accordance with paragraph (5), estimates of the number of individuals to be served under each priority category within the order;
 
     (iii) the number of individuals who are eligible for services under this subchapter, but are not receiving such services due to an order of selection; and
 
@@ -2835,15 +2835,15 @@ Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, w
 
         (cc) copies of due process hearing decisions issued under this subchapter, which shall be transmitted in such a manner as to ensure that the identity of the participants in the hearings is kept confidential.
 
-  (B) *More than one designated State agency* — In the case of a State that, under subsection (a)(2) of this section, designates a State agency to administer the part of the State plan under which vocational rehabilitation services are provided for individuals who are blind (or to supervise the administration of such part by a local agency) and designates a separate State agency to administer the rest of the State plan, the State shall either establish a State Rehabilitation Council for each of the two agencies that does not meet the requirements in subparagraph (A)(i), or establish one State Rehabilitation Council for both agencies if neither agency meets the requirements of subparagraph (A)(i).
+  (B) *More than one designated State agency* — In the case of a State that, under subsection (a)(2), designates a State agency to administer the part of the State plan under which vocational rehabilitation services are provided for individuals who are blind (or to supervise the administration of such part by a local agency) and designates a separate State agency to administer the rest of the State plan, the State shall either establish a State Rehabilitation Council for each of the two agencies that does not meet the requirements in subparagraph (A)(i), or establish one State Rehabilitation Council for both agencies if neither agency meets the requirements of subparagraph (A)(i).
 
-(22) **Supported employment State plan supplement** — The State plan shall include an assurance that the State has an acceptable plan for carrying out subchapter VI of this chapter, including the use of funds under that part to supplement funds made available under part B of this subchapter to pay for the cost of services leading to supported employment.
+(22) **Supported employment State plan supplement** — The State plan shall include an assurance that the State has an acceptable plan for carrying out subchapter VI, including the use of funds under that part to supplement funds made available under part B of this subchapter to pay for the cost of services leading to supported employment.
 
 (23) **Annual updates** — The plan shall include an assurance that the State will submit to the Commissioner reports containing annual updates of the information required under paragraph (7) (relating to a comprehensive system of personnel development) and any other updates of the information required under this section that are requested by the Commissioner, and annual reports as provided in paragraphs (15) (relating to assessments, estimates, goals and priorities, and reports of progress) and (18) (relating to innovation and expansion), at such time and in such manner as the Secretary may determine to be appropriate.
 
 (24) **Certain contracts and cooperative agreements**
 
-  (A) *Contracts with for-profit organizations* — The State plan shall provide that the designated State agency has the authority to enter into contracts with for-profit organizations for the purpose of providing, as vocational rehabilitation services, on-the-job training and related programs for individuals with disabilities under part A of subchapter VI of this chapter, upon a determination by such agency that such for-profit organizations are better qualified to provide such rehabilitation services than nonprofit agencies and organizations.
+  (A) *Contracts with for-profit organizations* — The State plan shall provide that the designated State agency has the authority to enter into contracts with for-profit organizations for the purpose of providing, as vocational rehabilitation services, on-the-job training and related programs for individuals with disabilities under part A of subchapter VI, upon a determination by such agency that such for-profit organizations are better qualified to provide such rehabilitation services than nonprofit agencies and organizations.
 
   (B) *Cooperative agreements with private nonprofit organizations* — The State plan shall describe the manner in which cooperative agreements with private nonprofit vocational rehabilitation service providers will be established.
 
@@ -3005,7 +3005,7 @@ Subsec. (c). Pub. L. 113–128, § 412(c), added subsec. (c).
 Subsec. (a)(21)(A)(i)(II)(bb). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(4)(B)], substituted “commission” for “Commission”.
 
 #### Definitions of Terms in Pub. L. 113–128
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
 
 
 <a id="section-763"></a>
@@ -3037,7 +3037,7 @@ Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, w
 
 (4) **Use of existing information**
 
-  (A) *In general* — To the maximum extent appropriate and consistent with the requirements of this part, for purposes of determining the eligibility of an individual for vocational rehabilitation services under this subchapter and developing the individualized plan for employment described in subsection (b) of this section for the individual, the designated State unit shall use information that is existing and current (as of the date of the determination of eligibility or of the development of the individualized plan for employment), including information available from other programs and providers, particularly information used by education officials and the Social Security Administration, information provided by the individual and the family of the individual, and information obtained under the assessment for determining eligibility and vocational rehabilitation needs.
+  (A) *In general* — To the maximum extent appropriate and consistent with the requirements of this part, for purposes of determining the eligibility of an individual for vocational rehabilitation services under this subchapter and developing the individualized plan for employment described in subsection (b) for the individual, the designated State unit shall use information that is existing and current (as of the date of the determination of eligibility or of the development of the individualized plan for employment), including information available from other programs and providers, particularly information used by education officials and the Social Security Administration, information provided by the individual and the family of the individual, and information obtained under the assessment for determining eligibility and vocational rehabilitation needs.
 
   (B) *Determinations by officials of other agencies* — Determinations made by officials of other agencies, particularly education officials described in [section 721(a)(11)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section721/a/11/D&num=0&edition=prelim), regarding whether an individual satisfies one or more factors relating to whether an individual is an individual with a disability under [section 705(20)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section705/20/A&num=0&edition=prelim) or an individual with a significant disability under [section 705(21)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section705/21/A&num=0&edition=prelim) shall be used, to the extent appropriate and consistent with the requirements of this part, in assisting the designated State unit in making such determinations.
 
@@ -3057,7 +3057,7 @@ Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, w
 
     (i) the reasons for the determination, including the clear and convincing evidence that forms the basis for the determination of ineligibility; and
 
-    (ii) a description of the means by which the individual may express, and seek a remedy for, any dissatisfaction with the determination, including the procedures for review by an impartial hearing officer under subsection (c) of this section;
+    (ii) a description of the means by which the individual may express, and seek a remedy for, any dissatisfaction with the determination, including the procedures for review by an impartial hearing officer under subsection (c);
 
   (D) the individual shall be provided with a description of services available from the client assistance program under [section 732 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-732) and information on how to contact that program; and
 
@@ -3075,7 +3075,7 @@ Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, w
 
 **(b) Development of an individualized plan for employment**
 
-(1) **Options for developing an individualized plan for employment** — If an individual is determined to be eligible for vocational rehabilitation services as described in subsection (a) of this section, the designated State unit shall complete the assessment for determining eligibility and vocational rehabilitation needs, as appropriate, and shall provide the eligible individual or the individual’s representative, in writing and in an appropriate mode of communication, with information on the individual’s options for developing an individualized plan for employment, including—
+(1) **Options for developing an individualized plan for employment** — If an individual is determined to be eligible for vocational rehabilitation services as described in subsection (a), the designated State unit shall complete the assessment for determining eligibility and vocational rehabilitation needs, as appropriate, and shall provide the eligible individual or the individual’s representative, in writing and in an appropriate mode of communication, with information on the individual’s options for developing an individualized plan for employment, including—
 
   (A) information on the availability of assistance from a qualified vocational rehabilitation counselor or, as appropriate, a disability advocacy organization in developing all or part of the individualized plan for employment for the individual, and the availability of technical assistance in developing all or part of the individualized plan for employment for the individual;
 
@@ -3091,7 +3091,7 @@ Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, w
 
   (D)
 
-    (i) a description of the rights and remedies available to such an individual including, if appropriate, recourse to the processes set forth in subsection (c) of this section; and
+    (i) a description of the rights and remedies available to such an individual including, if appropriate, recourse to the processes set forth in subsection (c); and
 
     (ii) a description of the availability of a client assistance program established pursuant to [section 732 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-732) and information about how to contact the client assistance program.
 
@@ -3101,7 +3101,7 @@ Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, w
 
   (A) *Written document* — An individualized plan for employment shall be a written document prepared on forms provided by the designated State unit.
 
-  (B) *Informed choice* — An individualized plan for employment shall be developed and implemented in a manner that affords eligible individuals the opportunity to exercise informed choice in selecting an employment outcome, the specific vocational rehabilitation services to be provided under the plan, the entity that will provide the vocational rehabilitation services, and the methods used to procure the services, consistent with subsection (d) of this section.
+  (B) *Informed choice* — An individualized plan for employment shall be developed and implemented in a manner that affords eligible individuals the opportunity to exercise informed choice in selecting an employment outcome, the specific vocational rehabilitation services to be provided under the plan, the entity that will provide the vocational rehabilitation services, and the methods used to procure the services, consistent with subsection (d).
 
   (C) *Signatories* — An individualized plan for employment shall be—
 
@@ -3393,7 +3393,7 @@ Subsec. (c)(5)(B). Pub. L. 113–128, § 413(c)(3)(B), substituted “about Fede
 1998—Subsec. (c)(5)(F)(iv). Pub. L. 105–277 added cl. (iv).
 
 #### Definitions of Terms in Pub. L. 113–128
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
 
 
 <a id="section-764"></a>
@@ -3511,13 +3511,13 @@ Subsec. (b)(5). Pub. L. 113–128, § 414(2)(B), added par. (5) and struck out f
 Subsec. (b)(6) to (9). Pub. L. 113–128, § 414(2)(C), added pars. (6) to (9) and struck out former par. (6) which read as follows: “Consultative and technical assistance services to assist educational agencies in planning for the transition of students with disabilities from school to post-school activities, including employment.”
 
 #### Definitions of Terms in Pub. L. 113–128
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
 
 
 <a id="section-765"></a>
 ## § 765. Non-Federal share for establishment of program or construction
 
-For the purpose of determining the amount of payments to States for carrying out part B of this subchapter (or to an Indian tribe under part C of this subchapter), the non-Federal share, subject to such limitations and conditions as may be prescribed in regulations by the Commissioner, shall include contributions of funds made by any private agency, organization, or individual to a State or local agency to assist in meeting the costs of establishment of a community rehabilitation program or construction, under special circumstances, of a facility for such a program, which would be regarded as State or local funds except for the condition, imposed by the contributor, limiting use of such funds to establishment of such a program or construction of such a facility.
+For the purpose of determining the amount of payments to States for carrying out part B (or to an Indian tribe under part C), the non-Federal share, subject to such limitations and conditions as may be prescribed in regulations by the Commissioner, shall include contributions of funds made by any private agency, organization, or individual to a State or local agency to assist in meeting the costs of establishment of a community rehabilitation program or construction, under special circumstances, of a facility for such a program, which would be regarded as State or local funds except for the condition, imposed by the contributor, limiting use of such funds to establishment of such a program or construction of such a facility.
 
 ### Statutory Notes
 
@@ -3537,7 +3537,7 @@ A prior section 724, Pub. L. 93–112, title I, § 104, Sept. 26, 1973, 87 Stat.
 
 (1) **Composition**
 
-  (A) *In general* — Except in the case of a separate Council established under subsection (a)(2) of this section, the Council shall be composed of—
+  (A) *In general* — Except in the case of a separate Council established under subsection (a)(2), the Council shall be composed of—
 
     (i) at least one representative of the Statewide Independent Living Council established under [section 796d of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796d), which representative may be the chairperson or other designee of the Council;
 
@@ -3565,7 +3565,7 @@ A prior section 724, Pub. L. 93–112, title I, § 104, Sept. 26, 1973, 87 Stat.
 
     (xi) at least one representative of the State workforce development board.
 
-  (B) *Separate Council* — In the case of a separate Council established under subsection (a)(2) of this section, the Council shall be composed of—
+  (B) *Separate Council* — In the case of a separate Council established under subsection (a)(2), the Council shall be composed of—
 
     (i) at least one representative described in subparagraph (A)(i);
 
@@ -3595,7 +3595,7 @@ A prior section 724, Pub. L. 93–112, title I, § 104, Sept. 26, 1973, 87 Stat.
 
     (xii) at least one representative described in subparagraph (A)(xi).
 
-  (C) *Exception* — In the case of a separate Council established under subsection (a)(2) of this section, any Council that is required by State law, as in effect on October 29, 1992, to have fewer than 15 members shall be deemed to be in compliance with subparagraph (B) if the Council—
+  (C) *Exception* — In the case of a separate Council established under subsection (a)(2), any Council that is required by State law, as in effect on October 29, 1992, to have fewer than 15 members shall be deemed to be in compliance with subparagraph (B) if the Council—
 
     (i) meets the requirements of subparagraph (B), other than the requirements of clauses (vi) and (ix) of such subparagraph; and
 
@@ -3617,7 +3617,7 @@ A prior section 724, Pub. L. 93–112, title I, § 104, Sept. 26, 1973, 87 Stat.
 
     (ii) not employed by the designated State unit.
 
-  (B) *Separate Council* — In the case of a separate Council established under subsection (a)(2) of this section, a majority of Council members shall be persons who are—
+  (B) *Separate Council* — In the case of a separate Council established under subsection (a)(2), a majority of Council members shall be persons who are—
 
     (i) blind; and
 
@@ -3693,7 +3693,7 @@ A prior section 724, Pub. L. 93–112, title I, § 104, Sept. 26, 1973, 87 Stat.
 
 **(f) Meetings** The Council shall convene at least four meetings a year in such places as it determines to be necessary to conduct Council business and conduct such forums or hearings as the Council considers appropriate. The meetings, hearings, and forums shall be publicly announced. The meetings shall be open and accessible to the general public unless there is a valid reason for an executive session.
 
-**(g) Compensation and expenses** The Council may use funds allocated to the Council by the designated State unit under this subchapter (except for funds appropriated to carry out the client assistance program under [section 732 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-732) and funds reserved pursuant to [section 730(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section730/c&num=0&edition=prelim) to carry out part C of this subchapter) to reimburse members of the Council for reasonable and necessary expenses of attending Council meetings and performing Council duties (including child care and personal assistance services), and to pay compensation to a member of the Council, if such member is not employed or must forfeit wages from other employment, for each day the member is engaged in performing the duties of the Council.
+**(g) Compensation and expenses** The Council may use funds allocated to the Council by the designated State unit under this subchapter (except for funds appropriated to carry out the client assistance program under [section 732 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-732) and funds reserved pursuant to [section 730(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section730/c&num=0&edition=prelim) to carry out part C) to reimburse members of the Council for reasonable and necessary expenses of attending Council meetings and performing Council duties (including child care and personal assistance services), and to pay compensation to a member of the Council, if such member is not employed or must forfeit wages from other employment, for each day the member is engaged in performing the duties of the Council.
 
 **(h) Hearings and forums** The Council is authorized to hold such hearings and forums as the Council may determine to be necessary to carry out the duties of the Council.
 
@@ -3731,7 +3731,7 @@ Subsec. (b)(5)(B). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(6)(C)], s
 Subsec. (b)(6)(A)(ii), (7)(B). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(6)(D)], substituted “appointing authority described in paragraph (3)” for “Governor”.
 
 #### Definitions of Terms in Pub. L. 113–128
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
 
 
 <a id="section-771"></a>
@@ -3771,7 +3771,7 @@ A prior section 726, Pub. L. 93–112, title I, § 106, as added Pub. L. 102–5
 Subsec. (b)(2)(B)(i). Pub. L. 113–128, § 416(2), substituted “on a biannual basis, review the program improvement efforts of the State and, if the State has not improved its performance to acceptable levels, as determined by the Commissioner, direct the State” for “review the program improvement efforts of the State on a biannual basis and, if necessary, request the State”.
 
 #### Definitions of Terms in Pub. L. 113–128
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
 
 
 <a id="section-772"></a>
@@ -3861,15 +3861,15 @@ Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, w
 
 **(d) Review**
 
-(1) **Petition** — Any State that is dissatisfied with a final determination of the Commissioner under [section 721(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section721/b&num=0&edition=prelim) or subsection (c) of this section may file a petition for judicial review of such determination in the United States Court of Appeals for the circuit in which the State is located. Such a petition may be filed only within the 30-day period beginning on the date that notice of such final determination was received by the State. The clerk of the court shall transmit a copy of the petition to the Commissioner or to any officer designated by the Commissioner for that purpose. In accordance with [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim), the Commissioner shall file with the court a record of the proceeding on which the Commissioner based the determination being appealed by the State. Until a record is so filed, the Commissioner may modify or set aside any determination made under such proceedings.
+(1) **Petition** — Any State that is dissatisfied with a final determination of the Commissioner under [section 721(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section721/b&num=0&edition=prelim) or subsection (c) may file a petition for judicial review of such determination in the United States Court of Appeals for the circuit in which the State is located. Such a petition may be filed only within the 30-day period beginning on the date that notice of such final determination was received by the State. The clerk of the court shall transmit a copy of the petition to the Commissioner or to any officer designated by the Commissioner for that purpose. In accordance with [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim), the Commissioner shall file with the court a record of the proceeding on which the Commissioner based the determination being appealed by the State. Until a record is so filed, the Commissioner may modify or set aside any determination made under such proceedings.
 
-(2) **Submissions and determinations** — If, in an action under this subsection to review a final determination of the Commissioner under [section 721(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section721/b&num=0&edition=prelim) or subsection (c) of this section, the petitioner or the Commissioner applies to the court for leave to have additional oral submissions or written presentations made respecting such determination, the court may, for good cause shown, order the Commissioner to provide within 30 days an additional opportunity to make such submissions and presentations. Within such period, the Commissioner may revise any findings of fact, modify or set aside the determination being reviewed, or make a new determination by reason of the additional submissions and presentations, and shall file such modified or new determination, and any revised findings of fact, with the return of such submissions and presentations. The court shall thereafter review such new or modified determination.
+(2) **Submissions and determinations** — If, in an action under this subsection to review a final determination of the Commissioner under [section 721(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section721/b&num=0&edition=prelim) or subsection (c), the petitioner or the Commissioner applies to the court for leave to have additional oral submissions or written presentations made respecting such determination, the court may, for good cause shown, order the Commissioner to provide within 30 days an additional opportunity to make such submissions and presentations. Within such period, the Commissioner may revise any findings of fact, modify or set aside the determination being reviewed, or make a new determination by reason of the additional submissions and presentations, and shall file such modified or new determination, and any revised findings of fact, with the return of such submissions and presentations. The court shall thereafter review such new or modified determination.
 
 (3) **Standards of review**
 
   (A) *In general* — Upon the filing of a petition under paragraph (1) for judicial review of a determination, the court shall have jurisdiction—
 
-    (i) to grant appropriate relief as provided in chapter 7 of title 5, except for interim relief with respect to a determination under subsection (c) of this section; and
+    (i) to grant appropriate relief as provided in chapter 7 of title 5, except for interim relief with respect to a determination under subsection (c); and
 
     (ii) except as otherwise provided in subparagraph (B), to review such determination in accordance with chapter 7 of title 5.
 
@@ -3894,14 +3894,14 @@ Subsec. (a)(4)(D), (E). Pub. L. 113–128, § 417(a)(1)(B)(ii)–(iv), added sub
 Subsec. (b)(3). Pub. L. 113–128, § 417(a)(2), added par. (3).
 
 #### Definitions of Terms in Pub. L. 113–128
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
 
 
 <a id="section-773"></a>
 ## § 773. Expenditure of certain amounts
-**(a) Expenditure** Amounts described in subsection (b) of this section may not be expended by a State for any purpose other than carrying out programs for which the State receives financial assistance under this subchapter, under subchapter VI of this chapter, or under subchapter VII of this chapter.
+**(a) Expenditure** Amounts described in subsection (b) may not be expended by a State for any purpose other than carrying out programs for which the State receives financial assistance under this subchapter, under subchapter VI, or under subchapter VII.
 
-**(b) Amounts** The amounts referred to in subsection (a) of this section are amounts provided to a State under the Social Security Act ([42 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section301&num=0&edition=prelim) et seq.) as reimbursement for the expenditure of payments received by the State from allotments under [section 730 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-730).
+**(b) Amounts** The amounts referred to in subsection (a) are amounts provided to a State under the Social Security Act ([42 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section301&num=0&edition=prelim) et seq.) as reimbursement for the expenditure of payments received by the State from allotments under [section 730 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-730).
 
 ### Statutory Notes
 
@@ -3915,7 +3915,7 @@ A prior section 728, Pub. L. 93–112, title I, § 108, as added Pub. L. 102–5
 2014—Subsec. (a). Pub. L. 113–128 substituted “under subchapter VI” for “under part B of subchapter VI”.
 
 #### Definitions of Terms in Pub. L. 113–128
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
 
 
 <a id="section-774-775"></a>
@@ -3955,7 +3955,7 @@ A prior section 728a, Pub. L. 93–112, title I, § 109, as added Pub. L. 102–
 “(2) to inform employers of the existence of the program and the availability of the services of the program.”
 
 #### Definitions of Terms in Pub. L. 113–128
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
 
 
 <a id="section-776"></a>
@@ -3991,7 +3991,7 @@ Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, w
 
 **(c) Funds for American Indian vocational rehabilitation services**
 
-(1) For fiscal year 2015 and for each subsequent fiscal year, the Commissioner shall reserve from the amount appropriated under [section 720(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section720/b/1&num=0&edition=prelim) for allotment under this section a sum, determined under paragraph (2), to carry out the purposes of part C of this subchapter.
+(1) For fiscal year 2015 and for each subsequent fiscal year, the Commissioner shall reserve from the amount appropriated under [section 720(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section720/b/1&num=0&edition=prelim) for allotment under this section a sum, determined under paragraph (2), to carry out the purposes of part C.
 
 (2) The sum referred to in paragraph (1) shall be, as determined by the Secretary, not less than 1 percent and not more than 1.5 percent of the amount referred to in paragraph (1), for each of fiscal years 2015 through 2020.
 
@@ -4021,7 +4021,7 @@ Subsec. (d). Pub. L. 113–128, § 419(3), added subsec. (d).
 1998—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
 
 #### Definitions of Terms in Pub. L. 113–128
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
 
 
 <a id="section-780"></a>
@@ -4044,7 +4044,7 @@ Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, w
 
   (B) If the Federal share with respect to rehabilitation facilities in such State is determined pursuant to section 291o(b)(2) of title 42, the percentage of the cost for purposes of this section shall be determined in accordance with regulations prescribed by the Commissioner designed to achieve as nearly as practicable results comparable to the results obtained under such section.
 
-**(b) Method of computation and payment** The method of computing and paying amounts pursuant to subsection (a) of this section shall be as follows:
+**(b) Method of computation and payment** The method of computing and paying amounts pursuant to subsection (a) shall be as follows:
 
 (1) The Commissioner shall, prior to the beginning of each calendar quarter or other period prescribed by the Commissioner, estimate the amount to be paid to each State under the provisions of such subsection for such period, such estimate to be based on such records of the State and information furnished by it, and such other investigation as the Commissioner may find necessary.
 
@@ -4063,18 +4063,18 @@ A prior section 731, Pub. L. 93–112, title I, § 111, Sept. 26, 1973, 87 Stat.
 1998—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
 
 #### Definitions of Terms in Pub. L. 113–128
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
 
 
 <a id="section-780a"></a>
 ## § 780a. Client assistance program
-**(a) Establishment of grant program** From funds appropriated under subsection (h) of this section, the Secretary shall, in accordance with this section, make grants to States to establish and carry out client assistance programs to provide assistance in informing and advising all clients and client applicants of all available benefits under this chapter, including under sections 733 and 794g of this title, and, upon request of such clients or client applicants, to assist and advocate for such clients or applicants in their relationships with projects, programs, and services provided under this chapter, including assistance and advocacy in pursuing legal, administrative, or other appropriate remedies to ensure the protection of the rights of such individuals under this chapter and to facilitate access to the services funded under this chapter through individual and systemic advocacy. The client assistance program shall provide information on the available services and benefits under this chapter and title I of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12111&num=0&edition=prelim) et seq.) to individuals with disabilities in the State, especially with regard to individuals with disabilities who have traditionally been unserved or underserved by vocational rehabilitation programs. In providing assistance and advocacy under this subsection with respect to services under this subchapter, a client assistance program may provide the assistance and advocacy with respect to services that are directly related to facilitating the employment of the individual.
+**(a) Establishment of grant program** From funds appropriated under subsection (h), the Secretary shall, in accordance with this section, make grants to States to establish and carry out client assistance programs to provide assistance in informing and advising all clients and client applicants of all available benefits under this chapter, including under sections 733 and 794g of this title, and, upon request of such clients or client applicants, to assist and advocate for such clients or applicants in their relationships with projects, programs, and services provided under this chapter, including assistance and advocacy in pursuing legal, administrative, or other appropriate remedies to ensure the protection of the rights of such individuals under this chapter and to facilitate access to the services funded under this chapter through individual and systemic advocacy. The client assistance program shall provide information on the available services and benefits under this chapter and title I of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12111&num=0&edition=prelim) et seq.) to individuals with disabilities in the State, especially with regard to individuals with disabilities who have traditionally been unserved or underserved by vocational rehabilitation programs. In providing assistance and advocacy under this subsection with respect to services under this subchapter, a client assistance program may provide the assistance and advocacy with respect to services that are directly related to facilitating the employment of the individual.
 
 **(b) Existence of State program as requisite to receiving payments** No State may receive payments from its allotment under this chapter in any fiscal year unless the State has in effect a client assistance program which—
 
 (1) has the authority to pursue legal, administrative, and other appropriate remedies to ensure the protection of rights of individuals with disabilities who are receiving treatments, services, or rehabilitation under this chapter within the State; and
 
-(2) meets the requirements of designation under subsection (c) of this section.
+(2) meets the requirements of designation under subsection (c).
 
 **(c) Designation of agency to conduct program**
 
@@ -4119,7 +4119,7 @@ Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, w
 
     (i) In any fiscal year that the funds appropriated for such fiscal year exceed $7,500,000, the minimum allotment shall be $100,000 for States and $45,000 for territories.
 
-    (ii) For any fiscal year in which the total amount appropriated under subsection (h) of this section exceeds the total amount appropriated under such subsection for the preceding fiscal year, the Secretary shall increase each of the minimum allotments under clause (i) by a percentage that shall not exceed the percentage increase in the total amount appropriated under such subsection between the preceding fiscal year and the fiscal year involved.
+    (ii) For any fiscal year in which the total amount appropriated under subsection (h) exceeds the total amount appropriated under such subsection for the preceding fiscal year, the Secretary shall increase each of the minimum allotments under clause (i) by a percentage that shall not exceed the percentage increase in the total amount appropriated under such subsection between the preceding fiscal year and the fiscal year involved.
 
   (E)
 
@@ -4135,7 +4135,7 @@ Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, w
 
 (2) The amount of an allotment to a State for a fiscal year which the Secretary determines will not be required by the State during the period for which it is available for the purpose for which allotted shall be available for reallotment by the Secretary at appropriate times to other States with respect to which such a determination has not been made, in proportion to the original allotments of such States for such fiscal year, but with such proportionate amount for any of such other States being reduced to the extent it exceeds the sum the Secretary estimates such State needs and will be able to use during such period, and the total of such reduction shall be similarly reallotted among the States whose proportionate amounts were not so reduced. Any such amount so reallotted to a State for a fiscal year shall be deemed to be a part of its allotment for such fiscal year.
 
-(3) Except as specifically prohibited by or as otherwise provided in State law, the Secretary shall pay to the agency designated under subsection (c) of this section the amount specified in the application approved under subsection (f) of this section.
+(3) Except as specifically prohibited by or as otherwise provided in State law, the Secretary shall pay to the agency designated under subsection (c) the amount specified in the application approved under subsection (f).
 
 **(f) Application by State for grant funds** No grant may be made under this section unless the State submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information as the Secretary deems necessary to meet the requirements of this section.
 
@@ -4255,7 +4255,7 @@ The Individuals with Disabilities Education Act, referred to in subsec. (c)(5), 
 The Social Security Act, referred to in subsec. (d)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Definitions of Terms in Pub. L. 113–128
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
 
 
 <a id="section-782"></a>
@@ -4278,7 +4278,7 @@ Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, w
 
     (ii) such decisions will not be delegated to another agency or individual.
 
-(2) The provisions of sections 450c, 450d, 450e, and 450f(a) of title 25 shall be applicable to any application submitted under this part. For purposes of this paragraph, any reference in any such provision to the Secretary of Education or to the Secretary of the Interior shall be considered to be a reference to the Commissioner.
+(2) The provisions of sections 5305, 5306, 5307, and 5321(a) of title 25 shall be applicable to any application submitted under this part. For purposes of this paragraph, any reference in any such provision to the Secretary of Education or to the Secretary of the Interior shall be considered to be a reference to the Commissioner.
 
 (3) Any application approved under this part shall be effective for not more than 60 months, except as determined otherwise by the Commissioner pursuant to prescribed regulations. The State shall continue to provide vocational rehabilitation services under its State plan to American Indians residing on or near a reservation whenever such State includes any such American Indians in its State population under [section 730(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section730/a/1&num=0&edition=prelim).
 
@@ -4342,9 +4342,9 @@ Subsecs. (c), (d). Pub. L. 113–128, § 423(3), (4), added subsec. (c) and rede
 
     (ii) the Social Security Administration, from its Summary Earnings and Records and Master Beneficiary Records.
 
-(2) **Employment statistics** — The Secretary of Labor shall provide the Commissioner with employment statistics specified in section 49l–2 of this title, that facilitate evaluation by the Commissioner of the program carried out under part B of this subchapter, and allow the Commissioner to compare the progress of individuals with disabilities who are assisted under the program in securing, retaining, regaining, and advancing in employment with the progress made by individuals who are assisted under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](./chapter-032-workforce-innovation-and-opportunity.md#section-3111) et seq.].
+(2) **Employment statistics** — The Secretary of Labor shall provide the Commissioner with employment statistics specified in section 49l–2 of this title, that facilitate evaluation by the Commissioner of the program carried out under part B, and allow the Commissioner to compare the progress of individuals with disabilities who are assisted under the program in securing, retaining, regaining, and advancing in employment with the progress made by individuals who are assisted under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](./chapter-032-workforce-innovation-and-opportunity.md#section-3111) et seq.].
 
-**(b) Treatment of information** For purposes of the exchange described in subsection (a)(1) of this section, the data described in subsection (a)(1)(B)(ii) of this section shall not be considered return information (as defined in [section 6103(b)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6103/b/2&num=0&edition=prelim)) and, as appropriate, the confidentiality of all client information shall be maintained by the Rehabilitation Services Administration and the Social Security Administration.
+**(b) Treatment of information** For purposes of the exchange described in subsection (a)(1), the data described in subsection (a)(1)(B)(ii) shall not be considered return information (as defined in [section 6103(b)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6103/b/2&num=0&edition=prelim)) and, as appropriate, the confidentiality of all client information shall be maintained by the Rehabilitation Services Administration and the Social Security Administration.
 
 ### Statutory Notes
 
@@ -4366,7 +4366,7 @@ Section 753a, Pub. L. 93–112, title I, § 141, as added Pub. L. 103–73, titl
 2014—Subsec. (a)(2). Pub. L. 113–128 substituted “title I of the Workforce Innovation and Opportunity Act” for “title I of the Workforce Investment Act of 1998”.
 
 #### Definitions of Terms in Pub. L. 113–128
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
 
 
 <a id="section-784"></a>
@@ -4593,7 +4593,7 @@ Section 761b, Pub. L. 93–112, title II, § 203, as added Pub. L. 95–602, tit
 
     (ii) in coordination with the Administrator;
 
-    (iii) after consultation with the National Council on Disability established under subchapter IV of this chapter, the Secretary of Education, officials responsible for the administration of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [[42 U.S.C. 15001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15001&num=0&edition=prelim) et seq.], and the Interagency Committee on Disability Research established under [section 763 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-763); and
+    (iii) after consultation with the National Council on Disability established under subchapter IV, the Secretary of Education, officials responsible for the administration of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [[42 U.S.C. 15001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15001&num=0&edition=prelim) et seq.], and the Interagency Committee on Disability Research established under [section 763 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-763); and
 
     (iv) after full consideration of the input of individuals with disabilities and the individuals’ representatives, organizations representing individuals with disabilities, providers of services furnished under this chapter, researchers in the independent living and rehabilitation fields, and any other persons or entities the Director considers to be appropriate;
 
@@ -4648,6 +4648,8 @@ Provisions similar to this section were contained in [section 761a of this title
 A prior section 762, Pub. L. 93–112, title II, § 204, formerly § 202, Sept. 26, 1973, 87 Stat. 375, amended Pub. L. 93–516, title I, § 111(h), Dec. 7, 1974, 88 Stat. 1621; Pub. L. 93–651, title I, § 111(h), Nov. 21, 1974, 89 Stat. 2–6; renumbered and amended Pub. L. 95–602, title I, §§ 109(3), 110, 111, Nov. 6, 1978, 92 Stat. 2963, 2966; Pub. L. 98–221, title I, §§ 104(a)(5), 123, Feb. 22, 1984, 98 Stat. 18, 24; Pub. L. 99–506, title I, § 103(d)(2)(C), (h)(2), title III, §§ 302(b), 305, Oct. 21, 1986, 100 Stat. 1810, 1811, 1821, 1822; Pub. L. 100–630, title II, § 203(d), Nov. 7, 1988, 102 Stat. 3308; Pub. L. 102–569, title I, § 102(p)(14), title II, § 205, Oct. 29, 1992, 106 Stat. 4358, 4403; Pub. L. 103–73, title I, § 109(b), Aug. 11, 1993, 107 Stat. 726, related to research, prior to the general amendment of this subchapter by Pub. L. 105–220. See [section 764 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-764).
 
 #### Amendments
+2015—Subsec. (b)(4)(A)(i). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
 2014—Pub. L. 113–128, § 433(1), inserted “, Independent Living,” after “Disability” in section catchline.
 
 Subsec. (a)(1). Pub. L. 113–128, § 433(2)(A)(i), in introductory provisions, substituted “Administration for Community Living of the Department of Health and Human Services a National Institute on Disability, Independent Living, and Rehabilitation Research (referred to in this subchapter as the ‘Institute’), which” for “Department of Education a National Institute on Disability and Rehabilitation Research (hereinafter in this subchapter referred to as the ‘Institute’), which”.
@@ -4710,6 +4712,9 @@ Subsecs. (k) to (m). Pub. L. 113–128, § 433(8), added subsecs. (k) to (m) and
 
 1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, § 405, which enacted this section.
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
@@ -4725,7 +4730,7 @@ Pub. L. 99–506, title III, § 302(b), Oct. 21, 1986, 100 Stat. 1821, provided 
 
 **(b) Authorization of appropriations** There are authorized to be appropriated to carry out this section such sums as may be necessary. No funds other than those appropriated pursuant to this subsection can be used for the conduct of research specifically authorized by this section.
 
-**(c) Study on impact of vocational rehabilitation services; transmittal to Congress** Within one year after the date appropriations are made under subsection (b) of this section for purposes of research and demonstration projects under subsection (a) of this section, the Secretary shall prepare and transmit to the Congress a study concerning the impact of vocational rehabilitation services provided under the Rehabilitation Act of 1973 [[29 U.S.C. 701](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-701) et seq.] on recipients of disability payments under titles II and XVI of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq., 1381 et seq.]. The study shall examine the relationship between the vocational rehabilitation services provided under the Rehabilitation Act of 1973 and the programs under sections 222 and 1615 of the Social Security Act [[42 U.S.C. 422](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section422&num=0&edition=prelim), 1382d], and shall include—
+**(c) Study on impact of vocational rehabilitation services; transmittal to Congress** Within one year after the date appropriations are made under subsection (b) for purposes of research and demonstration projects under subsection (a), the Secretary shall prepare and transmit to the Congress a study concerning the impact of vocational rehabilitation services provided under the Rehabilitation Act of 1973 [[29 U.S.C. 701](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-701) et seq.] on recipients of disability payments under titles II and XVI of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq., 1381 et seq.]. The study shall examine the relationship between the vocational rehabilitation services provided under the Rehabilitation Act of 1973 and the programs under sections 222 and 1615 of the Social Security Act [[42 U.S.C. 422](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section422&num=0&edition=prelim), 1382d], and shall include—
 
 (1) an analysis of the savings in disability benefit payments under titles II and XVI of the Social Security Act as a result of the provision of vocational rehabilitation services under the Rehabilitation Act of 1973;
 
@@ -4874,7 +4879,7 @@ Subsecs. (d), (e). Pub. L. 105–394, § 201(4), added subsecs. (d) and (e).
 
 (2)
 
-  (A) In carrying out this section, the Director shall emphasize projects that support the implementation of subchapters I, III, V, VI, and VII of this chapter, including projects addressing the needs described in the State plans submitted under section 721 or 796c of this title by State agencies and from which the research findings, conclusions, or recommendations can be transferred to practice.
+  (A) In carrying out this section, the Director shall emphasize projects that support the implementation of subchapters I, III, V, VI, and VII, including projects addressing the needs described in the State plans submitted under section 721 or 796c of this title by State agencies and from which the research findings, conclusions, or recommendations can be transferred to practice.
 
   (B) Such projects, as described in the State plans submitted by State agencies, may include—
 
@@ -4902,7 +4907,7 @@ Subsecs. (d), (e). Pub. L. 105–394, § 201(4), added subsecs. (d) and (e).
 
 **(b) Research grants**
 
-(1) In addition to carrying out projects under subsection (a) of this section, the Director may make grants under this subsection (referred to in this subsection as “research grants”) to pay part or all of the cost of the research or other specialized covered activities described in paragraphs (2) through (17).11 So in original. Probably should be “paragraphs (2) through (16)”. A research grant made under any of paragraphs (2) through (17) 1 may only be used in a manner consistent with priorities established in the 5-year plan described in [section 762(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section762/h&num=0&edition=prelim).
+(1) In addition to carrying out projects under subsection (a), the Director may make grants under this subsection (referred to in this subsection as “research grants”) to pay part or all of the cost of the research or other specialized covered activities described in paragraphs (2) through (17).11 So in original. Probably should be “paragraphs (2) through (16)”. A research grant made under any of paragraphs (2) through (17) 1 may only be used in a manner consistent with priorities established in the 5-year plan described in [section 762(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section762/h&num=0&edition=prelim).
 
 (2)
 
@@ -5018,7 +5023,7 @@ Subsecs. (d), (e). Pub. L. 105–394, § 201(4), added subsecs. (d) and (e).
 
       (II) Education at the elementary and secondary levels, including transition from school to postsecondary education, competitive integrated employment, and other age-appropriate activities.
 
-      (III) Employment, including supported employment, and reasonable accommodations and the reduction of environmental barriers as required by the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.) and subchapter V of this chapter.
+      (III) Employment, including supported employment, and reasonable accommodations and the reduction of environmental barriers as required by the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.) and subchapter V.
 
       (IV) Independent living, including transition from institutional to community living, maintenance of community living on leaving the workforce, self-help skills, and activities of daily living.
 
@@ -5383,6 +5388,12 @@ In this subchapter, the term “covered school” means an elementary school or 
 #### Prior Provisions
 A prior section 770, Pub. L. 93–112, title III, § 301, formerly § 300, Sept. 26, 1973, 87 Stat. 377; Pub. L. 95–602, title I, § 122(c)(1), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 99–506, title I, § 103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810; Pub. L. 100–630, title II, § 204(a), Nov. 7, 1988, 102 Stat. 3308; renumbered § 301 and amended Pub. L. 102–569, title I, § 102(p)(15), title III, § 301(a), (b)(3), Oct. 29, 1992, 106 Stat. 4358, 4410, 4411, contained congressional declaration of purpose, prior to the general amendment of subchapter III of this chapter by Pub. L. 105–220.
 
+#### Amendments
+2015—Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 
 <a id="section-794b"></a>
 ## § 794b. Declaration of purpose and competitive basis of grants and contracts
@@ -5457,7 +5468,7 @@ Subsec. (a)(3) to (5). Pub. L. 113–128, § 441(a)(2)–(4), redesignated par. 
 
 (1) **Authority**
 
-  (A) *In general* — The Commissioner may make grants to, and enter into contracts with, States and public or nonprofit agencies and organizations (including institutions of higher education) to pay part of the costs of academic training projects to provide training that leads to an academic degree or academic certificate. In making such grants or entering into such contracts, the Commissioner shall target funds to areas determined under subsection (e) of this section to have shortages of qualified personnel.
+  (A) *In general* — The Commissioner may make grants to, and enter into contracts with, States and public or nonprofit agencies and organizations (including institutions of higher education) to pay part of the costs of academic training projects to provide training that leads to an academic degree or academic certificate. In making such grants or entering into such contracts, the Commissioner shall target funds to areas determined under subsection (e) to have shortages of qualified personnel.
 
   (B) *Types of projects* — Academic training projects described in this subsection may include—
 
@@ -6123,7 +6134,7 @@ Another prior section 782, Pub. L. 93–112, title IV, § 402, Sept. 26, 1973, 8
 
 **(d) Investment of amounts not required for current withdrawals**
 
-(1) It shall be the duty of the Secretary of the Treasury to invest such portion of the amounts made available under subsection (a)(2)(B) 11 So in original. Probably should be subsection “(b)(2)(B)”. of this section as is not, in the Secretary’s judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.
+(1) It shall be the duty of the Secretary of the Treasury to invest such portion of the amounts made available under subsection (a)(2)(B) 11 So in original. Probably should be subsection “(b)(2)(B)”. as is not, in the Secretary’s judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.
 
 (2) The amounts described in paragraph (1), and the interest on, and the proceeds from the sale or redemption of, the obligations described in paragraph (1) shall be available to the National Council to carry out this subchapter.
 
@@ -6145,7 +6156,7 @@ Another prior section 783, Pub. L. 93–112, title IV, § 403, Sept. 26, 1973, 8
 
 **(d) Use of mails** The National Council may use the United States mails in the same manner and upon the same conditions as other departments and agencies of the United States.
 
-**(e) Use of services, personnel, information, and facilities** The National Council may use, with the consent of the agencies represented on the Interagency Disability Coordinating Council, and as authorized in subchapter V of this chapter, such services, personnel, information, and facilities as may be needed to carry out its duties under this subchapter, with or without reimbursement to such agencies.
+**(e) Use of services, personnel, information, and facilities** The National Council may use, with the consent of the agencies represented on the Interagency Disability Coordinating Council, and as authorized in subchapter V, such services, personnel, information, and facilities as may be needed to carry out its duties under this subchapter, with or without reimbursement to such agencies.
 
 ### Statutory Notes
 
@@ -6282,7 +6293,7 @@ Subsec. (d). Pub. L. 98–221, § 104(b)(3)(C), (E), substituted “Office of Pe
 Subsec. (f)(1). Pub. L. 98–221, § 104(b)(3)(F), substituted “Secretary of Education” for “Secretary of Health, Education, and Welfare”.
 
 #### Effective Date of 1998 Amendment
-Amendment by section 341(c) of Pub. L. 105–220 effective Aug. 7, 1998, and applicable to and may be raised in any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date, and any administrative or judicial claim or action brought after such date regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations, see section 341(d) of Pub. L. 105–220, set out as a note under [section 633a of this title](./chapter-014-age-discrimination-in-employment.md#section-633a).
+Amendment by section 341(c) of Pub. L. 105–220 effective Aug. 7, 1998, and applicable to and may be raised in any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date, and any administrative or judicial claim or action brought after such date regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations, see section 341(d) of Pub. L. 105–220, formerly set out as a note under [section 633a of this title](./chapter-014-age-discrimination-in-employment.md#section-633a).
 
 #### Effective Date of 1992 Amendment
 Pub. L. 102–569, title I, § 138, Oct. 29, 1992, 106 Stat. 4397, as amended by Pub. L. 103–73, title I, § 102(3), Aug. 11, 1993, 107 Stat. 718, provided that: “(a) Effective Date.—Except as provided in subsection (b), this title [enacting sections 718 to 718b, 725 to 728a, and 740 to 744 of this title, amending this section and sections 701, 705 to 707, 709, 711 to 715, 717, 720 to 724, 730 to 732, 740, 741, 750, 761a to 762, 770, 772 to 776, 777a, 777b, 777d to 777f, 780, 781, 783, 792 to 794, 795, 795d, 795e, and 795h of this title, repealing [section 752 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section752&num=0&edition=prelim), enacting provisions set out as notes under [section 712 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-712), and amending provisions set out as a note under [section 701 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-701)] and the amendments made by this title shall take effect on the date of enactment of this Act [Oct. 29, 1992]. “(b) Compliance.—Each State agency subject to the provisions of title I of the Rehabilitation Act of 1973 [[29 U.S.C. 720](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-720) et seq.] shall comply with the amendments made by this subtitle [subtitle B (§§ 121–138) of title I of Pub. L. 102–569, enacting sections 725 to 728a and 740 to 744 of this title, amending sections 705, 720 to 724, and 730 to 732 of this title, and repealing [section 752 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section752&num=0&edition=prelim)], as soon as is practicable after the date of enactment of this Act [Oct. 29, 1992], consistent with the effective and efficient administration of the Rehabilitation Act of 1973 [[29 U.S.C. 701](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-701) et seq.], but not later than October 1, 1993.”
@@ -6559,7 +6570,7 @@ Barack Obama.
 
 **(e) Investigations; hearings; orders; administrative procedure applicable; final orders; judicial review; civil action; intervention**
 
-(1) The Access Board shall conduct investigations, hold public hearings, and issue such orders as it deems necessary to ensure compliance with the provisions of the Acts cited in subsection (b) of this section. Except as provided in paragraph (3) of subsection (f) of this section, the provisions of subchapter II of chapter 5, and chapter 7 of title 5 shall apply to procedures under this subsection, and an order of compliance issued by the Access Board shall be a final order for purposes of judicial review. Any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality. An order of compliance may include the withholding or suspension of Federal funds with respect to any building or public conveyance or rolling stock found not to be in compliance with standards enforced under this section. Pursuant to chapter 7 of title 5, any complainant or participant in a proceeding under this subsection may obtain review of a final order issued in such proceeding.
+(1) The Access Board shall conduct investigations, hold public hearings, and issue such orders as it deems necessary to ensure compliance with the provisions of the Acts cited in subsection (b). Except as provided in paragraph (3) of subsection (f), the provisions of subchapter II of chapter 5, and chapter 7 of title 5 shall apply to procedures under this subsection, and an order of compliance issued by the Access Board shall be a final order for purposes of judicial review. Any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality. An order of compliance may include the withholding or suspension of Federal funds with respect to any building or public conveyance or rolling stock found not to be in compliance with standards enforced under this section. Pursuant to chapter 7 of title 5, any complainant or participant in a proceeding under this subsection may obtain review of a final order issued in such proceeding.
 
 (2) The executive director is authorized, at the direction of the Access Board—
 
@@ -6594,11 +6605,11 @@ Barack Obama.
 
 **(i) Grants and contracts to aid Access Board in carrying out its functions; acceptance of gifts, devises, and bequests of property**
 
-(1) The Access Board may make grants to, or enter into contracts with, public or private organizations to carry out its duties under subsections (b) and (c) of this section.
+(1) The Access Board may make grants to, or enter into contracts with, public or private organizations to carry out its duties under subsections (b) and (c).
 
 (2)
 
-  (A) The Access Board may accept, hold, administer, and utilize gifts, devises, and bequests of property, both real and personal, for the purpose of aiding and facilitating the functions of the Access Board under paragraphs (2) and (4) of subsection (b) of this section. Gifts and bequests of money and proceeds from sales of other property received as gifts, devises, or bequests shall be deposited in the Treasury and shall be disbursed upon the order of the Chairperson.2 Property accepted pursuant to this section, and the proceeds thereof, shall be used as nearly as possible in accordance with the terms of the gifts, devises, or bequests. For purposes of Federal income, estate, or gift taxes, property accepted under this section shall be considered as a gift, devise, or bequest to the United States.
+  (A) The Access Board may accept, hold, administer, and utilize gifts, devises, and bequests of property, both real and personal, for the purpose of aiding and facilitating the functions of the Access Board under paragraphs (2) and (4) of subsection (b). Gifts and bequests of money and proceeds from sales of other property received as gifts, devises, or bequests shall be deposited in the Treasury and shall be disbursed upon the order of the Chairperson.2 Property accepted pursuant to this section, and the proceeds thereof, shall be used as nearly as possible in accordance with the terms of the gifts, devises, or bequests. For purposes of Federal income, estate, or gift taxes, property accepted under this section shall be considered as a gift, devise, or bequest to the United States.
 
   (B) The Access Board shall publish regulations setting forth the criteria the Board will use in determining whether the acceptance of gifts, devises, and bequests of property, both real and personal, would reflect unfavorably upon the ability of the Board or any employee to carry out the responsibilities or official duties of the Board in a fair and objective manner, or would compromise the integrity of or the appearance of the integrity of a Government program or any official involved in that program.
 
@@ -6681,7 +6692,7 @@ Subsec. (d)(3). Pub. L. 102–569, § 504(d)(2), struck out par. (3) which read 
 
 Subsec. (f). Pub. L. 102–569, § 504(e), added par. (1), designated existing provisions as par. (2) and substituted “paragraph” for “subsection”, “Chairperson” for “Secretary”, and “the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382” for “the daily pay rate for a person employed as a GS–18 under section 5332”.
 
-Subsec. (g). Pub. L. 102–569, § 504(f), designated existing provisions as par. (1), substituted “paragraphs (8) and (9) of such subsection” for “clauses (5) and (6) of subsection (b) of this section”, struck out at end “The Access Board shall prepare two final reports of its activities under subsection (c) of this section. One such report shall be on its activities in the field of transportation barriers facing individuals with disabilities, and the other such report shall be on its activities in the field of the housing needs of individuals with disabilities. The Access Board shall, not later than September 30, 1975, submit each such report, together with its recommendations, to the President and the Congress. The Access Board shall also prepare for such submission an interim report of its activities in each such field within 18 months after September 26, 1973. The Access Board shall prepare and submit two additional reports of its activities under subsection (c) of this section, one report on its activities in the field of transportation barriers facing individuals with disabilities and the other report on its activities in the field of the housing needs of individuals with disabilities. The two additional reports required by the previous sentence shall be submitted not later than February 1, 1988.”, and added par. (2).
+Subsec. (g). Pub. L. 102–569, § 504(f), designated existing provisions as par. (1), substituted “paragraphs (8) and (9) of such subsection” for “clauses (5) and (6) of subsection (b) of this section”, struck out at end “The Access Board shall prepare two final reports of its activities under subsection (c). One such report shall be on its activities in the field of transportation barriers facing individuals with disabilities, and the other such report shall be on its activities in the field of the housing needs of individuals with disabilities. The Access Board shall, not later than September 30, 1975, submit each such report, together with its recommendations, to the President and the Congress. The Access Board shall also prepare for such submission an interim report of its activities in each such field within 18 months after September 26, 1973. The Access Board shall prepare and submit two additional reports of its activities under subsection (c) of this section, one report on its activities in the field of transportation barriers facing individuals with disabilities and the other report on its activities in the field of the housing needs of individuals with disabilities. The two additional reports required by the previous sentence shall be submitted not later than February 1, 1988.”, and added par. (2).
 
 Pub. L. 102–569, § 102(p)(30), substituted “individuals with disabilities” for “individuals with handicaps” wherever appearing.
 
@@ -6753,7 +6764,7 @@ Subsec. (b)(2). Pub. L. 95–602, § 118(b)(2), inserted “communication,” be
 
 Subsec. (b)(7), (8). Pub. L. 95–602, § 118(b)(3), added pars. (7) and (8).
 
-Subsec. (d). Pub. L. 95–602, § 118(c), designated existing provision as par. (1), substituted “public or private nonprofit organizations or contracts with private nonprofit or forprofit organizations” for “or contracts with public or private nonprofit organizations”, “Except as provided in paragraph (3) of subsection (e) of this section, provisions” for “The provisions”, “building or public conveyance or rolling stock found” for “building found”, and “enforced under this section” for “prescribed pursuant to the Acts cited in subsection (b) of this section”, inserted provision permitting a complainant or participant in a proceeding under this subsection to obtain review of a final order pursuant to chapter 7 of title 5, and added pars. (2) and (3).
+Subsec. (d). Pub. L. 95–602, § 118(c), designated existing provision as par. (1), substituted “public or private nonprofit organizations or contracts with private nonprofit or forprofit organizations” for “or contracts with public or private nonprofit organizations”, “Except as provided in paragraph (3) of subsection (e), provisions” for “The provisions”, “building or public conveyance or rolling stock found” for “building found”, and “enforced under this section” for “prescribed pursuant to the Acts cited in subsection (b) of this section”, inserted provision permitting a complainant or participant in a proceeding under this subsection to obtain review of a final order pursuant to chapter 7 of title 5, and added pars. (2) and (3).
 
 Subsec. (e). Pub. L. 95–602, § 118(d), designated existing provisions as par. (1) and added pars. (2) and (3).
 
@@ -6812,7 +6823,7 @@ Pub. L. 112–144, title IX, § 904, July 9, 2012, 126 Stat. 1090, provided that
 
 (2)
 
-  (A) The Secretary of Labor may waive the requirements of the affirmative action clause required by regulations promulgated under subsection (a) of this section with respect to any of a prime contractor’s or subcontractor’s facilities that are found to be in all respects separate and distinct from activities of the prime contractor or subcontractor related to the performance of the contract or subcontract, if the Secretary of Labor also finds that such a waiver will not interfere with or impede the effectuation of this chapter.
+  (A) The Secretary of Labor may waive the requirements of the affirmative action clause required by regulations promulgated under subsection (a) with respect to any of a prime contractor’s or subcontractor’s facilities that are found to be in all respects separate and distinct from activities of the prime contractor or subcontractor related to the performance of the contract or subcontract, if the Secretary of Labor also finds that such a waiver will not interfere with or impede the effectuation of this chapter.
 
   (B) Such waivers shall be considered only upon the request of the contractor or subcontractor. The Secretary of Labor shall promulgate regulations that set forth the standards used for granting such a waiver.
 
@@ -6880,7 +6891,7 @@ Subsec. (c). Pub. L. 99–506, § 1001(f)(3), substituted “The President” fo
 (4) any other entity which is established by two or more of the entities described in paragraph (1), (2), or (3);
 any part of which is extended Federal financial assistance.
 
-**(c) Significant structural alterations by small providers** Small providers are not required by subsection (a) of this section to make significant structural alterations to their existing facilities for the purpose of assuring program accessibility, if alternative means of providing the services are available. The terms used in this subsection shall be construed with reference to the regulations existing on March 22, 1988.
+**(c) Significant structural alterations by small providers** Small providers are not required by subsection (a) to make significant structural alterations to their existing facilities for the purpose of assuring program accessibility, if alternative means of providing the services are available. The terms used in this subsection shall be construed with reference to the regulations existing on March 22, 1988.
 
 **(d) Standards used in determining violation of section** The standards used to determine whether this section has been violated in a complaint alleging employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12111&num=0&edition=prelim) et seq.) and the provisions of sections 501 through 504, and 510,11 See References in Text note below. of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12201–122](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12201–122&num=0&edition=prelim)04 and 12210), as such sections relate to employment.
 
@@ -6892,6 +6903,8 @@ The amendments to this section made by the Rehabilitation, Comprehensive Service
 The Americans with Disabilities Act of 1990, referred to in subsec. (d), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. Section 510 of the Act was renumbered section 511 by Pub. L. 110–325, § 6(a)(2), Sept. 25, 2008, 122 Stat. 3558. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (b)(2)(B). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
 2014—Subsec. (b)(2)(B). Pub. L. 113–128 substituted “career and technical education” for “vocational education”.
 
 2002—Subsec. (b)(2)(B). Pub. L. 107–110 substituted “[section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)” for “[section 8801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section8801&num=0&edition=prelim)”.
@@ -6917,6 +6930,9 @@ Subsec. (c). Pub. L. 100–259, § 4(2), added subsec. (c).
 1986—Pub. L. 99–506 substituted “individual with handicaps” for “handicapped individual” and “[section 706(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section706/8&num=0&edition=prelim)” for “[section 706(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section706/7&num=0&edition=prelim)”.
 
 1978—Pub. L. 95–602 substituted “[section 706(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section706/7&num=0&edition=prelim)” for “[section 706(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section706/6&num=0&edition=prelim)” and inserted provision prohibiting discrimination under any program or activity conducted by any Executive agency or by the United States Postal Service and requiring the heads of these agencies to promulgate regulations prohibiting discrimination.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
@@ -7054,23 +7070,23 @@ For termination, effective May 15, 2000, of provisions in subsec. (c) of this se
 
 **(b) Technical assistance** The Administrator of General Services and the Access Board shall provide technical assistance to individuals and Federal departments and agencies concerning the requirements of this section.
 
-**(c) Agency evaluations** Not later than 6 months after August 7, 1998, the head of each Federal department or agency shall evaluate the extent to which the electronic and information technology of the department or agency is accessible to and usable by individuals with disabilities described in subsection (a)(1) of this section, compared to the access to and use of the technology by individuals described in such subsection who are not individuals with disabilities, and submit a report containing the evaluation to the Attorney General.
+**(c) Agency evaluations** Not later than 6 months after August 7, 1998, the head of each Federal department or agency shall evaluate the extent to which the electronic and information technology of the department or agency is accessible to and usable by individuals with disabilities described in subsection (a)(1), compared to the access to and use of the technology by individuals described in such subsection who are not individuals with disabilities, and submit a report containing the evaluation to the Attorney General.
 
 **(d) Reports**
 
-(1) **Interim report** — Not later than 18 months after August 7, 1998, the Attorney General shall prepare and submit to the President a report containing information on and recommendations regarding the extent to which the electronic and information technology of the Federal Government is accessible to and usable by individuals with disabilities described in subsection (a)(1) of this section.
+(1) **Interim report** — Not later than 18 months after August 7, 1998, the Attorney General shall prepare and submit to the President a report containing information on and recommendations regarding the extent to which the electronic and information technology of the Federal Government is accessible to and usable by individuals with disabilities described in subsection (a)(1).
 
-(2) **Biennial reports** — Not later than 3 years after August 7, 1998, and every 2 years thereafter, the Attorney General shall prepare and submit to the President and Congress a report containing information on and recommendations regarding the state of Federal department and agency compliance with the requirements of this section, including actions regarding individual complaints under subsection (f) of this section.
+(2) **Biennial reports** — Not later than 3 years after August 7, 1998, and every 2 years thereafter, the Attorney General shall prepare and submit to the President and Congress a report containing information on and recommendations regarding the state of Federal department and agency compliance with the requirements of this section, including actions regarding individual complaints under subsection (f).
 
-**(e) Cooperation** Each head of a Federal department or agency (including the Access Board, the Equal Employment Opportunity Commission, and the General Services Administration) shall provide to the Attorney General such information as the Attorney General determines is necessary to conduct the evaluations under subsection (c) of this section and prepare the reports under subsection (d) of this section.
+**(e) Cooperation** Each head of a Federal department or agency (including the Access Board, the Equal Employment Opportunity Commission, and the General Services Administration) shall provide to the Attorney General such information as the Attorney General determines is necessary to conduct the evaluations under subsection (c) and prepare the reports under subsection (d).
 
 **(f) Enforcement**
 
 (1) **General**
 
-  (A) *Complaints* — Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section, any individual with a disability may file a complaint alleging that a Federal department or agency fails to comply with subsection (a)(1) of this section in providing electronic and information technology.
+  (A) *Complaints* — Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2), any individual with a disability may file a complaint alleging that a Federal department or agency fails to comply with subsection (a)(1) in providing electronic and information technology.
 
-  (B) *Application* — This subsection shall apply only to electronic and information technology that is procured by a Federal department or agency not less than 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section.
+  (B) *Application* — This subsection shall apply only to electronic and information technology that is procured by a Federal department or agency not less than 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2).
 
 (2) **Administrative complaints** — Complaints filed under paragraph (1) shall be filed with the Federal department or agency alleged to be in noncompliance. The Federal department or agency receiving the complaint shall apply the complaint procedures established to implement [section 794 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-794) for resolving allegations of discrimination in a federally conducted program or activity.
 
@@ -7084,9 +7100,9 @@ For termination, effective May 15, 2000, of provisions in subsec. (c) of this se
 “[Section 11101(6) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11101/6&num=0&edition=prelim)” substituted in subsec. (a)(2)(A)(i) for “section 5002(3) of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1401(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section1401/3&num=0&edition=prelim))” and “[section 11103(a) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11103/a&num=0&edition=prelim)” substituted in subsec. (a)(5) for “section 5142 of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1452](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section1452&num=0&edition=prelim))” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
-2000—Subsec. (f)(1)(A). Pub. L. 106–246, § 2405(1), substituted “Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section,” for “Effective 2 years after August 7, 1998,”.
+2000—Subsec. (f)(1)(A). Pub. L. 106–246, § 2405(1), substituted “Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2),” for “Effective 2 years after August 7, 1998,”.
 
-Subsec. (f)(1)(B). Pub. L. 106–246, § 2405(2), substituted “6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section.” for “2 years after August 7, 1998.”
+Subsec. (f)(1)(B). Pub. L. 106–246, § 2405(2), substituted “6 months after the date of publication by the Access Board of final standards described in subsection (a)(2).” for “2 years after August 7, 1998.”
 
 1998—Pub. L. 105–220 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to electronic and information technology accessibility guidelines.
 
@@ -7115,7 +7131,7 @@ Subsec. (c). Pub. L. 100–630, § 206(f)(3), substituted “an individual with 
 
 (2) **Construction** — This section shall not be construed to require the provision of protection and advocacy services that can be provided under the Assistive Technology Act of 1998 [[29 U.S.C. 3001](./chapter-031-assistive-technology-for-individuals-with-disabilities.md#section-3001) et seq.].
 
-**(b) Appropriations less than $5,500,000** For any fiscal year in which the amount appropriated to carry out this section is less than $5,500,000, the Commissioner may make grants from such amount to eligible systems within States to plan for, develop outreach strategies for, and carry out protection and advocacy programs authorized under this section for individuals with disabilities who meet the requirements of subparagraphs (A) and (B) of subsection (a)(1) of this section.
+**(b) Appropriations less than $5,500,000** For any fiscal year in which the amount appropriated to carry out this section is less than $5,500,000, the Commissioner may make grants from such amount to eligible systems within States to plan for, develop outreach strategies for, and carry out protection and advocacy programs authorized under this section for individuals with disabilities who meet the requirements of subparagraphs (A) and (B) of subsection (a)(1).
 
 **(c) Appropriations of $5,500,000 or more**
 
@@ -7125,7 +7141,7 @@ Subsec. (c). Pub. L. 100–630, § 206(f)(3), substituted “an individual with 
 
   (B) *Grant for the eligible system serving the American Indian consortium* — For any fiscal year in which the amount appropriated to carry out this section equals or exceeds $10,500,000, the Commissioner shall reserve a portion, and use the portion to make a grant for the eligible system serving the American Indian consortium. The Commission shall make the grant in an amount of not less than $50,000 for the fiscal year.
 
-(2) **Allotments** — For any such fiscal year, after the reservations required by paragraph (1) have been made, the Commissioner shall make allotments from the remainder of such amount in accordance with paragraph (3) to eligible systems within States to enable such systems to carry out protection and advocacy programs authorized under this section for individuals referred to in subsection (b) of this section.
+(2) **Allotments** — For any such fiscal year, after the reservations required by paragraph (1) have been made, the Commissioner shall make allotments from the remainder of such amount in accordance with paragraph (3) to eligible systems within States to enable such systems to carry out protection and advocacy programs authorized under this section for individuals referred to in subsection (b).
 
 (3) **Systems within States**
 
@@ -7141,9 +7157,9 @@ Subsec. (c). Pub. L. 100–630, § 206(f)(3), substituted “an individual with 
 
 (5) **Adjustment for inflation** — For any fiscal year, beginning in fiscal year 1999, in which the total amount appropriated to carry out this section exceeds the total amount appropriated to carry out this section for the preceding fiscal year, the Commissioner shall increase each of the minimum grants or allotments under paragraphs (1)(B), (3)(B), and (4)(B) by a percentage that shall not exceed the percentage increase in the total amount appropriated to carry out this section between the preceding fiscal year and the fiscal year involved.
 
-**(d) Proportional reduction** To provide minimum allotments to systems within States (as increased under subsection (c)(5) of this section) under subsection (c)(3)(B) of this section, or to provide minimum allotments to systems within States (as increased under subsection (c)(5) of this section) under subsection (c)(4)(B) of this section, the Commissioner shall proportionately reduce the allotments of the remaining systems within States under subsection (c)(3) of this section, with such adjustments as may be necessary to prevent the allotment of any such remaining system within a State from being reduced to less than the minimum allotment for a system within a State (as increased under subsection (c)(5) of this section) under subsection (c)(3)(B) of this section, or the minimum allotment for a State (as increased under subsection (c)(5) of this section) under subsection (c)(4)(B) of this section, as appropriate.
+**(d) Proportional reduction** To provide minimum allotments to systems within States (as increased under subsection (c)(5)) under subsection (c)(3)(B), or to provide minimum allotments to systems within States (as increased under subsection (c)(5)) under subsection (c)(4)(B), the Commissioner shall proportionately reduce the allotments of the remaining systems within States under subsection (c)(3), with such adjustments as may be necessary to prevent the allotment of any such remaining system within a State from being reduced to less than the minimum allotment for a system within a State (as increased under subsection (c)(5)) under subsection (c)(3)(B), or the minimum allotment for a State (as increased under subsection (c)(5)) under subsection (c)(4)(B), as appropriate.
 
-**(e) Reallotment** Whenever the Commissioner determines that any amount of an allotment to a system within a State for any fiscal year described in subsection (c)(1) of this section will not be expended by such system in carrying out the provisions of this section, the Commissioner shall make such amount available for carrying out the provisions of this section to one or more of the systems that the Commissioner determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a system for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the system (as determined under the preceding provisions of this section) for such year.
+**(e) Reallotment** Whenever the Commissioner determines that any amount of an allotment to a system within a State for any fiscal year described in subsection (c)(1) will not be expended by such system in carrying out the provisions of this section, the Commissioner shall make such amount available for carrying out the provisions of this section to one or more of the systems that the Commissioner determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a system for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the system (as determined under the preceding provisions of this section) for such year.
 
 **(f) Application** In order to receive assistance under this section, an eligible system shall submit an application to the Commissioner, at such time, in such form and manner, and containing such information and assurances as the Commissioner determines necessary to meet the requirements of this section, including assurances that the eligible system will—
 
@@ -7151,7 +7167,7 @@ Subsec. (c). Pub. L. 100–630, § 206(f)(3), substituted “an individual with 
 
 (2) have the same general authorities, including the authority to access records and program income, as are set forth in subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [[42 U.S.C. 15041](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15041&num=0&edition=prelim) et seq.];
 
-(3) have the authority to pursue legal, administrative, and other appropriate remedies or approaches to ensure the protection of, and advocacy for, the rights of such individuals within the State or the American Indian consortium who are individuals described in subsection (a)(1) of this section;
+(3) have the authority to pursue legal, administrative, and other appropriate remedies or approaches to ensure the protection of, and advocacy for, the rights of such individuals within the State or the American Indian consortium who are individuals described in subsection (a)(1);
 
 (4) provide information on and make referrals to programs and services addressing the needs of individuals with disabilities in the State or the American Indian consortium;
 
@@ -7173,7 +7189,7 @@ Subsec. (c). Pub. L. 100–630, § 206(f)(3), substituted “an individual with 
 
 **(h) Limitation on disclosure requirements** For purposes of any audit, report, or evaluation of the performance of the program established under this section, the Commissioner shall not require such a program to disclose the identity of, or any other personally identifiable information related to, any individual requesting assistance under such program.
 
-**(i) Administrative cost** In any State in which an eligible system is located within a State agency, a State may use a portion of any allotment under subsection (c) of this section for the cost of the administration of the system required by this section. Such portion may not exceed 5 percent of the allotment.
+**(i) Administrative cost** In any State in which an eligible system is located within a State agency, a State may use a portion of any allotment under subsection (c) for the cost of the administration of the system required by this section. Such portion may not exceed 5 percent of the allotment.
 
 **(j) Delegation** The Commissioner may delegate the administration of this program to the Commissioner of the Administration on Developmental Disabilities within the Department of Health and Human Services.
 
@@ -7183,7 +7199,7 @@ Subsec. (c). Pub. L. 100–630, § 206(f)(3), substituted “an individual with 
 
 **(m) Definitions** As used in this section:
 
-(1) **Eligible system** — The term “eligible system” means a protection and advocacy system that is established under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [[42 U.S.C. 15041](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15041&num=0&edition=prelim) et seq.] and that meets the requirements of subsection (f) of this section.
+(1) **Eligible system** — The term “eligible system” means a protection and advocacy system that is established under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [[42 U.S.C. 15041](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15041&num=0&edition=prelim) et seq.] and that meets the requirements of subsection (f).
 
 (2) **American Indian consortium** — The term “American Indian consortium” means a consortium established as described in section 142 2 of the Developmental Disabilities Assistance and Bill of Rights Act ([42 U.S.C. 6042](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6042&num=0&edition=prelim)).
 
@@ -7223,7 +7239,7 @@ Subsec. (a)(2). Pub. L. 105–394 substituted “the Assistive Technology Act of
 
 Subsec. (b). Pub. L. 103–73, § 112(c)(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 
-“(1) Allotments.—For any fiscal year in which the amount appropriated to carry out this section is less than $5,500,000, the Commissioner may make grants from such amount to eligible systems within States to plan for, develop outreach strategies for, and carry out protection and advocacy programs authorized under this section for individuals with disabilities who meet the requirements of paragraphs (1) and (2) of subsection (a) of this section.
+“(1) Allotments.—For any fiscal year in which the amount appropriated to carry out this section is less than $5,500,000, the Commissioner may make grants from such amount to eligible systems within States to plan for, develop outreach strategies for, and carry out protection and advocacy programs authorized under this section for individuals with disabilities who meet the requirements of paragraphs (1) and (2) of subsection (a).
 
 “(2) Other jurisdictions.—For the purposes of this subsection, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau shall not be considered to be States.”
 
@@ -7237,11 +7253,11 @@ Subsec. (c)(5). Pub. L. 103–73, § 112(c)(3)(B), added par. (5) and struck out
 
 “(B) Certain territories.—For purposes of determining the minimum amount of an allotment under paragraph (4)(B), the amount $50,000 shall, in the case of such allotments for fiscal year 1994 and subsequent fiscal years, be increased to the extent necessary to offset the effects of inflation occurring since October 1992, as measured by the percentage increase in the Consumer Price Index For All Urban Consumers (U.S. city average) during the period ending on April 1 of the fiscal year preceding the fiscal year for which the allotment is to be made.”
 
-Subsec. (d). Pub. L. 103–73, § 112(c)(4), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Amounts necessary to provide allotments to systems within States in accordance with subsection (c)(3)(B) of this section as increased under subsection (c)(5) of this section, or to provide allotments in accordance with subsection (c)(4)(B) of this section as increased in accordance with subsection (c)(5) of this section, shall be derived by proportionately reducing the allotments of the remaining systems within States under subsection (c)(3) of this section, but with such adjustments as may be necessary to prevent the allotment of any such remaining systems within States from being thereby reduced to less than the greater of $100,000 or one-third of one percent of the sums made available for purposes of this section for the fiscal year for which the allotment is made, as increased in accordance with subsection (c)(5) of this section.”
+Subsec. (d). Pub. L. 103–73, § 112(c)(4), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Amounts necessary to provide allotments to systems within States in accordance with subsection (c)(3)(B) as increased under subsection (c)(5), or to provide allotments in accordance with subsection (c)(4)(B) as increased in accordance with subsection (c)(5), shall be derived by proportionately reducing the allotments of the remaining systems within States under subsection (c)(3), but with such adjustments as may be necessary to prevent the allotment of any such remaining systems within States from being thereby reduced to less than the greater of $100,000 or one-third of one percent of the sums made available for purposes of this section for the fiscal year for which the allotment is made, as increased in accordance with subsection (c)(5).”
 
 Subsec. (i). Pub. L. 103–73, § 112(c)(6), which directed the amendment of this section “in subsection (i), to read as follows:”, was executed by adding subsec. (i). Former subsec. (i) redesignated (n).
 
-Subsec. (j). Pub. L. 103–73, § 112(c)(7), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: “An eligible system may not use more than 5 percent of any allotment under subsection (c) of this section for the cost of administration of the system required by this section.”
+Subsec. (j). Pub. L. 103–73, § 112(c)(7), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: “An eligible system may not use more than 5 percent of any allotment under subsection (c) for the cost of administration of the system required by this section.”
 
 Subsec. (n). Pub. L. 103–73, § 112(c)(5), redesignated subsec. (i) as (n).
 
@@ -7363,6 +7379,12 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (b)(3), is act June
 
 The effective date of this Act, referred to in subsec. (b)(3), may mean the effective date of Pub. L. 93–112 (Sept. 26, 1973), the effective date of Pub. L. 113–128, which added this section (see Effective Date note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101)), or the effective date of this section (see Effective Date note below).
 
+#### Amendments
+2015—Subsec. (b)(2). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–95, title IX, § 9215(mmm)(4)(B), Dec. 10, 2015, 129 Stat. 2188, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect on the same date as section 458(a) of the Workforce Innovation and Opportunity Act (Public Law 113–128; 128 Stat. 1676) [enacting this section] takes effect, and as if enacted as part of such section.”
+
 #### Effective Date
 Pub. L. 113–128, title IV, § 458(b), July 22, 2014, 128 Stat. 1679, provided that: “This section [enacting this section] takes effect 2 years after the date of enactment of the Workforce Innovation and Opportunity Act [July 22, 2014].”
 
@@ -7399,7 +7421,7 @@ For short title of this subchapter as the “Employment Opportunities for Indivi
 <a id="section-796e-1"></a>
 ## § 796e–1. Purpose
 
-It is the purpose of this subchapter to authorize allotments, in addition to grants for vocational rehabilitation services under subchapter I of this chapter, to assist States in developing collaborative programs with appropriate entities to provide supported employment services for individuals with the most significant disabilities, including youth with the most significant disabilities, to enable such individuals to achieve an employment outcome of supported employment in competitive integrated employment.
+It is the purpose of this subchapter to authorize allotments, in addition to grants for vocational rehabilitation services under subchapter I, to assist States in developing collaborative programs with appropriate entities to provide supported employment services for individuals with the most significant disabilities, including youth with the most significant disabilities, to enable such individuals to achieve an employment outcome of supported employment in competitive integrated employment.
 
 ### Statutory Notes
 
@@ -7541,9 +7563,9 @@ Pars. (3), (4). Pub. L. 113–128, § 461(7)(C)–(F), added par. (3), redesigna
 
   (A) funds made available under this subchapter will only be used to provide supported employment services authorized under this chapter to individuals who are eligible under this subchapter to receive the services;
 
-  (B) the comprehensive assessments of individuals with significant disabilities, including youth with the most significant disabilities, conducted under [section 722(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section722/b/1&num=0&edition=prelim) and funded under subchapter I of this chapter will include consideration of supported employment as an appropriate employment outcome;
+  (B) the comprehensive assessments of individuals with significant disabilities, including youth with the most significant disabilities, conducted under [section 722(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section722/b/1&num=0&edition=prelim) and funded under subchapter I will include consideration of supported employment as an appropriate employment outcome;
 
-  (C) an individualized plan for employment, as required by [section 722 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-722), will be developed and updated using funds under subchapter I of this chapter in order to—
+  (C) an individualized plan for employment, as required by [section 722 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-722), will be developed and updated using funds under subchapter I in order to—
 
     (i) specify the supported employment services to be provided, including, as appropriate, for youth with the most significant disabilities, transition services and pre-employment transition services;
 
@@ -7551,7 +7573,7 @@ Pars. (3), (4). Pub. L. 113–128, § 461(7)(C)–(F), added par. (3), redesigna
 
     (iii) identify, as appropriate, the source of extended services, which may include natural supports, or indicate that it is not possible to identify the source of extended services at the time the individualized plan for employment is developed;
 
-  (D) the State will use funds provided under this subchapter only to supplement, and not supplant, the funds provided under subchapter I of this chapter, in providing supported employment services specified in the individualized plan for employment;
+  (D) the State will use funds provided under this subchapter only to supplement, and not supplant, the funds provided under subchapter I, in providing supported employment services specified in the individualized plan for employment;
 
   (E) services provided under an individualized plan for employment will be coordinated with services provided under other individualized plans established under other Federal or State programs;
 
@@ -7766,7 +7788,7 @@ The purpose of this part is to promote a philosophy of independent living, inclu
 
 (2) providing financial assistance to develop and support statewide networks of centers for independent living; and
 
-(3) providing financial assistance to States for improving working relationships among State independent living rehabilitation service programs, centers for independent living, Statewide Independent Living Councils established under [section 796d of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796d), State vocational rehabilitation programs receiving assistance under subchapter I of this chapter, State programs of supported employment services receiving assistance under subchapter VI of this chapter, client assistance programs receiving assistance under [section 732 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-732), programs funded under other subchapters of this chapter, programs funded under other Federal law, and programs funded through non-Federal sources, with the goal of improving the independence of individuals with disabilities.
+(3) providing financial assistance to States for improving working relationships among State independent living rehabilitation service programs, centers for independent living, Statewide Independent Living Councils established under [section 796d of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-796d), State vocational rehabilitation programs receiving assistance under subchapter I, State programs of supported employment services receiving assistance under subchapter VI, client assistance programs receiving assistance under [section 732 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-732), programs funded under other subchapters of this chapter, programs funded under other Federal law, and programs funded through non-Federal sources, with the goal of improving the independence of individuals with disabilities.
 
 ### Statutory Notes
 
@@ -7946,7 +7968,7 @@ Another prior section 796b, Pub. L. 93–112, title VII, § 703, as added Pub. L
 
 (6) provide for public hearings regarding the contents of the plan during both the formulation and review of the plan.
 
-**(n) Evaluation** The plan shall establish a method for the periodic evaluation of the effectiveness of the plan in meeting the objectives established in subsection (d) of this section, including evaluation of satisfaction by individuals with disabilities.
+**(n) Evaluation** The plan shall establish a method for the periodic evaluation of the effectiveness of the plan in meeting the objectives established in subsection (d), including evaluation of satisfaction by individuals with disabilities.
 
 **(o) Promoting full access to community life** The plan shall describe how the State will provide independent living services described in [section 705(18) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section705/18&num=0&edition=prelim) that promote full access to community life for individuals with significant disabilities.
 

@@ -29,6 +29,11 @@ Title I of Pub. L. 91–508, title II of Pub. L. 91–508, titles I and II of Pu
 
 Where the Secretary determines that the making of appropriate reports by uninsured banks or uninsured institutions of any type with respect to their ownership, control, and managements and any changes therein has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, he may by regulation require such banks or institutions to make such reports as he determines in respect of such ownership, control, and managements and changes therein.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on first day of seventh calendar month which begins after Oct. 26, 1970, except that the Secretary of the Treasury may, by regulation, provide that this section be effective on any date not earlier than the publication of such regulations in the Federal Register and not later than first day of thirteenth calendar month which begins after Oct. 26, 1970, see section 401(a), (b) of Pub. L. 91–508, set out as a note under [section 1951 of this title](./chapter-021-financial-recordkeeping.md#section-1951).
+
 
 <a id="section-1953"></a>
 ## § 1953. Recordkeeping and procedures
@@ -72,11 +77,19 @@ Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as 
 #### Effective Date of 2001 Amendment
 Amendment by Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under [section 1829b of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1829b).
 
+#### Effective Date
+Section effective on first day of seventh calendar month which begins after Oct. 26, 1970, except that the Secretary of the Treasury may, by regulation, provide that this section be effective on any date not earlier than the publication of such regulations in the Federal Register and not later than first day of thirteenth calendar month which begins after Oct. 26, 1970, see section 401(a), (b) of Pub. L. 91–508, set out as a note under [section 1951 of this title](./chapter-021-financial-recordkeeping.md#section-1951).
+
 
 <a id="section-1954"></a>
 ## § 1954. Injunctions
 
 Whenever it appears to the Secretary that any person has engaged, is engaged, or is about to engage in any acts or practices constituting a violation of any regulation under this chapter, he may in his discretion bring an action, in the proper district court of the United States or the proper United States court of any territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices, and upon a proper showing a permanent or temporary injunction or restraining order shall be granted without bond. Upon application of the Secretary, any such court may also issue mandatory injunctions commanding any person to comply with any regulation of the Secretary under this chapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on first day of seventh calendar month which begins after Oct. 26, 1970, except that the Secretary of the Treasury may, by regulation, provide that this section be effective on any date not earlier than the publication of such regulations in the Federal Register and not later than first day of thirteenth calendar month which begins after Oct. 26, 1970, see section 401(a), (b) of Pub. L. 91–508, set out as a note under [section 1951 of this title](./chapter-021-financial-recordkeeping.md#section-1951).
 
 
 <a id="section-1955"></a>
@@ -92,11 +105,19 @@ Whenever it appears to the Secretary that any person has engaged, is engaged, or
 
 1988—Subsec. (a). Pub. L. 100–690 inserted “or grossly negligent” after “willful” and “or through gross negligence” after “willfully” and substituted “$10,000” for “$1,000”.
 
+#### Effective Date
+Section effective on first day of seventh calendar month which begins after Oct. 26, 1970, except that the Secretary of the Treasury may, by regulation, provide that this section be effective on any date not earlier than the publication of such regulations in the Federal Register and not later than first day of thirteenth calendar month which begins after Oct. 26, 1970, see section 401(a), (b) of Pub. L. 91–508, set out as a note under [section 1951 of this title](./chapter-021-financial-recordkeeping.md#section-1951).
+
 
 <a id="section-1956"></a>
 ## § 1956. Criminal penalty
 
 Whoever willfully violates any regulation under this chapter shall be fined not more than $1,000 or imprisoned not more than one year, or both.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on first day of seventh calendar month which begins after Oct. 26, 1970, except that the Secretary of the Treasury may, by regulation, provide that this section be effective on any date not earlier than the publication of such regulations in the Federal Register and not later than first day of thirteenth calendar month which begins after Oct. 26, 1970, see section 401(a), (b) of Pub. L. 91–508, set out as a note under [section 1951 of this title](./chapter-021-financial-recordkeeping.md#section-1951).
 
 
 <a id="section-1957"></a>
@@ -112,6 +133,9 @@ Whoever willfully violates, or willfully causes a violation of any regulation un
 #### Amendments
 1992—Pub. L. 102–550 inserted “, or willfully causes a violation of” after “Whoever willfully violates”.
 
+#### Effective Date
+Section effective on first day of seventh calendar month which begins after Oct. 26, 1970, except that the Secretary of the Treasury may, by regulation, provide that this section be effective on any date not earlier than the publication of such regulations in the Federal Register and not later than first day of thirteenth calendar month which begins after Oct. 26, 1970, see section 401(a), (b) of Pub. L. 91–508, set out as a note under [section 1951 of this title](./chapter-021-financial-recordkeeping.md#section-1951).
+
 
 <a id="section-1958"></a>
 ## § 1958. Compliance
@@ -122,6 +146,9 @@ The Secretary shall have the responsibility to assure compliance with the requir
 
 #### Amendments
 2014—Pub. L. 113–156 substituted “requirements of this chapter and [section 1829b of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1829b)” for “requirements of this chapter and sections 1730d and 1829b of this title” and inserted at end “The Secretary may rely on examinations conducted by a State supervisory agency of a category of financial institution, if the Secretary determines that the category of financial institution is required to comply with this chapter and [section 1829b of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1829b) (and regulations prescribed under this chapter and [section 1829b of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1829b)), or the State supervisory agency examines the category of financial institution for compliance with this chapter and [section 1829b of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1829b) (and regulations prescribed under this chapter and [section 1829b of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1829b)).”
+
+#### Effective Date
+Section effective on first day of seventh calendar month which begins after Oct. 26, 1970, except that the Secretary of the Treasury may, by regulation, provide that this section be effective on any date not earlier than the publication of such regulations in the Federal Register and not later than first day of thirteenth calendar month which begins after Oct. 26, 1970, see section 401(a), (b) of Pub. L. 91–508, set out as a note under [section 1951 of this title](./chapter-021-financial-recordkeeping.md#section-1951).
 
 #### Consultation With State Agencies
 Pub. L. 113–156, § 2(c), Aug. 8, 2014, 128 Stat. 1830, provided that: “In issuing rules to carry out [section 5318(a)(6) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318/a/6&num=0&edition=prelim), United States Code, and section 128 of Public Law 91–508 ([12 U.S.C. 1958](./chapter-021-financial-recordkeeping.md#section-1958)), the Secretary of the Treasury shall consult with State supervisory agencies.”
@@ -136,3 +163,6 @@ The administrative procedure and judicial review provisions of subchapter II of 
 
 #### References in Text
 [Section 1730d of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1730d&num=0&edition=prelim), referred to in text, was repealed by Pub. L. 101–73, title IV, § 407, Aug. 9, 1989, 103 Stat. 363.
+
+#### Effective Date
+Section effective on first day of seventh calendar month which begins after Oct. 26, 1970, except that the Secretary of the Treasury may, by regulation, provide that this section be effective on any date not earlier than the publication of such regulations in the Federal Register and not later than first day of thirteenth calendar month which begins after Oct. 26, 1970, see section 401(a), (b) of Pub. L. 91–508, set out as a note under [section 1951 of this title](./chapter-021-financial-recordkeeping.md#section-1951).

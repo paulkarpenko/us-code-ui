@@ -37,13 +37,16 @@ shall be punished as provided in subsection (c).
 
 **(f) Definitions.—** As used in this section—
 
-(1) the term “Indian tribe” has the meaning given that term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 479a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section479a&num=0&edition=prelim));
+(1) the term “Indian tribe” has the meaning given that term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 479a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section479a&num=0&edition=prelim)); 11 See References in Text note below.
 
 (2) the term “State” includes any State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States; and
 
 (3) the term “support obligation” means any amount determined under a court order or an order of an administrative process pursuant to the law of a State or of an Indian tribe to be due from a person for the support and maintenance of a child or of a child and the parent with whom the child is living.
 
 ### Statutory Notes
+
+#### References in Text
+Section 102 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 479a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section479a&num=0&edition=prelim)), referred to in subsec. (f)(1), was classified to [section 479a of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section479a&num=0&edition=prelim), Indians, prior to editorial reclassification as [section 5130 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5130&num=0&edition=prelim).
 
 #### Amendments
 1998—Pub. L. 105–187 reenacted section catchline without change and amended text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to a description of the offense, punishment for an offense, restitution upon conviction of an offense, and definitions of terms used in this section.

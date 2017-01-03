@@ -2,7 +2,7 @@
 title: 49
 chapter: '311'
 heading: COMMERCIAL MOTOR VEHICLE SAFETY
-section_count: 37
+section_count: 38
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -23,6 +23,9 @@ The purpose of this subchapter is to ensure that the Secretary, States, and othe
 
 ### Statutory Notes
 
+#### Compliance, Safety, Accountability Reform
+Pub. L. 114–94, div. A, title V, subtitle B, part II, Dec. 4, 2015, 129 Stat. 1538, provided that: “SEC. 5221. CORRELATION STUDY.“(a) In General.—The Administrator of the Federal Motor Carrier Safety Administration (referred to in this part as the ‘Administrator’) shall commission the National Research Council of the National Academies to conduct a study of—“(1) the Compliance, Safety, Accountability program of the Federal Motor Carrier Safety Administration (referred to in this part as the ‘CSA program’); and “(2) the Safety Measurement System utilized by the CSA program (referred to in this part as the ‘SMS’). “(b) Scope of Study.—In carrying out the study commissioned pursuant to subsection (a), the National Research Council—“(1) shall analyze—“(A) the accuracy with which the Behavior Analysis and Safety Improvement Categories (referred to in this part as ‘BASIC’)—“(i) identify high risk carriers; and “(ii) predict or are correlated with future crash risk, crash severity, or other safety indicators for motor carriers, including the highest risk carriers; “(B) the methodology used to calculate BASIC percentiles and identify carriers for enforcement, including the weights assigned to particular violations and the tie between crash risk and specific regulatory violations, with respect to accurately identifying and predicting future crash risk for motor carriers; “(C) the relative value of inspection information and roadside enforcement data; “(D) any data collection gaps or data sufficiency problems that may exist and the impact of those gaps and problems on the efficacy of the CSA program; “(E) the accuracy of safety data, including the use of crash data from crashes in which a motor carrier was free from fault; “(F) whether BASIC percentiles for motor carriers of passengers should be calculated separately from motor carriers of freight; “(G) the differences in the rates at which safety violations are reported to the Federal Motor Carrier Safety Administration for inclusion in the SMS by various enforcement authorities, including States, territories, and Federal inspectors; and “(H) how members of the public use the SMS and what effect making the SMS information public has had on reducing crashes and eliminating unsafe motor carriers from the industry; and “(2) shall consider—“(A) whether the SMS provides comparable precision and confidence, through SMS alerts and percentiles, for the relative crash risk of individual large and small motor carriers; “(B) whether alternatives to the SMS would identify high risk carriers more accurately; and “(C) the recommendations and findings of the Comptroller General of the United States and the Inspector General of the Department [of Transportation], and independent review team reports, issued before the date of enactment of this Act [Dec. 4, 2015]. “(c) Report.—Not later than 18 months after the date of enactment of this Act, the Administrator shall—“(1) submit a report containing the results of the study commissioned pursuant to subsection (a) to—“(A) the Committee on Commerce, Science, and Transportation of the Senate; “(B) the Committee on Transportation and Infrastructure of the House of Representatives; and “(C) the Inspector General of the Department; and “(2) publish the report on a publicly accessible Internet Web site of the Department. “(d) Corrective Action Plan.—“(1) In general.—Not later than 120 days after the Administrator submits the report under subsection (c), if that report identifies a deficiency or opportunity for improvement in the CSA program or in any element of the SMS, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a corrective action plan that—“(A) responds to the deficiencies or opportunities identified by the report; “(B) identifies how the Federal Motor Carrier Safety Administration will address such deficiencies or opportunities; and “(C) provides an estimate of the cost, including with respect to changes in staffing, enforcement, and data collection, necessary to address such deficiencies or opportunities. “(2) Program reforms.—The corrective action plan submitted under paragraph (1) shall include an implementation plan that—“(A) includes benchmarks; “(B) includes programmatic reforms, revisions to regulations, or proposals for legislation; and “(C) shall be considered in any rulemaking by the Department that relates to the CSA program, including the SMS or data analysis under the SMS. “(e) Inspector General Review.—Not later than 120 days after the Administrator submits a corrective action plan under subsection (d), the Inspector General of the Department shall—“(1) review the extent to which such plan addresses—“(A) recommendations contained in the report submitted under subsection (c); and “(B) relevant recommendations issued by the Comptroller General or the Inspector General before the date of enactment of this Act; and “(2) submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the responsiveness of the corrective action plan to the recommendations described in paragraph (1). “SEC. 5222. BEYOND COMPLIANCE.“(a) In General.—Not later than 18 months after the date of enactment of this Act [Dec. 4, 2015], the Administrator shall allow recognition, including credit or an improved SMS percentile, for a motor carrier that—“(1) installs advanced safety equipment; “(2) uses enhanced driver fitness measures; “(3) adopts fleet safety management tools, technologies, and programs; or “(4) satisfies other standards determined appropriate by the Administrator. “(b) Implementation.—The Administrator shall carry out subsection (a) by—“(1) incorporating a methodology into the CSA program; or “(2) establishing a safety BASIC in the SMS. “(c) Process.—“(1) In general.—The Administrator, after providing notice and an opportunity for comment, shall develop a process for identifying and reviewing advanced safety equipment, enhanced driver fitness measures, fleet safety management tools, technologies, and programs, and other standards for use by motor carriers to receive recognition, including credit or an improved SMS percentile, for purposes of subsection (a). “(2) Contents.—A process developed under paragraph (1) shall—“(A) provide for a petition process for reviewing advanced safety equipment, enhanced driver fitness measures, fleet safety management tools, technologies, and programs, and other standards; and “(B) seek input and participation from industry stakeholders, including commercial motor vehicle drivers, technology manufacturers, vehicle manufacturers, motor carriers, law enforcement, safety advocates, and the Motor Carrier Safety Advisory Committee. “(d) Qualification.—The Administrator, after providing notice and an opportunity for comment, shall develop technical or other performance standards with respect to advanced safety equipment, enhanced driver fitness measures, fleet safety management tools, technologies, and programs, and other standards for purposes of subsection (a). “(e) Monitoring.—The Administrator may authorize qualified entities to monitor motor carriers that receive recognition, including credit or an improved SMS percentile, under this section through a no-cost contract structure. “(f) Dissemination of Information.—The Administrator shall maintain on a publicly accessible Internet Web site of the Department information on—“(1) the advanced safety equipment, enhanced driver fitness measures, fleet safety management tools, technologies, and programs, and other standards eligible for recognition, including credit or an improved SMS percentile; “(2) any petitions for review of advanced safety equipment, enhanced driver fitness measures, fleet safety management tools, technologies, and programs, and other standards; and “(3) any relevant statistics relating to the use of advanced safety equipment, enhanced driver fitness measures, fleet safety management tools, technologies, and programs, and other standards. “(g) Report.—Not later than 3 years after the date of enactment of this Act, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the—“(1) number of motor carriers receiving recognition, including credit or an improved SMS percentile, under this section; and “(2) safety performance of such carriers. “SEC. 5223. DATA CERTIFICATION.“(a) In General.—On and after the date that is 1 day after the date of enactment of this Act [Dec. 4, 2015], no information regarding analysis of violations, crashes in which a determination is made that the motor carrier or the commercial motor vehicle driver is not at fault, alerts, or the relative percentile for each BASIC developed under the CSA program may be made available to the general public until the Inspector General of the Department certifies that—“(1) the report required under section 5221(c) has been submitted in accordance with that section; “(2) any deficiencies identified in the report required under section 5221(c) have been addressed; “(3) if applicable, the corrective action plan under section 5221(d) has been implemented; “(4) the Administrator of the Federal Motor Carrier Safety Administration has fully implemented or satisfactorily addressed the issues raised in the report titled ‘Modifying the Compliance, Safety, Accountability Program Would Improve the Ability to Identify High Risk Carriers’ of the Government Accountability Office and dated February 2014 (GAO–14–114); and “(5) the Secretary [of Transportation] has initiated modification of the CSA program in accordance with section 5222. “(b) Limitation on the Use of CSA Analysis.—Information regarding alerts and the relative percentile for each BASIC developed under the CSA program may not be used for safety fitness determinations until the Inspector General of the Department makes the certification under subsection (a). “(c) Continued Public Availability of Data.—Notwithstanding any other provision of this section, inspection and violation information submitted to the Federal Motor Carrier Safety Administration by commercial motor vehicle inspectors and qualified law enforcement officials, out-of-service rates, and absolute measures shall remain available to the public. “(d) Exceptions.—“(1) In general.—Notwithstanding any other provision of this section—“(A) the Federal Motor Carrier Safety Administration and State and local commercial motor vehicle enforcement agencies may use the information referred to in subsection (a) for purposes of investigation and enforcement prioritization; “(B) a motor carrier and a commercial motor vehicle driver may access information referred to in subsection (a) that relates directly to the motor carrier or driver, respectively; and “(C) a data analysis of motorcoach operators may be provided online with a notation indicating that the ratings or alerts listed are not intended to imply any Federal safety rating of the carrier. “(2) Notation.—The notation described in paragraph (1)(C) shall include the following: ‘Readers should not draw conclusions about a carrier’s overall safety condition simply based on the data displayed in this system. Unless a motor carrier has received an UNSATISFACTORY safety rating under part 385 of title 49, Code of Federal Regulations, or has otherwise been ordered to discontinue operations by the Federal Motor Carrier Safety Administration, it is authorized to operate on the Nation’s roadways.’. “(3) Rule of construction.—Nothing in this section may be construed to restrict the official use by State enforcement agencies of the data collected by State enforcement personnel. “SEC. 5224. DATA IMPROVEMENT.“(a) Functional Specifications.—The Administrator shall develop functional specifications to ensure the consistent and accurate input of data into systems and databases relating to the CSA program. “(b) Functionality.—The functional specifications developed pursuant to subsection (a)—“(1) shall provide for the hardcoding and smart logic functionality for roadside inspection data collection systems and databases; and “(2) shall be made available to public and private sector developers. “(c) Effective Data Management.—The Administrator shall ensure that internal systems and databases accept and effectively manage data using uniform standards. “(d) Consultation With the States.—Before implementing the functional specifications developed pursuant to subsection (a) or the standards described in subsection (c), the Administrator shall seek input from the State agencies responsible for enforcing [section 31102 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31102), United States Code. “SEC. 5225. ACCIDENT REVIEW.“(a) In General.—Not later than 1 year after a certification under section 5223, the Secretary shall task the Motor Carrier Safety Advisory Committee with reviewing the treatment of preventable crashes under the SMS. “(b) Duties.—Not later than 6 months after being tasked under subsection (a), the Motor Carrier Safety Advisory Committee shall make recommendations to the Secretary on a process to allow motor carriers and drivers to request that the Administrator make a determination with respect to the preventability of a crash, if such a process has not yet been established by the Secretary. “(c) Report.—The Secretary shall—“(1) review and consider the recommendations provided by the Motor Carrier Safety Advisory Committee; and “(2) report to Congress on how the Secretary intends to address the treatment of preventable crashes. “(d) Preventable Defined.—In this section, the term ‘preventable’ has the meaning given that term in Appendix B of part 385 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this Act [Dec. 4, 2015].”
+
 #### Administration of Grant Programs
 Pub. L. 112–141, div. C, title II, § 32603(i), July 6, 2012, 126 Stat. 808, provided that: “The Secretary [of Transportation] is authorized to identify and implement processes to reduce the administrative burden on the States and the Department of Transportation concerning the application and management of the grant programs authorized under chapter 311 and chapter 313 of title 49, United States Code.”
 
@@ -30,10 +33,10 @@ Pub. L. 112–141, div. C, title II, § 32603(i), July 6, 2012, 126 Stat. 808, p
 Pub. L. 109–347, title VII, § 703, Oct. 13, 2006, 120 Stat. 1944, provided that: “(a) Legal Status Verification for Licensed United States Commercial Drivers.—Not later than 18 months after the date of the enactment of this Act [Oct. 13, 2006], the Secretary of Transportation, in cooperation with the Secretary [of Homeland Security], shall issue regulations to implement the recommendations contained in the memorandum of the Inspector General of the Department of Transportation issued on June 4, 2004 (Control No. 2004–054). “(b) Commercial Driver’s License Antifraud Programs.—Not later than 18 months after the date of the enactment of this Act [Oct. 13, 2006], the Secretary of Transportation, in cooperation with the Secretary [of Homeland Security], shall issue a regulation to implement the recommendations contained in the Report on Federal Motor Carrier Safety Administration Oversight of the Commercial Driver’s License Program (MH–2006–037). “(c) Verification of Commercial Motor Vehicle Traffic.—“(1) Guidelines.—Not later than 18 months after the date of the enactment of this Act [Oct. 13, 2006], the Secretary [of Homeland Security], in consultation with the Secretary of Transportation, shall draft guidelines for Federal, State, and local law enforcement officials, including motor carrier safety enforcement personnel, on how to identify noncompliance with Federal laws uniquely applicable to commercial motor vehicles and commercial motor vehicle operators engaged in cross-border traffic and communicate such noncompliance to the appropriate Federal authorities. Such guidelines shall be coordinated with the training and outreach activities of the Federal Motor Carrier Safety Administration under section 4139 of SAFETEA-LU (Public Law 109–59) [set out below]. “(2) Verification.—Not later than 18 months after the date of the enactment of this Act [Oct. 13, 2006], the Administrator of the Federal Motor Carrier Safety Administration shall modify the final rule regarding the enforcement of operating authority (Docket No. FMCSA–2002–13015) to establish a system or process by which a carrier’s operating authority can be verified during a roadside inspection.”
 
 #### Outreach and Education
-Pub. L. 109–59, title IV, § 4127, Aug. 10, 2005, 119 Stat. 1741, as amended by Pub. L. 111–147, title IV, § 422(g), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, § 2202(g), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, § 202(g), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, § 122(f), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, § 202(f), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, § 202(f), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, § 32603(f), div. G, title II, § 112002(e), July 6, 2012, 126 Stat. 808, 983; Pub. L. 113–159, title I, § 1102(f), Aug. 8, 2014, 128 Stat. 1844; Pub. L. 114–21, title I, § 1102(f), May 29, 2015, 129 Stat. 222, provided that: “(a) In General.—The Secretary [of Transportation] shall conduct, through any combination of grants, contracts, or cooperative agreements, an outreach and education program to be administered by the Federal Motor Carrier Safety Administration and the National Highway Traffic Safety Administration. “(b) Program Elements.—The program shall include, at a minimum, the following:“(1) A program to promote a more comprehensive and national effort to educate commercial motor vehicle drivers and passenger vehicle drivers about how commercial motor vehicle drivers and passenger vehicle drivers can more safely share the road with each other. “(2) A program to promote enhanced traffic enforcement efforts aimed at reducing the incidence of the most common unsafe driving behaviors that cause or contribute to crashes involving commercial motor vehicles and passenger vehicles. “(3) A program to establish a public-private partnership to provide resources and expertise for the development and dissemination of information relating to sharing the road referred to in paragraphs (1) and (2) to each partner’s constituents and to the general public through the use of brochures, videos, paid and public advertisements, the Internet, and other media. “(c) Federal Share.—The Federal share of a program or activity for which a grant is made under this section shall be 100 percent of the cost of such program or activity. “(d) Annual Report.—The Secretary shall prepare and transmit to Congress an annual report on the programs and activities carried out under this section. The final annual report shall be submitted not later than September 30, 2009. “(e) Funding.—From amounts made available under [section 31104(i) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31104/i&num=0&edition=prelim), United States Code, the Secretary shall make available $4,000,000 to the Federal Motor Carrier Safety Administration for each of fiscal years 2013 and 2014 and $3,331,507 to the Federal Motor Carrier Safety Administration for the period beginning on October 1, 2014, and ending on July 31, 2015, to carry out this section (other than subsection (f)). “(f) Study.—The Comptroller General shall update the Government Accountability Office’s evaluation of the ‘Share the Road Safely’ program to determine if it has achieved reductions in the number and severity of commercial motor vehicle crashes, including reductions in the number of deaths and the severity of injuries sustained in these crashes and shall report its updated evaluation to Congress no later than June 30, 2006.”
+Pub. L. 109–59, title IV, § 4127, Aug. 10, 2005, 119 Stat. 1741, as amended by Pub. L. 111–147, title IV, § 422(g), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, § 2202(g), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, § 202(g), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, § 122(f), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, § 202(f), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, § 202(f), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, § 32603(f), div. G, title II, § 112002(e), July 6, 2012, 126 Stat. 808, 983; Pub. L. 113–159, title I, § 1102(f), Aug. 8, 2014, 128 Stat. 1844; Pub. L. 114–21, title I, § 1102(f), May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, § 1102(f), July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, § 1102(f), Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, § 1102(f), Nov. 20, 2015, 129 Stat. 681, which provided for an outreach and education program, was repealed by Pub. L. 114–94, div. A, title V, § 5103(c)(4), Dec. 4, 2015, 129 Stat. 1527. See [section 31110(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31110/c&num=0&edition=prelim).
 
 #### Safety Data Improvement Program
-Pub. L. 109–59, title IV, § 4128, Aug. 10, 2005, 119 Stat. 1742, provided that: “(a) In General.—The Secretary [of Transportation] shall make grants to States for projects and activities to improve the accuracy, timeliness, and completeness of commercial motor vehicle safety data reported to the Secretary. “(b) Eligibility.—A State shall be eligible for a grant under this section in a fiscal year if the Secretary determines that the State has—“(1) conducted a comprehensive audit of its commercial motor vehicle safety data system within the preceding 2 years; “(2) developed a plan that identifies and prioritizes its commercial motor vehicle safety data needs and goals; and “(3) identified performance-based measures to determine progress toward those goals. “(c) Federal Share.—The Federal share of a grant under this section shall be 80 percent of the cost of the activities for which the grant is made. “(d) Biennial Report.—Not later than 2 years after the date of enactment of this Act [Aug. 10, 2005], and biennially thereafter, the Secretary shall transmit to Congress a report on the activities and results of the program carried out under this section, together with any recommendations the Secretary determines appropriate.”
+Pub. L. 109–59, title IV, § 4128, Aug. 10, 2005, 119 Stat. 1742, which provided for grants to States for projects and activities to improve the accuracy, timeliness, and completeness of commercial motor vehicle safety data reported to the Secretary of Transportation, was repealed by Pub. L. 114–94, div. A, title V, § 5101(e)(6), Dec. 4, 2015, 129 Stat. 1525, effective Oct. 1, 2016.
 
 #### Operating Authority Enforcement Assistance for States
 Pub. L. 109–59, title IV, § 4139(a), Aug. 10, 2005, 119 Stat. 1745, provided that: “(1) Training and outreach.—Not later than 180 days after the date of enactment of this Act [Aug. 10, 2005], the Administrator of the Federal Motor Carrier Safety Administration shall conduct outreach and provide training as necessary to State personnel engaged in the enforcement of Federal motor carrier safety regulations to ensure their awareness of the process to be used for verification of the operating authority of motor carriers, including motor carriers of passengers, and to ensure proper enforcement when motor carriers are found to be in violation of operating authority requirements. “(2) Assessment.—The Inspector General of the Department of Transportation may periodically assess the implementation and effectiveness of the training and outreach program.”
@@ -105,114 +108,254 @@ Pub. L. 105–178, title IV, § 4003(h), June 9, 1998, 112 Stat. 398, provided t
 
 
 <a id="section-31102"></a>
-## § 31102. Grants to States
-**(a) General Authority.—** Subject to this section and the availability of amounts, the Secretary of Transportation may make grants to States for the development or implementation of programs for improving motor carrier safety and the enforcement of regulations, standards, and orders of the United States Government on commercial motor vehicle safety, hazardous materials transportation safety, and compatible State regulations, standards, and orders.
+## § 31102. Motor carrier safety assistance program
+**(a) In General.—** The Secretary of Transportation shall administer a motor carrier safety assistance program funded under section 31104.
 
-**(b) Motor Carrier Safety Assistance Program.—**
+**(b) Goal.—** The goal of the program is to ensure that the Secretary, States, local governments, other political jurisdictions, federally recognized Indian tribes, and other persons work in partnership to establish programs to improve motor carrier, commercial motor vehicle, and driver safety to support a safe and efficient surface transportation system by—
 
-(1) **Program goal.—** — The goal of the Motor Carrier Safety Assistance Program is to ensure that the Secretary, States, local government agencies, and other political jurisdictions work in partnership to establish programs to improve motor carrier, commercial motor vehicle, and driver safety to support a safe and efficient surface transportation system by—
+(1) making targeted investments to promote safe commercial motor vehicle transportation, including the transportation of passengers and hazardous materials;
 
-  (A) making targeted investments to promote safe commercial motor vehicle transportation, including transportation of passengers and hazardous materials;
+(2) investing in activities likely to generate maximum reductions in the number and severity of commercial motor vehicle crashes and in fatalities resulting from such crashes;
 
-  (B) investing in activities likely to generate maximum reductions in the number and severity of commercial motor vehicle crashes and fatalities resulting from such crashes;
+(3) adopting and enforcing effective motor carrier, commercial motor vehicle, and driver safety regulations and practices consistent with Federal requirements; and
 
-  (C) adopting and enforcing effective motor carrier, commercial motor vehicle, and driver safety regulations and practices consistent with Federal requirements; and
+(4) assessing and improving statewide performance by setting program goals and meeting performance standards, measures, and benchmarks.
 
-  (D) assessing and improving statewide performance by setting program goals and meeting performance standards, measures, and benchmarks.
+**(c) State Plans.—**
 
-(2) The Secretary shall prescribe procedures for a State to submit a plan under which the State agrees to assume responsibility for improving motor carrier safety and to adopt and enforce regulations, standards, and orders of the Government on commercial motor vehicle safety, hazardous materials transportation safety, or compatible State regulations, standards, and orders. The Secretary shall approve the plan if the Secretary decides the plan is adequate to promote the objectives of this section and the plan—
+(1) **In general.—** — In carrying out the program, the Secretary shall prescribe procedures for a State to submit a multiple-year plan, and annual updates thereto, under which the State agrees to assume responsibility for improving motor carrier safety by adopting and enforcing State regulations, standards, and orders that are compatible with the regulations, standards, and orders of the Federal Government on commercial motor vehicle safety and hazardous materials transportation safety.
 
-  (A) implements performance-based activities, including deployment of technology to enhance the efficiency and effectiveness of commercial motor vehicle safety programs;
+(2) **Contents.—** — The Secretary shall approve a State plan if the Secretary determines that the plan is adequate to comply with the requirements of this section, and the plan—
 
-  (B) designates the State motor vehicle safety agency responsible for administering the plan throughout the State;
+  (A) implements performance-based activities, including deployment and maintenance of technology to enhance the efficiency and effectiveness of commercial motor vehicle safety programs;
 
-  (C) contains satisfactory assurances the agency has or will have the legal authority, resources, and qualified personnel necessary to enforce the regulations, standards, and orders;
+  (B) designates a lead State commercial motor vehicle safety agency responsible for administering the plan throughout the State;
 
-  (D) contains satisfactory assurances the State will devote adequate amounts to the administration of the plan and enforcement of the regulations, standards, and orders;
+  (C) contains satisfactory assurances that the lead State commercial motor vehicle safety agency has or will have the legal authority, resources, and qualified personnel necessary to enforce the regulations, standards, and orders;
 
-  (E) provides that the total expenditure of amounts of the State and its political subdivisions (not including amounts of the Government) for commercial motor vehicle safety programs for enforcement of commercial motor vehicle size and weight limitations, drug interdiction, and State traffic safety laws and regulations under subsection (c) of this section will be maintained at a level at least equal to the average level of that expenditure for the 3 full fiscal years beginning after October 1 of the year 5 years prior to the beginning of each Government fiscal year.11 So in original. The period probably should be a semicolon.
+  (D) contains satisfactory assurances that the State will devote adequate resources to the administration of the plan and enforcement of the regulations, standards, and orders;
 
-  (F) provides a right of entry and inspection to carry out the plan;
+  (E) provides a right of entry (or other method a State may use that the Secretary determines is adequate to obtain necessary information) and inspection to carry out the plan;
 
-  (G) provides that all reports required under this section be submitted to the agency and that the agency will make the reports available to the Secretary on request;
+  (F) provides that all reports required under this section be available to the Secretary on request;
 
-  (H) provides that the agency will adopt the reporting requirements and use the forms for recordkeeping, inspections, and investigations the Secretary prescribes;
+  (G) provides that the lead State commercial motor vehicle safety agency will adopt the reporting requirements and use the forms for recordkeeping, inspections, and investigations that the Secretary prescribes;
 
-  (I) requires registrants of commercial motor vehicles to demonstrate knowledge of applicable safety regulations, standards, and orders of the Government and the State;
+  (H) requires all registrants of commercial motor vehicles to demonstrate knowledge of applicable safety regulations, standards, and orders of the Federal Government and the State;
 
-  (J) provides that the State will grant maximum reciprocity for inspections conducted under the North American Inspection Standard through the use of a nationally accepted system that allows ready identification of previously inspected commercial motor vehicles;
+  (I) provides that the State will grant maximum reciprocity for inspections conducted under the North American Inspection Standards through the use of a nationally accepted system that allows ready identification of previously inspected commercial motor vehicles;
 
-  (K) ensures that activities described in subsection (c)(1) of this section, if financed with grants under subsection (a) of this section, will not diminish the effectiveness of the development and implementation of commercial motor vehicle safety programs described in subsection (a);
+  (J) ensures that activities described in subsection (h), if financed through grants to the State made under this section, will not diminish the effectiveness of the development and implementation of the programs to improve motor carrier, commercial motor vehicle, and driver safety as described in subsection (b);
 
-  (L) ensures that the State agency will coordinate the plan, data collection, and information systems with State highway safety programs under title 23;
+  (K) ensures that the lead State commercial motor vehicle safety agency will coordinate the plan, data collection, and information systems with the State highway safety improvement program required under [section 148(c) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section148/c&num=0&edition=prelim);
 
-  (M) ensures participation in appropriate Federal Motor Carrier Safety Administration systems and other information systems by all appropriate jurisdictions receiving Motor Carrier Safety Assistance Program funding;
+  (L) ensures participation in appropriate Federal Motor Carrier Safety Administration information technology and data systems and other information systems by all appropriate jurisdictions receiving motor carrier safety assistance program funding;
 
-  (N) ensures that information is exchanged among the States in a timely manner;
+  (M) ensures that information is exchanged among the States in a timely manner;
 
-  (O) provides satisfactory assurances that the State will undertake efforts that will emphasize and improve enforcement of State and local traffic safety laws and regulations related to commercial motor vehicle safety;
+  (N) provides satisfactory assurances that the State will undertake efforts that will emphasize and improve enforcement of State and local traffic safety laws and regulations related to commercial motor vehicle safety;
 
-  (P) provides satisfactory assurances that the State will promote activities in support of national priorities and performance goals, including—
+  (O) provides satisfactory assurances that the State will address national priorities and performance goals, including—
 
     (i) activities aimed at removing impaired commercial motor vehicle drivers from the highways of the United States through adequate enforcement of regulations on the use of alcohol and controlled substances and by ensuring ready roadside access to alcohol detection and measuring equipment;
 
     (ii) activities aimed at providing an appropriate level of training to State motor carrier safety assistance program officers and employees on recognizing drivers impaired by alcohol or controlled substances; and
 
-    (iii) interdiction activities affecting the transportation of controlled substances by commercial motor vehicle drivers and training on appropriate strategies for carrying out those interdiction activities;
+    (iii) when conducted with an appropriate commercial motor vehicle inspection, criminal interdiction activities, and appropriate strategies for carrying out those interdiction activities, including interdiction activities that affect the transportation of controlled substances (as defined in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802&num=0&edition=prelim)) and listed in part 1308 of title 21, Code of Federal Regulations, as updated and republished from time to time) by any occupant of a commercial motor vehicle;
 
-  (Q) provides that the State has established and dedicated sufficient resources to a program to ensure that—
+  (P) provides that the State has established and dedicated sufficient resources to a program to ensure that—
 
-    (i) accurate, complete, and timely motor carrier safety data is collected and reported to the Secretary; and
+    (i) the State collects and reports to the Secretary accurate, complete, and timely motor carrier safety data; and
 
-    (ii) the State will participate in a national motor carrier safety data correction system prescribed by the Secretary;
+    (ii) the State participates in a national motor carrier safety data correction system prescribed by the Secretary;
 
-  (R) ensures that the State will cooperate in the enforcement of registration requirements under section 13902 and financial responsibility requirements under sections 13906, 31138, and 31139 and regulations issued thereunder;
+  (Q) ensures that the State will cooperate in the enforcement of financial responsibility requirements under sections 13906, 31138, and 31139 and regulations issued under those sections;
 
-  (S) ensures consistent, effective, and reasonable sanctions;
+  (R) ensures consistent, effective, and reasonable sanctions;
 
-  (T) ensures that roadside inspections will be conducted at a location that is adequate to protect the safety of drivers and enforcement personnel;
+  (S) ensures that roadside inspections will be conducted at locations that are adequate to protect the safety of drivers and enforcement personnel;
 
-  (U) provides that the State will include in the training manual for the licensing examination to drive a noncommercial motor vehicle and a commercial motor vehicle, information on best practices for driving safely in the vicinity of noncommercial and commercial motor vehicles;
+  (T) provides that the State will include in the training manuals for the licensing examination to drive noncommercial motor vehicles and commercial motor vehicles information on best practices for driving safely in the vicinity of noncommercial and commercial motor vehicles;
 
-  (V) provides that the State will enforce the registration requirements of section 13902 by prohibiting the operation of any vehicle discovered to be operated by a motor carrier without a registration issued under such section or to operate beyond the scope of such registration;
+  (U) provides that the State will enforce the registration requirements of sections 13902 and 31134 by prohibiting the operation of any vehicle discovered to be operated by a motor carrier without a registration issued under those sections or to be operated beyond the scope of the motor carrier’s registration;
 
-  (W) provides that the State will conduct comprehensive and highly visible traffic enforcement and commercial motor vehicle safety inspection programs in high-risk locations and corridors;
+  (V) provides that the State will conduct comprehensive and highly visible traffic enforcement and commercial motor vehicle safety inspection programs in high-risk locations and corridors;
 
-  (X) except in the case of an imminent or obvious safety hazard, ensures that an inspection of a vehicle transporting passengers for a motor carrier of passengers is conducted at a station, terminal, border crossing, maintenance facility, destination, or other location where a motor carrier may make a planned stop; and
+  (W) except in the case of an imminent hazard or obvious safety hazard, ensures that an inspection of a vehicle transporting passengers for a motor carrier of passengers is conducted at a bus station, terminal, border crossing, maintenance facility, destination, or other location where a motor carrier may make a planned stop (excluding a weigh station);
 
-  (Y) ensures that the State will transmit to its roadside inspectors the notice of each Federal exemption granted pursuant to section 31315(b) and provided to the State by the Secretary, including the name of the person granted the exemption and any terms and conditions that apply to the exemption.
+  (X) ensures that the State will transmit to its roadside inspectors notice of each Federal exemption granted under [section 31315(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31315/b&num=0&edition=prelim) and sections 390.23 and 390.25 of title 49, Code of Federal Regulations, and provided to the State by the Secretary, including the name of the person that received the exemption and any terms and conditions that apply to the exemption;
 
-(3) If the Secretary disapproves a plan under this subsection, the Secretary shall give the State a written explanation and allow the State to modify and resubmit the plan for approval.
+  (Y) except as provided in subsection (d), provides that the State—
 
-(4) **Maintenance of effort.—**
+    (i) will conduct safety audits of interstate and, at the State’s discretion, intrastate new entrant motor carriers under section 31144(g); and
 
-  (A) *In general.—* — A plan submitted by a State under paragraph (2) shall provide that the total expenditure of amounts of the lead State agency responsible for implementing the plan will be maintained at a level at least equal to the average level of that expenditure for fiscal years 2004 and 2005.
+    (ii) if the State authorizes a third party to conduct safety audits under section 31144(g) on its behalf, the State verifies the quality of the work conducted and remains solely responsible for the management and oversight of the activities;
 
-  (B) *Average level of state expenditures.—* — In estimating the average level of State expenditure under subparagraph (A), the Secretary—
+  (Z) provides that the State agrees to fully participate in the performance and registration information systems management under section 31106(b) not later than October 1, 2020, by complying with the conditions for participation under paragraph (3) of that section, or demonstrates to the Secretary an alternative approach for identifying and immobilizing a motor carrier with serious safety deficiencies in a manner that provides an equivalent level of safety;
 
-    (i) may allow the State to exclude State expenditures for Government-sponsored demonstration or pilot programs; and
+  (AA) in the case of a State that shares a land border with another country, provides that the State—
 
-    (ii) shall require the State to exclude State matching amounts used to receive Government financing under this subsection.
+    (i) will conduct a border commercial motor vehicle safety program focusing on international commerce that includes enforcement and related projects; or
 
-  (C) *Waiver.—* — Upon the request of a State, the Secretary may waive or modify the requirements of this paragraph for 1 fiscal year, if the Secretary determines that a waiver is equitable due to exceptional or uncontrollable circumstances, such as a natural disaster or a serious decline in the financial resources of the State motor carrier safety assistance program agency.
+    (ii) will forfeit all funds calculated by the Secretary based on border-related activities if the State declines to conduct the program described in clause (i) in its plan; and
 
-**(c) Use of Grants To Enforce Other Laws.—** A State may use amounts received under a grant under subsection (a)—
+  (BB) in the case of a State that meets the other requirements of this section and agrees to comply with the requirements established in subsection (l)(3), provides that the State may fund operation and maintenance costs associated with innovative technology deployment under subsection (l)(3) with motor carrier safety assistance program funds authorized under section 31104(a)(1).
 
-(1) for the following activities if the activities are carried out in conjunction with an appropriate inspection of the commercial motor vehicle to enforce Government or State commercial motor vehicle safety regulations:
+(3) **Publication.—**
 
-  (A) enforcement of commercial motor vehicle size and weight limitations at locations other than fixed weight facilities, at specific locations such as steep grades or mountainous terrains where the weight of a commercial motor vehicle can significantly affect the safe operation of the vehicle, or at ports where intermodal shipping containers enter and leave the United States; and
+  (A) *In general.—* — Subject to subparagraph (B), the Secretary shall publish each approved State multiple-year plan, and each annual update thereto, on a publically accessible Internet Web site of the Department of Transportation not later than 30 days after the date the Secretary approves the plan or update.
 
-  (B) detection of the unlawful presence of a controlled substance (as defined under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802&num=0&edition=prelim))) in a commercial motor vehicle or on the person of any occupant (including the operator) of the vehicle; and
+  (B) *Limitation.—* — Before publishing an approved State multiple-year plan or annual update under subparagraph (A), the Secretary shall redact any information identified by the State that, if disclosed—
 
-(2) for documented enforcement of State traffic laws and regulations designed to promote the safe operation of commercial motor vehicles, including documented enforcement of such laws and regulations relating to noncommercial motor vehicles when necessary to promote the safe operation of commercial motor vehicles if the number of motor carrier safety activities (including roadside safety inspections) conducted in the State is maintained at a level at least equal to the average level of such activities conducted in the State in fiscal years 2003, 2004, and 2005; except that the State may not use more than 5 percent of the basic amount the State receives under the grant under subsection (a) for enforcement activities relating to noncommercial motor vehicles described in this paragraph unless the Secretary determines a higher percentage will result in significant increases in commercial motor vehicle safety.
+    (i) would reasonably be expected to interfere with enforcement proceedings; or
 
-**(d) Continuous Evaluation of Plans.—** On the basis of reports submitted by a State motor vehicle safety agency of a State with a plan approved under this section and the Secretary’s own investigations, the Secretary shall make a continuing evaluation of the way the State is carrying out the plan. If the Secretary finds, after notice and opportunity for comment, the State plan previously approved is not being followed or has become inadequate to ensure enforcement of the regulations, standards, or orders, the Secretary shall withdraw approval of the plan and notify the State. The plan stops being effective when the notice is received. A State adversely affected by the withdrawal may seek judicial review under chapter 7 of title 5. Notwithstanding the withdrawal, the State may retain jurisdiction in administrative or judicial proceedings begun before the withdrawal if the issues involved are not related directly to the reasons for the withdrawal.
+    (ii) would reveal enforcement techniques or procedures that would reasonably be expected to risk circumvention of the law.
 
-**(e) Annual Report.—** The Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science and Transportation of the Senate an annual report that—
+**(d) Exclusion of U.S. Territories.—** The requirement that a State conduct safety audits of new entrant motor carriers under subsection (c)(2)(Y) does not apply to a territory of the United States unless required by the Secretary.
 
-(1) analyzes commercial motor vehicle safety trends among the States and documents the most effective commercial motor vehicle safety programs implemented with grants under this section; and
+**(e) Intrastate Compatibility.—** The Secretary shall prescribe regulations specifying tolerance guidelines and standards for ensuring compatibility of intrastate commercial motor vehicle safety laws, including regulations, with Federal motor carrier safety regulations to be enforced under subsections (b) and (c). To the extent practicable, the guidelines and standards shall allow for maximum flexibility while ensuring a degree of uniformity that will not diminish motor vehicle safety.
 
-(2) describes the effect of activities carried out with grants made under this section on commercial motor vehicle safety.
+**(f) Maintenance of Effort.—**
+
+(1) **Baseline.—** — Except as provided under paragraphs (2) and (3) and in accordance with section 5107 of the FAST Act, a State plan under subsection (c) shall provide that the total expenditure of amounts of the lead State commercial motor vehicle safety agency responsible for administering the plan will be maintained at a level each fiscal year that is at least equal to—
+
+  (A) the average level of that expenditure for fiscal years 2004 and 2005; or
+
+  (B) the level of that expenditure for the year in which the Secretary implements a new allocation formula under section 5106 of the FAST Act.
+
+(2) **Adjusted baseline after fiscal year 2017.—** — At the request of a State, the Secretary may evaluate additional documentation related to the maintenance of effort and may make reasonable adjustments to the maintenance of effort baseline after the year in which the Secretary implements a new allocation formula under section 5106 of the FAST Act, and this adjusted baseline will replace the maintenance of effort requirement under paragraph (1).
+
+(3) **Waivers.—** — At the request of a State, the Secretary may waive or modify the requirements of this subsection for a total of 1 fiscal year if the Secretary determines that the waiver or modification is reasonable, based on circumstances described by the State, to ensure the continuation of commercial motor vehicle enforcement activities in the State.
+
+(4) **Level of state expenditures.—** — In estimating the average level of a State’s expenditures under paragraph (1), the Secretary—
+
+  (A) may allow the State to exclude State expenditures for federally sponsored demonstration and pilot programs and strike forces;
+
+  (B) may allow the State to exclude expenditures for activities related to border enforcement and new entrant safety audits; and
+
+  (C) shall require the State to exclude State matching amounts used to receive Federal financing under section 31104.
+
+**(g) Use of Unified Carrier Registration Fees Agreement.—** Amounts generated under section 14504a and received by a State and used for motor carrier safety purposes may be included as part of the State’s match required under section 31104 or maintenance of effort required by subsection (f).
+
+**(h) Use of Grants To Enforce Other Laws.—** When approved as part of a State’s plan under subsection (c), the State may use motor carrier safety assistance program funds received under this section—
+
+(1) if the activities are carried out in conjunction with an appropriate inspection of a commercial motor vehicle to enforce Federal or State commercial motor vehicle safety regulations, for—
+
+  (A) enforcement of commercial motor vehicle size and weight limitations at locations, excluding fixed-weight facilities, such as near steep grades or mountainous terrains, where the weight of a commercial motor vehicle can significantly affect the safe operation of the vehicle, or at ports where intermodal shipping containers enter and leave the United States; and
+
+  (B) detection of and enforcement actions taken as a result of criminal activity, including the trafficking of human beings, in a commercial motor vehicle or by any occupant, including the operator, of the commercial motor vehicle; and
+
+(2) for documented enforcement of State traffic laws and regulations designed to promote the safe operation of commercial motor vehicles, including documented enforcement of such laws and regulations relating to noncommercial motor vehicles when necessary to promote the safe operation of commercial motor vehicles, if—
+
+  (A) the number of motor carrier safety activities, including roadside safety inspections, conducted in the State is maintained at a level at least equal to the average level of such activities conducted in the State in fiscal years 2004 and 2005; and
+
+  (B) the State does not use more than 10 percent of the basic amount the State receives under a grant awarded under section 31104(a)(1) for enforcement activities relating to noncommercial motor vehicles necessary to promote the safe operation of commercial motor vehicles unless the Secretary determines that a higher percentage will result in significant increases in commercial motor vehicle safety.
+
+**(i) Evaluation of Plans and Award of Grants.—**
+
+(1) **Awards.—** — The Secretary shall establish criteria for the application, evaluation, and approval of State plans under this section. Subject to subsection (j), the Secretary may allocate the amounts made available under section 31104(a)(1) among the States.
+
+(2) **Opportunity to cure.—** — If the Secretary disapproves a plan under this section, the Secretary shall give the State a written explanation of the reasons for disapproval and allow the State to modify and resubmit the plan for approval.
+
+**(j) Allocation of Funds.—**
+
+(1) **In general.—** — The Secretary, by regulation, shall prescribe allocation criteria for funds made available under section 31104(a)(1).
+
+(2) **Annual allocations.—** — On October 1 of each fiscal year, or as soon as practicable thereafter, and after making a deduction under section 31104(c), the Secretary shall allocate amounts made available under section 31104(a)(1) to carry out this section for the fiscal year among the States with plans approved under this section in accordance with the criteria prescribed under paragraph (1).
+
+(3) **Elective adjustments.—** — Subject to the availability of funding and notwithstanding fluctuations in the data elements used by the Secretary to calculate the annual allocation amounts, after the creation of a new allocation formula under section 5106 of the FAST Act, the Secretary may not make elective adjustments to the allocation formula that decrease a State’s Federal funding levels by more than 3 percent in a fiscal year. The 3 percent limit shall not apply to the withholding provisions of subsection (k).
+
+**(k) Plan Monitoring.—**
+
+(1) **In general.—** — On the basis of reports submitted by the lead State agency responsible for administering a State plan approved under this section and an investigation by the Secretary, the Secretary shall periodically evaluate State implementation of and compliance with the State plan.
+
+(2) **Withholding of funds.—**
+
+  (A) *Disapproval.—* — If, after notice and an opportunity to be heard, the Secretary finds that a State plan previously approved under this section is not being followed or has become inadequate to ensure enforcement of State regulations, standards, or orders described in subsection (c)(1), or the State is otherwise not in compliance with the requirements of this section, the Secretary may withdraw approval of the State plan and notify the State. Upon the receipt of such notice, the State plan shall no longer be in effect and the Secretary shall withhold all funding to the State under this section.
+
+  (B) *Noncompliance withholding.—* — In lieu of withdrawing approval of a State plan under subparagraph (A), the Secretary may, after providing notice to the State and an opportunity to be heard, withhold funding from the State to which the State would otherwise be entitled under this section for the period of the State’s noncompliance. In exercising this option, the Secretary may withhold—
+
+    (i) up to 5 percent of funds during the fiscal year that the Secretary notifies the State of its noncompliance;
+
+    (ii) up to 10 percent of funds for the first full fiscal year of noncompliance;
+
+    (iii) up to 25 percent of funds for the second full fiscal year of noncompliance; and
+
+    (iv) not more than 50 percent of funds for the third and any subsequent full fiscal year of noncompliance.
+
+(3) **Judicial review.—** — A State adversely affected by a determination under paragraph (2) may seek judicial review under chapter 7 of title 5. Notwithstanding the disapproval of a State plan under paragraph (2)(A) or the withholding of funds under paragraph (2)(B), the State may retain jurisdiction in an administrative or a judicial proceeding that commenced before the notice of disapproval or withholding if the issues involved are not related directly to the reasons for the disapproval or withholding.
+
+**(l) High Priority Program.—**
+
+(1) **In general.—** — The Secretary shall administer a high priority program funded under section 31104(a)(2) for the purposes described in paragraphs (2) and (3).
+
+(2) **Activities related to motor carrier safety.—** — The Secretary may make discretionary grants to and enter into cooperative agreements with States, local governments, federally recognized Indian tribes, other political jurisdictions as necessary, and any person to carry out high priority activities and projects that augment motor carrier safety activities and projects planned in accordance with subsections (b) and (c), including activities and projects that—
+
+  (A) increase public awareness and education on commercial motor vehicle safety;
+
+  (B) target unsafe driving of commercial motor vehicles and noncommercial motor vehicles in areas identified as high risk crash corridors;
+
+  (C) improve the safe and secure movement of hazardous materials;
+
+  (D) improve safe transportation of goods and persons in foreign commerce;
+
+  (E) demonstrate new technologies to improve commercial motor vehicle safety;
+
+  (F) support participation in performance and registration information systems management under section 31106(b)—
+
+    (i) for entities not responsible for submitting the plan under subsection (c); or
+
+    (ii) for entities responsible for submitting the plan under subsection (c)—
+
+      (I) before October 1, 2020, to achieve compliance with the requirements of participation; and
+
+      (II) beginning on October 1, 2020, or once compliance is achieved, whichever is sooner, for special initiatives or projects that exceed routine operations required for participation;
+
+  (G) conduct safety data improvement projects—
+
+    (i) that complete or exceed the requirements under subsection (c)(2)(P) for entities not responsible for submitting the plan under subsection (c); or
+
+    (ii) that exceed the requirements under subsection (c)(2)(P) for entities responsible for submitting the plan under subsection (c); and
+
+  (H) otherwise improve commercial motor vehicle safety and compliance with commercial motor vehicle safety regulations.
+
+(3) **Innovative technology deployment grant program.—**
+
+  (A) *In general.—* — The Secretary shall establish an innovative technology deployment grant program to make discretionary grants to eligible States for the innovative technology deployment of commercial motor vehicle information systems and networks.
+
+  (B) *Purposes.—* — The purposes of the program shall be—
+
+    (i) to advance the technological capability and promote the deployment of intelligent transportation system applications for commercial motor vehicle operations, including commercial motor vehicle, commercial driver, and carrier-specific information systems and networks; and
+
+    (ii) to support and maintain commercial motor vehicle information systems and networks—
+
+      (I) to link Federal motor carrier safety information systems with State commercial motor vehicle systems;
+
+      (II) to improve the safety and productivity of commercial motor vehicles and drivers; and
+
+      (III) to reduce costs associated with commercial motor vehicle operations and Federal and State commercial motor vehicle regulatory requirements.
+
+  (C) *Eligibility.—* — To be eligible for a grant under this paragraph, a State shall—
+
+    (i) have a commercial motor vehicle information systems and networks program plan approved by the Secretary that describes the various systems and networks at the State level that need to be refined, revised, upgraded, or built to accomplish deployment of commercial motor vehicle information systems and networks capabilities;
+
+    (ii) certify to the Secretary that its commercial motor vehicle information systems and networks deployment activities, including hardware procurement, software and system development, and infrastructure modifications—
+
+      (I) are consistent with the national intelligent transportation systems and commercial motor vehicle information systems and networks architectures and available standards; and
+
+      (II) promote interoperability and efficiency to the extent practicable; and
+
+    (iii) agree to execute interoperability tests developed by the Federal Motor Carrier Safety Administration to verify that its systems conform with the national intelligent transportation systems architecture, applicable standards, and protocols for commercial motor vehicle information systems and networks.
+
+  (D) *Use of funds.—* — Grant funds received under this paragraph may be used—
+
+    (i) for deployment activities and activities to develop new and innovative advanced technology solutions that support commercial motor vehicle information systems and networks;
+
+    (ii) for planning activities, including the development or updating of program or top level design plans in order to become eligible or maintain eligibility under subparagraph (C); and
+
+    (iii) for the operation and maintenance costs associated with innovative technology.
+
+  (E) *Secretary authorization.—* — The Secretary is authorized to award a State funding for the operation and maintenance costs associated with innovative technology deployment with funds made available under sections 31104(a)(1) and 31104(a)(2).
 
 ### Statutory Notes
 
@@ -236,7 +379,12 @@ In subsection (c), before clause (1), the words “type of” are omitted as unn
 
 In subsection (d), the words “the regulations, standards, or orders” are substituted for “Federal rules, regulations, standards, or orders applicable to commercial motor vehicle safety or compatible State rules, regulations, standards, or orders” for consistency and to eliminate unnecessary words. The last sentence is substituted for 49 App.:2302(c) (last sentence) for clarity.
 
+#### References in Text
+Sections 5106 and 5107 of the FAST Act, referred to in subsecs. (f)(1), (2) and (j)(3), are sections 5106 and 5107 of Pub. L. 114–94, which are set out as notes below.
+
 #### Amendments
+2015—Pub. L. 114–94 amended section generally. Prior to amendment, section related to grants to States for programs to improve motor carrier safety.
+
 2012—Subsec. (b). Pub. L. 112–141, § 32601(a)(1), amended heading generally, substituting “Motor Carrier Safety Assistance Program” for “State Plan Procedures and Contents”.
 
 Subsec. (b)(1). Pub. L. 112–141, § 32601(a)(3), added par. (1). Former par. (1) redesignated (2).
@@ -335,30 +483,44 @@ Subsec. (b)(1)(S), (T). Pub. L. 105–178, § 4003(c)(5)(B), (8), added subpars.
 
 1995—Subsec. (b)(1)(Q). Pub. L. 104–88 added subpar. (Q).
 
+#### Effective Date of 2015 Amendment
+Pub. L. 114–94, div. A, title V, § 5101(f), Dec. 4, 2015, 129 Stat. 1526, provided that: “The amendments made by this section [amending this section and sections 31103, 31104, 31106, and 31144 of this title, repealing sections 31107 and 31109 of this title, amending provisions set out as a note under [section 31133 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31133), and repealing provisions set out as notes under this section and sections 31100, 31106, 31136, and 31301 of this title] shall take effect on October 1, 2016.”
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
+#### Transition
+Pub. L. 114–94, div. A, title V, § 5101(g), Dec. 4, 2015, 129 Stat. 1526, provided that: “Notwithstanding the amendments made by this section [see Effective Date of 2015 Amendment note above], the Secretary [of Transportation] shall carry out sections 31102, 31103, and 31104 of title 49, United States Code, and any sections repealed under subsection (e) [repealing sections 31107 and 31109 of this title and provisions set out as notes under this section and sections 31100, 31106, 31136, and 31301 of this title], as necessary, as those sections were in effect on the day before October 1, 2016, with respect to applications for grants, cooperative agreements, or contracts under those sections submitted before October 1, 2016.”
+
+#### Motor Carrier Safety Assistance Program Allocation
+Pub. L. 114–94, div. A, title V, § 5106, Dec. 4, 2015, 129 Stat. 1530, provided that: “(a) Working Group.—“(1) Establishment.—Not later than 180 days after the date of enactment of this Act [Dec. 4, 2015], the Secretary [of Transportation] shall establish a motor carrier safety assistance program formula working group (in this section referred to as the ‘working group’). “(2) Membership.—“(A) In general.—Subject to subparagraph (B), the working group shall consist of representatives of the following:“(i) The Federal Motor Carrier Safety Administration. “(ii) The lead State commercial motor vehicle safety agencies responsible for administering the plan required by [section 31102 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31102), United States Code. “(iii) An organization representing State agencies responsible for enforcing a program for inspection of commercial motor vehicles. “(iv) Such other persons as the Secretary considers necessary. “(B) Composition.—Representatives of State commercial motor vehicle safety agencies shall comprise at least 51 percent of the membership. “(3) New allocation formula.—The working group shall analyze requirements and factors for the establishment of a new allocation formula for the motor carrier safety assistance program under [section 31102 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31102), United States Code. “(4) Recommendation.—Not later than 1 year after the date the working group is established under paragraph (1), the working group shall make a recommendation to the Secretary regarding a new allocation formula for the motor carrier safety assistance program. “(5) Exemption.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group established under this subsection. “(6) Publication.—The Administrator of the Federal Motor Carrier Safety Administration shall publish on a publicly accessible Internet Web site of the Federal Motor Carrier Safety Administration—“(A) detailed summaries of the meetings of the working group; and “(B) the final recommendation of the working group provided to the Secretary. “(b) Notice of Proposed Rulemaking.—After receiving the recommendation of the working group under subsection (a)(4), the Secretary shall publish in the Federal Register a notice seeking public comment on the establishment of a new allocation formula for the motor carrier safety assistance program. “(c) Basis for Formula.—The Secretary shall ensure that the new allocation formula for the motor carrier safety assistance program is based on factors that reflect, at a minimum—“(1) the relative needs of the States to comply with [section 31102 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31102), United States Code; “(2) the relative administrative capacities of and challenges faced by States in complying with that section; “(3) the average of each State’s new entrant motor carrier inventory for the 3-year period prior to the date of enactment of this Act; “(4) the number of international border inspection facilities and border crossings by commercial vehicles in each State; and “(5) any other factors the Secretary considers appropriate. “(d) Funding Amounts Prior to Development of New Allocation Formula.—“(1) Interim formula.—Prior to the development of the new allocation formula for the motor carrier safety assistance program, the Secretary may calculate the interim funding amounts for that program in fiscal year 2017 (and later fiscal years, as necessary) under [section 31104(a)(1) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31104/a/1&num=0&edition=prelim), United States Code, as amended by this subtitle, by using the following methodology:“(A) The Secretary shall calculate the funding amount to a State using the allocation formula the Secretary used to award motor carrier safety assistance program funding in fiscal year 2016 under [section 31102 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31102), United States Code. “(B) The Secretary shall average the funding awarded or other equitable amounts to a State in fiscal years 2013, 2014, and 2015 for—“(i) border enforcement grants under [section 31107 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31107), United States Code; and “(ii) new entrant audit grants under section 31144(g)(5) of that title. “(C) The Secretary shall add the amounts calculated in subparagraphs (A) and (B). “(2) Adjustments.—Subject to the availability of funding and notwithstanding fluctuations in the data elements used by the Secretary, the initial amounts resulting from the calculation described in paragraph (1) shall be adjusted to ensure that, for each State, the amount shall not be less than 97 percent of the average amount of funding received or other equitable amounts in fiscal years 2013, 2014, and 2015 for—“(A) motor carrier safety assistance program funds awarded to the State under [section 31102 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31102), United States Code; “(B) border enforcement grants awarded to the State under [section 31107 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31107), United States Code; and “(C) new entrant audit grants awarded to the State under [section 31144(g)(5) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31144/g/5&num=0&edition=prelim), United States Code. “(3) Immediate relief.—On the date of enactment of this Act, and for the 3 fiscal years following the implementation of the new allocation formula, the Secretary shall terminate the withholding of motor carrier safety assistance program funds from a State if the State was subject to the withholding of such funds for matters of noncompliance immediately prior to the date of enactment of this Act. “(4) Future withholdings.—Beginning on the date that the new allocation formula for the motor carrier safety assistance program is implemented, the Secretary shall impose all future withholdings in accordance with [section 31102(k) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31102/k&num=0&edition=prelim), United States Code, as amended by this subtitle. “(e) Termination of Working Group.—The working group established under subsection (a) shall terminate on the date of the implementation of the new allocation formula for the motor carrier safety assistance program.”
+
+#### Maintenance of Effort Calculation
+Pub. L. 114–94, div. A, title V, § 5107, Dec. 4, 2015, 129 Stat. 1532, provided that: “(a) Before New Allocation Formula.—“(1) Fiscal year 2017.—If a new allocation formula for the motor carrier safety assistance program has not been established under this subtitle [subtitle A (§§ 5101–5107) of title V of div. A of Pub. L. 114–94, see Tables for classification] for fiscal year 2017, the Secretary [of Transportation] shall calculate for fiscal year 2017 the maintenance of effort baseline required under [section 31102(f) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31102/f&num=0&edition=prelim), United States Code, as amended by this subtitle, by averaging the expenditures for fiscal years 2004 and 2005 required by [section 31102(b)(4) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31102/b/4&num=0&edition=prelim), United States Code, as that section was in effect on the day before the date of enactment of this Act [Dec. 4, 2015]. “(2) Subsequent fiscal years.—The Secretary may use the methodology for calculating the maintenance of effort baseline specified in paragraph (1) for fiscal year 2018 and subsequent fiscal years if a new allocation formula for the motor carrier safety assistance program has not been established for that fiscal year. “(b) Beginning With New Allocation Formation.—“(1) In general.—Subject to paragraphs (2) and (3)(B), beginning on the date that a new allocation formula for the motor carrier safety assistance program is established under this subtitle, upon the request of a State, the Secretary may waive or modify the baseline maintenance of effort required of the State by [section 31102(f) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31102/f&num=0&edition=prelim), United States Code, as amended by this subtitle, for the purpose of establishing a new baseline maintenance of effort if the Secretary determines that a waiver or modification—“(A) is equitable due to reasonable circumstances; “(B) will ensure the continuation of commercial motor vehicle enforcement activities in the State; and “(C) is necessary to ensure that the total amount of State maintenance of effort and matching expenditures required under sections 31102 and 31104 of title 49, United States Code, as amended by this subtitle, does not exceed a sum greater than the average of the total amount of State maintenance of effort and matching expenditures required under those sections for the 3 fiscal years prior to the date of enactment of this Act. “(2) Adjustment methodology.—If requested by a State, the Secretary may modify the maintenance of effort baseline referred to in paragraph (1) for the State according to the following methodology:“(A) The Secretary shall establish the maintenance of effort baseline for the State using the average baseline of fiscal years 2004 and 2005, as required by [section 31102(b)(4) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31102/b/4&num=0&edition=prelim), United States Code, as that section was in effect on the day before the date of enactment of this Act. “(B) The Secretary shall calculate the average required match by a lead State commercial motor vehicle safety agency for fiscal years 2013, 2014, and 2015 for motor carrier safety assistance grants established at 20 percent by [section 31103 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31103), United States Code, as that section was in effect on the day before the date of enactment of this Act. “(C) The Secretary shall calculate the estimated match required under [section 31104(b) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31104/b&num=0&edition=prelim), United States Code, as amended by this subtitle. “(D) The Secretary shall subtract the amount in subparagraph (B) from the amount in subparagraph (C) and—“(i) if the number is greater than 0, the Secretary shall subtract the number from the amount in subparagraph (A); or “(ii) if the number is not greater than 0, the Secretary shall calculate the maintenance of effort using the methodology in subparagraph (A). “(3) Maintenance of effort amount.—“(A) In general.—The Secretary shall use the amount calculated under paragraph (2) as the baseline maintenance of effort required under [section 31102(f) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31102/f&num=0&edition=prelim), United States Code, as amended by this subtitle. “(B) Deadline.—If a State does not request a waiver or modification under this subsection before September 30 during the first fiscal year that the Secretary implements a new allocation formula for the motor carrier safety assistance program under this subtitle, the Secretary shall calculate the maintenance of effort using the methodology described in paragraph (2)(A). “(4) Maintenance of effort described.—The maintenance of effort calculated under this section is the amount required under [section 31102(f) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31102/f&num=0&edition=prelim), United States Code, as amended by this subtitle. “(c) Termination of Effectiveness.—The authority of the Secretary under this section shall terminate effective on the date that a new maintenance of effort baseline is calculated based on a new allocation formula for the motor carrier safety assistance program implemented under [section 31102 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31102), United States Code.”
 
 #### Relationship to Other Laws
 Except as provided in sections 14504, 14504a, and 14506 of this title, subtitle C (§§ 4301–4308) of title IV of Pub. L. 109–59 is not intended to prohibit any State or any political subdivision of any State from enacting, imposing, or enforcing any law or regulation with respect to a motor carrier, motor private carrier, broker, freight forwarder, or leasing company that is not otherwise prohibited by law, see section 4302 of Pub. L. 109–59, set out as a note under [section 13902 of this title](./chapter-139-registration.md#section-13902).
 
 #### Maintenance of Effort
-Pub. L. 106–159, title I, § 103(c), Dec. 9, 1999, 113 Stat. 1753, provided that: “The Secretary may not make, from funds made available by or under this section [amending [section 31107 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31107), enacting provisions set out as notes under this section and [section 31104 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31104), and amending a provision set out as a note under [section 104 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section104&num=0&edition=prelim), Highways] (including any amendment made by this section), a grant to a State unless the State first enters into a binding agreement with the Secretary that provides that the total expenditures of amounts of the State and its political subdivisions (not including amounts of the United States) for the development or implementation of programs for improving motor carrier safety and enforcement of regulations, standards, and orders of the United States on commercial motor vehicle safety, hazardous materials transportation safety, and compatible State regulations, standards, and orders will be maintained at a level at least equal to the average level of such expenditures for fiscal years 1997, 1998, and 1999.”
+Pub. L. 106–159, title I, § 103(c), Dec. 9, 1999, 113 Stat. 1753, which related to maintenance of effort as condition on grants to States, was repealed by Pub. L. 114–94, div. A, title V, § 5101(e)(8), Dec. 4, 2015, 129 Stat. 1525, effective Oct. 1, 2016.
 
 #### State Compliance With CDL Requirements
-Pub. L. 106–159, title I, § 103(e), Dec. 9, 1999, 113 Stat. 1754, provided that: “(1) Withholding of allocation for noncompliance.—If a State is not in substantial compliance with each requirement of [section 31311 of title 49](./chapter-313-commercial-motor-vehicle-operators.md#section-31311), United States Code, the Secretary shall withhold all amounts that would be allocated, but for this paragraph, to the State from funds made available by or under this section (including any amendment made by this section). “(2) Period of availability of withheld funds.—Any funds withheld under paragraph (1) from any State shall remain available until June 30 of the fiscal year for which the funds are authorized to be appropriated. “(3) Allocation of withheld funds after compliance.—If, before the last day of the period for which funds are withheld under paragraph (1) from allocation are to remain available for allocation to a State under paragraph (2), the Secretary determines that the State is in substantial compliance with each requirement of [section 31311 of title 49](./chapter-313-commercial-motor-vehicle-operators.md#section-31311), United States Code, the Secretary shall allocate to the State the withheld funds. “(4) Period of availability of subsequently allocated funds.—Any funds allocated pursuant to paragraph (3) shall remain available for expenditure until the last day of the first fiscal year following the fiscal year in which the funds are so allocated. Sums not expended at the end of such period are released to the Secretary for reallocation. “(5) Effect of noncompliance.—If, on June 30 of the fiscal year in which funds are withheld from allocation under paragraph (1), the State is not substantially complying with each requirement of [section 31311 of title 49](./chapter-313-commercial-motor-vehicle-operators.md#section-31311), United States Code, the funds are released to the Secretary for reallocation.”
+Pub. L. 106–159, title I, § 103(e), Dec. 9, 1999, 113 Stat. 1754, which related to State compliance with CDL requirements and withholding of funds for noncompliance, was repealed by Pub. L. 114–94, div. A, title V, § 5101(e)(9), Dec. 4, 2015, 129 Stat. 1525, effective Oct. 1, 2016.
 
 #### Effects of MCSAP Grant Reductions
-Pub. L. 105–178, title IV, § 4032, June 9, 1998, 112 Stat. 419, provided that: “(a) Study.—The Secretary [of Transportation] shall conduct a study on the effects of reductions of grants under [section 31102 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31102), United States Code, due to nonconformity of State intrastate motor carrier, commercial motor vehicle, and driver requirements with Federal interstate requirements. In conducting the study, the Secretary shall consider, at a minimum—“(1) national uniformity and the purposes of the motor carrier safety assistance program; “(2) State motor carrier, commercial motor vehicle, and driver safety oversight and enforcement capabilities; and “(3) the safety impacts, costs, and benefits of full participation in the program. “(b) Report.—Not later than 2 years after the date of the enactment of this Act [June 9, 1998], the Secretary shall submit to Congress a report on the results of the study. “(c) Adjustment of State Allocations.—The Secretary is authorized to adjust State allocations under [section 31103 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31103), United States Code, to reflect the results of the study.”
+Pub. L. 105–178, title IV, § 4032, June 9, 1998, 112 Stat. 419, required the Secretary of Transportation to conduct a study and submit a report not later than two years after June 9, 1998 on the effects of reductions of grants under this section and authorized the Secretary to adjust State allocations under [section 31103 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31103) based on the study.
 
 
 <a id="section-31103"></a>
-## § 31103. United States Government’s share of costs
-**(a) Commercial Motor Vehicle Safety Programs and Enforcement.—** The Secretary of Transportation shall reimburse a State, from a grant made under this subchapter, an amount that is not more than 80 percent of the costs incurred by the State in a fiscal year in developing and implementing programs to improve commercial motor vehicle safety and enforce commercial motor vehicle regulations, standards, or orders adopted under this subchapter or subchapter II of this chapter. In determining those costs, the Secretary shall include in-kind contributions by the State. Amounts of the State and its political subdivisions required to be expended under [section 31102(b)(2)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31102/b/2/E&num=0&edition=prelim) may not be included as part of the share not provided by the United States Government. Amounts generated under the unified carrier registration agreement under section 14504a and received by a State and used for motor carrier safety purposes may be included as part of the State’s share not provided by the United States. The Secretary may allocate among the States whose applications for grants have been approved those amounts appropriated for grants to support those programs, under criteria that may be established.
+## § 31103. Commercial motor vehicle operators grant program
+**(a) In General.—** The Secretary shall administer a commercial motor vehicle operators grant program funded under section 31104.
 
-**(b) Other Activities.—** The Secretary may reimburse State agencies, local governments, or other persons up to 100 percent for public education activities.
+**(b) Purpose.—** The purpose of the grant program is to train individuals in the safe operation of commercial motor vehicles (as defined in section 31301).
+
+**(c) Veterans.—** In administering grants under this section, the Secretary shall award priority to grant applications for programs to train former members of the armed forces (as defined in [section 101 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim)) in the safe operation of such vehicles.
 
 ### Statutory Notes
 
@@ -370,6 +532,8 @@ Pub. L. 105–178, title IV, § 4032, June 9, 1998, 112 Stat. 419, provided that
 The word “rules” is omitted as being synonymous with “regulations”.
 
 #### Amendments
+2015—Pub. L. 114–94 amended section generally. Prior to amendment, section related to United States Government’s share of costs incurred by a State.
+
 2012—Subsec. (a). Pub. L. 112–141, § 32933(c), substituted “section 31102(b)(2)(E)” for “section 31102(b)(1)(E)”.
 
 Subsec. (b). Pub. L. 112–141, § 32933(d), struck out “authorized by section 31104(f)(2)” after “public education activities”.
@@ -377,6 +541,9 @@ Subsec. (b). Pub. L. 112–141, § 32933(d), struck out “authorized by section
 2005—Subsec. (a). Pub. L. 109–59 substituted “31102(b)(1)(E)” for “31102(b)(1)(D)” and inserted before last sentence “Amounts generated under the unified carrier registration agreement under section 14504a and received by a State and used for motor carrier safety purposes may be included as part of the State’s share not provided by the United States.”
 
 1998—Pub. L. 105–178 designated existing provisions as subsec. (a), inserted subsec. heading, inserted “improve commercial motor vehicle safety and” after “implementing programs to”, and added subsec. (b).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2016, subject to a transition provision, see section 5101(f), (g) of Pub. L. 114–94, set out as Effective Date of 2015 Amendment and Transition notes under [section 31102 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31102).
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
@@ -386,86 +553,80 @@ Except as provided in sections 14504, 14504a, and 14506 of this title, subtitle 
 
 
 <a id="section-31104"></a>
-## § 31104. Availability of amounts
-**(a) In General.—** Subject to subsection (f), there are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out section 31102—
+## § 31104. Authorization of appropriations
+**(a) Financial Assistance Programs.—** The following sums are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account):
 
-(1) $188,480,000 for fiscal year 2005;
+(1) **Motor carrier safety assistance program.—** — Subject to paragraph (2) and subsection (c), to carry out section 31102 (except subsection (l))—
 
-(2) $188,000,000 for fiscal year 2006;
+  (A) $292,600,000 for fiscal year 2017;
 
-(3) $197,000,000 for fiscal year 2007;
+  (B) $298,900,000 for fiscal year 2018;
 
-(4) $202,000,000 for fiscal year 2008;
+  (C) $304,300,000 for fiscal year 2019; and
 
-(5) $209,000,000 for fiscal year 2009;
+  (D) $308,700,000 for fiscal year 2020.
 
-(6) $209,000,000 for fiscal year 2010;
+(2) **High priority activities program.—** — Subject to subsection (c), to carry out section 31102(l)—
 
-(7) $209,000,000 for fiscal year 2011;
+  (A) $42,200,000 for fiscal year 2017;
 
-(8) $215,000,000 for fiscal year 2013;
+  (B) $43,100,000 for fiscal year 2018;
 
-(9) $218,000,000 for fiscal year 2014; and
+  (C) $44,000,000 for fiscal year 2019; and
 
-(10) $181,567,123 for the period beginning on October 1, 2014, and ending on July 31, 2015.
+  (D) $44,900,000 for fiscal year 2020.
 
-**(b) Availability and Reallocation of Amounts.—** Amounts made available under subsection (a) of this section remain available until expended. Allocations to a State remain available for expenditure in the State for the fiscal year in which they are allocated and for the next fiscal year. Amounts not expended by a State during those 2 fiscal years are released to the Secretary for reallocation.
+(3) **Commercial motor vehicle operators grant program.—** — To carry out section 31103—
 
-**(c) Reimbursement for Government’s Share of Costs.—** Amounts made available under subsection (a) of this section shall be used to reimburse States proportionately for the United States Government’s share of costs incurred.
+  (A) $1,000,000 for fiscal year 2017;
 
-**(d) Grants as Contractual Obligations.—** Approval by the Secretary of a grant to a State under [section 31102 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31102) is a contractual obligation of the Government for payment of the Government’s share of costs incurred by the State in developing, implementing, or developing and implementing programs to enforce commercial motor vehicle regulations, standards, and orders.
+  (B) $1,000,000 for fiscal year 2018;
 
-**(e) Deduction for Administrative Expenses.—** On October 1 of each fiscal year or as soon after that date as practicable, the Secretary may deduct, from amounts made available under subsection (a) of this section for that fiscal year, not more than 1.25 percent of those amounts for administrative expenses incurred in carrying out [section 31102 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31102) in that fiscal year. The Secretary shall use at least 75 percent of those deducted amounts to train non-Government employees and to develop related training materials in carrying out section 31102.
+  (C) $1,000,000 for fiscal year 2019; and
 
-**(f) Allocation Criteria and Eligibility.—** On October 1 of each fiscal year or as soon after that date as practicable and after making the deduction under subsection (e), the Secretary shall allocate amounts made available to carry out section 31102 for such fiscal year among the States with plans approved under section 31102. Such allocation shall be made under such criteria as the Secretary prescribes by regulation.
+  (D) $1,000,000 for fiscal year 2020.
 
-**(g) Payment to States for Costs.—** Each State shall submit vouchers for costs the State incurs under this section and [section 31102 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31102). The Secretary shall pay the State an amount not more than the Government share of costs incurred as of the date of the vouchers.
+(4) **Commercial driver’s license program implementation program.—** — Subject to subsection (c), to carry out section 31313—
 
-**(h) Intrastate Compatibility.—** The Secretary shall prescribe regulations specifying tolerance guidelines and standards for ensuring compatibility of intrastate commercial motor vehicle safety laws and regulations with Government motor carrier safety regulations to be enforced under [section 31102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31102/a&num=0&edition=prelim). To the extent practicable, the guidelines and standards shall allow for maximum flexibility while ensuring the degree of uniformity that will not diminish transportation safety. In reviewing State plans and allocating amounts or making grants under [section 153 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section153&num=0&edition=prelim), the Secretary shall ensure that the guidelines and standards are applied uniformly.
+  (A) $31,200,000 for fiscal year 2017;
 
-**(i) Administrative Expenses.—**
+  (B) $31,800,000 for fiscal year 2018;
 
-(1) **Authorization of appropriations.—** — There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) for the Secretary of Transportation to pay administrative expenses of the Federal Motor Carrier Safety Administration—
+  (C) $32,500,000 for fiscal year 2019; and
 
-  (A) $254,849,000 for fiscal year 2005;
+  (D) $33,200,000 for fiscal year 2020.
 
-  (B) $213,000,000 for fiscal year 2006;
+**(b) Reimbursement and Payment to Recipients for Government Share of Costs.—**
 
-  (C) $223,000,000 for fiscal year 2007;
+(1) **In general.—** — Amounts made available under subsection (a) shall be used to reimburse financial assistance recipients proportionally for the Federal Government’s share of the costs incurred.
 
-  (D) $228,000,000 for fiscal year 2008;
+(2) **Reimbursement amounts.—** — The Secretary shall reimburse a recipient, in accordance with a financial assistance agreement made under section 31102, 31103, or 31313, an amount that is at least 85 percent of the costs incurred by the recipient in a fiscal year in developing and implementing programs under such sections. The Secretary shall pay the recipient an amount not more than the Federal Government share of the total costs approved by the Federal Government in the financial assistance agreement. The Secretary shall include a recipient’s in-kind contributions in determining the reimbursement.
 
-  (E) $234,000,000 for fiscal year 2009;
+(3) **Vouchers.—** — Each recipient shall submit vouchers at least quarterly for costs the recipient incurs in developing and implementing programs under sections 31102, 31103, and 31313.
 
-  (F) $239,828,000 for fiscal year 2010;
+**(c) Deductions for Partner Training and Program Support.—** On October 1 of each fiscal year, or as soon after that date as practicable, the Secretary may deduct from amounts made available under paragraphs (1), (2), and (4) of subsection (a) for that fiscal year not more than 1.50 percent of those amounts for partner training and program support in that fiscal year. The Secretary shall use at least 75 percent of those deducted amounts to train non-Federal Government employees and to develop related training materials in carrying out such programs.
 
-  (G) $244,144,000 for fiscal year 2011;
+**(d) Grants and Cooperative Agreements as Contractual Obligations.—** The approval of a financial assistance agreement by the Secretary under section 31102, 31103, or 31313 is a contractual obligation of the Federal Government for payment of the Federal Government’s share of costs in carrying out the provisions of the grant or cooperative agreement.
 
-  (H) $251,000,000 for fiscal year 2013;
+**(e) Eligible Activities.—** The Secretary shall establish criteria for eligible activities to be funded with financial assistance agreements under this section and publish those criteria in a notice of funding availability before the financial assistance program application period.
 
-  (I) $259,000,000 for fiscal year 2014; and
+**(f) Period of Availability of Financial Assistance Agreement Funds for Recipient Expenditures.—** The period of availability for a recipient to expend funds under a grant or cooperative agreement authorized under subsection (a) is as follows:
 
-  (J) $215,715,068 for the period beginning on October 1, 2014, and ending on July 31, 2015.
+(1) For grants made for carrying out section 31102, other than section 31102(l), for the fiscal year in which the Secretary approves the financial assistance agreement and for the next fiscal year.
 
-(2) **Use of funds.—** — The funds authorized by this subsection shall be used for personnel costs; administrative infrastructure; rent; information technology; programs for research and technology, information management, regulatory development, the administration of the performance and registration information system management, and outreach and education; other operating expenses; and such other expenses as may from time to time become necessary to implement statutory mandates of the Administration not funded from other sources.
+(2) For grants made or cooperative agreements entered into for carrying out section 31102(l)(2), for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 2 fiscal years.
 
-**(j) Availability of Funds; Contract Authority.—**
+(3) For grants made for carrying out section 31102(l)(3), for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 4 fiscal years.
 
-(1) **Period of availability.—** — The amounts made available under this section shall remain available until expended.
+(4) For grants made for carrying out section 31103, for the fiscal year in which the Secretary approves the financial assistance agreement and for the next fiscal year.
 
-(2) **Initial date of availability.—** — Authorizations from the Highway Trust Fund (other than the Mass Transit Account) by this section shall be available for obligation on the date of their apportionment or allocation or on October 1 of the fiscal year for which they are authorized, whichever occurs first.
+(5) For grants made or cooperative agreements entered into for carrying out section 31313, for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 4 fiscal years.
 
-(3) **Contract authority.—** — Approval by the Secretary of a grant with funds made available under this section imposes upon the United States a contractual obligation for payment of the Government’s share of costs incurred in carrying out the objectives of the grant.
+**(g) Contract Authority; Initial Date of Availability.—** Amounts authorized from the Highway Trust Fund (other than the Mass Transit Account) by this section shall be available for obligation on the date of their apportionment or allocation or on October 1 of the fiscal year for which they are authorized, whichever occurs first.
 
-**(k) High-Priority Activities.—**
+**(h) Availability of Funding.—** Amounts made available under this section shall remain available until expended.
 
-(1) **Criteria.—** — The Secretary shall establish safety performance criteria to be used to distribute high priority program funds under this subsection.
-
-(2) **Set aside.—** — The Secretary may set aside from amounts made available by subsection (a) up to $15,000,000 for each of fiscal years 2006 through 2014 and up to $12,493,151 for the period beginning on October 1, 2014, and ending on July 31, 2015, for States, local governments, and organizations representing government agencies or officials described in paragraph (3) for carrying out high priority activities and projects that improve commercial motor vehicle safety and compliance with commercial motor vehicle safety regulations (including activities and projects that are national in scope), increase public awareness and education, demonstrate new technologies, and reduce the number and rate of accidents involving commercial motor vehicles.
-
-(3) **Description of recipients.—** — Amounts set aside under this subsection shall be allocated by the Secretary only to State agencies, local governments, and organizations representing government agencies or officials that use and train qualified officers and employees in coordination with State motor vehicle safety agencies.
-
-(4) **Limitation.—** — At least 90 percent of the amounts set aside for a fiscal year under this subsection shall be awarded in grants to State agencies and local government agencies.
+**(i) Reallocation.—** Amounts not expended by a recipient during the period of availability shall be released back to the Secretary for reallocation for any purpose under section 31102, 31103, or 31313 or this section to ensure, to the maximum extent possible, that all such amounts are obligated.
 
 ### Statutory Notes
 
@@ -501,11 +662,47 @@ In subsection (i), before clause (1), the words “Not later than 6 months after
 In subsection (j), the words “Not later than 9 months after December 18, 1991” are omitted as obsolete. The word “final” is omitted as unnecessary. The words “regulations to be enforced under [section 31102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31102/a&num=0&edition=prelim)” are substituted for “under the motor carrier safety assistance program” for clarity and because of the restatement.
 
 #### Amendments
-2015—Subsec. (a)(10). Pub. L. 114–21, § 1102(a), amended par. (10) generally. Prior to amendment, par. (10) read as follows: “$145,134,247 for the period beginning on October 1, 2014, and ending on May 31, 2015.”
+2015—Pub. L. 114–94, § 5101(c), amended section generally. Prior to amendment, section related to availability of appropriated amounts.
 
-Subsec. (i)(1)(J). Pub. L. 114–21, § 1102(b), amended subpar. (J) generally. Prior to amendment, subpar. (J) read as follows: “$172,430,137 for the period beginning on October 1, 2014, and ending on May 31, 2015.”
+Subsec. (a)(10). Pub. L. 114–94, § 5105(a), added par. (10) and struck out former par. (10) which read as follows: “$218,000,000 for fiscal year 2015; and”.
 
-Subsec. (k)(2). Pub. L. 114–21, § 1102(d), substituted “and up to $12,493,151 for the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and up to $9,986,301 for the period beginning on October 1, 2014, and ending on May 31, 2015,”.
+Pub. L. 114–41, § 1102(a)(2), added par. (10) and struck out former par. (10) which read as follows: “$181,567,123 for the period beginning on October 1, 2014, and ending on July 31, 2015.”
+
+Pub. L. 114–21, § 1102(a), amended par. (10) generally. Prior to amendment, par. (10) read as follows: “$145,134,247 for the period beginning on October 1, 2014, and ending on May 31, 2015.”
+
+Subsec. (a)(11). Pub. L. 114–94, § 5105(a), added par. (11) and struck out former par. (11) which read as follows: “$38,715,847 for the period beginning on October 1, 2015, and ending on December 4, 2015.”
+
+Pub. L. 114–87, § 1102(a), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “$30,377,049 for the period beginning on October 1, 2015, and ending on November 20, 2015.”
+
+Pub. L. 114–73, § 1102(a), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “$17,273,224 for the period beginning on October 1, 2015, and ending on October 29, 2015.”
+
+Pub. L. 114–41, § 1102(a), added par. (11).
+
+Subsec. (i). Pub. L. 114–94, § 5103(c)(1), redesignated subsec. (j) as (i) and struck out former subsec. (i) which related to authorization of appropriations for certain administrative expenses of the Federal Motor Carrier Safety Administration. See [section 31110 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31110).
+
+Subsec. (i)(1)(J). Pub. L. 114–41, § 1102(b)(2), added subpar. (J) and struck out former subpar. (J) which read as follows: “$215,715,068 for the period beginning on October 1, 2014, and ending on July 31, 2015.”
+
+Pub. L. 114–21, § 1102(b), amended subpar. (J) generally. Prior to amendment, subpar. (J) read as follows: “$172,430,137 for the period beginning on October 1, 2014, and ending on May 31, 2015.”
+
+Subsec. (i)(1)(K). Pub. L. 114–87, § 1102(b), amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: “$36,090,164 for the period beginning on October 1, 2015, and ending on November 20, 2015.”
+
+Pub. L. 114–73, § 1102(b), amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: “$20,521,858 for the period beginning on October 1, 2015, and ending on October 29, 2015.”
+
+Pub. L. 114–41, § 1102(b), added subpar. (K).
+
+Subsec. (j). Pub. L. 114–94, § 5103(c)(1)(B), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
+
+Subsec. (j)(2). Pub. L. 114–94, § 5105(c), substituted “2016 for States,” for “2015 and up to $2,663,934 for the period beginning on October 1, 2015, and ending on December 4, 2015, for States,”.
+
+Subsec. (k). Pub. L. 114–94, § 5103(c)(1)(B), redesignated subsec. (k) as (j).
+
+Subsec. (k)(2). Pub. L. 114–87, § 1102(d), substituted “and up to $2,663,934 for the period beginning on October 1, 2015, and ending on December 4, 2015,” for “and up to $2,090,164 for the period beginning on October 1, 2015, and ending on November 20, 2015,”.
+
+Pub. L. 114–73, § 1102(d), substituted “and up to $2,090,164 for the period beginning on October 1, 2015, and ending on November 20, 2015,” for “and up to $1,188,525 for the period beginning on October 1, 2015, and ending on October 29, 2015,”.
+
+Pub. L. 114–41, § 1102(d), substituted “each of fiscal years 2006 through 2015 and up to $1,188,525 for the period beginning on October 1, 2015, and ending on October 29, 2015,” for “each of fiscal years 2006 through 2014 and up to $12,493,151 for the period beginning on October 1, 2014, and ending on July 31, 2015,”.
+
+Pub. L. 114–21, § 1102(d), substituted “and up to $12,493,151 for the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and up to $9,986,301 for the period beginning on October 1, 2014, and ending on May 31, 2015,”.
 
 2014—Subsec. (a)(10). Pub. L. 113–159, § 1102(a), added par. (10).
 
@@ -629,6 +826,11 @@ Subsec. (j). Pub. L. 105–178, § 4003(g)(4), redesignated subsec. (j) as (h).
 
 1997—Subsec. (a). Pub. L. 105–130 substituted “Not more” for “not more” in pars. (1) to (5) and added par. (6).
 
+#### Effective Date of 2015 Amendment
+Amendment by sections 5103(c)(1) and 5105(a), (c) of Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+Amendment by section 5101(c) of Pub. L. 114–94 effective Oct. 1, 2016, subject to a transition provision, see section 5101(f), (g) of Pub. L. 114–94, set out as Effective Date of 2015 Amendment and Transition notes under [section 31102 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31102).
+
 #### Effective and Termination Dates of 2012 Amendment
 Amendment by section 32603(a), (b) of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
@@ -637,7 +839,7 @@ Amendment by section 112002(a), (b) of Pub. L. 112–141 effective July 1, 2012,
 Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
 #### Funding
-Pub. L. 109–59, title IV, § 4116(d), Aug. 10, 2005, 119 Stat. 1728, provided that: “Amounts made available pursuant to [section 31104(i) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31104/i&num=0&edition=prelim), United States Code, shall be used by the Secretary [of Transportation] to carry out [section 31149 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31149), United States Code.”
+Pub. L. 109–59, title IV, § 4116(d), Aug. 10, 2005, 119 Stat. 1728, as amended by Pub. L. 114–94, div. A, title V, § 5103(c)(2), Dec. 4, 2015, 129 Stat. 1527, provided that: “Amounts made available pursuant to [section 31110 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31110), United States Code, shall be used by the Secretary [of Transportation] to carry out [section 31149 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31149), United States Code.”
 
 #### Increased Authorizations for Motor Carrier Safety Grants
 Pub. L. 105–178, title IV, § 4003(i), as added by Pub. L. 106–159, title I, § 103(b)(1), Dec. 9, 1999, 113 Stat. 1753, provided that: “The amount made available to incur obligations to carry out [section 31102 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31102), United States Code, by section 31104(a) of such title for each of fiscal years 2001 through 2003 shall be increased by $65,000,000.”
@@ -794,7 +996,7 @@ Pub. L. 105–178, title IV, § 4023, June 9, 1998, 112 Stat. 415, provided that
 
   (C) the reliability and availability of the information to the Secretary and States.
 
-**(b) Performance and Registration Information Program.—**
+**(b) Performance and Registration Information Systems Management.—**
 
 (1) **Information clearinghouse.—** — The Secretary shall include, as part of the motor carrier information system authorized by this section, a program to establish and maintain a clearinghouse and repository of information related to State registration and licensing of commercial motor vehicles, the registrants of such vehicles, and the motor carriers operating such vehicles. The clearinghouse and repository may include information on the safety fitness of each of the motor carriers and registrants and other information the Secretary considers appropriate, including information on motor carrier, commercial motor vehicle, and driver safety performance.
 
@@ -815,8 +1017,6 @@ Pub. L. 105–178, title IV, § 4023, June 9, 1998, 112 Stat. 415, provided that
     (i) to cancel the motor vehicle registration and seize the registration plates of a vehicle when an employer is found liable under section 31310(i)(2)(C) for knowingly allowing or requiring an employee to operate such a commercial motor vehicle in violation of an out-of-service order; and
 
     (ii) to reinstate the vehicle registration or return the registration plates of the commercial motor vehicle, subject to sanctions under clause (i), if the Secretary permits such carrier to resume operations after the date of issuance of such order.
-
-(4) **Grants.—** — From the funds authorized by section 31104(i), the Secretary may make a grant in a fiscal year to a State to implement the performance and registration information system management requirements of this subsection.
 
 **(c)**
 
@@ -856,6 +1056,10 @@ Pub. L. 105–178, title IV, § 4023, June 9, 1998, 112 Stat. 415, provided that
 In subsection (b)(2), the word “schedule” is substituted for “system” for clarity.
 
 #### Amendments
+2015—Subsec. (b). Pub. L. 114–94, § 5102, substituted “Systems Management” for “Program” in heading.
+
+Subsec. (b)(4). Pub. L. 114–94, § 5101(e)(2), struck out par. (4). Text read as follows: “From the funds authorized by section 31104(i), the Secretary may make a grant in a fiscal year to a State to implement the performance and registration information system management requirements of this subsection.”
+
 2012—Subsec. (a)(3)(H). Pub. L. 112–141, § 32103(b), added subpar. (H).
 
 Subsec. (b)(3)(C). Pub. L. 112–141, § 32602, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “establish and implement a process to cancel the motor vehicle registration and seize the registration plates of a vehicle when an employer is found liable under section 31310(i)(2)(C) for knowingly allowing or requiring an employee to operate such a commercial motor vehicle in violation of an out-of-service order.”
@@ -870,6 +1074,11 @@ Subsec. (b)(2) to (4). Pub. L. 109–59, § 4109(a), added pars. (2) to (4) and 
 
 1998—Pub. L. 105–178 amended section catchline and text generally, substituting, in subsec. (a), provisions relating to information systems and data analysis for provisions relating to definition of commercial motor vehicle, in subsec. (b), provisions relating to performance and registration information program for provisions relating to information system, in subsec. (c), provisions relating to commercial motor vehicle driver safety program for provisions relating to demonstration project, in subsec. (d), provisions relating to cooperative agreements, grants, and contracts for provisions relating to review of State systems, and in subsec. (e), provisions relating to information availability and privacy protection policy for provisions relating to regulations, and striking out subsecs. (f) and (g), which related to report to Congress and authorization of appropriations, respectively.
 
+#### Effective Date of 2015 Amendment
+Amendment by section 5102 of Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+Amendment by section 5101(e)(2) of Pub. L. 114–94 effective Oct. 1, 2016, see section 5101(f) of Pub. L. 114–94, set out as a note under [section 31102 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31102).
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
@@ -877,27 +1086,20 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under [section 101 of this title](./chapter-001-organization.md#section-101).
 
 #### Commercial Vehicle Information Systems and Networks Deployment
-Pub. L. 109–59, title IV, § 4126, Aug. 10, 2005, 119 Stat. 1738, provided that: “(a) In General.—The Secretary [of Transportation] shall carry out a commercial vehicle information systems and networks program to—“(1) improve the safety and productivity of commercial vehicles and drivers; and “(2) reduce costs associated with commercial vehicle operations and Federal and State commercial vehicle regulatory requirements. “(b) Purpose.—The program shall advance the technological capability and promote the deployment of intelligent transportation system applications for commercial vehicle operations, including commercial vehicle, commercial driver, and carrier-specific information systems and networks. “(c) Core Deployment Grants.—“(1) In general.—The Secretary shall make grants to eligible States for the core deployment of commercial vehicle information systems and networks. “(2) Amount of grants.—The maximum aggregate amount the Secretary may grant to a State for the core deployment of commercial vehicle information systems and networks under this subsection and sections 5001(a)(5) and 5001(a)(6) of the Transportation Equity Act for the 21st Century [Pub. L. 105–178] (112 Stat. 420) may not exceed $2,500,000. “(3) Use of funds.—Funds from a grant under this subsection may only be used for the core deployment of commercial vehicle information systems and networks. An eligible State that has either completed the core deployment of commercial vehicle information systems and networks or completed such deployment before grant funds are expended under this subsection may use the grant funds for the expanded deployment of commercial vehicle information systems and networks in the State. “(d) Expanded Deployment Grants.—“(1) In general.—For each fiscal year, from the funds remaining after the Secretary has made grants under subsection (c), the Secretary may make grants to each eligible State, upon request, for the expanded deployment of commercial vehicle information systems and networks. “(2) Eligibility.—Each State that has completed the core deployment of commercial vehicle information systems and networks in such State is eligible for an expanded deployment grant under this subsection. “(3) Amount of grants.—Each fiscal year, the Secretary may distribute funds available for expanded deployment grants equally among the eligible States, but not to exceed $1,000,000 per State. “(4) Use of funds.—A State may use funds from a grant under this subsection only for the expanded deployment of commercial vehicle information systems and networks. “(e) Eligibility.—To be eligible for a grant under this section, a State—“(1) shall have a commercial vehicle information systems and networks program plan approved by the Secretary that describes the various systems and networks at the State level that need to be refined, revised, upgraded, or built to accomplish deployment of core capabilities; “(2) shall certify to the Secretary that its commercial vehicle information systems and networks deployment activities, including hardware procurement, software and system development, and infrastructure modifications—“(A) are consistent with the national intelligent transportation systems and commercial vehicle information systems and networks architectures and available standards; and “(B) promote interoperability and efficiency to the extent practicable; and “(3) shall agree to execute interoperability tests developed by the Federal Motor Carrier Safety Administration to verify that its systems conform with the national intelligent transportation systems architecture, applicable standards, and protocols for commercial vehicle information systems and networks. “(f) Federal Share.—The Federal share of the cost of a project payable from funds made available to carry out this section shall not exceed 50 percent. The total Federal share of the cost of a project payable from all eligible Federal sources shall not exceed 80 percent. “(g) Definitions.—In this section, the following definitions apply:“(1) Commercial vehicle information systems and networks.—The term ‘commercial vehicle information systems and networks’ means the information systems and communications networks that provide the capability to—“(A) improve the safety of commercial motor vehicle operations; “(B) increase the efficiency of regulatory inspection processes to reduce administrative burdens by advancing technology to facilitate inspections and increase the effectiveness of enforcement efforts; “(C) advance electronic processing of registration information, driver licensing information, fuel tax information, inspection and crash data, and other safety information; “(D) enhance the safe passage of commercial motor vehicles across the United States and across international borders; and “(E) promote the communication of information among the States and encourage multistate cooperation and corridor development. “(2) Commercial motor vehicle operations.—The term ‘commercial motor vehicle operations’—“(A) means motor carrier operations and motor vehicle regulatory activities associated with the commercial motor vehicle movement of goods, including hazardous materials, and passengers; and “(B) with respect to the public sector, includes the issuance of operating credentials, the administration of motor vehicle and fuel taxes, and roadside safety and border crossing inspection and regulatory compliance operations. “(3) Core deployment.—The term ‘core deployment’ means the deployment of systems in a State necessary to provide the State with the following capabilities:“(A) Safety information exchange to—“(i) electronically collect and transmit commercial motor vehicle and driver inspection data at a majority of inspection sites in the State; “(ii) connect to the safety and fitness electronic records system for access to interstate carrier and commercial motor vehicle data, summaries of past safety performance, and commercial motor vehicle credentials information; and “(iii) exchange carrier data and commercial motor vehicle safety and credentials information within the State and connect to such system for access to interstate carrier and commercial motor vehicle data. “(B) Interstate credentials administration to—“(i) perform end-to-end processing, including carrier application, jurisdiction application processing, and credential issuance, of at least the international registration plan and international fuel tax agreement credentials and extend this processing to other credentials, including intrastate registration, vehicle titling, oversize vehicle permits, overweight vehicle permits, carrier registration, and hazardous materials permits; “(ii) connect to such plan and agreement clearinghouses; and “(iii) have at least 10 percent of the credentialing transaction volume in the State handled electronically and have the capability to add more carriers and to extend to branch offices where applicable. “(C) Roadside electronic screening to electronically screen transponder-equipped commercial vehicles at a minimum of one fixed or mobile inspection site in the State and to replicate this screening at other sites in the State. “(4) Expanded deployment.—The term ‘expanded deployment’ means the deployment of systems in a State that exceed the requirements of a core deployment of commercial vehicle information systems and networks, improve safety and the productivity of commercial motor vehicle operations, and enhance transportation security.”
+Pub. L. 109–59, title IV, § 4126, Aug. 10, 2005, 119 Stat. 1738, as amended by Pub. L. 114–94, div. A, title V, § 5105(f)(1), Dec. 4, 2015, 129 Stat. 1529, which required the Secretary of Transportation to carry out a commercial vehicle information systems and networks program and provided for grants for deployment, was repealed by Pub. L. 114–94, div. A, title V, § 5101(e)(5), Dec. 4, 2015, 129 Stat. 1525, effective Oct. 1, 2016.
 
 
 <a id="section-31107"></a>
-## § 31107. Border enforcement grants
-**(a) General Authority.—** The Secretary of Transportation may make a grant in a fiscal year to an entity or State that shares a land border with another country for carrying out border commercial motor vehicle safety programs and related enforcement activities and projects.
-
-**(b) Governments 11 So in original. Probably should be “Government’s”. Share of Costs.—** The Secretary shall reimburse a State under a grant made under this section an amount that is not more than 100 percent of the costs incurred by the State in a fiscal year for carrying out border commercial motor vehicle safety programs and related enforcement activities and projects.
-
-**(c) Availability and Reallocation of Amounts.—** Allocations to a State remain available for expenditure in the State for the fiscal year in which they are allocated and for the next fiscal year. Amounts not expended by a State during those 2 fiscal years are available to the Secretary for reallocation under this section.
+## § 31107. Repealed. Pub. L. 114–94, div. A, title V, § 5101(e)(3), Dec. 4, 2015, 129 Stat. 1525]
 
 ### Statutory Notes
 
-#### Prior Provisions
+Section, added Pub. L. 109–59, title IV, § 4110(a)(2), Aug. 10, 2005, 119 Stat. 1721; amended Pub. L. 112–141, div. C, title II, § 32603(h), July 6, 2012, 126 Stat. 808, related to border enforcement grants.
+
 A prior section 31107, Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 992; Pub. L. 105–178, title IV, § 4004(b), June 9, 1998, 112 Stat. 400; Pub. L. 106–159, title I, § 103(d), Dec. 9, 1999, 113 Stat. 1754; Pub. L. 108–88, § 7(c)(1), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–202, § 11(c)(1), Feb. 29, 2004, 118 Stat. 490; Pub. L. 108–224, § 9(c)(1), Apr. 30, 2004, 118 Stat. 638; Pub. L. 108–263, § 9(c)(1), June 30, 2004, 118 Stat. 709; Pub. L. 108–280, § 9(c)(1), July 30, 2004, 118 Stat. 886; Pub. L. 108–310, § 7(c)(1), Sept. 30, 2004, 118 Stat. 1153; Pub. L. 109–14, § 6(c)(1), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, § 6(c)(1), July 1, 2005, 119 Stat. 352; Pub. L. 109–35, § 6(c)(1), July 20, 2005, 119 Stat. 385; Pub. L. 109–37, § 6(c)(1), July 22, 2005, 119 Stat. 400; Pub. L. 109–40, § 6(c)(1), July 28, 2005, 119 Stat. 417, related to contract authority funding for information systems, prior to repeal by Pub. L. 109–59, title IV, § 4110(a)(2), Aug. 10, 2005, 119 Stat. 1721.
 
-#### Amendments
-2012—Subsecs. (b) to (d). Pub. L. 112–141 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “The Secretary may make a grant to a State under this section only if the State agrees that the total expenditure of amounts of the State and political subdivisions of the State, exclusive of amounts from the United States, for carrying out border commercial motor vehicle safety programs and related enforcement activities and projects will be maintained at a level at least equal to the average level of that expenditure by the State and political subdivisions of the State for the last 2 fiscal years of the State or the Federal Government ending before October 1, 2005, whichever the State designates.”
-
-#### Effective Date of 2012 Amendment
-Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+#### Effective Date of Repeal
+Repeal effective Oct. 1, 2016, subject to a transition provision, see section 5101(f), (g) of Pub. L. 114–94, set out as Effective Date of 2015 Amendment and Transition notes under [section 31102 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31102).
 
 
 <a id="section-31108"></a>
@@ -969,16 +1171,75 @@ The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (
 
 
 <a id="section-31109"></a>
-## § 31109. Performance and registration information system management
+## § 31109. Repealed. Pub. L. 114–94, div. A, title V, § 5101(e)(4), Dec. 4, 2015, 129 Stat. 1525]
 
-The Secretary of Transportation may make a grant to a State to implement the performance and registration information system management requirements of section 31106(b).
+### Statutory Notes
+
+Section, added Pub. L. 109–59, title IV, § 4109(b)(1), Aug. 10, 2005, 119 Stat. 1721, related to performance and registration information system management.
+
+#### Effective Date of Repeal
+Repeal effective Oct. 1, 2016, subject to a transition provision, see section 5101(f), (g) of Pub. L. 114–94, set out as Effective Date of 2015 Amendment and Transition notes under [section 31102 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31102).
+
+
+<a id="section-31110"></a>
+## § 31110. Authorization of appropriations
+**(a) Administrative Expenses.—** There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) for the Secretary of Transportation to pay administrative expenses of the Federal Motor Carrier Safety Administration—
+
+(1) $267,400,000 for fiscal year 2016;
+
+(2) $277,200,000 for fiscal year 2017;
+
+(3) $283,000,000 for fiscal year 2018;
+
+(4) $284,000,000 for fiscal year 2019; and
+
+(5) $288,000,000 for fiscal year 2020.
+
+**(b) Use of Funds.—** The funds authorized by this section shall be used for—
+
+(1) personnel costs;
+
+(2) administrative infrastructure;
+
+(3) rent;
+
+(4) information technology;
+
+(5) programs for research and technology, information management, regulatory development, and the administration of performance and registration information systems management under section 31106(b);
+
+(6) programs for outreach and education under subsection (c);
+
+(7) other operating expenses;
+
+(8) conducting safety reviews of new operators; and
+
+(9) such other expenses as may from time to time become necessary to implement statutory mandates of the Federal Motor Carrier Safety Administration not funded from other sources.
+
+**(c) Outreach and Education Program.—**
+
+(1) **In general.—** — The Secretary may conduct, through any combination of grants, contracts, cooperative agreements, and other activities, an internal and external outreach and education program to be administered by the Administrator of the Federal Motor Carrier Safety Administration.
+
+(2) **Federal share.—** — The Federal share of an outreach and education project for which a grant, contract, or cooperative agreement is made under this subsection may be up to 100 percent of the cost of the project.
+
+(3) **Funding.—** — From amounts made available under subsection (a), the Secretary shall make available not more than $4,000,000 each fiscal year to carry out this subsection.
+
+**(d) Contract Authority; Initial Date of Availability.—** Amounts authorized from the Highway Trust Fund (other than the Mass Transit Account) by this section shall be available for obligation on the date of their apportionment or allocation or on October 1 of the fiscal year for which they are authorized, whichever occurs first.
+
+**(e) Funding Availability.—** Amounts made available under this section shall remain available until expended.
+
+**(f) Contractual Obligation.—** The approval of funds by the Secretary under this section is a contractual obligation of the Federal Government for payment of the Federal Government’s share of costs.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-31111"></a>
 ## § 31111. Length limitations
 **(a) Definitions.—** In this section, the following definitions apply:
 
-(1) **Automobile transporter.—** — The term “automobile transporter” means any vehicle combination designed and used specifically for the transport of assembled highway vehicles, including truck camper units.
+(1) **Automobile transporter.—** — The term “automobile transporter” means any vehicle combination designed and used for the transport of assembled highway vehicles, including truck camper units. An automobile transporter shall not be prohibited from the transport of cargo or general freight on a backhaul, so long as it complies with weight limitations for a truck tractor and semitrailer combination.
 
 (2) **Maxi-cube vehicle.—** — The term “maxi-cube vehicle” means a truck tractor combined with a semitrailer and a separable property-carrying unit designed to be loaded and unloaded through the semitrailer, with the length of the separable property-carrying unit being not more than 34 feet and the length of the vehicle combination being not more than 65 feet.
 
@@ -986,9 +1247,19 @@ The Secretary of Transportation may make a grant to a State to implement the per
 
   (A) a non-property-carrying power unit that operates in combination with a semitrailer or trailer; or
 
-  (B) a power unit that carries as property only motor vehicles when operating in combination with a semitrailer in transporting motor vehicles.
+  (B) a power unit that carries as property motor vehicles when operating in combination with a semitrailer in transporting motor vehicles or any other commodity, including cargo or general freight on a backhaul.
 
 (4) **Driveaway saddlemount vehicle transporter combination.—** — The term “driveaway saddlemount vehicle transporter combination” means a vehicle combination designed and specifically used to tow up to 3 trucks or truck tractors, each connected by a saddle to the frame or fifth-wheel of the forward vehicle of the truck or truck tractor in front of it. Such combination may include one fullmount.
+
+(5) **Backhaul.—** — The term “backhaul” means the return trip of a vehicle transporting cargo or general freight, especially when carrying goods back over all or part of the same route.
+
+(6) **Trailer transporter towing unit.—** — The term “trailer transporter towing unit” means a power unit that is not used to carry property when operating in a towaway trailer transporter combination.
+
+(7) **Towaway trailer transporter combination.—** — The term “towaway trailer transporter combination” means a combination of vehicles consisting of a trailer transporter towing unit and 2 trailers or semitrailers—
+
+  (A) with a total weight that does not exceed 26,000 pounds; and
+
+  (B) in which the trailers or semitrailers carry no property and constitute inventory property of a manufacturer, distributor, or dealer of such trailers or semitrailers.
 
 **(b) General Limitations.—**
 
@@ -1002,9 +1273,13 @@ The Secretary of Transportation may make a grant to a State to implement the per
 
   (D) imposes a vehicle length limitation of not less than or more than 97 feet on all driveaway saddlemount vehicle transporter combinations;
 
-  (E) has the effect of prohibiting the use of an existing semitrailer or trailer, of not more than 28.5 feet in length, in a truck tractor-semitrailer-trailer combination if the semitrailer or trailer was operating lawfully on December 1, 1982, within a 65-foot overall length limit in any State; or
+  (E) has the effect of prohibiting the use of an existing semitrailer or trailer, of not more than 28.5 feet in length, in a truck tractor-semitrailer-trailer combination if the semitrailer or trailer was operating lawfully on December 1, 1982, within a 65-foot overall length limit in any State;
 
-  (F) imposes a limitation of less than 46 feet on the distance from the kingpin to the center of the rear axle on trailers used exclusively or primarily in connection with motorsports competition events.
+  (F) imposes a limitation of less than 46 feet on the distance from the kingpin to the center of the rear axle on trailers used exclusively or primarily in connection with motorsports competition events;
+
+  (G) imposes a vehicle length limitation of less than 80 feet on a stinger-steered automobile transporter with a front overhang of less than 4 feet and a rear overhang of less than 6 feet; or
+
+  (H) has the effect of imposing an overall length limitation of less than 82 feet on a towaway trailer transporter combination.
 
 (2) A length limitation prescribed or enforced by a State under paragraph (1)(A) of this subsection applies only to a semitrailer or trailer and not to a truck tractor.
 
@@ -1067,6 +1342,18 @@ In subsection (f)(4)(C), the reference to regulations prescribed under subsectio
 Subsection (g) is substituted for 49 App.:2311(d) to eliminate unnecessary words. The Secretary’s general authority to prescribe regulations is provided in 49:322(a). The word “vessel” is substituted for “boat” because of 1:3. The text of 49 App.:2311(g) is omitted as executed.
 
 #### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–94, § 5520(a), struck out “specifically” before “for the transport” and inserted at end “An automobile transporter shall not be prohibited from the transport of cargo or general freight on a backhaul, so long as it complies with weight limitations for a truck tractor and semitrailer combination.”
+
+Subsec. (a)(3)(B). Pub. L. 114–94, § 5520(b), struck out “only” before “motor vehicles when operating” and inserted “or any other commodity, including cargo or general freight on a backhaul” before period at end.
+
+Subsec. (a)(5). Pub. L. 114–94, § 5520(c), added par. (5).
+
+Subsec. (a)(6), (7). Pub. L. 114–94, § 5523(a), added pars. (6) and (7).
+
+Subsec. (b)(1)(G). Pub. L. 114–94, § 5520(d), added subpar. (G).
+
+Subsec. (b)(1)(H). Pub. L. 114–94, § 5523(b), added subpar. (H).
+
 2008—Subsec. (a)(4). Pub. L. 110–244, § 301(r)(1), in heading, substituted “Driveaway saddlemount” for “Drive-away saddlemount with fullmount”, and, in text, substituted “driveaway saddlemount” for “drive-away saddlemount with fullmount” and inserted at end “Such combination may include one fullmount.”
 
 Subsec. (b)(1)(D). Pub. L. 110–244, § 301(r)(2), substituted “all driveaway saddlemount” for “a driveaway saddlemount with fullmount”.
@@ -1089,15 +1376,18 @@ Subsec. (a)(3). Pub. L. 105–178, § 4005(4), redesignated par. (2) as (3).
 
 1995—Subsec. (b)(1)(E). Pub. L. 104–88 added subpar. (E).
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-31112"></a>
 ## § 31112. Property-carrying unit limitation
 **(a) Definitions.—** In this section—
 
-(1) “property-carrying unit” means any part of a commercial motor vehicle combination (except the truck tractor) used to carry property, including a trailer, a semitrailer, or the property-carrying section of a single unit truck.
+(1) “property-carrying unit” means any part of a commercial motor vehicle combination (except the truck tractor) used to carry property, including a trailer, a semitrailer, or the property-carrying section of a single unit truck, but not including a trailer or a semitrailer transported as part of a towaway trailer transporter combination (as defined in section 31111(a)).
 
 (2) the length of the property-carrying units of a commercial motor vehicle combination is the length measured from the front of the first property-carrying unit to the rear of the last property-carrying unit.
 
@@ -1107,17 +1397,17 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 (2) the length of the property-carrying units of those commercial motor vehicle combinations, by specific configuration, in actual, lawful operation on a regular or periodic basis (including continuing seasonal operation) in that State before June 2, 1991.
 
-**(c) Special Rules for Wyoming, Ohio, Alaska, Iowa, and Nebraska.—** In addition to the vehicles allowed under subsection (b) of this section—
+**(c) Special Rules for Wyoming, Ohio, Alaska, Iowa, Nebraska, and Kansas.—** In addition to the vehicles allowed under subsection (b) of this section—
 
 (1) Wyoming may allow the operation of additional vehicle configurations not in actual operation on June 1, 1991, but authorized by State law not later than November 3, 1992, if the vehicle configurations comply with the single axle, tandem axle, and bridge formula limits in [section 127(a) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section127/a&num=0&edition=prelim) and are not more than 117,000 pounds gross vehicle weight;
 
 (2) Ohio may allow the operation of commercial motor vehicle combinations with 3 property-carrying units of 28.5 feet each (not including the truck tractor) not in actual operation on June 1, 1991, to be operated in Ohio on the 1-mile segment of Ohio State Route 7 that begins at and is south of exit 16 of the Ohio Turnpike;
 
-(3) Alaska may allow the operation of commercial motor vehicle combinations that were not in actual operation on June 1, 1991, but were in actual operation before July 6, 1991; and
+(3) Alaska may allow the operation of commercial motor vehicle combinations that were not in actual operation on June 1, 1991, but were in actual operation before July 6, 1991;
 
-(4) Iowa may allow the operation on Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or on Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska of commercial motor vehicle combinations with trailer length, semitrailer length, and property-carrying unit length allowed by law or regulation and in actual lawful operation on a regular or periodic basis (including continued seasonal operation) in South Dakota or Nebraska, respectively, before June 2, 1991.
+(4) Iowa may allow the operation on Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or on Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska of commercial motor vehicle combinations with trailer length, semitrailer length, and property-carrying unit length allowed by law or regulation and in actual lawful operation on a regular or periodic basis (including continued seasonal operation) in South Dakota or Nebraska, respectively, before June 2, 1991; and
 
-(5) Nebraska may allow the operation of a truck tractor and 2 trailers or semitrailers not in actual lawful operation on a regular or periodic basis on June 1, 1991, if the length of the property-carrying units does not exceed 81 feet 6 inches and such combination is used only to transport equipment utilized by custom harvesters under contract to agricultural producers to harvest one or more of wheat, soybeans, and milo during the harvest months for such crops, as defined by the State of Nebraska.
+(5) Nebraska and Kansas may allow the operation of a truck tractor and 2 trailers or semitrailers not in actual lawful operation on a regular or periodic basis on June 1, 1991, if the length of the property-carrying units does not exceed 81 feet 6 inches and such combination is used only to transport equipment utilized by custom harvesters under contract to agricultural producers to harvest one or more of wheat, soybeans, and milo during the harvest months for such crops, as defined by the relevant state.11 So in original. Probably should be “State.”.
 
 **(d) Additional Limitations.—**
 
@@ -1127,7 +1417,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 (3) A State making a minor adjustment of a temporary and emergency nature as authorized by paragraph (1) of this subsection or further restricting or prohibiting the operation of a commercial motor vehicle combination as authorized by paragraph (2) of this subsection shall advise the Secretary not later than 30 days after the action. The Secretary shall publish a notice of the action in the Federal Register.
 
-(4) 11 See 1996 Amendment note below. Nebraska may continue to allow to be operated under paragraphs (b)(1) and (b)(2) of this section,22 So in original. the State of Nebraska may allow longer combination vehicles that were not in actual operation on June 1, 1991 to be operated within its boundaries to transport sugar beets from the field where such sugar beets are harvested to storage, market, factory or stockpile or from stockpile to storage, market or factory. This provision shall expire on February 28, 1998.
+(4) 22 See 1996 Amendment note below. Nebraska may continue to allow to be operated under paragraphs (b)(1) and (b)(2) of this section,33 So in original. the State of Nebraska may allow longer combination vehicles that were not in actual operation on June 1, 1991 to be operated within its boundaries to transport sugar beets from the field where such sugar beets are harvested to storage, market, factory or stockpile or from stockpile to storage, market or factory. This provision shall expire on February 28, 1998.
 
 **(e) List of State Length Limitations.—**
 
@@ -1177,6 +1467,16 @@ In subsections (b), before clause (1), and (g)(1), the words “dismantled easil
 In subsection (e)(4), the words “Except as revised under this paragraph or paragraph (5) of this subsection” are substituted for “Except as modified pursuant to subparagraph (B) or (E) of this subsection” for clarity.
 
 #### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–94 inserted before period at end “, but not including a trailer or a semitrailer transported as part of a towaway trailer transporter combination (as defined in section 31111(a))”.
+
+Subsec. (c). Pub. L. 114–113, § 137(b)(1), substituted “Nebraska, and Kansas” for “and Nebraska” in heading.
+
+Subsec. (c)(3). Pub. L. 114–113, § 137(b)(2), substituted a semicolon for “; and” at end.
+
+Subsec. (c)(4). Pub. L. 114–113, § 137(b)(3), substituted “; and” for period at end.
+
+Subsec. (c)(5). Pub. L. 114–113, § 137(a), substituted “Nebraska and Kansas may” for “Nebraska may” and “the relevant state” for “the State of Nebraska”.
+
 2005—Subsec. (c). Pub. L. 109–59, § 4112(b), substituted “Iowa, and Nebraska” for “and Iowa” in heading.
 
 Subsec. (c)(5). Pub. L. 109–59, § 4112(a), added par. (5).
@@ -1186,6 +1486,9 @@ Subsec. (c)(5). Pub. L. 109–59, § 4112(a), added par. (5).
 1996—Subsec. (d)(4). Pub. L. 104–205, which directed amendment of this section by adding a new subsection designated par. (4) without specifying where, was executed by adding par. (4) to subsec. (d) to reflect the probable intent of Congress.
 
 1995—Subsec. (c). Pub. L. 104–59 substituted “Alaska, and Iowa” for “and Alaska” in heading and added par. (4).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-31113"></a>
@@ -1252,7 +1555,7 @@ In subsection (e)(4)(C), the word “amendment” is substituted for “revision
 
 (1) the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under section 31111(f) or 31113(e) of this title) and other qualifying Federal-aid Primary System highways designated by the Secretary of Transportation; and
 
-(2) terminals, facilities for food, fuel, repairs, and rest, and points of loading and unloading for household goods carriers, motor carriers of passengers, or any truck tractor-semitrailer combination in which the semitrailer has a length of not more than 28.5 feet and that generally operates as part of a vehicle combination described in [section 31111(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31111/c&num=0&edition=prelim).
+(2) terminals, facilities for food, fuel, repairs, and rest, and points of loading and unloading for household goods carriers, motor carriers of passengers, any towaway trailer transporter combination (as defined in section 31111(a)), or any truck tractor-semitrailer combination in which the semitrailer has a length of not more than 28.5 feet and that generally operates as part of a vehicle combination described in [section 31111(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31111/c&num=0&edition=prelim).
 
 **(b) Exception.—** This section does not prevent a State or local government from imposing reasonable restrictions, based on safety considerations, on a truck tractor-semitrailer combination in which the semitrailer has a length of not more than 28.5 feet and that generally operates as part of a vehicle combination described in [section 31111(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31111/c&num=0&edition=prelim).
 
@@ -1265,6 +1568,12 @@ In subsection (e)(4)(C), the word “amendment” is substituted for “revision
 | 31114(b) | 49 App.:2312(b). |  |
 
 In subsection (a), the words “Dwight D. Eisenhower System of Interstate and Defense Highways” are substituted for “Interstate and Defense Highway System” for consistency in the revised chapter.
+
+#### Amendments
+2015—Subsec. (a)(2). Pub. L. 114–94 inserted “any towaway trailer transporter combination (as defined in section 31111(a)),” after “passengers,”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-31115"></a>
@@ -1388,7 +1697,7 @@ Par. (1)(B). Pub. L. 105–178, § 4008(a)(2), which directed substitution of �
 1995—Par. (1)(B) to (D). Pub. L. 104–88 added subpars. (B) and (C), redesignated former subpar. (C) as (D), and struck out former subpar. (B) which read as follows: “is designed to transport more than 15 passengers including the driver; or”.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-31133"></a>
@@ -1436,7 +1745,7 @@ In subsection (b), the words “In conducting inspections and investigations” 
 1998—Subsec. (a)(1). Pub. L. 105–178 inserted “and make contracts for” after “conduct”.
 
 #### Border Staffing Standards
-Pub. L. 106–159, title II, § 218, Dec. 9, 1999, 113 Stat. 1767, provided that: “(a) Development and Implementation.—Not later than 1 year after the date of the enactment of this Act [Dec. 9, 1999], the Secretary shall develop and implement appropriate staffing standards for Federal and State motor carrier safety inspectors in international border areas. “(b) Factors To Be Considered.—In developing standards under subsection (a), the Secretary shall consider volume of traffic, hours of operation of the border facility, types of commercial motor vehicles, types of cargo, delineation of responsibility between Federal and State inspectors, and such other factors as the Secretary determines appropriate. “(c) Maintenance of Effort.—The standards developed and implemented under subsection (a) shall ensure that the United States and each State will not reduce its respective level of staffing of motor carrier safety inspectors in international border areas from its average level staffing for fiscal year 2000. “(d) Border Commercial Motor Vehicle and Safety Enforcement Programs.—“(1) Enforcement.—If, on October 1, 2001, and October 1 of each fiscal year thereafter, the Secretary has not ensured that the levels of staffing required by the standards developed under subsection (a) are deployed, the Secretary should designate the amount made available for allocation under [former] [section 31104(f)(2)(B) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31104/f/2/B&num=0&edition=prelim), United States Code, for such fiscal year for States, local governments, and other persons for carrying out border commercial motor vehicle safety programs and enforcement activities and projects. “(2) Allocation.—If the Secretary makes a designation of an amount under paragraph (1), such amount shall be allocated by the Secretary to State agencies, local governments, and other persons that use and train qualified officers and employees in coordination with State motor vehicle safety agencies. “(3) Limitation.—If the Secretary makes a designation pursuant to paragraph (1) for a fiscal year, the Secretary may not make a designation under [former] [section 31104(f)(2)(B) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31104/f/2/B&num=0&edition=prelim), United States Code, for such fiscal year.”
+Pub. L. 106–159, title II, § 218, Dec. 9, 1999, 113 Stat. 1767, as amended by Pub. L. 114–94, div. A, title V, § 5101(e)(10), Dec. 4, 2015, 129 Stat. 1525, provided that: “(a) Development and Implementation.—Not later than 1 year after the date of the enactment of this Act [Dec. 9, 1999], the Secretary shall develop and implement appropriate staffing standards for Federal and State motor carrier safety inspectors in international border areas. “(b) Factors To Be Considered.—In developing standards under subsection (a), the Secretary shall consider volume of traffic, hours of operation of the border facility, types of commercial motor vehicles, types of cargo, delineation of responsibility between Federal and State inspectors, and such other factors as the Secretary determines appropriate. “(c) Maintenance of Effort.—The standards developed and implemented under subsection (a) shall ensure that the United States and each State will not reduce its respective level of staffing of motor carrier safety inspectors in international border areas from its average level staffing for fiscal year 2000. “(d) Border Commercial Motor Vehicle and Safety Enforcement Programs.—“(1) Enforcement.—If, on October 1, 2001, and October 1 of each fiscal year thereafter, the Secretary has not ensured that the levels of staffing required by the standards developed under subsection (a) are deployed, the Secretary should designate the amount made available for allocation under [section 31104(a)(1) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31104/a/1&num=0&edition=prelim), United States Code, for such fiscal year for States, local governments, and other persons for carrying out border commercial motor vehicle safety programs and enforcement activities and projects. “(2) Allocation.—If the Secretary makes a designation of an amount under paragraph (1), such amount shall be allocated by the Secretary to State agencies, local governments, and other persons that use and train qualified officers and employees in coordination with State motor vehicle safety agencies.”
 
 
 <a id="section-31134"></a>
@@ -1549,31 +1858,41 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 **(e) Exemptions.—** The Secretary may grant in accordance with section 31315 waivers and exemptions from, or conduct pilot programs with respect to, any regulations prescribed under this section.
 
-**(f) Limitations on Municipality and Commercial Zone Exemptions and Waivers.—**
+**(f) Regulatory Impact Analysis.—**
 
-(1) The Secretary may not—
+(1) **In general.—** — Within each regulatory impact analysis of a proposed or final major rule issued by the Federal Motor Carrier Safety Administration, the Secretary shall, whenever practicable—
 
-  (A) exempt a person or commercial motor vehicle from a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirely in a municipality or commercial zone of a municipality; or
+  (A) consider the effects of the proposed or final rule on different segments of the motor carrier industry; and
 
-  (B) waive application to a person or commercial motor vehicle of a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirely in a municipality or commercial zone of a municipality.
+  (B) formulate estimates and findings based on the best available science.
 
-(2) If a person was authorized to operate a commercial motor vehicle in a municipality or commercial zone of a municipality in the United States for the entire period from November 19, 1987, through November 18, 1988, and if the person is otherwise qualified to operate a commercial motor vehicle, the person may operate a commercial motor vehicle entirely in a municipality or commercial zone of a municipality notwithstanding—
+(2) **Scope.—** — To the extent feasible and appropriate, and consistent with law, an analysis described in paragraph (1) shall—
 
-  (A) paragraph (1) of this subsection;
+  (A) use data that is representative of commercial motor vehicle operators or motor carriers, or both, that will be impacted by the proposed or final rule; and
 
-  (B) a minimum age requirement of the United States Government for operation of the vehicle; and
+  (B) consider the effects on commercial truck and bus carriers of various sizes and types.
 
-  (C) a medical or physical condition that—
+**(g) Public Participation.—**
 
-    (i) would prevent an operator from operating a commercial motor vehicle under the commercial motor vehicle safety regulations in title 49, Code of Federal Regulations;
+(1) **In general.—** — If a proposed rule under this part is likely to lead to the promulgation of a major rule, the Secretary, before publishing such proposed rule, shall—
 
-    (ii) existed on July 1, 1988;
+  (A) issue an advance notice of proposed rulemaking; or
 
-    (iii) has not substantially worsened; and
+  (B) proceed with a negotiated rulemaking.
 
-    (iv) does not involve alcohol or drug abuse.
+(2) **Requirements.—** — Each advance notice of proposed rulemaking issued under paragraph (1) shall—
 
-(3) This subsection does not affect a State commercial motor vehicle safety law applicable to intrastate commerce.
+  (A) identify the need for a potential regulatory action;
+
+  (B) identify and request public comment on the best available science or technical information relevant to analyzing potential regulatory alternatives;
+
+  (C) request public comment on the available data and costs with respect to regulatory alternatives reasonably likely to be considered as part of the rulemaking; and
+
+  (D) request public comment on available alternatives to regulation.
+
+(3) **Waiver.—** — This subsection does not apply to a proposed rule if the Secretary, for good cause, finds (and incorporates the finding and a brief statement of reasons for such finding in the proposed or final rule) that an advance notice of proposed rulemaking is impracticable, unnecessary, or contrary to the public interest.
+
+**(h) Rule of Construction.—** Nothing in subsection (f) or (g) may be construed to limit the contents of an advance notice of proposed rulemaking.
 
 ### Statutory Notes
 
@@ -1596,6 +1915,10 @@ In subsection (d), the text of 49 App.:2505(d) is omitted as obsolete.
 In subsection (f)(2)(C)(i), the words “an operator” are substituted for “such person” because only a natural person can have a medical or physical condition.
 
 #### Amendments
+2015—Subsec. (f). Pub. L. 114–94 added subsec. (f) and redesignated and transferred former subsec. (f) of this section to subsec. (g) of [section 31315 of this title](./chapter-313-commercial-motor-vehicle-operators.md#section-31315).
+
+Subsecs. (g), (h). Pub. L. 114–94, § 5202(2), added subsecs. (g) and (h).
+
 2012—Subsec. (a)(5). Pub. L. 112–141 added par. (5).
 
 2005—Subsec. (a)(3). Pub. L. 109–59 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the physical condition of operators of commercial motor vehicles is adequate to enable them to operate the vehicles safely; and”.
@@ -1606,11 +1929,23 @@ In subsection (f)(2)(C)(i), the words “an operator” are substituted for “s
 
 1995—Subsec. (e)(1) to (3). Pub. L. 104–59 designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–59 effective on the 365th day following Aug. 10, 2005, see section 4116(f) of Pub. L. 109–59, set out as an Effective Date note under [section 31149 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31149).
+
+#### Windshield Technology
+Pub. L. 114–94, div. A, title V, § 5301, Dec. 4, 2015, 129 Stat. 1543, provided that: “(a) In General.—Not later than 180 days after the date of enactment of this Act [Dec. 4, 2015], the Secretary [of Transportation] shall revise the regulations in section 393.60(e) of title 49, Code of Federal Regulations (relating to the prohibition on obstructions to the driver’s field of view) to exempt from that section the voluntary mounting on a windshield of vehicle safety technology likely to achieve a level of safety that is equivalent to or greater than the level of safety that would be achieved absent the exemption. “(b) Vehicle Safety Technology Defined.—In this section, the term ‘vehicle safety technology’ includes a fleet-related incident management system, performance or behavior management system, speed management system, lane departure warning system, forward collision warning or mitigation system, and active cruise control system and any other technology that the Secretary considers applicable. “(c) Rule of Construction.—For purposes of this section, any windshield mounted technology with a short term exemption under part 381 of title 49, Code of Federal Regulations, on the date of enactment of this Act, shall be considered likely to achieve a level of safety that is equivalent to or greater than the level of safety that would be achieved absent an exemption under subsection (a).”
+
+#### Operators of Hi-Rail Vehicles
+Pub. L. 114–94, div. A, title V, § 5519, Dec. 4, 2015, 129 Stat. 1558, provided that: “(a) In General.—In the case of a commercial motor vehicle driver subject to the hours of service requirements in part 395 of title 49, Code of Federal Regulations, who is driving a hi-rail vehicle, the maximum on duty time under section 395.3 of such title for such driver shall not include time in transportation to or from a duty assignment if such time in transportation—“(1) does not exceed 2 hours per calendar day or a total of 30 hours per calendar month; and “(2) is fully and accurately accounted for in records to be maintained by the motor carrier and such records are made available upon request of the Federal Motor Carrier Safety Administration or the Federal Railroad Administration. “(b) Hi-Rail Vehicle Defined.—In this section, the term ‘hi-rail vehicle’ means an internal rail flaw detection vehicle equipped with flange hi-rails.”
+
+#### Exemptions From Requirements for Certain Welding Trucks Used in Pipeline Industry
+Pub. L. 114–94, div. A, title V, § 5524, Dec. 4, 2015, 129 Stat. 1560, provided that: “(a) Covered Motor Vehicle Defined.—In this section, the term ‘covered motor vehicle’ means a motor vehicle that—“(1) is traveling in the State in which the vehicle is registered or another State; “(2) is owned by a welder; “(3) is a pick-up style truck; “(4) is equipped with a welding rig that is used in the construction or maintenance of pipelines; and “(5) has a gross vehicle weight and combination weight rating and weight of 15,000 pounds or less. “(b) Federal Requirements.—A covered motor vehicle, including the individual operating such vehicle and the employer of such individual, shall be exempt from the following:“(1) Any requirement relating to registration as a motor carrier, including the requirement to obtain and display a Department of Transportation number, established under chapters 139 and 311 of title 49, United States Code. “(2) Any requirement relating to driver qualifications established under chapter 311 of title 49, United States Code. “(3) Any requirement relating to driving of commercial motor vehicles established under chapter 311 of title 49, United States Code. “(4) Any requirement relating to parts and accessories and inspection, repair, and maintenance of commercial motor vehicles established under chapter 311 of title 49, United States Code. “(5) Any requirement relating to hours of service of drivers, including maximum driving and on duty time, established under chapter 315 of title 49, United States Code.”
 
 #### Reliable Home Heating
 Pub. L. 113–125, June 30, 2014, 128 Stat. 1388, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Reliable Home Heating Act’. “SEC. 2. AUTHORITY TO EXTEND EMERGENCY DECLARATIONS FOR PURPOSES OF TEMPORARILY EXEMPTING MOTOR CARRIERS PROVIDING EMERGENCY RELIEF FROM CERTAIN SAFETY REGULATIONS.“(a) Defined Term.—In this Act, the term ‘residential heating fuel’ includes—“(1) heating oil; “(2) natural gas; and “(3) propane. “(b) Authorization.—If the Governor of a State declares a state of emergency caused by a shortage of residential heating fuel and, at the conclusion of the initial 30-day emergency period (or a second 30-day emergency period authorized under this subsection), the Governor determines that the emergency shortage has not ended, any extension of such state of emergency by the Governor, up to 2 additional 30-day periods, shall be recognized by the Federal Motor Carrier Safety Administration as a period during which parts 390 through 399 of chapter III of title 49, Code of Federal Regulations, shall not apply to any motor carrier or driver operating a commercial motor vehicle to provide residential heating fuel in the geographic area so designated as under a state of emergency. “(c) Rulemaking.—The Secretary of Transportation shall amend section 390.23(a)(1)(ii) of title 49, Code of Federal Regulations, to conform to the provision set forth in subsection (b). “(d) Savings Provision.—Nothing in this section may be construed to modify the authority granted to the Federal Motor Carrier Safety Administration’s Field Administrator under section 390.23(a) of title 49, Code of Federal Regulations, to offer temporary exemptions from parts 390 through 399 of such title. “SEC. 3. ENERGY INFORMATION ADMINISTRATION NOTIFICATION REQUIREMENT.“The Administrator of the Energy Information Administration, using data compiled from the Administration’s Weekly Petroleum Status Reports, shall notify the Governor of each State in a Petroleum Administration for Defense District if the inventory of residential heating fuel within such district has been below the most recent 5-year average for more than 3 consecutive weeks. “SEC. 4. REVIEW.“Not later than 12 months after the date of enactment of this Act [June 30, 2014], the Secretary of Transportation shall conduct a study of, and transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, a report on the impacts of safety from the extensions issued by Governors according to this Act. In conducting the study, the Secretary shall review, at a minimum—“(1) the safety implications of extending exemptions; and “(2) a review of the exemption process to ensure clarity and efficiency during emergencies.”
@@ -1619,7 +1954,7 @@ Pub. L. 113–125, June 30, 2014, 128 Stat. 1388, provided that: “SECTION 1. S
 Pub. L. 112–141, div. C, title II, subtitle G, July 6, 2012, 126 Stat. 809, provided that: “SEC. 32701. SHORT TITLE.“This subtitle may be cited as the ‘Motorcoach Enhanced Safety Act of 2012’. “SEC. 32702. DEFINITIONS.“In this subtitle:“(1) Advanced glazing.—The term ‘advanced glazing’ means glazing installed in a portal on the side or the roof of a motorcoach that is designed to be highly resistant to partial or complete occupant ejection in all types of motor vehicle crashes. “(2) Bus.—The term ‘bus’ has the meaning given the term in section 571.3(b) of title 49, Code of Federal Regulations (as in effect on the day before the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways]). “(3) Commercial motor vehicle.—Except as otherwise specified, the term ‘commercial motor vehicle’ has the meaning given the term in [section 31132(1) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31132/1&num=0&edition=prelim), United States Code. “(4) Direct tire pressure monitoring system.—The term ‘direct tire pressure monitoring system’ means a tire pressure monitoring system that is capable of directly detecting when the air pressure level in any tire is significantly under-inflated and providing the driver a low tire pressure warning as to which specific tire is significantly under-inflated. “(5) Motor carrier.—The term ‘motor carrier’ means—“(A) a motor carrier (as defined in [section 13102(14) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section13102/14&num=0&edition=prelim), United States Code); or “(B) a motor private carrier (as defined in section 13102(15) of that title). “(6) Motorcoach.—The term ‘motorcoach’ has the meaning given the term ‘over-the-road bus’ in section 3038(a)(3) of the Transportation Equity Act for the 21st Century [Pub. L. 105–178] ([49 U.S.C. 5310](./chapter-053-public-transportation.md#section-5310) note), but does not include—“(A) a bus used in public transportation provided by, or on behalf of, a public transportation agency; or “(B) a school bus, including a multifunction school activity bus. “(7) Motorcoach services.—The term ‘motorcoach services’ means passenger transportation by motorcoach for compensation. “(8) Multifunction school activity bus.—The term ‘multifunction school activity bus’ has the meaning given the term in section 571.3(b) of title 49, Code of Federal Regulations (as in effect on the day before the date of enactment of this Act). “(9) Portal.—The term ‘portal’ means any opening on the front, side, rear, or roof of a motorcoach that could, in the event of a crash involving the motorcoach, permit the partial or complete ejection of any occupant from the motorcoach, including a young child. “(10) Provider of motorcoach services.—The term ‘provider of motorcoach services’ means a motor carrier that provides passenger transportation services with a motorcoach, including per-trip compensation and contracted or chartered compensation. “(11) Public transportation.—The term ‘public transportation’ has the meaning given the term in [section 5302 of title 49](./chapter-053-public-transportation.md#section-5302), United States Code. “(12) Safety belt.—The term ‘safety belt’ has the meaning given the term in [section 153(i)(4)(B) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section153/i/4/B&num=0&edition=prelim), United States Code. “(13) Secretary.—The term ‘Secretary’ means the Secretary of Transportation. “SEC. 32703. REGULATIONS FOR IMPROVED OCCUPANT PROTECTION, PASSENGER EVACUATION, AND CRASH AVOIDANCE.“(a) Regulations Required Within 1 Year.—Not later than 1 year after the date of enactment of this Act, the Secretary shall prescribe regulations requiring safety belts to be installed in motorcoaches at each designated seating position. “(b) Regulations Required Within 2 Years.—Not later than 2 years after the date of enactment of this Act, the Secretary shall prescribe regulations that address the following commercial motor vehicle standards, if the Secretary determines that such standards meet the requirements and considerations set forth in subsections (a) and (b) of [section 30111 of title 49](./chapter-301-motor-vehicle-safety.md#section-30111), United States Code:“(1) Roof strength and crush resistance.—The Secretary shall establish improved roof and roof support standards for motorcoaches that substantially improve the resistance of motorcoach roofs to deformation and intrusion to prevent serious occupant injury in rollover crashes involving motorcoaches. “(2) Anti-ejection safety countermeasures.—The Secretary shall consider requiring advanced glazing standards for each motorcoach portal and shall consider other portal improvements to prevent partial and complete ejection of motorcoach passengers, including children. In prescribing such standards, the Secretary shall consider the impact of such standards on the use of motorcoach portals as a means of emergency egress. “(3) Rollover crash avoidance.—The Secretary shall consider requiring motorcoaches to be equipped with stability enhancing technology, such as electronic stability control and torque vectoring, to reduce the number and frequency of rollover crashes among motorcoaches. “(c) Commercial Motor Vehicle Tire Pressure Monitoring Systems.—Not later than 3 years after the date of enactment of this Act, the Secretary shall prescribe the following commercial vehicle regulation:“(1) In general.—The Secretary shall consider requiring motorcoaches to be equipped with direct tire pressure monitoring systems that warn the operator of a commercial motor vehicle when any tire exhibits a level of air pressure that is below a specified level of air pressure established by the Secretary, if the Secretary determines that such standards meet the requirements and considerations set forth in subsections (a) and (b) of [section 30111 of title 49](./chapter-301-motor-vehicle-safety.md#section-30111), United States Code. “(2) Performance requirements.—In any standard adopted under paragraph (1), the Secretary shall include performance requirements to meet the objectives identified in paragraph (1) of this subsection. “(d) Tire Performance Standard.—Not later than 3 years after the date of enactment of this Act, the Secretary shall consider—“(1) issuing a rule to upgrade performance standards for tires used on motorcoaches, including an enhanced endurance test and a new high-speed performance test; or “(2) if the Secretary determines that a standard does not meet the requirements and considerations set forth in subsections (a) and (b) of [section 30111 of title 49](./chapter-301-motor-vehicle-safety.md#section-30111), United States Code, submit a report that describes the reasons for not prescribing such a standard to—“(A) the Committee on Commerce, Science, and Transportation of the Senate; “(B) the Committee on Transportation and Infrastructure of the House of Representatives; and “(C) the Committee on Energy and Commerce of the House of Representatives. “(e) Application of Regulations.—“(1) New motorcoaches.—Any regulation prescribed in accordance with subsection (a), (b), (c), or (d) shall—“(A) apply to all motorcoaches manufactured more than 3 years after the date on which the regulation is published as a final rule; “(B) take into account the impact to seating capacity of changes to size and weight of motorcoaches and the ability to comply with State and Federal size and weight requirements; and “(C) be based on the best available science. “(2) Retrofit assessment for existing motorcoaches.—“(A) In general.—The Secretary may assess the feasibility, benefits, and costs with respect to the application of any requirement established under subsection (a) or (b)(2) to motorcoaches manufactured before the date on which the requirement applies to new motorcoaches under paragraph (1). “(B) Report.—The Secretary shall submit a report on the assessment to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives not later than 2 years after the date of enactment of this Act. “SEC. 32704. FIRE PREVENTION AND MITIGATION.“(a) Research and Testing.—The Secretary shall conduct research and testing to determine the most prevalent causes of motorcoach fires and the best methods to prevent such fires and to mitigate the effect of such fires, both inside and outside the motorcoach. Such research and testing shall consider flammability of exterior components, smoke suppression, prevention of and resistance to wheel well fires, automatic fire suppression, passenger evacuation, causation and prevention of motorcoach fires, and improved fire extinguishers. “(b) Standards.—Not later than 3 years after the date of enactment of this Act, the Secretary may issue fire prevention and mitigation standards for motorcoaches, based on the results of the Secretary’s research and testing, taking into account highway size and weight restrictions applicable to motorcoaches, if the Secretary determines that such standards meet the requirements and considerations set forth in subsections (a) and (b) of [section 30111 of title 49](./chapter-301-motor-vehicle-safety.md#section-30111), United States Code. “SEC. 32705. OCCUPANT PROTECTION, COLLISION AVOIDANCE, FIRE CAUSATION, AND FIRE EXTINGUISHER RESEARCH AND TESTING.“(a) Safety Research Initiatives.—Not later than 3 years after the date of enactment of this Act, the Secretary shall complete the following research and testing:“(1) Interior impact protection.—The Secretary shall research and test enhanced occupant impact protection technologies for motorcoach interiors to reduce serious injuries for all passengers of motorcoaches. “(2) Compartmentalization safety countermeasures.—The Secretary shall research and test enhanced compartmentalization safety countermeasures for motorcoaches, including enhanced seating designs. “(3) Collision avoidance systems.—The Secretary shall research and test forward and lateral crash warning systems applications for motorcoaches. “(b) Rulemaking.—Not later than 2 years after the completion of each research and testing initiative required under subsection (a), the Secretary shall issue final motor vehicle safety standards if the Secretary determines that such standards meet the requirements and considerations set forth in subsections (a) and (b) of [section 30111 of title 49](./chapter-301-motor-vehicle-safety.md#section-30111), United States Code. “SEC. 32706. CONCURRENCE OF RESEARCH AND RULEMAKING.“(a) Requirements.—To the extent feasible, the Secretary shall ensure that research programs are carried out concurrently, and in a manner that concurrently assesses results, potential countermeasures, costs, and benefits. “(b) Authority to Combine Rulemakings.—When considering each of the rulemaking provisions, the Secretary may initiate a single rulemaking proceeding encompassing all aspects or may combine the rulemakings as the Secretary deems appropriate. “(c) Considerations.—If the Secretary undertakes separate rulemaking proceedings, the Secretary shall—“(1) consider whether each added aspect of rulemaking may contribute to addressing the safety need determined to require rulemaking; “(2) consider the benefits obtained through the safety belts rulemaking in section 32703(a); and “(3) avoid duplicative benefits, costs, and countermeasures. “SEC. 32707. IMPROVED OVERSIGHT OF MOTORCOACH SERVICE PROVIDERS.“(a) Safety Reviews.—[Amended [section 31144 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31144).] “(b) Disclosure of Safety Performance Ratings of Motorcoach Services and Operations.—“(1) Definitions.—In this subsection:“(A) Motorcoach.—“(i) In general.—Except as provided in clause (ii), the term ‘motorcoach’ has the meaning given the term ‘over-the-road bus’ in section 3038(a)(3) of the Transportation Equity Act for the 21st Century [Pub. L. 105–178] ([49 U.S.C. 5310](./chapter-053-public-transportation.md#section-5310) note). “(ii) Exclusions.—The term ‘motorcoach’ does not include— “(I) a bus used in public transportation that is provided by a State or local government; or “(II) a school bus (as defined in [section 30125(a)(1) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30125/a/1&num=0&edition=prelim), United States Code), including a multifunction school activity bus. “(B) Motorcoach services and operations.—The term ‘motorcoach services and operations’ means passenger transportation by a motorcoach for compensation. “(2) Requirements for the disclosure of safety performance ratings of motorcoach services and operations.—“(A) In general.—Not later than 1 year after the date of enactment of this Act, the Secretary shall establish, through notice and opportunity for public to comment, requirements to improve the accessibility to the public of safety rating information of motorcoach services and operations. “(B) Display.—In establishing the requirements under subparagraph (A), the Secretary shall consider requirements for each motor carrier that owns or leases 1 or more motorcoaches that transport passengers subject to the Secretary’s jurisdiction under [section 13501 of title 49](./chapter-135-jurisdiction.md#section-13501), United States Code, to prominently display safety fitness information pursuant to [section 31144 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31144), United States Code—“(i) in each terminal of departure; “(ii) in the motorcoach and visible from a position exterior to the vehicle at the point of departure, if the motorcoach does not depart from a terminal; and “(iii) at all points of sale for such motorcoach services and operations. “SEC. 32708. REPORT ON FEASIBILITY, BENEFITS, AND COSTS OF ESTABLISHING A SYSTEM OF CERTIFICATION OF TRAINING PROGRAMS.“Not later than 2 years after the date of enactment of this Act, the Secretary of Transportation shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that describes the feasibility, benefits, and costs of establishing a system of certification of public and private schools and of motor carriers and motorcoach operators that provide motorcoach driver training. “SEC. 32709. COMMERCIAL DRIVER’S LICENSE PASSENGER ENDORSEMENT REQUIREMENTS.“(a) In General.—Not later than 2 years after the date of enactment of this Act, the Secretary of Transportation shall review and assess the current knowledge and skill testing requirements for a commercial driver’s license passenger endorsement to determine what improvements to the knowledge test, the examination of driving skills, and the application of such requirements are necessary to ensure the safe operation of commercial motor vehicles designed or used to transport passengers. “(b) Report.—Not later than 120 days after completion of the review and assessment under subsection (a), the Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—“(1) a report on the review and assessment conducted under subsection (a); “(2) a plan to implement any changes to the knowledge and skills tests; and “(3) a timeframe by which the Secretary will implement the changes. “SEC. 32710. SAFETY INSPECTION PROGRAM FOR COMMERCIAL MOTOR VEHICLES OF PASSENGERS.“Not later than 3 years after the date of enactment of this Act, the Secretary of Transportation shall complete a rulemaking proceeding to consider requiring States to establish a program for annual inspections of commercial motor vehicles designed or used to transport passengers, including an assessment of—“(1) the risks associated with improperly maintained or inspected commercial motor vehicles designed or used to transport passengers; “(2) the effectiveness of existing Federal standards for the inspection of such vehicles in—“(A) mitigating the risks described in paragraph (1); and “(B) ensuring the safe and proper operation condition of such vehicles; and “(3) the costs and benefits of a mandatory inspection program. “SEC. 32711. REGULATIONS.“Any standard or regulation prescribed or modified pursuant to the Motorcoach Enhanced Safety Act of 2012 shall be prescribed or modified in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code.”
 
 #### Exemptions From Requirements for Covered Farm Vehicles
-Pub. L. 112–141, div. C, title II, § 32934, July 6, 2012, 126 Stat. 830, provided that: “(a) Federal Requirements.—A covered farm vehicle, including the individual operating that vehicle, shall be exempt from the following:“(1) Any requirement relating to commercial driver’s licenses established under chapter 313 of title 49, United States Code. “(2) Any requirement relating to drug-testing established under chapter 313 of title 49, United States Code. “(3) Any requirement relating to medical certificates established under—“(A) subchapter III of chapter 311 of title 49, United States Code; or “(B) chapter 313 of title 49, United States Code. “(4) Any requirement relating to hours of service established under—“(A) subchapter III of chapter 311 of title 49, United States Code; or “(B) chapter 315 of title 49, United States Code. “(5) Any requirement relating to vehicle inspection, repair, and maintenance established under—“(A) subchapter III of chapter 311 of title 49, United States Code; or “(B) chapter 315 of title 49, United States Code. “(b) State Requirements.—“(1) In general.—Federal transportation funding to a State may not be terminated, limited, or otherwise interfered with as a result of the State exempting a covered farm vehicle, including the individual operating that vehicle, from any State requirement relating to the operation of that vehicle. “(2) Exception.—Paragraph (1) does not apply with respect to a covered farm vehicle transporting hazardous materials that require a placard. “(c) Covered Farm Vehicle Defined.—“(1) In general.—In this section, the term ‘covered farm vehicle’ means a motor vehicle (including an articulated motor vehicle)—“(A) that—“(i) is traveling in the State in which the vehicle is registered or another State; “(ii) is operated by— “(I) a farm owner or operator; “(II) a ranch owner or operator; or “(III) an employee or family member of an individual specified in subclause (I) or (II); “(iii) is transporting to or from a farm or ranch— “(I) agricultural commodities; “(II) livestock; or “(III) machinery or supplies; “(iv) except as provided in paragraph (2), is not used in the operations of a for-hire motor carrier; and “(v) is equipped with a special license plate or other designation by the State in which the vehicle is registered to allow for identification of the vehicle as a farm vehicle by law enforcement personnel; and “(B) that has a gross vehicle weight rating or gross vehicle weight, whichever is greater, that is—“(i) 26,001 pounds or less; or “(ii) greater than 26,001 pounds and traveling within the State or within 150 air miles of the farm or ranch with respect to which the vehicle is being operated. “(2) Inclusion.—In this section, the term ‘covered farm vehicle’ includes a motor vehicle that meets the requirements of paragraph (1) (other than paragraph (1)(A)(iv)) and—“(A) is operated pursuant to a crop share farm lease agreement; “(B) is owned by a tenant with respect to that agreement; and “(C) is transporting the landlord’s portion of the crops under that agreement. “(d) Safety Study.—The Secretary of Transportation shall conduct a study of the exemption required by subsection (a) as follows:“(1) Data and analysis of covered farm vehicles shall include—“(A) the number of vehicles that are operated subject to each of the regulatory exemptions permitted under subsection (a); “(B) the number of drivers that operate covered farm vehicles subject to each of the regulatory exemptions permitted under subsection (a); “(C) the number of crashes involving covered farm vehicles; “(D) the number of occupants and non-occupants injured in crashes involving covered farm vehicles; “(E) the number of fatalities of occupants and non-occupants killed in crashes involving farm vehicles; “(F) crash investigations and accident reconstruction investigations of all fatalities in crashes involving covered farm vehicles; “(G) overall operating mileage of covered farm vehicles; “(H) numbers of covered farm vehicles that operate in neighboring States; and “(I) any other data the Secretary deems necessary to analyze and include. “(2) A listing of State regulations issued and maintained in each State that are identical to the Federal regulations that are subject to exemption in subsection (a). “(3) The Secretary shall report the findings of the study to the appropriate committees of Congress not later than 18 months after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways]. “(e) Construction.—Nothing in this section shall be construed as authority for the Secretary of Transportation to prescribe regulations.”
+Pub. L. 112–141, div. C, title II, § 32934, July 6, 2012, 126 Stat. 830, as amended by Pub. L. 114–94, div. A, title V, § 5518, Dec. 4, 2015, 129 Stat. 1558, provided that: “(a) Federal Requirements.—A covered farm vehicle, including the individual operating that vehicle, shall be exempt from the following:“(1) Any requirement relating to commercial driver’s licenses established under chapter 313 of title 49, United States Code. “(2) Any requirement relating to drug-testing established under chapter 313 of title 49, United States Code. “(3) Any requirement relating to medical certificates established under—“(A) subchapter III of chapter 311 of title 49, United States Code; or “(B) chapter 313 of title 49, United States Code. “(4) Any requirement relating to hours of service established under—“(A) subchapter III of chapter 311 of title 49, United States Code; or “(B) chapter 315 of title 49, United States Code. “(5) Any requirement relating to vehicle inspection, repair, and maintenance established under—“(A) subchapter III of chapter 311 of title 49, United States Code; or “(B) chapter 315 of title 49, United States Code. “(b) State Requirements.—“(1) In general.—Federal transportation funding to a State may not be terminated, limited, or otherwise interfered with as a result of the State exempting a covered farm vehicle, including the individual operating that vehicle, from—“(A) a requirement described in subsection (a) or a compatible State requirement; or “(B) any other minimum standard provided by a State relating to the operation of that vehicle. “(2) Exception.—Paragraph (1) does not apply with respect to a covered farm vehicle transporting hazardous materials that require a placard. “(c) Covered Farm Vehicle Defined.—“(1) In general.—In this section, the term ‘covered farm vehicle’ means a motor vehicle (including an articulated motor vehicle)—“(A) that—“(i) is traveling in the State in which the vehicle is registered or another State; “(ii) is operated by— “(I) a farm owner or operator; “(II) a ranch owner or operator; or “(III) an employee or family member of an individual specified in subclause (I) or (II); “(iii) is transporting to or from a farm or ranch— “(I) agricultural commodities; “(II) livestock; or “(III) machinery or supplies; “(iv) except as provided in paragraph (2), is not used in the operations of a for-hire motor carrier; and “(v) is equipped with a special license plate or other designation by the State in which the vehicle is registered to allow for identification of the vehicle as a farm vehicle by law enforcement personnel; and “(B) that has a gross vehicle weight rating or gross vehicle weight, whichever is greater, that is—“(i) 26,001 pounds or less; or “(ii) greater than 26,001 pounds and traveling within the State or within 150 air miles of the farm or ranch with respect to which the vehicle is being operated. “(2) Inclusion.—In this section, the term ‘covered farm vehicle’ includes a motor vehicle that meets the requirements of paragraph (1) (other than paragraph (1)(A)(iv)) and—“(A) is operated pursuant to a crop share farm lease agreement; “(B) is owned by a tenant with respect to that agreement; and “(C) is transporting the landlord’s portion of the crops under that agreement. “(d) Safety Study.—The Secretary of Transportation shall conduct a study of the exemption required by subsection (a) as follows:“(1) Data and analysis of covered farm vehicles shall include—“(A) the number of vehicles that are operated subject to each of the regulatory exemptions permitted under subsection (a); “(B) the number of drivers that operate covered farm vehicles subject to each of the regulatory exemptions permitted under subsection (a); “(C) the number of crashes involving covered farm vehicles; “(D) the number of occupants and non-occupants injured in crashes involving covered farm vehicles; “(E) the number of fatalities of occupants and non-occupants killed in crashes involving farm vehicles; “(F) crash investigations and accident reconstruction investigations of all fatalities in crashes involving covered farm vehicles; “(G) overall operating mileage of covered farm vehicles; “(H) numbers of covered farm vehicles that operate in neighboring States; and “(I) any other data the Secretary deems necessary to analyze and include. “(2) A listing of State regulations issued and maintained in each State that are identical to the Federal regulations that are subject to exemption in subsection (a). “(3) The Secretary shall report the findings of the study to the appropriate committees of Congress not later than 18 months after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways]. “(e) Construction.—Nothing in this section shall be construed as authority for the Secretary of Transportation to prescribe regulations.”
 
 #### Hours of Service Rules for Operators Providing Transportation to Movie Production Sites
 Pub. L. 109–59, title IV, § 4133, Aug. 10, 2005, 119 Stat. 1744, provided that: “Notwithstanding sections 31136 and 31502 of title 49, United States Code, and any other provision of law, the maximum daily hours of service for an operator of a commercial motor vehicle providing transportation of property or passengers to or from a theatrical or television motion picture production site located within a 100 air mile radius of the work reporting location of such operator shall be those in effect under the regulations in effect under such sections on April 27, 2003.”
@@ -1631,7 +1966,7 @@ Pub. L. 109–59, title IV, § 4136, Aug. 10, 2005, 119 Stat. 1745, provided tha
 Pub. L. 106–159, title I, § 101(f), Dec. 9, 1999, 113 Stat. 1752, provided that: “The authority under title 49, United States Code, to promulgate safety standards for commercial motor vehicles and equipment subsequent to initial manufacture is vested in the Secretary and may be delegated.”
 
 #### Certain Exemptions
-Pub. L. 106–159, title II, § 229, as added and amended by Pub. L. 109–59, title IV, §§ 4115(a), (c), 4130–4132, 4147, Aug. 10, 2005, 119 Stat. 1726, 1743, 1744, 1749; Pub. L. 110–244, title III, § 301(i), June 6, 2008, 122 Stat. 1616; Pub. L. 112–141, div. C, title II, § 32101(d), July 6, 2012, 126 Stat. 778, provided that: “(a) Exemptions.—“(1) Transportation of agricultural commodities and farm supplies.—Regulations prescribed by the Secretary [of Transportation] under sections 31136 and 31502 [of title 49, United States Code] regarding maximum driving and on-duty time for drivers used by motor carriers shall not apply during planting and harvest periods, as determined by each State, to—“(A) drivers transporting agricultural commodities from the source of the agricultural commodities to a location within a 150 air-mile radius from the source; “(B) drivers transporting farm supplies for agricultural purposes from a wholesale or retail distribution point of the farm supplies to a farm or other location where the farm supplies are intended to be used within a 150 air-mile radius from the distribution point; or “(C) drivers transporting farm supplies for agricultural purposes from a wholesale distribution point of the farm supplies to a retail distribution point of the farm supplies within a 150 air-mile radius from the wholesale distribution point. “(2) Transportation and operation of ground water well drilling rigs.—Such regulations shall, in the case of a driver of a commercial motor vehicle who is used primarily in the transportation and operation of a ground water well drilling rig, permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum driving and on-duty time. Except as required in section 395.3 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this sentence [Aug. 10, 2005], no additional off-duty time shall be required in order to operate such vehicle. “(3) Transportation of construction materials and equipment.—Such regulations shall, in the case of a driver of a commercial motor vehicle who is used primarily in the transportation of construction materials and equipment, permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum driving and on-duty time. “(4) Operators of utility service vehicles.—“(A) Inapplicability of federal regulations.—Such regulations shall not apply to a driver of a utility service vehicle. “(B) Prohibition on state regulations.—A State, a political subdivision of a State, an interstate agency, or other entity consisting of two or more States, shall not enact or enforce any law, rule, regulation, or standard that imposes requirements on a driver of a utility service vehicle that are similar to the requirements contained in such regulations. “(5) Snow and ice removal.—A State may waive the requirements of chapter 313 of title 49, United States Code, with respect to a vehicle that is being operated within the boundaries of an eligible unit of local government by an employee of such unit for the purpose of removing snow or ice from a roadway by plowing, sanding, or salting. Such waiver authority shall only apply in a case where the employee is needed to operate the vehicle because the employee of the eligible unit of local government who ordinarily operates the vehicle and who has a commercial drivers license is unable to operate the vehicle or is in need of additional assistance due to a snow emergency. “(b) Preemption.—Except as provided in subsection (a)(4), nothing contained in this section shall require the preemption of State laws and regulations concerning the safe operation of commercial motor vehicles as the result of exemptions from Federal requirements provided under this section. “(c) Review by the Secretary.—The Secretary [of Transportation] may conduct a rulemaking proceeding to determine whether granting any exemption provided by subsection (a) (other than paragraph (1), (2), or (4)) is not in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles. If, at any time as a result of such a proceeding, the Secretary determines that granting such exemption would not be in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles, the Secretary may prevent the exemption from going into effect, modify the exemption, or revoke the exemption. The Secretary may develop a program to monitor the exemption, including agreements with carriers to permit the Secretary to examine insurance information maintained by an insurer on a carrier. “(d) Report.—The Secretary shall monitor the commercial motor vehicle safety performance of drivers of vehicles that are subject to an exemption under this section. If the Secretary determines that public safety has been adversely affected by an exemption granted under this section, the Secretary shall report to Congress on the determination. “(e) Definitions.—In this section, the following definitions apply:“(1) 7 or 8 consecutive days.—The term ‘7 or 8 consecutive days’ means the period of 7 or 8 consecutive days beginning on any day at the time designated by the motor carrier for a 24-hour period. “(2) 24-hour period.—The term ‘24-hour period’ means any 24 consecutive hour period beginning at the time designated by the motor carrier for the terminal from which the driver is normally dispatched. “(3) Ground water well drilling rig.—The term ‘ground water well drilling rig’ means any vehicle, machine, tractor, trailer, semi-trailer, or specialized mobile equipment propelled or drawn by mechanical power and used on highways to transport water well field operating equipment, including water well drilling and pump service rigs equipped to access ground water. “(4) Transportation of construction materials and equipment.—The term ‘transportation of construction materials and equipment’ means the transportation of construction and pavement materials, construction equipment, and construction maintenance vehicles, by a driver to or from an active construction site (a construction site between initial mobilization of equipment and materials to the site to the final completion of the construction project) within a 50 air mile radius of the normal work reporting location of the driver. This paragraph does not apply to the transportation of material found by the Secretary to be hazardous under [section 5103 of title 49](./chapter-051-transportation-of-hazardous-material.md#section-5103), United States Code, in a quantity requiring placarding under regulations issued to carry out such section. “(5) Eligible unit of local government.—The term ‘eligible unit of local government’ means a city, town, borough, county, parish, district, or other public body created by or pursuant to State law which has a total population of 3,000 individuals or less. “(6) Utility service vehicle.—The term ‘utility service vehicle’ means any commercial motor vehicle—“(A) used in the furtherance of repairing, maintaining, or operating any structures or any other physical facilities necessary for the delivery of public utility services, including the furnishing of electric, gas, water, sanitary sewer, telephone, and television cable or community antenna service; “(B) while engaged in any activity necessarily related to the ultimate delivery of such public utility services to consumers, including travel or movement to, from, upon, or between activity sites (including occasional travel or movement outside the service area necessitated by any utility emergency as determined by the utility provider); and “(C) except for any occasional emergency use, operated primarily within the service area of a utility’s subscribers or consumers, without regard to whether the vehicle is owned, leased, or rented by the utility. “(7) Agricultural commodity.—The term ‘agricultural commodity’ means any agricultural commodity, non-processed food, feed, fiber, or livestock (including livestock as defined in section 602 of the Emergency Livestock Feed Assistance Act of 1988 ([7 U.S.C. 1471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1471&num=0&edition=prelim)) and insects). “(8) Farm supplies for agricultural purposes.—The term ‘farm supplies for agricultural purposes’ means products directly related to the growing or harvesting of agricultural commodities during the planting and harvesting seasons within each State, as determined by the State, and livestock feed at any time of the year. “(f) Emergency Condition Requiring Immediate Response.—“(1) Propane or pipeline emergency.—A regulation prescribed under section 31136 or 31502 of title 49, United States Code, shall not apply to a driver of a commercial motor vehicle which is used primarily in the transportation of propane winter heating fuel or a driver of a motor vehicle used to respond to a pipeline emergency if such regulations would prevent the driver from responding to an emergency condition requiring immediate response. “(2) Definition.—An emergency condition requiring immediate response is any condition that, if left unattended, is reasonably likely to result in immediate serious bodily harm, death, or substantial damage to property. In the case of propane such conditions shall include (but are not limited to) the detection of gas odor, the activation of carbon monoxide alarms, the detection of carbon monoxide poisoning, and any real or suspected damage to a propane gas system following a severe storm or flooding. An ‘emergency condition requiring an immediate response’ does not include requests to re-fill empty gas tanks. In the case of pipelines such conditions include (but are not limited to) indication of an abnormal pressure event, leak, release or rupture.”
+Pub. L. 106–159, title II, § 229, as added and amended by Pub. L. 109–59, title IV, §§ 4115(a), (c), 4130–4132, 4147, Aug. 10, 2005, 119 Stat. 1726, 1743, 1744, 1749; Pub. L. 110–244, title III, § 301(i), June 6, 2008, 122 Stat. 1616; Pub. L. 112–141, div. C, title II, § 32101(d), July 6, 2012, 126 Stat. 778; Pub. L. 114–94, div. A, title V, §§ 5508(c), 5522, Dec. 4, 2015, 129 Stat. 1554, 1559, provided that: “(a) Exemptions.—“(1) Transportation of agricultural commodities and farm supplies.—Regulations prescribed by the Secretary [of Transportation] under sections 31136 and 31502 of title 49, United States Code, regarding maximum driving and on-duty time for drivers used by motor carriers shall not apply during planting and harvest periods, as determined by each State, to—“(A) drivers transporting agricultural commodities from the source of the agricultural commodities to a location within a 150 air-mile radius from the source; “(B) drivers transporting farm supplies for agricultural purposes from a wholesale or retail distribution point of the farm supplies to a farm or other location where the farm supplies are intended to be used within a 150 air-mile radius from the distribution point; or “(C) drivers transporting farm supplies for agricultural purposes from a wholesale distribution point of the farm supplies to a retail distribution point of the farm supplies within a 150 air-mile radius from the wholesale distribution point. “(2) Transportation and operation of ground water well drilling rigs.—Such regulations shall, in the case of a driver of a commercial motor vehicle who is used primarily in the transportation and operation of a ground water well drilling rig, permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum driving and on-duty time. Except as required in section 395.3 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this sentence [Aug. 10, 2005], no additional off-duty time shall be required in order to operate such vehicle. “(3) Transportation of construction materials and equipment.—Such regulations shall, in the case of a driver of a commercial motor vehicle who is used primarily in the transportation of construction materials and equipment, permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum driving and on-duty time. “(4) Operators of utility service vehicles.—“(A) Inapplicability of federal regulations.—Such regulations shall not apply to a driver of a utility service vehicle. “(B) Prohibition on state regulations.—A State, a political subdivision of a State, an interstate agency, or other entity consisting of two or more States, shall not enact or enforce any law, rule, regulation, or standard that imposes requirements on a driver of a utility service vehicle that are similar to the requirements contained in such regulations. “(5) Snow and ice removal.—A State may waive the requirements of chapter 313 of title 49, United States Code, with respect to a vehicle that is being operated within the boundaries of an eligible unit of local government by an employee of such unit for the purpose of removing snow or ice from a roadway by plowing, sanding, or salting. Such waiver authority shall only apply in a case where the employee is needed to operate the vehicle because the employee of the eligible unit of local government who ordinarily operates the vehicle and who has a commercial drivers license is unable to operate the vehicle or is in need of additional assistance due to a snow emergency. “(b) Preemption.—Except as provided in subsection (a)(4), nothing contained in this section shall require the preemption of State laws and regulations concerning the safe operation of commercial motor vehicles as the result of exemptions from Federal requirements provided under this section. “(c) Review by the Secretary.—The Secretary [of Transportation] may conduct a rulemaking proceeding to determine whether granting any exemption provided by subsection (a) (other than paragraph (1), (2), or (4)) is not in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles. If, at any time as a result of such a proceeding, the Secretary determines that granting such exemption would not be in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles, the Secretary may prevent the exemption from going into effect, modify the exemption, or revoke the exemption. The Secretary may develop a program to monitor the exemption, including agreements with carriers to permit the Secretary to examine insurance information maintained by an insurer on a carrier. “(d) Report.—The Secretary shall monitor the commercial motor vehicle safety performance of drivers of vehicles that are subject to an exemption under this section. If the Secretary determines that public safety has been adversely affected by an exemption granted under this section, the Secretary shall report to Congress on the determination. “(e) Definitions.—In this section, the following definitions apply:“(1) 7 or 8 consecutive days.—The term ‘7 or 8 consecutive days’ means the period of 7 or 8 consecutive days beginning on any day at the time designated by the motor carrier for a 24-hour period. “(2) 24-hour period.—The term ‘24-hour period’ means any 24 consecutive hour period beginning at the time designated by the motor carrier for the terminal from which the driver is normally dispatched. “(3) Ground water well drilling rig.—The term ‘ground water well drilling rig’ means any vehicle, machine, tractor, trailer, semi-trailer, or specialized mobile equipment propelled or drawn by mechanical power and used on highways to transport water well field operating equipment, including water well drilling and pump service rigs equipped to access ground water. “(4) Transportation of construction materials and equipment.—The term ‘transportation of construction materials and equipment’ means the transportation of construction and pavement materials, construction equipment, and construction maintenance vehicles, by a driver to or from an active construction site (a construction site between initial mobilization of equipment and materials to the site to the final completion of the construction project) within a 75 air mile radius of the normal work reporting location of the driver, except that a State, upon notice to the Secretary, may establish a different air mile radius limitation for purposes of this paragraph if such limitation is between 50 and 75 air miles and applies only to movements that take place entirely within the State. This paragraph does not apply to the transportation of material found by the Secretary to be hazardous under [section 5103 of title 49](./chapter-051-transportation-of-hazardous-material.md#section-5103), United States Code, in a quantity requiring placarding under regulations issued to carry out such section. “(5) Eligible unit of local government.—The term ‘eligible unit of local government’ means a city, town, borough, county, parish, district, or other public body created by or pursuant to State law which has a total population of 3,000 individuals or less. “(6) Utility service vehicle.—The term ‘utility service vehicle’ means any commercial motor vehicle—“(A) used in the furtherance of repairing, maintaining, or operating any structures or any other physical facilities necessary for the delivery of public utility services, including the furnishing of electric, gas, water, sanitary sewer, telephone, and television cable or community antenna service; “(B) while engaged in any activity necessarily related to the ultimate delivery of such public utility services to consumers, including travel or movement to, from, upon, or between activity sites (including occasional travel or movement outside the service area necessitated by any utility emergency as determined by the utility provider); and “(C) except for any occasional emergency use, operated primarily within the service area of a utility’s subscribers or consumers, without regard to whether the vehicle is owned, leased, or rented by the utility. “(7) Agricultural commodity.—The term ‘agricultural commodity’ means any agricultural commodity, non-processed food, feed, fiber, or livestock (including livestock as defined in section 602 of the Emergency Livestock Feed Assistance Act of 1988 ([7 U.S.C. 1471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1471&num=0&edition=prelim)) and insects). “(8) Farm supplies for agricultural purposes.—The term ‘farm supplies for agricultural purposes’ means products directly related to the growing or harvesting of agricultural commodities during the planting and harvesting seasons within each State, as determined by the State, and livestock feed at any time of the year. “(f) Emergency Condition Requiring Immediate Response.—“(1) Propane or pipeline emergency.—A regulation prescribed under section 31136 or 31502 of title 49, United States Code, shall not apply to a driver of a commercial motor vehicle which is used primarily in the transportation of propane winter heating fuel or a driver of a motor vehicle used to respond to a pipeline emergency if such regulations would prevent the driver from responding to an emergency condition requiring immediate response. “(2) Definition.—An emergency condition requiring immediate response is any condition that, if left unattended, is reasonably likely to result in immediate serious bodily harm, death, or substantial damage to property. In the case of propane such conditions shall include (but are not limited to) the detection of gas odor, the activation of carbon monoxide alarms, the detection of carbon monoxide poisoning, and any real or suspected damage to a propane gas system following a severe storm or flooding. An ‘emergency condition requiring an immediate response’ does not include requests to re-fill empty gas tanks. In the case of pipelines such conditions include (but are not limited to) indication of an abnormal pressure event, leak, release or rupture.”
 
 #### Protection of Existing Exemptions
 Pub. L. 105–178, title IV, § 4007(d), June 9, 1998, 112 Stat. 404, provided that: “The amendments made by this section [amending this section and [section 31315 of this title](./chapter-313-commercial-motor-vehicle-operators.md#section-31315)] shall not apply to or otherwise affect a waiver, exemption, or pilot program in effect on the day before the date of enactment of this Act [June 9, 1998] under chapter 313 or [section 31136(e) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31136/e&num=0&edition=prelim), United States Code.”
@@ -1640,7 +1975,7 @@ Pub. L. 105–178, title IV, § 4007(d), June 9, 1998, 112 Stat. 404, provided t
 Pub. L. 105–178, title IV, § 4008(b), June 9, 1998, 112 Stat. 404, provided that: “Effective on the last day of the 1-year period beginning on the date of enactment of this Act [June 9, 1998], regulations prescribed under [section 31136 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31136), United States Code, shall apply to operators of commercial motor vehicles described in section 31132(1)(B) of such title (as amended by subsection (a)) to the extent that those regulations did not apply to those operators on the day before such effective date, except to the extent that the Secretary determines, through a rulemaking proceeding, that it is appropriate to exempt such operators of commercial motor vehicles from the application of those regulations.”
 
 #### Improved Interstate School Bus Safety
-Pub. L. 105–178, title IV, § 4024, June 9, 1998, 112 Stat. 416, as amended by Pub. L. 107–110, title X, § 1076(ii), Jan. 8, 2002, 115 Stat. 2094, provided that: “Not later than 6 months after the date of enactment of this Act [June 9, 1998], the Secretary shall initiate a rulemaking proceeding to determine whether or not relevant commercial motor carrier safety regulations issued under [section 31136 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31136), United States Code, should apply to all interstate school transportation operations by local educational agencies (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)]).”
+Pub. L. 105–178, title IV, § 4024, June 9, 1998, 112 Stat. 416, as amended by Pub. L. 107–110, title X, § 1076(ii), Jan. 8, 2002, 115 Stat. 2094, required the Secretary to initiate a rulemaking, not later than 6 months after June 9, 1998, regarding applicability of commercial motor carrier safety regulations to interstate school transportation operations by local educational agencies.
 
 #### Federal Highway Administration Rulemaking
 Pub. L. 104–88, title IV, § 408, Dec. 29, 1995, 109 Stat. 958, provided that: “(a) Advance Notice.—The Federal Highway Administration shall issue an advance notice of proposed rulemaking dealing with a variety of fatigue-related issues pertaining to commercial motor vehicle motor vehicle safety (including 8 hours of continuous sleep after 10 hours of driving, loading and unloading operations, automated and tamper-proof recording devices, rest and recovery cycles, fatigue and stress in longer combination vehicles, fitness for duty, and other appropriate regulatory and enforcement countermeasures for reducing fatigue-related incidents and increasing driver alertness) not later than March 1, 1996. “(b) Rulemaking.—The Federal Highway Administration shall issue a notice of proposed rulemaking dealing with such issues within 1 year after issuance of the advance notice under subsection (a) is published and shall issue a final rule dealing with those issues within 2 years after the last day of such 1-year period.”
@@ -1649,7 +1984,7 @@ Pub. L. 104–88, title IV, § 408, Dec. 29, 1995, 109 Stat. 958, provided that:
 Pub. L. 104–59, title III, § 345, Nov. 28, 1995, 109 Stat. 613, which related to exemption from certain regulatory or statutory requirements for transportation of agricultural commodities and farm supplies, transportation and operation of ground water well drilling rigs, transportation of construction materials and equipment, utility service vehicles, and vehicles operated for snow or ice removal, was repealed by Pub. L. 109–59, title IV, § 4115(d), Aug. 10, 2005, 119 Stat. 1726. The text of former section 345 of Pub. L. 104–59 was inserted as part of section 229 of Pub. L. 106–159, as added by section 4115(a) of Pub. L. 109–59, and is set out above.
 
 #### Winter Home Heating Oil Delivery State Flexibility Program
-Pub. L. 104–59, title III, § 346, Nov. 28, 1995, 109 Stat. 615, as amended by Pub. L. 105–178, title I, § 1211(j), June 9, 1998, 112 Stat. 192; Pub. L. 105–206, title IX, § 9003(d)(3), July 22, 1998, 112 Stat. 839, provided that: “(a) In General.—After notice and opportunity for comment, the Secretary shall develop and implement a pilot program for the purpose of evaluating waivers of the regulations issued by the Secretary pursuant to sections 31136 and 31502 of title 49, United States Code, relating to maximum on-duty time, and sections 31102 and 31104(j) of such title, relating to the Motor Carrier Safety Assistance Program, to permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum on-duty time for drivers of motor vehicles making intrastate home heating oil deliveries that occur within 100 air miles of a central terminal or distribution point of the delivery of such oil. The Secretary may approve up to 5 States to participate in the pilot program during the winter heating season in the 6-month period beginning on November 1, 1996. “(b) Approval Criteria.—The Secretary shall select States to participate in the pilot program upon approval of applications submitted by States to the Secretary. The Secretary shall act on a State’s application within 30 days after the date of its submission. The Secretary may only approve an application of a State under this section if the Secretary finds, at a minimum, that—“(1) a substantial number of the citizens of the State rely on home heating oil for heat during winter months; “(2) current maximum on-duty time regulations may endanger the welfare of these citizens by impeding timely deliveries of home heating oil; “(3) the State will ensure an equal to or greater level of safety with respect to home heating oil deliveries than the level of safety resulting from compliance with the regulations referred to in subsection (a); “(4) the State will monitor the safety of home heating oil deliveries while participating in the program; “(5) employers of deliverers of home heating oil that will be covered by the program will agree to make all safety data developed from the pilot program available to the State and to the Secretary; “(6) the State will only permit employers of deliverers of home heating oil with satisfactory safety records to be covered by the program; and “(7) the State will comply with such other criteria as the Secretary determines are necessary to implement the program consistent with this section. “(c) Participation in Program.—Upon approval of an application of a State under this section, the Secretary shall permit the State to participate in the pilot program for an initial period of 15 days during the winter heating season of the State (as determined by the Governor and the Secretary). If, after the last day of such 15-day period, the Secretary finds that a State’s continued participation in the program is consistent with this section and has resulted in no significant adverse impact on public safety and is in the public interest, the Secretary shall extend the State’s participation in the program for periods of up to 30 additional days during such heating season. “(d) Suspension From Program.—The Secretary may suspend a State’s participation in the pilot program at any time if the Secretary finds—“(1) that the State has not complied with any of the criteria for participation in the program under this section; “(2) that a State’s participation in the program has caused a significant adverse impact on public safety and is not in the public interest; or “(3) the existence of an emergency. “(e) Review by Secretary.—Within 90 days after the completion of the pilot program, the Secretary shall initiate a rulemaking to determine, based in part on the results of the program, whether to—“(1) permit a State to grant waivers of the regulations referred to in subsection (a) to motor carriers transporting home heating oil within the borders of the State, subject to such conditions as the Secretary may impose, if the Secretary determines that such waivers by the State meet the conditions in [section 31136(e) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31136/e&num=0&edition=prelim), United States Code; or “(2) amend the regulations referred to in subsection (a) as may be necessary to provide flexibility to motor carriers delivering home heating oil during winter periods of peak demand. “(f) Definition.—In this section, the term ‘7 or 8 consecutive days’ has the meaning such term has under section 345 of this Act [set out above].”
+Pub. L. 104–59, title III, § 346, Nov. 28, 1995, 109 Stat. 615, as amended by Pub. L. 105–178, title I, § 1211(j), June 9, 1998, 112 Stat. 192; Pub. L. 105–206, title IX, § 9003(d)(3), July 22, 1998, 112 Stat. 839, which related to a pilot program for evaluating effects of maximum on-duty time regulations on winter home heating oil delivery, was repealed by Pub. L. 114–94, div. A, title V, § 5101(e)(11), Dec. 4, 2015, 129 Stat. 1526, effective Oct. 1, 2016.
 
 
 <a id="section-31137"></a>
@@ -1676,7 +2011,7 @@ Pub. L. 104–59, title III, § 346, Nov. 28, 1995, 109 Stat. 615, as amended by
 
   (B) allow law enforcement to access the data contained in the device during a roadside inspection; and
 
-  (C) apply to a commercial motor vehicle beginning on the date that is 2 years after the date that the regulations are published as a final rule.
+  (C) except as provided in paragraph (3), apply to a commercial motor vehicle beginning on the date that is 2 years after the date that the regulations are published as a final rule.
 
 (2) **Performance and design standards.—** — The regulations prescribed under subsection (a) shall establish performance standards—
 
@@ -1697,6 +2032,12 @@ Pub. L. 104–59, title III, § 346, Nov. 28, 1995, 109 Stat. 615, as amended by
   (C) establishing a standard security level for an electronic logging device and related components to be tamper resistant by using a methodology endorsed by a nationally recognized standards organization; and
 
   (D) identifying each driver subject to the hours of service and record of duty status requirements under part 395 of title 49, Code of Federal Regulations.
+
+(3) **Exception.—** — A motor carrier, when transporting a motor home or recreation vehicle trailer within the definition of the term “driveaway-towaway operation” (as defined in section 390.5 of title 49, Code of Federal Regulations), may comply with the hours of service requirements by requiring each driver to use—
+
+  (A) a paper record of duty status form; or
+
+  (B) an electronic logging device.
 
 **(c) Certification Criteria.—**
 
@@ -1748,13 +2089,24 @@ In subsection (b), the text of 49 App.:2521(a) is omitted as executed.
 The date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subsec. (a), is the date of enactment of title II of div. C of Pub. L. 112–141, which was approved July 6, 2012.
 
 #### Amendments
+2015—Pub. L. 114–94, § 5508(b)(2), amended directory language of Pub. L. 112–141, § 32301(b)(3). See 2012 Amendment note for subsecs. (a) to (f) below.
+
+Subsec. (b)(1)(C). Pub. L. 114–94, § 5507(1), substituted “except as provided in paragraph (3), apply to” for “apply to”.
+
+Subsec. (b)(3). Pub. L. 114–94, § 5507(2), added par. (3).
+
 2012—Pub. L. 112–141, § 32301(b)(1), substituted “Electronic logging devices and brake maintenance regulations” for “Monitoring device and brake maintenance regulations” in section catchline.
 
-Subsecs. (a) to (f). Pub. L. 112–141, § 32301(b)(3), which directed that subsec. (a) be generally amended by substituting new subsecs. (a) to (f), was executed by generally amending subsec. (a) and adding subsecs. (b) to (f) to reflect the probable intent of Congress. Prior to amendment, text of subsec. (a) read as follows: “If the Secretary of Transportation prescribes a regulation about the use of monitoring devices on commercial motor vehicles to increase compliance by operators of the vehicles with hours of service regulations of the Secretary, the regulation shall ensure that the devices are not used to harass vehicle operators. However, the devices may be used to monitor productivity of the operators.” Former subsec. (b) redesignated (g).
+Subsecs. (a) to (f). Pub. L. 112–141, § 32301(b)(3), as amended by Pub. L. 114–94, § 5508(b)(2), added subsecs. (a) to (f) and struck out former subsec. (a). Prior to amendment, text of subsec. (a) read as follows: “If the Secretary of Transportation prescribes a regulation about the use of monitoring devices on commercial motor vehicles to increase compliance by operators of the vehicles with hours of service regulations of the Secretary, the regulation shall ensure that the devices are not used to harass vehicle operators. However, the devices may be used to monitor productivity of the operators.” Former subsec. (b) redesignated (g).
 
 Subsec. (g). Pub. L. 112–141, § 32931(a), which directed substitution of “The Secretary shall maintain” for “Not later than December 1, 1990, the Secretary shall prescribe”, was executed by making the substitution for “Not later than December 31, 1990, the Secretary shall prescribe”, to reflect the probable intent of Congress.
 
 Pub. L. 112–141, § 32301(b)(2), redesignated subsec. (b) as (g).
+
+#### Effective Date of 2015 Amendment
+Amendment by section 5507 of Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+Pub. L. 114–94, div. A, title V, § 5508(b), Dec. 4, 2015, 129 Stat. 1554, provided that the amendment made by section 5508(b)(2) is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
@@ -1875,7 +2227,10 @@ Subsec. (d)(5). Pub. L. 109–59, § 4121, substituted “Highway Trust Fund (ot
 Subsec. (e)(4). Pub. L. 104–88, § 104(d), added par. (4).
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
+#### Minimum Financial Responsibility
+Pub. L. 114–94, div. A, title V, § 5509, Dec. 4, 2015, 129 Stat. 1554, provided that: “(a) Transporting Property.—If the Secretary [of Transportation] proceeds with a rulemaking to determine whether to increase the minimum levels of financial responsibility required under [section 31139 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31139), United States Code, the Secretary shall consider, prior to issuing a final rule—“(1) the rulemaking’s potential impact on—“(A) the safety of motor vehicle transportation; and “(B) the motor carrier industry; “(2) the ability of the insurance industry to provide the required amount of insurance; “(3) the extent to which current minimum levels of financial responsibility adequately cover—“(A) medical care; “(B) compensation; and “(C) other identifiable costs; “(4) the frequency with which insurance claims exceed current minimum levels of financial responsibility in fatal accidents; and “(5) the impact of increased levels on motor carrier safety and accident reduction. “(b) Transporting Passengers.—“(1) In general.—Prior to initiating a rulemaking to change the minimum levels of financial responsibility under [section 31138 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31138), United States Code, the Secretary shall complete a study specific to the minimum financial responsibility requirements for motor carriers of passengers. “(2) Study contents.—A study under paragraph (1) shall include, to the extent practicable—“(A) a review of accidents, injuries, and fatalities in the over-the-road bus and school bus industries; “(B) a review of insurance held by over-the-road bus and public and private school bus companies, including companies of various sizes, and an analysis of whether such insurance is adequate to cover claims; “(C) an analysis of whether and how insurance affects the behavior and safety record of motor carriers of passengers, including with respect to crash reduction; and “(D) an analysis of the anticipated impacts of an increase in financial responsibility on insurance premiums for passenger carriers and service availability. “(3) Consultation.—In conducting a study under paragraph (1), the Secretary shall consult with—“(A) representatives of the over-the-road bus and private school bus transportation industries, including representatives of bus drivers; and “(B) insurers of motor carriers of passengers. “(4) Report.—If the Secretary undertakes a study under paragraph (1), the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study.”
 
 
 <a id="section-31139"></a>
@@ -2041,7 +2396,7 @@ Subsec. (h). Pub. L. 109–59, § 4120(b)(2), redesignated subsec. (g) as (h).
 Amendment by section 301(f) of Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-31140"></a>
@@ -2271,17 +2626,11 @@ Pub. L. 105–178, title IV, § 4017, June 9, 1998, 112 Stat. 413, as amended by
 
 (4) **New entrant authority.—** — Notwithstanding any other provision of this title, any new operating authority granted after the date on which section 31148(b) is first implemented shall be designated as new entrant authority until the safety review required by paragraph (1) is completed.
 
-(5) **New entrant audits.—**
-
-  (A) *Grants.—* — The Secretary may make grants to States and local governments for new entrant motor carrier audits under this subsection without requiring a matching contribution from such States and local governments.
-
-  (B) *Set aside.—* — The Secretary shall set aside from amounts made available by section 31104(a) up to $32,000,000 per fiscal year and up to $26,652,055 for the period beginning on October 1, 2014, and ending on July 31, 2015, for audits of new entrant motor carriers conducted pursuant to this paragraph.
-
-  (C) *Determination.—* — If the Secretary determines that a State or local government is not able to use government employees to conduct new entrant motor carrier audits, the Secretary may use the funds set aside under this paragraph to conduct audits for such States or local governments.
+(5) Repealed. Pub. L. 114–94, div. A, title V, § 5101(e)(1), Dec. 4, 2015, 129 Stat. 1525.]
 
 (6) **Additional requirements for household goods motor carriers.—**
 
-  (A) In addition to the requirements of this subsection, the Secretary shall require, by regulation, each registered household goods motor carrier to undergo a consumer protection standards review not later than 18 months after the household goods motor carrier begins operations under such authority.
+  (A) *In general.—* — In addition to the requirements of this subsection, the Secretary shall require, by regulation, each registered household goods motor carrier to undergo a consumer protection standards review not later than 18 months after the household goods motor carrier begins operations under such authority.
 
   (B) *Elements.—* — In the regulations issued pursuant to subparagraph (A), the Secretary shall establish the elements of the consumer protections standards review, including basic management controls. In establishing the elements, the Secretary shall consider the effects on small businesses and shall consider establishing alternate locations where such reviews may be conducted for the convenience of small businesses.
 
@@ -2334,7 +2683,19 @@ In subsection (a)(1), the words “after notice and opportunity for comment” a
 The date of enactment of the Motorcoach Enhanced Safety Act of 2012, referred to in subsec. (i)(1)(B), is the date of enactment of subtitle G of title II of div. C of Pub. L. 112–141, which was approved July 6, 2012.
 
 #### Amendments
-2015—Subsec. (g)(5)(B). Pub. L. 114–21 substituted “and up to $26,652,055 for the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and up to $21,304,110 for the period beginning on October 1, 2014, and ending on May 31, 2015,”.
+2015—Subsec. (g)(5). Pub. L. 114–94, § 5101(e)(1), struck out par. (5) which provided for grants to States for new entrant audits.
+
+Subsec. (g)(5)(B). Pub. L. 114–94, § 5105(d), amended subpar. (B) generally. Prior to amendment, text read as follows: “The Secretary shall set aside from amounts made available by section 31104(a) up to $32,000,000 per fiscal year and up to $5,683,060 for the period beginning on October 1, 2015, and ending on December 4, 2015, for audits of new entrant motor carriers conducted pursuant to this paragraph.”
+
+Pub. L. 114–87 substituted “and up to $5,683,060 for the period beginning on October 1, 2015, and ending on December 4, 2015,” for “and up to $4,459,016 for the period beginning on October 1, 2015, and ending on November 20, 2015,”.
+
+Pub. L. 114–73 substituted “and up to $4,459,016 for the period beginning on October 1, 2015, and ending on November 20, 2015,” for “and up to $2,535,519 for the period beginning on October 1, 2015, and ending on October 29, 2015,”.
+
+Pub. L. 114–41 substituted “per fiscal year and up to $2,535,519 for the period beginning on October 1, 2015, and ending on October 29, 2015,” for “per fiscal year and up to $26,652,055 for the period beginning on October 1, 2014, and ending on July 31, 2015,”.
+
+Pub. L. 114–21 substituted “and up to $26,652,055 for the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and up to $21,304,110 for the period beginning on October 1, 2014, and ending on May 31, 2015,”.
+
+Subsec. (g)(6). Pub. L. 114–94, § 5508(b)(4), amended Pub. L. 112–141, § 32921(b). See 2012 Amendment note below.
 
 2014—Subsec. (g)(5)(B). Pub. L. 113–159 inserted “and up to $21,304,110 for the period beginning on October 1, 2014, and ending on May 31, 2015,” after “per fiscal year”.
 
@@ -2348,7 +2709,7 @@ Pub. L. 112–140, §§ 1(c), 202(e), temporarily substituted “and up to $22,0
 
 Pub. L. 112–102 substituted “and up to $21,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “and up to $14,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
 
-Subsec. (g)(6). Pub. L. 112–141, § 32921(b), added par. (6).
+Subsec. (g)(6). Pub. L. 112–141, § 32921(b), as amended by Pub. L. 114–94, § 5508(b)(4), added par. (6).
 
 Subsec. (h). Pub. L. 112–141, § 32202, added subsec. (h).
 
@@ -2412,6 +2773,13 @@ Subsec. (b). Pub. L. 104–88, § 104(g)(4), added subsec. (b) and struck out fo
 
 “(2) deny the application.”
 
+#### Effective Date of 2015 Amendment
+Amendment by section 5105(d) of Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+Amendment by section 5101(e)(1) of Pub. L. 114–94 effective Oct. 1, 2016, see section 5101(f) of Pub. L. 114–94, set out as a note under [section 31102 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31102).
+
+Pub. L. 114–94, div. A, title V, § 5508(b), Dec. 4, 2015, 129 Stat. 1554, provided that the amendment made by section 5508(b)(4) is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.
+
 #### Effective and Termination Dates of 2012 Amendment
 Amendment by sections 32202, 32603(e), and 32707(a) effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
@@ -2427,13 +2795,15 @@ Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with te
 Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under [section 101 of this title](./chapter-001-organization.md#section-101).
 
-#### High Risk Carrier Compliance Reviews
-Pub. L. 109–59, title IV, § 4138, Aug. 10, 2005, 119 Stat. 1745, provided that: “From the funds authorized by [section 31104(i) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31104/i&num=0&edition=prelim), United States Code, the Secretary [of Transportation] shall ensure that compliance reviews are completed on motor carriers that have demonstrated through performance data that they pose the highest safety risk. At a minimum, a compliance review shall be conducted whenever a motor carrier is rated as category A or B for 2 consecutive months.”
+#### High Risk Carrier Reviews
+Pub. L. 114–94, div. A, title V, § 5305(a), (b), Dec. 4, 2015, 129 Stat. 1544, provided that: “(a) In General.—The Secretary [of Transportation] shall ensure that a review is completed on each motor carrier that demonstrates through performance data that it poses the highest safety risk. At a minimum, a review shall be conducted whenever a motor carrier is among the highest risk carriers for 4 consecutive months. “(b) Report.—The Secretary shall post on a public Web site a report on the actions the Secretary has taken to comply with this section, including the number of high risk carriers identified and the high risk carriers reviewed.”
+
+Pub. L. 109–59, title IV, § 4138, Aug. 10, 2005, 119 Stat. 1745, which required completion of high risk carrier compliance reviews, was repealed by Pub. L. 114–94, div. A, title V, § 5305(c), Dec. 4, 2015, 129 Stat. 1544.
 
 #### Minimum Requirements
 Pub. L. 106–159, title II, § 210(b), Dec. 9, 1999, 113 Stat. 1765, as amended by Pub. L. 112–141, div. C, title II, § 32101(c), July 6, 2012, 126 Stat. 777, provided that: “The Secretary shall initiate a rulemaking to establish minimum requirements for applicant motor carriers, including foreign motor carriers, seeking Federal interstate operating authority to ensure applicant carriers are knowledgeable about applicable Federal motor carrier safety standards. As part of that rulemaking, the Secretary shall establish a proficiency examination for applicant motor carriers as well as other requirements to ensure such applicants understand applicable safety regulations, commercial regulations, and provisions of subpart H of part 37 of title 49, Code of Federal Regulations, or successor regulations before being granted operating authority.”
@@ -2503,6 +2873,9 @@ In subsection (a), the word “prescribe” is substituted for “establish or m
 #### References in Text
 The date of the enactment of this section, referred to in subsecs. (a) and (b)(2), is the date of enactment of Pub. L. 106–159, which was approved Dec. 9, 1999.
 
+#### Inspector Standards
+Pub. L. 114–94, div. A, title V, § 5205, Dec. 4, 2015, 129 Stat. 1537, provided that: “Not later than 90 days after the date of enactment of this Act [Dec. 4, 2015], the Administrator of the Federal Motor Carrier Safety Administration shall revise the regulations under part 385 of title 49, Code of Federal Regulations, as necessary, to incorporate by reference the certification standards for roadside inspectors issued by the Commercial Vehicle Safety Alliance.”
+
 
 <a id="section-31149"></a>
 ## § 31149. Medical program
@@ -2538,9 +2911,15 @@ The date of the enactment of this section, referred to in subsecs. (a) and (b)(2
 
     (iv) demonstration of a medical examiner’s willingness to meet the reporting requirements established by the Secretary;
 
-  (E) require medical examiners to transmit the name of the applicant and numerical identifier, as determined by the Administrator of the Federal Motor Carrier Safety Administration, for any completed medical examination report required under section 391.43 of title 49, Code of Federal Regulations, electronically to the chief medical examiner on monthly basis; and
+  (E) require medical examiners to transmit electronically, on a monthly basis, the name of the applicant, a numerical identifier, and additional information contained on the medical examiner’s certificate for any completed medical examination report required under section 391.43 of title 49, Code of Federal Regulations, to the chief medical examiner;
 
-  (F) periodically review a representative sample of the medical examination reports associated with the name and numerical identifiers of applicants transmitted under subparagraph (E) for errors, omissions, or other indications of improper certification.
+  (F) periodically review a representative sample of the medical examination reports associated with the name and numerical identifiers of applicants transmitted under subparagraph (E) for errors, omissions, or other indications of improper certification; and
+
+  (G) annually review the implementation of commercial driver’s license requirements by not fewer than 10 States to assess the accuracy, validity, and timeliness of—
+
+    (i) the submission of physical examination reports and medical certificates to State licensing agencies; and
+
+    (ii) the processing of the submissions by State licensing agencies.
 
 (2) **Monitoring performance.—** — The Secretary shall investigate patterns of errors or improper certification by a medical examiner. If the Secretary finds that a medical examiner has issued a medical certificate to an operator of a commercial motor vehicle who fails to meet the applicable standards at the time of the examination or that a medical examiner has falsely claimed to have completed training in physical and medical examination standards as required by this section, the Secretary may remove such medical examiner from the registry and may void the medical certificate of the applicant or holder.
 
@@ -2558,25 +2937,6 @@ The date of the enactment of this section, referred to in subsecs. (a) and (b)(2
 
 ### Statutory Notes
 
-#### Amendment of Subsection (c)(1)
-Pub. L. 112–141, div. C, title II, § 32302(c)(1), (2)(B), July 6, 2012, 126 Stat. 789, provided that, effective on the date the oversight policies and procedures are established pursuant to section 32302(c)(2)(A) of Pub. L. 112–141 (set out as a note below), subsection (c)(1) of this section is amended as follows:
-
-(1) by amending subparagraph (E) to read as follows:
-
-“(E) require medical examiners to transmit electronically, on a monthly basis, the name of the applicant, a numerical identifier, and additional information contained on the medical examiner’s certificate for any completed medical examination report required under section 391.43 of title 49, Code of Federal Regulations, to the chief medical examiner;”;
-
-(2) in subparagraph (F), by striking the period at the end and inserting “; and”; and
-
-(3) by adding at the end the following:
-
-(G) annually review the implementation of commercial driver’s license requirements by not fewer than 10 States to assess the accuracy, validity, and timeliness of—
-
-(i) the submission of physical examination reports and medical certificates to State licensing agencies; and
-
-(ii) the processing of the submissions by State licensing agencies.
-
-See 2012 Amendment notes below.
-
 #### References in Text
 The Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subsec. (c)(1)(D), is Pub. L. 112–141, div. C, title II, July 6, 2012, 126 Stat. 776. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under [section 30101 of this title](./chapter-301-motor-vehicle-safety.md#section-30101) and Tables.
 
@@ -2590,12 +2950,17 @@ Subsec. (c)(1)(G). Pub. L. 112–141, § 32302(c)(1)(B), (C), added subpar. (G).
 #### Effective Date of 2012 Amendment
 Amendment by section 32302(b) of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
-Pub. L. 112–141, div. C, title II, § 32302(c)(2)(B), July 6, 2012, 126 Stat. 789, provided that: “The amendments made by section 32303(c)(1) [probably should be “32302(c)(1)”] of this Act [amending this section] shall take effect on the date the oversight policies and procedures are established pursuant to subparagraph (A).”
+Pub. L. 112–141, div. C, title II, § 32302(c)(2)(B), July 6, 2012, 126 Stat. 789, as amended by Pub. L. 114–94, div. A, title V, § 5508(b)(3), Dec. 4, 2015, 129 Stat. 1554, provided that: “The amendments made by section 32302(c)(1) of this Act [amending this section] shall take effect on the date the oversight policies and procedures are established pursuant to subparagraph (A).”
+
+[Pub. L. 114–94, div. A, title V, § 5508(b), Dec. 4, 2015, 129 Stat. 1554, provided that the amendment made by section 5508(b)(3) to section 32302(c)(2)(B) of Pub. L. 112–141, set out above, is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.]
 
 #### Effective Date
 Pub. L. 109–59, title IV, § 4116(f), Aug. 10, 2005, 119 Stat. 1728, as amended by Pub. L. 110–244, title III, § 301(d), June 6, 2008, 122 Stat. 1616, provided that: “The amendments made by subsections (a) and (b) [enacting this section and amending [section 31136 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31136)] shall take effect on the 365th day following the date of enactment of this Act [Aug. 10, 2005].”
 
 [Amendment by Pub. L. 110–244 to section 4116(f) of Pub. L. 109–59, set out above, effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as an Effective Date of 2008 note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.]
+
+#### Medical Certification of Veterans for Commercial Driver’s Licenses
+Pub. L. 114–94, div. A, title V, § 5403, Dec. 4, 2015, 129 Stat. 1548, provided that: “(a) In General.—In the case of a physician-approved veteran operator, the qualified physician of such operator may, subject to the requirements of subsection (b), perform a medical examination and provide a medical certificate for purposes of compliance with the requirements of [section 31149 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31149), United States Code. “(b) Certification.—The certification described under subsection (a) shall include—“(1) assurances that the physician performing the medical examination meets the requirements of a qualified physician under this section; and “(2) certification that the physical condition of the operator is adequate to enable such operator to operate a commercial motor vehicle safely. “(c) National Registry of Medical Examiners.—The Secretary [of Transportation], in consultation with the Secretary of Veterans Affairs, shall develop a process for qualified physicians to perform a medical examination and provide a medical certificate under subsection (a) and include such physicians on the national registry of medical examiners established under [section 31149(d) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31149/d&num=0&edition=prelim), United States Code. “(d) Definitions.—In this section, the following definitions apply:“(1) Physician-approved veteran operator.—The term ‘physician-approved veteran operator’ means an operator of a commercial motor vehicle who—“(A) is a veteran who is enrolled in the health care system established under [section 1705(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1705/a&num=0&edition=prelim), United States Code; and “(B) is required to have a current valid medical certificate pursuant to [section 31149 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31149), United States Code. “(2) Qualified physician.—The term ‘qualified physician’ means a physician who—“(A) is employed in the Department of Veterans Affairs; “(B) is familiar with the standards for, and physical requirements of, an operator certified pursuant to [section 31149 of title 49](./chapter-311-commercial-motor-vehicle-safety.md#section-31149), United States Code; and “(C) has never, with respect to such section, been found to have acted fraudulently, including by fraudulently awarding a medical certificate. “(3) Veteran.—The term ‘veteran’ has the meaning given the term in [section 101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim), United States Code. “(e) Statutory Construction.—Nothing in this section shall be construed to change any statutory penalty associated with fraud or abuse.”
 
 #### Deadline for Establishment of National Registry of Medical Examiners
 Pub. L. 112–141, div. C, title II, § 32302(a), July 6, 2012, 126 Stat. 788, provided that: “Not later than 1 year after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways], the Secretary [of Transportation] shall establish a national registry of medical examiners in accordance with [section 31149(d)(1) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31149/d/1&num=0&edition=prelim), United States Code.”
@@ -2731,7 +3096,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 <a id="section-31161"></a>
 ## § 31161. International cooperation
 
-The Secretary of Transportation is authorized to use funds made available by section 31104(i) to participate and cooperate in international activities to enhance motor carrier, commercial motor vehicle, driver, and highway safety by such means as exchanging information, conducting research, and examining needs, best practices, and new technology.
+The Secretary of Transportation is authorized to use funds made available by section 31110 to participate and cooperate in international activities to enhance motor carrier, commercial motor vehicle, driver, and highway safety by such means as exchanging information, conducting research, and examining needs, best practices, and new technology.
 
 ### Statutory Notes
 
@@ -2741,3 +3106,9 @@ Prior sections 31161 and 31162 were repealed by Pub. L. 105–178, title IV, § 
 Section 31161, Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1013, related to procedures to ensure timely correction of safety violations.
 
 Section 31162, Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1014, related to compliance review priority.
+
+#### Amendments
+2015—Pub. L. 114–94 substituted “section 31110” for “section 31104(i)”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.

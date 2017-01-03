@@ -2,7 +2,7 @@
 title: 2
 chapter: '30'
 heading: OPERATION AND MAINTENANCE OF CAPITOL COMPLEX
-section_count: 85
+section_count: 86
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -34,6 +34,9 @@ Joint Resolution May 28, 1908, provided that it should be designated the House O
 
 #### House Public Address Sound System Activities; Transfer of Employees and Funding
 Pub. L. 104–197, title III, § 307, Sept. 16, 1996, 110 Stat. 2413, provided that: “(a) Upon approval of the Committee on Appropriations of the House of Representatives, and in accordance with conditions determined by the Committee on House Oversight [now Committee on House Administration], positions in connection with House public address sound system activities and related funding shall be transferred from the appropriation for the Architect of the Capitol for Capitol buildings and grounds under the heading ‘capitol buildings’ to the appropriation for salaries and expenses of the House of Representatives for the Office of the Clerk under the heading ‘salaries, officers and employees’. “(b) For purposes of [section 8339(m) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8339/m&num=0&edition=prelim), United States Code, the days of unused sick leave to the credit of any such employee as of the date such employee is transferred under subsection (a) shall be included in the total service of such employee in connection with the computation of any annuity under subsections (a) through (e) and (o) of such section. “(c) In the case of days of annual leave to the credit of any such employee as of the date such employee is transferred under subsection (a), the Architect of the Capitol is authorized to make a lump sum payment to each such employee for that annual leave. No such payment shall be considered a payment or compensation within the meaning of any law relating to dual compensation.”
+
+#### Transfer of O’Neill Building to House of Representatives
+Pub. L. 114–223, div. C, § 176, as added by Pub. L. 114–254, div. A, § 101(3), Dec. 10, 2016, 130 Stat. 1012, provided that: “(a) Transfer.—Effective upon the expiration of the 180-day period that begins on the date of the enactment of this section [Dec. 10, 2016]—“(1) the building described in subsection (e) shall become an office building of the House of Representatives; “(2) the Administrator of General Services shall transfer custody, control, and administrative jurisdiction over the building to the Architect of the Capitol; and “(3) the Architect of the Capitol shall exercise custody, control, and administrative jurisdiction over the building subject to the direction of the House Office Building Commission. “(b) Treatment as House Office Building and Part of Capitol Grounds.—Upon the transfer of custody, control, and administrative jurisdiction under subsection (a), the building and grounds described in subsection (e) shall be treated as a House Office Building and as part of the United States Capitol Grounds for purposes of all laws, rules, and regulations applicable to the House Office Buildings and the Capitol Grounds, including—“(1) chapter 51 of title 40, United States Code (relating to the administration of the United States Capitol Buildings and Grounds); and “(2) section 9 of the Act entitled ‘An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes’, approved July 31, 1946 ([2 U.S.C. 1961](./chapter-029-capitol-police.md#section-1961)) (relating to the authority of the United States Capitol Police to police the United States Capitol Buildings and Grounds). “(c) Authority of Architect of the Capitol to Enter Into Leases and Other Agreements With Federal Departments and Agencies for Use of Building.—“(1) Authority described.—The Architect of the Capitol is authorized to enter into leases and other agreements with departments and agencies of the Federal Government for the use of the building described in subsection (e) (or portions thereof), subject to the approval of the House Office Building Commission. “(2) Collection of payments.—Pursuant to a lease or other agreement entered into between the Architect of the Capitol and a department or agency of the Federal Government under the authority described in paragraph (1), the Architect of the Capitol is authorized to collect payments from such department or agency and such department or agency is authorized to make payments to the Architect of the Capitol, including payments of commercially-equivalent rent. “(3) Treatment of payments.—Any payments received by the Architect of the Capitol pursuant to any lease or other agreement entered into under this subsection shall be deposited to the appropriation available to the Architect of the Capitol from the House Office Buildings Fund established under subsection (d) and shall be subject to future appropriation. “(d) House Office Buildings Fund.—“(1) Establishment.—There is established in the Treasury of the United States a fund to be known as the ‘House Office Buildings Fund’ (hereafter in this section referred to as the ‘Fund’). “(2) Contents of fund.—The Fund shall consist of the following amounts:“(A) Amounts transferred by the Architect of the Capitol under paragraph (3) of subsection (c). “(B) Interest earned on the balance of the Fund. “(C) Such other amounts as may be appropriated by law. “(3) Use of fund.—Amounts in the Fund shall be available to the Architect of the Capitol for the maintenance, care, and operation of the House office buildings, and may be used to reimburse the United States Capitol Police, the House of Representatives, or any other office of the legislative branch which provides goods or services for the maintenance, care, and operation of the building and grounds described in subsection (e), in such amounts as may be appropriated under law. “(4) Notification to committee on appropriations.—Upon making any obligation or expenditure of any amount in the Fund, the Architect of the Capitol shall notify the Committee on Appropriations of the House of Representatives of the amount and purpose of the obligation or expenditure. “(5) Continuing availability of funds.—Amounts in the Fund are available without regard to fiscal year limitation. “(e) Description of Building and Grounds.—“(1) Description.—The building and grounds described in this subsection is the Federal building located in the District of Columbia which is commonly known as the ‘Thomas P. O’Neill Jr. Federal Building’, and which is more particularly described as follows: Square 579, Lot 827, at 200 C Street Southwest, bounded by C Street Southwest on the north, by 2nd Street Southwest on the east, by D Street Southwest on the south, and by 3rd Street Southwest on the west, and by all that area contiguous to and surrounding Square 579 from the property line thereof to the west curb of 3rd Street Southwest, the north curb of C Street Southwest, the east curb of 2nd Street Southwest, and the south curb of D Street Southwest. “(2) Retention of responsibilities of district of columbia.—The Mayor of the District of Columbia will retain responsibility for the maintenance and improvement of those portions of the streets which are situated between the curb lines of the streets referenced in paragraph (1).”
 
 #### 501 First Street SE., District of Columbia; Disposal of Real Property
 Pub. L. 113–76, div. I, title I, § 1302, Jan. 17, 2014, 128 Stat. 429, provided that: “(a) Use of Building.—In exercising its authority under the item ‘Architect of the Capitol, Capitol Buildings and Grounds, House Office Buildings’ in the Legislative Branch Appropriations Act, 1985 (Public Law 98–367; [2 U.S.C. 2001](./chapter-030-operation-and-maintenance-of-capitol-complex.md#section-2001) note), to use the building referred to in such item for the purposes of providing office and accommodations for the House of Representatives, the House Office Building Commission is authorized to enter into such agreements regarding the use of the building by the House or by other persons as the Commission considers appropriate. “(b) Effective Date.—This section shall apply with respect to fiscal year 2014 and each succeeding fiscal year.”
@@ -1820,11 +1823,9 @@ Section is based on par. under heading “BOTANIC GARDEN” in act of July 8, 19
 
   (B) any other organization described in [section 501(c) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c&num=0&edition=prelim) and exempt from tax under section 501(a) of such title that the Architect of the Capitol determines shares interests complementary to the educational mission of the United States Botanic Garden.
 
-**(c) Construction or improvement of real property**
-Any authority under subsection (a) or (b) shall not apply to any agreement providing for the construction or improvement of real property.
+**(c) Construction or improvement of real property** Any authority under subsection (a) or (b) shall not apply to any agreement providing for the construction or improvement of real property.
 
-**(d) Applicability**
-This section shall apply with respect to fiscal year 2015 and each succeeding fiscal year.
+**(d) Applicability** This section shall apply with respect to fiscal year 2015 and each succeeding fiscal year.
 
 
 <a id="section-2161"></a>
@@ -2194,6 +2195,55 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 **(f) Effective date** This section shall apply with respect to fiscal year 2011 and each fiscal year thereafter.
 
 
+<a id="section-2171a"></a>
+## § 2171a. Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the Librarian of Congress at no net cost to the Federal Government
+**(a) Definition** In this section, the term “covered employee” means—
+
+(1) an employee of the Library of Congress; or
+
+(2) any other individual who is authorized to park in any parking area under the jurisdiction of the Library of Congress on the Library of Congress buildings and grounds.
+
+**(b) Authority**
+
+(1) **In general** — Subject to paragraph (3), funds appropriated to the Architect of the Capitol under the heading “Capitol Power Plant” under the heading “ARCHITECT OF THE CAPITOL” in any fiscal year are available to construct, operate, and maintain on a reimbursable basis battery recharging stations in parking areas under the jurisdiction of the Library of Congress on Library of Congress buildings and grounds for use by privately owned vehicles used by covered employees.
+
+(2) **Vendors authorized** — In carrying out paragraph (1), the Architect of the Capitol may use one or more vendors on a commission basis.
+
+(3) **Approval of construction** — The Architect of the Capitol may construct or direct the construction of battery recharging stations described under paragraph (1) after—
+
+  (A) submission of written notice detailing the numbers and locations of the battery recharging stations to the Joint Committee on the Library; and
+
+  (B) approval by that Committee.
+
+**(c) Fees and charges**
+
+(1) **In general** — Subject to paragraph (2), the Architect of the Capitol shall charge fees or charges for electricity provided to covered employees sufficient to cover the costs to the Architect of the Capitol to carry out this section, including costs to any vendors or other costs associated with maintaining the battery charging stations.
+
+(2) **Approval of fees or charges** — The Architect of the Capitol may establish and adjust fees or charges under paragraph (1) after—
+
+  (A) submission of written notice detailing the amount of the fee or charge to be established or adjusted to the Joint Committee on the Library; and
+
+  (B) approval by that Committee.
+
+**(d) Deposit and availability of fees, charges, and commissions** Any fees, charges, or commissions collected by the Architect of the Capitol under this section shall be—
+
+(1) deposited in the Treasury to the credit of the appropriations account described under subsection (b); and
+
+(2) available for obligation without further appropriation during the fiscal year collected.
+
+**(e) Reports**
+
+(1) **In general** — Not later than 30 days after the end of each fiscal year, the Architect of the Capitol shall submit a report on the financial administration and cost recovery of activities under this section with respect to that fiscal year to the Joint Committee on the Library and the Committees on Appropriations of the House of Representatives and Senate.
+
+(2) **Avoiding subsidy**
+
+  (A) *Determination* — Not later than 3 years after December 18, 2015, and every 3 years thereafter, the Architect of the Capitol shall submit a report to the Joint Committee on the Library determining whether covered employees using battery charging stations as authorized by this section are receiving a subsidy from the taxpayers.
+
+  (B) *Modification of rates and fees* — If a determination is made under subparagraph (A) that a subsidy is being received, the Architect of the Capitol shall submit a plan to the Joint Committee on the Library on how to update the program to ensure no subsidy is being received. If the Joint Committee does not act on the plan within 60 days, the Architect of the Capitol shall take appropriate steps to increase rates or fees to ensure reimbursement for the cost of the program consistent with an appropriate schedule for amortization, to be charged to those using the charging stations.
+
+**(f) Effective date** This section shall apply with respect to fiscal year 2016 and each fiscal year thereafter.
+
+
 <a id="section-2172"></a>
 ## § 2172. Office of Congressional Accessibility Services
 **(a) Establishment of Office of Congressional Accessibility Services**
@@ -2357,4 +2407,11 @@ June 25, 1910, ch. 384, 36 Stat. 738.
 <a id="section-2186"></a>
 ## § 2186. Square 580 landscape maintenance
 
-For fiscal year 2015 and each fiscal year thereafter, the Architect of the Capitol, in consultation with the District of Columbia, is authorized to maintain and improve the landscape features, excluding streets, in Square 580 up to the beginning of I–395.
+For fiscal year 2016 and each fiscal year thereafter, the Architect of the Capitol, in consultation with the District of Columbia, is authorized to maintain and improve the landscape features, excluding streets, in Square 580 up to the beginning of I–395.
+
+### Statutory Notes
+
+#### Prior Provisions
+Provisions similar to those in this section were contained in the following prior appropriation act:
+
+Pub. L. 113–235, div. H, title II, § 206, Dec. 16, 2014, 128 Stat. 2542.

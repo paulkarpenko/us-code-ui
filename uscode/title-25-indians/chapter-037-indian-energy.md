@@ -41,7 +41,7 @@ In this chapter:
 
 (4)
 
-  (A) The term “Indian tribe” has the meaning given the term in [section 450b of this title](./chapter-014-miscellaneous.md#section-450b).
+  (A) The term “Indian tribe” has the meaning given the term in [section 5304 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5304).
 
   (B) For the purpose of paragraph (12) and sections 3503(b)(1)(C) and 3504 of this title, the term “Indian tribe” does not include any Native Corporation.
 

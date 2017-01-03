@@ -226,11 +226,11 @@ As used in this chapter:
 ## § 1604. Liability of biomaterials suppliers
 **(a) In general** Except as provided in [section 1606 of this title](./chapter-021-biomaterials-access-assurance.md#section-1606), a biomaterials supplier shall not be liable for harm to a claimant caused by an implant unless such supplier is liable—
 
-(1) as a manufacturer of the implant, as provided in subsection (b) of this section;
+(1) as a manufacturer of the implant, as provided in subsection (b);
 
-(2) as a seller of the implant, as provided in subsection (c) of this section; or
+(2) as a seller of the implant, as provided in subsection (c); or
 
-(3) for furnishing raw materials or component parts for the implant that failed to meet applicable contractual requirements or specifications, as provided in subsection (d) of this section.
+(3) for furnishing raw materials or component parts for the implant that failed to meet applicable contractual requirements or specifications, as provided in subsection (d).
 
 **(b) Liability as manufacturer**
 
@@ -307,7 +307,7 @@ As used in this chapter:
 
 (3) The defendant is not liable for furnishing raw materials or component parts for the implant that failed to meet applicable contractual requirements or specifications, as provided in [section 1604(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1604/d&num=0&edition=prelim).
 
-(4) The claimant did not name the manufacturer as a party to the action, as provided in subsection (b) of this section.
+(4) The claimant did not name the manufacturer as a party to the action, as provided in subsection (b).
 
 **(b) Manufacturer of implant shall be named a party** In any civil action covered by this chapter, the claimant shall be required to name the manufacturer of the implant as a party to the action, unless—
 
@@ -319,9 +319,9 @@ As used in this chapter:
 
 (1) **Effect of motion to dismiss on discovery**
 
-  (A) *In general* — Except as provided in subparagraph (B), if a defendant files a motion to dismiss under subsection (a) of this section, no discovery shall be permitted in connection with the action that is the subject of the motion, other than discovery necessary to determine a motion to dismiss for lack of jurisdiction, until such time as the court rules on the motion to dismiss.
+  (A) *In general* — Except as provided in subparagraph (B), if a defendant files a motion to dismiss under subsection (a), no discovery shall be permitted in connection with the action that is the subject of the motion, other than discovery necessary to determine a motion to dismiss for lack of jurisdiction, until such time as the court rules on the motion to dismiss.
 
-  (B) *Discovery* — If a defendant files a motion to dismiss under subsection (a)(3) of this section on the grounds that it did not furnish raw materials or component parts for the implant that failed to meet applicable contractual requirements or specifications, the court may permit discovery limited to issues that are directly relevant to—
+  (B) *Discovery* — If a defendant files a motion to dismiss under subsection (a)(3) on the grounds that it did not furnish raw materials or component parts for the implant that failed to meet applicable contractual requirements or specifications, the court may permit discovery limited to issues that are directly relevant to—
 
     (i) the pending motion to dismiss; or
 
@@ -329,7 +329,7 @@ As used in this chapter:
 
 (2) **Affidavits**
 
-  (A) *Defendant* — A defendant may submit affidavits supporting the grounds for dismissal contained in its motion to dismiss under subsection (a) of this section. If the motion is made under subsection (a)(1) of this section, the defendant may submit an affidavit demonstrating that the defendant has not included the implant on a list, if any, filed with the Secretary pursuant to [section 360(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/j&num=0&edition=prelim).
+  (A) *Defendant* — A defendant may submit affidavits supporting the grounds for dismissal contained in its motion to dismiss under subsection (a). If the motion is made under subsection (a)(1), the defendant may submit an affidavit demonstrating that the defendant has not included the implant on a list, if any, filed with the Secretary pursuant to [section 360(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360/j&num=0&edition=prelim).
 
   (B) *Claimant* — In response to a motion to dismiss, the claimant may submit affidavits demonstrating that—
 
@@ -337,7 +337,7 @@ As used in this chapter:
 
     (ii) the defendant is a seller of the implant who is liable under [section 1604(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1604/c&num=0&edition=prelim).
 
-(3) **Basis of ruling on motion to dismiss** — The court shall rule on a motion to dismiss filed under subsection (a) of this section solely on the basis of the pleadings and affidavits of the parties made pursuant to this subsection. The court shall grant a motion to dismiss filed under subsection (a) of this section—
+(3) **Basis of ruling on motion to dismiss** — The court shall rule on a motion to dismiss filed under subsection (a) solely on the basis of the pleadings and affidavits of the parties made pursuant to this subsection. The court shall grant a motion to dismiss filed under subsection (a)—
 
   (A) unless the claimant submits a valid affidavit that demonstrates that the defendant is not a biomaterials supplier;
 
@@ -349,15 +349,15 @@ As used in this chapter:
 
     (iii) the defendant may be liable for furnishing raw materials or component parts for the implant that failed to meet applicable contractual requirements or specifications, as provided in [section 1604(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1604/d&num=0&edition=prelim); or
 
-  (C) if the claimant did not name the manufacturer as a party to the action, as provided in subsection (b) of this section.
+  (C) if the claimant did not name the manufacturer as a party to the action, as provided in subsection (b).
 
-(4) **Treatment of motion as motion for summary judgment** — The court may treat a motion to dismiss as a motion for summary judgment subject to subsection (d) of this section in order to determine whether the pleadings and affidavits, in connection with such action, raise genuine issues of material fact concerning whether the defendant furnished raw materials or component parts of the implant that failed to meet applicable contractual requirements or specifications as provided in [section 1604(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1604/d&num=0&edition=prelim).
+(4) **Treatment of motion as motion for summary judgment** — The court may treat a motion to dismiss as a motion for summary judgment subject to subsection (d) in order to determine whether the pleadings and affidavits, in connection with such action, raise genuine issues of material fact concerning whether the defendant furnished raw materials or component parts of the implant that failed to meet applicable contractual requirements or specifications as provided in [section 1604(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1604/d&num=0&edition=prelim).
 
 **(d) Summary judgment**
 
 (1) **In general**
 
-  (A) *Basis for entry of judgment* — If a motion to dismiss of a biomaterials supplier is to be treated as a motion for summary judgment under subsection (c)(4) of this section or if a biomaterials supplier moves for summary judgment, the biomaterials supplier shall be entitled to entry of judgment without trial if the court finds there is no genuine issue of material fact for each applicable element set forth in paragraphs (1) and (2) of [section 1604(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1604/d&num=0&edition=prelim).
+  (A) *Basis for entry of judgment* — If a motion to dismiss of a biomaterials supplier is to be treated as a motion for summary judgment under subsection (c)(4) or if a biomaterials supplier moves for summary judgment, the biomaterials supplier shall be entitled to entry of judgment without trial if the court finds there is no genuine issue of material fact for each applicable element set forth in paragraphs (1) and (2) of [section 1604(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1604/d&num=0&edition=prelim).
 
   (B) *Issues of material fact* — With respect to a finding made under subparagraph (A), the court shall consider a genuine issue of material fact to exist only if the evidence submitted by the claimant would be sufficient to allow a reasonable jury to reach a verdict for the claimant if the jury found the evidence to be credible.
 
@@ -386,9 +386,9 @@ As used in this chapter:
 
   (B) the claimant is unlikely to be able to recover the full amount of its damages from the remaining defendants.
 
-**(b) Standard of liability** Notwithstanding any preliminary finding under subsection (a) of this section, a biomaterials supplier who has been impleaded into an action covered by this chapter, as provided for in this section—
+**(b) Standard of liability** Notwithstanding any preliminary finding under subsection (a), a biomaterials supplier who has been impleaded into an action covered by this chapter, as provided for in this section—
 
-(1) may, prior to entry of judgment on the claim against it, supplement the record of the proceeding that was developed prior to the grant of the motion for impleader under subsection (a) of this section; and
+(1) may, prior to entry of judgment on the claim against it, supplement the record of the proceeding that was developed prior to the grant of the motion for impleader under subsection (a); and
 
 (2) may be found liable to a manufacturer or a claimant only to the extent required and permitted by any applicable State or Federal law other than this chapter.
 

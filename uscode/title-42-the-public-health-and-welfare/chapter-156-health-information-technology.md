@@ -80,13 +80,15 @@ Section 13101, referred to in text, means section 13101 of div. A of Pub. L. 111
 
 <a id="section-17911"></a>
 ## § 17911. National Institute for Standards and Technology testing
-**(a) Pilot testing of standards and implementation specifications** In coordination with the HIT Standards Committee established under [section 300jj–13 of this title](./chapter-6a-public-health-service.md#section-300jj-13), as added by section 13101,11 See References in Text note below. with respect to the development of standards and implementation specifications under such section, the Director of the National Institute for Standards and Technology shall test such standards and implementation specifications, as appropriate, in order to assure the efficient implementation and use of such standards and implementation specifications.
+**(a) Pilot testing of standards and implementation specifications** In coordination with the HIT Standards Committee established under section 300jj–13 11 See References in Text note below. of this title, as added by section 13101,1 with respect to the development of standards and implementation specifications under such section, the Director of the National Institute for Standards and Technology shall test such standards and implementation specifications, as appropriate, in order to assure the efficient implementation and use of such standards and implementation specifications.
 
 **(b) Voluntary testing program** In coordination with the HIT Standards Committee established under [section 300jj–13 of this title](./chapter-6a-public-health-service.md#section-300jj-13), as added by section 13101,1 with respect to the development of standards and implementation specifications under such section, the Director of the National Institute of Standards and Technology shall support the establishment of a conformance testing infrastructure, including the development of technical test beds. The development of this conformance testing infrastructure may include a program to accredit independent, non-Federal laboratories to perform testing.
 
 ### Statutory Notes
 
 #### References in Text
+[Section 300jj–13 of this title](./chapter-6a-public-health-service.md#section-300jj-13), referred to in text, which related to the establishment of the HIT Standards Committee, was repealed by Pub. L. 114–255, div. A, title IV, § 4003(e)(1), Dec. 13, 2016, 130 Stat. 1168.
+
 Section 13101, referred to in text, means section 13101 of div. A of Pub. L. 111–5.
 
 
@@ -132,7 +134,12 @@ Section 13101, referred to in text, means section 13101 of div. A of Pub. L. 111
 
   (D) how the Center will contribute to the education and training of researchers and other professionals in fields relevant to health information enterprise integration.
 
-**(b) National information technology research and development program** The National High-Performance Computing Program established by [section 5511 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5511&num=0&edition=prelim) shall include Federal research and development programs related to health information technology.
+**(b) National information technology research and development program** The Networking and Information Technology Research and Development Program established by [section 5511 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5511&num=0&edition=prelim) shall include Federal research and development programs related to health information technology.
+
+### Statutory Notes
+
+#### Amendments
+2017—Subsec. (b). Pub. L. 114–329 substituted “Networking and Information Technology Research and Development Program” for “National High-Performance Computing Program”.
 
 
 <a id="section-17921"></a>
@@ -264,12 +271,14 @@ Section 13101, referred to in par. (9), means section 13101 of div. A of Pub. L.
 
 **(b) Application of civil and criminal penalties** In the case of a business associate that violates any security provision specified in subsection (a), sections 1320d–5 and 1320d–6 of this title shall apply to the business associate with respect to such violation in the same manner such sections apply to a covered entity that violates such security provision.
 
-**(c) Annual guidance** For the first year beginning after February 17, 2009, and annually thereafter, the Secretary of Health and Human Services shall, after consultation with stakeholders, annually issue guidance on the most effective and appropriate technical safeguards for use in carrying out the sections referred to in subsection (a) and the security standards in subpart C of part 164 of title 45, Code of Federal Regulations, including the use of standards developed under [section 300jj–12(b)(2)(B)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300jj–12/b/2/B/vi&num=0&edition=prelim), as added by section 13101 of this Act, as such provisions are in effect as of the date before February 17, 2009.22 So in original. [Section 300jj–12 of this title](./chapter-6a-public-health-service.md#section-300jj-12) was enacted on Feb. 17, 2009.
+**(c) Annual guidance** For the first year beginning after February 17, 2009, and annually thereafter, the Secretary of Health and Human Services shall, after consultation with stakeholders, annually issue guidance on the most effective and appropriate technical safeguards for use in carrying out the sections referred to in subsection (a) and the security standards in subpart C of part 164 of title 45, Code of Federal Regulations, including the use of standards developed under section 300jj–12(b)(2)(B)(vi) 1 of this title, as added by section 13101 of this Act, as such provisions are in effect as of the date before February 17, 2009.
 
 ### Statutory Notes
 
 #### References in Text
 This title, referred to in subsec. (a), is title XIII of div. A of Pub. L. 111–5, which enacted this chapter and subchapter XXVIII (§ 300jj et seq.) of chapter 6A this title, amended sections 1320d, 1320d–5, and 1320d–6 of this title, and enacted provisions set out as a note under this section and [section 201 of this title](./chapter-6a-public-health-service.md#section-201). For complete classification of title XIII to the Code, see Short Title of 2009 Amendment note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+
+[Section 300jj–12(b)(2)(B)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300jj–12/b/2/B/vi&num=0&edition=prelim), referred to in subsec. (c), was repealed by Pub. L. 114–255, div. A, title IV, § 4003(e)(1), Dec. 13, 2016, 130 Stat. 1168. Similar provisions as pertaining to the HIT Advisory Committee are contained in [section 300jj–12(b)(2)(C)(vii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300jj–12/b/2/C/vii&num=0&edition=prelim) as enacted by Pub. L. 114–255.
 
 Section 13101 of this Act, referred to in subsec. (c), means section 13101 of div. A of Pub. L. 111–5.
 
@@ -329,7 +338,7 @@ Pub. L. 111–5, div. A, title XIII, § 13423, Feb. 17, 2009, 123 Stat. 276, pro
 
   (B) *Exception in case timely guidance not issued* — In the case that the Secretary does not issue guidance under paragraph (2) by the date specified in such paragraph, for purposes of this section, the term “unsecured protected health information” shall mean protected health information that is not secured by a technology standard that renders protected health information unusable, unreadable, or indecipherable to unauthorized individuals and is developed or endorsed by a standards developing organization that is accredited by the American National Standards Institute.
 
-(2) **Guidance** — For purposes of paragraph (1) and [section 17937(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17937/f/3&num=0&edition=prelim), not later than the date that is 60 days after February 17, 2009, the Secretary shall, after consultation with stakeholders, issue (and annually update) guidance specifying the technologies and methodologies that render protected health information unusable, unreadable, or indecipherable to unauthorized individuals, including the use of standards developed under [section 300jj–12(b)(2)(B)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300jj–12/b/2/B/vi&num=0&edition=prelim), as added by section 13101 of this Act.
+(2) **Guidance** — For purposes of paragraph (1) and [section 17937(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17937/f/3&num=0&edition=prelim), not later than the date that is 60 days after February 17, 2009, the Secretary shall, after consultation with stakeholders, issue (and annually update) guidance specifying the technologies and methodologies that render protected health information unusable, unreadable, or indecipherable to unauthorized individuals, including the use of standards developed under section 300jj–12(b)(2)(B)(vi) 22 See References in Text note below. of this title, as added by section 13101 of this Act.
 
 **(i) Report to Congress on breaches**
 
@@ -346,6 +355,8 @@ Pub. L. 111–5, div. A, title XIII, § 13423, Feb. 17, 2009, 123 Stat. 276, pro
 ### Statutory Notes
 
 #### References in Text
+[Section 300jj–12(b)(2)(B)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300jj–12/b/2/B/vi&num=0&edition=prelim), referred to in subsec. (h)(2), was repealed by Pub. L. 114–255, div. A, title IV, § 4003(e)(1), Dec. 13, 2016, 130 Stat. 1168. Similar provisions as pertaining to the HIT Advisory Committee are contained in [section 300jj–12(b)(2)(C)(vii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300jj–12/b/2/C/vii&num=0&edition=prelim) as enacted by Pub. L. 114–255.
+
 Section 13101 of this Act, referred to in subsec. (h)(2), means section 13101 of div. A of Pub. L. 111–5.
 
 
@@ -404,9 +415,9 @@ The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 5
 
   (B) an individual shall have a right to receive an accounting of disclosures described in such paragraph of such information made by such covered entity during only the three years prior to the date on which the accounting is requested.
 
-(2) **Regulations** — The Secretary shall promulgate regulations on what information shall be collected about each disclosure referred to in paragraph (1), not later than 6 months after the date on which the Secretary adopts standards on accounting for disclosure described in the [section 300jj–12(b)(2)(B)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300jj–12/b/2/B/iv&num=0&edition=prelim), as added by section 13101.2 Such regulations shall only require such information to be collected through an electronic health record in a manner that takes into account the interests of the individuals in learning the circumstances under which their protected health information is being disclosed and takes into account the administrative burden of accounting for such disclosures.
+(2) **Regulations** — The Secretary shall promulgate regulations on what information shall be collected about each disclosure referred to in paragraph (1), not later than 6 months after the date on which the Secretary adopts standards on accounting for disclosure described in the 33 So in original. [section 300jj–12(b)(2)(B)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300jj–12/b/2/B/iv&num=0&edition=prelim), as added by section 13101.2 Such regulations shall only require such information to be collected through an electronic health record in a manner that takes into account the interests of the individuals in learning the circumstances under which their protected health information is being disclosed and takes into account the administrative burden of accounting for such disclosures.
 
-(3) **Process** — In response to an 33 So in original. Probably should be “a”. request from an individual for an accounting, a covered entity shall elect to provide either an—
+(3) **Process** — In response to an 44 So in original. Probably should be “a”. request from an individual for an accounting, a covered entity shall elect to provide either an—
 
   (A) accounting, as specified under paragraph (1), for disclosures of protected health information that are made by such covered entity and by a business associate acting on behalf of the covered entity; or
 
@@ -423,7 +434,7 @@ The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 5
 
     (ii) the date that it acquires an electronic health record.
 
-  (C) *Later date* — The Secretary may set an effective date that is later that 44 So in original. Probably should be “than”. the date specified under subparagraph (A) or (B) if the Secretary determines that such later date is necessary, but in no case may the date specified under—
+  (C) *Later date* — The Secretary may set an effective date that is later that 55 So in original. Probably should be “than”. the date specified under subparagraph (A) or (B) if the Secretary determines that such later date is necessary, but in no case may the date specified under—
 
     (i) subparagraph (A) be later than 2016; or
 
@@ -459,16 +470,21 @@ The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 5
 
 **(e) Access to certain information in electronic format** In applying section 164.524 of title 45, Code of Federal Regulations, in the case that a covered entity uses or maintains an electronic health record with respect to protected health information of an individual—
 
-(1) the individual shall have a right to obtain from such covered entity a copy of such information in an electronic format and, if the individual chooses, to direct the covered entity to transmit such copy directly to an entity or person designated by the individual, provided that any such choice is clear, conspicuous, and specific; and
+(1) the individual shall have a right to obtain from such covered entity a copy of such information in an electronic format and, if the individual chooses, to direct the covered entity to transmit such copy directly to an entity or person designated by the individual, provided that any such choice is clear, conspicuous, and specific;
 
-(2) notwithstanding paragraph (c)(4) of such section, any fee that the covered entity may impose for providing such individual with a copy of such information (or a summary or explanation of such information) if such copy (or summary or explanation) is in an electronic form shall not be greater than the entity’s labor costs in responding to the request for the copy (or summary or explanation).
+(2) if the individual makes a request to a business associate for access to, or a copy of, protected health information about the individual, or if an individual makes a request to a business associate to grant such access to, or transmit such copy directly to, a person or entity designated by the individual, a business associate may provide the individual with such access or copy, which may be in an electronic form, or grant or transmit such access or copy to such person or entity designated by the individual; and
+
+(3) notwithstanding paragraph (c)(4) of such section, any fee that the covered entity may impose for providing such individual with a copy of such information (or a summary or explanation of such information) if such copy (or summary or explanation) is in an electronic form shall not be greater than the entity’s labor costs in responding to the request for the copy (or summary or explanation).
 
 ### Statutory Notes
 
 #### References in Text
 Section 13423, referred to in subsec. (b)(3), means section 13423 of div. A of Pub. L. 111–5, which is set out as an Effective Date note under [section 17931 of this title](./chapter-156-health-information-technology.md#section-17931).
 
-Section 13101, referred to in subsec. (c)(2), means section 13101 of div. A of Pub. L. 111–5.
+[Section 300jj–12(b)(2)(B)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300jj–12/b/2/B/iv&num=0&edition=prelim), as added by section 13101, referred to in subsec. (c)(2), means [section 300jj–12(b)(2)(B)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300jj–12/b/2/B/iv&num=0&edition=prelim) as added by section 13101 of div. A of Pub. L. 111–5, which was repealed by Pub. L. 114–255, div. A, title IV, § 4003(e)(1), Dec. 13, 2016, 130 Stat. 1168. Similar provisions as pertaining to the HIT Advisory Committee are contained in [section 300jj–12(b)(2)(B)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300jj–12/b/2/B/ii&num=0&edition=prelim) as enacted by Pub. L. 114–255.
+
+#### Amendments
+2016—Subsec. (e)(2), (3). Pub. L. 114–255 added par. (2) and redesignated former par. (2) as (3).
 
 
 <a id="section-17937"></a>

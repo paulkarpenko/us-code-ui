@@ -12,11 +12,11 @@ source: >-
 
 **(b) Coins and other numismatic items** The manufacture in the United States, or the importation into the United States, for introduction into or distribution in commerce, or the sale in commerce of any imitation numismatic item which is not plainly and permanently marked “copy”, is unlawful and is an unfair or deceptive act or practice in commerce under the Federal Trade Commission Act [[15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.].
 
-**(c) Rules and regulations** The Federal Trade Commission shall prescribe rules for determining the manner and form in which items described in subsection (a) or (b) of this section shall be permanently marked.
+**(c) Rules and regulations** The Federal Trade Commission shall prescribe rules for determining the manner and form in which items described in subsection (a) or (b) shall be permanently marked.
 
 **(d) Provision of assistance or support** It shall be a violation of subsection (a) or (b) for a person to provide substantial assistance or support to any manufacturer, importer, or seller if that person knows or should have known that the manufacturer, importer, or seller is engaged in any act or practice that violates subsection (a) or (b).
 
-**(e) Exemption** Subsections (a) 11 So in original. Probably should be followed by a comma. (b), and (d), and regulations under subsection (c) of this section, shall not apply to any common carrier or contract carrier or freight forwarder with respect to an imitation political item or imitation numismatic item received, shipped, delivered, or handled by it for shipment in the ordinary course of its business.
+**(e) Exemption** Subsections (a) 11 So in original. Probably should be followed by a comma. (b), and (d), and regulations under subsection (c), shall not apply to any common carrier or contract carrier or freight forwarder with respect to an imitation political item or imitation numismatic item received, shipped, delivered, or handled by it for shipment in the ordinary course of its business.
 
 ### Statutory Notes
 
@@ -54,6 +54,9 @@ The Trademark Act of 1946, referred to in subsec. (b), is act July 5, 1946, ch. 
 #### Amendments
 2014—Pub. L. 113–288 designated existing provisions as subsec. (a), inserted heading, substituted “, has an agent, transacts business, or wherever venue is proper under [section 1391 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391&num=0&edition=prelim)” for “or has an agent”, and added subsec. (b).
 
+#### Effective Date
+Section applicable only to imitation political items and imitation numismatic items manufactured after Nov. 29, 1973, see section 8 of Pub. L. 93–167, set out as a note under [section 2101 of this title](./chapter-048-hobby-protection.md#section-2101).
+
 
 <a id="section-2103"></a>
 ## § 2103. Enforcement by Federal Trade Commission
@@ -66,17 +69,30 @@ The Trademark Act of 1946, referred to in subsec. (b), is act July 5, 1946, ch. 
 #### References in Text
 The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
+#### Effective Date
+Section applicable only to imitation political items and imitation numismatic items manufactured after Nov. 29, 1973, see section 8 of Pub. L. 93–167, set out as a note under [section 2101 of this title](./chapter-048-hobby-protection.md#section-2101).
+
 
 <a id="section-2104"></a>
 ## § 2104. Imports
 
 Any item imported into the United States in violation of section 2101(a) or (b) of this title or regulations under [section 2101(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2101/c&num=0&edition=prelim) shall be subject to seizure and forfeiture under the customs laws.
 
+### Statutory Notes
+
+#### Effective Date
+Section applicable only to imitation political items and imitation numismatic items manufactured after Nov. 29, 1973, see section 8 of Pub. L. 93–167, set out as a note under [section 2101 of this title](./chapter-048-hobby-protection.md#section-2101).
+
 
 <a id="section-2105"></a>
 ## § 2105. Application of other laws
 
 The provisions of this chapter are in addition to, and not in substitution for or limitation of, the provisions of any other law of the United States or of the law of any State.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable only to imitation political items and imitation numismatic items manufactured after Nov. 29, 1973, see section 8 of Pub. L. 93–167, set out as a note under [section 2101 of this title](./chapter-048-hobby-protection.md#section-2101).
 
 
 <a id="section-2106"></a>
@@ -111,3 +127,6 @@ The Trademark Act of 1946, referred to in par. (9), is act July 5, 1946, ch. 540
 
 #### Amendments
 2014—Pars. (8), (9). Pub. L. 113–288 added pars. (8) and (9).
+
+#### Effective Date
+Section applicable only to imitation political items and imitation numismatic items manufactured after Nov. 29, 1973, see section 8 of Pub. L. 93–167, set out as a note under [section 2101 of this title](./chapter-048-hobby-protection.md#section-2101).

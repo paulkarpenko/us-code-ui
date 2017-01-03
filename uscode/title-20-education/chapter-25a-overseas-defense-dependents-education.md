@@ -12,9 +12,9 @@ source: >-
 
 **(b) Program purposes and activities**
 
-(1) The Secretary shall ensure that individuals eligible to receive a free public education under subsection (a) of this section receive an education of high quality.
+(1) The Secretary shall ensure that individuals eligible to receive a free public education under subsection (a) receive an education of high quality.
 
-(2) In establishing the defense dependents’ education system under subsection (a) of this section, the Secretary shall provide programs designed to meet the special needs of—
+(2) In establishing the defense dependents’ education system under subsection (a), the Secretary shall provide programs designed to meet the special needs of—
 
   (A) the handicapped,
 
@@ -26,7 +26,7 @@ source: >-
 
   (E) individuals of limited English-speaking ability.
 
-(3) The Secretary shall provide a developmental preschool program to individuals eligible to receive a free public education under subsection (a) of this section who are of preschool age if a preschool program is not otherwise available for such individuals and if funds for such a program are available.
+(3) The Secretary shall provide a developmental preschool program to individuals eligible to receive a free public education under subsection (a) who are of preschool age if a preschool program is not otherwise available for such individuals and if funds for such a program are available.
 
 **(c) Consultation requirements** The Secretary of Defense shall consult with the Secretary of Education on the educational programs and practices of the defense dependents’ education system.
 
@@ -83,7 +83,7 @@ Pub. L. 104–106, div. A, title III, § 355, Feb. 10, 1996, 110 Stat. 269, prov
 
 (5) have authority to arrange for inservice and other training programs for employees in the defense dependents’ education system, and
 
-(6) perform such other functions as may be required or delegated by the Secretary of Defense or the Assistant Secretary of Defense designated under subsection (a) of this section.
+(6) perform such other functions as may be required or delegated by the Secretary of Defense or the Assistant Secretary of Defense designated under subsection (a).
 
 **(d) Establishment of regional or area offices; reports to Congress on reorganizations; authorized number of civilian employees**
 
@@ -115,7 +115,7 @@ Subsec. (c)(1). Pub. L. 106–65, § 354(2)(C), inserted “([20 U.S.C. 901](./c
 
 Subsec. (c)(2). Pub. L. 106–65, § 354(2)(D), substituted a comma for the period at end.
 
-Subsec. (c)(6). Pub. L. 106–65, § 354(2)(E), substituted “the Assistant Secretary of Defense designated under subsection (a) of this section” for “Assistant Secretary of Defense for Manpower, Reserve Affairs, and Logistics”.
+Subsec. (c)(6). Pub. L. 106–65, § 354(2)(E), substituted “the Assistant Secretary of Defense designated under subsection (a)” for “Assistant Secretary of Defense for Manpower, Reserve Affairs, and Logistics”.
 
 Subsec. (d)(1). Pub. L. 106–65, § 354(2)(F), struck out “for the Office of Dependents’ Education” after “area offices”.
 
@@ -126,17 +126,17 @@ Subsec. (d)(3). Pub. L. 106–65, § 354(2)(H), substituted “the Department of
 
 <a id="section-923"></a>
 ## § 923. Space-available enrollment of students; tuition
-**(a) Enrollment of ineligible child in system school** Subject to subsection (b) of this section and in accordance with regulations issued under subsection (c) of this section, the Director may authorize the enrollment in a school of the defense dependents’ education system of a child not otherwise eligible to enroll in such a school if and to the extent that there is space available for such child in the school.
+**(a) Enrollment of ineligible child in system school** Subject to subsection (b) and in accordance with regulations issued under subsection (c), the Director may authorize the enrollment in a school of the defense dependents’ education system of a child not otherwise eligible to enroll in such a school if and to the extent that there is space available for such child in the school.
 
 **(b) Determination of amount of tuition; use of payments**
 
-(1) Except as otherwise provided under subsection (c) of this section, any child permitted to enroll in a school of the defense dependents’ education system under this section shall be required to pay tuition at a rate determined by the Secretary of Defense, which shall not be less than the rate necessary to defray the average cost of the enrollment of children in the system under this section.
+(1) Except as otherwise provided under subsection (c), any child permitted to enroll in a school of the defense dependents’ education system under this section shall be required to pay tuition at a rate determined by the Secretary of Defense, which shall not be less than the rate necessary to defray the average cost of the enrollment of children in the system under this section.
 
 (2) Amounts received under paragraph (1) shall be available to the defense dependents’ education system to assist in defraying the cost of enrollment of children in the system under this section.
 
 **(c) Regulations respecting enrollment requirements**
 
-(1) The Secretary of Defense may by regulation identify classes of children who shall be eligible to enroll in schools of the defense dependents’ education system under this section if and to the extent that there is space available, establish priorities among such classes, waive the tuition requirement of subsection (b)(1) of this section with respect to any such class, and issue such other regulations as may be necessary to carry out this section.
+(1) The Secretary of Defense may by regulation identify classes of children who shall be eligible to enroll in schools of the defense dependents’ education system under this section if and to the extent that there is space available, establish priorities among such classes, waive the tuition requirement of subsection (b)(1) with respect to any such class, and issue such other regulations as may be necessary to carry out this section.
 
 (2)
 
@@ -168,7 +168,7 @@ Subsec. (d)(3). Pub. L. 106–65, § 354(2)(H), substituted “the Department of
 
   (C) Children of other citizens or nationals of the United States or of foreign nationals, if the Secretary determines that enrollment of such children is in the national interest.
 
-(2) Notwithstanding subsection (c) of this section, the Secretary may not waive the tuition requirements of subsection (b)(1) of this section with respect to children referred to in paragraph (1).
+(2) Notwithstanding subsection (c), the Secretary may not waive the tuition requirements of subsection (b)(1) with respect to children referred to in paragraph (1).
 
 ### Statutory Notes
 
@@ -222,7 +222,7 @@ Pub. L. 110–181, div. A, title X, § 1063(e), Jan. 28, 2008, 122 Stat. 323, pr
 ## § 924. Annual educational assessment
 **(a) Contents** The Director shall assess each year the performance of the defense dependents’ education system in providing an education of high quality to children enrolled in the system. Such assessment may include the use of educational assessment measures and such other means as the Director determines to be suitable for assessing student performance.
 
-**(b) Availability** The results of each annual assessment under subsection (a) of this section with respect to an individual enrolled in the defense dependents’ education system shall be made available to the sponsor of such individual, and summary results of each such annual assessment shall be made available to Members of Congress and to professional employees in the system.
+**(b) Availability** The results of each annual assessment under subsection (a) with respect to an individual enrolled in the defense dependents’ education system shall be made available to the sponsor of such individual, and summary results of each such annual assessment shall be made available to Members of Congress and to professional employees in the system.
 
 
 <a id="section-925"></a>
@@ -237,17 +237,17 @@ The President shall include in his budget for each fiscal year a separate reques
 
 **(b) Tuition and assistance when schools unavailable**
 
-(1) Under such circumstances as the Secretary of Defense may prescribe in regulations, the Secretary may provide tuition to allow dependents in an overseas area where a school operated by the Secretary is not reasonably available to attend schools other than schools established under subsection (a) of this section on a tuition-free basis. Schools to which tuition may be paid under this subsection may include private boarding schools in the United States. Any school to which tuition is paid under this subsection to allow a dependent in an overseas area to attend such school shall provide an educational program satisfactory to the Secretary.
+(1) Under such circumstances as the Secretary of Defense may prescribe in regulations, the Secretary may provide tuition to allow dependents in an overseas area where a school operated by the Secretary is not reasonably available to attend schools other than schools established under subsection (a) on a tuition-free basis. Schools to which tuition may be paid under this subsection may include private boarding schools in the United States. Any school to which tuition is paid under this subsection to allow a dependent in an overseas area to attend such school shall provide an educational program satisfactory to the Secretary.
 
 (2)
 
-  (A) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service of the Navy, may provide financial assistance to sponsors of dependents in overseas areas where schools operated by the Secretary of Defense under subsection (a) of this section are not reasonably available in order to assist the sponsors to defray the costs incurred by the sponsors for the attendance of the dependents at schools in such areas other than schools operated by the Secretary of Defense.
+  (A) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service of the Navy, may provide financial assistance to sponsors of dependents in overseas areas where schools operated by the Secretary of Defense under subsection (a) are not reasonably available in order to assist the sponsors to defray the costs incurred by the sponsors for the attendance of the dependents at schools in such areas other than schools operated by the Secretary of Defense.
 
   (B) The Secretary of Defense and the Secretary of Homeland Security shall each prescribe regulations relating to the availability of financial assistance under subparagraph (A). Such regulations shall, to the maximum extent practicable, be consistent with Department of State regulations relating to the availability of financial assistance for the education of dependents of Department of State personnel overseas.
 
 **(c) Continuation of enrollment for certain dependents of members of Armed Forces involuntarily separated**
 
-(1) A member of the Armed Forces serving on active duty on September 30, 1990, who is involuntarily separated during the period beginning on October 1, 1990, and ending on December 31, 2001, and who has a dependent described in paragraph (2) who is enrolled in a school of the defense dependents’ education system (or a school for which tuition is provided under subsection (b) of this section) on the date of that separation shall be eligible to enroll or continue the enrollment of that dependent at that school (or another school serving the same community) for the final year of secondary education of that dependent in the same manner as if the member were still on active duty.
+(1) A member of the Armed Forces serving on active duty on September 30, 1990, who is involuntarily separated during the period beginning on October 1, 1990, and ending on December 31, 2001, and who has a dependent described in paragraph (2) who is enrolled in a school of the defense dependents’ education system (or a school for which tuition is provided under subsection (b)) on the date of that separation shall be eligible to enroll or continue the enrollment of that dependent at that school (or another school serving the same community) for the final year of secondary education of that dependent in the same manner as if the member were still on active duty.
 
 (2) A dependent referred to in paragraph (1) is a dependent who on the date of the separation of the member has completed the eleventh grade and is likely to complete secondary education within the one-year period beginning on that date.
 
@@ -301,7 +301,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 (4) such other factors as the Director considers appropriate.
 
-**(b) Issuance, etc., of regulations** Any regulation under subsection (a) of this section shall be issued, and shall become effective, in accordance with the procedures applicable to regulations required to be issued by the Secretary of Education in accordance with [section 1232 of this title](./chapter-031-general-provisions-concerning-education.md#section-1232).
+**(b) Issuance, etc., of regulations** Any regulation under subsection (a) shall be issued, and shall become effective, in accordance with the procedures applicable to regulations required to be issued by the Secretary of Education in accordance with [section 1232 of this title](./chapter-031-general-provisions-concerning-education.md#section-1232).
 
 **(c) Applicability of certain provisions**
 
@@ -339,7 +339,7 @@ Pub. L. 102–119, § 27, Oct. 7, 1991, 105 Stat. 608, provided that: “(a) Sec
 
 (2) In the case of any military installation or overseas area where there is more than one school in the defense dependents’ education system, the Director shall provide for the establishment of an advisory committee for such military installation or overseas area to advise the local military commander with respect to problems concerning dependents’ education within the jurisdiction of the commander.
 
-**(b) Election of members; regulations respecting qualifications and election procedures** Except in the case of a nonvoting member designated under the last sentence of subsection (a)(1) of this section, members of a school advisory committee established under this section shall be elected by individuals of voting age residing in the area to be served by the advisory committee. The Secretary of Defense shall by regulation prescribe the qualifications for election to an advisory committee and procedures for conducting elections of advisory committee members.
+**(b) Election of members; regulations respecting qualifications and election procedures** Except in the case of a nonvoting member designated under the last sentence of subsection (a)(1), members of a school advisory committee established under this section shall be elected by individuals of voting age residing in the area to be served by the advisory committee. The Secretary of Defense shall by regulation prescribe the qualifications for election to an advisory committee and procedures for conducting elections of advisory committee members.
 
 **(c) Members to serve without pay** Members of school advisory committees established under this section shall serve without pay.
 
@@ -348,7 +348,7 @@ Pub. L. 102–119, § 27, Oct. 7, 1991, 105 Stat. 608, provided that: “(a) Sec
 #### Amendments
 1985—Subsec. (a)(1). Pub. L. 99–145, § 1204(b)(2)(A), included as member of the advisory committee the designee of the exclusive bargaining representative of the employees.
 
-Subsec. (b). Pub. L. 99–145, § 1204(b)(2)(B), (C), substituted “Except in the case of a nonvoting member designated under the last sentence of subsection (a)(1) of this section, members” for “Members” and “The Secretary of Defense” for “The Secretary of Education, in consultation with the Secretary of Defense,”.
+Subsec. (b). Pub. L. 99–145, § 1204(b)(2)(B), (C), substituted “Except in the case of a nonvoting member designated under the last sentence of subsection (a)(1), members” for “Members” and “The Secretary of Defense” for “The Secretary of Education, in consultation with the Secretary of Defense,”.
 
 1979—Subsec. (a)(1). Pub. L. 96–88, § 508(j)(1), substituted “parents” for “representatives of sponsors”.
 
@@ -362,87 +362,11 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 
 <a id="section-929"></a>
-## § 929. Advisory Council on Dependents’ Education
-**(a) Establishment; membership; Director**
-
-(1) There is established in the Department of Defense an Advisory Council on Dependents’ Education (hereinafter in this section referred to as the “Council”). The Council shall be composed of—
-
-  (A) the Secretary of Defense and the Secretary of Education, or their respective designees;
-
-  (B) 12 individuals appointed jointly by the Secretary of Defense and the Secretary of Education who shall be individuals who have demonstrated an interest in the field of primary or secondary education and who shall include representatives of professional employee organizations, school administrators, and parents of students enrolled in the defense dependents’ education system and the domestic dependent elementary and secondary schools established under [section 2164 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2164&num=0&edition=prelim), and one student enrolled in either such system; and
-
-  (C) a representative of the Secretary of Defense and of the Secretary of Education.
-
-(2) Individuals appointed to the Council from professional employee organizations shall be individuals designated by those organizations.
-
-(3) The Secretary of Defense, or the Secretary’s designee, and the Secretary of Education, or the Secretary’s designee, shall serve as cochairmen of the Council.
-
-(4) The Director shall be the Executive Secretary of the Council.
-
-**(b) Terms of office of members** The term of office of each member of the Council appointed under subsection (a)(2) of this section shall be three years, except that—
-
-(1) of the members first appointed under such paragraph, four shall serve for a term of one year, four shall serve for a term of two years, and four shall serve for a term of three years, as determined by the Secretary of Defense and the Secretary of Education at the time of their appointment, and
-
-(2) any member appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.
-No member appointed under subsection (a)(2) of this section shall serve more than two full terms on the Council.
-
-**(c) Meetings; functions** The Council shall meet at least two times each year. The functions of the Council shall be to—
-
-(1) recommend to the Director general policies for operation of the defense dependents’ education system, and of the domestic dependent elementary and secondary school system established under [section 2164 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2164&num=0&edition=prelim), with respect to curriculum selection, administration, and operation of the system,
-
-(2) provide information to the Director from other Federal agencies concerned with primary and secondary education with respect to education programs and practices which such agencies have found to be effective and which should be considered for inclusion in the defense dependents’ education system and in the domestic dependent elementary and secondary school system,
-
-(3) advise the Director on the design of the study and the selection of the contractor referred to in [section 930(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section930/a/2&num=0&edition=prelim), and
-
-(4) perform such other tasks as may be required by the Secretary of Defense.
-
-**(d) Compensation, etc., of members** Members of the Council who are not in the regular full-time employ of the United States shall, while attending meetings or conferences of the Council or otherwise engaged in the business of the Council, be entitled to receive compensation at the daily equivalent of the rate specified at the time of such service for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), including traveltime, and while so serving on the business of the Council away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim) for persons employed intermittently in the Government service.
-
-**(e) Termination** The Council shall continue in existence until terminated by law.
+## § 929. Repealed. Pub. L. 114–328, div. A, title V, § 576, Dec. 23, 2016, 130 Stat. 2143
 
 ### Statutory Notes
 
-#### Amendments
-2014—Subsec. (a)(1)(B). Pub. L. 113–291, § 565(b), inserted “and the domestic dependent elementary and secondary schools established under [section 2164 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2164&num=0&edition=prelim)” after “the defense dependents’ education system” and “either” after “one student enrolled in”.
-
-Subsec. (c)(1). Pub. L. 113–291, § 565(a)(1), inserted “, and of the domestic dependent elementary and secondary school system established under [section 2164 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2164&num=0&edition=prelim),” after “of the defense dependents’ education system”.
-
-Subsec. (c)(2). Pub. L. 113–291, § 565(a)(2), inserted “and in the domestic dependent elementary and secondary school system” before comma at end.
-
-1999—Subsec. (d). Pub. L. 106–65 substituted “level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim)” for “grade GS–18 in [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim)”.
-
-1985—Subsec. (a). Pub. L. 99–145, § 1204(b)(3)(A), amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “There is established in the Department of Education an Advisory Council on Dependents’ Education (hereinafter in this section referred to as the ‘Council’). The Council shall be composed of—
-
-“(1) the Assistant Secretary of Defense for Manpower, Reserve Affairs, and Logistics, and the Administrator of Education for Overseas Dependents of such department, who shall be co-chairman of the Council;
-
-“(2) twelve individuals appointed by the Secretary of Education, who shall be individuals who have demonstrated an interest in the fields of primary or secondary education and who shall include representatives of professional employee organizations, school administrators, parents of dependents enrolled in the dependents’ education system, and one student enrolled in such system;
-
-“(3) a representative of the Secretary of Education and of the Secretary of Defense.
-
-The Director shall be the Executive Secretary of the Council.”
-
-Subsec. (b)(1). Pub. L. 99–145, § 1204(b)(4), inserted reference to Secretary of Defense.
-
-Subsec. (c). Pub. L. 99–145, § 1204(b)(5)(A), substituted “two times each year” for “four times each year” in provisions before par. (1).
-
-Subsec. (c)(2), (3). Pub. L. 99–145, § 1204(b)(5)(B), (C), redesignated par. (3) as (2), and struck out par. (2) which required the Council to make recommendations to the Director and to the Secretary of Education on the orderly transfer of the functions under this chapter to the Secretary and Department of Education.
-
-Subsec. (c)(4), (5). Pub. L. 99–145, § 1204(b)(5)(C), (D), redesignated par. (5) as (4), and substituted Secretary of Defense for Secretary of Education. Former par. (4) redesignated (3).
-
-1979—Subsec. (a). Pub. L. 96–88, § 508(j)(3), substituted “Department of Education” for “Department of Defense” in text preceding par. (1).
-
-Subsec. (a)(1). Pub. L. 96–88, § 508(j)(4), provided that the Administrator of Education for Overseas Dependents of the Department of Education was to be a member of the council and its co-chairman.
-
-Subsec. (a)(2). Pub. L. 96–88, § 508(j)(5), substituted “Secretary of Education” for “Assistant Secretary”, “demonstrated an interest” for “versed by training or experience”, “parents of dependents” for “sponsors of students”, and “dependents’ education system” for “defense dependents’ education system”.
-
-Subsec. (a)(3). Pub. L. 96–88, § 508(j)(5), required membership on the Council for representatives of the Secretaries of Education and Defense and struck out requirements for representation of the Commissioner of Education, Director of the National Institute of Education, Director of the Educational Directorate of the National Science Foundation, Chairman of the National Endowment for the Arts, Chairman of the National Endowment for the Humanities, and the Secretaries of the military departments.
-
-Subsec. (b)(1). Pub. L. 96–88, § 508(j)(6), substituted “Secretary of Education” for “Assistant Secretary”.
-
-Subsec. (c)(2) to (5). Pub. L. 96–88, § 508(j)(7), (8), added par. (2), redesignated former pars. (2), (3), and (4) as (3), (4), and (5), respectively, and in par. (5), as so redesignated, substituted “Secretary of Education” for “Assistant Secretary”.
-
-#### Effective Date of 1979 Amendment
-Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, see section 601 of Pub. L. 96–88, set out as an Effective Date note under [section 3401 of this title](./chapter-048-department-of-education.md#section-3401).
+Section, Pub. L. 95–561, title XIV, § 1411, Nov. 1, 1978, 92 Stat. 2370; Pub. L. 96–88, title V, § 508(j)(3)–(8), Oct. 17, 1979, 93 Stat. 693, 694; Pub. L. 99–145, title XII, § 1204(b)(3)–(5), Nov. 8, 1985, 99 Stat. 720, 721; Pub. L. 106–65, div. A, title III, § 354(4), Oct. 5, 1999, 113 Stat. 573; Pub. L. 113–291, div. A, title V, § 565, Dec. 19, 2014, 128 Stat. 3384, related to Advisory Council on Dependents’ Education.
 
 
 <a id="section-930"></a>
@@ -453,9 +377,9 @@ Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, s
 
 (2) Any study under paragraph (1) shall be conducted by a contractor selected by the Director after an open competition. After conducting such study, the contractor shall submit a report to the Director describing the results of the study and giving its assessment of the defense dependents’ education system.
 
-**(b) Consultation requirements respecting study specifications and contractor selection** In designing the specifications for any study to be conducted pursuant to subsection (a)(1) of this section, and in selecting a contractor to conduct such study under subsection (a)(2) of this section, the Director shall consult with the Advisory Council on Dependents’ Education established under [section 929 of this title](./chapter-25a-overseas-defense-dependents-education.md#section-929).
+**(b) Consultation requirements respecting study specifications and contractor selection** In designing the specifications for any study to be conducted pursuant to subsection (a)(1), and in selecting a contractor to conduct such study under subsection (a)(2), the Director shall consult with the Advisory Council on Dependents’ Education established under [section 929 of this title](./chapter-25a-overseas-defense-dependents-education.md#section-929).
 
-**(c) Reporting requirements of Director** The Director shall submit to the Congress any report submitted to him under subsection (a)(2) of this section describing the results of a study carried out pursuant to subsection (a)(1) of this section, together with the recommendations, if any, of the contractor for legislation or any increase in funding needed to improve the defense dependents’ education system. Notwithstanding any law, rule, or regulation to the contrary, such report shall not be submitted to any review before its transmittal to the Congress, but the Secretary of Defense shall, at the time of the transmittal of such report, submit to the Congress such recommendations as he may have with respect to legislation or any increase in funding needed to improve the defense dependents’ education system.
+**(c) Reporting requirements of Director** The Director shall submit to the Congress any report submitted to him under subsection (a)(2) describing the results of a study carried out pursuant to subsection (a)(1), together with the recommendations, if any, of the contractor for legislation or any increase in funding needed to improve the defense dependents’ education system. Notwithstanding any law, rule, or regulation to the contrary, such report shall not be submitted to any review before its transmittal to the Congress, but the Secretary of Defense shall, at the time of the transmittal of such report, submit to the Congress such recommendations as he may have with respect to legislation or any increase in funding needed to improve the defense dependents’ education system.
 
 ### Statutory Notes
 

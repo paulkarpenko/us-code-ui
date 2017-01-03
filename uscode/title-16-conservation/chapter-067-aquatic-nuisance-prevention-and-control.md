@@ -297,7 +297,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
     (ii) ballasting practices of vessels that enter waters of the United States with no ballast water on board;
 
-  (F) provide for the keeping of records that shall be submitted to the Secretary, as prescribed by the guidelines, and that shall be maintained on board each vessel and made available for inspection, upon request of the Secretary and in a manner consistent with subsection (i) of this section, in order to enable the Secretary to determine compliance with the guidelines, including—
+  (F) provide for the keeping of records that shall be submitted to the Secretary, as prescribed by the guidelines, and that shall be maintained on board each vessel and made available for inspection, upon request of the Secretary and in a manner consistent with subsection (i), in order to enable the Secretary to determine compliance with the guidelines, including—
 
     (i) with respect to each ballast water exchange referred to in clause (ii), reporting on the precise location and thoroughness of the exchange; and
 
@@ -325,13 +325,13 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (3) **Education and technical assistance programs** — Not later than 1 year after October 26, 1996, the Secretary shall carry out education and technical assistance programs and other measures to encourage compliance with the guidelines issued under this subsection.
 
-**(d) Report to Congress** Not sooner than 24 months after the date of issuance of guidelines pursuant to subsection (c) of this section and not later than 30 months after such date, and after consultation with interested and affected persons, the Secretary shall prepare and submit to Congress a report containing the information required pursuant to paragraphs (1) and (2) of subsection (e) of this section.
+**(d) Report to Congress** Not sooner than 24 months after the date of issuance of guidelines pursuant to subsection (c) and not later than 30 months after such date, and after consultation with interested and affected persons, the Secretary shall prepare and submit to Congress a report containing the information required pursuant to paragraphs (1) and (2) of subsection (e).
 
 **(e) Periodic review and revision**
 
-(1) **In general** — Not later than 3 years after the date of issuance of guidelines pursuant to subsection (c) of this section, and not less frequently than every 3 years thereafter, the Secretary shall, in accordance with criteria developed by the Task Force under paragraph (3)—
+(1) **In general** — Not later than 3 years after the date of issuance of guidelines pursuant to subsection (c), and not less frequently than every 3 years thereafter, the Secretary shall, in accordance with criteria developed by the Task Force under paragraph (3)—
 
-  (A) assess the compliance by vessels with the voluntary guidelines issued under subsection (c) of this section and the regulations promulgated under this chapter;
+  (A) assess the compliance by vessels with the voluntary guidelines issued under subsection (c) and the regulations promulgated under this chapter;
 
   (B) establish the rate of compliance that is based on the assessment under subparagraph (A);
 
@@ -341,7 +341,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
     (i) revise the guidelines and regulations referred to in subparagraph (A);
 
-    (ii) promulgate additional regulations pursuant to subsection (f)(1) of this section; or
+    (ii) promulgate additional regulations pursuant to subsection (f)(1); or
 
     (iii) carry out each of clauses (i) and (ii).
 
@@ -353,28 +353,28 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
     (i) revise those guidelines;
 
-    (ii) promulgate additional regulations pursuant to subsection (f)(1) of this section; or
+    (ii) promulgate additional regulations pursuant to subsection (f)(1); or
 
     (iii) carry out each of clauses (i) and (ii).
 
-(3) **Criteria for effectiveness** — Not later than 18 months after October 26, 1996, the Task Force shall submit to the Secretary criteria for determining the adequacy and effectiveness of the voluntary guidelines issued under subsection (c) of this section.
+(3) **Criteria for effectiveness** — Not later than 18 months after October 26, 1996, the Task Force shall submit to the Secretary criteria for determining the adequacy and effectiveness of the voluntary guidelines issued under subsection (c).
 
 **(f) Authority of Secretary**
 
-(1) **General regulations** — If, on the basis of a periodic review conducted under subsection (e)(1) of this section or a special review conducted under subsection (e)(2) of this section, the Secretary determines that—
+(1) **General regulations** — If, on the basis of a periodic review conducted under subsection (e)(1) or a special review conducted under subsection (e)(2), the Secretary determines that—
 
-  (A) the rate of effective compliance (as determined by the Secretary) with the guidelines issued pursuant to subsection (c) of this section is inadequate; or
+  (A) the rate of effective compliance (as determined by the Secretary) with the guidelines issued pursuant to subsection (c) is inadequate; or
 
-  (B) the reporting by vessels pursuant to those guidelines is not adequate for the Secretary to assess the compliance with those guidelines and provide a rate of compliance of vessels, including the assessment of the rate of compliance of vessels under subsection (e)(2) of this section,
+  (B) the reporting by vessels pursuant to those guidelines is not adequate for the Secretary to assess the compliance with those guidelines and provide a rate of compliance of vessels, including the assessment of the rate of compliance of vessels under subsection (e)(2),
   the Secretary shall promptly promulgate regulations that meet the requirements of paragraph (2).
 
 (2) **Requirements for regulations** — The regulations promulgated by the Secretary under paragraph (1)—
 
   (A) shall—
 
-    (i) not be promulgated sooner than 180 days following the issuance of the report to Congress submitted pursuant to subsection (d) of this section;
+    (i) not be promulgated sooner than 180 days following the issuance of the report to Congress submitted pursuant to subsection (d);
 
-    (ii) make mandatory the requirements included in the voluntary guidelines issued under subsection (c) of this section; and
+    (ii) make mandatory the requirements included in the voluntary guidelines issued under subsection (c); and
 
     (iii) provide for the enforcement of the regulations; and
 
@@ -384,11 +384,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(g) Sanctions**
 
-(1) **Civil penalties** — Any person who violates a regulation promulgated under subsection (b) or (f) of this section shall be liable for a civil penalty in an amount not to exceed $25,000. Each day of a continuing violation constitutes a separate violation. A vessel operated in violation of the regulations is liable in rem for any civil penalty assessed under this subsection for that violation.
+(1) **Civil penalties** — Any person who violates a regulation promulgated under subsection (b) or (f) shall be liable for a civil penalty in an amount not to exceed $25,000. Each day of a continuing violation constitutes a separate violation. A vessel operated in violation of the regulations is liable in rem for any civil penalty assessed under this subsection for that violation.
 
-(2) **Criminal penalties** — Any person who knowingly violates the regulations promulgated under subsection (b) or (f) of this section is guilty of a class C felony.
+(2) **Criminal penalties** — Any person who knowingly violates the regulations promulgated under subsection (b) or (f) is guilty of a class C felony.
 
-(3) **Revocation of clearance** — Upon request of the Secretary, the Secretary of the Treasury shall withhold or revoke the clearance of a vessel required by [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim), if the owner or operator of that vessel is in violation of the regulations issued under subsection (b) or (f) of this section.
+(3) **Revocation of clearance** — Upon request of the Secretary, the Secretary of the Treasury shall withhold or revoke the clearance of a vessel required by [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim), if the owner or operator of that vessel is in violation of the regulations issued under subsection (b) or (f).
 
 (4) **Exception to sanctions** — This subsection does not apply to a failure to exchange ballast water if—
 
@@ -410,7 +410,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
   (A) *In general* — Except as provided in subparagraph (B), a vessel that does not exchange ballast water on the high seas under paragraph (1) shall not be restricted from discharging ballast water in any harbor.
 
-  (B) *Great Lakes* — Subparagraph (A) shall not apply in a case in which a vessel is subject to the regulations issued by the Secretary under subsection (b) of this section.
+  (B) *Great Lakes* — Subparagraph (A) shall not apply in a case in which a vessel is subject to the regulations issued by the Secretary under subsection (b).
 
 (3) **Crude oil tanker ballast facility study**
 
@@ -491,9 +491,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(c) Reports**
 
-(1) **Ballast exchange** — Not later than 18 months after November 29, 1990, and prior to the effective date of the regulations issued under [section 4711(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4711/b&num=0&edition=prelim), the Task Force shall submit a report to the Congress that presents the results of the study required under subsection (a)(1) of this section and makes recommendations with respect to such regulations.
+(1) **Ballast exchange** — Not later than 18 months after November 29, 1990, and prior to the effective date of the regulations issued under [section 4711(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4711/b&num=0&edition=prelim), the Task Force shall submit a report to the Congress that presents the results of the study required under subsection (a)(1) and makes recommendations with respect to such regulations.
 
-(2) **Biological and shipping studies** — Not later than 18 months after November 29, 1990, the Secretary and the Task Force shall each submit to the Congress a report on the results of their respective studies under paragraphs (2) and (3) of subsection (a) of this section.
+(2) **Biological and shipping studies** — Not later than 18 months after November 29, 1990, the Secretary and the Task Force shall each submit to the Congress a report on the results of their respective studies under paragraphs (2) and (3) of subsection (a).
 
 **(d) Negotiations** The Secretary, working through the International Maritime Organization, is encouraged to enter into negotiations with the governments of foreign countries concerning the planning and implementation of measures aimed at the prevention and control of unintentional introductions of aquatic nuisance species in coastal waters.
 
@@ -517,7 +517,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
   (B) compliance with the guidelines issued pursuant to [section 4711(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4711/c&num=0&edition=prelim); and
 
-  (C) any other information obtained by the Task Force under subsection (b) of this section.
+  (C) any other information obtained by the Task Force under subsection (b).
 
 (2) **Report** — In consultation and cooperation with the Task Force and the Smithsonian Institution (acting through the Smithsonian Environmental Research Center), the Secretary shall prepare and submit to the Task Force and the Congress, on a biennial basis, a report that synthesizes and analyzes the data referred to in paragraph (1) relating to—
 
@@ -621,7 +621,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(c) Authorities; consultation and cooperation with International Maritime Organization and Task Force**
 
-(1) **Authorities** — In conducting the demonstration program under subsection (b) of this section, the Secretary of the Interior may—
+(1) **Authorities** — In conducting the demonstration program under subsection (b), the Secretary of the Interior may—
 
   (A) enter into cooperative agreements with appropriate officials of other agencies of the Federal Government, agencies of States and political subdivisions thereof, and private entities;
 
@@ -650,9 +650,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (6) the Secretary of Agriculture; and
 
-(7) the head of any other Federal agency that the chairpersons designated under subsection (d) of this section deem appropriate.
+(7) the head of any other Federal agency that the chairpersons designated under subsection (d) deem appropriate.
 
-**(c) Ex officio members** The chairpersons designated under subsection (d) of this section shall invite representatives of the Great Lakes Commission, the Lake Champlain Basin Program, the Chesapeake Bay Program, the San Francisco Bay-Delta Estuary Program, and State agencies and other governmental entities to participate as ex officio members of the Task Force.
+**(c) Ex officio members** The chairpersons designated under subsection (d) shall invite representatives of the Great Lakes Commission, the Lake Champlain Basin Program, the Chesapeake Bay Program, the San Francisco Bay-Delta Estuary Program, and State agencies and other governmental entities to participate as ex officio members of the Task Force.
 
 **(d) Chairpersons** The Director and the Under Secretary shall serve as co-chairpersons of the Task Force and shall be jointly responsible, and are authorized to undertake such activities as may be necessary, for carrying out this subchapter in consultation and cooperation with the other members of the Task Force.
 
@@ -682,7 +682,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 ## § 4722. Aquatic nuisance species program
 **(a) In general** The Task Force shall develop and implement a program for waters of the United States to prevent introduction and dispersal of aquatic nuisance species; to monitor, control and study such species; and to disseminate related information.
 
-**(b) Content** The program developed under subsection (a) of this section shall—
+**(b) Content** The program developed under subsection (a) shall—
 
 (1) identify the goals, priorities, and approaches for aquatic nuisance species prevention, monitoring, control, education and research to be conducted or funded by the Federal Government;
 
@@ -698,7 +698,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(c) Prevention**
 
-(1) **In general** — The Task Force shall establish and implement measures, within the program developed under subsection (a) of this section, to minimize the risk of introduction of aquatic nuisance species to waters of the United States, including—
+(1) **In general** — The Task Force shall establish and implement measures, within the program developed under subsection (a), to minimize the risk of introduction of aquatic nuisance species to waters of the United States, including—
 
   (A) identification of pathways by which aquatic organisms are introduced to waters of the United States;
 
@@ -708,7 +708,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (2) **Implementation** — Whenever the Task Force determines that there is a substantial risk of unintentional introduction of an aquatic nuisance species by an identified pathway and that the adverse consequences of such an introduction are likely to be substantial, the Task Force shall, acting through the appropriate Federal agency, and after an opportunity for public comment, carry out cooperative, environmentally sound efforts with regional, State and local entities to minimize the risk of such an introduction.
 
-**(d) Monitoring** The Task Force shall establish and implement monitoring measures, within the program developed under subsection (a) of this section, to—
+**(d) Monitoring** The Task Force shall establish and implement monitoring measures, within the program developed under subsection (a), to—
 
 (1) detect unintentional introductions of aquatic nuisance species;
 
@@ -718,7 +718,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(e) Control**
 
-(1) **In general** — The Task Force may develop cooperative efforts, within the program established under subsection (a) of this section, to control established aquatic nuisance species to minimize the risk of harm to the environment and the public health and welfare. For purposes of this chapter, control efforts include eradication of infestations, reductions of populations, development of means of adapting human activities and public facilities to accommodate infestations, and prevention of the spread of aquatic nuisance species from infested areas. Such control efforts shall be developed in consultation with affected Federal agencies, States, Indian Tribes, local governments, interjurisdictional organizations, and other appropriate entities. Control actions authorized by this section shall be based on the best available scientific information and shall be conducted in an environmentally sound manner.
+(1) **In general** — The Task Force may develop cooperative efforts, within the program established under subsection (a), to control established aquatic nuisance species to minimize the risk of harm to the environment and the public health and welfare. For purposes of this chapter, control efforts include eradication of infestations, reductions of populations, development of means of adapting human activities and public facilities to accommodate infestations, and prevention of the spread of aquatic nuisance species from infested areas. Such control efforts shall be developed in consultation with affected Federal agencies, States, Indian Tribes, local governments, interjurisdictional organizations, and other appropriate entities. Control actions authorized by this section shall be based on the best available scientific information and shall be conducted in an environmentally sound manner.
 
 (2) **Decisions** — The Task Force or any other affected agency or entity may recommend that the Task Force initiate a control effort. In determining whether a control program is warranted, the Task Force shall evaluate the need for control (including the projected consequences of no control and less than full control); the technical and biological feasibility and cost-effectiveness of alternative control strategies and actions; whether the benefits of control, including costs avoided, exceed the costs of the program; the risk of harm to non-target organisms and ecosystems, public health and welfare; and such other considerations the Task Force determines appropriate. The Task Force shall also determine the nature and extent of control of target aquatic nuisance species that is feasible and desirable.
 
@@ -726,7 +726,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(f) Research**
 
-(1) **Priorities** — The Task Force shall, within the program developed under subsection (a) of this section, conduct research concerning—
+(1) **Priorities** — The Task Force shall, within the program developed under subsection (a), conduct research concerning—
 
   (A) the environmental and economic risks and impacts associated with the introduction of aquatic nuisance species into the waters of the United States;
 
@@ -740,15 +740,15 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (3) **Grants for research** — The Task Force shall allocate funds authorized under this chapter for competitive research grants to study all aspects of aquatic nuisance species, which shall be administered through the National Sea Grant College Program and the Cooperative Fishery and Wildlife Research Units. Grants shall be conditioned to ensure that any recipient of funds follows the protocol established under paragraph (2) of this subsection.
 
-**(g) Technical assistance** The Task Force shall, within the program developed under subsection (a) of this section, provide technical assistance to State and local governments and persons to minimize the environmental, public health, and safety risks associated with aquatic nuisance species, including an early warning system for advance notice of possible infestations and appropriate responses.
+**(g) Technical assistance** The Task Force shall, within the program developed under subsection (a), provide technical assistance to State and local governments and persons to minimize the environmental, public health, and safety risks associated with aquatic nuisance species, including an early warning system for advance notice of possible infestations and appropriate responses.
 
-**(h) Education** The Task Force shall, with the program developed under subsection (a) of this section, establish and implement educational programs through Sea Grant Marine Advisory Services and any other available resources that it determines to be appropriate to inform the general public, State governments, governments of political subdivisions of States, and industrial and recreational users of aquatic resources in connection with matters concerning the identification of aquatic nuisance species, and control methods for such species, including the prevention of the further distribution of such species.
+**(h) Education** The Task Force shall, with the program developed under subsection (a), establish and implement educational programs through Sea Grant Marine Advisory Services and any other available resources that it determines to be appropriate to inform the general public, State governments, governments of political subdivisions of States, and industrial and recreational users of aquatic resources in connection with matters concerning the identification of aquatic nuisance species, and control methods for such species, including the prevention of the further distribution of such species.
 
 **(i) Zebra mussel demonstration program**
 
 (1) **Zebra mussel**
 
-  (A) *In general* — The Task Force shall, within the program developed under subsection (a) of this section, undertake a program of prevention, monitoring, control, education and research for the zebra mussel to be implemented in the Great Lakes and any other waters of the United States infested or likely to become infested by the zebra mussel, including—
+  (A) *In general* — The Task Force shall, within the program developed under subsection (a), undertake a program of prevention, monitoring, control, education and research for the zebra mussel to be implemented in the Great Lakes and any other waters of the United States infested or likely to become infested by the zebra mussel, including—
 
     (i) research and development concerning the species life history, environmental tolerances and impacts on fisheries and other ecosystem components, and the efficacy of control mechanisms and means of avoiding or minimizing impacts;
 
@@ -768,7 +768,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
     (i) identify environmentally sound methods for controlling the dispersal of aquatic nuisance species, such as the zebra mussel; and
 
-    (ii) adhere to research protocols developed pursuant to subsection (f)(2) of this section.
+    (ii) adhere to research protocols developed pursuant to subsection (f)(2).
 
   (B) *Authorization of appropriations* — There are authorized to be appropriated to the Environmental Protection Agency to carry out this paragraph, $500,000.
 
@@ -796,7 +796,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(k) Reports**
 
-(1) Not later than 12 months after November 29, 1990, the Task Force shall submit a report describing the program developed under subsection (a) of this section, including the research protocol required under subsection (f)(2) of this section, to the Congress.
+(1) Not later than 12 months after November 29, 1990, the Task Force shall submit a report describing the program developed under subsection (a), including the research protocol required under subsection (f)(2), to the Congress.
 
 (2) On an annual basis after the submission of the report under paragraph (1), the Task Force shall submit a report to the Congress detailing progress in carrying out this section.
 
@@ -857,7 +857,7 @@ Subsec. (k). Pub. L. 104–332, § 2(g), substituted “Congress” for “appro
 
 **(c) Additional regional panels** The Task Force shall—
 
-(1) encourage the development and use of regional panels and other similar entities in regions in addition to the Great Lakes and Western regions (including providing financial assistance for the development and use of such entities) to carry out, with respect to those regions, activities that are similar to the activities described in subsections (a) and (b) of this section; and
+(1) encourage the development and use of regional panels and other similar entities in regions in addition to the Great Lakes and Western regions (including providing financial assistance for the development and use of such entities) to carry out, with respect to those regions, activities that are similar to the activities described in subsections (a) and (b); and
 
 (2) cooperate with regional panels and similar entities that carry out the activities described in paragraph (1).
 
@@ -906,7 +906,7 @@ Pub. L. 104–332, § 2(e)(5)(B)–(F), designated existing provisions as subsec
 
 **(b) Grant program**
 
-(1) **State grants** — The Director may, at the recommendation of the Task Force, make grants to States with management plans approved under subsection (a) of this section for the implementation of those plans.
+(1) **State grants** — The Director may, at the recommendation of the Task Force, make grants to States with management plans approved under subsection (a) for the implementation of those plans.
 
 (2) **Application** — An application for a grant under this subsection shall include an identification and description of the best management practices and measures which the State proposes to utilize in implementing an approved management plan with any Federal assistance to be provided under the grant.
 
@@ -947,7 +947,7 @@ Subsec. (a)(3)(B). Pub. L. 104–332, § 2(e)(6)(A)(iv)(II), inserted “or the 
 
 Subsec. (a)(4). Pub. L. 104–332, § 2(e)(6)(A)(v), inserted “or the interstate organization” after “the Governor”.
 
-Subsec. (b)(1). Pub. L. 104–332, § 2(e)(6)(B), struck out “or the Assistant Secretary, as appropriate under subsection (a) of this section,” after “The Director” and substituted “management plans approved under subsection (a) of this section” for “approved management plans”.
+Subsec. (b)(1). Pub. L. 104–332, § 2(e)(6)(B), struck out “or the Assistant Secretary, as appropriate under subsection (a),” after “The Director” and substituted “management plans approved under subsection (a)” for “approved management plans”.
 
 Subsec. (c). Pub. L. 104–332, § 2(e)(6)(C), added subsec. (c).
 
@@ -1004,7 +1004,7 @@ The Task Force shall, within the program developed under subsection (a),11 So in
 
 <a id="section-4741"></a>
 ## § 4741. Authorization of appropriations
-**(a) Prevention of unintentional introductions** There are authorized to be appropriated to develop and implement the provisions of subchapter II of this chapter—
+**(a) Prevention of unintentional introductions** There are authorized to be appropriated to develop and implement the provisions of subchapter II—
 
 (1) $500,000 until the end of fiscal year 1992 to the Secretary to carry out sections 4711 and 4712(a)(3) of this title;
 
@@ -1028,7 +1028,7 @@ The Task Force shall, within the program developed under subsection (a),11 So in
 
   (B) $500,000 to the Secretary to carry out [section 4712(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4712/f&num=0&edition=prelim).
 
-**(b) Task Force and aquatic nuisance species program** There are authorized to be appropriated for each of fiscal years 1997 through 2002 to develop and implement the provisions of subchapter III of this chapter—
+**(b) Task Force and aquatic nuisance species program** There are authorized to be appropriated for each of fiscal years 1997 through 2002 to develop and implement the provisions of subchapter III—
 
 (1) $6,000,000 to the Department of the Interior, to be used by the Director to carry out sections 4722 and 4728 of this title;
 

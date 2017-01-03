@@ -2,7 +2,7 @@
 title: 49
 chapter: '301'
 heading: MOTOR VEHICLE SAFETY
-section_count: 46
+section_count: 47
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -23,6 +23,15 @@ The purpose of this chapter is to reduce traffic accidents and deaths and injuri
 | 30101 | 15:1381. | Sept. 9, 1966, Pub. L. 89–563, § 1, 80 Stat. 718. |
 
 The words “Congress hereby declares that”, “to persons”, and “Congress determines that” are omitted as surplus. The words “motor vehicle” before “equipment” are added for consistency. The words “and to expand the national driver register” are omitted because section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), the only section in this law related to the national driver register, was superseded by the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1740).
+
+#### Short Title of 2015 Amendment
+Pub. L. 114–94, div. B, title XXIV, § 24109(a), Dec. 4, 2015, 129 Stat. 1706, provided that: “This section [amending sections 30102, 30120, 30122, and 30166 of this title and enacting provisions set out as notes under [section 30102 of this title](./chapter-301-motor-vehicle-safety.md#section-30102)] may be cited as the ‘Raechel and Jacqueline Houck Safe Rental Car Act of 2015’.”
+
+Pub. L. 114–94, div. B, title XXIV, § 24321, Dec. 4, 2015, 129 Stat. 1713, provided that: “This part [part II (§§ 24321, 24322) of subtitle C of title XXIV of div. B of Pub. L. 114–94, amending [section 32302 of this title](./chapter-323-consumer-information.md#section-32302)] may be cited as the ‘Safety Through Informed Consumers Act of 2015’.”
+
+Pub. L. 114–94, div. B, title XXIV, § 24331, Dec. 4, 2015, 129 Stat. 1713, provided that: “This part [part III (§§ 24331–24335) of subtitle C of title XXIV of div. B of Pub. L. 114–94, amending sections 30117 and 32304A of this title and enacting provisions set out as a note under [section 30119 of this title](./chapter-301-motor-vehicle-safety.md#section-30119)] may be cited as the ‘Tire Efficiency, Safety, and Registration Act of 2015’ or the ‘TESR Act’.”
+
+Pub. L. 114–94, div. B, title XXIV, § 24351, Dec. 4, 2015, 129 Stat. 1716, provided that: “This part [part V (§§ 24351, 24352) of subtitle C of title XXIV of div. B of Pub. L. 114–94, enacting [section 30172 of this title](./chapter-301-motor-vehicle-safety.md#section-30172) and provisions set out as a note under [section 30172 of this title](./chapter-301-motor-vehicle-safety.md#section-30172)] may be cited as the ‘Motor Vehicle Safety Whistleblower Act’.”
 
 #### Short Title of 2012 Amendment
 Pub. L. 112–196, § 1, Oct. 19, 2012, 126 Stat. 1459, provided that: “This Act [amending [section 31311 of this title](./chapter-313-commercial-motor-vehicle-operators.md#section-31311)] may be cited as the ‘Military Commercial Driver’s License Act of 2012’.”
@@ -45,6 +54,9 @@ Pub. L. 105–178, title VII, § 7101, June 9, 1998, 112 Stat. 465, provided tha
 
 #### Short Title of 1996 Amendment
 Pub. L. 104–152, § 1, July 2, 1996, 110 Stat. 1384, provided that: “This Act [amending sections 30501 to 30505 and 33109 of this title and enacting provisions set out as a note under [section 30502 of this title](./chapter-305-national-motor-vehicle-title-information-system.md#section-30502)] may be cited as the ‘Anti-Car Theft Improvements Act of 1996’.”
+
+#### Driver Privacy
+Pub. L. 114–94, div. B, title XXIV, subtitle C, part I, Dec. 4, 2015, 129 Stat. 1712, provided that: “SEC. 24301. SHORT TITLE.“This part may be cited as the ‘Driver Privacy Act of 2015’. “SEC. 24302. LIMITATIONS ON DATA RETRIEVAL FROM VEHICLE EVENT DATA RECORDERS.“(a) Ownership of Data.—Any data retained by an event data recorder (as defined in section 563.5 of title 49, Code of Federal Regulations), regardless of when the motor vehicle in which it is installed was manufactured, is the property of the owner, or, in the case of a leased vehicle, the lessee of the motor vehicle in which the event data recorder is installed. “(b) Privacy.—Data recorded or transmitted by an event data recorder described in subsection (a) may not be accessed by a person other than an owner or a lessee of the motor vehicle in which the event data recorder is installed unless—“(1) a court or other judicial or administrative authority having jurisdiction—“(A) authorizes the retrieval of the data; and “(B) to the extent that there is retrieved data, the data is subject to the standards for admission into evidence required by that court or other administrative authority; “(2) an owner or a lessee of the motor vehicle provides written, electronic, or recorded audio consent to the retrieval of the data for any purpose, including the purpose of diagnosing, servicing, or repairing the motor vehicle, or by agreeing to a subscription that describes how data will be retrieved and used; “(3) the data is retrieved pursuant to an investigation or inspection authorized under section 1131(a) or 30166 of title 49, United States Code, and the personally identifiable information of an owner or a lessee of the vehicle and the vehicle identification number is not disclosed in connection with the retrieved data, except that the vehicle identification number may be disclosed to the certifying manufacturer; “(4) the data is retrieved for the purpose of determining the need for, or facilitating, emergency medical response in response to a motor vehicle crash; or “(5) the data is retrieved for traffic safety research, and the personally identifiable information of an owner or a lessee of the vehicle and the vehicle identification number is not disclosed in connection with the retrieved data. “SEC. 24303. VEHICLE EVENT DATA RECORDER STUDY.“(a) In General.—Not later than 1 year after the date of enactment of this Act [Dec. 4, 2015], the Administrator of the National Highway Traffic Safety Administration shall submit to Congress a report that contains the results of a study conducted by the Administrator to determine the amount of time event data recorders installed in passenger motor vehicles should capture and record for retrieval vehicle-related data in conjunction with an event in order to provide sufficient information to investigate the cause of motor vehicle crashes. “(b) Rulemaking.—Not later than 2 years after submitting the report required under subsection (a), the Administrator of the National Highway Traffic Safety Administration shall promulgate regulations to establish the appropriate period during which event data recorders installed in passenger motor vehicles may capture and record for retrieval vehicle-related data to the time necessary to provide accident investigators with vehicle-related information pertinent to crashes involving such motor vehicles.”
 
 #### National Highway Traffic Safety Administration Outreach to Manufacturer, Dealer, and Mechanic Personnel
 Pub. L. 112–141, div. C, title I, § 31302, July 6, 2012, 126 Stat. 763, provided that: “The Secretary [of Transportation] shall publicize the means for contacting the National Highway Traffic Safety Administration in a manner that targets mechanics, passenger motor vehicle dealership personnel, and manufacturer personnel.”
@@ -76,23 +88,31 @@ Lyndon B. Johnson.
 ## § 30102. Definitions
 **(a) General Definitions.—** In this chapter—
 
-(1) “dealer” means a person selling and distributing new motor vehicles or motor vehicle equipment primarily to purchasers that in good faith purchase the vehicles or equipment other than for resale.
+(1) “covered rental vehicle” means a motor vehicle that—
 
-(2) “defect” includes any defect in performance, construction, a component, or material of a motor vehicle or motor vehicle equipment.
+  (A) has a gross vehicle weight rating of 10,000 pounds or less;
 
-(3) “distributor” means a person primarily selling and distributing motor vehicles or motor vehicle equipment for resale.
+  (B) is rented without a driver for an initial term of less than 4 months; and
 
-(4) “interstate commerce” means commerce between a place in a State and a place in another State or between places in the same State through another State.
+  (C) is part of a motor vehicle fleet of 35 or more motor vehicles that are used for rental purposes by a rental company.
 
-(5) “manufacturer” means a person—
+(2) “dealer” means a person selling and distributing new motor vehicles or motor vehicle equipment primarily to purchasers that in good faith purchase the vehicles or equipment other than for resale.
+
+(3) “defect” includes any defect in performance, construction, a component, or material of a motor vehicle or motor vehicle equipment.
+
+(4) “distributor” means a person primarily selling and distributing motor vehicles or motor vehicle equipment for resale.
+
+(5) “interstate commerce” means commerce between a place in a State and a place in another State or between places in the same State through another State.
+
+(6) “manufacturer” means a person—
 
   (A) manufacturing or assembling motor vehicles or motor vehicle equipment; or
 
   (B) importing motor vehicles or motor vehicle equipment for resale.
 
-(6) “motor vehicle” means a vehicle driven or drawn by mechanical power and manufactured primarily for use on public streets, roads, and highways, but does not include a vehicle operated only on a rail line.
+(7) “motor vehicle” means a vehicle driven or drawn by mechanical power and manufactured primarily for use on public streets, roads, and highways, but does not include a vehicle operated only on a rail line.
 
-(7) “motor vehicle equipment” means—
+(8) “motor vehicle equipment” means—
 
   (A) any system, part, or component of a motor vehicle as originally manufactured;
 
@@ -104,13 +124,19 @@ Lyndon B. Johnson.
 
     (ii) is manufactured, sold, delivered, or offered to be sold for use on public streets, roads, and highways with the apparent purpose of safeguarding users of motor vehicles against risk of accident, injury, or death.
 
-(8) “motor vehicle safety” means the performance of a motor vehicle or motor vehicle equipment in a way that protects the public against unreasonable risk of accidents occurring because of the design, construction, or performance of a motor vehicle, and against unreasonable risk of death or injury in an accident, and includes nonoperational safety of a motor vehicle.
+(9) “motor vehicle safety” means the performance of a motor vehicle or motor vehicle equipment in a way that protects the public against unreasonable risk of accidents occurring because of the design, construction, or performance of a motor vehicle, and against unreasonable risk of death or injury in an accident, and includes nonoperational safety of a motor vehicle.
 
-(9) “motor vehicle safety standard” means a minimum standard for motor vehicle or motor vehicle equipment performance.
+(10) “motor vehicle safety standard” means a minimum standard for motor vehicle or motor vehicle equipment performance.
 
-(10) “State” means a State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
+(11) “rental company” means a person who—
 
-(11) “United States district court” means a district court of the United States, a United States court for Guam, the Virgin Islands, and American Samoa, and the district court for the Northern Mariana Islands.
+  (A) is engaged in the business of renting covered rental vehicles; and
+
+  (B) uses for rental purposes a motor vehicle fleet of 35 or more covered rental vehicles, on average, during the calendar year.
+
+(12) “State” means a State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
+
+(13) “United States district court” means a district court of the United States, a United States court for Guam, the Virgin Islands, and American Samoa, and the district court for the Northern Mariana Islands.
 
 **(b) Limited Definitions.—**
 
@@ -161,13 +187,30 @@ In subsection (b)(1), before clause (A), the words “The term” and “the ter
 Subsection (b)(2) is substituted for “Except as otherwise provided in regulations of the Secretary” for clarity and because of the restatement.
 
 #### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–94, § 24109(b)(3), added par. (1). Former par. (1) redesignated (2).
+
+Subsec. (a)(2) to (10). Pub. L. 114–94, § 24109(b)(2), redesignated pars. (1) to (9) as (2) to (10), respectively. Former par. (10) redesignated (12).
+
+Subsec. (a)(11). Pub. L. 114–94, § 24109(b)(4), added par. (11). Former par. (11) redesignated (13).
+
+Subsec. (a)(12), (13). Pub. L. 114–94, § 24109(b)(1), redesignated pars. (10) and (11) as (12) and (13), respectively.
+
 2012—Subsec. (a)(7)(C). Pub. L. 112–141 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “any device or an article or apparel (except medicine or eyeglasses prescribed by a licensed practitioner) that is not a system, part, or component of a motor vehicle and is manufactured, sold, delivered, offered, or intended to be used only to safeguard motor vehicles and highway users against risk of accident, injury, or death.”
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–94, div. B, title XXIV, § 24109(k), Dec. 4, 2015, 129 Stat. 1709, provided that: “The amendments made by this section [amending this section and sections 30120, 30122, and 30166 of this title] shall take effect on the date that is 180 days after the date of enactment of this Act [Dec. 4, 2015].”
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
+#### Rule of Construction
+Pub. L. 114–94, div. B, title XXIV, § 24109(i), Dec. 4, 2015, 129 Stat. 1708, provided that: “Nothing in this section [amending this section and sections 30120, 30122, and 30166 of this title and enacting provisions set out as notes under this section and [section 30101 of this title](./chapter-301-motor-vehicle-safety.md#section-30101)] or the amendments made by this section— “(1) may be construed to create or increase any liability, including for loss of use, for a manufacturer as a result of having manufactured or imported a motor vehicle subject to a notification of defect or noncompliance under subsection (b) or (c) of [section 30118 of title 49](./chapter-301-motor-vehicle-safety.md#section-30118), United States Code; or “(2) shall supersede or otherwise affect the contractual obligations, if any, between such a manufacturer and a rental company (as defined in [section 30102(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a&num=0&edition=prelim), United States Code).”
+
+#### Rulemaking
+Pub. L. 114–94, div. B, title XXIV, § 24109(j), Dec. 4, 2015, 129 Stat. 1708, provided that: “The Secretary [probably means Secretary of Transportation] may promulgate rules, as appropriate, to implement this section [amending this section and sections 30120, 30122, and 30166 of this title and enacting provisions set out as notes under this section and [section 30101 of this title](./chapter-301-motor-vehicle-safety.md#section-30101)] and the amendments made by this section.”
+
 #### Low-Speed Electric Bicycles
-Pub. L. 107–319, § 2, Dec. 4, 2002, 116 Stat. 2776, provided that: “For purposes of motor vehicle safety standards issued and enforced pursuant to chapter 301 of title 49, United States Code, a low-speed electric bicycle (as defined in section 38(b) of the Consumer Product Safety Act [[15 U.S.C. 2085(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2085/b&num=0&edition=prelim)]) shall not be considered a motor vehicle as defined by [section 30102(6) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/6&num=0&edition=prelim), United States Code.”
+Pub. L. 107–319, § 2, Dec. 4, 2002, 116 Stat. 2776, provided that: “For purposes of motor vehicle safety standards issued and enforced pursuant to chapter 301 of title 49, United States Code, a low-speed electric bicycle (as defined in section 38(b) of the Consumer Product Safety Act [[15 U.S.C. 2085(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2085/b&num=0&edition=prelim)]) shall not be considered a motor vehicle as defined by section 30102[(a)](6) [now 30102(a)(7)] of title 49, United States Code.”
 
 
 <a id="section-30103"></a>
@@ -217,7 +260,7 @@ In subsection (d), the words “United States” are substituted for “Federal�
 1995—Subsec. (a). Pub. L. 104–88 substituted “subchapter I of chapter 135” for “subchapter II of chapter 105” in two places.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-30104"></a>
@@ -317,6 +360,12 @@ The date of enactment of this section, referred to in subsec. (c), is the date o
 
 **(e) 5-Year Plan for Testing Standards.—** The Secretary shall establish and periodically review and update on a continuing basis a 5-year plan for testing motor vehicle safety standards prescribed under this chapter that the Secretary considers capable of being tested. In developing the plan and establishing testing priorities, the Secretary shall consider factors the Secretary considers appropriate, consistent with [section 30101 of this title](./chapter-301-motor-vehicle-safety.md#section-30101) and the Secretary’s other duties and powers under this chapter. The Secretary may change at any time those priorities to address matters the Secretary considers of greater priority. The initial plan may be the 5-year plan for compliance testing in effect on December 18, 1991.
 
+**(f) Motor Vehicle Safety Guidelines.—**
+
+(1) **In general.—** — No guidelines issued by the Secretary with respect to motor vehicle safety shall confer any rights on any person, State, or locality, nor shall operate to bind the Secretary or any person to the approach recommended in such guidelines. In any enforcement action with respect to motor vehicle safety, the Secretary shall allege a violation of a provision of this subtitle, a motor vehicle safety standard issued under this subtitle, or another relevant statute or regulation. The Secretary may not base an enforcement action on, or execute a consent order based on, practices that are alleged to be inconsistent with any such guidelines, unless the practices allegedly violate a provision of this subtitle, a motor vehicle safety standard issued under this subtitle, or another relevant statute or regulation.
+
+(2) **Rule of construction.—** — Nothing in this subsection shall be construed to confer any authority upon or negate any authority of the Secretary to issue guidelines under this chapter.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -346,11 +395,14 @@ In subsection (e), the words “duties and powers” are substituted for “resp
 #### References in Text
 Act of August 20, 1958, referred to in subsec. (b)(2), is set out as a note under former [section 313 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section313&num=0&edition=prelim), Highways.
 
+#### Amendments
+2015—Subsec. (f). Pub. L. 114–94 added subsec. (f).
+
 #### Rulemaking on Visibility of Agricultural Equipment
 Pub. L. 112–141, div. C, title I, § 31601, July 6, 2012, 126 Stat. 775, provided that: “(a) Definitions.—In this section:“(1) Agricultural equipment.—The term ‘agricultural equipment’ has the meaning given the term ‘agricultural field equipment’ in ASABE Standard 390.4, entitled ‘Definitions and Classifications of Agricultural Field Equipment’, which was published in January 2005 by the American Society of Agriculture and Biological Engineers, or any successor standard. “(2) Public road.—The term ‘public road’ has the meaning given the term in [section 101(a)(27) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101/a/27&num=0&edition=prelim), United States Code. “(b) Rulemaking.—“(1) In general.—Not later than 2 years after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways], the Secretary of Transportation, after consultation with representatives of the American Society of Agricultural and Biological Engineers and appropriate Federal agencies, and with other appropriate persons, shall promulgate a rule to improve the daytime and nighttime visibility of agricultural equipment that may be operated on a public road. “(2) Minimum standards.—The rule promulgated pursuant to this subsection shall—“(A) establish minimum lighting and marking standards for applicable agricultural equipment manufactured at least 1 year after the date on which such rule is promulgated; and “(B) provide for the methods, materials, specifications, and equipment to be employed to comply with such standards, which shall be equivalent to ASABE Standard 279.14, entitled ‘Lighting and Marking of Agricultural Equipment on Highways’, which was published in July 2008 by the American Society of Agricultural and Biological Engineers, or any successor standard. “(c) Review.—Not less frequently than once every 5 years, the Secretary of Transportation shall—“(1) review the standards established pursuant to subsection (b); and “(2) revise such standards to reflect the revision of ASABE Standard 279 that is in effect at the time of such review. “(d) Limitations.—“(1) Compliance with successor standards.—Any rule promulgated pursuant to this section may not prohibit the operation on public roads of agricultural equipment that is equipped in accordance with any adopted revision of ASABE Standard 279 that is later than the revision of such standard that was referenced during the promulgation of the rule. “(2) No retrofitting required.—Any rule promulgated pursuant to this section may not require the retrofitting of agricultural equipment that was manufactured before the date on which the lighting and marking standards are enforceable under subsection (b)(2)(A). “(3) No effect on additional materials and equipment.—Any rule promulgated pursuant to this section may not prohibit the operation on public roads of agricultural equipment that is equipped with materials or equipment that are in addition to the minimum materials and equipment specified in the standard upon which such rule is based.”
 
 #### Unattended Passenger Reminders
-Pub. L. 112–141, div. C, title I, § 31504, July 6, 2012, 126 Stat. 775, provided that: “(a) Safety Research Initiative.—The Secretary [of Transportation] may initiate research into effective ways to minimize the risk of hyperthermia or hypothermia to children or other unattended passengers in rear seating positions. “(b) Research Areas.—In carrying out subsection (a), the Secretary may conduct research into the potential viability of—“(1) vehicle technology to provide an alert that a child or unattended passenger remains in a rear seating position after the vehicle motor is disengaged; or “(2) public awareness campaigns to educate drivers on the risks of leaving a child or unattended passenger in a vehicle after the vehicle motor is disengaged; or “(3) other ways to mitigate risk. “(c) Coordination With Other Agencies.—The Secretary may collaborate with other Federal agencies in conducting the research under this section.”
+Pub. L. 112–141, div. C, title I, § 31504, July 6, 2012, 126 Stat. 775, as amended by Pub. L. 114–94, div. B, title XXIV, § 24114, Dec. 4, 2015, 129 Stat. 1710, provided that: “(a) Safety Research Initiative.—The Secretary [of Transportation] shall initiate research into effective ways to minimize the risk of hyperthermia or hypothermia to children or other unattended passengers in rear seating positions. “(b) Research Areas.—In carrying out subsection (a), the Secretary may conduct research into the potential viability of—“(1) vehicle technology to provide an alert that a child or unattended passenger remains in a rear seating position after the vehicle motor is disengaged; or “(2) public awareness campaigns to educate drivers on the risks of leaving a child or unattended passenger in a vehicle after the vehicle motor is disengaged; or “(3) other ways to mitigate risk. “(c) Coordination With Other Agencies.—The Secretary may collaborate with other Federal agencies in conducting the research under this section.”
 
 #### Pedestrian Safety Enhancement
 Pub. L. 111–373, Jan. 4, 2011, 124 Stat. 4086, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Pedestrian Safety Enhancement Act of 2010’. “SEC. 2. DEFINITIONS.“As used in this Act—“(1) the term ‘Secretary’ means the Secretary of Transportation; “(2) the term ‘alert sound’ (herein referred to as the ‘sound’) means a vehicle-emitted sound to enable pedestrians to discern vehicle presence, direction, location, and operation; “(3) the term ‘cross-over speed’ means the speed at which tire noise, wind resistance, or other factors eliminate the need for a separate alert sound as determined by the Secretary; “(4) the term ‘motor vehicle’ has the meaning given such term in [section 30102(a)(6) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a/6&num=0&edition=prelim), United States Code, except that such term shall not include a trailer (as such term is defined in section 571.3 of title 49, Code of Federal Regulations); “(5) the term ‘conventional motor vehicle’ means a motor vehicle powered by a gasoline, diesel, or alternative fueled internal combustion engine as its sole means of propulsion; “(6) the term ‘manufacturer’ has the meaning given such term in [section 30102(a)(5) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a/5&num=0&edition=prelim), United States Code; “(7) the term ‘dealer’ has the meaning given such term in [section 30102(a)(1) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a/1&num=0&edition=prelim), United States Code; “(8) the term ‘defect’ has the meaning given such term in [section 30102(a)(2) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a/2&num=0&edition=prelim), United States Code; “(9) the term ‘hybrid vehicle’ means a motor vehicle which has more than one means of propulsion; and “(10) the term ‘electric vehicle’ means a motor vehicle with an electric motor as its sole means of propulsion. “SEC. 3. MINIMUM SOUND REQUIREMENT FOR MOTOR VEHICLES.“(a) Rulemaking Required.—Not later than 18 months after the date of enactment of this Act [Jan. 4, 2011] the Secretary shall initiate rulemaking, under [section 30111 of title 49](./chapter-301-motor-vehicle-safety.md#section-30111), United States Code, to promulgate a motor vehicle safety standard—“(1) establishing performance requirements for an alert sound that allows blind and other pedestrians to reasonably detect a nearby electric or hybrid vehicle operating below the cross-over speed, if any; and “(2) requiring new electric or hybrid vehicles to provide an alert sound conforming to the requirements of the motor vehicle safety standard established under this subsection.“The motor vehicle safety standard established under this subsection shall not require either driver or pedestrian activation of the alert sound and shall allow the pedestrian to reasonably detect a nearby electric or hybrid vehicle in critical operating scenarios including, but not limited to, constant speed, accelerating, or decelerating. The Secretary shall allow manufacturers to provide each vehicle with one or more sounds that comply with the motor vehicle safety standard at the time of manufacture. Further, the Secretary shall require manufacturers to provide, within reasonable manufacturing tolerances, the same sound or set of sounds for all vehicles of the same make and model and shall prohibit manufacturers from providing any mechanism for anyone other than the manufacturer or the dealer to disable, alter, replace, or modify the sound or set of sounds, except that the manufacturer or dealer may alter, replace, or modify the sound or set of sounds in order to remedy a defect or non-compliance with the motor vehicle safety standard. The Secretary shall promulgate the required motor vehicle safety standard pursuant to this subsection not later than 36 months after the date of enactment of this Act. “(b) Consideration.—When conducting the required rulemaking, the Secretary shall—“(1) determine the minimum level of sound emitted from a motor vehicle that is necessary to provide blind and other pedestrians with the information needed to reasonably detect a nearby electric or hybrid vehicle operating at or below the cross-over speed, if any; “(2) determine the performance requirements for an alert sound that is recognizable to a pedestrian as a motor vehicle in operation; and “(3) consider the overall community noise impact. “(c) Phase-in Required.—The motor vehicle safety standard prescribed pursuant to subsection (a) of this section shall establish a phase-in period for compliance, as determined by the Secretary, and shall require full compliance with the required motor vehicle safety standard for motor vehicles manufactured on or after September 1st of the calendar year that begins 3 years after the date on which the final rule is issued. “(d) Required Consultation.—When conducting the required study and rulemaking, the Secretary shall—“(1) consult with the Environmental Protection Agency to assure that the motor vehicle safety standard is consistent with existing noise requirements overseen by the Agency; “(2) consult consumer groups representing individuals who are blind; “(3) consult with automobile manufacturers and professional organizations representing them; “(4) consult technical standardization organizations responsible for measurement methods such as the Society of Automotive Engineers, the International Organization for Standardization, and the United Nations Economic Commission for Europe, World Forum for Harmonization of Vehicle Regulations. “(e) Required Study and Report to Congress.—Not later than 48 months after the date of enactment of this Act, the Secretary shall complete a study and report to Congress as to whether there exists a safety need to apply the motor vehicle safety standard required by subsection (a) to conventional motor vehicles. In the event that the Secretary determines there exists a safety need, the Secretary shall initiate rulemaking under [section 30111 of title 49](./chapter-301-motor-vehicle-safety.md#section-30111), United States Code, to extend the standard to conventional motor vehicles. “SEC. 4. FUNDING.“Notwithstanding any other provision of law, $2,000,000 of any amounts made available to the Secretary of Transportation under under [sic] [section 406 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section406&num=0&edition=prelim), United States Code, shall be made available to the Administrator of the National Highway Transportation Safety Administration for carrying out section 3 of this Act.”
@@ -394,9 +446,17 @@ Pub. L. 106–414, § 15, Nov. 1, 2000, 114 Stat. 1808, provided that: “(a) Re
 
 (7) a motor vehicle under [section 30144 of this title](./chapter-301-motor-vehicle-safety.md#section-30144) imported on a temporary basis;
 
-(8) a motor vehicle or item of motor vehicle equipment under [section 30145 of this title](./chapter-301-motor-vehicle-safety.md#section-30145) requiring further manufacturing; or
+(8) a motor vehicle or item of motor vehicle equipment under [section 30145 of this title](./chapter-301-motor-vehicle-safety.md#section-30145) requiring further manufacturing;
 
-(9) a motor vehicle that is at least 25 years old.
+(9) a motor vehicle that is at least 25 years old; or
+
+(10) the introduction of a motor vehicle in interstate commerce solely for purposes of testing or evaluation by a manufacturer that agrees not to sell or offer for sale the motor vehicle at the conclusion of the testing or evaluation and that prior to the date of enactment of this paragraph—
+
+  (A) has manufactured and distributed motor vehicles into the United States that are certified to comply with all applicable Federal motor vehicle safety standards;
+
+  (B) has submitted to the Secretary appropriate manufacturer identification information under part 566 of title 49, Code of Federal Regulations; and
+
+  (C) if applicable, has identified an agent for service of process in accordance with part 551 of such title.
 
 ### Statutory Notes
 
@@ -417,7 +477,11 @@ In subsection (b), before clause (1), the text of 15:1397(a)(2)(D) is omitted as
 #### References in Text
 The date of enactment of this paragraph, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
+The date of enactment of this paragraph, referred to in subsec. (b)(10), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
 #### Amendments
+2015—Subsec. (b)(10). Pub. L. 114–94 added par. (10).
+
 2012—Subsec. (a)(3). Pub. L. 112–141, § 31207(1), added par. (3).
 
 Subsec. (b)(2)(C). Pub. L. 112–141, § 31207(2), added subpar. (C).
@@ -524,8 +588,49 @@ Subsec. (h). Pub. L. 105–277, § 101(g) [title III, § 351(a)(4)], inserted �
 
 <a id="section-30114"></a>
 ## § 30114. Special exemptions
+**(a) 11 So in original. Probably should be “(a)”. Vehicles Used for Particular Purposes.22 So in original. Probably should be followed by a dash. The Secretary of Transportation may exempt a motor vehicle or item of motor vehicle equipment from [section 30112(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30112/a&num=0&edition=prelim) on terms the Secretary decides are necessary for research, investigations, demonstrations, training, competitive racing events, show, or display.**
 
-The Secretary of Transportation may exempt a motor vehicle or item of motor vehicle equipment from [section 30112(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30112/a&num=0&edition=prelim) on terms the Secretary decides are necessary for research, investigations, demonstrations, training, competitive racing events, show, or display.
+**(b) Exemption for Low-volume Manufacturers.—**
+
+(1) **In general.—** — The Secretary shall—
+
+  (A) exempt from [section 30112(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30112/a&num=0&edition=prelim) not more than 325 replica motor vehicles per year that are manufactured or imported by a low-volume manufacturer; and
+
+  (B) except as provided in paragraph (4) of this subsection, limit any such exemption to the Federal Motor Vehicle Safety Standards applicable to motor vehicles and not motor vehicle equipment.
+
+(2) **Registration requirement.—** — To qualify for an exemption under paragraph (1), a low-volume manufacturer shall register with the Secretary at such time, in such manner, and under such terms that the Secretary determines appropriate. The Secretary shall establish terms that ensure that no person may register as a low-volume manufacturer if the person is registered as an importer under [section 30141 of this title](./chapter-301-motor-vehicle-safety.md#section-30141).
+
+(3) **Permanent label requirement.—**
+
+  (A) *In general.—* — The Secretary shall require a low-volume manufacturer to affix a permanent label to a motor vehicle exempted under paragraph (1) that identifies the specified standards and regulations for which such vehicle is exempt from section 30112(a), states that the vehicle is a replica, and designates the model year such vehicle replicates.
+
+  (B) *Written notice.—* — The Secretary may require a low-volume manufacturer of a motor vehicle exempted under paragraph (1) to deliver written notice of the exemption to—
+
+    (i) the dealer; and
+
+    (ii) the first purchaser of the motor vehicle, if the first purchaser is not an individual that purchases the motor vehicle for resale.
+
+  (C) *Reporting requirement.—* — A low-volume manufacturer shall annually submit a report to the Secretary including the number and description of the motor vehicles exempted under paragraph (1) and a list of the exemptions described on the label affixed under subparagraph (A).
+
+(4) **Effect on other provisions.—** — Any motor vehicle exempted under this subsection shall also be exempted from sections 32304, 32502, and 32902 of this title and from section 3 of the Automobile Information Disclosure Act ([15 U.S.C. 1232](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1232&num=0&edition=prelim)).
+
+(5) **Limitation and public notice.—** — The Secretary shall have 90 days to review and approve or deny a registration submitted under paragraph (2). If the Secretary determines that any such registration submitted is incomplete, the Secretary shall have an additional 30 days for review. Any registration not approved or denied within 90 days after initial submission, or 120 days if the registration submitted is incomplete, shall be deemed approved. The Secretary shall have the authority to revoke an existing registration based on a failure to comply with requirements set forth in this subsection or a finding by the Secretary of a safety-related defect or unlawful conduct under this chapter that poses a significant safety risk. The registrant shall be provided a reasonable opportunity to correct all deficiencies, if such are correctable based on the sole discretion of the Secretary. An exemption granted by the Secretary to a low-volume manufacturer under this subsection may not be transferred to any other person, and shall expire at the end of the calendar year for which it was granted with respect to any volume authorized by the exemption that was not applied by the low-volume manufacturer to vehicles built during that calendar year. The Secretary shall maintain an up-to-date list of registrants and a list of the make and model of motor vehicles exempted under paragraph (1) on at least an annual basis and publish such list in the Federal Register or on a website operated by the Secretary.
+
+(6) **Limitation of liability for original manufacturers, licensors or owners of product configuration, trade dress, or design patents.—** — The original manufacturer, its successor or assignee, or current owner, who grants a license or otherwise transfers rights to a low-volume manufacturer shall incur no liability to any person or entity under Federal or State statute, regulation, local ordinance, or under any Federal or State common law for such license or assignment to a low-volume manufacturer.
+
+(7) **Definitions.—** — In this subsection:
+
+  (A) *Low-volume manufacturer.—* — The term “low-volume manufacturer” means a motor vehicle manufacturer, other than a person who is registered as an importer under [section 30141 of this title](./chapter-301-motor-vehicle-safety.md#section-30141), whose annual worldwide production, including by a parent or subsidiary of the manufacturer, if applicable, is not more than 5,000 motor vehicles.
+
+  (B) *Replica motor vehicle.—* — The term “replica motor vehicle” means a motor vehicle produced by a low-volume manufacturer and that—
+
+    (i) is intended to resemble the body of another motor vehicle that was manufactured not less than 25 years before the manufacture of the replica motor vehicle; and
+
+    (ii) is manufactured under a license for the product configuration, trade dress, trademark, or patent, for the motor vehicle that is intended to be replicated from the original manufacturer, its successors or assignees, or current owner of such product configuration, trade dress, trademark, or patent rights.
+
+(8) **Construction.—** — Except as provided in paragraphs (1) and (4), a registrant shall be considered a motor vehicle manufacturer for purposes of parts A and C of subtitle VI of this title. Nothing shall be construed to exempt a registrant from complying with the requirements under sections 30116 through 30120A of this title if the motor vehicle excepted under paragraph (1) contains a defect related to motor vehicle safety.
+
+(9) **State registration.—** — Nothing in this subsection shall be construed to preempt, affect, or supersede any State titling or registration law or regulation for a replica motor vehicle, or exempt a person from complying with such law or regulation.
 
 ### Statutory Notes
 
@@ -537,6 +642,8 @@ The Secretary of Transportation may exempt a motor vehicle or item of motor vehi
 The word “conditions” is omitted as being included in “terms”, and the word “studies” is omitted as being included in “research”. The word “solely” is omitted as unnecessary.
 
 #### Amendments
+2015—Pub. L. 114–94 designated existing provisions as subsec. “(a)”, inserted heading, and added subsec. (b).
+
 1998—Pub. L. 105–178 substituted “competitive racing events, show, or display” for “or competitive racing events”.
 
 #### Transition Rule
@@ -619,27 +726,19 @@ In subsection (c), the words “the amount of reimbursement” are substituted f
 
   (B) The Secretary shall require each distributor and dealer whose business is not owned or controlled by a manufacturer of tires to give a registration form (containing the tire identification number) to the first purchaser of a tire. The Secretary shall prescribe the form, which shall be standardized for all tires and designed to allow the purchaser to complete and return it directly to the manufacturer of the tire. The manufacturer shall give sufficient copies of forms to distributors and dealers.
 
-(3)
+(3) **Rulemaking.—**
 
-  (A) The Secretary shall evaluate from time to time how successful the procedures under paragraph (2) of this subsection have been in helping to maintain records about first purchasers of tires. After each evaluation, the Secretary shall decide—
+  (A) *In general.—* — The Secretary shall initiate a rulemaking to require a distributor or dealer of tires that is not owned or controlled by a manufacturer of tires to maintain records of—
 
-    (i) the extent to which distributors and dealers have complied with the procedures;
+    (i) the name and address of tire purchasers and lessors;
 
-    (ii) the extent to which distributors and dealers have encouraged first purchasers of tires to register the tires; and
+    (ii) information identifying the tire that was purchased or leased; and
 
-    (iii) whether to prescribe for manufacturers, distributors, or dealers other requirements that the Secretary decides will increase significantly the percentage of first purchasers of tires about whom records are maintained.
+    (iii) any additional records the Secretary considers appropriate.
 
-  (B) The Secretary may prescribe a requirement under subparagraph (A) of this paragraph only if the Secretary decides it is necessary to reduce the risk to motor vehicle safety, after considering—
+  (B) *Electronic transmission.—* — The rulemaking carried out under subparagraph (A) shall require a distributor or dealer of tires that is not owned or controlled by a manufacturer of tires to electronically transmit the records described in clauses (i), (ii), and (iii) of subparagraph (A) to the manufacturer of the tires or the designee of the manufacturer by secure means at no cost to tire purchasers or lessors.
 
-    (i) the cost of the requirement to manufacturers and the burden of the requirement on distributors and dealers, compared to the increase in the percentage of first purchasers of tires about whom records would be maintained as a result of the requirement;
-
-    (ii) the extent to which distributors and dealers have complied with the procedures in paragraph (2) of this subsection; and
-
-    (iii) the extent to which distributors and dealers have encouraged first purchasers of tires to register the tires.
-
-  (C) A manufacturer of tires shall reimburse distributors and dealers of that manufacturer’s tires for all reasonable costs incurred by the distributors and dealers in complying with a requirement prescribed by the Secretary under subparagraph (A) of this paragraph.
-
-  (D) After making a decision under subparagraph (A) of this paragraph, the Secretary shall submit to each House of Congress a report containing a detailed statement of the decision and an explanation of the reasons for the decision.
+  (C) *Satisfaction of requirements.—* — A regulation promulgated under subparagraph (A) may be considered to satisfy the requirements of paragraph (2)(B).
 
 **(c) Rollover Tests.—**
 
@@ -678,7 +777,12 @@ In subsection (b)(3)(B), before clause (i), the words “may prescribe a require
 The date of the enactment of this subsection, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 106–414, which was approved Nov. 1, 2000.
 
 #### Amendments
+2015—Subsec. (b)(3). Pub. L. 114–94 amended par. (3) generally. Prior to amendment, par. (3) related to requirement for Secretary to evaluate record maintenance procedures under par. (2) and submit reports to Congress.
+
 2000—Subsec. (c). Pub. L. 106–414 added subsec. (c).
+
+#### Retention of Safety Records by Manufacturers
+Pub. L. 114–94, div. B, title XXIV, § 24403, Dec. 4, 2015, 129 Stat. 1720, provided that: “(a) Rule.—Not later than 18 months after the date of enactment of this Act [Dec. 4, 2015], the Secretary of Transportation shall issue a final rule pursuant to [section 30117 of title 49](./chapter-301-motor-vehicle-safety.md#section-30117), United States Code, requiring each manufacturer of motor vehicles or motor vehicle equipment to retain all motor vehicle safety records required to be maintained by manufacturers under section 576.6 of title 49, Code of Federal Regulations, for a period of not less than 10 calendar years from the date on which they were generated or acquired by the manufacturer. “(b) Application.—The rule required by subsection (a) shall apply with respect to any record described in such subsection that is in the possession of a manufacturer on the effective date of such rule.”
 
 #### 15-Passenger Van Safety
 Pub. L. 109–59, title X, § 10309(a), Aug. 10, 2005, 119 Stat. 1942, provided that: “(1) In general.—The Secretary of Transportation shall require the testing of 15-passenger vans as part of the rollover resistance program of the National Highway Traffic Safety Administration’s new car assessment program. “(2) 15-passenger van defined.—In this subsection, the term ‘15-passenger van’ means a vehicle that seats 10 to 14 passengers, not including the driver.”
@@ -698,7 +802,7 @@ Pub. L. 109–59, title X, § 10309(a), Aug. 10, 2005, 119 Stat. 1942, provided 
 
   (B) remedy the defect or noncompliance under [section 30120 of this title](./chapter-301-motor-vehicle-safety.md#section-30120).
 
-**(c) Notification by Manufacturer.—** A manufacturer of a motor vehicle or replacement equipment shall notify the Secretary by certified mail, and the owners, purchasers, and dealers of the vehicle or equipment as provided in section 30119(d) of this section, if the manufacturer—
+**(c) Notification by Manufacturer.—** A manufacturer of a motor vehicle or replacement equipment shall notify the Secretary by certified mail or electronic mail, and the owners, purchasers, and dealers of the vehicle or equipment as provided in section 30119(d) of this section, if the manufacturer—
 
 (1) learns the vehicle or equipment contains a defect and decides in good faith that the defect is related to motor vehicle safety; or
 
@@ -740,6 +844,8 @@ In subsection (d), the words “any requirement under”, “to give notice with
 In subsection (e), the words “(including a manufacturer)” are omitted as surplus. The word “information” is substituted for “data” for consistency in the revised title.
 
 #### Amendments
+2015—Subsec. (c). Pub. L. 114–94 inserted “or electronic mail” after “certified mail” in introductory provisions.
+
 2000—Pub. L. 106–346, § 101(a) [title III, § 364], which directed amendment of this section in subsecs. (a), (b)(1), and (c), by inserting “, original equipment,” before “or replacement equipment” wherever appearing, and in subsec. (c), by redesignating pars. (1) and (2) as subpars. (A) and (B), respectively, and realigning margins, by substituting “(1) In general.—A manufacturer” for “A manufacturer”, and by adding a new par (2) relating to duty of manufacturers, was repealed by Pub. L. 106–414, § 2. See Construction of 2000 Amendment note below.
 
 #### Construction of 2000 Amendment
@@ -810,6 +916,14 @@ Pub. L. 106–414, § 2, Nov. 1, 2000, 114 Stat. 1800, provided that: “The ame
 
 (2) A lessor that receives a notification required by [section 30118 of this title](./chapter-301-motor-vehicle-safety.md#section-30118) about a leased motor vehicle shall provide a copy of the notification to the lessee in the way the Secretary prescribes by regulation.
 
+**(g) Information Regarding Components Involved in Recall.—** A manufacturer that is required to furnish a report under section 573.6 of title 49, Code of Federal Regulations (or any successor regulation) for a defect or noncompliance in a motor vehicle or in an item of original or replacement equipment shall, if such defect or noncompliance involves a specific component or components, include in such report, with respect to such component or components, the following information:
+
+(1) The name of the component or components.
+
+(2) A description of the component or components.
+
+(3) The part number of the component or components, if any.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -849,6 +963,8 @@ In subsection (d)(4), the words “or dealers” are omitted because of 1:1. The
 In subsection (e), the word “replacement” is added for clarity and consistency with the source provisions being restated in subsection (d) of this section.
 
 #### Amendments
+2015—Subsec. (g). Pub. L. 114–94 added subsec. (g).
+
 2012—Subsec. (d)(1). Pub. L. 112–141, § 31310(a)(1), substituted “in the manner prescribed by the Secretary, by regulation” for “by first class mail” in introductory provisions.
 
 Subsec. (d)(2). Pub. L. 112–141, § 31310(a)(2), substituted “shall be sent in the manner prescribed by the Secretary, by regulation,” for “(except a tire) shall be sent by first class mail” and struck out second sentence which read as follows: “In addition, if the Secretary decides that public notice is required for motor vehicle safety, public notice shall be given in the way required by the Secretary after consulting with the manufacturer.”
@@ -861,6 +977,18 @@ Subsec. (e). Pub. L. 112–141, § 31310(b), substituted “Additional” for �
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Improvements in Availability of Recall Information
+Pub. L. 114–94, div. B, title XXIV, § 24103(a), Dec. 4, 2015, 129 Stat. 1702, provided that: “Not later than 2 years after the date of enactment of this Act [Dec. 4, 2015], the Secretary shall implement current information technology, web design trends, and best practices that will help ensure that motor vehicle safety recall information available to the public on the Federal website is readily accessible and easy to use, including— “(1) by improving the organization, availability, readability, and functionality of the website; “(2) by accommodating high-traffic volume; and “(3) by establishing best practices for scheduling routine website maintenance.”
+
+#### Notification Improvement
+Pub. L. 114–94, div. B, title XXIV, § 24104(a), Dec. 4, 2015, 129 Stat. 1703, provided that: “(1) In general.—Not later than 270 days after the date of enactment of this Act [Dec. 4, 2015], the Secretary shall prescribe a final rule revising the regulations under section 577.7 of title 49, Code of Federal Regulations, to include notification by electronic means in addition to notification by first class mail. “(2) Definition of electronic means.—In this subsection, the term ‘electronic means’ includes electronic mail and may include such other means of electronic notification, such as social media or targeted online campaigns, as determined by the Secretary.”
+
+#### Pilot Grant Program for State Notification to Consumers of Motor Vehicle Recall Status
+Pub. L. 114–94, div. B, title XXIV, § 24105, Dec. 4, 2015, 129 Stat. 1704, provided that: “(a) In General.—Not later than October 1, 2016, the Secretary shall implement a 2-year pilot program to evaluate the feasibility and effectiveness of a State process for informing consumers of open motor vehicle recalls at the time of motor vehicle registration in the State. “(b) Grants.—To carry out this program, the Secretary may make a grant to each eligible State, but not more than 6 eligible States in total, that agrees to comply with the requirements under subsection (c). Funds made available to a State under this section shall be used by the State for the pilot program described in subsection (a). “(c) Eligibility.—To be eligible for a grant, a State shall—“(1) submit an application in such form and manner as the Secretary prescribes; “(2) agree to notify, at the time of registration, each owner or lessee of a motor vehicle presented for registration in the State of any open recall on that vehicle; “(3) provide the open motor vehicle recall information at no cost to each owner or lessee of a motor vehicle presented for registration in the State; and “(4) provide such other information as the Secretary may require. “(d) Awards.—In selecting an applicant for an award under this section, the Secretary shall consider the State’s methodology for determining open recalls on a motor vehicle, for informing consumers of the open recalls, and for determining performance. “(e) Performance Period.—Each grant awarded under this section shall require a 2-year performance period. “(f) Report.—Not later than 90 days after the completion of the performance period under subsection (e), a grantee shall provide to the Secretary a report of performance containing such information as the Secretary considers necessary to evaluate the extent to which open recalls have been remedied. “(g) Evaluation.—Not later than 180 days after the completion of the pilot program, the Secretary shall evaluate the extent to which open recalls identified have been remedied. “(h) Definitions.—In this section:“(1) Consumer.—The term ‘consumer’ includes owner and lessee. “(2) Motor vehicle.—The term ‘motor vehicle’ has the meaning given the term under [section 30102(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30102/a&num=0&edition=prelim), United States Code. “(3) Open recall.—The term ‘open recall’ means a recall for which a notification by a manufacturer has been provided under [section 30119 of title 49](./chapter-301-motor-vehicle-safety.md#section-30119), United States Code, and that has not been remedied under section 30120 of that title. “(4) Registration.—The term ‘registration’ means the process for registering motor vehicles in the State. “(5) State.—The term ‘State’ has the meaning given the term under [section 101(a) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101/a&num=0&edition=prelim), United States Code.”
+
+#### Tire Recall Database
+Pub. L. 114–94, div. B, title XXIV, § 24335, Dec. 4, 2015, 129 Stat. 1716, provided that: “(a) In General.—The Secretary shall establish a publicly available and searchable electronic database of tire recall information that is reported to the Administrator of the National Highway Traffic Safety Administration. “(b) Tire Identification Number.—The database established under subsection (a) shall be searchable by Tire Identification Number (TIN) and any other criteria that assists consumers in determining whether a tire is subject to a recall.”
 
 
 <a id="section-30120"></a>
@@ -883,13 +1011,13 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 **(b) Tire Remedies.—**
 
-(1) A manufacturer of a tire, including an original equipment tire, shall remedy a defective or noncomplying tire if the owner or purchaser presents the tire for remedy not later than 60 days after the later of—
+(1) A manufacturer of a tire, including an original equipment tire, shall remedy a defective or noncomplying tire if the owner or purchaser presents the tire for remedy not later than 180 days after the later of—
 
   (A) the day the owner or purchaser receives notification under [section 30119 of this title](./chapter-301-motor-vehicle-safety.md#section-30119); or
 
   (B) if the manufacturer decides to replace the tire, the day the owner or purchaser receives notification that a replacement is available.
 
-(2) If the manufacturer decides to replace the tire and the replacement is not available during the 60-day period, the owner or purchaser must present the tire for remedy during a subsequent 60-day period that begins only after the owner or purchaser receives notification that a replacement will be available during the subsequent period. If tires are available during the subsequent period, only a tire presented for remedy during that period must be remedied.
+(2) If the manufacturer decides to replace the tire and the replacement is not available during the 180-day period, the owner or purchaser must present the tire for remedy during a subsequent 180-day period that begins only after the owner or purchaser receives notification that a replacement will be available during the subsequent period. If tires are available during the subsequent period, only a tire presented for remedy during that period must be remedied.
 
 **(c) Adequacy of Repairs.—**
 
@@ -912,25 +1040,49 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 **(e) Hearings About Meeting Remedy Requirements.—** On the motion of the Secretary or on application by any interested person, the Secretary may conduct a hearing to decide whether the manufacturer has reasonably met the remedy requirements under this section. Any interested person may make written and oral presentations of information, views, and arguments on whether the manufacturer has reasonably met the remedy requirements. If the Secretary decides a manufacturer has not reasonably met the remedy requirements, the Secretary shall order the manufacturer to take specified action to meet those requirements and may take any other action authorized under this chapter.
 
-**(f) Fair Reimbursement to Dealers.—** A manufacturer shall pay fair reimbursement to a dealer providing a remedy without charge under this section.
+**(f) Fair Reimbursement to Dealers.—**
+
+(1) **In general.—** — A manufacturer 11 See 2015 Amendment note below. shall pay fair reimbursement to a dealer providing a remedy without charge under this section if—
+
+  (A) at the time of providing service for each of the manufacturer’s motor vehicles it services, the dealer notifies the owner or the individual requesting the service of any open recall; and
+
+  (B) the notification requirement under subparagraph (A) is specified in a franchise, operating, or other agreement between the dealer and the manufacturer.
+
+(2) **Definition of open recall.—** — In this subsection, the term “open recall” means a recall for which a notification by a manufacturer has been provided under section 30119 and that has not been remedied under this section.
 
 **(g) Nonapplication.—**
 
-(1) The requirement that a remedy be provided without charge does not apply if the motor vehicle or replacement equipment was bought by the first purchaser more than 10 calendar years, or the tire, including an original equipment tire, was bought by the first purchaser more than 5 calendar years, before notice is given under [section 30118(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30118/c&num=0&edition=prelim) or an order is issued under [section 30118(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30118/b&num=0&edition=prelim), whichever is earlier.
+(1) The requirement that a remedy be provided without charge does not apply if the motor vehicle or replacement equipment was bought by the first purchaser more than 15 calendar years, or the tire, including an original equipment tire, was bought by the first purchaser more than 5 calendar years, before notice is given under [section 30118(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30118/c&num=0&edition=prelim) or an order is issued under [section 30118(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30118/b&num=0&edition=prelim), whichever is earlier.
 
 (2) This section does not apply during any period in which enforcement of an order under [section 30118(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30118/b&num=0&edition=prelim) is restrained or the order is set aside in a civil action to which [section 30121(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30121/d&num=0&edition=prelim) applies.
 
 **(h) Exemptions.—** On application of a manufacturer, the Secretary shall exempt the manufacturer from this section if the Secretary decides a defect or noncompliance is inconsequential to motor vehicle safety. The Secretary may take action under this subsection only after notice in the Federal Register and an opportunity for any interested person to present information, views, and arguments.
 
-**(i) Limitation on Sale or Lease of New Vehicles or Equipment.—**
+**(i) Limitation on Sale or Lease of New Vehicles or Equipment, or Rental.—**
 
-(1) If notification is required by an order under [section 30118(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30118/b&num=0&edition=prelim) or is required under [section 30118(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30118/c&num=0&edition=prelim) and the manufacturer has provided to a dealer (including retailers of motor vehicle equipment) notification about a new motor vehicle or new item of replacement equipment in the dealer’s possession at the time of notification that contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter, the dealer may sell or lease the motor vehicle or item of replacement equipment only if—
+(1) **In general.—** — If notification is required by an order under [section 30118(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30118/b&num=0&edition=prelim) or is required under [section 30118(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30118/c&num=0&edition=prelim) and the manufacturer has provided to a dealer (including retailers of motor vehicle equipment) notification about a new motor vehicle or new item of replacement equipment in the dealer’s possession at the time of notification or the manufacturer has provided to a rental company notification about a covered rental vehicle in the company’s possession at the time of notification that contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter, the dealer or rental company may sell, lease, or rent the motor vehicle or item of replacement equipment only if—
 
-  (A) the defect or noncompliance is remedied as required by this section before delivery under the sale or lease; or
+  (A) the defect or noncompliance is remedied as required by this section before delivery under the sale, lease, or rental agreement; or
 
   (B) when the notification is required by an order under [section 30118(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30118/b&num=0&edition=prelim), enforcement of the order is restrained or the order is set aside in a civil action to which [section 30121(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30121/d&num=0&edition=prelim) applies.
 
-(2) This subsection does not prohibit a dealer from offering for sale or lease the vehicle or equipment.
+(2) **Rule of construction.—** — Nothing in this subsection may be construed to prohibit a dealer or rental company from offering the vehicle or equipment for sale, lease, or rent.
+
+(3) **Specific rules for rental companies.—**
+
+  (A) *In general.—* — Except as otherwise provided under this paragraph, a rental company shall comply with the limitations on sale, lease, or rental set forth in subparagraph (C) and paragraph (1) as soon as practicable, but not later than 24 hours after the earliest receipt of the notice to owner under subsection (b) or (c) of section 30118 (including the vehicle identification number for the covered vehicle) by the rental company, whether by electronic means or first class mail.
+
+  (B) *Special rule for large vehicle fleets.—* — Notwithstanding subparagraph (A), if a rental company receives a notice to owner covering more than 5,000 motor vehicles in its fleet, the rental company shall comply with the limitations on sale, lease, or rental set forth in subparagraph (C) and paragraph (1) as soon as practicable, but not later than 48 hours after the earliest receipt of the notice to owner under subsection (b) or (c) of section 30118 (including the vehicle identification number for the covered vehicle) by the rental company, whether by electronic means or first class mail.
+
+  (C) *Special rule for when remedies not immediately available.—* — If a notification required under subsection (b) or (c) of section 30118 indicates that the remedy for the defect or noncompliance is not immediately available and specifies actions to temporarily alter the vehicle that eliminate the safety risk posed by the defect or noncompliance, the rental company, after causing the specified actions to be performed, may rent (but may not sell or lease) the motor vehicle. Once the remedy for the rental vehicle becomes available to the rental company, the rental company may not rent the vehicle until the vehicle has been remedied, as provided in subsection (a).
+
+  (D) *Inapplicability to junk automobiles.—* — Notwithstanding paragraph (1), this subsection does not prohibit a rental company from selling a covered rental vehicle if such vehicle—
+
+    (i) meets the definition of a junk automobile under section 201 of the Anti-Car Theft Act of 1992 ([49 U.S.C. 30501](./chapter-305-national-motor-vehicle-title-information-system.md#section-30501));
+
+    (ii) is retitled as a junk automobile pursuant to applicable State law; and
+
+    (iii) is reported to the National Motor Vehicle Information System, if required under section 204 of such Act ([49 U.S.C. 30504](./chapter-305-national-motor-vehicle-title-information-system.md#section-30504)).
 
 **(j) Prohibition on Sales of Replacement Equipment.—** No person may sell or lease any motor vehicle equipment (including a tire), for installation on a motor vehicle, that is the subject of a decision under section 30118(b) or a notice required under section 30118(c) in a condition that it may be reasonably used for its original purpose unless—
 
@@ -985,7 +1137,34 @@ In subsection (g)(2), the words “In the case of notification required by an or
 
 In subsection (h), the words “any requirement under”, “or to remedy”, and “as it relates” are omitted as surplus. The words “The Secretary may take action under this subsection only” are added because of the restatement.
 
+#### References in Text
+Sections 201 and 204 of the Anti-Car Theft Act of 1992, referred to in subsec. (i)(3)(D)(i), (iii), are sections 201 and 204 of Pub. L. 102–519, from which sections 30501 and 30504 of this title, respectively, are derived.
+
 #### Amendments
+2015—Subsec. (b)(1). Pub. L. 114–94, § 24108(1), substituted “180 days” for “60 days” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 114–94, § 24108(2), substituted “180-day” for “60-day” in two places.
+
+Subsec. (f). Pub. L. 114–94, § 24107(1), which directed amendment of subsec. (f) by inserting “(1) in general. A manufacturer”, without specifying the location of such insertion, and indenting appropriately, was executed by striking “A manufacturer” and inserting “(1) In general.—A manufacturer” after the subsec. heading, to reflect the probable intent of Congress.
+
+Subsec. (f)(1). Pub. L. 114–94, § 24107(2), substituted “section if—” for “section.” and added subpars. (A) and (B).
+
+Subsec. (f)(2). Pub. L. 114–94, § 24107(3), added par. (2).
+
+Subsec. (g)(1). Pub. L. 114–94, § 24402, substituted “15 calendar years” for “10 calendar years”.
+
+Subsec. (i). Pub. L. 114–94, § 24109(c)(1), inserted “, or Rental” after “Equipment” in heading.
+
+Subsec. (i)(1). Pub. L. 114–94, § 24109(c)(2)(D), which directed substitution of “the dealer or rental company may sell, lease, or rent” for “the dealer may sell or lease,”, was executed by making the substitution for “the dealer may sell or lease” to reflect the probable intent of Congress.
+
+Pub. L. 114–94, § 24109(c)(2)(A)–(C), inserted heading, inserted “or the manufacturer has provided to a rental company notification about a covered rental vehicle in the company’s possession at the time of notification” after “time of notification” in introductory provisions, and realigned margins of subpars. (A) and (B).
+
+Subsec. (i)(1)(A). Pub. L. 114–94, § 24109(c)(2)(E), substituted “sale, lease, or rental agreement” for “sale or lease”.
+
+Subsec. (i)(2). Pub. L. 114–94, § 24109(c)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “This subsection does not prohibit a dealer from offering for sale or lease the vehicle or equipment.”
+
+Subsec. (i)(3). Pub. L. 114–94, § 24109(c)(4), added par. (3).
+
 2012—Subsec. (a)(1)(B). Pub. L. 112–141, § 31311(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if replacement equipment, by repairing the equipment or replacing the equipment with identical or reasonably equivalent equipment.”
 
 Subsec. (i). Pub. L. 112–141, § 31311(2), inserted “of New Vehicles or Equipment” after “Lease” in heading.
@@ -1004,6 +1183,9 @@ Subsec. (j). Pub. L. 106–414, § 8, added subsec. (j).
 
 1998—Subsec. (i)(1). Pub. L. 105–178 inserted “(including retailers of motor vehicle equipment)” after “provided to a dealer” in introductory provisions.
 
+#### Effective Date of 2015 Amendment
+Amendment by section 24109(c) of Pub. L. 114–94 effective on the date that is 180 days after Dec. 4, 2015, see section 24109(k) of Pub. L. 114–94, set out as a note under [section 30102 of this title](./chapter-301-motor-vehicle-safety.md#section-30102).
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
@@ -1011,9 +1193,12 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 <a id="section-30120a"></a>
 ## § 30120A. Recall obligations and bankruptcy of a manufacturer
 
-A manufacturer’s filing of a petition in bankruptcy under chapter 11 of title 11, does not negate the manufacturer’s duty to comply with section 30112 or sections 30115 through 30120 of this title. In any bankruptcy proceeding, the manufacturer’s obligations under such sections shall be treated as a claim of the United States Government against such manufacturer, subject to subchapter II of chapter 37 of title 31, United States Code, and given priority pursuant to section 3713(a)(1)(A) of such chapter, notwithstanding section 3713(a)(2), to ensure that consumers are adequately protected from any safety defect or noncompliance determined to exist in the manufacturer’s products. This section shall apply equally to actions of a manufacturer taken before or after the filing of a petition in bankruptcy.
+A manufacturer’s filing of a petition in bankruptcy under chapter 7 or chapter 11 of title 11 does not negate the manufacturer’s duty to comply with section 30112 or sections 30115 through 30120 of this title. In any bankruptcy proceeding, the manufacturer’s obligations under such sections shall be treated as a claim of the United States Government against such manufacturer, subject to subchapter II of chapter 37 of title 31, United States Code, and given priority pursuant to section 3713(a)(1)(A) of such chapter, notwithstanding section 3713(a)(2), to ensure that consumers are adequately protected from any safety defect or noncompliance determined to exist in the manufacturer’s products. This section shall apply equally to actions of a manufacturer taken before or after the filing of a petition in bankruptcy.
 
 ### Statutory Notes
+
+#### Amendments
+2015—Pub. L. 114–94 substituted “chapter 7 or chapter 11 of title 11” for “chapter 11 of title 11,”.
 
 #### Effective Date
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
@@ -1086,7 +1271,7 @@ In subsection (d), the words “Notwithstanding [section 30163(c) of this title]
 ## § 30122. Making safety devices and elements inoperative
 **(a) Definition.—** In this section, “motor vehicle repair business” means a person holding itself out to the public to repair for compensation a motor vehicle or motor vehicle equipment.
 
-**(b) Prohibition.—** A manufacturer, distributor, dealer, or motor vehicle repair business may not knowingly make inoperative any part of a device or element of design installed on or in a motor vehicle or motor vehicle equipment in compliance with an applicable motor vehicle safety standard prescribed under this chapter unless the manufacturer, distributor, dealer, or repair business reasonably believes the vehicle or equipment will not be used (except for testing or a similar purpose during maintenance or repair) when the device or element is inoperative.
+**(b) Prohibition.—** A manufacturer, distributor, dealer, rental company, or motor vehicle repair business may not knowingly make inoperative any part of a device or element of design installed on or in a motor vehicle or motor vehicle equipment in compliance with an applicable motor vehicle safety standard prescribed under this chapter unless the manufacturer, distributor, dealer, rental company, or repair business reasonably believes the vehicle or equipment will not be used (except for testing or a similar purpose during maintenance or repair) when the device or element is inoperative.
 
 **(c) Regulations.—** The Secretary of Transportation may prescribe regulations—
 
@@ -1115,7 +1300,12 @@ In subsection (c)(1), the words “[section 30101 of this title](./chapter-301-m
 In subsection (d), the words “with respect . . . the rendering inoperative of” are omitted as surplus.
 
 #### Amendments
+2015—Subsec. (b). Pub. L. 114–94 inserted “rental company,” after “dealer,” in two places.
+
 2012—Subsec. (d). Pub. L. 112–141 struck out subsec. (d). Text read as follows: “This section does not apply to a safety belt interlock or buzzer designed to indicate a safety belt is not in use as described in [section 30124 of this title](./chapter-301-motor-vehicle-safety.md#section-30124).”
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective on the date that is 180 days after Dec. 4, 2015, see section 24109(k) of Pub. L. 114–94, set out as a note under [section 30102 of this title](./chapter-301-motor-vehicle-safety.md#section-30102).
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
@@ -1169,6 +1359,9 @@ In subsection (f), the words “In standards established under subchapter I of t
 
 #### Amendments
 1998—Pub. L. 105–178 redesignated subsecs. (d) to (f) as (a) to (c), respectively, and struck out former subsecs. (a) to (c), which related to labeling requirements, contents of label, and additional information that may be required, respectively.
+
+#### Tire Pressure Monitoring System
+Pub. L. 114–94, div. B, title XXIV, § 24115, Dec. 4, 2015, 129 Stat. 1710, provided that: “(a) Proposed Rule.—Not later than 1 year after the date of enactment of this Act [Dec. 4, 2015], the Secretary shall publish a proposed rule that—“(1) updates the standards pertaining to tire pressure monitoring systems to ensure that a tire pressure monitoring system that is installed in a new motor vehicle after the effective date of such updated standards cannot be overridden, reset, or recalibrated in such a way that the system will no longer detect when the inflation pressure in one or more of the vehicle’s tires has fallen to or below a significantly underinflated pressure level; and “(2) does not contain any provision that has the effect of prohibiting the availability of direct or indirect tire pressure monitoring systems that meet the requirements of the standards updated pursuant to paragraph (1). “(b) Final Rule.—Not later than 2 years after the date of enactment of this Act, after providing the public with sufficient opportunity for notice and comment on the proposed rule published pursuant to subsection (a), the Secretary shall issue a final rule based on the proposed rule described in subsection (a) that—“(1) allows a manufacturer to install a tire pressure monitoring system that can be reset or recalibrated to accommodate—“(A) the repositioning of tire sensor locations on vehicles with split inflation pressure recommendations; “(B) tire rotation; or “(C) replacement tires or wheels of a different size than the original equipment tires or wheels; and “(2) to address the accommodations described in subparagraphs (A), (B), and (C) of paragraph (1), ensures that a tire pressure monitoring system that is reset or recalibrated according to the manufacturer’s instructions would illuminate the low tire pressure warning telltale when a tire is significantly underinflated until the tire is no longer significantly underinflated. “(c) Significantly Underinflated Pressure Level Defined.—In this section, the term ‘significantly underinflated pressure level’ means a pressure level that is—“(1) below the level at which the low tire pressure warning telltale must illuminate, consistent with the TPMS detection requirements contained in S4.2(a) of section 571.138 of title 49, Code of Federal Regulations, or any corresponding similar or successor regulation or ruling (as determined by the Secretary); and “(2) in the case of a replacement wheel or tire, below the recommended cold inflation pressure of the wheel or tire manufacturer.”
 
 #### Improved Tire Information
 Pub. L. 106–414, § 11, Nov. 1, 2000, 114 Stat. 1806, provided that: “(a) Tire Labeling.—Within 30 days after the date of the enactment of this Act [Nov. 1, 2000], the Secretary of Transportation shall initiate a rulemaking proceeding to improve the labeling of tires required by [section 30123 of title 49](./chapter-301-motor-vehicle-safety.md#section-30123), United States Code[,] to assist consumers in identifying tires that may be the subject of a decision under section 30118(b) [of title 49] or a notice required under section 30118(c). The Secretary shall complete the rulemaking not later than June 1, 2002. “(b) Inflation Levels and Load Limits.—In the rulemaking initiated under subsection (a), the Secretary may take whatever additional action is appropriate to ensure that the public is aware of the importance of observing motor vehicle tire load limits and maintaining proper tire inflation levels for the safe operation of a motor vehicle. Such additional action may include a requirement that the manufacturer of motor vehicles provide the purchasers of the motor vehicles information on appropriate tire inflation levels and load limits if the Secretary determines that requiring such manufacturers to provide such information is the most appropriate way such information can be provided.”
@@ -1387,6 +1580,9 @@ The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec
 
 #### Amendments
 1998—Subsec. (g)(1). Pub. L. 105–178 substituted “annually” for “every 6 months” in introductory provisions.
+
+#### Improvement of Data Collection on Child Occupants in Vehicle Crashes
+Pub. L. 114–94, div. B, title XXIV, § 24407, Dec. 4, 2015, 129 Stat. 1726, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Dec. 4, 2015], the Secretary shall revise the crash investigation data collection system of the National Highway Traffic Safety Administration to include the collection of the following data in connection with vehicle crashes whenever a child restraint system was in use in a vehicle involved in a crash:“(1) The type or types of child restraint systems in use during the crash in any vehicle involved in the crash, including whether a five-point harness or belt-positioning booster. [sic] “(2) If a five-point harness child restraint system was in use during the crash, whether the child restraint system was forward-facing or rear-facing in the vehicle concerned. “(b) Consultation.—In implementing subsection (a), the Secretary shall work with law enforcement officials, safety advocates, the medical community, and research organizations to improve the recordation of data described in subsection (a) in police and other applicable incident reports. “(c) Report.—Not later than 3 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on child occupant crash data collection in the crash investigation data collection system of the National Highway Traffic Safety Administration pursuant to the revision required by subsection (a).”
 
 #### Child Safety Seats
 Pub. L. 112–141, div. C, title I, § 31501, July 6, 2012, 126 Stat. 773, provided that: “(a) Side Impact Crashes.—Not later than 2 years after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways], the Secretary [of Transportation] shall issue a final rule amending Federal Motor Vehicle Safety Standard Number 213 to improve the protection of children seated in child restraint systems during side impact crashes. “(b) Frontal Impact Test Parameters.—“(1) Commencement.—Not later than 2 years after the date of enactment of this Act, the Secretary shall commence a rulemaking proceeding to amend the standard seat assembly specifications under Federal Motor Vehicle Safety Standard Number 213 to better simulate a single representative motor vehicle rear seat. “(2) Final rule.—Not later than 4 years after the date of enactment of this Act, the Secretary shall issue a final rule pursuant to paragraph (1).”
@@ -1999,6 +2195,23 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)
+Pub. L. 114–94, div. B, title XXIV, § 24110(a), (b), Dec. 4, 2015, 129 Stat. 1709, provided that, effective on the date the Secretary of Transportation makes the certification required by section 31203(b) of Pub. L. 112–141, set out as a note below, subsection (a) of this section is amended:
+
+(1) in paragraph (1)—
+
+(A) by striking “$5,000” and inserting “$21,000”; and
+
+(B) by striking “$35,000,000” and inserting “$105,000,000”; and
+
+(2) in paragraph (3)—
+
+(A) by striking “$5,000” and inserting “$21,000”; and
+
+(B) by striking “$35,000,000” and inserting “$105,000,000”.
+
+See 2015 Amendment notes below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Pub. L. 103–272 |  |  |
@@ -2019,6 +2232,10 @@ In subsection (d), the words “who are required to attend a United States distr
 This amends 49:30141(c)(4)(A) and 30165(a) to correct erroneous cross-references.
 
 #### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–94, § 24110(a)(1), substituted “$21,000” for “$5,000” and “$105,000,000” for “$35,000,000”.
+
+Subsec. (a)(3). Pub. L. 114–94, § 24110(a)(2), substituted “$21,000” for “$5,000” and “$105,000,000” for “$35,000,000”.
+
 2012—Subsec. (a)(1). Pub. L. 112–141, § 32301(c), substituted “30141 through 30147, or 31137” for “or 30141 through 30147”.
 
 Pub. L. 112–141, § 31203(a)(1)(A), substituted “30123(a)” for “30123(d)” and “$35,000,000” for “$15,000,000”.
@@ -2036,6 +2253,9 @@ Subsec. (c). Pub. L. 112–141, § 31203(a)(2), amended subsec. (c) generally. P
 2000—Subsec. (a). Pub. L. 106–414 amended heading and text generally. Prior to amendment, text read as follows: “A person that violates any of sections 30112, 30115, 30117–30122, 30123(d), 30125(c), 30127, 30141–30147, or 30166 of this title or a regulation prescribed under any of those sections is liable to the United States Government for a civil penalty of not more than $1,000 for each violation. A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by any of those sections. The maximum penalty under this subsection for a related series of violations is $800,000.”
 
 1994—Subsec. (a). Pub. L. 103–429 substituted “any of sections 30112” for “section 30112” and inserted “any of” before “those sections” in two places.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–94, div. B, title XXIV, § 24110(b), (c), Dec. 4, 2015, 129 Stat. 1709, provided that: “(b) Effective Date.—The amendments made by subsection (a) of this section [amending this section] take effect on the date that the Secretary certifies to Congress that the National Highway Traffic Safety Administration has issued the final rule required by section 31203(b) of the Moving Ahead for Progress In the 21st Century Act (Public Law 112–141; 126 Stat. 758; [49 U.S.C. 30165](./chapter-301-motor-vehicle-safety.md#section-30165) note). “(c) Publication of Effective Date.—The Secretary shall publish notice of the effective date under subsection (b) of this section in the Federal Register.”
 
 #### Effective Date of 2012 Amendment
 Pub. L. 112–141, div. C, title I, § 31203(c), July 6, 2012, 126 Stat. 758, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date that is the earlier of the date on which final regulations are issued under subsection (b) [set out as a note below] or 1 year after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways].”
@@ -2067,7 +2287,7 @@ Pub. L. 112–141, div. C, title I, § 31203(b), July 6, 2012, 126 Stat. 758, pr
 
 (1) at reasonable times, may inspect and copy any record related to this chapter;
 
-(2) on request, may inspect records of a manufacturer, distributor, or dealer to decide whether the manufacturer, distributor, or dealer has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter;
+(2) on request, may inspect records of a manufacturer, distributor, dealer, or rental company to decide whether the manufacturer, distributor, dealer, or rental company has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter;
 
 (3) at reasonable times, in a reasonable way, and on display of proper credentials and written notice to an owner, operator, or agent in charge, may—
 
@@ -2083,11 +2303,11 @@ Pub. L. 112–141, div. C, title I, § 31203(b), July 6, 2012, 126 Stat. 758, pr
 
 **(d) Reasonable Compensation.—** When a motor vehicle (except a vehicle subject to subchapter I of chapter 135 of this title) or motor vehicle equipment is inspected or temporarily impounded under subsection (c)(3) of this section, the Secretary of Transportation shall pay reasonable compensation to the owner of the vehicle if the inspection or impoundment results in denial of use, or reduction in value, of the vehicle.
 
-**(e) Records and Making Reports.—** The Secretary of Transportation reasonably may require a manufacturer of a motor vehicle or motor vehicle equipment to keep records, and a manufacturer, distributor, or dealer to make reports, to enable the Secretary to decide whether the manufacturer, distributor, or dealer has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter. This subsection does not impose a recordkeeping requirement on a distributor or dealer in addition to those imposed under subsection (f) of this section and [section 30117(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30117/b&num=0&edition=prelim) or a regulation prescribed or order issued under subsection (f) or section 30117(b).
+**(e) Records and Making Reports.—** The Secretary of Transportation reasonably may require a manufacturer of a motor vehicle or motor vehicle equipment to keep records, and a manufacturer, distributor, dealer, or rental company to make reports, to enable the Secretary to decide whether the manufacturer, distributor, dealer, or rental company has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter. This subsection does not impose a recordkeeping requirement on a distributor dealer, or rental company in addition to those imposed under subsection (f) of this section and [section 30117(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30117/b&num=0&edition=prelim) or a regulation prescribed or order issued under subsection (f) or section 30117(b).
 
 **(f) Providing Copies of Communications About Defects and Noncompliance.—**
 
-(1) **In general.—** — A manufacturer shall give the Secretary of Transportation, and the Secretary shall make available on a publicly accessible Internet website, a true or representative copy of each communication to the manufacturer’s dealers or to owners or purchasers of a motor vehicle or replacement equipment produced by the manufacturer about a defect or noncompliance with a motor vehicle safety standard prescribed under this chapter in a vehicle or equipment that is sold or serviced.
+(1) **In general.—** — A manufacturer shall give the Secretary of Transportation, and the Secretary shall make available on a publicly accessible Internet website, a true or representative copy of each communication to the manufacturer’s dealers, rental companies, or other owners or purchasers of a motor vehicle or replacement equipment produced by the manufacturer about a defect or noncompliance with a motor vehicle safety standard prescribed under this chapter in a vehicle or equipment that is sold or serviced.
 
 (2) **Index.—** — Communications required to be submitted to the Secretary under this subsection shall be accompanied by an index to each communication, that—
 
@@ -2171,7 +2391,7 @@ Pub. L. 112–141, div. C, title I, § 31203(b), July 6, 2012, 126 Stat. 758, pr
 
 **(o) Corporate Responsibility for Reports.—**
 
-(1) **In general.—** — The Secretary may promulgate rules requiring a senior official responsible for safety in any company submitting information to the Secretary in response to a request for information in a safety defect or compliance investigation under this chapter to certify that—
+(1) **In general.—** — The Secretary shall promulgate rules requiring a senior official responsible for safety in any company submitting information to the Secretary in response to a request for information in a safety defect or compliance investigation under this chapter to certify that—
 
   (A) the signing official has reviewed the submission; and
 
@@ -2182,6 +2402,8 @@ Pub. L. 112–141, div. C, title I, § 31203(b), July 6, 2012, 126 Stat. 758, pr
     (ii) omit to state a material fact necessary in order to make the statements made not misleading, in light of the circumstances under which such statements were made.
 
 (2) **Notice.—** — The certification requirements of this section shall be clearly stated on any request for information under paragraph (1).
+
+(3) **Deadline.—** — Not later than 1 year after the date of enactment of the Comprehensive Transportation and Consumer Protection Act of 2015, the Secretary shall issue a final rule under paragraph (1).
 
 ### Statutory Notes
 
@@ -2245,7 +2467,19 @@ This amends 49:30166(h) to clarify the restatement of 15:1401(c)(4) by section 1
 #### References in Text
 The date of the enactment of the Transportation Recall Enhancement, Accountability, and Documentation (TREAD) Act, referred to in subsecs. (m)(1) and (n)(1), is the date of enactment of Pub. L. 106–414, which was approved Nov. 1, 2000.
 
+The date of enactment of the Comprehensive Transportation and Consumer Protection Act of 2015, referred to in subsec. (o)(3), probably means the date of enactment of div. B of Pub. L. 114–94, which was approved Dec. 4, 2015. That Act name is the heading for div. B of Pub. L. 114–94, but no such Short Title was enacted.
+
 #### Amendments
+2015—Subsec. (c)(2). Pub. L. 114–94, § 24109(e)(1), substituted “dealer, or rental company” for “or dealer” in two places.
+
+Subsec. (e). Pub. L. 114–94, § 24109(e)(2), substituted “dealer, or rental company” for “or dealer” wherever appearing.
+
+Subsec. (f)(1). Pub. L. 114–94, § 24109(e)(3), substituted “, rental companies, or other owners” for “or to owners”.
+
+Subsec. (o)(1). Pub. L. 114–94, § 24112(1), substituted “shall promulgate” for “may promulgate” in introductory provisions.
+
+Subsec. (o)(3). Pub. L. 114–94, § 24112(2), added par. (3).
+
 2012—Subsec. (c)(3)(A). Pub. L. 112–141, § 31209(2)(A), inserted “(including at United States ports of entry)” after “held for introduction in interstate commerce”.
 
 Subsec. (c)(4). Pub. L. 112–141, § 31209(1), (2)(B), (3), added par. (4).
@@ -2262,6 +2496,9 @@ Subsec. (o). Pub. L. 112–141, § 31304(a), added subsec. (o).
 
 1994—Subsec. (h). Pub. L. 103–429 substituted “any judicial district” for “the judicial district”.
 
+#### Effective Date of 2015 Amendment
+Amendment by section 24109(e) of Pub. L. 114–94 effective on the date that is 180 days after Dec. 4, 2015, see section 24109(k) of Pub. L. 114–94, set out as a note under [section 30102 of this title](./chapter-301-motor-vehicle-safety.md#section-30102).
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
@@ -2269,13 +2506,13 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 Pub. L. 104–287, § 6(f)(3), Oct. 11, 1996, 110 Stat. 3399, provided that the amendment made by that section is effective Dec. 29, 1995.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under [section 321 of this title](./chapter-003-general-duties-and-powers.md#section-321).
 
 #### Public Availability of Recall Information
-Pub. L. 112–141, div. C, title I, § 31301, July 6, 2012, 126 Stat. 763, provided that: “(a) Vehicle Recall Information.—Not later than 1 year after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways], the Secretary [of Transportation] shall require that motor vehicle safety recall information—“(1) be available to the public on the Internet; “(2) be searchable by vehicle make and model and vehicle identification number; “(3) be in a format that preserves consumer privacy; and “(4) includes [sic] information about each recall that has not been completed for each vehicle. “(b) Rulemaking.—The Secretary may initiate a rulemaking proceeding to require each manufacturer to provide the information described in subsection (a), with respect to that manufacturer’s motor vehicles, on a publicly accessible Internet website. Any rules promulgated under this subsection—“(1) shall limit the information that must be made available under this section to include only those recalls issued not more than 15 years prior to the date of enactment of this Act; “(2) may require information under paragraph (1) to be provided to a dealer or an owner of a vehicle at no charge; and “(3) shall permit a manufacturer a reasonable period of time after receiving information from a dealer with respect to a vehicle to update the information about the vehicle on the publicly accessible Internet website. “(c) Promotion of Public Awareness.—The Secretary, in consultation with the heads of other relevant agencies, shall promote consumer awareness of the information made available to the public pursuant to this section.”
+Pub. L. 112–141, div. C, title I, § 31301, July 6, 2012, 126 Stat. 763, as amended by Pub. L. 114–94, div. B, title XXIV, § 24103(c), Dec. 4, 2015, 129 Stat. 1702, provided that: “(a) Vehicle Recall Information.—Not later than 1 year after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways], the Secretary [of Transportation] shall require that motor vehicle safety recall information—“(1) be available to the public on the Internet; “(2) be searchable by vehicle make and model and vehicle identification number; “(3) be in a format that preserves consumer privacy; and “(4) includes [sic] information about each recall that has not been completed for each vehicle. “(b) Rulemaking.—The Secretary may initiate a rulemaking proceeding to require each manufacturer to provide the information described in subsection (a), with respect to that manufacturer’s motor vehicles, on a publicly accessible Internet website. Any rules promulgated under this subsection—“(1) shall limit the information that must be made available under this section to include only those recalls issued not more than 15 years prior to the date of enactment of this Act; “(2) may require information under paragraph (1) to be provided to a dealer or an owner of a vehicle at no charge; and “(3) shall permit a manufacturer a reasonable period of time after receiving information from a dealer with respect to a vehicle to update the information about the vehicle on the publicly accessible Internet website. “(c) Promotion of Public Awareness.—The Secretary shall improve public awareness of safety recall information made publicly available by periodically updating the method of conveying that information to consumers, dealers, and manufacturers, such as through public service announcements.”
 
 
 <a id="section-30167"></a>
@@ -2471,6 +2708,129 @@ The date of the enactment of this section, referred to in subsec. (a)(2)(B), is 
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
 
+<a id="section-30172"></a>
+## § 30172. Whistleblower incentives and protections
+**(a) Definitions.—** In this section:
+
+(1) **Covered action.—** — The term “covered action” means any administrative or judicial action, including any related administrative or judicial action, brought by the Secretary or the Attorney General under this chapter that in the aggregate results in monetary sanctions exceeding $1,000,000.
+
+(2) **Monetary sanctions.—** — The term “monetary sanctions” means monies, including penalties and interest, ordered or agreed to be paid.
+
+(3) **Original information.—** — The term “original information” means information that—
+
+  (A) is derived from the independent knowledge or analysis of an individual;
+
+  (B) is not known to the Secretary from any other source, unless the individual is the original source of the information; and
+
+  (C) is not exclusively derived from an allegation made in a judicial or an administrative action, in a governmental report, a hearing, an audit, or an investigation, or from the news media, unless the individual is a source of the information.
+
+(4) **Part supplier.—** — The term “part supplier” means a manufacturer of motor vehicle equipment.
+
+(5) **Successful resolution.—** — The term “successful resolution”, with respect to a covered action, includes any settlement or adjudication of the covered action.
+
+(6) **Whistleblower.—** — The term “whistleblower” means any employee or contractor of a motor vehicle manufacturer, part supplier, or dealership who voluntarily provides to the Secretary original information relating to any motor vehicle defect, noncompliance, or any violation or alleged violation of any notification or reporting requirement of this chapter, which is likely to cause unreasonable risk of death or serious physical injury.
+
+**(b) Awards.—**
+
+(1) **In general.—** — If the original information that a whistleblower provided to the Secretary leads to the successful resolution of a covered action, the Secretary, subject to subsection (c), may pay an award or awards to one or more whistleblowers in an aggregate amount of—
+
+  (A) not less than 10 percent, in total, of collected monetary sanctions; and
+
+  (B) not more than 30 percent, in total, of collected monetary sanctions.
+
+(2) **Payment of awards.—** — Any amount payable under paragraph (1) shall be paid from the monetary sanctions collected, and any monetary sanctions so collected shall be available for such payment.
+
+**(c) Determination of Awards; Denial of Awards.—**
+
+(1) **Determination of awards.—**
+
+  (A) *Discretion.—* — The determination of whether, to whom, or in what amount to make an award shall be in the discretion of the Secretary subject to the provisions in subsection (b)(1).
+
+  (B) *Criteria.—* — In determining an award made under subsection (b), the Secretary shall take into consideration—
+
+    (i) if appropriate, whether a whistleblower reported or attempted to report the information internally to an applicable motor vehicle manufacturer, part supplier, or dealership;
+
+    (ii) the significance of the original information provided by the whistleblower to the successful resolution of the covered action;
+
+    (iii) the degree of assistance provided by the whistleblower and any legal representative of the whistleblower in the covered action; and
+
+    (iv) such additional factors as the Secretary considers relevant.
+
+(2) **Denial of awards.—** — No award under subsection (b) shall be made—
+
+  (A) to any whistleblower who is convicted of a criminal violation related to the covered action for which the whistleblower otherwise could receive an award under this section;
+
+  (B) to any whistleblower who, acting without direction from an applicable motor vehicle manufacturer, part supplier, or dealership, or agent thereof, deliberately causes or substantially contributes to the alleged violation of a requirement of this chapter;
+
+  (C) to any whistleblower who submits information to the Secretary that is based on the facts underlying the covered action submitted previously by another whistleblower;
+
+  (D) to any whistleblower who fails to provide the original information to the Secretary in such form as the Secretary may require by regulation; or
+
+  (E) if the applicable motor vehicle manufacturer, parts supplier, or dealership has an internal reporting mechanism in place to protect employees from retaliation, to any whistleblower who fails to report or attempt to report the information internally through such mechanism, unless—
+
+    (i) the whistleblower reasonably believed that such an internal report would have resulted in retaliation, notwithstanding section 30171(a);
+
+    (ii) the whistleblower reasonably believed that the information—
+
+      (I) was already internally reported;
+
+      (II) was already subject to or part of an internal inquiry or investigation; or
+
+      (III) was otherwise already known to the motor vehicle manufacturer, part supplier, or dealership; or
+
+    (iii) the Secretary has good cause to waive this requirement.
+
+**(d) Representation.—** A whistleblower may be represented by counsel.
+
+**(e) No Contract Necessary.—** No contract with the Secretary is necessary for any whistleblower to receive an award under subsection (b).
+
+**(f) Protection of Whistleblowers; Confidentiality.—**
+
+(1) **In general.—** — Notwithstanding section 30167, and except as provided in paragraphs (4) and (5) of this subsection, the Secretary, and any officer or employee of the Department of Transportation, shall not disclose any information, including information provided by a whistleblower to the Secretary, which could reasonably be expected to reveal the identity of a whistleblower, except in accordance with the provisions of [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), unless—
+
+  (A) required to be disclosed to a defendant or respondent in connection with a public proceeding instituted by the Secretary or any entity described in paragraph (5);
+
+  (B) the whistleblower provides prior written consent for the information to be disclosed; or
+
+  (C) the Secretary, or other officer or employee of the Department of Transportation, receives the information through another source, such as during an inspection or investigation under section 30166, and has authority under other law to release the information.
+
+(2) **Redaction.—** — The Secretary, and any officer or employee of the Department of Transportation, shall take reasonable measures to not reveal the identity of the whistleblower when disclosing any information under paragraph (1).
+
+(3) **Section 552(b)(3)(b).—** — For purposes of [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), paragraph (1) of this subsection shall be considered a statute described in subsection (b)(3)(B) of that section.
+
+(4) **Effect.—** — Nothing in this subsection is intended to limit the ability of the Attorney General to present such evidence to a grand jury or to share such evidence with potential witnesses or defendants in the course of an ongoing criminal investigation.
+
+(5) **Availability to government agencies.—**
+
+  (A) *In general.—* — Without the loss of its status as confidential in the hands of the Secretary, all information referred to in paragraph (1) may, in the discretion of the Secretary, when determined by the Secretary to be necessary or appropriate to accomplish the purposes of this chapter and in accordance with subparagraph (B), be made available to the following:
+
+    (i) The Department of Justice.
+
+    (ii) An appropriate department or agency of the Federal Government, acting within the scope of its jurisdiction.
+
+  (B) *Maintenance of information.—* — Each entity described in subparagraph (A) shall maintain information described in that subparagraph as confidential, in accordance with the requirements in paragraph (1).
+
+**(g) Provision of False Information.—** A whistleblower who knowingly and intentionally makes any false, fictitious, or fraudulent statement or representation, or who makes or uses any false writing or document knowing the same to contain any false, fictitious, or fraudulent statement or entry, shall not be entitled to an award under this section and shall be subject to prosecution under [section 1001 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1001&num=0&edition=prelim).
+
+**(h) Appeals.—**
+
+(1) **In general.—** — Any determination made under this section, including whether, to whom, or in what amount to make an award, shall be in the discretion of the Secretary.
+
+(2) **Appeals.—** — Any determination made by the Secretary under this section may be appealed by a whistleblower to the appropriate court of appeals of the United States not later than 30 days after the determination is issued by the Secretary.
+
+(3) **Review.—** — The court shall review the determination made by the Secretary in accordance with [section 706 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706&num=0&edition=prelim).
+
+**(i) Regulation.—** Not later than 18 months after the date of enactment of this section, the Secretary shall promulgate regulations on the requirements of this section, consistent with this section.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsec. (i), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+#### Rule of Construction
+Pub. L. 114–94, div. B, title XXIV, § 24352(b), Dec. 4, 2015, 129 Stat. 1720, provided that: “(1) Original information.—Information submitted to the Secretary of Transportation by a whistleblower in accordance with the requirements of [section 30172 of title 49](./chapter-301-motor-vehicle-safety.md#section-30172), United States Code, shall not lose its status as original information solely because the whistleblower submitted the information prior to the effective date of the regulations issued under subsection (i) of that section if that information was submitted after the date of enactment of this Act [Dec. 4, 2015]. “(2) Awards.—A whistleblower may receive an award under [section 30172 of title 49](./chapter-301-motor-vehicle-safety.md#section-30172), United States Code, regardless of whether the violation underlying the covered action occurred prior to the date of enactment of this Act, and may receive an award prior to the Secretary of Transportation promulgating the regulations under subsection (i) of that section.”
+
+
 <a id="section-30181"></a>
 ## § 30181. Policy
 
@@ -2506,9 +2866,11 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
   (B) sell or otherwise dispose of test motor vehicles and motor vehicle equipment and use the resulting proceeds to carry out this chapter;
 
-(4) award grants to States and local governments, interstate authorities, and nonprofit institutions; and
+(4) award grants to States and local governments, interstate authorities, and nonprofit institutions;
 
-(5) enter into cooperative agreements, collaborative research, or contracts with Federal agencies, interstate authorities, State and local governments, other public entities, private organizations and persons, nonprofit institutions, colleges and universities, consumer advocacy groups, corporations, partnerships, sole proprietorships, trade associations, Federal laboratories (including government-owned, government-operated laboratories and government-owned, contractor-operated laboratories), and research organizations.
+(5) enter into cooperative agreements, collaborative research, or contracts with Federal agencies, interstate authorities, State and local governments, other public entities, private organizations and persons, nonprofit institutions, colleges and universities, consumer advocacy groups, corporations, partnerships, sole proprietorships, trade associations, Federal laboratories (including government-owned, government-operated laboratories and government-owned, contractor-operated laboratories), and research organizations; and
+
+(6) in coordination with Department 11 So in original. Probably should be preceded by “the”. of State, enter into cooperative agreements and collaborative research and development agreements with foreign governments.
 
 **(c) Use of Public Agencies.—** In carrying out this subchapter, the Secretary shall avoid duplication by using the services, research, and testing facilities of public agencies, as appropriate.
 
@@ -2529,6 +2891,9 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 **(f) Availability of Information, Patents, and Developments.—** When the United States Government makes more than a minimal contribution to a research or development activity under this chapter, the Secretary shall include in the arrangement for the activity a provision to ensure that all information, patents, and developments related to the activity are available to the public. The owner of a background patent may not be deprived of a right under the patent.
 
 ### Statutory Notes
+
+#### Amendments
+2015—Subsec. (b)(6). Pub. L. 114–94 added par. (6).
 
 #### Effective Date
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.

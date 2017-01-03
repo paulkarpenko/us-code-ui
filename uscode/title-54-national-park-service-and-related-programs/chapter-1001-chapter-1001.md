@@ -29,13 +29,20 @@ source: >-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100101(a) | [16 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim) (last sentence) | Aug. 25, 1916, ch. 408, § 1 (last sentence), 39 Stat. 535. |
-| 100101(b)(1) | [16 U.S.C. 1a–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–1&num=0&edition=prelim) (1st sentence) | Pub. L. 91–383, § 1, Aug. 18, 1970, 84 Stat. 825; Pub. L. 95–250, title I, § 101(b), Mar. 27, 1978, 92 Stat. 166. |
-| 100101(b)(2) | [16 U.S.C. 1a–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–1&num=0&edition=prelim) (2d, last sentences) |  |
+| 100101(a) | [16 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim) (last sentence). | Aug. 25, 1916, ch. 408, § 1 (last sentence), 39 Stat. 535. |
+| 100101(b)(1) | [16 U.S.C. 1a–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–1&num=0&edition=prelim) (1st sentence). | Pub. L. 91–383, § 1, Aug. 18, 1970, 84 Stat. 825; Pub. L. 95–250, title I, § 101(b), Mar. 27, 1978, 92 Stat. 166. |
+| 100101(b)(2) | [16 U.S.C. 1a–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–1&num=0&edition=prelim) (2d, last sentences). |  |
 
 In subsection (a), the words “Secretary, acting through the Director of the National Park Service” are substituted for “service thus established” to reflect the transfer of functions of other officers, employees, and agencies of the Department of the Interior to the Secretary by sections 1 and 2 of Reorganization Plan No. 3 of 1950 (5 U.S.C. App.) while keeping the responsibility for promoting and regulating the use of the National Park System with the Director of the National Park Service.
 
 In subsection (b)(1)(D), the words “this division” are substituted for “this Act” for clarity. The purpose of the Act of August 18, 1970 (known as the National Park System General Authorities Act) (Public Law 91–383, 84 Stat. 825), was to update and clarify the law with respect to the various units of the National Park System by enlarging the application of existing general statutes so that they apply uniformly to the administration of the various types of parklands within the national park system. See H. Rept. 91–1265 (91st Cong., 2d Sess.). However, section 2(b) of that Act, rather than being enacted as a new provision of law, amended section 2 of the Act of August 8, 1953 (ch. 384, 67 Stat. 496), and would not be included in the reference to “this Act” in section 1 of the Act of August 18, 1970. The revised subsection translates the reference to “this Act” to carry out the intent of the Act of August 18, 1970.
+
+#### Short Title of 2016 Act
+Pub. L. 114–289, § 1(a), Dec. 16, 2016, 130 Stat. 1482, provided that: “This Act [see Tables for classification] may be cited as the ‘National Park Service Centennial Act’.”
+
+Pub. L. 114–289, title II, § 201, Dec. 16, 2016, 130 Stat. 1485, provided that: “This title [enacting [section 101121 of this title](./chapter-1011-chapter-1011.md#section-101121)] may be cited as the ‘National Park Foundation Endowment Act’.”
+
+Pub. L. 114–289, title VIII, § 801, Dec. 16, 2016, 130 Stat. 1494, provided that: “This title [amending sections 302104 and 303102 of this title] may be cited as the ‘National Historic Preservation Amendments Act’.”
 
 #### Short Title of 2009 Act
 Pub. L. 111–11, § 1(a), Mar. 30, 2009, 123 Stat. 991, provided that: “This Act [see Tables for classification] may be cited as the ‘Omnibus Public Land Management Act of 2009’.”
@@ -132,3 +139,6 @@ In this title:
 | 100102 | no source. |  |
 
 The term “System unit” is added because various laws relating to the National Park Service apply to any area of land or water administered by the Secretary through the Service regardless of the terms used in those laws. See section 100501 of the revised title.
+
+#### Definitions
+Pub. L. 114–289, § 2, Dec. 16, 2016, 130 Stat. 1482, provided that: “In this Act [see Short Title of 2016 Act note set out under [section 100101 of this title](./chapter-1001-chapter-1001.md#section-100101)]: “(1) Challenge fund.—The term ‘Challenge Fund’ means the National Park Centennial Challenge Fund established in title I [enacting chapter 1035 of this title and amending [section 6804 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6804&num=0&edition=prelim), Conservation]. “(2) Director.—The term ‘Director’ means the Director of the National Park Service. “(3) Endowment.—The term ‘Endowment’ means the Second Century Endowment for the National Park Service established by title II [see Short Title of 2016 Act note set out under [section 100101 of this title](./chapter-1001-chapter-1001.md#section-100101)]. “(4) Secretary.—The term ‘Secretary’ means the Secretary of the Interior. “(5) Signature project or program.—The term ‘signature project or program’ means any project or program identified by the Secretary as one that will help prepare the national parks for another century of conservation, preservation, and visitor enjoyment.”

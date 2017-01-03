@@ -392,6 +392,12 @@ Section 201, referred to in subsec. (a)(1)(I), and section 202, referred to in s
 #### References in Text
 The Head Start Act, referred to in subsec. (a)(1)(A), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
 
+#### Amendments
+2015—Subsec. (a)(2). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 
 <a id="section-2206"></a>
 ## § 2206. Alcohol-related facilities
@@ -858,7 +864,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in par. (3)(A), is act Jun
 
 The Public Health Service Act, referred to in par. (3)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
-The Federal Meat Inspection Act, referred to in par. (4)(A), is titles I to IV of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, which are classified generally to subchapters I to IV (§ 601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of this title](./chapter-012-meat-inspection.md#section-601) and Tables.
+The Federal Meat Inspection Act, referred to in par. (4)(A), is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, § 11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§ 601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of this title](./chapter-012-meat-inspection.md#section-601) and Tables.
 
 The Poultry Products Inspection Act, referred to in par. (4)(B), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§ 451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 451 of this title](./chapter-010-poultry-and-poultry-products-inspection.md#section-451) and Tables.
 

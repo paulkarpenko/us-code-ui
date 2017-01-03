@@ -2,7 +2,7 @@
 title: 38
 chapter: '55'
 heading: 'MINORS, INCOMPETENTS, AND OTHER WARDS'
-section_count: 10
+section_count: 11
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -19,6 +19,25 @@ The Secretary may incur necessary court costs and other expenses incident to pro
 Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+
+
+<a id="section-5501a"></a>
+## § 5501A. Beneficiaries’ rights in mental competence determinations
+
+The Secretary may not make an adverse determination concerning the mental capacity of a beneficiary to manage monetary benefits paid to or for the beneficiary by the Secretary under this title unless such beneficiary has been provided all of the following, subject to the procedures and timelines prescribed by the Secretary for determinations of incompetency:
+
+(1) Notice of the proposed adverse determination and the supporting evidence.
+
+(2) An opportunity to request a hearing.
+
+(3) An opportunity to present evidence, including an opinion from a medical professional or other person, on the capacity of the beneficiary to manage monetary benefits paid to or for the beneficiary by the Secretary under this title.
+
+(4) An opportunity to be represented at no expense to the Government (including by counsel) at any such hearing and to bring a medical professional or other person to provide relevant testimony at any such hearing.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 114–255, div. B, title XIV, § 14017(c), Dec. 13, 2016, 130 Stat. 1307, provided that: “[Section 5501A of title 38](./chapter-055-minors-incompetents-and-other-wards.md#section-5501a), United States Code, as added by subsection (a), shall apply to determinations made by the Secretary of Veterans Affairs on or after the date of the enactment of this Act [Dec. 13, 2016].”
 
 
 <a id="section-5502"></a>

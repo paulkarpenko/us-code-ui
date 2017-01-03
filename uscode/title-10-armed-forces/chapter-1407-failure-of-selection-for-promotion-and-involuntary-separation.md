@@ -33,7 +33,7 @@ source: >-
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
 
 #### Effective Date
-Chapter effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Continuation on Reserve Active-Status List of Certain Reserve Colonels of Army and Air Force
 Pub. L. 103–337, div. A, title XVI, § 1681, Oct. 5, 1994, 108 Stat. 3021, provided that: “(a) Continuation Under Old Law.—Except as provided in subsection (b), a reserve officer of the Army or the Air Force who, on the effective date of this title [Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001)]—“(1) is subject to placement on the reserve active-status list of the Army or the Air Force; and “(2)(A) holds the reserve grade of colonel, (B) is on a list of officers recommended for promotion to the reserve grade of colonel, or (C) has been nominated by the President for appointment in the reserve grade of colonel, shall continue to be subject to mandatory transfer to the Retired Reserve or discharge from the officer’s reserve appointment under section 3851 or 8851 of title 10, United States Code, as in effect on the day before the effective date of this title. “(b) Exemption.—This section does not apply to an officer who is—“(1) sooner transferred from an active status or discharged under some other provision of law; “(2) promoted to a higher grade, unless the officer was on a list of officers recommended for promotion to the reserve grade of colonel before the effective date of this title; or “(3) continued on the reserve active-status list under [section 14701 of title 10](./chapter-1409-continuation-of-officers-on-the-reserve-active-status-list-and-selective-early-removal.md#section-14701), United States Code, as added by this title.”
@@ -46,7 +46,7 @@ Pub. L. 103–337, div. A, title XVI, § 1690, Oct. 5, 1994, 108 Stat. 3025, pro
 ## § 14502. Special selection boards: correction of errors
 **(a) Officers Not Considered Because of Administrative Error.—**
 
-(1) In the case of an officer or former officer who the Secretary of the military department concerned determines was not considered for selection for promotion from in or above the promotion zone by a mandatory promotion board convened under [section 14101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/a&num=0&edition=prelim) because of administrative error, or whose name was not placed on an all-fully-qualified-officers list under [section 14308(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14308/b/4&num=0&edition=prelim) because of administrative error, the Secretary concerned shall convene a special selection board under this subsection to determine whether such officer or former officer should be recommended for promotion. Any such board shall be convened under regulations prescribed by the Secretary of Defense and shall be appointed and composed in accordance with [section 14102 of this title](./chapter-1403-selection-boards.md#section-14102) and shall include the representation of competitive categories required by that section. The members of a board convened under this subsection shall be required to take an oath in the same manner as prescribed in [section 14103 of this title](./chapter-1403-selection-boards.md#section-14103).
+(1) In the case of an officer or former officer who the Secretary of the military department concerned determines was not considered for selection for promotion from in or above the promotion zone by a mandatory promotion board convened under [section 14101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/a&num=0&edition=prelim) because of administrative error, the Secretary concerned shall convene a special selection board under this subsection to determine whether such officer or former officer should be recommended for promotion. Any such board shall be convened under regulations prescribed by the Secretary of Defense and shall be appointed and composed in accordance with [section 14102 of this title](./chapter-1403-selection-boards.md#section-14102) and shall include the representation of competitive categories required by that section. The members of a board convened under this subsection shall be required to take an oath in the same manner as prescribed in [section 14103 of this title](./chapter-1403-selection-boards.md#section-14103).
 
 (2) A special selection board convened under this subsection shall consider the record of the officer or former officer as that record would have appeared to the promotion board that should have considered the officer or former officer. That record shall be compared with a sampling of the records of those officers of the same grade and competitive category who were recommended for promotion and those officers of the same grade and competitive category who were not recommended for promotion by that board.
 
@@ -54,15 +54,15 @@ Pub. L. 103–337, div. A, title XVI, § 1690, Oct. 5, 1994, 108 Stat. 3025, pro
 
 **(b) Officers Considered But Not Selected; Material Error.—**
 
-(1) In the case of an officer or former officer who was eligible for promotion and was considered for selection for promotion from in or above the promotion zone under this chapter by a selection board but was not selected, the Secretary of the military department concerned may, under regulations prescribed by the Secretary of Defense, convene a special selection board under this subsection to determine whether the officer or former officer should be recommended for promotion, if the Secretary determines that—
+(1) In the case of an officer or former officer who was eligible for promotion and was considered for selection for promotion from in or above the promotion zone under this chapter by a mandatory promotion board convened under [section 14101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/a&num=0&edition=prelim) but was not selected, the Secretary of the military department concerned may, under regulations prescribed by the Secretary of Defense, convene a special selection board under this subsection to determine whether the officer or former officer should be recommended for promotion, if the Secretary determines that—
 
-  (A) the action of the selection board that considered the officer or former officer was contrary to law in a matter material to the decision of the board or involved material error of fact or material administrative error; or
+  (A) the action of the mandatory promotion board that considered the officer or former officer was contrary to law in a matter material to the decision of the board or involved material error of fact or material administrative error; or
 
-  (B) the selection board did not have before it for its consideration material information.
+  (B) the mandatory promotion board did not have before it for its consideration material information.
 
 (2) A special selection board convened under paragraph (1) shall be appointed and composed in accordance with [section 14102 of this title](./chapter-1403-selection-boards.md#section-14102) (including the representation of competitive categories required by that section), and the members of such a board shall take an oath in the same manner as prescribed in [section 14103 of this title](./chapter-1403-selection-boards.md#section-14103).
 
-(3) Such board shall consider the record of the officer or former officer as that record, if corrected, would have appeared to the selection board that considered the officer or former officer. That record shall be compared with a sampling of the records of those officers of the same grade and competitive category who were recommended for promotion and those officers of the same grade and competitive category who were not recommended for promotion by that board.
+(3) The special selection board shall consider the record of the officer or former officer as that record, if corrected, would have appeared to the mandatory promotion board that considered the officer or former officer. That record shall be compared with a sampling of the records of those officers of the same grade and competitive category who were recommended for promotion and those officers of the same grade and competitive category who were not recommended for promotion by that board.
 
 (4) If a special selection board convened under paragraph (1) does not recommend for promotion an officer or former officer in the grade of lieutenant colonel or commander or below whose name was referred to it for consideration, the officer or former officer shall be considered to have failed of selection for promotion by the board which did consider the officer but incurs no additional failure of selection for promotion from the action of the special selection board.
 
@@ -104,12 +104,21 @@ Pub. L. 103–337, div. A, title XVI, § 1690, Oct. 5, 1994, 108 Stat. 3025, pro
 Provisions similar to those in this section were contained in [section 5904 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5904&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1629(b)(2).
 
 #### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–92, § 502(c)(2), struck out “or whose name was not placed on an all-fully-qualified-officers list under [section 14308(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14308/b/4&num=0&edition=prelim) because of administrative error,” after “administrative error,”.
+
+Subsec. (b)(1). Pub. L. 114–92, § 512(1), substituted “a mandatory promotion board convened under [section 14101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/a&num=0&edition=prelim)” for “a selection board” in introductory provisions and “mandatory promotion board” for “selection board” in subpars. (A) and (B).
+
+Subsec. (b)(3). Pub. L. 114–92, § 512(2), in first sentence, substituted “The special selection board” for “Such board” and “mandatory promotion board” for “selection board”.
+
 2006—Subsec. (b)(1)(A). Pub. L. 109–364 inserted “in a matter material to the decision of the board” after “contrary to law”.
 
 2001—Subsec. (a)(1). Pub. L. 107–107 inserted “or whose name was not placed on an all-fully-qualified-officers list under [section 14308(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14308/b/4&num=0&edition=prelim) because of administrative error,” after “because of administrative error,”.
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–364 effective Mar. 1, 2007, and applicable with respect to selection boards convened on or after that date, see section 514(c) of Pub. L. 109–364, set out as a note under [section 628 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-628).
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14503"></a>
@@ -142,6 +151,9 @@ Provisions similar to those in subsecs. (a) and (b) of this section were contain
 
 Subsec. (a)(1). Pub. L. 110–181, § 503(c)(1), substituted “six years” for “five years”.
 
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 #### Rights for Officers With Over Three Years Service
 Pub. L. 103–337, div. A, title XVI, § 1689, Oct. 5, 1994, 108 Stat. 3025, provided that: “A reserve officer of the Army, Navy, Air Force, or Marine Corps who was in an active status on the day before the effective date of this title [Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001)] and who was subject to placement of the reserve active-status list on the effective date of this title may not be discharged under [section 14503 of title 10](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14503), United States Code, as added by this title, until on or after the day on which that officer completes three years of continuous service as a reserve commissioned officer.”
 
@@ -159,11 +171,19 @@ Pub. L. 103–337, div. A, title XVI, § 1689, Oct. 5, 1994, 108 Stat. 3025, pro
 #### Amendments
 2001—Subsec. (c). Pub. L. 107–107 added subsec. (c).
 
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14505"></a>
 ## § 14505. Effect of failure of selection for promotion: reserve captains of the Army, Air Force, and Marine Corps and reserve lieutenants of the Navy
 
 Unless retained as provided in section 12646 or 12686 of this title, a captain on the reserve active-status list of the Army, Air Force, or Marine Corps or a lieutenant on the reserve active-status list of the Navy who has failed of selection for promotion to the next higher grade for the second time and whose name is not on a list of officers recommended for promotion to the next higher grade and who has not been selected for continuation on the reserve active-status list under [section 14701 of this title](./chapter-1409-continuation-of-officers-on-the-reserve-active-status-list-and-selective-early-removal.md#section-14701), shall be separated in accordance with [section 14513 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14513) not later than the first day of the seventh month after the month in which the President approves the report of the board which considered the officer for the second time.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14506"></a>
@@ -183,6 +203,9 @@ Pub. L. 106–65, div. A, title V, § 514(b), Oct. 5, 1999, 113 Stat. 593, provi
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14507"></a>
@@ -208,6 +231,9 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 #### Effective Date of 1996 Amendment
 Pub. L. 104–201, div. A, title V, § 508(b), Sept. 23, 1996, 110 Stat. 2513, provided that: “Subsection (c) of [section 14507 of title 10](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14507), United States Code, as added by subsection (a), shall take effect on October 1, 1996.”
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14508"></a>
@@ -267,6 +293,9 @@ Subsec. (d). Pub. L. 109–364, § 503(e)(2), substituted “64” for “62”.
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
 
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14509"></a>
 ## § 14509. Separation at age 62: reserve officers in grades below brigadier general or rear admiral (lower half)
@@ -277,6 +306,9 @@ Each reserve officer of the Army, Navy, Air Force, or Marine Corps in a grade be
 
 #### Amendments
 2006—Pub. L. 109–364 substituted “62” for “60” in section catchline and text.
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14510"></a>
@@ -291,6 +323,9 @@ Provisions similar to those in this section were contained in sections 3843(a) a
 
 #### Amendments
 2006—Pub. L. 109–364 substituted “age 62: brigadier generals” for “age 60: reserve brigadier generals” in section catchline and “62” for “60” in text.
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14511"></a>
@@ -314,6 +349,9 @@ Provisions similar to those in this section were contained in sections 3844 and 
 2008—Pub. L. 110–181 amended section generally. Prior to amendment, text read as follows: “Unless retired, transferred to the Retired Reserve, or discharged at an earlier date, each reserve officer of the Army, Air Force, or Marine Corps in the grade of major general and each reserve officer of the Navy in the grade of rear admiral, except an officer covered by [section 14512 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14512), shall be separated in accordance with [section 14515 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14515) on the last day of the month in which the officer becomes 64 years of age.”
 
 2006—Pub. L. 109–364 substituted “64” for “62” in section catchline and text.
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14512"></a>
@@ -356,6 +394,9 @@ Subsec. (b). Pub. L. 109–364, § 503(d)(1), substituted “66” for “64”.
 
 Pub. L. 109–163, § 515(b)(1)(UU), substituted “Navy Reserve” for “Naval Reserve”.
 
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14513"></a>
 ## § 14513. Failure of selection for promotion: transfer, retirement, or discharge
@@ -378,6 +419,9 @@ Par. (2). Pub. L. 107–107, § 517(b)(1), substituted “if the officer is qual
 #### Effective Date of 2001 Amendment
 Amendment by Pub. L. 107–107 effective on the first day of the first month that begins more than 180 days after Dec. 28, 2001, see section 517(g) of Pub. L. 107–107, set out as a note under [section 10154 of this title](./chapter-1005-elements-of-reserve-components.md#section-10154).
 
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14514"></a>
 ## § 14514. Discharge or retirement for years of service or after selection for early removal
@@ -397,6 +441,9 @@ Par. (2). Pub. L. 107–107, § 517(c)(2), added par. (2) and struck out former 
 
 #### Effective Date of 2001 Amendment
 Amendment by Pub. L. 107–107 effective on the first day of the first month that begins more than 180 days after Dec. 28, 2001, see section 517(g) of Pub. L. 107–107, set out as a note under [section 10154 of this title](./chapter-1005-elements-of-reserve-components.md#section-10154).
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14515"></a>
@@ -423,17 +470,30 @@ Amendment by Pub. L. 107–107 effective on the first day of the first month tha
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
 
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14516"></a>
 ## § 14516. Separation to be considered involuntary
 
 The separation of an officer pursuant to section 14513, 14514, or 14515 of this title shall be considered to be an involuntary separation for purposes of any other provision of law.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14517"></a>
 ## § 14517. Entitlement of officers discharged under this chapter to separation pay
 
 An officer who is discharged under section 14513, 14514, or 14515 of this title is entitled to separation pay under [section 1174 of this title](./chapter-059-separation.md#section-1174) if otherwise eligible under that section.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14518"></a>

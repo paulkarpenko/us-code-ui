@@ -2,7 +2,7 @@
 title: 10
 chapter: '32'
 heading: OFFICER STRENGTH AND DISTRIBUTION IN GRADE
-section_count: 8
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -21,7 +21,7 @@ source: >-
 Pub. L. 102–190, div. A, title XI, § 1132, Dec. 5, 1991, 105 Stat. 1506, provided that: “This title [enacting sections 571 to 583 and 742 of this title, amending this section, sections 522, 597 [now 12241], 598 [now 12242], 603, 628, 644, 741, 1166, 1174, 1305, 1406, 5414, 5457, 5458, 5501 to 5503, 5596, 5600, 5665, 6389, and 6391 of this title, sections 286a and 334 of Title 14, Coast Guard, and sections 201, 301, 301c, 305a, and 406 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 555 to 565, 602, and 745 of this title, and enacting provisions set out as notes under sections 555 and 571 of this title and [section 1009 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section1009&num=0&edition=prelim)] and the amendments made by this title shall take effect on February 1, 1992.”
 
 #### Effective Date
-Chapter effective Sept. 15, 1981, but the authority to prescribe regulations under this chapter effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this chapter effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under [section 611 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-611).
@@ -34,7 +34,7 @@ Pub. L. 100–456, div. A, title IV, § 402(c), Sept. 29, 1988, 102 Stat. 1963, 
 
 Pub. L. 100–180, div. A, title IV, § 402, Dec. 4, 1987, 101 Stat. 1081, as amended by Pub. L. 100–456, div. A, title IV, § 402(b), Sept. 29, 1988, 102 Stat. 1963, provided that: “(a) Authority To Increase for Fiscal Year 1988.—Subject to subsection (b), the Secretary of Defense may increase by not more than 1 percentage point (to not more than 98 percent) the percentage limitation prescribed in section 403(a) of the National Defense Authorization Act for Fiscal Year 1987 (Public Law 99–661; 100 Stat. 3859) [set out below] applicable to the total number of commissioned officers of the Army, Navy, Air Force, and Marine Corps that may be serving on active duty as of September 30, 1988. “(b) Certification and Report.—The Secretary may exercise the authority under subsection (a) only if—“(1) the Secretary makes a determination that such increase is necessary in order to avoid severe personnel management problems in the Army, Navy, Air Force, and Marine Corps during fiscal year 1988 and certifies such determination to the Committees on Armed Services of the Senate and the House of Representatives; and “(2) the Secretary submits to those Committees with such certification a report providing legislative recommendations for temporary changes in chapter 36 of title 10, United States Code, and other provisions of law enacted by the Defense Officer Personnel Management Act (Public Law 96–513) [see Tables for classification] that the Secretary considers necessary in order to implement the required officer reductions under such section 403 [set out below] with the least possible adverse effect on the Armed Forces.”
 
-Pub. L. 99–661, div. A, title IV, § 403, Nov. 14, 1986, 100 Stat. 3859, as amended by Pub. L. 100–456, div. A, title IV, § 402(a), Sept. 29, 1988, 102 Stat. 1963; Pub. L. 101–189, div. A, title VI, § 653(e)(2), Nov. 29, 1989, 103 Stat. 1463; Pub. L. 103–337, div. A, title XVI, § 1677(e), Oct. 5, 1994, 108 Stat. 3020, provided that: “(a) Reduction in Size of Officer Corps.—On and after each of the dates set forth in column 1 of the following table, the total number of commissioned officers serving on active duty in the Army, Navy, Air Force, and Marine Corps (excluding officers in categories specified in subsection (b)) may not exceed the percentage, set forth in column 2 opposite such date, of the total number of commissioned officers serving on active duty as of September 30, 1986 (excluding officers in categories specified in subsection (b)): Column 1Column 2 On and after:Percentage of total commissioned officers serving onactive duty as ofSeptember 30, 1986: September 30, 198799 September 30, 198897 “(b) Exclusions.—In computing the authorized strength of commissioned officers under subsection (a), officers in the following categories shall be excluded:“(1) Reserve officers—“(A) on active duty for training; “(B) on active duty under section 10148(a), 10211, 10302 through 10305, 12301(a), or 12402 of title 10, United States Code, or under [section 708 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section708&num=0&edition=prelim), United States Code; “(C) on active duty under [section 12301(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12301/d&num=0&edition=prelim), United States Code, in connection with organizing, administering, recruiting, instructing, or training the reserve components or the National Guard; “(D) on active duty to pursue special work; “(E) ordered to active duty under [section 12304 of title 10](./chapter-1209-active-duty.md#section-12304), United States Code; or “(F) on full-time National Guard duty. “(2) Retired officers on active duty under a call or order to active duty for 180 days or less. “(3) Reserve or retired officers on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) for the administration of the Selective Service System. “(c) Apportionment of Reductions by Secretary of Defense.—The Secretary of Defense shall apportion the reductions in the number of commissioned officers serving on active duty required by subsection (a) among the Army, Navy, Air Force, and Marine Corps. Not later than February 1 of each fiscal year in which reductions are required under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the manner in which the reductions have been or are to be apportioned for that fiscal year and for the next fiscal year for which such reductions are required.”
+Pub. L. 99–661, div. A, title IV, § 403, Nov. 14, 1986, 100 Stat. 3859, as amended by Pub. L. 100–456, div. A, title IV, § 402(a), Sept. 29, 1988, 102 Stat. 1963; Pub. L. 101–189, div. A, title VI, § 653(e)(2), Nov. 29, 1989, 103 Stat. 1463; Pub. L. 103–337, div. A, title XVI, § 1677(e), Oct. 5, 1994, 108 Stat. 3020, provided that: “(a) Reduction in Size of Officer Corps.—On and after each of the dates set forth in column 1 of the following table, the total number of commissioned officers serving on active duty in the Army, Navy, Air Force, and Marine Corps (excluding officers in categories specified in subsection (b)) may not exceed the percentage, set forth in column 2 opposite such date, of the total number of commissioned officers serving on active duty as of September 30, 1986 (excluding officers in categories specified in subsection (b)): Column 1Column 2 On and after:Percentage of total commissioned officers serving onactive duty as ofSeptember 30, 1986: September 30, 198799 September 30, 198897 “(b) Exclusions.—In computing the authorized strength of commissioned officers under subsection (a), officers in the following categories shall be excluded:“(1) Reserve officers—“(A) on active duty for training; “(B) on active duty under section 10148(a), 10211, 10302 through 10305, 12301(a), or 12402 of title 10, United States Code, or under [section 708 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section708&num=0&edition=prelim), United States Code; “(C) on active duty under [section 12301(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12301/d&num=0&edition=prelim), United States Code, in connection with organizing, administering, recruiting, instructing, or training the reserve components or the National Guard; “(D) on active duty to pursue special work; “(E) ordered to active duty under [section 12304 of title 10](./chapter-1209-active-duty.md#section-12304), United States Code; or “(F) on full-time National Guard duty. “(2) Retired officers on active duty under a call or order to active duty for 180 days or less. “(3) Reserve or retired officers on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) [now [50 U.S.C. 3809(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3809/b/2&num=0&edition=prelim)] for the administration of the Selective Service System. “(c) Apportionment of Reductions by Secretary of Defense.—The Secretary of Defense shall apportion the reductions in the number of commissioned officers serving on active duty required by subsection (a) among the Army, Navy, Air Force, and Marine Corps. Not later than February 1 of each fiscal year in which reductions are required under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the manner in which the reductions have been or are to be apportioned for that fiscal year and for the next fiscal year for which such reductions are required.”
 
 
 <a id="section-522"></a>
@@ -78,9 +78,11 @@ Repeal effective on the first day of the first month beginning more than 180 day
 
 (6) Retired officers on active duty under a call or order to active duty for 180 days or less.
 
-(7) Retired officers on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) for the administration of the Selective Service System.
+(7) Retired officers on active duty under section 10(b)(2) of the Military Selective Service Act ([50 U.S.C. 3809(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3809/b/2&num=0&edition=prelim)) for the administration of the Selective Service System.
 
 (8) Permanent professors of the United States Military Academy and the United States Air Force Academy and professors of the United States Naval Academy who are career military professors (as defined in regulations prescribed by the Secretary of the Navy), but not to exceed 50 from any such academy.
+
+(9) Officers who are Senior Military Acquisition Advisors under [section 1725 of this title](./chapter-087-defense-acquisition-workforce.md#section-1725), but not to exceed 15.
 
 **(c)** Whenever the number of officers serving in any grade is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.
 
@@ -89,6 +91,10 @@ Repeal effective on the first day of the first month beginning more than 180 day
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (b)(7). Pub. L. 114–328, § 1081(b)(1)(A)(iii), substituted “([50 U.S.C. 3809(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3809/b/2&num=0&edition=prelim))” for “(50 U.S.C. App. 460(b)(2))”.
+
+Subsec. (b)(9). Pub. L. 114–328, § 866(b), added par. (9).
+
 2011—Subsec. (a)(1). Pub. L. 112–81, in table, increased number of officers authorized to serve on active duty in the Marine Corps in each grade covered as follows: Major to 2,802, 3,247, 3,691, 4,135, 4,579, 5,024, and 5,468 from 2,525, 2,900, 3,275, 3,650, 4,025, 4,400, and 4,775, respectively; Lieutenant Colonel to 1,615, 1,768, 1,922, 2,076, 2,230, 2,383, and 2,537 from 1,480, 1,600, 1,720, 1,840, 1,960, 2,080, and 2,200, respectively; and Colonel to 633, 658, 684, 710, 736, 762, and 787 from 571, 632, 653, 673, 694, 715, and 735, respectively.
 
 2008—Subsec. (a)(1). Pub. L. 110–181, § 404, in table, increased number of officers authorized to serve on active duty in the Army in the grade of Major to 7,768, 8,689, 9,611, 10,532, 11,454, 12,375, 13,297, 14,218, 15,140, 16,061, 16,983, 17,903, 18,825, 19,746, 20,668, 21,589, 22,511, 24,354, 26,197, 28,040, and 35,412 from 6,948, 7,539, 8,231, 8,922, 9,614, 10,305, 10,997, 11,688, 12,380, 13,071, 13,763, 14,454, 15,146, 15,837, 16,529, 17,220, 17,912, 19,295, 20,678, 22,061, and 27,593, respectively.
@@ -151,6 +157,9 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 #### Effective Date of 1985 Amendment
 Pub. L. 99–145, title V, § 511(b), Nov. 8, 1985, 99 Stat. 623, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1985.”
 
+#### Effective Date
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+
 #### Temporary Variation in DOPMA Authorized End Strength Limitations for Active Duty Air Force and Navy Officers in Certain Grades
 Pub. L. 104–106, div. A, title IV, § 402, Feb. 10, 1996, 110 Stat. 286, provided that the numbers of officers of the Air Force authorized under subsec. (a)(1) of this section to be serving on active duty in the grades of major, lieutenant colonel, and colonel for fiscal years 1996 and 1997 and the numbers of officers in the Navy authorized under subsec. (a)(2) of this section to be serving on active duty in the grades of lieutenant commander, commander, and captain for fiscal years 1996 and 1997 were limited to numbers in tables, prior to repeal by Pub. L. 104–201, div. A, title IV, § 403(c)(3), Sept. 23, 1996, 110 Stat. 2506.
 
@@ -211,9 +220,9 @@ For provisions increasing for the fiscal year ending on Sept. 30, 1981, the maxi
 
   (A) 2 officers in the grade of general;
 
-  (B) 15 officers in a grade above the grade of major general; or
+  (B) 17 officers in a grade above the grade of major general; or
 
-  (C) 23 officers in the grade of major general.
+  (C) 22 officers in the grade of major general.
 
 **(b)** The limitations of subsection (a) do not include the following:
 
@@ -258,6 +267,10 @@ For provisions increasing for the fiscal year ending on Sept. 30, 1981, the maxi
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a)(4)(B). Pub. L. 114–328, § 503(a)(1), substituted “17” for “15”.
+
+Subsec. (a)(4)(C). Pub. L. 114–328, § 503(a)(2), substituted “22” for “23”.
+
 2011—Subsec. (a). Pub. L. 112–81, § 502(b)(2)(A)–(C), substituted “46” for “45” in par. (1)(B), “44” for “43” in par. (2)(B), and “33” for “32” in par. (3)(B).
 
 Subsec. (a)(4)(C). Pub. L. 112–81, § 502(b)(2)(D), substituted “23” for “22”.
@@ -357,6 +370,9 @@ Pub. L. 107–314, div. A, title IV, § 404(d), Dec. 2, 2002, 116 Stat. 2526, pr
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub. L. 97–86, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
+#### Effective Date
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+
 #### Implementation of 2000 Amendments
 Pub. L. 106–398, § 1 [[div. A], title V, § 507(i)], Oct. 30, 2000, 114 Stat. 1654, 1654A–106, provided that: “(1) An appointment or reappointment, in the case of the incumbent in a reserve component chief position, shall be made to each of the reserve component chief positions not later than 12 months after the date of the enactment of this Act [Oct. 30, 2000], in accordance with the amendments made by subsections (a) through (e) [amending sections 3038, 5143, 5144, 8038, and 10506 of this title]. “(2) An officer serving in a reserve component chief position on the date of the enactment of this Act [Oct. 30, 2000] may be reappointed to that position under the amendments made by subsection (a) through (e), if eligible and otherwise qualified in accordance with those amendments. If such an officer is so reappointed, the appointment may be made for the remainder of the officer’s original term or for a full new term, as specified at the time of the appointment. “(3) An officer serving on the date of the enactment of this Act [Oct. 30, 2000] in a reserve component chief position may continue to serve in that position in accordance with the provisions of law in effect immediately before the amendments made by this section [amending this section and sections 3038, 5143, 5144, 8038, and 10506 of this title and repealing [section 12505 of this title](./chapter-1213-special-appointments-assignments-details-and-duties.md#section-12505)] until a successor is appointed under paragraph (1) (or that officer is reappointed under paragraph (1)). “(4) The amendments made by subsection (g) [amending this section] shall be implemented so that each increase authorized by those amendments in the number of officers in the grades of lieutenant general and vice admiral is implemented on a case-by-case basis with an initial appointment made after the date of the enactment of this Act [Oct. 30, 2000], as specified in paragraph (1), to a reserve component chief position. “(5) For purposes of this subsection, the term ‘reserve component chief position’ means a position specified in section 3038, 5143, 5144, or 8038 of title 10, United States Code, or the position of Director, Army National Guard or Director, Air National Guard under section 10506(a)(1) of such title.”
 
@@ -365,6 +381,9 @@ Pub. L. 100–180, div. A, title V, § 511(b), Dec. 4, 1987, 101 Stat. 1088, pro
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Reduction in Number of General and Flag Officers on Active Duty and Authorized Strength After December 31, 2022, of Such General and Flag Officers
+Pub. L. 114–328, div. A, title V, § 501(a)–(g), Dec. 23, 2016, 130 Stat. 2096–2099, provided that: “(a) Reduction in Number of General and Flag Officers by December 31, 2022.—“(1) Required reduction.—Except as otherwise provided by an Act enacted after the date of the enactment of this Act [Dec. 23, 2016] that expressly modifies the requirements of this paragraph, by not later than December 31, 2022, the Secretary of Defense shall reduce the number of general and flag officers on active duty by 110 from the aggregate authorized number of general and flag officers authorized by sections 525 and 526 of title 10, United States Code, as of December 31, 2015. “(2) Distribution of authorized positions.—Effective as of December 31, 2022, and reflecting the reduction required by paragraph (1), authorized general and flag officer positions shall be distributed among the Army, Navy, Air Force, Marine Corps, and joint pool as follows:“(A) The Army is authorized 220 positions in the general officer grades. “(B) The Navy is authorized 151 positions in the flag officer grades. “(C) The Air Force is authorized 187 positions in the general officer grades. “(D) The Marine Corps is authorized 62 positions in the general officer grades. “(E) The joint pool is authorized 232 positions in the general or flag officer grades, to be distributed as follows:“(i) 82 positions in the general officer grades from the Army. “(ii) 60 positions in the flag officer grades from the Navy. “(iii) 69 positions in the general officer grades from the Air Force. “(iv) 21 positions in the general officer grades from the Marine Corps. “(3) Temporary additional joint pool allocation.—In addition to the positions authorized by paragraph (2), the 30 general and flag officer positions designated for overseas contingency operations are authorized as an additional maximum temporary allocation to the joint pool. “(b) Plan to Achieve Required Reduction and Distribution.—“(1) Plan required.—Utilizing the study conducted under subsection (c), the Secretary of Defense shall develop a plan to achieve, by the date specified in subsection (a)(1)—“(A) the reduction required by such subsection in the number of general and flag officers; and “(B) the distribution of authorized positions required by subsection (a)(2). “(2) Submission of plan.—When the budget for the Department of Defense for fiscal year 2019 is submitted to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth the plan developed under this subsection. “(3) Progress reports.—The Secretary of Defense shall include with the budget for the Department of Defense for each of fiscal years 2020, 2021, and 2022 a report describing and assessing the progress of the Secretary in implementing the plan developed under this subsection. “(c) Study for Purposes of Plan.—“(1) Study required.—For purposes of complying with subsection (a) and preparing the plan required by subsection (b), the Secretary of Defense shall conduct a comprehensive and deliberate global manpower study of requirements for general and flag officers with the goal of identifying—“(A) the requirement justification for each general or flag officer position in terms of overall force structure, scope of responsibility, command and control requirements, and force readiness and execution; “(B) an additional 10 percent reduction in the aggregate number of authorized general officer and flag officer positions after the reductions required by subsection (a); and “(C) an appropriate redistribution of all general officer and flag officer positions within the reductions so identified. “(2) Submission of study results.—Not later than April 1, 2017, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth the results of the study conducted under this subsection, including the justification for general and flag officer position to be retained and the reductions identified by general and flag officer position. “(3) Interim report.—If practicable before the date specified in paragraph (2), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives an interim report describing the progress made toward the completion of the study under this subsection, including—“(A) the specific general and flag officer positions that have been evaluated; “(B) the results of that evaluation; and “(C) recommendations for achieving the additional 10 percent reduction in the aggregate number of authorized general officer and flag officer positions to be identified under paragraph (1)(C) and recommendations for redistribution of general and flag officer positions that have been developed to that point. “(d) Exclusions.—“(1) Related to joint duty assignments.—For purposes of complying with subsection (a), the Secretary of Defense may exclude—“(A) a general or flag officer released from a joint duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty assignment, except that the Secretary may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, but not more than three officers on active duty from each Armed Force may be covered by the additional extension at the same time; and “(B) the number of officers required to serve in joint duty assignments for each Armed Force as authorized by the Secretary under [section 526a(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section526a/b&num=0&edition=prelim), United States Code, as added by subsection (h) of this section. “(2) Related to relief from chief of staff duty.—For purposes of complying with subsection (a), the Secretary of Defense may exclude an officer who continues to hold the grade of general or admiral under [section 601(b)(5) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section601/b/5&num=0&edition=prelim), United States Code, after relief from the position of Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, or Commandant of the Marine Corps. “(3) Related to retirement, separation, release, or relief.—For purposes of complying with subsection (a), the Secretary of Defense may exclude the following officers:“(A) An officer of an Armed Force in the grade of brigadier general or above or, in the case of the Navy, in the grade of rear admiral (lower half) or above, who is on leave pending the retirement, separation, or release of that officer from active duty, but only during the 60-day period beginning on the date of the commencement of such leave of such officer. “(B) An officer of an Armed Force who has been relieved from a position designated under [section 601(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section601/a&num=0&edition=prelim), United States Code, or by law to carry one of the grades specified in such section, but only during the 60-day period beginning on the date on which the assignment of the officer to the first position is terminated or until the officer is assigned to a second such position, whichever occurs first. “(e) Secretarial Authority to Grant Exceptions to Limitations.—“(1) In general.—Subject to paragraph (2), the Secretary of Defense may alter the reduction otherwise required by subsection (a)(1) in the number of general and flag officer or the distribution of authorized positions otherwise required by subsection (a)(2) in the interest of the national security of the United States. “(2) Notice to congress of exceptions.—Not later than 30 days after authorizing a number of general or flag officers in excess of the number required as a result of the reduction required by subsection (a)(1) or altering the distribution of authorized positions under subsection (a)(2), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives written notice of such exception, including a statement of the reason for such exception and the anticipated duration of the exception. “(f) Orderly Transition for Officers Recently Assigned to Positions to Be Eliminated.—“(1) Covered officers.—In order to provide an orderly transition for personnel in general or flag officer positions to be eliminated pursuant to the plan prepared under subsection (b), any general or flag officer who has not completed, as of December 31, 2022, at least 24 months in a position to be eliminated pursuant to the plan may remain in the position until the last day of the month that is 24 months after the month in which the officer assumed the duties of the position. “(2) Report to congress on covered officers.—The Secretary of Defense shall include in the annual report required by [section 526(j) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section526/j&num=0&edition=prelim), United States Code, in 2020 a description of the positions in which an officer will remain pursuant to paragraph (1), including the latest date on which the officer may remain in such position pursuant to that paragraph. “(3) Notice to congress on detachment of covered officers.—The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a notice on the date on which each officer covered by paragraph (1) is detached from the officer’s position pursuant to such paragraph. “(g) Relation to Subsequent General or Flag Nominations.—“(1) Notice to senate with nomination.—In order to help achieve the requirements of the plan required by subsection (b), effective 30 days after the commencement of the implementation of the plan, the Secretary of Defense shall include with each nomination of an officer to a grade above colonel or captain (in the case of the Navy) that is forwarded by the President to the Senate for appointment, by and with the advice and consent of the Senate, a certification to the Committee on Armed Services of the Senate that the appointment of the officer to the grade concerned will not interfere with achieving the reduction required by subsection (a)(1) in the number of general and flag officer positions or the distribution of authorized positions required by subsection (a)(2). “(2) Implementation.—Not later than 120 days after the date of the submission of the plan required by subsection (b), the Secretary of Defense shall revise applicable guidance of the Department of Defense on general and flag officer authorizations in order to ensure that—“(A) the achievement of the reductions required pursuant to subsection (a) is incorporated into the planning for the execution of promotions by the military departments and for the joint pool; “(B) to the extent practicable, the resulting grades for general and flag officer positions are uniformly applied to positions of similar duties and responsibilities across the military departments and the joint pool; and “(C) planning achieves a reduction in the headquarters functions and administrative and support activities and staffs of the Department of Defense and the military departments commensurate with the achievement of the reductions required pursuant to subsection (a).”
 
 #### Delayed Authority To Alter Distribution Requirements for Commissioned Officers on Active Duty in General Officer and Flag Officer Grades and Limitations on Authorized Strengths of General and Flag Officers on Active Duty
 Pub. L. 110–417, [div. A], title V, § 506, Oct. 14, 2008, 122 Stat. 4434, related to distribution requirements for commissioned officers on active duty in general officer and flag officer grades and limitations on authorized strengths of general and flag officers on active duty, prior to repeal by Pub. L. 111–84, div. A, title V, § 502(j), Oct. 28, 2009, 123 Stat. 2277.
@@ -404,7 +423,7 @@ Pub. L. 97–252, title XI, § 1116, Sept. 8, 1982, 96 Stat. 750.
 
 (3) For the Air Force, 198.
 
-(4) For the Marine Corps, 61.
+(4) For the Marine Corps, 62.
 
 **(b) Limited Exclusion for Joint Duty Requirements.—**
 
@@ -496,6 +515,8 @@ Pub. L. 97–252, title XI, § 1116, Sept. 8, 1982, 96 Stat. 750.
 
 (2) the number of general officers and flag officers in joint duty assignments who, as of such January 1, counted toward the statutory limit under subsection (b)(1).
 
+**(k) Cessation of Applicability.—** The provisions of this section shall not apply to number 11 So in original. Probably should be preceded by “the”. of general officers and flag officers in the armed forces after December 31, 2022. For provisions applicable to the number of such officers after that date, see [section 526a of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-526a).
+
 ### Statutory Notes
 
 #### Historical and Revision Notes
@@ -507,6 +528,10 @@ Present law (section 811(a) of Public Law 95–79, as amended) provides that the
 A prior section 526 was renumbered [section 527 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-527).
 
 #### Amendments
+2016—Subsec. (a)(4). Pub. L. 114–328, § 503(b), substituted “62” for “61”.
+
+Subsec. (k). Pub. L. 114–328, § 501(h)(2), added subsec. (k).
+
 2013—Subsec. (a)(2). Pub. L. 112–239 substituted “162” for “160”.
 
 Subsecs. (c) to (g). Pub. L. 113–66, § 501(a)(1), redesignated subsecs. (d) to (h) as (c) to (g), respectively.
@@ -622,8 +647,78 @@ Pub. L. 112–81, div. A, title V, § 502(c)(2), Dec. 31, 2011, 125 Stat. 1387, 
 #### Effective Date of 1990 Amendment
 Pub. L. 101–510, div. A, title IV, § 403(a), Nov. 5, 1990, 104 Stat. 1545, provided that the amendment made by that section is effective Sept. 30, 1991.
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (j) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
 #### Acquisition and Contracting Billets
 Pub. L. 110–417, [div. A], title V, § 503(e), Oct. 14, 2008, 122 Stat. 4434, provided that: “(1) Reservation of army increase.—The increase in the number of general officers on active duty in the Army, as authorized by the amendment made by subsection (a) [amending this section] is reserved for general officers in the Army who serve in an acquisition position. “(2) Reservation of portion of increase in joint duty assignments excluded from limitation.—Of the increase in the number of general officer and flag officer joint duty assignments that may be designated for exclusion from the limitations on the number of general officers and flag officers on active duty, as authorized by the amendment made by subsection (c) [amending this section], five of the designated assignments are reserved for general officers or flag officers who serve in an acquisition position, including one assignment in the Defense Contract Management Agency.”
+
+
+<a id="section-526a"></a>
+## § 526a. Authorized strength after December 31, 2022: general officers and flag officers on active duty
+**(a) Limitations.—** The number of general officers on active duty in the Army, Air Force, and Marine Corps, and the number of flag officers on active duty in the Navy, after December 31, 2022, may not exceed the number specified for the armed force concerned as follows:
+
+(1) For the Army, 220.
+
+(2) For the Navy, 151.
+
+(3) For the Air Force, 187.
+
+(4) For the Marine Corps, 62.
+
+**(b) Limited Exclusion for Joint Duty Requirements.—**
+
+(1) **In general.—** — The Secretary of Defense may designate up to 232 general officer and flag officer positions that are joint duty assignments for purposes of chapter 38 of this title for exclusion from the limitations in subsection (a).
+
+(2) **Minimum number.—** — Unless the Secretary of Defense determines that a lower number is in the best interest of the Department of Defense, the minimum number of officers serving in positions designated under paragraph (1) for each armed force shall be as follows:
+
+  (A) For the Army, 75.
+
+  (B) For the Navy, 53.
+
+  (C) For the Air Force, 68.
+
+  (D) For the Marine Corps, 17.
+
+**(c) Exclusion of Certain Officers Pending Separation or Retirement or Between Senior Positions.—** The limitations of this section do not apply to—
+
+(1) an officer of an armed force in the grade of brigadier general or above or, in the case of the Navy, in the grade of rear admiral (lower half) or above, who is on leave pending the retirement, separation, or release of that officer from active duty, but only during the 60-day period beginning on the date of the commencement of such leave of such officer; or
+
+(2) an officer of an armed force who has been relieved from a position designated under [section 601(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section601/a&num=0&edition=prelim) or by law to carry one of the grades specified in such section, but only during the 60-day period beginning on the date on which the assignment of the officer to the first position is terminated or until the officer is assigned to a second such position, whichever occurs first.
+
+**(d) Temporary Exclusion for Assignment to Certain Temporary Billets.—**
+
+(1) **In general.—** — The limitations in subsection (a) do not apply to a general officer or flag officer assigned to a temporary joint duty assignment designated by the Secretary of Defense.
+
+(2) **Duration of exclusion.—** — A general officer or flag officer assigned to a temporary joint duty assignment as described in paragraph (1) may not be excluded under this subsection from the limitations in subsection (a) for a period of longer than one year.
+
+**(e) Exclusion of Officers Departing From Joint Duty Assignments.—** The limitations in subsection (a) do not apply to an officer released from a joint duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty assignment. The Secretary of Defense may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, except that not more than three officers on active duty from each armed force may be covered by the additional extension at the same time.
+
+**(f) Active-Duty Baseline.—**
+
+(1) **Notice and wait requirements.—** — If the Secretary of a military department proposes an action that would increase above the baseline the number of general officers or flag officers of an armed force under the jurisdiction of that Secretary who would be on active duty and would count against the statutory limit applicable to that armed force under subsection (a), the action shall not take effect until after the end of the 60-calendar day period beginning on the date on which the Secretary provides notice of the proposed action, including the rationale for the action, to the Committees on Armed Services of the Senate and the House of Representatives.
+
+(2) **Baseline defined.—** — In paragraph (1), the term “baseline” for an armed force means the lower of—
+
+  (A) the statutory limit of general officers or flag officers of that armed force under subsection (a); or
+
+  (B) the actual number of general officers or flag officers of that armed force who, as of January 1, 2023, counted toward the statutory limit of general officers or flag officers of that armed force under subsection (a).
+
+**(g) Joint Duty Assignment Baseline.—**
+
+(1) **Notice and wait requirement.—** — If the Secretary of Defense, the Secretary of a military department, or the Chairman of the Joint Chiefs of Staff proposes an action that would increase above the baseline the number of general officers and flag officers of the armed forces in joint duty assignments who count against the statutory limit under subsection (b)(1), the action shall not take effect until after the end of the 60-calendar day period beginning on the date on which such Secretary or the Chairman, as the case may be, provides notice of the proposed action, including the rationale for the action, to the Committees on Armed Services of the Senate and the House of Representatives.
+
+(2) **Baseline defined.—** — In paragraph (1), the term “baseline” means the lower of—
+
+  (A) the statutory limit on general officer and flag officer positions that are joint duty assignments under subsection (b)(1); or
+
+  (B) the actual number of general officers and flag officers who, as of January 1, 2023, were in joint duty assignments counted toward the statutory limit under subsection (b)(1).
+
+**(h) Annual Report.—** Not later than March 1 each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report specifying the following:
+
+(1) The numbers of general officers and flag officers who, as of January 1 of the calendar year in which the report is submitted, counted toward the service-specific limits of subsection (a).
+
+(2) The number of general officers and flag officers in joint duty assignments who, as of such January 1, counted toward the statutory limit under subsection (b)(1).
 
 
 <a id="section-527"></a>
@@ -643,6 +738,9 @@ The National Emergencies Act, referred to in text, is Pub. L. 94–412, Sept. 14
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
+#### Effective Date
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
 #### Delegation of Functions
 Functions of President under this section to suspend operation of sections 523, 524 [now 12011], and 525 of this title, relating to authorized strength of commissioned officers, delegated to Secretary of Defense to perform during a time of war or national emergency, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, provided that, during a national emergency declared by President, the exercise of any such authority be specifically directed by President in accordance with [section 1631 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1631&num=0&edition=prelim), War and National Defense, and that Secretary ensure that actions taken pursuant to any authority so delegated be accounted for as required by [section 1641 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1641&num=0&edition=prelim), see Ex. Ord. No. 12396, §§ 2, 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.

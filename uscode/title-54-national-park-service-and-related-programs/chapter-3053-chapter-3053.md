@@ -20,7 +20,7 @@ In this chapter:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 305301 | [16 U.S.C. 470x–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470x–1&num=0&edition=prelim) | Pub. L. 89–665, title IV, § 402, as added Pub. L. 102–575, title XL, § 4022, Oct. 30, 1992, 106 Stat. 4766. |
+| 305301 | [16 U.S.C. 470x–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470x–1&num=0&edition=prelim). | Pub. L. 89–665, title IV, § 402, as added Pub. L. 102–575, title XL, § 4022, Oct. 30, 1992, 106 Stat. 4766. |
 
 
 <a id="section-305302"></a>
@@ -50,7 +50,7 @@ In this chapter:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 305302 | [16 U.S.C. 470x–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470x–2&num=0&edition=prelim) | Pub. L. 89–665, title IV, § 403, as added Pub. L. 102–575, title XL, § 4022, Oct. 30, 1992, 106 Stat. 4766. |
+| 305302 | [16 U.S.C. 470x–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470x–2&num=0&edition=prelim). | Pub. L. 89–665, title IV, § 403, as added Pub. L. 102–575, title XL, § 4022, Oct. 30, 1992, 106 Stat. 4766. |
 
 
 <a id="section-305303"></a>
@@ -78,7 +78,7 @@ In this chapter:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 305303 | [16 U.S.C. 470x–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470x–3&num=0&edition=prelim) | Pub. L. 89–665, title IV, § 404, as added Pub. L. 102–575, title XL, § 4022, Oct. 30, 1992, 106 Stat. 4766; Pub. L. 106–208, § 5(a)(14), May 26, 2000, 114 Stat. 319. |
+| 305303 | [16 U.S.C. 470x–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470x–3&num=0&edition=prelim). | Pub. L. 89–665, title IV, § 404, as added Pub. L. 102–575, title XL, § 4022, Oct. 30, 1992, 106 Stat. 4766; Pub. L. 106–208, § 5(a)(14), May 26, 2000, 114 Stat. 319. |
 
 In subsection (c)(1), the words “or the Secretary’s designee” are omitted as unnecessary because of section 2 of Reorganization Plan No. 3 of 1950 (5 U.S.C. App., [43 U.S.C. 1451](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim) note).
 
@@ -120,7 +120,7 @@ In subsection (c)(1), the words “or the Secretary’s designee” are omitted 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 305304 | [16 U.S.C. 470x–4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470x–4&num=0&edition=prelim) | Pub. L. 89–665, title IV, § 405, as added Pub. L. 102–575, title XL, § 4022, Oct. 30, 1992, 106 Stat. 4767. |
+| 305304 | [16 U.S.C. 470x–4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470x–4&num=0&edition=prelim). | Pub. L. 89–665, title IV, § 405, as added Pub. L. 102–575, title XL, § 4022, Oct. 30, 1992, 106 Stat. 4767. |
 
 The text of [16 U.S.C. 470x–4(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470x–4/e&num=0&edition=prelim) is omitted as unnecessary.
 
@@ -142,7 +142,7 @@ The text of [16 U.S.C. 470x–4(e)](https://uscode.house.gov/view.xhtml?req=gran
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 305305 | [16 U.S.C. 470x–5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470x–5&num=0&edition=prelim) | Pub. L. 89–665, title IV, § 406, as added Pub. L. 102–575, title XL, § 4022, Oct. 30, 1992, 106 Stat. 4767. |
+| 305305 | [16 U.S.C. 470x–5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470x–5&num=0&edition=prelim). | Pub. L. 89–665, title IV, § 406, as added Pub. L. 102–575, title XL, § 4022, Oct. 30, 1992, 106 Stat. 4767. |
 
 In subsection (c), the text of [16 U.S.C. 470x–5(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470x–5/c&num=0&edition=prelim) (1st sentence) is omitted as unnecessary.
 
@@ -157,4 +157,4 @@ To improve the use of existing Service resources, the Secretary shall fully util
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 305306 | [16 U.S.C. 470x–6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470x–6&num=0&edition=prelim) | Pub. L. 89–665, title IV, § 407, as added Pub. L. 102–575, title XL, § 4022, Oct. 30, 1992, 106 Stat. 4768. |
+| 305306 | [16 U.S.C. 470x–6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470x–6&num=0&edition=prelim). | Pub. L. 89–665, title IV, § 407, as added Pub. L. 102–575, title XL, § 4022, Oct. 30, 1992, 106 Stat. 4768. |

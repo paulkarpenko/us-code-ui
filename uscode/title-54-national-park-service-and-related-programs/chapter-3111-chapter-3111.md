@@ -22,7 +22,7 @@ In this chapter:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 311101 | [16 U.S.C. 469n(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469n/b&num=0&edition=prelim) | Pub. L. 111–11, title VII, subtitle D, § 7302(b), Mar. 30, 2009, 123 Stat. 1214. |
+| 311101 | [16 U.S.C. 469n(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469n/b&num=0&edition=prelim). | Pub. L. 111–11, title VII, subtitle D, § 7302(b), Mar. 30, 2009, 123 Stat. 1214. |
 
 
 <a id="section-311102"></a>
@@ -76,14 +76,14 @@ In this chapter:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 311102 | [16 U.S.C. 469n(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469n/c&num=0&edition=prelim) | Pub. L. 111–11, title VII, subtitle D, § 7302(c), Mar. 30, 2009, 123 Stat. 1214. |
+| 311102 | [16 U.S.C. 469n(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469n/c&num=0&edition=prelim). | Pub. L. 111–11, title VII, subtitle D, § 7302(c), Mar. 30, 2009, 123 Stat. 1214. |
 
 
 <a id="section-311103"></a>
 ## § 311103. Designation of Preserve America Communities
 **(a) Application.—** To be considered for designation as a Preserve America Community, a community, tribal area, or neighborhood shall submit to the Council an application containing such information as the Council may require.
 
-**(b) Criteria.—** To be designated as a Preserve America Community under the program, a community, tribal area, or neighborhood that submits an application under subsection (a) shall, as determined by the Council, in consultation with the Secretary, meet criteria required by the Council and, in addition, consider—
+**(b) Criteria.—** To be designated as a Preserve America Community under the program, a community, tribal area, or neighborhood that submits an application under subsection (a) shall, as determined by the Chairman of the Council, in consultation with the Secretary, meet criteria required by the Chairman of the Council and, in addition, consider—
 
 (1) protection and celebration of the heritage of the community, tribal area, or neighborhood;
 
@@ -93,14 +93,19 @@ In this chapter:
 
 **(c) Local Governments Previously Certified for Historic Preservation Activities.—** The Council shall establish an expedited process for Preserve America Community designation for local governments previously certified for historic preservation activities under [section 302502 of this title](./chapter-3025-chapter-3025.md#section-302502).
 
-**(d) Guidelines.—** The Council, in consultation with the Secretary, shall establish any guidelines that are necessary to carry out this section.
+**(d) Guidelines.—** The Chairman of the Council, in consultation with the Secretary, shall establish any guidelines that are necessary to carry out this section.
 
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 311103 | [16 U.S.C. 469n(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469n/d&num=0&edition=prelim) | Pub. L. 111–11, title VII, subtitle D, § 7302(d), Mar. 30, 2009, 123 Stat. 1215. |
+| 311103 | [16 U.S.C. 469n(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469n/d&num=0&edition=prelim). | Pub. L. 111–11, title VII, subtitle D, § 7302(d), Mar. 30, 2009, 123 Stat. 1215. |
+
+#### Amendments
+2016—Subsec. (b). Pub. L. 114–289 substituted “Chairman of the Council” for “Council” in two places in introductory provisions.
+
+Subsec. (d). Pub. L. 114–289 substituted “Chairman of the Council” for “Council”.
 
 
 <a id="section-311104"></a>
@@ -113,7 +118,7 @@ The Secretary shall develop any guidelines and issue any regulations that the Se
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 311104 | [16 U.S.C. 469n(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469n/e&num=0&edition=prelim) | Pub. L. 111–11, title VII, subtitle D, § 7302(e), Mar. 30, 2009, 123 Stat. 1216. |
+| 311104 | [16 U.S.C. 469n(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469n/e&num=0&edition=prelim). | Pub. L. 111–11, title VII, subtitle D, § 7302(e), Mar. 30, 2009, 123 Stat. 1216. |
 
 
 <a id="section-311105"></a>
@@ -129,7 +134,7 @@ This section was derived from [section 469n(f) of Title 16](https://uscode.house
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 311105 | [16 U.S.C. 469n(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469n/f&num=0&edition=prelim) | Pub. L. 111–11, title VII, subtitle D, § 7302(f), Mar. 30, 2009, 123 Stat. 1216. |
+| 311105 | [16 U.S.C. 469n(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469n/f&num=0&edition=prelim). | Pub. L. 111–11, title VII, subtitle D, § 7302(f), Mar. 30, 2009, 123 Stat. 1216. |
 
 #### References in Text
 The date of enactment of the First State National Historical Park Act, referred to in Amendment Not Shown in Text note above, probably means the date of enactment of section 3033 of Pub. L. 113–291, which provided for the establishment of the First State National Historical Park and was approved Dec. 19, 2014. See [section 410rrr of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410rrr&num=0&edition=prelim), Conservation. No act with the title First State National Historical Park Act has been enacted.

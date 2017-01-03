@@ -110,7 +110,7 @@ Subsecs. (b) and (c) of [section 663 of this title](./chapter-038-joint-officer-
 
 (2) There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of the Chairman of the Joint Chiefs of Staff as Phase II instruction, consisting of—
 
-  (A) a joint professional military education curriculum taught in residence at the Joint Forces Staff College or a senior level service school that has been designated and certified by the Secretary of Defense as a joint professional military education institution; or
+  (A) a joint professional military education curriculum taught in residence at, or offered through, the Joint Forces Staff College or a senior level service school that has been designated and certified by the Secretary of Defense as a joint professional military education institution; or
 
   (B) a senior level service course of at least ten months that has been designated and certified by the Secretary of Defense as a joint professional military education course.
 
@@ -121,6 +121,8 @@ Subsecs. (b) and (c) of [section 663 of this title](./chapter-038-joint-officer-
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (a)(2)(A). Pub. L. 114–92 inserted “, or offered through,” after “taught in residence at”.
+
 2014—Subsec. (a)(2). Pub. L. 113–291 substituted “consisting of—” for “consisting of a joint professional military education curriculum taught in residence at—” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) the Joint Forces Staff College; or

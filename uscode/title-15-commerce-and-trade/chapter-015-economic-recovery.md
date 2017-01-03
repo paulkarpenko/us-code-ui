@@ -2,7 +2,7 @@
 title: 15
 chapter: '15'
 heading: ECONOMIC RECOVERY
-section_count: 42
+section_count: 46
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -125,7 +125,7 @@ Secretary of Agriculture authorized to dissolve the Delaware corporation under a
 Assets, funds, liabilities, etc., of Delaware corporation transferred to newly created Commodity Credit Corporation under authority of [section 714n of this title](./chapter-015-economic-recovery.md#section-714n).
 
 #### Subsidy Operations
-Act July 25, 1946, ch. 671, § 6, 60 Stat. 671, provided that the last paragraph of section 902(e) of Appendix to Title 50, War and National Defense, should not apply to operations of the Commodity Credit Corporation and the former Reconstruction Finance Corporation for the fiscal year ending June 30, 1947, and placed limitations on certain subsidy payments made during such fiscal year June 30, 1947.
+Act July 25, 1946, ch. 671, § 6, 60 Stat. 671, provided that the last paragraph of section 902(e) of the former Appendix to Title 50, War and National Defense, should not apply to operations of the Commodity Credit Corporation and the former Reconstruction Finance Corporation for the fiscal year ending June 30, 1947, and placed limitations on certain subsidy payments made during such fiscal year June 30, 1947.
 
 #### Increase in Certain Subsidy Payments
 Act July 31, 1945, ch. 332, 59 Stat. 506, provided that subsidy payments with respect to livestock, wheat, and butter, shall be increased to certain amounts from time to time by the Secretary of Agriculture.
@@ -523,9 +523,9 @@ Act Mar. 5, 1937, ch. 29, 50 Stat. 27, provided as follows: “That there is aut
 
   (A) use by the Secretary—
 
-    (i) to provide financial assistance for the purpose of carrying out fisheries research and development projects approved under subsection (c) of this section,11 So in original. The comma probably should be a semicolon.
+    (i) to provide financial assistance for the purpose of carrying out fisheries research and development projects approved under subsection (c),11 So in original. The comma probably should be a semicolon.
 
-    (ii) to implement the national fisheries research and development program provided for under subsection (d) of this section;
+    (ii) to implement the national fisheries research and development program provided for under subsection (d);
 
     (iii) to implement the Northwest Atlantic Ocean Fisheries Reinvestment Program established under [section 1863 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1863&num=0&edition=prelim); and
 
@@ -537,7 +537,7 @@ Act Mar. 5, 1937, ch. 29, 50 Stat. 27, provided as follows: “That there is aut
 
 **(c) Fisheries research and development projects**
 
-(1) The Secretary shall make grants from the fund established under subsection (b) of this section to assist persons in carrying out research and development projects addressed to any aspect of United States fisheries, including, but not limited to, harvesting, processing, marketing, and associated infrastructures.
+(1) The Secretary shall make grants from the fund established under subsection (b) to assist persons in carrying out research and development projects addressed to any aspect of United States fisheries, including, but not limited to, harvesting, processing, marketing, and associated infrastructures.
 
 (2) The Secretary shall—
 
@@ -583,23 +583,23 @@ Act Mar. 5, 1937, ch. 29, 50 Stat. 27, provided as follows: “That there is aut
 
 **(d) National fisheries research and development program**
 
-(1) The Secretary shall carry out a national program of research and development addressed to such aspects of United States fisheries (including, but not limited to, harvesting, processing, marketing, and associated infrastructures) if not adequately covered by proj- ects assisted under subsection (c) of this section, as the Secretary deems appropriate.
+(1) The Secretary shall carry out a national program of research and development addressed to such aspects of United States fisheries (including, but not limited to, harvesting, processing, marketing, and associated infrastructures) if not adequately covered by proj- ects assisted under subsection (c), as the Secretary deems appropriate.
 
 (2) The Secretary shall, after consultation with appropriate representatives of the fishing industry, submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives, an annual report, that must be submitted not later than 60 days before the close of each fiscal year, containing—
 
   (A) the fisheries development goals and funding priorities under paragraph (1) for the next fiscal year;
 
-  (B) a description of all pending projects assisted under subsection (c) of this section or carried out under paragraph (1), in addition to—
+  (B) a description of all pending projects assisted under subsection (c) or carried out under paragraph (1), in addition to—
 
-    (i) a list of those applications approved and those disapproved under subsection (c) of this section, and the total amount of grants made, for the current fiscal year, and
+    (i) a list of those applications approved and those disapproved under subsection (c), and the total amount of grants made, for the current fiscal year, and
 
-    (ii) a statement of the extent to which available funds were not obligated or expended by the Secretary for grants under subsection (c) of this section during the current fiscal year; and
+    (ii) a statement of the extent to which available funds were not obligated or expended by the Secretary for grants under subsection (c) during the current fiscal year; and
 
-  (C) an assessment of each project assisted under subsection (c) of this section or carried out under paragraph (1) that was completed in the preceding fiscal year regarding the extent to which (i) the objectives of the project were attained, and (ii) the project contributed to fishery development.
+  (C) an assessment of each project assisted under subsection (c) or carried out under paragraph (1) that was completed in the preceding fiscal year regarding the extent to which (i) the objectives of the project were attained, and (ii) the project contributed to fishery development.
 
 **(e) Allocation of fund moneys**
 
-(1) Notwithstanding any other provision of law, all moneys in the fund shall be used exclusively for the purpose of promoting United States fisheries in accordance with the provisions of this section, and no such moneys shall be transferred from the fund for any other purpose. With respect to any fiscal year, all moneys in the fund, including the sum of all unexpended moneys carried over into that fiscal year and all moneys transferred to the fund under subsection (b) of this section or any other provision of law with respect to that fiscal year, shall be allocated as follows:
+(1) Notwithstanding any other provision of law, all moneys in the fund shall be used exclusively for the purpose of promoting United States fisheries in accordance with the provisions of this section, and no such moneys shall be transferred from the fund for any other purpose. With respect to any fiscal year, all moneys in the fund, including the sum of all unexpended moneys carried over into that fiscal year and all moneys transferred to the fund under subsection (b) or any other provision of law with respect to that fiscal year, shall be allocated as follows:
 
   (A) the Secretary shall use no less than 60 per centum of such moneys to make direct industry assistance grants to develop the United States fisheries and to expand domestic and foreign markets for United States fishery products pursuant to subsection (c) of this section; and
 
@@ -678,6 +678,110 @@ Act Aug. 8, 1956, ch. 1036, § 12(a), 70 Stat. 1124, provided that: “The autho
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
+<a id="section-713d"></a>
+## § 713d. Declaration of purpose
+
+The purposes of this joint resolution are to aid in stabilizing the economy of the United States, to aid in curbing inflationary tendencies, to promote the orderly and equitable distribution of goods and facilities, and to aid in preventing maldistribution of goods and facilities which basically affect the cost of living or industrial production.
+
+### Statutory Notes
+
+#### References in Text
+This joint resolution, referred to in text, means act Dec. 30, 1947, ch. 526, 61 Stat. 945. For complete classification of this Act to the Code, see Tables.
+
+#### Codification
+Section was formerly classified to section 1911 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as this section.
+
+#### Ex. Ord. No. 9919. Delegation of Authority and Establishment of Procedures Under [15 U.S.C. 713d](./chapter-015-economic-recovery.md#section-713d) et seq.
+Ex. Ord. No. 9919, Jan. 3, 1948, 13 F.R. 59, provided:
+
+By virtue of the authority vested in me by the joint resolution approved December 30, 1947 (Public Law 395, 80th Congress) [[15 U.S.C. 713d](./chapter-015-economic-recovery.md#section-713d) et seq.], and as President of the United States, it is hereby ordered as follows:
+
+1. The authority to consult with representatives of industry, business, and agriculture with a view to encouraging the making of voluntary agreements or plans provided for in section 2 of the said joint resolution of December 30, 1947 [61 Stat. 945, former 50 App. U.S.C. 1912] (hereinafter referred to as the joint resolution), and the authority to approve any such agreements or plans and to make written requests for compliance with any such agreements or plans is delegated severally to the Secretary of the Interior, the Secretary of Agriculture, the Secretary of Commerce, and the Director of the Office of Defense Transportation as provided in paragraphs 2, 3, 4, and 5 hereof: Provided, however, that no such agreement or plan shall be approved by any of such officers unless it is first submitted to and approved by the Attorney General. The consultation above referred to may be through advisory committees approved by the appropriate governmental officer or agency as representative of the various segments of the industry involved. Prior to submitting any such proposed agreement or plan to the Attorney General the appropriate governmental officer or agency shall give industry, labor, and the public generally an opportunity to present their views with respect to the agreement or plan. The submission of the proposed agreement or plan to the Attorney General shall be accompanied by the favorable recommendation of the head of the appropriate department or agency and by a statement of (a) the circumstances which require the proposed agreement or plan, (b) the means by which the agreement or plan will be carried out, (c) the effect of the agreement or plan on persons and industries affected, including where appropriate the proposed degree of curtailment in amount and prospective use of any material, commodity, or product by any processor or user thereof, and the formulae for such curtailment, (d) the criteria used in the establishment of such formulae, and (e) the factual evidence on which the recommendation for approval is made, showing which information, if any, is subject to restrictions for reasons of military security.
+
+2 (a). The authority delegated to the Secretary of the Interior by paragraph 1 hereof shall be exercised by him with respect to priority, allocation, and inventory control of fuels.
+
+(b). For the purposes of this order the term “fuels” means coal, coke, petroleum and petroleum products, and natural and manufactured gas.
+
+3 (a). The authority delegated to the Secretary of Agriculture by paragraph 1 hereof shall be exercised by him with respect to priority, allocation, and inventory control of agricultural commodities and with respect to speculative trading on commodity exchanges.
+
+(b). For the purposes of this order, the term “agricultural commodities” means all commodities and products, simple, mixed, or compound, or complements to such commodities or products that are or may be eaten or drunk by human beings or animals, irrespective of other uses to which such commodities or products may be put, and at all stages of processing from the raw commodity to the product thereof in a vendible form for immediate human or animal consumption, but exclusive of such commodities and products as the Secretary of Agriculture shall determine. For the purposes of this order, the term “agricultural commodities” shall also include all starches, sugars, fats and oils of animal, vegetable, or marine origin (including oil seeds and other oil bearing materials, fatty acids, soap and soap powder), cotton, tobacco, wool, hemp, flax, fiber, and alcohol, and also such other commodities and products as the President may designate.
+
+4 (a). The authority delegated to the Director of the Office of Defense Transportation by paragraph 1 hereof shall be exercised by him with respect to allocation of transportation facilities and equipment.
+
+(b). The powers, authority, and discretion conferred on the President by section 4(a) of the joint resolution [61 Stat. 946, former 50 App. U.S.C. 1914(a)] with respect to the use of transportation equipment and facilities by rail carriers are hereby included within the powers, authority, and discretion delegated to the Director of the Office of Defense Transportation under Executive Order No. 8989 of December 18, 1941 (6 F.R. 6725), as amended by Executive Order No. 9389 of October 18, 1943 (8 F.R. 14183), Executive Order No. 9156 of May 2, 1942 (7 F.R. 3349), Executive Order No. 9214 of August 5, 1942 (7 F.R. 6097), and Executive Order No. 9729 of May 23, 1946 (11 F.R. 5641). The said Executive orders are amended accordingly.
+
+5. The authority delegated to the Secretary of Commerce by paragraph 1 hereof shall be exercised by him with respect to priority, allocation, and inventory control of scarce commodities which basically affect the cost of living or industrial production, other than fuels as provided in paragraph 2, agricultural commodities as provided in paragraph 3, and transportation facilities and equipment as provided in paragraph 4.
+
+6. The Secretary of Agriculture is hereby authorized to carry out a program for the conservation of food and feed and for that purpose to exercise the authority conferred upon the President by section 8 of the joint resolution [[15 U.S.C. 713d–2](./chapter-015-economic-recovery.md#section-713d-2)].
+
+7. The Secretary of Commerce is hereby authorized to continue exercising the powers, authority, and discretion conferred upon the President by section 6 of the act of July 2, 1940, 54 Stat. 714, as amended [former 50 App. U.S.C. 701]. Such powers, authority, and discretion, and the powers, authority, and discretion vested in the President by section 3 of the joint resolution [61 Stat. 946, former 50 App. U.S.C. 1913] are hereby included within the delegation made to the Secretary of Commerce by Executive Order No. 9630 of September 27, 1945 (10 F.R. 12245), and the said Executive order is modified accordingly.
+
+8. Each governmental officer or agency exercising authority delegated under this order shall, in exercising such authority, consult with other agencies or committees having special information or sources of such information about the supply of or demand for the materials, commodities, or facilities involved and with other agencies or committees having responsibilities related to such authority. Each agency shall establish such committees and other working groups as may be appropriate to consult with and obtain the advice of other agencies.
+
+9. Nothing in this order shall be deemed to affect the powers, authority, or discretion delegated to the Secretary of Agriculture by Executive Order No. 9915 of December 30, 1947.
+
+Harry S. Truman.
+
+
+<a id="section-713d-1"></a>
+## § 713d–1. Critical shortages; recommendations by President; public hearings
+**(a)** Whenever the President shall determine that there is or threatens to be a critical shortage of any raw material, commodity, or product which jeopardizes the health or safety of the people of the United States or its national security or welfare and that there is no prospect that such critical shortage may soon be remedied by an increase in the available supply without additional governmental action and that the situation cannot be solved by voluntary agreement under the provisions of this Act, he may prepare proposed measures for conserving such raw material, commodity, or product which he shall submit to the Congress in the following form:
+
+(1) A statement of the circumstances which, in the President’s judgment, require the proposed conservation measures.
+
+(2) A detailed procedure for the administration of the proposed measures including the additional budget and additional personnel required for their enforcement.
+
+(3) The proposed degree of curtailment in current and prospective use of each such raw material, commodity, or product by each processor and/or user thereof, including the specific formulae proposed for such curtailment with respect to each class or classes of processors or users and the criteria used in the establishment of such formulae.
+
+(4) A complete record of the factual evidence upon which his recommendations are based, including all information provided by any agency of the Federal Government which may have been made available to him in the course of his consideration of the matter.
+
+**(b)** Within fifteen days after the submission of such proposed conservation measures, the Joint Economic Committee shall conduct public hearings thereon and shall make such recommendations to the Congress for legislative action as in its judgment the recommendations of the President and any additional information disclosed at the public hearings may require.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in text, means act Dec. 30, 1947, ch. 526, 61 Stat. 945. For complete classification of this Act to the Code, see Tables.
+
+#### Codification
+Section was formerly classified to section 1916 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+1956—Subsec. (b). Act June 18, 1956, changed “Joint Committee on the Economic Report” to “Joint Economic Committee”.
+
+
+<a id="section-713d-2"></a>
+## § 713d–2. Food and conservation program; appropriations; administrative expenses
+**(a)** In order to alleviate shortages in foods and feeds, and to assist in stabilizing prices, the President shall carry out a program for the conservation of food and feed. In carrying out such program, the President is authorized, through the dissemination of information, educational and other campaigns, the furnishing of assistance, and such other voluntary and cooperative measures as he deems necessary or appropriate, to encourage and promote the efficient utilization, care, and preservation of food and feed, the elimination of practices which waste food and feed, the control and eradication of insects and rodents, the consumption of less of these foods and feeds which are in short supply and more of those foods and feeds which are in abundant supply, and other conservation practices. The authority herein conferred may be exercised by the President through such departments, agencies, independent establishments, and officials of the Federal Government and such State, local, and private agencies as he may determine.
+
+**(b)** There is hereby authorized to be appropriated to the President such sums as may be necessary to carry out this section. To enable the President to carry out this section for the remainder of the fiscal year ending June 30, 1948, there is made available not to exceed $1,000,000 from any funds made available by the Congress for carrying out Public Law 84, Eightieth Congress, or from any funds made available by the Congress for interim foreign aid. Funds made available for the purpose of this section may be used for necessary administrative expenses, including personal services in the District of Columbia and elsewhere, purchase or hire of motor vehicles, temporary or intermittent services of experts or consultants or organizations thereof, including stenographic reporting services, by contract, without regard to the civil service and classification laws (the compensation of any such individual not to exceed $50 per day). Funds made available for the purposes of this section may be allotted for any of the purposes of this section to any department, agency, or independent establishment of the Government, or transferred to any other agency requested to assist in carrying out this section. Funds allotted to any department, agency, or independent establishment of the Government shall be available for obligation and expenditure in accordance with the laws governing obligations and expenditures of the department, agency, or independent establishment, or organizational unit thereof concerned, and without regard to [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim) and section 3324(a) and (b) of title 31.
+
+### Statutory Notes
+
+#### References in Text
+Public Law 84, Eightieth Congress, referred to in subsec. (b), is act May 31, 1947, ch. 90, 61 Stat. 125, which was classified generally to chapter 17 (§ 1411 et seq.) of Title 22, Foreign Relations and Intercourse, and was repealed by act Aug. 26, 1954, ch. 937, title V, § 542(a)(2), 68 Stat. 861. For complete classification of this Act to the Code, see Tables.
+
+[Section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim), referred to in subsec. (b), was in the original a reference to section 3709 of the Revised Statutes, which was classified to section 5 of former Title 41, Public Contracts, and was repealed and restated in [section 6101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim), Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
+
+Section 3324(a) and (b) of title 31, referred to in subsec. (b), was in the original a reference to section 3648 of the Revised Statutes, which was classified to section 529 of former Title 31, Money and Finance, and was repealed and restated as section 3324(a) and (b) of Title 31, Money and Finance, by Pub. L. 97–258, §§ 1, 5(b), Sept. 13, 1982, 96 Stat. 877, 1068.
+
+#### Codification
+Section was formerly classified to section 1918 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-713d-3"></a>
+## § 713d–3. Authorizations for appropriations
+
+There is authorized to be appropriated such amounts as may be necessary for purposes of carrying out the provisions of this joint resolution.
+
+### Statutory Notes
+
+#### References in Text
+This joint resolution, referred to in text, means act Dec. 30, 1947, ch. 526, 61 Stat. 945. For complete classification of this Act to the Code, see Tables.
+
+#### Codification
+Section was formerly classified to section 1919 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as this section.
+
+
 <a id="section-714"></a>
 ## § 714. Creation and purpose of Corporation
 
@@ -723,7 +827,7 @@ The Corporation—
 
 **(b)** May adopt, alter, and use a corporate seal, which shall be judicially noticed.
 
-**(c)** May sue and be sued, but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Corporation or its property. The district courts of the United States, including the district courts of any Territory or possession, shall have exclusive original jurisdiction, without regard to the amount in controversy, of all suits brought by or against the Corporation: Provided, That the Corporation may intervene in any court in any suit, action, or proceeding in which it has an interest. Any suit against the Corporation shall be brought in the District of Columbia, or in the district wherein the plaintiff resides or is engaged in business. No suit by or against the Corporation shall be allowed unless (1) it shall have been brought within six years after the right accrued on which suit is brought, or (2) in the event that the person bringing such suit shall have been under legal disability or beyond the seas at the time the right accrued, the suit shall have been brought within three years after the disability shall have ceased or within six years after the right accrued on which suit is brought, whichever period is longer. The defendant in any suit by or against the Corporation may plead, by way of set-off or counterclaim, any cause of action, whether arising out of the same transaction or not, which would otherwise be barred by such limitation if the claim upon which the defendant’s cause of action is based had not been barred prior to the date that the plaintiff’s cause of action arose: Provided, That the defendant shall not be awarded a judgment on any such set-off or counterclaim for any amount in excess of the amount of the plaintiff’s claim established in the suit. All suits against the Corporation shall be tried by the court without a jury. Notwithstanding any other provision of this subchapter, the Federal Tort Claims Act (Public Law 601, Seventy-ninth Congres 11 So in original. Should be “Congress)”. shall be applicable to the Corporation. Any suit by or against the United States as the real party in interest based upon any claim by or against the Corporation shall be subject to the provisions of subsection (c) of this section to the same extent as though such suit were by or against the Corporation, except that (1) any such suit against the United States based upon any claim of the type enumerated in [section 1491 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1491&num=0&edition=prelim), may be brought in the United States Court of Federal Claims, and (2) no such suit against the United States may be brought in a district court unless such suit might, without regard to the provisions of this subchapter, be brought in such court.
+**(c)** May sue and be sued, but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Corporation or its property. The district courts of the United States, including the district courts of any Territory or possession, shall have exclusive original jurisdiction, without regard to the amount in controversy, of all suits brought by or against the Corporation: Provided, That the Corporation may intervene in any court in any suit, action, or proceeding in which it has an interest. Any suit against the Corporation shall be brought in the District of Columbia, or in the district wherein the plaintiff resides or is engaged in business. No suit by or against the Corporation shall be allowed unless (1) it shall have been brought within six years after the right accrued on which suit is brought, or (2) in the event that the person bringing such suit shall have been under legal disability or beyond the seas at the time the right accrued, the suit shall have been brought within three years after the disability shall have ceased or within six years after the right accrued on which suit is brought, whichever period is longer. The defendant in any suit by or against the Corporation may plead, by way of set-off or counterclaim, any cause of action, whether arising out of the same transaction or not, which would otherwise be barred by such limitation if the claim upon which the defendant’s cause of action is based had not been barred prior to the date that the plaintiff’s cause of action arose: Provided, That the defendant shall not be awarded a judgment on any such set-off or counterclaim for any amount in excess of the amount of the plaintiff’s claim established in the suit. All suits against the Corporation shall be tried by the court without a jury. Notwithstanding any other provision of this subchapter, the Federal Tort Claims Act (Public Law 601, Seventy-ninth Congres 11 So in original. Should be “Congress)”. shall be applicable to the Corporation. Any suit by or against the United States as the real party in interest based upon any claim by or against the Corporation shall be subject to the provisions of subsection (c) to the same extent as though such suit were by or against the Corporation, except that (1) any such suit against the United States based upon any claim of the type enumerated in [section 1491 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1491&num=0&edition=prelim), may be brought in the United States Court of Federal Claims, and (2) no such suit against the United States may be brought in a district court unless such suit might, without regard to the provisions of this subchapter, be brought in such court.
 
 **(d)** May adopt, amend, and repeal bylaws, rules, and regulations governing the manner in which its business may be conducted and the powers vested in it may be exercised.
 

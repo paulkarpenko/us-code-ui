@@ -141,11 +141,11 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
   (A) in the case of the Trustees first taking offices—
 
-    (i) as designated by the President, one Trustee appointed pursuant to subsection (b)(2) of this section and two trustees appointed pursuant to subsection (b)(3) of this section shall each serve two years; and
+    (i) as designated by the President, one Trustee appointed pursuant to subsection (b)(2) and two trustees appointed pursuant to subsection (b)(3) shall each serve two years; and
 
-    (ii) as designated by the President, one Trustee appointed pursuant to subsection (b)(1) of this section and two Trustees appointed pursuant to subsection (b)(3) of this section shall each serve four years; and
+    (ii) as designated by the President, one Trustee appointed pursuant to subsection (b)(1) and two Trustees appointed pursuant to subsection (b)(3) shall each serve four years; and
 
-    (iii) as designated by the President, one Trustee appointed pursuant to subsection (b)(1) of this section, one Trustee appointed pursuant to subsection (b)(2) of this section, and one Trustee appointed pursuant to subsection (b)(3) of this section shall each serve six years;
+    (iii) as designated by the President, one Trustee appointed pursuant to subsection (b)(1), one Trustee appointed pursuant to subsection (b)(2), and one Trustee appointed pursuant to subsection (b)(3) shall each serve six years;
 
   (B) a Trustee appointed to fill a vacancy shall serve for the remainder of the term for which the Trustee’s predecessor was appointed and shall be appointed in the same manner as the original appointment for that vacancy was made; and
 
@@ -273,9 +273,12 @@ Pars. (8), (9). Pub. L. 105–156, § 4(2)–(4), added pars. (8) and (9).
 
 **(b) Udall Scholars** Recipients of scholarships, fellowships, and internships under this chapter shall be known as “Udall Scholars”, “Udall Fellows”, and “Udall Interns”, respectively.
 
-**(c) Program priorities** The Foundation shall determine the priority of the programs to be carried out under this chapter and the amount of funds to be allocated for such programs. However, not less than 50 percent shall be utilized for the programs set forth in [section 5604(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section5604/a/2&num=0&edition=prelim), [section 5604(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section5604/a/3&num=0&edition=prelim), and [section 5604(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section5604/a/4&num=0&edition=prelim), not more than 15 percent shall be used for salaries and other administrative purposes, and not less than 20 percent shall be appropriated to the Center for [section 5604(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section5604/a/5&num=0&edition=prelim), [section 5604(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section5604/a/6&num=0&edition=prelim), and [section 5604(a)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section5604/a/7&num=0&edition=prelim) conditioned on a 25-percent match from other sources and further conditioned on adequate space at the Center being made available for the Executive Director and other appropriate staff of the Foundation by the Center.
+**(c) Program priorities** The Foundation shall determine the priority of the programs to be carried out under this chapter and the amount of funds to be allocated for such programs. However, not less than 50 percent shall be utilized for the programs set forth in section 5604(a)(2) 11 See References in Text note below. of this title, section 5604(a)(3) 1 of this title, and section 5604(a)(4) 1 of this title, not more than 15 percent shall be used for salaries and other administrative purposes, and not less than 20 percent shall be appropriated to the Center for section 5604(a)(5) 1 of this title, section 5604(a)(6) 1 of this title, and section 5604(a)(7) 1 of this title conditioned on a 25-percent match from other sources and further conditioned on adequate space at the Center being made available for the Executive Director and other appropriate staff of the Foundation by the Center.
 
 ### Statutory Notes
+
+#### References in Text
+References to subsec. (a)(2) to (7) of [section 5604 of this title](./chapter-066-morris-k-udall-and-stewart-l-udall-foundation.md#section-5604) in subsec. (c) were in the original references to subsec. (a)(2) to (7) of section 6 of Pub. L. 102–259 but probably should have been references to subsec. (a)(2) to (7) of this section, which is section 7 of Pub. L. 102–259. [Section 5604 of this title](./chapter-066-morris-k-udall-and-stewart-l-udall-foundation.md#section-5604) does not contain subsecs., and subsec. (a)(2) to (7) of this section relates to various programs and activities to be carried out by the Foundation.
 
 #### Amendments
 2009—Subsec. (a)(5)(E). Pub. L. 111–90, § 6(1), added subpar. (E).
@@ -291,7 +294,7 @@ Subsec. (a)(7). Pub. L. 105–156, § 5(2), inserted “and Training” after �
 
 <a id="section-5606"></a>
 ## § 5606. Establishment of Morris K. Udall and Stewart L. Udall Trust Fund
-**(a) Establishment of Trust Fund** There is established in the Treasury of the United States a trust fund to be known as the “Morris K. Udall and Stewart L. Udall Trust Fund” to be administered by a Foundation. The Trust Fund shall consist of amounts appropriated to it pursuant to [section 5609(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section5609/a&num=0&edition=prelim) and amounts credited to it under subsection (b) of this section.
+**(a) Establishment of Trust Fund** There is established in the Treasury of the United States a trust fund to be known as the “Morris K. Udall and Stewart L. Udall Trust Fund” to be administered by a Foundation. The Trust Fund shall consist of amounts appropriated to it pursuant to [section 5609(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section5609/a&num=0&edition=prelim) and amounts credited to it under subsection (b).
 
 **(b) Investment of Trust Fund assets**
 
@@ -368,7 +371,7 @@ A prior section 10 of Pub. L. 102–259 was renumbered section 12 and is classif
 
 **(c) Notification and concurrence**
 
-(1) **Notification** — An agency or instrumentality of the Federal Government shall notify the chairperson of the President’s Council on Environmental Quality when using the Foundation or the Institute to provide the services described in subsection (a) of this section.
+(1) **Notification** — An agency or instrumentality of the Federal Government shall notify the chairperson of the President’s Council on Environmental Quality when using the Foundation or the Institute to provide the services described in subsection (a).
 
 (2) **Notification descriptions** — In a matter involving two or more agencies or instrumentalities of the Federal Government, notification under paragraph (1) shall include a written description of—
 
@@ -382,7 +385,7 @@ A prior section 10 of Pub. L. 102–259 was renumbered section 12 and is classif
 
 (3) **Concurrence**
 
-  (A) *In general* — In a matter that involves two or more agencies or instrumentalities of the Federal Government (including branches or divisions of a single agency or instrumentality), the agencies or instrumentalities of the Federal Government shall obtain the concurrence of the chairperson of the President’s Council on Environmental Quality before using the Foundation or Institute to provide the services described in subsection (a) of this section.
+  (A) *In general* — In a matter that involves two or more agencies or instrumentalities of the Federal Government (including branches or divisions of a single agency or instrumentality), the agencies or instrumentalities of the Federal Government shall obtain the concurrence of the chairperson of the President’s Council on Environmental Quality before using the Foundation or Institute to provide the services described in subsection (a).
 
   (B) *Indication of concurrence or nonconcurrence* — The chairperson of the President’s Council on Environmental Quality shall indicate concurrence or nonconcurrence under subparagraph (A) not later than 20 days after receiving notice under paragraph (2).
 

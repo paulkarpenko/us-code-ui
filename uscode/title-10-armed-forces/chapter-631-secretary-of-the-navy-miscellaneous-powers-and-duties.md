@@ -2,7 +2,7 @@
 title: 10
 chapter: '631'
 heading: 'SECRETARY OF THE NAVY: MISCELLANEOUS POWERS AND DUTIES'
-section_count: 33
+section_count: 34
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -420,7 +420,7 @@ In time of war or during a national emergency declared by the President, such pe
 #### Termination of War and Emergencies
 Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451, provided that in the interpretation of section 474 of former Title 34, the date July 25, 1947, should be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
 
-The state of war with Japan ended on Apr. 28, 1952, by the coming into effect of the Treaty of Peace with Japan on that date. The state of war with Germany ended on Oct. 19, 1951. See notes preceding section 1 of Appendix to Title 50, War and National Defense.
+The state of war with Japan ended on Apr. 28, 1952, by the coming into effect of the Treaty of Peace with Japan on that date. The state of war with Germany ended on Oct. 19, 1951. See notes preceding [section 1 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1&num=0&edition=prelim), War and National Defense.
 
 
 <a id="section-7225"></a>
@@ -672,3 +672,57 @@ Pub. L. 106–65, div. A, title X, § 1014(c), Oct. 5, 1999, 113 Stat. 742, prov
 **(d) Relationship to Other Authority.—** The provisions of this section shall apply in the exercise of any authority of the Secretary of the Navy to enter into an agreement with the government of a foreign country, subject to the concurrence of the Secretary of State, to provide for the assignment of members of the naval service of the foreign country to a Navy submarine safety program. The Secretary of the Navy may prescribe regulations for the application of this section in the exercise of such authority.
 
 **(e) Termination of Authority.—** The Secretary of the Navy may not accept the assignment of a member of the naval service of a foreign country under this section after September 30, 2008.
+
+
+<a id="section-7235"></a>
+## § 7235. Establishment of the Southern Sea Otter Military Readiness Areas
+**(a) Establishment.—** The Secretary of the Navy shall establish areas, to be known as “Southern Sea Otter Military Readiness Areas”, for national defense purposes. Such areas shall include each of the following:
+
+(1) The area that includes Naval Base Ventura County, San Nicolas Island, and Begg Rock and the adjacent and surrounding waters within the following coordinates:N. Latitude/W. Longitude 33°27.8′/119°34.3′ 33°20.5′/119°15.5′ 33°13.5′/119°11.8′ 33°06.5′/119°15.3′ 33°02.8′/119°26.8′ 33°08.8′/119°46.3′ 33°17.2′/119°56.9′ 33°30.9′/119°54.2′.
+
+(2) The area that includes Naval Base Coronado, San Clemente Island and the adjacent and surrounding waters running parallel to shore to 3 nautical miles from the high tide line designated by part 165 of title 33, Code of Federal Regulations, on May 20, 2010, as the San Clemente Island 3NM Safety Zone.
+
+**(b) Activities Within the Southern Sea Otter Military Readiness Areas.—**
+
+(1) **Incidental takings under endangered species act of 1973.—** — Sections 4 and 9 of the Endangered Species Act of 1973 ([16 U.S.C. 1533](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1533&num=0&edition=prelim), 1538) shall not apply with respect to the incidental taking of any southern sea otter in the Southern Sea Otter Military Readiness Areas in the course of conducting a military readiness activity.
+
+(2) **Incidental takings under marine mammal protection act of 1972.—** — Sections 101 and 102 of the Marine Mammal Protection Act of 1972 ([16 U.S.C. 1371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1371&num=0&edition=prelim), 1372) shall not apply with respect to the incidental taking of any southern sea otter in the Southern Sea Otter Military Readiness Areas in the course of conducting a military readiness activity.
+
+(3) **Treatment as species proposed to be listed.—** — For purposes of conducting a military readiness activity, any southern sea otter while within the Southern Sea Otter Military Readiness Areas shall be treated for the purposes of section 7 of the Endangered Species Act of 1973 ([16 U.S.C. 1536](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1536&num=0&edition=prelim)) as a member of a species that is proposed to be listed as an endangered species or a threatened species under section 4 of the Endangered Species Act of 1973 ([16 U.S.C. 1533](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1533&num=0&edition=prelim)).
+
+**(c) Removal.—** Nothing in this section or any other Federal law shall be construed to require that any southern sea otter located within the Southern Sea Otter Military Readiness Areas be removed from the Areas.
+
+**(d) Revision or Termination of Exceptions.—** The Secretary of the Interior may revise or terminate the application of subsection (b) if the Secretary of the Interior, in consultation with the Secretary of the Navy, determines that military activities occurring in the Southern Sea Otter Military Readiness Areas are impeding the southern sea otter conservation or the return of southern sea otters to optimum sustainable population levels.
+
+**(e) Monitoring.—**
+
+(1) **In general.—** — The Secretary of the Navy shall conduct monitoring and research within the Southern Sea Otter Military Readiness Areas to determine the effects of military readiness activities on the growth or decline of the southern sea otter population and on the near-shore ecosystem. Monitoring and research parameters and methods shall be determined in consultation with the Service.
+
+(2) **Reports.—** — Not later than 24 months after the date of the enactment of this section and every three years thereafter, the Secretary of the Navy shall report to Congress and the public on monitoring undertaken pursuant to paragraph (1).
+
+**(f) Definitions.—** In this section:
+
+(1) **Southern sea otter.—** — The term “southern sea otter” means any member of the subspecies Enhydra lutris nereis.
+
+(2) **Take.—** — The term “take”—
+
+  (A) when used in reference to activities subject to regulation by the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.), shall have the meaning given such term in that Act; and
+
+  (B) when used in reference to activities subject to regulation by the Marine Mammal Protection Act of 1972 ([16 U.S.C. 1361](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1361&num=0&edition=prelim) et seq.) shall have the meaning given such term in that Act.
+
+(3) **Incidental taking.—** — The term “incidental taking” means any take of a southern sea otter that is incidental to, and not the purpose of, the carrying out of an otherwise lawful activity.
+
+(4) **Military readiness activity.—** — The term “military readiness activity” has the meaning given that term in section 315(f) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 ([16 U.S.C. 703](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section703&num=0&edition=prelim) note) and includes all training and operations of the armed forces that relate to combat and the adequate and realistic testing of military equipment, vehicles, weapons, and sensors for proper operation and suitability for combat use.
+
+(5) **Optimum sustainable population.—** — The term “optimum sustainable population” means, with respect to any population stock, the number of animals that will result in the maximum productivity of the population or the species, keeping in mind the carrying capacity of the habitat and the health of the ecosystem of which they form a constituent element.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in subsec. (e)(2), is the date of enactment of Pub. L. 114–92, which was approved Nov. 25, 2015.
+
+The Endangered Species Act of 1973, referred to in subsec. (f)(2)(A), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) and Tables.
+
+The Marine Mammal Protection Act of 1972, referred to in subsec. (f)(2)(B), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1361&num=0&edition=prelim) and Tables.
+
+Section 315 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred to in subsec. (f)(4), is section 315 of Pub. L. 107–314, which is set out as a note under [section 703 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section703&num=0&edition=prelim), Conservation.

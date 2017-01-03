@@ -220,7 +220,7 @@ Subsec. (d)(2). Pub. L. 108–372, § 3(b), inserted “, notwithstanding sectio
 
 <a id="section-10705"></a>
 ## § 10705. Grants and contracts
-**(a) Authority of Institute; purposes of grants** The Institute is authorized to award grants and enter into cooperative agreements or contracts, in a manner consistent with subsection (b) of this section, in order to—
+**(a) Authority of Institute; purposes of grants** The Institute is authorized to award grants and enter into cooperative agreements or contracts, in a manner consistent with subsection (b), in order to—
 
 (1) conduct research, demonstrations, or special projects pertaining to the purposes described in this chapter, and provide technical assistance and training in support of tests, demonstrations, and special projects;
 

@@ -58,7 +58,7 @@ Subsec. (b). Pub. L. 103–272, § 5(m)(9)(C), added subsec. (b) and struck out 
 1984—Subsec. (b)(2). Pub. L. 98–216 substituted “49 App. U.S.C.” for “49 U.S.C.”.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Short Title of 1992 Amendment
 Pub. L. 102–548, § 1, Oct. 28, 1992, 106 Stat. 3646, provided that: “This Act [enacting [section 508 of this title](./chapter-005-special-authority.md#section-508), amending this section and [section 521 of this title](./chapter-005-special-authority.md#section-521), and enacting provisions set out as notes under [section 508 of this title](./chapter-005-special-authority.md#section-508)] may be cited as the ‘Intermodal Safe Container Transportation Act of 1992’.”

@@ -26,6 +26,9 @@ source: >-
 
 ### Statutory Notes
 
+#### Short Title of 2016 Amendment
+Pub. L. 114–246, § 1, Nov. 28, 2016, 130 Stat. 995, provided that: “This Act [amending [section 2142 of this title](./chapter-043-american-folklife-preservation.md#section-2142)] may be cited as the ‘Gold Star Families Voices Act’.”
+
 #### Short Title
 Pub. L. 94–201, § 1, Jan. 2, 1976, 89 Stat. 1129, provided: “That this Act [enacting this subchapter] may be cited as the ‘American Folklife Preservation Act’.”
 
@@ -89,7 +92,7 @@ As used in this subchapter—
 
 (3) In making appointments under paragraph (1)(C), the Librarian of Congress shall include at least two members who direct or are members of the boards of major American folklife organizations other than the American Folklore Society and the Society for Ethnomusicology.
 
-**(c) Term of office** The term of office of each appointed member of the Board shall be six years; except that (1)(A) the members first appointed under clause (1) of subsection (b) of this section shall serve as designated by the President, one for a term of two years, two for a term of four years, and one for a term of six years, and (B) the members first appointed under clause (2) of subsection (b) of this section shall serve as jointly designated by the President pro tempore of the Senate and the Speaker of the House of Representatives, two for terms of two years, four for terms of four years, and two for terms of six years; and (2) any member appointed to fill a vacancy occurring prior to the expiration of the term to which his predecessor was appointed shall be appointed for the remainder of such term. Members appointed by the President under clause (1) of subsection (b) of this section shall serve only during the time they are officials of Federal departments and agencies concerned with some aspect of American folklife traditions and arts.
+**(c) Term of office** The term of office of each appointed member of the Board shall be six years; except that (1)(A) the members first appointed under clause (1) of subsection (b) shall serve as designated by the President, one for a term of two years, two for a term of four years, and one for a term of six years, and (B) the members first appointed under clause (2) of subsection (b) shall serve as jointly designated by the President pro tempore of the Senate and the Speaker of the House of Representatives, two for terms of two years, four for terms of four years, and two for terms of six years; and (2) any member appointed to fill a vacancy occurring prior to the expiration of the term to which his predecessor was appointed shall be appointed for the remainder of such term. Members appointed by the President under clause (1) of subsection (b) shall serve only during the time they are officials of Federal departments and agencies concerned with some aspect of American folklife traditions and arts.
 
 **(d) Reimbursement for expenses** Members of the Board shall serve without pay, but members who are not regular full-time employees of the United States may, at the discretion of the Librarian, be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Board.
 
@@ -280,17 +283,28 @@ For short title of this subchapter as the “Veterans’ Oral History Project Ac
 ## § 2142. Establishment of program at American Folklife Center to collect video and audio recordings of histories of veterans
 **(a) In general** The Director of the American Folklife Center at the Library of Congress shall establish an oral history program—
 
-(1) to collect video and audio recordings of personal histories and testimonials of veterans of the Armed Forces who served during a period of war;
+(1) to collect video and audio recordings of—
+
+  (A) personal histories and testimonials of veterans of the Armed Forces who served during a period of war; and
+
+  (B) biographical histories by immediate family members of members of the Armed Forces who became missing in action or died as a result of their service during a period of war;
 
 (2) to create a collection of the recordings obtained (including a catalog and index) which will be available for public use through the National Digital Library of the Library of Congress and such other methods as the Director considers appropriate to the extent feasible subject to available resources; and
 
 (3) to solicit, reproduce, and collect written materials (such as letters and diaries) relevant to the personal histories of veterans of the Armed Forces who served during a period of war and to catalog such materials in a manner the Director considers appropriate, consistent with and complimentary 11 So in original. Probably should be complementary. to the efforts described in paragraphs (1) and (2).
 
-**(b) Use of and consultation with other entities** The Director may carry out the activities described in paragraphs (1) and (3) of subsection (a) of this section through agreements and partnerships entered into with other government and private entities, and may otherwise consult with interested persons (within the limits of available resources) and develop appropriate guidelines and arrangements for soliciting, acquiring, and making available recordings under the program under this subchapter.
+**(b) Use of and consultation with other entities** The Director may carry out the activities described in paragraphs (1) and (3) of subsection (a) through agreements and partnerships entered into with other government and private entities, and may otherwise consult with interested persons (within the limits of available resources) and develop appropriate guidelines and arrangements for soliciting, acquiring, and making available recordings under the program under this subchapter.
 
-**(c) Timing** As soon as practicable after October 27, 2000, the Director shall begin collecting video and audio recordings under subsection (a)(1) of this section, and shall attempt to collect the first such recordings from the oldest veterans.
+**(c) Timing** As soon as practicable after October 27, 2000, the Director shall begin collecting video and audio recordings under subsection (a)(1), and shall attempt to collect the first such recordings from the oldest veterans.
+
+**(d) Definition of immediate family member** For purposes of subsection (a), the term “immediate family member” means a parent, spouse, sibling, or child.
 
 ### Statutory Notes
+
+#### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–246, § 2(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to collect video and audio recordings of personal histories and testimonials of veterans of the Armed Forces who served during a period of war;”.
+
+Subsec. (d). Pub. L. 114–246, § 2(b), added subsec. (d).
 
 #### National Public Awareness and Participation Campaign for Veterans’ History Project of American Folklife Center
 Pub. L. 112–239, div. A, title V, § 594, Jan. 2, 2013, 126 Stat. 1771, provided that: “(a) In General.—The Director of the American Folklife Center at the Library of Congress shall carry out a national public awareness and participation campaign for the program required by section 3(a) of the Veterans’ Oral History Project Act ([20 U.S.C. 2142(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2142/a&num=0&edition=prelim)). Such campaign shall provide for the following:“(1) Encouraging the people of the United States, veterans organizations, community groups, and national organizations to participate in such program. “(2) Ensuring greater awareness and participation throughout the United States in such program. “(3) Providing meaningful opportunities for learning about the experiences of veterans. “(4) Complementing the efforts supporting the readjustment and successful reintegration of veterans into civilian life after service in the Armed Forces. “(b) Coordination and Cooperation.—To the degree practicable, the Director shall, in carrying out the campaign required by subsection (a), coordinate and cooperate with veterans service organizations. “(c) Veterans Service Organization Defined.—In this section, the term ‘veterans service organization’ means any organization recognized by the Secretary of Veterans Affairs for the representation of veterans under [section 5902 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5902&num=0&edition=prelim), United States Code.”
@@ -304,7 +318,7 @@ Pub. L. 112–239, div. A, title V, § 594, Jan. 2, 2013, 126 Stat. 1771, provid
 
 **(c) Dedication of funds** Notwithstanding any other provision of law—
 
-(1) any funds donated to the Librarian of Congress to carry out the oral history program under [section 2142 of this title](./chapter-043-american-folklife-preservation.md#section-2142) shall be deposited entirely into the gift account established under subsection (b) of this section;
+(1) any funds donated to the Librarian of Congress to carry out the oral history program under [section 2142 of this title](./chapter-043-american-folklife-preservation.md#section-2142) shall be deposited entirely into the gift account established under subsection (b);
 
 (2) the funds contained in such account shall be used solely to carry out the oral history program under [section 2142 of this title](./chapter-043-american-folklife-preservation.md#section-2142); and
 

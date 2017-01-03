@@ -59,12 +59,14 @@ As used in this chapter—
 
 **(s)** “Responsible person” means an individual who has the power to direct the management and policies of the applicant pertaining to explosive materials.
 
-**(t) Indian Tribe 11 So in original. Probably should not be capitalized..—** The term “Indian tribe” has the meaning given the term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 479a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section479a&num=0&edition=prelim))).22 So in original. The second closing parenthesis probably should not appear.
+**(t) Indian Tribe 11 So in original. Probably should not be capitalized..—** The term “Indian tribe” has the meaning given the term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 479a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section479a&num=0&edition=prelim))).22 So in original. The second closing parenthesis probably should not appear., 33 See References in Text note below.
 
 ### Statutory Notes
 
 #### References in Text
 For definition of Canal Zone, referred to in subsec. (a), see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
+
+Section 102 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 479a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section479a&num=0&edition=prelim)), referred to in subsec. (t), was classified to [section 479a of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section479a&num=0&edition=prelim), Indians, prior to editorial reclassification as [section 5130 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5130&num=0&edition=prelim).
 
 #### Amendments
 2010—Subsec. (t). Pub. L. 111–211 added subsec. (t).

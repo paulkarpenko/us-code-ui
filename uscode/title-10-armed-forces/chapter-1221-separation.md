@@ -17,7 +17,7 @@ Subject to other provisions of this title, reserve commissioned officers may be 
 Provisions similar to those in this section were contained in [section 1162(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1162/a&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1662(i)(2).
 
 #### Effective Date
-Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Availability of Transition Assistance Advisors To Assist Members of Reserve Components Who Serve on Active Duty for More Than 180 Consecutive Days
 Pub. L. 112–239, div. A, title V, § 513, Jan. 2, 2013, 126 Stat. 1718, provided that: “(a) Transition Assistance Advisor Program Authorized.—The Chief of the National Guard Bureau may establish a program to provide professionals (to be known as Transition Assistance Advisors) in each State to serve as points of contact to assist eligible members of the reserve components in accessing benefits and health care furnished under laws administered by the Secretary of Defense and benefits and health care furnished under laws administered by the Secretary of Veterans Affairs. “(b) Eligible Members.—To be eligible for assistance under this section, a member of a reserve component must have served on active duty in the Armed Forces for a period of more than 180 consecutive days. “(c) Duties.—The duties of a Transition Assistance Advisor include the following:“(1) To assist with the creation and execution of an individual transition plan for an eligible member of a reserve component and dependents of the member for the reintegration of the member into civilian life. “(2) To provide employment support services to the member and dependents of the member, including assistance with finding employment opportunities and identifying and obtaining assistance from programs within and outside of the Federal Government. “(3) To provide information on relocation, health care, mental health care, and financial support services available to the member and dependents of the member from the Department of Defense, the Department of Veterans Affairs, and other Federal, State, and local agencies. “(4) To provide information on educational support services available to the member, including Post-9/11 Educational Assistance under chapter 33 of title 38, United States Code. “(d) Transition Plans.—The individual transition plan referred to in subsection (c)(1) created for an eligible member of a reserve component shall include at a minimum the following:“(1) A plan for the transition of the member to civilian life, including with respect to employment, education, and health care. “(2) A description of the transition services that the member and dependents of the member will need to achieve their transition objectives, including information on any forms that the member will need to fill out to be eligible for such services. “(3) A point of contact for each agency or entity that can provide the transition services described in paragraph (2). “(4) Such other information determined to be essential for the transition of the member, as determined by the Chief of the National Guard Bureau in consultation with the Secretary of Defense and the Secretary of Veterans Affairs. “(e) Funding.—Funding for Transition Assistance Advisors for a fiscal year shall be derived from amounts authorized to be appropriated for operation and maintenance for the National Guard for that fiscal year. “(f) State Defined.—In this section, the term ‘State’ means each of the several States of the United States, the District of Columbia, and any territory of the United States.”
@@ -50,6 +50,9 @@ Under regulations to be prescribed by the Secretary of Defense, a Reserve who be
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 1162(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1162/b&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1662(i)(2).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-12683"></a>
@@ -90,6 +93,9 @@ Subsec. (b)(3). Pub. L. 105–85, § 516(b)(1), substituted “A” for “to a�
 
 Subsec. (b)(4). Pub. L. 105–85, § 516(a)(2), added par. (4).
 
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-12684"></a>
 ## § 12684. Reserves: separation for absence without authority or sentence to imprisonment
@@ -110,6 +116,9 @@ Provisions similar to those in this section were contained in [section 1163(b) o
 #### Amendments
 1996—Pub. L. 104–106 struck out “or” at end of par. (1), added par. (2), and redesignated former par. (2) as (3).
 
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-12685"></a>
 ## § 12685. Reserves separated for cause: character of discharge
@@ -124,6 +133,9 @@ A member of a reserve component who is separated for cause, except under [sectio
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 1163(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1163/c&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1662(i)(2).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-12686"></a>
@@ -141,6 +153,9 @@ Provisions similar to those in this section were contained in [section 1163(d) o
 2004—Subsec. (a). Pub. L. 108–375 inserted “(other than the retirement system under chapter 1223 of this title)” after “retirement system”.
 
 1996—Pub. L. 104–201 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-12687"></a>

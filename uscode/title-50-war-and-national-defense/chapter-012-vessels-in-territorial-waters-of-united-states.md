@@ -85,6 +85,8 @@ IN WITNESS WHEREOF, I have hereunto set my hand this first day of March, in the 
 
 William J. Clinton.
 
+[Provisions of Proc. No. 6867 superseded to the extent of inconsistency with provisions of Procs. No. 7757 and 9398, see Sec. 6 of Proc. No. 7757 and Sec. 6 of Proc. No. 9398, set out below.]
+
 #### Continuation of National Emergency Declared by Proc. No. 6867
 Notice of President of the United States, dated Feb. 25, 2015, 80 F.R. 11075, provided:
 
@@ -137,7 +139,7 @@ Proc. No. 7757, Feb. 26, 2004, 69 F.R. 9515, provided:
 
 By the authority vested in me by the Constitution and the laws of the United States of America, in order to expand the scope of the national emergency declared in Proclamation 6867 of March 1, 1996 [set out above], based on the disturbance or threatened disturbance of the international relations of the United States caused by actions taken by the Cuban government, and in light of steps taken over the past year by the Cuban government to worsen the threat to United States international relations, and,
 
-WHEREAS the United States has determined that Cuba is a state-sponsor of terrorism and it is subject to the restrictions of section 6(j)(1)(A) of the Export Administration Act of 1979 [50 U.S.C. App. 2405(j)(1)(A)], section 620A of the Foreign Assistance Act of 1961 [[22 U.S.C. 2371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371&num=0&edition=prelim)], and section 40 of the Arms Export Control Act [[22 U.S.C. 2780](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780&num=0&edition=prelim)];
+WHEREAS the United States has determined that Cuba is a state-sponsor of terrorism and it is subject to the restrictions of section 6(j)(1)(A) of the Export Administration Act of 1979 [[50 U.S.C. 4605(j)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim)], section 620A of the Foreign Assistance Act of 1961 [[22 U.S.C. 2371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371&num=0&edition=prelim)], and section 40 of the Arms Export Control Act [[22 U.S.C. 2780](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780&num=0&edition=prelim)];
 
 WHEREAS the Cuban government has demonstrated a ready and reckless willingness to use excessive force, including deadly force, against U.S. citizens, in the ostensible enforcement of its sovereignty, including the February 1996 shoot-down of two unarmed U.S.-registered civilian aircraft in international airspace, resulting in the deaths of three American citizens and one other individual;
 
@@ -180,6 +182,59 @@ Sec. 7. This proclamation shall be immediately transmitted to the Congress and p
 IN WITNESS WHEREOF, I have hereunto set my hand this twenty-sixth day of February, in the year of our Lord two thousand four, and of the Independence of the United States of America the two hundred and twenty-eighth.
 
 George W. Bush.
+
+[Provisions of Proc. No. 7757 superseded to the extent of inconsistency with provisions of Proc. No. 9398, see Sec. 6 of Proc. No. 9398, set out below.]
+
+#### Proc. No. 9398. Modifying and Continuing the National Emergency With Respect to Cuba and Continuing To Authorize the Regulation of the Anchorage and Movement of Vessels
+Proc. No. 9398, Feb. 24, 2016, 81 F.R. 9737, provided:
+
+By the authority vested in me by the Constitution and the laws of the United States of America, in order to modify and continue the national emergency declared in Proclamation 6867 of March 1, 1996 [set out above], and expanded by Proclamation 7757 of February 26, 2004 [set out above], in light of the need to continue the national emergency based on a disturbance or threatened disturbance of the international relations of the United States related to Cuba, and,
+
+WHEREAS the descriptions of the national emergency set forth in Proclamations 6867 and 7757 no longer reflect the international relations of the United States related to Cuba;
+
+WHEREAS longstanding U.S. policy towards Cuba had, at times, tended to isolate the United States from regional and international partners, constrained our ability to influence outcomes throughout the Western Hemisphere, and impaired the use of the full range of tools available to the United States to promote positive change in Cuba;
+
+WHEREAS the following descriptions accurately describe the national emergency with respect to Cuba;
+
+WHEREAS the United States and Cuba reestablished diplomatic relations and opened embassies in each other’s capitals on July 20, 2015, and the United States continues to pursue the progressive normalization of relations while aspiring towards a peaceful, prosperous, and democratic Cuba;
+
+WHEREAS the United States has committed to work with the Government of Cuba on matters of mutual concern that advance U.S. national interests, such as migration, human rights, counter-narcotics, environmental protection, and trafficking in persons, among other issues;
+
+WHEREAS the United States is committed to supporting safe, orderly, and legal migration from Cuba through the effective implementation of the 1994–95 U.S.-Cuba Migration Accords;
+
+WHEREAS the Cuban economy is in a relatively weak state, contributing to an outflow of its nationals towards the United States and neighboring countries;
+
+WHEREAS the overarching objective of U.S. policy is stability in the region, and the outflow of Cuban nationals may have a destabilizing effect on the United States and its neighboring countries;
+
+WHEREAS it is United States policy that a mass migration from Cuba would endanger the security of the United States by posing a disturbance or threatened disturbance of the international relations of the United States;
+
+WHEREAS the United States continues to maintain an embargo with respect to Cuba;
+
+WHEREAS the unauthorized entry of vessels subject to the jurisdiction of the United States into Cuban territorial waters is in violation of U.S. law and contrary to U.S. policy;
+
+WHEREAS the unauthorized entry of United States-registered vessels into Cuban territorial waters is detrimental to the foreign policy of the United States, and counter to the purpose of Executive Order 12807, which is to ensure, among other things, safe, orderly, and legal migration;
+
+WHEREAS the possibility of large-scale unauthorized entries of United States-registered vessels would disturb the international relations of the United States by facilitating a possible mass migration of Cuban nationals;
+
+NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States of America, including section 1 of title II of Public Law 65–24, ch. 30, June 15, 1917, as amended ([50 U.S.C. 191](./chapter-012-vessels-in-territorial-waters-of-united-states.md#section-191)), sections 201, 202, and 301 of the National Emergencies Act ([50 U.S.C. 1601](./chapter-034-national-emergencies.md#section-1601) et seq.), and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, in order to modify the scope of the national emergency declared in Proclamations 6867 and 7757, and to secure the observance of the rights and obligations of the United States, hereby continue the national emergency with regard to Cuba as set forth above and authorize and direct the Secretary of Homeland Security (the “Secretary”) to make and issue such rules and regulations as the Secretary may find appropriate to regulate the anchorage and movement of vessels, and authorize and approve the Secretary’s issuance of such rules and regulations, as authorized by the Act of June 15, 1917. Accordingly, I hereby direct:
+
+Section 1. The Secretary may make rules and regulations governing the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States, which may be used, or is susceptible of being used, for voyage into Cuban territorial waters and that may create unsafe conditions, or result in unauthorized transactions, and thereby threaten a disturbance of international relations. Any rule or regulation issued pursuant to this proclamation may be effective immediately upon issuance as such rule or regulation shall involve a foreign affairs function of the United States.
+
+Sec. 2. The Secretary is authorized, to the extent consistent with international law, to inspect any vessel, foreign or domestic, in the territorial waters of the United States, at any time; to place guards on any such vessel; and, with my consent expressly hereby granted, take full possession and control of any such vessel and remove the officers and crew and all other persons not specifically authorized by the Secretary to go or remain on board the vessel when necessary to secure the rights and obligations of the United States.
+
+Sec. 3. The Secretary may request assistance from such departments, agencies, officers, or instrumentalities of the United States as the Secretary deems necessary to carry out the purposes of this proclamation. Such departments, agencies, officers, or instrumentalities shall, consistent with other provisions of law and to the extent practicable, provide requested assistance.
+
+Sec. 4. The Secretary may seek assistance from State and local authorities in carrying out the purposes of this proclamation. Because State and local assistance may be essential for an effective response to this emergency, I urge all State and local officials to cooperate with Federal authorities and to take all actions within their lawful authority necessary to prevent the unauthorized departure of vessels intending to enter Cuban territorial waters.
+
+Sec. 5. All powers and authorities delegated by this proclamation to the Secretary may be delegated by the Secretary to other officers and agents of the United States Government unless otherwise prohibited by law.
+
+Sec. 6. Any provisions of Proclamation 6867 of March 1, 1996, and expanded by Proclamation 7757 of February 26, 2004, that are inconsistent with the provisions of this proclamation are superseded to the extent of such inconsistency.
+
+Sec. 7. This proclamation shall be immediately transmitted to the Congress and published in the Federal Register.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this twenty-fourth day of February, in the year of our Lord two thousand sixteen, and of the Independence of the United States of America the two hundred and fortieth.
+
+Barack Obama.
 
 
 <a id="section-191a"></a>
@@ -228,11 +283,11 @@ Section, act Nov. 15, 1941, ch. 471, § 1, 55 Stat. 763, related to control of a
 
 **(c) Civil penalty** A person violating this title,1 or a regulation prescribed under this title,1 shall be liable to the United States Government for a civil penalty of not more than $25,000 for each violation. Each day of a continuing violation shall constitute a separate violation.
 
-**(d) In rem liability** Any vessel that is used in violation of this title,1 or of any regulation issued under this title,1 shall be liable in rem for any civil penalty assessed pursuant to subsection (c) of this section and may be proceeded against in the United States district court for any district in which such vessel may be found.
+**(d) In rem liability** Any vessel that is used in violation of this title,1 or of any regulation issued under this title,1 shall be liable in rem for any civil penalty assessed pursuant to subsection (c) and may be proceeded against in the United States district court for any district in which such vessel may be found.
 
 **(e) Withholding of clearance**
 
-(1) **In general** — If any owner, agent, master, officer, or person in charge of a vessel is liable for a penalty or fine under subsection (c) of this section, or if reasonable cause exists to believe that the owner, agent, master, officer, or person in charge may be subject to a penalty or fine under this section, the Secretary may, with respect to such vessel, refuse or revoke any clearance required by [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim).
+(1) **In general** — If any owner, agent, master, officer, or person in charge of a vessel is liable for a penalty or fine under subsection (c), or if reasonable cause exists to believe that the owner, agent, master, officer, or person in charge may be subject to a penalty or fine under this section, the Secretary may, with respect to such vessel, refuse or revoke any clearance required by [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim).
 
 (2) **Clearance upon filing of bond or other surety** — The Secretary may require the filing of a bond or other surety as a condition of granting clearance refused or revoked under this subsection.
 
@@ -352,7 +407,7 @@ In text, “chapter 563 of title 46” substituted for “section 902 of the Mer
 
 <a id="section-198"></a>
 ## § 198. Requisitioned vessels
-**(a) Documentation of vessels** Any vessel not documented under the laws of the United States, acquired by or made available to the Secretary of Transportation under sections 196 to 198 of this title, or otherwise, may, notwithstanding any other provision of law, in the discretion of the Secretary of the department in which the Coast Guard is operating be documented as a vessel of the United States under such rules and regulations or orders, and with such limitations, as the Secretary of the department in which the Coast Guard is operating may prescribe or issue as necessary or appropriate to carry out the purposes and provisions of sections 196 to 198 of this title, and in accordance with the provisions of subsection (c) of this section, engage in the coastwise trade when so documented. Any document issued to a vessel under the provisions of this subsection shall be surrendered at any time that such surrender may be ordered by the Secretary of the department in which the Coast Guard is operating. No vessel, the surrender of the documents of which has been so ordered, shall, after the effective date of such order, have the status of a vessel of the United States unless documented anew.
+**(a) Documentation of vessels** Any vessel not documented under the laws of the United States, acquired by or made available to the Secretary of Transportation under sections 196 to 198 of this title, or otherwise, may, notwithstanding any other provision of law, in the discretion of the Secretary of the department in which the Coast Guard is operating be documented as a vessel of the United States under such rules and regulations or orders, and with such limitations, as the Secretary of the department in which the Coast Guard is operating may prescribe or issue as necessary or appropriate to carry out the purposes and provisions of sections 196 to 198 of this title, and in accordance with the provisions of subsection (c), engage in the coastwise trade when so documented. Any document issued to a vessel under the provisions of this subsection shall be surrendered at any time that such surrender may be ordered by the Secretary of the department in which the Coast Guard is operating. No vessel, the surrender of the documents of which has been so ordered, shall, after the effective date of such order, have the status of a vessel of the United States unless documented anew.
 
 **(b) Waiver of compliance** The President may, notwithstanding any other provisions of law, by rules and regulations or orders, waive compliance with any provision of law relating to masters, officers, members of the crew, or crew accommodations on any vessel documented under authority of this section to such extent and upon such terms as he finds necessary because of the lack of physical facilities on such vessels, and because of the need to employ aliens for their operation. No vessel shall cease to enjoy the benefits and privileges of a vessel of the United States by reason of the employment of any person in accordance with the provisions of this subsection.
 

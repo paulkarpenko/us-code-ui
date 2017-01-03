@@ -67,7 +67,7 @@ The plan of reorganization, with an estimate of the expenses of the same, was co
 Pub. L. 111–227, § 1(a), Aug. 11, 2010, 124 Stat. 2409, provided that: “This Act [amending [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c) and enacting provisions set out as notes under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c) and [section 6655 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6655&num=0&edition=prelim), Internal Revenue Code] may be cited as the ‘United States Manufacturing Enhancement Act of 2010’.”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### REORGANIZATION PLAN NO. 1 OF 1965Eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, March 25, 1965, pursuant to the provisions of the Reorganization Act of 1949, 63 Stat. 203, as amended [see [5 U.S.C. 901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim) et seq.].
@@ -152,14 +152,14 @@ Functions of all officers of Department of the Treasury, and functions of all ag
 For delegation to Secretary of the Treasury of authority vested in President by this section, see Ex. Ord. No. 10289, § 1(a), Sept. 17, 1951, 16 F.R. 9499, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 #### Customs Districts and Ports of Entry
-An alphabetical index of ports of entry is contained in Schedule D of the Harmonized Tariff Schedule. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
+An alphabetical index of ports of entry is contained in Schedule D of the Harmonized Tariff Schedule, which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
 
-For list of international airports of entry, see section 6.13 of Part 6 of Chapter 1, United States Customs Service, of Title 19, Customs Duties, of the Code of Federal Regulations.
+For list of international airports of entry, see section 122.13 of Part 122 of Chapter 1 of Title 19, Customs Duties, of the Code of Federal Regulations.
 
 #### Virginia Inland Port; Withdrawal of Designation as Customs Service Port of Entry Prohibited
 Pub. L. 104–52, title V, § 512, Nov. 19, 1995, 109 Stat. 492, provided that: “Notwithstanding any provision of this or any other Act, during the fiscal year ending September 30, 1996, and thereafter, no funds may be obligated or expended in any way to withdraw the designation of the Virginia Inland Port at Front Royal, Virginia, as a United States Customs Service port of entry.”
 
-[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).]
+[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).]
 
 #### Columbia-Snake Customs District
 Pub. L. 98–573, title II, § 238, Oct. 30, 1984, 98 Stat. 2993, directed Commissioner of United States Customs Service to establish a customs district known as Columbia-Snake Customs District.
@@ -181,9 +181,9 @@ R.S. § 249 derived from act May 8, 1792, ch. 37, § 6, 1 Stat. 280.
 Section, prior to its incorporation into the Code, contained the words “and tonnage,” after “duties on imports”. These words were omitted as superseded by section 3 of the former Appendix to Title 46, Shipping, which charged the Chief of the Bureau of Navigation and Steamboat Inspection with the execution of the laws relating to the collection of the tonnage tax. Section 3 of the former Appendix to Title 46 was repealed by Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710.
 
 #### Analysis Regarding CES Program; Effect on Implementation of Program
-Pub. L. 100–203, title IX, § 9501(c), Dec. 22, 1987, 101 Stat. 1330–380, as amended by Pub. L. 103–182, title VI, § 691(b)(1), Dec. 8, 1993, 107 Stat. 2224, provided that: “(1) The Comptroller General of the United States shall conduct a comprehensive analysis, including a cost-benefit study, of the centralized cargo examination station (CES) concept from the perspective of both the United States Customs Service and business community users. The analysis shall be submitted on the same day to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate (hereinafter in this subsection referred to as the ‘Committees’) not later than March 30, 1988, and shall include recommendations as to how best to implement cargo inspection procedures. “(2) The United States Customs Service—“(A) may not, after the date of the enactment of this Act [Dec. 22, 1987], establish any new centralized cargo examination station at any ocean port, airport, or land border location unless the Customs Service provides to the Committees advance notice, in writing, of not less than 90 days regarding the proposed establishment; and “(B) shall, on such date of enactment, suspend operations at each centralized cargo examination station that was operating at an airport on the day before such date until the 90th day after a date—“(i) that is not earlier than the date on which the analysis required under paragraph (1) is submitted to the Committees, and “(ii) on which the Customs Service provides to the Committees notice, in writing, that it intends to resume such operations at the station. During the period of suspension of operations under subparagraph (B) at any centralized cargo examination station at an airport, the Secretary of the Treasury shall maintain customs operations and staffing at that airport at a level not less than that which was in effect immediately before the suspension took effect. “(3) The Commissioner of Customs is authorized to obtain from the operators of centralized cargo examination stations information regarding the fees paid to them for the provision of services at these stations.”
+Pub. L. 100–203, title IX, § 9501(c), Dec. 22, 1987, 101 Stat. 1330–380, as amended by Pub. L. 103–182, title VI, § 691(b)(1), Dec. 8, 1993, 107 Stat. 2224; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210, provided that: “(1) The Comptroller General of the United States shall conduct a comprehensive analysis, including a cost-benefit study, of the centralized cargo examination station (CES) concept from the perspective of both the United States Customs Service and business community users. The analysis shall be submitted on the same day to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate (hereinafter in this subsection referred to as the ‘Committees’) not later than March 30, 1988, and shall include recommendations as to how best to implement cargo inspection procedures. “(2) The United States Customs Service—“(A) may not, after the date of the enactment of this Act [Dec. 22, 1987], establish any new centralized cargo examination station at any ocean port, airport, or land border location unless the Customs Service provides to the Committees advance notice, in writing, of not less than 90 days regarding the proposed establishment; and “(B) shall, on such date of enactment, suspend operations at each centralized cargo examination station that was operating at an airport on the day before such date until the 90th day after a date—“(i) that is not earlier than the date on which the analysis required under paragraph (1) is submitted to the Committees, and “(ii) on which the Customs Service provides to the Committees notice, in writing, that it intends to resume such operations at the station. During the period of suspension of operations under subparagraph (B) at any centralized cargo examination station at an airport, the Secretary of the Treasury shall maintain customs operations and staffing at that airport at a level not less than that which was in effect immediately before the suspension took effect. “(3) The Commissioner of U.S. Customs and Border Protection is authorized to obtain from the operators of centralized cargo examination stations information regarding the fees paid to them for the provision of services at these stations.”
 
-[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).]
+[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).]
 
 
 <a id="section-4"></a>
@@ -233,7 +233,7 @@ Amendment by Pub. L. 91–271 effective with respect to articles entered, or wit
 Act June 25, 1948, ch. 646, § 38, 62 Stat. 992, provided that the amendment made by that act is effective Sept. 1, 1948.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than December 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out as a note under [section 1 of this title](./chapter-001-collection-districts-ports-and-officers.md#section-1).
 
@@ -545,9 +545,9 @@ The sections repealed by subsection (a), referred to in text, means the sections
 
 (2) the airport located at Pontiac/Oakland, Michigan, and
 
-(3) any other airport, seaport, or other facility designated by the Secretary of the Treasury under subsection (c) of this section.
+(3) any other airport, seaport, or other facility designated by the Secretary of the Treasury under subsection (c).
 
-**(b) Liability for and amount of fee** The fee which is charged under subsection (a) of this section shall be paid by each person using the customs services at the airport, seaport, or other facility and shall be in an amount equal to the expenses incurred by the Secretary of the Treasury in providing the customs services which are rendered to such person at such airport, seaport, or other facility (including the salary and expenses of individuals employed by the Secretary of the Treasury to provide such customs services).
+**(b) Liability for and amount of fee** The fee which is charged under subsection (a) shall be paid by each person using the customs services at the airport, seaport, or other facility and shall be in an amount equal to the expenses incurred by the Secretary of the Treasury in providing the customs services which are rendered to such person at such airport, seaport, or other facility (including the salary and expenses of individuals employed by the Secretary of the Treasury to provide such customs services).
 
 **(c) Justification for service** The Secretary of the Treasury may designate airports, seaports, and other facilities under this subsection. An airport, seaport, or other facility may be designated under this subsection only if—
 
@@ -555,11 +555,11 @@ The sections repealed by subsection (a), referred to in text, means the sections
 
 (2) the governor of the State in which such airport, seaport, or other facility is located approves such designation.
 
-**(d) Failure to pay fee** Any person who, after notice and demand for payment of any fee charged under subsection (a) of this section, fails to pay such fee shall be guilty of a misdemeanor and if convicted thereof shall pay a fine that does not exceed an amount equal to 200 percent of such fee.
+**(d) Failure to pay fee** Any person who, after notice and demand for payment of any fee charged under subsection (a), fails to pay such fee shall be guilty of a misdemeanor and if convicted thereof shall pay a fine that does not exceed an amount equal to 200 percent of such fee.
 
-**(e) Small airport, seaport, or other facility account; expenditures for services** Fees collected by the Secretary of the Treasury under subsection (a) of this section with respect to the provision of services at an airport, seaport, or other facility shall be deposited in an account within the Treasury of the United States that is specially designated for such airport, seaport, or other facility. The Secretary of the Treasury is authorized and directed to pay out of any funds available in such account any expenses incurred by the Federal Government in providing customs services at such airport, seaport, or other facility (including expenses incurred for the salaries and expenses of individuals employed to provide such services). None of the funds deposited into such account shall be available for any purpose other than making payments authorized under the preceding sentence.
+**(e) Small airport, seaport, or other facility account; expenditures for services** Fees collected by the Secretary of the Treasury under subsection (a) with respect to the provision of services at an airport, seaport, or other facility shall be deposited in an account within the Treasury of the United States that is specially designated for such airport, seaport, or other facility. The Secretary of the Treasury is authorized and directed to pay out of any funds available in such account any expenses incurred by the Federal Government in providing customs services at such airport, seaport, or other facility (including expenses incurred for the salaries and expenses of individuals employed to provide such services). None of the funds deposited into such account shall be available for any purpose other than making payments authorized under the preceding sentence.
 
-**(f) Customs services for foreign trade zones or subzones** For purposes of this section, customs services provided in connection with, or with respect to, any foreign trade zone or subzone that is located at, or in the vicinity of, any airport, seaport, or other facility described in subsection (a) of this section or designated under subsection (c) of this section shall be considered to be customs services provided at such airport, seaport, or other facility.
+**(f) Customs services for foreign trade zones or subzones** For purposes of this section, customs services provided in connection with, or with respect to, any foreign trade zone or subzone that is located at, or in the vicinity of, any airport, seaport, or other facility described in subsection (a) or designated under subsection (c) shall be considered to be customs services provided at such airport, seaport, or other facility.
 
 ### Statutory Notes
 
@@ -588,7 +588,7 @@ Subsec. (e). Pub. L. 99–272, § 13032(2), substituted last two sentences for f
 Section effective on 15th day after Oct. 30, 1984, see section 214(a), (b) of Pub. L. 98–573, set out as an Effective Date of 1984 Amendment note under [section 1304 of this title](./chapter-004-tariff-act-of-1930.md#section-1304).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-58b-1"></a>
@@ -599,12 +599,12 @@ Beginning in fiscal year 1998 and thereafter, such sums as may be necessary for 
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-58c"></a>
 ## § 58c. Fees for certain customs services
-**(a) Schedule of fees** In addition to any other fee authorized by law, the Secretary of the Treasury shall charge and collect the following fees for the provision of customs services in connection with the following:
+**(a) Schedule of fees** In addition to any other fee authorized by law, the Secretary of the Treasury shall charge and collect the following fees (subject to adjustment under subsection (l)) for the provision of customs services in connection with the following:
 
 (1) For the arrival of a commercial vessel of 100 net tons or more, $397.
 
@@ -634,7 +634,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
     (i) The Secretary of the Treasury may adjust the ad valorem rate specified in subparagraph (A) to an ad valorem rate (but not to a rate of more than 0.21 percent nor less than 0.15 percent) and the amounts specified in subsection (b)(8)(A)(i) (but not to more than $485 nor less than $21) to rates and amounts which would, if charged, offset the salaries and expenses that will likely be incurred by the Customs Service in the processing of such entries and releases during the fiscal year in which such costs are incurred.
 
-    (ii) In determining the amount of any adjustment under clause (i), the Secretary of the Treasury shall take into account whether there is a surplus or deficit in the fund established under subsection (f) of this section with respect to the provision of customs services for the processing of formal entries and releases of merchandise.
+    (ii) In determining the amount of any adjustment under clause (i), the Secretary of the Treasury shall take into account whether there is a surplus or deficit in the fund established under subsection (f) with respect to the provision of customs services for the processing of formal entries and releases of merchandise.
 
     (iii) An adjustment may not be made under clause (i) with respect to the fee charged during any fiscal year unless the Secretary of the Treasury—
 
@@ -654,7 +654,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
     (v) An adjustment made under this subparagraph shall become effective with respect to formal entries and releases made on or after the 15th calendar day after the date of publication of the notice described in clause (iii)(IV) and shall remain in effect until adjusted under this subparagraph.
 
-  (C) Any fee charged under this paragraph, whether or not adjusted under subparagraph (B), is subject to the limitations in subsection (b)(8)(A) of this section.
+  (C) Any fee charged under this paragraph, whether or not adjusted under subparagraph (B), is subject to the limitations in subsection (b)(8)(A).
 
 (10) For the processing of merchandise that is informally entered or released, other than at—
 
@@ -670,7 +670,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
   (ii) $6 if the entry or release is manual and not prepared by customs personnel; or
 
   (iii) $9 if the entry or release, whether automated or manual, is prepared by customs personnel.
-  For provisions relating to the informal entry or release of merchandise at facilities referred to in subparagraphs (A), (B), and (C), see subsection (b)(9) of this section.
+  For provisions relating to the informal entry or release of merchandise at facilities referred to in subparagraphs (A), (B), and (C), see subsection (b)(9).
 
 **(b) Limitations on fees**
 
@@ -694,31 +694,31 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
   (C) The exemption provided for in subparagraph (A)(i) shall not apply to fiscal years 1994, 1995, 1996, and 1997.
 
-(2) No fee may be charged under subsection (a)(2) of this section for the arrival of a commercial truck during any calendar year after a total of $100 in fees has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such commercial truck during such calendar year.
+(2) No fee may be charged under subsection (a)(2) for the arrival of a commercial truck during any calendar year after a total of $100 in fees (subject to adjustment under subsection (l)) has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such commercial truck during such calendar year.
 
-(3) No fee may be charged under subsection (a)(3) of this section for the arrival of a railroad car whether passenger or freight during any calendar year after a total of $100 in fees has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such passenger or freight rail car during such calendar year.
+(3) No fee may be charged under subsection (a)(3) for the arrival of a railroad car whether passenger or freight during any calendar year after a total of $100 in fees (subject to adjustment under subsection (l)) has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such passenger or freight rail car during such calendar year.
 
 (4)
 
-  (A) No fee may be charged under subsection (a)(5) of this section with respect to the arrival of any passenger—
+  (A) No fee may be charged under subsection (a)(5) with respect to the arrival of any passenger—
 
     (i) who is in transit to a destination outside the customs territory of the United States, and
 
     (ii) for whom customs inspectional services are not provided.
 
-  (B) In the case of a commercial vessel making a single voyage involving 2 or more United States ports with respect to which the passengers would otherwise be charged a fee pursuant to subsection (a)(5) of this section, such fee shall be charged only 1 time for each passenger.
+  (B) In the case of a commercial vessel making a single voyage involving 2 or more United States ports with respect to which the passengers would otherwise be charged a fee pursuant to subsection (a)(5), such fee shall be charged only 1 time for each passenger.
 
-(5) No fee may be charged under subsection (a)(1) of this section for the arrival of—
+(5) No fee may be charged under subsection (a)(1) for the arrival of—
 
-  (A) a vessel during a calendar year after a total of $5,955 in fees charged under paragraph (1) or (8) of subsection (a) of this section has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such vessel during such calendar year,
+  (A) a vessel during a calendar year after a total of $5,955 in fees (subject to adjustment under subsection (l)) charged under paragraph (1) or (8) of subsection (a) has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such vessel during such calendar year,
 
   (B) any vessel which, at the time of the arrival, is being used solely as a tugboat, or
 
   (C) any barge or other bulk carrier from Canada or Mexico.
 
-(6) No fee may be charged under subsection (a)(8) of this section for the arrival of a barge or other bulk carrier during a calendar year after a total of $1,500 in fees charged under paragraph (1) or (8) of subsection (a) of this section has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such barge or other bulk carrier during such calendar year.
+(6) No fee may be charged under subsection (a)(8) for the arrival of a barge or other bulk carrier during a calendar year after a total of $1,500 in fees (subject to adjustment under subsection (l)) charged under paragraph (1) or (8) of subsection (a) has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such barge or other bulk carrier during such calendar year.
 
-(7) No fee may be charged under paragraph (2), (3), or (4) of subsection (a) of this section for the arrival of any—
+(7) No fee may be charged under paragraph (2), (3), or (4) of subsection (a) for the arrival of any—
 
   (A) commercial truck,
 
@@ -731,11 +731,11 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
   (A)
 
-    (i) Subject to clause (ii), the fee charged under subsection (a)(9) of this section for the formal entry or release of merchandise may not exceed $485 or be less than $25, unless adjusted pursuant to subsection (a)(9)(B) of this section.
+    (i) Subject to clause (ii), the fee charged under subsection (a)(9) for the formal entry or release of merchandise may not exceed $485 or be less than $25, unless adjusted pursuant to subsection (a)(9)(B) or (l).
 
-    (ii) A surcharge of $3 shall be added to the fee determined after application of clause (i) for any manual entry or release of merchandise.
+    (ii) A surcharge of $3 (subject to adjustment under subsection (l)) shall be added to the fee determined after application of clause (i) for any manual entry or release of merchandise.
 
-  (B) No fee may be charged under subsection (a)(9) or (10) of this section for the processing of any article that is—
+  (B) No fee may be charged under subsection (a)(9) or (10) for the processing of any article that is—
 
     (i) provided for under any item in chapter 98 of the Harmonized Tariff Schedule of the United States, except subheading 9802.00.60 or 9802.00.80,
 
@@ -743,7 +743,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
     (iii) a product of any country listed in subdivision (c)(ii)(B) or (c)(v) of general note 3 to such Schedule.
 
-  (C) For purposes of applying subsection (a)(9) or (10) of this section—
+  (C) For purposes of applying subsection (a)(9) or (10)—
 
     (i) expenses incurred by the Secretary of the Treasury in the processing of merchandise do not include costs incurred in—
 
@@ -759,7 +759,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
       (II) the entry or release is filed at ports prior to the full implementation of the cargo selectivity data system by the Customs Service at such ports.
 
-  (D) The fee charged under subsection (a)(9) or (10) of this section with respect to the processing of merchandise shall—
+  (D) The fee charged under subsection (a)(9) or (10) with respect to the processing of merchandise shall—
 
     (i) be paid by the importer of record of the merchandise;
 
@@ -772,9 +772,9 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
     (v) in the case of agricultural products of the United States that are processed and packed in a foreign trade zone, be applied only to the value of material used to make the container for such merchandise, if such merchandise is subject to entry and the container is of a kind normally used for packing such merchandise; and
 
     (vi) in the case of merchandise entered from a foreign trade zone (other than merchandise to which clause (v) applies), be applied only to the value of the privileged or nonprivileged foreign status merchandise under section 3 of the Act of June 18, 1934 (commonly known as the Foreign Trade Zones Act, [19 U.S.C. 81c](./chapter-1a-foreign-trade-zones.md#section-81c)).
-    With respect to merchandise that is classified under subheading 9802.00.60 or heading 9802.00.80 of such Schedule and is duty-free, the Secretary may collect the fee charged on the processing of the merchandise under subsection (a)(9) or (10) of this section on the basis of aggregate data derived from financial and manufacturing reports used by the importer in the normal course of business, rather than on the basis of entry-by-entry accounting.
+    With respect to merchandise that is classified under subheading 9802.00.60 or heading 9802.00.80 of such Schedule and is duty-free, the Secretary may collect the fee charged on the processing of the merchandise under subsection (a)(9) or (10) on the basis of aggregate data derived from financial and manufacturing reports used by the importer in the normal course of business, rather than on the basis of entry-by-entry accounting.
 
-  (E) For purposes of subsection (a)(9) and (10) of this section, merchandise is entered or released, as the case may be, if the merchandise is—
+  (E) For purposes of subsection (a)(9) and (10), merchandise is entered or released, as the case may be, if the merchandise is—
 
     (i) permitted or released under [section 1448(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1448/b&num=0&edition=prelim),
 
@@ -784,23 +784,23 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 (9)
 
-  (A) With respect to the processing of letters, documents, records, shipments, merchandise, or any other item that is valued at an amount that is $2,000 or less (or such higher amount as the Secretary of the Treasury may set by regulation pursuant to [section 1498 of this title](./chapter-004-tariff-act-of-1930.md#section-1498)), except such items entered for transportation and exportation or immediate exportation at a centralized hub facility, an express consignment carrier facility, or a small airport or other facility, the following reimbursements and payments are required:
+  (A) With respect to the processing of letters, documents, records, shipments, merchandise, or any other item that is valued at an amount that is $2,000 or less (or such higher amount as the Secretary of the Treasury may set by regulation pursuant to [section 1498 of this title](./chapter-004-tariff-act-of-1930.md#section-1498) and subject to adjustment under subsection (l)), except such items entered for transportation and exportation or immediate exportation at a centralized hub facility, an express consignment carrier facility, or a small airport or other facility, the following reimbursements and payments are required:
 
     (i) In the case of a small airport or other facility—
 
       (I) the reimbursement which such facility is required to make during the fiscal year under [section 9701 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9701&num=0&edition=prelim) or [section 58b of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58b); and
 
-      (II) an annual payment by the facility to the Secretary of the Treasury, which is in lieu of the payment of fees under subsection (a)(10) of this section for such fiscal year, in an amount equal to the reimbursement under subclause (I).
+      (II) an annual payment by the facility to the Secretary of the Treasury, which is in lieu of the payment of fees under subsection (a)(10) for such fiscal year, in an amount equal to the reimbursement under subclause (I).
 
-    (ii) Notwithstanding subsection (e)(6) of this section and subject to the provisions of subparagraph (B), in the case of an express consignment carrier facility or centralized hub facility—
+    (ii) Notwithstanding subsection (e)(6) and subject to the provisions of subparagraph (B), in the case of an express consignment carrier facility or centralized hub facility—
 
-      (I) $.66 per individual airway bill or bill of lading; and
+      (I) $.66 per individual airway bill or bill of lading (subject to adjustment under subsection (l)); and
 
-      (II) if the merchandise is formally entered, the fee provided for in subsection (a)(9) of this section, if applicable.
+      (II) if the merchandise is formally entered, the fee provided for in subsection (a)(9), if applicable.
 
   (B)
 
-    (i) Beginning in fiscal year 2004, the Secretary of the Treasury may adjust (not more than once per fiscal year) the amount described in subparagraph (A)(ii) to an amount that is not less than $.35 and not more than $1.00 per individual airway bill or bill of lading. The Secretary shall provide notice in the Federal Register of a proposed adjustment under the preceding sentence and the reasons therefor and shall allow for public comment on the proposed adjustment.
+    (i) Beginning in fiscal year 2004, the Secretary of the Treasury may adjust (not more than once per fiscal year) the amount described in subparagraph (A)(ii) to an amount that is not less than $.35 and not more than $1.00 per individual airway bill or bill of lading (subject to adjustment under subsection (l)). The Secretary shall provide notice in the Federal Register of a proposed adjustment under the preceding sentence and the reasons therefor and shall allow for public comment on the proposed adjustment.
 
     (ii) Notwithstanding [section 1451 of this title](./chapter-004-tariff-act-of-1930.md#section-1451), the payment required by subparagraph (A)(ii)(I) or (II) shall be the only payment required for reimbursement of the Customs Service in connection with the processing of an individual airway bill or bill of lading in accordance with such subparagraph and for providing services at express consignment carrier facilities or centralized hub facilities, except that the Customs Service may require such facilities to cover expenses of the Customs Service for adequate office space, equipment, furnishings, supplies, and security.
 
@@ -829,17 +829,17 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
     (ii) may not be increased after December 31, 1993, and may not be charged after June 29, 1999, with respect to goods that qualify to be marked as goods of Mexico pursuant to such Annex 311, for such time as Mexico is a NAFTA country.
     Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
 
-(11) No fee may be charged under subsection (a)(9) or (10) of this section with respect to products of Israel if an exemption with respect to the fee is implemented under section 112 of the Customs and Trade Act of 1990.
+(11) No fee may be charged under subsection (a)(9) or (10) with respect to products of Israel if an exemption with respect to the fee is implemented under section 112 of the Customs and Trade Act of 1990.
 
-(12) No fee may be charged under subsection (a)(9) or (10) of this section with respect to goods that qualify as originating goods under section 202 of the United States-Chile Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
+(12) No fee may be charged under subsection (a)(9) or (10) with respect to goods that qualify as originating goods under section 202 of the United States-Chile Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
 
-(13) No fee may be charged under subsection (a)(9) or (10) of this section with respect to goods that qualify as originating goods under section 202 of the United States-Singapore Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
+(13) No fee may be charged under subsection (a)(9) or (10) with respect to goods that qualify as originating goods under section 202 of the United States-Singapore Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
 
-(14) No fee may be charged under subsection (a)(9) or (10) of this section with respect to goods that qualify as originating goods under section 203 of the United States-Australia Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
+(14) No fee may be charged under subsection (a)(9) or (10) with respect to goods that qualify as originating goods under section 203 of the United States-Australia Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
 
-(15) No fee may be charged under subsection (a)(9) or (10) of this section with respect to goods that qualify as originating goods under [section 4033 of this title](./chapter-026-dominican-republic-central-america-free-trade.md#section-4033). Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
+(15) No fee may be charged under subsection (a)(9) or (10) with respect to goods that qualify as originating goods under [section 4033 of this title](./chapter-026-dominican-republic-central-america-free-trade.md#section-4033). Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
 
-(16) No fee may be charged under subsection (a)(9) or (10) of this section with respect to goods that qualify as originating goods under section 202 of the United States-Bahrain Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
+(16) No fee may be charged under subsection (a)(9) or (10) with respect to goods that qualify as originating goods under section 202 of the United States-Bahrain Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
 
 (17) No fee may be charged under subsection (a)(9) or (10) with respect to goods that qualify as originating goods under section 202 of the United States-Oman Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
 
@@ -879,30 +879,42 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 (1) Each person that issues a document or ticket to an individual for transportation by a commercial vessel or commercial aircraft into the customs territory of the United States shall—
 
-  (A) collect from that individual the fee charged under subsection (a)(5) of this section at the time the document or ticket is issued; and
+  (A) collect from that individual the fee charged under subsection (a)(5) at the time the document or ticket is issued; and
 
-  (B) separately identify on that document or ticket the fee charged under subsection (a)(5) of this section as a Federal inspection fee.
+  (B) separately identify on that document or ticket the fee charged under subsection (a)(5) as a Federal inspection fee.
 
 (2) If—
 
   (A) a document or ticket for transportation of a passenger into the customs territory of the United States is issued in a foreign country; and
 
-  (B) the fee charged under subsection (a)(5) of this section is not collected at the time such document or ticket is issued;
+  (B) the fee charged under subsection (a)(5) is not collected at the time such document or ticket is issued;
   the person providing transportation to such passenger shall collect such fee at the time such passenger departs from the customs territory of the United States and shall provide such passenger a receipt for the payment of such fee.
 
 (3) The person who collects fees under paragraph (1) or (2) shall remit those fees to the Secretary of the Treasury at any time before the date that is 31 days after the close of the calendar quarter in which the fees are collected.
 
 (4)
 
-  (A) Notice of the date on which payment of the fee imposed by subsection (a)(7) of this section is due shall be published by the Secretary of the Treasury in the Federal Register by no later than the date that is 60 days before such due date.
+  (A) Notice of the date on which payment of the fee imposed by subsection (a)(7) is due shall be published by the Secretary of the Treasury in the Federal Register by no later than the date that is 60 days before such due date.
 
-  (B) A customs broker permit may be revoked or suspended for nonpayment of the fee imposed by subsection (a)(7) of this section only if notice of the date on which payment of such fee is due was published in the Federal Register at least 60 days before such due date.
+  (B) A customs broker permit may be revoked or suspended for nonpayment of the fee imposed by subsection (a)(7) only if notice of the date on which payment of such fee is due was published in the Federal Register at least 60 days before such due date.
 
-  (C) The customs broker’s license issued under [section 1641(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1641/b&num=0&edition=prelim) may not be revoked or suspended merely by reason of nonpayment of the fee imposed under subsection (a)(7) of this section.
+  (C) The customs broker’s license issued under [section 1641(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1641/b&num=0&edition=prelim) may not be revoked or suspended merely by reason of nonpayment of the fee imposed under subsection (a)(7).
 
 **(e) Provision of customs services**
 
-(1) Notwithstanding [section 1451 of this title](./chapter-004-tariff-act-of-1930.md#section-1451) or any other provision of law (other than paragraph (2)), the customs services required to be provided to passengers upon arrival in the United States shall be adequately provided in connection with scheduled airline flights at customs serviced airports when needed and at no cost (other than the fees imposed under subsection (a) of this section) to airlines and airline passengers.
+(1)
+
+  (A) Notwithstanding [section 1451 of this title](./chapter-004-tariff-act-of-1930.md#section-1451) or any other provision of law (other than subparagraph (B) and paragraph (2)), the customs services required to be provided to passengers upon arrival in the United States shall be adequately provided in connection with scheduled airline flights at customs serviced airports when needed and at no cost (other than the fees imposed under subsection (a)) to airlines and airline passengers.
+
+  (B)
+
+    (i) An appropriate officer of U.S. Customs and Border Protection may assign a sufficient number of employees of U.S. Customs and Border Protection (if available) to perform services described in clause (ii) for a charter air carrier (as defined in [section 40102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102&num=0&edition=prelim)) for a charter flight arriving after normal operating hours at an airport that is an established port of entry serviced by U.S. Customs and Border Protection, notwithstanding that overtime funds for those services are not available, if the charter air carrier—
+
+      (I) not later than 4 hours before the flight arrives, specifically requests that such services be provided; and
+
+      (II) pays any overtime fees incurred in connection with such services.
+
+    (ii) Services described in this clause are customs services for passengers and their baggage or any other similar service that could lawfully be performed during regular hours of operation.
 
 (2)
 
@@ -914,7 +926,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
   (A) the customs services required to be provided to passengers upon arrival in the United States shall be adequately provided in connection with scheduled airline flights when needed at places located outside the customs territory of the United States at which a customs officer is stationed for the purpose of providing such customs services, and
 
-  (B) other than the fees imposed under subsection (a) of this section, the airlines and airline passengers shall not be required to reimburse the Secretary of the Treasury for the costs of providing overtime customs inspectional services at such places.
+  (B) other than the fees imposed under subsection (a), the airlines and airline passengers shall not be required to reimburse the Secretary of the Treasury for the costs of providing overtime customs inspectional services at such places.
 
 (4) Notwithstanding any other provision of law, all customs services (including, but not limited to, normal and overtime clearance and preclearance services) shall be adequately provided, when requested, for—
 
@@ -934,11 +946,11 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
   (D) the desirability or unavoidability of late night and early morning arrivals from various time zones;
 
-  (E) the availability (in accordance with regulations prescribed under subsection (g)(2) of this section) of customs personnel and resources; and
+  (E) the availability (in accordance with regulations prescribed under subsection (g)(2)) of customs personnel and resources; and
 
   (F) the need for specific enforcement checks.
 
-(6) Notwithstanding any other provision of law except paragraph (2), during any period when fees are authorized under subsection (a) of this section, no charges, other than such fees, may be collected—
+(6) Notwithstanding any other provision of law except paragraph (2), during any period when fees are authorized under subsection (a), no charges, other than such fees, may be collected—
 
   (A) for any—
 
@@ -957,7 +969,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **(f) Disposition of fees**
 
-(1) There is established in the general fund of the Treasury a separate account which shall be known as the “Customs User Fee Account”. Notwithstanding [section 1524 of this title](./chapter-004-tariff-act-of-1930.md#section-1524), there shall be deposited as offsetting receipts into the Customs User Fee Account all fees collected under subsection (a) of this section except—
+(1) There is established in the general fund of the Treasury a separate account which shall be known as the “Customs User Fee Account”. Notwithstanding [section 1524 of this title](./chapter-004-tariff-act-of-1930.md#section-1524), there shall be deposited as offsetting receipts into the Customs User Fee Account all fees collected under subsection (a) except—
 
   (A) the portion of such fees that is required under paragraph (3) for the direct reimbursement of appropriations, and
 
@@ -967,7 +979,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 (3)
 
-  (A) The Secretary of the Treasury, in accordance with [section 1524 of this title](./chapter-004-tariff-act-of-1930.md#section-1524) and subject to subparagraph (B), shall directly reimburse, from the fees collected under subsection (a) of this section (other than the fees under subsection (a)(9) and (10) of this section and the excess fees determined by the Secretary under paragraph (4)), each appropriation for the amount paid out of that appropriation for the costs incurred by the Secretary—
+  (A) The Secretary of the Treasury, in accordance with [section 1524 of this title](./chapter-004-tariff-act-of-1930.md#section-1524) and subject to subparagraph (B), shall directly reimburse, from the fees collected under subsection (a) (other than the fees under subsection (a)(9) and (10) and the excess fees determined by the Secretary under paragraph (4)), each appropriation for the amount paid out of that appropriation for the costs incurred by the Secretary—
 
     (i) in—
 
@@ -981,7 +993,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
       (V) paying foreign language proficiency awards under [section 267a of this title](./chapter-003-the-tariff-and-related-provisions.md#section-267a),
 
-    (ii) to the extent funds remain available after making reimbursements under clause (i), in providing salaries for full-time and part-time inspectional personnel and equipment that enhance customs services for those persons or entities that are required to pay fees under paragraphs (1) through (8) of subsection (a) of this section (distributed on a basis proportionate to the fees collected under paragraphs (1) through (8) of subsection (a) of this section), and
+    (ii) to the extent funds remain available after making reimbursements under clause (i), in providing salaries for full-time and part-time inspectional personnel and equipment that enhance customs services for those persons or entities that are required to pay fees under paragraphs (1) through (8) of subsection (a) (distributed on a basis proportionate to the fees collected under paragraphs (1) through (8) of subsection (a)), and
 
     (iii) to the extent funds remain available after making reimbursements under clause (ii), in providing salaries for up to 50 full-time equivalent inspectional positions to provide preclearance services.
     The transfer of funds required under subparagraph (C)(iii) has priority over reimbursements under this subparagraph to carry out subclauses (II), (III), (IV), and (V) of clause (i). Funds described in clause (ii) shall only be available to reimburse costs in excess of the highest amount appropriated for such costs during the period beginning with fiscal year 1990 and ending with the current fiscal year.
@@ -1011,53 +1023,65 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
       (II) the actual cost for overtime compensation, premium pay, and agency retirement contributions that is incurred during that fiscal year in regard to inspectional services under [section 267 of this title](./chapter-003-the-tariff-and-related-provisions.md#section-267), as amended by section 13811 of the Omnibus Budget Reconciliation Act of 1993, and under [section 8331(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331/3&num=0&edition=prelim), as amended by section 13812(a)(1) of such Act of 1993, plus the actual cost that is incurred during that fiscal year for foreign language proficiency awards under [section 267a of this title](./chapter-003-the-tariff-and-related-provisions.md#section-267a),
       and shall transfer from the Customs User Fee Account to the General Fund of the Treasury an amount equal to the difference calculated under this clause, or $18,000,000, whichever amount is less. Transfers shall be made under this clause at least quarterly and on the basis of estimates to the same extent as are reimbursements under subparagraph (B)(iii).
 
-  (D) Nothing in this paragraph shall be construed to preclude the use of appropriated funds, from sources other than the fees collected under subsection (a) of this section, to pay the costs set forth in clauses (i), (ii), and (iii) of subparagraph (A).
+  (D) Nothing in this paragraph shall be construed to preclude the use of appropriated funds, from sources other than the fees collected under subsection (a), to pay the costs set forth in clauses (i), (ii), and (iii) of subparagraph (A).
 
 (4)
 
-  (A) There is created within the general fund of the Treasury a separate account that shall be known as the “Customs Commercial and Homeland Security Automation Account”. In each of fiscal years 2003, 2004, and 2005 there shall be deposited into the Account from fees collected under subsection (a)(9)(A) of this section, $350,000,000.
+  (A) There is created within the general fund of the Treasury a separate account that shall be known as the “Customs Commercial and Homeland Security Automation Account”. In each of fiscal years 2003, 2004, and 2005 there shall be deposited into the Account from fees collected under subsection (a)(9)(A), $350,000,000.
 
-  (B) There is authorized to be appropriated from the Account in fiscal years 2003 through 2005 such amounts as are available in that Account for the development, establishment, and implementation of the Automated Commercial Environment computer system for the processing of merchandise that is entered or released and for other purposes related to the functions of the Department of Homeland Security. Amounts appropriated pursuant to this subparagraph are authorized to remain available until expended.
+  (B) There is authorized to be appropriated from the Account in fiscal years 2016 through 2018 not less than $153,736,000 to complete the development and implementation, establishment, and implementation 11 So in original. of the Automated Commercial Environment computer system for the processing of merchandise that is entered or released and for other purposes related to the functions of the Department of Homeland Security. Amounts appropriated pursuant to this subparagraph are authorized to remain available until expended.
 
-  (C) In adjusting the fee imposed by subsection (a)(9)(A) of this section for fiscal year 2006, the Secretary of the Treasury shall reduce the amount estimated to be collected in fiscal year 2006 by the amount by which total fees deposited to the Account during fiscal years 2003, 2004, and 2005 exceed total appropriations from that Account.
+  (C) In adjusting the fee imposed by subsection (a)(9)(A) for fiscal year 2006, the Secretary of the Treasury shall reduce the amount estimated to be collected in fiscal year 2006 by the amount by which total fees deposited to the Account during fiscal years 2003, 2004, and 2005 exceed total appropriations from that Account.
 
-(5) Of the amounts collected in fiscal year 1999 under paragraphs (9) and (10) of subsection (a) of this section, $50,000,000 shall be available to the Customs Service, subject to appropriations Acts, for automated commercial systems. Amounts made available under this paragraph shall remain available until expended.
+(5) Of the amounts collected in fiscal year 1999 under paragraphs (9) and (10) of subsection (a), $50,000,000 shall be available to the Customs Service, subject to appropriations Acts, for automated commercial systems. Amounts made available under this paragraph shall remain available until expended.
 
 **(g) Regulations and enforcement**
 
-(1) The Secretary of the Treasury may prescribe such rules and regulations as may be necessary to carry out the provisions of this section. Regulations issued by the Secretary of the Treasury under this subsection with respect to the collection of the fees charged under subsection (a)(5) of this section and the remittance of such fees to the Treasury of the United States shall be consistent with the regulations issued by the Secretary of the Treasury for the collection and remittance of the taxes imposed by subchapter C of chapter 33 of title 26, but only to the extent the regulations issued with respect to such taxes do not conflict with the provisions of this section.
+(1) The Secretary of the Treasury may prescribe such rules and regulations as may be necessary to carry out the provisions of this section. Regulations issued by the Secretary of the Treasury under this subsection with respect to the collection of the fees charged under subsection (a)(5) and the remittance of such fees to the Treasury of the United States shall be consistent with the regulations issued by the Secretary of the Treasury for the collection and remittance of the taxes imposed by subchapter C of chapter 33 of title 26, but only to the extent the regulations issued with respect to such taxes do not conflict with the provisions of this section.
 
 (2) Except to the extent otherwise provided in regulations, all administrative and enforcement provisions of customs laws and regulations, other than those laws and regulations relating to drawback, shall apply with respect to any fee prescribed under subsection (a) of this section, and with respect to persons liable therefor, as if such fee is a customs duty. For purposes of the preceding sentence, any penalty expressed in terms of a relationship to the amount of the duty shall be treated as not less than the amount which bears a similar relationship to the amount of the fee assessed. For purposes of determining the jurisdiction of any court of the United States or any agency of the United States, any fee prescribed under subsection (a) of this section shall be treated as if such fee is a customs duty.
 
 **(h) Omitted**
 
-**(i) Effect on other authority** Except with respect to customs services for which fees are imposed under subsection (a) of this section, nothing in this section shall be construed as affecting the authority of the Secretary of the Treasury to charge fees under [section 58a of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58a).
+**(i) Effect on other authority** Except with respect to customs services for which fees are imposed under subsection (a), nothing in this section shall be construed as affecting the authority of the Secretary of the Treasury to charge fees under [section 58a of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58a).
 
 **(j) Effective dates**
 
 (1) Except as otherwise provided in this subsection, the provisions of this section, and the amendments and repeals made by this section, shall apply with respect to customs services rendered after the date that is 90 days after April 7, 1986.
 
-(2) Fees may be charged under subsection (a)(5) of this section only with respect to customs services rendered in regard to arriving passengers using transportation for which documents or tickets were issued after the date that is 90 days after April 7, 1986.
+(2) Fees may be charged under subsection (a)(5) only with respect to customs services rendered in regard to arriving passengers using transportation for which documents or tickets were issued after the date that is 90 days after April 7, 1986.
 
 (3)
 
-  (A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) of this section after September 30, 2024.
+  (A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) after September 30, 2025.
 
   (B)
 
-    (i) Subject to clause (ii), Fees 11 So in original. Probably should not be capitalized. may not be charged under paragraphs (1) through (8) of subsection (a) of this section after September 30, 2024.
+    (i) Subject to clause (ii), Fees 22 So in original. Probably should not be capitalized. may not be charged under paragraphs (1) through (8) of subsection (a) after September 30, 2025.
 
-    (ii) In fiscal year 2006 and in each succeeding fiscal year for which fees under paragraphs (1) through (8) of subsection (a) of this section are authorized—
+    (ii) In fiscal year 2006 and in each succeeding fiscal year for which fees under paragraphs (1) through (8) of subsection (a) are authorized—
 
       (I) the Secretary of the Treasury shall charge fees under each such paragraph in amounts that are reasonably related to the costs of providing customs services in connection with the activity or item for which the fee is charged under such paragraph, except that in no case may the fee charged under any such paragraph exceed by more than 10 percent the amount otherwise prescribed by such paragraph;
 
-      (II) the amount of fees collected under such paragraphs may not exceed, in the aggregate, the amounts paid in that fiscal year for the costs described in subsection (f)(3)(A) of this section incurred in providing customs services in connection with the activity or item for which the fees are charged under such paragraphs;
+      (II) the amount of fees collected under such paragraphs may not exceed, in the aggregate, the amounts paid in that fiscal year for the costs described in subsection (f)(3)(A) incurred in providing customs services in connection with the activity or item for which the fees are charged under such paragraphs;
 
-      (III) a fee may not be collected under any such paragraph except to the extent such fee will be expended to pay the costs described in subsection (f)(3)(A) of this section incurred in providing customs services in connection with the activity or item for which the fee is charged under such paragraph; and
+      (III) a fee may not be collected under any such paragraph except to the extent such fee will be expended to pay the costs described in subsection (f)(3)(A) incurred in providing customs services in connection with the activity or item for which the fee is charged under such paragraph; and
 
-      (IV) any fee collected under any such paragraph shall be available for expenditure only to pay the costs described in subsection (f)(3)(A) of this section incurred in providing customs services in connection with the activity or item for which the fee is charged under such paragraph.
+      (IV) any fee collected under any such paragraph shall be available for expenditure only to pay the costs described in subsection (f)(3)(A) incurred in providing customs services in connection with the activity or item for which the fee is charged under such paragraph.
 
-**(k) Advisory committee** The Commissioner of Customs shall establish an advisory committee whose membership shall consist of representatives from the airline, cruise ship, and other transportation industries who may be subject to fees under subsection (a) of this section. The advisory committee shall not be subject to termination under section 14 of the Federal Advisory Committee Act. The advisory committee shall meet on a periodic basis and shall advise the Commissioner on issues related to the performance of the inspectional services of the United States Customs Service. Such advice shall include, but not be limited to, such issues as the time periods during which such services should be performed, the proper number and deployment of inspection officers, the level of fees, and the appropriateness of any proposed fee. The Commissioner shall give consideration to the views of the advisory committee in the exercise of his or her duties.
+**(k) Advisory committee** The Commissioner of U.S. Customs and Border Protection shall establish an advisory committee whose membership shall consist of representatives from the airline, cruise ship, and other transportation industries who may be subject to fees under subsection (a). The advisory committee shall not be subject to termination under section 14 of the Federal Advisory Committee Act. The advisory committee shall meet on a periodic basis and shall advise the Commissioner on issues related to the performance of the inspectional services of the United States Customs Service. Such advice shall include, but not be limited to, such issues as the time periods during which such services should be performed, the proper number and deployment of inspection officers, the level of fees, and the appropriateness of any proposed fee. The Commissioner shall give consideration to the views of the advisory committee in the exercise of his or her duties.
+
+**(l) Adjustment of fees for inflation**
+
+(1) **In general** — The Secretary of the Treasury shall adjust the fees established under subsection (a), and the limitations on such fees under paragraphs (2), (3), (5), (6), (8), and (9) of subsection (b), on April 1, 2016, and at the beginning of each fiscal year thereafter, to reflect the percentage (if any) of the increase in the average of the Consumer Price Index for the preceding 12-month period compared to the Consumer Price Index for fiscal year 2014.
+
+(2) **Special rules for calculation of adjustment** — In adjusting under paragraph (1) the amount of the fees established under subsection (a), and the limitations on such fees under paragraphs (2), (3), (5), (6), (8), and (9) of subsection (b), the Secretary—
+
+  (A) shall round the amount of any increase in the Consumer Price Index to the nearest dollar; and
+
+  (B) may ignore any such increase of less than 1 percent.
+
+(3) **Consumer price index defined** — For purposes of this subsection, the term “Consumer Price Index” means the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
 
 ### Statutory Notes
 
@@ -1127,6 +1151,42 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section is comprised of section 13031 of Pub. L. 99–272. Subsec. (h) of section 13031 of Pub. L. 99–272 amended [section 545(i) of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section545/i&num=0&edition=prelim), Railroads, and repealed section 1741(e) of former Title 49, Transportation.
 
 #### Amendments
+2016—Subsec. (e)(1). Pub. L. 114–125, § 908, designated existing provisions as subpar. (A), inserted “subparagraph (B) and” before “paragraph (2))”, and added subpar. (B).
+
+Subsec. (f)(4)(B). Pub. L. 114–125, § 106(a), substituted “2016 through 2018 not less than $153,736,000 to complete the development and implementation” for “2003 through 2005 such amounts as are available in that Account for the development”.
+
+Subsec. (j)(3)(A). Pub. L. 114–125, § 920(a)(1), substituted “September 30, 2025” for “July 7, 2025”.
+
+Subsec. (j)(3)(D). Pub. L. 114–125, § 920(a)(2), struck out subpar. (D) which read as follows: “Fees may be charged under paragraphs (9) and (10) of subsection (a) during the period beginning on July 29, 2025, and ending on September 30, 2025.”
+
+2015—Subsec. (a). Pub. L. 114–94, § 32201(c)(1), inserted “(subject to adjustment under subsection (l))” after “following fees” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 114–94, § 32201(c)(2)(A), inserted “(subject to adjustment under subsection (l))” after “in fees”.
+
+Subsec. (b)(3). Pub. L. 114–94, § 32201(c)(2)(B), inserted “(subject to adjustment under subsection (l))” after “in fees”.
+
+Subsec. (b)(5)(A). Pub. L. 114–94, § 32201(c)(2)(C), inserted “(subject to adjustment under subsection (l))” after “in fees”.
+
+Subsec. (b)(6). Pub. L. 114–94, § 32201(c)(2)(D), inserted “(subject to adjustment under subsection (l))” after “in fees”.
+
+Subsec. (b)(8)(A)(i). Pub. L. 114–94, § 32201(c)(2)(E)(i), inserted “or (l)” after “subsection (a)(9)(B)”.
+
+Subsec. (b)(8)(A)(ii). Pub. L. 114–94, § 32201(c)(2)(E)(ii), inserted “(subject to adjustment under subsection (l))” after “$3”.
+
+Subsec. (b)(9)(A). Pub. L. 114–94, § 32201(c)(2)(F)(i)(I), inserted “and subject to adjustment under subsection (l)” after “[section 1498 of this title](./chapter-004-tariff-act-of-1930.md#section-1498)” in introductory provisions.
+
+Subsec. (b)(9)(A)(ii)(I). Pub. L. 114–94, § 32201(c)(2)(F)(i)(II), inserted “(subject to adjustment under subsection (l))” after “bill of lading”.
+
+Subsec. (b)(9)(B)(i). Pub. L. 114–94, § 32201(c)(2)(F)(ii), inserted “(subject to adjustment under subsection (l))” after “bill of lading”.
+
+Subsec. (j)(3)(A). Pub. L. 114–27, § 801(a), substituted “July 7, 2025” for “September 30, 2024”.
+
+Subsec. (j)(3)(B)(i). Pub. L. 114–27, § 802(a)(1), substituted “September 30, 2025” for “September 30, 2024”.
+
+Subsec. (j)(3)(D). Pub. L. 114–27, § 802(a)(2), added subpar. (D).
+
+Subsec. (l). Pub. L. 114–94, § 32201(a), added subsec. (l).
+
 2014—Subsec. (a)(9)(C), (D). Pub. L. 113–188, § 1001(c)(1)(A), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “If for any fiscal year, the Secretary of the Treasury determines not to make an adjustment under subparagraph (B), the Secretary shall, within the time prescribed under subparagraph (B)(iii)(I), submit a written report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives detailing the reasons for maintaining the current fee and the methodology used for computing such fee.”
 
 Subsec. (f)(1)(B). Pub. L. 113–188, § 1001(c)(2)(A), substituted “paragraph (4)” for “paragraph (5)”.
@@ -1283,7 +1343,7 @@ Subsec. (b)(9)(B), (C). Pub. L. 107–210, § 337(a)(2), added subpar. (B) and r
 
 Subsec. (f)(1)(B). Pub. L. 107–296, § 419(a)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “the portion of such fees that is determined by the Secretary to be excess fees under paragraph (5).”
 
-Subsec. (f)(4). Pub. L. 107–296, § 419(a)(2), struck out “(other than the excess fees determined by the Secretary under paragraph (5))” after “subsection (a) of this section”.
+Subsec. (f)(4). Pub. L. 107–296, § 419(a)(2), struck out “(other than the excess fees determined by the Secretary under paragraph (5))” after “subsection (a)”.
 
 Subsec. (f)(5). Pub. L. 107–296, § 419(a)(3), added par. (5) and struck out former par. (5) which read as follows: “At the close of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary of the Treasury shall determine the amount of the fees collected under paragraph (5)(A) of subsection (a) of this section for that fiscal year that exceeds the amount of such fees that would have been collected for such fiscal year if the fees that were in effect on the day before the effective date of this paragraph applied to such fiscal year. The amount of the excess fees determined under the preceding sentence shall be deposited in the Customs User Fee Account and shall be available for reimbursement of inspectional costs (including passenger processing costs) not otherwise reimbursed under this section, and shall be available only to the extent provided in appropriations Acts.”
 
@@ -1295,7 +1355,7 @@ Subsec. (f)(5). Pub. L. 107–296, § 419(a)(3), added par. (5) and struck out f
 
 “(B) For fiscal year 1998 and each fiscal year thereafter, for the arrival of each passenger aboard a commercial vessel or commercial aircraft from a place outside the United States (other than a place referred to in subsection (b)(1)(A)(i) of this section), $5.”
 
-Subsec. (b)(1)(A). Pub. L. 106–36, § 2418(b)(2), substituted “Except as provided in subsection (a)(5)(B) of this section, no fee” for “No fee” in introductory provisions.
+Subsec. (b)(1)(A). Pub. L. 106–36, § 2418(b)(2), substituted “Except as provided in subsection (a)(5)(B), no fee” for “No fee” in introductory provisions.
 
 Subsec. (e)(1). Pub. L. 106–36, § 1001(b)(1)(A), realigned margins.
 
@@ -1365,13 +1425,13 @@ Subsec. (b)(10)(A). Pub. L. 104–295, § 21(a)(1), substituted “section 202 o
 
 1994—Subsec. (a)(9)(A). Pub. L. 103–465, § 612(a)(1)(A), substituted “0.21” for “0.17”.
 
-Subsec. (a)(9)(B). Pub. L. 103–465, § 612(a)(1)(B), (C), in cl. (i), substituted “(but not to a rate of more than 0.21 percent nor less than 0.15 percent) and the amounts specified in subsection (b)(8)(A)(i) (but not to more than $485 nor less than $21) to rates and amounts which would” for “(but not to a rate of more than 0.19 percent nor less than 0.15 percent) that would” and in cl. (ii), substituted “subsection (f) of this section” for “[section 1613b of this title](./chapter-004-tariff-act-of-1930.md#section-1613b)”.
+Subsec. (a)(9)(B). Pub. L. 103–465, § 612(a)(1)(B), (C), in cl. (i), substituted “(but not to a rate of more than 0.21 percent nor less than 0.15 percent) and the amounts specified in subsection (b)(8)(A)(i) (but not to more than $485 nor less than $21) to rates and amounts which would” for “(but not to a rate of more than 0.19 percent nor less than 0.15 percent) that would” and in cl. (ii), substituted “subsection (f)” for “[section 1613b of this title](./chapter-004-tariff-act-of-1930.md#section-1613b)”.
 
 Subsec. (a)(10). Pub. L. 103–465, § 612(a)(2)(B), (C), substituted “$6” for “$5” in cl. (ii) and “$9” for “$8” in cl. (iii).
 
 Subsec. (a)(10)(C). Pub. L. 103–465, § 612(a)(2)(A), which directed the amendment of subpar. (C) by substituting a comma for a period after “entry or release”, could not be executed because a comma, rather than a period, already appeared after “entry or release”.
 
-Subsec. (b)(8)(A)(i). Pub. L. 103–465, § 612(a)(3), substituted “$485 or be less than $25, unless adjusted pursuant to subsection (a)(9)(B) of this section” for “$400 or be less than $21”.
+Subsec. (b)(8)(A)(i). Pub. L. 103–465, § 612(a)(3), substituted “$485 or be less than $25, unless adjusted pursuant to subsection (a)(9)(B)” for “$400 or be less than $21”.
 
 Subsec. (f)(3)(A)(i)(II). Pub. L. 103–465, § 611(a), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “paying premium pay under [section 267(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section267/b&num=0&edition=prelim), but the amount for which reimbursement may be made under this subclause may not, for any fiscal year, exceed the difference between the cost of the premium pay for that year calculated under such [section 267(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section267/b&num=0&edition=prelim) as amended by section 13811 of the Omnibus Budget Reconciliation Act of 1993 and the cost of such pay calculated under subchapter V of chapter 55 of title 5,”.
 
@@ -1383,7 +1443,7 @@ Subsec. (b)(10). Pub. L. 103–182, § 204, amended par. (10) generally. Prior t
 
 Subsec. (f)(1). Pub. L. 103–182, § 521(a)(3)(A), substituted “except—” and subpars. (A) and (B) for “except that portion of such fees that is required under paragraph (3) for the direct reimbursement of appropriations.”
 
-Subsec. (f)(3)(A). Pub. L. 103–182, § 521(a)(3)(B), in introductory provisions, substituted “(other than the fees under subsection (a)(9) and (10) of this section and the excess fees determined by the Secretary under paragraph (5))” for “(other than subsection (a)(9) or (10) of this section)”.
+Subsec. (f)(3)(A). Pub. L. 103–182, § 521(a)(3)(B), in introductory provisions, substituted “(other than the fees under subsection (a)(9) and (10) and the excess fees determined by the Secretary under paragraph (5))” for “(other than subsection (a)(9) or (10) of this section)”.
 
 Pub. L. 103–66, § 13813(2), in closing provisions, inserted “The transfer of funds required under subparagraph (C)(iii) has priority over reimbursements under this subparagraph to carry out subclauses (II), (III), (IV), and (V) of clause (i).”
 
@@ -1397,7 +1457,7 @@ Subsec. (f)(3)(B)(i). Pub. L. 103–66, § 13813(3), struck out “except for co
 
 Subsec. (f)(3)(C)(i), (iii). Pub. L. 103–66, § 13813(4), substituted “to reimburse costs described in subparagraph (A)(i)” for “to fully reimburse inspectional overtime and preclearance costs” in clause (i) and added clause (iii).
 
-Subsec. (f)(4). Pub. L. 103–182, § 521(a)(3)(C), substituted “under subsection (a) of this section (other than the excess fees determined by the Secretary under paragraph (5))” for “under subsection (a) of this section”.
+Subsec. (f)(4). Pub. L. 103–182, § 521(a)(3)(C), inserted “(other than the excess fees determined by the Secretary under paragraph (5))” after “under subsection (a)”.
 
 Subsec. (f)(5). Pub. L. 103–182, § 521(a)(3)(D), added par. (5).
 
@@ -1595,6 +1655,9 @@ Pub. L. 99–514, § 2, substituted “Internal Revenue Code of 1986” for “I
 
 Subsec. (j)(1), (3). Pub. L. 99–509, § 8101(e), substituted “otherwise provided in this subsection” for “provided in paragraph (2)” in par. (1) and added par. (3).
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (k) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Effective and Termination Dates of 2011 Amendment
 Amendment by Pub. L. 112–43 effective Oct. 21, 2011, and applicable with respect to Panama on the date the United States–Panama Trade Promotion Agreement enters into force (Oct. 31, 2012) and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–43, set out in a note under [section 3805 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3805).
 
@@ -1692,7 +1755,10 @@ Pub. L. 99–514, title XVIII, § 1893(g), Oct. 22, 1986, 100 Stat. 2930, as ame
 Pub. L. 103–182, title II, § 212, Dec. 8, 1993, 107 Stat. 2099, provided that: “Any amendment in this title [amending this section and sections 81c, 1304, 1311 to 1313, 1508, 1509, 1514, 1520, 1562, 1592, and 1628 of this title] to a law that is also amended under title VI [see Tables for classification] shall be made after the title VI amendment is executed.”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
+
+#### Use of Fees
+Pub. L. 114–94, div. C, title XXXII, § 32201(b), Dec. 4, 2015, 129 Stat. 1738, provided that: “The fees collected as a result of the amendments made by this section [amending this section] shall be deposited in the Customs User Fee Account, shall be available for reimbursement of customs services and inspections costs, and shall be available only to the extent provided in appropriations Acts.”
 
 #### Rates for Merchandise Processing Fees
 Pub. L. 112–40, § 2, Oct. 21, 2011, 125 Stat. 402, provided that: “For the period beginning on October 1, 2011, and ending on June 30, 2014, section 13031(a)(9) of the Consolidated Omnibus Budget Reconciliation Act of 1985 ([19 U.S.C. 58c(a)(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section58c/a/9&num=0&edition=prelim)) shall be applied and administered— “(1) in subparagraph (A), by substituting ‘0.3464’ for ‘0.21’; and “(2) in subparagraph (B)(i), by substituting ‘0.3464’ for ‘0.21’.”
@@ -1825,7 +1891,7 @@ To aid in the enforcement of the customs and immigration laws along the Canadian
 1940—Act Oct. 10, 1940, substituted “$5000” and “$10,000” for “$3000” and “$6000”, respectively.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Customs Service was under Department of the Treasury.
 
@@ -1843,7 +1909,7 @@ The Secretary of the Treasury is authorized to expend, from the funds appropriat
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Customs Service was under Department of the Treasury.
 

@@ -64,7 +64,7 @@ Pub. L. 102–190, div. A, title V, § 502(b), Dec. 5, 1991, 105 Stat. 1355, pro
 Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub. L. 97–86, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
 #### Effective Date
-Chapter effective Sept. 15, 1981, but the authority to prescribe regulations under this chapter effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this chapter effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 For provisions relating to temporary appointments of officers serving in grades above major general or rear admiral, see section 623 of Pub. L. 96–513, set out as a note under [section 611 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-611).
@@ -129,6 +129,9 @@ whichever is earliest.”
 #### Effective Date of 1991 Amendment
 Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as a note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
 
+#### Effective Date
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+
 #### Delegation of Functions
 Functions of President under subsecs. (a) and (b) to make or vacate certain temporary commissioned appointments delegated to Secretary of Defense to perform during a time of war or national emergency, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, provided that, during a national emergency declared by President, exercise of any such authority be specifically directed by President in accordance with [section 1631 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1631&num=0&edition=prelim), War and National Defense, and that Secretary ensure any authority so delegated be accounted for as required by [section 1641 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1641&num=0&edition=prelim), see Ex. Ord. No. 12396, §§ 2, 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
@@ -164,11 +167,11 @@ George W. Bush.
 
 (2) Commander, United States Forces, Korea.
 
-(3) Deputy commander, United States European Command, but only if the commander of that command is also the Supreme Allied Commander, Europe.
-
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (b)(3). Pub. L. 114–328 struck out par. (3) which read as follows: “Deputy commander, United States European Command, but only if the commander of that command is also the Supreme Allied Commander, Europe.”
+
 2003—Subsec. (c). Pub. L. 108–136 struck out heading and text of subsec. (c). Text read as follows: “This section shall cease to be effective at the end of December 31, 2004.”
 
 2002—Subsec. (c). Pub. L. 107–314 substituted “December 31, 2004” for “September 30, 2003”.

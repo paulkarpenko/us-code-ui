@@ -29,7 +29,7 @@ Pub. L. 99–89, § 1(a), Aug. 15, 1985, 99 Stat. 379, provided that: “This Ac
 Pub. L. 98–511, title V, § 501(a), Oct. 19, 1984, 98 Stat. 2391, provided that: “This title [enacting sections 2020 to 2023 of this title, amending sections 2001, 2004, 2006, 2008, 2009, 2011, 2012, 2016, 2018 of this title, and sections 241aa to 241ff, 1211a, 1221g, 3385, 3385a, and 3385b of Title 20, Education, and enacting provisions set out as a note under [section 241ff of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section241ff&num=0&edition=prelim)] may be cited as the ‘Indian Education Amendments of 1984’.”
 
 #### Bureau of Indian Education Operated Schools
-Pub. L. 112–74, div. E, title I, § 115, Dec. 23, 2011, 125 Stat. 1009, as amended by Pub. L. 113–235, div. F, title I, § 116, Dec. 16, 2014, 128 Stat. 2421, provided that: “(a)(1) Notwithstanding any other provision of law or Federal regulation, including [section 586(c) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section586/c&num=0&edition=prelim), United States Code, the Director of the BIE [Bureau of Indian Education], or the Director’s designee, is authorized to enter into agreements with public and private persons and entities that provide for such persons and entities to rent or lease the land or facilities of a Bureau-operated school for such periods of time as the school is Bureau operated, in exchange for a consideration (in the form of funds) that benefits the school, as determined by the head of the school. “(2) Funds received under paragraph (1) shall be retained by the school and used for school purposes otherwise authorized by law. Any funds received under paragraph (1) are hereby made available until expended for such purposes, notwithstanding [section 3302 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3302&num=0&edition=prelim), United States Code. “(3) Nothing in this section shall be construed to allow for the diminishment of, or otherwise affect, the appropriation of funds to the budget accounts for the operation and maintenance of Bureau-operated schools. No funds shall be withheld from the distribution to the budget of any Bureau-operated school due to the receipt by the school of a benefit in accordance with this section. “(b) Notwithstanding any provision of title 5, United States Code, or any regulation promulgated under such title, education personnel who are under the direction and supervision of the Secretary of the Interior may participate in a fundraising activity for the benefit of a Bureau-operated school in an official capacity as part of their official duties. When participating in such an official capacity, the employee may use the employee’s official title, position, and authority. Nothing in this subsection shall be construed to authorize participation in political activity (as such term is used in [section 7324 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7324&num=0&edition=prelim), United States Code) otherwise prohibited by law. “(c) The Secretary of the Interior shall promulgate regulations to carry out this section not later than 16 months after the date of the enactment of this Act [Dec. 23, 2011]. Such regulations shall include—“(1) standards for the appropriate use of Bureau-operated school lands and facilities by third parties under a rental or lease agreement; “(2) provisions for the establishment and administration of mechanisms for the acceptance of consideration for the use and benefit of a school in accordance with this section (including, in appropriate cases, the establishment and administration of trust funds); “(3) accountability standards to ensure ethical conduct; and “(4) provisions for monitoring the amount and terms of consideration received, the manner in which the consideration is used, and any results achieved by such use. “(d) Provisions of this section shall apply to fiscal years 2012 through 2017.”
+Pub. L. 112–74, div. E, title I, § 115, Dec. 23, 2011, 125 Stat. 1009, as amended by Pub. L. 113–235, div. F, title I, § 116, Dec. 16, 2014, 128 Stat. 2421; Pub. L. 114–113, div. G, title I, § 113, Dec. 18, 2015, 129 Stat. 2550, provided that: “(a)(1) Notwithstanding any other provision of law or Federal regulation, including [section 586(c) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section586/c&num=0&edition=prelim), United States Code, the Director of the BIE [Bureau of Indian Education], or the Director’s designee, is authorized to enter into agreements with public and private persons and entities that provide for such persons and entities to rent or lease the land or facilities of a Bureau-operated school for such periods of time as the school is Bureau operated, in exchange for a consideration (in the form of funds) that benefits the school, as determined by the head of the school. “(2) Funds received under paragraph (1) shall be retained by the school and used for school purposes otherwise authorized by law. Any funds received under paragraph (1) are hereby made available until expended for such purposes, notwithstanding [section 3302 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3302&num=0&edition=prelim), United States Code. “(3) Nothing in this section shall be construed to allow for the diminishment of, or otherwise affect, the appropriation of funds to the budget accounts for the operation and maintenance of Bureau-operated schools. No funds shall be withheld from the distribution to the budget of any Bureau-operated school due to the receipt by the school of a benefit in accordance with this section. “(b) Notwithstanding any provision of title 5, United States Code, or any regulation promulgated under such title, education personnel who are under the direction and supervision of the Secretary of the Interior may participate in a fundraising activity for the benefit of a Bureau-operated school in an official capacity as part of their official duties. When participating in such an official capacity, the employee may use the employee’s official title, position, and authority. Nothing in this subsection shall be construed to authorize participation in political activity (as such term is used in [section 7324 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7324&num=0&edition=prelim), United States Code) otherwise prohibited by law. “(c) The Secretary of the Interior shall promulgate regulations to carry out this section not later than 16 months after the date of the enactment of this Act [Dec. 23, 2011]. Such regulations shall include—“(1) standards for the appropriate use of Bureau-operated school lands and facilities by third parties under a rental or lease agreement; “(2) provisions for the establishment and administration of mechanisms for the acceptance of consideration for the use and benefit of a school in accordance with this section (including, in appropriate cases, the establishment and administration of trust funds); “(3) accountability standards to ensure ethical conduct; and “(4) provisions for monitoring the amount and terms of consideration received, the manner in which the consideration is used, and any results achieved by such use. “(d) Provisions of this section shall apply to fiscal years 2012 through 2027.”
 
 #### Therapeutic Model Demonstration Schools
 Pub. L. 103–382, title V, § 566, Oct. 20, 1994, 108 Stat. 4059, provided that: “(a) Authorization.—“(1) In general.—The Secretary of the Interior, acting through the Bureau of Indian Affairs, is authorized to establish demonstration schools, based on the therapeutic model described in this section, to provide services necessary to achieve positive changes in the attitudes, behavior, and academic performance of Indian youth attending off-reservation boarding schools. “(2) Purpose.—The purpose of the therapeutic model demonstration schools is—“(A) to provide a program, based on an annual written plan, linking clinicians, counselors, and mental health professionals with academic program personnel in a culturally sensitive residential program tailored to the particular needs of Indian students; “(B) to provide for a continued evaluation of the planning and implementation of the therapeutic model in the designated schools; and “(C) to determine what steps the Bureau of Indian Affairs must take and what resources are required to transform existing off-reservation boarding schools to meet the needs of chemically dependent, emotionally disturbed, socially troubled, or other at-risk Indian youth who attend such schools. “(b) Location.—The Secretary shall initiate the therapeutic model at two schools during school years 1994 through 1996, and shall give priority to—“(1) one school that is the recipient of a grant under section 5204 of the August [Augustus] F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988 [[25 U.S.C. 2503](./chapter-027-tribally-controlled-school-grants.md#section-2503)] during the 1994–1995 school year; and “(2) one school operated by the Bureau of Indian Affairs during the 1995–1996 school year. “(c) Services.—The demonstration schools shall provide an integrated residential environment that may include—“(1) mental health services; “(2) education; “(3) recreation therapy; “(4) social service programs; “(5) substance abuse education and prevention; and “(6) other support services for aftercare. “(d) Staffing.—The demonstration schools shall be staffed with health and social service professionals, and educators, and may include—“(1) clinical psychologists; “(2) child psychologists; “(3) substance abuse counselors; “(4) social workers; and “(5) health educators. “(e) Enrollment.—Notwithstanding any other provision of law, the Secretary of the Interior may limit the enrollment at the demonstration schools. “(f) Assistance.—The Secretary is authorized to enter into agreements with other organizations and agencies, including the Indian Health Service, to carry out this section. “(g) Report.—Not later than July 31 of each year, the Secretary of the Interior shall submit a report to the Committee on Indian Affairs of the Senate and the Committee on Education and Labor [now Committee on Education and the Workforce] of the House of Representatives on the progress of the Department of the Interior in the development of the demonstration schools.”
@@ -169,7 +169,7 @@ Pub. L. 103–382, title V, § 566, Oct. 20, 1994, 108 Stat. 4059, provided that
 
       (II) If the tribe declines to assume control of the school, the Secretary, in consultation with the tribe, may contract with an outside entity, consistent with applicable law, or appoint a receiver or trustee to operate and administer the affairs of the school until the school is accredited. The outside entity, receiver, or trustee shall prepare a plan, pursuant to paragraph (7), for approval by the Secretary in accordance with paragraph (7).
 
-      (III) Upon accreditation of the school, the Secretary shall allow the tribe to continue to operate the school as a grant or contract school, or if the school is being controlled by an outside entity, provide the tribe with the option to assume operation of the school as a contract school, in accordance with the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.], or as a grant school in accordance with the Tribally Controlled Schools Act of 1988 [[25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.], at the beginning of the school year following the school year in which the school obtains accreditation. If the tribe declines, the Secretary may allow the outside entity, receiver, or trustee to continue the operation of the school or reassume control of the school.
+      (III) Upon accreditation of the school, the Secretary shall allow the tribe to continue to operate the school as a grant or contract school, or if the school is being controlled by an outside entity, provide the tribe with the option to assume operation of the school as a contract school, in accordance with the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.], or as a grant school in accordance with the Tribally Controlled Schools Act of 1988 [[25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.], at the beginning of the school year following the school year in which the school obtains accreditation. If the tribe declines, the Secretary may allow the outside entity, receiver, or trustee to continue the operation of the school or reassume control of the school.
 
   (E) *Failure of school plan of contract or grant school*
 
@@ -183,13 +183,13 @@ Pub. L. 103–382, title V, § 566, Oct. 20, 1994, 108 Stat. 4059, provided that
 
     (iii) *Proposal amendments* — The tribal governing body shall have 60 days to amend the plan developed pursuant to clause (ii), including identifying another outside entity to operate the school. The Secretary shall reach agreement with the tribal governing body on the proposal and any such amendments to the plan not later than 30 days after the expiration of the 60-day period described in the preceding sentence. After the approval of the proposal and any amendments, the Secretary, with continuing consultation with such tribal governing body, shall implement the proposal.
 
-    (iv) *Accreditation* — Upon accreditation of the school, the tribe shall have the option to assume the operation and administration of the school as a contract school after complying with the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.], or as a grant school, after complying with the Tribally Controlled Schools Act of 1988 [[25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.], at the beginning of the school year following the year in which the school obtains accreditation.
+    (iv) *Accreditation* — Upon accreditation of the school, the tribe shall have the option to assume the operation and administration of the school as a contract school after complying with the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.], or as a grant school, after complying with the Tribally Controlled Schools Act of 1988 [[25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.], at the beginning of the school year following the year in which the school obtains accreditation.
 
-    (v) *Retrocede* — Nothing in this subparagraph shall limit a tribe’s right to retrocede operation of a school to the Secretary pursuant to section 105(e) of the Indian Self-Determination Act [[25 U.S.C. 450j(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j/e&num=0&edition=prelim)] (with respect to a contract school) or section 5204(f) of the Tribally Controlled Schools Act of 1988 1 (with respect to a grant school).
+    (v) *Retrocede* — Nothing in this subparagraph shall limit a tribe’s right to retrocede operation of a school to the Secretary pursuant to section 105(e) of the Indian Self-Determination Act [[25 U.S.C. 5324(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5324/e&num=0&edition=prelim)] (with respect to a contract school) or section 5204(f) of the Tribally Controlled Schools Act of 1988 1 (with respect to a grant school).
 
-    (vi) *Consistent* — The provisions of this subparagraph shall be construed to be consistent with the provisions of the Tribally Controlled Schools Act of 1988 [[25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.] and the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.] as in effect on the day before January 8, 2002, and shall not be construed as expanding the authority of the Secretary under any other law.
+    (vi) *Consistent* — The provisions of this subparagraph shall be construed to be consistent with the provisions of the Tribally Controlled Schools Act of 1988 [[25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.] and the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.] as in effect on the day before January 8, 2002, and shall not be construed as expanding the authority of the Secretary under any other law.
 
-  (F) *Hearing* — With respect to a school that is operated pursuant to a grant, or a school that is operated under a contract under the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.], prior to implementing any corrective action under this paragraph, the Secretary shall provide notice and an opportunity for a hearing to the affected school pursuant to section 5207 of the Tribally Controlled Schools Act of 1988.1
+  (F) *Hearing* — With respect to a school that is operated pursuant to a grant, or a school that is operated under a contract under the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.], prior to implementing any corrective action under this paragraph, the Secretary shall provide notice and an opportunity for a hearing to the affected school pursuant to section 5207 of the Tribally Controlled Schools Act of 1988.1
 
 (9) **Statutory construction** — Nothing in this section shall be construed to alter or otherwise affect the rights, remedies, and procedures afforded to school employees under applicable law (including applicable regulations or court orders) or under the terms of any collective bargaining agreement, memorandum of understanding, or other agreement between such employees and their employers.
 
@@ -197,7 +197,7 @@ Pub. L. 103–382, title V, § 566, Oct. 20, 1994, 108 Stat. 4059, provided that
 
 **(c) Annual plan**
 
-(1) **In general** — Except as provided in subsection (b) of this section, the Secretary shall implement the standards in effect under this section 1 on the day before January 8, 2002.
+(1) **In general** — Except as provided in subsection (b), the Secretary shall implement the standards in effect under this section 1 on the day before January 8, 2002.
 
 (2) **Plan** — On an annual basis, the Secretary shall submit to the appropriate committees of Congress, all Bureau-funded schools, and the tribal governing bodies of such schools a detailed plan to ensure that all Bureau-funded schools are accredited, or if such schools are in the process of obtaining accreditation that such schools meet the Bureau standards in effect on the day before January 8, 2002, to the extent that such standards do not conflict with the standards of the accrediting agency. Such plan shall include detailed information on the status of each school’s educational program in relation to the applicable standards, specific cost estimates for meeting such standards at each school, and specific timelines for bringing each school up to the level required by such standards.
 
@@ -301,7 +301,7 @@ Pub. L. 103–382, title V, § 566, Oct. 20, 1994, 108 Stat. 4059, provided that
 
   (B) provide assistance to the applicant to overcome the stated objections;
 
-  (C) provide to the applicant a hearing on the record regarding the denial, under the same rules and regulations as apply under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.]; and
+  (C) provide to the applicant a hearing on the record regarding the denial, under the same rules and regulations as apply under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.]; and
 
   (D) provide to the applicant a notice of the applicant’s appeals rights and an opportunity to appeal the decision resulting from the hearing under subparagraph (D).
 
@@ -336,11 +336,11 @@ Pub. L. 103–382, title V, § 566, Oct. 20, 1994, 108 Stat. 4059, provided that
 #### References in Text
 This section, referred to in subsec. (b)(4) and the second place appearing in subsec. (c)(1), mean section 1121 of Pub. L. 95–561, prior to the general amendment of this chapter by Pub. L. 107–110. See Prior Provisions notes below.
 
-The Indian Self-Determination Act, referred to in subsec. (b)(8)(D) to (F), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in subsec. (b)(8)(D) to (F), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 The Tribally Controlled Schools Act of 1988, referred to in subsec. (b)(8)(D) to (F), is part B (§§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. Sections 5204 and 5207 of the Act were classified to sections 2503 and 2506, respectively, of this title, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. Pub. L. 107–110 enacted new sections 5204 and 5207 which are classified to sections 2503 and 2506, respectively, of this title. Pub. L. 107–110 enacted new sections 5203 and 5206 of Pub. L. 100–297, relating to subject matter similar to that of former sections 5204 and 5207, respectively, which are classified to sections 2502 and 2505, respectively, of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-027-tribally-controlled-school-grants.md#section-2501) and Tables.
 
-The Indian Self-Determination and Education Assistance Act referred to in subsec. (e)(4)(C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(4)(C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Prior Provisions
 A prior section 2001, Pub. L. 95–561, title XI, § 1121, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3979; amended Pub. L. 104–134, title I, § 101(d) [title VII, § 703(d)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–362, title VIII, § 801(c)(1), Nov. 10, 1998, 112 Stat. 3287, related to standards for basic education of Indian children in Bureau of Indian Affairs schools, prior to the general amendment of this chapter by Pub. L. 107–110.
@@ -392,7 +392,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 **(d) Waiver**
 
-(1) **In general** — A tribal governing body or local school board may, in accordance with this subsection, waive the standards established under this section for a school described in subsection (a) of this section.
+(1) **In general** — A tribal governing body or local school board may, in accordance with this subsection, waive the standards established under this section for a school described in subsection (a).
 
 (2) **Inappropriate standards**
 
@@ -545,7 +545,7 @@ Another prior section 2004, Pub. L. 95–561, title XI, § 1124, Nov. 1, 1978, 9
 
   (B) is in use on January 8, 2002.
 
-**(c) Compliance plan** At the time that the annual budget request for Bureau educational services is presented, the Secretary shall submit to the appropriate committees of Congress a detailed plan to bring all facilities covered under subsection (a) of this section into compliance with the standards referred to in that subsection that includes—
+**(c) Compliance plan** At the time that the annual budget request for Bureau educational services is presented, the Secretary shall submit to the appropriate committees of Congress a detailed plan to bring all facilities covered under subsection (a) into compliance with the standards referred to in that subsection that includes—
 
 (1) detailed information on the status of each facility’s compliance with such standards;
 
@@ -557,7 +557,7 @@ Another prior section 2004, Pub. L. 95–561, title XI, § 1124, Nov. 1, 1978, 9
 
 (1) **System to establish priorities** — On an annual basis, the Secretary shall submit to the appropriate committees of Congress and cause to be published in the Federal Register, the system used to establish priorities for replacement and construction projects for Bureau-funded schools and home-living schools, including boarding schools and dormitories. At the time any budget request for education is presented, the Secretary shall publish in the Federal Register and submit with the budget request the current list of all Bureau-funded school construction priorities.
 
-(2) **Long-term construction and replacement list** — In addition to the plan submitted under subsection (c) of this section, the Secretary shall—
+(2) **Long-term construction and replacement list** — In addition to the plan submitted under subsection (c), the Secretary shall—
 
   (A) not later than 18 months after January 8, 2002, establish a long-term construction and replacement list for all Bureau-funded schools;
 
@@ -663,9 +663,9 @@ Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–
 
 (2) **Transfers** — The Assistant Secretary for Indian Affairs shall, not later than 180 days after January 8, 2002, coordinate the transfer of functions relating to procurements for, contracts of, operation of, and maintenance of schools and other support functions to the Director.
 
-**(c) Inherent Federal function** For purposes of this Act, all functions relating to education that are located at the Area or Agency level and performed by an education line officer shall be subject to contract under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.], unless determined by the Secretary to be inherently Federal functions as defined in [section 2021(12) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2021/12&num=0&edition=prelim).
+**(c) Inherent Federal function** For purposes of this Act, all functions relating to education that are located at the Area or Agency level and performed by an education line officer shall be subject to contract under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.], unless determined by the Secretary to be inherently Federal functions as defined in [section 2021(12) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2021/12&num=0&edition=prelim).
 
-**(d) Evaluation of programs; services and support functions; technical and coordinating assistance** Education personnel who are under the direction and supervision of the Director of the Office of Indian Education Programs in accordance with subsection (b)(1) of this section shall—
+**(d) Evaluation of programs; services and support functions; technical and coordinating assistance** Education personnel who are under the direction and supervision of the Director of the Office of Indian Education Programs in accordance with subsection (b)(1) shall—
 
 (1) monitor and evaluate Bureau education programs;
 
@@ -720,7 +720,7 @@ Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–
 #### References in Text
 This Act, referred to in subsec. (c), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Prior Provisions
 A prior section 2006, Pub. L. 95–561, title XI, § 1126, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3988, related to Bureau of Indian Affairs education functions, prior to the general amendment of this chapter by Pub. L. 107–110.
@@ -770,11 +770,11 @@ Another prior section 2006, Pub. L. 95–561, title XI, § 1126, Nov. 1, 1978, 9
 
   (C) *Review of standards* — Concurrent with such action, the Secretary shall review the standards established under [section 2002 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2002) to be certain that adequate provision is made for parental notification regarding, and consent for, such counseling and therapeutic programs.
 
-**(b) Pro rata allotment** Notwithstanding any other provision of law, Federal funds appropriated for the general local operation of Bureau-funded schools shall be allotted pro rata in accordance with the formula established under subsection (a) of this section.
+**(b) Pro rata allotment** Notwithstanding any other provision of law, Federal funds appropriated for the general local operation of Bureau-funded schools shall be allotted pro rata in accordance with the formula established under subsection (a).
 
 **(c) Annual adjustment; reservation of amount for school board activities**
 
-(1) **Annual adjustment** — For fiscal year 2003, and for each subsequent fiscal year, the Secretary shall adjust the formula established under subsection (a) of this section to ensure that the formula does the following:
+(1) **Annual adjustment** — For fiscal year 2003, and for each subsequent fiscal year, the Secretary shall adjust the formula established under subsection (a) to ensure that the formula does the following:
 
   (A) Uses a weighted unit of 1.2 for each eligible Indian student enrolled in the seventh and eighth grades of the school in considering the number of eligible Indian students served by the school.
 
@@ -797,7 +797,7 @@ Another prior section 2006, Pub. L. 95–561, title XI, § 1126, Nov. 1, 1978, 9
 
 (2) **Reservation of amount**
 
-  (A) *In general* — From the funds allotted in accordance with the formula established under subsection (a) of this section for each Bureau school, the local school board of such school may reserve an amount which does not exceed the greater of—
+  (A) *In general* — From the funds allotted in accordance with the formula established under subsection (a) for each Bureau school, the local school board of such school may reserve an amount which does not exceed the greater of—
 
     (i) $8,000; or
 
@@ -856,7 +856,7 @@ Another prior section 2006, Pub. L. 95–561, title XI, § 1126, Nov. 1, 1978, 9
 
 **(i) Students at Richfield dormitory, Richfield, Utah**
 
-(1) **In general** — Tuition for the instruction of each out-of-State Indian student in a home-living situation at the Richfield dormitory in Richfield, Utah, who attends Sevier County high schools in Richfield, Utah, for an academic year, shall be paid from Indian school equalization program funds authorized in this section and section 2009 2 of this title, at a rate not to exceed the weighted amount provided for under subsection (b) of this section for a student for that year.
+(1) **In general** — Tuition for the instruction of each out-of-State Indian student in a home-living situation at the Richfield dormitory in Richfield, Utah, who attends Sevier County high schools in Richfield, Utah, for an academic year, shall be paid from Indian school equalization program funds authorized in this section and section 2009 2 of this title, at a rate not to exceed the weighted amount provided for under subsection (b) for a student for that year.
 
 (2) **No administrative cost funds** — No additional administrative cost funds shall be provided under this chapter to pay for administrative costs relating to the instruction of the students.
 
@@ -988,18 +988,18 @@ Another prior section 2007, Pub. L. 95–561, title XI, § 1127, Nov. 1, 1978, 9
 
 **(g) Treatment of funds** Funds received as grants under this section for Bureau-funded programs operated by a tribe or tribal organization under a contract or agreement shall not be taken into consideration for purposes of indirect cost underrecovery and overrecovery determinations by any Federal agency for any other funds, from whatever source derived.
 
-**(h) Treatment of entity operating other programs** In applying this section and section 106 of the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450j–1](./chapter-014-miscellaneous.md#section-450j-1)] with respect to an Indian tribe or tribal organization that—
+**(h) Treatment of entity operating other programs** In applying this section and section 106 of the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5325](./chapter-046-indian-self-determination-and-education-assistance.md#section-5325)] with respect to an Indian tribe or tribal organization that—
 
 (1) receives funds under this section for administrative costs incurred in operating a contract or grant school or a school operated under the Tribally Controlled Schools Act of 1988 [[25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.]; and
 
-(2) operates one or more other programs under a contract or grant provided under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.],
+(2) operates one or more other programs under a contract or grant provided under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.],
 the Secretary shall ensure that the Indian tribe or tribal organization is provided with the full amount of the administrative costs that are associated with operating the contract or grant school, and of the indirect costs, that are associated with all of such other programs, except that funds appropriated for implementation of this section shall be used only to supply the amount of the grant required to be provided by this section.
 
 **(i) Studies for determination of factors affecting costs; base rates limits; standard direct cost base; report to Congress**
 
 (1) **Studies** — Not later than 120 days after January 8, 2002, the Director of the Office of Indian Education Programs shall—
 
-  (A) conduct such studies as may be needed to establish an empirical basis for determining relevant factors substantially affecting required administrative costs of tribal elementary and secondary education programs, using the formula set forth in subsection (c) of this section; and
+  (A) conduct such studies as may be needed to establish an empirical basis for determining relevant factors substantially affecting required administrative costs of tribal elementary and secondary education programs, using the formula set forth in subsection (c); and
 
   (B) conduct a study to determine—
 
@@ -1007,7 +1007,7 @@ the Secretary shall ensure that the Indian tribe or tribal organization is provi
 
     (ii) a minimum base rate which ensures that the amount of the grants provided under this section will provide adequate (but not excessive) funding of the administrative costs of the largest tribal elementary or secondary educational programs; and
 
-    (iii) a standard direct cost base which is the aggregate direct cost funding level for which the percentage determined under subsection (d) of this section will—
+    (iii) a standard direct cost base which is the aggregate direct cost funding level for which the percentage determined under subsection (d) will—
 
       (I) be equal to the median between the maximum base rate and the minimum base rate; and
 
@@ -1017,7 +1017,7 @@ the Secretary shall ensure that the Indian tribe or tribal organization is provi
 
   (A) be conducted in full consultation (in accordance with [section 2011 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2011)) with—
 
-    (i) the tribes and tribal organizations that are affected by the application of the formula set forth in subsection (c) of this section; and
+    (i) the tribes and tribal organizations that are affected by the application of the formula set forth in subsection (c); and
 
     (ii) all national and regional Indian organizations of which such tribes and tribal organizations are typically members;
 
@@ -1033,9 +1033,9 @@ the Secretary shall ensure that the Indian tribe or tribal organization is provi
 
 (4) **Consideration of delivery of administrative services** — Determinations described in paragraph (2)(C) shall be based on what is practicable at each location studied, given prudent management practice, irrespective of whether required administrative services were actually or fully delivered at these sites, or whether other services were delivered instead, during the period of the study.
 
-(5) **Report** — Upon completion of the studies conducted under paragraph (1), the Director shall submit to Congress a report on the findings of the studies, together with determinations based upon such studies that would affect the definitions set forth under subsection (e) of this section that are used in the formula set forth in subsection (c) of this section.
+(5) **Report** — Upon completion of the studies conducted under paragraph (1), the Director shall submit to Congress a report on the findings of the studies, together with determinations based upon such studies that would affect the definitions set forth under subsection (e) that are used in the formula set forth in subsection (c).
 
-(6) **Projection of costs** — The Secretary shall include in the Bureau’s justification for each appropriations request beginning in the first fiscal year after the completion of the studies conducted under paragraph (1), a projection of the overall costs associated with the formula set forth in subsection (c) of this section for all tribal elementary or secondary education programs which the Secretary expects to be funded in the fiscal year for which the appropriations are sought.
+(6) **Projection of costs** — The Secretary shall include in the Bureau’s justification for each appropriations request beginning in the first fiscal year after the completion of the studies conducted under paragraph (1), a projection of the overall costs associated with the formula set forth in subsection (c) for all tribal elementary or secondary education programs which the Secretary expects to be funded in the fiscal year for which the appropriations are sought.
 
 (7) **Determination of program size** — For purposes of this subsection, the size of tribal elementary or secondary educational programs is determined by the aggregate direct cost program funding level for all Bureau-funded programs which share common administrative cost functions.
 
@@ -1043,7 +1043,7 @@ the Secretary shall ensure that the Indian tribe or tribal organization is provi
 
 (1) **In general** — There are authorized to be appropriated to carry out this section such sums as may be necessary.
 
-(2) **Reductions** — If the total amount of funds necessary to provide grants to tribes and tribal organizations in the amounts determined under subsection (c) of this section for a fiscal year exceeds the amount of funds appropriated to carry out this section for such fiscal year, the Secretary shall reduce the amount of each grant determined under subsection (c) of this section for such fiscal year by an amount that bears the same relationship to such excess as the amount of such grants determined under subsection (c) of this section bears to the total of all grants determined under subsection (c) section 11 So in original. for all tribes and tribal organizations for such fiscal year.
+(2) **Reductions** — If the total amount of funds necessary to provide grants to tribes and tribal organizations in the amounts determined under subsection (c) for a fiscal year exceeds the amount of funds appropriated to carry out this section for such fiscal year, the Secretary shall reduce the amount of each grant determined under subsection (c) for such fiscal year by an amount that bears the same relationship to such excess as the amount of such grants determined under subsection (c) bears to the total of all grants determined under subsection (c) section 11 So in original. for all tribes and tribal organizations for such fiscal year.
 
 **(k) Applicability to schools operating under Tribally Controlled Schools Act of 1988** The provisions of this section shall apply to schools operating under the Tribally Controlled Schools Act of 1988 [[25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.].
 
@@ -1062,7 +1062,7 @@ the Secretary shall ensure that the Indian tribe or tribal organization is provi
 #### References in Text
 The Tribally Controlled Schools Act of 1988, referred to in subsecs. (h)(1) and (k), is part B (§§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-027-tribally-controlled-school-grants.md#section-2501) and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (h)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to part A (§ 450 et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (h)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Prior Provisions
 A prior section 2008, Pub. L. 95–561, title XI, § 1128, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3993, related to administrative cost grants, prior to the general amendment of this chapter by Pub. L. 107–110.
@@ -1082,13 +1082,13 @@ Section 2008a, Pub. L. 95–561, title XI, § 1128A, as added Pub. L. 100–297,
 
 **(c) Annual reports** Not later than the date on which the Assistant Secretary for Indian Affairs makes the annual budget submission, for each fiscal year after January 8, 2002, the Director of the Office shall submit to the appropriate committees of Congress (including the Appropriations committees), all Bureau-funded schools, and the tribal governing bodies of such schools, a report that contains—
 
-(1) projections, based upon the information gathered pursuant to subsection (b) of this section and any other relevant information, of amounts necessary to provide Indian students in Bureau-funded schools the educational program set forth in this chapter;
+(1) projections, based upon the information gathered pursuant to subsection (b) and any other relevant information, of amounts necessary to provide Indian students in Bureau-funded schools the educational program set forth in this chapter;
 
 (2) a description of the methods and formulas used to calculate the amounts projected pursuant to paragraph (1); and
 
 (3) such other information as the Director of the Office considers appropriate.
 
-**(d) Use of reports** The Director of the Office and the Assistant Secretary for Indian Affairs shall use the annual report required by subsection (c) of this section when preparing annual budget submissions.
+**(d) Use of reports** The Director of the Office and the Assistant Secretary for Indian Affairs shall use the annual report required by subsection (c) when preparing annual budget submissions.
 
 ### Statutory Notes
 
@@ -1182,7 +1182,7 @@ Another prior section 2009, Pub. L. 95–561, title XI, § 1129, Nov. 1, 1978, 9
 
   (C) *Transmission of determination* — The appropriate education line officer shall transmit the determination of such appeal in the form of a written opinion to such board and to such supervisor identifying the reasons for overturning such action.
 
-**(c) Tribal division of education, self-determination grant and contract funds** The Secretary may approve applications for funding tribal divisions of education and developing tribal codes of education, from funds made available pursuant to [section 450h(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450h/a&num=0&edition=prelim).
+**(c) Tribal division of education, self-determination grant and contract funds** The Secretary may approve applications for funding tribal divisions of education and developing tribal codes of education, from funds made available pursuant to [section 5322(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5322/a&num=0&edition=prelim).
 
 **(d) Technical assistance and training** In carrying out this section, a local school board may request technical assistance and training from the Secretary, and the Secretary shall, to the maximum extent practicable, provide those services and make appropriate provisions in the budget of the Office for the provision of those services.
 
@@ -1190,13 +1190,13 @@ Another prior section 2009, Pub. L. 95–561, title XI, § 1129, Nov. 1, 1978, 9
 
 (1) **Plan**
 
-  (A) *In general* — A financial plan under subsection (b) of this section for a school may include, at the discretion of the local administrator and the school board of such school, a provision for a summer program of academic and support services for students of the school.
+  (A) *In general* — A financial plan under subsection (b) for a school may include, at the discretion of the local administrator and the school board of such school, a provision for a summer program of academic and support services for students of the school.
 
   (B) *Prevention activities* — Any such program may include activities related to the prevention of alcohol and substance abuse.
 
   (C) *Summer use* — The Assistant Secretary for Indian Affairs shall provide for the use of any such school facility during any summer in which such use is requested.
 
-(2) **Use of other funds** — Notwithstanding any other provision of law, funds authorized under the Act of April 16, 1934 [[25 U.S.C. 452](./chapter-014-miscellaneous.md#section-452) et seq.], and this Act may be used to augment the services provided in each summer program at the option, and under the control, of the tribe or Indian controlled school receiving such funds.
+(2) **Use of other funds** — Notwithstanding any other provision of law, funds authorized under the Act of April 16, 1934 [[25 U.S.C. 5342](./chapter-046-indian-self-determination-and-education-assistance.md#section-5342) et seq.], and this Act may be used to augment the services provided in each summer program at the option, and under the control, of the tribe or Indian controlled school receiving such funds.
 
 (3) **Technical assistance and program coordination** — The Assistant Secretary for Indian Affairs, acting through the Director of the Office, shall—
 
@@ -1239,7 +1239,7 @@ Another prior section 2009, Pub. L. 95–561, title XI, § 1129, Nov. 1, 1978, 9
 #### References in Text
 The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(4), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
 
-Act of April 16, 1934, referred to in subsec. (e)(2), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, as amended, popularly known as the Johnson-O’Malley Act, which is classified generally to section 452 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 452 of this title](./chapter-014-miscellaneous.md#section-452) and Tables.
+Act of April 16, 1934, referred to in subsec. (e)(2), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, popularly known as the Johnson-O’Malley Act, which is classified generally to section 5342 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 This Act, referred to in subsec. (e)(2), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
 
@@ -1284,7 +1284,7 @@ Another prior section 2011, Pub. L. 95–561, title XI, § 1131, Nov. 1, 1978, 9
 
 <a id="section-2012"></a>
 ## § 2012. Indian education personnel
-**(a) In general** Chapter 51, subchapter III of chapter 53, and chapter 63 of title 5, relating to classification, pay and leave, respectively, and the sections of such title relating to the appointment, promotion, hours of work, and removal of civil service employees, shall not apply to educators or to education positions (as defined in subsection (p) of this section).
+**(a) In general** Chapter 51, subchapter III of chapter 53, and chapter 63 of title 5, relating to classification, pay and leave, respectively, and the sections of such title relating to the appointment, promotion, hours of work, and removal of civil service employees, shall not apply to educators or to education positions (as defined in subsection (p)).
 
 **(b) Regulations** Not later than 60 days after January 8, 2002, the Secretary shall prescribe regulations to carry out this section. Such regulations shall provide for—
 
@@ -1308,7 +1308,7 @@ Another prior section 2011, Pub. L. 95–561, title XI, § 1131, Nov. 1, 1978, 9
 
 (10) the annual leave and sick leave for educators;
 
-(11) the length of the school year applicable to education positions described in subsection (a) of this section; and
+(11) the length of the school year applicable to education positions described in subsection (a); and
 
 (12) such additional matters as may be appropriate.
 
@@ -1318,7 +1318,7 @@ Another prior section 2011, Pub. L. 95–561, title XI, § 1131, Nov. 1, 1978, 9
 
   (A) lists of qualified and interviewed applicants for education positions be maintained in each agency and area office of the Bureau from among individuals who have applied at the agency or area level for an education position or who have applied at the national level and have indicated in such application an interest in working in certain areas or agencies;
 
-  (B) a local school board shall have the authority to waive on a case-by-case basis, any formal education or degree qualifications established by regulation pursuant to subsection (b)(2) of this section, in order for a tribal member to be hired in an education position to teach courses on tribal culture and language and that subject to subsection (e)(2) of this section, a determination by a school board that such a person be hired shall be instituted by the supervisor of the school involved; and
+  (B) a local school board shall have the authority to waive on a case-by-case basis, any formal education or degree qualifications established by regulation pursuant to subsection (b)(2), in order for a tribal member to be hired in an education position to teach courses on tribal culture and language and that subject to subsection (e)(2), a determination by a school board that such a person be hired shall be instituted by the supervisor of the school involved; and
 
   (C) that 11 So in original. The word “that” probably should not appear. it shall not be a prerequisite to the employment of an individual in an education position at the local level that—
 
@@ -1338,7 +1338,7 @@ Another prior section 2011, Pub. L. 95–561, title XI, § 1131, Nov. 1, 1978, 9
 
       (I) that educators employed in a Bureau school (other than the supervisor of the school) shall be hired by the supervisor of the school; and
 
-      (II) in a case in which there are no qualified applicants available to fill a vacancy at a Bureau school, the supervisor may consult a list maintained pursuant to subsection (c)(1)(A) of this section;
+      (II) in a case in which there are no qualified applicants available to fill a vacancy at a Bureau school, the supervisor may consult a list maintained pursuant to subsection (c)(1)(A);
 
     (ii) each supervisor of a Bureau school shall be hired by the education line officer of the agency office of the Bureau for the jurisdiction in which the school is located;
 
@@ -1366,9 +1366,9 @@ Another prior section 2011, Pub. L. 95–561, title XI, § 1131, Nov. 1, 1978, 9
 
   (B) *Determination of accuracy* — If such individual is employed at the local level, such individual’s name shall be immediately forwarded to the Secretary, who shall, as soon as practicable but in no event in more than 30 days, ascertain the accuracy of the statement made by such individual pursuant to subparagraph (A).
 
-  (C) *False statements* — Notwithstanding subsection (e) of this section, if the individual’s statement is found to have been false, such individual, at the Secretary’s discretion, may be disciplined or discharged.
+  (C) *False statements* — Notwithstanding subsection (e), if the individual’s statement is found to have been false, such individual, at the Secretary’s discretion, may be disciplined or discharged.
 
-  (D) *Conditional appointment for national provision* — If the individual has applied at the national level for an education position in the Bureau, the appointment of such individual at the local level shall be conditional for a period of 90 days, during which period the Secretary may appoint a more qualified individual (as determined by the Secretary) from the list maintained at the national level pursuant to subsection (c)(1)(A)(ii) 22 So in original. Subsec. (c)(1)(A) of this section does not contain clauses. of this section to the position to which such individual was appointed.
+  (D) *Conditional appointment for national provision* — If the individual has applied at the national level for an education position in the Bureau, the appointment of such individual at the local level shall be conditional for a period of 90 days, during which period the Secretary may appoint a more qualified individual (as determined by the Secretary) from the list maintained at the national level pursuant to subsection (c)(1)(A)(ii) 22 So in original. Subsec. (c)(1)(A) does not contain clauses. to the position to which such individual was appointed.
 
 (3) **Statutory construction** — Except as expressly provided, nothing in this section shall be construed as conferring upon local school boards authority over, or control of, educators at Bureau-funded schools or the authority to issue management decisions.
 
@@ -1454,9 +1454,9 @@ Another prior section 2011, Pub. L. 95–561, title XI, § 1131, Nov. 1, 1978, 9
 
   (A) *Indian preference laws*
 
-    (i) *In general* — The term “Indian preference laws” means [section 472 of this title](./chapter-014-miscellaneous.md#section-472) or any other provision of law granting a preference to Indians in promotions and other personnel actions.
+    (i) *In general* — The term “Indian preference laws” means [section 5116 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5116) or any other provision of law granting a preference to Indians in promotions and other personnel actions.
 
-    (ii) *Exclusion* — The term “Indian preference laws” does not include [section 450e(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450e/b&num=0&edition=prelim).
+    (ii) *Exclusion* — The term “Indian preference laws” does not include [section 5307(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5307/b&num=0&edition=prelim).
 
   (B) *Tribal organization* — The term “tribal organization” means—
 
@@ -1528,13 +1528,13 @@ Another prior section 2011, Pub. L. 95–561, title XI, § 1131, Nov. 1, 1978, 9
 
     (v) *Reports* — On or before February 1 of each year, the Secretary shall submit to Congress a report describing the requests and approvals of authorization made under this paragraph during the previous year and listing the positions receiving post differential rates under contracts entered into under those authorizations.
 
-**(h) Liquidation of remaining leave upon termination** Upon termination of employment with the Bureau, any annual leave remaining to the credit of an individual covered by this section shall be liquidated in accordance with sections 5551(a) and 6306 of title 5, except that leave earned or accrued under regulations promulgated pursuant to subsection (b)(10) of this section shall not be so liquidated.
+**(h) Liquidation of remaining leave upon termination** Upon termination of employment with the Bureau, any annual leave remaining to the credit of an individual covered by this section shall be liquidated in accordance with sections 5551(a) and 6306 of title 5, except that leave earned or accrued under regulations promulgated pursuant to subsection (b)(10) shall not be so liquidated.
 
-**(i) Transfer of remaining sick leave upon transfer, promotion, or reemployment** In the case of any educator who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remaining leave to the credit of such person earned or credited under the regulations promulgated pursuant to subsection (b)(10) of this section shall be transferred to such person’s credit in the employing agency on an adjusted basis in accordance with regulations which shall be promulgated by the Office of Personnel Management.
+**(i) Transfer of remaining sick leave upon transfer, promotion, or reemployment** In the case of any educator who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remaining leave to the credit of such person earned or credited under the regulations promulgated pursuant to subsection (b)(10) shall be transferred to such person’s credit in the employing agency on an adjusted basis in accordance with regulations which shall be promulgated by the Office of Personnel Management.
 
 **(j) Ineligibility for employment of voluntarily terminated educators** An educator who voluntarily terminates employment with the Bureau before the expiration of the existing employment contract between such educator and the Bureau shall not be eligible to be employed in another education position in the Bureau during the remainder of the term of such contract.
 
-**(k) Dual compensation** In the case of any educator employed in an education position described in subsection (l)(1)(A) 44 So in original. Subsec. (l)(1) of this section does not contain subpars. of this section who—
+**(k) Dual compensation** In the case of any educator employed in an education position described in subsection (l)(1)(A) 44 So in original. Subsec. (l)(1) does not contain subpars. who—
 
 (1) is employed at the close of a school year;
 
@@ -1567,7 +1567,7 @@ shall not apply to such educator by reason of any such employment during a reces
 
 (4) **Nonapplicability** — This subsection applies to those individuals employed under the provisions of this section or title 5.
 
-(5) **Definitions** — For purposes of this subsection, the terms “educator” and “education position” have the meanings contained in paragraphs (1) and (2) of subsection (o) of this section.
+(5) **Definitions** — For purposes of this subsection, the terms “educator” and “education position” have the meanings contained in paragraphs (1) and (2) of subsection (o).
 
 **(n) Extracurricular activities**
 
@@ -1710,7 +1710,7 @@ Another prior section 2014, Pub. L. 95–561, title XI, § 1134, Nov. 1, 1978, 9
 
 **(b) Budget request** The annual budget request for the education programs of the Bureau, as submitted as part of the President’s next annual budget request under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) shall include the plans required by sections 2001(c), 2002(c), and 2004(c) 11 So in original. Probably should be “2005(c)”. of this title.
 
-**(c) Financial and compliance audits** The Inspector General of the Department of the Interior shall establish a system to ensure that financial and compliance audits, based upon the extent to which a school described in subsection (a) of this section has complied with the local financial plan under [section 2010 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2010), are conducted of each Bureau-operated school at least once every 3 years.
+**(c) Financial and compliance audits** The Inspector General of the Department of the Interior shall establish a system to ensure that financial and compliance audits, based upon the extent to which a school described in subsection (a) has complied with the local financial plan under [section 2010 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2010), are conducted of each Bureau-operated school at least once every 3 years.
 
 **(d) Administrative evaluation of schools** The Director shall, at least once every 3 to 5 years, conduct a comprehensive evaluation of Bureau-operated schools. Such evaluation shall be in addition to any other program review or evaluation that may be required under Federal law.
 
@@ -1776,11 +1776,11 @@ Another prior section 2017, Pub. L. 95–561, title XI, § 1137, Nov. 1, 1978, 9
 
 <a id="section-2018"></a>
 ## § 2018. Regional meetings and negotiated rulemaking
-**(a) Regional meetings** Prior to publishing any proposed regulations under subsection (b)(1) of this section, and prior to establishing the negotiated rulemaking committee under subsection (b)(3) of this section, the Secretary shall convene regional meetings to consult with personnel of the Office of Indian Education Programs, educators at Bureau schools, and tribal officials, parents, teachers, administrators, and school board members of tribes served by Bureau-funded schools to provide guidance to the Secretary on the content of regulations authorized to be promulgated under this chapter and the Tribally Controlled Schools Act of 1988 [[25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.].
+**(a) Regional meetings** Prior to publishing any proposed regulations under subsection (b)(1), and prior to establishing the negotiated rulemaking committee under subsection (b)(3), the Secretary shall convene regional meetings to consult with personnel of the Office of Indian Education Programs, educators at Bureau schools, and tribal officials, parents, teachers, administrators, and school board members of tribes served by Bureau-funded schools to provide guidance to the Secretary on the content of regulations authorized to be promulgated under this chapter and the Tribally Controlled Schools Act of 1988 [[25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.].
 
 **(b) Negotiated rulemaking**
 
-(1) **In general** — Notwithstanding sections 563(a) and 565(a) of title 5, the Secretary shall promulgate regulations authorized under subsection (a) of this section and under the Tribally Controlled Schools Act of 1988 [[25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.], in accordance with the negotiated rulemaking procedures provided for under subchapter III of chapter 5 of title 5, and shall publish final regulations in the Federal Register.
+(1) **In general** — Notwithstanding sections 563(a) and 565(a) of title 5, the Secretary shall promulgate regulations authorized under subsection (a) and under the Tribally Controlled Schools Act of 1988 [[25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.], in accordance with the negotiated rulemaking procedures provided for under subchapter III of chapter 5 of title 5, and shall publish final regulations in the Federal Register.
 
 (2) **Notification to Congress** — If draft regulations implementing this chapter and the Tribally Controlled Schools Act of 1988 [[25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.] are not promulgated in final form within 18 months after January 8, 2002, the Secretary shall notify the appropriate committees of Congress of which draft regulations were not promulgated in final form by the deadline and the reason such final regulations were not promulgated.
 
@@ -1825,7 +1825,7 @@ Another prior section 2018, Pub. L. 95–561, title XI, § 1138, Nov. 1, 1978, 9
 
 **(b) Amount of grants**
 
-(1) **In general** — The total amount of the grants provided under subsection (a) of this section with respect to each tribe, tribal organization, or consortium of tribes or tribal organizations for each fiscal year shall be equal to the amount which bears the same relationship to the total amount appropriated under the authority of subsection (g) of this section for such fiscal year (less amounts provided under subsection (f) of this section) as—
+(1) **In general** — The total amount of the grants provided under subsection (a) with respect to each tribe, tribal organization, or consortium of tribes or tribal organizations for each fiscal year shall be equal to the amount which bears the same relationship to the total amount appropriated under the authority of subsection (g) for such fiscal year (less amounts provided under subsection (f)) as—
 
   (A) the total number of children under 6 years of age who are members of—
 
@@ -1841,13 +1841,13 @@ Another prior section 2018, Pub. L. 95–561, title XI, § 1138, Nov. 1, 1978, 9
 
   (B) the total number of all children under 6 years of age who are members of any tribe that—
 
-    (i) is eligible to receive funds under subsection (a) of this section;
+    (i) is eligible to receive funds under subsection (a);
 
     (ii) is a member of a consortium that is eligible to receive such funds; or
 
     (iii) authorizes a tribal organization that is eligible to receive such funds.
 
-(2) **Limitation** — No grant may be provided under subsection (a) of this section—
+(2) **Limitation** — No grant may be provided under subsection (a)—
 
   (A) to any tribe that has less than 500 members;
 
@@ -1861,11 +1861,11 @@ Another prior section 2018, Pub. L. 95–561, title XI, § 1138, Nov. 1, 1978, 9
 
 **(c) Application**
 
-(1) **In general** — A grant may be provided under subsection (a) of this section to a tribe, tribal organization, or consortium of tribes and tribal organizations only if the tribe, organization, or consortium submits to the Secretary an application for the grant at such time and in such form as the Secretary shall prescribe.
+(1) **In general** — A grant may be provided under subsection (a) to a tribe, tribal organization, or consortium of tribes and tribal organizations only if the tribe, organization, or consortium submits to the Secretary an application for the grant at such time and in such form as the Secretary shall prescribe.
 
 (2) **Contents** — Applications submitted under paragraph (1) shall set forth the early childhood development program that the applicant desires to operate.
 
-**(d) Requirement of programs funded** The early childhood development programs that are funded by grants provided under subsection (a) of this section—
+**(d) Requirement of programs funded** The early childhood development programs that are funded by grants provided under subsection (a)—
 
 (1) shall coordinate existing programs and may provide services that meet identified needs of parents and children under 6 years of age which are not being met by existing programs, including—
 
@@ -1885,21 +1885,27 @@ Another prior section 2018, Pub. L. 95–561, title XI, § 1138, Nov. 1, 1978, 9
 
 (3) shall provide for periodic assessment of the program.
 
-**(e) Coordination of family literacy programs** Family literacy programs operated under this section and other family literacy programs operated by the Bureau of Indian Affairs shall be coordinated with family literacy programs for Indian children under part B of title I of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6361](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6361&num=0&edition=prelim) et seq.] in order to avoid duplication and to encourage the dissemination of information on quality family literacy programs serving Indians.
+**(e) Coordination of family literacy programs** Family literacy programs operated under this section and other family literacy programs operated by the Bureau of Indian Affairs shall be coordinated with family literacy programs for Indian children under subpart 2 of part B of title II of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6641](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6641&num=0&edition=prelim) et seq.] in order to avoid duplication and to encourage the dissemination of information on quality family literacy programs serving Indians.
 
-**(f) Administrative costs** The Secretary shall, out of funds appropriated under subsection (g) of this section, include in the grants provided under subsection (a) of this section amounts for administrative costs incurred by the tribe, tribal organization, or consortium of tribes in establishing and maintaining the early childhood development program.
+**(f) Administrative costs** The Secretary shall, out of funds appropriated under subsection (g), include in the grants provided under subsection (a) amounts for administrative costs incurred by the tribe, tribal organization, or consortium of tribes in establishing and maintaining the early childhood development program.
 
 **(g) Authorization of appropriations** There are authorized to be appropriated to carry out this section such sums as may be necessary.
 
 ### Statutory Notes
 
 #### References in Text
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (e), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part B of title I of the Act is classified generally to part B (§ 6361 et seq.) of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (e), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Subpart 2 of part B of title II of the Act is classified generally to subpart 2 (§ 6641 et seq.) of part B of subchapter II of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 2019, Pub. L. 95–561, title XI, § 1139, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4011, related to promulgation of regulations, prior to repeal by Pub. L. 105–362, title VIII, § 801(c)(5), Nov. 10, 1998, 112 Stat. 3288. See [section 2017 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2017).
 
 Another prior section 2019, Pub. L. 95–561, title XI, § 1139, Nov. 1, 1978, 92 Stat. 2328; Pub. L. 100–297, title V, § 5117, Apr. 28, 1988, 102 Stat. 382; Pub. L. 100–427, § 1(c)(1), (2), Sept. 9, 1988, 102 Stat. 1603; Pub. L. 101–301, § 5(a), May 24, 1990, 104 Stat. 207, defined terms used in this chapter, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### Amendments
+2015—Subsec. (e). Pub. L. 114–95 substituted “subpart 2 of part B of title II of the Elementary and Secondary Education Act of 1965” for “part B of title I of the Elementary and Secondary Education Act of 1965”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 
 <a id="section-2020"></a>
@@ -1940,7 +1946,7 @@ Another prior section 2019, Pub. L. 95–561, title XI, § 1139, Nov. 1, 1978, 9
 
 **(f) Time period of grant** Subject to the availability of appropriated funds, a grant provided under this section shall be provided for a period of 3 years. If the performance of the grant recipient is satisfactory to the Secretary, the grant may be renewed for additional 3-year terms.
 
-**(g) Terms, conditions, or requirements** A tribe that receives a grant under this section shall comply with regulations relating to grants made under [section 450h(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450h/a&num=0&edition=prelim) that are in effect on the date that the tribal governing body submits the application for the grant under subsection (b) of this section. The Secretary shall not impose any terms, conditions, or requirements on the provision of grants under this section that are not specified in this section.
+**(g) Terms, conditions, or requirements** A tribe that receives a grant under this section shall comply with regulations relating to grants made under [section 5322(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5322/a&num=0&edition=prelim) that are in effect on the date that the tribal governing body submits the application for the grant under subsection (b). The Secretary shall not impose any terms, conditions, or requirements on the provision of grants under this section that are not specified in this section.
 
 **(h) Authorization of appropriations** There are authorized to be appropriated to carry out this section $2,000,000.
 
@@ -1978,13 +1984,13 @@ For the purposes of this chapter, unless otherwise specified:
 
 (5) **Complementary educational facilities** — The term “complementary educational facilities” means educational program functional spaces such as libraries, gymnasiums, and cafeterias.
 
-(6) **Contract or grant school** — The term “contract or grant school” means an elementary school, secondary school, or dormitory that receives financial assistance for its operation under a contract, grant, or agreement with the Bureau under section 450f, 450h(a), or 458d of this title, or under the Tribally Controlled Schools Act of 1988 [[25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.].
+(6) **Contract or grant school** — The term “contract or grant school” means an elementary school, secondary school, or dormitory that receives financial assistance for its operation under a contract, grant, or agreement with the Bureau under section 5321, 5322(a), or 5352 of this title, or under the Tribally Controlled Schools Act of 1988 [[25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.].
 
 (7) **Director** — The term “Director” means the Director of the Office of Indian Education Programs.
 
 (8) **Education line officer** — The term “education line officer” means a member of the education personnel under the supervision of the Director of the Office, whether located in a central, area, or agency office.
 
-(9) **Family literacy services** — The term “family literacy services” has the meaning given that term in section 7801 11 See References in Text note below. of title 20.
+(9) **Family literacy services** — The term “family literacy services” has the meaning given that term in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
 
 (10) **Financial plan** — The term “financial plan” means a plan of services provided by each Bureau school.
 
@@ -2039,8 +2045,6 @@ For the purposes of this chapter, unless otherwise specified:
 #### References in Text
 The Tribally Controlled Schools Act of 1988, referred to in pars. (3)(C) and (6), is part B (§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-027-tribally-controlled-school-grants.md#section-2501) and Tables.
 
-[Section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim), referred to in par. (9), was in the original “section 8101 of the Elementary and Secondary Education Act of 1965”, meaning section 8101 of Pub. L. 89–10, which was translated as if it referred to section 9101 of that Act to reflect the probable intent of Congress, because section 8101 was repealed by Pub. L. 107–110, title X, § 1011(5)(C), Jan. 8, 2002, 115 Stat. 1986, and section 9101, as added by Pub. L. 107–110, title IX, § 901, Jan. 8, 2002, 115 Stat. 1956, defines “family literacy services”.
-
 This Act, referred to in par. (16)(A), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
 
 This chapter, referred to in par. (16)(B), was in the original “this title”, meaning title XI (§ 1101 et seq.) of Pub. L. 95–561, as amended, which is classified principally to this chapter. For complete classification of title XI to the Code, see Tables.
@@ -2073,3 +2077,9 @@ Section 2024, Pub. L. 95–561, title XI, § 1144, as added Pub. L. 103–382, t
 Section 2025, Pub. L. 95–561, title XI, § 1145, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4015, related to payments to grantees.
 
 Section 2026, Pub. L. 95–561, title XI, § 1146, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4015; amended Pub. L. 106–554, § 1(a)(4) [div. B, title XVI, § 1607(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–335, defined terms. See [section 2021 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2021).
+
+#### Amendments
+2015—Par. (9). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.

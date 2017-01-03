@@ -131,7 +131,7 @@ Subsec. (e). Pub. L. 90–226, § 802(3), added subsec. (e). Former subsec. (e) 
 Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, § 711, Dec. 24, 1973, 87 Stat. 818, and replaced by Office of Mayor of District of Columbia by section 421 of Pub. L. 93–198.
 
 #### Utilization of Surplus Property
-Act June 29, 1948, ch. 719, § 4, 62 Stat. 1100, provided that: “For its own use in the industrial employment and training of prisoners and not for transfer or disposition, transfers of surplus property under the Surplus Property Act of 1944 [former sections 1611 to 1646 of Appendix to Title 50, War and National Defense], may be made to Federal Prison Industries, Incorporated, without reimbursement or transfer of funds.”
+Act June 29, 1948, ch. 719, § 4, 62 Stat. 1100, provided that: “For its own use in the industrial employment and training of prisoners and not for transfer or disposition, transfers of surplus property under the Surplus Property Act of 1944 [former sections 1611 to 1646 of the former Appendix to Title 50, War and National Defense], may be made to Federal Prison Industries, Incorporated, without reimbursement or transfer of funds.”
 
 
 <a id="section-4123"></a>

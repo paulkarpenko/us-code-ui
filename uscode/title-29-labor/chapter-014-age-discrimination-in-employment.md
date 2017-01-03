@@ -154,7 +154,7 @@ Pub. L. 99–592, § 5, Oct. 31, 1986, 100 Stat. 3343, provided that: “(a) Stu
 
 (5) Paragraph (1) shall not apply with respect to any employee who is a highly compensated employee (within the meaning of [section 414(q) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414/q&num=0&edition=prelim)) to the extent provided in regulations prescribed by the Secretary of the Treasury for purposes of precluding discrimination in favor of highly compensated employees within the meaning of subchapter D of chapter 1 of title 26.
 
-(6) A plan shall not be treated as failing to meet the requirements of paragraph (1) solely because the subsidized portion of any early retirement benefit is disregarded in determining benefit accruals or it is a plan permitted by subsection (m) of this section..11 So in original.
+(6) A plan shall not be treated as failing to meet the requirements of paragraph (1) solely because the subsidized portion of any early retirement benefit is disregarded in determining benefit accruals or it is a plan permitted by subsection (m)..11 So in original.
 
 (7) Any regulations prescribed by the Secretary of the Treasury pursuant to clause (v) of [section 411(b)(1)(H) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section411/b/1/H&num=0&edition=prelim) and subparagraphs (C) and (D) 22 See References in Text note below. of [section 411(b)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section411/b/2&num=0&edition=prelim) shall apply with respect to the requirements of this subsection in the same manner and to the same extent as such regulations apply with respect to the requirements of such sections 411(b)(1)(H) and 411(b)(2).
 
@@ -250,11 +250,11 @@ Pub. L. 99–592, § 5, Oct. 31, 1986, 100 Stat. 3343, provided that: “(a) Stu
 
 **(k) Seniority system or employee benefit plan; compliance** A seniority system or employee benefit plan shall comply with this chapter regardless of the date of adoption of such system or plan.
 
-**(l) Lawful practices; minimum age as condition of eligibility for retirement benefits; deductions from severance pay; reduction of long-term disability benefits** Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
+**(l) Lawful practices; minimum age as condition of eligibility for retirement benefits; deductions from severance pay; reduction of long-term disability benefits** Notwithstanding clause (i) or (ii) of subsection (f)(2)(B)—
 
 (1)
 
-  (A) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because—
+  (A) It shall not be a violation of subsection (a), (b), (c), or (e) solely because—
 
     (i) an employee pension benefit plan (as defined in [section 1002(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/2&num=0&edition=prelim)) provides for the attainment of a minimum age as a condition of eligibility for normal or early retirement benefits; or
 
@@ -268,7 +268,7 @@ Pub. L. 99–592, § 5, Oct. 31, 1986, 100 Stat. 3343, provided that: “(a) Stu
 
     (i) is maintained by—
 
-      (I) a local educational agency (as defined in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim),44 So in original. A closing parenthesis probably should follow “20”. or
+      (I) a local educational agency (as defined in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)), or
 
       (II) an education association which principally represents employees of 1 or more agencies described in subclause (I) and which is described in section 501(c)(5) or (6) of title 26 and exempt from taxation under [section 501(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim), and
 
@@ -277,7 +277,7 @@ Pub. L. 99–592, § 5, Oct. 31, 1986, 100 Stat. 3343, provided that: “(a) Stu
 
 (2)
 
-  (A) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because following a contingent event unrelated to age—
+  (A) It shall not be a violation of subsection (a), (b), (c), or (e) solely because following a contingent event unrelated to age—
 
     (i) the value of any retiree health benefits received by an individual eligible for an immediate pension;
 
@@ -316,13 +316,13 @@ Pub. L. 99–592, § 5, Oct. 31, 1986, 100 Stat. 3343, provided that: “(a) Stu
 
   (F) If an employer that has implemented a deduction pursuant to subparagraph (A) fails to fulfill the obligation described in subparagraph (E), any aggrieved individual may bring an action for specific performance of the obligation described in subparagraph (E). The relief shall be in addition to any other remedies provided under Federal or State law.
 
-(3) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because an employer provides a bona fide employee benefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
+(3) It shall not be a violation of subsection (a), (b), (c), or (e) solely because an employer provides a bona fide employee benefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
 
   (A) paid to the individual that the individual voluntarily elects to receive; or
 
   (B) for which an individual who has attained the later of age 62 or normal retirement age is eligible.
 
-**(m) Voluntary retirement incentive plans** Notwithstanding subsection (f)(2)(B) of this section, it shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because a plan of an institution of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)) offers employees who are serving under a contract of unlimited tenure (or similar arrangement providing for unlimited tenure) supplemental benefits upon voluntary retirement that are reduced or eliminated on the basis of age, if—
+**(m) Voluntary retirement incentive plans** Notwithstanding subsection (f)(2)(B), it shall not be a violation of subsection (a), (b), (c), or (e) solely because a plan of an institution of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)) offers employees who are serving under a contract of unlimited tenure (or similar arrangement providing for unlimited tenure) supplemental benefits upon voluntary retirement that are reduced or eliminated on the basis of age, if—
 
 (1) such institution does not implement with respect to such employees any age-based reduction or cessation of benefits that are not such supplemental benefits, except as permitted by other provisions of this chapter;
 
@@ -342,13 +342,15 @@ Section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996, refe
 The Social Security Act, referred to in subsec. (l)(1)(A)(ii)(II), (2)(D)(i), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVIII of the Act are classified generally to subchapters II (§ 401 et seq.) and XVIII (§ 1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (l)(1)(B)(i)(I). Pub. L. 114–95 substituted “[section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim))” for “[section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)”.
+
 2008—Subsec. (i)(10)(B)(i)(III). Pub. L. 110–458 inserted at end “In the case of a governmental plan (as defined in the first sentence of [section 414(d) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414/d&num=0&edition=prelim)), a rate of return or a method of crediting interest established pursuant to any provision of Federal, State, or local law (including any administrative rule or policy adopted in accordance with any such law) shall be treated as a market rate of return for purposes of subclause (I) and a permissible method of crediting interest for purposes of meeting the requirements of subclause (I), except that this sentence shall only apply to a rate of return or method of crediting interest if such rate or method does not violate any other requirement of this chapter.”
 
 2006—Subsec. (i)(10). Pub. L. 109–280, § 701(c), added par. (10).
 
 Subsec. (l)(1). Pub. L. 109–280, § 1104(a)(2), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and former cls. (i) and (ii) of former subpar. (B) as subcls. (I) and (II) of cl. (ii), respectively, and added subpar. (B).
 
-1998—Subsec. (i)(6). Pub. L. 105–244, § 941(b), inserted “or it is a plan permitted by subsection (m) of this section.” after “accruals”.
+1998—Subsec. (i)(6). Pub. L. 105–244, § 941(b), inserted “or it is a plan permitted by subsection (m).” after “accruals”.
 
 Subsec. (m). Pub. L. 105–244, § 941(a), added subsec. (m).
 
@@ -407,6 +409,9 @@ Subsec. (g)(1). Pub. L. 98–369 inserted “, and any employee’s spouse aged 
 1982—Subsec. (g). Pub. L. 97–248 added subsec. (g) relating to entitlement to coverage under group health plans.
 
 1978—Subsec. (f)(2). Pub. L. 95–256 provided that no seniority system or employee benefit plan require or permit the involuntary retirement of any individual specified by [section 631(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section631/a&num=0&edition=prelim) because of the age of the individual.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–458, title I, § 123(b), Dec. 23, 2008, 122 Stat. 5114, provided that: “The amendment made by this section [amending this section] shall take effect as if included in the provisions of the Pension Protection Act of 2006 [Pub. L. 109–280] to which such amendment relates.”
@@ -578,7 +583,7 @@ Functions relating to age discrimination administration and enforcement vested b
 
 Pub. L. 111–2, § 4(1)(A), which directed amendment of first sentence by redesignating pars. (1) and (2) as subpars. (A) and (B), respectively, was executed by making the redesignation in the second sentence to reflect the probable intent of Congress.
 
-1991—Subsec. (e). Pub. L. 102–166 struck out par. (1) designation, substituted “Section” for “Sections 255 and”, inserted at end “If a charge filed with the Commission under this chapter is dismissed or the proceedings of the Commission are otherwise terminated by the Commission, the Commission shall notify the person aggrieved. A civil action may be brought under this section by a person defined in [section 630(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section630/a&num=0&edition=prelim) against the respondent named in the charge within 90 days after the date of the receipt of such notice.”, and struck out par. (2) which read as follows: “For the period during which the Equal Employment Opportunity Commission is attempting to effect voluntary compliance with requirements of this chapter through informal methods of conciliation, conference, and persuasion pursuant to subsection (b) of this section, the statute of limitations as provided in [section 255 of this title](./chapter-009-portal-to-portal-pay.md#section-255) shall be tolled, but in no event for a period in excess of one year.”
+1991—Subsec. (e). Pub. L. 102–166 struck out par. (1) designation, substituted “Section” for “Sections 255 and”, inserted at end “If a charge filed with the Commission under this chapter is dismissed or the proceedings of the Commission are otherwise terminated by the Commission, the Commission shall notify the person aggrieved. A civil action may be brought under this section by a person defined in [section 630(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section630/a&num=0&edition=prelim) against the respondent named in the charge within 90 days after the date of the receipt of such notice.”, and struck out par. (2) which read as follows: “For the period during which the Equal Employment Opportunity Commission is attempting to effect voluntary compliance with requirements of this chapter through informal methods of conciliation, conference, and persuasion pursuant to subsection (b), the statute of limitations as provided in [section 255 of this title](./chapter-009-portal-to-portal-pay.md#section-255) shall be tolled, but in no event for a period in excess of one year.”
 
 1990—Subsec. (f). Pub. L. 101–433 added subsec. (f).
 
@@ -800,9 +805,9 @@ Functions vested by this section in Secretary of Labor or Civil Service Commissi
 ## § 633a. Nondiscrimination on account of age in Federal Government employment
 **(a) Federal agencies affected** All personnel actions affecting employees or applicants for employment who are at least 40 years of age (except personnel actions with regard to aliens employed outside the limits of the United States) in military departments as defined in [section 102 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section102&num=0&edition=prelim), in executive agencies as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim) (including employees and applicants for employment who are paid from nonappropriated funds), in the United States Postal Service and the Postal Regulatory Commission, in those units in the government of the District of Columbia having positions in the competitive service, and in those units of the judicial branch of the Federal Government having positions in the competitive service, in the Smithsonian Institution, and in the Government Publishing Office, the Government Accountability Office, and the Library of Congress shall be made free from any discrimination based on age.
 
-**(b) Enforcement by Equal Employment Opportunity Commission and by Librarian of Congress in the Library of Congress; remedies; rules, regulations, orders, and instructions of Commission: compliance by Federal agencies; powers and duties of Commission; notification of final action on complaint of discrimination; exemptions: bona fide occupational qualification** Except as otherwise provided in this subsection, the Equal Employment Opportunity Commission is authorized to enforce the provisions of subsection (a) of this section through appropriate remedies, including reinstatement or hiring of employees with or without backpay, as will effectuate the policies of this section. The Equal Employment Opportunity Commission shall issue such rules, regulations, orders, and instructions as it deems necessary and appropriate to carry out its responsibilities under this section. The Equal Employment Opportunity Commission shall—
+**(b) Enforcement by Equal Employment Opportunity Commission and by Librarian of Congress in the Library of Congress; remedies; rules, regulations, orders, and instructions of Commission: compliance by Federal agencies; powers and duties of Commission; notification of final action on complaint of discrimination; exemptions: bona fide occupational qualification** Except as otherwise provided in this subsection, the Equal Employment Opportunity Commission is authorized to enforce the provisions of subsection (a) through appropriate remedies, including reinstatement or hiring of employees with or without backpay, as will effectuate the policies of this section. The Equal Employment Opportunity Commission shall issue such rules, regulations, orders, and instructions as it deems necessary and appropriate to carry out its responsibilities under this section. The Equal Employment Opportunity Commission shall—
 
-(1) be responsible for the review and evaluation of the operation of all agency programs designed to carry out the policy of this section, periodically obtaining and publishing (on at least a semiannual basis) progress reports from each department, agency, or unit referred to in subsection (a) of this section;
+(1) be responsible for the review and evaluation of the operation of all agency programs designed to carry out the policy of this section, periodically obtaining and publishing (on at least a semiannual basis) progress reports from each department, agency, or unit referred to in subsection (a);
 
 (2) consult with and solicit the recommendations of interested individuals, groups, and organizations relating to nondiscrimination in employment on account of age; and
 

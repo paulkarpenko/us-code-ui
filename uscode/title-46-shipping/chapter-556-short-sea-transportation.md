@@ -118,9 +118,13 @@ In this chapter, the term “short sea transportation” means the carriage by a
 
 (1) that is—
 
-  (A) contained in intermodal cargo containers and loaded by crane on the vessel; or
+  (A) contained in intermodal cargo containers and loaded by crane on the vessel;
 
-  (B) loaded on the vessel by means of wheeled technology; and
+  (B) loaded on the vessel by means of wheeled technology;
+
+  (C) shipped in discrete units or packages that are handled individually, palletized, or unitized for purposes of transportation; or
+
+  (D) freight vehicles carried aboard commuter ferry boats; and
 
 (2) that is—
 
@@ -131,4 +135,6 @@ In this chapter, the term “short sea transportation” means the carriage by a
 ### Statutory Notes
 
 #### Amendments
+2015—Par. (1)(C), (D). Pub. L. 114–92 added subpars. (C) and (D).
+
 2012—Pub. L. 112–213, which directed amendment of section 55605, without specifying the title to be amended, by substituting “by a documented vessel” for “by vessel” in the matter preceding par. (1), was executed to this section, to reflect the probable intent of Congress.

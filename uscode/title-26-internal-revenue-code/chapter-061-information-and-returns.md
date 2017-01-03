@@ -916,6 +916,8 @@ Any determination under this section shall be made without regard to community p
 
 (5) **Waiver** — An individual who elects the application of subsection (b) or (c) or who requests equitable relief under subsection (f) (and who agrees with the Secretary’s determination of relief) may waive in writing at any time the restrictions in paragraph (1)(B) with respect to collection of the outstanding assessment (whether or not a notice of the Secretary’s final determination of relief has been mailed).
 
+(6) **Suspension of running of period for filing petition in title 11 cases** — In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1)(A) with respect to a final determination of relief under this section, the running of the period prescribed by such paragraph for filing such a petition with respect to such final determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 60 days thereafter.
+
 **(f) Equitable relief** Under procedures prescribed by the Secretary, if—
 
 (1) taking into account all the facts and circumstances, it is inequitable to hold the individual liable for any unpaid tax or any deficiency (or any portion of either); and
@@ -943,6 +945,8 @@ the Secretary may relieve such individual of such liability.
 A prior section 6015, acts Aug. 16, 1954, ch. 736, 68A Stat. 737; Sept. 2, 1958, Pub. L. 85–866, title I, § 74, 72 Stat. 1660; Sept. 14, 1960, Pub. L. 86–779, § 5(a), 74 Stat. 1000; Sept. 25, 1962, Pub. L. 87–682, § 1(a)(1), 76 Stat. 575; Mar. 15, 1966, Pub. L. 89–368, title I, § 102(a), 80 Stat. 62; Nov. 13, 1966, Pub. L. 89–809, title I, § 103(j), 80 Stat. 1554; Dec. 30, 1969, Pub. L. 91–172, title III, § 301(b)(12), title VIII, § 803(d)(7), title IX, § 944(a), 83 Stat. 586, 684, 729; Dec. 10, 1971, Pub. L. 92–178, title II, § 209(a), 85 Stat. 517; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1906(a)(2), (b)(13)(A), 90 Stat. 1824, 1834; Nov. 6, 1978, Pub. L. 95–600, title IV, § 421(e)(7), 92 Stat. 2876; Aug. 13, 1981, Pub. L. 97–34, title VII, § 725(a), (c)(2), 95 Stat. 345, 346; Sept. 3, 1982, Pub. L. 97–248, title II, § 201(d)(7), formerly § 201(c)(7), title III, §§ 307(a)(6), 308(a), 328(b)(1), 96 Stat. 420, 589, 591, 618, redesignated and amended Jan. 12, 1983, Pub. L. 97–448, title I, § 107(c)(2), title II, § 201(j)(1), title III, § 306(a)(1)(A)(i), 96 Stat. 2391, 2395, 2400; Aug. 5, 1983, Pub. L. 98–67, title I, § 102(a), 97 Stat. 369, related to declaration of estimated income tax by individuals, prior to repeal by Pub. L. 98–369, div. A, title IV, §§ 412(a)(1), 414(a)(1), July 18, 1984, 98 Stat. 792, 793, applicable with respect to taxable years beginning after Dec. 31, 1984.
 
 #### Amendments
+2015—Subsec. (e)(6). Pub. L. 114–113 added par. (6).
+
 2006—Subsec. (e)(1). Pub. L. 109–432, § 408(a), inserted “, or in the case of an individual who requests equitable relief under subsection (f)” after “apply” in introductory provisions.
 
 Subsec. (e)(1)(A)(i)(II). Pub. L. 109–432, § 408(b)(1), inserted “or request is made” after “filed”.
@@ -976,6 +980,9 @@ Subsec. (e)(5). Pub. L. 106–554, § 1(a)(7) [title III, § 313(a)(3)(D)(i)], a
 Subsecs. (g), (h). Pub. L. 106–554, § 1(a)(7) [title III, § 313(a)(2)(A)], added subsec. (g) and redesignated former subsec. (g) as (h).
 
 1998—Subsec. (e)(3)(A). Pub. L. 105–277 substituted “of subsection (b) or (f)” for “of this section”.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title IV, § 424(a)(2), Dec. 18, 2015, 129 Stat. 3124, provided that: “The amendment made by this subsection [amending this section] shall apply to petitions filed under section 6015(e) of the Internal Revenue Code of 1986 after the date of the enactment of this Act [Dec. 18, 2015].”
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–432, div. C, title IV, § 408(c), Dec. 20, 2006, 120 Stat. 3062, provided that: “The amendments made by this section [amending this section] shall apply with respect to liability for taxes arising or remaining unpaid on or after the date of the enactment of this Act [Dec. 20, 2006].”
@@ -1237,7 +1244,22 @@ Whenever there are in any internal revenue district any articles subject to tax,
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)
+Pub. L. 114–113, div. Q, title IV, § 411(d), (e), Dec. 18, 2015, 129 Stat. 3122, provided that, effective as if included in section 1101 of Pub. L. 114–74, subsection (b) of this section is amended by striking the last sentence and inserting the following: “Except as provided in the procedures under section 6225(c), with respect to statements under section 6226, or as otherwise provided by the Secretary, information required to be furnished by the partnership under this subsection may not be amended after the due date of the return under subsection (a) to which such information relates.”
+
+Pub. L. 114–74, title XI, § 1101(e), (f)(1), (g), Nov. 2, 2015, 129 Stat. 637, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (b) of this section is amended as follows:
+
+(1) by adding at the end the following: “Except as provided in the procedures under section 6225(c), with respect to statements under section 6226, or as otherwise provided by the Secretary, information required to be furnished by the partnership under this subsection may not be amended after the due date of the return under subsection (a) to which such information relates.”; and
+
+(2) by striking the last sentence.
+
+See 2015 Amendment notes below.
+
 #### Amendments
+2015—Subsec. (b). Pub. L. 114–113 substituted “Except as provided in the procedures under section 6225(c), with respect to statements under section 6226, or as otherwise provided by the Secretary, information required to be furnished by the partnership under this subsection may not be amended after the due date of the return under subsection (a) to which such information relates.” for “In the case of an electing large partnership (as defined in section 775), such information shall be furnished on or before the first March 15 following the close of such taxable year.”
+
+Pub. L. 114–74, § 1101(e), (f)(1), which directed amendment of subsec. (b) by first inserting at end “Except as provided in the procedures under section 6225(c), with respect to statements under section 6226, or as otherwise provided by the Secretary, information required to be furnished by the partnership under this subsection may not be amended after the due date of the return under subsection (a) to which such information relates.” and then by striking the last sentence, was not executed in view of the amendment by Pub. L. 114–113, which made identical amendments but in the reverse order, effective as if included in section 1101 of Pub. L. 114–74. See note above.
+
 2004—Subsec. (f). Pub. L. 108–357 added subsec. (f).
 
 1997—Subsec. (b). Pub. L. 105–34, § 1223(a), inserted at end “In the case of an electing large partnership (as defined in section 775), such information shall be furnished on or before the first March 15 following the close of such taxable year.”
@@ -1257,6 +1279,11 @@ Subsec. (c). Pub. L. 99–514, § 1811(b)(1)(A)(ii), added subsec. (c).
 Subsec. (b). Pub. L. 97–248, § 403(a), added subsec. (b).
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title IV, § 411(e), Dec. 18, 2015, 129 Stat. 3122, provided that: “The amendments made by this section [amending this section and sections 6225, 6226, 6234, and 6235 of this title] shall take effect as if included in section 1101 of the Bipartisan Budget Act of 2015 [Pub. L. 114–74].”
+
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 2004 Amendment
 Amendment by Pub. L. 108–357 applicable to transfers after Oct. 22, 2004, with transition rule in the case of an electing investment partnership which is in existence on June 4, 2004, see section 833(d)(2) of Pub. L. 108–357, set out as a note under [section 743 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-743).
@@ -1447,7 +1474,11 @@ Nothing in paragraph (1) shall require the inclusion of the name and address of 
 
 (3) **Exception where dues generally nondeductible** — Paragraph (1)(A) shall not apply to an organization which establishes to the satisfaction of the Secretary that substantially all of the dues or other similar amounts paid by persons to such organization are not deductible without regard to section 162(e).
 
-**(f) Certain organizations described in section 501(c)(4)** Every organization described in section 501(c)(4) which is subject to the requirements of subsection (a) shall include on the return required under subsection (a) the information referred to in paragraphs (11), (12) and (13) of subsection (b) with respect to such organization.
+**(f) Certain organizations described in section 501(c)(4)** Every organization described in section 501(c)(4) which is subject to the requirements of subsection (a) shall include on the return required under subsection (a)—
+
+(1) the information referred to in paragraphs (11), (12) and (13) of subsection (b) with respect to such organization, and
+
+(2) in the case of the first such return filed by such an organization after submitting a notice to the Secretary under section 506(a), such information as the Secretary shall by regulation require in support of the organization’s treatment as an organization described in section 501(c)(4).
 
 **(g) Returns required by political organizations**
 
@@ -1549,6 +1580,8 @@ The Federal Election Campaign Act of 1971, referred to in subsec. (g)(3)(F), is 
 Sections 1205(b)(1), 1223(a), (b), 1235(a)(1), and 1245(a), (b) of Pub. L. 109–280, which directed the amendment of section 6033 without specifying the act to be amended, were executed to this section, which is section 6033 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2015—Subsec. (f). Pub. L. 114–113 substituted “under subsection (a)—” for “under subsection (a)”, inserted par. (1) designation before “the information”, substituted “to such organization, and” for “to such organization.”, and added par. (2).
+
 2010—Subsec. (b)(10)(D). Pub. L. 111–148, § 9007(d)(2), added subpar. (D).
 
 Subsec. (b)(15), (16). Pub. L. 111–148, § 9007(d)(1), added par. (15) and redesignated former par. (15) as (16).
@@ -1644,6 +1677,9 @@ Subsec. (b)(8). Pub. L. 91–172, § 101(d)(2)(B), struck out par. (8) which mad
 Subsec. (c). Pub. L. 91–172, § 101(j)(31), inserted cross references to section 6043(b) and 6652(d).
 
 1958—Subsec. (b)(8). Pub. L. 85–866 added par. (8).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–113 applicable to organizations which are described in [section 501(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/4&num=0&edition=prelim) and organized after Dec. 18, 2015, and to certain then-existing organizations, see section 405(f) of Pub. L. 114–113, set out as an Effective Date note under [section 506 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-506).
 
 #### Effective Date of 2010 Amendment
 Amendment by section 9007(d) of Pub. L. 111–148 applicable to taxable years beginning after Mar. 23, 2010, see section 9007(f)(1) of Pub. L. 111–148, set out as a note under [section 501 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-501).
@@ -1845,14 +1881,36 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 
 <a id="section-6035"></a>
-## § 6035. Repealed. Pub. L. 108–357, title IV, § 413(c)(26), Oct. 22, 2004, 118 Stat. 1509]
+## § 6035. Basis information to persons acquiring property from decedent
+**(a) Information with respect to property acquired from decedents**
+
+(1) **In general** — The executor of any estate required to file a return under section 6018(a) shall furnish to the Secretary and to each person acquiring any interest in property included in the decedent’s gross estate for Federal estate tax purposes a statement identifying the value of each interest in such property as reported on such return and such other information with respect to such interest as the Secretary may prescribe.
+
+(2) **Statements by beneficiaries** — Each person required to file a return under section 6018(b) shall furnish to the Secretary and to each other person who holds a legal or beneficial interest in the property to which such return relates a statement identifying the information described in paragraph (1).
+
+(3) **Time for furnishing statement**
+
+  (A) *In general* — Each statement required to be furnished under paragraph (1) or (2) shall be furnished at such time as the Secretary may prescribe, but in no case at a time later than the earlier of—
+
+    (i) the date which is 30 days after the date on which the return under section 6018 was required to be filed (including extensions, if any), or
+
+    (ii) the date which is 30 days after the date such return is filed.
+
+  (B) *Adjustments* — In any case in which there is an adjustment to the information required to be included on a statement filed under paragraph (1) or (2) after such statement has been filed, a supplemental statement under such paragraph shall be filed not later than the date which is 30 days after such adjustment is made.
+
+**(b) Regulations** The Secretary shall prescribe such regulations as necessary to carry out this section, including regulations relating to—
+
+(1) the application of this section to property with regard to which no estate tax return is required to be filed, and
+
+(2) situations in which the surviving joint tenant or other recipient may have better information than the executor regarding the basis or fair market value of the property.
 
 ### Statutory Notes
 
-Section, Aug. 16, 1954, ch. 736, 68A Stat. 743; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, § 340(a), Sept. 3, 1982, 96 Stat. 633, related to information returns of officers, directors, and shareholders of foreign personal holding companies.
+#### Effective Date
+Section applicable to property with respect to which an estate tax return is filed after July 31, 2015, see section 2004(d) of Pub. L. 114–41, set out as an Effective Date of 2015 Amendment note under [section 1014 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1014).
 
-#### Effective Date of Repeal
-Repeal applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+#### Prior Provisions
+A prior section 6035, act Aug. 16, 1954, ch. 736, 68A Stat. 743; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, § 340(a), Sept. 3, 1982, 96 Stat. 633, related to information returns of officers, directors, and shareholders of foreign personal holding companies, prior to repeal by Pub. L. 108–357, title IV, § 413(c)(26), (d)(1), Oct. 22, 2004, 118 Stat. 1509, 1510, applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
 
 
 <a id="section-6036"></a>
@@ -3595,6 +3653,8 @@ during the period such short sale or similar transaction is open, the broker sha
 
     (ii) *Exception for wash sales* — Except as otherwise provided by the Secretary, the customer’s adjusted basis shall be determined without regard to section 1091 (relating to loss from wash sales of stock or securities) unless the transactions occur in the same account with respect to identical securities.
 
+    (iii) *Treatment of uncorrected de minimis errors* — Except as otherwise provided by the Secretary, the customer’s adjusted basis shall be determined by treating any incorrect dollar amount which is not required to be corrected by reason of section 6721(c)(3) or section 6722(c)(3) as the correct amount.
+
 (3) **Covered security** — For purposes of this subsection—
 
   (A) *In general* — The term “covered security” means any specified security acquired on or after the applicable date if such security—
@@ -3640,6 +3700,8 @@ during the period such short sale or similar transaction is open, the broker sha
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (g)(2)(B)(iii). Pub. L. 114–113 added cl. (iii).
+
 2014—Subsec. (g)(6). Pub. L. 113–295 added par. (6).
 
 2008—Subsec. (b). Pub. L. 110–343, § 403(a)(3)(A), (C), in concluding provisions, substituted “February 15” for “January 31” and inserted at end “In the case of a consolidated reporting statement (as defined in regulations) with respect to any customer, any statement which would otherwise be required to be furnished on or before January 31 of a calendar year with respect to any item reportable to the taxpayer shall instead be required to be furnished on or before February 15 of such calendar year if furnished with such consolidated reporting statement.”
@@ -3685,6 +3747,9 @@ Subsec. (d). Pub. L. 98–369, § 150(a), added subsec. (d).
 1982—Pub. L. 97–248 designated existing provisions as subsec. (a), substituted “the name and address of each customer, with such details regarding gross proceeds” for “the names of customers for whom such person has transacted any business, with such details regarding the profits and losses” after “may prescribe, showing” and “such business” for “each customer as will enable the Secretary to determine the amount of such profits and losses” after “with respect to”, and added subsecs. (b) and (c).
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title II, § 202(e), Dec. 18, 2015, 129 Stat. 3078, provided that: “The amendments made by this section [amending this section and sections 6721 and 6722 of this title] shall apply to returns required to be filed, and payee statements required to be provided, after December 31, 2016.”
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective as if included in the provisions of the Energy Improvement and Extension Act of 2008, Pub. L. 110–343, div. B, to which such amendment relates, see section 210(h) of Pub. L. 113–295, set out as a note under [section 45 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45).
@@ -4779,9 +4844,15 @@ shall make the return described in subsection (b) with respect to each individua
 
   (B) the amount of such interest (other than points) received for the calendar year,
 
-  (C) the amount of points on the mortgage received during the calendar year and whether such points were paid directly by the borrower, and
+  (C) the amount of points on the mortgage received during the calendar year and whether such points were paid directly by the borrower,
 
-  (D) such other information as the Secretary may prescribe.
+  (D) the amount of outstanding principal on the mortgage as of the beginning of such calendar year,
+
+  (E) the date of the origination of the mortgage,
+
+  (F) the address (or other description in the case of property without an address) of the property which secures the mortgage, and
+
+  (G) such other information as the Secretary may prescribe.
 
 **(c) Application to governmental units** For purposes of subsection (a)—
 
@@ -4797,7 +4868,7 @@ shall make the return described in subsection (b) with respect to each individua
 
 (1) the name, address, and phone number of the information contact of the person required to make such return, and
 
-(2) the aggregate amount of interest described in subsection (a)(2) (other than points) received by the person required to make such return from the individual to whom the statement is required to be furnished (and the information required under subsection (b)(2)(C)).
+(2) the aggregate amount of interest described in subsection (a)(2) (other than points) received by the person required to make such return from the individual to whom the statement is required to be furnished (and the information required under subparagraphs (C), (D), (E), and (F) of subsection (b)(2)).
 The written statement required under the preceding sentence shall be furnished on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made.
 
 **(e) Mortgage defined** For purposes of this section, except as provided in regulations prescribed by the Secretary, the term “mortgage” means any obligation secured by real property.
@@ -4828,6 +4899,10 @@ The written statement required under the preceding sentence shall be furnished o
 The date of the enactment of this subsection, referred to in subsec. (h)(3)(B)(ii), is the date of enactment of Pub. L. 109–432, which was approved Dec. 20, 2006.
 
 #### Amendments
+2015—Subsec. (b)(2)(D) to (G). Pub. L. 114–41, § 2003(a), added subpars. (D) to (F) and redesignated former subpar. (D) as (G).
+
+Subsec. (d)(2). Pub. L. 114–41, § 2003(b), substituted “subparagraphs (C), (D), (E), and (F) of subsection (b)(2)” for “subsection (b)(2)(C)”.
+
 2006—Subsec. (h). Pub. L. 109–432 added subsec. (h).
 
 1996—Subsec. (b)(2)(B). Pub. L. 104–188 made technical amendment to directory language of Pub. L. 101–239, § 7646(b)(1). See 1989 Amendment note below.
@@ -4843,6 +4918,9 @@ Subsec. (d)(2). Pub. L. 102–239, § 7646(b)(2), inserted “(other than points
 1986—Subsec. (d). Pub. L. 99–514, § 1501(c)(11), in amending subsec. (d) generally, substituted “information is required” for “information is furnished” in heading and, in text, substituted references to persons required to make a return for former references to persons making a return and references to persons whose name is required to be set forth for former references to persons whose name is set forth.
 
 Subsec. (g). Pub. L. 99–514, § 1811(a)(1), added subsec. (g).
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–41, title II, § 2003(c), July 31, 2015, 129 Stat. 454, provided that: “The amendments made by this section [amending this section] shall apply to returns required to be made, and statements required to be furnished, after December 31, 2016.”
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–432 applicable to amounts paid or accrued after Dec. 31, 2006, see section 419(d) of Pub. L. 109–432, set out as a note under [section 163 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-163).
@@ -5439,7 +5517,7 @@ shall make the return described in subsection (b) with respect to the individual
 
   (B) the—
 
-    (i) aggregate amount of payments received or the aggregate amount billed for qualified tuition and related expenses with respect to the individual described in subparagraph (A) during the calendar year,
+    (i) aggregate amount of payments received for qualified tuition and related expenses with respect to the individual described in subparagraph (A) during the calendar year,
 
     (ii) aggregate amount of grants received by such individual for payment of costs of attendance that are administered and processed by the institution during such calendar year,
 
@@ -5447,9 +5525,11 @@ shall make the return described in subsection (b) with respect to the individual
 
     (iv) aggregate amount of reimbursements or refunds (or similar amounts) paid to such individual during the calendar year by a person engaged in a trade or business described in subsection (a)(2), and
 
-    (v) aggregate amount of interest received for the calendar year from such individual, and
+    (v) aggregate amount of interest received for the calendar year from such individual,
 
-  (C) such other information as the Secretary may prescribe.
+  (C) the employer identification number of the institution, and
+
+  (D) such other information as the Secretary may prescribe.
 
 **(c) Application to governmental units** For purposes of this section—
 
@@ -5473,7 +5553,11 @@ The written statement required under the preceding sentence shall be furnished o
 ### Statutory Notes
 
 #### Amendments
-2015—Subsec. (d)(2). Pub. L. 114–27 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the amounts described in subparagraph (B) of subsection (b)(2).”
+2015—Subsec. (b)(2)(B)(i). Pub. L. 114–113, § 212(a), struck out “or the aggregate amount billed” after “received”.
+
+Subsec. (b)(2)(C), (D). Pub. L. 114–113, § 211(b), added subpar. (C) and redesignated former subpar. (C) as (D).
+
+Subsec. (d)(2). Pub. L. 114–27 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the amounts described in subparagraph (B) of subsection (b)(2).”
 
 2002—Subsec. (a)(1). Pub. L. 107–131, § 1(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “which is an eligible educational institution—
 
@@ -5536,6 +5620,10 @@ Subsec. (b)(2)(C)(iii). Pub. L. 105–34, § 202(c)(2)(B), added cl. (iii).
 Subsec. (e). Pub. L. 105–34, § 202(c)(3), inserted at end “, and except as provided in regulations, the term ‘qualified education loan’ has the meaning given such term by section 221(e)(1)”.
 
 #### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title II, § 211(c)(2), Dec. 18, 2015, 129 Stat. 3085, provided that: “The amendments made by subsection (b) [amending this section] shall apply to expenses paid after December 31, 2015, for education furnished in academic periods beginning after such date.”
+
+Pub. L. 114–113, div. Q, title II, § 212(b), Dec. 18, 2015, 129 Stat. 3086, provided that: “The amendments made by subsection (b) [probably should be “subsection (a)”, amending this section] shall apply to expenses paid after December 31, 2015, for education furnished in academic periods beginning after such date.”
+
 Amendment by Pub. L. 114–27 applicable to taxable years beginning after June 29, 2015, see section 804(d) of Pub. L. 114–27, set out as a note under [section 25A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25a).
 
 #### Effective Date of 2002 Amendment
@@ -5773,7 +5861,7 @@ Section applicable to returns for calendar years beginning after Dec. 31, 2010, 
 
 (1) the name of such person,
 
-(2) the name of the employee (and his social security account number if wages as defined in section 3121(a) have been paid),
+(2) the name of the employee (and an identifying number for the employee if wages as defined in section 3121(a) have been paid),
 
 (3) the total amount of wages as defined in section 3401(a),
 
@@ -5795,13 +5883,15 @@ Section applicable to returns for calendar years beginning after Dec. 31, 2010, 
 
 (12) the amount contributed to any health savings account (as defined in section 223(d)) of such employee or such employee’s spouse,
 
-(13) the total amount of deferrals for the year under a nonqualified deferred compensation plan (within the meaning of section 409A(d)), and
+(13) the total amount of deferrals for the year under a nonqualified deferred compensation plan (within the meaning of section 409A(d)),
 
 (14) the aggregate cost (determined under rules similar to the rules of section 4980B(f)(4)) of applicable employer-sponsored coverage (as defined in section 4980I(d)(1)), except that this paragraph shall not apply to—
 
   (A) coverage to which paragraphs (11) and (12) apply, or
 
-  (B) the amount of any salary reduction contributions to a flexible spending arrangement (within the meaning of section 125).
+  (B) the amount of any salary reduction contributions to a flexible spending arrangement (within the meaning of section 125), and
+
+(15) the total amount of permitted benefit (as defined in section 9831(d)(3)(C)) for the year under a qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2)) with respect to the employee.
 In the case of compensation paid for service as a member of a uniformed service, the statement shall show, in lieu of the amount required to be shown by paragraph (5), the total amount of wages as defined in section 3121(a), computed in accordance with such section and section 3121(i)(2). In the case of compensation paid for service as a volunteer or volunteer leader within the meaning of the Peace Corps Act, the statement shall show, in lieu of the amount required to be shown by paragraph (5), the total amount of wages as defined in section 3121(a), computed in accordance with such section and section 3121(i)(3). In the case of tips received by an employee in the course of his employment, the amounts required to be shown by paragraphs (3) and (5) shall include only such tips as are included in statements furnished to the employer pursuant to section 6053(a). The amounts required to be shown by paragraph (5) shall not include wages which are exempted pursuant to sections 3101(c) and 3111(c) from the taxes imposed by sections 3101 and 3111. In the case of the amounts required to be shown by paragraph (13), the Secretary may (by regulation) establish a minimum amount of deferrals below which paragraph (13) does not apply.
 
 **(b) Special rule as to compensation of members of Armed Forces** In the case of compensation paid for service as a member of the Armed Forces, the statement required by subsection (a) shall be furnished if any tax was withheld during the calendar year under section 3402, or if any of the compensation paid during such year is includible in gross income under chapter 1, or if during the calendar year any amount was required to be withheld as tax under section 3101. In lieu of the amount required to be shown by paragraph (3) of subsection (a), such statement shall show as wages paid during the calendar year the amount of such compensation paid during the calendar year which is not excluded from gross income under chapter 1 (whether or not such compensation constituted wages as defined in section 3401(a)).
@@ -5856,6 +5946,10 @@ The Peace Corps Act, referred to in subsec. (a), is Pub. L. 87–293, Sept. 22, 
 The Social Security Act, referred to in subsecs. (c) and (e)(2)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Part A of title XVIII of the Social Security Act is classified to part A (§ 1395c et seq.) of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2016—Subsec. (a)(15). Pub. L. 114–255 added par. (15).
+
+2015—Subsec. (a)(2). Pub. L. 114–113 substituted “an identifying number for the employee” for “his social security account number”.
+
 2010—Subsec. (a)(7). Pub. L. 111–226 struck out par. (7) which read as follows: “the total amount paid to the employee under section 3507 (relating to advance payment of earned income credit),”.
 
 Subsec. (a)(14). Pub. L. 111–148 added par. (14).
@@ -5919,6 +6013,12 @@ Subsec. (c). Pub. L. 89–97, § 107, required the statements to show the propor
 1956—Subsec. (a). Act Aug. 1, 1956, § 412(a), inserted provisions prescribing contents of statement in the case of compensation paid for service as a member of the uniformed services.
 
 Subsec. (b). Act Aug. 1, 1956, § 412(b), required the furnishing of a statement if during the calendar year any amount was required to be withheld as tax under [section 3101 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3101).
+
+#### Effective Date of 2016 Amendment
+Amendment by Pub. L. 114–255 applicable to calendar years beginning after Dec. 31, 2016, see section 18001(a)(7)(E) of Pub. L. 114–255, set out in a note under [section 36B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-36b).
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title IV, § 409(b), Dec. 18, 2015, 129 Stat. 3121, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 18, 2015].”
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–226 applicable to taxable years beginning after Dec. 31, 2010, see section 219(c) of Pub. L. 111–226, set out as a note under [section 32 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-32).
@@ -6571,13 +6671,19 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 ## § 6071. Time for filing returns and other documents
 **(a) General rule** When not otherwise provided for by this title, the Secretary shall by regulations prescribe the time for filing any return, statement, or other document required by this title or by regulations.
 
-**(b) Electronically filed information returns** Returns made under subparts B and C of part III of this subchapter which are filed electronically shall be filed on or before March 31 of the year following the calendar year to which such returns relate.
+**(b) Electronically filed information returns** Returns made under subpart B of part III of this subchapter (other than returns and statements required to be filed with respect to nonemployee compensation) which are filed electronically shall be filed on or before March 31 of the year following the calendar year to which such returns relate.
 
-**(c) Special taxes** For payment of special taxes before engaging in certain trades and businesses, see section 4901 and section 5732.
+**(c) Returns and statements relating to employee wage information and nonemployee compensation** Forms W–2 and W–3 and any returns or statements required by the Secretary to report nonemployee compensation shall be filed on or before January 31 of the year following the calendar year to which such returns relate.
+
+**(d) Special taxes** For payment of special taxes before engaging in certain trades and businesses, see section 4901 and section 5732.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (b). Pub. L. 114–113, § 201(c), substituted “subpart B of part III of this subchapter (other than returns and statements required to be filed with respect to nonemployee compensation)” for “subparts B and C of part III of this subchapter”.
+
+Subsecs. (c), (d). Pub. L. 114–113, § 201(a), added subsec. (c) and redesignated former subsec. (c) as (d).
+
 2005—Subsec. (c). Pub. L. 109–59 substituted “section 5732” for “section 5142”.
 
 1998—Subsecs. (b), (c). Pub. L. 105–206 added subsec. (b) and redesignated former subsec. (b) as (c).
@@ -6585,6 +6691,9 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 1958—Subsec. (b). Pub. L. 85–859 inserted reference to [section 5142 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section5142&num=0&edition=prelim).
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title II, § 201(d), Dec. 18, 2015, 129 Stat. 3076, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section and [section 6402 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6402)] shall apply to returns and statements relating to calendar years beginning after the date of the enactment of this Act [Dec. 18, 2015]. “(2) Date for certain refunds.—The amendment made by subsection (b) [amending [section 6402 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6402)] shall apply to credits or refunds made after December 31, 2016.”
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, see section 11125(c) of Pub. L. 109–59, set out as a note under [section 5002 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5002).
@@ -6598,9 +6707,9 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 
 <a id="section-6072"></a>
 ## § 6072. Time for filing income tax returns
-**(a) General rule** In the case of returns under section 6012, 6013, 6017, or 6031 (relating to income tax under subtitle A), returns made on the basis of the calendar year shall be filed on or before the 15th day of April following the close of the calendar year and returns made on the basis of a fiscal year shall be filed on or before the 15th day of the fourth month following the close of the fiscal year, except as otherwise provided in the following subsections of this section.
+**(a) General rule** In the case of returns under section 6012, 6013, or 6017 (relating to income tax under subtitle A), returns made on the basis of the calendar year shall be filed on or before the 15th day of April following the close of the calendar year and returns made on the basis of a fiscal year shall be filed on or before the 15th day of the fourth month following the close of the fiscal year, except as otherwise provided in the following subsections of this section.
 
-**(b) Returns of corporations** Returns of corporations under section 6012 made on the basis of the calendar year shall be filed on or before the 15th day of March following the close of the calendar year, and such returns made on the basis of a fiscal year shall be filed on or before the 15th day of the third month following the close of the fiscal year. Returns required for a taxable year by section 6011(c)(2) (relating to returns of a DISC) shall be filed on or before the fifteenth day of the ninth month following the close of the taxable year.
+**(b) Returns of partnerships and S corporations** Returns of partnerships under section 6031 and returns of S corporations under sections 6012 and 6037 made on the basis of the calendar year shall be filed on or before the 15th day of March following the close of the calendar year, and such returns made on the basis of a fiscal year shall be filed on or before the 15th day of the third month following the close of the fiscal year. Returns required for a taxable year by section 6011(c)(2) (relating to returns of a DISC) shall be filed on or before the fifteenth day of the ninth month following the close of the taxable year.
 
 **(c) Returns by certain nonresident alien individuals and foreign corporations** Returns made by nonresident alien individuals (other than those whose wages are subject to withholding under chapter 24) and foreign corporations (other than those having an office or place of business in the United States or a former FSC (as defined in section 922 as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)) under section 6012 on the basis of a calendar year shall be filed on or before the 15th day of June following the close of the calendar year and such returns made on the basis of a fiscal year shall be filed on or before the 15th day of the 6th month following the close of the fiscal year.
 
@@ -6619,6 +6728,10 @@ a return made on the basis of a calendar year shall be filed on or before the 15
 The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in subsec. (c), is Pub. L. 106–519, Nov. 15, 2000, 114 Stat. 2423. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) and Tables.
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–41, § 2006(a)(1)(B), substituted “or 6017” for “6017, or 6031”.
+
+Subsec. (b). Pub. L. 114–41, § 2006(a)(1)(A), in heading, substituted “Returns of partnerships and S corporations” for “Returns of corporations” and, in text, substituted “Returns of partnerships under section 6031 and returns of S corporations under sections 6012 and 6037 made on the basis of the calendar year shall be filed on or before the 15th day of March following the close of the calendar year, and such returns made on the basis of a fiscal year shall be filed on or before the 15th day of the third month following the close of the fiscal year.” for “Returns of corporations under section 6012 made on the basis of the calendar year shall be filed on or before the 15th day of March following the close of the calendar year, and such returns made on the basis of a fiscal year shall be filed on or before the 15th day of the third month following the close of the fiscal year.”
+
 2014—Subsec. (b). Pub. L. 113–295 substituted “section 6011(c)(2)” for “section 6011(e)(2)”.
 
 2007—Subsec. (c). Pub. L. 110–172 substituted “a former FSC (as defined in section 922 as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)” for “a FSC or former FSC”.
@@ -6634,6 +6747,9 @@ Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “S
 1971—Subsec. (b). Pub. L. 92–178 required returns of a DISC to be filed on or before the fifteenth day of the ninth month following the close of the taxable year.
 
 1962—Subsec. (d). Pub. L. 87–834 substituted provisions relating to returns by an exempt cooperative association described in section 1381(a)(1), or by an organization described in section 1381(a)(2) which is under an obligation to pay patronage dividends in an amount equal to at least 50 percent of its net earnings from business done with or for its patrons, or which paid patronage dividends in such an amount out of the net earnings from business done with or for patrons during the most recent taxable year for which it had such net earnings for provisions which related to returns of exempt cooperative associations taxable under the provisions of section 522.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–41 applicable to returns for taxable years beginning after Dec. 31, 2015, with special rule for certain C corporations, see section 2006(a)(3) of Pub. L. 114–41, set out as a note under [section 170 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-170).
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in taxable years ending after such date, see section 805(a)(1) of Pub. L. 98–369, as amended, set out as a note under [section 245 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-245).
@@ -6750,24 +6866,34 @@ Repeal applicable to crude oil removed from the premises on or after Aug. 23, 19
 ## § 6081. Extension of time for filing returns
 **(a) General rule** The Secretary may grant a reasonable extension of time for filing any return, declaration, statement, or other document required by this title or by regulations. Except in the case of taxpayers who are abroad, no such extension shall be for more than 6 months.
 
-**(b) Automatic extension for corporation income tax returns** An extension of 3 months for the filing of the return of income taxes imposed by subtitle A shall be allowed any corporation if, in such manner and at such time as the Secretary may by regulations prescribe, there is filed on behalf of such corporation the form prescribed by the Secretary, and if such corporation pays, on or before the date prescribed for payment of the tax, the amount properly estimated as its tax; but this extension may be terminated at any time by the Secretary by mailing to the taxpayer notice of such termination at least 10 days prior to the date for termination fixed in such notice.
+**(b) Automatic extension for corporation income tax returns** An extension of 6 months for the filing of the return of income taxes imposed by subtitle A shall be allowed any corporation if, in such manner and at such time as the Secretary may by regulations prescribe, there is filed on behalf of such corporation the form prescribed by the Secretary, and if such corporation pays, on or before the date prescribed for payment of the tax, the amount properly estimated as its tax; but this extension may be terminated at any time by the Secretary by mailing to the taxpayer notice of such termination at least 10 days prior to the date for termination fixed in such notice. In the case of any return for a taxable year of a C corporation which ends on December 31 and begins before January 1, 2026, the first sentence of this subsection shall be applied by substituting “5 months” for “6 months”. In the case of any return for a taxable year of a C corporation which ends on June 30 and begins before January 1, 2026, the first sentence of this subsection shall be applied by substituting “7 months” for “6 months”.
 
 **(c) Cross references** For time for performing certain acts postponed by reason of war, see section 7508, and by reason of Presidentially declared disaster or terroristic or military action, see section 7508A.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (b). Pub. L. 114–41 substituted “6 months” for “3 months” in first sentence and inserted at end “In the case of any return for a taxable year of a C corporation which ends on December 31 and begins before January 1, 2026, the first sentence of this subsection shall be applied by substituting ‘5 months’ for ‘6 months’. In the case of any return for a taxable year of a C corporation which ends on June 30 and begins before January 1, 2026, the first sentence of this subsection shall be applied by substituting ‘7 months’ for ‘6 months’.”
+
 2002—Subsec. (c). Pub. L. 107–134 amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “For time for performing certain acts postponed by reason of war, see section 7508.”
 
 1982—Subsec. (b). Pub. L. 97–248 struck out “or the first installment thereof required under section 6152” after “the amount properly estimated as its tax”.
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
+#### Effective Date of 2015 Amendment
+Pub. L. 114–41, title II, § 2006(c)(2), July 31, 2015, 129 Stat. 459, provided that: “The amendments made by this subsection [amending this section] shall apply to returns for taxable years beginning after December 31, 2015.”
+
 #### Effective Date of 2002 Amendment
 Pub. L. 107–134, title I, § 112(f), Jan. 23, 2002, 115 Stat. 2435, provided that: “The amendments made by this section [enacting [section 1148 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1148&num=0&edition=prelim), Labor, and amending this section, sections 6161, 6404, 7508, and 7508A of this title, and [section 1302 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1302&num=0&edition=prelim)] shall apply to disasters and terroristic or military actions occurring on or after September 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after the date of the enactment of this Act [Jan. 23, 2002].”
 
 #### Effective Date of 1982 Amendment
 Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 234(e) of Pub. L. 97–248, set out as a note under [section 6655 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6655).
+
+#### Modification of Due Dates by Regulation
+Pub. L. 114–41, title II, § 2006(b), July 31, 2015, 129 Stat. 458, as amended by Pub. L. 114–94, div. C, title XXXII, § 32104(a), Dec. 4, 2015, 129 Stat. 1738, provided that: “In the case of returns for taxable years beginning after December 31, 2015, the Secretary of the Treasury, or the Secretary’s designee, shall modify appropriate regulations to provide as follows: “(1) The maximum extension for the returns of partnerships filing Form 1065 shall be a 6-month period ending on September 15 for calendar year taxpayers. “(2) The maximum extension for the returns of trusts filing Form 1041 shall be a 5½-month period ending on September 30 for calendar year taxpayers. “[(3) Repealed. Pub. L. 114–94, div. C, title XXXII, § 32104(a), Dec. 4, 2015, 129 Stat. 1738.] “(4) The maximum extension for the returns of organizations exempt from income tax filing Form 990 (series) shall be an automatic 6-month period ending on November 15 for calendar year filers. “(5) The maximum extension for the returns of organizations exempt from income tax that are required to file Form 4720 returns of excise taxes shall be an automatic 6-month period beginning on the due date for filing the return (without regard to any extensions). “(6) The maximum extension for the returns of trusts required to file Form 5227 shall be an automatic 6-month period beginning on the due date for filing the return (without regard to any extensions). “(7) The maximum extension for filing Form 6069, Return of Excise Tax on Excess Contributions to Black Lung Benefit Trust Under Section 4953 and Computation of Section 192 Deduction, shall be an automatic 6-month period beginning on the due date for filing the return (without regard to any extensions). “(8) The maximum extension for a taxpayer required to file Form 8870 shall be an automatic 6-month period beginning on the due date for filing the return (without regard to any extensions). “(9) The due date of Form 3520–A, Annual Information Return of a Foreign Trust with a United States Owner, shall be the 15th day of the 3d month after the close of the trust’s taxable year, and the maximum extension shall be a 6-month period beginning on such day. “(10) The due date of Form 3520, Annual Return to Report Transactions with Foreign Trusts and Receipt of Certain Foreign Gifts, for calendar year filers shall be April 15 with a maximum extension for a 6-month period ending on October 15. “(11) The due date of FinCEN Report 114 (relating to Report of Foreign Bank and Financial Accounts) shall be April 15 with a maximum extension for a 6-month period ending on October 15 and with provision for an extension under rules similar to the rules in Treas. Reg. section 1.6081–5. For any taxpayer required to file such Form for the first time, any penalty for failure to timely request for, or file, an extension, may be waived by the Secretary.”
+
+[Pub. L. 114–94, div. C, title XXXII, § 32104(b), Dec. 4, 2015, 129 Stat. 1738, provided that: “The amendment made by this section [amending section 2006(b) of Pub. L. 114–41, set out above] shall apply to returns for taxable years beginning after December 31, 2015.” ]
 
 
 <a id="section-6091"></a>
@@ -7030,7 +7156,7 @@ When not otherwise provided for by this title, the Secretary may by regulations 
 
 (1) no officer or employee of the United States,
 
-(2) no officer or employee of any State, any local law enforcement agency receiving information under subsection (i)(7)(A), any local child support enforcement agency, or any local agency administering a program listed in subsection (l)(7)(D) who has or had access to returns or return information under this section or section 6104(c), and
+(2) no officer or employee of any State, any local law enforcement agency receiving information under subsection (i)(1)(C) or (7)(A), any local child support enforcement agency, or any local agency administering a program listed in subsection (l)(7)(D) who has or had access to returns or return information under this section or section 6104(c), and
 
 (3) no other person (or officer or employee thereof) who has or had access to returns or return information under subsection (e)(1)(D)(iii), subsection (k)(10), paragraph (6), (10), (12), (16), (19), (20), or (21) of subsection (l), paragraph (2) or (4)(B) of subsection (m), or subsection (n),
 shall disclose any return or return information obtained by him in any manner in connection with his service as such an officer or an employee or otherwise or under the provisions of this section. For purposes of this subsection, the term “officer or employee” includes a former officer or employee.
@@ -7229,6 +7355,14 @@ shall disclose any return or return information obtained by him in any manner in
 
 (10) **Limitation on certain disclosures under this subsection** — In the case of an inspection or disclosure under this subsection relating to the return of a partnership, S corporation, trust, or an estate, the information inspected or disclosed shall not include any supporting schedule, attachment, or list which includes the taxpayer identity information of a person other than the entity making the return or the person conducting the inspection or to whom the disclosure is made.
 
+(11) **Disclosure of information regarding status of investigation of violation of this section** — In the case of a person who provides to the Secretary information indicating a violation of section 7213, 7213A, or 7214 with respect to any return or return information of such person, the Secretary may disclose to such person (or such person’s designee)—
+
+  (A) whether an investigation based on the person’s provision of such information has been initiated and whether it is open or closed,
+
+  (B) whether any such investigation substantiated such a violation by any individual, and
+
+  (C) whether any action has been taken with respect to such individual (including whether a referral has been made for prosecution of such individual).
+
 **(f) Disclosure to Committees of Congress**
 
 (1) **Committee on Ways and Means, Committee on Finance, and Joint Committee on Taxation** — Upon written request from the chairman of the Committee on Ways and Means of the House of Representatives, the chairman of the Committee on Finance of the Senate, or the chairman of the Joint Committee on Taxation, the Secretary shall furnish such committee with any return or return information specified in such request, except that any return or return information which can be associated with, or otherwise identify, directly or indirectly, a particular taxpayer shall be furnished to such committee only when sitting in closed executive session unless such taxpayer otherwise consents in writing to such disclosure.
@@ -7322,11 +7456,11 @@ shall disclose any return or return information obtained by him in any manner in
 
   (A) *In general* — Except as provided in paragraph (6), any return or return information with respect to any specified taxable period or periods shall, pursuant to and upon the grant of an ex parte order by a Federal district court judge or magistrate judge under subparagraph (B), be open (but only to the extent necessary as provided in such order) to inspection by, or disclosure to, officers and employees of any Federal agency who are personally and directly engaged in—
 
-    (i) preparation for any judicial or administrative proceeding pertaining to the enforcement of a specifically designated Federal criminal statute (not involving tax administration) to which the United States or such agency is or may be a party,
+    (i) preparation for any judicial or administrative proceeding pertaining to the enforcement of a specifically designated Federal criminal statute (not involving tax administration) to which the United States or such agency is or may be a party, or pertaining to the case of a missing or exploited child,
 
     (ii) any investigation which may result in such a proceeding, or
 
-    (iii) any Federal grand jury proceeding pertaining to enforcement of such a criminal statute to which the United States or such agency is or may be a party,
+    (iii) any Federal grand jury proceeding pertaining to enforcement of such a criminal statute to which the United States or such agency is or may be a party, or to such a case of a missing or exploited child,
 
   (B) *Application for order* — The Attorney General, the Deputy Attorney General, the Associate Attorney General, any Assistant Attorney General, any United States attorney, any special prosecutor appointed under [section 593 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section593&num=0&edition=prelim), United States Code, or any attorney in charge of a criminal division organized crime strike force established pursuant to [section 510 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section510&num=0&edition=prelim), United States Code, may authorize an application to a Federal district court judge or magistrate judge for the order referred to in subparagraph (A). Upon such application, such judge or magistrate judge may grant such order if he determines on the basis of the facts submitted by the applicant that—
 
@@ -7334,7 +7468,21 @@ shall disclose any return or return information obtained by him in any manner in
 
     (ii) there is reasonable cause to believe that the return or return information is or may be relevant to a matter relating to the commission of such act, and
 
-    (iii) the return or return information is sought exclusively for use in a Federal criminal investigation or proceeding concerning such act, and the information sought to be disclosed cannot reasonably be obtained, under the circumstances, from another source.
+    (iii) the return or return information is sought exclusively for use in a Federal criminal investigation or proceeding concerning such act (or any criminal investigation or proceeding, in the case of a matter relating to a missing or exploited child), and the information sought to be disclosed cannot reasonably be obtained, under the circumstances, from another source.
+
+  (C) *Disclosure to state and local law enforcement agencies in the case of matters pertaining to a missing or exploited child*
+
+    (i) *In general* — In the case of an investigation pertaining to a missing or exploited child, the head of any Federal agency, or his designee, may disclose any return or return information obtained under subparagraph (A) to officers and employees of any State or local law enforcement agency, but only if—
+
+      (I) such State or local law enforcement agency is part of a team with the Federal agency in such investigation, and
+
+      (II) such information is disclosed only to such officers and employees who are personally and directly engaged in such investigation.
+
+    (ii) *Limitation on use of information* — Information disclosed under this subparagraph shall be solely for the use of such officers and employees in locating the missing child, in a grand jury proceeding, or in any preparation for, or investigation which may result in, a judicial or administrative proceeding.
+
+    (iii) *Missing child* — For purposes of this subparagraph, the term “missing child” shall have the meaning given such term by section 403 of the Missing Children’s Assistance Act ([42 U.S.C. 5772](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5772&num=0&edition=prelim)).
+
+    (iv) *Exploited child* — For purposes of this subparagraph, the term “exploited child” means a minor with respect to whom there is reason to believe that a specified offense against a minor (as defined by section 111(7) of the Sex Offender Registration and Notification Act ([42 U.S.C. 16911(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16911/7&num=0&edition=prelim))) has or is occurring.
 
 (2) **Disclosure of return information other than taxpayer return information for use in criminal investigations**
 
@@ -7575,6 +7723,18 @@ shall disclose any return or return information obtained by him in any manner in
     (i) *Restrictions on redisclosure* — Except as provided in clause (ii), any officer, employee, or contractor of the Federal Bureau of Prisons or of any State agency charged with the responsibility for administration of prisons shall not disclose any information obtained under this paragraph to any person other than an officer or employee or contractor of such Bureau or agency personally and directly engaged in the administration of prison facilities on behalf of such Bureau or agency.
 
     (ii) *Disclosure to legal representatives* — The returns and return information disclosed under this paragraph may be disclosed to the duly authorized legal representative of the Federal Bureau of Prisons, State agency, or contractor charged with the responsibility for administration of prisons, or of the incarcerated individual accused of filing the false or fraudulent return who is a party to an action or proceeding described in subparagraph (C), solely in preparation for, or for use in, such action or proceeding.
+
+(11) **Disclosure of return information to Department of State for purposes of passport revocation under section 7345**
+
+  (A) *In general* — The Secretary shall, upon receiving a certification described in section 7345, disclose to the Secretary of State return information with respect to a taxpayer who has a seriously delinquent tax debt described in such section. Such return information shall be limited to—
+
+    (i) the taxpayer identity information with respect to such taxpayer, and
+
+    (ii) the amount of such seriously delinquent tax debt.
+
+  (B) *Restriction on disclosure* — Return information disclosed under subparagraph (A) may be used by officers and employees of the Department of State for the purposes of, and to the extent necessary in, carrying out the requirements of section 32101 of the FAST Act.
+
+(12) **Qualified tax collection contractors** — Persons providing services pursuant to a qualified tax collection contract under section 6306 may, if speaking to a person who has identified himself or herself as having the name of the taxpayer to which a tax receivable (within the meaning of such section) relates, identify themselves as contractors of the Internal Revenue Service and disclose the business name of the contractor, and the nature, subject, and reason for the contact. Disclosures under this paragraph shall be made only in such situations and under such conditions as have been approved by the Secretary.
 
 **(l) Disclosure of returns and return information for purposes other than tax administration**
 
@@ -7975,7 +8135,7 @@ shall disclose any return or return information obtained by him in any manner in
 
     (ii) describes the general purposes for which such requests were made,77 So in original. The comma probably should be a period.
 
-(4) **Safeguards** — Any Federal agency described in subsection (h)(2), (h)(5), (i)(1), (2), (3), (5), or (7), (j)(1), (2), or (5), (k)(8) or (10), (l)(1), (2), (3), (5), (10), (11), (13), (14), (17), or (22) or (o)(1)(A), the Government Accountability Office, the Congressional Budget Office, or any agency, body, or commission described in subsection (d), (i)(3)(B)(i) or 7(A)(ii), 88 So in original. Probably should be “(7)(A)(ii),”. or (k)(10), (l)(6), (7), (8), (9), (12), (15), or (16), any appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10), subsection (l)(10), (16), (18), (19), or (20), or any entity described in subsection (l)(21), shall, as a condition for receiving returns or return information—
+(4) **Safeguards** — Any Federal agency described in subsection (h)(2), (h)(5), (i)(1), (2), (3), (5), or (7), (j)(1), (2), or (5), (k)(8), (10), or (11), (l)(1), (2), (3), (5), (10), (11), (13), (14), (17), or (22) or (o)(1)(A), the Government Accountability Office, the Congressional Budget Office, or any agency, body, or commission described in subsection (d), (i)(1)(C), (3)(B)(i), or 7(A)(ii),88 So in original. Probably should be “(7)(A)(ii),”. or (k)(10), (l)(6), (7), (8), (9), (12), (15), or (16), any appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10), subsection (l)(10), (16), (18), (19), or (20), or any entity described in subsection (l)(21), shall, as a condition for receiving returns or return information—
 
   (A) establish and maintain, to the satisfaction of the Secretary, a permanent system of standardized records with respect to any request, the reason for such request, and the date of such request made by or of it and any disclosure of return or return information made by or to it;
 
@@ -7991,7 +8151,7 @@ shall disclose any return or return information obtained by him in any manner in
 
     (i) in the case of an agency, body, or commission described in subsection (d), (i)(3)(B)(i), (k)(10), or (l)(6), (7), (8), (9), or (16), any appropriate State officer (as defined in section 6104(c)), or any other person described in subsection (k)(10) or subsection (l)(10), (16), (18), (19), or (20) return to the Secretary such returns or return information (along with any copies made therefrom) or make such returns or return information undisclosable in any manner and furnish a written report to the Secretary describing such manner,
 
-    (ii) in the case of an agency described in subsections 6 (h)(2), (h)(5), (i)(1), (2), (3), (5) or (7), (j)(1), (2), or (5), (k)(8) or (10), (l)(1), (2), (3), (5), (10), (11), (12), (13), (14), (15), (17), or (22), or (o)(1)(A) or any entity described in subsection (l)(21),,,99 So in original. the Government Accountability Office, or the Congressional Budget Office, either—
+    (ii) in the case of an agency described in subsections 6 (h)(2), (h)(5), (i)(1), (2), (3), (5) or (7), (j)(1), (2), or (5), (k)(8), (10), or (11), (l)(1), (2), (3), (5), (10), (11), (12), (13), (14), (15), (17), or (22), or (o)(1)(A) or any entity described in subsection (l)(21),,,99 So in original. the Government Accountability Office, or the Congressional Budget Office, either—
 
       (I) return to the Secretary such returns or return information (along with any copies made therefrom),
 
@@ -8034,23 +8194,25 @@ The District of Columbia Retirement Protection Act of 1997, referred to in subse
 
 The Census of Agriculture Act of 1997, referred to in subsec. (j)(5), is Pub. L. 105–113, Nov. 21, 1997, 111 Stat. 2274, which enacted [section 2204g of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2204g&num=0&edition=prelim), Agriculture, amended sections 1991 and 2276 of Title 7 and [section 9 of Title 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section9&num=0&edition=prelim), Census, repealed [section 142 of Title 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section142&num=0&edition=prelim), and enacted provisions set out as a note under [section 1991 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1991&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under [section 2201 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2201&num=0&edition=prelim) and Tables.
 
+Section 32101 of the FAST Act, referred to in subsec. (k)(11)(B), is section 32101 of Pub. L. 114–94, which enacted [section 7345 of this title](./chapter-075-crimes-other-offenses-and-forfeitures.md#section-7345) and [section 2714a of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2714a&num=0&edition=prelim), Foreign Relations and Intercourse, and amended this section and sections 6320, 6331, and 7508 of this title.
+
 The Social Security Act, referred to in subsecs. (l)(1)(A), (B), (5), (6)(A)(i), (7), (8)(B), (12)(C)(ii)(I), (E)(i), (19)(A), (C), (20)(A), (B)(i), (21)(A), (22)(A), (B), (m)(6), (7), and (p)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Parts A and D of title IV and parts A and B of title XVIII of the Act are classified generally to parts A (§ 601 et seq.) and D (§ 651 et seq.) of subchapter IV and parts A (§ 1395c et seq.) and B (§ 1395j et seq.) of subchapter XVIII, respectively, of chapter 7 of Title 42. Titles I, X, XIV, XVI, XVIII, XIX, and XXI of the Act are classified generally to subchapters I (§ 301 et seq.), X (§ 1201 et seq.), XIV (§ 1351 et seq.), XVI (§ 1381 et seq.), XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42. Sections 232, 454, 1106, 1131, 1141, 1143, 1616, 1818, 1839, 1860D–13, 1860D–14, 1860D–31, 1862, and 1866 of the Act are classified to sections 432, 654, 1306, 1320b–1, 1320b–11, 1320b–13, 1382e, 1395i–2, 1395r, 1395w–113, 1395w–114, 1395w–141, 1395y, and 1395cc, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 The Railroad Retirement Act, referred to in subsec. (l)(1)(C), probably means the Railroad Retirement Act of 1974, which is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, and is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim), [section 231t of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231t&num=0&edition=prelim), and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (l)(2), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Titles I and IV of the Employee Retirement Income Security Act of 1974 are classified generally to subchapters I (§ 1001 et seq.) and IV (§ 1301 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (l)(2), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Titles I and IV of the Employee Retirement Income Security Act of 1974 are classified generally to subchapters I (§ 1001 et seq.) and IV (§ 1301 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 Section 212(a) of Pub. L. 93–66, referred to in subsec. (l)(7)(D)(iii), (vii), is set out as a note under [section 1382 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382&num=0&edition=prelim), The Public Health and Welfare.
 
 The Food and Nutrition Act of 2008, referred to in subsec. (l)(7)(D)(vi), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) and Tables.
 
-The Higher Education Act of 1965, referred to in subsecs. (l)(13)(C) and (m)(4)(A)(i), (ii)(I), (B)(i), (ii), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Subpart 1 of part A of title IV of the Act is classified generally to subpart 1 (§ 1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20, Education. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), C (§ 1087a et seq.), and D (§ 1087aa et seq.) of subchapter IV of chapter 28 of Title 20, respectively. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (l)(13)(C) and (m)(4)(A)(i), (ii)(I), (B)(i), (ii), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Subpart 1 of part A of title IV of the Act is classified generally to subpart 1 (§ 1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20, Education. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 The Patient Protection and Affordable Care Act, referred to in subsec. (l)(21)(A), (B), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Sections 1331 and 1402 of the Act are classified to sections 18051 and 18071, respectively, of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 18001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18001&num=0&edition=prelim) and Tables.
 
 Section 3(a)(1) of the Migration and Refugee Assistance Act of 1962, referred to in subsec. (m)(4)(A)(ii)(II), is classified to [section 2602(a)(1) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2602/a/1&num=0&edition=prelim), Foreign Relations and Intercourse.
 
-The Public Health Service Act, referred to in subsec. (m)(5), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part C and subparts I and II of part C of title VII of the Act were classified generally to part C (§ 294 et seq.) and subparts I (§ 294 et seq.) and II (§ 294m et seq.), respectively, of part C of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, and were omitted in the general revision of subchapter V of chapter 6A by Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new part C, relating to training in primary health care, which is classified to part C (§ 293j et seq.) of subchapter V of chapter 6A of Title 42. See subparts I (§ 292 et seq.) and II (§ 292q et seq.), respectively, of part A of revised subchapter V of chapter 6A of Title 42. Subpart II of part B of title VIII of such Act was redesignated part E of title VIII of such Act by Pub. L. 105–392, title I, § 123(2), Nov. 13, 1998, 112 Stat. 3562, and is classified generally to part E (§ 297a et seq.) of subchapter VI of chapter 6A of Title 42. Section 737 of the Act was classified to [section 294j of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section294j&num=0&edition=prelim) and was omitted in the general revision of subchapter V by Pub. L. 102–408. Pub. L. 102–408 enacted a new section 737 of act July 1, 1944, relating to scholarships, which is classified to [section 293a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section293a&num=0&edition=prelim). See section 292o(2) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+The Public Health Service Act, referred to in subsec. (m)(5), is act July 1, 1944, ch. 373, 58 Stat. 682. Part C and subparts I and II of part C of title VII of the Act were classified generally to part C (§ 294 et seq.) and subparts I (§ 294 et seq.) and II (§ 294m et seq.), respectively, of part C of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, and were omitted in the general revision of subchapter V of chapter 6A by Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new part C, relating to training in primary health care, which is classified to part C (§ 293j et seq.) of subchapter V of chapter 6A of Title 42. See subparts I (§ 292 et seq.) and II (§ 292q et seq.), respectively, of part A of revised subchapter V of chapter 6A of Title 42. Subpart II of part B of title VIII of such Act was redesignated part E of title VIII of such Act by Pub. L. 105–392, title I, § 123(2), Nov. 13, 1998, 112 Stat. 3562, and is classified generally to part E (§ 297a et seq.) of subchapter VI of chapter 6A of Title 42. Section 737 of the Act was classified to [section 294j of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section294j&num=0&edition=prelim) and was omitted in the general revision of subchapter V by Pub. L. 102–408. Pub. L. 102–408 enacted a new section 737 of act July 1, 1944, relating to scholarships, which is classified to [section 293a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section293a&num=0&edition=prelim). See section 292o(2) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 The American Jobs Creation Act of 2004, referred to in subsec. (o)(1)(B), is Pub. L. 108–357, Oct. 22, 2004, 118 Stat. 1418. Section 625 of the Act is classified to [section 518d of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section518d&num=0&edition=prelim), Agriculture. For complete classification of this Act to the Code, see Short Title of 2004 Amendments note set out under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) and Tables.
 
@@ -8060,6 +8222,26 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section 1224(b)(1) to (3) of Pub. L. 109–280, which directed the amendment of section 6103 without specifying the act to be amended, was executed to this section, which is section 6103 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2016—Subsec. (a)(2). Pub. L. 114–184, § 2(b)(2)(A), substituted “subsection (i)(1)(C) or (7)(A)” for “subsection (i)(7)(A)”.
+
+Subsec. (i)(1)(A)(i). Pub. L. 114–184, § 2(a)(1), inserted “or pertaining to the case of a missing or exploited child,” after “may be a party,”.
+
+Subsec. (i)(1)(A)(iii). Pub. L. 114–184, § 2(a)(2), inserted “or to such a case of a missing or exploited child,” after “may be a party,”.
+
+Subsec. (i)(1)(B)(iii). Pub. L. 114–184, § 2(a)(3), inserted “(or any criminal investigation or proceeding, in the case of a matter relating to a missing or exploited child)” after “concerning such act”.
+
+Subsec. (i)(1)(C). Pub. L. 114–184, § 2(b)(1), added subpar. (C).
+
+Subsec. (p)(4). Pub. L. 114–184, § 2(b)(2)(B), substituted “(i)(1)(C), (3)(B)(i),” for “(i)(3)(B)(i)” in introductory provisions.
+
+2015—Subsec. (e)(11). Pub. L. 114–113 added par. (11).
+
+Subsec. (k)(11). Pub. L. 114–94, § 32101(c)(1), added par. (11).
+
+Subsec. (k)(12). Pub. L. 114–94, § 32102(d), added par. (12).
+
+Subsec. (p)(4). Pub. L. 114–94, § 32101(c)(2), substituted “, (10), or (11)” for “or (10)” in introductory provisions and in subpar. (F)(ii).
+
 2013—Subsec. (a)(3). Pub. L. 112–240, § 209(b)(1), inserted “subsection (k)(10),” after “subsection (e)(1)(D)(iii),”.
 
 Subsec. (k)(10). Pub. L. 112–240, § 209(a), amended par. (10) generally. Prior to amendment, par. (10) related to disclosure of certain return information to certain prison officials.
@@ -8739,6 +8921,14 @@ Subsec. (g). Pub. L. 94–202 added subsec. (g) relating to disclosure of inform
 #### Change of Name
 Words “magistrate judge” substituted for “magistrate” wherever appearing in subsec. (i) pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
+#### Effective Date of 2016 Amendment
+Pub. L. 114–184, § 2(c), June 30, 2016, 130 Stat. 537, provided that: “The amendments made by this section [amending this section and [section 7213 of this title](./chapter-075-crimes-other-offenses-and-forfeitures.md#section-7213)] shall apply to disclosures made after the date of the enactment of this Act [June 30, 2016].”
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title IV, § 403(b), Dec. 18, 2015, 129 Stat. 3118, provided that: “The amendment made by this section [amending this section] shall apply to disclosures made on or after the date of the enactment of this Act [Dec. 18, 2015].”
+
+Pub. L. 114–94, div. C, title XXXII, § 32102(g)(3), Dec. 4, 2015, 129 Stat. 1736, provided that: “The amendment made by subsection (d) [amending this section] shall apply to disclosures made after the date of the enactment of this Act [Dec. 4, 2015].”
+
 #### Effective Date of 2013 Amendment
 Pub. L. 112–240, title II, § 209(c), Jan. 2, 2013, 126 Stat. 2326, provided that: “The amendments made by this section [amending this section and [section 7213 of this title](./chapter-075-crimes-other-offenses-and-forfeitures.md#section-7213)] shall take effect on the date of the enactment of this Act [Jan. 2, 2013].”
 
@@ -8976,7 +9166,7 @@ Nothing in amendment by Pub. L. 107–210, other than provisions relating to COB
 #### Transfer of Functions
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Annual Report Regarding Advance Pricing Agreements
 Pub. L. 106–170, title V, § 521(b), Dec. 17, 1999, 113 Stat. 1925, provided that: “(1) In general.—Not later than 90 days after the end of each calendar year, the Secretary of the Treasury shall prepare and publish a report regarding advance pricing agreements. “(2) Contents of report.—The report shall include the following for the calendar year to which such report relates:“(A) Information about the structure, composition, and operation of the advance pricing agreement program office. “(B) A copy of each model advance pricing agreement. “(C) The number of—“(i) applications filed during such calendar year for advance pricing agreements; “(ii) advance pricing agreements executed cumulatively to date and during such calendar year; “(iii) renewals of advance pricing agreements issued; “(iv) pending requests for advance pricing agreements; “(v) pending renewals of advance pricing agreements; “(vi) for each of the items in clauses (ii) through (v), the number that are unilateral, bilateral, and multilateral, respectively; “(vii) advance pricing agreements revoked or canceled, and the number of withdrawals from the advance pricing agreement program; and “(viii) advance pricing agreements finalized or renewed by industry. “(D) General descriptions of—“(i) the nature of the relationships between the related organizations, trades, or businesses covered by advance pricing agreements; “(ii) the covered transactions and the business functions performed and risks assumed by such organizations, trades, or businesses; “(iii) the related organizations, trades, or businesses whose prices or results are tested to determine compliance with transfer pricing methodologies prescribed in advance pricing agreements; “(iv) methodologies used to evaluate tested parties and transactions and the circumstances leading to the use of those methodologies; “(v) critical assumptions made and sources of comparables used; “(vi) comparable selection criteria and the rationale used in determining such criteria; “(vii) the nature of adjustments to comparables or tested parties; “(viii) the nature of any ranges agreed to, including information regarding when no range was used and why, when interquartile ranges were used, and when there was a statistical narrowing of the comparables; “(ix) adjustment mechanisms provided to rectify results that fall outside of the agreed upon advance pricing agreement range; “(x) the various term lengths for advance pricing agreements, including rollback years, and the number of advance pricing agreements with each such term length; “(xi) the nature of documentation required; and “(xii) approaches for sharing of currency or other risks. “(E) Statistics regarding the amount of time taken to complete new and renewal advance pricing agreements. “(F) A detailed description of the Secretary of the Treasury’s efforts to ensure compliance with existing advance pricing agreements. “(3) Confidentiality.—The reports required by this subsection shall be treated as authorized by the Internal Revenue Code of 1986 for purposes of section 6103 of such Code, but the reports shall not include information—“(A) which would not be permitted to be disclosed under section 6110(c) of such Code if such report were a written determination as defined in section 6110 of such Code; or “(B) which can be associated with, or otherwise identify, directly or indirectly, a particular taxpayer. “(4) First report.—The report for calendar year 1999 shall include prior calendar years after 1990.”
@@ -9608,6 +9798,50 @@ For purposes of paragraphs (1), (2), and (3), the identifying number of an indiv
 
 (4) **Seller-provided financing** — For purposes of this subsection, the term “seller-provided financing” means any indebtedness incurred in acquiring any residence if the person to whom such indebtedness is owed is the person from whom such residence was acquired.
 
+**(i) Special rules relating to the issuance of ITINs**
+
+(1) **In general** — The Secretary is authorized to issue an individual taxpayer identification number to an individual only if the applicant submits an application, using such form as the Secretary may require and including the required documentation—
+
+  (A) in the case of an applicant not described in subparagraph (B)—
+
+    (i) in person to an employee of the Internal Revenue Service or a community-based certified acceptance agent approved by the Secretary, or
+
+    (ii) by mail, pursuant to rules prescribed by the Secretary, or
+
+  (B) in the case of an applicant who resides outside of the United States, by mail or in person to an employee of the Internal Revenue Service or a designee of the Secretary at a United States diplomatic mission or consular post.
+
+(2) **Required documentation** — For purposes of this subsection—
+
+  (A) *In general* — The term “required documentation” includes such documentation as the Secretary may require that proves the individual’s identity, foreign status, and residency.
+
+  (B) *Validity of documents* — The Secretary may accept only original documents or certified copies meeting the requirements of the Secretary.
+
+(3) **Term of ITIN**
+
+  (A) *In general* — An individual taxpayer identification number issued after December 31, 2012, shall remain in effect unless the individual to whom such number is issued does not file a return of tax (or is not included as a dependent on the return of tax of another taxpayer) for 3 consecutive taxable years. In the case of an individual described in the preceding sentence, such number shall expire on the last day of such third consecutive taxable year.
+
+  (B) *Special rule for existing ITINs* — In the case of an individual with respect to whom an individual taxpayer identification number was issued before January 1, 2013, such number shall remain in effect until the earlier of—
+
+    (i) the applicable date, or
+
+    (ii) if the individual does not file a return of tax (or is not included as a dependent on the return of tax of another taxpayer) for 3 consecutive taxable years, the earlier of—
+
+      (I) the last day of such third consecutive taxable year, or
+
+      (II) the last day of the taxable year that includes the date of the enactment of this subsection.
+
+  (C) *Applicable date* — For purposes of subparagraph (B), the term “applicable date” means—
+
+    (i) January 1, 2017, in the case of an individual taxpayer identification number issued before January 1, 2008,
+
+    (ii) January 1, 2018, in the case of an individual taxpayer identification number issued in 2008,
+
+    (iii) January 1, 2019, in the case of an individual taxpayer identification number issued in 2009 or 2010, and
+
+    (iv) January 1, 2020, in the case of an individual taxpayer identification number issued in 2011 or 2012.
+
+(4) **Distinguishing ITINs issued solely for purposes of treaty benefits** — The Secretary shall implement a system that ensures that individual taxpayer identification numbers issued solely for purposes of claiming tax treaty benefits are used only for such purposes, by distinguishing such numbers from other individual taxpayer identification numbers issued.
+
 ### Statutory Notes
 
 #### References in Text
@@ -9617,6 +9851,8 @@ The Food and Nutrition Act of 2008, referred to in subsec. (f), is Pub. L. 88–
 
 The Federal Crop Insurance Act, referred to in subsec. (g), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of Title 7, Agriculture. Section 506 of the Act is classified to [section 1506 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1506&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1501 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1501&num=0&edition=prelim) and Tables.
 
+The date of the enactment of this subsection, referred to in subsec. (i)(3)(B)(ii)(II), is the date of enactment of Pub. L. 114–113, which was approved Dec. 18, 2015.
+
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
@@ -9624,6 +9860,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 6109 was renumbered [section 6116 of this title](./chapter-061-information-and-returns.md#section-6116).
 
 #### Amendments
+2015—Subsec. (i). Pub. L. 114–113 added subsec. (i).
+
 2008—Subsec. (f). Pub. L. 110–246, § 4002(b)(1)(G), (2)(O), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act” in heading.
 
 Subsec. (f)(1), (2)(A). Pub. L. 110–246, § 4002(b)(1)(B), (2)(O), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
@@ -9672,6 +9910,9 @@ Subsec. (e)(2). Pub. L. 100–485, § 704(a), substituted “age of 2” for “
 
 Subsec. (d). Pub. L. 94–455, § 1211(c), added subsec. (d).
 
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title II, § 203(f), Dec. 18, 2015, 129 Stat. 3081, provided that: “The amendments made by this section [amending this section and [section 6213 of this title](./chapter-063-assessment.md#section-6213)] shall apply to applications for individual taxpayer identification numbers made after the date of the enactment of this Act [Dec. 18, 2015].”
+
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
@@ -9707,6 +9948,15 @@ Pub. L. 99–514, title XV, § 1524(c), Oct. 22, 1986, 100 Stat. 2749, provided 
 
 #### Effective Date
 Pub. L. 87–397, § 1(d), Oct. 5, 1961, 75 Stat. 829, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Paragraph (1) of section 6109(a) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], as added by subsection (a) of this section, shall apply only in respect of returns, statements, and other documents relating to periods commencing after December 31, 1961. Paragraphs (2) and (3) of such section 6109(a) shall apply only in respect of returns, statements, or other documents relating to periods commencing after December 31, 1962.”
+
+#### Audit by TIGTA
+Pub. L. 114–113, div. Q, title II, § 203(b), Dec. 18, 2015, 129 Stat. 3079, provided that: “Not later than 2 years after the date of the enactment of this Act [Dec. 18, 2015], and every 2 years thereafter, the Treasury Inspector General for Tax Administration shall conduct an audit of the program of the Internal Revenue Service for the issuance of individual taxpayer identification numbers pursuant to section 6109(i) of the Internal Revenue Code of 1986 (as added by this section) and report the results of such audit to the Committee on Finance of the Senate and the Committee on the [sic] Ways and Means of the House of Representatives.”
+
+#### Community-Based Certified Acceptance Agents
+Pub. L. 114–113, div. Q, title II, § 203(c), Dec. 18, 2015, 129 Stat. 3079, provided that: “The Secretary of the Treasury, or the Secretary’s delegate, shall maintain a program for training and approving community-based certified acceptance agents for purposes of section 6109(i)(1)(A)(i) of the Internal Revenue Code of 1986 (as added by this section). Persons eligible to be acceptance agents under such program include— “(1) financial institutions (as defined in section 265(b)(5) of such Code and the regulations thereunder), “(2) colleges and universities which are described in section 501(c)(3) of such Code and exempt from taxation under section 501(a) of such Code, “(3) Federal agencies (as defined in section 6402(h) of such Code), “(4) State and local governments, including agencies responsible for vital records, “(5) community-based organizations which are described in subsection (c)(3) or (d) of section 501 of such Code and exempt from taxation under section 501(a) of such Code, “(6) persons that provide assistance to taxpayers in the preparation of their tax returns, and “(7) other persons or categories of persons as authorized by regulations or other guidance of the Secretary of the Treasury.”
+
+#### ITIN Study
+Pub. L. 114–113, div. Q, title II, § 203(d), Dec. 18, 2015, 129 Stat. 3079, provided that: “(1) In general.—The Secretary of the Treasury, or the Secretary’s delegate, shall conduct a study on the effectiveness of the application process for individual taxpayer identification numbers before the implementation of the amendments made by this section [amending this section and [section 6213 of this title](./chapter-063-assessment.md#section-6213)], the effects of the amendments made by this section on such application process, the comparative effectiveness of an in-person review process for application versus other methods of reducing fraud in the ITIN program and improper payments to ITIN holders as a result, and possible administrative and legislative recommendations to improve such process. “(2) Specific requirements.—Such study shall include an evaluation of the following:“(A) Possible administrative and legislative recommendations to reduce fraud and improper payments through the use of individual taxpayer identification numbers (hereinafter referred to as ‘ITINs’). “(B) If data supports an in-person initial review of ITIN applications to reduce fraud and improper payments, the administrative and legislative steps needed to implement such an in-person initial review of ITIN applications, in conjunction with an expansion of the community-based certified acceptance agent program under subsection (c) [set out as a note above], with a goal of transitioning to such a program by 2020. “(C) Strategies for more efficient processing of ITIN applications. “(D) The acceptance agent program as in existence on the date of the enactment of this Act [Dec. 18, 2015] and ways to expand the geographic availability of agents through the community-based certified acceptance agent program under subsection (c). “(E) Strategies for the Internal Revenue Service to work with other Federal agencies, State and local governments, and other organizations and persons described in subsection (c) to encourage participation in the community-based certified acceptance agent program under subsection (c) to facilitate in-person initial review of ITIN applications. “(F) Typical characteristics (derived from Form W–7 and other sources) of mail applications for ITINs as compared with typical characteristics of in-person applications. “(G) Typical characteristics (derived from 17 [sic] Form W–7 and other sources) of ITIN applications before the Internal Revenue Service revised its application procedures in 2012 as compared with typical characteristics of ITIN applications made after such revisions went into effect. “(3) Report.—The Secretary, or the Secretary’s delegate, shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report detailing the study under paragraph (1) and its findings not later than 1 year after the date of the enactment of this Act [Dec. 18, 2015]. “(4) Administrative steps.—The Secretary of the Treasury shall implement any administrative steps identified by the report under paragraph (3) not later than 180 days after submitting such report.”
 
 
 <a id="section-6110"></a>

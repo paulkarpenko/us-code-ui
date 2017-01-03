@@ -18,7 +18,7 @@ source: >-
 Provisions similar to those in this section were contained in sections 3221, 3224, 5413, 5456, 8221, and 8224 of this title, prior to repeal by Pub. L. 103–337, § 1662(a)(3).
 
 #### Effective Date
-Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -109,7 +109,7 @@ Pub. L. 102–484, div. A, title V, § 518, Oct. 23, 1992, 106 Stat. 2407, as am
 #### Program for Active Component Support of Reserves
 Pub. L. 108–375, div. A, title V, § 515(b)–(d), Oct. 28, 2004, 118 Stat. 1883, 1884, prohibited the Secretary of the Army from reducing the number of active component Reserve support personnel below the number of such personnel as of Oct. 28, 2004, until the Secretary of the Army submitted to the Committees on Armed Services of the Senate and House of Representatives, not later than Mar. 31, 2005, a report on the support by active components of the Army for training and readiness of the Army National Guard and Army Reserve.
 
-Pub. L. 103–160, div. A, title V, § 517(b), Nov. 30, 1993, 107 Stat. 1651, provided that: “(1) The Secretary of the Army shall include in the annual report of the Secretary to Congress known as the Army Posture Statement a presentation relating to the implementation of the Pilot Program for Active Component Support of the Reserves under section 414 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; [10 U.S.C. 261](./chapter-011-reserve-components.md#section-261) note [now set out below]), as amended by subsection (a). “(2) Each such presentation shall include, with respect to the period covered by the report, the following information:“(A) The promotion rate for officers considered for promotion from within the promotion zone who are serving as active component advisers to units of the Selected Reserve of the Ready Reserve (in accordance with that program) compared with the promotion rate for other officers considered for promotion from within the promotion zone in the same pay grade and the same competitive category, shown for all officers of the Army. “(B) The promotion rate for officers considered for promotion from below the promotion zone who are serving as active component advisers to units of the Selected Reserve of the Ready Reserve (in accordance with that program) compared in the same manner as specified in subparagraph (A).”
+Pub. L. 103–160, div. A, title V, § 517(b), Nov. 30, 1993, 107 Stat. 1651, provided that: “(1) The Secretary of the Army shall include in the annual report of the Secretary to Congress known as the Army Posture Statement a presentation relating to the implementation of the Pilot Program for Active Component Support of the Reserves under section 414 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; [former] [10 U.S.C. 261](./chapter-014-arming-of-american-vessels.md#section-261) note [now set out below]), as amended by subsection (a). “(2) Each such presentation shall include, with respect to the period covered by the report, the following information:“(A) The promotion rate for officers considered for promotion from within the promotion zone who are serving as active component advisers to units of the Selected Reserve of the Ready Reserve (in accordance with that program) compared with the promotion rate for other officers considered for promotion from within the promotion zone in the same pay grade and the same competitive category, shown for all officers of the Army. “(B) The promotion rate for officers considered for promotion from below the promotion zone who are serving as active component advisers to units of the Selected Reserve of the Ready Reserve (in accordance with that program) compared in the same manner as specified in subparagraph (A).”
 
 Pub. L. 102–190, div. A, title IV, § 414(a)–(d), Dec. 5, 1991, 105 Stat. 1352, 1353, as amended by Pub. L. 102–484, div. A, title V, § 511(b), title XI, § 1132, Oct. 23, 1992, 106 Stat. 2405, 2541; Pub. L. 103–160, div. A, title V, § 517(a), Nov. 30, 1993, 107 Stat. 1650; Pub. L. 103–337, div. A, title IV, § 413, Oct. 5, 1994, 108 Stat. 2747; Pub. L. 104–106, div. A, title IV, § 413, Feb. 10, 1996, 110 Stat. 288; Pub. L. 104–201, div. A, title V, § 545(b), Sept. 23, 1996, 110 Stat. 2524; Pub. L. 106–65, div. A, title X, § 1066(d)(2), Oct. 5, 1999, 113 Stat. 773; Pub. L. 108–375, div. A, title V, § 515(a), Oct. 28, 2004, 118 Stat. 1883, provided that: “(a) Program Required.—The Secretary of the Army shall carry out a program to provide active component advisers to combat units, combat support units, and combat service support units in the Selected Reserve of the Ready Reserve that have a high priority for deployment on a time-phased troop deployment list or have another contingent high priority for deployment. The advisers shall be assigned to full-time duty in connection with organizing, administering, recruiting, instructing, or training such units. “(b) Objectives of Program.—The objectives of the program are as follows:“(1) To improve the readiness of units in the reserve components of the Army. “(2) To increase substantially the number of active component personnel directly advising reserve component unit personnel. “(3) To provide a basis for determining the most effective mix of reserve component personnel and active component personnel in organizing, administering, recruiting, instructing, or training reserve component units. “(4) To provide a basis for determining the most effective mix of active component officer and enlisted personnel in advising reserve component units regarding organizing, administering, recruiting, instructing, or training reserve component units. “(c) Personnel To Be Assigned.—(1) The Secretary shall assign not less than 3,500 active component personnel to serve as advisers under the program. “(2) The Secretary of Defense may count toward the number of active component personnel required under paragraph (1) to be assigned to serve as advisers under the program under this section any active component personnel who are assigned to an active component unit (A) that was established principally for the purpose of providing dedicated training support to reserve component units, and (B) the primary mission of which is to provide such dedicated training support. “(d) Action on the Basis of Program Results.—Based on the experience under the pilot program, the Secretary of the Army shall by April 1, 1993, submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the Secretary’s evaluation of the program to that date. As part of the budget submission for fiscal year 1995, the Secretary shall submit any recommendations for expansion or modification of the program, together with a proposal for any statutory changes that the Secretary considers necessary to implement the program on a permanent basis. In no case may the number of active duty personnel assigned to the program decrease below the number specified for the pilot program.”
 
@@ -128,6 +128,9 @@ Pub. L. 98–525, title V, § 552(a)–(e), (g), Oct. 19, 1984, 98 Stat. 2530, a
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 3222, 3225, 8222, and 8225 of this title, prior to repeal by Pub. L. 103–337, § 1662(a)(3).
 
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-12003"></a>
 ## § 12003. Authorized strengths: commissioned officers in an active status
@@ -143,6 +146,9 @@ Provisions similar to those in this section were contained in sections 3222, 322
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 3217, 5414, and 8217 of this title, prior to repeal by Pub. L. 103–337, § 1662(a)(3).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-12004"></a>
@@ -214,6 +220,9 @@ Subsec. (c)(4). Pub. L. 105–261, § 415(2), added par. (4).
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
 
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-12005"></a>
 ## § 12005. Strength in grade: commissioned officers in grades below brigadier general or rear admiral (lower half) in an active status
@@ -257,6 +266,9 @@ Subsec. (d)(2). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Re
 
 2000—Subsec. (a)(3). Pub. L. 106–398 added par. (3).
 
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-12006"></a>
 ## § 12006. Strength limitations: authority to waive in time of war or national emergency
@@ -268,6 +280,9 @@ Subsec. (d)(2). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Re
 
 #### References in Text
 The National Emergencies Act, referred to in subsec. (b), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended. Title II of the Act is classified generally to subchapter II (§ 1621 et seq.) of chapter 34 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Delegation of Authority
 Authority of President under this section as invoked by sections 2 and 3 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, as amended, delegated to Secretary of Defense by section 4 of Ex. Ord. No. 13223, set out as a note under [section 12302 of this title](./chapter-1209-active-duty.md#section-12302).
@@ -287,6 +302,9 @@ The Secretary of the Army shall distribute the number of reserve commissioned of
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 3220 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3220&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1662(a)(3).
 
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-12008"></a>
 ## § 12008. Army Reserve and Air Force Reserve: warrant officers
@@ -297,6 +315,9 @@ The Secretary of the Army may prescribe the authorized strength of the Army Rese
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 3223 and 8223 of this title, prior to repeal by Pub. L. 103–337, § 1662(a)(3).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-12009"></a>
@@ -309,6 +330,9 @@ Provisions similar to those in this section were contained in sections 3223 and 
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 3212 and 8212 of this title, prior to repeal by Pub. L. 103–337, § 1662(a)(3).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-12010"></a>
@@ -325,6 +349,9 @@ Provisions similar to those in this section were contained in [section 5454 of t
 2006—Pub. L. 109–163, § 515(b)(3)(I), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 
 Pub. L. 109–163, § 515(b)(1)(GG), substituted “Navy Reserve” for “Naval Reserve” in text.
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-12011"></a>
@@ -497,3 +524,6 @@ Amendment by Pub. L. 105–261 effective Oct. 1, 1998, see section 414(c) of Pub
 
 #### Effective Date of 1996 Amendment
 Amendment by section 1501(b)(10) of Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).

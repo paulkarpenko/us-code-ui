@@ -281,7 +281,7 @@ The section is included to provide in subchapter I of chapter 3 of the revised t
 Bureau of Customs redesignated United States Customs Service by Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-309"></a>
@@ -1336,7 +1336,9 @@ In subsection (b)(2), the words “An officer or employee violating this subsect
 
   (D) competency to advise and assist persons in presenting their cases.
 
-**(b)** After notice and opportunity for a proceeding, the Secretary may suspend or disbar from practice before the Department, or censure, a representative who—
+**(b)** Any enrolled agents properly licensed to practice as required under rules promulgated under subsection (a) shall be allowed to use the credentials or designation of “enrolled agent”, “EA”, or “E.A.”.
+
+**(c)** After notice and opportunity for a proceeding, the Secretary may suspend or disbar from practice before the Department, or censure, a representative who—
 
 (1) is incompetent;
 
@@ -1347,13 +1349,13 @@ In subsection (b)(2), the words “An officer or employee violating this subsect
 (4) with intent to defraud, willfully and knowingly misleads or threatens the person being represented or a prospective person to be represented.
 The Secretary may impose a monetary penalty on any representative described in the preceding sentence. If the representative was acting on behalf of an employer or any firm or other entity in connection with the conduct giving rise to such penalty, the Secretary may impose a monetary penalty on such employer, firm, or entity if it knew, or reasonably should have known, of such conduct. Such penalty shall not exceed the gross income derived (or to be derived) from the conduct giving rise to the penalty and may be in addition to, or in lieu of, any suspension, disbarment, or censure of the representative.
 
-**(c)** After notice and opportunity for a hearing to any appraiser, the Secretary may—
+**(d)** After notice and opportunity for a hearing to any appraiser, the Secretary may—
 
 (1) provide that appraisals by such appraiser shall not have any probative effect in any administrative proceeding before the Department of the Treasury or the Internal Revenue Service, and
 
 (2) bar such appraiser from presenting evidence or testimony in any such proceeding.
 
-**(d)** Nothing in this section or in any other provision of law shall be construed to limit the authority of the Secretary of the Treasury to impose standards applicable to the rendering of written advice with respect to any entity, transaction plan or arrangement, or other plan or arrangement, which is of a type which the Secretary determines as having a potential for tax avoidance or evasion.
+**(e)** Nothing in this section or in any other provision of law shall be construed to limit the authority of the Secretary of the Treasury to impose standards applicable to the rendering of written advice with respect to any entity, transaction plan or arrangement, or other plan or arrangement, which is of a type which the Secretary determines as having a potential for tax avoidance or evasion.
 
 ### Statutory Notes
 
@@ -1370,6 +1372,8 @@ In subsection (a), before clause (1), the words “Subject to [section 500 of ti
 In subsection (b), the word “proceeding” is substituted for “hearing” because of subchapter II of chapter 5 of title 5. In clause (3), the words “violates regulations prescribed under this section” are substituted for “who refuses to comply with said rules and regulations” to eliminate unnecessary words. In clause (4), the words “in any manner” are omitted as surplus. The word “deceive” is omitted as being included in the word “mislead”. The words “by word, circular, letter, or by advertisement” are omitted as unnecessary.
 
 #### Amendments
+2015—Subsecs. (b) to (e). Pub. L. 114–113 added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively.
+
 2006—Subsec. (c). Pub. L. 109–280 struck out “with respect to whom a penalty has been assessed under section 6701(a) of the Internal Revenue Code of 1986” after “any appraiser” in introductory provisions.
 
 2004—Subsec. (b). Pub. L. 108–357, § 822(a)(1), inserted “, or censure,” after “Department” in introductory provisions and inserted at end “The Secretary may impose a monetary penalty on any representative described in the preceding sentence. If the representative was acting on behalf of an employer or any firm or other entity in connection with the conduct giving rise to such penalty, the Secretary may impose a monetary penalty on such employer, firm, or entity if it knew, or reasonably should have known, of such conduct. Such penalty shall not exceed the gross income derived (or to be derived) from the conduct giving rise to the penalty and may be in addition to, or in lieu of, any suspension, disbarment, or censure of the representative.”

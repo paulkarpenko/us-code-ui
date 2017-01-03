@@ -279,11 +279,16 @@ Section was formerly set out as a note under [section 157 of this title](./chapt
 Section was enacted as part of the Telecommunications Act of 1996, and not as part of the Broadband Data Improvement Act which comprises this chapter.
 
 #### Amendments
+2015—Subsec. (d)(2). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
 2008—Subsec. (b). Pub. L. 110–385, § 103(a)(1), substituted “annually” for “regularly”.
 
 Subsecs. (c), (d). Pub. L. 110–385, § 103(a)(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 2002—Subsec. (c)(2). Pub. L. 107–110 substituted “[section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)” for “paragraphs (14) and (25), respectively, of section 14101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 8801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section8801&num=0&edition=prelim))”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
@@ -497,7 +502,7 @@ Section is comprised of section 103 of Pub. L. 110–385. Subsec. (a) of section
 
 (1)
 
-  (A) be a State or political subdivision thereof, the District of Columbia, a territory or possession of the United States, an Indian tribe (as defined in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)) or native Hawaiian organization;
+  (A) be a State or political subdivision thereof, the District of Columbia, a territory or possession of the United States, an Indian tribe (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)) or native Hawaiian organization;
 
   (B) a nonprofit—
 

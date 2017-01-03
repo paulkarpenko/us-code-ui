@@ -39,11 +39,21 @@ Pub. L. 85–623, Aug. 12, 1958, 72 Stat. 562, which enacted this chapter, is po
 
 Whoever knowingly introduces, or manufactures for introduction, into interstate commerce, or transports or distributes in interstate commerce, any switchblade knife, shall be fined not more than $2,000 or imprisoned not more than five years, or both.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the sixtieth day after Aug. 12, 1958, see section 6 of Pub. L. 85–623, set out as a note under [section 1241 of this title](./chapter-029-manufacture-transportation-or-distribution-of-switchblade-knives.md#section-1241).
+
 
 <a id="section-1243"></a>
 ## § 1243. Manufacture, sale, or possession within specific jurisdictions; penalty
 
 Whoever, within any Territory or possession of the United States, within Indian country (as defined in [section 1151 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1151&num=0&edition=prelim)), or within the special maritime and territorial jurisdiction of the United States (as defined in [section 7 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section7&num=0&edition=prelim)), manufactures, sells, or possesses any switchblade knife, shall be fined not more than $2,000 or imprisoned not more than five years, or both.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the sixtieth day after Aug. 12, 1958, see section 6 of Pub. L. 85–623, set out as a note under [section 1241 of this title](./chapter-029-manufacture-transportation-or-distribution-of-switchblade-knives.md#section-1241).
 
 
 <a id="section-1244"></a>
@@ -65,6 +75,9 @@ Sections 1242 and 1243 of this title shall not apply to—
 
 #### Amendments
 2009—Par. (5). Pub. L. 111–83 added par. (5).
+
+#### Effective Date
+Section effective on the sixtieth day after Aug. 12, 1958, see section 6 of Pub. L. 85–623, set out as a note under [section 1241 of this title](./chapter-029-manufacture-transportation-or-distribution-of-switchblade-knives.md#section-1241).
 
 
 <a id="section-1245"></a>

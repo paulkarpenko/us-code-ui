@@ -2,7 +2,7 @@
 title: 21
 chapter: '20'
 heading: NATIONAL DRUG CONTROL PROGRAM
-section_count: 23
+section_count: 24
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21&num=0&edition=prelim
 ---
@@ -60,7 +60,7 @@ Repeal effective Sept. 30, 1997, see section 1009 of Pub. L. 100–690, as amend
 ## § 1505a. Annual report on development and deployment of narcotics detection technologies
 **(a) Report requirement** Not later than December 1st of each year, the Director of the Office of National Drug Control Policy shall submit to Congress and the President a report on the development and deployment of narcotics detection technologies by Federal agencies. Each such report shall be prepared in consultation with the Secretary of Defense, the Secretary of State, the Secretary of Homeland Security, and the Secretary of the Treasury.
 
-**(b) Matters to be included** Each report under subsection (a) of this section shall include—
+**(b) Matters to be included** Each report under subsection (a) shall include—
 
 (1) a description of each project implemented by a Federal agency relating to the development or deployment of narcotics detection technology;
 
@@ -109,7 +109,7 @@ Section, Pub. L. 100–690, title VI, § 6073, Nov. 18, 1988, 102 Stat. 4323; Pu
 
 <a id="section-1521"></a>
 ## § 1521. Terms of office
-**(a) In general** Subject to subsection (b) of this section, the term of office of a member of the Advisory Commission shall be 3 years, except that, as designated at the time of appointment—
+**(a) In general** Subject to subsection (b), the term of office of a member of the Advisory Commission shall be 3 years, except that, as designated at the time of appointment—
 
 (1) of the initial members appointed under [section 1543(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1543/a/1&num=0&edition=prelim), two shall be appointed for a term of 2 years;
 
@@ -326,8 +326,8 @@ Subsec. (b)(5). Pub. L. 107–82, § 1(c), added par. (5) and struck out former 
 **(d) Contracting** The Director may employ any necessary staff and may enter into contracts or agreements with national drug control agencies, including interagency agreements to delegate authority for the execution of grants and for such other activities necessary to carry out this subchapter.
 
 
-<a id="section-1541"></a>
-## § 1541. Program authorization
+<a id="section-1536"></a>
+## § 1536. Program authorization
 **(a) Grant eligibility** To be eligible to receive an initial grant or a renewal grant under this part, a coalition shall meet each of the following criteria:
 
 (1) **Application** — The coalition shall submit an application to the Administrator in accordance with [section 1533(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1533/a/2&num=0&edition=prelim).
@@ -364,7 +364,7 @@ Subsec. (b)(5). Pub. L. 107–82, § 1(c), added par. (5) and struck out former 
 
     (i) the Federal Government; and
 
-    (ii) the government of the appropriate State and political subdivision thereof or the governing body or an Indian tribe (as that term is defined in [section 450b(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim)).
+    (ii) the government of the appropriate State and political subdivision thereof or the governing body or an Indian tribe (as that term is defined in [section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim)).
 
   (C) *Representation* — An individual who is a member of the coalition may serve on the coalition as a representative of not more than 1 category listed under subparagraph (A).
 
@@ -436,7 +436,7 @@ Subsec. (b)(5). Pub. L. 107–82, § 1(c), added par. (5) and struck out former 
 
     (i) *In general* — Subject to clause (iv), for a fiscal year, the Administrator may grant to an eligible coalition under this paragraph, an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year.
 
-    (ii) *Suspension of grants* — If such grant recipient fails to continue to meet the criteria specified in subsection (a) of this section, the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
+    (ii) *Suspension of grants* — If such grant recipient fails to continue to meet the criteria specified in subsection (a), the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
 
     (iii) *Renewal grants* — Subject to clause (iv), the Administrator may award a renewal grant to a grant recipient under this subparagraph for each fiscal year following the fiscal year for which an initial grant is awarded, in an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year, during the 4-year period following the period of the initial grant.
 
@@ -450,17 +450,17 @@ Subsec. (b)(5). Pub. L. 107–82, § 1(c), added par. (5) and struck out former 
 
       (I) the eligible coalitions demonstrate that the coalitions are collaborating with one another; and
 
-      (II) each of the coalitions has independently met the requirements set forth in subsection (a) of this section.
+      (II) each of the coalitions has independently met the requirements set forth in subsection (a).
 
 (2) **Rural coalition grants**
 
   (A) *In general*
 
-    (i) *In general* — In addition to awarding grants under paragraph (1), to stimulate the development of coalitions in sparsely populated and rural areas, the Administrator, in consultation with the Advisory Commission, may award a grant in accordance with this section to a coalition that represents a county with a population that does not exceed 30,000 individuals. In awarding a grant under this paragraph, the Administrator may waive any requirement under subsection (a) of this section if the Administrator considers that waiver to be appropriate.
+    (i) *In general* — In addition to awarding grants under paragraph (1), to stimulate the development of coalitions in sparsely populated and rural areas, the Administrator, in consultation with the Advisory Commission, may award a grant in accordance with this section to a coalition that represents a county with a population that does not exceed 30,000 individuals. In awarding a grant under this paragraph, the Administrator may waive any requirement under subsection (a) if the Administrator considers that waiver to be appropriate.
 
     (ii) *Matching requirement* — Subject to subparagraph (C), for a fiscal year, the Administrator may grant to an eligible coalition under this paragraph, an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year.
 
-    (iii) *Suspension of grants* — If such grant recipient fails to continue to meet any criteria specified in subsection (a) of this section that has not been waived by the Administrator pursuant to clause (i), the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
+    (iii) *Suspension of grants* — If such grant recipient fails to continue to meet any criteria specified in subsection (a) that has not been waived by the Administrator pursuant to clause (i), the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
 
   (B) *Renewal grants* — The Administrator may award a renewal grant to an eligible coalition that is a grant recipient under this paragraph for each fiscal year following the fiscal year for which an initial grant is awarded, in an amount not to exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, during the 4-year period following the period of the initial grant.
 
@@ -484,7 +484,7 @@ Subsec. (b)(5). Pub. L. 107–82, § 1(c), added par. (5) and struck out former 
 
     (ii) For the third and fourth fiscal years of that 4-fiscal-year period, the amount equal to 67 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year.
 
-  (E) *Suspension* — If a grant recipient under this paragraph fails to continue to meet the criteria specified in subsection (a) of this section, the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
+  (E) *Suspension* — If a grant recipient under this paragraph fails to continue to meet the criteria specified in subsection (a), the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
 
   (F) *Limitation* — The amount of a grant award under this paragraph may not exceed $125,000 for a fiscal year.
 
@@ -492,7 +492,7 @@ Subsec. (b)(5). Pub. L. 107–82, § 1(c), added par. (5) and struck out former 
 
 **(c) Treatment of funds for coalitions representing certain organizations** Funds appropriated for the substance abuse activities of a coalition that includes a representative of the Bureau of Indian Affairs, the Indian Health Service, or a tribal government agency with expertise in the field of substance abuse may be counted as non-Federal funds raised by the coalition for purposes of this section.
 
-**(d) Priority in awarding grants** In awarding grants under subsection (b)(1)(A)(i) of this section, priority shall be given to a coalition serving economically disadvantaged areas.
+**(d) Priority in awarding grants** In awarding grants under subsection (b)(1)(A)(i), priority shall be given to a coalition serving economically disadvantaged areas.
 
 ### Statutory Notes
 
@@ -516,8 +516,8 @@ Subsec. (d). Pub. L. 107–82, § 1(h), added subsec. (d).
 Pub. L. 109–469, title VIII, § 802(b), Dec. 29, 2006, 120 Stat. 3535, provided that: “Not later than 60 days after the date of enactment of this Act [Dec. 29, 2006], the Director of the Office of National Drug Control Policy shall submit to Congress a report detailing the appeals process required by section 1032(b)(4) of the Drug-Free Communities Act of 1997 [probably means [21 U.S.C. 1532(b)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1532/b/4&num=0&edition=prelim)], as added by subsection (a) [see 2006 Amendments note above].”
 
 
-<a id="section-1542"></a>
-## § 1542. Information collection and dissemination with respect to grant recipients
+<a id="section-1541"></a>
+## § 1541. Information collection and dissemination with respect to grant recipients
 **(a) Coalition information**
 
 (1) **General auditing authority** — For the purpose of audit and examination, the Administrator—
@@ -562,8 +562,8 @@ Pub. L. 109–469, title VIII, § 802(b), Dec. 29, 2006, 120 Stat. 3535, provide
 Subsec. (b)(4). Pub. L. 107–82, § 1(f), added par. (4).
 
 
-<a id="section-1543"></a>
-## § 1543. Technical assistance and training
+<a id="section-1542"></a>
+## § 1542. Technical assistance and training
 **(a) In general**
 
 (1) **Technical assistance and agreements** — With respect to any grant recipient or other organization, the Administrator may—
@@ -585,9 +585,9 @@ Subsec. (b)(4). Pub. L. 107–82, § 1(f), added par. (4).
 (4) any other activity related to the purposes of the Program.
 
 
-<a id="section-1544"></a>
-## § 1544. Supplemental grants for coalition mentoring activities
-**(a) Authority to make grants** As part of the program established under [section 1531 of this title](./chapter-020-national-drug-control-program.md#section-1531), the Director may award an initial grant under this subsection, and renewal grants under subsection (f) of this section, to any coalition awarded a grant under [section 1532 of this title](./chapter-020-national-drug-control-program.md#section-1532) that meets the criteria specified in subsection (d) of this section in order to fund coalition mentoring activities by such coalition in support of the program.
+<a id="section-1543"></a>
+## § 1543. Supplemental grants for coalition mentoring activities
+**(a) Authority to make grants** As part of the program established under [section 1531 of this title](./chapter-020-national-drug-control-program.md#section-1531), the Director may award an initial grant under this subsection, and renewal grants under subsection (f), to any coalition awarded a grant under [section 1532 of this title](./chapter-020-national-drug-control-program.md#section-1532) that meets the criteria specified in subsection (d) in order to fund coalition mentoring activities by such coalition in support of the program.
 
 **(b) Treatment with other grants**
 
@@ -609,11 +609,11 @@ Subsec. (b)(4). Pub. L. 107–82, § 1(f), added par. (4).
 
 (5) submits to the Administrator a detailed plan for the coalition mentoring activities to be supported by the grant under this section.
 
-**(e) Use of grant funds** A coalition awarded a grant under this section shall use the grant amount for mentoring activities to support and encourage the development of new, self-supporting community coalitions that are focused on the prevention and treatment of substance abuse in such new coalitions’ communities. The mentoring coalition shall encourage such development in accordance with the plan submitted by the mentoring coalition under subsection (d)(5) of this section.
+**(e) Use of grant funds** A coalition awarded a grant under this section shall use the grant amount for mentoring activities to support and encourage the development of new, self-supporting community coalitions that are focused on the prevention and treatment of substance abuse in such new coalitions’ communities. The mentoring coalition shall encourage such development in accordance with the plan submitted by the mentoring coalition under subsection (d)(5).
 
-**(f) Renewal grants** The Administrator may make a renewal grant to any coalition awarded a grant under subsection (a) of this section, or a previous renewal grant under this subsection, if the coalition, at the time of application for such renewal grant—
+**(f) Renewal grants** The Administrator may make a renewal grant to any coalition awarded a grant under subsection (a), or a previous renewal grant under this subsection, if the coalition, at the time of application for such renewal grant—
 
-(1) continues to meet the criteria specified in subsection (d) of this section; and
+(1) continues to meet the criteria specified in subsection (d); and
 
 (2) has made demonstrable progress in the development of one or more new, self-supporting community coalitions that are focused on the prevention and treatment of substance abuse.
 
@@ -621,13 +621,84 @@ Subsec. (b)(4). Pub. L. 107–82, § 1(f), added par. (4).
 
 (1) **In general** — Subject to paragraphs (2) and (3), the total amount of grants awarded to a coalition under this section for a fiscal year may not exceed the amount of non-Federal funds raised by the coalition, including in-kind contributions, for that fiscal year. Funds appropriated for the substance abuse activities of a coalition that includes a representative of the Bureau of Indian Affairs, the Indian Health Service, or a tribal government agency with expertise in the field of substance abuse may be counted as non-Federal funds raised by the coalition.
 
-(2) **Initial grants** — The amount of the initial grant awarded to a coalition under subsection (a) of this section may not exceed $75,000.
+(2) **Initial grants** — The amount of the initial grant awarded to a coalition under subsection (a) may not exceed $75,000.
 
-(3) **Renewal grants** — The total amount of renewal grants awarded to a coalition under subsection (f) of this section for any fiscal year may not exceed $75,000.
+(3) **Renewal grants** — The total amount of renewal grants awarded to a coalition under subsection (f) for any fiscal year may not exceed $75,000.
 
-**(h) Fiscal year limitation on amount available for grants** The total amount available for grants under this section, including renewal grants under subsection (f) of this section, in any fiscal year may not exceed the amount equal to five percent of the amount authorized to be appropriated by [section 1524(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1524/a&num=0&edition=prelim) for that fiscal year.
+**(h) Fiscal year limitation on amount available for grants** The total amount available for grants under this section, including renewal grants under subsection (f), in any fiscal year may not exceed the amount equal to five percent of the amount authorized to be appropriated by [section 1524(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1524/a&num=0&edition=prelim) for that fiscal year.
 
 **(i) Priority in awarding initial grants** In awarding initial grants under this section, priority shall be given to a coalition that expressly proposes to provide mentorship to a coalition or aspiring coalition serving economically disadvantaged areas.
+
+
+<a id="section-1544"></a>
+## § 1544. Community-based coalition enhancement grants to address local drug crises
+**(a) Definitions** In this section:
+
+(1) **Administrator** — The term “Administrator” means the Administrator of the Substance Abuse and Mental Health Services Administration.
+
+(2) **Director** — The term “Director” means the Director of the Office of National Drug Control Policy.
+
+(3) **Drug-Free Communities Act of 1997** — The term “Drug-Free Communities Act of 1997” means chapter 2 of the National Narcotics Leadership Act of 1988 ([21 U.S.C. 1521](./chapter-020-national-drug-control-program.md#section-1521) et seq.).
+
+(4) **Eligible entity** — The term “eligible entity” means an organization that—
+
+  (A) on or before the date of submitting an application for a grant under this section, receives or has received a grant under the Drug-Free Communities Act of 1997; and
+
+  (B) has documented, using local data, rates of abuse of opioids or methamphetamines at levels that are—
+
+    (i) significantly higher than the national average as determined by the Secretary (including appropriate consideration of the results of the Monitoring the Future Survey published by the National Institute on Drug Abuse and the National Survey on Drug Use and Health published by the Substance Abuse and Mental Health Services Administration); or
+
+    (ii) higher than the national average, as determined by the Secretary (including appropriate consideration of the results of the surveys described in clause (i)), over a sustained period of time.
+
+(5) **Emerging drug abuse issue** — The term “emerging drug abuse issue” means a substance use disorder within an area involving—
+
+  (A) a sudden increase in demand for particular drug abuse treatment services relative to previous demand; and
+
+  (B) a lack of resources in the area to address the emerging problem.
+
+(6) **Local drug crisis** — The term “local drug crisis” means, with respect to the area served by an eligible entity—
+
+  (A) a sudden increase in the abuse of opioids or methamphetamines, as documented by local data;
+
+  (B) the abuse of prescription medications, specifically opioids or methamphetamines, that is significantly higher than the national average, over a sustained period of time, as documented by local data; or
+
+  (C) a sudden increase in opioid-related deaths, as documented by local data.
+
+(7) **Opioid** — The term “opioid” means any drug having an addiction-forming or addiction-sustaining liability similar to morphine or being capable of conversion into a drug having such addiction-forming or addiction-sustaining liability.
+
+**(b) Program authorized** The Director, in coordination with the Administrator, may make grants to eligible entities to implement comprehensive community-wide strategies that address local drug crises and emerging drug abuse issues within the area served by the eligible entity.
+
+**(c) Application**
+
+(1) **In general** — An eligible entity seeking a grant under this section shall submit an application to the Director at such time, in such manner, and accompanied by such information as the Director may require.
+
+(2) **Criteria** — As part of an application for a grant under this section, the Director shall require an eligible entity to submit a detailed, comprehensive, multisector plan for addressing the local drug crisis or emerging drug abuse issue within the area served by the eligible entity.
+
+**(d) Use of funds** An eligible entity shall use a grant received under this section—
+
+(1) for programs designed to implement comprehensive community-wide prevention strategies to address the local drug crisis in the area served by the eligible entity, in accordance with the plan submitted under subsection (c)(2);
+
+(2) to obtain specialized training and technical assistance from the organization funded under section 4 of Public Law 107–82 ([21 U.S.C. 1521](./chapter-020-national-drug-control-program.md#section-1521) note); and
+
+(3) for programs designed to implement comprehensive community-wide strategies to address emerging drug abuse issues in the community.
+
+**(e) Supplement not supplant** An eligible entity shall use Federal funds received under this section only to supplement the funds that would, in the absence of those Federal funds, be made available from other Federal and non-Federal sources for the activities described in this section, and not to supplant those funds.
+
+**(f) Evaluation** A grant under this section shall be subject to the same evaluation requirements and procedures as the evaluation requirements and procedures imposed on the recipient of a grant under the Drug-Free Communities Act of 1997, and may also include an evaluation of the effectiveness at reducing abuse of opioids or methamphetamines.
+
+**(g) Limitation on administrative expenses** Not more than 8 percent of the amounts made available to carry out this section for a fiscal year may be used to pay for administrative expenses.
+
+**(h) Delegation authority** The Director may enter into an interagency agreement with the Administrator to delegate authority for the execution of grants and for such other activities as may be necessary to carry out this section.
+
+**(i) Authorization of appropriations** For the purpose of carrying out this section, there are authorized to be appropriated $5,000,000 for each of fiscal years 2017 through 2021.
+
+### Statutory Notes
+
+#### References in Text
+The Drug-Free Communities Act of 1997, referred to in subsec. (a)(3), is Pub. L. 105–20, June 27, 1997, 111 Stat. 224, section 2(a)(2) of which enacted chapter 2 of the National Narcotics Leadership Act of 1988, which is classified to this subchapter. For complete classification of the Drug-Free Communities Act of 1997 to the Code, see Short Title of 1997 Amendment note set out under [section 1501 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1501&num=0&edition=prelim) and Tables.
+
+#### Codification
+Section was enacted as part of the Comprehensive Addiction and Recovery Act of 2016, and not as part of the National Narcotics Leadership Act of 1988 which comprises this chapter.
 
 
 <a id="section-1545"></a>
@@ -657,7 +728,7 @@ Subsec. (b)(4). Pub. L. 107–82, § 1(f), added par. (4).
 
 (6) may appoint subcommittees and convene workshops and conferences.
 
-**(b) Recommendations** If the Director rejects any recommendation of the Advisory Commission under subsection (a)(1) of this section, the Director shall notify the Advisory Commission in writing of the reasons for the rejection not later than 15 days after receiving the recommendation.
+**(b) Recommendations** If the Director rejects any recommendation of the Advisory Commission under subsection (a)(1), the Director shall notify the Advisory Commission in writing of the reasons for the rejection not later than 15 days after receiving the recommendation.
 
 **(c) Conflict of interest** A member of the Advisory Commission shall recuse himself or herself from any decision that would constitute a conflict of interest.
 

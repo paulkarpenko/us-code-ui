@@ -94,7 +94,7 @@ Pub. L. 107–174, May 15, 2002, 116 Stat. 566, as amended by Pub. L. 109–435,
 
     (vii) a reemployment;
 
-    (viii) a performance evaluation under chapter 43 of this title;
+    (viii) a performance evaluation under chapter 43 of this title or under title 38;
 
     (ix) a decision concerning pay, benefits, or awards, or concerning education or training if the education or training may reasonably be expected to lead to an appointment, promotion, performance evaluation, or other action described in this subparagraph;
 
@@ -267,6 +267,8 @@ Section 301(c) of the Foreign Service Act of 1980, referred to in subsec. (e)(1)
 [Section 7802(5) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7802/5&num=0&edition=prelim), referred to in subsec. (e)(1)(E), was redesignated [section 7802(e) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7802/e&num=0&edition=prelim) by Pub. L. 108–170, title III, § 304(b)(3), Dec. 6, 2003, 117 Stat. 2059.
 
 #### Amendments
+2015—Subsec. (a)(2)(A)(viii). Pub. L. 114–113 inserted “or under title 38” after “chapter 43 of this title”.
+
 2013—Subsec. (a)(2)(C)(ii). Pub. L. 112–277 added cl. (ii) and struck out former cl. (ii) which read as follows:
 
 “(I) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, the Office of the Director of National Intelligence, and the National Reconnaissance Office; and
@@ -466,11 +468,31 @@ Barack Obama.
 
 <a id="section-2303"></a>
 ## § 2303. Prohibited personnel practices in the Federal Bureau of Investigation
-**(a)** Any employee of the Federal Bureau of Investigation who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take a personnel action with respect to any employee of the Bureau as a reprisal for a disclosure of information by the employee to the Attorney General (or an employee designated by the Attorney General for such purpose) which the employee or applicant reasonably believes evidences—
+**(a)** Any employee of the Federal Bureau of Investigation who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take a personnel action with respect to an employee in, or applicant for, a position in the Bureau as a reprisal for a disclosure of information—
 
-(1) a violation of any law, rule, or regulation, or
+(1) made—
 
-(2) mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
+  (A) in the case of an employee, to a supervisor in the direct chain of command of the employee, up to and including the head of the employing agency;
+
+  (B) to the Inspector General;
+
+  (C) to the Office of Professional Responsibility of the Department of Justice;
+
+  (D) to the Office of Professional Responsibility of the Federal Bureau of Investigation;
+
+  (E) to the Inspection Division of the Federal Bureau of Investigation;
+
+  (F) as described in section 7211;
+
+  (G) to the Office of Special Counsel; or
+
+  (H) to an employee designated by any officer, employee, office, or division described in subparagraphs (A) through (G) for the purpose of receiving such disclosures; and
+
+(2) which the employee or applicant reasonably believes evidences—
+
+  (A) any violation of any law, rule, or regulation; or
+
+  (B) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
 For the purpose of this subsection, “personnel action” means any action described in clauses (i) through (x) of [section 2302(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/a/2/A&num=0&edition=prelim) with respect to an employee in, or applicant for, a position in the Bureau (other than a position of a confidential, policy-determining, policymaking, or policy-advocating character).
 
 **(b)** The Attorney General shall prescribe regulations to ensure that such a personnel action shall not be taken against an employee of the Bureau as a reprisal for any disclosure of information described in subsection (a) of this section.
@@ -480,6 +502,12 @@ For the purpose of this subsection, “personnel action” means any action desc
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–302 substituted “an employee in, or applicant for, a position in the Bureau as a reprisal for a disclosure of information—” for “any employee of the Bureau as a reprisal for a disclosure of information by the employee to the Attorney General (or an employee designated by the Attorney General for such purpose) which the employee or applicant reasonably believes evidences—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
+
+“(1) a violation of any law, rule, or regulation, or
+
+“(2) mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety”.
+
 1989—Subsec. (c). Pub. L. 101–12 substituted “applicable provisions of sections 1214 and 1221” for “the provisions of section 1206”.
 
 #### Effective Date of 1989 Amendment

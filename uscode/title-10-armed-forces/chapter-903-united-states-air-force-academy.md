@@ -2,7 +2,7 @@
 title: 10
 chapter: '903'
 heading: UNITED STATES AIR FORCE ACADEMY
-section_count: 32
+section_count: 30
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -158,7 +158,7 @@ In subsection (b), reference to assimilated rank is omitted as superseded by [se
 ## § 9335. Dean of the Faculty
 **(a)** The Dean of the Faculty is responsible to the Superintendent for developing and sustaining the curriculum and overseeing the faculty of the Academy. The qualifications, selection procedures, training, pay grade, and retention of the Dean shall be prescribed by the Secretary of the Air Force, except that a person may not be appointed or assigned as Dean unless that person holds the highest academic degree in that person’s academic field. If a person appointed as the Dean is not an officer on active duty, the person shall be appointed as a member of the Senior Executive Service.
 
-**(b)** While serving as Dean of the Faculty, an officer on active duty who holds a grade lower than brigadier general (or the equivalent) shall hold the grade of brigadier general (or the equivalent), if appointed to that grade by the President, by and with the advice and consent of the Senate. The retirement age of an officer so appointed is that of a permanent professor of the Academy. An officer so appointed is counted for purposes of the applicable limitation in [section 526(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section526/a&num=0&edition=prelim) on general officers on active duty.
+**(b)** The retirement age of an officer so appointed is that of a permanent professor of the Academy.
 
 ### Statutory Notes
 
@@ -174,6 +174,8 @@ In subsection (b), the word “grade” is substituted for the word “rank”. 
 The word “regular” is deleted [in sections 9335 and 9336] to make clear that a Dean or professor of the United States Air Force Academy holds only the office of “Dean” or “professor” and not the office of “brigadier general” or “colonel”, as the case may be, even though he is entitled to the pay and allowances of that grade.
 
 #### Amendments
+2016—Subsec. (b). Pub. L. 114–328 struck out first and third sentences which read “While serving as Dean of the Faculty, an officer on active duty who holds a grade lower than brigadier general (or the equivalent) shall hold the grade of brigadier general (or the equivalent), if appointed to that grade by the President, by and with the advice and consent of the Senate.” and “An officer so appointed is counted for purposes of the applicable limitation in [section 526(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section526/a&num=0&edition=prelim) on general officers on active duty.”, respectively.
+
 2004—Subsec. (a). Pub. L. 108–375 inserted “, except that a person may not be appointed or assigned as Dean unless that person holds the highest academic degree in that person’s academic field” after “Secretary of the Air Force”.
 
 2003—Subsec. (a). Pub. L. 108–136, § 529(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Dean of the Faculty shall be appointed as an additional permanent professor from the permanent professors who have served as heads of departments of instruction at the Academy.”
@@ -254,28 +256,11 @@ Prohibition against accrual of increase in pay or allowances for service perform
 
 
 <a id="section-9337"></a>
-## § 9337. Chaplain
-
-There shall be a chaplain at the Academy, who must be a clergyman, appointed by the President for a term of four years. The chaplain is entitled to the same allowances for public quarters as are allowed to a captain, and to fuel and light for quarters in kind. The chaplain may be reappointed.
+## § 9337. Repealed. Pub. L. 114–328, div. A, title V, § 591(a), Dec. 23, 2016, 130 Stat. 2152]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| 1956 Act |  |  |
-| Revised section | Source (U.S. Code) | Source (Statutes at Large) |
-| 9337 | 10:1083. 10:1137. | Feb. 18, 1896, ch. 22 (proviso), 29 Stat. 8; May 16, 1928, ch. 579, 45 Stat. 573; June 2, 1945, ch. 172, 59 Stat. 230. |
-
-The words “The chaplain may be reappointed” are substituted for the words “and said chaplain shall be eligible for reappointment for an additional term or terms”. The figures “$5,482.80” and “$6,714” are substituted for the figures “$4,000” and “$5,000” to reflect increases in the rates of salary of that office effected by Federal Employees Pay Act of 1945, 59 Stat. 295, the Federal Employees Pay Act of 1946, 60 Stat. 216, the Postal Rate Revision and Federal Employees Salary Act of 1948, 62 Stat. 1260, and the Classification Act of 1949, 63 Stat. 954.
-
-#### 1962 Act
-The change reflects the opinion of the Assistant General Counsel, Civil Service Commission (GC:JHF:fz, May 4, 1959), that those parts of section 4337 and 9337 of title 10 that relate to the salaries of the chaplains at the United States Military Academy and the United States Air Force Academy were superseded by the Classification Act of 1949 ([5 U.S.C. 1071](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1071&num=0&edition=prelim) et seq.). While the positions of chaplain at those Academies are not specifically covered by the Act, the Act has been determined to apply to those positions in accordance with section 203 thereof ([5 U.S.C. 1083](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1083&num=0&edition=prelim)).
-
-#### Amendments
-1962—Pub. L. 87–651 struck out provisions which prescribed salary of chaplain upon appointment and reappointment.
-
-#### Delegation of Functions
-Functions of President under this section delegated to Secretary of Defense, see section 1(5) of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
+Section, Aug. 10, 1956, ch. 1041, 70A Stat. 562; Pub. L. 87–651, title I, § 117, Sept. 7, 1962, 76 Stat. 513, related to chaplain.
 
 
 <a id="section-9338"></a>
@@ -336,15 +321,15 @@ Section effective with respect to nominations for appointment to the first class
 
 (5) Five cadets from the District of Columbia, nominated by the Delegate to the House of Representatives from the District of Columbia.
 
-(6) Three cadets from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands.
+(6) Four cadets from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands.
 
 (7) Six cadets from Puerto Rico, five of whom are nominated by the Resident Commissioner from Puerto Rico and one who is a native of Puerto Rico nominated by the Governor of Puerto Rico.
 
-(8) Three cadets from Guam, nominated by the Delegate in Congress from Guam.
+(8) Four cadets from Guam, nominated by the Delegate in Congress from Guam.
 
-(9) Two cadets from American Samoa, nominated by the Delegate in Congress from American Samoa.
+(9) Three cadets from American Samoa, nominated by the Delegate in Congress from American Samoa.
 
-(10) Two cadets from the Commonwealth of the Northern Mariana Islands, nominated by the Delegate in Congress from the commonwealth.
+(10) Three cadets from the Commonwealth of the Northern Mariana Islands, nominated by the Delegate in Congress from the commonwealth.
 Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 10 persons for each vacancy that is available to him under this section. Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter.
 
 **(b)** In addition, there may be appointed each year at the Academy cadets as follows:
@@ -416,6 +401,9 @@ Each Senator, Representative, and Delegate in Congress, including the Resident C
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)
+Pub. L. 114–328, div. A, title V, § 566(c), (e), Dec. 23, 2016, 130 Stat. 2139, provided that, applicable with respect to the appointment of cadets and midshipmen to the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the United States Merchant Marine Academy for classes entering these service academies after Jan. 1, 2018, subsection (a) of this section is amended by inserting at end of concluding provisions “When a nominee of a Senator, Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.” See 2016 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -449,6 +437,16 @@ In subsection (g), the words “(National Guard of the United States, the Air Na
 In subsection (h), the words “or shall hereafter be” are omitted as surplusage.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328 inserted at end of concluding provisions “When a nominee of a Senator, Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.”
+
+2015—Subsec. (a)(6). Pub. L. 114–92, § 556(c)(1), substituted “Four” for “Three”.
+
+Subsec. (a)(8). Pub. L. 114–92, § 556(c)(2), substituted “Four” for “Three”.
+
+Subsec. (a)(9). Pub. L. 114–92, § 556(c)(3), substituted “Three” for “Two”.
+
+Subsec. (a)(10). Pub. L. 114–92, § 556(c)(4), substituted “Three” for “Two”.
+
 2013—Subsec. (b)(1). Pub. L. 112–239, § 1076(f)(42)(A)(i), substituted “paragraph” for “clause” in two places in concluding provisions.
 
 Subsec. (b)(5), (d), (f). Pub. L. 112–239, § 1076(f)(42)(A)(ii)–(C), substituted “paragraphs” for “clauses”.
@@ -543,6 +541,12 @@ Subsec. (b)(3). Pub. L. 89–650, § 1(5), substituted “reserve components of 
 
 Subsec. (c). Pub. L. 87–663, § 1(6), inserted references to American Samoa, Guam, and the Virgin Islands, and substituted “Clauses (1)–(5) and (10)” for “clauses (1)–(5)”.
 
+#### Effective Date of 2016 Amendment
+Amendment by Pub. L. 114–328 applicable with respect to the appointment of cadets and midshipmen to the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the United States Merchant Marine Academy for classes entering these service academies after January 1, 2018, see section 566(e) of Pub. L. 114–328, set out as a note under [section 4342 of this title](./chapter-403-united-states-military-academy.md#section-4342).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–92 applicable with respect to the nomination of candidates for appointment to the United States Military Academy, Naval Academy, and Air Force Academy for classes entering after Nov. 25, 2015, see section 556(d) of Pub. L. 114–92, set out as a note under [section 4342 of this title](./chapter-403-united-states-military-academy.md#section-4342).
+
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–84 applicable with respect to appointments to the United States Air Force Academy beginning with the first class of candidates nominated for appointment after Oct. 28, 2009, see section 527(d) of Pub. L. 111–84, set out as a note under [section 4342 of this title](./chapter-403-united-states-military-academy.md#section-4342).
 
@@ -617,149 +621,18 @@ For effective date of amendment by Pub. L. 93–171, see section 4 of Pub. L. 93
 Nonreduction of number of appointees from congressional sources under this section because of additional Presidential appointments under section 9342(b) (1) of this title, see section 2 of Pub. L. 89–650, set out as a note under [section 4343 of this title](./chapter-403-united-states-military-academy.md#section-4343).
 
 
-<a id="section-9344"></a>
-## § 9344. Selection of persons from foreign countries
-**(a)**
-
-(1) The Secretary of the Air Force may permit not more than 60 persons at any one time from foreign countries to receive instruction at the Academy. Such persons shall be in addition to the authorized strength of the Air Force Cadets of the Academy under [section 9342 of this title](./chapter-903-united-states-air-force-academy.md#section-9342).
-
-(2) The Secretary of the Air Force, upon approval by the Secretary of Defense, shall determine the countries from which persons may be selected for appointment under this section and the number of persons that may be selected from each country. The Secretary of the Air Force may establish entrance qualifications and methods of competition for selection among individual applicants under this section and shall select those persons who will be permitted to receive instruction at the Academy under this section.
-
-(3) In selecting persons to receive instruction under this section from among applicants from the countries approved under paragraph (2), the Secretary of the Air Force shall give a priority to persons who have a national service obligation to their countries upon graduation from the Academy.
-
-**(b)**
-
-(1) A person receiving instruction under this section is entitled to the pay, allowances, and emoluments of a cadet appointed from the United States, and from the same appropriations.
-
-(2) Each foreign country from which a cadet is permitted to receive instruction at the Academy under this section shall reimburse the United States for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1). The Secretary of the Air Force shall prescribe the rates for reimbursement under this paragraph, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a cadet appointed from the United States.
-
-(3) The Secretary of Defense may waive, in whole or in part, the requirement for reimbursement of the cost of instruction for a cadet under paragraph (2). In the case of a partial waiver, the Secretary shall establish the amount waived.
-
-**(c)**
-
-(1) Except as the Secretary of the Air Force determines, a person receiving instruction under this section is subject to the same regulations governing admission, attendance, discipline, resignation, discharge, dismissal, and graduation as a cadet at the Academy appointed from the United States. The Secretary may prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a cadet at the Academy appointed from the United States.
-
-(2) A person receiving instruction under this section is not entitled to an appointment in an armed force of the United States by reason of graduation from the Academy.
-
-**(d)** A person receiving instruction under this section is not subject to [section 9346(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9346/d&num=0&edition=prelim).
+<a id="section-9344-to-9345a"></a>
+## § 9344 to 9345a. Repealed. Pub. L. 114–328, div. A, title XII, § 1248(b)(1), Dec. 23, 2016, 130 Stat. 2525]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised section | Source (U.S. Code) | Source (Statutes at Large) |
-| 9344(a) 9344(b) 9344(c) | 10:1093c (less 3d and last sentences). 10:1093c (3d sentence). 10:1093c (last sentence). | June 26, 1946, ch. 493, § 1, 60 Stat. 311; June 1, 1948, ch. 357, § 2, 62 Stat. 280. |
+Section 9344, act Aug. 10, 1956, ch. 1041, 70A Stat. 564; Pub. L. 98–94, title X, § 1004(c)(1), Sept. 24, 1983, 97 Stat. 659; Pub. L. 105–85, div. A, title V, § 543(c), Nov. 18, 1997, 111 Stat. 1744; Pub. L. 106–65, div. A, title V, § 534(c), Oct. 5, 1999, 113 Stat. 605; Pub. L. 106–398, § 1 [[div. A], title V, § 532(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–110; Pub. L. 107–107, div. A, title V, § 533(c)(1), (2), Dec. 28, 2001, 115 Stat. 1106, related to selection of persons from foreign countries to receive instruction at the United States Air Force Academy. See [section 347 of this title](./chapter-016-security-cooperation.md#section-347).
 
-In subsection (a), the words “at West Point, New York” are omitted as inapplicable to the Air Force.
+Section 9345, added Pub. L. 105–85, div. A, title V, § 542(c)(1), Nov. 18, 1997, 111 Stat. 1742; amended Pub. L. 106–65, div. A, title V, § 535(c), Oct. 5, 1999, 113 Stat. 606; Pub. L. 109–364, div. A, title V, § 531(c), Oct. 17, 2006, 120 Stat. 2199, related to exchange program with foreign military academies.
 
-In subsection (b), the words “is entitled to” are substituted for the words “shall receive”. The words “performed in proceeding” are omitted as surplusage. The words “continental limits” are omitted, since [section 101(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/1&num=0&edition=prelim) defines the United States to include only the States and the District of Columbia.
-
-In subsection (c), the words “to any office or position” are omitted as surplusage; 10:1093c (proviso of last sentence) is omitted, since 10:1099 is inapplicable to the Air Force and section 1321 of the Revised Statutes, previously codified in 10:1101, was repealed by section 6(b) of the Act of June 30, 1950, ch. 421, 64 Stat. 305.
-
-#### Amendments
-2001—Subsec. (a)(1). Pub. L. 107–107, § 533(c)(1), substituted “60” for “40”.
-
-Subsec. (b)(2). Pub. L. 107–107, § 533(c)(2)(A), struck out “unless a written waiver of reimbursement is granted by the Secretary of Defense” before period at end of first sentence.
-
-Subsec. (b)(3). Pub. L. 107–107, § 533(c)(2)(B), added par. (3) and struck out former par. (3) which read as follows: “The amount of reimbursement waived under paragraph (2) may not exceed 50 percent of the per-person reimbursement amount otherwise required to be paid by a foreign country under such paragraph, except in the case of not more than 20 persons receiving instruction at the Air Force Academy under this section at any one time.”
-
-2000—Subsec. (a)(3). Pub. L. 106–398 added par. (3).
-
-1999—Subsec. (b)(3). Pub. L. 106–65 substituted “50 percent” for “35 percent” and “20 persons” for “five persons”.
-
-1997—Subsec. (b)(2). Pub. L. 105–85, § 543(c)(1), substituted “, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a cadet appointed from the United States.” for period at end.
-
-Subsec. (b)(3). Pub. L. 105–85, § 543(c)(2), added par. (3).
-
-1983—Pub. L. 98–94 substituted “foreign countries” for “Canada and American Republics” in section catchline.
-
-Subsec. (a). Pub. L. 98–94 amended subsec. (a) generally, substituting “The Secretary of the Air Force may permit not more than 40 persons at any one time from foreign countries to receive instruction at the Academy” and “Such persons shall be in addition to the authorized strength of the Air Force Cadets of the Academy under [section 9342 of this title](./chapter-903-united-states-air-force-academy.md#section-9342)” for “Upon designation by the President, the Secretary of the Air Force may permit not more than 20 persons at any one time from Canada and the American Republics, other than the United States, to receive instruction at the Academy” and “However, not more than three persons from any one of those republics or from Canada may receive instruction under this section at any one time” as the first two sentences of subsec. (a) and designating those sentences as par. (1), and adding par. (2).
-
-Subsec. (b). Pub. L. 98–94 amended subsec. (b) generally, designating existing provisions as par. (1), striking out provisions that had directed that the mileage allowance payable to persons for travel to the Academy for initial admission was not limited to mileage for travel within the United States, and adding par. (2).
-
-Subsec. (c). Pub. L. 98–94 amended subsec. (c) generally, designating first sentence of subsec. (c) as par. (1), inserting provisions authorizing the Secretary to prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a cadet at the Academy appointed from the United States, and designating the second sentence of subsec. (c) as par. (2).
-
-Subsec. (d). Pub. L. 98–94, in amending section generally, added subsec. (d).
-
-#### Effective Date of 2001 Amendment
-Pub. L. 107–107, div. A, title V, § 533(c)(3), Dec. 28, 2001, 115 Stat. 1106, provided that: “The amendments made by paragraph (2) [amending this section] shall not apply with respect to any person who entered the United States Air Force Academy to receive instruction under [section 9344 of title 10](./chapter-903-united-states-air-force-academy.md#section-9344), United States Code, before the date of the enactment of this Act [Dec. 28, 2001].”
-
-Amendment by Pub. L. 107–107 inapplicable with respect to any academic year that began before Dec. 28, 2001, see section 533(d) of Pub. L. 107–107, set out as a note under [section 4344 of this title](./chapter-403-united-states-military-academy.md#section-4344).
-
-#### Effective Date of 2000 Amendment
-Amendment by Pub. L. 106–398 applicable with respect to academic years that begin after Oct. 1, 2000, see section 1 [[div. A], title V, § 532(d)] of Pub. L. 106–398, set out as a note under [section 4344 of this title](./chapter-403-united-states-military-academy.md#section-4344).
-
-#### Effective Date of 1999 Amendment
-Amendment by Pub. L. 106–65 applicable with respect to students from a foreign country entering the United States Military Academy, Naval Academy, or Air Force Academy on or after May 1, 1999, see section 534(d) of Pub. L. 106–65, set out as a note under [section 4344 of this title](./chapter-403-united-states-military-academy.md#section-4344).
-
-#### Effective Date of 1997 Amendment
-Amendment by Pub. L. 105–85 applicable with respect to students from foreign country entering United States Military Academy, United States Naval Academy, or United States Air Force Academy on or after May 1, 1998, see section 543(d) of Pub. L. 105–85, set out as a note under [section 4344 of this title](./chapter-403-united-states-military-academy.md#section-4344).
-
-#### Effective Date of 1983 Amendment
-Amendment by Pub. L. 98–94 effective one year after Sept. 24, 1983, and applicable to persons entering the Academy after such date, with subsec. (b)(2) of this section, as amended, not to apply to the cost of providing instruction to a person who, before such date, entered the Academy, see section 1004(d) of Pub. L. 98–94, set out as a note under [section 4344 of this title](./chapter-403-united-states-military-academy.md#section-4344).
-
-#### Persons From Countries Assisting U.S. in Vietnam; Air Force Academy Instruction; Benefits, Limitations, Restrictions, and Regulations; Oath of Trainees
-Air Force Academy instruction of persons from countries assisting U.S. in Vietnam, numerical limitation, prohibition against appointment of graduates to the Armed Forces, exemption from oath, etc., see Pub. L. 89–802, Nov. 9, 1966, 80 Stat. 1518, set out as a note under [section 4344 of this title](./chapter-403-united-states-military-academy.md#section-4344).
-
-
-<a id="section-9345"></a>
-## § 9345. Exchange program with foreign military academies
-**(a) Exchange Program Authorized.—** The Secretary of the Air Force may permit a student enrolled at a military academy of a foreign country to receive instruction at the Air Force Academy in exchange for an Air Force cadet receiving instruction at that foreign military academy pursuant to an exchange agreement entered into between the Secretary and appropriate officials of the foreign country. Students receiving instruction at the Academy under the exchange program shall be in addition to persons receiving instruction at the Academy under [section 9344 of this title](./chapter-903-united-states-air-force-academy.md#section-9344).
-
-**(b) Limitations on Number and Duration of Exchanges.—** An exchange agreement under this section between the Secretary and a foreign country shall provide for the exchange of students on a one-for-one basis each fiscal year. Not more than 100 Air Force cadets and a comparable number of students from all foreign military academies participating in the exchange program may be exchanged during any fiscal year. The duration of an exchange may not exceed the equivalent of one academic semester at the Air Force Academy.
-
-**(c) Costs and Expenses.—**
-
-(1) A student from a military academy of a foreign country is not entitled to the pay, allowances, and emoluments of an Air Force cadet by reason of attendance at the Air Force Academy under the exchange program, and the Department of Defense may not incur any cost of international travel required for transportation of such a student to and from the sponsoring foreign country.
-
-(2) The Secretary may provide a student from a foreign country under the exchange program, during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreign country provides comparable support and services to the exchanged Air Force cadet in that foreign country.
-
-(3) The Air Force Academy shall bear all costs of the exchange program from funds appropriated for the Academy and such additional funds as may be available to the Academy from a source other than appropriated funds to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.
-
-(4) Expenditures in support of the exchange program from funds appropriated for the Academy may not exceed $1,000,000 during any fiscal year.
-
-**(d) Application of Other Laws.—** Subsections (c) and (d) of [section 9344 of this title](./chapter-903-united-states-air-force-academy.md#section-9344) shall apply with respect to a student enrolled at a military academy of a foreign country while attending the Air Force Academy under the exchange program.
-
-**(e) Regulations.—** The Secretary shall prescribe regulations to implement this section. Such regulations may include qualification criteria and methods of selection for students of foreign military academies to participate in the exchange program.
-
-### Statutory Notes
-
-#### Prior Provisions
 A prior section 9345, act Aug. 10, 1956, ch. 1041, 70A Stat. 565, related to selection of Filipinos for instruction at the Air Force Academy, prior to repeal by Pub. L. 98–94, title X, § 1004(c)(2), (d), Sept. 24, 1983, 97 Stat. 660, effective one year after Sept. 24, 1983.
 
-#### Amendments
-2006—Subsec. (b). Pub. L. 109–364, § 531(c)(1), substituted “100” for “24”.
-
-Subsec. (c)(3). Pub. L. 109–364, § 531(c)(2)(A), substituted “for the Academy and such additional funds as may be available to the Academy from a source other than appropriated funds to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.” for “for the Academy. Expenditures in support of the exchange program may not exceed $120,000 during any fiscal year.”
-
-Subsec. (c)(4). Pub. L. 109–364, § 531(c)(2)(B), added par. (4).
-
-1999—Subsec. (b). Pub. L. 106–65, § 535(c)(1), substituted “24 Air Force cadets” for “10 Air Force cadets”.
-
-Subsec. (c)(3). Pub. L. 106–65, § 535(c)(2), substituted “$120,000” for “$50,000”.
-
-#### Effective Date of 2006 Amendment
-Amendment by Pub. L. 109–364 effective Oct. 1, 2008, see section 531(d) of Pub. L. 109–364, set out as a note under [section 4345 of this title](./chapter-403-united-states-military-academy.md#section-4345).
-
-
-<a id="section-9345a"></a>
-## § 9345a. Foreign and cultural exchange activities
-**(a) Attendance Authorized.—** The Secretary of the Air Force may authorize the Air Force Academy to permit students, officers, and other representatives of a foreign country to attend the Air Force Academy for periods of not more than four weeks if the Secretary determines that the attendance of such persons contributes significantly to the development of foreign language, cross cultural interactions and understanding, and cultural immersion of cadets.
-
-**(b) Costs and Expenses.—** The Secretary may pay the travel, subsistence, and similar personal expenses of persons incurred to attend the Air Force Academy under subsection (a).
-
-**(c) Effect of Attendance.—** Persons attending the Air Force Academy under subsection (a) are not considered to be students enrolled at the Air Force Academy and are in addition to persons receiving instruction at the Air Force Academy under section 9344 or 9345 of this title.
-
-**(d) Source of Funds; Limitation.—**
-
-(1) The Air Force Academy shall bear the costs of the attendance of persons under subsection (a) from funds appropriated for the Air Force Academy and from such additional funds as may be available to the Air Force Academy from a source, other than appropriated funds, to support cultural immersion, regional awareness, or foreign language training activities in connection with their attendance.
-
-(2) Expenditures from appropriated funds in support of activities under this section may not exceed $40,000 during any fiscal year.
-
-### Statutory Notes
-
-#### Amendments
-2014—Subsec. (a). Pub. L. 113–291 substituted “four weeks” for “two weeks”.
+Section 9345a, added Pub. L. 110–417, [div. A], title V, § 541(c)(1), Oct. 14, 2008, 122 Stat. 4456; amended Pub. L. 113–291, div. A, title V, § 553(c), Dec. 19, 2014, 128 Stat. 3377, related to foreign and cultural exchange activities.
 
 
 <a id="section-9346"></a>
@@ -1341,6 +1214,9 @@ Section applicable only with respect to funds appropriated for fiscal years afte
   (B) The Secretary of Defense shall transmit each such report, together with the Secretary’s comments on the report, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
 ### Statutory Notes
+
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (d)(4)(B) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
 #### Further Information From Cadets and Midshipmen at the Service Academies on Sexual Assault and Sexual Harassment Issues
 Secretary of a military department to provide for focus groups to ascertain information relating to sexual assault and sexual harassment issues in any year in which the Secretary is not required by law to conduct a survey on such matters at the service academy under the Secretary’s jurisdiction and to include such information in the Secretary’s annual report to Congress, see section 532(b) of Pub. L. 109–364, set out as a note under [section 4361 of this title](./chapter-403-united-states-military-academy.md#section-4361).

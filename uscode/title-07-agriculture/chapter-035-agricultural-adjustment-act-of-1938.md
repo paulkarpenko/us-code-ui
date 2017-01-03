@@ -155,7 +155,7 @@ Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liabilit
 #### Transfer of Functions
 Functions of Agricultural Adjustment Administration transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under [section 610 of this title](./chapter-026-agricultural-adjustment.md#section-610).
 
-Soil Conservation Service and Agricultural Adjustment Administration consolidated with other agencies into Agricultural Conservation and Adjustment Administration for duration of war, see Ex. Ord. No. 9069, set out in note under section 601 of Appendix to Title 50, War and National Defense.
+Soil Conservation Service and Agricultural Adjustment Administration consolidated with other agencies into Agricultural Conservation and Adjustment Administration for duration of war, see Ex. Ord. No. 9069, Feb. 23, 1942, 7 F.R. 1409.
 
 Functions of Soil Conservation Service in Department of Agriculture with respect to soil and moisture conservation operations conducted on lands under jurisdiction of Department of the Interior transferred to Department of the Interior, to be administered under direction and supervision of Secretary of the Interior through such agency or agencies in Department of the Interior as Secretary shall designate, by 1940 Reorg. Plan No. IV, § 6, eff. June 30, 1940, set out in the Appendix to Title 5, Government Organization and Employees. See, also, sections 13 to 15 of said plan for provisions relating to transfer of functions of department heads, records, property, personnel, and funds.
 
@@ -211,7 +211,7 @@ Section was enacted as part of the Agricultural Act of 1970 as added by the Agri
 1995—Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission” in subsecs. (a), (c), and (d), “Board” for “Commission” wherever appearing in subsecs. (a) and (b), and “Board’s” for “Commission’s” in subsec. (b).
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 
 <a id="section-1301a"></a>
@@ -391,7 +391,7 @@ Section, act Feb. 16, 1938, ch. 30, title II, § 204, 52 Stat. 38, which provide
 ### Statutory Notes
 
 #### References in Text
-Emergency Price Control Act of 1942, referred to in subsec. (a)(1)(B), was act Jan. 30, 1942, ch. 26, 56 Stat. 23, as amended, which was classified to section 901 et seq. of Title 50, Appendix, War and National Defense, and which terminated June 30, 1947.
+The Emergency Price Control Act of 1942, referred to in subsec. (a)(1)(B), was act Jan. 30, 1942, ch. 26, 56 Stat. 23, which was classified to section 901 et seq. of the former Appendix to Title 50, War and National Defense, and which terminated June 30, 1947.
 
 For effective date of the Agricultural Act of 1948, referred to in subsec. (a)(1)(E)(i), see Effective Date of 1948 Amendment note set out under [section 624 of this title](./chapter-026-agricultural-adjustment.md#section-624) with reference to title I of said act, and Effective Date of 1948 Amendment note set out below with reference to titles II and III of said Act.
 
@@ -706,7 +706,7 @@ The Farm Security and Rural Investment Act of 2002, referred to in subsec. (b)(2
 
 The Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(2)(C), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title II of the Act enacted, amended, and repealed numerous sections and provisions set out as notes in this title, Title 16, Conservation, and Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701) and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (b)(2)(C), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act, popularly known as the “Sodbuster Law”, is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+The Food Security Act of 1985, referred to in subsec. (b)(2)(C), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -959,7 +959,7 @@ Pars. (1) and (2) of [section 1308–3a(b) of this title](https://uscode.house.g
 
 The Food, Conservation, and Energy Act of 2008, referred to in subsec. (f)(5)(A), (6)(A), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§ 8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701) and Tables.
 
-Title XII of this Act, referred to in subsec. (f)(5)(A), (6)(A), means title XII of the Food Security Act of 1985, Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1504, popularly known as the Sodbuster Law, which is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation.
+Title XII of this Act, referred to in subsec. (f)(5)(A), (6)(A), means title XII of the Food Security Act of 1985, Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1504, which is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -1305,7 +1305,7 @@ The Agricultural Market Transition Act, referred to in subsec. (a), is title I o
 
 The Commodity Credit Corporation Charter Act, referred to in subsec. (a), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 714 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714&num=0&edition=prelim) and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (a), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act, popularly known as the “Sodbuster Law”, is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. Subtitle D of title XII of the Act is classified generally to subchapter IV (§ 3830 et seq.) of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+The Food Security Act of 1985, referred to in subsec. (a), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. Subtitle D of title XII of the Act is classified generally to subchapter IV (§ 3830 et seq.) of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -1369,7 +1369,7 @@ Section effective beginning with 1991 crop of an agricultural commodity, with pr
 ### Statutory Notes
 
 #### References in Text
-Title XII, referred to in subsec. (a), is title XII of the Food Security Act of 1985, Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1504, as amended, popularly known as the “Sodbuster Law”, which is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. For complete classification of title XII to the Code, see Tables.
+Title XII, referred to in subsec. (a), is title XII of the Food Security Act of 1985, Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1504, which is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. For complete classification of title XII to the Code, see Tables.
 
 #### Codification
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.

@@ -843,7 +843,7 @@ Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an
 
 (5) On artificially carbonated wines, $3.30 per wine gallon; and
 
-(6) On hard cider which is a still wine derived primarily from apples or apple concentrate and water, containing no other fruit product, and containing at least one-half of 1 percent and less than 7 percent alcohol by volume, 22.6 cents per wine gallon.
+(6) On hard cider, 22.6 cents per wine gallon.
 
 **(c) Credit for small domestic producers**
 
@@ -882,12 +882,34 @@ Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an
 
 **(f) Illegally produced wine** Notwithstanding subsection (a), any wine produced in the United States at any place other than the bonded premises provided for in this chapter shall (except as provided in section 5042 in the case of tax-free production) be subject to tax at the rate prescribed in subsection (b) at the time of production and whether or not removed for consumption or sale.
 
+**(g) Hard cider** For purposes of subsection (b)(6), the term “hard cider” means a wine—
+
+(1) containing not more than 0.64 gram of carbon dioxide per hundred milliliters of wine, except that the Secretary may by regulations prescribe such tolerances to this limitation as may be reasonably necessary in good commercial practice,
+
+(2) which is derived primarily—
+
+  (A) from apples or pears, or
+
+  (B) from—
+
+    (i) apple juice concentrate or pear juice concentrate, and
+
+    (ii) water,
+
+(3) which contains no fruit product or fruit flavoring other than apple or pear, and
+
+(4) which contains at least one-half of 1 percent and less than 8.5 percent alcohol by volume.
+
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 5041, acts Aug. 16, 1954, ch. 736, 68A Stat. 609; Mar. 30, 1955, ch. 18, § 3(a)(7), 69 Stat. 14; Mar. 29, 1956, ch. 115, § 3(a)(7), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, § 3(a)(5), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, § 3(a)(5), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
+2015—Subsec. (b)(6). Pub. L. 114–113, § 335(a)(1), struck out “which is a still wine derived primarily from apples or apple concentrate and water, containing no other fruit product, and containing at least one-half of 1 percent and less than 7 percent alcohol by volume” after “hard cider”.
+
+Subsec. (g). Pub. L. 114–113, § 335(a)(2), added subsec. (g).
+
 1998—Subsec. (b)(6). Pub. L. 105–206 inserted “which is a still wine” after “hard cider”.
 
 1997—Subsec. (b)(6). Pub. L. 105–34, § 908(a), added par. (6).
@@ -929,6 +951,9 @@ Subsec. (b). Pub. L. 89–44, § 501(c)(1)–(5), struck out provisions at end o
 1960—Subsec. (b). Pub. L. 86–564 substituted “July 1, 1961” for “July 1, 1960” in five places.
 
 1959—Subsec. (b). Pub. L. 86–75 substituted “July 1, 1960” for “July 1, 1959” in five places.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title III, § 335(b), Dec. 18, 2015, 129 Stat. 3109, provided that: “The amendments made by this section [amending this section] shall apply to hard cider removed during calendar years beginning after December 31, 2016.”
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -1420,9 +1445,17 @@ shall be immediately due and payable at the time provided by such provisions (or
 
 (4) **Taxpayers liable for taxes of not more than $50,000**
 
-  (A) *In general* — In the case of any taxpayer who reasonably expects to be liable for not more than $50,000 in taxes imposed with respect to distilled spirits, wines, and beer under subparts A, C, and D and section 7652 for the calendar year and who was liable for not more than $50,000 in such taxes in the preceding calendar year, the last day for the payment of tax on withdrawals, removals, and entries (and articles brought into the United States from Puerto Rico) under bond for deferred payment shall be the 14th day after the last day of the calendar quarter during which the action giving rise to the imposition of such tax occurs.
+  (A) *In general*
 
-  (B) *No application after limit exceeded* — Subparagraph (A) shall not apply to any taxpayer for any portion of the calendar year following the first date on which the aggregate amount of tax due under subparts A, C, and D and section 7652 from such taxpayer during such calendar year exceeds $50,000, and any tax under such subparts which has not been paid on such date shall be due on the 14th day after the last day of the semimonthly period in which such date occurs.
+    (i) *More than $1,000 and not more than $50,000 in taxes* — Except as provided in clause (ii), in the case of any taxpayer who reasonably expects to be liable for not more than $50,000 in taxes imposed with respect to distilled spirits, wines, and beer under subparts A, C, and D and section 7652 for the calendar year and who was liable for not more than $50,000 in such taxes in the preceding calendar year, the last day for the payment of tax on withdrawals, removals, and entries (and articles brought into the United States from Puerto Rico) shall be the 14th day after the last day of the calendar quarter during which the action giving rise to the imposition of such tax occurs.
+
+    (ii) *Not more than $1,000 in taxes* — In the case of any taxpayer who reasonably expects to be liable for not more than $1,000 in taxes imposed with respect to distilled spirits, wines, and beer under subparts A, C, and D and section 7652 for the calendar year and who was liable for not more than $1,000 in such taxes in the preceding calendar year, the last day for the payment of tax on withdrawals, removals, and entries (and articles brought into the United States from Puerto Rico) shall be the 14th day after the last day of the calendar year.
+
+  (B) *No application after limit exceeded*
+
+    (i) *Exceeds $50,000 limit* — Subparagraph (A)(i) shall not apply to any taxpayer for any portion of the calendar year following the first date on which the aggregate amount of tax due under subparts A, C, and D and section 7652 from such taxpayer during such calendar year exceeds $50,000, and any tax under such subparts which has not been paid on such date shall be due on the 14th day after the last day of the semimonthly period in which such date occurs.
+
+    (ii) *Exceeds $1,000 limit* — Subparagraph (A)(ii) shall not apply to any taxpayer for any portion of the calendar year following the first date on which the aggregate amount of tax due under subparts A, C, and D and section 7652 from such taxpayer during such calendar year exceeds $1,000, and any tax under such subparts which has not been paid on such date shall be due on the 14th day after the last day of the calendar quarter in which such date occurs.
 
   (C) *Calendar quarter* — For purposes of this paragraph, the term “calendar quarter” means the three-month period ending on March 31, June 30, September 30, or December 31.
 
@@ -1456,6 +1489,10 @@ A prior section 5061, act Aug. 16, 1954, ch. 736, 68A Stat. 614, consisted of pr
 Provisions similar to those comprising subsec. (d) of this section were contained in former section 5001(c), act Aug. 16, 1954, ch. 736, 68A Stat. 597, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
+2015—Subsec. (d)(4)(A). Pub. L. 114–113, § 332(a)(1), designated existing provisions as cl. (i), inserted heading, substituted “Except as provided in clause (ii), in the case of” for “In the case of”, struck out “under bond for deferred payment” before “shall be the 14th day”, and added cl. (ii).
+
+Subsec. (d)(4)(B). Pub. L. 114–113, § 332(a)(2), designated existing provisions as cl. (i), inserted heading, substituted “Subparagraph (A)(i)” for “Subparagraph (A)”, and added cl. (ii).
+
 2005—Subsec. (d)(4) to (6). Pub. L. 109–59 added par. (4), redesignated former pars. (4) and (5) as (5) and (6), respectively, and in par. (6) substituted “paragraph (5)” for “paragraph (4)”.
 
 1996—Subsec. (b)(3). Pub. L. 104–188 substituted “section 5041(f),” for “section 5041(e),”.
@@ -1489,6 +1526,9 @@ Subsec. (b). Pub. L. 94–455, § 1905(a)(6)(B), substituted the exceptions prov
 Subsec. (c). Pub. L. 94–455, § 1905(a)(6)(C), substituted the import duties provision for provision respecting applicability of other provisions of law and reading “All administrative and penalty provisions of this title, insofar as applicable, shall apply to the collection of any tax which the Secretary or his delegate determines or prescribes shall be collected in any manner provided in this section.”
 
 Subsec. (d). Pub. L. 94–455, § 1905(b)(2)(E)(iii), struck out subsec. (d) which provided cross reference to section 5689 for penalty and forfeiture for tampering with a stamp machine.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title III, § 332(c), Dec. 18, 2015, 129 Stat. 3106, provided that: “The amendments made by this section [amending this section and sections 5173, 5351, 5401, and 5551 of this title] shall apply to any calendar quarters beginning more than 1 year after the date of the enactment of this Act [Dec. 18, 2015].”
 
 #### Effective Date of 2005 Amendment
 Pub. L. 109–59, title XI, § 11127(c), Aug. 10, 2005, 119 Stat. 1959, provided that: “The amendments made by this section [amending this section] shall apply with respect to quarterly periods beginning on and after January 1, 2006.”
@@ -2302,9 +2342,9 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 ## § 5173. Bonds
 **(a) Operations at, and withdrawals from, distilled spirits plant must be covered by bond**
 
-(1) **Operations** — No person intending to establish a distilled spirits plant may commence operations at such plant unless such person has furnished bond covering operations at such plant.
+(1) **Operations** — Except as provided under section 5551(d), no person intending to establish a distilled spirits plant may commence operations at such plant unless such person has furnished bond covering operations at such plant.
 
-(2) **Withdrawals** — No distilled spirits (other than distilled spirits withdrawn under section 5214 or 7510) may be withdrawn from bonded premises except on payment of tax unless the proprietor of the bonded premises has furnished bond covering such withdrawal.
+(2) **Withdrawals** — Except as provided under section 5551(d), no distilled spirits (other than distilled spirits withdrawn under section 5214 or 7510) may be withdrawn from bonded premises except on payment of tax unless the proprietor of the bonded premises has furnished bond covering such withdrawal.
 
 **(b) Operations bonds** The bond required by paragraph (1) of subsection (a) shall meet the requirements of paragraph (1), (2), or (3) of this subsection:
 
@@ -2372,6 +2412,10 @@ Provisions similar to those comprising subsecs. (a), (b), (b)(1), (b)(1)(A) to (
 The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 627, 629 to 631, 643, 650, 654, 655, 657, 662.
 
 #### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–113, § 332(b)(2)(A)(i), substituted “Except as provided under section 5551(d), no person” for “No person”.
+
+Subsec. (a)(2). Pub. L. 114–113, § 332(b)(2)(A)(ii), substituted “Except as provided under section 5551(d), no distilled spirits” for “No distilled spirits”.
+
 1979—Pub. L. 96–39, among other changes, struck out provisions relating to liens on distillery property and the furnishing of indemnity bonds as methods of securing tax payments and inserted provisions relating to the one plant operations bond, which will cover the operations at a bonded wine cellar which is adjacent to the distilled spirits plant and operated by the same person.
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
@@ -2381,6 +2425,9 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 627, 62
 Subsec. (b)(2). Pub. L. 91–659, § 4(c), inserted reference to par. (4).
 
 Subsec. (b)(4). Pub. L. 91–659, § 4(a), added par. (4).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–113 applicable to any calendar quarters beginning more than 1 year after Dec. 18, 2015, see section 332(c) of Pub. L. 114–113, set out as a note under [section 5061 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5061).
 
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under [section 5001 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5001).
@@ -4025,8 +4072,13 @@ Repeal effective on first day of first month which begins more than 90 days afte
 
 <a id="section-5351"></a>
 ## § 5351. Bonded wine cellar
+**(a) In general** Any person establishing premises for the production, blending, cellar treatment, storage, bottling, packaging, or repackaging of untaxpaid wine (other than wine produced exempt from tax under section 5042), including the use of wine spirits in wine production, shall, before commencing operations, make application to the Secretary and, except as provided under section 5551(d), file bond and receive permission to operate.
 
-Any person establishing premises for the production, blending, cellar treatment, storage, bottling, packaging, or repackaging of untaxpaid wine (other than wine produced exempt from tax under section 5042), including the use of wine spirits in wine production, shall, before commencing operations, make application to the Secretary and file bond and receive permission to operate. Such premises shall be known as “bonded wine cellars”; except that any such premises engaging in production operations may, in the discretion of the Secretary, be designated as a “bonded winery”.
+**(b) Definitions** For purposes of this chapter—
+
+(1) **Bonded wine cellar** — The term “bonded wine cellar” means any premises described in subsection (a), including any such premises established by a taxpayer described in section 5551(d).
+
+(2) **Bonded winery** — At the discretion of the Secretary, any bonded wine cellar that engages in production operations may be designated as a “bonded winery”.
 
 ### Statutory Notes
 
@@ -4034,7 +4086,12 @@ Any person establishing premises for the production, blending, cellar treatment,
 A prior section 5351, act Aug. 16, 1954, ch. 736, 68A Stat. 663, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
+2015—Pub. L. 114–113 designated existing provisions as subsec. (a), inserted heading, inserted “, except as provided under section 5551(d),” before “file bond”, struck out “Such premises shall be known as ‘bonded wine cellars’; except that any such premises engaging in production operations may, in the discretion of the Secretary, be designated as a ‘bonded winery’.” at end, and added subsec. (b).
+
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–113 applicable to any calendar quarters beginning more than 1 year after Dec. 18, 2015, see section 332(c) of Pub. L. 114–113, set out as a note under [section 5061 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5061).
 
 #### Effective Date
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under [section 5001 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5001).
@@ -4840,15 +4897,22 @@ Amendment by Pub. L. 89–44 effective Jan. 1, 1966, see section 806(d)(2) of Pu
 
 **(b) Bonds** Every brewer, on filing notice as provided by subsection (a) of his intention to commence business, shall execute a bond to the United States in such reasonable penal sum as the Secretary shall by regulation prescribe as necessary to protect and insure collection of the revenue. The bond shall be conditioned (1) that the brewer shall pay, or cause to be paid, as herein provided, the tax required by law on all beer, including all beer removed for transfer to the brewery from other breweries owned by him as provided in section 5414; (2) that he shall pay or cause to be paid the tax on all beer removed free of tax for export as provided in section 5053(a), which beer is not exported or returned to the brewery; and (3) that he shall in all respects faithfully comply, without fraud or evasion, with all requirements of law relating to the production and sale of any beer aforesaid. Once in every 4 years, or whenever required so to do by the Secretary, the brewer shall execute a new bond or a continuation certificate, in the penal sum prescribed in pursuance of this section, and conditioned as above provided, which bond or continuation certificate shall be in lieu of any former bond or bonds, or former continuation certificate or certificates, of such brewer in respect to all liabilities accruing after its approval. If the contract of surety between the brewer and the surety on an expiring bond or continuation certificate is continued in force between the parties for a succeeding period of not less than 4 years, the brewer may submit, in lieu of a new bond, a certificate executed, under penalties of perjury, by the brewer and the surety attesting to continuation of the bond, which certificate shall constitute a bond subject to all provisions of law applicable to bonds given pursuant to this section.
 
+**(c) Exception from bond requirements for certain breweries** Subsection (b) shall not apply to any taxpayer for any period described in section 5551(d).
+
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 5401, act Aug. 16, 1954, ch. 736, 68A Stat. 674, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
+2015—Subsec. (c). Pub. L. 114–113 added subsec. (c).
+
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
 1971—Subsec. (b). Pub. L. 91–673 permitted bonding requirement to be satisfied by continuation of an existing bond, with such continuation being subject to Government approval in the same manner as a new bond and required that the continuation certificate be executed by both the brewer and the surety, under penalties of perjury.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–113 applicable to any calendar quarters beginning more than 1 year after Dec. 18, 2015, see section 332(c) of Pub. L. 114–113, set out as a note under [section 5061 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5061).
 
 #### Effective Date of 1971 Amendment
 Amendment by Pub. L. 91–673 effective on first day of first calendar month which begins more than 90 days after Jan. 12, 1971, see section 5 of Pub. L. 91–673, set out as a note under [section 5056 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5056).
@@ -5192,7 +5256,7 @@ Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an
 
 <a id="section-5551"></a>
 ## § 5551. General provisions relating to bonds
-**(a) Approval as condition to commencing business** No individual, firm, partnership, corporation, or association, intending to commence or to continue the business of a distiller, warehouseman, processor, brewer, or winemaker, shall commence or continue the business of a distiller, warehouseman, processor, brewer, or winemaker until all bonds in respect of such a business, required by any provision of law, have been approved by the Secretary of the Treasury or the officer designated by him.
+**(a) Approval as condition to commencing business** Except as provided under subsection (d), no individual, firm, partnership, corporation, or association, intending to commence or to continue the business of a distiller, warehouseman, processor, brewer, or winemaker, shall commence or continue the business of a distiller, warehouseman, processor, brewer, or winemaker until all bonds in respect of such a business, required by any provision of law, have been approved by the Secretary of the Treasury or the officer designated by him.
 
 **(b) Disapproval** The Secretary of the Treasury or any officer designated by him may disapprove any such bond or bonds if the individual, firm, partnership, or corporation, or association giving such bond or bonds, or owning, controlling, or actively participating in the management of the business of the individual, firm, partnership, corporation, or association giving such bond or bonds, shall have been previously convicted, in a court of competent jurisdiction, of—
 
@@ -5202,6 +5266,12 @@ Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an
 
 **(c) Appeal from disapproval** In case the disapproval is by an officer designated by the Secretary of the Treasury to approve or disapprove such bonds, the individual, firm, partnership, corporation, or association giving the bond may appeal from such disapproval to the Secretary of the Treasury or an officer designated by him to hear such appeals, and the disapproval of the bond by the Secretary of the Treasury or officer designated to hear such appeals shall be final.
 
+**(d) Removal of bond requirements**
+
+(1) **In general** — During any period to which subparagraph (A) of section 5061(d)(4) applies to a taxpayer (determined after application of subparagraph (B) thereof), such taxpayer shall not be required to furnish any bond covering operations or withdrawals of distilled spirits or wines for nonindustrial use or of beer.
+
+(2) **Satisfaction of bond requirements** — Any taxpayer for any period described in paragraph (1) shall be treated as if sufficient bond has been furnished for purposes of covering operations and withdrawals of distilled spirits or wines for nonindustrial use or of beer for purposes of any requirements relating to bonds under this chapter.
+
 ### Statutory Notes
 
 #### Prior Provisions
@@ -5210,6 +5280,10 @@ A prior section 5551, act Aug. 16, 1954, ch. 736, 68A Stat. 680, consisted of pr
 Provisions similar to those comprising subsec. (c) of this section were contained in prior section 5177(c), act Aug. 16, 1954, ch. 736, 68A Stat. 630, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–113, § 332(b)(1)(A), substituted “Except as provided under subsection (d), no individual” for “No individual”.
+
+Subsec. (d). Pub. L. 114–113, § 332(b)(1)(B), added subsec. (d).
+
 1979—Subsec. (a). Pub. L. 96–39 substituted “warehouseman, processor” for “bonded warehouseman, rectifier” in two places.
 
 1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary”.
@@ -5217,6 +5291,9 @@ Provisions similar to those comprising subsec. (c) of this section were containe
 Subsec. (b). Pub. L. 94–455, §§ 1905(c)(5), 1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary” in provisions preceding par. (1) and struck out “Territory, or” after “State,” in par. (2).
 
 Subsec. (c). Pub. L. 94–455, § 1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–113 applicable to any calendar quarters beginning more than 1 year after Dec. 18, 2015, see section 332(c) of Pub. L. 114–113, set out as a note under [section 5061 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5061).
 
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under [section 5001 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5001).

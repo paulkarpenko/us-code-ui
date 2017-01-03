@@ -250,11 +250,13 @@ The General Schedule, referred to in subsec. (b), is set out under [section 5332
 <a id="section-1743"></a>
 ## § 1743. Authorization of appropriations
 
-There are authorized to be appropriated to the Librarian for the first fiscal year beginning on or after November 9, 2000, and each succeeding fiscal year through fiscal year 2016 such sums as may be necessary to carry out this chapter, except that the amount authorized for any fiscal year may not exceed $250,000.
+There are authorized to be appropriated to the Librarian for the first fiscal year beginning on or after November 9, 2000, and each succeeding fiscal year through fiscal year 2026 such sums as may be necessary to carry out this chapter, except that the amount authorized for any fiscal year may not exceed $250,000.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Pub. L. 114–217 substituted “through fiscal year 2026” for “through fiscal year 2016”.
+
 2008—Pub. L. 110–336 substituted “for the first fiscal year beginning on or after November 9, 2000, and each succeeding fiscal year through fiscal year 2016” for “for each of the first 7 fiscal years beginning on or after November 9, 2000,”.
 
 #### Effective Date of 2008 Amendment

@@ -94,12 +94,19 @@ Section effective at end of ninety-day period beginning on Sept. 30, 1978, see s
 
 <a id="section-254c"></a>
 ## § 254c. Extension of more favorable or less favorable treatment than provided under Vienna Convention; authority of President
+**(a) In general** The President may, on the basis of reciprocity and under such terms and conditions as he may determine, specify privileges and immunities for the mission, the members of the mission, their families, and the diplomatic couriers which result in more favorable treatment or less favorable treatment than is provided under the Vienna Convention.
 
-The President may, on the basis of reciprocity and under such terms and conditions as he may determine, specify privileges and immunities for the mission, the members of the mission, their families, and the diplomatic couriers which result in more favorable treatment or less favorable treatment than is provided under the Vienna Convention.
+**(b) Consular immunity**
+
+(1) **In general** — The Secretary of State, with the concurrence of the Attorney General, may, on the basis of reciprocity and under such terms and conditions as the Secretary may determine, specify privileges and immunities for a consular post, the members of a consular post, and their families which result in more favorable or less favorable treatment than is provided in the Vienna Convention on Consular Relations, of April 24, 1963 (T.I.A.S. 6820), entered into force for the United States on December 24, 1969.
+
+(2) **Consultation** — Before exercising the authority under paragraph (1), the Secretary of State shall consult with the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate regarding the circumstances that may warrant the need for privileges and immunities providing more favorable or less favorable treatment than is provided in the Vienna Convention.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Pub. L. 114–323 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
 1982—Pub. L. 97–241 substituted “immunities for the mission, the members” for “immunities for members” and “diplomatic couriers which” for “diplomatic couriers of any sending state which”.
 
 #### Effective Date of 1982 Amendment

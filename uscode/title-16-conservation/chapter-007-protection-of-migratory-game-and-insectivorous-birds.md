@@ -151,6 +151,9 @@ Pub. L. 93–300, § 3, June 1, 1974, 88 Stat. 190, provided that: “The amendm
 #### Effective Date of 1936 Amendment
 Act June 20, 1936, ch. 634, § 3, 49 Stat. 1556, provided in part that the amendment by section 3 is effective as of the day aforesaid, meaning the day on which the President shall proclaim the exchange of ratifications of the convention between the United States and the United Mexican States for the protection of migratory birds and game mammals concluded Feb. 7, 1936, or on June 20, 1936, whichever date is later. Such proclamation was made on June 30, 1937. See section 1 of act June 20, 1936, ch. 634, 49 Stat. 1555.
 
+#### Elimination of Barriers To Improve At-Risk Bridges
+Pub. L. 114–94, div. A, title I, § 1439, Dec. 4, 2015, 129 Stat. 1433, provided that: “(a) Temporary Authorization.—“(1) In general.—Until the Secretary of the Interior takes the action described in subsection (b), the take of nesting swallows to facilitate a construction project on a bridge eligible for funding under title 23, United States Code, with any component condition rating of 3 or less (as defined by the National Bridge Inventory General Condition Guidance issued by the Federal Highway Administration) is authorized under the Migratory Bird Treaty Act ([16 U.S.C. 703](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-703) et seq.) between April 1 and August 31. “(2) Measures to minimize impacts.—“(A) Notification before taking.—Prior to the taking of nesting swallows authorized under paragraph (1), any person taking that action shall submit to the Secretary of the Interior a document that contains—“(i) the name of the person acting under the authority of paragraph (1) to take nesting swallows; “(ii) a list of practicable measures that will be undertaken to minimize or mitigate significant adverse impacts on the population of that species; “(iii) the time period during which activities will be carried out that will result in the taking of that species; and “(iv) an estimate of the number of birds, by species, to be taken in the proposed action. “(B) Notification after taking.—Not later than 60 days after the taking of nesting swallows authorized under paragraph (1), any person taking that action shall submit to the Secretary of the Interior a document that contains the number of birds, by species, taken in the action. “(b) Authorization of Take.—“(1) In general.—The Secretary of the Interior, in consultation with the Secretary [of Transportation], shall promulgate a regulation under the authority of section 3 of the Migratory Bird Treaty Act ([16 U.S.C. 704](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-704)) authorizing the take of nesting swallows to facilitate bridge repair, maintenance, or construction—“(A) without individual permit requirements; and “(B) under terms and conditions determined to be consistent with treaties relating to migratory birds that protect swallow species occurring in the United States. “(2) Termination.—On the effective date of a final rule [promulgated] under this subsection by the Secretary of the Interior, subsection (a) shall have no force or effect. “(c) Suspension or Withdrawal of Take Authorization.—If the Secretary of the Interior, in consultation with the Secretary [of Transportation], determines that taking of nesting swallows carried out under the authority provided in subsection (a)(1) is having a significant adverse impact on swallow populations, the Secretary of the Interior may suspend that authority through publication in the Federal Register.”
+
 #### Publication of List
 Pub. L. 108–447, div. E, title I, § 143(c), Dec. 8, 2004, 118 Stat. 3072, provided that: “(1) In general.—Not later than 90 days after the date of enactment of this section [Dec. 8, 2004], the Secretary of the Interior shall publish in the Federal Register a list of all nonnative, human-introduced bird species to which the Migratory Bird Treaty Act ([16 U.S.C. 703](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-703) et seq.) does not apply. As necessary, the Secretary may update and publish the list of species exempted from protection of the Migratory Bird Treaty Act. “(2) Public comment.—Before publishing the list under paragraph (1), the Secretary shall provide adequate time for public comment. “(3) Effect of section.—Nothing in this subsection shall delay implementation of other provisions of this section [amending this section and enacting provisions set out as notes under this section and [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710)] or amendments made by this section that exclude nonnative, human-introduced bird species from the application of the Migratory Bird Treaty Act ([16 U.S.C. 703](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-703) et seq.).”
 
@@ -380,12 +383,14 @@ Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organ
 
 
 <a id="section-715b"></a>
-## § 715b. Omitted
+## § 715b. Annual report
+
+The commission created by [section 715a of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715a) shall, through its chairman, annually report in detail to Congress, not later than the first Monday in December, the operations of the commission during the preceding fiscal year.
 
 ### Statutory Notes
 
-#### Codification
-Section, act Feb. 18, 1929, ch. 257, § 3, 45 Stat. 1223, which required the commission created by [section 715a of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715a), through its chairman, to annually report in detail to Congress on operations of the commission, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, page 177 of House Document No. 103–7.
+#### Termination of Reporting Requirements
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under this section is listed on page 177), see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance.
 
 
 <a id="section-715c"></a>
@@ -735,11 +740,11 @@ If any provision of this subchapter or the application thereof to any person or 
 
   (C) Payments received by units of local government under this subsection may be used by such units for any governmental purpose.
 
-**(d) Authorization of appropriations equal to difference between amount of net receipts and aggregate amount of required payments** If the net receipts in the fund which are attributable to revenue collections for any fiscal year do not equal the aggregate amount of payments required to be made for such fiscal year under subsection (c) of this section to counties, there are authorized to be appropriated to the fund an amount equal to the difference between the total amount of net receipts and such aggregate amount of payments.
+**(d) Authorization of appropriations equal to difference between amount of net receipts and aggregate amount of required payments** If the net receipts in the fund which are attributable to revenue collections for any fiscal year do not equal the aggregate amount of payments required to be made for such fiscal year under subsection (c) to counties, there are authorized to be appropriated to the fund an amount equal to the difference between the total amount of net receipts and such aggregate amount of payments.
 
-**(e) Transfer and use of excess of net receipts over aggregate amount of required payments** If the net receipts in the fund which are attributable to revenue collections for any fiscal year exceed the aggregate amount of payments required to be made for such fiscal year under subsection (c) of this section to counties, the amount of such excess shall be transferred to the Migratory Bird Conservation Fund for use in the acquisition of suitable areas for migratory bird refuges under the provisions of the Migratory Bird Conservation Act ([16 U.S.C. 715–715r](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section715–715r&num=0&edition=prelim)).
+**(e) Transfer and use of excess of net receipts over aggregate amount of required payments** If the net receipts in the fund which are attributable to revenue collections for any fiscal year exceed the aggregate amount of payments required to be made for such fiscal year under subsection (c) to counties, the amount of such excess shall be transferred to the Migratory Bird Conservation Fund for use in the acquisition of suitable areas for migratory bird refuges under the provisions of the Migratory Bird Conservation Act ([16 U.S.C. 715–715r](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section715–715r&num=0&edition=prelim)).
 
-**(f) Terms, conditions, and regulations for execution of revenue producing activities; disposal of animals** The Secretary shall carry out any revenue producing activity referred to in subsection (a)(1), (2), and (3) of this section within any fee area or reserve area subject to such terms, conditions, or regulations, including sales in the open markets, as the Secretary determines to be in the best interest of the United States. The Secretary may, in accordance with such regulations as the Secretary may prescribe, dispose of animals which are surplus to any such area by exchange of the same or other kinds, gift or loan to public institutions for exhibition or propagation purposes, and for the advancement of knowledge and the dissemination of information relating to the conservation of wildlife.
+**(f) Terms, conditions, and regulations for execution of revenue producing activities; disposal of animals** The Secretary shall carry out any revenue producing activity referred to in subsection (a)(1), (2), and (3) within any fee area or reserve area subject to such terms, conditions, or regulations, including sales in the open markets, as the Secretary determines to be in the best interest of the United States. The Secretary may, in accordance with such regulations as the Secretary may prescribe, dispose of animals which are surplus to any such area by exchange of the same or other kinds, gift or loan to public institutions for exhibition or propagation purposes, and for the advancement of knowledge and the dissemination of information relating to the conservation of wildlife.
 
 **(g) Definitions** As used in this section—
 
@@ -778,7 +783,7 @@ Subsec. (d). Pub. L. 95–469, § 1(a)(3), substituted provision for authorizati
 
 Subsec. (e). Pub. L. 95–469, § 1(a)(3), in revising subsec. (e), substituted provision authorizing use of surplus funds for acquisition of suitable areas for migratory bird refuges for prior provision making remaining funds available for such land acquisition and eliminated provision prohibiting funds available for the Management of the National Wildlife Refuge System or for enforcement of the Migratory Bird Treaty Act from being diminished by the amendments made by Pub. L. 93–509 to this subsection unless by specific congressional enactment.
 
-Subsec. (f). Pub. L. 95–469, § 1(a)(3), substituted “The Secretary shall carry out any revenue producing activity referred to in subsection (a)(1), (2), and (3) of this section within any fee area or reserve area subject to such terms, conditions, or regulations, including sales in the open markets, as the Secretary determines to be in the best interest of the United States.” for “The disposition or sale of surplus animals, minerals, and other products, the grant of privileges, and the carrying out of any other activities that result in the collection of revenues within any areas of the System may be accomplished upon such terms, conditions, or regulations, including sale in the open markets, as the Secretary shall determine to be in the best interest of the United States.” and reenacted substance of second sentence, setting out provision for regulations at beginning rather than end of sentence.
+Subsec. (f). Pub. L. 95–469, § 1(a)(3), substituted “The Secretary shall carry out any revenue producing activity referred to in subsection (a)(1), (2), and (3) within any fee area or reserve area subject to such terms, conditions, or regulations, including sales in the open markets, as the Secretary determines to be in the best interest of the United States.” for “The disposition or sale of surplus animals, minerals, and other products, the grant of privileges, and the carrying out of any other activities that result in the collection of revenues within any areas of the System may be accomplished upon such terms, conditions, or regulations, including sale in the open markets, as the Secretary shall determine to be in the best interest of the United States.” and reenacted substance of second sentence, setting out provision for regulations at beginning rather than end of sentence.
 
 Subsec. (g). Pub. L. 95–469, § 1(a)(3), substituted definitions of certain terms for prior provision for supersedure by Pub. L. 88–523 of repealed paragraph of “Management of National Wildlife Refuges” in the General Appropriation Act, 1951, approved Sept. 6, 1950 (64 Stat. 595, 693 to 694).
 
@@ -1037,7 +1042,7 @@ Nothing in this subchapter shall be construed to authorize any person to take an
 
 **(c) Promotion of stamp sales** The Secretary may use funds from the sale of Migratory Bird Hunting and Conservation Stamps, not to exceed $1,000,000 in each of fiscal years 1999, 2000, 2001, 2002, and 2003, for the promotion of additional sales of those stamps, in accordance with a Migratory Bird Conservation Commission approved annual marketing plan. Such promotion shall include the preparation of reports, brochures, or other appropriate materials to be made available to the public that describe the benefits to wildlife derived from stamp sales.
 
-**(d) Annual report** The Secretary shall include in each annual report of the Commission under section 3 11 See References in Text note below. of the Migratory Bird Conservation Act ([16 U.S.C. 715b](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715b))—
+**(d) Annual report** The Secretary shall include in each annual report of the Commission under section 3 of the Migratory Bird Conservation Act ([16 U.S.C. 715b](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715b))—
 
 (1) a description of activities conducted under subsection (c) in the year covered by the report;
 
@@ -1060,7 +1065,7 @@ Nothing in this subchapter shall be construed to authorize any person to take an
 ### Statutory Notes
 
 #### References in Text
-The Migratory Bird Conservation Act, referred to in subsecs. (b)(2), (3) and (d), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. Section 3 of the Act was classified to [section 715b of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715b) and was omitted from the Code. For complete classification of this Act to the Code, see [section 715 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) and Tables.
+The Migratory Bird Conservation Act, referred to in subsec. (b)(2), (3), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 715 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) and Tables.
 
 #### Amendments
 2014—Subsec. (a)(3). Pub. L. 113–264, § 2(3)(A), inserted before period at end “, in which there shall be a subaccount to which the Secretary of the Treasury shall transfer all amounts in excess of $15 that are received from the sale of each stamp sold for each hunting year after hunting year 2013”.
@@ -1126,7 +1131,7 @@ Transfer of functions of Secretary of Agriculture to Secretary of the Interior b
 
 **(b) Alteration** Except as provided in clauses (i) and (ii) of section 504(l)(D) 11 So in original. Probably should be “504(1)(D)”. of title 18, no person shall alter, mutilate, imitate, or counterfeit any stamp authorized by this subchapter, or imitate or counterfeit any die, plate, or engraving therefor, or make, print, or knowingly use, sell, or have in his possession any such counterfeit, die, plate, or engraving.
 
-**(c) Reproduction** Notwithstanding the provisions of subsection (b) of this section, or the prohibition in [section 474 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section474&num=0&edition=prelim), or other provisions of law, the Secretary may authorize, with the concurrence of the Secretary of the Treasury,
+**(c) Reproduction** Notwithstanding the provisions of subsection (b), or the prohibition in [section 474 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section474&num=0&edition=prelim), or other provisions of law, the Secretary may authorize, with the concurrence of the Secretary of the Treasury,
 
 (1) the color reproduction, or
 
@@ -1278,7 +1283,7 @@ On and after October 21, 1998, all fees collected for Federal migratory bird per
 
 In this subchapter:
 
-(1) **Actual stamp** — The term “actual stamp” means a Federal migratory-bird hunting and conservation stamp required under the Act of March 16, 1934 ([16 U.S.C. 718a](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-718a) 11 See References in Text note below. et seq.) (popularly known as the “Duck Stamp Act”), that is printed on paper and sold through the means established by the authority of the Secretary immediately before December 18, 2014.
+(1) **Actual stamp** — The term “actual stamp” means a Federal migratory-bird hunting and conservation stamp required under the Act of March 16, 1934 ([16 U.S.C. 718a](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-718a) et seq.) (popularly known as the “Duck Stamp Act”), that is printed on paper and sold through the means established by the authority of the Secretary immediately before December 18, 2014.
 
 (2) **Automated licensing system**
 
@@ -1447,19 +1452,19 @@ Pub. L. 103–340, § 1, Oct. 6, 1994, 108 Stat. 3119, provided that: “This Ac
 
 (1) solicit the submission by students at elementary and secondary schools of designs relating to conservation of migratory birds; and
 
-(2) select winning designs from among those submissions for use for licensing and marketing under subsection (b) of this section.
+(2) select winning designs from among those submissions for use for licensing and marketing under subsection (b).
 
 **(b) Licensing and marketing of design of Junior Duck Stamps** As part of the Program, the Secretary may—
 
-(1) license and market winning designs selected in competitions under subsection (a) of this section; and
+(1) license and market winning designs selected in competitions under subsection (a); and
 
 (2) license and market stamps bearing those designs, which shall be known as Junior Duck Stamps.
 
-**(c) Use of proceeds** Amounts received under subsection (b) of this section—
+**(c) Use of proceeds** Amounts received under subsection (b)—
 
 (1) 11 So in original. Subsec. (c), as amended by Pub. L. 109–166, does not contain a par. (2). shall be available to the Secretary until expended, without further appropriations, solely for—
 
-  (A) awards, prizes, and scholarships to individuals who submit designs in competitions under subsection (a) of this section, that are—
+  (A) awards, prizes, and scholarships to individuals who submit designs in competitions under subsection (a), that are—
 
     (i) selected in such a competition as winning designs; or
 
@@ -1475,7 +1480,7 @@ Pub. L. 103–340, § 1, Oct. 6, 1994, 108 Stat. 3119, provided that: “This Ac
 
     (ii) the event is intended to honor students for winning a State competition;
 
-  (E) expenses for licensing and marketing under subsection (b) of this section;
+  (E) expenses for licensing and marketing under subsection (b);
 
   (F) expenses for migratory bird reference materials or supplies awarded to schools that participate in the Program; and
 

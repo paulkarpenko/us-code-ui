@@ -61,7 +61,7 @@ Repeal effective Oct. 1, 1978, see section 17 of Pub. L. 95–313, set out as an
 
   (D) a local government entity;
 
-  (E) an Indian tribe (as defined in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim));
+  (E) an Indian tribe (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim));
 
   (F) a State or local ambulance provider; or
 

@@ -38,7 +38,7 @@ source: >-
 
   (B) successfully completes—
 
-    (i) a full tour of duty in a joint assignment, as described in [section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim); or
+    (i) a full tour of duty in a joint assignment, as described in section 664(f) 11 See References in Text note below. of this title; or
 
     (ii) such other assignments and experiences in a manner that demonstrate the officer’s mastery of knowledge, skills, and abilities in joint matters, as determined under such regulations and policy as the Secretary of Defense may prescribe.
 
@@ -46,7 +46,7 @@ source: >-
 
 (3) In the case of an officer in a grade below brigadier general or rear admiral (lower half), a waiver under paragraph (2) may be granted only if—
 
-  (A) the officer has completed two full tours of duty in a joint duty assignment, as described in [section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim), in such a manner as to demonstrate the officer’s mastery of knowledge, skills, and abilities on joint matters; and
+  (A) the officer has completed two full tours of duty in a joint duty assignment, as described in section 664(f) 1 of this title, in such a manner as to demonstrate the officer’s mastery of knowledge, skills, and abilities on joint matters; and
 
   (B) the Secretary of Defense determines that the types of joint duty experiences completed by the officer have been of sufficient breadth to prepare the officer adequately for service as a general or flag officer in a joint duty assignment position.
 
@@ -93,6 +93,9 @@ source: >-
 **(f) Treatment of Certain Service.—** Any service by an officer in the grade of captain or, in the case of the Navy, lieutenant in a joint duty assignment shall be considered to be service in a joint duty assignment for purposes of all laws (including [section 619a of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-619a)) establishing a requirement or condition with respect to an officer’s service in a joint duty assignment.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim), referred to in subsec. (c)(1)(B)(i), (3)(A), was redesignated as [section 664(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/d&num=0&edition=prelim) by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
 
 #### Amendments
 2008—Pub. L. 110–417 amended section catchline generally, substituting “Management policies for joint qualified officers” for “Management policies for officers who are joint qualified”, and in subsec. (a), substituted “as a joint qualified officer or in such other manner as the Secretary of Defense directs” for “in such manner as the Secretary of Defense directs”.
@@ -311,21 +314,11 @@ Pub. L. 99–433, title IV, § 406(d), Oct. 1, 1986, 100 Stat. 1033, provided th
 
 <a id="section-664"></a>
 ## § 664. Length of joint duty assignments
-**(a) General Rule.—** The length of a joint duty assignment—
-
-(1) for general and flag officers shall be not less than two years; and
-
-(2) for other officers shall be not less than three years.
+**(a) General Rule.—** The length of a joint duty assignment shall be not less than two years.
 
 **(b) Waiver Authority.—** The Secretary of Defense may waive subsection (a) in the case of any officer.
 
-**(c) Initial Assignment of Officers With Critical Occupational Specialties.—** The Secretary may for purposes of [section 661(c)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section661/c/1/B&num=0&edition=prelim) authorize a joint duty assignment of less than the period prescribed by subsection (a), but not less than two years, without the requirement for a waiver under subsection (b) in the case of an officer—
-
-(1) who has a military occupational specialty designated under [section 668(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section668/d&num=0&edition=prelim) as a critical occupational specialty; and
-
-(2) for whom such joint duty assignment is the initial joint duty assignment.
-
-**(d) Exclusions From Tour Length.—** The Secretary of Defense may exclude the following service from the standards prescribed in subsection (a):
+**(c) Exclusions From Tour Length.—** The Secretary of Defense may exclude the following service from the requirement in subsection (a):
 
 (1) Service in a joint duty assignment in which the full tour of duty in the assignment is not completed by the officer because of—
 
@@ -335,57 +328,89 @@ Pub. L. 99–433, title IV, § 406(d), Oct. 1, 1986, 100 Stat. 1033, provided th
 
   (C) suspension from duty under section 155(f)(2) or 164(g) of this title; or
 
-  (D) a qualifying reassignment from a joint duty assignment—
+  (D) a qualifying reassignment from a joint duty assignment as prescribed by the Secretary of Defense in regulations.
 
-    (i) for unusual personal reasons, including extreme hardship and medical conditions, beyond the control of the officer or the armed forces; or
+(2) Service in a joint duty assignment in a case in which the officer’s tour of duty in that assignment brings the officer’s accrued service for purposes of subsection (d)(2) to the requirement in subsection (a).
 
-    (ii) to another joint duty assignment immediately after—
+**(d) Full Tour of Duty.—** An officer shall be considered to have completed a full tour of duty in a joint duty assignment upon completion of any of the following:
 
-      (I) the officer was promoted to a higher grade, if the reassignment was made because no joint duty assignment was available within the same organization that was commensurate with the officer’s new grade; or
+(1) A joint duty assignment that meets the the requirement in subsection (a).
 
-      (II) the officer’s position was eliminated in a reorganization.
+(2) Accrued joint experience in joint duty assignments as described in subsection (e).
 
-(2) Service in a joint duty assignment outside the United States or in Alaska or Hawaii which is less than the applicable standard prescribed in subsection (a).
+(3) A joint duty assignment with respect to which the Secretary of Defense has granted a waiver under subsection (b), but only in a case in which the Secretary determines that the service completed by that officer in that duty assignment shall be considered to be a full tour of duty in a joint duty assignment.
 
-(3) Service in a joint duty assignment in a case in which the officer’s tour of duty in that assignment brings the officer’s accrued service for purposes of subsection (f)(3) to the applicable standard prescribed in subsection (a).
+(4) A second and subsequent joint duty assignment that is less than the period required under subsection (a).
 
-**(e) Average Tour Lengths.—**
+**(e) Accrued Joint Experience.—** For the purposes of subsection (d)(2), the Secretary of Defense may prescribe, by regulation, certain joint experience, such as temporary duty in joint assignments, joint individual training, and participation in joint exercises, that may be aggregated to equal a full tour of duty. The Secretary shall prescribe the regulations with the advice of the Chairman of the Joint Chiefs of Staff.
 
-(1) The Secretary shall ensure that the average length of joint duty assignments during any fiscal year, measured by the lengths of the joint duty assignments ending during that fiscal year, meets the standards prescribed in subsection (a).
-
-(2) In computing the average length of joint duty assignments for purposes of paragraph (1), the Secretary may exclude the following service:
-
-  (A) Service described in subsection (c).
-
-  (B) Service described in subsection (d).
-
-  (C) Service described in subsection (f)(6).
-
-**(f) Full Tour of Duty.—** An officer shall be considered to have completed a full tour of duty in a joint duty assignment upon completion of any of the following:
-
-(1) A joint duty assignment that meets the standards prescribed in subsection (a).
-
-(2) A joint duty assignment under the circumstances described in subsection (c).
-
-(3) Accrued joint experience in joint duty assignments as described in subsection (g).
-
-(4) A joint duty assignment outside the United States or in Alaska or Hawaii for which the normal accompanied-by-dependents tour of duty is prescribed by regulation to be at least two years in length, if the officer serves in the assignment for a period equivalent to the accompanied-by-dependents tour length.
-
-(5) A joint duty assignment with respect to which the Secretary of Defense has granted a waiver under subsection (b), but only in a case in which the Secretary determines that the service completed by that officer in that duty assignment shall be considered to be a full tour of duty in a joint duty assignment.
-
-(6) A second and subsequent joint duty assignment that is less than the period required under subsection (a), but not less than two years.
-
-**(g) Accrued Joint Experience.—** For the purposes of subsection (f)(3), the Secretary of Defense may prescribe, by regulation, certain joint experience, such as temporary duty in joint assignments, joint individual training, and participation in joint exercises, that may be aggregated to equal a full tour of duty. The Secretary shall prescribe the regulations with the advice of the Chairman of the Joint Chiefs of Staff.
-
-**(h) Constructive Credit.—**
-
-(1) The Secretary of Defense may accord constructive credit in the case of an officer (other than a general or flag officer) who, for reasons of military necessity, is reassigned from a joint duty assignment within 60 days of meeting the tour length criteria prescribed in paragraphs (1), (2), and (4) of subsection (f). The amount of constructive service that may be credited to such officer shall be the amount sufficient for the completion of the applicable tour of duty requirement, but in no case more than 60 days.
-
-(2) For the purpose of computing under subsection (e) the average length of joint duty assignments during a fiscal year, the amount of any constructive service credited under this subsection with respect to a joint duty assignment to be counted in that computation shall be excluded.
+**(f) Constructive Credit.—** The Secretary of Defense may award constructive credit in the case of an officer (other than a general or flag officer) who, for reasons of military necessity, is reassigned from a joint duty assignment within 60 days of meeting the tour length criteria prescribed in subsection (d)(1). The amount of constructive service that may be credited to such officer shall be the amount sufficient for the completion of the applicable tour of duty requirement, but in no case more than 60 days.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328, § 510(a), substituted “assignment shall be not less than two years.” for “assignment—
+
+“(1) for general and flag officers shall be not less than two years; and
+
+“(2) for other officers shall be not less than three years.”
+
+Subsec. (c). Pub. L. 114–328, § 510(b), (g)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “The Secretary may for purposes of [section 661(c)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section661/c/1/B&num=0&edition=prelim) authorize a joint duty assignment of less than the period prescribed by subsection (a), but not less than two years, without the requirement for a waiver under subsection (b) in the case of an officer—
+
+“(1) who has a military occupational specialty designated under [section 668(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section668/d&num=0&edition=prelim) as a critical occupational specialty; and
+
+“(2) for whom such joint duty assignment is the initial joint duty assignment.”
+
+Subsec. (c)(2). Pub. L. 114–328, § 510(g)(2), substituted “subsection (d)(2)” for “subsection (f)(3)”.
+
+Subsec. (d). Pub. L. 114–328, § 510(g)(1), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (c).
+
+Pub. L. 114–328, § 510(c)(1), substituted “the requirement in subsection (a)” for “the standards prescribed in subsection (a)” in introductory provisions.
+
+Subsec. (d)(1)(D). Pub. L. 114–328, § 510(c)(2), substituted “assignment as prescribed by the Secretary of Defense in regulations.” for “assignment—
+
+“(i) for unusual personal reasons, including extreme hardship and medical conditions, beyond the control of the officer or the armed forces; or
+
+“(ii) to another joint duty assignment immediately after—
+
+“(I) the officer was promoted to a higher grade, if the reassignment was made because no joint duty assignment was available within the same organization that was commensurate with the officer’s new grade; or
+
+“(II) the officer’s position was eliminated in a reorganization.”
+
+Subsec. (d)(2). Pub. L. 114–328, § 510(g)(3), substituted “subsection (e)” for “subsection (g)”.
+
+Pub. L. 114–328, § 510(c)(3)–(5), redesignated par. (3) as (2), substituted “the requirement in subsection (a)” for “the applicable standard prescribed in subsection (a)”, and struck out former par. (2) which read as follows: “Service in a joint duty assignment outside the United States or in Alaska or Hawaii which is less than the applicable standard prescribed in subsection (a).”
+
+Subsec. (d)(3). Pub. L. 114–328, § 510(c)(4), redesignated par. (3) as (2).
+
+Subsec. (e). Pub. L. 114–328, § 510(d), (g)(1), (4), redesignated subsec. (g) as (e), substituted “subsection (d)(2)” for “subsection (f)(3)”, and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows:
+
+“(1) The Secretary shall ensure that the average length of joint duty assignments during any fiscal year, measured by the lengths of the joint duty assignments ending during that fiscal year, meets the standards prescribed in subsection (a).
+
+“(2) In computing the average length of joint duty assignments for purposes of paragraph (1), the Secretary may exclude the following service:
+
+“(A) Service described in subsection (c).
+
+“(B) Service described in subsection (d).
+
+“(C) Service described in subsection (f)(6).”
+
+Subsec. (f). Pub. L. 114–328, § 510(g)(1), (5), redesignated subsec. (h) as (f) and substituted “subsection (d)(1)” for “paragraphs (1), (2), and (4) of subsection (f)”. Former subsec. (f) redesignated (d).
+
+Subsec. (f)(1). Pub. L. 114–328, § 510(e)(1), substituted “the requirement in subsection (a)” for “standards prescribed in subsection (a)”.
+
+Subsec. (f)(2) to (6). Pub. L. 114–328, § 510(e)(2)–(4), redesignated pars. (3), (5), and (6) as (2), (3), and (4), respectively, struck out “, but not less than two years” before period at end of par. (4), and struck out former pars. (2) and (4) which read as follows:
+
+“(2) A joint duty assignment under the circumstances described in subsection (c).”
+
+“(4) A joint duty assignment outside the United States or in Alaska or Hawaii for which the normal accompanied-by-dependents tour of duty is prescribed by regulation to be at least two years in length, if the officer serves in the assignment for a period equivalent to the accompanied-by-dependents tour length.”
+
+Subsec. (g). Pub. L. 114–328, § 510(g)(1), redesignated subsec. (g) as (e).
+
+Subsec. (h). Pub. L. 114–328, § 510(g)(1), redesignated subsec. (h) as (f).
+
+Pub. L. 114–328, § 510(f), struck out par. (1) designation before “The Secretary of Defense may”, substituted “award” for “accord”, and struck out par. (2) which read as follows: “For the purpose of computing under subsection (e) the average length of joint duty assignments during a fiscal year, the amount of any constructive service credited under this subsection with respect to a joint duty assignment to be counted in that computation shall be excluded.”
+
 2008—Subsec. (d)(1)(D). Pub. L. 110–417, § 524(a)(1), added subpar. (D) and struck out former subpar. (D) which read as follows: “a qualifying reassignment (as described in subsection (g)(4)).”
 
 Subsec. (d)(3). Pub. L. 110–417, § 524(a)(2), added par. (3) and struck out former par. (3) which read as follows: “Service in a joint duty assignment in a case in which—
@@ -544,19 +569,25 @@ Section, added Pub. L. 99–433, title IV, § 401(a), Oct. 1, 1986, 100 Stat. 10
 ## § 668. Definitions
 **(a) Joint Matters.—**
 
-(1) In this chapter, the term “joint matters” means matters related to the achievement of unified action by integrated military forces in operations conducted across domains such as land, sea, or air, in space, or in the information environment, including matters relating to—
+(1) In this chapter, the term “joint matters” means matters related to any of the following:
 
-  (A) national military strategy;
+  (A) The development or achievement of strategic objectives through the synchronization, coordination, and organization of integrated forces in operations conducted across domains, such as land, sea, or air, in space, or in the information environment, including matters relating to any of the following:
 
-  (B) strategic planning and contingency planning;
+    (i) National military strategy.
 
-  (C) command and control of operations under unified command;
+    (ii) Strategic planning and contingency planning.
 
-  (D) national security planning with other departments and agencies of the United States; or
+    (iii) Command and control, intelligence, fires, movement and maneuver, protection or sustainment of operations under unified command.
 
-  (E) combined operations with military forces of allied nations.
+    (iv) National security planning with other departments and agencies of the United States.
 
-(2) In the context of joint matters, the term “integrated military forces” refers to military forces that are involved in the planning or execution (or both) of operations involving participants from—
+    (v) Combined operations with military forces of allied nations.
+
+  (B) Acquisition matters conducted by members of the armed forces and covered under chapter 87 of this title involved in developing, testing, contracting, producing, or fielding of multi-service programs or systems.
+
+  (C) Other matters designated in regulation by the Secretary of Defense in consultation with the Chairman of the Joint Chiefs of Staff.
+
+(2) In the context of joint matters, the term “integrated forces” refers to military forces that are involved in achieving unified action with participants from—
 
   (A) more than one military department; or
 
@@ -572,7 +603,11 @@ Section, added Pub. L. 99–433, title IV, § 401(a), Oct. 1, 1986, 100 Stat. 10
 
 (1) The Secretary of Defense shall by regulation define the term “joint duty assignment” for the purposes of this chapter. That definition—
 
-  (A) shall be limited to assignments in which the officer gains significant experience in joint matters; and
+  (A) shall be limited to assignments in which—
+
+    (i) the preponderance of the duties of the officer involve joint matters and
+
+    (ii) the officer gains significant experience in joint matters; and
 
   (B) shall exclude student assignments for joint training and education.
 
@@ -584,15 +619,35 @@ Section, added Pub. L. 99–433, title IV, § 401(a), Oct. 1, 1986, 100 Stat. 10
 
 **(c) Clarification of “Tour of Duty”.—** For purposes of this chapter, a tour of duty in which an officer serves in more than one joint duty assignment without a break between such assignments shall be considered to be a single tour of duty in a joint duty assignment.
 
-**(d) Critical Occupational Specialty.—**
-
-(1) In this chapter, the term “critical occupational specialty” means a military occupational specialty involving combat operations within the combat arms, in the case of the Army, or the equivalent arms, in the case of the Navy, Air Force, and Marine Corps, that the Secretary of Defense designates as critical.
-
-(2) At a minimum, the Secretary of Defense shall designate as a critical occupational specialty under paragraph (1) any military occupational specialty within a combat arms (or the equivalent) that is experiencing a severe shortage of trained officers in that specialty, as determined by the Secretary.
-
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–328, § 510A(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In this chapter, the term ‘joint matters’ means matters related to the achievement of unified action by integrated military forces in operations conducted across domains such as land, sea, or air, in space, or in the information environment, including matters relating to—
+
+“(A) national military strategy;
+
+“(B) strategic planning and contingency planning;
+
+“(C) command and control of operations under unified command;
+
+“(D) national security planning with other departments and agencies of the United States;
+
+“(E) combined operations with military forces of allied nations; or
+
+“(F) acquisition matters addressed by military personnel and covered under chapter 87 of this title.”
+
+Subsec. (a)(2). Pub. L. 114–328, § 510A(b), substituted “integrated forces” for “integrated military forces” and “achieving unified action with” for “the planning or execution (or both) of operations involving” in introductory provisions.
+
+Subsec. (b)(1)(A). Pub. L. 114–328, § 510A(c), added subpar. (A) and struck out former subpar. (A) which read as follows: “shall be limited to assignments in which the officer gains significant experience in joint matters; and”.
+
+Subsec. (d). Pub. L. 114–328, § 510A(d), struck out subsec. (d). Text read as follows:
+
+“(1) In this chapter, the term ‘critical occupational specialty’ means a military occupational specialty involving combat operations within the combat arms, in the case of the Army, or the equivalent arms, in the case of the Navy, Air Force, and Marine Corps, that the Secretary of Defense designates as critical.
+
+“(2) At a minimum, the Secretary of Defense shall designate as a critical occupational specialty under paragraph (1) any military occupational specialty within a combat arms (or the equivalent) that is experiencing a severe shortage of trained officers in that specialty, as determined by the Secretary.”
+
+2015—Subsec. (a)(1)(F). Pub. L. 114–92 added subpar. (F).
+
 2013—Subsec. (b)(1)(B). Pub. L. 112–239 substituted “student assignments for joint training and education” for “assignments for joint training and education, except an assignment as an instructor responsible for preparing and presenting courses in areas of the curricula designated in [section 2155(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2155/c&num=0&edition=prelim) as part of a program designated by the Secretary of Defense as joint professional military education Phase II”.
 
 2011—Subsec. (a)(1). Pub. L. 111–383, § 521(1)(A), substituted “integrated” for “multiple” in introductory provisions.

@@ -38,7 +38,7 @@ There are authorized to be appropriated such sums as are necessary for fiscal ye
 
 (9) “satisfactory progress toward a degree or certificate” has the meaning given to such term by the institution at which the student is enrolled.
 
-**(b)** The following conditions shall apply for the purpose of determining the Indian student count pursuant to subsection (a)(8) of this section:
+**(b)** The following conditions shall apply for the purpose of determining the Indian student count pursuant to subsection (a)(8):
 
 (1) Such number shall be calculated on the basis of the registrations of Indian students as in effect at the conclusion of the third week of each academic term.
 
@@ -57,7 +57,7 @@ There are authorized to be appropriated such sums as are necessary for fiscal ye
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, known as the Tribally Controlled Colleges and Universities Assistance Act of 1978, which enacted this chapter and [section 640c–1 of this title](./chapter-014-miscellaneous.md#section-640c-1), amended [section 640c of this title](./chapter-014-miscellaneous.md#section-640c), and enacted provisions set out as notes under sections 640a, 640c–1, and 1801 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, known as the Tribally Controlled Colleges and Universities Assistance Act of 1978, which enacted this chapter and former [section 640c–1 of this title](./chapter-014-miscellaneous.md#section-640c-1), amended former [section 640c of this title](./chapter-014-miscellaneous.md#section-640c), and enacted provisions set out as notes under this section and former sections 640a and 640c–1 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 The Alaskan Native Claims Settlement Act, referred to in subsec. (a)(2), probably means the Alaska Native Claims Settlement Act, Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
@@ -119,19 +119,22 @@ Ex. Ord. No. 13021, Oct. 19, 1996, 61 F.R. 54929, as amended by Ex. Ord. No. 131
 #### Executive Order No. 13270
 Ex. Ord. No. 13270, July 3, 2002, 67 F.R. 45288, which established the President’s Board of Advisors on Tribal Colleges and Universities and the White House Initiative on Tribal Colleges and Universities and required agencies to develop and submit plans for making certain improvements in tribal colleges and universities, was revoked by Ex. Ord. No. 13592, § 5(c), Dec. 2, 2011, 76 F.R. 76607, set out as a note under [section 7401 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7401&num=0&edition=prelim), Education.
 
-Term of President’s Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
-
-Term of President’s Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
-
-Term of President’s Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
-
-Term of President’s Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
-
-Term of President’s Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
-
-Term of President’s Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
-
+#### Extension of Term of President’s Board of Advisors on Tribal Colleges and Universities
 Ex. Ord. No. 13585, § 1(n), Sept. 30, 2011, 76 F.R. 62281, which extended term of President’s Board of Advisors on Tribal Colleges and Universities until Sept. 30, 2013, was revoked by Ex. Ord. No. 13592, § 5(c), Dec. 2, 2011, 76 F.R. 76607, set out as a note under [section 7401 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7401&num=0&edition=prelim), Education.
+
+Previous extensions of term of President’s Board of Advisors on Tribal Colleges and Universities were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, extended term until Sept. 30, 2011.
+
+Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, extended term until Sept. 30, 2009.
+
+Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, extended term until Sept. 30, 2007.
+
+Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, extended term until Sept. 30, 2005.
+
+Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, extended term until Sept. 30, 2003.
+
+Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, extended term until Sept. 30, 2001.
 
 
 <a id="section-1803"></a>
@@ -336,7 +339,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 ### Statutory Notes
 
 #### References in Text
-Public Law 98–192, referred to in subsec. (d), is Pub. L. 98–192, Dec. 1, 1983, 97 Stat. 1335, which enacted sections 1804a and 1831 to 1836 of this title, amended sections 640c–1, 1801 to 1803, and 1805 to 1813 of this title, and enacted provisions set out as a note under [section 1815 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1815). For complete classification of Pub. L. 98–192 to the Code, see Tables.
+Public Law 98–192, referred to in subsec. (d), is Pub. L. 98–192, Dec. 1, 1983, 97 Stat. 1335, which enacted sections 1804a and 1831 to 1836 of this title, amended former section 640c–1 and sections 1801 to 1803 and 1805 to 1813 of this title, and enacted provisions set out as a note under [section 1815 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1815). For complete classification of Pub. L. 98–192 to the Code, see Tables.
 
 #### Amendments
 2008—Subsec. (a). Pub. L. 110–315 inserted subsec. (a) and par. (1) headings, designated introductory provisions and pars. (1) and (2) as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), in introductory provisions, substituted “Except as provided in paragraph (2) and [section 1811 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1811),” for “Except as provided in [section 1811 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1811),”, “approved by the Secretary” for “approved by him”, and “product obtained by multiplying” for “product of”, in subpar. (A), substituted “[section 1801(a)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1801/a/8&num=0&edition=prelim)” for “[section 1801(a)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1801/a/7&num=0&edition=prelim)”, in subpar. (B), substituted “$8,000, as adjusted annually for inflation.” for “$6,000,”, added par. (2), and struck out former concluding provisions which read as follows: “except that no grant shall exceed the total cost of the education program provided by such college or university.”
@@ -380,7 +383,7 @@ For effective date and applicability of amendment by Pub. L. 100–297, see sect
 
 <a id="section-1810"></a>
 ## § 1810. Effect on other programs
-**(a) Eligibility for assistance** Except as specifically provided in this subchapter, eligibility for assistance under this subchapter shall not, by itself, preclude the eligibility of any tribally controlled college or university to receive Federal financial assistance under any program authorized under the Higher Education Act of 1965 [[20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq., [42 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751&num=0&edition=prelim) et seq.] or any other applicable program for the benefit of institutions of higher education, community colleges, or postsecondary educational institutions.
+**(a) Eligibility for assistance** Except as specifically provided in this subchapter, eligibility for assistance under this subchapter shall not, by itself, preclude the eligibility of any tribally controlled college or university to receive Federal financial assistance under any program authorized under the Higher Education Act of 1965 [[20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq.] or any other applicable program for the benefit of institutions of higher education, community colleges, or postsecondary educational institutions.
 
 **(b) Allocations from Bureau of Indian Affairs**
 
@@ -388,18 +391,18 @@ For effective date and applicability of amendment by Pub. L. 100–297, see sect
 
 (2) No tribally controlled college or university shall be denied funds appropriated under [section 13 of this title](./chapter-001-bureau-of-indian-affairs.md#section-13) because of the funds it receives under this chapter.
 
-(3) No tribally controlled college or university for which a tribe has designated a portion of the funds appropriated for the tribe from funds appropriated under [section 13 of this title](./chapter-001-bureau-of-indian-affairs.md#section-13) may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) (except as provided in that Act), or denied appropriate contract support to administer such portion of the appropriated funds.
+(3) No tribally controlled college or university for which a tribe has designated a portion of the funds appropriated for the tribe from funds appropriated under [section 13 of this title](./chapter-001-bureau-of-indian-affairs.md#section-13) may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) 11 See References in Text note below. (except as provided in that Act), or denied appropriate contract support to administer such portion of the appropriated funds.
 
-**(c) 11 So in original. Two subsecs. (c) have been enacted. Assistance deemed to be basic educational opportunity grant** For the purposes of sections 312(2)(A)(i) and 322(a)(2)(A)(i) of the Higher Education Act of 1965 [[20 U.S.C. 1058(2)(A)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1058/2/A/i&num=0&edition=prelim), 1061(a)(2)(A)(i)],22 See References in Text note below. any Indian student who receives a student assistance grant from the Bureau of Indian Affairs for postsecondary education shall be deemed to have received such assistance under subpart 1 of part A of title IV of such Act [[20 U.S.C. 1070a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a&num=0&edition=prelim) et seq.].
+**(c) 22 So in original. Two subsecs. (c) have been enacted. Assistance deemed to be basic educational opportunity grant** For the purposes of sections 312(2)(A)(i) and 322(a)(2)(A)(i) of the Higher Education Act of 1965 [[20 U.S.C. 1058(2)(A)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1058/2/A/i&num=0&edition=prelim), 1061(a)(2)(A)(i)],33 See References in Text note below. any Indian student who receives a student assistance grant from the Bureau of Indian Affairs for postsecondary education shall be deemed to have received such assistance under subpart 1 of part A of title IV of such Act [[20 U.S.C. 1070a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a&num=0&edition=prelim) et seq.].
 
-**(c) 1 Treatment of funds under certain Federal laws** Notwithstanding any other provision of law, funds provided under this subchapter to the tribally controlled college or university may be treated as non-Federal, private funds of the college or university for purposes of any provision of Federal law which requires that non-Federal or private funds of the college or university be used in a project or for a specific purpose.
+**(c) 2 Treatment of funds under certain Federal laws** Notwithstanding any other provision of law, funds provided under this subchapter to the tribally controlled college or university may be treated as non-Federal, private funds of the college or university for purposes of any provision of Federal law which requires that non-Federal or private funds of the college or university be used in a project or for a specific purpose.
 
 ### Statutory Notes
 
 #### References in Text
-The Higher Education Act of 1965, referred to in subsecs. (a) and (c), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. Sections 312 and 322 of the Act, which were classified to sections 1058 and 1061, respectively, of Title 20, were omitted in the general revision of title III of the Higher Education Act of 1965 by Pub. L. 99–498, title III, § 301(a), Oct. 17, 1986, 100 Stat. 1290, which enacted new sections 312 and 322 which are classified to sections 1058 and 1061, respectively, of Title 20. Subpart 1 of part A of title IV of the Higher Education Act of 1965 is classified generally to subpart 1 (§ 1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20. For complete classification of the Higher Education Act of 1965 to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (a) and (c), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education. Sections 312 and 322 of the Act, which were classified to sections 1058 and 1061, respectively, of Title 20, were omitted in the general revision of title III of the Higher Education Act of 1965 by Pub. L. 99–498, title III, § 301(a), Oct. 17, 1986, 100 Stat. 1290, which enacted new sections 312 and 322 which are classified to sections 1058 and 1061, respectively, of Title 20. Subpart 1 of part A of title IV of the Higher Education Act of 1965 is classified generally to subpart 1 (§ 1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20. For complete classification of the Higher Education Act of 1965 to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b)(3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsec. (b)(3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Amendments
 1998—Subsec. (a). Pub. L. 105–244, § 901(b)(10), inserted “or university” after “tribally controlled college”.
@@ -514,11 +517,11 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 **(b) Ratable reduction or increase in funds available for existing schools; excess funds; definition**
 
-(1) If the sums appropriated for any fiscal year for grants under [section 1807 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1807) are not sufficient to pay in full the total amount of the grants determined pursuant to subsection (a)(1)(A) of this section, the amount which applicants described in such subsection are eligible to receive under [section 1807 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1807) for such fiscal year shall be ratably reduced.
+(1) If the sums appropriated for any fiscal year for grants under [section 1807 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1807) are not sufficient to pay in full the total amount of the grants determined pursuant to subsection (a)(1)(A), the amount which applicants described in such subsection are eligible to receive under [section 1807 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1807) for such fiscal year shall be ratably reduced.
 
-(2) If any additional funds become available for making payments under [section 1807 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1807) for any fiscal year to which subsection (a) of this section or paragraph (1) of this subsection applies, such additional amounts shall be allocated by first increasing grants reduced under paragraph (1) of this subsection on the same basis as they were reduced and by then allocating the remainder in accordance with subsection (a) of this section. Sums appropriated in excess of the amount necessary to pay in full the total amounts for which applicants are eligible under [section 1807 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1807) shall be allocated by ratably increasing such total amounts.
+(2) If any additional funds become available for making payments under [section 1807 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1807) for any fiscal year to which subsection (a) or paragraph (1) of this subsection applies, such additional amounts shall be allocated by first increasing grants reduced under paragraph (1) of this subsection on the same basis as they were reduced and by then allocating the remainder in accordance with subsection (a). Sums appropriated in excess of the amount necessary to pay in full the total amounts for which applicants are eligible under [section 1807 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1807) shall be allocated by ratably increasing such total amounts.
 
-(3) References in this subsection and subsection (a) of this section to [section 1807 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1807) shall, with respect to fiscal year 1983, be deemed to refer to [section 1806 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1806) as in effect at the beginning of such fiscal year.
+(3) References in this subsection and subsection (a) to [section 1807 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1807) shall, with respect to fiscal year 1983, be deemed to refer to [section 1806 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1806) as in effect at the beginning of such fiscal year.
 
 **(c) Reallocation of funds** In any fiscal year in which the amounts for which grant recipients are eligible to receive have been reduced under the first sentence of subsection (a) of this section, and in which additional funds have not been made available to pay in full the total of such amounts under the second sentence of such subsection, each grantee shall report to the Secretary any unused portion of received funds ninety days prior to the grant expiration date. The amounts so reported by any grant recipient shall be made available for reallocation to eligible grantees on a basis proportionate to the amount which is unfunded as a result of the ratable reduction, but no grant recipient shall receive, as a result of such reallocation, more than the amount provided for under [section 1807(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1807/a&num=0&edition=prelim).
 
@@ -551,30 +554,32 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 (1) on which structurally sound buildings suitable for use as educational facilities are located, and
 
-(2) which is available for use by tribally controlled colleges or universities under [section 523 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section523&num=0&edition=prelim) and [section 443a of this title](./chapter-014-miscellaneous.md#section-443a).
+(2) which is available for use by tribally controlled colleges or universities under [section 523 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section523&num=0&edition=prelim) and under the Act of August 6, 1956 (70 Stat. 1057; [25 U.S.C. 443a](./chapter-014-miscellaneous.md#section-443a)).11 See References in Text note below.
 
 **(b) Renovation program** The Secretary, in consultation with the Bureau of Indian Affairs, shall initiate a program to conduct necessary renovations, alterations, repairs, and reconstruction identified pursuant to subsection (a) of this section.
 
 **(c) Determination and prioritization of construction and renovation needs**
 
-(1) The Secretary shall enter into a contract with an organization described in paragraph (2) to establish and provide on an annual basis criteria for the determination and prioritization in a consistent and equitable manner of the facilities construction and renovation needs of colleges or universities that receive funding under this chapter or the Navajo Community College Act [[25 U.S.C. 640a](./chapter-014-miscellaneous.md#section-640a) et seq.].
+(1) The Secretary shall enter into a contract with an organization described in paragraph (2) to establish and provide on an annual basis criteria for the determination and prioritization in a consistent and equitable manner of the facilities construction and renovation needs of colleges or universities that receive funding under this chapter or the Navajo Community College Act.
 
 (2) An organization described in this section is any organization that—
 
-  (A) is eligible to receive a contract under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.]; and
+  (A) is eligible to receive a contract under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.]; and
 
   (B) has demonstrated expertise in areas and issues dealing with tribally controlled colleges or universities.
 
 (3) The Secretary shall include the priority list established pursuant to this subsection in the budget submitted annually to the Congress.
 
-**(d) “Reconstruction” defined** For the purposes of this section, the term “reconstruction” has the meaning provided in the first sentence of subparagraph (B) of section 1132e–1(2) 11 See References in Text note below. of title 20.
+**(d) “Reconstruction” defined** For the purposes of this section, the term “reconstruction” has the meaning provided in the first sentence of subparagraph (B) of section 1132e–1(2) 1 of title 20.
 
 ### Statutory Notes
 
 #### References in Text
-The Navajo Community College Act, referred to in subsec. (c)(1), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 640a of this title](./chapter-014-miscellaneous.md#section-640a) and Tables.
+The Act of August 6, 1956 (70 Stat. 1057; [25 U.S.C. 443a](./chapter-014-miscellaneous.md#section-443a)), referred to in subsec. (a)(2), is act Aug. 6, 1956, ch. 979, 70 Stat. 1057, which was formerly classified to [section 443a of this title](./chapter-014-miscellaneous.md#section-443a) prior to editorial reclassification as a note under [section 1457 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1457&num=0&edition=prelim), Public Lands.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Navajo Community College Act, referred to in subsec. (c)(1), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, which was classified to section 640a et seq. of this title and was omitted from the Code as being of special and not general application.
+
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 [Section 1132e–1 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1132e–1&num=0&edition=prelim), referred to in subsec. (d), was omitted in the general revision of subchapter VII (§ 1132a et seq.) of chapter 28 of Title 20, Education, by Pub. L. 99–498, title VII, § 701, Oct. 17, 1986, 100 Stat. 1520. See [section 1132i–1 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1132i–1&num=0&edition=prelim).
 
@@ -682,7 +687,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 ### Statutory Notes
 
 #### Promulgation of Regulations; Consultation
-Pub. L. 98–192, § 15, Dec. 1, 1983, 97 Stat. 1343, provided that: “In promulgating any regulations to implement the amendments made by this Act [enacting sections 1804a and 1831 to 1836 of this title and amending sections 640c–1, 1801 to 1803, and 1805 to 1813 of this title], the Secretary of the Interior shall consult with tribally controlled community colleges.”
+Pub. L. 98–192, § 15, Dec. 1, 1983, 97 Stat. 1343, provided that: “In promulgating any regulations to implement the amendments made by this Act [enacting sections 1804a and 1831 to 1836 of this title and amending former section 640c–1 and sections 1801 to 1803 and 1805 to 1813 of this title], the Secretary of the Interior shall consult with tribally controlled community colleges.”
 
 
 <a id="section-1832"></a>
@@ -701,7 +706,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 <a id="section-1833"></a>
 ## § 1833. Establishment of program; program agreements
-**(a)** From the amount appropriated pursuant to [section 1836 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1836), the Secretary shall establish a program of making endowment grants to tribally controlled colleges or universities which are current recipients of assistance under [section 1807 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1807) or under [section 640b of this title](./chapter-014-miscellaneous.md#section-640b). No such college or university shall be ineligible for such a grant for a fiscal year by reason of the receipt of such a grant for a preceding fiscal year, but no such college or university shall be eligible for such a grant for a fiscal year if such college or university has been awarded a grant under [section 1065 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1065&num=0&edition=prelim) for such fiscal year.
+**(a)** From the amount appropriated pursuant to [section 1836 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1836), the Secretary shall establish a program of making endowment grants to tribally controlled colleges or universities which are current recipients of assistance under [section 1807 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1807) or under section 3 of the Navajo Community College Act. No such college or university shall be ineligible for such a grant for a fiscal year by reason of the receipt of such a grant for a preceding fiscal year, but no such college or university shall be eligible for such a grant for a fiscal year if such college or university has been awarded a grant under [section 1065 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1065&num=0&edition=prelim) for such fiscal year.
 
 **(b)** No grant for the establishment of an endowment fund by a tribally controlled college or university shall be made unless such college or university enters into an agreement with the Secretary which—
 
@@ -724,6 +729,9 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 (6) includes such other provisions as may be necessary to protect the financial interest of the United States and promote the purpose of this subchapter and as are agreed to by the Secretary and the college or university, including a description of recordkeeping procedures for the expenditure of accumulated interest which will allow the Secretary to audit and monitor programs and activities conducted with such interest.
 
 ### Statutory Notes
+
+#### References in Text
+Section 3 of the Navajo Community College Act, referred to in subsec. (a), is section 3 of Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, which was classified to [section 640b of this title](./chapter-014-miscellaneous.md#section-640b) and was omitted from the Code as being of special and not general application.
 
 #### Amendments
 1998—Subsec. (a). Pub. L. 105–244, § 901(b)(6), (7), substituted “colleges or universities” for “community colleges” and substituted “such college or university” for “such college” wherever appearing.
@@ -790,7 +798,7 @@ Amendment by Pub. L. 101–477 effective Oct. 1, 1991, see section 1(d)(2) of Pu
 ## § 1836. Allocation of funds
 **(a)** From the amount appropriated pursuant to [section 1836 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1836), the Secretary shall allocate to each tribally controlled college or university which is eligible for an endowment grant under this subchapter an amount for a Federal capital contribution equal to twice the value of the property or the amount which such college or university demonstrates has been placed within the control of, or irrevocably committed to the use of, the college or university and is available for deposit as a capital contribution of that college or university in accordance with [section 1832(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1832/b/2/B&num=0&edition=prelim), except that the maximum amount which may be so allocated to any such college or university for any fiscal year shall not exceed $750,000.
 
-**(b)** If for any fiscal year the amount appropriated pursuant to [section 1836 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1836) is not sufficient to allocate to each tribally controlled college or university an amount equal to twice the value of the property or the amount demonstrated by such college or university pursuant to subsection (a) of this section, then the amount of the allocation to each such college or university shall be ratably reduced.
+**(b)** If for any fiscal year the amount appropriated pursuant to [section 1836 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1836) is not sufficient to allocate to each tribally controlled college or university an amount equal to twice the value of the property or the amount demonstrated by such college or university pursuant to subsection (a), then the amount of the allocation to each such college or university shall be ratably reduced.
 
 ### Statutory Notes
 
@@ -812,7 +820,7 @@ Amendment by Pub. L. 101–477 effective Oct. 1, 1991, see section 1(d)(2) of Pu
 ## § 1851. Authorization of appropriations
 **(a)** There are authorized to be appropriated to carry out the provisions of this subchapter, $10,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
 
-**(b)** Any funds appropriated pursuant to subsection (a) of this section are authorized to remain available until expended.
+**(b)** Any funds appropriated pursuant to subsection (a) are authorized to remain available until expended.
 
 ### Statutory Notes
 
@@ -836,7 +844,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 <a id="section-1852"></a>
 ## § 1852. Grants authorized
-**(a) General authority** The Secretary is authorized, subject to the availability of appropriations, to make grants to tribally controlled colleges or universities which receive grants under either this chapter or the Navajo Community College Act [[25 U.S.C. 640a](./chapter-014-miscellaneous.md#section-640a) et seq.] for the establishment and support of tribal economic development and education institutes. Each program conducted with assistance under a grant under this subsection shall include at least the following activities:
+**(a) General authority** The Secretary is authorized, subject to the availability of appropriations, to make grants to tribally controlled colleges or universities which receive grants under either this chapter or the Navajo Community College Act for the establishment and support of tribal economic development and education institutes. Each program conducted with assistance under a grant under this subsection shall include at least the following activities:
 
 (1) Determination of the economic development needs and potential of the Indian tribes involved in the program, including agriculture and natural resources needs.
 
@@ -852,12 +860,12 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 **(b) Amount and duration** The grants shall be of such amount and duration as to afford the greatest opportunity for success and the generation of relevant data.
 
-**(c) Applications** Institutions which receive funds under other subchapters of this chapter or the Navajo Community College Act [[25 U.S.C. 640a](./chapter-014-miscellaneous.md#section-640a) et seq.] may apply for grants under this subchapter either individually or as consortia. Each applicant shall act in cooperation with an Indian tribe or tribes in developing and implementing a grant under this subchapter.11 See References in Text note below.
+**(c) Applications** Institutions which receive funds under other subchapters of this chapter or the Navajo Community College Act may apply for grants under this subchapter either individually or as consortia. Each applicant shall act in cooperation with an Indian tribe or tribes in developing and implementing a grant under this subchapter.11 See References in Text note below.
 
 ### Statutory Notes
 
 #### References in Text
-The Navajo Community College Act, referred to in subsecs. (a) and (c), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 640a of this title](./chapter-014-miscellaneous.md#section-640a) and Tables.
+The Navajo Community College Act, referred to in subsecs. (a) and (c), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, which was classified to section 640a et seq. of this title and was omitted from the Code as being of special and not general application.
 
 This subchapter, referred to at the end of subsec. (c), was in the original “this part” and was translated as reading “this title” to reflect the probable intent of Congress because title IV of Pub. L. 95–471, which comprises this subchapter, does not contain parts.
 
@@ -940,13 +948,13 @@ In this subchapter, the term “tribally controlled postsecondary career and tec
 ## § 1864. Applicability of other laws
 **(a) In general** Paragraphs (4) and (8) of subsection (a), and subsection (b), of [section 1801 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1801), sections 1805, 1808, 1811, 1812 and 1813 of this title, subchapters II and III of this chapter, and title II 11 See References in Text note below. shall not apply to this subchapter.
 
-**(b) Indian self-determination and education assistance** Funds made available pursuant to this subchapter shall be subject to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.).
+**(b) Indian self-determination and education assistance** Funds made available pursuant to this subchapter shall be subject to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.).1
 
-**(c) Election to receive** A tribally controlled postsecondary career and technical institution selected for a fiscal year under [section 1862(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1862/b&num=0&edition=prelim) may elect to receive funds pursuant to [section 1862 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1862) in accordance with an agreement between the tribally controlled postsecondary career and technical institution and the Secretary under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) if the agreement is in existence on August 14, 2008.
+**(c) Election to receive** A tribally controlled postsecondary career and technical institution selected for a fiscal year under [section 1862(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1862/b&num=0&edition=prelim) may elect to receive funds pursuant to [section 1862 of this title](./chapter-020-tribally-controlled-colleges-and-universities-assistance.md#section-1862) in accordance with an agreement between the tribally controlled postsecondary career and technical institution and the Secretary under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.)1 if the agreement is in existence on August 14, 2008.
 
 **(d) Other assistance** Eligibility for, or receipt of, assistance under this subchapter shall not preclude the eligibility of a tribally controlled postsecondary career and technical institution to receive Federal financial assistance under—
 
-(1) any program under the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq.) [and [42 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751&num=0&edition=prelim) et seq.];
+(1) any program under the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq.);
 
 (2) any program under the Carl D. Perkins Career and Technical Education Act of 2006 [[20 U.S.C. 2301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) et seq.]; or
 
@@ -961,10 +969,10 @@ In this subchapter, the term “tribally controlled postsecondary career and tec
 ### Statutory Notes
 
 #### References in Text
-Title II, referred to in subsec. (a), is title II of Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1329, known as the Navajo Community College Assistance Act of 1978, which enacted [section 640c–1 of this title](./chapter-014-miscellaneous.md#section-640c-1), amended [section 640c of this title](./chapter-014-miscellaneous.md#section-640c), and enacted provisions set out as notes under sections 640a and 640c–1 of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 640a of this title](./chapter-014-miscellaneous.md#section-640a) and Tables.
+Title II, referred to in subsec. (a), is title II of Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1329, known as the Navajo Community College Assistance Act of 1978, which enacted former [section 640c–1 of this title](./chapter-014-miscellaneous.md#section-640c-1), amended former [section 640c of this title](./chapter-014-miscellaneous.md#section-640c), and enacted provisions set out as notes under former sections 640a and 640c–1 of this title.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (b) and (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsecs. (b) and (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (d)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (d)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (d)(2), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) and Tables.

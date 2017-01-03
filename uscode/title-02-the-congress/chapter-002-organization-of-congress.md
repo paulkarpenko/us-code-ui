@@ -216,7 +216,7 @@ The Legislative Branch Appropriation Act, 1966, referred to in text, is Pub. L. 
 Subsec. (c)(5). Pub. L. 104–186, § 202(3)(B), substituted “and to the Sergeant at Arms of the House of Representatives, each two sets” for “, to the Sergeant at Arms of the House of Representatives, and to the Doorkeeper of the House of Representatives, each, two sets”.
 
 #### Change of Name
-“Director of the Government Publishing Office” substituted for “Public Printer” in subsecs. (a) and (c) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+“Director of the Government Publishing Office” substituted for “Public Printer” in subsecs. (a) and (c) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents. Substitution was also made in section catchline that had been supplied editorially.
 
 
 <a id="section-28d"></a>
@@ -244,7 +244,7 @@ Subsec. (c)(5). Pub. L. 104–186, § 202(3)(B), substituted “and to the Serge
 ### Statutory Notes
 
 #### Change of Name
-“Director of the Government Publishing Office” substituted for “Public Printer” in text on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+“Director of the Government Publishing Office” substituted for “Public Printer” in text on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents. Substitution was also made in section catchline that had been supplied editorially.
 
 
 <a id="section-28e"></a>

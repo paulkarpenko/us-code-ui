@@ -380,7 +380,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 <a id="section-12208"></a>
 ## § 12208. Officers: appointment upon transfer
-**(a)** A person who would otherwise be required to be transferred to a reserve component under [section 651 of this title](./chapter-037-general-service-requirements.md#section-651) or under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), is entitled, if he is qualified and accepted, to be appointed as an officer of any armed force that he chooses and to participate in the programs authorized for that armed force. However, unless the two Secretaries concerned consent, he may not be appointed as a Reserve of an armed force other than that from which he is transferred. All periods of his participation shall be credited against the total period of service required of him under [section 651 of this title](./chapter-037-general-service-requirements.md#section-651) or under the Military Selective Service Act (50 U.S.C. App. 451 et seq.). However, no period may be credited more than once.
+**(a)** A person who would otherwise be required to be transferred to a reserve component under [section 651 of this title](./chapter-037-general-service-requirements.md#section-651) or under the Military Selective Service Act ([50 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) et seq.), is entitled, if he is qualified and accepted, to be appointed as an officer of any armed force that he chooses and to participate in the programs authorized for that armed force. However, unless the two Secretaries concerned consent, he may not be appointed as a Reserve of an armed force other than that from which he is transferred. All periods of his participation shall be credited against the total period of service required of him under [section 651 of this title](./chapter-037-general-service-requirements.md#section-651) or under the Military Selective Service Act ([50 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) et seq.). However, no period may be credited more than once.
 
 **(b)** A person covered by subsection (a) shall perform the rest of his required term of service in the armed force in which he is so appointed or in any other armed force in which he is later appointed or enlisted.
 
@@ -401,9 +401,11 @@ In subsection (b), the word “rest” is substituted for the words “remaining
 In subsection (c), the words “This section does not” are substituted for the words “Nothing in this section shall be construed”. The word “change” is substituted for the words “reduce, limit, or modify”. The words “which any person may undertake to perform” are omitted as surplusage.
 
 #### References in Text
-The Military Selective Service Act, referred to in subsec. (a), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see note set out under [section 451 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section451&num=0&edition=prelim), Appendix, and Tables.
+The Military Selective Service Act, referred to in subsec. (a), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under [section 3801 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328 substituted “([50 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) et seq.)” for “(50 U.S.C. App. 451 et seq.)” in two places.
+
 1994—Pub. L. 103–337 renumbered [section 595 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section595&num=0&edition=prelim) as this section.
 
 1980—Subsec. (a). Pub. L. 96–513 substituted “the Military Selective Service Act (50 U.S.C. App. 451 et seq.)” for “sections 451–473 of title 50, appendix” wherever appearing.

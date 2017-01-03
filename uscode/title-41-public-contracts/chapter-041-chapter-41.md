@@ -219,7 +219,7 @@ In subsection (b)(1), the words “(as defined in [section 253k of this title](h
 In subsection (c)(2)(C), the words “Committee on Oversight and Government Reform” are substituted for “Committee on Government Reform” on authority of Rule X(1)(m) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
 #### Senate Revision Amendment
-Senate amendment to the bill effectively struck out subsec. (c)(2) and redesignated subsec. (c)(1) as (c). See S. Amdt. 4726 (111th Cong.), 156 Cong. Rec. S8442, Dec. 2, 2010 (daily ed.).
+Senate amendment to the bill effectively struck out subsec. (c)(2) and redesignated subsec. (c)(1) as (c). See S. Amdt. 4726 (111th Cong.), 156 Cong. Rec. 18683 (2010).
 
 
 <a id="section-4106"></a>
@@ -270,8 +270,6 @@ Senate amendment to the bill effectively struck out subsec. (c)(2) and redesigna
 
 (2) **Jurisdiction over protests.—** — Notwithstanding [section 3556 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3556&num=0&edition=prelim), the Comptroller General shall have exclusive jurisdiction of a protest authorized under paragraph (1)(B).
 
-(3) **Effective period.—** — Paragraph (1)(B) and paragraph (2) of this subsection shall not be in effect after September 30, 2016.
-
 **(g) Task and Delivery Order Ombudsman.—**
 
 (1) **Appointment or designation and responsibilities.—** — The head of each executive agency who awards multiple task or delivery order contracts under section 4103(d)(1)(B) or 4105(f) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible for reviewing complaints from the contractors on those contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (c).
@@ -297,4 +295,6 @@ This section was derived from section 253j of former Title 41, Public Contracts,
 In subsection (g)(2), the words “advocate for competition” are substituted for “competition advocate” for consistency with section 1705 of the revised title.
 
 #### Amendments
+2016—Subsec. (f)(3). Pub. L. 114–260 and Pub. L. 114–328 amended subsec. (f) identically by striking out par. (3). Text read as follows: “Paragraph (1)(B) and paragraph (2) of this subsection shall not be in effect after September 30, 2016.”
+
 2011—Subsec. (f)(3). Pub. L. 112–81 amended par. (3) generally. Prior to amendment, text read as follows: “This subsection shall be in effect for three years, beginning on the date that is 120 days after January 28, 2008.”

@@ -109,11 +109,11 @@ The National Trails System Act, referred to in par. (2)(E)(iv), is Pub. L. 90–
 
 (2) prioritize the acquisition of inholdings in accordance with [section 2305(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section2305/c/3&num=0&edition=prelim).
 
-**(b) Public notice** As soon as practicable after July 25, 2000, and periodically thereafter, the Secretary and the Secretary of Agriculture shall provide public notice of the procedures referred to in subsection (a) of this section, including any information necessary for the consideration of an inholding under [section 2305 of this title](./chapter-041-federal-land-transaction-facilitation.md#section-2305). Such notice shall include publication in the Federal Register and by such other means as the Secretary and the Secretary of Agriculture determine to be appropriate.
+**(b) Public notice** As soon as practicable after July 25, 2000, and periodically thereafter, the Secretary and the Secretary of Agriculture shall provide public notice of the procedures referred to in subsection (a), including any information necessary for the consideration of an inholding under [section 2305 of this title](./chapter-041-federal-land-transaction-facilitation.md#section-2305). Such notice shall include publication in the Federal Register and by such other means as the Secretary and the Secretary of Agriculture determine to be appropriate.
 
 **(c) Identification** An inholding—
 
-(1) shall be considered for identification under this section only if the Secretary or the Secretary of Agriculture receive notification of a desire to sell from the landowner in response to public notice given under subsection (b) of this section; and
+(1) shall be considered for identification under this section only if the Secretary or the Secretary of Agriculture receive notification of a desire to sell from the landowner in response to public notice given under subsection (b); and
 
 (2) shall be deemed to have been established as of the later of—
 
@@ -210,9 +210,9 @@ The National Trails System Act, referred to in par. (2)(E)(iv), is Pub. L. 90–
 This chapter, referred to in subsec. (a), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 106–248, which enacted this chapter, to reflect the probable intent of Congress.
 
 #### Amendments
-2014—Subsec. (e). Pub. L. 113–287, § 5l)(9)(A), substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act ([16 U.S.C. 460l–4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460l–4&num=0&edition=prelim) et seq.)”.
+2014—Subsec. (e). Pub. L. 113–287, § 5(l)(9)(A), substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act ([16 U.S.C. 460l–4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460l–4&num=0&edition=prelim) et seq.)”.
 
-Subsec. (f)(2). Pub. L. 113–287, § 5l(9)(B), which directed substitution of “[section 200303 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200303&num=0&edition=prelim)” for “section 3 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–6)”, was executed by making the substitution for “section 3 of the Land and Water Conservation Fund Act ([16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–6)” to reflect the probable intent of Congress.
+Subsec. (f)(2). Pub. L. 113–287, § 5(l)(9)(B), which directed substitution of “[section 200303 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200303&num=0&edition=prelim)” for “section 3 of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–6)”, was executed by making the substitution for “section 3 of the Land and Water Conservation Fund Act ([16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–6)” to reflect the probable intent of Congress.
 
 
 <a id="section-2306"></a>

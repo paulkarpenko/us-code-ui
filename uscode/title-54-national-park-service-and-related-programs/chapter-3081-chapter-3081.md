@@ -16,7 +16,7 @@ In this chapter, the term “Secretary” means the Secretary, acting through th
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 308101 | [16 U.S.C. 469k–1(c)(1)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1/c/1/D&num=0&edition=prelim) | Pub. L. 111–11, title VII, subtitle D, § 7301(c)(1)(D), Mar. 30, 2009, 123 Stat. 1213. |
+| 308101 | [16 U.S.C. 469k–1(c)(1)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1/c/1/D&num=0&edition=prelim). | Pub. L. 111–11, title VII, subtitle D, § 7301(c)(1)(D), Mar. 30, 2009, 123 Stat. 1213. |
 
 #### Purpose
 Pub. L. 111–11, title VII, § 7301(a), Mar. 30, 2009, 123 Stat. 1213, provided that: “The purpose of this section [enacting former [section 469k–1 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1&num=0&edition=prelim), Conservation] is to assist citizens, public and private institutions, and governments at all levels in planning, interpreting, and protecting sites where historic battles were fought on American soil during the armed conflicts that shaped the growth and development of the United States, in order that present and future generations may learn and gain inspiration from the ground where Americans made their ultimate sacrifice.”
@@ -35,7 +35,7 @@ Pub. L. 111–11, title VII, § 7301(a), Mar. 30, 2009, 123 Stat. 1213, provided
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 308102 | [16 U.S.C. 469k–1(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1/b&num=0&edition=prelim) | Pub. L. 111–11, title VII, subtitle D, § 7301(b), Mar. 30, 2009, 123 Stat. 1213. |
+| 308102 | [16 U.S.C. 469k–1(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1/b&num=0&edition=prelim). | Pub. L. 111–11, title VII, subtitle D, § 7301(b), Mar. 30, 2009, 123 Stat. 1213. |
 
 
 <a id="section-308103"></a>
@@ -106,9 +106,9 @@ Subsec. (c) of former [section 469k–1 of Title 16](https://uscode.house.gov/vi
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 308103(a) | [16 U.S.C. 469k–1(c)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1/c/1/A&num=0&edition=prelim), (C) | Pub. L. 111–11, title VII, subtitle D, § 7301(c)(1)(A) through (C), (2) through (6), Mar. 30, 2009, 123 Stat. 1213. |
-| 308103(b) | [16 U.S.C. 469k–1(c)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1/c/1/B&num=0&edition=prelim), (2) |  |
-| 308103(c) | [16 U.S.C. 469k–1(c)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1/c/1/B&num=0&edition=prelim), (3) |  |
-| 308103(d) through (f) | [16 U.S.C. 469k–1(c)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1/c/4&num=0&edition=prelim) through (6) |  |
+| 308103(a) | [16 U.S.C. 469k–1(c)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1/c/1/A&num=0&edition=prelim), (C). | Pub. L. 111–11, title VII, subtitle D, § 7301(c)(1)(A) through (C), (2) through (6), Mar. 30, 2009, 123 Stat. 1213. |
+| 308103(b) | [16 U.S.C. 469k–1(c)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1/c/1/B&num=0&edition=prelim), (2). |  |
+| 308103(c) | [16 U.S.C. 469k–1(c)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1/c/1/B&num=0&edition=prelim), (3). |  |
+| 308103(d) through (f) | [16 U.S.C. 469k–1(c)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1/c/4&num=0&edition=prelim) through (6). |  |
 
 In subsection (f), reference to fiscal years 2009 to 2011 is omitted as obsolete.

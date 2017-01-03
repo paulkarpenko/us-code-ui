@@ -516,7 +516,7 @@ but only if the helicopter or fixed-wing aircraft does not take off from, or lan
 
 **(i) Exemption for seaplanes** No tax shall be imposed by this section or section 4271 on any air transportation by a seaplane with respect to any segment consisting of a takeoff from, and a landing on, water, but only if the places at which such takeoff and landing occur have not received and are not receiving financial assistance from the Airport and Airways Trust Fund.
 
-**(j) Exemption for aircraft in fractional ownership aircraft programs** No tax shall be imposed by this section or section 4271 on any air transportation if tax is imposed under section 4043 with respect to the fuel used in such transportation. This subsection shall not apply after September 30, 2015.
+**(j) Exemption for aircraft in fractional ownership aircraft programs** No tax shall be imposed by this section or section 4271 on any air transportation if tax is imposed under section 4043 with respect to the fuel used in such transportation. This subsection shall not apply after September 30, 2017.
 
 **(k) Application of taxes**
 
@@ -526,7 +526,7 @@ but only if the helicopter or fixed-wing aircraft does not take off from, or lan
 
     (i) beginning on the 7th day after the date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, and
 
-    (ii) ending on September 30, 2015, and
+    (ii) ending on September 30, 2017, and
 
   (B) amounts paid during such period for transportation beginning after such period.
 
@@ -545,6 +545,18 @@ The Airport and Airway Development Act of 1970, referred to in subsec. (f), is t
 The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, referred to in subsec. (k)(1)(A)(i), is the date of enactment of Pub. L. 105–2, which was approved Feb. 28, 1997.
 
 #### Amendments
+2016—Subsec. (j). Pub. L. 114–190, § 1202(c)(2), substituted “September 30, 2017” for “July 15, 2016”.
+
+Pub. L. 114–141, § 202(c)(2), substituted “July 15, 2016” for “March 31, 2016”.
+
+Subsec. (k)(1)(A)(ii). Pub. L. 114–190, § 1202(b)(1), substituted “September 30, 2017” for “July 15, 2016”.
+
+Pub. L. 114–141, § 202(b)(1), substituted “July 15, 2016” for “March 31, 2016”.
+
+2015—Subsec. (j). Pub. L. 114–55, § 202(c)(2), substituted “March 31, 2016” for “September 30, 2015”.
+
+Subsec. (k)(1)(A)(ii). Pub. L. 114–55, § 202(b)(1), substituted “March 31, 2016” for “September 30, 2015”.
+
 2014—Subsec. (e)(1)(C). Pub. L. 113–295, § 221(a)(104)(A), struck out subpar. (C) which provided for no phasein of reduced ticket tax for certain transportation.
 
 Subsec. (e)(5). Pub. L. 113–295, § 221(a)(104)(B), struck out par. (5) which related to rates of ticket tax for transportation beginning before Oct. 1, 1999.
@@ -1027,7 +1039,7 @@ Section applicable to amounts paid on or after first day of first month which be
 
     (i) beginning on the 7th day after the date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, and
 
-    (ii) ending on September 30, 2015, and
+    (ii) ending on September 30, 2017, and
 
   (B) amounts paid during such period for transportation beginning after such period.
 
@@ -1042,6 +1054,12 @@ The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement
 A prior section 4271, act Aug. 16, 1954, ch. 736, 68A Stat. 507, 508, related to tax for the transportation of property, prior to repeal by Pub. L. 85–475, § 4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under [section 6415 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6415).
 
 #### Amendments
+2016—Subsec. (d)(1)(A)(ii). Pub. L. 114–190 substituted “September 30, 2017” for “July 15, 2016”.
+
+Pub. L. 114–141 substituted “July 15, 2016” for “March 31, 2016”.
+
+2015—Subsec. (d)(1)(A)(ii). Pub. L. 114–55 substituted “March 31, 2016” for “September 30, 2015”.
+
 2012—Subsec. (d)(1)(A)(ii). Pub. L. 112–95 substituted “September 30, 2015” for “February 17, 2012”.
 
 Pub. L. 112–91 substituted “February 17, 2012” for “January 31, 2012”.

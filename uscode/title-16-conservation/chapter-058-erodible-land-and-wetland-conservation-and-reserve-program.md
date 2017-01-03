@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-3801"></a>
 ## § 3801. Definitions
-**(a)** For purposes of subchapters I through VIII of this chapter:
+**(a)** For purposes of subchapters I through VIII:
 
 (1) The term “agricultural commodity” means—
 
@@ -90,9 +90,9 @@ source: >-
 
   (B) a substrate that is at least periodically deficient in oxygen during a growing season as a result of excessive water content.
 
-(14) **Indian tribe.—** — The term “Indian tribe” has the meaning given the term in [section 450b(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim).
+(14) **Indian tribe.—** — The term “Indian tribe” has the meaning given the term in [section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim).
 
-(15) The term “in-kind commodities” means commodities that are normally produced on land that is the subject of an agreement entered into under subchapter IV of this chapter.
+(15) The term “in-kind commodities” means commodities that are normally produced on land that is the subject of an agreement entered into under subchapter IV.
 
 (16) **Integrated pest management.—** — The term “integrated pest management” means a sustainable approach to managing pests by combining biological, cultural, physical, and chemical tools in a way that minimizes economic, health, and environmental risks.
 
@@ -106,7 +106,7 @@ source: >-
 
 (19) **Person and legal entity.—** — For purposes of applying payment limitations under subchapter IV, the terms “person” and “legal entity” have the meanings given those terms in [section 1308(a) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1308/a&num=0&edition=prelim).
 
-(20) The term “rental payment” means a payment made by the Secretary to an owner or operator of a farm or ranch containing highly erodible cropland to compensate the owner or operator for retiring such land from crop production and placing such land in the conservation reserve in accordance with subchapter IV of this chapter.
+(20) The term “rental payment” means a payment made by the Secretary to an owner or operator of a farm or ranch containing highly erodible cropland to compensate the owner or operator for retiring such land from crop production and placing such land in the conservation reserve in accordance with subchapter IV.
 
 (21) The term “Secretary” means the Secretary of Agriculture.
 
@@ -146,6 +146,8 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
+Subchapters I through VIII, referred to in subsec. (a), was in the original a reference to subtitles A through I, meaning subtitles A through I of title XII of Pub. L. 99–198. Subtitles A through E and G through I are classified generally to subchapters I through V and VI through VIII of this chapter. Subtitle F of title XII was repealed by Pub. L. 104–127. [Section 3851 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3851), contained in subchapter V–A, is based on section 1252 of Pub. L. 99–198, which was directed to be added to the previously repealed subtitle F by Pub. L. 110–246. See Codification note set out under [section 3851 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3851).
+
 This chapter, referred to in subsec. (a)(9), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and former [section 2005a of this title](./chapter-040-soil-and-water-resources-conservation.md#section-2005a) and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under [section 1981 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1981&num=0&edition=prelim).
 
 The date of enactment of this subparagraph, referred to in subsec. (a)(11)(C), is the date of enactment of Pub. L. 104–127, which was approved Apr. 4, 1996.
@@ -193,9 +195,6 @@ Pub. L. 106–387, § 1(a) [title XI, § 1101], Oct. 28, 2000, 114 Stat. 1549, 1
 #### Short Title of 1990 Amendment
 Pub. L. 101–624, title XIV, § 1401, Nov. 28, 1990, 104 Stat. 3568, provided that: “This title [enacting sections 1003a, 1010, 3824, 3830, 3835a, 3837 to 3837f, 3838 to 3838f, 3839 to 3839d, 3846, 3847, 3861, and 3862 of this title and sections 136i–1, 2814, 3130, 5401 to 5403, 5501 to 5506 and 5822 of Title 7, Agriculture, amending this section, sections 590p, 1002, 1003, 3459, 3461, 3811, 3812, 3821 to 3823, 3831, 3832, 3834, 3835, 3836, 3843, and 3845 of this title, and sections 136a, 136a–1, 136d, 136w–3, 450i, and 4202 of Title 7, and enacting provisions set out as notes under this section and sections 2101 and 3831 of this title and sections 136a and 4201 of Title 7] may be cited as the ‘Conservation Program Improvements Act’.”
 
-#### Short Title
-Pub. L. 99–198, title XII, Dec. 23, 1985, 99 Stat. 1504, which is classified principally to this chapter, is popularly known as the “Sodbuster Law”.
-
 #### Regulations
 Pub. L. 110–234, title II, § 2904, May 22, 2008, 122 Stat. 1091, and Pub. L. 110–246, § 4(a), title II, § 2904, June 18, 2008, 122 Stat. 1664, 1819, provided that: “(a) Issuance.—Except as otherwise provided in this title [see Tables for classification] or an amendment made by this title, not later than 90 days after the date of enactment of this Act [June 18, 2008], the Secretary of Agriculture, in consultation with the Commodity Credit Corporation, shall promulgate such regulations as are necessary to implement this title. “(b) Applicable Authority.—The promulgation of regulations under subsection (a) and administration of this title—“(1) shall be carried out without regard to—“(A) chapter 35 of title 44, United States Code (commonly known as the Paperwork Reduction Act); and “(B) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804) relating to notices of proposed rulemaking and public participation in rulemaking; and “(2) may—“(A) be promulgated with an opportunity for notice and comment; or “(B) if determined to be appropriate by the Secretary of Agriculture or the Commodity Credit Corporation, as an interim rule effective on publication with an opportunity for notice and comment. “(c) Congressional Review of Agency Rulemaking.—In carrying out this section, the Secretary shall use the authority provided under [section 808(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section808/2&num=0&edition=prelim), United States Code.”
 
@@ -207,7 +206,7 @@ Pub. L. 107–171, title II, § 2702, May 13, 2002, 116 Stat. 279, provided that
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 #### Temporary Administration of Conservation Programs
-Pub. L. 113–79, title II, § 2712, Feb. 7, 2014, 128 Stat. 771, provided that: “(a) Applicability.—This section is applicable to activities under—“(1) the wetlands reserve program, the farmland protection program, and the farm viability program being merged into the agricultural conservation easement program under the amendment made by section 2301 [enacting sections 3865 to 3865d of this title and amending [section 3844 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3844)]; “(2) the wildlife habitat incentive program being merged into the environmental quality incentives program under the amendments made by subtitle C [§ 2201 et seq., amending sections 3839aa to 3839aa–4, 3839aa–7, and 3839aa–8 of this title and enacting provisions set out as a note under [section 3839aa of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3839aa)]; “(3) the agricultural water enhancement program, the Chesapeake Bay watershed program, the cooperative conservation partnership initiative, and the Great Lakes basin program being merged into the regional conservation partnership program under the amendment made by section 2401 [enacting sections 3871 to 3871f of this title]; and “(4) the grassland reserve program being merged into the conservation reserve program under the amendments made by subtitle A [§ 2001 et seq., amending sections 3831, 3831b, and 3832 to 3835 of this title, repealing [section 3835a of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3835a), and enacting provisions set out as a note under [section 3831 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3831)] and into the agricultural conservation easement program under the amendment made by section 2301. “(b) Interim Administration.—Subject to subsection (d), with respect to the implementation of the agricultural conservation easement program under subtitle H of title XII of the Food Security Act of 1985 [[16 U.S.C. 3865](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3865) et seq.], as added by section 2301, the amendments to the environmental quality incentives program made by subtitle C, the regional conservation partnership program under subtitle I of title XII of the Food Security Act of 1985 [[16 U.S.C. 3871](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3871) et seq.], as added by section 2401, and the amendments to the conservation reserve program made by subtitle A, the Secretary [of Agriculture] shall use the regulations in existence as of the day before the date of enactment of this Act [Feb. 7, 2014] that are applicable to the wetlands reserve program, the grassland reserve program, the farmland protection program, the farm viability program, the wildlife habitat incentive program, the agricultural water enhancement program, the Chesapeake Bay watershed program, the cooperative conservation partnership initiative, and the Great Lakes basin program repealed by this subtitle [subtitle H (§ 2701et seq.) of title II of Pub. L. 113–79, see Tables for classification], to the extent that the terms and conditions of such regulations are consistent with—“(1) the provisions of the agricultural conservation easement program and the regional conservation partnership program; and “(2) the amendments to the environmental quality incentives program and the conservation reserve program made by this title. “(c) Funding.—The Secretary may only use funds authorized in this title [see Tables for classification] or in the amendments made by this title for the specific programs listed in subsection (b), including any restrictions on the use of those funds, for the purposes identified in paragraphs (1) and (2) of subsection (b). “(d) Termination of Authority.—The authority of the Secretary to carry out subsection (b) shall terminate on the date that is 270 days after the date of enactment of this Act. “(e) Permanent Administration.—Effective beginning on the termination date described in subsection (d), the Secretary shall provide technical assistance, financial assistance, and easement enrollment in accordance with any final regulations that the Secretary considers necessary to carry out this title and the amendments made by this title.”
+Pub. L. 113–79, title II, § 2712, Feb. 7, 2014, 128 Stat. 771, provided that: “(a) Applicability.—This section is applicable to activities under—“(1) the wetlands reserve program, the farmland protection program, and the farm viability program being merged into the agricultural conservation easement program under the amendment made by section 2301 [enacting sections 3865 to 3865d of this title and amending [section 3844 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3844)]; “(2) the wildlife habitat incentive program being merged into the environmental quality incentives program under the amendments made by subtitle C [subtitle C (§§ 2201–2208) of title II of Pub. L. 113–79, amending sections 3839aa to 3839aa–4, 3839aa–7, and 3839aa–8 of this title]; “(3) the agricultural water enhancement program, the Chesapeake Bay watershed program, the cooperative conservation partnership initiative, and the Great Lakes basin program being merged into the regional conservation partnership program under the amendment made by section 2401 [enacting sections 3871 to 3871f of this title]; and “(4) the grassland reserve program being merged into the conservation reserve program under the amendments made by subtitle A [subtitle A (§§ 2001–2008) of title II of Pub. L. 113–79, amending sections 3831, 3831b, and 3832 to 3835 of this title and repealing [section 3835a of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3835a)] and into the agricultural conservation easement program under the amendment made by section 2301. “(b) Interim Administration.—Subject to subsection (d), with respect to the implementation of the agricultural conservation easement program under subtitle H of title XII of the Food Security Act of 1985 [[16 U.S.C. 3865](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3865) et seq.], as added by section 2301, the amendments to the environmental quality incentives program made by subtitle C, the regional conservation partnership program under subtitle I of title XII of the Food Security Act of 1985 [[16 U.S.C. 3871](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3871) et seq.], as added by section 2401, and the amendments to the conservation reserve program made by subtitle A, the Secretary [of Agriculture] shall use the regulations in existence as of the day before the date of enactment of this Act [Feb. 7, 2014] that are applicable to the wetlands reserve program, the grassland reserve program, the farmland protection program, the farm viability program, the wildlife habitat incentive program, the agricultural water enhancement program, the Chesapeake Bay watershed program, the cooperative conservation partnership initiative, and the Great Lakes basin program repealed by this subtitle [subtitle H (§§ 2701–2713) of title II of Pub. L. 113–79, see Tables for classification], to the extent that the terms and conditions of such regulations are consistent with—“(1) the provisions of the agricultural conservation easement program and the regional conservation partnership program; and “(2) the amendments to the environmental quality incentives program and the conservation reserve program made by this title. “(c) Funding.—The Secretary may only use funds authorized in this title [see Tables for classification] or in the amendments made by this title for the specific programs listed in subsection (b), including any restrictions on the use of those funds, for the purposes identified in paragraphs (1) and (2) of subsection (b). “(d) Termination of Authority.—The authority of the Secretary to carry out subsection (b) shall terminate on the date that is 270 days after the date of enactment of this Act. “(e) Permanent Administration.—Effective beginning on the termination date described in subsection (d), the Secretary shall provide technical assistance, financial assistance, and easement enrollment in accordance with any final regulations that the Secretary considers necessary to carry out this title and the amendments made by this title.”
 
 #### Continuation of Programs in Fiscal Year 2008
 Pub. L. 110–234, title II, § 2903(a), May 22, 2008, 122 Stat. 1091, and Pub. L. 110–246, § 4(a), title II, § 2903(a), June 18, 2008, 122 Stat. 1664, 1819, provided that: “Except as otherwise provided by an amendment made by this title [see Tables for classification], the Secretary of Agriculture shall continue to carry out any program or activity covered by title XII of the Food Security Act ([16 U.S.C. 3801](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3801) et seq.) until September 30, 2008, using the provisions of law applicable to the program or activity as they existed on the day before the date of the enactment of this Act [June 18, 2008] and using funds made available under such title for fiscal year 2008 for the program or activity.”
@@ -250,9 +249,9 @@ Pub. L. 107–171, title X, § 10608, May 13, 2002, 116 Stat. 515, provided that
 
 (3) during the crop year—
 
-  (A) a payment made pursuant to a contract entered into under the environmental quality incentives program under part IV of subchapter IV of this chapter;
+  (A) a payment made pursuant to a contract entered into under the environmental quality incentives program under part IV of subchapter IV;
 
-  (B) a payment under any other provision of subchapter IV of this chapter;
+  (B) a payment under any other provision of subchapter IV;
 
   (C) a payment under section 2201 or 2202 of this title; or
 
@@ -317,6 +316,9 @@ Par. (3). Pub. L. 101–624, § 1411(3)–(5), added par. (3).
 #### Effective Date of 1996 Amendment
 Pub. L. 104–127, title III, § 311, Apr. 4, 1996, 110 Stat. 982, provided that the amendment made by that section is effective 90 days after Apr. 4, 1996.
 
+#### Short Title
+Pub. L. 99–198, title XII, subtitle B, Dec. 23, 1985, 99 Stat. 1506, which is classified generally to this subchapter, is popularly known as the sodbuster provisions.
+
 #### Wind Erosion Estimation Pilot Project
 Pub. L. 104–127, title III, § 317, Apr. 4, 1996, 110 Stat. 986, provided that: “(a) In General.—The Secretary of Agriculture shall conduct a pilot project to review, and modify as appropriate, the use of wind erosion factors under the highly erodible conservation requirements of subtitle B of title XII of the Food Security Act of 1985 ([16 U.S.C. 3811](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3811) et seq.). “(b) Selection of Counties and Producers.—The pilot project shall be conducted for producers in those counties that—“(1) have approximately 100 percent of their cropland determined to be highly erodible under title XII of the Act [[16 U.S.C. 3801](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3801) et seq.]; “(2) have a reasonable likelihood that the use of wind erosion factors under title XII of the Act have resulted in an inequitable application of the highly erodible land requirements of title XII of the Act; and “(3) if the use of the land classification system under section 1201(a)(9)(A) of the Act [[16 U.S.C. 3801(a)(9)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3801/a/9/A&num=0&edition=prelim)] (as redesignated by section 301(a)(1)) may result in a more accurate delineation of the cropland. “(c) Errors in Delineation.—If the Secretary determines that a significant error has occurred in delineating cropland under the pilot project, the Secretary shall, at the request of the owners or operators of the cropland, conduct a new delineation of the cropland using the most accurate available delineation process, as determined by the Secretary.”
 
@@ -331,32 +333,27 @@ Pub. L. 104–127, title III, § 317, Apr. 4, 1996, 110 Stat. 986, provided that
 
   (B) set aside, diverted or otherwise not cultivated under a program administered by the Secretary for any such crops to reduce production of an agricultural commodity.
 
-(2) **Eligibility based on compliance with conservation plan**
+(2) **Eligibility based on compliance with conservation plan.—**
 
-  (A) *In general*
-  If, as of January 1, 1990, or 2 years after the Soil Conservation Service has completed a soil survey for the farm, whichever is later, a person is actively applying a conservation plan, such person shall have until January 1, 1995, to comply with the plan without being subject to program ineligibility.
+  (A) *In general.—* — If, as of January 1, 1990, or 2 years after the Soil Conservation Service has completed a soil survey for the farm, whichever is later, a person is actively applying a conservation plan, such person shall have until January 1, 1995, to comply with the plan without being subject to program ineligibility.
 
-  (B) *Minimization of documentation*
-  In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.
+  (B) *Minimization of documentation.—* — In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.
 
-  (C) *Crop insurance*
+  (C) *Crop insurance.—*
 
-    (i) *Operations new to compliance*
-    Notwithstanding [section 3811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3811/a&num=0&edition=prelim), in the case of a person that is subject to [section 3811 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3811) for the first time solely due to the amendment made by section 2611(a) of the Agricultural Act of 2014, any person who produces an agricultural commodity on the land that is the basis of the payments described in [section 3811(a)(1)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3811/a/1/E&num=0&edition=prelim) shall have 5 reinsurance years after the date on which such payments become subject to [section 3811 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3811) to develop and comply with an approved conservation plan so as to maintain eligibility for such payments.
+    (i) *Operations new to compliance.—* — Notwithstanding [section 3811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3811/a&num=0&edition=prelim), in the case of a person that is subject to [section 3811 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3811) for the first time solely due to the amendment made by section 2611(a) of the Agricultural Act of 2014, any person who produces an agricultural commodity on the land that is the basis of the payments described in [section 3811(a)(1)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3811/a/1/E&num=0&edition=prelim) shall have 5 reinsurance years after the date on which such payments become subject to [section 3811 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3811) to develop and comply with an approved conservation plan so as to maintain eligibility for such payments.
 
-    (ii) *Existing operations with prior violations*
-    Notwithstanding [section 3811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3811/a&num=0&edition=prelim), in the case of a person that the Secretary determines would have been in violation of [section 3811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3811/a&num=0&edition=prelim) if the person had continued participation in the programs requiring compliance at any time after February 7, 2014, and is currently in violation of [section 3811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3811/a&num=0&edition=prelim), the person shall have 2 reinsurance years after the date on which the payments described in [section 3811(a)(1)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3811/a/1/E&num=0&edition=prelim) become subject to [section 3811 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3811) to develop and comply with an approved conservation plan, as determined by the Secretary, so as to maintain eligibility for such payments.
+    (ii) *Existing operations with prior violations.—* — Notwithstanding [section 3811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3811/a&num=0&edition=prelim), in the case of a person that the Secretary determines would have been in violation of [section 3811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3811/a&num=0&edition=prelim) if the person had continued participation in the programs requiring compliance at any time after February 7, 2014, and is currently in violation of [section 3811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3811/a&num=0&edition=prelim), the person shall have 2 reinsurance years after the date on which the payments described in [section 3811(a)(1)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3811/a/1/E&num=0&edition=prelim) become subject to [section 3811 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3811) to develop and comply with an approved conservation plan, as determined by the Secretary, so as to maintain eligibility for such payments.
 
-    (iii) *Applicable reinsurance year*
-    Ineligibility for the payment described in [section 3811(a)(1)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3811/a/1/E&num=0&edition=prelim) for a violation under this subparagraph during a crop year shall—
+    (iii) *Applicable reinsurance year.—* — Ineligibility for the payment described in [section 3811(a)(1)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3811/a/1/E&num=0&edition=prelim) for a violation under this subparagraph during a crop year shall—
 
-    (I) only apply to reinsurance years subsequent to the date of a final determination of a violation, including all administrative appeals; and
+      (I) only apply to reinsurance years subsequent to the date of a final determination of a violation, including all administrative appeals; and
 
-    (II) not apply to the existing reinsurance year or any reinsurance year prior to the date of the final determination.
+      (II) not apply to the existing reinsurance year or any reinsurance year prior to the date of the final determination.
 
-(3) Any person who owns or operates highly erodible land that was the subject of a contract entered into under subpart B of part I of subchapter IV of this chapter shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person’s conservation plan requires structures to be constructed, the person shall have until 2 years after the expiration of such contract to comply with the conservation plan, or a longer period of time if the Secretary determines compliance is otherwise technically or economically not feasible, or such longer period is otherwise appropriate, before such person will be subject to program ineligibility with respect to such land under [section 3811 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3811).
+(3) Any person who owns or operates highly erodible land that was the subject of a contract entered into under subpart B of part I of subchapter IV shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person’s conservation plan requires structures to be constructed, the person shall have until 2 years after the expiration of such contract to comply with the conservation plan, or a longer period of time if the Secretary determines compliance is otherwise technically or economically not feasible, or such longer period is otherwise appropriate, before such person will be subject to program ineligibility with respect to such land under [section 3811 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3811).
 
-(4) On the expiration of a contract entered into under subpart B of part I of subchapter IV of this chapter, the provisions of this subchapter shall apply to the acreage that was the subject of such contract.
+(4) On the expiration of a contract entered into under subpart B of part I of subchapter IV, the provisions of this subchapter shall apply to the acreage that was the subject of such contract.
 
 **(b) Persons eligible for program benefits in connection with production of certain planted crops or production of crops on highly erodible land** No person shall become ineligible under [section 3811 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3811) for program loans, payments, and benefits as the result of the production of a crop of an agricultural commodity—
 
@@ -574,7 +571,7 @@ The Secretary shall, as soon as is practicable after December 23, 1985, complete
 
 (2) ineligible for loans or payments in an amount determined by the Secretary to be proportionate to the severity of the violation.
 
-**(b) Ineligibility for certain loans and payments** If a person is determined to have committed a violation under subsection (a) of this section during a crop year, the Secretary shall determine which of, and the amount of, the following loans and payments for which the person shall be ineligible:
+**(b) Ineligibility for certain loans and payments** If a person is determined to have committed a violation under subsection (a) during a crop year, the Secretary shall determine which of, and the amount of, the following loans and payments for which the person shall be ineligible:
 
 (1) Contract payments under a production flexibility contract, marketing assistance loans, and any type of price support or payment made available under the Agricultural Market Transition Act [[7 U.S.C. 7201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7201&num=0&edition=prelim) et seq.], the Commodity Credit Corporation Charter Act ([15 U.S.C. 714](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714&num=0&edition=prelim) et seq.), or any other Act.
 
@@ -582,9 +579,9 @@ The Secretary shall, as soon as is practicable after December 23, 1985, complete
 
 (3) During the crop year:
 
-  (A) A payment made pursuant to a contract entered into under the environmental quality incentives program under part IV of subchapter IV of this chapter.
+  (A) A payment made pursuant to a contract entered into under the environmental quality incentives program under part IV of subchapter IV.
 
-  (B) A payment under any other provision of subchapter IV of this chapter.
+  (B) A payment under any other provision of subchapter IV.
 
   (C) A payment under section 2201 or 2202 of this title.
 
@@ -668,9 +665,9 @@ The Secretary shall, as soon as is practicable after December 23, 1985, complete
 
   (C) *Limitation* — The Secretary shall ensure that no agent, approved insurance provider, or employee or contractor of an agency or approved insurance provider, bears responsibility or liability for the eligibility of an insured producer under this subsection, other than in cases of misrepresentation, fraud, or scheme and device.
 
-**(d) Wetland conversion** Except as provided in [section 3822 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3822) and notwithstanding any other provision of law, any person who in any crop year beginning after November 28, 1990, converts a wetland by draining, dredging, filling, leveling, or any other means for the purpose, or to have the effect, of making the production of an agricultural commodity possible on such converted wetland shall be ineligible for those payments, loans, or programs specified in subsection (b) of this section for that crop year and all subsequent crop years.
+**(d) Wetland conversion** Except as provided in [section 3822 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3822) and notwithstanding any other provision of law, any person who in any crop year beginning after November 28, 1990, converts a wetland by draining, dredging, filling, leveling, or any other means for the purpose, or to have the effect, of making the production of an agricultural commodity possible on such converted wetland shall be ineligible for those payments, loans, or programs specified in subsection (b) for that crop year and all subsequent crop years.
 
-**(e) Prior loans** This section shall not apply to a loan described in subsection (b) of this section made before December 23, 1985.
+**(e) Prior loans** This section shall not apply to a loan described in subsection (b) made before December 23, 1985.
 
 **(f) Wetland** The Secretary shall have, and shall not delegate to any private person or entity, authority to determine whether a person has complied with this subchapter.
 
@@ -719,12 +716,15 @@ Subsec. (b). Pub. L. 101–624, § 1421(b)(6), added subsec. (b).
 #### Effective Date of 1996 Amendment
 Pub. L. 104–127, title III, § 326, Apr. 4, 1996, 110 Stat. 992, provided that: “This subtitle [subtitle C (§§ 321–326) of title III of Pub. L. 104–127, enacting [section 3823 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3823), amending this section and [section 3822 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3822), and repealing former [section 3823 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3823)] and the amendments made by this subtitle shall become effective 90 days after the date of enactment of this Act [Apr. 4, 1996].”
 
+#### Short Title
+Pub. L. 99–198, title XII, subtitle C, Dec. 23, 1985, 99 Stat. 1507, which is classified generally to this subchapter, is popularly known as the swampbuster provisions.
+
 
 <a id="section-3822"></a>
 ## § 3822. Delineation of wetlands; exemptions
 **(a) Delineation by Secretary**
 
-(1) **In general** — Subject to subsection (b) of this section and paragraph (6), the Secretary shall delineate, determine, and certify all wetlands located on subject land on a farm.
+(1) **In general** — Subject to subsection (b) and paragraph (6), the Secretary shall delineate, determine, and certify all wetlands located on subject land on a farm.
 
 (2) **Wetland delineation maps** — The Secretary shall delineate wetlands on wetland delineation maps. On the request of a person, the Secretary shall make a reasonable effort to make an on-site wetland determination prior to delineation.
 
@@ -802,7 +802,7 @@ Pub. L. 104–127, title III, § 326, Apr. 4, 1996, 110 Stat. 992, provided that
 
 **(c) On-site inspection requirement** No program loans, payments, or benefits shall be withheld from a person under this subchapter unless the Secretary has conducted an on-site visit of the subject land.
 
-**(d) Identification of minimal effect exemptions** For purposes of applying the minimal effect exemption under subsection (f)(1) of this section, the Secretary shall identify by regulation categorical minimal effect exemptions on a regional basis to assist persons in avoiding a violation of the ineligibility provisions of [section 3821 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3821). The Secretary shall ensure that employees of the Department of Agriculture who administer this subchapter receive appropriate training to properly apply the minimal effect exemptions determined by the Secretary.
+**(d) Identification of minimal effect exemptions** For purposes of applying the minimal effect exemption under subsection (f)(1), the Secretary shall identify by regulation categorical minimal effect exemptions on a regional basis to assist persons in avoiding a violation of the ineligibility provisions of [section 3821 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3821). The Secretary shall ensure that employees of the Department of Agriculture who administer this subchapter receive appropriate training to properly apply the minimal effect exemptions determined by the Secretary.
 
 **(e) Nonwetlands** The Secretary shall exempt from the ineligibility provisions of [section 3821 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3821) any action by a person upon lands in any case in which the Secretary determines that any one of the following does not apply with respect to such lands:
 
@@ -875,7 +875,7 @@ Pub. L. 104–127, title III, § 326, Apr. 4, 1996, 110 Stat. 992, provided that
 ### Statutory Notes
 
 #### References in Text
-[Section 3843 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3843), referred to in subsec. (g), was omitted and a new section 3843 was added in the general amendment of subchapter V of this chapter by Pub. L. 104–127, title III, § 341, Apr. 4, 1996, 110 Stat. 1008 and was subsequently repealed by Pub. L. 113–79, title II, § 2710(a), Feb. 7, 2014, 128 Stat. 770. The new section 3843 did not relate to appeal procedures.
+[Section 3843 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3843), referred to in subsec. (g), was omitted and a new section 3843 was added in the general amendment of subchapter V of this chapter by Pub. L. 104–127, title III, § 341, Apr. 4, 1996, 110 Stat. 1008. The new section 3843, which did not relate to appeal procedures, was subsequently repealed by Pub. L. 113–79, title II, § 2710(a), Feb. 7, 2014, 128 Stat. 770.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -958,7 +958,7 @@ Section, Pub. L. 99–198, title XII, § 1230A, as added Pub. L. 106–387, § 1
 
 <a id="section-3831"></a>
 ## § 3831. Conservation reserve
-**(a) In general** Through the 2018 fiscal year, the Secretary shall formulate and carry out a conservation reserve program under which land is enrolled through the use of contracts to assist owners and operators of land specified in subsection (b) of this section to conserve and improve the soil, water, and wildlife resources of such land and to address issues raised by State, regional, and national conservation initiatives.
+**(a) In general** Through the 2018 fiscal year, the Secretary shall formulate and carry out a conservation reserve program under which land is enrolled through the use of contracts to assist owners and operators of land specified in subsection (b) to conserve and improve the soil, water, and wildlife resources of such land and to address issues raised by State, regional, and national conservation initiatives.
 
 **(b) Eligible land** The Secretary may include in the program established under this subpart—
 
@@ -968,7 +968,7 @@ Section, Pub. L. 99–198, title XII, § 1230A, as added Pub. L. 106–387, § 1
 
     (i) if permitted to remain untreated could substantially reduce the agricultural production capability for future generations; or
 
-    (ii) cannot be farmed in accordance with a plan that complies with the requirements of subchapter II of this chapter; and
+    (ii) cannot be farmed in accordance with a plan that complies with the requirements of subchapter II; and
 
   (B) the Secretary determines had a cropping history or was considered to be planted for 4 of the 6 years preceding February 7, 2014 (except for land enrolled in the conservation reserve program as of that date);
 
@@ -1145,7 +1145,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 Pub. L. 106–387, § 1(a) [title XI, § 1105], Oct. 28, 2000, 114 Stat. 1549, 1549A–78, required the Secretary of Agriculture, as soon as practicable after Oct. 28, 2000, to promulgate regulations to implement the amendments by section 1(a) [title XI] of Pub. L. 106–387, amending former sections 3831 and 3832 of this title.
 
 #### Effect on Existing Contracts
-Pub. L. 113–79, title II, § 2008, Feb. 7, 2014, 128 Stat. 720, provided that: “(a) In General.—Except as provided in paragraph (2), the amendments made by this subtitle [subtitle A (§§ 2001–2008) of title II of Pub. L. 113–79, see Tables for classification] shall not affect the validity or terms of any contract entered into by the Secretary of Agriculture under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3831](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3831) et seq.) before the date of enactment of the Agricultural Act of 2014 [Feb. 7, 2014], or any payments required to be made in connection with the contract. “(b) Updating of Existing Contracts.—The Secretary shall permit an owner or operator of land subject to a contract entered into under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3831](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3831) et seq.) before the date of enactment of the Agricultural Act of 2014 [Feb. 7, 2014], to update the contract to reflect the activities and uses of land under contract permitted under the terms and conditions of section 1233(b) of that Act [[16 U.S.C. 3833(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3833/b&num=0&edition=prelim)] (as amended by section 2004 [of Pub. L. 113–79]), as determined appropriate by the Secretary.”
+Pub. L. 113–79, title II, § 2008, Feb. 7, 2014, 128 Stat. 720, provided that: “(a) In General.—Except as provided in paragraph (2), the amendments made by this subtitle [subtitle A (§§ 2001–2008) of title II of Pub. L. 113–79, amending this section and sections 3831b and 3832 to 3835 of this title and repealing [section 3835a of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3835a)] shall not affect the validity or terms of any contract entered into by the Secretary of Agriculture under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3831](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3831) et seq.) before the date of enactment of the Agricultural Act of 2014 [Feb. 7, 2014], or any payments required to be made in connection with the contract. “(b) Updating of Existing Contracts.—The Secretary shall permit an owner or operator of land subject to a contract entered into under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3831](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3831) et seq.) before the date of enactment of the Agricultural Act of 2014 [Feb. 7, 2014], to update the contract to reflect the activities and uses of land under contract permitted under the terms and conditions of section 1233(b) of that Act [[16 U.S.C. 3833(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3833/b&num=0&edition=prelim)] (as amended by section 2004), as determined appropriate by the Secretary.”
 
 #### Study on Economic Effects
 Pub. L. 107–171, title II, § 2101(b), May 13, 2002, 116 Stat. 252, provided that: “(1) In general.—Not later than 18 months after the date of enactment of this Act [May 13, 2002], the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the economic and social effects on rural communities resulting from the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3831](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3831) et seq.). “(2) Components.—The study under paragraph (1) shall include analyses of—“(A) the impact that enrollments in the conservation reserve program have on rural businesses, civic organizations, and community services (such as schools, public safety, and infrastructure), particularly in communities with a large percentage of whole farm enrollments; “(B) the effect that those enrollments have on rural population and beginning farmers (including a description of any connection between the rate of enrollment and the incidence of absentee ownership); “(C)(i) the manner in which differential per acre payment rates potentially impact the types of land (by productivity) enrolled; “(ii) changes to the per acre payment rates that may affect that impact; and “(iii) the manner in which differential per acre payment rates could facilitate retention of productive agricultural land in agriculture; and “(D) the effect of enrollment on opportunities for recreational activities (including hunting and fishing).”
@@ -1742,7 +1742,7 @@ For provisions directing that enumerated provisions of the Food Security Act of 
 
 (5) **Renewed enrollment** — The termination of a contract entered into under this subpart shall not affect the ability of the owner or operator that requested the termination to submit a subsequent bid to enroll the land that was subject to the contract into the conservation reserve.
 
-(6) **Conservation requirements** — If land that was subject to a contract is returned to production of an agricultural commodity, the conservation requirements under subchapters II and III of this chapter shall apply to the use of the land to the extent that the requirements are similar to those requirements imposed on other similar land in the area, except that the requirements may not be more onerous than the requirements imposed on other land.
+(6) **Conservation requirements** — If land that was subject to a contract is returned to production of an agricultural commodity, the conservation requirements under subchapters II and III shall apply to the use of the land to the extent that the requirements are similar to those requirements imposed on other similar land in the area, except that the requirements may not be more onerous than the requirements imposed on other land.
 
 **(f) Transition option for certain farmers or ranchers**
 
@@ -1830,7 +1830,7 @@ Section 3835a, Pub. L. 99–198, title XII, § 1235A, as added Pub. L. 101–624
 
 Section 3836, Pub. L. 99–198, title XII, § 1236, Dec. 23, 1985, 99 Stat. 1514; Pub. L. 101–624, title XIV, §§ 1436, 1447(a), Nov. 28, 1990, 104 Stat. 3583, 3605; Pub. L. 107–76, title VII, § 759(b)(1), Nov. 28, 2001, 115 Stat. 741, related to cropland base and allotment history.
 
-A prior section 3836a, Pub. L. 104–127, title III, § 387, Apr. 4, 1996, 110 Stat. 1020, related to Wildlife Habitat Incentive Program, prior to repeal by Pub. L. 107–171, title II, § 2502(b), May 13, 2002, 116 Stat. 267. See [section 3839bb–1 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3839bb-1).
+A prior section 3836a, Pub. L. 104–127, title III, § 387, Apr. 4, 1996, 110 Stat. 1020, related to Wildlife Habitat Incentive Program, prior to repeal by Pub. L. 107–171, title II, § 2502(b), May 13, 2002, 116 Stat. 267.
 
 
 <a id="section-3837-to-3837f"></a>
@@ -1856,7 +1856,7 @@ Section 3837f, Pub. L. 99–198, title XII, § 1237F, as added Pub. L. 101–624
 Pub. L. 113–79, title II, § 2703, Feb. 7, 2014, 128 Stat. 767, provided that: “(a) Repeal.—Except as provided in subsection (b), subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3837](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3837&num=0&edition=prelim) et seq.) is repealed. “(b) Transitional Provisions.—“(1) Effect on existing contracts, agreements, and easements.—The amendment made by this section [repealing sections 3837 to 3837f of this title] shall not affect the validity or terms of any contract, agreement, or easement entered into by the Secretary of Agriculture under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([former] [16 U.S.C. 3837](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3837&num=0&edition=prelim) et seq.) before the date of enactment of the Agricultural Act of 2014 [Feb. 7, 2014], or any payments required to be made in connection with the contract, agreement, or easement. “(2) Funding.—“(A) Use of prior year funds.—Notwithstanding the repeal of subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([former] [16 U.S.C. 3837](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3837&num=0&edition=prelim) et seq.), any funds made available from the Commodity Credit Corporation to carry out the wetlands reserve program under that subchapter for fiscal years 2009 through 2013 shall be made available to carry out contracts, agreements, or easements referred to in paragraph (1) that were entered into prior to the date of enactment of the Agricultural Act of 2014 (including the provision of technical assistance), provided that no such contract, agreement, or easement is modified so as to increase the amount of the payment received. “(B) Other.—The Secretary [of Agriculture] may use funds made available to carry out the agricultural conservation easement program under subtitle H of title XII of the Food Security Act of 1985 [[16 U.S.C. 3865](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3865) et seq.], as added by section 2301, to continue to carry out contracts, agreements, and easements referred to in paragraph (1) using the provisions of law and regulation applicable to such contracts, agreements, and easements as in existence on the day before the date of enactment of the Agricultural Act of 2014.”
 
 #### Effect of 1996 Amendments on Existing Agreements
-Pub. L. 104–127, title III, § 333(f), Apr. 4, 1996, 110 Stat. 996, provided that: “The amendments made by this section [amending this section and sections 3837a and 3837c of this title] shall not affect the validity or terms of any agreements entered into by the Secretary of Agriculture under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([former] [16 U.S.C. 3837](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3837&num=0&edition=prelim) et seq.) before the date of enactment of this Act [Apr. 4, 1996] or any payments required to be made in connection with the agreements.”
+Pub. L. 104–127, title III, § 333(f), Apr. 4, 1996, 110 Stat. 996, provided that: “The amendments made by this section [amending former sections 3837, 3837a, and 3837c of this title] shall not affect the validity or terms of any agreements entered into by the Secretary of Agriculture under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([former] [16 U.S.C. 3837](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3837&num=0&edition=prelim) et seq.) before the date of enactment of this Act [Apr. 4, 1996] or any payments required to be made in connection with the agreements.”
 
 
 <a id="section-3838"></a>
@@ -1937,7 +1937,7 @@ Pub. L. 107–171, title II, § 2001(b), May 13, 2002, 116 Stat. 233, provided t
 
 (1) **Eligible producers** — To be eligible to participate in the conservation security program (other than to receive technical assistance under [section 3838c(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3838c/g&num=0&edition=prelim) for the development of conservation security contracts), a producer shall—
 
-  (A) develop and submit to the Secretary, and obtain the approval of the Secretary of, a conservation security plan that meets the requirements of subsection (c)(1) of this section; and
+  (A) develop and submit to the Secretary, and obtain the approval of the Secretary of, a conservation security plan that meets the requirements of subsection (c)(1); and
 
   (B) enter into a conservation security contract with the Secretary to carry out the conservation security plan.
 
@@ -1945,13 +1945,13 @@ Pub. L. 107–171, title II, § 2001(b), May 13, 2002, 116 Stat. 233, provided t
 
 (3) **Exclusions**
 
-  (A) *Conservation reserve program* — Land enrolled in the conservation reserve program under subpart B of part I of this subchapter shall not be eligible for enrollment in the conservation security program.
+  (A) *Conservation reserve program* — Land enrolled in the conservation reserve program under subpart B of part I shall not be eligible for enrollment in the conservation security program.
 
-  (B) *Wetlands reserve program* — Land enrolled in the wetlands reserve program established under subpart C of part I of this subchapter shall not be eligible for enrollment in the conservation security program.
+  (B) *Wetlands reserve program* — Land enrolled in the wetlands reserve program established under subpart C of part I shall not be eligible for enrollment in the conservation security program.
 
   (C) *Grassland reserve program* — Land enrolled in the grassland reserve program established under subpart D of this part shall not be eligible for enrollment in the conservation security program.
 
-  (D) *Conversion to cropland* — Land that is used for crop production after May 13, 2002, that had not been planted, considered to be planted, or devoted to crop production for at least 4 of the 6 years preceding May 13, 2002 (except for land enrolled in the conservation reserve program under subpart B of part I of this subchapter) or that has been maintained using long-term crop rotation practices, as determined by the Secretary, shall not be the basis for any payment under the conservation security program.
+  (D) *Conversion to cropland* — Land that is used for crop production after May 13, 2002, that had not been planted, considered to be planted, or devoted to crop production for at least 4 of the 6 years preceding May 13, 2002 (except for land enrolled in the conservation reserve program under subpart B of part I) or that has been maintained using long-term crop rotation practices, as determined by the Secretary, shall not be the basis for any payment under the conservation security program.
 
 (4) **Economic uses** — The Secretary shall permit a producer to implement, with respect to all eligible land covered by a conservation security plan, economic uses that—
 
@@ -1965,7 +1965,7 @@ Pub. L. 107–171, title II, § 2001(b), May 13, 2002, 116 Stat. 233, provided t
 
   (A) identify the designated land and resources to be conserved under the conservation security plan;
 
-  (B) describe the tier of conservation security contract, and the particular conservation practices to be implemented, maintained, or improved, in accordance with subsection (d) of this section on the land covered by the conservation security contract for the specified term; and
+  (B) describe the tier of conservation security contract, and the particular conservation practices to be implemented, maintained, or improved, in accordance with subsection (d) on the land covered by the conservation security contract for the specified term; and
 
   (C) contain a schedule for the implementation, maintenance, or improvement of the conservation practices described in the conservation security plan during the term of the conservation security contract.
 
@@ -1995,7 +1995,7 @@ Pub. L. 107–171, title II, § 2001(b), May 13, 2002, 116 Stat. 233, provided t
 
   (B) *State and local conservation priorities* — The conservation priorities of a State or locality in which an agricultural operation is situated shall be determined by the State Conservationist, in consultation with—
 
-    (i) the State technical committee established under subchapter VI of this chapter; and
+    (i) the State technical committee established under subchapter VI; and
 
     (ii) local agricultural producers and conservation working groups.
 
@@ -2091,9 +2091,9 @@ Pub. L. 107–171, title II, § 2001(b), May 13, 2002, 116 Stat. 233, provided t
 
         (aa) the conservation security program;
 
-        (bb) the conservation reserve program under subpart B of part I of this subchapter; and
+        (bb) the conservation reserve program under subpart B of part I; and
 
-        (cc) the wetlands reserve program under subpart C of part I of this subchapter; and
+        (cc) the wetlands reserve program under subpart C of part I; and
 
       (II) may remove land enrolled in the conservation security program for enrollment in a program described in item (bb) or (cc) of subclause (I).
 
@@ -2121,7 +2121,7 @@ Pub. L. 107–171, title II, § 2001(b), May 13, 2002, 116 Stat. 233, provided t
 
     (ii) to adopt new conservation practices with respect to another portion of the agricultural operation that address resource concerns and meet the nondegradation standard under the terms of the Tier I conservation security contract.
 
-**(f) Noncompliance due to circumstances beyond the control of producers** The Secretary shall include in the conservation security contract a provision, and may permit modification of a conservation security contract under subsection (e)(1) of this section, to ensure that a producer shall not be considered in violation of a conservation security contract for failure to comply with the conservation security contract due to circumstances beyond the control of the producer, including a disaster or related condition, as determined by the Secretary.
+**(f) Noncompliance due to circumstances beyond the control of producers** The Secretary shall include in the conservation security contract a provision, and may permit modification of a conservation security contract under subsection (e)(1), to ensure that a producer shall not be considered in violation of a conservation security contract for failure to comply with the conservation security contract due to circumstances beyond the control of the producer, including a disaster or related condition, as determined by the Secretary.
 
 **(g) Prohibition on conservation security program contracts; effect on existing contracts**
 
@@ -2265,13 +2265,13 @@ A prior section 3838b, Pub. L. 99–198, title XII, § 1238B, as added Pub. L. 1
 
   (B) the purchase or maintenance of equipment or a non-land based structure that is not integral to a land-based practice, as determined by the Secretary.
 
-**(c) Minimum practice requirement** In determining a payment under subsection (b) of this section for a producer that receives a payment under another program administered by the Secretary that is contingent on complying with requirements under subchapter II or III of this chapter (relating to the use of highly erodible land or wetland), a payment under this subpart on land subject to those requirements shall be for practices only to the extent that the practices exceed minimum requirements for the producer under those subchapters, as determined by the Secretary.
+**(c) Minimum practice requirement** In determining a payment under subsection (b) for a producer that receives a payment under another program administered by the Secretary that is contingent on complying with requirements under subchapter II or III (relating to the use of highly erodible land or wetland), a payment under this subpart on land subject to those requirements shall be for practices only to the extent that the practices exceed minimum requirements for the producer under those subchapters, as determined by the Secretary.
 
 **(d) Regulations** The Secretary shall promulgate regulations that—
 
 (1) provide for adequate safeguards to protect the interests of tenants and sharecroppers, including provision for sharing payments, on a fair and equitable basis; and
 
-(2) prescribe such other rules as the Secretary determines to be necessary to ensure a fair and reasonable application of the limitations established under subsection (b) of this section.
+(2) prescribe such other rules as the Secretary determines to be necessary to ensure a fair and reasonable application of the limitations established under subsection (b).
 
 **(e) Transfer or change of interest in land subject to conservation security contract**
 
@@ -2732,7 +2732,9 @@ A prior section 3839aa, Pub. L. 99–198, title XII, § 1240, as added Pub. L. 1
 #### Amendments
 2014—Par. (3). Pub. L. 113–79, § 2201(1), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Par. (5). Pub. L. 113–79, § 2201(2), (3), struck out par. (5) which read as follows: “consolidating and streamlining conservation planning and regulatory compliance processes to reduce administrative burdens on producers and the cost of achieving environmental goals.”
+Par. (4). Pub. L. 113–79, § 2201(2), substituted a period for “; and” at end.
+
+Par. (5). Pub. L. 113–79, § 2201(3), struck out par. (5) which read as follows: “consolidating and streamlining conservation planning and regulatory compliance processes to reduce administrative burdens on producers and the cost of achieving environmental goals.”
 
 2008—Pub. L. 110–246, § 2501(a)(1), inserted “, forest management,” after “agricultural production” in introductory provisions.
 
@@ -2746,7 +2748,7 @@ Pars. (3), (4). Pub. L. 110–246, § 2501(a)(2), added pars. (3) and (4) and st
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
 #### Effect on Existing Contracts
-Pub. L. 113–79, title II, § 2208, Feb. 7, 2014, 128 Stat. 731, provided that: “The amendments made by this subtitle [subtitle C (§§ 2201–2208) of title II of Pub. L. 113–79, see Tables for classification] shall not affect the validity or terms of any contract entered into by the Secretary of Agriculture under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3839aa](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3839aa) et seq.) before the date of enactment of the Agricultural Act of 2014 [Feb. 7, 2014], or any payments required to be made in connection with the contract.”
+Pub. L. 113–79, title II, § 2208, Feb. 7, 2014, 128 Stat. 731, provided that: “The amendments made by this subtitle [subtitle C (§§ 2201–2208) of title II of Pub. L. 113–79, amending this section and sections 3839aa–1 to 3839aa–4, 3839aa–7, and 3839aa–8 of this title] shall not affect the validity or terms of any contract entered into by the Secretary of Agriculture under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3839aa](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3839aa) et seq.) before the date of enactment of the Agricultural Act of 2014 [Feb. 7, 2014], or any payments required to be made in connection with the contract.”
 
 
 <a id="section-3839aa-1"></a>
@@ -2814,7 +2816,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 3839aa–1, Pub. L. 99–198, title XII, § 1240A, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 997, related to definitions of terms, prior to the general amendment of this part by Pub. L. 107–171.
 
 #### Amendments
-2014—Pars. (2) to (6). Pub. L. 113–79 redesignated pars. (3) to (6) as (2) to (5), respectively, inserted “established under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6501&num=0&edition=prelim) et seq.)” after “national organic program” in par. (2), and struck out former par. (2). Text read as follows: “The term ‘national organic program’ means the national organic program established under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6501&num=0&edition=prelim) et. seq.).”
+2014—Pars. (2) to (6). Pub. L. 113–79 redesignated pars. (3) to (6) as (2) to (5), respectively, inserted “established under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6501&num=0&edition=prelim) et seq.)” after “national organic program” in par. (2), and struck out former par. (2). Text of former par. (2) read as follows: “The term ‘national organic program’ means the national organic program established under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6501&num=0&edition=prelim) et. seq.).”
 
 2008—Pub. L. 110–246, § 2502, amended section generally. Prior to amendment, section defined “beginning farmer or rancher”, “eligible land”, “land management practice”, “livestock”, “practice”, and “structural practice”.
 
@@ -2968,7 +2970,7 @@ A prior section 3839aa–2, Pub. L. 99–198, title XII, § 1240B, as added Pub.
 
 Pub. L. 113–76 substituted “2015” for “2014”.
 
-Subsec. (b)(2). Pub. L. 113–79, § 2203(2), added par. (2) and struck out former par. (2) which read as follows: “A contract under the program shall have a term that—
+Subsec. (b)(2). Pub. L. 113–79, § 2203(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “A contract under the program shall have a term that—
 
 “(A) at a minimum, is equal to the period beginning on the date on which the contract is entered into and ending on the date that is one year after the date on which all practices under the contract have been implemented; but
 
@@ -2992,11 +2994,11 @@ Subsec. (d)(3)(A) to (G). Pub. L. 113–79, § 2203(3)(A), added subpars. (A) to
 
 Subsec. (d)(4)(A). Pub. L. 113–79, § 2203(3)(B)(i), in introductory provisions, inserted “, a veteran farmer or rancher (as defined in [section 2279(e) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/e&num=0&edition=prelim)),” before “or a beginning farmer or rancher”.
 
-Subsec. (d)(4)(B). Pub. L. 113–79, § 2203(3)(B)(ii), added subpar. (B) and struck out former subpar. (B). Text read as follows: “Not more than 30 percent of the amount determined under subparagraph (A) may be provided in advance for the purpose of purchasing materials or contracting.”
+Subsec. (d)(4)(B). Pub. L. 113–79, § 2203(3)(B)(ii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “Not more than 30 percent of the amount determined under subparagraph (A) may be provided in advance for the purpose of purchasing materials or contracting.”
 
-Subsec. (f). Pub. L. 113–79, § 2203(4), added subsec. (f) and struck out former subsec. (f). Text read as follows: “For each of fiscal years 2002 through 2012, 60 percent of the funds made available for payments under the program shall be targeted at practices relating to livestock production.”
+Subsec. (f). Pub. L. 113–79, § 2203(4), added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “For each of fiscal years 2002 through 2012, 60 percent of the funds made available for payments under the program shall be targeted at practices relating to livestock production.”
 
-Subsec. (g). Pub. L. 113–79, § 2203(5), added subsec. (g) and struck out former subsec. (g). Text read as follows: “The Secretary may enter into alternative funding arrangements with federally recognized Native American Indian Tribes and Alaska Native Corporations (including their affiliated membership organizations) if the Secretary determines that the goals and objectives of the program will be met by such arrangements, and that statutory limitations regarding contracts with individual producers will not be exceeded by any Tribal or Native Corporation member.”
+Subsec. (g). Pub. L. 113–79, § 2203(5), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “The Secretary may enter into alternative funding arrangements with federally recognized Native American Indian Tribes and Alaska Native Corporations (including their affiliated membership organizations) if the Secretary determines that the goals and objectives of the program will be met by such arrangements, and that statutory limitations regarding contracts with individual producers will not be exceeded by any Tribal or Native Corporation member.”
 
 2011—Subsec. (a). Pub. L. 112–55 substituted “2014” for “2012”.
 
@@ -3165,7 +3167,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 <a id="section-3839aa-7"></a>
 ## § 3839aa–7. Limitation on payments
 
-A person or legal entity may not receive, directly or indirectly, cost-share or incentive payments under this part that, in aggregate, exceed $450,000 for all contracts entered into under this chapter by the person or legal entity during the period of fiscal years 2014 through 2018, regardless of the number of contracts entered into under this part by the person or legal entity.
+A person or legal entity may not receive, directly or indirectly, cost-share or incentive payments under this part that, in aggregate, exceed $450,000 for all contracts entered into under this part by the person or legal entity during the period of fiscal years 2014 through 2018, regardless of the number of contracts entered into under this part by the person or legal entity.
 
 ### Statutory Notes
 
@@ -3176,7 +3178,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 3839aa–7, Pub. L. 99–198, title XII, § 1240G, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 1001, related to limitation on payments, prior to the general amendment of this part by Pub. L. 107–171.
 
 #### Amendments
-2014—Pub. L. 113–79 amended section generally. Prior to amendment, section related to limitation on payments and included waiver authority in the case of contracts for projects of special environmental signficance as determined by the Secretary.
+2014—Pub. L. 113–79 amended section generally. Prior to amendment, section related to limitation on payments and included waiver authority in the case of contracts for projects of special environmental significance as determined by the Secretary.
 
 2008—Pub. L. 110–246, § 2508, designated existing provisions as subsec. (a), inserted heading, substituted “Subject to subsection (b), a person or legal entity” for “An individual or entity” and “$300,000” for “$450,000”, substituted “the person” for “the individual” in two places, and added subsec. (b).
 
@@ -3563,7 +3565,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
     (iv) to keep eligible land in a conserving use, as defined by the Secretary.
 
-  (E) *Loss of federal benefits* — Eligible land purchased with a grant under this section shall lose eligibility for any benefits under other Federal programs, including—
+  (E) *Loss of Federal benefits* — Eligible land purchased with a grant under this section shall lose eligibility for any benefits under other Federal programs, including—
 
     (i) benefits under title XII of the Food Security Act of 1985 ([16 U.S.C. 3801](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3801) et seq.);
 
@@ -3608,11 +3610,11 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 ### Statutory Notes
 
 #### References in Text
-The Food Security Act of 1985, referred to in subsecs. (a)(1)(B)(i)(I) and (c)(2)(E)(i), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of this title. Subtitle H of the Food Security Act of 1985 probably means subtitle H (§ 1265 et seq.) of title XII of Pub. L. 99–198, which is classified generally to subchapter VII (§ 3865 et seq.) of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim), Agriculture, and Tables.
+The Food Security Act of 1985, referred to in subsecs. (a)(1)(B)(i)(I) and (c)(2)(E)(i), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to this chapter. Subtitle H of the Food Security Act of 1985 probably means subtitle H (§ 1265 et seq.) of title XII of Pub. L. 99–198, which is classified generally to subchapter VII of this chapter. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim), Agriculture, and Tables.
 
 The Federal Crop Insurance Act, referred to in subsec. (c)(2)(E)(ii), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1501 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1501&num=0&edition=prelim) and Tables.
 
-Section 2507 of the Farm Security and Rural Investment Act of 2002 ([43 U.S.C. 2211](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section2211&num=0&edition=prelim) note; Public Law 107–171) (as in effect on the day before February 7, 2014), referred to in subsec. (d)(3)(B)(i), is section 2507 of Pub. L. 107–171, title II, May 13, 2002, 116 Stat. 275, which was classified as a note under [section 2211 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section2211&num=0&edition=prelim), Public Lands, prior to general amendment by Pub. L. 113–79 and editorial reclassification as this section.
+Section 2507 of the Farm Security and Rural Investment Act of 2002 ([43 U.S.C. 2211](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section2211&num=0&edition=prelim) note; Public Law 107–171) (as in effect on the day before February 7, 2014), referred to in subsec. (d)(3)(B)(i), is section 2507 of Pub. L. 107–171, title II, May 13, 2002, 116 Stat. 275, which was classified as a note under [section 2211 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section2211&num=0&edition=prelim), Public Lands, prior to being amended generally by Pub. L. 113–79 and editorially reclassified as this section.
 
 Section 207 of the Energy and Water Development Appropriations Act, 2003, referred to in subsec. (d)(3)(B)(ii), is section 207 of Pub. L. 108–7, div. D, title II, Feb. 20, 2003, 117 Stat. 146, which is not classified to the Code.
 
@@ -3623,7 +3625,7 @@ Section 208 of the Energy and Water Development and Related Agencies Appropriati
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
-Section was enacted as part of Farm Security and Rural Investment Act of 2002, and not as part of title XII of Pub. L. 99–198 which comprises this chapter.
+Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of title XII of Pub. L. 99–198 which comprises this chapter.
 
 Section was formerly set out as a note under [section 2211 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section2211&num=0&edition=prelim), Public Lands.
 
@@ -3632,18 +3634,18 @@ Section was formerly set out as a note under [section 2211 of Title 43](https://
 
 2011—Subsec. (b). Pub. L. 112–74, § 208(a)(1), substituted “For the benefit of at-risk natural desert terminal lakes and associated riparian and watershed resources, in any case in which there are willing sellers or willing participants” for “In any case in which there are willing sellers” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 112–74, § 208(a)(2), struck out “in the Walker River Basin in accordance with section 208(a)(1)(A) of the Energy and Water Development Appropriations Act, 2006 (Public Law 109–103; 119 Stat. 2268)” before period at end.
+Subsec. (b)(2). Pub. L. 112–74, § 208(a)(2), struck out “in the Walker River Basin in accordance with section 208(a)(1)(A) of the Energy and Water Development Appropriations Act, 2006 (Public Law 109–103; 119 Stat. 2268)” before “; and”.
 
 Subsec. (b)(3). Pub. L. 112–74, § 208(a)(3), struck out “in the Walker River Basin” before period at end.
 
 2009—Subsec. (b)(3). Pub. L. 111–85 added par. (3).
 
-2008—Subsec. (a). Pub. L. 110–246, § 2807(1), substituted “Transfer” for “In general” in heading and “Subject to subsection (b) and paragraph (1) of section 207(a) of Public Law 108–7 (117 Stat. 146), notwithstanding paragraph (3) of that section, on the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary of Agriculture shall transfer $175,000,000” for “Subject to subsection (b), as soon as practicable after the date of enactment of this Act, the Secretary of Agriculture shall transfer $200,000” in text and deleted quotation marks before “(1)” and “(2)”.
+2008—Subsec. (a). Pub. L. 110–246, § 2807(1), substituted “Transfer” for “In general” in heading and “Subject to subsection (b) and paragraph (1) of section 207(a) of Public Law 108–7 (117 Stat. 146), notwithstanding paragraph (3) of that section, on the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary of Agriculture shall transfer $175,000,000” for “Subject to subsection (b), as soon as practicable after the date of enactment of this Act, the Secretary of Agriculture shall transfer $200,000,000” in text and deleted quotation marks before “(1)” and “(2)”.
 
 Subsec. (b). Pub. L. 110–246, § 2807(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The funds described in subsection (a) shall not be used to purchase or lease water rights.”
 
 #### Transfer of Funds
-Pub. L. 107–206, title I, § 103, Aug. 2, 2002, 116 Stat. 823, provided that not later than 14 days after Aug. 2, 2002, the Secretary of Agriculture was to carry out a transfer of funds under section 2507(a) of Pub. L. 107–171, prior to the general amendment of section 2507 by Pub. L. 113–79.
+Pub. L. 107–206, title I, § 103, Aug. 2, 2002, 116 Stat. 823, provided that not later than 14 days after Aug. 2, 2002, the Secretary of Agriculture was to carry out a transfer of funds under former section 2507(a) of Pub. L. 107–171.
 
 
 <a id="section-3841"></a>
@@ -3718,7 +3720,7 @@ Pub. L. 107–206, title I, § 103, Aug. 2, 2002, 116 Stat. 823, provided that n
 
   (D) the number of requests that are still outstanding more than 1 year since the date on which the requests were received from the producer.
 
-**(d) Relationship to other law** The use of Commodity Credit Corporation funds under subsection (c) of this section to provide technical assistance shall not be considered an allotment or fund transfer from the Commodity Credit Corporation for purposes of the limit on expenditures for technical assistance imposed by [section 714i of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714i&num=0&edition=prelim).
+**(d) Relationship to other law** The use of Commodity Credit Corporation funds under subsection (c) to provide technical assistance shall not be considered an allotment or fund transfer from the Commodity Credit Corporation for purposes of the limit on expenditures for technical assistance imposed by [section 714i of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714i&num=0&edition=prelim).
 
 **(e) Regional equity**
 
@@ -3794,7 +3796,7 @@ A prior section 3841, Pub. L. 99–198, title XII, § 1241, as added Pub. L. 104
 Another prior section 3841, Pub. L. 99–198, title XII, § 1241, Dec. 23, 1985, 99 Stat. 1514, related to use of Commodity Credit Corporation, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 #### Amendments
-2014—Subsec. (a). Pub. L. 113–79, § 2601(a), added subsec. (a) and struck out former subsec. (a) which authorized the Secretary to use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out programs under subchapter IV for fiscal years 2002 through 2012 generally, and fiscal year 2014 in the case of certain programs.
+2014—Subsec. (a). Pub. L. 113–79, § 2601(a), added subsec. (a) and struck out former subsec. (a) which authorized the Secretary to use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out programs under subchapter IV for fiscal years 2002 through 2012 generally, and fiscal years 2014 and 2015 in the case of certain programs.
 
 Pub. L. 113–76, § 750(b)(1), substituted “and (7) and each of fiscal years 2014 and 2015 in the case of the program specified in paragraph (6)),” for “(6), and (7)),” in introductory provisions.
 
@@ -3836,7 +3838,7 @@ Subsec. (i)(2). Pub. L. 113–79, § 2605(2), redesignated par. (4) as (2) and s
 
 Subsec. (i)(3). Pub. L. 113–79, § 2605(2), (3), redesignated par. (5) as (3), substituted “regional conservation partnership program” for “agricultural water enhancement program” and “3871c(c)(3)” for “3839aa–9(g)”, and struck out former par. (3) which read as follows: “Payments made under the grassland reserve program valued at $250,000 or greater.”
 
-Subsec. (i)(4). Pub. L. 113–79, § 2605(2), redesigated par. (6) as (4).
+Subsec. (i)(4). Pub. L. 113–79, § 2605(2), redesignated par. (6) as (4).
 
 Subsec. (i)(5), (6). Pub. L. 113–79, § 2605(4), added pars. (5) and (6).
 
@@ -4540,7 +4542,7 @@ The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
-2008—Pub. L. 110–246, § 2711, which directed the general amendment of section 1262 of the “Farm Security Act of 1985”, was executed by making the amendment to this section, which is section 1262 of the Food Security Act of 1985, to reflect the probable intent of Congress. Prior to amendment, section consisted of subsecs. (a) to (d) which related to general responsibilities of committees established under [section 3861 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3861), wetland and wildlife habitat protection guidelines, provision of assistance and recommendations with respect to enumerated technical aspects, authority of committees, and FACA requirements.
+2008—Pub. L. 110–246, § 2711, which directed the general amendment of section 1262 of the “Farm Security Act of 1985”, was executed by making the amendment to this section, which is section 1262 of the Food Security Act of 1985, to reflect the probable intent of Congress. Prior to amendment, section consisted of subsecs. (a) to (e) which related to general responsibilities of committees established under [section 3861 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3861), wetland and wildlife habitat protection guidelines, provision of assistance and recommendations with respect to enumerated technical aspects, authority of committees, and FACA requirements.
 
 1996—Subsec. (a). Pub. L. 104–127, § 342(b)(1), inserted at end “Each State technical committee shall provide public notice of, and permit public attendance at meetings considering, issues of concern related to carrying out this chapter.”
 
@@ -4563,13 +4565,18 @@ Pub. L. 104–127, title III, § 343, Apr. 4, 1996, 110 Stat. 1009, provided tha
 
 **(b) Purposes** The purposes of the program are to—
 
-(1) combine the purposes and coordinate the functions of the wetlands reserve program established under [section 3837 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3837&num=0&edition=prelim), the grassland reserve program established under [section 3838n of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3838n&num=0&edition=prelim), and the farmland protection program established under [section 3838i of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3838i&num=0&edition=prelim), as such sections were in effect on the day before February 7, 2014;
+(1) combine the purposes and coordinate the functions of the wetlands reserve program established under section 3837 11 See References in Text note below. of this title, the grassland reserve program established under section 3838n 1 of this title, and the farmland protection program established under section 3838i 1 of this title, as such sections were in effect on the day before February 7, 2014;
 
 (2) restore, protect, and enhance wetlands on eligible land;
 
 (3) protect the agricultural use and future viability, and related conservation values, of eligible land by limiting nonagricultural uses of that land; and
 
 (4) protect grazing uses and related conservation values by restoring and conserving eligible land.
+
+### Statutory Notes
+
+#### References in Text
+Sections 3837, 3838n, and 3838i of this title, referred to in subsec. (b)(1), were repealed by Pub. L. 113–79, title II, §§ 2703(a), 2704(a), 2705(a), Feb. 7, 2014, 128 Stat. 767, 768.
 
 
 <a id="section-3865a"></a>
@@ -5029,7 +5036,7 @@ In this subchapter:
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Act of 2014, referred to in subsec. (d)(2), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Subtitle H of title II of the Act, is subtitle H (§§ 2701–2713) of title II of Pub. L. 113–79. For complete classification of subtitle H to the Code, see Tables.
+The Agricultural Act of 2014, referred to in subsec. (d)(2), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Subtitle H (§§ 2701–2713) of title II of the Act amended sections 3801, 3811, and 3842 of this title, repealed sections 3830, 3831a, 3837 to 3837f, 3838h to 3838j, 3838n to 3838q, 3839 to 3839d, 3839aa–9, 3839bb–1, 3839bb–3, and 3839bb–4 of this title, and enacted provisions set out as notes under sections 3801, 3831a, 3837, 3838h, 3838n, 3839aa–9, 3839bb–1, 3839bb–4, and 3843 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9001 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9001&num=0&edition=prelim), Agriculture, and Tables.
 
 
 <a id="section-3871"></a>
@@ -5044,13 +5051,13 @@ The Agricultural Act of 2014, referred to in subsec. (d)(2), is Pub. L. 113–79
 
 (1) To use covered programs to accomplish purposes and functions similar to those of the following programs, as in effect on the day before February 7, 2014:
 
-  (A) The agricultural water enhancement program established under [section 3839aa–9 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3839aa-9).
+  (A) The agricultural water enhancement program established under section 3839aa–9 11 See References in Text note below. of this title.
 
-  (B) The Chesapeake Bay watershed program established under [section 3839bb–4 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3839bb-4).
+  (B) The Chesapeake Bay watershed program established under section 3839bb–4 1 of this title.
 
-  (C) The cooperative conservation partnership initiative established under [section 3843 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3843).
+  (C) The cooperative conservation partnership initiative established under section 3843 1 of this title.
 
-  (D) The Great Lakes basin program for soil erosion and sediment control established under [section 3839bb–3 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3839bb-3).
+  (D) The Great Lakes basin program for soil erosion and sediment control established under section 3839bb–3 1 of this title.
 
 (2) To further the conservation, restoration, and sustainable use of soil, water, wildlife, and related natural resources on eligible land on a regional or watershed scale.
 
@@ -5059,6 +5066,11 @@ The Agricultural Act of 2014, referred to in subsec. (d)(2), is Pub. L. 113–79
   (A) meeting or avoiding the need for national, State, and local natural resource regulatory requirements related to production on eligible land; and
 
   (B) implementing projects that will result in the installation and maintenance of eligible activities that affect multiple agricultural or nonindustrial private forest operations on a local, regional, State, or multistate basis.
+
+### Statutory Notes
+
+#### References in Text
+Sections 3839aa–9, 3839bb–3, 3839bb–4, and 3843 of this title, referred to in subsec. (b)(1), were repealed by Pub. L. 113–79, title II, §§ 2706(a), 2708, 2709(a), 2710(a), Feb. 7, 2014, 128 Stat. 768, 770.
 
 
 <a id="section-3871a"></a>
@@ -5272,7 +5284,7 @@ In this subchapter:
 
   (B) to producers participating in a project that addresses water quality concerns and in an amount sufficient to encourage adoption of conservation practices and systems that improve nutrient management.
 
-(3) **Waiver authority** — To assist in the implementation of the program, the Secretary may waive the applicability of the limitation in [section 1308–3a of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1308–3a&num=0&edition=prelim) for participating producers if the Secretary determines that the waiver is necessary to fulfill the objectives of the program.
+(3) **Waiver authority** — To assist in the implementation of the program, the Secretary may waive the applicability of the limitation in [section 1308–3a(b)(2) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1308–3a/b/2&num=0&edition=prelim) for participating producers if the Secretary determines that the waiver is necessary to fulfill the objectives of the program.
 
 
 <a id="section-3871d"></a>
@@ -5356,4 +5368,4 @@ In this subchapter:
 ### Statutory Notes
 
 #### References in Text
-The Watershed Protection and Flood Prevention Act, referred to in subsec. (c)(3), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, which is classified generally to chapter 18 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-watershed-protection-and-flood-prevention.md#section-1001) and Tables.
+The Watershed Protection and Flood Prevention Act, referred to in subsec. (c)(3), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, which is classified principally to chapter 18 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-watershed-protection-and-flood-prevention.md#section-1001) and Tables.

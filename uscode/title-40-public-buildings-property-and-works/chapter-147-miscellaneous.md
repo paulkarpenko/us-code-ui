@@ -49,7 +49,7 @@ An individual in the United States shall not, because of sex, be excluded from p
 
 (4) $108,000,000 for fiscal year 2011; and
 
-(5) $110,000,000 for fiscal year 2012.
+(5) $110,000,000 for each of fiscal years 2012 through 2020.
 
 **(b) Economic and Energy Development Initiative.—** Of the amounts made available under subsection (a), the following amounts may be used to carry out section 14508—
 
@@ -63,9 +63,11 @@ An individual in the United States shall not, because of sex, be excluded from p
 
 (5) $14,000,000 for fiscal year 2012.
 
-**(c) Availability.—** Amounts made available under subsection (a) remain available until expended.
+**(c) High-speed Broadband Deployment Initiative.—** Of the amounts made available under subsection (a), $10,000,000 may be used to carry out section 14509 for each of fiscal years 2016 through 2020.
 
-**(d) Allocation of Funds.—** Funds approved by the Appalachian Regional Commission for a project in a State in the Appalachian region pursuant to a congressional directive shall be derived from the total amount allocated to the State by the Appalachian Regional Commission from amounts appropriated to carry out this subtitle.
+**(d) Availability.—** Amounts made available under subsection (a) remain available until expended.
+
+**(e) Allocation of Funds.—** Funds approved by the Appalachian Regional Commission for a project in a State in the Appalachian region pursuant to a congressional directive shall be derived from the total amount allocated to the State by the Appalachian Regional Commission from amounts appropriated to carry out this subtitle.
 
 ### Statutory Notes
 
@@ -75,17 +77,24 @@ An individual in the United States shall not, because of sex, be excluded from p
 | 14703 | 40 App.:401. | Pub. L. 89–4, title IV, § 401, Mar. 9, 1965, 79 Stat. 21; Pub. L. 90–103, title I, § 122, Oct. 11, 1967, 81 Stat. 266; Pub. L. 91–123, title I, § 109, Nov. 25, 1969, 83 Stat. 215; Pub. L. 92–65, title II, § 212, Aug. 5, 1971, 85 Stat. 172; Pub. L. 94–188, title I, § 121, Dec. 31, 1975, 89 Stat. 1086; Pub. L. 96–506, § 3(5), Dec. 8, 1980, 94 Stat. 2746; Pub. L. 97–35, title XVIII, § 1822(a)(3), (4), Aug. 13, 1981, 95 Stat. 767; Pub. L 105–393, title II, § 221, Nov. 13, 1998, 112 Stat. 3625; Pub. L. 107–149, § 10, Mar. 12, 2002, 116 Stat. 70. |
 
 #### Amendments
+2015—Subsec. (a)(5). Pub. L. 114–94, § 1436(b)(1), substituted “each of fiscal years 2012 through 2020” for “fiscal year 2012”.
+
+Subsecs. (c) to (e). Pub. L. 114–94, § 1436(b)(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
 2008—Subsec. (a). Pub. L. 110–371, § 5(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations to the Appalachian Regional Commission for fiscal years 2002 to 2006.
 
 Subsec. (b). Pub. L. 110–371, § 5(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) authorized appropriations to carry out [section 14504 of this title](./chapter-145-special-appalachian-programs.md#section-14504) for fiscal years 2002 to 2006.
 
 Subsec. (d). Pub. L. 110–371, § 5(c), added subsec. (d).
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1436(d) of Pub. L. 114–94, set out as an Effective Date note under [section 14509 of this title](./chapter-145-special-appalachian-programs.md#section-14509).
+
 
 <a id="section-14704"></a>
 ## § 14704. Termination
 
-This subtitle, except sections 14102(a)(1) and (b) and 14501, ceases to be in effect on October 1, 2012.
+This subtitle, except sections 14102(a)(1) and (b) and 14501, ceases to be in effect on October 1, 2020.
 
 ### Statutory Notes
 
@@ -95,6 +104,11 @@ This subtitle, except sections 14102(a)(1) and (b) and 14501, ceases to be in ef
 | 14704 | 40 App.:405. | Pub. L. 89–4, title IV, § 405, Mar. 9, 1965, 79 Stat. 23; Pub. L. 91–123, title I, § 111, Nov. 25, 1969, 83 Stat. 216; Pub. L. 92–65, title II, § 213, Aug. 5, 1971, 85 Stat. 173; Pub. L. 94–188, title I, § 122(a), Dec. 31, 1975, 89 Stat. 1086; Pub. L. 96–506, § 3(6), Dec. 8, 1980, 94 Stat. 2746; Pub. L. 105–178, title I, § 1222(b) (1st sentence), June 9, 1998, 112 Stat. 224; Pub. L. 105–393, title II, § 222, Nov. 13, 1998, 112 Stat. 3625; Pub. L. 107–149, § 12, Mar. 12, 2002, 116 Stat. 71. |
 
 #### Amendments
+2015—Pub. L. 114–94 substituted “2020” for “2012”.
+
 2008—Pub. L. 110–371 substituted “2012” for “2007”.
 
 2007—Pub. L. 109–289, § 20326, as added by Pub. L. 110–5, substituted “October 1, 2007” for “October 1, 2006”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1436(d) of Pub. L. 114–94, set out as an Effective Date note under [section 14509 of this title](./chapter-145-special-appalachian-programs.md#section-14509).

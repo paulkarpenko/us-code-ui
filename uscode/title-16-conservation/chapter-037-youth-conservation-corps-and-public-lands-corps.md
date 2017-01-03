@@ -233,7 +233,7 @@ For purposes of this subchapter:
 
 (10) **Qualified youth or conservation corps** — The term “qualified youth or conservation corps” means any program established by a State or local government, by the governing body of any Indian tribe, or by a nonprofit organization that—
 
-  (A) is capable of offering meaningful, full-time, productive work for individuals between the ages of 16 and 25, inclusive, in a natural or cultural resource setting;
+  (A) is capable of offering meaningful, full-time, productive work for individuals between the ages of 16 and 30, inclusive, in a natural or cultural resource setting;
 
   (B) gives participants a mix of work experience, basic and life skills, education, training, and support services; and
 
@@ -261,6 +261,8 @@ The Alaska Native Claims Settlement Act, referred to in par. (6)(D), is Pub. L. 
 The Healthy Forests Restoration Act of 2003, referred to in par. (8), is Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1887, which is classified principally to chapter 84 (§ 6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6501 of this title](./chapter-084-healthy-forest-restoration.md#section-6501) and Tables.
 
 #### Amendments
+2016—Par. (10)(A). Pub. L. 114–289 substituted “30” for “25”.
+
 2005—Pars. (8) to (13). Pub. L. 109–154 added pars. (8) and (12) and redesignated former pars. (8) to (11) as pars. (9) to (11) and (13), respectively.
 
 
@@ -268,11 +270,11 @@ The Healthy Forests Restoration Act of 2003, referred to in par. (8), is Pub. L.
 ## § 1723. Public Lands Corps program
 **(a) Establishment of Public Lands Corps** There is hereby established in the Department of the Interior and the Department of Agriculture a Public Lands Corps.
 
-**(b) Participants** The Corps shall consist of individuals between the ages of 16 and 25, inclusive, who are enrolled as participants in the Corps by the Secretary. To be eligible for enrollment in the Corps, an individual shall satisfy the criteria specified in [section 12591(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12591/b&num=0&edition=prelim). The Secretary may enroll such individuals in the Corps without regard to the civil service and classification laws, rules, or regulations of the United States. The Secretary may establish a preference for the enrollment in the Corps of individuals who are economically, physically, or educationally disadvantaged.
+**(b) Participants** The Corps shall consist of individuals between the ages of 16 and 30, inclusive, who are enrolled as participants in the Corps by the Secretary. To be eligible for enrollment in the Corps, an individual shall satisfy the criteria specified in [section 12591(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12591/b&num=0&edition=prelim). The Secretary may enroll such individuals in the Corps without regard to the civil service and classification laws, rules, or regulations of the United States. The Secretary may establish a preference for the enrollment in the Corps of individuals who are economically, physically, or educationally disadvantaged.
 
 **(c) Qualified youth or conservation corps**
 
-(1) **In general** — The Secretary is authorized to enter into contracts and cooperative agreements with any qualified youth or conservation corps to perform appropriate conservation projects referred to in subsection (d) of this section.
+(1) **In general** — The Secretary is authorized to enter into contracts and cooperative agreements with any qualified youth or conservation corps to perform appropriate conservation projects referred to in subsection (d).
 
 (2) **Preference**
 
@@ -305,6 +307,8 @@ The Healthy Forests Restoration Act of 2003, referred to in par. (8), is Pub. L.
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (b). Pub. L. 114–289 substituted “30” for “25”.
+
 2005—Subsec. (b). Pub. L. 109–154, § 2(g)(1)(A), substituted “Corps by the Secretary” for “Corps by the Secretary of the Interior or the Secretary of Agriculture” and “Secretary may” for “Secretaries may” in two places.
 
 Subsec. (c). Pub. L. 109–154, § 2(b), designated existing provisions as par. (1), inserted heading, substituted “The Secretary is” for “The Secretary of the Interior and the Secretary of Agriculture are”, and added par. (2).
@@ -398,11 +402,13 @@ Section was enacted as part of the Department of the Interior, Environment, and 
 
 (1) grant to a member of the Public Lands Corps credit for time served with the Public Lands Corps, which may be used toward future Federal hiring; and
 
-(2) provide to a former member of the Public Lands Corps noncompetitive hiring status for a period of not more than 120 days after the date on which the member’s service with the Public Lands Corps is complete.
+(2) provide to a former member of the Public Lands Corps noncompetitive hiring status for a period of not more than 2 years after the date on which the member’s service with the Public Lands Corps is complete.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (c)(2). Pub. L. 114–289 substituted “2 years” for “120 days”.
+
 2005—Subsec. (a). Pub. L. 109–154, § 2(e)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of the Interior and the Secretary of Agriculture shall provide each participant in the Public Lands Corps and each resource assistant with a living allowance in an amount not to exceed the maximum living allowance authorized by section 140(a)(3) of the National and Community Service Act of 1990 for participants in a national service program assisted under subtitle C of title I of such Act.”
 
 Subsec. (c). Pub. L. 109–154, § 2(e)(2), added subsec. (c).
@@ -452,6 +458,6 @@ Subsec. (c). Pub. L. 109–154, § 2(f)(1), added subsec. (c).
 ## § 1730. Authorization of appropriations
 **(a) In general** There is authorized to be appropriated to carry out this subchapter $12,000,000 for each fiscal year, of which $8,000,000 is authorized to carry out priority projects and $4,000,000 of which is authorized to carry out other appropriate conservation projects.
 
-**(b) Disaster relief or prevention projects** Notwithstanding subsection (a) of this section, any amounts made available under that subsection shall be available for disaster prevention or relief projects.
+**(b) Disaster relief or prevention projects** Notwithstanding subsection (a), any amounts made available under that subsection shall be available for disaster prevention or relief projects.
 
 **(c) Availability of funds** Notwithstanding any other provision of law, amounts appropriated for any fiscal year to carry out this subchapter shall remain available for obligation and expenditure until the end of the fiscal year following the fiscal year for which the amounts are appropriated.

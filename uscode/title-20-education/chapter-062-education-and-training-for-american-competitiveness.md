@@ -109,8 +109,6 @@ Section 5056, Pub. L. 100–418, title VI, § 6066, Aug. 23, 1988, 102 Stat. 149
 
 Section 5057, Pub. L. 100–418, title VI, § 6067, Aug. 23, 1988, 102 Stat. 1495, related to distribution of assistance and limitation on costs.
 
-For similar provisions, see section 7261 et seq. of this title.
-
 
 <a id="section-5071-5072"></a>
 ## § 5071, 5072. Repealed. Pub. L. 103–382, title III, § 391(i), (k), Oct. 20, 1994, 108 Stat. 4023

@@ -65,6 +65,16 @@ Chapter effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out
 
 **(d)** [Section 8903 of this title](./chapter-089-small-vessel-manning.md#section-8903) does not apply to a vessel being operated for bona fide dealer demonstrations provided without fee to business invitees. However, if on the basis of substantial evidence, the Secretary decides under this section that requiring vessels so operated to be under the control of licensed individuals is necessary for boating safety, then the Secretary may prescribe regulations requiring the licensing of individuals controlling these vessels in the same manner as provided in chapter 89 of this title for individuals in control of vessels carrying passengers for hire.
 
+**(e)**
+
+(1) Under this section, a model year for recreational vessels and associated equipment shall, except as provided in paragraph (2)—
+
+  (A) begin on June 1 of a year and end on July 31 of the following year; and
+
+  (B) be designated by the year in which it ends.
+
+(2) Upon the request of a recreational vessel manufacturer to which this chapter applies, the Secretary may alter a model year for a model of recreational vessel of the manufacturer and associated equipment, by no more than 6 months from the model year described in paragraph (1).
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |
@@ -79,6 +89,12 @@ Section 4302(b) requires a regulation prescribed under this section to have an e
 Section 4302(c) requires the Secretary to consider certain objectives in developing regulatory controls and regulations or standards and that there must be an effective consultation process.
 
 Section 4302(d) exempts dealer demonstration boats from the requirement of having to be named by a licensed individual when demonstrating boats to prospective purchasers or other business invitees when no fees are charged. The Secretary may require that boats so used be under control of a licensed individual.
+
+#### Amendments
+2016—Subsec. (e). Pub. L. 114–120 added subsec. (e).
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–120, title III, § 303(b), Feb. 8, 2016, 130 Stat. 53, provided that: “This section [amending this section] shall only apply with respect to recreational vessels and associated equipment constructed or manufactured, respectively, on or after the date of enactment of this Act [Feb. 8, 2016].”
 
 #### Availability and Use of EPIRBs for Recreational Vessels
 Pub. L. 105–383, title III, § 309, Nov. 13, 1998, 112 Stat. 3422, provided that: “The Secretary of Transportation, through the Coast Guard and in consultation with the National Transportation Safety Board and recreational boating organizations, shall, within 24 months of the date of the enactment of this Act [Nov. 13, 1998], assess and report to Congress on the use of emergency position indicating beacons (EPIRBs) and similar devices by operators of recreational vessels on the Intracoastal Waterway and operators of recreational vessels beyond the Boundary Line. The assessment shall at a minimum— “(1) evaluate the current availability and use of EPIRBs and similar devices by the operators of recreational vessels and the actual and potential contribution of such devices to recreational boating safety; and “(2) provide recommendations on policies and programs to encourage the availability and use of EPIRBS [sic] and similar devices by the operators of recreational vessels.”

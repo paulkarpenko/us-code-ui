@@ -45,7 +45,7 @@ Pub. L. 99–660, title IV, § 401, Nov. 14, 1986, 100 Stat. 3784, provided that
 ## § 11112. Professional review
 **(a) In general**
 
-(1) **Limitation on damages for professional review actions** — If a professional review action (as defined in [section 11151(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11151/9&num=0&edition=prelim)) of a professional review body meets all the standards specified in [section 11112(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11112/a&num=0&edition=prelim), except as provided in subsection (b) of this section—
+(1) **Limitation on damages for professional review actions** — If a professional review action (as defined in [section 11151(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11151/9&num=0&edition=prelim)) of a professional review body meets all the standards specified in [section 11112(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11112/a&num=0&edition=prelim), except as provided in subsection (b)—
 
   (A) the professional review body,
 
@@ -58,15 +58,15 @@ Pub. L. 99–660, title IV, § 401, Nov. 14, 1986, 100 Stat. 3784, provided that
 
 (2) **Protection for those providing information to professional review bodies** — Notwithstanding any other provision of law, no person (whether as a witness or otherwise) providing information to a professional review body regarding the competence or professional conduct of a physician shall be held, by reason of having provided such information, to be liable in damages under any law of the United States or of any State (or political subdivision thereof) unless such information is false and the person providing it knew that such information was false.
 
-**(b) Exception** If the Secretary has reason to believe that a health care entity has failed to report information in accordance with [section 11133(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11133/a&num=0&edition=prelim), the Secretary shall conduct an investigation. If, after providing notice of noncompliance, an opportunity to correct the noncompliance, and an opportunity for a hearing, the Secretary determines that a health care entity has failed substantially to report information in accordance with [section 11133(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11133/a&num=0&edition=prelim), the Secretary shall publish the name of the entity in the Federal Register. The protections of subsection (a)(1) of this section shall not apply to an entity the name of which is published in the Federal Register under the previous sentence with respect to professional review actions of the entity commenced during the 3-year period beginning 30 days after the date of publication of the name.
+**(b) Exception** If the Secretary has reason to believe that a health care entity has failed to report information in accordance with [section 11133(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11133/a&num=0&edition=prelim), the Secretary shall conduct an investigation. If, after providing notice of noncompliance, an opportunity to correct the noncompliance, and an opportunity for a hearing, the Secretary determines that a health care entity has failed substantially to report information in accordance with [section 11133(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11133/a&num=0&edition=prelim), the Secretary shall publish the name of the entity in the Federal Register. The protections of subsection (a)(1) shall not apply to an entity the name of which is published in the Federal Register under the previous sentence with respect to professional review actions of the entity commenced during the 3-year period beginning 30 days after the date of publication of the name.
 
 **(c) Treatment under State laws**
 
-(1) **Professional review actions taken on or after October 14, 1989** — Except as provided in paragraph (2), subsection (a) of this section shall apply to State laws in a State only for professional review actions commenced on or after October 14, 1989.
+(1) **Professional review actions taken on or after October 14, 1989** — Except as provided in paragraph (2), subsection (a) shall apply to State laws in a State only for professional review actions commenced on or after October 14, 1989.
 
 (2) **Exceptions**
 
-  (A) *State early opt-in* — Subsection (a) of this section shall apply to State laws in a State for actions commenced before October 14, 1989, if the State by legislation elects such treatment.
+  (A) *State early opt-in* — Subsection (a) shall apply to State laws in a State for actions commenced before October 14, 1989, if the State by legislation elects such treatment.
 
   (B) *Effective date of election* — An election under State law is not effective, for purposes of,11 So in original. Probably should be “for purposes of subparagraph (A),”. for actions commenced before the effective date of the State law, which may not be earlier than the date of the enactment of that law.
 
@@ -102,7 +102,7 @@ Pub. L. 99–660, title IV, § 416, Nov. 14, 1986, 100 Stat. 3788, provided that
 (4) in the reasonable belief that the action was warranted by the facts known after such reasonable effort to obtain facts and after meeting the requirement of paragraph (3).
 A professional review action shall be presumed to have met the preceding standards necessary for the protection set out in [section 11111(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11111/a&num=0&edition=prelim) unless the presumption is rebutted by a preponderance of the evidence.
 
-**(b) Adequate notice and hearing** A health care entity is deemed to have met the adequate notice and hearing requirement of subsection (a)(3) of this section with respect to a physician if the following conditions are met (or are waived voluntarily by the physician):
+**(b) Adequate notice and hearing** A health care entity is deemed to have met the adequate notice and hearing requirement of subsection (a)(3) with respect to a physician if the following conditions are met (or are waived voluntarily by the physician):
 
 (1) **Notice of proposed action** — The physician has been given notice stating—
 
@@ -155,11 +155,11 @@ A professional review action shall be presumed to have met the preceding standar
     (i) to receive the written recommendation of the arbitrator, officer, or panel, including a statement of the basis for the recommendations, and
 
     (ii) to receive a written decision of the health care entity, including a statement of the basis for the decision.
-A professional review body’s failure to meet the conditions described in this subsection shall not, in itself, constitute failure to meet the standards of subsection (a)(3) of this section.
+A professional review body’s failure to meet the conditions described in this subsection shall not, in itself, constitute failure to meet the standards of subsection (a)(3).
 
 **(c) Adequate procedures in investigations or health emergencies** For purposes of [section 11111(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11111/a&num=0&edition=prelim), nothing in this section shall be construed as—
 
-(1) requiring the procedures referred to in subsection (a)(3) of this section—
+(1) requiring the procedures referred to in subsection (a)(3)—
 
   (A) where there is no adverse professional review action taken, or
 
@@ -205,7 +205,7 @@ Amendment by Pub. L. 100–177 effective Nov. 14, 1986, see section 402(d) of Pu
 ## § 11132. Requiring reports on medical malpractice payments
 **(a) In general** Each entity (including an insurance company) which makes payment under a policy of insurance, self-insurance, or otherwise in settlement (or partial settlement) of, or in satisfaction of a judgment in, a medical malpractice action or claim shall report, in accordance with [section 11134 of this title](./chapter-117-encouraging-good-faith-professional-review-activities.md#section-11134), information respecting the payment and circumstances thereof.
 
-**(b) Information to be reported** The information to be reported under subsection (a) of this section includes—
+**(b) Information to be reported** The information to be reported under subsection (a) includes—
 
 (1) the name of any physician or licensed health care practitioner for whose benefit the payment is made,
 
@@ -219,7 +219,7 @@ Amendment by Pub. L. 100–177 effective Nov. 14, 1986, see section 402(d) of Pu
 
 **(c) Sanctions for failure to report** Any entity that fails to report information on a payment required to be reported under this section shall be subject to a civil money penalty of not more than $10,000 for each such payment involved. Such penalty shall be imposed and collected in the same manner as civil money penalties under subsection (a) of [section 1320a–7a of this title](./chapter-007-social-security.md#section-1320a-7a) are imposed and collected under that section.
 
-**(d) Report on treatment of small payments** The Secretary shall study and report to Congress, not later than two years after November 14, 1986, on whether information respecting small payments should continue to be required to be reported under subsection (a) of this section and whether information respecting all claims made concerning a medical malpractice action should be required to be reported under such subsection.
+**(d) Report on treatment of small payments** The Secretary shall study and report to Congress, not later than two years after November 14, 1986, on whether information respecting small payments should continue to be required to be reported under subsection (a) and whether information respecting all claims made concerning a medical malpractice action should be required to be reported under such subsection.
 
 
 <a id="section-11133"></a>
@@ -241,7 +241,7 @@ Amendment by Pub. L. 100–177 effective Nov. 14, 1986, see section 402(d) of Pu
 
   (C) such other information respecting the circumstances of the action or surrender as the Secretary deems appropriate.
 
-**(b) Failure to report** If, after notice of noncompliance and providing opportunity to correct noncompliance, the Secretary determines that a Board of Medical Examiners has failed to report information in accordance with subsection (a) of this section, the Secretary shall designate another qualified entity for the reporting of information under [section 11133 of this title](./chapter-117-encouraging-good-faith-professional-review-activities.md#section-11133).
+**(b) Failure to report** If, after notice of noncompliance and providing opportunity to correct noncompliance, the Secretary determines that a Board of Medical Examiners has failed to report information in accordance with subsection (a), the Secretary shall designate another qualified entity for the reporting of information under [section 11133 of this title](./chapter-117-encouraging-good-faith-professional-review-activities.md#section-11133).
 
 
 <a id="section-11134"></a>
@@ -271,15 +271,15 @@ Amendment by Pub. L. 100–177 effective Nov. 14, 1986, see section 402(d) of Pu
 
   (C) such other information respecting the circumstances of the action or surrender as the Secretary deems appropriate.
 
-**(b) Reporting by Board of Medical Examiners** Each Board of Medical Examiners shall report, in accordance with [section 11134 of this title](./chapter-117-encouraging-good-faith-professional-review-activities.md#section-11134), the information reported to it under subsection (a) of this section and known instances of a health care entity’s failure to report information under subsection (a)(1) of this section.
+**(b) Reporting by Board of Medical Examiners** Each Board of Medical Examiners shall report, in accordance with [section 11134 of this title](./chapter-117-encouraging-good-faith-professional-review-activities.md#section-11134), the information reported to it under subsection (a) and known instances of a health care entity’s failure to report information under subsection (a)(1).
 
 **(c) Sanctions**
 
-(1) **Health care entities** — A health care entity that fails substantially to meet the requirement of subsection (a)(1) of this section shall lose the protections of [section 11111(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11111/a/1&num=0&edition=prelim) if the Secretary publishes the name of the entity under [section 11111(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11111/b&num=0&edition=prelim).
+(1) **Health care entities** — A health care entity that fails substantially to meet the requirement of subsection (a)(1) shall lose the protections of [section 11111(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11111/a/1&num=0&edition=prelim) if the Secretary publishes the name of the entity under [section 11111(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11111/b&num=0&edition=prelim).
 
-(2) **Board of Medical Examiners** — If, after notice of noncompliance and providing an opportunity to correct noncompliance, the Secretary determines that a Board of Medical Examiners has failed to report information in accordance with subsection (b) of this section, the Secretary shall designate another qualified entity for the reporting of information under subsection (b) of this section.
+(2) **Board of Medical Examiners** — If, after notice of noncompliance and providing an opportunity to correct noncompliance, the Secretary determines that a Board of Medical Examiners has failed to report information in accordance with subsection (b), the Secretary shall designate another qualified entity for the reporting of information under subsection (b).
 
-**(d) References to Board of Medical Examiners** Any reference in this subchapter to a Board of Medical Examiners includes, in the case of a Board in a State that fails to meet the reporting requirements of [section 11132(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11132/a&num=0&edition=prelim) or subsection (b) of this section, a reference to such other qualified entity as the Secretary designates.
+**(d) References to Board of Medical Examiners** Any reference in this subchapter to a Board of Medical Examiners includes, in the case of a Board in a State that fails to meet the reporting requirements of [section 11132(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11132/a&num=0&edition=prelim) or subsection (b), a reference to such other qualified entity as the Secretary designates.
 
 
 <a id="section-11135"></a>
@@ -292,7 +292,7 @@ Amendment by Pub. L. 100–177 effective Nov. 14, 1986, see section 402(d) of Pu
 
 (1) **Malpractice payments** — Information required to be reported under [section 11131 of this title](./chapter-117-encouraging-good-faith-professional-review-activities.md#section-11131) shall also be reported to the appropriate State licensing board (or boards) in the State in which the medical malpractice claim arose.
 
-(2) **Reporting to other licensing boards** — Information required to be reported under [section 11133(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11133/b&num=0&edition=prelim) shall also be reported to the appropriate State licensing board in the State in which the health care entity is located if it is not otherwise reported to such board under subsection (b) of this section.
+(2) **Reporting to other licensing boards** — Information required to be reported under [section 11133(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11133/b&num=0&edition=prelim) shall also be reported to the appropriate State licensing board in the State in which the health care entity is located if it is not otherwise reported to such board under subsection (b).
 
 
 <a id="section-11136"></a>
@@ -304,7 +304,7 @@ Amendment by Pub. L. 100–177 effective Nov. 14, 1986, see section 402(d) of Pu
 (2) once every 2 years information reported under this subchapter concerning any physician or such practitioner who is on the medical staff (courtesy or otherwise) of, or has been granted clinical privileges at, the hospital.
 A hospital may request such information at other times.
 
-**(b) Failure to obtain information** With respect to a medical malpractice action, a hospital which does not request information respecting a physician or practitioner as required under subsection (a) of this section is presumed to have knowledge of any information reported under this subchapter to the Secretary with respect to the physician or practitioner.
+**(b) Failure to obtain information** With respect to a medical malpractice action, a hospital which does not request information respecting a physician or practitioner as required under subsection (a) is presumed to have knowledge of any information reported under this subchapter to the Secretary with respect to the physician or practitioner.
 
 **(c) Reliance on information provided** Each hospital may rely upon information provided to the hospital under this chapter and shall not be held liable for such reliance in the absence of the hospital’s knowledge that the information provided was false.
 
@@ -325,15 +325,15 @@ With respect to the information reported to the Secretary (or the agency designa
 
 **(b) Confidentiality of information**
 
-(1) **In general** — Information reported under this subchapter is considered confidential and shall not be disclosed (other than to the physician or practitioner involved) except with respect to professional review activity, as necessary to carry out subsections (b) and (c) of [section 11135 of this title](./chapter-117-encouraging-good-faith-professional-review-activities.md#section-11135) (as specified in regulations by the Secretary), or in accordance with regulations of the Secretary promulgated pursuant to subsection (a) of this section. Nothing in this subsection shall prevent the disclosure of such information by a party which is otherwise authorized, under applicable State law, to make such disclosure. Information reported under this subchapter that is in a form that does not permit the identification of any particular health care entity, physician, other health care practitioner, or patient shall not be considered confidential. The Secretary (or the agency designated under [section 11134(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11134/b&num=0&edition=prelim)), on application by any person, shall prepare such information in such form and shall disclose such information in such form.
+(1) **In general** — Information reported under this subchapter is considered confidential and shall not be disclosed (other than to the physician or practitioner involved) except with respect to professional review activity, as necessary to carry out subsections (b) and (c) of [section 11135 of this title](./chapter-117-encouraging-good-faith-professional-review-activities.md#section-11135) (as specified in regulations by the Secretary), or in accordance with regulations of the Secretary promulgated pursuant to subsection (a). Nothing in this subsection shall prevent the disclosure of such information by a party which is otherwise authorized, under applicable State law, to make such disclosure. Information reported under this subchapter that is in a form that does not permit the identification of any particular health care entity, physician, other health care practitioner, or patient shall not be considered confidential. The Secretary (or the agency designated under [section 11134(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11134/b&num=0&edition=prelim)), on application by any person, shall prepare such information in such form and shall disclose such information in such form.
 
 (2) **Penalty for violations** — Any person who violates paragraph (1) shall be subject to a civil money penalty of not more than $10,000 for each such violation involved. Such penalty shall be imposed and collected in the same manner as civil money penalties under subsection (a) of [section 1320a–7a of this title](./chapter-007-social-security.md#section-1320a-7a) are imposed and collected under that section.
 
-(3) **Use of information** — Subject to paragraph (1), information provided under [section 11135 of this title](./chapter-117-encouraging-good-faith-professional-review-activities.md#section-11135) and subsection (a) of this section is intended to be used solely with respect to activities in the furtherance of the quality of health care.
+(3) **Use of information** — Subject to paragraph (1), information provided under [section 11135 of this title](./chapter-117-encouraging-good-faith-professional-review-activities.md#section-11135) and subsection (a) is intended to be used solely with respect to activities in the furtherance of the quality of health care.
 
 (4) **Fees** — The Secretary may establish or approve reasonable fees for the disclosure of information under this section or [section 11136 of this title](./chapter-117-encouraging-good-faith-professional-review-activities.md#section-11136). The amount of such a fee may not exceed the costs of processing the requests for disclosure and of providing such information. Such fees shall be available to the Secretary (or, in the Secretary’s discretion, to the agency designated under [section 11134(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11134/b&num=0&edition=prelim)) to cover such costs.
 
-**(c) Relief from liability for reporting** No person or entity (including the agency designated under [section 11134(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11134/b&num=0&edition=prelim)) shall be held liable in any civil action with respect to any report made under this subchapter (including information provided under subsection (a) of this section 11 So in original. Probably should be followed by a closing parenthesis. without knowledge of the falsity of the information contained in the report.
+**(c) Relief from liability for reporting** No person or entity (including the agency designated under [section 11134(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11134/b&num=0&edition=prelim)) shall be held liable in any civil action with respect to any report made under this subchapter (including information provided under subsection (a) 11 So in original. Probably should be followed by another closing parenthesis. without knowledge of the falsity of the information contained in the report.
 
 **(d) Interpretation of information** In interpreting information reported under this subchapter, a payment in settlement of a medical malpractice action or claim shall not be construed as creating a presumption that medical malpractice has occurred.
 
@@ -344,7 +344,7 @@ With respect to the information reported to the Secretary (or the agency designa
 
 Subsec. (b)(4). Pub. L. 100–177, § 402(b), added par. (4).
 
-Subsec. (c). Pub. L. 100–177, § 402(a)(2), inserted “(including the agency designated under [section 11134(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11134/b&num=0&edition=prelim))” after “entity” and “(including information provided under subsection (a) of this section” after “subchapter”.
+Subsec. (c). Pub. L. 100–177, § 402(a)(2), inserted “(including the agency designated under [section 11134(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11134/b&num=0&edition=prelim))” after “entity” and “(including information provided under subsection (a)” after “subchapter”.
 
 #### Effective Date of 1987 Amendment
 Pub. L. 100–177, title IV, § 402(d), formerly § 402(c), Dec. 1, 1987, 101 Stat. 1007, as renumbered and amended by Pub. L. 101–239, title VI, § 6103(e)(6), Dec. 19, 1989, 103 Stat. 2208, provided that: “(1) In general.—The amendments made by subsections (a) and (c) [amending this section and sections 1111 and 1115 of this title] shall become effective on November 14, 1986. “(2) Fees.—The amendment made by subsection (b) [amending this section] shall become effective on the date of enactment of this Act [Dec. 1, 1987].”

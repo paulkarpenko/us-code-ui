@@ -2,7 +2,7 @@
 title: 33
 chapter: '17'
 heading: NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION
-section_count: 94
+section_count: 101
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
@@ -580,7 +580,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 **(b) Review by Secretary** Each annual report shall also be submitted to the Secretary of Commerce, who shall, within 60 days after receipt thereof, transmit his or her comments and recommendations to the President and to the Congress.
 
-**(c) Annual report submittal** The annual report required under subsection (a) of this section shall be submitted on or before June 30 of each year, beginning with June 30, 1978.
+**(c) Annual report submittal** The annual report required under subsection (a) shall be submitted on or before June 30 of each year, beginning with June 30, 1978.
 
 ### Statutory Notes
 
@@ -1192,9 +1192,11 @@ Pub. L. 110–161, div. B, title I, § 112, Dec. 26, 2007, 121 Stat. 1894.
 2013—Subsec. (f). Pub. L. 113–6 substituted “subsection (e)(2)” for “paragraph (2)” and “subsection (e)” for “this subsection”.
 
 #### Requirements Adopted by Reference
-Pub. L. 113–235, div. B, title I, § 104, Dec. 16, 2014, 128 Stat. 2181, provided that: “The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 (Public Law 112–55) [[33 U.S.C. 878a](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-878a)], as amended by section 105 of title I of division B of Public Law 113–6, are hereby adopted by reference and made applicable with respect to fiscal year 2015.”
+Pub. L. 114–113, div. B, title I, § 104, Dec. 18, 2015, 129 Stat. 2294, provided that: “The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 (Public Law 112–55) [[33 U.S.C. 878a](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-878a)], as amended by section 105 of title I of division B of Public Law 113–6, are hereby adopted by reference and made applicable with respect to fiscal year 2016.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. B, title I, § 104, Dec. 16, 2014, 128 Stat. 2181.
 
 Pub. L. 113–76, div. B, title I, § 104, Jan. 17, 2014, 128 Stat. 51.
 
@@ -1526,9 +1528,9 @@ This subchapter, referred to in text, was in the original “this Act”, and wa
 ## § 891b. Fleet replacement and modernization Plan
 **(a) In general** To carry out the program authorized in [section 891a of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-891a), the Secretary shall develop and submit to Congress a replacement and modernization Plan for the NOAA fleet covering the years authorized under [section 891h of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-891h).
 
-**(b) Timing** The Plan required in subsection (a) of this section shall be submitted to Congress within 30 days of October 29, 1992, and updated on an annual basis.
+**(b) Timing** The Plan required in subsection (a) shall be submitted to Congress within 30 days of October 29, 1992, and updated on an annual basis.
 
-**(c) Plan elements** The Plan required in subsection (a) of this section shall include the following—
+**(c) Plan elements** The Plan required in subsection (a) shall include the following—
 
 (1) the number of vessels proposed to be modernized or replaced, the schedule for their modernization or replacement, and anticipated funding requirements;
 
@@ -1542,7 +1544,7 @@ This subchapter, referred to in text, was in the original “this Act”, and wa
 
 (6) the appropriate role of the NOAA Corps in operating and maintaining the NOAA fleet.
 
-**(d) Contracting limitation** The Secretary may not enter into any contract for the construction, lease, or service life extension of a vessel of the NOAA fleet before the date of the submission to Congress of the Plan required in subsection (a) of this section.
+**(d) Contracting limitation** The Secretary may not enter into any contract for the construction, lease, or service life extension of a vessel of the NOAA fleet before the date of the submission to Congress of the Plan required in subsection (a).
 
 ### Statutory Notes
 
@@ -1555,7 +1557,7 @@ Pub. L. 102–567, title IV, § 401(b)(4), Oct. 29, 1992, 106 Stat. 4291, provid
 
 <a id="section-891c"></a>
 ## § 891c. Design of NOAA vessels
-**(a) Design requirement** Except for the vessel designs identified under subsection (b) of this section, the Secretary, working through the Office of the NOAA Corps Operations and the Systems Procurement Office, shall—
+**(a) Design requirement** Except for the vessel designs identified under subsection (b), the Secretary, working through the Office of the NOAA Corps Operations and the Systems Procurement Office, shall—
 
 (1) prepare requirements for each class of vessel to be constructed or converted under the Plan; and
 
@@ -1835,7 +1837,7 @@ Pub. L. 106–541, title V, § 554, Dec. 11, 2000, 114 Stat. 2679, provided that
 
 (2) **Content** — The account shall consist of—
 
-  (A) amounts received by the United States as fees charged under subsection (b)(1)(C) of this section; and
+  (A) amounts received by the United States as fees charged under subsection (b)(1)(C); and
 
   (B) such other amounts as may be provided by law.
 
@@ -1901,7 +1903,7 @@ Pub. L. 106–541, title V, § 554, Dec. 11, 2000, 114 Stat. 2679, provided that
 
 **(e) Meetings** The panel shall meet on a biannual basis and, at any other time, at the call of the Chairman or upon the request of a majority of the voting members or of the Secretary.
 
-**(f) Powers** The panel may exercise such powers as are reasonably necessary in order to carry out its duties under subsection (b) of this section.
+**(f) Powers** The panel may exercise such powers as are reasonably necessary in order to carry out its duties under subsection (b).
 
 ### Statutory Notes
 
@@ -2043,7 +2045,7 @@ Committee on Science and Technology of House of Representatives changed to Commi
 
 <a id="section-893a"></a>
 ## § 893a. NOAA ocean and atmospheric science education programs
-**(a) In general** The Administrator of the National Oceanic and Atmospheric Administration shall conduct, develop, support, promote, and coordinate formal and informal educational activities at all levels to enhance public awareness and understanding of ocean, coastal, Great Lakes, and atmospheric science and stewardship by the general public and other coastal stakeholders, including underrepresented groups in ocean and atmospheric science and policy careers. In conducting those activities, the Administrator shall build upon the educational programs and activities of agency,11 So in original. Probably should be “the agency,”. with consideration given to the goal of promoting the participation of individuals from underrepresented groups in STEM fields and in promoting the acquisition and retention of highly qualified and motivated young scientists to complement and supplement workforce needs.
+**(a) In general** The Administrator of the National Oceanic and Atmospheric Administration shall conduct, develop, support, promote, and coordinate formal and informal educational activities at all levels to enhance public awareness and understanding of ocean, coastal, Great Lakes, and atmospheric science and stewardship by the general public and other coastal stakeholders, including underrepresented groups in ocean and atmospheric science and policy careers. In conducting those activities, the Administrator shall build upon the educational programs and activities of the agency, with consideration given to the goal of promoting the participation of individuals identified in sections 1885a and 1885b of title 42 in STEM fields and in promoting the acquisition and retention of highly qualified and motivated young scientists to complement and supplement workforce needs.
 
 **(b) Educational program goals** The education programs developed by NOAA shall, to the extent applicable—
 
@@ -2057,21 +2059,37 @@ Committee on Science and Technology of House of Representatives changed to Commi
 
   (A) are designed to be integrated with comprehensive STEM education;
 
-  (B) are aligned with national science education standards; and
+  (B) are aligned with national science education standards;
 
-  (C) promote the adoption and implementation of high-quality education practices that build toward college and career-readiness; and
+  (C) are designed considering the unique needs of underrepresented groups, translating such materials and other resources;
+
+  (D) promote the adoption and implementation of high-quality education practices that build toward college and career-readiness; and
+
+  (E) are promoted widely, especially among individuals identified in sections 1885a and 1885b of title 42; and
 
 (5) create and support opportunities for enhanced and ongoing professional development for teachers using best practices that improves the STEM content and knowledge of the teachers, including through programs linking STEM teachers with STEM educators at the higher education level.
 
 **(c) NOAA science education plan** The Administrator, appropriate National Oceanic and Atmospheric Administration programs, ocean atmospheric science and education experts, and interested members of the public shall maintain a science education plan setting forth education goals and strategies for the Administration, as well as programmatic actions to carry out such goals and priorities over the next 20 years, and evaluate and update such plan every 5 years.
 
-**(d) Construction** Nothing in this section may be construed to affect the application of [section 1232a of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1232a&num=0&edition=prelim) or sections 794 and 794d of title 29.
+**(d) Metrics** In executing the National Oceanic and Atmospheric Administration science education plan under subsection (c), the Administrator shall maintain a comprehensive system for evaluating the Administration’s educational programs and activities. In so doing, the Administrator shall ensure that such education programs have measurable objectives and milestones as well as clear, documented metrics for evaluating programs. For each such education program or portfolio of similar programs, the Administrator shall—
 
-**(e) STEM defined** In this section, the term “STEM” means the academic and professional disciplines of science, technology, engineering, and mathematics.
+(1) encourage the collection of evidence as relevant to the measurable objectives and milestones; and
+
+(2) ensure that program or portfolio evaluations focus on educational outcomes and not just inputs, activities completed, or the number of participants.
+
+**(e) Construction** Nothing in this section may be construed to affect the application of [section 1232a of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1232a&num=0&edition=prelim) or sections 794 and 794d of title 29.
+
+**(f) STEM defined** In this section, the term “STEM” means the academic and professional disciplines of science, technology, engineering, and mathematics.
 
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (a). Pub. L. 114–329, § 314(a), substituted “the agency, with consideration given to the goal of promoting the participation of individuals identified in sections 1885a and 1885b of title 42” for “agency, with consideration given to the goal of promoting the participation of individuals from underrepresented groups”.
+
+Subsec. (b)(4)(C) to (E). Pub. L. 114–329, § 314(b), added subpars. (C) and (E) and redesignated former subpar. (C) as (D).
+
+Subsecs. (d) to (f). Pub. L. 114–329, § 314(c), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+
 2011—Subsec. (a). Pub. L. 111–358, § 302(1), substituted “agency, with consideration given to the goal of promoting the participation of individuals from underrepresented groups in STEM fields and in promoting the acquisition and retention of highly qualified and motivated young scientists to complement and supplement workforce needs.” for “the agency.”
 
 Subsec. (b). Pub. L. 111–358, § 302(3), added subsec. (b). Former subsec. (b) redesignated (c).
@@ -2122,3 +2140,203 @@ Subsec. (e). Pub. L. 111–358, § 302(5), added subsec. (e).
 
 #### References in Text
 Section 302 of this Act, referred to in subsec. (c), is section 302 of Pub. L. 111–358, which amended [section 893a of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-893a).
+
+
+<a id="section-894"></a>
+## § 894. Actions to address sexual harassment at National Oceanic and Atmospheric Administration
+**(a) Required policy** Not later than 1 year after December 23, 2016, the Secretary of Commerce shall, acting through the Under Secretary for Oceans and Atmosphere, develop a policy on the prevention of and response to sexual harassment involving employees of the National Oceanic and Atmospheric Administration, members of the commissioned officer corps of the Administration, and individuals who work with or conduct business on behalf of the Administration.
+
+**(b) Matters to be specified in policy** The policy developed under subsection (a) shall include—
+
+(1) establishment of a program to promote awareness of the incidence of sexual harassment;
+
+(2) clear procedures an individual should follow in the case of an occurrence of sexual harassment, including—
+
+  (A) a specification of the person or persons to whom an alleged occurrence of sexual harassment should be reported by an individual and options for confidential reporting, including—
+
+    (i) options and contact information for after-hours contact; and
+
+    (ii) a procedure for obtaining assistance and reporting sexual harassment while working in a remote scientific field camp, at sea, or in another field status; and
+
+  (B) a specification of any other person whom the victim should contact;
+
+(3) establishment of a mechanism by which—
+
+  (A) questions regarding sexual harassment can be confidentially asked and confidentially answered; and
+
+  (B) incidents of sexual harassment can be confidentially reported; and
+
+(4) a prohibition on retaliation and consequences for retaliatory actions.
+
+**(c) Consultation and assistance** In developing the policy required by subsection (a), the Secretary may consult or receive assistance from such State, local, and national organizations and subject matter experts as the Secretary considers appropriate.
+
+**(d) Availability of policy** The Secretary shall ensure that the policy developed under subsection (a) is available to—
+
+(1) all employees of the Administration and members of the commissioned officer corps of the Administration, including those employees and members who conduct field work for the Administration; and
+
+(2) the public.
+
+**(e) Geographic distribution of equal employment opportunity personnel** The Secretary shall designate out of existing staff at least 1 employee of the Administration who is tasked with handling matters relating to equal employment opportunity or sexual harassment at each marine and aviation center of the Administration.
+
+**(f) Quarterly reports**
+
+(1) **In general** — Not less frequently than 4 times each year, the Director of the Civil Rights Office of the Administration shall submit to the Under Secretary a report on sexual harassment in the Administration.
+
+(2) **Contents** — Each report submitted under paragraph (1) shall include the following:
+
+  (A) The number of sexual harassment cases, both actionable and non-actionable, involving individuals covered by the policy developed under subsection (a).
+
+  (B) The number of open actionable sexual harassment cases and how long the cases have been open.
+
+  (C) Such trends or region-specific issues as the Director may have discovered with respect to sexual harassment in the Administration.
+
+  (D) Such recommendations as the Director may have with respect to sexual harassment in the Administration.
+
+
+<a id="section-894a"></a>
+## § 894a. Actions to address sexual assault at National Oceanic and Atmospheric Administration
+**(a) Comprehensive policy on prevention of and response to sexual assaults** Not later than 1 year after December 23, 2016, the Secretary of Commerce shall, acting through the Under Secretary for Oceans and Atmosphere, develop a comprehensive policy on the prevention of and response to sexual assaults involving employees of the National Oceanic and Atmospheric Administration, members of the commissioned officer corps of the Administration, and individuals who work with or conduct business on behalf of the Administration.
+
+**(b) Elements of comprehensive policy** The comprehensive policy developed under subsection (a) shall, at minimum, address the following matters:
+
+(1) Prevention measures.
+
+(2) Education and training on prevention and response.
+
+(3) A list of support resources an individual may use in the occurrence of sexual assault, including—
+
+  (A) options and contact information for after-hours contact; and
+
+  (B) a procedure for obtaining assistance and reporting sexual assault while working in a remote scientific field camp, at sea, or in another field status.
+
+(4) Easy and ready availability of information described in paragraph (3).
+
+(5) Establishing a mechanism by which—
+
+  (A) questions regarding sexual assault can be confidentially asked and confidentially answered; and
+
+  (B) incidents of sexual assault can be confidentially reported.
+
+(6) Protocols for the investigation of complaints by command and law enforcement personnel.
+
+(7) Prohibiting retaliation and consequences for retaliatory actions against someone who reports a sexual assault.
+
+(8) Oversight by the Under Secretary of administrative and disciplinary actions in response to substantiated incidents of sexual assault.
+
+(9) Victim advocacy, including establishment of and the responsibilities and training requirements for victim advocates as described in subsection (c).
+
+(10) Availability of resources for victims of sexual assault within other Federal agencies and State, local, and national organizations.
+
+**(c) Victim advocacy**
+
+(1) **In general** — The Secretary, acting through the Under Secretary, shall establish victim advocates to advocate for victims of sexual assaults involving employees of the Administration, members of the commissioned officer corps of the Administration, and individuals who work with or conduct business on behalf of the Administration.
+
+(2) **Victim advocates** — For purposes of this subsection, a victim advocate is an existing permanent employee of the Administration who—
+
+  (A) is trained in matters relating to sexual assault and the comprehensive policy developed under subsection (a); and
+
+  (B) serves as a victim advocate voluntarily and in addition to the employee’s other duties as an employee of the Administration.
+
+(3) **Primary duties** — The primary duties of a victim advocate established under paragraph (1) shall include the following:
+
+  (A) Supporting victims of sexual assault and informing them of their rights and the resources available to them as victims.
+
+  (B) Acting as a companion in navigating investigative, medical, mental and emotional health, and recovery processes relating to sexual assault.
+
+  (C) Helping to identify resources to ensure the safety of victims of sexual assault.
+
+(4) **Location** — The Secretary shall ensure that at least 1 victim advocate established under paragraph (1) is stationed—
+
+  (A) in each region in which the Administration conducts operations; and
+
+  (B) in each marine and aviation center of the Administration.
+
+(5) **Hotline**
+
+  (A) *In general* — In carrying out this subsection, the Secretary shall provide a telephone number at which a victim of a sexual assault can contact a victim advocate.
+
+  (B) *24-hour access* — The Secretary shall ensure that the telephone number established under subparagraph (A) is monitored at all times.
+
+  (C) *Partnership* — The Secretary shall, where possible, use established hotlines for purposes of this paragraph.
+
+(6) **Formal relationships with other entities** — The Secretary may enter into formal relationships with other entities to make available additional victim advocates.
+
+**(d) Availability of policy** The Secretary shall ensure that the policy developed under subsection (a) is available to—
+
+(1) all employees of the Administration and members of the commissioned officer corps of the Administration, including those employees and members who conduct field work for the Administration; and
+
+(2) the public.
+
+**(e) Consultation and assistance** In developing the policy required by subsection (a), the Secretary may consult or receive assistance from such State, local, and national organizations and subject matter experts as the Secretary considers appropriate.
+
+
+<a id="section-894b"></a>
+## § 894b. Rights of the victim of a sexual assault
+
+A victim of a sexual assault covered by the comprehensive policy developed under [section 894a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section894a/a&num=0&edition=prelim) has the right to be reasonably protected from the accused.
+
+
+<a id="section-894c"></a>
+## § 894c. Change of station
+**(a) Change of station, unit transfer, or change of work location of victims**
+
+(1) **Timely consideration and action upon request** — The Secretary of Commerce, acting through the Under Secretary for Oceans and Atmosphere, shall—
+
+  (A) in the case of a member of the commissioned officer corps of the National Oceanic and Atmospheric Administration who was a victim of a sexual assault, in order to reduce the possibility of retaliation or further sexual assault, provide for timely determination and action on an application submitted by the victim for consideration of a change of station or unit transfer of the victim; and
+
+  (B) in the case of an employee of the Administration who was a victim of a sexual assault, to the degree practicable and in order to reduce the possibility of retaliation against the employee for reporting the sexual assault, accommodate a request for a change of work location of the victim.
+
+(2) **Procedures**
+
+  (A) *Period for approval and disapproval* — The Secretary, acting through the Under Secretary, shall ensure that an application or request submitted under paragraph (1) for a change of station, unit transfer, or change of work location is approved or denied within 72 hours of the submission of the application or request.
+
+  (B) *Review* — If an application or request submitted under paragraph (1) by a victim of a sexual assault for a change of station, unit transfer, or change of work location of the victim is denied—
+
+    (i) the victim may request the Secretary to review the denial; and
+
+    (ii) the Secretary, acting through the Under Secretary, shall, not later than 72 hours after receiving such request, affirm or overturn the denial.
+
+**(b) Change of station, unit transfer, and change of work location of alleged perpetrators**
+
+(1) **In general** — The Secretary, acting through the Under Secretary, shall develop a policy for the protection of victims of sexual assault described in subsection (a)(1) by providing the alleged perpetrator of the sexual assault with a change of station, unit transfer, or change of work location, as the case may be, if the alleged perpetrator is a member of the commissioned officer corps of the Administration or an employee of the Administration.
+
+(2) **Policy requirements** — The policy required by paragraph (1) shall include the following:
+
+  (A) A means to control access to the victim.
+
+  (B) Due process for the victim and the alleged perpetrator.
+
+**(c) Regulations**
+
+(1) **In general** — The Secretary shall promulgate regulations to carry out this section.
+
+(2) **Consistency** — When practicable, the Secretary shall make regulations promulgated under this section consistent with similar regulations promulgated by the Secretary of Defense.
+
+
+<a id="section-894d"></a>
+## § 894d. Applicability of policies to crews of vessels secured by National Oceanic and Atmospheric Administration under contract
+
+The Under Secretary for Oceans and Atmosphere shall ensure that each contract into which the Under Secretary enters for the use of a vessel by the National Oceanic and Atmospheric Administration that covers the crew of the vessel, if any, shall include as a condition of the contract a provision that subjects such crew to the policy developed under [section 894(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section894/a&num=0&edition=prelim) and the comprehensive policy developed under [section 894a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section894a/a&num=0&edition=prelim).
+
+
+<a id="section-894e"></a>
+## § 894e. Annual report on sexual assaults in the National Oceanic and Atmospheric Administration
+**(a) In general** Not later than January 15 of each year, the Secretary of Commerce shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives a report on the sexual assaults involving employees of the National Oceanic and Atmospheric Administration, members of the commissioned officer corps of the Administration, and individuals who work with or conduct business on behalf of the Administration.
+
+**(b) Contents** Each report submitted under subsection (a) shall include, with respect to the previous calendar year, the following:
+
+(1) The number of alleged sexual assaults involving employees, members, and individuals described in subsection (a).
+
+(2) A synopsis of each case and the disciplinary action taken, if any, in each case.
+
+(3) The policies, procedures, and processes implemented by the Secretary, and any updates or revisions to such policies, procedures, and processes.
+
+(4) A summary of the reports received by the Under Secretary for Oceans and Atmosphere under [section 894(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section894/f&num=0&edition=prelim).
+
+**(c) Privacy protection** In preparing and submitting a report under subsection (a), the Secretary shall ensure that no individual involved in an alleged sexual assault can be identified by the contents of the report.
+
+
+<a id="section-894f"></a>
+## § 894f. Sexual assault defined
+
+In this subchapter, the term “sexual assault” shall have the meaning given such term in [section 13925(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13925/a&num=0&edition=prelim).

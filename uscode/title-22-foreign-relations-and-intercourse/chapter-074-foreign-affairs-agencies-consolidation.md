@@ -330,7 +330,7 @@ This chapter, referred to in subsecs. (a), (b), and (d), was in the original “
 <a id="section-6553"></a>
 ## § 6553. Sunset of United States Advisory Commission on Public Diplomacy
 
-The United States Advisory Commission on Public Diplomacy, established under [section 1469 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1469) and section 8 of Reorganization Plan Numbered 2 of 1977, shall continue to exist and operate under such provisions of law until October 1, 2015.
+The United States Advisory Commission on Public Diplomacy, established under [section 1469 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1469) and section 8 of Reorganization Plan Numbered 2 of 1977, shall continue to exist and operate under such provisions of law until October 1, 2020.
 
 ### Statutory Notes
 
@@ -338,6 +338,8 @@ The United States Advisory Commission on Public Diplomacy, established under [se
 Section 8 of Reorganization Plan Numbered 2 of 1977, referred to in text, is set out as a note under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461) and in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2016—Pub. L. 114–323 substituted “October 1, 2020” for “October 1, 2015”.
+
 2013—Pub. L. 112–239 substituted “October 1, 2015” for “October 1, 2010”.
 
 2009—Pub. L. 111–70 substituted “October 1, 2010” for “October 1, 2009”.
@@ -350,6 +352,9 @@ Section 8 of Reorganization Plan Numbered 2 of 1977, referred to in text, is set
 
 1999—Pub. L. 106–113 amended section catchline and text generally, substituting present provisions for provisions which had abolished the United States Advisory Commission on Public Diplomacy, repealed [section 1469 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1469), and amended Reorganization Plan No. 2 of 1977.
 
+#### Effective Date of 2016 Amendment
+Pub. L. 114–323, title VII, § 702(b), Dec. 16, 2016, 130 Stat. 1940, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of October 1, 2016. Any lapse in powers, authorities, or responsibilities of the United States Advisory Commission on Public Diplomacy from the period beginning on October 1, 2016, and ending on the date of the enactment of this Act [Dec. 16, 2016], shall be deemed to have not so lapsed.”
+
 #### Effective Date of 2013 Amendment
 Pub. L. 112–239, div. A, title XII, § 1280(d)(2), Jan. 2, 2013, 126 Stat. 2033, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on October 1, 2010.”
 
@@ -358,6 +363,9 @@ Pub. L. 107–77, title IV, § 407(b), Nov. 28, 2001, 115 Stat. 790, provided th
 
 #### Effective Date of 1999 Amendment
 Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 404(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the enactment of the Foreign Affairs Reform and Restructuring Act of 1998 [Pub. L. 105–277, div. G, see Short Title note set out under [section 6501 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6501)].”
+
+#### Continuation of United States Advisory Commission on Public Diplomacy
+Pub. L. 114–113, div. K, title VII, § 7034(k)(12), Dec. 18, 2015, 129 Stat. 2766, provided that: “Section 1334 of the Foreign Affairs Reform and Restructuring Act of 1998 ([22 U.S.C. 6553](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6553)) shall be applied by substituting ‘September 30, 2016’ for ‘October 1, 2015’.”
 
 
 <a id="section-6561"></a>

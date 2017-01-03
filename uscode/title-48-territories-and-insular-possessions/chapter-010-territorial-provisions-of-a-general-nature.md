@@ -169,6 +169,8 @@ Section is from the appropriation act cited as the credit to this section.
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriations acts:
 
+Pub. L. 113–235, div. F, title I, Dec. 16, 2014, 128 Stat. 2412.
+
 Pub. L. 113–76, div. G, title I, Jan. 17, 2014, 128 Stat. 304.
 
 Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 1001.
@@ -272,12 +274,15 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 <a id="section-1469e"></a>
 ## § 1469e. Insular government purchases
 
-The Governments of American Samoa, Guam, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the Virgin Islands are authorized to make purchases through the General Services Administration.
+The Governments of the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands are authorized to make purchases through the General Services Administration.
 
 ### Statutory Notes
 
 #### Prior Provisions
 Similar provisions relating to the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands, were classified to sections 1401f, 1423l, 1665, and 1682, respectively, of this title.
+
+#### Amendments
+2016—Pub. L. 114–187 amended text generally. Prior to amendment, text read as follows: “The Governments of American Samoa, Guam, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the Virgin Islands are authorized to make purchases through the General Services Administration.”
 
 #### Termination of Trust Territory of the Pacific Islands
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of this title](./chapter-014-trust-territory-of-the-pacific-islands.md#section-1681).
@@ -651,23 +656,23 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 (2) **Energy action plan** — The term “energy action plan” means the plan required by subsection (d).
 
-(3) **Freely associated states** — The term “Freely Associated States” means the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
+(3) **Freely Associated States** — The term “Freely Associated States” means the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
 
 (4) **Insular areas** — The term “insular areas” means American Samoa, the Commonwealth of the Northern Mariana Islands, Puerto Rico, Guam, and the Virgin Islands.
 
-(5) **Secretary** — The term “Secretary” means the Secretary of the Interior.
+(5) **Secretary** — The term “Secretary” means the Secretary of the Interior, except that, with respect to Puerto Rico, the term means, the Secretary of Energy.
 
 (6) **Team** — The term “team” means the team established by the Secretary under subsection (b).
 
-**(b) Establishment** Not later than 180 days after December 16, 2014, the Secretary shall, within the Empowering Insular Communities activity, establish a team of technical, policy, and financial experts—
+**(b) Establishment** Not later than 180 days after December 16, 2014 (except in the case of Puerto Rico, in which case not later than 270 days after June 30, 2016), the Secretary shall, within the Empowering Insular Communities activity (except in the case of Puerto Rico), establish a team of technical, policy, and financial experts—
 
 (1) to develop an energy action plan addressing the energy needs of each of the insular areas and Freely Associated States; and
 
 (2) to assist each of the insular areas and Freely Associated States in implementing such plan.
 
-**(c) Participation of Regional Utility Organizations** In establishing the team, the Secretary shall consider including regional utility organizations.
+**(c) Participation of regional utility organizations** In establishing the team, the Secretary shall consider including regional utility organizations.
 
-**(d) Energy Action Plan** In accordance with subsection (b), the energy action plan shall include—
+**(d) Energy action plan** In accordance with subsection (b), the energy action plan shall include—
 
 (1) recommendations, based on the comprehensive energy plan where applicable, to—
 
@@ -685,14 +690,19 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 **(e) Reports to Secretary** Not later than 1 year after the date on which the Secretary establishes the team and annually thereafter, the team shall submit to the Secretary a report detailing progress made in fulfilling its charge and in implementing the energy action plan.
 
-**(f) Annual Reports to Congress** Not later than 30 days after the date on which the Secretary receives a report submitted by the team under subsection (e), the Secretary shall submit to the appropriate committees of Congress a summary of the report of the team.
+**(f) Annual reports to Congress** Not later than 30 days after the date on which the Secretary receives a report submitted by the team under subsection (e), the Secretary shall submit to the appropriate committees of Congress a summary of the report of the team.
 
-**(g) Approval of Secretary Required** The energy action plan shall not be implemented until the Secretary approves the energy action plan.
+**(g) Approval of Secretary required** The energy action plan shall not be implemented until the Secretary approves the energy action plan.
 
 ### Statutory Notes
 
 #### Codification
 Section is from the Consolidated and Further Continuing Appropriations Act, 2015.
+
+#### Amendments
+2016—Subsec. (a)(5). Pub. L. 114–187, § 505(d)(1), inserted “, except that, with respect to Puerto Rico, the term means, the Secretary of Energy” after “Secretary of the Interior”.
+
+Subsec. (b). Pub. L. 114–187, § 505(d)(2), in introductory provisions, inserted “(except in the case of Puerto Rico, in which case not later than 270 days after June 30, 2016)” after “December 16, 2014” and “(except in the case of Puerto Rico)” after “Empowering Insular Communities activity”.
 
 
 <a id="section-1493"></a>
@@ -892,7 +902,7 @@ Subsec. (e)(4), (5). Pub. L. 100–690, § 9306(b)(4), added pars. (4) and (5).
 Subsec. (f). Pub. L. 100–690, § 9307, added subsec. (f).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 

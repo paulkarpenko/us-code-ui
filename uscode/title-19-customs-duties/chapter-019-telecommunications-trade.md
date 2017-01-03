@@ -72,7 +72,7 @@ Such Schedules, referred to in par. (2), to be treated as a reference to the Har
 ## § 3103. Investigation of foreign telecommunications trade barriers
 **(a) In general** The Trade Representative shall conduct an investigation to identify priority foreign countries. Such investigation shall be concluded by no later than the date that is 5 months after August 23, 1988.
 
-**(b) Factors to be taken into account** In identifying priority foreign countries under subsection (a) of this section, the Trade Representative shall take into account, among other relevant factors—
+**(b) Factors to be taken into account** In identifying priority foreign countries under subsection (a), the Trade Representative shall take into account, among other relevant factors—
 
 (1) the nature and significance of the acts, policies, and practices that deny mutually advantageous market opportunities to telecommunications products and services of United States firms;
 
@@ -86,7 +86,7 @@ Such Schedules, referred to in par. (2), to be treated as a reference to the Har
 
 **(c) Revocations and additional identifications**
 
-(1) The Trade Representative may at any time, after taking into account the factors described in subsection (b) of this section—
+(1) The Trade Representative may at any time, after taking into account the factors described in subsection (b)—
 
   (A) revoke the identification of any priority foreign country that was made under this section, or
 
@@ -95,7 +95,7 @@ Such Schedules, referred to in par. (2), to be treated as a reference to the Har
 
 (2) The Trade Representative shall include in the semiannual report submitted to the Congress under [section 2419(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2419/3&num=0&edition=prelim) a detailed explanation of the reasons for the revocation under paragraph (1) of this subsection of any identification of any foreign country as a priority foreign country.
 
-**(d) Report to Congress** By no later than the date that is 30 days after the date on which the investigation conducted under subsection (a) of this section is completed, the United States Trade Representative shall submit a report on the investigation to the President and to appropriate committees of the Congress.
+**(d) Report to Congress** By no later than the date that is 30 days after the date on which the investigation conducted under subsection (a) is completed, the United States Trade Representative shall submit a report on the investigation to the President and to appropriate committees of the Congress.
 
 
 <a id="section-3104"></a>
@@ -105,7 +105,7 @@ Such Schedules, referred to in par. (2), to be treated as a reference to the Har
 (1) the date that is 30 days after the date on which any foreign country is identified in the investigation conducted under [section 3103(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3103/a&num=0&edition=prelim) as a priority foreign country, and
 
 (2) the date on which any foreign country is identified under [section 3103(c)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3103/c/1/B&num=0&edition=prelim) as a priority foreign country,
-the President shall enter into negotiations with such priority foreign country for the purpose of entering into a bilateral or multilateral trade agreement under chapter 17 of this title which meets the specific negotiating objectives established by the President under subsection (b) of this section for such priority foreign country.
+the President shall enter into negotiations with such priority foreign country for the purpose of entering into a bilateral or multilateral trade agreement under chapter 17 of this title which meets the specific negotiating objectives established by the President under subsection (b) for such priority foreign country.
 
 **(b) Establishment of specific negotiating objectives for each foreign priority country**
 
@@ -177,13 +177,13 @@ Functions of President under this section relating to certain telecommunications
 ## § 3105. Actions to be taken if no agreement obtained
 **(a) In general**
 
-(1) If the President is unable, before the close of the negotiating period, to enter into an agreement under subtitle A with any priority foreign country identified under [section 3103 of this title](./chapter-019-telecommunications-trade.md#section-3103) which achieves the general negotiating objectives described in [section 3104(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3104/b&num=0&edition=prelim) as defined by the specific objectives established by the President for that country, the President shall take whatever actions authorized under subsection (b) of this section that are appropriate and most likely to achieve such general negotiating objectives.
+(1) If the President is unable, before the close of the negotiating period, to enter into an agreement under subtitle A with any priority foreign country identified under [section 3103 of this title](./chapter-019-telecommunications-trade.md#section-3103) which achieves the general negotiating objectives described in [section 3104(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3104/b&num=0&edition=prelim) as defined by the specific objectives established by the President for that country, the President shall take whatever actions authorized under subsection (b) that are appropriate and most likely to achieve such general negotiating objectives.
 
 (2) In taking actions under paragraph (1), the President shall first take those actions which most directly affect trade in telecommunications products and services with the priority foreign country referred to in paragraph (1), unless the President determines that actions against other economic sectors would be more effective in achieving the general negotiating objectives referred to in paragraph (1).
 
 **(b) Actions authorized**
 
-(1) The President is authorized to take any of the following actions under subsection (a) of this section with respect to any priority foreign country:
+(1) The President is authorized to take any of the following actions under subsection (a) with respect to any priority foreign country:
 
   (A) termination, withdrawal, or suspension of any portion of any trade agreement entered into with such country under—
 
@@ -226,9 +226,9 @@ Functions of President under this section relating to certain telecommunications
 
     (ii) a statement detailing the reasons why an extension of such negotiating period is necessary.
 
-**(d) Modification and termination authority** The President may modify or terminate any action taken under subsection (a) of this section if, after taking into consideration the factors described in [section 3103(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3103/b&num=0&edition=prelim), the President determines that changed circumstances warrant such modification or termination.
+**(d) Modification and termination authority** The President may modify or terminate any action taken under subsection (a) if, after taking into consideration the factors described in [section 3103(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3103/b&num=0&edition=prelim), the President determines that changed circumstances warrant such modification or termination.
 
-**(e) Report** The President shall promptly inform the appropriate committees of the Congress of any action taken under subsection (a) of this section or of the modification or termination of any such action under subsection (d) of this section.
+**(e) Report** The President shall promptly inform the appropriate committees of the Congress of any action taken under subsection (a) or of the modification or termination of any such action under subsection (d).
 
 ### Statutory Notes
 
@@ -264,15 +264,15 @@ Functions of President under subsec. (e) relating to reports to Congressional co
 
 **(b) Review factors**
 
-(1) In conducting reviews under subsection (a) of this section, the Trade Representative shall consider any evidence of actual patterns of trade (including United States exports to a foreign country of telecommunications products and services, including sales and services related to those products) that do not reflect patterns of trade which would reasonably be anticipated to flow from the concessions or commitments of such country based on the international competitive position and export potential of such products and services.
+(1) In conducting reviews under subsection (a), the Trade Representative shall consider any evidence of actual patterns of trade (including United States exports to a foreign country of telecommunications products and services, including sales and services related to those products) that do not reflect patterns of trade which would reasonably be anticipated to flow from the concessions or commitments of such country based on the international competitive position and export potential of such products and services.
 
 (2) The Trade Representative shall consult with the United States International Trade Commission with regard to the actual patterns of trade described in paragraph (1).
 
 **(c) Action in response to affirmative determination**
 
-(1) Any affirmative determination made by the Trade Representative under subsection (a)(2) of this section with respect to any act, policy, or practice of a foreign country shall, for purposes of chapter 1 of title III of the Trade Act of 1974 [[19 U.S.C. 2411](./chapter-012-trade-act-of-1974.md#section-2411) et seq.], be treated as an affirmative determination under section 304(a)(1)(A) of such Act [[19 U.S.C. 2414(a)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2414/a/1/A&num=0&edition=prelim)] that such act, policy, or practice violates a trade agreement.
+(1) Any affirmative determination made by the Trade Representative under subsection (a)(2) with respect to any act, policy, or practice of a foreign country shall, for purposes of chapter 1 of title III of the Trade Act of 1974 [[19 U.S.C. 2411](./chapter-012-trade-act-of-1974.md#section-2411) et seq.], be treated as an affirmative determination under section 304(a)(1)(A) of such Act [[19 U.S.C. 2414(a)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2414/a/1/A&num=0&edition=prelim)] that such act, policy, or practice violates a trade agreement.
 
-(2) In taking actions under section 301 [[19 U.S.C. 2411](./chapter-012-trade-act-of-1974.md#section-2411)] by reason of paragraph (1), the Trade Representative shall first take those actions which most directly affect trade in telecommunications products and services with the priority foreign country referred to in paragraph (1), unless the Trade Representative determines that actions against other economic sectors would be more effective in achieving compliance by the foreign country with the trade agreement that is the subject of the affirmative determination made under subsection (a)(2) of this section.
+(2) In taking actions under section 301 [[19 U.S.C. 2411](./chapter-012-trade-act-of-1974.md#section-2411)] by reason of paragraph (1), the Trade Representative shall first take those actions which most directly affect trade in telecommunications products and services with the priority foreign country referred to in paragraph (1), unless the Trade Representative determines that actions against other economic sectors would be more effective in achieving compliance by the foreign country with the trade agreement that is the subject of the affirmative determination made under subsection (a)(2).
 
 ### Statutory Notes
 
@@ -353,9 +353,9 @@ Chapter 17 of this title, referred to in subsec. (b)(3), was in the original “
 ## § 3110. Study on telecommunications competitiveness in United States
 **(a) In general** The Secretary of Commerce, in consultation with the Federal Communications Commission and the United States Trade Representative, shall conduct a study of the competitiveness of the United States telecommunications industry and the effects of foreign telecommunications policies and practices on such industry in order to assist the Congress and the President in determining what actions might be necessary to preserve the competitiveness of the United States telecommunications industry.
 
-**(b) Public comment** The Secretary of Commerce may, as appropriate, provide notice and reasonable opportunity for public comment as part of the study conducted under subsection (a) of this section.
+**(b) Public comment** The Secretary of Commerce may, as appropriate, provide notice and reasonable opportunity for public comment as part of the study conducted under subsection (a).
 
-**(c) Report** The Secretary of Commerce shall, by no later than the date that is 1 year after August 23, 1988, submit to the Congress and the President a report on the findings and recommendations reached by the Secretary of Commerce as a result of the study conducted under subsection (a) of this section. Such report shall be referred to the appropriate committees of the House of Representatives and of the Senate.
+**(c) Report** The Secretary of Commerce shall, by no later than the date that is 1 year after August 23, 1988, submit to the Congress and the President a report on the findings and recommendations reached by the Secretary of Commerce as a result of the study conducted under subsection (a). Such report shall be referred to the appropriate committees of the House of Representatives and of the Senate.
 
 
 <a id="section-3111"></a>

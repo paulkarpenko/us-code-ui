@@ -2,7 +2,7 @@
 title: 16
 chapter: '12'
 heading: FEDERAL REGULATION AND DEVELOPMENT OF POWER
-section_count: 106
+section_count: 107
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -79,19 +79,6 @@ The Chairman may from time to time make such provisions as he shall deem appropr
 
 #### Sec. 3. Designation of Chairman
 The functions of the Commission with respect to choosing a chairman from among the commissioners composing the Commission are hereby transferred to the President.
-
-#### Message of the President
-To the Congress of the United States:
-
-I transmit herewith Reorganization Plan No. 10 of 1950, prepared in accordance with the Reorganization Act of 1949 and providing for reorganizations in the Securities and Exchange Commission. My reasons for transmitting this plan are stated in an accompanying general message.
-
-After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 10 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
-
-The taking effect of the reorganizations included in this plan may not in itself result in substantial immediate savings. However, many benefits in improved operations are probable during the next years which will result in a reduction in expenditures as compared with those that would be otherwise necessary. An itemization of these reductions in advance of actual experience under this plan is not practicable.
-
-Harry S. Truman.
-
-The White House, March 13, 1950.
 
 
 <a id="section-793"></a>
@@ -311,7 +298,7 @@ Pub. L. 102–486, title VII, § 731, Oct. 24, 1992, 106 Stat. 2921, provided th
 Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 702 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section702&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim).
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1302&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim).
 
 
 <a id="section-797"></a>
@@ -575,7 +562,7 @@ All licenses issued under this subchapter shall be on the following conditions:
 
 **(e) Annual charges payable by licensees; maximum rates; application; review and report to Congress**
 
-(1) That the licensee shall pay to the United States reasonable annual charges in an amount to be fixed by the Commission for the purpose of reimbursing the United States for the costs of the administration of this subchapter, including any reasonable and necessary costs incurred by Federal and State fish and wildlife agencies and other natural and cultural resource agencies in connection with studies or other reviews carried out by such agencies for purposes of administering their responsibilities under this subchapter; for recompensing it for the use, occupancy, and enjoyment of its lands or other property; and for the expropriation to the Government of excessive profits until the respective States shall make provision for preventing excessive profits or for the expropriation thereof to themselves, or until the period of amortization as herein provided is reached, and in fixing such charges the Commission shall seek to avoid increasing the price to the consumers of power by such charges, and any such charges may be adjusted from time to time by the Commission as conditions may require: Provided, That, subject to annual appropriations Acts, the portion of such annual charges imposed by the Commission under this subsection to cover the reasonable and necessary costs of such agencies shall be available to such agencies (in addition to other funds appropriated for such purposes) solely for carrying out such studies and reviews and shall remain available until expended: Provided, That when licenses are issued involving the use of Government dams or other structures owned by the United States or tribal lands embraced within Indian reservations the Commission shall, subject to the approval of the Secretary of the Interior in the case of such dams or structures in reclamation projects and, in the case of such tribal lands, subject to the approval of the Indian tribe having jurisdiction of such lands as provided in [section 476 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section476&num=0&edition=prelim), fix a reasonable annual charge for the use thereof, and such charges may with like approval be readjusted by the Commission at the end of twenty years after the project is available for service and at periods of not less than ten years thereafter upon notice and opportunity for hearing: Provided further, That licenses for the development, transmission, or distribution of power by States or municipalities shall be issued and enjoyed without charge to the extent such power is sold to the public without profit or is used by such State or municipality for State or municipal purposes, except that as to projects constructed or to be constructed by States or municipalities primarily designed to provide or improve navigation, licenses therefor shall be issued without charge; and that licenses for the development, transmission, or distribution of power for domestic, mining, or other beneficial use in projects of not more than two thousand horsepower installed capacity may be issued without charge, except on tribal lands within Indian reservations; but in no case shall a license be issued free of charge for the development and utilization of power created by any Government dam and that the amount charged therefor in any license shall be such as determined by the Commission: Provided however, That no charge shall be assessed for the use of any Government dam or structure by any licensee if, before January 1, 1985, the Secretary of the Interior has entered into a contract with such licensee that meets each of the following requirements:
+(1) That the licensee shall pay to the United States reasonable annual charges in an amount to be fixed by the Commission for the purpose of reimbursing the United States for the costs of the administration of this subchapter, including any reasonable and necessary costs incurred by Federal and State fish and wildlife agencies and other natural and cultural resource agencies in connection with studies or other reviews carried out by such agencies for purposes of administering their responsibilities under this subchapter; for recompensing it for the use, occupancy, and enjoyment of its lands or other property; and for the expropriation to the Government of excessive profits until the respective States shall make provision for preventing excessive profits or for the expropriation thereof to themselves, or until the period of amortization as herein provided is reached, and in fixing such charges the Commission shall seek to avoid increasing the price to the consumers of power by such charges, and any such charges may be adjusted from time to time by the Commission as conditions may require: Provided, That, subject to annual appropriations Acts, the portion of such annual charges imposed by the Commission under this subsection to cover the reasonable and necessary costs of such agencies shall be available to such agencies (in addition to other funds appropriated for such purposes) solely for carrying out such studies and reviews and shall remain available until expended: Provided, That when licenses are issued involving the use of Government dams or other structures owned by the United States or tribal lands embraced within Indian reservations the Commission shall, subject to the approval of the Secretary of the Interior in the case of such dams or structures in reclamation projects and, in the case of such tribal lands, subject to the approval of the Indian tribe having jurisdiction of such lands as provided in [section 5123 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5123&num=0&edition=prelim), fix a reasonable annual charge for the use thereof, and such charges may with like approval be readjusted by the Commission at the end of twenty years after the project is available for service and at periods of not less than ten years thereafter upon notice and opportunity for hearing: Provided further, That licenses for the development, transmission, or distribution of power by States or municipalities shall be issued and enjoyed without charge to the extent such power is sold to the public without profit or is used by such State or municipality for State or municipal purposes, except that as to projects constructed or to be constructed by States or municipalities primarily designed to provide or improve navigation, licenses therefor shall be issued without charge; and that licenses for the development, transmission, or distribution of power for domestic, mining, or other beneficial use in projects of not more than two thousand horsepower installed capacity may be issued without charge, except on tribal lands within Indian reservations; but in no case shall a license be issued free of charge for the development and utilization of power created by any Government dam and that the amount charged therefor in any license shall be such as determined by the Commission: Provided however, That no charge shall be assessed for the use of any Government dam or structure by any licensee if, before January 1, 1985, the Secretary of the Interior has entered into a contract with such licensee that meets each of the following requirements:
 
   (A) The contract covers one or more projects for which a license was issued by the Commission before January 1, 1985.
 
@@ -590,7 +577,7 @@ All licenses issued under this subchapter shall be on the following conditions:
   (C) The contract is an amendatory, supplemental and replacement contract between the United States and: (i) the Quincy-Columbia Basin Irrigation District (Contract No. 14–06–100–6418); (ii) the East Columbia Basin Irrigation District (Contract No. 14–06–100–6419); or, (iii) the South Columbia Basin Irrigation District (Contract No. 14–06–100–6420).
   This paragraph shall apply to any project covered by a contract referred to in this paragraph only during the term of such contract unless otherwise provided by subsequent Act of Congress. In the event an overpayment of any charge due under this section shall be made by a licensee, the Commission is authorized to allow a credit for such overpayment when charges are due for any subsequent period.
 
-(2) In the case of licenses involving the use of Government dams or other structures owned by the United States, the charges fixed (or readjusted) by the Commission under paragraph (1) for the use of such dams or structures shall not exceed 1 mill per kilowatt-hour for the first 40 gigawatt-hours of energy a project produces in any year, 1½ mills per kilowatt-hour for over 40 up to and including 80 gigawatt-hours in any year, and 2 mills per kilowatt-hour for any energy the project produces over 80 gigawatt-hours in any year. Except as provided in subsection (f) of this section, such charge shall be the only charge assessed by any agency of the United States for the use of such dams or structures.
+(2) In the case of licenses involving the use of Government dams or other structures owned by the United States, the charges fixed (or readjusted) by the Commission under paragraph (1) for the use of such dams or structures shall not exceed 1 mill per kilowatt-hour for the first 40 gigawatt-hours of energy a project produces in any year, 1½ mills per kilowatt-hour for over 40 up to and including 80 gigawatt-hours in any year, and 2 mills per kilowatt-hour for any energy the project produces over 80 gigawatt-hours in any year. Except as provided in subsection (f), such charge shall be the only charge assessed by any agency of the United States for the use of such dams or structures.
 
 (3) The provisions of paragraph (2) shall apply with respect to—
 
@@ -625,7 +612,7 @@ All licenses issued under this subchapter shall be on the following conditions:
   (A) A finding that adoption of such recommendation is inconsistent with the purposes and requirements of this subchapter or with other applicable provisions of law.
 
   (B) A finding that the conditions selected by the Commission comply with the requirements of paragraph (1).
-  Subsection (i) of this section shall not apply to the conditions required under this subsection.
+  Subsection (i) shall not apply to the conditions required under this subsection.
 
 ### Statutory Notes
 
@@ -764,9 +751,9 @@ Amendment by Pub. L. 99–495 effective with respect to each license, permit, or
 
 **(c) Time of filing application; consultation and participation in studies with fish and wildlife agencies; notice to applicants; adjustment of time periods**
 
-(1) Each application for a new license pursuant to this section shall be filed with the Commission at least 24 months before the expiration of the term of the existing license. Each applicant shall consult with the fish and wildlife agencies referred to in subsection (b) of this section and, as appropriate, conduct studies with such agencies. Within 60 days after the statutory deadline for the submission of applications, the Commission shall issue a notice establishing expeditious procedures for relicensing and a deadline for submission of final amendments, if any, to the application.
+(1) Each application for a new license pursuant to this section shall be filed with the Commission at least 24 months before the expiration of the term of the existing license. Each applicant shall consult with the fish and wildlife agencies referred to in subsection (b) and, as appropriate, conduct studies with such agencies. Within 60 days after the statutory deadline for the submission of applications, the Commission shall issue a notice establishing expeditious procedures for relicensing and a deadline for submission of final amendments, if any, to the application.
 
-(2) The time periods specified in this subsection and in subsection (b) of this section shall be adjusted, in a manner that achieves the objectives of this section, by the Commission by rule or order with respect to existing licensees who, by reason of the expiration dates of their licenses, are unable to comply with a specified time period.
+(2) The time periods specified in this subsection and in subsection (b) shall be adjusted, in a manner that achieves the objectives of this section, by the Commission by rule or order with respect to existing licensees who, by reason of the expiration dates of their licenses, are unable to comply with a specified time period.
 
 **(d) Adequacy of transmission facilities; provision of services to successor by existing licensee; tariff; final order; modification, extension or termination of order**
 
@@ -1034,15 +1021,15 @@ As originally enacted, this section contained the further proviso: “That secti
 
 (2) has an installed capacity that does not exceed 40 megawatts.
 
-**(c) Consultation with Federal and State agencies** In making the determination under subsection (b) of this section the Commission shall consult with the United States Fish and Wildlife Service 11 So in original. Probably should be followed by a comma. National Marine Fisheries Service 1 and the State agency exercising administration over the fish and wildlife resources of the State in which the facility is or will be located, in the manner provided by the Fish and Wildlife Coordination Act ([16 U.S.C. 661](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661), et seq.), and shall include in any such exemption—
+**(c) Consultation with Federal and State agencies** In making the determination under subsection (b) the Commission shall consult with the United States Fish and Wildlife Service 11 So in original. Probably should be followed by a comma. National Marine Fisheries Service 1 and the State agency exercising administration over the fish and wildlife resources of the State in which the facility is or will be located, in the manner provided by the Fish and Wildlife Coordination Act ([16 U.S.C. 661](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661), et seq.), and shall include in any such exemption—
 
 (1) such terms and conditions as the Fish and Wildlife Service 1 National Marine Fisheries Service 1 and the State agency each determine are appropriate to prevent loss of, or damage to, such resources and to otherwise carry out the purposes of such Act, and
 
 (2) such terms and conditions as the Commission deems appropriate to insure that such facility continues to comply with the provisions of this section and terms and conditions included in any such exemption.
 
-**(d) Violation of terms of exemption** Any violation of a term or condition of any exemption granted under subsection (b) of this section shall be treated as a violation of a rule or order of the Commission under this chapter.
+**(d) Violation of terms of exemption** Any violation of a term or condition of any exemption granted under subsection (b) shall be treated as a violation of a rule or order of the Commission under this chapter.
 
-**(e) Fees for studies** The Commission, in addition to the requirements of [section 803(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section803/e&num=0&edition=prelim), shall establish fees which shall be paid by an applicant for a license or exemption for a project that is required to meet terms and conditions set by fish and wildlife agencies under subsection (c) of this section. Such fees shall be adequate to reimburse the fish and wildlife agencies referred to in subsection (c) of this section for any reasonable costs incurred in connection with any studies or other reviews carried out by such agencies for purposes of compliance with this section. The fees shall, subject to annual appropriations Acts, be transferred to such agencies by the Commission for use solely for purposes of carrying out such studies and shall remain available until expended.
+**(e) Fees for studies** The Commission, in addition to the requirements of [section 803(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section803/e&num=0&edition=prelim), shall establish fees which shall be paid by an applicant for a license or exemption for a project that is required to meet terms and conditions set by fish and wildlife agencies under subsection (c). Such fees shall be adequate to reimburse the fish and wildlife agencies referred to in subsection (c) for any reasonable costs incurred in connection with any studies or other reviews carried out by such agencies for purposes of compliance with this section. The fees shall, subject to annual appropriations Acts, be transferred to such agencies by the Commission for use solely for purposes of carrying out such studies and shall remain available until expended.
 
 ### Statutory Notes
 
@@ -1078,20 +1065,20 @@ Pub. L. 99–495, § 8(c), Oct. 16, 1986, 100 Stat. 1251, provided that: “Noth
 
 **(b) Revocation orders** After notice and opportunity for an evidentiary hearing, the Commission may also issue an order revoking any license issued under this subchapter or any exemption granted from any requirement of this subchapter where any licensee or exemptee is found by the Commission:
 
-(1) to have knowingly violated a final order issued under subsection (a) of this section after completion of judicial review (or the opportunity for judicial review); and
+(1) to have knowingly violated a final order issued under subsection (a) after completion of judicial review (or the opportunity for judicial review); and
 
 (2) to have been given reasonable time to comply fully with such order prior to commencing any revocation proceeding.
-In any such proceeding, the order issued under subsection (a) of this section shall be subject to de novo review by the Commission. No order shall be issued under this subsection until after the Commission has taken into consideration the nature and seriousness of the violation and the efforts of the licensee to remedy the violation.
+In any such proceeding, the order issued under subsection (a) shall be subject to de novo review by the Commission. No order shall be issued under this subsection until after the Commission has taken into consideration the nature and seriousness of the violation and the efforts of the licensee to remedy the violation.
 
-**(c) Civil penalty** Any licensee, permittee, or exemptee who violates or fails or refuses to comply with any rule or regulation under this subchapter, any term, or condition of a license, permit, or exemption under this subchapter, or any order issued under subsection (a) of this section shall be subject to a civil penalty in an amount not to exceed $10,000 for each day that such violation or failure or refusal continues. Such penalty shall be assessed by the Commission after notice and opportunity for public hearing. In determining the amount of a proposed penalty, the Commission shall take into consideration the nature and seriousness of the violation, failure, or refusal and the efforts of the licensee to remedy the violation, failure, or refusal in a timely manner. No civil penalty shall be assessed where revocation is ordered.
+**(c) Civil penalty** Any licensee, permittee, or exemptee who violates or fails or refuses to comply with any rule or regulation under this subchapter, any term, or condition of a license, permit, or exemption under this subchapter, or any order issued under subsection (a) shall be subject to a civil penalty in an amount not to exceed $10,000 for each day that such violation or failure or refusal continues. Such penalty shall be assessed by the Commission after notice and opportunity for public hearing. In determining the amount of a proposed penalty, the Commission shall take into consideration the nature and seriousness of the violation, failure, or refusal and the efforts of the licensee to remedy the violation, failure, or refusal in a timely manner. No civil penalty shall be assessed where revocation is ordered.
 
 **(d) Assessment**
 
-(1) Before issuing an order assessing a civil penalty against any person under this section, the Commission shall provide to such person notice of the proposed penalty. Such notice shall, except in the case of a violation of a final order issued under subsection (a) of this section, inform such person of his opportunity to elect in writing within 30 days after the date of receipt of such notice to have the procedures of paragraph (3) (in lieu of those of paragraph (2)) apply with respect to such assessment.
+(1) Before issuing an order assessing a civil penalty against any person under this section, the Commission shall provide to such person notice of the proposed penalty. Such notice shall, except in the case of a violation of a final order issued under subsection (a), inform such person of his opportunity to elect in writing within 30 days after the date of receipt of such notice to have the procedures of paragraph (3) (in lieu of those of paragraph (2)) apply with respect to such assessment.
 
 (2)
 
-  (A) In the case of the violation of a final order issued under subsection (a) of this section, or unless an election is made within 30 calendar days after receipt of notice under paragraph (1) to have paragraph (3) apply with respect to such penalty, the Commission shall assess the penalty, by order, after a determination of violation has been made on the record after an opportunity for an agency hearing pursuant to [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim) before an administrative law judge appointed under section 3105 of such title 5. Such assessment order shall include the administrative law judge’s findings and the basis for such assessment.
+  (A) In the case of the violation of a final order issued under subsection (a), or unless an election is made within 30 calendar days after receipt of notice under paragraph (1) to have paragraph (3) apply with respect to such penalty, the Commission shall assess the penalty, by order, after a determination of violation has been made on the record after an opportunity for an agency hearing pursuant to [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim) before an administrative law judge appointed under section 3105 of such title 5. Such assessment order shall include the administrative law judge’s findings and the basis for such assessment.
 
   (B) Any person against whom a penalty is assessed under this paragraph may, within 60 calendar days after the date of the order of the Commission assessing such penalty, institute an action in the United States court of appeals for the appropriate judicial circuit for judicial review of such order in accordance with chapter 7 of title 5. The court shall have jurisdiction to enter a judgment affirming, modifying, or setting aside in whole or in Part,11 So in original. Probably should not be capitalized. the order of the Commission, or the court may remand the proceeding to the Commission for such further action as the court may direct.
 
@@ -1145,7 +1132,7 @@ Section applicable to licenses, permits, and exemptions without regard to when i
 
   (B) the operation of any navigation facilities which may be constructed as part of any project to be controlled at all times by such reasonable rules and regulations as may be made by the Secretary of the Army; and
 
-  (C) except as provided in subsection (j) of this section, conditions for the protection, mitigation, and enhancement of fish and wildlife based on recommendations received pursuant to the Fish and Wildlife Coordination Act ([16 U.S.C. 661](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661) et seq.) from the National Marine Fisheries Service, the United States Fish and Wildlife Service, and State fish and wildlife agencies.
+  (C) except as provided in subsection (j), conditions for the protection, mitigation, and enhancement of fish and wildlife based on recommendations received pursuant to the Fish and Wildlife Coordination Act ([16 U.S.C. 661](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661) et seq.) from the National Marine Fisheries Service, the United States Fish and Wildlife Service, and State fish and wildlife agencies.
 
 **(b) Definition of “qualifying project works”** For purposes of this section, the term “qualifying project works” means project works—
 
@@ -1173,17 +1160,17 @@ Section applicable to licenses, permits, and exemptions without regard to when i
 
 **(g) Oversight by the Commission** The State of Alaska shall notify the Commission not later than 30 days after making any significant modification to its regulatory program. The Commission shall periodically review the State’s program to ensure compliance with the provisions of this section.
 
-**(h) Resumption of Commission authority** Notwithstanding subsection (a) of this section, the Commission shall reassert its licensing and regulatory authority under this subchapter if the Commission finds that the State of Alaska has not complied with one or more of the requirements of this section.
+**(h) Resumption of Commission authority** Notwithstanding subsection (a), the Commission shall reassert its licensing and regulatory authority under this subchapter if the Commission finds that the State of Alaska has not complied with one or more of the requirements of this section.
 
 **(i) Determination by the Commission**
 
-(1) Upon application by the Governor of the State of Alaska, the Commission shall within 30 days commence a review of the State of Alaska’s regulatory program for water-power development to determine whether it complies with the requirements of subsection (a) of this section.
+(1) Upon application by the Governor of the State of Alaska, the Commission shall within 30 days commence a review of the State of Alaska’s regulatory program for water-power development to determine whether it complies with the requirements of subsection (a).
 
-(2) The Commission’s review required by paragraph (1) shall be completed within 1 year of initiation, and the Commission shall within 30 days thereafter issue a final order determining whether or not the State of Alaska’s regulatory program for water-power development complies with the requirements of subsection (a) of this section.
+(2) The Commission’s review required by paragraph (1) shall be completed within 1 year of initiation, and the Commission shall within 30 days thereafter issue a final order determining whether or not the State of Alaska’s regulatory program for water-power development complies with the requirements of subsection (a).
 
-(3) If the Commission fails to issue a final order in accordance with paragraph (2) the State of Alaska’s regulatory program for water-power development shall be deemed to be in compliance with subsection (a) of this section.
+(3) If the Commission fails to issue a final order in accordance with paragraph (2) the State of Alaska’s regulatory program for water-power development shall be deemed to be in compliance with subsection (a).
 
-**(j) Fish and wildlife** If the State of Alaska determines that a recommendation under subsection (a)(3)(C) of this section is inconsistent with paragraphs (1) and (2) of subsection (a) of this section, the State of Alaska may decline to adopt all or part of the recommendations in accordance with the procedures established under [section 803(j)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section803/j/2&num=0&edition=prelim).
+**(j) Fish and wildlife** If the State of Alaska determines that a recommendation under subsection (a)(3)(C) is inconsistent with paragraphs (1) and (2) of subsection (a), the State of Alaska may decline to adopt all or part of the recommendations in accordance with the procedures established under [section 803(j)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section803/j/2&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -1193,7 +1180,7 @@ The Endangered Species Act, referred to in subsec. (a)(1), probably means the En
 The Fish and Wildlife Coordination Act, referred to in subsec. (a)(1), (3)(C), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661) and Tables.
 
 #### Amendments
-2005—Subsec. (a)(3)(C). Pub. L. 109–58, § 244(1), inserted “except as provided in subsection (j) of this section,” before “conditions”.
+2005—Subsec. (a)(3)(C). Pub. L. 109–58, § 244(1), inserted “except as provided in subsection (j),” before “conditions”.
 
 Subsec. (j). Pub. L. 109–58, § 244(2), added subsec. (j).
 
@@ -1252,13 +1239,13 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (1) The provisions of this subchapter shall apply to the transmission of electric energy in interstate commerce and to the sale of electric energy at wholesale in interstate commerce, but except as provided in paragraph (2) shall not apply to any other sale of electric energy or deprive a State or State commission of its lawful authority now exercised over the exportation of hydroelectric energy which is transmitted across a State line. The Commission shall have jurisdiction over all facilities for such transmission or sale of electric energy, but shall not have jurisdiction, except as specifically provided in this subchapter and subchapter III of this chapter, over facilities used for the generation of electric energy or over facilities used in local distribution or only for the transmission of electric energy in intrastate commerce, or over facilities for the transmission of electric energy consumed wholly by the transmitter.
 
-(2) Notwithstanding subsection (f) of this section, the provisions of sections 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, and 824v of this title shall apply to the entities described in such provisions, and such entities shall be subject to the jurisdiction of the Commission for purposes of carrying out such provisions and for purposes of applying the enforcement authorities of this chapter with respect to such provisions. Compliance with any order or rule of the Commission under the provisions of section 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title, shall not make an electric utility or other entity subject to the jurisdiction of the Commission for any purposes other than the purposes specified in the preceding sentence.
+(2) Notwithstanding subsection (f), the provisions of sections 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824o–1, 824p, 824q, 824r, 824s, 824t, 824u, and 824v of this title shall apply to the entities described in such provisions, and such entities shall be subject to the jurisdiction of the Commission for purposes of carrying out such provisions and for purposes of applying the enforcement authorities of this chapter with respect to such provisions. Compliance with any order or rule of the Commission under the provisions of section 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824o–1, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title, shall not make an electric utility or other entity subject to the jurisdiction of the Commission for any purposes other than the purposes specified in the preceding sentence.
 
 **(c) Electric energy in interstate commerce** For the purpose of this subchapter, electric energy shall be held to be transmitted in interstate commerce if transmitted from a State and consumed at any point outside thereof; but only insofar as such transmission takes place within the United States.
 
 **(d) “Sale of electric energy at wholesale” defined** The term “sale of electric energy at wholesale” when used in this subchapter, means a sale of electric energy to any person for resale.
 
-**(e) “Public utility” defined** The term “public utility” when used in this subchapter and subchapter III of this chapter means any person who owns or operates facilities subject to the jurisdiction of the Commission under this subchapter (other than facilities subject to such jurisdiction solely by reason of section 824e(e), 824e(f),11 So in original. [Section 824e of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-824e) does not contain a subsec. (f). 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title).
+**(e) “Public utility” defined** The term “public utility” when used in this subchapter and subchapter III of this chapter means any person who owns or operates facilities subject to the jurisdiction of the Commission under this subchapter (other than facilities subject to such jurisdiction solely by reason of section 824e(e), 824e(f),11 So in original. [Section 824e of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-824e) does not contain a subsec. (f). 824i, 824j, 824j–1, 824k, 824o, 824o–1, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title).
 
 **(f) United States, State, political subdivision of a State, or agency or instrumentality thereof exempt** No provision in this subchapter shall apply to, or be deemed to include, the United States, a State or any political subdivision of a State, an electric cooperative that receives financing under the Rural Electrification Act of 1936 ([7 U.S.C. 901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) et seq.) or that sells less than 4,000,000 megawatt hours of electricity per year, or any agency, authority, or instrumentality of any one or more of the foregoing, or any corporation which is wholly owned, directly or indirectly, by any one or more of the foregoing, or any officer, agent, or employee of any of the foregoing acting as such in the course of his official duty, unless such provision makes specific reference thereto.
 
@@ -1293,7 +1280,11 @@ The Rural Electrification Act of 1936, referred to in subsec. (f), is act May 20
 The Public Utility Holding Company Act of 2005, referred to in subsec. (g)(5), is subtitle F of title XII of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 972, which is classified principally to part D (§ 16451 et seq.) of subchapter XII of chapter 149 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15801&num=0&edition=prelim) and Tables.
 
 #### Amendments
-2005—Subsec. (b)(2). Pub. L. 109–58, § 1295(a)(1), substituted “Notwithstanding subsection (f) of this section, the provisions of sections 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, and 824v of this title” for “The provisions of sections 824i, 824j, and 824k of this title” and “Compliance with any order or rule of the Commission under the provisions of section 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title” for “Compliance with any order of the Commission under the provisions of section 824i or 824j of this title”.
+2015—Subsec. (b)(2). Pub. L. 114–94, § 61003(b)(1), inserted “824o–1,” after “824o,” in two places.
+
+Subsec. (e). Pub. L. 114–94, § 61003(b)(2), inserted “824o–1,” after “824o,”.
+
+2005—Subsec. (b)(2). Pub. L. 109–58, § 1295(a)(1), substituted “Notwithstanding subsection (f), the provisions of sections 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, and 824v of this title” for “The provisions of sections 824i, 824j, and 824k of this title” and “Compliance with any order or rule of the Commission under the provisions of section 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title” for “Compliance with any order of the Commission under the provisions of section 824i or 824j of this title”.
 
 Subsec. (e). Pub. L. 109–58, § 1295(a)(2), substituted “section 824e(e), 824e(f), 824i, 824j, 824j–1, 824k, 824o, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title” for “section 824i, 824j, or 824k of this title”.
 
@@ -1323,13 +1314,27 @@ Pub. L. 95–617, title II, § 214, Nov. 9, 1978, 92 Stat. 3149, provided that: 
 
 **(b) Sale or exchange of energy; establishing physical connections** Whenever the Commission, upon application of any State commission or of any person engaged in the transmission or sale of electric energy, and after notice to each State commission and public utility affected and after opportunity for hearing, finds such action necessary or appropriate in the public interest it may by order direct a public utility (if the Commission finds that no undue burden will be placed upon such public utility thereby) to establish physical connection of its transmission facilities with the facilities of one or more other persons engaged in the transmission or sale of electric energy, to sell energy to or exchange energy with such persons: Provided, That the Commission shall have no authority to compel the enlargement of generating facilities for such purposes, nor to compel such public utility to sell or exchange energy when to do so would impair its ability to render adequate service to its customers. The Commission may prescribe the terms and conditions of the arrangement to be made between the persons affected by any such order, including the apportionment of cost between them and the compensation or reimbursement reasonably due to any of them.
 
-**(c) Temporary connection and exchange of facilities during emergency** During the continuance of any war in which the United States is engaged, or whenever the Commission determines that an emergency exists by reason of a sudden increase in the demand for electric energy, or a shortage of electric energy or of facilities for the generation or transmission of electric energy, or of fuel or water for generating facilities, or other causes, the Commission shall have authority, either upon its own motion or upon complaint, with or without notice, hearing, or report, to require by order such temporary connections of facilities and such generation, delivery, interchange, or transmission of electric energy as in its judgment will best meet the emergency and serve the public interest. If the parties affected by such order fail to agree upon the terms of any arrangement between them in carrying out such order, the Commission, after hearing held either before or after such order takes effect, may prescribe by supplemental order such terms as it finds to be just and reasonable, including the compensation or reimbursement which should be paid to or by any such party.
+**(c) Temporary connection and exchange of facilities during emergency**
 
-**(d) Temporary connection during emergency by persons without jurisdiction of Commission** During the continuance of any emergency requiring immediate action, any person engaged in the transmission or sale of electric energy and not otherwise subject to the jurisdiction of the Commission may make such temporary connections with any public utility subject to the jurisdiction of the Commission or may construct such temporary facilities for the transmission of electric energy in interstate commerce as may be necessary or appropriate to meet such emergency, and shall not become subject to the jurisdiction of the Commission by reason of such temporary connection or temporary construction: Provided, That such temporary connection shall be discontinued or such temporary construction removed or otherwise disposed of upon the termination of such emergency: Provided further, That upon approval of the Commission permanent connections for emergency use only may be made hereunder.
+(1) During the continuance of any war in which the United States is engaged, or whenever the Commission determines that an emergency exists by reason of a sudden increase in the demand for electric energy, or a shortage of electric energy or of facilities for the generation or transmission of electric energy, or of fuel or water for generating facilities, or other causes, the Commission shall have authority, either upon its own motion or upon complaint, with or without notice, hearing, or report, to require by order such temporary connections of facilities and such generation, delivery, interchange, or transmission of electric energy as in its judgment will best meet the emergency and serve the public interest. If the parties affected by such order fail to agree upon the terms of any arrangement between them in carrying out such order, the Commission, after hearing held either before or after such order takes effect, may prescribe by supplemental order such terms as it finds to be just and reasonable, including the compensation or reimbursement which should be paid to or by any such party.
+
+(2) With respect to an order issued under this subsection that may result in a conflict with a requirement of any Federal, State, or local environmental law or regulation, the Commission shall ensure that such order requires generation, delivery, interchange, or transmission of electric energy only during hours necessary to meet the emergency and serve the public interest, and, to the maximum extent practicable, is consistent with any applicable Federal, State, or local environmental law or regulation and minimizes any adverse environmental impacts.
+
+(3) To the extent any omission or action taken by a party, that is necessary to comply with an order issued under this subsection, including any omission or action taken to voluntarily comply with such order, results in noncompliance with, or causes such party to not comply with, any Federal, State, or local environmental law or regulation, such omission or action shall not be considered a violation of such environmental law or regulation, or subject such party to any requirement, civil or criminal liability, or a citizen suit under such environmental law or regulation.
+
+(4)
+
+  (A) An order issued under this subsection that may result in a conflict with a requirement of any Federal, State, or local environmental law or regulation shall expire not later than 90 days after it is issued. The Commission may renew or reissue such order pursuant to paragraphs (1) and (2) for subsequent periods, not to exceed 90 days for each period, as the Commission determines necessary to meet the emergency and serve the public interest.
+
+  (B) In renewing or reissuing an order under subparagraph (A), the Commission shall consult with the primary Federal agency with expertise in the environmental interest protected by such law or regulation, and shall include in any such renewed or reissued order such conditions as such Federal agency determines necessary to minimize any adverse environmental impacts to the extent practicable. The conditions, if any, submitted by such Federal agency shall be made available to the public. The Commission may exclude such a condition from the renewed or reissued order if it determines that such condition would prevent the order from adequately addressing the emergency necessitating such order and provides in the order, or otherwise makes publicly available, an explanation of such determination.
+
+(5) If an order issued under this subsection is subsequently stayed, modified, or set aside by a court pursuant to section 825l of this title or any other provision of law, any omission or action previously taken by a party that was necessary to comply with the order while the order was in effect, including any omission or action taken to voluntarily comply with the order, shall remain subject to paragraph (3).
+
+**(d) Temporary connection during emergency by persons without jurisdiction of Commission** During the continuance of any emergency requiring immediate action, any person or municipality engaged in the transmission or sale of electric energy and not otherwise subject to the jurisdiction of the Commission may make such temporary connections with any public utility subject to the jurisdiction of the Commission or may construct such temporary facilities for the transmission of electric energy in interstate commerce as may be necessary or appropriate to meet such emergency, and shall not become subject to the jurisdiction of the Commission by reason of such temporary connection or temporary construction: Provided, That such temporary connection shall be discontinued or such temporary construction removed or otherwise disposed of upon the termination of such emergency: Provided further, That upon approval of the Commission permanent connections for emergency use only may be made hereunder.
 
 **(e) Transmission of electric energy to foreign country** After six months from August 26, 1935, no person shall transmit any electric energy from the United States to a foreign country without first having secured an order of the Commission authorizing it to do so. The Commission shall issue such order upon application unless, after opportunity for hearing, it finds that the proposed transmission would impair the sufficiency of electric supply within the United States or would impede or tend to impede the coordination in the public interest of facilities subject to the jurisdiction of the Commission. The Commission may by its order grant such application in whole or in part, with such modifications and upon such terms and conditions as the Commission may find necessary or appropriate, and may from time to time, after opportunity for hearing and for good cause shown, make such supplemental orders in the premises as it may find necessary or appropriate.
 
-**(f) Transmission or sale at wholesale of electric energy; regulation** The ownership or operation of facilities for the transmission or sale at wholesale of electric energy which is (a) generated within a State and transmitted from the State across an international boundary and not thereafter transmitted into any other State, or (b) generated in a foreign country and transmitted across an international boundary into a State and not thereafter transmitted into any other State, shall not make a person a public utility subject to regulation as such under other provisions of this subchapter. The State within which any such facilities are located may regulate any such transaction insofar as such State regulation does not conflict with the exercise of the Commission’s powers under or relating to subsection (e) of this section.
+**(f) Transmission or sale at wholesale of electric energy; regulation** The ownership or operation of facilities for the transmission or sale at wholesale of electric energy which is (a) generated within a State and transmitted from the State across an international boundary and not thereafter transmitted into any other State, or (b) generated in a foreign country and transmitted across an international boundary into a State and not thereafter transmitted into any other State, shall not make a person a public utility subject to regulation as such under other provisions of this subchapter. The State within which any such facilities are located may regulate any such transaction insofar as such State regulation does not conflict with the exercise of the Commission’s powers under or relating to subsection (e).
 
 **(g) Continuance of service** In order to insure continuity of service to customers of public utilities, the Commission shall require, by rule, each public utility to—
 
@@ -1350,6 +1355,10 @@ Pub. L. 95–617, title II, § 214, Nov. 9, 1978, 92 Stat. 3149, provided that: 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (c). Pub. L. 114–94, § 61002(a), designated existing provisions as par. (1) and added pars. (2) to (5).
+
+Subsec. (d). Pub. L. 114–94, § 61002(b), inserted “or municipality” before “engaged in the transmission or sale of electric energy”.
+
 1978—Subsec. (g). Pub. L. 95–617 added subsec. (g).
 
 1953—Subsec. (f). Act Aug. 7, 1953, added subsec. (f).
@@ -1428,7 +1437,7 @@ For definitions of terms used in this section, see [section 2602 of this title](
 
   (F) any standards for electric utility reliability used by, or suggested for use by, the electric utility industry in terms of cost-effectiveness in achieving the desired level of reliability, including equipment standards, standards for operating procedures and training of personnel, and standards relating the number and severity of outages to periods of time.
 
-**(b) Examination of reliability issues by reliability councils** The Secretary, in consultation with the Commission, may, from time to time, request the reliability councils established under section 202(a) of the Federal Power Act [[16 U.S.C. 824a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section824a/a&num=0&edition=prelim) of this title] or other appropriate persons (including Federal agencies) to examine and report to him concerning any electric utility reliability issue. The Secretary shall report to the Congress (in its annual report or in the report required under subsection (a) of this section if appropriate) the results of any examination under the preceding sentence.
+**(b) Examination of reliability issues by reliability councils** The Secretary, in consultation with the Commission, may, from time to time, request the reliability councils established under section 202(a) of the Federal Power Act [[16 U.S.C. 824a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section824a/a&num=0&edition=prelim) of this title] or other appropriate persons (including Federal agencies) to examine and report to him concerning any electric utility reliability issue. The Secretary shall report to the Congress (in its annual report or in the report required under subsection (a) if appropriate) the results of any examination under the preceding sentence.
 
 **(c) Department of Energy recommendations** The Secretary, in consultation with the Commission, and after opportunity for public comment, may recommend industry standards for reliability to the electric utility industry, including standards with respect to equipment, operating procedures and training of personnel, and standards relating to the level or levels of reliability appropriate to adequately and reliably serve the needs of electric consumers. The Secretary shall include in his annual report—
 
@@ -1454,14 +1463,14 @@ For definitions of terms used in this section, see [section 2602 of this title](
 (2) purchase electric energy from such facilities.
 Such rules shall be prescribed, after consultation with representatives of Federal and State regulatory agencies having ratemaking authority for electric utilities, and after public notice and a reasonable opportunity for interested persons (including State and Federal agencies) to submit oral as well as written data, views, and arguments. Such rules shall include provisions respecting minimum reliability of qualifying cogeneration facilities and qualifying small power production facilities (including reliability of such facilities during emergencies) and rules respecting reliability of electric energy service to be available to such facilities from electric utilities during emergencies. Such rules may not authorize a qualifying cogeneration facility or qualifying small power production facility to make any sale for purposes other than resale.
 
-**(b) Rates for purchases by electric utilities** The rules prescribed under subsection (a) of this section shall insure that, in requiring any electric utility to offer to purchase electric energy from any qualifying cogeneration facility or qualifying small power production facility, the rates for such purchase—
+**(b) Rates for purchases by electric utilities** The rules prescribed under subsection (a) shall insure that, in requiring any electric utility to offer to purchase electric energy from any qualifying cogeneration facility or qualifying small power production facility, the rates for such purchase—
 
 (1) shall be just and reasonable to the electric consumers of the electric utility and in the public interest, and
 
 (2) shall not discriminate against qualifying cogenerators or qualifying small power producers.
-No such rule prescribed under subsection (a) of this section shall provide for a rate which exceeds the incremental cost to the electric utility of alternative electric energy.
+No such rule prescribed under subsection (a) shall provide for a rate which exceeds the incremental cost to the electric utility of alternative electric energy.
 
-**(c) Rates for sales by utilities** The rules prescribed under subsection (a) of this section shall insure that, in requiring any electric utility to offer to sell electric energy to any qualifying cogeneration facility or qualifying small power production facility, the rates for such sale—
+**(c) Rates for sales by utilities** The rules prescribed under subsection (a) shall insure that, in requiring any electric utility to offer to sell electric energy to any qualifying cogeneration facility or qualifying small power production facility, the rates for such sale—
 
 (1) shall be just and reasonable and in the public interest, and
 
@@ -1477,7 +1486,7 @@ No such rule prescribed under subsection (a) of this section shall provide for a
 
 (3) No qualifying small power production facility or qualifying cogeneration facility may be exempted under this subsection from—
 
-  (A) any State law or regulation in effect in a State pursuant to subsection (f) of this section,
+  (A) any State law or regulation in effect in a State pursuant to subsection (f),
 
   (B) the provisions of section 210, 211, or 212 of the Federal Power Act [[16 U.S.C. 824i](./chapter-012-federal-regulation-and-development-of-power.md#section-824i), 824j, or 824k] or the necessary authorities for enforcement of any such provision under the Federal Power Act [[16 U.S.C. 791a](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) et seq.], or
 
@@ -1485,29 +1494,29 @@ No such rule prescribed under subsection (a) of this section shall provide for a
 
 **(f) Implementation of rules for qualifying cogeneration and qualifying small power production facilities**
 
-(1) Beginning on or before the date one year after any rule is prescribed by the Commission under subsection (a) of this section or revised under such subsection, each State regulatory authority shall, after notice and opportunity for public hearing, implement such rule (or revised rule) for each electric utility for which it has ratemaking authority.
+(1) Beginning on or before the date one year after any rule is prescribed by the Commission under subsection (a) or revised under such subsection, each State regulatory authority shall, after notice and opportunity for public hearing, implement such rule (or revised rule) for each electric utility for which it has ratemaking authority.
 
-(2) Beginning on or before the date one year after any rule is prescribed by the Commission under subsection (a) of this section or revised under such subsection, each nonregulated electric utility shall, after notice and opportunity for public hearing, implement such rule (or revised rule).
+(2) Beginning on or before the date one year after any rule is prescribed by the Commission under subsection (a) or revised under such subsection, each nonregulated electric utility shall, after notice and opportunity for public hearing, implement such rule (or revised rule).
 
 **(g) Judicial review and enforcement**
 
-(1) Judicial review may be obtained respecting any proceeding conducted by a State regulatory authority or nonregulated electric utility for purposes of implementing any requirement of a rule under subsection (a) of this section in the same manner, and under the same requirements, as judicial review may be obtained under [section 2633 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2633) in the case of a proceeding to which [section 2633 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2633) applies.
+(1) Judicial review may be obtained respecting any proceeding conducted by a State regulatory authority or nonregulated electric utility for purposes of implementing any requirement of a rule under subsection (a) in the same manner, and under the same requirements, as judicial review may be obtained under [section 2633 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2633) in the case of a proceeding to which [section 2633 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2633) applies.
 
-(2) Any person (including the Secretary) may bring an action against any electric utility, qualifying small power producer, or qualifying cogenerator to enforce any requirement established by a State regulatory authority or nonregulated electric utility pursuant to subsection (f) of this section. Any such action shall be brought only in the manner, and under the requirements, as provided under [section 2633 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2633) with respect to an action to which [section 2633 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2633) applies.
+(2) Any person (including the Secretary) may bring an action against any electric utility, qualifying small power producer, or qualifying cogenerator to enforce any requirement established by a State regulatory authority or nonregulated electric utility pursuant to subsection (f). Any such action shall be brought only in the manner, and under the requirements, as provided under [section 2633 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2633) with respect to an action to which [section 2633 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2633) applies.
 
 **(h) Commission enforcement**
 
-(1) For purposes of enforcement of any rule prescribed by the Commission under subsection (a) of this section with respect to any operations of an electric utility, a qualifying cogeneration facility or a qualifying small power production facility which are subject to the jurisdiction of the Commission under part II of the Federal Power Act [[16 U.S.C. 824](./chapter-012-federal-regulation-and-development-of-power.md#section-824) et seq.], such rule shall be treated as a rule under the Federal Power Act [[16 U.S.C. 791a](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) et seq.]. Nothing in subsection (g) of this section shall apply to so much of the operations of an electric utility, a qualifying cogeneration facility or a qualifying small power production facility as are subject to the jurisdiction of the Commission under part II of the Federal Power Act.
+(1) For purposes of enforcement of any rule prescribed by the Commission under subsection (a) with respect to any operations of an electric utility, a qualifying cogeneration facility or a qualifying small power production facility which are subject to the jurisdiction of the Commission under part II of the Federal Power Act [[16 U.S.C. 824](./chapter-012-federal-regulation-and-development-of-power.md#section-824) et seq.], such rule shall be treated as a rule under the Federal Power Act [[16 U.S.C. 791a](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) et seq.]. Nothing in subsection (g) shall apply to so much of the operations of an electric utility, a qualifying cogeneration facility or a qualifying small power production facility as are subject to the jurisdiction of the Commission under part II of the Federal Power Act.
 
 (2)
 
-  (A) The Commission may enforce the requirements of subsection (f) of this section against any State regulatory authority or nonregulated electric utility. For purposes of any such enforcement, the requirements of subsection (f)(1) of this section shall be treated as a rule enforceable under the Federal Power Act [[16 U.S.C. 791a](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) et seq.]. For purposes of any such action, a State regulatory authority or nonregulated electric utility shall be treated as a person within the meaning of the Federal Power Act. No enforcement action may be brought by the Commission under this section other than—
+  (A) The Commission may enforce the requirements of subsection (f) against any State regulatory authority or nonregulated electric utility. For purposes of any such enforcement, the requirements of subsection (f)(1) shall be treated as a rule enforceable under the Federal Power Act [[16 U.S.C. 791a](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) et seq.]. For purposes of any such action, a State regulatory authority or nonregulated electric utility shall be treated as a person within the meaning of the Federal Power Act. No enforcement action may be brought by the Commission under this section other than—
 
-    (i) an action against the State regulatory authority or nonregulated electric utility for failure to comply with the requirements of subsection (f) of this section 33 So in original. Probably should be followed by a comma. or
+    (i) an action against the State regulatory authority or nonregulated electric utility for failure to comply with the requirements of subsection (f) 33 So in original. Probably should be followed by a comma. or
 
     (ii) an action under paragraph (1).
 
-  (B) Any electric utility, qualifying cogenerator, or qualifying small power producer may petition the Commission to enforce the requirements of subsection (f) of this section as provided in subparagraph (A) of this paragraph. If the Commission does not initiate an enforcement action under subparagraph (A) against a State regulatory authority or nonregulated electric utility within 60 days following the date on which a petition is filed under this subparagraph with respect to such authority, the petitioner may bring an action in the appropriate United States district court to require such State regulatory authority or nonregulated electric utility to comply with such requirements, and such court may issue such injunctive or other relief as may be appropriate. The Commission may intervene as a matter of right in any such action.
+  (B) Any electric utility, qualifying cogenerator, or qualifying small power producer may petition the Commission to enforce the requirements of subsection (f) as provided in subparagraph (A) of this paragraph. If the Commission does not initiate an enforcement action under subparagraph (A) against a State regulatory authority or nonregulated electric utility within 60 days following the date on which a petition is filed under this subparagraph with respect to such authority, the petitioner may bring an action in the appropriate United States district court to require such State regulatory authority or nonregulated electric utility to comply with such requirements, and such court may issue such injunctive or other relief as may be appropriate. The Commission may intervene as a matter of right in any such action.
 
 **(i) Federal contracts** No contract between a Federal agency and any electric utility for the sale of electric energy by such Federal agency for resale which is entered into after November 9, 1978, may contain any provision which will have the effect of preventing the implementation of any rule under this section with respect to such utility. Any provision in any such contract which has such effect shall be null and void.
 
@@ -1543,13 +1552,13 @@ No such rule prescribed under subsection (a) of this section shall provide for a
 
 (2) **Revised purchase and sale obligation for new facilities**
 
-  (A) After August 8, 2005, no electric utility shall be required pursuant to this section to enter into a new contract or obligation to purchase from or sell electric energy to a facility that is not an existing qualifying cogeneration facility unless the facility meets the criteria for qualifying cogeneration facilities established by the Commission pursuant to the rulemaking required by subsection (n) of this section.
+  (A) After August 8, 2005, no electric utility shall be required pursuant to this section to enter into a new contract or obligation to purchase from or sell electric energy to a facility that is not an existing qualifying cogeneration facility unless the facility meets the criteria for qualifying cogeneration facilities established by the Commission pursuant to the rulemaking required by subsection (n).
 
   (B) For the purposes of this paragraph, the term “existing qualifying cogeneration facility” means a facility that—
 
     (i) was a qualifying cogeneration facility on August 8, 2005; or
 
-    (ii) had filed with the Commission a notice of self-certification, self recertification or an application for Commission certification under 18 CFR 292.207 prior to the date on which the Commission issues the final rule required by subsection (n) of this section.
+    (ii) had filed with the Commission a notice of self-certification, self recertification or an application for Commission certification under 18 CFR 292.207 prior to the date on which the Commission issues the final rule required by subsection (n).
 
 (3) **Commission review** — Any electric utility may file an application with the Commission for relief from the mandatory purchase obligation pursuant to this subsection on a service territory-wide basis. Such application shall set forth the factual basis upon which relief is requested and describe why the conditions set forth in subparagraph (A), (B), or (C) of paragraph (1) of this subsection have been met. After notice, including sufficient notice to potentially affected qualifying cogeneration facilities and qualifying small power production facilities, and an opportunity for comment, the Commission shall make a final determination within 90 days of such application regarding whether the conditions set forth in subparagraph (A), (B), or (C) of paragraph (1) have been met.
 
@@ -1581,7 +1590,7 @@ No such rule prescribed under subsection (a) of this section shall provide for a
 
     (iii) continuing progress in the development of efficient electric energy generating technology.
 
-  (B) The rule issued pursuant to paragraph (1)(A) of this subsection shall be applicable only to facilities that seek to sell electric energy pursuant to this section. For all other purposes, except as specifically provided in subsection (m)(2)(A) of this section, qualifying facility status shall be determined in accordance with the rules and regulations of this Act.
+  (B) The rule issued pursuant to paragraph (1)(A) of this subsection shall be applicable only to facilities that seek to sell electric energy pursuant to this section. For all other purposes, except as specifically provided in subsection (m)(2)(A), qualifying facility status shall be determined in accordance with the rules and regulations of this Act.
 
 (2) Notwithstanding rule revisions under paragraph (1), the Commission’s criteria for qualifying cogeneration facilities in effect prior to the date on which the Commission issues the final rule required by paragraph (1) shall continue to apply to any cogeneration facility that—
 
@@ -1647,7 +1656,7 @@ For definitions of terms used in this section, see [section 2602 of this title](
 
   (A) that the exchange is in the public interest and would further the purposes referred to in section 2611(1) and (2) of this title and that the acquisition of such rights-of-way and the construction and operation of such transmission facilities for such purposes is otherwise in the public interest,
 
-  (B) that a permit has been issued in accordance with subsection (b) of this section for such construction, operation, maintenance, and connection of the facilities at the border for the transmission of electric energy between the United States and Canada as is necessary for such exchange of electric power, and
+  (B) that a permit has been issued in accordance with subsection (b) for such construction, operation, maintenance, and connection of the facilities at the border for the transmission of electric energy between the United States and Canada as is necessary for such exchange of electric power, and
 
   (C) that each affected State has approved the portion of the transmission route located in each State in accordance with applicable State law, or if there is no such applicable State law in such State, the Governor has approved such portion; and
 
@@ -1656,11 +1665,11 @@ The Secretary shall provide to any State such cooperation and technical assistan
 
 **(b) Permit** Notwithstanding any transfer of functions under the first sentence of section 301(b) of the Department of Energy Organization Act [[42 U.S.C. 7151(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7151/b&num=0&edition=prelim)], no permit referred to in subsection (a)(1)(B) may be issued unless the Commission has conducted hearings and made the findings required under section 202(e) of the Federal Power Act [[16 U.S.C. 824a(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section824a/e&num=0&edition=prelim)] and under the applicable execution order respecting the construction, operation, maintenance, or connection at the borders of the United States of facilities for the transmission of electric energy between the United States and a foreign country. Any finding of the Commission under an applicable executive order referred to in this subsection shall be treated for purposes of judicial review as an order issued under section 202(e) of the Federal Power Act.
 
-**(c) Timely acquisition by other means** The Secretary may not acquire any rights-of-day 22 So in original. Probably should be “rights-of-way”. under this section unless he determines that the holder or holders of a permit referred to in subsection (a)(1)(B) of this section are unable to acquire such rights-of-way under State condemnation authority, or after reasonable opportunity for negotiation, without unreasonably delaying construction, taking into consideration the impact of such delay on completion of the facilities in a timely fashion.
+**(c) Timely acquisition by other means** The Secretary may not acquire any rights-of-day 22 So in original. Probably should be “rights-of-way”. under this section unless he determines that the holder or holders of a permit referred to in subsection (a)(1)(B) are unable to acquire such rights-of-way under State condemnation authority, or after reasonable opportunity for negotiation, without unreasonably delaying construction, taking into consideration the impact of such delay on completion of the facilities in a timely fashion.
 
 **(d) Payments by permittees**
 
-(1) The property interest acquired by the Secretary under this section (whether by eminent domain or other purchase) shall be transferred by the Secretary to the holder of a permit referred to in subsection (b) of this section if such holder has made payment to the Secretary of the entire costs of the acquisition of such property interest, including administrative costs. The Secretary may accept, and expend, for purposes of such acquisition, amounts from any such person before acquiring a property interest to be transferred to such person under this section.
+(1) The property interest acquired by the Secretary under this section (whether by eminent domain or other purchase) shall be transferred by the Secretary to the holder of a permit referred to in subsection (b) if such holder has made payment to the Secretary of the entire costs of the acquisition of such property interest, including administrative costs. The Secretary may accept, and expend, for purposes of such acquisition, amounts from any such person before acquiring a property interest to be transferred to such person under this section.
 
 (2) If no payment is made by a permit holder under paragraph (1), within a reasonable time, the Secretary shall offer such rights-of-way to the original owner for reacquisition at the original price paid by the Secretary. If such original owner refuses to reacquire such property after a reasonable period, the Secretary shall dispose of such property in accordance with applicable provisions of law governing disposal of property of the United States.
 
@@ -1729,7 +1738,7 @@ Pub. L. 109–58, title XII, § 1289(b), (c), Aug. 8, 2005, 119 Stat. 983, provi
 
 **(d) Authorization of capitalization not to exceed amount paid** The Commission shall not authorize the capitalization of the right to be a corporation or of any franchise, permit, or contract for consolidation, merger, or lease in excess of the amount (exclusive of any tax or annual charge) actually paid as the consideration for such right, franchise, permit, or contract.
 
-**(e) Notes or drafts maturing less than one year after issuance** Subsection (a) of this section shall not apply to the issue or renewal of, or assumption of liability on, a note or draft maturing not more than one year after the date of such issue, renewal, or assumption of liability, and aggregating (together with all other then outstanding notes and drafts of a maturity of one year or less on which such public utility is primarily or secondarily liable) not more than 5 per centum of the par value of the other securities of the public utility then outstanding. In the case of securities having no par value, the par value for the purpose of this subsection shall be the fair market value as of the date of issue. Within ten days after any such issue, renewal, or assumption of liability, the public utility shall file with the Commission a certificate of notification, in such form as may be prescribed by the Commission, setting forth such matters as the Commission shall by regulation require.
+**(e) Notes or drafts maturing less than one year after issuance** Subsection (a) shall not apply to the issue or renewal of, or assumption of liability on, a note or draft maturing not more than one year after the date of such issue, renewal, or assumption of liability, and aggregating (together with all other then outstanding notes and drafts of a maturity of one year or less on which such public utility is primarily or secondarily liable) not more than 5 per centum of the par value of the other securities of the public utility then outstanding. In the case of securities having no par value, the par value for the purpose of this subsection shall be the fair market value as of the date of issue. Within ten days after any such issue, renewal, or assumption of liability, the public utility shall file with the Commission a certificate of notification, in such form as may be prescribed by the Commission, setting forth such matters as the Commission shall by regulation require.
 
 **(f) Public utility securities regulated by State not affected** The provisions of this section shall not extend to a public utility organized and operating in a State under the laws of which its security issues are regulated by a State commission.
 
@@ -1796,7 +1805,7 @@ Section 207(b) of Pub. L. 95–617 directed chairman of Federal Energy Regulator
 
 **(b) Refund effective date; preferential proceedings; statement of reasons for delay; burden of proof; scope of refund order; refund orders in cases of dilatory behavior; interest** Whenever the Commission institutes a proceeding under this section, the Commission shall establish a refund effective date. In the case of a proceeding instituted on complaint, the refund effective date shall not be earlier than the date of the filing of such complaint nor later than 5 months after the filing of such complaint. In the case of a proceeding instituted by the Commission on its own motion, the refund effective date shall not be earlier than the date of the publication by the Commission of notice of its intention to initiate such proceeding nor later than 5 months after the publication date. Upon institution of a proceeding under this section, the Commission shall give to the decision of such proceeding the same preference as provided under [section 824d of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-824d) and otherwise act as speedily as possible. If no final decision is rendered by the conclusion of the 180-day period commencing upon initiation of a proceeding pursuant to this section, the Commission shall state the reasons why it has failed to do so and shall state its best estimate as to when it reasonably expects to make such decision. In any proceeding under this section, the burden of proof to show that any rate, charge, classification, rule, regulation, practice, or contract is unjust, unreasonable, unduly discriminatory, or preferential shall be upon the Commission or the complainant. At the conclusion of any proceeding under this section, the Commission may order refunds of any amounts paid, for the period subsequent to the refund effective date through a date fifteen months after such refund effective date, in excess of those which would have been paid under the just and reasonable rate, charge, classification, rule, regulation, practice, or contract which the Commission orders to be thereafter observed and in force: Provided, That if the proceeding is not concluded within fifteen months after the refund effective date and if the Commission determines at the conclusion of the proceeding that the proceeding was not resolved within the fifteen-month period primarily because of dilatory behavior by the public utility, the Commission may order refunds of any or all amounts paid for the period subsequent to the refund effective date and prior to the conclusion of the proceeding. The refunds shall be made, with interest, to those persons who have paid those rates or charges which are the subject of the proceeding.
 
-**(c) Refund considerations; shifting costs; reduction in revenues; “electric utility companies” and “registered holding company” defined** Notwithstanding subsection (b) of this section, in a proceeding commenced under this section involving two or more electric utility companies of a registered holding company, refunds which might otherwise be payable under subsection (b) of this section shall not be ordered to the extent that such refunds would result from any portion of a Commission order that (1) requires a decrease in system production or transmission costs to be paid by one or more of such electric companies; and (2) is based upon a determination that the amount of such decrease should be paid through an increase in the costs to be paid by other electric utility companies of such registered holding company: Provided, That refunds, in whole or in part, may be ordered by the Commission if it determines that the registered holding company would not experience any reduction in revenues which results from an inability of an electric utility company of the holding company to recover such increase in costs for the period between the refund effective date and the effective date of the Commission’s order. For purposes of this subsection, the terms “electric utility companies” and “registered holding company” shall have the same meanings as provided in the Public Utility Holding Company Act of 1935, as amended.11 See References in Text note below.
+**(c) Refund considerations; shifting costs; reduction in revenues; “electric utility companies” and “registered holding company” defined** Notwithstanding subsection (b), in a proceeding commenced under this section involving two or more electric utility companies of a registered holding company, refunds which might otherwise be payable under subsection (b) shall not be ordered to the extent that such refunds would result from any portion of a Commission order that (1) requires a decrease in system production or transmission costs to be paid by one or more of such electric companies; and (2) is based upon a determination that the amount of such decrease should be paid through an increase in the costs to be paid by other electric utility companies of such registered holding company: Provided, That refunds, in whole or in part, may be ordered by the Commission if it determines that the registered holding company would not experience any reduction in revenues which results from an inability of an electric utility company of the holding company to recover such increase in costs for the period between the refund effective date and the effective date of the Commission’s order. For purposes of this subsection, the terms “electric utility companies” and “registered holding company” shall have the same meanings as provided in the Public Utility Holding Company Act of 1935, as amended.11 See References in Text note below.
 
 **(d) Investigation of costs** The Commission upon its own motion, or upon the request of any State commission whenever it can do so without prejudice to the efficient and proper conduct of its affairs, may investigate and determine the cost of the production or transmission of electric energy by means of facilities under the jurisdiction of the Commission in cases where the Commission has no authority to establish a rate governing the sale of such energy.
 
@@ -1890,15 +1899,15 @@ Whenever the Commission, upon complaint of a State commission, after notice to e
 
 (2) Any State regulatory authority may apply to the Commission for an order for any action referred to in subparagraph (A), (B), (C), or (D) of paragraph (1). No such order may be issued by the Commission with respect to a Federal power marketing agency upon application of a State regulatory authority.
 
-**(b) Notice, hearing and determination by Commission** Upon receipt of an application under subsection (a) of this section, the Commission shall—
+**(b) Notice, hearing and determination by Commission** Upon receipt of an application under subsection (a), the Commission shall—
 
 (1) issue notice to each affected State regulatory authority, each affected electric utility, each affected Federal power marketing agency, each affected owner or operator of a cogeneration facility or of a small power production facility, and to the public.11 So in original. The period probably should be a comma.
 
 (2) afford an opportunity for an evidentiary hearing, and
 
-(3) make a determination with respect to the matters referred to in subsection (c) of this section.
+(3) make a determination with respect to the matters referred to in subsection (c).
 
-**(c) Necessary findings** No order may be issued by the Commission under subsection (a) of this section unless the Commission determines that such order—
+**(c) Necessary findings** No order may be issued by the Commission under subsection (a) unless the Commission determines that such order—
 
 (1) is in the public interest,
 
@@ -1912,13 +1921,13 @@ Whenever the Commission, upon complaint of a State commission, after notice to e
 
 (3) meets the requirements of [section 824k of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-824k).
 
-**(d) Motion of Commission** The Commission may, on its own motion, after compliance with the requirements of paragraphs (1) and (2) of subsection (b) of this section, issue an order requiring any action described in subsection (a)(1) of this section if the Commission determines that such order meets the requirements of subsection (c) of this section. No such order may be issued upon the Commission’s own motion with respect to a Federal power marketing agency.
+**(d) Motion of Commission** The Commission may, on its own motion, after compliance with the requirements of paragraphs (1) and (2) of subsection (b), issue an order requiring any action described in subsection (a)(1) if the Commission determines that such order meets the requirements of subsection (c). No such order may be issued upon the Commission’s own motion with respect to a Federal power marketing agency.
 
 **(e) Definitions**
 
 (1) As used in this section, the term “facilities” means only facilities used for the generation or transmission of electric energy.
 
-(2) With respect to an order issued pursuant to an application of a qualifying cogenerator or qualifying small power producer under subsection (a)(1) of this section, the term “facilities of such applicant” means the qualifying cogeneration facilities or qualifying small power production facilities of the applicant, as specified in the application. With respect to an order issued pursuant to an application under subsection (a)(2) of this section, the term “facilities of such applicant” means the qualifying cogeneration facilities, qualifying small power production facilities, or the transmission facilities of an electric utility, as specified in the application. With respect to an order issued by the Commission on its own motion under subsection (d) of this section, such term means the qualifying cogeneration facilities, qualifying small power production facilities, or the transmission facilities of an electric utility, as specified in the proposed order.
+(2) With respect to an order issued pursuant to an application of a qualifying cogenerator or qualifying small power producer under subsection (a)(1), the term “facilities of such applicant” means the qualifying cogeneration facilities or qualifying small power production facilities of the applicant, as specified in the application. With respect to an order issued pursuant to an application under subsection (a)(2), the term “facilities of such applicant” means the qualifying cogeneration facilities, qualifying small power production facilities, or the transmission facilities of an electric utility, as specified in the application. With respect to an order issued by the Commission on its own motion under subsection (d), such term means the qualifying cogeneration facilities, qualifying small power production facilities, or the transmission facilities of an electric utility, as specified in the proposed order.
 
 ### Statutory Notes
 
@@ -1935,7 +1944,7 @@ For provisions requiring the Federal Energy Regulatory Commission to conduct a s
 
 **(b) Reliability of electric service** No order may be issued under this section or [section 824i of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-824i) if, after giving consideration to consistently applied regional or national reliability standards, guidelines, or criteria, the Commission finds that such order would unreasonably impair the continued reliability of electric systems affected by the order.
 
-**(c) Replacement of electric energy** No order may be issued under subsection (a) or (b) of this section which requires the transmitting utility subject to the order to transmit, during any period, an amount of electric energy which replaces any amount of electric energy—
+**(c) Replacement of electric energy** No order may be issued under subsection (a) or (b) which requires the transmitting utility subject to the order to transmit, during any period, an amount of electric energy which replaces any amount of electric energy—
 
 (1) required to be provided to such applicant pursuant to a contract during such period, or
 
@@ -1943,16 +1952,16 @@ For provisions requiring the Federal Energy Regulatory Commission to conduct a s
 
 **(d) Termination or modification of order; notice, hearing and findings of Commission; contents of order; inclusion in order of terms and conditions agreed upon by parties**
 
-(1) Any transmitting utility ordered under subsection (a) or (b) of this section to provide transmission services may apply to the Commission for an order permitting such transmitting utility to cease providing all, or any portion of, such services. After public notice, notice to each affected State regulatory authority, each affected Federal power marketing agency, each affected transmitting utility, and each affected electric utility, and after an opportunity for an evidentiary hearing, the Commission shall issue an order terminating or modifying the order issued under subsection (a) or (b) of this section, if the transmitting utility providing such transmission services has demonstrated, and the Commission has found, that—
+(1) Any transmitting utility ordered under subsection (a) or (b) to provide transmission services may apply to the Commission for an order permitting such transmitting utility to cease providing all, or any portion of, such services. After public notice, notice to each affected State regulatory authority, each affected Federal power marketing agency, each affected transmitting utility, and each affected electric utility, and after an opportunity for an evidentiary hearing, the Commission shall issue an order terminating or modifying the order issued under subsection (a) or (b), if the transmitting utility providing such transmission services has demonstrated, and the Commission has found, that—
 
-  (A) due to changed circumstances, the requirements applicable, under this section and [section 824k of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-824k), to the issuance of an order under subsection (a) or (b) of this section are no longer met, or 11 So in original. The word “or” probably should not appear.
+  (A) due to changed circumstances, the requirements applicable, under this section and [section 824k of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-824k), to the issuance of an order under subsection (a) or (b) are no longer met, or 11 So in original. The word “or” probably should not appear.
 
   (B) any transmission capacity of the utility providing transmission services under such order which was, at the time such order was issued, in excess of the capacity necessary to serve its own customers is no longer in excess of the capacity necessary for such purposes, or
 
   (C) the ordered transmission services require enlargement of transmission capacity and the transmitting utility subject to the order has failed, after making a good faith effort, to obtain the necessary approvals or property rights under applicable Federal, State, and local laws.
   No order shall be issued under this subsection pursuant to a finding under subparagraph (A) unless the Commission finds that such order is in the public interest.
 
-(2) Any order issued under this subsection terminating or modifying an order issued under subsection (a) or (b) of this section shall—
+(2) Any order issued under this subsection terminating or modifying an order issued under subsection (a) or (b) shall—
 
   (A) provide for any appropriate compensation, and
 
@@ -1962,9 +1971,9 @@ For provisions requiring the Federal Energy Regulatory Commission to conduct a s
 
     (ii) insure that the interests of ratepayers of such utilities are adequately protected.
 
-(3) No order may be issued under this subsection terminating or modifying any order issued under subsection (a) or (b) of this section if the order under subsection (a) or (b) of this section includes terms and conditions agreed upon by the parties which—
+(3) No order may be issued under this subsection terminating or modifying any order issued under subsection (a) or (b) if the order under subsection (a) or (b) includes terms and conditions agreed upon by the parties which—
 
-  (A) fix a period during which transmission services are to be provided under the order under subsection (a) or (b) of this section, or
+  (A) fix a period during which transmission services are to be provided under the order under subsection (a) or (b), or
 
   (B) otherwise provide procedures or methods for terminating or modifying such order (including, if appropriate, the return of the transmission capacity when necessary to take into account an increase, after the issuance of such order, in the needs of the transmitting utility subject to such order for transmission capacity).
 
@@ -2038,15 +2047,15 @@ Nothing in amendment by Pub. L. 102–486 to be construed as affecting or intend
 
 (3) meets other criteria the Commission determines to be in the public interest.
 
-**(d) Local distribution facilities** The requirements of subsection (b) of this section shall not apply to facilities used in local distribution.
+**(d) Local distribution facilities** The requirements of subsection (b) shall not apply to facilities used in local distribution.
 
-**(e) Exemption termination** If the Commission, after an evidentiary hearing held on a complaint and after giving consideration to reliability standards established under section 824o of this title, finds on the basis of a preponderance of the evidence that any exemption granted pursuant to subsection (c) of this section unreasonably impairs the continued reliability of an interconnected transmission system, the Commission shall revoke the exemption granted to the transmitting utility.
+**(e) Exemption termination** If the Commission, after an evidentiary hearing held on a complaint and after giving consideration to reliability standards established under section 824o of this title, finds on the basis of a preponderance of the evidence that any exemption granted pursuant to subsection (c) unreasonably impairs the continued reliability of an interconnected transmission system, the Commission shall revoke the exemption granted to the transmitting utility.
 
 **(f) Application to unregulated transmitting utilities** The rate changing procedures applicable to public utilities under subsections (c) and (d) of [section 824d of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-824d) are applicable to unregulated transmitting utilities for purposes of this section.
 
-**(g) Remand** In exercising authority under subsection (b)(1) of this section, the Commission may remand transmission rates to an unregulated transmitting utility for review and revision if necessary to meet the requirements of subsection (b) of this section.
+**(g) Remand** In exercising authority under subsection (b)(1), the Commission may remand transmission rates to an unregulated transmitting utility for review and revision if necessary to meet the requirements of subsection (b).
 
-**(h) Other requests** The provision of transmission services under subsection (b) of this section does not preclude a request for transmission services under [section 824j of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-824j).
+**(h) Other requests** The provision of transmission services under subsection (b) does not preclude a request for transmission services under [section 824j of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-824j).
 
 **(i) Limitation** The Commission may not require a State or municipality to take action under this section that would violate a private activity bond rule for purposes of [section 141 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section141&num=0&edition=prelim).
 
@@ -2136,7 +2145,7 @@ Nothing in this subsection shall affect any authority of any State or local gove
 
 **(k) ERCOT utilities**
 
-(1) **Rates** — Any order under [section 824j of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-824j) requiring provision of transmission services in whole or in part within ERCOT shall provide that any ERCOT utility which is not a public utility and the transmission facilities of which are actually used for such transmission service is entitled to receive compensation based, insofar as practicable and consistent with subsection (a) of this section, on the transmission ratemaking methodology used by the Public Utility Commission of Texas.
+(1) **Rates** — Any order under [section 824j of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-824j) requiring provision of transmission services in whole or in part within ERCOT shall provide that any ERCOT utility which is not a public utility and the transmission facilities of which are actually used for such transmission service is entitled to receive compensation based, insofar as practicable and consistent with subsection (a), on the transmission ratemaking methodology used by the Public Utility Commission of Texas.
 
 (2) **Definitions** — For purposes of this subsection—
 
@@ -2217,7 +2226,7 @@ Section, Pub. L. 106–377, § 1(a)(2) [title III, § 311], Oct. 27, 2000, 114 S
   (B) electric energy from generation facilities needed to maintain transmission system reliability.
   The term does not include facilities used in the local distribution of electric energy.
 
-(2) The terms “Electric Reliability Organization” and “ERO” mean the organization certified by the Commission under subsection (c) of this section the purpose of which is to establish and enforce reliability standards for the bulk-power system, subject to Commission review.
+(2) The terms “Electric Reliability Organization” and “ERO” mean the organization certified by the Commission under subsection (c) the purpose of which is to establish and enforce reliability standards for the bulk-power system, subject to Commission review.
 
 (3) The term “reliability standard” means a requirement, approved by the Commission under this section, to provide for reliable operation of the bulk-power system. The term includes requirements for the operation of existing bulk-power system facilities, including cybersecurity protection, and the design of planned additions or modifications to such facilities to the extent necessary to provide for reliable operation of the bulk-power system, but the term does not include any requirement to enlarge such facilities or to construct new transmission capacity or generation capacity.
 
@@ -2227,19 +2236,19 @@ Section, Pub. L. 106–377, § 1(a)(2) [title III, § 311], Oct. 27, 2000, 114 S
 
 (6) The term “transmission organization” means a Regional Transmission Organization, Independent System Operator, independent transmission provider, or other transmission organization finally approved by the Commission for the operation of transmission facilities.
 
-(7) The term “regional entity” means an entity having enforcement authority pursuant to subsection (e)(4) of this section.
+(7) The term “regional entity” means an entity having enforcement authority pursuant to subsection (e)(4).
 
 (8) The term “cybersecurity incident” means a malicious act or suspicious event that disrupts, or was an attempt to disrupt, the operation of those programmable electronic devices and communication networks including hardware, software and data that are essential to the reliable operation of the bulk power system.
 
 **(b) Jurisdiction and applicability**
 
-(1) The Commission shall have jurisdiction, within the United States, over the ERO certified by the Commission under subsection (c) of this section, any regional entities, and all users, owners and operators of the bulk-power system, including but not limited to the entities described in [section 824(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section824/f&num=0&edition=prelim), for purposes of approving reliability standards established under this section and enforcing compliance with this section. All users, owners and operators of the bulk-power system shall comply with reliability standards that take effect under this section.
+(1) The Commission shall have jurisdiction, within the United States, over the ERO certified by the Commission under subsection (c), any regional entities, and all users, owners and operators of the bulk-power system, including but not limited to the entities described in [section 824(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section824/f&num=0&edition=prelim), for purposes of approving reliability standards established under this section and enforcing compliance with this section. All users, owners and operators of the bulk-power system shall comply with reliability standards that take effect under this section.
 
 (2) The Commission shall issue a final rule to implement the requirements of this section not later than 180 days after August 8, 2005.
 
-**(c) Certification** Following the issuance of a Commission rule under subsection (b)(2) of this section, any person may submit an application to the Commission for certification as the Electric Reliability Organization. The Commission may certify one such ERO if the Commission determines that such ERO—
+**(c) Certification** Following the issuance of a Commission rule under subsection (b)(2), any person may submit an application to the Commission for certification as the Electric Reliability Organization. The Commission may certify one such ERO if the Commission determines that such ERO—
 
-(1) has the ability to develop and enforce, subject to subsection (e)(2) of this section, reliability standards that provide for an adequate level of reliability of the bulk-power system; and
+(1) has the ability to develop and enforce, subject to subsection (e)(2), reliability standards that provide for an adequate level of reliability of the bulk-power system; and
 
 (2) has established rules that—
 
@@ -2247,7 +2256,7 @@ Section, Pub. L. 106–377, § 1(a)(2) [title III, § 311], Oct. 27, 2000, 114 S
 
   (B) allocate equitably reasonable dues, fees, and other charges among end users for all activities under this section;
 
-  (C) provide fair and impartial procedures for enforcement of reliability standards through the imposition of penalties in accordance with subsection (e) of this section (including limitations on activities, functions, or operations, or other appropriate sanctions);
+  (C) provide fair and impartial procedures for enforcement of reliability standards through the imposition of penalties in accordance with subsection (e) (including limitations on activities, functions, or operations, or other appropriate sanctions);
 
   (D) provide for reasonable notice and opportunity for public comment, due process, openness, and balance of interests in developing reliability standards and otherwise exercising its duties; and
 
@@ -2265,7 +2274,7 @@ Section, Pub. L. 106–377, § 1(a)(2) [title III, § 311], Oct. 27, 2000, 114 S
 
 (5) The Commission, upon its own motion or upon complaint, may order the Electric Reliability Organization to submit to the Commission a proposed reliability standard or a modification to a reliability standard that addresses a specific matter if the Commission considers such a new or modified reliability standard appropriate to carry out this section.
 
-(6) The final rule adopted under subsection (b)(2) of this section shall include fair processes for the identification and timely resolution of any conflict between a reliability standard and any function, rule, order, tariff, rate schedule, or agreement accepted, approved, or ordered by the Commission applicable to a transmission organization. Such transmission organization shall continue to comply with such function, rule, order, tariff, rate schedule or agreement accepted, approved, or ordered by the Commission until—
+(6) The final rule adopted under subsection (b)(2) shall include fair processes for the identification and timely resolution of any conflict between a reliability standard and any function, rule, order, tariff, rate schedule, or agreement accepted, approved, or ordered by the Commission applicable to a transmission organization. Such transmission organization shall continue to comply with such function, rule, order, tariff, rate schedule or agreement accepted, approved, or ordered by the Commission until—
 
   (A) the Commission finds a conflict exists between a reliability standard and any such provision;
 
@@ -2276,9 +2285,9 @@ Section, Pub. L. 106–377, § 1(a)(2) [title III, § 311], Oct. 27, 2000, 114 S
 
 **(e) Enforcement**
 
-(1) The ERO may impose, subject to paragraph (2), a penalty on a user or owner or operator of the bulk-power system for a violation of a reliability standard approved by the Commission under subsection (d) of this section if the ERO, after notice and an opportunity for a hearing—
+(1) The ERO may impose, subject to paragraph (2), a penalty on a user or owner or operator of the bulk-power system for a violation of a reliability standard approved by the Commission under subsection (d) if the ERO, after notice and an opportunity for a hearing—
 
-  (A) finds that the user or owner or operator has violated a reliability standard approved by the Commission under subsection (d) of this section; and
+  (A) finds that the user or owner or operator has violated a reliability standard approved by the Commission under subsection (d); and
 
   (B) files notice and the record of the proceeding with the Commission.
 
@@ -2296,7 +2305,7 @@ Section, Pub. L. 106–377, § 1(a)(2) [title III, § 311], Oct. 27, 2000, 114 S
 
     (iii) a combination independent and balanced stakeholder board.
 
-  (B) the regional entity otherwise satisfies the provisions of subsection (c)(1) and (2) of this section; and
+  (B) the regional entity otherwise satisfies the provisions of subsection (c)(1) and (2); and
 
   (C) the agreement promotes effective and efficient administration of bulk-power system reliability.
   The Commission may modify such delegation. The ERO and the Commission shall rebuttably presume that a proposal for delegation to a regional entity organized on an Interconnection-wide basis promotes effective and efficient administration of bulk-power system reliability and should be approved. Such regulation may provide that the Commission may assign the ERO’s authority to enforce reliability standards under paragraph (1) directly to a regional entity consistent with the requirements of this paragraph.
@@ -2305,7 +2314,7 @@ Section, Pub. L. 106–377, § 1(a)(2) [title III, § 311], Oct. 27, 2000, 114 S
 
 (6) Any penalty imposed under this section shall bear a reasonable relation to the seriousness of the violation and shall take into consideration the efforts of such user, owner, or operator to remedy the violation in a timely manner.
 
-**(f) Changes in Electric Reliability Organization rules** The Electric Reliability Organization shall file with the Commission for approval any proposed rule or proposed rule change, accompanied by an explanation of its basis and purpose. The Commission, upon its own motion or complaint, may propose a change to the rules of the ERO. A proposed rule or proposed rule change shall take effect upon a finding by the Commission, after notice and opportunity for comment, that the change is just, reasonable, not unduly discriminatory or preferential, is in the public interest, and satisfies the requirements of subsection (c) of this section.
+**(f) Changes in Electric Reliability Organization rules** The Electric Reliability Organization shall file with the Commission for approval any proposed rule or proposed rule change, accompanied by an explanation of its basis and purpose. The Commission, upon its own motion or complaint, may propose a change to the rules of the ERO. A proposed rule or proposed rule change shall take effect upon a finding by the Commission, after notice and opportunity for comment, that the change is just, reasonable, not unduly discriminatory or preferential, is in the public interest, and satisfies the requirements of subsection (c).
 
 **(g) Reliability reports** The ERO shall conduct periodic assessments of the reliability and adequacy of the bulk-power system in North America.
 
@@ -2336,6 +2345,136 @@ Pub. L. 109–58, title XII, § 1211(b), Aug. 8, 2005, 119 Stat. 946, provided t
 Pub. L. 109–58, title XII, § 1211(c), Aug. 8, 2005, 119 Stat. 946, provided that: “Federal agencies responsible for approving access to electric transmission or distribution facilities located on lands within the United States shall, in accordance with applicable law, expedite any Federal agency approvals that are necessary to allow the owners or operators of such facilities to comply with any reliability standard, approved by the [Federal Energy Regulatory] Commission under section 215 of the Federal Power Act [[16 U.S.C. 824](./chapter-012-federal-regulation-and-development-of-power.md#section-824)o], that pertains to vegetation management, electric service restoration, or resolution of situations that imminently endanger the reliability or safety of the facilities.”
 
 
+<a id="section-824o-1"></a>
+## § 824o–1. Critical electric infrastructure security
+**(a) Definitions** For purposes of this section:
+
+(1) **Bulk-power system; Electric Reliability Organization; regional entity** — The terms “bulk-power system”, “Electric Reliability Organization”, and “regional entity” have the meanings given such terms in paragraphs (1), (2), and (7) of section 824o(a) of this title, respectively.
+
+(2) **Critical electric infrastructure** — The term “critical electric infrastructure” means a system or asset of the bulk-power system, whether physical or virtual, the incapacity or destruction of which would negatively affect national security, economic security, public health or safety, or any combination of such matters.
+
+(3) **Critical electric infrastructure information** — The term “critical electric infrastructure information” means information related to critical electric infrastructure, or proposed critical electrical infrastructure, generated by or provided to the Commission or other Federal agency, other than classified national security information, that is designated as critical electric infrastructure information by the Commission or the Secretary pursuant to subsection (d). Such term includes information that qualifies as critical energy infrastructure information under the Commission’s regulations.
+
+(4) **Defense critical electric infrastructure** — The term “defense critical electric infrastructure” means any electric infrastructure located in any of the 48 contiguous States or the District of Columbia that serves a facility designated by the Secretary pursuant to subsection (c), but is not owned or operated by the owner or operator of such facility.
+
+(5) **Electromagnetic pulse** — The term “electromagnetic pulse” means 1 or more pulses of electromagnetic energy emitted by a device capable of disabling or disrupting operation of, or destroying, electronic devices or communications networks, including hardware, software, and data, by means of such a pulse.
+
+(6) **Geomagnetic storm** — The term “geomagnetic storm” means a temporary disturbance of the Earth’s magnetic field resulting from solar activity.
+
+(7) **Grid security emergency** — The term “grid security emergency” means the occurrence or imminent danger of—
+
+  (A)
+
+    (i) a malicious act using electronic communication or an electromagnetic pulse, or a geomagnetic storm event, that could disrupt the operation of those electronic devices or communications networks, including hardware, software, and data, that are essential to the reliability of critical electric infrastructure or of defense critical electric infrastructure; and
+
+    (ii) disruption of the operation of such devices or networks, with significant adverse effects on the reliability of critical electric infrastructure or of defense critical electric infrastructure, as a result of such act or event; or
+
+  (B)
+
+    (i) a direct physical attack on critical electric infrastructure or on defense critical electric infrastructure; and
+
+    (ii) significant adverse effects on the reliability of critical electric infrastructure or of defense critical electric infrastructure as a result of such physical attack.
+
+(8) **Secretary** — The term “Secretary” means the Secretary of Energy.
+
+**(b) Authority to address grid security emergency**
+
+(1) **Authority** — Whenever the President issues and provides to the Secretary a written directive or determination identifying a grid security emergency, the Secretary may, with or without notice, hearing, or report, issue such orders for emergency measures as are necessary in the judgment of the Secretary to protect or restore the reliability of critical electric infrastructure or of defense critical electric infrastructure during such emergency. As soon as practicable but not later than 180 days after December 4, 2015, the Secretary shall, after notice and opportunity for comment, establish rules of procedure that ensure that such authority can be exercised expeditiously.
+
+(2) **Notification of Congress** — Whenever the President issues and provides to the Secretary a written directive or determination under paragraph (1), the President shall promptly notify congressional committees of relevant jurisdiction, including the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, of the contents of, and justification for, such directive or determination.
+
+(3) **Consultation** — Before issuing an order for emergency measures under paragraph (1), the Secretary shall, to the extent practicable in light of the nature of the grid security emergency and the urgency of the need for action, consult with appropriate governmental authorities in Canada and Mexico, entities described in paragraph (4), the Electricity Sub-sector Coordinating Council, the Commission, and other appropriate Federal agencies regarding implementation of such emergency measures.
+
+(4) **Application** — An order for emergency measures under this subsection may apply to—
+
+  (A) the Electric Reliability Organization;
+
+  (B) a regional entity; or
+
+  (C) any owner, user, or operator of critical electric infrastructure or of defense critical electric infrastructure within the United States.
+
+(5) **Expiration and reissuance**
+
+  (A) *In general* — Except as provided in subparagraph (B), an order for emergency measures issued under paragraph (1) shall expire no later than 15 days after its issuance.
+
+  (B) *Extensions* — The Secretary may reissue an order for emergency measures issued under paragraph (1) for subsequent periods, not to exceed 15 days for each such period, provided that the President, for each such period, issues and provides to the Secretary a written directive or determination that the grid security emergency identified under paragraph (1) continues to exist or that the emergency measure continues to be required.
+
+(6) **Cost recovery**
+
+  (A) *Critical electric infrastructure* — If the Commission determines that owners, operators, or users of critical electric infrastructure have incurred substantial costs to comply with an order for emergency measures issued under this subsection and that such costs were prudently incurred and cannot reasonably be recovered through regulated rates or market prices for the electric energy or services sold by such owners, operators, or users, the Commission shall, consistent with the requirements of [section 824d of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-824d), after notice and an opportunity for comment, establish a mechanism that permits such owners, operators, or users to recover such costs.
+
+  (B) *Defense critical electric infrastructure* — To the extent the owner or operator of defense critical electric infrastructure is required to take emergency measures pursuant to an order issued under this subsection, the owners or operators of a critical defense facility or facilities designated by the Secretary pursuant to subsection (c) that rely upon such infrastructure shall bear the full incremental costs of the measures.
+
+(7) **Temporary access to classified information** — The Secretary, and other appropriate Federal agencies, shall, to the extent practicable and consistent with their obligations to protect classified information, provide temporary access to classified information related to a grid security emergency for which emergency measures are issued under paragraph (1) to key personnel of any entity subject to such emergency measures to enable optimum communication between the entity and the Secretary and other appropriate Federal agencies regarding the grid security emergency.
+
+**(c) Designation of critical defense facilities** Not later than 180 days after December 4, 2015, the Secretary, in consultation with other appropriate Federal agencies and appropriate owners, users, or operators of infrastructure that may be defense critical electric infrastructure, shall identify and designate facilities located in the 48 contiguous States and the District of Columbia that are—
+
+(1) critical to the defense of the United States; and
+
+(2) vulnerable to a disruption of the supply of electric energy provided to such facility by an external provider.
+The Secretary may, in consultation with appropriate Federal agencies and appropriate owners, users, or operators of defense critical electric infrastructure, periodically revise the list of designated facilities as necessary.
+
+**(d) Protection and sharing of critical electric infrastructure information**
+
+(1) **Protection of critical electric infrastructure information** — Critical electric infrastructure information—
+
+  (A) shall be exempt from disclosure under [section 552(b)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/3&num=0&edition=prelim); and
+
+  (B) shall not be made available by any Federal, State, political subdivision or tribal authority pursuant to any Federal, State, political subdivision or tribal law requiring public disclosure of information or records.
+
+(2) **Designation and sharing of critical electric infrastructure information** — Not later than one year after December 4, 2015, the Commission, after consultation with the Secretary, shall promulgate such regulations as necessary to—
+
+  (A) establish criteria and procedures to designate information as critical electric infrastructure information;
+
+  (B) prohibit the unauthorized disclosure of critical electric infrastructure information;
+
+  (C) ensure there are appropriate sanctions in place for Commissioners, officers, employees, or agents of the Commission or the Department of Energy who knowingly and willfully disclose critical electric infrastructure information in a manner that is not authorized under this section; and
+
+  (D) taking into account standards of the Electric Reliability Organization, facilitate voluntary sharing of critical electric infrastructure information with, between, and by—
+
+    (i) Federal, State, political subdivision, and tribal authorities;
+
+    (ii) the Electric Reliability Organization;
+
+    (iii) regional entities;
+
+    (iv) information sharing and analysis centers established pursuant to Presidential Decision Directive 63;
+
+    (v) owners, operators, and users of critical electric infrastructure in the United States; and
+
+    (vi) other entities determined appropriate by the Commission.
+
+(3) **Authority to designate** — Information may be designated by the Commission or the Secretary as critical electric infrastructure information pursuant to the criteria and procedures established by the Commission under paragraph (2)(A).
+
+(4) **Considerations** — In exercising their respective authorities under this subsection, the Commission and the Secretary shall take into consideration the role of State commissions in reviewing the prudence and cost of investments, determining the rates and terms of conditions for electric services, and ensuring the safety and reliability of the bulk-power system and distribution facilities within their respective jurisdictions.
+
+(5) **Protocols** — The Commission and the Secretary shall, in consultation with Canadian and Mexican authorities, develop protocols for the voluntary sharing of critical electric infrastructure information with Canadian and Mexican authorities and owners, operators, and users of the bulk-power system outside the United States.
+
+(6) **No required sharing of information** — Nothing in this section shall require a person or entity in possession of critical electric infrastructure information to share such information with Federal, State, political subdivision, or tribal authorities, or any other person or entity.
+
+(7) **Submission of information to Congress** — Nothing in this section shall permit or authorize the withholding of information from Congress, any committee or subcommittee thereof, or the Comptroller General.
+
+(8) **Disclosure of nonprotected information** — In implementing this section, the Commission and the Secretary shall segregate critical electric infrastructure information or information that reasonably could be expected to lead to the disclosure of the critical electric infrastructure information within documents and electronic communications, wherever feasible, to facilitate disclosure of information that is not designated as critical electric infrastructure information.
+
+(9) **Duration of designation** — Information may not be designated as critical electric infrastructure information for longer than 5 years, unless specifically re-designated by the Commission or the Secretary, as appropriate.
+
+(10) **Removal of designation** — The Commission or the Secretary, as appropriate, shall remove the designation of critical electric infrastructure information, in whole or in part, from a document or electronic communication if the Commission or the Secretary, as appropriate, determines that the unauthorized disclosure of such information could no longer be used to impair the security or reliability of the bulk-power system or distribution facilities.
+
+(11) **Judicial review of designations** — Notwithstanding section 825l(b) of this title, with respect to a petition filed by a person to which an order under this section applies, any determination by the Commission or the Secretary concerning the designation of critical electric infrastructure information under this subsection shall be subject to review under chapter 7 of title 5, except that such review shall be brought in the district court of the United States in the district in which the complainant resides, or has his principal place of business, or in the District of Columbia. In such a case the court shall examine in camera the contents of documents or electronic communications that are the subject of the determination under review to determine whether such documents or any part thereof were improperly designated or not designated as critical electric infrastructure information.
+
+**(e) Security clearances** The Secretary shall facilitate and, to the extent practicable, expedite the acquisition of adequate security clearances by key personnel of any entity subject to the requirements of this section, to enable optimum communication with Federal agencies regarding threats to the security of the critical electric infrastructure. The Secretary, the Commission, and other appropriate Federal agencies shall, to the extent practicable and consistent with their obligations to protect classified and critical electric infrastructure information, share timely actionable information regarding grid security with appropriate key personnel of owners, operators, and users of the critical electric infrastructure.
+
+**(f) Clarifications of liability**
+
+(1) **Compliance with or violation of this chapter** — Except as provided in paragraph (4), to the extent any action or omission taken by an entity that is necessary to comply with an order for emergency measures issued under subsection (b)(1), including any action or omission taken to voluntarily comply with such order, results in noncompliance with, or causes such entity not to comply with any rule, order, regulation, or provision of this chapter, including any reliability standard approved by the Commission pursuant to section 824o of this title, such action or omission shall not be considered a violation of such rule, order, regulation, or provision.
+
+(2) **Relation to [section 824a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section824a/c&num=0&edition=prelim)** — Except as provided in paragraph (4), an action or omission taken by an owner, operator, or user of critical electric infrastructure or of defense critical electric infrastructure to comply with an order for emergency measures issued under subsection (b)(1) shall be treated as an action or omission taken to comply with an order issued under [section 824a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section824a/c&num=0&edition=prelim) for purposes of such section.
+
+(3) **Sharing or receipt of information** — No cause of action shall lie or be maintained in any Federal or State court for the sharing or receipt of information under, and that is conducted in accordance with, subsection (d).
+
+(4) **Rule of construction** — Nothing in this subsection shall be construed to require dismissal of a cause of action against an entity that, in the course of complying with an order for emergency measures issued under subsection (b)(1) by taking an action or omission for which they would be liable but for paragraph (1) or (2), takes such action or omission in a grossly negligent manner.
+
+
 <a id="section-824p"></a>
 ## § 824p. Siting of interstate electric transmission facilities
 **(a) Designation of national interest electric transmission corridors**
@@ -2362,7 +2501,7 @@ Pub. L. 109–58, title XII, § 1211(c), Aug. 8, 2005, 119 Stat. 946, provided t
 
   (E) the designation would enhance national defense and homeland security.
 
-**(b) Construction permit** Except as provided in subsection (i) of this section, the Commission may, after notice and an opportunity for hearing, issue one or more permits for the construction or modification of electric transmission facilities in a national interest electric transmission corridor designated by the Secretary under subsection (a) of this section if the Commission finds that—
+**(b) Construction permit** Except as provided in subsection (i), the Commission may, after notice and an opportunity for hearing, issue one or more permits for the construction or modification of electric transmission facilities in a national interest electric transmission corridor designated by the Secretary under subsection (a) if the Commission finds that—
 
 (1)
 
@@ -2392,7 +2531,7 @@ Pub. L. 109–58, title XII, § 1211(c), Aug. 8, 2005, 119 Stat. 946, provided t
 
 **(c) Permit applications**
 
-(1) Permit applications under subsection (b) of this section shall be made in writing to the Commission.
+(1) Permit applications under subsection (b) shall be made in writing to the Commission.
 
 (2) The Commission shall issue rules specifying—
 
@@ -2402,11 +2541,11 @@ Pub. L. 109–58, title XII, § 1211(c), Aug. 8, 2005, 119 Stat. 946, provided t
 
   (C) the manner of service of notice of the permit application on interested persons.
 
-**(d) Comments** In any proceeding before the Commission under subsection (b) of this section, the Commission shall afford each State in which a transmission facility covered by the permit is or will be located, each affected Federal agency and Indian tribe, private property owners, and other interested persons, a reasonable opportunity to present their views and recommendations with respect to the need for and impact of a facility covered by the permit.
+**(d) Comments** In any proceeding before the Commission under subsection (b), the Commission shall afford each State in which a transmission facility covered by the permit is or will be located, each affected Federal agency and Indian tribe, private property owners, and other interested persons, a reasonable opportunity to present their views and recommendations with respect to the need for and impact of a facility covered by the permit.
 
 **(e) Rights-of-way**
 
-(1) In the case of a permit under subsection (b) of this section for electric transmission facilities to be located on property other than property owned by the United States or a State, if the permit holder cannot acquire by contract, or is unable to agree with the owner of the property to the compensation to be paid for, the necessary right-of-way to construct or modify the transmission facilities, the permit holder may acquire the right-of-way by the exercise of the right of eminent domain in the district court of the United States for the district in which the property concerned is located, or in the appropriate court of the State in which the property is located.
+(1) In the case of a permit under subsection (b) for electric transmission facilities to be located on property other than property owned by the United States or a State, if the permit holder cannot acquire by contract, or is unable to agree with the owner of the property to the compensation to be paid for, the necessary right-of-way to construct or modify the transmission facilities, the permit holder may acquire the right-of-way by the exercise of the right of eminent domain in the district court of the United States for the district in which the property concerned is located, or in the appropriate court of the State in which the property is located.
 
 (2) Any right-of-way acquired under paragraph (1) shall be used exclusively for the construction or modification of electric transmission facilities within a reasonable period of time after the acquisition.
 
@@ -2416,7 +2555,7 @@ Pub. L. 109–58, title XII, § 1211(c), Aug. 8, 2005, 119 Stat. 946, provided t
 
 **(f) Compensation**
 
-(1) Any right-of-way acquired pursuant to subsection (e) of this section shall be considered a taking of private property for which just compensation is due.
+(1) Any right-of-way acquired pursuant to subsection (e) shall be considered a taking of private property for which just compensation is due.
 
 (2) Just compensation shall be an amount equal to the fair market value (including applicable severance damages) of the property taken on the date of the exercise of eminent domain authority.
 
@@ -2524,13 +2663,13 @@ Pub. L. 109–58, title XII, § 1211(c), Aug. 8, 2005, 119 Stat. 946, provided t
 
 (3) The regional transmission siting agencies shall have the authority to review, certify, and permit siting of transmission facilities, including facilities in national interest electric transmission corridors (other than facilities on property owned by the United States).
 
-(4) The Commission shall have no authority to issue a permit for the construction or modification of an electric transmission facility within a State that is a party to a compact, unless the members of the compact are in disagreement and the Secretary makes, after notice and an opportunity for a hearing, the finding described in subsection (b)(1)(C) of this section.
+(4) The Commission shall have no authority to issue a permit for the construction or modification of an electric transmission facility within a State that is a party to a compact, unless the members of the compact are in disagreement and the Secretary makes, after notice and an opportunity for a hearing, the finding described in subsection (b)(1)(C).
 
 **(j) Relationship to other laws**
 
 (1) Except as specifically provided, nothing in this section affects any requirement of an environmental law of the United States, including the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.).
 
-(2) Subsection (h)(6) of this section shall not apply to any unit of the National Park System, the National Wildlife Refuge System, the National Wild and Scenic Rivers System, the National Trails System, the National Wilderness Preservation System, or a National Monument.
+(2) Subsection (h)(6) shall not apply to any unit of the National Park System, the National Wildlife Refuge System, the National Wild and Scenic Rivers System, the National Trails System, the National Wilderness Preservation System, or a National Monument.
 
 **(k) ERCOT** This section shall not apply within the area referred to in [section 824k(k)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section824k/k/2/A&num=0&edition=prelim).
 
@@ -2578,9 +2717,9 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (h)(6
 
 (4) The Commission shall exercise the authority of the Commission under this chapter in a manner that facilitates the planning and expansion of transmission facilities to meet the reasonable needs of load-serving entities to satisfy the service obligations of the load-serving entities, and enables load-serving entities to secure firm transmission rights (or equivalent tradable or financial rights) on a long-term basis for long-term power supply arrangements made, or planned, to meet such needs.
 
-**(c) Allocation of transmission rights** Nothing in subsections (b)(1), (b)(2), and (b)(3) of this section shall affect any existing or future methodology employed by a Transmission Organization for allocating or auctioning transmission rights if such Transmission Organization was authorized by the Commission to allocate or auction financial transmission rights on its system as of January 1, 2005, and the Commission determines that any future allocation or auction is just, reasonable and not unduly discriminatory or preferential, provided, however, that if such a Transmission Organization never allocated financial transmission rights on its system that pertained to a period before January 1, 2005, with respect to any application by such Transmission Organization that would change its methodology the Commission shall exercise its authority in a manner consistent with the 11 So in original. Probably should be “this”. chapter and that takes into account the policies expressed in subsections (b)(1), (b)(2), and (b)(3) of this section as applied to firm transmission rights held by a load-serving entity as of January 1, 2005, to the extent the associated generation ownership or power purchase arrangements remain in effect.
+**(c) Allocation of transmission rights** Nothing in subsections (b)(1), (b)(2), and (b)(3) of this section shall affect any existing or future methodology employed by a Transmission Organization for allocating or auctioning transmission rights if such Transmission Organization was authorized by the Commission to allocate or auction financial transmission rights on its system as of January 1, 2005, and the Commission determines that any future allocation or auction is just, reasonable and not unduly discriminatory or preferential, provided, however, that if such a Transmission Organization never allocated financial transmission rights on its system that pertained to a period before January 1, 2005, with respect to any application by such Transmission Organization that would change its methodology the Commission shall exercise its authority in a manner consistent with the 11 So in original. Probably should be “this”. chapter and that takes into account the policies expressed in subsections (b)(1), (b)(2), and (b)(3) as applied to firm transmission rights held by a load-serving entity as of January 1, 2005, to the extent the associated generation ownership or power purchase arrangements remain in effect.
 
-**(d) Certain transmission rights** The Commission may exercise authority under this chapter to make transmission rights not used to meet an obligation covered by subsection (b) of this section available to other entities in a manner determined by the Commission to be just, reasonable, and not unduly discriminatory or preferential.
+**(d) Certain transmission rights** The Commission may exercise authority under this chapter to make transmission rights not used to meet an obligation covered by subsection (b) available to other entities in a manner determined by the Commission to be just, reasonable, and not unduly discriminatory or preferential.
 
 **(e) Obligation to build** Nothing in this chapter relieves a load-serving entity from any obligation under State or local law to build transmission or distribution facilities adequate to meet the service obligations of the load-serving entity.
 
@@ -2594,13 +2733,13 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (h)(6
 
 **(j) TVA area**
 
-(1) Subject to paragraphs (2) and (3), for purposes of subsection (b)(1)(B) of this section, a load-serving entity that is located within the service area of the Tennessee Valley Authority and that has a firm wholesale power supply contract with the Tennessee Valley Authority shall be considered to hold firm transmission rights for the transmission of the power provided.
+(1) Subject to paragraphs (2) and (3), for purposes of subsection (b)(1)(B), a load-serving entity that is located within the service area of the Tennessee Valley Authority and that has a firm wholesale power supply contract with the Tennessee Valley Authority shall be considered to hold firm transmission rights for the transmission of the power provided.
 
 (2) Nothing in this subsection affects the requirements of [section 824k(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section824k/j&num=0&edition=prelim).
 
 (3) The Commission shall not issue an order on the basis of this subsection that is contrary to the purposes of [section 824k(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section824k/j&num=0&edition=prelim).
 
-**(k) Effect of exercising rights** An entity that to the extent required to meet its service obligations exercises rights described in subsection (b) of this section shall not be considered by such action as engaging in undue discrimination or preference under this chapter.
+**(k) Effect of exercising rights** An entity that to the extent required to meet its service obligations exercises rights described in subsection (b) shall not be considered by such action as engaging in undue discrimination or preference under this chapter.
 
 ### Statutory Notes
 
@@ -2622,9 +2761,9 @@ Pub. L. 109–58, title XII, § 1233(b), Aug. 8, 2005, 119 Stat. 960, provided t
 
 **(b) Protection of transmission contracts** Nothing in this chapter confers on the Commission the authority to require an electric utility or person to convert to tradable or financial rights—
 
-(1) firm transmission rights described in subsection (a) of this section; or
+(1) firm transmission rights described in subsection (a); or
 
-(2) firm transmission rights obtained by exercising contract or tariff rights associated with the firm transmission rights described in subsection (a) of this section.
+(2) firm transmission rights obtained by exercising contract or tariff rights associated with the firm transmission rights described in subsection (a).
 
 
 <a id="section-824s"></a>
@@ -2662,13 +2801,13 @@ Pub. L. 109–58, title XII, § 1233(b), Aug. 8, 2005, 119 Stat. 960, provided t
 
   (A) obtain the information described in paragraph (2) from any market participant; and
 
-  (B) rely on entities other than the Commission to receive and make public the information, subject to the disclosure rules in subsection (b) of this section.
+  (B) rely on entities other than the Commission to receive and make public the information, subject to the disclosure rules in subsection (b).
 
 (4) In carrying out this section, the Commission shall consider the degree of price transparency provided by existing price publishers and providers of trade processing services, and shall rely on such publishers and services to the maximum extent possible. The Commission may establish an electronic information system if it determines that existing price publications are not adequately providing price discovery or market transparency. Nothing in this section, however, shall affect any electronic information filing requirements in effect under this chapter as of August 8, 2005.
 
 **(b) Exemption of information from disclosure**
 
-(1) Rules described in subsection (a)(2) of this section, if adopted, shall exempt from disclosure information the Commission determines would, if disclosed, be detrimental to the operation of an effective market or jeopardize system security.
+(1) Rules described in subsection (a)(2), if adopted, shall exempt from disclosure information the Commission determines would, if disclosed, be detrimental to the operation of an effective market or jeopardize system security.
 
 (2) In determining the information to be made available under this section and time to make the information available, the Commission shall seek to ensure that consumers and competitive markets are protected from the adverse effects of potential collusion or other anticompetitive behaviors that can be facilitated by untimely public disclosure of transaction-specific information.
 
@@ -2787,7 +2926,7 @@ All agencies of the United States engaged in the generation and sale of electric
 
   (D) any company, firm, or organization which during any one of the 3 calendar years immediately preceding the filing date was one of the 20 purchasers of electric energy which purchased (for purposes other than for resale) one of the 20 largest annual amounts of electric energy sold by such public utility (or by any public utility which is part of the same holding company system) during any one of such three calendar years;
 
-  (E) any entity referred to in subsection (b) of this section; and
+  (E) any entity referred to in subsection (b); and
 
   (F) any company, firm, or organization which is controlled by any company, firm, or organization referred to in this paragraph.
   On or before January 31 of each calendar year, each public utility shall publish a list, pursuant to rules prescribed by the Commission, of the purchasers to which subparagraph (D) applies, for purposes of any filing under paragraph (1) of such calendar year.
@@ -2913,11 +3052,11 @@ The Commission may provide for the publication of its reports and decisions in s
 
 <a id="section-825l"></a>
 ## § 825l. Review of orders
-**(a) Application for rehearing; time periods; modification of order** Any person, electric utility, State, municipality, or State commission aggrieved by an order issued by the Commission in a proceeding under this chapter to which such person, electric utility, State, municipality, or State commission is a party may apply for a rehearing within thirty days after the issuance of such order. The application for rehearing shall set forth specifically the ground or grounds upon which such application is based. Upon such application the Commission shall have power to grant or deny rehearing or to abrogate or modify its order without further hearing. Unless the Commission acts upon the application for rehearing within thirty days after it is filed, such application may be deemed to have been denied. No proceeding to review any order of the Commission shall be brought by any entity unless such entity shall have made application to the Commission for a rehearing thereon. Until the record in a proceeding shall have been filed in a court of appeals, as provided in subsection (b) of this section, the Commission may at any time, upon reasonable notice and in such manner as it shall deem proper, modify or set aside, in whole or in part, any finding or order made or issued by it under the provisions of this chapter.
+**(a) Application for rehearing; time periods; modification of order** Any person, electric utility, State, municipality, or State commission aggrieved by an order issued by the Commission in a proceeding under this chapter to which such person, electric utility, State, municipality, or State commission is a party may apply for a rehearing within thirty days after the issuance of such order. The application for rehearing shall set forth specifically the ground or grounds upon which such application is based. Upon such application the Commission shall have power to grant or deny rehearing or to abrogate or modify its order without further hearing. Unless the Commission acts upon the application for rehearing within thirty days after it is filed, such application may be deemed to have been denied. No proceeding to review any order of the Commission shall be brought by any entity unless such entity shall have made application to the Commission for a rehearing thereon. Until the record in a proceeding shall have been filed in a court of appeals, as provided in subsection (b), the Commission may at any time, upon reasonable notice and in such manner as it shall deem proper, modify or set aside, in whole or in part, any finding or order made or issued by it under the provisions of this chapter.
 
 **(b) Judicial review** Any party to a proceeding under this chapter aggrieved by an order issued by the Commission in such proceeding may obtain a review of such order in the United States court of appeals for any circuit wherein the licensee or public utility to which the order relates is located or has its principal place of business, or in the United States Court of Appeals for the District of Columbia, by filing in such court, within sixty days after the order of the Commission upon the application for rehearing, a written petition praying that the order of the Commission be modified or set aside in whole or in part. A copy of such petition shall forthwith be transmitted by the clerk of the court to any member of the Commission and thereupon the Commission shall file with the court the record upon which the order complained of was entered, as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim). Upon the filing of such petition such court shall have jurisdiction, which upon the filing of the record with it shall be exclusive, to affirm, modify, or set aside such order in whole or in part. No objection to the order of the Commission shall be considered by the court unless such objection shall have been urged before the Commission in the application for rehearing unless there is reasonable ground for failure so to do. The finding of the Commission as to the facts, if supported by substantial evidence, shall be conclusive. If any party shall apply to the court for leave to adduce additional evidence, and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for failure to adduce such evidence in the proceedings before the Commission, the court may order such additional evidence to be taken before the Commission and to be adduced upon the hearing in such manner and upon such terms and conditions as to the court may seem proper. The Commission may modify its findings as to the facts by reason of the additional evidence so taken, and it shall file with the court such modified or new findings which, if supported by substantial evidence, shall be conclusive, and its recommendation, if any, for the modification or setting aside of the original order. The judgment and decree of the court, affirming, modifying, or setting aside, in whole or in part, any such order of the Commission, shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in [section 1254 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1254&num=0&edition=prelim).
 
-**(c) Stay of Commission’s order** The filing of an application for rehearing under subsection (a) of this section shall not, unless specifically ordered by the Commission, operate as a stay of the Commission’s order. The commencement of proceedings under subsection (b) of this section shall not, unless specifically ordered by the court, operate as a stay of the Commission’s order.
+**(c) Stay of Commission’s order** The filing of an application for rehearing under subsection (a) shall not, unless specifically ordered by the Commission, operate as a stay of the Commission’s order. The commencement of proceedings under subsection (b) of this section shall not, unless specifically ordered by the court, operate as a stay of the Commission’s order.
 
 ### Statutory Notes
 
@@ -2943,7 +3082,7 @@ Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substitut
 
 **(c) Employment of attorneys** The Commission may employ such attorneys as it finds necessary for proper legal aid and service of the Commission or its members in the conduct of their work, or for proper representation of the public interests in investigations made by it or cases or proceedings pending before it, whether at the Commission’s own instance or upon complaint, or to appear for or represent the Commission in any case in court; and the expenses of such employment shall be paid out of the appropriation for the Commission.
 
-**(d) Prohibitions on violators** In any proceedings under subsection (a) of this section, the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as the court determines, any individual who is engaged or has engaged in practices constituting a violation of [section 824u of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-824u) (and related rules and regulations) from—
+**(d) Prohibitions on violators** In any proceedings under subsection (a), the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as the court determines, any individual who is engaged or has engaged in practices constituting a violation of [section 824u of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-824u) (and related rules and regulations) from—
 
 (1) acting as an officer or director of an electric utility; or
 
@@ -3010,14 +3149,14 @@ Nothing in amendment by Pub. L. 102–486 to be construed as affecting or intend
 
 <a id="section-825o-1"></a>
 ## § 825o–1. Enforcement of certain provisions
-**(a) Violations** It shall be unlawful for any person to violate any provision of subchapter II of this chapter or any rule or order issued under any such provision.
+**(a) Violations** It shall be unlawful for any person to violate any provision of subchapter II or any rule or order issued under any such provision.
 
-**(b) Civil penalties** Any person who violates any provision of subchapter II of this chapter or any provision of any rule or order thereunder shall be subject to a civil penalty of not more than $1,000,000 for each day that such violation continues. Such penalty shall be assessed by the Commission, after notice and opportunity for public hearing, in accordance with the same provisions as are applicable under [section 823b(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section823b/d&num=0&edition=prelim) in the case of civil penalties assessed under [section 823b of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-823b). In determining the amount of a proposed penalty, the Commission shall take into consideration the seriousness of the violation and the efforts of such person to remedy the violation in a timely manner.
+**(b) Civil penalties** Any person who violates any provision of subchapter II or any provision of any rule or order thereunder shall be subject to a civil penalty of not more than $1,000,000 for each day that such violation continues. Such penalty shall be assessed by the Commission, after notice and opportunity for public hearing, in accordance with the same provisions as are applicable under [section 823b(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section823b/d&num=0&edition=prelim) in the case of civil penalties assessed under [section 823b of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-823b). In determining the amount of a proposed penalty, the Commission shall take into consideration the seriousness of the violation and the efforts of such person to remedy the violation in a timely manner.
 
 ### Statutory Notes
 
 #### Amendments
-2005—Pub. L. 109–58 substituted “subchapter II of this chapter” for “section 824j, 824k, 824l, or 824m of this title” in subsecs. (a) and (b) and “$1,000,000” for “$10,000” in subsec. (b).
+2005—Pub. L. 109–58 substituted “subchapter II” for “section 824j, 824k, 824l, or 824m of this title” in subsecs. (a) and (b) and “$1,000,000” for “$10,000” in subsec. (b).
 
 #### State Authorities; Construction
 Nothing in this section to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under [section 796 of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-796).

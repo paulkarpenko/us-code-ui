@@ -555,7 +555,7 @@ In subsec. (b), “subtitle IV of title 49” substituted for “the Interstate 
 1995—Subsec. (d). Pub. L. 104–88 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “For purposes of this section, the term ‘motor carrier’ includes a common carrier by motor vehicle, a contract carrier by motor vehicle, and a private carrier of property by motor vehicle as those terms are defined by [section 10102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10102&num=0&edition=prelim).”
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 
 <a id="section-4918"></a>

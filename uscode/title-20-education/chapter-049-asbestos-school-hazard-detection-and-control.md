@@ -145,9 +145,9 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
   (C) repairs made to restore school buildings to conditions comparable to those existing before the containment or removal activities referred to in subparagraph (B) were undertaken; and
 
-(4) designates a State agency or other administrative unit with the responsibility for submitting to the Secretary the reports described in subsection (b) of this section and provides assurances that such agency or unit shall carry out the duties specified under subsection (b) of this section.
+(4) designates a State agency or other administrative unit with the responsibility for submitting to the Secretary the reports described in subsection (b) of this section and provides assurances that such agency or unit shall carry out the duties specified under subsection (b).
 
-**(b) Reporting requirements respecting plan implementation** Not later than six months after the submission of the plan described in subsection (a) of this section, and each six months thereafter during the two-year period beginning on June 14, 1980, the State agency or unit designated under paragraph (4) of subsection (a) of this section shall submit to the Secretary a report which describes the actions taken by the State in accordance with its plan under such subsection.
+**(b) Reporting requirements respecting plan implementation** Not later than six months after the submission of the plan described in subsection (a), and each six months thereafter during the two-year period beginning on June 14, 1980, the State agency or unit designated under paragraph (4) of subsection (a) shall submit to the Secretary a report which describes the actions taken by the State in accordance with its plan under such subsection.
 
 ### Statutory Notes
 
@@ -245,7 +245,7 @@ Such loans shall be subject to such other terms and conditions as the Secretary 
 
     (ii) the asbestos content of the material to be contained or removed by the local educational agency, as determined under preliminary testing which was conducted in accordance with the standards established by the Secretary under [section 3606(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3606/a/1&num=0&edition=prelim), or, in the case of testing conducted before June 14, 1980, was conducted in a manner which substantially conforms to such standards; and
 
-    (iii) the methods which will be used to contain or remove the asbestos materials, in accordance with [section 3606(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3606/b&num=0&edition=prelim), and any other pertinent details relating to the project or projects to be conducted by the applicant (as described in subsection (a)(2) of this section); and
+    (iii) the methods which will be used to contain or remove the asbestos materials, in accordance with [section 3606(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3606/b&num=0&edition=prelim), and any other pertinent details relating to the project or projects to be conducted by the applicant (as described in subsection (a)(2)); and
 
   (B) the application contains assurances that—
 
@@ -257,12 +257,12 @@ Such loans shall be subject to such other terms and conditions as the Secretary 
 
 (2) The Secretary shall provide the Task Force with a copy of any application submitted to the Secretary under paragraph (1).
 
-(3) No loans may be made by the Secretary under this section for projects described in subsection (a)(2) of this section which commenced before the availability of loans under the Loan Program unless the local educational agency submits to the Secretary an application which—
+(3) No loans may be made by the Secretary under this section for projects described in subsection (a)(2) which commenced before the availability of loans under the Loan Program unless the local educational agency submits to the Secretary an application which—
 
   (A) meets the requirements of paragraph (1); and
 
   (B) contains assurances that any work already completed by the applicant has been carried out in substantial conformity with [section 3606(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3606/b&num=0&edition=prelim).
-  No loan may be awarded under this section for any project described in subsection (a)(2) of this section which was completed before January 1, 1976.
+  No loan may be awarded under this section for any project described in subsection (a)(2) which was completed before January 1, 1976.
 
 **(d) Reporting requirements for Secretary** During each of the three calendar years after 1980, the Secretary shall submit before February 1 of such year a report to the appropriate committees of the House of Representatives and the Senate, which shall—
 
@@ -322,7 +322,7 @@ Such loans shall be subject to such other terms and conditions as the Secretary 
 
 **(b) Investigation and report by Attorney General respecting feasibility of recovery of costs from any person determined by Attorney General to be liable** The Attorney General shall conduct an investigation to determine whether, by using all available means, the United States should or could recover, from any person determined by the Attorney General to be liable for such costs, the amounts expended by the United States to carry out this chapter. Within one year after June 14, 1980, the Attorney General shall submit to the Congress a report containing the results of the study, together with any appropriate recommendations.
 
-**(c) Expeditious proceedings by Attorney General** If the Attorney General determines in the report under subsection (b) of this section that the United States should seek to recover the amounts expended by the United States to carry out this chapter, the Attorney General shall proceed in an expeditious manner to recover such amounts from the persons referred to in subsection (b) of this section.
+**(c) Expeditious proceedings by Attorney General** If the Attorney General determines in the report under subsection (b) that the United States should seek to recover the amounts expended by the United States to carry out this chapter, the Attorney General shall proceed in an expeditious manner to recover such amounts from the persons referred to in subsection (b).
 
 
 <a id="section-3608"></a>

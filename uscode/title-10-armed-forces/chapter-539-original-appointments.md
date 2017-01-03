@@ -88,7 +88,7 @@ In subsection (a) the words “and precedence in the line” are omitted as surp
 
 In subsection (b) reference to the Construction Corps is omitted because that corps was abolished by the Act of June 25, 1940, ch. 420, § 1, 54 Stat. 528.
 
-The word “male” is inserted in both subsections to limit their application to men. Authority to appoint women is covered in [§ 5590 of this title](./chapter-539-original-appointments.md#section-5590).
+The word “male” is inserted in both subsections to limit their application to men. Authority to appoint women is covered in § 5590 of this title.
 
 #### Amendments
 1980—Subsec. (a). Pub. L. 96–513 substituted “A regular officer” for “Any male officer on the active list” and “in the line” for “to the active list in the line” and deleted provision assigning an officer so appointed the lineal position he would have held had he originally been appointed in and had he remained in the line and provision that such an officer was to be considered an additional number in each grade in which he served.
@@ -164,7 +164,7 @@ Repeal effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as
 |  | [34 U.S.C. 78](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section78&num=0&edition=prelim) (less (b)). | Aug. 7, 1947, ch. 512, § 403 (less (b)), 61 Stat. 870. |
 |  | [34 U.S.C. 211b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section211b&num=0&edition=prelim) (less (b)). | Aug. 7, 1947, ch. 512, § 401 (less (b)), 61 Stat. 869. |
 
-In subsection (a) the word “annually” and the words “and regularly commission” are omitted as surplusage. The word “male” is inserted in subsection (a) to limit the application of the appointing authority in this subsection to men. Authority to appoint women is covered in [§ 5590 of this title](./chapter-539-original-appointments.md#section-5590).
+In subsection (a) the word “annually” and the words “and regularly commission” are omitted as surplusage. The word “male” is inserted in subsection (a) to limit the application of the appointing authority in this subsection to men. Authority to appoint women is covered in § 5590 of this title.
 
 In subsection (b) the words “on the active list” are inserted in order to exclude reserve and temporary officers, which is the intention of Congress determined from the use of the words “additional numbers in grade” and “percentage of officers on the active list” which apply only to regular officers holding permanent appointments. In the same subsection and in subsections (c) and (d) the provisions of the law that these officers are assigned to a certain duty and then “described and known as officers designated” for that duty have been written simply as providing that these officers may be “designated” for that duty. This is done as there is no apparent reason for any distinction between these officers and those appointed under subsection (a). In subsection (c) the words “specialized duties in the fields of” are omitted as surplusage.
 
@@ -265,7 +265,7 @@ When an officer is so designated or assigned, his status as an officer designate
 
 In subsections (a) and (b) the authority to make appointments under this section is confined to appointments in the grades of ensign and second lieutenant, since the authority in the source statute to make appointments in higher grades was limited and has been completely executed. The words “commissioned warrant officers” are omitted as surplusage, since the term “warrant officers” includes commissioned warrant officers.
 
-The word “male” is inserted to limit the application of the section to men. Authority to appoint women is covered in [§ 5590 of this title](./chapter-539-original-appointments.md#section-5590).
+The word “male” is inserted to limit the application of the section to men. Authority to appoint women is covered in § 5590 of this title.
 
 #### Amendments
 1994—Subsecs. (c) to (g). Pub. L. 103–337 added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.

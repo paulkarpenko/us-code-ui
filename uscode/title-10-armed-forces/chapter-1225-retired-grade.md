@@ -31,7 +31,7 @@ Provisions similar to those in this section were contained in section 1374(b), (
 2009—Pub. L. 111–84 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Effective Date
-Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-12772"></a>
@@ -44,6 +44,9 @@ Unless entitled to a higher grade under another provision of law, a reserve comm
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 1374(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1374/e&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1662(k)(2).
 
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-12773"></a>
 ## § 12773. Limitation on accrual of increased pay or benefits
@@ -54,6 +57,9 @@ Unless otherwise provided by law, no person is entitled to increased pay or othe
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 1374(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1374/d&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1662(k)(2).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-12774"></a>
@@ -69,3 +75,6 @@ Provisions similar to those in this section were contained in sections 1376(a) a
 
 #### Amendments
 2006—Subsec. (b). Pub. L. 109–163 substituted “the Navy Reserve” for “the Naval Reserve”.
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).

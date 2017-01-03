@@ -729,7 +729,7 @@ Amendment by Pub. L. 107–90 applicable to calendar years beginning after Dec. 
 Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set out as a note under [section 62 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-62).
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–296 effective with calendar quarter following Aug. 15, 1994, see section 320(c) of Pub. L. 103–296, set out as a note under [section 871 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-871).

@@ -19,7 +19,7 @@ Pub. L. 107–12, § 1, May 30, 2001, 115 Stat. 20, provided that: “This Act [
 
 <a id="section-15202"></a>
 ## § 15202. Medal of Valor Board
-**(a) Establishment of Board** There is established a Medal of Valor Review Board (hereinafter in this chapter referred to as the “Board”), which shall be composed of 11 members appointed in accordance with subsection (b) of this section and shall conduct its business in accordance with this chapter.
+**(a) Establishment of Board** There is established a Medal of Valor Review Board (hereinafter in this chapter referred to as the “Board”), which shall be composed of 11 members appointed in accordance with subsection (b) and shall conduct its business in accordance with this chapter.
 
 **(b) Membership**
 
@@ -139,7 +139,7 @@ The Board shall consult with the Institute of Heraldry within the Department of 
 
 **(c) Program authorized** From amounts made available to carry out this section, the Attorney General may make grants to States, units of local government, and Indian tribes to carry out programs to honor, through permanent tributes, men and women of the United States who were killed or disabled while serving as law enforcement or public safety officers.
 
-**(d) Uses of funds** Grants awarded under this section shall be distributed directly to the State, unit of local government, or Indian tribe, and shall be used for the purposes specified in subsection (c) of this section.
+**(d) Uses of funds** Grants awarded under this section shall be distributed directly to the State, unit of local government, or Indian tribe, and shall be used for the purposes specified in subsection (c).
 
 **(e) $150,000 limitation** A grant under this section may not exceed $150,000 to any single recipient.
 

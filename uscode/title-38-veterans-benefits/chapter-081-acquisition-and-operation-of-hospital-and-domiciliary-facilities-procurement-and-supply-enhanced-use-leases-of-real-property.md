@@ -4,7 +4,7 @@ chapter: '81'
 heading: >-
   ACQUISITION AND OPERATION OF HOSPITAL AND DOMICILIARY FACILITIES; PROCUREMENT
   AND SUPPLY; ENHANCED-USE LEASES OF REAL PROPERTY
-section_count: 53
+section_count: 54
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -120,9 +120,25 @@ Pub. L. 102–40, § 402(d)(1), amended subsec. (d), as amended by Pub. L. 102�
 
   (B) shall expire on October 1, 1993.
 
+**(e)**
+
+(1) In the case of any super construction project, the Secretary shall enter into an agreement with an appropriate non-Department Federal entity to provide full project management services for the super construction project, including management over the project design, acquisition, construction, and contract changes.
+
+(2) An agreement entered into under paragraph (1) with a Federal entity shall provide that the Secretary shall reimburse the Federal entity for all costs associated with the provision of project management services under the agreement.
+
+(3) In this subsection, the term “super construction project” means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $100,000,000.
+
+**(f)** To the maximum extent practicable, the Secretary shall use industry standards, standard designs, and best practices in carrying out the construction of medical facilities.
+
+**(g)** The Secretary shall ensure that each employee of the Department with responsibilities, as determined by the Secretary, relating to the infrastructure construction or alteration of medical facilities, including such construction or alteration carried out pursuant to contracts or agreements, undergoes a program of ongoing professional training and development. Such program shall be designed to ensure that employees maintain adequate expertise relating to industry standards and best practices for the acquisition of design and construction services. The Secretary may provide the program under this subsection directly or through a contract or agreement with a non-Federal entity or with a non-Department Federal entity.
+
 ### Statutory Notes
 
 #### Amendments
+2016—Subsecs. (f), (g). Pub. L. 114–315 added subsecs. (f) and (g).
+
+2015—Subsec. (e). Pub. L. 114–58 added subsec. (e).
+
 1994—Subsec. (d)(6)(A). Pub. L. 103–446 substituted “section 316” for “section 230(c)”.
 
 1991—Pub. L. 102–40, § 402(b)(1), renumbered [section 5003 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5003&num=0&edition=prelim) as this section.
@@ -134,6 +150,15 @@ Pub. L. 102–40, § 402(d)(1), substituted “8104” for “5004” in introdu
 Subsecs. (b), (c). Pub. L. 102–83 substituted “Secretary” for “Administrator” wherever appearing.
 
 1989—Subsec. (d). Pub. L. 101–237 added subsec. (d).
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–58, title V, § 502(b), Sept. 30, 2015, 129 Stat. 538, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to the following: “(1) The medical facility construction project in Denver, Colorado, specified in section 2 of the Construction Authorization and Choice Improvement Act (Public Law 114–19; 129 Stat. 215). “(2) Any super construction project (as defined in [section 8103(e)(3) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8103/e/3&num=0&edition=prelim), United States Code, as added by subsection (a)) that is authorized on or after the date of the enactment of this Act [Sept. 30, 2015].”
+
+#### Communities Helping Invest Through Property and Improvements Needed for Veterans
+Pub. L. 114–294, Dec. 16, 2016, 130 Stat. 1504, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Communities Helping Invest through Property and Improvements Needed for Veterans Act of 2016’ or the ‘CHIP IN for Vets Act of 2016’. “SEC. 2. PILOT PROGRAM ON ACCEPTANCE BY THE DEPARTMENT OF VETERANS AFFAIRS OF DONATED FACILITIES AND RELATED IMPROVEMENTS.“(a) Pilot Program Authorized.—“(1) In general.—Notwithstanding sections 8103 and 8104 of title 38, United States Code, the Secretary of Veterans Affairs may carry out a pilot program under which the Secretary may accept donations of the following property from entities described in paragraph (2):“(A) Real property (including structures and equipment associated therewith)—“(i) that includes a constructed facility; or “(ii) to be used as the site of a facility constructed by the entity. “(B) A facility to be constructed by the entity on real property of the Department of Veterans Affairs. “(2) Entities described.—Entities described in this paragraph are the following:“(A) A State or local authority. “(B) An organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 [[26 U.S.C. 501(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim)] and is exempt from taxation under section 501(a) of such Code [[26 U.S.C. 501(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim)]. “(C) A limited liability corporation. “(D) A private entity. “(E) A donor or donor group. “(F) Any other non-Federal Government entity. “(3) Limitation.—The Secretary may accept not more than five donations of real property and facility improvements under the pilot program and as described in this section. “(b) Conditions for Acceptance of Property.—The Secretary may accept the donation of a property described in subsection (a)(1) under the pilot program only if—“(1) the property is—“(A) a property with respect to which funds have been appropriated for a Department facility project; or “(B) a property identified as—“(i) meeting a need of the Department as part of the long-range capital planning process of the Department; and “(ii) the location for a Department facility project that is included on the Strategic Capital Investment Planning process priority list in the most recent budget submitted to Congress by the President pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code; and “(2) an entity described in subsection (a)(2) has entered into or is willing to enter into a formal agreement with the Secretary in accordance with subsection (c) under which the entity agrees to independently donate the real property, improvements, goods, or services, for the Department facility project in an amount acceptable to the Secretary and at no additional cost to the Federal Government. “(c) Requirement To Enter Into an Agreement.—“(1) In general.—The Secretary may accept real property and improvements donated under the pilot program by an entity described in subsection (a)(2) only if the entity enters into a formal agreement with the Secretary that provides for—“(A) the donation of real property and improvements (including structures and equipment associated therewith) that includes a constructed facility; or “(B) the construction by the entity of a facility on—“(i) real property and improvements of the Department of Veterans Affairs; or “(ii) real property and improvements donated to the Department by the entity. “(2) Content of formal agreements.—With respect to an entity described in subsection (a)(2) that seeks to enter into a formal agreement under paragraph (1) of this subsection that includes the construction by the entity of a facility, the formal agreement shall provide for the following:“(A) The entity shall conduct all necessary environmental and historic preservation due diligence, shall comply with all local zoning requirements (except for studies and consultations required of the Department under Federal law), and shall obtain all permits required in connection with the construction of the facility. “(B) The entity shall use construction standards required of the Department when designing, repairing, altering, or building the facility, except to the extent the Secretary determines otherwise, as permitted by applicable law. “(C) The entity shall provide the real property, improvements, goods, or services in a manner described in subsection (b)(2) sufficient to complete the construction of the facility, at no additional cost to the Federal Government. “(d) No Payment of Rent or Usage Fees.—The Secretary may not pay rent, usage fees, or any other amounts to an entity described in subsection (a)(2) or any other entity for the use or occupancy of real property or improvements donated under this section. “(e) Funding.—“(1) From department.—“(A) In general.—The Secretary may not provide funds to help the entity finance, design, or construct a facility in connection with real property and improvements donated under the pilot program by an entity described in subsection (a)(2) that are in addition to the funds appropriated for the facility as of the date on which the Secretary and the entity enter into a formal agreement under subsection (c) for the donation of the real property and improvements. “(B) Terms and conditions.—The Secretary shall provide funds pursuant to subparagraph (A) under such terms, conditions, and schedule as the Secretary determines appropriate. “(2) From entity.—An entity described in subsection (a)(2) that is donating a facility constructed by the entity under the pilot program shall be required, pursuant to a formal agreement entered into under subsection (c), to provide other funds in addition to the amounts provided by the Department under paragraph (1) that are needed to complete construction of the facility. “(f) Application.—An entity described in subsection (a)(2) that seeks to donate real property and improvements under the pilot program shall submit to the Secretary an application to address needs relating to facilities of the Department, including health care needs, identified in the Construction and Long-Range Capital Plan of the Department, at such time, in such manner, and containing such information as the Secretary may require. “(g) Information on Donations and Related Projects.—“(1) In general.—The Secretary shall include in the budget submitted to Congress by the President pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, information regarding real property and improvements donated under the pilot program during the year preceding the submittal of the budget and the status of facility projects relating to that property. “(2) Elements.—Information submitted under paragraph (1) shall provide a detailed status of donations of real property and improvements conducted under the pilot program and facility projects relating to that property, including the percentage completion of the donations and projects. “(h) Biennial Report of Comptroller General of the United States.—Not less frequently than once every 2 years until the termination date set forth in subsection (i), the Comptroller General of the United States shall submit to Congress a report on the donation agreements entered into under the pilot program. “(i) Termination.—The authority for the Secretary to accept donations under the pilot program shall terminate on the date that is 5 years after the date of the enactment of this Act [Dec. 16, 2016]. “(j) Rule of Construction.—Nothing in this section shall be construed as a limitation on the authority of the Secretary to enter into other arrangements or agreements that are authorized by law and not inconsistent with this section.”
+
+#### Designation of Construction Agent for Certain Construction Projects by Department of Veterans Affairs
+Pub. L. 114–92, div. A, title X, § 1096, Nov. 25, 2015, 129 Stat. 1020, provided that: “(a) In General.—The Secretary of Veterans Affairs shall seek to enter into an agreement subject to subsections (b), (c), and (e) of [section 1535 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim), United States Code, with the Army Corps of Engineers or another entity of the Federal Government to serve, on a reimbursable basis, as the construction agent for the construction, alteration, or acquisition of any medical facility of the Department of Veterans Affairs specifically authorized by Congress after the date of the enactment of this Act [Nov. 25, 2015] that involves a total expenditure of more than $100,000,000, excluding any acquisition by exchange. “(b) Agreement.—Under the agreement entered into under subsection (a), the construction agent shall provide design, procurement, and construction management services for the construction, alteration, and acquisition of medical facilities of the Department.”
 
 #### Development of Medical-Facility Modular Components
 Pub. L. 99–166, title III, § 304, Dec. 3, 1985, 99 Stat. 956, directed Administrator of Veterans’ Affairs, not later than one year after Dec. 3, 1985, to develop a modular approach to planning and design of an appropriate Veterans’ Administration medical facility for furnishing of hospital care.
@@ -191,7 +216,15 @@ Pub. L. 99–166, title III, § 304, Dec. 3, 1985, 99 Stat. 956, directed Admini
 
   (C) an analysis of the methodology used in determining the asset cost, fair market value, and cancellation costs of the lease.
 
-**(c)** Not less than 30 days before obligating funds for a major medical facility project approved by a law described in subsection (a)(2) of this section in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10 percent, the Secretary shall provide the committees with notice of the Secretary’s intention to do so and the reasons for the specified amount being exceeded.
+**(c)**
+
+(1) Not less than 30 days before obligating funds for a major medical facility project approved by a law described in subsection (a)(2) of this section in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10 percent, the Secretary shall provide the committees with notice of the Secretary’s intention to do so and the reasons for the specified amount being exceeded.
+
+(2) The Secretary shall—
+
+  (A) enter into a contract or agreement with an appropriate non-department Federal entity with the ability to conduct forensic audits on medical facility projects for the conduct of an external forensic audit of the expenditures relating to any major medical facility or super construction project for which the total expenditures exceed the amount requested in the initial budget request for the project submitted to Congress under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) by more than 25 percent; and
+
+  (B) enter into a contract or agreement with an appropriate non-department Federal entity with the ability to conduct forensic audits on medical facility projects for the conduct of an external audit of the medical center construction project in Aurora, Colorado.
 
 **(d)**
 
@@ -205,9 +238,17 @@ Pub. L. 99–166, title III, § 304, Dec. 3, 1985, 99 Stat. 956, directed Admini
 
     (i) The major construction project that is the source of the bid savings.
 
-    (ii) The other major construction project for which the amounts are being obligated.
+    (ii) If the major construction project that is the source of the bid savings is not complete—
 
-    (iii) The amounts being obligated for such other major construction project.
+      (I) the amount already obligated by the Department or available in the project reserve for such project;
+
+      (II) the percentage of such project that has been completed; and
+
+      (III) the amount available to the Department to complete such project.
+
+    (iii) The other major construction project for which the bid savings amounts are being obligated.
+
+    (iv) The bid savings amounts being obligated for such other major construction project.
 
   (C) The Secretary may not obligate an amount under subparagraph (A) to expand the purpose of a major construction project except pursuant to a provision of law enacted after the date on which the Secretary submits to the committees described in subparagraph (B) notice of the following:
 
@@ -248,6 +289,10 @@ Pub. L. 99–166, title III, § 304, Dec. 3, 1985, 99 Stat. 956, directed Admini
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (c). Pub. L. 114–315, § 801(b), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (d)(2)(B)(ii) to (iv). Pub. L. 114–315, § 801(c), added cl. (ii), redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively, and in cls. (iii) and (iv) substituted “bid savings amounts” for “amounts”.
+
 2014—Subsec. (b)(7). Pub. L. 113–146, § 602(c)(1), added par. (7).
 
 Subsec. (h). Pub. L. 113–146, § 602(c)(2), added subsec. (h).
@@ -743,7 +788,7 @@ Pub. L. 97–306, title IV, § 409(a), Oct. 14, 1982, 96 Stat. 1446, provided th
 
 (2) To facilitate the incentive program, there is established in the Treasury a fund to be known as the “DOD–VA Health Care Sharing Incentive Fund”. Each Secretary shall annually contribute to the fund a minimum of $15,000,000 from the funds appropriated to that Secretary’s Department. Such funds shall remain available until expended and shall be available for any purpose authorized by this section.
 
-(3) The program under this subsection shall terminate on September 30, 2015.
+(3) The program under this subsection shall terminate on September 30, 2020.
 
 **(e) Guidelines and Policies for Implementation of Coordination and Sharing Recommendations, Contracts, and Agreements.—**
 
@@ -838,6 +883,10 @@ The Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred 
 Provisions similar to those comprising this section were contained in former [section 5003 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5003&num=0&edition=prelim) prior to the general revision of this subchapter by Pub. L. 96–22.
 
 #### Amendments
+2015—Subsec. (d)(3). Pub. L. 114–92, which directed substitution of “September 30, 2020” for “September 30, 2015”, was executed by making the substitution for “September 30, 2016” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 114–58. See below.
+
+Pub. L. 114–58 substituted “September 30, 2016” for “September 30, 2015”.
+
 2009—Subsec. (d)(3). Pub. L. 111–84 substituted “September 30, 2015” for “September 30, 2010”.
 
 2006—Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under [section 101 of this title](./chapter-001-general.md#section-101).
@@ -1350,6 +1399,17 @@ Pub. L. 108–422, title IV, § 411(d), Nov. 30, 2004, 118 Stat. 2389, provided 
 
 #### Deadline for First Annual Report
 Pub. L. 110–387, title VII, § 708(b), Oct. 10, 2008, 122 Stat. 4140, provided that: “The Secretary of Veterans Affairs shall submit the first report required under [section 8119(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8119/a&num=0&edition=prelim), United States Code, as added by subsection (a), by not later than 90 days after the date of the enactment of this Act [Oct. 10, 2008].”
+
+
+<a id="section-8120"></a>
+## § 8120. Quarterly report on super construction projects
+**(a) Quarterly Reports Required.—** Not later than 30 days after the last day of each fiscal quarter the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the super construction projects carried out by the appropriate non-Department Federal entity described in [section 8103(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8103/e/1&num=0&edition=prelim) during such quarter. Each such report shall include, for each such project—
+
+(1) the budgetary and scheduling status of the project, as of the last day of the quarter covered by the report; and
+
+(2) the actual cost and schedule variances of the project, as of such day, compared to the planned cost and schedules for the project.
+
+**(b) Super Construction Project Defined.—** In this section, the term “super construction project” has the meaning given such term in [section 8103(e)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8103/e/3&num=0&edition=prelim).
 
 
 <a id="section-8121"></a>
@@ -1865,6 +1925,22 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (6) If the Secretary determines that the public dissemination of certain types of information maintained in the database is inappropriate, the Secretary shall take such steps as are necessary to maintain such types of information in a secure and confidential manner.
 
+(8)
+
+  (A) 11 See Amendment of Section notes below. If a small business concern is not included in the database because the Secretary does not verify the status of the concern as a small business concern or the ownership or control of the concern, the concern may appeal the denial of verification to the Office of Hearings and Appeals of the Small Business Administration (as established under section 5(i) of the Small Business Act). The decision of the Office of Hearings and Appeals shall be considered a final agency action.
+
+  (B)
+
+    (i) If an interested party challenges the inclusion in the database of a small business concern owned and controlled by veterans or a small business concern owned and controlled by veterans with service-connected disabilities based on the status of the concern as a small business concern or the ownership or control of the concern, the challenge shall be heard by the Office of Hearings and Appeals of the Small Business Administration as described in subparagraph (A). The decision of the Office of Hearings and Appeals shall be considered final agency action.
+
+    (ii) In this subparagraph, the term “interested party” means—
+
+      (I) the Secretary; or
+
+      (II) in the case of a small business concern that is awarded a contract, the contracting officer of the Department or another small business concern that submitted an offer for the contract that was awarded to the small business concern that is the subject of a challenge made under clause (i).
+
+  (C) For each fiscal year, the Secretary shall reimburse the Administrator of the Small Business Administration in an amount necessary to cover any cost incurred by the Office of Hearings and Appeals of the Small Business Administration for actions taken by the Office under this paragraph. The Administrator is authorized to accept such reimbursement. The amount of any such reimbursement shall be determined jointly by the Secretary and the Administrator and shall be provided from fees collected by the Secretary under multiple-award schedule contracts. Any disagreement about the amount shall be resolved by the Director of the Office of Management and Budget.
+
 **(g) Enforcement Penalties for Misrepresentation.—**
 
 (1) Any business concern that is determined by the Secretary to have willfully and intentionally misrepresented the status of that concern as a small business concern owned and controlled by veterans or as a small business concern owned and controlled by service-disabled veterans for purposes of this subsection shall be debarred from contracting with the Department for a period of not less than five years.
@@ -1933,10 +2009,86 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 114–328, div. A, title XVIII, § 1832(b), (d), (e), Dec. 23, 2016, 130 Stat. 2659, 2660, provided that, effective on the date on which the Administrator of the Small Business Administration and the Secretary of Veterans Affairs jointly issue implementing regulations, this section is amended–
+
+(1) in subsection (b), by inserting “or a small business concern owned and controlled by veterans with service-connected disabilities” after “a small business concern owned and controlled by veterans”;
+
+(2) in subsection (c), by inserting “or a small business concern owned and controlled by veterans with service-connected disabilities” after “a small business concern owned and controlled by veterans” in introductory provisions;
+
+(3) in subsection (d), by inserting “or small business concerns owned and controlled by veterans with service-connected disabilities” after “small business concerns owned and controlled by veterans” both places it appears;
+
+(4) in subsection (f):
+
+(A) by inserting “, small business concerns owned and controlled by veterans with service-connected disabilities,” after “small business concerns owned and controlled by veterans” in paragraph (1);
+
+(B) by striking “verified” and inserting “verified, using regulations issued by the Administrator of the Small Business Administration with respect to the status of the concern as a small business concern and the ownership and control of such concern,” in the introductory provisions of paragraph (4); and
+
+(C) by adding at the end the following new paragraph:
+
+“(7) The Secretary may not issue regulations related to the status of a concern as a small business concern and the ownership and control of such small business concern.”;
+
+(5) by striking subsection (h) and redesignating subsections (i) through (l) as subsections (h) through (k), respectively;
+
+(6) in subsection (k), as so redesignated, by amending paragraph (2) to read as follows:
+
+“(2) The term ‘small business concern owned and controlled by veterans’ has the meaning given that term under section 3(q)(3) of the Small Business Act ([15 U.S.C. 632(q)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/q/3&num=0&edition=prelim)).”; and
+
+(7) in subsection (k), as so redesignated, by adding at the end the following new paragraph:
+
+“(3) The term ‘small business concern owned and controlled by veterans with service-connected disabilities’ has the meaning given the term ‘small business concern owned and controlled by service-disabled veterans’ under section 3(q)(2) of the Small Business Act ([15 U.S.C. 632(q)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/q/2&num=0&edition=prelim)).”
+
+See 2016 Amendment notes below.
+
+#### Amendment of Subsection (h)
+Pub. L. 114–315, title V, § 501, Dec. 16, 2016, 130 Stat. 1566, provided that, effective on the date that is 180 days after Dec. 16, 2016 and applicable with respect to contracts awarded on or after Dec. 16, 2016, subsection (h) of this section is amended—
+
+(1) in paragraph (2), by amending subparagraph (C) to read as follows:
+
+“(C) The date that—
+
+“(i) in the case of a surviving spouse of a veteran with a service-connected disability rated as 100 percent disabling or who dies as a result of a service-connected disability, is 10 years after the date of the veteran’s death; or
+
+“(ii) in the case of a surviving spouse of a veteran with a service-connected disability rated as less than 100 percent disabling who does not die as a result of a service-connected disability, is 3 years after the date of the veteran’s death.”
+
+(2) in paragraph (3), by striking “rated as” and all that follows through “disability.” and inserting a period.
+
+See 2016 Amendment notes below.
+
 #### References in Text
-The Small Business Act, referred to in subsec. (j)(2), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) and Tables.
+The Small Business Act, referred to in subsecs. (f)(8)(A) and (j)(2), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2016—Subsec. (b). Pub. L. 114–328, § 1832(b)(2)(A), inserted “or a small business concern owned and controlled by veterans with service-connected disabilities” after “a small business concern owned and controlled by veterans”.
+
+Subsec. (c). Pub. L. 114–328, § 1832(b)(2)(B), inserted “or a small business concern owned and controlled by veterans with service-connected disabilities” after “a small business concern owned and controlled by veterans” in introductory provisions.
+
+Subsec. (d). Pub. L. 114–328, § 1832(b)(2)(C), inserted “or small business concerns owned and controlled by veterans with service-connected disabilities” after “small business concerns owned and controlled by veterans” in two places.
+
+Subsec. (f)(1). Pub. L. 114–328, § 1832(b)(2)(D), inserted “, small business concerns owned and controlled by veterans with service-connected disabilities,” after “small business concerns owned and controlled by veterans”.
+
+Subsec. (f)(4). Pub. L. 114–328, § 1832(d)(1), substituted “verified, using regulations issued by the Administrator of the Small Business Administration with respect to the status of the concern as a small business concern and the ownership and control of such concern,” for “verified” in introductory provisions.
+
+Subsec. (f)(7). Pub. L. 114–328, § 1832(d)(2), added par. (7).
+
+Subsec. (f)(8). Pub. L. 114–328, § 1832(f)(1), added par. (8).
+
+Subsec. (h). Pub. L. 114–328, § 1832(b)(1)(A), redesignated subsec. (i) as (h) and struck out former subsec. (h) which related to treatment of businesses after death of veteran-owner.
+
+Subsec. (h)(2)(C). Pub. L. 114–315, § 501(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “The date that is ten years after the date of the veteran’s death.”
+
+Subsec. (h)(3). Pub. L. 114–315, § 501(a)(1), substituted period for “rated as 100 percent disabling or who dies as a result of a service-connected disability.”
+
+Subsecs. (i), (j). Pub. L. 114–328, § 1832(b)(1)(A), redesignated subsecs. (j) and (k) as (i) and (j), respectively. Former subsec. (i) redesignated (h).
+
+Subsecs. (k), (l). Pub. L. 114–328, § 1832(b)(1), redesignated subsec. (l) as (k), added par. (3), and amended par. (2) generally. Former subsec. (k) redesignated (j). Prior to amendment, par. (2) read as follows: “The term ‘small business concern owned and controlled by veterans’ means a small business concern—
+
+“(A)(i) not less than 51 percent of which is owned by one or more veterans or, in the case of a publicly owned business, not less than 51 percent of the stock of which is owned by one or more veterans; and
+
+“(ii) the management and daily business operations of which are controlled by one or more veterans; or
+
+“(B) not less than 51 percent of which is owned by one or more veterans with service-connected disabilities that are permanent and total who are unable to manage the daily business operations of such concern or, in the case of a publicly owned business, not less than 51 percent of the stock of which is owned by one or more such veterans.”
+
 2012—Subsec. (g). Pub. L. 112–154 designated existing provisions as par. (1), inserted “willfully and intentionally” before “misrepresented”, substituted “a period of not less than five years” for “a reasonable period of time, as determined by the Secretary”, and added pars. (2) and (3).
 
 2011—Subsecs. (b), (c)(2). Pub. L. 111–350 substituted “[section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim)” for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403&num=0&edition=prelim))”.
@@ -1950,6 +2102,13 @@ Subsec. (f)(4). Pub. L. 111–275, § 104(b)(1)(B), added par. (4) and struck ou
 “(B) In the case of a veteran who indicates a service-connected disability, verification of the service-disabled status of such veteran.”
 
 2008—Subsecs. (j) to (l). Pub. L. 110–389 added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (l), respectively.
+
+#### Effective Date of 2016 Amendment
+Amendment by section 1832(b), (d) of Pub. L. 114–328 effective on the date on which the Administrator of the Small Business Administration and the Secretary of Veterans Affairs jointly issue implementing regulations, see section 1832(e) of Pub. L. 114–328, set out as a note under [section 632 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim), Commerce and Trade.
+
+Pub. L. 114–328, div. A, title XVIII, § 1832(f)(2), Dec. 23, 2016, 130 Stat. 2661, provided that: “Paragraph (8) of subsection (f) of title 38, United States Code, as added by paragraph (1), shall apply with respect to a verification decision made by the Secretary of Veterans Affairs on or after the date of the enactment of this Act [Dec. 23, 2016].”
+
+Pub. L. 114–315, title V, § 501(b), Dec. 16, 2016, 130 Stat. 1566, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Dec. 16, 2016] and shall apply with respect to contracts awarded on or after such date.”
 
 #### Effective Date
 Pub. L. 109–461, title V, § 502(d), Dec. 22, 2006, 120 Stat. 3435, provided that: “This section [enacting this section and provisions set out as a note below] and the amendments made by this section shall take effect on the date that is 180 days after the date of the enactment of this Act [Dec. 22, 2006].”
@@ -2863,9 +3022,15 @@ For the purposes of this subchapter:
 
   (G) Other modalities of housing.
 
+(4) The term “lessee” means the party with whom the Secretary has entered into an enhanced-use lease under this subchapter.
+
+(5) The term “major enhanced-use lease” means an enhanced-use lease that includes consideration consisting of an average annual rent of more than $10,000,000.
+
 ### Statutory Notes
 
 #### Amendments
+2016—Pars. (4), (5). Pub. L. 114–226 added pars. (4) and (5).
+
 2012—Par. (3). Pub. L. 112–154 added par. (3).
 
 #### Effective Date of 2012 Amendment
@@ -2887,7 +3052,7 @@ Pub. L. 104–110, title II, § 202(c), Feb. 13, 1996, 110 Stat. 771, provided t
 
 (1) The Secretary may in accordance with this subchapter enter into leases with respect to real property that is under the jurisdiction or control of the Secretary. Any such lease under this subchapter may be referred to as an “enhanced-use lease”. The Secretary may dispose of any such property that is leased to another party under this subchapter in accordance with [section 8164 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8164). The Secretary may exercise the authority provided by this subchapter notwithstanding [section 8122 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8122), subchapter II of chapter 5 of title 40, sections 541–555 and 1302 of title 40, or any other provision of law (other than Federal laws relating to environmental and historic preservation) inconsistent with this section. The applicability of this subchapter to section 421(b) of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553) is covered by subsection (c).
 
-(2) The Secretary may enter into an enhanced-use lease only for the provision of supportive housing and the 11 So in original. Probably should be preceded by “only if”. lease is not inconsistent with and will not adversely affect the mission of the Department.
+(2) The Secretary may enter into an enhanced-use lease only for the provision of supportive housing and if the lease is not inconsistent with and will not adversely affect the mission of the Department.
 
 (3) The provisions of sections 3141–3144, 3146, and 3147 of title 40 shall not, by reason of this section, become inapplicable to property that is leased to another party under an enhanced-use lease.
 
@@ -2907,13 +3072,21 @@ Pub. L. 104–110, title II, § 202(c), Feb. 13, 1996, 110 Stat. 771, provided t
 
   (C) The Secretary may enter into an enhanced-use lease without receiving consideration.
 
+  (D) The Secretary may not waive or postpone the obligation of a lessee to pay any consideration under an enhanced-use lease, including monthly rent.
+
 (4) The terms of an enhanced-use lease may provide for the Secretary to use minor construction funds for capital contribution payments.
 
 (5) The terms of an enhanced-use lease may not provide for any acquisition, contract, demonstration, exchange, grant, incentive, procurement, sale, other transaction authority, service agreement, use agreement, lease, or lease-back by the Secretary or Federal Government.
 
 (6) The Secretary may not enter into an enhanced-use lease without certification in advance in writing by the Director of the Office of Management and Budget that such lease complies with the requirements of this subchapter.
 
-**(c)** The entering into an enhanced-use lease covering any land or improvement described in section 421(b)(2) of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553) or section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008 shall be considered to be prohibited by such sections unless specifically authorized by law.
+**(c)** The entering into an enhanced-use lease covering any land or improvement described in section 421(b)(2) of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553) or section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008, other than an enhanced-use lease under the Los Angeles Homeless Veterans Leasing Act of 2016, shall be considered to be prohibited by such sections unless specifically authorized by law.
+
+**(d)**
+
+(1) Nothing in this subchapter authorizes the Secretary to enter into an enhanced-use lease that provides for, is contingent upon, or otherwise authorizes the Federal Government to guarantee a loan made by a third party to a lessee for purposes of the enhanced-use lease.
+
+(2) Nothing in this subchapter shall be construed to abrogate or constitute a waiver of the sovereign immunity of the United States with respect to any loan, financing, or other financial agreement entered into by the lessee and a third party relating to an enhanced-use lease.
 
 ### Statutory Notes
 
@@ -2922,7 +3095,17 @@ Section 421(b) of the Veterans’ Benefits and Services Act of 1988, referred to
 
 Section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008, referred to in subsec. (c), is section 224(a) of title II of div. I of Pub. L. 110–161, Dec. 26, 2007, 121 Stat. 2272, which is not classified to the Code.
 
+No act with the title “Los Angeles Homeless Veterans Leasing Act of 2016”, referred to in subsec. (c), has been enacted. However, a bill, H.R. 3484, entitled “Los Angeles Homeless Veterans Leasing Act of 2016”, was introduced in the House of Representatives on Sept. 10, 2015, during the 114th Congress. That bill contained provisions similar to section 2 of Pub. L. 114–226, Sept. 29, 2106, 130 Stat. 926, known as the “West Los Angeles Leasing Act of 2016”. Section 2(m)(2) of Pub. L. 114–226 amended this section; the remainder of section 2 of Pub. L. 114–226 is not classified to the Code.
+
 #### Amendments
+2016—Subsec. (b)(3)(D). Pub. L. 114–226, § 3(a), added subpar. (D).
+
+Subsec. (c). Pub. L. 114–226, § 2(m)(2), inserted “, other than an enhanced-use lease under the Los Angeles Homeless Veterans Leasing Act of 2016,” before “shall be considered”.
+
+Subsec. (d). Pub. L. 114–226, § 3(b), added subsec. (d).
+
+2015—Subsec. (a)(2). Pub. L. 114–58 inserted “if” after “housing and”.
+
 2012—Subsec. (a)(2). Pub. L. 112–154, § 211(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may enter into an enhanced-use lease only if—
 
 “(A) the Secretary determines that—
@@ -3030,7 +3213,7 @@ Pub. L. 107–95, § 10(c), Dec. 21, 2001, 115 Stat. 920, provided that: “The 
 
 **(c)**
 
-(1) If after a hearing under subsection (a) the Secretary intends to enter into an enhanced-use lease of the property involved, the Secretary shall notify the congressional veterans’ affairs committees of the Secretary’s intention to enter into such lease and shall publish a notice of such intention in the Federal Register.
+(1) If after a hearing under subsection (a) the Secretary intends to enter into an enhanced-use lease of the property involved, the Secretary shall notify the congressional veterans’ affairs committees, the Committees on Appropriations of the House of Representatives and the Senate, and the Committees on the Budget of the House of Representatives and the Senate of the Secretary’s intention to enter into such lease, shall publish a notice of such intention in the Federal Register, and shall submit to the congressional veterans’ affairs committees a copy of the proposed lease. With respect to a major enhanced-use lease, upon the request of the congressional veterans’ affairs committees, not later than 30 days after the date of such notice, the Secretary shall testify before the committees on the major enhanced-use lease, including with respect to the status of the lease, the cost, and the plans to carry out the activities under the lease. The Secretary may not delegate such testifying below the level of the head of the Office of Asset Enterprise Management of the Department or any successor to such office.
 
 (2) The Secretary may not enter into an enhanced use lease until the end of the 45-day period beginning on the date of the submission of notice under paragraph (1).
 
@@ -3065,6 +3248,8 @@ Pub. L. 107–95, § 10(c), Dec. 21, 2001, 115 Stat. 920, provided that: “The 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (c)(1). Pub. L. 114–226 inserted “, the Committees on Appropriations of the House of Representatives and the Senate, and the Committees on the Budget of the House of Representatives and the Senate” after “notify the congressional veterans’ affairs committees”, substituted “, shall publish” for “and shall publish”, inserted “, and shall submit to the congressional veterans’ affairs committees a copy of the proposed lease” after “in the Federal Register”, and inserted at end “With respect to a major enhanced-use lease, upon the request of the congressional veterans’ affairs committees, not later than 30 days after the date of such notice, the Secretary shall testify before the committees on the major enhanced-use lease, including with respect to the status of the lease, the cost, and the plans to carry out the activities under the lease. The Secretary may not delegate such testifying below the level of the head of the Office of Asset Enterprise Management of the Department or any successor to such office.”
+
 2003—Pub. L. 108–170, § 202(d)(1), substituted “Hearing and notice requirements regarding proposed leases” for “Designation of property to be leased” in section catchline.
 
 Subsec. (a). Pub. L. 108–170, § 202(a)(1), in first sentence, substituted “enter into an enhanced-use lease with respect to certain property” for “designate a property to be leased under an enhanced-use lease” and “before entering into the lease” for “before making the designation”.
@@ -3207,20 +3392,53 @@ The construction, alteration, repair, remodeling, or improvement of a property t
 
 <a id="section-8168"></a>
 ## § 8168. Annual reports
-**(a) Report on Administration of Leases.—** Not later than 120 days after the date of the enactment of the Honoring America’s Veterans and Caring for Camp Lejeune Families Act of 2012 and not less frequently than once each year thereafter, the Secretary shall submit to Congress a report identifying the actions taken by the Secretary to implement and administer enhanced-use leases.
+**(a) Report on Administration of Leases.—**
 
-**(b) Report on Lease Consideration.—** Each year, as part of the annual budget submission of the President to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Secretary shall submit to Congress a detailed report of the consideration received by the Secretary for each enhanced-use lease under this subchapter, along with an overview of how the Secretary is utilizing such consideration to support veterans.
+(1) Not later than 120 days after the date of the enactment of the Honoring America’s Veterans and Caring for Camp Lejeune Families Act of 2012 and not less frequently than once each year thereafter, the Secretary shall submit to the congressional veterans’ affairs committees, the Committees on Appropriations of the House of Representatives and the Senate, and the Committees on the Budget of the House of Representatives and the Senate a report on enhanced-use leases.
+
+(2) Each report under paragraph (1) shall include the following:
+
+  (A) Identification of the actions taken by the Secretary to implement and administer enhanced-use leases.
+
+  (B) For the most recent fiscal year covered by the report, the amounts deposited into the Medical Care Collection Fund account that were derived from enhanced-use leases.
+
+  (C) Identification of the actions taken by the Secretary using the amounts described in subparagraph (B).
+
+  (D) Documents of the Department supporting the contents of the report described in subparagraphs (A) through (C).
+
+**(b) Report on Lease Consideration.—**
+
+(1) Each year, as part of the annual budget submission of the President to the congressional veterans’ affairs committees, the Committees on Appropriations of the House of Representatives and the Senate, and the Committees on the Budget of the House of Representatives and the Senate under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Secretary shall submit to the congressional veterans’ affairs committees, the Committees on Appropriations of the House of Representatives and the Senate, and the Committees on the Budget of the House of Representatives and the Senate a detailed report of the consideration received by the Secretary for each enhanced-use lease under this subchapter.
+
+(2) Each report under paragraph (1) shall include the following with respect to each enhanced-use lease covered by the report:
+
+  (A) An overview of how the Secretary is using consideration received by the Secretary under the lease to support veterans.
+
+  (B) The amount of consideration received by the Secretary under the lease.
+
+  (C) The amount of any revenues collected by the Secretary relating to the lease not covered by subparagraph (B), including a description of any in-kind assistance or services provided by the lessee to the Secretary or to veterans under an agreement entered into by the Secretary pursuant to any provision of law.
+
+  (D) The costs to the Secretary of carrying out the lease.
+
+  (E) Documents of the Department supporting the contents of the report described in subparagraphs (A) through (D).
 
 ### Statutory Notes
 
 #### References in Text
-The date of the enactment of the Honoring America’s Veterans and Caring for Camp Lejeune Families Act of 2012, referred to in subsec. (a), is the date of enactment of Pub. L. 112–154, which was approved Aug. 6, 2012.
+The date of the enactment of the Honoring America’s Veterans and Caring for Camp Lejeune Families Act of 2012, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 112–154, which was approved Aug. 6, 2012.
 
 #### Prior Provisions
 A prior section 8168, added Pub. L. 102–86, title IV, § 401(a), Aug. 14, 1991, 105 Stat. 421, limited number of enhanced-use leases that could be entered into under this subchapter, prior to repeal by Pub. L. 105–114, title II, § 205(b)(1), Nov. 21, 1997, 111 Stat. 2288.
 
+#### Amendments
+2016—Pub. L. 114–226, § 3(c)(2)(A), substituted “to the congressional veterans’ affairs committees, the Committees on Appropriations of the House of Representatives and the Senate, and the Committees on the Budget of the House of Representatives and the Senate” for “to Congress” wherever appearing.
+
+Subsec. (a). Pub. L. 114–226, § 3(c)(2)(B), designated existing provisions as par. (1), substituted “a report on enhanced-use leases.” for “a report identifying the actions taken by the Secretary to implement and administer enhanced-use leases.”, and added par. (2).
+
+Subsec. (b). Pub. L. 114–226, § 3(c)(2)(C), designated existing provisions as par. (1), substituted “this subchapter.” for “this subchapter, along with an overview of how the Secretary is utilizing such consideration to support veterans.”, and added par. (2).
+
 #### Elements of Initial Report
-Pub. L. 112—154, title II, § 211(i)(2), Aug. 6, 2012, 126 Stat. 1182, provided that: “The first report submitted by the Secretary under [section 8168(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8168/a&num=0&edition=prelim), United States Code, as added by paragraph (1), shall include a summary of those measures the Secretary is taking to address the following recommendations from the February 9, 2012, audit report of the Department of Veterans Affairs Office of Inspector General on enhanced-use leases under subchapter V of chapter 81 of title 38, United States Code: “(A) Improve standards to ensure complete lease agreements are negotiated in line with strategic goals of the Department of Veterans Affairs. “(B) Institute improved policies and procedures to govern activities such as monitoring enhanced-use lease projects and calculating, classifying, and reporting on enhanced-use lease benefits and expenses. “(C) Recalculate and update enhanced-use lease expenses and benefits reported in the most recent Enhanced-Use Lease Consideration Report of the Department. “(D) Establish improved oversight mechanisms to ensure major enhanced-use lease project decisions are documented and maintained in accordance with policy. “(E) Establish improved criteria to measure timeliness and performance in enhanced-use lease project development and execution. “(F) Establish improved criteria and guidelines for assessing projects to determine whether they are or remain viable candidates for enhanced-use leases.”
+Pub. L. 112—154, title II, § 211(i)(2), Aug. 6, 2012, 126 Stat. 1182, provided that: “The first report submitted by the Secretary under [section 8168(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8168/a&num=0&edition=prelim), United States Code, as added by paragraph (1) [and prior to amendment by Pub. L. 114–226], shall include a summary of those measures the Secretary is taking to address the following recommendations from the February 9, 2012, audit report of the Department of Veterans Affairs Office of Inspector General on enhanced-use leases under subchapter V of chapter 81 of title 38, United States Code: “(A) Improve standards to ensure complete lease agreements are negotiated in line with strategic goals of the Department of Veterans Affairs. “(B) Institute improved policies and procedures to govern activities such as monitoring enhanced-use lease projects and calculating, classifying, and reporting on enhanced-use lease benefits and expenses. “(C) Recalculate and update enhanced-use lease expenses and benefits reported in the most recent Enhanced-Use Lease Consideration Report of the Department. “(D) Establish improved oversight mechanisms to ensure major enhanced-use lease project decisions are documented and maintained in accordance with policy. “(E) Establish improved criteria to measure timeliness and performance in enhanced-use lease project development and execution. “(F) Establish improved criteria and guidelines for assessing projects to determine whether they are or remain viable candidates for enhanced-use leases.”
 
 
 <a id="section-8169"></a>

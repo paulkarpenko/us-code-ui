@@ -370,7 +370,7 @@ As used in this subsection, the term “product” includes an approved product.
 
 **(d)**
 
-(1) To obtain an extension of the term of a patent under this section, the owner of record of the patent or its agent shall submit an application to the Director. Except as provided in paragraph (5), such an application may only be submitted within the sixty-day period beginning on the date the product received permission under the provision of law under which the applicable regulatory review period occurred for commercial marketing or use. The application shall contain—
+(1) To obtain an extension of the term of a patent under this section, the owner of record of the patent or its agent shall submit an application to the Director. Except as provided in paragraph (5), such an application may only be submitted within the sixty-day period beginning on the date the product received permission under the provision of law under which the applicable regulatory review period occurred for commercial marketing or use, or in the case of a drug product described in subsection (i), within the sixty-day period beginning on the covered date (as defined in subsection (i)). The application shall contain—
 
   (A) the identity of the approved product and the Federal statute under which regulatory review occurred;
 
@@ -544,26 +544,56 @@ As used in this subsection, the term “product” includes an approved product.
 
 **(h)** The Director may establish such fees as the Director determines appropriate to cover the costs to the Office of receiving and acting upon applications under this section.
 
+**(i)**
+
+(1) For purposes of this section, if the Secretary of Health and Human Services provides notice to the sponsor of an application or request for approval, conditional approval, or indexing of a drug product for which the Secretary intends to recommend controls under the Controlled Substances Act, beginning on the covered date, the drug product shall be considered to—
+
+  (A) have been approved or indexed under the relevant provision of the Public Health Service Act or Federal Food, Drug, and Cosmetic Act; and
+
+  (B) have permission for commercial marketing or use.
+
+(2) In this subsection, the term “covered date” means the later of—
+
+  (A) the date an application is approved—
+
+    (i) under section 351(a)(2)(C) of the Public Health Service Act; or
+
+    (ii) under section 505(b) or 512(c) of the Federal Food, Drug, and Cosmetic Act;
+
+  (B) the date an application is conditionally approved under section 571(b) of the Federal Food, Drug, and Cosmetic Act;
+
+  (C) the date a request for indexing is granted under section 572(d) of the Federal Food, Drug, and Cosmetic Act; or
+
+  (D) the date of issuance of the interim final rule controlling the drug under section 201(j) of the Controlled Substances Act.
+
 ### Statutory Notes
 
 #### References in Text
 The Virus-Serum-Toxin Act, referred to in subsecs. (d)(2)(A)(i), (B)(i), (f)(2)(B), (4)(C), and (g)(5)(B), (6)(C), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 828, as amended, which is classified generally to chapter 5 (§ 151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 151 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section151&num=0&edition=prelim) and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(2)(A)(ii), (B)(ii), (f), and (g)(2)(B), (3)(B)(ii), (6)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(2)(A)(ii), (B)(ii), (f), (g)(2)(B), (3)(B)(ii), (6)(C), and (i)(1)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
-The Public Health Service Act, referred to in subsecs. (d)(2)(B)(i) and (f)(2)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+The Public Health Service Act, referred to in subsecs. (d)(2)(B)(i), (f)(2)(A), and (i)(1)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
-Sections 503, 505, 512, and 515 of the Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (f)(4)(B) and (g)(1)(B), (3)(B), are classified, respectively, to sections 353, 355, 360b, and 360e of Title 21, Food and Drugs. Section 507 of the Act, referred to in subsec. (g)(1)(B), was classified to [section 357 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section357&num=0&edition=prelim), prior to repeal by Pub. L. 105–115, title I, § 125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
+Sections 503, 505, 512, 515, 571, and 572 of the Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (f)(4)(B), (g)(1)(B), (3)(B), and (i)(2)(A)(ii), (B), (C), are classified, respectively, to sections 353, 355, 360b, 360e, 360ccc, and 360ccc–1 of Title 21, Food and Drugs. Section 507 of the Act, referred to in subsec. (g)(1)(B), was classified to [section 357 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section357&num=0&edition=prelim), prior to repeal by Pub. L. 105–115, title I, § 125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
 
 Section 201 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(5), which is classified to [section 321 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321&num=0&edition=prelim), was subsequently amended, and section 201(y) no longer defines the term “informal hearing”. However, such term is defined elsewhere in that section.
 
-Section 351 of the Public Health Service Act, referred to in subsecs. (f)(4)(A) and (g)(1)(B)(i), (ii), is classified to [section 262 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), The Public Health and Welfare.
+Section 351 of the Public Health Service Act, referred to in subsecs. (f)(4)(A), (g)(1)(B)(i), (ii), and (i)(2)(A)(i), is classified to [section 262 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), The Public Health and Welfare.
 
 The date of enactment of the Generic Animal Drug and Patent Term Restoration Act, referred to in subsec. (f)(8), is the date of enactment of Pub. L. 100–670, which was approved Nov. 16, 1988.
 
 The date of the enactment of this section, referred to in subsec. (g)(6), is the date of the enactment of Pub. L. 98–417, which was approved Sept. 24, 1984.
 
+The Controlled Substances Act, referred to in subsec. (i)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+
+Section 201 of the Controlled Substances Act, referred to in subsec. (i)(2)(D), is classified to [section 811 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section811&num=0&edition=prelim), Food and Drugs.
+
 #### Amendments
+2015—Subsec. (d)(1). Pub. L. 114–89, § 2(c)(1), in introductory provisions, inserted “, or in the case of a drug product described in subsection (i), within the sixty-day period beginning on the covered date (as defined in subsection (i))” after “marketing or use”.
+
+Subsec. (i). Pub. L. 114–89, § 2(c)(2), added subsec. (i).
+
 2011—Subsec. (d)(1). Pub. L. 112–29 inserted concluding provisions.
 
 2002—Subsec. (b)(3)(B). Pub. L. 107–273, § 13206(a)(9)(A), substituted “paragraph” for “paragraphs”.

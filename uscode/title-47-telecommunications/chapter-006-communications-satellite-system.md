@@ -254,7 +254,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 (3) **Clarification: competitive safeguards** — In making its licensing decisions under this subsection, the Commission shall consider whether users of non-core services provided by INTELSAT or Inmarsat or successor or separated entities are able to obtain non-core services from providers offering services other than through INTELSAT or Inmarsat or successor or separated entities, at competitive rates, terms, or conditions. Such consideration shall also include whether such licensing decisions would require users to replace equipment at substantial costs prior to the termination of its design life. In making its licensing decisions, the Commission shall also consider whether competitive alternatives in individual markets do not exist because they have been foreclosed due to anticompetitive actions undertaken by or resulting from the INTELSAT or Inmarsat systems. Such licensing decisions shall be made in a manner which facilitates achieving the purposes and goals in this subchapter and shall be subject to notice and comment.
 
-**(c) Additional considerations in determinations** In making its determinations and licensing decisions under subsections (a) and (b) of this section, the Commission shall construe such subsections in a manner consistent with the United States obligations and commitments for satellite services under the Fourth Protocol to the General Agreement on Trade in Services.
+**(c) Additional considerations in determinations** In making its determinations and licensing decisions under subsections (a) and (b), the Commission shall construe such subsections in a manner consistent with the United States obligations and commitments for satellite services under the Fourth Protocol to the General Agreement on Trade in Services.
 
 **(d) Independent facilities competition** Nothing in this section shall be construed as precluding COMSAT from investing in or owning satellites or other facilities independent from INTELSAT and Inmarsat, and successor or separated entities, or from providing services through reselling capacity over the facilities of satellite systems independent from INTELSAT and Inmarsat, and successor or separated entities. This subsection shall not be construed as restricting the types of contracts which can be executed or services which may be provided by COMSAT over the independent satellites or facilities described in this subsection.
 
@@ -279,7 +279,7 @@ Pub. L. 106–180, § 2, Mar. 17, 2000, 114 Stat. 48, provided that: “It is th
 <a id="section-763"></a>
 ## § 763. General criteria to ensure a pro-competitive privatization of INTELSAT and Inmarsat
 
-The President and the Commission shall secure a pro-competitive privatization of INTELSAT and Inmarsat that meets the criteria set forth in this section and sections 763a through 763c 11 See References in Text note below. of this title. In securing such privatizations, the following criteria shall be applied as licensing criteria for purposes of part A of this subchapter:
+The President and the Commission shall secure a pro-competitive privatization of INTELSAT and Inmarsat that meets the criteria set forth in this section and sections 763a through 763c 11 See References in Text note below. of this title. In securing such privatizations, the following criteria shall be applied as licensing criteria for purposes of part A:
 
 (1) **Dates for privatization** — Privatization shall be obtained in accordance with the criteria of this subchapter of—
 
@@ -385,7 +385,7 @@ Title III of Pub. L. 106–396, Oct. 30, 2000, 114 Stat. 1645, provided for main
 <a id="section-763a"></a>
 ## § 763a. Specific criteria for INTELSAT
 
-In securing the privatizations required by [section 763 of this title](./chapter-006-communications-satellite-system.md#section-763), the following additional criteria with respect to INTELSAT privatization shall be applied as licensing criteria for purposes of part A of this subchapter:
+In securing the privatizations required by [section 763 of this title](./chapter-006-communications-satellite-system.md#section-763), the following additional criteria with respect to INTELSAT privatization shall be applied as licensing criteria for purposes of part A:
 
 (1) **11 So in original. No par. (2) has been enacted. Technical coordination under intelsat agreements.—** — Technical coordination shall not be used to impair competition or competitors, and shall be conducted under International Telecommunication Union procedures and not under Article XIV(d) of the INTELSAT Agreement.
 
@@ -426,7 +426,7 @@ The United States shall preserve the space segment capacity of the GMDSS. This s
 (1) any higher settlement rate that an overseas carrier charges any United States carrier to originate or terminate international message telephone services; and
 
 (2) any transition period that would otherwise apply,
-the Commission may by rule prohibit United States carriers from paying an amount in excess of a cost-based settlement rate to overseas carriers in countries listed by the Commission pursuant to subsection (a) of this section.
+the Commission may by rule prohibit United States carriers from paying an amount in excess of a cost-based settlement rate to overseas carriers in countries listed by the Commission pursuant to subsection (a).
 
 **(c) Settlements policy** The Commission shall, in exercising its authority to establish settlements rates for United States international common carriers, seek to advance United States policy in favor of cost-based settlements in all relevant fora on international telecommunications policy, including in meetings with parties and signatories of INTELSAT and Inmarsat.
 
@@ -518,7 +518,7 @@ The effective date of the Commission order relating to INTELSAT privatization, r
 ## § 765e. Reports to Congress
 **(a) Annual reports** The President and the Commission shall report to the Committees on Commerce and International Relations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Foreign Relations of the Senate within 90 calendar days of March 17, 2000, and not less than annually thereafter, on the progress made to achieve the objectives and carry out the purposes and provisions of this subchapter. Such reports shall be made available immediately to the public.
 
-**(b) Contents of reports** The reports submitted pursuant to subsection (a) of this section shall include the following:
+**(b) Contents of reports** The reports submitted pursuant to subsection (a) shall include the following:
 
 (1) Progress with respect to each objective since the most recent preceding report.
 
@@ -567,7 +567,7 @@ Notwithstanding any other provision of law, the Commission shall not have the au
 <a id="section-767"></a>
 ## § 767. Methods to pursue privatization
 
-The President shall secure the pro-competitive privatizations required by this subchapter in a manner that meets the criteria in part B of this subchapter.
+The President shall secure the pro-competitive privatizations required by this subchapter in a manner that meets the criteria in part B.
 
 
 <a id="section-769"></a>
@@ -636,7 +636,7 @@ The President shall secure the pro-competitive privatizations required by this s
 
 (21) **National security agency** — The term “national security agency” means the National Security Agency, the Director of Central Intelligence and the Central Intelligence Agency, the Department of Defense, and the Coast Guard.
 
-**(b) Common terminology** Except as otherwise provided in subsection (a) of this section, terms used in this subchapter that are defined in [section 153 of this title](./chapter-005-wire-or-radio-communication.md#section-153) have the meanings provided in such section.
+**(b) Common terminology** Except as otherwise provided in subsection (a), terms used in this subchapter that are defined in [section 153 of this title](./chapter-005-wire-or-radio-communication.md#section-153) have the meanings provided in such section.
 
 ### Statutory Notes
 

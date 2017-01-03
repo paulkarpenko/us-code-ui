@@ -43,7 +43,7 @@ shall be fined not more than $1,000 or imprisoned for not more than one year, or
 ## § 4402. Authorization of appropriations
 **(a) Subchapter I**
 
-(1) There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out the provisions of subchapter I of this chapter.
+(1) There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out the provisions of subchapter I.
 
 (2) Funds appropriated under the authority of paragraph (1) shall remain available without fiscal year limitation.
 
@@ -146,7 +146,7 @@ The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92�
 ## § 4413. Establishment of Institute
 **(a) In general** There is hereby established a corporation to be known as the “Institute of American Indian and Alaska Native Culture and Arts Development”, which shall be under the direction and control of a Board of Trustees established under [section 4412 of this title](./chapter-056-american-indian-alaska-native-and-native-hawaiian-culture-and-art-development.md#section-4412).
 
-**(b) Succession and amendment of charter** The corporation established under subsection (a) of this section shall have succession until dissolved by Act of Congress. Only the Congress shall have the authority to revise or amend the charter of such corporation.
+**(b) Succession and amendment of charter** The corporation established under subsection (a) shall have succession until dissolved by Act of Congress. Only the Congress shall have the authority to revise or amend the charter of such corporation.
 
 ### Statutory Notes
 
@@ -163,7 +163,7 @@ Pub. L. 99–500, § 101(h) [title I, § 100], Oct. 18, 1986, 100 Stat. 1783–2
 
 (1) The Board of Trustees of the Institute shall be composed of 13 voting members and 6 nonvoting members as follows:
 
-  (A) Subject to the provisions of subsection (i) of this section, the voting members shall be appointed by the President of the United States, not later than 180 days after October 17, 1986, from among individuals from private life who are Indians, or other individuals, widely recognized in the field of Indian art and culture and who represent diverse political views, and diverse fields of expertise, including finance, law, fine arts, and higher education administration.
+  (A) Subject to the provisions of subsection (i), the voting members shall be appointed by the President of the United States, not later than 180 days after October 17, 1986, from among individuals from private life who are Indians, or other individuals, widely recognized in the field of Indian art and culture and who represent diverse political views, and diverse fields of expertise, including finance, law, fine arts, and higher education administration.
 
   (B) The nonvoting members shall consist of—
 
@@ -197,7 +197,7 @@ Pub. L. 99–500, § 101(h) [title I, § 100], Oct. 18, 1986, 100 Stat. 1783–2
 
 (2) The terms of office on the Board for the Members of the House of Representatives and of the Senate shall expire at the end of the congressional term of office during which such Member or Senator was appointed to the Board.
 
-(3) Of the members of the Board first appointed under subsection (a)(1)(A) of this section—
+(3) Of the members of the Board first appointed under subsection (a)(1)(A)—
 
   (A) 4 shall be appointed for terms of office of 2 years;
 
@@ -206,15 +206,15 @@ Pub. L. 99–500, § 101(h) [title I, § 100], Oct. 18, 1986, 100 Stat. 1783–2
   (C) 5 shall be appointed for terms of office of 6 years,
   as determined by the drawing of lots during the first meeting of the Board.
 
-(4) No member of the Board appointed under subsection (a)(1)(A) of this section shall be eligible to serve in excess of 2 consecutive terms, but may continue to serve until such member’s successor is appointed.
+(4) No member of the Board appointed under subsection (a)(1)(A) shall be eligible to serve in excess of 2 consecutive terms, but may continue to serve until such member’s successor is appointed.
 
-**(c) Vacancies** Any member of the Board appointed under subsection (a) of this section to fill a vacancy occurring before the expiration of the term to which such member’s predecessor was appointed shall be appointed for the remainder of such term. If the vacancy occurs prior to the expiration of the term of a member of the Board appointed under subsection (a)(1)(B) of this section, a replacement shall be appointed in the same manner in which the original appointment was made.
+**(c) Vacancies** Any member of the Board appointed under subsection (a) to fill a vacancy occurring before the expiration of the term to which such member’s predecessor was appointed shall be appointed for the remainder of such term. If the vacancy occurs prior to the expiration of the term of a member of the Board appointed under subsection (a)(1)(B), a replacement shall be appointed in the same manner in which the original appointment was made.
 
 **(d) Removal** No member of the Board may be removed during the term of office of such member except for just and sufficient cause.
 
-**(e) Chairman and Vice Chairman** The President of the United States shall designate the initial Chairman and Vice Chairman of the Board from among the members of the Board appointed pursuant to subsection (a)(1)(A) of this section. Such Chairman and Vice Chairman so designated shall serve for 12 calendar months. Thereafter, the Chairman and Vice Chairman shall be elected from among the members of the Board appointed pursuant to subsection (a)(1)(A) of this section and shall serve for terms of 2 years. In the case of a vacancy in the office of Chairman or Vice Chairman, such vacancy shall be filled by the members of the Board appointed pursuant to subsection (a)(1)(A) of this section, and the member filling such vacancy shall serve for the remainder of the unexpired term.
+**(e) Chairman and Vice Chairman** The President of the United States shall designate the initial Chairman and Vice Chairman of the Board from among the members of the Board appointed pursuant to subsection (a)(1)(A). Such Chairman and Vice Chairman so designated shall serve for 12 calendar months. Thereafter, the Chairman and Vice Chairman shall be elected from among the members of the Board appointed pursuant to subsection (a)(1)(A) and shall serve for terms of 2 years. In the case of a vacancy in the office of Chairman or Vice Chairman, such vacancy shall be filled by the members of the Board appointed pursuant to subsection (a)(1)(A), and the member filling such vacancy shall serve for the remainder of the unexpired term.
 
-**(f) Quorum** Unless otherwise provided by the bylaws of the Institute, a majority of the members appointed under subsection (a)(1)(A) of this section shall constitute a quorum.
+**(f) Quorum** Unless otherwise provided by the bylaws of the Institute, a majority of the members appointed under subsection (a)(1)(A) shall constitute a quorum.
 
 **(g) Powers** The Board is authorized—
 
@@ -224,7 +224,7 @@ Pub. L. 99–500, § 101(h) [title I, § 100], Oct. 18, 1986, 100 Stat. 1783–2
 
 (3) to make such bylaws and rules as it deems necessary for the administration of its functions under this chapter, including the organization and procedures of the Board.
 
-**(h) Compensation** Members of the Board appointed pursuant to subsection (a)(1)(A) of this section shall, for each day they are engaged in the performance of the duties under this chapter, receive compensation at the rate of $125 per day, including traveltime. All members of the Board, while so serving away from their homes or regular places of business, shall be allowed travel expenses (including per diem in lieu of subsistence), as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim) for persons in Government service employed intermittently.
+**(h) Compensation** Members of the Board appointed pursuant to subsection (a)(1)(A) shall, for each day they are engaged in the performance of the duties under this chapter, receive compensation at the rate of $125 per day, including traveltime. All members of the Board, while so serving away from their homes or regular places of business, shall be allowed travel expenses (including per diem in lieu of subsistence), as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim) for persons in Government service employed intermittently.
 
 **(i) Appointment exception for continuity**
 
@@ -232,14 +232,14 @@ Pub. L. 99–500, § 101(h) [title I, § 100], Oct. 18, 1986, 100 Stat. 1783–2
 
 (2) If the President has not transmitted to the Senate a nomination to fill the position of a member covered by such a recommendation within 60 days from the date that the member’s term expires, the member shall be deemed to have been reappointed for another full term to the Board, with all the appropriate rights and responsibilities.
 
-(3) This subsection shall not be construed to permit less than 7 members of the Board to be Indians. If an extension of a term under paragraph (2) would result in less than 7 members being Indians, the term of the member covered by paragraph (2) shall be deemed to expire 60 days after the date upon which it would have been deemed to expire without the operation of this subsection, except that the provisions of subsection (b)(4) of this section, relating to continuation of service pending replacement, shall continue to apply.
+(3) This subsection shall not be construed to permit less than 7 members of the Board to be Indians. If an extension of a term under paragraph (2) would result in less than 7 members being Indians, the term of the member covered by paragraph (2) shall be deemed to expire 60 days after the date upon which it would have been deemed to expire without the operation of this subsection, except that the provisions of subsection (b)(4), relating to continuation of service pending replacement, shall continue to apply.
 
 ### Statutory Notes
 
 #### Amendments
 2012—Subsec. (a)(1)(A). Pub. L. 112–166 struck out “by and with the advice and consent of the Senate” after “United States”.
 
-1992—Subsec. (a)(1)(A). Pub. L. 102–325, § 1331(a)(1), substituted “Subject to the provisions of subsection (i) of this section, the voting” for “The voting” and inserted before period at end “, and diverse fields of expertise, including finance, law, fine arts, and higher education administration”.
+1992—Subsec. (a)(1)(A). Pub. L. 102–325, § 1331(a)(1), substituted “Subject to the provisions of subsection (i), the voting” for “The voting” and inserted before period at end “, and diverse fields of expertise, including finance, law, fine arts, and higher education administration”.
 
 Subsec. (a)(3), (4). Pub. L. 102–325, § 1331(a)(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
@@ -322,12 +322,12 @@ George Bush.
 
 **(b) Accounting for non-Federal funds** Any funds received by, or under the control of, the Institute that are not Federal funds shall be accounted for separately from Federal funds.
 
-**(c) Interest and investments** Interest and earnings on amounts received by the Institute pursuant to [section 4451 of this title](./chapter-056-american-indian-alaska-native-and-native-hawaiian-culture-and-art-development.md#section-4451) invested under subsection (a)(12) 22 See References in Text note below. of this section shall be the property of the Institute and shall be expended to carry out this chapter. The Board shall be held to a reasonable and prudent standard of care, given such information and circumstances as existed when the decision is made, in decisions involving investment of funds under subsection (a)(12) 2 of this section.
+**(c) Interest and investments** Interest and earnings on amounts received by the Institute pursuant to [section 4451 of this title](./chapter-056-american-indian-alaska-native-and-native-hawaiian-culture-and-art-development.md#section-4451) invested under subsection (a)(12) 22 See References in Text note below. shall be the property of the Institute and shall be expended to carry out this chapter. The Board shall be held to a reasonable and prudent standard of care, given such information and circumstances as existed when the decision is made, in decisions involving investment of funds under subsection (a)(12).2
 
 ### Statutory Notes
 
 #### References in Text
-Subsection (a)(12) of this section, referred to in subsec. (c), was redesignated subsec. (a)(13) of this section, repealed, and a new subsec. (a)(13) added by Pub. L. 102–325, title XIII, § 1331(b)(1)(A), (C), July 23, 1992, 106 Stat. 806, and former subsec. (a)(11) of this section was redesignated subsec. (a)(12).
+Subsection (a)(12), referred to in subsec. (c), was redesignated subsec. (a)(13) of this section, repealed, and a new subsec. (a)(13) added by Pub. L. 102–325, title XIII, § 1331(b)(1)(A), (C), July 23, 1992, 106 Stat. 806, and former subsec. (a)(11) of this section was redesignated subsec. (a)(12).
 
 #### Amendments
 1993—Subsec. (a)(12). Pub. L. 103–208 substituted semicolon for period at end.
@@ -414,18 +414,18 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 (1) Any individual who—
 
-  (A) elects under subsection (g) of this section to be covered under the provisions of this section, or
+  (A) elects under subsection (g) to be covered under the provisions of this section, or
 
   (B) is an employee of the Federal Government and is transferred or reappointed, without a break in service, from a position under a different leave system to the Institute,
-  shall be credited for purposes of the leave system provided under rules and regulations promulgated pursuant to subsection (b) of this section, with the annual and sick leave to the credit of such individual immediately before the effective date of such election, transfer, or reappointment.
+  shall be credited for purposes of the leave system provided under rules and regulations promulgated pursuant to subsection (b), with the annual and sick leave to the credit of such individual immediately before the effective date of such election, transfer, or reappointment.
 
-(2) Upon termination of employment with the Institute, any annual leave remaining to the credit of an individual within the purview of this section shall be liquidated in accordance with sections 5551(a) and 6306 of title 5, except that leave earned or accrued under rules and regulations promulgated pursuant to subsection (b) of this section shall not be so liquidated.
+(2) Upon termination of employment with the Institute, any annual leave remaining to the credit of an individual within the purview of this section shall be liquidated in accordance with sections 5551(a) and 6306 of title 5, except that leave earned or accrued under rules and regulations promulgated pursuant to subsection (b) shall not be so liquidated.
 
-(3) In the case of any individual who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remaining leave to the credit of such person earned or credited under the rules and regulations promulgated pursuant to subsection (b) of this section shall be transferred to the credit of such individual in the employing agency on an adjusted basis in accordance with the rules and regulations which shall be promulgated by the Office of Personnel Management.
+(3) In the case of any individual who is transferred, promoted, or reappointed, without break in service, to a position in the Federal Government under a different leave system, any remaining leave to the credit of such person earned or credited under the rules and regulations promulgated pursuant to subsection (b) shall be transferred to the credit of such individual in the employing agency on an adjusted basis in accordance with the rules and regulations which shall be promulgated by the Office of Personnel Management.
 
 **(f) Applicability**
 
-(1) This section shall apply to any individual appointed after October 17, 1986, for employment in the Institute. Except as provided in subsections (d) and (g) of this section, the enactment of this chapter shall not affect—
+(1) This section shall apply to any individual appointed after October 17, 1986, for employment in the Institute. Except as provided in subsections (d) and (g), the enactment of this chapter shall not affect—
 
   (A) the continued employment of any individual employed before October 17, 1986; or
 
@@ -484,7 +484,7 @@ For effective date and applicability of amendment by Pub. L. 100–297, see sect
 
 (3) The Board shall establish, within the Institute, departments for the study of culture and arts and for research and exchange, and a museum. The Board shall establish the areas of competency for the departments created under this paragraph, which may include (but are not limited to) Departments of Arts and Sciences, Visual Arts, Performing Arts, Language, Literature and Museology and a learning resources center, programs of institutional support and development, research programs, fellowship programs, seminars, publications, scholar-in-residence programs and inter-institutional programs of cooperation at national and international levels.
 
-**(c) Other programs** In addition to the centers and programs described in subsection (b) of this section, the Institute shall develop such programs and centers as the Board determines are necessary to—
+**(c) Other programs** In addition to the centers and programs described in subsection (b), the Institute shall develop such programs and centers as the Board determines are necessary to—
 
 (1) foster research and scholarship in Indian art and culture through—
 
@@ -587,11 +587,11 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 **(b) Certain matters relating to transferred functions**
 
-(1) Subject to subsection (d) of this section, all personnel, liabilities, contracts, real property (including the collections of the museum located on the site known as the “Santa Fe Indian School” but not the museum building), personal property, assets, and records as are determined by the Director of the Office of Management and Budget to be employed, held, or used primarily in connection with any function transferred under the provisions of this chapter (regardless of the administrative entity providing the services on the date before the transfer) shall be transferred to the Institute.
+(1) Subject to subsection (d), all personnel, liabilities, contracts, real property (including the collections of the museum located on the site known as the “Santa Fe Indian School” but not the museum building), personal property, assets, and records as are determined by the Director of the Office of Management and Budget to be employed, held, or used primarily in connection with any function transferred under the provisions of this chapter (regardless of the administrative entity providing the services on the date before the transfer) shall be transferred to the Institute.
 
 (2) Personnel engaged in functions transferred by this chapter shall be transferred in accordance with applicable laws and regulations relating to the transfer of functions, except that such transfer shall be without reduction in classification or compensation for one year after such transfer.
 
-**(c) References in other laws** All laws and regulations relating to the Institute of American Indian Arts established by the Secretary in 1962 shall, insofar as such laws and regulations are appropriate, and not inconsistent with the provisions of this chapter, remain in full force and effect and apply with respect to the Institute. All references in any other Federal law to the Institute of American Indian Arts, or any officer transferred to the Institute of American Indian and Alaska Native Culture and Arts Development under subsection (b) of this section, shall be deemed to refer to the Institute of American Indian and Alaska Native Culture and Arts Development or an officer of the Institute of American Indian and Alaska Native Culture and Arts Development.
+**(c) References in other laws** All laws and regulations relating to the Institute of American Indian Arts established by the Secretary in 1962 shall, insofar as such laws and regulations are appropriate, and not inconsistent with the provisions of this chapter, remain in full force and effect and apply with respect to the Institute. All references in any other Federal law to the Institute of American Indian Arts, or any officer transferred to the Institute of American Indian and Alaska Native Culture and Arts Development under subsection (b), shall be deemed to refer to the Institute of American Indian and Alaska Native Culture and Arts Development or an officer of the Institute of American Indian and Alaska Native Culture and Arts Development.
 
 **(d) Forgiveness of amounts owed; hold harmless**
 
@@ -606,7 +606,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 ### Statutory Notes
 
 #### Amendments
-1992—Subsec. (b)(1). Pub. L. 102–325, § 1331(f)(1), substituted “Subject to subsection (d) of this section, all personnel” for “All personnel”.
+1992—Subsec. (b)(1). Pub. L. 102–325, § 1331(f)(1), substituted “Subject to subsection (d), all personnel” for “All personnel”.
 
 Subsec. (d)(2). Pub. L. 102–325, § 1331(f)(2), substituted “monetary damages” for “monetary damage”.
 
@@ -740,7 +740,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 **(b) Capital improvement endowment**
 
-(1) In addition to the trust fund established under subsection (a) of this section, funds may be deposited into a trust fund maintained by the Institute at a federally insured banking or savings institution from the amount reserved for this subsection pursuant to [section 4451(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section4451/a&num=0&edition=prelim) for the purpose of establishing a separate special endowment for capital improvement (hereafter in this subsection referred to as the “capital endowment fund”) to pay expenses associated with site selection and preparation, site planning and architectural design and planning, new construction, materials and equipment procurement, renovation, alteration, repair, and other building and expansion costs of the Institute.
+(1) In addition to the trust fund established under subsection (a), funds may be deposited into a trust fund maintained by the Institute at a federally insured banking or savings institution from the amount reserved for this subsection pursuant to [section 4451(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section4451/a&num=0&edition=prelim) for the purpose of establishing a separate special endowment for capital improvement (hereafter in this subsection referred to as the “capital endowment fund”) to pay expenses associated with site selection and preparation, site planning and architectural design and planning, new construction, materials and equipment procurement, renovation, alteration, repair, and other building and expansion costs of the Institute.
 
 (2) The President of the Institute shall provide for the deposit into the capital endowment fund of a capital contribution by the Institute in an amount equal to the amount of each Federal contribution and any earnings on amounts in the capital endowment fund.
 
@@ -754,13 +754,13 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 **(c) General administrative provisions**
 
-(1) Funds in the trust funds described in subsections (a) and (b) of this section shall be invested under the same conditions and limitations as funds are invested under [section 1065(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1065/c/2&num=0&edition=prelim) and the regulations implementing such section (as such regulations were in effect at the time the funds are invested).
+(1) Funds in the trust funds described in subsections (a) and (b) shall be invested under the same conditions and limitations as funds are invested under [section 1065(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1065/c/2&num=0&edition=prelim) and the regulations implementing such section (as such regulations were in effect at the time the funds are invested).
 
 (2) No part of the net earnings of the trust funds established under this section shall inure to the benefit of any private person.
 
-(3) Any amounts deposited in a trust fund authorized under subsection (a) of this section may be used to secure loans procured for the purposes of constructing or improving Institute facilities.
+(3) Any amounts deposited in a trust fund authorized under subsection (a) may be used to secure loans procured for the purposes of constructing or improving Institute facilities.
 
-(4) The President of the Institute shall provide for such other provisions governing the trust funds established under this section as may be necessary to protect the financial interest of the United States and to promote the purpose of this chapter as agreed to by the Secretary of the Treasury and the Board or its designee, including recordkeeping procedures for the investment of funds received under the trust fund established under subsection (b) of this section and such other recordkeeping procedures for the expenditure of accumulated interest for the trust fund under subsection (a) of this section as will allow the Secretary of the Treasury to audit and monitor activities under this section.
+(4) The President of the Institute shall provide for such other provisions governing the trust funds established under this section as may be necessary to protect the financial interest of the United States and to promote the purpose of this chapter as agreed to by the Secretary of the Treasury and the Board or its designee, including recordkeeping procedures for the investment of funds received under the trust fund established under subsection (b) and such other recordkeeping procedures for the expenditure of accumulated interest for the trust fund under subsection (a) as will allow the Secretary of the Treasury to audit and monitor activities under this section.
 
 ### Statutory Notes
 
@@ -810,7 +810,7 @@ Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a
 
 (2) has been recognized by the Governor of the State of Hawaii or the Governor of the State of Alaska, as appropriate, for the purpose of making such organization or institution eligible to receive such grants.
 
-**(b) Purpose of grants** Grants made under subsection (a) of this section shall, to the extent deemed possible by the Secretary and the recipient of the grant, be used—
+**(b) Purpose of grants** Grants made under subsection (a) shall, to the extent deemed possible by the Secretary and the recipient of the grant, be used—
 
 (1) to provide scholarly study of, and instruction in, Native Hawaiian or Alaska Native art and culture,
 
@@ -820,7 +820,7 @@ Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a
 
 **(c) Management of grants**
 
-(1) Any organization or institution which is the recipient of a grant made under subsection (a) of this section shall establish a governing board to manage and control the program with respect to which such grant is made.
+(1) Any organization or institution which is the recipient of a grant made under subsection (a) shall establish a governing board to manage and control the program with respect to which such grant is made.
 
 (2) For any grants made with respect to Native Hawaiian art and culture, the members of the governing board which is required to be established under paragraph (1) shall—
 

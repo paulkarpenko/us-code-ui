@@ -192,17 +192,19 @@ For effective date of Pub. L. 92–328, see Effective Date of 1972 Amendment not
 
 
 <a id="section-5302a"></a>
-## § 5302A. . 11 So in original. Probably should be followed by a period. Collection of indebtedness: certain debts of members of the Armed Forces and veterans who die of injury incurred or aggravated in the line of duty in a combat zone
+## § 5302A. Collection of indebtedness: certain debts of members of the Armed Forces and veterans who die of injury incurred or aggravated in the line of duty in a combat zone
 **(a) Limitation on Authority.—** The Secretary may not collect all or any part of an amount owed to the United States by a member of the Armed Forces or veteran described in subsection (b) under any program under the laws administered by the Secretary, other than a program referred to in subsection (c), if the Secretary determines that termination of collection is in the best interest of the United States.
 
-**(b) Covered Individuals.—** A member of the Armed Forces or veteran described in this subsection is any member or veteran who dies as a result of an injury incurred or aggravated in the line of duty while serving in a theater of combat operations (as determined by the Secretary in consultation with the Secretary of Defense) in a war or in combat against a hostile force during a period of hostilities (as that term is defined in section 1712A(a)(2)(B) 22 See References in Text note below. of this title) after September 11, 2001.
+**(b) Covered Individuals.—** A member of the Armed Forces or veteran described in this subsection is any member or veteran who dies as a result of an injury incurred or aggravated in the line of duty while serving in a theater of combat operations (as determined by the Secretary in consultation with the Secretary of Defense) in a war or in combat against a hostile force during a period of hostilities after September 11, 2001.
 
 **(c) Inapplicability to Housing and Small Business Benefit Programs.—** The limitation on authority in subsection (a) shall not apply to any amounts owed the United States under any program carried out under chapter 37 of this title.
 
 ### Statutory Notes
 
-#### References in Text
-[Section 1712A(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1712A/a/2/B&num=0&edition=prelim), referred to in subsec. (b), was struck out by Pub. L. 112–239, div. A, title VII, § 727(1)(B), Jan. 2, 2013, 126 Stat. 1811.
+#### Amendments
+2015—Pub. L. 114–58, § 601(21)(A), inserted period after section number.
+
+Subsec. (b). Pub. L. 114–58, § 601(21)(B), struck out “(as that term is defined in [section 1712A(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1712A/a/2/B&num=0&edition=prelim))” after “hostilities”.
 
 #### Effective Date
 Pub. L. 110–252, title I, § 1303(c), June 30, 2008, 122 Stat. 2328, provided that: “The amendments made by this section [enacting this section] shall take effect on the date of the enactment of this Act [June 30, 2008], and shall apply with respect to collections of indebtedness of members of the Armed Forces and veterans who die on or after September 11, 2001.”
@@ -221,7 +223,11 @@ Pub. L. 110–252, title I, § 1303(b), June 30, 2008, 122 Stat. 2327, provided 
 
 **(c)** Subsection (a) shall not apply to any alien whose service was honest and faithful, and who was not discharged on the individual’s own application or solicitation as an alien. No individual shall be considered as having been discharged on the individual’s own application or solicitation as an alien in the absence of affirmative evidence establishing that the individual was so discharged.
 
-**(d)** This section shall not apply to any war-risk insurance, Government (converted) or National Service Life Insurance policy.
+**(d)** This section shall not apply to the following:
+
+(1) Any war-risk insurance, Government (converted) or National Service Life Insurance policy.
+
+(2) Benefits under section 2011, 2012, 2013, 2044, or 2061 of this title (except for benefits for individuals discharged or dismissed from the Armed Forces by reason of the sentence of a general court-martial).
 
 **(e)**
 
@@ -237,9 +243,11 @@ Pub. L. 110–252, title I, § 1303(b), June 30, 2008, 122 Stat. 2327, provided 
 ### Statutory Notes
 
 #### References in Text
-President’s Proclamation 4313 of September 16, 1974, referred to in subsec. (e)(2)(A), is set out as a note under [section 462 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section462&num=0&edition=prelim), Appendix, War and National Defense.
+President’s Proclamation 4313 of September 16, 1974, referred to in subsec. (e)(2)(A), is set out as a note under [section 3811 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3811&num=0&edition=prelim), War and National Defense.
 
 #### Amendments
+2016—Subsec. (d). Pub. L. 114–315 substituted “not apply to the following:” and pars. (1) and (2) for “not apply to any war-risk insurance, Government (converted) or National Service Life Insurance policy.”.
+
 1991—Pub. L. 102–40 renumbered [section 3103 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3103) as this section.
 
 Subsecs. (a), (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
@@ -314,7 +322,9 @@ Pub. L. 95–126, § 4, Oct. 8, 1977, 91 Stat. 1108, as amended by Pub. L. 100�
 
   (E) to benefits under chapter 19 of this title;
 
-  (F) to benefits under chapter 30 or chapter 37 of this title by reason of—
+  (F) to benefits under section 2011, 2012, 2013, 2044, or 2061 of this title;
+
+  (G) to benefits under chapter 30 or chapter 37 of this title by reason of—
 
     (i) a discharge or release from active duty for the convenience of the Government, as described in sections 3011(a)(1)(A)(ii)(II) and 3012(b)(1)(A)(iv) of this title;
 
@@ -324,7 +334,7 @@ Pub. L. 95–126, § 4, Oct. 8, 1977, 91 Stat. 1108, as amended by Pub. L. 100�
 
     (iv) a discharge or release from active duty for a physical or mental condition that was not characterized as a disability and did not result from the individual’s own willful misconduct but did interfere with the individual’s performance of duty, as described in [section 3011(a)(1)(A)(ii)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3011/a/1/A/ii/I&num=0&edition=prelim); or
 
-  (G) to benefits under chapter 43 of this title.
+  (H) to benefits under chapter 43 of this title.
 
 **(c)**
 
@@ -363,6 +373,8 @@ Pub. L. 95–126, § 4, Oct. 8, 1977, 91 Stat. 1108, as amended by Pub. L. 100�
 The Social Security Act, referred to in subsec. (d)(3)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Section 229(a) of the Act was redesignated section 229 by Pub. L. 108–203, title IV, § 420(b)(1)(A), Mar. 2, 2004, 118 Stat. 535. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2016—Subsec. (b)(3)(F) to (H). Pub. L. 114–315 added subpar. (F) and redesignated former subpars. (F) and (G) as (G) and (H), respectively.
+
 1998—Subsec. (d)(2)(B). Pub. L. 105–368, § 1005(b)(15)(A), substituted “after October 13, 1982,” for “on or after the date of the enactment of this subsection”.
 
 Subsec. (d)(3)(B)(i). Pub. L. 105–368, § 1005(b)(15)(B), substituted “after October 13, 1982,” for “on or after the date of the enactment of this subsection,”.
@@ -445,7 +457,18 @@ Pub. L. 97–66, title VI, § 604(b), Oct. 17, 1981, 95 Stat. 1036, provided tha
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 114–92, div. A, title VI, §§ 633(b), 635, Nov. 25, 2015, 129 Stat. 850, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended by adding at the end the following new subsection:
+
+(d)(1) Other than amounts payable under section 1413a or 1414 of title 10, the amount of pension and compensation benefits payable to a person under this title shall be reduced by the amount of any lump sum payment made to such person under [section 1415 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1415&num=0&edition=prelim).
+
+(2) The Secretary shall collect any reduction under paragraph (1) from amounts otherwise payable to the person under this title, including pension and compensation payable under this title, before any pension and compensation payments under this title may be paid to the person.
+
+See 2015 Amendment note below.
+
 #### Amendments
+2015—Subsec. (d). Pub. L. 114–92 added subsec. (d).
+
 2004—Subsec. (a)(1). Pub. L. 108–454 inserted “as provided in [section 1414 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1414&num=0&edition=prelim) or” after “Except”.
 
 1991—Pub. L. 102–40, § 402(b)(1), renumbered [section 3104 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3104) as this section.
@@ -475,6 +498,9 @@ Subsec. (c). Pub. L. 99–576, § 701(71)(C), substituted “any person’s” f
 1964—Subsec. (a). Pub. L. 88–664 inserted “or concurrently to any person based on the service of any other person” after “own service”.
 
 1960—Subsec. (b)(2). Pub. L. 86–495 substituted provisions prohibiting the payment or furnishing of benefits other than insurance to or on account of any child by reason of the death of more than one parent in the same parental line, and permitting the child to elect one or more times to receive benefits by reason of the death of any one of such parents, for provisions which prohibited the payment of dependency and indemnity compensation to or on account of a child by reason of the death of another parent where the child receives or there is paid by the Veterans’ Administration on account of a child dependency and indemnity compensation, or death compensation, by reason of the death of a parent.
+
+#### Effective Date of 2015 Amendment; Implementation
+Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under [section 8432 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8432&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–385 effective Oct. 1, 1980, see section 601(b) of Pub. L. 96–385, set out as a note under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).

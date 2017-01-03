@@ -12,7 +12,7 @@ source: >-
 
 **(b)** The Court of International Trade shall have exclusive jurisdiction of any civil action commenced under section 516 of the Tariff Act of 1930.
 
-**(c)** The Court of International Trade shall have exclusive jurisdiction of any civil action commenced under section 516A of the Tariff Act of 1930.
+**(c)** The Court of International Trade shall have exclusive jurisdiction of any civil action commenced under section 516A or 517 of the Tariff Act of 1930.
 
 **(d)** The Court of International Trade shall have exclusive jurisdiction of any civil action commenced to review—
 
@@ -70,7 +70,7 @@ Section 515 of the Tariff Act of 1930, referred to in subsec. (a), is classified
 
 Section 516 of the Tariff Act of 1930, referred to in subsec. (b), is classified to [section 1516 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516&num=0&edition=prelim), Customs Duties.
 
-Section 516A of the Tariff Act of 1930, referred to in subsecs. (c) and (i), is classified to [section 1516a of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a&num=0&edition=prelim), Customs Duties.
+Section 516A or section 517 of the Tariff Act of 1930, referred to in subsecs. (c) and (i), are classified to sections 1516a and 1517 of Title 19, Customs Duties.
 
 The Trade Act of 1974, referred to in subsec. (d), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of Title 19, Customs Duties. Sections 223, 251, 293, and 296 of the Act are classified to sections 2273, 2341, 2401b, and 2401e, respectively, of Title 19. Section 273 of the Act, formerly classified to [section 2371b of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2371b&num=0&edition=prelim), was repealed by Pub. L. 112–40, title II, § 222(a)(1), Oct. 21, 2011, 125 Stat. 411. For complete classification of this Act to the Code, see References in Text note set out under [section 2101 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2101&num=0&edition=prelim) and Tables.
 
@@ -88,6 +88,8 @@ Section 305 of the Tariff Act of 1930, referred to in subsec. (j), is classified
 A prior section 1581, act June 25, 1948, ch. 646, 62 Stat. 943, related to powers of the Customs Court generally, prior to the general revision of this chapter by Pub. L. 96–417. See [section 1585 of this title](./chapter-095-court-of-international-trade.md#section-1585).
 
 #### Amendments
+2016—Subsec. (c). Pub. L. 114–125 inserted “or 517” after “516A”.
+
 2009—Subsec. (d)(3), (4). Pub. L. 111–5 substituted “273” for “271” in par. (3) and added par. (4).
 
 1993—Subsec. (g)(3). Pub. L. 103–182, § 684(a)(1), added par. (3).
@@ -123,7 +125,7 @@ Subsecs. (d) and (g) to (i) of this section applicable with respect to civil act
 Pub. L. 103–182, title VI, § 684(b), Dec. 8, 1993, 107 Stat 2219, provided that: “For purposes of applying the amendments made by subsection (a) [amending this section and sections 2631, 2636, 2640, and 2642 of this title], any decision or order of the Customs Service denying, suspending, or revoking the accreditation of a private laboratory on or after the date of the enactment of this Act [Dec. 8, 1993] and before regulations to implement section 499(b) of the Tariff Act of 1930 [[19 U.S.C. 1499(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1499/b&num=0&edition=prelim)] are issued shall be treated as having been denied, suspended, or revoked under such section 499(b).”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Effect of Termination of NAFTA Country Status
 For provisions relating to effect of termination of NAFTA country status on sections 401 to 416 of Pub. L. 103–182, see [section 3451 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3451&num=0&edition=prelim), Customs Duties.

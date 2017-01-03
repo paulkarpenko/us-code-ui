@@ -16,7 +16,7 @@ The System shall include any area of land and water administered by the Secretar
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100501 | [16 U.S.C. 1c(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1c/a&num=0&edition=prelim) | Aug. 8, 1953, ch. 384, § 2(a), 67 Stat. 496; Pub. L. 91–383, § 2(b), Aug. 18, 1970, 84 Stat. 826. |
+| 100501 | [16 U.S.C. 1c(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1c/a&num=0&edition=prelim). | Aug. 8, 1953, ch. 384, § 2(a), 67 Stat. 496; Pub. L. 91–383, § 2(b), Aug. 18, 1970, 84 Stat. 826. |
 
 The words “now or hereafter” are omitted as obsolete.
 
@@ -39,7 +39,7 @@ General management plans for the preservation and use of each System unit, inclu
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100502 | [16 U.S.C. 1a–7(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–7/b&num=0&edition=prelim) | Pub. L. 91–383, § 12, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 95–625, title VI, § 604(3), (4), Nov. 10, 1978, 92 Stat. 3518, 3519; Pub. L. 103–437, § 6(c), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 105–391, title IV, § 415(b)(2), Nov. 13, 1998, 112 Stat. 3515. |
+| 100502 | [16 U.S.C. 1a–7(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–7/b&num=0&edition=prelim). | Pub. L. 91–383, § 12, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 95–625, title VI, § 604(3), (4), Nov. 10, 1978, 92 Stat. 3518, 3519; Pub. L. 103–437, § 6(c), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 105–391, title IV, § 415(b)(2), Nov. 13, 1998, 112 Stat. 3515. |
 
 
 <a id="section-100503"></a>
@@ -61,7 +61,7 @@ General management plans for the preservation and use of each System unit, inclu
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100503 | [16 U.S.C. 5914](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5914&num=0&edition=prelim) | Pub. L. 105–391, title I, § 104, Nov. 13, 1998, 112 Stat. 3499. |
+| 100503 | [16 U.S.C. 5914](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5914&num=0&edition=prelim). | Pub. L. 105–391, title I, § 104, Nov. 13, 1998, 112 Stat. 3499. |
 
 
 <a id="section-100504"></a>
@@ -91,10 +91,10 @@ General management plans for the preservation and use of each System unit, inclu
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100504(a)(1) | [16 U.S.C. 17n](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17n&num=0&edition=prelim) | June 23, 1936, ch. 735, 49 Stat. 1894; Aug. 1, 1956, ch. 852, § 6, 70 Stat. 908. |
-| 100504(a)(2), (3) | [16 U.S.C. 17k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17k&num=0&edition=prelim) |  |
-| 100504(a)(4) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)l |  |
-| 100504(b) | [16 U.S.C. 17m](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17m&num=0&edition=prelim) |  |
+| 100504(a)(1) | [16 U.S.C. 17n](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17n&num=0&edition=prelim). | June 23, 1936, ch. 735, 49 Stat. 1894; Aug. 1, 1956, ch. 852, § 6, 70 Stat. 908. |
+| 100504(a)(2), (3) | [16 U.S.C. 17k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17k&num=0&edition=prelim). |  |
+| 100504(a)(4) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)l. |  |
+| 100504(b) | [16 U.S.C. 17m](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17m&num=0&edition=prelim). |  |
 
 
 <a id="section-100505"></a>
@@ -116,9 +116,9 @@ General management plans for the preservation and use of each System unit, inclu
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100505(a) | [16 U.S.C. 1a–9](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–9&num=0&edition=prelim) | Pub. L. 101–628, title XII, §§ 1213–1215, Nov. 28, 1990, 104 Stat. 4507; Pub. L. 103–437, § 6(d)(2), Nov. 2, 1994, 108 Stat. 4583. |
-| 100505(b) | [16 U.S.C. 1a–10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–10&num=0&edition=prelim) |  |
-| 100505(c) | [16 U.S.C. 1a–11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–11&num=0&edition=prelim) |  |
+| 100505(a) | [16 U.S.C. 1a–9](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–9&num=0&edition=prelim). | Pub. L. 101–628, title XII, §§ 1213–1215, Nov. 28, 1990, 104 Stat. 4507; Pub. L. 103–437, § 6(d)(2), Nov. 2, 1994, 108 Stat. 4583. |
+| 100505(b) | [16 U.S.C. 1a–10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–10&num=0&edition=prelim). |  |
+| 100505(c) | [16 U.S.C. 1a–11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–11&num=0&edition=prelim). |  |
 
 In subsection (a), the text of [16 U.S.C. 1a–9](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–9&num=0&edition=prelim) (last sentence) is omitted as obsolete.
 
@@ -184,11 +184,11 @@ In subsection (a), the text of [16 U.S.C. 1a–9](https://uscode.house.gov/view.
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100506(a) | [16 U.S.C. 1a–12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–12&num=0&edition=prelim) | Pub. L. 101–628, title XII, §§ 1216, 1217, Nov. 28, 1990, 104 Stat. 4508. |
-| 100506(b) | [16 U.S.C. 1a–13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–13&num=0&edition=prelim) |  |
-| 100506(c) | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–9(c) | Pub. L. 88–578, title I, § 7(c), formerly § 6(c), as added Pub. L. 95–42, § 1(5), June 10, 1977, 91 Stat. 211; Pub. L. 96–203, § 2(2), Mar. 10, 1980, 94 Stat. 81; Pub. L. 103–437, § 6(p)(3), Nov. 2, 1994, 108 Stat. 4586; Pub. L. 104–333, div. I, title VIII, § 814(b), Nov. 12, 1996, 110 Stat. 4194; Pub. L. 106–176, title I, §§ 120(b), 129, Mar. 10, 2000, 114 Stat. 28, 30. |
+| 100506(a) | [16 U.S.C. 1a–12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–12&num=0&edition=prelim). | Pub. L. 101–628, title XII, §§ 1216, 1217, Nov. 28, 1990, 104 Stat. 4508. |
+| 100506(b) | [16 U.S.C. 1a–13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–13&num=0&edition=prelim). |  |
+| 100506(c) | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–9(c). | Pub. L. 88–578, title I, § 7(c), formerly § 6(c), as added Pub. L. 95–42, § 1(5), June 10, 1977, 91 Stat. 211; Pub. L. 96–203, § 2(2), Mar. 10, 1980, 94 Stat. 81; Pub. L. 103–437, § 6(p)(3), Nov. 2, 1994, 108 Stat. 4586; Pub. L. 104–333, div. I, title VIII, § 814(b), Nov. 12, 1996, 110 Stat. 4194; Pub. L. 106–176, title I, §§ 120(b), 129, Mar. 10, 2000, 114 Stat. 28, 30. |
 
-In subsection (a), before paragraph (1), the word “maintain” is substituted for “Within one year after November 28, 1990 .á.á. develop” to eliminate obsolete words. In paragraph (3), the reference to paragraph (c) in [16 U.S.C. 1a–12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–12&num=0&edition=prelim) is treated as a reference to [16 U.S.C. 1a–11(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–11/c&num=0&edition=prelim) for clarity.
+In subsection (a), before paragraph (1), the word “maintain” is substituted for “Within one year after November 28, 1990 . . . develop” to eliminate obsolete words. In paragraph (3), the reference to paragraph (c) in [16 U.S.C. 1a–12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–12&num=0&edition=prelim) is treated as a reference to [16 U.S.C. 1a–11(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–11/c&num=0&edition=prelim) for clarity.
 
 In subsection (b), before paragraph (1), the words “after November 28, 1990” are omitted as obsolete.
 
@@ -289,22 +289,22 @@ In subsection (b), before paragraph (1), the words “after November 28, 1990”
 
 (2) **Monitoring welfare and integrity of national landmarks.—** — To monitor the welfare and integrity of the national landmarks, there is authorized to be appropriated not more than $1,500,000 for each fiscal year.
 
-(3) **Carrying out subsections (b), (c), and (g).—** — To carry out subsections (b), (c), and (g), there is authorized to be appropriated $2,000,000 for each fiscal year.
+(3) **Carrying out subsections (b), (c), and 11 So in original. Probably should be “and”. (g).—** — To carry out subsections (b), (c), and (g), there is authorized to be appropriated $2,000,000 for each fiscal year.
 
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100507(a) | [16 U.S.C. 1a–5(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–5/a&num=0&edition=prelim) (1st sentence) | Pub. L. 91–383, § 8, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1940; Pub. L. 95–625, title VI, § 604(1), Nov. 10, 1978, 92 Stat. 3518; Pub. L. 96–199, title I, § 104, Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–344, § 8, Sept. 8, 1980, 94 Stat. 1135; Pub. L. 103–437, § 6(b), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(I), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 105–391, title III, § 303, Nov. 13, 1998, 112 Stat. 3501. |
-| 100507(b)(1), (2) | [16 U.S.C. 1a–5(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–5/b/1&num=0&edition=prelim), (2) |  |
-| 100507(b)(3) | [16 U.S.C. 1a–5(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–5/a&num=0&edition=prelim) (2d sentence) |  |
-| 100507(b)(4) through (6) | [16 U.S.C. 1a–5(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–5/b/3&num=0&edition=prelim) through (5) |  |
-| 100507(c) | [16 U.S.C. 1a–5(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–5/c&num=0&edition=prelim) |  |
-| 100507(d) | [16 U.S.C. 1a–5(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–5/e&num=0&edition=prelim) |  |
-| 100507(e), (f) | [16 U.S.C. 1a–5(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–5/a&num=0&edition=prelim) (3d, last sentences) |  |
-| 100507(g) | [16 U.S.C. 1a–5(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–5/d&num=0&edition=prelim) |  |
-| 100507(h) | [16 U.S.C. 1a–5(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–5/f&num=0&edition=prelim) |  |
+| 100507(a) | [16 U.S.C. 1a–5(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–5/a&num=0&edition=prelim) (1st sentence). | Pub. L. 91–383, § 8, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1940; Pub. L. 95–625, title VI, § 604(1), Nov. 10, 1978, 92 Stat. 3518; Pub. L. 96–199, title I, § 104, Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–344, § 8, Sept. 8, 1980, 94 Stat. 1135; Pub. L. 103–437, § 6(b), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(I), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 105–391, title III, § 303, Nov. 13, 1998, 112 Stat. 3501. |
+| 100507(b)(1), (2) | [16 U.S.C. 1a–5(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–5/b/1&num=0&edition=prelim), (2). |  |
+| 100507(b)(3) | [16 U.S.C. 1a–5(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–5/a&num=0&edition=prelim) (2d sentence). |  |
+| 100507(b)(4) through (6) | [16 U.S.C. 1a–5(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–5/b/3&num=0&edition=prelim) through (5). |  |
+| 100507(c) | [16 U.S.C. 1a–5(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–5/c&num=0&edition=prelim). |  |
+| 100507(d) | [16 U.S.C. 1a–5(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–5/e&num=0&edition=prelim). |  |
+| 100507(e), (f) | [16 U.S.C. 1a–5(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–5/a&num=0&edition=prelim) (3d, last sentences). |  |
+| 100507(g) | [16 U.S.C. 1a–5(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–5/d&num=0&edition=prelim). |  |
+| 100507(h) | [16 U.S.C. 1a–5(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–5/f&num=0&edition=prelim). |  |
 
 In subsection (b)(3), the words “after November 13, 1998” are omitted as obsolete.
 

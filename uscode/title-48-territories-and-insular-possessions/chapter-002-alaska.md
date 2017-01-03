@@ -775,39 +775,41 @@ Section 248b, act Aug. 18, 1941, ch. 368, § 3, 55 Stat. 633, defined terms used
 ### Statutory Notes
 
 #### Codification
-Section 250, act Sept. 1, 1937, ch. 897, § 1, 50 Stat. 900, which declared purpose of sections 250 to 250n of this title for establishment of a reindeer industry, was transferred to [section 500 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section500&num=0&edition=prelim), Indians.
+Sections 250 to 250n were transferred to sections 500 to 500n, respectively, of Title 25, Indians, and subsequently were omitted from the Code as being of special and not general application.
 
-Section 250a, act Sept. 1, 1937, ch. 897, § 2, 50 Stat. 900, which authorized Secretary of the Interior to acquire reindeer and other property, was transferred to [section 500a of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section500a&num=0&edition=prelim).
+Section 250, act Sept. 1, 1937, ch. 897, § 1, 50 Stat. 900, declared purpose of sections 250 to 250n of this title for establishment of a reindeer industry.
 
-Section 250b, act Sept. 1, 1937, ch. 897, § 3, 50 Stat. 900, which required filing of claims to title to reindeer by nonnatives, was transferred to [section 500b of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section500b&num=0&edition=prelim).
+Section 250a, act Sept. 1, 1937, ch. 897, § 2, 50 Stat. 900, authorized Secretary of the Interior to acquire reindeer and other property.
 
-Section 250c, act Sept. 1, 1937, ch. 897, § 4, 50 Stat. 900, which authorized Secretary to accept gifts for purposes of sections 250 to 250n of this title, was transferred to [section 500c of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section500c&num=0&edition=prelim).
+Section 250b, act Sept. 1, 1937, ch. 897, § 3, 50 Stat. 900, required filing of claims to title to reindeer by nonnatives.
 
-Section 250d, act Sept. 1, 1937, ch. 897, § 5, 50 Stat. 900, which empowered Secretary to receive and expand loans, grants, or allocations for purposes of sections 250 to 250n of this title, was transferred to [section 500d of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section500d&num=0&edition=prelim).
+Section 250c, act Sept. 1, 1937, ch. 897, § 4, 50 Stat. 900, authorized Secretary to accept gifts for purposes of sections 250 to 250n of this title.
 
-Section 250e, act Sept. 1, 1937, ch. 897, § 6, 50 Stat. 900, which established a revolving fund for purposes of sections 250 to 250n of this title, was transferred to [section 500e of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section500e&num=0&edition=prelim).
+Section 250d, act Sept. 1, 1937, ch. 897, § 5, 50 Stat. 900, empowered Secretary to receive and expand loans, grants, or allocations for purposes of sections 250 to 250n of this title.
 
-Section 250f, act Sept. 1, 1937, ch. 897, § 7, 50 Stat. 900, which related to management of reindeer industry, was transferred to [section 500f of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section500f&num=0&edition=prelim).
+Section 250e, act Sept. 1, 1937, ch. 897, § 6, 50 Stat. 900, established a revolving fund for purposes of sections 250 to 250n of this title.
 
-Section 250g, act Sept. 1, 1937, ch. 897, § 8, 50 Stat. 901, which empowered Secretary to distribute reindeer, property, and profits to natives, was transferred to [section 500g of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section500g&num=0&edition=prelim).
+Section 250f, act Sept. 1, 1937, ch. 897, § 7, 50 Stat. 900, related to management of reindeer industry.
 
-Section 250h, act Sept. 1, 1937, ch. 897, § 9, 50 Stat. 901, which authorized Secretary to grant administrative powers to organizations of natives, was transferred to [section 500h of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section500h&num=0&edition=prelim).
+Section 250g, act Sept. 1, 1937, ch. 897, § 8, 50 Stat. 901, empowered Secretary to distribute reindeer, property, and profits to natives.
 
-Section 250i, act Sept. 1, 1937, ch. 897, § 10, 50 Stat. 901, which provided for alienation of reindeer or interests, was transferred to [section 500i of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section500i&num=0&edition=prelim).
+Section 250h, act Sept. 1, 1937, ch. 897, § 9, 50 Stat. 901, authorized Secretary to grant administrative powers to organizations of natives.
 
-Section 250j, act Sept. 1, 1937, ch. 897, § 11, 50 Stat. 902, which defined reindeer as used in sections 250 to 250n, of this title, was transferred to [section 500j of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section500j&num=0&edition=prelim).
+Section 250i, act Sept. 1, 1937, ch. 897, § 10, 50 Stat. 901, provided for alienation of reindeer or interests.
 
-Section 250k, act Sept. 1, 1937, ch. 897, § 12, 50 Stat. 902, which authorized Secretary to promulgate rules and regulations, was transferred to [section 500k of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section500k&num=0&edition=prelim).
+Section 250j, act Sept. 1, 1937, ch. 897, § 11, 50 Stat. 902, defined reindeer as used in sections 250 to 250n, of this title.
 
-Section 250l, act Sept. 1, 1937, ch. 897, § 13, 50 Stat. 902, which directed Secretary, whenever practicable, to appoint natives to administer the industry, was transferred to section 500l of Title 25.
+Section 250k, act Sept. 1, 1937, ch. 897, § 12, 50 Stat. 902, authorized Secretary to promulgate rules and regulations.
 
-Section 250m, act Sept. 1, 1937, ch. 897, § 14, 50 Stat. 902, which related to use of public lands, was transferred to [section 500m of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section500m&num=0&edition=prelim).
+Section 250l, act Sept. 1, 1937, ch. 897, § 13, 50 Stat. 902, directed Secretary, whenever practicable, to appoint natives to administer the industry.
 
-Section 250n, act Sept. 1, 1937, ch. 897, § 15, 50 Stat. 902, which defined “Natives of Alaska” for purposes of sections 250 to 250n of this title, was transferred to [section 500n of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section500n&num=0&edition=prelim).
+Section 250m, act Sept. 1, 1937, ch. 897, § 14, 50 Stat. 902, related to use of public lands.
 
-Section 250o, act Sept. 1, 1937, ch. 897, § 16, 50 Stat. 902, which authorized appropriation of $2,000,000.00 to carry out sections 250 to 250n of this title, is set out as a note under [section 500 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section500&num=0&edition=prelim).
+Section 250n, act Sept. 1, 1937, ch. 897, § 15, 50 Stat. 902, defined “Natives of Alaska” for purposes of sections 250 to 250n of this title.
 
-Section 250p, act Sept. 1, 1937, ch. 897, § 17, 50 Stat. 902, which repealed provisions inconsistent with sections 250 to 250n of this title, is set out as a note under [section 500 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section500&num=0&edition=prelim).
+Section 250o, act Sept. 1, 1937, ch. 897, § 16, 50 Stat. 902, which authorized appropriation of $2,000,000.00 to carry out sections 250 to 250n of this title, was set out as a note under [section 500 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section500&num=0&edition=prelim), and subsequently was omitted from the Code as being of special and not general application.
+
+Section 250p, act Sept. 1, 1937, ch. 897, § 17, 50 Stat. 902, which repealed provisions inconsistent with sections 250 to 250n of this title, was set out as a note under [section 500 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section500&num=0&edition=prelim), and subsequently was omitted from the Code as being of special and not general application.
 
 
 <a id="section-261-to-291"></a>
@@ -1161,7 +1163,7 @@ Section 357a, act May 17, 1906, ch. 2469, § 2, as added Aug. 2, 1956, ch. 891, 
 
 Section 357b, act May 27, 1906, ch. 2469, § 2, as added Aug. 2, 1956, ch. 891, § 1(e), 70 Stat. 954, which prohibited the making of an allotment unless the person made satisfactory proof of substantially continuous use and occupancy of the land for five years, was transferred to [section 270–3 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section270–3&num=0&edition=prelim), and was subsequently repealed by Pub. L. 92–203, § 18(a), Dec. 18, 1971, 85 Stat. 710.
 
-Section 358, act Mar. 3, 1891, ch. 561, § 15, 26 Stat. 1101, which reserved the Annette Islands for the Metlakahtla Indians, was transferred to [section 495 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section495&num=0&edition=prelim), Indians.
+Section 358, act Mar. 3, 1891, ch. 561, § 15, 26 Stat. 1101, which reserved the Annette Islands for the Metlakahtla Indians, was transferred to [section 495 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section495&num=0&edition=prelim), Indians, prior to omission from the Code as being of special and not general application.
 
 Section 358a, act May 1, 1936, ch. 254, § 2, 49 Stat. 1250, which authorized the designation of land for the use of Indians or Eskimos, was transferred to [section 496 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section496&num=0&edition=prelim), and was subsequently repealed by Pub. L. 94–579, § 704(a), Oct. 21, 1976, 90 Stat. 2792.
 
@@ -1171,7 +1173,7 @@ Section 360, act July 3, 1926, ch. 745, § 1, 44 Stat. 821, which authorized the
 
 Section 361, act July 3, 1926, ch. 745, § 2, 44 Stat. 822, which authorized the Secretary of the Interior to perform any and all acts necessary to carry into effect the provisions of section 360, was transferred to [section 687c–1 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section687c–1&num=0&edition=prelim).
 
-Section 362, act May 1, 1936, ch. 254, § 1, 49 Stat. 1250, which called for the application to the Territory of certain statutes dealing with the conservation of Indian lands and allowed the organization of groups of Indians not recognized as bands or tribes, was transferred to [section 473a of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section473a&num=0&edition=prelim), Indians.
+Section 362, act May 1, 1936, ch. 254, § 1, 49 Stat. 1250, which called for the application to the Territory of certain statutes dealing with the conservation of Indian lands and allowed the organization of groups of Indians not recognized as bands or tribes, was transferred to [section 473a of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section473a&num=0&edition=prelim), Indians, prior to editorial reclassification and renumbering as [section 5119 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5119&num=0&edition=prelim).
 
 
 <a id="section-363"></a>

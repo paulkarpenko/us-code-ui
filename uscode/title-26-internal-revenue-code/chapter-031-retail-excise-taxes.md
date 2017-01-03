@@ -61,7 +61,7 @@ Repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(
 
     (iii) *Rate of tax on certain buses*
 
-      (I) *In general* — Except as provided in subclause (II), in the case of fuel sold for use or used in a use described in section 6427(b)(1) (after the application of section 6427(b)(3)), the rate of tax imposed by this paragraph shall be 7.3 cents per gallon (4.3 cents per gallon after September 30, 2016).
+      (I) *In general* — Except as provided in subclause (II), in the case of fuel sold for use or used in a use described in section 6427(b)(1) (after the application of section 6427(b)(3)), the rate of tax imposed by this paragraph shall be 7.3 cents per gallon (4.3 cents per gallon after September 30, 2022).
 
       (II) *School bus and intracity transportation* — No tax shall be imposed by this paragraph on any sale for use, or use, described in subparagraph (B) or (C) of section 6427(b)(2).
 
@@ -75,9 +75,17 @@ Repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(
 
   (B) *Rate of tax* — The rate of the tax imposed by this paragraph shall be—
 
-    (i) except as otherwise provided in this subparagraph, the rate of tax specified in section 4081(a)(2)(A)(i) which is in effect at the time of such sale or use, and
+    (i) except as otherwise provided in this subparagraph, the rate of tax specified in section 4081(a)(2)(A)(i) which is in effect at the time of such sale or use,
 
-    (ii) in the case of liquefied natural gas, any liquid fuel (other than ethanol and methanol) derived from coal (including peat), and liquid hydrocarbons derived from biomass (as defined in section 45K(c)(3)), 24.3 cents per gallon.
+    (ii) in the case of liquefied petroleum gas, 18.3 cents per energy equivalent of a gallon of gasoline,
+
+    (iii) in the case of any liquid fuel (other than ethanol and methanol) derived from coal (including peat) and liquid hydrocarbons derived from biomass (as defined in section 45K(c)(3)), 24.3 cents per gallon, and
+
+    (iv) in the case of liquefied natural gas, 24.3 cents per energy equivalent of a gallon of diesel.
+
+  (C) *Energy equivalent of a gallon of gasoline* — For purposes of this paragraph, the term “energy equivalent of a gallon of gasoline” means, with respect to a liquefied petroleum gas fuel, the amount of such fuel having a Btu content of 115,400 (lower heating value). For purposes of the preceding sentence, a Btu content of 115,400 (lower heating value) is equal to 5.75 pounds of liquefied petroleum gas.
+
+  (D) *Energy equivalent of a gallon of diesel* — For purposes of this paragraph, the term “energy equivalent of a gallon of diesel” means, with respect to a liquefied natural gas fuel, the amount of such fuel having a Btu content of 128,700 (lower heating value). For purposes of the preceding sentence, a Btu content of 128,700 (lower heating value) is equal to 6.06 pounds of liquefied natural gas.
 
 (3) **Compressed natural gas**
 
@@ -91,6 +99,8 @@ Repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(
   (B) *Bus uses* — No tax shall be imposed by this paragraph on any sale for use, or use, described in subparagraph (B) or (C) of section 6427(b)(2) (relating to school bus and intracity transportation).
 
   (C) *Administrative provisions* — For purposes of applying this title with respect to the taxes imposed by this subsection, references to any liquid subject to tax under this subsection shall be treated as including references to compressed natural gas subject to tax under this paragraph, and references to gallons shall be treated as including references to energy equivalent of a gallon of gasoline with respect to such gas.
+
+  (D) *Energy equivalent of a gallon of gasoline* — For purposes of this paragraph, the term “energy equivalent of a gallon of gasoline” means 5.66 pounds of compressed natural gas.
 
 **(b) Exemption for off-highway business use; reduction in tax for qualified methanol and ethanol fuel**
 
@@ -199,13 +209,13 @@ For purposes of paragraph (4), the term “nonprofit educational organization”
 
 (1) **In general** — In the case of the sale or use of any partially exempt methanol or ethanol fuel the rate of the tax imposed by subsection (a)(2) shall be—
 
-  (A) after September 30, 1997, and before October 1, 2016—
+  (A) after September 30, 1997, and before October 1, 2022—
 
     (i) in the case of fuel none of the alcohol in which consists of ethanol, 9.15 cents per gallon, and
 
     (ii) in any other case, 11.3 cents per gallon, and
 
-  (B) after September 30, 2016—
+  (B) after September 30, 2022—
 
     (i) in the case of fuel none of the alcohol in which consists of ethanol, 2.15 cents per gallon, and
 
@@ -216,19 +226,39 @@ For purposes of paragraph (4), the term “nonprofit educational organization”
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (a)(1)(C)(iii)(I). Pub. L. 114–94, § 31102(a)(1)(A), substituted “September 30, 2022” for “September 30, 2016”.
+
+Subsec. (a)(2)(B)(ii). Pub. L. 114–41, § 2008(a)(1), added cl. (ii). Former cl. (ii) redesignated (iii).
+
+Subsec. (a)(2)(B)(iii). Pub. L. 114–41, § 2008(b)(3), struck out “liquefied natural gas,” before “any liquid fuel” and substituted “peat) and” for “peat), and”.
+
+Pub. L. 114–41, § 2008(a)(1), redesignated cl. (ii) as (iii).
+
+Subsec. (a)(2)(B)(iv). Pub. L. 114–41, § 2008(b)(1), added cl. (iv).
+
+Subsec. (a)(2)(C). Pub. L. 114–41, § 2008(a)(2), added subpar. (C).
+
+Subsec. (a)(2)(D). Pub. L. 114–41, § 2008(b)(2), added subpar. (D).
+
+Subsec. (a)(3)(D). Pub. L. 114–41, § 2008(c), added subpar. (D).
+
+Subsec. (m)(1)(A). Pub. L. 114–94, § 31102(a)(2)(A), substituted “October 1, 2022” for “October 1, 2016” in introductory provisions.
+
+Subsec. (m)(1)(B). Pub. L. 114–94, § 31102(a)(1)(B), substituted “September 30, 2022” for “September 30, 2016” in introductory provisions.
+
 2012—Subsec. (a)(1)(C)(iii)(I). Pub. L. 112–141, § 40102(a)(1)(A), substituted “September 30, 2016” for “June 30, 2012”.
 
 Pub. L. 112–140, §§ 1(c), 402(a)(1)(A), temporarily substituted “July 6, 2012” for “June 30, 2012”. See Effective and Termination Dates of 2012 Amendment note below.
 
 Pub. L. 112–102, § 402(a)(1)(A), substituted “June 30, 2012” for “March 31, 2012”.
 
-Subsec. (m)(1)(A). Pub. L. 112–141, § 40102(a)(2)(A), substituted “October 1, 2016” for “July 1, 2012”.
+Subsec. (m)(1)(A). Pub. L. 112–141, § 40102(a)(2)(A), substituted “October 1, 2016” for “July 1, 2012” in introductory provisions.
 
 Pub. L. 112–140, §§ 1(c), 402(a)(2)(A), temporarily substituted “July 7, 2012” for “July 1, 2012” in introductory provisions. See Effective and Termination Dates of 2012 Amendment note below.
 
 Pub. L. 112–102, § 402(a)(2)(A), substituted “July 1, 2012” for “April 1, 2012” in introductory provisions.
 
-Subsec. (m)(1)(B). Pub. L. 112–141, § 40102(a)(1)(B), substituted “September 30, 2016” for “June 30, 2012”.
+Subsec. (m)(1)(B). Pub. L. 112–141, § 40102(a)(1)(B), substituted “September 30, 2016” for “June 30, 2012” in introductory provisions.
 
 Pub. L. 112–140, §§ 1(c), 402(a)(1)(B), temporarily substituted “July 6, 2012” for “June 30, 2012” in introductory provisions. See Effective and Termination Dates of 2012 Amendment note below.
 
@@ -686,6 +716,11 @@ Subsec. (d). Act Apr. 2, 1956, added subsec. (d).
 
 1955—Subsec. (c). Act Mar. 30, 1955, substituted “April 1, 1956” for “April 1, 1955”.
 
+#### Effective Date of 2015 Amendment
+Pub. L. 114–94, div. C, title XXXI, § 31102(f), Dec. 4, 2015, 129 Stat. 1728, provided that: “The amendments made by this section [amending this section and sections 4051, 4071, 4081, 4221, 4481 to 4483, 6412, and 9503 of this title and [section 200310 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200310&num=0&edition=prelim), National Park Service and Related Programs] shall take effect on October 1, 2016.”
+
+Pub. L. 114–41, title II, § 2008(d), July 31, 2015, 129 Stat. 460, provided that: “The amendments made by this section [amending this section] shall apply to any sale or use of fuel after December 31, 2015.”
+
 #### Effective and Termination Dates of 2012 Amendment
 Pub. L. 112–141, div. D, title I, § 40102(f), July 6, 2012, 126 Stat. 845, provided that: “Except as otherwise provided in this section, the amendments made by this section [amending this section, sections 4051, 4071, 4081, 4221, 4481 to 4483, 6412, and 9503 of this title, and former section 460l–11 of Title 16, Conservation] shall take effect on July 1, 2012.”
 
@@ -1086,7 +1121,7 @@ Pub. L. 112–95, title XI, § 1103(d)(1), Feb. 14, 2012, 126 Stat. 151, provide
 
 (3) **Installers secondarily liable for tax** — The owners of the trade or business installing the parts or accessories shall be secondarily liable for the tax imposed by paragraph (1).
 
-**(c) Termination** On and after October 1, 2016, the taxes imposed by this section shall not apply.
+**(c) Termination** On and after October 1, 2022, the taxes imposed by this section shall not apply.
 
 **(d) Credit against tax for tire tax** If—
 
@@ -1101,6 +1136,8 @@ there shall be allowed as a credit against the tax imposed by this subchapter an
 A prior section 4051, act Aug. 16, 1954, ch. 736, 68A Stat. 479, defined the price for which articles were sold for purposes of determining retailers excise taxes, prior to repeal by Pub. L. 94–455, title XIX, § 1904(a)(1)(D), Oct. 4, 1976, 90 Stat. 1811.
 
 #### Amendments
+2015—Subsec. (c). Pub. L. 114–94 substituted “October 1, 2022” for “October 1, 2016”.
+
 2012—Subsec. (c). Pub. L. 112–141 substituted “October 1, 2016” for “July 1, 2012”.
 
 Pub. L. 112–140, §§ 1(c), 402(a)(2)(B), temporarily substituted “July 7, 2012” for “July 1, 2012”. See Effective and Termination Dates of 2012 Amendment note below.
@@ -1136,6 +1173,9 @@ Subsec. (d)(3). Pub. L. 99–514, § 1877(c), inserted at end “No tax shall be
 1984—Subsec. (b)(3). Pub. L. 98–369, § 734(g), substituted “The owners of the trade or business installing the parts or accessories shall be secondarily liable for the tax imposed by paragraph (1)” for “In addition to the owner, lessee, or operator of the vehicle, the owner of the trade or business installing the part or accessory shall be liable for the tax imposed by paragraph (1)”.
 
 Subsecs. (d), (e). Pub. L. 98–369, § 921, added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective and Termination Dates of 2012 Amendment
 Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).

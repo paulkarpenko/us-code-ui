@@ -107,7 +107,7 @@ Section was formerly classified to [section 15301 of Title 42](https://uscode.ho
 
   (D) such other information and certifications as the Administrator may require which are necessary for the administration of the program.
 
-(2) **Compliance of states that require changes to State law** — In the case of a State that requires State legislation to carry out an activity covered by any certification submitted under this subsection, the State shall be permitted to make the certification notwithstanding that the legislation has not been enacted at the time the certification is submitted and such State shall submit an additional certification once such legislation is enacted.
+(2) **Compliance of States that require changes to State law** — In the case of a State that requires State legislation to carry out an activity covered by any certification submitted under this subsection, the State shall be permitted to make the certification notwithstanding that the legislation has not been enacted at the time the certification is submitted and such State shall submit an additional certification once such legislation is enacted.
 
 **(c) Amount of payment**
 
@@ -2161,7 +2161,7 @@ Section was formerly classified to [section 15534 of Title 42](https://uscode.ho
 
 
 <a id="section-21141"></a>
-## § 21141. State defined
+## § 21141. “State” defined
 
 In this chapter, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, and the United States Virgin Islands.
 

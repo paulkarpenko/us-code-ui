@@ -27,7 +27,7 @@ source: >-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 104901 | [16 U.S.C. 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section16&num=0&edition=prelim) | Apr. 18, 1930, ch. 187, 46 Stat. 219. |
+| 104901 | [16 U.S.C. 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section16&num=0&edition=prelim). | Apr. 18, 1930, ch. 187, 46 Stat. 219. |
 
 
 <a id="section-104902"></a>
@@ -40,7 +40,7 @@ The Secretary may contract for services or other accommodations provided in Syst
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 104902 | [16 U.S.C. 17b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17b&num=0&edition=prelim) | May 26, 1930, ch. 324, § 3, 46 Stat. 382. |
+| 104902 | [16 U.S.C. 17b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17b&num=0&edition=prelim). | May 26, 1930, ch. 324, § 3, 46 Stat. 382. |
 
 
 <a id="section-104903"></a>
@@ -53,7 +53,7 @@ The Secretary may provide, out of amounts appropriated for the general expenses 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 104903 | [16 U.S.C. 17e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17e&num=0&edition=prelim) | May 26, 1930, ch. 324, § 6, 46 Stat. 382. |
+| 104903 | [16 U.S.C. 17e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17e&num=0&edition=prelim). | May 26, 1930, ch. 324, § 6, 46 Stat. 382. |
 
 
 <a id="section-104904"></a>
@@ -66,7 +66,7 @@ The Secretary may hire, with or without personal services, work animals and anim
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 104904 | [16 U.S.C. 17i](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17i&num=0&edition=prelim) | May 26, 1930, ch. 324, § 10, 46 Stat. 383. |
+| 104904 | [16 U.S.C. 17i](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17i&num=0&edition=prelim). | May 26, 1930, ch. 324, § 10, 46 Stat. 383. |
 
 The word “Secretary” is substituted for “National Park Service” to reflect the transfer of functions of other officers, employees, and agencies of the Department of the Interior to the Secretary by sections 1 and 2 of Reorganization Plan No. 3 of 1950 (5 U.S.C. App.). The reference to [section 16 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section16&num=0&edition=prelim) is omitted as obsolete because section 3744 of the Revised Statutes, classified to [41 U.S.C. 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section16&num=0&edition=prelim), was repealed by the Act of October 21, 1941 (ch. 452, 55 Stat. 743).
 
@@ -81,7 +81,7 @@ The Secretary shall prepare mats that may be used for the reproduction in magazi
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 104905 | [16 U.S.C. 458a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section458a&num=0&edition=prelim) | Aug. 27, 1940, ch. 690, § 1, 54 Stat. 861. |
+| 104905 | [16 U.S.C. 458a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section458a&num=0&edition=prelim). | Aug. 27, 1940, ch. 690, § 1, 54 Stat. 861. |
 
 
 <a id="section-104906"></a>
@@ -121,7 +121,7 @@ The Secretary shall prepare mats that may be used for the reproduction in magazi
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 104906 | [16 U.S.C. 1a–7b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–7b&num=0&edition=prelim) (relating to National Park System) | Pub. L. 111–24, title V, § 512 (relating to National Park System), May 22, 2009, 123 Stat. 1764. |
+| 104906 | [16 U.S.C. 1a–7b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–7b&num=0&edition=prelim) (relating to National Park System). | Pub. L. 111–24, title V, § 512 (relating to National Park System), May 22, 2009, 123 Stat. 1764. |
 
 In subsection (a)(5)(B)(i), the words “the Obama administration” are substituted for “the administration” for clarity.
 
@@ -136,6 +136,6 @@ No extension or establishment of national parks in Wyoming may be undertaken exc
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 104907 | [16 U.S.C. 451a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section451a&num=0&edition=prelim) | Sept. 14, 1950, ch. 950, § 1 (proviso relating to national parks), 64 Stat. 849. |
+| 104907 | [16 U.S.C. 451a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section451a&num=0&edition=prelim). | Sept. 14, 1950, ch. 950, § 1 (proviso relating to national parks), 64 Stat. 849. |
 
 The word “further” is omitted as obsolete.

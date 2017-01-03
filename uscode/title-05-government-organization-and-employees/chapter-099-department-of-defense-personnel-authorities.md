@@ -119,7 +119,7 @@ Pub. L. 108–136, div. A, title XI, § 1101(b), Nov. 24, 2003, 117 Stat. 1633, 
 
 (7) develop appropriate procedures for warnings during performance evaluations for employees who fail to meet performance standards;
 
-(8) utilize the annual strategic workforce plan, required by [section 115b of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section115b&num=0&edition=prelim); and
+(8) utilize the annual strategic workforce plan, required by section 115b 11 See References in Text note below. of title 10; and
 
 (9) ensure that adequate agency resources are allocated for the design, implementation, and administration of such system.
 
@@ -273,6 +273,8 @@ Pub. L. 108–136, div. A, title XI, § 1101(b), Nov. 24, 2003, 117 Stat. 1633, 
 ### Statutory Notes
 
 #### References in Text
+[Section 115b of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section115b&num=0&edition=prelim), referred to in subsec. (c)(8), was repealed by Pub. L. 114–328, div. A, title XI, § 1102(a), Dec. 23, 2016, 130 Stat. 2444.
+
 The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (f)(2)(A), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, which is set out as a note under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim), Armed Forces. For complete classification of this Act to the Code, see Tables.
 
 The date of the enactment of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (f)(6)(B), is the date of enactment of Pub. L. 103–226, which was approved Mar. 30, 1994.
@@ -312,6 +314,9 @@ Pub. L. 111–383, div. A, title XI, § 1101(d), Jan. 7, 2011, 124 Stat. 4382, p
 
 #### References to Pub. L. 111–383
 Pub. L. 111–383, § 1(b), Jan. 7, 2011, 124 Stat. 4137, provided that: “Any reference in this or any other Act to the ‘National Defense Authorization Act for Fiscal Year 2011’ shall be deemed to refer to the ‘Ike Skelton National Defense Authorization Act for Fiscal Year 2011’.”
+
+#### Temporary Increase in Maximum Amount of Voluntary Separation Incentive Pay Authorized for Civilian Employees of the Department of Defense
+Pub. L. 114–328, div. A, title XI, § 1107, Dec. 23, 2016, 130 Stat. 2448, provided that: “During the period beginning on the date of enactment of this Act [Dec. 23, 2016] and ending on September 30, 2018, [section 9902(f)(5)(A)(ii) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section9902/f/5/A/ii&num=0&edition=prelim), United States Code, shall be applied by substituting ‘an amount determined by the Secretary, not to exceed $40,000’ for ‘$25,000’.”
 
 #### Reports on Performance Management System and Appointment Procedures
 Pub. L. 112–81, div. A, title XI, § 1102(b), Dec. 31, 2011, 125 Stat. 1611, provided that: “(1) The Secretary of Defense shall submit to the covered committees—“(A) no later than 12 months after the date of enactment of this Act [Dec. 31, 2011] and semiannually thereafter until fully implemented—“(i) a plan for the personnel management system, as authorized by [section 9902(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section9902/a&num=0&edition=prelim), United States Code (as amended by section 1101(a)); and “(ii) progress reports on the design and implementation of the personnel management system (as described in subparagraph (A)); and “(B) no later than 12 months after the date of enactment of this Act and semiannually thereafter until fully implemented—“(i) a plan for the appointment procedures, as authorized by section 9902(b) of such title 5 (as amended by section 1101(b)); and “(ii) progress reports on the design and implementation of the appointment procedures (as described in subparagraph (A)). “(2) Implementation of a plan described in paragraph (1)(B) may not commence before the 90th day after the date on which such plan is submitted under this subsection to the covered committees. “(3) For the purposes of this subsection, the term ‘covered committees’ means—“(A) the Committees on Armed Services of the Senate and the House of Representatives; “(B) the Committee on Homeland Security and Governmental Affairs of the Senate; and “(C) the Committee on Oversight and Government Reform of the House of Representatives.”

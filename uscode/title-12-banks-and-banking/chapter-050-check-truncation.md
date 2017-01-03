@@ -148,6 +148,9 @@ For purposes of this chapter, the following definitions shall apply:
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001) and Tables.
 
+#### Effective Date
+Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001).
+
 
 <a id="section-5003"></a>
 ## § 5003. General provisions governing substitute checks
@@ -170,6 +173,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 #### References in Text
 This chapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001) and Tables.
 
+#### Effective Date
+Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001).
+
 
 <a id="section-5004"></a>
 ## § 5004. Substitute check warranties
@@ -179,6 +185,11 @@ A bank that transfers, presents, or returns a substitute check and receives cons
 (1) the substitute check meets all the requirements for legal equivalence under [section 5003(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5003/b&num=0&edition=prelim); and
 
 (2) no depositary bank, drawee, drawer, or endorser will receive presentment or return of the substitute check, the original check, or a copy or other paper or electronic version of the substitute check or original check such that the bank, drawee, drawer, or endorser will be asked to make a payment based on a check that the bank, drawee, drawer, or endorser has already paid.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001).
 
 
 <a id="section-5005"></a>
@@ -223,6 +234,9 @@ A bank that transfers, presents, or returns a substitute check and receives cons
 
 #### References in Text
 This chapter, referred to in subsec. (d)(2), was in the original “this Act”, meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001) and Tables.
+
+#### Effective Date
+Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001).
 
 
 <a id="section-5006"></a>
@@ -355,6 +369,11 @@ This chapter, referred to in subsec. (d)(2), was in the original “this Act”,
 
 **(i) Scope of application** This section shall only apply to customers who are consumers.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001).
+
 
 <a id="section-5007"></a>
 ## § 5007. Expedited recredit procedures for banks
@@ -418,6 +437,11 @@ This chapter, referred to in subsec. (d)(2), was in the original “this Act”,
 
 **(d) Production of original check or a sufficient copy governed by section 5005(d)** If the indemnifying bank provides the claimant bank with the original check or a copy of the original check (including an image or a substitute check) under subsection (c)(1)(A), [section 5005(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5005/d&num=0&edition=prelim) shall govern any right of the indemnifying bank to any repayment of any funds the indemnifying bank has recredited to the claimant bank pursuant to subsection (c).
 
+### Statutory Notes
+
+#### Effective Date
+Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001).
+
 
 <a id="section-5008"></a>
 ## § 5008. Delays in an emergency
@@ -428,6 +452,9 @@ A delay by a bank beyond the time limits prescribed or permitted by this chapter
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001) and Tables.
+
+#### Effective Date
+Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001).
 
 
 <a id="section-5009"></a>
@@ -457,6 +484,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 #### References in Text
 This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001) and Tables.
 
+#### Effective Date
+Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001).
+
 
 <a id="section-5010"></a>
 ## § 5010. Statute of limitations and notice of claim
@@ -474,6 +504,9 @@ This chapter, referred to in subsec. (a)(1), was in the original “this Act”,
 
 #### References in Text
 This chapter, referred to in subsecs. (a)(1), (b), was in the original “this Act”, meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001) and Tables.
+
+#### Effective Date
+Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001).
 
 
 <a id="section-5011"></a>
@@ -517,6 +550,9 @@ The effective date of this chapter, referred to in subsec. (b)(1), is at the end
 
 This chapter, referred to in subsec. (c)(2)(B), was in the original “this Act”, meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001) and Tables.
 
+#### Effective Date
+Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001).
+
 
 <a id="section-5012"></a>
 ## § 5012. Effect on other law
@@ -527,6 +563,9 @@ This chapter shall supersede any provision of Federal or State law, including th
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001) and Tables.
+
+#### Effective Date
+Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001).
 
 
 <a id="section-5013"></a>
@@ -540,6 +579,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 #### References in Text
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001) and Tables.
 
+#### Effective Date
+Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001).
+
 
 <a id="section-5014"></a>
 ## § 5014. Regulations
@@ -550,6 +592,9 @@ The Board may prescribe such regulations as the Board determines to be necessary
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001) and Tables.
+
+#### Effective Date
+Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001).
 
 
 <a id="section-5015"></a>
@@ -575,11 +620,19 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 The effective date of this chapter, referred to in subsec. (b), is at the end of the 12-month period beginning on Oct. 28, 2003, except as otherwise specifically provided in this chapter, see section 20 of Pub. L. 108–100, set out as an Effective Date note under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001).
 
+#### Effective Date
+Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001).
+
 
 <a id="section-5016"></a>
 ## § 5016. Statistical reporting of costs and revenues for transporting checks between reserve banks
 
 In the annual report prepared by the Board for the first full calendar year after October 28, 2003, and in each of the 9 subsequent annual reports by the Board, the Board shall include the amount of operating costs attributable to, and an estimate of the Federal Reserve banks’ imputed revenues derived from, the transportation of commercial checks between Federal Reserve bank check processing centers.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001).
 
 
 <a id="section-5017"></a>
@@ -598,6 +651,9 @@ In the annual report prepared by the Board for the first full calendar year afte
 
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001) and Tables.
+
+#### Effective Date
+Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under [section 5001 of this title](./chapter-050-check-truncation.md#section-5001).
 
 
 <a id="section-5018"></a>

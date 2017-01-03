@@ -24,7 +24,7 @@ source: >-
 
   (E) In the case of a grade below the grade of lieutenant general or vice admiral, the number of members of one of the armed forces in that grade for whom a reduction is made during any fiscal year in the period of service-in-grade otherwise required under this paragraph may not exceed (i) the number equal to two percent of the authorized active-duty strength for that fiscal year for officers of that armed force in that grade or (ii) in the case of officers of that armed force in a grade specified in subparagraph (G), two officers, whichever number is greater.
 
-  (F) Notwithstanding subparagraph (E), during fiscal years 2013 through 2018, the number of lieutenant colonels and colonels of the Army, Air Force, and Marine Corps, and the number of commanders and captains of the Navy, for whom a reduction is made under this section during any fiscal year of service-in-grade otherwise required under this paragraph may not exceed four percent of the authorized active-duty strength for that fiscal year for officers of that armed force in that grade.
+  (F) Notwithstanding subparagraph (E), during fiscal years 2013 through 2025, the number of lieutenant colonels and colonels of the Army, Air Force, and Marine Corps, and the number of commanders and captains of the Navy, for whom a reduction is made under this section during any fiscal year of service-in-grade otherwise required under this paragraph may not exceed four percent of the authorized active-duty strength for that fiscal year for officers of that armed force in that grade.
 
   (G) Notwithstanding subparagraph (E), during fiscal years 2013 through 2017, the total number of brigadier generals and major generals of the Army, Air Force, and Marine Corps, and the total number of rear admirals (lower half) and rear admirals of the Navy, for whom a reduction is made under this section during any fiscal year of service-in-grade otherwise required under this paragraph may not exceed 10 percent of the authorized active-duty strength for that fiscal year for officers of that armed force in those grades.
 
@@ -97,6 +97,8 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a)(2)(F). Pub. L. 114–328 substituted “2025” for “2018”.
+
 2013—Subsec. (a)(2)(E). Pub. L. 112–239, § 507(1), inserted “(i)” after “exceed” and “or (ii) in the case of officers of that armed force in a grade specified in subparagraph (G), two officers, whichever number is greater” before period at end.
 
 Subsec. (a)(2)(F). Pub. L. 112–239, § 506, substituted “fiscal years 2013 through 2018” for “the period ending on December 31, 2007” and “Army, Air Force, and Marine Corps” for “Air Force” and struck out “in the period” after “any fiscal year”.
@@ -189,7 +191,7 @@ For provisions relating to the time-in-grade requirement for voluntary retiremen
 <a id="section-1371"></a>
 ## § 1371. Warrant officers: general rule
 
-Unless entitled to a higher retired grade under some other provision of law, a warrant officer retires, as determined by the Secretary concerned, in the permanent regular or reserve warrant officer grade, if any, that he held on the day before the date of his retirement, or in any higher warrant officer grade in which he served on active duty satisfactorily, as determined by the Secretary, for a period of more than 30 days.
+Unless entitled to a higher retired grade under some other provision of law, a warrant officer shall be retired in the highest regular or reserve warrant officer grade in which the warrant officer served satisfactorily, as determined by the Secretary concerned.
 
 ### Statutory Notes
 
@@ -200,6 +202,9 @@ Unless entitled to a higher retired grade under some other provision of law, a w
 |  | 34:430(f) (1st sentence, as applicable to retired grade). |  |
 
 The first 13 words are substituted for 10:600l(f) (1st sentence, as applicable to retired grade) and 34:430 (1st sentence, as applicable to retired grade). The words “for a period of more than 30 days” are substituted for the words “under * * * orders specifying that the period of such duty shall be for a period in excess of thirty days or for an indefinite period”, to conform to the definition of those words in [section 101(23) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/23&num=0&edition=prelim). The words “any full time duty” are omitted, since the duty specified would necessarily be full time duty. The words “under this section” and “competent” are omitted as surplusage.
+
+#### Amendments
+2015—Pub. L. 114–92 amended section generally. Prior to amendment, text read as follows: “Unless entitled to a higher retired grade under some other provision of law, a warrant officer retires, as determined by the Secretary concerned, in the permanent regular or reserve warrant officer grade, if any, that he held on the day before the date of his retirement, or in any higher warrant officer grade in which he served on active duty satisfactorily, as determined by the Secretary, for a period of more than 30 days.”
 
 #### Public Health Service
 Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see [section 213a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section213a&num=0&edition=prelim), The Public Health and Welfare.
@@ -293,7 +298,7 @@ The Secretary concerned shall maintain a temporary disability retired list conta
 
 In subsection (a), the word “maintained” is substituted for the word “established”, and in subsection (b), the word “maintain” is substituted for the word “established”, since the lists have been established and are published annually.
 
-In subsection (a), the words “who are in the Retired Reserve” are substituted for 50:927(a) (last 11 words), since [section 271 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section271&num=0&edition=prelim) prescribes the conditions for being placed in the Retired Reserve. 50:927(b) (last sentence) is omitted, since the revised section provides that both lists be maintained.
+In subsection (a), the words “who are in the Retired Reserve” are substituted for 50:927(a) (last 11 words), since [section 271 of this title](./chapter-015-military-support-for-civilian-law-enforcement-agencies.md#section-271) prescribes the conditions for being placed in the Retired Reserve. 50:927(b) (last sentence) is omitted, since the revised section provides that both lists be maintained.
 
 In subsection (b), the words “containing the names placed thereon under section 1202 or 1205 of this title” are substituted for the words “upon which shall be placed the names of all members of his service entitled to such placement pursuant to the provisions of this subchapter”.
 

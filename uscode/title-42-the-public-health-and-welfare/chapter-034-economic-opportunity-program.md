@@ -171,7 +171,7 @@ Amendment by Pub. L. 95–222 effective Dec. 28, 1977, see section 17(b) of Pub.
 
 (9) to provide legal assistance with respect to any proceeding or litigation relating to the desegregation of any elementary or secondary school or school system, except that nothing in this paragraph shall prohibit the provision of legal advice to an eligible client with respect to such client’s legal rights and responsibilities;
 
-(10) to provide legal assistance with respect to any proceeding or litigation arising out of a violation of the Military Selective Service Act [50 U.S.C. App. 451 et seq.] or of desertion from the Armed Forces of the United States, except that legal assistance may be provided to an eligible client in a civil action in which such client alleges that he was improperly classified prior to July 1, 1973, under the Military Selective Service Act or prior corresponding law; or
+(10) to provide legal assistance with respect to any proceeding or litigation arising out of a violation of the Military Selective Service Act [[50 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) et seq.] or of desertion from the Armed Forces of the United States, except that legal assistance may be provided to an eligible client in a civil action in which such client alleges that he was improperly classified prior to July 1, 1973, under the Military Selective Service Act or prior corresponding law; or
 
 (11) to provide legal assistance in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997 [[42 U.S.C. 14401](./chapter-138-assisted-suicide-funding-restriction.md#section-14401) et seq.].
 
@@ -201,7 +201,7 @@ have special difficulties of access to legal services or special legal problems 
 ### Statutory Notes
 
 #### References in Text
-The Military Selective Service Act, referred to in subsec. (b)(10), is act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under [section 451 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section451&num=0&edition=prelim), Appendix and Tables.
+The Military Selective Service Act, referred to in subsec. (b)(10), is act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (b)(11), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§ 14401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 14401 of this title](./chapter-138-assisted-suicide-funding-restriction.md#section-14401) and Tables.
 
@@ -541,7 +541,7 @@ Subchapters I to VII, and IX of this chapter, referred to in subsecs. (a)(1) and
 Section was enacted as part of the Headstart, Economic Opportunity, and Community Partnership Act of 1974, and not as part of the Economic Opportunity Act of 1964 which comprises this chapter.
 
 #### Amendments
-1976—Subsec. (a)(2). Pub. L. 94–341, § 3(d)(1), inserted “of such Act” after “section 221”.
+1976—Subsec. (a)(2). Pub. L. 94–341, § 3(d)(1), inserted “of this title” after “section 2808”.
 
 Subsec. (c). Pub. L. 94–341, § 3(d)(2), added subsec. (c).
 
@@ -677,618 +677,48 @@ Pub. L. 93–203, title VI, § 614, Dec. 28, 1973, 87 Stat. 883, provided that t
 
 
 <a id="section-2757"></a>
-## § 2757. Purpose; appropriations authorized
-**(a) Purpose** The purpose of this part is to stimulate and promote the part-time employment of students who are enrolled as undergraduate, graduate, or professional students and who are in need of earnings from employment to pursue courses of study at eligible institutions, and to encourage students receiving Federal student financial assistance to participate in community service activities that will benefit the Nation and engender in the students a sense of social responsibility and commitment to the community.
-
-**(b) Authorization of appropriations** There are authorized to be appropriated to carry out this part, such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
-
-**(c) “Community services” defined** For purposes of this part, the term “community services” means services which are identified by an institution of higher education, through formal or informal consultation with local nonprofit, governmental, and community-based organizations, as designed to improve the quality of life for community residents, particularly low-income individuals, or to solve particular problems related to their needs, including—
-
-(1) such fields as health care, child care (including child care services provided on campus that are open and accessible to the community), literacy training, education (including tutorial services), welfare, social services, transportation, housing and neighborhood improvement, public safety, emergency preparedness and response, crime prevention and control, recreation, rural development, and community improvement;
-
-(2) work in a project, as defined in section 12511(20) 11 See References in Text note below. of this title;
-
-(3) support services to students with disabilities, including students with disabilities who are enrolled at the institution; and
-
-(4) activities in which a student serves as a mentor for such purposes as—
-
-  (A) tutoring;
-
-  (B) supporting educational and recreational activities; and
-
-  (C) counseling, including career counseling.
+## § 2757. Transferred
 
 ### Statutory Notes
 
-#### References in Text
-[Section 12511(20) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12511/20&num=0&edition=prelim), referred to in subsec. (c)(2), was redesignated section 12511(35) by Pub. L. 111–13, title I, § 1102(b)(1), Apr. 21, 2009, 123 Stat. 1467.
-
 #### Codification
-Section was originally enacted as section 121 of the Economic Opportunity Act of 1964, Pub. L. 88–452, title I, Aug. 20, 1964, 78 Stat. 513. As such, it had been amended by Pub. L. 89–329, title IV, § 441(2), Nov. 8, 1965, 79 Stat. 1249, and renumbered section 141 by Pub. L. 90–222, title I, § 111(a), Dec. 23, 1967, 81 Stat. 726.
-
-Under Pub. L. 90–575, title I, § 131(a), Oct. 16, 1968, 82 Stat. 1028, section was transferred along with the remainder of part C of title I of the Economic Opportunity Act of 1964, Pub. L. 88–452, and inserted as Part C of title IV of the Higher Education Act of 1965, Pub. L. 89–329. Former Part C of title IV of Pub. L. 89–329, as originally enacted, comprising sections 441 and 442 thereof, was stricken to accommodate the transferal but the amendment of this section by section 441(2) of Pub. L. 89–329 has not been stricken. For amendment of section in addition to the transfers and redesignations treated above, see 1968 Amendment note below.
-
-#### Prior Provisions
-A prior section 441 of Pub. L. 89–329 amended this section and sections 2752 to 2756 and 2761 of this title, prior to repeal by section 131(a) of Pub. L. 90–575.
-
-#### Amendments
-2008—Subsec. (b). Pub. L. 110–315, § 441(1), substituted “such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years” for “$1,000,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
-
-Subsec. (c)(1). Pub. L. 110–315, § 441(2), inserted “emergency preparedness and response,” after “public safety,”.
-
-1998—Subsec. (b). Pub. L. 105–244, § 441(a), substituted “$1,000,000,000 for fiscal year 1999” for “$800,000,000 for fiscal year 1993”.
-
-Subsec. (c)(1). Pub. L. 105–244, § 441(b)(1), inserted “(including child care services provided on campus that are open and accessible to the community)” after “child care”.
-
-Subsec. (c)(3). Pub. L. 105–244, § 441(b)(2), inserted “, including students with disabilities who are enrolled at the institution” before the semicolon.
-
-1993—Subsec. (c)(2). Pub. L. 103–82 substituted “a project, as defined in [section 12511(20) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12511/20&num=0&edition=prelim)” for “service opportunities or youth corps as defined in [section 12511 of this title](./chapter-129-national-and-community-service.md#section-12511), and service in the agencies, institutions and activities designated in [section 12544(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12544/a&num=0&edition=prelim)”.
-
-1992—Subsec. (a). Pub. L. 102–325, § 441(b), inserted before period at end “, and to encourage students receiving Federal student financial assistance to participate in community service activities that will benefit the Nation and engender in the students a sense of social responsibility and commitment to the community”.
-
-Subsec. (b). Pub. L. 102–325, § 441(c), amended subsec. (b) generally, substituting present provisions for former provisions which authorized appropriations for fiscal years 1987 to 1991.
-
-Subsec. (c). Pub. L. 102–325, § 441(d), added subsec. (c).
-
-1986—Pub. L. 99–498 amended section generally. Prior to amendment, section read as follows:
-
-“(a) The purpose of this part is to stimulate and promote the part-time employment of students, particularly students who are in need of earnings from employment to pursue courses of study at eligible institutions.
-
-“(b) There are authorized to be appropriated for carrying out this part $670,000,000 for fiscal year 1981, $720,000,000 for fiscal year 1982, $760,000,000 for fiscal year 1983, $800,000,000 for fiscal year 1984, and $830,000,000 for fiscal year 1985.”
-
-1980—Subsec. (a). Pub. L. 96–374 substituted “particularly students who are in need of earnings from employment to pursue courses of study at eligible institutions” for “particularly students with great financial need, in eligible institutions who are in need of the earnings from such employment to pursue courses of study at such institutions”.
-
-Subsec. (b). Pub. L. 96–374 substituted provisions authorizing appropriations for fiscal years 1981, 1982, 1983, 1984, and 1985 for provisions that had authorized appropriations for fiscal year 1969 through fiscal year 1982.
-
-1976—Subsec. (b). Pub. L. 94–482 inserted provisions authorizing appropriations for fiscal year ending June 30, 1976, through fiscal year ending Sept. 30, 1982.
-
-1972—Subsec. (a). Pub. L. 92–318, § 135, substituted “with great financial need” for “from low-income families”.
-
-Subsec. (b). Pub. L. 92–318, § 135A(a), authorized appropriations of $330,000,000, $360,000,000, $390,000,000, and $420,000,000 for fiscal years ending June 30, 1972, 1973, 1974, and 1975, respectively.
-
-1969—Subsec. (b). Pub. L. 91–95 increased general authorization of appropriations for fiscal years ending June 30, 1970, and June 30, 1971.
-
-1968—Subsec. (a). Pub. L. 90–575, §§ 132, 133(a), designated existing provisions as subsec. (a) and substituted “eligible institutions” for “institutions of higher education”.
-
-Subsec. (b). Pub. L. 90–575, § 132, added subsec. (b).
-
-#### Effective Date of 1998 Amendment
-Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
-
-#### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
-
-#### Effective Date of 1992 Amendment
-Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
-
-#### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub. L. 96–374, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
-
-#### Effective Date of 1976 Amendment
-Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, for those amendments providing for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
-
-#### Effective Date of 1972 Amendment
-Pub. L. 92–318, title I, § 135A(b), June 23, 1972, 86 Stat. 270, provided that: “The amendment made by subsection (a) [amending this section] shall be effective after June 30, 1971.”
-
-#### References to Part C of Title I of the Economic Opportunity Act of 1964
-Pub. L. 90–575, title I, § 131(c), Oct. 16, 1968, 82 Stat. 1028, provided that: “Any reference to any provision of part C of title I of the Economic Opportunity Act of 1964 in any law of the United States shall be deemed to be a reference to the corresponding provision of part C of title IV of the Higher Education Act of 1965 as amended by this section [this part].”
+Section 2751, originally enacted as section 121 of Pub. L. 88–452, was renumbered section 441 of Pub. L. 89–329 and transferred to [section 1087–51 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087–51&num=0&edition=prelim), Education.
 
 
 <a id="section-2761-2762"></a>
-## § 2761, 2762. Allocation of funds
-**(a) Allocation based on previous allocation**
-
-(1) From the amount appropriated pursuant to [section 2751(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751/b&num=0&edition=prelim) for each fiscal year, the Secretary shall first allocate to each eligible institution for each succeeding fiscal year, an amount equal to 100 percent of the amount such institution received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year).
-
-(2)
-
-  (A) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this part after fiscal year 1999 but is not a first or second time participant, an amount equal to the greater of—
-
-    (i) $5,000; or
-
-    (ii) 90 percent of the amount received and used under this part for the first year it participated in the program.
-
-  (B) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this part after fiscal year 1999 and is a first or second time participant, an amount equal to the greatest of—
-
-    (i) $5,000;
-
-    (ii) an amount equal to (I) 90 percent of the amount received and used under this part in the second preceding fiscal year by eligible institutions offering comparable programs of instruction, divided by (II) the number of students enrolled at such comparable institutions in such fiscal year, multiplied by (III) the number of students enrolled at the applicant institution in such fiscal year; or
-
-    (iii) 90 percent of the institution’s allocation under this part for the preceding fiscal year.
-
-  (C) Notwithstanding subparagraphs (A) and (B) of this paragraph, the Secretary shall allocate to each eligible institution which—
-
-    (i) was a first-time participant in the program in fiscal year 2000 or any subsequent fiscal year, and
-
-    (ii) received a larger amount under this subsection in the second year of participation,
-    an amount equal to 90 percent of the amount it received under this subsection in its second year of participation.
-
-(3)
-
-  (A) If the amount appropriated for any fiscal year is less than the amount required to be allocated to all institutions under paragraph (1) of this subsection, then the amount of the allocation to each such institution shall be ratably reduced.
-
-  (B) If the amount appropriated for any fiscal year is more than the amount required to be allocated to all institutions under paragraph (1) but less than the amount required to be allocated to all institutions under paragraph (2), then—
-
-    (i) the Secretary shall allot the amount required to be allocated to all institutions under paragraph (1), and
-
-    (ii) the amount of the allocation to each institution under paragraph (2) shall be ratably reduced.
-
-  (C) If additional amounts are appropriated for any such fiscal year, such reduced amounts shall be increased on the same basis as they were reduced (until the amount allocated equals the amount required to be allocated under paragraphs (1) and (2) of this subsection).
-
-(4)
-
-  (A) Notwithstanding any other provision of this section, the Secretary may allocate an amount equal to not more than 10 percent of the amount by which the amount appropriated in any fiscal year to carry out this part exceeds $700,000,000 among eligible institutions described in subparagraph (B).
-
-  (B) In order to receive an allocation pursuant to subparagraph (A) an institution shall be an eligible institution from which 50 percent or more of the Pell Grant recipients attending such eligible institution graduate or transfer to a 4-year institution of higher education.
-
-**(b) Allocation of excess based on share of excess eligible amounts**
-
-(1) From the remainder of the amount appropriated pursuant to [section 2751(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751/b&num=0&edition=prelim) after making the allocations required by subsection (a) of this section, the Secretary shall allocate to each eligible institution which has an excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
-
-(2) For any eligible institution, the excess eligible amount is the amount, if any, by which—
-
-  (A)
-
-    (i) the amount of that institution’s need (as determined under subsection (c) of this section), divided by (ii) the sum of the need of all institutions (as so determined), multiplied by (iii) the amount appropriated pursuant to [section 2751(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751/b&num=0&edition=prelim) for the fiscal year; exceeds
-
-  (B) the amount required to be allocated to that institution under subsection (a) of this section.
-
-**(c) Determination of institution’s need**
-
-(1) The amount of an institution’s need is equal to the sum of the self-help need of the institution’s eligible undergraduate students and the self-help need of the institution’s eligible graduate and professional students.
-
-(2) To determine the self-help need of an institution’s eligible undergraduate students, the Secretary shall—
-
-  (A) establish various income categories for dependent and independent undergraduate students;
-
-  (B) establish an expected family contribution for each income category of dependent and independent undergraduate students, determined on the basis of the average expected family contribution (computed in accordance with part F of this title [[20 U.S.C. 1087kk](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087kk&num=0&edition=prelim) et seq.]) of a representative sample within each income category for the second preceding fiscal year;
-
-  (C) compute 25 percent of the average cost of attendance for all undergraduate students;
-
-  (D) multiply the number of eligible dependent students in each income category by the lesser of—
-
-    (i) 25 percent of the average cost of attendance for all undergraduate students determined under subparagraph (C); or
-
-    (ii) the average cost of attendance for all undergraduate students minus the expected family contribution determined under subparagraph (B) for that income category, except that the amount computed by such subtraction shall not be less than zero;
-
-  (E) add the amounts determined under subparagraph (D) for each income category of dependent students; and
-
-  (F) multiply the number of eligible independent students in each income category by the lesser of—
-
-    (i) 25 percent of the average cost of attendance for all undergraduate students determined under subparagraph (C); or
-
-    (ii) the average cost of attendance for all undergraduate students minus the expected family contribution determined under subparagraph (B) for that income category, except that the amount computed by such subtraction for any income category shall not be less than zero;
-
-  (G) add the amounts determined under subparagraph (F) for each income category of independent students; and
-
-  (H) add the amounts determined under subparagraphs (E) and (G).
-
-(3) To determine the self-help need of an institution’s eligible graduate and professional students, the Secretary shall—
-
-  (A) establish various income categories of graduate and professional students;
-
-  (B) establish an expected family contribution for each income category of graduate and professional students, determined on the basis of the average expected family contribution (computed in accordance with part F of this title [[20 U.S.C. 1087kk](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087kk&num=0&edition=prelim) et seq.]) of a representative sample within each income category for the second preceding fiscal year;
-
-  (C) determine the average cost of attendance for all graduate and professional students;
-
-  (D) subtract from the average cost of attendance for all graduate and professional students (determined under subparagraph (C)), the expected family contribution (determined under subparagraph (B)) for each income category, except that the amount computed by such subtraction for any income category shall not be less than zero;
-
-  (E) multiply the amounts determined under subparagraph (D) by the number of eligible students in each category; and
-
-  (F) add the amounts determined under subparagraph (E) of this paragraph for each income category.
-
-(4)
-
-  (A) For purposes of paragraphs (2) and (3), the term “average cost of attendance” means the average of the attendance costs for undergraduate students and for graduate and professional students, which shall include (i) tuition and fees determined in accordance with subparagraph (B), (ii) standard living expenses determined in accordance with subparagraph (C), and (iii) books and supplies determined in accordance with subparagraph (D).
-
-  (B) The average undergraduate and graduate and professional tuition and fees described in subparagraph (A)(i) shall be computed on the basis of information reported by the institution to the Secretary, which shall include (i) total revenue received by the institution from undergraduate and graduate tuition and fees for the second year preceding the year for which it is applying for an allocation, and (ii) the institution’s enrollment for such second preceding year.
-
-  (C) The standard living expense described in subparagraph (A)(ii) is equal to 150 percent of the difference between the income protection allowance for a family of five with one in college and the income protection allowance for a family of six with one in college for a single independent student.
-
-  (D) The allowance for books and supplies described in subparagraph (A)(iii) is equal to $600.
-
-**(d) Reallocation of excess allocations**
-
-(1) If institutions return to the Secretary any portion of the sums allocated to such institutions under this section for any fiscal year, the Secretary shall reallot such excess to eligible institutions which used at least 5 percent of the total amount of funds granted to such institution under this section to compensate students employed in tutoring in reading and family literacy activities in the preceding fiscal year. Such excess funds shall be reallotted to institutions which qualify under this subsection on the same basis as excess eligible amounts are allocated to institutions pursuant to subsection (b) of this section. Funds received by institutions pursuant to this subsection shall be used to compensate students employed in community service.
-
-(2) If, under paragraph (1) of this subsection, an institution returns more than 10 percent of its allocation, the institution’s allocation for the next fiscal year shall be reduced by the amount returned. The Secretary may waive this paragraph for a specific institution if the Secretary finds that enforcing this paragraph would be contrary to the interest of the program.
-
-**(e) Filing deadlines** The Secretary shall, from time to time, set dates before which institutions must file applications for allocations under this part.
+## § 2761, 2762. Transferred
 
 ### Statutory Notes
 
-#### References in Text
-Part F of this title, referred to in subsec. (c)(2)(B), (3)(B), means part F of title IV of Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, known as the Higher Education Act of 1965. Part F of title IV of such Act is classified generally to part E (§ 1087kk et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
-
 #### Codification
-Section was originally enacted as section 122 of the Economic Opportunity Act of 1964, Pub. L. 88–452, title I, Aug. 20, 1964, 78 Stat. 514. As such, it had been amended by Pub. L. 89–329, title IV, § 441(1), Nov. 8, 1965, 79 Stat. 1249, and renumbered section 142 by Pub. L. 90–222, title I, § 111(a), Dec. 23, 1967, 81 Stat. 726.
-
-Under Pub. L. 90–575, title I, § 131(a), Oct. 16, 1968, 82 Stat. 1028, section was transferred along with the remainder of Part C of title I of the Economic Opportunity Act of 1964, Pub. L. 88–452, and inserted as Part C of title IV of the Higher Education Act of 1965, Pub. L. 89–329. Former Part C of title IV of Pub. L. 89–329, as originally enacted, comprising sections 441 and 442 thereof, was stricken to accommodate the transferal but the amendment of this section by section 441(1) of Pub. L. 89–329 has not been stricken. For amendment of section in addition to the transfers and redesignations treated above, see 1968 Amendment note below.
-
-#### Amendments
-2008—Subsec. (c)(4)(D). Pub. L. 110–315 substituted “$600” for “$450”.
-
-1998—Subsec. (a)(1). Pub. L. 105–244, § 442(a)(1), substituted “received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year)” for “received and used under this part for fiscal year 1985”.
-
-Subsec. (a)(2)(A), (B). Pub. L. 105–244, § 442(a)(2)(A), substituted “1999” for “1985” in introductory provisions.
-
-Subsec. (a)(2)(C)(i). Pub. L. 105–244, § 442(a)(2)(B), substituted “2000” for “1986”.
-
-Subsec. (b). Pub. L. 105–244, § 442(b)(1), (2), redesignated subsec. (c) as (b), and struck out heading and text of former subsec. (b). Text read as follows: “From one-quarter of the remainder of the amount appropriated pursuant to [section 2751(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751/b&num=0&edition=prelim) for any fiscal year (after making the allocations required by subsection (a) of this section), the Secretary shall allocate to each eligible institution an amount which bears the same ratio to such one-quarter as the amount the eligible institution receives for such fiscal year under subsection (a) of this section bears to the amount all such institutions receive under such subsection (a) of this section.”
-
-Subsec. (b)(1). Pub. L. 105–244, § 442(b)(3), struck out “three-quarters of” after “From”.
-
-Subsec. (b)(2)(A)(i). Pub. L. 105–244, § 442(b)(4), substituted “subsection (c)” for “subsection (d)”.
-
-Subsec. (c). Pub. L. 105–244, § 442(b)(2), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
-
-Subsec. (c)(3). Pub. L. 105–244, § 442(b)(5), struck out “the Secretary, for academic year 1988–1989 shall use the procedures employed for academic year 1986–1987, and, for any subsequent academic years,” after “professional students,” in introductory provisions.
-
-Subsec. (d). Pub. L. 105–244, § 442(b)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
-
-Subsec. (d)(1). Pub. L. 105–244, § 442(b)(6), substituted “5 percent” for “10 percent”, “in tutoring in reading and family literacy activities in” for “in community service in”, and “subsection (b)” for “subsection (c)”.
-
-Subsecs. (e), (f). Pub. L. 105–244, § 442(b)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
-
-1993—Subsec. (d)(4)(C). Pub. L. 103–208, § 2(d)(1), substituted “150 percent of the difference between the income protection allowance for a family of five with one in college and the income protection allowance for a family of six with one in college” for “three-fourths in the Pell Grant family size offset”.
-
-Subsec. (e). Pub. L. 103–208, § 2(d)(2), designated existing provisions as par. (1) and added par. (2).
-
-1992—Subsec. (a)(4). Pub. L. 102–325, § 442(a), added par. (4).
-
-Subsec. (e). Pub. L. 102–325, § 442(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
-
-“(1) If an institution returns to the Secretary any portion of the sums allocated to such institution under this section for any fiscal year the Secretary shall reallocate such excess in accordance with paragraph (2). Any sums reallocated under this subsection may be used in accordance with [section 2755(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2755/a/2&num=0&edition=prelim).
-
-“(2) The Secretary shall reallot not to exceed 25 percent of the amount available pursuant to paragraph (1) to eligible institutions for use in initiating, improving, and expanding programs of community service-learning conducted in accordance with [section 2756a of this title](./chapter-034-economic-opportunity-program.md#section-2756a). The Secretary shall allocate the remainder of the amounts available pursuant to paragraph (1) to eligible institutions based upon the criteria described in [section 2756a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2756a/c&num=0&edition=prelim).”
-
-1987—Subsec. (e)(2). Pub. L. 100–50, substituted “not to exceed 25 percent” for “25 percent” and “[section 2756a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2756a/c&num=0&edition=prelim)” for “subsection (c) of this section”, and made technical amendment to reference to [section 2756a of this title](./chapter-034-economic-opportunity-program.md#section-2756a) to correct numerical designation of corresponding section of original act.
-
-1986—Pub. L. 99–498 amended section generally, substituting provisions relating to allocation of funds for provisions relating to allotments to States.
-
-1980—Subsec. (a). Pub. L. 96–374, §§ 432(1)–(3), 1391(a)(1), substituted “Secretary” for “Commissioner” in provisions preceding cl. (1), substituted “1 per centum” for “2 per centum” and struck out reference to Puerto Rico in cl. (1), and substituted “subsection (f) of this section” for “subsection (e) of this section” in cl. (2).
-
-Subsecs. (b)(1), (2), (c). Pub. L. 96–374, § 1391(a)(1), substituted “Secretary” for “Commissioner”.
-
-Subsec. (d). Pub. L. 96–374, §§ 432(4), 433, designated existing provisions as par. (1), inserted “except that the Secretary shall give preference for the first 50 per centum of such reallotments to eligible institutions for use for initiating, improving, and expanding programs of cooperative education in accordance with title VIII of this Act” after “this Act” and “second” after “until the close of the” and substituted “Secretary” for “Commissioner”, and added par. (2).
-
-Subsec. (e). Pub. L. 96–374, § 432(5), struck out reference to Puerto Rico.
-
-Subsec. (f). Pub. L. 96–374, § 1391(a)(1), substituted “Secretary” for “Commissioner”.
-
-1972—Subsec. (a). Pub. L. 92–318, § 135B(a)(2), substituted “Ninety per centum of the remainder” for “The remainder”.
-
-Subsecs. (c) to (f). Pub. L. 92–318, § 135B(a)(2), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
-
-1968—Subsec. (a). Pub. L. 90–575, §§ 131(b)(3), 135(a), struck out reference to reservation of an amount needed for making grants under [section 2753 of this title](./chapter-034-economic-opportunity-program.md#section-2753) and inserted reference to reservation of amount provided by subsec. (e).
-
-Subsec. (c). Pub. L. 90–575, § 133(a), substituted “eligible institution” for “institution of higher education”.
-
-Subsec. (e). Pub. L. 90–575, § 135(b), added subsec. (e).
-
-#### Effective Date of 1998 Amendment
-Pub. L. 105–244, title IV, § 442(c), Oct. 7, 1998, 112 Stat. 1712, provided that: “The amendments made by this section [amending this section] shall apply with respect to allocations of amounts appropriated pursuant to section 441(b) for fiscal year 2000 or any succeeding fiscal year.”
-
-#### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under [section 1051 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1051&num=0&edition=prelim), Education.
-
-#### Effective Date of 1992 Amendment
-Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
-
-#### Effective Date of 1987 Amendment
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
-
-#### Effective Date of 1986 Amendment
-Section 403(b)(1) of Pub. L. 99–498, as enacted by Pub. L. 100–50, § 22(c), June 3, 1987, 101 Stat. 361, provided that: “Section 442 of the Act [this section] shall apply with respect to the allocation of funds for academic year 1988–1989 and succeeding academic years.”
-
-#### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub. L. 96–374, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
-
-#### College Work-Study Allotment for Specific Fiscal Years
-Pub. L. 98–8, title I, § 100, Mar. 24, 1983, 97 Stat. 27, provided that notwithstanding subsecs. (a), (b), (c), and (e) of this section and section 11 of Public Law 97–301, set out as a note below, the Secretary should allot the sums appropriated pursuant to [section 2751(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751/b&num=0&edition=prelim) for fiscal year 1983 among the States so that each State’s allotment bore the same ratio to the total amount appropriated as that State’s allotment in fiscal year 1981 bore to the total amount appropriated pursuant to that section for fiscal year 1981.
-
-Pub. L. 97–301, § 11, Oct. 13, 1982, 96 Stat. 1403, which provided that notwithstanding subsecs. (a), (b), (c), and (e) of this section, if in fiscal year 1983, fiscal year 1984, or fiscal year 1985 the sums appropriated pursuant to [section 2751(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751/b&num=0&edition=prelim) were less than the sums appropriated pursuant to such section for the fiscal year 1981, the Secretary should allot the sums appropriated pursuant to that section for such fiscal year among the States so that each State’s allotment bore the same ratio to the total amount appropriated as that State’s allotment in fiscal year 1981 bore to the total amount appropriated pursuant to that section for fiscal year 1981 was repealed by Pub. L. 99–498, title IV, § 408(b), Oct. 17, 1986, 100 Stat. 1495, eff. with respect to any academic year beginning on or after July 1, 1988.
+Section 2752, originally enacted as section 122 of Pub. L. 88–452, was renumbered section 442 of Pub. L. 89–329 and transferred to [section 1087–52 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087–52&num=0&edition=prelim), Education.
 
 
 <a id="section-2763-to-2768"></a>
-## § 2763 to 2768. Grants for Federal work-study programs
-**(a) Agreements required** The Secretary is authorized to enter into agreements with institutions of higher education under which the Secretary will make grants to such institutions to assist in the operation of work-study programs as provided in this part.
-
-**(b) Contents of agreements** An agreement entered into pursuant to this section shall—
-
-(1) provide for the operation by the institution of a program for the part-time employment, including internships, practica, or research assistantships as determined by the Secretary, of its students in work for the institution itself, work in community service or work in the public interest for a Federal, State, or local public agency or private nonprofit organization under an arrangement between the institution and such agency or organization, and such work—
-
-  (A) will not result in the displacement of employed workers or impair existing contracts for services;
-
-  (B) will be governed by such conditions of employment as will be appropriate and reasonable in light of such factors as type of work performed, geographical region, and proficiency of the employee;
-
-  (C) does not involve the construction, operation, or maintenance of so much of any facility as is used or is to be used for sectarian instruction or as a place for religious worship; and
-
-  (D) will not pay any wage to students employed under this subpart 11 So in original. Probably should be “part”. that is less than the current Federal minimum wage as mandated by [section 206 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206&num=0&edition=prelim);
-
-(2) provide that funds granted an institution of higher education, pursuant to this section, may be used only to make payments to students participating in work-study programs, except that—
-
-  (A) for fiscal year 2000 and succeeding fiscal years, an institution shall use at least 7 percent of the total amount of funds granted to such institution under this section for such fiscal year to compensate students employed in community service, and shall ensure that not less than 1 tutoring or family literacy project (as described in subsection (d) of this section) is included in meeting the requirement of this subparagraph, except that the Secretary may waive this subparagraph if the Secretary determines that enforcing this subparagraph would cause hardship for students at the institution; and
-
-  (B) an institution may use a portion of the sums granted to it to meet administrative expenses in accordance with [section 1096 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1096&num=0&edition=prelim), may use a portion of the sums granted to it to meet the cost of a job location and development program in accordance with [section 2756 of this title](./chapter-034-economic-opportunity-program.md#section-2756), and may transfer funds in accordance with the provisions of [section 1095 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1095&num=0&edition=prelim);
-
-(3) provide that in the selection of students for employment under such work-study program, only students who demonstrate financial need in accordance with part F [[20 U.S.C. 1087kk](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087kk&num=0&edition=prelim) et seq.] and meet the requirements of [section 1091 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1091&num=0&edition=prelim) will be assisted, except that if the institution’s grant under this part is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution on less than a full-time basis, or (B) independent students, a reasonable portion of the grant shall be made available to such students;
-
-(4) provide that for a student employed in a work-study program under this part, at the time income derived from any need-based employment is in excess of the determination of the amount of such student’s need by more than $300, continued employment shall not be subsidized with funds appropriated under this part;
-
-(5) provide that the Federal share of the compensation of students employed in the work-study program in accordance with the agreement shall not exceed 75 percent, except that—
-
-  (A) the Federal share may exceed 75 percent, but not exceed 90 percent, if, consistent with regulations of the Secretary—
-
-    (i) the student is employed at a nonprofit private organization or a government agency that—
-
-      (I) is not a part of, and is not owned, operated, or controlled by, or under common ownership, operation, or control with, the institution;
-
-      (II) is selected by the institution on an individual case-by-case basis for such student; and
-
-      (III) would otherwise be unable to afford the costs of such employment; and
-
-    (ii) not more than 10 percent of the students compensated through the institution’s grant under this part during the academic year are employed in positions for which the Federal share exceeds 75 percent; and
-
-  (B) the Federal share may exceed 75 percent if the Secretary determines, pursuant to regulations promulgated by the Secretary establishing objective criteria for such determinations, that a Federal share in excess of such amounts is required in furtherance of the purpose of this part;
-
-(6) include provisions to make employment under such work-study program reasonably available (to the extent of available funds) to all eligible students in the institution in need thereof;
-
-(7) provide assurances that employment made available from funds under this part will, to the maximum extent practicable, complement and reinforce the educational program or vocational goals of each student receiving assistance under this part;
-
-(8) provide assurances, in the case of each proprietary institution, that students attending the proprietary institution receiving assistance under this part who are employed by the institution may be employed in jobs—
-
-  (A) that are only on campus and that—
-
-    (i) to the maximum extent practicable, complement and reinforce the education programs or vocational goals of such students; and
-
-    (ii) furnish student services that are directly related to the student’s education, as determined by the Secretary pursuant to regulations, except that no student shall be employed in any position that would involve the solicitation of other potential students to enroll in the school; or
-
-  (B) in community service in accordance with paragraph (2)(A) of this subsection;
-
-(9) provide assurances that employment made available from funds under this part may be used to support programs for supportive services to students with disabilities;
-
-(10) provide assurances that the institution will inform all eligible students of the opportunity to perform community service, and will consult with local nonprofit, governmental, and community-based organizations to identify such opportunities; and
-
-(11) include such other reasonable provisions as the Secretary shall deem necessary or appropriate to carry out the purpose of this part.
-
-**(c) Private sector employment agreement** As part of its agreement agreement 22 So in original. described in subsection (b) of this section, an institution of higher education may, at its option, enter into an additional agreement with the Secretary which shall—
-
-(1) provide for the operation by the institution of a program of part-time employment of its students in work for a private for-profit organization under an arrangement between the institution and such organization that complies with the requirements of subparagraphs (A) through (D) of subsection (b)(1) of this section and subsection (b)(3) of this section;
-
-(2) provide that the institution will use not more than 25 percent of the funds made available to such institution under this part for any fiscal year for the operation of the program described in paragraph (1);
-
-(3) provide that, notwithstanding subsection (b)(5) of this section, the Federal share of the compensation of students employed in such program will not exceed 60 percent for academic years 1987–1988 and 1988–1989, 55 percent for academic year 1989–1990, and 50 percent for academic year 1990–1991 and succeeding academic years, and that the non-Federal share of such compensation will be provided by the private for-profit organization in which the student is employed;
-
-(4) provide that jobs under the work study program will be academically relevant, to the maximum extent practicable; and
-
-(5) provide that the for-profit organization will not use funds made available under this part to pay any employee who would otherwise be employed by the organization.
-
-**(d) Tutoring and literacy activities**
-
-(1) **Use of funds** — In any academic year to which subsection (b)(2)(A) applies, an institution shall ensure that funds granted to such institution under this section are used in accordance with such subsection to compensate (including compensation for time spent in training and travel directly related to tutoring in reading and family literacy activities) students—
-
-  (A) employed as reading tutors for children who are preschool age or are in elementary school; or
-
-  (B) employed in family literacy projects.
-
-(2) **Priority for schools** — To the extent practicable, an institution shall—
-
-  (A) give priority to the employment of students in the provision of tutoring in reading in schools that are participating in a reading reform project that—
-
-    (i) is designed to train teachers how to teach reading on the basis of scientifically-based research on reading; and
-
-    (ii) is funded under the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) et seq.]; and
-
-  (B) ensure that any student compensated with the funds described in paragraph (1) who is employed in a school participating in a reading reform project described in subparagraph (A) receives training from the employing school in the instructional practices used by the school.
-
-(3) **Federal share** — The Federal share of the compensation of work-study students compensated under this subsection may exceed 75 percent.
-
-**(e) Civic education and participation activities**
-
-(1) **Use of funds** — Funds granted to an institution under this section may be used to compensate (including compensation for time spent in training and travel directly related to civic education and participation activities) students employed in projects that—
-
-  (A) teach civics in schools;
-
-  (B) raise awareness of government functions or resources; or
-
-  (C) increase civic participation.
-
-(2) **Priority for schools** — To the extent practicable, an institution shall—
-
-  (A) give priority to the employment of students participating in projects that educate or train the public about evacuation, emergency response, and injury prevention strategies relating to natural disasters, acts of terrorism, and other emergency situations; and
-
-  (B) ensure that any student compensated with the funds described in paragraph (1) receives appropriate training to carry out the educational services required.
-
-(3) **Federal share** — The Federal share of the compensation of work-study students compensated under this subsection may exceed 75 percent.
-
-### Statutory Notes
-
-#### References in Text
-Part F, referred to in subsec. (b)(3), means part F of title IV of Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, known as the Higher Education Act of 1965. Part F of title IV of the Act is classified generally to part E (§ 1087kk et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
-
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2)(A)(ii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
-
-#### Prior Provisions
-A prior section 2753, Pub. L. 89–329, title IV, § 443, formerly title I, § 143, as added, renumbered title IV, § 443, and amended Pub. L. 90–575, title I, §§ 131(a), (b)(1), 133(a), (b), 139(1), Oct. 16, 1968, 82 Stat. 1028, 1029, 1030; Pub. L. 94–482, title I, § 128(b), Oct. 12, 1976, 90 Stat. 2143, made provision for the grants for work-study programs, prior to repeal by Pub. L. 96–374, § 434.
-
-#### Amendments
-2009—Subsec. (b)(2). Pub. L. 111–39, § 403(1), made technical amendment to reference in original act which appears in text as reference to this section in introductory provisions.
-
-Subsec. (d)(1). Pub. L. 111–39, § 403(2), substituted “subsection (b)(2)(A)” for “subsection (b)(2)(B)”.
-
-Subsec. (e)(1). Pub. L. 111–39, § 403(3), struck out “in accordance with such subsection” before “to compensate” in introductory provisions.
-
-2008—Subsec. (b)(2)(A) to (C). Pub. L. 110–315, § 443(1), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “for fiscal year 1999, an institution shall use at least 5 percent of the total amount of funds granted to such institution under this section in any fiscal year to compensate students employed in community service (including a reasonable amount of time spent in travel or training directly related to such community service), except that the Secretary may waive this subparagraph if the Secretary determines that enforcing it would cause hardship for students at an institution;”.
-
-Subsec. (e). Pub. L. 110–315, § 443(2), added subsec. (e).
-
-1998—Subsec. (b)(1). Pub. L. 105–244, § 443(a), inserted “, including internships, practica, or research assistantships as determined by the Secretary,” after “part-time employment”.
-
-Pub. L. 105–244, § 443(b), (c)(1)(A), substituted “for fiscal year 1999,” for “in fiscal year 1994 and succeeding fiscal years,”, inserted “(including a reasonable amount of time spent in travel or training directly related to such community service)” after “community service”, and struck out “and” at end.
-
-Subsec. (b)(2)(B), (C). Pub. L. 105–244, § 443(c)(1)(B), (C), added subpar. (B) and redesignated former subpar. (B) as (C).
-
-Subsec. (b)(3). Pub. L. 105–244, § 443(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “provide that in the selection of students for employment under such work-study program, only students, who demonstrate financial need in accordance with part F of this title, and who meet the requirements of [section 1091 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1091&num=0&edition=prelim) will be assisted, except that—
-
-“(A) if the institution’s grant under this part is directly or indirectly based in part on the financial need demonstrated by students who are (i) attending the institution less than full time, or (ii) independent students; and
-
-“(B) if the total financial need of all such less than full-time and independent students at the institution exceeds 5 percent of the total financial need of all students at such institution,
-
-then at least 5 percent of the grant shall be made available to such less than full-time and independent students;”.
-
-Subsec. (b)(5). Pub. L. 105–244, § 443(e), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “provide that the Federal share of the compensation of students employed in the work-study program in accordance with the agreement shall not exceed 75 percent for academic year 1993–1994 and succeeding academic years, except that the Federal share may exceed such amounts of compensation if the Secretary determines, pursuant to regulations promulgated by the Secretary establishing objective criteria for such determinations, that a Federal share in excess of such amounts is required in furtherance of the purpose of this part;”.
-
-Subsec. (b)(6). Pub. L. 105–244, § 443(f), struck out “, and to make equivalent employment offered or arranged by the institution reasonably available (to the extent of available funds) to all students in the institution who desire such employment” after “in need thereof”.
-
-Subsec. (c)(4). Pub. L. 105–244, § 443(g), inserted “, to the maximum extent practicable” before the semicolon at end.
-
-Subsec. (d). Pub. L. 105–244, § 443(c)(2), added subsec. (d).
-
-1993—Subsec. (b)(2)(A). Pub. L. 103–208, § 2(d)(3), substituted “institution; and” for “institution;”.
-
-Subsec. (b)(5). Pub. L. 103–208, § 2(d)(4), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “provide that the Federal share of the compensation of students employed in the work-study program in accordance with the agreement shall not exceed 75 percent for academic year 1993–1994 and succeeding academic years, except that—
-
-“(A) the Federal share may exceed such amounts of such compensation if the Secretary determines, pursuant to regulations promulgated by the Secretary establishing objective criteria for such determinations, that a Federal share in excess of such amounts is required in furtherance of the purpose of this part; and
-
-“(B) when a student engaged in work in community service performs such work for a private nonprofit organization other than the eligible institution, the contribution of such agency or organization shall not exceed 40 percent of the institution’s share of the compensation of the student, and the eligible institution in its discretion may count such contribution toward satisfaction of the non-Federal share of the compensation of the student;”.
-
-Subsec. (b)(8)(A) to (C). Pub. L. 103–208, § 2(d)(5), added subpars. (A) and (B) and struck out former subpars. (A) to (C) which read as follows:
-
-“(A) on campus only, except as required in subparagraph (A) of paragraph (2);
-
-“(B) that, to the maximum extent practicable, complement and reinforce the educational programs or vocational goals of such students; and
-
-“(C) furnishing student services that are directly related to the student’s education, as determined by the Secretary pursuant to regulations, except that no student shall be employed in any position that would involve the solicitation of other potential students to enroll in the school;”.
-
-1992—Pub. L. 102–325, § 441(a)(2), inserted “Federal” after “Grants for” in section catchline.
-
-Subsec. (b)(1). Pub. L. 102–325, § 443(a), inserted “, work in community service” after “institution itself”.
-
-Subsec. (b)(2)(A). Pub. L. 102–325, § 443(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “an institution may use not to exceed 10 percent of the funds granted to the institution in any fiscal year to carry out the work study program described in [section 2756a of this title](./chapter-034-economic-opportunity-program.md#section-2756a) at the increased Federal share specified in paragraph (5)(B) of this subsection, and”.
-
-Subsec. (b)(3) to (5). Pub. L. 102–325, § 443(c)–(e), amended par. (3) to (5) generally. Prior to amendment, pars. (3) to (5) read as follows:
-
-“(3) provide that in the selection of students for employment under such work-study program, only students who demonstrate financial need in accordance with part F of this title, and who meet the requirements of [section 1091 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1091&num=0&edition=prelim) will be assisted, except that, if the institution’s grant under this part is directly or indirectly based in part on the financial need demonstrated by students attending the institution less than full time, a reasonable proportion of the institution’s grant shall be made available to such students;
-
-“(4) provide that for a student employed in a work-study program under this part, at the time income derived from any employment (including non-work-study or both) is in excess of the determination of the amount of such student’s need by more than $200, continued employment shall not be subsidized with funds appropriated under this part;
-
-“(5) provide that the Federal share of the compensation of students employed in the work study program in accordance with the agreement will not exceed 80 percent for academic years 1987–1988 and 1988–1989, 75 percent for academic year 1989–1990, and 70 percent for academic year 1990–1991 and succeeding academic years, except that—
-
-“(A) the Federal share may exceed such amounts of such compensation if the Secretary determines, pursuant to regulations promulgated by the Secretary establishing objective criteria for such determinations, that a Federal share in excess of such amounts is required in furtherance of the purpose of this part; and
-
-“(B) the Federal share of the compensation of the students employed in the work study for community service-learning programs described in [section 2756a of this title](./chapter-034-economic-opportunity-program.md#section-2756a) from funds available under paragraph (2)(A) in accordance with the agreement will not exceed 90 percent of such compensation;”.
-
-Subsec. (b)(8)(A). Pub. L. 102–325, § 443(f)(1), inserted “, except as required in subparagraph (A) of paragraph (2)” before semicolon at end.
-
-Subsec. (b)(8)(C). Pub. L. 102–325, § 443(f)(2), (g)(2), inserted “that are directly related to the student’s education” after “student services” and struck out “and” at end.
-
-Subsec. (b)(9) to (11). Pub. L. 102–325, § 443(g)(1), (3), added pars. (9) and (10) and redesignated former par. (9) as (11).
-
-1987—Subsec. (b). Pub. L. 100–50, § 11(b), substituted “paragraph (5)(B)” for “clause (6)(B)” in par. (2)(A), and “paragraph (2)(A)” for “clause (2)(A)” in par. (5)(B).
-
-Subsec. (c). Pub. L. 100–50, § 11(c), substituted “As part of its agreement” for “In addition to the” and inserted “and subsection (b)(3) of this section” before semicolon at end of par. (1).
-
-1986—Pub. L. 99–498 amended section generally, inserting provisions relating to private sector employment agreements.
-
-#### Effective Date of 2009 Amendment
-Amendment by Pub. L. 111–39 effective as if enacted on Aug. 14, 2008, see section 3 of Pub. L. 111–39, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
-
-#### Effective Date of 1998 Amendment
-Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
-
-#### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under [section 1051 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1051&num=0&edition=prelim), Education.
-
-#### Effective Date of 1992 Amendment
-Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
-
-#### Effective Date of 1987 Amendment
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
-
-#### Effective Date of 1986 Amendment
-Section 403(b)(2), formerly section 403(b), of Pub. L. 99–498, as redesignated by Pub. L. 100–50, § 22(c), June 3, 1987, 101 Stat. 361, provided that: “Sections 443(c), 446, and 447 of the Act [sections 2753(c), 2756, and 2756a of this title] as amended by this section shall apply to periods of enrollment beginning on or after July 1, 1987.”
-
-#### Effective Date
-Section effective Oct. 1, 1980, see section 1393 of Pub. L. 96–374, set out as an Effective Date of 1980 Amendment note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
-
-
-<a id="section-2769-to-2769f"></a>
-## § 2769 to 2769f. Sources of matching funds
-
-Nothing in this part shall be construed as restricting the source (other than this part) from which the institution may pay its share of the compensation of a student employed under a work-study program covered by an agreement under this part, and such share may be paid to such student in the form of services and equipment (including tuition, room, board, and books) furnished by such institution.
-
-### Statutory Notes
-
-#### Prior Provisions
-A prior section 2754, Pub. L. 89–329, title IV, § 444, formerly title I, § 144, as added, renumbered, and amended Pub. L. 90–575, title I, §§ 131(a), (b)(1), 133(a), (c), 134, 136, 137, 138, 139(2), Oct. 16, 1968, 82 Stat. 1028, 1029, 1030; Pub. L. 92–318, title I, §§ 135C(a)(1), 135D, 135E, June 23, 1972, 86 Stat. 271; Pub. L. 94–482, title I, § 128(c), Oct. 12, 1976, 90 Stat. 2143, set out conditions required of agreements with eligible institutions, prior to repeal by Pub. L. 96–374, title IV, § 434, Oct. 3, 1980, 94 Stat. 1434, eff. Oct. 1, 1980. See [section 2753(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2753/b&num=0&edition=prelim).
-
-Section was originally enacted as section 124 of the Economic Opportunity Act of 1964, Pub. L. 88–452, title I, Aug. 20, 1964, 78 Stat. 514. As such, it had been amended by Pub. L. 89–253, § 10, Oct. 9, 1965, 79 Stat. 974; Pub. L. 89–329, title IV, § 441(1), (4), (5), Nov. 8, 1965, 79 Stat. 1249; Pub. L. 90–82, §§ 1, 2, Sept. 6, 1967, 81 Stat. 194, and renumbered section 144 by Pub. L. 90–222, title I, § 111(a), Dec. 23, 1967, 81 Stat. 726.
-
-Under Pub. L. 90–575, title I, § 131(a), Oct. 16, 1968, 82 Stat. 1028, section was transferred along with the remainder of Part C of title I of the Economic Opportunity Act of 1964, Pub. L. 88–452, and inserted as Part C of title IV of the Higher Education Act of 1964, Pub. L. 89–329. Former Part C of title IV of Pub. L. 89–329, as originally enacted, comprising sections 441 and 442 thereof, was struck out to accommodate the transferal but the amendment of this section by section 441(1), (4), (5) of Pub. L. 89–239 was not struck out.
-
-
-<a id="section-2771"></a>
-## § 2771. Flexible use of funds
-**(a) Carry-over authority**
-
-(1) Of the sums granted to an eligible institution under this part for any fiscal year, 10 percent may, at the discretion of the institution, remain available for expenditure during the succeeding fiscal year to carry out programs under this part.
-
-(2) Any of the sums so granted to an institution for a fiscal year which are not needed by that institution to operate work-study programs during that fiscal year, and which it does not wish to use during the next fiscal year as authorized in the preceding sentence, shall remain available to the Secretary for making grants under [section 2753 of this title](./chapter-034-economic-opportunity-program.md#section-2753) to other institutions in the same State until the close of the second fiscal year next succeeding the fiscal year for which such funds were appropriated.
-
-**(b) Carry-back authority**
-
-(1) Up to 10 percent of the sums the Secretary determines an eligible institution may receive from funds which have been appropriated for a fiscal year may be used by the Secretary to make grants under this part to such institution for expenditure during the fiscal year preceding the fiscal year for which the sums were appropriated.
-
-(2) An eligible institution may make payments to students of wages earned after the end of the academic year, but prior to the beginning of the succeeding fiscal year, from such succeeding fiscal year’s appropriations.
-
-**(c) Flexible use of funds** An eligible institution may, upon the request of a student, make payments to the student under this part by crediting the student’s account at the institution or by making a direct deposit to the student’s account at a depository institution. An eligible institution may only credit the student’s account at the institution for (1) tuition and fees, (2) in the case of institutionally owned housing, room and board, and (3) other institutionally provided goods and services.
-
-**(d) Flexibility in the event of a major disaster**
-
-(1) **In general** — In the event of a major disaster, an eligible institution located in any area affected by such major disaster, as determined by the Secretary, may make payments under this part to disaster-affected students, for the period of time (not to exceed one academic year) in which the disaster-affected students were prevented from fulfilling the students’ work-study obligations as described in paragraph (2)(A)(iii), as follows:
-
-  (A) Payments may be made under this part to disaster-affected students in an amount equal to or less than the amount of wages such students would have been paid under this part had the students been able to complete the work obligation necessary to receive work study funds.
-
-  (B) Payments shall not be made to any student who was not eligible for work study or was not completing the work obligation necessary to receive work study funds under this part prior to the occurrence of the major disaster.
-
-  (C) Any payments made to disaster-affected students under this subsection shall meet the matching requirements of [section 2753 of this title](./chapter-034-economic-opportunity-program.md#section-2753), unless such matching requirements are waived by the Secretary.
-
-(2) **Definitions** — In this subsection:
-
-  (A) The term “disaster-affected student” means a student enrolled at an eligible institution who—
-
-    (i) received a work-study award under this section for the academic year during which a major disaster occurred;
-
-    (ii) earned Federal work-study wages from such eligible institution for such academic year;
-
-    (iii) was prevented from fulfilling the student’s work-study obligation for all or part of such academic year due to such major disaster; and
-
-    (iv) was unable to be reassigned to another work-study job.
-
-  (B) The term “major disaster” has the meaning given such term in [section 5122(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5122/2&num=0&edition=prelim).
+## § 2763 to 2768. Transferred
 
 ### Statutory Notes
 
 #### Codification
-Section was originally enacted as section 125 of the Economic Opportunity Act of 1964, Pub. L. 88–452, title I, Aug. 20, 1964, 78 Stat. 516. As such, it had been amended by Pub. L. 89–329, title IV, § 441(6), Nov. 8, 1965, 79 Stat. 1250, and renumbered section 145 by Pub. L. 90–222, title I, § 111(a), Dec. 23, 1967, 81 Stat. 726.
+Section 2753, originally enacted as section 123 of Pub. L. 88–452, was renumbered, repealed, and reenacted as section 443 of Pub. L. 89–329 and transferred to [section 1087–53 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087–53&num=0&edition=prelim), Education.
 
-Under Pub. L. 90–575, title I, § 131(a), Oct. 16, 1968, 82 Stat. 1028, section was transferred along with the remainder of Part C of title I of the Economic Opportunity Act of 1964, Pub. L. 88–452, and inserted as Part C of title IV of the Higher Education Act of 1965, Pub. L. 89–329. Former Part C of title IV of Pub. L. 89–329, as originally enacted, comprising sections 441 and 442 thereof, was struck out to accommodate the transferal but the amendment of this section by section 441(6) of Pub. L. 89–329 has not been struck out.
 
-#### Amendments
-2008—Subsec. (d). Pub. L. 110–315 added subsec. (d).
+<a id="section-2769-to-2769f"></a>
+## § 2769 to 2769f. Transferred
 
-1998—Subsec. (c). Pub. L. 105–244 added subsec. (c).
+### Statutory Notes
 
-1992—Subsec. (b). Pub. L. 102–325 designated existing provisions as par. (1) and added par. (2).
+#### Codification
+Section 2754, originally enacted as section 124 of Pub. L. 88–452, was renumbered, repealed, and reenacted as section 444 of Pub. L. 89–329 and transferred to [section 1087–54 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087–54&num=0&edition=prelim), Education.
 
-1986—Pub. L. 99–498 amended section generally, substituting provisions relating to flexible use of funds for provisions relating to sources of matching funds.
 
-#### Effective Date of 1998 Amendment
-Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
+<a id="section-2771"></a>
+## § 2771. Transferred
 
-#### Effective Date of 1992 Amendment
-Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
+### Statutory Notes
+
+#### Codification
+Section 2755, originally enacted as section 125 of Pub. L. 88–452, was renumbered section 445 of Pub. L. 89–329 and transferred to [section 1087–55 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087–55&num=0&edition=prelim), Education.
 
 
 <a id="section-2781"></a>
@@ -1305,213 +735,30 @@ Section 2822, Pub. L. 88–452, title II, § 220, Aug. 20, 1964, 78 Stat. 523; P
 
 
 <a id="section-2782-to-2789"></a>
-## § 2782 to 2789. Job location and development programs
-**(a) Agreements required**
-
-(1) The Secretary is authorized to enter into agreements with eligible institutions under which such institution may use not more than 10 percent or $75,00 of its allotment under [section 2752 of this title](./chapter-034-economic-opportunity-program.md#section-2752), whichever is less, to establish or expand a program under which such institution, separately or in combination with other eligible institutions, locates and develops jobs, including community service jobs, for currently enrolled students.
-
-(2) Jobs located and developed under this section shall be jobs that are suitable to the scheduling and other needs of such students and that, to the maximum extent practicable, complement and reinforce the educational programs or vocational goals of such students.
-
-**(b) Contents of agreements** Agreements under subsection (a) of this section shall—
-
-(1) provide that the Federal share of the cost of any program under this section will not exceed 80 percent of such cost;
-
-(2) provide satisfactory assurance that funds available under this section will not be used to locate or develop jobs at an eligible institution;
-
-(3) provide satisfactory assurance that funds available under this section will not be used for the location or development of jobs for students to obtain upon graduation, but rather for the location and development of jobs available to students during and between periods of attendance at such institution;
-
-(4) provide satisfactory assurance that the location or development of jobs pursuant to programs assisted under this section will not result in the displacement of employed workers or impair existing contracts for services;
-
-(5) provide satisfactory assurance that Federal funds used for the purpose of this section can realistically be expected to help generate student wages exceeding, in the aggregate, the amount of such funds, and that if such funds are used to contract with another organization, appropriate performance standards are part of such contract; and
-
-(6) provide that the institution will submit to the Secretary an annual report on the uses made of funds provided under this section and an evaluation of the effectiveness of such program in benefiting the students of such institution.
+## § 2782 to 2789. Transferred
 
 ### Statutory Notes
 
 #### Codification
-Section was originally enacted, as section 126 of the Economic Opportunity Act of 1964, Pub. L. 88–452, title I, Aug. 20, 1964, 78 Stat. 516. As such, it had been amended by Pub. L. 89–329, title IV, § 441(1), Nov. 8, 1965, 79 Stat. 1249.
-
-Under Pub. L. 90–575, title I, § 131(a), Oct. 16, 1968, 82 Stat. 1028, section was transferred along with the remainder of Part C of title I of the Economic Opportunity Act of 1964, Pub. L. 88–452, and inserted as Part C of title IV of the Higher Education Act of 1965, Pub. L. 89–329. Former Part C of title IV of Pub. L. 89–329, as originally enacted, comprising sections 441 and 442 thereof, was struck out to accommodate the transferal but the amendment of this section by section 441(1) of Pub. L. 89–329 has not been struck out. For amendment of section in addition to the transfers and redesignations treated above, see 1968 Amendment note below.
-
-#### Prior Provisions
-Provisions similar to this section were contained in [section 2756a of this title](./chapter-034-economic-opportunity-program.md#section-2756a) prior to the general revision of this part by Pub. L. 99–498.
-
-#### Amendments
-2008—Subsec. (a)(1). Pub. L. 110–315 substituted “$75,000” for “$50,000”.
-
-1992—Pub. L. 102–325 amended section generally, restating subsecs. (a) and (b) with changes in substance and structure and striking out subsec. (c) which defined “community services”.
-
-1987—Subsec. (b)(3) to (7). Pub. L. 100–50 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which read as follows: “provide satisfactory assurance that the institution will continue to spend in its own job location and development programs, from sources other than funds received under this section, not less than the average expenditures per year made during the most recent 3 fiscal years preceding the effective date of the agreement;”.
-
-1986—Pub. L. 99–498 amended section generally, substituting provisions relating to job location and development programs for provisions relating to equitable distribution of assistance.
-
-1980—Subsec. (a). Pub. L. 96–374, §§ 435(a), 1391(a)(1), substituted “Secretary” for “Commissioner” and inserted provision that criteria established under this subsection not result in institution’s receiving an amount less than institution used under this section for fiscal year 1979, unless there has been a substantial decline in student enrollment of institution.
-
-Subsec. (b). Pub. L. 96–374, § 435(b), inserted provision that, of sums granted to an eligible institution under this part for any fiscal year, 10 per centum may, at discretion of institution, remain available for expenditure during succeeding fiscal year to carry out programs under this part, and substituted “close of the second fiscal year next succeeding the fiscal year for which funds were appropriated” for “close of the fiscal year next succeeding the fiscal year for which such funds were appropriated” in provision covering available time period during which funds not used remain available to Secretary for making grants to other institutions in same State.
-
-Subsec. (c). Pub. L. 96–374, § 435(b), added subsec. (c).
-
-1975—Pub. L. 94–43 designated existing provisions as subsec. (a) and added subsec. (b).
-
-1968—Pub. L. 90–575, § 133(a), substituted “eligible institutions” for “institutions of higher education”.
-
-#### Effective Date of 1992 Amendment
-Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
-
-#### Effective Date of 1987 Amendment
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
-
-#### Effective Date of 1986 Amendment
-Section applicable to periods of enrollment beginning on or after July 1, 1987, see section 403(b)(2) of Pub. L. 99–498, set out as a note under [section 2753 of this title](./chapter-034-economic-opportunity-program.md#section-2753).
-
-#### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub. L. 96–374, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
-
-#### Effective Date of 1975 Amendment
-Pub. L. 94–43, § 5, June 28, 1975, 89 Stat. 234, provided that: “(a) The amendment made by the provisions of section 2 of this Act [amending this section] shall be effective with respect to appropriations for fiscal years beginning after June 30, 1974. “(b) Subsections (b) and (d) of section 431 [now 437] of the General Education Provisions Act [section 1232(b) and (d) of Title 20, Education] shall not operate to delay the effectiveness of regulations issued by the Commissioner of Education to implement the provisions of this Act [see Short Title of 1975 Amendment note set out under [section 2701 of this title](./chapter-034-economic-opportunity-program.md#section-2701)].”
+Section 2756, originally enacted as section 126 of Pub. L. 88–452, was renumbered section 446 of Pub. L. 89–329 and transferred to [section 1087–56 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087–56&num=0&edition=prelim), Education.
 
 
 <a id="section-2790-2791"></a>
-## § 2790, 2791. Additional funds to conduct community service work-study programs
-**(a) Community service-learning** Each institution participating under this part may use up to 10 percent of the funds made available under [section 1096(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1096/a&num=0&edition=prelim) and attributable to the amount of the institution’s expenditures under this part to conduct that institution’s program of community service-learning, including—
-
-(1) development of mechanisms to assure the academic quality of the student experience,
-
-(2) assuring student access to educational resources, expertise, and supervision necessary to achieve community service objectives, and
-
-(3) collaboration with public and private nonprofit agencies, and programs assisted under the National and Community Service Act of 1990 [[42 U.S.C. 12501](./chapter-129-national-and-community-service.md#section-12501) et seq.] in the planning, development, and administration of such programs.
-
-**(b) Off-campus community service**
-
-(1) **Grants authorized** — In addition to funds made available under [section 2753(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2753/b/2/A&num=0&edition=prelim), the Secretary is authorized to award grants to institutions participating under this part to supplement off-campus community service employment.
-
-(2) **Use of funds** — An institution shall ensure that funds granted to such institution under this subsection are used in accordance with [section 2753(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2753/b/2/A&num=0&edition=prelim) to recruit and compensate students (including compensation for time spent in training and for travel directly related to such community service).
-
-(3) **Priority** — In awarding grants under this subsection, the Secretary shall give priority to applications that support postsecondary students assisting with early childhood education activities and activities in preparation for emergencies and natural disasters.
-
-(4) **Authorization of appropriations** — There are authorized to be appropriated to carry out this subsection such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+## § 2790, 2791. Transferred
 
 ### Statutory Notes
 
-#### References in Text
-The National and Community Service Act of 1990, referred to in subsec. (a)(3), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§ 12501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of this title](./chapter-129-national-and-community-service.md#section-12501) and Tables.
-
-#### Prior Provisions
-Provisions similar to this section were contained in [section 2756b of this title](./chapter-034-economic-opportunity-program.md#section-2756b) prior to the general revision of this part by Pub. L. 99–498.
-
-#### Amendments
-2008—Pub. L. 110–315 redesignated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
-
-1992—Pub. L. 102–325 amended section catchline generally, struck out subsecs. (a) and (b) which related to purpose and definitions, respectively, struck out subsec. (c) designation and heading before “Each institution participating”, substituted “up to 10 percent of the funds made available under [section 1096(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1096/a&num=0&edition=prelim) and attributable to the amount of the institution’s expenditures under this part” for “funds made available under the last sentence of [section 1096(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1096/a&num=0&edition=prelim)”, and inserted “, and programs assisted under the National and Community Service Act of 1990” after “nonprofit agencies”.
-
-1986—Pub. L. 99–498 amended section generally, substituting provisions relating to work-study for community service-learning on behalf of low-income individuals and families for provisions relating to job location and development programs and agreements with eligible institutions. See [section 2756 of this title](./chapter-034-economic-opportunity-program.md#section-2756).
-
-1980—Subsec. (a). Pub. L. 96–374, §§ 436, 1391(a)(1), substituted “$25,000” for “$15,000” and “Secretary” for “Commissioner”.
-
-Subsec. (b)(7). Pub. L. 96–374, § 1391(a)(1), substituted “Secretary” for “Commissioner”.
-
-1976—Subsec. (a). Pub. L. 94–482 substituted provisions authorizing agreements for job location and development programs by Commissioner, for provisions setting forth statement of purpose of community service learning programs.
-
-Subsec. (b). Pub. L. 94–482 substituted provisions setting forth requirements for agreements for job location and development programs, for provisions authorizing appropriations for community service learning programs.
-
-Subsec. (c). Pub. L. 94–482 struck out subsec. (c) which authorized agreements by the Commissioner for grants for community service learning programs.
-
-Subsec. (d). Pub. L. 94–482 struck out subsec. (d) which set forth requirements for agreements for grants for community service learning programs.
-
-Subsec. (e). Pub. L. 94–482 struck out subsec. (e) which defined “community service”.
-
-#### Effective Date of 1992 Amendment
-Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
-
-#### Effective Date of 1986 Amendment
-Section applicable to periods of enrollment beginning on or after July 1, 1987, see section 403(b)(2) of Pub. L. 99–498, set out as a note under [section 2753 of this title](./chapter-034-economic-opportunity-program.md#section-2753).
-
-#### Effective Date of 1976 Amendment
-Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, for those amendments providing for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
+#### Codification
+Section 2756a, originally enacted as section 447 of Pub. L. 89–329, was transferred to [section 1087–57 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087–57&num=0&edition=prelim), Education.
 
 
 <a id="section-2792-to-2794"></a>
-## § 2792 to 2794. Work colleges
-**(a) Purpose** The purpose of this section is to recognize, encourage, and promote the use of comprehensive work-learning-service programs as a valuable educational approach when it is an integral part of the institution’s educational program and a part of a financial plan which decreases reliance on grants and loans.
-
-**(b) Source and use of funds**
-
-(1) **Source of funds** — In addition to the sums appropriated under subsection (f) of this section, funds allocated to the institution under this part and part E of this title [[20 U.S.C. 1087aa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087aa&num=0&edition=prelim) et seq.] may be transferred for use under this section to provide flexibility in strengthening the self-help-through-work element in financial aid packaging.
-
-(2) **Activities authorized** — From the sums appropriated pursuant to subsection (f) of this section, and from the funds available under paragraph (1), eligible institutions may, following approval of an application under subsection (c) of this section by the Secretary—
-
-  (A) support the educational costs of qualified students through self-help payments or credits provided under the work-learning-service program of the institution within the limits of part F of this title [[20 U.S.C. 1087kk](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087kk&num=0&edition=prelim) et seq.];
-
-  (B) promote the work-learning-service experience as a tool of postsecondary education, financial self-help and community service-learning opportunities;
-
-  (C) carry out activities described in section 2753 or 2756 of this title;
-
-  (D) be used for the administration, development and assessment of comprehensive work-learning-service programs, including—
-
-    (i) community-based work-learning-service alternatives that expand opportunities for community service and career-related work; and
-
-    (ii) alternatives that develop sound citizenship, encourage student persistence, and make optimum use of assistance under this part in education and student development;
-
-  (E) coordinate and carry out joint projects and activities to promote work service learning; and
-
-  (F) carry out a comprehensive, longitudinal study of student academic progress and academic and career outcomes, relative to student self-sufficiency in financing their higher education, repayment of student loans, continued community service, kind and quality of service performed, and career choice and community service selected after graduation.
-
-**(c) Application** Each eligible institution may submit an application for funds authorized by subsection (f) of this section to use funds under subsection (b)(1) of this section at such time and in such manner as the Secretary, by regulation, may reasonably require.
-
-**(d) Match required** Funds made available to work-colleges pursuant to this section shall be matched on a dollar-for-dollar basis from non-Federal sources.
-
-**(e) Definitions** For the purpose of this section—
-
-(1) the term “work college” means an eligible institution that—
-
-  (A) has been a public or private nonprofit, four-year, degree-granting institution with a commitment to community service;
-
-  (B) has operated a comprehensive work-learning-service program for at least two years;
-
-  (C) requires students, including at least one-half of all students who are enrolled on a full-time basis, to participate in a comprehensive work-learning-service program for at least five hours each week, or at least 80 hours during each period of enrollment, except summer school, unless the student is engaged in an institutionally organized or approved study abroad or externship program; and
-
-  (D) provides students participating in the comprehensive work-learning-service program with the opportunity to contribute to their education and to the welfare of the community as a whole; and
-
-(2) the term “comprehensive student work-learning-service program” means a student work-learning-service program that—
-
-  (A) is an integral and stated part of the institution’s educational philosophy and program;
-
-  (B) requires participation of all resident students for enrollment and graduation;
-
-  (C) includes learning objectives, evaluation, and a record of work performance as part of the student’s college record;
-
-  (D) provides programmatic leadership by college personnel at levels comparable to traditional academic programs;
-
-  (E) recognizes the educational role of work-learning-service supervisors; and
-
-  (F) includes consequences for nonperformance or failure in the work-learning-service program similar to the consequences for failure in the regular academic program.
-
-**(f) Authorization of appropriations** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
+## § 2792 to 2794. Transferred
 
 ### Statutory Notes
 
-#### References in Text
-Parts E and F of this title, referred to in subsec. (b)(1), (2)(A), mean parts E and F, respectively, of title IV of Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, known as the Higher Education Act of 1965. Parts E and F of title IV of such Act are classified generally to parts D (§ 1087aa et seq.) and E (§ 1087kk et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
-
-#### Prior Provisions
-A prior section 2756b, Pub. L. 89–329, title IV, § 448, as added Pub. L. 96–374, title IV, § 437, Oct. 3, 1980, 94 Stat. 1436, related to work study programs for community service-learning, prior to the general revision of this part by Pub. L. 99–498. See [section 2756a of this title](./chapter-034-economic-opportunity-program.md#section-2756a).
-
-#### Amendments
-2008—Subsecs. (a), (b)(2)(A), (D). Pub. L. 110–315, § 447(1), substituted “work-learning-service” for “work-learning” wherever appearing.
-
-Subsec. (e). Pub. L. 110–315, § 447(2), added subsec. (e) and struck out former subsec. (e) which defined “work-college” and “comprehensive student work-learning program”.
-
-Subsec. (f). Pub. L. 110–315, § 447(3), substituted “such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years” for “$5,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
-
-1998—Subsec. (b)(2)(E), (F). Pub. L. 105–244, § 445(1), added subpars. (E) and (F).
-
-Subsec. (f). Pub. L. 105–244, § 445(2), substituted “1999” for “1993”.
-
-#### Effective Date of 1998 Amendment
-Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
-
-#### Effective Date
-Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
+#### Codification
+Section 2756b, originally enacted as section 448 of Pub. L. 89–329, was transferred to [section 1087–58 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087–58&num=0&edition=prelim), Education.
 
 
 <a id="section-2795-to-2797"></a>
@@ -1519,9 +766,9 @@ Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a
 
 ### Statutory Notes
 
-Section, Pub. L. 89–329, title IV, § 442, Nov. 8, 1965, 79 Stat. 1251, authorized appropriations for the fiscal years ending June 30, 1966, 1967, and 1968, to carry out the provisions of this part. For authorization of appropriations to carry out the provisions of this part for fiscal years ending after June 30, 1968, see [section 2751(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751/b&num=0&edition=prelim).
+Section, Pub. L. 89–329, title IV, § 442, Nov. 8, 1965, 79 Stat. 1251, authorized appropriations for the fiscal years ending June 30, 1966, 1967, and 1968, to carry out the provisions of part C of title I of Pub. L. 88–452, which was classified to this part.
 
-Another section 442 of Pub. L. 89–329 was added by section 131 of Pub. L. 90–575 and is set out as [section 2752 of this title](./chapter-034-economic-opportunity-program.md#section-2752).
+In addition to repealing this section, section 131 of Pub. L. 90–575 redesignated part C of title I of Pub. L. 88–452 as part C of title IV of Pub. L. 89–329 and renumbered the sections within that part. As a result, a new section 442 of Pub. L. 89–329 was created at the same time this section 442 was repealed. The new part C of title IV of Pub. L. 89–329 has been editorially transferred in the Code from this part to part C (§ 1087–51 et seq.) of subchapter IV of chapter 28 of Title 20, Education, and the new section 442 is classified to [section 1087–52 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087–52&num=0&edition=prelim).
 
 
 <a id="section-2801-to-2807"></a>
@@ -2788,7 +2035,7 @@ to be used to assist Native Americans in ensuring the survival and continuing vi
 
       (II) from funds collected and administered by the Federal Government on behalf of such tribe or its constituent members; or
 
-      (III) by the Federal Government for general tribal administration or tribal development under a formula or subject to a tribal budgeting priority system, such as, but not limited to, funds involved in the settlement of land or other judgment claims, severance or other royalty payments, or payments under the Indian Self-Determination Act ([25 U.S.C. 450f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450f&num=0&edition=prelim) et seq.) or tribal budget priority system.
+      (III) by the Federal Government for general tribal administration or tribal development under a formula or subject to a tribal budgeting priority system, such as, but not limited to, funds involved in the settlement of land or other judgment claims, severance or other royalty payments, or payments under the Indian Self-Determination Act ([25 U.S.C. 450f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450f&num=0&edition=prelim) et seq.) 11 See References in Text note below. or tribal budget priority system.
 
 (2) **Duration** — The Secretary may make grants made under subsection (a) of this section on a 1-year, 2-year, or 3-year basis, except that grants made under such subsection for any purpose specified in subsection (b)(7) may be made only on a 3-year basis.
 
@@ -2810,7 +2057,7 @@ to be used to assist Native Americans in ensuring the survival and continuing vi
 
     (i) a designee of the Institute of American Indian and Alaska Native Culture and Arts Development;
 
-    (ii) a designee of the regional centers funded under section 3215 11 See References in Text note below. of title 20;
+    (ii) a designee of the regional centers funded under section 3215 1 of title 20;
 
     (iii) representatives of national, tribal, and regional organizations that focus on Native American language, or Native American cultural,22 So in original. The comma probably should not appear. research, development, or training; and
 
@@ -2855,7 +2102,7 @@ to be used to assist Native Americans in ensuring the survival and continuing vi
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in subsec. (e)(1)(B)(ii)(III), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) and Tables.
+The Indian Self-Determination Act ([25 U.S.C. 450f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450f&num=0&edition=prelim) et seq.), referred to in subsec. (e)(1)(B)(ii)(III), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which was classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of Title 25, Indians, prior to editorial reclassification as subchapter I (§ 5321 et seq.) of chapter 46 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
 [Section 3215 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3215&num=0&edition=prelim), referred to in subsec. (f)(2)(B)(ii), was in the original a reference to section 5135 of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10. Section 5135 of that Act was omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3519.
 

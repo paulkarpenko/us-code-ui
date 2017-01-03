@@ -30,7 +30,7 @@ Section 77(c)(3) of the Bankruptcy Act, referred to in par. (4), was classified 
 Par. (3). Pub. L. 104–88, § 325(1)(B), substituted “rail carrier subject to part A of subtitle IV of title 49” for “common carrier by railroad subject to part I of the Interstate Commerce Act ([49 U.S.C. 1–27](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1–27&num=0&edition=prelim))”.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 #### Short Title
 Pub. L. 91–663, § 1, Jan. 8, 1971, 84 Stat. 1975, provided: “That this Act [enacting this chapter] may be cited as the ‘Emergency Rail Services Act of 1970’.”
@@ -94,7 +94,7 @@ Pub. L. 96–86 provided that, with respect to a railroad which filed a petition
 Subsec. (c). Pub. L. 95–598 struck out subsec. (c) which related to treatment of a certificate as an administrative expense and priority of the certificate.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding [section 101 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section101&num=0&edition=prelim), Bankruptcy.
@@ -132,7 +132,7 @@ In subsec. (a), “chapter 31 of title 31” and “that chapter” substituted 
 1995—Subsec. (a). Pub. L. 104–88 substituted “Board” for “Interstate Commerce Commission”.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 
 <a id="section-666"></a>

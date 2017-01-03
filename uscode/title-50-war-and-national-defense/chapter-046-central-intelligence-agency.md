@@ -2,7 +2,7 @@
 title: 50
 chapter: '46'
 heading: CENTRAL INTELLIGENCE AGENCY
-section_count: 28
+section_count: 29
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -146,7 +146,7 @@ Section was formerly classified to [section 403d of this title](./chapter-015-na
 
   (C) In the event of illness or injury requiring hospitalization of an officer or full time employee of the Agency incurred in the line of duty while such person is assigned abroad, pay for the cost of the treatment of such illness or injury at a suitable hospital or clinic;
 
-  (D) Provide for the periodic physical examination of officers and employees of the Agency and for the cost of administering inoculation or vaccinations to such officers or employees.
+  (D) Provide for the periodic physical examination of officers and employees of the Agency and for the cost of administering inoculations or vaccinations to such officers or employees.
 
 (6) Pay the costs of preparing and transporting the remains of an officer or employee of the Agency or a member of his family who may die while in travel status or abroad, to his home or official station, or to such other place as the Director may determine to be the appropriate place of interment, provided that in no case shall the expense payable be greater than the amount which would have been payable had the destination been the home or official station.
 
@@ -251,7 +251,7 @@ Ex. Ord. No. 10100, Jan. 28, 1950, 15 F.R. 499, which provided for regulations g
 
 **(b) Scope of authority for expenditure**
 
-(1) The authority to enter into a multiyear lease under subsection (a)(7) of this section shall be subject to appropriations provided in advance for—
+(1) The authority to enter into a multiyear lease under subsection (a)(7) shall be subject to appropriations provided in advance for—
 
   (A) the entire lease; or
 
@@ -324,9 +324,11 @@ Amendment by Pub. L. 97–89 effective Oct. 1, 1981, see section 806 of Pub. L. 
 Amendment by Pub. L. 88–448 effective on first day of first month which begins later than the ninetieth day following Aug. 19, 1964, see section 403 of Pub. L. 88–448, title IV, Aug. 19, 1964, 78 Stat. 496.
 
 #### Restriction on Transfer of Funds Available to Central Intelligence Agency for Drug Interdiction and Counter-Drug Activities
-Pub. L. 113–235, div. C, title VIII, § 8045(b), Dec. 16, 2014, 128 Stat. 2264, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 114–113, div. C, title VIII, § 8046(b), Dec. 18, 2015, 129 Stat. 2362, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. C, title VIII, § 8045(b), Dec. 16, 2014, 128 Stat. 2264.
 
 Pub. L. 113–76, div. C, title VIII, § 8045(b), Jan. 17, 2014, 128 Stat. 115.
 
@@ -561,7 +563,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 (2) The provisions of this subsection shall apply with respect to deaths occurring after June 30, 1974.
 
-**(b)** Any payment under subsection (a) of this section—
+**(b)** Any payment under subsection (a)—
 
 (1) shall be in an amount equal to the amount of the annual salary of the officer or employee concerned at the time of death;
 
@@ -615,7 +617,7 @@ In subsec. (b)(3), “[section 3973 of title 22](https://uscode.house.gov/view.x
 
 **(b) Sale, exchange and investment of gifts** Unless otherwise restricted by the terms of the gift, the Director may sell or exchange, or invest or reinvest, any property which is accepted under subsection (a), but any such investment may only be in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.
 
-**(c) Deposit of gifts into special fund** There is hereby created on the books of the Treasury of the United States a fund into which gifts of money, securities, and other intangible property accepted under the authority of subsection (a), and the earnings and proceeds thereof, shall be deposited. The assets of such fund shall be disbursed upon the order of the Director for the purposes specified in subsection (a) or (b) of this section.
+**(c) Deposit of gifts into special fund** There is hereby created on the books of the Treasury of the United States a fund into which gifts of money, securities, and other intangible property accepted under the authority of subsection (a), and the earnings and proceeds thereof, shall be deposited. The assets of such fund shall be disbursed upon the order of the Director for the purposes specified in subsection (a) or (b).
 
 **(d) Taxation of gifts** For purposes of Federal income, estate, and gift taxes, gifts accepted by the Director under subsection (a) shall be considered to be to or for the use of the United States.
 
@@ -658,7 +660,7 @@ Subsec. (f). Pub. L. 112–87, § 411(2), added subsec. (f).
 ## § 3513. Misuse of Agency name, initials, or seal
 **(a) Prohibited acts** No person may, except with the written permission of the Director, knowingly use the words “Central Intelligence Agency”, the initials “CIA”, the seal of the Central Intelligence Agency, or any colorable imitation of such words, initials, or seal in connection with any merchandise, impersonation, solicitation, or commercial activity in a manner reasonably calculated to convey the impression that such use is approved, endorsed, or authorized by the Central Intelligence Agency.
 
-**(b) Injunction** Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (a) of this section, the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other action as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought.
+**(b) Injunction** Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (a), the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other action as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought.
 
 ### Statutory Notes
 
@@ -735,7 +737,7 @@ Section effective Nov. 15, 1982, see section 613 of Pub. L. 97–269 set out as 
 
 **(d) Protection of certain CIA personnel from tort liability**
 
-(1) Notwithstanding any other provision of law, any Agency personnel designated by the Director under subsection (a) of this section, or designated by the Director under [section 3506(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3506/a/4&num=0&edition=prelim) to carry firearms for the protection of current or former Agency personnel and their immediate families, defectors and their immediate families, and other persons in the United States under Agency auspices, shall be considered for purposes of chapter 171 of title 28, or any other provision of law relating to tort liability, to be acting within the scope of their office or employment when such Agency personnel take reasonable action, which may include the use of force, to—
+(1) Notwithstanding any other provision of law, any Agency personnel designated by the Director under subsection (a), or designated by the Director under [section 3506(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3506/a/4&num=0&edition=prelim) to carry firearms for the protection of current or former Agency personnel and their immediate families, defectors and their immediate families, and other persons in the United States under Agency auspices, shall be considered for purposes of chapter 171 of title 28, or any other provision of law relating to tort liability, to be acting within the scope of their office or employment when such Agency personnel take reasonable action, which may include the use of force, to—
 
   (A) protect an individual in the presence of such Agency personnel from a crime of violence;
 
@@ -773,7 +775,7 @@ Reference to the headquarters compound of the Central Intelligence Agency deemed
 
 <a id="section-3516"></a>
 ## § 3516. Health benefits for certain former spouses of Central Intelligence Agency employees
-**(a) Persons eligible** Except as provided in subsection (e) of this section, any individual—
+**(a) Persons eligible** Except as provided in subsection (e), any individual—
 
 (1) formerly married to an employee or former employee of the Agency, whose marriage was dissolved by divorce or annulment before May 7, 1985;
 
@@ -784,7 +786,7 @@ is eligible for coverage under a health benefits plan in accordance with the pro
 
 **(b) Enrollment for health benefits**
 
-(1) Any individual eligible for coverage under subsection (a) of this section may enroll in a health benefits plan for self alone or for self and family if, before the expiration of the six-month period beginning on October 1, 1986, and in accordance with such procedures as the Director of the Office of Personnel Management shall by regulation prescribe, such individual—
+(1) Any individual eligible for coverage under subsection (a) may enroll in a health benefits plan for self alone or for self and family if, before the expiration of the six-month period beginning on October 1, 1986, and in accordance with such procedures as the Director of the Office of Personnel Management shall by regulation prescribe, such individual—
 
   (A) files an election for such enrollment; and
 
@@ -792,7 +794,7 @@ is eligible for coverage under a health benefits plan in accordance with the pro
 
 (2) The Director of the Central Intelligence Agency shall, as soon as possible, take all steps practicable—
 
-  (A) to determine the identity and current address of each former spouse eligible for coverage under subsection (a) of this section; and
+  (A) to determine the identity and current address of each former spouse eligible for coverage under subsection (a); and
 
   (B) to notify each such former spouse of that individual’s rights under this section.
 
@@ -800,7 +802,7 @@ is eligible for coverage under a health benefits plan in accordance with the pro
 
 **(c) Eligibility of former wives or husbands**
 
-(1) Notwithstanding subsections (a) and (b) of this section and except as provided in subsections (d), (e), and (f) of this section, an individual—
+(1) Notwithstanding subsections (a) and (b) and except as provided in subsections (d), (e), and (f), an individual—
 
   (A) who was divorced on or before December 4, 1991, from a participant or retired participant in the Central Intelligence Agency Retirement and Disability System or the Federal Employees Retirement System Special Category;
 
@@ -809,15 +811,15 @@ is eligible for coverage under a health benefits plan in accordance with the pro
   (C) who was enrolled in a health benefits plan as a family member at any time during the 18-month period before the date of dissolution of the marriage to such participant;
   is eligible for coverage under a health benefits plan.
 
-(2) A former spouse eligible for coverage under paragraph (1) may enroll in a health benefits plan in accordance with subsection (b)(1) of this section, except that the election for such enrollment must be submitted within 60 days after the date on which the Director notifies the former spouse of such individual’s eligibility for health insurance coverage under this subsection.
+(2) A former spouse eligible for coverage under paragraph (1) may enroll in a health benefits plan in accordance with subsection (b)(1), except that the election for such enrollment must be submitted within 60 days after the date on which the Director notifies the former spouse of such individual’s eligibility for health insurance coverage under this subsection.
 
-**(d) Continuation of eligibility** Notwithstanding subsections (a), (b), and (c) of this section and except as provided in subsections (e) and (f) of this section, an individual divorced on or before December 4, 1991, from a participant or retired participant in the Central Intelligence Agency Retirement and Disability System or Federal Employees’ Retirement System Special Category who enrolled in a health benefits plan following the dissolution of the marriage to such participant may continue enrollment following the death of such participant notwithstanding the termination of the retirement annuity of such individual.
+**(d) Continuation of eligibility** Notwithstanding subsections (a), (b), and (c) and except as provided in subsections (e) and (f), an individual divorced on or before December 4, 1991, from a participant or retired participant in the Central Intelligence Agency Retirement and Disability System or Federal Employees’ Retirement System Special Category who enrolled in a health benefits plan following the dissolution of the marriage to such participant may continue enrollment following the death of such participant notwithstanding the termination of the retirement annuity of such individual.
 
 **(e) Remarriage before age fifty-five; continued enrollment; restored eligibility**
 
-(1) Any former spouse who remarries before age fifty-five is not eligible to make an election under subsection (b)(1) of this section.
+(1) Any former spouse who remarries before age fifty-five is not eligible to make an election under subsection (b)(1).
 
-(2) Any former spouse enrolled in a health benefits plan pursuant to an election under subsection (b)(1) of this section or to subsection (d) of this section may continue the enrollment under the conditions of eligibility which the Director of the Office of Personnel Management shall by regulation prescribe, except that any former spouse who remarries before age fifty-five shall not be eligible for continued enrollment under this section after the end of the thirty-one-day period beginning on the date of remarriage.
+(2) Any former spouse enrolled in a health benefits plan pursuant to an election under subsection (b)(1) or to subsection (d) may continue the enrollment under the conditions of eligibility which the Director of the Office of Personnel Management shall by regulation prescribe, except that any former spouse who remarries before age fifty-five shall not be eligible for continued enrollment under this section after the end of the thirty-one-day period beginning on the date of remarriage.
 
 (3)
 
@@ -849,7 +851,7 @@ Subsec. (c)(1)(B). Pub. L. 108–458, § 1071(b)(2)(B), struck out “of Central
 
 Subsecs. (c), (d). Pub. L. 103–178, § 203(c)(1), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
 
-Subsec. (e). Pub. L. 103–178, § 203(c)(2)(B), inserted “or to subsection (d) of this section” after “subsection (b)(1) of this section” in par. (2).
+Subsec. (e). Pub. L. 103–178, § 203(c)(2)(B), inserted “or to subsection (d)” after “subsection (b)(1)” in par. (2).
 
 Pub. L. 103–178, § 203(c)(1)(A), redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
 
@@ -924,7 +926,7 @@ there is hereby established in the Agency an Office of Inspector General (hereaf
 
   (D) a certification that the Inspector General has had full and direct access to all information relevant to the performance of his functions;
 
-  (E) a description of the exercise of the subpoena authority under subsection (e)(5) of this section by the Inspector General during the reporting period; and
+  (E) a description of the exercise of the subpoena authority under subsection (e)(5) by the Inspector General during the reporting period; and
 
   (F) such recommendations as the Inspector General may wish to make concerning legislation to promote economy and efficiency in the administration of programs and operations undertaken by the Agency, and to detect and eliminate fraud and abuse in such programs and operations.
 
@@ -997,11 +999,11 @@ there is hereby established in the Agency an Office of Inspector General (hereaf
 
       (II) A false statement to Congress, or a willful withholding from Congress, on an issue of material fact relating to the funding, administration, or operation of an intelligence activity.
 
-      (III) An action, including a personnel action described in [section 2302(a)(2)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/a/2/A&num=0&edition=prelim), constituting reprisal or threat of reprisal prohibited under subsection (e)(3)(B) of this section in response to an employee’s reporting an urgent concern in accordance with this paragraph.
+      (III) An action, including a personnel action described in [section 2302(a)(2)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/a/2/A&num=0&edition=prelim), constituting reprisal or threat of reprisal prohibited under subsection (e)(3)(B) in response to an employee’s reporting an urgent concern in accordance with this paragraph.
 
     (ii) The term “intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-  (H) An individual who has submitted a complaint or information to the Inspector General under this section 22 So in original. Probably should be “subsection”. may notify any member of the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate, or a staff member of either such Committee, of the fact that such individual has made a submission to the Inspector General, and of the date on which such submission was made.
+  (H) An individual who has submitted a complaint or information to the Inspector General under this section may notify any member of the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate, or a staff member of either such Committee, of the fact that such individual has made a submission to the Inspector General, and of the date on which such submission was made.
 
 **(e) Authorities of Inspector General**
 
@@ -1015,7 +1017,7 @@ there is hereby established in the Agency an Office of Inspector General (hereaf
 
   (B) no action constituting a reprisal, or threat of reprisal, for making such complaint or providing such information may be taken by any employee of the Agency in a position to take such actions, unless the complaint was made or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
 
-(4) The Inspector General shall have authority to administer to or take from any person an oath, affirmation, or affidavit, whenever necessary in the performance of his duties, which oath 33 So in original. Probably should be followed by a comma. affirmation, or affidavit when administered or taken by or before an employee of the Office designated by the Inspector General shall have the same force and effect as if administered or taken by or before an officer having a seal.
+(4) The Inspector General shall have authority to administer to or take from any person an oath, affirmation, or affidavit, whenever necessary in the performance of his duties, which oath 22 So in original. Probably should be followed by a comma. affirmation, or affidavit when administered or taken by or before an employee of the Office designated by the Inspector General shall have the same force and effect as if administered or taken by or before an officer having a seal.
 
 (5)
 
@@ -1029,7 +1031,15 @@ there is hereby established in the Agency an Office of Inspector General (hereaf
 
 (6) The Inspector General shall be provided with appropriate and adequate office space at central and field office locations, together with such equipment, office supplies, maintenance services, and communications facilities and services as may be necessary for the operation of such offices.
 
-(7) Subject to applicable law and the policies of the Director, the Inspector General shall select, appoint and employ such officers and employees as may be necessary to carry out his functions. In making such selections, the Inspector General shall ensure that such officers and employees have the requisite training and experience to enable him to carry out his duties effectively. In this regard, the Inspector General shall create within his organization a career cadre of sufficient size to provide appropriate continuity and objectivity needed for the effective performance of his duties.
+(7)
+
+  (A) Subject to applicable law and the policies of the Director, the Inspector General shall select, appoint and employ such officers and employees as may be necessary to carry out his functions. In making such selections, the Inspector General shall ensure that such officers and employees have the requisite training and experience to enable him to carry out his duties effectively. In this regard, the Inspector General shall create within his organization a career cadre of sufficient size to provide appropriate continuity and objectivity needed for the effective performance of his duties.
+
+  (B) Consistent with budgetary and personnel resources allocated by the Director, the Inspector General has final approval of—
+
+    (i) the selection of internal and external candidates for employment with the Office of Inspector General; and
+
+    (ii) all other personnel decisions concerning personnel permanently assigned to the Office of Inspector General, including selection and appointment to the Senior Intelligence Service, but excluding all security-based determinations that are not within the authority of a head of other Central Intelligence Agency offices.
 
 (8)
 
@@ -1041,11 +1051,15 @@ there is hereby established in the Agency an Office of Inspector General (hereaf
 
   (B) The counsel appointed or obtained under subparagraph (A) shall perform such functions as the Inspector General may prescribe.
 
-(9) The Inspector General may request such information or assistance as may be necessary for carrying out his duties and responsibilities from any Government agency. Upon request of the Inspector General for such information or assistance, the head of the Government agency involved shall, insofar as is practicable and not in contravention of any existing statutory restriction or regulation of the Government agency concerned, furnish to the Inspector General, or to an authorized designee, such information or assistance. Consistent with budgetary and personnel resources allocated by the Director, the Inspector General has final approval of—
+(9)
 
-  (A) the selection of internal and external candidates for employment with the Office of Inspector General; and
+  (A) The Inspector General may request such information or assistance as may be necessary for carrying out the duties and responsibilities of the Inspector General provided by this section from any Federal, State, or local governmental agency or unit thereof.
 
-  (B) all other personnel decisions concerning personnel permanently assigned to the Office of Inspector General, including selection and appointment to the Senior Intelligence Service, but excluding all security-based determinations that are not within the authority of a head of other Central Intelligence Agency offices.
+  (B) Upon request of the Inspector General for information or assistance from a department or agency of the Federal Government, the head of the department or agency involved, insofar as practicable and not in contravention of any existing statutory restriction or regulation of such department or agency, shall furnish to the Inspector General, or to an authorized designee, such information or assistance.
+
+  (C) Nothing in this paragraph may be construed to provide any new authority to the Central Intelligence Agency to conduct intelligence activity in the United States.
+
+  (D) In this paragraph, the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States.
 
 **(f) Separate budget account**
 
@@ -1098,6 +1112,10 @@ The National Security Act of 1947, referred to in subsec. (d)(4), is act July 26
 Section was formerly classified to [section 403q of this title](./chapter-015-national-security.md#section-403q) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2015—Subsec. (e)(7). Pub. L. 114–113, § 411(b), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (e)(9). Pub. L. 114–113, § 411(a), amended par. (9) generally. Prior to amendment, par. (9) related to authority of Inspector General to request from any Government agency information or assistance necessary for carrying out his duties and responsibilities.
+
 2014—Subsec. (d)(5)(B). Pub. L. 113–126, § 603(b)(1), designated existing provisions as cl. (i) and added cl. (ii).
 
 Subsec. (d)(5)(H). Pub. L. 113–126, § 603(b)(2), added subpar. (H).
@@ -1202,15 +1220,15 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 <a id="section-3518"></a>
 ## § 3518. Special annuity computation rules for certain employees’ service abroad
-**(a) Officers and employees to whom rules apply** Notwithstanding any provision of chapter 83 of title 5, the annuity under subchapter III of such chapter of an officer or employee of the Central Intelligence Agency who retires on or after October 1, 1989, is not designated under [section 2013 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2013), and has served abroad as an officer or employee of the Agency on or after January 1, 1987, shall be computed as provided in subsection (b) of this section.
+**(a) Officers and employees to whom rules apply** Notwithstanding any provision of chapter 83 of title 5, the annuity under subchapter III of such chapter of an officer or employee of the Central Intelligence Agency who retires on or after October 1, 1989, is not designated under [section 2013 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2013), and has served abroad as an officer or employee of the Agency on or after January 1, 1987, shall be computed as provided in subsection (b).
 
 **(b) Computation rules**
 
 (1) The portion of the annuity relating to such service abroad that is actually performed at any time during the officer’s or employee’s first ten years of total service shall be computed at the rate and using the percent of average pay specified in [section 8339(a)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8339/a/3&num=0&edition=prelim) that is normally applicable only to so much of an employee’s total service as exceeds ten years.
 
-(2) The portion of the annuity relating to service abroad as described in subsection (a) of this section but that is actually performed at any time after the officer’s or employee’s first ten years of total service shall be computed as provided in [section 8339(a)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8339/a/3&num=0&edition=prelim); but, in addition, the officer or employee shall be deemed for annuity computation purposes to have actually performed an equivalent period of service abroad during his or her first ten years of total service, and in calculating the portion of the officer’s or employee’s annuity for his or her first ten years of total service, the computation rate and percent of average pay specified in paragraph (1) shall also be applied to the period of such deemed or equivalent service abroad.
+(2) The portion of the annuity relating to service abroad as described in subsection (a) but that is actually performed at any time after the officer’s or employee’s first ten years of total service shall be computed as provided in [section 8339(a)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8339/a/3&num=0&edition=prelim); but, in addition, the officer or employee shall be deemed for annuity computation purposes to have actually performed an equivalent period of service abroad during his or her first ten years of total service, and in calculating the portion of the officer’s or employee’s annuity for his or her first ten years of total service, the computation rate and percent of average pay specified in paragraph (1) shall also be applied to the period of such deemed or equivalent service abroad.
 
-(3) The portion of the annuity relating to other service by an officer or employee as described in subsection (a) of this section shall be computed as provided in the provisions of [section 8339(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8339/a&num=0&edition=prelim) that would otherwise be applicable to such service.
+(3) The portion of the annuity relating to other service by an officer or employee as described in subsection (a) shall be computed as provided in the provisions of [section 8339(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8339/a&num=0&edition=prelim) that would otherwise be applicable to such service.
 
 (4) For purposes of this subsection, the term “total service” has the meaning given such term under chapter 83 of title 5.
 
@@ -1352,7 +1370,7 @@ Amendment by Pub. L. 102–496 effective on first day of fourth month beginning 
 
 **(g) Reporting requirements**
 
-(1) **Offering notification** — The Director may not make an offering of voluntary separation pay pursuant to this section until 30 days after submitting to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report describing the occupational groups or geographic locations, or other similar limitations or conditions, required by the Director under subsection (d) of this section.
+(1) **Offering notification** — The Director may not make an offering of voluntary separation pay pursuant to this section until 30 days after submitting to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report describing the occupational groups or geographic locations, or other similar limitations or conditions, required by the Director under subsection (d).
 
 (2) **Annual report** — At the end of each of the fiscal years 1993 through 1997, the Director shall submit to the President and the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report on the effectiveness and costs of carrying out this section.
 
@@ -1454,9 +1472,9 @@ Pub. L. 104–293, title VIII, § 813(b), Oct. 11, 1996, 110 Stat. 3483, provide
 
   (A) Amounts appropriated to the Fund.
 
-  (B) Amounts credited to the Fund from payments received by central service providers under subsection (e) of this section.
+  (B) Amounts credited to the Fund from payments received by central service providers under subsection (e).
 
-  (C) Fees imposed and collected under subsection (f)(1) of this section.
+  (C) Fees imposed and collected under subsection (f)(1).
 
   (D) Amounts received in payment for loss or damage to equipment or property of a central service provider as a result of activities under the program.
 
@@ -1472,13 +1490,13 @@ Pub. L. 104–293, title VIII, § 813(b), Oct. 11, 1996, 110 Stat. 3483, provide
 
   (A) To pay the costs of providing items or services under the program.
 
-  (B) To pay the costs of carrying out activities under subsections (b)(1)(D) and (f)(2) of this section.
+  (B) To pay the costs of carrying out activities under subsections (b)(1)(D) and (f)(2).
 
 **(d) Limitation on amount of orders** The total value of all orders for items or services to be provided under the program in any fiscal year may not exceed an amount specified in advance by the Director of the Office of Management and Budget.
 
 **(e) Payment for items and services**
 
-(1) A Government agency provided items or services under the program shall pay the central service provider concerned for such items or services an amount equal to the costs incurred by the provider in providing such items or services plus any fee imposed under subsection (f) of this section. In calculating such costs, the Director shall take into account personnel costs (including costs associated with salaries, annual leave, and workers’ compensation), plant and equipment costs (including depreciation of plant and equipment other than structures owned by the Agency), operation and maintenance expenses, amortized costs, and other expenses.
+(1) A Government agency provided items or services under the program shall pay the central service provider concerned for such items or services an amount equal to the costs incurred by the provider in providing such items or services plus any fee imposed under subsection (f). In calculating such costs, the Director shall take into account personnel costs (including costs associated with salaries, annual leave, and workers’ compensation), plant and equipment costs (including depreciation of plant and equipment other than structures owned by the Agency), operation and maintenance expenses, amortized costs, and other expenses.
 
 (2) Payment for items or services under paragraph (1) may take the form of an advanced payment by an agency from appropriations available to such agency for the procurement of such items or services.
 
@@ -1554,9 +1572,11 @@ For Determination by President that amendment by Pub. L. 108–458 take effect o
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
 
 #### Availability of Funds Credited to Central Services Working Capital Fund
-Pub. L. 113–235, div. C, title VIII, § 8033, Dec. 16, 2014, 128 Stat. 2260, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
+Pub. L. 114–113, div. C, title VIII, § 8035, Dec. 18, 2015, 129 Stat. 2358, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. C, title VIII, § 8033, Dec. 16, 2014, 128 Stat. 2260.
 
 Pub. L. 113–76, div. C, title VIII, § 8032, Jan. 17, 2014, 128 Stat. 111.
 
@@ -1610,7 +1630,7 @@ Section was formerly classified to [section 403v of this title](./chapter-015-na
 ## § 3523. Intelligence operations and cover enhancement authority
 **(a) Definitions** In this section—
 
-(1) the term “designated employee” means an employee designated by the Director of the Central Intelligence Agency under subsection (b) of this section; and
+(1) the term “designated employee” means an employee designated by the Director of the Central Intelligence Agency under subsection (b); and
 
 (2) the term “Federal retirement system” includes the Central Intelligence Agency Retirement and Disability System, and the Federal Employees’ Retirement System (including the Thrift Savings Plan).
 
@@ -1632,7 +1652,7 @@ Section was formerly classified to [section 403v of this title](./chapter-015-na
 
 (2) **Designation of employees** — The Director of the Central Intelligence Agency may designate any employee of the Agency who is under nonofficial cover to be an employee to whom this section applies. Such designation may be made with respect to any or all authorities exercised under this section.
 
-**(c) Compensation** The Director of the Central Intelligence Agency may pay a designated employee salary, allowances, and other benefits in an amount and in a manner consistent with the nonofficial cover of that employee, without regard to any limitation that is otherwise applicable to a Federal employee. A designated employee may accept, utilize, and, to the extent authorized by regulations prescribed under subsection (i) of this section, retain any salary, allowances, and other benefits provided under this section.
+**(c) Compensation** The Director of the Central Intelligence Agency may pay a designated employee salary, allowances, and other benefits in an amount and in a manner consistent with the nonofficial cover of that employee, without regard to any limitation that is otherwise applicable to a Federal employee. A designated employee may accept, utilize, and, to the extent authorized by regulations prescribed under subsection (i), retain any salary, allowances, and other benefits provided under this section.
 
 **(d) Retirement benefits**
 
@@ -1758,7 +1778,7 @@ Section was formerly classified to [section 403v of this title](./chapter-015-na
 
 (2) **Internal Revenue Service review** — The Director of the Central Intelligence Agency shall establish procedures to carry out this subsection. The procedures shall be subject to periodic review by the Internal Revenue Service.
 
-**(i) Regulations** The Director of the Central Intelligence Agency shall prescribe regulations to carry out this section. The regulations shall ensure that the combination of salary, allowances, and benefits that an employee designated under this section may retain does not significantly exceed, except to the extent determined by the Director of the Central Intelligence Agency to be necessary to exercise the authority in subsection (b) of this section, the combination of salary, allowances, and benefits otherwise received by Federal employees not designated under this section.
+**(i) Regulations** The Director of the Central Intelligence Agency shall prescribe regulations to carry out this section. The regulations shall ensure that the combination of salary, allowances, and benefits that an employee designated under this section may retain does not significantly exceed, except to the extent determined by the Director of the Central Intelligence Agency to be necessary to exercise the authority in subsection (b), the combination of salary, allowances, and benefits otherwise received by Federal employees not designated under this section.
 
 **(j) Finality of decisions** Any determinations authorized by this section to be made by the Director of the Central Intelligence Agency or the Director’s designee shall be final and conclusive and shall not be subject to review by any court.
 
@@ -1771,3 +1791,23 @@ The effective date of this section, referred to in subsec. (k), is the date of e
 
 #### Codification
 Section was formerly classified to [section 403w of this title](./chapter-015-national-security.md#section-403w) prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-3524"></a>
+## § 3524. Support for the Associate Director of the Central Intelligence Agency for Military Affairs
+**(a) Selection of Associate Director** The Associate Director of the Central Intelligence Agency for Military Affairs shall be selected by the Secretary of Defense, with the concurrence of the Director of the Central Intelligence Agency, from among commissioned officers of the Armed Forces who are general or flag officers.
+
+**(b) Support for activities**
+
+(1) **In general** — In order to improve the provision of support to, and the receipt of support from, the Central Intelligence Agency, and to improve deconfliction of the activities of the Central Intelligence Agency and the Department of Defense, the Secretary of Defense and the Under Secretary of Defense for Intelligence shall ensure that the Associate Director of the Central Intelligence Agency for Military Affairs has access to, and support from, offices, agencies, and programs of the Department necessary for the purposes of the Associate Director as follows:
+
+  (A) To facilitate and coordinate Department of Defense support for the Central Intelligence Agency requested by the Director of the Central Intelligence Agency and approved by the Secretary, including oversight of Department of Defense military and civilian personnel detailed or assigned to the Central Intelligence Agency.
+
+  (B) To prioritize, communicate, and coordinate Department of Defense requests for, and the provision of support to, the Department of Defense from the Central Intelligence Agency, including support requested by and provided to the commanders of the combatant commands and subordinate task forces and commands.
+
+(2) **Policies** — The Under Secretary shall develop and supervise the implementation of policies to integrate and communicate Department of Defense requirements and requests for support from the Central Intelligence Agency that are coordinated by the Associate Director pursuant to paragraph (1)(B).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2017, and not as part of the Central Intelligence Agency Act of 1949 which comprises this chapter.

@@ -60,6 +60,8 @@ Subsec. (d). Pub. L. 113–66, § 1052(b)(2), redesignated subsec. (d) as (c).
 Pub. L. 112–239, § 1032(b), added subsec. (d).
 
 #### Statement of Policy on the Nuclear Triad
+Pub. L. 114–92, div. A, title XVI, § 1664, Nov. 25, 2015, 129 Stat. 1128, provided that: “(a) Sense of Congress.—It is the sense of Congress that—“(1) the triad of strategic nuclear delivery systems plays a critical role in ensuring the national security of the United States; and “(2) retaining all three legs of the nuclear triad is among the highest priorities of the Department of Defense and will best maintain strategic stability at a reasonable cost, while hedging against potential technical problems and vulnerabilities. “(b) Statement of Policy.—It is the policy of the United States—“(1) to operate, sustain, and modernize or replace the triad of strategic nuclear delivery systems consisting of—“(A) heavy bombers equipped with nuclear gravity bombs and air-launched nuclear cruise missiles; “(B) land-based intercontinental ballistic missiles equipped with nuclear warheads that are capable of carrying multiple independently targetable reentry vehicles; and “(C) ballistic missile submarines equipped with submarine launched ballistic missiles and multiple nuclear warheads; “(2) to operate, sustain, and modernize or replace a capability to forward-deploy nuclear weapons and dual-capable fighter-bomber aircraft; “(3) to deter potential adversaries and assure allies and partners of the United States through strong and long-term commitment to the nuclear deterrent of the United States and the personnel, systems, and infrastructure that comprise such deterrent; “(4) to ensure that the members of the Armed Forces who operate the nuclear deterrent of the United States have the training, resources, and national support required to execute the critical national security mission of the members; and “(5) to achieve a modern and responsive nuclear infrastructure to support the full spectrum of deterrence requirements.”
+
 Pub. L. 113–291, div. A, title XVI, § 1652, Dec. 19, 2014, 128 Stat. 3654, provided that: “It is the policy of the United States— “(1) to operate, sustain, and modernize or replace the triad of strategic nuclear delivery systems consisting of—“(A) heavy bombers equipped with nuclear gravity bombs and air-launched nuclear cruise missiles; “(B) land-based intercontinental ballistic missiles equipped with nuclear warheads that are capable of carrying multiple independently targetable reentry vehicles; and “(C) ballistic missile submarines equipped with submarine launched ballistic missiles and multiple nuclear warheads; “(2) to operate, sustain, and modernize or replace a capability to forward-deploy nuclear weapons and dual-capable fighter-bomber aircraft; “(3) to deter potential adversaries and assure allies and partners of the United States through strong and long-term commitment to the nuclear deterrent of the United States and the personnel, systems, and infrastructure that comprise such deterrent; and “(4) to ensure that the members of the Armed Forces who operate the nuclear deterrent of the United States have the training, resources, and national support required to execute the critical national security mission of the members.”
 
 #### Delegation of Reporting Functions Specified in [Section 491 of Title 10](./chapter-024-nuclear-posture.md#section-491), United States Code
@@ -280,6 +282,14 @@ Subsec. (d). Pub. L. 112–239, § 1034, added subsec. (d).
 #### Effective date of 2013 Amendment
 Pub. L. 112–239, div. A, title X, § 1033(b)(4), Jan. 2, 2013, 126 Stat. 1922, provided that: “The amendment made by paragraph (1)(D) [amending this section] shall take effect on October 1, 2012.”
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (b) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
+#### Report on Implementation of the New START Treaty
+Pub. L. 114–92, div. A, title XII, § 1247, Nov. 25, 2015, 129 Stat. 1066, provided that: “(a) Report.—“(1) In general.—During each year described in paragraph (2), the President shall transmit to the appropriate congressional committees a report explaining the reasons that the continued implementation of the New START Treaty is in the national security interests of the United States. “(2) Year described.—A year described in this paragraph is a year in which the President implements the New START Treaty and determines that any of the following circumstances apply:“(A) The Russian Federation illegally occupies Ukrainian territory. “(B) The Russian Federation is not respecting the sovereignty of all Ukrainian territory. “(C) The Russian Federation is not in full compliance with the INF treaty. “(D) The Russian Federation is not in compliance with the CFE Treaty and has not lifted its suspension of Russian observance of its treaty obligations. “(E) The Russian Federation is not reducing its deployed strategic delivery vehicles. “(b) Definitions.—In this section:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and “(B) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives. “(2) CFE treaty.—The term ‘CFE Treaty’ means the Treaty on Conventional Armed Forces in Europe, signed at Paris November 19, 1990, and entered into force July 17, 1992. “(3) INF treaty.—The term ‘INF Treaty’ means the Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Elimination of Their Intermediate-Range and Shorter-Range Missiles, commonly referred to as the Intermediate-Range Nuclear Forces (INF) Treaty, signed at Washington December 8, 1987, and entered into force June 1, 1988. “(4) New start treaty.—The term ‘New START Treaty’ means the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011.”
+
+[For delegation of functions vested in President by section 1247 of Pub. L. 114–92, set out above, see Memorandum of President of the United States, July 26, 2016, 81 F.R. 51773, set out below.]
+
 #### Retention of Missile Silos
 Pub. L. 113–291, div. A, title XVI, § 1644, Dec. 19, 2014, 128 Stat. 3651, provided that: “(a) Requirement.—During the period in which the New START Treaty (as defined in [section 494(a)(2)(D) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section494/a/2/D&num=0&edition=prelim), United States Code) is in effect, the Secretary of Defense shall preserve each intercontinental ballistic missile silo that contains a deployed missile as of the date of the enactment of this Act [Dec. 19, 2014] in, at minimum, a warm status that enables such silo to—“(1) remain a fully functioning element of the interconnected and redundant command and control system of the missile field; and “(2) be made fully operational with a deployed missile. “(b) Rule of Construction.—Nothing in subsection (b) shall be construed to prohibit the Secretary of Defense from temporarily placing an intercontinental ballistic missile silo offline to perform maintenance activities.”
 
@@ -294,9 +304,24 @@ Memorandum of President of the United States, Mar. 16, 2012, 77 F.R. 16649, prov
 
 Memorandum for the Secretary of State[,] the Secretary of Defense[, and] the Secretary of Energy
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code, I hereby delegate to the Secretaries of Defense and Energy the reporting functions conferred upon the President by section 1045 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81), and by section (a)(9)(B) of the Resolution of Advice and Consent to Ratification of the New START Treaty. Subsection (a)(9)(B)(iv) of the Resolution shall be fulfilled in coordination with the Secretary of State.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code, I hereby delegate to the Secretaries of Defense and Energy the reporting functions conferred upon the President by section 1045 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81) [see Codification note above], and by section (a)(9)(B) of the Resolution of Advice and Consent to Ratification of the New START Treaty. Subsection (a)(9)(B)(iv) of the Resolution shall be fulfilled in coordination with the Secretary of State.
 
 The Secretary of Defense is authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.
+
+#### Delegation of Authority Under Section 1247 of the National Defense Authorization Act for Fiscal Year 2016
+Memorandum of President of the United States, July 26, 2016, 81 F.R. 51773, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby order as follows:
+
+I hereby delegate the functions and authorities vested in the President by section 1247 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92) (the “Act”) to the Secretary of State.
+
+Any reference in this memorandum to the Act shall be deemed to be a reference to any future act that is the same or substantially the same as such provision.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.
 
@@ -369,6 +394,21 @@ Pub. L. 113–66, div. A, title X, § 1057, Dec. 26, 2013, 127 Stat. 864, provid
 
 #### Senses of Congress on Ensuring the Modernization of the Nuclear Forces of the United States
 Pub. L. 113–66, div. A, title X, § 1062(a), Dec. 26, 2013, 127 Stat. 866, provided that: “It is the policy of the United States to— “(1) modernize or replace the triad of strategic nuclear delivery systems; “(2) proceed with a robust stockpile stewardship program; “(3) maintain and modernize the nuclear weapons production capabilities that will ensure the safety, security, reliability, and performance of the nuclear forces of the United States at the levels required by the New START Treaty; and “(4) underpin deterrence by meeting the requirements for hedging against possible international developments or technical problems, in accordance with the policies of the United States.”
+
+#### Delegation of Authority Pursuant to Section 1035 of the National Defense Authorization Act for Fiscal Year 2013
+Memorandum of President of the United States, June 29, 2015, 80 F.R. 37921, provided:
+
+Memorandum for the Secretary of Defense
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby order as follows:
+
+I hereby delegate to the Secretary of Defense the authority to fulfill the certification requirement specified in section 1035 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239) [probably means [section 495 of this title](./chapter-024-nuclear-posture.md#section-495), as added by section 1035 of Pub. L. 112–239].
+
+Any reference in this memorandum to section 1035 of the National Defense Authorization Act for Fiscal Year 2013 shall be deemed to be a reference to any future provision that is the same or substantially the same provision.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.
 
 
 <a id="section-496"></a>

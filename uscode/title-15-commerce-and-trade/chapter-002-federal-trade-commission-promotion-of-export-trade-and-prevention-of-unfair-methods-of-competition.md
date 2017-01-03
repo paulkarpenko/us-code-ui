@@ -4,7 +4,7 @@ chapter: '2'
 heading: >-
   FEDERAL TRADE COMMISSION; PROMOTION OF EXPORT TRADE AND PREVENTION OF UNFAIR
   METHODS OF COMPETITION
-section_count: 80
+section_count: 82
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -389,6 +389,245 @@ To the extent any person introduces, delivers for introduction, sells, advertise
 Section was enacted as part of the Violent Crime Control and Law Enforcement Act of 1994, and not as part of the Federal Trade Commission Act which comprises this subchapter.
 
 
+<a id="section-45b"></a>
+## § 45b. Consumer review protection
+**(a) Definitions** In this section:
+
+(1) **Commission** — The term “Commission” means the Federal Trade Commission.
+
+(2) **Covered communication** — The term “covered communication” means a written, oral, or pictorial review, performance assessment of, or other similar analysis of, including by electronic means, the goods, services, or conduct of a person by an individual who is party to a form contract with respect to which such person is also a party.
+
+(3) **Form contract**
+
+  (A) *In general* — Except as provided in subparagraph (B), the term “form contract” means a contract with standardized terms—
+
+    (i) used by a person in the course of selling or leasing the person’s goods or services; and
+
+    (ii) imposed on an individual without a meaningful opportunity for such individual to negotiate the standardized terms.
+
+  (B) *Exception* — The term “form contract” does not include an employer-employee or independent contractor contract.
+
+(4) **Pictorial** — The term “pictorial” includes pictures, photographs, video, illustrations, and symbols.
+
+**(b) Invalidity of contracts that impede consumer reviews**
+
+(1) **In general** — Except as provided in paragraphs (2) and (3), a provision of a form contract is void from the inception of such contract if such provision—
+
+  (A) prohibits or restricts the ability of an individual who is a party to the form contract to engage in a covered communication;
+
+  (B) imposes a penalty or fee against an individual who is a party to the form contract for engaging in a covered communication; or
+
+  (C) transfers or requires an individual who is a party to the form contract to transfer to any person any intellectual property rights in review or feedback content, with the exception of a non-exclusive license to use the content, that the individual may have in any otherwise lawful covered communication about such person or the goods or services provided by such person.
+
+(2) **Rule of construction** — Nothing in paragraph (1) shall be construed to affect—
+
+  (A) any duty of confidentiality imposed by law (including agency guidance);
+
+  (B) any civil cause of action for defamation, libel, or slander, or any similar cause of action;
+
+  (C) any party’s right to remove or refuse to display publicly on an Internet website or webpage owned, operated, or otherwise controlled by such party any content of a covered communication that—
+
+    (i) contains the personal information or likeness of another person, or is libelous, harassing, abusive, obscene, vulgar, sexually explicit, or is inappropriate with respect to race, gender, sexuality, ethnicity, or other intrinsic characteristic;
+
+    (ii) is unrelated to the goods or services offered by or available at such party’s Internet website or webpage; or
+
+    (iii) is clearly false or misleading; or
+
+  (D) a party’s right to establish terms and conditions with respect to the creation of photographs or video of such party’s property when those photographs or video are created by an employee or independent contractor of a commercial entity and solely intended for commercial purposes by that entity.
+
+(3) **Exceptions** — Paragraph (1) shall not apply to the extent that a provision of a form contract prohibits disclosure or submission of, or reserves the right of a person or business that hosts online consumer reviews or comments to remove—
+
+  (A) trade secrets or commercial or financial information obtained from a person and considered privileged or confidential;
+
+  (B) personnel and medical files and similar information the disclosure of which would constitute a clearly unwarranted invasion of personal privacy;
+
+  (C) records or information compiled for law enforcement purposes, the disclosure of which would constitute a clearly unwarranted invasion of personal privacy;
+
+  (D) content that is unlawful or otherwise meets the requirements of paragraph (2)(C); or
+
+  (E) content that contains any computer viruses, worms, or other potentially damaging computer code, processes, programs, applications, or files.
+
+**(c) Prohibition** It shall be unlawful for a person to offer a form contract containing a provision described as void in subsection (b).
+
+**(d) Enforcement by Commission**
+
+(1) **Unfair or deceptive acts or practices** — A violation of subsection (c) by a person with respect to which the Commission is empowered under section 5(a)(2) of the Federal Trade Commission Act ([15 U.S.C. 45(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section45/a/2&num=0&edition=prelim)) shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act ([15 U.S.C. 57a(a)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a/a/1/B&num=0&edition=prelim)).
+
+(2) **Powers of Commission**
+
+  (A) *In general* — The Commission shall enforce this section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act ([15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.) were incorporated into and made a part of this Act.
+
+  (B) *Privileges and immunities* — Any person who violates this section shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act ([15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.).
+
+**(e) Enforcement by States**
+
+(1) **Authorization** — Subject to paragraph (2), in any case in which the attorney general of a State has reason to believe that an interest of the residents of the State has been or is threatened or adversely affected by the engagement of any person subject to subsection (c) in a practice that violates such subsection, the attorney general of the State may, as parens patriae, bring a civil action on behalf of the residents of the State in an appropriate district court of the United States to obtain appropriate relief.
+
+(2) **Rights of Federal Trade Commission**
+
+  (A) *Notice to Federal Trade Commission*
+
+    (i) *In general* — Except as provided in clause (iii), the attorney general of a State shall notify the Commission in writing that the attorney general intends to bring a civil action under paragraph (1) before initiating the civil action against a person described in subsection (d)(1).
+
+    (ii) *Contents* — The notification required by clause (i) with respect to a civil action shall include a copy of the complaint to be filed to initiate the civil action.
+
+    (iii) *Exception* — If it is not feasible for the attorney general of a State to provide the notification required by clause (i) before initiating a civil action under paragraph (1), the attorney general shall notify the Commission immediately upon instituting the civil action.
+
+  (B) *Intervention by Federal Trade Commission* — The Commission may—
+
+    (i) intervene in any civil action brought by the attorney general of a State under paragraph (1) against a person described in subsection (d)(1); and
+
+    (ii) upon intervening—
+
+      (I) be heard on all matters arising in the civil action; and
+
+      (II) file petitions for appeal of a decision in the civil action.
+
+(3) **Investigatory powers** — Nothing in this subsection may be construed to prevent the attorney general of a State from exercising the powers conferred on the attorney general by the laws of the State to conduct investigations, to administer oaths or affirmations, or to compel the attendance of witnesses or the production of documentary or other evidence.
+
+(4) **Preemptive action by Federal Trade Commission** — If the Federal Trade Commission institutes a civil action or an administrative action with respect to a violation of subsection (c), the attorney general of a State may not, during the pendency of such action, bring a civil action under paragraph (1) against any defendant named in the complaint of the Commission for the violation with respect to which the Commission instituted such action.
+
+(5) **Venue; service of process**
+
+  (A) *Venue* — Any action brought under paragraph (1) may be brought in—
+
+    (i) the district court of the United States that meets applicable requirements relating to venue under [section 1391 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391&num=0&edition=prelim); or
+
+    (ii) another court of competent jurisdiction.
+
+  (B) *Service of process* — In an action brought under paragraph (1), process may be served in any district in which the defendant—
+
+    (i) is an inhabitant; or
+
+    (ii) may be found.
+
+(6) **Actions by other State officials**
+
+  (A) *In general* — In addition to civil actions brought by attorneys general under paragraph (1), any other consumer protection officer of a State who is authorized by the State to do so may bring a civil action under paragraph (1), subject to the same requirements and limitations that apply under this subsection to civil actions brought by attorneys general.
+
+  (B) *Savings provision* — Nothing in this subsection may be construed to prohibit an authorized official of a State from initiating or continuing any proceeding in a court of the State for a violation of any civil or criminal law of the State.
+
+**(f) Education and outreach for businesses** Not later than 60 days after December 14, 2016, the Commission shall commence conducting education and outreach that provides businesses with non-binding best practices for compliance with this Act.
+
+**(g) Relation to State causes of action** Nothing in this section shall be construed to affect any cause of action brought by a person that exists or may exist under State law.
+
+**(h) Savings provision** Nothing in this section shall be construed to limit, impair, or supersede the operation of the Federal Trade Commission Act [[15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.] or any other provision of Federal law.
+
+**(i) Effective dates** This section shall take effect on December 14, 2016, except that—
+
+(1) subsections (b) and (c) shall apply with respect to contracts in effect on or after the date that is 90 days after December 14, 2016; and
+
+(2) subsections (d) and (e) shall apply with respect to contracts in effect on or after the date that is 1 year after December 14, 2016.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Trade Commission Act, referred to in subsecs. (d)(2) and (h), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to this subchapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+
+This Act, referred to in subsecs. (d)(2)(A) and (f), is Pub. L. 114–258, Dec. 14, 2016, 130 Stat. 1355, known as the Consumer Review Fairness Act of 2016, which enacted this section and provisions set out as a note under [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58). For complete classification of this Act to the Code, see Short Title of 2016 Amendment note set out under [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+
+#### Codification
+Section was enacted as part of the Consumer Review Fairness Act of 2016, and not as part of the Federal Trade Commission Act which comprises this subchapter.
+
+
+<a id="section-45c"></a>
+## § 45c. Unfair and deceptive acts and practices relating to circumvention of ticket access control measures
+**(a) Conduct prohibited**
+
+(1) **In general** — Except as provided in paragraph (2), it shall be unlawful for any person—
+
+  (A) to circumvent a security measure, access control system, or other technological control or measure on an Internet website or online service that is used by the ticket issuer to enforce posted event ticket purchasing limits or to maintain the integrity of posted online ticket purchasing order rules; or
+
+  (B) to sell or offer to sell any event ticket in interstate commerce obtained in violation of subparagraph (A) if the person selling or offering to sell the ticket either—
+
+    (i) participated directly in or had the ability to control the conduct in violation of subparagraph (A); or
+
+    (ii) knew or should have known that the event ticket was acquired in violation of subparagraph (A).
+
+(2) **Exception** — It shall not be unlawful under this section for a person to create or use any computer software or system—
+
+  (A) to investigate, or further the enforcement or defense, of any alleged violation of this section or other statute or regulation; or
+
+  (B) to engage in research necessary to identify and analyze flaws and vulnerabilities of measures, systems, or controls described in paragraph (1)(A), if these research activities are conducted to advance the state of knowledge in the field of computer system security or to assist in the development of computer security product.
+
+**(b) Enforcement by the Federal Trade Commission**
+
+(1) **Unfair or deceptive acts or practices** — A violation of subsection (a) shall be treated as a violation of a rule defining an unfair or a deceptive act or practice under section 18(a)(1)(B) of the Federal Trade Commission Act ([15 U.S.C. 57a(a)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a/a/1/B&num=0&edition=prelim)).
+
+(2) **Powers of Commission**
+
+  (A) *In general* — The Commission shall enforce this section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act ([15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.) were incorporated into and made a part of this section.
+
+  (B) *Privileges and immunities* — Any person who violates subsection (a) shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act ([15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.).
+
+  (C) *Authority preserved* — Nothing in this section shall be construed to limit the authority of the Federal Trade Commission under any other provision of law.
+
+**(c) Enforcement by States**
+
+(1) **In general** — In any case in which the attorney general of a State has reason to believe that an interest of the residents of the State has been or is threatened or adversely affected by the engagement of any person subject to subsection (a) in a practice that violates such subsection, the attorney general of the State may, as parens patriae, bring a civil action on behalf of the residents of the State in an appropriate district court of the United States—
+
+  (A) to enjoin further violation of such subsection by such person;
+
+  (B) to compel compliance with such subsection; and
+
+  (C) to obtain damages, restitution, or other compensation on behalf of such residents.
+
+(2) **Rights of Federal Trade Commission**
+
+  (A) *Notice to Federal Trade Commission*
+
+    (i) *In general* — Except as provided in clause (iii), the attorney general of a State shall notify the Commission in writing that the attorney general intends to bring a civil action under paragraph (1) not later than 10 days before initiating the civil action.
+
+    (ii) *Contents* — The notification required by clause (i) with respect to a civil action shall include a copy of the complaint to be filed to initiate the civil action.
+
+    (iii) *Exception* — If it is not feasible for the attorney general of a State to provide the notification required by clause (i) before initiating a civil action under paragraph (1), the attorney general shall notify the Commission immediately upon instituting the civil action.
+
+  (B) *Intervention by Federal Trade Commission* — The Commission may—
+
+    (i) intervene in any civil action brought by the attorney general of a State under paragraph (1); and
+
+    (ii) upon intervening—
+
+      (I) be heard on all matters arising in the civil action; and
+
+      (II) file petitions for appeal of a decision in the civil action.
+
+(3) **Investigatory powers** — Nothing in this subsection may be construed to prevent the attorney general of a State from exercising the powers conferred on the attorney general by the laws of the State to conduct investigations, to administer oaths or affirmations, or to compel the attendance of witnesses or the production of documentary or other evidence.
+
+(4) **Preemptive action by Federal Trade Commission** — If the Commission institutes a civil action or an administrative action with respect to a violation of subsection (a), the attorney general of a State may not, during the pendency of such action, bring a civil action under paragraph (1) against any defendant named in the complaint of the Commission for the violation with respect to which the Commission instituted such action.
+
+(5) **Venue; service of process**
+
+  (A) *Venue* — Any action brought under paragraph (1) may be brought in—
+
+    (i) the district court of the United States that meets applicable requirements relating to venue under [section 1391 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391&num=0&edition=prelim); or
+
+    (ii) another court of competent jurisdiction.
+
+  (B) *Service of process* — In an action brought under paragraph (1), process may be served in any district in which the defendant—
+
+    (i) is an inhabitant; or
+
+    (ii) may be found.
+
+(6) **Actions by other State officials**
+
+  (A) *In general* — In addition to civil actions brought by attorneys general under paragraph (1), any other consumer protection officer of a State who is authorized by the State to do so may bring a civil action under paragraph (1), subject to the same requirements and limitations that apply under this subsection to civil actions brought by attorneys general.
+
+  (B) *Savings provision* — Nothing in this subsection may be construed to prohibit an authorized official of a State from initiating or continuing any proceeding in a court of the State for a violation of any civil or criminal law of the State.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Trade Commission Act, referred to in subsec. (b)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to this subchapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+
+#### Codification
+Section was enacted as part of the Better Online Ticket Sales Act of 2016 or the BOTS Act of 2016, and not as part of the Federal Trade Commission Act which comprises this subchapter.
+
+#### Definitions
+Pub. L. 114–274, § 3, Dec. 14, 2016, 130 Stat. 1403, provided that: “In this Act [see Short Title of 2016 Amendment note set out under [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58)]: “(1) Commission.—The term ‘Commission’ means the Federal Trade Commission. “(2) Event.—The term ‘event’ means any concert, theatrical performance, sporting event, show, or similarly scheduled activity, taking place in a venue with a seating or attendance capacity exceeding 200 persons that—“(A) is open to the general public; and “(B) is promoted, advertised, or marketed in interstate commerce or for which event tickets are generally sold or distributed in interstate commerce. “(3) Event ticket.—The term ‘event ticket’ means any physical, electronic, or other form of a certificate, document, voucher, token, or other evidence indicating that the bearer, possessor, or person entitled to possession through purchase or otherwise has—“(A) a right, privilege, or license to enter an event venue or occupy a particular seat or area in an event venue with respect to one or more events; or “(B) an entitlement to purchase such a right, privilege, or license with respect to one or more future events. “(4) Ticket issuer.—The term ‘ticket issuer’ means any person who makes event tickets available, directly or indirectly, to the general public, and may include—“(A) the operator of the venue; “(B) the sponsor or promoter of an event; “(C) a sports team participating in an event or a league whose teams are participating in an event; “(D) a theater company, musical group, or similar participant in an event; and “(E) an agent for any such person.”
+
+
 <a id="section-46"></a>
 ## § 46. Additional powers of Commission
 
@@ -442,7 +681,7 @@ The Commission shall also have power—
 
 (6) **Limitation** — The authority granted by this subsection shall not authorize the Commission to take any action or exercise any power with respect to a bank, a savings and loan institution described in [section 57a(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a/f/3&num=0&edition=prelim), a Federal credit union described in [section 57a(f)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a/f/4&num=0&edition=prelim), or a common carrier subject to the Act to regulate commerce, except in accordance with the undesignated proviso following the last designated subsection of this section.
 
-(7) **Assistance to certain countries** — The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with section 2405(j) of the Appendix to title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 2405(j)(4) of the Appendix to title 50.
+(7) **Assistance to certain countries** — The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with [section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to [section 4605(j)(4) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/4&num=0&edition=prelim).
 
 **(k) Referral of evidence for criminal proceedings**
 
@@ -1392,7 +1631,7 @@ Section effective May 28, 1980, see section 23 of Pub. L. 96–252, set out as a
 
   (C) the appropriate Federal banking agency (as defined in [section 1813(q) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/q&num=0&edition=prelim)) or, in the case of a Federal credit union, the National Credit Union Administration, has given its prior approval if the materials to be provided under subparagraph (B) are requested by the foreign law enforcement agency for the purpose of investigating, or engaging in enforcement proceedings based on, possible violations of law by a bank, a savings and loan institution described in [section 57a(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a/f/3&num=0&edition=prelim), or a Federal credit union described in [section 57a(f)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a/f/4&num=0&edition=prelim); and
 
-  (D) the foreign law enforcement agency is not from a foreign state that the Secretary of State has determined, in accordance with section 2405(j) of the Appendix to title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 2405(j)(4) of the Appendix to title 50.
+  (D) the foreign law enforcement agency is not from a foreign state that the Secretary of State has determined, in accordance with [section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to [section 4605(j)(4) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/4&num=0&edition=prelim).
   Nothing in the preceding sentence authorizes the disclosure of material obtained in connection with the administration of the Federal antitrust laws or foreign antitrust laws (as defined in paragraphs (5) and (7), respectively, of [section 6211 of this title](./chapter-088-international-antitrust-enforcement-assistance.md#section-6211)) to any officer or employee of a foreign law enforcement agency.
 
 (7) In the event of the death, disability, or separation from service in the Commission of the custodian of any documentary material, tangible things, written reports or answers to questions, and transcripts of oral testimony produced under any demand issued under this subchapter, or the official relief of the custodian from responsibility for the custody and control of such material, the Commission promptly shall—
@@ -1800,6 +2039,11 @@ For repeal of amendment renumbering this section by section 13 of Pub. L. 109–
 
 #### Termination Date of 2006 Amendment
 Amendment by Pub. L. 109–455 repealed effective Sept. 30, 2020, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, as amended by section 1 of Pub. L. 112–203, set out as a note under [section 44 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-44).
+
+#### Short Title of 2016 Amendment
+Pub. L. 114–274, § 1, Dec. 14, 2016, 130 Stat. 1401, provided that: “This Act [enacting [section 45c of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-45c) and provisions set out as a note under [section 45c of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-45c)] may be cited as the ‘Better Online Ticket Sales Act of 2016’ or the ‘BOTS Act of 2016’.”
+
+Pub. L. 114–258, § 1, Dec. 14, 2016, 130 Stat. 1355, provided that: “This Act [enacting [section 45b of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-45b)] may be cited as the ‘Consumer Review Fairness Act of 2016’.”
 
 #### Short Title of 2006 Amendment
 Pub. L. 109–455, § 1, Dec. 22, 2006, 120 Stat. 3372, provided that: “This Act [enacting sections 57b–2a, 57b–2b, 57c–1, and 57c–2 of this title, amending this section, sections 44, 45, 46, 56, and 57b–2 of this title, and [section 3412 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3412&num=0&edition=prelim), Banks and Banking, and enacting provisions set out as notes under [section 44 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-44)] may be cited as the ‘Undertaking Spam, Spyware, And Fraud Enforcement With Enforcers beyond Borders Act of 2006’ or the ‘U.S. SAFE WEB Act of 2006’.”

@@ -22,7 +22,7 @@ The Secretary, in consultation with the National Conference of State Historic Pr
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302301 | [16 U.S.C. 470a(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/b/1&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(b)(1), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2990. |
+| 302301 | [16 U.S.C. 470a(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/b/1&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(b)(1), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2990. |
 
 Before paragraph (1), the words “or revise” are omitted as unnecessary.
 
@@ -56,7 +56,7 @@ In paragraph (1), the words “chief elected official” are substituted for “
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302302 | [16 U.S.C. 470a(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/b/2&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(b)(2), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2990; Pub. L. 102–575, title XL, § 4004(1), Oct. 30, 1992, 106 Stat. 4753. |
+| 302302 | [16 U.S.C. 470a(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/b/2&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(b)(2), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2990; Pub. L. 102–575, title XL, § 4004(1), Oct. 30, 1992, 106 Stat. 4753. |
 
 
 <a id="section-302303"></a>
@@ -94,9 +94,9 @@ In paragraph (1), the words “chief elected official” are substituted for “
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302303 | [16 U.S.C. 470a(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/b/3&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(b)(3), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2991; Pub. L. 102–575, title XL, § 4004(2), Oct. 30, 1992, 106 Stat. 4754. |
+| 302303 | [16 U.S.C. 470a(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/b/3&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(b)(3), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2991; Pub. L. 102–575, title XL, § 4004(2), Oct. 30, 1992, 106 Stat. 4754. |
 
-In paragraph (6) of subsection (b), the word “private” is added before “oranizations” for consistency with paragraph (1).
+In paragraph (6) of subsection (b), the word “private” is added before “organizations” for consistency with paragraph (1).
 
 
 <a id="section-302304"></a>
@@ -142,5 +142,5 @@ In paragraph (6) of subsection (b), the word “private” is added before “or
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302304 | [16 U.S.C. 470a(b)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/b/4&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(b)(4), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2991. |
-|  | [16 U.S.C. 470a(b)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/b/6&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(b)(6), as added Pub. L. 102–575, title XL, § 4004(4), Oct. 30, 1992, 106 Stat. 4754. |
+| 302304 | [16 U.S.C. 470a(b)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/b/4&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(b)(4), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2991. |
+|  | [16 U.S.C. 470a(b)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/b/6&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(b)(6), as added Pub. L. 102–575, title XL, § 4004(4), Oct. 30, 1992, 106 Stat. 4754. |

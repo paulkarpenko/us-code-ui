@@ -322,7 +322,7 @@ The master of a documented vessel has the same lien against the vessel for the m
 
   (A) the vessel owner or operator—
 
-    (i) during the course of an investigation, reporting, documentation, or adjudication of any matter under this Act that the Coast Guard referred to a United States attorney or the Attorney General, fails to provide necessary support of a seafarer who was paroled into the United States to facilitate the investigation, reporting, documentation, or adjudication; and
+    (i) during the course of an investigation, reporting, documentation, or adjudication of any matter that the Coast Guard referred to a United States attorney or the Attorney General, fails to provide necessary support of a seafarer who was paroled into the United States to facilitate the investigation, reporting, documentation, or adjudication; and
 
     (ii) subsequently is—
 
@@ -336,7 +336,7 @@ The master of a documented vessel has the same lien against the vessel for the m
 
   (A) proceed in rem against the vessel on which the seafarer served in the Federal district court for the district in which the vessel is found; and
 
-  (B) withhold or revoke the clearance required under section 60105 for the vessel and any other vessel operated by the same operator (as that term is defined in section 2(9)(a) 22 So in original. Probably should be “2(a)(9)(a)”. of the Act to Prevent Pollution from Ships ([33 U.S.C. 1901(9)(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901/9/a&num=0&edition=prelim)) 33 So in original. Probably should be “[33 U.S.C. 1901(a)(9)(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901/a/9/a&num=0&edition=prelim))”. as the vessel on which the seafarer served.
+  (B) withhold or revoke the clearance required under section 60105 for the vessel and any other vessel operated by the same operator (as that term is defined in section 2(9)(a) 22 So in original. Probably should be “2(a)(9)(a)”. of the Act to Prevent Pollution from Ships ([33 U.S.C. 1901(9)(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901/9/a&num=0&edition=prelim)) 33 So in original. Probably should be “[33 U.S.C. 1901(a)(9)(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901/a/9/a&num=0&edition=prelim)))”. as the vessel on which the seafarer served.
 
 (3) **Obtaining clearance.—** — A vessel may obtain clearance from the Secretary after it is withheld or revoked under paragraph (2)(B) if the vessel owner or operator—
 
@@ -371,4 +371,5 @@ The master of a documented vessel has the same lien against the vessel for the m
 #### References in Text
 The Immigration and Nationality Act, referred to in subsec. (a)(2)(A)(ii)(III), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
-This Act, referred to in subsec. (c)(1)(A)(i), probably means Pub. L. 113–281, Dec. 18, 2014, 128 Stat. 3022, known as the Howard Coble Coast Guard and Maritime Transportation Act of 2014. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under [section 1 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section1&num=0&edition=prelim), Coast Guard, and Tables.
+#### Amendments
+2016—Subsec. (c)(1)(A)(i). Pub. L. 114–120 struck out “under this Act” after “any matter”.

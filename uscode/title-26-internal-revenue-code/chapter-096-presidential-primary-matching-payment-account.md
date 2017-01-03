@@ -20,7 +20,7 @@ Section applicable with respect to taxable years beginning after Dec. 31, 1974, 
 <a id="section-9032"></a>
 ## § 9032. Definitions
 
-For the purposes of this chapter—
+For purposes of this chapter—
 
 (1) The term “authorized committee” means, with respect to the candidates of a political party for President and Vice President of the United States, any political committee which is authorized in writing by such candidates to incur expenses to further the election of such candidates. Such authorization shall be addressed to the chairman of such political committee, and a copy of such authorization shall be filed by such candidates with the Commission. Any withdrawal of any authorization shall also be in writing and shall be addressed and filed in the same manner as the authorization.
 
@@ -76,6 +76,9 @@ Par. (3). Pub. L. 94–283, § 115(c)(2), substituted “309(a)(1)” for “310
 #### Effective Date of 1976 Amendment
 Amendment by section 306(b)(1) of Pub. L. 94–283 effective May 11, 1976, see section 306(c) of Pub. L. 94–283, set out as a note under [section 9002 of this title](./chapter-095-presidential-election-campaign-fund.md#section-9002).
 
+#### Effective Date
+Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
+
 
 <a id="section-9033"></a>
 ## § 9033. Eligibility for payments
@@ -125,6 +128,9 @@ Subsec. (c). Pub. L. 94–283, § 306(b)(2), added subsec. (c).
 #### Effective Date of 1976 Amendment
 Amendment by section 306(b)(2) of Pub. L. 94–283 effective May 11, 1976, see section 306(c) of Pub. L. 94–283, set out as a note under [section 9002 of this title](./chapter-095-presidential-election-campaign-fund.md#section-9002).
 
+#### Effective Date
+Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
+
 
 <a id="section-9034"></a>
 ## § 9034. Entitlement of eligible candidates to payments
@@ -141,6 +147,9 @@ Section 315(b)(1)(A) of the Federal Election Campaign Act of 1971, referred to i
 2007—Subsec. (b). Pub. L. 110–172 substituted “section 315(b)(1)(A)” for “section 320(b)(1)(A)”.
 
 1976—Subsec. (b). Pub. L. 94–283 substituted “section 320(b)(1)(A) of the Federal Election Campaign Act of 1971” for “[section 608(c)(1)(A) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section608/c/1/A&num=0&edition=prelim), United States Code”.
+
+#### Effective Date
+Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-9035"></a>
@@ -162,12 +171,20 @@ Section 315 of The Federal Election Campaign Act of 1971, referred to in subsec.
 #### Effective Date of 1976 Amendment
 Pub. L. 94–283, title III, § 305(d), May 11, 1976, 90 Stat. 499, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of applying section 9035(a) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], as amended by subsection (a), expenditures made by an individual after January 29, 1976, and before the date of the enactment of this Act [May 11, 1976] shall not be taken into account.”
 
+#### Effective Date
+Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
+
 
 <a id="section-9036"></a>
 ## § 9036. Certification by Commission
 **(a) Initial certifications** Not later than 10 days after a candidate establishes his eligibility under section 9033 to receive payments under section 9037, the Commission shall certify to the Secretary for payment to such candidate under section 9037 payment in full of amounts to which such candidate is entitled under section 9034. The Commission shall make such additional certifications as may be necessary to permit candidates to receive payments for contributions under section 9037.
 
 **(b) Finality of determinations** Initial certifications by the Commission under subsection (a), and all determinations made by it under this chapter, are final and conclusive, except to the extent that they are subject to examination and audit by the Commission under section 9038 and judicial review under section 9041.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-9037"></a>
@@ -182,6 +199,9 @@ Pub. L. 94–283, title III, § 305(d), May 11, 1976, 90 Stat. 499, as amended b
 2014—Subsec. (a). Pub. L. 113–94 substituted “section 9008(i)(2)” for “section 9008(b)(3)”.
 
 1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” in three places.
+
+#### Effective Date
+Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-9038"></a>
@@ -209,6 +229,9 @@ Pub. L. 94–283, title III, § 305(d), May 11, 1976, 90 Stat. 499, as amended b
 
 #### Amendments
 1976—Subsecs. (b)(1), (2), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Effective Date
+Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-9039"></a>
@@ -241,6 +264,9 @@ Each report submitted pursuant to this section shall be printed as a Senate docu
 
 Subsec. (c)(4). Pub. L. 94–283, § 304(b)(2), added par. (4).
 
+#### Effective Date
+Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
+
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of reporting provisions in subsec. (a) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 168 of House Document No. 103–7.
 
@@ -260,12 +286,20 @@ For termination, effective May 15, 2000, of reporting provisions in subsec. (a) 
 #### Amendments
 1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
+#### Effective Date
+Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
+
 
 <a id="section-9041"></a>
 ## § 9041. Judicial review
 **(a) Review of agency action by the Commission** Any agency action by the Commission made under the provisions of this chapter shall be subject to review by the United States Court of Appeals for the District of Columbia Circuit upon petition filed in such court within 30 days after the agency action by the Commission for which review is sought.
 
 **(b) Review procedures** The provisions of chapter 7 of title 5, United States Code, apply to judicial review of any agency action, as defined in [section 551(13) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551/13&num=0&edition=prelim), United States Code, by the Commission.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-9042"></a>
@@ -299,3 +333,8 @@ For termination, effective May 15, 2000, of reporting provisions in subsec. (a) 
 (2) Any person who violates the provisions of paragraph (1) shall be fined not more than $10,000, or imprisoned not more than 5 years, or both.
 
 (3) In addition to the penalty provided by paragraph (2), any person who accepts any kickback or illegal payment in connection with any qualified campaign expense of a candidate or his authorized committees shall pay to the Secretary for deposit in the matching payment account, an amount equal to 125 percent of the kickback or payment received.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim), Voting and Elections.

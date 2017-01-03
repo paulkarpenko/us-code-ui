@@ -48,7 +48,15 @@ In this subchapter: 11 So in original. Probably should be “chapter:”.
 
 (3) submit the State’s approved plan to the Secretary of Transportation for review; and
 
-(4) revise and resubmit a State-approved plan no less frequently than once every 5 years for reapproval by the Secretary.
+(4) revise and resubmit a State-approved plan no less frequently than once every 4 years for acceptance by the Secretary.
+
+### Statutory Notes
+
+#### Amendments
+2015—Subsec. (b)(4). Pub. L. 114–94 substituted “4 years for acceptance by the Secretary” for “5 years for reapproval by the Secretary”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-22703"></a>
@@ -99,8 +107,6 @@ In this subchapter: 11 So in original. Probably should be “chapter:”.
 
 (11) A compilation of studies and reports on high-speed rail corridor development within the State not included in a previous plan under this subchapter,11 So in original. Probably should be “chapter,”. and a plan for funding any recommended development of such corridors in the State.
 
-(12) A statement that the State is in compliance with the requirements of section 22102.
-
 **(b) Long-Range Service and Investment Program.—**
 
 (1) **Program content.—** — A long-range rail investment program included in a State rail plan under subsection (a)(5) shall, at a minimum, include the following matters:
@@ -134,6 +140,14 @@ In this subchapter: 11 So in original. Probably should be “chapter:”.
   (F) Economic and employment impacts.
 
   (G) Projected ridership and other service measures for passenger rail projects.
+
+### Statutory Notes
+
+#### Amendments
+2015—Subsec. (a)(12). Pub. L. 114–94 struck out par. (12) which read as follows: “A statement that the State is in compliance with the requirements of section 22102.”
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-22706"></a>

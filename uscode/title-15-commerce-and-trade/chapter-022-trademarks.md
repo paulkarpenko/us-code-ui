@@ -57,7 +57,7 @@ source: >-
 
 (4) The applicant shall comply with such rules or regulations as may be prescribed by the Director. The Director shall promulgate rules prescribing the requirements for the application and for obtaining a filing date herein.
 
-**(c) Amendment of application under subsection (b) to conform to requirements of subsection (a)** At any time during examination of an application filed under subsection (b) of this section, an applicant who has made use of the mark in commerce may claim the benefits of such use for purposes of this chapter, by amending his or her application to bring it into conformity with the requirements of subsection (a) of this section.
+**(c) Amendment of application under subsection (b) to conform to requirements of subsection (a)** At any time during examination of an application filed under subsection (b), an applicant who has made use of the mark in commerce may claim the benefits of such use for purposes of this chapter, by amending his or her application to bring it into conformity with the requirements of subsection (a).
 
 **(d) Verified statement that trademark is used in commerce**
 
@@ -883,7 +883,7 @@ Except on a ground for which application to cancel may be filed at any time unde
 
 (2) there is no proceeding involving said rights pending in the United States Patent and Trademark Office or in a court and not finally disposed of; and
 
-(3) an affidavit is filed with the Director within one year after the expiration of any such five-year period setting forth those goods or services stated in the registration on or in connection with which such mark has been in continuous use for such five consecutive years and is still in use in commerce, and other matters specified in paragraphs (1) and (2) of this section; and
+(3) an affidavit is filed with the Director within one year after the expiration of any such five-year period setting forth those goods or services stated in the registration on or in connection with which such mark has been in continuous use for such five consecutive years and is still in use in commerce, and other matters specified in paragraphs (1) and (2) hereof; and
 
 (4) no incontestable right shall be acquired in a mark which is the generic name for the goods or services or a portion thereof, for which it is registered.
 Subject to the conditions above specified in this section, the incontestable right with reference to a mark registered under this chapter shall apply to a mark registered under the Act of March 3, 1881, or the Act of February 20, 1905, upon the filing of the required affidavit with the Director within one year after the expiration of any period of five consecutive years after the date of publication of a mark under the provisions of subsection (c) of [section 1062 of this title](./chapter-022-trademarks.md#section-1062).
@@ -1647,7 +1647,7 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 <a id="section-1115"></a>
 ## § 1115. Registration on principal register as evidence of exclusive right to use mark; defenses
-**(a) Evidentiary value; defenses** Any registration issued under the Act of March 3, 1881, or the Act of February 20, 1905, or of a mark registered on the principal register provided by this chapter and owned by a party to an action shall be admissible in evidence and shall be prima facie evidence of the validity of the registered mark and of the registration of the mark, of the registrant’s ownership of the mark, and of the registrant’s exclusive right to use the registered mark in commerce on or in connection with the goods or services specified in the registration subject to any conditions or limitations stated therein, but shall not preclude another person from proving any legal or equitable defense or defect, including those set forth in subsection (b) of this section, which might have been asserted if such mark had not been registered.
+**(a) Evidentiary value; defenses** Any registration issued under the Act of March 3, 1881, or the Act of February 20, 1905, or of a mark registered on the principal register provided by this chapter and owned by a party to an action shall be admissible in evidence and shall be prima facie evidence of the validity of the registered mark and of the registration of the mark, of the registrant’s ownership of the mark, and of the registrant’s exclusive right to use the registered mark in commerce on or in connection with the goods or services specified in the registration subject to any conditions or limitations stated therein, but shall not preclude another person from proving any legal or equitable defense or defect, including those set forth in subsection (b), which might have been asserted if such mark had not been registered.
 
 **(b) Incontestability; defenses** To the extent that the right to use the registered mark has become incontestable under [section 1065 of this title](./chapter-022-trademarks.md#section-1065), the registration shall be conclusive evidence of the validity of the registered mark and of the registration of the mark, of the registrant’s ownership of the mark, and of the registrant’s exclusive right to use the registered mark in commerce. Such conclusive evidence shall relate to the exclusive right to use the mark on or in connection with the goods or services specified in the affidavit filed under the provisions of [section 1065 of this title](./chapter-022-trademarks.md#section-1065), or in the renewal application filed under the provisions of [section 1059 of this title](./chapter-022-trademarks.md#section-1059) if the goods or services specified in the renewal are fewer in number, subject to any conditions or limitations in the registration or in such affidavit or renewal application. Such conclusive evidence of the right to use the registered mark shall be subject to proof of infringement as defined in [section 1114 of this title](./chapter-022-trademarks.md#section-1114), and shall be subject to the following defenses or defects:
 
@@ -1684,7 +1684,7 @@ Act Feb. 20, 1905, ch. 592, §§ 16, 21, 33 Stat. 728, 729.
 
 1998—Subsec. (b)(8), (9). Pub. L. 105–330 added par. (8) and redesignated former par. (8) as (9).
 
-1988—Subsec. (a). Pub. L. 100–667, § 128(a), inserted “the validity of the registered mark and of the registration of the mark, of the registrant’s ownership of the mark, and of the” after “facie evidence of”, inserted “or in connection with” after “in commerce on”, substituted “another person” for “an opposing party”, and inserted “, including those set forth in subsection (b) of this section,” after “or defect”.
+1988—Subsec. (a). Pub. L. 100–667, § 128(a), inserted “the validity of the registered mark and of the registration of the mark, of the registrant’s ownership of the mark, and of the” after “facie evidence of”, inserted “or in connection with” after “in commerce on”, substituted “another person” for “an opposing party”, and inserted “, including those set forth in subsection (b),” after “or defect”.
 
 Subsec. (b). Pub. L. 100–667, § 128(b)(1), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “If the right to use the registered mark has become incontestable under [section 1065 of this title](./chapter-022-trademarks.md#section-1065), the registration shall be conclusive evidence of the registrant’s exclusive right to use the registered mark in commerce on or in connection with the goods or services specified in the affidavit filed under the provisions of said section 1065 subject to any conditions or limitations stated therein except when one of the following defenses or defects is established:”.
 
@@ -1835,7 +1835,7 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under [section 1051 of this title](./chapter-022-trademarks.md#section-1051).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -1853,7 +1853,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 (2) providing goods or services necessary to the commission of a violation specified in paragraph (1), with the intent that the recipient of the goods or services would put the goods or services to use in committing the violation.
 In such a case, the court may award prejudgment interest on such amount at an annual interest rate established under [section 6621(a)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6621/a/2&num=0&edition=prelim), beginning on the date of the service of the claimant’s pleadings setting forth the claim for such entry of judgment and ending on the date such entry is made, or for such shorter time as the court considers appropriate.
 
-**(c) Statutory damages for use of counterfeit marks** In a case involving the use of a counterfeit mark (as defined in [section 1116(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1116/d&num=0&edition=prelim)) in connection with the sale, offering for sale, or distribution of goods or services, the plaintiff may elect, at any time before final judgment is rendered by the trial court, to recover, instead of actual damages and profits under subsection (a) of this section, an award of statutory damages for any such use in connection with the sale, offering for sale, or distribution of goods or services in the amount of—
+**(c) Statutory damages for use of counterfeit marks** In a case involving the use of a counterfeit mark (as defined in [section 1116(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1116/d&num=0&edition=prelim)) in connection with the sale, offering for sale, or distribution of goods or services, the plaintiff may elect, at any time before final judgment is rendered by the trial court, to recover, instead of actual damages and profits under subsection (a), an award of statutory damages for any such use in connection with the sale, offering for sale, or distribution of goods or services in the amount of—
 
 (1) not less than $1,000 or more than $200,000 per counterfeit mark per type of goods or services sold, offered for sale, or distributed, as the court considers just; or
 
@@ -2058,7 +2058,7 @@ Section, act July 5, 1946, ch. 540, title VI, § 39a, as added Oct. 12, 1982, Pu
 
 **(b) Waiver of sovereign immunity by States** Any State, instrumentality of a State or any officer or employee of a State or instrumentality of a State acting in his or her official capacity, shall not be immune, under the eleventh amendment of the Constitution of the United States or under any other doctrine of sovereign immunity, from suit in Federal court by any person, including any governmental or nongovernmental entity for any violation under this chapter.
 
-**(c) Remedies** In a suit described in subsection (a) or (b) of this section for a violation described therein, remedies (including remedies both at law and in equity) are available for the violation to the same extent as such remedies are available for such a violation in a suit against any person other than the United States or any agency or instrumentality thereof, or any individual, firm, corporation, or other person acting for the United States and with authorization and consent of the United States, or a State, instrumentality of a State, or officer or employee of a State or instrumentality of a State acting in his or her official capacity. Such remedies include injunctive relief under [section 1116 of this title](./chapter-022-trademarks.md#section-1116), actual damages, profits, costs and attorney’s fees under [section 1117 of this title](./chapter-022-trademarks.md#section-1117), destruction of infringing articles under [section 1118 of this title](./chapter-022-trademarks.md#section-1118), the remedies provided for under sections 1114, 1119, 1120, 1124 and 1125 of this title, and for any other remedies provided under this chapter.
+**(c) Remedies** In a suit described in subsection (a) or (b) for a violation described therein, remedies (including remedies both at law and in equity) are available for the violation to the same extent as such remedies are available for such a violation in a suit against any person other than the United States or any agency or instrumentality thereof, or any individual, firm, corporation, or other person acting for the United States and with authorization and consent of the United States, or a State, instrumentality of a State, or officer or employee of a State or instrumentality of a State acting in his or her official capacity. Such remedies include injunctive relief under [section 1116 of this title](./chapter-022-trademarks.md#section-1116), actual damages, profits, costs and attorney’s fees under [section 1117 of this title](./chapter-022-trademarks.md#section-1117), destruction of infringing articles under [section 1118 of this title](./chapter-022-trademarks.md#section-1118), the remedies provided for under sections 1114, 1119, 1120, 1124 and 1125 of this title, and for any other remedies provided under this chapter.
 
 ### Statutory Notes
 
@@ -2073,7 +2073,7 @@ A prior section 1122, act July 5, 1946, ch. 540, title VI, § 40, 60 Stat. 440, 
 
 Subsec. (b). Pub. L. 106–43, § 4(b)(1), (2), redesignated subsec. (a) as (b) and inserted heading. Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 106–43, § 4(b)(1), (3), redesignated subsec. (b) as (c) and in first sentence substituted “subsection (a) or (b) of this section for a violation described therein” for “subsection (a) of this section for a violation described in that subsection” and inserted “the United States or any agency or instrumentality thereof, or any individual, firm, corporation, or other person acting for the United States and with authorization and consent of the United States, or” after “other than”.
+Subsec. (c). Pub. L. 106–43, § 4(b)(1), (3), redesignated subsec. (b) as (c) and in first sentence substituted “subsection (a) or (b) for a violation described therein” for “subsection (a) of this section for a violation described in that subsection” and inserted “the United States or any agency or instrumentality thereof, or any individual, firm, corporation, or other person acting for the United States and with authorization and consent of the United States, or” after “other than”.
 
 #### Effective Date
 Section effective with respect to violations that occur on or after Oct. 27, 1992, see section 4 of Pub. L. 102–542, set out as an Effective Date of 1992 Amendment note under [section 1114 of this title](./chapter-022-trademarks.md#section-1114).
@@ -2275,7 +2275,7 @@ Offices of collector of customs, comptroller of customs, surveyor of customs, an
 
   (A) The owner of a mark may file an in rem civil action against a domain name in the judicial district in which the domain name registrar, domain name registry, or other domain name authority that registered or assigned the domain name is located if—
 
-    (i) the domain name violates any right of the owner of a mark registered in the Patent and Trademark Office, or protected under subsection (a) or (c) of this section; and
+    (i) the domain name violates any right of the owner of a mark registered in the Patent and Trademark Office, or protected under subsection (a) or (c); and
 
     (ii) the court finds that the owner—
 
@@ -2372,7 +2372,7 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3006], Nov. 29, 1999, 11
 
 **(c) Prior registration in country of origin; country of origin defined** No registration of a mark in the United States by a person described in subsection (b) of this section shall be granted until such mark has been registered in the country of origin of the applicant, unless the applicant alleges use in commerce. For the purposes of this section, the country of origin of the applicant is the country in which he has a bona fide and effective industrial or commercial establishment, or if he has not such an establishment the country in which he is domiciled, or if he has not a domicile in any of the countries described in subsection (b) of this section, the country of which he is a national.
 
-**(d) Right of priority** An application for registration of a mark under section 1051, 1053, 1054, or 1091 of this title or under subsection (e) of this section, filed by a person described in subsection (b) of this section who has previously duly filed an application for registration of the same mark in one of the countries described in subsection (b) of this section shall be accorded the same force and effect as would be accorded to the same application if filed in the United States on the same date on which the application was first filed in such foreign country: Provided, That—
+**(d) Right of priority** An application for registration of a mark under section 1051, 1053, 1054, or 1091 of this title or under subsection (e) of this section, filed by a person described in subsection (b) of this section who has previously duly filed an application for registration of the same mark in one of the countries described in subsection (b) shall be accorded the same force and effect as would be accorded to the same application if filed in the United States on the same date on which the application was first filed in such foreign country: Provided, That—
 
 (1) the application in the United States is filed within six months from the date on which the application was first filed in the foreign country;
 
@@ -2385,7 +2385,7 @@ In like manner and subject to the same conditions and requirements, the right pr
 
 **(e) Registration on principal or supplemental register; copy of foreign registration** A mark duly registered in the country of origin of the foreign applicant may be registered on the principal register if eligible, otherwise on the supplemental register in this chapter provided. Such applicant shall submit, within such time period as may be prescribed by the Director, a true copy, a photocopy, a certification, or a certified copy of the registration in the country of origin of the applicant. The application must state the applicant’s bona fide intention to use the mark in commerce, but use in commerce shall not be required prior to registration.
 
-**(f) Domestic registration independent of foreign registration** The registration of a mark under the provisions of subsections (c), (d), and (e) of this section by a person described in subsection (b) of this section shall be independent of the registration in the country of origin and the duration, validity, or transfer in the United States of such registration shall be governed by the provisions of this chapter.
+**(f) Domestic registration independent of foreign registration** The registration of a mark under the provisions of subsections (c), (d), and (e) of this section by a person described in subsection (b) shall be independent of the registration in the country of origin and the duration, validity, or transfer in the United States of such registration shall be governed by the provisions of this chapter.
 
 **(g) Trade or commercial names of foreign nationals protected without registration** Trade names or commercial names of persons described in subsection (b) of this section shall be protected without the obligation of filing or registration whether or not they form parts of marks.
 
@@ -2622,7 +2622,7 @@ Pub. L. 107–273, div. C, title III, § 13403, Nov. 2, 2002, 116 Stat. 1920, pr
 ## § 1141a. International applications based on United States applications or registrations
 **(a) In general** The owner of a basic application pending before the United States Patent and Trademark Office, or the owner of a basic registration granted by the United States Patent and Trademark Office may file an international application by submitting to the United States Patent and Trademark Office a written application in such form, together with such fees, as may be prescribed by the Director.
 
-**(b) Qualified owners** A qualified owner, under subsection (a) of this section, shall—
+**(b) Qualified owners** A qualified owner, under subsection (a), shall—
 
 (1) be a national of the United States;
 
@@ -2669,7 +2669,7 @@ The holder of an international registration that is based upon a basic applicati
 ## § 1141f. Effect of filing a request for extension of protection of an international registration to the United States
 **(a) Requirement for request for extension of protection** A request for extension of protection of an international registration to the United States that the International Bureau transmits to the United States Patent and Trademark Office shall be deemed to be properly filed in the United States if such request, when received by the International Bureau, has attached to it a declaration of bona fide intention to use the mark in commerce that is verified by the applicant for, or holder of, the international registration.
 
-**(b) Effect of proper filing** Unless extension of protection is refused under [section 1141h of this title](./chapter-022-trademarks.md#section-1141h), the proper filing of the request for extension of protection under subsection (a) of this section shall constitute constructive use of the mark, conferring the same rights as those specified in [section 1057(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1057/c&num=0&edition=prelim), as of the earliest of the following:
+**(b) Effect of proper filing** Unless extension of protection is refused under [section 1141h of this title](./chapter-022-trademarks.md#section-1141h), the proper filing of the request for extension of protection under subsection (a) shall constitute constructive use of the mark, conferring the same rights as those specified in [section 1057(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1057/c&num=0&edition=prelim), as of the earliest of the following:
 
 (1) The international registration date, if the request for extension of protection was filed in the international application.
 
@@ -2694,13 +2694,13 @@ The holder of an international registration with a request for an extension of p
 
 (1) A request for extension of protection described in [section 1141f(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1141f/a&num=0&edition=prelim) shall be examined as an application for registration on the Principal Register under this chapter, and if on such examination it appears that the applicant is entitled to extension of protection under this subchapter, the Director shall cause the mark to be published in the Official Gazette of the United States Patent and Trademark Office.
 
-(2) Subject to the provisions of subsection (c) of this section, a request for extension of protection under this subchapter shall be subject to opposition under [section 1063 of this title](./chapter-022-trademarks.md#section-1063).
+(2) Subject to the provisions of subsection (c), a request for extension of protection under this subchapter shall be subject to opposition under [section 1063 of this title](./chapter-022-trademarks.md#section-1063).
 
 (3) Extension of protection shall not be refused on the ground that the mark has not been used in commerce.
 
 (4) Extension of protection shall be refused to any mark not registrable on the Principal Register.
 
-**(b) Notification of refusal** If,11 So in original. The comma probably should not appear. a request for extension of protection is refused under subsection (a) of this section, the Director shall declare in a notification of refusal (as provided in subsection (c) of this section) that the extension of protection cannot be granted, together with a statement of all grounds on which the refusal was based.
+**(b) Notification of refusal** If,11 So in original. The comma probably should not appear. a request for extension of protection is refused under subsection (a), the Director shall declare in a notification of refusal (as provided in subsection (c)) that the extension of protection cannot be granted, together with a statement of all grounds on which the refusal was based.
 
 **(c) Notice to International Bureau**
 
@@ -2725,7 +2725,7 @@ The holder of an international registration with a request for an extension of p
 ## § 1141i. Effect of extension of protection
 **(a) Issuance of extension of protection** Unless a request for extension of protection is refused under [section 1141h of this title](./chapter-022-trademarks.md#section-1141h), the Director shall issue a certificate of extension of protection pursuant to the request and shall cause notice of such certificate of extension of protection to be published in the Official Gazette of the United States Patent and Trademark Office.
 
-**(b) Effect of extension of protection** From the date on which a certificate of extension of protection is issued under subsection (a) of this section—
+**(b) Effect of extension of protection** From the date on which a certificate of extension of protection is issued under subsection (a)—
 
 (1) such extension of protection shall have the same effect and validity as a registration on the Principal Register; and
 

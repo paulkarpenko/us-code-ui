@@ -325,7 +325,7 @@ This chapter, referred to in text, was in the original “this Act” and was tr
 
     (i) *Arms export transactions* — The United States Government shall not sell to a person described in subparagraph (A) any item on the United States Munitions List and shall terminate sales of any defense articles, defense services, or design and construction services to a person described in subparagraph (A) under the Arms Export Control Act [[22 U.S.C. 2751](./chapter-039-arms-export-control.md#section-2751) et seq.].
 
-    (ii) *Sanctions under Export Administration Act of 1979* — The authorities under section 6 of the Export Administration Act of 1979 [50 U.S.C. App. 2405] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act [50 U.S.C. App. 2404(c)(1)] to a person described in subparagraph (A).
+    (ii) *Sanctions under Export Administration Act of 1979* — The authorities under section 6 of the Export Administration Act of 1979 [[50 U.S.C. 4605](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605&num=0&edition=prelim)] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act [[50 U.S.C. 4604(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4604/c/1&num=0&edition=prelim)] to a person described in subparagraph (A).
 
     (iii) *International financial assistance* — The United States shall oppose any loan or financial or technical assistance by international financial institutions in accordance with [section 262d of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262d) to a person described in subparagraph (A).
 
@@ -349,7 +349,7 @@ This chapter, referred to in text, was in the original “this Act” and was tr
 
     (iii) *Denial of assistance* — No appropriated funds may be used for the purpose of providing economic assistance, providing military assistance or grant military education and training, or extending military credits or making guarantees to a country described in subparagraph (A).
 
-    (iv) *Sanctions under Export Administration Act of 1979* — The authorities of section 6 of the Export Administration Act of 1979 [50 U.S.C. App. 2405] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act [50 U.S.C. App. 2404(c)(1)] to a country described in subparagraph (A).
+    (iv) *Sanctions under Export Administration Act of 1979* — The authorities of section 6 of the Export Administration Act of 1979 [[50 U.S.C. 4605](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605&num=0&edition=prelim)] shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) of that Act [[50 U.S.C. 4604(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4604/c/1&num=0&edition=prelim)] to a country described in subparagraph (A).
 
     (v) *International financial assistance* — The United States shall oppose any loan or financial or technical assistance by international financial institutions in accordance with [section 262d of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262d) to a country described in subparagraph (A).
 

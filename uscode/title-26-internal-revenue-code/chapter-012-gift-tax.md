@@ -46,6 +46,8 @@ source: >-
 
     (ii) the total fair market value (at such time) of all assets owned by such foreign corporation.
 
+(6) **Transfers to certain exempt organizations** — Paragraph (1) shall not apply to the transfer of money or other property to an organization described in paragraph (4), (5), or (6) of section 501(c) and exempt from tax under section 501(a), for the use of such organization.
+
 **(b) Certain residents of possessions considered citizens of the United States** A donor who is a citizen of the United States and a resident of a possession thereof shall, for purposes of the tax imposed by this chapter, be considered a “citizen” of the United States within the meaning of that term wherever used in this title unless he acquired his United States citizenship solely by reason of (1) his being a citizen of such possession of the United States, or (2) his birth or residence within such possession of the United States.
 
 **(c) Certain residents of possessions considered nonresidents not citizens of the United States** A donor who is a citizen of the United States and a resident of a possession thereof shall, for purposes of the tax imposed by this chapter, be considered a “nonresident not a citizen of the United States” within the meaning of that term wherever used in this title, but only if such donor acquired his United States citizenship solely by reason of (1) his being a citizen of such possession of the United States, or (2) his birth or residence within such possession of the United States.
@@ -59,6 +61,8 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (a)(6). Pub. L. 114–113 added par. (6).
+
 2004—Subsec. (a)(3) to (5). Pub. L. 108–357 added pars. (3) and (5), redesignated former par. (5) as (4), and struck out former pars. (3) and (4) which related to exception of certain individuals from taxable transfers and burden of proof.
 
 1997—Subsec. (a)(3)(C). Pub. L. 105–34 substituted “donor” for “decedent”.
@@ -97,6 +101,9 @@ Subsecs. (c), (d). Pub. L. 86–779, § 4(d)(1), added subsec. (c) and redesigna
 
 Subsec. (c). Pub. L. 85–866, § 102(b), redesignated former subsec. (b) as (c) and Pub. L. 85–866, § 43(b), made the heading read in the plural, designated existing provisions as par. (2) and added par. (1).
 
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title IV, § 408(b), Dec. 18, 2015, 129 Stat. 3121, provided that: “The amendment made by subsection (a) [amending this section] shall apply to gifts made after the date of the enactment of this Act [Dec. 18, 2015].”
+
 #### Effective Date of 2004 Amendment
 Amendment by Pub. L. 108–357 applicable to individuals who expatriate after June 3, 2004, see section 804(f) of Pub. L. 108–357, set out as a note under [section 877 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-877).
 
@@ -132,6 +139,9 @@ Pub. L. 86–779, § 4(e)(3), Sept. 14, 1960, 74 Stat. 1000, provided that: “T
 
 #### Effective Date of 1958 Amendment
 Amendment by Pub. L. 85–866 applicable to gifts made after September 2, 1958, see section 102(d) of Pub. L. 85–866, set out as a note under [section 2014 of this title](./chapter-011-estate-tax.md#section-2014).
+
+#### Construction of 2015 Amendment
+Pub. L. 114–113, div. Q, title IV, § 408(c), Dec. 18, 2015, 129 Stat. 3121, provided that: “Nothing in the amendment made by subsection (a) [amending this section] shall be construed to create any inference with respect to whether any transfer of property (whether made before, on, or after the date of the enactment of this Act [Dec. 18, 2015]) to an organization described in paragraph (4), (5), or (6) of section 501(c) of the Internal Revenue Code of 1986 is a transfer of property by gift for purposes of chapter 12 of such Code.”
 
 #### Election To Have Amendments by Title IV of the Economic Recovery Tax Act of 1981 Not Apply
 Pub. L. 97–448, title I, § 104(d)(3), Jan. 12, 1983, 96 Stat. 2383, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “(A) In the case of any decedent—“(i) who dies before August 13, 1984, and “(ii) who made a gift (before August 13, 1981, and during the 3-year period ending on the date of the decedent’s death) on which tax imposed by chapter 12 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] has been paid before April 16, 1982, such decedent’s executor may make an election to have subtitle B of such Code (relating to estate and gift taxes) applied with respect to such decedent without regard to any of the amendments made by title IV of the Economic Recovery Tax Act of 1981 [Pub. L. 97–34, title IV]. “(B) An election under subparagraph (A) shall be made at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe. “(C) An election under subparagraph (A), once made, shall be irrevocable.”

@@ -2,7 +2,7 @@
 title: 42
 chapter: '23'
 heading: DEVELOPMENT AND CONTROL OF ATOMIC ENERGY
-section_count: 253
+section_count: 254
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -194,7 +194,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 **(u)** The term “produce”, when used in relation to special nuclear material, means (1) to manufacture, make, produce, or refine special nuclear material; (2) to separate special nuclear material from other substances in which such material may be contained; or (3) to make or to produce new special nuclear material.
 
-**(v)** The term “production facility” means (1) any equipment or device determined by rule of the Commission to be capable of the production of special nuclear material in such quantity as to be of significance to the common defense and security, or in such manner as to affect the health and safety of the public; or (2) any important component part especially designed for such equipment or device as determined by the Commission. Except with respect to the export of a uranium enrichment production facility, such term as used in subchapters IX and XV of this division shall not include any equipment or device (or important component part especially designed for such equipment or device) capable of separating the isotopes of uranium or enriching uranium in the isotope 235.
+**(v)** The term “production facility” means (1) any equipment or device determined by rule of the Commission to be capable of the production of special nuclear material in such quantity as to be of significance to the common defense and security, or in such manner as to affect the health and safety of the public; or (2) any important component part especially designed for such equipment or device as determined by the Commission. Except with respect to the export of a uranium enrichment production facility, such term as used in subchapters IX and XV shall not include any equipment or device (or important component part especially designed for such equipment or device) capable of separating the isotopes of uranium or enriching uranium in the isotope 235.
 
 **(w)** The term “public liability” means any legal liability arising out of or resulting from a nuclear incident or precautionary evacuation (including all reasonable additional costs incurred by a State, or a political subdivision of a State, in the course of responding to a nuclear incident or a precautionary evacuation), except: (i) claims under State or Federal workmen’s compensation acts of employees of persons indemnified who are employed at the site of and in connection with the activity where the nuclear incident occurs; (ii) claims arising out of an act of war; and (iii) whenever used in subsections (a), (c), and (k) of [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210), claims for loss of, or damage to, or loss of use of property which is located at the site of and used in connection with the licensed activity where the nuclear incident occurs. “Public liability” also includes damage to property of persons indemnified: Provided, That such property is covered under the terms of the financial protection required, except property which is located at the site of and used in connection with the activity where the nuclear incident occurs.
 
@@ -247,9 +247,9 @@ Sections 12 to 19 of act Aug. 1, 1946, ch. 724, 60 Stat. 770–775, which relate
 
 1994—Subsec. (o). Pub. L. 103–437 substituted “ ‘Energy Committees’ means the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives” for “ ‘Joint Committee’ means the Joint Committee on Atomic Energy”.
 
-1992—Subsec. (v). Pub. L. 102–486 amended last sentence generally. Prior to amendment, last sentence read as follows: “Except with respect to the export of a uranium enrichment production facility, such term as used in subchapters IX and XV of this division shall not include any equipment or device (or important component part especially designed for such equipment or device) capable of separating the isotopes of uranium or enriching uranium in the isotope 235.”
+1992—Subsec. (v). Pub. L. 102–486 amended last sentence generally. Prior to amendment, last sentence read as follows: “Except with respect to the export of a uranium enrichment production facility, such term as used in subchapters IX and XV shall not include any equipment or device (or important component part especially designed for such equipment or device) capable of separating the isotopes of uranium or enriching uranium in the isotope 235.”
 
-1990—Subsec. (v). Pub. L. 101–575 inserted at end “Except with respect to the export of a uranium enrichment production facility, such term as used in subchapters IX and XV of this chapter shall not include any equipment or device (or important component part especially designed for such equipment or device) capable of separating the isotopes of uranium or enriching uranium in the isotope 235.”
+1990—Subsec. (v). Pub. L. 101–575 inserted at end “Except with respect to the export of a uranium enrichment production facility, such term as used in subchapters IX and XV shall not include any equipment or device (or important component part especially designed for such equipment or device) capable of separating the isotopes of uranium or enriching uranium in the isotope 235.”
 
 1988—Subsecs. (j), (m). Pub. L. 100–408, § 16(b)(1), substituted “Nuclear Regulatory Commission or the Secretary of Energy, as appropriate,” for “Commission” wherever appearing.
 
@@ -364,7 +364,7 @@ The Secretary is authorized to expend such funds as may be necessary for the pur
 
   (A) are United States citizens; and
 
-  (B) enter into an agreement under subsection (c) of this section to be employed by the Commission in the area of study for which the scholarship is awarded.
+  (B) enter into an agreement under subsection (c) to be employed by the Commission in the area of study for which the scholarship is awarded.
 
 **(b) Fellowship program** To enable students to pursue education in science, engineering, or another field of study that the Commission determines is in a critical skill area related to its regulatory mission, in a graduate or professional degree program offered by an institution of higher education in the United States, the Commission may carry out a program to—
 
@@ -372,11 +372,11 @@ The Secretary is authorized to expend such funds as may be necessary for the pur
 
   (A) are United States citizens; and
 
-  (B) enter into an agreement under subsection (c) of this section to be employed by the Commission in the area of study for which the fellowship is awarded.
+  (B) enter into an agreement under subsection (c) to be employed by the Commission in the area of study for which the fellowship is awarded.
 
 **(c) Requirements**
 
-(1) **In general** — As a condition of receiving a scholarship or fellowship under subsection (a) or (b) of this section, a recipient of the scholarship or fellowship shall enter into an agreement with the Commission under which, in return for the assistance, the recipient shall—
+(1) **In general** — As a condition of receiving a scholarship or fellowship under subsection (a) or (b), a recipient of the scholarship or fellowship shall enter into an agreement with the Commission under which, in return for the assistance, the recipient shall—
 
   (A) maintain satisfactory academic progress in the studies of the recipient, as determined by criteria established by the Commission;
 
@@ -437,7 +437,7 @@ Section, act Aug. 1, 1946, ch. 724, title I, § 251, as added Aug. 30, 1954, ch.
 
 **(b) Accounting** Any Act appropriating funds to the Commission may appropriate specified portions thereof to be accounted for upon the certification of the Commission only.
 
-**(c) Restoration or replacement of facilities** Notwithstanding the provisions of subsection (a) of this section, funds are hereby authorized to be appropriated for the restoration or replacement of any plant or facility destroyed or otherwise seriously damaged, and the Commission is authorized to use available funds for such purposes.
+**(c) Restoration or replacement of facilities** Notwithstanding the provisions of subsection (a), funds are hereby authorized to be appropriated for the restoration or replacement of any plant or facility destroyed or otherwise seriously damaged, and the Commission is authorized to use available funds for such purposes.
 
 **(d) Substituted construction projects** Funds authorized to be appropriated for any construction project to be used in connection with the development or production of special nuclear material or atomic weapons may be used to start another construction project not otherwise authorized if the substituted construction project is within the limit of cost of the construction project for which substitution is to be made, and the Commission certifies that—
 
@@ -608,7 +608,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 (6) to recognize that, as the States improve their capabilities to regulate effectively such materials, additional legislation may be desirable.
 
-**(b) Agreements with States** Except as provided in subsection (c) of this section, the Commission is authorized to enter into agreements with the Governor of any State providing for discontinuance of the regulatory authority of the Commission under subchapters V, VI, and VII of this division, and [section 2201 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2201), with respect to any one or more of the following materials within the State:
+**(b) Agreements with States** Except as provided in subsection (c), the Commission is authorized to enter into agreements with the Governor of any State providing for discontinuance of the regulatory authority of the Commission under subchapters V, VI, and VII of this division, and [section 2201 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2201), with respect to any one or more of the following materials within the State:
 
 (1) Byproduct materials (as defined in [section 2014(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/e&num=0&edition=prelim)).
 
@@ -617,7 +617,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 (3) Special nuclear materials in quantities not sufficient to form a critical mass.
 During the duration of such an agreement it is recognized that the State shall have authority to regulate the materials covered by the agreement for the protection of the public health and safety from radiation hazards.
 
-**(c) Commission regulation of certain activities** No agreement entered into pursuant to subsection (b) of this section shall provide for discontinuance of any authority and the Commission shall retain authority and responsibility with respect to regulation of—
+**(c) Commission regulation of certain activities** No agreement entered into pursuant to subsection (b) shall provide for discontinuance of any authority and the Commission shall retain authority and responsibility with respect to regulation of—
 
 (1) the construction and operation of any production or utilization facility or any uranium enrichment facility;
 
@@ -626,31 +626,31 @@ During the duration of such an agreement it is recognized that the State shall h
 (3) the disposal into the ocean or sea of byproduct, source, or special nuclear waste materials as defined in regulations or orders of the Commission;
 
 (4) the disposal of such other byproduct, source, or special nuclear material as the Commission determines by regulation or order should, because of the hazards or potential hazards thereof, not be so disposed of without a license from the Commission.
-The Commission shall also retain authority under any such agreement to make a determination that all applicable standards and requirements have been met prior to termination of a license for byproduct material, as defined in [section 2014(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/e/2&num=0&edition=prelim). Notwithstanding any agreement between the Commission and any State pursuant to subsection (b) of this section, the Commission is authorized by rule, regulation, or order to require that the manufacturer, processor, or producer of any equipment, device, commodity, or other product containing source, byproduct, or special nuclear material shall not transfer possession or control of such product except pursuant to a license issued by the Commission.
+The Commission shall also retain authority under any such agreement to make a determination that all applicable standards and requirements have been met prior to termination of a license for byproduct material, as defined in [section 2014(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/e/2&num=0&edition=prelim). Notwithstanding any agreement between the Commission and any State pursuant to subsection (b), the Commission is authorized by rule, regulation, or order to require that the manufacturer, processor, or producer of any equipment, device, commodity, or other product containing source, byproduct, or special nuclear material shall not transfer possession or control of such product except pursuant to a license issued by the Commission.
 
 **(d) Conditions** The Commission shall enter into an agreement under subsection (b) of this section with any State if—
 
 (1) The 11 So in original. Probably should not be capitalized. Governor of that State certifies that the State has a program for the control of radiation hazards adequate to protect the public health and safety with respect to the materials within the State covered by the proposed agreement, and that the State desires to assume regulatory responsibility for such materials; and
 
-(2) the Commission finds that the State program is in accordance with the requirements of subsection (o) of this section and in all other respects compatible with the Commission’s program for the regulation of such materials, and that the State program is adequate to protect the public health and safety with respect to the materials covered by the proposed agreement.
+(2) the Commission finds that the State program is in accordance with the requirements of subsection (o) and in all other respects compatible with the Commission’s program for the regulation of such materials, and that the State program is adequate to protect the public health and safety with respect to the materials covered by the proposed agreement.
 
 **(e) Publication in Federal Register; comment of interested persons**
 
-(1) Before any agreement under subsection (b) of this section is signed by the Commission, the terms of the proposed agreement and of proposed exemptions pursuant to subsection (f) of this section shall be published once each week for four consecutive weeks in the Federal Register; and such opportunity for comment by interested persons on the proposed agreement and exemptions shall be allowed as the Commission determines by regulation or order to be appropriate.
+(1) Before any agreement under subsection (b) is signed by the Commission, the terms of the proposed agreement and of proposed exemptions pursuant to subsection (f) shall be published once each week for four consecutive weeks in the Federal Register; and such opportunity for comment by interested persons on the proposed agreement and exemptions shall be allowed as the Commission determines by regulation or order to be appropriate.
 
 (2) Each proposed agreement shall include the proposed effective date of such proposed agreement or exemptions. The agreement and exemptions shall be published in the Federal Register within thirty days after signature by the Commission and the Governor.
 
-**(f) Exemptions** The Commission is authorized and directed, by regulation or order, to grant such exemptions from the licensing requirements contained in subchapters V, VI, and VII of this division, and from its regulations applicable to licensees as the Commission finds necessary or appropriate to carry out any agreement entered into pursuant to subsection (b) of this section.
+**(f) Exemptions** The Commission is authorized and directed, by regulation or order, to grant such exemptions from the licensing requirements contained in subchapters V, VI, and VII, and from its regulations applicable to licensees as the Commission finds necessary or appropriate to carry out any agreement entered into pursuant to subsection (b) of this section.
 
 **(g) Compatible radiation standards** The Commission is authorized and directed to cooperate with the States in the formulation of standards for protection against hazards of radiation to assure that State and Commission programs for protection against hazards of radiation will be coordinated and compatible.
 
 **(h) Consultative, advisory, and miscellaneous functions of Administrator of Environmental Protection Agency** The Administrator of the Environmental Protection Agency shall consult qualified scientists and experts in radiation matters, including the President of the National Academy of Sciences, the Chairman of the National Committee on Radiation Protection and Measurement, and qualified experts in the field of biology and medicine and in the field of health physics. The Special Assistant to the President for Science and Technology, or his designee, is authorized to attend meetings with, participate in the deliberations of, and to advise the Administrator. The Administrator shall advise the President with respect to radiation matters, directly or indirectly affecting health, including guidance for all Federal agencies in the formulation of radiation standards and in the establishment and execution of programs of cooperation with States. The Administrator shall also perform such other functions as the President may assign to him by Executive order.
 
-**(i) Inspections and other functions; training and other assistance** The Commission in carrying out its licensing and regulatory responsibilities under this chapter is authorized to enter into agreements with any State, or group of States, to perform inspections or other functions on a cooperative basis as the Commission deems appropriate. The Commission is also authorized to provide training, with or without charge, to employees of, and such other assistance to, any State or political subdivision thereof or group of States as the Commission deems appropriate. Any such provision or assistance by the Commission shall take into account the additional expenses that may be incurred by a State as a consequence of the State’s entering into an agreement with the Commission pursuant to subsection (b) of this section.
+**(i) Inspections and other functions; training and other assistance** The Commission in carrying out its licensing and regulatory responsibilities under this chapter is authorized to enter into agreements with any State, or group of States, to perform inspections or other functions on a cooperative basis as the Commission deems appropriate. The Commission is also authorized to provide training, with or without charge, to employees of, and such other assistance to, any State or political subdivision thereof or group of States as the Commission deems appropriate. Any such provision or assistance by the Commission shall take into account the additional expenses that may be incurred by a State as a consequence of the State’s entering into an agreement with the Commission pursuant to subsection (b).
 
 **(j) Reserve power to terminate or suspend agreements; emergency situations; State nonaction on causes of danger; authority exercisable only during emergency and commensurate with danger**
 
-(1) The Commission, upon its own initiative after reasonable notice and opportunity for hearing to the State with which an agreement under subsection (b) of this section has become effective, or upon request of the Governor of such State, may terminate or suspend all or part of its agreement with the State and reassert the licensing and regulatory authority vested in it under this chapter, if the Commission finds that (1) such termination or suspension is required to protect the public health and safety, or (2) the State has not complied with one or more of the requirements of this section. The Commission shall periodically review such agreements and actions taken by the States under the agreements to ensure compliance with the provisions of this section.
+(1) The Commission, upon its own initiative after reasonable notice and opportunity for hearing to the State with which an agreement under subsection (b) has become effective, or upon request of the Governor of such State, may terminate or suspend all or part of its agreement with the State and reassert the licensing and regulatory authority vested in it under this chapter, if the Commission finds that (1) such termination or suspension is required to protect the public health and safety, or (2) the State has not complied with one or more of the requirements of this section. The Commission shall periodically review such agreements and actions taken by the States under the agreements to ensure compliance with the provisions of this section.
 
 (2) The Commission, upon its own motion or upon request of the Governor of any State, may, after notifying the Governor, temporarily suspend all or part of its agreement with the State without notice or hearing if, in the judgment of the Commission:
 
@@ -661,13 +661,13 @@ The Commission shall also retain authority under any such agreement to make a de
 
 **(k) State regulation of activities for certain purposes** Nothing in this section shall be construed to affect the authority of any State or local agency to regulate activities for purposes other than protection against radiation hazards.
 
-**(l) Commission regulated activities; notice of filing; hearing** With respect to each application for Commission license authorizing an activity as to which the Commission’s authority is continued pursuant to subsection (c) of this section, the Commission shall give prompt notice to the State or States in which the activity will be conducted of the filing of the license application; and shall afford reasonable opportunity for State representatives to offer evidence, interrogate witnesses, and advise the Commission as to the application without requiring such representatives to take a position for or against the granting of the application.
+**(l) Commission regulated activities; notice of filing; hearing** With respect to each application for Commission license authorizing an activity as to which the Commission’s authority is continued pursuant to subsection (c), the Commission shall give prompt notice to the State or States in which the activity will be conducted of the filing of the license application; and shall afford reasonable opportunity for State representatives to offer evidence, interrogate witnesses, and advise the Commission as to the application without requiring such representatives to take a position for or against the granting of the application.
 
-**(m) Limitation of agreements and exemptions** No agreement entered into under subsection (b) of this section, and no exemption granted pursuant to subsection (f) of this section, shall affect the authority of the Commission under section 2201(b) or (i) of this title to issue rules, regulations, or orders to protect the common defense and security, to protect restricted data or to guard against the loss or diversion of special nuclear material. For purposes of [section 2201(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2201/i&num=0&edition=prelim), activities covered by exemptions granted pursuant to subsection (f) of this section shall be deemed to constitute activities authorized pursuant to this chapter; and special nuclear material acquired by any person pursuant to such an exemption shall be deemed to have been acquired pursuant to [section 2073 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2073).
+**(m) Limitation of agreements and exemptions** No agreement entered into under subsection (b), and no exemption granted pursuant to subsection (f), shall affect the authority of the Commission under section 2201(b) or (i) of this title to issue rules, regulations, or orders to protect the common defense and security, to protect restricted data or to guard against the loss or diversion of special nuclear material. For purposes of [section 2201(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2201/i&num=0&edition=prelim), activities covered by exemptions granted pursuant to subsection (f) shall be deemed to constitute activities authorized pursuant to this chapter; and special nuclear material acquired by any person pursuant to such an exemption shall be deemed to have been acquired pursuant to [section 2073 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2073).
 
 **(n) “State” and “agreement” defined** As used in this section, the term “State” means any State, Territory, or possession of the United States, the Canal Zone, Puerto Rico, and the District of Columbia. As used in this section, the term “agreement” includes any amendment to any agreement.
 
-**(o) State compliance requirements: compliance with [section 2113(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2113/b&num=0&edition=prelim) and health and environmental protection standards; procedures for licenses, rulemaking, and license impact analysis; amendment of agreements for transfer of State collected funds; proceedings duplication restriction; alternative requirements** In the licensing and regulation of byproduct material, as defined in [section 2014(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/e/2&num=0&edition=prelim), or of any activity which results in the production of byproduct material as so defined under an agreement entered into pursuant to subsection (b) of this section, a State shall require—
+**(o) State compliance requirements: compliance with [section 2113(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2113/b&num=0&edition=prelim) and health and environmental protection standards; procedures for licenses, rulemaking, and license impact analysis; amendment of agreements for transfer of State collected funds; proceedings duplication restriction; alternative requirements** In the licensing and regulation of byproduct material, as defined in [section 2014(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/e/2&num=0&edition=prelim), or of any activity which results in the production of byproduct material as so defined under an agreement entered into pursuant to subsection (b), a State shall require—
 
 (1) compliance with the requirements of subsection (b) of [section 2113 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2113) (respecting ownership of byproduct material and land), and
 
@@ -729,7 +729,7 @@ In subsec. (h) of this section, provisions for the establishment of a Federal Ra
 
 Subsec. (c). Pub. L. 95–604, § 204(f), required the Commission to retain authority under the agreement to make a determination that all applicable standards and requirements have been met prior to termination of a license for byproduct material as defined in [section 2014(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/e/2&num=0&edition=prelim).
 
-Subsec. (d)(2). Pub. L. 95–604, § 204(b), inserted “in accordance with the requirements of subsection (o) of this section and in all other respects” before “compatible”.
+Subsec. (d)(2). Pub. L. 95–604, § 204(b), inserted “in accordance with the requirements of subsection (o) and in all other respects” before “compatible”.
 
 Subsec. (j). Pub. L. 95–604, § 204(d), inserted “all or part of” after “suspend”, designated provision requiring termination or suspension be necessary to protect the public health and safety as cl. (1), added cl. (2), and inserted provision requiring the Commission to periodically review the agreements and actions taken by the States under the agreements to ensure compliance with the provisions of this section.
 
@@ -756,7 +756,7 @@ Ex. Ord. No. 12192, Feb. 12, 1980, 45 F.R. 9727, which established the State Pla
 ## § 2021a. Storage or disposal facility planning
 **(a)** Any person, agency, or other entity proposing to develop a storage or disposal facility, including a test disposal facility, for high-level radioactive wastes, non-high-level radioactive wastes including transuranium contaminated wastes, or irradiated nuclear reactor fuel, shall notify the Commission as early as possible after the commencement of planning for a particular proposed facility. The Commission shall in turn notify the Governor and the State legislature of the State of proposed situs whenever the Commission has knowledge of such proposal.
 
-**(b)** The Commission is authorized and directed to prepare a report on means for improving the opportunities for State participation in the process for siting, licensing, and developing nuclear waste storage or disposal facilities. Such report shall include detailed consideration of a program to provide grants through the Commission to any State, and the advisability of such a program, for the purpose of conducting an independent State review of any proposal to develop a nuclear waste storage or disposal facility identified in subsection (a) of this section within such State. On or before March 1, 1979, the Commission shall submit the report to the Congress including recommendations for improving the opportunities for State participation together with any necessary legislative proposals.
+**(b)** The Commission is authorized and directed to prepare a report on means for improving the opportunities for State participation in the process for siting, licensing, and developing nuclear waste storage or disposal facilities. Such report shall include detailed consideration of a program to provide grants through the Commission to any State, and the advisability of such a program, for the purpose of conducting an independent State review of any proposal to develop a nuclear waste storage or disposal facility identified in subsection (a) within such State. On or before March 1, 1979, the Commission shall submit the report to the Congress including recommendations for improving the opportunities for State participation together with any necessary legislative proposals.
 
 ### Statutory Notes
 
@@ -978,19 +978,19 @@ Pub. L. 99–240, title II, Jan. 15, 1986, 99 Stat. 1859, provided that: “SEC.
 ## § 2021e. Limited availability of certain regional disposal facilities during transition and licensing periods
 **(a) Availability of disposal capacity**
 
-(1) **Pressurized water and boiling water reactors** — During the seven-year period beginning January 1, 1986 and ending December 31, 1992, subject to the provisions of subsections (b) through (g) of this section, each State in which there is located a regional disposal facility referred to in paragraphs (1) through (3) of subsection (b) of this section shall make disposal capacity available for low-level radioactive waste generated by pressurized water and boiling water commercial nuclear power reactors in accordance with the allocations established in subsection (c) of this section.
+(1) **Pressurized water and boiling water reactors** — During the seven-year period beginning January 1, 1986 and ending December 31, 1992, subject to the provisions of subsections (b) through (g), each State in which there is located a regional disposal facility referred to in paragraphs (1) through (3) of subsection (b) shall make disposal capacity available for low-level radioactive waste generated by pressurized water and boiling water commercial nuclear power reactors in accordance with the allocations established in subsection (c).
 
-(2) **Other sources of low-level radioactive waste** — During the seven-year period beginning January 1, 1986 and ending December 31, 1992, subject to the provisions of subsections (b) through (g) of this section, each State in which there is located a regional disposal facility referred to in paragraphs (1) through (3) of subsection (b) of this section shall make disposal capacity available for low-level radioactive waste generated by any source not referred to in paragraph (1).
+(2) **Other sources of low-level radioactive waste** — During the seven-year period beginning January 1, 1986 and ending December 31, 1992, subject to the provisions of subsections (b) through (g), each State in which there is located a regional disposal facility referred to in paragraphs (1) through (3) of subsection (b) shall make disposal capacity available for low-level radioactive waste generated by any source not referred to in paragraph (1).
 
 (3) **Allocation of disposal capacity**
 
-  (A) During the seven-year period beginning January 1, 1986 and ending December 31, 1992, low-level radioactive waste generated within a sited compact region shall be accorded priority under this section in the allocation of available disposal capacity at a regional disposal facility referred to in paragraphs (1) through (3) of subsection (b) of this section and located in the sited compact region in which such waste is generated.
+  (A) During the seven-year period beginning January 1, 1986 and ending December 31, 1992, low-level radioactive waste generated within a sited compact region shall be accorded priority under this section in the allocation of available disposal capacity at a regional disposal facility referred to in paragraphs (1) through (3) of subsection (b) and located in the sited compact region in which such waste is generated.
 
-  (B) Any State in which a regional disposal facility referred to in paragraphs (1) through (3) of subsection (b) of this section is located may, subject to the provisions of its compact, prohibit the disposal at such facility of low-level radioactive waste generated outside of the compact region if the disposal of such waste in any given calendar year, together with all other low-level radioactive waste disposed of at such facility within that same calendar year, would result in that facility disposing of a total annual volume of low-level radioactive waste in excess of 100 per centum of the average annual volume for such facility designated in subsection (b) of this section: Provided, however, That in the event that all three States in which regional disposal facilities referred to in paragraphs (1) through (3) of subsection (b) of this section act to prohibit the disposal of low-level radioactive waste pursuant to this subparagraph, each such State shall, in accordance with any applicable procedures of its compact, permit, as necessary, the disposal of additional quantities of such waste in increments of 10 per centum of the average annual volume for each such facility designated in subsection (b) of this section.
+  (B) Any State in which a regional disposal facility referred to in paragraphs (1) through (3) of subsection (b) is located may, subject to the provisions of its compact, prohibit the disposal at such facility of low-level radioactive waste generated outside of the compact region if the disposal of such waste in any given calendar year, together with all other low-level radioactive waste disposed of at such facility within that same calendar year, would result in that facility disposing of a total annual volume of low-level radioactive waste in excess of 100 per centum of the average annual volume for such facility designated in subsection (b): Provided, however, That in the event that all three States in which regional disposal facilities referred to in paragraphs (1) through (3) of subsection (b) act to prohibit the disposal of low-level radioactive waste pursuant to this subparagraph, each such State shall, in accordance with any applicable procedures of its compact, permit, as necessary, the disposal of additional quantities of such waste in increments of 10 per centum of the average annual volume for each such facility designated in subsection (b).
 
-  (C) Nothing in this paragraph shall require any disposal facility or State referred to in paragraphs (1) through (3) of subsection (b) of this section to accept for disposal low-level radioactive waste in excess of the total amounts designated in subsection (b) of this section.
+  (C) Nothing in this paragraph shall require any disposal facility or State referred to in paragraphs (1) through (3) of subsection (b) to accept for disposal low-level radioactive waste in excess of the total amounts designated in subsection (b).
 
-(4) **Cessation of operation of low-level radioactive waste disposal facility** — No provision of this section shall be construed to obligate any State referred to in paragraphs (1) through (3) of subsection (b) of this section to accept low-level radioactive waste from any source in the event that the regional disposal facility located in such State ceases operations.
+(4) **Cessation of operation of low-level radioactive waste disposal facility** — No provision of this section shall be construed to obligate any State referred to in paragraphs (1) through (3) of subsection (b) to accept low-level radioactive waste from any source in the event that the regional disposal facility located in such State ceases operations.
 
 **(b) Limitations** The availability of disposal capacity for low-level radioactive waste from any source shall be subject to the following limitations:
 
@@ -1002,13 +1002,13 @@ Pub. L. 99–240, title II, Jan. 15, 1986, 99 Stat. 1859, provided that: “SEC.
 
 **(c) Commercial nuclear power reactor allocations**
 
-(1) **Amount** — Subject to the provisions of subsections (a) through (g) of this section each commercial nuclear power reactor shall upon request receive an allocation of low-level radioactive waste disposal capacity (in cubic feet) at the facilities referred to in subsection (b) of this section during the 4-year transition period beginning January 1, 1986, and ending December 31, 1989, and during the 3-year licensing period beginning January 1, 1990, and ending December 31, 1992, in an amount calculated by multiplying the appropriate number from the following table by the number of months remaining in the applicable period as determined under paragraph (2). Reactor Type4-year Transition Period3-year Licensing Period In Sited RegionAll Other LocationsIn Sited RegionAll Other Locations PWR1027871934685 BWR2300195120911533
+(1) **Amount** — Subject to the provisions of subsections (a) through (g) each commercial nuclear power reactor shall upon request receive an allocation of low-level radioactive waste disposal capacity (in cubic feet) at the facilities referred to in subsection (b) during the 4-year transition period beginning January 1, 1986, and ending December 31, 1989, and during the 3-year licensing period beginning January 1, 1990, and ending December 31, 1992, in an amount calculated by multiplying the appropriate number from the following table by the number of months remaining in the applicable period as determined under paragraph (2). Reactor Type4-year Transition Period3-year Licensing Period In Sited RegionAll Other LocationsIn Sited RegionAll Other Locations PWR1027871934685 BWR2300195120911533
 
 (2) **Method of calculation** — For purposes of calculating the aggregate amount of disposal capacity available to a commercial nuclear power reactor under this subsection, the number of months shall be computed beginning with the first month of the applicable period, or the sixteenth month after receipt of a full power operating license, whichever occurs later.
 
 (3) **Unused allocations** — Any unused allocation under paragraph (1) received by a reactor during the transition period or the licensing period may be used at any time after such reactor receives its full power license or after the beginning of the pertinent period, whichever is later, but not in any event after December 31, 1992, or after commencement of operation of a regional disposal facility in the compact region or State in which such reactor is located, whichever occurs first.
 
-(4) **Transferability** — Any commercial nuclear power reactor in a State or compact region that is in compliance with the requirements of subsection (e) of this section may assign any disposal capacity allocated to it under this subsection to any other person in each State or compact region. Such assignment may be for valuable consideration and shall be in writing, copies of which shall be filed at the affected compact commissions and States, along with the assignor’s unconditional written waiver of the disposal capacity being assigned.
+(4) **Transferability** — Any commercial nuclear power reactor in a State or compact region that is in compliance with the requirements of subsection (e) may assign any disposal capacity allocated to it under this subsection to any other person in each State or compact region. Such assignment may be for valuable consideration and shall be in writing, copies of which shall be filed at the affected compact commissions and States, along with the assignor’s unconditional written waiver of the disposal capacity being assigned.
 
 (5) **Unusual volumes**
 
@@ -1016,11 +1016,11 @@ Pub. L. 99–240, title II, Jan. 15, 1986, 99 Stat. 1859, provided that: “SEC.
 
   (B) The Secretary may not make allocations pursuant to subparagraph (A) that would result in the acceptance for disposal of more than 800,000 cubic feet of low-level radioactive waste or would result in the total of the allocations made pursuant to this subsection exceeding 11,900,000 cubic feet over the entire seven-year interim access period.
 
-(6) **Limitation** — During the seven-year interim access period referred to in subsection (a) of this section, the disposal facilities referred to in subsection (b) of this section shall not be required to accept more than 11,900,000 cubic feet of low-level radioactive waste generated by commercial nuclear power reactors.
+(6) **Limitation** — During the seven-year interim access period referred to in subsection (a), the disposal facilities referred to in subsection (b) shall not be required to accept more than 11,900,000 cubic feet of low-level radioactive waste generated by commercial nuclear power reactors.
 
 **(d) Use of surcharge funds for milestone incentives; consequences of failure to meet disposal deadline**
 
-(1) **Surcharges** — The disposal of any low-level radioactive waste under this section (other than low-level radioactive waste generated in a sited compact region) may be charged a surcharge by the State in which the applicable regional disposal facility is located, in addition to the fees and surcharges generally applicable for disposal of low-level radioactive waste in the regional disposal facility involved. Except as provided in subsection (e)(2) of this section, such surcharges shall not exceed—
+(1) **Surcharges** — The disposal of any low-level radioactive waste under this section (other than low-level radioactive waste generated in a sited compact region) may be charged a surcharge by the State in which the applicable regional disposal facility is located, in addition to the fees and surcharges generally applicable for disposal of low-level radioactive waste in the regional disposal facility involved. Except as provided in subsection (e)(2), such surcharges shall not exceed—
 
   (A) in 1986 and 1987, $10 per cubic foot of low-level radioactive waste;
 
@@ -1030,7 +1030,7 @@ Pub. L. 99–240, title II, Jan. 15, 1986, 99 Stat. 1859, provided that: “SEC.
 
 (2) **Milestone incentives**
 
-  (A) *Escrow account* — Twenty-five per centum of all surcharge fees received by a State pursuant to paragraph (1) during the seven-year period referred to in subsection (a) of this section shall be transferred on a monthly basis to an escrow account held by the Secretary. The Secretary shall deposit all funds received in a special escrow account. The funds so deposited shall not be the property of the United States. The Secretary shall act as trustee for such funds and shall invest them in interest-bearing United States Government Securities with the highest available yield. Such funds shall be held by the Secretary until—
+  (A) *Escrow account* — Twenty-five per centum of all surcharge fees received by a State pursuant to paragraph (1) during the seven-year period referred to in subsection (a) shall be transferred on a monthly basis to an escrow account held by the Secretary. The Secretary shall deposit all funds received in a special escrow account. The funds so deposited shall not be the property of the United States. The Secretary shall act as trustee for such funds and shall invest them in interest-bearing United States Government Securities with the highest available yield. Such funds shall be held by the Secretary until—
 
     (i) paid or repaid in accordance with subparagraph (B) or (C); or
 
@@ -1038,11 +1038,11 @@ Pub. L. 99–240, title II, Jan. 15, 1986, 99 Stat. 1859, provided that: “SEC.
 
   (B) *Payments*
 
-    (i) *July 1, 1986.—* — The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning on January 15, 1986, and ending June 30, 1986, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(A) of this section is met by the State in which such waste originated.
+    (i) *July 1, 1986.—* — The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning on January 15, 1986, and ending June 30, 1986, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(A) is met by the State in which such waste originated.
 
-    (ii) *January 1, 1988.—* — The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning July 1, 1986 and ending December 31, 1987, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(B) of this section is met by the State in which such waste originated (or its compact region, where applicable).
+    (ii) *January 1, 1988.—* — The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning July 1, 1986 and ending December 31, 1987, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(B) is met by the State in which such waste originated (or its compact region, where applicable).
 
-    (iii) *January 1, 1990.—* — The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning January 1, 1988 and ending December 31, 1989, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(C) of this section is met by the State in which such waste originated (or its compact region, where applicable).
+    (iii) *January 1, 1990.—* — The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning January 1, 1988 and ending December 31, 1989, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(C) is met by the State in which such waste originated (or its compact region, where applicable).
 
     (iv) The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning January 1, 1990 and ending December 31, 1992, and transferred to the Secretary under subparagrah 11 So in original. Probably should be “subparagraph”. (A), shall be paid by the Secretary in accordance with subparagraph (D) if, by January 1, 1993, the State in which such waste originated (or its compact region, where applicable) is able to provide for the disposal of all low-level radioactive waste generated within such State or compact region.
 
@@ -1079,7 +1079,7 @@ Pub. L. 99–240, title II, Jan. 15, 1986, 99 Stat. 1859, provided that: “SEC.
 
   (F) *Payment to States* — Any amount collected by a State under paragraph (1) that is placed in escrow under subparagraph (A) and not paid to a State or compact commission under subparagraphs (B) and (C) or not repaid to a generator under subparagraph (C) shall be paid from such escrow account to such State collecting such payment under paragraph (1). Such payment shall be made not later than 30 days after a determination of ineligibility for a refund is made.
 
-  (G) *Penalty surcharges* — No rebate shall be made under this subsection of any surcharge or penalty surcharge paid during a period of noncompliance with subsection (e)(1) of this section.
+  (G) *Penalty surcharges* — No rebate shall be made under this subsection of any surcharge or penalty surcharge paid during a period of noncompliance with subsection (e)(1).
 
 **(e) Requirements for access to regional disposal facilities**
 
@@ -1111,23 +1111,23 @@ Pub. L. 99–240, title II, Jan. 15, 1986, 99 Stat. 1859, provided that: “SEC.
 
   (A) *By July 1, 1986* — If any State fails to comply with subparagraph (1)(A)—
 
-    (i) any generator of low-level radioactive waste within such region or non-member State shall, for the period beginning July 1, 1986, and ending December 31, 1986, be charged 2 times the surcharge otherwise applicable under subsection (d) of this section; and
+    (i) any generator of low-level radioactive waste within such region or non-member State shall, for the period beginning July 1, 1986, and ending December 31, 1986, be charged 2 times the surcharge otherwise applicable under subsection (d); and
 
-    (ii) on or after January 1, 1987, any low-level radioactive waste generated within such region or non-member State may be denied access to the regional disposal facilities referred to in paragraphs (1) through (3) of subsection (b) of this section.
+    (ii) on or after January 1, 1987, any low-level radioactive waste generated within such region or non-member State may be denied access to the regional disposal facilities referred to in paragraphs (1) through (3) of subsection (b).
 
   (B) *By January 1, 1988* — If any non-sited compact region or non-member State fails to comply with paragraph (1)(B)—
 
     (i) any generator of low-level radioactive waste within such region or non-member State shall—
 
-      (I) for the period beginning January 1, 1988, and ending June 30, 1988, be charged 2 times the surcharge otherwise applicable under subsection (d) of this section; and
+      (I) for the period beginning January 1, 1988, and ending June 30, 1988, be charged 2 times the surcharge otherwise applicable under subsection (d); and
 
-      (II) for the period beginning July 1, 1988, and ending December 31, 1988, be charged 4 times the surcharge otherwise applicable under subsection (d) of this section; and
+      (II) for the period beginning July 1, 1988, and ending December 31, 1988, be charged 4 times the surcharge otherwise applicable under subsection (d); and
 
-    (ii) on or after January 1, 1989, any low-level radioactive waste generated within such region or non-member State may be denied access to the regional disposal facilities referred to in paragraphs (1) through (3) of subsection (b) of this section.
+    (ii) on or after January 1, 1989, any low-level radioactive waste generated within such region or non-member State may be denied access to the regional disposal facilities referred to in paragraphs (1) through (3) of subsection (b).
 
-  (C) *By January 1, 1990* — If any non-sited compact region or non-member State fails to comply with paragraph (1)(C), any low-level radioactive waste generated within such region or non-member State may be denied access to the regional disposal facilities referred to in paragraphs (1) through (3) of subsection (b) of this section.
+  (C) *By January 1, 1990* — If any non-sited compact region or non-member State fails to comply with paragraph (1)(C), any low-level radioactive waste generated within such region or non-member State may be denied access to the regional disposal facilities referred to in paragraphs (1) through (3) of subsection (b).
 
-  (D) *By January 1, 1992* — If any non-sited compact region or non-member State fails to comply with paragraph (1)(D), any generator of low-level radioactive waste within such region or non-member State shall, for the period beginning January 1, 1992 and ending upon the filing of the application described in paragraph (1)(D), be charged 3 times the surcharge otherwise applicable under subsection (d) of this section.
+  (D) *By January 1, 1992* — If any non-sited compact region or non-member State fails to comply with paragraph (1)(D), any generator of low-level radioactive waste within such region or non-member State shall, for the period beginning January 1, 1992 and ending upon the filing of the application described in paragraph (1)(D), be charged 3 times the surcharge otherwise applicable under subsection (d).
 
 (3) **Denial of access** — No denial or suspension of access to a regional disposal facility under paragraph (2) may be based on the source, class, or type of low-level radioactive waste.
 
@@ -1135,7 +1135,7 @@ Pub. L. 99–240, title II, Jan. 15, 1986, 99 Stat. 1859, provided that: “SEC.
 
 **(f) Monitoring of compliance and denial of access to non-Federal facilities for noncompliance; information requirements of certain States; proprietary information**
 
-(1) **Administration** — Each State and compact commission in which a regional disposal facility referred to in paragraphs (1) through (3) of subsection (b) of this section is located shall have authority—
+(1) **Administration** — Each State and compact commission in which a regional disposal facility referred to in paragraphs (1) through (3) of subsection (b) is located shall have authority—
 
   (A) to monitor compliance with the limitations, allocations, and requirements established in this section; and
 
@@ -1143,7 +1143,7 @@ Pub. L. 99–240, title II, Jan. 15, 1986, 99 Stat. 1859, provided that: “SEC.
 
     (i) is in excess of the limitations or allocations established in this section; or
 
-    (ii) is not required to be accepted due to the failure of a compact region or State to comply with the requirements of subsection (e)(1) of this section.
+    (ii) is not required to be accepted due to the failure of a compact region or State to comply with the requirements of subsection (e)(1).
 
 (2) **Availability of information during interim access period**
 
@@ -1165,7 +1165,7 @@ Pub. L. 99–240, title II, Jan. 15, 1986, 99 Stat. 1859, provided that: “SEC.
 
     (iii) Whenever any individual or State has obtained possession of information under this subsection, the individual shall be subject to the same provisions of law with respect to the disclosure of such information as would apply to an officer or employee of the United States or of any department or agency thereof and the State shall be subject to the same provisions of law with respect to the disclosure of such information as would apply to the United States or any department or agency thereof. No State or State officer or employee who receives trade secrets, proprietary information, or other confidential information under sections 2021b to 2021j of this title may be required to disclose such information under State law.
 
-**(g) Nondiscrimination** Except as provided in subsections (b) through (e) of this section, low-level radioactive waste disposed of under this section shall be subject without discrimination to all applicable legal requirements of the compact region and State in which the disposal facility is located as if such low-level radioactive waste were generated within such compact region.
+**(g) Nondiscrimination** Except as provided in subsections (b) through (e), low-level radioactive waste disposed of under this section shall be subject without discrimination to all applicable legal requirements of the compact region and State in which the disposal facility is located as if such low-level radioactive waste were generated within such compact region.
 
 ### Statutory Notes
 
@@ -1184,21 +1184,21 @@ For constitutionality of section 102 of Pub. L. 99–240, see Congressional Rese
 
 **(c) Determination of Nuclear Regulatory Commission**
 
-(1) **Required determination** — Not later than 45 days after receiving a request under subsection (b) of this section, the Nuclear Regulatory Commission shall determine whether—
+(1) **Required determination** — Not later than 45 days after receiving a request under subsection (b), the Nuclear Regulatory Commission shall determine whether—
 
   (A) emergency access is necessary because of an immediate and serious threat to the public health and safety or the common defense and security; and
 
   (B) the threat cannot be mitigated by any alternative consistent with the public health and safety, including storage of low-level radioactive waste at the site of generation or in a storage facility obtaining access to a disposal facility by voluntary agreement, purchasing disposal capacity available for assignment pursuant to [section 2021e(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2021e/c&num=0&edition=prelim) or ceasing activities that generate low-level radioactive waste.
 
-(2) **Required notification** — If the Nuclear Regulatory Commission makes the determinations required in paragraph (1) in the affirmative, it shall designate an appropriate non-Federal disposal facility or facilities, and notify the Governor (or chief executive officer) of the State in which such facility is located and the appropriate compact commission that emergency access is required. Such notification shall specifically describe the low-level radioactive waste as to source, physical and radiological characteristics, and the minimum volume and duration, not exceeding 180 days, necessary to alleviate the immediate threat to public health and safety or the common defense and security. The Nuclear Regulatory Commission shall also notify the Governor (or chief executive officer) of the State in which the low-level radioactive waste requiring emergency access was generated that emergency access has been granted and that, pursuant to subsection (e) of this section, no extension of emergency access may be granted absent diligent State action during the period of the initial grant.
+(2) **Required notification** — If the Nuclear Regulatory Commission makes the determinations required in paragraph (1) in the affirmative, it shall designate an appropriate non-Federal disposal facility or facilities, and notify the Governor (or chief executive officer) of the State in which such facility is located and the appropriate compact commission that emergency access is required. Such notification shall specifically describe the low-level radioactive waste as to source, physical and radiological characteristics, and the minimum volume and duration, not exceeding 180 days, necessary to alleviate the immediate threat to public health and safety or the common defense and security. The Nuclear Regulatory Commission shall also notify the Governor (or chief executive officer) of the State in which the low-level radioactive waste requiring emergency access was generated that emergency access has been granted and that, pursuant to subsection (e), no extension of emergency access may be granted absent diligent State action during the period of the initial grant.
 
-**(d) Temporary emergency access** Upon determining that emergency access is necessary because of an immediate and serious threat to the public health and safety or the common defense and security, the Nuclear Regulatory Commission may at its discretion grant temporary emergency access, pending its determination whether the threat could be mitigated by any alternative consistent with the public health and safety. In granting access under this subsection, the Nuclear Regulatory Commission shall provide the same notification and information required under subsection (c) of this section. Absent a determination that no alternative consistent with the public health and safety would mitigate the threat, access granted under this subsection shall expire 45 days after the granting of temporary emergency access under this subsection.
+**(d) Temporary emergency access** Upon determining that emergency access is necessary because of an immediate and serious threat to the public health and safety or the common defense and security, the Nuclear Regulatory Commission may at its discretion grant temporary emergency access, pending its determination whether the threat could be mitigated by any alternative consistent with the public health and safety. In granting access under this subsection, the Nuclear Regulatory Commission shall provide the same notification and information required under subsection (c). Absent a determination that no alternative consistent with the public health and safety would mitigate the threat, access granted under this subsection shall expire 45 days after the granting of temporary emergency access under this subsection.
 
-**(e) Extension of emergency access** The Nuclear Regulatory Commission may grant one extension of emergency access beyond the period provided in subsection (c) of this section, if it determines that emergency access continues to be necessary because of an immediate and serious threat to the public health and safety or the common defense and security that cannot be mitigated by any alternative consistent with the public health and safety, and that the generator of low-level radioactive waste granted emergency access and the State in which such low-level radioactive waste was generated have diligently though unsuccessfully acted during the period of the initial grant to eliminate the need for emergency access. Any extension granted under this subsection shall be for the minimum volume and duration the Nuclear Regulatory Commission finds necessary to eliminate the immediate threat to public health and safety or the common defense and security, and shall not in any event exceed 180 days.
+**(e) Extension of emergency access** The Nuclear Regulatory Commission may grant one extension of emergency access beyond the period provided in subsection (c), if it determines that emergency access continues to be necessary because of an immediate and serious threat to the public health and safety or the common defense and security that cannot be mitigated by any alternative consistent with the public health and safety, and that the generator of low-level radioactive waste granted emergency access and the State in which such low-level radioactive waste was generated have diligently though unsuccessfully acted during the period of the initial grant to eliminate the need for emergency access. Any extension granted under this subsection shall be for the minimum volume and duration the Nuclear Regulatory Commission finds necessary to eliminate the immediate threat to public health and safety or the common defense and security, and shall not in any event exceed 180 days.
 
 **(f) Reciprocal access** Any compact region or State not a member of a compact that provides emergency access to non-Federal disposal facilities within its borders shall be entitled to reciprocal access to any subsequently operating non-Federal disposal facility that serves the State or compact region in which low-level radioactive waste granted emergency access was generated. The compact commission or State having authority to approve importation of low-level radioactive waste to the disposal facility to which emergency access was granted shall designate for reciprocal access an equal volume of low-level radioactive waste having similar characteristics to that provided emergency access.
 
-**(g) Approval by compact commission** Any grant of access under this section shall be submitted to the compact commission for the region in which the designated disposal facility is located for such approval as may be required under the terms of its compact. Any such compact commission shall act to approve emergency access not later than 15 days after receiving notification from the Nuclear Regulatory Commission, or reciprocal access not later than 15 days after receiving notification from the appropriate authority under subsection (f) of this section.
+**(g) Approval by compact commission** Any grant of access under this section shall be submitted to the compact commission for the region in which the designated disposal facility is located for such approval as may be required under the terms of its compact. Any such compact commission shall act to approve emergency access not later than 15 days after receiving notification from the Nuclear Regulatory Commission, or reciprocal access not later than 15 days after receiving notification from the appropriate authority under subsection (f).
 
 **(h) Limitations** No State shall be required to provide emergency or reciprocal access to any regional disposal facility within its borders for low-level radioactive waste not meeting criteria established by the license or license agreement of such facility, or in excess of the approved capacity of such facility, or to delay the closing of any such facility pursuant to plans established before receiving a request for emergency or reciprocal access. No State shall, during any 12-month period, be required to provide emergency or reciprocal access to any regional disposal facility within its borders for more than 20 percent of the total volume of low-level radioactive waste accepted for disposal at such facility during the previous calendar year.
 
@@ -1236,7 +1236,7 @@ Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and n
 ## § 2021h. Alternative disposal methods
 **(a)** Not later than 12 months after January 15, 1986, the Nuclear Regulatory Commission shall, in consultation with the States and other interested persons, identify methods for the disposal of low-level radioactive waste other than shallow land burial, and establish and publish technical guidance regarding licensing of facilities that use such methods.
 
-**(b)** Not later than 24 months after January 15, 1986, the Commission shall, in consultation with the States and other interested persons, identify and publish all relevant technical information regarding the methods identified pursuant to subsection (a) of this section that a State or compact must provide to the Commission in order to pursue such methods, together with the technical requirements that such facilities must meet, in the judgment of the Commission, if pursued as an alternative to shallow land burial. Such technical information and requirements shall include, but need not be limited to, site suitability, site design, facility operation, disposal site closure, and environmental monitoring, as necessary to meet the performance objectives established by the Commission for a licensed low-level radioactive waste disposal facility. The Commission shall specify and publish such requirements in a manner and form deemed appropriate by the Commission.
+**(b)** Not later than 24 months after January 15, 1986, the Commission shall, in consultation with the States and other interested persons, identify and publish all relevant technical information regarding the methods identified pursuant to subsection (a) that a State or compact must provide to the Commission in order to pursue such methods, together with the technical requirements that such facilities must meet, in the judgment of the Commission, if pursued as an alternative to shallow land burial. Such technical information and requirements shall include, but need not be limited to, site suitability, site design, facility operation, disposal site closure, and environmental monitoring, as necessary to meet the performance objectives established by the Commission for a licensed low-level radioactive waste disposal facility. The Commission shall specify and publish such requirements in a manner and form deemed appropriate by the Commission.
 
 ### Statutory Notes
 
@@ -1265,7 +1265,7 @@ Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and n
 ## § 2021j. Radioactive waste below regulatory concern
 **(a)** Not later than 6 months after January 15, 1986, the Commission shall establish standards and procedures, pursuant to existing authority, and develop the technical capability for considering and acting upon petitions to exempt specific radioactive waste streams from regulation by the Commission due to the presence of radionuclides in such waste streams in sufficiently low concentrations or quantities as to be below regulatory concern.
 
-**(b)** The standards and procedures established by the Commission pursuant to subsection (a) of this section shall set forth all information required to be submitted to the Commission by licensees in support of such petitions, including, but not limited to—
+**(b)** The standards and procedures established by the Commission pursuant to subsection (a) shall set forth all information required to be submitted to the Commission by licensees in support of such petitions, including, but not limited to—
 
 (1) a detailed description of the waste materials, including their origin, chemical composition, physical state, volume, and mass; and
 
@@ -1284,7 +1284,7 @@ Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and n
 
 **(b) Promulgation and revision of rules for protection from hazards at processing or disposal sites**
 
-(1) As soon as practicable, but not later than October 31, 1982, the Administrator shall, by rule, propose, and within 11 months thereafter promulgate in final form, standards of general application for the protection of the public health, safety, and the environment from radiological and nonradiological hazards associated with the processing and with the possession, transfer, and disposal of byproduct material, as defined in [section 2014(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/e/2&num=0&edition=prelim), at sites at which ores are processed primarily for their source material content or which are used for the disposal of such byproduct material. If the Administrator fails to promulgate standards in final form under this subsection by October 1, 1983, the authority of the Administrator to promulgate such standards shall terminate, and the Commission may take actions under this chapter without regard to any provision of this chapter requiring such actions to comply with, or be taken in accordance with, standards promulgated by the Administrator. In any such case, the Commission shall promulgate, and from time to time revise, any such standards of general application which the Commission deems necessary to carry out its responsibilities in the conduct of its licensing activities under this chapter. Requirements established by the Commission under this chapter with respect to byproduct material as defined in [section 2014(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/e/2&num=0&edition=prelim) shall conform to such standards. Any requirements adopted by the Commission respecting such byproduct material before promulgation by the Commission of such standards shall be amended as the Commission deems necessary to conform to such standards in the same manner as provided in subsection (f)(3) of this section. Nothing in this subsection shall be construed to prohibit or suspend the implementation or enforcement by the Commission of any requirement of the Commission respecting byproduct material as defined in [section 2014(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/e/2&num=0&edition=prelim) pending promulgation by the Commission of any such standard of general application. In establishing such standards, the Administrator shall consider the risk to the public health, safety, and the environment, the environmental and economic costs of applying such standards, and such other factors as the Administrator determines to be appropriate.
+(1) As soon as practicable, but not later than October 31, 1982, the Administrator shall, by rule, propose, and within 11 months thereafter promulgate in final form, standards of general application for the protection of the public health, safety, and the environment from radiological and nonradiological hazards associated with the processing and with the possession, transfer, and disposal of byproduct material, as defined in [section 2014(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/e/2&num=0&edition=prelim), at sites at which ores are processed primarily for their source material content or which are used for the disposal of such byproduct material. If the Administrator fails to promulgate standards in final form under this subsection by October 1, 1983, the authority of the Administrator to promulgate such standards shall terminate, and the Commission may take actions under this chapter without regard to any provision of this chapter requiring such actions to comply with, or be taken in accordance with, standards promulgated by the Administrator. In any such case, the Commission shall promulgate, and from time to time revise, any such standards of general application which the Commission deems necessary to carry out its responsibilities in the conduct of its licensing activities under this chapter. Requirements established by the Commission under this chapter with respect to byproduct material as defined in [section 2014(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/e/2&num=0&edition=prelim) shall conform to such standards. Any requirements adopted by the Commission respecting such byproduct material before promulgation by the Commission of such standards shall be amended as the Commission deems necessary to conform to such standards in the same manner as provided in subsection (f)(3). Nothing in this subsection shall be construed to prohibit or suspend the implementation or enforcement by the Commission of any requirement of the Commission respecting byproduct material as defined in [section 2014(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/e/2&num=0&edition=prelim) pending promulgation by the Commission of any such standard of general application. In establishing such standards, the Administrator shall consider the risk to the public health, safety, and the environment, the environmental and economic costs of applying such standards, and such other factors as the Administrator determines to be appropriate.
 
 (2) Such generally applicable standards promulgated pursuant to this subsection for nonradiological hazards shall provide for the protection of human health and the environment consistent with the standards required under subtitle C of the Solid Waste Disposal Act, as amended [[42 U.S.C. 6921](./chapter-082-solid-waste-disposal.md#section-6921) et seq.], which are applicable to such hazards: Provided, however, That no permit issued by the Administrator is required under this chapter or the Solid Waste Disposal Act, as amended [[42 U.S.C. 6901](./chapter-082-solid-waste-disposal.md#section-6901) et seq.], for the processing, possession, transfer, or disposal of byproduct material, as defined in [section 2014(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/e/2&num=0&edition=prelim). The Administrator may periodically revise any standard promulgated pursuant to this subsection. Within three years after such revision of any such standard, the Commission and any State permitted to exercise authority under [section 2021(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2021/b/2&num=0&edition=prelim) shall apply such revised standard in the case of any license for byproduct material as defined in [section 2014(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/e/2&num=0&edition=prelim) or any revision thereof.
 
@@ -1304,12 +1304,12 @@ Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and n
 
 (1) Prior to January 1, 1983, the Commission shall not implement or enforce the provisions of the Uranium Mill Licensing Requirements published as final rules at 45 Federal Register 65521 to 65538 on October 3, 1980 (hereinafter in this subsection referred to as the “October 3 regulations”). After December 31, 1982, the Commission is authorized to implement and enforce the provisions of such October 3 regulations (and any subsequent modifications or additions to such regulations which may be adopted by the Commission), except as otherwise provided in paragraphs (2) and (3) of this subsection.
 
-(2) Following the proposal by the Administrator of standards under subsection (b) of this section, the Commission shall review the October 3 regulations, and, not later than 90 days after the date of such proposal, suspend implementation and enforcement of any provision of such regulations which the Commission determines after notice and opportunity for public comment to require a major action or major commitment by licensees which would be unnecessary if—
+(2) Following the proposal by the Administrator of standards under subsection (b), the Commission shall review the October 3 regulations, and, not later than 90 days after the date of such proposal, suspend implementation and enforcement of any provision of such regulations which the Commission determines after notice and opportunity for public comment to require a major action or major commitment by licensees which would be unnecessary if—
 
   (A) the standards proposed by the Administrator are promulgated in final form without modification, and
 
   (B) the Commission’s requirements are modified to conform to such standards.
-  Such suspension shall terminate on the earlier of April 1, 1984 or the date on which the Commission amends the October 3 regulations to conform to final standards promulgated by the Administrator under subsection (b) of this section. During the period of such suspension, the Commission shall continue to regulate byproduct material (as defined in [section 2014(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/e/2&num=0&edition=prelim)) under this chapter on a licensee-by-licensee basis as the Commission deems necessary to protect public health, safety, and the environment.
+  Such suspension shall terminate on the earlier of April 1, 1984 or the date on which the Commission amends the October 3 regulations to conform to final standards promulgated by the Administrator under subsection (b). During the period of such suspension, the Commission shall continue to regulate byproduct material (as defined in [section 2014(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/e/2&num=0&edition=prelim)) under this chapter on a licensee-by-licensee basis as the Commission deems necessary to protect public health, safety, and the environment.
 
 (3) Not later than 6 months after the date on which the Administrator promulgates final standards pursuant to subsection (b) of this section, the Commission shall, after notice and opportunity for public comment, amend the October 3 regulations, and adopt such modifications, as the Commission deems necessary to conform to such final standards of the Administrator.
 
@@ -1343,7 +1343,7 @@ Section effective Nov. 8, 1978, see section 208 of Pub. L. 95–604, set out as 
 ## § 2023. State authority to regulate radiation below level of regulatory concern of Nuclear Regulatory Commission
 **(a) In general** No provision of this chapter, or of the Low-Level Radioactive Waste Policy Act [[42 U.S.C. 2021b](./chapter-023-development-and-control-of-atomic-energy.md#section-2021b) et seq.], may be construed to prohibit or otherwise restrict the authority of any State to regulate, on the basis of radiological hazard, the disposal or off-site incineration of low-level radioactive waste, if the Nuclear Regulatory Commission, after October 24, 1992, exempts such waste from regulation.
 
-**(b) Relation to other State authority** This section may not be construed to imply preemption of existing State authority. Except as expressly provided in subsection (a) of this section, this section may not be construed to confer on any State any additional authority to regulate activities licensed by the Nuclear Regulatory Commission.
+**(b) Relation to other State authority** This section may not be construed to imply preemption of existing State authority. Except as expressly provided in subsection (a), this section may not be construed to confer on any State any additional authority to regulate activities licensed by the Nuclear Regulatory Commission.
 
 **(c) Definitions** For purposes of this section:
 
@@ -1610,7 +1610,7 @@ Section was not enacted as part of the Atomic Energy Act of 1954.
 
 **(b) Grants and contributions** The Commission is authorized—
 
-(1) to make grants and contributions to the cost of construction and operation of reactors and other facilities and other equipment to colleges, universities, hospitals, and eleemosynary or charitable institutions for the conduct of educational and training activities relating to the fields in subsection (a) of this section; and
+(1) to make grants and contributions to the cost of construction and operation of reactors and other facilities and other equipment to colleges, universities, hospitals, and eleemosynary or charitable institutions for the conduct of educational and training activities relating to the fields in subsection (a); and
 
 (2) to provide grants, loans, cooperative agreements, contracts, and equipment to institutions of higher education (as defined in [section 1002 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002&num=0&edition=prelim)) to support courses, studies, training, curricula, and disciplines pertaining to nuclear safety, security, or environmental protection, or any other field that the Commission determines to be critical to the regulatory mission of the Commission.
 
@@ -1894,7 +1894,7 @@ Pub. L. 88–489, § 4, Aug. 26, 1964, 78 Stat. 603, provided in part that: “A
 
 (3) The Commission is authorized to enter into agreements with licensees for such period of time as the Commission may deem necessary or desirable to distribute to such licensees such quantities of special nuclear material as may be necessary for the conduct of the licensed activity. In such agreements, the Commission may agree to repurchase any special nuclear material licensed and distributed by sale which is not consumed in the course of the licensed activity, or any uranium remaining after irradiation of such special nuclear material, at a repurchase price not to exceed the Commission’s sale price for comparable special nuclear material or uranium in effect at the time of delivery of such material to the Commission.
 
-(4) The Commission may make a reasonable charge, determined pursuant to this section, for the use of special nuclear material licensed and distributed by lease under subsection (a)(1), (2) or (4) of this section and shall make a reasonable charge determined pursuant to this section for the use of special nuclear material licensed and distributed by lease under subsection (a)(3) of this section. The Commission shall establish criteria in writing for the determination of whether special nuclear material will be distributed by grant and for the determination of whether a charge will be made for the use of special nuclear material licensed and distributed by lease under subsection (a)(1), (2) or (4) of this section, considering, among other things, whether the licensee is a nonprofit or eleemosynary institution and the purposes for which the special nuclear material will be used.
+(4) The Commission may make a reasonable charge, determined pursuant to this section, for the use of special nuclear material licensed and distributed by lease under subsection (a)(1), (2) or (4) and shall make a reasonable charge determined pursuant to this section for the use of special nuclear material licensed and distributed by lease under subsection (a)(3). The Commission shall establish criteria in writing for the determination of whether special nuclear material will be distributed by grant and for the determination of whether a charge will be made for the use of special nuclear material licensed and distributed by lease under subsection (a)(1), (2) or (4), considering, among other things, whether the licensee is a nonprofit or eleemosynary institution and the purposes for which the special nuclear material will be used.
 
 **(d) Determination of charges** In determining the reasonable charge to be made by the Commission for the use of special nuclear material distributed by lease to licensees of utilization or production facilities licensed pursuant to section 2133 or 2134 of this title, in addition to consideration of the cost thereof, the Commission shall take into consideration—
 
@@ -1906,7 +1906,7 @@ Pub. L. 88–489, § 4, Aug. 26, 1964, 78 Stat. 603, provided in part that: “A
 
 (4) whether the special nuclear material is to be used in facilities licensed pursuant to section 2133 or 2134 of this title. In this respect, the Commission shall, insofar as practicable, make uniform, nondiscriminatory charges for the use of special nuclear material distributed to facilities licensed pursuant to [section 2133 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2133); and
 
-(5) with respect to special nuclear material consumed in a facility licensed pursuant to [section 2133 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2133), the Commission shall make a further charge equivalent to the sale price for similar special nuclear material established by the Commission in accordance with subsection (c)(2) of this section, and the Commission may make such a charge with respect to such material consumed in a facility licensed pursuant to [section 2134 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2134).
+(5) with respect to special nuclear material consumed in a facility licensed pursuant to [section 2133 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2133), the Commission shall make a further charge equivalent to the sale price for similar special nuclear material established by the Commission in accordance with subsection (c)(2), and the Commission may make such a charge with respect to such material consumed in a facility licensed pursuant to [section 2134 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2134).
 
 **(e) License conditions** Each license issued pursuant to this section shall contain and be subject to the following conditions—
 
@@ -1947,7 +1947,7 @@ Subsec. (f). Pub. L. 90–190, § 9, struck out reference to the limitations on 
 
 Subsec. (c). Pub. L. 88–489, § 6, designated existing provisions as par. (4), inserted “by lease” wherever appearing and “special nuclear material will be distributed by grant and for the determination of whether”, and added pars. (1) to (3).
 
-Subsec. (d). Pub. L. 88–489, § 7, inserted “by lease” in introductory provisions, and in ch. (5) substituted “equivalent to the sale price for similar special nuclear material established by the Commission in accordance with subsection (c)(2) of this section, and the Commission may make such a charge with respect to such material consumed in a facility licensed pursuant to [section 2134 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2134)” for “based on the cost to the Commission, as estimated by the Commission, or the average fair price paid for the production of such special nuclear material as determined by [section 2076 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2076), whichever is lower”.
+Subsec. (d). Pub. L. 88–489, § 7, inserted “by lease” in introductory provisions, and in ch. (5) substituted “equivalent to the sale price for similar special nuclear material established by the Commission in accordance with subsection (c)(2), and the Commission may make such a charge with respect to such material consumed in a facility licensed pursuant to [section 2134 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2134)” for “based on the cost to the Commission, as estimated by the Commission, or the average fair price paid for the production of such special nuclear material as determined by [section 2076 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2076), whichever is lower”.
 
 Subsec. (e)(1). Pub. L. 88–489, § 8, struck out par. (1) which provided that title to all special nuclear material shall at all times be in the United States.
 
@@ -2080,6 +2080,136 @@ Amendment by Pub. L. 95–242 effective Mar. 10, 1978, except as otherwise provi
 The performance of functions under this chapter, as amended by the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days [after Mar. 10, 1978] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under [section 3201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 
+<a id="section-2077a"></a>
+## § 2077a. Interagency review of applications for the transfer of United States civil nuclear technology
+**(a) Report on transfers to covered foreign countries** Not less frequently than every 90 days, the Secretary of Energy shall submit to the appropriate congressional committees a report that includes—
+
+(1) a description of the authorizations under [section 2077(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2077/b&num=0&edition=prelim) to transfer United States civil nuclear technology to a covered foreign country during the preceding 90 days; and
+
+(2) a statement of whether any agency required to be consulted under that section or pursuant to regulation objected to or sought conditions on each such transfer.
+
+**(b) Determination of technologies to be protected**
+
+(1) **In general** — Not later than 90 days after November 25, 2015, and every five years thereafter, the Secretary of Energy shall—
+
+  (A) in consultation with the Secretary of State, the Secretary of Commerce, the Secretary of Defense, the Director of National Intelligence, and the Nuclear Regulatory Commission, determine the critical United States civil nuclear technologies that should be protected from diversion to a military program of a covered foreign country, including with respect to a naval propulsion or weapons program; and
+
+  (B) notify the appropriate congressional committees with respect to the determination and the technologies covered by the determination.
+
+(2) **Notification**
+
+  (A) *In general* — Except as provided in subparagraph (B), not later than 14 days before making an authorization under [section 2077(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2077/b&num=0&edition=prelim) for the transfer of a technology covered by a determination under paragraph (1) to a covered foreign country, the Secretary of Energy shall submit to the appropriate congressional committees a report that includes—
+
+    (i) a notification of the intention of the Secretary to make the authorization for the transfer of such technology; and
+
+    (ii) a statement of whether any agency required to be consulted under such [section 2077(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2077/b&num=0&edition=prelim) or pursuant to regulation objected to or sought conditions on the transfer.
+
+  (B) *Waiver of deadline* — The Secretary may waive the requirement under subparagraph (A) to submit the report required by that subparagraph not later than 14 days before making an authorization for the transfer of a technology covered by a determination under paragraph (1) to a covered foreign country if the Secretary—
+
+    (i) determines that an imminent radiological hazard exists; and
+
+    (ii) not later than 7 days after determining that such hazard exists, submits to the appropriate congressional committees—
+
+      (I) a certification that the hazard exists;
+
+      (II) a justification for the waiver; and
+
+      (III) the notification required by clause (i) of subparagraph (A) and the statement required by clause (ii) of that subparagraph.
+
+**(c) Consultations with intelligence community**
+
+(1) **In general** — The Secretary of Energy shall expeditiously revise part 810 of title 10, Code of Federal Regulations, to ensure that the Director of National Intelligence—
+
+  (A) is consulted with respect to the views of the intelligence community (as defined in [section 3003(4) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)) with respect to each authorization issued under [section 2077(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2077/b&num=0&edition=prelim) for the transfer of United States civil nuclear technology to a covered foreign country before the determination to approve or disapprove the request for the authorization; and
+
+  (B) is provided with an opportunity to present the views of the Director and the intelligence community on the national security risks of the transfer, if any.
+
+(2) **Submission to Congress** — The Secretary of Energy, jointly with the Director of National Intelligence, shall include the results of consultations conducted under paragraph (1) in each report under subsection (a) and each notification under subsection (b)(2).
+
+**(d) Report on compliance of covered foreign countries and end-users** Not less frequently than annually, the Secretary of Energy shall submit to the appropriate congressional committees a report that includes—
+
+(1) an assessment of whether each covered foreign country is in compliance with its obligations under any authorization for the transfer of United States civil nuclear technology under [section 2077(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2077/b&num=0&edition=prelim);
+
+(2) with respect to any covered foreign country that is not in compliance with such obligations—
+
+  (A) a description the efforts of the United States to bring the country into compliance;
+
+  (B) an evaluation of the result of such efforts; and
+
+  (C) an assessment of the options available to the Secretary as a result of the country not being in compliance;
+
+(3) an assessment of whether each end-user to which United States civil nuclear technology is transferred pursuant to an authorization under such [section 2077(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2077/b&num=0&edition=prelim) is in compliance with the obligations of the end-user under that authorization; and
+
+(4) a description of any consequences for the end-user or the exporter of the technology if the end-user is not in compliance with such obligations.
+
+**(e) Report on transfers to all foreign countries**
+
+(1) **In general** — Concurrent with the submission to Congress of the budget of the President for a fiscal year under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Secretary of Energy shall submit to the appropriate congressional committees a report on the activities of the Department of Energy associated with the review of applications for authorization under [section 2077(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2077/b&num=0&edition=prelim) to transfer United States civil nuclear technology to any foreign country.
+
+(2) **Elements** — The report required by paragraph (1) shall include—
+
+  (A) the number of applications for authorization under [section 2077(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2077/b&num=0&edition=prelim) to transfer United States civil nuclear technology to a foreign country submitted during the year preceding the submission of the report;
+
+  (B) the length of time each such application was under review;
+
+  (C) the number of such applications that were granted; and
+
+  (D) a description of efforts to streamline the review of such applications, taking into account the proliferation and diversion potential of end-users in the country to which United States civil nuclear technology would be transferred pursuant to such applications.
+
+**(f) Notifications of potential diversions** The Director of National Intelligence shall notify the Department of Energy and the appropriate congressional committees not later than 30 days after the date on which the Director determines that there is credible intelligence that United States civil nuclear technology is being or has been diverted—
+
+(1) to a military program in a foreign country to which the transfer of the technology was authorized under [section 2077(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2077/b&num=0&edition=prelim); or
+
+(2) to a foreign country to which the transfer of the technology was not so authorized.
+
+**(g) Guidelines** Not later than 60 days after November 25, 2015, the Secretary of Energy shall issue guidance with respect to the use of the clear and intended authority of the Secretary under [section 2282 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2282) to impose civil penalties, including fines and debarment, and to make referrals to the Attorney General for prosecution, for violations of the terms of authorizations for the transfer of United States civil nuclear technology issued under [section 2077(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2077/b&num=0&edition=prelim).
+
+**(h) Report on transfer of sensitive items**
+
+(1) **In general** — Not later than 180 days after November 25, 2015, and annually thereafter, the President shall submit to the appropriate congressional committees a report—
+
+  (A) describing the efforts of covered foreign countries to prevent the transfer of sensitive items, including efforts to improve the prevention of the transfer of such items; and
+
+  (B) assessing the adequacy of such efforts.
+
+(2) **Sensitive items defined** — In this subsection, the term “sensitive items” means goods, services, and technologies described in section 2(a) of the Iran, North Korea, and Syria Nonproliferation Act (Public Law 106–178; [50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note).
+
+**(i) Definitions** In this section:
+
+(1) **Appropriate congressional committees** — The term “appropriate congressional committees” means—
+
+  (A) the congressional defense committees;
+
+  (B) the Committee on Energy and Natural Resources, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and
+
+  (C) the Committee on Energy and Commerce, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+(2) **Covered foreign country** — The term “covered foreign country” means a foreign country that is a nuclear-weapon state, as defined by Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons, signed at Washington, London, and Moscow July 1, 1968, but does not include the United States, the United Kingdom, or France.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2016, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+#### “Congressional Defense Committees” Defined
+Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 114–92, 129 Stat. 745. See note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
+
+#### Delegation of Authority Pursuant to Section 3136(h) of the National Defense Authorization Act for Fiscal Year 2016
+Memorandum of President of the United States, May 10, 2016, 81 F.R. 31161, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby order as follows:
+
+I hereby delegate functions and authorities vested in the President by section 3136(h) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92) (the “Act”) to the Secretary of State.
+
+Any reference in this memorandum to the Act shall be deemed to be a reference to any future act that is the same or substantially the same as such provision.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.
+
+
 <a id="section-2078"></a>
 ## § 2078. Congressional review of guaranteed purchase price, guaranteed purchase price period, and criteria for waiver of charges
 
@@ -2138,7 +2268,7 @@ Provisions similar to this section were contained in [section 1805(b)(2) of this
 
 (3) the intended use of the source material to be distributed.
 
-**(c) Determination of charges** The Commission may make a reasonable charge determined pursuant to [section 2201(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2201/m&num=0&edition=prelim) for the source material licensed and distributed under subsection (a)(1), (a)(2), or (a)(4) of this section and shall make a reasonable charge determined pursuant to [section 2201(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2201/m&num=0&edition=prelim), for the source material licensed and distributed under subsection (a)(3) of this section. The Commission shall establish criteria in writing for the determination of whether a charge will be made for the source material licensed and distributed under subsection (a)(1), (a)(2), or (a)(4) of this section, considering, among other things, whether the licensee is a nonprofit or eleemosynary institution and the purposes for which the source material will be used.
+**(c) Determination of charges** The Commission may make a reasonable charge determined pursuant to [section 2201(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2201/m&num=0&edition=prelim) for the source material licensed and distributed under subsection (a)(1), (a)(2), or (a)(4) and shall make a reasonable charge determined pursuant to [section 2201(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2201/m&num=0&edition=prelim), for the source material licensed and distributed under subsection (a)(3). The Commission shall establish criteria in writing for the determination of whether a charge will be made for the source material licensed and distributed under subsection (a)(1), (a)(2), or (a)(4), considering, among other things, whether the licensee is a nonprofit or eleemosynary institution and the purposes for which the source material will be used.
 
 ### Statutory Notes
 
@@ -2307,7 +2437,7 @@ Provisions similar to this section were contained in [section 1805(c)(2) of this
 
 (1) the licensee will comply with decontamination, decommissioning, and reclamation standards prescribed by the Commission for sites (A) at which ores were processed primarily for their source material content and (B) at which such byproduct material is deposited, and
 
-(2) ownership of any byproduct material, as defined in [section 2014(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/e/2&num=0&edition=prelim), which resulted from such licensed activity shall be transferred to (A) the United States or (B) in the State in which such activity occurred if such State exercises the option under subsection (b)(1) of this section to acquire land used for the disposal of byproduct material.
+(2) ownership of any byproduct material, as defined in [section 2014(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/e/2&num=0&edition=prelim), which resulted from such licensed activity shall be transferred to (A) the United States or (B) in the State in which such activity occurred if such State exercises the option under subsection (b)(1) to acquire land used for the disposal of byproduct material.
 Any license which is in effect on the effective date of this section and which is subsequently terminated without renewal shall comply with paragraphs (1) and (2) upon termination.
 
 **(b) Transfer of title; health and environmental protection through maintenance of property and materials; use of surface or subsurface estates: first refusal rights of transferor; maintenance, monitoring, and emergency measures and other authorized action; licensee-transferor liability for fraud or negligence; administrative and legal costs limitation; government retransfers under [section 7914(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7914/h&num=0&edition=prelim)**
@@ -2323,9 +2453,9 @@ Any license which is in effect on the effective date of this section and which i
 
   (B) If the Commission determines by order that use of the surface or subsurface estates, or both, of the land transferred to the United States or to a State under subparagraph (A) would not endanger the public health, safety, welfare, or environment, the Commission, pursuant to such regulations as it may prescribe, shall permit the use of the surface or subsurface estates, or both, of such land in a manner consistent with the provisions of this section. If the Commission permits such use of such land, it shall provide the person who transferred such land with the right of first refusal with respect to such use of such land.
 
-(2) If transfer to the United States of title to such byproduct material and such land is required under this section, the Secretary of Energy or any Federal agency designated by the President shall, following the Commission’s determination of compliance under subsection (c) of this section, assume title and custody of such byproduct material and land transferred as provided in this subsection. Such Secretary or Federal agency shall maintain such material and land in such manner as will protect the public health and safety and the environment. Such custody may be transferred to another officer or instrumentality of the United States only upon approval of the President.
+(2) If transfer to the United States of title to such byproduct material and such land is required under this section, the Secretary of Energy or any Federal agency designated by the President shall, following the Commission’s determination of compliance under subsection (c), assume title and custody of such byproduct material and land transferred as provided in this subsection. Such Secretary or Federal agency shall maintain such material and land in such manner as will protect the public health and safety and the environment. Such custody may be transferred to another officer or instrumentality of the United States only upon approval of the President.
 
-(3) If transfer to a State of title to such byproduct material is required in accordance with this subsection, such State shall, following the Commission’s determination of compliance under subsection (d) of this section, assume title and custody of such byproduct material and land transferred as provided in this subsection. Such State shall maintain such material and land in such manner as will protect the public health, safety, and the environment.
+(3) If transfer to a State of title to such byproduct material is required in accordance with this subsection, such State shall, following the Commission’s determination of compliance under subsection (d), assume title and custody of such byproduct material and land transferred as provided in this subsection. Such State shall maintain such material and land in such manner as will protect the public health, safety, and the environment.
 
 (4) In the case of any such license under [section 2092 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2092), which was in effect on the effective date of this section, the Commission may require, before the termination of such license, such transfer of land and interests therein (as described in paragraph (1) of this subsection) to the United States or a State in which such land is located, at the option of such State, as may be necessary to protect the public health, welfare, and the environment from any effects associated with such byproduct material. In exercising the authority of this paragraph, the Commission shall take into consideration the status of the ownership of such land and interests therein and the ability of the licensee to transfer title and custody thereof to the United States or a State.
 
@@ -2449,9 +2579,7 @@ Pub. L. 105–261, div. C, title XXXI, § 3158, Oct. 17, 1998, 112 Stat. 2257, a
 Pub. L. 105–261, div. C, title XXXI, § 3159, Oct. 17, 1998, 112 Stat. 2258, as amended by Pub. L. 106–65, div. A, title X, § 1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. C, title XXXI, § 3156, Dec. 28, 2001, 115 Stat. 1379; Pub. L. 107–314, div. C, title XXXI, § 3175, Dec. 2, 2002, 116 Stat. 2745, provided that: “(a) Requirement for Panel.—The Secretary of Defense, in consultation with the Secretary of Energy, shall enter into a contract with a federally funded research and development center to establish a panel for the assessment of the certification process for the reliability, safety, and security of the United States nuclear stockpile. “(b) Composition and Administration of Panel.—(1) The panel shall consist of private citizens of the United States with knowledge and expertise in the technical aspects of design, manufacture, and maintenance of nuclear weapons. “(2) The federally funded research and development center shall be responsible for establishing appropriate procedures for the panel, including selection of a panel chairman. “(c) Duties of Panel.—Each year the panel shall review and assess the following:“(1) The annual certification process, including the conclusions and recommendations resulting from the process, for the safety, security, and reliability of the nuclear weapons stockpile of the United States, as carried out by the directors of the national weapons laboratories. “(2) The long-term adequacy of the process of certifying the safety, security, and reliability of the nuclear weapons stockpile of the United States. “(3) The adequacy of the criteria established by the Secretary of Energy pursuant to section 3158 [formerly set out as a note above] for achieving the purposes for which those criteria are established. “(d) Report.—Not later than October 1 of 1999 and 2000, and not later than February 1, 2002, the panel shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report setting forth its findings and conclusions resulting from the review and assessment carried out for the year covered by the report. The report shall be submitted in classified and unclassified form. “(e) Cooperation of Other Agencies.—(1) The panel may secure directly from the Department of Energy, the Department of Defense, or any of the national weapons laboratories or plants or any other Federal department or agency information that the panel considers necessary to carry out its duties. “(2) For carrying out its duties, the panel shall be provided full and timely cooperation by the Secretary of Energy, the Secretary of Defense, the Commander of United States Strategic Command, the Directors of the Los Alamos National Laboratory, the Lawrence Livermore National Laboratory, the Sandia National Laboratories, the Savannah River Site, the Y–12 Plant, the Pantex Facility, and the Kansas City Plant, and any other official of the United States that the chairman of the panel determines as having information described in paragraph (1). “(3) The Secretary of Energy and the Secretary of Defense shall each designate at least one officer or employee of the Department of Energy and the Department of Defense, respectively, to serve as a liaison officer between the department and the panel. “(f) Funding.—The Secretary of Defense and the Secretary of Energy shall each contribute 50 percent of the amount of funds that are necessary for the panel to carry out its duties. Funds available for the Department of Energy for the National Nuclear Security Administration shall be available for the Department of Energy contribution. “(g) Termination of Panel.—The panel shall terminate April 1, 2003. “(h) Initial Implementation.—The Secretary of Defense shall enter into the contract required under subsection (a) not later than 60 days after the date of the enactment of this Act [Oct. 17, 1998]. The panel shall convene its first meeting not later than 30 days after the date as of which all members of the panel have been appointed. “(i) Follow-Up Report.—Not later than February 1, 2003, the panel shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a follow-up report assessing progress toward meeting the expectations set forth by the panel for the United States stockpile stewardship program, and making recommendations for corrective legislative action where progress has been unsatisfactory.”
 
 #### Commission on Maintaining United States Nuclear Weapons Expertise
-Pub. L. 104–201, div. C, title XXXI, § 3162, Sept. 23, 1996, 110 Stat. 2843, as amended by Pub. L. 105–85, div. C, title XXXI, § 3163, Nov. 18, 1997, 111 Stat. 2049, provided that: “(a) Establishment.—There is hereby established a commission to be known as the ‘Commission on Maintaining United States Nuclear Weapons Expertise’ (in this section referred to as the ‘Commission’). “(b) Organizational Matters.—(1)(A) The Commission shall be composed of eight members appointed from among individuals in the public and private sectors who have significant experience in matters relating to nuclear weapons, as follows:“(i) Two shall be appointed by the majority leader of the Senate (in consultation with the minority leader of the Senate). “(ii) One shall be appointed by the minority leader of the Senate (in consultation with the majority leader of the Senate). “(iii) Two shall be appointed by the Speaker of the House of Representatives (in consultation with the minority leader of the House of Representatives). “(iv) One shall be appointed by the minority leader of the House of Representatives (in consultation with the Speaker of the House of Representatives). “(v) Two shall be appointed by the Secretary of Energy. “(B) Members shall be appointed for the life of the Commission. Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment. “(C) The chairman of the Commission shall be designated from among the members of the Commission appointed under subparagraph (A) by the majority leader of the Senate, in consultation with the Speaker of the House of Representatives, the minority leader of the Senate, and the minority leader of the House of Representatives. The chairman may be designated once five members of the Commission have been appointed under subparagraph (A). “(D) Members shall be appointed not later than 60 days after the date of the enactment of this Act [Sept. 23, 1996]. “(E) The Commission may commence its activities under this section upon the designation of the chairman of the Commission under subparagraph (C). “(2) The members of the Commission shall establish procedures for the activities of the Commission, including procedures for calling meetings, requirements for quorums, and the manner of taking votes. “(c) Duties.—(1) The Commission shall develop a plan for recruiting and retaining within the Department of Energy nuclear weapons complex such scientific, engineering, and technical personnel as the Commission determines appropriate in order to permit the Department to maintain over the long term a safe and reliable nuclear weapons stockpile without engaging in underground testing. “(2) In developing the plan, the Commission shall—“(A) identify actions that the Secretary may undertake to attract qualified scientific, engineering, and technical personnel to the nuclear weapons complex of the Department; and “(B) review and recommend improvements to the on-going efforts of the Department to attract such personnel to the nuclear weapons complex. “(d) Report.—Not later than March 15, 1999, the Commission shall submit to the Secretary and to Congress a report containing the plan developed under subsection (c). The report may include recommendations for legislation and administrative action. “(e) Commission Personnel Matters.—(1) Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), United States Code, for each day (including travel time) during which such member is engaged in the performance of the duties of the Commission. All members of the Commission who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States. “(2) The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission. “(3) The Commission may, without regard to the civil service laws and regulations, appoint and terminate such personnel as may be necessary to enable the Commission to perform its duties. The Commission may fix the compensation of the personnel of the Commission without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates. “(4) Any Federal Government employee may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege. “(f) Termination.—The Commission shall terminate 30 days after the date on which the Commission submits its report under subsection (d). “(g) Applicability of FACA.—The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the activities of the Commission. “(h) Funding.—Of the amounts authorized to be appropriated pursuant to section 3101 [110 Stat. 2820], not more than $1,000,000 shall be available for the activities of the Commission under this section. Funds made available to the Commission under this section shall remain available until expended.”
-
-[Pub. L. 105–85, div. C, title XXXI, § 3163(a), Nov. 18, 1997, 111 Stat. 2049, provided that the amendment made by that section to section 3162(b)(1) of Pub. L. 104–201, set out above, is effective Jan. 1, 1998.]
+Pub. L. 104–201, div. C, title XXXI, § 3162, Sept. 23, 1996, 110 Stat. 2843, as amended by Pub. L. 105–85, div. C, title XXXI, § 3163, Nov. 18, 1997, 111 Stat. 2049, established the Commission on Maintaining United States Nuclear Weapons Expertise to develop a plan to attract qualified personnel to the nuclear weapons complex and directed the Commission to submit a report to the Secretary of Energy and to Congress by Mar. 15, 1999, 30 days after which the Commission would terminate.
 
 #### Tritium Production Program
 Pub. L. 104–106, div. C, title XXXI, § 3133, Feb. 10, 1996, 110 Stat. 618, which was formerly set out as a note under this section, was renumbered section 4231 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, § 3141(e)(16)(A)–(C), Nov. 24, 2003, 117 Stat. 1761, and is classified to [section 2541 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2541&num=0&edition=prelim), War and National Defense.
@@ -2496,7 +2624,7 @@ Pub. L. 100–456, div. A, title XIV, § 1436, Sept. 29, 1988, 102 Stat. 2075, a
 ## § 2122. Prohibitions governing atomic weapons
 **(a)** It shall be unlawful, except as provided in [section 2121 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2121), for any person, inside or outside of the United States, to knowingly participate in the development of, manufacture, produce, transfer, acquire, receive, possess, import, export, or use, or possess and threaten to use, any atomic weapon. Nothing in this section shall be deemed to modify the provisions of section 2051(a) or 2131 of this title.
 
-**(b)** Conduct prohibited by subsection (a) of this section is within the jurisdiction of the United States if—
+**(b)** Conduct prohibited by subsection (a) is within the jurisdiction of the United States if—
 
 (1) the offense occurs in or affects interstate or foreign commerce; the offense occurs outside of the United States and is committed by a national of the United States;
 
@@ -2565,7 +2693,7 @@ Provisions similar to this section were contained in [section 1807(a) of this ti
 
 <a id="section-2132"></a>
 ## § 2132. Utilization and production facilities for industrial or commercial purposes
-**(a) Issuance of licenses** Except as provided in subsections (b) and (c) of this section, or otherwise specifically authorized by law, any license hereafter issued for a utilization or production facility for industrial or commercial purposes shall be issued pursuant to [section 2133 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2133).
+**(a) Issuance of licenses** Except as provided in subsections (b) and (c), or otherwise specifically authorized by law, any license hereafter issued for a utilization or production facility for industrial or commercial purposes shall be issued pursuant to [section 2133 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2133).
 
 **(b) Facilities constructed or operated under section 2134(b)** Any license hereafter issued for a utilization or production facility for industrial or commercial purposes, the construction or operation of which was licensed pursuant to [section 2134(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2134/b&num=0&edition=prelim) prior to enactment into law of this subsection, shall be issued under [section 2134(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2134/b&num=0&edition=prelim).
 
@@ -2579,7 +2707,7 @@ Provisions similar to this section were contained in [section 1807(a) of this ti
 
 <a id="section-2133"></a>
 ## § 2133. Commercial licenses
-**(a) Conditions** The Commission is authorized to issue licenses to persons applying therefor to transfer or receive in interstate commerce, manufacture, produce, transfer, acquire, possess, use, import, or export under the terms of an agreement for cooperation arranged pursuant to [section 2153 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2153), utilization or production facilities for industrial or commercial purposes. Such licenses shall be issued in accordance with the provisions of subchapter XV of this division and subject to such conditions as the Commission may by rule or regulation establish to effectuate the purposes and provisions of this chapter.
+**(a) Conditions** The Commission is authorized to issue licenses to persons applying therefor to transfer or receive in interstate commerce, manufacture, produce, transfer, acquire, possess, use, import, or export under the terms of an agreement for cooperation arranged pursuant to [section 2153 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2153), utilization or production facilities for industrial or commercial purposes. Such licenses shall be issued in accordance with the provisions of subchapter XV and subject to such conditions as the Commission may by rule or regulation establish to effectuate the purposes and provisions of this chapter.
 
 **(b) Nonexclusive basis** The Commission shall issue such licenses on a nonexclusive basis to persons applying therefor (1) whose proposed activities will serve a useful purpose proportionate to the quantities of special nuclear material or source material to be utilized; (2) who are equipped to observe and who agree to observe such safety standards to protect health and to minimize danger to life or property as the Commission may by rule establish; and (3) who agree to make available to the Commission such technical information and data concerning activities under such licenses as the Commission may determine necessary to promote the common defense and security and to protect the health and safety of the public. All such information may be used by the Commission only for the purposes of the common defense and security and to protect the health and safety of the public.
 
@@ -2612,7 +2740,7 @@ Subsec. (d). Act Aug. 6, 1956, § 13, inserted “an alien or any” after “is
 
 **(b) Industrial and commercial purposes** As provided for in subsection (b) or (c) of [section 2132 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2132), or where specifically authorized by law, the Commission is authorized to issue licenses under this subsection to persons applying therefor for utilization and production facilities for industrial and commercial purposes. In issuing licenses under this subsection, the Commission shall impose the minimum amount of such regulations and terms of license as will permit the Commission to fulfill its obligations under this chapter.
 
-**(c) Research and development activities** The Commission is authorized to issue licenses to persons applying therefor for utilization and production facilities useful in the conduct of research and development activities of the types specified in [section 2051 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2051) and which are not facilities of the type specified in subsection (b) of this section. The Commission is directed to impose only such minimum amount of regulation of the licensee as the Commission finds will permit the Commission to fulfill its obligations under this chapter to promote the common defense and security and to protect the health and safety of the public and will permit the conduct of widespread and diverse research and development.
+**(c) Research and development activities** The Commission is authorized to issue licenses to persons applying therefor for utilization and production facilities useful in the conduct of research and development activities of the types specified in [section 2051 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2051) and which are not facilities of the type specified in subsection (b). The Commission is directed to impose only such minimum amount of regulation of the licensee as the Commission finds will permit the Commission to fulfill its obligations under this chapter to promote the common defense and security and to protect the health and safety of the public and will permit the conduct of widespread and diverse research and development.
 
 **(d) Limitations** No license under this section may be given to any person for activities which are not under or within the jurisdiction of the United States, except for the export of production or utilization facilities under terms of an agreement for cooperation arranged pursuant to [section 2153 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2153) or except under the provisions of [section 2139 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2139). No license may be issued to any corporation or other entity if the Commission knows or has reason to believe it is owned, controlled, or dominated by an alien, a foreign corporation, or a foreign government. In any event, no license may be issued to any person within the United States if, in the opinion of the Commission, the issuance of a license to such person would be inimical to the common defense and security or to the health and safety of the public.
 
@@ -2641,11 +2769,11 @@ This chapter, referred to in subsecs. (a) to (c), was in the original “this Ac
 
 (4) Upon the request of the Attorney General, the Commission shall furnish or cause to be furnished such information as the Attorney General determines to be appropriate for the advice called for in paragraph (1) of this subsection.
 
-(5) Promptly upon receipt of the Attorney General’s advice, the Commission shall publish the advice in the Federal Register. Where the Attorney General advises that there may be adverse antitrust aspects and recommends that there be a hearing, the Attorney General or his designee may participate as a party in the proceedings thereafter held by the Commission on such licensing matter in connection with the subject matter of his advice. The Commission shall give due consideration to the advice received from the Attorney General and to such evidence as may be provided during the proceedings in connection with such subject matter, and shall make a finding as to whether the activities under the license would create or maintain a situation inconsistent with the antitrust laws as specified in subsection (a) of this section.
+(5) Promptly upon receipt of the Attorney General’s advice, the Commission shall publish the advice in the Federal Register. Where the Attorney General advises that there may be adverse antitrust aspects and recommends that there be a hearing, the Attorney General or his designee may participate as a party in the proceedings thereafter held by the Commission on such licensing matter in connection with the subject matter of his advice. The Commission shall give due consideration to the advice received from the Attorney General and to such evidence as may be provided during the proceedings in connection with such subject matter, and shall make a finding as to whether the activities under the license would create or maintain a situation inconsistent with the antitrust laws as specified in subsection (a).
 
 (6) In the event the Commission’s finding under paragraph (5) is in the affirmative, the Commission shall also consider, in determining whether the license should be issued or continued, such other factors, including the need for power in the affected area, as the Commission in its judgment deems necessary to protect the public interest. On the basis of its findings, the Commission shall have the authority to issue or continue a license as applied for, to refuse to issue a license, to rescind a license or amend it, and to issue a license with such conditions as it deems appropriate.
 
-(7) The Commission, with the approval of the Attorney General, may except from any of the requirements of this subsection such classes or types of licenses as the Commission may determine would not significantly affect the applicant’s activities under the antitrust laws as specified in subsection (a) of this section.
+(7) The Commission, with the approval of the Attorney General, may except from any of the requirements of this subsection such classes or types of licenses as the Commission may determine would not significantly affect the applicant’s activities under the antitrust laws as specified in subsection (a).
 
 (8) With respect to any application for a construction permit on file at the time of enactment into law of this subsection, which permit would be for issuance under [section 2133 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2133), and with respect to any application for an operating license in connection with which a written request for an antitrust review is made as provided for in paragraph (3), the Commission, after consultation with the Attorney General, may, upon determination that such action is necessary in the public interest to avoid unnecessary delay, establish by rule or order periods for Commission notification and receipt of advice differing from those set forth above and may issue a construction permit or operating license in advance of consideration of and findings with respect to the matters covered in this subsection: Provided, That any construction permit or operating license so issued shall contain such conditions as the Commission deems appropriate to assure that any subsequent findings and orders of the Commission with respect to such matters will be given full force and effect.
 
@@ -2734,7 +2862,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 **(b) Export licenses** After consulting with the Secretaries of State, Energy, and Commerce, the Commission is authorized and directed to determine which component parts as defined in section 2014(v)(2) or 2014(cc)(2) of this title and which other items or substances are especially relevant from the standpoint of export control because of their significance for nuclear explosive purposes. Except as provided in [section 2155(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2155/b/2&num=0&edition=prelim), no such component, substance, or item which is so determined by the Commission shall be exported unless the Commission issues a general or specific license for its export after finding, based on a reasonable judgment of the assurances provided and other information available to the Federal Government, including the Commission, that the following criteria or their equivalent are met: (1) IAEA safeguards as required by Article III (2) of the Treaty will be applied with respect to such component, substance, or item; (2) no such component, substance, or item will be used for any nuclear explosive device or for research on or development of any nuclear explosive device; and (3) no such component, substance, or item will be retransferred to the jurisdiction of any other nation or group of nations unless the prior consent of the United States is obtained for such retransfer; and after determining in writing that the issuance of each such general or specific license or category of licenses will not be inimical to the common defense and security: Provided, That a specific license shall not be required for an export pursuant to this section if the component, item or substance is covered by a facility license issued pursuant to [section 2155 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2155).
 
-**(c) Exports inimical to common defense and security of United States** The Commission shall not issue an export license under the authority of subsection (b) of this section if it is advised by the executive branch, in accordance with the procedures established under [section 2155(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2155/a&num=0&edition=prelim), that the export would be inimical to the common defense and security of the United States.
+**(c) Exports inimical to common defense and security of United States** The Commission shall not issue an export license under the authority of subsection (b) if it is advised by the executive branch, in accordance with the procedures established under [section 2155(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2155/a&num=0&edition=prelim), that the export would be inimical to the common defense and security of the United States.
 
 ### Statutory Notes
 
@@ -2925,11 +3053,11 @@ The President may exempt a proposed agreement for cooperation (except an agreeme
 
 **(b) Presidential approval and authorization for execution of proposed agreements for cooperation** the President has submitted text of the proposed agreement for cooperation (except an agreement arranged pursuant to section 2121(c), 2164(b), 2164(c), or 2164(d) of this title), together with the accompanying unclassified Nuclear Proliferation Assessment Statement, to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, the President has consulted with such Committees for a period of not less than thirty days of continuous session (as defined in [section 2159(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2159/g&num=0&edition=prelim)) concerning the consistency of the terms of the proposed agreement with all the requirements of this chapter, and the President has approved and authorized the execution of the proposed agreement for cooperation and has made a determination in writing that the performance of the proposed agreement will promote, and will not constitute an unreasonable risk to, the common defense and security;
 
-**(c) Submittal of proposed agreements for cooperation to Congressional committees** the proposed agreement for cooperation (if not an agreement subject to subsection (d) of this section), together with the approval and determination of the President, has been submitted to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate for a period of thirty days of continuous session (as defined in [section 2159(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2159/g&num=0&edition=prelim)): Provided, however, That these committees, after having received such agreement for cooperation, may by resolution in writing waive the conditions of all or any portion of such thirty-day period; and
+**(c) Submittal of proposed agreements for cooperation to Congressional committees** the proposed agreement for cooperation (if not an agreement subject to subsection (d)), together with the approval and determination of the President, has been submitted to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate for a period of thirty days of continuous session (as defined in [section 2159(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2159/g&num=0&edition=prelim)): Provided, however, That these committees, after having received such agreement for cooperation, may by resolution in writing waive the conditions of all or any portion of such thirty-day period; and
 
-**(d) Congressional action** the proposed agreement for cooperation (if arranged pursuant to section 2121(c), 2164(b), 2164(c), or 2164(d) of this title, or if entailing implementation of section 2073, 2074(a), 2133, or 2134 of this title in relation to a reactor that may be capable of producing more than five thermal megawatts or special nuclear material for use in connection therewith) has been submitted to the Congress, together with the approval and determination of the President, for a period of sixty days of continuous session (as defined in [section 2159(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2159/g&num=0&edition=prelim)) and referred to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, and in addition, in the case of a proposed agreement for cooperation arranged pursuant to section 2121(c), 2164(b), 2164(c), or 2164(d) of this title, the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate, but such proposed agreement for cooperation shall not become effective if during such sixty-day period the Congress adopts, and there is enacted, a joint resolution stating in substance that the Congress does not favor the proposed agreement for cooperation: Provided, That the sixty-day period shall not begin until a Nuclear Proliferation Assessment Statement prepared by the Secretary of State, and any annexes thereto, when required by subsection (a) of this section, have been submitted to the Congress: Provided further, That an agreement for cooperation exempted by the President pursuant to subsection (a) of this section from any requirement contained in that subsection, or an agreement exempted pursuant to [section 8003(a)(1) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8003/a/1&num=0&edition=prelim), shall not become effective unless the Congress adopts, and there is enacted, a joint resolution stating that the Congress does favor such agreement. During the sixty-day period the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate shall each hold hearings on the proposed agreement for cooperation and submit a report to their respective bodies recommending whether it should be approved or disapproved. Any such proposed agreement for cooperation shall be considered pursuant to the procedures set forth in [section 2159(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2159/i&num=0&edition=prelim).
+**(d) Congressional action** the proposed agreement for cooperation (if arranged pursuant to section 2121(c), 2164(b), 2164(c), or 2164(d) of this title, or if entailing implementation of section 2073, 2074(a), 2133, or 2134 of this title in relation to a reactor that may be capable of producing more than five thermal megawatts or special nuclear material for use in connection therewith) has been submitted to the Congress, together with the approval and determination of the President, for a period of sixty days of continuous session (as defined in [section 2159(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2159/g&num=0&edition=prelim)) and referred to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, and in addition, in the case of a proposed agreement for cooperation arranged pursuant to section 2121(c), 2164(b), 2164(c), or 2164(d) of this title, the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate, but such proposed agreement for cooperation shall not become effective if during such sixty-day period the Congress adopts, and there is enacted, a joint resolution stating in substance that the Congress does not favor the proposed agreement for cooperation: Provided, That the sixty-day period shall not begin until a Nuclear Proliferation Assessment Statement prepared by the Secretary of State, and any annexes thereto, when required by subsection (a), have been submitted to the Congress: Provided further, That an agreement for cooperation exempted by the President pursuant to subsection (a) from any requirement contained in that subsection, or an agreement exempted pursuant to [section 8003(a)(1) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8003/a/1&num=0&edition=prelim), shall not become effective unless the Congress adopts, and there is enacted, a joint resolution stating that the Congress does favor such agreement. During the sixty-day period the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate shall each hold hearings on the proposed agreement for cooperation and submit a report to their respective bodies recommending whether it should be approved or disapproved. Any such proposed agreement for cooperation shall be considered pursuant to the procedures set forth in [section 2159(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2159/i&num=0&edition=prelim).
 Following submission of a proposed agreement for cooperation (except an agreement for cooperation arranged pursuant to section 2121(c), 2164(b), 2164(c), or 2164(d) of this title) to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, the Nuclear Regulatory Commission, the Department of State, the Department of Energy, and the Department of Defense shall, upon the request of either of those committees, promptly furnish to those committees their views as to whether the safeguards and other controls contained therein provide an adequate framework to ensure that any exports as contemplated by such agreement will not be inimical to or constitute an unreasonable risk to the common defense and security.
-If, after March 10, 1978, the Congress fails to disapprove a proposed agreement for cooperation which exempts the recipient nation from the requirement set forth in subsection (a)(2) of this section, such failure to act shall constitute a failure to adopt a resolution of disapproval pursuant to [section 2157(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2157/b/3&num=0&edition=prelim) for purposes of the Commission’s consideration of applications and requests under [section 2155(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2155/a/2&num=0&edition=prelim) and there shall be no congressional review pursuant to [section 2157 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2157) of any subsequent license or authorization with respect to that state until the first such license or authorization which is issued after twelve months from the elapse of the sixty-day period in which the agreement for cooperation in question is reviewed by the Congress.
+If, after March 10, 1978, the Congress fails to disapprove a proposed agreement for cooperation which exempts the recipient nation from the requirement set forth in subsection (a)(2), such failure to act shall constitute a failure to adopt a resolution of disapproval pursuant to [section 2157(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2157/b/3&num=0&edition=prelim) for purposes of the Commission’s consideration of applications and requests under [section 2155(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2155/a/2&num=0&edition=prelim) and there shall be no congressional review pursuant to [section 2157 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2157) of any subsequent license or authorization with respect to that state until the first such license or authorization which is issued after twelve months from the elapse of the sixty-day period in which the agreement for cooperation in question is reviewed by the Congress.
 
 **(e) Congressional committees informed of initiatives or negotiations relating to cooperation agreements** The President shall keep the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate fully and currently informed of any initiative or negotiations relating to a new or amended agreement for peaceful nuclear cooperation pursuant to this section (except an agreement arranged pursuant to section 2121(c), 2164(b), 2164(c), or 2164(d) of this title, or an amendment thereto).
 
@@ -2981,7 +3109,7 @@ Subsec. (a). Pub. L. 95–242 amended and carried forward into pars. (3), (5), a
 
 Subsec. (b). Pub. L. 95–242 reenacted existing provisions with only minor changes in punctuation.
 
-Subsec. (c). Pub. L. 95–242 inserted “(if not an agreement subject to subsection (d) of this section)” after “the proposed agreement for cooperation”, substituted “submitted to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations for a period of thirty days of continuous session (as defined in [section 2159(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2159/g&num=0&edition=prelim))” for “submitted to the Joint Committee and a period of thirty days has elapsed while Congress is in session (in computing such thirty days, there shall be excluded the days on which either House is not in session because of the adjournment of more than three days)”, and substituted reference to “these committees” for reference to “the Joint Committee” in proviso.
+Subsec. (c). Pub. L. 95–242 inserted “(if not an agreement subject to subsection (d))” after “the proposed agreement for cooperation”, substituted “submitted to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations for a period of thirty days of continuous session (as defined in [section 2159(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2159/g&num=0&edition=prelim))” for “submitted to the Joint Committee and a period of thirty days has elapsed while Congress is in session (in computing such thirty days, there shall be excluded the days on which either House is not in session because of the adjournment of more than three days)”, and substituted reference to “these committees” for reference to “the Joint Committee” in proviso.
 
 Subsec. (d). Pub. L. 95–242 provided that proposed agreements be laid before the Committees on International Relations and Foreign Relations rather than the Joint Committee on Atomic Energy and that for major agreements the Nuclear Proliferation Assessment Statement, if any, prepared in conjunction with the President’s review of the proposed agreement, also be submitted to the committees.
 
@@ -3392,7 +3520,7 @@ Jimmy Carter.
 
 **(b)** Within one hundred and twenty days of March 10, 1978, the Commission shall, after consultations with the Secretary of State, promulgate regulations establishing procedures (1) for the granting, suspending, revoking, or amending of any nuclear export license or exemption pursuant to its statutory authority; (2) for public participation in nuclear export licensing proceedings when the Commission finds that such participation will be in the public interest and will assist the Commission in making the statutory determinations required by the 1954 Act, including such public hearings and access to information as the Commission deems appropriate: Provided, That judicial review as to any such finding shall be limited to the determination of whether such finding was arbitrary and capricious; (3) for a public written Commission opinion accompanied by the dissenting or separate views of any Commissioner, in those proceedings where one or more Commissioners have dissenting or separate views on the issuance of an export license; and (4) for public notice of Commission proceedings and decisions, and for recording of minutes and votes of the Commission: Provided further, That until the regulations required by this subsection have been promulgated, the Commission shall implement the provisions of this Act under temporary procedures established by the Commission.
 
-**(c)** The procedures to be established pursuant to subsection (b) of this section shall constitute the exclusive basis for hearings in nuclear export licensing proceedings before the Commission and, notwithstanding section 189 a. of the 1954 Act [[42 U.S.C. 2239(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2239/a&num=0&edition=prelim)], shall not require the Commission to grant any person an on-the-record hearing in such a proceeding.
+**(c)** The procedures to be established pursuant to subsection (b) shall constitute the exclusive basis for hearings in nuclear export licensing proceedings before the Commission and, notwithstanding section 189 a. of the 1954 Act [[42 U.S.C. 2239(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2239/a&num=0&edition=prelim)], shall not require the Commission to grant any person an on-the-record hearing in such a proceeding.
 
 ### Statutory Notes
 
@@ -3474,13 +3602,13 @@ The performance of functions under the Nuclear Non-Proliferation Act of 1978, Pu
 
 (2) The President shall seek to achieve adherence to the foregoing criterion by recipient non-nuclear-weapon states.
 
-**(b)** The criterion set forth in subsection (a) of this section shall be applied as an export criterion with respect to any application for the export of materials, facilities, or technology specified in subsection (a) of this section which is filed after eighteen months from March 10, 1978, or for any such application under which the first export would occur at least twenty-four months after March 10, 1978, except as provided in the following paragraphs:
+**(b)** The criterion set forth in subsection (a) shall be applied as an export criterion with respect to any application for the export of materials, facilities, or technology specified in subsection (a) which is filed after eighteen months from March 10, 1978, or for any such application under which the first export would occur at least twenty-four months after March 10, 1978, except as provided in the following paragraphs:
 
 (1) If the Commission or the Department of Energy, as the case may be, is notified that the President has determined that failure to approve an export to which this subsection applies because such criterion has not yet been met would be seriously prejudicial to the achievement of United States non-proliferation objectives or otherwise jeopardize the common defense and security, the license or authorization may be issued subject to other applicable requirements of the law: Provided, That no such export of any production or utilization facility or of any source or special nuclear material (intended for use as fuel in any production or utilization facility) which has been licensed or authorized pursuant to this subsection shall be made to any non-nuclear-weapon state which has failed to meet such criterion until the first such license or authorization with respect to such state is submitted to the Congress (together with a detailed assessment of the reasons underlying the President’s determination, the judgment of the executive branch required under [section 2155 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2155), and any Commission opinion and views) for a period of sixty days of continuous session (as defined in [section 2159(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2159/g&num=0&edition=prelim)) and referred to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, but such export shall not occur if during such sixty-day period the Congress adopts a concurrent resolution stating in substance that the Congress does not favor the proposed export. Any such license or authorization shall be considered pursuant to the procedures set forth in [section 2159 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2159) for the consideration of Presidential submissions.
 
-(2) If the Congress adopts a resolution of disapproval pursuant to paragraph (1), no further export of materials, facilities, or technology specified in subsection (a) of this section shall be permitted for the remainder of that Congress, unless such state meets the criterion or the President notifies the Congress that he has determined that significant progress has been made in achieving adherence to such criterion by such state or that United States foreign policy interests dictate reconsideration and the Congress, pursuant to the procedure of paragraph (1), does not adopt a concurrent resolution stating in substance that it disagrees with the President’s determination.
+(2) If the Congress adopts a resolution of disapproval pursuant to paragraph (1), no further export of materials, facilities, or technology specified in subsection (a) shall be permitted for the remainder of that Congress, unless such state meets the criterion or the President notifies the Congress that he has determined that significant progress has been made in achieving adherence to such criterion by such state or that United States foreign policy interests dictate reconsideration and the Congress, pursuant to the procedure of paragraph (1), does not adopt a concurrent resolution stating in substance that it disagrees with the President’s determination.
 
-(3) If the Congress does not adopt a resolution of disapproval with respect to a license or authorization submitted pursuant to paragraph (1), the criterion set forth in subsection (a) of this section shall not be applied as an export criterion with respect to exports of materials, facilities and technology specified in subsection (a) of this section to that state: Provided, That the first license or authorization with respect to that state which is issued pursuant to this paragraph after twelve months from the elapse of the sixty-day period specified in paragraph (1), and the first such license or authorization which is issued after each twelve-month period thereafter, shall be submitted to the Congress for review pursuant to the procedures specified in paragraph (1): Provided further, That if the Congress adopts a resolution of disapproval during any review period provided for by this paragraph, the provisions of paragraph (2) shall apply with respect to further exports to such state.
+(3) If the Congress does not adopt a resolution of disapproval with respect to a license or authorization submitted pursuant to paragraph (1), the criterion set forth in subsection (a) shall not be applied as an export criterion with respect to exports of materials, facilities and technology specified in subsection (a) to that state: Provided, That the first license or authorization with respect to that state which is issued pursuant to this paragraph after twelve months from the elapse of the sixty-day period specified in paragraph (1), and the first such license or authorization which is issued after each twelve-month period thereafter, shall be submitted to the Congress for review pursuant to the procedures specified in paragraph (1): Provided further, That if the Congress adopts a resolution of disapproval during any review period provided for by this paragraph, the provisions of paragraph (2) shall apply with respect to further exports to such state.
 
 ### Statutory Notes
 
@@ -3522,7 +3650,7 @@ unless the President determines that cessation of such exports would be seriousl
 
 **(b)**
 
-(1) Notwithstanding any other provision of law, including specifically [section 2151 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2151), and except as provided in paragraphs (2) and (3), no nuclear materials and equipment or sensitive nuclear technology, including items and assistance authorized by [section 2077(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2077/b&num=0&edition=prelim) and regulated under part 810 of title 10, Code of Federal Regulations, and nuclear-related items on the Commerce Control List maintained under part 774 of title 15 of the Code of Federal Regulations, shall be exported or reexported, or transferred or retransferred whether directly or indirectly, and no Federal agency shall issue any license, approval, or authorization for the export or reexport, or transfer, or retransfer, whether directly or indirectly, of these items or assistance (as defined in this paragraph) to any country whose government has been identified by the Secretary of State as engaged in state sponsorship of terrorist activities (specifically including any country the government of which has been determined by the Secretary of State under [section 2371(a) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371/a&num=0&edition=prelim), [section 2405(j)(1) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2405/j/1&num=0&edition=prelim), Appendix, or [section 2780(d) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780/d&num=0&edition=prelim) to have repeatedly provided support for acts of international terrorism).
+(1) Notwithstanding any other provision of law, including specifically [section 2151 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2151), and except as provided in paragraphs (2) and (3), no nuclear materials and equipment or sensitive nuclear technology, including items and assistance authorized by [section 2077(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2077/b&num=0&edition=prelim) and regulated under part 810 of title 10, Code of Federal Regulations, and nuclear-related items on the Commerce Control List maintained under part 774 of title 15 of the Code of Federal Regulations, shall be exported or reexported, or transferred or retransferred whether directly or indirectly, and no Federal agency shall issue any license, approval, or authorization for the export or reexport, or transfer, or retransfer, whether directly or indirectly, of these items or assistance (as defined in this paragraph) to any country whose government has been identified by the Secretary of State as engaged in state sponsorship of terrorist activities (specifically including any country the government of which has been determined by the Secretary of State under [section 2371(a) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371/a&num=0&edition=prelim), [section 4605(j)(1) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1&num=0&edition=prelim), or [section 2780(d) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780/d&num=0&edition=prelim) to have repeatedly provided support for acts of international terrorism).
 
 (2) This subsection shall not apply to exports, reexports, transfers, or retransfers of radiation monitoring technologies, surveillance equipment, seals, cameras, tamper-indication devices, nuclear detectors, monitoring systems, or equipment necessary to safely store, transport, or remove hazardous materials, whether such items, services, or information are regulated by the Department of Energy, the Department of Commerce, or the Commission, except to the extent that such technologies, equipment, seals, cameras, devices, detectors, or systems are available for use in the design or construction of nuclear reactors or nuclear weapons.
 
@@ -3560,11 +3688,11 @@ The performance of functions under this chapter, as amended by the Nuclear Non-P
 
 <a id="section-2159"></a>
 ## § 2159. Congressional review procedures
-**(a) Committee consideration of Presidential submissions; reports** Not later than forty-five days of continuous session of Congress after the date of transmittal to the Congress of any submission of the President required by section 2155(a)(2), 2155(b)(2), 2157(b), 2158, 2160(a)(3), or 2160(f)(1)(A) of this title, the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives shall each submit a report to its respective House on its views and recommendations respecting such Presidential submission together with a resolution, as defined in subsection (f) of this section, stating in substance that the Congress approves or disapproves such submission, as the case may be: Provided, That if any such committee has not reported such a resolution at the end of such forty-five day period, such committee shall be deemed to be discharged from further consideration of such submission. If no such resolution has been reported at the end of such period, the first resolution, as defined in subsection (f) of this section, which is introduced within five days thereafter within such House shall be placed on the appropriate calendar of such House.
+**(a) Committee consideration of Presidential submissions; reports** Not later than forty-five days of continuous session of Congress after the date of transmittal to the Congress of any submission of the President required by section 2155(a)(2), 2155(b)(2), 2157(b), 2158, 2160(a)(3), or 2160(f)(1)(A) of this title, the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives shall each submit a report to its respective House on its views and recommendations respecting such Presidential submission together with a resolution, as defined in subsection (f), stating in substance that the Congress approves or disapproves such submission, as the case may be: Provided, That if any such committee has not reported such a resolution at the end of such forty-five day period, such committee shall be deemed to be discharged from further consideration of such submission. If no such resolution has been reported at the end of such period, the first resolution, as defined in subsection (f), which is introduced within five days thereafter within such House shall be placed on the appropriate calendar of such House.
 
-**(b) Consideration of resolution by respective Houses of Congress** When the relevant committee or committees have reported such a resolution (or have been discharged from further consideration of such a resolution pursuant to subsection (a) of this section) or when a resolution has been introduced and placed on the appropriate calendar pursuant to subsection (a) of this section, as the case may be, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) for any Member of the respective House to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. The motion shall not be subject to amendment, or to a motion to postpone, or to a motion to proceed to the consideration of other business. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the resolution shall remain the unfinished business of the respective House until disposed of.
+**(b) Consideration of resolution by respective Houses of Congress** When the relevant committee or committees have reported such a resolution (or have been discharged from further consideration of such a resolution pursuant to subsection (a)) or when a resolution has been introduced and placed on the appropriate calendar pursuant to subsection (a), as the case may be, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) for any Member of the respective House to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. The motion shall not be subject to amendment, or to a motion to postpone, or to a motion to proceed to the consideration of other business. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the resolution shall remain the unfinished business of the respective House until disposed of.
 
-**(c) Debate** Debate on the resolution, and on all debatable motions and appeals in connection therewith, shall be limited to not more than ten hours, which shall be divided equally between individuals favoring and individuals opposing the resolution. A motion further to limit debate is in order and not debatable. An amendment to a motion to postpone, or a motion to recommit the resolution, or a motion to proceed to the consideration of other business is not in order. A motion to reconsider the vote by which the resolution is agreed to or disagreed to shall not be in order. No amendment to any concurrent resolution pursuant to the procedures of this section is in order except as provided in subsection (d) of this section.
+**(c) Debate** Debate on the resolution, and on all debatable motions and appeals in connection therewith, shall be limited to not more than ten hours, which shall be divided equally between individuals favoring and individuals opposing the resolution. A motion further to limit debate is in order and not debatable. An amendment to a motion to postpone, or a motion to recommit the resolution, or a motion to proceed to the consideration of other business is not in order. A motion to reconsider the vote by which the resolution is agreed to or disagreed to shall not be in order. No amendment to any concurrent resolution pursuant to the procedures of this section is in order except as provided in subsection (d).
 
 **(d) Vote on final approval** Immediately following (1) the conclusion of the debate on such concurrent resolution, (2) a single quorum call at the conclusion of debate if requested in accordance with the rules of the appropriate House, and (3) the consideration of an amendment introduced by the Majority Leader or his designee to insert the phrase, “does not” in lieu of the word “does” if the resolution under consideration is a concurrent resolution of approval, the vote on final approval of the resolution shall occur.
 
@@ -3648,7 +3776,7 @@ Section effective Mar. 10, 1978, except as otherwise provided and regardless of 
 ## § 2160. Subsequent arrangements
 **(a) Consultation and concurrence; negotiations of a policy nature; notice of proposed subsequent arrangements; Nuclear Proliferation Assessment Statement; reprocessing of material**
 
-(1) Prior to entering into any proposed subsequent arrangement under an agreement for cooperation (other than an agreement for cooperation arranged pursuant to section 2121(c), 2164(b), or 2164(c) of this title), the Secretary of Energy shall obtain the concurrence of the Secretary of State and shall consult with the Commission, and the Secretary of Defense: Provided, That the Secretary of State shall have the leading role in any negotiations of a policy nature pertaining to any proposed subsequent arrangement regarding arrangements for the storage or disposition of irradiated fuel elements or approvals for the transfer, for which prior approval is required under an agreement for cooperation, by a recipient of source or special nuclear material, production or utilization facilities, or nuclear technology. Notice of any proposed subsequent arrangement shall be published in the Federal Register, together with the written determination of the Secretary of Energy that such arrangement will not be inimical to the common defense and security, and such proposed subsequent arrangement shall not take effect before fifteen days after publication. Whenever the Secretary of State is required to prepare a Nuclear Proliferation Assessment Statement pursuant to paragraph (2) of this subsection, notice of the proposed subsequent arrangement which is the subject of the requirement to prepare a Nuclear Proliferation Assessment Statement shall not be published until after the receipt by the Secretary of Energy of such Statement or the expiration of the time authorized by subsection (c) of this section for the preparation of such Statement, whichever occurs first.
+(1) Prior to entering into any proposed subsequent arrangement under an agreement for cooperation (other than an agreement for cooperation arranged pursuant to section 2121(c), 2164(b), or 2164(c) of this title), the Secretary of Energy shall obtain the concurrence of the Secretary of State and shall consult with the Commission, and the Secretary of Defense: Provided, That the Secretary of State shall have the leading role in any negotiations of a policy nature pertaining to any proposed subsequent arrangement regarding arrangements for the storage or disposition of irradiated fuel elements or approvals for the transfer, for which prior approval is required under an agreement for cooperation, by a recipient of source or special nuclear material, production or utilization facilities, or nuclear technology. Notice of any proposed subsequent arrangement shall be published in the Federal Register, together with the written determination of the Secretary of Energy that such arrangement will not be inimical to the common defense and security, and such proposed subsequent arrangement shall not take effect before fifteen days after publication. Whenever the Secretary of State is required to prepare a Nuclear Proliferation Assessment Statement pursuant to paragraph (2) of this subsection, notice of the proposed subsequent arrangement which is the subject of the requirement to prepare a Nuclear Proliferation Assessment Statement shall not be published until after the receipt by the Secretary of Energy of such Statement or the expiration of the time authorized by subsection (c) for the preparation of such Statement, whichever occurs first.
 
 (2) If in the view of the Secretary of State, Secretary of Energy, Secretary of Defense, or the Commission a proposed subsequent arrangement might significantly contribute to proliferation, the Secretary of State, in consultation with such Secretary or the Commission, shall prepare an unclassified Nuclear Proliferation Assessment Statement with regard to such proposed subsequent arrangement regarding the adequacy of the safeguards and other control mechanisms and the application of the peaceful use assurances of the relevant agreement to ensure that assistance to be furnished pursuant to the subsequent arrangement will not be used to further any military or nuclear explosive purpose. For the purposes of this section, the term “subsequent arrangements” means arrangements entered into by any agency or department of the United States Government with respect to cooperation with any nation or group of nations (but not purely private or domestic arrangements) involving—
 
@@ -3686,13 +3814,13 @@ Section effective Mar. 10, 1978, except as otherwise provided and regardless of 
 
 **(f) Subsequent arrangements involving direct or indirect commitment of United States for storage or other disposition of foreign spent nuclear fuel in United States**
 
-(1) With regard to any subsequent arrangement under subsection (a)(2)(E) of this section (for the storage or disposition of irradiated fuel elements), where such arrangement involves a direct or indirect commitment of the United States for the storage or other disposition, interim or permanent, of any foreign spent nuclear fuel in the United States, the Secretary of Energy may not enter into any such subsequent arrangement, unless:
+(1) With regard to any subsequent arrangement under subsection (a)(2)(E) (for the storage or disposition of irradiated fuel elements), where such arrangement involves a direct or indirect commitment of the United States for the storage or other disposition, interim or permanent, of any foreign spent nuclear fuel in the United States, the Secretary of Energy may not enter into any such subsequent arrangement, unless:
 
   (A)
 
     (i) Such commitment of the United States has been submitted to the Congress for a period of sixty days of continuous session (as defined in [section 2159(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2159/g&num=0&edition=prelim)) and has been referred to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, but any such commitment shall not become effective if during such sixty-day period the Congress adopts a concurrent resolution stating in substance that it does not favor the commitment, any such commitment to be considered pursuant to the procedures set forth in [section 2159 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2159) for the consideration of Presidential submissions; or (ii) if the President has submitted a detailed generic plan for such disposition or storage in the United States to the Congress for a period of sixty days of continuous session (as defined in [section 2159(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2159/g&num=0&edition=prelim)), which plan has been referred to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate and has not been disapproved during such sixty-day period by the adoption of a concurrent resolution stating in substance that Congress does not favor the plan; and the commitment is subject to the terms of an effective plan. Any such plan shall be considered pursuant to the procedures set forth in [section 2159 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2159) for the consideration of Presidential submissions;
 
-  (B) The Secretary of Energy has complied with subsection (a) of this section; and
+  (B) The Secretary of Energy has complied with subsection (a); and
 
   (C) The Secretary of Energy has complied, or in the arrangement will comply with all other statutory requirements of this chapter, under sections 2074 and 2075 of this title and any other applicable sections, and any other requirements of law.
 
@@ -3777,12 +3905,12 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 ## § 2160c. Consultation with Department of Defense concerning certain exports and subsequent arrangements
 **(a)** In addition to other applicable requirements—
 
-(1) a license may be issued by the Nuclear Regulatory Commission under this chapter for the export of special nuclear material described in subsection (b) of this section; and
+(1) a license may be issued by the Nuclear Regulatory Commission under this chapter for the export of special nuclear material described in subsection (b); and
 
-(2) approval may be granted by the Secretary of Energy under [section 2160 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2160) for the transfer of special nuclear material described in subsection (b) of this section;
+(2) approval may be granted by the Secretary of Energy under [section 2160 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2160) for the transfer of special nuclear material described in subsection (b);
 only after the Secretary of Defense has been consulted on whether the physical protection of that material during the export or transfer will be adequate to deter theft, sabotage, and other acts of international terrorism which would result in the diversion of that material. If, in the view of the Secretary of Defense based on all available intelligence information, the export or transfer might be subject to a genuine terrorist threat, the Secretary shall provide to the Nuclear Regulatory Commission or the Secretary of Energy, as appropriate, his written assessment of the risk and a description of the actions the Secretary of Defense considers necessary to upgrade physical protection measures.
 
-**(b)** Subsection (a) of this section applies to the export or transfer of more than 2 kilograms of plutonium or more than 5 kilograms of uranium enriched to more than 20 percent in the isotope 233 or the isotope 235.
+**(b)** Subsection (a) applies to the export or transfer of more than 2 kilograms of plutonium or more than 5 kilograms of uranium enriched to more than 20 percent in the isotope 233 or the isotope 235.
 
 ### Statutory Notes
 
@@ -3798,7 +3926,7 @@ Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see sectio
 
 <a id="section-2160d"></a>
 ## § 2160d. Further restrictions on exports
-**(a) In general** Except as provided in subsection (b) of this section, the Commission may issue a license for the export of highly enriched uranium to be used as a fuel or target in a nuclear research or test reactor only if, in addition to any other requirement of this chapter, the Commission determines that—
+**(a) In general** Except as provided in subsection (b), the Commission may issue a license for the export of highly enriched uranium to be used as a fuel or target in a nuclear research or test reactor only if, in addition to any other requirement of this chapter, the Commission determines that—
 
 (1) there is no alternative nuclear reactor fuel or target enriched in the isotope 235 to a lesser percent than the proposed export, that can be used in that reactor;
 
@@ -3822,7 +3950,7 @@ Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see sectio
 
   (D) *Recipient country* — The term “recipient country” means Canada, Belgium, France, Germany, and the Netherlands.
 
-(2) **Licenses** — The Commission may issue a license authorizing the export (including shipment to and use at intermediate and ultimate consignees specified in the license) to a recipient country of highly enriched uranium for medical isotope production if, in addition to any other requirements of this chapter (except subsection (a) of this section), the Commission determines that—
+(2) **Licenses** — The Commission may issue a license authorizing the export (including shipment to and use at intermediate and ultimate consignees specified in the license) to a recipient country of highly enriched uranium for medical isotope production if, in addition to any other requirements of this chapter (except subsection (a)), the Commission determines that—
 
   (A) a recipient country that supplies an assurance letter to the United States Government in connection with the consideration by the Commission of the export license application has informed the United States Government that any intermediate consignees and the ultimate consignee specified in the application are required to use the highly enriched uranium solely to produce medical isotopes; and
 
@@ -3918,7 +4046,7 @@ This chapter, referred to in subsecs. (a) and (b)(2), was in the original “thi
 #### Amendments
 2013—Subsecs. (c) to (h). Pub. L. 112–239 added subsecs. (c) to (h) and struck out former subsec. (c), which provided definitions for terms used in this section.
 
-2005—Subsec. (a). Pub. L. 109–58, § 630(1), inserted heading and substituted “Except as provided in subsection (b) of this section, the Commission” for “The Commission” in introductory provisions.
+2005—Subsec. (a). Pub. L. 109–58, § 630(1), inserted heading and substituted “Except as provided in subsection (b), the Commission” for “The Commission” in introductory provisions.
 
 Subsecs. (b), (c). Pub. L. 109–58, § 630(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -4099,7 +4227,7 @@ Subsecs. (b), (c). Pub. L. 109–58, § 630(2), (3), added subsec. (b) and redes
 
   (A) the title of which is as follows: “A bill reinstating statutory sanctions imposed with respect to Iran.”; and
 
-  (B) the matter after the enacting clause of which is: “Any statutory sanctions imposed with respect to Iran pursuant to ***BELL-G DELETED*** XXXXXX that were waived, suspended, reduced, or otherwise relieved pursuant to an agreement submitted pursuant to section 135(a) of the Atomic Energy Act of 1954 are hereby reinstated and any action by the United States Government to facilitate the release of funds or assets to Iran pursuant to such agreement, or provide any further waiver, suspension, reduction, or other relief pursuant to such agreement is hereby prohibited.”, with the blank space being filled in with the law or laws under which sanctions are to be reinstated.
+  (B) the matter after the enacting clause of which is: “Any statutory sanctions imposed with respect to Iran pursuant to ______ that were waived, suspended, reduced, or otherwise relieved pursuant to an agreement submitted pursuant to section 135(a) of the Atomic Energy Act of 1954 are hereby reinstated and any action by the United States Government to facilitate the release of funds or assets to Iran pursuant to such agreement, or provide any further waiver, suspension, reduction, or other relief pursuant to such agreement is hereby prohibited.”, with the blank space being filled in with the law or laws under which sanctions are to be reinstated.
 
 (3) **Introduction** — During the 60-calendar day period provided for in paragraph (1), qualifying legislation may be introduced—
 
@@ -4155,7 +4283,7 @@ Subsecs. (b), (c). Pub. L. 109–58, § 630(2), (3), added subsec. (b) and redes
 
 (2) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
 
-**(g) Rules of Construction** Nothing in the section shall be construed as—
+**(g) Rules of construction** Nothing in the section shall be construed as—
 
 (1) modifying, or having any other impact on, the President’s authority to negotiate, enter into, or implement appropriate executive agreements, other than the restrictions on implementation of the agreements specifically covered by this section;
 
@@ -4192,6 +4320,31 @@ Subsecs. (b), (c). Pub. L. 109–58, § 630(2), (3), added subsec. (b) and redes
 (9) **P5+1 countries** — The term “P5+1 countries” means the United States, France, the Russian Federation, the People’s Republic of China, the United Kingdom, and Germany.
 
 (10) **United States person** — The term “United States person” has the meaning given that term in [section 8511 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8511&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Delegation of Certain Functions and Authorities Under Section 135 of the Atomic Energy Act of 1954 ([42 U.S.C. 2011](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) et seq.), as amended by the Iran Nuclear Agreement Review Act of 2015
+Memorandum of President of the United States, July 17, 2015, 80 F.R. 43909, provided:
+
+Memorandum for the Secretary of State [and] the Secretary of the Treasury
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code, I hereby order as follows:
+
+I hereby delegate the functions and authorities vested in the President by the following provisions of section 135 of the Atomic Energy Act of 1954 ([42 U.S.C. 2011](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) et seq.), as amended by the Iran Nuclear Agreement Review Act of 2015, as follows:
+
+• Section 135(a)(1) to the Secretary of State, in consultation with the Secretary of the Treasury as appropriate;
+
+• Sections 135(d)(1)–(d)(3), (d)(5)(B), and (d)(6) to the Secretary of State, in consultation with other relevant agencies as appropriate;
+
+• Section 135(d)(4) to the Secretary of State, in consultation with the Secretary of the Treasury as appropriate, with respect to the requirement to submit the report described in that provision and to prepare each of the required elements of the report, with the exception of the required assessment related to money laundering or terrorist finance activities in section 135(d)(4)(H);
+
+• Section 135(d)(4)(H) to the Secretary of the Treasury, in consultation with the Secretary of State, with respect to preparation of the assessment described in that provision for inclusion in the report required by section 135(d)(4).
+
+Any reference in this memorandum to provisions of any act related to the subject of this memorandum shall be deemed to include references to any hereafter enacted provisions of law that are the same or substantially the same as such provisions.
+
+The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.
 
 
 <a id="section-2161"></a>
@@ -4337,7 +4490,7 @@ The Commission may authorize any of its employees, or employees of any contracto
 (4) the development of compatible delivery systems for atomic weapons;
 whenever the President determines that the proposed cooperation and the proposed communication of the Restricted Data will promote and will not constitute an unreasonable risk to the common defense and security, while such other nation or organization is participating with the United States pursuant to an international arrangement by substantial and material contributions to the mutual defense and security: Provided, however, That the cooperation is undertaken pursuant to an agreement entered into in accordance with [section 2153 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2153).
 
-**(c) Exchange of information concerning atomic weapons; research, development, or design, of military reactors** In addition to the cooperation authorized in subsections (a) and (b) of this section, the President may authorize the Commission, with the assistance of the Department of Defense, to cooperate with another nation and—
+**(c) Exchange of information concerning atomic weapons; research, development, or design, of military reactors** In addition to the cooperation authorized in subsections (a) and (b), the President may authorize the Commission, with the assistance of the Department of Defense, to cooperate with another nation and—
 
 (1) to exchange with that nation Restricted Data concerning atomic weapons: Provided, That communication of such Restricted Data to that nation is necessary to improve its atomic weapon design, development, or fabrication capability and provided that nation has made substantial progress in the development of atomic weapons; and
 
@@ -4346,7 +4499,7 @@ whenever the President determines that the proposed cooperation and the communic
 
 **(d) By Department of Energy**
 
-(1) In addition to the cooperation authorized in subsections (a), (b), and (c) of this section, the President may, upon making a determination described in paragraph (2), authorize the Department of Energy, with the assistance of the Department of Defense, to cooperate with another nation to communicate to that nation such Restricted Data, and the President may, upon making such determination, authorize the Department of Defense, with the assistance of the Department of Energy, to cooperate with another nation to communicate to that nation such data removed from the Restricted Data category under [section 2162 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2162), as is necessary for—
+(1) In addition to the cooperation authorized in subsections (a), (b), and (c), the President may, upon making a determination described in paragraph (2), authorize the Department of Energy, with the assistance of the Department of Defense, to cooperate with another nation to communicate to that nation such Restricted Data, and the President may, upon making such determination, authorize the Department of Defense, with the assistance of the Department of Energy, to cooperate with another nation to communicate to that nation such data removed from the Restricted Data category under [section 2162 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2162), as is necessary for—
 
   (A) the support of a program for the control of and accounting for fissile material and other weapons material;
 
@@ -4364,7 +4517,7 @@ whenever the President determines that the proposed cooperation and the communic
 
 (3) Cooperation under this subsection shall be undertaken pursuant to an agreement for cooperation entered into in accordance with [section 2153 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2153).
 
-**(e) Communication of data by other Government agencies** The President may authorize any agency of the United States to communicate in accordance with the terms and conditions of an agreement for cooperation arranged pursuant to subsection (a), (b), (c), or (d) of this section, such Restricted Data as is determined to be transmissible under the agreement for cooperation involved.
+**(e) Communication of data by other Government agencies** The President may authorize any agency of the United States to communicate in accordance with the terms and conditions of an agreement for cooperation arranged pursuant to subsection (a), (b), (c), or (d), such Restricted Data as is determined to be transmissible under the agreement for cooperation involved.
 
 ### Statutory Notes
 
@@ -4416,7 +4569,7 @@ Pub. L. 104–106, div. C, title XXXI, § 3154(a), Feb. 10, 1996, 110 Stat. 624,
 
 **(g) Investigation standards** The Commission shall establish standards and specifications in writing as to the scope and extent of investigations, the reports of which will be utilized by the Commission in making the determination, pursuant to subsections (a), (b), and (c) of this section, that permitting a person access to restricted data will not endanger the common defense and security. Such standards and specifications shall be based on the location and class or kind of work to be done, and shall, among other considerations, take into account the degree of importance to the common defense and security of the restricted data to which access will be permitted.
 
-**(h) War time clearance** Whenever the Congress declares that a state of war exists, or in the event of a national disaster due to enemy attack, the Commission is authorized during the state of war or period of national disaster due to enemy attack to employ individuals and to permit individuals access to Restricted Data pending the investigation report, and determination required by subsection (b) of this section, to the extent that and so long as the Commission finds that such action is required to prevent impairment of its activities in furtherance of the common defense and security.
+**(h) War time clearance** Whenever the Congress declares that a state of war exists, or in the event of a national disaster due to enemy attack, the Commission is authorized during the state of war or period of national disaster due to enemy attack to employ individuals and to permit individuals access to Restricted Data pending the investigation report, and determination required by subsection (b), to the extent that and so long as the Commission finds that such action is required to prevent impairment of its activities in furtherance of the common defense and security.
 
 ### Statutory Notes
 
@@ -4590,7 +4743,7 @@ Subsecs. (d), (e). Pub. L. 97–415, § 17(b), added subsecs. (d) and (e).
 
   (A) to limit the redissemination of such information;
 
-  (B) to ensure that such information is used solely for the purpose of determining whether an individual shall be permitted unescorted access to a utilization facility, radioactive material, or other property described in subsection (a)(1)(B) of this section or shall be permitted access to safeguards information under [section 2167 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2167);
+  (B) to ensure that such information is used solely for the purpose of determining whether an individual shall be permitted unescorted access to a utilization facility, radioactive material, or other property described in subsection (a)(1)(B) or shall be permitted access to safeguards information under [section 2167 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2167);
 
   (C) to ensure that no final determination may be made solely on the basis of information provided under this section involving—
 
@@ -4602,7 +4755,7 @@ Subsecs. (d), (e). Pub. L. 97–415, § 17(b), added subsecs. (d) and (e).
 
 (3) to provide each individual subject to fingerprinting under this section with the right to complete, correct, and explain information contained in the criminal history records prior to any final adverse determination.
 
-**(d) Use of biometric methods** The Commission may require a person or individual to conduct fingerprinting under subsection (a)(1) of this section by authorizing or requiring the use of any alternative biometric method for identification that has been approved by—
+**(d) Use of biometric methods** The Commission may require a person or individual to conduct fingerprinting under subsection (a)(1) by authorizing or requiring the use of any alternative biometric method for identification that has been approved by—
 
 (1) the Attorney General; and
 
@@ -4627,7 +4780,7 @@ Subsecs. (d), (e). Pub. L. 97–415, § 17(b), added subsecs. (d) and (e).
 
 Subsec. (c). Pub. L. 109–58, § 652(2)(A), substituted “requirements—” for “, subject to public notice and comment, regulations—” in introductory provisions.
 
-Subsec. (c)(2)(B). Pub. L. 109–58, § 652(2)(B), substituted “unescorted access to a utilization facility, radioactive material, or other property described in subsection (a)(1)(B) of this section” for “unescorted access to the facility of a licensee or applicant”.
+Subsec. (c)(2)(B). Pub. L. 109–58, § 652(2)(B), substituted “unescorted access to a utilization facility, radioactive material, or other property described in subsection (a)(1)(B)” for “unescorted access to the facility of a licensee or applicant”.
 
 Subsecs. (d), (e). Pub. L. 109–58, § 652(3), (4), added subsec. (d) and redesignated former subsec. (d) as (e).
 
@@ -4643,7 +4796,7 @@ Pub. L. 99–399, title VI, § 606(b), Aug. 27, 1986, 100 Stat. 877, provided th
 
 **(c) Report of invention to Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office** Any person who has made or hereafter makes any invention or discovery useful in the production or utilization of special nuclear material or atomic energy, shall file with the Commission a report containing a complete description thereof unless such invention or discovery is described in an application for a patent filed with the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office by such person within the time required for the filing of such report. The report covering any such invention or discovery shall be filed on or before the one hundred and eightieth day after such person first discovers or first has reason to believe that such invention or discovery is useful in such production or utilization.
 
-**(d) Report to Commission by Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office** The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall notify the Commission of all applications for patents heretofore or hereafter filed which, in his opinion, disclose inventions or discoveries required to be reported under subsection (c) of this section, and shall provide the Commission access to all such applications.
+**(d) Report to Commission by Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office** The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall notify the Commission of all applications for patents heretofore or hereafter filed which, in his opinion, disclose inventions or discoveries required to be reported under subsection (c), and shall provide the Commission access to all such applications.
 
 **(e) Confidential information; circumstances permitting disclosure** Reports filed pursuant to subsection (c) of this section, and applications to which access is provided under subsection (d) of this section, shall be kept in confidence by the Commission, and no information concerning the same given without authority of the inventor or owner unless necessary to carry out the provisions of any Act of Congress or in such special circumstances as may be determined by the Commission.
 
@@ -4705,7 +4858,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 ## § 2183. Nonmilitary utilization
 **(a) Declaration of public interest** The Commission may, after giving the patent owner an opportunity for a hearing, declare any patent to be affected with the public interest if (1) the invention or discovery covered by the patent is of primary importance in the production or utilization of special nuclear material or atomic energy; and (2) the licensing of such invention or discovery under this section is of primary importance to effectuate the policies and purposes of this chapter.
 
-**(b) Action by Commission** Whenever any patent has been declared affected with the public interest, pursuant to subsection (a) of this section—
+**(b) Action by Commission** Whenever any patent has been declared affected with the public interest, pursuant to subsection (a)—
 
 (1) the Commission is licensed to use the invention or discovery covered by such patent in performing any of its powers under this chapter; and
 
@@ -4722,7 +4875,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 (4) whose activities or proposed activities are authorized under [section 2051 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2051),
 may at any time make application to the Commission for a patent license for the use of an invention or discovery useful in the production or utilization of special nuclear material or atomic energy covered by a patent. Each such application shall set forth the nature and purpose of the use which the applicant intends to make of the patent license, the steps taken by the applicant to obtain a patent license from the owner of the patent, and a statement of the effects, as estimated by the applicant, on the authorized activities which will result from failure to obtain such patent license and which will result from the granting of such patent license.
 
-**(d) Hearings** Whenever any person has made an application to the Commission for a patent license pursuant to subsection (c) of this section—
+**(d) Hearings** Whenever any person has made an application to the Commission for a patent license pursuant to subsection (c)—
 
 (1) the Commission, within 30 days after the filing of such application, shall make available to the owner of the patent all of the information contained in such application, and shall notify the owner of the patent of the time and place at which a hearing will be held by the Commission;
 
@@ -4730,7 +4883,7 @@ may at any time make application to the Commission for a patent license for the 
 
 (3) in the event an applicant applies for two or more patent licenses, the Commission may, in its discretion, order the consolidation of such applications, and if the patents are owned by more than one owner, such owners may be made parties to one hearing.
 
-**(e) Commission’s findings** If, after any hearing conducted pursuant to subsection (d) of this section, the Commission finds that—
+**(e) Commission’s findings** If, after any hearing conducted pursuant to subsection (d), the Commission finds that—
 
 (1) the invention or discovery covered by the patent is of primary importance in the production or utilization of special nuclear material or atomic energy;
 
@@ -4741,9 +4894,9 @@ may at any time make application to the Commission for a patent license for the 
 (4) such applicant cannot otherwise obtain a patent license from the owner of the patent on terms which the Commission deems to be reasonable for the intended use of the patent to be made by such applicant,
 the Commission shall license the applicant to use the invention or discovery covered by the patent for the purposes stated in such application on terms deemed equitable by the Commission and generally not less fair than those granted by the patentee or by the Commission to similar licensees for comparable use.
 
-**(f) Limitations on issuance of patent** The Commission shall not grant any patent license pursuant to subsection (e) of this section for any other purpose than that stated in the application. Nor shall the Commission grant any patent license to any other applicant for a patent license on the same patent without an application being made by such applicant pursuant to subsection (c) of this section, and without separate notification and hearing as provided in subsection (d) of this section, and without a separate finding as provided in subsection (e) of this section.
+**(f) Limitations on issuance of patent** The Commission shall not grant any patent license pursuant to subsection (e) for any other purpose than that stated in the application. Nor shall the Commission grant any patent license to any other applicant for a patent license on the same patent without an application being made by such applicant pursuant to subsection (c), and without separate notification and hearing as provided in subsection (d), and without a separate finding as provided in subsection (e).
 
-**(g) Royalty fees** The owner of the patent affected by a declaration or a finding made by the Commission pursuant to subsection (b) or (e) of this section shall be entitled to a reasonable royalty fee from the licensee for any use of an invention or discovery licensed by this section. Such royalty fee may be agreed upon by such owner and the patent licensee, or in the absence of such agreement shall be determined for each patent license by the Commission pursuant to [section 2187(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2187/c&num=0&edition=prelim).
+**(g) Royalty fees** The owner of the patent affected by a declaration or a finding made by the Commission pursuant to subsection (b) or (e) shall be entitled to a reasonable royalty fee from the licensee for any use of an invention or discovery licensed by this section. Such royalty fee may be agreed upon by such owner and the patent licensee, or in the absence of such agreement shall be determined for each patent license by the Commission pursuant to [section 2187(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2187/c&num=0&edition=prelim).
 
 **(h) Effective period** The provisions of this section shall apply to any patent the application for which shall have been filed before September 1, 1979.
 
@@ -4823,7 +4976,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 (1) In determining a reasonable royalty fee as provided for in section 2183(b) or 2183(e) of this title, the Commission shall take into consideration (A) the advice of the Patent Compensation Board; (B) any defense, general or special, that might be pleaded by a defendant in an action for infringement; (C) the extent to which, if any, such patent was developed through federally financed research; and (D) the degree of utility, novelty, and importance of the invention or discovery, and may consider the cost to the owner of the patent of developing such invention or discovery or acquiring such patent.
 
-(2) In determining what constitutes just compensation as provided for in [section 2181 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2181), or in determining the amount of any award under subsection (b)(3) of this section, the Commission shall take into account the considerations set forth in paragraph (1) of this subsection and the actual use of such invention or discovery. Such compensation may be paid by the Commission in periodic payments or in a lump sum.
+(2) In determining what constitutes just compensation as provided for in [section 2181 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2181), or in determining the amount of any award under subsection (b)(3), the Commission shall take into account the considerations set forth in paragraph (1) of this subsection and the actual use of such invention or discovery. Such compensation may be paid by the Commission in periodic payments or in a lump sum.
 
 **(d) Limitations** Every application under this section shall be barred unless filed within six years after the date on which first accrues the right to such reasonable royalty fee, just compensation, or award for which such application is filed.
 
@@ -4920,7 +5073,7 @@ In the performance of its functions the Commission is authorized to—
 
 **(i) Regulations governing Restricted Data** prescribe such regulations or orders as it may deem necessary (1) to protect Restricted Data received by any person in connection with any activity authorized pursuant to this chapter, (2) to guard against the loss or diversion of any special nuclear material acquired by any person pursuant to [section 2073 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2073) or produced by any person in connection with any activity authorized pursuant to this chapter, to prevent any use or disposition thereof which the Commission may determine to be inimical to the common defense and security, including regulations or orders designating activities, involving quantities of special nuclear material which in the opinion of the Commission are important to the common defense and security, that may be conducted only by persons whose character, associations, and loyalty shall have been investigated under standards and specifications established by the Commission and as to whom the Commission shall have determined that permitting each such person to conduct the activity will not be inimical to the common defense and security, (3) to govern any activity authorized pursuant to this chapter, including standards and restrictions governing the design, location, and operation of facilities used in the conduct of such activity, in order to protect health and to minimize danger to life or property, and (4) to ensure that sufficient funds will be available for the decommissioning of any production or utilization facility licensed under section 2133 or 2134(b) of this title, including standards and restrictions governing the control, maintenance, use, and disbursement by any former licensee under this chapter that has control over any fund for the decommissioning of the facility;
 
-**(j) Disposition of surplus materials** without regard to the provisions of chapters 1 to 11 (except section 559) of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, or any other law, make such disposition as it may deem desirable of (1) radioactive materials, and (2) any other property, the special disposition of which is, in the opinion of the Commission, in the interest of the national security: Provided, however, That the property furnished to licensees in accordance with the provisions of subsection (m) of this section shall not be deemed to be property disposed of by the Commission pursuant to this subsection;
+**(j) Disposition of surplus materials** without regard to the provisions of chapters 1 to 11 (except section 559) of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, or any other law, make such disposition as it may deem desirable of (1) radioactive materials, and (2) any other property, the special disposition of which is, in the opinion of the Commission, in the interest of the national security: Provided, however, That the property furnished to licensees in accordance with the provisions of subsection (m) shall not be deemed to be property disposed of by the Commission pursuant to this subsection;
 
 **(k) Carrying of firearms; authority to make arrests without warrant** authorize such of its members, officers, and employees as it deems necessary in the interest of the common defense and security to carry firearms while in the discharge of their official duties. The Commission may also authorize such of those employees of its contractors and subcontractors (at any tier) engaged in the protection of property under the jurisdiction of the United States located at facilities owned by or contracted to the United States or being transported to or from such facilities as it deems necessary in the interests of the common defense and security to carry firearms while in the discharge of their official duties. A person authorized to carry firearms under this subsection may, while in the performance of, and in connection with, official duties, make arrests without warrant for any offense against the United States committed in that person’s presence or for any felony cognizable under the laws of the United States if that person has reasonable ground to believe that the individual to be arrested has committed or is committing such felony. An employee of a contractor or subcontractor authorized to carry firearms under this subsection may make such arrests only when the individual to be arrested is within, or in direct flight from, the area of such offense. A person granted authority to make arrests by this subsection may exercise that authority only in the enforcement of (1) laws regarding the property of the United States in the custody of the Department of Energy, the Nuclear Regulatory Commission, or a contractor of the Department of Energy or Nuclear Regulatory Commission, or (2) any provision of this chapter that may subject an offender to a fine, imprisonment, or both. The arrest authority conferred by this subsection is in addition to any arrest authority under other laws. The Secretary, with the approval of the Attorney General, shall issue guidelines to implement this subsection;
 
@@ -4959,7 +5112,7 @@ Proceeds of sales under this subsection shall be credited to the appropriation c
 
 **(s) Succession of authority** establish a plan for a succession of authority which will assure the continuity of direction of the Commission’s operations in the event of a national disaster due to enemy activity. Notwithstanding any other provision of this chapter, the person or persons succeeding to command in the event of disaster in accordance with the plan established pursuant to this subsection shall be vested with all of the authority of the Commission: Provided, That any such succession to authority, and vesting of authority shall be effective only in the event and as long as a quorum of three or more members of the Commission is unable to convene and exercise direction during the disaster period: Provided further, That the disaster period includes the period when attack on the United States is imminent and the post-attack period necessary to reestablish normal lines of command;
 
-**(t) Contracts** enter into contracts for the processing, fabricating, separating, or refining in facilities owned by the Commission of source, byproduct or other material, or special nuclear material, in accordance with and within the period of an agreement for cooperation while comparable services are available to persons licensed under section 2133 or 2134 of this title: Provided, That the prices for services under such contracts shall be no less than the prices currently charged by the Commission pursuant to subsection (m) of this section;
+**(t) Contracts** enter into contracts for the processing, fabricating, separating, or refining in facilities owned by the Commission of source, byproduct or other material, or special nuclear material, in accordance with and within the period of an agreement for cooperation while comparable services are available to persons licensed under section 2133 or 2134 of this title: Provided, That the prices for services under such contracts shall be no less than the prices currently charged by the Commission pursuant to subsection (m);
 
 **(u) Additional contracts; guiding principles; appropriations**
 
@@ -5128,7 +5281,7 @@ Pub. L. 85–162, title II, § 203, Aug. 21, 1957, 71 Stat. 410, directed Atomic
 
   (D) are discharging the official duties of the security personnel in transferring, receiving, possessing, transporting, or importing the weapons, ammunition, or devices.
 
-**(c) Background checks** A person that receives, possesses, transports, imports, or uses a weapon, ammunition, or a device under subsection (b) of this section shall be subject to a background check by the Attorney General, based on fingerprints and including a background check under section 103(b) of the Brady Handgun Violence Prevention Act (Public Law 103–159; [18 U.S.C. 922](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim) note) to determine whether the person is prohibited from possessing or receiving a firearm under Federal or State law.
+**(c) Background checks** A person that receives, possesses, transports, imports, or uses a weapon, ammunition, or a device under subsection (b) shall be subject to a background check by the Attorney General, based on fingerprints and including a background check under section 103(b) of the Brady Handgun Violence Prevention Act (Public Law 103–159; [18 U.S.C. 922](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim) note) to determine whether the person is prohibited from possessing or receiving a firearm under Federal or State law.
 
 **(d) Effective date** This section takes effect on the date on which guidelines are issued by the Commission, with the approval of the Attorney General, to carry out this section.
 
@@ -5281,11 +5434,11 @@ No funds of the Commission shall be employed in the construction or operation of
 
 <a id="section-2210"></a>
 ## § 2210. Indemnification and limitation of liability
-**(a) Requirement of financial protection for licensees** Each license issued under section 2133 or 2134 of this title and each construction permit issued under [section 2235 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2235) shall, and each license issued under section 2073, 2093, or 2111 of this title may, for the public purposes cited in [section 2012(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2012/i&num=0&edition=prelim), have as a condition of the license a requirement that the licensee have and maintain financial protection of such type and in such amounts as the Nuclear Regulatory Commission (in this section referred to as the “Commission”) in the exercise of its licensing and regulatory authority and responsibility shall require in accordance with subsection (b) of this section to cover public liability claims. Whenever such financial protection is required, it may be a further condition of the license that the licensee execute and maintain an indemnification agreement in accordance with subsection (c) of this section. The Commission may require, as a further condition of issuing a license, that an applicant waive any immunity from public liability conferred by Federal or State law.
+**(a) Requirement of financial protection for licensees** Each license issued under section 2133 or 2134 of this title and each construction permit issued under [section 2235 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2235) shall, and each license issued under section 2073, 2093, or 2111 of this title may, for the public purposes cited in [section 2012(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2012/i&num=0&edition=prelim), have as a condition of the license a requirement that the licensee have and maintain financial protection of such type and in such amounts as the Nuclear Regulatory Commission (in this section referred to as the “Commission”) in the exercise of its licensing and regulatory authority and responsibility shall require in accordance with subsection (b) to cover public liability claims. Whenever such financial protection is required, it may be a further condition of the license that the licensee execute and maintain an indemnification agreement in accordance with subsection (c). The Commission may require, as a further condition of issuing a license, that an applicant waive any immunity from public liability conferred by Federal or State law.
 
 **(b) Amount and type of financial protection for licensees**
 
-(1) The amount of primary financial protection required shall be the amount of liability insurance available from private sources, except that the Commission may establish a lesser amount on the basis of criteria set forth in writing, which it may revise from time to time, taking into consideration such factors as the following: (A) the cost and terms of private insurance, (B) the type, size, and location of the licensed activity and other factors pertaining to the hazard, and (C) the nature and purpose of the licensed activity: Provided, That for facilities designed for producing substantial amounts of electricity and having a rated capacity of 100,000 electrical kilowatts or more, the amount of primary financial protection required shall be the maximum amount available at reasonable cost and on reasonable terms from private sources (excluding the amount of private liability insurance available under the industry retrospective rating plan required in this subsection). Such primary financial protection may include private insurance, private contractual indemnities, self-insurance, other proof of financial responsibility, or a combination of such measures and shall be subject to such terms and conditions as the Commission may, by rule, regulation, or order, prescribe. The Commission shall require licensees that are required to have and maintain primary financial protection equal to the maximum amount of liability insurance available from private sources to maintain, in addition to such primary financial protection, private liability insurance available under an industry retrospective rating plan providing for premium charges deferred in whole or major part until public liability from a nuclear incident exceeds or appears likely to exceed the level of the primary financial protection required of the licensee involved in the nuclear incident: Provided, That such insurance is available to, and required of, all of the licensees of such facilities without regard to the manner in which they obtain other types or amounts of such primary financial protection: And provided further, That the maximum amount of the standard deferred premium that may be charged a licensee following any nuclear incident under such a plan shall not be more than $95,800,000 (subject to adjustment for inflation under subsection (t) of this section), but not more than $15,000,000 in any 1 year (subject to adjustment for inflation under subsection (t) of this section), for each facility for which such licensee is required to maintain the maximum amount of primary financial protection: And provided further, That the amount which may be charged a licensee following any nuclear incident shall not exceed the licensee’s pro rata share of the aggregate public liability claims and costs (excluding legal costs subject to subsection (o)(1)(D) of this section, payment of which has not been authorized under such subsection) arising out of the nuclear incident. Payment of any State premium taxes which may be applicable to any deferred premium provided for in this chapter shall be the responsibility of the licensee and shall not be included in the retrospective premium established by the Commission.
+(1) The amount of primary financial protection required shall be the amount of liability insurance available from private sources, except that the Commission may establish a lesser amount on the basis of criteria set forth in writing, which it may revise from time to time, taking into consideration such factors as the following: (A) the cost and terms of private insurance, (B) the type, size, and location of the licensed activity and other factors pertaining to the hazard, and (C) the nature and purpose of the licensed activity: Provided, That for facilities designed for producing substantial amounts of electricity and having a rated capacity of 100,000 electrical kilowatts or more, the amount of primary financial protection required shall be the maximum amount available at reasonable cost and on reasonable terms from private sources (excluding the amount of private liability insurance available under the industry retrospective rating plan required in this subsection). Such primary financial protection may include private insurance, private contractual indemnities, self-insurance, other proof of financial responsibility, or a combination of such measures and shall be subject to such terms and conditions as the Commission may, by rule, regulation, or order, prescribe. The Commission shall require licensees that are required to have and maintain primary financial protection equal to the maximum amount of liability insurance available from private sources to maintain, in addition to such primary financial protection, private liability insurance available under an industry retrospective rating plan providing for premium charges deferred in whole or major part until public liability from a nuclear incident exceeds or appears likely to exceed the level of the primary financial protection required of the licensee involved in the nuclear incident: Provided, That such insurance is available to, and required of, all of the licensees of such facilities without regard to the manner in which they obtain other types or amounts of such primary financial protection: And provided further, That the maximum amount of the standard deferred premium that may be charged a licensee following any nuclear incident under such a plan shall not be more than $95,800,000 (subject to adjustment for inflation under subsection (t)), but not more than $15,000,000 in any 1 year (subject to adjustment for inflation under subsection (t)), for each facility for which such licensee is required to maintain the maximum amount of primary financial protection: And provided further, That the amount which may be charged a licensee following any nuclear incident shall not exceed the licensee’s pro rata share of the aggregate public liability claims and costs (excluding legal costs subject to subsection (o)(1)(D), payment of which has not been authorized under such subsection) arising out of the nuclear incident. Payment of any State premium taxes which may be applicable to any deferred premium provided for in this chapter shall be the responsibility of the licensee and shall not be included in the retrospective premium established by the Commission.
 
 (2)
 
@@ -5323,7 +5476,7 @@ No funds of the Commission shall be employed in the construction or operation of
 
 (1)
 
-  (A) In addition to any other authority the Secretary of Energy (in this section referred to as the “Secretary”) may have, the Secretary shall, until December 31, 2025, enter into agreements of indemnification under this subsection with any person who may conduct activities under a contract with the Department of Energy that involve the risk of public liability and that are not subject to financial protection requirements under subsection (b) of this section or agreements of indemnification under subsection (c) or (k) of this section.
+  (A) In addition to any other authority the Secretary of Energy (in this section referred to as the “Secretary”) may have, the Secretary shall, until December 31, 2025, enter into agreements of indemnification under this subsection with any person who may conduct activities under a contract with the Department of Energy that involve the risk of public liability and that are not subject to financial protection requirements under subsection (b) or agreements of indemnification under subsection (c) or (k).
 
   (B)
 
@@ -5331,15 +5484,15 @@ No funds of the Commission shall be employed in the construction or operation of
 
       (I) Beginning 60 days after August 20, 1988, agreements of indemnification under subparagraph (A) shall be the exclusive means of indemnification for public liability arising from activities described in such subparagraph, including activities conducted under a contract that contains an indemnification clause under Public Law 85–804 [[50 U.S.C. 1431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1431&num=0&edition=prelim) et seq.] entered into between August 1, 1987, and August 20, 1988.
 
-      (II) The Secretary may incorporate in agreements of indemnification under subparagraph (A) the provisions relating to the waiver of any issue or defense as to charitable or governmental immunity authorized in subsection (n)(1) of this section to be incorporated in agreements of indemnification. Any such provisions incorporated under this subclause shall apply to any nuclear incident arising out of nuclear waste activities subject to an agreement of indemnification under subparagraph (A).
+      (II) The Secretary may incorporate in agreements of indemnification under subparagraph (A) the provisions relating to the waiver of any issue or defense as to charitable or governmental immunity authorized in subsection (n)(1) to be incorporated in agreements of indemnification. Any such provisions incorporated under this subclause shall apply to any nuclear incident arising out of nuclear waste activities subject to an agreement of indemnification under subparagraph (A).
 
-    (ii) Public liability arising out of nuclear waste activities subject to an agreement of indemnification under subparagraph (A) that are funded by the Nuclear Waste Fund established in [section 10222 of this title](./chapter-108-nuclear-waste-policy.md#section-10222) shall be compensated from the Nuclear Waste Fund in an amount not to exceed the maximum amount of financial protection required of licensees under subsection (b) of this section.
+    (ii) Public liability arising out of nuclear waste activities subject to an agreement of indemnification under subparagraph (A) that are funded by the Nuclear Waste Fund established in [section 10222 of this title](./chapter-108-nuclear-waste-policy.md#section-10222) shall be compensated from the Nuclear Waste Fund in an amount not to exceed the maximum amount of financial protection required of licensees under subsection (b).
 
 (2) In an agreement of indemnification entered into under paragraph (1), the Secretary—
 
   (A) may require the contractor to provide and maintain financial protection of such a type and in such amounts as the Secretary shall determine to be appropriate to cover public liability arising out of or in connection with the contractual activity; and
 
-  (B) shall indemnify the persons indemnified against such liability above the amount of the financial protection required, in the amount of $10,000,000,000 (subject to adjustment for inflation under subsection (t) of this section), in the aggregate, for all persons indemnified in connection with the contract and for each nuclear incident, including such legal costs of the contractor as are approved by the Secretary.
+  (B) shall indemnify the persons indemnified against such liability above the amount of the financial protection required, in the amount of $10,000,000,000 (subject to adjustment for inflation under subsection (t)), in the aggregate, for all persons indemnified in connection with the contract and for each nuclear incident, including such legal costs of the contractor as are approved by the Secretary.
 
 (3) All agreements of indemnification under which the Department of Energy (or its predecessor agencies) may be required to indemnify any person under this section shall be deemed to be amended, on August 8, 2005, to reflect the amount of indemnity for public liability and any applicable financial protection required of the contractor under this subsection.
 
@@ -5353,11 +5506,11 @@ No funds of the Commission shall be employed in the construction or operation of
 
 **(e) Limitation on aggregate public liability**
 
-(1) The aggregate public liability for a single nuclear incident of persons indemnified, including such legal costs as are authorized to be paid under subsection (o)(1)(D) of this section, shall not exceed—
+(1) The aggregate public liability for a single nuclear incident of persons indemnified, including such legal costs as are authorized to be paid under subsection (o)(1)(D), shall not exceed—
 
-  (A) in the case of facilities designed for producing substantial amounts of electricity and having a rated capacity of 100,000 electrical kilowatts or more, the maximum amount of financial protection required of such facilities under subsection (b) of this section (plus any surcharge assessed under subsection (o)(1)(E) of this section);
+  (A) in the case of facilities designed for producing substantial amounts of electricity and having a rated capacity of 100,000 electrical kilowatts or more, the maximum amount of financial protection required of such facilities under subsection (b) (plus any surcharge assessed under subsection (o)(1)(E));
 
-  (B) in the case of contractors with whom the Secretary has entered into an agreement of indemnification under subsection (d) of this section, the amount of indemnity and financial protection that may be required under paragraph (2) of subsection (d) of this section; and
+  (B) in the case of contractors with whom the Secretary has entered into an agreement of indemnification under subsection (d), the amount of indemnity and financial protection that may be required under paragraph (2) of subsection (d); and
 
   (C) in the case of all other licensees of the Commission required to maintain financial protection under this section—
 
@@ -5365,11 +5518,11 @@ No funds of the Commission shall be employed in the construction or operation of
 
     (ii) if the amount of financial protection required of the licensee exceeds $60,000,000, $560,000,000 or the amount of financial protection required of the licensee, whichever amount is more.
 
-(2) In the event of a nuclear incident involving damages in excess of the amount of aggregate public liability under paragraph (1), the Congress will thoroughly review the particular incident in accordance with the procedures set forth in subsection (i) of this section and will in accordance with such procedures, take whatever action is determined to be necessary (including approval of appropriate compensation plans and appropriation of funds) to provide full and prompt compensation to the public for all public liability claims resulting from a disaster of such magnitude.
+(2) In the event of a nuclear incident involving damages in excess of the amount of aggregate public liability under paragraph (1), the Congress will thoroughly review the particular incident in accordance with the procedures set forth in subsection (i) and will in accordance with such procedures, take whatever action is determined to be necessary (including approval of appropriate compensation plans and appropriation of funds) to provide full and prompt compensation to the public for all public liability claims resulting from a disaster of such magnitude.
 
-(3) No provision of paragraph (1) may be construed to preclude the Congress from enacting a revenue measure, applicable to licensees of the Commission required to maintain financial protection pursuant to subsection (b) of this section, to fund any action undertaken pursuant to paragraph (2).
+(3) No provision of paragraph (1) may be construed to preclude the Congress from enacting a revenue measure, applicable to licensees of the Commission required to maintain financial protection pursuant to subsection (b), to fund any action undertaken pursuant to paragraph (2).
 
-(4) With respect to any nuclear incident occurring outside of the United States to which an agreement of indemnification entered into under the provisions of subsection (d) of this section is applicable, such aggregate public liability shall not exceed the amount of $500,000,000, together with the amount of financial protection required of the contractor.
+(4) With respect to any nuclear incident occurring outside of the United States to which an agreement of indemnification entered into under the provisions of subsection (d) is applicable, such aggregate public liability shall not exceed the amount of $500,000,000, together with the amount of financial protection required of the contractor.
 
 **(f) Collection of fees by Nuclear Regulatory Commission** The Commission or the Secretary, as appropriate, is authorized to collect a fee from all persons with whom an indemnification agreement is executed under this section. This fee shall be $30 per year per thousand kilowatts of thermal energy capacity for facilities licensed under [section 2133 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2133): Provided, That the Commission or the Secretary, as appropriate, is authorized to reduce the fee for such facilities in reasonable relation to increases in financial protection required above a level of $60,000,000. For facilities licensed under [section 2134 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2134), and for construction permits under [section 2235 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2235), the Commission is authorized to reduce the fee set forth above. The Commission shall establish criteria in writing for determination of the fee for facilities licensed under [section 2134 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2134), taking into consideration such factors as (1) the type, size, and location of facility involved, and other factors pertaining to the hazard, and (2) the nature and purpose of the facility. For other licenses, the Commission shall collect such nominal fees as it deems appropriate. No fee under this subsection shall be less than $100 per year.
 
@@ -5379,17 +5532,17 @@ No funds of the Commission shall be employed in the construction or operation of
 
 **(i) Compensation plans**
 
-(1) After any nuclear incident involving damages that are likely to exceed the applicable amount of aggregate public liability under subparagraph (A), (B), or (C) of subsection (e)(1) of this section, the Secretary or the Commisison,11 So in original. Probably should be “Commission,”. as appropriate, shall—
+(1) After any nuclear incident involving damages that are likely to exceed the applicable amount of aggregate public liability under subparagraph (A), (B), or (C) of subsection (e)(1), the Secretary or the Commisison,11 So in original. Probably should be “Commission,”. as appropriate, shall—
 
   (A) make a survey of the causes and extent of damage; and
 
   (B) expeditiously submit a report setting forth the results of such survey to the Congress, to the Representatives of the affected districts, to the Senators of the affected States, and (except for information that will cause serious damage to the national defense of the United States) to the public, to the parties involved, and to the courts.
 
-(2) Not later than 90 days after any determination by a court, pursuant to subsection (o) of this section, that the public liability from a single nuclear incident may exceed the applicable amount of aggregate public liability under subparagraph (A), (B), or (C) of subsection (e)(1) of this section the President shall submit to the Congress—
+(2) Not later than 90 days after any determination by a court, pursuant to subsection (o), that the public liability from a single nuclear incident may exceed the applicable amount of aggregate public liability under subparagraph (A), (B), or (C) of subsection (e)(1) the President shall submit to the Congress—
 
-  (A) an estimate of the aggregate dollar value of personal injuries and property damage that arises from the nuclear incident and exceeds the amount of aggregate public liability under subsection (e)(1) of this section;
+  (A) an estimate of the aggregate dollar value of personal injuries and property damage that arises from the nuclear incident and exceeds the amount of aggregate public liability under subsection (e)(1);
 
-  (B) recommendations for additional sources of funds to pay claims exceeding the applicable amount of aggregate public liability under subparagraph (A), (B), or (C) of subsection (e)(1) of this section, which recommendations shall consider a broad range of possible sources of funds (including possible revenue measures on the sector of the economy, or on any other class, to which such revenue measures might be applied);
+  (B) recommendations for additional sources of funds to pay claims exceeding the applicable amount of aggregate public liability under subparagraph (A), (B), or (C) of subsection (e)(1), which recommendations shall consider a broad range of possible sources of funds (including possible revenue measures on the sector of the economy, or on any other class, to which such revenue measures might be applied);
 
   (C) 1 or more compensation plans, that either individually or collectively shall provide for full and prompt compensation for all valid claims and contain a recommendation or recommendations as to the relief to be provided, including any recommendations that funds be allocated or set aside for the payment of claims that may arise as a result of latent injuries that may not be discovered until a later date; and
 
@@ -5401,7 +5554,7 @@ No funds of the Commission shall be employed in the construction or operation of
 
   (B) The provisions of paragraphs (4) through (6) shall apply with respect to consideration in the Senate of any compensation plan transmitted to the Senate pursuant to paragraph (2).
 
-(4) No such compensation plan may be considered approved for purposes of subsection (e)(2) of this section unless between the date of transmittal and the end of the first period of sixty calendar days of continuous session of Congress after the date on which such action is transmitted to the Senate, the Senate passes a resolution described in paragraph 6 22 So in original. Probably should be paragraph “(6)”. of this subsection.
+(4) No such compensation plan may be considered approved for purposes of subsection (e)(2) unless between the date of transmittal and the end of the first period of sixty calendar days of continuous session of Congress after the date on which such action is transmitted to the Senate, the Senate passes a resolution described in paragraph 6 22 So in original. Probably should be paragraph “(6)”. of this subsection.
 
 (5) For the purpose of paragraph (4) of this subsection—
 
@@ -5443,7 +5596,7 @@ No funds of the Commission shall be employed in the construction or operation of
 
 **(j) Contracts in advance of appropriations** In administering the provisions of this section, the Commission or the Secretary, as appropriate, may make contracts in advance of appropriations and incur obligations without regard to sections 1341, 1342, 1349, 1350, and 1351, and subchapter II of chapter 15, of title 31.
 
-**(k) Exemption from financial protection requirement for nonprofit educational institutions** With respect to any license issued pursuant to section 2073, 2093, 2111, 2134(a), or 2134(c) of this title, for the conduct of educational activities to a person found by the Commission to be a nonprofit educational institution, the Commission shall exempt such licensee from the financial protection requirement of subsection (a) of this section. With respect to licenses issued between August 30, 1954, and December 31, 2025, for which the Commission grants such exemption:
+**(k) Exemption from financial protection requirement for nonprofit educational institutions** With respect to any license issued pursuant to section 2073, 2093, 2111, 2134(a), or 2134(c) of this title, for the conduct of educational activities to a person found by the Commission to be a nonprofit educational institution, the Commission shall exempt such licensee from the financial protection requirement of subsection (a). With respect to licenses issued between August 30, 1954, and December 31, 2025, for which the Commission grants such exemption:
 
 (1) the Commission shall agree to indemnify and hold harmless the licensee and other persons indemnified, as their interests may appear, from public liability in excess of $250,000 arising from nuclear incidents. The aggregate indemnity for all persons indemnified in connection with each nuclear incident shall not exceed $500,000,000, including such legal costs of the licensee as are approved by the Commission;
 
@@ -5454,7 +5607,7 @@ Any licensee may waive an exemption to which it is entitled under this subsectio
 
 **(l) Presidential commission on catastrophic nuclear accidents**
 
-(1) Not later than 90 days after August 20, 1988, the President shall establish a commission (in this subsection referred to as the “study commission”) in accordance with the Federal Advisory Committee Act (5 U.S.C. App.) to study means of fully compensating victims of a catastrophic nuclear accident that exceeds the amount of aggregate public liability under subsection (e)(1) of this section.
+(1) Not later than 90 days after August 20, 1988, the President shall establish a commission (in this subsection referred to as the “study commission”) in accordance with the Federal Advisory Committee Act (5 U.S.C. App.) to study means of fully compensating victims of a catastrophic nuclear accident that exceeds the amount of aggregate public liability under subsection (e)(1).
 
 (2)
 
@@ -5472,7 +5625,7 @@ Any licensee may waive an exemption to which it is entitled under this subsectio
 
   (E) The President shall designate one of the members of the study commission as chairperson, to serve at the pleasure of the President.
 
-(3) The study commission shall conduct a comprehensive study of appropriate means of fully compensating victims of a catastrophic nuclear accident that exceeds the amount of aggregate public liability under subsection (e)(1) of this section, and shall submit to the Congress a final report setting forth—
+(3) The study commission shall conduct a comprehensive study of appropriate means of fully compensating victims of a catastrophic nuclear accident that exceeds the amount of aggregate public liability under subsection (e)(1), and shall submit to the Congress a final report setting forth—
 
   (A) recommendations for any changes in the laws and rules governing the liability or civil procedures that are necessary for the equitable, prompt, and efficient resolution and payment of all valid damage claims, including the advisability of adjudicating public liability claims through an administrative agency instead of the judicial system;
 
@@ -5510,12 +5663,12 @@ Any licensee may waive an exemption to which it is entitled under this subsectio
 
   (C) during the course of the contract activity arises out of or results from the possession, operation, or use by a Department of Energy contractor or subcontractor of a device utilizing special nuclear material or byproduct material,
 
-  (D) arises out of, results from, or occurs in the course of, the construction, possession, or operation of any facility licensed under section 2073, 2093, or 2111 of this title, for which the Commission has imposed as a condition of the license a requirement that the licensee have and maintain financial protection under subsection (a) of this section,
+  (D) arises out of, results from, or occurs in the course of, the construction, possession, or operation of any facility licensed under section 2073, 2093, or 2111 of this title, for which the Commission has imposed as a condition of the license a requirement that the licensee have and maintain financial protection under subsection (a),
 
-  (E) arises out of, results from, or occurs in the course of, transportation of source material, byproduct material, or special nuclear material to or from any facility licensed under section 2073, 2093, or 2111 of this title, for which the Commission has imposed as a condition of the license a requirement that the licensee have and maintain financial protection under subsection (a) of this section, or
+  (E) arises out of, results from, or occurs in the course of, transportation of source material, byproduct material, or special nuclear material to or from any facility licensed under section 2073, 2093, or 2111 of this title, for which the Commission has imposed as a condition of the license a requirement that the licensee have and maintain financial protection under subsection (a), or
 
   (F) arises out of, results from, or occurs in the course of nuclear waste activities.33 So in original. The period probably should be a comma.
-  the Commission or the Secretary, as appropriate, may incorporate provisions in indemnity agreements with licensees and contractors under this section, and may require provisions to be incorporated in insurance policies or contracts furnished as proof of financial protection, which waive (i) any issue or defense as to conduct of the claimant or fault of persons indemnified, (ii) any issue or defense as to charitable or governmental immunity, and (iii) any issue or defense based on any statute of limitations if suit is instituted within three years from the date on which the claimant first knew, or reasonably could have known, of his injury or damage and the cause thereof. The waiver of any such issue or defense shall be effective regardless of whether such issue or defense may otherwise be deemed jurisdictional or relating to an element in the cause of action. When so incorporated, such waivers shall be judicially enforcible in accordance with their terms by the claimant against the person indemnified. Such waivers shall not preclude a defense based upon a failure to take reasonable steps to mitigate damages, nor shall such waivers apply to injury or damage to a claimant or to a claimant’s property which is intentionally sustained by the claimant or which results from a nuclear incident intentionally and wrongfully caused by the claimant. The waivers authorized in this subsection shall, as to indemnitors, be effective only with respect to those obligations set forth in the insurance policies or the contracts furnished as proof of financial protection and in the indemnity agreements. Such waivers shall not apply to, or prejudice the prosecution or defense of, any claim or portion of claim which is not within the protection afforded under (i) the terms of insurance policies or contracts furnished as proof of financial protection, or indemnity agreements, and (ii) the limit of liability provisions of subsection (e) of this section.
+  the Commission or the Secretary, as appropriate, may incorporate provisions in indemnity agreements with licensees and contractors under this section, and may require provisions to be incorporated in insurance policies or contracts furnished as proof of financial protection, which waive (i) any issue or defense as to conduct of the claimant or fault of persons indemnified, (ii) any issue or defense as to charitable or governmental immunity, and (iii) any issue or defense based on any statute of limitations if suit is instituted within three years from the date on which the claimant first knew, or reasonably could have known, of his injury or damage and the cause thereof. The waiver of any such issue or defense shall be effective regardless of whether such issue or defense may otherwise be deemed jurisdictional or relating to an element in the cause of action. When so incorporated, such waivers shall be judicially enforcible in accordance with their terms by the claimant against the person indemnified. Such waivers shall not preclude a defense based upon a failure to take reasonable steps to mitigate damages, nor shall such waivers apply to injury or damage to a claimant or to a claimant’s property which is intentionally sustained by the claimant or which results from a nuclear incident intentionally and wrongfully caused by the claimant. The waivers authorized in this subsection shall, as to indemnitors, be effective only with respect to those obligations set forth in the insurance policies or the contracts furnished as proof of financial protection and in the indemnity agreements. Such waivers shall not apply to, or prejudice the prosecution or defense of, any claim or portion of claim which is not within the protection afforded under (i) the terms of insurance policies or contracts furnished as proof of financial protection, or indemnity agreements, and (ii) the limit of liability provisions of subsection (e).
 
 (2) With respect to any public liability action arising out of or resulting from a nuclear incident, the United States district court in the district where the nuclear incident takes place, or in the case of a nuclear incident taking place outside the United States, the United States District Court for the District of Columbia, shall have original jurisdiction without regard to the citizenship of any party or the amount in controversy. Upon motion of the defendant or of the Commission or the Secretary, as appropriate, any such action pending in any State court (including any such action pending on August 20, 1988) or United States district court shall be removed or transferred to the United States district court having venue under this subsection. Process of such district court shall be effective throughout the United States. In any action that is or becomes removable pursuant to this paragraph, a petition for removal shall be filed within the period provided in [section 1446 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1446&num=0&edition=prelim) or within the 30-day period beginning on August 20, 1988, whichever occurs later.
 
@@ -5523,7 +5676,7 @@ Any licensee may waive an exemption to which it is entitled under this subsectio
 
   (A) Following any nuclear incident, the chief judge of the United States district court having jurisdiction under paragraph (2) with respect to public liability actions (or the judicial council of the judicial circuit in which the nuclear incident occurs) may appoint a special caseload management panel (in this paragraph referred to as the “management panel”) to coordinate and assign (but not necessarily hear themselves) cases arising out of the nuclear incident, if—
 
-    (i) a court, acting pursuant to subsection (o) of this section, determines that the aggregate amount of public liability is likely to exceed the amount of primary financial protection available under subsection (b) of this section (or an equivalent amount in the case of a contractor indemnified under subsection (d) of this section); or
+    (i) a court, acting pursuant to subsection (o), determines that the aggregate amount of public liability is likely to exceed the amount of primary financial protection available under subsection (b) (or an equivalent amount in the case of a contractor indemnified under subsection (d)); or
 
     (ii) the chief judge of the United States district court (or the judicial council of the judicial circuit) determines that cases arising out of the nuclear incident will have an unusual impact on the work of the court.
 
@@ -5551,7 +5704,7 @@ Any licensee may waive an exemption to which it is entitled under this subsectio
 
 **(o) Plan for distribution of funds**
 
-(1) Whenever the United States district court in the district where a nuclear incident occurs, or the United States District Court for the District of Columbia in case of a nuclear incident occurring outside the United States, determines upon the petition of any indemnitor or other interested person that public liability from a single nuclear incident may exceed the limit of liability under the applicable limit of liability under subparagraph (A), (B), or (C) of subsection (e)(1) of this section:
+(1) Whenever the United States district court in the district where a nuclear incident occurs, or the United States District Court for the District of Columbia in case of a nuclear incident occurring outside the United States, determines upon the petition of any indemnitor or other interested person that public liability from a single nuclear incident may exceed the limit of liability under the applicable limit of liability under subparagraph (A), (B), or (C) of subsection (e)(1):
 
   (A) Total payments made by or for all indemnitors as a result of such nuclear incident shall not exceed 15 per centum of such limit of liability without the prior approval of such court;
 
@@ -5559,9 +5712,9 @@ Any licensee may waive an exemption to which it is entitled under this subsectio
 
   (C) The Commission or the Secretary, as appropriate, shall, and any other indemnitor or other interested person may, submit to such district court a plan for the disposition of pending claims and for the distribution of remaining funds available. Such a plan shall include an allocation of appropriate amounts for personal injury claims, property damage claims, and possible latent injury claims which may not be discovered until a later time and shall include establishment of priorities between claimants and classes of claims, as necessary to insure the most equitable allocation of available funds. Such court shall have all power necessary to approve, disapprove, or modify plans proposed, or to adopt another plan; and to determine the proportionate share of funds available for each claimant. The Commission or the Secretary as appropriate, any other indemnitor, and any person indemnified shall be entitled to such orders as may be appropriate to implement and enforce the provisions of this section, including orders limiting the liability of the persons indemnified, orders approving or modifying the plan, orders staying the payment of claims and the execution of court judgments, orders apportioning the payments to be made to claimants, and orders permitting partial payments to be made before final determination of the total claims. The orders of such court shall be effective throughout the United States.
 
-  (D) A court may authorize payment of only such legal costs as are permitted under paragraph (2) from the amount of financial protection required by subsection (b) of this section.
+  (D) A court may authorize payment of only such legal costs as are permitted under paragraph (2) from the amount of financial protection required by subsection (b).
 
-  (E) If the sum of public liability claims and legal costs authorized under paragraph (2) arising from any nuclear incident exceeds the maximum amount of financial protection required under subsection (b) of this section, any licensee required to pay a standard deferred premium under subsection (b)(1) of this section shall, in addition to such deferred premium, be charged such an amount as is necessary to pay a pro rata share of such claims and costs, but in no case more than 5 percent of the maximum amount of such standard deferred premium described in such subsection.
+  (E) If the sum of public liability claims and legal costs authorized under paragraph (2) arising from any nuclear incident exceeds the maximum amount of financial protection required under subsection (b), any licensee required to pay a standard deferred premium under subsection (b)(1) shall, in addition to such deferred premium, be charged such an amount as is necessary to pay a pro rata share of such claims and costs, but in no case more than 5 percent of the maximum amount of such standard deferred premium described in such subsection.
 
 (2) A court may authorize the payment of legal costs under paragraph (1)(D) only if the person requesting such payment has—
 
@@ -5591,13 +5744,13 @@ Any licensee may waive an exemption to which it is entitled under this subsectio
 
 **(t) Inflation adjustment**
 
-(1) The Commission shall adjust the amount of the maximum total and annual standard deferred premium under subsection (b)(1) of this section not less than once during each 5-year period following August 20, 2003, in accordance with the aggregate percentage change in the Consumer Price Index since—
+(1) The Commission shall adjust the amount of the maximum total and annual standard deferred premium under subsection (b)(1) not less than once during each 5-year period following August 20, 2003, in accordance with the aggregate percentage change in the Consumer Price Index since—
 
   (A) August 20, 2003, in the case of the first adjustment under this subsection; or
 
   (B) the previous adjustment under this subsection.
 
-(2) The Secretary shall adjust the amount of indemnification provided under an agreement of indemnification under subsection (d) of this section not less than once during each 5-year period following July 1, 2003, in accordance with the aggregate percentage change in the Consumer Price Index since—
+(2) The Secretary shall adjust the amount of indemnification provided under an agreement of indemnification under subsection (d) not less than once during each 5-year period following July 1, 2003, in accordance with the aggregate percentage change in the Consumer Price Index since—
 
   (A) that date, in the case of the first adjustment under this paragraph; or
 
@@ -5620,7 +5773,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (n)(3)(C)(v), (vi),
 In subsec. (g), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim)), as amended” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
-2005—Subsec. (b)(1). Pub. L. 109–58, § 603(1), substituted “$95,800,000” for “$63,000,000” and “$15,000,000 in any 1 year (subject to adjustment for inflation under subsection (t) of this section)” for “$10,000,000 in any 1 year” in second proviso of third sentence.
+2005—Subsec. (b)(1). Pub. L. 109–58, § 603(1), substituted “$95,800,000” for “$63,000,000” and “$15,000,000 in any 1 year (subject to adjustment for inflation under subsection (t))” for “$10,000,000 in any 1 year” in second proviso of third sentence.
 
 Subsec. (b)(5). Pub. L. 109–58, § 608, added par. (5).
 
@@ -5640,7 +5793,7 @@ Subsec. (d)(3). Pub. L. 109–58, § 604(b), added par. (3) and struck out forme
 
 Subsec. (d)(5). Pub. L. 109–58, § 605(a), substituted “$500,000,000” for “$100,000,000”.
 
-Subsec. (e)(1)(B). Pub. L. 109–58, § 604(c), struck out “the maximum amount of financial protection required under subsection (b) of this section or” before “the amount of indemnity” and substituted “paragraph (2) of subsection (d) of this section” for “paragraph (3) of subsection (d) of this section, whichever amount is more”.
+Subsec. (e)(1)(B). Pub. L. 109–58, § 604(c), struck out “the maximum amount of financial protection required under subsection (b) or” before “the amount of indemnity” and substituted “paragraph (2) of subsection (d)” for “paragraph (3) of subsection (d), whichever amount is more”.
 
 Subsec. (e)(4). Pub. L. 109–58, § 605(b), substituted “$500,000,000” for “$100,000,000”.
 
@@ -5662,13 +5815,13 @@ Subsec. (t)(2), (3). Pub. L. 109–58, § 607, added par. (2) and redesignated f
 
 1988—Subsec. (a). Pub. L. 100–408, § 16(e)(1), inserted “Requirement of financial protection for licensees” as heading.
 
-Pub. L. 100–408, § 16(d)(4), substituted “section 2i.” for “subsection 2i. of the Atomic Energy Act of 1954, as amended”, “subsection b.” for “subsection 170b.”, and “subsection c.” for “subsection 170c.”, which for purposes of codification were translated as “[section 2012(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2012/i&num=0&edition=prelim)”, “subsection (b) of this section”, and “subsection (c) of this section”, respectively, thus requiring no change in text.
+Pub. L. 100–408, § 16(d)(4), substituted “section 2i.” for “subsection 2i. of the Atomic Energy Act of 1954, as amended”, “subsection b.” for “subsection 170b.”, and “subsection c.” for “subsection 170c.”, which for purposes of codification were translated as “[section 2012(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2012/i&num=0&edition=prelim)”, “subsection (b)”, and “subsection (c)”, respectively, thus requiring no change in text.
 
 Pub. L. 100–408, § 16(a)(2), substituted “the Nuclear Regulatory Commission (in this section referred to as the ‘Commission’) in the exercise” for “the Commission in the exercise”.
 
 Subsec. (b). Pub. L. 100–408, § 16(e)(2), inserted “Amount and type of financial protection for licensees” as heading.
 
-Subsec. (b)(1). Pub. L. 100–408, § 2(a)–(c)(3), inserted par. (1) designation, inserted “primary” after “The amount of”, “the amount of”, “Such”, and “of such”, redesignated cls. (1) to (3) as (A) to (C), inserted “(excluding the amount of private liability insurance available under the industry retrospective rating plan required in this subsection)”, substituted “The Commission shall require licensees that are required to have and maintain primary financial protection equal to the maximum amount of liability insurance available from private sources to maintain, in addition to such primary financial protection,” for “In prescribing such terms and conditions for licensees required to have and maintain financial protection equal to the maximum amount of liability insurance available from private sources, the Commission shall, by rule initially prescribed not later than twelve months from December 31, 1975, include, in determining such maximum amount”, substituted “That the maximum amount of the standard deferred premium that may be charged a licensee following any nuclear incident under such a plan shall not be more than $63,000,000 (subject to adjustment for inflation under subsection (t) of this section), but not more than $10,000,000 in any 1 year, for each facility for which such licensee is required to maintain the maximum amount of primary financial protection” for “That the standard deferred premium which may be charged following any nuclear incident under such a plan shall be not less than $2,000,000 nor more than $5,000,000 for each facility required to maintain the maximum amount of financial protection”, inserted “(excluding legal costs subject to subsection (o)(1)(D) of this section, payment of which has not been authorized under such subsection)”, and struck out “The Commission is authorized to establish a maximum amount which the aggregate deferred premiums charged for each facility within one calendar year may not exceed. The Commission may establish amounts less than the standard premium for individual facilities taking into account such factors as the facility’s size, location, and other factors pertaining to the hazard.”
+Subsec. (b)(1). Pub. L. 100–408, § 2(a)–(c)(3), inserted par. (1) designation, inserted “primary” after “The amount of”, “the amount of”, “Such”, and “of such”, redesignated cls. (1) to (3) as (A) to (C), inserted “(excluding the amount of private liability insurance available under the industry retrospective rating plan required in this subsection)”, substituted “The Commission shall require licensees that are required to have and maintain primary financial protection equal to the maximum amount of liability insurance available from private sources to maintain, in addition to such primary financial protection,” for “In prescribing such terms and conditions for licensees required to have and maintain financial protection equal to the maximum amount of liability insurance available from private sources, the Commission shall, by rule initially prescribed not later than twelve months from December 31, 1975, include, in determining such maximum amount”, substituted “That the maximum amount of the standard deferred premium that may be charged a licensee following any nuclear incident under such a plan shall not be more than $63,000,000 (subject to adjustment for inflation under subsection (t)), but not more than $10,000,000 in any 1 year, for each facility for which such licensee is required to maintain the maximum amount of primary financial protection” for “That the standard deferred premium which may be charged following any nuclear incident under such a plan shall be not less than $2,000,000 nor more than $5,000,000 for each facility required to maintain the maximum amount of financial protection”, inserted “(excluding legal costs subject to subsection (o)(1)(D), payment of which has not been authorized under such subsection)”, and struck out “The Commission is authorized to establish a maximum amount which the aggregate deferred premiums charged for each facility within one calendar year may not exceed. The Commission may establish amounts less than the standard premium for individual facilities taking into account such factors as the facility’s size, location, and other factors pertaining to the hazard.”
 
 Subsec. (b)(2). Pub. L. 100–408, § 2(c)(4), added par. (2).
 
@@ -5708,7 +5861,7 @@ Pub. L. 100–408, § 16(b)(4), inserted “or the Secretary, as appropriate,”
 
 Subsec. (k). Pub. L. 100–408, § 16(e)(8), inserted “Exemption from financial protection requirement for nonprofit educational institutions” as heading.
 
-Pub. L. 100–408, § 16(d)(5), in introductory provisions substituted “subsection a” for “subsection 170a”, which for purposes of codification was translated as “subsection (a) of this section”, thus requiring no change in text.
+Pub. L. 100–408, § 16(d)(5), in introductory provisions substituted “subsection a” for “subsection 170a”, which for purposes of codification was translated as “subsection (a)”, thus requiring no change in text.
 
 Pub. L. 100–408, § 8(1), substituted “August 1, 2002” for “August 1, 1987”, wherever appearing in introductory and closing provisions.
 
@@ -5722,7 +5875,7 @@ Pub. L. 100–408, § 16(b)(4), inserted “or the Secretary, as appropriate,”
 
 Subsec. (n). Pub. L. 100–408, § 16(e)(10), inserted “Waiver of defenses and judicial procedures” as heading.
 
-Subsec. (n)(1). Pub. L. 100–408, §§ 10, 16(b)(5)(A), (d)(6), redesignated existing subpars. (a), (b), and (c) as (A), (B), and (C), respectively, added subpars. (D), (E), and (F), substituted “a Department of Energy contractor” for “a Commission contractor” in subpar. (C), and, in closing provisions inserted “, or the Secretary, as appropriate,” after “the Commission”, struck out “, but in no event more than twenty years after the date of the nuclear incident” after “and the cause thereof”, and substituted “subsection e” for “subsection 170e”, which for purposes of codification was translated as “subsection (e) of this section”, requiring no change in text.
+Subsec. (n)(1). Pub. L. 100–408, §§ 10, 16(b)(5)(A), (d)(6), redesignated existing subpars. (a), (b), and (c) as (A), (B), and (C), respectively, added subpars. (D), (E), and (F), substituted “a Department of Energy contractor” for “a Commission contractor” in subpar. (C), and, in closing provisions inserted “, or the Secretary, as appropriate,” after “the Commission”, struck out “, but in no event more than twenty years after the date of the nuclear incident” after “and the cause thereof”, and substituted “subsection e” for “subsection 170e”, which for purposes of codification was translated as “subsection (e)”, requiring no change in text.
 
 Subsec. (n)(2). Pub. L. 100–408, § 16(b)(5)(B), inserted “or the Secretary, as appropriate” after “Commission”.
 
@@ -5732,7 +5885,7 @@ Subsec. (n)(3). Pub. L. 100–408, § 11(c), added par. (3).
 
 Subsec. (o). Pub. L. 100–408, § 11(d)(1), inserted “Plan for distribution of funds” as heading, designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added subpars. (D) and (E) and par. (2).
 
-Subsec. (o)(1). Pub. L. 100–408, § 7(b)(1), substituted “the applicable limit of liability under subparagraph (A), (B), or (C) of subsection (e)(1) of this section” for “subsection (e) of this section” in introductory provisions.
+Subsec. (o)(1). Pub. L. 100–408, § 7(b)(1), substituted “the applicable limit of liability under subparagraph (A), (B), or (C) of subsection (e)(1)” for “subsection (e)” in introductory provisions.
 
 Subsec. (o)(1)(B). Pub. L. 100–408, § 16(d)(7), substituted “subparagraph (C)” for “subparagraph (3) of this subsection (o)”.
 
@@ -5860,7 +6013,7 @@ Ex. Ord. No. 12891, Jan. 15, 1994, 59 F.R. 2935, which established the Advisory 
 
 **(b) Evaluation**
 
-(1) **In general** — Except as provided in paragraph (2), the Nuclear Regulatory Commission shall not enter into any such contract agreement or arrangement unless it finds, after evaluating all information provided under subsection (a) of this section and any other information otherwise available to the Commission that—
+(1) **In general** — Except as provided in paragraph (2), the Nuclear Regulatory Commission shall not enter into any such contract agreement or arrangement unless it finds, after evaluating all information provided under subsection (a) and any other information otherwise available to the Commission that—
 
   (A) it is unlikely that a conflict of interest would exist, or
 
@@ -5889,7 +6042,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 **(b) Disclosure of information** Upon a satisfactory showing to the Secretary of Energy by any person that any information, or portion thereof obtained under this section, would, if made public, divulge proprietary information of such person, the Secretary shall not disclose such information and disclosure thereof shall be punishable under [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim).
 
-**(c) Criteria for monitoring and reporting requirements** The criteria referred to in subsection (a) of this section shall also include, but not be limited to—
+**(c) Criteria for monitoring and reporting requirements** The criteria referred to in subsection (a) shall also include, but not be limited to—
 
 (1) an assessment of whether executed contracts or options for source material or special nuclear material will result in greater than 37½ percent of actual or projected domestic uranium requirements for any two-consecutive-year period being supplied by source material or special nuclear material from foreign sources;
 
@@ -6079,7 +6232,7 @@ The Commission may—
 
   (D) provide for reporting under subparagraphs (B) and (C) through a secure Internet connection.
 
-**(d) Penalty** A violation of a regulation issued under subsection (a) or (b) of this section shall be punishable by a civil penalty not to exceed $1,000,000.
+**(d) Penalty** A violation of a regulation issued under subsection (a) or (b) shall be punishable by a civil penalty not to exceed $1,000,000.
 
 **(e) National Academy of Sciences study**
 
@@ -6181,7 +6334,7 @@ The Commission may—
 
       (VII) the screening of shipments to facilities that the Commission determines to be particularly at risk for sabotage of radiation sources to ensure that the shipments do not contain explosives.
 
-**(g) Action by Commission** Not later than 60 days after the date of receipt by Congress and the President of a report under subsection (f)(3)(B) of this section, the Commission, in accordance with the recommendations of the task force, shall—
+**(g) Action by Commission** Not later than 60 days after the date of receipt by Congress and the President of a report under subsection (f)(3)(B), the Commission, in accordance with the recommendations of the task force, shall—
 
 (1) take any action the Commission determines to be appropriate, including revising the system of the Commission for licensing radiation sources; and
 
@@ -6198,9 +6351,9 @@ This chapter, referred to in subsec. (f)(3)(B)(i), (v), was in the original “t
 
 <a id="section-2210i"></a>
 ## § 2210i. Secure transfer of nuclear materials
-**(a)** The Commission shall establish a system to ensure that materials described in subsection (b) of this section, when transferred or received in the United States by any party pursuant to an import or export license issued pursuant to this chapter, are accompanied by a manifest describing the type and amount of materials being transferred or received. Each individual receiving or accompanying the transfer of such materials shall be subject to a security background check conducted by appropriate Federal entities.
+**(a)** The Commission shall establish a system to ensure that materials described in subsection (b), when transferred or received in the United States by any party pursuant to an import or export license issued pursuant to this chapter, are accompanied by a manifest describing the type and amount of materials being transferred or received. Each individual receiving or accompanying the transfer of such materials shall be subject to a security background check conducted by appropriate Federal entities.
 
-**(b)** Except as otherwise provided by the Commission by regulation, the materials referred to in subsection (a) of this section are byproduct materials, source materials, special nuclear materials, high-level radioactive waste, spent nuclear fuel, transuranic waste, and low-level radioactive waste (as defined in [section 10101(16) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10101/16&num=0&edition=prelim)).
+**(b)** Except as otherwise provided by the Commission by regulation, the materials referred to in subsection (a) are byproduct materials, source materials, special nuclear materials, high-level radioactive waste, spent nuclear fuel, transuranic waste, and low-level radioactive waste (as defined in [section 10101(16) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10101/16&num=0&edition=prelim)).
 
 ### Statutory Notes
 
@@ -6270,21 +6423,21 @@ Repeal effective Oct. 1, 2006, see section 637(c) of Pub. L. 109–58, set out a
 ## § 2214. NRC user fees and annual charges
 **(a) Annual assessment**
 
-(1) **In general** — The Nuclear Regulatory Commission (in this section referred to as the “Commission”) shall annually assess and collect such fees and charges as are described in subsections (b) and (c) of this section.
+(1) **In general** — The Nuclear Regulatory Commission (in this section referred to as the “Commission”) shall annually assess and collect such fees and charges as are described in subsections (b) and (c).
 
-(2) **First assessment** — The first assessment of fees under subsection (b) of this section and annual charges under subsection (c) of this section shall be made not later than September 30, 1991.
+(2) **First assessment** — The first assessment of fees under subsection (b) and annual charges under subsection (c) shall be made not later than September 30, 1991.
 
 **(b) Fees for service or thing of value** Pursuant to [section 9701 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9701&num=0&edition=prelim), any person who receives a service or thing of value from the Commission shall pay fees to cover the Commission’s costs in providing any such service or thing of value.
 
 **(c) Annual charges**
 
-(1) **Persons subject to charge** — Except as provided in paragraph (4), any licensee or certificate holder of the Commission may be required to pay, in addition to the fees set forth in subsection (b) of this section, an annual charge.
+(1) **Persons subject to charge** — Except as provided in paragraph (4), any licensee or certificate holder of the Commission may be required to pay, in addition to the fees set forth in subsection (b), an annual charge.
 
 (2) **Aggregate amount of charges**
 
   (A) *In general* — The aggregate amount of the annual charges collected from all licensees and certificate holders in a fiscal year shall equal an amount that approximates the percentages of the budget authority of the Commission for the fiscal year stated in subparagraph (B), less—
 
-    (i) amounts collected under subsection (b) of this section during the fiscal year;
+    (i) amounts collected under subsection (b) during the fiscal year;
 
     (ii) amounts appropriated to the Commission from the Nuclear Waste Fund for the fiscal year;
 
@@ -6616,7 +6769,7 @@ Whenever the Commission finds that the public convenience and necessity or the p
 
 **(b)** The following Commission actions shall be subject to judicial review in the manner prescribed in chapter 158 of title 28 and chapter 7 of title 5:
 
-(1) Any final order entered in any proceeding of the kind specified in subsection (a) of this section.
+(1) Any final order entered in any proceeding of the kind specified in subsection (a).
 
 (2) Any final order allowing or prohibiting a facility to begin operating under a combined construction and operating license.
 
@@ -6698,7 +6851,7 @@ In subsec. (a), “sections 556(b) and 557(b) of title 5” substituted for “s
 (3) denial of such temporary operating license will result in delay between the date on which construction of the facility is sufficiently completed, in the judgment of the Commission, to permit issuance of the temporary operating license, and the date when such facility would otherwise receive a final operating license pursuant to this chapter.
 The temporary operating license shall become effective upon issuance and shall contain such terms and conditions as the Commission may deem necessary, including the duration of the license and any provision for the extension thereof. Any final order authorizing the issuance or amendment of any temporary operating license pursuant to this section shall recite with specificity the facts and reasons justifying the findings under this subsection, and shall be transmitted upon such issuance to the Committees on Natural Resources and on Energy and Commerce of the House of Representatives and the Committee on Environment and Public Works of the Senate. The final order of the Commission with respect to the issuance or amendment of a temporary operating license shall be subject to judicial review pursuant to chapter 158 of title 28. The requirements of [section 2239(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2239/a&num=0&edition=prelim) with respect to the issuance or amendment of facility licenses shall not apply to the issuance or amendment of a temporary operating license under this section.
 
-**(c) Hearing for final operating license; suspension, issuance, compliance, etc., with temporary operating license** Any hearing on the application for the final operating license for a facility required pursuant to [section 2239(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2239/a&num=0&edition=prelim) shall be concluded as promptly as practicable. The Commission shall suspend the temporary operating license if it finds that the applicant is not prosecuting the application for the final operating license with due diligence. Issuance of a temporary operating license under subsection (b) of this section shall be without prejudice to the right of any party to raise any issue in a hearing required pursuant to [section 2239(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2239/a&num=0&edition=prelim); and failure to assert any ground for denial or limitation of a temporary operating license shall not bar the assertion of such ground in connection with the issuance of a subsequent final operating license. Any party to a hearing required pursuant to [section 2239(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2239/a&num=0&edition=prelim) on the final operating license for a facility for which a temporary operating license has been issued under subsection (b) of this section, and any member of the Atomic Safety and Licensing Board conducting such hearing, shall promptly notify the Commission of any information indicating that the terms and conditions of the temporary operating license are not being met, or that such terms and conditions are not sufficient to comply with the provisions of paragraph (2) of subsection (b) of this section.
+**(c) Hearing for final operating license; suspension, issuance, compliance, etc., with temporary operating license** Any hearing on the application for the final operating license for a facility required pursuant to [section 2239(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2239/a&num=0&edition=prelim) shall be concluded as promptly as practicable. The Commission shall suspend the temporary operating license if it finds that the applicant is not prosecuting the application for the final operating license with due diligence. Issuance of a temporary operating license under subsection (b) of this section shall be without prejudice to the right of any party to raise any issue in a hearing required pursuant to [section 2239(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2239/a&num=0&edition=prelim); and failure to assert any ground for denial or limitation of a temporary operating license shall not bar the assertion of such ground in connection with the issuance of a subsequent final operating license. Any party to a hearing required pursuant to [section 2239(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2239/a&num=0&edition=prelim) on the final operating license for a facility for which a temporary operating license has been issued under subsection (b), and any member of the Atomic Safety and Licensing Board conducting such hearing, shall promptly notify the Commission of any information indicating that the terms and conditions of the temporary operating license are not being met, or that such terms and conditions are not sufficient to comply with the provisions of paragraph (2) of subsection (b).
 
 **(d) Administrative remedies for minimization of need for license** The Commission is authorized and directed to adopt such administrative remedies as the Commission deems appropriate to minimize the need for issuance of temporary operating licenses pursuant to this section.
 
@@ -7001,9 +7154,9 @@ Except for a capital offense, no individual or person shall be prosecuted, tried
 
 (2) Every such regulation of the Commission shall be posted conspicuously at the location involved.
 
-**(b) Penalty for violation of regulations** Whoever shall willfully violate any regulation of the Commission issued pursuant to subsection (a) of this section shall, upon conviction thereof, be punishable by a fine of not more than $1,000.
+**(b) Penalty for violation of regulations** Whoever shall willfully violate any regulation of the Commission issued pursuant to subsection (a) shall, upon conviction thereof, be punishable by a fine of not more than $1,000.
 
-**(c) Penalty for violation of regulations regarding enclosed property** Whoever shall willfully violate any regulation of the Commission issued pursuant to subsection (a) of this section with respect to any installation or other property which is enclosed by a fence, wall, floor, roof, or other structural barrier shall be guilty of a misdemeanor and upon conviction thereof shall be punished by a fine of not to exceed $5,000 or to imprisonment for not more than one year, or both.
+**(c) Penalty for violation of regulations regarding enclosed property** Whoever shall willfully violate any regulation of the Commission issued pursuant to subsection (a) with respect to any installation or other property which is enclosed by a fence, wall, floor, roof, or other structural barrier shall be guilty of a misdemeanor and upon conviction thereof shall be punished by a fine of not to exceed $5,000 or to imprisonment for not more than one year, or both.
 
 ### Statutory Notes
 
@@ -7110,7 +7263,7 @@ Provisions similar to this section were contained in [section 1816(d) of this ti
 
 **(d) Limitation for not-for-profit institutions**
 
-(1) Notwithstanding subsection (a) of this section, in the case of any not-for-profit contractor, subcontractor, or supplier, the total amount of civil penalties paid under subsection (a) of this section may not exceed the total amount of fees paid within any 1-year period (as determined by the Secretary) under the contract under which the violation occurs.
+(1) Notwithstanding subsection (a), in the case of any not-for-profit contractor, subcontractor, or supplier, the total amount of civil penalties paid under subsection (a) may not exceed the total amount of fees paid within any 1-year period (as determined by the Secretary) under the contract under which the violation occurs.
 
 (2) For purposes of this section, the term “not-for-profit” means that no part of the net earnings of the contractor, subcontractor, or supplier inures to the benefit of any natural person or for-profit artificial person.
 
@@ -7143,9 +7296,9 @@ Section effective Aug. 20, 1988, but inapplicable to any violation occurring bef
 
 **(d) Application to certain entities** In the case of an entity specified in subsection (d) of [section 2282a of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2282a)—
 
-(1) the assessment of any civil penalty under subsection (a) of this section against that entity may not be made until the entity enters into a new contract with the Department of Energy or an extension of a current contract with the Department; and
+(1) the assessment of any civil penalty under subsection (a) against that entity may not be made until the entity enters into a new contract with the Department of Energy or an extension of a current contract with the Department; and
 
-(2) the total amount of civil penalties under subsection (a) of this section in a fiscal year may not exceed the total amount of fees paid by the Department of Energy to that entity in that fiscal year.
+(2) the total amount of civil penalties under subsection (a) in a fiscal year may not exceed the total amount of fees paid by the Department of Energy to that entity in that fiscal year.
 
 ### Statutory Notes
 
@@ -7176,21 +7329,21 @@ Pub. L. 106–65, div. C, title XXXI, § 3147(b), Oct. 5, 1999, 113 Stat. 938, p
 
 **(b) Civil penalties**
 
-(1) **In general** — A person (or any subcontractor or supplier of the person) who has entered into an agreement of indemnification under [section 2210(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210/d&num=0&edition=prelim) (or any subcontractor or supplier of the person) that violates (or is the employer of a person that violates) any regulation promulgated under subsection (a) of this section shall be subject to a civil penalty of not more than $70,000 for each such violation.
+(1) **In general** — A person (or any subcontractor or supplier of the person) who has entered into an agreement of indemnification under [section 2210(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210/d&num=0&edition=prelim) (or any subcontractor or supplier of the person) that violates (or is the employer of a person that violates) any regulation promulgated under subsection (a) shall be subject to a civil penalty of not more than $70,000 for each such violation.
 
 (2) **Continuing violations** — If any violation under this subsection is a continuing violation, each day of the violation shall constitute a separate violation for the purpose of computing the civil penalty under paragraph (1).
 
 **(c) Contract penalties**
 
-(1) **In general** — The Secretary shall include in each contract with a contractor of the Department who has entered into an agreement of indemnification under [section 2210(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210/d&num=0&edition=prelim) provisions that provide an appropriate reduction in the fees or amounts paid to the contractor under the contract in the event of a violation by the contractor or contractor employee of any regulation promulgated under subsection (a) of this section.
+(1) **In general** — The Secretary shall include in each contract with a contractor of the Department who has entered into an agreement of indemnification under [section 2210(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210/d&num=0&edition=prelim) provisions that provide an appropriate reduction in the fees or amounts paid to the contractor under the contract in the event of a violation by the contractor or contractor employee of any regulation promulgated under subsection (a).
 
 (2) **Contents** — The provisions shall specify various degrees of violations and the amount of the reduction attributable to each degree of violation.
 
 **(d) Coordination of penalties**
 
-(1) **Choice of penalties** — For any violation by a person of a regulation promulgated under subsection (a) of this section, the Secretary shall pursue either civil penalties under subsection (b) of this section or contract penalties under subsection (c) of this section, but not both.
+(1) **Choice of penalties** — For any violation by a person of a regulation promulgated under subsection (a), the Secretary shall pursue either civil penalties under subsection (b) or contract penalties under subsection (c), but not both.
 
-(2) **Maximum amount** — In the case of an entity described in subsection (d) of [section 2282a of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2282a), the total amount of civil penalties under subsection (b) of this section and contract penalties under subsection (c) of this section in a fiscal year may not exceed the total amount of fees paid by the Department of Energy to that entity in that fiscal year.
+(2) **Maximum amount** — In the case of an entity described in subsection (d) of [section 2282a of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2282a), the total amount of civil penalties under subsection (b) and contract penalties under subsection (c) in a fiscal year may not exceed the total amount of fees paid by the Department of Energy to that entity in that fiscal year.
 
 (3) **Coordination with [section 2282a of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2282a)** — The Secretary shall ensure that a contractor of the Department is not penalized both under this section and under [section 2282a of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2282a) for the same violation.
 
@@ -7285,7 +7438,7 @@ Subsec. (b). Pub. L. 107–56, §§ 810(f)(1), (3), 811(h)(2), struck out “or 
 
 (1) The President shall designate a Chairman and Vice Chairman of the Board from among members of the Board.
 
-(2) In accordance with paragraph (5), the Chairman shall be the chief executive officer of the Board and, subject to such policies as the Board may establish, shall exercise the functions of the Board with respect to—
+(2) In accordance with paragraphs (5), (6), and (7), the Chairman shall be the chief executive officer of the Board and, subject to such policies as the Board may establish, shall exercise the functions of the Board with respect to—
 
   (A) the appointment and supervision of employees of the Board;
 
@@ -7304,6 +7457,22 @@ Subsec. (b). Pub. L. 107–56, §§ 810(f)(1), (3), 811(h)(2), struck out “or 
   (B) have full access to all information relating to the performance of the Board’s functions, powers, and mission; and
 
   (C) have one vote.
+
+(6) In carrying out paragraph (5)(B), the Chairman may not withhold from any member of the Board any information that is made available to the Chairman regarding the Board’s functions, powers, and mission (including with respect to the management and evaluation of employees of the Board).
+
+(7)
+
+  (A) The Chairman, subject to the approval of the Board, shall appoint the senior employees described in subparagraph (C).
+
+  (B) The Chairman, subject to the approval of the Board, may remove a senior employee described in subparagraph (C).
+
+  (C) The senior employees described in this subparagraph are the following senior employees of the Board:
+
+    (i) The senior employee responsible for budgetary and general administration matters.
+
+    (ii) The general counsel.
+
+    (iii) The senior employee responsible for technical matters.
 
 **(d) Terms**
 
@@ -7329,6 +7498,12 @@ Subsec. (b). Pub. L. 107–56, §§ 810(f)(1), (3), 811(h)(2), struck out “or 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (c)(2). Pub. L. 114–92, § 3202(a)(1), substituted “paragraphs (5), (6), and (7)” for “paragraph (5)” in introductory provisions.
+
+Subsec. (c)(6). Pub. L. 114–92, § 3202(a)(2), added par. (6).
+
+Subsec. (c)(7). Pub. L. 114–92, § 3202(b)(1), added par. (7).
+
 2013—Subsec. (b)(4). Pub. L. 112–239, § 3202(a)(1), struck out par. (4) which read as follows: “Not later than 180 days after September 29, 1988, the President shall submit to the Senate nominations for appointment to the Board. In the event that the President is unable to submit the nominations within such 180-day period, the President shall submit to the Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives a report describing the reasons for such inability and a plan for submitting the nominations within the next 90 days. If the President is unable to submit the nominations within that 90-day period, the President shall again submit to such committees and the Speaker such a report and plan. The President shall continue to submit to such committees and the Speaker such a report and plan every 90 days until the nominations are submitted.”
 
 Subsec. (c). Pub. L. 112–239, § 3202(a)(2)(A), substituted “, Vice Chairman, and Members” for “and Vice Chairman” in heading.
@@ -7412,7 +7587,7 @@ Subsec. (c). Pub. L. 112–239, § 3202(b)(1)(B), redesignated subsec. (b) as (c
 
 (1) The Board may, for the purpose of performing its responsibilities under this subchapter—
 
-  (A) hire such staff as it considers necessary to perform the functions of the Board, including such scientific and technical personnel as the Board may determine necessary, but not more than the equivalent of 150 full-time employees; and
+  (A) in accordance with [section 2286(c)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2286/c/7&num=0&edition=prelim), hire such staff as it considers necessary to perform the functions of the Board, including such scientific and technical personnel as the Board may determine necessary, but not more than the equivalent of 130 full-time employees; and
 
   (B) procure the temporary and intermittent services of experts and consultants to the extent authorized by [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim) at rates the Board determines to be reasonable.
 
@@ -7440,13 +7615,12 @@ Subsec. (c). Pub. L. 112–239, § 3202(b)(1)(B), redesignated subsec. (b) as (c
 
 ### Statutory Notes
 
-#### Amendment of Subsection (b)(1)(A)
-Pub. L. 113–291, div. C, title XXXII, § 3203, Dec. 19, 2014, 128 Stat. 3903, provided that, effective Oct. 1, 2015, subsection (b)(1)(A) of this section is amended by striking “150 full-time employees” and inserting “130 full-time employees”.
-
 #### References in Text
 The Federal Rules of Civil Procedure, referred to in subsec. (a)(2)(D), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+2015—Subsec. (b)(1)(A). Pub. L. 114–92 substituted “in accordance with [section 2286(c)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2286/c/7&num=0&edition=prelim), hire” for “hire”.
+
 2014—Subsec. (b)(1)(A). Pub. L. 113–291 substituted “130 full-time employees” for “150 full-time employees”.
 
 2013—Subsec. (j)(2). Pub. L. 112–239 substituted “[section 2286a(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2286a/b/1&num=0&edition=prelim), the implementation” for “[section 2286a(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2286a/1&num=0&edition=prelim), the implementation”.
@@ -7494,29 +7668,29 @@ Pub. L. 113–291, div. C, title XXXII, § 3203(b), Dec. 19, 2014, 128 Stat. 390
 
 **(c) Response by Secretary**
 
-(1) The Secretary of Energy shall transmit to the Board, in writing, a statement on whether the Secretary accepts or rejects, in whole or in part, the recommendations submitted to him by the Board under [section 2286a of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2286a), a description of the actions to be taken in response to the recommendations, and his views on such recommendations. The Secretary of Energy shall transmit his response to the Board within 45 days after the date of the publication, under subsection (b) of this section, of the notice with respect to such recommendations or within such additional period, not to exceed 45 days, as the Board may grant.
+(1) The Secretary of Energy shall transmit to the Board, in writing, a statement on whether the Secretary accepts or rejects, in whole or in part, the recommendations submitted to him by the Board under [section 2286a of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2286a), a description of the actions to be taken in response to the recommendations, and his views on such recommendations. The Secretary of Energy shall transmit his response to the Board within 45 days after the date of the publication, under subsection (b), of the notice with respect to such recommendations or within such additional period, not to exceed 45 days, as the Board may grant.
 
-(2) At the same time as the Secretary of Energy transmits his response to the Board under paragraph (1), the Secretary, subject to subsection (i) of this section, shall publish such response, together with a request for public comment on his response, in the Federal Register.
+(2) At the same time as the Secretary of Energy transmits his response to the Board under paragraph (1), the Secretary, subject to subsection (i), shall publish such response, together with a request for public comment on his response, in the Federal Register.
 
 (3) Interested persons shall have 30 days after the date of the publication of the Secretary of Energy’s response in which to submit comments, data, views, or arguments to the Board concerning the Secretary’s response.
 
 (4) The Board may hold hearings for the purpose of obtaining public comments on its recommendations and the Secretary of Energy’s response.
 
-**(d) Provision of information to Secretary** The Board shall furnish the Secretary of Energy with copies of all comments, data, views, and arguments submitted to it under subsection (b) or (c) of this section.
+**(d) Provision of information to Secretary** The Board shall furnish the Secretary of Energy with copies of all comments, data, views, and arguments submitted to it under subsection (b) or (c).
 
-**(e) Final decision** If the Secretary of Energy, in a response under subsection (c)(1) of this section, rejects (in whole or part) any recommendation made by the Board under [section 2286a of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2286a), the Board shall either reaffirm its original recommendation or make a revised recommendation and shall notify the Secretary of its action. Within 30 days after receiving the notice of the Board’s action under this subsection, the Secretary shall consider the Board’s action and make a final decision on whether to implement all or part of the Board’s recommendations. Subject to subsection (i) of this section, the Secretary shall publish the final decision and the reasoning for such decision in the Federal Register and shall transmit to the Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate a written report containing that decision and reasoning.
+**(e) Final decision** If the Secretary of Energy, in a response under subsection (c)(1), rejects (in whole or part) any recommendation made by the Board under [section 2286a of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2286a), the Board shall either reaffirm its original recommendation or make a revised recommendation and shall notify the Secretary of its action. Within 30 days after receiving the notice of the Board’s action under this subsection, the Secretary shall consider the Board’s action and make a final decision on whether to implement all or part of the Board’s recommendations. Subject to subsection (i), the Secretary shall publish the final decision and the reasoning for such decision in the Federal Register and shall transmit to the Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate a written report containing that decision and reasoning.
 
 **(f) Implementation plan** The Secretary of Energy shall prepare a plan for the implementation of each Board recommendation, or part of a recommendation, that is accepted by the Secretary in his final decision. The Secretary shall transmit the implementation plan to the Board within 90 days after the date of the publication of the Secretary’s final decision on such recommendation in the Federal Register. The Secretary may have an additional 45 days to transmit the plan if the Secretary submits to the Board and to the Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate a notification setting forth the reasons for the delay and describing the actions the Secretary is taking to prepare an implementation plan under this subsection. The Secretary may implement any such recommendation (or part of any such recommendation) before, on, or after the date on which the Secretary transmits the implementation plan to the Board under this subsection.
 
 **(g) Implementation**
 
-(1) Subject to paragraph (2), not later than one year after the date on which the Secretary of Energy transmits an implementation plan with respect to a recommendation (or part thereof) under subsection (f) of this section, the Secretary shall carry out and complete the implementation plan. If complete implementation of the plan takes more than 1 year, the Secretary of Energy shall submit a report to the Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate setting forth the reasons for the delay and when implementation will be completed.
+(1) Subject to paragraph (2), not later than one year after the date on which the Secretary of Energy transmits an implementation plan with respect to a recommendation (or part thereof) under subsection (f), the Secretary shall carry out and complete the implementation plan. If complete implementation of the plan takes more than 1 year, the Secretary of Energy shall submit a report to the Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate setting forth the reasons for the delay and when implementation will be completed.
 
 (2) If the Secretary of Energy determines that the implementation of a Board recommendation (or part thereof) is impracticable because of budgetary considerations, or that the implementation would affect the Secretary’s ability to meet the annual nuclear weapons stockpile requirements established pursuant to [section 2121 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2121), the Secretary shall submit to the President and to such committees a report containing the recommendation and the Secretary’s determination.
 
 **(h) Imminent or severe threat**
 
-(1) In any case in which the Board determines that a recommendation submitted to the Secretary of Energy under [section 2286a of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2286a) relates to an imminent or severe threat to public health and safety, the Board and the Secretary of Energy shall proceed under this subsection in lieu of subsections (a) through (e) of this section.
+(1) In any case in which the Board determines that a recommendation submitted to the Secretary of Energy under [section 2286a of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2286a) relates to an imminent or severe threat to public health and safety, the Board and the Secretary of Energy shall proceed under this subsection in lieu of subsections (a) through (e).
 
 (2) At the same time that the Board transmits a recommendation relating to an imminent or severe threat to the Secretary of Energy, the Board shall also transmit the recommendation to the President and for information purposes to the Secretary of Defense. The Secretary of Energy shall submit his recommendation to the President. The President shall review the Secretary of Energy’s recommendation and shall make the decision concerning acceptance or rejection of the Board’s recommendation.
 
@@ -7796,11 +7970,11 @@ Section was enacted as part of the EURATOM Cooperation Act of 1958 which compris
 
 <a id="section-2296a"></a>
 ## § 2296a. Remedial action program
-**(a) In general** Except as provided in subsection (b) of this section, the costs of decontamination, decommissioning, reclamation, and other remedial action at an active uranium or thorium processing site shall be borne by persons licensed under section 2092 or 2111 of this title for any activity at such site which results or has resulted in the production of byproduct material.
+**(a) In general** Except as provided in subsection (b), the costs of decontamination, decommissioning, reclamation, and other remedial action at an active uranium or thorium processing site shall be borne by persons licensed under section 2092 or 2111 of this title for any activity at such site which results or has resulted in the production of byproduct material.
 
 **(b) Reimbursement**
 
-(1) **In general** — The Secretary of Energy shall, subject to paragraph (2), reimburse at least annually a licensee described in subsection (a) of this section for such portion of the costs described in such subsection as are—
+(1) **In general** — The Secretary of Energy shall, subject to paragraph (2), reimburse at least annually a licensee described in subsection (a) for such portion of the costs described in such subsection as are—
 
   (A) determined by the Secretary to be attributable to byproduct material generated as an incident of sales to the United States; and
 
@@ -7812,7 +7986,7 @@ Section was enacted as part of the EURATOM Cooperation Act of 1958 which compris
 
 (2) **Amount**
 
-  (A) *To individual active site uranium licensees* — The amount of reimbursement paid to any licensee under paragraph (1) shall be determined by the Secretary in accordance with regulations issued pursuant to [section 2296a–1 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2296a-1) and, for uranium mill tailings only, shall not exceed an amount equal to $6.25 multiplied by the dry short tons of byproduct material located on October 24, 1992, at the site of the activities of such licensee described in subsection (a) of this section, and generated as an incident of sales to the United States.
+  (A) *To individual active site uranium licensees* — The amount of reimbursement paid to any licensee under paragraph (1) shall be determined by the Secretary in accordance with regulations issued pursuant to [section 2296a–1 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2296a-1) and, for uranium mill tailings only, shall not exceed an amount equal to $6.25 multiplied by the dry short tons of byproduct material located on October 24, 1992, at the site of the activities of such licensee described in subsection (a), and generated as an incident of sales to the United States.
 
   (B) *To all active site uranium licensees* — Payments made under paragraph (1) to active site uranium licensees shall not in the aggregate exceed $350,000,000.
 
@@ -7835,9 +8009,9 @@ Section was enacted as part of the EURATOM Cooperation Act of 1958 which compris
 
   (E) *Additional reimbursement*
 
-    (i) *Determination of excess* — The Secretary shall determine as of December 31, 2008, whether the amount authorized to be appropriated pursuant to [section 2296a–2 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2296a-2), when considered with the $6.25 per dry short ton limit on reimbursement, exceeds the amount reimbursable to the licensees under subsection (b)(2) of this section.
+    (i) *Determination of excess* — The Secretary shall determine as of December 31, 2008, whether the amount authorized to be appropriated pursuant to [section 2296a–2 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2296a-2), when considered with the $6.25 per dry short ton limit on reimbursement, exceeds the amount reimbursable to the licensees under subsection (b)(2).
 
-    (ii) *In the event of excess* — If the Secretary determines under clause (i) that there is an excess, the Secretary may allow reimbursement in excess of $6.25 per dry short ton on a prorated basis at such sites where the costs reimbursable under subsection (b)(1) of this section exceed the $6.25 per dry short ton limitation described in paragraph (2) of such subsection.
+    (ii) *In the event of excess* — If the Secretary determines under clause (i) that there is an excess, the Secretary may allow reimbursement in excess of $6.25 per dry short ton on a prorated basis at such sites where the costs reimbursable under subsection (b)(1) exceed the $6.25 per dry short ton limitation described in paragraph (2) of such subsection.
 
 (3) **Byproduct location** — Notwithstanding the requirement of paragraph (2)(A) that byproduct material be located at the site on October 24, 1992, byproduct material moved from the site of the Edgemont Mill to a disposal site as the result of the decontamination, decommissioning, reclamation, and other remedial action of such mill shall be eligible for reimbursement to the extent eligible under paragraph (1).
 
@@ -7895,7 +8069,7 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 ## § 2296a–2. Authorization of appropriations
 **(a) In general** There is authorized to be appropriated $715,000,000 to carry out this part. The aggregate amount authorized in the preceding sentence shall be increased annually as provided in [section 2296a of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2296a), based upon an inflation index to be determined by the Secretary.
 
-**(b) Source** Funds described in subsection (a) of this section shall be provided from the Fund established under [section 2297g of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2297g).
+**(b) Source** Funds described in subsection (a) shall be provided from the Fund established under [section 2297g of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2297g).
 
 ### Statutory Notes
 
@@ -7948,7 +8122,7 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 <a id="section-2296b"></a>
 ## § 2296b. Overfeed program
-**(a) Uranium purchases** To the maximum extent permitted by sound business practice, the Corporation shall purchase uranium in accordance with subsection (b) of this section and overfeed it into the enrichment process to reduce the amount of power required to produce the enriched uranium ordered by enrichment services customers, taking into account costs associated with depleted tailings.
+**(a) Uranium purchases** To the maximum extent permitted by sound business practice, the Corporation shall purchase uranium in accordance with subsection (b) and overfeed it into the enrichment process to reduce the amount of power required to produce the enriched uranium ordered by enrichment services customers, taking into account costs associated with depleted tailings.
 
 **(b) Use of domestic uranium** Uranium purchased by the Corporation for purposes of this section shall be of domestic origin and purchased from domestic uranium producers to the extent permitted under the multilateral trade agreements (as defined in [section 3501(4) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/4&num=0&edition=prelim)) and the North American Free Trade Agreement.
 
@@ -7958,7 +8132,7 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Amendments
-1999—Subsec. (b). Pub. L. 106–36 substituted “multilateral trade agreements (as defined in [section 3501(4) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/4&num=0&edition=prelim)) and the “North American Free Trade Agreement” for “General Agreement on Tariffs and Trade and the United States-Canada Free Trade Agreement”.
+1999—Subsec. (b). Pub. L. 106–36 substituted “multilateral trade agreements (as defined in [section 3501(4) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/4&num=0&edition=prelim)) and the North American Free Trade Agreement” for “General Agreement on Tariffs and Trade and the United States-Canada Free Trade Agreement”.
 
 
 <a id="section-2296b-1"></a>
@@ -7988,7 +8162,7 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 <a id="section-2296b-3"></a>
 ## § 2296b–3. Responsibility for the industry
-**(a) Continuing Secretarial responsibility** The Secretary shall have a continuing responsibility for the domestic uranium industry to encourage the use of domestic uranium. The Secretary, in fulfilling this responsibility, shall not use any supervisory authority over the Corporation. The Secretary shall report annually to the appropriate committees of Congress on action taken with respect to the domestic uranium industry, including action to promote the export of domestic uranium pursuant to subsection (b) of this section.
+**(a) Continuing Secretarial responsibility** The Secretary shall have a continuing responsibility for the domestic uranium industry to encourage the use of domestic uranium. The Secretary, in fulfilling this responsibility, shall not use any supervisory authority over the Corporation. The Secretary shall report annually to the appropriate committees of Congress on action taken with respect to the domestic uranium industry, including action to promote the export of domestic uranium pursuant to subsection (b).
 
 **(b) Encourage export** The Department, with the cooperation of the Department of Commerce, the United States Trade Representative and other governmental organizations, shall encourage the export of domestic uranium. Within 180 days after October 24, 1992, the Secretary shall develop recommendations and implement government programs to promote the export of domestic uranium.
 
@@ -8043,7 +8217,7 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 ## § 2296b–6. Regulatory treatment of uranium purchases
 **(a) Encouragement** The Secretary shall encourage States and utility regulatory authorities to take into consideration the achievement of the objectives and purposes of this part, including the national need to avoid dependence on imports, when considering whether to allow the owner or operator of any electric power plant to recover in its rates and charges to customers any cost of purchase of domestic uranium, enriched uranium, or enrichment services from a non-affiliated seller greater than the cost of non-domestic uranium, enriched uranium or enrichment services.
 
-**(b) Report** Within 1 year after October 24, 1992, and annually thereafter, the Secretary shall report to the Congress on the progress of the Secretary in encouraging actions by State regulatory authorities pursuant to subsection (a) of this section. Such report shall include detailed information on programs initiated by the Secretary to encourage appropriate State regulatory action and recommendations, if any, on further action that could be taken by the Secretary, other Federal agencies, or the Congress in order to further the purposes of this part.
+**(b) Report** Within 1 year after October 24, 1992, and annually thereafter, the Secretary shall report to the Congress on the progress of the Secretary in encouraging actions by State regulatory authorities pursuant to subsection (a). Such report shall include detailed information on programs initiated by the Secretary to encourage appropriate State regulatory action and recommendations, if any, on further action that could be taken by the Secretary, other Federal agencies, or the Congress in order to further the purposes of this part.
 
 **(c) Savings provision** This section may not be construed to authorize the Secretary to take any action in violation of the multilateral trade agreements (as defined in [section 3501(4) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/4&num=0&edition=prelim)) or the North American Free Trade Agreement.
 
@@ -8222,15 +8396,15 @@ Repeal effective as of date on which 100 percent of ownership of United States E
 
 **(b) Annual report**
 
-(1) **In general** — Not later than the date on which a certificate of compliance is issued under subsection (c) of this section, the Nuclear Regulatory Commission, in consultation with the Department and the Environmental Protection Agency, shall report to the Congress on the status of health, safety, and environmental conditions at the gaseous diffusion uranium enrichment facilities of the Department.
+(1) **In general** — Not later than the date on which a certificate of compliance is issued under subsection (c), the Nuclear Regulatory Commission, in consultation with the Department and the Environmental Protection Agency, shall report to the Congress on the status of health, safety, and environmental conditions at the gaseous diffusion uranium enrichment facilities of the Department.
 
-(2) **Required determination** — Such report shall include a determination regarding whether the gaseous diffusion uranium enrichment facilities of the Department are in compliance with the standards established under subsection (a) of this section and all applicable laws.
+(2) **Required determination** — Such report shall include a determination regarding whether the gaseous diffusion uranium enrichment facilities of the Department are in compliance with the standards established under subsection (a) and all applicable laws.
 
 **(c) Certification process**
 
-(1) **Establishment** — The Nuclear Regulatory Commission shall establish a certification process to ensure that the Corporation complies with standards established under subsection (a) of this section.
+(1) **Establishment** — The Nuclear Regulatory Commission shall establish a certification process to ensure that the Corporation complies with standards established under subsection (a).
 
-(2) **Periodic application for certificate of compliance** — The Corporation shall apply to the Nuclear Regulatory Commission for a certificate of compliance under paragraph (1) periodically, as determined by the Commission, but not less than every 5 years. The Commission shall review any such application and any determination made under subsection (b)(2) of this section shall be based on the results of any such review.
+(2) **Periodic application for certificate of compliance** — The Corporation shall apply to the Nuclear Regulatory Commission for a certificate of compliance under paragraph (1) periodically, as determined by the Commission, but not less than every 5 years. The Commission shall review any such application and any determination made under subsection (b)(2) shall be based on the results of any such review.
 
 (3) **Treatment of certificate of compliance** — The requirement for a certificate of compliance under paragraph (1) shall be in lieu of any requirement for a license for any gaseous diffusion facility of the Department leased by the Corporation.
 
@@ -8240,14 +8414,14 @@ Repeal effective as of date on which 100 percent of ownership of United States E
 
   (B) *Access to facilities and information* — The Corporation and the Department shall cooperate fully with the Nuclear Regulatory Commission and the Environmental Protection Agency and shall provide the Nuclear Regulatory Commission and the Environmental Protection Agency with the ready access to the facilities, personnel, and information the Nuclear Regulatory Commission and the Environmental Protection Agency consider necessary to carry out their responsibilities under this subsection. A contractor operating a Corporation facility for the Corporation shall provide the Nuclear Regulatory Commission and the Environmental Protection Agency with ready access to the facilities, personnel, and information of the contractor as the Nuclear Regulatory Commission and the Environmental Protection Agency consider necessary to carry out their responsibilities under this subsection.
 
-  (C) *Limitation* — The Nuclear Regulatory Commission shall limit its finding under subsection (b)(2) of this section to a determination of whether the facilities are in compliance with the standards established under subsection (a) of this section.
+  (C) *Limitation* — The Nuclear Regulatory Commission shall limit its finding under subsection (b)(2) to a determination of whether the facilities are in compliance with the standards established under subsection (a).
 
-**(d) Requirement for operation** The gaseous diffusion uranium enrichment facilities of the Department may not be operated by the Corporation unless the Nuclear Regulatory Commission, in consultation with the Environmental Protection Agency, makes a determination of compliance under subsection (b) of this section or approves a plan prepared by the Department for achieving compliance required under subsection (b) of this section.
+**(d) Requirement for operation** The gaseous diffusion uranium enrichment facilities of the Department may not be operated by the Corporation unless the Nuclear Regulatory Commission, in consultation with the Environmental Protection Agency, makes a determination of compliance under subsection (b) or approves a plan prepared by the Department for achieving compliance required under subsection (b).
 
 ### Statutory Notes
 
 #### Amendments
-1998—Subsec. (b)(1). Pub. L. 105–362 substituted “Not later than the date on which a certificate of compliance is issued under subsection (c) of this section, the Nuclear” for “The Nuclear” and struck out “at least annually” after “report”.
+1998—Subsec. (b)(1). Pub. L. 105–362 substituted “Not later than the date on which a certificate of compliance is issued under subsection (c), the Nuclear” for “The Nuclear” and struck out “at least annually” after “report”.
 
 1996—Subsec. (c)(2). Pub. L. 104–134 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The Corporation shall apply at least annually to the Nuclear Regulatory Commission for a certificate of compliance under paragraph (1). The Nuclear Regulatory Commission, in consultation with the Environmental Protection Agency, shall review any such application and any determination made under subsection (b)(2) of this section shall be based on the results of any such review.”
 
@@ -8259,7 +8433,7 @@ References to the Corporation, meaning the United States Enrichment Corporation,
 ## § 2297f–1. Licensing of other technologies
 **(a) In general** Corporation facilities using alternative technologies for uranium enrichment, including AVLIS, shall be licensed under sections 2073, 2093, and 2243 of this title.
 
-**(b) Costs for decontamination and decommissioning** The Corporation shall provide for the costs of decontamination and decommissioning of any Corporation facilities described in subsection (a) of this section in accordance with the requirements of the amendments made by section 5 of the Solar, Wind, Waste, and Geothermal Power Production Act of 1990.
+**(b) Costs for decontamination and decommissioning** The Corporation shall provide for the costs of decontamination and decommissioning of any Corporation facilities described in subsection (a) in accordance with the requirements of the amendments made by section 5 of the Solar, Wind, Waste, and Geothermal Power Production Act of 1990.
 
 ### Statutory Notes
 
@@ -8306,27 +8480,27 @@ References to the Corporation, meaning the United States Enrichment Corporation,
 ## § 2297g–1. Deposits
 **(a) Amount** The Fund shall consist of deposits in the amount of $518,233,333 per fiscal year (to be annually adjusted for inflation beginning on October 24, 1992, using the Consumer Price Index for all-urban consumers published by the Department of Labor) as provided in this section.
 
-**(b) Source** Deposits described in subsection (a) of this section shall be from the following sources:
+**(b) Source** Deposits described in subsection (a) shall be from the following sources:
 
-(1) Sums collected pursuant to subsection (c) of this section.
+(1) Sums collected pursuant to subsection (c).
 
-(2) Appropriations made pursuant to subsection (d) of this section.
+(2) Appropriations made pursuant to subsection (d).
 
-**(c) Special assessment** The Secretary shall collect a special assessment from domestic utilities. The total amount collected for a fiscal year shall not exceed $150,000,000 (to be annually adjusted for inflation using the Consumer Price Index for all-urban consumers published by the Department of Labor). The amount collected from each utility pursuant to this subsection for a fiscal year shall be in the same ratio to the amount required under subsection (a) of this section to be deposited for such fiscal year as the total amount of separative work units such utility has purchased from the Department of Energy for the purpose of commercial electricity generation, before October 24, 1992, bears to the total amount of separative work units purchased from the Department of Energy for all purposes (including units purchased or produced for defense purposes) before October 24, 1992. For purposes of this subsection—
+**(c) Special assessment** The Secretary shall collect a special assessment from domestic utilities. The total amount collected for a fiscal year shall not exceed $150,000,000 (to be annually adjusted for inflation using the Consumer Price Index for all-urban consumers published by the Department of Labor). The amount collected from each utility pursuant to this subsection for a fiscal year shall be in the same ratio to the amount required under subsection (a) to be deposited for such fiscal year as the total amount of separative work units such utility has purchased from the Department of Energy for the purpose of commercial electricity generation, before October 24, 1992, bears to the total amount of separative work units purchased from the Department of Energy for all purposes (including units purchased or produced for defense purposes) before October 24, 1992. For purposes of this subsection—
 
 (1) a utility shall be considered to have purchased a separative work unit from the Department if such separative work unit was produced by the Department, but purchased by the utility from another source; and
 
 (2) a utility shall not be considered to have purchased a separative work unit from the Department if such separative work unit was purchased by the utility, but sold to another source.
 
-**(d) Authorization of appropriations** There are authorized to be appropriated to the Fund, for the period encompassing 15 years after October 24, 1992, such sums as are necessary to ensure that the amount required under subsection (a) of this section is deposited for each fiscal year.
+**(d) Authorization of appropriations** There are authorized to be appropriated to the Fund, for the period encompassing 15 years after October 24, 1992, such sums as are necessary to ensure that the amount required under subsection (a) is deposited for each fiscal year.
 
-**(e) Termination of assessments** The collection of amounts under subsection (c) of this section shall cease after the earlier of—
+**(e) Termination of assessments** The collection of amounts under subsection (c) shall cease after the earlier of—
 
 (1) 15 years after October 24, 1992; or
 
 (2) the collection of $2,250,000,000 (to be annually adjusted for inflation using the Consumer Price Index for all-urban consumers published by the Department of Labor) under such subsection.
 
-**(f) Continuation of deposits** Except as provided in subsection (e) of this section, deposits shall continue to be made into the Fund under subsection (d) of this section for the period specified in such subsection.
+**(f) Continuation of deposits** Except as provided in subsection (e), deposits shall continue to be made into the Fund under subsection (d) for the period specified in such subsection.
 
 **(g) Treatment of assessment** Any special assessment levied under this section on domestic utilities for the decontamination and decommissioning of the Department’s gaseous diffusion enrichment facilities shall be deemed a necessary and reasonable current cost of fuel and shall be fully recoverable in rates in all jurisdictions in the same manner as the utility’s other fuel cost.
 
@@ -8530,7 +8704,7 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 
 **(c) Transfers to Corporation**
 
-(1) The Secretary shall transfer to the Corporation without charge up to 50 metric tons of enriched uranium and up to 7,000 metric tons of natural uranium from the Department of Energy’s stockpile, subject to the restrictions in subsection (c)(2) of this section.
+(1) The Secretary shall transfer to the Corporation without charge up to 50 metric tons of enriched uranium and up to 7,000 metric tons of natural uranium from the Department of Energy’s stockpile, subject to the restrictions in subsection (c)(2).
 
 (2) The Corporation shall not deliver for commercial end use in the United States—
 
@@ -8542,9 +8716,9 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 
 **(d) Inventory sales**
 
-(1) In addition to the transfers authorized under subsections (c) and (e) of this section, the Secretary may, from time to time, sell natural and low-enriched uranium (including low-enriched uranium derived from highly enriched uranium) from the Department of Energy’s stockpile.
+(1) In addition to the transfers authorized under subsections (c) and (e), the Secretary may, from time to time, sell natural and low-enriched uranium (including low-enriched uranium derived from highly enriched uranium) from the Department of Energy’s stockpile.
 
-(2) Except as provided in subsections (b), (c), and (e) of this section, no sale or transfer of natural or low-enriched uranium shall be made unless—
+(2) Except as provided in subsections (b), (c), and (e), no sale or transfer of natural or low-enriched uranium shall be made unless—
 
   (A) the President determines that the material is not necessary for national security needs,
 
@@ -8552,7 +8726,7 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 
   (C) the price paid to the Secretary will not be less than the fair market value of the material.
 
-**(e) Government transfers** Notwithstanding subsection (d)(2) of this section, the Secretary may transfer or sell enriched uranium—
+**(e) Government transfers** Notwithstanding subsection (d)(2), the Secretary may transfer or sell enriched uranium—
 
 (1) to a Federal agency if the material is transferred for the use of the receiving agency without any resale or transfer to another entity and the material does not meet commercial specifications;
 
@@ -8568,7 +8742,7 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-2297h-10a"></a>
@@ -8702,8 +8876,8 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 
 
 <a id="section-2297h-10b"></a>
-## § 2297h–10b. Secretarial determinations; Congressional notification
-**(a) Secretarial determinations** In this fiscal year, and in each subsequent fiscal year, any determination (including a determination made prior to December 16, 2014) by the Secretary of Energy under [section 2297h–10(d)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2297h–10/d/2/B&num=0&edition=prelim), shall be valid for not more than 2 calendar years subsequent to such determination.
+## § 2297h–10b. Secretarial determinations; congressional notification
+**(a) Secretarial determinations** In this fiscal year, and in each subsequent fiscal year, any determination (including a determination made prior to December 16, 2014) by the Secretary of Energy under [section 2297h–10(d)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2297h–10/d/2/B&num=0&edition=prelim) shall be valid for not more than 2 calendar years subsequent to such determination.
 
 **(b) Congressional notification** In this fiscal year, and in each subsequent fiscal year, not less than 30 days prior to the provision of uranium in any form the Secretary of Energy shall notify the Committees on Appropriations of the House of Representatives and the Senate of the following—
 
@@ -8743,7 +8917,7 @@ Section was enacted as part of the Energy and Water Development and Related Agen
 
 (4) In the event that a licensee requests the Secretary to accept for disposal depleted uranium pursuant to this subsection, the Secretary shall be required to take title to and possession of such depleted uranium at an existing DUF6 storage facility.
 
-**(b) Agreements with other persons** The generator may also enter into agreements for the disposal of low-level radioactive waste subject to subsection (a) of this section with any person other than the Secretary that is authorized by applicable laws and regulations to dispose of such wastes.
+**(b) Agreements with other persons** The generator may also enter into agreements for the disposal of low-level radioactive waste subject to subsection (a) with any person other than the Secretary that is authorized by applicable laws and regulations to dispose of such wastes.
 
 **(c) State or interstate compacts** Notwithstanding any other provision of law, no State or interstate compact shall be liable for the treatment, storage, or disposal of any low-level radioactive waste (including mixed waste) attributable to the operation, decontamination, and decommissioning of any uranium enrichment facility.
 
@@ -8772,7 +8946,7 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 
 (3) **Expiration of transfer authority** — The President’s authority to transfer property under this subsection shall expire upon the privatization date.
 
-**(c) Liability for patent and related claims** With respect to any right, title, or interest provided to the Corporation under subsection (a) or (b) of this section, the Corporation shall have sole liability for any payments made or awards under section 157b.(3) of the Atomic Energy Act of 1954 ([42 U.S.C. 2187(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2187/b/3&num=0&edition=prelim)), or any settlements or judgments involving claims for alleged patent infringement. Any royalty agreement under subsection (a) of this section shall provide for a reduction of royalty payments to the Secretary to offset any payments, awards, settlements, or judgments under this subsection.
+**(c) Liability for patent and related claims** With respect to any right, title, or interest provided to the Corporation under subsection (a) or (b), the Corporation shall have sole liability for any payments made or awards under section 157b.(3) of the Atomic Energy Act of 1954 ([42 U.S.C. 2187(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2187/b/3&num=0&edition=prelim)), or any settlements or judgments involving claims for alleged patent infringement. Any royalty agreement under subsection (a) of this section shall provide for a reduction of royalty payments to the Secretary to offset any payments, awards, settlements, or judgments under this subsection.
 
 ### Statutory Notes
 
@@ -8892,7 +9066,7 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 
 **(d) DOE responsibility for preexisting conditions** The payment of any costs of decontamination and decommissioning, response actions, or corrective actions with respect to conditions existing before July 1, 1993, at the gaseous diffusion plants shall remain the sole responsibility of the Secretary.
 
-**(e) Environmental audit** For purposes of subsection (d) of this section, the conditions existing before July 1, 1993, at the gaseous diffusion plants shall be determined from the environmental audit conducted pursuant to section 1403(e) of the Atomic Energy Act of 1954 ([42 U.S.C. 2297c–2(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2297c–2/e&num=0&edition=prelim)).
+**(e) Environmental audit** For purposes of subsection (d), the conditions existing before July 1, 1993, at the gaseous diffusion plants shall be determined from the environmental audit conducted pursuant to section 1403(e) of the Atomic Energy Act of 1954 ([42 U.S.C. 2297c–2(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2297c–2/e&num=0&edition=prelim)).
 
 **(f) Treatment under Price-Anderson provisions** Any lease executed between the Secretary and the Corporation or the private corporation, and any extension or renewal thereof, under this section shall be deemed to be a contract for purposes of section 170d. of the Atomic Energy Act of 1954 ([42 U.S.C. 2210(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210/d&num=0&edition=prelim)).
 
@@ -8940,9 +9114,9 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 
 **(c) Effect of transfer**
 
-(1) Notwithstanding subsection (a) of this section, the United States shall remain obligated to the parties to the contracts, agreements, and leases transferred under subsection (a) of this section for the performance of its obligations under such contracts, agreements, or leases during their terms. Performance of such obligations by the private corporation shall be considered performance by the United States.
+(1) Notwithstanding subsection (a), the United States shall remain obligated to the parties to the contracts, agreements, and leases transferred under subsection (a) for the performance of its obligations under such contracts, agreements, or leases during their terms. Performance of such obligations by the private corporation shall be considered performance by the United States.
 
-(2) If a contract, agreement, or lease transferred under subsection (a) of this section is terminated, extended, or materially amended after the privatization date—
+(2) If a contract, agreement, or lease transferred under subsection (a) is terminated, extended, or materially amended after the privatization date—
 
   (A) the private corporation shall be responsible for any obligation arising under such contract, agreement, or lease after any extension or material amendment, and
 
@@ -8950,7 +9124,7 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 
 (3) The private corporation shall reimburse the United States for any amount paid by the United States under a settlement agreement entered into with the consent of the private corporation or under a judgment, if the settlement or judgment—
 
-  (A) arises out of an obligation under a contract, agreement, or lease transferred under subsection (a) of this section, and
+  (A) arises out of an obligation under a contract, agreement, or lease transferred under subsection (a), and
 
   (B) arises out of actions of the private corporation between the privatization date and the date of a termination, extension, or material amendment of such contract, agreement, or lease.
 
@@ -8968,7 +9142,7 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 
 (1) Except as otherwise provided in this subchapter, all liabilities arising out of the operation of the uranium enrichment enterprise before July 1, 1993, shall remain the direct liabilities of the Secretary.
 
-(2) Except as provided in subsection (a)(3) of this section or otherwise provided in a memorandum of agreement entered into by the Corporation and the Office of Management and Budget prior to the privatization date, all liabilities arising out of the operation of the Corporation between July 1, 1993, and the privatization date shall remain the direct liabilities of the United States.
+(2) Except as provided in subsection (a)(3) or otherwise provided in a memorandum of agreement entered into by the Corporation and the Office of Management and Budget prior to the privatization date, all liabilities arising out of the operation of the Corporation between July 1, 1993, and the privatization date shall remain the direct liabilities of the United States.
 
 (3) All liabilities arising out of the disposal of depleted uranium generated by the Corporation between July 1, 1993, and the privatization date shall become the direct liabilities of the Secretary.
 

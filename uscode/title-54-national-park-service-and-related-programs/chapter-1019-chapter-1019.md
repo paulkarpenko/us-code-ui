@@ -2,7 +2,7 @@
 title: 54
 chapter: '1019'
 heading: Chapter 1019
-section_count: 17
+section_count: 25
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54&num=0&edition=prelim
 ---
@@ -16,8 +16,8 @@ To facilitate the administration of the System, the Secretary, under such terms 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101901 | [16 U.S.C. 1b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1b&num=0&edition=prelim) (matter before (1)) | Aug. 8, 1953, ch. 384, § 1 (matter before (1)), (4), 67 Stat. 495; Pub. L. 91–383, § 2(a), Aug. 18, 1970, 84 Stat. 826. |
-|  | [16 U.S.C. 1b(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1b/4&num=0&edition=prelim) |  |
+| 101901 | [16 U.S.C. 1b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1b&num=0&edition=prelim) (matter before (1)). | Aug. 8, 1953, ch. 384, § 1 (matter before (1)), (4), 67 Stat. 495; Pub. L. 91–383, § 2(a), Aug. 18, 1970, 84 Stat. 826. |
+|  | [16 U.S.C. 1b(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1b/4&num=0&edition=prelim). |  |
 
 The words “and he may use applicable appropriations for the aforesaid system for the following purposes” are omitted as unnecessary.
 
@@ -36,14 +36,14 @@ In this subchapter:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101911(1) | no source |  |
-| 101911(2) | [16 U.S.C. 5952(7)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5952/7/C&num=0&edition=prelim) | Pub. L. 105–391, title IV, § 403(7)(C), Nov. 13, 1998, 112 Stat. 3506. |
+| 101911(1) | no source. |  |
+| 101911(2) | [16 U.S.C. 5952(7)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5952/7/C&num=0&edition=prelim). | Pub. L. 105–391, title IV, § 403(7)(C), Nov. 13, 1998, 112 Stat. 3506. |
 
 #### Savings Provision
-Pub. L. 105–391, title IV, § 419, Nov. 13, 1998, 112 Stat. 3517, provided that: “(a) Treatment of Glacier Bay Concession Permits Prospectus.—Nothing contained in this title [see Tables for classification] shall authorize or require the Secretary to withdraw, revise, amend, modify, or reissue the February 19, 1998, Prospectus Under Which Concession Permits Will be Open for Competition for the Operation of Cruise Ship Services Within Glacier Bay National Park and Preserve (in this section referred to as the ‘1998 Glacier Bay Prospectus’). The award of concession permits pursuant to the 1998 Glacier Bay Prospectus shall be under provisions of existing law at the time the 1998 Glacier Bay Prospectus was issued. “(b) Preferential Right of Renewal.—Notwithstanding any provision of this title, the Secretary, in awarding future Glacier Bay cruise ship concession permits covering cruise ship entries for which a preferential right of renewal existed prior to the effective date of this title [probably means the date of enactment of title IV of Pub. L. 105–391, which was approved Nov. 13, 1998], shall provide for such cruise ship entries a preferential right of renewal, as described in subparagraphs (C) and (D) of section 403(7). Any Glacier Bay concession permit awarded under the authority contained in this subsection shall expire by December 31, 2009.”
+Pub. L. 105–391, title IV, § 419, Nov. 13, 1998, 112 Stat. 3517, provided that: “(a) Treatment of Glacier Bay Concession Permits Prospectus.—Nothing contained in this title [enacting former sections 5951 to 5966 of Title 16, Conservation, which were repealed and restated in sections 101911 et seq. and 101524 of this title, amending former sections 1a–7 and 3 of Title 16, repealing section 17b–1 and subchapter IV of chapter 1 of Title 16, and enacting provisions set out as notes under this section and sections 100101 and 101912 of this title] shall authorize or require the Secretary to withdraw, revise, amend, modify, or reissue the February 19, 1998, Prospectus Under Which Concession Permits Will be Open for Competition for the Operation of Cruise Ship Services Within Glacier Bay National Park and Preserve (in this section referred to as the ‘1998 Glacier Bay Prospectus’). The award of concession permits pursuant to the 1998 Glacier Bay Prospectus shall be under provisions of existing law at the time the 1998 Glacier Bay Prospectus was issued. “(b) Preferential Right of Renewal.—Notwithstanding any provision of this title, the Secretary, in awarding future Glacier Bay cruise ship concession permits covering cruise ship entries for which a preferential right of renewal existed prior to the effective date of this title [probably means the date of enactment of title IV of Pub. L. 105–391, which was approved Nov. 13, 1998], shall provide for such cruise ship entries a preferential right of renewal, as described in subparagraphs (C) and (D) of section 403(7) [see [54 U.S.C. 101911(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section101911/2&num=0&edition=prelim), 101913(7)(C)]. Any Glacier Bay concession permit awarded under the authority contained in this subsection shall expire by December 31, 2009.”
 
 #### Alaska National Interest Lands Conservation Act
-Pub. L. 105–391, title IV, § 415(c), Nov. 13, 1998, 112 Stat. 3516, provided that: “Nothing in this title [see Tables for classification] amends, supersedes, or otherwise affects any provision of the Alaska National Interest Lands Conservation Act ([16 U.S.C. 3101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim) et seq.) relating to revenue-producing visitor services.”
+Pub. L. 105–391, title IV, § 415(c), Nov. 13, 1998, 112 Stat. 3516, provided that: “Nothing in this title [enacting former sections 5951 to 5966 of Title 16, Conservation, which were repealed and restated in sections 101911 et seq. and 101524 of this title, amending former sections 1a–7 and 3 of Title 16, repealing section 17b–1 and subchapter IV of chapter 1 of Title 16, and enacting provisions set out as notes under this section and sections 100101 and 101912 of this title] amends, supersedes, or otherwise affects any provision of the Alaska National Interest Lands Conservation Act ([16 U.S.C. 3101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim) et seq.) relating to revenue-producing visitor services.”
 
 
 <a id="section-101912"></a>
@@ -65,12 +65,12 @@ Pub. L. 105–391, title IV, § 415(c), Nov. 13, 1998, 112 Stat. 3516, provided 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101912 | [16 U.S.C. 5951](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5951&num=0&edition=prelim) | Pub. L. 105–391, title IV, § 402, Nov. 13, 1998, 112 Stat. 3503. |
+| 101912 | [16 U.S.C. 5951](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5951&num=0&edition=prelim). | Pub. L. 105–391, title IV, § 402, Nov. 13, 1998, 112 Stat. 3503. |
 
 In subsection (a), the words “section 100101(a)” are substituted for “sections 1, 2, 3, and 4 of this title, which directs the Secretary to administer units of the National Park System in accordance with the fundamental purpose of conserving their scenery, wildlife, and natural and historic objects, and providing for their enjoyment in a manner that will leave them unimpaired for the enjoyment of future generations” to give a more precise cross reference because section 100101(a) of the new title is where that direction to the Secretary is restated.
 
 #### Repeal of National Park Service Concessions Policy Act; Savings Provision
-Pub. L. 105–391, title IV, § 415(a), Nov. 13, 1998, 112 Stat. 3515, provided that: “Public Law 89–249 (commonly known as the National Park Service Concessions Policy Act; [16 U.S.C. 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section20&num=0&edition=prelim) et seq.) is repealed. The repeal of such Act shall not affect the validity of any concessions contract or permit entered into under such Act, but the provisions of this title [see Tables for classification] shall apply to any such contract or permit except to the extent such provisions are inconsistent with the terms and conditions of any such contract or permit. References in this title to concessions contracts awarded under authority of such Act also apply to concessions permits awarded under such authority.”
+Pub. L. 105–391, title IV, § 415(a), Nov. 13, 1998, 112 Stat. 3515, provided that: “Public Law 89–249 (commonly known as the National Park Service Concessions Policy Act; [16 U.S.C. 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section20&num=0&edition=prelim) et seq.) is repealed. The repeal of such Act shall not affect the validity of any concessions contract or permit entered into under such Act, but the provisions of this title [enacting former sections 5951 to 5966 of Title 16, Conservation, which were repealed and restated in sections 101911 et seq. and 101524 of this title, amending former sections 1a–7 and 3 of Title 16, repealing section 17b–1 and subchapter IV of chapter 1 of Title 16, and enacting provisions set out as notes under this section and sections 100101 and 101911 of this title] shall apply to any such contract or permit except to the extent such provisions are inconsistent with the terms and conditions of any such contract or permit. References in this title to concessions contracts awarded under authority of such Act also apply to concessions permits awarded under such authority.”
 
 
 <a id="section-101913"></a>
@@ -184,7 +184,7 @@ In furtherance of the findings and policy stated in [section 101912 of this titl
 
     (ii) the concessioner has submitted a responsive proposal for a proposed new concession contract that satisfies the minimum requirements established by the Secretary pursuant to paragraph (4).
 
-(9) **New or additional services.—** — The Secretary shall not grant a preferential right to a concessioner to provide new or additional services in a System unit.
+(9) **New or additional services.—** — The Secretary may propose to amend the applicable terms of an existing concessions contract to provide new and additional services where the Secretary determines the services are necessary and appropriate for public use and enjoyment of the unit of the National Park System in which they are located and are consistent to the highest practicable degree with the preservation and conservation of the resources and values of the unit. Such new and additional services shall not represent a material change to the required and authorized services as set forth in the applicable prospectus or contract.
 
 (10) **Authority of secretary not limited.—** — Nothing in this subchapter shall be construed as limiting the authority of the Secretary to determine whether to issue a concession contract or to establish its terms and conditions in furtherance of the policies expressed in this subchapter.
 
@@ -203,15 +203,18 @@ In furtherance of the findings and policy stated in [section 101912 of this titl
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101913 | [16 U.S.C. 5952](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5952&num=0&edition=prelim) (less (7)(C)) | Pub. L. 105–391, title IV, § 403 (less (7)(C)), Nov. 13, 1998, 112 Stat. 3504. |
+| 101913 | [16 U.S.C. 5952](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5952&num=0&edition=prelim) (less (7)(C)). | Pub. L. 105–391, title IV, § 403 (less (7)(C)), Nov. 13, 1998, 112 Stat. 3504. |
 
 In paragraph (1), the words “entities seeking award of a concession contract” are substituted for “concessions contracts” for clarity.
 
-In paragraph (2)(B)(i), the words “by electronic means” are substituted for “the Commerce Business Daily” to eliminate obsolete words. Federal Business Opportunities is the designated single point of universal electronic public access for publication of all procurement information and notices previously published in the Commerce Business Daily. See 66 Fed. Reg. 27407, May 16, 2001, 68 Fed. Reg. 56678, October 1, 2003, 48 CFR ch. 1, subch. B, part 5, and the special notice posted in CBDNet on December 28, 2001, and printed on January 2, 2002. The special notice can be found by going to http://cbdnet.gpo.gov and clicking on “Federal Business Opportunities to replace the Commerce Business Daily”.
+In paragraph (2)(B)(i), the words “by electronic means” are substituted for “the Commerce Business Daily” to eliminate obsolete words. Federal Business Opportunities is the designated single point of universal electronic public access for publication of all procurement information and notices previously published in the Commerce Business Daily. See 66 Fed. Reg. 27407, May 16, 2001, 68 Fed. Reg. 56678, October 1, 2003, 48 CFR ch. 1, subch. B, part 5, and the special notice posted in CBDNet on December 28, 2001, and printed on January 2, 2002.
 
 In paragraph (5)(C), the words “concession contract” are substituted for “concession, contracts” to correct an error in the source provision.
 
 In paragraph (8)(B)(ii)(III), the word “concession” is added for consistency in this subchapter.
+
+#### Amendments
+2016—Par. (9). Pub. L. 114–289 amended par. (9) generally. Prior to amendment, text read as follows: “The Secretary shall not grant a preferential right to a concessioner to provide new or additional services in a System unit.”
 
 
 <a id="section-101914"></a>
@@ -224,7 +227,7 @@ A concession contract entered into pursuant to this subchapter shall generally b
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101914 | [16 U.S.C. 5953](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5953&num=0&edition=prelim) | Pub. L. 105–391, title IV, § 404, Nov. 13, 1998, 112 Stat. 3508; Pub. L. 106–176, title III, § 311, Mar. 10, 2000, 114 Stat. 34. |
+| 101914 | [16 U.S.C. 5953](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5953&num=0&edition=prelim). | Pub. L. 105–391, title IV, § 404, Nov. 13, 1998, 112 Stat. 3508; Pub. L. 106–176, title III, § 311, Mar. 10, 2000, 114 Stat. 34. |
 
 
 <a id="section-101915"></a>
@@ -282,18 +285,18 @@ A concession contract entered into pursuant to this subchapter shall generally b
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101915(a) | [16 U.S.C. 5954(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5954/e&num=0&edition=prelim) | Pub. L. 105–391, title IV, § 405(a) through (e), Nov. 13, 1998, 112 Stat. 3508. |
-| 101915(b) | [16 U.S.C. 5954(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5954/a&num=0&edition=prelim) |  |
-| 101915(c)(1) through (3) | [16 U.S.C. 5954(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5954/b&num=0&edition=prelim) |  |
-| 101915(c)(4) | [16 U.S.C. 5954](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5954&num=0&edition=prelim) note | Pub. L. 110–161, div. F, title I (1st paragraph under heading “administrative provisions” under heading “National Park Service”), Dec. 26, 2007, 121 Stat. 2107. |
-| 101915(d), (e) | [16 U.S.C. 5954(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5954/c&num=0&edition=prelim), (d) |  |
+| 101915(a) | [16 U.S.C. 5954(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5954/e&num=0&edition=prelim). | Pub. L. 105–391, title IV, § 405(a) through (e), Nov. 13, 1998, 112 Stat. 3508. |
+| 101915(b) | [16 U.S.C. 5954(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5954/a&num=0&edition=prelim). |  |
+| 101915(c)(1) through (3) | [16 U.S.C. 5954(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5954/b&num=0&edition=prelim). |  |
+| 101915(c)(4) | [16 U.S.C. 5954](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5954&num=0&edition=prelim) note. | Pub. L. 110–161, div. F, title I (1st paragraph under heading “administrative provisions” under heading “National Park Service”), Dec. 26, 2007, 121 Stat. 2107. |
+| 101915(d), (e) | [16 U.S.C. 5954(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5954/c&num=0&edition=prelim), (d). |  |
 
 In subsection (b), before paragraph (1), the words “On and after November 13, 1998” are omitted as obsolete. In paragraph (6)(A), the words “Effective 9 years after November 13, 1998” are omitted as obsolete.
 
 In subsection (c)(4), the words “For fiscal years 2008 and hereafter” are omitted as obsolete.
 
 #### References in Text
-The Act of October 9, 1965, known as the National Park Service Concessions Policy Act, referred to in subsec. (c)(1), is Pub. L. 89–249, Oct. 9, 1965, 79 Stat. 969, which was classified generally to subchapter IV (§ 20 et seq.) of chapter 1 of Title 16, Conservation, prior to repeal by Pub. L. 105–391, title IV, § 415(a), Nov. 13, 1998, 112 Stat. 3515.
+The Act of October 9, 1965, known as the National Park Service Concessions Policy Act, referred to in subsec. (c)(1), is Pub. L. 89–249, Oct. 9, 1965, 79 Stat. 969, which enacted subchapter IV (§ 20 et seq.) of chapter 1 of Title 16, Conservation, and amended [section 462 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section462&num=0&edition=prelim), prior to being repealed by Pub. L. 105–391, title IV, § 415(a), Nov. 13, 1998, 112 Stat. 3515.
 
 
 <a id="section-101916"></a>
@@ -325,7 +328,7 @@ The Act of October 9, 1965, known as the National Park Service Concessions Polic
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101916 | [16 U.S.C. 5955](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5955&num=0&edition=prelim) | Pub. L. 105–391, title IV, § 406, Nov. 13, 1998, 112 Stat. 3510. |
+| 101916 | [16 U.S.C. 5955](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5955&num=0&edition=prelim). | Pub. L. 105–391, title IV, § 406, Nov. 13, 1998, 112 Stat. 3510. |
 
 
 <a id="section-101917"></a>
@@ -345,7 +348,7 @@ The Act of October 9, 1965, known as the National Park Service Concessions Polic
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101917 | [16 U.S.C. 5956](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5956&num=0&edition=prelim) | Pub. L. 105–391, title IV, § 407, Nov. 13, 1998, 112 Stat. 3511. |
+| 101917 | [16 U.S.C. 5956](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5956&num=0&edition=prelim). | Pub. L. 105–391, title IV, § 407, Nov. 13, 1998, 112 Stat. 3511. |
 
 
 <a id="section-101918"></a>
@@ -377,7 +380,7 @@ The Act of October 9, 1965, known as the National Park Service Concessions Polic
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101918 | [16 U.S.C. 5957](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5957&num=0&edition=prelim) | Pub. L. 105–391, title IV, § 408, Nov. 13, 1998, 112 Stat. 3512. |
+| 101918 | [16 U.S.C. 5957](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5957&num=0&edition=prelim). | Pub. L. 105–391, title IV, § 408, Nov. 13, 1998, 112 Stat. 3512. |
 
 In subsection (b)(1), the word “other” is added for consistency in the subchapter. See section 101926 of the revised title.
 
@@ -437,9 +440,9 @@ In subsection (b)(1), the word “other” is added for consistency in the subch
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101919(a) through (c) | [16 U.S.C. 5958(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5958/a&num=0&edition=prelim) through (c) | Pub. L. 105–391, title IV, § 409, Nov. 13, 1998, 112 Stat. 3512; Pub. L. 111–11, subtitle VII, subtitle E, § 7403, 123 Stat. 1219. |
-| 101919(d) | [16 U.S.C. 5958(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5958/e&num=0&edition=prelim) |  |
-| 101919(e) | [16 U.S.C. 5958(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5958/d&num=0&edition=prelim) |  |
+| 101919(a) through (c) | [16 U.S.C. 5958(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5958/a&num=0&edition=prelim) through (c). | Pub. L. 105–391, title IV, § 409, Nov. 13, 1998, 112 Stat. 3512; Pub. L. 111–11, subtitle VII, subtitle E, § 7403, 123 Stat. 1219. |
+| 101919(d) | [16 U.S.C. 5958(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5958/e&num=0&edition=prelim). |  |
+| 101919(e) | [16 U.S.C. 5958(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5958/d&num=0&edition=prelim). |  |
 
 In subsection (b)(2), the text of [16 U.S.C. 5958(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5958/b/2&num=0&edition=prelim) (last sentence) is omitted as obsolete.
 
@@ -482,7 +485,7 @@ The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101920 | [16 U.S.C. 5959](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5959&num=0&edition=prelim) | Pub. L. 105–391, title IV, § 410, Nov. 13, 1998, 112 Stat. 3514. |
+| 101920 | [16 U.S.C. 5959](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5959&num=0&edition=prelim). | Pub. L. 105–391, title IV, § 410, Nov. 13, 1998, 112 Stat. 3514. |
 
 
 <a id="section-101921"></a>
@@ -495,7 +498,7 @@ If multiple concession contracts are awarded to authorize concessioners to provi
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101921 | [16 U.S.C. 5960](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5960&num=0&edition=prelim) | Pub. L. 105–391, title IV, § 411, Nov. 13, 1998, 112 Stat. 3514. |
+| 101921 | [16 U.S.C. 5960](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5960&num=0&edition=prelim). | Pub. L. 105–391, title IV, § 411, Nov. 13, 1998, 112 Stat. 3514. |
 
 
 <a id="section-101922"></a>
@@ -508,7 +511,7 @@ If multiple concession contracts are awarded to authorize concessioners to provi
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101922 | [16 U.S.C. 5962](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5962&num=0&edition=prelim) | Pub. L. 105–391, title IV, § 413, Nov. 13, 1998, 112 Stat. 3515. |
+| 101922 | [16 U.S.C. 5962](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5962&num=0&edition=prelim). | Pub. L. 105–391, title IV, § 413, Nov. 13, 1998, 112 Stat. 3515. |
 
 The words relating to the leasing of buildings and properties of the United States” are omitted as unnecessary.
 
@@ -524,7 +527,7 @@ The words relating to the leasing of buildings and properties of the United Stat
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101923 | [16 U.S.C. 5963](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5963&num=0&edition=prelim) | Pub. L. 105–391, title IV, § 414, Nov. 13, 1998, 112 Stat. 3515. |
+| 101923 | [16 U.S.C. 5963](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5963&num=0&edition=prelim). | Pub. L. 105–391, title IV, § 414, Nov. 13, 1998, 112 Stat. 3515. |
 
 In this section, the word “duly” is omitted as unnecessary.
 
@@ -544,7 +547,7 @@ In subsection (b), the words “books, papers, documents” are omitted as inclu
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101924 | [16 U.S.C. 5964](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5964&num=0&edition=prelim) | Pub. L. 105–391, title IV, § 416, Nov. 13, 1998, 112 Stat. 3516. |
+| 101924 | [16 U.S.C. 5964](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5964&num=0&edition=prelim). | Pub. L. 105–391, title IV, § 416, Nov. 13, 1998, 112 Stat. 3516. |
 
 
 <a id="section-101925"></a>
@@ -596,7 +599,7 @@ In subsection (b), the words “books, papers, documents” are omitted as inclu
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101925 | [16 U.S.C. 5966](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5966&num=0&edition=prelim) | Pub. L. 105–391, title IV, § 418, Nov. 13, 1998, 112 Stat. 3516. |
+| 101925 | [16 U.S.C. 5966](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5966&num=0&edition=prelim). | Pub. L. 105–391, title IV, § 418, Nov. 13, 1998, 112 Stat. 3516. |
 
 
 <a id="section-101926"></a>
@@ -614,6 +617,97 @@ In subsection (b), the words “books, papers, documents” are omitted as inclu
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101926 | [16 U.S.C. 5965](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5965&num=0&edition=prelim) | Pub. L. 105–391, title IV, § 417, Nov. 13, 1998, 112 Stat. 3516. |
+| 101926 | [16 U.S.C. 5965](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5965&num=0&edition=prelim). | Pub. L. 105–391, title IV, § 417, Nov. 13, 1998, 112 Stat. 3516. |
 
 The words “As soon as practicable after the effective date of this subchapter” are omitted as obsolete.
+
+
+<a id="section-101931"></a>
+## § 101931. Contract authority
+**(a) General Authority.—** Notwithstanding subchapter II, the Secretary may award and administer commercial services contracts (and related professional services contracts) for the operation and expansion of commercial visitor facilities and visitor services programs in System units. The commercial services contracts that may be awarded shall be limited to those that are necessary and appropriate for public use and enjoyment of the unit of the System in which they are located, and, that are consistent with the preservation and conservation of the resources and values of the unit.
+
+**(b) Additional Authority.—** Contracts may be awarded under subsection (a) without regard to Federal laws and regulations governing procurement by Federal agencies, with the exception of laws and regulations related to Federal government contracts governing working conditions and wage rates, including the Alaska National Interest Lands Conservation Act ([16 U.S.C. 3101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim) et seq.), sections 3141–3144, 3146, and 3147 of title 40, United States Code (commonly known as the “Davis-Bacon Act”), and any civil rights provisions otherwise applicable thereto.
+
+**(c) Use of Commercial Services Contracts.—**
+
+(1) **In general.—** — The Secretary may issue a commercial services contract under this subchapter when the Secretary determines that the contract meets the objectives of expanding, modernizing, and improving the condition of commercial visitor facilities and the services provided to visitors.
+
+(2) **Exceptions.—** — No contracts may be awarded under this subchapter—
+
+  (A) for the provision of outfitter and guide services described in section 101913(8); or
+
+  (B) to authorize the provision of facilities or services for which the Secretary has granted to an existing concessioner a preferential right of renewal as defined in sections 101911 and 101913.
+
+### Statutory Notes
+
+#### References in Text
+The Alaska National Interest Lands Conservation Act, referred to in subsec. (b), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
+
+
+<a id="section-101932"></a>
+## § 101932. Award of commercial services contracts
+**(a) Competitive Selection Process.—** Except as provided in subsection (c), commercial services contracts shall be awarded by the Secretary through a competitive selection process.
+
+**(b) Solicitation of Proposals.—** Before awarding a new commercial services contract, the Secretary shall publicly solicit proposals for the contract, except as provided in subsection (c). In connection with such solicitation, the Secretary shall prepare a request for proposals and shall publish notice of its availability.
+
+
+<a id="section-101933"></a>
+## § 101933. Term of commercial services contracts
+
+A commercial services contract entered into pursuant to this title shall be awarded for a term not to exceed 10 years.
+
+
+<a id="section-101934"></a>
+## § 101934. Capital improvements
+
+A person or entity awarded a contract under this subchapter shall receive no leasehold surrender interest, as defined in section 101915, in capital improvements constructed under the terms of the contract.
+
+
+<a id="section-101935"></a>
+## § 101935. Financial management
+**(a) Revolving Fund.—** There is established a revolving fund that shall be available to the Secretary without fiscal year limitation for—
+
+(1) expenses necessary for the management, improvement, enhancement, operation, construction, and maintenance of commercial visitor services and facilities; and
+
+(2) payment of possessory interest and leasehold surrender interest.
+
+**(b) Collection of Funds.—**
+
+(1) Funds collected by the Secretary pursuant to the contracts awarded under this subchapter shall be credited to the revolving fund.
+
+(2) The Secretary is authorized to transfer to the revolving fund, without reimbursement, any additional funds or revenue in connection with the functions to be carried out under this subchapter.
+
+**(c) Use of Funds.—** Amounts in the revolving fund shall be used by the Secretary in furtherance of the purposes of this title. No funds from this account may be used to decrease the availability of services and programs to the public.
+
+
+<a id="section-101936"></a>
+## § 101936. Regulations
+
+As soon as practicable after the effective date of this subchapter, the Secretary shall promulgate regulations appropriate for its implementation.
+
+### Statutory Notes
+
+#### References in Text
+The effective date of this subchapter, referred to in text, probably means the date of enactment of Pub. L. 114–289, which enacted this subchapter and was approved Dec. 16, 2016.
+
+
+<a id="section-101937"></a>
+## § 101937. Savings provision
+
+Nothing in this subchapter shall modify the terms or conditions of any concessions contracts awarded under subchapter II or the ability of the National Park Service to enter into concessions contracts under the National Park Service Concessions Management Improvement Act of 1998 (title IV of Public Law 105–391) including the use of leaseholder surrender interest.
+
+### Statutory Notes
+
+#### References in Text
+The National Park Service Concessions Management Improvement Act of 1998, referred to in text, is title IV of Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3503. For complete classification of this Act to the Code, see Short Title of 1998 Act note set out under [section 100101 of this title](./chapter-1001-chapter-1001.md#section-100101) and Tables.
+
+
+<a id="section-101938"></a>
+## § 101938. Sunset
+
+The authority given to the Secretary under this subchapter shall expire 7 years after the date of the enactment of this subchapter.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this subchapter, referred to in text, is the date of enactment of Pub. L. 114–289, which was approved Dec. 16, 2016.

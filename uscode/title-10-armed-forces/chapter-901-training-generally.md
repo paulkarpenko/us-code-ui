@@ -265,13 +265,13 @@ Subsec. (b)(2) of this section not applicable to persons who, on Nov. 8, 1985, w
 
 (3) Upon successful completion of the course of instruction at the United States Air Force Institute of Technology in which a defense industry employee is enrolled, the defense industry employee may be awarded an appropriate degree under [section 9314 of this title](./chapter-901-training-generally.md#section-9314) or an appropriate professional continuing education certificate, as applicable.
 
-**(b) Eligible Defense Industry Employees.—** For purposes of this section, an eligible defense industry employee is an individual employed by a private firm that is engaged in providing to the Department of Defense significant and substantial defense-related systems, products, or services. A defense industry employee admitted for instruction at the United States Air Force Institute of Technology remains eligible for such instruction only so long at that person remains employed by the same firm.
+**(b) Eligible Defense Industry Employees.—** For purposes of this section, an eligible defense industry employee is an individual employed by a private firm that is engaged in providing to the Department of Defense significant and substantial defense-related systems, products, or services. A defense industry employee admitted for instruction at the United States Air Force Institute of Technology remains eligible for such instruction only so long as that person remains employed by the same firm.
 
 **(c) Annual Determination by the Secretary of the Air Force.—** Defense industry employees may receive instruction at the United States Air Force Institute of Technology during any academic year only if, before the start of that academic year, the Secretary of the Air Force, or the designee of the Secretary, determines that providing instruction to defense industry employees under this section during that year—
 
 (1) will further the military mission of the United States Air Force Institute of Technology; and
 
-(2) will be done on a space-available basis and not require an increase in the size of the faculty of the school, an increase in the course offerings of the school, or an increase in the laboratory facilities or other infrastructure of the school.
+(2) will not require an increase in the permanently authorized size of the faculty of the school, an increase in the course offerings of the school, or an increase in the laboratory facilities or other infrastructure of the school.
 
 **(d) Program Requirements.—** The Secretary of the Air Force shall ensure that—
 
@@ -290,6 +290,10 @@ Subsec. (b)(2) of this section not applicable to persons who, on Nov. 8, 1985, w
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (b). Pub. L. 114–92, § 1081(a)(13), substituted “only so long as” for “only so long at”.
+
+Subsec. (c)(2). Pub. L. 114–92, § 558, substituted “will not require an increase in the permanently authorized size of the faculty” for “will be done on a space-available basis and not require an increase in the size of the faculty”.
+
 2013—Subsec. (a)(1). Pub. L. 112–239, § 589(b)(1), inserted “or professional continuing education certificate” after “graduate degree”.
 
 Subsec. (a)(3). Pub. L. 112–239, § 589(b)(2), inserted “or an appropriate professional continuing education certificate, as applicable” before period at end.

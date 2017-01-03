@@ -29,7 +29,7 @@ In this chapter, the following definitions apply:
 
 (4) **Floodplain management** — The term “floodplain management” means the operation of a community program of corrective and preventative measures for reducing flood damage.
 
-(5) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim).
+(5) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 (6) **Inspection** — The term “inspection” means an actual inspection of a levee—
 
@@ -103,13 +103,15 @@ In this chapter, the following definitions apply:
 
 (10) **National levee database** — The term “national levee database” means the levee database established under [section 3303 of this title](./chapter-046-national-levee-safety-program.md#section-3303).
 
-(11) **Participating program** — The term “participating program” means a levee safety program developed by a State or Indian tribe that includes the minimum components necessary for recognition by the Secretary.
+(11) **Participating program** — The term “participating program” means a levee safety program developed by a State, regional district, or Indian tribe that includes the minimum components necessary for recognition by the Secretary.
 
-(12) **Rehabilitation** — The term “rehabilitation” means the repair, replacement, reconstruction, removal of a levee, or reconfiguration of a levee system, including a setback levee, that is carried out to reduce flood risk or meet national levee safety guidelines.
+(12) **Regional district** — The term “regional district” means a subdivision of a State government, or a subdivision of multiple State governments, that is authorized to acquire, construct, operate, and maintain projects for the purpose of flood damage reduction.
 
-(13) **Risk** — The term “risk” means a measure of the probability and severity of undesirable consequences.
+(13) **Rehabilitation** — The term “rehabilitation” means the repair, replacement, reconstruction, removal of a levee, or reconfiguration of a levee system, including a setback levee, that is carried out to reduce flood risk or meet national levee safety guidelines.
 
-(14) **State** — The term “State” means—
+(14) **Risk** — The term “risk” means a measure of the probability and severity of undesirable consequences.
+
+(15) **State** — The term “State” means—
 
   (A) a State;
 
@@ -119,14 +121,18 @@ In this chapter, the following definitions apply:
 
   (D) any other territory or possession of the United States.
 
-(15) **State levee safety agency** — The term “State levee safety agency” means the agency of a State that has regulatory authority over the safety of any non-Federal levee in the State.
+(16) **State levee safety agency** — The term “State levee safety agency” means the agency of a State that has regulatory authority over the safety of any non-Federal levee in the State.
 
-(16) **United States** — The term “United States”, when used in a geographical sense, means all of the States.
+(17) **United States** — The term “United States”, when used in a geographical sense, means all of the States.
 
 ### Statutory Notes
 
 #### Amendments
-2014—Pars. (1) to (6). Pub. L. 113–121, § 3016(b)(1)–(3), added pars. (1), (2), (4), and (5), and redesignated former pars. (1) and (2) as (3) and (6), respectively. Former pars. (3), (4), (5), and (6) redesignated (7), (14), (15, and (16), respectively.
+2016—Par. (11). Pub. L. 114–322, § 1130(a)(1), substituted “State, regional district, or Indian tribe” for “State or Indian tribe”.
+
+Pars. (12) to (17). Pub. L. 114–322, § 1130(a)(2), (3), added par. (12) and redesignated former pars. (12) to (16) as (13) to (17), respectively.
+
+2014—Pars. (1) to (6). Pub. L. 113–121, § 3016(b)(1)–(3), added pars. (1), (2), (4), and (5), and redesignated former pars. (1) and (2) as (3) and (6), respectively. Former pars. (3), (4), (5), and (6) redesignated (7), (14), (15), and (16), respectively.
 
 Par. (7). Pub. L. 113–121, § 3016(b)(4), added par. (7) and struck out former par. (7) which defined “levee”.
 
@@ -147,7 +153,7 @@ Pub. L. 110–114, title IX, § 9001(b), as added Pub. L. 113–121, title III, 
 
 **(b) Membership** The committee shall be composed of 16 members as follows:
 
-(1) **Nonvoting members** — The following 2 nonvoting members:
+(1) **Nonvoting members.—** — The following 2 nonvoting members:
 
   (A) The Secretary (or a designee of the Secretary).
 
@@ -237,11 +243,11 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 ## § 3303. Inventory and inspection of levees
 **(a) Levee database**
 
-(1) **In general** — Not later than one year after November 8, 2007, the Secretary shall establish and maintain a database with an inventory of the Nation’s levees.
+(1) **In general** — Not later than 1 year after December 16, 2016, the Secretary shall establish and maintain a database with an inventory of the Nation’s levees.
 
 (2) **Contents** — The database shall include—
 
-  (A) location information of all Federal levees in the Nation (including global information system information) and updated levee information provided by States, Indian tribes, Federal agencies, and other entities;
+  (A) location information of all Federal levees in the Nation (including global information system information) and updated levee information provided by States, regional districts, Indian tribes, Federal agencies, and other entities;
 
   (B) utilizing such information as is available, the general condition of each levee; and
 
@@ -249,7 +255,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
 (3) **Availability of information**
 
-  (A) *Availability to Federal, State, and local governmental agencies* — The Secretary shall make all of the information in the database available to appropriate Federal, State, and local governmental agencies.
+  (A) *Availability to Federal, State, regional, tribal, and local governmental agencies* — The Secretary shall make all of the information in the database available to appropriate Federal, State, regional, tribal, and local governmental agencies.
 
   (B) *Availability to the public* — The Secretary shall make the information in the database described in paragraph (2)(A), and such other information in the database as the Secretary determines appropriate, available to the public.
 
@@ -269,17 +275,27 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
 (3) **Review criteria** — In carrying out the inventory and review, the Secretary shall use the levee safety action classification criteria to determine whether a levee should be classified in the inventory as requiring a more comprehensive inspection.
 
-(4) **State and tribal participation** — At the request of a State or Indian tribe with respect to any levee subject to review under this subsection, the Secretary shall—
+(4) **State, regional, and tribal participation** — At the request of a State, regional district, or Indian tribe with respect to any levee subject to review under this subsection, the Secretary shall—
 
-  (A) allow an official of the State or Indian tribe to participate in the review of the levee; and
+  (A) allow an official of the State, regional district, or Indian tribe to participate in the review of the levee; and
 
-  (B) provide information to the State or Indian tribe relating to the location, construction, operation, or maintenance of the levee.
+  (B) provide information to the State, regional district, or Indian tribe relating to the location, construction, operation, or maintenance of the levee.
 
-(5) **Exceptions** — In carrying out the inventory and review under this subsection, the Secretary shall not be required to review any levee that has been inspected by a State or Indian tribe using the same methodology described in paragraph (3) during the 1-year period immediately preceding June 10, 2014, if the Governor of the State or chief executive of the tribal government, as applicable, requests an exemption from the review.
+(5) **Exceptions** — In carrying out the inventory and review under this subsection, the Secretary shall not be required to review any levee that has been inspected by a State, regional district, or Indian tribe using the same methodology described in paragraph (3) during the 1-year period immediately preceding June 10, 2014, if the Governor of the State or chief executive of the regional district or tribal government, as applicable, requests an exemption from the review.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–322, § 1130(b)(1)(A), substituted “1 year after December 16, 2016,” for “one year after November 8, 2007,”.
+
+Subsec. (a)(2)(A). Pub. L. 114–322, § 1130(b)(1)(B), substituted “States, regional districts, Indian tribes, Federal agencies, and other entities” for “States, Indian tribes, Federal agencies, and other entities”.
+
+Subsec. (a)(3)(A). Pub. L. 114–322, § 1130(b)(1)(C), substituted “Federal, State, regional, tribal, and local” for “Federal, State, and local” in heading and text.
+
+Subsec. (c)(4). Pub. L. 114–322, § 1130(b)(2)(A), substituted “State, regional, and tribal” for “State and tribal” in heading and “State, regional district, or Indian tribe” for “State or Indian tribe” wherever appearing in text.
+
+Subsec. (c)(5). Pub. L. 114–322, § 1130(b)(2)(B), substituted “State, regional district, or Indian tribe” for “State or Indian tribe” and “chief executive of the regional district or tribal government” for “chief executive of the tribal government”.
+
 2014—Subsec. (a)(2)(A). Pub. L. 113–121, § 3016(d)(1), substituted “and updated levee information provided by States, Indian tribes, Federal agencies, and other entities” for “and, for non-Federal levees, such information on levee location as is provided to the Secretary by State and local governmental agencies”.
 
 Subsec. (c). Pub. L. 113–121, § 3016(d)(2), added subsec. (c).
@@ -300,9 +316,9 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
 **(c) Levee safety guidelines**
 
-(1) **Establishment** — Not later than 1 year after June 10, 2014, the Secretary, in consultation with the Administrator and in coordination with State, local, and tribal governments and organizations with expertise in levee safety, shall establish a set of voluntary, comprehensive, national levee safety guidelines that—
+(1) **Establishment** — Not later than 1 year after December 16, 2016, the Secretary, in consultation with the Administrator and in coordination with State, regional, local, and tribal governments and organizations with expertise in levee safety, shall establish a set of voluntary, comprehensive, national levee safety guidelines that—
 
-  (A) are available for common, uniform use by all Federal, State, tribal, and local agencies;
+  (A) are available for common, uniform use by all Federal, State, regional, local, and tribal agencies;
 
   (B) incorporate policies, procedures, standards, and criteria for a range of levee types, canal structures, and related facilities and features; and
 
@@ -312,15 +328,15 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
 (3) **Incorporation** — The guidelines shall address, to the maximum extent practicable—
 
-  (A) the activities and practices carried out by State, local, and tribal governments, and the private sector to safely build, regulate, operate, and maintain levees; and
+  (A) the activities and practices carried out by State, regional, local, and tribal governments and the private sector to safely build, regulate, operate, and maintain levees; and
 
-  (B) Federal activities that facilitate State efforts to develop and implement effective State programs for the safety of levees, including levee inspection, levee rehabilitation, locally developed floodplain management, and public education and training programs.
+  (B) Federal activities that facilitate State, regional, or tribal efforts to develop and implement effective State, regional, or tribal programs for the safety of levees, including levee inspection, levee rehabilitation, locally developed floodplain management, and public education and training programs.
 
 (4) **Consideration by Federal agencies** — To the maximum extent practicable, all Federal agencies shall consider the levee safety guidelines in carrying out activities relating to the management of levees.
 
 (5) **Public comment** — Prior to finalizing the guidelines under this subsection, the Secretary shall—
 
-  (A) issue draft guidelines for public comment, including comment by States, non-Federal interests, and other appropriate stakeholders; and
+  (A) issue draft guidelines for public comment, including comment by States, regional districts, Indian tribes, non-Federal interests, and other appropriate stakeholders; and
 
   (B) consider any comments received in the development of final guidelines.
 
@@ -334,7 +350,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
 **(e) Technical assistance and materials**
 
-(1) **Establishment** — The Secretary, in consultation with the Administrator, shall provide technical assistance and training to promote levee safety and assist States, communities, and levee owners in—
+(1) **Establishment** — The Secretary, in consultation with the Administrator, shall provide technical assistance and training to promote levee safety and assist States, regional districts, Indian tribes, communities, and levee owners in—
 
   (A) developing levee safety programs;
 
@@ -362,13 +378,13 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
   (B) promote consistency in the transmission of information regarding levees among Federal agencies and regarding risk communication at the State and local levels.
 
-**(g) State and tribal levee safety program**
+**(g) State, regional, and tribal levee safety program**
 
 (1) **Guidelines**
 
-  (A) *In general* — Not later than 1 year after June 10, 2014, in consultation with the Administrator, the Secretary shall issue guidelines that establish the minimum components necessary for recognition of a State or tribal levee safety program as a participating program.
+  (A) *In general* — Not later than 1 year after December 16, 2016, in consultation with the Administrator, the Secretary shall issue guidelines that establish the minimum components necessary for recognition of a State, regional, or tribal levee safety program as a participating program.
 
-  (B) *Guideline contents* — The guidelines under subparagraph (A) shall include provisions and procedures requiring each participating State and Indian tribe to certify to the Secretary that the State or Indian tribe, as applicable—
+  (B) *Guideline contents* — The guidelines under subparagraph (A) shall include provisions and procedures requiring each participating State, regional district, and Indian tribe to certify to the Secretary that the State, regional district, or Indian tribe, as applicable—
 
     (i) has the authority to participate in the levee safety initiative;
 
@@ -390,17 +406,17 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
     (ii) consider any comments received in the development of final guidelines.
 
-(2) **Assistance to states**
+(2) **Assistance to States, regional districts, and Indian tribes**
 
-  (A) *Establishment* — The Administrator may provide assistance, subject to the availability of funding specified in appropriations Acts for Federal Emergency Management Agency activities pursuant to this chapter and subject to amounts available under subparagraph (E), to States and Indian tribes in establishing participating programs, conducting levee inventories, and improving levee safety programs in accordance with subparagraph (B).
+  (A) *Establishment* — The Administrator may provide assistance, subject to the availability of funding specified in appropriations Acts for Federal Emergency Management Agency activities pursuant to this chapter and subject to amounts available under subparagraph (E), to States, regional districts, and Indian tribes in establishing participating programs, conducting levee inventories, and improving levee safety programs in accordance with subparagraph (B).
 
-  (B) *Requirements* — To be eligible to receive assistance under this section, a State or Indian tribe shall—
+  (B) *Requirements* — To be eligible to receive assistance under this section, a State, regional district, or Indian tribe shall—
 
     (i) meet the requirements of a participating program established by the guidelines issued under paragraph (1);
 
-    (ii) use not less than 25 percent of any amounts received to identify and assess non-Federal levees within the State or on land of the Indian tribe;
+    (ii) use not less than 25 percent of any amounts received to identify and assess non-Federal levees within the State or regional district or on land of the Indian tribe;
 
-    (iii) submit to the Secretary and Administrator any information collected by the State or Indian tribe in carrying out this subsection for inclusion in the national levee safety database; and
+    (iii) submit to the Secretary and Administrator any information collected by the State, regional district, or Indian tribe in carrying out this subsection for inclusion in the national levee safety database; and
 
     (iv) identify actions to address hazard mitigation activities associated with levees and leveed areas identified in the hazard mitigation plan of the State approved by the Administrator of the Federal Emergency Management Agency under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.).
 
@@ -408,7 +424,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
     (i) *In general* — Not later than 1 year after June 10, 2014, the Administrator shall implement quantifiable performance measures and metrics to assess the effectiveness of the assistance provided in accordance with subparagraph (A).
 
-    (ii) *Considerations* — In assessing the effectiveness of assistance under clause (i), the Administrator shall consider the degree to which the State or tribal program—
+    (ii) *Considerations* — In assessing the effectiveness of assistance under clause (i), the Administrator shall consider the degree to which the State, regional, or tribal program—
 
       (I) ensures that human lives and property that are protected by new and existing levees are safe;
 
@@ -426,25 +442,25 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
     (i) *In general* — There is authorized to be appropriated to the Administrator to carry out this subsection $25,000,000 for each of fiscal years 2015 through 2019.
 
-    (ii) *Allocation* — For each fiscal year, amounts made available under this subparagraph shall be allocated among the States and Indian tribes as follows:
+    (ii) *Allocation* — For each fiscal year, amounts made available under this subparagraph shall be allocated among the States, regional districts, and Indian tribes as follows:
 
-      (I) ⅓ among States and Indian tribes that qualify for assistance under this subsection.
+      (I) ⅓ among States, regional districts, and Indian tribes that qualify for assistance under this subsection.
 
-      (II) ⅔ among States and Indian tribes that qualify for assistance under this subsection, to each such State or Indian tribe in the proportion that—
+      (II) ⅔ among States, regional districts, and Indian tribes that qualify for assistance under this subsection, to each such State, regional district, or Indian tribe in the proportion that—
 
-        (aa) the miles of levees in the State or on the land of the Indian tribe that are listed on the inventory of levees; bears to
+        (aa) the miles of levees in the State or regional district or on the land of the Indian tribe that are listed on the inventory of levees; bears to
 
-        (bb) the miles of levees in all States and on the land of all Indian tribes that are in the national levee database.
+        (bb) the miles of levees in all States and regional districts and on the land of all Indian tribes that are in the national levee database.
 
-    (iii) *Maximum amount of allocation* — The amounts allocated to a State or Indian tribe under this subparagraph shall not exceed 50 percent of the reasonable cost of implementing the State or tribal levee safety program.
+    (iii) *Maximum amount of allocation* — The amounts allocated to a State, regional district, or Indian tribe under this subparagraph shall not exceed 50 percent of the reasonable cost of implementing the State, regional, or tribal levee safety program.
 
   (F) *Prohibition* — No amounts made available to the Administrator under this chapter shall be used for levee construction, rehabilitation, repair, operations, or maintenance.
 
 **(h) Levee rehabilitation assistance program**
 
-(1) **Establishment** — The Secretary shall provide assistance to States, Indian tribes, and local governments relating to addressing flood mitigation activities that result in an overall reduction in flood risk.
+(1) **Establishment** — The Secretary shall provide assistance to States, regional districts, Indian tribes, and local governments relating to addressing flood mitigation activities that result in an overall reduction in flood risk.
 
-(2) **Requirements** — To be eligible to receive assistance under this subsection, a State, Indian tribe, or local government shall—
+(2) **Requirements** — To be eligible to receive assistance under this subsection, a State, regional district, Indian tribe, or local government shall—
 
   (A) participate in, and comply with, all applicable Federal floodplain management and flood insurance programs;
 
@@ -458,7 +474,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
   (D) commit to provide normal operation and maintenance of the project for the 50 year-period following completion of rehabilitation; and
 
-  (E) comply with such minimum eligibility requirements as the Secretary, in consultation with the committee, may establish to ensure that each owner and operator of a levee under a participating State or tribal levee safety program—
+  (E) comply with such minimum eligibility requirements as the Secretary, in consultation with the committee, may establish to ensure that each owner and operator of a levee under a participating State, regional, or tribal levee safety program—
 
     (i) acts in accordance with the guidelines developed under subsection (c); and
 
@@ -466,7 +482,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
 (3) **Floodplain management plans**
 
-  (A) *In general* — Not later than 1 year after the date of execution of a project agreement for assistance under this subsection, a State, Indian tribe, or local government shall prepare a floodplain management plan in accordance with the guidelines under subparagraph (D) to reduce the impacts of future flood events in each applicable leveed area.
+  (A) *In general* — Not later than 1 year after the date of execution of a project agreement for assistance under this subsection, a State, regional district, Indian tribe, or local government shall prepare a floodplain management plan in accordance with the guidelines under subparagraph (D) to reduce the impacts of future flood events in each applicable leveed area.
 
   (B) *Inclusions* — A plan under subparagraph (A) shall address—
 
@@ -478,7 +494,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
   (C) *Implementation* — Not later than 1 year after the date of completion of construction of the applicable project, a floodplain management plan prepared under subparagraph (A) shall be implemented.
 
-  (D) *Guidelines* — Not later than 180 days after June 10, 2014, the Secretary, in consultation with the Administrator, shall develop such guidelines for the preparation of floodplain management plans prepared under this paragraph as the Secretary determines to be appropriate.
+  (D) *Guidelines* — Not later than 180 days after December 16, 2016, the Secretary, in consultation with the Administrator, shall develop such guidelines for the preparation of floodplain management plans prepared under this paragraph as the Secretary determines to be appropriate.
 
   (E) *Technical support* — The Secretary may provide technical support for the development and implementation of floodplain management plans prepared under this paragraph.
 
@@ -486,7 +502,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
   (A) *In general* — Assistance provided under this subsection may be used—
 
-    (i) for any rehabilitation activity to maximize overall risk reduction associated with a levee under a participating State or tribal levee safety program; and
+    (i) for any rehabilitation activity to maximize overall risk reduction associated with a levee under a participating State, regional, or tribal levee safety program; and
 
     (ii) only for a levee that is not federally operated and maintained.
 
@@ -530,8 +546,61 @@ The National Flood Insurance Act of 1968, referred to in subsec. (i)(2)(B), is t
 #### Prior Provisions
 A prior section 9005 of Pub. L. 110–114 was renumbered section 9007, and is classified to [section 3304 of this title](./chapter-046-national-levee-safety-program.md#section-3304).
 
+#### Amendments
+2016—Subsec. (c)(1). Pub. L. 114–322, § 1130(c)(1)(A)(i), substituted “1 year after December 16, 2016,” for “1 year after June 10, 2014,” and “State, regional, local, and tribal governments and organizations” for “State, local, and tribal governments and organizations” in introductory provisions.
+
+Subsec. (c)(1)(A). Pub. L. 114–322, § 1130(c)(1)(A)(ii), substituted “Federal, State, regional, local, and tribal agencies” for “Federal, State, tribal, and local agencies”.
+
+Subsec. (c)(3)(A). Pub. L. 114–322, § 1130(c)(1)(B)(i), substituted “State, regional, local, and tribal governments” for “State, local, and tribal governments,”.
+
+Subsec. (c)(3)(B). Pub. L. 114–322, § 1130(c)(1)(B)(ii), inserted “, regional, or tribal” after “State” in two places.
+
+Subsec. (c)(5)(A). Pub. L. 114–322, § 1130(c)(1)(C), substituted “States, regional districts, Indian tribes, non-Federal interests, and other appropriate stakeholders” for “States, non-Federal interests, and other appropriate stakeholders”.
+
+Subsec. (e)(1). Pub. L. 114–322, § 1130(c)(2), substituted “States, regional districts, Indian tribes, communities, and levee owners” for “States, communities, and levee owners” in introductory provisions.
+
+Subsec. (g). Pub. L. 114–322, § 1130(c)(3)(A), substituted “State, regional, and tribal” for “State and tribal” in heading.
+
+Subsec. (g)(1)(A). Pub. L. 114–322, § 1130(c)(3)(B)(i), substituted “1 year after December 16, 2016,” for “1 year after June 10, 2014,” and “State, regional, or tribal” for “State or tribal”.
+
+Subsec. (g)(1)(B). Pub. L. 114–322, § 1130(c)(3)(B)(ii), substituted “State, regional district, and Indian tribe” for “State and Indian tribe” and “State, regional district, or Indian tribe” for “State or Indian tribe” in introductory provisions.
+
+Subsec. (g)(2). Pub. L. 114–322, § 1130(c)(3)(C)(i), substituted “States, regional districts, and Indian tribes” for “States” in heading.
+
+Subsec. (g)(2)(A). Pub. L. 114–322, § 1130(c)(3)(C)(ii), substituted “States, regional districts, and Indian tribes” for “States and Indian tribes”.
+
+Subsec. (g)(2)(B). Pub. L. 114–322, § 1130(c)(3)(C)(iii)(I), substituted “State, regional district, or Indian tribe” for “State or Indian tribe” in introductory provisions.
+
+Subsec. (g)(2)(B)(ii). Pub. L. 114–322, § 1130(c)(3)(C)(iii)(II), substituted “levees within the State or regional district” for “levees within the State”.
+
+Subsec. (g)(2)(B)(iii). Pub. L. 114–322, § 1130(c)(3)(C)(iii)(III), substituted “State, regional district, or Indian tribe” for “State or Indian tribe”.
+
+Subsec. (g)(2)(C)(ii). Pub. L. 114–322, § 1130(c)(3)(C)(iv), substituted “State, regional, or tribal” for “State or tribal” in introductory provisions.
+
+Subsec. (g)(2)(E)(ii). Pub. L. 114–322, § 1130(c)(3)(C)(v)(I), substituted “States, regional districts, and Indian tribes” for “States and Indian tribes” wherever appearing.
+
+Subsec. (g)(2)(E)(ii)(II). Pub. L. 114–322, § 1130(c)(3)(C)(v)(II)(aa), substituted “State, regional district, or Indian tribe” for “State or Indian tribe” in introductory provisions.
+
+Subsec. (g)(2)(E)(ii)(II)(aa). Pub. L. 114–322, § 1130(c)(3)(C)(v)(II)(bb), substituted “miles of levees in the State or regional district” for “miles of levees in the State”.
+
+Subsec. (g)(2)(E)(ii)(II)(bb). Pub. L. 114–322, § 1130(c)(3)(C)(v)(II)(cc), substituted “miles of levees in all States and regional districts” for “miles of levees in all States”.
+
+Subsec. (g)(2)(E)(iii). Pub. L. 114–322, § 1130(c)(3)(C)(v)(III), substituted “State, regional district, or Indian tribe” for “State or Indian tribe” and “State, regional, or tribal” for “State or tribal”.
+
+Subsec. (h)(1). Pub. L. 114–322, § 1130(c)(4)(A), substituted “States, regional districts, Indian tribes, and local governments” for “States, Indian tribes, and local governments”.
+
+Subsec. (h)(2). Pub. L. 114–322, § 1130(c)(4)(B)(i), substituted “State, regional district, Indian tribe, or local government” for “State, Indian tribe, or local government” in introductory provisions.
+
+Subsec. (h)(2)(E). Pub. L. 114–322, § 1130(c)(4)(B)(ii), substituted “State, regional, or tribal” for “State or tribal” in introductory provisions.
+
+Subsec. (h)(3)(A). Pub. L. 114–322, § 1130(c)(4)(C)(i), substituted “State, regional district, Indian tribe, or local government” for “State, Indian tribe, or local government”.
+
+Subsec. (h)(3)(D). Pub. L. 114–322, § 1130(c)(4)(C)(ii), substituted “180 days after December 16, 2016” for “180 days after June 10, 2014”.
+
+Subsec. (h)(4)(A)(i). Pub. L. 114–322, § 1130(c)(4)(D), substituted “State, regional, or tribal” for “State or tribal”.
+
 #### Rehabilitation of Existing Levees
-Pub. L. 113–121, title III, § 3017, June 10, 2014, 128 Stat. 1300, provided that: “(a) In General.—The Secretary [of the Army] shall carry out measures that address consolidation, settlement, subsidence, sea level rise, and new datum to restore federally authorized hurricane and storm damage reduction projects that were constructed as of the date of enactment of this Act [June 10, 2014] to the authorized levels of protection of the projects if the Secretary determines the necessary work is technically feasible, environmentally acceptable, and economically justified. “(b) Limitation.—This section shall only apply to those projects for which the executed project partnership agreement provides that the non-Federal interest is not required to perform future measures to restore the project to the authorized level of protection of the project to account for subsidence and sea-level rise as part of the operation, maintenance, repair, replacement, and rehabilitation responsibilities. “(c) Cost Share.—“(1) In general.—The non-Federal share of the cost of construction of a project carried out under this section shall be determined as provided in subsections (a) through (d) of section 103 of the Water Resources Development Act of 1986 ([33 U.S.C. 2213](./chapter-036-water-resources-development.md#section-2213)). “(2) Certain activities.—The non-Federal share of the cost of operations, maintenance, repair, replacement, and rehabilitation for a project carried out under this section shall be 100 percent. “(d) Report to Congress.—Not later than 5 years after the date of enactment of this Act , the Secretary shall include in the annual report developed under section 7001 [[33 U.S.C. 2282d](./chapter-036-water-resources-development.md#section-2282d)]—“(1) any recommendations relating to the continued need for the authority provided under this section; “(2) a description of the measures carried out under this section; “(3) any lessons learned relating to the measures implemented under this section; and “(4) best practices for carrying out measures to restore hurricane and storm damage reduction projects. “(e) Termination of Authority.—The authority of the Secretary under this subsection [probably should be “section”] terminates on the date that is 10 years after the date of enactment of this Act.”
+Pub. L. 113–121, title III, § 3017, June 10, 2014, 128 Stat. 1300, provided that: “(a) In General.—The Secretary [of the Army] shall carry out measures that address consolidation, settlement, subsidence, sea level rise, and new datum to restore federally authorized hurricane and storm damage reduction projects that were constructed as of the date of enactment of this Act [June 10, 2014] to the authorized levels of protection of the projects if the Secretary determines the necessary work is technically feasible, environmentally acceptable, and economically justified. “(b) Limitation.—This section shall only apply to those projects for which the executed project partnership agreement provides that the non-Federal interest is not required to perform future measures to restore the project to the authorized level of protection of the project to account for subsidence and sea-level rise as part of the operation, maintenance, repair, replacement, and rehabilitation responsibilities. “(c) Cost Share.—“(1) In general.—The non-Federal share of the cost of construction of a project carried out under this section shall be determined as provided in subsections (a) through (d) of section 103 of the Water Resources Development Act of 1986 ([33 U.S.C. 2213](./chapter-036-water-resources-development.md#section-2213)). “(2) Certain activities.—The non-Federal share of the cost of operations, maintenance, repair, replacement, and rehabilitation for a project carried out under this section shall be 100 percent. “(d) Report to Congress.—Not later than 5 years after the date of enactment of this Act, the Secretary shall include in the annual report developed under section 7001 [[33 U.S.C. 2282d](./chapter-036-water-resources-development.md#section-2282d)]—“(1) any recommendations relating to the continued need for the authority provided under this section; “(2) a description of the measures carried out under this section; “(3) any lessons learned relating to the measures implemented under this section; and “(4) best practices for carrying out measures to restore hurricane and storm damage reduction projects. “(e) Termination of Authority.—The authority of the Secretary under this subsection [probably should be “section”] terminates on the date that is 10 years after the date of enactment of this Act.”
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -541,11 +610,11 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 ## § 3303b. Reports
 **(a) State of levees**
 
-(1) **In general** — Not later than 1 year after June 10, 2014, and biennially thereafter, the Secretary in coordination with the committee, shall submit to Congress and make publicly available a report describing the state of levees in the United States and the effectiveness of the levee safety initiative, including—
+(1) **In general** — Not later than 1 year after December 16, 2016, and biennially thereafter, the Secretary in coordination with the committee, shall submit to Congress and make publicly available a report describing the state of levees in the United States and the effectiveness of the levee safety initiative, including—
 
   (A) progress achieved in implementing the levee safety initiative;
 
-  (B) State and tribal participation in the levee safety initiative;
+  (B) State, regional, and tribal participation in the levee safety initiative;
 
   (C) recommendations to improve coordination of levee safety, floodplain management, and environmental protection concerns, including—
 
@@ -559,26 +628,41 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
 **(b) National dam and levee safety program** Not later than 3 years after June 10, 2014, to the maximum extent practicable, the Secretary and the Administrator, in coordination with the committee, shall submit to Congress and make publicly available a report that includes recommendations regarding the advisability and feasibility of, and potential approaches for, establishing a joint national dam and levee safety program.
 
-**(c) Alignment of Federal programs relating to levees** Not later than 2 years after June 10, 2014, the Comptroller General of the United States shall submit to Congress a report on opportunities for alignment of Federal programs to provide incentives to State, tribal, and local governments and individuals and entities—
+**(c) Alignment of Federal programs relating to levees** Not later than 2 years after December 16, 2016, the Comptroller General of the United States shall submit to Congress a report on opportunities for alignment of Federal programs to provide incentives to State, regional, tribal, and local governments and individuals and entities—
 
 (1) to promote shared responsibility for levee safety;
 
-(2) to encourage the development of strong State and tribal levee safety programs;
+(2) to encourage the development of strong State, regional, and tribal levee safety programs;
 
 (3) to better align the levee safety initiative with other Federal flood risk management programs; and
 
-(4) to promote increased levee safety through other Federal programs providing assistance to State and local governments.
+(4) to promote increased levee safety through other Federal programs providing assistance to State, regional, tribal, and local governments.
 
-**(d) Liability for certain levee engineering projects** Not later than 1 year after June 10, 2014, the Secretary shall submit to Congress and make publicly available a report that includes recommendations that identify and address any legal liability associated with levee engineering projects that prevent—
+**(d) Liability for certain levee engineering projects** Not later than 1 year after December 16, 2016, the Secretary shall submit to Congress and make publicly available a report that includes recommendations that identify and address any legal liability associated with levee engineering projects that prevent—
 
 (1) levee owners from obtaining needed levee engineering services; or
 
-(2) development and implementation of a State or tribal levee safety program.
+(2) development and implementation of a State, regional, or tribal levee safety program.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 9006 of Pub. L. 110–114 was renumbered section 9008, and is classified to [section 3305 of this title](./chapter-046-national-levee-safety-program.md#section-3305).
+
+#### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–322, § 1130(d)(1)(A), substituted “1 year after December 16, 2016” for “1 year after June 10, 2014” in introductory provisions.
+
+Subsec. (a)(1)(B). Pub. L. 114–322, § 1130(d)(1)(B), substituted “State, regional, and tribal” for “State and tribal”.
+
+Subsec. (c). Pub. L. 114–322, § 1130(d)(2)(A), in introductory provisions, substituted “2 years after December 16, 2016” for “2 years after June 10, 2014” and “State, regional, tribal, and local” for “State, tribal, and local”.
+
+Subsec. (c)(2). Pub. L. 114–322, § 1130(d)(2)(B), substituted “State, regional, and tribal” for “State and tribal”.
+
+Subsec. (c)(4). Pub. L. 114–322, § 1130(d)(2)(C), substituted “State, regional, tribal, and local” for “State and local”.
+
+Subsec. (d). Pub. L. 114–322, § 1130(d)(3)(A), substituted “1 year after December 16, 2016” for “1 year after June 10, 2014” in introductory provisions.
+
+Subsec. (d)(2). Pub. L. 114–322, § 1130(d)(3)(B), substituted “State, regional, or tribal” for “State or tribal”.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).

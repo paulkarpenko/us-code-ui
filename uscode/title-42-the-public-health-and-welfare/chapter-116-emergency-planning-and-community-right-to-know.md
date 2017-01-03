@@ -8,13 +8,13 @@ source: >-
 ---
 <a id="section-11001"></a>
 ## § 11001. Establishment of State commissions, planning districts, and local committees
-**(a) Establishment of State emergency response commissions** Not later than six months after October 17, 1986, the Governor of each State shall appoint a State emergency response commission. The Governor may designate as the State emergency response commission one or more existing emergency response organizations that are State-sponsored or appointed. The Governor shall, to the extent practicable, appoint persons to the State emergency response commission who have technical expertise in the emergency response field. The State emergency response commission shall appoint local emergency planning committees under subsection (c) of this section and shall supervise and coordinate the activities of such committees. The State emergency response commission shall establish procedures for receiving and processing requests from the public for information under [section 11044 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11044), including tier II information under [section 11022 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11022). Such procedures shall include the designation of an official to serve as coordinator for information. If the Governor of any State does not designate a State emergency response commission within such period, the Governor shall operate as the State emergency response commission until the Governor makes such designation.
+**(a) Establishment of State emergency response commissions** Not later than six months after October 17, 1986, the Governor of each State shall appoint a State emergency response commission. The Governor may designate as the State emergency response commission one or more existing emergency response organizations that are State-sponsored or appointed. The Governor shall, to the extent practicable, appoint persons to the State emergency response commission who have technical expertise in the emergency response field. The State emergency response commission shall appoint local emergency planning committees under subsection (c) and shall supervise and coordinate the activities of such committees. The State emergency response commission shall establish procedures for receiving and processing requests from the public for information under [section 11044 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11044), including tier II information under [section 11022 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11022). Such procedures shall include the designation of an official to serve as coordinator for information. If the Governor of any State does not designate a State emergency response commission within such period, the Governor shall operate as the State emergency response commission until the Governor makes such designation.
 
 **(b) Establishment of emergency planning districts** Not later than nine months after October 17, 1986, the State emergency response commission shall designate emergency planning districts in order to facilitate preparation and implementation of emergency plans. Where appropriate, the State emergency response commission may designate existing political subdivisions or multijurisdictional planning organizations as such districts. In emergency planning areas that involve more than one State, the State emergency response commissions of all potentially affected States may designate emergency planning districts and local emergency planning committees by agreement. In making such designation, the State emergency response commission shall indicate which facilities subject to the requirements of this subchapter are within such emergency planning district.
 
 **(c) Establishment of local emergency planning committees** Not later than 30 days after designation of emergency planning districts or 10 months after October 17, 1986, whichever is earlier, the State emergency response commission shall appoint members of a local emergency planning committee for each emergency planning district. Each committee shall include, at a minimum, representatives from each of the following groups or organizations: elected State and local officials; law enforcement, civil defense, firefighting, first aid, health, local environmental, hospital, and transportation personnel; broadcast and print media; community groups; and owners and operators of facilities subject to the requirements of this subchapter. Such committee shall appoint a chairperson and shall establish rules by which the committee shall function. Such rules shall include provisions for public notification of committee activities, public meetings to discuss the emergency plan, public comments, response to such comments by the committee, and distribution of the emergency plan. The local emergency planning committee shall establish procedures for receiving and processing requests from the public for information under [section 11044 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11044), including tier II information under [section 11022 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11022). Such procedures shall include the designation of an official to serve as coordinator for information.
 
-**(d) Revisions** A State emergency response commission may revise its designations and appointments under subsections (b) and (c) of this section as it deems appropriate. Interested persons may petition the State emergency response commission to modify the membership of a local emergency planning committee.
+**(d) Revisions** A State emergency response commission may revise its designations and appointments under subsections (b) and (c) as it deems appropriate. Interested persons may petition the State emergency response commission to modify the membership of a local emergency planning committee.
 
 ### Statutory Notes
 
@@ -52,17 +52,17 @@ Ex. Ord. No. 12856, Aug. 3, 1993, 58 F.R. 41981, which provided for Federal comp
 
 **(b) Facilities covered**
 
-(1) Except as provided in [section 11004 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11004), a facility is subject to the requirements of this subchapter if a substance on the list referred to in subsection (a) of this section is present at the facility in an amount in excess of the threshold planning quantity established for such substance.
+(1) Except as provided in [section 11004 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11004), a facility is subject to the requirements of this subchapter if a substance on the list referred to in subsection (a) is present at the facility in an amount in excess of the threshold planning quantity established for such substance.
 
 (2) For purposes of emergency planning, a Governor or a State emergency response commission may designate additional facilities which shall be subject to the requirements of this subchapter, if such designation is made after public notice and opportunity for comment. The Governor or State emergency response commission shall notify the facility concerned of any facility designation under this paragraph.
 
-**(c) Emergency planning notification** Not later than seven months after October 17, 1986, the owner or operator of each facility subject to the requirements of this subchapter by reason of subsection (b)(1) of this section shall notify the State emergency response commission for the State in which such facility is located that such facility is subject to the requirements of this subchapter. Thereafter, if a substance on the list of extremely hazardous substances referred to in subsection (a) of this section first becomes present at such facility in excess of the threshold planning quantity established for such substance, or if there is a revision of such list and the facility has present a substance on the revised list in excess of the threshold planning quantity established for such substance, the owner or operator of the facility shall notify the State emergency response commission and the local emergency planning committee within 60 days after such acquisition or revision that such facility is subject to the requirements of this subchapter.
+**(c) Emergency planning notification** Not later than seven months after October 17, 1986, the owner or operator of each facility subject to the requirements of this subchapter by reason of subsection (b)(1) shall notify the State emergency response commission for the State in which such facility is located that such facility is subject to the requirements of this subchapter. Thereafter, if a substance on the list of extremely hazardous substances referred to in subsection (a) first becomes present at such facility in excess of the threshold planning quantity established for such substance, or if there is a revision of such list and the facility has present a substance on the revised list in excess of the threshold planning quantity established for such substance, the owner or operator of the facility shall notify the State emergency response commission and the local emergency planning committee within 60 days after such acquisition or revision that such facility is subject to the requirements of this subchapter.
 
 **(d) Notification of Administrator** The State emergency response commission shall notify the Administrator of facilities subject to the requirements of this subchapter by notifying the Administrator of—
 
-(1) each notification received from a facility under subsection (c) of this section, and
+(1) each notification received from a facility under subsection (c), and
 
-(2) each facility designated by the Governor or State emergency response commission under subsection (b)(2) of this section.
+(2) each facility designated by the Governor or State emergency response commission under subsection (b)(2).
 
 
 <a id="section-11003"></a>
@@ -99,7 +99,7 @@ Ex. Ord. No. 12856, Aug. 3, 1993, 58 F.R. 41981, which provided for Federal comp
 
 (3) Upon request from the emergency planning committee, the owner or operator of the facility shall promptly provide information to such committee necessary for developing and implementing the emergency plan.
 
-**(e) Review by State emergency response commission** After completion of an emergency plan under subsection (a) of this section for an emergency planning district, the local emergency planning committee shall submit a copy of the plan to the State emergency response commission of each State in which such district is located. The commission shall review the plan and make recommendations to the committee on revisions of the plan that may be necessary to ensure coordination of such plan with emergency response plans of other emergency planning districts. To the maximum extent practicable, such review shall not delay implementation of such plan.
+**(e) Review by State emergency response commission** After completion of an emergency plan under subsection (a) for an emergency planning district, the local emergency planning committee shall submit a copy of the plan to the State emergency response commission of each State in which such district is located. The commission shall review the plan and make recommendations to the committee on revisions of the plan that may be necessary to ensure coordination of such plan with emergency response plans of other emergency planning districts. To the maximum extent practicable, such review shall not delay implementation of such plan.
 
 **(f) Guidance documents** The national response team, as established pursuant to the National Contingency Plan as established under [section 9605 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9605), shall publish guidance documents for preparation and implementation of emergency plans. Such documents shall be published not later than five months after October 17, 1986.
 
@@ -110,34 +110,34 @@ Ex. Ord. No. 12856, Aug. 3, 1993, 58 F.R. 41981, which provided for Federal comp
 ## § 11004. Emergency notification
 **(a) Types of releases**
 
-(1) **11002(a) substance which requires CERCLA notice** — If a release of an extremely hazardous substance referred to in [section 11002(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11002/a&num=0&edition=prelim) occurs from a facility at which a hazardous chemical is produced, used, or stored, and such release requires a notification under section 103(a) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 [[42 U.S.C. 9603(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9603/a&num=0&edition=prelim)] (hereafter in this section referred to as “CERCLA”) ([42 U.S.C. 9601](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) et seq.), the owner or operator of the facility shall immediately provide notice as described in subsection (b) of this section.
+(1) **11002(a) substance which requires CERCLA notice** — If a release of an extremely hazardous substance referred to in [section 11002(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11002/a&num=0&edition=prelim) occurs from a facility at which a hazardous chemical is produced, used, or stored, and such release requires a notification under section 103(a) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 [[42 U.S.C. 9603(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9603/a&num=0&edition=prelim)] (hereafter in this section referred to as “CERCLA”) ([42 U.S.C. 9601](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) et seq.), the owner or operator of the facility shall immediately provide notice as described in subsection (b).
 
-(2) **Other 11002(a) substance** — If a release of an extremely hazardous substance referred to in [section 11002(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11002/a&num=0&edition=prelim) occurs from a facility at which a hazardous chemical is produced, used, or stored, and such release is not subject to the notification requirements under section 103(a) of CERCLA [[42 U.S.C. 9603(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9603/a&num=0&edition=prelim)], the owner or operator of the facility shall immediately provide notice as described in subsection (b) of this section, but only if the release—
+(2) **Other 11002(a) substance** — If a release of an extremely hazardous substance referred to in [section 11002(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11002/a&num=0&edition=prelim) occurs from a facility at which a hazardous chemical is produced, used, or stored, and such release is not subject to the notification requirements under section 103(a) of CERCLA [[42 U.S.C. 9603(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9603/a&num=0&edition=prelim)], the owner or operator of the facility shall immediately provide notice as described in subsection (b), but only if the release—
 
   (A) is not a federally permitted release as defined in section 101(10) of CERCLA [[42 U.S.C. 9601(10)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/10&num=0&edition=prelim)],
 
   (B) is in an amount in excess of a quantity which the Administrator has determined (by regulation) requires notice, and
 
   (C) occurs in a manner which would require notification under section 103(a) of CERCLA [[42 U.S.C. 9603(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9603/a&num=0&edition=prelim)].
-  Unless and until superseded by regulations establishing a quantity for an extremely hazardous substance described in this paragraph, a quantity of 1 pound shall be deemed that quantity the release of which requires notice as described in subsection (b) of this section.
+  Unless and until superseded by regulations establishing a quantity for an extremely hazardous substance described in this paragraph, a quantity of 1 pound shall be deemed that quantity the release of which requires notice as described in subsection (b).
 
 (3) **Non-11002(a) substance which requires CERCLA notice** — If a release of a substance which is not on the list referred to in [section 11002(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11002/a&num=0&edition=prelim) occurs at a facility at which a hazardous chemical is produced, used, or stored, and such release requires notification under section 103(a) of CERCLA [[42 U.S.C. 9603(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9603/a&num=0&edition=prelim)], the owner or operator shall provide notice as follows:
 
-  (A) If the substance is one for which a reportable quantity has been established under section 102(a) of CERCLA [[42 U.S.C. 9602(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9602/a&num=0&edition=prelim)], the owner or operator shall provide notice as described in subsection (b) of this section.
+  (A) If the substance is one for which a reportable quantity has been established under section 102(a) of CERCLA [[42 U.S.C. 9602(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9602/a&num=0&edition=prelim)], the owner or operator shall provide notice as described in subsection (b).
 
   (B) If the substance is one for which a reportable quantity has not been established under section 102(a) of CERCLA [[42 U.S.C. 9602(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9602/a&num=0&edition=prelim)]—
 
     (i) Until April 30, 1988, the owner or operator shall provide, for releases of one pound or more of the substance, the same notice to the community emergency coordinator for the local emergency planning committee, at the same time and in the same form, as notice is provided to the National Response Center under section 103(a) of CERCLA [[42 U.S.C. 9603(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9603/a&num=0&edition=prelim)].
 
-    (ii) On and after April 30, 1988, the owner or operator shall provide, for releases of one pound or more of the substance, the notice as described in subsection (b) of this section.
+    (ii) On and after April 30, 1988, the owner or operator shall provide, for releases of one pound or more of the substance, the notice as described in subsection (b).
 
 (4) **Exempted releases** — This section does not apply to any release which results in exposure to persons solely within the site or sites on which a facility is located.
 
 **(b) Notification**
 
-(1) **Recipients of notice** — Notice required under subsection (a) of this section shall be given immediately after the release by the owner or operator of a facility (by such means as telephone, radio, or in person) to the community emergency coordinator for the local emergency planning committees, if established pursuant to [section 11001(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11001/c&num=0&edition=prelim), for any area likely to be affected by the release and to the State emergency planning commission of any State likely to be affected by the release. With respect to transportation of a substance subject to the requirements of this section, or storage incident to such transportation, the notice requirements of this section with respect to a release shall be satisfied by dialing 911 or, in the absence of a 911 emergency telephone number, calling the operator.
+(1) **Recipients of notice** — Notice required under subsection (a) shall be given immediately after the release by the owner or operator of a facility (by such means as telephone, radio, or in person) to the community emergency coordinator for the local emergency planning committees, if established pursuant to [section 11001(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11001/c&num=0&edition=prelim), for any area likely to be affected by the release and to the State emergency planning commission of any State likely to be affected by the release. With respect to transportation of a substance subject to the requirements of this section, or storage incident to such transportation, the notice requirements of this section with respect to a release shall be satisfied by dialing 911 or, in the absence of a 911 emergency telephone number, calling the operator.
 
-(2) **Contents** — Notice required under subsection (a) of this section shall include each of the following (to the extent known at the time of the notice and so long as no delay in responding to the emergency results):
+(2) **Contents** — Notice required under subsection (a) shall include each of the following (to the extent known at the time of the notice and so long as no delay in responding to the emergency results):
 
   (A) The chemical name or identity of any substance involved in the release.
 
@@ -155,7 +155,7 @@ Ex. Ord. No. 12856, Aug. 3, 1993, 58 F.R. 41981, which provided for Federal comp
 
   (H) The name and telephone number of the person or persons to be contacted for further information.
 
-**(c) Followup emergency notice** As soon as practicable after a release which requires notice under subsection (a) of this section, such owner or operator shall provide a written followup emergency notice (or notices, as more information becomes available) setting forth and updating the information required under subsection (b) of this section, and including additional information with respect to—
+**(c) Followup emergency notice** As soon as practicable after a release which requires notice under subsection (a), such owner or operator shall provide a written followup emergency notice (or notices, as more information becomes available) setting forth and updating the information required under subsection (b), and including additional information with respect to—
 
 (1) actions taken to respond to and contain the release,
 
@@ -241,7 +241,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **(c) Availability of MSDS on request**
 
-(1) **To local emergency planning committee** — If an owner or operator of a facility submits a list of chemicals under subsection (a)(1) of this section, the owner or operator, upon request by the local emergency planning committee, shall submit the material safety data sheet for any chemical on the list to such committee.
+(1) **To local emergency planning committee** — If an owner or operator of a facility submits a list of chemicals under subsection (a)(1), the owner or operator, upon request by the local emergency planning committee, shall submit the material safety data sheet for any chemical on the list to such committee.
 
 (2) **To public** — A local emergency planning committee, upon request by any person, shall make available a material safety data sheet to the person in accordance with [section 11044 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11044). If the local emergency planning committee does not have the requested material safety data sheet, the committee shall request the sheet from the facility owner or operator and then make the sheet available to the person in accordance with [section 11044 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11044).
 
@@ -253,7 +253,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
   (B) 3 months after the owner or operator of a facility is required to prepare or have available a material safety data sheet for the chemical under the Occupational Safety and Health Act of 1970 [[29 U.S.C. 651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) et seq.] and regulations promulgated under that Act.
 
-(2) Within 3 months following discovery by an owner or operator of significant new information concerning an aspect of a hazardous chemical for which a material safety data sheet was previously submitted to the local emergency planning committee under subsection (a) of this section, a revised sheet shall be provided to such person.
+(2) Within 3 months following discovery by an owner or operator of significant new information concerning an aspect of a hazardous chemical for which a material safety data sheet was previously submitted to the local emergency planning committee under subsection (a), a revised sheet shall be provided to such person.
 
 **(e) “Hazardous chemical” defined** For purposes of this section, the term “hazardous chemical” has the meaning given such term by section 1910.1200(c) of title 29 of the Code of Federal Regulations, except that such term does not include the following:
 
@@ -285,7 +285,7 @@ The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1), 
 
   (C) The fire department with jurisdiction over the facility.
 
-(2) The inventory form containing tier I information (as described in subsection (d)(1) of this section) shall be submitted on or before March 1, 1988, and annually thereafter on March 1, and shall contain data with respect to the preceding calendar year. The preceding sentence does not apply if an owner or operator provides, by the same deadline and with respect to the same calendar year, tier II information (as described in subsection (d)(2) of this section) to the recipients described in paragraph (1).
+(2) The inventory form containing tier I information (as described in subsection (d)(1)) shall be submitted on or before March 1, 1988, and annually thereafter on March 1, and shall contain data with respect to the preceding calendar year. The preceding sentence does not apply if an owner or operator provides, by the same deadline and with respect to the same calendar year, tier II information (as described in subsection (d)(2)) to the recipients described in paragraph (1).
 
 (3) An owner or operator may meet the requirements of this section with respect to a hazardous chemical which is a mixture by doing one of the following:
 
@@ -317,7 +317,7 @@ The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1), 
 
     (ii) require reporting on individual hazardous chemicals of special concern to emergency response personnel.
 
-(2) **Tier II information** — An inventory form shall provide the following additional information for each hazardous chemical present at the facility, but only upon request and in accordance with subsection (e) of this section:
+(2) **Tier II information** — An inventory form shall provide the following additional information for each hazardous chemical present at the facility, but only upon request and in accordance with subsection (e):
 
   (A) The chemical name or the common name of the chemical as provided on the material safety data sheet.
 
@@ -333,7 +333,7 @@ The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1), 
 
 **(e) Availability of tier II information**
 
-(1) **Availability to State commissions, local committees, and fire departments** — Upon request by a State emergency planning commission, a local emergency planning committee, or a fire department with jurisdiction over the facility, the owner or operator of a facility shall provide tier II information, as described in subsection (d) of this section, to the person making the request. Any such request shall be with respect to a specific facility.
+(1) **Availability to State commissions, local committees, and fire departments** — Upon request by a State emergency planning commission, a local emergency planning committee, or a fire department with jurisdiction over the facility, the owner or operator of a facility shall provide tier II information, as described in subsection (d), to the person making the request. Any such request shall be with respect to a specific facility.
 
 (2) **Availability to other State and local officials** — A State or local official acting in his or her official capacity may have access to tier II information by submitting a request to the State emergency response commission or the local emergency planning committee. Upon receipt of a request for tier II information, the State commission or local committee shall, pursuant to paragraph (1), request the facility owner or operator for the tier II information and make available such information to the official.
 
@@ -359,13 +359,13 @@ The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1) a
 
 <a id="section-11023"></a>
 ## § 11023. Toxic chemical release forms
-**(a) Basic requirement** The owner or operator of a facility subject to the requirements of this section shall complete a toxic chemical release form as published under subsection (g) of this section for each toxic chemical listed under subsection (c) of this section that was manufactured, processed, or otherwise used in quantities exceeding the toxic chemical threshold quantity established by subsection (f) of this section during the preceding calendar year at such facility. Such form shall be submitted to the Administrator and to an official or officials of the State designated by the Governor on or before July 1, 1988, and annually thereafter on July 1 and shall contain data reflecting releases during the preceding calendar year.
+**(a) Basic requirement** The owner or operator of a facility subject to the requirements of this section shall complete a toxic chemical release form as published under subsection (g) for each toxic chemical listed under subsection (c) that was manufactured, processed, or otherwise used in quantities exceeding the toxic chemical threshold quantity established by subsection (f) during the preceding calendar year at such facility. Such form shall be submitted to the Administrator and to an official or officials of the State designated by the Governor on or before July 1, 1988, and annually thereafter on July 1 and shall contain data reflecting releases during the preceding calendar year.
 
 **(b) Covered owners and operators of facilities**
 
 (1) **In general**
 
-  (A) The requirements of this section shall apply to owners and operators of facilities that have 10 or more full-time employees and that are in Standard Industrial Classification Codes 20 through 39 (as in effect on July 1, 1985) and that manufactured, processed, or otherwise used a toxic chemical listed under subsection (c) of this section in excess of the quantity of that toxic chemical established under subsection (f) of this section during the calendar year for which a release form is required under this section.
+  (A) The requirements of this section shall apply to owners and operators of facilities that have 10 or more full-time employees and that are in Standard Industrial Classification Codes 20 through 39 (as in effect on July 1, 1985) and that manufactured, processed, or otherwise used a toxic chemical listed under subsection (c) in excess of the quantity of that toxic chemical established under subsection (f) during the calendar year for which a release form is required under this section.
 
   (B) The Administrator may add or delete Standard Industrial Classification Codes for purposes of subparagraph (A), but only to the extent necessary to provide that each Standard Industrial Code to which this section applies is relevant to the purposes of this section.
 
@@ -379,13 +379,13 @@ The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1) a
 
       (II) as part of an article containing the toxic chemical.
 
-(2) **Discretionary application to additional facilities** — The Administrator, on his own motion or at the request of a Governor of a State (with regard to facilities located in that State), may apply the requirements of this section to the owners and operators of any particular facility that manufactures, processes, or otherwise uses a toxic chemical listed under subsection (c) of this section if the Administrator determines that such action is warranted on the basis of toxicity of the toxic chemical, proximity to other facilities that release the toxic chemical or to population centers, the history of releases of such chemical at such facility, or such other factors as the Administrator deems appropriate.
+(2) **Discretionary application to additional facilities** — The Administrator, on his own motion or at the request of a Governor of a State (with regard to facilities located in that State), may apply the requirements of this section to the owners and operators of any particular facility that manufactures, processes, or otherwise uses a toxic chemical listed under subsection (c) if the Administrator determines that such action is warranted on the basis of toxicity of the toxic chemical, proximity to other facilities that release the toxic chemical or to population centers, the history of releases of such chemical at such facility, or such other factors as the Administrator deems appropriate.
 
-**(c) Toxic chemicals covered** The toxic chemicals subject to the requirements of this section are those chemicals on the list in Committee Print Number 99–169 of the Senate Committee on Environment and Public Works, titled “Toxic Chemicals Subject to Section 313 of the Emergency Planning and Community Right-To-Know Act of 1986” [[42 U.S.C. 11023](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11023)] (including any revised version of the list as may be made pursuant to subsection (d) or (e) of this section).
+**(c) Toxic chemicals covered** The toxic chemicals subject to the requirements of this section are those chemicals on the list in Committee Print Number 99–169 of the Senate Committee on Environment and Public Works, titled “Toxic Chemicals Subject to Section 313 of the Emergency Planning and Community Right-To-Know Act of 1986” [[42 U.S.C. 11023](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11023)] (including any revised version of the list as may be made pursuant to subsection (d) or (e)).
 
 **(d) Revisions by Administrator**
 
-(1) **In general** — The Administrator may by rule add or delete a chemical from the list described in subsection (c) of this section at any time.
+(1) **In general** — The Administrator may by rule add or delete a chemical from the list described in subsection (c) at any time.
 
 (2) **Additions** — A chemical may be added if the Administrator determines, in his judgment, that there is sufficient evidence to establish any one of the following:
 
@@ -412,7 +412,7 @@ The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1) a
     (ii) its toxicity and persistence in the environment, or
 
     (iii) its toxicity and tendency to bioaccumulate in the environment,
-    a significant adverse effect on the environment of sufficient seriousness, in the judgment of the Administrator, to warrant reporting under this section. The number of chemicals included on the list described in subsection (c) of this section on the basis of the preceding sentence may constitute in the aggregate no more than 25 percent of the total number of chemicals on the list.
+    a significant adverse effect on the environment of sufficient seriousness, in the judgment of the Administrator, to warrant reporting under this section. The number of chemicals included on the list described in subsection (c) on the basis of the preceding sentence may constitute in the aggregate no more than 25 percent of the total number of chemicals on the list.
   A determination under this paragraph shall be based on generally accepted scientific principles or laboratory tests, or appropriately designed and conducted epidemiological or other population studies, available to the Administrator.
 
 (3) **Deletions** — A chemical may be deleted if the Administrator determines there is not sufficient evidence to establish any of the criteria described in paragraph (2).
@@ -421,17 +421,17 @@ The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1) a
 
 **(e) Petitions**
 
-(1) **In general** — Any person may petition the Administrator to add or delete a chemical from the list described in subsection (c) of this section on the basis of the criteria in subparagraph (A) or (B) of subsection (d)(2) of this section. Within 180 days after receipt of a petition, the Administrator shall take one of the following actions:
+(1) **In general** — Any person may petition the Administrator to add or delete a chemical from the list described in subsection (c) on the basis of the criteria in subparagraph (A) or (B) of subsection (d)(2). Within 180 days after receipt of a petition, the Administrator shall take one of the following actions:
 
-  (A) Initiate a rulemaking to add or delete the chemical to the list, in accordance with subsection (d)(2) or (d)(3) of this section.
+  (A) Initiate a rulemaking to add or delete the chemical to the list, in accordance with subsection (d)(2) or (d)(3).
 
   (B) Publish an explanation of why the petition is denied.
 
-(2) **Governor petitions** — A State Governor may petition the Administrator to add or delete a chemical from the list described in subsection (c) of this section on the basis of the criteria in subparagraph (A), (B), or (C) of subsection (d)(2) of this section. In the case of such a petition from a State Governor to delete a chemical, the petition shall be treated in the same manner as a petition received under paragraph (1) to delete a chemical. In the case of such a petition from a State Governor to add a chemical, the chemical will be added to the list within 180 days after receipt of the petition, unless the Administrator—
+(2) **Governor petitions** — A State Governor may petition the Administrator to add or delete a chemical from the list described in subsection (c) on the basis of the criteria in subparagraph (A), (B), or (C) of subsection (d)(2). In the case of such a petition from a State Governor to delete a chemical, the petition shall be treated in the same manner as a petition received under paragraph (1) to delete a chemical. In the case of such a petition from a State Governor to add a chemical, the chemical will be added to the list within 180 days after receipt of the petition, unless the Administrator—
 
-  (A) initiates a rulemaking to add the chemical to the list, in accordance with subsection (d)(2) of this section, or
+  (A) initiates a rulemaking to add the chemical to the list, in accordance with subsection (d)(2), or
 
-  (B) publishes an explanation of why the Administrator believes the petition does not meet the requirements of subsection (d)(2) of this section for adding a chemical to the list.
+  (B) publishes an explanation of why the Administrator believes the petition does not meet the requirements of subsection (d)(2) for adding a chemical to the list.
 
 **(f) Threshold for reporting**
 
@@ -485,7 +485,7 @@ The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1) a
 
 (2) **Requirements** — A modification may be made under paragraph (1) only if the Administrator—
 
-  (A) makes a finding that the modification is consistent with the provisions of subsection (h) of this section, based on—
+  (A) makes a finding that the modification is consistent with the provisions of subsection (h), based on—
 
     (i) experience from previously submitted toxic chemical release forms, and
 
@@ -579,7 +579,7 @@ William J. Clinton.
 
 (1) preempt any State or local law,
 
-(2) except as provided in subsection (b) of this section, otherwise affect any State or local law or the authority of any State or local government to adopt or enforce any State or local law, or
+(2) except as provided in subsection (b), otherwise affect any State or local law or the authority of any State or local government to adopt or enforce any State or local law, or
 
 (3) affect or modify in any way the obligations or liabilities of any person under other Federal law.
 
@@ -592,7 +592,7 @@ William J. Clinton.
 
 (1) **General authority**
 
-  (A) With regard to a hazardous chemical, an extremely hazardous substance, or a toxic chemical, any person required under section 11003(d)(2), 11003(d)(3), 11021, 11022, or 11023 of this title to submit information to any other person may withhold from such submittal the specific chemical identity (including the chemical name and other specific identification), as defined in regulations prescribed by the Administrator under subsection (c) of this section, if the person complies with paragraph (2).
+  (A) With regard to a hazardous chemical, an extremely hazardous substance, or a toxic chemical, any person required under section 11003(d)(2), 11003(d)(3), 11021, 11022, or 11023 of this title to submit information to any other person may withhold from such submittal the specific chemical identity (including the chemical name and other specific identification), as defined in regulations prescribed by the Administrator under subsection (c), if the person complies with paragraph (2).
 
   (B) Any person withholding the specific chemical identity shall, in the place on the submittal where the chemical identity would normally be included, include the generic class or category of the hazardous chemical, extremely hazardous substance, or toxic chemical (as the case may be).
 
@@ -600,9 +600,9 @@ William J. Clinton.
 
   (A) A person is entitled to withhold information under paragraph (1) if such person—
 
-    (i) claims that such information is a trade secret, on the basis of the factors enumerated in subsection (b) of this section,
+    (i) claims that such information is a trade secret, on the basis of the factors enumerated in subsection (b),
 
-    (ii) includes in the submittal referred to in paragraph (1) an explanation of the reasons why such information is claimed to be a trade secret, based on the factors enumerated in subsection (b) of this section, including a specific description of why such factors apply, and
+    (ii) includes in the submittal referred to in paragraph (1) an explanation of the reasons why such information is claimed to be a trade secret, based on the factors enumerated in subsection (b), including a specific description of why such factors apply, and
 
     (iii) submits to the Administrator a copy of such submittal, and the information withheld from such submittal.
 
@@ -612,9 +612,9 @@ William J. Clinton.
 
     (ii) submit such designated information separately from other information submitted under this subsection.
 
-(3) **Limitation** — The authority under this subsection to withhold information shall not apply to information which the Administrator has determined, in accordance with subsection (c) of this section, is not a trade secret.
+(3) **Limitation** — The authority under this subsection to withhold information shall not apply to information which the Administrator has determined, in accordance with subsection (c), is not a trade secret.
 
-**(b) Trade secret factors** No person required to provide information under this chapter may claim that the information is entitled to protection as a trade secret under subsection (a) of this section unless such person shows each of the following:
+**(b) Trade secret factors** No person required to provide information under this chapter may claim that the information is entitled to protection as a trade secret under subsection (a) unless such person shows each of the following:
 
 (1) Such person has not disclosed the information to any other person, other than a member of a local emergency planning committee, an officer or employee of the United States or a State or local government, an employee of such person, or a person who is bound by a confidentiality agreement, and such person has taken reasonable measures to protect the confidentiality of such information and intends to continue to take such measures.
 
@@ -624,13 +624,13 @@ William J. Clinton.
 
 (4) The chemical identity is not readily discoverable through reverse engineering.
 
-**(c) Trade secret regulations** As soon as practicable after October 17, 1986, the Administrator shall prescribe regulations to implement this section. With respect to subsection (b)(4) of this section, such regulations shall be equivalent to comparable provisions in the Occupational Safety and Health Administration Hazard Communication Standard (29 C.F.R. 1910.1200) and any revisions of such standard prescribed by the Secretary of Labor in accordance with the final ruling of the courts of the United States in United Steelworkers of America, AFL–CIO–CLC v. Thorne G. Auchter.
+**(c) Trade secret regulations** As soon as practicable after October 17, 1986, the Administrator shall prescribe regulations to implement this section. With respect to subsection (b)(4), such regulations shall be equivalent to comparable provisions in the Occupational Safety and Health Administration Hazard Communication Standard (29 C.F.R. 1910.1200) and any revisions of such standard prescribed by the Secretary of Labor in accordance with the final ruling of the courts of the United States in United Steelworkers of America, AFL–CIO–CLC v. Thorne G. Auchter.
 
 **(d) Petition for review**
 
 (1) **In general** — Any person may petition the Administrator for the disclosure of the specific chemical identity of a hazardous chemical, an extremely hazardous substance, or a toxic chemical which is claimed as a trade secret under this section. The Administrator may, in the absence of a petition under this paragraph, initiate a determination, to be carried out in accordance with this subsection, as to whether information withheld constitutes a trade secret.
 
-(2) **Initial review** — Within 30 days after the date of receipt of a petition under paragraph (1) (or upon the Administrator’s initiative), the Administrator shall review the explanation filed by a trade secret claimant under subsection (a)(2) of this section and determine whether the explanation presents assertions which, if true, are sufficient to support a finding that the specific chemical identity is a trade secret.
+(2) **Initial review** — Within 30 days after the date of receipt of a petition under paragraph (1) (or upon the Administrator’s initiative), the Administrator shall review the explanation filed by a trade secret claimant under subsection (a)(2) and determine whether the explanation presents assertions which, if true, are sufficient to support a finding that the specific chemical identity is a trade secret.
 
 (3) **Finding of sufficient assertions**
 
@@ -650,9 +650,9 @@ William J. Clinton.
 
 **(e) Exception for information provided to health professionals** Nothing in this section, or regulations adopted pursuant to this section, shall authorize any person to withhold information which is required to be provided to a health professional, a doctor, or a nurse in accordance with [section 11043 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11043).
 
-**(f) Providing information to Administrator; availability to public** Any information submitted to the Administrator under subsection (a)(2) of this section or subsection (d)(3) of this section (except a specific chemical identity) shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that the information (or a particular part thereof) to which the Administrator has access under this section if made public would divulge information entitled to protection under [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim), such information or part shall be considered confidential in accordance with the purposes of that section, except that such information or part may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter.
+**(f) Providing information to Administrator; availability to public** Any information submitted to the Administrator under subsection (a)(2) or subsection (d)(3) (except a specific chemical identity) shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that the information (or a particular part thereof) to which the Administrator has access under this section if made public would divulge information entitled to protection under [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim), such information or part shall be considered confidential in accordance with the purposes of that section, except that such information or part may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter.
 
-**(g) Information provided to State** Upon request by a State, acting through the Governor of the State, the Administrator shall provide to the State any information obtained under subsection (a)(2) of this section and subsection (d)(3) of this section.
+**(g) Information provided to State** Upon request by a State, acting through the Governor of the State, the Administrator shall provide to the State any information obtained under subsection (a)(2) and subsection (d)(3).
 
 **(h) Information on adverse effects**
 
@@ -665,14 +665,14 @@ William J. Clinton.
 
 <a id="section-11043"></a>
 ## § 11043. Provision of information to health professionals, doctors, and nurses
-**(a) Diagnosis or treatment by health professional** An owner or operator of a facility which is subject to the requirements of section 11021, 11022, or 11023 of this title shall provide the specific chemical identity, if known, of a hazardous chemical, extremely hazardous substance, or a toxic chemical to any health professional who requests such information in writing if the health professional provides a written statement of need under this subsection and a written confidentiality agreement under subsection (d) of this section. The written statement of need shall be a statement that the health professional has a reasonable basis to suspect that—
+**(a) Diagnosis or treatment by health professional** An owner or operator of a facility which is subject to the requirements of section 11021, 11022, or 11023 of this title shall provide the specific chemical identity, if known, of a hazardous chemical, extremely hazardous substance, or a toxic chemical to any health professional who requests such information in writing if the health professional provides a written statement of need under this subsection and a written confidentiality agreement under subsection (d). The written statement of need shall be a statement that the health professional has a reasonable basis to suspect that—
 
 (1) the information is needed for purposes of diagnosis or treatment of an individual,
 
 (2) the individual or individuals being diagnosed or treated have been exposed to the chemical concerned, and
 
 (3) knowledge of the specific chemical identity of such chemical will assist in diagnosis or treatment.
-Following such a written request, the owner or operator to whom such request is made shall promptly provide the requested information to the health professional. The authority to withhold the specific chemical identity of a chemical under [section 11042 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11042) when such information is a trade secret shall not apply to information required to be provided under this subsection, subject to the provisions of subsection (d) of this section.
+Following such a written request, the owner or operator to whom such request is made shall promptly provide the requested information to the health professional. The authority to withhold the specific chemical identity of a chemical under [section 11042 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11042) when such information is a trade secret shall not apply to information required to be provided under this subsection, subject to the provisions of subsection (d).
 
 **(b) Medical emergency** An owner or operator of a facility which is subject to the requirements of section 11021, 11022, or 11023 of this title shall provide a copy of a material safety data sheet, an inventory form, or a toxic chemical release form, including the specific chemical identity, if known, of a hazardous chemical, extremely hazardous substance, or a toxic chemical, to any treating physician or nurse who requests such information if such physician or nurse determines that—
 
@@ -681,7 +681,7 @@ Following such a written request, the owner or operator to whom such request is 
 (2) the specific chemical identity of the chemical concerned is necessary for or will assist in emergency or first-aid diagnosis or treatment, and
 
 (3) the individual or individuals being diagnosed or treated have been exposed to the chemical concerned.
-Immediately following such a request, the owner or operator to whom such request is made shall provide the requested information to the physician or nurse. The authority to withhold the specific chemical identity of a chemical from a material safety data sheet, an inventory form, or a toxic chemical release form under [section 11042 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11042) when such information is a trade secret shall not apply to information required to be provided to a treating physician or nurse under this subsection. No written confidentiality agreement or statement of need shall be required as a precondition of such disclosure, but the owner or operator disclosing such information may require a written confidentiality agreement in accordance with subsection (d) of this section and a statement setting forth the items listed in paragraphs (1) through (3) as soon as circumstances permit.
+Immediately following such a request, the owner or operator to whom such request is made shall provide the requested information to the physician or nurse. The authority to withhold the specific chemical identity of a chemical from a material safety data sheet, an inventory form, or a toxic chemical release form under [section 11042 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11042) when such information is a trade secret shall not apply to information required to be provided to a treating physician or nurse under this subsection. No written confidentiality agreement or statement of need shall be required as a precondition of such disclosure, but the owner or operator disclosing such information may require a written confidentiality agreement in accordance with subsection (d) and a statement setting forth the items listed in paragraphs (1) through (3) as soon as circumstances permit.
 
 **(c) Preventive measures by local health professionals**
 
@@ -689,8 +689,8 @@ Immediately following such a request, the owner or operator to whom such request
 
   (A) who is a local government employee or a person under contract with the local government, and
 
-  (B) who requests such information in writing and provides a written statement of need under paragraph (2) and a written confidentiality agreement under subsection (d) of this section.
-  Following such a written request, the owner or operator to whom such request is made shall promptly provide the requested information to the local health professional. The authority to withhold the specific chemical identity of a chemical under [section 11042 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11042) when such information is a trade secret shall not apply to information required to be provided under this subsection, subject to the provisions of subsection (d) of this section.
+  (B) who requests such information in writing and provides a written statement of need under paragraph (2) and a written confidentiality agreement under subsection (d).
+  Following such a written request, the owner or operator to whom such request is made shall promptly provide the requested information to the local health professional. The authority to withhold the specific chemical identity of a chemical under [section 11042 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11042) when such information is a trade secret shall not apply to information required to be provided under this subsection, subject to the provisions of subsection (d).
 
 (2) **Written statement of need** — The written statement of need shall be a statement that describes with reasonable detail one or more of the following health needs for the information:
 
@@ -706,16 +706,16 @@ Immediately following such a request, the owner or operator to whom such request
 
   (F) To conduct studies to aid in the identification of a chemical that may reasonably be anticipated to cause an observed health effect.
 
-**(d) Confidentiality agreement** Any person obtaining information under subsection (a) or (c) of this section shall, in accordance with such subsection (a) or (c) of this section, be required to agree in a written confidentiality agreement that he will not use the information for any purpose other than the health needs asserted in the statement of need, except as may otherwise be authorized by the terms of the agreement or by the person providing such information. Nothing in this subsection shall preclude the parties to a confidentiality agreement from pursuing any remedies to the extent permitted by law.
+**(d) Confidentiality agreement** Any person obtaining information under subsection (a) or (c) shall, in accordance with such subsection (a) or (c), be required to agree in a written confidentiality agreement that he will not use the information for any purpose other than the health needs asserted in the statement of need, except as may otherwise be authorized by the terms of the agreement or by the person providing such information. Nothing in this subsection shall preclude the parties to a confidentiality agreement from pursuing any remedies to the extent permitted by law.
 
-**(e) Regulations** As soon as practicable after October 17, 1986, the Administrator shall promulgate regulations describing criteria and parameters for the statement of need under subsection 11 So in original. Probably should be “subsections”. (a) and (c) of this section and the confidentiality agreement under subsection (d) of this section.
+**(e) Regulations** As soon as practicable after October 17, 1986, the Administrator shall promulgate regulations describing criteria and parameters for the statement of need under subsection 11 So in original. Probably should be “subsections”. (a) and (c) and the confidentiality agreement under subsection (d).
 
 
 <a id="section-11044"></a>
 ## § 11044. Public availability of plans, data sheets, forms, and followup notices
 **(a) Availability to public** Each emergency response plan, material safety data sheet, list described in [section 11021(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11021/a/2&num=0&edition=prelim), inventory form, toxic chemical release form, and followup emergency notice shall be made available to the general public, consistent with [section 11042 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11042), during normal working hours at the location or locations designated by the Administrator, Governor, State emergency response commission, or local emergency planning committee, as appropriate. Upon request by an owner or operator of a facility subject to the requirements of [section 11022 of this title](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11022), the State emergency response commission and the appropriate local emergency planning committee shall withhold from disclosure under this section the location of any specific chemical required by [section 11022(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11022/d/2&num=0&edition=prelim) to be contained in an inventory form as tier II information.
 
-**(b) Notice of public availability** Each local emergency planning committee shall annually publish a notice in local newspapers that the emergency response plan, material safety data sheets, and inventory forms have been submitted under this section. The notice shall state that followup emergency notices may subsequently be issued. Such notice shall announce that members of the public who wish to review any such plan, sheet, form, or followup notice may do so at the location designated under subsection (a) of this section.
+**(b) Notice of public availability** Each local emergency planning committee shall annually publish a notice in local newspapers that the emergency response plan, material safety data sheets, and inventory forms have been submitted under this section. The notice shall state that followup emergency notices may subsequently be issued. Such notice shall announce that members of the public who wish to review any such plan, sheet, form, or followup notice may do so at the location designated under subsection (a).
 
 
 <a id="section-11045"></a>
@@ -774,7 +774,7 @@ Immediately following such a request, the owner or operator to whom such request
 ## § 11046. Civil actions
 **(a) Authority to bring civil actions**
 
-(1) **Citizen suits** — Except as provided in subsection (e) of this section, any person may commence a civil action on his own behalf against the following:
+(1) **Citizen suits** — Except as provided in subsection (e), any person may commence a civil action on his own behalf against the following:
 
   (A) An owner or operator of a facility for failure to do any of the following:
 
@@ -822,19 +822,19 @@ Immediately following such a request, the owner or operator to whom such request
 
 **(b) Venue**
 
-(1) Any action under subsection (a) of this section against an owner or operator of a facility shall be brought in the district court for the district in which the alleged violation occurred.
+(1) Any action under subsection (a) against an owner or operator of a facility shall be brought in the district court for the district in which the alleged violation occurred.
 
-(2) Any action under subsection (a) of this section against the Administrator may be brought in the United States District Court for the District of Columbia.
+(2) Any action under subsection (a) against the Administrator may be brought in the United States District Court for the District of Columbia.
 
-**(c) Relief** The district court shall have jurisdiction in actions brought under subsection (a) of this section against an owner or operator of a facility to enforce the requirement concerned and to impose any civil penalty provided for violation of that requirement. The district court shall have jurisdiction in actions brought under subsection (a) of this section against the Administrator to order the Administrator to perform the act or duty concerned.
+**(c) Relief** The district court shall have jurisdiction in actions brought under subsection (a) against an owner or operator of a facility to enforce the requirement concerned and to impose any civil penalty provided for violation of that requirement. The district court shall have jurisdiction in actions brought under subsection (a) against the Administrator to order the Administrator to perform the act or duty concerned.
 
 **(d) Notice**
 
-(1) No action may be commenced under subsection (a)(1)(A) of this section prior to 60 days after the plaintiff has given notice of the alleged violation to the Administrator, the State in which the alleged violation occurs, and the alleged violator. Notice under this paragraph shall be given in such manner as the Administrator shall prescribe by regulation.
+(1) No action may be commenced under subsection (a)(1)(A) prior to 60 days after the plaintiff has given notice of the alleged violation to the Administrator, the State in which the alleged violation occurs, and the alleged violator. Notice under this paragraph shall be given in such manner as the Administrator shall prescribe by regulation.
 
-(2) No action may be commenced under subsection (a)(1)(B) or (a)(1)(C) of this section prior to 60 days after the date on which the plaintiff gives notice to the Administrator, State Governor, or State emergency response commission (as the case may be) that the plaintiff will commence the action. Notice under this paragraph shall be given in such manner as the Administrator shall prescribe by regulation.
+(2) No action may be commenced under subsection (a)(1)(B) or (a)(1)(C) prior to 60 days after the date on which the plaintiff gives notice to the Administrator, State Governor, or State emergency response commission (as the case may be) that the plaintiff will commence the action. Notice under this paragraph shall be given in such manner as the Administrator shall prescribe by regulation.
 
-**(e) Limitation** No action may be commenced under subsection (a) of this section against an owner or operator of a facility if the Administrator has commenced and is diligently pursuing an administrative order or civil action to enforce the requirement concerned or to impose a civil penalty under this Act with respect to the violation of the requirement.
+**(e) Limitation** No action may be commenced under subsection (a) against an owner or operator of a facility if the Administrator has commenced and is diligently pursuing an administrative order or civil action to enforce the requirement concerned or to impose a civil penalty under this Act with respect to the violation of the requirement.
 
 **(f) Costs** The court, in issuing any final order in any action brought pursuant to this section, may award costs of litigation (including reasonable attorney and expert witness fees) to the prevailing or the substantially prevailing party whenever the court determines such an award is appropriate. The court may, if a temporary restraining order or preliminary injunction is sought, require the filing of a bond or equivalent security in accordance with the Federal Rules of Civil Procedure.
 

@@ -43,9 +43,9 @@ Not later than May 1, 1997, the Administrator of the National Highway Traffic Sa
 ## § 6004. Standards
 **(a) In general** Bicycle helmets manufactured 9 months or more after June 16, 1994, shall conform to—
 
-(1) any interim standard described under subsection (b) of this section, pending the establishment of a final standard pursuant to subsection (c) of this section; and
+(1) any interim standard described under subsection (b), pending the establishment of a final standard pursuant to subsection (c); and
 
-(2) the final standard, once it has been established under subsection (c) of this section.
+(2) the final standard, once it has been established under subsection (c).
 
 **(b) Interim standards** The interim standards are as follows:
 
@@ -59,7 +59,7 @@ Not later than May 1, 1997, the Administrator of the National Highway Traffic Sa
 
 **(c) Final standard** Not later than 60 days after June 16, 1994, the Commission shall begin a proceeding under [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) to—
 
-(1) review the requirements of the interim standards set forth in subsection (a) of this section and establish a final standard based on such requirements;
+(1) review the requirements of the interim standards set forth in subsection (a) and establish a final standard based on such requirements;
 
 (2) include in the final standard a provision to protect against the risk of helmets coming off the heads of bicycle riders;
 
@@ -70,9 +70,9 @@ Sections 7, 9, and 30(d) 11 See References in Text note below. of the Consumer P
 
 **(d) Failure to meet standards**
 
-(1) **Failure to meet interim standard** — Until the final standard takes effect, a bicycle helmet that does not conform to an interim standard as required under subsection (a)(1) of this section shall be considered in violation of a consumer product safety standard promulgated under the Consumer Product Safety Act [[15 U.S.C. 2051](./chapter-047-consumer-product-safety.md#section-2051) et seq.].
+(1) **Failure to meet interim standard** — Until the final standard takes effect, a bicycle helmet that does not conform to an interim standard as required under subsection (a)(1) shall be considered in violation of a consumer product safety standard promulgated under the Consumer Product Safety Act [[15 U.S.C. 2051](./chapter-047-consumer-product-safety.md#section-2051) et seq.].
 
-(2) **Status of final standard** — The final standard developed under subsection (c) of this section shall be considered a consumer product safety standard promulgated under the Consumer Product Safety Act.
+(2) **Status of final standard** — The final standard developed under subsection (c) shall be considered a consumer product safety standard promulgated under the Consumer Product Safety Act.
 
 ### Statutory Notes
 

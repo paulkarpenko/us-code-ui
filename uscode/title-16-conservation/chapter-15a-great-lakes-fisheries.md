@@ -42,7 +42,7 @@ Act June 4, 1956, ch. 358, § 14, 70 Stat. 244, provided that: “If any provisi
 
 (2) The President shall appoint an alternate Commissioner who shall perform the duties of a Commissioner—
 
-  (A) until a vacancy referred to in subsection (b)(3) of this section is filled; and
+  (A) until a vacancy referred to in subsection (b)(3) is filled; and
 
   (B) in the event of the absence of a Commissioner from any meeting of the United States Section or the Commission.
 
@@ -50,11 +50,11 @@ Act June 4, 1956, ch. 358, § 14, 70 Stat. 244, provided that: “If any provisi
 
 **(b)**
 
-(1) Except as provided in paragraph (2), the term of office of Commissioners appointed under subsection (a)(1)(B) of this section is 6 years.
+(1) Except as provided in paragraph (2), the term of office of Commissioners appointed under subsection (a)(1)(B) is 6 years.
 
-(2) Of the Commissioners first appointed under subsection (a)(1)(B) of this section after November 14, 1986, 1 shall be appointed for a term of 2 years, 1 shall be appointed for a term of 4 years, and 1 shall be appointed for a term of 6 years.
+(2) Of the Commissioners first appointed under subsection (a)(1)(B) after November 14, 1986, 1 shall be appointed for a term of 2 years, 1 shall be appointed for a term of 4 years, and 1 shall be appointed for a term of 6 years.
 
-(3) Whenever a vacancy occurs among Commissioners appointed under subsection (a)(1)(B) of this section, the President shall appoint an individual to fill that vacancy for the remainder of the applicable term.
+(3) Whenever a vacancy occurs among Commissioners appointed under subsection (a)(1)(B), the President shall appoint an individual to fill that vacancy for the remainder of the applicable term.
 
 ### Statutory Notes
 

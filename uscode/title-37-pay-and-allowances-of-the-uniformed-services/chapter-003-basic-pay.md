@@ -383,7 +383,7 @@ Amendment by Pub. L. 93–419 effective Sept. 19, 1974, see section 9 of Pub. L.
 Amendment by Pub. L. 92–129 effective Oct. 1, 1971, see section 209 of Pub. L. 92–129, set out as an Effective Date note under [section 302a of this title](./chapter-005-special-and-incentive-pays.md#section-302a).
 
 #### Effective Date of 1967 Amendment
-Pub. L. 90–207, § 7, Dec. 16, 1967, 81 Stat. 654, provided that: “This Act [enacting sections 311 and 411a of this title, amending this section, sections 403 and 407 of this title, sections 1401 to 1402, 1436, 3991, 6326, 6330, and 8991 of Title 10, Armed Forces, and section 2203 of Appendix to Title 50, War and National Defense, and enacting provisions set out as notes under this section and sections 1401 and 1401a of Title 10] becomes effective as of October 1, 1967. However, a member, except as provided in section 6 of this Act [set out as a note under [section 1401 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401&num=0&edition=prelim)], is not entitled to any increases in his pay and allowances under section 1 [enacting [section 311 of this title](./chapter-005-special-and-incentive-pays.md#section-311) and amending this section and sections 403 and 407 of this title] or section 4 [amending section 2203 of Appendix to Title 50] for any period before the date of enactment of this Act [Dec. 16, 1967] unless he is on active duty on the date of enactment of this Act. In addition, a member of the National Guard or a member of a Reserve Component of a uniformed service who is in a drill pay status on the effective date of this Act [Oct. 1, 1967] is entitled to have any compensation to which he has become entitled under [section 206 of title 37](./chapter-003-basic-pay.md#section-206), United States Code, after September 30, 1967, computed under the rates of basic pay prescribed by section 1(1) of this Act [amending this section].”
+Pub. L. 90–207, § 7, Dec. 16, 1967, 81 Stat. 654, provided that: “This Act [enacting sections 311 and 411a of this title, amending this section, sections 403 and 407 of this title, sections 1401 to 1402, 1436, 3991, 6326, 6330, and 8991 of Title 10, Armed Forces, and section 2203 of the former Appendix to Title 50, War and National Defense, and enacting provisions set out as notes under this section and sections 1401 and 1401a of Title 10] becomes effective as of October 1, 1967. However, a member, except as provided in section 6 of this Act [set out as a note under [section 1401 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401&num=0&edition=prelim)], is not entitled to any increases in his pay and allowances under section 1 [enacting [section 311 of this title](./chapter-005-special-and-incentive-pays.md#section-311) and amending this section and sections 403 and 407 of this title] or section 4 [amending section 2203 of the former Appendix to Title 50] for any period before the date of enactment of this Act [Dec. 16, 1967] unless he is on active duty on the date of enactment of this Act. In addition, a member of the National Guard or a member of a Reserve Component of a uniformed service who is in a drill pay status on the effective date of this Act [Oct. 1, 1967] is entitled to have any compensation to which he has become entitled under [section 206 of title 37](./chapter-003-basic-pay.md#section-206), United States Code, after September 30, 1967, computed under the rates of basic pay prescribed by section 1(1) of this Act [amending this section].”
 
 #### Effective Date of 1966 Amendment
 Pub. L. 89–501, title III, § 304, July 13, 1966, 80 Stat. 278, provided that: “This title [amending this section and enacting provisions set out as notes under this section and [section 1401 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401&num=0&edition=prelim), Armed Forces] becomes effective July 1, 1966, or the first day of the month in which increases in the rates of compensation under the General Schedule of pay provided in section 603(b) of the Classification Act of 1949, as amended ([5 U.S.C. 1113(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1113/b&num=0&edition=prelim)) [see now [section 5332(a) of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332/a&num=0&edition=prelim), Government Organization and Employees], become effective pursuant to the Federal Employees Salary Act of 1966 [Pub. L. 89–504, July 18, 1966, 80 Stat. 288] whichever is later.”
@@ -400,7 +400,12 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-#### No Fiscal Year 2015 Increase in Basic Pay for General and Flag Officers
+#### Publication by Department of Defense of Actual Rates of Basic pay Payable to Members of the Armed Forces by pay Grade for Annual or Other pay Periods
+Pub. L. 114–328, div. A, title VI, § 602, Dec. 23, 2016, 130 Stat. 2156, provided that: “Any pay table published or otherwise issued by the Department of Defense to indicate the rates of basic pay of the Armed Forces in effect for members of the Armed Forces for a calendar year or other period shall state the rate of basic pay to be received by members in each pay grade for such year or period as specified or otherwise provided by applicable law, including any rate to be so received pursuant during such year or period by the operation of a ceiling under [section 203(a)(2) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203/a/2&num=0&edition=prelim), United States Code, or a similar provision in an annual defense authorization Act.”
+
+#### Increases in Basic Pay for General and Flag Officers
+Pub. L. 114–92, div. A, title VI, § 601, Nov. 25, 2015, 129 Stat. 836, provided that: “[Section 203(a)(2) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203/a/2&num=0&edition=prelim), United States Code, shall be applied for rates of basic pay payable for commissioned officers in pay grades O–7 through O–10 during calendar year 2016 by using the rate of pay for level II of the Executive Schedule in effect during 2014. The rates of basic pay payable for such officers shall not increase during calendar year 2016.”
+
 Pub. L. 113–291, div. A, title VI, § 601, Dec. 19, 2014, 128 Stat. 3397, provided that: “In the case of commissioned officers in the uniformed services in pay grades O–7 through O–10— “(1) [section 203(a)(2) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203/a/2&num=0&edition=prelim), United States Code, shall be applied for rates of basic pay payable for such officers during calendar year 2015 by using the rate of pay for level II of the Executive Schedule in effect during 2014; and “(2) the rates of monthly basic pay payable for such officers shall not increase during calendar year 2015.”
 
 #### Basic Pay Rate Equal Treatment of Chief of the National Guard Bureau
@@ -416,7 +421,7 @@ Pub. L. 92–455, § 5, Oct. 2, 1972, 86 Stat. 761, provided that: “An enliste
 Section 211 of Pub. L. 92–129 directed Secretary of Defense to report to Chairman of Armed Services Committees of Senate and of House of Representatives not later than June 30, 1972, on effectiveness of provisions of title II of Pub. L. 92–129, authorizing pay increases for uniformed services, in increasing number of volunteers enlisting for active duty in Armed Forces of United States.
 
 #### Pay Continuation
-Pub. L. 92–129, title II, § 210, Sept. 28, 1971, 85 Stat. 360, provided that: “The enactment of this title [enacting sections 302a, 308a, and 428 of this title and amending this section, [section 403 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-403), and sections 2203, 2204, and 2207 of Title 50 Appendix, War and National Defense] shall not reduce the pay to which any member of the uniformed services was entitled on June 30, 1971.”
+Pub. L. 92–129, title II, § 210, Sept. 28, 1971, 85 Stat. 360, provided that: “The enactment of this title [enacting sections 302a, 308a, and 428 of this title and amending this section, [section 403 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-403), and sections 2203, 2204, and 2207 of the former Appendix to Title 50, War and National Defense] shall not reduce the pay to which any member of the uniformed services was entitled on June 30, 1971.”
 
 Pub. L. 89–501, title III, § 302, July 13, 1966, 80 Stat. 278, provided that: “Notwithstanding any other provision of law, a member of an armed force who was entitled to pay and allowances under any of the following provisions of law on the day before the effective date of this title [see Effective Date of 1966 Amendment note above] shall continue to receive the pay and allowances to which he was entitled on that day plus an increase of 3.2 per centum in the total of his pay and allowances: “(1) The Act of March 23, 1946, chapter 112 (60 Stat. 59). “(2) The Act of June 26, 1948, chapter 677 (62 Stat. 1052). “(3) The Act of September 18, 1950, chapter 952 (64 Stat. A224).After the effective date of this title, no increase in the basic pay or any of the allowances of members of the uniformed services on active duty shall increase the basic pay or any of the allowances of a member covered by the preceding provisions of this section.”
 
@@ -964,7 +969,7 @@ Section, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 461, provided that an officer
 
 (2) The Secretary of Defense shall prescribe by regulation the monthly rates for subsistence allowances provided under this section. The rate may not be less than $250 per month, but may not exceed $674 per month.
 
-(3) A subsistence allowance under this section may not be considered financial assistance requiring additional service within the meaning of the third sentence of section 6(d)(1) of the Military Selective Service Act (50 U.S.C. App. 456(d)(1)).
+(3) A subsistence allowance under this section may not be considered financial assistance requiring additional service within the meaning of the third sentence of section 6(d)(1) of the Military Selective Service Act ([50 U.S.C. 3806(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3806/d/1&num=0&edition=prelim)).
 
 **(b) Senior ROTC Members Appointed in Reserves.—** Except when on active duty, a cadet or midshipman appointed under [section 2107 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2107&num=0&edition=prelim) is entitled to a monthly subsistence allowance at a rate prescribed under subsection (a). A member enrolled in the first two years of a four-year program is entitled to receive subsistence for a maximum of twenty months. A member enrolled in the advanced course is entitled to subsistence as prescribed for a member enrolled under [section 2104 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2104&num=0&edition=prelim) as prescribed in subsection (a).
 
@@ -984,6 +989,8 @@ Section, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 461, provided that an officer
 | 209(c) | 10:6906(c) (1st sentence, as applicable to pay). | [None.] |
 
 #### Amendments
+2016—Subsec. (a)(3). Pub. L. 114–328, which directed substitution of “([50 U.S.C. 3806(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3806/d/1&num=0&edition=prelim))” for “(50 U.S.C. App. 456(d)(1))” in par. (1), was executed by making the substitution in par. (3) to reflect the probable intent of Congress.
+
 2003—Subsecs. (c) to (e). Pub. L. 108–136 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 2002—Subsec. (d). Pub. L. 107–314 amended Pub. L. 106–398, § 1 [[div. A], title VI, § 612(c)(4)(B)]. See 2000 Amendment note below.
@@ -1149,7 +1156,12 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 114–92, div. A, title VI, §§ 632(e)(1), 635, Nov. 25, 2015, 129 Stat. 847, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended by striking subsection (d) and redesignating subsection (e) as subsection (d). See 2015 Amendment note below.
+
 #### Amendments
+2015—Subsecs. (d), (e). Pub. L. 114–92 redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to agency contributions for retention in critical specialties and first-time enlistees.
+
 2008—Subsec. (e). Pub. L. 110–181 added subsec. (e).
 
 2006—Subsec. (d). Pub. L. 109–163, § 605(b), inserted “and First-Time Enlistees” after “Specialties” in heading.
@@ -1160,6 +1172,9 @@ Subsec. (d)(2) to (4). Pub. L. 109–163, § 605(a)(2)–(4), substituted “mem
 
 1999—Subsec. (d). Pub. L. 106–65, § 662, added subsec. (d).
 
+#### Effective Date of 2015 Amendment; Implementation
+Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under [section 8432 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8432&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date
 Section and amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless postponed, see section 663 of Pub. L. 106–65, as amended, set out as a note under [section 8440e of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8440e&num=0&edition=prelim), Government Organization and Employees.
 
@@ -1169,10 +1184,15 @@ Pub. L. 109–163, div. A, title VI, § 606, Jan. 6, 2006, 119 Stat. 3287, as am
 
 <a id="section-212"></a>
 ## § 212. Advancement of basic pay: members deployed in combat zone for more than one year
-**(a) Eligibility; Amount Advanced.—** If a member of the armed forces is assigned to duty in an area for which special pay under [section 310 of this title](./chapter-005-special-and-incentive-pays.md#section-310) is available and the assignment is pursuant to orders specifying an assignment of one year or more (or the assignment is extended beyond one year), the member may request, during the period of the assignment, the advanced payment of not more than three months of the basic pay of the member.
+**(a) Eligibility; Amount Advanced.—** If a member of the armed forces is assigned to duty in an area for which special pay under section 310, or paragraph (1) or (3) of section 351(a), of this title is available and the assignment is pursuant to orders specifying an assignment of one year or more (or the assignment is extended beyond one year), the member may request, during the period of the assignment, the advanced payment of not more than three months of the basic pay of the member.
 
 **(b) Consideration of Request.—** A request by a member described in subsection (a) for the advanced payment of a single month of basic pay shall be granted. The Secretary concerned may grant a member’s request for a second or third month of advanced basic pay during the assignment upon a showing of financial hardship.
 
 **(c) Recoupment of Advanced Pay.—** The Secretary concerned shall recoup an advance made on the basic pay of a member under this section in equal installments over a one-year period beginning as provided in subsection (d). If the member is serving on active duty for any month during the recoupment period, the amount of the installment for the month shall be deducted from the basic pay of the member for that month. The estate of a deceased member shall not be required to repay any portion of the advanced pay paid to the member and not repaid before the death of the member.
 
 **(d) Commencement of Recoupment.—** The recoupment period for an advancement of basic pay to a member under this section shall commence on the first day of the first month beginning on or after the date on which the member receives the advanced pay.
+
+### Statutory Notes
+
+#### Amendments
+2016—Subsec. (a). Pub. L. 114–328 inserted “, or paragraph (1) or (3) of section 351(a),” after “section 310”.

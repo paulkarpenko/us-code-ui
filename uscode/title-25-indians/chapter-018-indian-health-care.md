@@ -2,69 +2,19 @@
 title: 25
 chapter: '18'
 heading: INDIAN HEALTH CARE
-section_count: 163
+section_count: 165
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25&num=0&edition=prelim
 ---
 <a id="section-1601"></a>
-## § 1601. Omitted
+## § 1601. Indian Catastrophic Health Emergency Fund
 
-### Statutory Notes
-
-#### Codification
-Section, Pub. L. 104–134, title I, § 101(c) [title II], Apr. 26, 1996, 110 Stat. 1321–156, 1321–190; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, which provided that the Indian Health Service was to neither bill nor charge those Indians who may have economic means to pay unless and until Congress directs Service to implement policy to do so, was from the Department of the Interior and Related Agencies Appropriations Act, 1996, and was not repeated in subsequent appropriations acts. Provisions similar to those in this section were contained in the following prior appropriation acts:
-
-Pub. L. 103–332, title II, Sept. 30, 1994, 108 Stat. 2529.
-
-Pub. L. 103–138, title II, Nov. 11, 1993, 107 Stat. 1409.
-
-Pub. L. 102–381, title II, Oct. 5, 1992, 106 Stat. 1409.
-
-Pub. L. 102–154, title II, Nov. 13, 1991, 105 Stat. 1027.
-
-Pub. L. 101–512, title II, Nov. 5, 1990, 104 Stat. 1952.
-
-Pub. L. 101–121, title II, Oct. 23, 1989, 103 Stat. 734.
-
-Pub. L. 100–446, title II, Sept. 27, 1988, 102 Stat. 1816.
-
-Pub. L. 100–202, § 101(g) [title II], Dec. 22, 1987, 101 Stat. 1329–213, 1329–245.
-
-Pub. L. 99–500, § 101(h) [title II], Oct. 18, 1986, 100 Stat. 1783–242, 1783–277, and Pub. L. 99–591, § 101(h) [title II], Oct. 30, 1986, 100 Stat. 3341–242, 3341–277.
-
-Pub. L. 99–190, § 101(d) [title II], Dec. 19, 1985, 99 Stat. 1224, 1256.
-
-Pub. L. 98–473, title I, § 101(c) [title II], Oct. 12, 1984, 98 Stat. 1837, 1865.
-
-
-<a id="section-1602"></a>
-## § 1602. Subrogation of claims by Indian Health Service
-
-On and after October 18, 1986, the Indian Health Service may seek subrogation of claims including but not limited to auto accident claims, including no-fault claims, personal injury, disease, or disability claims, and worker’s compensation claims, the proceeds of which shall be credited to the funds established by sections 401 and 402 11 See References in Text note below. of the Indian Health Care Improvement Act.
+$10,000,000 shall remain available until expended, for the establishment of an Indian Catastrophic Health Emergency Fund (hereinafter referred to as the “Fund”). On and after October 18, 1986, the Fund is to cover the Indian Health Service portion of the medical expenses of catastrophic illness falling within the responsibility of the Service and shall be administered by the Secretary of Health and Human Services, acting through the central office of the Indian Health Service. No part of the Fund or its administration shall be subject to contract or grant under the Indian Self-Determination and Education Assistance Act (Public Law 93–638) [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.]. There shall be deposited into the Fund all amounts recovered under the authority of the Federal Medical Care Recovery Act ([42 U.S.C. 2651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2651&num=0&edition=prelim) et seq.), which shall become available for obligation upon receipt and which shall remain available for obligation until expended. The Fund shall not be used to pay for health services provided to eligible Indians to the extent that alternate Federal, State, local, or private insurance resources for payment: (1) are available and accessible to the beneficiary; or (2) would be available and accessible if the beneficiary were to apply for them; or (3) would be available and accessible to other citizens similarly situated under Federal, State, or local law or regulation or private insurance program notwithstanding Indian Health Service eligibility or residency on or off a Federal Indian reservation.
 
 ### Statutory Notes
 
 #### References in Text
-Sections 401 and 402 of the Indian Health Care Improvement Act, referred to in text, probably means former sections 401 and 402 of Pub. L. 94–437, title IV, Sept. 30, 1976, 90 Stat. 1408, 1409, which enacted sections 1395qq and 1396j of Title 42, The Public Health and Welfare, amended sections 1395f, 1395n, and 1396d of Title 42, and enacted provisions set out as notes under sections 1395qq and 1396j of Title 42. Sections 401 and 402 of the Act were amended generally by section 401(a), (b)(1) of Pub. L. 102–573, title IV, Oct. 29, 1992, 106 Stat. 4565, and by section 10221(a) of Pub. L. 111–148, title X, Mar. 23, 2010, 124 Stat. 935, and are classified to sections 1641 and 1642 of this title, respectively.
-
-#### Codification
-Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
-
-Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1987, as enacted by Pub. L. 99–500 and Pub. L. 99–591, and not as part of the Indian Health Care Improvement Act which comprises this chapter.
-
-#### Prior Provisions
-A prior section 1682, Pub. L. 98–473, title I, § 101(c) [title II], Oct. 12, 1984, 98 Stat. 1837, 1865, which related to subrogation of claims by Indian Health Service, was omitted as superseded by section 101(h) [title II] of Pub. L. 99–500 and Pub. L. 99–591.
-
-
-<a id="section-1603"></a>
-## § 1603. Indian Catastrophic Health Emergency Fund
-
-$10,000,000 shall remain available until expended, for the establishment of an Indian Catastrophic Health Emergency Fund (hereinafter referred to as the “Fund”). On and after October 18, 1986, the Fund is to cover the Indian Health Service portion of the medical expenses of catastrophic illness falling within the responsibility of the Service and shall be administered by the Secretary of Health and Human Services, acting through the central office of the Indian Health Service. No part of the Fund or its administration shall be subject to contract or grant under the Indian Self-Determination and Education Assistance Act (Public Law 93–638) [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.]. There shall be deposited into the Fund all amounts recovered under the authority of the Federal Medical Care Recovery Act ([42 U.S.C. 2651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2651&num=0&edition=prelim) et seq.), which shall become available for obligation upon receipt and which shall remain available for obligation until expended. The Fund shall not be used to pay for health services provided to eligible Indians to the extent that alternate Federal, State, local, or private insurance resources for payment: (1) are available and accessible to the beneficiary; or (2) would be available and accessible if the beneficiary were to apply for them; or (3) would be available and accessible to other citizens similarly situated under Federal, State, or local law or regulation or private insurance program notwithstanding Indian Health Service eligibility or residency on or off a Federal Indian reservation.
-
-### Statutory Notes
-
-#### References in Text
-The Indian Self-Determination and Education Assistance Act (Public Law 93–638), referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act (Public Law 93–638), referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 The Federal Medical Care Recovery Act ([42 U.S.C. 2651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2651&num=0&edition=prelim) et seq.), referred to in text, probably means Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§ 2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
@@ -72,6 +22,167 @@ The Federal Medical Care Recovery Act ([42 U.S.C. 2651](https://uscode.house.gov
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1987, as enacted by Pub. L. 99–500 and Pub. L. 99–591, and not as part of the Indian Health Care Improvement Act which comprises this chapter.
+
+
+<a id="section-1602"></a>
+## § 1602. Emergency plan for Indian safety and health
+**(a) Establishment of Fund** There is established in the Treasury of the United States a fund, to be known as the “Emergency Fund for Indian Safety and Health” (referred to in this section as the “Fund”), consisting of such amounts as are appropriated to the Fund under subsection (b).
+
+**(b) Transfers to Fund**
+
+(1) **In general** — There is authorized to be appropriated to the Fund, out of funds of the Treasury not otherwise appropriated, $1,602,619,000 for the 5-year period beginning on October 1, 2008.
+
+(2) **Availability of amounts** — Amounts deposited in the Fund under this section shall—
+
+  (A) be made available without further appropriation;
+
+  (B) be in addition to amounts made available under any other provision of law; and
+
+  (C) remain available until expended.
+
+**(c) Expenditures from Fund** On request by the Attorney General, the Secretary of the Interior, or the Secretary of Health and Human Services, the Secretary of the Treasury shall transfer from the Fund to the Attorney General, the Secretary of the Interior, or the Secretary of Health and Human Services, as appropriate, such amounts as the Attorney General, the Secretary of the Interior, or the Secretary of Health and Human Services determines to be necessary to carry out the emergency plan under subsection (f).
+
+**(d) Transfers of amounts**
+
+(1) **In general** — The amounts required to be transferred to the Fund under this section shall be transferred at least monthly from the general fund of the Treasury to the Fund on the basis of estimates made by the Secretary of the Treasury.
+
+(2) **Adjustments** — Proper adjustment shall be made in amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
+
+**(e) Remaining amounts** Any amounts remaining in the Fund on September 30 of an applicable fiscal year may be used by the Attorney General, the Secretary of the Interior, or the Secretary of Health and Human Services to carry out the emergency plan under subsection (f) for any subsequent fiscal year.
+
+**(f) Emergency plan** Not later than 1 year after July 30, 2008, the Attorney General, the Secretary of the Interior, and the Secretary of Health and Human Services, in consultation with Indian tribes (as defined in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](./chapter-014-miscellaneous.md#section-450b))),11 See References in Text note below. shall jointly establish an emergency plan that addresses law enforcement, water, and health care needs of Indian tribes under which, for each of fiscal years 2010 through 2019, of amounts in the Fund—
+
+(1) the Attorney General shall use—
+
+  (A) 18.5 percent for the construction, rehabilitation, and replacement of Federal Indian detention facilities;
+
+  (B) 1.5 percent to investigate and prosecute crimes in Indian country (as defined in [section 1151 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1151&num=0&edition=prelim));
+
+  (C) 1.5 percent for use by the Office of Justice Programs for Indian and Alaska Native programs; and
+
+  (D) 0.5 percent to provide assistance to—
+
+    (i) parties to cross-deputization or other cooperative agreements between State or local governments and Indian tribes (as defined in [section 5130 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5130)) carrying out law enforcement activities in Indian country; and
+
+    (ii) the State of Alaska (including political subdivisions of that State) for carrying out the Village Public Safety Officer Program and law enforcement activities on Alaska Native land (as defined in [section 3902 of this title](./chapter-041-indian-lands-open-dump-cleanup.md#section-3902));
+
+(2) the Secretary of the Interior shall—
+
+  (A) deposit 15.5 percent in the public safety and justice account of the Bureau of Indian Affairs for use by the Office of Justice Services of the Bureau in providing law enforcement or detention services, directly or through contracts or compacts with Indian tribes under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.);1 and
+
+  (B) use not more than $602,619,000 to implement requirements of Indian water settlement agreements that are approved by Congress (or the legislation to implement such an agreement) under which the United States shall plan, design, rehabilitate, or construct, or provide financial assistance for the planning, design, rehabilitation, or construction of, water supply or delivery infrastructure that will serve an Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](./chapter-014-miscellaneous.md#section-450b)));1 and
+
+(3) the Secretary of Health and Human Services, acting through the Director of the Indian Health Service, shall use 12.5 percent to provide, directly or through contracts or compacts with Indian tribes under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.)—1
+
+  (A) contract health services;
+
+  (B) construction, rehabilitation, and replacement of Indian health facilities; and
+
+  (C) domestic and community sanitation facilities serving members of Indian tribes (as defined in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](./chapter-014-miscellaneous.md#section-450b))) 1 pursuant to [section 2004a of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2004a&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (f), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. Section 4 of the Act was classified to [section 450b of this title](./chapter-014-miscellaneous.md#section-450b) prior to editorial reclassification as [section 5304 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5304). For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
+
+#### Codification
+Section was enacted as part of the Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008, and not as part of the Indian Health Care Improvement Act which comprises this chapter.
+
+Section was formerly classified to [section 443c of this title](./chapter-014-miscellaneous.md#section-443c) prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2010—Subsec. (b)(1). Pub. L. 111–291, § 831(1), substituted “$1,602,619,000” for “$2,000,000,000”.
+
+Subsec. (f)(2)(B). Pub. L. 111–291, § 831(2), substituted “not more than $602,619,000” for “50 percent”.
+
+
+<a id="section-1603"></a>
+## § 1603. Service of traditional foods in public facilities
+**(a) Purposes** The purposes of this section are—
+
+(1) to provide access to traditional foods in food service programs;
+
+(2) to encourage increased consumption of traditional foods to decrease health disparities among Indians, particularly Alaska Natives; and
+
+(3) to provide alternative food options for food service programs.
+
+**(b) Definitions** In this section:
+
+(1) **Alaska Native** — The term “Alaska Native” means a person who is a member of any Native village, Village Corporation, or Regional Corporation (as those terms are defined in [section 1602 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim)).
+
+(2) **Commissioner** — The term “Commissioner” means the Commissioner of Food and Drugs.
+
+(3) **Food service program** — The term “food service program” includes—
+
+  (A) food service at residential child care facilities that have a license from an appropriate State agency;
+
+  (B) any child nutrition program (as that term is defined in [section 1769f(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1769f/b&num=0&edition=prelim));
+
+  (C) food service at hospitals, clinics, and long-term care facilities; and
+
+  (D) senior meal programs.
+
+(4) **Indian; Indian tribe** — The terms “Indian” and “Indian tribe” have the meanings given those terms in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](./chapter-014-miscellaneous.md#section-450b)).11 See References in Text note below.
+
+(5) **Traditional food**
+
+  (A) *In general* — The term “traditional food” means food that has traditionally been prepared and consumed by an Indian tribe.
+
+  (B) *Inclusions* — The term “traditional food” includes—
+
+    (i) wild game meat;
+
+    (ii) fish;
+
+    (iii) seafood;
+
+    (iv) marine mammals;
+
+    (v) plants; and
+
+    (vi) berries.
+
+(6) **Tribal organization** — The term “tribal organization” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](./chapter-014-miscellaneous.md#section-450b)).1
+
+**(c) Program** The Secretary and the Commissioner shall allow the donation to and serving of traditional food through food service programs at public facilities and nonprofit facilities, including facilities operated by Indian tribes and facilities operated by tribal organizations, that primarily serve Indians if the operator of the food service program—
+
+(1) ensures that the food is received whole, gutted, gilled, as quarters, or as a roast, without further processing;
+
+(2) makes a reasonable determination that—
+
+  (A) the animal was not diseased;
+
+  (B) the food was butchered, dressed, transported, and stored to prevent contamination, undesirable microbial growth, or deterioration; and
+
+  (C) the food will not cause a significant health hazard or potential for human illness;
+
+(3) carries out any further preparation or processing of the food at a different time or in a different space from the preparation or processing of other food for the applicable program to prevent cross-contamination;
+
+(4) cleans and sanitizes food-contact surfaces of equipment and utensils after processing the traditional food;
+
+(5) labels donated traditional food with the name of the food;
+
+(6) stores the traditional food separately from other food for the applicable program, including through storage in a separate freezer or refrigerator or in a separate compartment or shelf in the freezer or refrigerator;
+
+(7) follows Federal, State, local, county, tribal, or other non-Federal law regarding the safe preparation and service of food in public or nonprofit facilities; and
+
+(8) follows other such criteria as established by the Secretary and Commissioner.
+
+**(d) Liability**
+
+(1) **In general** — The United States, an Indian tribe, and a tribal organization shall not be liable in any civil action for any damage, injury, or death caused to any person by the donation to or serving of traditional foods through food service programs.
+
+(2) **Rule of construction** — Nothing in paragraph (1) alters any liability or other obligation of the United States under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 1450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1450&num=0&edition=prelim) et seq.).1
+
+### Statutory Notes
+
+#### References in Text
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (b)(4), (6) and (d)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. Section 4 of the Act was classified to [section 450b of this title](./chapter-014-miscellaneous.md#section-450b) prior to editorial reclassification as [section 5304 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5304). For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
+
+#### Codification
+Section was enacted as part of the Agricultural Act of 2014, and not as part of the Indian Health Care Improvement Act which comprises this chapter.
+
+Section was formerly classified to [section 443d of this title](./chapter-014-miscellaneous.md#section-443d) prior to editorial reclassification and renumbering as this section.
 
 
 <a id="section-1611"></a>
@@ -364,9 +475,9 @@ In this chapter:
 
 (24) **Tribal college or university** — The term “tribal college or university” has the meaning given the term in [section 1059c(b) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059c/b&num=0&edition=prelim).
 
-(25) **Tribal health program** — The term “tribal health program” means an Indian tribe or tribal organization that operates any health program, service, function, activity, or facility funded, in whole or part, by the Service through, or provided for in, a contract or compact with the Service under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.).
+(25) **Tribal health program** — The term “tribal health program” means an Indian tribe or tribal organization that operates any health program, service, function, activity, or facility funded, in whole or part, by the Service through, or provided for in, a contract or compact with the Service under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.).1
 
-(26) **Tribal organization** — The term “tribal organization” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](./chapter-014-miscellaneous.md#section-450b)).
+(26) **Tribal organization** — The term “tribal organization” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](./chapter-014-miscellaneous.md#section-450b)).1
 
 (27) **Urban center** — The term “Urban center” means any community which has a sufficient urban Indian population with unmet health needs to warrant assistance under subchapter IV, as determined by the Secretary.
 
@@ -385,7 +496,7 @@ The Alaska Native Claims Settlement Act, referred to in pars. (14) and (16)(B)(i
 
 [Section 1058(e) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1058/e&num=0&edition=prelim), referred to in par. (15), probably means [section 1058(f) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1058/f&num=0&edition=prelim), which defines “junior or community college”. [Section 1058(e) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1058/e&num=0&edition=prelim) was redesignated [section 1058(f) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1058/f&num=0&edition=prelim) by Pub. L. 105–244, title III, § 303(b)(1), Oct. 7, 1998, 112 Stat. 1639.
 
-The Indian Self-Determination and Education Assistance Act, referred to in par. (25), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in pars. (25) and (26), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. Section 4 of the Act was classified to [section 450b of this title](./chapter-014-miscellaneous.md#section-450b) prior to editorial reclassification as [section 5304 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5304). For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 Subsection (g) hereof, referred to in par. (28), was redesignated par. (27) of this section by section 10221(a) of Pub. L. 111–148.
 
@@ -528,9 +639,9 @@ Subsec. (d). Pub. L. 96–537, § 3(b)(2), substituted provisions authorizing ap
 
 **(b) Recipients; active duty service obligation**
 
-(1) The Secretary, acting through the Service, shall determine who shall receive scholarships under subsection (a) of this section and shall determine the distribution of such scholarships among such health professions on the basis of the relative needs of Indians for additional service in such health professions.
+(1) The Secretary, acting through the Service, shall determine who shall receive scholarships under subsection (a) and shall determine the distribution of such scholarships among such health professions on the basis of the relative needs of Indians for additional service in such health professions.
 
-(2) An individual shall be eligible for a scholarship under subsection (a) of this section in any year in which such individual is enrolled full or part time in a course of study referred to in subsection (a) of this section.
+(2) An individual shall be eligible for a scholarship under subsection (a) in any year in which such individual is enrolled full or part time in a course of study referred to in subsection (a) of this section.
 
 (3)
 
@@ -538,7 +649,7 @@ Subsec. (d). Pub. L. 96–537, § 3(b)(2), substituted provisions authorizing ap
 
     (i) in the Indian Health Service;
 
-    (ii) in a program conducted under a contract entered into under the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.];
+    (ii) in a program conducted under a contract entered into under the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.];
 
     (iii) in a program assisted under subchapter IV of this chapter; 11 So in original. Probably should be followed by “or”.
 
@@ -606,7 +717,7 @@ Subsec. (d). Pub. L. 96–537, § 3(b)(2), substituted provisions authorizing ap
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in subsec. (b)(3)(A)(ii), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in subsec. (b)(3)(A)(ii), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Prior Provisions
 A prior section 104 of Pub. L. 94–437, title I, Sept. 30, 1976, 90 Stat. 1403, amended former [section 234 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section234&num=0&edition=prelim), The Public Health and Welfare.
@@ -762,7 +873,7 @@ Subsec. (b)(5). Pub. L. 102–573, § 105(3), substituted “maintain” for “
 
     (ii) by any Indian tribe or tribal or Indian organization pursuant to a contract under—
 
-      (I) the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.], or
+      (I) the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.], or
 
       (II) section 23 of the Act of April 30, 1908 11 See References in Text note below. ([25 U.S.C. 47](./chapter-002-officers-of-indian-affairs.md#section-47)), popularly known as the “Buy-Indian” Act; or
 
@@ -796,11 +907,11 @@ Subsec. (b)(5). Pub. L. 102–573, § 105(3), substituted “maintain” for “
 
   (D) be employed in an Indian health program without a service obligation; and
 
-(3) submit to the Secretary an application for a contract described in subsection (f) of this section.
+(3) submit to the Secretary an application for a contract described in subsection (f).
 
 **(c) Application and contract forms**
 
-(1) In disseminating application forms and contract forms to individuals desiring to participate in the Loan Repayment Program, the Secretary shall include with such forms a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under subsection (l) of this section in the case of the individual’s breach of the contract. The Secretary shall provide such individuals with sufficient information regarding the advantages and disadvantages of service as a commissioned officer in the Regular or Reserve Corps of the Public Health Service or a civilian employee of the Indian Health Service to enable the individual to make a decision on an informed basis.
+(1) In disseminating application forms and contract forms to individuals desiring to participate in the Loan Repayment Program, the Secretary shall include with such forms a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under subsection (l) in the case of the individual’s breach of the contract. The Secretary shall provide such individuals with sufficient information regarding the advantages and disadvantages of service as a commissioned officer in the Regular or Reserve Corps of the Public Health Service or a civilian employee of the Indian Health Service to enable the individual to make a decision on an informed basis.
 
 (2) The application form, contract form, and all other information furnished by the Secretary under this section shall be written in a manner calculated to be understood by the average individual applying to participate in the Loan Repayment Program.
 
@@ -808,7 +919,7 @@ Subsec. (b)(5). Pub. L. 102–573, § 105(3), substituted “maintain” for “
 
 **(d) Vacancies; priority**
 
-(1) Consistent with paragraph (3), the Secretary, acting through the Service and in accordance with subsection (k) of this section, shall annually—
+(1) Consistent with paragraph (3), the Secretary, acting through the Service and in accordance with subsection (k), shall annually—
 
   (A) identify the positions in each Indian health program for which there is a need or a vacancy, and
 
@@ -832,7 +943,7 @@ Subsec. (b)(5). Pub. L. 102–573, § 105(3), substituted “maintain” for “
 
 **(e) Approval**
 
-(1) An individual becomes a participant in the Loan Repayment Program only upon the Secretary and the individual entering into a written contract described in subsection (f) of this section.
+(1) An individual becomes a participant in the Loan Repayment Program only upon the Secretary and the individual entering into a written contract described in subsection (f).
 
 (2) The Secretary shall provide written notice to an individual promptly on—
 
@@ -854,9 +965,9 @@ Subsec. (b)(5). Pub. L. 102–573, § 105(3), substituted “maintain” for “
 
     (i) to accept loan payments on behalf of the individual;
 
-    (ii) in the case of an individual described in subsection (b)(1) of this section—
+    (ii) in the case of an individual described in subsection (b)(1)—
 
-      (I) to maintain enrollment in a course of study or training described in subsection (b)(1)(A) of this section until the individual completes the course of study or training, and
+      (I) to maintain enrollment in a course of study or training described in subsection (b)(1)(A) until the individual completes the course of study or training, and
 
       (II) while enrolled in such course of study or training, to maintain an acceptable level of academic standing (as determined under regulations of the Secretary by the educational institution offering such course of study or training);
 
@@ -866,7 +977,7 @@ Subsec. (b)(5). Pub. L. 102–573, § 105(3), substituted “maintain” for “
 
 (3) a provision that any financial obligation of the United States arising out of a contract entered into under this section and any obligation of the individual which is conditioned thereon is contingent upon funds being appropriated for loan repayments under this section;
 
-(4) a statement of the damages to which the United States is entitled under subsection (l) of this section for the individual’s breach of the contract; and
+(4) a statement of the damages to which the United States is entitled under subsection (l) for the individual’s breach of the contract; and
 
 (5) such other statements of the rights and liabilities of the Secretary and of the individual, not inconsistent with this section.
 
@@ -882,7 +993,7 @@ Subsec. (b)(5). Pub. L. 102–573, § 105(3), substituted “maintain” for “
 
 (2)
 
-  (A) For each year of obligated service that an individual contracts to serve under subsection (f) of this section the Secretary may pay up to $35,000 (or an amount equal to the amount specified in section 254l–1(g)(2)(A) of title 42) on behalf of the individual for loans described in paragraph (1). In making a determination of the amount to pay for a year of such service by an individual, the Secretary shall consider the extent to which each such determination—
+  (A) For each year of obligated service that an individual contracts to serve under subsection (f) the Secretary may pay up to $35,000 (or an amount equal to the amount specified in section 254l–1(g)(2)(A) of title 42) on behalf of the individual for loans described in paragraph (1). In making a determination of the amount to pay for a year of such service by an individual, the Secretary shall consider the extent to which each such determination—
 
     (i) affects the ability of the Secretary to maximize the number of contracts that can be provided under the Loan Repayment Program from the amounts appropriated for such contracts;
 
@@ -902,7 +1013,7 @@ Subsec. (b)(5). Pub. L. 102–573, § 105(3), substituted “maintain” for “
 
 **(h) Effect on employment ceiling of Department of Health and Human Services** Notwithstanding any other provision of law, individuals who have entered into written contracts with the Secretary under this section, while undergoing academic training, shall not be counted against any employment ceiling affecting the Department of Health and Human Services.
 
-**(i) Recruiting programs** The Secretary shall conduct recruiting programs for the Loan Repayment Program and other health professional programs of the Service at educational institutions training health professionals or specialists identified in subsection (a) of this section.
+**(i) Recruiting programs** The Secretary shall conduct recruiting programs for the Loan Repayment Program and other health professional programs of the Service at educational institutions training health professionals or specialists identified in subsection (a).
 
 **(j) Prohibition of assignment to other government departments** [Section 215 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section215&num=0&edition=prelim) shall not apply to individuals during their period of obligated service under the Loan Repayment Program.
 
@@ -924,10 +1035,10 @@ Subsec. (b)(5). Pub. L. 102–573, § 105(3), substituted “maintain” for “
 
     (iii) is dismissed from such educational institution before completion of such course of study; or
 
-  (B) is enrolled in a graduate training program, fails to complete such training program, and does not receive a waiver from the Secretary under subsection (b)(1)(B)(ii) of this section,
+  (B) is enrolled in a graduate training program, fails to complete such training program, and does not receive a waiver from the Secretary under subsection (b)(1)(B)(ii),
   shall be liable, in lieu of any service obligation arising under such contract, to the United States for the amount which has been paid on such individual’s behalf under the contract.
 
-(2) If, for any reason not specified in paragraph (1), an individual breaches his written contract under this section by failing either to begin, or complete, such individual’s period of obligated service in accordance with subsection (f) of this section, the United States shall be entitled to recover from such individual an amount to be determined in accordance with the following formula:
+(2) If, for any reason not specified in paragraph (1), an individual breaches his written contract under this section by failing either to begin, or complete, such individual’s period of obligated service in accordance with subsection (f), the United States shall be entitled to recover from such individual an amount to be determined in accordance with the following formula:
 A=3Z(t-s/t)
 in which—
 
@@ -935,7 +1046,7 @@ in which—
 
 (B) “Z” is the sum of the amounts paid under this section to, or on behalf of, the individual and the interest on such amounts which would be payable if, at the time the amounts were paid, they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States;
 
-(C) “t” is the total number of months in the individual’s period of obligated service in accordance with subsection (f) of this section; and
+(C) “t” is the total number of months in the individual’s period of obligated service in accordance with subsection (f); and
 
 (D) “s” is the number of months of such period served by such individual in accordance with this section.
 Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to [section 1395ccc of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395ccc&num=0&edition=prelim).
@@ -968,7 +1079,7 @@ Amounts not paid within such period shall be subject to collection through deduc
 
 (2) the number of Loan Repayment Program applications filed with respect to each type of health profession;
 
-(3) the number of contracts described in subsection (f) of this section that are entered into with respect to each health profession;
+(3) the number of contracts described in subsection (f) that are entered into with respect to each health profession;
 
 (4) the amount of loan payments made under this section, in total and by health profession;
 
@@ -983,7 +1094,7 @@ Amounts not paid within such period shall be subject to collection through deduc
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in subsec. (a)(2)(A)(ii)(I), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in subsec. (a)(2)(A)(ii)(I), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 Section 23 of the Act of April 30, 1908, referred to in subsec. (a)(2)(A)(ii)(II), probably should be a reference to section 23 of act June 25, 1910, ch. 431, 36 Stat. 861, which is popularly known as the “Buy Indian Act”, and is classified to [section 47 of this title](./chapter-002-officers-of-indian-affairs.md#section-47). Act Apr. 30, 1908, ch. 153, 35 Stat. 70, does not contain a section 23 but does have provisions (at 35 Stat. 71) similar to those in section 23 of act June 25, 1910, ch. 431, 36 Stat. 861.
 
@@ -1034,7 +1145,7 @@ Pub. L. 102–573, title I, § 106(g)(2), Oct. 29, 1992, 106 Stat. 4537, provide
 
 <a id="section-1616d"></a>
 ## § 1616d. Scholarship and Loan Repayment Recovery Fund
-**(a) Establishment** There is established in the Treasury of the United States a fund to be known as the Indian Health Scholarship and Loan Repayment Recovery Fund (hereafter in this section referred to as the “Fund”). The Fund shall consist of such amounts as may be appropriated to the Fund under subsection (b) of this section. Amounts appropriated for the Fund shall remain available until expended.
+**(a) Establishment** There is established in the Treasury of the United States a fund to be known as the Indian Health Scholarship and Loan Repayment Recovery Fund (hereafter in this section referred to as the “Fund”). The Fund shall consist of such amounts as may be appropriated to the Fund under subsection (b). Amounts appropriated for the Fund shall remain available until expended.
 
 **(b) Authorization of appropriations** For each fiscal year, there is authorized to be appropriated to the Fund an amount equal to the sum of—
 
@@ -1044,11 +1155,11 @@ Pub. L. 102–573, title I, § 106(g)(2), Oct. 29, 1992, 106 Stat. 4537, provide
 
   (B) the liability of individuals under section 1616a(l) of this title for the breach of contracts entered into under [section 1616a of this title](./chapter-018-indian-health-care.md#section-1616a); and
 
-(2) the aggregate amount of interest accruing during the preceding fiscal year on obligations held in the Fund pursuant to subsection (d) of this section and the amount of proceeds from the sale or redemption of such obligations during such fiscal year.
+(2) the aggregate amount of interest accruing during the preceding fiscal year on obligations held in the Fund pursuant to subsection (d) and the amount of proceeds from the sale or redemption of such obligations during such fiscal year.
 
 **(c) Use of funds**
 
-(1) Amounts in the Fund and available pursuant to appropriation Acts may be expended by the Secretary, acting through the Service, to make payments to an Indian tribe or tribal organization administering a health care program pursuant to a contract entered into under the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.]—
+(1) Amounts in the Fund and available pursuant to appropriation Acts may be expended by the Secretary, acting through the Service, to make payments to an Indian tribe or tribal organization administering a health care program pursuant to a contract entered into under the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.]—
 
   (A) to which a scholarship recipient under [section 1613a of this title](./chapter-018-indian-health-care.md#section-1613a) or a loan repayment program participant under [section 1616a of this title](./chapter-018-indian-health-care.md#section-1616a) has been assigned to meet the obligated service requirements pursuant to 11 So in original. Probably should be “to such”. sections; and
 
@@ -1065,7 +1176,7 @@ Pub. L. 102–573, title I, § 106(g)(2), Oct. 29, 1992, 106 Stat. 4537, provide
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in subsec. (c)(1), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in subsec. (c)(1), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 
 <a id="section-1616e"></a>
@@ -1090,12 +1201,12 @@ Subsec. (b). Pub. L. 102–573, § 107(2), amended subsec. (b) generally. Prior 
 
 (1) Any Indian tribe or tribal or Indian organization may submit an application for funding of a project pursuant to this section.
 
-(2) Indian tribes and tribal and Indian organizations under the authority of the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.] shall be given an equal opportunity with programs that are administered directly by the Service to compete for, and receive, grants under subsection (a) of this section for such projects.
+(2) Indian tribes and tribal and Indian organizations under the authority of the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.] shall be given an equal opportunity with programs that are administered directly by the Service to compete for, and receive, grants under subsection (a) for such projects.
 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in subsec. (b)(2), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in subsec. (b)(2), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Amendments
 1992—Subsec. (c). Pub. L. 102–573 struck out subsec. (c) which authorized appropriations for fiscal years 1990 to 1992.
@@ -1105,14 +1216,14 @@ The Indian Self-Determination Act, referred to in subsec. (b)(2), is title I of 
 ## § 1616f. Advanced training and research
 **(a) Establishment of program** The Secretary, acting through the Service, shall establish a program to enable health professionals to pursue advanced training or research in areas of study for which the Secretary determines a need exists. In selecting participants for a program established under this subsection, the Secretary, acting through the Service, shall give priority to applicants who are employed by the Indian Health Service, Indian tribes, tribal organizations, and urban Indian organizations, at the time of the submission of the applications.
 
-**(b) Obligated service** An individual who participates in a program under subsection (a) of this section, where the educational costs are borne by the Service, shall incur an obligation to serve in an Indian health program (as defined in [section 1616a(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1616a/a/2&num=0&edition=prelim)) for a period of obligated service equal to at least the period of time during which the individual participates in such program. In the event that the individual fails to complete such obligated service, the individual shall be liable to the United States for the period of service remaining. In such event, with respect to individuals entering the program after October 29, 1992, the United States shall be entitled to recover from such individual an amount to be determined in accordance with the formula specified in subsection (l) of [section 1616a of this title](./chapter-018-indian-health-care.md#section-1616a) in the manner provided for in such subsection.
+**(b) Obligated service** An individual who participates in a program under subsection (a), where the educational costs are borne by the Service, shall incur an obligation to serve in an Indian health program (as defined in [section 1616a(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1616a/a/2&num=0&edition=prelim)) for a period of obligated service equal to at least the period of time during which the individual participates in such program. In the event that the individual fails to complete such obligated service, the individual shall be liable to the United States for the period of service remaining. In such event, with respect to individuals entering the program after October 29, 1992, the United States shall be entitled to recover from such individual an amount to be determined in accordance with the formula specified in subsection (l) of [section 1616a of this title](./chapter-018-indian-health-care.md#section-1616a) in the manner provided for in such subsection.
 
-**(c) Eligibility** Health professionals from Indian tribes and tribal and Indian organizations under the authority of the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.] shall be given an equal opportunity to participate in the program under subsection (a) of this section.
+**(c) Eligibility** Health professionals from Indian tribes and tribal and Indian organizations under the authority of the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.] shall be given an equal opportunity to participate in the program under subsection (a).
 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in subsec. (c), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in subsec. (c), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Amendments
 1994—Subsec. (a). Pub. L. 103–435, § 16(a)(1), struck out “who have worked in an Indian health program (as defined in [section 1616a(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1616a/a/2&num=0&edition=prelim)) for a substantial period of time” after “health professionals” and inserted at end “In selecting participants for a program established under this subsection, the Secretary, acting through the Service, shall give priority to applicants who are employed by the Indian Health Service, Indian tribes, tribal organizations, and urban Indian organizations, at the time of the submission of the applications.”
@@ -1135,7 +1246,7 @@ Subsec. (d). Pub. L. 102–573, § 108(2), struck out subsec. (d) which directed
 (3) nurse midwife programs, and nurse practitioner programs, that are provided by any public or private institution,
 for the purpose of increasing the number of nurses, nurse midwives, and nurse practitioners who deliver health care services to Indians.
 
-**(b) Purposes** Grants provided under subsection (a) of this section may be used to—
+**(b) Purposes** Grants provided under subsection (a) may be used to—
 
 (1) recruit individuals for programs which train individuals to be nurses, nurse midwives, or nurse practitioners,
 
@@ -1145,11 +1256,11 @@ for the purpose of increasing the number of nurses, nurse midwives, and nurse pr
 
 (4) provide a program that increases the skills of, and provides continuing education to, nurses, nurse midwives, and nurse practitioners, or
 
-(5) provide any program that is designed to achieve the purpose described in subsection (a) of this section.
+(5) provide any program that is designed to achieve the purpose described in subsection (a).
 
-**(c) Application** Each application for a grant under subsection (a) of this section shall include such information as the Secretary may require to establish the connection between the program of the applicant and a health care facility that primarily serves Indians.
+**(c) Application** Each application for a grant under subsection (a) shall include such information as the Secretary may require to establish the connection between the program of the applicant and a health care facility that primarily serves Indians.
 
-**(d) Preference** In providing grants under subsection (a) of this section, the Secretary shall extend a preference to—
+**(d) Preference** In providing grants under subsection (a), the Secretary shall extend a preference to—
 
 (1) programs that provide a preference to Indians,
 
@@ -1159,28 +1270,28 @@ for the purpose of increasing the number of nurses, nurse midwives, and nurse pr
 
 (4) programs that are conducted in cooperation with a center for gifted and talented Indian students established under section 2624(a) 1 of this title.
 
-**(e) Quentin N. Burdick American Indians Into Nursing Program** The Secretary shall provide one of the grants authorized under subsection (a) of this section to establish and maintain a program at the University of North Dakota to be known as the “Quentin N. Burdick American Indians Into Nursing Program”. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick Indian Health Programs established under [section 1616g(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1616g/b&num=0&edition=prelim) and the Quentin N. Burdick American Indians Into Psychology Program established under [section 1621p(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1621p/b&num=0&edition=prelim).
+**(e) Quentin N. Burdick American Indians Into Nursing Program** The Secretary shall provide one of the grants authorized under subsection (a) to establish and maintain a program at the University of North Dakota to be known as the “Quentin N. Burdick American Indians Into Nursing Program”. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick Indian Health Programs established under [section 1616g(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1616g/b&num=0&edition=prelim) and the Quentin N. Burdick American Indians Into Psychology Program established under [section 1621p(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1621p/b&num=0&edition=prelim).
 
-**(f) Service obligation** The active duty service obligation prescribed under [section 254m of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254m&num=0&edition=prelim) shall be met by each individual who receives training or assistance described in paragraph (1) or (2) of subsection (b) of this section that is funded by a grant provided under subsection (a) of this section. Such obligation shall be met by service—
+**(f) Service obligation** The active duty service obligation prescribed under [section 254m of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254m&num=0&edition=prelim) shall be met by each individual who receives training or assistance described in paragraph (1) or (2) of subsection (b) that is funded by a grant provided under subsection (a). Such obligation shall be met by service—
 
 (A) in the Indian Health Service;
 
-(B) in a program conducted under a contract entered into under the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.];
+(B) in a program conducted under a contract entered into under the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.];
 
 (C) in a program assisted under subchapter IV of this chapter; or
 
 (D) in the private practice of nursing if, as determined by the Secretary, in accordance with guidelines promulgated by the Secretary, such practice is situated in a physician or other health professional shortage area and addresses the health care needs of a substantial number of Indians.
 
-**(g) Authorization of appropriations** Beginning with fiscal year 1993, of the amounts appropriated under the authority of this subchapter for each fiscal year to be used to carry out this section, not less than $1,000,000 shall be used to provide grants under subsection (a) of this section for the training of nurse midwives, nurse anesthetists, and nurse practitioners.
+**(g) Authorization of appropriations** Beginning with fiscal year 1993, of the amounts appropriated under the authority of this subchapter for each fiscal year to be used to carry out this section, not less than $1,000,000 shall be used to provide grants under subsection (a) for the training of nurse midwives, nurse anesthetists, and nurse practitioners.
 
 ### Statutory Notes
 
 #### References in Text
 [Section 2397h of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2397h&num=0&edition=prelim), referred to in subsec. (a)(2), was omitted in the general amendment of chapter 44 (§ 2301 et seq.) of Title 20, Education, by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3076.
 
-[Section 2624 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2624&num=0&edition=prelim), referred to in subsec. (d)(4), was repealed by Pub. L. 103–382, title III, § 367, Oct. 20, 1994, 108 Stat. 3976. See [section 7454 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7454&num=0&edition=prelim), Education.
+[Section 2624 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2624&num=0&edition=prelim), referred to in subsec. (d)(4), was repealed by Pub. L. 103–382, title III, § 367, Oct. 20, 1994, 108 Stat. 3976.
 
-The Indian Self-Determination Act, referred to in subsec. (f)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in subsec. (f)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Amendments
 1992—Subsec. (a)(2). Pub. L. 102–573, § 114(a), inserted “and tribally controlled postsecondary vocational institutions (as defined in [section 2397h(2) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2397h/2&num=0&edition=prelim))” after “community colleges”.
@@ -1191,7 +1302,7 @@ Subsec. (g). Pub. L. 102–573, § 104(c), amended subsec. (g) generally. Prior 
 
 “(1) There are authorized to be appropriated for each of the fiscal years 1990, 1991, and 1992, $5,000,000 for the purpose of carrying out the provisions of this section.
 
-“(2) Of the amounts appropriated under the authority of paragraph (1) for each fiscal year, the Secretary shall use at least $1,000,000 to provide grants under subsection (a) of this section for the training of nurse midwives.”
+“(2) Of the amounts appropriated under the authority of paragraph (1) for each fiscal year, the Secretary shall use at least $1,000,000 to provide grants under subsection (a) for the training of nurse midwives.”
 
 Pub. L. 102–573, § 104(b)(1), redesignated subsec. (f) as (g).
 
@@ -1200,7 +1311,7 @@ Pub. L. 102–573, § 104(b)(1), redesignated subsec. (f) as (g).
 ## § 1616h. Nursing school clinics
 **(a) Grants** In addition to the authority of the Secretary under [section 1616e(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1616e/a/1&num=0&edition=prelim), the Secretary, acting through the Service, is authorized to provide grants to public or private schools of nursing for the purpose of establishing, developing, operating, and administering clinics to address the health care needs of Indians, and to provide primary health care services to Indians who reside on or within 50 miles of Indian country, as defined in [section 1151 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1151&num=0&edition=prelim).
 
-**(b) Purposes** Grants provided under subsection (a) of this section may be used to—
+**(b) Purposes** Grants provided under subsection (a) may be used to—
 
 (1) establish clinics, to be run and staffed by the faculty and students of a grantee school, to provide primary care services in areas in or within 50 miles of Indian country (as defined in [section 1151 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1151&num=0&edition=prelim));
 
@@ -1221,7 +1332,7 @@ Pub. L. 102–573, § 104(b)(1), redesignated subsec. (f) as (g).
 ## § 1616i. Tribal culture and history
 **(a) Program established** The Secretary, acting through the Service, shall establish a program under which appropriate employees of the Service who serve particular Indian tribes shall receive educational instruction in the history and culture of such tribes and in the history of the Service.
 
-**(b) Tribally controlled institutions** To the extent feasible, the program established under subsection (a) of this section shall—
+**(b) Tribally controlled institutions** To the extent feasible, the program established under subsection (a) shall—
 
 (1) be carried out through tribally controlled colleges or universities (within the meaning of [section 1801(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1801/a/4&num=0&edition=prelim)) and tribally controlled postsecondary vocational institutions (as defined in section 2397h(2) 11 See References in Text note below. of title 20),
 
@@ -1251,7 +1362,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 ## § 1616j. INMED program
 **(a) Grants** The Secretary is authorized to provide grants to at least 3 colleges and universities for the purpose of maintaining and expanding the Native American health careers recruitment program known as the “Indians into Medicine Program” (hereinafter in this section referred to as “INMED”) as a means of encouraging Indians to enter the health professions.
 
-**(b) University of North Dakota** The Secretary shall provide one of the grants authorized under subsection (a) of this section to maintain the INMED program at the University of North Dakota, to be known as the “Quentin N. Burdick Indian Health Programs”, unless the Secretary makes a determination, based upon program reviews, that the program is not meeting the purposes of this section. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick American Indians Into Psychology Program established under [section 1621p(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1621p/b&num=0&edition=prelim) and the Quentin N. Burdick American Indians Into Nursing Program established under [section 1616e(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1616e/e&num=0&edition=prelim).
+**(b) University of North Dakota** The Secretary shall provide one of the grants authorized under subsection (a) to maintain the INMED program at the University of North Dakota, to be known as the “Quentin N. Burdick Indian Health Programs”, unless the Secretary makes a determination, based upon program reviews, that the program is not meeting the purposes of this section. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick American Indians Into Psychology Program established under [section 1621p(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1621p/b&num=0&edition=prelim) and the Quentin N. Burdick American Indians Into Nursing Program established under [section 1616e(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1616e/e&num=0&edition=prelim).
 
 **(c) Regulations; contents of recruitment program**
 
@@ -1289,7 +1400,7 @@ Subsec. (e). Pub. L. 102–573, § 117(b)(6), struck out subsec. (e) which autho
 
 **(b) Eligibility**
 
-(1) The Secretary, acting through the Service, shall award grants to community colleges that have established a program described in subsection (a)(1) of this section for the purpose of maintaining the program and recruiting students for the program.
+(1) The Secretary, acting through the Service, shall award grants to community colleges that have established a program described in subsection (a)(1) for the purpose of maintaining the program and recruiting students for the program.
 
 (2) Grants may only be made under this section to a community college which—
 
@@ -1305,9 +1416,9 @@ Subsec. (e). Pub. L. 102–573, § 117(b)(6), struck out subsec. (e) which autho
 
   (D) has a qualified staff which has the appropriate certifications, and
 
-  (E) is capable of obtaining State or regional accreditation of the program described in subsection (a)(1) of this section.
+  (E) is capable of obtaining State or regional accreditation of the program described in subsection (a)(1).
 
-**(c) Agreements and technical assistance** The Secretary shall encourage community colleges described in subsection (b)(2) of this section to establish and maintain programs described in subsection (a)(1) of this section by—
+**(c) Agreements and technical assistance** The Secretary shall encourage community colleges described in subsection (b)(2) to establish and maintain programs described in subsection (a)(1) by—
 
 (1) entering into agreements with such colleges for the provision of qualified personnel of the Service to teach courses of study in such programs, and
 
@@ -1318,7 +1429,7 @@ Subsec. (e). Pub. L. 102–573, § 117(b)(6), struck out subsec. (e) which autho
 (1) has already received a degree or diploma in such health profession, and
 
 (2) provides clinical services on an Indian reservation, at a Service facility, or at a tribal clinic.
-Such courses of study may be offered in conjunction with the college or university with which the community college has entered into the agreement required under subsection (b)(2)(C) of this section.
+Such courses of study may be offered in conjunction with the college or university with which the community college has entered into the agreement required under subsection (b)(2)(C).
 
 **(e) Definitions** For purposes of this section—
 
@@ -1352,7 +1463,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 <a id="section-1616l"></a>
 ## § 1616l. Additional incentives for health professionals
-**(a) Incentive special pay** The Secretary may provide the incentive special pay authorized under [section 302(b) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section302/b&num=0&edition=prelim) to civilian medical officers of the Indian Health Service who are assigned to, and serving in, positions included in the list established under subsection (b)(1) of this section for which recruitment or retention of personnel is difficult.
+**(a) Incentive special pay** The Secretary may provide the incentive special pay authorized under [section 302(b) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section302/b&num=0&edition=prelim) to civilian medical officers of the Indian Health Service who are assigned to, and serving in, positions included in the list established under subsection (b)(1) for which recruitment or retention of personnel is difficult.
 
 **(b) List of positions; bonus pay**
 
@@ -1394,15 +1505,15 @@ Subsec. (e). Pub. L. 102–573, § 117(b)(8), struck out subsec. (e) which autho
 
 (4) enters into an agreement with the Service for continued employment for a period of not less than 1 year.
 
-**(b) Minimum award percentage to nurses** Beginning with fiscal year 1993, not less than 25 percent of the retention bonuses awarded each year under subsection (a) of this section shall be awarded to nurses.
+**(b) Minimum award percentage to nurses** Beginning with fiscal year 1993, not less than 25 percent of the retention bonuses awarded each year under subsection (a) shall be awarded to nurses.
 
-**(c) Rates; maximum rate** The Secretary may establish rates for the retention bonus which shall provide for a higher annual rate for multiyear agreements than for single year agreements referred to in subsection (a)(4) of this section, but in no event shall the annual rate be more than $25,000 per annum.
+**(c) Rates; maximum rate** The Secretary may establish rates for the retention bonus which shall provide for a higher annual rate for multiyear agreements than for single year agreements referred to in subsection (a)(4), but in no event shall the annual rate be more than $25,000 per annum.
 
-**(d) Time of payment** The retention bonus for the entire period covered by the agreement described in subsection (a)(4) of this section shall be paid at the beginning of the agreed upon term of service.
+**(d) Time of payment** The retention bonus for the entire period covered by the agreement described in subsection (a)(4) shall be paid at the beginning of the agreed upon term of service.
 
 **(e) Refund; interest** Any physician or nurse failing to complete the agreed upon term of service, except where such failure is through no fault of the individual, shall be obligated to refund to the Government the full amount of the retention bonus for the period covered by the agreement, plus interest as determined by the Secretary in accordance with section 1616a(l)(2)(B) of this title.
 
-**(f) Physicians and nurses employed under Indian Self-Determination Act** The Secretary may pay a retention bonus to any physician or nurse employed by an organization providing health care services to Indians pursuant to a contract under the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.] if such physician or nurse is serving in a position which the Secretary determines is—
+**(f) Physicians and nurses employed under Indian Self-Determination Act** The Secretary may pay a retention bonus to any physician or nurse employed by an organization providing health care services to Indians pursuant to a contract under the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.] if such physician or nurse is serving in a position which the Secretary determines is—
 
 (1) a position for which recruitment or retention is difficult; and
 
@@ -1411,7 +1522,7 @@ Subsec. (e). Pub. L. 102–573, § 117(b)(8), struck out subsec. (e) which autho
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in subsec. (f), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in subsec. (f), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Amendments
 1992—Subsecs. (b) to (f). Pub. L. 102–573 added subsec. (b), redesignated former subsecs. (b) to (e) as (c) to (f), respectively, and amended subsec. (f) generally, substituting provisions relating to physicians and nurses employed under the Indian Self-Determination Act for provisions which authorized appropriations for fiscal years 1990 to 1992.
@@ -1423,7 +1534,7 @@ The Indian Self-Determination Act, referred to in subsec. (f), is title I of Pub
 
 **(b) Program components** Such program shall include a combination of education and work study in an Indian health program (as defined in [section 1616a(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1616a/a/2/A&num=0&edition=prelim)) leading to an associate or bachelor’s degree (in the case of a licensed practical nurse or licensed vocational nurse) or a bachelor’s degree (in the case of a registered nurse) or a Master’s degree.
 
-**(c) Service obligation of program participant** An individual who participates in a program under subsection (a) of this section, where the educational costs are paid by the Service, shall incur an obligation to serve in an Indian health program for a period of obligated service equal to at least three times the period of time during which the individual participates in such program. In the event that the individual fails to complete such obligated service, the United States shall be entitled to recover from such individual an amount determined in accordance with the formula specified in subsection (l) of [section 1616a of this title](./chapter-018-indian-health-care.md#section-1616a) in the manner provided for in such subsection.
+**(c) Service obligation of program participant** An individual who participates in a program under subsection (a), where the educational costs are paid by the Service, shall incur an obligation to serve in an Indian health program for a period of obligated service equal to at least three times the period of time during which the individual participates in such program. In the event that the individual fails to complete such obligated service, the United States shall be entitled to recover from such individual an amount determined in accordance with the formula specified in subsection (l) of [section 1616a of this title](./chapter-018-indian-health-care.md#section-1616a) in the manner provided for in such subsection.
 
 ### Statutory Notes
 
@@ -1544,11 +1655,11 @@ Subsec. (e). Pub. L. 111–148, § 10221(b)(1)(B), added subsec. (e).
 
 **(b) Compliance with requirements**
 
-(1) An Indian tribe or tribal organization receiving a grant under subsection (a) of this section shall agree to provide scholarships to Indians pursuing education in the health professions in accordance with the requirements of this section.
+(1) An Indian tribe or tribal organization receiving a grant under subsection (a) shall agree to provide scholarships to Indians pursuing education in the health professions in accordance with the requirements of this section.
 
 (2) With respect to the costs of providing any scholarship pursuant to paragraph (1)—
 
-  (A) 80 percent of the costs of the scholarship shall be paid from the grant made under subsection (a) of this section to the Indian tribe or tribal organization; and
+  (A) 80 percent of the costs of the scholarship shall be paid from the grant made under subsection (a) to the Indian tribe or tribal organization; and
 
   (B) 20 percent of such costs shall be paid from non-Federal contributions by the Indian tribe or tribal organization through which the scholarship is provided.
 
@@ -1556,9 +1667,9 @@ Subsec. (e). Pub. L. 111–148, § 10221(b)(1)(B), added subsec. (e).
 
 (4) Non-Federal contributions required by subparagraph (B) of paragraph (2) may be provided directly by the Indian tribe or tribal organization involved or through donations from public and private entities.
 
-**(c) Course of study in health professions** An Indian tribe or tribal organization shall provide scholarships under subsection (b) of this section only to Indians enrolled or accepted for enrollment in a course of study (approved by the Secretary) in one of the health professions described in [section 1613a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1613a/a&num=0&edition=prelim).
+**(c) Course of study in health professions** An Indian tribe or tribal organization shall provide scholarships under subsection (b) only to Indians enrolled or accepted for enrollment in a course of study (approved by the Secretary) in one of the health professions described in [section 1613a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1613a/a&num=0&edition=prelim).
 
-**(d) Contract requirements** In providing scholarships under subsection (b) of this section, the Secretary and the Indian tribe or tribal organization shall enter into a written contract with each recipient of such scholarship. Such contract shall—
+**(d) Contract requirements** In providing scholarships under subsection (b), the Secretary and the Indian tribe or tribal organization shall enter into a written contract with each recipient of such scholarship. Such contract shall—
 
 (1) obligate such recipient to provide service in an Indian health program (as defined in [section 1616a(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1616a/a/2/A&num=0&edition=prelim)), in the same service area where the Indian tribe or tribal organization providing the scholarship is located, for—
 
@@ -1582,7 +1693,7 @@ Subsec. (e). Pub. L. 111–148, § 10221(b)(1)(B), added subsec. (e).
 
 **(e) Breach of contract**
 
-(1) An individual who has entered into a written contract with the Secretary and an Indian tribe or tribal organization under subsection (d) of this section and who—
+(1) An individual who has entered into a written contract with the Secretary and an Indian tribe or tribal organization under subsection (d) and who—
 
   (A) fails to maintain an acceptable level of academic standing in the educational institution in which he is enrolled (such level determined by the educational institution under regulations of the Secretary),
 
@@ -1597,13 +1708,13 @@ Subsec. (e). Pub. L. 111–148, § 10221(b)(1)(B), added subsec. (e).
 
 (3) The Secretary may carry out this subsection on the basis of information submitted by the tribes or tribal organizations involved, or on the basis of information collected through such other means as the Secretary determines to be appropriate.
 
-**(f) Nondiscriminatory practice** The recipient of a scholarship under subsection (b) of this section shall agree, in providing health care pursuant to the requirements of subsection (d)(1) of this section—
+**(f) Nondiscriminatory practice** The recipient of a scholarship under subsection (b) shall agree, in providing health care pursuant to the requirements of subsection (d)(1)—
 
 (1) not to discriminate against an individual seeking such care on the basis of the ability of the individual to pay for such care or on the basis that payment for such care will be made pursuant to the program established in title XVIII of the Social Security Act [[42 U.S.C. 1395](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395&num=0&edition=prelim) et seq.] or pursuant to the program established in title XIX of such Act [[42 U.S.C. 1396](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396&num=0&edition=prelim) et seq.]; and
 
 (2) to accept assignment under section 1842(b)(3)(B)(ii) of the Social Security Act [[42 U.S.C. 1395u(b)(3)(B)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395u/b/3/B/ii&num=0&edition=prelim)] for all services for which payment may be made under part B of title XVIII of such Act [[42 U.S.C. 1395j](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395j&num=0&edition=prelim) et seq.], and to enter into an appropriate agreement with the State agency that administers the State plan for medical assistance under title XIX of such Act [[42 U.S.C. 1396](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396&num=0&edition=prelim) et seq.] to provide service to individuals entitled to medical assistance under the plan.
 
-**(g) Payments for subsequent fiscal years** The Secretary may not make any payments under subsection (a) of this section to an Indian tribe or tribal organization for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the Indian tribe or tribal organization has complied with requirements of this section.
+**(g) Payments for subsequent fiscal years** The Secretary may not make any payments under subsection (a) to an Indian tribe or tribal organization for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the Indian tribe or tribal organization has complied with requirements of this section.
 
 ### Statutory Notes
 
@@ -1621,7 +1732,7 @@ The Secretary shall, by contract or otherwise, provide training for individuals 
 ## § 1616r. University of South Dakota pilot program
 **(a) Establishment** The Secretary may make a grant to the School of Medicine of the University of South Dakota (hereafter in this section referred to as “USDSM”) to establish a pilot program on an Indian reservation at one or more service units in South Dakota to address the chronic manpower shortage in the Aberdeen Area of the Service.
 
-**(b) Purposes** The purposes of the program established pursuant to a grant provided under subsection (a) of this section are—
+**(b) Purposes** The purposes of the program established pursuant to a grant provided under subsection (a) are—
 
 (1) to provide direct clinical and practical experience at a service unit to medical students and residents from USDSM and other medical schools;
 
@@ -1629,13 +1740,13 @@ The Secretary shall, by contract or otherwise, provide training for individuals 
 
 (3) to provide academic and scholarly opportunities for physicians, physician assistants, nurse practitioners, nurses, and other allied health professionals serving Indian people by identifying and utilizing all academic and scholarly resources of the region.
 
-**(c) Composition; designation** The pilot program established pursuant to a grant provided under subsection (a) of this section shall—
+**(c) Composition; designation** The pilot program established pursuant to a grant provided under subsection (a) shall—
 
 (1) incorporate a program advisory board composed of representatives from the tribes and communities in the area which will be served by the program; and
 
 (2) shall be designated as an extension of the USDSM campus and program participants shall be under the direct supervision and instruction of qualified medical staff serving at the service unit who shall be members of the USDSM faculty.
 
-**(d) Coordination with other schools** The USDSM shall coordinate the program established pursuant to a grant provided under subsection (a) of this section with other medical schools in the region, nursing schools, tribal community colleges, and other health professional schools.
+**(d) Coordination with other schools** The USDSM shall coordinate the program established pursuant to a grant provided under subsection (a) with other medical schools in the region, nursing schools, tribal community colleges, and other health professional schools.
 
 **(e) Development of additional professional opportunities** The USDSM, in cooperation with the Service, shall develop additional professional opportunities for program participants on Indian reservations in order to improve the recruitment and retention of qualified health professionals in the Aberdeen Area of the Service.
 
@@ -1686,7 +1797,7 @@ Section, Pub. L. 94–437, title I, § 125, as added Pub. L. 111–148, title X,
 
 <a id="section-1621c"></a>
 ## § 1621c. Indian Health Care Improvement Fund
-**(a) Use of funds** The Secretary, acting through the Service, is authorized to expend funds, directly or under the authority of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), which are appropriated under the authority of this section, for the purposes of—
+**(a) Use of funds** The Secretary, acting through the Service, is authorized to expend funds, directly or under the authority of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.),11 See References in Text note below. which are appropriated under the authority of this section, for the purposes of—
 
 (1) eliminating the deficiencies in health status and health resources of all Indian tribes;
 
@@ -1765,7 +1876,7 @@ Section, Pub. L. 94–437, title I, § 125, as added Pub. L. 111–148, title X,
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 This chapter, referred to in subsecs. (b) and (f)(4)(A), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-018-indian-health-care.md#section-1601) and Tables.
 
@@ -1866,7 +1977,7 @@ Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in par
 
 **(b) Administration** CHEF shall be administered by the Secretary, acting through the headquarters of the Service, solely for the purpose of meeting the extraordinary medical costs associated with the treatment of victims of disasters or catastrophic illnesses who are within the responsibility of the Service.
 
-**(c) Conditions on use of Fund** No part of CHEF or its administration shall be subject to contract or grant under any law, including the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), nor shall CHEF funds be allocated, apportioned, or delegated on an Area Office, Service Unit, or other similar basis.
+**(c) Conditions on use of Fund** No part of CHEF or its administration shall be subject to contract or grant under any law, including the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.),11 See References in Text note below. nor shall CHEF funds be allocated, apportioned, or delegated on an Area Office, Service Unit, or other similar basis.
 
 **(d) Regulations** The Secretary shall promulgate regulations consistent with the provisions of this section to—
 
@@ -1895,7 +2006,7 @@ Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in par
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsec. (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Amendment by Pub. L. 111–148 is based on section 122 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -1973,14 +2084,14 @@ Pub. L. 100–713, title II, § 203(a), Nov. 23, 1988, 102 Stat. 4804, provided 
 
   (A) *In general* — The Secretary may establish and maintain in each area office a position of diabetes control officer to coordinate and manage any activity of that area office relating to the prevention, treatment, or control of diabetes to assist the Secretary in carrying out a program under this section or [section 254c–3 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254c–3&num=0&edition=prelim).
 
-  (B) *Certain activities* — Any activity carried out by a diabetes control officer under subparagraph (A) that is the subject of a contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), and any funds made available to carry out such an activity, shall not be divisible for purposes of that Act.
+  (B) *Certain activities* — Any activity carried out by a diabetes control officer under subparagraph (A) that is the subject of a contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.),22 See References in Text note below. and any funds made available to carry out such an activity, shall not be divisible for purposes of that Act.
 
 ### Statutory Notes
 
 #### References in Text
 Public Law 108–87, referred to in subsec. (c), is Pub. L. 108–87, Sept. 30, 2003, 117 Stat. 1054, known as the Department of Defense Appropriations Act, 2004. Title IV of the Act (117 Stat. 1067) is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsec. (e)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Amendment by Pub. L. 111–148 is based on sections 101(c)(1) and 123 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which were enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -2037,7 +2148,7 @@ Subsec. (e). Pub. L. 102–573, § 217(b)(3), substituted “this section” for
 
   (B) shall meet all applicable standards for licensure.
 
-(2) **Home- and community-based service** — The term “home- and community-based service” means 1 or more of the services specified in paragraphs (1) through (9) of [section 1396t(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396t/a&num=0&edition=prelim) (whether provided by the Service or by an Indian tribe or tribal organization pursuant to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.)) that are or will be provided in accordance with applicable standards.
+(2) **Home- and community-based service** — The term “home- and community-based service” means 1 or more of the services specified in paragraphs (1) through (9) of [section 1396t(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396t/a&num=0&edition=prelim) (whether provided by the Service or by an Indian tribe or tribal organization pursuant to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.)) 11 See References in Text note below. that are or will be provided in accordance with applicable standards.
 
 (3) **Hospice care** — The term “hospice care” means—
 
@@ -2070,7 +2181,7 @@ Subsec. (e). Pub. L. 102–573, § 217(b)(3), substituted “this section” for
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsec. (a)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 This chapter, referred to in subsecs. (b) and (d), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-018-indian-health-care.md#section-1601) and Tables.
 
@@ -2118,7 +2229,7 @@ A prior section 1621d, Pub. L. 94–437, title II, § 205, as added Pub. L. 100�
 
 (3) **Recovery from tortfeasors**
 
-  (A) *In general* — In any case in which an Indian tribe or tribal organization that is authorized or required under a compact or contract issued pursuant to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) to furnish or pay for health services to a person who is injured or suffers a disease on or after March 23, 2010, under circumstances that establish grounds for a claim of liability against the tortfeasor with respect to the injury or disease, the Indian tribe or tribal organization shall have a right to recover from the tortfeasor (or an insurer of the tortfeasor) the reasonable value of the health services so furnished, paid for, or to be paid for, in accordance with the Federal Medical Care Recovery Act ([42 U.S.C. 2651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2651&num=0&edition=prelim) et seq.), to the same extent and under the same circumstances as the United States may recover under that Act.
+  (A) *In general* — In any case in which an Indian tribe or tribal organization that is authorized or required under a compact or contract issued pursuant to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) 11 See References in Text note below. to furnish or pay for health services to a person who is injured or suffers a disease on or after March 23, 2010, under circumstances that establish grounds for a claim of liability against the tortfeasor with respect to the injury or disease, the Indian tribe or tribal organization shall have a right to recover from the tortfeasor (or an insurer of the tortfeasor) the reasonable value of the health services so furnished, paid for, or to be paid for, in accordance with the Federal Medical Care Recovery Act ([42 U.S.C. 2651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2651&num=0&edition=prelim) et seq.), to the same extent and under the same circumstances as the United States may recover under that Act.
 
   (B) *Treatment* — The right of an Indian tribe or tribal organization to recover under subparagraph (A) shall be independent of the rights of the injured or diseased person served by the Indian tribe or tribal organization.
 
@@ -2137,7 +2248,7 @@ A prior section 1621d, Pub. L. 94–437, title II, § 205, as added Pub. L. 100�
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(3)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsec. (e)(3)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 The Federal Medical Care Recovery Act, referred to in subsec. (e)(3)(A), probably means Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§ 2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
@@ -2201,12 +2312,12 @@ Amendment by Pub. L. 111–148 is based on section 126 of title I of S. 1790, On
 <a id="section-1621j"></a>
 ## § 1621j. Health services research
 
-Of the amounts appropriated for the Service in any fiscal year, other than amounts made available for the Indian Health Care Improvement Fund, not less than $200,000 shall be available only for research to further the performance of the health service responsibilities of the Service. Indian tribes and tribal organizations contracting with the Service under the authority of the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.] shall be given an equal opportunity to compete for, and receive, research funds under this section.
+Of the amounts appropriated for the Service in any fiscal year, other than amounts made available for the Indian Health Care Improvement Fund, not less than $200,000 shall be available only for research to further the performance of the health service responsibilities of the Service. Indian tribes and tribal organizations contracting with the Service under the authority of the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.] shall be given an equal opportunity to compete for, and receive, research funds under this section.
 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 
 <a id="section-1621k"></a>
@@ -2251,7 +2362,7 @@ The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93
 
   (B) ensuring that Bureau of Indian Affairs and Service programs and services (including multidisciplinary resource teams) addressing child abuse and family violence are coordinated with such non-Federal programs and services;
 
-(7) direct appropriate officials of the Bureau of Indian Affairs and the Service, particularly at the agency and service unit levels, to cooperate fully with tribal requests made pursuant to subsection (d) of this section; and
+(7) direct appropriate officials of the Bureau of Indian Affairs and the Service, particularly at the agency and service unit levels, to cooperate fully with tribal requests made pursuant to subsection (d); and
 
 (8) provide for an annual review of such agreement by the two Secretaries.
 
@@ -2259,7 +2370,7 @@ The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93
 
 (1) The governing body of any Indian tribe may, at its discretion, adopt a resolution for the establishment of a community mental health plan providing for the identification and coordination of available resources and programs to identify, prevent, or treat mental illness or dysfunctional and self-destructive behavior, including child abuse and family violence, among its members.
 
-(2) In furtherance of a plan established pursuant to paragraph (1) and at the request of a tribe, the appropriate agency, service unit, or other officials of the Bureau of Indian Affairs and the Service shall cooperate with, and provide technical assistance to, the tribe in the development of such plan. Upon the establishment of such a plan and at the request of the tribe, such officials, as directed by the memorandum of agreement developed pursuant to subsection (c) of this section, shall cooperate with the tribe in the implementation of such plan.
+(2) In furtherance of a plan established pursuant to paragraph (1) and at the request of a tribe, the appropriate agency, service unit, or other officials of the Bureau of Indian Affairs and the Service shall cooperate with, and provide technical assistance to, the tribe in the development of such plan. Upon the establishment of such a plan and at the request of the tribe, such officials, as directed by the memorandum of agreement developed pursuant to subsection (c), shall cooperate with the tribe in the implementation of such plan.
 
 (3) Two or more Indian tribes may form a coalition for the adoption of resolutions and the establishment and development of a joint community mental health plan under this subsection.
 
@@ -2287,7 +2398,7 @@ The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93
 
 (3) **Training criteria**
 
-  (A) *In general* — The appropriate Secretary shall provide training criteria appropriate to each type of position identified in paragraphs (2)(A) and (2)(B) and ensure that appropriate training has been, or shall be provided to any individual in any such position. With respect to any such individual in a position identified pursuant to paragraph (2)(C), the respective Secretaries shall provide appropriate training to, or provide funds to, an Indian tribe or tribal organization for training of appropriate individuals. In the case of positions funded under a contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), the appropriate Secretary shall ensure that such training costs are included in the contract or compact, as the Secretary determines necessary.
+  (A) *In general* — The appropriate Secretary shall provide training criteria appropriate to each type of position identified in paragraphs (2)(A) and (2)(B) and ensure that appropriate training has been, or shall be provided to any individual in any such position. With respect to any such individual in a position identified pursuant to paragraph (2)(C), the respective Secretaries shall provide appropriate training to, or provide funds to, an Indian tribe or tribal organization for training of appropriate individuals. In the case of positions funded under a contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.),11 See References in Text note below. the appropriate Secretary shall ensure that such training costs are included in the contract or compact, as the Secretary determines necessary.
 
   (B) *Position specific training criteria* — Position specific training criteria shall be culturally relevant to Indians and Indian tribes and shall ensure that appropriate information regarding traditional health care practices is provided.
 
@@ -2303,7 +2414,7 @@ The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93
 
 **(f) Staff recruitment and retention**
 
-(1) The Secretary shall provide for the recruitment of the additional personnel required by subsection (f) of this section and the retention of all Service personnel providing mental health services. In carrying out this subsection, the Secretary shall give priority to practitioners providing mental health services to children and adolescents with mental health problems.
+(1) The Secretary shall provide for the recruitment of the additional personnel required by subsection (f) and the retention of all Service personnel providing mental health services. In carrying out this subsection, the Secretary shall give priority to practitioners providing mental health services to children and adolescents with mental health problems.
 
 (2) In carrying out paragraph (1), the Secretary shall develop a program providing for—
 
@@ -2313,7 +2424,7 @@ The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93
 
   (C) a system of postgraduate rotations as a retention incentive.
 
-(3) This subsection shall be carried out in coordination with the recruitment and retention programs under subchapter I of this chapter.
+(3) This subsection shall be carried out in coordination with the recruitment and retention programs under subchapter I.
 
 **(g) Mental Health Technician program**
 
@@ -2358,7 +2469,7 @@ The effect of the inter-relationships and interdependencies referred to in parag
 
   (F) The project is coordinated with, and avoids duplication of, existing services.
 
-(3) For purposes of this subsection, the Secretary shall, in evaluating applications for grants for projects to be operated under any contract entered into with the Service under the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.], use the same criteria that the Secretary uses in evaluating any other application for such a grant.
+(3) For purposes of this subsection, the Secretary shall, in evaluating applications for grants for projects to be operated under any contract entered into with the Service under the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.], use the same criteria that the Secretary uses in evaluating any other application for such a grant.
 
 (4) The Secretary may only award one grant under this subsection with respect to a service area until the Secretary has awarded grants for all service areas with respect to which the Secretary receives applications during the application period, as determined by the Secretary, which meet the criteria specified in paragraph (2).
 
@@ -2366,7 +2477,7 @@ The effect of the inter-relationships and interdependencies referred to in parag
 
 (6) Grants made pursuant to this section may be expended over a period of three years and no grant may exceed $1,000,000 for the fiscal years involved.
 
-**(l) Licensing requirement for mental health care workers** Any person employed as a psychologist, social worker, or marriage and family therapist for the purpose of providing mental health care services to Indians in a clinical setting under the authority of this chapter or through a contract pursuant to the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.] shall—
+**(l) Licensing requirement for mental health care workers** Any person employed as a psychologist, social worker, or marriage and family therapist for the purpose of providing mental health care services to Indians in a clinical setting under the authority of this chapter or through a contract pursuant to the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.] shall—
 
 (1) in the case of a person employed as a psychologist, be licensed as a clinical psychologist or working under the direct supervision of a licensed clinical psychologist;
 
@@ -2409,9 +2520,9 @@ The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, ref
 
 This chapter, referred to in subsecs. (b)(6)(A) and (l), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-018-indian-health-care.md#section-1601) and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d)(3)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsec. (d)(3)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
-The Indian Self-Determination Act, referred to in subsecs. (k)(3) and (l), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in subsecs. (k)(3) and (l), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Amendment by Pub. L. 111–148 is based on sections 101(b)(2) and 127 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which were enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -2540,7 +2651,7 @@ Amendment by Pub. L. 111–148 is based on section 128 of title I of S. 1790, On
 
 (3) other escorts, as the Secretary or applicable Indian Health Program determines to be appropriate.
 
-**(b) Provision of funds** The Secretary, acting through the Service and Tribal Health Programs, is authorized to provide funds for the following patient travel costs, including qualified escorts, associated with receiving health care services provided (either through direct or contract care or through a contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.)) under this chapter—
+**(b) Provision of funds** The Secretary, acting through the Service and Tribal Health Programs, is authorized to provide funds for the following patient travel costs, including qualified escorts, associated with receiving health care services provided (either through direct or contract care or through a contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.)) 11 See References in Text note below. under this chapter—
 
 (1) emergency air transportation and non-emergency air transportation where ground transportation is infeasible;
 
@@ -2551,7 +2662,7 @@ Amendment by Pub. L. 111–148 is based on section 128 of title I of S. 1790, On
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-018-indian-health-care.md#section-1601) and Tables.
 
@@ -2576,7 +2687,7 @@ Pub. L. 111–148 substituted “The Secretary” for “(a) The Secretary” pr
 
   (B) *Requirement* — Funding provided in a grant described in subparagraph (A) shall not be divisible.
 
-(3) **Funds not divisible** — An epidemiology center established under this subsection shall be subject to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), but the funds for the center shall not be divisible.
+(3) **Funds not divisible** — An epidemiology center established under this subsection shall be subject to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.),11 See References in Text note below. but the funds for the center shall not be divisible.
 
 **(b) Functions of centers** In consultation with and on the request of Indian tribes, tribal organizations, and urban Indian organizations, each Service area epidemiology center established under this section shall, with respect to the applicable Service area—
 
@@ -2635,7 +2746,7 @@ Pub. L. 111–148 substituted “The Secretary” for “(a) The Secretary” pr
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsec. (a)(3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (e)(1), (3), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim), The Public Health and Welfare, and Tables.
 
@@ -2841,7 +2952,7 @@ Amendment by Pub. L. 111–148 is based on section 133 of title I of S. 1790, On
 
 <a id="section-1621u"></a>
 ## § 1621u. Contract health services payment study
-**(a) Duty of Secretary** The Secretary, acting through the Service and in consultation with representatives of Indian tribes and tribal organizations operating contract health care programs under the Indian Self-Determination Act ([25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.) or under self-governance compacts, Service personnel, private contract health services providers, the Indian Health Service Fiscal Intermediary, and other appropriate experts, shall conduct a study—
+**(a) Duty of Secretary** The Secretary, acting through the Service and in consultation with representatives of Indian tribes and tribal organizations operating contract health care programs under the Indian Self-Determination Act ([25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.) 11 See References in Text note below. or under self-governance compacts, Service personnel, private contract health services providers, the Indian Health Service Fiscal Intermediary, and other appropriate experts, shall conduct a study—
 
 (1) to assess and identify administrative barriers that hinder the timely payment for services delivered by private contract health services providers to individual Indians by the Service and the Indian Health Service Fiscal Intermediary;
 
@@ -2849,7 +2960,7 @@ Amendment by Pub. L. 111–148 is based on section 133 of title I of S. 1790, On
 
 (3) to determine the most efficient and effective means of improving the Service’s contract health services payment system and ensuring the development of appropriate consumer protection policies to protect individual Indians who receive authorized services from private contract health services providers from billing and collection practices, including the development of materials and programs explaining patients’ rights and responsibilities.
 
-**(b) Functions of study** The study required by subsection (a) of this section shall—
+**(b) Functions of study** The study required by subsection (a) shall—
 
 (1) assess the impact of the existing contract health services regulations and policies upon the ability of the Service and the Indian Health Service Fiscal Intermediary to process, on a timely and efficient basis, the payment of bills submitted by private contract health services providers;
 
@@ -2870,14 +2981,14 @@ Amendment by Pub. L. 111–148 is based on section 133 of title I of S. 1790, On
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act ([25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.), referred to in subsec. (a), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which was classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title prior to editorial reclassification as subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 
 <a id="section-1621v"></a>
 ## § 1621v. Prompt action on payment of claims
 **(a) Time of response** The Service shall respond to a notification of a claim by a provider of a contract care service with either an individual purchase order or a denial of the claim within 5 working days after the receipt of such notification.
 
-**(b) Failure to timely respond** If the Service fails to respond to a notification of a claim in accordance with subsection (a) of this section, the Service shall accept as valid the claim submitted by the provider of a contract care service.
+**(b) Failure to timely respond** If the Service fails to respond to a notification of a claim in accordance with subsection (a), the Service shall accept as valid the claim submitted by the provider of a contract care service.
 
 **(c) Time of payment** The Service shall pay a completed contract care service claim within 30 days after completion of the claim.
 
@@ -2885,12 +2996,12 @@ The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub
 <a id="section-1621w"></a>
 ## § 1621w. Licensing
 
-Licensed health professionals employed by a tribal health program shall be exempt, if licensed in any State, from the licensing requirements of the State in which the tribal health program performs the services described in the contract or compact of the tribal health program under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.).
+Licensed health professionals employed by a tribal health program shall be exempt, if licensed in any State, from the licensing requirements of the State in which the tribal health program performs the services described in the contract or compact of the tribal health program under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.).11 See References in Text note below.
 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Amendment by Pub. L. 111–148 is based on section 134(a) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -3062,9 +3173,9 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
     (iv) shall provide an opportunity for the nomination of planning, design, and construction projects by the Service, Indian tribes, and tribal organizations for consideration under the priority system at least once every 3 years, or more frequently as the Secretary determines to be appropriate.
 
-  (B) *Needs of facilities under ISDEAA agreements* — The Secretary shall ensure that the planning, design, construction, renovation, and expansion needs of Service and non-Service facilities operated under contracts or compacts in accordance with the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) are fully and equitably integrated into the health care facility priority system.
+  (B) *Needs of facilities under ISDEAA agreements* — The Secretary shall ensure that the planning, design, construction, renovation, and expansion needs of Service and non-Service facilities operated under contracts or compacts in accordance with the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) 11 See References in Text note below. are fully and equitably integrated into the health care facility priority system.
 
-  (C) *Criteria for evaluating needs* — For purposes of this subsection, the Secretary, in evaluating the needs of facilities operated under a contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), shall use the criteria used by the Secretary in evaluating the needs of facilities operated directly by the Service.
+  (C) *Criteria for evaluating needs* — For purposes of this subsection, the Secretary, in evaluating the needs of facilities operated under a contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.),1 shall use the criteria used by the Secretary in evaluating the needs of facilities operated directly by the Service.
 
   (D) *Priority of certain projects protected* — The priority of any project established under the construction priority system in effect on March 23, 2010, shall not be affected by any change in the construction priority system taking place after that date if the project—
 
@@ -3162,7 +3273,7 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
   (C) the Secretary.
 
-**(e) Funding condition** All funds appropriated under [section 13 of this title](./chapter-001-bureau-of-indian-affairs.md#section-13), for the planning, design, construction, or renovation of health facilities for the benefit of 1 or more Indian Tribes shall be subject to the provisions of section 102 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f)) or sections 504 and 505 of that Act ([25 U.S.C. 458aaa–3](./chapter-014-miscellaneous.md#section-458aaa-3), 458aaa–4).
+**(e) Funding condition** All funds appropriated under [section 13 of this title](./chapter-001-bureau-of-indian-affairs.md#section-13), for the planning, design, construction, or renovation of health facilities for the benefit of 1 or more Indian Tribes shall be subject to the provisions of section 102 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f)) 1 or sections 504 and 505 of that Act ([25 U.S.C. 458aaa–3](./chapter-014-miscellaneous.md#section-458aaa-3), 458aaa–4).1
 
 **(f) Development of innovative approaches** The Secretary shall consult and cooperate with Indian tribes and tribal organizations, and confer with urban Indian organizations, in developing innovative approaches to address all or part of the total unmet need for construction of health facilities, that may include—
 
@@ -3172,9 +3283,9 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
 (3) other approaches, as the Secretary determines to be appropriate.
 
-**(h) 11 So in original. Subsec. (g) is set out below. Funds appropriated subject to [section 450f of this title](./chapter-014-miscellaneous.md#section-450f)** All funds appropriated under [section 13 of this title](./chapter-001-bureau-of-indian-affairs.md#section-13) for the planning, design, construction, or renovation of health facilities for the benefit of an Indian tribe or tribes shall be subject to the provisions of section 102 of the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f)].
+**(h) 22 So in original. Subsec. (g) is set out below. Funds appropriated subject to [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321)** All funds appropriated under [section 13 of this title](./chapter-001-bureau-of-indian-affairs.md#section-13) for the planning, design, construction, or renovation of health facilities for the benefit of an Indian tribe or tribes shall be subject to the provisions of section 102 of the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321)].
 
-**(g) 22 So in original. Subsec. (h) is set out above. Priority of certain projects protected** The priority of any project established under the construction priority system in effect on March 23, 2010, shall not be affected by any change in the construction priority system taking place after that date if the project—
+**(g) 33 So in original. Subsec. (h) is set out above. Priority of certain projects protected** The priority of any project established under the construction priority system in effect on March 23, 2010, shall not be affected by any change in the construction priority system taking place after that date if the project—
 
 (1) was identified in the fiscal year 2008 Service budget justification as—
 
@@ -3188,7 +3299,7 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
 (2) had completed both Phase I and Phase II of the construction priority system in effect on March 23, 2010; or
 
-(3) is not included in clause (i) or (ii) 33 So in original. Probably should be “paragraph (1) or (2)”. and is selected, as determined by the Secretary—
+(3) is not included in clause (i) or (ii) 44 So in original. Probably should be “paragraph (1) or (2)”. and is selected, as determined by the Secretary—
 
   (A) on the initiative of the Secretary; or
 
@@ -3197,7 +3308,7 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(1)(B), (C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (c)(1)(B), (C), (e), and (h), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. Sections 102, 504, and 505 of the Act were classified to sections 450f, 458aaa–3, and 458aaa–4 of this title prior to editorial reclassification as sections 5321, 5384, and 5385, respectively, of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Amendment by Pub. L. 111–148 is based on sections 141 and 142 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which were enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -3240,7 +3351,7 @@ Subsecs. (d), (e). Pub. L. 102–573, §§ 301(3), 902(4)(B), redesignated subse
 
 **(b) Authority; assistance; transfer of funds**
 
-(1) In furtherance of the findings and declarations made in subsection (a) of this section, Congress reaffirms the primary responsibility and authority of the Service to provide the necessary sanitation facilities and services as provided in [section 2004a of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2004a&num=0&edition=prelim).
+(1) In furtherance of the findings and declarations made in subsection (a), Congress reaffirms the primary responsibility and authority of the Service to provide the necessary sanitation facilities and services as provided in [section 2004a of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2004a&num=0&edition=prelim).
 
 (2) The Secretary, acting through the Service, is authorized to provide under [section 2004a of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2004a&num=0&edition=prelim)—
 
@@ -3262,13 +3373,13 @@ Subsecs. (d), (e). Pub. L. 102–573, §§ 301(3), 902(4)(B), redesignated subse
 
 **(e) Amount of assistance**
 
-(1) The Secretary is authorized to provide financial assistance to Indian tribes and communities in an amount equal to the Federal share of the costs of operating, managing, and maintaining the facilities provided under the plan described in subsection (c) of this section.
+(1) The Secretary is authorized to provide financial assistance to Indian tribes and communities in an amount equal to the Federal share of the costs of operating, managing, and maintaining the facilities provided under the plan described in subsection (c).
 
 (2) For the purposes of paragraph (1), the term “Federal share” means 80 percent of the costs described in paragraph (1).
 
 (3) With respect to Indian tribes with fewer than 1,000 enrolled members, the non-Federal portion of the costs of operating, managing, and maintaining such facilities may be provided, in part, through cash donations or in kind property, fairly evaluated.
 
-**(f) Eligibility of programs administered by Indian tribes** Programs administered by Indian tribes or tribal organizations under the authority of the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.] shall be eligible for—
+**(f) Eligibility of programs administered by Indian tribes** Programs administered by Indian tribes or tribal organizations under the authority of the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.] shall be eligible for—
 
 (1) any funds appropriated pursuant to this section, and
 
@@ -3289,7 +3400,7 @@ on an equal basis with programs that are administered directly by the Service.
 
   (E) the amount of funds necessary to raise all Indian tribes and communities to zero sanitation deficiency.
 
-(2) In preparing each report required under paragraph (1) (other than the initial report), the Secretary shall consult with Indian tribes and tribal organizations (including those tribes or tribal organizations operating health care programs or facilities under any contract entered into with the Service under the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.]) to determine the sanitation needs of each tribe.
+(2) In preparing each report required under paragraph (1) (other than the initial report), the Secretary shall consult with Indian tribes and tribal organizations (including those tribes or tribal organizations operating health care programs or facilities under any contract entered into with the Service under the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.]) to determine the sanitation needs of each tribe.
 
 (3) The methodology used by the Secretary in determining sanitation deficiencies for purposes of paragraph (1) shall be applied uniformly to all Indian tribes and communities.
 
@@ -3324,12 +3435,12 @@ on an equal basis with programs that are administered directly by the Service.
 #### References in Text
 The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim), The Public Health and Welfare, and Tables.
 
-The Indian Self-Determination Act, referred to in subsecs. (f) and (g)(2), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in subsecs. (f) and (g)(2), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Amendments
 1992—Subsec. (e). Pub. L. 102–573, § 302(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The provisions of this section shall not diminish the primary responsibility of the Indian family, community, or tribe to establish, collect, and utilize reasonable user fees, or otherwise set aside funding, for the purpose of operating and maintaining sanitation facilities.”
 
-Subsec. (f)(1). Pub. L. 102–573, § 302(2), substituted “this section” for “subsection (h) of this section”.
+Subsec. (f)(1). Pub. L. 102–573, § 302(2), substituted “this section” for “subsection (h)”.
 
 Subsec. (g)(1). Pub. L. 102–573, § 302(3)(A), substituted “The Secretary shall submit to the President, for inclusion in each report required to be transmitted to the Congress under [section 1671 of this title](./chapter-018-indian-health-care.md#section-1671), a report” for “The Secretary shall submit to the Congress an annual report”.
 
@@ -3356,12 +3467,12 @@ Subsec. (h). Pub. L. 102–573, § 307(b)(1), struck out subsec. (h) which autho
 ## § 1637. Expenditure of non-Service funds for renovation
 **(a) Authority of Secretary**
 
-(1) Notwithstanding any other provision of law, the Secretary is authorized to accept any major renovation or modernization by any Indian tribe of any Service facility, or of any other Indian health facility operated pursuant to a contract entered into under the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.], including—
+(1) Notwithstanding any other provision of law, the Secretary is authorized to accept any major renovation or modernization by any Indian tribe of any Service facility, or of any other Indian health facility operated pursuant to a contract entered into under the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.], including—
 
   (A) any plans or designs for such renovation or modernization; and
 
   (B) any renovation or modernization for which funds appropriated under any Federal law were lawfully expended,
-  but only if the requirements of subsection (b) of this section are met.
+  but only if the requirements of subsection (b) are met.
 
 (2) The Secretary shall maintain a separate priority list to address the needs of such facilities for personnel or equipment.
 
@@ -3386,7 +3497,7 @@ Subsec. (h). Pub. L. 102–573, § 307(b)(1), struck out subsec. (h) which autho
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in subsec. (a)(1), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in subsec. (a)(1), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Amendments
 1992—Pub. L. 102–573 amended section generally, substituting present provisions for former provisions which related to: in subsec. (a), authority of Secretary; in subsec. (b), requirements; in subsec. (c), higher priority project; and in subsec. (d), recovery for non-use as Service facility.
@@ -3406,9 +3517,9 @@ Section, Pub. L. 98–473, title I, § 101(c) [title II, § 201], Oct. 12, 1984,
 ## § 1638a. Grant program for construction, expansion, and modernization of small ambulatory care facilities
 **(a) Authorization**
 
-(1) The Secretary, acting through the Service, shall make grants to tribes and tribal organizations for the construction, expansion, or modernization of facilities for the provision of ambulatory care services to eligible Indians (and noneligible persons as provided in subsection (c)(1)(C) of this section). A grant made under this section may cover up to 100 percent of the costs of such construction, expansion, or modernization. For the purposes of this section, the term “construction” includes the replacement of an existing facility.
+(1) The Secretary, acting through the Service, shall make grants to tribes and tribal organizations for the construction, expansion, or modernization of facilities for the provision of ambulatory care services to eligible Indians (and noneligible persons as provided in subsection (c)(1)(C)). A grant made under this section may cover up to 100 percent of the costs of such construction, expansion, or modernization. For the purposes of this section, the term “construction” includes the replacement of an existing facility.
 
-(2) A grant under paragraph (1) may only be made to a tribe or tribal organization operating an Indian health facility (other than a facility owned or constructed by the Service, including a facility originally owned or constructed by the Service and transferred to a tribe or tribal organization) pursuant to a contract entered into under the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.].
+(2) A grant under paragraph (1) may only be made to a tribe or tribal organization operating an Indian health facility (other than a facility owned or constructed by the Service, including a facility originally owned or constructed by the Service and transferred to a tribe or tribal organization) pursuant to a contract entered into under the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.].
 
 **(b) Use of grant**
 
@@ -3424,7 +3535,7 @@ Section, Pub. L. 98–473, title I, § 101(c) [title II, § 201], Oct. 12, 1984,
 
     (ii) serve no less than 500 eligible Indians annually; and
 
-    (iii) provide ambulatory care in a service area (specified in the contract entered into under the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.]) with a population of not less than 2,000 eligible Indians.
+    (iii) provide ambulatory care in a service area (specified in the contract entered into under the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.]) with a population of not less than 2,000 eligible Indians.
 
 (2) The requirements of clauses (ii) and (iii) of paragraph (1)(C) shall not apply to a tribe or tribal organization applying for a grant under this section whose tribal government offices are located on an island.
 
@@ -3449,7 +3560,7 @@ Section, Pub. L. 98–473, title I, § 101(c) [title II, § 201], Oct. 12, 1984,
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in subsecs. (a)(2) and (b)(1)(C)(iii), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in subsecs. (a)(2) and (b)(1)(C)(iii), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Amendments
 1992—Pub. L. 102–573 amended section generally, substituting provisions relating to grant program for construction, expansion, and modernization of small ambulatory care facilities for provisions relating to conveyance of certain real property under Alaska Native Claims Settlement Act.
@@ -3459,13 +3570,13 @@ The Indian Self-Determination Act, referred to in subsecs. (a)(2) and (b)(1)(C)(
 ## § 1638b. Indian health care delivery demonstration projects
 **(a) Purpose and general authority**
 
-(1) **Purpose** — The purpose of this section is to encourage the establishment of demonstration projects that meet the applicable criteria of this section to be carried out by the Secretary, acting through the Service, or Indian tribes or tribal organizations acting pursuant to contracts or compacts under the Indian Self Determination 11 So in original. Probably should be “Self-Determination”. and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.)—
+(1) **Purpose** — The purpose of this section is to encourage the establishment of demonstration projects that meet the applicable criteria of this section to be carried out by the Secretary, acting through the Service, or Indian tribes or tribal organizations acting pursuant to contracts or compacts under the Indian Self Determination 11 So in original. Probably should be “Self-Determination”. and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.)— 22 See References in Text note below.
 
   (A) to test alternative means of delivering health care and services to Indians through facilities; or
 
   (B) to use alternative or innovative methods or models of delivering health care services to Indians (including primary care services, contract health services, or any other program or service authorized by this chapter) through convenient care services (as defined in subsection (c)), community health centers, or cooperative agreements or arrangements with other health care providers that share or coordinate the use of facilities, funding, or other resources, or otherwise coordinate or improve the coordination of activities of the Service, Indian tribes, or tribal organizations, with those of the other health care providers.
 
-(2) **Authority** — The Secretary, acting through the Service, is authorized to carry out, or to enter into contracts or compacts under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) with Indian tribes or tribal organizations to carry out, health care delivery demonstration projects that—
+(2) **Authority** — The Secretary, acting through the Service, is authorized to carry out, or to enter into contracts or compacts under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) 2 with Indian tribes or tribal organizations to carry out, health care delivery demonstration projects that—
 
   (A) test alternative means of delivering health care and services to Indians through facilities; or
 
@@ -3527,7 +3638,7 @@ The Indian Self-Determination Act, referred to in subsecs. (a)(2) and (b)(1)(C)(
 
 (3) **Innovative health services delivery demonstration project**
 
-  (A) *Application or request* — On receipt of an application or request from an Indian tribe, a consortium of Indian tribes, or a tribal organization within a Service area, the Secretary shall take into consideration alternative or innovated 22 So in original. Probably should be “innovative”. methods to deliver health care services within the Service area (or a portion of, or facility within, the Service area) as described in the application or request, including medical, dental, pharmaceutical, nursing, clinical laboratory, contract health services, convenient care services, community health centers, or any other health care services delivery models designed to improve access to, or efficiency or quality of, the health care, health promotion, or disease prevention services and programs under this chapter.
+  (A) *Application or request* — On receipt of an application or request from an Indian tribe, a consortium of Indian tribes, or a tribal organization within a Service area, the Secretary shall take into consideration alternative or innovated 33 So in original. Probably should be “innovative”. methods to deliver health care services within the Service area (or a portion of, or facility within, the Service area) as described in the application or request, including medical, dental, pharmaceutical, nursing, clinical laboratory, contract health services, convenient care services, community health centers, or any other health care services delivery models designed to improve access to, or efficiency or quality of, the health care, health promotion, or disease prevention services and programs under this chapter.
 
   (B) *Approval* — In addition to projects described in paragraph (2), in any fiscal year, the Secretary is authorized under this paragraph to approve not more than 10 applications for health care delivery demonstration projects that meet the criteria described in subparagraph (C).
 
@@ -3551,16 +3662,16 @@ The Indian Self-Determination Act, referred to in subsecs. (a)(2) and (b)(1)(C)(
 
 **(e) Service to ineligible persons** Subject to [section 1680c of this title](./chapter-018-indian-health-care.md#section-1680c), the authority to provide services to persons otherwise ineligible for the health care benefits of the Service, and the authority to extend hospital privileges in Service facilities to non-Service health practitioners as provided in [section 1680c of this title](./chapter-018-indian-health-care.md#section-1680c), may be included, subject to the terms of that section, in any demonstration project approved pursuant to this section.
 
-**(f) Equitable treatment** For purposes of subsection (c), the Secretary, in evaluating facilities operated under any contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), shall use the same criteria that the Secretary uses in evaluating facilities operated directly by the Service.
+**(f) Equitable treatment** For purposes of subsection (c), the Secretary, in evaluating facilities operated under any contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.),2 shall use the same criteria that the Secretary uses in evaluating facilities operated directly by the Service.
 
-**(g) Equitable integration of facilities** The Secretary shall ensure that the planning, design, construction, renovation, and expansion needs of Service and non-Service facilities that are the subject of a contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) for health services are fully and equitably integrated into the implementation of the health care delivery demonstration projects under this section.
+**(g) Equitable integration of facilities** The Secretary shall ensure that the planning, design, construction, renovation, and expansion needs of Service and non-Service facilities that are the subject of a contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) 2 for health services are fully and equitably integrated into the implementation of the health care delivery demonstration projects under this section.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsecs. (a)(1)(B), (b)(2)(B), (c)(3)(A), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-018-indian-health-care.md#section-1601) and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (a), (f), and (g), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsecs. (a), (f), and (g), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Amendment by Pub. L. 111–148 is based on section 143 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -3593,7 +3704,7 @@ The Bureau of Indian Affairs is authorized to transfer, at no cost, up to 5 acre
 ## § 1638d. Tribal management of federally owned quarters
 **(a) Rental rates**
 
-(1) **Establishment** — Notwithstanding any other provision of law, a tribal health program that operates a hospital or other health facility and the federally owned quarters associated with such a facility pursuant to a contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) may establish the rental rates charged to the occupants of those quarters, on providing notice to the Secretary.
+(1) **Establishment** — Notwithstanding any other provision of law, a tribal health program that operates a hospital or other health facility and the federally owned quarters associated with such a facility pursuant to a contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) 11 See References in Text note below. may establish the rental rates charged to the occupants of those quarters, on providing notice to the Secretary.
 
 (2) **Objectives** — In establishing rental rates under this subsection, a tribal health program shall attempt—
 
@@ -3632,7 +3743,7 @@ The Bureau of Indian Affairs is authorized to transfer, at no cost, up to 5 acre
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(1), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsec. (a)(1), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Section 309 of Pub. L. 94–437 is based on section 144 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -3704,7 +3815,7 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 
   (A) accept from any source, including Federal and State agencies, funds, equipment, or supplies that are available for the construction or operation of health care or sanitation facilities; and
 
-  (B) use those funds, equipment, and supplies to plan, design,,11 So in original. construct, and operate health care or sanitation facilities for Indians, including pursuant to a contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.).
+  (B) use those funds, equipment, and supplies to plan, design,,11 So in original. construct, and operate health care or sanitation facilities for Indians, including pursuant to a contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.).22 See References in Text note below.
 
 (3) **Effect of receipt** — Receipt of funds by the Secretary under this subsection shall not affect any priority established under [section 1631 of this title](./chapter-018-indian-health-care.md#section-1631).
 
@@ -3727,7 +3838,7 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 #### References in Text
 This chapter, referred to in subsecs. (a)(1)(A), (b)(1), and (c)(1), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-018-indian-health-care.md#section-1601) and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsec. (a)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Section 311 of Pub. L. 94–437 is based on section 145 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -3763,7 +3874,7 @@ Section 311 of Pub. L. 94–437 is based on section 145 of title I of S. 1790, O
 
 **(d) Eligibility**
 
-(1) **In general** — An Indian tribe may submit a petition under subsection (c)(1)(B) regardless of whether the Indian tribe is a party to any contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.).
+(1) **In general** — An Indian tribe may submit a petition under subsection (c)(1)(B) regardless of whether the Indian tribe is a party to any contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.).33 See References in Text note below.
 
 (2) **Administration** — At the election of an Indian tribe or tribal organization selected for participation in the demonstration program, the funds provided for the project shall be subject to the provisions of the Indian Self-Determination and Education Assistance Act.
 
@@ -3778,7 +3889,7 @@ Section 311 of Pub. L. 94–437 is based on section 145 of title I of S. 1790, O
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsec. (d), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Section 312 of Pub. L. 94–437 is based on section 146 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -3884,20 +3995,20 @@ Section 313 of Pub. L. 94–437 is based on section 147 of title I of S. 1790, O
 
   (B) *Coordination of information* — The Service shall provide the Administrator of the Centers for Medicare & Medicaid Services with copies of the lists submitted to the Service under paragraph (2)(C), enrollment data regarding patients served by the Service (and by tribal health programs, to the extent such data is available to the Service), and such other information as the Administrator may require for purposes of administering title XVIII, XIX, or XXI of the Social Security Act.
 
-(4) **Withdrawal from program** — A tribal health program that bills directly under the program established under this subsection may withdraw from participation in the same manner and under the same conditions that an Indian tribe or tribal organization may retrocede a contracted program to the Secretary under the authority of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.). All cost accounting and billing authority under the program established under this subsection shall be returned to the Secretary upon the Secretary’s acceptance of the withdrawal of participation in this program.
+(4) **Withdrawal from program** — A tribal health program that bills directly under the program established under this subsection may withdraw from participation in the same manner and under the same conditions that an Indian tribe or tribal organization may retrocede a contracted program to the Secretary under the authority of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.).22 See References in Text note below. All cost accounting and billing authority under the program established under this subsection shall be returned to the Secretary upon the Secretary’s acceptance of the withdrawal of participation in this program.
 
-(5) **Termination for failure to comply with requirements** — The Secretary may terminate the participation of a tribal health program or 22 So in original. The word “or” probably should not appear. in the direct billing program established under this subsection if the Secretary determines that the program has failed to comply with the requirements of paragraph (2). The Secretary shall provide a tribal health program with notice of a determination that the program has failed to comply with any such requirement and a reasonable opportunity to correct such noncompliance prior to terminating the program’s participation in the direct billing program established under this subsection.
+(5) **Termination for failure to comply with requirements** — The Secretary may terminate the participation of a tribal health program or 33 So in original. The word “or” probably should not appear. in the direct billing program established under this subsection if the Secretary determines that the program has failed to comply with the requirements of paragraph (2). The Secretary shall provide a tribal health program with notice of a determination that the program has failed to comply with any such requirement and a reasonable opportunity to correct such noncompliance prior to terminating the program’s participation in the direct billing program established under this subsection.
 
-**(e) Related provisions under the Social Security Act** For provisions related to subsections (c) and (d), see sections 1880, 1911, and 2107(e)(1)(D) of the Social Security Act [[42 U.S.C. 1395qq](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395qq&num=0&edition=prelim), 1396j, 1397gg(e)(1)(D)].
+**(e) Related provisions under the Social Security Act** For provisions related to subsections (c) and (d), see sections 1880, 1911, and 2107(e)(1)(D) 2 of the Social Security Act [[42 U.S.C. 1395qq](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395qq&num=0&edition=prelim), 1396j, 1397gg(e)(1)(D)].
 
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (a) to (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (a) to (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42. Section 2107(e)(1)(D) of the Social Security Act, referred to in subsec. (e), is section 2107(e)(1)(D) of act Aug. 14, 1935, ch. 531, as added by Pub. L. 111–148, which was redesignated section 2107(e)(1)(F) of act Aug. 14, 1935, ch. 531, by Pub. L. 114–255, div. A, title V, § 5005(c)(1)(A), Dec. 13, 2016, 130 Stat. 1194. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-018-indian-health-care.md#section-1601) and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d)(4), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsec. (d)(4), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Amendment by Pub. L. 111–148 is based on section 151 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -3912,7 +4023,7 @@ Prior to general amendment by Pub. L. 102–573, section 401 of Pub. L. 94–437
 
 <a id="section-1645"></a>
 ## § 1645. Purchasing health care coverage
-**(a) In general** Insofar as amounts are made available under law (including a provision of the Social Security Act [[42 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section301&num=0&edition=prelim) et seq.], the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), or other law, other than under [section 1644 of this title](./chapter-018-indian-health-care.md#section-1644)) to Indian tribes, tribal organizations, and urban Indian organizations for health benefits for Service beneficiaries, Indian tribes, tribal organizations, and urban Indian organizations may use such amounts to purchase health benefits coverage (including coverage for a service, or service within a contract health service delivery area, or any portion of a contract health service delivery area that would otherwise be provided as a contract health service) for such beneficiaries in any manner, including through—
+**(a) In general** Insofar as amounts are made available under law (including a provision of the Social Security Act [[42 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section301&num=0&edition=prelim) et seq.], the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.),11 See References in Text note below. or other law, other than under [section 1644 of this title](./chapter-018-indian-health-care.md#section-1644)) to Indian tribes, tribal organizations, and urban Indian organizations for health benefits for Service beneficiaries, Indian tribes, tribal organizations, and urban Indian organizations may use such amounts to purchase health benefits coverage (including coverage for a service, or service within a contract health service delivery area, or any portion of a contract health service delivery area that would otherwise be provided as a contract health service) for such beneficiaries in any manner, including through—
 
 (1) a tribally owned and operated health care plan;
 
@@ -3924,7 +4035,7 @@ Prior to general amendment by Pub. L. 102–573, section 401 of Pub. L. 94–437
 
 (5) a high deductible or health savings account plan.
 
-**(b) Financial need** The purchase of coverage under subsection (a) by an Indian tribe, tribal organization, or urban Indian organization may be based on the financial needs of such beneficiaries (as determined by the 1 or more Indian tribes being served based on a schedule of income levels developed or implemented by such 1 ore 11 So in original. Probably should be “or”. more Indian tribes).
+**(b) Financial need** The purchase of coverage under subsection (a) by an Indian tribe, tribal organization, or urban Indian organization may be based on the financial needs of such beneficiaries (as determined by the 1 or more Indian tribes being served based on a schedule of income levels developed or implemented by such 1 ore 22 So in original. Probably should be “or”. more Indian tribes).
 
 **(c) Expenses for self-insured plan** In the case of a self-insured plan under subsection (a)(4), the amounts may be used for expenses of operating the plan, including administration and insurance to limit the financial risks to the entity offering the plan.
 
@@ -3935,7 +4046,7 @@ Prior to general amendment by Pub. L. 102–573, section 401 of Pub. L. 94–437
 #### References in Text
 The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Amendment by Pub. L. 111–148 is based on section 152 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -4171,7 +4282,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
   (A) authorized under the laws administered by the Secretary of Veterans Affairs; and
 
-  (B) administered at a facility of the Service (including a facility operated by an Indian tribe or tribal organization through a contract or compact with the Service under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.)) pursuant to a local memorandum of understanding.
+  (B) administered at a facility of the Service (including a facility operated by an Indian tribe or tribal organization through a contract or compact with the Service under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.)) 11 See References in Text note below. pursuant to a local memorandum of understanding.
 
 (2) **Local memorandum of understanding** — The term “local memorandum of understanding” means a memorandum of understanding between the Secretary (or a designee, including the director of any area office of the Service) and the Secretary of Veterans Affairs (or a designee) to implement the document entitled “Memorandum of Understanding Between the VA/Veterans Health Administration And HHS/Indian Health Service” and dated February 25, 2003 (relating to cooperation and resource sharing between the Veterans Health Administration and Indian Health Service).
 
@@ -4192,7 +4303,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b)(1)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsec. (b)(1)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Section 407 of Pub. L. 94–437 is based on section 155 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -4231,12 +4342,12 @@ Section 408 of Pub. L. 94–437 is based on section 156 of title I of S. 1790, O
 <a id="section-1651"></a>
 ## § 1651. Access to Federal insurance
 
-Notwithstanding the provisions of title 5, Executive order, or administrative regulation, an Indian tribe or tribal organization carrying out programs under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) or an urban Indian organization carrying out programs under subchapter IV of this chapter shall be entitled to purchase coverage, rights, and benefits for the employees of such Indian tribe or tribal organization, or urban Indian organization, under chapter 89 of title 5 and chapter 87 of such title if necessary employee deductions and agency contributions in payment for the coverage, rights, and benefits for the period of employment with such Indian tribe or tribal organization, or urban Indian organization, are currently deposited in the applicable Employee’s Fund under such title.
+Notwithstanding the provisions of title 5, Executive order, or administrative regulation, an Indian tribe or tribal organization carrying out programs under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) 11 See References in Text note below. or an urban Indian organization carrying out programs under subchapter IV of this chapter shall be entitled to purchase coverage, rights, and benefits for the employees of such Indian tribe or tribal organization, or urban Indian organization, under chapter 89 of title 5 and chapter 87 of such title if necessary employee deductions and agency contributions in payment for the coverage, rights, and benefits for the period of employment with such Indian tribe or tribal organization, or urban Indian organization, are currently deposited in the applicable Employee’s Fund under such title.
 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Section 409 of Pub. L. 94–437 is based on section 157 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -4353,25 +4464,25 @@ A prior section 1652, Pub. L. 94–437, title V, § 502, Sept. 30, 1976, 90 Stat
 
 (3) the accessibility to, and utilization of, health care services (other than services provided under this subchapter) by urban Indians in the urban center involved;
 
-(4) the extent, if any, to which the activities set forth in subsection (a) of this section would duplicate—
+(4) the extent, if any, to which the activities set forth in subsection (a) would duplicate—
 
   (A) any previous or current public or private health services project in an urban center that was or is funded in a manner other than pursuant to this subchapter; or
 
   (B) any project funded under this subchapter;
 
-(5) the capability of an urban Indian organization to perform the activities set forth in subsection (a) of this section and to enter into a contract with the Secretary or to meet the requirements for receiving a grant under this section;
+(5) the capability of an urban Indian organization to perform the activities set forth in subsection (a) and to enter into a contract with the Secretary or to meet the requirements for receiving a grant under this section;
 
 (6) the satisfactory performance and successful completion by an urban Indian organization of other contracts with the Secretary under this subchapter;
 
-(7) the appropriateness and likely effectiveness of conducting the activities set forth in subsection (a) of this section in an urban center; and
+(7) the appropriateness and likely effectiveness of conducting the activities set forth in subsection (a) in an urban center; and
 
-(8) the extent of existing or likely future participation in the activities set forth in subsection (a) of this section by appropriate health and health-related Federal, State, local, and other agencies.
+(8) the extent of existing or likely future participation in the activities set forth in subsection (a) by appropriate health and health-related Federal, State, local, and other agencies.
 
-**(c) Grants for health promotion and disease prevention services** The Secretary, acting through the Service, shall facilitate access to, or provide, health promotion and disease prevention services for urban Indians through grants made to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a) of this section.
+**(c) Grants for health promotion and disease prevention services** The Secretary, acting through the Service, shall facilitate access to, or provide, health promotion and disease prevention services for urban Indians through grants made to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a).
 
 **(d) Grants for immunization services**
 
-(1) The Secretary, acting through the Service, shall facilitate access to, or provide, immunization services for urban Indians through grants made to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a) of this section.
+(1) The Secretary, acting through the Service, shall facilitate access to, or provide, immunization services for urban Indians through grants made to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a).
 
 (2) In making any grant to carry out this subsection, the Secretary shall take into consideration—
 
@@ -4387,7 +4498,7 @@ A prior section 1652, Pub. L. 94–437, title V, § 502, Sept. 30, 1976, 90 Stat
 
 **(e) Grants for mental health services**
 
-(1) The Secretary, acting through the Service, shall facilitate access to, or provide, mental health services for urban Indians through grants made to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a) of this section.
+(1) The Secretary, acting through the Service, shall facilitate access to, or provide, mental health services for urban Indians through grants made to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a).
 
 (2) A grant may not be made under this subsection to an urban Indian organization until that organization has prepared, and the Service has approved, an assessment of the mental health needs of the urban Indian population concerned, the mental health services and other related resources available to that population, the barriers to obtaining those services and resources, and the needs that are unmet by such services and resources.
 
@@ -4403,7 +4514,7 @@ A prior section 1652, Pub. L. 94–437, title V, § 502, Sept. 30, 1976, 90 Stat
 
 **(f) Grants for prevention and treatment of child abuse**
 
-(1) The Secretary, acting through the Service, shall facilitate access to, or provide, services for urban Indians through grants to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a) of this section to prevent and treat child abuse (including sexual abuse) among urban Indians.
+(1) The Secretary, acting through the Service, shall facilitate access to, or provide, services for urban Indians through grants to urban Indian organizations administering contracts entered into pursuant to this section or receiving grants under subsection (a) to prevent and treat child abuse (including sexual abuse) among urban Indians.
 
 (2) A grant may not be made under this subsection to an urban Indian organization until that organization has prepared, and the Service has approved, an assessment that documents the prevalence of child abuse in the urban Indian population concerned and specifies the services and programs (which may not duplicate existing services and programs) for which the grant is requested.
 
@@ -4440,17 +4551,17 @@ Subsec. (b). Pub. L. 102–573, § 501(b)(1)(B), inserted “or receive grants�
 
 Subsec. (c). Pub. L. 102–573, § 505(b)(1)(A), struck out par. (1) designation before “The Secretary, acting” and struck out par. (2) which authorized appropriation of $1,000,000 for fiscal year 1992 to carry out this subsec.
 
-Subsec. (c)(1). Pub. L. 102–573, § 501(b)(1)(C), inserted before period at end “or receiving grants under subsection (a) of this section”.
+Subsec. (c)(1). Pub. L. 102–573, § 501(b)(1)(C), inserted before period at end “or receiving grants under subsection (a)”.
 
-Subsec. (d)(1). Pub. L. 102–573, § 501(b)(1)(D), inserted before period at end “or receiving grants under subsection (a) of this section”.
+Subsec. (d)(1). Pub. L. 102–573, § 501(b)(1)(D), inserted before period at end “or receiving grants under subsection (a)”.
 
 Subsec. (d)(4). Pub. L. 102–573, § 505(b)(1)(B), struck out par. (4) which authorized appropriation of $1,000,000 for fiscal year 1992 to carry out this subsec.
 
-Subsec. (e)(1). Pub. L. 102–573, § 501(b)(1)(E), inserted before period at end “or receiving grants under subsection (a) of this section”.
+Subsec. (e)(1). Pub. L. 102–573, § 501(b)(1)(E), inserted before period at end “or receiving grants under subsection (a)”.
 
 Subsec. (e)(4). Pub. L. 102–573, § 505(b)(1)(C), struck out par. (4) which authorized appropriations of $500,000 for fiscal year 1991 and $2,000,000 for fiscal year 1992 to carry out this subsec.
 
-Subsec. (f)(1). Pub. L. 102–573, § 501(b)(1)(F), inserted “or receiving grants under subsection (a) of this section” after “pursuant to this section”.
+Subsec. (f)(1). Pub. L. 102–573, § 501(b)(1)(F), inserted “or receiving grants under subsection (a)” after “pursuant to this section”.
 
 Subsec. (f)(5). Pub. L. 102–573, § 505(b)(1)(D), struck out par. (5) which authorized appropriations of $500,000 for fiscal year 1991 and $2,000,000 for fiscal year 1992 to carry out this subsec.
 
@@ -4462,7 +4573,7 @@ Pub. L. 101–630, title V, § 506(a), (b), Nov. 28, 1990, 104 Stat. 4566, provi
 
 <a id="section-1657"></a>
 ## § 1657. Contracts and grants for determination of unmet health care needs
-**(a) Authority** Under authority of [section 13 of this title](./chapter-001-bureau-of-indian-affairs.md#section-13), the Secretary, through the Service, may enter into contracts with, or make grants to, urban Indian organizations situated in urban centers for which contracts have not been entered into, or grants have not been made, under [section 1653 of this title](./chapter-018-indian-health-care.md#section-1653). The purpose of a contract or grant made under this section shall be the determination of the matters described in subsection (b)(1) of this section in order to assist the Secretary in assessing the health status and health care needs of urban Indians in the urban center involved and determining whether the Secretary should enter into a contract or make a grant under [section 1653 of this title](./chapter-018-indian-health-care.md#section-1653) with respect to the urban Indian organization which the Secretary has entered into a contract with, or made a grant to, under this section.
+**(a) Authority** Under authority of [section 13 of this title](./chapter-001-bureau-of-indian-affairs.md#section-13), the Secretary, through the Service, may enter into contracts with, or make grants to, urban Indian organizations situated in urban centers for which contracts have not been entered into, or grants have not been made, under [section 1653 of this title](./chapter-018-indian-health-care.md#section-1653). The purpose of a contract or grant made under this section shall be the determination of the matters described in subsection (b)(1) in order to assist the Secretary in assessing the health status and health care needs of urban Indians in the urban center involved and determining whether the Secretary should enter into a contract or make a grant under [section 1653 of this title](./chapter-018-indian-health-care.md#section-1653) with respect to the urban Indian organization which the Secretary has entered into a contract with, or made a grant to, under this section.
 
 **(b) Requirements** Any contract entered into, or grant made, by the Secretary under this section shall include requirements that—
 
@@ -4499,7 +4610,7 @@ Subsec. (c). Pub. L. 102–573, § 501(b)(2)(C), inserted “, or grant made,”
 
 **(c) Noncompliance or unsatisfactory performance** If, as a result of the evaluations conducted under this section, the Secretary determines that an urban Indian organization has not complied with the requirements of a grant or complied with or satisfactorily performed a contract under [section 1653 of this title](./chapter-018-indian-health-care.md#section-1653), the Secretary shall, prior to renewing such contract or grant, attempt to resolve with such organization the areas of noncompliance or unsatisfactory performance and modify such contract or grant to prevent future occurrences of such noncompliance or unsatisfactory performance. If the Secretary determines that such noncompliance or unsatisfactory performance cannot be resolved and prevented in the future, the Secretary shall not renew such contract or grant with such organization and is authorized to enter into a contract or make a grant under [section 1653 of this title](./chapter-018-indian-health-care.md#section-1653) with another urban Indian organization which is situated in the same urban center as the urban Indian organization whose contract or grant is not renewed under this section.
 
-**(d) Contract and grant renewals** In determining whether to renew a contract or grant with an urban Indian organization under [section 1653 of this title](./chapter-018-indian-health-care.md#section-1653) which has completed performance of a contract or grant under [section 1654 of this title](./chapter-018-indian-health-care.md#section-1654), the Secretary shall review the records of the urban Indian organization, the reports submitted under [section 1657 of this title](./chapter-018-indian-health-care.md#section-1657), and, in the case of a renewal of a contract or grant under [section 1653 of this title](./chapter-018-indian-health-care.md#section-1653), shall consider the results of the onsite evaluations conducted under subsection (b) of this section.
+**(d) Contract and grant renewals** In determining whether to renew a contract or grant with an urban Indian organization under [section 1653 of this title](./chapter-018-indian-health-care.md#section-1653) which has completed performance of a contract or grant under [section 1654 of this title](./chapter-018-indian-health-care.md#section-1654), the Secretary shall review the records of the urban Indian organization, the reports submitted under [section 1657 of this title](./chapter-018-indian-health-care.md#section-1657), and, in the case of a renewal of a contract or grant under [section 1653 of this title](./chapter-018-indian-health-care.md#section-1653), shall consider the results of the onsite evaluations conducted under subsection (b).
 
 ### Statutory Notes
 
@@ -4651,9 +4762,9 @@ Subsec. (a). Pub. L. 102–573, § 501(b)(7), inserted “and for providing cent
 ## § 1660d. Grants for alcohol and substance abuse related services
 **(a) Grants** The Secretary may make grants for the provision of health-related services in prevention of, treatment of, rehabilitation of, or school and community-based education in, alcohol and substance abuse in urban centers to those urban Indian organizations with whom the Secretary has entered into a contract under this subchapter or under [section 1621 of this title](./chapter-018-indian-health-care.md#section-1621).
 
-**(b) Goals of grant** Each grant made pursuant to subsection (a) of this section shall set forth the goals to be accomplished pursuant to the grant. The goals shall be specific to each grant as agreed to between the Secretary and the grantee.
+**(b) Goals of grant** Each grant made pursuant to subsection (a) shall set forth the goals to be accomplished pursuant to the grant. The goals shall be specific to each grant as agreed to between the Secretary and the grantee.
 
-**(c) Criteria** The Secretary shall establish criteria for the grants made under subsection (a) of this section, including criteria relating to the—
+**(c) Criteria** The Secretary shall establish criteria for the grants made under subsection (a), including criteria relating to the—
 
 (1) size of the urban Indian population;
 
@@ -4668,7 +4779,7 @@ Subsec. (a). Pub. L. 102–573, § 501(b)(7), inserted “and for providing cent
 (6) identification of need for services.
 The Secretary shall develop a methodology for allocating grants made pursuant to this section based on such criteria.
 
-**(d) Treatment of funds received by urban Indian organizations** Any funds received by an urban Indian organization under this chapter for substance abuse prevention, treatment, and rehabilitation shall be subject to the criteria set forth in subsection (c) of this section.
+**(d) Treatment of funds received by urban Indian organizations** Any funds received by an urban Indian organization under this chapter for substance abuse prevention, treatment, and rehabilitation shall be subject to the criteria set forth in subsection (c).
 
 ### Statutory Notes
 
@@ -4688,14 +4799,14 @@ Notwithstanding any other provision of law, the Tulsa Clinic and Oklahoma City C
 
 (2) continue to be treated as Service units and operating units in the allocation of resources and coordination of care; and
 
-(3) continue to meet the requirements and definitions of an urban Indian organization in this chapter, and shall not be subject to the provisions of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.).
+(3) continue to meet the requirements and definitions of an urban Indian organization in this chapter, and shall not be subject to the provisions of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.).11 See References in Text note below.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in par. (3), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-018-indian-health-care.md#section-1601) and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in par. (3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in par. (3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Amendment by Pub. L. 111–148 is based on sections 101(b)(8) and 162 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which were enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -4708,7 +4819,7 @@ Subsec. (c). Pub. L. 111–148 struck out subsec. (c), which authorized appropri
 1998—Subsec. (c). Pub. L. 105–256 added subsec. (c).
 
 #### Permanent Programs Under the Direct Care Program of the Indian Health Service
-Pub. L. 108–447, div. E, title II, Dec. 8, 2004, 118 Stat. 3087, provided in part that: “Notwithstanding any other provision of law, the Tulsa and Oklahoma City Clinic demonstration projects shall be permanent programs under the direct care program of the Indian Health Service; shall be treated as service units and operating units in the allocation of resources and coordination of care; shall continue to meet the requirements applicable to an Urban Indian organization under this title [title II of div. E of Pub. L. 108–447, see Tables for classification]; and shall not be subject to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.).”
+Pub. L. 108–447, div. E, title II, Dec. 8, 2004, 118 Stat. 3087, provided in part that: “Notwithstanding any other provision of law, the Tulsa and Oklahoma City Clinic demonstration projects shall be permanent programs under the direct care program of the Indian Health Service; shall be treated as service units and operating units in the allocation of resources and coordination of care; shall continue to meet the requirements applicable to an Urban Indian organization under this title [title II of div. E of Pub. L. 108–447, see Tables for classification]; and shall not be subject to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) [now [25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.].”
 
 #### Extension of Terms of Projects
 Pub. L. 105–256, § 4(a), Oct. 14, 1998, 112 Stat. 1897, provided for extension of terms of projects referred to in [section 1660b of this title](./chapter-018-indian-health-care.md#section-1660b) to Oct. 1, 2002.
@@ -4855,7 +4966,7 @@ Section 518 of Pub. L. 94–437 is based on section 166 of title I of S. 1790, O
 
   (D) the Act of August 16, 1957 ([42 U.S.C. 2005](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2005&num=0&edition=prelim) et seq.); and
 
-  (E) the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.);
+  (E) the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.); 11 See References in Text note below.
 
 (4) administer all scholarship and loan functions carried out under subchapter I;
 
@@ -4881,7 +4992,7 @@ Section 518 of Pub. L. 94–437 is based on section 166 of title I of S. 1790, O
 
   (C) to manage, expend, and obligate all funds appropriated for the Service.
 
-(2) **Personnel actions** — Notwithstanding any other provision of law, the provisions of [section 472 of this title](./chapter-014-miscellaneous.md#section-472),11 So in original. The comma probably should not appear. shall apply to all personnel actions taken with respect to new positions created within the Service as a result of its establishment under subsection (a).
+(2) **Personnel actions** — Notwithstanding any other provision of law, the provisions of [section 5116 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5116),22 So in original. The comma probably should not appear. shall apply to all personnel actions taken with respect to new positions created within the Service as a result of its establishment under subsection (a).
 
 ### Statutory Notes
 
@@ -4892,7 +5003,7 @@ Act of August 5, 1954, referred to in subsec. (c)(3)(C), is act Aug. 5, 1954, ch
 
 Act of August 16, 1957, referred to in subsec. (c)(3)(D), is Pub. L. 85–151, Aug. 16, 1957, 71 Stat. 370, which is classified generally to subchapter II (§ 2005 et seq.) of chapter 22 of Title 42. For complete classification of this Act to the Code, see Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(3)(E), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsec. (c)(3)(E), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Amendment by Pub. L. 111–148 is based on section 171 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -4946,7 +5057,7 @@ Pub. L. 100–713, title VI, § 601(b), Nov. 23, 1988, 102 Stat. 4826, provided 
 
 **(b) Provision to Indian tribes and organizations; reimbursement**
 
-(1) The Secretary shall provide each Indian tribe and tribal organization that provides health services under a contract entered into with the Service under the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.] automated management information systems which—
+(1) The Secretary shall provide each Indian tribe and tribal organization that provides health services under a contract entered into with the Service under the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.] automated management information systems which—
 
   (A) meet the management information needs of such Indian tribe or tribal organization with respect to the treatment by the Indian tribe or tribal organization of patients of the Service, and
 
@@ -4961,7 +5072,7 @@ Pub. L. 100–713, title VI, § 601(b), Nov. 23, 1988, 102 Stat. 4826, provided 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in subsec. (b)(1), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in subsec. (b)(1), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Amendments
 1992—Subsec. (a)(3). Pub. L. 102–573 struck out par. (3) which directed Secretary to submit report to Congress no later than Sept. 30, 1989.
@@ -5382,7 +5493,7 @@ A prior section 1665f, Pub. L. 94–437, title VII, § 707, as added Pub. L. 102
 
 <a id="section-1665j"></a>
 ## § 1665j. Indian youth program
-**(a) Detoxification and rehabilitation** The Secretary, acting through the Service, consistent with [section 1665a of this title](./chapter-018-indian-health-care.md#section-1665a), shall develop and implement a program for acute detoxification and treatment for Indian youths, including behavioral health services. The program shall include regional treatment centers designed to include detoxification and rehabilitation for both sexes on a referral basis and programs developed and implemented by Indian tribes or tribal organizations at the local level under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.). Regional centers shall be integrated with the intake and rehabilitation programs based in the referring Indian community.
+**(a) Detoxification and rehabilitation** The Secretary, acting through the Service, consistent with [section 1665a of this title](./chapter-018-indian-health-care.md#section-1665a), shall develop and implement a program for acute detoxification and treatment for Indian youths, including behavioral health services. The program shall include regional treatment centers designed to include detoxification and rehabilitation for both sexes on a referral basis and programs developed and implemented by Indian tribes or tribal organizations at the local level under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.).11 See References in Text note below. Regional centers shall be integrated with the intake and rehabilitation programs based in the referring Indian community.
 
 **(b) Alcohol and substance abuse treatment centers or facilities**
 
@@ -5402,7 +5513,7 @@ A prior section 1665f, Pub. L. 94–437, title VII, § 707, as added Pub. L. 102
 
     (i) the Tanana Chiefs Conference, Incorporated, for the purpose of leasing, constructing, renovating, operating, and maintaining a residential youth treatment facility in Fairbanks, Alaska; and
 
-    (ii) the Southeast Alaska Regional Health Corporation to staff and operate a residential youth treatment facility without regard to the proviso set forth in section 4(l) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](./chapter-014-miscellaneous.md#section-450b)(l)).
+    (ii) the Southeast Alaska Regional Health Corporation to staff and operate a residential youth treatment facility without regard to the proviso set forth in section 4(l) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](./chapter-014-miscellaneous.md#section-450b)(l)).1
 
   (B) *Provision of services to eligible youths* — Until additional residential youth treatment facilities are established in Alaska pursuant to this section, the facilities specified in subparagraph (A) shall make every effort to provide services to all eligible Indian youths residing in Alaska.
 
@@ -5469,7 +5580,7 @@ A prior section 1665f, Pub. L. 94–437, title VII, § 707, as added Pub. L. 102
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsecs. (a) and (b)(4)(A)(ii), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. Section 4(l) of the Act was classified to section 450b(l) of this title prior to editorial reclassification as section 5304(l) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Section 708 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -6229,6 +6340,12 @@ Section 725 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 #### Codification
 Section 726 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
+#### Amendments
+2015—Subsec. (b)(3)(D)(iii). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7702 or 7703 of title 20.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 
 <a id="section-1674"></a>
 ## § 1674. Reports
@@ -6450,7 +6567,7 @@ A prior section 1675, Pub. L. 94–437, title VIII, § 805, formerly title VII, 
 
 (5) the efforts that have been made by Federal and State agencies and mining and milling companies to effectively carry out an education program for such Indians regarding the health and safety hazards of such nuclear resource development.
 
-**(b) Health care plan; development** Upon completion of such study the Secretary and the Service shall take into account the results of such study and develop a health care plan to address the health problems studied under subsection (a) of this section. The plan shall include—
+**(b) Health care plan; development** Upon completion of such study the Secretary and the Service shall take into account the results of such study and develop a health care plan to address the health problems studied under subsection (a). The plan shall include—
 
 (1) methods for diagnosing and treating Indians currently exhibiting such health problems;
 
@@ -6458,7 +6575,7 @@ A prior section 1675, Pub. L. 94–437, title VIII, § 805, formerly title VII, 
 
 (3) a program of education for Indians who, by reason of their work or geographic proximity to such nuclear development activities, may experience health problems.
 
-**(c) Reports to Congress** The Secretary and the Service shall submit to Congress the study prepared under subsection (a) of this section no later than the date eighteen months after December 17, 1980. The health care plan prepared under subsection (b) of this section shall be submitted in a report no later than the date one year after the date that the study prepared under subsection (a) of this section is submitted to Congress. Such report shall include recommended activities for the implementation of the plan, as well as an evaluation of any activities previously undertaken by the Service to address such health problems.
+**(c) Reports to Congress** The Secretary and the Service shall submit to Congress the study prepared under subsection (a) no later than the date eighteen months after December 17, 1980. The health care plan prepared under subsection (b) shall be submitted in a report no later than the date one year after the date that the study prepared under subsection (a) is submitted to Congress. Such report shall include recommended activities for the implementation of the plan, as well as an evaluation of any activities previously undertaken by the Service to address such health problems.
 
 **(d) Intergovernmental Task Force; establishment and functions**
 
@@ -6560,7 +6677,7 @@ The State of California, excluding the counties of Alameda, Contra Costa, Los An
 <a id="section-1680d"></a>
 ## § 1680d. Contract health facilities
 
-The Service shall provide funds for health care programs and facilities operated by tribes and tribal organizations under contracts with the Service entered into under the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.]—
+The Service shall provide funds for health care programs and facilities operated by tribes and tribal organizations under contracts with the Service entered into under the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.]—
 
 (1) for the maintenance and repair of clinics owned or leased by such tribes or tribal organizations,
 
@@ -6574,7 +6691,7 @@ on the same basis as such funds are provided to programs and facilities operated
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 
 <a id="section-1680e"></a>
@@ -6613,7 +6730,7 @@ shall be eligible for all health services provided by the Service on the same ba
 
   (B) the Secretary and the served Indian tribes have jointly determined that the provision of such health services will not result in a denial or diminution of health services to eligible Indians.
 
-(2) **ISDEAA programs** — In the case of health facilities operated under a contract or compact entered into under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), the governing body of the Indian tribe or tribal organization providing health services under such contract or compact is authorized to determine whether health services should be provided under such contract or compact to individuals who are not eligible for such health services under any other subsection of this section or under any other provision of law. In making such determinations, the governing body of the Indian tribe or tribal organization shall take into account the consideration described in paragraph (1)(B). Any services provided by the Indian tribe or tribal organization pursuant to a determination made under this subparagraph shall be deemed to be provided under the agreement entered into by the Indian tribe or tribal organization under the Indian Self-Determination and Education Assistance Act. The provisions of section 314 of Public Law 101–512 (104 Stat. 1959), as amended by section 308 of Public Law 103–138 (107 Stat. 1416), shall apply to any services provided by the Indian tribe or tribal organization pursuant to a determination made under this subparagraph.
+(2) **ISDEAA programs** — In the case of health facilities operated under a contract or compact entered into under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.),11 See References in Text note below. the governing body of the Indian tribe or tribal organization providing health services under such contract or compact is authorized to determine whether health services should be provided under such contract or compact to individuals who are not eligible for such health services under any other subsection of this section or under any other provision of law. In making such determinations, the governing body of the Indian tribe or tribal organization shall take into account the consideration described in paragraph (1)(B). Any services provided by the Indian tribe or tribal organization pursuant to a determination made under this subparagraph shall be deemed to be provided under the agreement entered into by the Indian tribe or tribal organization under the Indian Self-Determination and Education Assistance Act. The provisions of section 314 of Public Law 101–512 (104 Stat. 1959), as amended by section 308 of Public Law 103–138 (107 Stat. 1416), shall apply to any services provided by the Indian tribe or tribal organization pursuant to a determination made under this subparagraph.
 
 (3) **Payment for services**
 
@@ -6639,22 +6756,22 @@ shall be eligible for all health services provided by the Service on the same ba
 
 **(e) Hospital privileges for practitioners**
 
-(1) **In general** — Hospital privileges in health facilities operated and maintained by the Service or operated under a contract or compact pursuant to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) may be extended to non-Service health care practitioners who provide services to individuals described in subsection (a), (b), (c), or (d). Such non-Service health care practitioners may, as part of the privileging process, be designated as employees of the Federal Government for purposes of section 1346(b) and chapter 171 of title 28 (relating to Federal tort claims) only with respect to acts or omissions which occur in the course of providing services to eligible individuals as a part of the conditions under which such hospital privileges are extended.
+(1) **In general** — Hospital privileges in health facilities operated and maintained by the Service or operated under a contract or compact pursuant to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) 1 may be extended to non-Service health care practitioners who provide services to individuals described in subsection (a), (b), (c), or (d). Such non-Service health care practitioners may, as part of the privileging process, be designated as employees of the Federal Government for purposes of section 1346(b) and chapter 171 of title 28 (relating to Federal tort claims) only with respect to acts or omissions which occur in the course of providing services to eligible individuals as a part of the conditions under which such hospital privileges are extended.
 
 (2) **Definition** — For purposes of this subsection, the term “non-Service health care practitioner” means a practitioner who is not—
 
   (A) an employee of the Service; or
 
-  (B) an employee of an Indian tribe or tribal organization operating a contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) or an individual who provides health care services pursuant to a personal services contract with such Indian tribe or tribal organization.
+  (B) an employee of an Indian tribe or tribal organization operating a contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) 1 or an individual who provides health care services pursuant to a personal services contract with such Indian tribe or tribal organization.
 
 **(f) Eligible Indian** For purposes of this section, the term “eligible Indian” means any Indian who is eligible for health services provided by the Service without regard to the provisions of this section.
 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (c)(2) and (e), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsecs. (c)(2) and (e), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
-Section 314 of Public Law 101–512, referred to in subsec. (c)(2), is set out as a note under [section 450f of this title](./chapter-014-miscellaneous.md#section-450f).
+Section 314 of Public Law 101–512, referred to in subsec. (c)(2), is set out as a note under [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321).
 
 The Social Security Act, referred to in subsec. (c)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
@@ -6701,7 +6818,7 @@ By no later than January 1, 1990, the Secretary shall develop and begin implemen
 
 <a id="section-1680i"></a>
 ## § 1680i. Indian Health Service and Department of Veterans Affairs health facilities and services sharing
-**(a) Feasibility study and report** The Secretary shall examine the feasibility of entering into an arrangement for the sharing of medical facilities and services between the Indian Health Service and the Department of Veterans Affairs and shall, in accordance with subsection (b) of this section, prepare a report on the feasibility of such an arrangement and submit such report to the Congress by no later than September 30, 1990.
+**(a) Feasibility study and report** The Secretary shall examine the feasibility of entering into an arrangement for the sharing of medical facilities and services between the Indian Health Service and the Department of Veterans Affairs and shall, in accordance with subsection (b), prepare a report on the feasibility of such an arrangement and submit such report to the Congress by no later than September 30, 1990.
 
 **(b) Nonimpairment of service quality, eligibility, or priority of access** The Secretary shall not take any action under this section or under subchapter IV of chapter 81 of title 38 which would impair—
 
@@ -6727,7 +6844,7 @@ By no later than January 1, 1990, the Secretary shall develop and begin implemen
 
 (2) Not later than November 23, 1990, the Secretary and the Secretary of Veterans Affairs shall jointly submit a report to the Congress on the health care services provided as a result of paragraph (1).
 
-**(d) Right to health services** Nothing in this section may be construed as creating any right of a veteran to obtain health services from the Indian Health Service except as provided in an agreement under subsection (c) of this section.
+**(d) Right to health services** Nothing in this section may be construed as creating any right of a veteran to obtain health services from the Indian Health Service except as provided in an agreement under subsection (c).
 
 ### Statutory Notes
 
@@ -6752,7 +6869,7 @@ Pub. L. 108–170, title II, § 244, Dec. 6, 2003, 117 Stat. 2054, provided that
 ## § 1680j. Reallocation of base resources
 **(a) Report to Congress** Notwithstanding any other provision of law, any allocation of Service funds for a fiscal year that reduces by 5 percent or more from the previous fiscal year the funding for any recurring program, project, or activity of a service unit may be implemented only after the Secretary has submitted to the President, for inclusion in the report required to be transmitted to the Congress under [section 1671 of this title](./chapter-018-indian-health-care.md#section-1671), a report on the proposed change in allocation of funding, including the reasons for the change and its likely effects.
 
-**(b) Appropriated amounts** Subsection (a) of this section shall not apply if the total amount appropriated to the Service for a fiscal year is less than the amount appropriated to the Service for previous fiscal year.
+**(b) Appropriated amounts** Subsection (a) shall not apply if the total amount appropriated to the Service for a fiscal year is less than the amount appropriated to the Service for previous fiscal year.
 
 ### Statutory Notes
 
@@ -6768,15 +6885,15 @@ Pub. L. 108–170, title II, § 244, Dec. 6, 2003, 117 Stat. 2054, provided that
 
 (2) A grant may be awarded to an Indian tribe under paragraph (1) only if the Secretary determines that the Indian tribe has the administrative and financial capabilities necessary to conduct a demonstration project described in paragraph (1).
 
-**(b) Health care contracts** During the period in which a demonstration project established under subsection (a) of this section is being conducted by an Indian tribe, the Secretary shall award all health care contracts, including community, behavioral, and preventive health care contracts, to the Indian tribe in the form of a single grant to which the regulations prescribed under part A of title XIX of the Public Health Service Act [[42 U.S.C. 300w](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300w&num=0&edition=prelim) et seq.] (as modified as necessary by any agreement entered into between the Secretary and the Indian tribe to achieve the purposes of the demonstration project established under subsection (a) of this section) shall apply.
+**(b) Health care contracts** During the period in which a demonstration project established under subsection (a) is being conducted by an Indian tribe, the Secretary shall award all health care contracts, including community, behavioral, and preventive health care contracts, to the Indian tribe in the form of a single grant to which the regulations prescribed under part A of title XIX of the Public Health Service Act [[42 U.S.C. 300w](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300w&num=0&edition=prelim) et seq.] (as modified as necessary by any agreement entered into between the Secretary and the Indian tribe to achieve the purposes of the demonstration project established under subsection (a)) shall apply.
 
-**(c) Waiver of procurement laws** The Secretary may waive such provisions of Federal procurement law as are necessary to enable any Indian tribe to develop and test administrative systems under the demonstration project established under subsection (a) of this section, but only if such waiver does not diminish or endanger the delivery of health care services to Indians.
+**(c) Waiver of procurement laws** The Secretary may waive such provisions of Federal procurement law as are necessary to enable any Indian tribe to develop and test administrative systems under the demonstration project established under subsection (a), but only if such waiver does not diminish or endanger the delivery of health care services to Indians.
 
 **(d) Termination; evaluation and report**
 
-(1) The demonstration project established under subsection (a) of this section shall terminate on September 30, 1993, or, in the case of a demonstration project for which a grant is made after September 30, 1990, three years after the date on which such grant is made.
+(1) The demonstration project established under subsection (a) shall terminate on September 30, 1993, or, in the case of a demonstration project for which a grant is made after September 30, 1990, three years after the date on which such grant is made.
 
-(2) By no later than September 30, 1996, the Secretary shall evaluate the performance of each Indian tribe that has participated in a demonstration project established under subsection (a) of this section and shall submit to the Congress a report on such evaluations and demonstration projects.
+(2) By no later than September 30, 1996, the Secretary shall evaluate the performance of each Indian tribe that has participated in a demonstration project established under subsection (a) and shall submit to the Congress a report on such evaluations and demonstration projects.
 
 **(e) Joint venture demonstration projects**
 
@@ -6818,12 +6935,12 @@ Subsec. (e). Pub. L. 102–573, § 808(2), amended subsec. (e) generally. Prior 
 <a id="section-1680m"></a>
 ## § 1680m. Tribal leasing
 
-Indian tribes providing health care services pursuant to a contract entered into under the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.] may lease permanent structures for the purpose of providing such health care services without obtaining advance approval in appropriation Acts.
+Indian tribes providing health care services pursuant to a contract entered into under the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.] may lease permanent structures for the purpose of providing such health care services without obtaining advance approval in appropriation Acts.
 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Amendments
 1992—Pub. L. 102–573, § 807, amended section generally. Prior to amendment, section read as follows:
@@ -6847,9 +6964,9 @@ The repeal is based on section 124(a)(2) of title I of S. 1790, One Hundred Elev
 ## § 1680o. Shared services for long-term care
 **(a) Long-term care**
 
-(1) **In general** — Notwithstanding any other provision of law, the Secretary, acting through the Service, is authorized to provide directly, or enter into contracts or compacts under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) with Indian tribes or tribal organizations for, the delivery of long-term care (including health care services associated with long-term care) provided in a facility to Indians.
+(1) **In general** — Notwithstanding any other provision of law, the Secretary, acting through the Service, is authorized to provide directly, or enter into contracts or compacts under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) 11 See References in Text note below. with Indian tribes or tribal organizations for, the delivery of long-term care (including health care services associated with long-term care) provided in a facility to Indians.
 
-(2) **Inclusions** — Each agreement under paragraph (1) shall provide for the sharing of staff or other services between the Service or a tribal health program and a long-term care or related facility owned and operated (directly or through a contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.)) by the Indian tribe or tribal organization.
+(2) **Inclusions** — Each agreement under paragraph (1) shall provide for the sharing of staff or other services between the Service or a tribal health program and a long-term care or related facility owned and operated (directly or through a contract or compact under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.)) 1 by the Indian tribe or tribal organization.
 
 **(b) Contents of agreements** An agreement entered into pursuant to subsection (a)—
 
@@ -6868,7 +6985,7 @@ The repeal is based on section 124(a)(2) of title I of S. 1790, One Hundred Elev
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Amendment by Pub. L. 111–148 is based on section 124(b) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -6975,7 +7092,7 @@ Section 827 of Pub. L. 94–437 is based on section 196 of title I of S. 1790, O
 
 <a id="section-1680u"></a>
 ## § 1680u. Tribal health program option for cost sharing
-**(a) In general** Nothing in this chapter limits the ability of a tribal health program operating any health program, service, function, activity, or facility funded, in whole or part, by the Service through, or provided for in, a compact with the Service pursuant to title V of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 458aaa](./chapter-014-miscellaneous.md#section-458aaa) et seq.) to charge an Indian for services provided by the tribal health program.
+**(a) In general** Nothing in this chapter limits the ability of a tribal health program operating any health program, service, function, activity, or facility funded, in whole or part, by the Service through, or provided for in, a compact with the Service pursuant to title V of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 458aaa](./chapter-014-miscellaneous.md#section-458aaa) et seq.) 11 See References in Text note below. to charge an Indian for services provided by the tribal health program.
 
 **(b) Service** Nothing in this chapter authorizes the Service—
 
@@ -6988,7 +7105,7 @@ Section 827 of Pub. L. 94–437 is based on section 196 of title I of S. 1790, O
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-018-indian-health-care.md#section-1601) and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203. Title V of the Act is classified principally to part E (§ 458aaa et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203. Title V of the Act was classified principally to part E (§ 458aaa et seq.) of subchapter II of chapter 14 of this title prior to editorial reclassification as subchapter V (§ 5381 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Section 828 of Pub. L. 94–437 is based on section 197 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -7066,14 +7183,14 @@ Section 830 of Pub. L. 94–437 is based on section 199 of title I of S. 1790, O
 <a id="section-1682"></a>
 ## § 1682. Traditional health care practices
 
-Although the Secretary may promote traditional health care practices, consistent with the Service standards for the provision of health care, health promotion, and disease prevention under this chapter, the United States is not liable for any provision of traditional health care practices pursuant to this chapter that results in damage, injury, or death to a patient. Nothing in this subsection shall be construed to alter any liability or other obligation that the United States may otherwise have under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) or this chapter.
+Although the Secretary may promote traditional health care practices, consistent with the Service standards for the provision of health care, health promotion, and disease prevention under this chapter, the United States is not liable for any provision of traditional health care practices pursuant to this chapter that results in damage, injury, or death to a patient. Nothing in this subsection shall be construed to alter any liability or other obligation that the United States may otherwise have under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) 11 See References in Text note below. or this chapter.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-018-indian-health-care.md#section-1601) and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Section 831 of Pub. L. 94–437 is based on section 199A of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -7104,3 +7221,53 @@ The Ryan White Comprehensive AIDS Resources Emergency Act of 1990, referred to i
 
 #### Codification
 Section 832 of Pub. L. 94–437 is based on section 199B of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+
+
+<a id="section-1684"></a>
+## § 1684. Omitted
+
+### Statutory Notes
+
+#### Codification
+Section, Pub. L. 104–134, title I, § 101(c) [title II], Apr. 26, 1996, 110 Stat. 1321–156, 1321–190; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, which provided that the Indian Health Service was to neither bill nor charge those Indians who may have economic means to pay unless and until Congress directs Service to implement policy to do so, was from the Department of the Interior and Related Agencies Appropriations Act, 1996, and was not repeated in subsequent appropriations acts. Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 103–332, title II, Sept. 30, 1994, 108 Stat. 2529.
+
+Pub. L. 103–138, title II, Nov. 11, 1993, 107 Stat. 1409.
+
+Pub. L. 102–381, title II, Oct. 5, 1992, 106 Stat. 1409.
+
+Pub. L. 102–154, title II, Nov. 13, 1991, 105 Stat. 1027.
+
+Pub. L. 101–512, title II, Nov. 5, 1990, 104 Stat. 1952.
+
+Pub. L. 101–121, title II, Oct. 23, 1989, 103 Stat. 734.
+
+Pub. L. 100–446, title II, Sept. 27, 1988, 102 Stat. 1816.
+
+Pub. L. 100–202, § 101(g) [title II], Dec. 22, 1987, 101 Stat. 1329–213, 1329–245.
+
+Pub. L. 99–500, § 101(h) [title II], Oct. 18, 1986, 100 Stat. 1783–242, 1783–277, and Pub. L. 99–591, § 101(h) [title II], Oct. 30, 1986, 100 Stat. 3341–242, 3341–277.
+
+Pub. L. 99–190, § 101(d) [title II], Dec. 19, 1985, 99 Stat. 1224, 1256.
+
+Pub. L. 98–473, title I, § 101(c) [title II], Oct. 12, 1984, 98 Stat. 1837, 1865.
+
+
+<a id="section-1685"></a>
+## § 1685. Subrogation of claims by Indian Health Service
+
+On and after October 18, 1986, the Indian Health Service may seek subrogation of claims including but not limited to auto accident claims, including no-fault claims, personal injury, disease, or disability claims, and worker’s compensation claims, the proceeds of which shall be credited to the funds established by sections 401 and 402 11 See References in Text note below. of the Indian Health Care Improvement Act.
+
+### Statutory Notes
+
+#### References in Text
+Sections 401 and 402 of the Indian Health Care Improvement Act, referred to in text, probably means former sections 401 and 402 of Pub. L. 94–437, title IV, Sept. 30, 1976, 90 Stat. 1408, 1409, which enacted sections 1395qq and 1396j of Title 42, The Public Health and Welfare, amended sections 1395f, 1395n, and 1396d of Title 42, and enacted provisions set out as notes under sections 1395qq and 1396j of Title 42. Sections 401 and 402 of the Act were amended generally by section 401(a), (b)(1) of Pub. L. 102–573, title IV, Oct. 29, 1992, 106 Stat. 4565, and by section 10221(a) of Pub. L. 111–148, title X, Mar. 23, 2010, 124 Stat. 935, and are classified to sections 1641 and 1642 of this title, respectively.
+
+#### Codification
+Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
+
+Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1987, as enacted by Pub. L. 99–500 and Pub. L. 99–591, and not as part of the Indian Health Care Improvement Act which comprises this chapter.
+
+#### Prior Provisions
+A prior section 1682, Pub. L. 98–473, title I, § 101(c) [title II], Oct. 12, 1984, 98 Stat. 1837, 1865, which related to subrogation of claims by Indian Health Service, was omitted as superseded by section 101(h) [title II] of Pub. L. 99–500 and Pub. L. 99–591.

@@ -16,7 +16,7 @@ In this chapter, the term “Commission” means the Commission for the Preserva
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 312301 | no source |  |
+| 312301 | no source. |  |
 
 
 <a id="section-312302"></a>
@@ -29,7 +29,7 @@ Because the fabric of a society is strengthened by visible reminders of the hist
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 312302 | [16 U.S.C. 469j(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469j/a&num=0&edition=prelim) | Pub. L. 99–83, title XIII, § 1303(a), Aug. 8, 1985, 99 Stat. 280. |
+| 312302 | [16 U.S.C. 469j(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469j/a&num=0&edition=prelim). | Pub. L. 99–83, title XIII, § 1303(a), Aug. 8, 1985, 99 Stat. 280. |
 
 
 <a id="section-312303"></a>
@@ -61,8 +61,8 @@ Because the fabric of a society is strengthened by visible reminders of the hist
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 312303(a) | [16 U.S.C. 469j(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469j/b&num=0&edition=prelim) | Pub. L. 99–83, title XIII, § 1303(b), (d) through (f), Aug. 8, 1985, 99 Stat. 280. |
-| 312303(b) through (f) | [16 U.S.C. 469j(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469j/d&num=0&edition=prelim) through (f) |  |
+| 312303(a) | [16 U.S.C. 469j(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469j/b&num=0&edition=prelim). | Pub. L. 99–83, title XIII, § 1303(b), (d) through (f), Aug. 8, 1985, 99 Stat. 280. |
+| 312303(b) through (f) | [16 U.S.C. 469j(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469j/d&num=0&edition=prelim) through (f). |  |
 
 In subsection (c), the text of [16 U.S.C. 469j(d)(2)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469j/d/2/B&num=0&edition=prelim) is omitted as obsolete.
 
@@ -100,12 +100,12 @@ In subsection (c), the text of [16 U.S.C. 469j(d)(2)(B)](https://uscode.house.go
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 312304(a) | [16 U.S.C. 469j(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469j/c&num=0&edition=prelim) | Pub. L. 99–83, title XIII, § 1303(c), (g), Aug. 8, 1985, 99 Stat. 280, 281. |
-| 312304(b) | [16 U.S.C. 469j(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469j/g&num=0&edition=prelim) |  |
+| 312304(a) | [16 U.S.C. 469j(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469j/c&num=0&edition=prelim). | Pub. L. 99–83, title XIII, § 1303(c), (g), Aug. 8, 1985, 99 Stat. 280, 281. |
+| 312304(b) | [16 U.S.C. 469j(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469j/g&num=0&edition=prelim). |  |
 
 In subsection (a)(2), the word “Secretary” is substituted for “Department” because of [22 U.S.C. 2651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2651&num=0&edition=prelim) and 2651a(a).
 
-In subsection (b)(3), the words “under [section 5376 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim)” are substituted for “for grade GS–18 of the General Schedule ([5 U.S.C. 5332(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332/a&num=0&edition=prelim))” because of section 529 [title I, § 101(c)(1)] of the Treasury, Postal Service, and General Government Appropriations Act, 1991 (Public Law 101–509, [5 U.S.C. 5376](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim) note).
+In subsection (b)(3), the words “under [section 5376 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim)” are substituted for “for grade GS–18 of the General Schedule ([5 U.S.C. 5332(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332/a&num=0&edition=prelim))” because of section 529 [title I, § 101(c)(1)] of the Treasury, Postal Service and General Government Appropriations Act, 1991 (Public Law 101–509, [5 U.S.C. 5376](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim) note).
 
 
 <a id="section-312305"></a>
@@ -122,6 +122,6 @@ As soon as practicable after the end of each fiscal year, the Commission shall t
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 312305 | [16 U.S.C. 469j(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469j/h&num=0&edition=prelim) | Pub. L. 99–83, title XIII, § 1303(h), Aug. 8, 1985, 99 Stat. 282. |
+| 312305 | [16 U.S.C. 469j(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469j/h&num=0&edition=prelim). | Pub. L. 99–83, title XIII, § 1303(h), Aug. 8, 1985, 99 Stat. 282. |
 
 The words “and to each House of Congress” are omitted pursuant to section 3003 of the Federal Reports Elimination and Sunset Act of 1995 ([31 U.S.C. 1113](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim) note). See the 4th item on page 174 of House Document No. 103–7.

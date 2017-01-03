@@ -310,7 +310,7 @@ Par. (5)(D). Pub. L. 111–383, § 594(3), substituted “Clinical Health Scienc
 ## § 3069. Army Nurse Corps: composition; Chief and assistant chief; appointment; grade
 **(a)** The Army Nurse Corps consists of the Chief and assistant chief of that corps and other officers in grades prescribed by the Secretary of the Army.
 
-**(b)** The Secretary of the Army shall appoint the Chief from the officers of the Regular Army in that corps whose regular grade is above lieutenant colonel and who are recommended by the Surgeon General. An appointee who holds a lower regular grade shall be appointed in the regular grade of major general. The Chief serves during the pleasure of the Secretary, but not for more than four years, and may not be reappointed to the same position.
+**(b)** The Secretary of the Army shall appoint the Chief from the officers of the Regular Army in that corps whose regular grade is above lieutenant colonel and who are recommended by the Surgeon General. The Chief serves during the pleasure of the Secretary, but not for more than four years, and may not be reappointed to the same position.
 
 **(c)** The Surgeon General shall appoint the assistant chief from the officers of the Regular Army in that corps whose regular grade is above lieutenant colonel. The assistant chief serves during the pleasure of the Surgeon General, but not for more than four years and may not be reappointed to the same position.
 
@@ -324,6 +324,8 @@ Par. (5)(D). Pub. L. 111–383, § 594(3), substituted “Clinical Health Scienc
 The words “officers of the Regular Army in that corps” are substituted for the words “officers permanently commissioned in such Army Nurse Corps”. The words “but not for more than” are substituted for the words “for a term not to exceed”, in 10:166(a). The words “vacating her regular grade” are substituted for the words “vacation of her permanent grade”.
 
 #### Amendments
+2016—Subsec. (b). Pub. L. 114–328 struck out second sentence which read as follows: “An appointee who holds a lower regular grade shall be appointed in the regular grade of major general.”
+
 2002—Subsec. (b). Pub. L. 107–314 substituted “major general” for “brigadier general”.
 
 1996—Pub. L. 104–201, § 502(a)(3), inserted “; grade” at end of section catchline.
@@ -357,8 +359,8 @@ Pub. L. 90–130, § 4(f), Nov. 8, 1967, 81 Stat. 384, authorized until July 1, 
 
 
 <a id="section-3070"></a>
-## § 3070. Army Medical Specialist Corps: organization; Chief and assistant chiefs
-**(a)** The Army Medical Specialist Corps consists of the Chief and assistant chiefs of that corps, other officers in grades prescribed by the Secretary of the Army, and the following sections:
+## § 3070. Army Medical Specialist Corps: organization; Chief
+**(a)** The Army Medical Specialist Corps consists of the Chief of that corps, other officers in grades prescribed by the Secretary of the Army, and the following sections:
 
 (1) The Dietitian Section.
 
@@ -372,9 +374,7 @@ Pub. L. 90–130, § 4(f), Nov. 8, 1967, 81 Stat. 384, authorized until July 1, 
 
 **(b)** The Secretary of the Army shall appoint the Chief from the officers of the Regular Army in that corps whose regular grade is above captain and who are recommended by the Surgeon General. The Chief serves during the pleasure of the Secretary, but not for more than four years, and may not be reappointed.
 
-**(c)** The Surgeon General shall appoint up to five assistant chiefs from officers of the Regular Army in that corps whose regular grade is above captain. Each assistant chief is the chief of a section of that corps. An assistant chief serves during the pleasure of the Surgeon General, but not for more than four years, and may not be reappointed to the same position.
-
-**(d)** Chiropractors who are qualified under regulations prescribed by the Secretary of the Army may be appointed as commissioned officers in the Chiropractic Section of the Army Medical Specialist Corps.
+**(c)** Chiropractors who are qualified under regulations prescribed by the Secretary of the Army may be appointed as commissioned officers in the Chiropractic Section of the Army Medical Specialist Corps.
 
 ### Statutory Notes
 
@@ -389,6 +389,12 @@ In subsection (a), 10:166a(a) (1st 20 words of 1st sentence) is omitted as super
 In subsection (b), the words “officers of the Regular Army in that corps” are substituted for the words “officers permanently commissioned in such Women’s Medical Specialist Corps”. The words “vacating her regular grade” are substituted for the words “vacation of her permanent grade”.
 
 #### Amendments
+2016—Pub. L. 114–328, § 502(p)(2), amended section catchline generally, substituting “Army Medical Specialist Corps: organization; Chief” for “Army Medical Specialist Corps: organization; Chief and assistant chiefs”.
+
+Subsec. (a). Pub. L. 114–328, § 502(p)(1)(A), struck out “and assistant chiefs” after “consists of the Chief” in introductory provisions.
+
+Subsecs. (c), (d). Pub. L. 114–328, § 502(p)(1)(B), (C), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The Surgeon General shall appoint up to five assistant chiefs from officers of the Regular Army in that corps whose regular grade is above captain. Each assistant chief is the chief of a section of that corps. An assistant chief serves during the pleasure of the Surgeon General, but not for more than four years, and may not be reappointed to the same position.”
+
 1992—Subsec. (a)(5). Pub. L. 102–484, § 505(a)(1), added par. (5).
 
 Subsec. (c). Pub. L. 102–484, § 505(a)(2), substituted “up to five assistant chiefs” for “four assistant chiefs”.
@@ -457,11 +463,9 @@ There is a Judge Advocate General’s Corps in the Army. The Judge Advocate Gene
 
 (2) the Assistant Judge Advocate General;
 
-(3) three officers in the grade of brigadier general;
+(3) commissioned officers of the Regular Army appointed therein; and
 
-(4) commissioned officers of the Regular Army appointed therein; and
-
-(5) other members of the Army assigned thereto by the Secretary of the Army.
+(4) other members of the Army assigned thereto by the Secretary of the Army.
 
 ### Statutory Notes
 
@@ -471,6 +475,9 @@ There is a Judge Advocate General’s Corps in the Army. The Judge Advocate Gene
 | 3072 | 10:61–1 (1st sentence, less applicability to strength). | June 28, 1950, ch. 383, § 308 (1st sentence, less applicability to strength), 64 Stat. 270. |
 
 The words “authorized by sections 21f and 21h, respectively, of this title” are omitted as surplusage. The word “grade” is substituted for the word “rank”. The words “but the Secretary shall not assign to the Judge Advocate General’s Corps any officer who has been appointed and commissioned in some other special branch or in the Regular Army without specification of branch” are omitted as covered by [section 3064 of this title](./chapter-307-the-army.md#section-3064).
+
+#### Amendments
+2016—Pars. (3) to (5). Pub. L. 114–328 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “three officers in the grade of brigadier general;”.
 
 
 <a id="section-3073"></a>
@@ -570,7 +577,7 @@ Repeal effective Dec. 1, 1994, except as otherwise provided, see section 1691 of
 
 <a id="section-3081"></a>
 ## § 3081. Dental Corps: Chief, functions
-**(a)** The Chief of the Dental Corps shall be an officer of that corps appointed as prescribed in [section 3039 of this title](./chapter-305-the-army-staff.md#section-3039).
+**(a)** The Chief of the Dental Corps shall be an officer of that corps appointed as prescribed in section 3039 11 See References in Text note below. of this title.
 
 **(b)** Under such regulations as the Secretary of the Army may prescribe, all dental functions of the Army shall be under the direction of the Chief of the Dental Corps. All matters relating to dentistry shall be referred to the Chief of the Dental Corps.
 
@@ -585,6 +592,9 @@ Repeal effective Dec. 1, 1994, except as otherwise provided, see section 1691 of
 **(d)** Under such regulations as the Secretary of the Army may prescribe, dental and dental auxiliary personnel throughout the Army shall be organized into units commanded by a designated Dental Corps Officer. Such officer will be directly responsible to the commander of installations, organizations, and activities for all professional and technical matters and such administrative matters as may be prescribed by regulation.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 3039 of this title](./chapter-305-the-army-staff.md#section-3039), referred to in subsec. (a), was repealed by Pub. L. 114–328, div. A, title V, § 502(n)(1), Dec. 23, 2016, 130 Stat. 2103.
 
 #### Amendments
 1986—Subsec. (a). Pub. L. 99–433 substituted “section 3039” for “section 3040”.
@@ -607,13 +617,15 @@ There is a career field in the Army known as the Public Affairs Specialty. Membe
 
 
 <a id="section-3084"></a>
-## § 3084. Chief of Veterinary Corps: grade
+## § 3084. Chief of Veterinary Corps
 
-The Chief of the Veterinary Corps of the Army shall be appointed from among officers of the Veterinary Corps. The Chief of the Veterinary Corps serves in the grade of brigadier general. An officer appointed to that position who holds a lower grade shall be appointed in the grade of brigadier general.
+The Chief of the Veterinary Corps of the Army shall be appointed from among officers of the Veterinary Corps. An officer appointed to that position who holds a lower grade shall be appointed in the grade of brigadier general.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Pub. L. 114–328 amended section catchline generally, substituting “Chief of Veterinary Corps” for “Chief of Veterinary Corps: grade”, and struck out second sentence of text which read as follows: “The Chief of the Veterinary Corps serves in the grade of brigadier general.”
+
 2006—Pub. L. 109–163 substituted colon for semicolon in section catchline.
 
 2003—Pub. L. 108–136 inserted “shall be appointed from among officers of the Veterinary Corps. The Chief of the Veterinary Corps” after “Army”.

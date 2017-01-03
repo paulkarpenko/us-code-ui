@@ -28,7 +28,7 @@ source: >-
 
 (9) an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 (72 Stat. 838); and
 
-(10) an individual appointed to a position on the office staff of a former President, or a former Vice President under section 4 of the Presidential Transition Act of 1963, as amended (78 Stat. 153), who immediately before the date of such appointment was an employee as defined under any other paragraph of this subsection;
+(10) an individual appointed to a position on the office staff of a former President, or a former Vice President under section 5 of the Presidential Transition Act of 1963, as amended (78 Stat. 153), who immediately before the date of such appointment was an employee as defined under any other paragraph of this subsection;
 but does not include—
 
 (A) an employee of a corporation supervised by the Farm Credit Administration if private interests elect or appoint a member of the board of directors;
@@ -86,9 +86,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 #### References in Text
 Act of August 25, 1958 (72 Stat. 838), referred to in subsec. (a)(9), is Pub. L. 85–745 and is set out as a note under [section 102 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim), The President.
 
-Section 4 of the Presidential Transition Act of 1963, referred to in subsec. (a)(10), is section 4 of Pub. L. 88–277, which is set out as a note under [section 102 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim).
+Section 5 of the Presidential Transition Act of 1963, referred to in subsec. (a)(10), is section 5 of Pub. L. 88–277, which is set out as a note under [section 102 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim), The President.
 
 #### Amendments
+Subsec. (a)(10). Pub. L. 114–136 substituted “section 5” for “section 4”.
+
 1998—Subsec. (c). Pub. L. 105–311, § 3(1), substituted a period for comma after “$10,000” in par. (2) and struck out “except that the amount of insurance may not exceed the annual rate of basic pay payable for positions at level II of the Executive Schedule under [section 5313 of this title](./chapter-053-pay-rates-and-systems.md#section-5313), rounded to the next higher multiple of $1,000, plus $2,000.” before last sentence.
 
 Subsec. (d)(1)(B). Pub. L. 105–311, § 4, inserted “or foster child” after “stepchild” in two places in introductory provisions.

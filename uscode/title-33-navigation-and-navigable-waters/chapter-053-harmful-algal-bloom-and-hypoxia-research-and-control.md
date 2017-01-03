@@ -165,13 +165,9 @@ Section was formerly set out in a note under [section 1451 of Title 16](https://
 
 Pub. L. 113–124, § 3(1), substituted “a representative from” for “the following representatives from” in introductory provisions.
 
-Subsec. (a)(11). Pub. L. 113–124, § 3(2), struck out “and” at end.
+Subsec. (a)(12). Pub. L. 113–124, § 3(2), (4), added par. (12). Former par. (12) redesignated (13).
 
-Subsec. (a)(12). Pub. L. 113–124, § 3(4), added par. (12). Former par. (12) redesignated (13).
-
-Subsec. (a)(13). Pub. L. 113–124, § 3(5), struck out “such” before “other”.
-
-Pub. L. 113–124, § 3(3), redesignated par. (12) as (13).
+Subsec. (a)(13). Pub. L. 113–124, § 3(3), (5), redesignated par. (12) as (13) and struck out “such” before “other”.
 
 Subsec. (j). Pub. L. 113–124, § 6, added subsec. (j).
 
@@ -534,7 +530,7 @@ In this chapter:
 
 (7) **Task Force** — The term “Task Force” means the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia under [section 4001(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section4001/a&num=0&edition=prelim).
 
-(8) **Under secretary** — The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.
+(8) **Under Secretary** — The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.
 
 (9) **United States coastal waters** — The term “United States coastal waters” includes the Great Lakes.
 

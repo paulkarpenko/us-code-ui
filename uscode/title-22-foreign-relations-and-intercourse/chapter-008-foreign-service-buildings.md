@@ -2,7 +2,7 @@
 title: 22
 chapter: '8'
 heading: FOREIGN SERVICE BUILDINGS
-section_count: 18
+section_count: 19
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -25,9 +25,13 @@ Section was not enacted as part of the Foreign Service Buildings Act, 1926, whic
 
 **(b) Payments from other than appropriated funds for acquisition of property** Payments made for rent or otherwise by the United States from funds other than appropriations made to carry out this chapter may be credited toward the acquisition of property under this chapter without regard to limitations of amounts imposed by this chapter.
 
+**(c) Authorization for improvements and construction** The Secretary of State may improve or construct facilities overseas for other Federal departments and agencies on an advance-of-funds or reimbursable basis if such advances or reimbursements are credited to the Embassy Security, Construction, and Maintenance account and remain available until expended.
+
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (c). Pub. L. 114–323 added subsec. (c).
+
 1977—Subsec. (a). Pub. L. 95–105, § 106(a)(1), substituted “to carry out” for “pursuant to”.
 
 Subsec. (b). Pub. L. 95–105, § 106(a)(2), substituted “to carry out” for “under authority of”.
@@ -227,6 +231,16 @@ Prior similar provisions were contained in act June 29, 1939, ch. 248, title I, 
 
 (3) There are hereby authorized to be appropriated to the Secretary of State such additional or supplemental amounts as may be necessary for increases in salary, pay, retirement, or other employee benefits authorized by law.
 
+**(j)**
+
+(1) In addition to exercising any other transfer authority available to the Secretary of State, and subject to paragraph (2), the Secretary may transfer to, and merge with, any appropriation for fiscal year 2018 under the heading “Diplomatic and Consular Programs”, including for Worldwide Security Protection, and under the heading “Embassy Security, Construction, and Maintenance” funds appropriated under such headings if the Secretary determines such transfer is necessary to implement the recommendations of the Benghazi Accountability Review Board, or to prevent or respond to security situations and requirements.
+
+  (A) shall 22 So in original. not exceed 20 percent of any appropriation made available for fiscal year 2018 for the Department of State under the heading “Administration of Foreign Affairs”, and no such appropriation shall be increased by more than 10 percent by any such transfer; and
+
+  (B) shall 2 be merged with funds in the heading to which transferred, and shall be available subject to the same terms and conditions as the funds with which merged.
+
+(2) Not later than 15 days before any transfer of funds pursuant to paragraph (1), the Secretary of State shall notify in writing the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives. Any such notification shall include a description of the particular security need necessitating the transfer at issue.
+
 ### Statutory Notes
 
 #### References in Text
@@ -235,6 +249,8 @@ Prior similar provisions were contained in act June 29, 1939, ch. 248, title I, 
 Date of enactment of this section, referred to in subsec. (d), probably means the date of enactment of Pub. L. 88–94, which was approved on Aug. 12, 1963.
 
 #### Amendments
+2016—Subsec. (j). Pub. L. 114–323 added subsec. (j).
+
 1993—Subsec. (j). Pub. L. 103–199 struck out subsec. (j) which read as follows: “For the purpose of carrying into effect the provisions of this chapter in the Union of Soviet Socialist Republics, there is authorized to be appropriated, in addition to amounts authorized prior to July 12, 1976, $30,000,000, which amount is authorized to remain available until expended.”
 
 1977—Subsec. (h)(1). Pub. L. 95–45 substituted “$225,000” for “$6,725,000” in subpar. (A), “$12,885,000” for “$8,005,000” in subpar. (B), “$3,400,000” for “$3,745,000” in subpar. (C), “$150,000” for “$420,000” in subpar. (D), added subpar. (E), authorizing an appropriation of not to exceed $17,200,000 for facilities for the United States Agency for International Development for fiscal year 1977, and struck out subpars. which had authorized appropriations for Africa, the American Republics, and East Asia for fiscal year 1977.
@@ -461,6 +477,41 @@ Title II of the State Department Basic Authorities Act of 1956, referred to in s
 
 
 <a id="section-303"></a>
-## § 303. Annual report on overseas surplus properties
+## § 303. Repealed. Pub. L. 114–323, title VII, § 715(a)(1), Dec. 16, 2016, 130 Stat. 1946
 
-Not later than March 1 of each year, the Secretary of State shall submit to Congress a report listing overseas United States surplus properties that are administered under this chapter and that have been identified for sale.
+### Statutory Notes
+
+Section, act May 7, 1926, ch. 250, § 12, as added Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2215, Oct. 21, 1998, 112 Stat. 2681–814, required Secretary of State to submit annual report on overseas surplus properties.
+
+
+<a id="section-304"></a>
+## § 304. Annual report on embassy construction costs
+**(a) In general** Not later than 180 days after December 16, 2016, and annually thereafter, the Secretary shall submit to the appropriate congressional committees a comprehensive report regarding all ongoing embassy construction projects and major embassy security upgrade projects.
+
+**(b) Contents** Each report required under subsection (a) shall include the following with respect to each ongoing embassy construction projects and major embassy security upgrade projects:
+
+(1) The initial cost estimate.
+
+(2) The amount expended on the project to date.
+
+(3) The projected timeline for completing the project.
+
+(4) Any cost overruns incurred by the project.
+
+**(c) Initial report** The first report required under subsection (a) shall include an annex regarding all embassy construction projects and major embassy security upgrade projects completed during the 10-year period ending on December 16, 2016, including, for each such project, the following:
+
+(1) The initial cost estimate.
+
+(2) The amount actually expended on the project.
+
+(3) Any additional time required to complete the project beyond the initial timeline.
+
+(4) Any cost overruns incurred by the project.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Department of State Authorities Act, Fiscal Year 2017, and not as part of the Foreign Service Buildings Act, 1926, which comprises this chapter.
+
+#### Definitions
+For definitions of “Secretary” and “appropriate congressional committees” as used in this section, see section 2 of Pub. L. 114–323, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).

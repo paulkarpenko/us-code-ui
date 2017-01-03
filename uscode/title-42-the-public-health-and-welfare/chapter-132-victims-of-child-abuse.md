@@ -124,7 +124,7 @@ A prior section 212 of Pub. L. 101–647 was renumbered section 214 and is class
 
 (2) **Minimum qualifications** — In order for a proposal to be selected, the Administrator may require an applicant to have in existence, at the time the proposal is submitted, 1 or more of the following:
 
-  (A) A proven record in conducting activities of the kinds described in subsection (c) of this section.
+  (A) A proven record in conducting activities of the kinds described in subsection (c).
 
   (B) A facility where children who are victims of sexual or physical abuse and their nonoffending family members can go for the purpose of evaluation, intervention, evidence gathering, and counseling.
 
@@ -170,7 +170,7 @@ A prior section 212 of Pub. L. 101–647 was renumbered section 214 and is class
 
     (ii) assist in resolving problems that may occur during the development, operation, and implementation of a multidisciplinary program that responds to child abuse;
 
-    (iii) carry out the objectives developed by the board under subsection (e)(2)(A) of this section;
+    (iii) carry out the objectives developed by the board under subsection (e)(2)(A);
 
     (iv) to the greatest extent possible and subject to available appropriations, ensure that at least 1 applicant is selected from each of the 4 census regions of the country; and
 
@@ -194,7 +194,7 @@ A prior section 212 of Pub. L. 101–647 was renumbered section 214 and is class
 
   (A) *Failure to implement program activities* — If a grant recipient under this section substantially fails in the implementation of the program activities, the Administrator shall not discontinue funding until reasonable notice and an opportunity for reconsideration is given.
 
-  (B) *Solicitation of new proposals* — Upon discontinuation of funding of a grant recipient under this section, the Administrator shall solicit new proposals in accordance with subsection (c) of this section.
+  (B) *Solicitation of new proposals* — Upon discontinuation of funding of a grant recipient under this section, the Administrator shall solicit new proposals in accordance with subsection (c).
 
 **(e) Children’s advocacy advisory board**
 
@@ -216,7 +216,7 @@ A prior section 212 of Pub. L. 101–647 was renumbered section 214 and is class
 
 (2) **Review and recommendations**
 
-  (A) *Objectives* — Not later than 180 days after November 4, 1992, and annually thereafter, the board shall develop and submit to the Administrator and the Director objectives for the implementation of the children’s advocacy program activities described in subsection (b) of this section.
+  (A) *Objectives* — Not later than 180 days after November 4, 1992, and annually thereafter, the board shall develop and submit to the Administrator and the Director objectives for the implementation of the children’s advocacy program activities described in subsection (b).
 
   (B) *Review* — The board shall annually—
 
@@ -304,7 +304,7 @@ Amendment by Pub. L. 107–273 effective on the first day of the first fiscal ye
 ## § 13003. Grants for specialized technical assistance and training programs
 **(a) In general** The Administrator shall make grants to national organizations to provide technical assistance and training to attorneys and others instrumental to the criminal prosecution of child abuse cases in State or Federal courts, for the purpose of improving the quality of criminal prosecution of such cases.
 
-**(b) Grantee organizations** An organization to which a grant is made pursuant to subsection (a) of this section shall be one that has, or is affiliated with one that has, broad membership among attorneys who prosecute criminal cases in State courts and has demonstrated experience in providing training and technical assistance for prosecutors.
+**(b) Grantee organizations** An organization to which a grant is made pursuant to subsection (a) shall be one that has, or is affiliated with one that has, broad membership among attorneys who prosecute criminal cases in State courts and has demonstrated experience in providing training and technical assistance for prosecutors.
 
 **(c) Grant criteria**
 
@@ -430,7 +430,7 @@ Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal yea
 
 **(b) Grantee organizations**
 
-(1) An organization to which a grant is made pursuant to subsection (a) of this section—
+(1) An organization to which a grant is made pursuant to subsection (a)—
 
   (A) shall be a national organization that has broad membership among court-appointed special advocates and has demonstrated experience in grant administration of court-appointed special advocate programs and in providing training and technical assistance to court-appointed special advocate program; or
 
@@ -477,7 +477,7 @@ Subsec. (e). Pub. L. 113–4, § 106(2)(B), added subsec. (e).
 
 2006—Subsec. (a). Pub. L. 109–162, § 112(c)(1), substituted “to initiate, sustain, and expand” for “to expand”.
 
-Subsec. (b)(1). Pub. L. 109–162, § 112(c)(2)(A), substituted “subsection (a) of this section—” for “subsection (a) of this section”, inserted subpar. (A) designation before “shall be”, and substituted “(B) may be” for “(2) may be” and “to initiate, sustain, and expand” for “to initiate or expand”.
+Subsec. (b)(1). Pub. L. 109–162, § 112(c)(2)(A), substituted “subsection (a)—” for “subsection (a)”, inserted subpar. (A) designation before “shall be”, and substituted “(B) may be” for “(2) may be” and “to initiate, sustain, and expand” for “to initiate or expand”.
 
 Subsec. (b)(2). Pub. L. 109–162, § 112(c)(2)(B), substituted “(1)(A)” for “(1)(a)” and “to initiate, sustain, and expand” for “to initiate and to expand”.
 
@@ -496,7 +496,7 @@ Amendment by Pub. L. 107–273 effective on the first day of the first fiscal ye
 ## § 13013a. Report
 **(a) Report required** Not later than December 31, 2006, the Inspector General of the Department of Justice shall submit to Congress a report on the types of activities funded by the National Court-Appointed Special Advocate Association and a comparison of outcomes in cases where court-appointed special advocates are involved and cases where court-appointed special advocates are not involved.
 
-**(b) Elements of report** The report submitted under subsection (a) of this section shall include information on the following:
+**(b) Elements of report** The report submitted under subsection (a) shall include information on the following:
 
 (1) The types of activities the National Court-Appointed Special Advocate Association has funded since 1993.
 
@@ -625,9 +625,9 @@ In order to improve the judicial system’s handling of child abuse and neglect 
 
   (B) procedures for determining whether child service agencies have, after placement of children in foster care, made reasonable efforts to reunite the family; and
 
-  (C) procedures for coordinating information and services among health professionals, social workers, law enforcement professionals, prosecutors, defense attorneys, and juvenile and family court personnel, consistent with subchapter I of this chapter.
+  (C) procedures for coordinating information and services among health professionals, social workers, law enforcement professionals, prosecutors, defense attorneys, and juvenile and family court personnel, consistent with subchapter I.
 
-**(c) Grant criteria** The Administrator shall make grants under subsections (a) and (b) of this section consistent with sections 5666, 5673, and 5676 of this title.
+**(c) Grant criteria** The Administrator shall make grants under subsections (a) and (b) consistent with sections 5666, 5673, and 5676 of this title.
 
 ### Statutory Notes
 
@@ -642,7 +642,7 @@ Amendment by Pub. L. 107–273 effective on the first day of the first fiscal ye
 ## § 13024. Authorization of appropriations
 **(a) Authorization** There is authorized to be appropriated to carry out this subchapter $2,300,000 for each of fiscal years 2014 through 2018.
 
-**(b) Use of funds** Of the amounts appropriated in subsection (a) of this section, not less than 80 percent shall be used for grants under [section 13023(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13023/b&num=0&edition=prelim).
+**(b) Use of funds** Of the amounts appropriated in subsection (a), not less than 80 percent shall be used for grants under [section 13023(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13023/b&num=0&edition=prelim).
 
 **(c) Limitation** No funds are authorized to be appropriated for a fiscal year to carry out this subchapter unless the aggregate amount appropriated to carry out title II of the Juvenile Justice and Delinquency Prevention Act of 1974 ([42 U.S.C. 5611](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5611) et seq.) for such fiscal year is not less than the aggregate amount appropriated to carry out such title for the preceding fiscal year.
 
@@ -675,9 +675,9 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subs
 
 <a id="section-13031"></a>
 ## § 13031. Child abuse reporting
-**(a) In general** A person who, while engaged in a professional capacity or activity described in subsection (b) of this section on Federal land or in a federally operated (or contracted) facility, learns of facts that give reason to suspect that a child has suffered an incident of child abuse, shall as soon as possible make a report of the suspected abuse to the agency designated under subsection (d) of this section.
+**(a) In general** A person who, while engaged in a professional capacity or activity described in subsection (b) on Federal land or in a federally operated (or contracted) facility, learns of facts that give reason to suspect that a child has suffered an incident of child abuse, shall as soon as possible make a report of the suspected abuse to the agency designated under subsection (d) and to the agency or agencies provided for in subsection (e), if applicable.
 
-**(b) Covered professionals** Persons engaged in the following professions and activities are subject to the requirements of subsection (a) of this section:
+**(b) Covered professionals** Persons engaged in the following professions and activities are subject to the requirements of subsection (a):
 
 (1) Physicians, dentists, medical residents or interns, hospital personnel and administrators, nurses, health care practitioners, chiropractors, osteopaths, pharmacists, optometrists, podiatrists, emergency medical technicians, ambulance drivers, undertakers, coroners, medical examiners, alcohol or drug treatment personnel, and persons performing a healing role or practicing the healing arts.
 
@@ -723,20 +723,29 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subs
 
 (8) the term “child abuse” shall not include discipline administered by a parent or legal guardian to his or her child provided it is reasonable in manner and moderate in degree and otherwise does not constitute cruelty.
 
-**(d) Agency designated to receive report and action to be taken** For all Federal lands and all federally operated (or contracted) facilities in which children are cared for or reside, the Attorney General shall designate an agency to receive and investigate the reports described in subsection (a) of this section. By formal written agreement, the designated agency may be a non-Federal agency. When such reports are received by social services or health care agencies, and involve allegations of sexual abuse, serious physical injury, or life-threatening neglect of a child, there shall be an immediate referral of the report to a law enforcement agency with authority to take emergency action to protect the child. All reports received shall be promptly investigated, and whenever appropriate, investigations shall be conducted jointly by social services and law enforcement personnel, with a view toward avoiding unnecessary multiple interviews with the child.
+**(d) Agency designated to receive report and action to be taken** For all Federal lands and all federally operated (or contracted) facilities in which children are cared for or reside, the Attorney General shall designate an agency to receive and investigate the reports described in subsection (a). By formal written agreement, the designated agency may be a non-Federal agency. When such reports are received by social services or health care agencies, and involve allegations of sexual abuse, serious physical injury, or life-threatening neglect of a child, there shall be an immediate referral of the report to a law enforcement agency with authority to take emergency action to protect the child. All reports received shall be promptly investigated, and whenever appropriate, investigations shall be conducted jointly by social services and law enforcement personnel, with a view toward avoiding unnecessary multiple interviews with the child.
 
-**(e) Reporting form** In every federally operated (or contracted) facility, and on all Federal lands, a standard written reporting form, with instructions, shall be disseminated to all mandated reporter groups. Use of the form shall be encouraged, but its use shall not take the place of the immediate making of oral reports, telephonically or otherwise, when circumstances dictate.
+**(e) Reporters and recipient of report involving children and homes of members of the Armed Forces**
 
-**(f) Immunity for good faith reporting and associated actions** All persons who, acting in good faith, make a report by subsection (a) of this section, or otherwise provide information or assistance in connection with a report, investigation, or legal intervention pursuant to a report, shall be immune from civil and criminal liability arising out of such actions. There shall be a presumption that any such persons acted in good faith. If a person is sued because of the person’s performance of one of the above functions, and the defendant prevails in the litigation, the court may order that the plaintiff pay the defendant’s legal expenses. Immunity shall not be accorded to persons acting in bad faith.
+(1) **Recipients of reports** — In the case of an incident described in subsection (a) involving a child in the family or home of member of the Armed Forces (regardless of whether the incident occurred on or off a military installation), the report required by subsection (a) shall be made to the appropriate child welfare services agency or agencies of the State in which the child resides. The Attorney General, the Secretary of Defense, and the Secretary of Homeland Security (with respect to the Coast Guard when it is not operating as a service in the Navy) shall jointly, in consultation with the chief executive officers of the States, designate the child welfare service agencies of the States that are appropriate recipients of reports pursuant to this subsection. Any report on an incident pursuant to this subsection is in addition to any other report on the incident pursuant to this section.
 
-**(g) Omitted**
+(2) **Makers of reports** — For purposes of the making of reports under this section pursuant to this subsection, the persons engaged in professions and activities described in subsection (b) shall include members of the Armed Forces who are engaged in such professions and activities for members of the Armed Forces and their dependents.
 
-**(h) Training of prospective reporters** All individuals in the occupations listed in subsection (b)(1) of this section who work on Federal lands, or are employed in federally operated (or contracted) facilities, shall receive periodic training in the obligation to report, as well as in the identification of abused and neglected children.
+**(f) Reporting form** In every federally operated (or contracted) facility, and on all Federal lands, a standard written reporting form, with instructions, shall be disseminated to all mandated reporter groups. Use of the form shall be encouraged, but its use shall not take the place of the immediate making of oral reports, telephonically or otherwise, when circumstances dictate.
+
+**(g) Immunity for good faith reporting and associated actions** All persons who, acting in good faith, make a report by subsection (a), or otherwise provide information or assistance in connection with a report, investigation, or legal intervention pursuant to a report, shall be immune from civil and criminal liability arising out of such actions. There shall be a presumption that any such persons acted in good faith. If a person is sued because of the person’s performance of one of the above functions, and the defendant prevails in the litigation, the court may order that the plaintiff pay the defendant’s legal expenses. Immunity shall not be accorded to persons acting in bad faith.
+
+**(h) Training of prospective reporters** All individuals in the occupations listed in subsection (b)(1) who work on Federal lands, or are employed in federally operated (or contracted) facilities, shall receive periodic training in the obligation to report, as well as in the identification of abused and neglected children.
 
 ### Statutory Notes
 
 #### Codification
 Section is comprised of section 226 of Pub. L. 101–647. Subsec. (g) of section 226 of Pub. L. 101–647 enacted [section 2258 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2258&num=0&edition=prelim), Crimes and Criminal Procedure.
+
+#### Amendments
+2016—Subsec. (a). Pub. L. 114–328, § 575(b)(1), inserted before period at end “and to the agency or agencies provided for in subsection (e), if applicable”.
+
+Subsecs. (e) to (g). Pub. L. 114–328, § 575(b)(2), (3), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
 
 <a id="section-13032"></a>
@@ -751,13 +760,13 @@ Section, Pub. L. 101–647, title II, § 227, as added Pub. L. 105–314, title 
 ## § 13041. Requirement for background checks
 **(a) In general**
 
-(1) Each agency of the Federal Government, and every facility operated by the Federal Government (or operated under contract with the Federal Government), that hires (or contracts for hire) individuals involved with the provision to children under the age of 18 of child care services shall assure that all existing and newly-hired employees undergo a criminal history background check. All existing staff shall receive such checks not later than May 29, 1991. Except as provided in subsection (b)(3) of this section, no additional staff shall be hired without a check having been completed.
+(1) Each agency of the Federal Government, and every facility operated by the Federal Government (or operated under contract with the Federal Government), that hires (or contracts for hire) individuals involved with the provision to children under the age of 18 of child care services shall assure that all existing and newly-hired employees undergo a criminal history background check. All existing staff shall receive such checks not later than May 29, 1991. Except as provided in subsection (b)(3), no additional staff shall be hired without a check having been completed.
 
 (2) For the purposes of this section, the term “child care services” means child protective services (including the investigation of child abuse and neglect reports), social services, health and mental health care, child (day) care, education (whether or not directly involved in teaching), foster care, residential care, recreational or rehabilitative programs, and detention, correctional, or treatment services.
 
 **(b) Criminal history check**
 
-(1) A background check required by subsection (a) of this section shall be—
+(1) A background check required by subsection (a) shall be—
 
   (A) based on a set of the employee’s fingerprints obtained by a law enforcement officer and on other identifying information;
 
@@ -767,22 +776,22 @@ Section, Pub. L. 101–647, title II, § 227, as added Pub. L. 105–314, title 
 
 (2) The results of the background check shall be communicated to the employing agency.
 
-(3) An agency or facility described in subsection (a)(1) of this section may hire a staff person provisionally prior to the completion of a background check if, at all times prior to receipt of the background check during which children are in the care of the person, the person is within the sight and under the supervision of a staff person with respect to whom a background check has been completed.
+(3) An agency or facility described in subsection (a)(1) may hire a staff person provisionally prior to the completion of a background check if, at all times prior to receipt of the background check during which children are in the care of the person, the person is within the sight and under the supervision of a staff person with respect to whom a background check has been completed.
 
-**(c) Applicable criminal histories** Any conviction for a sex crime, an offense involving a child victim, or a drug felony, may be ground for denying employment or for dismissal of an employee in any of the positions listed in subsection (a)(2) of this section. In the case of an incident in which an individual has been charged with one of those offenses, when the charge has not yet been disposed of, an employer may suspend an employee from having any contact with children while on the job until the case is resolved. Conviction of a crime other than a sex crime may be considered if it bears on an individual’s fitness to have responsibility for the safety and well-being of children.
+**(c) Applicable criminal histories** Any conviction for a sex crime, an offense involving a child victim, or a drug felony, may be ground for denying employment or for dismissal of an employee in any of the positions listed in subsection (a)(2). In the case of an incident in which an individual has been charged with one of those offenses, when the charge has not yet been disposed of, an employer may suspend an employee from having any contact with children while on the job until the case is resolved. Conviction of a crime other than a sex crime may be considered if it bears on an individual’s fitness to have responsibility for the safety and well-being of children.
 
 **(d) Employment applications**
 
-(1) Employment applications for individuals who are seeking work for an agency of the Federal Government, or for a facility or program operated by (or through contract with) the Federal Government, in any of the positions listed in subsection (a)(1) of this section, shall contain a question asking whether the individual has ever been arrested for or charged with a crime involving a child, and if so requiring a description of the disposition of the arrest or charge. An application shall state that it is being signed under penalty of perjury, with the applicable Federal punishment for perjury stated on the application.
+(1) Employment applications for individuals who are seeking work for an agency of the Federal Government, or for a facility or program operated by (or through contract with) the Federal Government, in any of the positions listed in subsection (a)(1), shall contain a question asking whether the individual has ever been arrested for or charged with a crime involving a child, and if so requiring a description of the disposition of the arrest or charge. An application shall state that it is being signed under penalty of perjury, with the applicable Federal punishment for perjury stated on the application.
 
 (2) A Federal agency seeking a criminal history record check shall first obtain the signature of the employee or prospective employee indicating that the employee or prospective employee has been notified of the employer’s obligation to require a record check as a condition of employment and the employee’s right to obtain a copy of the criminal history report made available to the employing Federal agency and the right to challenge the accuracy and completeness of any information contained in the report.
 
-**(e) Encouragement of voluntary criminal history checks for others who may have contact with children** Federal agencies and facilities are encouraged to submit identifying information for criminal history checks on volunteers working in any of the positions listed in subsection (a) of this section and on adult household members in places where child care or foster care services are being provided in a home.
+**(e) Encouragement of voluntary criminal history checks for others who may have contact with children** Federal agencies and facilities are encouraged to submit identifying information for criminal history checks on volunteers working in any of the positions listed in subsection (a) and on adult household members in places where child care or foster care services are being provided in a home.
 
 ### Statutory Notes
 
 #### Amendments
-1991—Subsec. (a)(1). Pub. L. 102–190, § 1094(a)(1), substituted “May 29, 1991. Except as provided in subsection (b)(3) of this section, no additional staff” for “6 months after November 29, 1990, and no additional staff”.
+1991—Subsec. (a)(1). Pub. L. 102–190, § 1094(a)(1), substituted “May 29, 1991. Except as provided in subsection (b)(3), no additional staff” for “6 months after November 29, 1990, and no additional staff”.
 
 Subsec. (b)(3). Pub. L. 102–190, § 1094(a)(2), added par. (3).
 

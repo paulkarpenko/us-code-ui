@@ -2,7 +2,7 @@
 title: 26
 chapter: '25'
 heading: GENERAL PROVISIONS RELATING TO EMPLOYMENT TAXES
-section_count: 11
+section_count: 12
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
@@ -334,3 +334,43 @@ shall be designed in a manner which streamlines, to the extent possible, the app
 
 #### Effective Date
 Section applicable with respect to wages for services performed on or after January 1 of the first calendar year beginning more than 12 months after Dec. 19, 2014, see section 206(g)(1) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under [section 3302 of this title](./chapter-023-federal-unemployment-tax-act.md#section-3302).
+
+
+<a id="section-3512"></a>
+## § 3512. Treatment of certain persons as employers with respect to motion picture projects
+**(a) In general** For purposes of sections 3121(a)(1) and 3306(b)(1), remuneration paid to a motion picture project worker by a motion picture project employer during a calendar year shall be treated as remuneration paid with respect to employment of such worker by such employer during the calendar year. The identity of such employer for such purposes shall be determined as set forth in this section and without regard to the usual common law rules applicable in determining the employer-employee relationship.
+
+**(b) Definitions** For purposes of this section—
+
+(1) **Motion picture project employer** — The term “motion picture project employer” means any person if—
+
+  (A) such person (directly or through affiliates)—
+
+    (i) is a party to a written contract covering the services of motion picture project workers with respect to motion picture projects in the course of a client’s trade or business,
+
+    (ii) is contractually obligated to pay remuneration to the motion picture project workers without regard to payment or reimbursement by any other person,
+
+    (iii) controls the payment (within the meaning of section 3401(d)(1)) of remuneration to the motion picture project workers and pays such remuneration from its own account or accounts,
+
+    (iv) is a signatory to one or more collective bargaining agreements with a labor organization (as defined in [29 U.S.C. 152(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section152/5&num=0&edition=prelim)) that represents motion picture project workers, and
+
+    (v) has treated substantially all motion picture project workers that such person pays as employees and not as independent contractors during such calendar year for purposes of determining employment taxes under this subtitle, and
+
+  (B) at least 80 percent of all remuneration (to which section 3121 applies) paid by such person in such calendar year is paid to motion picture project workers.
+
+(2) **Motion picture project worker** — The term “motion picture project worker” means any individual who provides services on motion picture projects for clients who are not affiliated with the motion picture project employer.
+
+(3) **Motion picture project** — The term “motion picture project” means the production of any property described in section 168(f)(3). Such term does not include property with respect to which records are required to be maintained under [section 2257 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2257&num=0&edition=prelim), United States Code.
+
+(4) **Affiliate; affiliated** — A person shall be treated as an affiliate of, or affiliated with, another person if such persons are treated as a single employer under subsection (b) or (c) of section 414.
+
+### Statutory Notes
+
+#### References in Text
+[29 U.S.C. 152](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section152&num=0&edition=prelim), referred to in subsec. (b)(1)(A)(iv), is section 2 of the National Labor Relations Act, act July 5, 1935, ch. 372, 49 Stat. 450, which is classified to [section 152 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section152&num=0&edition=prelim), Labor.
+
+#### Effective Date
+Pub. L. 114–113, div. Q, title III, § 346(c), Dec. 18, 2015, 129 Stat. 3116, provided that: “The amendments made by this section [enacting this section] shall apply to remuneration paid after December 31, 2015.”
+
+#### Construction
+Pub. L. 114–113, div. Q, title III, § 346(d), Dec. 18, 2015, 129 Stat. 3116, provided that: “Nothing in the amendments made by this section [enacting this section] shall be construed to create any inference on the law before the date of the enactment of this Act [Dec. 18, 2015].”

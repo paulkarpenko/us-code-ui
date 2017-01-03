@@ -122,13 +122,15 @@ Par. (4)(C)(ii). Pub. L. 105–178, § 4011(a)(2), inserted “is” before “t
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
 #### Program To Assist Veterans To Acquire Commercial Driver’s Licenses
+Pub. L. 114–94, div. A, title V, § 5401(b), Dec. 4, 2015, 129 Stat. 1547, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 4, 2015], the Secretary [of Transportation], in consultation with the Secretary of Defense, shall implement the recommendations contained in the report submitted under section 32308 of MAP–21 [Pub. L. 112–141] ([49 U.S.C. 31301](./chapter-313-commercial-motor-vehicle-operators.md#section-31301) note) that are not implemented as a result of the amendment in subsection (a) [amending [section 31305 of this title](./chapter-313-commercial-motor-vehicle-operators.md#section-31305)].”
+
 Pub. L. 112–141, div. C, title II, § 32308, July 6, 2012, 126 Stat. 794, provided that: “(a) Study.—“(1) In general.—Not later than 90 days after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways], the Secretary [of Transportation], in coordination with the Secretary of Defense, and in consultation with the States and other relevant stakeholders, shall commence a study to assess Federal and State regulatory, economic, and administrative challenges faced by members and former members of the Armed Forces, who received safety training and operated qualifying motor vehicles during their service, in obtaining commercial driver’s licenses (as defined in [section 31301(3) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31301/3&num=0&edition=prelim), United States Code). “(2) Requirements.—The study under this subsection shall—“(A) identify written and behind-the-wheel safety training, qualification standards, knowledge and skills tests, or other operating experience members of the Armed Forces must meet that satisfy the minimum standards prescribed by the Secretary of Transportation for the operation of commercial motor vehicles under [section 31305 of title 49](./chapter-313-commercial-motor-vehicle-operators.md#section-31305), United States Code; “(B) compare the alcohol and controlled substances testing requirements for members of the Armed Forces with those required for holders of a commercial driver’s license; “(C) evaluate the cause of delays in reviewing applications for commercial driver’s licenses of members and former members of the Armed Forces; “(D) identify duplicative application costs; “(E) identify residency, domicile, training and testing requirements, and other safety or health assessments that affect or delay the issuance of commercial driver’s licenses to members and former members of the Armed Forces; and “(F) include other factors that the Secretary determines to be appropriate to meet the requirements of the study. “(b) Report.—“(1) In general.—Not later than 180 days after the commencement of the study under subsection (a), the Secretary shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Financial Services of the House of Representatives that contains the findings and recommendations from the study. “(2) Elements.—The report under paragraph (1) shall include—“(A) findings related to the study requirements under subsection (a)(2); “(B) recommendations for the Federal and State legislative, regulatory, and administrative actions necessary to address challenges identified in subparagraph (A); and “(C) a plan to implement the recommendations for which the Secretary has authority. “(c) Implementation.—Not later than 1 year after the date of enactment of this Act, the Secretary, in consultation with the Secretary of Defense and in cooperation with the States, shall implement the recommendations identified in subsection (b) and establish accelerated licensing procedures to assist veterans to acquire commercial driver’s licenses. “(d) Accelerated Licensing Procedures.—The procedures established under subsection (a) shall be designed to be applicable to any veteran who—“(1) is attempting to acquire a commercial driver’s license; and “(2) obtained, during military service, documented driving experience that, in the determination of the Secretary, makes the use of accelerated licensing procedures appropriate. “(e) Definitions.—In this section:“(1) Commercial driver’s license.—The term ‘commercial driver’s license’ has the meaning given that term in [section 31301 of title 49](./chapter-313-commercial-motor-vehicle-operators.md#section-31301), United States Code. “(2) State.—The term ‘State’ has the meaning given that term in [section 31301 of title 49](./chapter-313-commercial-motor-vehicle-operators.md#section-31301), United States Code. “(3) Veteran.—The term ‘veteran’ has the meaning given that term in [section 101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim), United States Code.”
 
 #### Exemptions From Requirements of This Chapter for Certain Farm Vehicles
 For provisions relating to exemptions from certain requirements of this chapter with respect to certain farm vehicles and individuals operating those vehicles, see section 32934 of Pub. L. 112–141, set out as a note under [section 31136 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31136).
 
 #### Grant Program for Commercial Motor Vehicle Operators
-Pub. L. 109–59, title IV, § 4134, Aug. 10, 2005, 119 Stat. 1744, as amended by Pub. L. 111–147, title IV, § 422(h), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, § 2202(h), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, § 202(h), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, § 122(g), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, § 202(g), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, § 202(g), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, § 32603(g), July 6, 2012, 126 Stat. 808; Pub. L. 113–159, title I, § 1102(g), Aug. 8, 2014, 128 Stat. 1844; Pub. L. 114–21, title I, § 1102(g), May 29, 2015, 129 Stat. 222, provided that: “(a) Establishment.—The Secretary [of Transportation] shall establish a grant program for persons to train operators of commercial motor vehicles (as defined in [section 31301 of title 49](./chapter-313-commercial-motor-vehicle-operators.md#section-31301), United States Code). The purpose of the program shall be to train operators and future operators in the safe use of such vehicles. “(b) Federal Share.—The Federal share of the cost for which a grant is made under this section shall be 80 percent. “(c) Funding.—From amounts made available under [section 31104(i) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31104/i&num=0&edition=prelim), United States Code, the Secretary shall make available $1,000,000 for each of fiscal years 2005 through 2014 and $832,877 for the period beginning on October 1, 2014, and ending on July 31, 2015, to carry out this section.”
+Pub. L. 109–59, title IV, § 4134, Aug. 10, 2005, 119 Stat. 1744, as amended by Pub. L. 111–147, title IV, § 422(h), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, § 2202(h), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, § 202(h), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, § 122(g), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, § 202(g), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, § 202(g), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, § 32603(g), July 6, 2012, 126 Stat. 808; Pub. L. 113–159, title I, § 1102(g), Aug. 8, 2014, 128 Stat. 1844; Pub. L. 114–21, title I, § 1102(g), May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, § 1102(g), July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, § 1102(g), Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, § 1102(g), Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title V, § 5105(e), Dec. 4, 2015, 129 Stat. 1529, which established a grant program for persons to train operators of commercial motor vehicles, was repealed by Pub. L. 114–94, div. A, title V, § 5101(e)(7), Dec. 4, 2015, 129 Stat. 1525, effective Oct. 1, 2016.
 
 #### CDL Task Force
 Pub. L. 109–59, title IV, § 4135, Aug. 10, 2005, 119 Stat. 1744, provided that: “(a) In General.—The Secretary [of Transportation] shall convene a task force to study and address current impediments and foreseeable challenges to the commercial driver’s license program’s effectiveness and measures needed to realize the full safety potential of the commercial driver’s license program, including such issues as—“(1) State enforcement practices; “(2) operational procedures to detect and deter fraud; “(3) needed improvements for seamless information sharing between States; “(4) effective methods for accurately sharing electronic data between States; “(5) adequate proof of citizenship; “(6) updated technology; and “(7) timely notification from judicial bodies concerning traffic and criminal convictions of commercial driver’s license holders. “(b) Membership.—Members of the task force should include State motor vehicle administrators, organizations representing government agencies or officials, members of the Judicial Conference, representatives of the trucking industry, representatives of labor organizations, safety advocates, and other significant stakeholders. “(c) Report.—Not later than 2 years after the date of enactment of this Act [Aug. 10, 2005], the Secretary, on behalf of the task force, shall complete a report of the task forces [sic] findings and recommendations for legislative, regulatory, and enforcement changes to improve the commercial drivers [sic] license program and submit such the [sic] report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. “(d) Funding.—From the funds amounts made available by section 4101(c)(1) [119 Stat. 1715], $200,000 shall be available for each of fiscal years 2006 and 2007 to carry out this section.”
@@ -298,6 +300,42 @@ Pub. L. 112–141, div. C, title II, § 32303(b), July 6, 2012, 126 Stat. 791, p
 
 (5) requiring a training provider (including a public or private driving school, motor carrier, or owner or operator of a commercial motor vehicle) that offers training that results in the issuance of a certification to an individual under paragraph (4) to demonstrate that the training meets the requirements of the regulations, through a process established by the Secretary.
 
+**(d) Standards for Training and Testing of Veteran Operators.—**
+
+(1) **In general.—** — Not later than December 31, 2016, the Secretary shall modify the regulations prescribed under subsections (a) and (c) to—
+
+  (A) exempt a covered individual from all or a portion of a driving test if the covered individual had experience in the armed forces or reserve components driving vehicles similar to a commercial motor vehicle;
+
+  (B) ensure that a covered individual may apply for an exemption under subparagraph (A) during, at least, the 1-year period beginning on the date on which such individual separates from service in the armed forces or reserve components; and
+
+  (C) credit the training and knowledge a covered individual received in the armed forces or reserve components driving vehicles similar to a commercial motor vehicle for purposes of satisfying minimum standards for training and knowledge.
+
+(2) **Definitions.—** — In this subsection, the following definitions apply:
+
+  (A) *Armed forces.—* — The term “armed forces” has the meaning given that term in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim).
+
+  (B) *Covered individual.—* — The term “covered individual” means an individual over the age of 21 years who is—
+
+    (i) a former member of the armed forces; or
+
+    (ii) a former member of the reserve components.
+
+  (C) *Reserve components.—* — The term “reserve components” means—
+
+    (i) the Army National Guard of the United States;
+
+    (ii) the Army Reserve;
+
+    (iii) the Navy Reserve;
+
+    (iv) the Marine Corps Reserve;
+
+    (v) the Air National Guard of the United States;
+
+    (vi) the Air Force Reserve; and
+
+    (vii) the Coast Guard Reserve.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -316,6 +354,8 @@ In subsection (b)(1), the words “taken and” are omitted as unnecessary. The 
 The date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subsec. (c), is the date of enactment of title II of div. C of Pub. L. 112–141, which was approved July 6, 2012.
 
 #### Amendments
+2015—Subsec. (d). Pub. L. 114–94 added subsec. (d).
+
 2012—Pub. L. 112–141, § 32304(c), substituted “General driver fitness, testing, and training” for “General driver fitness and testing” in section catchline.
 
 Subsec. (c). Pub. L. 112–141, § 32304(a), added subsec. (c).
@@ -324,8 +364,17 @@ Subsec. (c). Pub. L. 112–141, § 32304(a), added subsec. (c).
 
 1999—Subsec. (b)(1). Pub. L. 106–159 struck out “to operate the vehicle” after “written and driving tests” and inserted “to operate the vehicle and has a commercial driver’s license to operate the vehicle” before period at end.
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Report on Commercial Driver’s License Skills Test Delays
+Pub. L. 114–94, div. A, title V, § 5506, Dec. 4, 2015, 129 Stat. 1553, provided that: “Not later than 18 months after the date of enactment of this Act [Dec. 4, 2015], and each year thereafter, the Administrator of the Federal Motor Carrier Safety Administration shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that— “(1) describes, for each State, the status of skills testing for applicants for a commercial driver’s license, including—“(A) the average wait time from the date an applicant requests to take a skills test to the date the applicant has the opportunity to complete such test; “(B) the average wait time from the date an applicant, upon failure of a skills test, requests a retest to the date the applicant has the opportunity to complete such retest; “(C) the actual number of qualified commercial driver’s license examiners available to test applicants; and “(D) the number of testing sites available through the State department of motor vehicles and whether this number has increased or decreased from the previous year; and “(2) describes specific steps that the Administrator is taking to address skills testing delays in States that have average skills test or retest wait times of more than 7 days from the date an applicant requests to test or retest to the date the applicant has the opportunity to complete such test or retest.”
+
+#### Hazardous Materials Endorsement Exemption
+Pub. L. 114–94, div. A, title VII, § 7208, Dec. 4, 2015, 129 Stat. 1593, provided that: “The Secretary [of Transportation] shall allow a State, at the discretion of the State, to waive the requirement for a holder of a Class A commercial driver’s license to obtain a hazardous materials endorsement under part 383 of title 49, Code of Federal Regulations, if the license holder— “(1) is acting within the scope of the license holder’s employment as an employee of a custom harvester operation, agrichemical business, farm retail outlet and supplier, or livestock feeder; and “(2) is operating a service vehicle that is—“(A) transporting diesel in a quantity of 3,785 liters (1,000 gallons) or less; and “(B) clearly marked with a ‘flammable’ or ‘combustible’ placard, as appropriate.”
 
 #### Commercial Motor Vehicle Operator Requirements Relating to Sleep Disorders
 Pub. L. 113–45, § 1, Oct. 15, 2013, 127 Stat. 557, provided that: “(a) In General.—The Secretary of Transportation may implement or enforce a requirement providing for the screening, testing, or treatment (including consideration of all possible treatment alternatives) of individuals operating commercial motor vehicles for sleep disorders only if the requirement is adopted pursuant to a rulemaking proceeding. “(b) Applicability.—Subsection (a) shall not apply to a requirement that was in force before September 1, 2013. “(c) Sleep Disorders Defined.—In this section, the term ‘sleep disorders’ includes obstructive sleep apnea.”
@@ -357,27 +406,41 @@ Pub. L. 105–178, title IV, § 4021, June 9, 1998, 112 Stat. 414, provided that
 
 (1)
 
-  (A) In the interest of commercial motor vehicle safety, the Secretary of Transportation shall prescribe regulations that establish a program requiring motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of operators of commercial motor vehicles for the use of a controlled substance in violation of law or a United States Government regulation and to conduct reasonable suspicion, random, and post-accident testing of such operators for the use of alcohol in violation of law or a United States Government regulation. The regulations shall permit such motor carriers to conduct preemployment testing of such employees for the use of alcohol.
+  (A) In the interest of commercial motor vehicle safety, the Secretary of Transportation shall prescribe regulations that establish a program requiring motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of operators of commercial motor vehicles for the use of a controlled substance in violation of law or a United States Government regulation and to conduct reasonable suspicion, random, and post-accident testing of such operators for the use of alcohol in violation of law or a United States Government regulation.
 
-  (B) When the Secretary of Transportation considers it appropriate in the interest of safety, the Secretary may prescribe regulations for conducting periodic recurring testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a Government regulation.
+  (B) The regulations prescribed under subparagraph (A) shall permit motor carriers—
+
+    (i) to conduct preemployment testing of commercial motor vehicle operators for the use of alcohol; and
+
+    (ii) to use hair testing as an acceptable alternative to urine testing—
+
+      (I) in conducting preemployment testing for the use of a controlled substance; and
+
+      (II) in conducting random testing for the use of a controlled substance if the operator was subject to hair testing for preemployment testing.
+
+  (C) When the Secretary of Transportation considers it appropriate in the interest of safety, the Secretary may prescribe regulations for conducting periodic recurring testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a Government regulation.
 
 (2) In prescribing regulations under this subsection, the Secretary of Transportation—
 
-  (A) shall require that post-accident testing of an operator of a commercial motor vehicle be conducted when loss of human life occurs in an accident involving a commercial motor vehicle; and
+  (A) shall require that post-accident testing of an operator of a commercial motor vehicle be conducted when loss of human life occurs in an accident involving a commercial motor vehicle;
 
-  (B) may require that post-accident testing of such an operator be conducted when bodily injury or significant property damage occurs in any other serious accident involving a commercial motor vehicle.
+  (B) may require that post-accident testing of such an operator be conducted when bodily injury or significant property damage occurs in any other serious accident involving a commercial motor vehicle; and
+
+  (C) shall provide an exemption from hair testing for commercial motor vehicle operators with established religious beliefs that prohibit the cutting or removal of hair.
 
 **(c) Testing and Laboratory Requirements.—** In carrying out subsection (b) of this section, the Secretary of Transportation shall develop requirements that shall—
 
 (1) promote, to the maximum extent practicable, individual privacy in the collection of specimens;
 
-(2) for laboratories and testing procedures for controlled substances, incorporate the Department of Health and Human Services scientific and technical guidelines dated April 11, 1988, and any amendments to those guidelines, including mandatory guidelines establishing—
+(2) for laboratories and testing procedures for controlled substances, incorporate the Department of Health and Human Services scientific and technical guidelines dated April 11, 1988, and any amendments to those guidelines, for urine testing, and technical guidelines for hair testing, including mandatory guidelines establishing—
 
   (A) comprehensive standards for every aspect of laboratory controlled substances testing and laboratory procedures to be applied in carrying out this section, including standards requiring the use of the best available technology to ensure the complete reliability and accuracy of controlled substances tests and strict procedures governing the chain of custody of specimens collected for controlled substances testing;
 
-  (B) the minimum list of controlled substances for which individuals may be tested; and
+  (B) the minimum list of controlled substances for which individuals may be tested;
 
-  (C) appropriate standards and procedures for periodic review of laboratories and criteria for certification and revocation of certification of laboratories to perform controlled substances testing in carrying out this section;
+  (C) appropriate standards and procedures for periodic review of laboratories and criteria for certification and revocation of certification of laboratories to perform controlled substances testing in carrying out this section; and
+
+  (D) laboratory protocols and cut-off levels for hair testing to detect the use of a controlled substance;
 
 (3) require that a laboratory involved in testing under this section have the capability and facility, at the laboratory, of performing screening and confirmation tests;
 
@@ -443,12 +506,28 @@ In subsection (d), the words “The Secretary of Transportation may provide” a
 In subsection (g), the words “rule” and “ordinance” are omitted as being included in “law, regulation, standard, or order”. The words “whether the provisions apply specifically to commercial motor vehicle employees, or to the general public” are omitted as surplus.
 
 #### Amendments
+2015—Subsec. (b)(1)(A). Pub. L. 114–94, § 5402(a)(1)(B), struck out at end “The regulations shall permit such motor carriers to conduct preemployment testing of such employees for the use of alcohol.”
+
+Subsec. (b)(1)(B), (C). Pub. L. 114–94, § 5402(a)(1)(A), (C), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (b)(2)(C). Pub. L. 114–94, § 5402(a)(2), added subpar. (C).
+
+Subsec. (c)(2). Pub. L. 114–94, § 5402(a)(3)(A), inserted “for urine testing, and technical guidelines for hair testing,” before “including mandatory guidelines” in introductory provisions.
+
+Subsec. (c)(2)(D). Pub. L. 114–94, § 5402(a)(3)(B)–(D), added subpar. (D).
+
 2012—Subsec. (a). Pub. L. 112–141 inserted “and section 31306a” after “this section”.
 
 1995—Subsec. (b)(1)(A). Pub. L. 104–59 added subpar. (A) and struck out former subpar. (A) which read as follows: “In the interest of commercial motor vehicle safety, the Secretary of Transportation shall prescribe regulations not later than October 28, 1992, that establish a program requiring motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a United States Government regulation.”
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Guidelines
+Pub. L. 114–94, div. A, title V, § 5402(b), Dec. 4, 2015, 129 Stat. 1548, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 4, 2015], the Secretary of Health and Human Services shall issue scientific and technical guidelines for hair testing as a method of detecting the use of a controlled substance for purposes of [section 31306 of title 49](./chapter-313-commercial-motor-vehicle-operators.md#section-31306), United States Code.”
 
 #### Drug Test Results Study
 Pub. L. 106–159, title II, § 226, Dec. 9, 1999, 113 Stat. 1771, provided that: “(a) In General.—The Secretary shall conduct a study of the feasibility and merits of—“(1) requiring medical review officers or employers to report all verified positive controlled substances test results on any driver subject to controlled substances testing under part 382 of title 49, Code of Federal Regulations, including the identity of each person tested and each controlled substance found, to the State that issued the driver’s commercial driver’s license; and “(2) requiring all prospective employers, before hiring any driver, to query the State that issued the driver’s commercial driver’s license on whether the State has on record any verified positive controlled substances test on such driver. “(b) Study Factors.—In carrying out the study under this section, the Secretary shall assess—“(1) methods for safeguarding the confidentiality of verified positive controlled substances test results; “(2) the costs, benefits, and safety impacts of requiring States to maintain records of verified positive controlled substances test results; and “(3) whether a process should be established to allow drivers—“(A) to correct errors in their records; and “(B) to expunge information from their records after a reasonable period of time. “(c) Report.—Not later than 2 years after the date of the enactment of this Act [Dec. 9, 1999], the Secretary shall submit to Congress a report on the study carried out under this section, together with such recommendations as the Secretary determines appropriate.”
@@ -752,7 +831,7 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 ## § 31307. Minimum training requirements for operators of longer combination vehicles
 **(a) Definition.—** In this section, “longer combination vehicle” means a vehicle consisting of a truck tractor and more than one trailer or semitrailer that operates on the Dwight D. Eisenhower System of Interstate and Defense Highways with a gross vehicle weight of more than 80,000 pounds.
 
-**(b) Requirements.—** The Secretary shall maintain regulations establishing minimum training requirements for operators of longer combination vehicles. The training shall include certification of an operator’s proficiency by an instructor who has met the requirements established by the Secretary.
+**(b) Requirements.—** The Secretary of Transportation shall maintain regulations establishing minimum training requirements for operators of longer combination vehicles. The training shall include certification of an operator’s proficiency by an instructor who has met the requirements established by the Secretary.
 
 ### Statutory Notes
 
@@ -767,7 +846,12 @@ In subsection (a), the words “a vehicle consisting” are substituted for “a
 In subsection (b), the words “Not later than 60 days after the date of the enactment of this Act, the Secretary shall initiate a rulemaking proceeding” are omitted as executed.
 
 #### Amendments
-2012—Subsec. (b). Pub. L. 112–141, which directed substitution of “The Secretary shall maintain” for “Not later than December 18, 1994, the Secretary shall prescribe”, was executed by making the substitution for “Not later than December 18, 1994, the Secretary of Transportation shall prescribe”, to reflect the probable intent of Congress.
+2015—Subsec. (b). Pub. L. 114–94, § 5508(b)(5), amended Pub. L. 112–141, § 32931(c). See 2012 Amendment note below.
+
+2012—Subsec. (b). Pub. L. 112–141, § 32931(c), as amended by Pub. L. 114–94, § 5508(b)(5), substituted “The Secretary of Transportation shall maintain” for “Not later than December 18, 1994, the Secretary of Transportation shall prescribe”.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–94, div. A, title V, § 5508(b), Dec. 4, 2015, 129 Stat. 1554, provided that the amendment made by section 5508(b)(5) is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
@@ -833,6 +917,9 @@ Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 
 #### Deadline for Issuance of Regulations
 Pub. L. 105–178, title IV, § 4011(c)(2), June 9, 1998, 112 Stat. 407, provided that: “Not later than 180 days after the date of enactment of this Act [June 9, 1998], the Secretary [of Transportation] shall issue regulations to carry out the amendment made by paragraph (1) [amending this section].”
 
+#### Commercial Learner’s Permit for Individuals Under Age 18
+Pub. L. 114–113, div. L, title I, § 132, Dec. 18, 2015, 129 Stat. 2850, provided that: “None of the funds limited or otherwise made available under this Act, or any other Act, hereafter, shall be used by the Secretary to enforce any regulation prohibiting a State from issuing a commercial learner’s permit to individuals under the age of eighteen if the State had a law authorizing the issuance of commercial learner’s permits to individuals under eighteen years of age as of May 9, 2011.”
+
 
 <a id="section-31309"></a>
 ## § 31309. Commercial driver’s license information system
@@ -894,7 +981,7 @@ Pub. L. 105–178, title IV, § 4011(c)(2), June 9, 1998, 112 Stat. 407, provide
 
 (5) **Implementation.—** — The Secretary shall implement the plan developed under subsection (a) and modernize the information system under this section to meet the requirements of the plan.
 
-**(f) Funding.—** At the Secretary’s discretion, a State may use, subject to section 31313(a), the funds made available to the State under section 31313 to modernize its commercial driver’s license information system to be compatible with the modernized information system under this section.
+**(f) Funding.—** At the Secretary’s discretion, a State may use, subject to section 31313(a),11 See References in Text note below. the funds made available to the State under section 31313 1 to modernize its commercial driver’s license information system to be compatible with the modernized information system under this section.
 
 ### Statutory Notes
 
@@ -918,6 +1005,8 @@ In subsection (f), the text of 49 App.:2706(g) and section 9105(b) of the Anti-D
 
 #### References in Text
 The date of enactment of this subsection, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
+
+Section 31313, referred to in subsec. (f), was amended generally by Pub. L. 114–94, div. A, title V, § 5104(a), Dec. 4, 2015, 129 Stat. 1527, and, as so amended, section relates to financial assistance program for implementation of commercial driver’s license program. Provisions contained in former section 31313(a) are now similar to those contained in section 31313(a)(2) and (b).
 
 #### Amendments
 2012—Subsec. (b)(2). Pub. L. 112–141, § 32933(e), substituted “section 31308(3)” for “section 31308(2)”.
@@ -1121,7 +1210,7 @@ Subsecs. (i), (j). Pub. L. 106–159, § 201(b)(1), redesignated subsecs. (g) an
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Regulations
 Pub. L. 104–88, title IV, § 403(b), Dec. 29, 1995, 109 Stat. 956, provided that: “The initial regulations required under [section 31310(h) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31310/h&num=0&edition=prelim), United States Code, shall be issued not later than 1 year after the date of the enactment of this Act [Dec. 29, 1995].”
@@ -1180,7 +1269,11 @@ Pub. L. 104–88, title IV, § 403(b), Dec. 29, 1995, 109 Stat. 956, provided th
 
     (i) operates or will operate a commercial motor vehicle;
 
-    (ii) is a member of the active duty military, military reserves, National Guard, active duty United States Coast Guard, or Coast Guard Auxiliary; and
+    (ii) is an active duty member of—
+
+      (I) the armed forces (as that term is defined in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim)); or
+
+      (II) the reserve components (as that term is defined in [section 31305(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31305/d/2&num=0&edition=prelim)); and
 
     (iii) is not domiciled in the State, but whose temporary or permanent duty station is located in the State.
 
@@ -1300,6 +1393,8 @@ Par. (3) of [section 31308 of this title](./chapter-313-commercial-motor-vehicle
 The date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subsec. (a)(23), (25), is the date of enactment of title II of div. C of Pub. L. 112–141, which was approved July 6, 2012.
 
 #### Amendments
+2015—Subsec. (a)(12)(C)(ii). Pub. L. 114–94 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “is a member of the active duty military, military reserves, National Guard, active duty United States Coast Guard, or Coast Guard Auxiliary; and”.
+
 2012—Subsec. (a)(5). Pub. L. 112–141, § 32305(b)(1)(A), substituted “Not later than the time period prescribed by the Secretary by regulation,” for “At least 60 days before issuing a commercial driver’s license (or a shorter period the Secretary prescribes by regulation),”.
 
 Subsec. (a)(12). Pub. L. 112–196 amended par. (12) generally. Prior to amendment, par. (12) read as follows: “The State may issue a commercial driver’s license only to an individual who operates or will operate a commercial motor vehicle and is domiciled in the State, except that, under regulations the Secretary shall prescribe, the State may issue a commercial driver’s license to an individual who operates or will operate a commercial motor vehicle and is not domiciled in a State that issues commercial drivers’ licenses.”
@@ -1342,11 +1437,17 @@ Subsec. (a)(17), (18). Pub. L. 105–178, § 4011(e)(2), (3), redesignated par. 
 
 1995—Subsec. (a)(18). Pub. L. 104–88 added par. (18).
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
+
+#### Regulations
+Pub. L. 114–94, div. A, title V, § 5401(c), Dec. 4, 2015, 129 Stat. 1547, provided that: “Not later than December 31, 2015, the Secretary [of Transportation] shall issue final regulations to implement the exemption to the domicile requirement under [section 31311(a)(12)(C) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31311/a/12/C&num=0&edition=prelim), United States Code.”
 
 #### State-to-State Notification of Violations Data
 Pub. L. 106–159, title II, § 221, Dec. 9, 1999, 113 Stat. 1769, provided that: “(a) Development.—In cooperation with the States, the Secretary shall develop a uniform system to support the electronic transmission of data State-to-State on convictions for all motor vehicle traffic control law violations by individuals possessing a commercial drivers’ licenses as required by paragraphs (9) and (19) of [section 31311(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31311/a&num=0&edition=prelim), United States Code. “(b) Status Report.—Not later than 2 years after the date of the enactment of this Act [Dec. 9, 1999], the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of the implementation of this section.”
@@ -1371,47 +1472,62 @@ A prior section 31312, Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1025,
 
 
 <a id="section-31313"></a>
-## § 31313. Grants for commercial driver’s license program implementation
-**(a) Commercial Driver’s License Program Improvement Grants.—**
+## § 31313. Commercial driver’s license program implementation financial assistance program
+**(a) Financial Assistance Program.—**
 
-(1) **Program goal.—** — The Secretary of Transportation may make a grant to a State in a fiscal year—
+(1) **In general.—** — The Secretary of Transportation shall administer a financial assistance program for commercial driver’s license program implementation for the purposes described in paragraphs (2) and (3).
 
-  (A) to comply with the requirements of section 31311;
+(2) **State commercial driver’s license program implementation grants.—** — In carrying out the program, the Secretary may make a grant to a State agency in a fiscal year—
 
-  (B) in the case of a State that is making a good faith effort toward substantial compliance with the requirements of this section and section 31311, to improve its implementation of its commercial driver’s license program, including expenses—
+  (A) to assist the State in complying with the requirements of section 31311; and
+
+  (B) in the case of a State that is making a good faith effort toward substantial compliance with the requirements of section 31311, to improve the State’s implementation of its commercial driver’s license program, including expenses—
 
     (i) for computer hardware and software;
 
     (ii) for publications, testing, personnel, training, and quality control;
 
-    (iii) for commercial driver’s license program coordinators;
+    (iii) for commercial driver’s license program coordinators; and
 
-    (iv) to implement or maintain a system to notify an employer of an operator of a commercial motor vehicle of the suspension or revocation of the operator’s commercial driver’s license consistent with the standards developed under section 32303(b) of the Commercial Motor Vehicle Safety Enhancement Act of 2012.
+    (iv) to implement or maintain a system to notify an employer of an operator of a commercial motor vehicle of the suspension or revocation of the operator’s commercial driver’s license consistent with the standards developed under section 32303(b) of the Commercial Motor Vehicle Safety Enhancement Act of 2012 ([49 U.S.C. 31304](./chapter-313-commercial-motor-vehicle-operators.md#section-31304) note).
 
-(2) **Prohibitions.—** — A State may not use grant funds under this subsection to rent, lease, or buy land or buildings.
+(3) **Priority activities.—** — The Secretary may make a grant to or enter into a cooperative agreement with a State agency, local government, or any person in a fiscal year for research, development and testing, demonstration projects, public education, and other special activities and projects relating to commercial drivers licensing and motor vehicle safety that—
 
-**(b) High-Priority Activities.—**
+  (A) benefit all jurisdictions of the United States;
 
-(1) **Grants for national concerns.—** — The Secretary may make a grant to a State agency, local government, or other person for 100 percent of the costs of research, development, demonstration projects, public education, and other special activities and projects relating to commercial driver licensing and motor vehicle safety that are of benefit to all jurisdictions of the United States or are designed to address national safety concerns and circumstances.
+  (B) address national safety concerns and circumstances;
 
-(2) **Funding.—** — The Secretary may deduct up to 10 percent of the amounts made available to carry out this section for a fiscal year to make grants under this subsection.
+  (C) address emerging issues relating to commercial driver’s license improvements;
 
-**(c) Emerging Issues.—** The Secretary may designate up to 10 percent of the amounts made available to carry out this section for a fiscal year for allocation to a State agency, local government, or other person at the discretion of the Secretary to address emerging issues relating to commercial driver’s license improvements.
+  (D) support innovative ideas and solutions to commercial driver’s license program issues; or
 
-**(d) Apportionment.—** Except as otherwise provided in subsection (c), all amounts made available to carry out this section for a fiscal year shall be apportioned to States according to criteria prescribed by the Secretary.
+  (E) address other commercial driver’s license issues, as determined by the Secretary.
+
+**(b) Prohibitions.—** A recipient may not use financial assistance funds awarded under this section to rent, lease, or buy land or buildings.
+
+**(c) Report.—** The Secretary shall issue an annual report on the activities carried out under this section.
+
+**(d) Apportionment.—** All amounts made available to carry out this section for a fiscal year shall be apportioned to a recipient described in subsection (a)(3) according to criteria prescribed by the Secretary.
+
+**(e) Funding.—** For fiscal years beginning after September 30, 2016, this section shall be funded under section 31104.
 
 ### Statutory Notes
 
 #### References in Text
-Section 32303(b) of the Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subsec. (a)(1)(B)(iv), is section 32303(b) of title II of div. C of Pub. L. 112–141, which is set out as a note under [section 31304 of this title](./chapter-313-commercial-motor-vehicle-operators.md#section-31304).
+Section 32303(b) of the Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subsec. (a)(2)(B)(iv), is section 32303(b) of title II of div. C of Pub. L. 112–141, which is set out as a note under [section 31304 of this title](./chapter-313-commercial-motor-vehicle-operators.md#section-31304).
 
 #### Prior Provisions
 A prior section 31313, Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1027, related to grants for issuing commercial drivers’ licenses and complying with State participation requirements, prior to repeal by Pub. L. 105–178, title IV, § 4011(f), June 9, 1998, 112 Stat. 408.
 
 #### Amendments
+2015—Pub. L. 114–94 amended section generally. Prior to amendment, section related to grants for commercial driver’s license program implementation.
+
 2012—Pub. L. 112–141, § 32604(b)(1), substituted “implementation” for “improvements” in section catchline.
 
 Subsec. (a). Pub. L. 112–141, § 32604(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to grants for commercial driver’s license program improvements.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
@@ -1495,9 +1611,13 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 **(b) Exemptions.—**
 
-(1) **In general.—** — Upon receipt of a request pursuant to paragraph (3), the Secretary of Transportation may grant to a person or class of persons an exemption from a regulation prescribed under this chapter or section 31136 if the Secretary finds such exemption would likely achieve a level of safety that is equivalent to, or greater than, the level that would be achieved absent such exemption. An exemption may be granted for no longer than 2 years from its approval date and may be renewed upon application to the Secretary.
+(1) **In general.—** — Upon receipt of a request pursuant to this subsection, the Secretary of Transportation may grant to a person or class of persons an exemption from a regulation prescribed under this chapter or section 31136 if the Secretary finds such exemption would likely achieve a level of safety that is equivalent to, or greater than, the level that would be achieved absent such exemption.
 
-(2) **Authority to revoke exemption.—** — The Secretary shall immediately revoke an exemption if—
+(2) **Length of exemption and renewal.—** — An exemption may be granted under paragraph (1) for no longer than 5 years and may be renewed, upon request, for subsequent 5-year periods if the Secretary continues to make the finding under paragraph (1).
+
+(3) **Opportunity for resubmission.—** — If the Secretary denies an application under paragraph (1) and the applicant can reasonably address the reason for the denial, the Secretary may allow the applicant to resubmit the application.
+
+(4) **Authority to revoke exemption.—** — The Secretary shall immediately revoke an exemption if—
 
   (A) the person fails to comply with the terms and conditions of such exemption;
 
@@ -1505,7 +1625,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
   (C) continuation of the exemption would not be consistent with the goals and objectives of this chapter or section 31136, as the case may be.
 
-(3) **Requests for exemption.—** — Not later than 180 days after the date of enactment of this section and after notice and an opportunity for public comment, the Secretary shall specify by regulation the procedures by which a person may request an exemption. Such regulations shall, at a minimum, require the person to provide the following information for each exemption request:
+(5) **Requests for exemption.—** — Not later than 180 days after the date of enactment of this section and after notice and an opportunity for public comment, the Secretary shall specify by regulation the procedures by which a person may request an exemption. Such regulations shall, at a minimum, require the person to provide the following information for each exemption request:
 
   (A) The provisions from which the person requests exemption.
 
@@ -1515,7 +1635,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
   (D) The specific countermeasures the person would undertake to ensure an equivalent or greater level of safety than would be achieved absent the requested exemption.
 
-(4) **Notice and comment.—**
+(6) **Notice and comment.—**
 
   (A) *Upon receipt of a request.—* — Upon receipt of an exemption request, the Secretary shall publish in the Federal Register (or, in the case of a request for an exemption from the physical qualification standards for commercial motor vehicle drivers, post on a web site established by the Secretary to implement the requirements of section 31149) a notice explaining the request that has been filed and shall give the public an opportunity to inspect the safety analysis and any other relevant information known to the Secretary and to comment on the request. This subparagraph does not require the release of information protected by law from public disclosure.
 
@@ -1523,11 +1643,11 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
   (C) *After denying a request.—* — After denying a request for exemption, the Secretary shall publish in the Federal Register (or, in the case of a request for an exemption from the physical qualification standards for commercial motor vehicle drivers, post on a web site established by the Secretary to implement the requirements of section 31149) the name of the person denied the exemption and the reasons for such denial. The Secretary may meet the requirement of this subparagraph by periodically publishing in the Federal Register the names of persons denied exemptions and the reasons for such denials.
 
-(5) **Applications to be dealt with promptly.—** — The Secretary shall grant or deny an exemption request after a thorough review of its safety implications, but in no case later than 180 days after the filing date of such request.
+(7) **Applications to be dealt with promptly.—** — The Secretary shall grant or deny an exemption request after a thorough review of its safety implications, but in no case later than 180 days after the filing date of such request.
 
-(6) **Terms and conditions.—** — The Secretary shall establish terms and conditions for each exemption to ensure that it will likely achieve a level of safety that is equivalent to, or greater than, the level that would be achieved absent such exemption. The Secretary shall monitor the implementation of the exemption to ensure compliance with its terms and conditions.
+(8) **Terms and conditions.—** — The Secretary shall establish terms and conditions for each exemption to ensure that it will likely achieve a level of safety that is equivalent to, or greater than, the level that would be achieved absent such exemption. The Secretary shall monitor the implementation of the exemption to ensure compliance with its terms and conditions.
 
-(7) **Notification of state compliance and enforcement personnel.—** — Before the effective date of an exemption, the Secretary shall notify a State safety compliance and enforcement agency, and require the agency to notify the State’s roadside inspectors, that a person will be operating pursuant to an exemption and the terms and conditions that apply to the exemption.
+(9) **Notification of state compliance and enforcement personnel.—** — Before the effective date of an exemption, the Secretary shall notify a State safety compliance and enforcement agency, and require the agency to notify the State’s roadside inspectors, that a person will be operating pursuant to an exemption and the terms and conditions that apply to the exemption.
 
 **(c) Pilot Programs.—**
 
@@ -1559,6 +1679,32 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 **(f) Web Site.—** The Secretary shall ensure that the Federal Motor Carrier Safety Administration web site includes a link to the web site established by the Secretary to implement the requirements under sections 31149 and 31315. The link shall be in a clear and conspicuous location on the home page of the Federal Motor Carrier Safety Administration web site and be easily accessible to the public.
 
+**(g) Limitations on Municipality and Commercial Zone Exemptions and Waivers.—**
+
+(1) The Secretary may not—
+
+  (A) exempt a person or commercial motor vehicle from a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirely in a municipality or commercial zone of a municipality; or
+
+  (B) waive application to a person or commercial motor vehicle of a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirely in a municipality or commercial zone of a municipality.
+
+(2) If a person was authorized to operate a commercial motor vehicle in a municipality or commercial zone of a municipality in the United States for the entire period from November 19, 1987, through November 18, 1988, and if the person is otherwise qualified to operate a commercial motor vehicle, the person may operate a commercial motor vehicle entirely in a municipality or commercial zone of a municipality notwithstanding—
+
+  (A) paragraph (1) of this subsection;
+
+  (B) a minimum age requirement of the United States Government for operation of the vehicle; and
+
+  (C) a medical or physical condition that—
+
+    (i) would prevent an operator from operating a commercial motor vehicle under the commercial motor vehicle safety regulations in title 49, Code of Federal Regulations;
+
+    (ii) existed on July 1, 1988;
+
+    (iii) has not substantially worsened; and
+
+    (iv) does not involve alcohol or drug abuse.
+
+(3) This subsection does not affect a State commercial motor vehicle safety law applicable to intrastate commerce.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -1569,9 +1715,18 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 The words “Notwithstanding any other provision of this chapter” are omitted as surplus.
 
 #### References in Text
-The date of enactment of this section, referred to in subsec. (b)(3), probably means the date of enactment of Pub. L. 105–178, which amended this section generally and was approved June 9, 1998.
+The date of enactment of this section, referred to in subsec. (b)(5), probably means the date of enactment of Pub. L. 105–178, which amended this section generally and was approved June 9, 1998.
+
+#### Codification
+The text of [section 31136(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31136/f&num=0&edition=prelim), which was redesignated subsec. (g) and transferred to this section by Pub. L. 114–94, § 5202(1), was based on Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1003.
 
 #### Amendments
+2015—Subsec. (b)(1). Pub. L. 114–94, § 5206(a)(1), substituted “this subsection” for “paragraph (3)” and struck out at end “An exemption may be granted for no longer than 2 years from its approval date and may be renewed upon application to the Secretary.”
+
+Subsec. (b)(2) to (9). Pub. L. 114–94, § 5206(a)(2), (3), added pars. (2) and (3) and redesignated former pars (2) to (7) as (4) to (9), respectively.
+
+Subsec. (g). Pub. L. 114–94, § 5202(1), redesignated subsec. (f) of [section 31136 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31136) as (g) and transferred it to this section. See Codification note above.
+
 2012—Subsec. (b)(4)(A). Pub. L. 112–141, § 32913(a)(1), inserted “(or, in the case of a request for an exemption from the physical qualification standards for commercial motor vehicle drivers, post on a web site established by the Secretary to implement the requirements of section 31149)” after “Federal Register”.
 
 Subsec. (b)(4)(B). Pub. L. 112–141, § 32913(a)(2), amended subpar. (B) generally. Prior to amendment, text read as follows: “Upon granting a request for exemption, the Secretary shall publish in the Federal Register the name of the person granted the exemption, the provisions from which the person will be exempt, the effective period, and all terms and conditions of the exemption.”
@@ -1586,8 +1741,17 @@ Subsecs. (e), (f). Pub. L. 112–141, § 32913(d), added subsecs. (e) and (f).
 
 1998—Pub. L. 105–178 amended section catchline and text generally. Prior to amendment, text read as follows: “After notice and an opportunity for comment, the Secretary of Transportation may waive any part of this chapter or a regulation prescribed under this chapter as it applies to a class of individuals or commercial motor vehicles if the Secretary decides the waiver is not contrary to the public interest and does not diminish the safe operation of commercial motor vehicles. A waiver under this section shall be published in the Federal Register with reasons for the waiver.”
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Administrative Exemptions
+Pub. L. 114–94, div. A, title V, § 5206(b), Dec. 4, 2015, 129 Stat. 1537, provided that: “(1) In general.—The Secretary [of Transportation] shall make permanent the following limited exemptions:“(A) Perishable construction products, as published in the Federal Register on April 2, 2015 (80 Fed. Reg. 17819). “(B) Transport of commercial bee hives, as published in the Federal Register on June 19, 2015 (80 Fed. Reg. 35425). “(C) Safe transport of livestock, as published in the Federal Register on June 12, 2015 (80 Fed. Reg. 33584). “(2) Additional administrative exemptions.—Any exemption from any provision of the regulations under part 395 of title 49, Code of Federal Regulations, that is in effect on the date of enactment of this Act [Dec. 4, 2015]—“(A) except as otherwise provided in [section 31315(b) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31315/b&num=0&edition=prelim), shall be valid for a period of 5 years from the date such exemption was granted; and “(B) may be subject to renewal under [section 31315(b)(2) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31315/b/2&num=0&edition=prelim), United States Code.”
+
+#### Commercial Driver Pilot Program
+Pub. L. 114–94, div. A, title V, § 5404, Dec. 4, 2015, 129 Stat. 1549, provided that: “(a) In General.—The Secretary [of Transportation] shall establish a pilot program under [section 31315(c) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31315/c&num=0&edition=prelim), United States Code, to study the feasibility, benefits, and safety impacts of allowing a covered driver to operate a commercial motor vehicle in interstate commerce. “(b) Data Collection.—The Secretary shall collect and analyze data relating to accidents in which—“(1) a covered driver participating in the pilot program is involved; and “(2) a driver under the age of 21 operating a commercial motor vehicle in intrastate commerce is involved. “(c) Limitations.—A driver participating in the pilot program may not—“(1) transport—“(A) passengers; or “(B) hazardous cargo; or “(2) operate a vehicle in special configuration. “(d) Working Group.—“(1) Establishment.—The Secretary shall conduct, monitor, and evaluate the pilot program in consultation with a working group to be established by the Secretary consisting of representatives of the armed forces, industry, drivers, safety advocacy organizations, and State licensing and enforcement officials. “(2) Duties.—The working group shall review the data collected under subsection (b) and provide recommendations to the Secretary on the feasibility, benefits, and safety impacts of allowing a covered driver to operate a commercial motor vehicle in interstate commerce. “(e) Report.—Not later than 1 year after the date on which the pilot program is concluded, the Secretary shall submit to Congress a report describing the findings of the pilot program and the recommendations of the working group. “(f) Definitions.—In this section, the following definitions apply:“(1) Accident.—The term ‘accident’ has the meaning given that term in section 390.5 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this Act. “(2) Armed forces.—The term ‘armed forces’ has the meaning given that term in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim), United States Code. “(3) Commercial motor vehicle.—The term ‘commercial motor vehicle’ has the meaning given that term in [section 31301 of title 49](./chapter-313-commercial-motor-vehicle-operators.md#section-31301), United States Code. “(4) Covered driver.—The term ‘covered driver’ means an individual who is—“(A) between the ages of 18 and 21; “(B) a member or former member of the—“(i) armed forces; or “(ii) reserve components (as defined in [section 31305(d)(2) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31305/d/2&num=0&edition=prelim), United States Code, as added by this Act); and “(C) qualified in a Military Occupational Specialty to operate a commercial motor vehicle or similar vehicle.”
 
 #### Protection of Existing Exemptions
 For provisions making amendment by section 4007 of Pub. L. 105–178 inapplicable to or otherwise not affecting waiver, exemption, or pilot program in effect the day before June 9, 1998, under this chapter or [section 31136(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31136/e&num=0&edition=prelim), see section 4007(d) of Pub. L. 105–178, set out as a note under [section 31136 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31136).

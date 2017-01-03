@@ -1064,7 +1064,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
   (F) *Reimbursement of costs* — The Treasury shall reimburse the Government Accountability Office for the full cost of any such oversight activities as billed therefor by the Comptroller General of the United States. Such reimbursements shall be credited to the appropriation account “Salaries and Expenses, Government Accountability Office” current when the payment is received and remain available until expended.
 
-(3) **Reporting** — The Comptroller General shall submit reports of findings under this section, regularly and no less frequently than once every 60 days, to the appropriate committees of Congress, and the Special Inspector General for the Troubled Asset Relief Program established under this chapter on the activities and performance of the TARP. The Comptroller may also submit special reports under this subsection as warranted by the findings of its oversight activities.
+(3) **Reporting** — The Comptroller General shall submit reports of findings under this section annually to the appropriate committees of Congress, and the Special Inspector General for the Troubled Asset Relief Program established under this chapter on the activities and performance of the TARP. The Comptroller may also submit special reports under this subsection as warranted by the findings of its oversight activities.
 
 **(b) Comptroller General audits**
 
@@ -1114,6 +1114,8 @@ Section 1204 of the Financial Institutions Reform, Recovery, and Enhancement Act
 [Section 5230 of this title](./chapter-052-emergency-economic-stabilization.md#section-5230), referred to in subsec. (a)(2)(B), was so in the original, but probably should have been a reference to section 120 of title I of div. A of Pub. L. 110–343, which is classified to [section 5230 of this title](./chapter-052-emergency-economic-stabilization.md#section-5230).
 
 #### Amendments
+2016—Subsec. (a)(3). Pub. L. 114–301 substituted “annually” for “, regularly and no less frequently than once every 60 days,”.
+
 2009—Subsec. (a)(1)(A)(v). Pub. L. 111–22, § 601(1), added cl. (v).
 
 Subsec. (a)(2). Pub. L. 111–22, § 601(2), added subpars. (A) to (E), redesignated former subpar. (C) as (F), and struck out former subpars. (A) and (B) which related to GAO presence and access to records, respectively.
@@ -1187,12 +1189,18 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a)(2)(C), (D), are
 ## § 5231a. Termination of authority
 **(a) Termination** The authorities provided under sections 5211(a), excluding section 5211(a)(3), and 5212 of this title shall terminate on December 31, 2009.
 
-**(b) Extension upon certification** The Secretary, upon submission of a written certification to Congress, may extend the authority provided under this chapter to expire not later than 2 years from October 3, 2008. Such certification shall include a justification of why the extension is necessary to assist American families and stabilize financial markets, as well as the expected cost to the taxpayers for such an extension.
+**(b) Extension upon certification** The Secretary, upon submission of a written certification to Congress, may extend the authority provided under this chapter to expire not later than 2 years from October 3, 2008. Such certification shall include a justification of why the extension is necessary to assist American families and stabilize financial markets, as well as the expected cost to the taxpayers for such an extension. Notwithstanding the foregoing, the Secretary may further extend the authority provided under this chapter to expire on December 31, 2017, provided that (1) any such extension shall apply only with respect to current program participants in the Housing Finance Agency Innovation Fund for the Hardest Hit Housing Markets, and (2) funds obligated following such extension shall not exceed $2,000,000,000.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsec. (b), was in the original “this Act” and was translated as reading “this division”, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under [section 5201 of this title](./chapter-052-emergency-economic-stabilization.md#section-5201) and Tables.
+
+#### Amendments
+2015—Subsec. (b). Pub. L. 114–113 inserted at end “Notwithstanding the foregoing, the Secretary may further extend the authority provided under this chapter to expire on December 31, 2017, provided that (1) any such extension shall apply only with respect to current program participants in the Housing Finance Agency Innovation Fund for the Hardest Hit Housing Markets, and (2) funds obligated following such extension shall not exceed $2,000,000,000.”
+
+#### Termination of the Making Home Affordable Initiative
+Pub. L. 114–113, div. O, title VII, § 709(b), Dec. 18, 2015, 129 Stat. 3030, provided that: “(1) In general.—The Making Home Affordable initiative of the Secretary of the Treasury, as authorized under the Emergency Economic Stabilization Act of 2008 ([12 U.S.C. 5201](./chapter-052-emergency-economic-stabilization.md#section-5201) et seq.), shall terminate on December 31, 2016. “(2) Applicability.—Paragraph (1) shall not apply to any loan modification application made under the Home Affordable Modification Program under the Making Home Affordable initiative of the Secretary of the Treasury, as authorized under the Emergency Economic Stabilization Act of 2008 ([12 U.S.C. 5201](./chapter-052-emergency-economic-stabilization.md#section-5201) et seq.), before December 31, 2016.”
 
 
 <a id="section-5232"></a>

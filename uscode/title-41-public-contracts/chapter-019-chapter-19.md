@@ -42,7 +42,15 @@ In subsection (e)(2), the reference to [section 253 of this title](https://uscod
 
 <a id="section-1902"></a>
 ## § 1902. Procedures applicable to purchases below micro-purchase threshold
-**(a) Definition.—** For purposes of this section, the micro-purchase threshold is $3,000.
+**(a) Definition.—**
+
+(1) Except as provided in sections 2338 and 2339 of title 10 and paragraph (2) of this subsection, for purposes of this section, the micro-purchase threshold is $3,000.
+
+(2) For purposes of this section, the micro-purchase threshold for procurement activities administered under sections 6303 through 6305 of title 31 by institutions of higher education (as defined in section 101(a) of the Higher Education Act of 1965 ([20 U.S.C. 1001(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim)), or related or affiliated nonprofit entities, or by nonprofit research organizations or independent research institutes is—
+
+  (A) $10,000; or
+
+  (B) such higher threshold as determined appropriate by the head of the relevant executive agency and consistent with clean audit findings under chapter 75 of title 31, internal institutional risk assessment, or State law.
 
 **(b) Compliance With Certain Requirements and Nonapplicability of Certain Authority.—**
 
@@ -52,9 +60,9 @@ In subsection (e)(2), the reference to [section 253 of this title](https://uscod
 
 **(c) Nonapplicability of Certain Provisions.—** An executive agency purchase with an anticipated value of the micro-purchase threshold or less is not subject to section 15(j) of the Small Business Act ([15 U.S.C. 644(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644/j&num=0&edition=prelim)) and chapter 83 of this title.
 
-**(d) Purchases Without Competitive Quotations.—** A purchase not greater than $3,000 may be made without obtaining competitive quotations if an employee of an executive agency or a member of the armed forces, authorized to do so, determines that the price for the purchase is reasonable.
+**(d) Purchases Without Competitive Quotations.—** A purchase with a price not greater than the micro-purchase threshold may be made without obtaining competitive quotations if an employee of an executive agency or a member of the armed forces, authorized to do so, determines that the price for the purchase is reasonable.
 
-**(e) Equitable Distribution.—** Purchases not greater than $3,000 shall be distributed equitably among qualified suppliers.
+**(e) Equitable Distribution.—** Purchases with a price not greater than the micro-purchase threshold shall be distributed equitably among qualified suppliers.
 
 **(f) Implementation Through Federal Acquisition Regulation.—** This section shall be implemented through the Federal Acquisition Regulation.
 
@@ -66,7 +74,17 @@ In subsection (e)(2), the reference to [section 253 of this title](https://uscod
 | 1902 | 41:428. | Pub. L. 93–400, § 32, as added Pub. L. 103–355, title IV, § 4301(a), Oct. 13, 1994, 108 Stat. 3346; Pub. L. 104–106, title XLIII, §§ 4304(b)(4), (c)(3), 4311, Feb. 10, 1996, 110 Stat. 664, 671. |
 
 #### Senate Revision Amendment
-In subsecs. (a), (d), and (e), “$3,000” substituted for “$2,500” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. S8442, Dec. 2, 2010 (daily ed.).
+In subsecs. (a), (d), and (e), “$3,000” substituted for “$2,500” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
+
+#### Amendments
+2016—Subsec. (a). Pub. L. 114–328, § 217(b)(1), designated existing provisions as par. (1), substituted “Except as provided in sections 2338 and 2339 of title 10 and paragraph (2) of this subsection, for purposes” for “For purposes” and added par. (2).
+
+Subsecs. (d), (e). Pub. L. 114–328, § 217(b)(2), substituted “with a price not greater than the micro-purchase threshold” for “not greater than $3,000”.
+
+#### Micro-Purchase Threshold for Procurement Solicitations by Research Institutions
+Pub. L. 114–329, div. A, title II, § 207, Jan. 6, 2017, 130 Stat. 3001, provided that: “(a) Micro-purchase Threshold.—The micro-purchase threshold for procurement activities administered under sections 6303 through 6305 of title 31, United States Code, awarded by the Foundation, the National Aeronautics and Space Administration, or the National Institute of Standards and Technology to institutions of higher education, or related or affiliated nonprofit entities, or to nonprofit research organizations or independent research institutes is—“(1) $10,000 (as adjusted periodically to account for inflation); or “(2) such higher threshold as determined appropriate by the head of the relevant executive agency and consistent with audit findings under chapter 75 of title 31, United States Code, internal institutional risk assessment, or State law. “(b) Uniform Guidance.—The Uniform Guidance shall be revised to conform with the requirements of this section. For purposes of the preceding sentence, the term ‘Uniform Guidance’ means the uniform administrative requirements, cost principles, and audit requirements for Federal awards contained in part 200 of title 2 of the Code of Federal Regulations.”
+
+[For definitions of terms used in section 207 of Pub. L. 114–329, set out above, see section 2 of Pub. L. 114–329, set out as a note under [section 1862s of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1862s&num=0&edition=prelim), The Public Health and Welfare.]
 
 #### Micro-Purchase Guidelines
 Pub. L. 111–240, title I, § 1332, Sept. 27, 2010, 124 Stat. 2541, provided that: “Not later than 1 year after the date of enactment of this Act [Sept. 27, 2010], the Director of the Office of Management and Budget, in coordination with the Administrator of General Services, shall issue guidelines regarding the analysis of purchase card expenditures to identify opportunities for achieving and accurately measuring fair participation of small business concerns in purchases in an amount not in excess of the micro-purchase threshold, as defined in section 32 of the Office of Federal Procurement Policy Act ([former] [41 U.S.C. 428](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section428&num=0&edition=prelim)) [now [41 U.S.C. 1902](./chapter-019-chapter-19.md#section-1902)] (in this section referred to as ‘micro-purchases’), consistent with the national policy on small business participation in Federal procurements set forth in sections 2(a) and 15(g) of the Small Business Act ([15 U.S.C. 631(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631/a&num=0&edition=prelim) and 644(g)), and dissemination of best practices for participation of small business concerns in micro-purchases.”
@@ -78,9 +96,13 @@ Pub. L. 111–240, title I, § 1332, Sept. 27, 2010, 124 Stat. 2541, provided th
 ## § 1903. Special emergency procurement authority
 **(a) Applicability.—** The authorities provided in subsections (b) and (c) apply with respect to a procurement of property or services by or for an executive agency that the head of the executive agency determines are to be used—
 
-(1) in support of a contingency operation (as defined in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim)); or
+(1) in support of a contingency operation (as defined in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim));
 
-(2) to facilitate the defense against or recovery from nuclear, biological, chemical, or radiological attack against the United States.
+(2) to facilitate the defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack against the United States;
+
+(3) in support of a request from the Secretary of State or the Administrator of the United States Agency for International Development to facilitate the provision of international disaster assistance pursuant to chapter 9 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2292](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2292&num=0&edition=prelim) et seq.); or
+
+(4) in support of an emergency or major disaster (as those terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5122](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5122&num=0&edition=prelim))).
 
 **(b) Increased Thresholds and Limitation.—** For a procurement to which this section applies under subsection (a)—
 
@@ -92,9 +114,9 @@ Pub. L. 111–240, title I, § 1332, Sept. 27, 2010, 124 Stat. 2541, provided th
 
 (2) the term “simplified acquisition threshold” means—
 
-  (A) $250,000 in the case of a contract to be awarded and performed, or purchase to be made, in the United States; and
+  (A) $750,000 in the case of a contract to be awarded and performed, or purchase to be made, in the United States; and
 
-  (B) $1,000,000 in the case of a contract to be awarded and performed, or purchase to be made, outside the United States; and
+  (B) $1,500,000 in the case of a contract to be awarded and performed, or purchase to be made, outside the United States; and
 
 (3) the $5,000,000 limitation in sections 1901(a)(2) and 3305(a)(2) of this title and [section 2304(g)(1)(B) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/g/1/B&num=0&edition=prelim) is deemed to be $10,000,000.
 
@@ -117,6 +139,18 @@ Pub. L. 111–240, title I, § 1332, Sept. 27, 2010, 124 Stat. 2541, provided th
 | 1903(b) | 41:428a(b), (c). |  |
 | 1903(c) | 41:428a(d). |  |
 
+#### References in Text
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(3), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 9 of part I of the Act is classified generally to part IX [§ 2292 et seq.] of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2016—Subsec. (a)(2). Pub. L. 114–328, § 1641, inserted “cyber,” before “nuclear,”.
+
+Subsec. (a)(3), (4). Pub. L. 114–328, § 816, added pars. (3) and (4).
+
+2015—Subsec. (b)(2)(A). Pub. L. 114–92, § 816(1), substituted “$750,000” for “$250,000”.
+
+Subsec. (b)(2)(B). Pub. L. 114–92, § 816(2), substituted “$1,500,000” for “$1,000,000”.
+
 
 <a id="section-1904"></a>
 ## § 1904. Certain transactions for defense against attack
@@ -124,7 +158,7 @@ Pub. L. 111–240, title I, § 1332, Sept. 27, 2010, 124 Stat. 2541, provided th
 
 (1) **In general.—** — The head of an executive agency that engages in basic research, applied research, advanced research, and development projects that are necessary to the responsibilities of the executive agency in the field of research and development and have the potential to facilitate defense against or recovery from terrorism or nuclear, biological, chemical, or radiological attack may exercise the same authority (subject to the same restrictions and conditions) with respect to the research and projects as the Secretary of Defense may exercise under [section 2371 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim), except for subsections (b) and (f) of section 2371.
 
-(2) **Prototype projects.—** — The head of an executive agency, under the authority of paragraph (1), may carry out prototype projects that meet the requirements of paragraph (1) in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160, [10 U.S.C. 2371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim) note), including that, to the maximum extent practicable, competitive procedures shall be used when entering into agreements to carry out projects under section 845(a) of that Act and that the period of authority to carry out projects under section 845(a) of that Act terminates as provided in section 845(i) of that Act.
+(2) **Prototype projects.—** — The head of an executive agency, under the authority of paragraph (1), may carry out prototype projects that meet the requirements of paragraph (1) in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 11 See References in Text note below. of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160, [10 U.S.C. 2371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim) note), including that, to the maximum extent practicable, competitive procedures shall be used when entering into agreements to carry out projects under section 845(a) of that Act and that the period of authority to carry out projects under section 845(a) of that Act terminates as provided in section 845(i) of that Act.
 
 (3) **Application of requirements and conditions.—** — In applying the requirements and conditions of section 845 of that Act under this subsection—
 
@@ -158,6 +192,9 @@ In subsection (a)(3)(A), the words “paragraph (2)” are substituted for “th
 In subsection (a)(4)(A), the words “to use the authority for such project” are omitted as unnecessary.
 
 In subsection (c), the words “Committee on Homeland Security and Governmental Affairs” are substituted for “Committee on Governmental Affairs” on authority of Senate Resolution No. 445 (108th Congress, October 9, 2004). The words “Committee on Oversight and Government Reform” are substituted for “Committee on Government Reform” on authority of Rule X(1)(m) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+
+#### References in Text
+Section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160, [10 U.S.C. 2371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim) note), referred to in subsec. (a)(2), was repealed by Pub. L. 114–92, div. A, title VIII, § 815(c), Nov. 25, 2015, 129 Stat. 896.
 
 
 <a id="section-1905"></a>
@@ -294,15 +331,21 @@ In subsection (c), the words “Committee on Homeland Security and Governmental 
 
 (1) calculated on the basis of changes in the Consumer Price Index for all-urban consumers published monthly by the Secretary of Labor; and
 
-(2) rounded, in the case of a dollar threshold that on the day before the adjustment is—
+(2) rounded, in the case of a dollar threshold that as calculated under paragraph (1) is—
 
   (A) less than $10,000, to the nearest $500;
 
   (B) not less than $10,000, but less than $100,000, to the nearest $5,000;
 
-  (C) not less than $100,000, but less than $1,000,000, to the nearest $50,000; and
+  (C) not less than $100,000, but less than $1,000,000, to the nearest $50,000;
 
-  (D) $1,000,000 or more, to the nearest $500,000.
+  (D) not less than $1,000,000, but less than $10,000,000, to the nearest $500,000;
+
+  (E) not less than $10,000,000, but less than $100,000,000, to the nearest $5,000,000;
+
+  (F) not less than $100,000,000, but less than $1,000,000,000, to the nearest $50,000,000; and
+
+  (G) $1,000,000,000 or more, to the nearest $500,000,000.
 
 **(f) Petition for Inclusion of Omitted Threshold.—**
 
@@ -337,6 +380,11 @@ In subsection (e)(1), the words “Secretary of Labor” are substituted for “
 
 #### References in Text
 The Trade Agreements Act of 1979, referred to in subsec. (b)(2)(C), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144. Title III of the Act is classified generally to subchapter I (§ 2511 et seq.) of chapter 13 of Title 19, Customs Duties. For complete classification of this Act to the Code, see References in Text note set out under [section 2501 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2501&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2015—Subsec. (e)(2). Pub. L. 114–92, § 817(1), substituted “as calculated under paragraph (1)” for “on the day before the adjustment” in introductory provisions.
+
+Subsec. (e)(2)(D) to (G). Pub. L. 114–92, § 817(2), (3), added subpars. (D) to (G) and struck out former subpar. (D) which read as follows: “$1,000,000 or more, to the nearest $500,000.”
 
 #### Adjustment for Inflation of Right-Hand Drive Passenger Sedans
 Pub. L. 112–81, div. A, title VIII, § 814(b), Dec. 31, 2011, 125 Stat. 1491, provided that: “The Department of Defense representative to the Federal Acquisition Regulatory Council established under [section 1302 of title 41](./chapter-013-chapter-13.md#section-1302), United States Code, shall ensure that the threshold established in [section 2253 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2253&num=0&edition=prelim), United States Code, for the acquisition of right-hand drive passenger sedans is included on the list of dollar thresholds that are subject to adjustment for inflation in accordance with the requirements of [section 1908 of title 41](./chapter-019-chapter-19.md#section-1908), United States Code, and is adjusted pursuant to such provision, as appropriate.”

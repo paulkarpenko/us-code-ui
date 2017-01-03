@@ -2,7 +2,7 @@
 title: 49
 chapter: '63'
 heading: BUREAU OF TRANSPORTATION STATISTICS
-section_count: 13
+section_count: 14
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -32,7 +32,7 @@ Pub. L. 112–141, div. E, title II, § 52011(b), July 6, 2012, 126 Stat. 895, p
 
 <a id="section-6302"></a>
 ## § 6302. Bureau of Transportation Statistics
-**(a) Establishment.—** There is established in the Office of the Assistant Secretary for Research and Technology of the Department of Transportation the Bureau of Transportation Statistics.
+**(a) In General.—** There shall be within the Department of Transportation the Bureau of Transportation Statistics.
 
 **(b) Director.—**
 
@@ -96,7 +96,7 @@ Pub. L. 112–141, div. E, title II, § 52011(b), July 6, 2012, 126 Stat. 895, p
 
       (II) the state of good repair of United States transportation infrastructure;
 
-      (III) the extent, connectivity, and condition of the transportation system, building on the national transportation atlas database developed under section 6310; 11 So in original. Probably should be “section 6309;”.
+      (III) the extent, connectivity, and condition of the transportation system, building on the national transportation atlas database developed under section 6309;
 
       (IV) economic efficiency across the entire transportation sector;
 
@@ -128,6 +128,24 @@ Pub. L. 112–141, div. E, title II, § 52011(b), July 6, 2012, 126 Stat. 895, p
 
 **(c) Access to Federal Data.—** In carrying out subsection (b)(3)(B)(ii), the Director shall be given access to all safety data that the Director determines necessary to carry out that subsection that is held by the Department or any other Federal agency upon written request and subject to any statutory or regulatory restrictions.
 
+**(d) Independence of Bureau.—**
+
+(1) **In general.—** — The Director shall not be required—
+
+  (A) to obtain the approval of any other officer or employee of the Department with respect to the collection or analysis of any information; or
+
+  (B) prior to publication, to obtain the approval of any other officer or employee of the United States Government with respect to the substance of any statistical technical reports or press releases lawfully prepared by the Director.
+
+(2) **Budget authority.—** — The Director shall have a significant role in the disposition and allocation of the authorized budget of the Bureau, including—
+
+  (A) all hiring, grants, cooperative agreements, and contracts awarded by the Bureau to carry out this section; and
+
+  (B) the disposition and allocation of amounts paid to the Bureau for cost-reimbursable projects.
+
+(3) **Exceptions.—** — The Secretary shall direct external support functions, such as the coordination of activities involving multiple modal administrations.
+
+(4) **Information technology.—** — The Department Chief Information Officer shall consult with the Director to ensure decisions related to information technology guarantee the protection of the confidentiality of information provided solely for statistical purposes, in accordance with the Confidential Information Protection and Statistical Efficiency Act of 2002 ([44 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim) note; Public Law 107–347).
+
 ### Statutory Notes
 
 #### References in Text
@@ -135,8 +153,17 @@ Executive Order 12906, referred to in subsec. (b)(3)(B)(vii), is Ex. Ord. No. 12
 
 The Government Performance and Results Act of 1993, referred to in subsec. (b)(3)(B)(ix)(I), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted [section 306 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended [section 1105 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 1101 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1101&num=0&edition=prelim) and Tables.
 
-#### Change of Name
-“Office of the Assistant Secretary for Research and Technology of the Department of Transportation” substituted for “Research and Innovative Technology Administration” in subsec. (a) on authority of title I of div. L of Pub. L. 113–76, set out in part as a note under [section 112 of this title](./chapter-001-organization.md#section-112).
+The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in subsec. (d)(4), is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which enacted [section 402 of Title 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section402&num=0&edition=prelim), Census, amended [section 176a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section176a&num=0&edition=prelim), Commerce and Trade, and enacted provisions set out as a note under [section 3501 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim), Public Printing and Documents.
+
+#### Amendments
+2015—Subsec. (a). Pub. L. 114–94, § 6011(d)(2), added subsec. (a) and struck out former subsec. (a) which related to establishment of the Bureau of Transportation Statistics.
+
+Subsec. (b)(3)(B)(vi)(III). Pub. L. 114–94, § 1446(b), substituted “6309” for “6310”.
+
+Subsec. (d). Pub. L. 114–94, § 6017, added subsec. (d).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
@@ -218,7 +245,7 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 ### Statutory Notes
 
 #### Change of Name
-“Office of the Assistant Secretary for Research and Technology of the Department of Transportation’s” substituted for “Research and Innovative Technology Administration’s” in subsec. (c)(3) on authority of title I of div. L of Pub. L. 113–76, set out in part as a note under [section 112 of this title](./chapter-001-organization.md#section-112).
+“Office of the Assistant Secretary for Research and Technology of the Department of Transportation’s” substituted for “Research and Innovative Technology Administration’s” in subsec. (c)(3) on authority of title I of div. L of Pub. L. 113–76, set out in part as a Transfer of Duties and Powers note under former [section 112 of this title](./chapter-001-organization.md#section-112).
 
 #### Effective Date
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
@@ -307,15 +334,15 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 (1) **In general.—** — An officer, employee, or contractor of the Bureau may not—
 
-  (A) make any disclosure in which the data provided by an individual or organization under section 6302(b)(3)(B) can be identified;
+  (A) make any disclosure in which the data provided by an individual or organization under section 6302(b)(3)(B) or section 6314(b) can be identified;
 
-  (B) use the information provided under section 6302(b)(3)(B) for a nonstatistical purpose; or
+  (B) use the information provided under section 6302(b)(3)(B) or section 6314(b) for a nonstatistical purpose; or
 
-  (C) permit anyone other than an individual authorized by the Director to examine any individual report provided under section 6302(b)(3)(B).
+  (C) permit anyone other than an individual authorized by the Director to examine any individual report provided under section 6302(b)(3)(B) or section 6314(b).
 
 (2) **Copies of reports.—**
 
-  (A) *In general.—* — No department, bureau, agency, officer, or employee of the United States (except the Director in carrying out this chapter) may require, for any reason, a copy of any report that has been filed under section 6302(b)(3)(B) with the Bureau or retained by an individual respondent.
+  (A) *In general.—* — No department, bureau, agency, officer, or employee of the United States (except the Director in carrying out this chapter) may require, for any reason, a copy of any report that has been filed under section 6302(b)(3)(B) or section 6314(b) with the Bureau or retained by an individual respondent.
 
   (B) *Limitation on judicial proceedings.—* — A copy of a report described in subparagraph (A) that has been retained by an individual respondent or filed with the Bureau or any of the employees, contractors, or agents of the Bureau—
 
@@ -334,6 +361,12 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 (2) information that the agency possessing the information determines could not be disclosed without significantly impairing the discharge of authorities and responsibilities which have been delegated to, or vested by law, in such agency.
 
 ### Statutory Notes
+
+#### Amendments
+2015—Subsec. (b). Pub. L. 114–94 inserted “or section 6314(b)” after “section 6302(b)(3)(B)” wherever appearing.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
@@ -454,3 +487,96 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 #### Effective Date
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+
+<a id="section-6314"></a>
+## § 6314. Port performance freight statistics program
+**(a) In General.—** The Director shall establish, on behalf of the Secretary, a port performance statistics program to provide nationally consistent measures of performance of, at a minimum—
+
+(1) the Nation’s top 25 ports by tonnage;
+
+(2) the Nation’s top 25 ports by 20-foot equivalent unit; and
+
+(3) the Nation’s top 25 ports by dry bulk.
+
+**(b) Reports.—**
+
+(1) **Port capacity and throughput.—** — Not later than January 15 of each year, the Director shall submit an annual report to Congress that includes statistics on capacity and throughput at the ports described in subsection (a).
+
+(2) **Port performance measures.—** — The Director shall collect port performance measures for each of the United States ports referred to in subsection (a) that—
+
+  (A) receives Federal assistance; or
+
+  (B) is subject to Federal regulation to submit necessary information to the Bureau that includes statistics on capacity and throughput as applicable to the specific configuration of the port.
+
+**(c) Recommendations.—**
+
+(1) **In general.—** — The Director shall obtain recommendations for—
+
+  (A) port performance measures, including specifications and data measurements to be used in the program established under subsection (a); and
+
+  (B) a process for the Department to collect timely and consistent data, including identifying safeguards to protect proprietary information described in subsection (b)(2).
+
+(2) **Working group.—** — Not later than 60 days after the date of the enactment of the Transportation for Tomorrow Act of 2015, the Director shall commission a working group composed of—
+
+  (A) operating administrations of the Department;
+
+  (B) the Coast Guard;
+
+  (C) the Federal Maritime Commission;
+
+  (D) U.S. Customs and Border Protection;
+
+  (E) the Marine Transportation System National Advisory Council;
+
+  (F) the Army Corps of Engineers;
+
+  (G) the Saint Lawrence Seaway Development Corporation;
+
+  (H) the Bureau of Labor Statistics;
+
+  (I) the Maritime Advisory Committee for Occupational Safety and Health;
+
+  (J) the Advisory Committee on Supply Chain Competitiveness;
+
+  (K) 1 representative from the rail industry;
+
+  (L) 1 representative from the trucking industry;
+
+  (M) 1 representative from the maritime shipping industry;
+
+  (N) 1 representative from a labor organization for each industry described in subparagraphs (K) through (M);
+
+  (O) 1 representative from the International Longshoremen’s Association;
+
+  (P) 1 representative from the International Longshore and Warehouse Union;
+
+  (Q) 1 representative from a port authority;
+
+  (R) 1 representative from a terminal operator;
+
+  (S) representatives of the National Freight Advisory Committee of the Department; and
+
+  (T) representatives of the Transportation Research Board of the National Academies of Sciences, Engineering, and Medicine.
+
+(3) **Recommendations.—** — Not later than 1 year after the date of the enactment of the Transportation for Tomorrow Act of 2015, the working group commissioned under paragraph (2) shall submit its recommendations to the Director.
+
+**(d) Access to Data.—** The Director shall ensure that—
+
+(1) the statistics compiled under this section—
+
+  (A) are readily accessible to the public; and
+
+  (B) are consistent with applicable security constraints and confidentiality interests; and
+
+(2) the data acquired, regardless of source, shall be protected in accordance with the Confidential Information Protection and Statistical Efficiency Act of 2002 ([44 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim) note; Public Law 107–347).
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the Transportation for Tomorrow Act of 2015, referred to in subsec. (c)(2), (3), is the date of enactment of title VI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in subsec. (d)(2), is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which enacted [section 402 of Title 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section402&num=0&edition=prelim), Census, amended [section 176a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section176a&num=0&edition=prelim), Commerce and Trade, and enacted provisions set out as a note under [section 3501 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim), Public Printing and Documents.
+
+#### Effective Date
+Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.

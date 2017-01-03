@@ -43,15 +43,15 @@ R.S. § 2080 derived from act July 5, 1862, ch. 135, § 1, 12 Stat. 528.
 
 (1) The term “Indian lands” means lands the title to which is held by the United States in trust for an Indian tribe or lands the title to which is held by an Indian tribe subject to a restriction by the United States against alienation.
 
-(2) The term “Indian tribe” has the meaning given that term in [section 450b(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim).
+(2) The term “Indian tribe” has the meaning given that term in [section 5304(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim).
 
 (3) The term “Secretary” means the Secretary of the Interior.
 
 **(b) Approval** No agreement or contract with an Indian tribe that encumbers Indian lands for a period of 7 or more years shall be valid unless that agreement or contract bears the approval of the Secretary of the Interior or a designee of the Secretary.
 
-**(c) Exception** Subsection (b) of this section shall not apply to any agreement or contract that the Secretary (or a designee of the Secretary) determines is not covered under that subsection.
+**(c) Exception** Subsection (b) shall not apply to any agreement or contract that the Secretary (or a designee of the Secretary) determines is not covered under that subsection.
 
-**(d) Unapproved agreements** The Secretary (or a designee of the Secretary) shall refuse to approve an agreement or contract that is covered under subsection (b) of this section if the Secretary (or a designee of the Secretary) determines that the agreement or contract—
+**(d) Unapproved agreements** The Secretary (or a designee of the Secretary) shall refuse to approve an agreement or contract that is covered under subsection (b) if the Secretary (or a designee of the Secretary) determines that the agreement or contract—
 
 (1) violates Federal law; or
 
@@ -63,7 +63,7 @@ R.S. § 2080 derived from act July 5, 1862, ch. 135, § 1, 12 Stat. 528.
 
   (C) includes an express waiver of the right of the Indian tribe to assert sovereign immunity as a defense in an action brought against the Indian tribe (including a waiver that limits the nature of relief that may be provided or the jurisdiction of a court with respect to such an action).
 
-**(e) Regulations** Not later than 180 days after March 14, 2000, the Secretary shall issue regulations for identifying types of agreements or contracts that are not covered under subsection (b) of this section.
+**(e) Regulations** Not later than 180 days after March 14, 2000, the Secretary shall issue regulations for identifying types of agreements or contracts that are not covered under subsection (b).
 
 **(f) Construction** Nothing in this section shall be construed to—
 

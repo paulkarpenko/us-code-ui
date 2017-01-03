@@ -2,7 +2,7 @@
 title: 10
 chapter: '931'
 heading: CIVIL RESERVE AIR FLEET
-section_count: 7
+section_count: 8
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -21,7 +21,7 @@ In this chapter:
 
 (5) The term “cargo-convertible aircraft” means a passenger aircraft equipped or designed so that all or substantially all of the main deck of the aircraft can be readily converted for the carriage of property or mail.
 
-(6) The term “Civil Reserve Air Fleet” means those aircraft allocated, or identified for allocation, to the Department of Defense under section 101 of the Defense Production Act of 1950 (50 U.S.C. App. 2071), or made available (or agreed to be made available) for use by the Department of Defense under a contract made under this title, as part of the program developed by the Department of Defense through which the Department of Defense augments its airlift capability by use of civil aircraft.
+(6) The term “Civil Reserve Air Fleet” means those aircraft allocated, or identified for allocation, to the Department of Defense under section 101 of the Defense Production Act of 1950 ([50 U.S.C. 4511](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4511&num=0&edition=prelim)), or made available (or agreed to be made available) for use by the Department of Defense under a contract made under this title, as part of the program developed by the Department of Defense through which the Department of Defense augments its airlift capability by use of civil aircraft.
 
 (7) The term “contractor” means a citizen of the United States (A) who owns or controls, or who will own or control, a new or existing aircraft and who contracts with the Secretary under [section 9512 of this title](./chapter-931-civil-reserve-air-fleet.md#section-9512) to modify that aircraft by including or incorporating specified defense features in that aircraft and to commit that aircraft to the Civil Reserve Air Fleet, (B) who subsequently obtains ownership or control of a civil aircraft covered by such a contract and assumes all existing obligations under that contract, or (C) who owns or controls, or will own or control, new or existing aircraft and who, by contract, commits some or all of such aircraft to the Civil Reserve Air Fleet.
 
@@ -33,9 +33,15 @@ In this chapter:
 
 (11) The term “defense feature” means equipment or design features included or incorporated in a civil aircraft which ensures the compatibility of such aircraft with the Department of Defense airlift system. Such term includes any equipment or design feature which enables such aircraft to be readily modified for use as an aeromedical aircraft or a cargo-convertible, cargo-capable, or passenger-cargo combined aircraft.
 
+(12) The term “Civil Reserve Air Fleet program” means the program developed by the Department of Defense through which the Department of Defense augments its airlift capability by use of civil aircraft.
+
 ### Statutory Notes
 
 #### Amendments
+2016—Par. (6). Pub. L. 114–328 substituted “([50 U.S.C. 4511](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4511&num=0&edition=prelim))” for “(50 U.S.C. App. 2071)”.
+
+2015—Par. (12). Pub. L. 114–92 added par. (12).
+
 1994—Pub. L. 103–355, § 3031(c), substituted “In this chapter:” for “In this subchapter:” in introductory provisions.
 
 Par. (1). Pub. L. 103–355, § 3031(b)(1)(C), which directed substitution of “[section 40102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102&num=0&edition=prelim)” for “section 101 of the Federal Aviation Act of 1958 ([49 U.S.C. 1301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim))”, could not be executed because of the intervening amendment by Pub. L. 103–272 which substituted “[section 40102(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim)” for “section 101 of the Federal Aviation Act of 1958 ([49 U.S.C. 1301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim))”, see below.
@@ -126,7 +132,7 @@ Pub. L. 112–81, div. A, title III, § 366(c), Dec. 31, 2011, 125 Stat. 1381, p
 
 (2) A contract entered into pursuant to paragraph (1) may include such specifications for work and equipment as the Secretary considers necessary to meet the needs of the United States.
 
-**(e) Exclusivity of Commitment to Civil Reserve Air Fleet.—** Notwithstanding section 101 of the Defense Production Act of 1950 (50 U.S.C. App. 2071), each aircraft covered by a contract entered into under this section shall be committed exclusively to the Civil Reserve Air Fleet for use by the Department of Defense as needed during any activation of the Civil Reserve Air Fleet unless the aircraft is released from that use by the Secretary of Defense.
+**(e) Exclusivity of Commitment to Civil Reserve Air Fleet.—** Notwithstanding section 101 of the Defense Production Act of 1950 ([50 U.S.C. 4511](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4511&num=0&edition=prelim)), each aircraft covered by a contract entered into under this section shall be committed exclusively to the Civil Reserve Air Fleet for use by the Department of Defense as needed during any activation of the Civil Reserve Air Fleet unless the aircraft is released from that use by the Secretary of Defense.
 
 ### Statutory Notes
 
@@ -134,6 +140,8 @@ Pub. L. 112–81, div. A, title III, § 366(c), Dec. 31, 2011, 125 Stat. 1381, p
 The text of subsecs. (a) and (b) of [section 9513 of this title](./chapter-931-civil-reserve-air-fleet.md#section-9513), which were redesignated as subsecs. (b) and (e) of this section by Pub. L. 103–355, § 3032(4), (5), was based on Pub. L. 97–86, title IX, § 915(2), Dec. 1, 1981, 95 Stat. 1128; amended Pub. L. 101–189, div. A, title XVI, § 1636(c)(1), Nov. 29, 1989, 103 Stat. 1610.
 
 #### Amendments
+2016—Subsec. (e). Pub. L. 114–328 substituted “([50 U.S.C. 4511](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4511&num=0&edition=prelim))” for “(50 U.S.C. App. 2071)”.
+
 1996—Subsecs. (b)(2), (e). Pub. L. 104–106 struck out “full” before “Civil Reserve Air Fleet”.
 
 1994—Subsec. (a). Pub. L. 103–355, § 3032(1), inserted heading.
@@ -317,3 +325,14 @@ Pub. L. 110–417, [div. A], title X, § 1033(c), Oct. 14, 2008, 122 Stat. 4593,
 **(d) Exception.—** When the Secretary of Defense decides that no air carrier holding a certificate under [section 41102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section41102&num=0&edition=prelim) is capable of providing, and willing to provide, the airlift service, the Secretary of Defense may make a contract to provide the service with an air carrier not having a certificate.
 
 **(e) CRAF-eligible Aircraft Defined.—** In this section, “CRAF-eligible aircraft” means aircraft of a type the Secretary of Defense has determined to be eligible to participate in the civil reserve air fleet.
+
+
+<a id="section-9517"></a>
+## § 9517. Level of readiness of Civil Reserve Air Fleet carriers
+
+The Civil Reserve Air Fleet program is an important component of the military airlift system in support of United States defense and foreign policies, and it is the policy of the United States to maintain the readiness and interoperability of Civil Reserve Air Fleet carriers by providing appropriate levels of peacetime airlift augmentation to maintain networks and infrastructure, exercise the system, and interface effectively within the military airlift system.
+
+### Statutory Notes
+
+#### Findings
+Pub. L. 114–92, div. A, title X, § 1085(a), Nov. 25, 2015, 129 Stat. 1004, provided that: “Congress finds the following: “(1) The National Airlift Policy states that ‘[t]he national defense airlift objective is to ensure that military and civil airlift resources will be able to meet defense mobilization and deployment requirements in support of US defense and foreign policies.’. “(2) The National Airlift Policy also emphasizes the need for ‘dialogue and cooperation with our national aviation industry,’ and it states that ‘[i]t is of particular importance that the aviation industry be apprised by the Department of Defense of long-term requirements for airlift in support of national defense.’. “(3) The National Airlift Policy emphasizes the importance of both military and civil airlift resources and their interdependence in the fulfillment of the national defense airlift objective, and it states that the ‘Department of Defense shall establish appropriate levels for peacetime cargo airlift augmentation in order to promote the effectiveness of Civil Reserve Air Fleet and provide training within the military airlift system.’. “(4) Civil Reserve Air Fleet carriers continue to be an important component of the military airlift system in support of United States defense and foreign policies.”

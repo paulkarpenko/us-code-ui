@@ -2,7 +2,7 @@
 title: 26
 chapter: '76'
 heading: JUDICIAL PROCEEDINGS
-section_count: 70
+section_count: 73
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
@@ -243,7 +243,12 @@ A prior section 7409 was renumbered [section 7410 of this title](./chapter-076-j
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)
+Pub. L. 114–74, title XI, § 1101(f)(10), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (a) of this section is amended by striking “6225(b), 6246(b)” and inserting “6232(c)”. See 2015 Amendment note below.
+
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–74 substituted “6232(c)” for “6225(b), 6246(b)”.
+
 2000—Subsec. (a). Pub. L. 106–554 inserted “6330(e)(1),” after “6246(b),” and substituted “6672(c)” for “6672(b)”.
 
 1998—Subsec. (a). Pub. L. 105–277 substituted “6015(e)” for “6015(d)” and inserted “6331(i),” after “6246(b),”.
@@ -263,6 +268,9 @@ Pub. L. 105–34, § 1222(b)(1), inserted “6246(b),” after “6213(a),”.
 1976—Subsec. (a). Pub. L. 94–455 substituted “7426(a) and (b)(1), and 7429(b)” for “and 7426(a) and (b)(1)”.
 
 1966—Subsec. (a). Pub. L. 89–719 inserted reference to section 7426(a), (b)(1), and “by any person, whether or not such person is the person against whom such tax was assessed”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 1998 Amendments
 Amendment by Pub. L. 105–277 effective as if included in the provision of the Internal Revenue Service Restructuring and Reform Act of 1998, Pub. L. 105–206, to which such amendment relates, see section 4002(k) of Pub. L. 105–277, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -351,10 +359,15 @@ Pub. L. 105–206, title III, § 3468, July 22, 1998, 112 Stat. 770, provided th
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 114–74, title XI, § 1101(f)(11), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is amended by striking subsection (h). See 2015 Amendment note below.
+
 #### References in Text
 The date of enactment of this title, referred to in subsec. (e), is Aug. 16, 1954.
 
 #### Amendments
+2015—Subsec. (h). Pub. L. 114–74 struck out subsec. (h). Text read as follows: “No action may be brought for a refund attributable to partnership items (as defined in section 6231(a)(3)) except as provided in section 6228(b) or section 6230(c).”
+
 1998—Subsecs. (j), (k). Pub. L. 105–206 added subsec. (j) and redesignated former subsec. (j) as (k).
 
 1996—Subsec. (g)(2), (3). Pub. L. 104–168 inserted “4958,” after “4955,”.
@@ -400,6 +413,9 @@ Subsecs. (g), (h). Pub. L. 91–172, § 101(i), added subsec. (g) and redesignat
 1966—Subsecs. (f), (g). Pub. L. 89–713 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 1958—Subsec. (f)(2). Pub. L. 85–866 struck out “district” before “attorneys”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 1998 Amendment
 Pub. L. 105–206, title III, § 3104(c), July 22, 1998, 112 Stat. 732, provided that: “The amendments made by this section [amending this section and [section 7479 of this title](./chapter-076-judicial-proceedings.md#section-7479)] shall apply to any claim for refund filed after the date of the enactment of this Act [July 22, 1998].”
@@ -682,9 +698,11 @@ Amendment by Pub. L. 110–28 applicable to returns prepared after May 25, 2007,
 
   (B) with respect to the initial classification or continuing classification of an organization as a private foundation (as defined in section 509(a)),
 
-  (C) with respect to the initial classification or continuing classification of an organization as a private operating foundation (as defined in section 4942(j)(3)), or
+  (C) with respect to the initial classification or continuing classification of an organization as a private operating foundation (as defined in section 4942(j)(3)),
 
   (D) with respect to the initial classification or continuing classification of a cooperative as an organization described in section 521(b) which is exempt from tax under section 521(a), or
+
+  (E) with respect to the initial qualification or continuing qualification of an organization as an organization described in section 501(c) (other than paragraph (3)) or 501(d) and exempt from tax under section 501(a), or
 
 (2) a failure by the Secretary to make a determination with respect to an issue referred to in paragraph (1),
 upon the filing of an appropriate pleading, the United States Tax Court, the United States Court of Federal Claims, or the district court of the United States for the District of Columbia may make a declaration with respect to such initial qualification or continuing qualification or with respect to such initial classification or continuing classification. Any such declaration shall have the force and effect of a decision of the Tax Court or a final judgment or decree of the district court or the Court of Federal Claims, as the case may be, and shall be reviewable as such. For purposes of this section, a determination with respect to a continuing qualification or continuing classification includes any revocation of or other change in a qualification or classification.
@@ -733,6 +751,8 @@ upon the filing of an appropriate pleading, the United States Tax Court, the Uni
 A prior section 7428 was renumbered 7437 of this title.
 
 #### Amendments
+2015—Subsec. (a)(1)(E). Pub. L. 114–113 added subpar. (E).
+
 2006—Subsec. (b)(4). Pub. L. 109–280, which directed addition of par. (4) at the end of section 7428(b), without specifying the act to be amended, was executed by making the addition at the end of subsec. (b) of this section, which is section 7428 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
 2004—Subsec. (a)(1)(D). Pub. L. 108–357 added subpar. (D).
@@ -746,6 +766,9 @@ Subsecs. (b)(2), (c)(1)(C)(iii). Pub. L. 102–572, § 902(b)(2), substituted �
 1982—Subsecs. (a), (b)(2), (c)(1)(C)(iii). Pub. L. 97–164 substituted “Claims Court” for “Court of Claims”.
 
 1978—Subsec. (a). Pub. L. 95–600 inserted provision relating to change in qualification or classification.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title IV, § 406(b), Dec. 18, 2015, 129 Stat. 3120, provided that: “The amendments made by this section [amending this section] shall apply to pleadings filed after the date of the enactment of this Act [Dec. 18, 2015].”
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–280 applicable to notices and returns with respect to annual periods beginning after 2006, see section 1223(f) of Pub. L. 109–280, set out as a note under [section 6033 of this title](./chapter-061-information-and-returns.md#section-6033).
@@ -1554,11 +1577,13 @@ Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proc
 <a id="section-7441"></a>
 ## § 7441. Status
 
-There is hereby established, under article I of the Constitution of the United States, a court of record to be known as the United States Tax Court. The members of the Tax Court shall be the chief judge and the judges of the Tax Court.
+There is hereby established, under article I of the Constitution of the United States, a court of record to be known as the United States Tax Court. The members of the Tax Court shall be the chief judge and the judges of the Tax Court. The Tax Court is not an agency of, and shall be independent of, the executive branch of the Government.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Pub. L. 114–113 inserted at end “The Tax Court is not an agency of, and shall be independent of, the executive branch of the Government.”
+
 1969—Pub. L. 91–172 substituted provisions establishing Tax Court as a Constitutional court, and enumerating the members that comprise its bench, for provisions continuing the Board of Tax Appeals, known as the Tax Court, as an independent agency in the Executive Branch of Government and enumerating the members that comprise its bench.
 
 #### Effective Date of 1969 Amendment
@@ -2426,14 +2451,22 @@ Amendment by Pub. L. 86–368 effective when Chief Counsel for Internal Revenue 
 <a id="section-7453"></a>
 ## § 7453. Rules of practice, procedure, and evidence
 
-Except in the case of proceedings conducted under section 7436(c) or 7463, the proceedings of the Tax Court and its divisions shall be conducted in accordance with such rules of practice and procedure (other than rules of evidence) as the Tax Court may prescribe and in accordance with the rules of evidence applicable in trials without a jury in the United States District Court of the District of Columbia.
+Except in the case of proceedings conducted under section 7436(c) or 7463, the proceedings of the Tax Court and its divisions shall be conducted in accordance with such rules of practice and procedure (other than rules of evidence) as the Tax Court may prescribe and in accordance with the Federal Rules of Evidence.
 
 ### Statutory Notes
 
+#### References in Text
+The Federal Rules of Evidence, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
 #### Amendments
+2015—Pub. L. 114–113 substituted “the Federal Rules of Evidence” for “the rules of evidence applicable in trials without a jury in the United States District Court of the District of Columbia”.
+
 1997—Pub. L. 105–34 substituted “section 7436(c) or 7463” for “section 7463”.
 
 1969—Pub. L. 91–172 inserted reference to the exception in the case of proceedings conducted under [section 7463 of this title](./chapter-076-judicial-proceedings.md#section-7463).
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title IV, § 425(b), Dec. 18, 2015, 129 Stat. 3125, provided that: “The amendment made by this section [amending this section] shall apply to proceedings commenced after the date of the enactment of this Act [Dec. 18, 2015] and, to the extent that it is just and practicable, to all proceedings pending on such date.”
 
 #### Effective Date of 1969 Amendment
 Amendment by Pub. L. 91–172 effective one year after Dec. 30, 1969, see section 962(e) of Pub. L. 91–172, set out as an Effective Date note under [section 7463 of this title](./chapter-076-judicial-proceedings.md#section-7463).
@@ -2644,10 +2677,15 @@ Notice and opportunity to be heard upon any proceeding instituted before the Tax
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)
+Pub. L. 114–74, title XI, § 1101(f)(12), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (c) of this section is amended by striking “section 6226” and all that follows through “or 6252” and inserting “section 6234”. See 2015 Amendment note below.
+
 #### References in Text
 The Revenue Act of 1926, referred to in subsec. (f), is act Feb. 26, 1926, ch. 27, 44 Stat. 9. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2015—Subsec. (c). Pub. L. 114–74 substituted “section 6234” for “section 6226, 6228(a), 6247, or 6252”.
+
 1997—Subsec. (c). Pub. L. 105–34, § 1239(e)(1), which directed the amendment of subsec. (c) by substituting “, 6228(a), or 6234(c)” for “or section 6228(a)” could not be executed because the words “or section 6228(a)” did not appear in text subsequent to amendment by Pub. L. 105–34, § 1222(b)(2). See below.
 
 Pub. L. 105–34, § 1222(b)(2), substituted “, 6228(a), 6247, or 6252” for “or section 6228(a)”.
@@ -2661,6 +2699,9 @@ Subsec. (c). Pub. L. 97–248 inserted “or in the case of an action brought un
 Subsec. (d). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 1974—Subsec. (c). Pub. L. 93–406 inserted “or, in the case of a declaratory judgment proceeding under part IV of this subchapter, the date of the court’s order entering the decision” after “deficiency is entered in the records of the Tax Court”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 1997 Amendment
 Amendment by section 1222(b)(2) of Pub. L. 105–34 applicable to partnership taxable years beginning after Dec. 31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as a note under [section 6011 of this title](./chapter-061-information-and-returns.md#section-6011).
@@ -2739,9 +2780,11 @@ at the option of the taxpayer concurred in by the Tax Court or a division thereo
 
 **(f) Additional cases in which proceedings may be conducted under this section** At the option of the taxpayer concurred in by the Tax Court or a division thereof before the hearing of the case, proceedings may be conducted under this section (in the same manner as a case described in subsection (a)) in the case of—
 
-(1) a petition to the Tax Court under section 6015(e) in which the amount of relief sought does not exceed $50,000, and
+(1) a petition to the Tax Court under section 6015(e) in which the amount of relief sought does not exceed $50,000,
 
-(2) an appeal under section 6330(d)(1)(A) to the Tax Court of a determination in which the unpaid tax does not exceed $50,000.
+(2) an appeal under section 6330(d)(1)(A) to the Tax Court of a determination in which the unpaid tax does not exceed $50,000, and
+
+(3) a petition to the Tax Court under section 6404(h) in which the amount of the abatement sought does not exceed $50,000.
 
 ### Statutory Notes
 
@@ -2749,6 +2792,8 @@ at the option of the taxpayer concurred in by the Tax Court or a division thereo
 A prior section 7463 was renumbered [section 7465 of this title](./chapter-076-judicial-proceedings.md#section-7465).
 
 #### Amendments
+2015—Subsec. (f)(3). Pub. L. 114–113 added par. (3).
+
 2000—Subsec. (f). Pub. L. 106–554 added subsec. (f).
 
 1998—Pub. L. 105–206 in section catchline and in subsec. (a)(1) to (4) substituted “$50,000” for “$10,000”.
@@ -2776,6 +2821,9 @@ Subsec. (g). Pub. L. 95–600, § 502(b), added subsec. (g).
 Subsec. (a)(1), (2). Pub. L. 92–512, § 203(b)(2), substituted “$1,500” for “$1,000”.
 
 Subsec. (f). Pub. L. 92–512, § 203(b)(1), added subsec. (f).
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title IV, § 422(b), Dec. 18, 2015, 129 Stat. 3123, provided that: “The amendments made by this section [amending this section] shall apply to cases pending as of the day after the date of the enactment of this Act [Dec. 18, 2015], and cases commenced after such date of enactment.”
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–206 applicable to proceedings commenced after July 22, 1998, see section 3103(c) of Pub. L. 105–206, set out as a note under [section 7436 of this title](./chapter-076-judicial-proceedings.md#section-7436).
@@ -2821,6 +2869,37 @@ Section effective Oct. 1, 1979, but not applicable to proceedings under Title 11
 (1) For rules of burden of proof in transferee proceedings, see section 6902(a).
 
 (2) For authority of Tax Court to prescribe rules by which a transferee of property of a taxpayer shall be entitled to examine books, records and other evidence, see section 6902(b).
+
+
+<a id="section-7466"></a>
+## § 7466. Judicial conduct and disability procedures
+**(a) In general** The Tax Court shall prescribe rules, consistent with the provisions of chapter 16 of title 28, United States Code, establishing procedures for the filing of complaints with respect to the conduct of any judge or special trial judge of the Tax Court and for the investigation and resolution of such complaints. In investigating and taking action with respect to any such complaint, the Tax Court shall have the powers granted to a judicial council under such chapter.
+
+**(b) Judicial council** The provisions of sections 354(b) through 360 of title 28, United States Code, regarding referral or certification to, and petition for review in the Judicial Conference of the United States, and action thereon, shall apply to the exercise by the Tax Court of the powers of a judicial council under subsection (a). The determination pursuant to section 354(b) or 355 of title 28, United States Code, shall be made based on the grounds for removal of a judge from office under section 7443(f), and certification and transmittal by the Conference of any complaint shall be made to the President for consideration under section 7443(f).
+
+**(c) Hearings**
+
+(1) **In general** — In conducting hearings pursuant to subsection (a), the Tax Court may exercise the authority provided under [section 1821 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1821&num=0&edition=prelim), United States Code, to pay the fees and allowances described in that section.
+
+(2) **Reimbursement for expenses** — The Tax Court shall have the power provided under section 361 of such title 28 to award reimbursement for the reasonable expenses described in that section. Reimbursements under this paragraph shall be made out of any funds appropriated for purposes of the Tax Court.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 114–113, div. Q, title IV, § 431(c), Dec. 18, 2015, 129 Stat. 3125, provided that: “The amendments made by this section [enacting this section] shall apply to proceedings commenced after the date which is 180 days after the date of the enactment of this Act [Dec. 18, 2015] and, to the extent just and practicable, all proceedings pending on such date.”
+
+
+<a id="section-7470"></a>
+## § 7470. Administration
+
+Notwithstanding any other provision of law, the Tax Court may exercise, for purposes of management, administration, and expenditure of funds of the Court, the authorities provided for such purposes by any provision of law (including any limitation with respect to such provision of law) applicable to a court of the United States (as that term is defined in [section 451 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section451&num=0&edition=prelim), United States Code), except to the extent that such provision of law is inconsistent with a provision of this subchapter.
+
+
+<a id="section-7470a"></a>
+## § 7470A. Judicial conference
+**(a) Judicial conference** The chief judge may summon the judges and special trial judges of the Tax Court to an annual judicial conference, at such time and place as the chief judge shall designate, for the purpose of considering the business of the Tax Court and recommending means of improving the administration of justice within the jurisdiction of the Tax Court. The Tax Court shall provide by its rules for representation and active participation at such conferences by persons admitted to practice before the Tax Court and by other persons active in the legal profession.
+
+**(b) Registration fee** The Tax Court may impose a reasonable registration fee on persons (other than judges and special trial judges of the Tax Court) participating at judicial conferences convened pursuant to subsection (a). Amounts so received by the Tax Court shall be available to the Tax Court to defray the expenses of such conferences.
 
 
 <a id="section-7471"></a>
@@ -2937,11 +3016,13 @@ Amendment by Pub. L. 99–514 effective Jan. 1, 1987, see section 1553(c) of Pub
 <a id="section-7473"></a>
 ## § 7473. Disposition of fees
 
-Except as provided in section 7475, all fees received by the Tax Court shall be covered into the Treasury as miscellaneous receipts.
+Except as provided in sections 7470A and 7475, all fees received by the Tax Court pursuant to this title shall be deposited into a special fund of the Treasury to be available to offset funds appropriated for the operation and maintenance of the Tax Court.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Pub. L. 114–113 amended section generally. Prior to amendment, text read as follows: “Except as provided in section 7475, all fees received by the Tax Court shall be covered into the Treasury as miscellaneous receipts.”
+
 1986—Pub. L. 99–514 substituted “Except as provided in section 7475, all” for “All”.
 
 #### Effective Date of 1986 Amendment
@@ -3272,7 +3353,7 @@ Amendment by Pub. L. 91–172 effective 30 days after Dec. 30, 1969, see section
 
   (E) in the case of a petition under section 6226, 6228(a), 6247, or 6252, the principal place of business of the partnership, or
 
-  (F) in the case of a petition under section 6234(c)—
+  (F) 11 See Amendment of Subsection (b)(1) notes below. in the case of a petition under section 6234(c)—
 
     (i) the legal residence of the petitioner if the petitioner is not a corporation, and
 
@@ -3295,7 +3376,52 @@ Amendment by Pub. L. 91–172 effective 30 days after Dec. 30, 1969, see section
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)(1)
+Pub. L. 114–74, title XI, § 1101(f)(13), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (b)(1) of this section is amended as follows:
+
+(1) in subparagraph (E), by striking “section 6226, 6228, 6247, or 6252” and inserting “section 6234”;
+
+(2) by striking subparagraph (F), by striking “or” at the end of subparagraph (E) and inserting a period, and by inserting “or” at the end of subparagraph (D); and
+
+(3) in the last sentence, by striking “section 6226, 6228(a), or 6234(c)” and inserting “section 6234”.
+
+Pub. L. 114–113, div. Q, title IV, § 423, Dec. 18, 2015, 129 Stat. 3123, provided that, applicable to petitions filed after Dec. 18, 2015, subsection (b)(1) of this section (as amended by Pub. L. 114–74, see note above) is amended as follows:
+
+(1) by striking “or” at the end of subparagraph (D);
+
+(2) by striking the period at the end of subparagraph (E); and
+
+(3) by inserting after subparagraph (E) the following new subparagraphs:
+
+(F) in the case of a petition under section 6015(e), the legal residence of the petitioner, or
+
+(G) in the case of a petition under section 6320 or 6330—
+
+(i) the legal residence of the petitioner if the petitioner is an individual, and
+
+(ii) the principal place of business or principal office or agency if the petitioner is an entity other than an individual.
+
+See 2015 Amendment notes below.
+
 #### Amendments
+2015—Subsec. (b)(1). Pub. L. 114–74, § 1101(f)(13)(C), substituted “section 6234” for “section 6226, 6228(a), or 6234(c)” in concluding provisions.
+
+Subsec. (b)(1)(D). Pub. L. 114–74, § 1101(f)(13)(B), inserted “or” at end.
+
+Subsec. (b)(1)(E). Pub. L. 114–74, § 1101(f)(13)(B), substituted period for “or” after “partnership,”.
+
+Pub. L. 114–74, § 1101(f)(13)(A), which directed amendment of subpar. (E) by substituting “section 6234” for “section 6226, 6228, 6247, or 6252”, was executed by making the substitution for “section 6226, 6228(a), 6247, or 6252” to reflect the probable intent of Congress.
+
+Subsec. (b)(1)(F). Pub. L. 114–113, § 423(a), added subpar. (F).
+
+Pub. L. 114–74, § 1101(f)(13)(B), struck out subpar. (F) which read as follows: “in the case of a petition under section 6234(c)—
+
+“(i) the legal residence of the petitioner if the petitioner is not a corporation, and
+
+“(ii) the place or office applicable under subparagraph (B) if the petitioner is a corporation.”
+
+Subsec. (b)(1)(G). Pub. L. 114–113, § 423(a), added subpar. (G).
+
 1997—Subsec. (b)(1). Pub. L. 105–34, § 1239(d)(2), substituted “, 6228(a), or 6234(c)” for “or 6228(a)” in concluding provisions.
 
 Subsec. (b)(1)(E). Pub. L. 105–34, § 1222(b)(3), substituted “, 6228(a), 6247, or 6252” for “or 6228(a)”.
@@ -3335,6 +3461,11 @@ Subsec. (b)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delega
 1969—Subsec. (c). Pub. L. 91–172 substituted “[section 2072 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2072&num=0&edition=prelim)” for “[section 2074 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2074&num=0&edition=prelim)” in par. (2) and struck out provision for the applicability of rules adopted under authority of section 1141(c)(2) of the Internal Revenue Act of 1939 until such time as rules prescribed by the Supreme Court under [section 2072 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2072&num=0&edition=prelim) become effective and, in par. (4), substituted “notice of appeal” for “petition”.
 
 1966—Subsec. (b)(1). Pub. L. 89–713 substituted provisions requiring that appeals from Tax Court decisions be made to the Court of Appeals for the circuit in which the taxpayer resides, in the case of a taxpayer other than a corporation, and, in the case of appeals by corporations, to the Court of Appeals for the circuit in which the corporation has its principal place of business or principal office or agency for provisions prescribing review by the Court of Appeals for the circuit in which was located the office to which was made the return of the tax in respect of which the liability arose, and inserted provision for the time of determining legal residence, place of business, or principal office or agency.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title IV, § 423(b), Dec. 18, 2015, 129 Stat. 3124, provided that: “(1) In general.—The amendments made by this section [amending this section] shall apply to petitions filed after the date of enactment of this Act [Dec. 18, 2015]. “(2) Effect on existing proceedings.—Nothing in this section shall be construed to create any inference with respect to the application of section 7482 of the Internal Revenue Code of 1986 with respect to court proceedings filed on or before the date of the enactment of this Act.”
+
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 1997 Amendment
 Amendment by section 1222(b)(3) of Pub. L. 105–34 applicable to partnership taxable years beginning after Dec. 31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as a note under [section 6011 of this title](./chapter-061-information-and-returns.md#section-6011).
@@ -3422,7 +3553,12 @@ If as a result of a waiver of the restrictions on the assessment and collection 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)
+Pub. L. 114–74, title XI, § 1101(f)(14), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (b) of this section is amended by striking “section 6226, 6228(a), 6247, or 6252” and inserting “section 6234”. See 2015 Amendment note below.
+
 #### Amendments
+2015—Subsec. (b). Pub. L. 114–74 substituted “section 6234” for “section 6226, 6228(a), 6247, or 6252”.
+
 1997—Subsec. (b). Pub. L. 105–34, § 1222(b)(4)(B), amended heading generally. Prior to amendment, heading read as follows: “Bond in case of appeal of decision under section 6226 or section 6228(a)”.
 
 Pub. L. 105–34, § 1222(b)(4)(A), substituted “, 6228(a), 6247, or 6252” for “or 6228(a)”.
@@ -3434,6 +3570,9 @@ Pub. L. 105–34, § 1241(a), inserted “penalties,” after “any interest,�
 Subsec. (c)(2). Pub. L. 97–258 substituted “[section 9303 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9303&num=0&edition=prelim), United States Code” for “[6 U.S.C. 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section15&num=0&edition=prelim)”. Notwithstanding the directory language that amendment be made to subsec. (b)(2), the amendment was executed to subsec. (c)(2) to reflect the probable intent of Congress and the intervening redesignation of subsec. (b) as (c) by Pub. L. 97–248.
 
 1969—Subsec. (a). Pub. L. 91–172 substituted “notice of appeal” for “petition for review” and “appeal bond” for “review bond”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 1997 Amendment
 Amendment by section 1222(b)(4) of Pub. L. 105–34 applicable to partnership taxable years beginning after Dec. 31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as a note under [section 6011 of this title](./chapter-061-information-and-returns.md#section-6011).

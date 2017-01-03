@@ -2,7 +2,7 @@
 title: 10
 chapter: '149'
 heading: DEFENSE ACQUISITION SYSTEM
-section_count: 4
+section_count: 5
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -30,6 +30,9 @@ A prior section 2545 was renumbered [section 2555 of this title](./chapter-152-i
 #### Short Title of 2011 Amendment
 Pub. L. 111–383, div. A, title VIII, § 860, Jan. 7, 2011, 124 Stat. 4287, provided that: “This subtitle [subtitle F (§§ 860–896) of title VIII of div. A of Pub. L. 111–383, enacting this chapter and sections 139e, 1701a, 1722b, 1748, 1762, and 2508 of this title, amending sections 101, 1723, 1746, 2302, 2500, 2501, 2505, and 2506 of this title, enacting provisions set out as notes under sections 1723, 1748, 2222, 2302, 2306a, 2330, and 2501 of this title, amending provisions set out as notes under [section 2371 of this title](./chapter-139-research-and-development.md#section-2371) and [section 637 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637&num=0&edition=prelim), Commerce and Trade, and repealing provisions set out as notes under sections 1701 and 1723 of this title] may be cited as the ‘Improve Acquisition Act of 2010’.”
 
+#### Review of Time-Based Requirements Process and Budgeting and Acquisition Systems
+Pub. L. 114–92, div. A, title VIII, § 810, Nov. 25, 2015, 129 Stat. 890, provided that: “(a) Time-based Requirements Process.—The Secretary of Defense and the Chairman of the Joint Chiefs of Staff shall review the requirements process with the goal of establishing an agile and streamlined system that develops requirements that provide stability and foundational direction for acquisition programs and shall determine the advisability of providing a time-based or phased distinction between capabilities needed to be deployed urgently, within 2 years, within 5 years, and longer than 5 years. “(b) Budgeting and Acquisition Systems.—The Secretary of Defense shall review and ensure that the acquisition and budgeting systems are structured to meet time-based or phased requirements in a manner that is predictable, cost effective, and efficient and takes advantage of emerging technological developments.”
+
 
 <a id="section-2546"></a>
 ## § 2546. Civilian management of the defense acquisition system
@@ -43,25 +46,38 @@ Pub. L. 111–383, div. A, title VIII, § 860, Jan. 7, 2011, 124 Stat. 4287, pro
 A prior section 2546 was renumbered [section 2556 of this title](./chapter-152-issue-of-supplies-services-and-facilities.md#section-2556).
 
 
+<a id="section-2546a"></a>
+## § 2546a. Customer-oriented acquisition system
+**(a) Objective.—** It shall be the objective of the defense acquisition system to meet the needs of its customers in the most cost-effective manner practicable. The acquisition policies, directives, and regulations of the Department of Defense shall be modified as necessary to ensure the development and implementation of a customer-oriented acquisition system.
+
+**(b) Customer.—** The customer of the defense acquisition system is the armed force that will have primary responsibility for fielding the system or systems acquired. The customer is represented with regard to a major defense acquisition program by the Secretary of the military department concerned and the Chief of the armed force concerned.
+
+**(c) Role of Customer.—** The customer of a major defense acquisition program shall be responsible for balancing resources against priorities on the acquisition program and ensuring that appropriate trade-offs are made among cost, schedule, technical feasibility, and performance on a continuing basis throughout the life of the acquisition program.
+
+
 <a id="section-2547"></a>
 ## § 2547. Acquisition-related functions of chiefs of the armed forces
 **(a) Performance of Certain Acquisition-related Functions.—** The Secretary of Defense shall ensure that the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, and the Commandant of the Marine Corps assist the Secretary of the military department concerned in the performance of the following acquisition-related functions of such department:
 
 (1) The development of requirements for equipping the armed force concerned (subject, where appropriate, to validation by the Joint Requirements Oversight Council pursuant to [section 181 of this title](./chapter-007-boards-councils-and-committees.md#section-181)).
 
-(2) The coordination of measures to control requirements creep in the defense acquisition system.
+(2) Decisions regarding the balancing of resources and priorities, and associated trade-offs among cost, schedule, technical feasibility, and performance on major defense acquisition programs.
 
-(3) The recommendation of trade-offs among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, to ensure acquisition programs deliver best value in meeting the approved military requirements.
+(3) The coordination of measures to control requirements creep in the defense acquisition system.
 
-(4) Termination of development or procurement programs for which life-cycle cost, schedule, and performance expectations are no longer consistent with approved military requirements and levels of priority, or which no longer have approved military requirements.
+(4) The recommendation of trade-offs among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, to ensure acquisition programs deliver best value in meeting the approved military requirements.
 
-(5) The development of career paths in acquisition for military personnel (as required by [section 1722a of this title](./chapter-087-defense-acquisition-workforce.md#section-1722a)).
+(5) Termination of development or procurement programs for which life-cycle cost, schedule, and performance expectations are no longer consistent with approved military requirements and levels of priority, or which no longer have approved military requirements.
 
-(6) The assignment and training of contracting officer representatives when such representatives are required to be members of the armed forces because of the nature of the contract concerned.
+(6) The development and management of career paths in acquisition for military personnel (as required by [section 1722a of this title](./chapter-087-defense-acquisition-workforce.md#section-1722a)).
 
-**(b) Rule of Construction.—** Nothing in this section shall be construed to affect the assignment of functions under section 3014(c)(1)(A), section 5014(c)(1)(A), or [section 8014(c)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8014/c/1/A&num=0&edition=prelim), except as explicitly provided in this section.
+(7) The assignment and training of contracting officer representatives when such representatives are required to be members of the armed forces because of the nature of the contract concerned.
 
-**(c) Definitions.—** In this section:
+**(b) Adherence to Requirements in Major Defense Acquisition Programs.—** The Secretary of the military department concerned shall ensure that the program capability document supporting a Milestone B or subsequent decision for a major defense acquisition program may not be approved until the chief of the armed force concerned determines in writing that the requirements in the document are necessary and realistic in relation to the program cost and fielding targets established under [section 2448a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2448a/a&num=0&edition=prelim).
+
+**(c) Rule of Construction.—** Nothing in this section shall be construed to affect the assignment of functions under section 3014(c)(1)(A), section 5014(c)(1)(A), or [section 8014(c)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8014/c/1/A&num=0&edition=prelim), except as explicitly provided in this section.
+
+**(d) Definitions.—** In this section:
 
 (1) The term “requirements creep” means the addition of new technical or operational specifications after a requirements document is approved by the appropriate validation authority for the requirements document.
 
@@ -73,12 +89,26 @@ A prior section 2546 was renumbered [section 2556 of this title](./chapter-152-i
 
   (C) identifies production attributes required for a single increment of a program.
 
+(3) The term “program capability document” has the meaning provided in [section 2446a(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2446a/b/5&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 2547 was renumbered [section 2557 of this title](./chapter-152-issue-of-supplies-services-and-facilities.md#section-2557).
 
 #### Amendments
+2016—Subsecs. (b), (c). Pub. L. 114–328, § 807(c)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 114–328, § 807(c)(1), redesignated subsec. (c) as (d).
+
+Subsec. (d)(3). Pub. L. 114–328, § 807(c)(3), added par. (3).
+
+2015—Subsec. (a)(2) to (5). Pub. L. 114–92, § 802(b)(1), (2), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively. Former par. (5) redesignated (6).
+
+Subsec. (a)(6). Pub. L. 114–92, § 802(b)(1), (3), redesignated par. (5) as (6) and substituted “The development and management” for “The development”. Former par. (6) redesignated (7).
+
+Subsec. (a)(7). Pub. L. 114–92, § 802(b)(1), redesignated par. (6) as (7).
+
 2013—Subsec. (a)(1). Pub. L. 112–239, § 951(c)(1), substituted “of requirements for equipping the armed force concerned” for “of requirements relating to the defense acquisition system”.
 
 Subsec. (a)(3) to (6). Pub. L. 112–239, § 951(c)(2), (3), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
@@ -162,12 +192,14 @@ Subsec. (a)(3) to (6). Pub. L. 112–239, § 951(c)(2), (3), added pars. (3) and
 
 (1) the annual report prepared by the Secretary of Defense pursuant to [section 1116 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1116&num=0&edition=prelim) shall address the Department’s success in achieving performance goals established pursuant to such section for elements of the defense acquisition system; and
 
-(2) the annual report prepared by the Director of the Office of Performance Assessment and Root Cause Analysis pursuant to [section 2438(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2438/f&num=0&edition=prelim) shall include information on the activities undertaken by the Department pursuant to such section, including a summary of significant findings or recommendations arising out of performance assessments.
+(2) the annual report prepared by the Director of the Office of Performance Assessment and Root Cause Analysis pursuant to section 2438(f) 11 See References in Text note below. of this title shall include information on the activities undertaken by the Department pursuant to such section, including a summary of significant findings or recommendations arising out of performance assessments.
 
 ### Statutory Notes
 
 #### References in Text
 The Government Performance and Results Act of 1993, referred to in subsec. (d), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted [section 306 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim), Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended [section 1105 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 1101 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1101&num=0&edition=prelim) and Tables.
+
+[Section 2438(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2438/f&num=0&edition=prelim), referred to in subsec. (e)(2), was repealed by Pub. L. 114–92, div. A, title X, § 1077(b), Nov. 25, 2015, 129 Stat. 998.
 
 #### Prior Provisions
 A prior section 2548 was renumbered [section 2558 of this title](./chapter-152-issue-of-supplies-services-and-facilities.md#section-2558).

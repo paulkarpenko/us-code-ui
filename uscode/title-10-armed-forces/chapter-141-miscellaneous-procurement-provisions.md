@@ -2,7 +2,7 @@
 title: 10
 chapter: '141'
 heading: MISCELLANEOUS PROCUREMENT PROVISIONS
-section_count: 52
+section_count: 53
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -233,32 +233,11 @@ The words “equipment, and materials” are omitted as covered by the word “s
 
 
 <a id="section-2387"></a>
-## § 2387. Procurement of table and kitchen equipment for officers’ quarters: limitation on
-**(a)** Except under regulations approved by the Secretary of Defense and providing for uniform practices among the armed forces under his jurisdiction, no part of any appropriation of the Department of Defense may be used to supply or replace table linen, dishes, glassware, silver, and kitchen utensils for use in the residences on shore, or quarters on shore, of officers of those armed forces.
-
-**(b)** This section does not apply to—
-
-(1) field messes;
-
-(2) messes temporarily set up on shore for bachelor officers and officers attached to seagoing or district defense vessels;
-
-(3) aviation units based on seagoing vessels;
-
-(4) fleet air bases;
-
-(5) submarine bases; and
-
-(6) landing forces and expeditions.
+## § 2387. Repealed. Pub. L. 114–328, div. A, title VIII, § 833(b)(4)(A), Dec. 23, 2016, 130 Stat. 2285]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised section | Source (U.S. Code) | Source (Statutes at Large) |
-| 2387(a) | 5:174e (less words within parentheses). | July 13, 1955, ch. 358, § 614, 69 Stat. 317. |
-| 2387(b) | 5:174e (words within parentheses). |  |
-
-In subsection (a), the words “may be used” are substituted for the words “shall be available”. The words “on account of” are omitted as surplusage. The words “under his jurisdiction” are inserted for clarity, since the Secretary of Defense has no jurisdiction over the Coast Guard when it is not operating as a service in the Navy.
+Section, added Pub. L. 85–861, § 1(45), Sept. 2, 1958, 72 Stat. 1458, related to procurement of table and kitchen equipment for officers’ quarters: limitation on.
 
 
 <a id="section-2388"></a>
@@ -936,6 +915,9 @@ Subsec. (h)(1). Pub. L. 103–337, § 1070(a)(11)(C), substituted “139(a)(2)(A
 
 1992—Subsec. (e)(3). Pub. L. 102–484 designated existing provisions as subpar. (A) and added subpar. (B).
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (g) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
 #### Assessment of Risk in Concurrent Development of Major Defense Acquisition Systems
 Pub. L. 101–189, div. A, title VIII, § 801, Nov. 29, 1989, 103 Stat. 1483, provided that: “(a) Establishment of Policy.—The Secretary of Defense shall establish guidelines for—“(1) determining the degree of concurrency that is appropriate for the development of major defense acquisition systems; and “(2) assessing the degree of risk associated with various degrees of concurrency. “(b) Report on Guidelines.—The Secretary shall submit to Congress a report that describes the guidelines established under subsection (a) and the method used for assessing risk associated with concurrency. “(c) Report on Concurrency in Major Acquisition Programs.—(1) The Secretary shall also submit to Congress a report outlining the risk associated with concurrency for each major defense acquisition program that is in either full-scale development or low-rate initial production as of January 1, 1990. “(2) The report shall include consideration of the following matters with respect to each such program:“(A) The degree of confidence in the enemy threat assessment for establishing the system’s requirements. “(B) The type of contract involved. “(C) The degree of stability in program funding. “(D) The level of maturity of technology involved in the system. “(E) The availability of adequate test assets, including facilities and ranges. “(F) The plans for transition from development to production. “(d) Submission of Reports.—The reports under subsections (b) and (c) shall be submitted to Congress not later than March 1, 1990. “(e) Definition.—For purposes of this section, the term ‘concurrency’ means the degree of overlap between the development and production processes of an acquisition program.”
 
@@ -1415,7 +1397,7 @@ Pub. L. 102–484, div. A, title VIII, § 815(b), Oct. 23, 1992, 106 Stat. 2454,
 ## § 2409. Contractor employees: protection from reprisal for disclosure of certain information
 **(a) Prohibition of Reprisals.—**
 
-(1) An employee of a contractor, subcontractor, grantee, or subgrantee may not be discharged, demoted, or otherwise discriminated against as a reprisal for disclosing to a person or body described in paragraph (2) information that the employee reasonably believes is evidence of the following:
+(1) An employee of a contractor, subcontractor, grantee, or subgrantee or personal services contractor may not be discharged, demoted, or otherwise discriminated against as a reprisal for disclosing to a person or body described in paragraph (2) information that the employee reasonably believes is evidence of the following:
 
   (A) Gross mismanagement of a Department of Defense contract or grant, a gross waste of Department funds, an abuse of authority relating to a Department contract or grant, or a violation of law, rule, or regulation related to a Department contract (including the competition for or negotiation of a contract) or grant.
 
@@ -1532,6 +1514,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections.
 
 #### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–261 inserted “or personal services contractor” after “subgrantee” in introductory provisions.
+
 2014—Subsec. (a)(1). Pub. L. 113–291, § 856(a), substituted “, subcontractor, grantee, or subgrantee” for “or subcontractor” in introductory provisions.
 
 Subsec. (e)(1). Pub. L. 113–291, § 1071(c)(10), substituted “([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim))” for “([50 U.S.C. 401a(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401a/4&num=0&edition=prelim))”.
@@ -1912,7 +1896,7 @@ Pub. L. 102–484, div. A, title VIII, § 840(b), Oct. 23, 1992, 106 Stat. 2467,
 
 <a id="section-2410i"></a>
 ## § 2410i. Prohibition on contracting with entities that comply with the secondary Arab boycott of Israel
-**(a) Policy.—** Under section 3(5)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2402(5)(A)), it is the policy of the United States to oppose restrictive trade practices or boycotts fostered or imposed by foreign countries against other countries friendly to the United States or against any other United States person.
+**(a) Policy.—** Under section 3(5)(A) of the Export Administration Act of 1979 ([50 U.S.C. 4602(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4602/5/A&num=0&edition=prelim)), it is the policy of the United States to oppose restrictive trade practices or boycotts fostered or imposed by foreign countries against other countries friendly to the United States or against any other United States person.
 
 **(b) Prohibition.—**
 
@@ -1931,6 +1915,8 @@ Pub. L. 102–484, div. A, title VIII, § 840(b), Oct. 23, 1992, 106 Stat. 2467,
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328 substituted “([50 U.S.C. 4602(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4602/5/A&num=0&edition=prelim))” for “(50 U.S.C. App. 2402(5)(A))”.
+
 2011—Subsec. (b)(1). Pub. L. 111–350 substituted “simplified acquisition threshold (as defined in [section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim))” for “small purchase threshold (as defined in section 4(11) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(11)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/11&num=0&edition=prelim)))”.
 
 
@@ -2025,11 +2011,11 @@ Pub. L. 102–484, div. A, title VIII, § 840(b), Oct. 23, 1992, 106 Stat. 2467,
 ### Statutory Notes
 
 #### References in Text
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
 [Section 1151 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1151), referred to in subsecs. (f)(2)(A), (B) and (h), was repealed by Pub. L. 106–65, div. A, title XVII, § 1707(a)(1), Oct. 5, 1999, 113 Stat. 823, and a new [section 1151 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1151) was subsequently added by Pub. L. 109–364, § 561(a).
 
-The Higher Education Act of 1965, referred to in subsec. (g)(2), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20 and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (g)(2), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2000—Subsec. (f)(2). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(14)(A)], inserted “as in effect on October 4, 1999,” after “of this title,” in subpars. (A) and (B).
@@ -2295,3 +2281,20 @@ Pub. L. 110–181, div. A, title VIII, § 802, Jan. 28, 2008, 122 Stat. 206, as 
 (2) it would not be possible to purchase electricity from the source in an economical manner without the use of a contract for a period in excess of five years.
 
 **(c) Relationship to Other Multiyear Contracting Authority.—** Nothing in this section shall be construed to preclude the Department of Defense from using other multiyear contracting authority of the Department to purchase renewable energy.
+
+
+<a id="section-2410r"></a>
+## § 2410r. Contract working dogs: requirement to transfer animals to 341st Training Squadron after service life
+**(a) In General.—** Each contract entered into by the Secretary of Defense for the provision of a contract working dog shall require that the dog be transferred to the 341st Training Squadron after the service life of the dog has terminated as described in subsection (b) for reclassification as a military animal and placement for adoption in accordance with [section 2583 of this title](./chapter-153-exchange-of-material-and-disposal-of-obsolete-surplus-or-unclaimed-property.md#section-2583).
+
+**(b) Service Life.—** The service life of a contract working dog has terminated and the dog is available for transfer to the 341st Training Squadron pursuant to a contract under subsection (a) only if the contracting officer concerned has determined that—
+
+(1) the final contractual obligation of the dog preceding such transfer is with the Department of Defense; and
+
+(2) the dog cannot be used by another department or agency of the Federal Government due to age, injury, or performance.
+
+**(c) Contract Working Dog.—** In this section, the term “contract working dog” means a dog—
+
+(1) that performs a service for the Department of Defense pursuant to a contract; and
+
+(2) that is trained and kenneled by an entity that provides such a dog pursuant to such a contract.

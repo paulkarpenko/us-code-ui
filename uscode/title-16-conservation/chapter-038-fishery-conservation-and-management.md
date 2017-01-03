@@ -133,6 +133,9 @@ Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided th
 #### Effective Date of 1992 Amendment
 Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under [section 773 of this title](./chapter-010-northern-pacific-halibut-fishing.md#section-773).
 
+#### Short Title of 2015 Amendment
+Pub. L. 114–81, § 1, Nov. 5, 2015, 129 Stat. 649, provided that: “This Act [see Tables for classification] may be cited as the ‘Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2015’.”
+
 #### Short Title of 2012 Amendment
 Pub. L. 112–183, § 1, Oct. 5, 2012, 126 Stat. 1422, provided that: “This Act [enacting [section 1827a of this title](./chapter-038-fishery-conservation-and-management.md#section-1827a) and provisions set out as a note under [section 1827a of this title](./chapter-038-fishery-conservation-and-management.md#section-1827a)] may be cited as the ‘Billfish Conservation Act of 2012’.”
 
@@ -173,7 +176,7 @@ Pub. L. 94–265, § 1, Apr. 13, 1976, 90 Stat. 331, as amended by Pub. L. 96–
 #### Ex. Ord. No. 12962. Recreational Fisheries
 Ex. Ord. No. 12962, June 7, 1995, 60 F.R. 30769, as amended by Ex. Ord. No. 13474, Sept. 26, 2008, 73 F.R. 57229, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish and Wildlife Act of 1956 ([16 U.S.C. 742a](./chapter-009-fish-and-wildlife-service.md#section-742a)–d, and e–j), the Fish and Wildlife Coordination Act ([16 U.S.C. 661–666c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661–666c&num=0&edition=prelim)), the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), the National Marine Sanctuaries Act of 1972 ([16 U.S.C. 1431](./chapter-032-marine-sanctuaries.md#section-1431) et seq.), the National Wildlife Refuge System Administration Act of 1966 ([16 U.S.C. 668dd](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd)–ee), the National Park Service Organic Act ([former] [16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1) et seq.), the National Historic Preservation Act ([16 U.S.C. 470](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-470) et seq.) [see [54 U.S.C. 300101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section300101&num=0&edition=prelim) et seq.], [the] Wilderness Act ([16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131) et seq.), the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.), the Coastal Zone Management Act [of 1972] ([16 U.S.C. 1451](./chapter-033-coastal-zone-management.md#section-1451) et seq.), the Outer Continental Shelf Lands Act ([43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) et seq.), and other pertinent statutes, and in order to conserve, restore, and enhance aquatic systems to provide for increased recreational fishing opportunities nationwide, it is ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish and Wildlife Act of 1956 ([16 U.S.C. 742a](./chapter-009-fish-and-wildlife-service.md#section-742a)–d, and e–j), the Fish and Wildlife Coordination Act ([16 U.S.C. 661–666c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661–666c&num=0&edition=prelim)), the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), the National Marine Sanctuaries Act of 1972 ([16 U.S.C. 1431](./chapter-032-marine-sanctuaries.md#section-1431) et seq.), the National Wildlife Refuge System Administration Act of 1966 ([16 U.S.C. 668dd](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd)–ee), the National Park Service Organic Act ([former] [16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1) et seq.) [see [18 U.S.C. 1865(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), [54 U.S.C. 100101(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101/a&num=0&edition=prelim), 100301 et seq., 100751(a), 100752, 100753, 102101], the National Historic Preservation Act ([former] [16 U.S.C. 470](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-470) et seq.) [see [54 U.S.C. 300101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section300101&num=0&edition=prelim) et seq.], [the] Wilderness Act ([16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131) et seq.), the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.), the Coastal Zone Management Act [of 1972] ([16 U.S.C. 1451](./chapter-033-coastal-zone-management.md#section-1451) et seq.), the Outer Continental Shelf Lands Act ([43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) et seq.), and other pertinent statutes, and in order to conserve, restore, and enhance aquatic systems to provide for increased recreational fishing opportunities nationwide, it is ordered as follows:
 
 Section 1. Federal Agency Duties. Federal agencies shall, to the extent permitted by law and where practicable, and in cooperation with States and Tribes, improve the quantity, function, sustainable productivity, and distribution of U.S. aquatic resources for increased recreational fishing opportunities by: (a) developing and encouraging partnerships between governments and the private sector to advance aquatic resource conservation and enhance recreational fishing opportunities;
 
@@ -777,19 +780,19 @@ Section, Pub. L. 94–265, title I, § 103, Apr. 13, 1976, 90 Stat. 336, which r
 ## § 1821. Foreign fishing
 **(a) In general** After February 28, 1977, no foreign fishing is authorized within the exclusive economic zone, or for anadromous species or Continental Shelf fishery resources beyond the exclusive economic zone, unless such foreign fishing—
 
-(1) is authorized under subsections (b) or (c) of this section or [section 1824(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1824/e&num=0&edition=prelim), or under a permit issued under [section 1824(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1824/d&num=0&edition=prelim);
+(1) is authorized under subsections (b) or (c) or [section 1824(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1824/e&num=0&edition=prelim), or under a permit issued under [section 1824(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1824/d&num=0&edition=prelim);
 
-(2) is not prohibited under subsection (f) of this section; and
+(2) is not prohibited under subsection (f); and
 
 (3) is conducted under, and in accordance with, a valid and applicable permit issued pursuant to [section 1824 of this title](./chapter-038-fishery-conservation-and-management.md#section-1824).
 
-**(b) Existing international fishery agreements** Foreign fishing described in subsection (a) of this section may be conducted pursuant to an international fishery agreement (subject to the provisions of section 1822(b) or (c) of this title), if such agreement—
+**(b) Existing international fishery agreements** Foreign fishing described in subsection (a) may be conducted pursuant to an international fishery agreement (subject to the provisions of section 1822(b) or (c) of this title), if such agreement—
 
 (1) was in effect on April 13, 1976; and
 
 (2) has not expired, been renegotiated, or otherwise ceased to be of force and effect with respect to the United States.
 
-**(c) Governing international fishery agreements** Foreign fishing described in subsection (a) of this section may be conducted pursuant to an international fishery agreement (other than a treaty) which meets the requirements of this subsection if such agreement becomes effective after application of [section 1823 of this title](./chapter-038-fishery-conservation-and-management.md#section-1823). Any such international fishery agreement shall hereafter in this chapter be referred to as a “governing international fishery agreement”. Each governing international fishery agreement shall acknowledge the exclusive fishery management authority of the United States, as set forth in this chapter. It is the sense of the Congress that each such agreement shall include a binding commitment, on the part of such foreign nation and its fishing vessels, to comply with the following terms and conditions:
+**(c) Governing international fishery agreements** Foreign fishing described in subsection (a) may be conducted pursuant to an international fishery agreement (other than a treaty) which meets the requirements of this subsection if such agreement becomes effective after application of [section 1823 of this title](./chapter-038-fishery-conservation-and-management.md#section-1823). Any such international fishery agreement shall hereafter in this chapter be referred to as a “governing international fishery agreement”. Each governing international fishery agreement shall acknowledge the exclusive fishery management authority of the United States, as set forth in this chapter. It is the sense of the Congress that each such agreement shall include a binding commitment, on the part of such foreign nation and its fishing vessels, to comply with the following terms and conditions:
 
 (1) The foreign nation, and the owner or operator of any fishing vessel fishing pursuant to such agreement, will abide by all regulations promulgated by the Secretary pursuant to this chapter, including any regulations promulgated to implement any applicable fishery management plan or any preliminary fishery management plan.
 
@@ -807,7 +810,7 @@ Section, Pub. L. 94–265, title I, § 103, Apr. 13, 1976, 90 Stat. 336, which r
 
   (C) transponders, or such other appropriate position-fixing and identification equipment as the Secretary of the department in which the Coast Guard is operating determines to be appropriate, be installed and maintained in working order on each such vessel;
 
-  (D) United States observers required under subsection (h) of this section be permitted to be stationed aboard any such vessel and that all of the costs incurred incident to such stationing, including the costs of data editing and entry and observer monitoring, be paid for, in accordance with such subsection, by the owner or operator of the vessel;
+  (D) United States observers required under subsection (h) be permitted to be stationed aboard any such vessel and that all of the costs incurred incident to such stationing, including the costs of data editing and entry and observer monitoring, be paid for, in accordance with such subsection, by the owner or operator of the vessel;
 
   (E) any fees required under [section 1824(b)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1824/b/10&num=0&edition=prelim) be paid in advance;
 
@@ -816,7 +819,7 @@ Section, Pub. L. 94–265, title I, § 103, Apr. 13, 1976, 90 Stat. 336, which r
   (G) responsibility be assumed, in accordance with any requirements prescribed by the Secretary, for the reimbursement of United States citizens for any loss of, or damage to, their fishing vessels, fishing gear, or catch which is caused by any fishing vessel of that nation;
   and will abide by any other monitoring, compliance, or enforcement requirement related to fishery conservation and management which is included in such agreement.
 
-(3) The foreign nation and the owners or operators of all of the fishing vessels of such nation shall not, in any year, harvest an amount of fish which exceeds such nation’s allocation of the total allowable level of foreign fishing, as determined under subsection (e) of this section.
+(3) The foreign nation and the owners or operators of all of the fishing vessels of such nation shall not, in any year, harvest an amount of fish which exceeds such nation’s allocation of the total allowable level of foreign fishing, as determined under subsection (e).
 
 (4) The foreign nation will—
 
@@ -826,7 +829,7 @@ Section, Pub. L. 94–265, title I, § 103, Apr. 13, 1976, 90 Stat. 336, which r
 
   (C) abide by, and take appropriate steps under its own laws to assure that all such owners and operators comply with, [section 1824(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1824/a&num=0&edition=prelim) and the applicable conditions and restrictions established under [section 1824(b)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1824/b/7&num=0&edition=prelim); and
 
-  (D) take, or refrain from taking, as appropriate, actions of the kind referred to in subsection (e)(1) of this section in order to receive favorable allocations under such subsection.
+  (D) take, or refrain from taking, as appropriate, actions of the kind referred to in subsection (e)(1) in order to receive favorable allocations under such subsection.
 
 **(d) Total allowable level of foreign fishing** The total allowable level of foreign fishing, if any, with respect to any fishery subject to the exclusive fishery management authority of the United States, is that portion of the optimum yield of such fishery which cannot, or will not, be harvested by vessels of the United States, as determined in accordance with this chapter. Allocations of the total allowable level of foreign fishing are discretionary, except that the total allowable level shall be zero for fisheries determined by the Secretary to have adequate or excess domestic harvest capacity.
 
@@ -898,7 +901,7 @@ Section, Pub. L. 94–265, title I, § 103, Apr. 13, 1976, 90 Stat. 336, which r
 
 **(f) Reciprocity** Foreign fishing shall not be authorized for the fishing vessels of any foreign nation unless such nation satisfies the Secretary and the Secretary of State that such nation extends substantially the same fishing privileges to fishing vessels of the United States, if any, as the United States extends to foreign fishing vessels.
 
-**(g) Preliminary fishery management plans** The Secretary, when notified by the Secretary of State that any foreign nation has submitted an application under [section 1824(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1824/b&num=0&edition=prelim) shall prepare a preliminary fishery management plan for any fishery covered by such application if the Secretary determines that no fishery management plan for that fishery will be prepared and implemented, pursuant to subchapter IV of this chapter, before March 1, 1977. To the extent practicable, each such plan—
+**(g) Preliminary fishery management plans** The Secretary, when notified by the Secretary of State that any foreign nation has submitted an application under [section 1824(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1824/b&num=0&edition=prelim) shall prepare a preliminary fishery management plan for any fishery covered by such application if the Secretary determines that no fishery management plan for that fishery will be prepared and implemented, pursuant to subchapter IV, before March 1, 1977. To the extent practicable, each such plan—
 
 (1) shall contain a preliminary description of the fishery and a preliminary determination as to—
 
@@ -919,7 +922,7 @@ Section, Pub. L. 94–265, title I, § 103, Apr. 13, 1976, 90 Stat. 336, which r
   (B) are consistent with the national standards, the other provisions of this chapter, and other applicable law, and
 
   (C) are described in section 1853(b)(2), (3), (4), (5), and (7) of this title.
-Each preliminary fishery management plan shall be in effect with respect to foreign fishing for which permits have been issued until a fishery management plan is prepared and implemented, pursuant to subchapter IV of this chapter, with respect to such fishery. The Secretary may, in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), also prepare and promulgate interim regulations with respect to any such preliminary plan. Such regulations shall be in effect until regulations implementing the applicable fishery management plan are promulgated pursuant to [section 1855 of this title](./chapter-038-fishery-conservation-and-management.md#section-1855).
+Each preliminary fishery management plan shall be in effect with respect to foreign fishing for which permits have been issued until a fishery management plan is prepared and implemented, pursuant to subchapter IV, with respect to such fishery. The Secretary may, in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), also prepare and promulgate interim regulations with respect to any such preliminary plan. Such regulations shall be in effect until regulations implementing the applicable fishery management plan are promulgated pursuant to [section 1855 of this title](./chapter-038-fishery-conservation-and-management.md#section-1855).
 
 **(h) Full observer coverage program**
 
@@ -1030,7 +1033,7 @@ Subsec. (e)(1)(E)(i). Pub. L. 98–623, § 404(2)(B), substituted “both United
 
 Subsec. (e)(1)(E)(ii). Pub. L. 98–623, § 404(2)(C), amended provisions generally, thereby substituting “in both the advancement of existing and new opportunities for fisheries exports from the United States through the purchase of fishery products from United States processors, and the advancement of fisheries trade through the purchase of fish and fishery products from United States fishermen, particularly fish and fishery products for which the foreign nation has requested an allocation” for “in the advancement of existing and new opportunities for fisheries trade, particularly through the purchase of fish or fishery products from United States processors or from United States fishermen”.
 
-1983—Subsec. (c)(2)(D). Pub. L. 97–453, § 2(a)(1), amended par. (D) generally, substituting “United States observers required under subsection (i) of this section be permitted to be stationed aboard any such vessel and that all of the costs incurred incident to such stationing, including the costs of data editing and entry and observer monitoring, be paid for, in accordance with such subsection, by the owner or operator of the vessel” for “duly authorized United States observers be permitted on board any such vessel and that the United States be reimbursed for the cost of such observers”.
+1983—Subsec. (c)(2)(D). Pub. L. 97–453, § 2(a)(1), amended par. (D) generally, substituting “United States observers required under subsection (i) be permitted to be stationed aboard any such vessel and that all of the costs incurred incident to such stationing, including the costs of data editing and entry and observer monitoring, be paid for, in accordance with such subsection, by the owner or operator of the vessel” for “duly authorized United States observers be permitted on board any such vessel and that the United States be reimbursed for the cost of such observers”.
 
 Subsec. (c)(4)(D). Pub. L. 97–453, § 2(a)(2), added subpar. (D).
 
@@ -1088,11 +1091,11 @@ Pub. L. 100–629, § 6, Nov. 7, 1988, 102 Stat. 3287, as amended by Pub. L. 104
 ## § 1822. International fishery agreements
 **(a) Negotiations** The Secretary of State—
 
-(1) shall renegotiate treaties as provided for in subsection (b) of this section;
+(1) shall renegotiate treaties as provided for in subsection (b);
 
 (2) shall negotiate governing international fishery agreements described in [section 1821(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1821/c&num=0&edition=prelim);
 
-(3) may negotiate boundary agreements as provided for in subsection (d) of this section;
+(3) may negotiate boundary agreements as provided for in subsection (d);
 
 (4) shall, upon the request of and in cooperation with the Secretary, initiate and conduct negotiations for the purpose of entering into international fishery agreements—
 
@@ -1100,7 +1103,7 @@ Pub. L. 100–629, § 6, Nov. 7, 1988, 102 Stat. 3287, as amended by Pub. L. 104
 
   (B) which provide for the conservation and management of anadromous species and highly migratory species; and
 
-(5) may enter into such other negotiations, not prohibited by subsection (c) of this section, as may be necessary and appropriate to further the purposes, policy, and provisions of this chapter.
+(5) may enter into such other negotiations, not prohibited by subsection (c), as may be necessary and appropriate to further the purposes, policy, and provisions of this chapter.
 
 **(b) Treaty renegotiation** The Secretary of State, in cooperation with the Secretary, shall initiate, promptly after April 13, 1976, the renegotiation of any treaty which pertains to fishing within the exclusive economic zone (or within the area that will constitute such zone after February 28, 1977), or for anadromous species or Continental Shelf fishery resources beyond such zone or area, and which is in any manner inconsistent with the purposes, policy, or provisions of this chapter, in order to conform such treaty to such purposes, policy, and provisions. It is the sense of Congress that the United States shall withdraw from any such treaty, in accordance with its provisions, if such treaty is not so renegotiated within a reasonable period of time after April 13, 1976.
 
@@ -1224,7 +1227,7 @@ Pub. L. 100–220, title IV, Dec. 29, 1987, 101 Stat. 1477, as amended by Pub. L
 ## § 1823. Congressional oversight of international fishery agreements
 **(a) In general** No governing international fishery agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement shall become effective with respect to the United States before the close of the first 120 days (excluding any days in a period for which the Congress is adjourned sine die) after the date on which the President transmits to the House of Representatives and to the Senate a document setting forth the text of such governing international fishery agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement. A copy of the document shall be delivered to each House of Congress on the same day and shall be delivered to the Clerk of the House of Representatives, if the House is not in session, and to the Secretary of the Senate, if the Senate is not in session.
 
-**(b) Referral to committees** Any document described in subsection (a) of this section shall be immediately referred in the House of Representatives to the Committee on Merchant Marine and Fisheries, and in the Senate to the Committees on Commerce, Science, and Transportation and on Foreign Relations.
+**(b) Referral to committees** Any document described in subsection (a) shall be immediately referred in the House of Representatives to the Committee on Merchant Marine and Fisheries, and in the Senate to the Committees on Commerce, Science, and Transportation and on Foreign Relations.
 
 **(c) Congressional procedures**
 
@@ -1236,9 +1239,9 @@ Pub. L. 100–220, title IV, Dec. 29, 1987, 101 Stat. 1477, as amended by Pub. L
 
 (2) **“Fishery agreement resolution” defined** — For purposes of this subsection, the term “fishery agreement resolution” refers to a joint resolution of either House of Congress—
 
-  (A) the effect of which is to prohibit the entering into force and effect of any governing international fishery agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement the text of which is transmitted to the Congress pursuant to subsection (a) of this section; and
+  (A) the effect of which is to prohibit the entering into force and effect of any governing international fishery agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement the text of which is transmitted to the Congress pursuant to subsection (a); and
 
-  (B) which is reported from the Committee on Merchant Marine and Fisheries of the House of Representatives or the Committee on Commerce, Science, and Transportation or the Committee on Foreign Relations of the Senate, not later than 45 days after the date on which the document described in subsection (a) of this section relating to that agreement is transmitted to the Congress.
+  (B) which is reported from the Committee on Merchant Marine and Fisheries of the House of Representatives or the Committee on Commerce, Science, and Transportation or the Committee on Foreign Relations of the Senate, not later than 45 days after the date on which the document described in subsection (a) relating to that agreement is transmitted to the Congress.
 
 (3) **Placement on calendar** — Any fishery agreement resolution upon being reported shall immediately be placed on the appropriate calendar.
 
@@ -1301,7 +1304,13 @@ Pub. L. 102–587, title I, § 1001, Nov. 4, 1992, 106 Stat. 5039, provided that
 Pub. L. 102–582, title III, Nov. 2, 1992, 106 Stat. 4906, as amended by Pub. L. 104–43, title V, § 502, Nov. 3, 1995, 109 Stat. 391; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that this title was to be cited as the “Central Bering Sea Fisheries Enforcement Act of 1992”, prohibited vessels and nationals of United States from conducting fishing operations in Central Bering Sea and Central Sea of Okhotsk, except where such fishing operations were conducted in accordance with international fishery agreement to which United States and Russian Federation were parties, further provided for civil penalties and permit sanctions for violations of these provisions as well as authority to deny port privileges for fishing in Central Bering Sea, further authorized Secretary of Commerce to issue regulations restricting fishing in United States exclusive economic zone, and further provided for definition of terms and that this title would cease to have force and effect after the date that is seven years after Nov. 2, 1992, except that any proceeding with respect to violations occurring prior to such date was to be conducted as if these provisions were still in effect.
 
 #### North Pacific and Bering Sea Fisheries Advisory Body
-Pub. L. 100–629, § 5, Nov. 7, 1988, 102 Stat. 3287, provided that: “(a) In General.—The Secretary of State shall establish an advisory body on the fisheries of the North Pacific and the Bering Sea, which shall advise the United States representative to the International Consultative Committee created in accordance with Article XIV of the governing international fishery agreement entered into between the United States and the Union of Soviet Socialist Republics, as contained in the message to Congress from the President of the United States dated June 22, 1988. “(b) Membership.—“(1) In General.—The advisory body established pursuant to this section shall consist of 12 members, as follows:“(A) The Director of the Department of Fisheries of the State of Washington. “(B) The Commission of the Department of Fish and Game of the State of Alaska. “(C) Five members appointed by the Secretary of State from among persons nominated by the Governor of Alaska on the basis of their knowledge and experience in commercial harvesting, processing, or marketing of fishery resources. “(D) Five members appointed by the Secretary of State from among persons nominated by the Governor of Washington on the basis of their knowledge and experience in commercial harvesting, processing, or marketing of fishery resources. “(2) Nominations.—The Governor of Alaska and the Governor of Washington shall each nominate 10 persons for purposes of paragraph (1). “(c) Pay.—Members of the advisory body established pursuant to this section shall receive no pay by reason of their service as members of the advisory body. “(d) Exemption From Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.) shall not apply to an advisory body established pursuant to this section.”
+Pub. L. 100–629, § 5, Nov. 7, 1988, 102 Stat. 3287, as amended by Pub. L. 114–327, title I, § 121(a), Dec. 16, 2016, 130 Stat. 1984, provided that: “(a) In General.—The Secretary of State shall establish an advisory body on the fisheries of the North Pacific and the Bering Sea, which shall advise the United States representative to the International Consultative Committee created in accordance with Article XIV of the governing international fishery agreement entered into between the United States and the Union of Soviet Socialist Republics, as contained in the message to Congress from the President of the United States dated June 22, 1988. “(b) Membership.—“(1) In General.—The advisory body established pursuant to this section shall consist of 12 members, as follows:“(A) The Director of the Department of Fisheries of the State of Washington. “(B) The Commission of the Department of Fish and Game of the State of Alaska. “(C) Five members appointed by the Secretary of State from among persons nominated by the Governor of Alaska on the basis of their knowledge and experience in commercial harvesting, processing, or marketing of fishery resources. “(D) Five members appointed by the Secretary of State from among persons nominated by the Governor of Washington on the basis of their knowledge and experience in commercial harvesting, processing, or marketing of fishery resources. “(2) Nominations.—The Governor of Alaska and the Governor of Washington shall each nominate 10 persons for purposes of paragraph (1). “(c) Pay.—Members of the advisory body established pursuant to this section shall receive no pay by reason of their service as members of the advisory body. “(d) Exemption From Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.) shall not apply to an advisory body established pursuant to this section.”
+
+“(e) Travel Expenses.—
+
+“(1) In general.—The Secretary of State may pay the necessary travel expenses of the members of the advisory body established pursuant to this section in carrying out their service as such members in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5, United States Code.
+
+“(2) Reimbursement.—The Secretary of Commerce may reimburse the Secretary of State for amounts expended by the Secretary of State under this subsection.
 
 #### Governing International Fishery Agreement With Russian Federation
 Pub. L. 103–206, title VII, § 701, Dec. 20, 1993, 107 Stat. 2446, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “The Agreement between the Government of the United States of America and the Government of the Russian Federation on Mutual Fisheries Relations which was entered into on May 31, 1988, and which expired by its terms on October 28, 1993, may be brought into force again for the United States through an exchange of notes between the United States of America and the Russian Federation and may remain in force and effect on the part of the United States until May 1, 1994, and may be amended or extended by a subsequent agreement to which section 203 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1823](./chapter-038-fishery-conservation-and-management.md#section-1823)) applies.”
@@ -1386,7 +1395,7 @@ Pub. L. 95–6, § 5, as added Pub. L. 95–73, July 27, 1977, 91 Stat. 283; ame
 
 **(b) Applications and permits under governing international fishery agreements**
 
-(1) **Eligibility; duration** — Each foreign nation with which the United States has entered into a governing international fishery agreement shall submit an application to the Secretary of State each year for a permit for each of its fishing vessels that wishes to engage in fishing described in subsection (a) of this section. No permit issued under this section may be valid for longer than a year; and [section 558(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section558/c&num=0&edition=prelim) does not apply to the renewal of any such permit.
+(1) **Eligibility; duration** — Each foreign nation with which the United States has entered into a governing international fishery agreement shall submit an application to the Secretary of State each year for a permit for each of its fishing vessels that wishes to engage in fishing described in subsection (a). No permit issued under this section may be valid for longer than a year; and [section 558(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section558/c&num=0&edition=prelim) does not apply to the renewal of any such permit.
 
 (2) **Forms** — The Secretary, in consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, shall prescribe the forms for permit applications submitted under this subsection and for permits issued pursuant to any such application.
 
@@ -1429,7 +1438,7 @@ Pub. L. 95–6, § 5, as added Pub. L. 95–73, July 27, 1977, 91 Stat. 283; ame
 
     (iii) In deciding whether to approve any application under this subparagraph, the Secretary may take into account, with respect to the foreign nation concerned, such other matters as the Secretary deems appropriate.
 
-(7) **Establishment of conditions and restrictions** — The Secretary shall establish conditions and restrictions which shall be included in each permit issued pursuant to any application approved under paragraph (6) or subsection (d) of this section and which must be complied with by the owner or operator of the fishing vessel for which the permit is issued. Such conditions and restrictions shall include the following:
+(7) **Establishment of conditions and restrictions** — The Secretary shall establish conditions and restrictions which shall be included in each permit issued pursuant to any application approved under paragraph (6) or subsection (d) and which must be complied with by the owner or operator of the fishing vessel for which the permit is issued. Such conditions and restrictions shall include the following:
 
   (A) All of the requirements of any applicable fishery management plan, or preliminary fishery management plan, and any applicable Federal or State fishing regulations.
 
@@ -1437,7 +1446,7 @@ Pub. L. 95–6, § 5, as added Pub. L. 95–73, July 27, 1977, 91 Stat. 283; ame
 
   (C) The requirements described in section 1821(c)(1), (2), and (3) of this title.
 
-  (D) If the permit is issued other than pursuant to an application approved under paragraph (6)(B) or subsection (d) of this section, the restriction that the foreign fishing vessel may not receive at sea United States harvested fish from vessels of the United States.
+  (D) If the permit is issued other than pursuant to an application approved under paragraph (6)(B) or subsection (d), the restriction that the foreign fishing vessel may not receive at sea United States harvested fish from vessels of the United States.
 
   (E) If the permit is issued pursuant to an application approved under paragraph (6)(B), the maximum amount or tonnage of United States harvested fish which may be received at sea from vessels of the United States.
 
@@ -1461,7 +1470,7 @@ Pub. L. 95–6, § 5, as added Pub. L. 95–73, July 27, 1977, 91 Stat. 283; ame
 
 (11) **Issuance of permits** — If a foreign nation notifies the Secretary of State of its acceptance of the conditions and restrictions established by the Secretary under paragraph (7), the Secretary of State shall promptly transmit such notification to the Secretary. Upon payment of the applicable fees established pursuant to paragraph (10), the Secretary shall thereupon issue to such foreign nation, through the Secretary of State, permits for the appropriate fishing vessels of that nation. Each permit shall contain a statement of all conditions and restrictions established under paragraph (7) which apply to the fishing vessel for which the permit is issued.
 
-**(c) Registration permits** The Secretary of State, in cooperation with the Secretary, shall issue annually a registration permit for each fishing vessel of a foreign nation which is a party to an international fishery agreement under which foreign fishing is authorized by [section 1821(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1821/b&num=0&edition=prelim) and which wishes to engage in fishing described in subsection (a) of this section. Each such permit shall set forth the terms and conditions contained in the agreement that apply with respect to such fishing, and shall include the additional requirement that the owner or operator of the fishing vessel for which the permit is issued shall prominently display such permit in the wheelhouse of such vessel and show it, upon request, to any officer authorized to enforce the provisions of this chapter (as provided for in [section 1861 of this title](./chapter-038-fishery-conservation-and-management.md#section-1861)). The Secretary of State, after consultation with the Secretary and the Secretary of the department in which the Coast Guard is operating, shall prescribe the form and manner in which applications for registration permits may be made, and the forms of such permits. The Secretary of State may establish, require the payment of, and collect fees for registration permits; except that the level of such fees shall not exceed the administrative costs incurred by him in issuing such permits.
+**(c) Registration permits** The Secretary of State, in cooperation with the Secretary, shall issue annually a registration permit for each fishing vessel of a foreign nation which is a party to an international fishery agreement under which foreign fishing is authorized by [section 1821(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1821/b&num=0&edition=prelim) and which wishes to engage in fishing described in subsection (a). Each such permit shall set forth the terms and conditions contained in the agreement that apply with respect to such fishing, and shall include the additional requirement that the owner or operator of the fishing vessel for which the permit is issued shall prominently display such permit in the wheelhouse of such vessel and show it, upon request, to any officer authorized to enforce the provisions of this chapter (as provided for in [section 1861 of this title](./chapter-038-fishery-conservation-and-management.md#section-1861)). The Secretary of State, after consultation with the Secretary and the Secretary of the department in which the Coast Guard is operating, shall prescribe the form and manner in which applications for registration permits may be made, and the forms of such permits. The Secretary of State may establish, require the payment of, and collect fees for registration permits; except that the level of such fees shall not exceed the administrative costs incurred by him in issuing such permits.
 
 **(d) Transshipment permits**
 
@@ -1487,7 +1496,7 @@ Pub. L. 95–6, § 5, as added Pub. L. 95–73, July 27, 1977, 91 Stat. 283; ame
 
 (5) **Failure to approve application** — If the Secretary does not approve any portion of an application submitted under paragraph (1), the Secretary shall promptly inform the applicant and specify the reasons therefor.
 
-(6) **Conditions and restrictions** — The Secretary shall establish and include in each permit under this subsection conditions and restrictions, including those conditions and restrictions set forth in subsection (b)(7) of this section, which shall be complied with by the owner and operator of the vessel for which the permit is issued.
+(6) **Conditions and restrictions** — The Secretary shall establish and include in each permit under this subsection conditions and restrictions, including those conditions and restrictions set forth in subsection (b)(7), which shall be complied with by the owner and operator of the vessel for which the permit is issued.
 
 (7) **Fees** — The Secretary shall collect a fee for each permit issued under this subsection, in an amount adequate to recover the costs incurred by the United States in issuing the permit, except that the Secretary shall waive the fee for the permit if the foreign nation under which the vessel is registered does not collect a fee from a vessel of the United States engaged in similar activities in the waters of such foreign nation.
 
@@ -1515,7 +1524,7 @@ Pub. L. 95–6, § 5, as added Pub. L. 95–73, July 27, 1977, 91 Stat. 283; ame
 
 (3) **Permits for foreign fishing**
 
-  (A) Application for permits for foreign fishing authorized under a Pacific Insular Areas fishing agreement shall be made, considered and approved or disapproved in accordance with paragraphs (3), (4), (5), (6), (7)(A) and (B), (8), and (9) of subsection (b) of this section, and shall include any conditions and restrictions established by the Secretary in consultation with the Secretary of State, the Secretary of the department in which the Coast Guard is operating, the Governor of the applicable Pacific Insular Area, and the appropriate Council.
+  (A) Application for permits for foreign fishing authorized under a Pacific Insular Areas fishing agreement shall be made, considered and approved or disapproved in accordance with paragraphs (3), (4), (5), (6), (7)(A) and (B), (8), and (9) of subsection (b), and shall include any conditions and restrictions established by the Secretary in consultation with the Secretary of State, the Secretary of the department in which the Coast Guard is operating, the Governor of the applicable Pacific Insular Area, and the appropriate Council.
 
   (B) If a foreign nation notifies the Secretary of State of its acceptance of the requirements of this paragraph, paragraph (2)(F), and paragraph (5), including any conditions and restrictions established under subparagraph (A), the Secretary of State shall promptly transmit such notification to the Secretary. Upon receipt of any payment required under a Pacific Insular Area fishing agreement, the Secretary shall thereupon issue to such foreign nation, through the Secretary of State, permits for the appropriate fishing vessels of that nation. Each permit shall contain a statement of all of the requirements, conditions, and restrictions established under this subsection which apply to the fishing vessel for which the permit is issued.
 
@@ -1575,11 +1584,11 @@ Subsec. (e)(7). Pub. L. 109–479, § 6(1), inserted “and any funds or contrib
 
 Subsec. (e)(8). Pub. L. 109–479, § 6(2), inserted at end “In the case of violations by foreign vessels occurring within the exclusive economic zones off Midway Atoll, Johnston Atoll, Kingman Reef, Palmyra Atoll, Jarvis, Howland, Baker, and Wake Islands, amounts received by the Secretary attributable to fines and penalties imposed under this chapter, shall be deposited into the Western Pacific Sustainable Fisheries Fund established under paragraph (7) of this subsection.”
 
-1996—Subsec. (b)(7). Pub. L. 104–297, § 105(d)(1), inserted “or subsection (d) of this section” after “under paragraph (6)” in introductory provisions.
+1996—Subsec. (b)(7). Pub. L. 104–297, § 105(d)(1), inserted “or subsection (d)” after “under paragraph (6)” in introductory provisions.
 
 Subsec. (b)(7)(A). Pub. L. 104–297, § 105(d)(2), substituted “any applicable Federal or State fishing regulations” for “the regulations promulgated to implement any such plan”.
 
-Subsec. (b)(7)(D). Pub. L. 104–297, § 105(d)(3), inserted “or subsection (d) of this section” after “under paragraph (6)(B)”.
+Subsec. (b)(7)(D). Pub. L. 104–297, § 105(d)(3), inserted “or subsection (d)” after “under paragraph (6)(B)”.
 
 Subsecs. (d), (e). Pub. L. 104–297, § 105(d)(4), added subsecs. (d) and (e).
 
@@ -1670,7 +1679,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
   (C) as a consequence of a claim of jurisdiction which is not recognized by the United States;
 he shall certify such determination to the Secretary of the Treasury.
 
-**(b) Prohibitions** Upon receipt of any certification from the Secretary of State under subsection (a) of this section, the Secretary of the Treasury shall immediately take such action as may be necessary and appropriate to prohibit the importation into the United States—
+**(b) Prohibitions** Upon receipt of any certification from the Secretary of State under subsection (a), the Secretary of the Treasury shall immediately take such action as may be necessary and appropriate to prohibit the importation into the United States—
 
 (1) of all fish and fish products from the fishery involved, if any; and
 
@@ -1747,7 +1756,7 @@ Pub. L. 101–627, title I, § 105(b)(2), Nov. 28, 1990, 104 Stat. 4440, provide
 
 **(e) Report** Not later than January 1, 1991, and every year thereafter until the purposes of this section are met, the Secretary, after consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives a report—
 
-(1) describing the steps taken to carry out the provisions of this section, particularly subsection (c) of this section;
+(1) describing the steps taken to carry out the provisions of this section, particularly subsection (c);
 
 (2) evaluating the progress of those efforts, the impacts on living marine resources, including available observer data, and specifying plans for further action;
 
@@ -1755,7 +1764,7 @@ Pub. L. 101–627, title I, § 105(b)(2), Nov. 28, 1990, 104 Stat. 4440, provide
 
 (4) containing a list of the nations that conduct, or authorize their nationals to conduct, large-scale driftnet fishing beyond the exclusive economic zone of any nation in a manner that diminishes the effectiveness of or is inconsistent with any international agreement governing large-scale driftnet fishing to which the United States is a party or otherwise subscribes.
 
-**(f) Certification** If at any time the Secretary, in consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, identifies any nation that warrants inclusion in the list described under subsection (e)(4) of this section, the Secretary shall certify that fact to the President. Such certification shall be deemed to be a certification for the purposes of [section 1978(a) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1978/a&num=0&edition=prelim).
+**(f) Certification** If at any time the Secretary, in consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, identifies any nation that warrants inclusion in the list described under subsection (e)(4), the Secretary shall certify that fact to the President. Such certification shall be deemed to be a certification for the purposes of [section 1978(a) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1978/a&num=0&edition=prelim).
 
 **(g) Effect on sovereign rights** This section shall not serve or be construed to expand or diminish the sovereign rights of the United States, as stated by Presidential Proclamation Numbered 5030, dated March 10, 1983, and reflected in this chapter or other existing law.
 
@@ -1777,7 +1786,7 @@ This chapter, referred to in subsec. (g), was in the original “this Act”, me
 
 “(4) identifying, evaluating, and making any recommendations considered necessary to improve the effectiveness of the law, policy, and procedures governing enforcement of the exclusive management authority of the United States over anadromous species against fishing vessels engaged in fishing beyond the exclusive economic zone of any nation;”.
 
-Subsec. (f). Pub. L. 104–297, § 105(f)(2), substituted “subsection (e)(4) of this section” for “subsection (e)(6) of this section”.
+Subsec. (f). Pub. L. 104–297, § 105(f)(2), substituted “subsection (e)(4)” for “subsection (e)(6)”.
 
 1990—Pub. L. 101–627 amended section generally, substituting provisions relating to large-scale driftnet fishing for provisions relating to transitional provisions.
 
@@ -1796,11 +1805,11 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 (1) **Publication of list** — Not later than 30 days after November 2, 1992, and periodically thereafter, the Secretary of Commerce, in consultation with the Secretary of State, shall publish a list of nations whose nationals or vessels conduct large-scale driftnet fishing beyond the exclusive economic zone of any nation.
 
-(2) **Denial of port privileges** — The Secretary of the Treasury shall, in accordance with recognized principles of international law—
+(2) **Denial of port privileges** — The Secretary of the Treasury shall, in accordance with international law—
 
-  (A) withhold or revoke the clearance required by [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim) for any large-scale driftnet fishing vessel that is documented under the laws of the United States or of a nation included on a list published under paragraph (1); and
+  (A) withhold or revoke the clearance required by [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim) for any large-scale driftnet fishing vessel that is documented under the laws of the United States or of a nation included on a list published under paragraph (1) or, as appropriate, for fishing vessels of a nation that receives a negative certification under [section 1826j(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826j/d&num=0&edition=prelim) or [section 1826k(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826k/c&num=0&edition=prelim); and
 
-  (B) deny entry of that vessel to any place in the United States and to the navigable waters of the United States.
+  (B) deny entry of that vessel to any place in the United States and to the navigable waters of the United States, except for the purposes of inspecting such vessel, conducting an investigation, or taking other appropriate enforcement action.
 
 (3) **Notification of nation** — Before the publication of a list of nations under paragraph (1), the Secretary of State shall notify each nation included on that list regarding—
 
@@ -1814,23 +1823,23 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
   (A) *Initial identifications* — Not later than January 10, 1993, the Secretary of Commerce shall—
 
-    (i) identify each nation whose nationals or vessels are conducting large-scale driftnet fishing or illegal, unreported, or unregulated fishing beyond the exclusive economic zone of any nation; and
+    (i) identify each nation whose nationals or vessels are conducting large-scale driftnet fishing beyond the exclusive economic zone of any nation; and
 
     (ii) notify the President and that nation of the identification under clause (i).
 
-  (B) *Additional identifications* — At any time after January 10, 1993, whenever the Secretary of Commerce has reason to believe that the nationals or vessels of any nation are conducting large-scale driftnet fishing or illegal, unreported, or unregulated fishing beyond the exclusive economic zone of any nation, the Secretary of Commerce shall—
+  (B) *Additional identifications* — At any time after January 10, 1993, whenever the Secretary of Commerce has reason to believe that the nationals or vessels of any nation are conducting large-scale driftnet fishing beyond the exclusive economic zone of any nation, the Secretary of Commerce shall—
 
     (i) identify that nation; and
 
     (ii) notify the President and that nation of the identification under clause (i).
 
-(2) **Consultations** — Not later than 30 days after a nation is identified under paragraph (1)(B), the President shall enter into consultations with the government of that nation for the purpose of obtaining an agreement that will effect the immediate termination of large-scale driftnet fishing or illegal, unreported, or unregulated fishing by the nationals or vessels of that nation beyond the exclusive economic zone of any nation.
+(2) **Consultations** — Not later than 30 days after a nation is identified under paragraph (1)(B), the President shall enter into consultations with the government of that nation for the purpose of obtaining an agreement that will effect the immediate termination of large-scale driftnet fishing by the nationals or vessels of that nation beyond the exclusive economic zone of any nation.
 
 (3) **Prohibition on imports of fish and fish products and sport fishing equipment**
 
   (A) *Prohibition* — The President—
 
-    (i) upon receipt of notification of the identification of a nation under paragraph (1)(A); or
+    (i) upon receipt of notification of the identification of a nation under paragraph (1)(A) or a negative certification under [section 1826j(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826j/d&num=0&edition=prelim) or [section 1826k(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826k/c&num=0&edition=prelim); or
 
     (ii) if the consultations with the government of a nation under paragraph (2) are not satisfactorily concluded within ninety days, shall direct the Secretary of the Treasury to prohibit the importation into the United States of fish and fish products and sport fishing equipment (as that term is defined in [section 4162 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4162&num=0&edition=prelim)) from that nation.
 
@@ -1840,9 +1849,9 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 (4) **Additional economic sanctions**
 
-  (A) *Determination of effectiveness of sanctions* — Not later than six months after the date the Secretary of Commerce identifies a nation under paragraph (1), the Secretary shall determine whether—
+  (A) *Determination of effectiveness of sanctions* — Not later than six months after the date the Secretary of Commerce identifies a nation under paragraph (1) or issues a negative certification under [section 1826j(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826j/d&num=0&edition=prelim) or [section 1826k(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826k/c&num=0&edition=prelim), the Secretary shall determine whether—
 
-    (i) any prohibition established under paragraph (3) is insufficient to cause that nation to terminate large-scale driftnet fishing or illegal, unreported, or unregulated fishing conducted by its nationals and vessels beyond the exclusive economic zone of any nation; or
+    (i) any prohibition established under paragraph (3) is insufficient to cause that nation to terminate large-scale driftnet fishing conducted by its nationals and vessels beyond the exclusive economic zone of any nation, or to address the offending activities for which a nation received a negative certification under section 1826j(d) or 1826k(c) of this title; or
 
     (ii) that nation has retaliated against the United States as a result of that prohibition.
 
@@ -1861,6 +1870,22 @@ In subsec. (a)(2)(A), “[section 60105 of title 46](https://uscode.house.gov/vi
 Section was enacted as part of the High Seas Driftnet Fisheries Enforcement Act, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
 #### Amendments
+2015—Subsec. (a)(2). Pub. L. 114–81, § 102(a)(1), struck out “recognized principles of” after “in accordance with” in introductory provisions.
+
+Subsec. (a)(2)(A). Pub. L. 114–81, § 102(a)(2), inserted “or, as appropriate, for fishing vessels of a nation that receives a negative certification under [section 1826j(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826j/d&num=0&edition=prelim) or [section 1826k(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826k/c&num=0&edition=prelim)” after “paragraph (1)”.
+
+Subsec. (a)(2)(B). Pub. L. 114–81, § 102(a)(3), inserted before period at end “, except for the purposes of inspecting such vessel, conducting an investigation, or taking other appropriate enforcement action”.
+
+Subsec. (b)(1)(A)(i). Pub. L. 114–81, § 102(a)(4), struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
+
+Subsec. (b)(1)(B), (2). Pub. L. 114–81, § 102(a)(5), struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
+
+Subsec. (b)(3)(A)(i). Pub. L. 114–81, § 102(a)(6), inserted “or a negative certification under [section 1826j(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826j/d&num=0&edition=prelim) or [section 1826k(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826k/c&num=0&edition=prelim)” after “paragraph (1)(A)”.
+
+Subsec. (b)(4)(A). Pub. L. 114–81, § 102(a)(7), inserted “or issues a negative certification under [section 1826j(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826j/d&num=0&edition=prelim) or [section 1826k(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826k/c&num=0&edition=prelim)” after “paragraph (1)” in introductory provisions.
+
+Subsec. (b)(4)(A)(i). Pub. L. 114–81, § 102(a)(8), (9), struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing” and inserted “, or to address the offending activities for which a nation received a negative certification under section 1826j(d) or 1826k(c) of this title” after “beyond the exclusive economic zone of any nation”.
+
 2007—Subsec. (b)(1)(A)(i), (B), (2), (4)(A)(i). Pub. L. 109–479 inserted “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
 
 #### High Seas Driftnet Fisheries Enforcement; Congressional Statement of Findings and Policy
@@ -1870,7 +1895,7 @@ Pub. L. 102–582, § 2, Nov. 2, 1992, 106 Stat. 4900, as amended by Pub. L. 104
 <a id="section-1826b"></a>
 ## § 1826b. Duration of denial of port privileges and sanctions
 
-Any denial of port privileges or sanction under [section 1826a of this title](./chapter-038-fishery-conservation-and-management.md#section-1826a) with respect to a nation shall remain in effect until such time as the Secretary of Commerce certifies to the President and the Congress that such nation has terminated large-scale driftnet fishing or illegal, unreported, or unregulated fishing by its nationals and vessels beyond the exclusive economic zone of any nation.
+Any denial of port privileges or sanction under [section 1826a of this title](./chapter-038-fishery-conservation-and-management.md#section-1826a) with respect to a nation shall remain in effect until such time as the Secretary of Commerce certifies to the President and the Congress that such nation has terminated large-scale driftnet fishing by its nationals and vessels beyond the exclusive economic zone of any nation or effectively addressed the offending activities for which the nation received a negative certification under 1826j(d) 11 So in original. Probably should be preceded by “section”. or 1826k(c) of this title.
 
 ### Statutory Notes
 
@@ -1878,6 +1903,8 @@ Any denial of port privileges or sanction under [section 1826a of this title](./
 Section was enacted as part of the High Seas Driftnet Fisheries Enforcement Act, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
 #### Amendments
+2015—Pub. L. 114–81 struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing” and inserted “or effectively addressed the offending activities for which the nation received a negative certification under 1826j(d) or 1826j(c) of this title” before period at end.
+
 2007—Pub. L. 109–479 inserted “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
 
 
@@ -1947,13 +1974,118 @@ Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protect
 
 <a id="section-1826g"></a>
 ## § 1826g. Enforcement
+**(a) In general** The Secretary and the Secretary of the department in which the Coast Guard is operating shall enforce this Act, and the Acts to which this section applies, in accordance with this section. Each such Secretary may, by agreement, on a reimbursable basis or otherwise, utilize the personnel services, equipment (including aircraft and vessels), and facilities of any other Federal agency, and of any State agency, in the performance of such duties.
 
-The President shall utilize appropriate assets of the Department of Defense, the United States Coast Guard, and other Federal agencies to detect, monitor, and prevent violations of the United Nations moratorium on large-scale driftnet fishing on the high seas for all fisheries under the jurisdiction of the United States and, in the case of fisheries not under the jurisdiction of the United States, to the fullest extent permitted under international law.
+**(b) Acts to which section applies** This section applies to—
+
+(1) the Pacific Salmon Treaty Act of 1985 ([16 U.S.C. 3631](./chapter-56a-pacific-salmon-fishing.md#section-3631) et seq.);
+
+(2) the Dolphin Protection Consumer Information Act ([16 U.S.C. 1385](./chapter-031-marine-mammal-protection.md#section-1385));
+
+(3) the Tuna Conventions Act of 1950 ([16 U.S.C. 951](./chapter-016-tuna-conventions.md#section-951) et seq.);
+
+(4) the North Pacific Anadromous Stocks Act of 1992 ([16 U.S.C. 5001](./chapter-070-north-pacific-anadromous-stocks-convention.md#section-5001) et seq.);
+
+(5) the Atlantic Tunas Convention Act of 1975 ([16 U.S.C. 971](./chapter-16a-atlantic-tunas-convention.md#section-971) et seq.);
+
+(6) the Northwest Atlantic Fisheries Convention Act of 1995 ([16 U.S.C. 5601](./chapter-076-northwest-atlantic-fisheries-convention.md#section-5601) et seq.);
+
+(7) the Western and Central Pacific Fisheries Convention Implementation Act ([16 U.S.C. 6901](./chapter-088-western-and-central-pacific-fisheries-convention.md#section-6901) et seq.);
+
+(8) the Antigua Convention Implementing Act of 2015; and
+
+(9) the Ensuring Access to Pacific Fisheries Act.
+
+**(c) Administration and enforcement**
+
+(1) **In general** — The Secretary shall prevent any person from violating this Act, or any Act to which this section applies, in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though sections 308 through 311 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1858](./chapter-038-fishery-conservation-and-management.md#section-1858) through 1861) were incorporated into and made a part of and applicable to this Act and each such Act.
+
+(2) **International cooperation** — The Secretary may, subject to appropriations and in the course of carrying out the Secretary’s responsibilities under the Acts to which this section applies, engage in international cooperation to help other nations combat illegal, unreported, and unregulated fishing and achieve sustainable fisheries.
+
+**(d) Special rules**
+
+(1) **Additional enforcement authority** — In addition to the powers of officers authorized pursuant to subsection (c), any officer who is authorized by the Secretary, or the head of any Federal or State agency that has entered into an agreement with the Secretary under subsection (a), may enforce the provisions of any Act to which this section applies, with the same jurisdiction, powers, and duties as though section 311 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1861](./chapter-038-fishery-conservation-and-management.md#section-1861)) were incorporated into and made a part of each such Act.
+
+(2) **Disclosure of enforcement information**
+
+  (A) *In general* — The Secretary, subject to the data confidentiality provisions in section 402 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1881a](./chapter-038-fishery-conservation-and-management.md#section-1881a)), may disclose, as necessary and appropriate, information, including information collected under joint authority of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.) and the Atlantic Tunas Convention Act of 1975 ([16 U.S.C. 71](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section71&num=0&edition=prelim) et seq.) or the Western and Central Pacific Fisheries Convention Implementation Act ([16 U.S.C. 6901](./chapter-088-western-and-central-pacific-fisheries-convention.md#section-6901) et seq.) or other statutes implementing international fishery agreements, to any other Federal or State government agency, the Food and Agriculture Organization of the United Nations, the secretariat or equivalent of an international fishery management organization or arrangement made pursuant to an international fishery agreement, or a foreign government, if—
+
+    (i) such government, organization, or arrangement has policies and procedures to protect such information from unintended or unauthorized disclosure; and
+
+    (ii) such disclosure is necessary—
+
+      (I) to ensure compliance with any law or regulation enforced or administered by the Secretary;
+
+      (II) to administer or enforce any international fishery agreement to which the United States is a party;
+
+      (III) to administer or enforce a binding conservation measure adopted by any international organization or arrangement to which the United States is a party;
+
+      (IV) to assist in any investigative, judicial, or administrative enforcement proceeding in the United States; or
+
+      (V) to assist in any law enforcement action undertaken by a law enforcement agency of a foreign government, or in relation to a legal proceeding undertaken by a foreign government to the extent the enforcement action is consistent with rules and regulations of a regional fisheries management organization (as that term is defined by the United Nation’s 11 So in original. Food and Agriculture Organization Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing) of which the United States is a member, or the Secretary has determined that the enforcement action is consistent with the requirements under Federal law for enforcement actions with respect to illegal, unreported, and unregulated fishing.
+
+  (B) *Data confidentiality provisions not applicable* — The data confidentiality provisions of section 402 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1881a](./chapter-038-fishery-conservation-and-management.md#section-1881a)) shall not apply with respect to this Act with respect to—
+
+    (i) any obligation of the United States to share information under a regional fisheries management organization (as that term is defined by the United Nation’s 1 Food and Agriculture Organization Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing) of which the United States is a member; or
+
+    (ii) any information collected by the Secretary regarding foreign vessels.
+
+**(e) Prohibited acts** It is unlawful for any person—
+
+(1) to violate any provision of this Act or any regulation or permit issued pursuant to this Act;
+
+(2) to refuse to permit any officer authorized to enforce the provisions of this Act to board, search, or inspect a vessel, subject to such person’s control for the purposes of conducting any search, investigation, or inspection in connection with the enforcement of this Act, any regulation promulgated under this Act, or any Act to which this section applies;
+
+(3) to forcibly assault, resist, oppose, impede, intimidate, or interfere with any such authorized officer in the conduct of any search, investigation, or inspection described in paragraph (2);
+
+(4) to resist a lawful arrest for any act prohibited by this section or any Act to which this section applies;
+
+(5) to interfere with, delay, or prevent, by any means, the apprehension, arrest, or detection of another person, knowing that such person has committed any act prohibited by this section or any Act to which this section applies; or
+
+(6) to forcibly assault, resist, oppose, impede, intimidate, sexually harass, bribe, or interfere with—
+
+  (A) any observer on a vessel under this Act or any Act to which this section applies; or
+
+  (B) any data collector employed by the National Marine Fisheries Service or under contract to any person to carry out responsibilities under this Act or any Act to which this section applies.
+
+**(f) Civil penalty** Any person who commits any act that is unlawful under subsection (e) shall be liable to the United States for a civil penalty, and may be subject to a permit sanction, under section 308 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1858](./chapter-038-fishery-conservation-and-management.md#section-1858)).
+
+**(g) Criminal penalty** Any person who commits an act that is unlawful under subsection (e)(2), (e)(3), (e)(4), (e)(5), or (e)(6) is deemed to be guilty of an offense punishable under section 309(b) of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1859(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1859/b&num=0&edition=prelim)).
+
+**(h) Utilization of Federal agency assets** The President shall utilize appropriate assets of the Department of Defense, the United States Coast Guard, and other Federal agencies to detect, monitor, and prevent violations of the United Nations moratorium on large-scale driftnet fishing on the high seas for all fisheries under the jurisdiction of the United States and, in the case of fisheries not under the jurisdiction of the United States, to the fullest extent permitted under international law.
 
 ### Statutory Notes
 
+#### References in Text
+This Act, referred to in subsecs. (a), (c)(1), (d)(2)(B), and (e)(1), (2), and (6), probably means title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act, which is classified generally to sections 1826d to 1826k of this title. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+
+The Pacific Salmon Treaty Act of 1985, referred to in subsec. (b)(1), is Pub. L. 99–5, Mar. 15, 1985, 99 Stat. 7, which is classified generally to chapter 56A (§ 3631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3631 of this title](./chapter-56a-pacific-salmon-fishing.md#section-3631) and Tables.
+
+The Dolphin Protection Consumer Information Act, referred to in subsec. (b)(2), is Pub. L. 101–627, title IX, § 901, Nov. 28, 1990, 104 Stat. 4465, which is classified to [section 1385 of this title](./chapter-031-marine-mammal-protection.md#section-1385). For complete classification of this Act to the Code, see Tables.
+
+The Tuna Conventions Act of 1950, referred to in subsec. (b)(3), is act Sept. 7, 1950, ch. 907, 64 Stat. 777, which is classified generally to chapter 16 (§ 951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of this title](./chapter-016-tuna-conventions.md#section-951) and Tables.
+
+The North Pacific Anadromous Stocks Act of 1992, referred to in subsec. (b)(4), is Pub. L. 102–567, title VIII, Oct. 29, 1992, 106 Stat. 4309, which is classified generally to chapter 70 (§ 5001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5001 of this title](./chapter-070-north-pacific-anadromous-stocks-convention.md#section-5001) and Tables.
+
+The Atlantic Tunas Convention Act of 1975, referred to in subsecs. (b)(5) and (d)(2)(A), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 971 of this title](./chapter-16a-atlantic-tunas-convention.md#section-971) and Tables.
+
+The Northwest Atlantic Fisheries Convention Act of 1995, referred to in subsec. (b)(6), is Pub. L. 104–43, title II, Nov. 3, 1995, 109 Stat. 377, which is classified generally to chapter 76 (§ 5601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of this title](./chapter-076-northwest-atlantic-fisheries-convention.md#section-5601) and Tables.
+
+The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsecs. (b)(7) and (d)(2)(A), is Pub. L. 109–479, title V, Jan. 12, 2007, 120 Stat. 3635, which is classified generally to chapter 88 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title](./chapter-088-western-and-central-pacific-fisheries-convention.md#section-6901) and Tables.
+
+The Antigua Convention Implementing Act of 2015, referred to in subsec. (b)(8), is Pub. L. 114–81, title II, Nov. 5, 2015, 129 Stat. 660. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 951 of this title](./chapter-016-tuna-conventions.md#section-951) and Tables.
+
+The Ensuring Access to Pacific Fisheries Act, referred to in subsec. (b)(9), is Pub. L. 114–327, Dec. 16, 2016, 130 Stat. 1974. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of this title](./chapter-096-north-pacific-fisheries-convention.md#section-7701) and Tables.
+
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d)(2)(A), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+
 #### Codification
 Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
+
+#### Amendments
+2016—Subsec. (b)(9). Pub. L. 114–327 added par. (9).
+
+2015—Pub. L. 114–81 designated existing provisions as subsec. (h), inserted heading, and added subsecs. (a) to (g).
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -1962,11 +2094,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 <a id="section-1826h"></a>
 ## § 1826h. Biennial report on international compliance
 
-The Secretary, in consultation with the Secretary of State, shall provide to Congress, by not later than 2 years after January 12, 2007, and every 2 years thereafter, a report that includes—
+The Secretary, in consultation with the Secretary of State, shall provide to Congress, by not later than 2 years after January 12, 2007, and every 2 years thereafter, on June 1 of that year a report that includes—
 
 (1) the state of knowledge on the status of international living marine resources shared by the United States or subject to treaties or agreements to which the United States is a party, including a list of all such fish stocks classified as overfished, overexploited, depleted, endangered, or threatened with extinction by any international or other authority charged with management or conservation of living marine resources;
 
-(2) a list of nations whose vessels have been identified under section 1826j(a) or 1826k(a) of this title, including the specific offending activities and any subsequent actions taken pursuant to section 1826j or 1826k of this title;
+(2) a list of nations that have been identified under section 1826j(a) or 1826k(a) of this title, including the specific offending activities and any subsequent actions taken pursuant to section 1826j or 1826k of this title;
 
 (3) a description of efforts taken by nations on those lists to comply take appropriate corrective action consistent with sections 1826j and 1826k of this title, and an evaluation of the progress of those efforts, including steps taken by the United States to implement those sections and to improve international compliance;
 
@@ -1979,11 +2111,15 @@ The Secretary, in consultation with the Secretary of State, shall provide to Con
 #### Codification
 Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
+#### Amendments
+2016—Pub. L. 114–327, in introductory provisions, inserted “on June 1 of that year” after “every 2 years thereafter,”.
+
+2015—Par. (2). Pub. L. 114–81 substituted “that” for “whose vessels”.
+
 
 <a id="section-1826i"></a>
 ## § 1826i. Action to strengthen international fishery management organizations
-
-The Secretary, in consultation with the Secretary of State, and in cooperation with relevant fishery management councils and any relevant advisory committees, shall take actions to improve the effectiveness of international fishery management organizations in conserving and managing fish stocks under their jurisdiction. These actions shall include—
+**(a) In general** The Secretary, in consultation with the Secretary of State, and in cooperation with relevant fishery management councils and any relevant advisory committees, shall take actions to improve the effectiveness of international fishery management organizations, or arrangements made pursuant to an international fishery agreement, in conserving and managing fish stocks under their jurisdiction. These actions shall include—
 
 (1) urging international fishery management organizations to which the United States is a member—
 
@@ -2011,12 +2147,45 @@ The Secretary, in consultation with the Secretary of State, and in cooperation w
 
 (4) urging other nations at bilateral, regional, and international levels, including the Convention on International Trade in Endangered Species of Fauna and Flora and the World Trade Organization to take all steps necessary, consistent with international law, to adopt measures and policies that will prevent fish or other living marine resources harvested by vessels engaged in illegal, unreported, or unregulated fishing from being traded or imported into their nation or territories.
 
+**(b) Disclosure of information**
+
+(1) **In general** — The Secretary, subject to the data confidentiality provisions in section 402 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1881a](./chapter-038-fishery-conservation-and-management.md#section-1881a)) except as provided in paragraph (2), may disclose, as necessary and appropriate, information, including information collected under joint authority of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.) and the Atlantic Tunas Convention Act of 1975 ([16 U.S.C. 71](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section71&num=0&edition=prelim) et seq.), the Western and Central Pacific Fisheries Convention Implementation Act ([16 U.S.C. 6901](./chapter-088-western-and-central-pacific-fisheries-convention.md#section-6901) et seq.), any other statute implementing an international fishery agreement, to any other Federal or State government agency, the Food and Agriculture Organization of the United Nations, or the secretariat or equivalent of an international fishery management organization or arrangement made pursuant to an international fishery agreement, if such government, organization, or arrangement, respectively, has policies and procedures to protect such information from unintended or unauthorized disclosure.
+
+(2) **Exceptions** — The data confidentiality provisions in section 402 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1881a](./chapter-038-fishery-conservation-and-management.md#section-1881a)) shall not apply with respect to this Act—
+
+  (A) for obligations of the United States to share information under a regional fisheries management organization (as that term is defined by the United Nation’s 11 So in original. Food and Agriculture Organization Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing) of which the United States is a member; or
+
+  (B) to any information collected by the Secretary regarding foreign vessels.
+
+**(c) IUU vessel lists** The Secretary may—
+
+(1) develop, maintain, and make public a list of vessels and vessel owners engaged in illegal, unreported, or unregulated fishing or fishing-related activities in support of illegal, unreported, or unregulated fishing, including vessels or vessel owners identified by an international fishery management organization or arrangement made pursuant to an international fishery agreement, that—
+
+  (A) the United States is party to; or
+
+  (B) the United States is not party to, but whose procedures and criteria in developing and maintaining a list of such vessels and vessel owners are substantially similar to such procedures and criteria adopted pursuant to an international fishery agreement to which the United States is a party; and
+
+(2) take appropriate action against listed vessels and vessel owners, including action against fish, fish parts, or fish products from such vessels, in accordance with applicable United States law and consistent with applicable international law, including principles, rights, and obligations established in applicable international fishery management agreements and trade agreements.
+
+**(d) Regulations** The Secretary may promulgate regulations to implement this section.
+
 ### Statutory Notes
+
+#### References in Text
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+
+The Atlantic Tunas Convention Act of 1975, referred to in subsec. (b)(1), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 971 of this title](./chapter-16a-atlantic-tunas-convention.md#section-971) and Tables.
+
+The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsec. (b)(1), is Pub. L. 109–479, title V, Jan. 12, 2007, 120 Stat. 3635, which is classified generally to chapter 88 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title](./chapter-088-western-and-central-pacific-fisheries-convention.md#section-6901) and Tables.
+
+This Act, referred to in subsec. (b)(2), probably means title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act, which is classified generally to sections 1826d to 1826k of this title. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Codification
 Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
 #### Amendments
+2015—Pub. L. 114–81 designated existing provisions as subsec. (a), inserted heading and “, or arrangements made pursuant to an international fishery agreement,” after “organizations” in introductory provisions, and added subsecs. (b) to (d).
+
 2011—Par. (1)(F). Pub. L. 111–348, § 102(a)(1), added subpar. (F).
 
 Par. (2)(C). Pub. L. 111–348, § 102(a)(2), struck out “and” at end.
@@ -2028,13 +2197,23 @@ Par. (4). Pub. L. 111–348, § 102(a)(3), redesignated par. (3) as (4).
 
 <a id="section-1826j"></a>
 ## § 1826j. Illegal, unreported, or unregulated fishing
-**(a) Identification** The Secretary shall identify, and list in the report under [section 1826h of this title](./chapter-038-fishery-conservation-and-management.md#section-1826h), a nation if fishing vessels of that nation are engaged, or have been engaged at any point during the preceding 2 years, in illegal, unreported, or unregulated fishing—
+**(a) Identification**
 
-(1) the relevant international fishery management organization has failed to implement effective measures to end the illegal, unreported, or unregulated fishing activity by vessels of that nation or the nation is not a party to, or does not maintain cooperating status with, such organization; or
+(1) **Identification for actions of fishing vessels** — The Secretary shall, based on a cumulative compilation and analysis of data collected and provided by international fishery management organizations and other nations and organizations, identify, and list in the report under [section 1826h of this title](./chapter-038-fishery-conservation-and-management.md#section-1826h), a nation if any fishing vessel of that nation is engaged, or has been engaged at any point during the preceding 3 years, in illegal, unreported, or unregulated fishing—
 
-(2) where no international fishery management organization exists with a mandate to regulate the fishing activity in question.
+  (A) that undermines the effectiveness of measures required by an international fishery management organization, taking into account whether the relevant international fishery management organization has failed to implement effective measures to end the illegal, unreported, or unregulated fishing activity by that nation or the nation is not a party to, or does not maintain cooperating status with, such organization; or
 
-**(b) Notification** An identification under subsection (a) or [section 1826k(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826k/a&num=0&edition=prelim) is deemed to be an identification under [section 1826a(b)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826a/b/1/A&num=0&edition=prelim), and the Secretary shall notify the President and that nation of such identification.
+  (B) where no international fishery management organization exists with a mandate to regulate the fishing activity in question.
+
+(2) **Identification for actions of nation** — Taking into account the factors described under subsection (a)(1), the Secretary shall also identify, and list in such report, a nation—
+
+  (A) if it is violating, or has violated at any point during the preceding 3 years, conservation and management measures required under an international fishery management agreement to which the United States is a party and the violations undermine the effectiveness of such measures; or
+
+  (B) if it is failing, or has failed in the preceding 3-year period, to effectively address or regulate illegal, unreported, or unregulated fishing in areas described under paragraph (1)(B).
+
+(3) **Application to other entities** — Where the provisions of this Act are applicable to nations, they shall also be applicable, as appropriate, to other entities that have competency to enter into international fishery management agreements.
+
+**(b) Notification** The Secretary shall notify the President and that nation of such an identification.
 
 **(c) Consultation** No later than 60 days after submitting a report to Congress under [section 1826h of this title](./chapter-038-fishery-conservation-and-management.md#section-1826h), the Secretary, acting through the Secretary of State, shall—
 
@@ -2046,13 +2225,13 @@ Par. (4). Pub. L. 111–348, § 102(a)(3), redesignated par. (3) as (4).
 
 **(d) IUU certification procedure**
 
-(1) **Certification** — The Secretary shall establish a procedure, consistent with the provisions of subchapter II of chapter 5 of title 5, for determining if a nation identified under subsection (a) and listed in the report under [section 1826h of this title](./chapter-038-fishery-conservation-and-management.md#section-1826h) has taken appropriate corrective action with respect to the offending activities of its fishing vessels identified in the report under [section 1826h of this title](./chapter-038-fishery-conservation-and-management.md#section-1826h). The certification procedure shall provide for notice and an opportunity for comment by any such nation. The Secretary shall determine, on the basis of the procedure, and certify to the Congress no later than 90 days after the date on which the Secretary promulgates a final rule containing the procedure, and biennially thereafter in the report under [section 1826h of this title](./chapter-038-fishery-conservation-and-management.md#section-1826h)—
+(1) **Certification** — The Secretary shall establish a procedure, consistent with the provisions of subchapter II of chapter 5 of title 5, for determining if a nation identified under subsection (a) and listed in the report under [section 1826h of this title](./chapter-038-fishery-conservation-and-management.md#section-1826h) has taken appropriate corrective action with respect to the offending activities identified in the report under [section 1826h of this title](./chapter-038-fishery-conservation-and-management.md#section-1826h). The certification procedure shall provide for notice and an opportunity for comment by any such nation. The Secretary shall determine, on the basis of the procedure, and certify to the Congress no later than 90 days after the date on which the Secretary promulgates a final rule containing the procedure, and biennially thereafter in the report under [section 1826h of this title](./chapter-038-fishery-conservation-and-management.md#section-1826h)—
 
-  (A) whether the government of each nation identified under subsection (a) has provided documentary evidence that it has taken corrective action with respect to the offending activities of its fishing vessels identified in the report; or
+  (A) whether the government of each nation identified under subsection (a) has provided documentary evidence that it has taken corrective action with respect to the offending activities identified in the report; or
 
   (B) whether the relevant international fishery management organization has implemented measures that are effective in ending the illegal, unreported, or unregulated fishing activity by vessels of that nation.
 
-(2) **Alternative procedure** — The Secretary may establish a procedure for certification, on a shipment-by-shipment, shipper-by-shipper, or other basis of fish or fish products from a vessel of a harvesting nation not certified under paragraph (1) if the Secretary determines that—
+(2) **Alternative procedure** — The Secretary may establish a procedure to authorize, on a shipment-by-shipment, shipper-by-shipper, or other basis the importation of fish or fish products from a vessel of a nation issued a negative certification under paragraph (1) if the Secretary determines that—
 
   (A) the vessel has not engaged in illegal, unreported, or unregulated fishing under an international fishery management agreement to which the United States is a party; or
 
@@ -2062,7 +2241,7 @@ Par. (4). Pub. L. 111–348, § 102(a)(3), redesignated par. (3) as (4).
 
   (A) *In general* — The provisions of section 1826a(a) and section 1826a(b)(3) and (4) of this title—
 
-    (i) shall apply to any nation identified under subsection (a) that has not been certified by the Secretary under this subsection, or for which the Secretary has issued a negative certification under this subsection; but
+    (i) shall apply to any nation identified under subsection (a) for which the Secretary has issued a negative certification under this subsection; but
 
     (ii) shall not apply to any nation identified under subsection (a) for which the Secretary has issued a positive certification under this subsection.
 
@@ -2074,9 +2253,9 @@ Par. (4). Pub. L. 111–348, § 102(a)(3), redesignated par. (3) as (4).
 
 **(e) Illegal, unreported, or unregulated fishing defined**
 
-(1) **In general** — In sections 1826d to 1826k of this title the term “illegal, unreported, or unregulated fishing” has the meaning established under paragraph (2).
+(1) **In general** — In this Act the term “illegal, unreported, or unregulated fishing” has the meaning established under paragraph (2).
 
-(2) **Secretary to define term within legislative guidelines** — Within 3 months after January 12, 2007, the Secretary shall publish a definition of the term “illegal, unreported, or unregulated fishing” for purposes of sections 1826d to 1826k of this title.
+(2) **Secretary to define term within legislative guidelines** — Within 3 months after January 12, 2007, the Secretary shall publish a definition of the term “illegal, unreported, or unregulated fishing” for purposes of this Act.
 
 (3) **Guidelines** — The Secretary shall include in the definition, at a minimum—
 
@@ -2093,12 +2272,26 @@ Par. (4). Pub. L. 111–348, § 102(a)(3), redesignated par. (3) as (4).
 #### References in Text
 Section 1826a(a) and section 1826a(b)(3) and (4) of this title, referred to in subsec. (d)(3)(A), was in the original “section 101(a) and section 101(b)(3) and (4) of this Act ([16 U.S.C. 1826a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826a/a&num=0&edition=prelim), (b)(3), and (b)(4))” and was translated as meaning section 101(a) and section 101(b)(3) and (4) of the High Seas Driftnet Fisheries Enforcement Act, to reflect the probable intent of Congress.
 
-Sections 1826d to 1826k of this title, referred to in subsec. (e)(1), (2), was in the original “this Act” and was translated as reading “this title” meaning title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This Act, referred to in subsecs. (a)(3) and (e)(1), (2), probably means title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act, which is classified generally to sections 1826d to 1826k of this title. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Codification
 Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
 #### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–327 substituted “any fishing vessel of that nation is engaged, or has” for “fishing vessels of that nation are engaged, or have” in introductory provisions.
+
+2015—Subsec. (a). Pub. L. 114–81, § 101(g)(1), (2), designated existing provisions as par. (1), inserted heading, and, in introductory provisions, inserted “, based on a cumulative compilation and analysis of data collected and provided by international fishery management organizations and other nations and organizations,” after “shall” and substituted “3 years” for “2 years”; redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and, in subpar. (A), inserted “that undermines the effectiveness of measures required by an international fishery management organization, taking into account whether” before “the relevant” and struck out “vessels of” after “activity by”; and added pars. (2) and (3).
+
+Subsec. (b). Pub. L. 114–81, § 101(c), amended subsec. (b) generally. Prior to amendment, text read as follows: “An identification under subsection (a) or [section 1826k(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826k/a&num=0&edition=prelim) is deemed to be an identification under [section 1826a(b)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826a/b/1/A&num=0&edition=prelim), and the Secretary shall notify the President and that nation of such identification.”
+
+Subsec. (d)(1). Pub. L. 114–81, § 101(i)(2), struck out “of its fishing vessels” after “offending activities” in introductory provisions.
+
+Subsec. (d)(1)(A). Pub. L. 114–81, § 101(i)(3), struck out “of its fishing vessels” after “offending activities”.
+
+Subsec. (d)(2). Pub. L. 114–81, § 101(i)(4), in introductory provisions, substituted “to authorize” for “for certification”, inserted “the importation” after “or other basis”, struck out “harvesting” before “nation”, and substituted “issued a negative certification under paragraph (1)” for “not certified under paragraph (1)”.
+
+Subsec. (d)(3)(A)(i). Pub. L. 114–81, § 101(e), struck out “that has not been certified by the Secretary under this subsection, or” after “subsection (a)”.
+
 2011—Subsec. (e)(3)(A). Pub. L. 111–348 substituted “bycatch reduction requirements, and shark conservation measures;” for “and bycatch reduction requirements;”.
 
 
@@ -2108,7 +2301,7 @@ Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protect
 
 (1) a nation if—
 
-  (A) fishing vessels of that nation are engaged, or have been engaged during the preceding calendar year in fishing activities or practices; 11 So in original. The semicolon probably should be a dash.
+  (A) fishing vessels of that nation are engaged, or have been engaged during the preceding 3 years in fishing activities or practices—
 
     (i) in waters beyond any national jurisdiction that result in bycatch of a protected living marine resource; or
 
@@ -2120,13 +2313,13 @@ Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protect
 
 (2) a nation if—
 
-  (A) fishing vessels of that nation are engaged, or have been engaged during the preceding calendar year, in fishing activities or practices in waters beyond any national jurisdiction that target or incidentally catch sharks; and
+  (A) fishing vessels of that nation are engaged, or have been engaged during the preceding 3 years, in fishing activities or practices in waters beyond any national jurisdiction that target or incidentally catch sharks; and
 
   (B) the nation has not adopted a regulatory program to provide for the conservation of sharks, including measures to prohibit removal of any of the fins of a shark (including the tail) and discarding the carcass of the shark at sea, that is comparable to that of the United States, taking into account different conditions.
 
 **(b) Consultation and negotiation** The Secretary, acting through the Secretary of State, shall—
 
-(1) notify, as soon as possible, other nations whose vessels engage in fishing activities or practices described in subsection (a), about the provisions of sections 1826d to 1826k of this title;
+(1) notify, as soon as possible, the President and nations that have been identified under subsection (a), and also notify other nations whose vessels engage in fishing activities or practices described in subsection (a), about the provisions of this section and this Act;
 
 (2) initiate discussions as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, fishing activities or practices described in subsection (a), for the purpose of entering into bilateral and multilateral treaties with such countries to protect such species;
 
@@ -2146,13 +2339,13 @@ Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protect
 
 (3) **Certification** — The Secretary shall certify to the Congress by January 31, 2007, and biennially thereafter whether each such nation has provided the documentary evidence described in paragraph (1)(A) and established a management plan described in paragraph (1)(B).
 
-(4) **Alternative procedure** — The Secretary shall establish a procedure for certification, on a shipment-by-shipment, shipper-by-shipper, or other basis of fish or fish products from a vessel of a harvesting nation not certified under paragraph (3) if the Secretary determines that such imports were harvested by practices that do not result in bycatch of a protected marine species, or were harvested by practices that—
+(4) **Alternative procedure** — The Secretary may establish a procedure to authorize, on a shipment-by-shipment, shipper-by-shipper, or other basis the importation of fish or fish products from a vessel of a nation issued a negative certification under paragraph (1) if the Secretary determines that such imports were harvested by practices that do not result in bycatch of a protected marine species, or were harvested by practices that—
 
-  (A) are comparable to those of the United States, taking into account different conditions, and which, in the case of pelagic longline fishing, includes mandatory use of circle hooks, careful handling and release equipment, and training and observer programs; and
+  (A) are comparable to those of the United States, taking into account different conditions; and
 
   (B) include the gathering of species specific data that can be used to support international and regional stock assessments and conservation efforts for protected living marine resources.
 
-(5) **Effect of certification** — The provisions of section 1826a(a) and section 1826a(b)(3) and (4) of this title (except to the extent that such provisions apply to sport fishing equipment or fish or fish products not caught by the vessels engaged in illegal, unreported, or unregulated fishing) shall apply to any nation identified under subsection (a) that has not been certified by the Secretary under this subsection, or for which the Secretary has issued a negative certification under this subsection, but shall not apply to any nation identified under subsection (a) for which the Secretary has issued a positive certification under this subsection.
+(5) **Effect of certification** — The provisions of section 1826a(a) and section 1826a(b)(3) and (4) of this title (except to the extent that such provisions apply to sport fishing equipment or fish or fish products not caught by the vessels engaged in illegal, unreported, or unregulated fishing) shall apply to any nation identified under subsection (a) for which the Secretary has issued a negative certification under this subsection, but shall not apply to any nation identified under subsection (a) for which the Secretary has issued a positive certification under this subsection.
 
 **(d) International cooperation and assistance** To the greatest extent possible consistent with existing authority and the availability of funds, the Secretary shall—
 
@@ -2175,7 +2368,7 @@ Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protect
 ### Statutory Notes
 
 #### References in Text
-Sections 1826d to 1826k of this title, referred to in subsec. (b)(1), was in the original “this section and this Act” and was translated as reading “this section and this title” meaning title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This Act, referred to in subsec. (b)(1), probably means title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act, which is classified generally to sections 1826d to 1826k of this title. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 Section 1826a(a) and section 1826a(b)(3) and (4) of this title, referred to in subsec. (c)(5), was in the original “section 101(a) and section 101(b)(3) and (4) of this Act ([16 U.S.C. 1826a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826a/a&num=0&edition=prelim), (b)(3), and (b)(4))” and was translated as meaning section 101(a) and section 101(b)(3) and (4) of the High Seas Driftnet Fisheries Enforcement Act, to reflect the probable intent of Congress.
 
@@ -2193,6 +2386,16 @@ The Atlantic Tunas Convention Act, referred to in subsec. (e)(2), probably means
 Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
 #### Amendments
+2016—Subsec. (a)(2)(A). Pub. L. 114–327 substituted “3 years” for “calendar year”.
+
+2015—Subsec. (a)(1)(A). Pub. L. 114–81, § 101(g)(3), (i)(5)(A), substituted “3 years” for “calendar year” and “practices—” for “practices;” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 114–81, § 101(d), amended par. (1) generally. Prior to amendment, text read as follows: “notify, as soon as possible, other nations whose vessels engage in fishing activities or practices described in subsection (a), about the provisions of sections 1826d to 1826k of this title;”.
+
+Subsec. (c)(4). Pub. L. 114–81, § 101(i)(5)(B), added introductory provisions and subpar. (A) and struck out former introductory provisions and subpar. (A) which related to alternative procedure for certification of fish or fish products from a vessel of a harvesting nation not certified under paragraph (3).
+
+Subsec. (c)(5). Pub. L. 114–81, § 101(f), struck out “that has not been certified by the Secretary under this subsection, or” after “subsection (a)”.
+
 2011—Subsec. (a). Pub. L. 111–348, § 102(c)(1)(A), struck out “, a nation if” after “[section 1826h of this title](./chapter-038-fishery-conservation-and-management.md#section-1826h)” in introductory provisions.
 
 Pub. L. 111–348, § 102(c)(1)(B)–(G), redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, realigned margins, inserted “(1) a nation if—” before subpar. (A), as so redesignated, redesignated former subpars. (A) and (B) of par. (1) as cls. (i) and (ii) of subpar. (A), respectively, realigned margins, and added par. (2).
@@ -2222,19 +2425,19 @@ Pub. L. 111–348, title I, § 102(c)(2), Jan. 4, 2011, 124 Stat. 3669, provided
 (2) is taking or attempting to take any species of fish if such taking or attempting to take may result in the incidental taking of billfish.
 The Secretary may acquire observers for such program through contract with qualified private persons.
 
-**(c) Functions of observers** United States observers, while aboard foreign fishing vessels as required under subsection (b) of this section, shall carry out such scientific and other functions as the Secretary deems necessary or appropriate to carry out this section.
+**(c) Functions of observers** United States observers, while aboard foreign fishing vessels as required under subsection (b), shall carry out such scientific and other functions as the Secretary deems necessary or appropriate to carry out this section.
 
-**(d) Fees** There is imposed for each year after 1980 on the owner or operator of each foreign fishing vessel that, in the judgment of the Secretary, will engage in fishing in waters described in subsection (b)(1) of this section during that year which may result in the incidental taking of billfish a fee in an amount sufficient to cover all of the costs of providing an observer aboard that vessel under the program established under subsection (a) of this section. The fees imposed under this subsection for any year shall be paid to the Secretary before that year begins. All fees collected by the Secretary under this subsection shall be deposited in the Fund established by subsection (e) of this section.
+**(d) Fees** There is imposed for each year after 1980 on the owner or operator of each foreign fishing vessel that, in the judgment of the Secretary, will engage in fishing in waters described in subsection (b)(1) during that year which may result in the incidental taking of billfish a fee in an amount sufficient to cover all of the costs of providing an observer aboard that vessel under the program established under subsection (a). The fees imposed under this subsection for any year shall be paid to the Secretary before that year begins. All fees collected by the Secretary under this subsection shall be deposited in the Fund established by subsection (e).
 
-**(e) Fund** There is established in the Treasury of the United States the Foreign Fishing Observer Fund. The Fund shall be available to the Secretary as a revolving fund for the purpose of carrying out this section. The Fund shall consist of the fees deposited into it as required under subsection (d) of this section. All payments made by the Secretary to carry out this section shall be paid from the Fund, only to the extent and in the amounts provided for in advance in appropriation Acts. Sums in the Fund which are not currently needed for the purposes of this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
+**(e) Fund** There is established in the Treasury of the United States the Foreign Fishing Observer Fund. The Fund shall be available to the Secretary as a revolving fund for the purpose of carrying out this section. The Fund shall consist of the fees deposited into it as required under subsection (d). All payments made by the Secretary to carry out this section shall be paid from the Fund, only to the extent and in the amounts provided for in advance in appropriation Acts. Sums in the Fund which are not currently needed for the purposes of this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
 **(f) Prohibited acts**
 
 (1) It is unlawful for any person who is the owner or operator of a foreign fishing vessel to which this section applies—
 
-  (A) to violate any regulation issued under subsection (g) of this section;
+  (A) to violate any regulation issued under subsection (g);
 
-  (B) to refuse to pay the fee imposed under subsection (d) of this section after being requested to do so by the Secretary; or
+  (B) to refuse to pay the fee imposed under subsection (d) after being requested to do so by the Secretary; or
 
   (C) to refuse to permit an individual who is authorized to act as an observer under this section with respect to that vessel to board the vessel for purposes of carrying out observer functions.
 
@@ -2400,7 +2603,7 @@ Pub. L. 105–146, § 1, Dec. 16, 1997, 111 Stat. 2672, provided that: “This A
 Pub. L. 111–335, Dec. 22, 2010, 124 Stat. 3583, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Longline Catcher Processor Subsector Single Fishery Cooperative Act’. “SEC. 2. AUTHORITY TO APPROVE AND IMPLEMENT A SINGLE FISHERY COOPERATIVE FOR THE LONGLINE CATCHER PROCESSOR SUBSECTOR IN THE BSAI.“(a) In General.—Upon the request of eligible members of the longline catcher processor subsector holding at least 80 percent of the licenses issued for that subsector, the Secretary is authorized to approve a single fishery cooperative for the longline catcher processor subsector in the BSAI. “(b) Limitation.—A single fishery cooperative approved under this section shall include a limitation prohibiting any eligible member from harvesting a total of more than 20 percent of the Pacific cod available to be harvested in the longline catcher processor subsector, the violation of which is subject to the penalties, sanctions, and forfeitures under section 308 of the Magnuson-Stevens Act ([16 U.S.C. 1858](./chapter-038-fishery-conservation-and-management.md#section-1858)), except that such limitation shall not apply to harvest amounts from quota assigned explicitly to a CDQ group as part of a CDQ allocation to an entity established by section 305(i) of the Magnuson-Stevens Act ([16 U.S.C. 1855(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1855/i&num=0&edition=prelim)). “(c) Contract Submission and Review.—The longline catcher processor subsector shall submit to the Secretary—“(1) not later than November 1 of each year, a contract to implement a single fishery cooperative approved under this section for the following calendar year; and “(2) not later than 60 days prior to the commencement of fishing under the single fishery cooperative, any interim modifications to the contract submitted under paragraph (1). “(d) Department of Justice Review.—Not later than November 1 before the first year of fishing under a single fishery cooperative approved under this section, the longline catcher processor sector shall submit to the Secretary a copy of a letter from a party to the contract under subsection (c)(1) requesting a business review letter from the Attorney General and any response to such request. “(e) Implementation.—The Secretary shall implement a single fishery cooperative approved under this section not later than 2 years after receiving a request under subsection (a). “(f) Status Quo Fishery.—If the longline catcher processor subsector does not submit a contract to the Secretary under subsection (c) then the longline catcher processor subsector in the BSAI shall operate as a limited access fishery for the following year subject to the license limitation program in effect for the longline catcher processor subsector on the date of enactment of this Act [Dec. 22, 2010] or any subsequent modifications to the license limitation program recommended by the Council and approved by the Secretary. “SEC. 3. HARVEST AND PROHIBITED SPECIES ALLOCATIONS TO A SINGLE FISHERY COOPERATIVE FOR THE LONGLINE CATCHER PROCESSOR SUBSECTOR IN THE BSAI.“A single fishery cooperative approved under section 2 may, on an annual basis, collectively—“(1) harvest the total amount of BSAI Pacific cod total allowable catch, less any amount allocated to the longline catcher processor subsector non-cooperative limited access fishery; “(2) utilize the total amount of BSAI Pacific cod prohibited species catch allocation, less any amount allocated to a longline catcher processor subsector non-cooperative limited access fishery; and “(3) harvest any reallocation of Pacific cod to the longline catcher processor subsector during a fishing year by the Secretary. “SEC. 4. LONGLINE CATCHER PROCESSOR SUBSECTOR NON-COOPERATIVE LIMITED ACCESS FISHERY.“(a) In General.—An eligible member that elects not to participate in a single fishery cooperative approved under section 2 shall operate in a non-cooperative limited access fishery subject to the license limitation program in effect for the longline catcher processor subsector on the date of enactment of this Act [Dec. 22, 2010] or any subsequent modifications to the license limitation program recommended by the Council and approved by the Secretary. “(b) Harvest and Prohibited Species Allocations.—Eligible members operating in a non-cooperative limited access fishery under this section may collectively—“(1) harvest the percentage of BSAI Pacific cod total allowable catch equal to the combined average percentage of the BSAI Pacific cod harvest allocated to the longline catcher processor sector and retained by the vessel or vessels designated on the eligible members license limitation program license or licenses for 2006, 2007, and 2008, according to the catch accounting system data used to establish total catch; and “(2) utilize the percentage of BSAI Pacific cod prohibited species catch allocation equal to the percentage calculated under paragraph (1). “SEC. 5. AUTHORITY OF THE NORTH PACIFIC FISHERY MANAGEMENT COUNCIL.“(a) In General.—Nothing in this Act shall supersede the authority of the Council to recommend for approval by the Secretary such conservation and management measures, in accordance with the Magnuson-Stevens Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.) as it considers necessary to ensure that this Act does not diminish the effectiveness of fishery management in the BSAI or the Gulf of Alaska Pacific cod fishery. “(b) Limitations.—“(1) Notwithstanding the authority provided to the Council under this section, the Council is prohibited from altering or otherwise modifying—“(A) the methodology established under section 3 for allocating the BSAI Pacific cod total allowable catch and BSAI Pacific cod prohibited species catch allocation to a single fishery cooperative approved under this Act; or “(B) the methodology established under section 4 of this Act for allocating the BSAI Pacific cod total allowable catch and BSAI Pacific cod prohibited species catch allocation to the non-cooperative limited access fishery. “(2) No sooner than 7 years after approval of a single fisheries cooperative under section 2 of this Act, the Council may modify the harvest limitation established under section 2(b) if such modification does not negatively impact any eligible member of the longline catcher processor subsector. “(c) Protections for the Gulf of Alaska Pacific Cod Fishery.—The Council may recommend for approval by the Secretary such harvest limitations of Pacific cod by the longline catcher processor subsector in the Western Gulf of Alaska and the Central Gulf of Alaska as may be necessary to protect coastal communities and other Gulf of Alaska participants from potential competitive advantages provided to the longline catcher processor subsector by this Act. “SEC. 6. RELATIONSHIP TO THE MAGNUSON-STEVENS ACT.“(a) In General.—Consistent with section 301(a) of the Magnuson-Stevens Act ([16 U.S.C. 1851(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1851/a&num=0&edition=prelim)), a single fishery cooperative approved under section 2 of this Act is intended to enhance conservation and sustainable fishery management, reduce and minimize bycatch, promote social and economic benefits, and improve the vessel safety of the longline catcher processor subsector in the BSAI. “(b) Transition Rule.—A single fishery cooperative approved under section 2 of this Act is deemed to meet the requirements of section 303A(i) of the Magnuson-Stevens Act ([16 U.S.C. 1853a(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1853a/i&num=0&edition=prelim)) as if it had been approved by the Secretary within 6 months after the date of enactment of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 [Pub. L. 109–479, approved Jan. 12, 2007], unless the Secretary makes a determination, within 30 days after the date of enactment of this Act [Dec. 22, 2010], that application of section 303A(i) of the Magnuson-Stevens Act to the cooperative approved under section 2 of this Act would be inconsistent with the purposes for which section 303A was added to the Magnuson-Stevens Act. “(c) Cost Recovery.—Consistent with section 304(d)(2) of the Magnuson-Stevens Act ([16 U.S.C. 1854(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1854/d/2&num=0&edition=prelim)), the Secretary is authorized to recover reasonable costs to administer a single fishery cooperative approved under section 2 of this Act. “SEC. 7. COMMUNITY DEVELOPMENT QUOTA PROGRAM.“Nothing in this Act shall affect the western Alaska community development program established by section 305(i) of the Magnuson-Stevens Act ([16 U.S.C. 1855(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1855/i&num=0&edition=prelim)), including the allocation of fishery resources in the directed Pacific cod fishery. “SEC. 8. DEFINITIONS.“In this Act:“(1) BSAI.—The term ‘BSAI’ has the meaning given that term in section 219(a)(2) of the Department of Commerce and Related Agencies Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2886). “(2) BSAI pacific cod total allowable catch.—The term ‘BSAI Pacific cod total allowable catch’ means the Pacific cod total allowable catch for the directed longline catcher processor subsector in the BSAI as established on an annual basis by the Council and approved by the Secretary. “(3) BSAI pacific cod prohibited species catch allocation.—The term ‘BSAI Pacific cod prohibited species catch allocation’ means the prohibited species catch allocation for the directed longline catcher processor subsector in the BSAI as established on an annual basis by the Council and approved by the Secretary. “(4) Council.—The term ‘Council’ means the North Pacific Fishery Management Council established under section 302(a)(1)(G) of the Magnuson-Stevens Act ([16 U.S.C. 1852(a)(1)(G)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1852/a/1/G&num=0&edition=prelim)). “(5) Eligible member.—The term ‘eligible member’ means a holder of a license limitation program license, or licenses, eligible to participate in the longline catcher processor subsector. “(6) Gulf of alaska.—The term ‘Gulf of Alaska’ means that portion of the Exclusive Economic Zone contained in Statistical Areas 610, 620, and 630. “(7) Longline catcher processor subsector.—The term ‘longline catcher processor subsector’ has the meaning given that term in section 219(a)(6) of the Department of Commerce and Related Agencies Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2886 [2887]). “(8) Magnuson-stevens act.—The term ‘Magnuson-Stevens Act’ means the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.). “(9) Secretary.—The term ‘Secretary’ means the Secretary of Commerce.”
 
 #### Gulf of Alaska Rockfish Demonstration Program
-Pub. L. 108–199, div. B, title VIII, § 802, Jan. 23, 2004, 118 Stat. 110, as amended by Pub. L. 109–479, title II, § 218, Jan. 12, 2007, 120 Stat. 3621, provided that: “The Secretary of Commerce, in consultation with the North Pacific Fishery Management Council, shall establish a pilot program that recognizes the historic participation of fishing vessels (1996 to 2002, best 5 of 7 years) and historic participation of fish processors (1996 to 2000, best 4 of 5 years) for pacific ocean perch, northern rockfish, and pelagic shelf rockfish harvested in Central Gulf of Alaska. Such a pilot program shall: (1) provide for a set-aside of up to 5 percent for the total allowable catch of such fisheries for catcher vessels not eligible to participate in the pilot program, which shall be delivered to shore-based fish processors not eligible to participate in the pilot program; and (2) establish catch limits for non-rockfish species and non-target rockfish species currently harvested with pacific ocean perch, northern rockfish, and pelagic shelf rockfish, which shall be based on historical harvesting of such bycatch species. The pilot program will sunset when a Gulf of Alaska Groundfish comprehensive rationalization plan is authorized by the Council and implemented by the Secretary, or 5 years from date of implementation, whichever is earlier.”
+Pub. L. 108–199, div. B, title VIII, § 802, Jan. 23, 2004, 118 Stat. 110, as amended by Pub. L. 109–479, title II, § 218, Jan. 12, 2007, 120 Stat. 3621, which directed the Secretary of Commerce to establish a pilot program for management of pacific ocean perch, northern rockfish, and pelagic shelf rockfish harvested in the Central Gulf of Alaska, expired Dec. 31, 2011. See 76 F.R. 81248.
 
 #### Implementation of Steller Sea Lion Protective Measures
 Pub. L. 106–554, § 1(a)(4) [div. A, § 209], Dec. 21, 2000, 114 Stat. 2763, 2763A–176, provided that: “(a) Findings.—The Congress finds that—“(1) the western population of Steller sea lions has substantially declined over the last 25 years. “(2) scientists should closely research and analyze all possible factors relating to such decline, including the possible interactions between commercial fishing and Steller sea lions and the localized depletion hypothesis; “(3) the authority to manage commercial fisheries in Federal waters lies with the regional councils and the Secretary of Commerce (hereafter in this section ‘Secretary’) pursuant to the Magnuson-Stevens Fishery Conservation and Management Act [[16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.] (hereafter in this section ‘Magnuson-Stevens Act’); and “(4) the Secretary of Commerce shall comply with the Magnuson-Stevens Act when using fishery management plans and regulations to implement the decisions made pursuant to findings under the Endangered Species Act [of 1973, [16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.], and shall utilize the processes and procedures of the regional fishery management councils as required by the Magnuson-Stevens Act. “(b) Independent Scientific Review.—The North Pacific Fishery Management Council (hereafter in this section ‘North Pacific Council[’]) shall utilize the expertise of the National Academy of Sciences to conduct an independent scientific review of the November 30, 2000 Biological Opinion for the Bering Sea/Aleutian Islands and Gulf of Alaska groundfish fisheries (hereafter in this section ‘Biological Opinion’), its underlying hypothesis, and the Reasonable and Prudent Alternatives (hereafter in this section ‘Alternatives’) contained therein. The Secretary shall cooperate with the independent scientific review, and the National Academy of Sciences is requested to give its highest priority to this review. “(c) Preparation of Fishery Management Plans and Regulations To Implement Protective Measures in the November 30, 2000 Biological Opinion.—“(1) The Secretary of Commerce shall submit to the North Pacific Council proposed conservation and management measures to implement the Alternatives contained in the November 30, 2000 Biological Opinion for the Bering Sea/Aleutian Islands and Gulf of Alaska groundfish fisheries. The North Pacific Council shall prepare and transmit to the Secretary a fishery management plan amendment or amendments to implement such Alternatives that are consistent with the Magnuson-Stevens Act (including requirements in such Act relating to best available science, bycatch reduction, impacting on fishing communities, the safety of life at sea, and public comment and hearings.) “(2) The Bering Sea/Aleutian Islands and Gulf of Alaska groundfish fisheries shall be managed in a manner consistent with the Alternatives contained in the Biological Opinion, except as otherwise provided in this section. The Alternatives shall become fully effective no later than January 1, 2002, as revised if necessary and appropriate based on the independent scientific review referred to in subsection (b) and other new information, and shall be phased in in 2001 as described in paragraph (3). “(3) The 2001 Bering Sea/Aleutian Islands and Gulf of Alaska groundfish fisheries shall be managed in accordance with the fishery management plan and Federal regulations in effect for such fisheries prior to July 15, 2000, including—“(A) conservative total allowable catch levels; “(B) no entry zones within three miles of rookeries; “(C) restricted harvest levels near rookeries and haul-outs; “(D) federally-trained observers; “(E) spatial and temporal harvest restrictions; “(F) federally-mandated bycatch reduction programs; and “(G) additional conservation benefits provided through cooperative fishing arrangements, and said regulations are hereby restored to full force and effect. “(4) The Secretary shall amend these regulations by January 20, 2001, after consultation with the North Pacific Council and in a manner consistent with all law, including the Magnuson-Stevens Act, and consistent with the Alternatives to the maximum extent practicable, subject to the other provisions of this subsection. “(5) The harvest reduction requirement (‘Global Control Rule’) shall take effect immediately in any 2001 groundfish fishery in which it applies, but shall not cause a reduction in the total allowable catch of any fishery of more than 10 percent. “(6) In enforcing regulations for the 2001 fisheries, the Secretary, upon recommendation of the North Pacific Council, may open critical habitat where needed, adjust seasonal catch levels, and take other measures as needed to ensure that harvest levels are sufficient to provide income from these fisheries for small boats and Alaskan on-shore processors that is no less than in 1999. “(7) The regulations that are promulgated pursuant to paragraph (4) shall not be modified in any way other than upon recommendation of the North Pacific Council, before March 15, 2001. “(d) Sea Lion Protection Measures.—$20,000,000 is hereby appropriated to the Secretary of Commerce to remain available until expended to develop and implement a coordinated, comprehensive research and recovery program for the Steller sea lion, which shall be designed to study—“(1) available prey species; “(2) predator/prey relationships; “(3) predation by other marine mammals; “(4) interactions between fisheries and Steller sea lions, including the localized depletion theory; “(5) regime shift, climate change, and other impacts associated with changing environmental conditions in the North Pacific and Bering Sea; “(6) disease; “(7) juvenile and pup survival rates; “(8) population counts; “(9) nutritional stress; “(10) foreign commercial harvest of sea lions outside the exclusive economic zone; “(11) the residual impacts of former government-authorized Steller sea lion eradication bounty programs; and “(12) the residual impacts of intentional lethal takes of Steller sea lions. Within available funds the Secretary shall implement on a pilot basis innovative non-lethal measures to protect Steller sea lions from marine mammal predators including killer whales. “(e) Economic Disaster Relief.—$30,000,000 is hereby appropriated to the Secretary of Commerce to make available as a direct payment to the Southwest Alaska Municipal Conference to distribute to fishing communities, businesses, community development quota groups, individuals, and other entities to mitigate the economic losses caused by Steller sea lion protection measures heretofore incurred; provided that the President of such organization shall provide a written report to the Secretary and the House and Senate Appropriations Committee within 6 months of receipt of these funds.”
@@ -2438,21 +2641,21 @@ Pub. L. 98–613, §§ 1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended, f
 
 (1) There shall be established, within 120 days after April 13, 1976, eight Regional Fishery Management Councils, as follows:
 
-  (A) *New England Council* — The New England Fishery Management Council shall consist of the States of Maine, New Hampshire, Massachusetts, Rhode Island, and Connecticut and shall have authority over the fisheries in the Atlantic Ocean seaward of such States (except as provided in paragraph (3)). The New England Council shall have 18 voting members, including 12 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).
+  (A) *New England Council* — The New England Fishery Management Council shall consist of the States of Maine, New Hampshire, Massachusetts, Rhode Island, and Connecticut and shall have authority over the fisheries in the Atlantic Ocean seaward of such States (except as provided in paragraph (3)). The New England Council shall have 18 voting members, including 12 appointed by the Secretary in accordance with subsection (b)(2) (at least one of whom shall be appointed from each such State).
 
-  (B) *Mid-Atlantic Council* — The Mid-Atlantic Fishery Management Council shall consist of the States of New York, New Jersey, Delaware, Pennsylvania, Maryland, Virginia, and North Carolina and shall have authority over the fisheries in the Atlantic Ocean seaward of such States (except North Carolina, and as provided in paragraph (3)). The Mid-Atlantic Council shall have 21 voting members, including 13 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).
+  (B) *Mid-Atlantic Council* — The Mid-Atlantic Fishery Management Council shall consist of the States of New York, New Jersey, Delaware, Pennsylvania, Maryland, Virginia, and North Carolina and shall have authority over the fisheries in the Atlantic Ocean seaward of such States (except North Carolina, and as provided in paragraph (3)). The Mid-Atlantic Council shall have 21 voting members, including 13 appointed by the Secretary in accordance with subsection (b)(2) (at least one of whom shall be appointed from each such State).
 
-  (C) *South Atlantic Council* — The South Atlantic Fishery Management Council shall consist of the States of North Carolina, South Carolina, Georgia, and Florida and shall have authority over the fisheries in the Atlantic Ocean seaward of such States (except as provided in paragraph (3)). The South Atlantic Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).
+  (C) *South Atlantic Council* — The South Atlantic Fishery Management Council shall consist of the States of North Carolina, South Carolina, Georgia, and Florida and shall have authority over the fisheries in the Atlantic Ocean seaward of such States (except as provided in paragraph (3)). The South Atlantic Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) (at least one of whom shall be appointed from each such State).
 
-  (D) *Caribbean Council* — The Caribbean Fishery Management Council shall consist of the Virgin Islands and the Commonwealth of Puerto Rico and shall have authority over the fisheries in the Caribbean Sea and Atlantic Ocean seaward of such States and of commonwealths, territories, and possessions of the United States in the Caribbean Sea (except as provided in paragraph (3)). The Caribbean Council shall have 7 voting members, including 4 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).
+  (D) *Caribbean Council* — The Caribbean Fishery Management Council shall consist of the Virgin Islands and the Commonwealth of Puerto Rico and shall have authority over the fisheries in the Caribbean Sea and Atlantic Ocean seaward of such States and of commonwealths, territories, and possessions of the United States in the Caribbean Sea (except as provided in paragraph (3)). The Caribbean Council shall have 7 voting members, including 4 appointed by the Secretary in accordance with subsection (b)(2) (at least one of whom shall be appointed from each such State).
 
-  (E) *Gulf Council* — The Gulf of Mexico Fishery Management Council shall consist of the States of Texas, Louisiana, Mississippi, Alabama, and Florida and shall have authority over the fisheries in the Gulf of Mexico seaward of such States (except as provided in paragraph (3)). The Gulf Council shall have 17 voting members, including 11 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).
+  (E) *Gulf Council* — The Gulf of Mexico Fishery Management Council shall consist of the States of Texas, Louisiana, Mississippi, Alabama, and Florida and shall have authority over the fisheries in the Gulf of Mexico seaward of such States (except as provided in paragraph (3)). The Gulf Council shall have 17 voting members, including 11 appointed by the Secretary in accordance with subsection (b)(2) (at least one of whom shall be appointed from each such State).
 
-  (F) *Pacific Council* — The Pacific Fishery Management Council shall consist of the States of California, Oregon, Washington, and Idaho and shall have authority over the fisheries in the Pacific Ocean seaward of such States. The Pacific Council shall have 14 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State), and including one appointed from an Indian tribe with Federally 11 So in original. Probably should not be capitalized. recognized fishing rights from California, Oregon, Washington, or Idaho in accordance with subsection (b)(5) of this section.
+  (F) *Pacific Council* — The Pacific Fishery Management Council shall consist of the States of California, Oregon, Washington, and Idaho and shall have authority over the fisheries in the Pacific Ocean seaward of such States. The Pacific Council shall have 14 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) (at least one of whom shall be appointed from each such State), and including one appointed from an Indian tribe with Federally 11 So in original. Probably should not be capitalized. recognized fishing rights from California, Oregon, Washington, or Idaho in accordance with subsection (b)(5).
 
-  (G) *North Pacific Council* — The North Pacific Fishery Management Council shall consist of the States of Alaska, Washington, and Oregon and shall have authority over the fisheries in the Arctic Ocean, Bering Sea, and Pacific Ocean seaward of Alaska. The North Pacific Council shall have 11 voting members, including 7 appointed by the Secretary in accordance with subsection (b)(2) of this section (5 of whom shall be appointed from the State of Alaska and 2 of whom shall be appointed from the State of Washington).
+  (G) *North Pacific Council* — The North Pacific Fishery Management Council shall consist of the States of Alaska, Washington, and Oregon and shall have authority over the fisheries in the Arctic Ocean, Bering Sea, and Pacific Ocean seaward of Alaska. The North Pacific Council shall have 11 voting members, including 7 appointed by the Secretary in accordance with subsection (b)(2) (5 of whom shall be appointed from the State of Alaska and 2 of whom shall be appointed from the State of Washington).
 
-  (H) *Western Pacific Council* — The Western Pacific Fishery Management Council shall consist of the States of Hawaii, American Samoa, Guam, and the Northern Mariana Islands and shall have authority over the fisheries in the Pacific Ocean seaward of such States and of the Commonwealths, territories, and possessions of the United States in the Pacific Ocean area. The Western Pacific Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each of the following States: Hawaii, American Samoa, Guam, and the Northern Mariana Islands).
+  (H) *Western Pacific Council* — The Western Pacific Fishery Management Council shall consist of the States of Hawaii, American Samoa, Guam, and the Northern Mariana Islands and shall have authority over the fisheries in the Pacific Ocean seaward of such States and of the Commonwealths, territories, and possessions of the United States in the Pacific Ocean area. The Western Pacific Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) (at least one of whom shall be appointed from each of the following States: Hawaii, American Samoa, Guam, and the Northern Mariana Islands).
 
 (2) Each Council shall reflect the expertise and interest of the several constituent States in the ocean area over which such Council is granted authority.
 
@@ -2480,7 +2683,7 @@ Pub. L. 98–613, §§ 1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended, f
 
     (iii) state the Secretary’s plans and schedule for actions to achieve a fair and balanced apportionment on the Council for the active participants in any such fishery.
 
-  (C) The Secretary shall appoint the members of each Council from a list of individuals submitted by the Governor of each applicable constituent State. A Governor may not submit the names of individuals to the Secretary for appointment unless the Governor has determined that each such individual is qualified under the requirements of subparagraph (A) and unless the Governor has, to the extent practicable, first consulted with representatives of the commercial and recreational fishing interests of the State regarding those individuals. Each such list shall include the names and pertinent biographical data of not less than three individuals for each applicable vacancy and shall be accompanied by a statement by the Governor explaining how each such individual meets the requirements of subparagraph (A). The Secretary shall review each list submitted by a Governor to ascertain if the individuals on the list are qualified for the vacancy on the basis of such requirements. If the Secretary determines that any individual is not qualified, the Secretary shall notify the appropriate Governor of that determination. The Governor shall then submit a revised list or resubmit the original list with an additional explanation of the qualifications of the individual in question. An individual is not eligible for appointment by the Secretary until that individual complies with the applicable financial disclosure requirements under subsection (k) 22 So in original. Probably should be subsection “(j)”. of this section.
+  (C) The Secretary shall appoint the members of each Council from a list of individuals submitted by the Governor of each applicable constituent State. A Governor may not submit the names of individuals to the Secretary for appointment unless the Governor has determined that each such individual is qualified under the requirements of subparagraph (A) and unless the Governor has, to the extent practicable, first consulted with representatives of the commercial and recreational fishing interests of the State regarding those individuals. Each such list shall include the names and pertinent biographical data of not less than three individuals for each applicable vacancy and shall be accompanied by a statement by the Governor explaining how each such individual meets the requirements of subparagraph (A). The Secretary shall review each list submitted by a Governor to ascertain if the individuals on the list are qualified for the vacancy on the basis of such requirements. If the Secretary determines that any individual is not qualified, the Secretary shall notify the appropriate Governor of that determination. The Governor shall then submit a revised list or resubmit the original list with an additional explanation of the qualifications of the individual in question. An individual is not eligible for appointment by the Secretary until that individual complies with the applicable financial disclosure requirements under subsection (k).22 See References in Text note below.
 
   (D)
 
@@ -2508,7 +2711,7 @@ Pub. L. 98–613, §§ 1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended, f
 
 (5)
 
-  (A) The Secretary shall appoint to the Pacific Council one representative of an Indian tribe with Federally 33 So in original. Probably should not be capitalized. recognized fishing rights from California, Oregon, Washington, or Idaho from a list of not less than 3 individuals submitted by the tribal governments. The Secretary, in consultation with the Secretary of the Interior and tribal governments, shall establish by regulation the procedure for submitting a list under this subparagraph.
+  (A) The Secretary shall appoint to the Pacific Council one representative of an Indian tribe with Federally 1 recognized fishing rights from California, Oregon, Washington, or Idaho from a list of not less than 3 individuals submitted by the tribal governments. The Secretary, in consultation with the Secretary of the Interior and tribal governments, shall establish by regulation the procedure for submitting a list under this subparagraph.
 
   (B) Representation shall be rotated among the tribes taking into consideration—
 
@@ -2522,7 +2725,7 @@ Pub. L. 98–613, §§ 1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended, f
 
   (D) The tribal representative appointed under subparagraph (A) may designate as an alternate, during the period of the representative’s term, an individual knowledgeable concerning tribal rights, tribal law, and the fishery resources of the geographical area concerned.
 
-(6) The Secretary may remove for cause any member of a Council required to be appointed by the Secretary in accordance with paragraphs 44 So in original. Probably should be “paragraph”. (2) or (5) if—
+(6) The Secretary may remove for cause any member of a Council required to be appointed by the Secretary in accordance with paragraphs 33 So in original. Probably should be “paragraph”. (2) or (5) if—
 
   (A) the Council concerned first recommends removal by not less than two-thirds of the members who are voting members and submits such removal recommendation to the Secretary in writing together with a statement of the basis for the recommendation; or
 
@@ -2542,7 +2745,7 @@ Pub. L. 98–613, §§ 1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended, f
 
 (2) The Pacific Council shall have one additional nonvoting member who shall be appointed by, and serve at the pleasure of, the Governor of Alaska.
 
-**(d) Compensation and expenses** The voting members of each Council who are required to be appointed by the Secretary and who are not employed by the Federal Government or any State or local government, shall receive compensation at the daily rate for GS–15, step 7 of the General Schedule, when engaged in the actual performance of duties for such Council. The voting members of each Council, any nonvoting member described in subsection (c)(1)(C) of this section, and the nonvoting member appointed pursuant to subsection (c)(2) of this section shall be reimbursed for actual expenses incurred in the performance of such duties, and other nonvoting members and Council staff members may be reimbursed for actual expenses.
+**(d) Compensation and expenses** The voting members of each Council who are required to be appointed by the Secretary and who are not employed by the Federal Government or any State or local government, shall receive compensation at the daily rate for GS–15, step 7 of the General Schedule, when engaged in the actual performance of duties for such Council. The voting members of each Council, any nonvoting member described in subsection (c)(1)(C), and the nonvoting member appointed pursuant to subsection (c)(2) shall be reimbursed for actual expenses incurred in the performance of such duties, and other nonvoting members and Council staff members may be reimbursed for actual expenses.
 
 **(e) Transaction of business**
 
@@ -2568,17 +2771,17 @@ Pub. L. 98–613, §§ 1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended, f
 
 (5) The Secretary and the Secretary of State shall furnish each Council with relevant information concerning foreign fishing and international fishery agreements.
 
-(6) Each Council shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter, in accordance with such uniform standards as are prescribed by the Secretary. The procedures of a Council, and of its scientific and statistical committee and advisory panels established under subsection (g) of this section, must be consistent with the procedural guidelines set forth in subsection (i)(2) of this section. Each Council shall publish and make available to the public a statement of its organization, practices, and procedures.
+(6) Each Council shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter, in accordance with such uniform standards as are prescribed by the Secretary. The procedures of a Council, and of its scientific and statistical committee and advisory panels established under subsection (g), must be consistent with the procedural guidelines set forth in subsection (i)(2). Each Council shall publish and make available to the public a statement of its organization, practices, and procedures.
 
 (7) The Secretary shall pay—
 
-  (A) the compensation and expenses provided for in subsection (d) of this section;
+  (A) the compensation and expenses provided for in subsection (d);
 
   (B) appropriate compensation to employees appointed under paragraph (1);
 
   (C) the amounts required for reimbursement of other Federal agencies under paragraphs (2) and (4);
 
-  (D) the actual expenses of the members of the committees and panels established under subsection (g) of this section; and
+  (D) the actual expenses of the members of the committees and panels established under subsection (g); and
 
   (E) such other costs as the Secretary determines are necessary to the performance of the functions of the Councils.
 
@@ -2608,7 +2811,7 @@ Pub. L. 98–613, §§ 1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended, f
 
   (B) Appointments to a committee established under subparagraph (A) shall be made by each Council in such a manner as to provide fair representation to commercial fishing interests in the geographical area of authority of the Council.
 
-(4) The Secretary shall establish advisory panels to assist in the collection and evaluation of information relevant to the development of any fishery management plan or plan amendment for a fishery to which subsection (a)(3) of this section applies. Each advisory panel shall participate in all aspects of the development of the plan or amendment; be balanced in its representation of commercial, recreational, and other interests; and consist of not less than 7 individuals who are knowledgeable about the fishery for which the plan or amendment is developed, selected from among—
+(4) The Secretary shall establish advisory panels to assist in the collection and evaluation of information relevant to the development of any fishery management plan or plan amendment for a fishery to which subsection (a)(3) applies. Each advisory panel shall participate in all aspects of the development of the plan or amendment; be balanced in its representation of commercial, recreational, and other interests; and consist of not less than 7 individuals who are knowledgeable about the fishery for which the plan or amendment is developed, selected from among—
 
   (A) members of advisory committees and species working groups appointed under Acts implementing relevant international fishery agreements pertaining to highly migratory species; and
 
@@ -2626,7 +2829,7 @@ Pub. L. 98–613, §§ 1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended, f
 
 (4) submit to the Secretary such periodic reports as the Council deems appropriate, and any other relevant report which may be requested by the Secretary;
 
-(5) review on a continuing basis, and revise as appropriate, the assessments and specifications made pursuant to section 1853(a)(3) and (4) of this title with respect to the optimum yield from, the capacity and extent to which United States fish processors will process United States harvested fish from, and the total allowable level of foreign fishing in, each fishery (except as provided in section 55 So in original. The word “section” probably should not appear. subsection (a)(3) of this section) within its geographical area of authority;
+(5) review on a continuing basis, and revise as appropriate, the assessments and specifications made pursuant to section 1853(a)(3) and (4) of this title with respect to the optimum yield from, the capacity and extent to which United States fish processors will process United States harvested fish from, and the total allowable level of foreign fishing in, each fishery (except as provided in section 44 So in original. The word “section” probably should not appear. subsection (a)(3)) within its geographical area of authority;
 
 (6) develop annual catch limits for each of its managed fisheries that may not exceed the fishing level recommendations of its scientific and statistical committee or the peer review process established under subsection (g);
 
@@ -2667,11 +2870,11 @@ Pub. L. 98–613, §§ 1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended, f
     (ii) may close any meeting, or portion thereof, that concerns matters or information that pertains to national security, employment matters, or briefings on litigation in which the Council is interested.
     Subparagraphs (D) and (F) of paragraph (2) shall not apply to any meeting or portion thereof that is so closed.
 
-  (B) If any meeting or portion is closed, the Council concerned shall provide notice by any means that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient, including in that notification the time and place of the meeting. This subpararaph 66 So in original. Probably should be “subparagraph”. does not require notification regarding any brief closure of a portion of a meeting in order to discuss employment or other internal administrative matters.
+  (B) If any meeting or portion is closed, the Council concerned shall provide notice by any means that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient, including in that notification the time and place of the meeting. This subpararaph 55 So in original. Probably should be “subparagraph”. does not require notification regarding any brief closure of a portion of a meeting in order to discuss employment or other internal administrative matters.
 
 (4) Each Council shall establish appropriate procedures applicable to it and to its committee and advisory panels for ensuring the confidentiality of the statistics that may be submitted to it by Federal or State authorities, and may be voluntarily submitted to it by private persons; including, but not limited to, procedures for the restriction of Council employee access and the prevention of conflicts of interest; except that such procedures, in the case of statistics submitted to the Council by a State or by the Secretary under [section 1881a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1881a/b&num=0&edition=prelim), must be consistent with the laws and regulations of that State, or with the procedures of the Secretary, as the case may be, concerning the confidentiality of the statistics.
 
-(5) Each Council shall specify those procedures that are necessary or appropriate to ensure that the committees and advisory panels established under subsection (g) of this section are involved, on a continuing basis, in the development and amendment of fishery management plans.
+(5) Each Council shall specify those procedures that are necessary or appropriate to ensure that the committees and advisory panels established under subsection (g) are involved, on a continuing basis, in the development and amendment of fishery management plans.
 
 (6) At any time when a Council determines it appropriate to consider new information from a State or Federal agency or from a Council advisory body, the Council shall give comparable consideration to new information offered at that time by interested members of the public. Interested parties shall have a reasonable opportunity to respond to new data or information before the Council takes final action on conservation and management measures.
 
@@ -2681,13 +2884,13 @@ Pub. L. 98–613, §§ 1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended, f
 
   (A) the term “affected individual” means an individual who—
 
-    (i) is nominated by the Governor of a State for appointment as a voting member of a Council in accordance with subsection (b)(2) of this section; or
+    (i) is nominated by the Governor of a State for appointment as a voting member of a Council in accordance with subsection (b)(2); or
 
     (ii) is a voting member of a Council appointed—
 
-      (I) under subsection (b)(2) of this section; or
+      (I) under subsection (b)(2); or
 
-      (II) under subsection (b)(5) of this section who is not subject to disclosure and recusal requirements under the laws of an Indian tribal government; and
+      (II) under subsection (b)(5) who is not subject to disclosure and recusal requirements under the laws of an Indian tribal government; and
 
   (B) the term “designated official” means a person with expertise in Federal conflict-of-interest requirements who is designated by the Secretary, in consultation with the Council, to attend Council meetings and make determinations under paragraph (7)(B).
 
@@ -2767,6 +2970,8 @@ Pub. L. 98–613, §§ 1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended, f
 ### Statutory Notes
 
 #### References in Text
+Subsection (k), referred to in subsec. (b)(2)(C), was redesignated subsec. (j) of this section by Pub. L. 104–297, title I, § 107(g), Oct. 11, 1996, 110 Stat. 3572.
+
 The General Schedule, referred to in subsec. (d), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
 This chapter, referred to in subsecs. (f)(2), (6), (g)(2), (h), (k)(1)(E), and (l), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
@@ -2850,7 +3055,7 @@ Subsec. (h)(1). Pub. L. 104–297, § 107(f)(1), added par. (1) and struck out f
 
 Subsec. (h)(2). Pub. L. 104–297, § 107(f)(2), substituted “[section 1824(b)(4)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1824/b/4/C&num=0&edition=prelim) or [section 1824(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1824/d&num=0&edition=prelim)” for “[section 1824(b)(4)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1824/b/4/C&num=0&edition=prelim)” and “section 1854(c)(4)” for “section 1854(c)(2)”.
 
-Subsec. (h)(5). Pub. L. 104–297, § 107(f)(3), substituted “subsection (a)(3) of this section” for “1854(f)(3) of this title”.
+Subsec. (h)(5). Pub. L. 104–297, § 107(f)(3), substituted “subsection (a)(3)” for “1854(f)(3) of this title”.
 
 Subsec. (i). Pub. L. 104–297, § 107(g), redesignated subsec. (j) as (i) and struck out heading and text of former subsec. (i). Text read as follows:
 
@@ -3003,7 +3208,7 @@ Pub. L. 99–659, title I, § 113, Nov. 14, 1986, 100 Stat. 3715, provided that:
 
   (A) necessary and appropriate for the conservation and management of the fishery, to prevent overfishing and rebuild overfished stocks, and to protect, restore, and promote the long-term health and stability of the fishery;
 
-  (B) described in this subsection or subsection (b) of this section, or both; and
+  (B) described in this subsection or subsection (b), or both; and
 
   (C) consistent with the national standards, the other provisions of this chapter, regulations implementing recommendations by international organizations in which the United States participates (including but not limited to closed areas, quotas, and size limits), and any other applicable law;
 
@@ -3519,7 +3724,7 @@ Pub. L. 109–479, title I, § 106(e), Jan. 12, 2007, 120 Stat. 3594, provided t
 
 (4) If the Secretary disapproves or partially approves a plan or amendment, the Council may submit a revised plan or amendment to the Secretary for review under this subsection.
 
-(5) For purposes of this subsection and subsection (b) of this section, the term “immediately” means on or before the 5th day after the day on which a Council transmits to the Secretary a fishery management plan, plan amendment, or proposed regulation that the Council characterizes as final.
+(5) For purposes of this subsection and subsection (b), the term “immediately” means on or before the 5th day after the day on which a Council transmits to the Secretary a fishery management plan, plan amendment, or proposed regulation that the Council characterizes as final.
 
 **(b) Review of regulations**
 
@@ -3607,7 +3812,7 @@ Pub. L. 109–479, title I, § 106(e), Jan. 12, 2007, 120 Stat. 3594, provided t
 
   (C) for fisheries managed under an international agreement, reflect traditional participation in the fishery, relative to other nations, by fishermen of the United States.
 
-(5) If, within the 2-year period beginning on the date of identification or notification that a fishery is overfished, the Council does not submit to the Secretary a fishery management plan, plan amendment, or proposed regulations required by paragraph (3)(A), the Secretary shall prepare a fishery management plan or plan amendment and any accompanying regulations to stop overfishing and rebuild affected stocks of fish within 9 months under subsection (c) of this section.
+(5) If, within the 2-year period beginning on the date of identification or notification that a fishery is overfished, the Council does not submit to the Secretary a fishery management plan, plan amendment, or proposed regulations required by paragraph (3)(A), the Secretary shall prepare a fishery management plan or plan amendment and any accompanying regulations to stop overfishing and rebuild affected stocks of fish within 9 months under subsection (c).
 
 (6) During the development of a fishery management plan, a plan amendment, or proposed regulations required by this subsection, the Council may request the Secretary to implement interim measures to reduce overfishing under [section 1855(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1855/c&num=0&edition=prelim) until such measures can be replaced by such plan, amendment, or regulations. Such measures, if otherwise in compliance with the provisions of this chapter, may be implemented even though they are not sufficient by themselves to stop overfishing of a fishery.
 
@@ -3630,7 +3835,7 @@ Pub. L. 109–479, title I, § 106(e), Jan. 12, 2007, 120 Stat. 3594, provided t
 
 **(g) Atlantic highly migratory species**
 
-(1) **Preparation and implementation of plan or plan amendment** — The Secretary shall prepare a fishery management plan or plan amendment under subsection (c) of this section with respect to any highly migratory species fishery to which [section 1852(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1852/a/3&num=0&edition=prelim) applies. In preparing and implementing any such plan or amendment, the Secretary shall—
+(1) **Preparation and implementation of plan or plan amendment** — The Secretary shall prepare a fishery management plan or plan amendment under subsection (c) with respect to any highly migratory species fishery to which [section 1852(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1852/a/3&num=0&edition=prelim) applies. In preparing and implementing any such plan or amendment, the Secretary shall—
 
   (A) consult with and consider the comments and views of affected Councils, commissioners and advisory groups appointed under Acts implementing relevant international fishery agreements pertaining to highly migratory species, and the advisory panel established under [section 1852(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1852/g&num=0&edition=prelim);
 
@@ -3852,7 +4057,7 @@ Pub. L. 101–627, title I, § 108(k), Nov. 28, 1990, 104 Stat. 4447, as amended
 
 (4) A Council may submit to the Secretary any proposed changes to such list or such guidelines the Council deems appropriate. The Secretary shall publish a revised list, after notice and an opportunity for public comment, upon receiving any such proposed changes from a Council.
 
-(5) A Council may request the Secretary to promulgate emergency regulations under subsection (c) of this section to prohibit any persons or vessels from using an unlisted fishing gear or engaging in an unlisted fishery if the appropriate Council, or the Secretary for fisheries to which [section 1852(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1852/a/3&num=0&edition=prelim) applies, determines that such unlisted gear or unlisted fishery would compromise the effectiveness of conservation and management efforts under this chapter.
+(5) A Council may request the Secretary to promulgate emergency regulations under subsection (c) to prohibit any persons or vessels from using an unlisted fishing gear or engaging in an unlisted fishery if the appropriate Council, or the Secretary for fisheries to which [section 1852(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1852/a/3&num=0&edition=prelim) applies, determines that such unlisted gear or unlisted fishery would compromise the effectiveness of conservation and management efforts under this chapter.
 
 (6) Nothing in this subsection shall be construed to permit a person or vessel to engage in fishing or employ fishing gear when such fishing or gear is prohibited or restricted by regulation under a fishery management plan or plan amendment, or under other applicable law.
 
@@ -4254,9 +4459,9 @@ Pub. L. 104–297, title I, § 111(b), Oct. 11, 1996, 110 Stat. 3594, as amended
 ## § 1856. State jurisdiction
 **(a) In general**
 
-(1) Except as provided in subsection (b) of this section, nothing in this chapter shall be construed as extending or diminishing the jurisdiction or authority of any State within its boundaries.
+(1) Except as provided in subsection (b), nothing in this chapter shall be construed as extending or diminishing the jurisdiction or authority of any State within its boundaries.
 
-(2) For the purposes of this chapter, except as provided in subsection (b) of this section, the jurisdiction and authority of a State shall extend—
+(2) For the purposes of this chapter, except as provided in subsection (b), the jurisdiction and authority of a State shall extend—
 
   (A) to any pocket of waters that is adjacent to the State and totally enclosed by lines delimiting the territorial sea of the United States pursuant to the Geneva Convention on the Territorial Sea and Contiguous Zone or any successor convention to which the United States is a party;
 
@@ -4417,7 +4622,7 @@ It is unlawful—
 
     (iv) to land any such fin that is not naturally attached to the corresponding carcass, or to land any shark carcass without such fins naturally attached;
 
-  (Q) to import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce any fish taken, possessed, transported, or sold in violation of any foreign law or regulation; or
+  (Q) to import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce any fish taken, possessed, transported, or sold in violation of any foreign law or regulation or any treaty or in contravention of any binding conservation measure adopted by an international agreement or organization to which the United States is a party; or
 
   (R) to use any fishing vessel to engage in fishing in Federal or State waters, or on the high seas or in the waters of another country, after the Secretary has made a payment to the owner of that fishing vessel under [section 1861a(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1861a/b/2&num=0&edition=prelim).
   For purposes of subparagraph (P), there shall be a rebuttable presumption that if any shark fin (including the tail) is found aboard a vessel, other than a fishing vessel, without being naturally attached to the corresponding carcass, such fin was transferred in violation of subparagraph (P)(iii) or that if, after landing, the total weight of shark fins (including the tail) landed from any vessel exceeds five percent of the total weight of shark carcasses landed, such fins were taken, held, or landed in violation of subparagraph (P). In such subparagraph, the term “naturally attached”, with respect to a shark fin, means attached to the corresponding shark carcass through some portion of uncut skin.
@@ -4466,6 +4671,8 @@ This chapter, referred to in par. (1), was in the original “this Act”, meani
 The Atlantic Coastal Fisheries Cooperative Management Act, referred to in par. (1)(J)(i), is title VIII of Pub. L. 103–206, Dec. 20, 1993, 107 Stat. 2447, as amended, which is classified principally to chapter 71 (§ 5101 et seq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under [section 5101 of this title](./chapter-071-atlantic-coastal-fisheries-cooperative-management.md#section-5101) and Tables.
 
 #### Amendments
+2015—Par. (1)(Q). Pub. L. 114–81 inserted before the semicolon “or any treaty or in contravention of any binding conservation measure adopted by an international agreement or organization to which the United States is a party”.
+
 2011—Par. (1). Pub. L. 111–348, § 103(a)(2), substituted “For purposes of subparagraph (P), there shall be a rebuttable presumption that if any shark fin (including the tail) is found aboard a vessel, other than a fishing vessel, without being naturally attached to the corresponding carcass, such fin was transferred in violation of subparagraph (P)(iii) or that if, after landing, the total weight of shark fins (including the tail) landed from any vessel exceeds five percent of the total weight of shark carcasses landed, such fins were taken, held, or landed in violation of subparagraph (P). In such subparagraph, the term ‘naturally attached’, with respect to a shark fin, means attached to the corresponding shark carcass through some portion of uncut skin.” for “For purposes of subparagraph (P) there is a rebuttable presumption that any shark fins landed from a fishing vessel or found on board a fishing vessel were taken, held, or landed in violation of subparagraph (P) if the total weight of shark fins landed or found on board exceeds 5 percent of the total weight of shark carcasses landed or found on board.” in concluding provisions.
 
 Par. (1)(P). Pub. L. 111–348, § 103(a)(1), amended subpar. (P) generally. Prior to amendment, subpar. (P) read as follows:
@@ -4541,7 +4748,7 @@ Pub. L. 111–348, title I, § 103(b), Jan. 4, 2011, 124 Stat. 3670, provided th
 ## § 1858. Civil penalties and permit sanctions
 **(a) Assessment of penalty** Any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim), to have committed an act prohibited by [section 1857 of this title](./chapter-038-fishery-conservation-and-management.md#section-1857) shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of such civil penalty shall be assessed by the Secretary, or his designee, by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, and such other matters as justice may require. In assessing such penalty the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay, Provided, That the information is served on the Secretary at least 30 days prior to an administrative hearing.
 
-**(b) Review of civil penalty** Any person against whom a civil penalty is assessed under subsection (a) of this section or against whom a permit sanction is imposed under subsection (g) of this section (other than a permit suspension for nonpayment of penalty or fine) may obtain review thereof in the United States district court for the appropriate district by filing a complaint against the Secretary in such court within 30 days from the date of such order. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim). The findings and order of the Secretary shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in [section 706(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706/2&num=0&edition=prelim).
+**(b) Review of civil penalty** Any person against whom a civil penalty is assessed under subsection (a) or against whom a permit sanction is imposed under subsection (g) (other than a permit suspension for nonpayment of penalty or fine) may obtain review thereof in the United States district court for the appropriate district by filing a complaint against the Secretary in such court within 30 days from the date of such order. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim). The findings and order of the Secretary shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in [section 706(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706/2&num=0&edition=prelim).
 
 **(c) Action upon failure to pay assessment** If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General of the United States, who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
@@ -4611,7 +4818,7 @@ Section effective Mar. 1, 1977, see section 312 of Pub. L. 94–265, formerly se
 
 (2) [section 1857(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1857/2&num=0&edition=prelim).
 
-**(b) Punishment** Any offense described in subsection (a)(1) of this section is punishable by a fine of not more than $100,000, or imprisonment for not more than 6 months, or both; except that if in the commission of any such offense the person uses a dangerous weapon, engages in conduct that causes bodily injury to any observer described in [section 1857(1)(L) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1857/1/L&num=0&edition=prelim) or any officer authorized to enforce the provisions of this chapter (as provided for in [section 1861 of this title](./chapter-038-fishery-conservation-and-management.md#section-1861)), or places any such observer or officer in fear of imminent bodily injury, the offense is punishable by a fine of not more than $200,000, or imprisonment for not more than 10 years, or both. Any offense described in subsection (a)(2) of this section is punishable by a fine of not more than $200,000.
+**(b) Punishment** Any offense described in subsection (a)(1) is punishable by a fine of not more than $100,000, or imprisonment for not more than 6 months, or both; except that if in the commission of any such offense the person uses a dangerous weapon, engages in conduct that causes bodily injury to any observer described in [section 1857(1)(L) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1857/1/L&num=0&edition=prelim) or any officer authorized to enforce the provisions of this chapter (as provided for in [section 1861 of this title](./chapter-038-fishery-conservation-and-management.md#section-1861)), or places any such observer or officer in fear of imminent bodily injury, the offense is punishable by a fine of not more than $200,000, or imprisonment for not more than 10 years, or both. Any offense described in subsection (a)(2) is punishable by a fine of not more than $200,000.
 
 **(c) Jurisdiction** There is Federal jurisdiction over any offense described in this section.
 
@@ -4629,7 +4836,7 @@ Subsec. (b). Pub. L. 101–627, § 115(b), substituted “$100,000” for “$50
 
 1986—Subsec. (a)(1). Pub. L. 99–659 substituted “(H), or (J)” for “or (H)”.
 
-1983—Subsec. (b). Pub. L. 97–453 struck out “, or imprisonment for not more than 1 year, or both” after “subsection (a)(2) of this section is punishable by a fine of not more than $100,000”.
+1983—Subsec. (b). Pub. L. 97–453 struck out “, or imprisonment for not more than 1 year, or both” after “subsection (a)(2) is punishable by a fine of not more than $100,000”.
 
 #### Effective Date of 1983 Amendment
 Pub. L. 97–453, § 11(b), Jan. 12, 1983, 96 Stat. 2491, provided that: “The amendment made by subsection (a) [amending this section] applies with respect to offenses committed under section 309 [this section] on or after the date of the enactment of this Act [Jan. 12, 1983].”
@@ -4642,16 +4849,16 @@ Section effective Mar. 1, 1977, see section 312 of Pub. L. 94–265, formerly se
 ## § 1860. Civil forfeitures
 **(a) In general** Any fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with or as a result of the commission of any act prohibited by [section 1857 of this title](./chapter-038-fishery-conservation-and-management.md#section-1857) (other than any act for which the issuance of a citation under [section 1861(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1861/c&num=0&edition=prelim) is sufficient sanction) shall be subject to forfeiture to the United States. All or part of such vessel may, and all such fish (or the fair market value thereof) shall, be forfeited to the United States pursuant to a civil proceeding under this section.
 
-**(b) Jurisdiction of district courts** Any district court of the United States which has jurisdiction under [section 1861(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1861/d&num=0&edition=prelim) shall have jurisdiction, upon application by the Attorney General on behalf of the United States, to order any forfeiture authorized under subsection (a) of this section and any action provided for under subsection (d) of this section.
+**(b) Jurisdiction of district courts** Any district court of the United States which has jurisdiction under [section 1861(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1861/d&num=0&edition=prelim) shall have jurisdiction, upon application by the Attorney General on behalf of the United States, to order any forfeiture authorized under subsection (a) and any action provided for under subsection (d).
 
-**(c) Judgment** If a judgment is entered for the United States in a civil forfeiture proceeding under this section, the Attorney General may seize any property or other interest declared forfeited to the United States, which has not previously been seized pursuant to this chapter or for which security has not previously been obtained under subsection (d) of this section. The provisions of the customs laws relating to—
+**(c) Judgment** If a judgment is entered for the United States in a civil forfeiture proceeding under this section, the Attorney General may seize any property or other interest declared forfeited to the United States, which has not previously been seized pursuant to this chapter or for which security has not previously been obtained under subsection (d). The provisions of the customs laws relating to—
 
 (1) the seizure, forfeiture, and condemnation of property for violation of the customs law;
 
 (2) the disposition of such property or the proceeds from the sale thereof; and
 
 (3) the remission or mitigation of any such forfeiture;
-shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, unless such provisions are inconsistent with the purposes, policy, and provisions of this chapter. The duties and powers imposed upon the Commissioner of Customs or other persons under such provisions shall, with respect to this chapter, be performed by officers or other persons designated for such purpose by the Secretary.
+shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, unless such provisions are inconsistent with the purposes, policy, and provisions of this chapter. The duties and powers imposed upon the Commissioner of U.S. Customs and Border Protection or other persons under such provisions shall, with respect to this chapter, be performed by officers or other persons designated for such purpose by the Secretary.
 
 **(d) Procedure**
 
@@ -4698,11 +4905,14 @@ Subsec. (d)(1). Pub. L. 99–659, § 109(a)(2), inserted provision that nothing 
 
 1983—Subsec. (a). Pub. L. 97–453 inserted “(or the fair market value thereof)” after “fish” wherever appearing.
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (c) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Effective Date
 Section effective Mar. 1, 1977, see section 312 of Pub. L. 94–265, formerly set out as a note under [section 1857 of this title](./chapter-038-fishery-conservation-and-management.md#section-1857).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1861"></a>
@@ -4711,7 +4921,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **(b) Powers of authorized officers**
 
-(1) Any officer who is authorized (by the Secretary, the Secretary of the department in which the Coast Guard is operating, or the head of any Federal or State agency which has entered into an agreement with such Secretaries under subsection (a) of this section) to enforce the provisions of this chapter may—
+(1) Any officer who is authorized (by the Secretary, the Secretary of the department in which the Coast Guard is operating, or the head of any Federal or State agency which has entered into an agreement with such Secretaries under subsection (a)) to enforce the provisions of this chapter may—
 
   (A) with or without a warrant or other process—
 
@@ -4733,9 +4943,9 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 (2) Subject to the direction of the Secretary, a person charged with law enforcement responsibilities by the Secretary who is performing a duty related to enforcement of a law regarding fisheries or other marine resources may make an arrest without a warrant for an offense against the United States committed in his presence, or for a felony cognizable under the laws of the United States, if he has reasonable grounds to believe that the person to be arrested has committed or is committing a felony. The arrest authority described in the preceding sentence may be conferred upon an officer or employee of a State agency, subject to such conditions and restrictions as are set forth by agreement between the State agency, the Secretary, and, with respect to enforcement operations within the exclusive economic zone, the Secretary of the department in which the Coast Guard is operating.
 
-**(c) Issuance of citations** If any officer authorized to enforce the provisions of this chapter (as provided for in this section) finds that a fishing vessel is operating or has been operated in violation of any provision of this chapter, such officer may, in accordance with regulations issued jointly by the Secretary and the Secretary of the department in which the Coast Guard is operating, issue a citation to the owner or operator of such vessel in lieu of proceeding under subsection (b) of this section. If a permit has been issued pursuant to this chapter for such vessel, such officer shall note the issuance of any citation under this subsection, including the date thereof and the reason therefor, on the permit. The Secretary shall maintain a record of all citations issued pursuant to this subsection.
+**(c) Issuance of citations** If any officer authorized to enforce the provisions of this chapter (as provided for in this section) finds that a fishing vessel is operating or has been operated in violation of any provision of this chapter, such officer may, in accordance with regulations issued jointly by the Secretary and the Secretary of the department in which the Coast Guard is operating, issue a citation to the owner or operator of such vessel in lieu of proceeding under subsection (b). If a permit has been issued pursuant to this chapter for such vessel, such officer shall note the issuance of any citation under this subsection, including the date thereof and the reason therefor, on the permit. The Secretary shall maintain a record of all citations issued pursuant to this subsection.
 
-**(d) Jurisdiction of courts** The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter. In the case of Guam or any possession of the United States in the Pacific Ocean, the appropriate court is the United States District Court for the District of Guam, except that in the case of American Samoa, the appropriate court is the United States District Court for the District of Hawaii, and except that in the case of the Northern Mariana Islands, the appropriate court is the United States District Court for the District of the Northern Mariana Islands. Any such court may, at any time—
+**(d) Jurisdiction of courts** The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter. In the case of Hawaii or any possession of the United States in the Pacific Ocean, the appropriate court is the United States District Court for the District of Hawaii, except that in the case of Guam and Wake Island, the appropriate court is the United States District Court for the District of Guam, and in the case of the Northern Mariana Islands, the appropriate court is the United States District Court for the District of the Northern Mariana Islands. Any such court may, at any time—
 
 (1) enter restraining orders or prohibitions;
 
@@ -4759,13 +4969,13 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
   (E) claims of parties in interest to property disposed of under [section 1612(b) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1612/b&num=0&edition=prelim), as made applicable by [section 1860(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1860/c&num=0&edition=prelim) or by any other marine resource law enforced by the Secretary, to seizures made by the Secretary, in amounts determined by the Secretary to be applicable to such claims at the time of seizure; and
 
-  (F) reimbursement to any Federal or State agency, including the Coast Guard, for services performed, or personnel, equipment, or facilities utilized, under any agreement with the Secretary entered into pursuant to subsection (a) of this section, or any similar agreement authorized by law.
+  (F) reimbursement to any Federal or State agency, including the Coast Guard, for services performed, or personnel, equipment, or facilities utilized, under any agreement with the Secretary entered into pursuant to subsection (a), or any similar agreement authorized by law.
 
 (2) Any person found in an administrative or judicial proceeding to have violated this chapter or any other marine resource law enforced by the Secretary shall be liable for the cost incurred in the sale, storage, care, and maintenance of any fish or other property lawfully seized in connection with the violation.
 
 **(f) Enforcement of Northeast Multispecies Fishery Management Plan**
 
-(1) **Enforcement agreements** — Beginning not later than October 1, 1993, the Secretary shall, if requested by the Governor of a State represented on the New England Fishery Management Council, enter into an agreement under subsection (a) of this section, with each of the States represented on such Council, that authorizes the marine law enforcement agency of such State to perform duties of the Secretary relating to enforcement of the Northeast Multispecies Fishery Management Plan.
+(1) **Enforcement agreements** — Beginning not later than October 1, 1993, the Secretary shall, if requested by the Governor of a State represented on the New England Fishery Management Council, enter into an agreement under subsection (a), with each of the States represented on such Council, that authorizes the marine law enforcement agency of such State to perform duties of the Secretary relating to enforcement of the Northeast Multispecies Fishery Management Plan.
 
 (2) **Reimbursement** — An agreement with a State under this subsection shall provide, subject to the availability of appropriations, for reimbursement of the State for expenses incurred in detection and prosecution of violations of any fishery management plan approved by the Secretary.
 
@@ -4836,6 +5046,8 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to chapter 53 (§ 3371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3371 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3371) and Tables.
 
 #### Amendments
+2016—Subsec. (d). Pub. L. 114–120 substituted “In the case of Hawaii or any possession of the United States in the Pacific Ocean, the appropriate court is the United States District Court for the District of Hawaii, except that in the case of Guam and Wake Island, the appropriate court is the United States District Court for the District of Guam, and in the case of the Northern Mariana Islands, the appropriate court is the United States District Court for the District of the Northern Mariana Islands.” for “In the case of Guam or any possession of the United States in the Pacific Ocean, the appropriate court is the United States District Court for the District of Guam, except that in the case of American Samoa, the appropriate court is the United States District Court for the District of Hawaii, and except that in the case of the Northern Mariana Islands, the appropriate court is the United States District Court for the District of the Northern Mariana Islands.” in introductory provisions.
+
 2007—Subsec. (b)(1)(A)(vi). Pub. L. 109–479, § 111(a)(1)–(3), added cl. (vi).
 
 Subsecs. (h) to (j). Pub. L. 109–479, § 111(a)(4), (5), added subsecs. (h) and (i) and redesignated former subsec. (h) as (j).
@@ -4974,11 +5186,11 @@ Pub. L. 102–582, title II, § 202, Nov. 2, 1992, 106 Stat. 4905, provided that
 
   (B) appropriated for the purposes of this section;
 
-  (C) provided by an industry fee system established under subsection (d) of this section and in accordance with [section 53735 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section53735&num=0&edition=prelim); or
+  (C) provided by an industry fee system established under subsection (d) and in accordance with [section 53735 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section53735&num=0&edition=prelim); or
 
   (D) provided from any State or other public sources or private or non-profit organizations.
 
-(2) All funds for the program, including any fees established under subsection (d) of this section, shall be paid into the fishing capacity reduction fund established under [section 53735 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section53735&num=0&edition=prelim).
+(2) All funds for the program, including any fees established under subsection (d), shall be paid into the fishing capacity reduction fund established under [section 53735 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section53735&num=0&edition=prelim).
 
 **(d) Industry fee system**
 
@@ -5087,6 +5299,9 @@ Pub. L. 104–297, title I, § 116(b), Oct. 11, 1996, 110 Stat. 3603, as amended
 #### Codification
 Section was enacted as part of the Coast Guard and Maritime Transportation Act of 2004, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
+#### Termination of Reporting Requirement
+For provision terminating reporting requirement under this section, see section 4(b) of Pub. L. 111–207, set out as a Combination of Fisheries Enforcement Plans and Foreign Fishing Incursion Reports note under [section 1828 of this title](./chapter-038-fishery-conservation-and-management.md#section-1828).
+
 
 <a id="section-1862"></a>
 ## § 1862. North Pacific fisheries conservation
@@ -5168,7 +5383,7 @@ Section was enacted as part of the Coast Guard and Maritime Transportation Act o
 
     (i) such allocations may not be transferred for monetary consideration and are made only on an annual basis; and
 
-    (ii) any such conservation and management measures will meet the requirements of subsection (h) of this section and will result in an actual reduction in regulatory discards in the fishery.
+    (ii) any such conservation and management measures will meet the requirements of subsection (h) and will result in an actual reduction in regulatory discards in the fishery.
 
   (B) The North Pacific Council may submit restrictions in addition to the restriction imposed by clause (i) of subparagraph (A) on the transferability of any such allocations, and the Secretary may approve such recommendation.
 
@@ -5468,17 +5683,17 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 **(d) Use of registration** Any registration recommended under this section shall not be considered a permit for the purposes of this chapter, and the Secretary may not propose to revoke, suspend, deny, or impose any other conditions or restrictions on any such registration or the use of such registration under this chapter.
 
-**(e) Public comment** Within one year after October 11, 1996, the Secretary shall publish in the Federal Register for a 60-day public comment period a proposal that would provide for implementation of a standardized fishing vessel registration and information collection system that meets the requirements of subsections (a) through (c) of this section. The proposal shall include—
+**(e) Public comment** Within one year after October 11, 1996, the Secretary shall publish in the Federal Register for a 60-day public comment period a proposal that would provide for implementation of a standardized fishing vessel registration and information collection system that meets the requirements of subsections (a) through (c). The proposal shall include—
 
 (1) a description of the arrangements of the Secretary for consultation and cooperation with the department in which the Coast Guard is operating, the States, the Councils, Marine Fisheries Commissions, the fishing industry and other interested parties; and
 
 (2) any proposed regulations or legislation necessary to implement the proposal.
 
-**(f) Congressional transmittal** Within 60 days after the end of the comment period and after consideration of comments received under subsection (e) of this section, the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a recommended proposal for implementation of a national fishing vessel registration system that includes—
+**(f) Congressional transmittal** Within 60 days after the end of the comment period and after consideration of comments received under subsection (e), the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a recommended proposal for implementation of a national fishing vessel registration system that includes—
 
 (1) any modifications made after comment and consultation;
 
-(2) a proposed implementation schedule, including a schedule for the proposed cooperative agreements required under subsection (a)(4) of this section; and
+(2) a proposed implementation schedule, including a schedule for the proposed cooperative agreements required under subsection (a)(4); and
 
 (3) recommendations for any such additional legislation as the Secretary considers necessary or desirable to implement the proposed system.
 
@@ -5673,7 +5888,7 @@ A prior section 403 of Pub. L. 94–265 amended sections 1972 and 1973 of Title 
 
 **(b) Strategic plan** Within one year after October 11, 1996, and at least every 3 years thereafter, the Secretary shall develop and publish in the Federal Register a strategic plan for fisheries research for the 5 years immediately following such publication. The plan shall—
 
-(1) identify and describe a comprehensive program with a limited number of priority objectives for research in each of the areas specified in subsection (c) of this section;
+(1) identify and describe a comprehensive program with a limited number of priority objectives for research in each of the areas specified in subsection (c);
 
 (2) indicate goals and timetables for the program described in paragraph (1);
 
@@ -5693,7 +5908,7 @@ A prior section 403 of Pub. L. 94–265 amended sections 1972 and 1973 of Title 
 
 (4) Information management research, including the development of a fishery information base and an information management system that will permit the full use of information in the support of effective fishery conservation and management.
 
-**(d) Public notice** In developing the plan required under subsection (a) of this section, the Secretary shall consult with relevant Federal, State, and international agencies, scientific and technical experts, and other interested persons, public and private, and shall publish a proposed plan in the Federal Register for the purpose of receiving public comment on the plan. The Secretary shall ensure that affected commercial fishermen are actively involved in the development of the portion of the plan pertaining to conservation engineering research. Upon final publication in the Federal Register, the plan shall be submitted by the Secretary to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives.
+**(d) Public notice** In developing the plan required under subsection (a), the Secretary shall consult with relevant Federal, State, and international agencies, scientific and technical experts, and other interested persons, public and private, and shall publish a proposed plan in the Federal Register for the purpose of receiving public comment on the plan. The Secretary shall ensure that affected commercial fishermen are actively involved in the development of the portion of the plan pertaining to conservation engineering research. Upon final publication in the Federal Register, the plan shall be submitted by the Secretary to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives.
 
 ### Statutory Notes
 
@@ -5717,9 +5932,9 @@ Pub. L. 104–297, title II, § 208, Oct. 11, 1996, 110 Stat. 3614, as amended b
 ## § 1881d. Incidental harvest research
 **(a) Collection of information** Within nine months after October 11, 1996, the Secretary shall, after consultation with the Gulf Council and South Atlantic Council, conclude the collection of information in the program to assess the impact on fishery resources of incidental harvest by the shrimp trawl fishery within the authority of such Councils. Within the same time period, the Secretary shall make available to the public aggregated summaries of information collected prior to June 30, 1994 under such program.
 
-**(b) Identification of stock** The program concluded pursuant to subsection (a) of this section shall provide for the identification of stocks of fish which are subject to significant incidental harvest in the course of normal shrimp trawl fishing activity.
+**(b) Identification of stock** The program concluded pursuant to subsection (a) shall provide for the identification of stocks of fish which are subject to significant incidental harvest in the course of normal shrimp trawl fishing activity.
 
-**(c) Collection and assessment of specific stock information** For stocks of fish identified pursuant to subsection (b) of this section, with priority given to stocks which (based upon the best available scientific information) are considered to be overfished, the Secretary shall conduct—
+**(c) Collection and assessment of specific stock information** For stocks of fish identified pursuant to subsection (b), with priority given to stocks which (based upon the best available scientific information) are considered to be overfished, the Secretary shall conduct—
 
 (1) a program to collect and evaluate information on the nature and extent (including the spatial and temporal distribution) of incidental mortality of such stocks as a direct result of shrimp trawl fishing activities;
 
@@ -5765,7 +5980,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 (2) representatives from the Councils, States, fishing industry, conservation organizations, or others with expertise in the management of marine resources.
 
-**(c) Recommendations** Prior to selecting advisory panel members, the Secretary shall, with respect to panel members described in subsection (b)(1) of this section, solicit recommendations from the National Academy of Sciences.
+**(c) Recommendations** Prior to selecting advisory panel members, the Secretary shall, with respect to panel members described in subsection (b)(1), solicit recommendations from the National Academy of Sciences.
 
 **(d) Report** Within 2 years after October 11, 1996, the Secretary shall submit to the Congress a completed report of the panel established under this section, which shall include—
 

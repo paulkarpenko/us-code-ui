@@ -143,9 +143,13 @@ Sec. 6. General Provisions. (a) Insofar as the FACA may apply to the PMAB, any f
 Barack Obama.
 
 #### Extension of Term of President’s Management Advisory Board
-Term of President’s Management Advisory Board extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Management Advisory Board extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of President’s Management Advisory Board extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Previous extensions of term of President’s Management Advisory Board were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
+
+Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 2013.
 
 
 <a id="section-302"></a>

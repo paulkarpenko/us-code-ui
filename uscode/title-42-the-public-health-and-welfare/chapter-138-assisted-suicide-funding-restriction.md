@@ -37,7 +37,7 @@ Pub. L. 105–12, § 9(p), Apr. 30, 1997, 111 Stat. 29, provided that: “The fa
 
 <a id="section-14402"></a>
 ## § 14402. Restriction on use of Federal funds under health care programs
-**(a) Restriction on Federal funding of health care services** Subject to subsection (b) of this section, no funds appropriated by Congress for the purpose of paying (directly or indirectly) for the provision of health care services may be used—
+**(a) Restriction on Federal funding of health care services** Subject to subsection (b), no funds appropriated by Congress for the purpose of paying (directly or indirectly) for the provision of health care services may be used—
 
 (1) to provide any health care item or service furnished for the purpose of causing, or for the purpose of assisting in causing, the death of any individual, such as by assisted suicide, euthanasia, or mercy killing;
 
@@ -45,7 +45,7 @@ Pub. L. 105–12, § 9(p), Apr. 30, 1997, 111 Stat. 29, provided that: “The fa
 
 (3) to pay (in whole or in part) for health benefit coverage that includes any coverage of such an item or service or of any expenses relating to such an item or service.
 
-**(b) Construction and treatment of certain services** Nothing in subsection (a) of this section, or in any other provision of this chapter (or in any amendment made by this chapter), shall be construed to apply to or to affect any limitation relating to—
+**(b) Construction and treatment of certain services** Nothing in subsection (a), or in any other provision of this chapter (or in any amendment made by this chapter), shall be construed to apply to or to affect any limitation relating to—
 
 (1) the withholding or withdrawing of medical treatment or medical care;
 
@@ -55,7 +55,7 @@ Pub. L. 105–12, § 9(p), Apr. 30, 1997, 111 Stat. 29, provided that: “The fa
 
 (4) the use of an item, good, benefit, or service furnished for the purpose of alleviating pain or discomfort, even if such use may increase the risk of death, so long as such item, good, benefit, or service is not also furnished for the purpose of causing, or the purpose of assisting in causing, death, for any reason.
 
-**(c) Limitation on Federal facilities and employees** Subject to subsection (b) of this section, with respect to health care items and services furnished—
+**(c) Limitation on Federal facilities and employees** Subject to subsection (b), with respect to health care items and services furnished—
 
 (1) by or in a health care facility owned or operated by the Federal government, or
 
@@ -64,7 +64,7 @@ no such item or service may be furnished for the purpose of causing, or for the 
 
 **(d) List of programs to which restrictions apply**
 
-(1) **Federal health care funding programs** — Subsection (a) of this section applies to funds appropriated under or to carry out the following:
+(1) **Federal health care funding programs** — Subsection (a) applies to funds appropriated under or to carry out the following:
 
   (A) *Medicare program* — Title XVIII of the Social Security Act [[42 U.S.C. 1395](./chapter-007-social-security.md#section-1395) et seq.].
 
@@ -88,7 +88,7 @@ no such item or service may be furnished for the purpose of causing, or for the 
 
   (K) *Medical services for Federal prisoners* — [Section 4005(a) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4005/a&num=0&edition=prelim).
 
-(2) **Federal facilities and personnel** — The provisions of subsection (c) of this section apply to facilities and personnel of the following:
+(2) **Federal facilities and personnel** — The provisions of subsection (c) apply to facilities and personnel of the following:
 
   (A) *Military health care system* — The Department of Defense operating under chapter 55 of title 10.
 
@@ -96,7 +96,7 @@ no such item or service may be furnished for the purpose of causing, or for the 
 
   (C) *Public Health Service* — The Public Health Service.
 
-(3) **Nonexclusive list** — Nothing in this subsection shall be construed as limiting the application of subsection (a) of this section to the programs specified in paragraph (1) or the application of subsection (c) of this section to the facilities and personnel specified in paragraph (2).
+(3) **Nonexclusive list** — Nothing in this subsection shall be construed as limiting the application of subsection (a) to the programs specified in paragraph (1) or the application of subsection (c) to the facilities and personnel specified in paragraph (2).
 
 ### Statutory Notes
 
@@ -138,7 +138,7 @@ Pub. L. 106–402, § 401(b)(15)(A)(ii), substituted “subtitle B, D, or E of t
 
 **(b) List of programs to which restrictions apply**
 
-(1) **In general** — Subsection (a) of this section applies to funds appropriated under or to carry out the following:
+(1) **In general** — Subsection (a) applies to funds appropriated under or to carry out the following:
 
   (A) *Protection and advocacy systems under the Developmental Disabilities Assistance and Bill of Rights Act of 2000* — Subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [[42 U.S.C. 15041](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15041) et seq.].
 
@@ -150,7 +150,7 @@ Pub. L. 106–402, § 401(b)(15)(A)(ii), substituted “subtitle B, D, or E of t
 
   (E) *Legal assistance* — Legal assistance programs under the Legal Services Corporation Act [[42 U.S.C. 2996](./chapter-034-economic-opportunity-program.md#section-2996) et seq.].
 
-(2) **Nonexclusive list** — Nothing in this subsection shall be construed as limiting the application of subsection (a) of this section to the programs specified in paragraph (1).
+(2) **Nonexclusive list** — Nothing in this subsection shall be construed as limiting the application of subsection (a) to the programs specified in paragraph (1).
 
 ### Statutory Notes
 
@@ -171,7 +171,7 @@ The Legal Services Corporation Act, referred to in subsec. (b)(1)(E), is title X
 ## § 14405. Restriction on use of other Federal funds
 **(a) In general** Subject to [section 14402(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14402/b&num=0&edition=prelim) (relating to construction and treatment of certain services) and subsection (b) of this section, no funds appropriated by the Congress shall be used to provide, procure, furnish, or fund any item, good, benefit, activity, or service, furnished or performed for the purpose of causing, or assisting in causing, the suicide, euthanasia, or mercy killing of any individual.
 
-**(b) Nonduplication** Subsection (a) of this section shall not apply to funds to which section 14402, 14403, or 14404 of this title applies, except that subsection (a) of this section, rather than [section 14402 of this title](./chapter-138-assisted-suicide-funding-restriction.md#section-14402), shall apply to funds appropriated to carry out title 10 (other than chapter 55), title 18 (other than section 4005(a)), and chapter 37 of title 28.
+**(b) Nonduplication** Subsection (a) shall not apply to funds to which section 14402, 14403, or 14404 of this title applies, except that subsection (a), rather than [section 14402 of this title](./chapter-138-assisted-suicide-funding-restriction.md#section-14402), shall apply to funds appropriated to carry out title 10 (other than chapter 55), title 18 (other than section 4005(a)), and chapter 37 of title 28.
 
 
 <a id="section-14406"></a>

@@ -2,7 +2,7 @@
 title: 50
 chapter: '48'
 heading: DEPARTMENT OF DEFENSE COOPERATIVE THREAT REDUCTION
-section_count: 15
+section_count: 16
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -88,7 +88,7 @@ Pub. L. 113–291, div. A, title XIII, § 1311, Dec. 19, 2014, 128 Stat. 3595, p
 
 **(g) Prior notice to Congress of obligation of funds**
 
-(1) **Annual requirement** — Not less than 15 days before any obligation of any Cooperative Threat Reduction funds, the Secretary of Defense shall submit to the congressional defense committees a report on that proposed obligation of such funds for that fiscal year.
+(1) **Reports requirement** — Not less than 45 days before any obligation of any Cooperative Threat Reduction funds, the Secretary of Defense shall submit to the congressional defense committees a report on that proposed obligation of such funds for that fiscal year (or, in accordance with [section 3735(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3735/b&num=0&edition=prelim), the semiannual period covered by the report).
 
 (2) **Matters included** — Each report under paragraph (1) shall specify—
 
@@ -98,26 +98,14 @@ Pub. L. 113–291, div. A, title XIII, § 1311, Dec. 19, 2014, 128 Stat. 3595, p
 
   (C) the projected involvement (if any) of any other department or agency of the United States and of the private sector of the United States in the activities and forms of assistance for which the Secretary plans to obligate such funds.
 
-(3) **Exception for notifications previously provided** — Paragraph (1) shall not apply with respect to a proposed obligation of Cooperative Threat Reduction funds that is covered by a notification previously submitted by the Secretary to the congressional defense committees that includes the matters described in subparagraphs (A) through (C) of paragraph (2).
+(3) **Exception for notifications previously provided** — Except for Cooperative Threat Reduction funds subject to [section 3735 of this title](./chapter-048-department-of-defense-cooperative-threat-reduction.md#section-3735), paragraph (1) shall not apply with respect to a proposed obligation of Cooperative Threat Reduction funds that is covered by a notification previously submitted by the Secretary to the congressional defense committees that includes the matters described in subparagraphs (A) through (C) of paragraph (2).
 
 ### Statutory Notes
 
-#### Congressional Notification
-Pub. L. 113–66, div. A, title XII, § 1246(c)(3), Dec. 26, 2013, 127 Stat. 924, as amended by Pub. L. 113–291, div. A, title XII, § 1243(3), Dec. 19, 2014, 128 Stat. 3564, provided that: “If the Secretary of Defense intends to provide the Russian Federation with any sensitive missile defense information that the Secretary determines will not compromise United States national security, the Secretary shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives of the Secretary’s intent to provide such information not less than 7 days prior to the provision of such information, including an explanation of the reasons for providing the information and the reasons why providing the information will not compromise United States national security.”
+#### Amendments
+2016—Subsec. (g)(1). Pub. L. 114–328, §§ 1302(b)(1), 1303(b)(1), in heading substituted “Reports requirement” for “Annual requirement” and in text substituted “45 days” for “15 days” and inserted “(or, in accordance with [section 3735(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3735/b&num=0&edition=prelim), the semiannual period covered by the report)” after “that fiscal year”.
 
-#### Briefing
-Pub. L. 113–66, div. A, title XII, § 1251(b), Dec. 26, 2013, 127 Stat. 926, provided that: “Prior to signing an executive agreement with the Russian Federation relating to ballistic missile defense, the President, or the President’s designee, shall brief the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives on the objectives and contents of the executive agreement.”
-
-#### Sharing of Classified United States Ballistic Missile Defense Information With the Russian Federation
-Pub. L. 112–81, div. A, title XII, § 1244, Dec. 31, 2011, 125 Stat. 1646, provided that: “(a) Notification.—No classified United States ballistic missile defense information may be made available to the Russian Federation unless, 60 days prior to any instance in which the United States Government plans to provide such information to the Russian Federation, the President provides notification thereof to the appropriate congressional committees. “(b) Elements of Notification.—Each notification provided pursuant to subsection (a) shall include the following:“(1) A detailed description of the classified United States ballistic missile defense information to be provided. “(2) An explanation of the national security interest in providing the information to the Russian Federation and any provisions for reciprocal sharing by the Russian Federation with the United States on its defensive systems. “(3) A certification that providing the information is consistent with United States national disclosure policy as of the date of enactment of this Act [Dec. 31, 2011] and that the decision to provide the information was made pursuant to a national disclosure policy review. “(4) If applicable, a detailed explanation of whether any exceptions to national disclosure policy were required in order to provide the information to the Russian Federation and why such exceptions were required. “(5) A certification that adequate measures are in place to protect the information from unauthorized disclosure. The certification shall include a description of the manner in which the information will be protected from unauthorized sharing or transfer to third parties as well as an analysis of the risks to the capabilities of the United States ballistic missile defense system if the information is shared or transferred to an unauthorized third party. “(c) Form.—Each notification provided pursuant to subsection (a) shall be submitted in unclassified form, but may include a classified annex. “(d) Appropriate Congressional Committees Defined.—For the purposes of this section, the term ‘appropriate congressional committees’ means—“(1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and “(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives. “(e) Classified United States Ballistic Missile Defense Information Defined.—For the purposes of this section, the term ‘classified United States ballistic missile defense information’ means information related to United States ballistic missile defenses that is classified as of, or after, the date of enactment of this Act [Dec. 31, 2011].”
-
-#### Accelerated Disposition of Highly Enriched Uranium
-Pub. L. 107–314, div. C, title XXXI, § 3157, Dec. 2, 2002, 116 Stat. 2740, provided that: “(a) Program on Accelerated Disposition of HEU Authorized.—(1) The Secretary of Energy may carry out a program to pursue with the Russian Federation options for blending highly enriched uranium so that the concentration of U–235 in such uranium is below 20 percent. “(2) The options pursued under paragraph (1) shall include expansion of the Material Consolidation and Conversion program of the Department of Energy to include—“(A) additional facilities for the blending of highly enriched uranium; and “(B) additional centralized secure storage facilities for highly enriched uranium designated for blending. “(3) Any site selected for the storage of uranium or blended material under paragraph (2)(B) shall undergo complete materials protection, control, and accounting upgrades before the commencement of the storage of uranium or blended material at such site under the program. “(b) Construction With HEU Disposition Agreement.—Nothing in this section may be construed as terminating, modifying, or otherwise affecting requirements for the disposition of highly enriched uranium under the Agreement Between the Government of the United States of America and the Government of the Russian Federation Concerning the Disposition of Highly Enriched Uranium Extracted from Nuclear Weapons, signed at Washington on February 18, 1993. “(c) Limitation on Release for Sale of Blended Uranium.—Uranium blended under this section may not be released for sale until the earlier of—“(1) January 1, 2014; or “(2) the date on which the Secretary certifies that such uranium can be absorbed into the global market without undue disruption to the uranium mining, conversion, and enrichment industry in the United States. “(d) Amount for Activities.—Of the amount to be appropriated by section 3101(a)(2) [116 Stat. 2729] for the Department of Energy for the National Nuclear Security Administration for defense nuclear nonproliferation, up to $10,000,000 may be available for carrying out this section.”
-
-#### Plan for Securing Nuclear Weapons, Material, and Expertise of the States of the Former Soviet Union
-Pub. L. 107–107, div. A, title XII, § 1205, Dec. 28, 2001, 115 Stat. 1247, as amended by Pub. L. 107–314, div. A, title XII, § 1205, Dec. 2, 2002, 116 Stat. 2664, provided that: “(a) Plan Required.—Not later than June 15, 2002, the President shall submit to Congress a plan, that has been developed in coordination with all relevant Federal agencies—“(1) for cooperating with Russia on disposing, as soon as practicable, of nuclear weapons and weapons-usable nuclear material in Russia that Russia does not retain in its nuclear arsenals; “(2) for assisting Russia in downsizing its nuclear weapons research and production complex; “(3) for cooperating with the other states of the former Soviet Union on disposing, as soon as practicable, of all nuclear weapons and weapons-usable nuclear material in such states; and “(4) for preventing the outflow from the states of the former Soviet Union of scientific expertise that could be used for developing nuclear weapons, other weapons of mass destruction, and delivery systems for such weapons. “(b) Content of Plan.—The plan required by subsection (a) shall include the following:“(1) Specific goals and measurable objectives for programs that are designed to carry out the objectives described in subsection (a). “(2) Criteria for success for such programs, and a strategy for eventual termination of United States contributions to such programs and assumption of the ongoing support of those programs by others. “(3) A description of any administrative and organizational changes necessary to improve the coordination and effectiveness of such programs. In particular, the plan shall include consideration of the creation of an interagency committee that would have primary responsibilities within the executive branch for—“(A) monitoring United States nonproliferation efforts in the states of the former Soviet Union; “(B) coordinating the implementation of United States policy with respect to such efforts; and “(C) recommending to the President integrated policies, budget options, and private sector and international contributions for such programs. “(4) An estimate of the cost of carrying out such programs. “(c) Consultation.—In developing the plan required by subsection (a), the President—“(1) is encouraged to consult with the relevant states of the former Soviet Union regarding the practicality of various options; and “(2) shall consult with the majority and minority leadership of the appropriate committees of Congress. “(d) Annual Report on Implementation of Plan.—(1) Not later than January 31, 2003, and each year thereafter, the President shall submit to Congress a report on the implementation of the plan required by subsection (a) during the preceding year. “(2) Each report under paragraph (1) shall include—“(A) a discussion of progress made during the year covered by such report in the matters of the plan required by subsection (a); “(B) a discussion of consultations with foreign nations, and in particular the Russian Federation, during such year on joint programs to implement the plan; “(C) a discussion of cooperation, coordination, and integration during such year in the implementation of the plan among the various departments and agencies of the United States Government, as well as private entities that share objectives similar to the objectives of the plan; and “(D) any recommendations that the President considers appropriate regarding modifications to law or regulations, or to the administration or organization of any Federal department or agency, in order to improve the effectiveness of any programs carried out during such year in the implementation of the plan.”
-
-[Functions of President under section 1205(d) of Pub. L. 107–107, set out above, delegated to Secretary of State by Memorandum of President of the United States, Nov. 2, 2005, 70 F.R. 72055.]
+Subsec. (g)(3). Pub. L. 114–328, § 1303(b)(2), substituted “Except for Cooperative Threat Reduction funds subject to [section 3735 of this title](./chapter-048-department-of-defense-cooperative-threat-reduction.md#section-3735), paragraph (1)” for “Paragraph (1)”.
 
 
 <a id="section-3713"></a>
@@ -134,15 +122,26 @@ Pub. L. 107–107, div. A, title XII, § 1205, Dec. 28, 2001, 115 Stat. 1247, as
 
 (3) That the Department of Defense is the entity of the Federal Government that is most capable of carrying out such project or activity.
 
-**(b) Congressional notification** At the time at which the Secretary obligates funds under subsection (a) for a project or activity, the Secretary of Defense shall notify, in writing, the congressional defense committees and the Secretary of State shall notify, in writing, the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate of the determinations made under such subsection with respect to such project or activity, together with—
+**(b) Congressional notification** Not later than 15 days before the date on which the Secretary obligates funds under subsection (a) for a project or activity, the Secretary of Defense shall notify, in writing, the congressional defense committees and the Secretary of State shall notify, in writing, the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate of the determinations made under such subsection with respect to such project or activity, together with—
 
-(1) a justification for such determinations; and
+(1) a justification for such determinations;
 
-(2) a description of the scope and duration of such project or activity.
+(2) a description of the scope and duration of such project or activity; and
+
+(3) a discussion of—
+
+  (A) whether authorities other than the authority under this section are available to the Secretaries to perform such project or activity to meet the threats or goals identified under subsection (a)(1); and
+
+  (B) if such other authorities exist, why the Secretaries were not able to use such authorities for such project or activity.
 
 **(c) Non-defense agency partner-nation contacts** With respect to military-to-military and defense contacts carried out under subsection (a)(6) of [section 3711 of this title](./chapter-048-department-of-defense-cooperative-threat-reduction.md#section-3711), as further described in subsection (f) of such section, concurrence of the Secretary of State under subsection (a) is required only for participation in such contacts by personnel from non-defense agencies of foreign countries.
 
 **(d) Exception to requirement for certain determinations** The requirement for a determination under subsection (a) shall not apply to a state of the former Soviet Union.
+
+### Statutory Notes
+
+#### Amendments
+2016—Subsec. (b). Pub. L. 114–328 substituted “Not later than 15 days before the date on which” for “At the time at which” in introductory provisions and added par. (3).
 
 
 <a id="section-3714"></a>
@@ -161,7 +160,7 @@ Pub. L. 107–107, div. A, title XII, § 1205, Dec. 28, 2001, 115 Stat. 1247, as
 
 (2) the Secretary of State and the Secretary of Energy concur with such determination; and
 
-(3) at the time at which the Secretary of Defense first obligates such funds, the Secretary of Defense, in consultation with the Secretary of State, submits to the congressional defense committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate—
+(3) not later than seven days before the date on which the Secretary of Defense first obligates such funds, the Secretary of Defense, in consultation with the Secretary of State, submits to the congressional defense committees, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate—
 
   (A) the determination under paragraph (1);
 
@@ -191,6 +190,11 @@ Pub. L. 107–107, div. A, title XII, § 1205, Dec. 28, 2001, 115 Stat. 1247, as
 
 **(d) Covered activity defined** In this section, the term “covered activity” means an activity under the Program to address a threat arising from the proliferation of chemical, nuclear, or biological weapons or weapons-related materials, technologies, or expertise.
 
+### Statutory Notes
+
+#### Amendments
+2016—Subsec. (b)(3). Pub. L. 114–328 substituted “not later than seven days before the date on which” for “at the time at which” in introductory provisions.
+
 
 <a id="section-3715"></a>
 ## § 3715. Use of funds for unspecified purposes or for increased amounts
@@ -206,7 +210,7 @@ Pub. L. 107–107, div. A, title XII, § 1205, Dec. 28, 2001, 115 Stat. 1247, as
 
     (ii) a complete discussion of the purpose and justification for such obligation or expenditure, including the amount of funds to be obligated or expended; and
 
-  (C) a period of 15 days has elapsed following the date on which the Secretary submits the notification and discussion under subparagraph (B).
+  (C) a period of 45 days has elapsed following the date on which the Secretary submits the notification and discussion under subparagraph (B).
 
 (2) **Construction with other laws** — Paragraph (1) may not be construed to authorize the obligation or expenditure of Cooperative Threat Reduction Program funds for a purpose for which the obligation or expenditure of such funds is specifically prohibited under [section 3731 of this title](./chapter-048-department-of-defense-cooperative-threat-reduction.md#section-3731) or any other provision of law.
 
@@ -220,7 +224,12 @@ Pub. L. 107–107, div. A, title XII, § 1205, Dec. 28, 2001, 115 Stat. 1247, as
 
   (B) a complete discussion of the justification for exceeding such specified amounts, including the amount by which the Secretary will exceed such specified amounts; and
 
-(3) a period of 15 days has elapsed following the date on which the Secretary submits the notification and discussion under paragraph (2).
+(3) a period of 45 days has elapsed following the date on which the Secretary submits the notification and discussion under paragraph (2).
+
+### Statutory Notes
+
+#### Amendments
+2016—Subsecs. (a)(1)(C), (b)(3). Pub. L. 114–328 substituted “45 days” for “15 days”.
 
 
 <a id="section-3731"></a>
@@ -349,8 +358,8 @@ Pub. L. 107–107, div. A, title XII, § 1205, Dec. 28, 2001, 115 Stat. 1247, as
 (2) The term “permit” means any local or national permit for development, general construction, environmental, land use, or other purposes that is required for purposes of major construction.
 
 
-<a id="section-3741"></a>
-## § 3741. Limitation on availability of funds for Cooperative Threat Reduction activities with Russian Federation
+<a id="section-3735"></a>
+## § 3735. Limitation on availability of funds for Cooperative Threat Reduction activities with Russian Federation
 **(a) Sense of Congress** It is the sense of Congress that—
 
 (1) the United States should carry out activities under the Program in the Russian Federation only if those activities are consistent with and in support of the security interests of the United States; and
@@ -361,7 +370,36 @@ Pub. L. 107–107, div. A, title XII, § 1205, Dec. 28, 2001, 115 Stat. 1247, as
 
   (B) will reduce the threats posed by weapons of mass destruction and related materials and technology to the United States and countries in the Euro-Atlantic and Eurasian regions.
 
-**(b) Completion of Cooperation Threat Reduction activities in Russian Federation** Cooperative Threat Reduction funds made available for a fiscal year after fiscal year 2015 may not be obligated or expended for activities in the Russian Federation unless such activities in Russia are specifically authorized by law.
+**(b) Completion of Cooperative Threat Reduction activities in Russian Federation** Cooperative Threat Reduction funds made available for a fiscal year after fiscal year 2015 may not be obligated or expended for activities in the Russian Federation unless such activities in Russia are specifically authorized by law.
+
+
+<a id="section-3741"></a>
+## § 3741. Limitation on availability of funds for Cooperative Threat Reduction activities in People’s Republic of China
+**(a) Semiannual installments** In carrying out activities under the Program in the People’s Republic of China, the Secretary of Defense shall ensure that Cooperative Threat Reduction funds for such activities are obligated or expended in semiannual installments.
+
+**(b) Required reports**
+
+(1) **Additional information** — With respect to carrying out activities under the Program in the People’s Republic of China, the Secretary of Defense shall submit to the congressional defense committees the reports required by [section 3711(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3711/g&num=0&edition=prelim) on a semiannual basis by not later than 15 days before any obligation of Cooperative Threat Reduction funds for such activities during the covered semiannual period. In addition to the matters required by such section, each such report shall include, in coordination with the Secretary of State—
+
+  (A) whether China has taken material steps to—
+
+    (i) disrupt the proliferation activities of Li Fangwei (also known as Karl Lee, or any other alias known by the United States); and
+
+    (ii) arrest Li Fangwei pursuant the indictment charged in the United States District Court for the Southern District of New York on April 29, 2014;
+
+  (B) whether China has proliferated to any non-nuclear weapons state, or any nuclear weapons state in violation of the Treaty on the Non-Proliferation of Nuclear Weapons, any item that contributes to a ballistic missile or nuclear weapons delivery system; and
+
+  (C) the number, type, and summary of any demarches between the United States and China with respect to the matters described in subparagraphs (A) and (B).
+
+(2) **Additional submissions** — At the same time as the Secretary of Defense submits to the congressional defense committees the information described in subparagraphs (A), (B), and (C) of paragraph (1) as part of the reports required by [section 3711(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3711/g&num=0&edition=prelim), the Secretary shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate such information.
+
+(3) **Coverage** — With respect to the information described in subparagraphs (A), (B), and (C) of paragraph (1)—
+
+  (A) the first report described in such paragraph that is submitted after December 23, 2016, shall cover the preceding 12-month period before the date of such submission; and
+
+  (B) each subsequent report shall cover the semiannual period preceding the date of such submission.
+
+(4) **Form** — The information described in subparagraphs (A), (B), and (C) of paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
 
 
 <a id="section-3742"></a>
@@ -440,6 +478,11 @@ Not later than the first Monday in February each year, the Secretary of Defense 
   (E) a description of participation by private sector entities in the United States in carrying out such activities, and the participation of any other department or agency of the Federal Government in such activities; and
 
   (F) any other information that the Secretary considers relevant to provide a complete description of the operation and success of activities carried out under the Program.
+
+### Statutory Notes
+
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-3751"></a>

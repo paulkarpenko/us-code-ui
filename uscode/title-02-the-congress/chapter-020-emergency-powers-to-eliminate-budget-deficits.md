@@ -315,7 +315,7 @@ William J. Clinton.
 
   (A) *CBO estimates* — As soon as practicable after Congress completes action on any discretionary appropriation, CBO, after consultation with the Committees on the Budget of the House of Representatives and the Senate, shall provide OMB with an estimate of the amount of discretionary new budget authority and outlays for the current year, if any, and the budget year provided by that legislation.
 
-  (B) *OMB estimates and explanation of differences* — Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays for the current year, if any, and the budget year provided by that legislation, and an explanation of any difference between the 2 estimates. If during the preparation of the report OMB determines that there is a significant difference between OMB and CBO, OMB shall consult with the Committees on the Budget of the House of Representatives and the Senate regarding that difference and that consultation shall include, to the extent practicable, written communication to those committees that affords such committees the opportunity to comment before the issuance of the report.
+  (B) *OMB estimates and explanation of differences* — Not later than 7 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing both the CBO and OMB estimates of the amount of discretionary new budget authority for the current year, if any, and the budget year provided by that legislation, and an explanation of any difference between the 2 estimates. If during the preparation of the report OMB determines that there is a significant difference between OMB and CBO, OMB shall consult with the Committees on the Budget of the House of Representatives and the Senate regarding that difference and that consultation shall include, to the extent practicable, written communication to those committees that affords such committees the opportunity to comment before the issuance of the report.
 
   (C) *Assumptions and guidelines* — OMB estimates under this paragraph shall be made using current economic and technical assumptions. OMB shall use the OMB estimates transmitted to the Congress under this paragraph. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the Committees on the Budget of the House of Representatives and the Senate, CBO, and OMB.
 
@@ -336,7 +336,7 @@ William J. Clinton.
 
   (B) *Continuing disability reviews and redeterminations*
 
-    (i) If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under titles II and XVI of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq., 1381 et seq.] and for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, then the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such expenses for that fiscal year, but shall not exceed—
+    (i) If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under titles II and XVI of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq., 1381 et seq.], for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in the programs and operations of the Social Security Administration by Special Assistant United States Attorneys, then the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such expenses for that fiscal year, but shall not exceed—
 
       (I) for fiscal year 2012, $623,000,000 in additional new budget authority;
 
@@ -348,23 +348,23 @@ William J. Clinton.
 
       (V) for fiscal year 2016, $1,166,000,000 in additional new budget authority;
 
-      (VI) for fiscal year 2017, $1,309,000,000 in additional new budget authority;
+      (VI) for fiscal year 2017, $1,546,000,000 in additional new budget authority;
 
-      (VII) for fiscal year 2018, $1,309,000,000 in additional new budget authority;
+      (VII) for fiscal year 2018, $1,462,000,000 in additional new budget authority;
 
-      (VIII) for fiscal year 2019, $1,309,000,000 in additional new budget authority;
+      (VIII) for fiscal year 2019, $1,410,000,000 in additional new budget authority;
 
       (IX) for fiscal year 2020, $1,309,000,000 in additional new budget authority; and
 
-      (X) for fiscal year 2021, $1,309,000,000 in additional new budget authority.
+      (X) for fiscal year 2021, $1,302,000,000 in additional new budget authority.
 
     (ii) As used in this subparagraph—
 
-      (I) the term “continuing disability reviews” means continuing disability reviews under sections 221(i) and 1614(a)(4) of the Social Security Act [[42 U.S.C. 421(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section421/i&num=0&edition=prelim), 1382c(a)(4)];
+      (I) the term “continuing disability reviews” means continuing disability reviews under sections 221(i) and 1614(a)(4) of the Social Security Act [[42 U.S.C. 421(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section421/i&num=0&edition=prelim), 1382c(a)(4)], including work-related continuing disability reviews to determine whether earnings derived from services demonstrate an individual’s ability to engage in substantial gainful activity;
 
       (II) the term “redetermination” means redetermination of eligibility under sections 1611(c)(1) and 1614(a)(3)(H) of the Social Security Act [[42 U.S.C. 1382(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382/c/1&num=0&edition=prelim), 1382c(a)(3)(H)]; and
 
-      (III) the term “additional new budget authority” means the amount provided for a fiscal year, in excess of $273,000,000, in an appropriation Act and specified to pay for the costs of continuing disability reviews and redeterminations under the heading “Limitation on Administrative Expenses” for the Social Security Administration.
+      (III) the term “additional new budget authority” means the amount provided for a fiscal year, in excess of $273,000,000, in an appropriation Act and specified to pay for the costs of continuing disability reviews, redeterminations, co-operative disability investigation units, and fraud prosecutions under the heading “Limitation on Administrative Expenses” for the Social Security Administration.
 
   (C) *Health care fraud and abuse control*
 
@@ -422,15 +422,15 @@ William J. Clinton.
 
 (3) for fiscal year 2016—
 
-  (A) for the revised security category, $577,000,000,000 in new budget authority; and
+  (A) for the revised security category, $548,091,000,000 in new budget authority; and
 
-  (B) for the revised nonsecurity category, $530,000,000,000 in new budget authority;
+  (B) for the revised nonsecurity category $518,491,000,000 in new budget authority;
 
 (4) for fiscal year 2017—
 
-  (A) for the revised security category, $590,000,000,000 in new budget authority; and
+  (A) for the revised security category, $551,068,000,000 in new budget authority; and
 
-  (B) for the revised nonsecurity category, $541,000,000,000 in new budget authority;
+  (B) for the revised nonsecurity category, $518,531,000,000 in new budget authority;
 
 (5) for fiscal year 2018—
 
@@ -466,6 +466,24 @@ The Social Security Act, referred to in subsec. (b)(2)(B)(i), is act Aug. 14, 19
 Pub. L. 101–508, § 13101(e)(2), redesignated former subsec. (a)(6)(I) of this section as section 257(e) of Pub. L. 99–177, which is classified to [section 907(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section907/e&num=0&edition=prelim).
 
 #### Amendments
+2015—Subsec. (a)(7)(B). Pub. L. 114–113 substituted “both the CBO and OMB estimates of the amount of discretionary new budget authority” for “the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays”.
+
+Subsec. (b)(2)(B)(i). Pub. L. 114–74, § 815(1)(A), in introductory provisions, substituted “, for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in the programs and operations of the Social Security Administration by Special Assistant United States Attorneys” for “and for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act”.
+
+Subsec. (b)(2)(B)(i)(VI). Pub. L. 114–74, § 815(1)(B), substituted “$1,546,000,000” for “$1,309,000,000”.
+
+Subsec. (b)(2)(B)(i)(VII). Pub. L. 114–74, § 815(1)(C), substituted “$1,462,000,000” for “$1,309,000,000”.
+
+Subsec. (b)(2)(B)(i)(VIII). Pub. L. 114–74, § 815(1)(D), substituted “$1,410,000,000” for “$1,309,000,000”.
+
+Subsec. (b)(2)(B)(i)(X). Pub. L. 114–74, § 815(1)(E), substituted “$1,302,000,000” for “$1,309,000,000”.
+
+Subsec. (b)(2)(B)(ii)(I). Pub. L. 114–74, § 815(2), inserted before semicolon “, including work-related continuing disability reviews to determine whether earnings derived from services demonstrate an individual’s ability to engage in substantial gainful activity”.
+
+Subsec. (b)(2)(B)(ii)(III). Pub. L. 114–74, § 815(3), substituted “, redeterminations, co-operative disability investigation units, and fraud prosecutions” for “and redeterminations”.
+
+Subsec. (c)(3), (4). Pub. L. 114–74, § 101(a), added pars. (3) and (4) and struck out former pars. (3) and (4) which defined discretionary spending limits for fiscal years 2016 and 2017.
+
 2013—Subsec. (c). Pub. L. 113–67 added pars. (1) to (8) and struck out former pars. (1) to (10) which defined discretionary spending limits for fiscal years 2012 to 2021.
 
 Subsec. (c)(2), (3). Pub. L. 112–240 amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
@@ -649,7 +667,7 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
 
     (ii) for the revised nonsecurity category, an amount equal to the nondefense function discretionary reduction calculated pursuant to paragraph (4).
 
-  (B) *Fiscal years 2014–2021* — Except as provided by paragraph (10), on the date of the submission of its sequestration preview report for fiscal years 2014 through 2021 pursuant to [section 904(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section904/c&num=0&edition=prelim) for each of fiscal years 2014 through 2021, OMB shall reduce the discretionary spending limit—
+  (B) *Fiscal years 2014–2021* — Except as provided by paragraphs (10) and (11), on the date of the submission of its sequestration preview report for fiscal years 2014 through 2021 pursuant to [section 904(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section904/c&num=0&edition=prelim) for each of fiscal years 2014 through 2021, OMB shall reduce the discretionary spending limit—
 
     (i) for the revised security category by the amount of the defense function discretionary reduction calculated pursuant to paragraph (3); and
 
@@ -659,19 +677,13 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
 
   (A) On the date specified in paragraph (2) during each applicable year, OMB shall prepare and the President shall order a sequestration, effective upon issuance, of nonexempt direct spending to achieve the direct spending reduction calculated pursuant to paragraphs (3) and (4). When implementing the sequestration of direct spending pursuant to this paragraph, OMB shall follow the procedures specified in [section 935 of this title](./chapter-20a-statutory-pay-as-you-go.md#section-935), the exemptions specified in [section 905 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-905), and the special rules specified in [section 906 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-906), except that the percentage reduction for the Medicare programs specified in [section 906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/d&num=0&edition=prelim) shall not be more than 2 percent for a fiscal year.
 
-  (B) On the dates OMB issues its sequestration preview reports for fiscal year 2022, for fiscal year 2023, and for fiscal year 2024, pursuant to [section 904(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section904/c&num=0&edition=prelim), the President shall order a sequestration, effective upon issuance such that—
+  (B) On the dates OMB issues its sequestration preview reports for fiscal year 2022, for fiscal year 2023, for fiscal year 2024, and for fiscal year 2025, pursuant to [section 904(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section904/c&num=0&edition=prelim), the President shall order a sequestration, effective upon issuance such that—
 
     (i) the percentage reduction for nonexempt direct spending for the defense function is the same percent as the percentage reduction for nonexempt direct spending for the defense function for fiscal year 2021 calculated under paragraph (3)(B); and
 
     (ii) the percentage reduction for nonexempt direct spending for nondefense functions is the same percent as the percentage reduction for nonexempt direct spending for nondefense functions for fiscal year 2021 calculated under paragraph (4)(B).
 
-  (C) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in [section 906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/d&num=0&edition=prelim), the sequestration order of the President under such subparagraph for fiscal year 2023 shall be applied to such payments so that—
-
-    (i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 2.90 percent; and
-
-    (ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 1.11 percent.
-
-  (D) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in [section 906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/d&num=0&edition=prelim), the sequestration order of the President under such subparagraph for fiscal year 2024 shall be applied to such payments so that—
+  (C) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in [section 906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/d&num=0&edition=prelim), the sequestration order of the President under such subparagraph for fiscal year 2025 shall be applied to such payments so that—
 
     (i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 4.0 percent; and
 
@@ -689,6 +701,12 @@ Discretionary appropriations and direct spending accounts shall be reduced in ac
 
   (B) Paragraph (5)(B) shall not be implemented for fiscal years 2014 and 2015.
 
+(11) **Implementing direct spending reductions for fiscal years 2016 and 2017**
+
+  (A) OMB shall make the calculations necessary to implement the direct spending reductions calculated pursuant to paragraphs (3) and (4) without regard to the amendment made to [section 901(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/c&num=0&edition=prelim) revising the discretionary spending limits for fiscal years 2016 and 2017 by the Bipartisan Budget Act of 2015.
+
+  (B) Paragraph (5)(B) shall not be implemented for fiscal years 2016 and 2017.
+
 ### Statutory Notes
 
 #### References in Text
@@ -698,10 +716,24 @@ This title, referred to in par. (9), means title II (§ 200 et seq.) of Pub. L. 
 
 The Bipartisan Budget Act of 2013, referred to in par. (10)(A), is div. A of Pub. L. 113–67, Dec. 26, 2013, 127 Stat. 1165. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under [section 900 of this title](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-900) and Tables.
 
+The Bipartisan Budget Act of 2015, referred to in par. (11)(A), is Pub. L. 114–74, Nov. 2, 2015, 129 Stat. 584. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 1 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim), Internal Revenue Code, and Tables.
+
 #### Prior Provisions
 A prior section 901a, Pub. L. 99–177, title II, § 251A, as added Pub. L. 103–322, title XXXI, § 310001(g)(1), Sept. 13, 1994, 108 Stat. 2104, related to sequestration with respect to Violent Crime Reduction Trust Fund, prior to repeal by Pub. L. 105–33, title X, § 10204(a)(1), Aug. 5, 1997, 111 Stat. 702.
 
 #### Amendments
+2015—Par. (5)(B). Pub. L. 114–74, § 101(b)(1), substituted “paragraphs (10) and (11)” for “paragraph (10)”.
+
+Par. (6)(B). Pub. L. 114–74, § 101(c)(1), in introductory provisions, substituted “for fiscal year 2024, and for fiscal year 2025” for “and for fiscal year 2024”.
+
+Par. (6)(C), (D). Pub. L. 114–74, § 101(c)(2), (3), redesignated subpar. (D) as (C), substituted “fiscal year 2025” for “fiscal year 2024” in introductory provisions, and struck out former subpar. (C) which read as follows: “Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in [section 906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/d&num=0&edition=prelim), the sequestration order of the President under such subparagraph for fiscal year 2023 shall be applied to such payments so that—
+
+“(i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 2.90 percent; and
+
+“(ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 1.11 percent.”
+
+Par. (11). Pub. L. 114–74, § 101(b)(2), added par. (11).
+
 2014—Par. (6)(B). Pub. L. 113–82 substituted “, for fiscal year 2023, and for fiscal year 2024” for “and for fiscal year 2023”.
 
 Par. (6)(D). Pub. L. 113–93 added subpar. (D).
@@ -745,16 +777,20 @@ Par. (11). Pub. L. 113–67, § 101(d)(2)(C), redesignated par. (11) as (9).
 #### 2013 Sequester
 Pub. L. 112–240, title IX, § 901(e), Jan. 2, 2013, 126 Stat. 2370, provided that: “On March 1, 2013, the President shall order a sequestration for fiscal year 2013 pursuant to section 251A of the Balanced Budget and Emergency Deficit Control Act of 1985 [[2 U.S.C. 901a](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901a)], as amended by this section, pursuant to which, only for the purposes of the calculation in sections 251A(5)(A), 251A(6)(A), and 251A(7)(A), section 251(c)(2) [former [2 U.S.C. 901(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/c/2&num=0&edition=prelim)] shall be applied as if it read as follows: “ ‘(2) For fiscal year 2013— “ ‘(A) for the security category, $544,000,000,000 in budget authority; and “ ‘(B) for the nonsecurity category, $499,000,000,000 in budget authority;’.”
 
-#### Sequestration Order for Fiscal Year 2015 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
-Order of President of the United States, dated Mar. 10, 2014, 79 F.R. 14365, provided:
+#### Sequestration Order for Fiscal Year 2017 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended
+Order of President of the United States, dated Feb. 9, 2016, 81 F.R. 7693, provided:
 
-By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the “Act”), as amended, [2 U.S.C. 901a](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901a), I hereby order that, on October 1, 2014, direct spending budgetary resources for fiscal year 2015 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of March 10, 2014.
+By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the “Act”), as amended, [2 U.S.C. 901a](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-901a), I hereby order that, on October 1, 2016, direct spending budgetary resources for fiscal year 2017 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of February 9, 2016.
 
-All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget’s report of March 10, 2014, prepared pursuant to section 251A(9) of the Act.
+All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget’s report of February 9, 2016, prepared pursuant to section 251A(9) of the Act.
 
 Barack Obama.
 
 Sequestration orders pursuant to this section for prior fiscal years were contained in the following:
+
+2016—Order of President of the United States, dated Feb. 2, 2015, 80 F.R. 6645.
+
+2015—Order of President of the United States, dated Mar. 10, 2014, 79 F.R. 14365.
 
 2014—Order of President of the United States, dated Apr. 10, 2013, 78 F.R. 22409.
 
@@ -1236,7 +1272,7 @@ Order of the President of the United States, Feb. 1, 1986, 51 F.R. 4291.
 
   (A) The following budget accounts and activities shall be exempt from reduction under any order issued under this subchapter:Activities resulting from private donations, bequests, or voluntary contributions to the Government. Activities financed by voluntary payments to the Government for goods or services to be provided for such payments. Administration of Territories, Northern Mariana Islands Covenant grants (14–0412–0–1–808). Advances to the Unemployment Trust Fund and Other Funds (16–0327–0–1–600). Black Lung Disability Trust Fund Refinancing (16–0329–0–1–601). Bonneville Power Administration Fund and borrowing authority established pursuant to section 13 of Public Law 93–454 (1974), as amended [[16 U.S.C. 838k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section838k&num=0&edition=prelim)] (89–4045–0–3–271). Claims, Judgments, and Relief Acts (20–1895–0–1–808). Compact of Free Association (14–0415–0–1–808). Compensation of the President (11–0209–01–1–802). Comptroller of the Currency, Assessment Funds (20–8413–0–8–373). Continuing Fund, Southeastern Power Administration (89–5653–0–2–271). Continuing Fund, Southwestern Power Administration (89–5649–0–2–271). Dual Benefits Payments Account (60–0111–0–1–601). Emergency Fund, Western Area Power Administration (89–5069–0–2–271). Exchange Stabilization Fund (20–4444–0–3–155). Farm Credit Administration Operating Expenses Fund (78–4131–0–3–351). Farm Credit System Insurance Corporation, Farm Credit Insurance Fund (78–4171–0–3–351). Federal Deposit Insurance Corporation, Deposit Insurance Fund (51–4596–0–4–373). Federal Deposit Insurance Corporation, FSLIC Resolution Fund (51–4065–0–3–373). Federal Deposit Insurance Corporation, Noninterest Bearing Transaction Account Guarantee (51–4458–0–3–373). Federal Deposit Insurance Corporation, Senior Unsecured Debt Guarantee (51–4457–0–3–373). Federal Home Loan Mortgage Corporation (Freddie Mac). Federal Housing Finance Agency, Administrative Expenses (95–5532–0–2–371). Federal National Mortgage Corporation (Fannie Mae). Federal Payment to the District of Columbia Judicial Retirement and Survivors Annuity Fund (20–1713–0–1–752). Federal Payment to the District of Columbia Pension Fund (20–1714–0–1–601). Federal Payments to the Railroad Retirement Accounts (60–0113–0–1–601). Federal Reserve Bank Reimbursement Fund (20–1884–0–1–803). Financial Agent Services (20–1802–0–1–803). Foreign Military Sales Trust Fund (11–8242–0–7–155). Hazardous Waste Management, Conservation Reserve Program (12–4336–0–3–999). Host Nation Support Fund for Relocation (97–8337–0–7–051). Internal Revenue Collections for Puerto Rico (20–5737–0–2–806). Intragovernmental funds, including those from which the outlays are derived primarily from resources paid in from other government accounts, except to the extent such funds are augmented by direct appropriations for the fiscal year during which an order is in effect. Medical Facilities Guarantee and Loan Fund (75–9931–0–3–551). National Credit Union Administration, Central Liquidity Facility (25–4470–0–3–373). National Credit Union Administration, Corporate Credit Union Share Guarantee Program (25–4476–0–3–376). National Credit Union Administration, Credit Union Homeowners Affordability Relief Program (25–4473–0–3–371). National Credit Union Administration, Credit Union Share Insurance Fund (25–4468–0–3–373). National Credit Union Administration, Credit Union System Investment Program (25–4474–0–3–376). National Credit Union Administration, Operating fund (25–4056–0–3–373). National Credit Union Administration, Share Insurance Fund Corporate Debt Guarantee Program (25–4469–0–3–376). National Credit Union Administration, U.S. Central Federal Credit Union Capital Program (25–4475–0–3–376). Office of Thrift Supervision (20–4108–0–3–373). Panama Canal Commission Compensation Fund (16–5155–0–2–602). Payment of Vietnam and USS Pueblo prisoner-of-war claims within the Salaries and Expenses, Foreign Claims Settlement account (15–0100–0–1–153). Payment to Civil Service Retirement and Disability Fund (24–0200–0–1–805). Payment to Department of Defense Medicare-Eligible Retiree Health Care Fund (97–0850–0–1–054). Payment to Judiciary Trust Funds (10–0941–0–1–752). Payment to Military Retirement Fund (97–0040–0–1–054). Payment to the Foreign Service Retirement and Disability Fund (19–0540–0–1–153). Payments to Copyright Owners (03–5175–0–2–376). Payments to Health Care Trust Funds (75–0580–0–1–571). Payment to Radiation Exposure Compensation Trust Fund (15–0333–0–1–054). Payments to Social Security Trust Funds (28–0404–0–1–651). Payments to the United States Territories, Fiscal Assistance (14–0418–0–1–806). Payments to trust funds from excise taxes or other receipts properly creditable to such trust funds. Payments to widows and heirs of deceased Members of Congress (00–0215–0–1–801). Postal Service Fund (18–4020–0–3–372). Radiation Exposure Compensation Trust Fund (15–8116–0–1–054). Reimbursement to Federal Reserve Banks (20–0562–0–1–803). Salaries of Article III judges. Soldiers and Airmen’s Home, payment of claims (84–8930–0–7–705). Tennessee Valley Authority Fund, except nonpower programs and activities (64–4110–0–3–999). Tribal and Indian trust accounts within the Department of the Interior which fund prior legal obligations of the Government or which are established pursuant to Acts of Congress regarding Federal management of tribal real property or other fiduciary responsibilities, including but not limited to Tribal Special Fund (14–5265–0–2–452), Tribal Trust Fund (14–8030–0–7–452), White Earth Settlement (14–2204–0–1–452), and Indian Water Rights and Habitat Acquisition (14–5505–0–2–303). United Mine Workers of America 1992 Benefit Plan (95–8260–0–7–551). United Mine Workers of America 1993 Benefit Plan (95–8535–0–7–551). United Mine Workers of America Combined Benefit Fund (95–8295–0–7–551). United States Enrichment Corporation Fund (95–4054–0–3–271). Universal Service Fund (27–5183–0–2–376). Vaccine Injury Compensation (75–0320–0–1–551). Vaccine Injury Compensation Program Trust Fund (20–8175–0–7–551).
 
-  (B) The following Federal retirement and disability accounts and activities shall be exempt from reduction under any order issued under this subchapter:Black Lung Disability Trust Fund (20–8144–0–7–601). Central Intelligence Agency Retirement and Disability System Fund (56–3400–0–1–054). Civil Service Retirement and Disability Fund (24–8135–0–7–602). Comptrollers general retirement system (05–0107–0–1–801). Contributions to U.S. Park Police annuity benefits, Other Permanent Appropriations (14–9924–0–2–303). Court of Appeals for Veterans Claims Retirement Fund (95–8290–0–7–705). Department of Defense Medicare-Eligible Retiree Health Care Fund (97–5472–0–2–551). District of Columbia Federal Pension Fund (20–5511–0–2–601). District of Columbia Judicial Retirement and Survivors Annuity Fund (20–8212–0–7–602). Energy Employees Occupational Illness Compensation Fund (16–1523–0–1–053). Foreign National Employees Separation Pay (97–8165–0–7–051). Foreign Service National Defined Contributions Retirement Fund (19–5497–0–2–602). Foreign Service National Separation Liability Trust Fund (19–8340–0–7–602). Foreign Service Retirement and Disability Fund (19–8186–0–7–602). Government Payment for Annuitants, Employees Health Benefits (24–0206–0–1–551). Government Payment for Annuitants, Employee Life Insurance (24–0500–0–1–602). Judicial Officers’ Retirement Fund (10–8122–0–7–602). Judicial Survivors’ Annuities Fund (10–8110–0–7–602). Military Retirement Fund (97–8097–0–7–602). National Railroad Retirement Investment Trust (60–8118–0–7–601). National Oceanic and Atmospheric Administration retirement (13–1450–0–1–306). Pensions for former Presidents (47–0105–0–1–802). Postal Service Retiree Health Benefits Fund (24–5391–0–2–551). Public Safety Officer Benefits (15–0403–0–1–754). Rail Industry Pension Fund (60–8011–0–7–601). Retired Pay, Coast Guard (70–0602–0–1–403). Retirement Pay and Medical Benefits for Commissioned Officers, Public Health Service (75–0379–0–1–551). Special Benefits for Disabled Coal Miners (16–0169–0–1–601). Special Benefits, Federal Employees’ Compensation Act (16–1521–0–1–600). Special Workers Compensation Expenses (16–9971–0–7–601). Tax Court Judges Survivors Annuity Fund (23–8115–0–7–602). United States Court of Federal Claims Judges’ Retirement Fund (10–8124–0–7–602). United States Secret Service, DC Annuity (70–0400–0–1–751). Voluntary Separation Incentive Fund (97–8335–0–7–051).
+  (B) The following Federal retirement and disability accounts and activities shall be exempt from reduction under any order issued under this subchapter:Black Lung Disability Trust Fund (20–8144–0–7–601). Central Intelligence Agency Retirement and Disability System Fund (56–3400–0–1–054). Civil Service Retirement and Disability Fund (24–8135–0–7–602). Comptrollers general retirement system (05–0107–0–1–801). Contributions to U.S. Park Police annuity benefits, Other Permanent Appropriations (14–9924–0–2–303). Court of Appeals for Veterans Claims Retirement Fund (95–8290–0–7–705). Department of Defense Medicare-Eligible Retiree Health Care Fund (97–5472–0–2–551). District of Columbia Federal Pension Fund (20–5511–0–2–601). District of Columbia Judicial Retirement and Survivors Annuity Fund (20–8212–0–7–602). Energy Employees Occupational Illness Compensation Fund (16–1523–0–1–053). Foreign National Employees Separation Pay (97–8165–0–7–051). Foreign Service National Defined Contributions Retirement Fund (19–5497–0–2–602). Foreign Service National Separation Liability Trust Fund (19–8340–0–7–602). Foreign Service Retirement and Disability Fund (19–8186–0–7–602). Government Payment for Annuitants, Employees Health Benefits (24–0206–0–1–551). Government Payment for Annuitants, Employee Life Insurance (24–0500–0–1–602). Judicial Officers’ Retirement Fund (10–8122–0–7–602). Judicial Survivors’ Annuities Fund (10–8110–0–7–602). Military Retirement Fund (97–8097–0–7–602). National Railroad Retirement Investment Trust (60–8118–0–7–601). National Oceanic and Atmospheric Administration retirement (13–1450–0–1–306). Pensions for former Presidents (47–0105–0–1–802). Postal Service Retiree Health Benefits Fund (24–5391–0–2–551). Public Safety Officer Benefits (15–0403–0–1–754). Rail Industry Pension Fund (60–8011–0–7–601). Retired Pay, Coast Guard (70–0602–0–1–403). Retirement Pay and Medical Benefits for Commissioned Officers, Public Health Service (75–0379–0–1–551). September 11th Victim Compensation Fund (15–0340–0–1–754). Special Benefits for Disabled Coal Miners (16–0169–0–1–601). Special Benefits, Federal Employees’ Compensation Act (16–1521–0–1–600). Special Workers Compensation Expenses (16–9971–0–7–601). Tax Court Judges Survivors Annuity Fund (23–8115–0–7–602). United States Court of Federal Claims Judges’ Retirement Fund (10–8124–0–7–602). United States Secret Service, DC Annuity (70–0400–0–1–751). Victims Compensation Fund established under section 410 of the Air Transportation Safety and System Stabilization Act ([49 U.S.C. 40101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim) note). United States Victims of State Sponsored Terrorism Fund. Voluntary Separation Incentive Fund (97–8335–0–7–051). World Trade Center Health Program Fund (75–0946–0–1–551).
 
 (2) Prior legal obligations of the Government in the following budget accounts and activities shall be exempt from any order issued under this subchapter:Biomass Energy Development (20–0114–0–1–271). Check Forgery Insurance Fund (20–4109–0–3–803). Credit liquidating accounts. Credit reestimates. Employees Life Insurance Fund (24–8424–0–8–602). Federal Aviation Insurance Revolving Fund (69–4120–0–3–402). Federal Crop Insurance Corporation Fund (12–4085–0–3–351). Federal Emergency Management Agency, National Flood Insurance Fund (58–4236–0–3–453). Geothermal resources development fund (89–0206–0–1–271). Low-Rent Public Housing—Loans and Other Expenses (86–4098–0–3–604). Maritime Administration, War Risk Insurance Revolving Fund (69–4302–0–3–403). Natural Resource Damage Assessment Fund (14–1618–0–1–302). Overseas Private Investment Corporation, Noncredit Account (71–4184–0–3–151). Pension Benefit Guaranty Corporation Fund (16–4204–0–3–601). San Joaquin Restoration Fund (14–5537–0–2–301). Servicemembers’ Group Life Insurance Fund (36–4009–0–3–701). Terrorism Insurance Program (20–0123–0–1–376).
 
@@ -1257,7 +1293,11 @@ Sections 231b and 231c of title 45, referred to in subsec. (a), were in the orig
 
 The Federal Employees’ Compensation Act, referred to in subsec. (g)(1)(B), which is act Sept. 7, 1916, ch. 458, 39 Stat. 742, was repealed and the provisions thereof reenacted as subchapter I of chapter 81 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
+Section 410 of the Air Transportation Safety and System Stabilization Act, referred to in subsec. (g)(1)(B), is section 410 of Pub. L. 107–42, which is set out in a note under [section 40101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim), Transportation.
+
 #### Amendments
+2015—Subsec. (g)(1)(B). Pub. L. 114–113 inserted items relating to the September 11th Victim Compensation Fund (15–0340–0–1–754), Victims Compensation Fund established under section 410 of the Air Transportation Safety and System Stabilization Act, United States Victims of State Sponsored Terrorism Fund, and the World Trade Center Health Program Fund (75–0946–0–1–551).
+
 2013—Subsec. (a). Pub. L. 113–67, § 121(5), substituted “sections 231b and 231c of title 45” for “section 231b(a), 231b(f)(2), 231c(a), and 231c(f) of title 45”.
 
 Subsec. (h). Pub. L. 113–67, § 121(6), in item relating to Federal Pell Grants, made technical amendment to reference in original act which appears in text as reference to [section 1070a of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a&num=0&edition=prelim).
@@ -1442,6 +1482,9 @@ Subsec. (h). Pub. L. 100–119, § 104(a)(1), inserted item relating to commodit
 
 Subsec. (g)(1). Pub. L. 99–509 inserted item relating to dual benefits payments account.
 
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. O, title IV, § 403(b), Dec. 18, 2015, 129 Stat. 3007, provided that: “The amendments made by this section [amending this section] shall apply to any sequestration order issued under the Balanced Budget and Emergency Deficit Control Act of 1985 ([2 U.S.C. 900](./chapter-020-emergency-powers-to-eliminate-budget-deficits.md#section-900) et seq.) on or after the date of enactment of this Act [Dec. 18, 2015].”
+
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under [section 1821 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1821&num=0&edition=prelim), Banks and Banking.
 
@@ -1621,7 +1664,7 @@ The Soldiers’ and Airmen’s Home, referred to in subsec. (g)(1)(A), was incor
 ### Statutory Notes
 
 #### References in Text
-The Higher Education Act of 1965, referred to in subsec. (b), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B and D of title IV of the Act are classified generally to parts B (§ 1071 et seq.) and C (§ 1087a et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B and D of title IV of the Act are classified generally to parts B (§ 1071 et seq.) and D (§ 1087a et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 The Social Security Act, referred to in subsecs. (d) and (i)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XII and XVIII of the Social Security Act are classified generally to subchapters XII (§ 1321 et seq.) and XVIII (§ 1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Parts A to D of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.), B (§ 1395j et seq.), C (§ 1395w–21 et seq.), and D (§ 1395w–101 et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 

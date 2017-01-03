@@ -24,6 +24,9 @@ Section is comprised of part of section 1 of part B of act Aug. 11, 1916. Other 
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–487 effective 180 days after Aug. 15, 1968, see section 2 of Pub. L. 90–487, set out as a note under [section 78 of this title](./chapter-003-grain-standards.md#section-78).
 
+#### Short Title of 2015 Amendment
+Pub. L. 114–54, § 1(a), Sept. 30, 2015, 129 Stat. 513, provided that: “This Act [amending sections 77, 79, 79a, 79d, 84, 87h, 87j, 1635i, 1635j, and 1636i of this title and sections 583j–2, 583j–3, 583j–5, and 583j–8 of Title 16, Conservation, enacting provisions set out as a note under [section 1635m of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635m), and amending provisions set out as a note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635)] may be cited as the ‘Agriculture Reauthorizations Act of 2015’.”
+
 #### Short Title of 2000 Amendment
 Pub. L. 106–472, § 1(a), Nov. 9, 2000, 114 Stat. 2058, provided that: “This Act [enacting sections 228d, 241 to 256, 918a, and 1726b of this title and [section 1012 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1012&num=0&edition=prelim), Conservation, amending sections 15b, 77, 79, 79a, 79b, 79d, 84, 87b, 87h, 87j, 229, 1622, 1736a, 1926, 2009d, 5101, 5102, and 5106 of this title and sections 1766 and 1786 of Title 42, The Public Health and Welfare, repealing section 87e-1 of this title, enacting provisions set out as notes under sections 79, 181, 241, and 1314e of this title and [section 1786 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1786&num=0&edition=prelim), amending provisions set out as notes under sections 74, 612c, and 1421 of this title, and repealing provisions set out as notes under sections 75a, 76, and 79 of this title] may be cited as the ‘Grain Standards and Warehouse Improvement Act of 2000’.”
 
@@ -331,9 +334,9 @@ Pub. L. 94–582, § 24, Oct. 21, 1976, 90 Stat. 2888, which provided for invest
 ## § 77. Official inspection and weighing requirements; waiver; supervision by representatives of Secretary
 **(a) Official samples and certificates; waiver; excepted grains** Whenever standards or procedures are effective under [section 76 of this title](./chapter-003-grain-standards.md#section-76) for any grain—
 
-(1) no person shall ship from the United States to any place outside thereof any lot of such grain, unless such lot is officially weighed and officially inspected in accordance with such standards or procedures, and unless a valid official certificate showing the official grade designation and certified weight of the lot of grain has been provided by official inspection personnel and is promptly furnished by the shipper, or the agent of the shipper, to the consignee with the bill of lading or other shipping documents covering the shipment: Provided, That the Secretary may waive the foregoing requirement in emergency or other circumstances which would not impair the objectives of this chapter: Provided further, That the Secretary shall waive the requirement for official inspection whenever the parties to a contract for such shipment of a lot of grain (which is not sold, offered for sale, or consigned for sale by grade) from the United States to any place outside thereof mutually agree under the contract to ship such lot of grain without official inspection being performed and a copy of the contract is furnished to the Secretary prior to shipment;
+(1) no person shall ship from the United States to any place outside thereof any lot of such grain, unless such lot is officially weighed and officially inspected in accordance with such standards or procedures, and unless a valid official certificate showing the official grade designation and certified weight of the lot of grain has been provided by official inspection personnel and is promptly furnished by the shipper, or the agent of the shipper, to the consignee with the bill of lading or other shipping documents covering the shipment: Provided, That the Secretary shall waive the foregoing requirement in emergency or other circumstances that would not impair the objectives of this chapter whenever the parties to a contract for such shipment mutually agree to the waiver and documentation of such agreement is provided to the Secretary prior to shipment: Provided further, That the Secretary shall waive the requirement for official inspection whenever the parties to a contract for such shipment of a lot of grain (which is not sold, offered for sale, or consigned for sale by grade) from the United States to any place outside thereof mutually agree under the contract to ship such lot of grain without official inspection being performed and a copy of the contract is furnished to the Secretary prior to shipment;
 
-(2) except as the Secretary may provide in emergency or other circumstances which would not impair the objectives of this chapter, all other grain transferred out of and all grain transferred into an export elevator at an export port location shall be officially weighed in accordance with such standards or procedure: Provided, That, unless the shipper or receiver requests that the grain be officially weighed, intracompany shipments of grain into an export elevator by any mode of transportation, grain transferred into an export elevator by transportation modes other than barge, and grain transferred out of an export elevator to destinations within the United States shall not be officially weighed; and
+(2) except as the Secretary may provide in emergency or other circumstances which would not impair the objectives of this chapter, all other grain transferred out of and all grain transferred into an export elevator at an export port location shall be officially weighed in accordance with such standards or procedure: Provided, That, unless the shipper or receiver requests that the grain be officially weighed, shipments of grain into an export elevator by any mode of transportation and grain transferred out of an export elevator to destinations within the United States shall not be officially weighed; and
 
 (3) except as otherwise authorized by the Secretary, whenever a lot of grain is both officially inspected and officially weighed while being transferred into or out of a grain elevator, warehouse, or other storage or handling facility, an official certificate shall be issued showing both the official grade designation and the certified weight of the lot of grain.
 
@@ -341,9 +344,27 @@ Pub. L. 94–582, § 24, Oct. 21, 1976, 90 Stat. 2888, which provided for invest
 
 **(c) Testing for aflatoxin contamination of corn shipped in foreign commerce** The Secretary is authorized and directed to require that all corn exported from the United States be tested to ascertain whether it exceeds acceptable levels of aflatoxin contamination, unless the contract for export between the buyer and seller stipulates that aflatoxin testing shall not be conducted.
 
+**(d) Disruption in grain inspection or weighing** In the case of a disruption in official grain inspections or weighings, including if the Secretary waives the requirement for official inspection due to an emergency under subsection (a)(1), the Secretary shall—
+
+(1) immediately take such actions as are necessary to address the disruption and resume inspections or weighings;
+
+(2) not later than 24 hours after the start of the disruption in inspection or weighing, submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—
+
+  (A) the disruption; and
+
+  (B) any actions necessary to address the concerns of the Secretary relating to the disruption so that inspections or weighings may resume; and
+
+(3) once the initial report in paragraph (2) has been made, provide daily updates until official inspection or weighing services at the site of disruption have resumed.
+
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–54, § 301(a)(1), substituted “shall waive the foregoing requirement in emergency or other circumstances that would not impair the objectives of this chapter whenever the parties to a contract for such shipment mutually agree to the waiver and documentation of such agreement is provided to the Secretary prior to shipment” for “may waive the foregoing requirement in emergency or other circumstances which would not impair the objectives of this chapter”.
+
+Subsec. (a)(2). Pub. L. 114–54, § 301(a)(2), substituted “shipments of grain into an export elevator by any mode of transportation” for “intracompany shipments of grain into an export elevator by any mode of transportation, grain transferred into an export elevator by transportation modes other than barge,”.
+
+Subsec. (d). Pub. L. 114–54, § 301(a)(3), added subsec. (d).
+
 2000—Subsec. (a)(1). Pub. L. 106–472 struck out “(on the basis of official samples taken after final elevation as near the final spout through which the grain passes as physically practicable as it is being loaded aboard, or while it is in, the final carrier in which it is to be transported from the United States)” after “officially inspected”.
 
 1994—Pub. L. 103–354 substituted “employees of the Secretary” for “Service employees” in subsec. (b) and “Secretary” for “Administrator” wherever appearing.
@@ -417,7 +438,29 @@ Pub. L. 90–487, § 2, Aug. 15, 1968, 82 Stat. 770, provided that: “This Act 
 
 (1) Except as otherwise provided in paragraph (2) of this subsection, the Secretary shall cause official inspection at export port locations, for all grain required or authorized to be inspected by this chapter, to be performed by official inspection personnel employed by the Secretary or other persons under contract with the Secretary as provided in [section 84 of this title](./chapter-003-grain-standards.md#section-84).
 
-(2) If the Secretary determines, pursuant to paragraph (3) of this subsection, that a State agency is qualified to perform official inspection, meets the criteria in subsection (f)(1)(A) of this section, and (A) was performing official inspection at an export port location under this chapter on July 1, 1976, or (B)(i) performed official inspection at an export port location at any time prior to July 1, 1976, (ii) was designated under subsection (f) of this section on December 22, 1982, to perform official inspections at locations other than export port locations, and (iii) operates in a State from which total annual exports of grain do not exceed, as determined by the Secretary, 5 per centum of the total amount of grain exported from the United States annually, the Secretary may delegate authority to the State agency to perform all or specified functions involved in official inspection (other than appeal inspection) at export port locations within the State, including export port locations which may in the future be established, subject to such rules, regulations, instructions, and oversight as the Secretary may prescribe, and any such official inspection shall continue to be the direct responsibility of the Secretary. Any such delegation may be revoked by the Secretary, at the discretion of the Secretary, at any time upon notice to the State agency without opportunity for a hearing.
+(2) **Delegation of authority to state agencies.—**
+
+  (A) *In general.—* — If the Secretary determines, pursuant to paragraph (3) of this subsection, that a State agency is qualified to perform official inspection, meets the criteria in subsection (f)(1)(A) of this section, and (i) was performing official inspection at an export port location under this chapter on July 1, 1976, or (ii)(I) performed official inspection at an export port location at any time prior to July 1, 1976, (II) was designated under subsection (f) of this section on December 22, 1982, to perform official inspections at locations other than export port locations, and (III) operates in a State from which total annual exports of grain do not exceed, as determined by the Secretary, 5 per centum of the total amount of grain exported from the United States annually, the Secretary may delegate authority to the State agency to perform all or specified functions involved in official inspection (other than appeal inspection) at export port locations within the State, including export port locations which may in the future be established, subject to such rules, regulations, instructions, and oversight as the Secretary may prescribe, and any such official inspection shall continue to be the direct responsibility of the Secretary. Any such delegation may be revoked by the Secretary, at the discretion of the Secretary, at any time upon notice to the State agency without opportunity for a hearing.
+
+  (B) *Certification.—*
+
+    (i) *In general.—* — Every 5 years, the Secretary shall certify that each State agency with a delegation of authority is meeting the criteria described in subsection (f)(1)(A).
+
+    (ii) *Process.—* — Not later than 1 year after September 30, 2015, the Secretary shall establish a process for certification under which the Secretary shall—
+
+      (I) publish in the Federal Register notice of intent to certify a State agency and provide a 30-day period for public comment;
+
+      (II) evaluate the public comments received and, in accordance with paragraph (3), conduct an investigation to determine whether the State agency is qualified;
+
+      (III) make findings based on the public comments received and investigation conducted; and
+
+      (IV) publish in the Federal Register a notice announcing whether the certification has been granted and describing the basis on which the Secretary made the decision.
+
+  (C) *State agency requirements.—*
+
+    (i) *In general.—* — If a State agency that has been delegated authority under this paragraph intends to temporarily discontinue official inspection or weighing services for any reason, except in the case of a major disaster, the State agency shall notify the Secretary in writing of the intention of the State agency to do so at least 72 hours in advance of the discontinuation date.
+
+    (ii) *Secretarial consideration.—* — The Secretary shall consider receipt of a notice described in clause (i) as a factor in administering the delegation of authority under this paragraph.
 
 (3) Prior to delegating authority to a State agency for the performance of official inspection at export port locations pursuant to paragraph (2) of this subsection, the Secretary shall (A) conduct an investigation to determine whether such agency is qualified, and (B) make findings based on such investigation. In conducting the investigation, the Secretary shall consult with, and review the available files of the Department of Justice, the Office of Investigation of the Department of Agriculture (or such other organization or agency within the Department of Agriculture which may be delegated the authority, in lieu thereof, to conduct investigations on behalf of the Department of Agriculture), and the Government Accountability Office.
 
@@ -449,21 +492,23 @@ Pub. L. 90–487, § 2, Aug. 15, 1968, 82 Stat. 770, provided that: “This Act 
 
     (x) will comply with all provisions of this chapter and the regulations and instructions thereunder; and
 
-    (xi) meets other criteria established in regulations issued under this chapter relating to official functions under this chapter; and
+    (xi) meets other criteria established in regulations issued under this chapter relating to official functions under this chapter;
 
-  (B) the Secretary determines that the applicant is better able than any other applicant to provide official inspection service.
+  (B) the Secretary determines that the applicant is better able than any other applicant to provide official inspection service; and
 
-(2) **Geographic boundaries for official agencies.—** — Not more than one official agency designated under paragraph (1) or State delegated authority under subsection (e)(2) to carry out the inspection provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in [section 74 of this title](./chapter-003-grain-standards.md#section-74), the Secretary may—
+  (C) the Secretary—
 
-  (A) allow more than one designated official agency to carry out inspections within the same geographical area as part of a pilot program; and
+    (i) periodically conducts a consultation with the customers of the applicant, in a manner that provides opportunity for protection of the identity of the customer if desired by the customer, to review the performance of the applicant with regard to the provision of official inspection services and other requirements of this chapter; and
 
-  (B) allow a designated official agency to cross boundary lines to carry out inspections in another geographic area if the Secretary also determines that—
+    (ii) works with the applicant to address any concerns identified during the consultation process.
 
-    (i) the current designated official agency for that geographic area is unable to provide inspection services in a timely manner;
+(2) **Geographic boundaries for official agencies.—** — Not more than one official agency designated under paragraph (1) or State delegated authority under subsection (e)(2) to carry out the inspection provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in [section 74 of this title](./chapter-003-grain-standards.md#section-74), the Secretary shall allow a designated official agency to cross boundary lines to carry out inspections in another geographic area if—
 
-    (ii) a person requesting inspection services in that geographic area has not been receiving official inspection services from the current designated official agency for that geographic area; or
+  (A) the current designated official agency for that geographic area is unable to provide inspection services in a timely manner;
 
-    (iii) a person requesting inspection services in that geographic area requests a probe inspection on a barge-lot basis.
+  (B) a person requesting inspection services in that geographic area requests a probe inspection on a barge-lot basis; or
+
+  (C) the current official agency for that geographic area agrees in writing with the adjacent official agency to waive the current geographic area restriction at the request of the applicant for service.
 
 (3) Except as authorized by the Secretary, no official agency or State delegated authority pursuant to subsection (e)(2) of this section shall officially inspect under this chapter any official or other sample drawn from a lot of grain and submitted for inspection unless such lot of grain is physically located within the geographic area assigned to the agency by the Secretary at the time such sample is drawn.
 
@@ -471,7 +516,7 @@ Pub. L. 90–487, § 2, Aug. 15, 1968, 82 Stat. 770, provided that: “This Act 
 
 **(g) Termination, renewal, amendment, cancellation, and revocation of designations of official agencies**
 
-(1) Designations of official agencies shall terminate at such time as specified by the Secretary but not later than triennially and may be renewed in accordance with the criteria and procedure prescribed in subsection (f) of this section.
+(1) Designations of official agencies shall terminate at such time as specified by the Secretary but not later than every 5 years and may be renewed in accordance with the criteria and procedure prescribed in subsection (f) of this section.
 
 (2) A designation of an official agency may be amended at any time upon application by the official agency if the Secretary determines that the amendment will be consistent with the provisions and objectives of this chapter; and a designation will be cancelled upon request by the official agency with ninety days written notice to the Secretary. A fee as prescribed by regulations of the Secretary shall be paid by the official agency to the Secretary for each such amendment, to cover the costs incurred by the Secretary in connection therewith, and it shall be deposited in the fund created in subsection (j) of this section.
 
@@ -481,15 +526,25 @@ Pub. L. 90–487, § 2, Aug. 15, 1968, 82 Stat. 770, provided that: “This Act 
 
 **(i) Official inspections in Canadian ports** The Secretary is authorized to cause official inspection under this chapter to be made, as provided in subsection (a) of [section 77 of this title](./chapter-003-grain-standards.md#section-77), in Canadian ports of United States export grain transshipped through Canadian ports, and pursuant thereto the Secretary is authorized to enter into an agreement with the Canadian Government for such inspection. All or specified functions of such inspections shall be performed by official inspection personnel employed by the Secretary or, except for appeals, by persons operating under a contract with the Secretary or as otherwise provided by agreement with the Canadian Government.
 
-**(j) Fees; establishment, amount, payment, etc.**
+**(j) Fees**
 
-(1) The Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable inspection fees to cover the estimated cost to the Secretary incident to the performance of official inspection except when the official inspection is performed by a designated official agency or by a State under a delegation of authority. The fees authorized by this subsection shall, as nearly as practicable and after taking into consideration any proceeds from the sale of samples, cover the costs of the Secretary incident to its 11 So in original. Probably should be “the Secretary’s”. performance of official inspection services in the United States and on United States grain in Canadian ports, including administrative and supervisory costs related to such official inspection of grain. Such fees, and the proceeds from the sale of samples obtained for purposes of official inspection which become the property of the United States, shall be deposited into a fund which shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
+(1) **Inspection fees.—**
+
+  (A) *In general.—* — The Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable inspection fees to cover the estimated cost to the Secretary incident to the performance of official inspection except when the official inspection is performed by a designated official agency or by a State under a delegation of authority.
+
+  (B) *Amount of fees.—* — The fees authorized by this subsection shall, as nearly as practicable and after taking into consideration any proceeds from the sale of samples, cover the costs of the Secretary incident to its 11 So in original. Probably should be “the Secretary’s”. performance of official inspection services in the United States and on United States grain in Canadian ports, including administrative and supervisory costs related to such official inspection of grain.
+
+  (C) *Use of fees.—* — Fees described in this paragraph, and the proceeds from the sale of samples obtained for purposes of official inspection which become the property of the United States, shall be deposited into a fund which shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
+
+  (D) *Export tonnage fees.—* — For an official inspection at an export facility performed by the Secretary, the portion of the fees based on export tonnage shall be based on the rolling 5-year average of export tonnage volumes.
 
 (2) Each designated official agency and each State agency to which authority has been delegated under subsection (e) of this section shall pay to the Secretary fees in such amount as the Secretary determines fair and reasonable and as will cover the estimated costs incurred by the Secretary relating to supervision of official agency personnel and supervision by the Secretary of the Secretary’s field office personnel, except costs incurred under paragraph (3) of subsection (g) of this section and sections 85, 86, and 87c of this title. The fees shall be payable after the services are performed at such times as specified by the Secretary and shall be deposited in the fund created in paragraph (1) of this subsection. Failure to pay the fee within thirty days after it is due shall result in automatic termination of the delegation or designation, which shall be reinstated upon payment, within such period as specified by the Secretary, of the fee currently due plus interest and any further expenses incurred by the Secretary because of such termination. The interest rate on overdue fees shall be as prescribed by the Secretary, but not less than the current average market yield on outstanding marketable obligations of the United States of comparable maturity, plus an additional charge of not to exceed 1 per centum per annum as determined by the Secretary and adjusted to the nearest one-eighth of 1 per centum.
 
 (3) Any sums collected or received by the Secretary under this chapter and deposited to the fund created in paragraph (1) of this subsection and any late payment penalties collected by the Secretary and credited to such fund may be invested by the Secretary in insured or fully collateralized, interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments. The interest earned on such sums and any late payment penalties collected by the Secretary shall be credited to the fund and shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
 
-(4) The duties imposed by paragraph (2) on designated official agencies and State agencies described in such paragraph and the investment authority provided by paragraph (3) shall expire on September 30, 2015. After that date, the fees established by the Secretary pursuant to paragraph (1) shall not cover administrative and supervisory costs related to the official inspection of grain.
+(4) **Adjustment of fees.—** — In order to maintain an operating reserve of not less than 3 and not more than 6 months, the Secretary shall adjust the fees described in paragraphs (1) and (2) not less frequently than annually.
+
+(5) The duties imposed by paragraph (2) on designated official agencies and State agencies described in such paragraph and the investment authority provided by paragraph (3) shall expire on September 30, 2020. After that date, the fees established by the Secretary pursuant to paragraph (1) shall not cover administrative and supervisory costs related to the official inspection of grain.
 
 ### Statutory Notes
 
@@ -499,6 +554,22 @@ Section as originally enacted was composed of part of section 7 of part B of act
 In subsec. (c), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended ([40 U.S.C. 471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section471&num=0&edition=prelim) et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2015—Subsec. (e)(2). Pub. L. 114–54, § 301(b)(1), inserted heading, designated existing provisions as subpar. (A) and inserted subpar. heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and former cls. (i) to (iii) of subpar. (B) as subcls. (I) to (III), respectively, of cl. (ii), and added subpars. (B) and (C).
+
+Subsec. (f)(1)(C). Pub. L. 114–54, § 301(b)(2), added subpar. (C).
+
+Subsec. (f)(2). Pub. L. 114–54, § 301(b)(3)(A), in introductory provisions, substituted “the Secretary shall allow a designated official agency to cross boundary lines to carry out inspections in another geographic area if—” for “the Secretary may—”, added subpars. (A) to (C), and struck out former subpars. (A) and (B) which related to more than one designated official agency carrying out inspections in the same geographic area and a designated official agency crossing boundary lines to carry out inspections in another geographic area.
+
+Subsec. (g)(1). Pub. L. 114–54, § 301(b)(4), substituted “every 5 years” for “triennially”.
+
+Subsec. (j). Pub. L. 114–54, § 301(b)(5)(A), inserted heading.
+
+Subsec. (j)(1). Pub. L. 114–54, § 301(b)(5)(A), (B), inserted heading, designated first to third sentences as subpars. (A) to (C), respectively, and inserted subpar. headings, in subpar. (C), substituted “Fees described in this paragraph” for “Such fees”, and added subpar. (D).
+
+Subsec. (j)(4). Pub. L. 114–54, § 301(b)(5)(D), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (j)(5). Pub. L. 114–54, § 301(b)(5)(C), (E), redesignated par. (4) as (5) and substituted “2020” for “2015”.
+
 2005—Subsec. (j)(4). Pub. L. 109–83 substituted “2015” for “2005”.
 
 2004—Subsec. (e)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
@@ -605,7 +676,7 @@ Pub. L. 94–582, § 8(b), Oct. 21, 1976, 90 Stat. 2874, as amended by Pub. L. 9
 
 (1) With respect to official weighing or supervision of weighing for locations at which official inspection is provided by the Secretary, the Secretary shall cause such official weighing or supervision of weighing to be performed by official inspection personnel employed by the Secretary.
 
-(2) With respect to official weighing or supervision of weighing for any location at which official inspection is provided other than by the Secretary, the Secretary is authorized, with respect to export port locations, to delegate authority to perform official weighing or supervision of weighing to the State agency providing official inspection service at such location, and with respect to any other location, to designate the agency or person providing official inspection service at such location to perform official weighing or supervision of weighing, if such agency or person qualifies for a delegation of authority or designation under [section 79 of this title](./chapter-003-grain-standards.md#section-79), except that where the term “official inspection” is used in such section it shall be deemed to refer to “official weighing” or “supervision of weighing” under this section. If such agency or person is not available to perform such weighing services, or the Secretary determines that such agency or person is not qualified to perform such weighing services, then (A) at export port locations official weighing or supervision of weighing shall be performed by official inspection personnel employed by the Secretary, and (B) at any other location, the Secretary is authorized to cause official weighing or supervision of weighing to be performed by official inspection personnel employed by the Secretary or designate any State or local governmental agency, or any person to perform official weighing or supervision of weighing, if such agency or person meets the same criteria that agencies must meet to be designated to perform official inspection as set out in [section 79 of this title](./chapter-003-grain-standards.md#section-79), except that where the term “official inspection” is used in such section it shall be deemed to refer to “official weighing” or “supervision of weighing” under this section. Delegations and designations made pursuant to this subsection shall be subject to the same provisions for delegations and designations set forth in subsection (g) of [section 79 of this title](./chapter-003-grain-standards.md#section-79).
+(2) With respect to official weighing or supervision of weighing for any location at which official inspection is provided other than by the Secretary, the Secretary is authorized, with respect to export port locations, to delegate authority to perform official weighing or supervision of weighing to the State agency providing official inspection service at such location, and with respect to any other location, to designate the agency or person providing official inspection service at such location to perform official weighing or supervision of weighing, if such agency or person qualifies for a delegation of authority or designation under [section 79 of this title](./chapter-003-grain-standards.md#section-79), except that where the term “official inspection” is used in such section it shall be deemed to refer to “official weighing” or “supervision of weighing” under this section. If such agency or person is not available to perform such weighing services, or the Secretary determines that such agency or person is not qualified to perform such weighing services, then (A) at export port locations official weighing or supervision of weighing shall be performed by official inspection personnel employed by the Secretary, and (B) at any other location, the Secretary is authorized to cause official weighing or supervision of weighing to be performed by official inspection personnel employed by the Secretary or designate any State or local governmental agency, or any person to perform official weighing or supervision of weighing, if such agency or person meets the same criteria that agencies must meet to be designated to perform official inspection as set out in [section 79 of this title](./chapter-003-grain-standards.md#section-79), except that where the term “official inspection” is used in such section it shall be deemed to refer to “official weighing” or “supervision of weighing” under this section. Delegations and designations made pursuant to this subsection shall be subject to the same provisions for delegations and designations set forth in subsections (e) and (g) of [section 79 of this title](./chapter-003-grain-standards.md#section-79).
 
 **(d) Official weighing in Canadian ports** The Secretary is authorized to cause official weighing under this chapter to be made, as provided in subsection (a) of [section 77 of this title](./chapter-003-grain-standards.md#section-77), in Canadian ports of United States export grain transshipped through Canada; and pursuant thereto the Secretary is authorized to enter into an agreement with the Canadian Government for such official weighing. All or specified functions of such weighing shall be performed by official inspection personnel employed by the Secretary or, except for appeals, by persons operating under a contract with the Secretary or as otherwise provided by agreement with the Canadian Government.
 
@@ -621,27 +692,33 @@ Pub. L. 94–582, § 8(b), Oct. 21, 1976, 90 Stat. 2874, as amended by Pub. L. 9
 
 (1) **In general** — No State or local governmental agency or person other than an authorized employee of the Secretary shall perform official weighing or supervision of weighing for the purposes of this chapter except in accordance with the provisions of an unsuspended and unrevoked delegation of authority or designation by the Secretary as provided in this section or as otherwise provided in [section 79(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section79/i&num=0&edition=prelim) and subsection (d).
 
-(2) **Geographic boundaries for official agencies** — Not more than one designated official agency referred to in paragraph (1) or State agency delegated authority pursuant to subsection (c)(2) to carry out the weighing provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in [section 74 of this title](./chapter-003-grain-standards.md#section-74), the Secretary may—
+(2) **Geographic boundaries for official agencies** — Not more than one designated official agency referred to in paragraph (1) or State agency delegated authority pursuant to subsection (c)(2) to carry out the weighing provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in [section 74 of this title](./chapter-003-grain-standards.md#section-74), the Secretary shall allow a designated official agency to cross boundary lines to carry out weighing in another geographic area if—
 
-  (A) allow more than one designated official agency to carry out the weighing provisions within the same geographical area as part of a pilot program; and
+  (A) the current designated official agency for that geographic area is unable to provide weighing services in a timely manner; or
 
-  (B) allow a designated official agency to cross boundary lines to carry out the weighing provisions in another geographic area if the Secretary also determines that—
-
-    (i) the current designated official agency for that geographic area is unable to provide the weighing services in a timely manner; or
-
-    (ii) a person requesting weighing services in that geographic area has not been receiving official weighing services from the current designated official agency for that geographic area.
+  (B) the current official agency for that geographic area agrees in writing with the adjacent official agency to waive the current geographic area restriction at the request of the applicant for service.
 
 **(j) Authority under United States Warehouse Act not limited** The provisions of this section shall not limit any authority vested in the Secretary under the United States Warehouse Act (39 Stat. 486, as amended; [7 U.S.C. 241](./chapter-010-warehouses.md#section-241) et seq.).
 
 **(k) Access to elevators, warehouses, or their storage or handling facilities** The representatives of the Secretary shall be afforded access to any elevator, warehouse, or other storage or handling facility from which grain is delivered for shipment in interstate or foreign commerce or to which grain is delivered from shipment in interstate or foreign commerce and all facilities therein for weighing grain.
 
-**(l) Fees; establishment, amount, payment, etc.**
+**(l) Fees**
 
-(1) The Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable fees to cover the estimated costs to the Secretary incident to the performance of the functions provided for under this section except as otherwise provided in paragraph (2) of this subsection. The fees authorized by this paragraph shall, as nearly as practicable, cover the costs of the Secretary incident to performance of its 11 So in original. Probably should be “the Secretary’s”. functions related to weighing, including administrative and supervisory costs directly related thereto. Such fees shall be deposited into the fund created in [section 79(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section79/j&num=0&edition=prelim).
+(1) **Weighing fees.—**
+
+  (A) *In general.—* — The Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable fees to cover the estimated costs to the Secretary incident to the performance of the functions provided for under this section except as otherwise provided in paragraph (2) of this subsection.
+
+  (B) *Amount of fees.—* — The fees authorized by this paragraph shall, as nearly as practicable, cover the costs of the Secretary incident to performance of its 11 So in original. Probably should be “the Secretary’s”. functions related to weighing, including administrative and supervisory costs directly related thereto.
+
+  (C) *Use of fees.—* — Fees described in this paragraph shall be deposited into the fund created in [section 79(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section79/j&num=0&edition=prelim).
+
+  (D) *Export tonnage fees.—* — For an official weighing at an export facility performed by the Secretary, the portion of the fees based on export tonnage shall be based on the rolling 5-year average of export tonnage volumes.
 
 (2) Each agency to which authority has been delegated under this section and each agency or other person which has been designated to perform functions related to weighing under this section shall pay to the Secretary fees in such amount as the Secretary determines fair and reasonable and as will cover the costs incurred by the Secretary relating to supervision of the agency personnel and supervision by the Secretary of the Secretary’s field office personnel incurred as a result of the functions performed by such agencies, except costs incurred under sections 79(g)(3), 85, 86, and 87c of this title. The fees shall be payable after the services are performed at such times as specified by the Secretary and shall be deposited in the fund created in [section 79(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section79/j&num=0&edition=prelim). Failure to pay the fee within thirty days after it is due shall result in automatic termination of the delegation or designation, which shall be reinstated upon payment, within such period as specified by the Secretary, of the fee currently due plus interest and any further expenses incurred by the Secretary because of such termination. The interest rate on overdue fees shall be as prescribed by the Secretary, but not less than the current average market yield on outstanding marketable obligations of the United States of comparable maturity, plus an additional charge of not to exceed 1 per centum per annum as determined by the Secretary, and adjusted to the nearest one-eighth of 1 per centum.
 
-(3) The authority provided to the Secretary by paragraph (1) and the duties imposed by paragraph (2) on agencies and other persons described in such paragraph shall expire on September 30, 2015. After that date, the Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable fees to cover the estimated costs of official weighing and supervision of weighing except when the official weighing or supervision of weighing is performed by a designated official agency or by a State under a delegation of authority. The fees authorized by this paragraph shall, as nearly as practicable, cover the costs of the Secretary incident to its performance of official weighing and supervision of weighing services in the United States and on United States grain in Canadian ports, excluding administrative and supervisory costs. The fees authorized by this paragraph shall be deposited into a fund which shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
+(3) **Adjustment of fees.—** — In order to maintain an operating reserve of not less than 3 and not more than 6 months, the Secretary shall adjust the fees described in paragraphs (1) and (2) not less frequently than annually.
+
+(4) The authority provided to the Secretary by paragraph (1) and the duties imposed by paragraph (2) on agencies and other persons described in such paragraph shall expire on September 30, 2020. After that date, the Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable fees to cover the estimated costs of official weighing and supervision of weighing except when the official weighing or supervision of weighing is performed by a designated official agency or by a State under a delegation of authority. The fees authorized by this paragraph shall, as nearly as practicable, cover the costs of the Secretary incident to its performance of official weighing and supervision of weighing services in the United States and on United States grain in Canadian ports, excluding administrative and supervisory costs. The fees authorized by this paragraph shall be deposited into a fund which shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
 
 ### Statutory Notes
 
@@ -649,6 +726,18 @@ Pub. L. 94–582, § 8(b), Oct. 21, 1976, 90 Stat. 2874, as amended by Pub. L. 9
 The United States Warehouse Act, referred to in subsec. (j), is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, as amended, which is classified generally to chapter 10 (§ 241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 241 of this title](./chapter-010-warehouses.md#section-241) and Tables.
 
 #### Amendments
+2015—Subsec. (c)(2). Pub. L. 114–54, § 301(c)(1), substituted “subsections (e) and (g) of section 79” for “subsection (g) of section 79”.
+
+Subsec. (i)(2). Pub. L. 114–54, § 301(b)(3)(B), in introductory provisions, substituted “the Secretary shall allow a designated official agency to cross boundary lines to carry out weighing in another geographic area if—” for “the Secretary may—”, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which related to more than one designated official agency providing weighing in the same geographic area and a designated official agency crossing boundary lines to provide weighing in another geographic area.
+
+Subsec. (l). Pub. L. 114–54, § 301(c)(2)(A), inserted heading.
+
+Subsec. (l)(1). Pub. L. 114–54, § 301(c)(2)(A), (B), inserted heading, designated first to third sentences as subpars. (A) to (C), respectively, and inserted subpar. headings, in subpar. (C), substituted “Fees described in this paragraph” for “Such fees”, and added subpar. (D).
+
+Subsec. (l)(3). Pub. L. 114–54, § 301(c)(2)(D), added par. (3). Former par. (3) redesignated (4).
+
+Subsec. (l)(4). Pub. L. 114–54, § 301(c)(2)(C), (E), redesignated par. (3) as (4) and substituted “2020” for “2015”.
+
 2005—Subsec. (l)(3). Pub. L. 109–83 substituted “2015” for “2005”.
 
 2000—Subsec. (i). Pub. L. 106–472, § 102(b), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, struck out second sentence, which prohibited more than one official agency or State delegated authority from operating at one time in any geographic area except as permitted in pilot programs, and added par. (2).
@@ -747,11 +836,13 @@ Section, act Aug. 11, 1916, ch. 313, pt. B, § 7C, as added Aug. 13, 1981, Pub. 
 <a id="section-79d"></a>
 ## § 79d. Limitation on administrative and supervisory costs
 
-The total administrative and supervisory costs which may be incurred under this chapter for services performed (excluding standardization, compliance, and foreign monitoring activities) for each of the fiscal years 1989 through 2015 shall not exceed 30 percent of the total costs for such activities carried out by the Secretary for such year.
+The total administrative and supervisory costs which may be incurred under this chapter for services performed (excluding standardization, compliance, and foreign monitoring activities) for each of the fiscal years 1989 through 2020 shall not exceed 30 percent of the total costs for such activities carried out by the Secretary for such year.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Pub. L. 114–54 substituted “2020” for “2015”.
+
 2005—Pub. L. 109–83 substituted “2015” for “2005”.
 
 2000—Pub. L. 106–472 substituted “2005” for “2000” and “30 percent” for “40 per centum”.
@@ -791,7 +882,7 @@ Section 83, act Aug. 11, 1916, ch. 313, pt. B, § 7 (part), 39 Stat. 484, called
 ## § 84. Licensing of inspectors
 **(a) Authorization** The Secretary is authorized (1) to issue a license to any individual upon presentation to the Secretary of satisfactory evidence that such individual is competent, and is employed (or is supervised under a contractual arrangement) by an official agency or a State agency delegated authority under section 79 or 79a of this title, to perform all or specified functions involved in original inspection or reinspection functions involved in official inspection, or in the official weighing or the supervision of weighing, other than appeal weighing, of grain in the United States; (2) to authorize any competent employee of the Secretary to (A) perform all or specified original inspection, reinspection, or appeal inspection functions involved in official inspection of grain in the United States, or of United States grain in Canadian ports, (B) perform official weighing or supervision of weighing (including appeal weighing) of grain in the United States, or of United States grain in Canadian ports, (C) supervise the official inspection, official weighing, or supervision of weighing of grain in the United States and of United States grain in Canadian ports or the testing of equipment, and (D) perform monitoring activities in foreign ports with respect to grain officially inspected and officially weighed under this chapter; (3) to contract with any person or governmental agency to perform specified sampling, laboratory testing, inspection, weighing, and similar technical functions and to license competent persons to perform such functions pursuant to such contract; and (4) to contract with any competent person for the performance of monitoring activities in foreign ports with respect to grain officially inspected and officially weighed under this chapter. Except as otherwise provided in sections 79(i) and 79a(d) of this title, no person shall perform any official inspection or weighing function for purposes of this chapter unless such person holds an unsuspended and unrevoked license or authorization from the Secretary under this chapter.
 
-**(b) Duration of licenses; suspension; reinstatement** All classes of licenses issued under this chapter shall terminate triennially on a date or dates to be fixed by regulation of the Secretary: Provided, That any license shall be suspended automatically when the licensee ceases to be employed by an official agency or by a State agency under a delegation of authority pursuant to this chapter or to operate under the terms of a contract for the conduct of any functions under this chapter: Provided further, That subject to subsection (c) of this section such license shall be reinstated if the licensee is employed by an official agency or by a State agency under a delegation of authority pursuant to this chapter or resumes operation under such a contract within one year of the suspension date and the license has not expired in the interim.
+**(b) Duration of licenses; suspension; reinstatement** All classes of licenses issued under this chapter shall terminate every 5 years on a date or dates to be fixed by regulation of the Secretary: Provided, That any license shall be suspended automatically when the licensee ceases to be employed by an official agency or by a State agency under a delegation of authority pursuant to this chapter or to operate under the terms of a contract for the conduct of any functions under this chapter: Provided further, That subject to subsection (c) of this section such license shall be reinstated if the licensee is employed by an official agency or by a State agency under a delegation of authority pursuant to this chapter or resumes operation under such a contract within one year of the suspension date and the license has not expired in the interim.
 
 **(c) Examination of applicants; reexaminations** The Secretary may require such examinations and reexaminations as the Secretary may deem warranted to determine the competence of any applicants for licenses, licensees, or employees of the Secretary, to perform any official inspection or weighing function under this chapter.
 
@@ -809,6 +900,8 @@ Section 83, act Aug. 11, 1916, ch. 313, pt. B, § 7 (part), 39 Stat. 484, called
 The General Schedule, referred to in subsec. (e), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).
 
 #### Amendments
+2015—Subsec. (b). Pub. L. 114–54 substituted “every 5 years” for “triennially”.
+
 2000—Subsec. (a)(3). Pub. L. 106–472 inserted “inspection, weighing,” after “laboratory testing,”.
 
 1994—Pub. L. 103–354 substituted “Secretary” for “Administrator” and “Service” wherever appearing.
@@ -1503,11 +1596,13 @@ For effective date of section, see section 2 of Pub. L. 90–487, set out as an 
 <a id="section-87h"></a>
 ## § 87h. Appropriations
 
-There are hereby authorized to be appropriated such sums as are necessary for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 1988 through 2015, to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
+There are hereby authorized to be appropriated such sums as are necessary for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 1988 through 2020, to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Pub. L. 114–54 substituted “2020” for “2015”.
+
 2005—Pub. L. 109–83 substituted “2015” for “2005”.
 
 2000—Pub. L. 106–472 substituted “2005” for “2000”.
@@ -1568,7 +1663,7 @@ Section, act Aug. 11, 1916, ch. 313, pt. B, § 20, as added Aug. 13, 1981, Pub. 
 
 **(d) Compensation and travel expenses** Members of the advisory committee shall serve without compensation, if not otherwise officers or employees of the United States, except that members shall, while away from their homes or regular places of business in the performance of services under this chapter, be allowed travel expenses, including per diem in lieu of subsistence, as authorized under [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
 
-**(e) Expiration of Secretary’s authority** The authority provided to the Secretary for the establishment and maintenance of an advisory committee under this section shall expire on September 30, 2015.
+**(e) Expiration of Secretary’s authority** The authority provided to the Secretary for the establishment and maintenance of an advisory committee under this section shall expire on September 30, 2020.
 
 ### Statutory Notes
 
@@ -1578,6 +1673,8 @@ The enactment of this section, referred to in subsec. (a), means Oct. 24, 1988, 
 The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2015—Subsec. (e). Pub. L. 114–54 substituted “2020” for “2015”.
+
 2005—Subsec. (e). Pub. L. 109–83 substituted “2015” for “2005”.
 
 2000—Subsec. (e). Pub. L. 106–472 substituted “2005” for “2000”.

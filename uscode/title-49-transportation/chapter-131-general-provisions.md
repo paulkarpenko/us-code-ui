@@ -69,7 +69,7 @@ The Bus Regulatory Reform Act of 1982, referred to in subsec. (a)(3)(C), is Pub.
 Provisions similar to those in this section were contained in [section 10101 of this title](./chapter-101-general-provisions.md#section-10101) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13102"></a>

@@ -1140,7 +1140,7 @@ Pub. L. 110–234, title VII, § 7311(b), May 22, 2008, 122 Stat. 1245, and Pub.
 
 (1) **Authorization of appropriations** — There is authorized to be appropriated to carry out the Program $25,000,000, to remain available until expended.
 
-(2) **Administration** — Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 450i(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section450i/b&num=0&edition=prelim) shall apply with respect to the making of a competitive grant under this section.
+(2) **Administration** — Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of [section 450i of this title](./chapter-017-miscellaneous-matters.md#section-450i) shall apply with respect to the making of a competitive grant under this section.
 
 (3) **Maintenance of effort** — Funds made available under paragraph (1) shall be used only to supplement, not to supplant, the amount of Federal funding otherwise expended for nutrition, research, and extension programs of the Department.
 
@@ -1148,6 +1148,12 @@ Pub. L. 110–234, title VII, § 7311(b), May 22, 2008, 122 Stat. 1245, and Pub.
 
 #### References in Text
 The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2015—Subsec. (b)(4). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 
 <a id="section-7642"></a>

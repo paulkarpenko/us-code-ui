@@ -223,9 +223,11 @@ Pub. L. 109–469, § 102(a), amended subsec. (a) generally. Prior to amendment,
 Subsec. (b). Pub. L. 109–469, § 102(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to Director and Deputy Directors of National Drug Control Policy.
 
 #### Gifts to Office of National Drug Control Policy
-Pub. L. 113–235, div. E, title II, Dec. 16, 2014, 128 Stat. 2344, provided in part: “That the Office [of National Drug Control Policy] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office.”
+Pub. L. 114–113, div. E, title II, Dec. 18, 2015, 129 Stat. 2436, provided in part: “That the Office [of National Drug Control Policy] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. E, title II, Dec. 16, 2014, 128 Stat. 2344.
 
 Pub. L. 113–76, div. E, title II, Jan. 17, 2014, 128 Stat. 195.
 
@@ -455,7 +457,7 @@ William J. Clinton.
 
         (aa) may issue a written decertification of that agency’s budget; and
 
-        (bb) in the case of a decertification issued under item (aa), shall submit to the Senate and the House of Representatives and the appropriate congressional committees, a copy of— (aaa) the decertification issued under item (aa); (bbb) the description made under subparagraph (B); and (ccc) the budget recommendations made under subsection (b)(8) of this section.
+        (bb) in the case of a decertification issued under item (aa), shall submit to the Senate and the House of Representatives and the appropriate congressional committees, a copy of— (aaa) the decertification issued under item (aa); (bbb) the description made under subparagraph (B); and (ccc) the budget recommendations made under subsection (b)(8).
 
 (4) **Reprogramming and transfer requests**
 
@@ -463,11 +465,11 @@ William J. Clinton.
 
   (B) *Appeal* — The head of any National Drug Control Program agency may appeal to the President any disapproval by the Director of a reprogramming or transfer request under this paragraph.
 
-**(d) Powers of the Director** In carrying out subsection (b) of this section, the Director may—
+**(d) Powers of the Director** In carrying out subsection (b), the Director may—
 
 (1) select, appoint, employ, and fix compensation of such officers and employees of the Office as may be necessary to carry out the functions of the Office under this chapter;
 
-(2) subject to subsection (e)(3) of this section, request the head of a department or agency, or program of the Federal Government to place department, agency, or program personnel who are engaged in drug control activities on temporary detail to another department, agency, or program in order to implement the National Drug Control Strategy, and the head of the department or agency shall comply with such a request;
+(2) subject to subsection (e)(3), request the head of a department or agency, or program of the Federal Government to place department, agency, or program personnel who are engaged in drug control activities on temporary detail to another department, agency, or program in order to implement the National Drug Control Strategy, and the head of the department or agency shall comply with such a request;
 
 (3) use for administrative purposes, on a reimbursable basis, the available services, equipment, personnel, and facilities of Federal, State, and local agencies;
 
@@ -497,9 +499,9 @@ William J. Clinton.
 
     (i) submit to Congress, including to the Committees on Appropriations of the Senate and the House of Representatives, the authorizing committees for the Office, and any other applicable committees of jurisdiction, a reprogramming or transfer request in advance of any transfer under this paragraph in accordance with the regulations of the affected agency or agencies; and
 
-    (ii) annually submit to Congress a report describing the effect of all transfers of funds made pursuant to this paragraph or subsection (c)(4) of this section during the 12-month period preceding the date on which the report is submitted;
+    (ii) annually submit to Congress a report describing the effect of all transfers of funds made pursuant to this paragraph or subsection (c)(4) during the 12-month period preceding the date on which the report is submitted;
 
-(9) issue to the head of a National Drug Control Program agency a fund control notice described in subsection (f) of this section to ensure compliance with the National Drug Control Program Strategy and notify the appropriate congressional committees of any fund control notice issued in accordance with subsection (f)(5);
+(9) issue to the head of a National Drug Control Program agency a fund control notice described in subsection (f) to ensure compliance with the National Drug Control Program Strategy and notify the appropriate congressional committees of any fund control notice issued in accordance with subsection (f)(5);
 
 (10) participate in the drug certification process pursuant to [section 2291j of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291j&num=0&edition=prelim) and [section 2291j–1 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291j–1&num=0&edition=prelim).
 
@@ -519,7 +521,7 @@ William J. Clinton.
 
   (C) *Aggregate amount* — The aggregate amount paid during any fiscal year to an employee detailed to the Office as basic pay, awards, bonuses, and other compensation shall not exceed the annual rate payable at the end of such fiscal year for positions at level III of the Executive Schedule.
 
-(3) **Maximum number of detailees** — The maximum number of personnel who may be detailed to another department or agency (including the Office) under subsection (d)(2) of this section during any fiscal year is—
+(3) **Maximum number of detailees** — The maximum number of personnel who may be detailed to another department or agency (including the Office) under subsection (d)(2) during any fiscal year is—
 
   (A) for the Department of Defense, 50; and
 
@@ -1664,9 +1666,9 @@ Pub. L. 108–199, div. F, title III, Jan. 23, 2004, 118 Stat. 324.
 
 <a id="section-1712"></a>
 ## § 1712. Termination of Office of National Drug Control Policy
-**(a) In general** Except as provided in subsection (b) of this section, effective on September 30, 2010, this chapter and the amendments made to this chapter are repealed.
+**(a) In general** Except as provided in subsection (b), effective on September 30, 2010, this chapter and the amendments made to this chapter are repealed.
 
-**(b) Exception** Subsection (a) of this section does not apply to section 713 or the amendments made by that section.
+**(b) Exception** Subsection (a) does not apply to section 713 or the amendments made by that section.
 
 ### Statutory Notes
 

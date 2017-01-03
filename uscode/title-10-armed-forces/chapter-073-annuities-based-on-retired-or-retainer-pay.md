@@ -401,7 +401,7 @@ If, for any period, a person who has been retired or has become entitled to reti
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
 | 1438 | 37:374. | Aug. 8, 1953, ch. 393, § 5, 67 Stat. 504. |
 
-The words “a person who has been retired or has become entitled to retired or retainer pay, and who has elected an annuity under this chapter” are substituted for the words “a retired member of a uniformed service who has made the election specified in [section 372 of this title](./chapter-018-military-support-for-civilian-law-enforcement-agencies.md#section-372)”, since the revised chapter applies to persons who are receiving retired pay as well as retired members. The word “otherwise” is substituted for the words “had he been receiving that pay”. The words “to provide the annuity” are inserted for clarity.
+The words “a person who has been retired or has become entitled to retired or retainer pay, and who has elected an annuity under this chapter” are substituted for the words “a retired member of a uniformed service who has made the election specified in [section 372 of this title](./chapter-016-security-cooperation.md#section-372)”, since the revised chapter applies to persons who are receiving retired pay as well as retired members. The word “otherwise” is substituted for the words “had he been receiving that pay”. The words “to provide the annuity” are inserted for clarity.
 
 #### Amendments
 1972—Pub. L. 92–425 substituted “subchapter” for “chapter”.
@@ -419,7 +419,7 @@ If a person whose name is on the temporary disability retired list of an armed f
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
 | 1439 | 37:373(d). | Aug. 8, 1953, ch. 393, § 4(d), 67 Stat. 503. |
 
-The words “person whose name is on” are substituted for the words “Any active member or former member on the”. The words “is entitled to a refund” are substituted for the words “shall have refunded to him”. The words “permanent”, “a sum which represents”, and “in accordance with his election under [section 372 of this title](./chapter-018-military-support-for-civilian-law-enforcement-agencies.md#section-372)” are omitted as surplusage. The words “retirement or grant of retired pay” are substituted for the words “permanent retirement”, since under chapter 67 of this title a member of the Army or Air Force may be granted retired pay without being retired.
+The words “person whose name is on” are substituted for the words “Any active member or former member on the”. The words “is entitled to a refund” are substituted for the words “shall have refunded to him”. The words “permanent”, “a sum which represents”, and “in accordance with his election under [section 372 of this title](./chapter-016-security-cooperation.md#section-372)” are omitted as surplusage. The words “retirement or grant of retired pay” are substituted for the words “permanent retirement”, since under chapter 67 of this title a member of the Army or Air Force may be granted retired pay without being retired.
 
 #### Amendments
 1972—Pub. L. 92–425 substituted “subchapter” for “chapter”.
@@ -952,6 +952,28 @@ Pub. L. 95–397, title II, § 208, Sept. 30, 1978, 92 Stat. 848, as amended by 
 
 (6) **Special needs trusts for sole benefit of certain dependent children.—** — A person who has established a supplemental or special needs trust under subparagraph (A) or (C) of section 1917(d)(4) of the Social Security Act ([42 U.S.C. 1396p(d)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396p/d/4&num=0&edition=prelim)) for the sole benefit of a dependent child considered disabled under section 1614(a)(3) of that Act ([42 U.S.C. 1382c(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382c/a/3&num=0&edition=prelim)) who is incapable of self-support because of mental or physical incapacity may elect to provide an annuity to that supplemental or special needs trust.
 
+(7) **Effect of death of former spouse beneficiary.—**
+
+  (A) *Termination of participation in plan.—* — A person who elects to provide an annuity to a former spouse under paragraph (2) or (3) and whose former spouse subsequently dies is no longer a participant in the Plan, effective on the date of death of the former spouse.
+
+  (B) *Authority for election of new spouse beneficiary.—* — If a person’s participation in the Plan is discontinued by reason of the death of a former spouse beneficiary, the person may elect to resume participation in the Plan and to elect a new spouse beneficiary as follows:
+
+    (i) *Married on the date of death of former spouse.—* — A person who is married at the time of the death of the former spouse beneficiary may elect to provide coverage to that person’s spouse. Such an election must be received by the Secretary concerned within one year after the date of death of the former spouse beneficiary.
+
+    (ii) *Marriage after death of former spouse beneficiary.—* — A person who is not married at the time of the death of the former spouse beneficiary and who later marries may elect to provide spouse coverage. Such an election must be received by the Secretary concerned within one year after the date on which that person marries.
+
+  (C) *Effective date of election.—* — The effective date of election under this paragraph shall be as follows:
+
+    (i) An election under subparagraph (B)(i) is effective as of the first day of the first calendar month following the death of the former spouse beneficiary.
+
+    (ii) An election under subparagraph (B)(ii) is effective as of the first day of the first calendar month following the month in which the election is received by the Secretary concerned.
+
+  (D) *Level of coverage.—* — A person making an election under subparagraph (B) may not reduce the base amount previously elected.
+
+  (E) *Procedures.—* — An election under this paragraph shall be in writing, signed by the participant, and made in such form and manner as the Secretary concerned may prescribe.
+
+  (F) *Irrevocability.—* — An election under this paragraph is irrevocable.
+
 **(c) Persons on Temporary Disability Retired List.—** The application of the Plan to a person whose name is on the temporary disability retired list terminates when his name is removed from that list and he is no longer entitled to disability retired pay.
 
 **(d) Coverage for Survivors of Members Who Die on Active Duty.—**
@@ -1008,7 +1030,11 @@ Pub. L. 95–397, title II, § 208, Sept. 30, 1978, 92 Stat. 848, as amended by 
 
   (B) is a member of a reserve component not described in subparagraph (A) and dies from an injury or illness incurred or aggravated in the line of duty during inactive-duty training.
 
-(2) **Dependent child annuity.—** — The Secretary concerned shall pay an annuity under this subchapter to the dependent child, or to a special needs trust pursuant to [section 1450(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a/4&num=0&edition=prelim), of a person described in paragraph (1) if there is no surviving spouse or if the person’s surviving spouse subsequently dies.
+(2) **Dependent children annuity.—**
+
+  (A) *Annuity when no eligible surviving spouse.—* — In the case of a person described in paragraph (1), the Secretary concerned shall pay an annuity under this subchapter to the dependent children of that person under [section 1450(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a/2&num=0&edition=prelim) as applicable.
+
+  (B) *Optional annuity when there is an eligible surviving spouse.—* — The Secretary may pay an annuity under this subchapter to the dependent children of a person described in paragraph (1) under [section 1450(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a/3&num=0&edition=prelim), if applicable, instead of paying an annuity to the surviving spouse under paragraph (1), if the Secretary concerned, in consultation with the surviving spouse, determines it appropriate to provide an annuity for the dependent children under this paragraph instead of an annuity for the surviving spouse under paragraph (1).
 
 (3) **Mandatory former spouse annuity.—** — If a person described in paragraph (1) is required under a court order or spousal agreement to provide an annuity to a former spouse upon becoming eligible to be a participant in the Plan or has made an election under subsection (b) to provide an annuity to a former spouse, the Secretary—
 
@@ -1017,6 +1043,8 @@ Pub. L. 95–397, title II, § 208, Sept. 30, 1978, 92 Stat. 848, as amended by 
   (B) shall pay an annuity to that former spouse as if the person had been a participant in the Plan and had made an election under subsection (b) to provide an annuity to the former spouse, or in accordance with that election, as the case may be, if the Secretary receives a written request from the former spouse concerned that the election be deemed to have been made in the same manner as provided in [section 1450(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/f/3&num=0&edition=prelim).
 
 (4) **Computation.—** — The amount of an annuity under this subsection is computed under [section 1451(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1451/c&num=0&edition=prelim).
+
+(5) **Deemed election to provide an annuity for dependent.—** — Paragraph (6) of subsection (d) shall apply in the case of a member described in paragraph (1) who dies after November 23, 2003, when no other annuity is payable on behalf of the member under this subchapter.
 
 **(g) Election To Increase Coverage Upon Remarriage.—**
 
@@ -1042,6 +1070,12 @@ Pub. L. 95–397, title II, § 208, Sept. 30, 1978, 92 Stat. 848, as amended by 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (f)(2). Pub. L. 114–328, § 642(b), amended par. (2) generally. Prior to amendment, text read as follows: “The Secretary concerned shall pay an annuity under this subchapter to the dependent child, or to a special needs trust pursuant to [section 1450(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a/4&num=0&edition=prelim), of a person described in paragraph (1) if there is no surviving spouse or if the person’s surviving spouse subsequently dies.”
+
+Subsec. (f)(5). Pub. L. 114–328, § 642(c), added par. (5).
+
+2015—Subsec. (b)(7). Pub. L. 114–92 added par. (7).
+
 2014—Subsec. (b)(6). Pub. L. 113–291, § 624(a)(2)(B)(i), added par. (6).
 
 Subsec. (d)(2)(A). Pub. L. 113–291, § 624(a)(2)(B)(ii)(I), substituted “subsection (a)(2) or (a)(4) of section 1450” for “section 1450(a)(2)”.
@@ -1190,6 +1224,12 @@ Subsec. (e). Pub. L. 95–397, § 202(c), added subsec. (e).
 
 1976—Subsec. (a). Pub. L. 94–496 inserted “or elects to provide an annuity for a dependent child but not for his spouse” after “maximum level”.
 
+#### Effective Date of 2016 Amendment
+Pub. L. 114–328, div. A, title VI, § 642(e), Dec. 23, 2016, 130 Stat. 2165, provided that: “(1) Payment.—No annuity benefit under subchapter II of chapter 73 of title 10, United States Code, shall accrue to any person by reason of the amendments made by this section [amending this section and sections 1450 and 1451 of this title] for any period before the date of the enactment of this Act [Dec. 23, 2016]. “(2) Elections.—For any death that occurred before the date of the enactment of this Act with respect to which an annuity under such subchapter is being paid (or could be paid) to a surviving spouse, the Secretary concerned may, within six months of that date and in consultation with the surviving spouse, determine it appropriate to provide an annuity for the dependent children of the decedent under paragraph 1448(f)(2)(B) of title 10, United States Code, as added by subsection (b), instead of an annuity for the surviving spouse. Any such determination and resulting change in beneficiary shall be effective as of the first day of the first month following the date of the determination.”
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–92, div. A, title VI, § 641(b), Nov. 25, 2015, 129 Stat. 853, provided that: “Paragraph (7) of [section 1448(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1448/b&num=0&edition=prelim), United States Code, as added by subsection (a), shall apply with respect to any person whose former spouse beneficiary dies on or after the date of the enactment of this Act [Nov. 25, 2015].”
+
 #### Effective Date of 2006 Amendment
 Pub. L. 109–364, div. A, title VI, § 644(b), Oct. 17, 2006, 120 Stat. 2261, provided that: “Any annuity payable to a dependent child under subchapter II of chapter 73 of title 10, United States Code, by reason of the amendment made by subsection (a) [amending this section] shall be payable only for months beginning on or after the date of the enactment of this Act [Oct. 17, 2006].”
 
@@ -1227,6 +1267,9 @@ Amendment by Pub. L. 94–496 effective Sept. 21, 1972, see section 3 of Pub. L.
 
 #### Effective Date of 1997 Amendments by Section 645 of Pub. L. 105–85
 Pub. L. 105–85, div. A, title VI, § 645(c), Nov. 18, 1997, 111 Stat. 1801, provided that: “The amendments made by this section [amending section 4(e)(1) of Pub. L. 92–425 and section 653(d) of Pub. L. 100–456, set out below] take effect on the first day of the first month beginning after the date of the enactment of this Act [Nov. 18, 1997] and shall apply with respect to payments of benefits for months beginning on or after that date, except that the Secretary of Veterans Affairs may provide, if necessary for administrative implementation, that such amendments shall apply beginning with a later month, not later than the first month beginning more than 180 days after the date of the enactment of this Act.”
+
+#### Applicability to Former Spouse Deaths Before Enactment of Pub. L. 114–92
+Pub. L. 114–92, div. A, title VI, § 641(c), Nov. 25, 2015, 129 Stat. 853, provided that: “(1) In general.—A person—“(A) who before the date of the enactment of this Act [Nov. 25, 2015] had a former spouse beneficiary under the Survivor Benefit Plan who died before that date; and “(B) who on the date of the enactment of this Act is married, may elect to provide spouse coverage for such spouse under the Plan, regardless of whether the person married such spouse before or after the death of the former spouse beneficiary. Any such election may only be made during the one-year period beginning on the date of the enactment of this Act. “(2) Effective date of election if married at least a year at death former spouse.—If the person providing the annuity was married to the spouse beneficiary for at least one year at the time of the death of the former spouse beneficiary, the effective date of such election shall be the first day of the first month after the death of the former spouse beneficiary. “(3) Other effective date.—If the person providing the annuity married the spouse beneficiary after (or during the one-year period preceding) the death of the former spouse beneficiary, the effective date of the election shall be the first day of the first month following the first anniversary of the person’s marriage to the spouse beneficiary. “(4) Responsibility for premiums.—A person electing to participate in the Plan under this subsection shall be responsible for payment of all premiums due from the effective date of the election.”
 
 #### Transition
 Pub. L. 109–364, div. A, title VI, § 643(c), Oct. 17, 2006, 120 Stat. 2261, provided that: “(1) Transition period.—In the case of a participant in the Survivor Benefit Plan who made a covered insurable-interest election (as defined in paragraph (2)) and whose designated beneficiary under that election dies before the date of the enactment of this Act [Oct. 17, 2006] or during the 18-month period beginning on such date, the time period applicable for purposes of the limitation in the third sentence of subparagraph (G)(i) of [section 1448(b)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1448/b/1&num=0&edition=prelim), United States Code, as added by subsection (a), shall be the two-year period beginning on the date of the enactment of this Act (rather than the 180-day period specified in that sentence). “(2) Covered insurable-interest elections.—For purposes of paragraph (1), a covered insurable-interest election is an election under [section 1448(b)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1448/b/1&num=0&edition=prelim), United States Code, made before the date of the enactment of this Act [Oct. 17, 2006], or during the 18-month period beginning on such date, by a participant in the Survivor Benefit Plan to provide an annuity under that plan to a natural person with an insurable interest in that person. “(3) Survivor benefit plan.—For purposes of this subsection, the term ‘Survivor Benefit Plan’ means the program under subchapter II of chapter 73 of title 10, United States Code.”
@@ -1337,11 +1380,13 @@ Pub. L. 105–85, div. A, title VI, § 641(b), Nov. 18, 1997, 111 Stat. 1798, pr
 
 (1) **Authority upon subsequent determination of mental competence.—** — If a person for whom the Secretary has made an election under subsection (a) is later determined to be mentally competent by an authority named in that subsection, that person may, within 180 days after that determination, revoke that election.
 
-(2) **Deductions from retired pay not to be refunded.—** — Any deduction made from retired pay by reason of such an election may not be refunded.
+(2) **Deductions from retired pay or CRSC not to be refunded.—** — Any deduction made from retired pay or combat-related special compensation by reason of such an election may not be refunded.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (b)(2). Pub. L. 114–328 inserted “or CRSC” after “retired pay” in heading and “or combat-related special compensation” after “from retired pay” in text.
+
 1996—Pub. L. 104–201 amended section generally. Prior to amendment, section read as follows: “If a person to whom [section 1448 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1448) applies is determined to be mentally incompetent by medical officers of the armed force concerned or of the Department of Veterans Affairs, or by a court of competent jurisdiction, any election described in subsection (a)(2) or (b) of [section 1448 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1448) may be made on behalf of that person by the Secretary concerned. If the person for whom the Secretary has made an election is later determined to be mentally competent by an authority named in the first sentence, he may, within 180 days after that determination revoke that election. Any deductions made from retired pay by reason of such an election will not be refunded.”
 
 1989—Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration” and struck out “or retainer” after “made from retired”.
@@ -1392,9 +1437,9 @@ Amendment by Pub. L. 95–397 effective Oct. 1, 1978, and applicable to annuitie
 
 **(d) Limitation on Payment of Annuities When Coverage Under Civil Service Retirement Elected.—** If, upon the death of a person to whom [section 1448 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1448) applies, that person had in effect a waiver of that person’s retired pay for the purposes of subchapter III of chapter 83 of title 5 or chapter 84 of such title, an annuity under this section shall not be payable unless, in accordance with section 8339(j) or 8416(a) of title 5, that person notified the Office of Personnel Management that he did not desire any spouse surviving him to receive an annuity under section 8341(b) or 8442(a) of that title.
 
-**(e) Refund of Amounts Deducted From Retired Pay When DIC Offset Is Applicable.—**
+**(e) Refund of Amounts Deducted From Retired Pay or CRSC When DIC Offset Is Applicable.—**
 
-(1) **Full refund when dic greater than sbp annuity.—** — If an annuity under this section is not payable because of subsection (c), any amount deducted from the retired pay of the deceased under [section 1452 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1452) shall be refunded to the surviving spouse or former spouse.
+(1) **Full refund when dic greater than sbp annuity.—** — If an annuity under this section is not payable because of subsection (c), any amount deducted from the retired pay or combat-related special compensation of the deceased under [section 1452 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1452) shall be refunded to the surviving spouse or former spouse.
 
 (2) **Partial refund when sbp annuity reduced by dic.—** — If, because of subsection (c), the annuity payable is less than the amount established under [section 1451 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1451), the annuity payable shall be recalculated under that section. The amount of the reduction in the retired pay required to provide that recalculated annuity shall be computed under [section 1452 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1452), and the difference between the amount deducted before the computation of that recalculated annuity and the amount that would have been deducted on the basis of that recalculated annuity shall be refunded to the surviving spouse or former spouse.
 
@@ -1524,7 +1569,7 @@ Amendment by Pub. L. 95–397 effective Oct. 1, 1978, and applicable to annuitie
 
   (A) the surviving spouse or former spouse is entitled to dependency and indemnity compensation under [section 1311(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1311/a&num=0&edition=prelim);
 
-  (B) except for subsection (c) of this section, the surviving spouse or former spouse is eligible for an annuity by reason of a participant in the Plan under subsection (a)(1) of [section 1448 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1448) or by reason of coverage under subsection (d) of such section; and
+  (B) except for subsection (c) of this section, the surviving spouse or former spouse is eligible for an annuity by reason of a participant in the Plan under subsection (a)(1) of [section 1448 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1448) or by reason of coverage under subsection (d) or (f) of such section; and
 
   (C) the eligibility of the surviving spouse or former spouse for an annuity as described in subparagraph (B) is affected by subsection (c) of this section.
 
@@ -1546,7 +1591,7 @@ Amendment by Pub. L. 95–397 effective Oct. 1, 1978, and applicable to annuitie
 
   (H) for months during fiscal year 2016, $275; and
 
-  (I) for months during fiscal year 2017, $310.
+  (I) for months during each of fiscal years 2017 and 2018, $310.
 
 (3) **Limitation.—** — The amount of the allowance paid to an eligible survivor under paragraph (1) for any month may not exceed the amount of the annuity for that month that is subject to offset under subsection (c).
 
@@ -1554,11 +1599,21 @@ Amendment by Pub. L. 95–397 effective Oct. 1, 1978, and applicable to annuitie
 
 (5) **Source of funds.—** — The special survivor indemnity allowance shall be paid from amounts in the Department of Defense Military Retirement Fund established under [section 1461 of this title](./chapter-074-department-of-defense-military-retirement-fund.md#section-1461).
 
-(6) **Effective date and duration.—** — This subsection shall only apply with respect to the month beginning on October 1, 2008, and subsequent months through the month ending on September 30, 2017. Effective on October 1, 2017, the authority provided by this subsection shall terminate. No special survivor indemnity allowance may be paid to any person by reason of this subsection for any period before October 1, 2008, or beginning on or after October 1, 2017.
+(6) **Effective date and duration.—** — This subsection shall only apply with respect to the month beginning on October 1, 2008, and subsequent months through the month ending on May 31, 2018. Effective on June 1, 2018, the authority provided by this subsection shall terminate. No special survivor indemnity allowance may be paid to any person by reason of this subsection for any period before October 1, 2008, or beginning on or after June 1, 2018.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (e). Pub. L. 114–328, § 643(c)(2)(A), inserted “or CRSC” after “Retired Pay” in heading.
+
+Subsec. (e)(1). Pub. L. 114–328, § 643(c)(2)(B), inserted “or combat-related special compensation” after “from the retired pay”.
+
+Subsec. (m)(1)(B). Pub. L. 114–328, § 642(d), inserted “or (f)” after “subsection (d)”.
+
+Subsec. (m)(2)(I). Pub. L. 114–328, § 646(1), substituted “each of fiscal years 2017 and 2018” for “fiscal year 2017”.
+
+Subsec. (m)(6). Pub. L. 114–328, § 646(2), substituted “May 31, 2018” for “September 30, 2017” and substituted “June 1, 2018” for “October 1, 2017” in two places.
+
 2014—Subsec. (a)(4), (5). Pub. L. 113–291, § 624(a)(1), added par. (4) and redesignated former par. (4) as (5).
 
 Subsec. (i). Pub. L. 113–291, § 624(a)(2)(A), inserted “(a)(4) or” after “subsection”.
@@ -1691,6 +1746,9 @@ Subsecs. (j), (k). Pub. L. 95–397, § 203(2), added subsecs. (j) and (k).
 
 Subsec. (f). Pub. L. 94–496, § 1(4), substituted “(a)(4)” for “(a)(3)”.
 
+#### Effective Date of 2016 Amendment
+Amendment by section 642(d) of Pub. L. 114–328 inapplicable to accural of annuity benefits under subchapter II of chapter 73 of this title for any period prior to Dec. 23, 2016, with provisions for election of benefits payable to dependent children, see section 642(e) of Pub. L. 114–328, set out as a note under [section 1448 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1448).
+
 #### Effective Date of 2013 Amendment
 Pub. L. 112–239, div. A, title VI, § 641(c), Jan. 2, 2013, 126 Stat. 1783, provided that: “The amendments made by this section [amending this section and [section 1452 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1452)] shall apply with respect to any participant electing an annuity for survivors under chapter 84 of title 5, United States Code, on or after the date of the enactment of this Act [Jan. 2, 2013].”
 
@@ -1739,7 +1797,7 @@ Pub. L. 106–65, div. A, title VI, § 657, Oct. 5, 1999, 113 Stat. 668, as amen
 ## § 1451. Amount of annuity
 **(a) Computation of Annuity for a Spouse, Former Spouse, or Child.—**
 
-(1) **Standard annuity.—** — In the case of a standard annuity provided to a beneficiary under [section 1450(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a&num=0&edition=prelim) (other than under section 1450(a)(4) 11 See References in Text note below.), the monthly annuity payable to the beneficiary shall be determined as follows:
+(1) **Standard annuity.—** — In the case of a standard annuity provided to a beneficiary under [section 1450(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a&num=0&edition=prelim) (other than under section 1450(a)(4)),11 See References in Text note below. the monthly annuity payable to the beneficiary shall be determined as follows:
 
   (A) *Beneficiary under 62 years of age.—* — If the beneficiary is under 62 years of age or is a dependent child when becoming entitled to the annuity, the monthly annuity shall be the amount equal to 55 percent of the base amount.
 
@@ -1759,7 +1817,7 @@ Pub. L. 106–65, div. A, title VI, § 657, Oct. 5, 1999, 113 Stat. 668, as amen
 
     (ii) *Rule if beneficiary eligible for social security offset computation.—* — If the beneficiary is eligible to have the annuity computed under subsection (e) and if computation of the annuity under that subsection is more favorable to the beneficiary than computation under clause (i), the annuity shall be computed under that subsection rather than under clause (i).
 
-(2) **Reserve-component annuity.—** — In the case of a reserve-component annuity provided to a beneficiary under [section 1450(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a&num=0&edition=prelim) (other than under section 1450(a)(4) 1), the monthly annuity payable to the beneficiary shall be determined as follows:
+(2) **Reserve-component annuity.—** — In the case of a reserve-component annuity provided to a beneficiary under [section 1450(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1450/a&num=0&edition=prelim) (other than under section 1450(a)(4)),1 the monthly annuity payable to the beneficiary shall be determined as follows:
 
   (A) *Beneficiary under 62 years of age.—* — If the beneficiary is under 62 years of age or is a dependent child when becoming entitled to the annuity, the monthly annuity shall be the amount equal to a percentage of the base amount that—
 
@@ -1802,11 +1860,11 @@ Pub. L. 106–65, div. A, title VI, § 657, Oct. 5, 1999, 113 Stat. 668, as amen
 
   (A) *Beneficiary under 62 years of age.—* — If the person receiving the annuity is under 62 years of age or is a dependent child when the member or former member dies, the monthly annuity shall be the amount equal to 55 percent of the retired pay to which the member or former member would have been entitled if the member or former member had been entitled to that pay when he died determined as follows:
 
-    (i) In the case of an annuity provided under [section 1448(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1448/d&num=0&edition=prelim) (other than in a case covered by clause (ii)), such retired pay shall be computed as if the member had been retired under [section 1201 of this title](./chapter-061-retirement-or-separation-for-physical-disability.md#section-1201) on the date of the member’s death with a disability rated as total.
+    (i) In the case of an annuity provided under section 1448(d) or 1448(f) of this title (other than in a case covered by clause (ii) or (iii)), such retired pay shall be computed as if the member had been retired under [section 1201 of this title](./chapter-061-retirement-or-separation-for-physical-disability.md#section-1201) on the date of the member’s death with a disability rated as total.
 
     (ii) In the case of an annuity provided under [section 1448(d)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1448/d/1/A&num=0&edition=prelim) by reason of the death of a member not in line of duty, such retired pay shall be computed based upon the member’s years of active service when he died.
 
-    (iii) In the case of an annuity provided under [section 1448(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1448/f&num=0&edition=prelim), such retired pay shall be computed based upon the member or former member’s years of active service when he died computed under [section 12733 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12733).
+    (iii) In the case of an annuity provided under [section 1448(f)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1448/f/1/A&num=0&edition=prelim) by reason of the death of a member or former member not in line of duty, such retired pay shall be computed based upon the member or former member’s years of service when he died computed under [section 12733 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12733).
 
   (B) *Beneficiary 62 years of age or older.—*
 
@@ -1920,6 +1978,10 @@ The Social Security Act, referred to in subsec. (e)(3)(A), (4)(A), is act Aug. 1
 Section 6413(c) of the Internal Revenue Code of 1986, referred to in subsec. (e)(4)(B)(ii), is classified to [section 6413(c) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6413/c&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
+2016—Subsec. (c)(1)(A)(i). Pub. L. 114–328, § 642(a)(1), inserted “or 1448(f)” after “section 1448(d)” and “or (iii)” after “clause (ii)”.
+
+Subsec. (c)(1)(A)(iii). Pub. L. 114–328, § 642(a)(2), substituted “[section 1448(f)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1448/f/1/A&num=0&edition=prelim) by reason of the death of a member or former member not in line of duty” for “[section 1448(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1448/f&num=0&edition=prelim)” and “service” for “active service”.
+
 2004—Subsec. (a)(1)(B)(i). Pub. L. 108–375, § 644(a)(1)(A), substituted “the product of the base amount and the percent applicable to the month, as follows:” and subcls. (I) to (V) for “35 percent of the base amount.”
 
 Subsec. (a)(1)(B)(ii). Pub. L. 108–375, § 644(a)(1)(B), struck out “, at the time the beneficiary becomes entitled to the annuity,” after “subsection (e) and if”.
@@ -2011,6 +2073,9 @@ Subsec. (b). Pub. L. 95–397, § 204(c), substituted “The monthly annuity pay
 Subsec. (d). Pub. L. 95–397, § 204(d), added subsec. (d).
 
 1976—Subsec. (b). Pub. L. 94–496 substituted “(a)(4)” for “(a)(3)”.
+
+#### Effective Date of 2016 Amendment
+Amendment by Pub. L. 114–328 inapplicable to accural of annuity benefits under subchapter II of chapter 73 of this title for any period prior to Dec. 23, 2016, with provisions for election of benefits payable to dependent children, see section 642(e) of Pub. L. 114–328, set out as a note under [section 1448 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1448).
 
 #### Effective Date of 2001 Amendment
 Amendment by Pub. L. 107–107 effective Sept. 10, 2001, and applicable with respect to deaths of members of the Armed Forces occurring on or after that date, see section 642(d) of Pub. L. 107–107, set out as a note under [section 1448 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1448).
@@ -2129,17 +2194,19 @@ Pub. L. 101–189, div. A, title XIV, § 1403(b)–(d), Nov. 29, 1989, 103 Stat.
 
   (C) Any additional amount that the Secretary determines necessary to protect the actuarial soundness of the Department of Defense Military Retirement Fund against any increased risk for the fund that is associated with the election.
 
-**(d) Deposits To Cover Periods When Retired Pay Not Paid.—**
+**(d) Deposits To Cover Periods When Retired Pay Not Paid or Not Sufficient.—**
 
-(1) **Required deposits.—** — If a person who has elected to participate in the Plan has been awarded retired pay and is not entitled to that pay for any period, that person must deposit in the Treasury the amount that would otherwise have been deducted from his pay for that period.
+(1) **Required deposits.—** — If a person who has elected to participate in the Plan has been awarded retired pay and is not entitled to that pay for any period, that person must deposit in the Treasury the amount that would otherwise have been deducted from his pay for that period, except to the extent that the required deduction is made pursuant to paragraph (2).
 
-(2) **Deposits not required when participant on active duty.—** — Paragraph (1) does not apply to a person with respect to any period when that person is on active duty under a call or order to active duty for a period of more than 30 days.
+(2) **Deduction from combat-related special compensation when retired pay not adequate.—** — In the case of a person who has elected to participate in the Plan and who has been awarded both retired pay and combat-related special compensation under [section 1413a of this title](./chapter-071-computation-of-retired-pay.md#section-1413a), if a deduction from the person’s retired pay for any period cannot be made in the full amount required, there shall be deducted from the person’s combat-related special compensation in lieu of deduction from the person’s retired pay the amount that would otherwise have been deducted from the person’s retired pay for that period.
+
+(3) **Deposits not required when participant on active duty.—** — Paragraphs (1) and (2) do not apply to a person with respect to any period when that person is on active duty under a call or order to active duty for a period of more than 30 days.
 
 **(e) Deposits Not Required for Certain Participants in CSRS and FERS.—** When a person who has elected to participate in the Plan waives that person’s retired pay for the purposes of subchapter III of chapter 83 of title 5 or chapter 84 of such title, that person shall not be required to make the deposit otherwise required by subsection (d) as long as that waiver is in effect unless, in accordance with section 8339(j) or 8416(a) of title 5, that person has notified the Office of Personnel Management that he does not desire a spouse surviving him to receive an annuity under section 8341(b) or 8442(a) of title 5.
 
 **(f) Refunds of Deductions Not Allowed.—**
 
-(1) **General rule.—** — A person is not entitled to refund of any amount deducted from retired pay under this section.
+(1) **General rule.—** — A person is not entitled to refund of any amount deducted from retired pay or combat-related special compensation under this section.
 
 (2) **Exceptions.—** — Paragraph (1) does not apply—
 
@@ -2165,7 +2232,7 @@ Pub. L. 101–189, div. A, title XIV, § 1403(b)–(d), Nov. 29, 1989, 103 Stat.
 
   (B) *Right to withdraw discontinuation request.—* — A person may withdraw a request made under paragraph (1) if it is withdrawn within 30 days after having been submitted to the Secretary concerned.
 
-(4) **Refund of deductions from retired pay.—** — Upon the death of a person described in paragraph (1) who discontinued participation in the Plan in accordance with this subsection, any amount deducted from the retired pay of that person under this section shall be refunded to the person’s surviving spouse.
+(4) **Refund of deductions from retired pay or CRSC.—** — Upon the death of a person described in paragraph (1) who discontinued participation in the Plan in accordance with this subsection, any amount deducted from the retired pay or combat-related special compensation of that person under this section shall be refunded to the person’s surviving spouse.
 
 (5) **Resumption of participation in plan.—**
 
@@ -2205,6 +2272,18 @@ Pub. L. 101–189, div. A, title XIV, § 1403(b)–(d), Nov. 29, 1989, 103 Stat.
 Section 631(b) of Public Law 104–106 (110 Stat. 364), referred to in subsec. (h)(2)(A), was set out as a note under [section 1401a of this title](./chapter-071-computation-of-retired-pay.md#section-1401a) prior to repeal by Pub. L. 104–201, div. A, title VI, § 631(b), Sept. 23, 1996, 110 Stat. 2549.
 
 #### Amendments
+2016—Subsec. (d). Pub. L. 114–328, § 643(b)(1)(A), inserted “or Not Sufficient” after “Not Paid” in heading.
+
+Subsec. (d)(1). Pub. L. 114–328, § 643(b)(1)(B), inserted before period at end “, except to the extent that the required deduction is made pursuant to paragraph (2)”.
+
+Subsec. (d)(2). Pub. L. 114–328, § 643(a)(2), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (d)(3). Pub. L. 114–328, § 643(a)(1), (b)(1)(C), redesignated par. (2) as (3) and substituted “Paragraphs (1) and (2) do not” for “Paragraph (1) does not”.
+
+Subsec. (f)(1). Pub. L. 114–328, § 643(b)(2), inserted “or combat-related special compensation” after “from retired pay”.
+
+Subsec. (g)(4). Pub. L. 114–328, § 643(b)(3), inserted “or CRSC” after “retired pay” in heading and “or combat-related special compensation” after “from the retired pay” in text.
+
 2013—Subsec. (e). Pub. L. 112–239 inserted in heading “and FERS” after “CSRS” and inserted in text “or chapter 84 of such title” after “chapter 83 of title 5”, “or 8416(a)” after “8339(j)”, and “or 8442(a)” after “8341(b)”.
 
 2006—Subsec. (c)(5). Pub. L. 109–364 added par. (5).
@@ -2407,7 +2486,7 @@ Subsec. (b). Pub. L. 104–316 struck out “and the Comptroller General” afte
 #### Amendments
 2014—Subsec. (d). Pub. L. 113–291, § 624(b)(1), substituted “, Fiduciaries, and Special Needs Trusts” for “and Fiduciaries” in heading.
 
-Subsec. (d)(1)(C). Pub. L. 113–291, § 624(b)(2), added subpar. (C). Former subpar. (C) redesignated (D).
+Subsec. (d)(1)(C). Pub. L. 113–291, § 624(b)(2), added subpar. (C).
 
 Subsec. (d)(2)(C). Pub. L. 113–291, § 624(b)(3)(B), added subpar. (C). Former subpar. (C) redesignated (D).
 

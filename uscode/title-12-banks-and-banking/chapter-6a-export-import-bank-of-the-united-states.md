@@ -2,7 +2,7 @@
 title: 12
 chapter: 6A
 heading: EXPORT-IMPORT BANK OF THE UNITED STATES
-section_count: 35
+section_count: 36
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12&num=0&edition=prelim
 ---
@@ -16,9 +16,11 @@ source: >-
 
   (A) provides medium-term financing where necessary to be fully competitive—
 
-    (i) at rates of interest to the customer which are equal to rates established in international agreements; and
+    (i) at rates of interest to the customer which are equal to rates established in international agreements;
 
     (ii) in amounts up to 85 percent of the total cost of the exports involved; and
+
+    (iii) with principal amounts of not more than $25,000,000; and
 
   (B) enables the Bank to cooperate fully with the Secretary of Commerce and the Administrator of the Small Business Administration to develop a program for purposes of disseminating information (using existing private institutions) to small business concerns regarding the medium-term financing provided under this paragraph.
 
@@ -38,7 +40,7 @@ source: >-
 
   (A) It is the policy of the United States to foster expansion of exports of manufactured goods, agricultural products, and other goods and services, thereby contributing to the promotion and maintenance of high levels of employment and real income, a commitment to reinvestment and job creation, and the increased development of the productive resources of the United States. To meet this objective in all its programs, the Export-Import Bank is directed, in the exercise of its functions, to provide guarantees, insurance, and extensions of credit at rates and on terms and other conditions which are fully competitive with the Government-supported rates and terms and other conditions available for the financing of exports of goods and services from the principal countries whose exporters compete with United States exporters, including countries the governments of which are not members of the Arrangement (as defined in [section 635i–3(h)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635i–3/h/3&num=0&edition=prelim)). The Bank shall, in cooperation with the export financing instrumentalities of other governments, seek to minimize competition in government-supported export financing and shall, in cooperation with other appropriate United States Government agencies, seek to reach international agreements to reduce government subsidized export financing.
 
-  (B) It is further the policy of the United States that loans made by the Bank in all its programs shall bear interest at rates determined by the Board of Directors, consistent with the Bank’s mandate to support United States exports at rates and on terms and conditions which are fully competitive with exports of other countries, and consistent with international agreements. For the purpose of the preceding sentence, rates and terms and conditions need not be identical in all respects to those offered by foreign countries, but should be established so that the effect of such rates, terms, and conditions for all the Bank’s programs, including those for small businesses and for medium-term financing, will be to neutralize the effect of such foreign credit on international sales competition. The Bank shall consider its average cost of money as one factor in its determination of interest rates, where such consideration does not impair the Bank’s primary function of expanding United States exports through fully competitive financing. The Bank may not impose a credit application fee unless (i) the fee is competitive with the average fee charged by the Bank’s primary foreign competitors, and (ii) the borrower or the exporter is given the option of paying the fee at the outset of the loan or over the life of the loan and the present value of the fee determined under either such option is the same amount. It is also the policy of the United States that the Bank in the exercise of its functions should supplement and encourage, and not compete with, private capital; that the Bank, in determining whether to provide support for a transaction under the loan, guarantee, or insurance program, or any combination thereof, shall consider the need to involve private capital in support of United States exports as well as the cost of the transaction as calculated in accordance with the requirements of the Federal Credit Reform Act of 1990 [[2 U.S.C. 661](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim) et seq.]; that the Bank shall accord equal opportunity to export agents and managers, independent export firms, export trading companies, and small commercial banks in the formulation and implementation of its programs; that the Bank should give emphasis to assisting new and small business entrants in the agricultural export market, and shall, in cooperation with other relevant Government agencies, including the Commodity Credit Corporation, develop a program of education to increase awareness of export opportunities among small agribusinesses and cooperatives; that loans, so far as possible consistent with the carrying out of the purposes of subsection (a), shall generally be for specific purposes, and, in the judgment of the Board of Directors, offer reasonable assurance of repayment; and that in authorizing any loan or guarantee, the Board of Directors shall take into account any serious adverse effect of such loan or guarantee on the competitive position of United States industry, the availability of materials which are in short supply in the United States, and employment in the United States, and shall give particular emphasis to the objective of strengthening the competitive position of United States exporters and thereby of expanding total United States exports. Only in cases where the President, after consultation with the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, determines that such action would be in the national interest where such action would clearly and importantly advance United States policy in such areas as international terrorism (including, when relevant, a foreign nation’s lack of cooperation in efforts to eradicate terrorism), nuclear proliferation, the enforcement of the Foreign Corrupt Practices Act of 1977, the Arms Export Control Act [[22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) et seq.], the International Emergency Economic Powers Act [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.], or the Export Administration Act of 1979 [50 U.S.C. App. 2401 et seq.], environmental protection and human rights (such as are provided in the Universal Declaration of Human Rights adopted by the United Nations General Assembly on December 10, 1948) (including child labor), should the Export-Import Bank deny applications for credit for nonfinancial or noncommercial considerations. Each such determination shall be delivered in writing to the President of the Bank, shall state that the determination is made pursuant to this section, and shall specify the applications or categories of applications for credit which should be denied by the Bank in furtherance of the national interest.
+  (B) It is further the policy of the United States that loans made by the Bank in all its programs shall bear interest at rates determined by the Board of Directors, consistent with the Bank’s mandate to support United States exports at rates and on terms and conditions which are fully competitive with exports of other countries, and consistent with international agreements. For the purpose of the preceding sentence, rates and terms and conditions need not be identical in all respects to those offered by foreign countries, but should be established so that the effect of such rates, terms, and conditions for all the Bank’s programs, including those for small businesses and for medium-term financing, will be to neutralize the effect of such foreign credit on international sales competition. The Bank shall consider its average cost of money as one factor in its determination of interest rates, where such consideration does not impair the Bank’s primary function of expanding United States exports through fully competitive financing. The Bank may not impose a credit application fee unless (i) the fee is competitive with the average fee charged by the Bank’s primary foreign competitors, and (ii) the borrower or the exporter is given the option of paying the fee at the outset of the loan or over the life of the loan and the present value of the fee determined under either such option is the same amount. It is also the policy of the United States that the Bank in the exercise of its functions should supplement and encourage, and not compete with, private capital; that the Bank, in determining whether to provide support for a transaction under the loan, guarantee, or insurance program, or any combination thereof, shall consider the need to involve private capital in support of United States exports as well as the cost of the transaction as calculated in accordance with the requirements of the Federal Credit Reform Act of 1990 [[2 U.S.C. 661](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim) et seq.]; that the Bank shall accord equal opportunity to export agents and managers, independent export firms, export trading companies, and small commercial banks in the formulation and implementation of its programs; that the Bank should give emphasis to assisting new and small business entrants in the agricultural export market, and shall, in cooperation with other relevant Government agencies, including the Commodity Credit Corporation, develop a program of education to increase awareness of export opportunities among small agribusinesses and cooperatives; that loans, so far as possible consistent with the carrying out of the purposes of subsection (a), shall generally be for specific purposes, and, in the judgment of the Board of Directors, offer reasonable assurance of repayment; and that in authorizing any loan or guarantee, the Board of Directors shall take into account any serious adverse effect of such loan or guarantee on the competitive position of United States industry, the availability of materials which are in short supply in the United States, and employment in the United States, and shall give particular emphasis to the objective of strengthening the competitive position of United States exporters and thereby of expanding total United States exports. Only in cases where the President, after consultation with the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, determines that such action would be in the national interest where such action would clearly and importantly advance United States policy in such areas as international terrorism (including, when relevant, a foreign nation’s lack of cooperation in efforts to eradicate terrorism), nuclear proliferation, the enforcement of the Foreign Corrupt Practices Act of 1977, the Arms Export Control Act [[22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) et seq.], the International Emergency Economic Powers Act [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.], or the Export Administration Act of 1979 [[50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.], environmental protection and human rights (such as are provided in the Universal Declaration of Human Rights adopted by the United Nations General Assembly on December 10, 1948) (including child labor), should the Export-Import Bank deny applications for credit for nonfinancial or noncommercial considerations. Each such determination shall be delivered in writing to the President of the Bank, shall state that the determination is made pursuant to this section, and shall specify the applications or categories of applications for credit which should be denied by the Bank in furtherance of the national interest.
 
   (C) Consistent with the policy of [section 3261 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3261&num=0&edition=prelim) and section 2151q 11 See References in Text note below. of title 22, the Board of Directors shall name an officer of the Bank whose duties shall include advising the President of the Bank on ways of promoting the export of goods and services to be used in the development, production, and distribution of nonnuclear renewable energy resources, disseminating information concerning export opportunities and the availability of Bank support for such activities, and acting as a liaison between the Bank and the Department of Commerce and other appropriate departments and agencies.
 
@@ -62,7 +64,7 @@ source: >-
 
     (iv) The Director appointed to represent the interests of small business under [section 635a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635a/c&num=0&edition=prelim) shall ensure that the Bank carries out its responsibilities under clauses (ii) and (iii) of this subparagraph and that the Bank’s financial and other resources are, to the maximum extent possible, appropriately used for small business needs.
 
-    (v) To assure that the purposes of clauses (i) and (ii) of this subparagraph are carried out, the Bank shall make available, from the aggregate loan, guarantee, and insurance authority available to it, an amount to finance exports directly by small business concerns (as defined under [section 632 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)) which shall be not less than 20 percent of such authority for each fiscal year. From the amount made available under the preceding sentence, it shall be a goal of the Bank to increase the amount made available to finance exports directly by small business concerns referred to in [section 635a(i)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635a/i/1&num=0&edition=prelim).
+    (v) To assure that the purposes of clauses (i) and (ii) of this subparagraph are carried out, the Bank shall make available, from the aggregate loan, guarantee, and insurance authority available to it, an amount to finance exports directly by small business concerns (as defined under [section 632 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)) which shall be not less than 25 percent of such authority for each fiscal year. From the amount made available under the preceding sentence, it shall be a goal of the Bank to increase the amount made available to finance exports directly by small business concerns referred to in [section 635a(i)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635a/i/1&num=0&edition=prelim).
 
     (vi) The Bank shall utilize the amount set aside pursuant to clause (v) of this subparagraph to offer financing for small business exports on terms which are fully competitive with regard to interest rates and with regard to the portion of financing which may be provided, guaranteed, or insured. Financing under this clause (vi) shall be available without regard to whether financing for the particular transaction was disapproved by any other Federal agency.
 
@@ -106,7 +108,13 @@ source: >-
 
   (K) The Bank shall promote the export of goods and services related to renewable energy sources.
 
-  (L) The Bank shall require an applicant for assistance from the Bank to disclose whether the applicant has been found by a court of the United States to have violated the Foreign Corrupt Practices Act of 1977, the Arms Export Control Act [[22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) et seq.], the International Emergency Economic Powers Act [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.], or the Export Administration Act of 1979 [50 U.S.C. App. 2401 et seq.] within the preceding 12 months, and shall maintain, in cooperation with the Department of Justice, for not less than 3 years a record of such applicants so found to have violated any such Act.
+  (L) The Bank shall require an applicant for assistance from the Bank to disclose whether the applicant has been found by a court of the United States to have violated the Foreign Corrupt Practices Act of 1977, the Arms Export Control Act [[22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) et seq.], the International Emergency Economic Powers Act [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.], or the Export Administration Act of 1979 [[50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.] within the preceding 12 months, and shall maintain, in cooperation with the Department of Justice, for not less than 3 years a record of such applicants so found to have violated any such Act.
+
+  (M) Not later than 2 years after December 4, 2015, the Bank shall implement policies—
+
+    (i) to accept electronic documents with respect to transactions whenever possible, including copies of bills of lading, certifications, and compliance documents, in such manner so as not to undermine any potential civil or criminal enforcement related to the transactions; and
+
+    (ii) to accept electronic payments in all of its programs.
 
 (2) **Prohibition on Aid to Marxist-Leninist Countries.—**
 
@@ -308,7 +316,7 @@ source: >-
 
     (ii) The advisory committee shall make recommendations to the Board of Directors on how the Bank can facilitate greater support by United States commercial banks for trade with sub-Saharan Africa.
 
-    (iii) The advisory committee shall terminate on September 30, 2014.
+    (iii) The advisory committee shall terminate on the date on which the authority of the Bank expires under [section 635f of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635f).
 
   (C) The Bank shall include in the annual report to the Congress submitted under [section 635g(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635g/a&num=0&edition=prelim) a separate section that contains a report on the efforts of the Bank to—
 
@@ -375,7 +383,7 @@ source: >-
 
 (1) In carrying out its responsibilities under this subchapter, the Bank shall work to ensure that United States companies are afforded an equal and nondiscriminatory opportunity to bid for insurance in connection with transactions assisted by the Bank.
 
-(2) **Competitive opportunity for insurance companies.—** — In the case of any long-term loan or guarantee of not less than $10,000,000, the Bank shall seek to ensure that United States insurance companies are accorded a fair and open competitive opportunity to provide insurance against risk of loss in connection with any transaction with respect to which such loan or guarantee is provided.
+(2) **Competitive opportunity for insurance companies.—** — In the case of any long-term loan or guarantee of not less than $25,000,000, the Bank shall seek to ensure that United States insurance companies are accorded a fair and open competitive opportunity to provide insurance against risk of loss in connection with any transaction with respect to which such loan or guarantee is provided.
 
 (3) **Responsive actions.—** — If the Bank becomes aware that a fair and open competitive opportunity is not accorded to any United States insurance company in a foreign country with respect to which the Bank is considering a loan or guarantee, the Bank—
 
@@ -520,6 +528,16 @@ source: >-
 
 **(j) Non-subordination requirement** In entering into financing contracts, the Bank shall seek a creditor status which is not subordinate to that of all other creditors, in order to reduce the risk to, and enhance recoveries for, the Bank.
 
+**(k) Prohibition on discrimination based on industry**
+
+(1) **In general** — Except as provided in this subchapter, the Bank may not—
+
+  (A) deny an application for financing based solely on the industry, sector, or business that the application concerns; or
+
+  (B) promulgate or implement policies that discriminate against an application based solely on the industry, sector, or business that the application concerns.
+
+(2) **Applicability** — The prohibitions under paragraph (1) apply only to applications for financing by the Bank for projects concerning the exploration, development, production, or export of energy sources and the generation or transmission of electrical power, or combined heat and power, regardless of the energy source involved.
+
 ### Statutory Notes
 
 #### Amendment of Section
@@ -534,7 +552,7 @@ The Arms Export Control Act, referred to in subsec. (b)(1)(B), (L), (6)(F), is P
 
 The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(B), (L), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
-The Export Administration Act of 1979, referred to in subsec. (b)(1)(B), (L), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2401 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2401&num=0&edition=prelim), Appendix, and Tables.
+The Export Administration Act of 1979, referred to in subsec. (b)(1)(B), (L), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 [Section 2151q of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151q&num=0&edition=prelim), referred to in subsec. (b)(1)(C), was repealed by Pub. L. 96–533, title III, § 304(g), Dec. 16, 1980, 94 Stat. 3147. See section 2151d(a)(2), (b)(2), (c) of Title 22, Foreign Relations and Intercourse.
 
@@ -550,6 +568,18 @@ December 20, 2006, referred to in subsec. (e)(5), was in the original “the dat
 Section 1(c) of Pub. L. 90–267 added pars. (2) to (5) of subsec. (b) and another section of Pub. L. 90–267 also designated 1(c) substituted “$3,500,000,000” for “$2,000,000,000” in subsec. (c)(1). See, also, 1968 Amendments hereunder.
 
 #### Amendments
+2015—Subsec. (a)(2)(A)(iii). Pub. L. 114–94, § 54002(a), added cl. (iii).
+
+Subsec. (b)(1)(E)(v). Pub. L. 114–94, § 52001(a), substituted “25 percent” for “20 percent”.
+
+Subsec. (b)(1)(M). Pub. L. 114–94, § 53001, added subpar. (M).
+
+Subsec. (b)(9)(B)(iii). Pub. L. 114–94, § 54001(c), substituted “the date on which the authority of the Bank expires under [section 635f of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635f)” for “September 30, 2014”.
+
+Subsec. (d)(2). Pub. L. 114–94, § 54002(b), substituted “$25,000,000” for “$10,000,000”.
+
+Subsec. (k). Pub. L. 114–94, § 55001, added subsec. (k).
+
 2012—Subsec. (b)(2)(B)(ii). Pub. L. 112–122, § 22, redesignated subcls. (II), (III), (V), (VI), (VIII), and (IX) as (I) to (VI), respectively, and struck out subcls. (I), (IV), and (VII) which deemed Cambodian People’s Republic, Lao People’s Democratic Republic, and Socialist Federal Republic of Yugoslavia as Marxist-Leninist countries for purposes of par. (2).
 
 Subsec. (b)(9)(B)(iii). Pub. L. 112–122, § 23, substituted “2014” for “2011”.
@@ -924,11 +954,18 @@ Subsec. (c)(1). Pub. L. 90–267, § 1(a), (c), increased amount of insurance ou
 
 1945—Subsec. (a). Act Dec. 28, 1945, inserted “(or the Philippine Islands)” after “any foreign country”.
 
+#### Effective Date of 2015 Amendment
+Pub. L. 114–94, div. E, title LII, § 52001(b), Dec. 4, 2015, 129 Stat. 1767, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2016 and each fiscal year thereafter.”
+
+Pub. L. 114–94, div. E, title LIV, § 54001(d), Dec. 4, 2015, 129 Stat. 1768, provided that: “The amendments made by this section [amending this section and [section 635f of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635f) and provisions set out as a note under this section] shall take effect on the earlier of the date of the enactment of this Act [Dec. 4, 2015] or June 30, 2015.”
+
+Pub. L. 114–94, div. E, title LIV, § 54002(e), Dec. 4, 2015, 129 Stat. 1769, provided that: “The amendments made by this section [amending this section and sections 635a and 635i–5 of this title] shall apply with respect to fiscal year 2016 and each fiscal year thereafter.”
+
 #### Effective Date of 2012 Amendment
 Pub. L. 112–122, § 25, May 30, 2012, 126 Stat. 364, provided that: “Except as provided in section 9(b) [enacting provisions set out as a note under [section 635a of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635a)], this Act [see Short Title of 2012 Amendment note set out below] and the amendments made by this Act shall take effect on the earlier of June 1, 2012, or the date of the enactment of this Act [May 30, 2012].”
 
 #### Effective and Termination Dates of 1994 Amendments
-Pub. L. 103–428, § 1(c), Oct. 31, 1994, 108 Stat. 4376, as amended by Pub. L. 105–121, § 4, Nov. 26, 1997, 111 Stat. 2529; Pub. L. 109–438, § 4, Dec. 20, 2006, 120 Stat. 3269; Pub. L. 112–122, § 24, May 30, 2012, 126 Stat. 364; Pub. L. 112–136, § 1, June 21, 2012, 126 Stat. 385, provided that: “The amendments made by this section [amending this section] shall remain in effect during the period beginning on the date of enactment of this Act [Oct. 31, 1994] and ending on September 30, 2014.”
+Pub. L. 103–428, § 1(c), Oct. 31, 1994, 108 Stat. 4376, as amended by Pub. L. 105–121, § 4, Nov. 26, 1997, 111 Stat. 2529; Pub. L. 109–438, § 4, Dec. 20, 2006, 120 Stat. 3269; Pub. L. 112–122, § 24, May 30, 2012, 126 Stat. 364; Pub. L. 112–136, § 1, June 21, 2012, 126 Stat. 385; Pub. L. 114–94, div. E, title LIV, § 54001(b), Dec. 4, 2015, 129 Stat. 1768, provided that: “The amendments made by this section [amending this section] shall remain in effect during the period beginning on the date of enactment of this Act [Oct. 31, 1994] and ending on the date on which the authority of the Export-Import Bank of the United States expires under section 7 of the Export-Import Bank Act of 1945 ([12 U.S.C. 635f](./chapter-6a-export-import-bank-of-the-united-states.md#section-635f)).”
 
 [Pub. L. 113–235, div. J, title VI, Dec. 16, 2014, 128 Stat. 2598, provided in part: “That notwithstanding section 1(c) of Public Law 103–428 [set out above], as amended, sections 1(a) and (b) of Public Law 103–428 [amending this section] shall remain in effect through October 1, 2015.” ]
 
@@ -960,6 +997,9 @@ Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see sectio
 
 #### Effective Date of 1978 Amendment
 Pub. L. 95–630, title XIX, § 1917, Nov. 10, 1978, 92 Stat. 3727, provided that: “This title [enacting sections 635a–1 to 635a–3 of this title and [section 2153e–1 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2153e–1&num=0&edition=prelim), The Public Health and Welfare, and amending this section and sections 635e to 635g of this title] shall take effect upon enactment [Nov. 10, 1978].”
+
+#### Short Title of 2015 Amendment
+Pub. L. 114–94, div. E, § 50001, Dec. 4, 2015, 129 Stat. 1763, provided that: “This division [enacting [section 635a–7 of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635a-7), amending this section and sections 635a, 635a–5, 635a–6, 635e to 635g, and 635i–5 of this title, enacting provisions set out as notes under this section and sections 635a, 635a–5, 635e, and 635g of this title, and amending provisions set out as a note under this section] may be cited as the ‘Export-Import Bank Reform and Reauthorization Act of 2015’.”
 
 #### Short Title of 2012 Amendment
 Pub. L. 112–122, § 1(a), May 30, 2012, 126 Stat. 350, provided that: “This Act [enacting sections 635a–5 and 635a–6 of this title, amending this section and sections 635a and 635e to 635g of this title, enacting provisions set out as notes under this section and sections 635a and 635a–2 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Export-Import Bank Reauthorization Act of 2012’.”
@@ -997,7 +1037,7 @@ Pub. L. 95–630, title XIX, § 1901, Nov. 10, 1978, 92 Stat. 3724, provided: �
 Pub. L. 93–646, § 1, Jan. 4, 1975, 88 Stat. 2333, provided that: “This Act [amending this section and sections 82 and 635d to 635g of this title and enacting provisions set out as notes under this section] may be cited as the ‘Export-Import Bank Amendments of 1974’.”
 
 #### Short Title of 1971 Amendment
-Pub. L. 92–126, § 1(a), Aug. 17, 1971, 85 Stat. 345, provided that: “This Act [amending this section and sections 635e and 635f of this title and enacting provisions set out as notes under [section 95a of this title](./chapter-002-national-banks.md#section-95a)] may be cited as the ‘Export Expansion Finance Act of 1971’.”
+Pub. L. 92–126, § 1(a), Aug. 17, 1971, 85 Stat. 345, provided that: “This Act [amending this section and sections 635e and 635f of this title and enacting provisions set out as notes under [section 95a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section95a&num=0&edition=prelim)] may be cited as the ‘Export Expansion Finance Act of 1971’.”
 
 #### Short Title
 Act July 31, 1945, ch. 341, § 1, 59 Stat. 526, provided: “That this Act [this subchapter] may be cited as the ‘Export-Import Bank Act of 1945’.”
@@ -1020,6 +1060,9 @@ Sanctions contained in subsec. (b)(4) waived in certain regards with respect to 
 Determination of President of the United States, No. 2000–4, Oct. 27, 1999, 64 F.R. 60649.
 
 Determination of President of the United States, No. 2000–18, Mar. 16, 2000, 65 F.R. 16297.
+
+#### Pilot Program for Reinsurance
+Pub. L. 114–94, div. E, title LI, § 51008, Dec. 4, 2015, 129 Stat. 1766, provided that: “(a) In General.—Notwithstanding any provision of the Export-Import Bank Act of 1945 ([12 U.S.C. 635](./chapter-6a-export-import-bank-of-the-united-states.md#section-635) et seq.), the Export-Import Bank of the United States (in this section referred to as the ‘Bank’) may establish a pilot program under which the Bank may enter into contracts and other arrangements to share risks associated with the provision of guarantees, insurance, or credit, or the participation in the extension of credit, by the Bank under that Act. “(b) Limitations on Amount of Risk-Sharing.—“(1) Per contract or other arrangement.—The aggregate amount of liability the Bank may transfer through risk-sharing pursuant to a contract or other arrangement entered into under subsection (a) may not exceed $1,000,000,000. “(2) Per year.—The aggregate amount of liability the Bank may transfer through risk-sharing during a fiscal year pursuant to contracts or other arrangements entered into under subsection (a) during that fiscal year may not exceed $10,000,000,000. “(c) Annual Reports.—Not later than 1 year after the date of the enactment of this Act [Dec. 4, 2015], and annually thereafter through 2019, the Bank shall submit to Congress a written report that contains a detailed analysis of the use of the pilot program carried out under subsection (a) during the year preceding the submission of the report. “(d) Rule of Construction.—Nothing in this section shall be construed to affect, impede, or revoke any authority of the Bank. “(e) Termination.—The pilot program carried out under subsection (a) shall terminate on September 30, 2019.”
 
 #### Publication of Guidelines for Economic Impact Analyses
 Pub. L. 112–122, § 12(a), May 30, 2012, 126 Stat. 357, provided that: “Not later than 180 days after the date of the enactment of this Act [May 30, 2012], the Export-Import Bank of the United States shall develop and make publicly available methodological guidelines to be used by the Bank in conducting economic impact analyses or similar studies under section 2(e) of the Export-Import Bank Act of 1945 [[12 U.S.C. 635(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635/e&num=0&edition=prelim)]. In developing the guidelines, the Bank shall take into consideration any relevant guidance from the Office of Management and Budget.”
@@ -1239,7 +1282,7 @@ Determination No. 2009–21, June 12, 2009, 74 F.R. 28867.—Lao People’s Demo
 
 (2) **Responsibilities** — The small business specialists shall be involved in all aspects of processing applications for loans, guarantees, and insurance to support exports by small business concerns, including the approval or disapproval, or staff recommendations of approval or disapproval, as applicable, of such applications. In carrying out these responsibilities, the small business specialists shall consider the unique business requirements of small businesses and shall develop exporter performance criteria tailored to small business exporters.
 
-(3) **Approval authority** — In an effort to maximize the speed and efficiency with which the Bank processes transactions primarily benefitting small business concerns, the small business specialists shall be authorized to approve applications for working capital loans and guarantees, and insurance in accordance with policies and procedures established by the Board. It is the sense of Congress that the policies and procedures should not prohibit, where appropriate, small business specialists from approving applications for working capital loans and guarantees, and for insurance, in support of exports which have a value of less than $10,000,000.
+(3) **Approval authority** — In an effort to maximize the speed and efficiency with which the Bank processes transactions primarily benefitting small business concerns, the small business specialists shall be authorized to approve applications for working capital loans and guarantees, and insurance in accordance with policies and procedures established by the Board. It is the sense of Congress that the policies and procedures should not prohibit, where appropriate, small business specialists from approving applications for working capital loans and guarantees, and for insurance, in support of exports which have a value of less than $25,000,000.
 
 (4) **Identification** — The Bank shall prominently identify the small business specialists on its website and in promotional material.
 
@@ -1295,7 +1338,7 @@ Determination No. 2009–21, June 12, 2009, 74 F.R. 28867.—Lao People’s Demo
 
 **(j) Authority to use portion of bank surplus to update information technology systems**
 
-(1) **In general** — Subject to paragraphs (3) and (4), the Bank may use an amount equal to 1.25 percent of the surplus of the Bank during fiscal years 2012, 2013, and 2014 to—
+(1) **In general** — Subject to paragraphs (3) and (4), the Bank may use an amount equal to 1.25 percent of the surplus of the Bank during fiscal years 2015 through 2019 to—
 
   (A) seek to remedy any of the operational weakness and risk management vulnerabilities of the Bank which are the result of the information technology system of the Bank;
 
@@ -1309,19 +1352,123 @@ Determination No. 2009–21, June 12, 2009, 74 F.R. 28867.—Lao People’s Demo
 
   (B) the sum of—
 
-    (I) 11 So in original. Probably should be “(i)”. the funds set aside to cover expected losses on transactions financed by the Bank; and
+    (i) the funds set aside to cover expected losses on transactions financed by the Bank; and
 
-**(ii)** the costs incurred to cover the administrative expenses of the Bank. (3) LimitationThe aggregate of the amounts used in accordance with paragraph (1) for fiscal years 2012, 2013, and 2014 shall not exceed $20,000,000. (4) Subject to appropriationsThe authority provided by paragraph (1) may be exercised only to such extent and in such amounts as are provided in advance in appropriations Acts.
+    (ii) the costs incurred to cover the administrative expenses of the Bank.
+
+(3) **Limitation** — The aggregate of the amounts used in accordance with paragraph (1) for fiscal years 2015 through 2019 shall not exceed $20,000,000.
+
+(4) **Subject to appropriations** — The authority provided by paragraph (1) may be exercised only to such extent and in such amounts as are provided in advance in appropriations Acts.
+
+**(k) Office of Ethics**
+
+(1) **Establishment** — There is established an Office of Ethics within the Bank, which shall oversee all ethics issues within the Bank.
+
+(2) **Head of office**
+
+  (A) *In general* — The head of the Office of Ethics shall be the Chief Ethics Officer, who shall report to the Board of Directors.
+
+  (B) *Appointment* — Not later than 180 days after December 4, 2015, the Chief Ethics Officer shall be—
+
+    (i) appointed by the President of the Bank from among persons—
+
+      (I) with a background in law who have experience in the fields of law and ethics; and
+
+      (II) who are not serving in a position requiring appointment by the President of the United States before being appointed to be Chief Ethics Officer; and
+
+    (ii) approved by the Board.
+
+  (C) *Designated agency ethics official* — The Chief Ethics Officer shall serve as the designated agency ethics official for the Bank pursuant to the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.).
+
+(3) **Duties** — The Office of Ethics has jurisdiction over all employees of, and ethics matters relating to, the Bank. With respect to employees of the Bank, the Office of Ethics shall—
+
+  (A) recommend administrative actions to establish or enforce standards of official conduct;
+
+  (B) refer to the Office of the Inspector General of the Bank alleged violations of—
+
+    (i) the standards of ethical conduct applicable to employees of the Bank under parts 2635 and 6201 of title 5, Code of Federal Regulations;
+
+    (ii) the standards of ethical conduct established by the Chief Ethics Officer; and
+
+    (iii) any other laws, rules, or regulations governing the performance of official duties or the discharge of official responsibilities that are applicable to employees of the Bank;
+
+  (C) report to appropriate Federal or State authorities substantial evidence of a violation of any law applicable to the performance of official duties that may have been disclosed to the Office of Ethics; and
+
+  (D) render advisory opinions regarding the propriety of any current or proposed conduct of an employee or contractor of the Bank, and issue general guidance on such matters as necessary.
+
+**(l) Chief Risk Officer**
+
+(1) **In general** — There shall be a Chief Risk Officer of the Bank, who shall—
+
+  (A) oversee all issues relating to risk within the Bank; and
+
+  (B) report to the President of the Bank.
+
+(2) **Appointment** — Not later than 180 days after December 4, 2015, the Chief Risk Officer shall be—
+
+  (A) appointed by the President of the Bank from among persons—
+
+    (i) with a demonstrated ability in the general management of, and knowledge of and extensive practical experience in, financial risk evaluation practices in large governmental or business entities; and
+
+    (ii) who are not serving in a position requiring appointment by the President of the United States before being appointed to be Chief Risk Officer; and
+
+  (B) approved by the Board.
+
+(3) **Duties** — The duties of the Chief Risk Officer are—
+
+  (A) to be responsible for all matters related to managing and mitigating all risk to which the Bank is exposed, including the programs and operations of the Bank;
+
+  (B) to establish policies and processes for risk oversight, the monitoring of management compliance with risk limits, and the management of risk exposures and risk controls across the Bank;
+
+  (C) to be responsible for the planning and execution of all Bank risk management activities, including policies, reporting, and systems to achieve strategic risk objectives;
+
+  (D) to develop an integrated risk management program that includes identifying, prioritizing, measuring, monitoring, and managing internal control and operating risks and other identified risks;
+
+  (E) to ensure that the process for risk assessment and underwriting for individual transactions considers how each such transaction considers the effect of the transaction on the concentration of exposure in the overall portfolio of the Bank, taking into account fees, collateralization, and historic default rates; and
+
+  (F) to review the adequacy of the use by the Bank of qualitative metrics to assess the risk of default under various scenarios.
+
+**(m) Risk Management Committee**
+
+(1) **Establishment** — There is established a management committee to be known as the “Risk Management Committee”.
+
+(2) **Membership** — The membership of the Risk Management Committee shall be the members of the Board of Directors, with the President and First Vice President of the Bank serving as ex officio members.
+
+(3) **Duties** — The duties of the Risk Management Committee shall be—
+
+  (A) to oversee, in conjunction with the Office of the Chief Financial Officer of the Bank—
+
+    (i) periodic stress testing on the entire Bank portfolio, reflecting different market, industry, and macroeconomic scenarios, and consistent with common practices of commercial and multilateral development banks; and
+
+    (ii) the monitoring of industry, geographic, and obligor exposure levels; and
+
+  (B) to review all required reports on the default rate of the Bank before submission to Congress under [section 635g(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635g/g&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### References in Text
 The Trade Secrets Act, referred to in subsec. (c)(10)(C)(ii)(III), is probably a reference to [section 1905 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim), Crimes and Criminal Procedure.
 
+The Ethics in Government Act of 1978, referred to in subsec. (k)(2)(C), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
+
 #### Codification
 Provisions of subsecs. (b) and (c)(3) of this section, which prescribed the annual compensation of the President, the First Vice President, and other members of the Board of Directors, were omitted to conform to the provisions of the Executive Schedule. See sections 5314 and 5315 of Title 5, Government Organization and Employees.
 
 #### Amendments
+2015—Subsec. (g)(3). Pub. L. 114–94, § 54002(c), substituted “$25,000,000” for “$10,000,000”.
+
+Subsec. (j)(1). Pub. L. 114–94, § 53002(1), substituted “2015 through 2019” for “2012, 2013, and 2014” in introductory provisions.
+
+Subsec. (j)(2)(B). Pub. L. 114–94, § 53002(2), substituted “(i) the funds” for “(I) the funds”.
+
+Subsec. (j)(3). Pub. L. 114–94, § 53002(3), substituted “2015 through 2019” for “2012, 2013, and 2014”.
+
+Subsec. (k). Pub. L. 114–94, § 51004, added subsec. (k).
+
+Subsec. (l). Pub. L. 114–94, § 51005, added subsec. (l).
+
+Subsec. (m). Pub. L. 114–94, § 51006(a), added subsec. (m).
+
 2012—Subsec. (c)(10). Pub. L. 112–122, § 9(a), added par. (10).
 
 Subsec. (d)(1)(B). Pub. L. 112–122, § 20(a), substituted “State government, and the textile industry” for “and State government”.
@@ -1366,6 +1513,9 @@ Subsec. (d). Pub. L. 90–267, § 1(d), substituted provisions for compensation 
 
 1954—Act Aug. 9, 1954, amended section generally to provide for the independent management of the Bank under a Board of Directors and for the appointment of a President and First Vice President of the Bank.
 
+#### Effective Date of 2015 Amendment
+Amendment by section 54002(c) of Pub. L. 114–94 applicable with respect to fiscal year 2016 and each fiscal year thereafter, see section 54002(e) of Pub. L. 114–94, set out as a note under [section 635 of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635).
+
 #### Effective Date of 2012 Amendment
 Pub. L. 112–122, § 9(b), May 30, 2012, 126 Stat. 356, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 60 days after the date of the enactment of this Act [May 30, 2012].”
 
@@ -1374,6 +1524,9 @@ Amendment by sections 19–20(b)(1) of Pub. L. 112–122 effective May 30, 2012,
 #### Effective Date of 1954 Amendment
 Act Aug. 9, 1954, ch. 660, § 4, 68 Stat. 678, provided that: “The provisions of this Act for the appointment of a President and a First Vice President of the Bank and the members of the Board of Directors shall be effective upon its enactment [Aug. 9, 1954]. The remaining provisions of this Act shall become effective when the President and First Vice President of the Bank and one other member of the Board of Directors initially appointed hereunder enter upon office, and shall thereupon supersede Reorganization Plan No. 5 of 1953 [set out below].”
 
+#### Termination of Audit Committee
+Pub. L. 114–94, div. E, title LI, § 51006(b), Dec. 4, 2015, 129 Stat. 1766, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 4, 2015], the Board of Directors of the Export-Import Bank of the United States shall revise the bylaws of the Bank to terminate the Audit Committee established by section 7 of the bylaws.”
+
 #### Untied Aid
 Pub. L. 107–189, § 10(a), June 14, 2002, 116 Stat. 702, provided that: “(1) Negotiations.—The Secretary of the Treasury shall seek to negotiate an OECD Arrangement on Untied Aid. In the negotiations, the Secretary should seek agreement on subjecting untied aid to the rules governing the Arrangement, including the rules governing disclosure. “(2) Report to the congress.—Within 1 year after the date of the enactment of this Act [June 14, 2002], the Secretary of the Treasury shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on the successes, failures, and obstacles in initiating negotiations, and if negotiations were initiated, in reaching the agreement described in paragraph (1).”
 
@@ -1381,7 +1534,7 @@ Pub. L. 107–189, § 10(a), June 14, 2002, 116 Stat. 702, provided that: “(1)
 Pub. L. 106–46, § 1(b), Aug. 11, 1999, 113 Stat. 227, as amended by Pub. L. 106–62, § 122, Sept. 30, 1999, 113 Stat. 509; Pub. L. 106–85, Oct. 29, 1999, 113 Stat. 1297; Pub. L. 106–88, Nov. 5, 1999, 113 Stat. 1304; Pub. L. 106–94, Nov. 10, 1999, 113 Stat. 1311; Pub. L. 106–105, Nov. 18, 1999, 113 Stat. 1484; Pub. L. 106–106, Nov. 19, 1999, 113 Stat. 1485, provided that: “Notwithstanding section 3(c)(6) of the Export-Import Bank Act of 1945 [[12 U.S.C. 635a(c)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635a/c/6&num=0&edition=prelim)], if, during the period that begins on July 21, 1999, and ends on December 2, 1999, there are fewer than three persons holding office on the Board of Directors of the Export-Import Bank of the United States, the entire membership of such Board of Directors shall constitute a quorum until the end of such period.”
 
 #### Compensation of Employees
-Pub. L. 102–429, title I, § 117, Oct. 21, 1996, 106 Stat. 2196, provided that: “(a) In General.—The Board of Directors of the Export-Import Bank of the United States may compensate not more than 35 employees of the Bank without regard to the provisions of chapter 51 or subchapter III or VIII of chapter 53 of title 5, United States Code. “(b) Sunset.—Effective 2 years after the date of enactment of this Act [Oct. 21, 1992], subsection (a) is hereby repealed. “(c) Report.—Not later than 1 year after the date of enactment of this Act, the Export-Import Bank of the United States shall submit a report to the Congress on—“(1) the recruitment and employee retention problems of the Bank; “(2) any relief from such problems afforded by the Office of Personnel Management; “(3) any use of the authority provided in subsection (a); and “(4) the conclusions and recommendations of the Bank with respect to—“(A) whether such problems have been satisfactorily addressed; and “(B) whether or not the authority of subsection (a) should be extended.”
+Pub. L. 102–429, title I, § 117, Oct. 21, 1992, 106 Stat. 2196, provided that: “[(a) Repealed. Pub. L. 102–429, title I, §117(b), Oct. 21, 1992, 106 Stat. 2196.] “(b) Sunset.—Effective 2 years after the date of enactment of this Act [Oct. 21, 1992], subsection (a) is hereby repealed. “(c) Report.—Not later than 1 year after the date of enactment of this Act, the Export-Import Bank of the United States shall submit a report to the Congress on—“(1) the recruitment and employee retention problems of the Bank; “(2) any relief from such problems afforded by the Office of Personnel Management; “(3) any use of the authority provided in subsection (a); and “(4) the conclusions and recommendations of the Bank with respect to—“(A) whether such problems have been satisfactorily addressed; and “(B) whether or not the authority of subsection (a) should be extended.”
 
 [Pub. L. 113–235, div. J, title VI, Dec. 16, 2014, 128 Stat. 2598, provided in part: “That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 [Pub. L. 102–429, set out above], subsection (a) thereof shall remain in effect until September 30, 2015” .]
 
@@ -1574,9 +1727,9 @@ Section was enacted as part of the Bank Export Services Act, and not as part of 
 
 <a id="section-635a-5"></a>
 ## § 635a–5. Negotiations to end export credit financing
-**(a) In general** The Secretary of the Treasury (in this section referred to as the “Secretary”) shall initiate and pursue negotiations—
+**(a) In general** The President shall initiate and pursue negotiations—
 
-(1) with other major exporting countries, including members of the Organisation for Economic Co-operation and Development (OECD) and non-OECD members, to substantially reduce, with the ultimate goal of eliminating, subsidized export financing programs and other forms of export subsidies; and
+(1) with other major exporting countries, including members of the Organisation for Economic Co-operation and Development (in this section referred to as the “OECD”) and non-OECD members, to substantially reduce, with the possible goal of eliminating, before the date that is 10 years after December 4, 2015,,11 So in original. subsidized export financing programs and other forms of export subsidies; and
 
 (2) with all countries that finance air carrier aircraft with funds from a state-sponsored entity, to substantially reduce, with the ultimate goal of eliminating, aircraft export credit financing for all aircraft covered by the 2007 Sector Understanding on Export Credits for Civil Aircraft (in this section referred to as the “ASU”), including any modification thereof, and all of the following types of aircraft:
 
@@ -1586,28 +1739,85 @@ Section was enacted as part of the Bank Export Services Act, and not as part of 
 
   (C) Small aircraft that have a maximum certificated takeoff weight of 41,000 pounds or less.
 
-**(b) Annual reports on progress of negotiations** Not later than 180 days after May 30, 2012, and annually thereafter, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives—
+**(b) Annual reports on progress of negotiations** Not later than 180 days after May 30, 2012, and annually thereafter, the President shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives—
 
-(1) a report on the progress of any negotiations described in subsection (a)(1), until the Secretary certifies in writing to the committees that all countries that support subsidized export financing programs have agreed to end the support; and
+(1) a report on the progress of any negotiations described in subsection (a)(1), until the President certifies in writing to the committees that all countries that support subsidized export financing programs have agreed to end the support; and
 
-(2) a report on the progress of any negotiations described in subsection (a)(2), including the progress of any negotiations with respect to each classification of aircraft set forth in subsection (a)(2), until the Secretary certifies in writing to the committees that all countries that support subsidized export financing programs have agreed to end the support of aircraft covered by the ASU.
+(2) a report on the progress of any negotiations described in subsection (a)(2), including the progress of any negotiations with respect to each classification of aircraft set forth in subsection (a)(2), until the President certifies in writing to the committees that all countries that support subsidized export financing programs have agreed to end the support of aircraft covered by the ASU.
+
+**(c) Report on strategy** Not later than 180 days after December 4, 2015, the President shall submit to Congress a proposal, and a strategy for achieving the proposal, that the United States Government will pursue with other major exporting countries, including OECD members and non-OECD members, to eliminate over a period of not more than 10 years subsidized export-financing programs, tied aid, export credits, and all other forms of government-supported export subsidies.
+
+**(d) Negotiations with non-OECD members** The President shall initiate and pursue negotiations with countries that are not OECD members to bring those countries into a multilateral agreement establishing rules and limitations on officially supported export credits.
+
+**(e) Annual reports on progress of negotiations** Not later than 180 days after December 4, 2015, and annually thereafter through calendar year 2019, the President shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the progress of any negotiations described in subsection (d).
 
 ### Statutory Notes
 
 #### Codification
 Section was enacted as part of the Export-Import Bank Reauthorization Act of 2012, and not as part of the Export-Import Bank Act of 1945 which comprises this subchapter.
+
+#### Amendments
+2015—Subsec. (a). Pub. L. 114–94, § 55002(a)(1)(A), in introductory provisions, substituted “President” for “Secretary of the Treasury (in this section referred to as the ‘Secretary’)”.
+
+Subsec. (a)(1). Pub. L. 114–94, § 55002(a)(1)(B), substituted “(in this section referred to as the ‘OECD’)” for “(OECD)” and “possible goal of eliminating, before the date that is 10 years after December 4, 2015,” for “ultimate goal of eliminating”.
+
+Subsec. (b). Pub. L. 114–94, § 55002(a)(2), substituted “President” for “Secretary” wherever appearing.
+
+Subsecs. (c) to (e). Pub. L. 114–94, § 55002(a)(3), added subsecs. (c) to (e).
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–94, div. E, title LV, § 55002(b), Dec. 4, 2015, 129 Stat. 1770, provided that: “The amendments made by paragraphs (1) and (2) of subsection (a) [amending this section] shall apply with respect to reports required to be submitted under section 11(b) of the Export-Import Bank Reauthorization Act of 2012 ([12 U.S.C. 635a–5(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635a–5/b&num=0&edition=prelim)) after the date of the enactment of this Act [Dec. 4, 2015].”
+
+#### Delegation of Authority Under Section 11 of the Export-Import Bank Reauthorization Act of 2012
+Memorandum of President of the United States, Mar. 11, 2016, 81 F.R. 14367, provided:
+
+Memorandum for the Secretary of the Treasury
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby delegate to you the functions and authorities vested in the President by section 11 of the Export-Import Bank Reauthorization Act of 2012, as amended.
+
+In exercising functions and authority delegated by this memorandum, you shall ensure that all actions taken by you are consistent with the President’s constitutional authority to (A) conduct the foreign affairs of the United States, including the commencement, conduct, and termination of negotiations with foreign countries and international organizations; and (B) withhold information the disclosure of which could impair the foreign relations, the national security, the deliberative processes of the Executive, or the performance of the Executive’s constitutional duties.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.
 
 
 <a id="section-635a-6"></a>
 ## § 635a–6. Periodic audits of bank transactions
 **(a) In general** Within 2 years after May 30, 2012, and periodically (but not less frequently than every 4 years) thereafter, the Comptroller General of the United States shall conduct an audit of the loan and guarantee transactions of the Export-Import Bank of the United States to determine the compliance of the Bank with the underwriting guidelines, lending policies, due diligence procedures, and content guidelines of the Bank.
 
-**(b) Review of fraud controls** The Comptroller General of the United States shall review the adequacy of the design and effectiveness of the controls used by the Export-Import Bank of the United States to prevent, detect, and investigate fraudulent applications for loans and guarantees, including by auditing a sample of Bank transactions, and submit to the Congress a written report which contains such recommendations with respect to the controls as the Comptroller General deems appropriate.
+**(b) Review of fraud controls** Not later than 4 years after December 4, 2015, and every 4 years thereafter, the Comptroller General of the United States shall—
+
+(1) review the adequacy of the design and effectiveness of the controls used by the Export-Import Bank of the United States to prevent, detect, and investigate fraudulent applications for loans and guarantees and the compliance by the Bank with the controls, including by auditing a sample of Bank transactions; and
+
+(2) submit a written report regarding the findings of the review and providing such recommendations with respect to the controls described in paragraph (1) as the Comptroller General deems appropriate to—
+
+  (A) the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate; and
+
+  (B) the Committee on Financial Services and the Committee on Appropriations of the House of Representatives.
 
 ### Statutory Notes
 
 #### Codification
 Section was enacted as part of the Export-Import Bank Reauthorization Act of 2012, and not as part of the Export-Import Bank Act of 1945 which comprises this subchapter.
+
+#### Amendments
+2015—Subsec. (b). Pub. L. 114–94 amended subsec. (b) generally. Prior to amendment, text read as follows: “The Comptroller General of the United States shall review the adequacy of the design and effectiveness of the controls used by the Export-Import Bank of the United States to prevent, detect, and investigate fraudulent applications for loans and guarantees, including by auditing a sample of Bank transactions, and submit to the Congress a written report which contains such recommendations with respect to the controls as the Comptroller General deems appropriate.”
+
+
+<a id="section-635a-7"></a>
+## § 635a–7. Independent audit of bank portfolio
+**(a) Audit** The Inspector General of the Export-Import Bank of the United States shall conduct an audit or evaluation of the portfolio risk management procedures of the Bank, including a review of the implementation by the Bank of the duties assigned to the Chief Risk Officer under section 635a(l) of this title, as amended by section 51005.
+
+**(b) Report** Not later than 1 year after December 4, 2015, and not less frequently than every 3 years thereafter, the Inspector General shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a written report containing all findings and determinations made in carrying out subsection (a).
+
+### Statutory Notes
+
+#### References in Text
+Section 635a(l) of this title, as amended by section 51005, referred to in subsec. (a), is section 635a(l) of this title, as amended by section 51005 of Pub. L. 114–94.
+
+#### Codification
+Section was enacted as part of the Fixing America’s Surface Transportation Act, also known as the FAST Act, and not as part of the Export-Import Bank Act of 1945 which comprises this subchapter.
 
 
 <a id="section-635b"></a>
@@ -1672,37 +1882,15 @@ A Board of Directors reestablished for the Export-Import Bank of Washington, see
 
 (1) **In general** — The Export-Import Bank of the United States shall not have outstanding at any one time loans, guarantees, and insurance in an aggregate amount in excess of the applicable amount.
 
-(2) **Applicable amount** — In paragraph (1), the term “applicable amount” means—
+(2) **Applicable amount defined** — In this subsection, the term “applicable amount”, for each of fiscal years 2015 through 2019, means $135,000,000,000.
 
-  (A) during fiscal year 2002, $80,000,000,000;
+(3) **Freezing of lending cap if default rate is 2 percent or more** — If the rate calculated under [section 635g(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635g/g/1&num=0&edition=prelim) is 2 percent or more for a quarter, the Bank may not exceed the amount of loans, guarantees, and insurance outstanding on the last day of that quarter until the rate calculated under [section 635g(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635g/g/1&num=0&edition=prelim) is less than 2 percent.
 
-  (B) during fiscal year 2003, $85,000,000,000;
+(4) **Subject to appropriations** — All spending and credit authority provided under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
-  (C) during fiscal year 2004, $90,000,000,000;
+**(b) Reserve requirement** The Bank shall build to and hold in reserve, to protect against future losses, an amount that is not less than 5 percent of the aggregate amount of disbursed and outstanding loans, guarantees, and insurance of the Bank.
 
-  (D) during fiscal year 2005, $95,000,000,000;
-
-  (E) during fiscal year 2006, and each fiscal year thereafter through fiscal year 2011; 11 So in original. “2011” probably should be followed by a comma and a dollar amount. and
-
-  (F) during fiscal year 2012 and each succeeding fiscal year, $120,000,000,000, except that—
-
-    (i) the applicable amount for each of fiscal years 2013 and 2014 shall be $130,000,000,000 if—
-
-      (I) the Bank has submitted a report as required by section 4(a) of the Export-Import Bank Reauthorization Act of 2012; and
-
-      (II) the rate calculated under [section 635g(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635g/g/1&num=0&edition=prelim) is less than 2 percent for the quarter ending with the beginning of the fiscal year, or for any quarter in the fiscal year; and
-
-    (ii) notwithstanding clause (i), the applicable amount for fiscal year 2014 shall be $140,000,000,000 if—
-
-      (I) the rate calculated under [section 635g(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635g/g/1&num=0&edition=prelim) is less than 2 percent for the quarter ending with the beginning of the fiscal year, or for any quarter in the fiscal year;
-
-      (II) the Bank has submitted a report as required by subsection (b) of section 5 of the Export-Import Bank Reauthorization Act of 2012, except that the preceding provisions of this subclause shall not apply if the Comptroller General has not submitted the report required by subsection (a) of such section 5 on or before July 1, 2013; and
-
-      (III) the Secretary of the Treasury has submitted the reports required by [section 635a–5(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635a–5/b&num=0&edition=prelim).
-
-(3) **Subject to appropriations** — All spending and credit authority provided under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
-
-**(b) Presidential determination**
+**(c) Presidential determination**
 
 (1) **In general** — Not later than March 31 of each fiscal year, the President of the United States shall determine whether the authority available to the Bank for such fiscal year will be sufficient to meet the Bank’s needs, particularly those needs arising from—
 
@@ -1720,15 +1908,14 @@ A Board of Directors reestablished for the Export-Import Bank of Washington, see
 
 ### Statutory Notes
 
-#### References in Text
-Section 4(a) of the Export-Import Bank Reauthorization Act of 2012, referred to in subsec. (a)(2)(F)(i)(I), is section 4(a) of Pub. L. 112–122, May 30, 2012, 126 Stat. 351, which is not classified to the Code.
-
-Section 5 of the Export-Import Bank Reauthorization Act of 2012, referred to in subsec. (a)(2)(F)(ii)(II), is section 5 of Pub. L. 112–122, May 30, 2012, 126 Stat. 352, which is not classified to the Code.
-
 #### Prior Provisions
 A prior section 6 of act July 31, 1945, ch. 341, was renumbered section 5 and is classified to [section 635d of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635d).
 
 #### Amendments
+2015—Subsec. (a)(2) to (4). Pub. L. 114–94, § 51001, added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which defined the term “applicable amount”.
+
+Subsecs. (b), (c). Pub. L. 114–94, § 51002(a), added subsec. (b) and redesignated former subsec. (b) as (c).
+
 2012—Subsec. (a)(2)(F). Pub. L. 112–122 added subpar. (F).
 
 2006—Subsec. (a)(2)(E). Pub. L. 109–438 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “during fiscal year 2006, $100,000,000,000.”
@@ -1771,6 +1958,9 @@ Subsec. (b). Pub. L. 93–646, § 8(3), added subsec. (b).
 
 1951—Act Oct. 3, 1951, substituted “four and one-half” for “three and one-half”.
 
+#### Effective Date of 2015 Amendment
+Pub. L. 114–94, div. E, title LI, § 51002(b), Dec. 4, 2015, 129 Stat. 1763, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is one year after the date of the enactment of this Act [Dec. 4, 2015].”
+
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–630 effective Nov. 10, 1978, see section 1917 of Pub. L. 95–630, set out as a note under [section 635 of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635).
 
@@ -1781,7 +1971,7 @@ For effective date of amendment by act Aug. 9, 1954, see note set out under [sec
 <a id="section-635f"></a>
 ## § 635f. Termination date of Bank’s functions; exceptions; liquidation
 
-Export-Import Bank of the United States shall continue to exercise its functions in connection with and in furtherance of its objects and purposes until the close of business on September 30, 2014, but the provisions of this section shall not be construed as preventing the bank from acquiring obligations prior to such date which mature subsequent to such date or from assuming prior to such date liability as guarantor, endorser, or acceptor of obligations which mature subsequent to such date or from issuing, either prior or subsequent to such date, for purchase by the Secretary of the Treasury or any other purchasers, its notes, debentures, bonds, or other obligations which mature subsequent to such date or from continuing as a corporate agency of the United States and exercising any of its functions subsequent to such date for purposes of orderly liquidation, including the administration of its assets and the collection of any obligations held by the bank.
+Export-Import Bank of the United States shall continue to exercise its functions in connection with and in furtherance of its objects and purposes until the close of business on September 30, 2019, but the provisions of this section shall not be construed as preventing the bank from acquiring obligations prior to such date which mature subsequent to such date or from assuming prior to such date liability as guarantor, endorser, or acceptor of obligations which mature subsequent to such date or from issuing, either prior or subsequent to such date, for purchase by the Secretary of the Treasury or any other purchasers, its notes, debentures, bonds, or other obligations which mature subsequent to such date or from continuing as a corporate agency of the United States and exercising any of its functions subsequent to such date for purposes of orderly liquidation, including the administration of its assets and the collection of any obligations held by the bank.
 
 ### Statutory Notes
 
@@ -1789,6 +1979,8 @@ Export-Import Bank of the United States shall continue to exercise its functions
 A prior section 7 of act July 31, 1945, ch. 341, was renumbered section 6 and is classified to [section 635e of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635e).
 
 #### Amendments
+2015—Pub. L. 114–94 substituted “2019” for “2014”.
+
 2012—Pub. L. 112–122 substituted “2014” for “2011”.
 
 2006—Pub. L. 109–438 substituted “2011” for “2006”.
@@ -1836,6 +2028,9 @@ Pub. L. 93–331 substituted “July 30, 1974” for “June 30, 1974”.
 1951—Act Oct. 3, 1951, substituted “June 30, 1958” for “June 30, 1953”.
 
 1947—Act June 9, 1947, struck out former section and inserted present section to provide for the termination of the Bank as of June 30, 1953, and its orderly liquidation thereafter.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective on June 30, 2015, see section 54001(d) of Pub. L. 114–94, set out as a note under [section 635 of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635).
 
 #### Effective Date of 1997 Amendment
 Pub. L. 105–121, § 2(b), Nov. 26, 1997, 111 Stat. 2528, provided that: “The amendment made by this section [amending this section] shall take effect on September 30, 1997.”
@@ -1988,12 +2183,16 @@ Pub. L. 93–450, § 1, Oct. 18, 1974, 88 Stat. 1368, provided in part that the 
 
 **(j) Textile and apparel supply chain financing** The Bank shall include in its annual report to the Congress under subsection (a) of this section a description of the success of the Bank in providing effective and reasonably priced financing to the United States textile and apparel industry for exports of goods manufactured in the United States that are used as components in global textile and apparel supply chains in the year covered by the report, and steps the Bank has taken to increase the use of Bank products by such firms.
 
+**(k) Report on programs for small- and medium-sized businesses** The Bank shall include in its annual report to Congress under subsection (a) a report on the programs of the Bank for United States businesses with less than $250,000,000 in annual sales.
+
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 8 of act July 31, 1945, ch. 341, was renumbered section 7 and is classified to [section 635f of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635f).
 
 #### Amendments
+2015—Subsec. (k). Pub. L. 114–94 added subsec. (k).
+
 2012—Subsec. (g). Pub. L. 112–122, § 6, added subsec. (g).
 
 Subsec. (h). Pub. L. 112–122, § 10, added subsec. (h).
@@ -2030,6 +2229,9 @@ Subsec. (d). Pub. L. 98–181, § 623, added subsec. (d).
 
 #### Change of Name
 Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–94, div. E, title LII, § 52002(b), Dec. 4, 2015, 129 Stat. 1767, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to the report of the Export-Import Bank of the United States submitted to Congress under section 8 of the Export-Import Bank Act of 1945 ([12 U.S.C. 635g](./chapter-6a-export-import-bank-of-the-united-states.md#section-635g)) for the first year that begins after the date of the enactment of this Act [Dec. 4, 2015].”
 
 #### Termination Date of 1986 Amendment
 Pub. L. 99–472, § 20(c), Oct. 15, 1986, 100 Stat. 1210, provided that: “Effective March 2, 1988, the amendment made by subsection (b) [amending this section] is repealed.”
@@ -2408,7 +2610,7 @@ Section, act July 31, 1945, ch. 341, § 16, as added Oct. 21, 1986, Pub. L. 99�
 
 (1) **In general** — Consistent with the objectives of [section 635(b)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635/b/1/A&num=0&edition=prelim), the Bank shall establish procedures to take into account the potential beneficial and adverse environmental effects of goods and services for which support is requested under its direct lending and guarantee programs. Such procedures shall provide for the public disclosure of environmental assessments and supplemental environmental reports required to be submitted to the Bank, including remediation or mitigation plans and procedures, and related monitoring reports. The preceding sentence shall not be interpreted to require the public disclosure of any information described in [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim). Such procedures shall apply to any transaction involving a project—
 
-  (A) for which long-term support of $10,000,000 or more is requested from the Bank;
+  (A) for which long-term support of $25,000,000 (or, if less than $25,000,000, the threshold established pursuant to international agreements, including the Common Approaches for Officially Supported Export Credits and Environmental and Social Due Diligence, as adopted by the Organisation for Economic Co-operation and Development Council on June 28, 2012, and the risk-management framework adopted by financial institutions for determining, assessing, and managing environmental and social risk in projects (commonly referred to as the “Equator Principles”)) or more is requested from the Bank;
 
   (B) for which the Bank’s support would be critical to its implementation; and
 
@@ -2435,9 +2637,14 @@ Another section 11 of act July 31, 1945, ch. 341, was renumbered section 14 and 
 A prior section 11 of act July 31, 1945, ch. 341, was renumbered section 9 and is classified to [section 635h of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635h).
 
 #### Amendments
+2015—Subsec. (a)(1)(A). Pub. L. 114–94 substituted “$25,000,000 (or, if less than $25,000,000, the threshold established pursuant to international agreements, including the Common Approaches for Officially Supported Export Credits and Environmental and Social Due Diligence, as adopted by the Organisation for Economic Co-operation and Development Council on June 28, 2012, and the risk-management framework adopted by financial institutions for determining, assessing, and managing environmental and social risk in projects (commonly referred to as the ‘Equator Principles’)) or more” for “$10,000,000 or more”.
+
 2006—Subsec. (a)(1). Pub. L. 109–438 inserted after first sentence “Such procedures shall provide for the public disclosure of environmental assessments and supplemental environmental reports required to be submitted to the Bank, including remediation or mitigation plans and procedures, and related monitoring reports. The preceding sentence shall not be interpreted to require the public disclosure of any information described in [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim).”
 
 1994—Subsec. (b). Pub. L. 103–428 inserted par. (1) designation and heading, inserted before period at end of first sentence “(such as exports of products and services used to aid in the monitoring, abatement, control, or prevention of air, water, and ground contaminants or pollution, or which provide protection in the handling of toxic substances, subject to a final determination by the Bank, and products and services for foreign environmental projects dedicated entirely to the prevention, control, or cleanup of air, water, or ground pollution, including facilities to provide for control or cleanup, and used in the retrofitting of facility equipment for the sole purpose of mitigating, controlling, or preventing adverse environmental effects, subject to a final determination by the Bank)”, and added par. (2).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 applicable with respect to fiscal year 2016 and each fiscal year thereafter, see section 54002(e) of Pub. L. 114–94, set out as a note under [section 635 of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635).
 
 
 <a id="section-635i-6"></a>

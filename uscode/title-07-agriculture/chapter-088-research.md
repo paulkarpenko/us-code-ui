@@ -2394,7 +2394,7 @@ Section was enacted as part of the Agricultural Act of 2014, and not as part of 
 
 <a id="section-5940"></a>
 ## § 5940. Legitimacy of industrial hemp research
-**(a) In general** Notwithstanding the Controlled Substances Act ([21 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) et seq.), the Safe and Drug-Free Schools and Communities Act ([20 U.S.C. 7101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7101&num=0&edition=prelim) et seq.), chapter 81 of title 41, or any other Federal law, an institution of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)) or a State department of agriculture may grow or cultivate industrial hemp if—
+**(a) In general** Notwithstanding the Controlled Substances Act ([21 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) et seq.), chapter 81 of title 41, or any other Federal law, an institution of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)) or a State department of agriculture may grow or cultivate industrial hemp if—
 
 (1) the industrial hemp is grown or cultivated for purposes of research conducted under an agricultural pilot program or other agricultural or academic research; and
 
@@ -2423,7 +2423,11 @@ Section was enacted as part of the Agricultural Act of 2014, and not as part of 
 #### References in Text
 The Controlled Substances Act, referred to in subsec. (a), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
-The Safe and Drug-Free Schools and Communities Act, referred to in subsec. (a), is part A (§ 4001 et seq.) of title IV of Pub. L. 89–10, as added by Pub. L. 107–110, title IV, § 401, Jan. 8, 2002, 115 Stat. 1734, which is classified generally to part A (§ 7101 et seq.) of subchapter IV of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see [section 7101 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7101&num=0&edition=prelim) and Tables.
-
 #### Codification
 Section was enacted as part of the Agricultural Act of 2014, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
+
+#### Amendments
+2015—Subsec. (a). Pub. L. 114–95 struck out “the Safe and Drug-Free Schools and Communities Act ([20 U.S.C. 7101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7101&num=0&edition=prelim) et seq.),” before “chapter 81” in introductory provisions.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.

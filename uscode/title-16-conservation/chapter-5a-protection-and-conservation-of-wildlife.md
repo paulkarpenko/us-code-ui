@@ -566,11 +566,11 @@ The Migratory Bird Treaty Act, referred to in text, is act July 3, 1918, ch. 128
 
   (A)
 
-    (i) Except as provided in clause (iv), the Secretary shall not initiate or permit a new use of a refuge or expand, renew, or extend an existing use of a refuge, unless the Secretary has determined that the use is a compatible use and that the use is not inconsistent with public safety. The Secretary may make the determinations referred to in this paragraph for a refuge concurrently with development of a conservation plan under subsection (e) of this section.
+    (i) Except as provided in clause (iv), the Secretary shall not initiate or permit a new use of a refuge or expand, renew, or extend an existing use of a refuge, unless the Secretary has determined that the use is a compatible use and that the use is not inconsistent with public safety. The Secretary may make the determinations referred to in this paragraph for a refuge concurrently with development of a conservation plan under subsection (e).
 
     (ii) On lands added to the System after March 25, 1996, the Secretary shall identify, prior to acquisition, withdrawal, transfer, reclassification, or donation of any such lands, existing compatible wildlife-dependent recreational uses that the Secretary determines shall be permitted to continue on an interim basis pending completion of the comprehensive conservation plan for the refuge.
 
-    (iii) Wildlife-dependent recreational uses may be authorized on a refuge when they are compatible and not inconsistent with public safety. Except for consideration of consistency with State laws and regulations as provided for in subsection (m) of this section, no other determinations or findings are required to be made by the refuge official under this Act or the Refuge Recreation Act for wildlife-dependent recreation to occur.
+    (iii) Wildlife-dependent recreational uses may be authorized on a refuge when they are compatible and not inconsistent with public safety. Except for consideration of consistency with State laws and regulations as provided for in subsection (m), no other determinations or findings are required to be made by the refuge official under this Act or the Refuge Recreation Act for wildlife-dependent recreation to occur.
 
     (iv) Compatibility determinations in existence on October 9, 1997, shall remain in effect until and unless modified.
 
@@ -590,9 +590,9 @@ The Migratory Bird Treaty Act, referred to in text, is act July 3, 1918, ch. 128
 
     (vii) require, after an opportunity for public comment, reevaluation of each existing use, other than those uses specified in clause (viii), if conditions under which the use is permitted change significantly or if there is significant new information regarding the effects of the use, but not less frequently than once every 10 years, to ensure that the use remains a compatible use, except that, in the case of any use authorized for a period longer than 10 years (such as an electric utility right-of-way), the reevaluation required by this clause shall examine compliance with the terms and conditions of the authorization, not examine the authorization itself;
 
-    (viii) require, after an opportunity for public comment, reevaluation of each compatible wildlife-dependent recreational use when conditions under which the use is permitted change significantly or if there is significant new information regarding the effects of the use, but not less frequently than in conjunction with each preparation or revision of a conservation plan under subsection (e) of this section or at least every 15 years, whichever is earlier; and
+    (viii) require, after an opportunity for public comment, reevaluation of each compatible wildlife-dependent recreational use when conditions under which the use is permitted change significantly or if there is significant new information regarding the effects of the use, but not less frequently than in conjunction with each preparation or revision of a conservation plan under subsection (e) or at least every 15 years, whichever is earlier; and
 
-    (ix) provide an opportunity for public review and comment on each evaluation of a use, unless an opportunity for public review and comment on the evaluation of the use has already been provided during the development or revision of a conservation plan for the refuge under subsection (e) of this section or has otherwise been provided during routine, periodic determinations of compatibility for wildlife-dependent recreational uses.
+    (ix) provide an opportunity for public review and comment on each evaluation of a use, unless an opportunity for public review and comment on the evaluation of the use has already been provided during the development or revision of a conservation plan for the refuge under subsection (e) or has otherwise been provided during routine, periodic determinations of compatibility for wildlife-dependent recreational uses.
 
 (4) The provisions of this Act relating to determinations of the compatibility of a use shall not apply to—
 
@@ -658,7 +658,7 @@ The Migratory Bird Treaty Act, referred to in text, is act July 3, 1918, ch. 128
 
 **(h) Regulations; continuation, modification, or rescission** Regulations applicable to areas of the System that are in effect on October 15, 1966, shall continue in effect until modified or rescinded.
 
-**(i) National conservation recreational area provisions; amendment, repeal, or modification** Nothing in this section shall be construed to amend, repeal, or otherwise modify the provision of the Act of September 28, 1962 (76 Stat. 653; [16 U.S.C. 460k](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460k)—460k–4) which authorizes the Secretary to administer the areas within the System for public recreation. The provisions of this section relating to recreation shall be administered in accordance with the provisions of said sections.
+**(i) National conservation recreational area provisions; amendment, repeal, or modification** Nothing in this section shall be construed to amend, repeal, or otherwise modify the provision of the Act of September 28, 1962 (76 Stat. 653; [16 U.S.C. 460k](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460k)—460k–4) which authorizes the Secretary to administer the areas within the System for public recreation. The provisions of this section relating to recreation shall be administered in accordance with the provisions of said Act.
 
 **(j) Exemption from State water laws** Nothing in this Act shall constitute an express or implied claim or denial on the part of the Federal Government as to exemption from State water laws.
 
@@ -777,6 +777,9 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 #### Effective Date of 1968 Amendment
 Pub. L. 90–404, § 2, July 18, 1968, 82 Stat. 359, provided that: “The amendments made by the first section of this Act [amending subsec. (a) of this section] shall apply only with respect to transfers and disposals of land initiated and completed after the date of their enactment [July 18, 1968].”
 
+#### Short Title of 2015 Amendment
+Pub. L. 114–101, § 1, Dec. 18, 2015, 129 Stat. 2203, provided that: “This Act [enacting provisions listed in a table of National Memorials set out under [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim), National Park Service and Related Programs, and amending provisions listed in a table of National Wildlife Refuges set out under this section] may be cited as the ‘Billy Frank Jr. Tell Your Story Act’.”
+
 #### Short Title of 1998 Amendment
 Pub. L. 105–312, title II, § 201, Oct. 30, 1998, 112 Stat. 2957, provided that: “This title [amending this section, sections 721 and 722 of this title, and [section 564w–1 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section564w–1&num=0&edition=prelim), Indians, enacting provisions set out as a note under [section 722 of this title](./chapter-008-upper-mississippi-river-national-wildlife-and-fish-refuge.md#section-722), and amending provisions listed in a table of National Wildlife Refuges set out under this section] may be cited as the ‘National Wildlife Refuge System Improvement Act of 1998’.”
 
@@ -819,6 +822,7 @@ Pub. L. 102–154, title III, § 319, Nov. 13, 1991, 105 Stat. 1036, provided th
 | Bayou Cocodrie National Wildlife Refuge, Louisiana.—Pub. L. 101–593, title I, § 108, Nov. 16, 1990, 104 Stat. 2956. |
 | Bayou Sauvage Urban National Wildlife Refuge, Louisiana.—Pub. L. 99–645, title V, § 502, Nov. 10, 1986, 100 Stat. 3590; Pub. L. 104–253, § 2, Oct. 9, 1996, 110 Stat. 3167. |
 | Becharof National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(2), Dec. 2, 1980, 94 Stat. 2385. |
+| Billy Frank Jr. Nisqually National Wildlife Refuge (former Nisqually National Wildlife Refuge), Washington.—Pub. L. 113–76, div. G, title I, § 126, Jan. 17, 2014, 128 Stat. 315; Pub. L. 114–101, § 2, Dec. 18, 2015, 129 Stat. 2203. |
 | Bitter Lake National Wildlife Refuge, New Mexico.—Pub. L. 108–7, div. F, title I, § 139, Feb. 20, 2003, 117 Stat. 244. |
 | Blackwater National Wildlife Refuge, Maryland.—Pub. L. 108–131, Nov. 22, 2003, 117 Stat. 1372. |
 | Bogue Chitto National Wildlife Refuge, Louisiana and Mississippi.—Pub. L. 96–288, June 28, 1980, 94 Stat. 603; Pub. L. 99–191, § 3, Dec. 19, 1985, 99 Stat. 1327; Pub. L. 101–233, § 17, Dec. 13, 1989, 103 Stat. 1978. |
@@ -863,7 +867,7 @@ Pub. L. 102–154, title III, § 319, Nov. 13, 1991, 105 Stat. 1036, provided th
 | Mountain Longleaf National Wildlife Refuge, Alabama.—Pub. L. 107–314, div. B, title XXVIII, § 2821, Dec. 2, 2002, 116 Stat. 2710. |
 | Neal Smith National Wildlife Refuge, Iowa.—Pub. L. 105–83, title III, § 341, Nov. 14, 1997, 111 Stat. 1604. |
 | Ninigret National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, § 1214(g), (i), June 9, 1998, 112 Stat. 206, 207; Pub. L. 105–206, title IX, § 9006(d), July 22, 1998, 112 Stat. 849. |
-| Nisqually National Wildlife Refuge, Washington.—Pub. L. 113–76, div. G, title I, § 126, Jan. 17, 2014, 128 Stat. 315. |
+| Nisqually National Wildlife Refuge, Washington (see Billy Frank Jr. Nisqually National Wildlife Refuge). |
 | North Platte National Wildlife Refuge, Nebraska.—Pub. L. 104–212, title I, § 101, Oct. 1, 1996, 110 Stat. 3014. |
 | Nowitna National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, § 302(6), Dec. 2, 1980, 94 Stat. 2387. |
 | Oahu National Wildlife Refuge Complex, Hawaii.—Pub. L. 104–209, § 1, Oct. 1, 1996, 110 Stat. 3010. |
@@ -877,7 +881,7 @@ Pub. L. 102–154, title III, § 319, Nov. 13, 1991, 105 Stat. 1036, provided th
 | Rhode Island National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, § 1214(j), June 9, 1998, 112 Stat. 207. |
 | Ridgefield National Wildlife Refuge, Washington.—Pub. L. 102–570, § 1, Oct. 29, 1992, 106 Stat. 4489. |
 | Rocky Flats National Wildlife Refuge, Colorado.—Pub. L. 107–107, div. C, title XXXI, Dec. 28, 2001, 115 Stat. 1379; Pub. L. 109–163, div. C, title XXXI, § 3112(b)(7), Jan. 6, 2006, 119 Stat. 3541. |
-| Rocky Mountain Arsenal National Wildlife Refuge, Colorado.—Pub. L. 102–402, Oct. 9, 1992, 106 Stat. 1961; Pub. L. 105–85, div. B, title XXVIII, § 2840, Nov. 18, 1997, 111 Stat. 2007. |
+| Rocky Mountain Arsenal National Wildlife Refuge, Colorado.—Pub. L. 102–402, Oct. 9, 1992, 106 Stat. 1961; Pub. L. 105–85, div. B, title XXVIII, § 2840, Nov. 18, 1997, 111 Stat. 2007; Pub. L. 114–328, div. B, title XXVIII, § 2829C, Dec. 23, 2016, 130 Stat. 2731. |
 | Sachuest Point National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, § 1214(f), (h), June 9, 1998, 112 Stat. 206, 207. |
 | Sailors’ Snug Harbor National Wildlife Refuge, New York.—Pub. L. 96–315, § 2, July 25, 1980, 94 Stat. 957. |
 | St. Marks National Wildlife Refuge, Florida.—Pub. L. 109–241, title V, § 504, July 11, 2006, 120 Stat. 551. |

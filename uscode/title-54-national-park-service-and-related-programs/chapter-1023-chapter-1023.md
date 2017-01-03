@@ -22,7 +22,7 @@ source: >-
 
 (4) **Compensation for losses and damages.—** — For the purpose of claims relating to damage to, or loss of, personal property of a volunteer incident to volunteer service, a volunteer under this chapter shall be deemed a Federal employee, and [section 3721 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3721&num=0&edition=prelim) shall apply.
 
-**(d) Authorization of Appropriations.—** There is authorized to be appropriated to carry out this section not more than $3,500,000 for each fiscal year.
+**(d) Authorization of Appropriations.—** There is authorized to be appropriated to carry out this section not more than $9,000,000 for each fiscal year.
 
 ### Statutory Notes
 
@@ -32,10 +32,10 @@ Subsection (d) of this section was derived from [section 18j of Title 16](https:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 102301(a) | [16 U.S.C. 18g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18g&num=0&edition=prelim) | Pub. L. 91–357, § 1, July 29, 1970, 84 Stat. 472; Pub. L. 98–540, § 1(b), Oct. 24, 1984, 98 Stat. 2718. |
-| 102301(b) | [16 U.S.C. 18h](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18h&num=0&edition=prelim) | Pub. L. 91–357, § 2, July 29, 1970, 84 Stat. 472. |
-| 102301(c) | [16 U.S.C. 18i](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18i&num=0&edition=prelim) | Pub. L. 91–357, § 3, July 29, 1970, 84 Stat. 472; Pub. L. 101–286, title II, § 204(b), May 9, 1990, 104 Stat. 175. |
-| 102301(d) | [16 U.S.C. 18j](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18j&num=0&edition=prelim) | Pub. L. 91–357, § 4, July 29, 1970, 84 Stat. 472; Pub. L. 94–128, Nov. 13, 1975, 89 Stat. 682; Pub. L. 98–540, § 1(a), Oct. 24, 1984, 98 Stat. 2718; Pub. L. 104–333, div. I, title VIII, § 805, Nov. 12, 1996, 110 Stat. 4188. |
+| 102301(a) | [16 U.S.C. 18g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18g&num=0&edition=prelim). | Pub. L. 91–357, § 1, July 29, 1970, 84 Stat. 472; Pub. L. 98–540, § 1(b), Oct. 24, 1984, 98 Stat. 2718. |
+| 102301(b) | [16 U.S.C. 18h](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18h&num=0&edition=prelim). | Pub. L. 91–357, § 2, July 29, 1970, 84 Stat. 472. |
+| 102301(c) | [16 U.S.C. 18i](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18i&num=0&edition=prelim). | Pub. L. 91–357, § 3, July 29, 1970, 84 Stat. 472; Pub. L. 101–286, title II, § 204(b), May 9, 1990, 104 Stat. 175. |
+| 102301(d) | [16 U.S.C. 18j](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18j&num=0&edition=prelim). | Pub. L. 91–357, § 4, July 29, 1970, 84 Stat. 472; Pub. L. 94–128, Nov. 13, 1975, 89 Stat. 682; Pub. L. 98–540, § 1(a), Oct. 24, 1984, 98 Stat. 2718; Pub. L. 104–333, div. I, title VIII, § 805, Nov. 12, 1996, 110 Stat. 4188. |
 
 In subsection (a), the words “chapter 51 and subchapter III of title 5” are substituted for “the civil service classification laws” for clarity and for consistency with other titles of the United States Code. The words “System units and related areas” are substituted for “areas administered by the Secretary through the National Park Service” for clarity and for consistency in the new title.
 
@@ -44,6 +44,14 @@ In subsection (b), the words “of volunteers” are added for clarity.
 In subsection (c)(3), the words “relating to compensation to Federal employees for work injuries” are omitted as unnecessary.
 
 In subsection (d), the words “such sums as may be necessary” are omitted as unnecessary.
+
+#### Amendments
+2016—Subsec. (d). Pub. L. 114–289 substituted “not more than $9,000,000” for “not more than $7,000,000”. See Amendment Subject to Availability of Appropriations note below.
+
+2015—Subsec. (d). Pub. L. 114–113 substituted “$7,000,000” for “$3,500,000”.
+
+#### Amendment Subject to Availability of Appropriations
+Pub. L. 114–289, title III, § 303, Dec. 16, 2016, 130 Stat. 1487, provided that the amendment of this section by section 303 is subject to the availability of appropriations.
 
 
 <a id="section-102302"></a>
@@ -72,7 +80,7 @@ In subsection (d), the words “such sums as may be necessary” are omitted as 
 
 **(c) Use of Grants.—** Grants awarded under this section may be used to support general operations and maintenance, security, or special projects. No organization may receive a grant in excess of $500,000 in a single year.
 
-**(d) Responsbilities of Director.—** The Director shall—
+**(d) Responsbilities 11 So in original. Probably should be “Responsibilities”. of Director.—** The Director shall—
 
 (1) establish an application process;
 
@@ -87,7 +95,7 @@ In subsection (d), the words “such sums as may be necessary” are omitted as 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 102302 | [16 U.S.C. 1e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1e&num=0&edition=prelim) | Pub. L. 98–473, title I, § 101(c) [title I, § 100], Oct. 12, 1984, 98 Stat. 1837, 1844; Pub. L. 89–671, § 14(c), as added Pub. L. 107–219, § 1(a)(3), Aug. 21, 2002, 116 Stat. 10330.) |
+| 102302 | [16 U.S.C. 1e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1e&num=0&edition=prelim). | Pub. L. 98–473, title I, § 101(c) [title I, § 100], Oct. 12, 1984, 98 Stat. 1837, 1844; Pub. L. 89–671, § 14(c), as added Pub. L. 107–219, § 1(a)(3), Aug. 21, 2002, 116 Stat. 10330.) |
 
 
 <a id="section-102303"></a>
@@ -154,21 +162,21 @@ In subsection (d), the words “such sums as may be necessary” are omitted as 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 102303(a) | no source |  |
-| 102303(b) | [16 U.S.C. 463(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/a&num=0&edition=prelim) (1st, 2d sentences) | Aug. 21, 1935, ch. 593, § 3(a) through (f), 49 Stat. 667; Pub. L. 91–383, § 9, Aug. 18, 1970, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1940; amended Pub. L. 95–625, title VI, § 604(2), Nov. 10, 1978, 92 Stat. 3518; Pub. L. 101–628, title XII, § 1211, Nov. 28, 1990, 104 Stat. 4507; Pub. L. 104–333, div. I, title VIII, § 814(f)(1), Nov. 12, 1996, 110 Stat. 4197; Pub. L. 109–156, § 5, Dec. 30, 2005, 119 Stat. 2948; Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2107; Pub. L. 111–8, div. E, title I, (last par. under heading “administrative provisions”, Mar. 11, 2009, 123 Stat. 710. |
-| 102303(c)(1), (2) | [16 U.S.C. 463(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/a&num=0&edition=prelim) (3d through 9th sentences) |  |
-| 102303(c)(3) | [16 U.S.C. 463(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/a&num=0&edition=prelim) (10th sentence) |  |
-| 102303(c)(4) | [16 U.S.C. 463(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/a&num=0&edition=prelim) (11th sentence) |  |
-| 102303(c)(5) | [16 U.S.C. 463(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/a&num=0&edition=prelim) (13th, 14th sentences) |  |
-| 102303(d)(1) | [16 U.S.C. 463(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/a&num=0&edition=prelim) (12th sentence) |  |
-| 102303(d)(2) | [16 U.S.C. 463(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/a&num=0&edition=prelim) (15th through last sentences) |  |
-| 102303(d)(3) through (5) | [16 U.S.C. 463(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/c&num=0&edition=prelim) |  |
-| 102303(d)(6) | [16 U.S.C. 463(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/e/3&num=0&edition=prelim) |  |
-| 102303(e) | [16 U.S.C. 463(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/b/1&num=0&edition=prelim) |  |
-| 102303(f) | [16 U.S.C. 463(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/b/2&num=0&edition=prelim) |  |
-| 102303(g) | [16 U.S.C. 463(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/e/1&num=0&edition=prelim), (2) |  |
-| 102303(h) | [16 U.S.C. 463(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/d&num=0&edition=prelim), (f) (last sentence) |  |
-| 102303(i) | [16 U.S.C. 463(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/f&num=0&edition=prelim) (1st sentence) |  |
+| 102303(a) | no source. |  |
+| 102303(b) | [16 U.S.C. 463(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/a&num=0&edition=prelim) (1st, 2d sentences). | Aug. 21, 1935, ch. 593, § 3(a) through (f), 49 Stat. 667; Pub. L. 91–383, § 9, Aug. 18, 1970, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1940; amended Pub. L. 95–625, title VI, § 604(2), Nov. 10, 1978, 92 Stat. 3518; Pub. L. 101–628, title XII, § 1211, Nov. 28, 1990, 104 Stat. 4507; Pub. L. 104–333, div. I, title VIII, § 814(f)(1), Nov. 12, 1996, 110 Stat. 4197; Pub. L. 109–156, § 5, Dec. 30, 2005, 119 Stat. 2948; Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2107; Pub. L. 111–8, div. E, title I, (last par. under heading “administrative provisions”), Mar. 11, 2009, 123 Stat. 710. |
+| 102303(c)(1), (2) | [16 U.S.C. 463(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/a&num=0&edition=prelim) (3d through 9th sentences). |  |
+| 102303(c)(3) | [16 U.S.C. 463(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/a&num=0&edition=prelim) (10th sentence). |  |
+| 102303(c)(4) | [16 U.S.C. 463(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/a&num=0&edition=prelim) (11th sentence). |  |
+| 102303(c)(5) | [16 U.S.C. 463(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/a&num=0&edition=prelim) (13th, 14th sentences). |  |
+| 102303(d)(1) | [16 U.S.C. 463(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/a&num=0&edition=prelim) (12th sentence). |  |
+| 102303(d)(2) | [16 U.S.C. 463(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/a&num=0&edition=prelim) (15th through last sentences). |  |
+| 102303(d)(3) through (5) | [16 U.S.C. 463(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/c&num=0&edition=prelim). |  |
+| 102303(d)(6) | [16 U.S.C. 463(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/e/3&num=0&edition=prelim). |  |
+| 102303(e) | [16 U.S.C. 463(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/b/1&num=0&edition=prelim). |  |
+| 102303(f) | [16 U.S.C. 463(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/b/2&num=0&edition=prelim). |  |
+| 102303(g) | [16 U.S.C. 463(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/e/1&num=0&edition=prelim), (2). |  |
+| 102303(h) | [16 U.S.C. 463(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/d&num=0&edition=prelim), (f) (last sentence). |  |
+| 102303(i) | [16 U.S.C. 463(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/f&num=0&edition=prelim) (1st sentence). |  |
 
 In subsection (c)(2), the words “natural or cultural” are substituted for “national or cultural” to correct an error in the source provision.
 
@@ -207,10 +215,10 @@ Act Aug. 11, 1955, ch. 779, §§ 1, 2, 69 Stat. 632, as amended by Pub. L. 85–
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 102304(a)(1) | no source |  |
-| 102304(a)(2), (b) | [16 U.S.C. 463(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/g&num=0&edition=prelim) (1st sentence) | Aug. 21, 1935, ch. 593, § 3(g), as added Pub. L. 101–628, title XII, § 1212, Nov. 28, 1990, 104 Stat. 4507; Pub. L. 104–333, div. I, title VIII, § 814(f)(1)(B), Nov. 12, 1996, 110 Stat. 4198. |
-| 102304(c)(1) | [16 U.S.C. 463(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/g&num=0&edition=prelim) (2d, 3d, 6th, last sentences) |  |
-| 102304(c)(2) | [16 U.S.C. 463(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/g&num=0&edition=prelim)(5th sentence) |  |
-| 102304(d) | [16 U.S.C. 463(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/g&num=0&edition=prelim)(4th sentence) |  |
+| 102304(a)(1) | no source. |  |
+| 102304(a)(2), (b) | [16 U.S.C. 463(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/g&num=0&edition=prelim) (1st sentence). | Aug. 21, 1935, ch. 593, § 3(g), as added Pub. L. 101–628, title XII, § 1212, Nov. 28, 1990, 104 Stat. 4507; Pub. L. 104–333, div. I, title VIII, § 814(f)(1)(B), Nov. 12, 1996, 110 Stat. 4198. |
+| 102304(c)(1) | [16 U.S.C. 463(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/g&num=0&edition=prelim) (2d, 3d, 6th, last sentences). |  |
+| 102304(c)(2) | [16 U.S.C. 463(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/g&num=0&edition=prelim) (5th sentence). |  |
+| 102304(d) | [16 U.S.C. 463(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/g&num=0&edition=prelim) (4th sentence). |  |
 
 In subsection (c)(1), the text of [16 U.S.C. 463(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463/g&num=0&edition=prelim) (6th and last sentences) is omitted as obsolete.

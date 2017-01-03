@@ -25,9 +25,9 @@ source: >-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 306101(a) | [16 U.S.C. 470h–2(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/a/1&num=0&edition=prelim) | Pub. L. 89–665, title I, § 110(a)(1), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2996; Pub. L. 102–575, title XL, § 4012(1), Oct. 30, 1992, 106 Stat. 4760; Pub. L. 106–208, § 4, May 26, 2000, 114 Stat. 318. |
-| 306101(b) | [16 U.S.C. 470a(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/g&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(g), (h), formerly § 101(f), (g), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2992; redesignated as § 101(g), (h), Pub. L. 102–575, title XL, § 4006(a)(1), Oct. 30, 1992, 106 Stat. 4758. |
-| 306101(c) | [16 U.S.C. 470a(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/h&num=0&edition=prelim) |  |
+| 306101(a) | [16 U.S.C. 470h–2(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/a/1&num=0&edition=prelim). | Pub. L. 89–665, title I, § 110(a)(1), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2996; Pub. L. 102–575, title XL, § 4012(1), Oct. 30, 1992, 106 Stat. 4760; Pub. L. 106–208, § 4, May 26, 2000, 114 Stat. 318. |
+| 306101(b) | [16 U.S.C. 470a(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/g&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(g), (h), formerly § 101(f), (g), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2992; redesignated as § 101(g), (h), Pub. L. 102–575, title XL, § 4006(a)(1), Oct. 30, 1992, 106 Stat. 4758. |
+| 306101(c) | [16 U.S.C. 470a(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/h&num=0&edition=prelim). |  |
 
 In subsection (a)(3), the cross reference is treated as a cross reference to [16 U.S.C. 470a(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/h&num=0&edition=prelim), restated as subsection (c) of this section, rather than [16 U.S.C. 470a(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/g&num=0&edition=prelim), restated as subsection (b) of this section, to correct an error in the source provision.
 
@@ -36,15 +36,15 @@ In subsection (c), the words “Administrator of General Services” are substit
 #### Ex. Ord. No. 13287. Preserve America
 Ex. Ord. No. 13287, Mar. 3, 2003, 68 F.R. 10635, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Historic Preservation Act ([16 U.S.C. 470](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470&num=0&edition=prelim) et seq.)[see [54 U.S.C. 300301](./chapter-3003-chapter-3003.md#section-300301) et seq.] (NHPA) and the National Environmental Policy Act [of 1969] ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), it is hereby ordered:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Historic Preservation Act ([former] [16 U.S.C. 470](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470&num=0&edition=prelim) et seq.) [see [54 U.S.C. 300301](./chapter-3003-chapter-3003.md#section-300301) et seq.] (NHPA) and the National Environmental Policy Act [of 1969] ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), it is hereby ordered:
 
 Section 1. Statement of Policy. It is the policy of the Federal Government to provide leadership in preserving America’s heritage by actively advancing the protection, enhancement, and contemporary use of the historic properties owned by the Federal Government, and by promoting intergovernmental cooperation and partnerships for the preservation and use of historic properties. The Federal Government shall recognize and manage the historic properties in its ownership as assets that can support department and agency missions while contributing to the vitality and economic well-being of the Nation’s communities and fostering a broader appreciation for the development of the United States and its underlying values. Where consistent with executive branch department and agency missions, governing law, applicable preservation standards, and where appropriate, executive branch departments and agencies (“agency” or “agencies”) shall advance this policy through the protection and continued use of the historic properties owned by the Federal Government, and by pursuing partnerships with State and local governments, Indian tribes, and the private sector to promote the preservation of the unique cultural heritage of communities and of the Nation and to realize the economic benefit that these properties can provide. Agencies shall maximize efforts to integrate the policies, procedures, and practices of the NHPA and this order into their program activities in order to efficiently and effectively advance historic preservation objectives in the pursuit of their missions.
 
 Sec. 2. Building Preservation Partnerships. When carrying out its mission activities, each agency, where consistent with its mission and governing authorities, and where appropriate, shall seek partnerships with State and local governments, Indian tribes, and the private sector to promote local economic development and vitality through the use of historic properties in a manner that contributes to the long-term preservation and productive use of those properties. Each agency shall examine its policies, procedures, and capabilities to ensure that its actions encourage, support, and foster public-private initiatives and investment in the use, reuse, and rehabilitation of historic properties, to the extent such support is not inconsistent with other provisions of law, the Secretary of the Interior’s Standards for Archeology and Historic Preservation, and essential national department and agency mission requirements.
 
-Sec. 3. Improving Federal Agency Planning and Accountability. (a) Accurate information on the state of Federally owned historic properties is essential to achieving the goals of this order and to promoting community economic development through local partnerships. Each agency with real property management responsibilities shall prepare an assessment of the current status of its inventory of historic properties required by section 110(a)(2) of the NHPA ([16 U.S.C. 470h–2(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/a/2&num=0&edition=prelim))[see [54 U.S.C. 306102](./chapter-3061-chapter-3061.md#section-306102)], the general condition and management needs of such properties, and the steps underway or planned to meet those management needs. The assessment shall also include an evaluation of the suitability of the agency’s types of historic properties to contribute to community economic development initiatives, including heritage tourism, taking into account agency mission needs, public access considerations, and the long-term preservation of the historic properties. No later than September 30, 2004, each covered agency shall complete a report of the assessment and make it available to the Chairman of the Advisory Council on Historic Preservation (Council) and the Secretary of the Interior (Secretary).
+Sec. 3. Improving Federal Agency Planning and Accountability. (a) Accurate information on the state of Federally owned historic properties is essential to achieving the goals of this order and to promoting community economic development through local partnerships. Each agency with real property management responsibilities shall prepare an assessment of the current status of its inventory of historic properties required by section 110(a)(2) of the NHPA ([former] [16 U.S.C. 470h–2(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/a/2&num=0&edition=prelim)) [see [54 U.S.C. 306102](./chapter-3061-chapter-3061.md#section-306102)], the general condition and management needs of such properties, and the steps underway or planned to meet those management needs. The assessment shall also include an evaluation of the suitability of the agency’s types of historic properties to contribute to community economic development initiatives, including heritage tourism, taking into account agency mission needs, public access considerations, and the long-term preservation of the historic properties. No later than September 30, 2004, each covered agency shall complete a report of the assessment and make it available to the Chairman of the Advisory Council on Historic Preservation (Council) and the Secretary of the Interior (Secretary).
 
-(b) No later than September 30, 2004, each agency with real property management responsibilities shall review its regulations, management policies, and operating procedures for compliance with sections 110 and 111 of the NHPA [former]([16 U.S.C. 470h–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2&num=0&edition=prelim) & 470–3) and make the results of its review available to the Council and the Secretary. If the agency determines that its regulations, management policies, and operating procedures are not in compliance with those authorities, the agency shall make amendments or revisions to bring them into compliance.
+(b) No later than September 30, 2004, each agency with real property management responsibilities shall review its regulations, management policies, and operating procedures for compliance with sections 110 and 111 of the NHPA [former] ([16 U.S.C. 470h–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2&num=0&edition=prelim) & 470[h]–3 [see [54 U.S.C. 306101](./chapter-3061-chapter-3061.md#section-306101) to 306107, 306109 to 306114, 306121, 306122]) and make the results of its review available to the Council and the Secretary. If the agency determines that its regulations, management policies, and operating procedures are not in compliance with those authorities, the agency shall make amendments or revisions to bring them into compliance.
 
 (c) Each agency with real property management responsibilities shall, by September 30, 2005, and every third year thereafter, prepare a report on its progress in identifying, protecting, and using historic properties in its ownership and make the report available to the Council and the Secretary. The Council shall incorporate this data into a report on the state of the Federal Government’s historic properties and their contribution to local economic development and submit this report to the President by February 15, 2006, and every third year thereafter.
 
@@ -72,7 +72,7 @@ Sec. 6. National and Homeland Security Considerations.
 
 Nothing in this order shall be construed to require any agency to take any action or disclose any information that would conflict with or compromise national and homeland security goals, policies, programs, or activities.
 
-Sec. 7. Definitions. For the purposes of this order, the term “historic property” means any prehistoric or historic district, site, building, structure, and object included on or eligible for inclusion on the National Register of Historic Places in accordance with section 301(5) of the NHPA ([16 U.S.C. 470w(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/5&num=0&edition=prelim))[see [54 U.S.C. 300308](./chapter-3003-chapter-3003.md#section-300308)]. The term “heritage tourism” means the business and practice of attracting and accommodating visitors to a place or area based especially on the unique or special aspects of that locale’s history, landscape (including trail systems), and culture. The terms “Federally owned” and “in Federal ownership,” and similar terms, as used in this order, do not include properties acquired by agencies as a result of foreclosure or similar actions and that are held for a period of less than 5 years.
+Sec. 7. Definitions. For the purposes of this order, the term “historic property” means any prehistoric or historic district, site, building, structure, and object included on or eligible for inclusion on the National Register of Historic Places in accordance with section 301(5) of the NHPA ([former] [16 U.S.C. 470w(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w/5&num=0&edition=prelim)) [see [54 U.S.C. 300308](./chapter-3003-chapter-3003.md#section-300308)]. The term “heritage tourism” means the business and practice of attracting and accommodating visitors to a place or area based especially on the unique or special aspects of that locale’s history, landscape (including trail systems), and culture. The terms “Federally owned” and “in Federal ownership,” and similar terms, as used in this order, do not include properties acquired by agencies as a result of foreclosure or similar actions and that are held for a period of less than 5 years.
 
 Sec. 8. Judicial Review. This order is intended only to improve the internal management of the Federal Government and it is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its departments, agencies, instrumentalities or entities, its officers or employees, or any other person.
 
@@ -106,7 +106,7 @@ George W. Bush.
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 306102 | [16 U.S.C. 470h–2(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/a/2&num=0&edition=prelim) | Pub. L. 89–665, title I, § 110(a)(2), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2996; Pub. L. 102–575, title XL, § 4012(2), Oct. 30, 1992, 106 Stat. 4760. |
+| 306102 | [16 U.S.C. 470h–2(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/a/2&num=0&edition=prelim). | Pub. L. 89–665, title I, § 110(a)(2), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2996; Pub. L. 102–575, title XL, § 4012(2), Oct. 30, 1992, 106 Stat. 4760. |
 
 In subsection (a), the words “except for programs and undertakings exempted” are substituted for “unless exempted” for clarity.
 
@@ -127,7 +127,7 @@ Each Federal agency shall initiate measures to ensure that where, as a result of
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 306103 | [16 U.S.C. 470h–2(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/b&num=0&edition=prelim) | Pub. L. 89–665, title I, § 110(b), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2996. |
+| 306103 | [16 U.S.C. 470h–2(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/b&num=0&edition=prelim). | Pub. L. 89–665, title I, § 110(b), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2996. |
 
 
 <a id="section-306104"></a>
@@ -140,7 +140,7 @@ The head of each Federal agency (except an agency that is exempted under [sectio
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 306104 | [16 U.S.C. 470h–2(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/c&num=0&edition=prelim) | Pub. L. 89–665, title I, § 110(c), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2996; Pub. L. 102–575, title XL, § 4006(b), Oct. 30, 1992, 106 Stat. 4757. |
+| 306104 | [16 U.S.C. 470h–2(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/c&num=0&edition=prelim). | Pub. L. 89–665, title I, § 110(c), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2996; Pub. L. 102–575, title XL, § 4006(b), Oct. 30, 1992, 106 Stat. 4757. |
 
 
 <a id="section-306105"></a>
@@ -153,7 +153,7 @@ Consistent with the agency’s missions and mandates, each Federal agency shall 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 306105 | [16 U.S.C. 470h–2(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/d&num=0&edition=prelim) | Pub. L. 89–665, title I, § 110(d), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2996. |
+| 306105 | [16 U.S.C. 470h–2(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/d&num=0&edition=prelim). | Pub. L. 89–665, title I, § 110(d), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2996. |
 
 
 <a id="section-306106"></a>
@@ -166,7 +166,7 @@ The Secretary shall review and approve the plans of transferees of surplus feder
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 306106 | [16 U.S.C. 470h–2(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/e&num=0&edition=prelim) | Pub. L. 89–665, title I, § 110(e), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2996. |
+| 306106 | [16 U.S.C. 470h–2(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/e&num=0&edition=prelim). | Pub. L. 89–665, title I, § 110(e), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2996. |
 
 
 <a id="section-306107"></a>
@@ -179,7 +179,7 @@ Prior to the approval of any Federal undertaking that may directly and adversely
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 306107 | [16 U.S.C. 470h–2(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/f&num=0&edition=prelim) | Pub. L. 89–665, title I, § 110(f), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2996. |
+| 306107 | [16 U.S.C. 470h–2(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/f&num=0&edition=prelim). | Pub. L. 89–665, title I, § 110(f), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2996. |
 
 
 <a id="section-306108"></a>
@@ -192,7 +192,7 @@ The head of any Federal agency having direct or indirect jurisdiction over a pro
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 306108 | [16 U.S.C. 470f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470f&num=0&edition=prelim) | Pub. L. 89–665, title I, § 106, Oct. 15, 1966, 80 Stat. 917; Pub. L. 94—422, title II, § 201(3), Sept. 28, 1976, 90 Stat. 1320. |
+| 306108 | [16 U.S.C. 470f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470f&num=0&edition=prelim). | Pub. L. 89–665, title I, § 106, Oct. 15, 1966, 80 Stat. 917; Pub. L. 94–422, title II, § 201(3), Sept. 28, 1976, 90 Stat. 1320. |
 
 The words “historic property” are substituted for “district, site, building, structure, or object that is included in or eligible for inclusion in the National Register” because of the definition of “historic property” in section 300308 of the new title.
 
@@ -207,7 +207,7 @@ A Federal agency may include the costs of preservation activities of the agency 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 306109 | [16 U.S.C. 470h–2(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/g&num=0&edition=prelim) | Pub. L. 89–665, title I, § 110(g), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2996. |
+| 306109 | [16 U.S.C. 470h–2(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/g&num=0&edition=prelim). | Pub. L. 89–665, title I, § 110(g), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2996. |
 
 
 <a id="section-306110"></a>
@@ -220,7 +220,7 @@ The Secretary shall establish an annual preservation awards program under which 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 306110 | [16 U.S.C. 470h–2(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/h&num=0&edition=prelim) | Pub. L. 89–665, title I, § 110(h), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2997. |
+| 306110 | [16 U.S.C. 470h–2(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/h&num=0&edition=prelim). | Pub. L. 89–665, title I, § 110(h), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2997. |
 
 The words “historic property” are substituted for “historic resources” for consistency because the defined term in the new division is “historic property”.
 
@@ -239,10 +239,10 @@ Nothing in this division shall be construed to—
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 306111 | [16 U.S.C. 470h–2(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/i&num=0&edition=prelim) | Pub. L. 89–665, title I, § 110(i), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2997. |
+| 306111 | [16 U.S.C. 470h–2(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/i&num=0&edition=prelim). | Pub. L. 89–665, title I, § 110(i), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2997. |
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in par. (1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 
 <a id="section-306112"></a>
@@ -255,7 +255,7 @@ The Secretary shall promulgate regulations under which the requirements of this 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 306112 | [16 U.S.C. 470h–2(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/j&num=0&edition=prelim) | Pub. L. 89–665, title I, § 110(j), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2997. |
+| 306112 | [16 U.S.C. 470h–2(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/j&num=0&edition=prelim). | Pub. L. 89–665, title I, § 110(j), as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2997. |
 
 
 <a id="section-306113"></a>
@@ -268,7 +268,7 @@ Each Federal agency shall ensure that the agency will not grant a loan, loan gua
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 306113 | [16 U.S.C. 470h–2(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/k&num=0&edition=prelim) | Pub. L. 89–665, title I, § 110(k), as added Pub. L. 102–575, title XL, § 4012(3), Oct. 30, 1992, 106 Stat. 4760. |
+| 306113 | [16 U.S.C. 470h–2(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2/k&num=0&edition=prelim). | Pub. L. 89–665, title I, § 110(k), as added Pub. L. 102–575, title XL, § 4012(3), Oct. 30, 1992, 106 Stat. 4760. |
 
 
 <a id="section-306114"></a>
@@ -281,7 +281,7 @@ With respect to any undertaking subject to [section 306108 of this title](./chap
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 306114 | [16 U.S.C. 470h–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2&num=0&edition=prelim)(l) | Pub. L. 89–665, title I, § 110(l), as added Pub. L. 102–575, title XL, § 4012(3), Oct. 30, 1992, 106 Stat. 4761; Pub. L. 106–208, § 5(a)(8), May 26, 2000, 114 Stat. 319. |
+| 306114 | [16 U.S.C. 470h–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–2&num=0&edition=prelim)(l). | Pub. L. 89–665, title I, § 110(l), as added Pub. L. 102–575, title XL, § 4012(3), Oct. 30, 1992, 106 Stat. 4761; Pub. L. 106–208, § 5(a)(8), May 26, 2000, 114 Stat. 319. |
 
 The words “historic property” are substituted for “property included in or eligible for inclusion in the National Register” because of the definition of “historic property” in section 300308 of the new title. The words “to document a decision pursuant to this section” are substituted for “pursuant to such section” for clarity. The language was not intended to limit agency authority to delegate responsibilities under section 106 of the National Historic Preservation Act (Public Law 89–665, 80 Stat. 917). The words “agreement pursuant to regulations issued by the Council” are substituted for “a section 106 memorandum”, and the word “agreement” is substituted for “memorandum”, for clarity and for consistency in the new section.
 
@@ -301,11 +301,13 @@ The words “historic property” are substituted for “property included in or
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 306121(a) | [16 U.S.C. 470h–3(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–3/a&num=0&edition=prelim) | Pub. L. 89–665, title I, § 111(a), as added Pub. L. 96–515, title II, § 207, Dec. 12, 1980, 94 Stat. 2997; Pub. L. 102–575, title XL, § 4013, Oct. 30, 1992, 106 Stat. 4761. |
-| 306121(b) | [16 U.S.C. 470h–3(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–3/b&num=0&edition=prelim) | Pub. L. 89–665, title I, § 111(b), as added Pub. L. 96–515, title II, § 207, Dec. 12, 1980, 94 Stat. 2997. |
+| 306121(a) | [16 U.S.C. 470h–3(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–3/a&num=0&edition=prelim). | Pub. L. 89–665, title I, § 111(a), as added Pub. L. 96–515, title II, § 207, Dec. 12, 1980, 94 Stat. 2997; Pub. L. 102–575, title XL, § 4013, Oct. 30, 1992, 106 Stat. 4761. |
+| 306121(b) | [16 U.S.C. 470h–3(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–3/b&num=0&edition=prelim). | Pub. L. 89–665, title I, § 111(b), as added Pub. L. 96–515, title II, § 207, Dec. 12, 1980, 94 Stat. 2997. |
 
 #### Historic Lease Process Simplification
 Pub. L. 105–391, title VIII, § 802(b), Nov. 13, 1998, 112 Stat. 3523, provided that: “The Secretary is directed to simplify, to the maximum extent possible, the leasing process for historic properties with the goal of leasing available structures in a timely manner.”
+
+[For “Secretary” as used in section 802(b) of Pub. L. 105–391, set out above, as meaning the Secretary of the Interior, see section 2 of Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3498, which was classified to [section 5901 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5901&num=0&edition=prelim), Conservation, prior to repeal by Pub. L. 113–287.]
 
 
 <a id="section-306122"></a>
@@ -318,7 +320,7 @@ The head of any Federal agency having responsibility for the management of any h
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 306122 | [16 U.S.C. 470h–3(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–3/c&num=0&edition=prelim) | Pub. L. 89–665, title I, § 111(c), as added Pub. L. 96–515, title II, § 207, Dec. 12, 1980, 94 Stat. 2997. |
+| 306122 | [16 U.S.C. 470h–3(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–3/c&num=0&edition=prelim). | Pub. L. 89–665, title I, § 111(c), as added Pub. L. 96–515, title II, § 207, Dec. 12, 1980, 94 Stat. 2997. |
 
 
 <a id="section-306131"></a>
@@ -335,7 +337,7 @@ The head of any Federal agency having responsibility for the management of any h
 
 (2) **Considerations.—** — The standards referred to in paragraph (1)(B) shall consider the particular skills and expertise needed for the preservation of historic property and shall be equivalent requirements for the disciplines involved.
 
-(3) **Revision.—** — The Office of Management and Budget shall revise qualification standards for the disciplines involved.
+(3) **Revision.—** — The Office of Personnel Management shall revise qualification standards for the disciplines involved.
 
 **(b) Guidelines.—** To promote the preservation of historic property eligible for listing on the National Register, the Secretary shall, in consultation with the Council, promulgate guidelines to ensure that Federal, State, and tribal historic preservation programs subject to this division include plans to—
 
@@ -360,10 +362,13 @@ The head of any Federal agency having responsibility for the management of any h
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 306131 | [16 U.S.C. 470h–4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–4&num=0&edition=prelim) | Pub. L. 89–665, title I, § 112, as added Pub. L. 102–575, title XL, § 4014, Oct. 30, 1992, 106 Stat. 4761; Pub. L. 106–208, § 5(a)(9), May 26, 2000, 114 Stat. 319. |
+| 306131 | [16 U.S.C. 470h–4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–4&num=0&edition=prelim). | Pub. L. 89–665, title I, § 112, as added Pub. L. 102–575, title XL, § 4014, Oct. 30, 1992, 106 Stat. 4761; Pub. L. 106–208, § 5(a)(9), May 26, 2000, 114 Stat. 319. |
 
 In subparagraphs (A) and (B) of subsection (a)(1), the words “the disciplines involved, specifically” are omitted as unnecessary.
 
 In subsection (a)(3), the words “within 2 years after October 20, 1992” are omitted as obsolete.
 
 In subsection (b)(1), the word “property” is substituted for “resources” for consistency because the defined term in the new division is “property”.
+
+#### Amendments
+2016—Subsec. (a)(3). Pub. L. 114–289 substituted “Office of Personnel Management” for “Office of Management and Budget”.

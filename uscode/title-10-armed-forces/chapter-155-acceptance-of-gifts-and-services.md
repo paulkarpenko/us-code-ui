@@ -62,15 +62,29 @@ source: >-
 
 (3) The Secretary concerned may disburse funds deposited in a gift fund referred to in subsection (c) for the purposes specified in subsections (a) and (b), subject to the terms of the gift, devise, or bequest.
 
-**(e) Payment of Expenses.—** The Secretary concerned may pay all necessary expenses in connection with the conveyance or transfer of a gift, devise, or bequest accepted under this section.
+**(e) Acceptance of Real Property Gifts; Naming Rights.—**
 
-**(f) Treatment of Gifts.—** For the purposes of Federal income, estate, and gift taxes, any property, money, or services accepted under subsection (a) or (b) shall be considered as a gift, devise, or bequest to or for the use of the United States.
+(1) The Secretary concerned may accept a gift under subsection (a) or (b) consisting of the provision, acquisition, enhancement, or construction of real property offered to the United States Military Academy, the Naval Academy, the Air Force Academy, or the Coast Guard Academy even though the gift will be subject to the condition that the real property, or a portion thereof, bear a specified name.
 
-**(g) Management of Funds.—** In the case of each gift fund referred to in subsection (c), the Secretary of the Treasury, upon the request of the Secretary concerned, may retain money, securities, and the proceeds of the sale of securities in the gift fund and may invest money and reinvest the proceeds of the sale of securities in the gift fund in securities of the United States or in securities guaranteed as to principal and interest by the United States. The interest and profits accruing from those securities shall be deposited to the credit of the gift fund and may be disbursed as provided in subsection (d).
+(2) The authority conferred by this subsection may be delegated by the Secretary concerned only to a civilian official appointed by the President, by and with the advice and consent of the Senate.
 
-**(h) Comptroller General Review.—** The Comptroller General shall make periodic audits of gifts, devises, and bequests accepted under subsection (a) or (b) at such intervals as the Comptroller General determines to be warranted. The Comptroller General shall submit to Congress a report on the results of each such audit.
+(3) A gift may not be accepted under paragraph (1) if—
 
-**(i) Definitions.—** In this section:
+  (A) the acceptance of the gift or the imposition of the naming-rights condition would reflect unfavorably upon the United States, as provided in subsection (d)(2); or
+
+  (B) the real property to be subject to the condition, or portion thereof, has been named by an act of Congress.
+
+(4) The Secretaries concerned shall issue uniform regulations governing the circumstances under which gifts conditioned on naming rights may be accepted, appropriate naming conventions, and suitable display standards.
+
+**(f) Payment of Expenses.—** The Secretary concerned may pay all necessary expenses in connection with the conveyance or transfer of a gift, devise, or bequest accepted under this section.
+
+**(g) Treatment of Gifts.—** For the purposes of Federal income, estate, and gift taxes, any property, money, or services accepted under subsection (a) or (b) shall be considered as a gift, devise, or bequest to or for the use of the United States.
+
+**(h) Management of Funds.—** In the case of each gift fund referred to in subsection (c), the Secretary of the Treasury, upon the request of the Secretary concerned, may retain money, securities, and the proceeds of the sale of securities in the gift fund and may invest money and reinvest the proceeds of the sale of securities in the gift fund in securities of the United States or in securities guaranteed as to principal and interest by the United States. The interest and profits accruing from those securities shall be deposited to the credit of the gift fund and may be disbursed as provided in subsection (d).
+
+**(i) Comptroller General Review.—** The Comptroller General shall make periodic audits of gifts, devises, and bequests accepted under subsection (a) or (b) at such intervals as the Comptroller General determines to be warranted. The Comptroller General shall submit to Congress a report on the results of each such audit.
+
+**(j) Definitions.—** In this section:
 
 (1) The term “Secretary concerned” includes the Secretary of Defense.
 
@@ -94,6 +108,8 @@ In subsection (c), the words “any gift, devise, or bequest of” and “real o
 In subsection (d), the words “or any part thereof deposited in the Treasury pursuant to [section 150r of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section150r&num=0&edition=prelim)” are omitted as surplusage.
 
 #### Amendments
+2015—Subsecs. (e) to (j). Pub. L. 114–92 added subsec. (e) and redesignated former subsecs. (e) to (i) as (f) to (j), respectively.
+
 2013—Subsec. (a). Pub. L. 112–239, § 2852(a)(1), designated existing provisions as par. (1), substituted “The” for “Subject to subsection (d)(2), the”, and added par. (2).
 
 Subsec. (b)(1). Pub. L. 112–239, § 2852(a)(2)(A), substituted “The” for “Subject to subsection (d)(2), the” in introductory provisions.
@@ -519,7 +535,7 @@ Pub. L. 108–375, div. A, title X, § 1084(f), Oct. 28, 2004, 118 Stat. 2064, p
 
 <a id="section-2612"></a>
 ## § 2612. National Defense University: acceptance of gifts
-**(a)** The Secretary of Defense may accept, hold, administer, and spend any gift, including a gift from an international organization and a foreign gift or donation (as defined in [section 2166(f)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2166/f/4&num=0&edition=prelim)), that is made on the condition that it be used in connection with the operation or administration of the National Defense University. The Secretary may pay all necessary expenses in connection with the acceptance of a gift under this subsection.
+**(a)** The Secretary of Defense may accept, hold, administer, and spend any gift, including a gift from an international organization and a foreign gift or donation (as defined in section 2166(f)(4) 11 See References in Text note below. of this title), that is made on the condition that it be used in connection with the operation or administration of the National Defense University. The Secretary may pay all necessary expenses in connection with the acceptance of a gift under this subsection.
 
 **(b)** There is established in the Treasury a fund to be known as the “National Defense University Gift Fund”. Gifts of money, and the proceeds of the sale of property, received under subsection (a) shall be deposited in the fund. The Secretary may disburse funds deposited under this subsection for the benefit or use of the National Defense University.
 
@@ -544,6 +560,9 @@ Pub. L. 108–375, div. A, title X, § 1084(f), Oct. 28, 2004, 118 Stat. 2064, p
 **(f)** The Secretary of Defense shall prescribe regulations to carry out this section.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 2166 of this title](./chapter-108-department-of-defense-schools.md#section-2166), referred to in subsec. (a), was renumbered [section 343 of this title](./chapter-016-security-cooperation.md#section-343) by Pub. L. 114–328, div. A, title XII, § 1241(f)(1), Dec. 23, 2016, 130 Stat. 2507.
 
 #### Amendments
 2003—Subsec. (a). Pub. L. 108–136 substituted “2166(f)(4)” for “2611(f)”.

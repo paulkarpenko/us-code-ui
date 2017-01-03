@@ -250,7 +250,7 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 
     (i) that the examinee cannot be required to take the test as a condition of employment,
 
-    (ii) that any statement made during the test may constitute additional supporting evidence for the purposes of an adverse employment action described in subsection (a) of this section,
+    (ii) that any statement made during the test may constitute additional supporting evidence for the purposes of an adverse employment action described in subsection (a),
 
     (iii) of the limitations imposed under this section,
 
@@ -309,7 +309,7 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 
 **(c) Disclosure by employer** An employer (other than an employer described in subsection (a), (b), or (c) of [section 2006 of this title](./chapter-022-employee-polygraph-protection.md#section-2006)) for whom a polygraph test is conducted may disclose information from the test only to—
 
-(1) a person in accordance with subsection (b) of this section; or
+(1) a person in accordance with subsection (b); or
 
 (2) a governmental agency, but only insofar as the disclosed information is an admission of criminal conduct.
 

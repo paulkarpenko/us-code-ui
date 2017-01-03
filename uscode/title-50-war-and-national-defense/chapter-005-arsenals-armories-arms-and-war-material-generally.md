@@ -144,11 +144,11 @@ June 30, 1922, ch. 253, title I, 42 Stat. 741.
 
 <a id="section-82"></a>
 ## § 82. Procurement of ships and material during war
-**(a) Definitions** The word “person” as used in subsections (b) and (c) of this section shall include any individual, trustee, firm, association, company, or corporation. The word “ship” shall include any boat, vessel, submarine, or any form of aircraft, and the parts thereof. The words “war material” shall include arms, armament, ammunition, stores, supplies, and equipment for ships and airplanes, and everything required for or in connection with the production thereof. The word “factory” shall include any factory, workshop, engine works, building used for manufacture, assembling, construction, or any process, and any shipyard or dockyard. The words “United States” shall include the Canal Zone and all territory and waters, continental and insular, subject to the jurisdiction of the United States.
+**(a) Definitions** The word “person” as used in subsections (b) and (c) shall include any individual, trustee, firm, association, company, or corporation. The word “ship” shall include any boat, vessel, submarine, or any form of aircraft, and the parts thereof. The words “war material” shall include arms, armament, ammunition, stores, supplies, and equipment for ships and airplanes, and everything required for or in connection with the production thereof. The word “factory” shall include any factory, workshop, engine works, building used for manufacture, assembling, construction, or any process, and any shipyard or dockyard. The words “United States” shall include the Canal Zone and all territory and waters, continental and insular, subject to the jurisdiction of the United States.
 
 **(b) Presidential powers** In time of war the President is authorized and empowered, in addition to all other existing provisions of law: First. Within the limits of the amounts appropriated therefor, to place an order with any person for such ships or war material as the necessities of the Government, to be determined by the President, may require and which are of the nature, kind, and quantity usually produced or capable of being produced by such person. Compliance with all such orders shall be obligatory on any person to whom such order is given, and such order shall take precedence over all other orders and contracts theretofore placed with such person. If any person owning, leasing, or operating any factory equipped for the building or production of ships or war material for the Navy shall refuse or fail to give to the United States such preference in the execution of such an order, or shall refuse to build, supply, furnish, or manufacture the kind, quantity, or quality of ships or war material so ordered at such reasonable price as shall be determined by the President, the President may take immediate possession of any factory of such person, or of any part thereof without taking possession of the entire factory, and may use the same at such times and in such manner as he may consider necessary or expedient. Second. Within the limit of the amounts appropriated therefor, to modify or cancel any existing contract for the building, production, or purchase of ships or war material; and if any contractor shall refuse or fail to comply with the contract as so modified the President may take immediate possession of any factory of such contractor, or any part thereof without taking possession of the entire factory, and may use the same at such times and in such manner as he may consider necessary or expedient. Third. To require the owner or occupier of any factory in which ships or war material are built or produced to place at the disposal of the United States the whole or any part of the output of such factory, and, within the limit of the amounts appropriated therefor, to deliver such output or parts thereof in such quantities and at such times as may be specified in the order at such reasonable price as shall be determined by the President. Fourth. To requisition and take over for use or operation by the Government any factory, or any part thereof without taking possession of the entire factory, whether the United States has or has not any contract or agreement with the owner or occupier of such factory.
 
-**(d) 11 So in original. No subsec. (c) has been enacted. Compensation for commandeered material** Whenever the United States shall cancel or modify any contract, make use of, assume, occupy, requisition, or take over any factory or part thereof, or any ships or war material, in accordance with the provisions of subsection (b) of this section, it shall make just compensation therefor, to be determined by the President, and if the amount thereof so determined by the President is unsatisfactory to the person entitled to receive the same, such person shall be paid fifty per centum of the amount so determined by the President and shall be entitled to sue the United States to recover such further sum as added to said fifty per centum shall make up such amount as will be just compensation therefor, in the manner provided for by section 1346 or [section 1491 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1491&num=0&edition=prelim).
+**(d) 11 So in original. No subsec. (c) has been enacted. Compensation for commandeered material** Whenever the United States shall cancel or modify any contract, make use of, assume, occupy, requisition, or take over any factory or part thereof, or any ships or war material, in accordance with the provisions of subsection (b), it shall make just compensation therefor, to be determined by the President, and if the amount thereof so determined by the President is unsatisfactory to the person entitled to receive the same, such person shall be paid fifty per centum of the amount so determined by the President and shall be entitled to sue the United States to recover such further sum as added to said fifty per centum shall make up such amount as will be just compensation therefor, in the manner provided for by section 1346 or [section 1491 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1491&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -167,13 +167,13 @@ Act July 25, 1947, ch. 327, § 3, 61 Stat. 451, provided that in the interpretat
 #### Ex. Ord. No. 12742. National Security Industrial Responsiveness
 Ex. Ord. No. 12742, Jan. 8, 1991, 56 F.R. 1079, as amended by Ex. Ord. No. 13286, § 36, Feb. 28, 2003, 68 F.R. 10625, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including 50 U.S.C. App. 468, [10 U.S.C. 4501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4501&num=0&edition=prelim) and 9501 [former sections 4501 and 9501 of Title 10, Armed Forces], and [50 U.S.C. 82](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-82), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including 50 U.S.C. App. 468 [now [50 U.S.C. 3816](./chapter-049-military-selective-service.md#section-3816)], [10 U.S.C. 4501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4501&num=0&edition=prelim) and 9501 [former sections 4501 and 9501 of Title 10, Armed Forces], and [50 U.S.C. 82](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-82), it is hereby ordered as follows:
 
 Section 101. Policy. The United States must have the capability to rapidly mobilize its resources in the interest of national security. Therefore, to achieve prompt delivery of articles, products, and materials to meet national security requirements, the Government may place orders and require priority performance of these orders.
 
-Sec. 102. Delegation of Authority under.
+Sec. 102. Delegation of Authority under 50 U.S.C. App. 468 [now [50 U.S.C. 3816](./chapter-049-military-selective-service.md#section-3816)].
 
-(a) Subject to paragraph (b) of this section, the authorities vested in the President, under, with respect to the placing of orders for prompt delivery of articles or materials, except for the taking authority under (c), are hereby delegated to:
+(a) Subject to paragraph (b) of this section, the authorities vested in the President, under 50 U.S.C. App. 468 [now [50 U.S.C. 3816](./chapter-049-military-selective-service.md#section-3816)], with respect to the placing of orders for prompt delivery of articles or materials, except for the taking authority under (c), are hereby delegated to:
 
 (1) The Secretary of Agriculture with respect to all food resources;
 
@@ -189,7 +189,7 @@ Sec. 102. Delegation of Authority under.
 
 (2) a determination by the Secretary of Energy that the prompt delivery of the articles or materials for the Department of Energy’s atomic energy programs is in the interest of national security.
 
-(c) All determinations of the type described in paragraph (b) of this section and all delegations—made prior to the effective date of this order under the Defense Production Act of 1950, as amended [50 U.S.C. App. 2061 et seq.], and under its implementing rules and regulations—shall be continued in effect, including but not limited to approved programs listed under the Defense Priorities and Allocations System (15 CFR Part 700).
+(c) All determinations of the type described in paragraph (b) of this section and all delegations—made prior to the effective date of this order under the Defense Production Act of 1950, as amended [[50 U.S.C. 4501](./chapter-055-defense-production.md#section-4501) et seq.], and under its implementing rules and regulations—shall be continued in effect, including but not limited to approved programs listed under the Defense Priorities and Allocations System (15 CFR Part 700).
 
 Sec. 103. Delegation of Authority under [10 U.S.C. 4501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4501&num=0&edition=prelim) and 9501, and [50 U.S.C. 82](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-82).
 
@@ -207,7 +207,7 @@ Sec. 103. Delegation of Authority under [10 U.S.C. 4501](https://uscode.house.go
 
 Sec. 104. Implementation. (a) The authorities delegated under sections 102 and 103 of this order shall include the power to redelegate such authorities, and the power of successive redelegation of such authorities, to departments and agencies, officers, and employees of the Government. The authorities delegated in this order may be implemented by regulations promulgated and administered by the Secretaries of Agriculture, Defense, Energy, Transportation, Homeland Security, and Commerce, and the Director of the Federal Emergency Management Agency, as appropriate.
 
-(b) All departments and agencies delegated authority under this order are hereby directed to amend their rules and regulations as necessary to reflect the new authorities delegated herein that are to be relied upon to carry out their functions. To the extent authorized by law, including 50 U.S.C. App. 486 [468], [10 U.S.C. 4501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4501&num=0&edition=prelim) and 9501 [former sections 4501 and 9501 of Title 10], and [50 U.S.C. 82](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-82), all rules and regulations issued under the Defense Production Act of 1950, as amended, with respect to the placing of priority orders for articles, products, ships, and materials, including war materials, shall be deemed, where appropriate, to implement the authorities delegated by sections 102 and 103 of this order, and shall remain in effect until amended or revoked by the respective Secretary. All orders, regulations, and other forms of administrative actions purported to have been issued, taken, or continued in effect pursuant to the Defense Production Act of 1950, as amended, shall, until amended or revoked by the respective Secretaries or the Director of the Federal Emergency Management Agency, as appropriate, remain in full force and effect, to the extent supported by any law or any authority delegated to the respective Secretary or the Director pursuant to this order.
+(b) All departments and agencies delegated authority under this order are hereby directed to amend their rules and regulations as necessary to reflect the new authorities delegated herein that are to be relied upon to carry out their functions. To the extent authorized by law, including 50 U.S.C. App. 486 [468] [now [50 U.S.C. 3816](./chapter-049-military-selective-service.md#section-3816)], [10 U.S.C. 4501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4501&num=0&edition=prelim) and 9501 [former sections 4501 and 9501 of Title 10], and [50 U.S.C. 82](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-82), all rules and regulations issued under the Defense Production Act of 1950, as amended, with respect to the placing of priority orders for articles, products, ships, and materials, including war materials, shall be deemed, where appropriate, to implement the authorities delegated by sections 102 and 103 of this order, and shall remain in effect until amended or revoked by the respective Secretary. All orders, regulations, and other forms of administrative actions purported to have been issued, taken, or continued in effect pursuant to the Defense Production Act of 1950, as amended, shall, until amended or revoked by the respective Secretaries or the Director of the Federal Emergency Management Agency, as appropriate, remain in full force and effect, to the extent supported by any law or any authority delegated to the respective Secretary or the Director pursuant to this order.
 
 (c) Upon the request of the Secretary of Defense with respect to particular articles, products, or materials that are determined to be needed to meet national security requirements, any other official receiving a delegation of authority under this Executive order to place orders or to enforce precedence of such orders, shall exercise such authority within 10 calendar days of the receipt of the request; provided, that if the head of any department or agency having delegated responsibilities hereunder disagrees with a request of the Secretary of Defense, such department or agency head shall, within 10 calendar days from the receipt of the request, refer the issue to the Assistant to the President for National Security Affairs, who shall ensure expeditious resolution of the issue.
 
@@ -234,7 +234,7 @@ Section 85, act Mar. 3, 1921, ch. 128, § 6, 41 Stat. 1352, authorized Secretary
 ### Statutory Notes
 
 #### Codification
-Sections 86 to 88, act Feb. 15, 1936, ch. 74, §§ 1–3, 49 Stat. 1140, related to conservation of domestic sources of tin, and were superseded by the Export Control Act of 1949 (former sections 2021 to 2032 of the Appendix to this title) pursuant to section 10 of that Act (former section 2030 of the Appendix to this title). The act of Feb. 15, 1936 was subsequently superseded by the Export Administration Act of 1969 (former sections 2401 to 2413 of the Appendix to this title) pursuant to section 12 of that Act (former section 2411 of the Appendix to this title). See, also, the Export Administration Act of 1979, which is classified to section 2401 of the Appendix to this title.
+Sections 86 to 88, act Feb. 15, 1936, ch. 74, §§ 1–3, 49 Stat. 1140, related to conservation of domestic sources of tin, and were superseded by the Export Control Act of 1949 (former sections 2021 to 2032 of the former Appendix to this title) pursuant to section 10 of that Act (former section 2030 of the former Appendix to this title). The act of Feb. 15, 1936 was subsequently superseded by the Export Administration Act of 1969 (former sections 2401 to 2413 of the former Appendix to this title) pursuant to section 12 of that Act (former section 2411 of the former Appendix to this title). See, also, the Export Administration Act of 1979, which is classified principally to chapter 56 (§ 4601 et seq.) of this title.
 
 Section 86, act Feb. 15, 1936, ch. 74, § 1, 49 Stat. 1140, related to conservation of domestic resources of tin.
 
@@ -288,7 +288,7 @@ A prior section 98, acts June 7, 1939, ch. 190, § 1, 53 Stat. 811; July 23, 194
 Pub. L. 100–180, div. C, title II, § 3201, Dec. 4, 1987, 101 Stat. 1245, provided that: “This title [enacting [section 98h–5 of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98h-5), amending sections 98a, 98b, 98d, 98e–1, 98h, 98h–2, and 98h–4 of this title, enacting provisions set out as a note under [section 98e–1 of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98e-1), and repealing provisions set out as a note under this section] may be cited as the ‘National Defense Stockpile Amendments of 1987’.”
 
 #### Short Title of 1979 Amendment
-Pub. L. 96–41, § 1, July 30, 1979, 93 Stat. 319, provided: “That this Act [enacting this section and sections 98a to 98h–3 of this title, redesignating former [section 98h–1 of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98h-1) as 98h–4 of this title, amending section 2093 of the Appendix to this title, sections 1743 and 1745 of Title 7, Agriculture, [section 741b of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section741b&num=0&edition=prelim), Commerce and Trade, and section 485 of former Title 40, Public Buildings, Property, and Works, enacting a provision set out as a note under this section, and repealing a provision set out as a note under this section] may be cited as the ‘Strategic and Critical Materials Stock Piling Revision Act of 1979’.”
+Pub. L. 96–41, § 1, July 30, 1979, 93 Stat. 319, provided: “That this Act [enacting this section and sections 98a to 98h–3 of this title, redesignating former [section 98h–1 of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98h-1) as 98h–4 of this title, amending [section 4533 of this title](./chapter-055-defense-production.md#section-4533), sections 1743 and 1745 of Title 7, Agriculture, [section 741b of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section741b&num=0&edition=prelim), Commerce and Trade, and section 485 of former Title 40, Public Buildings, Property, and Works, enacting a provision set out as a note under this section, and repealing a provision set out as a note under this section] may be cited as the ‘Strategic and Critical Materials Stock Piling Revision Act of 1979’.”
 
 #### Short Title
 Act June 7, 1939, ch. 190, § 11, formerly § 10, as added by act July 23, 1946, ch. 590, 60 Stat. 596; renumbered § 11, Pub. L. 92–156, title V, § 503(1), Nov. 17, 1971, 85 Stat. 427, provided that this Act, which enacted this subchapter, be cited as the “Strategic and Critical Materials Stock Piling Act”, prior to repeal by Pub. L. 96–41, § 2(b)(2), July 30, 1979, 93 Stat. 324.
@@ -353,9 +353,9 @@ Pub. L. 104–201, div. C, title XXXIII, § 3311(c), Sept. 23, 1996, 110 Stat. 2
 
 <a id="section-98b"></a>
 ## § 98b. National Defense Stockpile
-**(a) Determination of materials; quantities** Subject to subsection (c) of this section, the President shall determine from time to time (1) which materials are strategic and critical materials for the purposes of this subchapter, and (2) the quality and quantity of each such material to be acquired for the purposes of this subchapter and the form in which each such material shall be acquired and stored. Such materials when acquired, together with the other materials described in [section 98c of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98c), shall constitute and be collectively known as the National Defense Stockpile (hereinafter in this subchapter referred to as the “stockpile”).
+**(a) Determination of materials; quantities** Subject to subsection (c), the President shall determine from time to time (1) which materials are strategic and critical materials for the purposes of this subchapter, and (2) the quality and quantity of each such material to be acquired for the purposes of this subchapter and the form in which each such material shall be acquired and stored. Such materials when acquired, together with the other materials described in [section 98c of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98c), shall constitute and be collectively known as the National Defense Stockpile (hereinafter in this subchapter referred to as the “stockpile”).
 
-**(b) Guidelines for exercise of Presidential authority** The President shall make the determinations required to be made under subsection (a) of this section on the basis of the principles stated in [section 98a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98a/c&num=0&edition=prelim).
+**(b) Guidelines for exercise of Presidential authority** The President shall make the determinations required to be made under subsection (a) on the basis of the principles stated in [section 98a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98a/c&num=0&edition=prelim).
 
 **(c) Quantity change; notification to Congress**
 
@@ -385,11 +385,11 @@ Provisions similar to those in this section were contained in former [section 98
 
 1988—Subsec. (c)(1). Pub. L. 100–456 substituted “December 4, 1987” for “the date of the enactment of the National Defense Stockpile Amendments of 1987”, which for purposes of codification had been translated as “December 4, 1987”, thus requiring no change in text.
 
-1987—Subsec. (a). Pub. L. 100–180, § 3202(a)(1), substituted “Subject to subsection (c) of this section, the” for “The”.
+1987—Subsec. (a). Pub. L. 100–180, § 3202(a)(1), substituted “Subject to subsection (c), the” for “The”.
 
 Subsec. (b). Pub. L. 100–180, § 3202(a)(2), substituted “the principles stated in [section 98a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98a/c&num=0&edition=prelim).” for “the following principles:” and struck out cls. (1) and (2) which related to purpose of National Defense Stockpile and quantities of materials stockpiled.
 
-Subsec. (c). Pub. L. 100–180, § 3202(a)(3), added subsec. (c) and struck out former subsec. (c) which read as follows: “The quantity of any material to be stockpiled under this subchapter, as determined under subsection (a) of this section, may not be revised unless the Committees on Armed Services of the Senate and House of Representatives are notified in writing of the proposed revision and the reasons for such revision at least thirty days before the effective date of such revision.”
+Subsec. (c). Pub. L. 100–180, § 3202(a)(3), added subsec. (c) and struck out former subsec. (c) which read as follows: “The quantity of any material to be stockpiled under this subchapter, as determined under subsection (a), may not be revised unless the Committees on Armed Services of the Senate and House of Representatives are notified in writing of the proposed revision and the reasons for such revision at least thirty days before the effective date of such revision.”
 
 #### Delegation of Functions
 Functions of the President under this section were delegated to the Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under [section 98 of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98).
@@ -405,7 +405,7 @@ Functions of the President under this section were delegated to the Secretary of
 
 (3) Materials in the supplemental stockpile established by [section 1704(b) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1704/b&num=0&edition=prelim) (as in effect from September 21, 1959, through December 31, 1966) on July 29, 1979.
 
-(4) Materials acquired by the United States under the provisions of section 2093 of the Appendix to this title and transferred to the stockpile by the President pursuant to subsection (f) of such section.
+(4) Materials acquired by the United States under the provisions of [section 4533 of this title](./chapter-055-defense-production.md#section-4533) and transferred to the stockpile by the President pursuant to subsection (f) of such section.
 
 (5) Materials transferred to the United States under [section 2423 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2423&num=0&edition=prelim) that have been determined to be strategic and critical materials for the purposes of this subchapter and that are allocated by the President under subsection (b) of such section for stockpiling in the stockpile.
 
@@ -415,17 +415,13 @@ Functions of the President under this section were delegated to the Secretary of
 
 (8) Materials transferred to the stockpile by the President under paragraph (4) of [section 1743(a) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1743/a&num=0&edition=prelim).
 
-(9) Materials transferred to the stockpile under subsection (b) of this section.
+(9) Materials transferred to the stockpile under subsection (b).
 
-(10) Materials transferred to the stockpile under subsection (c) of this section.
+(10) Materials transferred to the stockpile under subsection (c).
 
-**(b) Transfer and reimbursement** Notwithstanding any other provision of law, any material that (1) is under the control of any department or agency of the United States, (2) is determined by the head of such department or agency to be excess to its needs and responsibilities, and (3) is required for the stockpile shall be transferred to the stockpile. Any such transfer shall be made without reimbursement to such department or agency, but all costs required to effect such transfer shall be paid or reimbursed from funds appropriated to carry out this subchapter.
+**(b) Transfer and reimbursement** Notwithstanding any other provision of law, any material that (1) is under the control of any department or agency of the United States, (2) is determined by the head of such department or agency to be excess to its needs and responsibilities, and (3) is suitable for transfer or disposal through the stockpile shall be transferred to the stockpile. Any such transfer shall be made without reimbursement to such department or agency, but all costs required to effect such transfer shall be paid or reimbursed from funds appropriated to carry out this subchapter.
 
-**(c) Transfer and disposal**
-
-(1) The Secretary of Energy, in consultation with the Secretary of Defense, shall transfer to the stockpile for disposal in accordance with this subchapter uncontaminated materials that are in the Department of Energy inventory of materials for the production of defense-related items, are excess to the requirements of the Department for that purpose, and are suitable for transfer to the stockpile and disposal through the stockpile.
-
-(2) The Secretary of Defense shall determine whether materials are suitable for transfer to the stockpile under this subsection, are suitable for disposal through the stockpile, and are uncontaminated.
+**(c) Transfer and disposal** The Secretary of Defense shall determine whether materials are suitable for transfer to the stockpile under subsection (b), are suitable for disposal through the stockpile, and are uncontaminated.
 
 ### Statutory Notes
 
@@ -436,6 +432,10 @@ Functions of the President under this section were delegated to the Secretary of
 A prior section 98c, acts June 7, 1939, ch. 190, § 4, 53 Stat. 811; July 23, 1946, ch. 590, 60 Stat. 598; 1953 Reorg. Plan No. 3, § 2(b), eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634; 1958 Reorg. Plan No. 1, § 2, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799; Oct. 21, 1968, Pub. L. 90–608, § 402, 82 Stat. 1194; Ex. Ord. No. 11725, § 3, eff. June 29, 1973, 38 F.R. 17175; Apr. 21, 1976, Pub. L. 94–273, § 37, 90 Stat. 380, required reports to Congress, prior to repeal by section 2(a) of Pub. L. 96–41. See [section 98h–2 of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98h-2).
 
 #### Amendments
+2016—Subsec. (b). Pub. L. 114–328, § 1412(a)(1), substituted “suitable for transfer or disposal through” for “required for”.
+
+Subsec. (c). Pub. L. 114–328, § 1412(a)(2), struck out “(2)” before “The Secretary”, substituted “subsection (b)” for “this subsection”, and struck out par. (1) which read as follows: “The Secretary of Energy, in consultation with the Secretary of Defense, shall transfer to the stockpile for disposal in accordance with this subchapter uncontaminated materials that are in the Department of Energy inventory of materials for the production of defense-related items, are excess to the requirements of the Department for that purpose, and are suitable for transfer to the stockpile and disposal through the stockpile.”
+
 2008—Subsec. (a)(3). Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to [section 1704(b) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1704/b&num=0&edition=prelim).
 
 1996—Subsec. (a)(10). Pub. L. 104–106, § 3311(b), added par. (10).
@@ -448,7 +448,7 @@ Subsec. (c). Pub. L. 104–106, § 3311(a), added subsec. (c).
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
 #### Clarification of Stockpile Status of Certain Materials
-Pub. L. 102–484, div. C, title XXXIII, § 3315, Oct. 23, 1992, 106 Stat. 2654, as amended by Pub. L. 103–337, div. A, title X, § 1070(c)(4), Oct. 5, 1994, 108 Stat. 2858, provided that: “All materials purchased under section 303 of the Defense Production Act of 1950 ([former] 50 U.S.C. App. 2093) and held in the Defense Production Act inventory as of June 30, 1992, are hereby transferred to the National Defense Stockpile and shall be managed, controlled, and subject to disposal by the National Defense Stockpile Manager as provided in the Strategic and Critical Materials Stock Piling Act ([50 U.S.C. 98a](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98a) et seq.) [[50 U.S.C. 98](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98) et seq.].”
+Pub. L. 102–484, div. C, title XXXIII, § 3315, Oct. 23, 1992, 106 Stat. 2654, as amended by Pub. L. 103–337, div. A, title X, § 1070(c)(4), Oct. 5, 1994, 108 Stat. 2858, provided that: “All materials purchased under section 303 of the Defense Production Act of 1950 (50 U.S.C. App. 2093) [now [50 U.S.C. 4533](./chapter-055-defense-production.md#section-4533)] and held in the Defense Production Act inventory as of June 30, 1992, are hereby transferred to the National Defense Stockpile and shall be managed, controlled, and subject to disposal by the National Defense Stockpile Manager as provided in the Strategic and Critical Materials Stock Piling Act ([50 U.S.C. 98a](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98a) et seq.) [[50 U.S.C. 98](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98) et seq.].”
 
 
 <a id="section-98d"></a>
@@ -504,6 +504,8 @@ Pub. L. 99–145, title XVI, § 1612, Nov. 8, 1985, 99 Stat. 776, as amended by 
 
 #### Materials in the National Defense Stockpile
 Provisions relating to certain materials in the National Defense Stockpile were contained in the following acts:
+
+Pub. L. 114–328, div. A, title XIV, § 1411, Dec. 23, 2016, 130 Stat. 2569.
 
 Pub. L. 113–66, div. A, title XIV, § 1412, Dec. 26, 2013, 127 Stat. 934.
 
@@ -567,10 +569,10 @@ Act June 22, 1956, ch. 426, 70 Stat. 329, directed Federal Facilities Corporatio
 Act June 28, 1947, ch. 159, 61 Stat. 190, as amended June 29, 1948, ch. 722, 62 Stat. 1101; June 30, 1949, ch. 284, 63 Stat. 350; Aug. 21, 1950, ch. 766, 64 Stat. 468; July 30, 1953, ch. 282, title I, § 103, 67 Stat. 230; June 22, 1956, ch. 426, § 5(a), 70 Stat. 329, declared tin to be a highly strategic and critical material in short supply, directed that it was in the public interest that Congress make a thorough investigation on the advisability of the maintenance of a permanent tin-smelting industry and study the availability of adequate tin supplies, provided that the powers, functions, duties, and authority of the United States exercised by the Reconstruction Finance Corporation to buy, sell, and transport tin, and tin ore and concentrates, to improve, develop, maintain, and operate by lease or otherwise the Government-owned tin smelter at Texas City, Texas, to finance research in tin smelting and processing, and to do all other things necessary to the accomplishment of the foregoing continue in effect until Jan. 31, 1957, or until such earlier time as the Congress shall otherwise provide, and be exercised and performed by such officer, agency, or instrumentality of the United States as the President may designate, authorized diversification of tin-recovery facilities in the United States, and required the Reconstruction Finance Corporation to report to Congress on its activities not later than Dec. 31, 1947, and at the end of each six months thereafter.
 
 #### Federal Facilities Corporation; Abolition and Dissolution of Reconstruction Finance Corporation and Federal Facilities Corporation
-Ex. Ord. No. 10539, eff. June 22, 1954, 19 F.R. 3827, designated the Federal Facilities Corporation to perform and exercise the functions formerly performed and exercised by the Reconstruction Finance Corporation under act June 28, 1947, set out as a note above. The Reconstruction Finance Corporation, which was created by the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5, was subsequently abolished by section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees. The Federal Facilities Corporation was, in turn, dissolved by Pub. L. 87–190, § 6, Aug. 30, 1961, 75 Stat. 419, effective Sept. 30, 1961, set out as a note under sections 1921 to 1929 of the Appendix to this title.
+Ex. Ord. No. 10539, eff. June 22, 1954, 19 F.R. 3827, designated the Federal Facilities Corporation to perform and exercise the functions formerly performed and exercised by the Reconstruction Finance Corporation under act June 28, 1947, set out as a note above. The Reconstruction Finance Corporation, which was created by the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5, was subsequently abolished by section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees. The Federal Facilities Corporation was, in turn, dissolved by Pub. L. 87–190, § 6, Aug. 30, 1961, 75 Stat. 419, effective Sept. 30, 1961, formerly set out as a note under sections 1921 to 1929 of the former Appendix to this title.
 
 #### Disposal of Government-Owned Tin Smelter at Texas City, Texas; Cancellation of Obligations
-Cancellation of obligation of General Services Administration to Federal Facilities Corporation existing by virtue of section 5(b) of act June 22, 1956, set out as a note above, see section 4(b) of Pub. L. 87–190, Aug. 30, 1961, 75 Stat. 418, set out as a note under sections 1921 to 1929 of the Appendix to this title.
+Cancellation of obligation of General Services Administration to Federal Facilities Corporation existing by virtue of section 5(b) of act June 22, 1956, set out as a note above, see section 4(b) of Pub. L. 87–190, Aug. 30, 1961, 75 Stat. 418, formerly set out as a note under sections 1921 to 1929 of the former Appendix to this title.
 
 
 <a id="section-98e"></a>
@@ -587,11 +589,11 @@ Cancellation of obligation of General Services Administration to Federal Facilit
 
 (5) provide for the appropriate recovery of any strategic and critical materials under [section 98b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98b/a&num=0&edition=prelim) that may be available from excess materials made available for recovery purposes by other Federal agencies;
 
-(6) subject to the notification required by subsection (d)(2) of this section, provide for the timely disposal of materials in the stockpile that (A) are excess to stockpile requirements, and (B) may cause a loss to the Government if allowed to deteriorate; and
+(6) subject to the notification required by subsection (d)(2), provide for the timely disposal of materials in the stockpile that (A) are excess to stockpile requirements, and (B) may cause a loss to the Government if allowed to deteriorate; and
 
 (7) subject to the provisions of [section 98d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98d/b&num=0&edition=prelim), dispose of materials in the stockpile the disposal of which is specifically authorized by law.
 
-**(b) Federal procurement practices** Except as provided in subsections (c) and (d) of this section, acquisition of strategic and critical materials under this subchapter shall be made in accordance with established Federal procurement practices, and, except as provided in subsections (c) and (d) of this section and in [section 98f(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98f/a&num=0&edition=prelim), disposal of strategic and critical materials from the stockpile shall be made in accordance with the next sentence. To the maximum extent feasible—
+**(b) Federal procurement practices** Except as provided in subsections (c) and (d), acquisition of strategic and critical materials under this subchapter shall be made in accordance with established Federal procurement practices, and, except as provided in subsections (c) and (d) and in [section 98f(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98f/a&num=0&edition=prelim), disposal of strategic and critical materials from the stockpile shall be made in accordance with the next sentence. To the maximum extent feasible—
 
 (1) competitive procedures shall be used in the acquisition and disposal of such materials; and
 
@@ -599,19 +601,19 @@ Cancellation of obligation of General Services Administration to Federal Facilit
 
 **(c) Barter; use of stockpile materials as payment for expenses of acquiring, refining, processing, or rotating materials**
 
-(1) The President shall encourage the use of barter in the acquisition under subsection (a)(1) of this section of strategic and critical materials for, and the disposal under subsection (a)(5) or (a)(6) of this section of materials from, the stockpile when acquisition or disposal by barter is authorized by law and is practical and in the best interest of the United States.
+(1) The President shall encourage the use of barter in the acquisition under subsection (a)(1) of strategic and critical materials for, and the disposal under subsection (a)(5) or (a)(6) of materials from, the stockpile when acquisition or disposal by barter is authorized by law and is practical and in the best interest of the United States.
 
 (2) Materials in the stockpile (the disposition of which is authorized by paragraph (3) to finance the upgrading, refining, or processing of a material in the stockpile, or is otherwise authorized by law) shall be available for transfer at fair market value as payment for expenses (including transportation and other incidental expenses) of acquisition of materials, or of upgrading, refining, processing, or rotating materials, under this subchapter.
 
-(3) Notwithstanding [section 98b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98b/c&num=0&edition=prelim) or any other provision of law, whenever the President provides under subsection (a)(3) of this section for the upgrading, refining, or processing of a material in the stockpile to convert that material into a form more suitable for storage, subsequent disposition, and immediate use in a national emergency, the President may barter a portion of the same material (or any other material in the stockpile that is authorized for disposal) to finance that upgrading, refining, or processing.
+(3) Notwithstanding [section 98b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98b/c&num=0&edition=prelim) or any other provision of law, whenever the President provides under subsection (a)(3) for the upgrading, refining, or processing of a material in the stockpile to convert that material into a form more suitable for storage, subsequent disposition, and immediate use in a national emergency, the President may barter a portion of the same material (or any other material in the stockpile that is authorized for disposal) to finance that upgrading, refining, or processing.
 
 (4) To the extent otherwise authorized by law, property owned by the United States may be bartered for materials needed for the stockpile.
 
 **(d) Waiver; notification of proposed disposal of materials**
 
-(1) The President may waive the applicability of any provision of the first sentence of subsection (b) of this section to any acquisition of material for, or disposal of material from, the stockpile. Whenever the President waives any such provision with respect to any such acquisition or disposal, or whenever the President determines that the application of paragraph (1) or (2) of such subsection to a particular acquisition or disposal is not feasible, the President shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives in writing of the proposed acquisition or disposal at least 45 days before any obligation of the United States is incurred in connection with such acquisition or disposal and shall include in such notification the reasons for not complying with any provision of such subsection.
+(1) The President may waive the applicability of any provision of the first sentence of subsection (b) to any acquisition of material for, or disposal of material from, the stockpile. Whenever the President waives any such provision with respect to any such acquisition or disposal, or whenever the President determines that the application of paragraph (1) or (2) of such subsection to a particular acquisition or disposal is not feasible, the President shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives in writing of the proposed acquisition or disposal at least 45 days before any obligation of the United States is incurred in connection with such acquisition or disposal and shall include in such notification the reasons for not complying with any provision of such subsection.
 
-(2) Materials in the stockpile may be disposed of under subsection (a)(5) of this section only if such congressional committees are notified in writing of the proposed disposal at least 45 days before any obligation of the United States is incurred in connection with such disposal.
+(2) Materials in the stockpile may be disposed of under subsection (a)(5) only if such congressional committees are notified in writing of the proposed disposal at least 45 days before any obligation of the United States is incurred in connection with such disposal.
 
 **(e) Leasehold interests in property** The President may acquire leasehold interests in property, for periods not in excess of twenty years, for storage, security, and maintenance of materials in the stockpile.
 
@@ -643,7 +645,7 @@ Pub. L. 104–106, § 1502(e)(1)(B), substituted “such congressional committee
 
 1990—Subsec. (a)(3). Pub. L. 101–510, § 3301(b)(1), substituted “upgrading, refining,” for “refining”, inserted “(notwithstanding any intermediate stockpile quantity established for such material)” after “stockpile”, and substituted “storage, subsequent disposition, and immediate use in a national emergency” for “storage and subsequent disposition”.
 
-Subsec. (c)(1). Pub. L. 101–510, § 3301(b)(2), inserted “under subsection (a)(1) of this section” after “the acquisition” and “under subsection (a)(5) or (a)(6) of this section” after “the disposal”.
+Subsec. (c)(1). Pub. L. 101–510, § 3301(b)(2), inserted “under subsection (a)(1)” after “the acquisition” and “under subsection (a)(5) or (a)(6)” after “the disposal”.
 
 Subsec. (c)(2). Pub. L. 101–510, § 3301(b)(3), substituted “(the disposition of which is authorized by paragraph (3) to finance the upgrading, refining, or processing of a material in the stockpile, or is otherwise authorized by law)” for “, the disposition of which is authorized by law,” and “of upgrading, refining” for “of refining”.
 
@@ -683,7 +685,7 @@ Section, act June 7, 1939, ch. 190, § 6A, as added Nov. 14, 1986, Pub. L. 99–
 
 (3) on the order of the Under Secretary of Defense for Acquisition, Technology, and Logistics, if the President has designated the Under Secretary to have authority to issue release orders under this subsection and, in the case of any such order, if the Under Secretary determines that the release of such materials is required for use, manufacture, or production for purposes of national defense.
 
-**(b)** Any order issued under subsection (a) of this section shall be promptly reported by the President, or by the officer or employee issuing such order, in writing, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
+**(b)** Any order issued under subsection (a) shall be promptly reported by the President, or by the officer or employee issuing such order, in writing, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
 ### Statutory Notes
 
@@ -720,7 +722,7 @@ Provisions similar to those in this section were contained in former [section 98
 
 **(c) Development of sources of supply of other materials; development or use of alternative methods for refining or processing materials in stockpile** The President shall make scientific, technologic, and economic investigations concerning the feasibility of—
 
-(1) developing domestic sources of supply of materials (other than materials referred to in subsections (a) and (b) of this section) determined pursuant to [section 98b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98b/a&num=0&edition=prelim) to be strategic and critical materials; and
+(1) developing domestic sources of supply of materials (other than materials referred to in subsections (a) and (b)) determined pursuant to [section 98b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98b/a&num=0&edition=prelim) to be strategic and critical materials; and
 
 (2) developing or using alternative methods for the refining or processing of a material in the stockpile so as to convert such material into a form more suitable for use during an emergency or for storage.
 
@@ -792,7 +794,7 @@ Functions of President under subsec. (a) of this section delegated to Secretary 
 
 (1) be applied toward the total value of materials that are authorized to be disposed of from the stockpile during that fiscal year;
 
-(2) be treated as an acquisition for purposes of satisfying any requirement imposed on the National Defense Stockpile Manager to enter into obligations during that fiscal year under subsection (b)(2) of this section; and
+(2) be treated as an acquisition for purposes of satisfying any requirement imposed on the National Defense Stockpile Manager to enter into obligations during that fiscal year under subsection (b)(2); and
 
 (3) not increase or decrease the balance in the fund.
 
@@ -854,7 +856,7 @@ Pub. L. 98–525, title IX, § 905, Oct. 19, 1984, 98 Stat. 2574, as amended by 
 ## § 98h–1. Advisory committees
 **(a) Membership** The President may appoint advisory committees composed of individuals with expertise relating to materials in the stockpile or with expertise in stockpile management to advise the President with respect to the acquisition, transportation, processing, refining, storage, security, maintenance, rotation, and disposal of such materials under this subchapter.
 
-**(b) Expenses** Each member of an advisory committee established under subsection (a) of this section while serving on the business of the advisory committee away from such member’s home or regular place of business shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim) for persons intermittently employed in the Government service.
+**(b) Expenses** Each member of an advisory committee established under subsection (a) while serving on the business of the advisory committee away from such member’s home or regular place of business shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim) for persons intermittently employed in the Government service.
 
 **(c) Market Impact Committee**
 
@@ -1003,9 +1005,9 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 (1) the Secretary’s recommendations with respect to stockpile requirements; and
 
-(2) the matters required under subsection (b) of this section.
+(2) the matters required under subsection (b).
 
-**(b) National emergency planning assumptions** Each report under this section shall set forth the national emergency planning assumptions used by the Secretary in making the Secretary’s recommendations under subsection (a)(1) of this section with respect to stockpile requirements. The Secretary shall base the national emergency planning assumptions on a military conflict scenario consistent with the scenario used by the Secretary in budgeting and defense planning purposes. The assumptions to be set forth include assumptions relating to each of the following:
+**(b) National emergency planning assumptions** Each report under this section shall set forth the national emergency planning assumptions used by the Secretary in making the Secretary’s recommendations under subsection (a)(1) with respect to stockpile requirements. The Secretary shall base the national emergency planning assumptions on a military conflict scenario consistent with the scenario used by the Secretary in budgeting and defense planning purposes. The assumptions to be set forth include assumptions relating to each of the following:
 
 (1) The length and intensity of the assumed military conflict.
 
@@ -1021,9 +1023,9 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 (7) Civilian austerity measures required during the mobilization period and military conflict.
 
-**(c) Period within which to replace or replenish materials** The stockpile requirements shall be based on those strategic and critical materials necessary for the United States to replenish or replace, within three years of the end of the military conflict scenario required under subsection (b) of this section, all munitions, combat support items, and weapons systems that would be required after such a military conflict.
+**(c) Period within which to replace or replenish materials** The stockpile requirements shall be based on those strategic and critical materials necessary for the United States to replenish or replace, within three years of the end of the military conflict scenario required under subsection (b), all munitions, combat support items, and weapons systems that would be required after such a military conflict.
 
-**(d) Effect of alternative mobilization periods** The Secretary shall also include in each report under this section an examination of the effect that alternative mobilization periods under the military conflict scenario required under subsection (b) of this section, as well as a range of other military conflict scenarios addressing potentially more serious threats to national security, would have on the Secretary’s recommendations under subsection (a)(1) of this section with respect to stockpile requirements.
+**(d) Effect of alternative mobilization periods** The Secretary shall also include in each report under this section an examination of the effect that alternative mobilization periods under the military conflict scenario required under subsection (b), as well as a range of other military conflict scenarios addressing potentially more serious threats to national security, would have on the Secretary’s recommendations under subsection (a)(1) with respect to stockpile requirements.
 
 **(e) Plans of President** The President shall submit with each report under this section a statement of the plans of the President for meeting the recommendations of the Secretary set forth in the report.
 
@@ -1041,27 +1043,34 @@ Subsec. (a). Pub. L. 102–190, § 3313(b)(1), in introductory provisions, subst
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 3311(c) of Pub. L. 104–201, set out as a note under [section 98a of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98a).
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of biennial report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim), Armed Forces.
+
 #### Initial Report Due Date
 Pub. L. 102–190, div. C, title XXXIII, § 3313(b)(3), Dec. 5, 1991, 105 Stat. 1585, provided that: “The first report required by section 14(a) of the Strategic and Critical Materials Stock Piling Act ([50 U.S.C. 98h–5(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h–5/a&num=0&edition=prelim)), as amended by paragraph (1) shall be submitted not later than January 15, 1993.”
 
 
 <a id="section-98h-6"></a>
 ## § 98h–6. Development of domestic sources
-**(a) Purchase of materials of domestic origin; processing of materials in domestic facilities** Subject to subsection (c) of this section and to the extent the President determines such action is required for the national defense, the President shall encourage the development and appropriate conservation of domestic sources for materials determined pursuant to [section 98b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98b/a&num=0&edition=prelim) to be strategic and critical materials—
+**(a) Purchase of materials of domestic origin; processing of materials in domestic facilities** Subject to subsection (c) and to the extent the President determines such action is required for the national defense, the President shall encourage the development and appropriate conservation of domestic sources for materials determined pursuant to [section 98b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98b/a&num=0&edition=prelim) to be strategic and critical materials—
 
-(1) by purchasing, or making a commitment to purchase, strategic and critical materials of domestic origin when such materials are needed for the stockpile; and
+(1) by purchasing, or making a commitment to purchase, strategic and critical materials of domestic origin when such materials are needed for the stockpile;
 
-(2) by contracting with domestic facilities, or making a commitment to contract with domestic facilities, for the processing or refining of strategic and critical materials in the stockpile when processing or refining is necessary to convert such materials into a form more suitable for storage and subsequent disposition.
+(2) by contracting with domestic facilities, or making a commitment to contract with domestic facilities, for the processing or refining of strategic and critical materials in the stockpile when processing or refining is necessary to convert such materials into a form more suitable for storage and subsequent disposition;
 
-**(b) Terms and conditions of contracts and commitments** A contract or commitment made under subsection (a) of this section may not exceed five years from the date of the contract or commitment. Such purchases and commitments to purchase may be made for such quantities and on such terms and conditions, including advance payments, as the President considers to be necessary.
+(3) by qualifying existing domestic facilities and domestically produced strategic and critical materials to meet the requirements of defense and essential civilian industries in times of national emergency when existing domestic sources of supply are either insufficient or vulnerable to single points of failure; and
+
+(4) by contracting with domestic facilities to recycle strategic and critical materials, thereby increasing domestic supplies when such materials would otherwise be insufficient to support defense and essential civilian industries in times of national emergency.
+
+**(b) Terms and conditions of contracts and commitments** A contract or commitment made under subsection (a) may not exceed five years from the date of the contract or commitment. Such purchases and commitments to purchase may be made for such quantities and on such terms and conditions, including advance payments, as the President considers to be necessary.
 
 **(c) Proposed transactions included in annual materials plan; availability of funds**
 
-(1) Descriptions of proposed transactions under subsection (a) of this section shall be included in the appropriate annual materials plan submitted to Congress under [section 98h–2(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h–2/b&num=0&edition=prelim). Changes to any such transaction, or the addition of a transaction not included in such plan, shall be made in the manner provided by [section 98d(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98d/a/2&num=0&edition=prelim).
+(1) Descriptions of proposed transactions under subsection (a) shall be included in the appropriate annual materials plan submitted to Congress under [section 98h–2(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h–2/b&num=0&edition=prelim). Changes to any such transaction, or the addition of a transaction not included in such plan, shall be made in the manner provided by [section 98d(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98d/a/2&num=0&edition=prelim).
 
 (2) The authority of the President to enter into obligations under this section is effective for any fiscal year only to the extent that funds in the National Defense Stockpile Transaction Fund are adequate to meet such obligations. Payments required to be as a result of obligations incurred under this section shall be made from amounts in the fund.
 
-**(d) Transportation and incidental expenses** The authority of the President under subsection (a) of this section includes the authority to pay—
+**(d) Transportation and incidental expenses** The authority of the President under subsection (a) includes the authority to pay—
 
 (1) the expenses of transporting materials; and
 
@@ -1072,6 +1081,8 @@ Pub. L. 102–190, div. C, title XXXIII, § 3313(b)(3), Dec. 5, 1991, 105 Stat. 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a)(3),(4). Pub. L. 114–328 added pars. (3) and (4).
+
 2013—Subsec. (a). Pub. L. 113–66 inserted “and appropriate conservation” after “development” in introductory provisions.
 
 
@@ -1079,7 +1090,7 @@ Pub. L. 102–190, div. C, title XXXIII, § 3313(b)(3), Dec. 5, 1991, 105 Stat. 
 ## § 98h–7. National Defense Stockpile Manager
 **(a) Appointment** The President shall designate a single Federal office to have responsibility for performing the functions of the President under this subchapter, other than under sections 98f(a)(1) and 98h–4 of this title. The office designated shall be one to which appointment is made by the President, by and with the advice and consent of the Senate.
 
-**(b) Title of designated officer** The individual holding the office designated by the President under subsection (a) of this section shall be known for purposes of functions under this subchapter as the “National Defense Stockpile Manager”.
+**(b) Title of designated officer** The individual holding the office designated by the President under subsection (a) shall be known for purposes of functions under this subchapter as the “National Defense Stockpile Manager”.
 
 **(c) Delegation of functions** The President may delegate functions of the President under this subchapter (other than under sections 98f(a)(1) and 98h–4 of this title) only to the National Defense Stockpile Manager. Any such delegation made by the President shall remain in effect until specifically revoked by law or Executive order. The President may not delegate functions of the President under sections 98f(a)(1) and 98h–4 of this title.
 
@@ -1091,7 +1102,7 @@ Section was classified to [section 98e–1 of this title](./chapter-005-arsenals
 #### Amendments
 2013—Pub. L. 112–239 substituted “sections 98f(a)(1) and 98h–4” for “sections 98f and 98h–4” wherever appearing.
 
-1991—Subsec. (d). Pub. L. 102–190 struck out subsec. (d) which read as follows: “During any period during which there is no officer appointed by the President, by and with the advice and consent of the Senate, serving in the position designated by the President under subsection (a) of this section or during which the authority of the President under this subchapter (other than under sections 98f and 98h–4 of this title) has not been delegated to that position, no action may be taken under [section 98e(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98e/a/6&num=0&edition=prelim).”
+1991—Subsec. (d). Pub. L. 102–190 struck out subsec. (d) which read as follows: “During any period during which there is no officer appointed by the President, by and with the advice and consent of the Senate, serving in the position designated by the President under subsection (a) or during which the authority of the President under this subchapter (other than under sections 98f and 98h–4 of this title) has not been delegated to that position, no action may be taken under [section 98e(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98e/a/6&num=0&edition=prelim).”
 
 1989—Subsec. (a). Pub. L. 101–189, § 3313(b)(1), substituted “sections 98f and 98h–4” for “sections 98f, 98g, and 98h–4”.
 
@@ -1127,7 +1138,7 @@ Section was not enacted as part of the Strategic and Critical Materials Stock Pi
 ### Statutory Notes
 
 #### Codification
-Section, act July 2, 1940, ch. 508, § 6, 54 Stat. 714, was transferred to section 701 of Appendix to this title and subsequently repealed by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641.
+Section, act July 2, 1940, ch. 508, § 6, 54 Stat. 714, was transferred to section 701 of the former Appendix to this title and subsequently repealed by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641.
 
 
 <a id="section-100"></a>

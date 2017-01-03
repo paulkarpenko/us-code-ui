@@ -195,11 +195,11 @@ Pub. L. 104–201, div. A, title II, § 282(c), formerly § 282(d), Sept. 23, 19
 
 (4) Any additional responsibilities that the Council considers appropriate.
 
-**(c) Funding.—** The Secretary of the Navy annually shall make funds available to support the activities of the Advisory Panel.
-
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (c). Pub. L. 114–92 struck out subsec. (c). Text read as follows: “The Secretary of the Navy annually shall make funds available to support the activities of the Advisory Panel.”
+
 1997—Pub. L. 105–85 amended text generally. Prior to amendment, text read as follows:
 
 “(a) Establishment.—The Council shall establish an Ocean Research Advisory Panel consisting of not less than 10 and not more than 18 members appointed by the Council from among persons eminent in the fields of marine science or marine policy, or related fields, and who are representative, at a minimum, of the interests of government, academia, and industry.

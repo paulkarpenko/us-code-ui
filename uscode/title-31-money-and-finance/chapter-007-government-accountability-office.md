@@ -1083,6 +1083,8 @@ Committee on Government Operations of House of Representatives treated as referr
 
 **(j)** Funds appropriated to the Government Accountability Office for salaries and expenses are available for meals and other related reasonable expenses incurred in connection with recruitment.
 
+**(k) Federal Government Details.—** The activities of the Government Accountability Office may, in the reasonable discretion of the Comptroller General, be carried out by receiving details of personnel from other offices of the Federal Government on a reimbursable, partially-reimbursable, or nonreimbursable basis.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -1122,6 +1124,8 @@ The Ethics in Government Act of 1978, referred to in subsec. (i)(5), is Pub. L. 
 Section 1043 of the Internal Revenue Code of 1986, referred to in subsec. (i)(6), is classified to [section 1043 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1043&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
+2015—Subsec. (k). Pub. L. 114–113 added subsec. (k).
+
 2011—Subsec. (i)(7). Pub. L. 111–350 substituted “chapter 21 of title 41” for “section 27 of the Office of Federal Procurement Policy Act ([41 U.S.C. 423](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section423&num=0&edition=prelim))”.
 
 2008—Subsec. (d). Pub. L. 110–323, § 9(a)(1), struck out subsec. (d) which read as follows: “When a change in organization, management responsibility, or workload makes it necessary, the Comptroller General may fix the rate of basic pay of 5 positions at rates not more than the rate for level IV of the Executive Schedule.”
@@ -1151,6 +1155,9 @@ Subsec. (e)(2). Pub. L. 106–303, § 5(2), substituted “level IV” for “le
 1984—Subsec. (b). Pub. L. 98–615 substituted “[section 5401 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5401&num=0&edition=prelim)” for “[section 5401(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5401/a&num=0&edition=prelim)”.
 
 Subsec. (e). Pub. L. 98–236 substituted “title 5 at rates not in excess of the maximum daily rate for GS–18 under section 5332 of such title” for “title 5” in provisions preceding par. (1) and “15” for “10” in par. (1).
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. I, title I, § 1301(b), Dec. 18, 2015, 129 Stat. 2671, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2016 and each succeeding fiscal year.”
 
 #### Effective Date of 2004 Amendment
 Pub. L. 108–271, § 13, July 7, 2004, 118 Stat. 816, provided that: “(a) In General.—Except as provided in subsection (b), this Act [see Tables for classification] and the amendments made by this Act shall take effect on the date of enactment of this Act [July 7, 2004]. “(b) Pay Adjustments.—“(1) In general.—Section 3 of this Act [amending sections 732 and 733 of this title] and the amendments made by that section shall take effect on October 1, 2005, and shall apply in the case of any annual pay adjustment taking effect on or after that date. “(2) Interim authorities.—In connection with any pay adjustment taking effect under section 732(c)(3) or 733(a)(3)(B) of title 31, United States Code, before October 1, 2005, the Comptroller General may by regulation—“(A) provide that such adjustment not be applied in the case of any officer or employee whose performance is not at a satisfactory level, as determined by the Comptroller General for purposes of such adjustment; and “(B) provide that such adjustment be reduced if and to the extent necessary because of extraordinary economic conditions or serious budget constraints. “(3) Additional authority.—“(A) In general.—The Comptroller General may by regulation delay the effective date of section 3 of this Act and the amendments made by that section for groups of officers and employees that the Comptroller General considers appropriate. “(B) Interim authorities.—If the Comptroller General provides for a delayed effective date under subparagraph (A) with respect to any group of officers or employees, paragraph (2) shall, for purposes of such group, be applied by substituting such date for ‘October 1, 2005’.”

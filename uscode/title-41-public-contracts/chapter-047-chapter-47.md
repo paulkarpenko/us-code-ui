@@ -166,7 +166,7 @@ In subsection (b), the words “Except as provided in paragraph (2)” are omitt
 
 (2) modify or derogate from a right or remedy otherwise available to the employee.
 
-**(f) Four-year Suspension of Effectiveness While Pilot Program Is in Effect.—** While [section 4712 of this title](./chapter-047-chapter-47.md#section-4712) is in effect, this section shall not be in effect.
+**(f) Four-year Suspension of Effectiveness While Pilot Program Is in Effect.—** While section 4712 11 See References in Text note below. of this title is in effect, this section shall not be in effect.
 
 ### Statutory Notes
 
@@ -183,6 +183,8 @@ In subsection (d)(2), the word “contractor” is substituted for “person” 
 
 #### References in Text
 The Inspector General Act of 1978, referred to in subsec. (a)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+[Section 4712 of this title](./chapter-047-chapter-47.md#section-4712), referred to in subsec. (f), formerly referred to a pilot program in the section catchline and contained a subsec. (i) which provided that section 4712 would be in effect for a specified four-year period. The section catchline was amended and subsec. (i) was struck out by Pub. L. 114–261, § 1(a)(3)(A), Dec. 14, 2016, 130 Stat. 1362.
 
 #### Amendments
 2013—Subsec. (f). Pub. L. 112–239 added subsec. (f).
@@ -391,10 +393,10 @@ In subsection (b), the words “Not later than 1 year after the date of the enac
 
 
 <a id="section-4712"></a>
-## § 4712. Pilot program for enhancement of contractor protection from reprisal for disclosure of certain information
+## § 4712. Enhancement of contractor protection from reprisal for disclosure of certain information
 **(a) Prohibition of Reprisals.—**
 
-(1) **In general.—** — An employee of a contractor, subcontractor, or grantee may not be discharged, demoted, or otherwise discriminated against as a reprisal for disclosing to a person or body described in paragraph (2) information that the employee reasonably believes is evidence of gross mismanagement of a Federal contract or grant, a gross waste of Federal funds, an abuse of authority relating to a Federal contract or grant, a substantial and specific danger to public health or safety, or a violation of law, rule, or regulation related to a Federal contract (including the competition for or negotiation of a contract) or grant.
+(1) **In general.—** — An employee of a contractor, subcontractor, grantee, or subgrantee or personal services contractor may not be discharged, demoted, or otherwise discriminated against as a reprisal for disclosing to a person or body described in paragraph (2) information that the employee reasonably believes is evidence of gross mismanagement of a Federal contract or grant, a gross waste of Federal funds, an abuse of authority relating to a Federal contract or grant, a substantial and specific danger to public health or safety, or a violation of law, rule, or regulation related to a Federal contract (including the competition for or negotiation of a contract) or grant.
 
 (2) **Persons and bodies covered.—** — The persons and bodies described in this paragraph are the persons and bodies as follows:
 
@@ -482,16 +484,18 @@ In subsection (b), the words “Not later than 1 year after the date of the enac
 
 **(h) Construction.—** Nothing in this section, or the amendments made by this section,11 So in original. shall be construed to provide any rights to disclose classified information not otherwise provided by law.
 
-**(i) Duration of Section.—** This section shall be in effect for the four-year period beginning on the date of that is 180 days after the date the enactment of this section.22 So in original. Probably should be “date that is 180 days after the date of the enactment of this section.”
-
 ### Statutory Notes
 
 #### References in Text
 The Inspector General Act of 1978, referred to in subsec. (g)(2), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The date of the enactment of this section, referred to in subsec. (i), is the date of the enactment of Pub. L. 112–239, which was approved Jan. 2, 2013.
-
 #### Amendments
+2016—Pub. L. 114–261, § 1(a)(3)(A)(i), substituted “Enhancement” for “Pilot program for enhancement” in section catchline.
+
+Subsec. (a)(1). Pub. L. 114–261, § 1(a)(2), substituted “grantee, or subgrantee or personal services contractor” for “or grantee”.
+
+Subsec. (i). Pub. L. 114–261, § 1(a)(3)(A)(ii), struck out subsec. (i). Text read as follows: “This section shall be in effect for the four-year period beginning on the date of that is 180 days after the date the enactment of this section.”
+
 2013—Subsec. (i). Pub. L. 113–66 inserted “that is 180 days after the date” before “the enactment”.
 
 #### Effective Date of 2013 Amendment

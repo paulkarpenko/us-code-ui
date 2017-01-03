@@ -174,7 +174,7 @@ Section 314(a) of the Uniting and Strengthening America by Providing Appropriate
 
   (A) *In general* — The requirement to block and prohibit all transactions in all property and interests in property under paragraph (1)(A) shall not include the authority to impose sanctions on the importation of goods.
 
-  (B) *Good defined* — In this paragraph, the term “good” has the meaning given that term in [section 2415 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2415&num=0&edition=prelim), Appendix (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.)).
+  (B) *Good defined* — In this paragraph, the term “good” has the meaning given that term in [section 4618 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4618&num=0&edition=prelim) (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.)).
 
 (4) **Exception to comply with United Nations headquarters agreement** — Sanctions under paragraph (1)(B) shall not apply to an alien if admitting the alien into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
 
@@ -214,7 +214,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(A
 
   (A) *In general* — The authority to block and prohibit all transactions in all property and interests in property under paragraph (1)(A) shall not include the authority to impose sanctions on the importation of goods.
 
-  (B) *Good defined* — In this paragraph, the term “good” has the meaning given that term in [section 2415 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2415&num=0&edition=prelim), Appendix (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.)).
+  (B) *Good defined* — In this paragraph, the term “good” has the meaning given that term in [section 4618 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4618&num=0&edition=prelim) (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.)).
 
 (4) **Exception to comply with United Nations headquarters agreement** — Sanctions under paragraph (1)(B) shall not apply to an alien if admitting the alien into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
 
@@ -233,7 +233,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(A
 
 
 <a id="section-8909"></a>
-## § 8909. Repealed. Pub. L. 113–291, div. A, title XII, § 1245(e), Dec. 19, 2014, 128 Stat. 3568
+## § 8909. Repealed. Pub. L. 113–291, div. A, title XII, § 1245(f), formerly § 1245(e), Dec. 19, 2014, 128 Stat. 3568, renumbered § 1245(f), Pub. L. 114–328, div. A, title XII, § 1235(b)(1), Dec. 23, 2016, 130 Stat. 2491
 
 ### Statutory Notes
 

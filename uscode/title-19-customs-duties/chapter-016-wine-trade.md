@@ -68,7 +68,7 @@ For purposes of this chapter—
 
 (2) maintains tariff barriers or nontariff barriers to (or other distortions of) trade in United States wine.
 
-**(b)** In deciding, for purposes of subsection (a)(2) of this section, whether a foreign country or group of countries maintains nontariff barriers to (or other distortions of) trade in United States wine, the Trade Representative shall take into account—
+**(b)** In deciding, for purposes of subsection (a)(2), whether a foreign country or group of countries maintains nontariff barriers to (or other distortions of) trade in United States wine, the Trade Representative shall take into account—
 
 (1) the review and report required under section 854(a) of the Trade Agreements Act of 1979 ([19 U.S.C. 2135](./chapter-012-trade-act-of-1974.md#section-2135) note);
 
@@ -106,7 +106,7 @@ Section 854(a) of the Trade Agreements Act of 1979, referred to in subsec. (b)(1
 
 (2) The reports required under paragraph (1) shall be developed and coordinated by the Trade Representative through the interagency trade organization established by [section 1872(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1872/a&num=0&edition=prelim).
 
-**(c) Enforcement of rights** If the President, after taking into account information and advice received under subsections (a) and (b) of this section, [section 2805 of this title](./chapter-016-wine-trade.md#section-2805) or from other sources, determines that action is appropriate to respond to any act, policy, or practice of a major wine trading country constitutes a tariff barrier or nontariff barrier to (or other distortion of) trade in United States wine and—
+**(c) Enforcement of rights** If the President, after taking into account information and advice received under subsections (a) and (b), [section 2805 of this title](./chapter-016-wine-trade.md#section-2805) or from other sources, determines that action is appropriate to respond to any act, policy, or practice of a major wine trading country constitutes a tariff barrier or nontariff barrier to (or other distortion of) trade in United States wine and—
 
 (1) is inconsistent with the provisions of, or otherwise denies benefits to the United States under, any trade agreement; or
 

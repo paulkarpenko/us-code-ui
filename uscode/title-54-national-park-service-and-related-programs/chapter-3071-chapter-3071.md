@@ -23,9 +23,9 @@ source: >-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 307101(a) | no source |  |
-| 307101(b) through (d) | [16 U.S.C. 470a–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a–1&num=0&edition=prelim) | Pub. 96–515, title IV, § 401, Dec. 12, 1980, 94 Stat. 3000; Pub. L. 103–437, § 6(d)(28), Nov. 2, 1994, 108 Stat. 4584. |
-| 307101(e) | [16 U.S.C. 470a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a–2&num=0&edition=prelim) | Pub. L. 96–515, title IV, § 402, Dec. 12, 1980, 94 Stat. 3000. |
+| 307101(a) | no source. |  |
+| 307101(b) through (d) | [16 U.S.C. 470a–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a–1&num=0&edition=prelim). | Pub. 96–515, title IV, § 401, Dec. 12, 1980, 94 Stat. 3000; Pub. L. 103–437, § 6(d)(28), Nov. 2, 1994, 108 Stat. 4584. |
+| 307101(e) | [16 U.S.C. 470a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a–2&num=0&edition=prelim). | Pub. L. 96–515, title IV, § 402, Dec. 12, 1980, 94 Stat. 3000. |
 
 Subsection (a) is added for clarity because of the definition of “Secretary” in section 300316 of the new title.
 
@@ -34,7 +34,7 @@ Subsection (a) is added for clarity because of the definition of “Secretary”
 ## § 307102. Effective date of regulations
 **(a) Publication in Federal Register.—** No final regulation of the Secretary shall become effective prior to the expiration of 30 calendar days after it is published in the Federal Register during which either or both Houses of Congress are in session.
 
-**(b) Disapproval of Regulation by Resolution of Congress.—** The regulation shall not become effective if, within 90 calendar days of continuous session of Congress after the date of promulgation, both Houses of Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows: “That Congress disapproves the regulation promulgated by the Secretary dealing with the matter of , which regulation was transmitted to Congress on , ” the blank spaces in the resolution being appropriately filled.
+**(b) Disapproval of Regulation by Resolution of Congress.—** The regulation shall not become effective if, within 90 calendar days of continuous session of Congress after the date of promulgation, both Houses of Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows: “That Congress disapproves the regulation promulgated by the Secretary dealing with the matter of , which regulation was transmitted to Congress on ,” the blank spaces in the resolution being appropriately filled.
 
 **(c) Failure of Congress To Adopt Resolution of Disapproval of Regulation.—** If at the end of 60 calendar days of continuous session of Congress after the date of promulgation of a regulation, no committee of either House of Congress has reported or been discharged from further consideration of a concurrent resolution disapproving the regulation, and neither House has adopted such a resolution, the regulation may go into effect immediately. If, within the 60 calendar days, a committee has reported or been discharged from further consideration of such a resolution, the regulation may go into effect not sooner than 90 calendar days of continuous session of Congress after its promulgation unless disapproved as provided for.
 
@@ -51,7 +51,7 @@ Subsection (a) is added for clarity because of the definition of “Secretary”
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 307102 | [16 U.S.C. 470w–6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–6&num=0&edition=prelim) | Pub. L. 89–665, title III, § 307, as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3004; Pub. L. 103—437, § 6(d)(29), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(O), (2)(E), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 106–176, title I, § 120(a)(2), Mar. 10, 2000, 114 Stat. 28; Pub. L. 106–208, § 5(a)(11)–(13), May 26, 2000, 114 Stat. 319. |
+| 307102 | [16 U.S.C. 470w–6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–6&num=0&edition=prelim). | Pub. L. 89–665, title III, § 307, as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3004; Pub. L. 103–437, § 6(d)(29), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(O), (2)(E), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 106–176, title I, § 120(a)(2), Mar. 10, 2000, 114 Stat. 28; Pub. L. 106–208, § 5(a)(11)–(13), May 26, 2000, 114 Stat. 319. |
 
 
 <a id="section-307103"></a>
@@ -73,7 +73,7 @@ Subsection (a) is added for clarity because of the definition of “Secretary”
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 307103 | [16 U.S.C. 470w–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–3&num=0&edition=prelim) | Pub. L. 89–665, title III, § 304, as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3002; Pub. L. 102–575, title XL, § 4020, Oct. 30, 1992, 106 Stat. 4765. |
+| 307103 | [16 U.S.C. 470w–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–3&num=0&edition=prelim). | Pub. L. 89–665, title III, § 304, as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3002; Pub. L. 102–575, title XL, § 4020, Oct. 30, 1992, 106 Stat. 4765. |
 
 
 <a id="section-307104"></a>
@@ -86,7 +86,7 @@ Nothing in this division applies to the White House and its grounds, the Supreme
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 307104 | [16 U.S.C. 470g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470g&num=0&edition=prelim) | Pub. L. 89–665, title I, § 107, Oct. 15, 1966, 80 Stat. 915. |
+| 307104 | [16 U.S.C. 470g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470g&num=0&edition=prelim). | Pub. L. 89–665, title I, § 107, Oct. 15, 1966, 80 Stat. 915. |
 
 
 <a id="section-307105"></a>
@@ -99,7 +99,7 @@ In any civil action brought in any United States district court by any intereste
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 307105 | [16 U.S.C. 470w–4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–4&num=0&edition=prelim) | Pub. L. 89–665, title III, § 305, as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3002. |
+| 307105 | [16 U.S.C. 470w–4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–4&num=0&edition=prelim). | Pub. L. 89–665, title III, § 305, as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3002. |
 
 
 <a id="section-307106"></a>
@@ -112,7 +112,7 @@ Where appropriate, each Federal agency may expend funds appropriated for its aut
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 307106 | [16 U.S.C. 470w–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–1&num=0&edition=prelim) | Pub. L. 89–665, title III, § 302, as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3002. |
+| 307106 | [16 U.S.C. 470w–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–1&num=0&edition=prelim). | Pub. L. 89–665, title III, § 302, as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3002. |
 
 
 <a id="section-307107"></a>
@@ -126,7 +126,7 @@ Where appropriate, each Federal agency may expend funds appropriated for its aut
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 307107 | [16 U.S.C. 470w–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–2&num=0&edition=prelim) | Pub. L. 89–665, title III, § 303, as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3002. |
+| 307107 | [16 U.S.C. 470w–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–2&num=0&edition=prelim). | Pub. L. 89–665, title III, § 303, as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3002. |
 
 
 <a id="section-307108"></a>
@@ -154,6 +154,6 @@ Where appropriate, each Federal agency may expend funds appropriated for its aut
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 307108 | [16 U.S.C. 470h–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–1&num=0&edition=prelim) | Pub. L. 89–665, title I, § 109, as added Pub. L. 96–244, § 1, May 19, 1980, 94 Stat. 346. |
+| 307108 | [16 U.S.C. 470h–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470h–1&num=0&edition=prelim). | Pub. L. 89–665, title I, § 109, as added Pub. L. 96–244, § 1, May 19, 1980, 94 Stat. 346. |
 
 In subsection (a), the word “included” is substituted for “listed” for consistency in the revised subtitle.

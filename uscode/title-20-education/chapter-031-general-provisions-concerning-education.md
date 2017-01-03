@@ -10,7 +10,7 @@ source: >-
 ## § 1221. Judicial review
 **(a) Recipients entitled to review; stay of action by Secretary** Any recipient of funds under an applicable program that would be adversely affected by a final agency action under section 1234a, 1234d, or 1234e of this title, and any State entitled to receive funds under a program described in [section 1232d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1232d/a&num=0&edition=prelim) whose application has been disapproved by the Secretary, shall be entitled to judicial review of such action in accordance with the provisions of this section. The Secretary may not take any action on the basis of a final agency action until judicial review is completed.
 
-**(b) Petition for review; filing of record** A recipient that desires judicial review of an action described in subsection (a) of this section shall, within 60 days of that action, file with the United States Court of Appeals for the circuit in which that recipient is located, a petition for review of such action. A copy of the petition shall be transmitted by the clerk of the court to the Secretary. The Secretary shall file in the court the record of the proceedings on which the action was based, as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim).
+**(b) Petition for review; filing of record** A recipient that desires judicial review of an action described in subsection (a) shall, within 60 days of that action, file with the United States Court of Appeals for the circuit in which that recipient is located, a petition for review of such action. A copy of the petition shall be transmitted by the clerk of the court to the Secretary. The Secretary shall file in the court the record of the proceedings on which the action was based, as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim).
 
 **(c) Findings of fact** The findings of fact by the Office, if supported by substantial evidence, shall be conclusive; but the court, for good cause shown, may remand the case to the Office to take further evidence, and the Office may make new or modified findings of fact and may modify its previous action, and shall certify to the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
 
@@ -102,6 +102,43 @@ Pub. L. 95–561, title XII, § 1211, Nov. 1, 1978, 92 Stat. 2338, provided that
 
 #### Short Title of 1974 Amendment
 Pub. L. 93–380, title V, § 513(b)(2), Aug. 21, 1974, 88 Stat. 574, provided that: “This section [enacting [section 1232g of this title](./chapter-031-general-provisions-concerning-education.md#section-1232g) and provisions set out as a note under [section 1232g of this title](./chapter-031-general-provisions-concerning-education.md#section-1232g)] may be cited as the ‘Family Educational Rights and Privacy Act of 1974’.”
+
+#### Ex. Ord. No. 11155. Providing for the Recognition of Certain Students as Presidential Scholars
+Ex. Ord. No. 11155, May 23, 1964, 29 F.R. 6909, as amended by Ex. Ord. No. 12158, Sept. 18, 1979, 44 F.R. 54451; Ex. Ord. No. 13697, June 22, 2015, 80 F.R. 36691, provided:
+
+WHEREAS it is necessary in the national interest that the Federal Government encourage high attainment by students in secondary schools, both public and private, throughout the Nation, and
+
+WHEREAS national recognition of scholastic attainments will tend to enhance the accomplishments of such students generally and their potential after graduation:
+
+NOW, THEREFORE, by virtue of the authority vested in me as President of the United States, it is ordered as follows:
+
+Section 1. There is hereby established the Commission on Presidential Scholars (hereinafter referred to as the Commission). The Commission shall be composed of such members as the President may appoint from time to time from among appropriately qualified citizens of the United States. The person chosen each year, with the cooperation of the Commissioner of Education, Department of Health, Education, and Welfare [now Secretary of Education], as National Teacher of the Year shall be one of the members of the Commission for a period terminating one year after the date of his or her selection as National Teacher of the Year or at such earlier time as a next-succeeding National Teacher of the Year is chosen. The President shall designate one of the members as chairman of the Commission. Members of the Commission shall serve at the pleasure of the President and without compensation from the United States.
+
+Sec. 2. The Commission, in accordance with such standards and procedures as it may prescribe and on the basis of its independent judgment, shall annually choose Presidential Scholars, subject to the following:
+
+(1) The Presidential Scholars shall be chosen from among persons who have recently been graduated, or are about to be graduated, from secondary schools, public or private.
+
+(2) They shall be chosen on the basis of their outstanding scholarship.
+
+(3) One boy and one girl shall be chosen as Presidential Scholars from each of the following, namely:
+
+(i) Each State of the United States.
+
+(ii) The District of Columbia.
+
+(iii) The Commonwealth of Puerto Rico.
+
+(iv) The following, collectively: American Samoa, Canal Zone, Guam, Virgin Islands, Trust Territory of the Pacific Islands, and, if the Commission in its discretion shall so determine, other places overseas. In respect of the said other places overseas, only children whose parents are citizens of the United States shall be eligible to be chosen hereunder as Presidential Scholars from those places.
+
+(4) In addition to the 106 Presidential Scholars provided for in paragraph (3), above, the Commission may choose other Presidential Scholars, not exceeding fifteen in number for any one year, to be chosen at large from the jurisdictions referred to in that paragraph.
+
+(5) In addition to the Presidential Scholars provided for in paragraphs (3) and (4) above, the Commission may choose other Presidential Scholars not exceeding twenty in any one year. These Scholars shall be chosen at large, from the jurisdictions referred to in paragraph (3), on the basis of outstanding scholarship and demonstrated ability and accomplishment in the visual and performing arts or in creative writing.
+
+(6) In addition to the Presidential Scholars provided for in paragraphs (3), (4), and (5) of this section, the Commission may choose other Presidential Scholars not exceeding twenty in any one year. These Scholars shall be chosen at large, from the jurisdictions referred to in paragraph (3), on the basis of outstanding scholarship and demonstrated ability and accomplishment in career and technical education fields.
+
+Sec. 3. There is hereby established the Presidential Scholars Medallion which shall be of such design and material as the President shall approve and shall be presented to each Presidential Scholar chosen by the Commission under this order.
+
+Sec. 4. As necessary and subject to law, the Office of Education [now Department of Education], Department of Health, Education, and Welfare, shall facilitate, or make arrangements for facilitating the carrying out of the purposes of this order.
 
 #### Executive Order No. 11761
 Ex. Ord. No. 11761, Jan. 17, 1974, 39 F.R. 2345, which provided for coordination of Federal educational programs and which continued Federal Interagency Committee on Education, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
@@ -316,12 +353,12 @@ For purposes of this subchapter:
 
 (1) The term “recipient” means a recipient of a grant or cooperative agreement under an applicable program.
 
-(2) The term “applicable program” excludes programs authorized by the Higher Education Act of 1965 [[20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq., [42 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751&num=0&edition=prelim) et seq.] and assistance programs provided under the Act of September 30, 1950 11 See References in Text note below. (Public Law 874, 81st Congress), and the Act of September 23, 1950 1 (Public Law 815, 81st Congress).
+(2) The term “applicable program” excludes programs authorized by the Higher Education Act of 1965 [[20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.] and assistance programs provided under the Act of September 30, 1950 11 See References in Text note below. (Public Law 874, 81st Congress), and the Act of September 23, 1950 1 (Public Law 815, 81st Congress).
 
 ### Statutory Notes
 
 #### References in Text
-The Higher Education Act of 1965, referred to in par. (2), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
+The Higher Education Act of 1965, referred to in par. (2), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
 
 Act of September 30, 1950 (Public Law 874, 81st Congress), referred to in par. (2), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, which was classified generally to chapter 13 (§ 236 et seq.) of this title prior to repeal by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
@@ -351,8 +388,6 @@ Section 1235e, Pub. L. 90–247, title IV, § 476, formerly Pub. L. 89–10, tit
 Section 1235f, Pub. L. 90–247, title IV, § 477, formerly Pub. L. 89–10, title IV, § 4707, as added Pub. L. 102–545, § 3, Oct. 27, 1992, 106 Stat. 3589; renumbered § 477 of Pub. L. 90–247, Pub. L. 103–252, title I, § 121(a)(1), May 18, 1994, 108 Stat. 649; Pub. L. 107–110, title X, § 1062(6), Jan. 8, 2002, 115 Stat. 2088, related to administrative costs.
 
 Section 1235g, Pub. L. 90–247, title IV, § 478, formerly Pub. L. 89–10, title IV, § 4708, as added Pub. L. 102–545, § 3, Oct. 27, 1992, 106 Stat. 3589; renumbered § 478 of Pub. L. 90–247, Pub. L. 103–252, title I, § 121(a)(1), May 18, 1994, 108 Stat. 649, defined “distance learning” for purposes of this subchapter.
-
-See [section 6775 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6775).
 
 #### Effective Date of Repeal
 Repeal effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
@@ -435,7 +470,7 @@ Section repealed effective Aug. 21, 1974, see section 506(b) of Pub. L. 93–380
 ## § 1226a. Forward funding
 **(a)** To the end of affording the responsible Federal, State, and local officers adequate notice of available Federal financial assistance for carrying out ongoing education activities and projects, appropriations for grants, contracts, or other payments under any applicable program are authorized to be included in the appropriations Act for the fiscal year preceding the fiscal year during which such activities and projects shall be carried out.
 
-**(b)** In order to effect a transition to the timing of appropriation action authorized by subsection (a) of this section, the application of this section may result in the enactment, in a fiscal year, of separate appropriations for an applicable program (whether in the same appropriations Act or otherwise) for two consecutive fiscal years.
+**(b)** In order to effect a transition to the timing of appropriation action authorized by subsection (a), the application of this section may result in the enactment, in a fiscal year, of separate appropriations for an applicable program (whether in the same appropriations Act or otherwise) for two consecutive fiscal years.
 
 ### Statutory Notes
 
@@ -532,9 +567,9 @@ Section, Pub. L. 90–247, title IV, § 413, formerly § 406, as added Pub. L. 9
 ## § 1226c–1. Contingent extension of programs
 **(a) Automatic extension** The authorization of appropriations for, or duration of, an applicable program shall be automatically extended for one additional fiscal year unless Congress, in the regular session that ends prior to the beginning of the terminal fiscal year of such authorization or duration, has passed legislation that becomes law and extends or repeals the authorization or duration of such program.
 
-**(b) Amount of appropriation** The amount authorized to be appropriated for the period of automatic extension under subsection (a) of this section of an applicable program shall be the amount authorized to be appropriated for such program for the terminal fiscal year of the applicable program.
+**(b) Amount of appropriation** The amount authorized to be appropriated for the period of automatic extension under subsection (a) of an applicable program shall be the amount authorized to be appropriated for such program for the terminal fiscal year of the applicable program.
 
-**(c) Acts and determinations necessary for program continuation** If the Secretary is required, in the terminal fiscal year of an applicable program, to carry out certain acts or make certain determinations that are necessary for the continuation of such program, such acts or determinations shall be required to be carried out or made during the period of automatic extension under subsection (a) of this section.
+**(c) Acts and determinations necessary for program continuation** If the Secretary is required, in the terminal fiscal year of an applicable program, to carry out certain acts or make certain determinations that are necessary for the continuation of such program, such acts or determinations shall be required to be carried out or made during the period of automatic extension under subsection (a).
 
 **(d) Application to commissions, councils, and committees required by law to terminate** This section shall not apply to the authorization of appropriations for a commission, council, or committee which is required by an applicable statute to terminate on a date certain.
 
@@ -553,11 +588,14 @@ Another prior section 422 of Pub. L. 90–247 was renumbered section 438, and is
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub. L. 96–374, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
+#### Additional Extensions Not Permitted
+Pub. L. 114–105, § 2(c), Dec. 18, 2015, 129 Stat. 2220, provided that: “Section 422 of the General Education Provisions Act ([20 U.S.C. 1226a](./chapter-031-general-provisions-concerning-education.md#section-1226a)) shall not apply to further extend the duration of the authority under paragraph (1) of section 461(b) of the Higher Education Act of 1965 ([20 U.S.C. 1087aa(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087aa/b&num=0&edition=prelim)), as amended by subsection (a)(1) of this section, beyond September 30, 2017, on the basis of the extension under such subsection.”
+
 #### Indochinese Refugee Children Education Assistance Programs; Applicability of Contingent Extension Provisions
 Applicability of contingent extension provisions to any program of financial assistance for educational purposes for Indochinese refugee children, see section 327 of Pub. L. 94–482, set out as a note under [section 1225 of this title](./chapter-031-general-provisions-concerning-education.md#section-1225).
 
 #### Limitation on Extension of Programs
-Pub. L. 94–328, § 2(d), June 30, 1976, 90 Stat. 727, provided that: “The amendments made by this section [amending sections 1070a, 1074, 1078 and 1078a of this title and enacting provisions set out as a note under [section 2756 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2756&num=0&edition=prelim), The Public Health and Welfare] shall not be deemed to authorize the automatic extension of the programs so amended, under section 414 [now 422] of the General Education Provisions Act [this section], beyond the date specified in such amendments.”
+Pub. L. 94–328, § 2(d), June 30, 1976, 90 Stat. 727, provided that: “The amendments made by this section [amending sections 1070a, 1074, 1078 and 1078a of this title] shall not be deemed to authorize the automatic extension of the programs so amended, under section 414 [now 422] of the General Education Provisions Act [this section], beyond the date specified in such amendments.”
 
 
 <a id="section-1226d"></a>
@@ -587,7 +625,7 @@ Another prior section 423 of Pub. L. 90–247 was renumbered section 439, and is
 
 (2) information with respect to the uses of Federal funds in such State in the two preceding fiscal years under any Federal program administered by the State that provided grants or contracts to a local educational agency in the State.
 
-**(b) Additional contents** Each report submitted under subsection (a) of this section shall—
+**(b) Additional contents** Each report submitted under subsection (a) shall—
 
 (1) list, with respect to each program for which information is provided, all grants made to and contracts entered into with local educational agencies and other public and private agencies and institutions within the State during each fiscal year concerned;
 
@@ -597,13 +635,13 @@ Another prior section 423 of Pub. L. 90–247 was renumbered section 439, and is
 
 (4) be made readily available by the State to local educational agencies and institutions within the State and to the public.
 
-**(c) Delinquent or incomplete reports** If the Secretary does not receive a report by the date required under subsection (a) of this section, or receives an incomplete report, the Secretary, not later than 30 days after such report is required to be submitted, shall take all reasonable measures to obtain the delinquent or incomplete information from the State educational agency.
+**(c) Delinquent or incomplete reports** If the Secretary does not receive a report by the date required under subsection (a), or receives an incomplete report, the Secretary, not later than 30 days after such report is required to be submitted, shall take all reasonable measures to obtain the delinquent or incomplete information from the State educational agency.
 
-**(d) Availability of information** When the Secretary receives a report required under subsection (a) of this section, the Secretary shall provide such information to the National Center for Education Statistics, and shall make such information available, at a reasonable cost, to any individual who requests such information.
+**(d) Availability of information** When the Secretary receives a report required under subsection (a), the Secretary shall provide such information to the National Center for Education Statistics, and shall make such information available, at a reasonable cost, to any individual who requests such information.
 
-**(e) Congressional telecommunications network** The Secretary shall consult with the Speaker and Minority Leader of the House of Representatives and the Majority and Minority Leaders of the Senate regarding the costs and feasibility of making the information described in subsection (a) of this section available as part of a telecommunications network that is readily accessible to every member of Congress and other interested parties.
+**(e) Congressional telecommunications network** The Secretary shall consult with the Speaker and Minority Leader of the House of Representatives and the Majority and Minority Leaders of the Senate regarding the costs and feasibility of making the information described in subsection (a) available as part of a telecommunications network that is readily accessible to every member of Congress and other interested parties.
 
-**(f) Reports by Secretary** On or before August 15 of each year in which reports are submitted under subsection (a) of this section, the Secretary shall submit a report to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate. Such report shall include—
+**(f) Reports by Secretary** On or before August 15 of each year in which reports are submitted under subsection (a), the Secretary shall submit a report to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate. Such report shall include—
 
 (1) an analysis of the content and data quality of such reports;
 
@@ -649,7 +687,7 @@ Not later than March 31, 1995, and every two years after such date, the Secretar
 
 (5) be prepared in concise summary form with necessary detailed data and appendixes, including available data to indicate the effectiveness of the programs and projects by the race, sex, disability and age of beneficiaries of such programs and projects; and
 
-(6) include the results of the program evaluations conducted in accordance with [section 7941 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7941).
+(6) include the results of the program evaluations conducted in accordance with [section 7981 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7981).
 
 ### Statutory Notes
 
@@ -661,6 +699,8 @@ Another prior section 425 of Pub. L. 90–247 was renumbered section 434, and is
 Another prior section 425 of Pub. L. 90–247 was renumbered section 423, and is classified to [section 1226a–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1226a-1).
 
 #### Amendments
+2015—Par. (6). Pub. L. 114–95 substituted “[section 7981 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7981)” for “[section 7941 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7941)”.
+
 2002—Par. (6). Pub. L. 107–110 substituted “7941” for “8941”.
 
 1994—Pub. L. 103–437, which directed that section 417(a) of Pub. L. 90–247 be amended by substituting “Labor and Human Resources” for “Human Resources”, could not be executed because this section, which was section 417 of Pub. L. 90–247, was renumbered section 425 and amended generally by Pub. L. 103–382.
@@ -679,6 +719,9 @@ Pub. L. 103–382, § 235, amended section generally, substituting single undesi
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
@@ -738,7 +781,7 @@ Section, Pub. L. 90–247, title IV, § 419, formerly § 417, as added Pub. L. 9
 ## § 1230. Records
 **(a) Records kept by recipient; full disclosure; maintenance period** Each recipient of Federal funds under any applicable program through any grant, subgrant, cooperative agreement, loan, or other arrangement shall keep records which fully disclose the amount and disposition by the recipient of those funds, the total cost of the activity for which the funds are used, the share of that cost provided from other sources, and such other records as will facilitate an effective financial or programmatic audit. The recipient shall maintain such rec­ords for three years after the completion of the activity for which the funds are used.
 
-**(b) Audit examination** The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access, for the purpose of audit examination, to any rec­ords maintained by a recipient that may be related, or pertinent to, grants, subgrants, cooperative agreements, loans, or other arrangements to which reference is made in subsection (a) of this section, or which may relate to the compliance of the recipient with any requirement of an applicable program.
+**(b) Audit examination** The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access, for the purpose of audit examination, to any rec­ords maintained by a recipient that may be related, or pertinent to, grants, subgrants, cooperative agreements, loans, or other arrangements to which reference is made in subsection (a), or which may relate to the compliance of the recipient with any requirement of an applicable program.
 
 ### Statutory Notes
 
@@ -757,12 +800,12 @@ Section effective with respect to appropriations for fiscal year 1980 and subseq
 <a id="section-1231"></a>
 ## § 1231. Prohibition against use of appropriated funds for busing
 
-No funds appropriated for the purpose of carrying out any applicable program may be used for the transportation of students or teachers (or for the purchase of equipment for such transportation) in order to overcome racial imbalance in any school or school system, or for the transportation of students or teachers (or for the purchase of equipment for such transportation) in order to carry out a plan of racial desegregation of any school or school system, except for funds appropriated pursuant to title VIII of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7701](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7701) et seq.], but not including any portion of such funds as are attributable to children counted under section 8003(d) of such Act [[20 U.S.C. 7703(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/d&num=0&edition=prelim)] or residing on property described in section 8013(10) of such Act [[20 U.S.C. 7713(10)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7713/10&num=0&edition=prelim)].
+No funds appropriated for the purpose of carrying out any applicable program may be used for the transportation of students or teachers (or for the purchase of equipment for such transportation) in order to overcome racial imbalance in any school or school system, or for the transportation of students or teachers (or for the purchase of equipment for such transportation) in order to carry out a plan of racial desegregation of any school or school system, except for funds appropriated pursuant to title VII of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7701](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7701) et seq.], but not including any portion of such funds as are attributable to children counted under section 7003(d) of such Act [[20 U.S.C. 7703(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/d&num=0&edition=prelim)] or residing on property described in section 7013(10) of such Act [[20 U.S.C. 7713(10)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7713/10&num=0&edition=prelim)].
 
 ### Statutory Notes
 
 #### References in Text
-The Elementary and Secondary Education Act of 1965, referred to in text, is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title VIII of the Act is classified generally to subchapter VIII (§ 7701 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in text, is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title VII of the Act is classified generally to subchapter VII (§ 7701 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
 #### Prior Provisions
 A prior section 426 of Pub. L. 90–247 was renumbered section 433, and is classified to [section 1231c of this title](./chapter-031-general-provisions-concerning-education.md#section-1231c).
@@ -772,9 +815,14 @@ Another prior section 426 of Pub. L. 90–247 was renumbered section 435, and is
 Another prior section 426 of Pub. L. 90–247 was renumbered section 436, and was classified to [section 1232e of this title](./chapter-031-general-provisions-concerning-education.md#section-1232e) prior to repeal by Pub. L. 95–561.
 
 #### Amendments
+2015—Pub. L. 114–95 substituted “title VII of the Elementary and Secondary Education Act of 1965, but not including any portion of such funds as are attributable to children counted under section 7003(d) of such Act or residing on property described in section 7013(10) of such Act.” for “title VIII of the Elementary and Secondary Education Act of 1965, but not including any portion of such funds as are attributable to children counted under section 8003(d) of such Act or residing on property described in section 8013(10) of such Act.”
+
 2000—Pub. L. 106–398 substituted “section 8003(d) of such Act” for “subsections (d) and (g) of section 8003 of such Act”.
 
 1994—Pub. L. 103–382, § 261(b), substituted “title VIII of the Elementary and Secondary Education Act of 1965” for “subchapter I of chapter 13 of this title” and “subsections (d) and (g) of section 8003 of such Act or residing on property described in section 8013(10) of such Act” for “subparagraph (C) of [section 238(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section238/d/2&num=0&edition=prelim) or [section 244(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section244/1/C&num=0&edition=prelim)”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Effective Date
 Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
@@ -911,13 +959,13 @@ A prior section 428 of Pub. L. 90–247 was renumbered section 435, and is class
 
   (B) The definition in subparagraph (A) shall not include—
 
-    (i) a local educational agency, State educational agency, a State department of education, or an elementary or secondary school as defined by the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.];
+    (i) a local educational agency, State educational agency, a State department of education, or an elementary or secondary school (as defined by the terms “elementary school” and “secondary school” in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801));
 
     (ii) an institution of higher education as defined by [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001); or
 
     (iii) a local organization sponsored by an elementary or secondary school, a recreational organization, an entertainment organization, a local sports activity group, or a social club.
 
-  (C) For the purpose of subsection (a) of this section only, such term does not include an organization or entity that provides an educational program if such organization or entity—
+  (C) For the purpose of subsection (a) only, such term does not include an organization or entity that provides an educational program if such organization or entity—
 
     (i) recruits, for participation in such program, solely through a local school official; and
 
@@ -951,14 +999,16 @@ A prior section 428 of Pub. L. 90–247 was renumbered section 435, and is class
 
 ### Statutory Notes
 
-#### References in Text
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2)(B)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
-
 #### Prior Provisions
 A prior section 429 of Pub. L. 90–247 was classified to [section 1231f of this title](./chapter-031-general-provisions-concerning-education.md#section-1231f) prior to repeal by Pub. L. 103–382.
 
 #### Amendments
+2015—Subsec. (d)(2)(B)(i). Pub. L. 114–95 substituted “an elementary or secondary school (as defined by the terms ‘elementary school’ and ‘secondary school’ in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801))” for “an elementary or secondary school as defined by the Elementary and Secondary Education Act of 1965”.
+
 1998—Subsec. (d)(2)(B)(ii). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
@@ -1068,11 +1118,11 @@ Section 1231b–1, Pub. L. 90–247, title IV, § 424, as added Pub. L. 93–380
 ## § 1231f. Review of applications
 **(a) Persons aggrieved; final State educational agency actions; hearing; ruling and reasons for ruling; rescission of final actions** In the case of any applicable program under which financial assistance is provided to (or through) a State educational agency to be expended in accordance with a State plan approved by the Secretary, any applicant or recipient aggrieved by the final action of the State educational agency, and alleging a violation of State or Federal law, rules, regulations, or guidelines governing the applicable program, in (1) disapproving or failing to approve its application or program in whole or part, (2) failing to provide funds in amounts in accord with the requirements of laws and regulations, (3) ordering, in accordance with a final State audit resolution determination, the repayment of misspent or misapplied Federal funds, or (4) terminating further assistance for an approved program, may within thirty days request a hearing. Within thirty days after it receives such a request, the State educational agency shall hold a hearing on the record and shall review such final action. No later than ten days after the hearing, the State educational agency shall issue its written ruling, including reasons therefor. If it determines such final action was contrary to Federal or State law, or the rules, regulations, and guidelines governing such applicable program, it shall rescind such final action.
 
-**(b) Appeals to Secretary; persons aggrieved; notice; orders prescribing appropriate agency actions; finality of agency fact findings; interim orders pending appeal or review** Any applicant or recipient aggrieved by the failure of a State educational agency to rescind its final action after a review under subsection (a) of this section may appeal such action to the Secretary. An appeal under this subsection may be taken only if notice of such appeal is filed with the Secretary within twenty days after the applicant or recipient has been notified by the State educational agency of the results of its review under subsection (a) of this section. If, on such appeal, the Secretary determines the final action of the State educational agency was contrary to Federal law, or the rules, regulations, and guidelines governing the applicable program, he shall issue an order to the State educational agency prescribing appropriate action to be taken by such agency. On such appeal, findings of fact of the State educational agency, if supported by substantial evidence, shall be final. The Secretary may also issue such interim orders to State educational agencies as he may deem necessary and appropriate pending appeal or review.
+**(b) Appeals to Secretary; persons aggrieved; notice; orders prescribing appropriate agency actions; finality of agency fact findings; interim orders pending appeal or review** Any applicant or recipient aggrieved by the failure of a State educational agency to rescind its final action after a review under subsection (a) may appeal such action to the Secretary. An appeal under this subsection may be taken only if notice of such appeal is filed with the Secretary within twenty days after the applicant or recipient has been notified by the State educational agency of the results of its review under subsection (a). If, on such appeal, the Secretary determines the final action of the State educational agency was contrary to Federal law, or the rules, regulations, and guidelines governing the applicable program, he shall issue an order to the State educational agency prescribing appropriate action to be taken by such agency. On such appeal, findings of fact of the State educational agency, if supported by substantial evidence, shall be final. The Secretary may also issue such interim orders to State educational agencies as he may deem necessary and appropriate pending appeal or review.
 
 **(c) Records; availability** Each State educational agency shall make available at reasonable times and places to each applicant or recipient under a program to which this section applies all records of such agency pertaining to any review or appeal such applicant or recipient is conducting under this section, including records of other applicants.
 
-**(d) Termination of assistance for noncompliance with provisions or orders** If any State educational agency fails or refuses to comply with any provision of this section, or with any order of the Secretary under subsection (b) of this section, the Secretary shall forthwith terminate all assistance to the State educational agency under the applicable program affected or issue such other orders as the Secretary may deem appropriate to achieve such compliance.
+**(d) Termination of assistance for noncompliance with provisions or orders** If any State educational agency fails or refuses to comply with any provision of this section, or with any order of the Secretary under subsection (b), the Secretary shall forthwith terminate all assistance to the State educational agency under the applicable program affected or issue such other orders as the Secretary may deem appropriate to achieve such compliance.
 
 ### Statutory Notes
 
@@ -1155,9 +1205,9 @@ Section, Pub. L. 90–247, title IV, § 426A, as added Pub. L. 95–561, title X
 ## § 1232a. Use of funds withheld
 **(a)** At any time that the Secretary makes an allotment or reallotment to any State under any applicable program, the Secretary shall reduce such allotment or reallotment by such amount as the Secretary determines such allotment or reallotment would have been reduced, had the data on which such allotment or reallotment is based excluded all data relating to local educational agencies of the State that, on the date of the Secretary’s action, are ineligible to receive the Federal financial assistance involved because of failure to comply with title VI of the Civil Rights Act of 1964 [[42 U.S.C. 2000d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d&num=0&edition=prelim) et seq.], title IX of the Education Amendments of 1972 [[20 U.S.C. 1681](./chapter-038-discrimination-based-on-sex-or-blindness.md#section-1681) et seq.], [section 794 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794&num=0&edition=prelim), or the Age Discrimination Act of 1975 [[42 U.S.C. 6101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6101&num=0&edition=prelim) et seq.].
 
-**(b)** The Secretary may use any funds withheld under subsection (a) of this section—
+**(b)** The Secretary may use any funds withheld under subsection (a)—
 
-(1) to increase the allotments or reallotments of local educational agencies within the State that are not described in subsection (a) of this section, or the allotments or reallotment of all States, in accordance with the Federal law governing the program; or
+(1) to increase the allotments or reallotments of local educational agencies within the State that are not described in subsection (a), or the allotments or reallotment of all States, in accordance with the Federal law governing the program; or
 
 (2) for grants to local educational agencies of that State in accordance with section 405 of the Civil Rights Act of 1964 [[42 U.S.C. 2000c–4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000c–4&num=0&edition=prelim)], or for any other program administered by the Department that is designed to enhance equity in education or redress discrimination on the basis of race, color, national origin, sex, age, or disability.
 
@@ -1404,9 +1454,9 @@ Pub. L. 93–380, title V, § 511(b)(2), Aug. 21, 1974, 88 Stat. 571, provided t
 
 <a id="section-1232i"></a>
 ## § 1232i. Single State application
-**(a) Submission of general application; approval by State supervisory authority** In the case of any State which applies, contracts, or submits a plan for participation in any applicable program in which Federal funds are made available for assistance to local educational agencies through, or under the supervision of, the State educational agency of that State, such State shall submit (subject to the provisions of part C of title V of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7231](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7231) et seq.]) to the Secretary a general application containing the assurances set forth in subsection (b) of this section. Such application may be submitted jointly for all programs covered by the application, or it may be submitted separately for each such program or for groups of programs. Each application submitted under this section must be approved by each official, agency, board, or other entity within the State which, under State law, is primarily responsible for supervision of the activities conducted under each program covered by the application.
+**(a) Submission of general application; approval by State supervisory authority** In the case of any State which applies, contracts, or submits a plan for participation in any applicable program in which Federal funds are made available for assistance to local educational agencies through, or under the supervision of, the State educational agency of that State, such State shall submit (subject to the provisions of part D of title IV of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7231](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7231) et seq.]) to the Secretary a general application containing the assurances set forth in subsection (b). Such application may be submitted jointly for all programs covered by the application, or it may be submitted separately for each such program or for groups of programs. Each application submitted under this section must be approved by each official, agency, board, or other entity within the State which, under State law, is primarily responsible for supervision of the activities conducted under each program covered by the application.
 
-**(b) Assurances** An application submitted under subsection (a) of this section shall set forth assurances, satisfactory to the Secretary—
+**(b) Assurances** An application submitted under subsection (a) shall set forth assurances, satisfactory to the Secretary—
 
 (1) that each program will be administered in accordance with all applicable statutes, regulations, program plans, and applications;
 
@@ -1447,7 +1497,7 @@ Pub. L. 93–380, title V, § 511(b)(2), Aug. 21, 1974, 88 Stat. 571, provided t
 ### Statutory Notes
 
 #### References in Text
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part C of title V of the Act is classified generally to part C (§ 7231 et seq.) of subchapter V of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part D of title IV of the Act is classified generally to part D (§ 7231 et seq.) of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
 #### Codification
 A prior section 1232d was renumbered by Pub. L. 95–561, § 1231(a)(1), and was transferred to [section 1226a–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1226a-1).
@@ -1456,6 +1506,8 @@ A prior section 1232d was renumbered by Pub. L. 95–561, § 1231(a)(1), and was
 Another prior section 441 of Pub. L. 90–247 was classified to [section 1233 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1233&num=0&edition=prelim) prior to repeal by Pub. L. 103–382.
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–95 substituted “part D of title IV of the Elementary and Secondary Education Act of 1965) to the Secretary a general application” for “part C of title V of the Elementary and Secondary Education Act of 1965) to the Secretary a general application”.
+
 2002—Subsec. (a). Pub. L. 107–110 made technical correction to directory language of Pub. L. 100–297. See 1988 Amendment note below.
 
 1994—Pub. L. 103–382, § 261(f)(1), substituted “Secretary” for “Commissioner” wherever appearing.
@@ -1472,6 +1524,9 @@ Subsec. (b)(6). Pub. L. 103–382, § 212(b)(3), made technical amendment to ref
 
 1984—Subsec. (b)(8). Pub. L. 98–511 added par. (8).
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
+
 #### Effective Date of 2002 Amendment
 Pub. L. 107–110, title X, § 1062(2), Jan. 8, 2002, 115 Stat. 2087, provided that the amendment made by section 1062(2) is effective as of the date of enactment of Pub. L. 100–297, which was approved Apr. 28, 1988.
 
@@ -1487,9 +1542,9 @@ Section effective with respect to appropriations for fiscal year 1980 and subseq
 
 <a id="section-1232j"></a>
 ## § 1232j. Single local educational agency application
-**(a) General application to State agency or board** Each local educational agency which participates in an applicable program under which Federal funds are made available to such agency through a State agency or board shall submit to such agency or board a general application containing the assurances set forth in subsection (b) of this section. That application shall cover the participation by that local educational agency in all such programs.
+**(a) General application to State agency or board** Each local educational agency which participates in an applicable program under which Federal funds are made available to such agency through a State agency or board shall submit to such agency or board a general application containing the assurances set forth in subsection (b). That application shall cover the participation by that local educational agency in all such programs.
 
-**(b) Assurances** The general application submitted by a local educational agency under subsection (a) of this section shall set forth assurances—
+**(b) Assurances** The general application submitted by a local educational agency under subsection (a) shall set forth assurances—
 
 (1) that the local educational agency will administer each program covered by the application in accordance with all applicable statutes, regulations, program plans, and applications;
 
@@ -1624,7 +1679,7 @@ Another prior section 434 of Pub. L. 90–247 was classified to [section 1232c o
 
 **(b) Release of education records; parental consent requirement; exceptions; compliance with judicial orders and subpoenas; audit and evaluation of federally-supported education programs; recordkeeping**
 
-(1) No funds shall be made available under any applicable program to any educational agency or institution which has a policy or practice of permitting the release of education records (or personally identifiable information contained therein other than directory information, as defined in paragraph (5) of subsection (a) of this section) of students without the written consent of their parents to any individual, agency, or organization, other than to the following—
+(1) No funds shall be made available under any applicable program to any educational agency or institution which has a policy or practice of permitting the release of education records (or personally identifiable information contained therein other than directory information, as defined in paragraph (5) of subsection (a)) of students without the written consent of their parents to any individual, agency, or organization, other than to the following—
 
   (A) other school officials, including teachers within the educational institution or local educational agency, who have been determined by such agency or institution to have legitimate educational interests, including the educational interests of the child for whom consent would otherwise be required;
 
@@ -1666,7 +1721,7 @@ Another prior section 434 of Pub. L. 90–247 was classified to [section 1232c o
 
     (ii) any personally identifiable data shall be destroyed when the data are no longer needed for program monitoring, evaluations, and performance measurements; and
 
-  (L) an agency caseworker or other representative of a State or local child welfare agency, or tribal organization (as defined in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)), who has the right to access a student’s case plan, as defined and determined by the State or tribal organization, when such agency or organization is legally responsible, in accordance with State or tribal law, for the care and protection of the student, provided that the education records, or the personally identifiable information contained in such records, of the student will not be disclosed by such agency or organization, except to an individual or entity engaged in addressing the student’s education needs and authorized by such agency or organization to receive such disclosure and such disclosure is consistent with the State or tribal laws applicable to protecting the confidentiality of a student’s education records.
+  (L) an agency caseworker or other representative of a State or local child welfare agency, or tribal organization (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)), who has the right to access a student’s case plan, as defined and determined by the State or tribal organization, when such agency or organization is legally responsible, in accordance with State or tribal law, for the care and protection of the student, provided that the education records, or the personally identifiable information contained in such records, of the student will not be disclosed by such agency or organization, except to an individual or entity engaged in addressing the student’s education needs and authorized by such agency or organization to receive such disclosure and such disclosure is consistent with the State or tribal laws applicable to protecting the confidentiality of a student’s education records.
   Nothing in subparagraph (E) of this paragraph shall prevent a State from further limiting the number or type of State or local officials who will continue to have access thereunder.
 
 (2) No funds shall be made available under any applicable program to any educational agency or institution which has a policy or practice of releasing, or providing access to, any personally identifiable information in education records other than directory information, or as is permitted under paragraph (1) of this subsection, unless—
@@ -1721,17 +1776,17 @@ Another prior section 434 of Pub. L. 90–247 was classified to [section 1232c o
 
 **(i) Drug and alcohol violation disclosures**
 
-(1) **In general** — Nothing in this Act or the Higher Education Act of 1965 [[20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq., [42 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751&num=0&edition=prelim) et seq.] shall be construed to prohibit an institution of higher education from disclosing, to a parent or legal guardian of a student, information regarding any violation of any Federal, State, or local law, or of any rule or policy of the institution, governing the use or possession of alcohol or a controlled substance, regardless of whether that information is contained in the student’s education records, if—
+(1) **In general** — Nothing in this Act or the Higher Education Act of 1965 [[20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.] shall be construed to prohibit an institution of higher education from disclosing, to a parent or legal guardian of a student, information regarding any violation of any Federal, State, or local law, or of any rule or policy of the institution, governing the use or possession of alcohol or a controlled substance, regardless of whether that information is contained in the student’s education records, if—
 
   (A) the student is under the age of 21; and
 
   (B) the institution determines that the student has committed a disciplinary violation with respect to such use or possession.
 
-(2) **State law regarding disclosure** — Nothing in paragraph (1) shall be construed to supersede any provision of State law that prohibits an institution of higher education from making the disclosure described in subsection (a) of this section.
+(2) **State law regarding disclosure** — Nothing in paragraph (1) shall be construed to supersede any provision of State law that prohibits an institution of higher education from making the disclosure described in subsection (a).
 
 **(j) Investigation and prosecution of terrorism**
 
-(1) **In general** — Notwithstanding subsections (a) through (i) of this section or any provision of State law, the Attorney General (or any Federal officer or employee, in a position not lower than an Assistant Attorney General, designated by the Attorney General) may submit a written application to a court of competent jurisdiction for an ex parte order requiring an educational agency or institution to permit the Attorney General (or his designee) to—
+(1) **In general** — Notwithstanding subsections (a) through (i) or any provision of State law, the Attorney General (or any Federal officer or employee, in a position not lower than an Assistant Attorney General, designated by the Attorney General) may submit a written application to a court of competent jurisdiction for an ex parte order requiring an educational agency or institution to permit the Attorney General (or his designee) to—
 
   (A) collect education records in the possession of the educational agency or institution that are relevant to an authorized investigation or prosecution of an offense listed in [section 2332b(g)(5)(B) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2332b/g/5/B&num=0&edition=prelim), or an act of domestic or international terrorism as defined in section 2331 of that title; and
 
@@ -1745,7 +1800,7 @@ Another prior section 434 of Pub. L. 90–247 was classified to [section 1232c o
 
 (3) **Protection of educational agency or institution** — An educational agency or institution that, in good faith, produces education records in accordance with an order issued under this subsection shall not be liable to any person for that production.
 
-(4) **Record-keeping** — Subsection (b)(4) of this section does not apply to education records subject to a court order under this subsection.
+(4) **Record-keeping** — Subsection (b)(4) does not apply to education records subject to a court order under this subsection.
 
 ### Statutory Notes
 
@@ -1760,7 +1815,7 @@ Section 3 of the Child Abuse Prevention and Treatment Act, referred to in subsec
 
 This Act, referred to in subsec. (i)(1), is Pub. L. 90–247, Jan. 2, 1968, 80 Stat. 783, known as the Elementary and Secondary Education Amendments of 1967. Title IV of the Act, known as the General Education Provisions Act, is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (i)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (i)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
 
 #### Prior Provisions
 A prior section 444 of Pub. L. 90–247 was classified to [section 1233c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1233c&num=0&edition=prelim) prior to repeal by Pub. L. 103–382.
@@ -1842,7 +1897,7 @@ Subsec. (a)(2). Pub. L. 93–568, § 2(a)(4), substituted provisions making the 
 
 Subsec. (a)(3) to (6). Pub. L. 93–568, § 2(a)(1)(G), (2)(F), (5), added pars. (3) to (6).
 
-Subsec. (b)(1). Pub. L. 93–568, § 2(a)(1)(D), (2)(D), (6), (8)(A)–(C), (10)(A), in provisions preceding subpar. (A), substituted “educational agency or institution which has a policy of permitting the release of education records (or personally identifiable information contained therein other than directory information, as defined in paragraph (5) of subsection (a) of this section)” for “state or local educational agency, any institution of higher education, any community college, any school, agency offering a preschool program, or any other educational institution which has a policy or practice of permitting the release of personally identifiable records or files (or personal information contained therein)”, in subpar. (A), substituted “educational agency, who have been determined by such agency or institution to have” for “educational agency who have”, in subpar. (B), substituted “the student seeks or intends to” for “the student intends to”, in subpar. (C), substituted reference to “section 408(c)” for reference to “section 409 of this Act” which for purposes of codification has been translated as “[section 1221e–3(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1221e–3/c&num=0&edition=prelim)”, and added subpars. (E) to (I).
+Subsec. (b)(1). Pub. L. 93–568, § 2(a)(1)(D), (2)(D), (6), (8)(A)–(C), (10)(A), in provisions preceding subpar. (A), substituted “educational agency or institution which has a policy of permitting the release of education records (or personally identifiable information contained therein other than directory information, as defined in paragraph (5) of subsection (a))” for “state or local educational agency, any institution of higher education, any community college, any school, agency offering a preschool program, or any other educational institution which has a policy or practice of permitting the release of personally identifiable records or files (or personal information contained therein)”, in subpar. (A), substituted “educational agency, who have been determined by such agency or institution to have” for “educational agency who have”, in subpar. (B), substituted “the student seeks or intends to” for “the student intends to”, in subpar. (C), substituted reference to “section 408(c)” for reference to “section 409 of this Act” which for purposes of codification has been translated as “[section 1221e–3(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1221e–3/c&num=0&edition=prelim)”, and added subpars. (E) to (I).
 
 Subsec. (b)(2). Pub. L. 93–568, § 2(a)(1)(E), (2)(E), substituted “educational agency or institution which has a policy or practice of releasing, or providing access to, any personally identifiable information in education records other than directory information, or as is permitted under paragraph (1) of this subsection” for “state or local educational agency, any institution of higher education, any community college, any school, agency offering a preschool program, or any other educational institution which has a policy or practice of furnishing, in any form, any personally identifiable information contained in personal school records, to any persons other than those listed in subsection (b)(1) of this section”.
 
@@ -1901,7 +1956,7 @@ without the prior consent of the student (if the student is an adult or emancipa
 
 **(c) Development of local policies concerning student privacy, parental access to information, and administration of certain physical examinations to minors**
 
-(1) **Development and adoption of local policies** — Except as provided in subsections (a) and (b) of this section, a local educational agency that receives funds under any applicable program shall develop and adopt policies, in consultation with parents, regarding the following:
+(1) **Development and adoption of local policies** — Except as provided in subsections (a) and (b), a local educational agency that receives funds under any applicable program shall develop and adopt policies, in consultation with parents, regarding the following:
 
   (A)
 
@@ -2003,7 +2058,7 @@ without the prior consent of the student (if the student is an adult or emancipa
 
   (C) *Information activities* — The Secretary shall annually inform each State educational agency and each local educational agency of the educational agency’s obligations under this section and [section 1232g of this title](./chapter-031-general-provisions-concerning-education.md#section-1232g).
 
-  (D) *Funding* — A State educational agency or local educational agency may use funds provided under part A of title V of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7201](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7201) et seq.] to enhance parental involvement in areas affecting the in-school privacy of students.
+  (D) *Funding* — A State educational agency or local educational agency may use funds provided under part A of title IV of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7101](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7101) et seq.] to enhance parental involvement in areas affecting the in-school privacy of students.
 
 (6) **Definitions** — As used in this subsection:
 
@@ -2044,12 +2099,14 @@ without the prior consent of the student (if the student is an adult or emancipa
 #### References in Text
 The Individuals with Disabilities Education Act, referred to in subsec. (c)(5)(A)(ii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(5)(D), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title V of the Act is classified generally to part A (§ 7201 et seq.) of subchapter V of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(5)(D), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title IV of the Act is classified generally to part A (§ 7101 et seq.) of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
 #### Prior Provisions
 A prior section 445 of Pub. L. 90–247 was classified to [section 1233d of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1233d&num=0&edition=prelim) prior to repeal by Pub. L. 103–382.
 
 #### Amendments
+2015—Subsec. (c)(5)(D). Pub. L. 114–95 substituted “part A of title IV” for “part A of title V”.
+
 2002—Subsec. (b)(1) to (8). Pub. L. 107–110, § 1061(1), added pars. (1) to (8) and struck out former pars. (1) to (7) which read as follows:
 
 “(1) political affiliations;
@@ -2071,6 +2128,9 @@ Subsec. (c) to (f). Pub. L. 107–110, § 1061(2), (3), added subsec. (c) and re
 1994—Pub. L. 103–227 amended section generally, substituting in subsec. (a), provisions relating to inspection of instructional materials by parents or guardians for similar provisions, in subsec. (b), provisions relating to limits on survey, analysis, or evaluations for provisions relating to psychiatric or psychological examinations, testing, or treatment, and adding subsecs. (c) to (e).
 
 1978—Pub. L. 95–561 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
@@ -2122,9 +2182,9 @@ Pub. L. 93–380, title V, § 515(b), Aug. 21, 1974, 88 Stat. 574, provided that
 
 <a id="section-1234c"></a>
 ## § 1234c. Prohibition on federally sponsored testing
-**(a) General prohibition** Notwithstanding any other provision of Federal law and except as provided in subsection (b) of this section, no funds provided to the Department of Education or to an applicable program, may be used to pilot test, field test, implement, administer or distribute in any way any federally sponsored national test in reading, mathematics, or any other subject that is not specifically and explicitly provided for in authorizing legislation enacted into law.
+**(a) General prohibition** Notwithstanding any other provision of Federal law and except as provided in subsection (b), no funds provided to the Department of Education or to an applicable program, may be used to pilot test, field test, implement, administer or distribute in any way any federally sponsored national test in reading, mathematics, or any other subject that is not specifically and explicitly provided for in authorizing legislation enacted into law.
 
-**(b) Exceptions** Subsection (a) of this section shall not apply to the Third International Mathematics and Science Study or other international comparative assessments developed under the authority of [section 9543(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9543/a/6&num=0&edition=prelim) and administered to only a representative sample of pupils in the United States and in foreign nations.
+**(b) Exceptions** Subsection (a) shall not apply to the Third International Mathematics and Science Study or other international comparative assessments developed under the authority of [section 9543(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9543/a/6&num=0&edition=prelim) and administered to only a representative sample of pupils in the United States and in foreign nations.
 
 ### Statutory Notes
 
@@ -2176,7 +2236,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 **(c) Employment requirements; chief judge** The judges shall be officers or employees of the Department. The judges shall meet the requirements imposed for administrative law judges pursuant to [section 3105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3105&num=0&edition=prelim). In choosing among equally qualified candidates for such positions the Secretary shall give favorable consideration to the candidates’ experience in State or local educational agencies and their knowledge of the workings of Federal education programs in such agencies. The Secretary shall designate one of the judges of the Office to be the chief judge.
 
-**(d) Assignment of judges** For the purposes of conducting hearings described in subsection (a) of this section, the chief judge shall assign a judge to each case or class of cases. A judge shall be disqualified in any case in which the judge has a substantial interest, has been of counsel, is or has been a material witness, or is so related to or connected with any party or the party’s attorney as to make it improper for the judge to be assigned to the case.
+**(d) Assignment of judges** For the purposes of conducting hearings described in subsection (a), the chief judge shall assign a judge to each case or class of cases. A judge shall be disqualified in any case in which the judge has a substantial interest, has been of counsel, is or has been a material witness, or is so related to or connected with any party or the party’s attorney as to make it improper for the judge to be assigned to the case.
 
 **(e) Review and evidentiary functions** The judge shall review and may require that evidence be taken on the sufficiency of the preliminary departmental determination as set forth in [section 1234a of this title](./chapter-031-general-provisions-concerning-education.md#section-1234a).
 
@@ -2197,7 +2257,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
   (C) have depositions taken.
   The judge shall set a time limit of 90 days on the discovery period. The judge may extend this period for good cause shown. At the request of any party, the judge may establish a specific schedule for the conduct of discovery.
 
-(2) In order to carry out the provisions of subsections (f)(1) and (g)(1) of this section, the judge is authorized to issue subpoenas and apply to the appropriate court of the United States for enforcement of a subpoena. The court may enforce the subpoena as if it pertained to a proceeding before that court.
+(2) In order to carry out the provisions of subsections (f)(1) and (g)(1), the judge is authorized to issue subpoenas and apply to the appropriate court of the United States for enforcement of a subpoena. The court may enforce the subpoena as if it pertained to a proceeding before that court.
 
 **(h) Mediation of disputes** The Secretary shall establish a process for the voluntary mediation of disputes pending before the Office. The mediator shall be agreed to by all parties involved in mediation and shall be independent of the parties to the dispute. In the mediation of disputes the Secretary shall consider mitigating circumstances and proportion of harm pursuant to [section 1234b of this title](./chapter-031-general-provisions-concerning-education.md#section-1234b). In accordance with rule 408 of the Federal Rules of Evidence, evidence of conduct or statements made in compromise negotiations shall not be admissible in proceedings before the Office. Mediation shall be limited to 120 days, except that the mediator may grant extensions of such period.
 
@@ -2230,7 +2290,7 @@ Subchapter effective 120 days after Nov. 1, 1978, see section 1261 of Pub. L. 95
 
 **(b) Review of preliminary departmental decision; form and contents of application for review; inadequate preliminary decisions; duties of recipient to subrecipients after preliminary decision; burden of proof**
 
-(1) A recipient that has received written notice of a preliminary departmental decision and that desires to have such decision reviewed by the Office shall submit to the Office an application for review not later than 60 days after receipt of notice of the preliminary departmental decision. The application shall be in the form and contain the information specified by the Office. As expeditiously as possible, the Office shall return to the Secretary for such action as the Secretary considers appropriate any preliminary departmental decision which the Office determines does not meet the requirements of subsection (a)(2) of this section.
+(1) A recipient that has received written notice of a preliminary departmental decision and that desires to have such decision reviewed by the Office shall submit to the Office an application for review not later than 60 days after receipt of notice of the preliminary departmental decision. The application shall be in the form and contain the information specified by the Office. As expeditiously as possible, the Office shall return to the Secretary for such action as the Secretary considers appropriate any preliminary departmental decision which the Office determines does not meet the requirements of subsection (a)(2).
 
 (2) In cases where the preliminary departmental decision requests a recovery of funds from a State recipient, that State recipient may not recover funds from an affected local educational agency unless that State recipient has—
 
@@ -2238,7 +2298,7 @@ Subchapter effective 120 days after Nov. 1, 1978, see section 1261 of Pub. L. 95
 
   (B) consulted with each affected subrecipient to determine whether the State recipient should submit an application for review under paragraph (1).
 
-(3) In any proceeding before the Office under this section, the burden shall be upon the recipient to demonstrate that it should not be required to return the amount of funds for which recovery is sought in the preliminary departmental decision under subsection (a) of this section.
+(3) In any proceeding before the Office under this section, the burden shall be upon the recipient to demonstrate that it should not be required to return the amount of funds for which recovery is sought in the preliminary departmental decision under subsection (a).
 
 **(c) Time for hearing** A hearing shall be set 90 days after receipt of a request for review of a preliminary departmental decision by the Office, except that such 90-day requirement may be waived at the discretion of the judge for good cause.
 
@@ -2252,7 +2312,7 @@ Subchapter effective 120 days after Nov. 1, 1978, see section 1261 of Pub. L. 95
 
 **(f) Stay of collection or other adverse action by Secretary against recipient**
 
-(1) If a recipient submits a timely application for review of a preliminary departmental decision, the Secretary shall take no collection action until the decision of the Office upholding the preliminary Department decision in whole or in part becomes final agency action under subsection (g) of this section.
+(1) If a recipient submits a timely application for review of a preliminary departmental decision, the Secretary shall take no collection action until the decision of the Office upholding the preliminary Department decision in whole or in part becomes final agency action under subsection (g).
 
 (2) If a recipient files a timely petition for judicial review under [section 1234g of this title](./chapter-031-general-provisions-concerning-education.md#section-1234g), the Secretary shall take no collection action until judicial review is completed.
 
@@ -2264,9 +2324,9 @@ Subchapter effective 120 days after Nov. 1, 1978, see section 1261 of Pub. L. 95
 
 (2) remands the decision to the Office.
 
-**(h) Publication of decisions as final agency actions** The Secretary shall publish decisions that have become final agency action under subsection (g) of this section in the Federal Register or in another appropriate publication within 60 days.
+**(h) Publication of decisions as final agency actions** The Secretary shall publish decisions that have become final agency action under subsection (g) in the Federal Register or in another appropriate publication within 60 days.
 
-**(i) Collection amounts and procedures** The amount of a preliminary departmental decision under subsection (a) of this section for which review has not been requested in accordance with subsection (b) of this section, and the amount sustained by a decision of the Office or the Secretary which becomes final agency action under subsection (g) of this section, may be collected by the Secretary in accordance with chapter 37 of title 31.
+**(i) Collection amounts and procedures** The amount of a preliminary departmental decision under subsection (a) for which review has not been requested in accordance with subsection (b), and the amount sustained by a decision of the Office or the Secretary which becomes final agency action under subsection (g), may be collected by the Secretary in accordance with chapter 37 of title 31.
 
 **(j) Compromise of preliminary departmental decisions; preconditions; notice requirements**
 
@@ -2443,7 +2503,7 @@ Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not a
 
 **(c) Contents** A compliance agreement under this section shall contain—
 
-(1) an expiration date not later than 3 years from the date of the written findings under subsection (b)(2) of this section, by which the recipient shall be in full compliance with the applicable requirements of law, and
+(1) an expiration date not later than 3 years from the date of the written findings under subsection (b)(2), by which the recipient shall be in full compliance with the applicable requirements of law, and
 
 (2) those terms and conditions with which the recipient must comply until it is in full compliance.
 

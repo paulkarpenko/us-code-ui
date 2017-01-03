@@ -60,7 +60,7 @@ Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sect
 
 (3) a description of the aggregate outstanding loan guarantees under [section 1715z–13b of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1715z–13b&num=0&edition=prelim).
 
-**(b) Related reports** The Secretary may require the Director to submit to the Secretary such reports and other information as may be necessary in order for the Secretary to prepare the report required under subsection (a) of this section.
+**(b) Related reports** The Secretary may require the Director to submit to the Secretary such reports and other information as may be necessary in order for the Secretary to prepare the report required under subsection (a).
 
 ### Statutory Notes
 
@@ -102,12 +102,12 @@ The Congress finds that—
 
 (6) the need for affordable homes in safe and healthy environments on Indian reservations, in Indian communities, and in Native Alaskan villages is acute and the Federal Government shall work not only to provide housing assistance, but also, to the extent practicable, to assist in the development of private housing finance mechanisms on Indian lands to achieve the goals of economic self-sufficiency and self-determination for tribes and their members; and
 
-(7) Federal assistance to meet these responsibilities shall be provided in a manner that recognizes the right of Indian self-determination and tribal self-governance by making such assistance available directly to the Indian tribes or tribally designated entities under authorities similar to those accorded Indian tribes in Public Law 93–638 ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.).
+(7) Federal assistance to meet these responsibilities shall be provided in a manner that recognizes the right of Indian self-determination and tribal self-governance by making such assistance available directly to the Indian tribes or tribally designated entities under authorities similar to those accorded Indian tribes in Public Law 93–638 ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.).11 See References in Text note below.
 
 ### Statutory Notes
 
 #### References in Text
-Public Law 93–638, referred to in par. (7), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+Public Law 93–638 ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in par. (7), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Amendments
 2008—Pars. (6), (7). Pub. L. 110–411 substituted “shall” for “should”.
@@ -191,7 +191,7 @@ For purposes of this chapter, the following definitions shall apply:
 
   (G) *Other amounts* — Such other amounts as may be provided in the Indian housing plan for an Indian tribe.
 
-(2) **Affordable housing** — The term “affordable housing” means housing that complies with the requirements for affordable housing under subchapter II of this chapter. The term includes permanent housing for homeless persons who are persons with disabilities, transitional housing, and single room occupancy housing.
+(2) **Affordable housing** — The term “affordable housing” means housing that complies with the requirements for affordable housing under subchapter II. The term includes permanent housing for homeless persons who are persons with disabilities, transitional housing, and single room occupancy housing.
 
 (3) **Drug-related criminal activity** — The term “drug-related criminal activity” means the illegal manufacture, sale, distribution, use, or possession with intent to manufacture, sell, distribute, or use, of a controlled substance (as such term is defined in [section 802 of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802&num=0&edition=prelim)).
 
@@ -239,7 +239,7 @@ For purposes of this chapter, the following definitions shall apply:
 
   (A) *In general* — The term “Indian tribe” means a tribe that is a federally recognized tribe or a State recognized tribe.
 
-  (B) *Federally recognized tribe* — The term “federally recognized tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act [[43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.).
+  (B) *Federally recognized tribe* — The term “federally recognized tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act [[43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.).11 See References in Text note below.
 
   (C) *State recognized tribe*
 
@@ -317,7 +317,7 @@ The Indian Gaming Regulatory Act, referred to in par. (8)(B), is Pub. L. 100–4
 
 The Alaska Native Claims Settlement Act, referred to in par. (13)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in par. (13)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in par. (13)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 For the effective date under section 705, referred to in par. (13)(C)(i)(II), as Oct. 26, 1996, see section 705 of Pub. L. 104–330, set out as an Effective Date note under [section 4211 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4211).
 
@@ -346,7 +346,7 @@ Section effective Oct. 1, 1997, except as otherwise expressly provided, see sect
 ## § 4114. Waiver of matching funds requirements in Indian housing programs
 **(a) Authorization of waiver** For any housing program that provides assistance through any Indian housing authority, the Secretary of Housing and Urban Development may provide assistance under such program in any fiscal year notwithstanding any other provision of law that requires the Indian housing authority to provide amounts to match or supplement the amounts provided under such program, if the Indian housing authority has not received amounts for such fiscal year under title I of the Housing and Community Development Act of 1974 [[42 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim) et seq.].
 
-**(b) Extent of waiver** The authority under subsection (a) of this section to provide assistance notwithstanding requirements regarding matching or supplemental amounts shall be effective only to the extent provided by the Secretary, which shall not extend beyond the fiscal year in which the waiver is made or beyond the receipt of any amounts by an Indian housing authority under title I of the Housing and Community Development Act of 1974 [[42 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim) et seq.].
+**(b) Extent of waiver** The authority under subsection (a) to provide assistance notwithstanding requirements regarding matching or supplemental amounts shall be effective only to the extent provided by the Secretary, which shall not extend beyond the fiscal year in which the waiver is made or beyond the receipt of any amounts by an Indian housing authority under title I of the Housing and Community Development Act of 1974 [[42 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim) et seq.].
 
 **(c) Definition of housing program** For purposes of this section, the term “housing program” means a program under the administration of the Secretary of Housing and Urban Development or the Secretary of Agriculture (through the Administrator of the Farmers Home Administration) that provides assistance in the form of contracts, grants, loans, cooperative agreements, or any other form of assistance (including the insurance or guarantee of a loan, mortgage, or pool of mortgages) for housing.
 
@@ -383,7 +383,7 @@ Section was formerly classified to [section 1437ff of Title 42](https://uscode.h
 
 (2) **Waiver** — The Secretary may waive the applicability of the requirements under paragraph (1), in whole or in part, for a period of not more than 90 days, if the Secretary determines that an Indian tribe has not complied with, or is unable to comply with, those requirements due to exigent circumstances beyond the control of the Indian tribe.
 
-**(c) Local cooperation agreement** Notwithstanding any other provision of this chapter, grant amounts provided under this chapter on behalf of an Indian tribe may not be used for rental or lease-purchase homeownership units that are owned by the recipient for the tribe unless the governing body of the locality within which the property subject to the development activities to be assisted with the grant amounts is or will be situated has entered into an agreement with the recipient for the tribe providing for local cooperation required by the Secretary pursuant to this chapter. The Secretary may waive the requirements of this subsection and subsection (d) of this section if the recipient has made a good faith effort to fulfill the requirements of this subsection and subsection (d) of this section and agrees to make payments in lieu of taxes to the appropriate taxing authority in an amount consistent with the requirements of subsection (d)(2) of this section until such time as the matter of making such payments has been resolved in accordance with subsection (d) of this section.
+**(c) Local cooperation agreement** Notwithstanding any other provision of this chapter, grant amounts provided under this chapter on behalf of an Indian tribe may not be used for rental or lease-purchase homeownership units that are owned by the recipient for the tribe unless the governing body of the locality within which the property subject to the development activities to be assisted with the grant amounts is or will be situated has entered into an agreement with the recipient for the tribe providing for local cooperation required by the Secretary pursuant to this chapter. The Secretary may waive the requirements of this subsection and subsection (d) if the recipient has made a good faith effort to fulfill the requirements of this subsection and subsection (d) and agrees to make payments in lieu of taxes to the appropriate taxing authority in an amount consistent with the requirements of subsection (d)(2) until such time as the matter of making such payments has been resolved in accordance with subsection (d).
 
 **(d) Exemption from taxation** Notwithstanding any other provision of this chapter, grant amounts provided under this chapter on behalf of an Indian tribe may not be used for affordable housing activities under this chapter for rental or lease-purchase dwelling units developed under the United States Housing Act of 1937 ([42 U.S.C. 1437](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437&num=0&edition=prelim) et seq.) or with amounts provided under this chapter that are owned by the recipient for the tribe unless—
 
@@ -393,11 +393,11 @@ Section was formerly classified to [section 1437ff of Title 42](https://uscode.h
 
   (A) is prescribed by State, tribal, or local law;
 
-  (B) is agreed to by the local governing body in the agreement under subsection (c) of this section; or
+  (B) is agreed to by the local governing body in the agreement under subsection (c); or
 
   (C) the recipient and the local governing body agree that such user fees or payments in lieu of taxes shall not be made.
 
-**(e) Effect of failure to exempt from taxation** Notwithstanding subsection (d) of this section, a grant recipient that does not comply with the requirements under such subsection may receive a block grant under this chapter, but only if the tribe, State, city, county, or other political subdivision in which the affordable housing development is located contributes, in the form of cash or tax remission, the amount by which the taxes paid with respect to the development exceed the amounts prescribed in subsection (d)(2) of this section.
+**(e) Effect of failure to exempt from taxation** Notwithstanding subsection (d), a grant recipient that does not comply with the requirements under such subsection may receive a block grant under this chapter, but only if the tribe, State, city, county, or other political subdivision in which the affordable housing development is located contributes, in the form of cash or tax remission, the amount by which the taxes paid with respect to the development exceed the amounts prescribed in subsection (d)(2).
 
 **(f) Amount** Except as otherwise provided under this chapter, the amount of a grant under this section to a recipient for a fiscal year shall be—
 
@@ -405,7 +405,7 @@ Section was formerly classified to [section 1437ff of Title 42](https://uscode.h
 
 (2) in the case of a recipient whose grant beneficiary is more than 1 Indian tribe, the sum of the amounts of the allocations under [section 4151 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4151) for each such Indian tribe.
 
-**(g) Use for affordable housing activities under plan** Except as provided in subsection (h) of this section and part B of subchapter II, amounts provided under a grant under this section may be used only for affordable housing activities under subchapter II of this chapter that are consistent with an Indian housing plan approved under [section 4113 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4113).
+**(g) Use for affordable housing activities under plan** Except as provided in subsection (h) of this section and part B of subchapter II, amounts provided under a grant under this section may be used only for affordable housing activities under subchapter II that are consistent with an Indian housing plan approved under [section 4113 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4113).
 
 **(h) Administrative and planning expenses** The Secretary shall, by regulation, authorize each recipient to use a percentage of any grant amounts received under this chapter for comprehensive housing and community development planning activities and for any reasonable administrative and planning expenses of the recipient relating to carrying out this chapter and activities assisted with such amounts, which may include costs for salaries of individuals engaged in administering and managing affordable housing activities assisted with grant amounts provided under this chapter and expenses of preparing an Indian housing plan under [section 4112 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4112).
 
@@ -437,7 +437,7 @@ Subsecs. (j), (k). Pub. L. 110–411, § 101(3), added subsecs. (j) and (k).
 
 2000—Subsec. (b)(2). Pub. L. 106–568, § 1003(a)(1), and Pub. L. 106–569, § 503(a)(1), amended par. (2) identically, substituting “for a period of not more than 90 days, if the Secretary determines that an Indian tribe has not complied with, or is unable to comply with, those requirements due to exigent circumstances beyond the control of the Indian tribe.” for “if the Secretary finds that an Indian tribe has not complied or cannot comply with such requirements due to circumstances beyond the control of the tribe.”
 
-Subsec. (c). Pub. L. 106–568, § 1003(a)(2), and Pub. L. 106–569, § 503(a)(2), amended subsec. (c) identically, inserting at end “The Secretary may waive the requirements of this subsection and subsection (d) of this section if the recipient has made a good faith effort to fulfill the requirements of this subsection and subsection (d) of this section and agrees to make payments in lieu of taxes to the appropriate taxing authority in an amount consistent with the requirements of subsection (d)(2) of this section until such time as the matter of making such payments has been resolved in accordance with subsection (d) of this section.”
+Subsec. (c). Pub. L. 106–568, § 1003(a)(2), and Pub. L. 106–569, § 503(a)(2), amended subsec. (c) identically, inserting at end “The Secretary may waive the requirements of this subsection and subsection (d) if the recipient has made a good faith effort to fulfill the requirements of this subsection and subsection (d) and agrees to make payments in lieu of taxes to the appropriate taxing authority in an amount consistent with the requirements of subsection (d)(2) until such time as the matter of making such payments has been resolved in accordance with subsection (d).”
 
 1998—Subsec. (c). Pub. L. 105–276, § 595(e)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary may not make any grant under this chapter on behalf of an Indian tribe unless the governing body of the locality within which any affordable housing to be assisted with the grant amounts will be situated has entered into an agreement with the recipient for the tribe providing for local cooperation required by the Secretary pursuant to this chapter.”
 
@@ -573,9 +573,9 @@ Section effective on the date provided by the Secretary of Housing and Urban Dev
 
 (1) **Review** — The Secretary shall conduct a limited review of each Indian housing plan submitted to the Secretary to ensure that the plan complies with the requirements of [section 4112 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4112). The Secretary shall have the discretion to review a plan only to the extent that the Secretary considers review is necessary.
 
-(2) **Notice** — The Secretary shall notify each Indian tribe for which a plan is submitted and any tribally designated housing entity for the tribe whether the plan complies with such requirements not later than 60 days after receiving the plan. If the Secretary does not notify the Indian tribe, as required under this subsection and subsection (b) of this section, the plan shall be considered, for purposes of this chapter, to have been determined to comply with the requirements under [section 4112 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4112) and the tribe shall be considered to have been notified of compliance upon the expiration of such 60-day period.
+(2) **Notice** — The Secretary shall notify each Indian tribe for which a plan is submitted and any tribally designated housing entity for the tribe whether the plan complies with such requirements not later than 60 days after receiving the plan. If the Secretary does not notify the Indian tribe, as required under this subsection and subsection (b), the plan shall be considered, for purposes of this chapter, to have been determined to comply with the requirements under [section 4112 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4112) and the tribe shall be considered to have been notified of compliance upon the expiration of such 60-day period.
 
-**(b) Notice of reasons for determination of noncompliance** If the Secretary determines that a plan, as submitted, does not comply with the requirements under [section 4112 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4112), the Secretary shall specify in the notice under subsection (a) of this section the reasons for the noncompliance and any modifications necessary for the plan to meet the requirements under [section 4112 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4112).
+**(b) Notice of reasons for determination of noncompliance** If the Secretary determines that a plan, as submitted, does not comply with the requirements under [section 4112 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4112), the Secretary shall specify in the notice under subsection (a) the reasons for the noncompliance and any modifications necessary for the plan to meet the requirements under [section 4112 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4112).
 
 **(c) Review** After submission of the Indian housing plan or any amendment or modification to the plan to the Secretary, to the extent that the Secretary considers such action to be necessary to make determinations under this subsection, the Secretary shall review the plan (including any amendments or modifications thereto) to determine whether the contents of the plan—
 
@@ -590,7 +590,7 @@ If the Secretary determines that any of the appropriate certifications required 
 
 **(e) Self-determined activities program** Notwithstanding any other provision of this section, the Secretary—
 
-(1) shall review the information included in an Indian housing plan pursuant to subsections (b)(4) 22 So in original. Subsec. (b) of this section does not contain a par. (4). and (c)(7) 33 So in original. Subsec. (c) of this section does not contain a par. (7). only to determine whether the information is included for purposes of compliance with the requirement under section 4145a(b)(2) 44 So in original. [Section 4145a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4145a/b&num=0&edition=prelim) does not contain a par. (2). of this title; and
+(1) shall review the information included in an Indian housing plan pursuant to subsections (b)(4) 22 So in original. Subsec. (b) does not contain a par. (4). and (c)(7) 33 So in original. Subsec. (c) does not contain a par. (7). only to determine whether the information is included for purposes of compliance with the requirement under section 4145a(b)(2) 44 So in original. [Section 4145a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4145a/b&num=0&edition=prelim) does not contain a par. (2). of this title; and
 
 (2) may not approve or disapprove an Indian housing plan based on the content of the particular benefits, activities, or results included pursuant to subsections (b)(4) 2 and (c)(7).3
 
@@ -690,7 +690,7 @@ Section effective Oct. 1, 1997, except as otherwise expressly provided, see sect
 
 (3) **Effect on assumed responsibility** — The duty of the Secretary under paragraph (2)(B) shall not be construed to limit or reduce any responsibility assumed by a recipient of grant amounts with respect to any particular release of funds.
 
-**(b) Procedure** The Secretary shall approve the release of funds subject to the procedures authorized by this section only if, not less than 15 days prior to such approval and prior to any commitment of funds to such projects, the tribe has submitted to the Secretary a request for such release accompanied by a certification that meets the requirements of subsection (c) of this section. The approval of the Secretary of any such certification shall be deemed to satisfy the responsibilities of the Secretary under the National Environmental Policy Act of 1969 [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.] and such other provisions of law as the regulations of the Secretary specify insofar as those responsibilities relate to the releases of funds for projects to be carried out pursuant thereto that are covered by such certification.
+**(b) Procedure** The Secretary shall approve the release of funds subject to the procedures authorized by this section only if, not less than 15 days prior to such approval and prior to any commitment of funds to such projects, the tribe has submitted to the Secretary a request for such release accompanied by a certification that meets the requirements of subsection (c). The approval of the Secretary of any such certification shall be deemed to satisfy the responsibilities of the Secretary under the National Environmental Policy Act of 1969 [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.] and such other provisions of law as the regulations of the Secretary specify insofar as those responsibilities relate to the releases of funds for projects to be carried out pursuant thereto that are covered by such certification.
 
 **(c) Certification** A certification under the procedures authorized by this section shall—
 
@@ -698,11 +698,11 @@ Section effective Oct. 1, 1997, except as otherwise expressly provided, see sect
 
 (2) be executed by the chief executive officer or other officer of the tribe under this chapter qualified under regulations of the Secretary;
 
-(3) specify that the tribe has fully carried out its responsibilities as described under subsection (a) of this section; and
+(3) specify that the tribe has fully carried out its responsibilities as described under subsection (a); and
 
 (4) specify that the certifying officer—
 
-  (A) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or such other provisions of law apply pursuant to subsection (a) of this section; and
+  (A) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or such other provisions of law apply pursuant to subsection (a); and
 
   (B) is authorized and consents on behalf of the tribe and such officer to accept the jurisdiction of the Federal courts for the purpose of enforcement of the responsibilities of the certifying officer as such an official.
 
@@ -712,7 +712,7 @@ Section effective Oct. 1, 1997, except as otherwise expressly provided, see sect
 
 (2) does not threaten the health or safety of the community involved by posing an immediate or long-term hazard to residents of that community;
 
-(3) is a result of inadvertent error, including an incorrect or incomplete certification provided under subsection (c)(1) of this section; and
+(3) is a result of inadvertent error, including an incorrect or incomplete certification provided under subsection (c)(1); and
 
 (4) may be corrected through the sole action of the recipient.
 
@@ -740,7 +740,7 @@ Section effective Oct. 1, 1997, except as otherwise expressly provided, see sect
 
   (A) invite public comments regarding such transition requirements and final regulations to carry out this chapter; and
 
-  (B) include a general notice of proposed rulemaking (for purposes of [section 564(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section564/a&num=0&edition=prelim)) of the final regulations under subsection (b) of this section.
+  (B) include a general notice of proposed rulemaking (for purposes of [section 564(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section564/a&num=0&edition=prelim)) of the final regulations under subsection (b).
 
 **(b) Final regulations**
 
@@ -907,7 +907,7 @@ Affordable housing activities under this subchapter are activities, in accordanc
 
 (8) **Self-Determination Act demonstration project**
 
-  (A) *In general* — Consistent with the provisions of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), the Secretary shall conduct and submit to Congress a study of the feasibility of establishing a demonstration project in which Indian tribes and tribal organizations are authorized to receive assistance in a manner that maximizes tribal authority and decision-making in the design and implementation of Federal housing and related activity funding.
+  (A) *In general* — Consistent with the provisions of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.),11 See References in Text note below. the Secretary shall conduct and submit to Congress a study of the feasibility of establishing a demonstration project in which Indian tribes and tribal organizations are authorized to receive assistance in a manner that maximizes tribal authority and decision-making in the design and implementation of Federal housing and related activity funding.
 
   (B) *Study* — Not later than 1 year after November 13, 2002, the Secretary shall submit the study conducted under subparagraph (A) to the Committee on Banking, Housing, and Urban Affairs and the Committee on Indian Affairs of the Senate, and the Committee on Financial Services and the Committee on Resources of the House of Representatives.
 
@@ -924,7 +924,7 @@ This chapter, referred to in pars. (4), (6), and (7)(A), was in the original “
 
 The Native American Housing Assistance and Self-Determination Reauthorization Act of 2002, referred to in par. (7)(A), is Pub. L. 107–292, Nov. 13, 2002, 116 Stat. 2053. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under [section 4101 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4101) and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in par. (8)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in par. (8)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Amendments
 2008—Pub. L. 110–411, § 202(1), substituted “to develop, operate, maintain, or support” for “to develop or to support” in introductory provisions.
@@ -1023,7 +1023,7 @@ Section effective Oct. 1, 1997, except as otherwise expressly provided, see sect
 
   (B) is not for the purpose of avoiding low-income affordability restrictions, as determined by the Secretary.
 
-**(b) Exception** Notwithstanding subsection (a) of this section, housing assisted pursuant to [section 4131(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4131/b/2&num=0&edition=prelim) shall be considered affordable housing for purposes of this chapter.
+**(b) Exception** Notwithstanding subsection (a), housing assisted pursuant to [section 4131(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4131/b/2&num=0&edition=prelim) shall be considered affordable housing for purposes of this chapter.
 
 **(c) Applicability** The provisions of paragraph (2) of subsection (a) regarding binding commitments for the remaining useful life of property shall not apply to a family or household member who subsequently takes ownership of a homeownership unit.
 
@@ -1105,9 +1105,9 @@ Section effective Oct. 1, 1997, except as otherwise expressly provided, see sect
 
 <a id="section-4145a"></a>
 ## § 4145a. Availability of records
-**(a) Provision of information** Notwithstanding any other provision of law, except as provided in subsection (b) of this section, the National Crime Information Center, police departments, and other law enforcement agencies shall, upon request, provide information to Indian tribes or tribally designated housing entities regarding the criminal conviction records of applicants for employment, and of adult applicants for, or tenants of, housing assisted with grant amounts provided to such tribe or entity under this chapter for purposes of applicant screening, lease enforcement, and eviction.
+**(a) Provision of information** Notwithstanding any other provision of law, except as provided in subsection (b), the National Crime Information Center, police departments, and other law enforcement agencies shall, upon request, provide information to Indian tribes or tribally designated housing entities regarding the criminal conviction records of applicants for employment, and of adult applicants for, or tenants of, housing assisted with grant amounts provided to such tribe or entity under this chapter for purposes of applicant screening, lease enforcement, and eviction.
 
-**(b) Exception** A law enforcement agency described in subsection (a) of this section shall provide information under this paragraph relating to any criminal conviction of a juvenile only to the extent that the release of such information is authorized under the law of the applicable State, tribe, or locality.
+**(b) Exception** A law enforcement agency described in subsection (a) shall provide information under this paragraph relating to any criminal conviction of a juvenile only to the extent that the release of such information is authorized under the law of the applicable State, tribe, or locality.
 
 **(c) Confidentiality** An Indian tribe or tribally designated housing entity receiving information under this section may use such information only for the purposes provided in this section and such information may not be disclosed to any person who is not an officer, employee, or authorized representative of the tribe or entity or the owner of housing assisted under this chapter, and who has a job-related need to have access to the information for the purposes under this section. For judicial eviction proceedings, disclosures may be made to the extent necessary. The Secretary shall, by regulation, establish procedures necessary to ensure that information provided under this section to any tribe or entity is used, and confidentiality is maintained, as required under this section.
 
@@ -1119,9 +1119,9 @@ This chapter, referred to in subsecs. (a) and (c), was in the original “this A
 #### Amendments
 2008—Subsec. (a). Pub. L. 110–411 inserted “applicants for employment, and of” after “records of”.
 
-1998—Subsec. (a). Pub. L. 105–276, § 595(e)(10)(A), substituted “subsection (b) of this section” for “paragraph (2)”.
+1998—Subsec. (a). Pub. L. 105–276, § 595(e)(10)(A), substituted “subsection (b)” for “paragraph (2)”.
 
-Subsec. (b). Pub. L. 105–276, § 595(e)(10)(B), substituted “subsection (a) of this section” for “paragraph (1)”.
+Subsec. (b). Pub. L. 105–276, § 595(e)(10)(B), substituted “subsection (a)” for “paragraph (1)”.
 
 #### Effective Date
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under [section 4101 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4101).
@@ -1345,7 +1345,7 @@ Section effective Oct. 1, 1997, except as otherwise expressly provided, see sect
 
 (1) the relative administrative capacities and other challenges faced by the recipient, including, but not limited to geographic distribution within the Indian area and technical capacity; and
 
-(2) the extent to which terminations of assistance under subchapter V of this chapter will affect funding available to State recognized tribes.
+(2) the extent to which terminations of assistance under subchapter V will affect funding available to State recognized tribes.
 
 **(d) Funding for public housing operation and modernization**
 
@@ -1366,7 +1366,7 @@ This chapter, referred to in subsecs. (a) and (d), was in the original “this A
 
 The United States Housing Act of 1937, referred to in subsecs. (b)(1)(A) and (d), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. Section 14 of the Act, which was classified to section 1437l of Title 42, was repealed by Pub. L. 105–276, title V, § 522(a), Oct. 21, 1998, 112 Stat. 2564. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437&num=0&edition=prelim) and Tables.
 
-Subchapter V of this chapter, referred to in subsec. (c)(2), was in the original “title V”, meaning title V of Pub. L. 104–330, which enacted subchapter V of this chapter and [section 12899h–1 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12899h–1&num=0&edition=prelim), The Public Health and Welfare, amended sections 1437a, 1437c to 1437e, 1437g, 1437l, 1437n, 1437u to 1437x, 1437aaa–5, 1437aaa–6, 1439, 11371 to 11376, 11382, 11401, 11403g, 11408, 11903a, 12747, and 12838 of Title 42, repealed sections 1437aa to 1437ee of Title 42, enacted provisions set out as notes under sections 11371, 12747, and 12899h–1 of Title 42, amended provisions set out as a note under [section 11301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11301&num=0&edition=prelim), and repealed provisions set out as a note under [section 1701z–6 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701z–6&num=0&edition=prelim), Banks and Banking. For complete classification of title V to the Code, see Tables.
+Subchapter V, referred to in subsec. (c)(2), was in the original “title V”, meaning title V of Pub. L. 104–330, which enacted subchapter V of this chapter and [section 12899h–1 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12899h–1&num=0&edition=prelim), The Public Health and Welfare, amended sections 1437a, 1437c to 1437e, 1437g, 1437l, 1437n, 1437u to 1437x, 1437aaa–5, 1437aaa–6, 1439, 11371 to 11376, 11382, 11401, 11403g, 11408, 11903a, 12747, and 12838 of Title 42, repealed sections 1437aa to 1437ee of Title 42, enacted provisions set out as notes under sections 11371, 12747, and 12899h–1 of Title 42, amended provisions set out as a note under [section 11301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11301&num=0&edition=prelim), and repealed provisions set out as a note under [section 1701z–6 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701z–6&num=0&edition=prelim), Banks and Banking. For complete classification of title V to the Code, see Tables.
 
 #### Amendments
 2008—Subsec. (a). Pub. L. 110–411, § 301(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
@@ -1382,7 +1382,7 @@ Subsec. (d)(1)(B). Pub. L. 106–568, § 1003(g)(2), and Pub. L. 106–569, § 5
 ## § 4165. Remedies for noncompliance
 **(a) Actions by Secretary affecting grant amounts**
 
-(1) **In general** — Except as provided in subsection (b) of this section, if the Secretary finds after reasonable notice and opportunity for hearing that a recipient of assistance under this chapter has failed to comply substantially with any provision of this chapter, the Secretary shall—
+(1) **In general** — Except as provided in subsection (b), if the Secretary finds after reasonable notice and opportunity for hearing that a recipient of assistance under this chapter has failed to comply substantially with any provision of this chapter, the Secretary shall—
 
   (A) terminate payments under this chapter to the recipient;
 
@@ -1410,7 +1410,7 @@ Subsec. (d)(1)(B). Pub. L. 106–568, § 1003(g)(2), and Pub. L. 106–569, § 5
 
 **(b) Noncompliance because of technical incapacity**
 
-(1) **In general** — If the Secretary makes a finding under subsection (a) of this section, but determines that the failure to comply substantially with the provisions of this chapter—
+(1) **In general** — If the Secretary makes a finding under subsection (a), but determines that the failure to comply substantially with the provisions of this chapter—
 
   (A) is not a pattern or practice of activities constituting willful noncompliance, and
 
@@ -1425,17 +1425,17 @@ Subsec. (d)(1)(B). Pub. L. 106–568, § 1003(g)(2), and Pub. L. 106–569, § 5
 
   (A) has made a good faith effort to meet the compliance objectives specified in the agreement, the Secretary may enter into an additional performance agreement for the period specified in paragraph (2); and
 
-  (B) has failed to make a good faith effort to meet applicable compliance objectives, the Secretary shall determine the recipient to have failed to comply substantially with this chapter, and the recipient shall be subject to an action under subsection (a) of this section.
+  (B) has failed to make a good faith effort to meet applicable compliance objectives, the Secretary shall determine the recipient to have failed to comply substantially with this chapter, and the recipient shall be subject to an action under subsection (a).
 
 **(c) Referral for civil action**
 
-(1) **Authority** — In lieu of, or in addition to, any action authorized by subsection (a) of this section, if the Secretary has reason to believe that a recipient has failed to comply substantially with any provision of this chapter, the Secretary may refer the matter to the Attorney General of the United States with a recommendation that an appropriate civil action be instituted.
+(1) **Authority** — In lieu of, or in addition to, any action authorized by subsection (a), if the Secretary has reason to believe that a recipient has failed to comply substantially with any provision of this chapter, the Secretary may refer the matter to the Attorney General of the United States with a recommendation that an appropriate civil action be instituted.
 
 (2) **Civil action** — Upon such a referral, the Attorney General may bring a civil action in any United States district court having venue thereof for such relief as may be appropriate, including an action to recover the amount of the assistance furnished under this chapter that was not expended in accordance with it, or for mandatory or injunctive relief.
 
 **(d) Review**
 
-(1) **In general** — Any recipient who receives notice under subsection (a) of this section of the termination, reduction, or limitation of payments under this chapter—
+(1) **In general** — Any recipient who receives notice under subsection (a) of the termination, reduction, or limitation of payments under this chapter—
 
   (A) may, not later than 60 days after receiving such notice, file with the United States Court of Appeals for the circuit in which such State is located, or in the United States Court of Appeals for the District of Columbia, a petition for review of the action of the Secretary; and
 
@@ -1477,19 +1477,19 @@ Section effective Oct. 1, 1997, except as otherwise expressly provided, see sect
 
 <a id="section-4166"></a>
 ## § 4166. Replacement of recipient
-**(a) Authority** As a condition of the Secretary making a grant under this chapter on behalf of an Indian tribe, the tribe shall agree that, notwithstanding any other provision of law, the Secretary may, only in the circumstances set forth in subsection (b) of this section, require that a replacement tribally designated housing entity serve as the recipient for the tribe, in accordance with subsection (c) of this section.
+**(a) Authority** As a condition of the Secretary making a grant under this chapter on behalf of an Indian tribe, the tribe shall agree that, notwithstanding any other provision of law, the Secretary may, only in the circumstances set forth in subsection (b), require that a replacement tribally designated housing entity serve as the recipient for the tribe, in accordance with subsection (c).
 
 **(b) Conditions of removal** The Secretary may require such replacement tribally designated housing entity for a tribe only upon a determination by the Secretary on the record after opportunity for a hearing that the recipient for the tribe has engaged in a pattern or practice of activities that constitutes substantial or willful noncompliance with the requirements under this chapter.
 
 **(c) Choice and term of replacement** If the Secretary requires that a replacement tribally designated housing entity serve as the recipient for a tribe (or tribes)—
 
-(1) the replacement entity shall be an entity mutually agreed upon by the Secretary and the tribe (or tribes) for which the recipient was authorized to act, except that if no such entity is agreed upon before the expiration of the 60-day period beginning upon the date that the Secretary makes the determination under subsection (b) of this section, the Secretary shall act as the replacement entity until agreement is reached upon a replacement entity; and
+(1) the replacement entity shall be an entity mutually agreed upon by the Secretary and the tribe (or tribes) for which the recipient was authorized to act, except that if no such entity is agreed upon before the expiration of the 60-day period beginning upon the date that the Secretary makes the determination under subsection (b), the Secretary shall act as the replacement entity until agreement is reached upon a replacement entity; and
 
 (2) the replacement entity (or the Secretary, as provided in paragraph (1)) shall act as the tribally designated housing entity for the tribe (or tribes) for a period that expires upon—
 
-  (A) a date certain, which shall be specified by the Secretary upon making the determination under subsection (b) of this section; or
+  (A) a date certain, which shall be specified by the Secretary upon making the determination under subsection (b); or
 
-  (B) the occurrence of specific conditions, which conditions shall be specified in written notice provided by the Secretary to the tribe upon making the determination under subsection (b) of this section.
+  (B) the occurrence of specific conditions, which conditions shall be specified in written notice provided by the Secretary to the tribe upon making the determination under subsection (b).
 
 ### Statutory Notes
 
@@ -1560,7 +1560,7 @@ Section effective Oct. 1, 1997, except as otherwise expressly provided, see sect
 
 **(b) Additional reviews and audits**
 
-(1) **In general** — In addition to any audit or review under subsection (a) of this section, to the extent the Secretary determines such action to be appropriate, the Secretary may conduct an audit or review of a recipient in order to—
+(1) **In general** — In addition to any audit or review under subsection (a), to the extent the Secretary determines such action to be appropriate, the Secretary may conduct an audit or review of a recipient in order to—
 
   (A) determine whether the recipient—
 
@@ -1627,9 +1627,9 @@ Section effective Oct. 1, 1997, except as otherwise expressly provided, see sect
 
 (2) a summary of the use of funds available under this chapter during the preceding fiscal year; and
 
-(3) a description of the aggregate outstanding loan guarantees under subchapter VI of this chapter.
+(3) a description of the aggregate outstanding loan guarantees under subchapter VI.
 
-**(b) Related reports** The Secretary may require recipients of grant amounts under this chapter to submit to the Secretary such reports and other information as may be necessary in order for the Secretary to make the report required by subsection (a) of this section.
+**(b) Related reports** The Secretary may require recipients of grant amounts under this chapter to submit to the Secretary such reports and other information as may be necessary in order for the Secretary to make the report required by subsection (a).
 
 ### Statutory Notes
 
@@ -1733,7 +1733,7 @@ The HOME Investment Partnerships Act, referred to in text, is title II of Pub. L
 
 **(b) Terms of loans** Notes or other obligations guaranteed pursuant to this subchapter shall be in such form and denominations, have such maturities, and be subject to such conditions as may be prescribed by regulations issued by the Secretary. The Secretary may not deny a guarantee under this subchapter on the basis of the proposed repayment period for the note or other obligation, unless the period is more than 20 years or the Secretary determines that the period causes the guarantee to constitute an unacceptable financial risk.
 
-**(c) Limitation on outstanding guarantees** No guarantee or commitment to guarantee shall be made with respect to any note or other obligation if the total outstanding notes or obligations of the issuer guaranteed under this subchapter (excluding any amount defeased under the contract entered into under [section 4192(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4192/a/1&num=0&edition=prelim)) would thereby exceed an amount equal to 5 times the amount of the grant approval for the issuer pursuant to subchapter III of this chapter.
+**(c) Limitation on outstanding guarantees** No guarantee or commitment to guarantee shall be made with respect to any note or other obligation if the total outstanding notes or obligations of the issuer guaranteed under this subchapter (excluding any amount defeased under the contract entered into under [section 4192(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4192/a/1&num=0&edition=prelim)) would thereby exceed an amount equal to 5 times the amount of the grant approval for the issuer pursuant to subchapter III.
 
 **(d) Limitation on percentage** A guarantee made under this subchapter shall guarantee repayment of 95 percent of the unpaid principal and interest due on the notes or other obligations guaranteed.
 
@@ -1765,13 +1765,13 @@ Pub. L. 104–330, title VI, § 606, Oct. 26, 1996, 110 Stat. 4048, provided tha
 
 (2) pledge any grant for which the issuer may become eligible under this chapter;
 
-(3) demonstrate that the extent of such issuance and guarantee under this subchapter is within the financial capacity of the tribe and is not likely to impair the ability to use grant amounts under subchapter I of this chapter, taking into consideration the requirements under [section 4133(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4133/b&num=0&edition=prelim); and
+(3) demonstrate that the extent of such issuance and guarantee under this subchapter is within the financial capacity of the tribe and is not likely to impair the ability to use grant amounts under subchapter I, taking into consideration the requirements under [section 4133(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4133/b&num=0&edition=prelim); and
 
 (4) furnish, at the discretion of the Secretary, such other security as may be deemed appropriate by the Secretary in making such guarantees, including increments in local tax receipts generated by the activities assisted under this chapter or disposition proceeds from the sale of land or rehabilitated property.
 
 **(b) Repayment from grant amounts** Notwithstanding any other provision of this chapter—
 
-(1) the Secretary may apply grants pledged pursuant to subsection (a)(2) of this section to any repayments due the United States as a result of such guarantees; and
+(1) the Secretary may apply grants pledged pursuant to subsection (a)(2) to any repayments due the United States as a result of such guarantees; and
 
 (2) grants allocated under this chapter for an Indian tribe or housing entity (including program income derived therefrom) may be used to pay principal and interest due (including such servicing, underwriting, and other costs as may be specified in regulations issued by the Secretary) on notes or other obligations guaranteed pursuant to this subchapter.
 
@@ -1816,7 +1816,7 @@ Section effective Oct. 26, 1996, see section 606 of Pub. L. 104–330, set out a
 
 **(c) Aggregate outstanding limitation** The total amount of outstanding obligations guaranteed on a cumulative basis by the Secretary pursuant to this subchapter shall not at any time exceed $2,000,000,000 or such higher amount as may be authorized to be appropriated for this subchapter for any fiscal year.
 
-**(d) Fiscal year limitations on tribes** The Secretary shall monitor the use of guarantees under this subchapter by Indian tribes. If the Secretary finds that 50 percent of the aggregate guarantee authority under subsection (c) of this section has been committed, the Secretary may—
+**(d) Fiscal year limitations on tribes** The Secretary shall monitor the use of guarantees under this subchapter by Indian tribes. If the Secretary finds that 50 percent of the aggregate guarantee authority under subsection (c) has been committed, the Secretary may—
 
 (1) impose limitations on the amount of guarantees any one Indian tribe may receive in any fiscal year of $50,000,000; or
 
@@ -1919,7 +1919,7 @@ Another section 606 of Pub. L. 104–330 is set out as an Effective Date note un
 ## § 4223. 50-year leasehold interest in trust or restricted lands for housing purposes
 **(a) Authority to lease** Notwithstanding any other provision of law, any trust or restricted Indian lands, whether tribally or individually owned, may be leased by the Indian owners, subject to the approval of the affected Indian tribe and the Secretary of the Interior, for housing development and residential purposes.
 
-**(b) Term** Each lease pursuant to subsection (a) of this section shall be for a term not exceeding 50 years.
+**(b) Term** Each lease pursuant to subsection (a) shall be for a term not exceeding 50 years.
 
 **(c) Rule of construction** This section may not be construed to repeal, limit, or affect any authority to lease any trust or restricted Indian lands that—
 
@@ -2042,7 +2042,7 @@ Substantially identical provisions were contained in Pub. L. 106–568, title II
 
 (2) **Waiver** — The Secretary may waive the applicability of the requirements under paragraph (1), in part, if the Secretary finds that the Department of Hawaiian Home Lands has not complied or cannot comply with those requirements due to circumstances beyond the control of the Department of Hawaiian Home Lands.
 
-**(c) Use of funds for affordable housing activities under plan** Except as provided in subsection (e) of this section, amounts provided under a grant under this section may be used only for affordable housing activities under this subchapter that are consistent with a housing plan approved under [section 4224 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4224).
+**(c) Use of funds for affordable housing activities under plan** Except as provided in subsection (e), amounts provided under a grant under this section may be used only for affordable housing activities under this subchapter that are consistent with a housing plan approved under [section 4224 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4224).
 
 **(d) Administrative expenses**
 
@@ -2235,13 +2235,13 @@ Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially 
 
   (A) *In general* — Not later than 60 days after receiving a plan under [section 4223 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4223), the Secretary shall notify the Director of the Department of Hawaiian Home Lands whether the plan complies with the requirements under that section.
 
-  (B) *Effect of failure of Secretary to take action* — For purposes of this subchapter, if the Secretary does not notify the Director, as required under this subsection and subsection (b) of this section, upon the expiration of the 60-day period described in subparagraph (A)—
+  (B) *Effect of failure of Secretary to take action* — For purposes of this subchapter, if the Secretary does not notify the Director, as required under this subsection and subsection (b), upon the expiration of the 60-day period described in subparagraph (A)—
 
     (i) the plan shall be considered to have been determined to comply with the requirements under [section 4223 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4223); and
 
     (ii) the Director shall be considered to have been notified of compliance.
 
-**(b) Notice of reasons for determination of noncompliance** If the Secretary determines that a plan submitted under [section 4223 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4223) does not comply with the requirements of that section, the Secretary shall specify in the notice under subsection (a) of this section—
+**(b) Notice of reasons for determination of noncompliance** If the Secretary determines that a plan submitted under [section 4223 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4223) does not comply with the requirements of that section, the Secretary shall specify in the notice under subsection (a)—
 
 (1) the reasons for noncompliance; and
 
@@ -2342,7 +2342,7 @@ Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially 
 
 **(b) Procedure**
 
-(1) **In general** — The Secretary shall authorize the release of funds subject to the procedures under this section only if, not less than 15 days before that approval and before any commitment of funds to such projects, the Director of the Department of Hawaiian Home Lands submits to the Secretary a request for such release accompanied by a certification that meets the requirements of subsection (c) of this section.
+(1) **In general** — The Secretary shall authorize the release of funds subject to the procedures under this section only if, not less than 15 days before that approval and before any commitment of funds to such projects, the Director of the Department of Hawaiian Home Lands submits to the Secretary a request for such release accompanied by a certification that meets the requirements of subsection (c).
 
 (2) **Effect of approval** — The approval of the Secretary of a certification described in paragraph (1) shall be deemed to satisfy the responsibilities of the Secretary under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) and such other provisions of law as the regulations of the Secretary specify to the extent that those responsibilities relate to the releases of funds for projects that are covered by that certification.
 
@@ -2352,11 +2352,11 @@ Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially 
 
 (2) be executed by the Director of the Department of Hawaiian Home Lands;
 
-(3) specify that the Department of Hawaiian Home Lands has fully carried out its responsibilities as described under subsection (a) of this section; and
+(3) specify that the Department of Hawaiian Home Lands has fully carried out its responsibilities as described under subsection (a); and
 
 (4) specify that the Director—
 
-  (A) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) and each provision of law specified in regulations issued by the Secretary to the extent that those laws apply by reason of subsection (a) of this section; and
+  (A) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) and each provision of law specified in regulations issued by the Secretary to the extent that those laws apply by reason of subsection (a); and
 
   (B) is authorized and consents on behalf of the Department of Hawaiian Home Lands and the Director to accept the jurisdiction of the Federal courts for the purpose of enforcement of the responsibilities of the Director of the Department of Hawaiian Home Lands as such an official.
 
@@ -2442,7 +2442,7 @@ Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sect
 
 (1) develop or to support affordable housing for rental or homeownership; or
 
-(2) provide housing services with respect to affordable housing, through the activities described in subsection (b) of this section.
+(2) provide housing services with respect to affordable housing, through the activities described in subsection (b).
 
 **(b) Activities** The activities described in this subsection are the following:
 
@@ -2582,7 +2582,7 @@ Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sect
 
     (ii) is not for the purpose of avoiding low-income affordability restrictions, as determined by the Secretary.
 
-**(b) Exception** Notwithstanding subsection (a) of this section, housing assistance pursuant to [section 4228(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4228/a/2/B&num=0&edition=prelim) shall be considered affordable housing for purposes of this subchapter.
+**(b) Exception** Notwithstanding subsection (a), housing assistance pursuant to [section 4228(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4228/a/2/B&num=0&edition=prelim) shall be considered affordable housing for purposes of this subchapter.
 
 ### Statutory Notes
 
@@ -2660,7 +2660,7 @@ Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sect
 ## § 4240. Allocation formula
 **(a) Establishment** The Secretary shall, by regulation issued not later than the expiration of the 6-month period beginning on December 27, 2000, in the manner provided under [section 4227 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4227), establish a formula to provide for the allocation of amounts available for a fiscal year for block grants under this subchapter in accordance with the requirements of this section.
 
-**(b) Factors for determination of need** The formula under subsection (a) of this section shall be based on factors that reflect the needs for assistance for affordable housing activities, including—
+**(b) Factors for determination of need** The formula under subsection (a) shall be based on factors that reflect the needs for assistance for affordable housing activities, including—
 
 (1) the number of low-income dwelling units owned or operated at the time pursuant to a contract between the Director and the Secretary;
 
@@ -2668,7 +2668,7 @@ Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sect
 
 (3) any other objectively measurable conditions that the Secretary and the Director may specify.
 
-**(c) Other factors for consideration** In establishing the formula under subsection (a) of this section, the Secretary shall consider the relative administrative capacities of the Department of Hawaiian Home Lands and other challenges faced by the Department, including—
+**(c) Other factors for consideration** In establishing the formula under subsection (a), the Secretary shall consider the relative administrative capacities of the Department of Hawaiian Home Lands and other challenges faced by the Department, including—
 
 (1) geographic distribution within Hawaiian Home Lands; and
 
@@ -2686,7 +2686,7 @@ Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially 
 ## § 4241. Remedies for noncompliance
 **(a) Actions by Secretary affecting grant amounts**
 
-(1) **In general** — Except as provided in subsection (b) of this section, if the Secretary finds after reasonable notice and opportunity for a hearing that the Department of Hawaiian Home Lands has failed to comply substantially with any provision of this subchapter, the Secretary shall—
+(1) **In general** — Except as provided in subsection (b), if the Secretary finds after reasonable notice and opportunity for a hearing that the Department of Hawaiian Home Lands has failed to comply substantially with any provision of this subchapter, the Secretary shall—
 
   (A) terminate payments under this subchapter to the Department;
 
@@ -2696,7 +2696,7 @@ Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially 
 
 (2) **Actions** — If the Secretary takes an action under subparagraph (A), (B), or (C) of paragraph (1), the Secretary shall continue that action until the Secretary determines that the failure by the Department to comply with the provision has been remedied by the Department and the Department is in compliance with that provision.
 
-**(b) Noncompliance because of a technical incapacity** The Secretary may provide technical assistance for the Department, either directly or indirectly, that is designed to increase the capability and capacity of the Director of the Department to administer assistance provided under this subchapter in compliance with the requirements under this subchapter if the Secretary makes a finding under subsection (a) of this section, but determines that the failure of the Department to comply substantially with the provisions of this subchapter—
+**(b) Noncompliance because of a technical incapacity** The Secretary may provide technical assistance for the Department, either directly or indirectly, that is designed to increase the capability and capacity of the Director of the Department to administer assistance provided under this subchapter in compliance with the requirements under this subchapter if the Secretary makes a finding under subsection (a), but determines that the failure of the Department to comply substantially with the provisions of this subchapter—
 
 (1) is not a pattern or practice of activities constituting willful noncompliance; and
 
@@ -2704,7 +2704,7 @@ Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially 
 
 **(c) Referral for civil action**
 
-(1) **Authority** — In lieu of, or in addition to, any action that the Secretary may take under subsection (a) of this section, if the Secretary has reason to believe that the Department of Hawaiian Home Lands has failed to comply substantially with any provision of this subchapter, the Secretary may refer the matter to the Attorney General of the United States with a recommendation that an appropriate civil action be instituted.
+(1) **Authority** — In lieu of, or in addition to, any action that the Secretary may take under subsection (a), if the Secretary has reason to believe that the Department of Hawaiian Home Lands has failed to comply substantially with any provision of this subchapter, the Secretary may refer the matter to the Attorney General of the United States with a recommendation that an appropriate civil action be instituted.
 
 (2) **Civil action** — Upon receiving a referral under paragraph (1), the Attorney General may bring a civil action in any United States district court of appropriate jurisdiction for such relief as may be appropriate, including an action—
 
@@ -2714,7 +2714,7 @@ Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially 
 
 **(d) Review**
 
-(1) **In general** — If the Director receives notice under subsection (a) of this section of the termination, reduction, or limitation of payments under this chapter, the Director—
+(1) **In general** — If the Director receives notice under subsection (a) of the termination, reduction, or limitation of payments under this chapter, the Director—
 
   (A) may, not later than 60 days after receiving such notice, file with the United States Court of Appeals for the Ninth Circuit, or in the United States Court of Appeals for the District of Columbia, a petition for review of the action of the Secretary; and
 

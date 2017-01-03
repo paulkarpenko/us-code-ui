@@ -309,7 +309,7 @@ The United States Government is not liable for any debts, defaults, acts, or omi
 
   (B) $750,000 for each of the fiscal years 2010 through 2011; and
 
-  (C) $1,000,000 for each of the fiscal years 2012 through 2016.
+  (C) $1,000,000 for each of the fiscal years 2012 through 2026.
 
 (2) **Matching.—** — The amounts authorized to be appropriated under this subsection are to be made available to the corporation to match any private contributions (whether in currency, services, or property) made to the corporation by private persons and State and local governments.
 
@@ -326,6 +326,8 @@ The United States Government is not liable for any debts, defaults, acts, or omi
 The Internal Revenue Code of 1986, referred to in subsec. (b), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+2016—Subsec. (a)(1)(C). Pub. L. 114–217 substituted “through 2026” for “through 2016”.
+
 2008—Subsec. (a). Pub. L. 110–336, which directed that subsec. (a) be “amended to read as follows: by inserting after the first sentence the following:” and then set out subsec. (a) designation and heading and pars. (1) and (2), was executed by substituting the new subsec. (a) designation, heading, and pars. for the existing subsec. (a) to reflect the probable intent of Congress. Prior to amendment, text read as follows: “There are authorized to be appropriated to the Library of Congress amounts necessary to carry out this chapter, not to exceed $530,000 for each of the fiscal years 2005 through 2009. These amounts are to be made available to the corporation to match any private contributions (whether in currency, services, or property) made to the corporation by private persons and State and local governments.”
 
 2005—Pub. L. 109–9 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:

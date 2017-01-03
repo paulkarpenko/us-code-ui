@@ -60,7 +60,7 @@ Each civilian member, as a part of his contract of employment, shall carry, duri
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
 | 7082 | [34 U.S.C. 1073](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section1073&num=0&edition=prelim). | Jan. 16, 1936, ch. 3, § 1, 49 Stat. 1092. |
 
-The words “whose employment commences from and after the date of approval of this act” are omitted as surplusage. Under § 4 of the Act, members already employed when the Act was approved were given 60 days in which to decide whether or not they wished to participate in the benefits provided by the Act. Those who chose not to participate are excluded from the application of this chapter by [§ 7081 of this title](./chapter-607-retirement-of-civilian-members-of-the-teaching-staffs-of-the-united-states-naval-academy-and-united-states-naval-postgraduate-school.md#section-7081).
+The words “whose employment commences from and after the date of approval of this act” are omitted as surplusage. Under § 4 of the Act, members already employed when the Act was approved were given 60 days in which to decide whether or not they wished to participate in the benefits provided by the Act. Those who chose not to participate are excluded from the application of this chapter by § 7081 of this title.
 
 
 <a id="section-7083"></a>

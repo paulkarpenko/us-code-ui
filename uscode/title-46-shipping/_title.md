@@ -2,7 +2,7 @@
 title: 46
 heading: SHIPPING
 positive_law: false
-sections: 915
+sections: 922
 chapters: 99
 ---
 # Title 46. SHIPPING

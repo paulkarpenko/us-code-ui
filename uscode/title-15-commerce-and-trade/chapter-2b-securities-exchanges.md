@@ -2,7 +2,7 @@
 title: 15
 chapter: 2B
 heading: SECURITIES EXCHANGES
-section_count: 93
+section_count: 94
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -15,6 +15,9 @@ This chapter may be cited as the “Securities Exchange Act of 1934.”
 
 #### References in Text
 This chapter, referred to in text, was in the original “This Act” meaning the Securities Exchange Act of 1934, act June 6, 1934, ch. 404. The act was divided into two titles as follows: “Title I—Regulation of Securities Exchanges” and “Title II—Amendments to Securities Act of 1933.” This section was section 1 of title I of the Act, which title, as amended, is set out as sections 78a to 78d–5, 78e to 78l, 78m, 78m–1, 78n to 78o, 78o–3, 78o–4, 78o–5 to 78o–7, 78o–10 to 78u–6, 78v to 78dd–1, 78ee to 78hh, 78mm, and 78pp of this title. Sections 78kk, 78ll, 78nn, and 78oo of this title, which were directed to be added at the end of the Securities Exchange Act of 1934, have been treated in the Code as added to title I of the Act to reflect the probable intent of Congress. See Codification notes set out under those sections. Title II of the act amended or repealed sections 77b to 77e, 77j, 77k, 77m, 77o, and 77s, and added former sections 78ii and 78jj of this title. For complete classification of this Act to the Code, see Tables.
+
+#### Short Title of 2016 Amendment
+Pub. L. 114–284, § 1, Dec. 16, 2016, 130 Stat. 1447, provided that: “This Act [enacting [section 78qq of this title](./chapter-2b-securities-exchanges.md#section-78qq) and amending sections 78d and 80c–1 of this title] may be cited as the ‘SEC Small Business Advocate Act of 2016’.”
 
 #### Short Title of 2012 Amendment
 Pub. L. 112–106, § 1, Apr. 5, 2012, 126 Stat. 306, provided that: “This Act [enacting [section 77d–1 of this title](./chapter-2a-securities-and-trust-indentures.md#section-77d-1), amending sections 77b, 77c, 77d, 77e to 77g, 77r, 78c, 78k–1, 78l, 78m, 78n, 78n–1, 78o, 78o–6, 7213, and 7262 of this title, enacting provisions set out as notes under sections 77a, 77b, 77d, 77g, 77r, 78c, 78d, 78l, and 78o–6 of this title, and amending provisions set out as a note under section 78l of this title] may be cited as the ‘Jumpstart Our Business Startups Act’.”
@@ -1848,9 +1851,19 @@ Section effective on the later of 360 days after July 21, 2010, or, to the exten
 
 (4) **Treatment of affiliates**
 
-  (A) *In general* — An affiliate of a person that qualifies for an exception under this subsection (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate, acting on behalf of the person and as an agent, uses the security-based swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity.
+  (A) *In general* — An affiliate of a person that qualifies for an exception under this subsection (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate—
 
-  (B) *Prohibition relating to certain affiliates* — The exception in subparagraph (A) shall not apply if the affiliate is—
+    (i) enters into the security-based swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity, and the commercial risk that the affiliate is hedging or mitigating has been transferred to the affiliate;
+
+    (ii) is directly and wholly-owned by another affiliate qualified for the exception under this paragraph or an entity that is not a financial entity;
+
+    (iii) is not indirectly majority-owned by a financial entity;
+
+    (iv) is not ultimately owned by a parent company that is a financial entity; and
+
+    (v) does not provide any services, financial or otherwise, to any affiliate that is a nonbank financial company supervised by the Board of Governors (as defined under [section 5311 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5311&num=0&edition=prelim)).
+
+  (B) *Limitation on qualifying affiliates* — The exception in subparagraph (A) shall not apply if the affiliate is—
 
     (i) a swap dealer;
 
@@ -1860,13 +1873,43 @@ Section effective on the later of 360 days after July 21, 2010, or, to the exten
 
     (iv) a major security-based swap participant;
 
-    (v) an issuer that would be an investment company, as defined in [section 80a–3 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-3), but for paragraph (1) or (7) of subsection (c) of that section;
+    (v) a commodity pool;
 
-    (vi) a commodity pool; or
+    (vi) a bank holding company;
 
-    (vii) a bank holding company with over $50,000,000,000 in consolidated assets.
+    (vii) a private fund, as defined in [section 80b–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–2/a&num=0&edition=prelim);
 
-  (C) *Transition rule for affiliates* — An affiliate, subsidiary, or a wholly owned entity of a person that qualifies for an exception under subparagraph (A) and is predominantly engaged in providing financing for the purchase or lease of merchandise or manufactured goods of the person shall be exempt from the margin requirement described in section 78o–10(e) of this title and the clearing requirement described in subsection (a) with regard to security-based swaps entered into to mitigate the risk of the financing activities for not less than a 2-year period beginning on July 21, 2010.
+    (viii) an employee benefit plan or government 11 So in original. Probably should be “governmental”. plan, as defined in paragraphs (3) and (32) of [section 1002 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002&num=0&edition=prelim);
+
+    (ix) an insured depository institution;
+
+    (x) a farm credit system institution;
+
+    (xi) a credit union;
+
+    (xii) a nonbank financial company supervised by the Board of Governors (as defined under [section 5311 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5311&num=0&edition=prelim)); or
+
+    (xiii) an entity engaged in the business of insurance and subject to capital requirements established by an insurance governmental authority of a State, a territory of the United States, the District of Columbia, a country other than the United States, or a political subdivision of a country other than the United States that is engaged in the supervision of insurance companies under insurance law.
+
+  (C) *Limitation on affiliates’ affiliates* — Unless the Commission determines, by order, rule, or regulation, that it is in the public interest, the exception in subparagraph (A) shall not apply with respect to an affiliate if such affiliate is itself affiliated with—
+
+    (i) a major security-based swap participant;
+
+    (ii) a security-based swap dealer;
+
+    (iii) a major swap participant; or
+
+    (iv) a swap dealer.
+
+  (D) *Conditions on transactions* — With respect to an affiliate that qualifies for the exception in subparagraph (A)—
+
+    (i) such affiliate may not enter into any security-based swap other than for the purpose of hedging or mitigating commercial risk; and
+
+    (ii) neither such affiliate nor any person affiliated with such affiliate that is not a financial entity may enter into a security-based swap with or on behalf of any affiliate that is a financial entity or otherwise assume, net, combine, or consolidate the risk of security-based swaps entered into by any such financial entity, except one that is an affiliate that qualifies for the exception under subparagraph (A).
+
+  (E) *Transition rule for affiliates* — An affiliate, subsidiary, or a wholly owned entity of a person that qualifies for an exception under subparagraph (A) and is predominantly engaged in providing financing for the purchase or lease of merchandise or manufactured goods of the person shall be exempt from the margin requirement described in section 78o–10(e) of this title and the clearing requirement described in subsection (a) with regard to security-based swaps entered into to mitigate the risk of the financing activities for not less than a 2-year period beginning on July 21, 2010.
+
+  (F) *Risk management program* — Any security-based swap entered into by an affiliate that qualifies for the exception in subparagraph (A) shall be subject to a centralized risk management program of the affiliate, which is reasonably designed both to monitor and manage the risks associated with the security-based swap and to identify each of the affiliates on whose behalf a security-based swap was entered into.
 
 (5) **Election of counterparty**
 
@@ -1942,6 +1985,9 @@ This chapter, referred to in subsecs. (a)(1) and (d)(1), was in the original “
 For the effective date of this section, referred to in subsec. (e), see section 774 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under [section 77b of this title](./chapter-2a-securities-and-trust-indentures.md#section-77b).
 
 Subsection (c) of that section, referred to in subsec. (g)(4)(B)(v), was in the original “subsection (c) of that Act”, and was translated as meaning subsec. (c) of section 3 of act Aug. 22, 1940, ch. 686, to reflect the probable intent of Congress.
+
+#### Amendments
+2015—Subsec. (g)(4). Pub. L. 114–113 added subpars. (A) to (D) and (F), redesignated former subpar. (C) as (E), and struck out former subpars. (A) and (B) which related to application of exception to affiliates and prohibition relating to certain affiliates, respectively.
 
 #### Effective Date
 Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§ 761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under [section 77b of this title](./chapter-2a-securities-and-trust-indentures.md#section-77b).
@@ -2351,12 +2397,90 @@ Section effective on the later of 360 days after July 21, 2010, or, to the exten
 
 (4) **Rule of construction** — Amounts collected and deposited in the Reserve Fund shall not be construed to be Government funds or appropriated monies and shall not be subject to apportionment for the purpose of chapter 15 of title 31 or under any other authority.
 
+**(j) Office of the Advocate for Small Business Capital Formation**
+
+(1) **Office established** — There is established within the Commission the Office of the Advocate for Small Business Capital Formation (hereafter in this subsection referred to as the “Office”).
+
+(2) **Advocate for Small Business Capital Formation**
+
+  (A) *In general* — The head of the Office shall be the Advocate for Small Business Capital Formation, who shall—
+
+    (i) report directly to the Commission; and
+
+    (ii) be appointed by the Commission, from among individuals having experience in advocating for the interests of small businesses and encouraging small business capital formation.
+
+  (B) *Compensation* — The annual rate of pay for the Advocate for Small Business Capital Formation shall be equal to the highest rate of annual pay for other senior executives who report directly to the Commission.
+
+  (C) *No current employee of the Commission* — An individual may not be appointed as the Advocate for Small Business Capital Formation if the individual is currently employed by the Commission.
+
+(3) **Staff of Office** — The Advocate for Small Business Capital Formation, after consultation with the Commission, may retain or employ independent counsel, research staff, and service staff, as the Advocate for Small Business Capital Formation determines to be necessary to carry out the functions of the Office.
+
+(4) **Functions of the Advocate for Small Business Capital Formation** — The Advocate for Small Business Capital Formation shall—
+
+  (A) assist small businesses and small business investors in resolving significant problems such businesses and investors may have with the Commission or with self-regulatory organizations;
+
+  (B) identify areas in which small businesses and small business investors would benefit from changes in the regulations of the Commission or the rules of self-regulatory organizations;
+
+  (C) identify problems that small businesses have with securing access to capital, including any unique challenges to minority-owned and women-owned small businesses;
+
+  (D) analyze the potential impact on small businesses and small business investors of—
+
+    (i) proposed regulations of the Commission that are likely to have a significant economic impact on small businesses and small business capital formation; and
+
+    (ii) proposed rules that are likely to have a significant economic impact on small businesses and small business capital formation of self-regulatory organizations registered under this chapter;
+
+  (E) conduct outreach to small businesses and small business investors, including through regional roundtables, in order to solicit views on relevant capital formation issues;
+
+  (F) to the extent practicable, propose to the Commission changes in the regulations or orders of the Commission and to Congress any legislative, administrative, or personnel changes that may be appropriate to mitigate problems identified under this paragraph and to promote the interests of small businesses and small business investors;
+
+  (G) consult with the Investor Advocate on proposed recommendations made under subparagraph (F); and
+
+  (H) advise the Investor Advocate on issues related to small businesses and small business investors.
+
+(5) **Access to documents** — The Commission shall ensure that the Advocate for Small Business Capital Formation has full access to the documents and information of the Commission and any self-regulatory organization, as necessary to carry out the functions of the Office.
+
+(6) **Annual report on activities**
+
+  (A) *In general* — Not later than December 31 of each year after 2015, the Advocate for Small Business Capital Formation shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the activities of the Advocate for Small Business Capital Formation during the immediately preceding fiscal year.
+
+  (B) *Contents* — Each report required under subparagraph (A) shall include—
+
+    (i) appropriate statistical information and full and substantive analysis;
+
+    (ii) information on steps that the Advocate for Small Business Capital Formation has taken during the reporting period to improve small business services and the responsiveness of the Commission and self-regulatory organizations to small business and small business investor concerns;
+
+    (iii) a summary of the most serious issues encountered by small businesses and small business investors, including any unique issues encountered by minority-owned and women-owned small businesses and their investors, during the reporting period;
+
+    (iv) an inventory of the items summarized under clause (iii) (including items summarized under such clause for any prior reporting period on which no action has been taken or that have not been resolved to the satisfaction of the Advocate for Small Business Capital Formation as of the beginning of the reporting period covered by the report) that includes—
+
+      (I) identification of any action taken by the Commission or the self-regulatory organization and the result of such action;
+
+      (II) the length of time that each item has remained on such inventory; and
+
+      (III) for items on which no action has been taken, the reasons for inaction, and an identification of any official who is responsible for such action;
+
+    (v) recommendations for such changes to the regulations, guidance and orders of the Commission and such legislative actions as may be appropriate to resolve problems with the Commission and self-regulatory organizations encountered by small businesses and small business investors and to encourage small business capital formation; and
+
+    (vi) any other information, as determined appropriate by the Advocate for Small Business Capital Formation.
+
+  (C) *Confidentiality* — No report required by subparagraph (A) may contain confidential information.
+
+  (D) *Independence* — Each report required under subparagraph (A) shall be provided directly to the committees of Congress listed in such subparagraph without any prior review or comment from the Commission, any commissioner, any other officer or employee of the Commission, or the Office of Management and Budget.
+
+(7) **Regulations** — The Commission shall establish procedures requiring a formal response to all recommendations submitted to the Commission by the Advocate for Small Business Capital Formation, not later than 3 months after the date of such submission.
+
+(8) **Government-Business Forum on Small Business Capital Formation** — The Advocate for Small Business Capital Formation shall be responsible for planning, organizing, and executing the annual Government-Business Forum on Small Business Capital Formation described in [section 80c–1 of this title](./chapter-2e-omnibus-small-business-capital-formation.md#section-80c-1).
+
+(9) **Rule of construction** — Nothing in this subsection may be construed as replacing or reducing the responsibilities of the Investor Advocate with respect to small business investors.
+
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a) and (g)(4)(D)(ii), was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
+This chapter, referred to in subsecs. (a), (g)(4)(D)(ii), and (j)(4)(D)(ii), was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
 
 #### Amendments
+2016—Subsec. (j). Pub. L. 114–284 added subsec. (j).
+
 2010—Subsec. (g). Pub. L. 111–203, § 915, added subsec. (g).
 
 Subsec. (g)(8). Pub. L. 111–203, § 919D, added par. (8).
@@ -3435,9 +3559,11 @@ Pub. L. 107–123, § 9, Jan. 16, 2002, 115 Stat. 2400, provided that: “(a) St
 Pub. L. 104–208, div. A, title I, § 101(a) [title V], Sept. 30, 1996, 110 Stat. 3009, 3009–61, provided in part: “That effective January 1, 1997, every national securities association shall pay to the Commission a fee at a rate of one-three-hundredth of one percentum of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange (other than bonds, debentures, and other evidences of indebtedness) subject to prompt last sale reporting pursuant to the rules of the Commission or a registered national securities association, excluding any sales for which a fee is paid under section 31 of the Securities Exchange Act of 1934 ([15 U.S.C. 78ee](./chapter-2b-securities-exchanges.md#section-78ee)), and such increase shall be deposited as an offsetting collection to this appropriation, to remain available until expended, to recover the costs to the Government of the supervision and regulation of securities markets and securities professionals: Provided further, That the fee due from every national securities association shall be paid on or before September 30, 1997, with respect to transactions and sales occurring during the period beginning on January 1, 1997, and ending at the close of August 31, 1997”.
 
 #### Adjustment of Transaction Fee Rate
+By order dated Jan. 7, 2016, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $21.80 per $1,000,000, effective Feb. 16, 2016, see 81 F.R. 1458.
+
 By order dated Jan. 15, 2015, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $18.40 per $1,000,000, effective Feb. 14, 2015, see 80 F.R. 2978.
 
-By order dated Feb. 12, 2015, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $22.10 per $1,000,000, effective Mar. 18, 2014, see 79 F.R. 9504.
+By order dated Feb. 12, 2014, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $22.10 per $1,000,000, effective Mar. 18, 2014, see 79 F.R. 9504.
 
 By order dated Apr. 25, 2013, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $17.40 per $1,000,000, effective May 25, 2013, see 78 F.R. 25515.
 
@@ -5056,7 +5182,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
     (ii) 500 persons who are not accredited investors (as such term is defined by the Commission), and
 
-  (B) in the case of an issuer that is a bank or a bank holding company, as such term is defined in [section 1841 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1841&num=0&edition=prelim), not later than 120 days after the last day of its first fiscal year ended after the effective date of this subsection, on which the issuer has total assets exceeding $10,000,000 and a class of equity security (other than an exempted security) held of record by 2,000 or more persons,
+  (B) in the case of an issuer that is a bank, a savings and loan holding company (as defined in [section 1467a of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1467a&num=0&edition=prelim)), or a bank holding company, as such term is defined in [section 1841 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1841&num=0&edition=prelim), not later than 120 days after the last day of its first fiscal year ended after the effective date of this subsection, on which the issuer has total assets exceeding $10,000,000 and a class of equity security (other than an exempted security) held of record by 2,000 or more persons,
   register such security by filing with the Commission a registration statement (and such copies thereof as the Commission may require) with respect to such security containing such information and documents as the Commission may specify comparable to that which is required in an application to register a security pursuant to subsection (b) of this section. Each such registration statement shall become effective sixty days after filing with the Commission or within such shorter period as the Commission may direct. Until such registration statement becomes effective it shall not be deemed filed for the purposes of [section 78r of this title](./chapter-2b-securities-exchanges.md#section-78r). Any issuer may register any class of equity security not required to be registered by filing a registration statement pursuant to the provisions of this paragraph. The Commission is authorized to extend the date upon which any issuer or class of issuers is required to register a security pursuant to the provisions of this paragraph.
 
 (2) The provisions of this subsection shall not apply in respect of—
@@ -5085,7 +5211,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 (3) The Commission may by rules or regulations or, on its own motion, after notice and opportunity for hearing, by order, exempt from this subsection any security of a foreign issuer, including any certificate of deposit for such a security, if the Commission finds that such exemption is in the public interest and is consistent with the protection of investors.
 
-(4) Registration of any class of security pursuant to this subsection shall be terminated ninety days, or such shorter period as the Commission may determine, after the issuer files a certification with the Commission that the number of holders of record of such class of security is reduced to less than 300 persons, or, in the case of a bank or a bank holding company, as such term is defined in [section 1841 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1841&num=0&edition=prelim), 1,200 persons persons.11 So in original. The Commission shall after notice and opportunity for hearing deny termination of registration if it finds that the certification is untrue. Termination of registration shall be deferred pending final determination on the question of denial.
+(4) Registration of any class of security pursuant to this subsection shall be terminated ninety days, or such shorter period as the Commission may determine, after the issuer files a certification with the Commission that the number of holders of record of such class of security is reduced to less than 300 persons, or, in the case of a bank, a savings and loan holding company (as defined in [section 1467a of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1467a&num=0&edition=prelim)), or a bank holding company, as such term is defined in [section 1841 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1841&num=0&edition=prelim), 1,200 persons persons.11 So in original. The Commission shall after notice and opportunity for hearing deny termination of registration if it finds that the certification is untrue. Termination of registration shall be deferred pending final determination on the question of denial.
 
 (5) For the purposes of this subsection the term “class” shall include all securities of an issuer which are of substantially similar character and the holders of which enjoy substantially similar rights and privileges. The Commission may for the purpose of this subsection define by rules and regulations the terms “total assets” and “held of record” as it deems necessary or appropriate in the public interest or for the protection of investors in order to prevent circumvention of the provisions of this subsection. For purposes of this subsection, a security futures product shall not be considered a class of equity security of the issuer of the securities underlying the security futures product. For purposes of determining whether an issuer is required to register a security with the Commission pursuant to paragraph (1), the definition of “held of record” shall not include securities held by persons who received the securities pursuant to an employee compensation plan in transactions exempted from the registration requirements of section 5 of the Securities Act of 1933 [[15 U.S.C. 77e](./chapter-2a-securities-and-trust-indentures.md#section-77e)].
 
@@ -5172,6 +5298,10 @@ Section 4(6) of the Securities Act of 1933, referred to in subsec. (g)(6), was r
 The Federal Deposit Insurance Act, referred to in subsec. (i), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (g)(1)(B). Pub. L. 114–94, § 85001(1)(A), inserted “, a savings and loan holding company (as defined in [section 1467a of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1467a&num=0&edition=prelim)),” after “is a bank”.
+
+Subsec. (g)(4). Pub. L. 114–94, § 85001(1)(B), inserted “, a savings and loan holding company (as defined in [section 1467a of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1467a&num=0&edition=prelim)),” after “case of a bank”.
+
 2012—Subsec. (g)(1)(A). Pub. L. 112–106, § 501, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “within one hundred and twenty days after the last day of its first fiscal year ended after July 1, 1964, on which the issuer has total assets exceeding $1,000,000 and a class of equity security (other than an exempted security) held of record by seven hundred and fifty or more persons; and”.
 
 Subsec. (g)(1)(B). Pub. L. 112–106, § 601(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “within one hundred and twenty days after the last day of its first fiscal year ended after two years from July 1, 1964, on which the issuer has total assets exceeding $1,000,000 and a class of equity security (other than an exempted security) held of record by five hundred or more but less than seven hundred and fifty persons,”.
@@ -5661,7 +5791,7 @@ Every issuer of a security registered on a national securities exchange shall al
 
   (F) maintain the privacy of any and all security-based swap transaction information that the security-based swap data repository receives from a security-based swap dealer, counterparty, or any other registered entity; and
 
-  (G) on a confidential basis pursuant to [section 78x of this title](./chapter-2b-securities-exchanges.md#section-78x), upon request, and after notifying the Commission of the request, make available all data obtained by the security-based swap data repository, including individual counterparty trade and position data, to—
+  (G) on a confidential basis pursuant to [section 78x of this title](./chapter-2b-securities-exchanges.md#section-78x), upon request, and after notifying the Commission of the request, make available security-based swap data obtained by the security-based swap data repository, including individual counterparty trade and position data, to—
 
     (i) each appropriate prudential regulator;
 
@@ -5675,15 +5805,13 @@ Every issuer of a security registered on a national securities exchange shall al
 
       (I) foreign financial supervisors (including foreign futures authorities);
 
-      (II) foreign central banks; and
+      (II) foreign central banks;
 
-      (III) foreign ministries.
+      (III) foreign ministries; and
 
-  (H) *Confidentiality and indemnification agreement.—* — Before the security-based swap data repository may share information with any entity described in subparagraph (G)—
+      (IV) other foreign authorities.
 
-    (i) the security-based swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in [section 78x of this title](./chapter-2b-securities-exchanges.md#section-78x) relating to the information on security-based swap transactions that is provided; and
-
-    (ii) each entity shall agree to indemnify the security-based swap data repository and the Commission for any expenses arising from litigation relating to the information provided under [section 78x of this title](./chapter-2b-securities-exchanges.md#section-78x).
+  (H) *Confidentiality agreement.—* — Before the security-based swap data repository may share information with any entity described in subparagraph (G), the security-based swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in [section 78x of this title](./chapter-2b-securities-exchanges.md#section-78x) relating to the information on security-based swap transactions that is provided.
 
 (6) **Designation of chief compliance officer**
 
@@ -5942,6 +6070,12 @@ Executive Order No. 13224, referred to in subsec. (r)(1)(D)(i), is Ex. Ord. No. 
 Executive Order No. 13382, referred to in subsec. (r)(1)(D)(ii), is Ex. Ord. No. 13382, June 28, 2005, 70 F.R. 38567, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
 
 #### Amendments
+2015—Subsec. (n)(5)(G). Pub. L. 114–94, § 86001(c)(1)(A), substituted “make available security-based swap” for “make available all” in introductory provisions.
+
+Subsec. (n)(5)(G)(v)(IV). Pub. L. 114–94, § 86001(c)(1)(B), added subcl. (IV)
+
+Subsec. (n)(5)(H). Pub. L. 114–94, § 86001(c)(2), added subpar. (H) and struck out former subpar. (H) which related to confidentiality and indemnification agreement.
+
 2012—Subsec. (a). Pub. L. 112–106 inserted at end of concluding provisions “In any registration statement, periodic report, or other reports to be filed with the Commission, an emerging growth company need not present selected financial data in accordance with section 229.301 of title 17, Code of Federal Regulations, for any period prior to the earliest audited period presented in connection with its first registration statement that became effective under this chapter or the Securities Act of 1933 and, with respect to any such statement or reports, an emerging growth company may not be required to comply with any new or revised financial accounting standard until such date that a company that is not an issuer (as defined under [section 7201 of this title](./chapter-098-public-company-accounting-reform-and-corporate-responsibility.md#section-7201)) is required to comply with such new or revised accounting standard, if such standard applies to companies that are not issuers.”
 
 Subsec. (r). Pub. L. 112–158 added subsec. (r).
@@ -6024,6 +6158,9 @@ Subsec. (e)(2). Pub. L. 91–567, § 2, inserted provisions empowering the Commi
 
 1964—Subsec. (a). Pub. L. 88–467 substituted provisions which require the issuer of a security registered pursuant to section 78l of this title to file reports with the Commission rather than with the exchange and to furnish the exchange with duplicate originals and prohibit the Commission from requiring the filing of any material contract wholly executed before July 1, 1962 for former provisions which required the issuer of a security registered on a national securities exchange to file certain reports with the exchange and to file duplicates with the Commission.
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective as if enacted as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. 111–203, see section 86001(d) of Pub. L. 114–94, set out as a note under [section 7a–1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7a–1&num=0&edition=prelim), Agriculture.
+
 #### Effective Date of 2012 Amendment
 Pub. L. 112–158, title II, § 219(b), Aug. 10, 2012, 126 Stat. 1236, provided that: “The amendment made by subsection (a) [amending this section] shall take effect with respect to reports required to be filed with the Securities and Exchange Commission after the date that is 180 days after the date of the enactment of this Act [Aug. 10, 2012].”
 
@@ -6049,11 +6186,14 @@ Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L.
 #### Transfer of Functions
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
+#### Summary Page for Form 10–K
+Pub. L. 114–94, div. G, title LXXII, § 72001, Dec. 4, 2015, 129 Stat. 1784, provided that: “Not later than the end of the 180-day period beginning on the date of the enactment of this Act [Dec. 4, 2015], the Securities and Exchange Commission shall issue regulations to permit issuers to submit a summary page on form 10–K (17 CFR 249.310), but only if each item on such summary page includes a cross-reference (by electronic link or otherwise) to the material contained in form 10–K to which such item relates.”
+
 #### Elimination of Exemption From Fair Disclosure Rule
 Pub. L. 111–203, title IX, § 939B, July 21, 2010, 124 Stat. 1887, provided that: “Not later than 90 days after the date of enactment of this subtitle [July 21, 2010], the Securities [and] Exchange Commission shall revise Regulation FD (17 C.F.R. 243.100) to remove from such regulation the exemption for entities whose primary business is the issuance of credit ratings (17 C.F.R. 243.100(b)(2)(iii)).”
 
 #### Conflict Minerals
-Pub. L. 111–203, title XV, § 1502, July 21, 2010, 124 Stat. 2213, provided that: “(a) Sense of Congress on Exploitation and Trade of Conflict Minerals Originating in the Democratic Republic of the Congo.—It is the sense of Congress that the exploitation and trade of conflict minerals originating in the Democratic Republic of the Congo is helping to finance conflict characterized by extreme levels of violence in the eastern Democratic Republic of the Congo, particularly sexual- and gender-based violence, and contributing to an emergency humanitarian situation therein, warranting the provisions of section 13(p) of the Securities Exchange Act of 1934 [[15 U.S.C. 78m(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m/p&num=0&edition=prelim)], as added by subsection (b). “(b) [Amended this section.] “(c) Strategy and Map to Address Linkages Between Conflict Minerals and Armed Groups.—“(1) Strategy.—“(A) In general.—Not later than 180 days after the date of the enactment of this Act [July 21, 2010], the Secretary of State, in consultation with the Administrator of the United States Agency for International Development, shall submit to the appropriate congressional committees a strategy to address the linkages between human rights abuses, armed groups, mining of conflict minerals, and commercial products. “(B) Contents.—The strategy required by subparagraph (A) shall include the following:“(i) A plan to promote peace and security in the Democratic Republic of the Congo by supporting efforts of the Government of the Democratic Republic of the Congo, including the Ministry of Mines and other relevant agencies, adjoining countries, and the international community, in particular the United Nations Group of Experts on the Democratic Republic of Congo, to— “(I) monitor and stop commercial activities involving the natural resources of the Democratic Republic of the Congo that contribute to the activities of armed groups and human rights violations in the Democratic Republic of the Congo; and “(II) develop stronger governance and economic institutions that can facilitate and improve transparency in the cross-border trade involving the natural resources of the Democratic Republic of the Congo to reduce exploitation by armed groups and promote local and regional development. “(ii) A plan to provide guidance to commercial entities seeking to exercise due diligence on and formalize the origin and chain of custody of conflict minerals used in their products and on their suppliers to ensure that conflict minerals used in the products of such suppliers do not directly or indirectly finance armed conflict or result in labor or human rights violations. “(iii) A description of punitive measures that could be taken against individuals or entities whose commercial activities are supporting armed groups and human rights violations in the Democratic Republic of the Congo. “(2) Map.—“(A) In general.—Not later than 180 days after the date of the enactment of this Act [July 21, 2010], the Secretary of State shall, in accordance with the recommendation of the United Nations Group of Experts on the Democratic Republic of the Congo in their December 2008 report—“(i) produce a map of mineral-rich zones, trade routes, and areas under the control of armed groups in the Democratic Republic of the Congo and adjoining countries based on data from multiple sources, including— “(I) the United Nations Group of Experts on the Democratic Republic of the Congo; “(II) the Government of the Democratic Republic of the Congo, the governments of adjoining countries, and the governments of other Member States of the United Nations; and “(III) local and international nongovernmental organizations; “(ii) make such map available to the public; and “(iii) provide to the appropriate congressional committees an explanatory note describing the sources of information from which such map is based and the identification, where possible, of the armed groups or other forces in control of the mines depicted. “(B) Designation.—The map required under subparagraph (A) shall be known as the ‘Conflict Minerals Map’, and mines located in areas under the control of armed groups in the Democratic Republic of the Congo and adjoining countries, as depicted on such Conflict Minerals Map, shall be known as ‘Conflict Zone Mines’. “(C) Updates.—The Secretary of State shall update the map required under subparagraph (A) not less frequently than once every 180 days until the date on which the disclosure requirements under paragraph (1) of section 13(p) of the Securities Exchange Act of 1934 [[15 U.S.C. 78m(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m/p&num=0&edition=prelim)], as added by subsection (b), terminate in accordance with the provisions of paragraph (4) of such section 13(p). “(D) Publication in federal register.—The Secretary of State shall add minerals to the list of minerals in the definition of conflict minerals under section 1502 [amending this section and enacting this note], as appropriate. The Secretary shall publish in the Federal Register notice of intent to declare a mineral as a conflict mineral included in such definition not later than one year before such declaration. “(d) Reports.—“(1) Baseline report.—Not later than 1 year after the date of the enactment of this Act [July 21, 2010] and annually thereafter until the termination of the disclosure requirements under section 13(p) of the Securities Exchange Act of 1934 [[15 U.S.C. 78m(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m/p&num=0&edition=prelim)], the Comptroller General of the United States shall submit to appropriate congressional committees a report that includes an assessment of the rate of sexual- and gender-based violence in war-torn areas of the Democratic Republic of the Congo and adjoining countries. “(2) Regular report on effectiveness.—Not later than 2 years after the date of the enactment of this Act [July 21, 2010] and annually thereafter, the Comptroller General of the United States shall submit to the appropriate congressional committees a report that includes the following:“(A) An assessment of the effectiveness of section 13(p) of the Securities Exchange Act of 1934 [[15 U.S.C. 78m(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m/p&num=0&edition=prelim)], as added by subsection (b), in promoting peace and security in the Democratic Republic of the Congo and adjoining countries. “(B) A description of issues encountered by the Securities and Exchange Commission in carrying out the provisions of such section 13(p). “(C)(i) A general review of persons described in clause (ii) and whether information is publicly available about—“(I) the use of conflict minerals by such persons; and “(II) whether such conflict minerals originate from the Democratic Republic of the Congo or an adjoining country. “(ii) A person is described in this clause if—“(I) the person is not required to file reports with the Securities and Exchange Commission pursuant to section 13(p)(1)(A) of the Securities Exchange Act of 1934 [[15 U.S.C. 78m(p)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m/p/1/A&num=0&edition=prelim)], as added by subsection (b); and “(II) conflict minerals are necessary to the functionality or production of a product manufactured by such person. “(3) Report on private sector auditing.—Not later than 30 months after the date of the enactment of this Act [July 21, 2010], and annually thereafter, the Secretary of Commerce shall submit to the appropriate congressional committees a report that includes the following:“(A) An assessment of the accuracy of the independent private sector audits and other due diligence processes described under section 13(p) of the Securities Exchange Act of 1934 [[15 U.S.C. 78m(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m/p&num=0&edition=prelim)]. “(B) Recommendations for the processes used to carry out such audits, including ways to—“(i) improve the accuracy of such audits; and “(ii) establish standards of best practices. “(C) A listing of all known conflict mineral processing facilities worldwide. “(e) Definitions.—For purposes of this section:“(1) Adjoining country.—The term ‘adjoining country’, with respect to the Democratic Republic of the Congo, means a country that shares an internationally recognized border with the Democratic Republic of the Congo. “(2) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Appropriations, the Committee on Foreign Affairs, the Committee on Ways and Means, and the Committee on Financial Services of the House of Representatives; and “(B) the Committee on Appropriations, the Committee on Foreign Relations, the Committee on Finance, and the Committee on Banking, Housing, and Urban Affairs of the Senate. “(3) Armed group.—The term ‘armed group’ means an armed group that is identified as perpetrators of serious human rights abuses in the annual Country Reports on Human Rights Practices under sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151n(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151n/d&num=0&edition=prelim) and 2304(b)) relating to the Democratic Republic of the Congo or an adjoining country. “(4) Conflict mineral.—The term ‘conflict mineral’ means—“(A) columbite-tantalite (coltan), cassiterite, gold, wolframite, or their derivatives; or “(B) any other mineral or its derivatives determined by the Secretary of State to be financing conflict in the Democratic Republic of the Congo or an adjoining country. “(5) Under the control of armed groups.—The term ‘under the control of armed groups’ means areas within the Democratic Republic of the Congo or adjoining countries in which armed groups—“(A) physically control mines or force labor of civilians to mine, transport, or sell conflict minerals; “(B) tax, extort, or control any part of trade routes for conflict minerals, including the entire trade route from a Conflict Zone Mine to the point of export from the Democratic Republic of the Congo or an adjoining country; or “(C) tax, extort, or control trading facilities, in whole or in part, including the point of export from the Democratic Republic of the Congo or an adjoining country.”
+Pub. L. 111–203, title XV, § 1502, July 21, 2010, 124 Stat. 2213, as amended by Pub. L. 114–301, § 3(b), Dec. 16, 2016, 130 Stat. 1515, provided that: “(a) Sense of Congress on Exploitation and Trade of Conflict Minerals Originating in the Democratic Republic of the Congo.—It is the sense of Congress that the exploitation and trade of conflict minerals originating in the Democratic Republic of the Congo is helping to finance conflict characterized by extreme levels of violence in the eastern Democratic Republic of the Congo, particularly sexual- and gender-based violence, and contributing to an emergency humanitarian situation therein, warranting the provisions of section 13(p) of the Securities Exchange Act of 1934 [[15 U.S.C. 78m(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m/p&num=0&edition=prelim)], as added by subsection (b). “(b) [Amended this section.] “(c) Strategy and Map to Address Linkages Between Conflict Minerals and Armed Groups.—“(1) Strategy.—“(A) In general.—Not later than 180 days after the date of the enactment of this Act [July 21, 2010], the Secretary of State, in consultation with the Administrator of the United States Agency for International Development, shall submit to the appropriate congressional committees a strategy to address the linkages between human rights abuses, armed groups, mining of conflict minerals, and commercial products. “(B) Contents.—The strategy required by subparagraph (A) shall include the following:“(i) A plan to promote peace and security in the Democratic Republic of the Congo by supporting efforts of the Government of the Democratic Republic of the Congo, including the Ministry of Mines and other relevant agencies, adjoining countries, and the international community, in particular the United Nations Group of Experts on the Democratic Republic of Congo, to— “(I) monitor and stop commercial activities involving the natural resources of the Democratic Republic of the Congo that contribute to the activities of armed groups and human rights violations in the Democratic Republic of the Congo; and “(II) develop stronger governance and economic institutions that can facilitate and improve transparency in the cross-border trade involving the natural resources of the Democratic Republic of the Congo to reduce exploitation by armed groups and promote local and regional development. “(ii) A plan to provide guidance to commercial entities seeking to exercise due diligence on and formalize the origin and chain of custody of conflict minerals used in their products and on their suppliers to ensure that conflict minerals used in the products of such suppliers do not directly or indirectly finance armed conflict or result in labor or human rights violations. “(iii) A description of punitive measures that could be taken against individuals or entities whose commercial activities are supporting armed groups and human rights violations in the Democratic Republic of the Congo. “(2) Map.—“(A) In general.—Not later than 180 days after the date of the enactment of this Act [July 21, 2010], the Secretary of State shall, in accordance with the recommendation of the United Nations Group of Experts on the Democratic Republic of the Congo in their December 2008 report—“(i) produce a map of mineral-rich zones, trade routes, and areas under the control of armed groups in the Democratic Republic of the Congo and adjoining countries based on data from multiple sources, including— “(I) the United Nations Group of Experts on the Democratic Republic of the Congo; “(II) the Government of the Democratic Republic of the Congo, the governments of adjoining countries, and the governments of other Member States of the United Nations; and “(III) local and international nongovernmental organizations; “(ii) make such map available to the public; and “(iii) provide to the appropriate congressional committees an explanatory note describing the sources of information from which such map is based and the identification, where possible, of the armed groups or other forces in control of the mines depicted. “(B) Designation.—The map required under subparagraph (A) shall be known as the ‘Conflict Minerals Map’, and mines located in areas under the control of armed groups in the Democratic Republic of the Congo and adjoining countries, as depicted on such Conflict Minerals Map, shall be known as ‘Conflict Zone Mines’. “(C) Updates.—The Secretary of State shall update the map required under subparagraph (A) not less frequently than once every 180 days until the date on which the disclosure requirements under paragraph (1) of section 13(p) of the Securities Exchange Act of 1934 [[15 U.S.C. 78m(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m/p&num=0&edition=prelim)], as added by subsection (b), terminate in accordance with the provisions of paragraph (4) of such section 13(p). “(D) Publication in federal register.—The Secretary of State shall add minerals to the list of minerals in the definition of conflict minerals under section 1502 [amending this section and enacting this note], as appropriate. The Secretary shall publish in the Federal Register notice of intent to declare a mineral as a conflict mineral included in such definition not later than one year before such declaration. “(d) Reports.—“(1) Baseline report.—Not later than 1 year after the date of the enactment of this Act [July 21, 2010] and annually thereafter through 2020, in 2022, and in 2024, the Comptroller General of the United States shall submit to appropriate congressional committees a report that includes an assessment of the rate of sexual- and gender-based violence in war-torn areas of the Democratic Republic of the Congo and adjoining countries. “(2) Regular report on effectiveness.—Not later than 2 years after the date of the enactment of this Act [July 21, 2010] and annually thereafter through 2020, in 2022, and in 2024, the Comptroller General of the United States shall submit to the appropriate congressional committees a report that includes the following:“(A) An assessment of the effectiveness of section 13(p) of the Securities Exchange Act of 1934 [[15 U.S.C. 78m(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m/p&num=0&edition=prelim)], as added by subsection (b), in promoting peace and security in the Democratic Republic of the Congo and adjoining countries. “(B) A description of issues encountered by the Securities and Exchange Commission in carrying out the provisions of such section 13(p). “(C)(i) A general review of persons described in clause (ii) and whether information is publicly available about—“(I) the use of conflict minerals by such persons; and “(II) whether such conflict minerals originate from the Democratic Republic of the Congo or an adjoining country. “(ii) A person is described in this clause if—“(I) the person is not required to file reports with the Securities and Exchange Commission pursuant to section 13(p)(1)(A) of the Securities Exchange Act of 1934 [[15 U.S.C. 78m(p)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m/p/1/A&num=0&edition=prelim)], as added by subsection (b); and “(II) conflict minerals are necessary to the functionality or production of a product manufactured by such person. “(3) Report on private sector auditing.—Not later than 30 months after the date of the enactment of this Act [July 21, 2010], and annually thereafter, the Secretary of Commerce shall submit to the appropriate congressional committees a report that includes the following:“(A) An assessment of the accuracy of the independent private sector audits and other due diligence processes described under section 13(p) of the Securities Exchange Act of 1934 [[15 U.S.C. 78m(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m/p&num=0&edition=prelim)]. “(B) Recommendations for the processes used to carry out such audits, including ways to—“(i) improve the accuracy of such audits; and “(ii) establish standards of best practices. “(C) A listing of all known conflict mineral processing facilities worldwide. “(e) Definitions.—For purposes of this section:“(1) Adjoining country.—The term ‘adjoining country’, with respect to the Democratic Republic of the Congo, means a country that shares an internationally recognized border with the Democratic Republic of the Congo. “(2) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Appropriations, the Committee on Foreign Affairs, the Committee on Ways and Means, and the Committee on Financial Services of the House of Representatives; and “(B) the Committee on Appropriations, the Committee on Foreign Relations, the Committee on Finance, and the Committee on Banking, Housing, and Urban Affairs of the Senate. “(3) Armed group.—The term ‘armed group’ means an armed group that is identified as perpetrators of serious human rights abuses in the annual Country Reports on Human Rights Practices under sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151n(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151n/d&num=0&edition=prelim) and 2304(b)) relating to the Democratic Republic of the Congo or an adjoining country. “(4) Conflict mineral.—The term ‘conflict mineral’ means—“(A) columbite-tantalite (coltan), cassiterite, gold, wolframite, or their derivatives; or “(B) any other mineral or its derivatives determined by the Secretary of State to be financing conflict in the Democratic Republic of the Congo or an adjoining country. “(5) Under the control of armed groups.—The term ‘under the control of armed groups’ means areas within the Democratic Republic of the Congo or adjoining countries in which armed groups—“(A) physically control mines or force labor of civilians to mine, transport, or sell conflict minerals; “(B) tax, extort, or control any part of trade routes for conflict minerals, including the entire trade route from a Conflict Zone Mine to the point of export from the Democratic Republic of the Congo or an adjoining country; or “(C) tax, extort, or control trading facilities, in whole or in part, including the point of export from the Democratic Republic of the Congo or an adjoining country.”
 
 #### Consultation
 Pub. L. 106–102, title II, § 241, Nov. 12, 1999, 113 Stat. 1407, provided that: “(a) In General.—The Securities and Exchange Commission shall consult and coordinate comments with the appropriate Federal banking agency before taking any action or rendering any opinion with respect to the manner in which any insured depository institution or depository institution holding company reports loan loss reserves in its financial statement, including the amount of any such loan loss reserve. “(b) Definitions.—For purposes of subsection (a), the terms ‘insured depository institution’, ‘depository institution holding company’, and ‘appropriate Federal banking agency’ have the same meaning as given in section 3 of the Federal Deposit Insurance Act [[12 U.S.C. 1813](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim)].”
@@ -6667,7 +6807,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
   (A) With respect to any person who is associated, who is seeking to become associated, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a broker or dealer, or any person participating, or, at the time of the alleged misconduct, who was participating, in an offering of any penny stock, the Commission, by order, shall censure, place limitations on the activities or functions of such person, or suspend for a period not exceeding 12 months, or bar any such person from being associated with a broker, dealer, investment adviser, municipal securities dealer, municipal advisor, transfer agent, or nationally recognized statistical rating organization, or from participating in an offering of penny stock, if the Commission finds, on the record after notice and opportunity for a hearing, that such censure, placing of limitations, suspension, or bar is in the public interest and that such person—
 
-    (i) has committed or omitted any act, or is subject to an order or finding, enumerated in subparagraph (A), (D), or (E) of paragraph (4) of this subsection;
+    (i) has committed or omitted any act, or is subject to an order or finding, enumerated in subparagraph (A), (D), (E), (H), or (G) of paragraph (4) of this subsection;
 
     (ii) has been convicted of any offense specified in subparagraph (B) of such paragraph (4) within 10 years of the commencement of the proceedings under this paragraph; or
 
@@ -6790,7 +6930,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 **(d) Supplementary and periodic information**
 
-(1) **In general** — Each issuer which has filed a registration statement containing an undertaking which is or becomes operative under this subsection as in effect prior to August 20, 1964, and each issuer which shall after such date file a registration statement which has become effective pursuant to the Securities Act of 1933, as amended [[15 U.S.C. 77a](./chapter-2a-securities-and-trust-indentures.md#section-77a) et seq.], shall file with the Commission, in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors, such supplementary and periodic information, documents, and reports as may be required pursuant to [section 78m of this title](./chapter-2b-securities-exchanges.md#section-78m) in respect of a security registered pursuant to section 78l of this title. The duty to file under this subsection shall be automatically suspended if and so long as any issue of securities of such issuer is registered pursuant to section 78l of this title. The duty to file under this subsection shall also be automatically suspended as to any fiscal year, other than the fiscal year within which such registration statement became effective, if, at the beginning of such fiscal year, the securities of each class, other than any class of asset-backed securities, to which the registration statement relates are held of record by less than 300 persons, or, in the case of bank 44 So in original. Probably should be preceded by “a”. or a bank holding company, as such term is defined in [section 1841 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1841&num=0&edition=prelim), 1,200 persons persons.1 For the purposes of this subsection, the term “class” shall be construed to include all securities of an issuer which are of substantially similar character and the holders of which enjoy substantially similar rights and privileges. The Commission may, for the purpose of this subsection, define by rules and regulations the term “held of record” as it deems necessary or appropriate in the public interest or for the protection of investors in order to prevent circumvention of the provisions of this subsection. Nothing in this subsection shall apply to securities issued by a foreign government or political subdivision thereof.
+(1) **In general** — Each issuer which has filed a registration statement containing an undertaking which is or becomes operative under this subsection as in effect prior to August 20, 1964, and each issuer which shall after such date file a registration statement which has become effective pursuant to the Securities Act of 1933, as amended [[15 U.S.C. 77a](./chapter-2a-securities-and-trust-indentures.md#section-77a) et seq.], shall file with the Commission, in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors, such supplementary and periodic information, documents, and reports as may be required pursuant to [section 78m of this title](./chapter-2b-securities-exchanges.md#section-78m) in respect of a security registered pursuant to section 78l of this title. The duty to file under this subsection shall be automatically suspended if and so long as any issue of securities of such issuer is registered pursuant to section 78l of this title. The duty to file under this subsection shall also be automatically suspended as to any fiscal year, other than the fiscal year within which such registration statement became effective, if, at the beginning of such fiscal year, the securities of each class, other than any class of asset-backed securities, to which the registration statement relates are held of record by less than 300 persons, or, in the case of a bank, a savings and loan holding company (as defined in [section 1467a of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1467a&num=0&edition=prelim)), or a bank holding company, as such term is defined in [section 1841 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1841&num=0&edition=prelim), 1,200 persons persons.1 For the purposes of this subsection, the term “class” shall be construed to include all securities of an issuer which are of substantially similar character and the holders of which enjoy substantially similar rights and privileges. The Commission may, for the purpose of this subsection, define by rules and regulations the term “held of record” as it deems necessary or appropriate in the public interest or for the protection of investors in order to prevent circumvention of the provisions of this subsection. Nothing in this subsection shall apply to securities issued by a foreign government or political subdivision thereof.
 
 (2) **Asset-backed securities**
 
@@ -6894,7 +7034,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
     (ii) if the customer is present in another State for 30 or more consecutive days or has permanently changed his or her residence to another State, a transaction is not described in this paragraph, unless the associated person of the broker or dealer files an application for registration with such State not later than 10 business days after the later of the date of the transaction, or the date of the discovery of the presence of the customer in the other State for 30 or more consecutive days or the change in the customer’s residence.
 
-**(j) 55 So in original. There are two subsecs. designated (j). Rulemaking to extend requirements to new hybrid products**
+**(j) 44 So in original. There are two subsecs. designated (j). Rulemaking to extend requirements to new hybrid products**
 
 (1) **Consultation** — Prior to commencing a rulemaking under this subsection, the Commission shall consult with and seek the concurrence of the Board concerning the imposition of broker or dealer registration requirements with respect to any new hybrid product. In developing and promulgating rules under this subsection, the Commission shall consider the views of the Board, including views with respect to the nature of the new hybrid product; the history, purpose, extent, and appropriateness of the regulation of the new product under the Federal banking laws; and the impact of the proposed rule on the banking industry.
 
@@ -6949,19 +7089,19 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
   (B) *Board* — The term “Board” means the Board of Governors of the Federal Reserve System.
 
-**(j) 5 Limitation on Commission authority** The authority of the Commission under this section with respect to security-based swap agreements shall be subject to the restrictions and limitations of [section 78c–1(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c–1/b&num=0&edition=prelim).
+**(j) 4 Limitation on Commission authority** The authority of the Commission under this section with respect to security-based swap agreements shall be subject to the restrictions and limitations of [section 78c–1(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c–1/b&num=0&edition=prelim).
 
-**(k) 66 Another subsec. (k) is set out after the first subsec. (l). Registration or succession to a United States broker or dealer** In determining whether to permit a foreign person or an affiliate of a foreign person to register as a United States broker or dealer, or succeed to the registration of a United States broker or dealer, the Commission may consider whether, for a foreign person, or an affiliate of a foreign person that presents a risk to the stability of the United States financial system, the home country of the foreign person has adopted, or made demonstrable progress toward adopting, an appropriate system of financial regulation to mitigate such risk.
+**(k) 55 Another subsec. (k) is set out after the first subsec. (l). Registration or succession to a United States broker or dealer** In determining whether to permit a foreign person or an affiliate of a foreign person to register as a United States broker or dealer, or succeed to the registration of a United States broker or dealer, the Commission may consider whether, for a foreign person, or an affiliate of a foreign person that presents a risk to the stability of the United States financial system, the home country of the foreign person has adopted, or made demonstrable progress toward adopting, an appropriate system of financial regulation to mitigate such risk.
 
-**(l) 77 Another subsec. (l) is set out after the second subsec. (k). Termination of a United States broker or dealer** For a foreign person or an affiliate of a foreign person that presents such a risk to the stability of the United States financial system, the Commission may determine to terminate the registration of such foreign person or an affiliate of such foreign person as a broker or dealer in the United States, if the Commission determines that the home country of the foreign person has not adopted, or made demonstrable progress toward adopting, an appropriate system of financial regulation to mitigate such risk.
+**(l) 66 Another subsec. (l) is set out after the second subsec. (k). Termination of a United States broker or dealer** For a foreign person or an affiliate of a foreign person that presents such a risk to the stability of the United States financial system, the Commission may determine to terminate the registration of such foreign person or an affiliate of such foreign person as a broker or dealer in the United States, if the Commission determines that the home country of the foreign person has not adopted, or made demonstrable progress toward adopting, an appropriate system of financial regulation to mitigate such risk.
 
-**(k) 88 Another subsec. (k) is set out after the second subsec. (j). Standard of conduct**
+**(k) 77 Another subsec. (k) is set out after the second subsec. (j). Standard of conduct**
 
 (1) **In general** — Notwithstanding any other provision of this chapter or the Investment Advisers Act of 1940 [[15 U.S.C. 80b–1](./chapter-2d-investment-companies-and-advisers.md#section-80b-1) et seq.], the Commission may promulgate rules to provide that, with respect to a broker or dealer, when providing personalized investment advice about securities to a retail customer (and such other customers as the Commission may by rule provide), the standard of conduct for such broker or dealer with respect to such customer shall be the same as the standard of conduct applicable to an investment adviser under section 211 of the Investment Advisers Act of 1940 [[15 U.S.C. 80b–11](./chapter-2d-investment-companies-and-advisers.md#section-80b-11)]. The receipt of compensation based on commission or other standard compensation for the sale of securities shall not, in and of itself, be considered a violation of such standard applied to a broker or dealer. Nothing in this section shall require a broker or dealer or registered representative to have a continuing duty of care or loyalty to the customer after providing personalized investment advice about securities.
 
 (2) **Disclosure of range of products offered** — Where a broker or dealer sells only proprietary or other limited range of products, as determined by the Commission, the Commission may by rule require that such broker or dealer provide notice to each retail customer and obtain the consent or acknowledgment of the customer. The sale of only proprietary or other limited range of products by a broker or dealer shall not, in and of itself, be considered a violation of the standard set forth in paragraph (1).
 
-**(l) 99 Another subsec. (l) is set out after the first subsec. (k). Other matters** The Commission shall—
+**(l) 88 Another subsec. (l) is set out after the first subsec. (k). Other matters** The Commission shall—
 
 (1) facilitate the provision of simple and clear disclosures to investors regarding the terms of their relationships with brokers, dealers, and investment advisers, including any material conflicts of interest; and
 
@@ -6972,7 +7112,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 (1) the enforcement authority of the Commission with respect to such violations provided under this chapter; and
 
 (2) the enforcement authority of the Commission with respect to violations of the standard of conduct applicable to an investment adviser under the Investment Advisers Act of 1940 [[15 U.S.C. 80b–1](./chapter-2d-investment-companies-and-advisers.md#section-80b-1) et seq.], including the authority to impose sanctions for such violations, and
-the Commission shall seek to prosecute and sanction violators of the standard of conduct applicable to a broker or dealer providing personalized investment advice about securities to a retail customer under this chapter to 1010 So in original. Probably should be followed by “the”. same extent as the Commission prosecutes and sanctions violators of the standard of conduct applicable to an investment advisor under the Investment Advisers Act of 1940 [[15 U.S.C. 80b–1](./chapter-2d-investment-companies-and-advisers.md#section-80b-1) et seq.].
+the Commission shall seek to prosecute and sanction violators of the standard of conduct applicable to a broker or dealer providing personalized investment advice about securities to a retail customer under this chapter to 99 So in original. Probably should be followed by “the”. same extent as the Commission prosecutes and sanctions violators of the standard of conduct applicable to an investment advisor under the Investment Advisers Act of 1940 [[15 U.S.C. 80b–1](./chapter-2d-investment-companies-and-advisers.md#section-80b-1) et seq.].
 
 **(n) Disclosures to retail investors**
 
@@ -7013,6 +7153,8 @@ Subsection (i) of [section 78q of this title](./chapter-2b-securities-exchanges.
 Section 206 of the Gramm-Leach-Bliley Act, referred to in subsec. (j)(6)(A)(ii), (iii), is section 206 of Pub. L. 106–102, which is set out as a note under [section 78c of this title](./chapter-2b-securities-exchanges.md#section-78c).
 
 #### Amendments
+2015—Subsec. (d). Pub. L. 114–94 substituted “case of a bank, a savings and loan holding company (as defined in [section 1467a of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1467a&num=0&edition=prelim)),” for “case of bank”.
+
 2012—Subsec. (d)(1). Pub. L. 112–106, § 601(b), substituted “300 persons, or, in the case of bank or a bank holding company, as such term is defined in [section 1841 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1841&num=0&edition=prelim), 1,200 persons” for “three hundred”.
 
 Subsec. (i)(2) to (4). Pub. L. 112–106, § 305(d)(1), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
@@ -7067,6 +7209,8 @@ Subsec. (b)(4)(H). Pub. L. 107–204, § 604(a)(2), added subpar. (H).
 
 Subsec. (b)(6)(A)(i). Pub. L. 107–204, § 604(c)(1)(B)(ii), substituted “, or is subject to an order or finding,” for “or omission”.
 
+Pub. L. 107–204, § 604(c)(1)(B)(i), substituted “(H), or (G)” for “or (G)”. See 1990 Amendment note for subsec. (b)(6) below.
+
 2000—Subsec. (b)(11). Pub. L. 106–554, § 1(a)(5) [title II, § 203(a)(1)], added par. (11).
 
 Subsec. (b)(12). Pub. L. 106–554, § 1(a)(5) [title II, § 203(b)], added par. (12).
@@ -7119,7 +7263,7 @@ Subsec. (b)(4)(G). Pub. L. 101–550, § 203(a)(7), added subpar. (G).
 
 Subsec. (b)(6). Pub. L. 101–429, § 504(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The Commission, by order, shall censure or place limitations on the activities or functions of any person associated, seeking to become associated, or, at the time of the alleged misconduct, associated or seeking to become associated with a broker or dealer, or suspend for a period not exceeding twelve months or bar any such person from being associated with a broker or dealer, if the Commission finds, on the record after notice and opportunity for hearing, that such censure, placing of limitations, suspension, or bar is in the public interest and that such person has committed or omitted any act or omission enumerated in subparagraph (A), (D), (E), or (G) of paragraph (4) of this subsection, has been convicted of any offense specified in subparagraph (B) of said paragraph (4) within ten years of the commencement of the proceedings under this paragraph, or is enjoined from any action, conduct, or practice specified in subparagraph (C) of said paragraph (4). It shall be unlawful for any person as to whom such an order suspending or barring him from being associated with a broker or dealer is in effect willfully to become, or to be, associated with a broker or dealer without the consent of the Commission, and it shall be unlawful for any broker or dealer to permit such a person to become, or remain, a person associated with him without the consent of the Commission, if such broker or dealer knew, or in the exercise of reasonable care should have known, of such order.”
 
-Pub. L. 101–550, § 203(c)(1), substituted “(A), (D), (E), or (G)” for “(A), (D), or (E)”.
+Pub. L. 101–550, § 203(c)(1), which directed amendment of subsec. (b)(6) by substituting “(A), (D), (E), or (G)” for “(A), (D), or (E)”, was executed by making the substitution both before and after the general amendment of subsec. (b)(6) by Pub. L. 101–429, § 504(a), which was effective 12 months after Oct. 15, 1990, to reflect the probable intent of Congress and the subsequent amendment by Pub. L. 107–204, § 604(c)(1)(B)(i), which presumed that the substitution had taken place.
 
 Subsec. (g). Pub. L. 101–429, § 505, added subsec. (g).
 
@@ -10023,6 +10167,114 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
 
+<a id="section-78qq"></a>
+## § 78qq. Small Business Capital Formation Advisory Committee
+**(a) Establishment and purpose**
+
+(1) **Establishment** — There is established within the Commission the Small Business Capital Formation Advisory Committee (hereafter in this section referred to as the “Committee”).
+
+(2) **Functions**
+
+  (A) *In general* — The Committee shall provide the Commission with advice on the Commission’s rules, regulations, and policies with regard to the Commission’s mission of protecting investors, maintaining fair, orderly, and efficient markets, and facilitating capital formation, as such rules, regulations, and policies relate to—
+
+    (i) capital raising by emerging, privately held small businesses (“emerging companies”) and publicly traded companies with less than $250,000,000 in public market capitalization (“smaller public companies”) through securities offerings, including private and limited offerings and initial and other public offerings;
+
+    (ii) trading in the securities of emerging companies and smaller public companies; and
+
+    (iii) public reporting and corporate governance requirements of emerging companies and smaller public companies.
+
+  (B) *Limitation* — The Committee shall not provide any advice with respect to any policies, practices, actions, or decisions concerning the Commission’s enforcement program.
+
+**(b) Membership**
+
+(1) **In general** — The members of the Committee shall be—
+
+  (A) the Advocate for Small Business Capital Formation;
+
+  (B) not fewer than 10, and not more than 20, members appointed by the Commission, from among individuals—
+
+    (i) who represent—
+
+      (I) emerging companies engaging in private and limited securities offerings or considering initial public offerings (“IPO”) (including the companies’ officers and directors);
+
+      (II) the professional advisors of such companies (including attorneys, accountants, investment bankers, and financial advisors); and
+
+      (III) the investors in such companies (including angel investors, venture capital funds, and family offices);
+
+    (ii) who are officers or directors of minority-owned small businesses or women-owned small businesses;
+
+    (iii) who represent—
+
+      (I) smaller public companies (including the companies’ officers and directors);
+
+      (II) the professional advisors of such companies (including attorneys, auditors, underwriters, and financial advisors); and
+
+      (III) the pre-IPO and post-IPO investors in such companies (both institutional, such as venture capital funds, and individual, such as angel investors); and
+
+    (iv) who represent participants in the marketplace for the securities of emerging companies and smaller public companies, such as securities exchanges, alternative trading systems, analysts, information processors, and transfer agents; and
+
+  (C) three non-voting members—
+
+    (i) one of whom shall be appointed by the Investor Advocate;
+
+    (ii) one of whom shall be appointed by the North American Securities Administrators Association; and
+
+    (iii) one of whom shall be appointed by the Administrator of the Small Business Administration.
+
+(2) **Term** — Each member of the Committee appointed under subparagraph (B), (C)(ii), or (C)(iii) of paragraph (1) shall serve for a term of 4 years.
+
+(3) **Members not Commission employees** — Members appointed under subparagraph (B), (C)(ii), or (C)(iii) of paragraph (1) shall not be treated as employees or agents of the Commission solely because of membership on the Committee.
+
+**(c) Chairman; vice chairman; secretary; assistant secretary**
+
+(1) **In general** — The members of the Committee shall elect, from among the members of the Committee—
+
+  (A) a chairman;
+
+  (B) a vice chairman;
+
+  (C) a secretary; and
+
+  (D) an assistant secretary.
+
+(2) **Term** — Each member elected under paragraph (1) shall serve for a term of 3 years in the capacity for which the member was elected under paragraph (1).
+
+**(d) Meetings**
+
+(1) **Frequency of meetings** — The Committee shall meet—
+
+  (A) not less frequently than four times annually, at the call of the chairman of the Committee; and
+
+  (B) from time to time, at the call of the Commission.
+
+(2) **Notice** — The chairman of the Committee shall give the members of the Committee written notice of each meeting, not later than 2 weeks before the date of the meeting.
+
+**(e) Compensation and travel expenses** Each member of the Committee who is not a full-time employee of the United States shall—
+
+(1) be entitled to receive compensation at a rate not to exceed the daily equivalent of the annual rate of basic pay in effect for a position at level V of the Executive Schedule under [section 5316 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim) for each day during which the member is engaged in the actual performance of the duties of the Committee; and
+
+(2) while away from the home or regular place of business of the member in the performance of services for the Committee, be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
+
+**(f) Staff** The Commission shall make available to the Committee such staff as the chairman of the Committee determines are necessary to carry out this section.
+
+**(g) Review by Commission** The Commission shall—
+
+(1) review the findings and recommendations of the Committee; and
+
+(2) each time the Committee submits a finding or recommendation to the Commission, promptly issue a public statement—
+
+  (A) assessing the finding or recommendation of the Committee; and
+
+  (B) disclosing the action, if any, the Commission intends to take with respect to the finding or recommendation.
+
+**(h) Federal Advisory Committee Act** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Committee and its activities.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+
 <a id="section-78q-1"></a>
 ## § 78q–1. National system for clearance and settlement of securities transactions
 **(a) Congressional findings; facilitating establishment of system**
@@ -10857,7 +11109,7 @@ Section not applicable to actions occurring before Nov. 19, 1988, see section 9 
 
 (5) Upon application by the Commission, all proceedings pursuant to paragraphs (2) and (4) shall be held in camera and the records thereof sealed until expiration of the period of delay or such other date as the presiding judge or magistrate judge may permit.
 
-(6) The Commission shall compile an annual tabulation of the occasions on which the Commission used each separate subparagraph or clause of paragraph (2) of this subsection or the provisions of the Right to Financial Privacy Act of 1978 [[12 U.S.C. 3401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3401&num=0&edition=prelim) et seq.] to obtain access to financial records of a customer and include it in its annual report to the Congress. Section 1121(b) 1 of the Right to Financial Privacy Act of 1978 shall not apply with respect to the Commission.
+(6) Repealed. Pub. L. 114–113, div. O, title VII, § 708, Dec. 18, 2015, 129 Stat. 3030.
 
 (7)
 
@@ -10896,13 +11148,15 @@ Section not applicable to actions occurring before Nov. 19, 1988, see section 9 
 #### References in Text
 This chapter, referred to in subsecs. (a)(1), (b), (d), (e), and (f), was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
 
-The Right to Financial Privacy Act of 1978, referred to in subsec. (h)(1), (6), (8), (9)(B), (11), and (13), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. Section 1121(b) of the Act, which was classified to [section 3421(b) of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3421/b&num=0&edition=prelim), was repealed by Pub. L. 104–66, title III, § 3001(d), Dec. 21, 1995, 109 Stat. 734. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3401&num=0&edition=prelim) and Tables.
+The Right to Financial Privacy Act of 1978, referred to in subsec. (h)(1), (8), (9)(B), (11), and (13), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3401&num=0&edition=prelim) and Tables.
 
 Section 19(b) of the Securities Act of 1933, referred to in subsec. (h)(2), was redesignated section 19(c) by Pub. L. 107–204, title I, § 108(a)(1), July 30, 2002, 116 Stat. 768, and is classified to [section 77s(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77s/c&num=0&edition=prelim).
 
 Section 21(h) of the Securities Exchange Act of 1934, referred to in the paragraph within quotation marks following subsec. (h)(4)(C), is classified to subsection (h) of this section.
 
 #### Amendments
+2015—Subsec. (h)(6). Pub. L. 114–113 struck out par. (6) which read as follows: “The Commission shall compile an annual tabulation of the occasions on which the Commission used each separate subparagraph or clause of paragraph (2) of this subsection or the provisions of the Right to Financial Privacy Act of 1978 to obtain access to financial records of a customer and include it in its annual report to the Congress. Section 1121(b) of the Right to Financial Privacy Act of 1978 shall not apply with respect to the Commission.”
+
 2010—Subsec. (a)(1). Pub. L. 111–203, § 929F(g)(2), in first sentence, substituted “, a person associated with such a firm, or, as to any act, practice, or omission to act, while associated with such firm, a person formerly associated with such a firm” for “or a person associated with such a firm”.
 
 Pub. L. 111–203, § 929F(c), (d), in first sentence, inserted “, or, as to any act or practice, or omission to act, while associated with a member, formerly associated” after “member or a person associated” and “or, as to any act or practice, or omission to act, while a participant, was a participant,” after “in which such person is a participant,”.

@@ -62,7 +62,7 @@ source: >-
 
 (1) State Councils on Developmental Disabilities in each State to engage in advocacy, capacity building, and systemic change activities that—
 
-  (A) are consistent with the purpose described in this subsection and the policy described in subsection (c) of this section; and
+  (A) are consistent with the purpose described in this subsection and the policy described in subsection (c); and
 
   (B) contribute to a coordinated, consumer- and family-centered, consumer- and family-directed, comprehensive system that includes needed community services, individualized supports, and other forms of assistance that promote self-determination for individuals with developmental disabilities and their families;
 
@@ -86,7 +86,7 @@ source: >-
 
   (A) national initiatives to collect necessary data on issues that are directly or indirectly relevant to the lives of individuals with developmental disabilities;
 
-  (B) technical assistance to entities who engage in or intend to engage in activities consistent with the purpose described in this subsection or the policy described in subsection (c) of this section; and
+  (B) technical assistance to entities who engage in or intend to engage in activities consistent with the purpose described in this subsection or the policy described in subsection (c); and
 
   (C) other nationally significant activities.
 
@@ -238,7 +238,9 @@ Term of the President’s Committee for People with Intellectual Disabilities ex
 
 Term of the President’s Committee for People with Intellectual Disabilities extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President’s Committee for People with Intellectual Disabilities extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President’s Committee for People with Intellectual Disabilities extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President’s Committee for People with Intellectual Disabilities extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 
 <a id="section-15002"></a>
@@ -266,7 +268,7 @@ In this subchapter:
 
   (F) providing training or technical assistance for professionals (including individuals providing education and rehabilitation services), employers, or other individuals who provide services to, employ, or are otherwise substantially involved in the major life functions of, an individual with developmental disabilities.
 
-(5) **Center** — The term “Center” means a University Center for Excellence in Developmental Disabilities Education, Research, and Service established under part D of this subchapter.
+(5) **Center** — The term “Center” means a University Center for Excellence in Developmental Disabilities Education, Research, and Service established under part D.
 
 (6) **Child care-related activities** — The term “child care-related activities” means advocacy, capacity building, and systemic change activities that result in families of children with developmental disabilities having access to and use of child care services, including before-school, after-school, and out-of-school services, in their communities.
 
@@ -462,7 +464,7 @@ In this subchapter:
 ## § 15004. Responsibilities of the Secretary
 **(a) Program accountability**
 
-(1) **In general** — In order to monitor entities that received funds under this chapter to carry out activities under parts B, C, and D of this subchapter and determine the extent to which the entities have been responsive to the purpose of this subchapter and have taken actions consistent with the policy described in [section 15001(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15001/c&num=0&edition=prelim), the Secretary shall develop and implement an accountability process as described in this subsection, with respect to activities conducted after October 1, 2001.
+(1) **In general** — In order to monitor entities that received funds under this chapter to carry out activities under parts B, C, and D and determine the extent to which the entities have been responsive to the purpose of this subchapter and have taken actions consistent with the policy described in [section 15001(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15001/c&num=0&edition=prelim), the Secretary shall develop and implement an accountability process as described in this subsection, with respect to activities conducted after October 1, 2001.
 
 (2) **Areas of emphasis** — The Secretary shall develop a process for identifying and reporting (pursuant to [section 15005 of this title](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15005)) on progress achieved through advocacy, capacity building, and systemic change activities, undertaken by the entities described in paragraph (1), that resulted in individuals with developmental disabilities and their families participating in the design of and having access to needed community services, individualized supports, and other forms of assistance that promote self-determination, independence, productivity, and integration and inclusion in all facets of community life. Specifically, the Secretary shall develop a process for identifying and reporting on progress achieved, through advocacy, capacity building, and systemic change activities, by the entities in the areas of emphasis.
 
@@ -476,9 +478,9 @@ In this subchapter:
 
   (D) *Specific measures* — At a minimum, the indicators of progress shall be used to describe and measure—
 
-    (i) the satisfaction of individuals with developmental disabilities with the advocacy, capacity building, and systemic change activities provided under parts B, C, and D of this subchapter;
+    (i) the satisfaction of individuals with developmental disabilities with the advocacy, capacity building, and systemic change activities provided under parts B, C, and D;
 
-    (ii) the extent to which the advocacy, capacity building, and systemic change activities provided through parts B, C, and D of this subchapter result in improvements in—
+    (ii) the extent to which the advocacy, capacity building, and systemic change activities provided through parts B, C, and D result in improvements in—
 
       (I) the ability of individuals with developmental disabilities to make choices and exert control over the type, intensity, and timing of services, supports, and assistance that the individuals have used;
 
@@ -517,9 +519,9 @@ This chapter, referred to in subsec. (a)(1), was in the original “this Act”,
 <a id="section-15005"></a>
 ## § 15005. Reports of the Secretary
 
-At least once every 2 years, the Secretary, using information submitted in the reports and information required under parts B, C, D, and E of this subchapter, shall prepare and submit to the President, Congress, and the National Council on Disability, a report that describes the goals and outcomes of programs supported under parts B, C, D, and E of this subchapter. In preparing the report, the Secretary shall provide—
+At least once every 2 years, the Secretary, using information submitted in the reports and information required under parts B, C, D, and E, shall prepare and submit to the President, Congress, and the National Council on Disability, a report that describes the goals and outcomes of programs supported under parts B, C, D, and E. In preparing the report, the Secretary shall provide—
 
-(1) meaningful examples of how the councils, protection and advocacy systems, centers, and entities funded under parts B, C, D, and E of this subchapter, respectively—
+(1) meaningful examples of how the councils, protection and advocacy systems, centers, and entities funded under parts B, C, D, and E, respectively—
 
   (A) have undertaken coordinated activities with each other;
 
@@ -682,7 +684,7 @@ The purpose of this part is to provide for allotments to support State Councils 
 
 (4) **Reallotment of reductions** — The Secretary shall similarly reallot the total of the reductions among the States whose proportionate amounts were not so reduced.
 
-(5) **Treatment** — Any amount reallotted to a State under this subsection for a fiscal year shall be deemed to be a part of the allotment of the State under subsection (a) of this section for such fiscal year.
+(5) **Treatment** — Any amount reallotted to a State under this subsection for a fiscal year shall be deemed to be a part of the allotment of the State under subsection (a) for such fiscal year.
 
 ### Statutory Notes
 
@@ -704,7 +706,7 @@ Pub. L. 108–154, § 3(b), Dec. 3, 2003, 117 Stat. 1934, provided that: “The 
 ## § 15024. State plan
 **(a) In general** Any State desiring to receive assistance under this part shall submit to the Secretary, and obtain approval of, a 5-year strategic State plan under this section.
 
-**(b) Planning cycle** The plan described in subsection (a) of this section shall be updated as appropriate during the 5-year period.
+**(b) Planning cycle** The plan described in subsection (a) shall be updated as appropriate during the 5-year period.
 
 **(c) State plan requirements** In order to be approved by the Secretary under this section, a State plan shall meet each of the following requirements:
 
@@ -742,7 +744,7 @@ Pub. L. 108–154, § 3(b), Dec. 3, 2003, 117 Stat. 1934, provided that: “The 
 
     (viii) to the extent that information is available, a description of the adequacy of health care and other services, supports, and assistance that individuals with developmental disabilities who are served through home and community-based waivers (authorized under [section 1396n(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396n/c&num=0&edition=prelim)) receive;
 
-  (D) a description of how entities funded under parts C and D of this subchapter, through interagency agreements or other mechanisms, collaborated with the entity funded under this part in the State, each other, and other entities to contribute to the achievement of the purpose of this part; and
+  (D) a description of how entities funded under parts C and D, through interagency agreements or other mechanisms, collaborated with the entity funded under this part in the State, each other, and other entities to contribute to the achievement of the purpose of this part; and
 
   (E) the rationale for the goals related to advocacy, capacity building, and systemic change to be undertaken by the Council to contribute to the achievement of the purpose of this part.
 
@@ -822,7 +824,7 @@ Pub. L. 108–154, § 3(b), Dec. 3, 2003, 117 Stat. 1934, provided that: “The 
 
 (2) **Consultation with the designated State agency** — Before the plan is submitted to the Secretary, the Council shall consult with the designated State agency to ensure that the State plan is consistent with State law and to obtain appropriate State plan assurances.
 
-(3) **Plan approval** — The Secretary shall approve any State plan and, as appropriate, amendments of such plan that comply with the provisions of subsections (a), (b), and (c) of this section and this subsection. The Secretary may take final action to disapprove a State plan after providing reasonable notice and an opportunity for a hearing to the State.
+(3) **Plan approval** — The Secretary shall approve any State plan and, as appropriate, amendments of such plan that comply with the provisions of subsections (a), (b), and (c) and this subsection. The Secretary may take final action to disapprove a State plan after providing reasonable notice and an opportunity for a hearing to the State.
 
 ### Statutory Notes
 
@@ -837,7 +839,7 @@ The Fair Housing Act, referred to in subsec. (c)(5)(F), is title VIII of Pub. L.
 
 <a id="section-15025"></a>
 ## § 15025. State Councils on Developmental Disabilities and designated State agencies
-**(a) In general** Each State that receives assistance under this part shall establish and maintain a Council to undertake advocacy, capacity building, and systemic change activities (consistent with subsections (b) and (c) of [section 15001 of this title](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15001)) that contribute to a coordinated, consumer- and family-centered, consumer- and family-directed, comprehensive system of community services, individualized supports, and other forms of assistance that contribute to the achievement of the purpose of this part. The Council shall have the authority to fulfill the responsibilities described in subsection (c) of this section.
+**(a) In general** Each State that receives assistance under this part shall establish and maintain a Council to undertake advocacy, capacity building, and systemic change activities (consistent with subsections (b) and (c) of [section 15001 of this title](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15001)) that contribute to a coordinated, consumer- and family-centered, consumer- and family-directed, comprehensive system of community services, individualized supports, and other forms of assistance that contribute to the achievement of the purpose of this part. The Council shall have the authority to fulfill the responsibilities described in subsection (c).
 
 **(b) Council membership**
 
@@ -1155,13 +1157,13 @@ the Secretary shall notify such Council and agency that the Secretary will not m
 
 <a id="section-15029"></a>
 ## § 15029. Authorization of appropriations
-**(a) Funding for State allotments** Except as described in subsection (b) of this section, there are authorized to be appropriated for allotments under [section 15022 of this title](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15022) $76,000,000 for fiscal year 2001 and such sums as may be necessary for each of fiscal years 2002 through 2007.
+**(a) Funding for State allotments** Except as described in subsection (b), there are authorized to be appropriated for allotments under [section 15022 of this title](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15022) $76,000,000 for fiscal year 2001 and such sums as may be necessary for each of fiscal years 2002 through 2007.
 
 **(b) Reservation for technical assistance**
 
-(1) **Lower appropriation years** — For any fiscal year for which the amount appropriated under subsection (a) of this section is less than $76,000,000, the Secretary shall reserve funds in accordance with [section 15083(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15083/c&num=0&edition=prelim) to provide technical assistance to entities funded under this part.
+(1) **Lower appropriation years** — For any fiscal year for which the amount appropriated under subsection (a) is less than $76,000,000, the Secretary shall reserve funds in accordance with [section 15083(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15083/c&num=0&edition=prelim) to provide technical assistance to entities funded under this part.
 
-(2) **Higher appropriation years** — For any fiscal year for which the amount appropriated under subsection (a) of this section is not less than $76,000,000, the Secretary shall reserve not less than $300,000 and not more than 1 percent of the amount appropriated under subsection (a) of this section to provide technical assistance to entities funded under this part.
+(2) **Higher appropriation years** — For any fiscal year for which the amount appropriated under subsection (a) is not less than $76,000,000, the Secretary shall reserve not less than $300,000 and not more than 1 percent of the amount appropriated under subsection (a) to provide technical assistance to entities funded under this part.
 
 
 <a id="section-15041"></a>
@@ -1214,7 +1216,7 @@ The purpose of this part is to provide for allotments to support a protection an
 
 <a id="section-15043"></a>
 ## § 15043. System required
-**(a) System required** In order for a State to receive an allotment under part B of this subchapter or this part—
+**(a) System required** In order for a State to receive an allotment under part B or this part—
 
 (1) the State shall have in effect a system to protect and advocate the rights of individuals with developmental disabilities;
 
@@ -1391,15 +1393,15 @@ For allotments under [section 15042 of this title](./chapter-144-developmental-d
 ## § 15062. Grant awards
 **(a) Existing Centers**
 
-(1) **In general** — In awarding and distributing grant funds under section 15061(a)of this title for a fiscal year, the Secretary, subject to the availability of appropriations and the condition specified in subsection (d) of this section, shall award and distribute grant funds in equal amounts of $500,000 (adjusted in accordance with subsection (b) of this section), to each Center that existed during the preceding fiscal year and that meets the requirements of this part, prior to making grants under subsection (c) or (d) of this section.
+(1) **In general** — In awarding and distributing grant funds under section 15061(a)of this title for a fiscal year, the Secretary, subject to the availability of appropriations and the condition specified in subsection (d), shall award and distribute grant funds in equal amounts of $500,000 (adjusted in accordance with subsection (b)), to each Center that existed during the preceding fiscal year and that meets the requirements of this part, prior to making grants under subsection (c) or (d).
 
 (2) **Reduction of award** — Notwithstanding paragraph (1), if the aggregate of the funds to be awarded to the Centers pursuant to paragraph (1) for any fiscal year exceeds the total amount appropriated under [section 15066 of this title](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15066) for such fiscal year, the amount to be awarded to each Center for such fiscal year shall be proportionately reduced.
 
-**(b) Adjustments** Subject to the availability of appropriations, for any fiscal year following a year in which each Center described in subsection (a) of this section received a grant award of not less than $500,000 under subsection (a) of this section (adjusted in accordance with this subsection), the Secretary shall adjust the awards to take into account the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under [section 720(c)(1) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section720/c/1&num=0&edition=prelim) (if the percentage change indicates an increase), prior to making grants under subsection (c) or (d) of this section.
+**(b) Adjustments** Subject to the availability of appropriations, for any fiscal year following a year in which each Center described in subsection (a) received a grant award of not less than $500,000 under subsection (a) (adjusted in accordance with this subsection), the Secretary shall adjust the awards to take into account the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under [section 720(c)(1) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section720/c/1&num=0&edition=prelim) (if the percentage change indicates an increase), prior to making grants under subsection (c) or (d).
 
-**(c) National training initiatives on critical and emerging needs** Subject to the availability of appropriations, for any fiscal year in which each Center described in subsection (a) of this section receives a grant award of not less than $500,000, under subsection (a) of this section (adjusted in accordance with subsection (b) of this section), after making the grant awards, the Secretary shall make grants under [section 15061(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15061/b&num=0&edition=prelim) to Centers to pay for the Federal share of the cost of training initiatives related to the unmet needs of individuals with developmental disabilities and their families, as described in [section 15063(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15063/b&num=0&edition=prelim).
+**(c) National training initiatives on critical and emerging needs** Subject to the availability of appropriations, for any fiscal year in which each Center described in subsection (a) receives a grant award of not less than $500,000, under subsection (a) (adjusted in accordance with subsection (b)), after making the grant awards, the Secretary shall make grants under [section 15061(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15061/b&num=0&edition=prelim) to Centers to pay for the Federal share of the cost of training initiatives related to the unmet needs of individuals with developmental disabilities and their families, as described in [section 15063(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15063/b&num=0&edition=prelim).
 
-**(d) Additional grants** For any fiscal year in which each Center described in subsection (a) of this section receives a grant award of not less than $500,000 under subsection (a) of this section (adjusted in accordance with subsection (b) of this section), after making the grant awards, the Secretary may make grants under [section 15061(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15061/a&num=0&edition=prelim) for activities described in [section 15063(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15063/a&num=0&edition=prelim) to additional Centers, or additional grants to Centers, for States or populations that are unserved or underserved by Centers due to such factors as—
+**(d) Additional grants** For any fiscal year in which each Center described in subsection (a) receives a grant award of not less than $500,000 under subsection (a) (adjusted in accordance with subsection (b)), after making the grant awards, the Secretary may make grants under [section 15061(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15061/a&num=0&edition=prelim) for activities described in [section 15063(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15063/a&num=0&edition=prelim) to additional Centers, or additional grants to Centers, for States or populations that are unserved or underserved by Centers due to such factors as—
 
 (1) population;
 
@@ -1589,7 +1591,7 @@ In this part, the term “State” means each of the several States of the Unite
 
 **(b) Limitation** The Secretary may not use, for peer review or other activities directly related to peer review conducted under this part—
 
-(1) for fiscal year 2001, more than $300,000 of the funds made available under subsection (a) of this section; and
+(1) for fiscal year 2001, more than $300,000 of the funds made available under subsection (a); and
 
 (2) for any succeeding fiscal year, more than the amount of funds used for the peer review and related activities in fiscal year 2001, adjusted to take into account the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under [section 720(c)(1) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section720/c/1&num=0&edition=prelim) (if the percentage change indicates an increase).
 
@@ -1607,7 +1609,7 @@ The purpose of this part is to provide grants, contracts, or cooperative agreeme
 
   (B) data collection and analysis;
 
-  (C) technical assistance to entities funded under parts B and D of this subchapter, subject to the limitations described in sections 15029(b), 15066(a)(3), and 15083(c) of this title; and
+  (C) technical assistance to entities funded under parts B and D, subject to the limitations described in sections 15029(b), 15066(a)(3), and 15083(c) of this title; and
 
   (D) other projects of sufficient size and scope that hold promise to expand or improve opportunities for such individuals, including—
 
@@ -1669,25 +1671,25 @@ The purpose of this part is to provide grants, contracts, or cooperative agreeme
 
 **(b) Use of funds**
 
-(1) **Grants, contracts, and agreements** — Except as provided in paragraph (2), the amount appropriated under subsection (a) of this section for each fiscal year shall be used to award grants, or enter into contracts, cooperative agreements, or other agreements, under [section 15082 of this title](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15082).
+(1) **Grants, contracts, and agreements** — Except as provided in paragraph (2), the amount appropriated under subsection (a) for each fiscal year shall be used to award grants, or enter into contracts, cooperative agreements, or other agreements, under [section 15082 of this title](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15082).
 
-(2) **Administrative costs** — Not more than 1 percent of the amount appropriated under subsection (a) of this section for each fiscal year may be used to provide for the administrative costs (other than compensation of Federal employees) of the Administration on Developmental Disabilities for administering this part and parts B, C, and D of this subchapter, including monitoring the performance of and providing technical assistance to, entities that receive funds under this subchapter.
+(2) **Administrative costs** — Not more than 1 percent of the amount appropriated under subsection (a) for each fiscal year may be used to provide for the administrative costs (other than compensation of Federal employees) of the Administration on Developmental Disabilities for administering this part and parts B, C, and D, including monitoring the performance of and providing technical assistance to, entities that receive funds under this subchapter.
 
 **(c) Technical assistance for Councils and Centers**
 
-(1) **In general** — For each covered year, the Secretary shall expend, to provide technical assistance for entities funded under part B or D of this subchapter, an amount from funds appropriated under subsection (a) of this section that is not less than the amount the Secretary expended on technical assistance for entities funded under that part (or a corresponding provision) in the previous fiscal year.
+(1) **In general** — For each covered year, the Secretary shall expend, to provide technical assistance for entities funded under part B or D, an amount from funds appropriated under subsection (a) that is not less than the amount the Secretary expended on technical assistance for entities funded under that part (or a corresponding provision) in the previous fiscal year.
 
 (2) **Covered year** — In this subsection, the term “covered year” means—
 
-  (A) in the case of an expenditure for entities funded under part B of this subchapter, a fiscal year for which the amount appropriated under [section 15029(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15029/a&num=0&edition=prelim) is less than $76,000,000; and
+  (A) in the case of an expenditure for entities funded under part B, a fiscal year for which the amount appropriated under [section 15029(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15029/a&num=0&edition=prelim) is less than $76,000,000; and
 
-  (B) in the case of an expenditure for entities funded under part D of this subchapter, a fiscal year prior to the first fiscal year for which the amount appropriated under [section 15066(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15066/a/1&num=0&edition=prelim) is not less than $20,000,000.
+  (B) in the case of an expenditure for entities funded under part D, a fiscal year prior to the first fiscal year for which the amount appropriated under [section 15066(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15066/a/1&num=0&edition=prelim) is not less than $20,000,000.
 
-(3) **References** — References in this subsection to part D of this subchapter shall not be considered to include [section 15063(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15063/c/4&num=0&edition=prelim).
+(3) **References** — References in this subsection to part D shall not be considered to include [section 15063(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15063/c/4&num=0&edition=prelim).
 
-**(d) Technical assistance on electronic information sharing** In addition to any funds reserved under subsection (c) of this section, the Secretary shall reserve $100,000 from the amount appropriated under subsection (a) of this section for each fiscal year to carry out [section 15063(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15063/c/4&num=0&edition=prelim).
+**(d) Technical assistance on electronic information sharing** In addition to any funds reserved under subsection (c), the Secretary shall reserve $100,000 from the amount appropriated under subsection (a) for each fiscal year to carry out [section 15063(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15063/c/4&num=0&edition=prelim).
 
-**(e) Limitation** For any fiscal year for which the amount appropriated under subsection (a) of this section is not less than $10,000,000, not more than 50 percent of such amount shall be used for activities carried out under [section 15081(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15081/2/A&num=0&edition=prelim).
+**(e) Limitation** For any fiscal year for which the amount appropriated under subsection (a) is not less than $10,000,000, not more than 50 percent of such amount shall be used for activities carried out under [section 15081(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15081/2/A&num=0&edition=prelim).
 
 
 <a id="section-15091"></a>
@@ -1772,7 +1774,7 @@ For short title of this subchapter as the “Families of Children With Disabilit
 
 **(b) Special rule** References in this subchapter to a child with a disability shall be considered to include references to an individual who is not younger than age 18 who—
 
-(1) has a significant impairment described in subsection (a)(1)(A) of this section; and
+(1) has a significant impairment described in subsection (a)(1)(A); and
 
 (2) is residing with and receiving assistance from a family member.
 
@@ -1875,7 +1877,7 @@ A State that receives a grant under this subchapter shall prepare and submit to 
 
 **(b) Purpose**
 
-(1) **In general** — The Secretary shall conduct the evaluation under subsection (a) of this section to assess the status and effects of State efforts to develop and implement, or expand and enhance, statewide systems of family support services for families of children with disabilities in a manner consistent with the provisions of this subchapter. In particular, the Secretary shall assess the impact of such efforts on families of children with disabilities, and recommend amendments to this subchapter that are necessary to assist States to accomplish fully the purposes of this subchapter.
+(1) **In general** — The Secretary shall conduct the evaluation under subsection (a) to assess the status and effects of State efforts to develop and implement, or expand and enhance, statewide systems of family support services for families of children with disabilities in a manner consistent with the provisions of this subchapter. In particular, the Secretary shall assess the impact of such efforts on families of children with disabilities, and recommend amendments to this subchapter that are necessary to assist States to accomplish fully the purposes of this subchapter.
 
 (2) **Information systems** — The Secretary shall work with the States to develop an information system designed to compile and report, from information provided by the States, qualitative and quantitative descriptions of the impact of the program of grants to States authorized by this subchapter on—
 
@@ -1903,13 +1905,13 @@ A State that receives a grant under this subchapter shall prepare and submit to 
 
 **(b) Reservation**
 
-(1) **In general** — The Secretary shall reserve for each fiscal year 10 percent, or $400,000 (whichever is greater), of the amount appropriated pursuant to subsection (a) of this section to carry out—
+(1) **In general** — The Secretary shall reserve for each fiscal year 10 percent, or $400,000 (whichever is greater), of the amount appropriated pursuant to subsection (a) to carry out—
 
   (A) [section 15098 of this title](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15098) (relating to the provision of technical assistance and information to States); and
 
   (B) [section 15099 of this title](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15099) (relating to the conduct of evaluations).
 
-(2) **Special rule** — For each year that the amount appropriated pursuant to subsection (a) of this section is $10,000,000 or greater, the Secretary may reserve 5 percent of such amount to carry out [section 15100 of this title](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15100).
+(2) **Special rule** — For each year that the amount appropriated pursuant to subsection (a) is $10,000,000 or greater, the Secretary may reserve 5 percent of such amount to carry out [section 15100 of this title](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15100).
 
 
 <a id="section-15111"></a>
@@ -2042,7 +2044,7 @@ In this subchapter:
 
     (ii) community-based organizations of and for individuals with developmental disabilities and their families;
 
-    (iii) entities funded under subchapter I of this chapter;
+    (iii) entities funded under subchapter I;
 
     (iv) centers for independent living;
 

@@ -791,7 +791,7 @@ Jimmy Carter.
 
 (2) Such regulations shall include provisions for—
 
-  (A) the involuntary allotment of the pay of a member of the uniformed services for indebtedness owed a third party as determined by the final judgment of a court of competent jurisdiction, and as further determined by competent military or executive authority, as appropriate, to be in compliance with the procedural requirements of the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.); and
+  (A) the involuntary allotment of the pay of a member of the uniformed services for indebtedness owed a third party as determined by the final judgment of a court of competent jurisdiction, and as further determined by competent military or executive authority, as appropriate, to be in compliance with the procedural requirements of the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.); 11 See References in Text note below. and
 
   (B) consideration for the absence of a member of the uniformed service from an appearance in a judicial proceeding resulting from the exigencies of military duty.
 
@@ -802,7 +802,7 @@ Jimmy Carter.
 #### References in Text
 The date of the enactment of this Act, referred to in subsec. (k)(1), probably means the date of enactment of Pub. L. 103–94, which enacted this section and was approved Oct. 6, 1993.
 
-The Servicemembers Civil Relief Act, referred to in subsec. (k)(2)(A), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see [section 501 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section501&num=0&edition=prelim), Appendix, and Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (k)(2)(A), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which was classified to section 501 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 50 (§ 3901 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2006—Subsec. (a)(1)(B). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
@@ -1008,18 +1008,26 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 
 <a id="section-5524a"></a>
-## § 5524a. Advance payments for new appointees
-**(a)** The head of each agency may provide for the advance payment of basic pay, covering not more than 2 pay periods, to any individual who is newly appointed to a position in the agency.
+## § 5524a. Advance payments for new appointees and employees relocating within the United States and its territories
+**(a)**
+
+(1) The head of each agency may provide for the advance payment of basic pay, covering not more than 2 pay periods, to any individual who is newly appointed to a position in the agency.
+
+(2) The head of each agency may provide for the advance payment of basic pay, covering not more than 4 pay periods, to an employee who is assigned to a position in the agency that is located—
+
+  (A) outside of the employee’s commuting area; and
+
+  (B) in the United States, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or any territory or possession of the United States.
 
 **(b)**
 
-(1) Subject to adjustment of the account of an employee under paragraph (2) and other applicable statutes, the advance payment of basic pay shall be made, under agency procedures governing advance payments under this section, at the initial rate of basic pay to be payable to the employee upon the commencement of service in the position to which appointed.
+(1) Subject to adjustment of the account of an employee under paragraph (2) and other applicable statutes, the advance payment of basic pay shall be made, under agency procedures governing advance payments under this section, at the initial rate of basic pay to be payable to the employee upon the commencement of service in the position to which appointed or assigned.
 
 (2) The head of each agency shall provide for—
 
   (A) the review of the account of each employee of the agency in receipt of any payment under this section; and
 
-  (B) the adjustment of the amount of any such payment on the basis of the rate of basic pay to which the employee would have been entitled under applicable statute other than this section for the respective periods covered by the payments, if the employee had performed active service under the terms of such employee’s appointment during each period in the position to which appointed.
+  (B) the adjustment of the amount of any such payment on the basis of the rate of basic pay to which the employee would have been entitled under applicable statute other than this section for the respective periods covered by the payments, if the employee had performed active service under the terms of such employee’s appointment or assignment during each period in the position to which appointed or assigned.
 
 **(c)** An advance payment under this section is recoverable by the Government of the United States or the government of the District of Columbia, as the case may be, from the employee or such employee’s estate by—
 
@@ -1029,6 +1037,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 The head of the agency concerned may waive in whole or in part a right of recovery of an advance payment under this section if it is shown that the recovery would be against equity and good conscience or against the public interest.
 
 ### Statutory Notes
+
+#### Amendments
+2016—Pub. L. 114–328, § 1134(c)(1), inserted “and employees relocating within the United States and its territories” after “appointees” in section catchline.
+
+Subsec. (a). Pub. L. 114–328, § 1134(a), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (b)(1). Pub. L. 114–328, § 1134(b)(1), inserted “or assigned” after “appointed”.
+
+Subsec. (b)(2)(B). Pub. L. 114–328, § 1134(b)(2), inserted “or assignment” after “appointment” and “or assigned” after “appointed”.
 
 #### Effective Date
 Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under [section 5301 of this title](./chapter-053-pay-rates-and-systems.md#section-5301).
@@ -1654,7 +1671,7 @@ For the purpose of this subchapter—
 
   (viii) an employee of the Tennessee Valley Authority;
 
-  (ix) an individual to whom [section 1291(a) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1291/a&num=0&edition=prelim), appendix, applies;
+  (ix) an individual to whom section 1291(a) 22 See References in Text note below. of title 50, appendix, applies;
 
   (x) an employee of a Federal land bank, a Federal intermediate credit bank, or a bank for cooperatives;
 
@@ -1717,6 +1734,9 @@ In paragraph (2)(xiii), the words “as defined by [section 901 of title 20](htt
 The exception for officers and employees of the Inland Waterways Corporation in former section 902(b)(3) is omitted on authority of the Act of July 19, 1963, Pub. L. 88–67, 77 Stat. 81.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### References in Text
+[Section 1291(a) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1291/a&num=0&edition=prelim), appendix, referred to in par. (2)(C)(ix), is section 1(a) of act Mar. 24, 1943, ch. 26, 57 Stat. 45, which was classified to section 1291(a) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as [section 4701(a) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4701/a&num=0&edition=prelim).
 
 #### Amendments
 2010—Par. (2)(iv)(II). Pub. L. 111–282 struck out “a member of the United States Secret Service Uniformed Division,” before “a member of the United States Park Police”.
@@ -1831,7 +1851,7 @@ Pub. L. 100–690, title VI, § 6401, Nov. 18, 1988, 102 Stat. 4370, as amended 
 
   (A) Notwithstanding paragraphs (1) and (2), for an employee of the Department of the Navy who is assigned to temporary duty to perform work aboard, or dockside in direct support of, the nuclear aircraft carrier that is forward deployed in Japan and who would be nonexempt under the Fair Labor Standards Act but for the application of the foreign area exemption in section 13(f) of that Act ([29 U.S.C. 213(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section213/f&num=0&edition=prelim)), the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.
 
-  (B) Subparagraph (A) shall expire on September 30, 2015.
+  (B) Subparagraph (A) shall expire on September 30, 2018.
 
 **(b)** For the purpose of this subchapter—
 
@@ -1947,6 +1967,10 @@ Section 7 of the Fair Labor Standards Act of 1938, referred to in subsec. (c), i
 Section 37(a)(3) of the State Department Basic Authorities Act of 1956, referred to in subsec. (e), is classified to [section 2709(a)(3) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2709/a/3&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Amendments
+2016—Subsec. (a)(6)(B). Pub. L. 114–328 substituted “September 30, 2018” for “September 30, 2017”.
+
+2015—Subsec. (a)(6)(B). Pub. L. 114–92 substituted “September 30, 2017” for “September 30, 2015”.
+
 2014—Subsec. (a)(6)(B). Pub. L. 113–291 substituted “2015” for “2014”.
 
 Subsec. (g). Pub. L. 113–277 added subsec. (g).
@@ -2356,7 +2380,7 @@ Amendment by Pub. L. 90–206 effective at beginning of first pay period which b
 
   (B) such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe.
 
-**(i)** The provisions of subsections (a)–(h) providing for availability pay shall apply to a pilot employed by the United States Customs Service who is a law enforcement officer as defined under section 5541(3). For the purpose of this section, [section 5542(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5542/d&num=0&edition=prelim), and section 13(a)(16) and (b)(30) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 213(a)(16)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section213/a/16&num=0&edition=prelim) and (b)(30)), such pilot shall be deemed to be a criminal investigator as defined in this section. The Office of Personnel Management may prescribe regulations to carry out this subsection.
+**(i)** The provisions of subsections (a)–(h) providing for availability pay shall apply to any employee of the U.S. Customs and Border Protection’s Air and Marine Operations, or any successor organization, who is a law enforcement officer as defined under section 5541(3). For the purpose of this section, [section 5542(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5542/d&num=0&edition=prelim), and section 13(a)(16) and (b)(30) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 213(a)(16)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section213/a/16&num=0&edition=prelim) and (b)(30)), such employee shall be deemed to be a criminal investigator as defined in this section. The Office of Personnel Management may prescribe regulations to carry out this subsection.
 
 **(j)** Notwithstanding any other provision of this section, any Office of Inspector General which employs fewer than 5 criminal investigators may elect not to cover such criminal investigators under this section.
 
@@ -2384,6 +2408,8 @@ Title II of Public Law 99–399, referred to in subsecs. (a)(2) and (k)(1), is t
 Sections 609(b)(1), 805, 806, and 856 of the Foreign Service Act of 1980, referred to in subsec. (k)(2)(B), are classified to sections 4009(b)(1), 4045, 4046, and 4071e, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+2016—Subsec. (i). Pub. L. 114–250 substituted “apply to any employee of the U.S. Customs and Border Protection’s Air and Marine Operations, or any successor organization,” for “apply to a pilot employed by the United States Customs Service” and “such employee” for “such pilot”.
+
 1998—Subsec. (a)(2). Pub. L. 105–277, § 101(b) [title IV, § 407(c)(1)] and § 2316(c)(1), amended subsec. (a)(2) identically, substituting “Public Law 99–399, subject to subsection (k))” for “Public Law 99–399)” in introductory provisions.
 
 Subsec. (k). Pub. L. 105–277, § 101(b) [title IV, § 407(a)] and § 2316(a), amended section identically, adding subsec. (k).
@@ -2397,6 +2423,9 @@ Subsec. (a)(2)(E)(v). Pub. L. 104–19, § 901(1)(B), inserted “and” at end.
 Subsec. (i). Pub. L. 104–19, § 902(a), added subsec. (i).
 
 Subsec. (j). Pub. L. 104–19, § 901(2), added subsec. (j).
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–250, § 1(b), Dec. 8, 2016, 130 Stat. 1001, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the first day of the first applicable pay period beginning on or after the date that is 14 days after the date of enactment of this Act [Dec. 8, 2016].”
 
 #### Effective Date of 1998 Amendment
 For effective date of amendment by Pub. L. 105–277, see section 101(b) [title IV, § 407(d)] and section 2316(d) of Pub. L. 105–277, set out as a note under [section 5542 of this title](./chapter-055-pay-administration.md#section-5542).
@@ -2414,7 +2443,7 @@ Pub. L. 103–329, title VI, § 633(e), Sept. 30, 1994, 108 Stat. 2428, provided
 Pub. L. 105–277, div. A, § 101(b) [title IV, § 407(b)], div. G, subdiv. B, title XXIII, § 2316(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–102, 2681–828, provided that: “Not later than the date on which the amendments made by this section [amending this section and [section 5542 of this title](./chapter-055-pay-administration.md#section-5542)] take effect [see Effective Date of 1998 Amendment note set out above], each special agent of the Diplomatic Security Service who satisfies the requirements of subsection (k)(1) of [section 5545a of title 5](./chapter-055-pay-administration.md#section-5545a), United States Code, as amended by this section, and the appropriate supervisory officer, to be designated by the Secretary of State, shall make an initial certification to the Secretary of State that the special agent is expected to meet the requirements of subsection (d) of such section 5545a. The Secretary of State may prescribe procedures necessary to administer this subsection.”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Certification of Criminal Investigators
 Pub. L. 103–329, title VI, § 633(f), Sept. 30, 1994, 108 Stat. 2428, provided that: “Not later than the effective date of this section [see Effective Date note above], each criminal investigator under [section 5545a of title 5](./chapter-055-pay-administration.md#section-5545a), United States Code, as added by this section, and the appropriate supervisory officer, to be designated by the head of the agency, shall make an initial certification to the head of the agency that the criminal investigator is expected to meet the requirements of subsection (d) of such section 5545a. The head of a law enforcement agency may prescribe procedures necessary to administer this paragraph.”
@@ -2710,7 +2739,7 @@ Subsec. (c). Pub. L. 101–509, § 529 [title IV, § 410(b)], added subsec. (c).
 
 1982—Pub. L. 97–276 inserted provision directing that first sentence of this section not apply to any employee of Federal Aviation Administration who is paid premium pay under [section 5546a of this title](./chapter-055-pay-administration.md#section-5546a).
 
-#### Effective Date of of 2014 Amendment
+#### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–277 effective on the first day of the first pay period beginning on or after Jan. 1, 2016, subject to certain exceptions, see section 2(i) of Pub. L. 113–277, set out as a note under [section 5542 of this title](./chapter-055-pay-administration.md#section-5542).
 
 #### Effective Date of 2001 Amendment
@@ -2734,8 +2763,11 @@ Amendment by Pub. L. 97–276 effective at 5 o’clock ante meridian eastern day
 #### Short Title of 1988 Amendment
 Pub. L. 100–523, § 1, Oct. 24, 1988, 102 Stat. 2605, provided: “That this Act [amending this section] may be cited as the ‘Forest Wildfire Emergency Pay Equity Act of 1988’.”
 
+#### Overtime Pay for Protective Services
+Pub. L. 114–311, Dec. 16, 2016, 130 Stat. 1531, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Overtime Pay for Protective Services Act of 2016’. “SEC. 2. PREMIUM PAY EXCEPTION IN 2016 FOR PROTECTIVE SERVICES.“(a) Definition.—In this section, the term ‘covered employee’ means any officer, employee, or agent employed by the United States Secret Service who performs protective services for an individual or event protected by the United States Secret Service during 2016. “(b) Exception to the Limitation on Premium Pay for Protective Services.—“(1) In general.—Notwithstanding any other provision of law, during 2016, [section 5547(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5547/a&num=0&edition=prelim), United States Code, shall not apply to any covered employee to the extent that its application would prevent a covered employee from receiving premium pay, as provided under the amendment made by paragraph (2). “(2) Technical and conforming amendment.—[Amended section 1(a)(3) [title I, § 118] of Pub. L. 106–554, set out below.] “(c) Treatment of Additional Pay.—If subsection (b) results in the payment of additional premium pay to a covered employee of a type that is normally creditable as basic pay for retirement or any other purpose, that additional pay shall not—“(1) be considered to be basic pay of the covered employee for any purpose; or “(2) be used in computing a lump-sum payment to the covered employee for accumulated and accrued annual leave under section 5551 or [section 5552 of title 5](./chapter-055-pay-administration.md#section-5552), United States Code. “(d) Aggregate Limit.—With respect to the application of [section 5307 of title 5](./chapter-053-pay-rates-and-systems.md#section-5307), United States Code, the payment of any additional premium pay to a covered employee as a result of subsection (b) shall not be counted as part of the aggregate compensation of the covered employee. “(e) Effective Date.—This section and the amendments made by this section shall take effect as if enacted on December 31, 2015.”
+
 #### Premium Pay for Protective Services of United States Secret Service
-Pub. L. 106–554, § 1(a)(3) [title I, § 118], Dec. 21, 2000, 114 Stat. 2763, 2763A–134, as amended by Pub. L. 107–107, div. A, title XI, § 1114(b), Dec. 28, 2001, 115 Stat. 1240, provided that: “Hereafter, funds made available by this or any other Act may be used to pay premium pay for protective services authorized by [section 3056(a) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3056/a&num=0&edition=prelim), United States Code, without regard to the restrictions contained in [section 5547 of title 5](./chapter-055-pay-administration.md#section-5547), United States Code, except that such premium pay shall not be payable to an employee to the extent that the aggregate of the employee’s basic and premium pay for the year would otherwise exceed the annual equivalent of that limitation. The term premium pay refers to the provisions of law cited in the first sentence of [section 5547(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5547/a&num=0&edition=prelim), United States Code. Payment of additional premium pay payable under this section may be made in a lump sum on the last payday of the calendar year.”
+Pub. L. 106–554, § 1(a)(3) [title I, § 118], Dec. 21, 2000, 114 Stat. 2763, 2763A–134, as amended by Pub. L. 107–107, div. A, title XI, § 1114(b), Dec. 28, 2001, 115 Stat. 1240; Pub. L. 114–311, § 2(b)(2), Dec. 16, 2016, 130 Stat. 1531, provided that: “Hereafter, funds made available by this or any other Act may be used to pay premium pay for protective services authorized by [section 3056(a) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3056/a&num=0&edition=prelim), United States Code, without regard to the restrictions contained in [section 5547 of title 5](./chapter-055-pay-administration.md#section-5547), United States Code, except that such premium pay shall not be payable to an employee to the extent that the aggregate of the employee’s basic and premium pay for the year would otherwise exceed the annual equivalent of that limitation or, if the employee qualifies for an exception to such limitation under section 2(b)(1) of the Overtime Pay for Protective Services Act of 2016 [Pub. L. 114–311, set out above], to the extent that such aggregate amount would exceed the rate of basic pay payable for a position at level II of the Executive Schedule under [section 5313 of title 5](./chapter-053-pay-rates-and-systems.md#section-5313), United States Code. The term premium pay refers to the provisions of law cited in the first sentence of [section 5547(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5547/a&num=0&edition=prelim), United States Code. Payment of additional premium pay payable under this section may be made in a lump sum on the last payday of the calendar year.”
 
 Similar provisions were contained in Pub. L. 106–58, title I, § 118, Sept. 29, 1999, 113 Stat. 441.
 
@@ -3279,7 +3311,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 1997—Par. (6)(D). Pub. L. 105–85 substituted “housing” for “quarters”.
 
 #### Effective Date of 1997 Amendment
-Pub. L. 105–85, div. A, title VI, § 603(e), Nov. 18, 1997, 111 Stat. 1783, provided that: “This section [amending this section, sections 708, 2830, 2882, 7572, and 7573 of Title 10, Armed Forces, [section 107 of Title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section107&num=0&edition=prelim), National Guard, sections 101, 403, 405, 406, 420, 427, 551, and 1014 of Title 37, Pay and Allowances of the Uniformed Services, and [section 454 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section454&num=0&edition=prelim), Appendix, War and National Defense, repealing [section 403a of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403a&num=0&edition=prelim), and enacting provisions set out as a note under [section 403 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403&num=0&edition=prelim)] and the amendments made by this section shall take effect on January 1, 1998.”
+Pub. L. 105–85, div. A, title VI, § 603(e), Nov. 18, 1997, 111 Stat. 1783, provided that: “This section [amending this section, sections 708, 2830, 2882, 7572, and 7573 of Title 10, Armed Forces, [section 107 of Title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section107&num=0&edition=prelim), National Guard, sections 101, 403, 405, 406, 420, 427, 551, and 1014 of Title 37, Pay and Allowances of the Uniformed Services, and [section 3803 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3803&num=0&edition=prelim), War and National Defense, repealing [section 403a of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403a&num=0&edition=prelim), and enacting provisions set out as a note under [section 403 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403&num=0&edition=prelim)] and the amendments made by this section shall take effect on January 1, 1998.”
 
 #### Accounting for Civilian Employees and Contractors of United States
 Pub. L. 104–106, div. A, title V, § 569(e), Feb. 10, 1996, 110 Stat. 352, directed Secretary of State to carry out comprehensive study of provisions of this subchapter and any other law or regulation establishing procedures for accounting for civilian employees of the United States or contractors of the United States who serve with or accompany the Armed Forces in the field to determine the means, if any, by which those procedures may be improved, and further provided for submission of report to Congress not later than one year after Feb. 10, 1996, on results of study.
@@ -3830,7 +3862,7 @@ The date of the enactment of the Victims of Terrorism Compensation Act [title VI
 
 Section 802 of the Victims of Terrorism Compensation Act [Pub. L. 99–399], referred to in subsec. (d)(2), is set out as a note below.
 
-The Servicemembers Civil Relief Act, referred to in subsec. (e)(1), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. Titles IV and V of the Act are classified to sections 541 et seq. and 561 et seq., respectively, of Title 50, Appendix. Sections 104, 105, 106, 501, 510, and 702 of the Act are classified to sections 514, 515, 516, 561, 570, and 592, respectively, of Title 50, Appendix. For complete classification of this Act to the Code, see [section 501 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section501&num=0&edition=prelim), Appendix, and Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (e)(1), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. Titles IV and V of the Act are classified to subchapters IV (§ 3971 et seq.) and V (§ 3991 et seq.), respectively, of chapter 50 of Title 50. Sections 104, 105, 106, 501, 510, and 702 of the Act are classified to sections 3914, 3915, 3917, 3991, 4000, and 4022, respectively, of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2003—Subsec. (e)(1). Pub. L. 108–189, § 2(b)(2)(A), which directed substitution of “provided by the Servicemembers Civil Relief Act, including the benefits provided by section 702 of such Act but excluding the benefits provided by sections 104, 105, and 106, title IV, and title V (other than sections 501 and 510) of such Act” for “ ‘provided by the Soldiers’ and Sailors’ Civil Relief Act of 1940’ and all that follows through ‘of such Act’ ” was executed by making the substitution for “provided by the Soldiers’ and Sailors’ Civil Relief Act of 1940, including the benefits provided by section 701 of such Act but excluding the benefits provided by sections 104, 105, 106, 400 through 408, 501 through 512, and 514 of such Act” to reflect the probable intent of Congress.

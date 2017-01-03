@@ -2,7 +2,7 @@
 title: 36
 chapter: '21'
 heading: AMERICAN BATTLE MONUMENTS COMMISSION
-section_count: 14
+section_count: 15
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36&num=0&edition=prelim
 ---
@@ -624,3 +624,9 @@ Pub. L. 106–117, title VI, § 601(c), Nov. 30, 1999, 113 Stat. 1578, provided 
 **(d) Legal Representation.—** The Attorney General shall furnish the Commission with such legal representation as the Commission may require under subsection (c). The Secretary of Defense shall provide representation for the Commission in administrative proceedings before the Patent and Trademark Office and Copyright Office.
 
 **(e) Irrevocability of Transfers of Copyrights to Commission.—** [Section 203 of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section203&num=0&edition=prelim) shall not apply to any copyright transferred in any manner to the Commission.
+
+
+<a id="section-2115"></a>
+## § 2115. Acquisition, operation, and maintenance of Lafayette Escadrille Memorial
+
+The American Battle Monuments Commission may enter into an agreement with the Lafayette Escadrille Memorial Foundation to acquire, operate, and maintain the Lafayette Escadrille Memorial in Marnes-la-Coquette, France. Under such an agreement, the Commission shall make necessary arrangements to ensure the ongoing maintenance of the memorial, including the cemetery at the memorial that contains the remains of 49 aviators of the United States who died during World War I.

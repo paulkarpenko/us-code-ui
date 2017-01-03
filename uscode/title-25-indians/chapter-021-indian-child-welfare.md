@@ -183,7 +183,7 @@ Upon application by an Indian individual who has reached the age of eighteen and
 
 **(b) Criteria applicable to consideration by Secretary; partial retrocession**
 
-(1) In considering the petition and feasibility of the plan of a tribe under subsection (a) of this section, the Secretary may consider, among other things:
+(1) In considering the petition and feasibility of the plan of a tribe under subsection (a), the Secretary may consider, among other things:
 
   (i) whether or not the tribe maintains a membership roll or alternative provision for clearly identifying the persons who will be affected by the reassumption of jurisdiction by the tribe;
 
@@ -195,7 +195,7 @@ Upon application by an Indian individual who has reached the age of eighteen and
 
 (2) In those cases where the Secretary determines that the jurisdictional provisions of [section 1911(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1911/a&num=0&edition=prelim) are not feasible, he is authorized to accept partial retrocession which will enable tribes to exercise referral jurisdiction as provided in [section 1911(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1911/b&num=0&edition=prelim), or, where appropriate, will allow them to exercise exclusive jurisdiction as provided in [section 1911(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1911/a&num=0&edition=prelim) over limited community or geographic areas without regard for the reservation status of the area affected.
 
-**(c) Approval of petition; publication in Federal Register; notice; reassumption period; correction of causes for disapproval** If the Secretary approves any petition under subsection (a) of this section, the Secretary shall publish notice of such approval in the Federal Register and shall notify the affected State or States of such approval. The Indian tribe concerned shall reassume jurisdiction sixty days after publication in the Federal Register of notice of approval. If the Secretary disapproves any petition under subsection (a) of this section, the Secretary shall provide such technical assistance as may be necessary to enable the tribe to correct any deficiency which the Secretary identified as a cause for disapproval.
+**(c) Approval of petition; publication in Federal Register; notice; reassumption period; correction of causes for disapproval** If the Secretary approves any petition under subsection (a), the Secretary shall publish notice of such approval in the Federal Register and shall notify the affected State or States of such approval. The Indian tribe concerned shall reassume jurisdiction sixty days after publication in the Federal Register of notice of approval. If the Secretary disapproves any petition under subsection (a), the Secretary shall provide such technical assistance as may be necessary to enable the tribe to correct any deficiency which the Secretary identified as a cause for disapproval.
 
 **(d) Pending actions or proceedings unaffected** Assumption of jurisdiction under this section shall not affect any action or proceeding over which a court has already assumed jurisdiction, except as may be provided pursuant to any agreement under [section 1919 of this title](./chapter-021-indian-child-welfare.md#section-1919).
 

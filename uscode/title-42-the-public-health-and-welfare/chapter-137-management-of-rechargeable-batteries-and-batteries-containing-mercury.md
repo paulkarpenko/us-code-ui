@@ -93,17 +93,17 @@ The Administrator shall, in consultation with representatives of rechargeable ba
 
 (2) in the case of any violation or failure to comply with an order issued under this section, may commence a civil action in the United States district court in the district in which the violation occurred or in the district in which the violator resides for appropriate relief, including a temporary or permanent injunction.
 
-**(b) Contents of order** An order under subsection (a)(1) of this section shall state with reasonable specificity the nature of the violation.
+**(b) Contents of order** An order under subsection (a)(1) shall state with reasonable specificity the nature of the violation.
 
-**(c) Considerations** In assessing a civil penalty under subsection (a)(1) of this section, the Administrator shall take into account the seriousness of the violation and any good faith efforts to comply with applicable requirements.
+**(c) Considerations** In assessing a civil penalty under subsection (a)(1), the Administrator shall take into account the seriousness of the violation and any good faith efforts to comply with applicable requirements.
 
-**(d) Finality of order; request for hearing** An order under subsection (a)(1) of this section shall become final unless, not later than 30 days after the order is served, a person named in the order requests a hearing on the record.
+**(d) Finality of order; request for hearing** An order under subsection (a)(1) shall become final unless, not later than 30 days after the order is served, a person named in the order requests a hearing on the record.
 
-**(e) Hearing** On receiving a request under subsection (d) of this section, the Administrator shall promptly conduct a hearing on the record.
+**(e) Hearing** On receiving a request under subsection (d), the Administrator shall promptly conduct a hearing on the record.
 
 **(f) Subpoena power** In connection with any hearing on the record under this section, the Administrator may issue subpoenas for the attendance and testimony of witnesses and for the production of relevant papers, books, and documents.
 
-**(g) Continued violation after expiration of period for compliance** If a violator fails to take corrective action within the time specified in an order under subsection (a)(1) of this section, the Administrator may assess a civil penalty of not more than $10,000 for the continued noncompliance with the order.
+**(g) Continued violation after expiration of period for compliance** If a violator fails to take corrective action within the time specified in an order under subsection (a)(1), the Administrator may assess a civil penalty of not more than $10,000 for the continued noncompliance with the order.
 
 **(h) Savings provision** The Administrator may not take any enforcement action against a person for selling, offering for sale, or offering for promotional purposes to the ultimate consumer a battery or product covered by this chapter that was—
 
@@ -131,7 +131,7 @@ when such chemical contents make the sale, offering for sale, or offering for pr
 (4) an authorized agent of a person described in paragraph (1), (2), or (3),
 shall establish and maintain such records and report such information as the Administrator may by regulation reasonably require to carry out the objectives of this chapter.
 
-**(b) Access and copying** The Administrator or the Administrator’s authorized representative, on presentation of credentials of the Administrator, may at reasonable times have access to and copy any records required to be maintained under subsection (a) of this section.
+**(b) Access and copying** The Administrator or the Administrator’s authorized representative, on presentation of credentials of the Administrator, may at reasonable times have access to and copy any records required to be maintained under subsection (a).
 
 **(c) Confidentiality** The Administrator shall maintain the confidentiality of documents and records that contain proprietary information.
 
@@ -162,7 +162,7 @@ The purpose of this subchapter is to facilitate the efficient recycling or prope
 ## § 14322. Rechargeable consumer products and labeling
 **(a) Prohibition**
 
-(1) **In general** — No person shall sell for use in the United States a regulated battery that is ready for retail sale or a rechargeable consumer product that is ready for retail sale, if such battery or product was manufactured on or after the date 12 months after May 13, 1996, unless the labeling requirements of subsection (b) of this section are met and, in the case of a regulated battery, the regulated battery—
+(1) **In general** — No person shall sell for use in the United States a regulated battery that is ready for retail sale or a rechargeable consumer product that is ready for retail sale, if such battery or product was manufactured on or after the date 12 months after May 13, 1996, unless the labeling requirements of subsection (b) are met and, in the case of a regulated battery, the regulated battery—
 
   (A) is easily removable from the rechargeable consumer product; or
 
@@ -190,13 +190,13 @@ The purpose of this subchapter is to facilitate the efficient recycling or prope
 
 **(c) Existing or alternative labeling**
 
-(1) **Initial period** — For a period of 2 years after May 13, 1996, regulated batteries, rechargeable consumer products containing regulated batteries, and rechargeable consumer product packages that are labeled in substantial compliance with subsection (b) of this section shall be deemed to comply with the labeling requirements of subsection (b) of this section.
+(1) **Initial period** — For a period of 2 years after May 13, 1996, regulated batteries, rechargeable consumer products containing regulated batteries, and rechargeable consumer product packages that are labeled in substantial compliance with subsection (b) shall be deemed to comply with the labeling requirements of subsection (b).
 
 (2) **Certification**
 
-  (A) *In general* — On application by persons subject to the labeling requirements of subsection (b) of this section or the labeling requirements promulgated by the Administrator under subsection (d) of this section, the Administrator shall certify that a different label meets the requirements of subsection (b) or (d) of this section, respectively, if the different label—
+  (A) *In general* — On application by persons subject to the labeling requirements of subsection (b) or the labeling requirements promulgated by the Administrator under subsection (d), the Administrator shall certify that a different label meets the requirements of subsection (b) or (d), respectively, if the different label—
 
-    (i) conveys the same information as the label required under subsection (b) or (d) of this section, respectively; or
+    (i) conveys the same information as the label required under subsection (b) or (d), respectively; or
 
     (ii) conforms with a recognized international standard that is consistent with the overall purposes of this subchapter.
 
@@ -210,13 +210,13 @@ The purpose of this subchapter is to facilitate the efficient recycling or prope
 
   (B) promulgate requirements for easy removability of regulated batteries from rechargeable consumer products designed to contain such batteries.
 
-(2) **Substantial similarity** — The regulations promulgated under paragraph (1) shall be substantially similar to the requirements set forth in subsections (a) and (b) of this section.
+(2) **Substantial similarity** — The regulations promulgated under paragraph (1) shall be substantially similar to the requirements set forth in subsections (a) and (b).
 
-**(e) Uniformity** After the effective dates of a requirement set forth in subsection (a), (b), or (c) of this section or a regulation promulgated by the Administrator under subsection (d) of this section, no Federal agency, State, or political subdivision of a State may enforce any easy removability or environmental labeling requirement for a rechargeable battery or rechargeable consumer product that is not identical to the requirement or regulation.
+**(e) Uniformity** After the effective dates of a requirement set forth in subsection (a), (b), or (c) or a regulation promulgated by the Administrator under subsection (d), no Federal agency, State, or political subdivision of a State may enforce any easy removability or environmental labeling requirement for a rechargeable battery or rechargeable consumer product that is not identical to the requirement or regulation.
 
 **(f) Exemptions**
 
-(1) **In general** — With respect to any rechargeable consumer product, any person may submit an application to the Administrator for an exemption from the requirements of subsection (a) of this section in accordance with the procedures under paragraph (2). The application shall include the following information:
+(1) **In general** — With respect to any rechargeable consumer product, any person may submit an application to the Administrator for an exemption from the requirements of subsection (a) in accordance with the procedures under paragraph (2). The application shall include the following information:
 
   (A) A statement of the specific basis for the request for the exemption.
 
@@ -233,7 +233,7 @@ The purpose of this subchapter is to facilitate the efficient recycling or prope
 
 <a id="section-14323"></a>
 ## § 14323. Requirements
-**(a) Batteries subject to certain regulations** The collection, storage, or transportation of used rechargeable batteries, batteries described in [section 14302(5)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14302/5/C&num=0&edition=prelim) or in subchapter III of this chapter, and used rechargeable consumer products containing rechargeable batteries that are not easily removable rechargeable batteries, shall, notwithstanding any law of a State or political subdivision thereof governing such collection, storage, or transportation, be regulated under applicable provisions of the regulations promulgated by the Environmental Protection Agency at 60 Fed. Reg. 25492 (May 11, 1995), as effective on May 11, 1995, except as provided in paragraph (2) of subsection (b) of this section and except that—
+**(a) Batteries subject to certain regulations** The collection, storage, or transportation of used rechargeable batteries, batteries described in [section 14302(5)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14302/5/C&num=0&edition=prelim) or in subchapter III, and used rechargeable consumer products containing rechargeable batteries that are not easily removable rechargeable batteries, shall, notwithstanding any law of a State or political subdivision thereof governing such collection, storage, or transportation, be regulated under applicable provisions of the regulations promulgated by the Environmental Protection Agency at 60 Fed. Reg. 25492 (May 11, 1995), as effective on May 11, 1995, except as provided in paragraph (2) of subsection (b) and except that—
 
 (1) the requirements of 40 CFR 260.20, 260.40, and 260.41 and the equivalent requirements of an approved State program shall not apply, and
 
@@ -243,9 +243,9 @@ The purpose of this subchapter is to facilitate the efficient recycling or prope
 
 (1) Any person who fails to comply with the requirements imposed by subsection (a) of this section may be subject to enforcement under applicable provisions of the Solid Waste Disposal Act [[42 U.S.C. 6901](./chapter-082-solid-waste-disposal.md#section-6901) et seq.].
 
-(2) States may implement and enforce the requirements of subsection (a) of this section if the Administrator finds that—
+(2) States may implement and enforce the requirements of subsection (a) if the Administrator finds that—
 
-  (A) the State has adopted requirements that are identical to those referred to in subsection (a) of this section governing the collection, storage, or transportation of batteries referred to in subsection (a) of this section; and
+  (A) the State has adopted requirements that are identical to those referred to in subsection (a) governing the collection, storage, or transportation of batteries referred to in subsection (a); and
 
   (B) the State provides for enforcement of such requirements.
 

@@ -1468,6 +1468,11 @@ Section was enacted as part of the Energy Efficiency Improvement Act of 2015, an
 
 (2) summarizes and highlights development, at the State and local level, of high-performance green building initiatives, including executive orders, policies, or laws adopted promoting high-performance green building (including the status of implementation of those initiatives).
 
+### Statutory Notes
+
+#### Change of Name
+Office of the Federal Environmental Executive reestablished as the Office of the Chief Sustainability Officer by Ex. Ord. No. 13693, § 6, Mar. 19, 2015, 80 F.R. 15877, set out in a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
+
 
 <a id="section-17092"></a>
 ## § 17092. Zero Net Energy Commercial Buildings Initiative
@@ -1831,6 +1836,9 @@ In subsec. (c)(2), “[section 1302(a) of title 41](https://uscode.house.gov/vie
 This part, referred to in subsecs. (a)(2), (c)(6), (f)(1) and (h)(2)(B), was in the original “this subtitle”, meaning subtitle C (§§ 431–441) of title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1607, which enacted this part, amended sections 6832, 6834, 8253, and 8254 of this title, and enacted provisions set out as a note under [section 6834 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6834). For complete classification of subtitle C to the Code, see Tables.
 
 Section 474, referred to in subsec. (c)(3), probably means section 494 of Pub. L. 110–140, which is classified to [section 17123 of this title](./chapter-152-energy-independence-and-security.md#section-17123).
+
+#### Change of Name
+Office of the Federal Environmental Executive reestablished as the Office of the Chief Sustainability Officer by Ex. Ord. No. 13693, § 6, Mar. 19, 2015, 80 F.R. 15877, set out in a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
 
 
 <a id="section-17112"></a>
@@ -2255,6 +2263,11 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e), is
 
 No Federal agency shall enter into a contract for procurement of an alternative or synthetic fuel, including a fuel produced from nonconventional petroleum sources, for any mobility-related use, other than for research or testing, unless the contract specifies that the lifecycle greenhouse gas emissions associated with the production and combustion of the fuel supplied under the contract must, on an ongoing basis, be less than or equal to such emissions from the equivalent conventional fuel produced from conventional petroleum sources.
 
+### Statutory Notes
+
+#### Waiver Authority for Alternative Fuel Procurement Requirement
+Pub. L. 114–328, div. A, title III, § 312, Dec. 23, 2016, 130 Stat. 2073, provided that: “(a) In General.—The Secretary of Defense may waive the requirement under section 526 of the Energy Independence and Security Act of 2007 (Public Law 110–140; [42 U.S.C. 17142](./chapter-152-energy-independence-and-security.md#section-17142)) if the Secretary determines it is in the national security interest of the United States. “(b) Notification Requirement.—The Secretary of Defense shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] not later than 15 days after exercising the waiver authority under subsection (a).”
+
 
 <a id="section-17151"></a>
 ## § 17151. Government efficiency status reports
@@ -2339,7 +2352,7 @@ In this part:
 
     (ii) a county with a population of at least 200,000.
 
-(4) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim).
+(4) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 (5) **Program** — The term “program” means the Energy Efficiency and Conservation Block Grant Program established under [section 17152(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17152/a&num=0&edition=prelim).
 

@@ -97,7 +97,7 @@ In this section: 11 So in original. Probably should be a reference to this chapt
 
 (9) **Hydrologic accounting unit** — The term “hydrologic accounting unit” means 1 of the 352 river basin hydrologic accounting units used by the United States Geological Survey.
 
-(10) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim).
+(10) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 (11) **Major aquifer system** — The term “major aquifer system” means a groundwater system that is—
 
@@ -352,7 +352,7 @@ The Endangered Species Act of 1973, referred to in subsec. (b)(3)(E), is Pub. L.
 
 **(d) Relationship to project-specific authority** This section shall not supersede any existing project-specific funding authority.
 
-**(e) Authorization of appropriations** There is authorized to be appropriated to carry out this section $300,000,000, to remain available until expended.
+**(e) Authorization of appropriations** There is authorized to be appropriated to carry out this section $450,000,000,11 See Funding note below. to remain available until expended.
 
 ### Statutory Notes
 
@@ -360,7 +360,14 @@ The Endangered Species Act of 1973, referred to in subsec. (b)(3)(E), is Pub. L.
 The Endangered Species Act of 1973, referred to in subsec. (a)(1)(F), (G), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2016—Subsec. (e). Pub. L. 114–322 substituted “$450,000,000” for “$350,000,000”.
+
+2015—Subsec. (e). Pub. L. 114–113 substituted “$350,000,000” for “$300,000,000”.
+
 2014—Subsec. (e). Pub. L. 113–235 substituted “$300,000,000” for “$200,000,000”.
+
+#### Funding
+Pub. L. 114–322, title III, § 4009(d), Dec. 16, 2016, 130 Stat. 1870, provided that: “Section 9504 of the Omnibus Public Land Management Act of 2009 ([42 U.S.C. 10364](./chapter-109b-secure-water.md#section-10364)) is amended in subsection (e) by striking ‘$350,000,000’ and inserting ‘$450,000,000’ on the condition that of that amount, $50,000,000 of it is used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriation Act, 2015 ([43 U.S.C. 620](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section620&num=0&edition=prelim) note; Public Law 113–235).”
 
 
 <a id="section-10365"></a>

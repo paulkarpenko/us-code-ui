@@ -167,7 +167,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
   (D) *Regulation as including order* — The term “regulation” includes an order.
 
-**(b) Posting** Any regulation or order covered by subsection (a) of this section shall be posted in conspicuous and appropriate places.
+**(b) Posting** Any regulation or order covered by subsection (a) shall be posted in conspicuous and appropriate places.
 
 ### Statutory Notes
 

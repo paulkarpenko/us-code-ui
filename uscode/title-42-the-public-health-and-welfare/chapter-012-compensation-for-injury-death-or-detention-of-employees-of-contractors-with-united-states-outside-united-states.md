@@ -25,7 +25,7 @@ and such injury proximately results from a war-risk hazard, whether or not such 
 
 **(b) Missing persons considered as totally disabled**
 
-(1) Any person specified in subsection (a) of this section who—
+(1) Any person specified in subsection (a) who—
 
   (A) is found to be missing from his place of employment, whether or not such person then actually was engaged in the course of his employment, under circumstances supporting an inference that his absence is due to the belligerent action of a hostile force or person, or
 
@@ -322,24 +322,24 @@ Previously, “ ‘Administrator’ means the Federal Security Administrator” 
 <a id="section-1712"></a>
 ## § 1712. Disqualification from benefits
 
-No person convicted in a court of competent jurisdiction of any subversive act against the United States or any of its Allies, committed after the declaration by the President on May 27, 1941, of the national emergency, shall be entitled to compensation or other benefits under subchapter I of this chapter, nor shall any compensation be payable with respect to his death or detention under said subchapter, and upon indictment or the filing of an information charging the commission of any such subversive act, all such compensation or other benefits shall be suspended and remain suspended until acquittal or withdrawal of such charge, but upon conviction thereof or upon death occurring prior to a final disposition thereof, all such payments and all benefits under said subchapter shall be forfeited and terminated. If the charge is withdrawn, or there is an acquittal, all such compensation withheld shall be paid to the person or persons entitled thereto.
+No person convicted in a court of competent jurisdiction of any subversive act against the United States or any of its Allies, committed after the declaration by the President on May 27, 1941, of the national emergency, shall be entitled to compensation or other benefits under subchapter I, nor shall any compensation be payable with respect to his death or detention under said subchapter, and upon indictment or the filing of an information charging the commission of any such subversive act, all such compensation or other benefits shall be suspended and remain suspended until acquittal or withdrawal of such charge, but upon conviction thereof or upon death occurring prior to a final disposition thereof, all such payments and all benefits under said subchapter shall be forfeited and terminated. If the charge is withdrawn, or there is an acquittal, all such compensation withheld shall be paid to the person or persons entitled thereto.
 
 ### Statutory Notes
 
 #### National Emergency Declared on May 27, 1941
-The national emergency declared by the President on May 27, 1941, by Proc. No. 2487, 6 F.R. 2617, 55 Stat. 1647, was terminated April 28, 1952 by Proc. No. 2974, Apr. 30, 1952, 17 F.R. 3813, 66 Stat. c31, set out as a note preceding section 1 of Appendix to Title 50, War and National Defense.
+The national emergency declared by the President on May 27, 1941, by Proc. No. 2487, 6 F.R. 2617, 55 Stat. 1647, was terminated April 28, 1952 by Proc. No. 2974, Apr. 30, 1952, 17 F.R. 3813, 66 Stat. c31, set out as a note preceding [section 1 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1&num=0&edition=prelim), War and National Defense.
 
 
 <a id="section-1713"></a>
 ## § 1713. Fraud; penalties
 
-Whoever, for the purpose of causing an increase in any payment authorized to be made under this chapter, or for the purpose of causing any payment to be made where no payment is authorized hereunder, shall knowingly make or cause to be made, or aid or abet in the making of any false statement or representation of a material fact in any application for any payment under subchapter I of this chapter, or knowingly make or cause to be made, or aid or abet in the making of any false statement, representation, affidavit, or document in connection with such an application, or claim, shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $1,000 or imprisoned for not more than one year, or both.
+Whoever, for the purpose of causing an increase in any payment authorized to be made under this chapter, or for the purpose of causing any payment to be made where no payment is authorized hereunder, shall knowingly make or cause to be made, or aid or abet in the making of any false statement or representation of a material fact in any application for any payment under subchapter I, or knowingly make or cause to be made, or aid or abet in the making of any false statement, representation, affidavit, or document in connection with such an application, or claim, shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $1,000 or imprisoned for not more than one year, or both.
 
 
 <a id="section-1714"></a>
 ## § 1714. Legal services
 
-No claim for legal services or for any other services rendered in respect of a claim or award for compensation under subchapter I of this chapter to or on account of any person shall be valid unless approved by the Secretary; and any claim so approved shall, in the manner and to the extent fixed by the said Secretary, be paid out of the compensation payable to the claimant; and any person who receives any fee, other consideration, or any gratuity on account of services so rendered, unless such consideration or gratuity is so approved, or who solicits employment for another person or for himself in respect of any claim or award for compensation under said subchapter shall be guilty of a misdemeanor and upon conviction thereof shall, for each offense, be fined not more than $1,000 or imprisoned not more than one year, or both.
+No claim for legal services or for any other services rendered in respect of a claim or award for compensation under subchapter I to or on account of any person shall be valid unless approved by the Secretary; and any claim so approved shall, in the manner and to the extent fixed by the said Secretary, be paid out of the compensation payable to the claimant; and any person who receives any fee, other consideration, or any gratuity on account of services so rendered, unless such consideration or gratuity is so approved, or who solicits employment for another person or for himself in respect of any claim or award for compensation under subchapter I shall be guilty of a misdemeanor and upon conviction thereof shall, for each offense, be fined not more than $1,000 or imprisoned not more than one year, or both.
 
 ### Statutory Notes
 
@@ -350,7 +350,7 @@ For transfer of functions to Secretary of Labor, see note set out under [section
 <a id="section-1715"></a>
 ## § 1715. Finality of Secretary’s decisions
 
-The action of the Secretary in allowing or denying any payment under subchapter I of this chapter shall be final and conclusive on all questions of law and fact and not subject to review by any other official of the United States or by any court by mandamus or otherwise, and the Comptroller General is authorized and directed to allow credit in the accounts of any certifying or disbursing officer for payments in accordance with such action.
+The action of the Secretary in allowing or denying any payment under subchapter I shall be final and conclusive on all questions of law and fact and not subject to review by any other official of the United States or by any court by mandamus or otherwise, and the Comptroller General is authorized and directed to allow credit in the accounts of any certifying or disbursing officer for payments in accordance with such action.
 
 ### Statutory Notes
 
@@ -375,4 +375,4 @@ Amendment by Pub. L. 85–608 effective June 30, 1958, see section 402 of Pub. L
 <a id="section-1717"></a>
 ## § 1717. Assignment of benefits; execution, levy, etc., against benefits
 
-The right of any person to any benefit under subchapter I of this chapter shall not be transferable or assignable at law or in equity except to the United States, and none of the moneys paid or payable (except money paid hereunder as reimbursement for funeral expenses or as reimbursement with respect to payments of workmen’s compensation or in the nature of workmen’s compensation benefits), or rights existing under said subchapter, shall be subject to execution, levy, attachment, garnishment, or other legal process or to the operation of any bankruptcy or insolvency law.
+The right of any person to any benefit under subchapter I shall not be transferable or assignable at law or in equity except to the United States, and none of the moneys paid or payable (except money paid hereunder as reimbursement for funeral expenses or as reimbursement with respect to payments of workmen’s compensation or in the nature of workmen’s compensation benefits), or rights existing under said subchapter, shall be subject to execution, levy, attachment, garnishment, or other legal process or to the operation of any bankruptcy or insolvency law.

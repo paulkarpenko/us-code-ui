@@ -28,7 +28,7 @@ source: >-
 
   (B) there is reason to believe that the delay in an investigation or trial occasioned by further proceedings relating to the subpena would threaten the interests of justice.
 
-**(c) Objections to court ordered subpoenas; affidavits** In the event a search warrant is sought pursuant to paragraph (4)(B) of subsection (b) of this section, the person possessing the materials shall be afforded adequate opportunity to submit an affidavit setting forth the basis for any contention that the materials sought are not subject to seizure.
+**(c) Objections to court ordered subpoenas; affidavits** In the event a search warrant is sought pursuant to paragraph (4)(B) of subsection (b), the person possessing the materials shall be afforded adequate opportunity to submit an affidavit setting forth the basis for any contention that the materials sought are not subject to seizure.
 
 ### Statutory Notes
 
@@ -56,7 +56,7 @@ Pub. L. 96–440, § 1, Oct. 13, 1980, 94 Stat. 1879, provided: “That this Act
 
 (4) a requirement that an application for a warrant to conduct a search governed by this subchapter be approved by an attorney for the government, except that in an emergency situation the application may be approved by another appropriate supervisory official if within 24 hours of such emergency the appropriate United States Attorney is notified.
 
-**(b) Use of search warrants; reports to Congress** The Attorney General shall collect and compile information on, and report annually to the Committees on the Judiciary of the Senate and the House of Representatives on the use of search warrants by Federal officers and employees for documentary materials described in subsection (a)(3) of this section.
+**(b) Use of search warrants; reports to Congress** The Attorney General shall collect and compile information on, and report annually to the Committees on the Judiciary of the Senate and the House of Representatives on the use of search warrants by Federal officers and employees for documentary materials described in subsection (a)(3).
 
 
 <a id="section-2000aa-12"></a>
@@ -79,11 +79,11 @@ This chapter shall not impair or affect the ability of a government officer or e
 
 (2) against an officer or employee of a State who has violated this chapter while acting within the scope or under color of his office or employment, if such State has not waived its sovereign immunity as provided in paragraph (1).
 
-**(b) Good faith defense** It shall be a complete defense to a civil action brought under paragraph (2) of subsection (a) of this section that the officer or employee had a reasonable good faith belief in the lawfulness of his conduct.
+**(b) Good faith defense** It shall be a complete defense to a civil action brought under paragraph (2) of subsection (a) that the officer or employee had a reasonable good faith belief in the lawfulness of his conduct.
 
-**(c) Official immunity** The United States, a State, or any other governmental unit liable for violations of this chapter under subsection (a)(1) of this section, may not assert as a defense to a claim arising under this chapter the immunity of the officer or employee whose violation is complained of or his reasonable good faith belief in the lawfulness of his conduct, except that such a defense may be asserted if the violation complained of is that of a judicial officer.
+**(c) Official immunity** The United States, a State, or any other governmental unit liable for violations of this chapter under subsection (a)(1), may not assert as a defense to a claim arising under this chapter the immunity of the officer or employee whose violation is complained of or his reasonable good faith belief in the lawfulness of his conduct, except that such a defense may be asserted if the violation complained of is that of a judicial officer.
 
-**(d) Exclusive nature of remedy** The remedy provided by subsection (a)(1) of this section against the United States, a State, or any other governmental unit is exclusive of any other civil action or proceeding for conduct constituting a violation of this chapter, against the officer or employee whose violation gave rise to the claim, or against the estate of such officer or employee.
+**(d) Exclusive nature of remedy** The remedy provided by subsection (a)(1) against the United States, a State, or any other governmental unit is exclusive of any other civil action or proceeding for conduct constituting a violation of this chapter, against the officer or employee whose violation gave rise to the claim, or against the estate of such officer or employee.
 
 **(e) Admissibility of evidence** Evidence otherwise admissible in a proceeding shall not be excluded on the basis of a violation of this chapter.
 

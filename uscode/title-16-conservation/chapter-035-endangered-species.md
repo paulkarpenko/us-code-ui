@@ -161,7 +161,10 @@ Sec. 6. General Provisions. (a) This order shall be implemented consistent with 
 
 Barack Obama.
 
-[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657 set out as a note under [section 3021 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim), War and National Defense.]
+[Reference to the National Security Staff to be understood to refer to the staff of the National Security Council, see Ex. Ord. No. 13657, set out as a note under [section 3021 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim), War and National Defense.]
+
+#### Extension of Term of Advisory Council on Wildlife Trafficking
+Term of Advisory Council on Wildlife Trafficking extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-1532"></a>
@@ -277,7 +280,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 ## § 1533. Determination of endangered species and threatened species
 **(a) Generally**
 
-(1) The Secretary shall by regulation promulgated in accordance with subsection (b) of this section determine whether any species is an endangered species or a threatened species because of any of the following factors:
+(1) The Secretary shall by regulation promulgated in accordance with subsection (b) determine whether any species is an endangered species or a threatened species because of any of the following factors:
 
   (A) the present or threatened destruction, modification, or curtailment of its habitat or range;
 
@@ -309,7 +312,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 (3)
 
-  (A) The Secretary, by regulation promulgated in accordance with subsection (b) of this section and to the maximum extent prudent and determinable—
+  (A) The Secretary, by regulation promulgated in accordance with subsection (b) and to the maximum extent prudent and determinable—
 
     (i) shall, concurrently with making a determination under paragraph (1) that a species is an endangered species or a threatened species, designate any habitat of such species which is then considered to be critical habitat; and
 
@@ -327,7 +330,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 (1)
 
-  (A) The Secretary shall make determinations required by subsection (a)(1) of this section solely on the basis of the best scientific and commercial data available to him after conducting a review of the status of the species and after taking into account those efforts, if any, being made by any State or foreign nation, or any political subdivision of a State or foreign nation, to protect such species, whether by predator control, protection of habitat and food supply, or other conservation practices, within any area under its jurisdiction; or on the high seas.
+  (A) The Secretary shall make determinations required by subsection (a)(1) solely on the basis of the best scientific and commercial data available to him after conducting a review of the status of the species and after taking into account those efforts, if any, being made by any State or foreign nation, or any political subdivision of a State or foreign nation, to protect such species, whether by predator control, protection of habitat and food supply, or other conservation practices, within any area under its jurisdiction; or on the high seas.
 
   (B) In carrying out this section, the Secretary shall give consideration to species which have been—
 
@@ -335,11 +338,11 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
     (ii) identified as in danger of extinction, or likely to become so within the foreseeable future, by any State agency or by any agency of a foreign nation that is responsible for the conservation of fish or wildlife or plants.
 
-(2) The Secretary shall designate critical habitat, and make revisions thereto, under subsection (a)(3) of this section on the basis of the best scientific data available and after taking into consideration the economic impact, the impact on national security, and any other relevant impact, of specifying any particular area as critical habitat. The Secretary may exclude any area from critical habitat if he determines that the benefits of such exclusion outweigh the benefits of specifying such area as part of the critical habitat, unless he determines, based on the best scientific and commercial data available, that the failure to designate such area as critical habitat will result in the extinction of the species concerned.
+(2) The Secretary shall designate critical habitat, and make revisions thereto, under subsection (a)(3) on the basis of the best scientific data available and after taking into consideration the economic impact, the impact on national security, and any other relevant impact, of specifying any particular area as critical habitat. The Secretary may exclude any area from critical habitat if he determines that the benefits of such exclusion outweigh the benefits of specifying such area as part of the critical habitat, unless he determines, based on the best scientific and commercial data available, that the failure to designate such area as critical habitat will result in the extinction of the species concerned.
 
 (3)
 
-  (A) To the maximum extent practicable, within 90 days after receiving the petition of an interested person under [section 553(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553/e&num=0&edition=prelim), to add a species to, or to remove a species from, either of the lists published under subsection (c) of this section, the Secretary shall make a finding as to whether the petition presents substantial scientific or commercial information indicating that the petitioned action may be warranted. If such a petition is found to present such information, the Secretary shall promptly commence a review of the status of the species concerned. The Secretary shall promptly publish each finding made under this subparagraph in the Federal Register.
+  (A) To the maximum extent practicable, within 90 days after receiving the petition of an interested person under [section 553(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553/e&num=0&edition=prelim), to add a species to, or to remove a species from, either of the lists published under subsection (c), the Secretary shall make a finding as to whether the petition presents substantial scientific or commercial information indicating that the petitioned action may be warranted. If such a petition is found to present such information, the Secretary shall promptly commence a review of the status of the species concerned. The Secretary shall promptly publish each finding made under this subparagraph in the Federal Register.
 
   (B) Within 12 months after receiving a petition that is found under subparagraph (A) to present substantial information indicating that the petitioned action may be warranted, the Secretary shall make one of the following findings:
 
@@ -351,7 +354,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
       (I) the immediate proposal and timely promulgation of a final regulation implementing the petitioned action in accordance with paragraphs (5) and (6) is precluded by pending proposals to determine whether any species is an endangered species or a threatened species, and
 
-      (II) expeditious progress is being made to add qualified species to either of the lists published under subsection (c) of this section and to remove from such lists species for which the protections of this chapter are no longer necessary,
+      (II) expeditious progress is being made to add qualified species to either of the lists published under subsection (c) and to remove from such lists species for which the protections of this chapter are no longer necessary,
       in which case the Secretary shall promptly publish such finding in the Federal Register, together with a description and evaluation of the reasons and data on which the finding is based.
 
   (C)
@@ -370,7 +373,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 (4) Except as provided in paragraphs (5) and (6) of this subsection, the provisions of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) (relating to rulemaking procedures), shall apply to any regulation promulgated to carry out the purposes of this chapter.
 
-(5) With respect to any regulation proposed by the Secretary to implement a determination, designation, or revision referred to in subsection (a)(1) or (3) of this section, the Secretary shall—
+(5) With respect to any regulation proposed by the Secretary to implement a determination, designation, or revision referred to in subsection (a)(1) or (3), the Secretary shall—
 
   (A) not less than 90 days before the effective date of the regulation—
 
@@ -431,7 +434,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(c) Lists**
 
-(1) The Secretary of the Interior shall publish in the Federal Register a list of all species determined by him or the Secretary of Commerce to be endangered species and a list of all species determined by him or the Secretary of Commerce to be threatened species. Each list shall refer to the species contained therein by scientific and common name or names, if any, specify with respect to each such species over what portion of its range it is endangered or threatened, and specify any critical habitat within such range. The Secretary shall from time to time revise each list published under the authority of this subsection to reflect recent determinations, designations, and revisions made in accordance with subsections (a) and (b) of this section.
+(1) The Secretary of the Interior shall publish in the Federal Register a list of all species determined by him or the Secretary of Commerce to be endangered species and a list of all species determined by him or the Secretary of Commerce to be threatened species. Each list shall refer to the species contained therein by scientific and common name or names, if any, specify with respect to each such species over what portion of its range it is endangered or threatened, and specify any critical habitat within such range. The Secretary shall from time to time revise each list published under the authority of this subsection to reflect recent determinations, designations, and revisions made in accordance with subsections (a) and (b).
 
 (2) The Secretary shall—
 
@@ -444,7 +447,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
     (ii) be changed in status from an endangered species to a threatened species; or
 
     (iii) be changed in status from a threatened species to an endangered species.
-  Each determination under subparagraph (B) shall be made in accordance with the provisions of subsections (a) and (b) of this section.
+  Each determination under subparagraph (B) shall be made in accordance with the provisions of subsections (a) and (b).
 
 **(d) Protective regulations** Whenever any species is listed as a threatened species pursuant to subsection (c) of this section, the Secretary shall issue such regulations as he deems necessary and advisable to provide for the conservation of such species. The Secretary may by regulation prohibit with respect to any threatened species any act prohibited under [section 1538(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1538/a/1&num=0&edition=prelim), in the case of fish or wildlife, or [section 1538(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1538/a/2&num=0&edition=prelim), in the case of plants, with respect to endangered species; except that with respect to the taking of resident species of fish or wildlife, such regulations shall apply in any State which has entered into a cooperative agreement pursuant to [section 1535(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1535/c&num=0&edition=prelim) only to the extent that such regulations have also been adopted by such State.
 
@@ -480,7 +483,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(g) Monitoring**
 
-(1) The Secretary shall implement a system in cooperation with the States to monitor effectively for not less than five years the status of all species which have recovered to the point at which the measures provided pursuant to this chapter are no longer necessary and which, in accordance with the provisions of this section, have been removed from either of the lists published under subsection (c) of this section.
+(1) The Secretary shall implement a system in cooperation with the States to monitor effectively for not less than five years the status of all species which have recovered to the point at which the measures provided pursuant to this chapter are no longer necessary and which, in accordance with the provisions of this section, have been removed from either of the lists published under subsection (c).
 
 (2) The Secretary shall make prompt use of the authority under paragraph 7 22 So in original. Probably should be paragraph “(7)”. of subsection (b) of this section to prevent a significant risk to the well being of any such recovered species.
 
@@ -495,7 +498,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 (4) a system for developing and implementing, on a priority basis, recovery plans under subsection (f) of this section.
 The Secretary shall provide to the public notice of, and opportunity to submit written comments on, any guideline (including any amendment thereto) proposed to be established under this subsection.
 
-**(i) Submission to State agency of justification for regulations inconsistent with State agency’s comments or petition** If, in the case of any regulation proposed by the Secretary under the authority of this section, a State agency to which notice thereof was given in accordance with subsection (b)(5)(A)(ii) of this section files comments disagreeing with all or part of the proposed regulation, and the Secretary issues a final regulation which is in conflict with such comments, or if the Secretary fails to adopt a regulation pursuant to an action petitioned by a State agency under subsection (b)(3) of this section, the Secretary shall submit to the State agency a written justification for his failure to adopt regulations consistent with the agency’s comments or petition.
+**(i) Submission to State agency of justification for regulations inconsistent with State agency’s comments or petition** If, in the case of any regulation proposed by the Secretary under the authority of this section, a State agency to which notice thereof was given in accordance with subsection (b)(5)(A)(ii) files comments disagreeing with all or part of the proposed regulation, and the Secretary issues a final regulation which is in conflict with such comments, or if the Secretary fails to adopt a regulation pursuant to an action petitioned by a State agency under subsection (b)(3), the Secretary shall submit to the State agency a written justification for his failure to adopt regulations consistent with the agency’s comments or petition.
 
 ### Statutory Notes
 
@@ -519,7 +522,7 @@ Subsec. (f). Pub. L. 100–478, § 1003, amended subsec. (f) generally. Prior to
 
 Subsecs. (g) to (i). Pub. L. 100–478, § 1004, added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
-1982—Subsec. (a)(1). Pub. L. 97–304, § 2(a)(1)(B), (D), inserted “promulgated in accordance with subsection (b) of this section” after “shall by regulation” in introductory provisions preceding subpar. (A), and struck out provision following subpar. (E), which directed the Secretary, at the time regulations were proposed, to specify any habitat of a species considered to be a critical habitat but that such specification of critical habitats not apply to species listed prior to Nov. 10, 1978.
+1982—Subsec. (a)(1). Pub. L. 97–304, § 2(a)(1)(B), (D), inserted “promulgated in accordance with subsection (b)” after “shall by regulation” in introductory provisions preceding subpar. (A), and struck out provision following subpar. (E), which directed the Secretary, at the time regulations were proposed, to specify any habitat of a species considered to be a critical habitat but that such specification of critical habitats not apply to species listed prior to Nov. 10, 1978.
 
 Subsec. (a)(1)(A). Pub. L. 97–304, § 2(a)(1)(A), redesignated subpar. (1) as (A).
 
@@ -531,7 +534,7 @@ Subsec. (a)(3). Pub. L. 97–304, § 2(a)(1)(E), added par. (3).
 
 Subsec. (b). Pub. L. 97–304, § 2(a)(2), completely revised subsec. (b) by, among other changes, requiring the Secretary to base determinations regarding the listing or delisting of species “solely” on the basis of the best scientific and commercial data available, streamlining the listing process by reducing the time periods for rulemaking, consolidating public meetings and hearing requirements, and establishing virtually identical procedures for the listing and delisting of species and for the designation of critical habitat, and altering the evidentiary standard which petitioners must satisfy to warrant a status review of the species proposed for listing or delisting.
 
-Subsec. (c)(1). Pub. L. 97–304, § 2(a)(3)(A), struck out “, and from time to time he may by regulation revise,” after “Federal Register” and inserted provision directing the Secretary to revise from time to time each list published under the authority of this subsection to reflect recent determinations, designations, and revisions made in accordance with subsections (a) and (b) of this section.
+Subsec. (c)(1). Pub. L. 97–304, § 2(a)(3)(A), struck out “, and from time to time he may by regulation revise,” after “Federal Register” and inserted at end “The Secretary shall from time to time revise each list published under the authority of this subsection to reflect recent determinations, designations, and revisions made in accordance with subsections (a) and (b).”
 
 Subsec. (c)(2). Pub. L. 97–304, § 2(a)(3)(B), (C), redesignated par. (4) as (2). Former par. (2), directing the Secretary, within 90 days of the receipt of the petition of an interested person under [section 553(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553/e&num=0&edition=prelim), to conduct and publish in the Federal Register a review of the status of any listed or unlisted species proposed to be removed from or added to either of the lists published pursuant to paragraph (1) of this subsection, but only if he made and published a finding that such person had presented substantial evidence which in his judgment warranted such a review, was struck out.
 
@@ -594,7 +597,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 (2) is authorized to acquire by purchase, donation, or otherwise, lands, waters, or interest therein, and such authority shall be in addition to any other land acquisition authority vested in him.
 
-**(b) Availability of funds for acquisition of lands, waters, etc.** Funds made available pursuant to chapter 2003 of title 54,11 So in original. Comma probably should not appear. may be used for the purpose of acquiring lands, waters, or interests therein under subsection (a) of this section.
+**(b) Availability of funds for acquisition of lands, waters, etc.** Funds made available pursuant to chapter 2003 of title 54 may be used for the purpose of acquiring lands, waters, or interests therein under subsection (a) of this section.
 
 ### Statutory Notes
 
@@ -606,7 +609,7 @@ The Fish and Wildlife Coordination Act, as amended, referred to in subsec. (a)(1
 The Migratory Bird Conservation Act, referred to in subsec. (a)(1), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 715 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) and Tables.
 
 #### Amendments
-2014—Subsec. (b). Pub. L. 113–287 substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965, as amended”.
+2014—Subsec. (b). Pub. L. 113–287 substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965, as amended,”.
 
 1978—Subsec. (a). Pub. L. 95–632, among other changes in text preceding par. (1), inserted reference to the Secretary of Agriculture with respect to the National Forest System and substituted the establishment and implementation of a plan to conserve plants for the establishment and implementation of a plan to conserve plants which were concluded in Appendices to the Convention.
 
@@ -754,13 +757,13 @@ Nothing in the amendment of [section 1379 of this title](./chapter-031-marine-ma
 
 (3) Subject to such guidelines as the Secretary may establish, a Federal agency shall consult with the Secretary on any prospective agency action at the request of, and in cooperation with, the prospective permit or license applicant if the applicant has reason to believe that an endangered species or a threatened species may be present in the area affected by his project and that implementation of such action will likely affect such species.
 
-(4) Each Federal agency shall confer with the Secretary on any agency action which is likely to jeopardize the continued existence of any species proposed to be listed under [section 1533 of this title](./chapter-035-endangered-species.md#section-1533) or result in the destruction or adverse modification of critical habitat proposed to be designated for such species. This paragraph does not require a limitation on the commitment of resources as described in subsection (d) of this section.
+(4) Each Federal agency shall confer with the Secretary on any agency action which is likely to jeopardize the continued existence of any species proposed to be listed under [section 1533 of this title](./chapter-035-endangered-species.md#section-1533) or result in the destruction or adverse modification of critical habitat proposed to be designated for such species. This paragraph does not require a limitation on the commitment of resources as described in subsection (d).
 
 **(b) Opinion of Secretary**
 
 (1)
 
-  (A) Consultation under subsection (a)(2) of this section with respect to any agency action shall be concluded within the 90-day period beginning on the date on which initiated or, subject to subparagraph (B), within such other period of time as is mutually agreeable to the Secretary and the Federal agency.
+  (A) Consultation under subsection (a)(2) with respect to any agency action shall be concluded within the 90-day period beginning on the date on which initiated or, subject to subparagraph (B), within such other period of time as is mutually agreeable to the Secretary and the Federal agency.
 
   (B) In the case of an agency action involving a permit or license applicant, the Secretary and the Federal agency may not mutually agree to conclude consultation within a period exceeding 90 days unless the Secretary, before the close of the 90th day referred to in subparagraph (A)—
 
@@ -775,15 +778,15 @@ Nothing in the amendment of [section 1379 of this title](./chapter-031-marine-ma
     (ii) if the consultation period proposed to be agreed to will end 150 or more days after the date on which consultation was initiated, obtains the consent of the applicant to such period.
     The Secretary and the Federal agency may mutually agree to extend a consultation period established under the preceding sentence if the Secretary, before the close of such period, obtains the consent of the applicant to the extension.
 
-(2) Consultation under subsection (a)(3) of this section shall be concluded within such period as is agreeable to the Secretary, the Federal agency, and the applicant concerned.
+(2) Consultation under subsection (a)(3) shall be concluded within such period as is agreeable to the Secretary, the Federal agency, and the applicant concerned.
 
 (3)
 
-  (A) Promptly after conclusion of consultation under paragraph (2) or (3) of subsection (a) of this section, the Secretary shall provide to the Federal agency and the applicant, if any, a written statement setting forth the Secretary’s opinion, and a summary of the information on which the opinion is based, detailing how the agency action affects the species or its critical habitat. If jeopardy or adverse modification is found, the Secretary shall suggest those reasonable and prudent alternatives which he believes would not violate subsection (a)(2) of this section and can be taken by the Federal agency or applicant in implementing the agency action.
+  (A) Promptly after conclusion of consultation under paragraph (2) or (3) of subsection (a), the Secretary shall provide to the Federal agency and the applicant, if any, a written statement setting forth the Secretary’s opinion, and a summary of the information on which the opinion is based, detailing how the agency action affects the species or its critical habitat. If jeopardy or adverse modification is found, the Secretary shall suggest those reasonable and prudent alternatives which he believes would not violate subsection (a)(2) and can be taken by the Federal agency or applicant in implementing the agency action.
 
-  (B) Consultation under subsection (a)(3) of this section, and an opinion issued by the Secretary incident to such consultation, regarding an agency action shall be treated respectively as a consultation under subsection (a)(2) of this section, and as an opinion issued after consultation under such subsection, regarding that action if the Secretary reviews the action before it is commenced by the Federal agency and finds, and notifies such agency, that no significant changes have been made with respect to the action and that no significant change has occurred regarding the information used during the initial consultation.
+  (B) Consultation under subsection (a)(3), and an opinion issued by the Secretary incident to such consultation, regarding an agency action shall be treated respectively as a consultation under subsection (a)(2), and as an opinion issued after consultation under such subsection, regarding that action if the Secretary reviews the action before it is commenced by the Federal agency and finds, and notifies such agency, that no significant changes have been made with respect to the action and that no significant change has occurred regarding the information used during the initial consultation.
 
-(4) If after consultation under subsection (a)(2) of this section, the Secretary concludes that—
+(4) If after consultation under subsection (a)(2), the Secretary concludes that—
 
   (A) the agency action will not violate such subsection, or offers reasonable and prudent alternatives which the Secretary believes would not violate such subsection;
 
@@ -802,11 +805,11 @@ Nothing in the amendment of [section 1379 of this title](./chapter-031-marine-ma
 
 **(c) Biological assessment**
 
-(1) To facilitate compliance with the requirements of subsection (a)(2) of this section, each Federal agency shall, with respect to any agency action of such agency for which no contract for construction has been entered into and for which no construction has begun on November 10, 1978, request of the Secretary information whether any species which is listed or proposed to be listed may be present in the area of such proposed action. If the Secretary advises, based on the best scientific and commercial data available, that such species may be present, such agency shall conduct a biological assessment for the purpose of identifying any endangered species or threatened species which is likely to be affected by such action. Such assessment shall be completed within 180 days after the date on which initiated (or within such other period as is mutually agreed to by the Secretary and such agency, except that if a permit or license applicant is involved, the 180-day period may not be extended unless such agency provides the applicant, before the close of such period, with a written statement setting forth the estimated length of the proposed extension and the reasons therefor) and, before any contract for construction is entered into and before construction is begun with respect to such action. Such assessment may be undertaken as part of a Federal agency’s compliance with the requirements of section 102 of the National Environmental Policy Act of 1969 ([42 U.S.C. 4332](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332&num=0&edition=prelim)).
+(1) To facilitate compliance with the requirements of subsection (a)(2), each Federal agency shall, with respect to any agency action of such agency for which no contract for construction has been entered into and for which no construction has begun on November 10, 1978, request of the Secretary information whether any species which is listed or proposed to be listed may be present in the area of such proposed action. If the Secretary advises, based on the best scientific and commercial data available, that such species may be present, such agency shall conduct a biological assessment for the purpose of identifying any endangered species or threatened species which is likely to be affected by such action. Such assessment shall be completed within 180 days after the date on which initiated (or within such other period as is mutually agreed to by the Secretary and such agency, except that if a permit or license applicant is involved, the 180-day period may not be extended unless such agency provides the applicant, before the close of such period, with a written statement setting forth the estimated length of the proposed extension and the reasons therefor) and, before any contract for construction is entered into and before construction is begun with respect to such action. Such assessment may be undertaken as part of a Federal agency’s compliance with the requirements of section 102 of the National Environmental Policy Act of 1969 ([42 U.S.C. 4332](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332&num=0&edition=prelim)).
 
 (2) Any person who may wish to apply for an exemption under subsection (g) of this section for that action may conduct a biological assessment to identify any endangered species or threatened species which is likely to be affected by such action. Any such biological assessment must, however, be conducted in cooperation with the Secretary and under the supervision of the appropriate Federal agency.
 
-**(d) Limitation on commitment of resources** After initiation of consultation required under subsection (a)(2) of this section, the Federal agency and the permit or license applicant shall not make any irreversible or irretrievable commitment of resources with respect to the agency action which has the effect of foreclosing the formulation or implementation of any reasonable and prudent alternative measures which would not violate subsection (a)(2) of this section.
+**(d) Limitation on commitment of resources** After initiation of consultation required under subsection (a)(2), the Federal agency and the permit or license applicant shall not make any irreversible or irretrievable commitment of resources with respect to the agency action which has the effect of foreclosing the formulation or implementation of any reasonable and prudent alternative measures which would not violate subsection (a)(2) of this section.
 
 **(e) Endangered Species Committee**
 
@@ -828,7 +831,7 @@ Nothing in the amendment of [section 1379 of this title](./chapter-031-marine-ma
 
   (F) The Administrator of the National Oceanic and Atmospheric Administration.
 
-  (G) The President, after consideration of any recommendations received pursuant to subsection (g)(2)(B) of this section shall appoint one individual from each affected State, as determined by the Secretary, to be a member of the Committee for the consideration of the application for exemption for an agency action with respect to which such recommendations are made, not later than 30 days after an application is submitted pursuant to this section.
+  (G) The President, after consideration of any recommendations received pursuant to subsection (g)(2)(B) shall appoint one individual from each affected State, as determined by the Secretary, to be a member of the Committee for the consideration of the application for exemption for an agency action with respect to which such recommendations are made, not later than 30 days after an application is submitted pursuant to this section.
 
 (4)
 
@@ -874,11 +877,11 @@ Nothing in the amendment of [section 1379 of this title](./chapter-031-marine-ma
 
 **(g) Application for exemption; report to Committee**
 
-(1) A Federal agency, the Governor of the State in which an agency action will occur, if any, or a permit or license applicant may apply to the Secretary for an exemption for an agency action of such agency if, after consultation under subsection (a)(2) of this section, the Secretary’s opinion under subsection (b) of this section indicates that the agency action would violate subsection (a)(2) of this section. An application for an exemption shall be considered initially by the Secretary in the manner provided for in this subsection, and shall be considered by the Committee for a final determination under subsection (h) of this section after a report is made pursuant to paragraph (5). The applicant for an exemption shall be referred to as the “exemption applicant” in this section.
+(1) A Federal agency, the Governor of the State in which an agency action will occur, if any, or a permit or license applicant may apply to the Secretary for an exemption for an agency action of such agency if, after consultation under subsection (a)(2), the Secretary’s opinion under subsection (b) indicates that the agency action would violate subsection (a)(2). An application for an exemption shall be considered initially by the Secretary in the manner provided for in this subsection, and shall be considered by the Committee for a final determination under subsection (h) after a report is made pursuant to paragraph (5). The applicant for an exemption shall be referred to as the “exemption applicant” in this section.
 
 (2)
 
-  (A) An exemption applicant shall submit a written application to the Secretary, in a form prescribed under subsection (f) of this section, not later than 90 days after the completion of the consultation process; except that, in the case of any agency action involving a permit or license applicant, such application shall be submitted not later than 90 days after the date on which the Federal agency concerned takes final agency action with respect to the issuance of the permit or license. For purposes of the preceding sentence, the term “final agency action” means (i) a disposition by an agency with respect to the issuance of a permit or license that is subject to administrative review, whether or not such disposition is subject to judicial review; or (ii) if administrative review is sought with respect to such disposition, the decision resulting after such review. Such application shall set forth the reasons why the exemption applicant considers that the agency action meets the requirements for an exemption under this subsection.
+  (A) An exemption applicant shall submit a written application to the Secretary, in a form prescribed under subsection (f), not later than 90 days after the completion of the consultation process; except that, in the case of any agency action involving a permit or license applicant, such application shall be submitted not later than 90 days after the date on which the Federal agency concerned takes final agency action with respect to the issuance of the permit or license. For purposes of the preceding sentence, the term “final agency action” means (i) a disposition by an agency with respect to the issuance of a permit or license that is subject to administrative review, whether or not such disposition is subject to judicial review; or (ii) if administrative review is sought with respect to such disposition, the decision resulting after such review. Such application shall set forth the reasons why the exemption applicant considers that the agency action meets the requirements for an exemption under this subsection.
 
   (B) Upon receipt of an application for exemption for an agency action under paragraph (1), the Secretary shall promptly (i) notify the Governor of each affected State, if any, as determined by the Secretary, and request the Governors so notified to recommend individuals to be appointed to the Endangered Species Committee for consideration of such application; and (ii) publish notice of receipt of the application in the Federal Register, including a summary of the information contained in the application and a description of the agency action with respect to which the application for exemption has been filed.
 
@@ -886,11 +889,11 @@ Nothing in the amendment of [section 1379 of this title](./chapter-031-marine-ma
 
   (A) determine that the Federal agency concerned and the exemption applicant have—
 
-    (i) carried out the consultation responsibilities described in subsection (a) of this section in good faith and made a reasonable and responsible effort to develop and fairly consider modifications or reasonable and prudent alternatives to the proposed agency action which would not violate subsection (a)(2) of this section;
+    (i) carried out the consultation responsibilities described in subsection (a) in good faith and made a reasonable and responsible effort to develop and fairly consider modifications or reasonable and prudent alternatives to the proposed agency action which would not violate subsection (a)(2);
 
-    (ii) conducted any biological assessment required by subsection (c) of this section; and
+    (ii) conducted any biological assessment required by subsection (c); and
 
-    (iii) to the extent determinable within the time provided herein, refrained from making any irreversible or irretrievable commitment of resources prohibited by subsection (d) of this section; or
+    (iii) to the extent determinable within the time provided herein, refrained from making any irreversible or irretrievable commitment of resources prohibited by subsection (d); or
 
   (B) deny the application for exemption because the Federal agency concerned or the exemption applicant have not met the requirements set forth in subparagraph (A)(i), (ii), and (iii).
   The denial of an application under subparagraph (B) shall be considered final agency action for purposes of chapter 7 of title 5.
@@ -905,7 +908,7 @@ Nothing in the amendment of [section 1379 of this title](./chapter-031-marine-ma
 
   (C) appropriate reasonable mitigation and enhancement measures which should be considered by the Committee; and
 
-  (D) whether the Federal agency concerned and the exemption applicant refrained from making any irreversible or irretrievable commitment of resources prohibited by subsection (d) of this section.
+  (D) whether the Federal agency concerned and the exemption applicant refrained from making any irreversible or irretrievable commitment of resources prohibited by subsection (d).
 
 (6) To the extent practicable within the time required for action under subsection (g) of this section, and except to the extent inconsistent with the requirements of this section, the consideration of any application for an exemption under this section and the conduct of any hearing under this subsection shall be in accordance with sections 554, 555, and 556 (other than subsection (b)(3) of section 556) of title 5.
 
@@ -915,9 +918,9 @@ Nothing in the amendment of [section 1379 of this title](./chapter-031-marine-ma
 
 **(h) Grant of exemption**
 
-(1) The Committee shall make a final determination whether or not to grant an exemption within 30 days after receiving the report of the Secretary pursuant to subsection (g)(5) of this section. The Committee shall grant an exemption from the requirements of subsection (a)(2) of this section for an agency action if, by a vote of not less than five of its members voting in person—
+(1) The Committee shall make a final determination whether or not to grant an exemption within 30 days after receiving the report of the Secretary pursuant to subsection (g)(5). The Committee shall grant an exemption from the requirements of subsection (a)(2) for an agency action if, by a vote of not less than five of its members voting in person—
 
-  (A) it determines on the record, based on the report of the Secretary, the record of the hearing held under subsection (g)(4) of this section and on such other testimony or evidence as it may receive, that—
+  (A) it determines on the record, based on the report of the Secretary, the record of the hearing held under subsection (g)(4) and on such other testimony or evidence as it may receive, that—
 
     (i) there are no reasonable and prudent alternatives to the agency action;
 
@@ -925,7 +928,7 @@ Nothing in the amendment of [section 1379 of this title](./chapter-031-marine-ma
 
     (iii) the action is of regional or national significance; and
 
-    (iv) neither the Federal agency concerned nor the exemption applicant made any irreversible or irretrievable commitment of resources prohibited by subsection (d) of this section; and
+    (iv) neither the Federal agency concerned nor the exemption applicant made any irreversible or irretrievable commitment of resources prohibited by subsection (d); and
 
   (B) it establishes such reasonable mitigation and enhancement measures, including, but not limited to, live propagation, transplantation, and habitat acquisition and improvement, as are necessary and appropriate to minimize the adverse effects of the agency action upon the endangered species, threatened species, or critical habitat concerned.
   Any final determination by the Committee under this subsection shall be considered final agency action for purposes of chapter 7 of title 5.
@@ -936,11 +939,11 @@ Nothing in the amendment of [section 1379 of this title](./chapter-031-marine-ma
 
     (i) regardless whether the species was identified in the biological assessment; and
 
-    (ii) only if a biological assessment has been conducted under subsection (c) of this section with respect to such agency action.
+    (ii) only if a biological assessment has been conducted under subsection (c) with respect to such agency action.
 
   (B) An exemption shall be permanent under subparagraph (A) unless—
 
-    (i) the Secretary finds, based on the best scientific and commercial data available, that such exemption would result in the extinction of a species that was not the subject of consultation under subsection (a)(2) of this section or was not identified in any biological assessment conducted under subsection (c) of this section, and
+    (i) the Secretary finds, based on the best scientific and commercial data available, that such exemption would result in the extinction of a species that was not the subject of consultation under subsection (a)(2) or was not identified in any biological assessment conducted under subsection (c), and
 
     (ii) the Committee determines within 60 days after the date of the Secretary’s finding that the exemption should not be permanent.
     If the Secretary makes a finding described in clause (i), the Committee shall meet with respect to the matter within 30 days after the date of the finding.
@@ -953,19 +956,19 @@ Nothing in the amendment of [section 1379 of this title](./chapter-031-marine-ma
 
 **(l) Committee order granting exemption; cost of mitigation and enhancement measures; report by applicant to Council on Environmental Quality**
 
-(1) If the Committee determines under subsection (h) of this section that an exemption should be granted with respect to any agency action, the Committee shall issue an order granting the exemption and specifying the mitigation and enhancement measures established pursuant to subsection (h) of this section which shall be carried out and paid for by the exemption applicant in implementing the agency action. All necessary mitigation and enhancement measures shall be authorized prior to the implementing of the agency action and funded concurrently with all other project features.
+(1) If the Committee determines under subsection (h) that an exemption should be granted with respect to any agency action, the Committee shall issue an order granting the exemption and specifying the mitigation and enhancement measures established pursuant to subsection (h) which shall be carried out and paid for by the exemption applicant in implementing the agency action. All necessary mitigation and enhancement measures shall be authorized prior to the implementing of the agency action and funded concurrently with all other project features.
 
 (2) The applicant receiving such exemption shall include the costs of such mitigation and enhancement measures within the overall costs of continuing the proposed action. Notwithstanding the preceding sentence the costs of such measures shall not be treated as project costs for the purpose of computing benefit-cost or other ratios for the proposed action. Any applicant may request the Secretary to carry out such mitigation and enhancement measures. The costs incurred by the Secretary in carrying out any such measures shall be paid by the applicant receiving the exemption. No later than one year after the granting of an exemption, the exemption applicant shall submit to the Council on Environmental Quality a report describing its compliance with the mitigation and enhancement measures prescribed by this section. Such a report shall be submitted annually until all such mitigation and enhancement measures have been completed. Notice of the public availability of such reports shall be published in the Federal Register by the Council on Environmental Quality.
 
 **(m) Notice requirement for citizen suits not applicable** The 60-day notice requirement of [section 1540(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1540/g&num=0&edition=prelim) shall not apply with respect to review of any final determination of the Committee under subsection (h) of this section granting an exemption from the requirements of subsection (a)(2) of this section.
 
-**(n) Judicial review** Any person, as defined by [section 1532(13) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1532/13&num=0&edition=prelim), may obtain judicial review, under chapter 7 of title 5, of any decision of the Endangered Species Committee under subsection (h) of this section in the United States Court of Appeals for (1) any circuit wherein the agency action concerned will be, or is being, carried out, or (2) in any case in which the agency action will be, or is being, carried out outside of any circuit, the District of Columbia, by filing in such court within 90 days after the date of issuance of the decision, a written petition for review. A copy of such petition shall be transmitted by the clerk of the court to the Committee and the Committee shall file in the court the record in the proceeding, as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim). Attorneys designated by the Endangered Species Committee may appear for, and represent the Committee in any action for review under this subsection.
+**(n) Judicial review** Any person, as defined by [section 1532(13) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1532/13&num=0&edition=prelim), may obtain judicial review, under chapter 7 of title 5, of any decision of the Endangered Species Committee under subsection (h) in the United States Court of Appeals for (1) any circuit wherein the agency action concerned will be, or is being, carried out, or (2) in any case in which the agency action will be, or is being, carried out outside of any circuit, the District of Columbia, by filing in such court within 90 days after the date of issuance of the decision, a written petition for review. A copy of such petition shall be transmitted by the clerk of the court to the Committee and the Committee shall file in the court the record in the proceeding, as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim). Attorneys designated by the Endangered Species Committee may appear for, and represent the Committee in any action for review under this subsection.
 
 **(o) Exemption as providing exception on taking of endangered species** Notwithstanding sections 1533(d) and 1538(a)(1)(B) and (C) of this title, sections 1371 and 1372 of this title, or any regulation promulgated to implement any such section—
 
-(1) any action for which an exemption is granted under subsection (h) of this section shall not be considered to be a taking of any endangered species or threatened species with respect to any activity which is necessary to carry out such action; and
+(1) any action for which an exemption is granted under subsection (h) shall not be considered to be a taking of any endangered species or threatened species with respect to any activity which is necessary to carry out such action; and
 
-(2) any taking that is in compliance with the terms and conditions specified in a written statement provided under subsection (b)(4)(iv) of this section shall not be considered to be a prohibited taking of the species concerned.
+(2) any taking that is in compliance with the terms and conditions specified in a written statement provided under subsection (b)(4)(iv) shall not be considered to be a prohibited taking of the species concerned.
 
 **(p) Exemptions in Presidentially declared disaster areas** In any area which has been declared by the President to be a major disaster area under the Disaster Relief and Emergency Assistance Act [[42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.], the President is authorized to make the determinations required by subsections (g) and (h) of this section for any project for the repair or replacement of a public facility substantially as it existed prior to the disaster under section 405 or 406 of the Disaster Relief and Emergency Assistance Act [[42 U.S.C. 5171](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5171&num=0&edition=prelim) or 5172], and which the President determines (1) is necessary to prevent the recurrence of such a natural disaster and to reduce the potential loss of human life, and (2) to involve an emergency situation which does not allow the ordinary procedures of this section to be followed. Notwithstanding any other provision of this section, the Committee shall accept the determinations of the President under this subsection.
 
@@ -999,9 +1002,9 @@ Subsec. (c)(1). Pub. L. 97–304, § 4(a)(3), inserted “, except that if a per
 
 Subsec. (e)(10). Pub. L. 97–304, § 4(a)(4), struck out provision that, except in the case of a member designated pursuant to paragraph (3)(G) of this subsection, no member could designate any person to serve as his or her representative unless that person was, at the time of such designation, holding a Federal office the appointment to which was subject to the advice and consent of the United States Senate.
 
-Subsec. (g)(1). Pub. L. 97–304, § 4(a)(5)(B), substituted “An application for an exemption shall be considered initially by the Secretary in the manner provided for in this subsection, and shall be considered by the Committee for a final determination under subsection (h) of this section after a report is made pursuant to paragraph (5)” for “An application for an exemption shall be considered initially by a review board in the manner provided in this subsection, and shall be considered by the Endangered Species Committee for a final determination under subsection (h) of this section after a report is made by the review board”.
+Subsec. (g)(1). Pub. L. 97–304, § 4(a)(5)(B), substituted “An application for an exemption shall be considered initially by the Secretary in the manner provided for in this subsection, and shall be considered by the Committee for a final determination under subsection (h) after a report is made pursuant to paragraph (5)” for “An application for an exemption shall be considered initially by a review board in the manner provided in this subsection, and shall be considered by the Endangered Species Committee for a final determination under subsection (h) after a report is made by the review board”.
 
-Subsec. (g)(2)(A). Pub. L. 97–304, § 4(a)(5)(C)(i), substituted “An exemption applicant shall submit a written application to the Secretary, in a form prescribed under subsection (f) of this section, not later than 90 days after the completion of the consultation process; except that, in the case of any agency action involving a permit or license applicant, such application shall be submitted not later than 90 days after the date on which the Federal agency concerned takes final agency action with respect to the issuance of the permit or license” for “An exemption applicant shall submit a written application to the Secretary, in a form prescribed under subsection (f) of this section, not later than 90 days after the completion of the consultation process; or, in the case of any agency action involving a permit or license applicant, not later than 90 days after the date on which the Federal agency concerned takes final agency action, for purposes of chapter 7 of title 5, with respect to the issuance of the permit or license” and inserted provision that, “For purposes of the preceding sentence, the term ‘final agency action’ means (i) a disposition by an agency with respect to the issuance of a permit or license that is subject to administrative review, whether or not such disposition is subject to judicial review; or (ii) if administrative review is sought with respect to such disposition, the decision resulting after such review.”
+Subsec. (g)(2)(A). Pub. L. 97–304, § 4(a)(5)(C)(i), substituted “An exemption applicant shall submit a written application to the Secretary, in a form prescribed under subsection (f), not later than 90 days after the completion of the consultation process; except that, in the case of any agency action involving a permit or license applicant, such application shall be submitted not later than 90 days after the date on which the Federal agency concerned takes final agency action with respect to the issuance of the permit or license” for “An exemption applicant shall submit a written application to the Secretary, in a form prescribed under subsection (f) of this section, not later than 90 days after the completion of the consultation process; or, in the case of any agency action involving a permit or license applicant, not later than 90 days after the date on which the Federal agency concerned takes final agency action, for purposes of chapter 7 of title 5, with respect to the issuance of the permit or license” and inserted provision that, “For purposes of the preceding sentence, the term ‘final agency action’ means (i) a disposition by an agency with respect to the issuance of a permit or license that is subject to administrative review, whether or not such disposition is subject to judicial review; or (ii) if administrative review is sought with respect to such disposition, the decision resulting after such review.”
 
 Subsec. (g)(2)(B). Pub. L. 97–304, § 4(a)(5)(C)(ii), inserted “(i)” after “the Secretary shall promptly”, struck out “to the review board to be established under paragraph (3) and” after “individuals to be appointed” in cl. (i) as so designated, and added cl. (ii).
 
@@ -1025,9 +1028,9 @@ Subsec. (g)(11). Pub. L. 97–304, § 4(a)(5)(D), struck out par. (11) which had
 
 Subsec. (g)(12). Pub. L. 97–304, § 4(a)(5)(J), redesignated par. (12) as (8).
 
-Subsec. (h)(1). Pub. L. 97–304, § 4(a)(6), substituted “within 30 days after receiving the report of the Secretary pursuant to subsection (g)(5) of this section” for “within 90 days of receiving the report of the review board under subsection (g)(7) of this section” in provisions preceding subpar. (A), substituted “report of the Secretary, the record of the hearing held under subsection (g)(4) of this section and on such other testimony” for “report of the review board and on such other testimony” in subpar. (A) preceding cl. (i), and added cl. (iv).
+Subsec. (h)(1). Pub. L. 97–304, § 4(a)(6), substituted “within 30 days after receiving the report of the Secretary pursuant to subsection (g)(5)” for “within 90 days of receiving the report of the review board under subsection (g)(7)” in provisions preceding subpar. (A), substituted “report of the Secretary, the record of the hearing held under subsection (g)(4) and on such other testimony” for “report of the review board and on such other testimony” in subpar. (A) preceding cl. (i), and added cl. (iv).
 
-Subsec. (o). Pub. L. 97–304, § 4(a)(7), substituted “Notwithstanding sections 1533(d) and 1538(a)(1)(B) and (C) of this title or any regulation promulgated to implement either such section (1) any action for which an exemption is granted under subsection (h) of this section shall not be considered to be a taking of any endangered species or threatened species with respect to any activity which is necessary to carry out such action; and (2) any taking that is in compliance with the terms and conditions specified in a written statement provided under subsection (b)(4)(iii) of this section shall not be considered to be a taking of the species concerned” for “Notwithstanding sections 1533(d) and 1538(a) of this title or any regulations promulgated pursuant to such sections, any action for which an exemption is granted under subsection (h) of this section shall not be considered a taking of any endangered or threatened species with respect to any activity which is necessary to carry out such action”.
+Subsec. (o). Pub. L. 97–304, § 4(a)(7), substituted “Notwithstanding sections 1533(d) and 1538(a)(1)(B) and (C) of this title or any regulation promulgated to implement either such section (1) any action for which an exemption is granted under subsection (h) shall not be considered to be a taking of any endangered species or threatened species with respect to any activity which is necessary to carry out such action; and (2) any taking that is in compliance with the terms and conditions specified in a written statement provided under subsection (b)(4)(iii) shall not be considered to be a taking of the species concerned” for “Notwithstanding sections 1533(d) and 1538(a) of this title or any regulations promulgated pursuant to such sections, any action for which an exemption is granted under subsection (h) of this section shall not be considered a taking of any endangered or threatened species with respect to any activity which is necessary to carry out such action”.
 
 Subsec. (q). Pub. L. 97–304, § 8(b), struck out subsec. (q) which authorized appropriations of $600,000 for each of fiscal years 1979, 1980, 1981, and 1982 in carrying out functions under subsecs. (e), (f), (g), and (h) of this section. See [section 1542(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1542/c&num=0&edition=prelim).
 
@@ -1037,11 +1040,11 @@ Subsec. (b). Pub. L. 96–159, § 4(2), (3), substituted “he believes would no
 
 Subsec. (c). Pub. L. 96–159, § 4(3), (4), substituted “subsection (a)(2)” for “subsec. (a)” of this section, designated existing provisions as so amended par. (1), and added par. (2).
 
-Subsec. (d). Pub. L. 96–159, § 4(3), (5), substituted introductory words “subsection (a)(2)” for “subsection (a)” of this section and “alternative measures which would not violate subsection (a)(2) of this section” for “alternative measures which would avoid jeopardizing the continued existence of any endangered or threatened species or adversely modifying or destroying the critical habitat of any such species”.
+Subsec. (d). Pub. L. 96–159, § 4(3), (5), substituted introductory words “subsection (a)(2)” for “subsection (a)” of this section and “alternative measures which would not violate subsection (a)(2)” for “alternative measures which would avoid jeopardizing the continued existence of any endangered or threatened species or adversely modifying or destroying the critical habitat of any such species”.
 
 Subsecs. (e)(2), (f). Pub. L. 96–159, § 4(3), substituted “subsection (a)(2)” for “subsection (a)”.
 
-Subsec. (g)(1). Pub. L. 96–159, § 4(3), (6), substituted in first sentence “subsection (a)(2)” for “subsection (a)” of this section and “agency action would violate subsection (a)(2) of this section” for “agency action may jeopardize the continued existence of any endangered or threatened species or destroy or adversely modify the critical habitat of such species”.
+Subsec. (g)(1). Pub. L. 96–159, § 4(3), (6), substituted in first sentence “subsection (a)(2)” for “subsection (a)” of this section and “agency action would violate subsection (a)(2)” for “agency action may jeopardize the continued existence of any endangered or threatened species or destroy or adversely modify the critical habitat of such species”.
 
 Subsec. (g)(2)(A). Pub. L. 96–159, § 4(7), required exemption applicant, to submit a written application, in the case of any agency action involving a permit or license applicant, not later than 90 days after the date on which the Federal agency concerned takes final agency action, for purposes of chapter 7 of Title 5, with respect to the issuance of the permit or license.
 
@@ -1219,7 +1222,7 @@ Pub. L. 96–159, § 6(b), Dec. 28, 1979, 93 Stat. 1230, provided that until suc
 
 (2)
 
-  (A) The provisions of subsection (a)(1) of this section shall not apply to—
+  (A) The provisions of subsection (a)(1) shall not apply to—
 
     (i) any raptor legally held in captivity or in a controlled environment on November 10, 1978; or
 
@@ -1291,7 +1294,7 @@ Subsec. (d)(1)(A). Pub. L. 100–653 inserted “or plants” after “purposes)
 
 Subsec. (b)(1). Pub. L. 97–304, § 9(b)(2), substituted “The provisions of subsections (a)(1)(A) and (a)(1)(G) of this section shall not apply to any fish or wildlife which was held in captivity or in a controlled environment on (A) December 28, 1973, or (B) the date of the publication in the Federal Register of a final regulation adding such fish or wildlife species to any list published pursuant to subsection (c) of [section 1533 of this title](./chapter-035-endangered-species.md#section-1533): Provided, That such holding and any subsequent holding or use of the fish or wildlife was not in the course of a commercial activity. With respect to any act prohibited by subsections (a)(1)(A) and (a)(1)(G) of this section which occurs after a period of 180 days from (i) December 28, 1973, or (ii) the date of publication in the Federal Register of a final regulation adding such fish or wildlife species to any list published pursuant to subsection (c) of [section 1533 of this title](./chapter-035-endangered-species.md#section-1533), there shall be a rebuttable presumption that the fish or wildlife involved in such act is not entitled to the exemption contained in this subsection” for “The provisions of this section shall not apply to any fish or wildlife held in captivity or in a controlled environment on December 28, 1973, if the purposes of such holding are not contrary to the purposes of this chapter; except that this subsection shall not apply in the case of any fish or wildlife held in the course of a commercial activity. With respect to any act prohibited by this section which occurs after a period of 180 days from December 28, 1973, there shall be a rebuttable presumption that the fish or wildlife involved in such act was not held in captivity or in a controlled environment on December 28, 1973”.
 
-Subsec. (b)(2)(A). Pub. L. 97–304, § 9(b)(3), substituted “The provisions of subsection (a)(1) of this section shall not apply to” for “This section shall not apply to” in provisions preceding cl. (i).
+Subsec. (b)(2)(A). Pub. L. 97–304, § 9(b)(3), substituted “The provisions of subsection (a)(1) shall not apply to” for “This section shall not apply to” in provisions preceding cl. (i).
 
 1978—Subsec. (b). Pub. L. 95–632 designated existing provision as par. (1) and added par. (2).
 
@@ -1308,7 +1311,7 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 (1) The Secretary may permit, under such terms and conditions as he shall prescribe—
 
-  (A) any act otherwise prohibited by [section 1538 of this title](./chapter-035-endangered-species.md#section-1538) for scientific purposes or to enhance the propagation or survival of the affected species, including, but not limited to, acts necessary for the establishment and maintenance of experimental populations pursuant to subsection (j) of this section; or
+  (A) any act otherwise prohibited by [section 1538 of this title](./chapter-035-endangered-species.md#section-1538) for scientific purposes or to enhance the propagation or survival of the affected species, including, but not limited to, acts necessary for the establishment and maintenance of experimental populations pursuant to subsection (j); or
 
   (B) any taking otherwise prohibited by [section 1538(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1538/a/1/B&num=0&edition=prelim) if such taking is incidental to, and not the purpose of, the carrying out of an otherwise lawful activity.
 
@@ -1557,7 +1560,7 @@ Subsecs. (f), (g). Pub. L. 94–359, § 2, added subsecs. (f) and (g).
 Pub. L. 97–304, § 6(4)(B), Oct. 13, 1982, 96 Stat. 1424, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect January 1, 1981.”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Scrimshaw Exemptions
 Pub. L. 103–238, § 18, Apr. 30, 1994, 108 Stat. 559, provided that: “Notwithstanding any other provision of law, any valid certificate of exemption renewed by the Secretary (or deemed to be renewed) under section 10(f)(8) of the Endangered Species Act of 1973 ([16 U.S.C. 1539(f)(8)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1539/f/8&num=0&edition=prelim)) for any person holding such a certificate with respect to the possession of pre-Act finished scrimshaw products or raw material for such products shall remain valid for a period not to exceed 5 years beginning on the date of enactment of this Act [Apr. 30, 1994].”
@@ -1712,7 +1715,7 @@ The Secretary of the Smithsonian Institution, in conjunction with other affected
 
 <a id="section-1542"></a>
 ## § 1542. Authorization of appropriations
-**(a) In general** Except as provided in subsections (b), (c), and (d) of this section, there are authorized to be appropriated—
+**(a) In general** Except as provided in subsections (b), (c), and (d), there are authorized to be appropriated—
 
 (1) not to exceed $35,000,000 for fiscal year 1988, $36,500,000 for fiscal year 1989, $38,000,000 for fiscal year 1990, $39,500,000 for fiscal year 1991, and $41,500,000 for fiscal year 1992 to enable the Department of the Interior to carry out such functions and responsibilities as it may have been given under this chapter;
 

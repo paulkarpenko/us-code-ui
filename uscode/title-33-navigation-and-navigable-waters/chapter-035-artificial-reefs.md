@@ -50,7 +50,7 @@ Based on the best scientific information available, artificial reefs in waters c
 <a id="section-2103"></a>
 ## § 2103. National artificial reef plan
 
-Not later than one year after November 8, 1984, the Secretary of Commerce, in consultation with the Secretary of the Interior, the Secretary of Defense, the Administrator of the Environmental Protection Agency, the Secretary of the Department in which the Coast Guard is operating, the Regional Fishery Managment 11 So in original. Probably should be “Management”. Councils, interested States, Interstate Fishery Commissions, and representatives of the private sector, shall develop and publish a long-term plan which will meet the purpose of this chapter and be consistent with the standards established under section 2102 of this chapter. The plan must include—
+Not later than one year after November 8, 1984, the Secretary of Commerce, in consultation with the Secretary of the Interior, the Secretary of Defense, the Administrator of the Environmental Protection Agency, the Secretary of the Department in which the Coast Guard is operating, the Regional Fishery Managment 11 So in original. Probably should be “Management”. Councils, interested States, Interstate Fishery Commissions, and representatives of the private sector, shall develop and publish a long-term plan which will meet the purpose of this chapter and be consistent with the standards established under [section 2102 of this title](./chapter-035-artificial-reefs.md#section-2102). The plan must include—
 
 (1) geographic, hydrographic, geologic, biological, ecological, social, economic, and other criteria for siting artificial reefs;
 
@@ -90,17 +90,17 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(c) Liability of permittee**
 
-(1) A person to whom a permit is issued in accordance with subsection (a) of this section and any insurer of that person shall not be liable for damages caused by activities required to be undertaken under any terms and conditions of the permit, if the permittee is in compliance with such terms and conditions.
+(1) A person to whom a permit is issued in accordance with subsection (a) and any insurer of that person shall not be liable for damages caused by activities required to be undertaken under any terms and conditions of the permit, if the permittee is in compliance with such terms and conditions.
 
-(2) A person to whom a permit is issued in accordance with subsection (a) of this section and any insurer of that person shall be liable, to the extent determined under applicable law, for damages to which paragraph (1) does not apply.
+(2) A person to whom a permit is issued in accordance with subsection (a) and any insurer of that person shall be liable, to the extent determined under applicable law, for damages to which paragraph (1) does not apply.
 
 (3) The Secretary may not issue a permit subject to this section to a person unless that person demonstrates to the Secretary the financial ability to assume liability for all damages that may arise with respect to an artificial reef and for which such permittee may be liable.
 
-(4) Any person who has transferred title to artificial reef construction materials to a person to whom a permit is issued in accordance with subsection (a) of this section shall not be liable for damages arising from the use of such materials in an artificial reef, if such materials meet applicable requirements of the plan published under [section 2103 of this title](./chapter-035-artificial-reefs.md#section-2103) and are not otherwise defective at the time title is transferred.
+(4) Any person who has transferred title to artificial reef construction materials to a person to whom a permit is issued in accordance with subsection (a) shall not be liable for damages arising from the use of such materials in an artificial reef, if such materials meet applicable requirements of the plan published under [section 2103 of this title](./chapter-035-artificial-reefs.md#section-2103) and are not otherwise defective at the time title is transferred.
 
 **(d) Liability of the United States** Nothing in this chapter creates any liability on the part of the United States.
 
-**(e) Civil penalty** Any person who, after notice and an opportunity for a hearing, is found to have violated any provision of a permit issued in accordance with subsection (a) of this section shall be liable to the United States for a civil penalty, not to exceed $10,000 for each violation. The amount of the civil penalty shall be assessed by the Secretary by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the violation. The Secretary may compromise, modify, or remit with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section. If any person fails to pay an assessment of a civil penalty after it has become final, the Secretary may refer the matter to the Attorney General for collection.
+**(e) Civil penalty** Any person who, after notice and an opportunity for a hearing, is found to have violated any provision of a permit issued in accordance with subsection (a) shall be liable to the United States for a civil penalty, not to exceed $10,000 for each violation. The amount of the civil penalty shall be assessed by the Secretary by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the violation. The Secretary may compromise, modify, or remit with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section. If any person fails to pay an assessment of a civil penalty after it has become final, the Secretary may refer the matter to the Attorney General for collection.
 
 
 <a id="section-2105"></a>

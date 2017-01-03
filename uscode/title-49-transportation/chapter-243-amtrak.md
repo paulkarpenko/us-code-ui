@@ -2,7 +2,7 @@
 title: 49
 chapter: '243'
 heading: AMTRAK
-section_count: 16
+section_count: 22
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -185,7 +185,7 @@ Subsec. (c)(2)(B). Pub. L. 104–88, § 308(g)(1)(C), substituted “Transportat
 Subsec. (d). Pub. L. 104–88, § 308(g)(2), substituted “rail carrier subject to part A of subtitle IV” for “common carrier subject to subchapter I of chapter 105”.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Regulations
 Pub. L. 101–610, title VI, § 601(d), (e), Nov. 16, 1990, 104 Stat. 3186, provided that: “(d) Not later than 1 year after the date of enactment of this Act [Nov. 16, 1990], the Secretary of Transportation, after appropriate notice and comment, and in consultation with the National Railroad Passenger Corporation, the Administrator of the Environmental Protection Agency, the Surgeon General, and State and local officials shall promulgate such regulations as may be necessary to mitigate the impact of the discharge of human waste from railroad passenger cars on areas that may be considered environmentally sensitive. “(e) Not later than 1 year after the date of enactment of this Act [Nov. 16, 1990], the Secretary of Transportation shall promulgate regulations directing the National Railroad Passenger Corporation to, where appropriate, publish printed information, and make public address announcements, explaining its existing disposal technology and the retrofit and new equipment program, and encouraging passengers using existing equipment not to dispose of wastes in stations, railroad yards, or while the train is moving through environmentally sensitive areas.”
@@ -204,13 +204,13 @@ Pub. L. 104–205, title III, § 347, Sept. 30, 1996, 110 Stat. 2976, provided t
 ## § 24302. Board of directors
 **(a) Composition and Terms.—**
 
-(1) The Amtrak Board of Directors (referred to in this section as the “Board”) is composed of the following 9 directors, each of whom must be a citizen of the United States:
+(1) The Amtrak Board of Directors (referred to in this section as the “Board”) is composed of the following 10 directors, each of whom must be a citizen of the United States:
 
   (A) The Secretary of Transportation.
 
-  (B) The President of Amtrak.
+  (B) The President of Amtrak, who shall serve as a nonvoting member of the Board.
 
-  (C) 7 individuals appointed by the President of the United States, by and with the advice and consent of the Senate, with general business and financial experience, experience or qualifications in transportation, freight and passenger rail transportation, travel, hospitality, cruise line, or passenger air transportation businesses, or representatives of employees or users of passenger rail transportation or a State government.
+  (C) 8 individuals appointed by the President of the United States, by and with the advice and consent of the Senate, with general business and financial experience, experience or qualifications in transportation, freight and passenger rail transportation, travel, hospitality, cruise line, or passenger air transportation businesses, or representatives of employees or users of passenger rail transportation or a State government.
 
 (2) In selecting individuals described in paragraph (1) for nominations for appointments to the Board, the President shall consult with the Speaker of the House of Representatives, the minority leader of the House of Representatives, the majority leader of the Senate, and the minority leader of the Senate and try to provide adequate and balanced representation of the major geographic regions of the United States served by Amtrak.
 
@@ -232,7 +232,7 @@ Pub. L. 104–205, title III, § 347, Sept. 30, 1996, 110 Stat. 2976, provided t
 
 **(d) Vacancies.—** A vacancy on the Board is filled in the same way as the original selection, except that an individual appointed by the President of the United States under subsection (a)(1)(C) of this section to fill a vacancy occurring before the end of the term for which the predecessor of that individual was appointed is appointed for the remainder of that term. A vacancy required to be filled by appointment under subsection (a)(1)(C) must be filled not later than 120 days after the vacancy occurs.
 
-**(e) Quorum.—** A majority of the members serving shall constitute a quorum for doing business.
+**(e) Quorum.—** A majority of the members serving who are eligible to vote shall constitute a quorum for doing business.
 
 **(f) Bylaws.—** The Board may adopt and amend bylaws governing the operation of Amtrak. The bylaws shall be consistent with this part and the articles of incorporation.
 
@@ -271,9 +271,20 @@ In subsection (d), the word “performing” is substituted for “engaged in th
 In subsection (e), the words “the membership of” and “in the case of” are omitted as surplus. The words “occurring before the end of the term for which the predecessor of that individual was appointed is appointed for the remainder of the term” are substituted for “shall be appointed only for the unexpired term of the member he is appointed to succeed” for clarity and consistency in the revised title and with other titles of the Code. The words “under subsection (a)(1)(C)” the 2d time they appear are substituted for “paragraph (1)(B) of this subsection” in 45:543(a)(8) to correct an erroneous cross-reference.
 
 #### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–94, § 11205(1)(A), substituted “10 directors” for “9 directors”.
+
+Subsec. (a)(1)(B). Pub. L. 114–94, § 11205(1)(B), inserted “, who shall serve as a nonvoting member of the Board” after “Amtrak”.
+
+Subsec. (a)(1)(C). Pub. L. 114–94, § 11205(1)(C), substituted “8” for “7”.
+
+Subsec. (e). Pub. L. 114–94, § 11205(2), inserted “who are eligible to vote” after “serving”.
+
 2008—Pub. L. 110–432 amended section generally. Prior to amendment, section related, in subsec. (a), to establishment, duties, membership, and confirmation procedure of Reform Board, in subsec. (b), to selection of the Board of Directors, and in subsec. (c), to authority of Reform Board to recommend to Congress a plan to implement transfer of Amtrak’s infrastructure assets and responsibilities to a new separately governed corporation.
 
 1997—Pub. L. 105–134 amended section generally. Prior to amendment, section related, in subsec. (a), to composition and terms of Amtrak board of directors, in subsec. (b), to cumulative voting by stockholders, in subsec. (c), to conflicts of interest of directors, in subsec. (d), to pay and expenses of directors, in subsec. (e), to vacancies on board, and in subsec. (f), to bylaws of board.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–432, div. B, title II, § 202(b), Oct. 16, 2008, 122 Stat. 4912, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 6 months after the date of enactment of this Act [Oct. 16, 2008]. The members of the Amtrak Board of Directors serving as of the date of enactment of this Act may continue to serve for the remainder of the term to which they were appointed.”
@@ -418,7 +429,7 @@ Pub. L. 105–134, title IV, § 415(b), (c), Dec. 2, 1997, 111 Stat. 2590, provi
 
 (3) Congress encourages Amtrak and motor common carriers of passengers to use the authority conferred in sections 11322 and 14302 of this title for the purpose of providing improved service to the public and economy of operation.
 
-**(e) Rail Police.—** Amtrak may employ rail police to provide security for rail passengers and property of Amtrak. Rail police employed by Amtrak who have complied with a State law establishing requirements applicable to rail police or individuals employed in a similar position may be employed without regard to the law of another State containing those requirements.
+**(e) Rail Police.—** Amtrak may directly employ or contract with rail police to provide security for rail passengers and property of Amtrak. Rail police directly employed by or contracted by Amtrak who have complied with a State law establishing requirements applicable to rail police or individuals employed in a similar position may be directly employed or contracted without regard to the law of another State containing those requirements.
 
 **(f) Domestic Buying Preferences.—**
 
@@ -491,9 +502,26 @@ In subsection (f)(4)(A) and (B), the words “the purchase of” are omitted as 
 In subsection (f)(4)(A)(i), the words “imposing” and “with respect to such articles, materials, and supplies” are omitted as surplus.
 
 #### Amendments
+2015—Subsec. (e). Pub. L. 114–94 substituted “may directly employ or contract with” for “may employ”, “directly employed by or contracted by” for “employed by”, and “directly employed or contracted without” for “employed without”.
+
 1997—Subsec. (a)(3). Pub. L. 105–134, § 107(a), added par. (3).
 
 Subsec. (d)(3). Pub. L. 105–134, § 107(b), added par. (3).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+#### Local Products and Promotional Events
+Pub. L. 114–94, div. A, title XI, § 11209, Dec. 4, 2015, 129 Stat. 1640, provided that: “(a) In General.—Not later than 6 months after the date of enactment of this Act [Dec. 4, 2015], Amtrak shall establish a pilot program for a State or States that sponsor a State-supported route operated by Amtrak to facilitate—“(1) onboard purchase and sale of local food and beverage products; and “(2) partnerships with local entities to hold promotional events on trains or in stations. “(b) Program Design.—The pilot program under paragraph (1) shall—“(1) allow a State or States to nominate and select a local food and beverage products supplier or suppliers or local promotional event partner; “(2) allow a State or States to charge a reasonable price or fee for local food and beverage products or promotional events and related activities to help defray the costs of program administration and State-supported routes; and “(3) provide a mechanism to ensure that State products can effectively be handled and integrated into existing food and beverage services, including compliance with all applicable regulations and standards governing such services. “(c) Program Administration.—The pilot program shall—“(1) for local food and beverage products, ensure the products are integrated into existing food and beverage services, including compliance with all applicable regulations and standards; “(2) for promotional events, ensure the events are held in compliance with all applicable regulations and standards, including terms to address insurance requirements; and “(3) require an annual report that documents revenues and costs and indicates whether the products or events resulted in a reduction in the financial contribution of a State or States to the applicable State-supported route. “(d) Report.—Not later than 4 years after the date of enactment of this Act, Amtrak shall report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on which States have participated in the pilot programs under this section. The report shall summarize the financial and operational outcomes of the pilot programs and include any plan for future action. “(e) Rule of Construction.—Nothing in this section shall be construed as limiting Amtrak’s ability to operate special trains in accordance with section 216 of the Passenger Rail Investment and Improvement Act of 2008 [div. B of Pub. L. 110–432] ([49 U.S.C. 24308](./chapter-243-amtrak.md#section-24308) note).”
+
+#### Amtrak Pilot Program for Passengers Transporting Domesticated Cats and Dogs
+Pub. L. 114–94, div. A, title XI, § 11210, Dec. 4, 2015, 129 Stat. 1641, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Dec. 4, 2015], Amtrak shall develop a pilot program that allows passengers to transport domesticated cats or dogs on certain trains operated by Amtrak. “(b) Pet Policy.—In developing the pilot program required under subsection (a), Amtrak shall—“(1) in the case of a passenger train that is comprised of more than 1 car, designate, where feasible, at least 1 car in which a ticketed passenger may transport a domesticated cat or dog in the same manner as carry-on baggage if—“(A) the cat or dog is contained in a pet kennel; “(B) the pet kennel complies with Amtrak size requirements for carriage of carry-on baggage; “(C) the passenger is traveling on a train operating on a route described in subparagraph (A), (B), or (D) of [section 24102(7) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section24102/7&num=0&edition=prelim), United States Code; and “(D) the passenger pays a fee described in paragraph (3); “(2) allow a ticketed passenger to transport a domesticated cat or dog on a train in the same manner as cargo if—“(A) the cat or dog is contained in a pet kennel; “(B) the pet kennel complies with Amtrak size requirements for carriage of carry-on baggage; “(C) the passenger is traveling on a train operating on a route described in subparagraph (A), (B), or (D) of [section 24102(7) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section24102/7&num=0&edition=prelim), United States Code; “(D) the cargo area is temperature controlled in a manner protective of cat and dog safety and health; and “(E) the passenger pays a fee described in paragraph (3); and “(3) collect fees for each cat or dog transported by a ticketed passenger in an amount that, in the aggregate and at a minimum, covers the full costs of the pilot program. “(c) Report.—Not later than 1 year after the pilot program required under subsection (a) is first implemented, Amtrak shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report containing an evaluation of the pilot program. “(d) Limitation on Statutory Construction.—“(1) Service animals.—The pilot program under subsection (a) shall be separate from and in addition to the policy governing Amtrak passengers traveling with service animals. Nothing in this section may be interpreted to limit or waive the rights of passengers to transport service animals. “(2) Additional train cars.—Nothing in this section may be interpreted to require Amtrak to add additional train cars or modify existing train cars. “(3) Federal funds.—No Federal funds may be used to implement the pilot program required under this section.”
+
+#### Right-of-Way Leveraging
+Pub. L. 114–94, div. A, title XI, § 11211, Dec. 4, 2015, 129 Stat. 1641, provided that: “(a) Request for Proposals.—“(1) In general.—Not later than 1 year after the date of enactment of this Act [Dec. 4, 2015], Amtrak shall issue a Request for Proposals seeking qualified persons or entities to utilize right-of-way and real estate owned, controlled, or managed by Amtrak for telecommunications systems, energy distribution systems, and other activities considered appropriate by Amtrak. “(2) Contents.—The Request for Proposals shall provide sufficient information on the right-of-way and real estate assets to enable respondents to propose an arrangement that will monetize or generate additional revenue from such assets through revenue sharing or leasing agreements with Amtrak, to the extent possible. “(3) Deadline.—Amtrak shall set a deadline for the submission of proposals that is not later than 1 year after the issuance of the Request for Proposals under paragraph (1). “(b) Consideration of Proposals.—Not later than 180 days after the deadline for the receipt of proposals under subsection (a), the Amtrak Board of Directors shall review and consider each qualified proposal. Amtrak may enter into such agreements as are necessary to implement any qualified proposal. “(c) Report.—Not later than 1 year after the deadline for the receipt of proposals under subsection (a), Amtrak shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the Request for Proposals required by this section, including summary information of any proposals submitted to Amtrak and any proposals accepted by the Amtrak Board of Directors. “(d) Savings Clause.—Nothing in this section shall be construed to limit Amtrak’s ability to utilize right-of-way or real estate assets that it currently owns, controls, or manages or constrain Amtrak’s ability to enter into agreements with other parties to utilize such assets.”
+
+#### Station Development
+Pub. L. 114–94, div. A, title XI, § 11212, Dec. 4, 2015, 129 Stat. 1642, provided that: “(a) Report on Development Options.—Not later than 1 year after the date of enactment of this Act [Dec. 4, 2015], Amtrak shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that describes—“(1) options to enhance economic development and accessibility of and around Amtrak stations and terminals, for the purposes of—“(A) improving station condition, functionality, capacity, and customer amenities; “(B) generating additional investment capital and development-related revenue streams; “(C) increasing ridership and revenue; and “(D) strengthening multimodal connections, including transit, intercity buses, roll-on and roll-off bicycles, and airports, as appropriate; and “(2) options for additional Amtrak stops that would have a positive incremental financial impact to Amtrak, based on Amtrak feasibility studies that demonstrate a financial benefit to Amtrak by generating additional revenue that exceeds any incremental costs. “(b) Request for Information.—Not later than 90 days after the date the report is submitted under subsection (a), Amtrak shall issue a Request for Information for 1 or more owners of stations served by Amtrak to formally express an interest in completing the requirements of this section. “(c) Proposals.—“(1) Request for proposals.—Not later than 180 days after the date the Request for Information is issued under subsection (b), Amtrak shall issue a Request for Proposals from qualified persons, including small business concerns owned and controlled by socially and economically disadvantaged individuals and veteran-owned small businesses, to lead, participate, or partner with Amtrak, a station owner that responded under subsection (b), and other entities in enhancing development in and around such stations and terminals using applicable options identified under subsection (a) at facilities selected by Amtrak. “(2) Consideration of proposals.—Not later than 1 year after the date the Request for Proposals is issued under paragraph (1), the Amtrak Board of Directors shall review and consider qualified proposals submitted under paragraph (1). Amtrak or a station owner that responded under subsection (b) may enter into such agreements as are necessary to implement any qualified proposal. “(d) Report.—Not later than 4 years after the date of enactment of this Act, Amtrak shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the Request for Proposals process required under this section, including summary information of any qualified proposals submitted to Amtrak and any proposals acted upon by Amtrak or a station owner that responded under subsection (b). “(e) Definitions.—In this section, the terms ‘small business concern’, ‘socially and economically disadvantaged individual’, and ‘veteran-owned small business’ have the meanings given the terms in section 11310(c) of this Act [129 Stat. 1670]. “(f) Savings Clause.—Nothing in this section shall be construed to limit Amtrak’s ability to develop its stations, terminals, or other assets, to constrain Amtrak’s ability to enter into and carry out agreements with other parties to enhance development at or around Amtrak stations or terminals, or to affect any station development initiatives ongoing as of the date of enactment of this Act.”
 
 #### Amtrak Security Evaluation and Development of Procedures for Firearm Storage and Carriage in Checked Baggage Cars and Stations
 Pub. L. 111–117, div. A, title I, § 159, Dec. 16, 2009, 123 Stat. 3061, as amended by Pub. L. 111–212, title III, § 3009, July 29, 2010, 124 Stat. 2340, provided that: “(a) Amtrak Security Evaluation.—No later than 180 days after the enactment of this Act [Dec. 16, 2009], Amtrak, in consultation with the Assistant Secretary of Homeland Security (Transportation Security Administration), shall submit a report to Congress that contains—“(1) a comprehensive, system-wide, security evaluation; and “(2) proposed guidance and procedures necessary to implement a new checked firearms program. “(b) Developement and Implementation of Guidance and Procedures.—“(1) In General.—Not later than one year after the enactment of this Act [Dec. 16, 2009], Amtrak, in consultation with the Assistant Secretary, shall develop and implement guidance and procedures to carry out the duties and responsibilities of firearm storage and carriage in checked baggage cars and at Amtrak stations that accept checked baggage. “(2) Scope.—The guidance and procedures developed under paragraph (1) shall—“(A) permit Amtrak passengers holding a ticket for a specific Amtrak route to place an unloaded firearm or starter pistol in a checked bag on such route if—“(i) the Amtrak station accepts checked baggage for such route; “(ii) the passenger declares to Amtrak, either orally or in writing, at the time the reservation is made or not later than 24 hours before departure, that the firearm will be placed in his or her bag and will be unloaded; “(iii) the firearm is in a hard-sided container; “(iv) such container is locked; and “(v) only the passenger has the key or combination for such container; “(B) permit Amtrak passengers holding a ticket for a specific Amtrak route to place small arms ammunition for personal use in a checked bag on such route if the ammunition is securely packed—“(i) in fiber, wood, or metal boxes; or “(ii) in other packaging specifically designed to carry small amounts of ammunition; and “(C) include any other measures needed to ensure the safety and security of Amtrak employees, passengers, and infrastructure, including—“(i) requiring inspections of any container containing a firearm or ammunition; and “(ii) the temporary suspension of firearm carriage service if credible intelligence information indicates a threat related to the national rail system or specific routes or trains. “(c) Definitions.—“(1) [sic] For purposes of this section, the term ‘checked baggage’ refers to baggage transported that is accessible only to select Amtrak employees.”
@@ -501,7 +529,7 @@ Pub. L. 111–117, div. A, title I, § 159, Dec. 16, 2009, 123 Stat. 3061, as am
 #### General Services Administration Services
 Pub. L. 110–432, div. B, title II, § 218(b), Oct. 16, 2008, 122 Stat. 4930, provided that: “Amtrak may obtain from the Administrator of General Services, and the Administrator may provide to Amtrak, services under sections 502(a) and 602 of title 40, United States Code.”
 
-Pub. L. 106–554, § 1(a)(4) [div. A, § 1110], Dec. 21, 2000, 114 Stat. 2763, 2763A–202, provided that: “Amtrak is authorized to obtain services from the Administrator of General Services, and the Administrator is authorized to provide services to Amtrak, under sections 201(b) and 211(b) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 481(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section481/b&num=0&edition=prelim) and 491(b)) [now [40 U.S.C. 502](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section502&num=0&edition=prelim), 602, 603(a)(1)] for fiscal year 2001 and each fiscal year thereafter until the fiscal year that Amtrak operates without Federal operating grant funds appropriated for its benefit, as required by sections 24101(d) and 24104(a) of title 49, United States Code.”
+Pub. L. 106–554, § 1(a)(4) [div. A, § 1110], Dec. 21, 2000, 114 Stat. 2763, 2763A–202, provided that: “Amtrak is authorized to obtain services from the Administrator of General Services, and the Administrator is authorized to provide services to Amtrak, under sections 201(b) and 211(b) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 481(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section481/b&num=0&edition=prelim) and 491(b)) [now [40 U.S.C. 502](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section502&num=0&edition=prelim), 602, 603(a)(1)] for fiscal year 2001 and each fiscal year thereafter until the fiscal year that Amtrak operates without Federal operating grant funds appropriated for its benefit, as required by sections 24101(d) and [former] 24104(a) of title 49, United States Code.”
 
 #### Rail and Motor Carrier Passenger Service
 Pub. L. 105–134, title I, § 108, Dec. 2, 1997, 111 Stat. 2574, provided that: “(a) In General.—Notwithstanding any other provision of law (other than [section 24305(a)(3) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section24305/a/3&num=0&edition=prelim), United States Code), Amtrak and motor carriers of passengers are authorized—“(1) to combine or package their respective services and facilities to the public as a means of increasing revenues; and “(2) to coordinate schedules, routes, rates, reservations, and ticketing to provide for enhanced intermodal surface transportation. “(b) Review.—The authority granted by subsection (a) is subject to review by the Surface Transportation Board and may be modified or revoked by the Board if modification or revocation is in the public interest.”
@@ -1168,3 +1196,414 @@ Pub. L. 105–134, title IV, § 414, Dec. 2, 1997, 111 Stat. 2589, provided that
 
 #### References in Text
 The date of the enactment of the Rail Safety Improvement Act of 2008, referred to in subsec. (a), is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
+
+
+<a id="section-24317"></a>
+## § 24317. Accounts
+**(a) Purpose.—** The purpose of this section is to—
+
+(1) promote the effective use and stewardship by Amtrak of Amtrak revenues, Federal, State, and third party investments, appropriations, grants and other forms of financial assistance, and other sources of funds; and
+
+(2) enhance the transparency of the assignment of revenues and costs among Amtrak business lines while ensuring the health of the Northeast Corridor and National Network.
+
+**(b) Account Structure.—** Not later than 180 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, the Secretary of Transportation, in consultation with Amtrak, shall define an account structure and improvements to accounting methodologies, as necessary, to support, at a minimum, the Northeast Corridor and the National Network.
+
+**(c) Financial Sources.—** In defining the account structure and improvements to accounting methodologies required under subsection (b), the Secretary shall ensure, to the greatest extent practicable, that Amtrak assigns the following:
+
+(1) For the Northeast Corridor account, all revenues, appropriations, grants and other forms of financial assistance, compensation, and other sources of funds associated with the Northeast Corridor, including—
+
+  (A) grant funds appropriated for the Northeast Corridor pursuant to section 11101(a) of the Passenger Rail Reform and Investment Act of 2015 or any subsequent Act;
+
+  (B) compensation received from commuter rail passenger transportation providers for such providers’ share of capital and operating costs on the Northeast Corridor provided to Amtrak pursuant to section 24905(c); and
+
+  (C) any operating surplus of the Northeast Corridor, as allocated pursuant to section 24318.
+
+(2) For the National Network account, all revenues, appropriations, grants and other forms of financial assistance, compensation, and other sources of funds associated with the National Network, including—
+
+  (A) grant funds appropriated for the National Network pursuant to section 11101(b) of the Passenger Rail Reform and Investment Act of 2015 or any subsequent Act;
+
+  (B) compensation received from States provided to Amtrak pursuant to section 209 of the Passenger Rail Investment and Improvement Act of 2008 ([42 U.S.C. 24101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section24101&num=0&edition=prelim) note); 11 See References in Text note below. and
+
+  (C) any operating surplus of the National Network, as allocated pursuant to section 24318.
+
+**(d) Financial Uses.—** In defining the account structure and improvements to accounting methodologies required under subsection (b), the Secretary shall ensure, to the greatest extent practicable, that amounts assigned to the Northeast Corridor and National Network accounts shall be used by Amtrak for the following:
+
+(1) For the Northeast Corridor, all associated costs, including—
+
+  (A) operating activities;
+
+  (B) capital activities as described in section 24904(a)(2)(E);
+
+  (C) acquiring, rehabilitating, manufacturing, remanufacturing, overhauling, or improving equipment and associated facilities used for intercity rail passenger transportation by Northeast Corridor train services;
+
+  (D) payment of principal and interest on loans for capital projects described in this paragraph or for capital leases attributable to the Northeast Corridor;
+
+  (E) other capital projects on the Northeast Corridor, determined appropriate by the Secretary, and consistent with section 24905(c)(1)(A)(i); and
+
+  (F) if applicable, capital projects described in section 24904(b).
+
+(2) For the National Network, all associated costs, including—
+
+  (A) operating activities;
+
+  (B) capital activities; and
+
+  (C) the payment of principal and interest on loans or capital leases attributable to the National Network.
+
+**(e) Implementation and Reporting.—**
+
+(1) **In general.—** — Not later than 1 year after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, Amtrak, in consultation with the Secretary, shall implement any account structures and improvements defined under subsection (b) so that Amtrak is able to produce profit and loss statements for each of the business lines described in section 24320(b)(1) and, as appropriate, each of the asset categories described in section 24320(c)(1) that identify sources and uses of—
+
+  (A) revenues;
+
+  (B) appropriations; and
+
+  (C) transfers between business lines.
+
+(2) **Updated profit and loss statements.—** — Not later than 1 month after the implementation under paragraph (1), and monthly thereafter, Amtrak shall submit updated profit and loss statements for each of the business lines and asset categories to the Secretary.
+
+**(f) Account Management.—** For the purposes of account management, Amtrak may transfer funds between the Northeast Corridor account and National Network account without prior notification and approval under subsection (g) if such transfers—
+
+(1) do not materially impact Amtrak’s ability to achieve its anticipated financial, capital, and operating performance goals for the fiscal year; and
+
+(2) would not materially change any grant agreement entered into pursuant to section 24319(d), or other agreements made pursuant to applicable Federal law.
+
+**(g) Transfer Authority.—**
+
+(1) **In general.—** — If Amtrak determines that a transfer between the accounts defined under subsection (b) does not meet the account management standards established under subsection (f), Amtrak may transfer funds between the Northeast Corridor and National Network accounts if—
+
+  (A) Amtrak notifies the Amtrak Board of Directors, including the Secretary, at least 10 days prior to the expected date of transfer; and
+
+  (B) solely for a transfer that will materially change a grant agreement, the Secretary approves.
+
+(2) **Report.—** — Not later than 5 days after the Amtrak Board of Directors receives notification from Amtrak under paragraph (1)(A), the Board shall transmit to the Secretary, the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives, and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate, a report that includes—
+
+  (A) the amount of the transfer; and
+
+  (B) a detailed explanation of the reason for the transfer, including—
+
+    (i) the effects on Amtrak services funded by the account from which the transfer is drawn, in comparison to a scenario in which no transfer was made; and
+
+    (ii) the effects on Amtrak services funded by the account receiving the transfer, in comparison to a scenario in which no transfer was made.
+
+(3) **Notifications.—** — Not later than 5 days after the date that Amtrak notifies the Amtrak Board of Directors of a transfer under paragraph (1) to or from an account, Amtrak shall transmit to the State-Supported Route Committee and Northeast Corridor Commission a letter that includes the information described under subparagraphs (A) and (B) of paragraph (2).
+
+**(h) Report.—** Not later than 2 years after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, Amtrak shall submit to the Secretary a report assessing the account and reporting structure established under this section and providing any recommendations for further action. Not later than 180 days after the date of receipt of such report, the Secretary shall provide an assessment that supplements Amtrak’s report and submit the Amtrak report with the supplemental assessment to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+**(i) Definition of Northeast Corridor.—** Notwithstanding section 24102, for purposes of this section, the term “Northeast Corridor” means the Northeast Corridor main line between Boston, Massachusetts, and the District of Columbia, and facilities and services used to operate and maintain that line.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsecs. (b), (e)(1), and (h), is the date of enactment of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+Section 11101 of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (c)(1)(A), (2)(A), is section 11101 of title XI of div. A of Pub. L. 114–94, Dec. 4, 2015, 129 Stat. 1622, which is not classified to the Code.
+
+Section 209 of the Passenger Rail Investment and Improvement Act of 2008 ([42 U.S.C. 24101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section24101&num=0&edition=prelim) note), referred to in subsec. (c)(2)(B), probably means section 209 of div. B of Pub. L. 110–432, which is set out as a note under [section 24101 of this title](./chapter-241-general.md#section-24101).
+
+#### Effective Date
+Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-24318"></a>
+## § 24318. Costs and revenues
+**(a) Allocation.—** Not later than 180 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, Amtrak shall establish and maintain internal controls to ensure Amtrak’s costs, revenues, and other compensation are appropriately allocated to the Northeast Corridor, including train services or infrastructure, or the National Network, including proportional shares of common and fixed costs.
+
+**(b) Rule of Construction.—** Nothing in this section shall be construed to limit the ability of Amtrak to enter into an agreement with 1 or more States to allocate operating and capital costs under section 209 of the Passenger Rail Investment and Improvement Act of 2008 ([49 U.S.C. 24101](./chapter-241-general.md#section-24101) note).
+
+**(c) Definition of Northeast Corridor.—** Notwithstanding section 24102, for purposes of this section, the term “Northeast Corridor” means the Northeast Corridor main line between Boston, Massachusetts, and the District of Columbia, and facilities and services used to operate and maintain that line.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (a), is the date of enactment of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+Section 209 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (b), is section 209 of div. B of Pub. L. 110–432, which is set out as a note under [section 24101 of this title](./chapter-241-general.md#section-24101).
+
+#### Effective Date
+Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-24319"></a>
+## § 24319. Grant process
+**(a) Procedures for Grant Requests.—** Not later than 90 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, the Secretary of Transportation shall establish and transmit to the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives substantive and procedural requirements, including schedules, for grant requests under this section.
+
+**(b) Grant Requests.—** Amtrak shall transmit to the Secretary grant requests for Federal funds appropriated to the Secretary of Transportation for the use of Amtrak.
+
+**(c) Contents.—** A grant request under subsection (b) shall, as applicable—
+
+(1) describe projected operating and capital costs for the upcoming fiscal year for Northeast Corridor activities, including train services and infrastructure, and National Network activities, including State-supported routes and long-distance routes, in comparison to prior fiscal year actual financial performance;
+
+(2) describe the capital projects to be funded, with cost estimates and an estimated timetable for completion of the projects covered by the request; and
+
+(3) assess Amtrak’s financial condition.
+
+**(d) Review and Approval.—**
+
+(1) **Thirty-day approval process.—**
+
+  (A) *In general.—* — Not later than 30 days after the date that Amtrak submits a grant request under this section, the Secretary of Transportation shall complete a review of the request and provide notice to Amtrak that—
+
+    (i) the request is approved; or
+
+    (ii) the request is disapproved, including the reason for the disapproval and an explanation of any incomplete or deficient items.
+
+  (B) *Grant agreement.—* — If a grant request is approved, the Secretary shall enter into a grant agreement with Amtrak.
+
+(2) **Fifteen-day modification period.—** — Not later than 15 days after the date of a notice under paragraph (1)(A)(ii), Amtrak shall submit a modified request for the Secretary’s review.
+
+(3) **Modified requests.—** — Not later than 15 days after the date that Amtrak submits a modified request under paragraph (2), the Secretary shall either approve the modified request, or, if the Secretary finds that the request is still incomplete or deficient, the Secretary shall identify in writing to the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives the remaining deficiencies and recommend a process for resolving the outstanding portions of the request.
+
+**(e) Payments to Amtrak.—**
+
+(1) **In general.—** — A grant agreement entered into under subsection (d) shall specify the operations, services, and other activities to be funded by the grant. The grant agreement shall include provisions, consistent with the requirements of this chapter, to measure Amtrak’s performance and ensure accountability in delivering the operations, services, or activities to be funded by the grant.
+
+(2) **Schedule.—** — Except as provided in paragraph (3), in each fiscal year for which amounts are appropriated to the Secretary for the use of Amtrak, and for which the Secretary and Amtrak have entered into a grant agreement under subsection (d), the Secretary shall disburse grant funds to Amtrak on the following schedule:
+
+  (A) 50 percent on October 1.
+
+  (B) 25 percent on January 1.
+
+  (C) 25 percent on April 1.
+
+(3) **Exceptions.—** — The Secretary may make a payment to Amtrak of appropriated funds—
+
+  (A) more frequently than the schedule under paragraph (2) if Amtrak, for good cause, requests more frequent payment before the end of a payment period; or
+
+  (B) with a different frequency or in different percentage allocations in the event of a continuing resolution or in the absence of an appropriations Act for the duration of a fiscal year.
+
+**(f) Availability of Amounts and Early Appropriations.—** Amounts appropriated to the Secretary for the use of Amtrak shall remain available until expended. Amounts for capital acquisitions and improvements may be appropriated for a fiscal year before the fiscal year in which the amounts will be obligated.
+
+**(g) Limitations on Use.—** Amounts appropriated to the Secretary for the use of Amtrak may not be used to cross-subsidize operating losses or capital costs of commuter rail passenger or freight rail transportation.
+
+**(h) Definition of Northeast Corridor.—** Notwithstanding section 24102, for purposes of this section, the term “Northeast Corridor” means the Northeast Corridor main line between Boston, Massachusetts, and the District of Columbia, and facilities and services used to operate and maintain that line.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (a), is the date of enactment of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+#### Effective Date
+Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-24320"></a>
+## § 24320. Amtrak 5-year business line and asset plans
+**(a) In General.—**
+
+(1) **Final plans.—** — Not later than February 15 of each year, Amtrak shall submit to Congress and the Secretary of Transportation final 5-year business line plans and 5-year asset plans prepared in accordance with this section. These final plans shall form the basis for Amtrak’s general and legislative annual report to the President and Congress required by section 24315(b). Each plan shall cover a period of 5 fiscal years, beginning with the first fiscal year after the date on which the plan is completed.
+
+(2) **Fiscal constraint.—** — Each plan prepared under this section shall be based on funding levels authorized or otherwise available to Amtrak in a fiscal year. In the absence of an authorization or appropriation of funds for a fiscal year, the plans shall be based on the amount of funding available in the previous fiscal year, plus inflation. Amtrak may include an appendix to the asset plan required in subsection (c) that describes any funding needs in excess of amounts authorized or otherwise available to Amtrak in a fiscal year.
+
+**(b) Amtrak 5-Year Business Line Plans.—**
+
+(1) **Amtrak business lines.—** — Amtrak shall prepare a 5-year business line plan for each of the following business lines and services:
+
+  (A) Northeast Corridor train services.
+
+  (B) State-supported routes operated by Amtrak.
+
+  (C) Long-distance routes operated by Amtrak.
+
+  (D) Ancillary services operated by Amtrak, including commuter operations and other revenue generating activities as determined by the Secretary in coordination with Amtrak.
+
+(2) **Contents of 5-year business line plans.—** — The 5-year business line plan for each business line shall include, at a minimum—
+
+  (A) a statement of Amtrak’s objectives, goals, and service plan for the business line, in consultation with any entities that are contributing capital or operating funding to support passenger rail services within those business lines, and aligned with Amtrak’s Strategic Plan and 5-year asset plans under subsection (c);
+
+  (B) all projected revenues and expenditures for the business line, including identification of revenues and expenditures incurred by—
+
+    (i) passenger operations;
+
+    (ii) non-passenger operations that are directly related to the business line; and
+
+    (iii) governmental funding sources, including revenues and other funding received from States;
+
+  (C) projected ridership levels for all passenger operations;
+
+  (D) estimates of long-term and short-term debt and associated principal and interest payments (both current and forecasts);
+
+  (E) annual profit and loss statements and forecasts and balance sheets;
+
+  (F) annual cash flow forecasts;
+
+  (G) a statement describing the methodologies and significant assumptions underlying estimates and forecasts;
+
+  (H) specific performance measures that demonstrate year over year changes in the results of Amtrak’s operations;
+
+  (I) financial performance for each route within each business line, including descriptions of the cash operating loss or contribution and productivity for each route;
+
+  (J) specific costs and savings estimates resulting from reform initiatives;
+
+  (K) prior fiscal year and projected equipment reliability statistics; and
+
+  (L) an identification and explanation of any major adjustments made from previously-approved plans.
+
+(3) **5-year business line plans process.—** — In meeting the requirements of this section, Amtrak shall—
+
+  (A) consult with the Secretary in the development of the business line plans;
+
+  (B) for the Northeast Corridor business line plan, consult with the Northeast Corridor Commission and transmit to the Commission the final plan under subsection (a)(1), and consult with other entities, as appropriate;
+
+  (C) for the State-supported route business line plan, consult with the State-Supported Route Committee established under section 24712;
+
+  (D) for the long-distance route business line plan, consult with any States or Interstate Compacts that provide funding for such routes, as appropriate;
+
+  (E) ensure that Amtrak’s general and legislative annual report, required under section 24315(b), to the President and Congress is consistent with the information in the 5-year business line plans; and
+
+  (F) identify the appropriate Amtrak officials that are responsible for each business line.
+
+(4) **Definition of northeast corridor.—** — Notwithstanding section 24102, for purposes of this section, the term “Northeast Corridor” means the Northeast Corridor main line between Boston, Massachusetts, and the District of Columbia, and facilities and services used to operate and maintain that line.
+
+**(c) Amtrak 5-Year Asset Plans.—**
+
+(1) **Asset categories.—** — Amtrak shall prepare a 5-year asset plan for each of the following asset categories:
+
+  (A) Infrastructure, including all Amtrak-controlled Northeast Corridor assets and other Amtrak-owned infrastructure, and the associated facilities that support the operation, maintenance, and improvement of those assets.
+
+  (B) Passenger rail equipment, including all Amtrak-controlled rolling stock, locomotives, and mechanical shop facilities that are used to overhaul equipment.
+
+  (C) Stations, including all Amtrak-controlled passenger rail stations and elements of other stations for which Amtrak has legal responsibility or intends to make capital investments.
+
+  (D) National assets, including national reservations, security, training and training centers, and other assets associated with Amtrak’s national rail passenger transportation system.
+
+(2) **Contents of 5-year asset plans.—** — Each asset plan shall include, at a minimum—
+
+  (A) a summary of Amtrak’s 5-year strategic plan for each asset category, including goals, objectives, any relevant performance metrics, and statutory or regulatory actions affecting the assets;
+
+  (B) an inventory of existing Amtrak capital assets, to the extent practicable, including information regarding shared use or ownership, if applicable;
+
+  (C) a prioritized list of proposed capital investments that—
+
+    (i) categorizes each capital project as being primarily associated with—
+
+      (I) normalized capital replacement;
+
+      (II) backlog capital replacement;
+
+      (III) improvements to support service enhancements or growth;
+
+      (IV) strategic initiatives that will improve overall operational performance, lower costs, or otherwise improve Amtrak’s corporate efficiency; or
+
+      (V) statutory, regulatory, or other legal mandates;
+
+    (ii) identifies each project or program that is associated with more than 1 category described in clause (i); and
+
+    (iii) describes the anticipated business outcome of each project or program identified under this subparagraph, including an assessment of—
+
+      (I) the potential effect on passenger operations, safety, reliability, and resilience;
+
+      (II) the potential effect on Amtrak’s ability to meet regulatory requirements if the project or program is not funded; and
+
+      (III) the benefits and costs; and
+
+  (D) annual profit and loss statements and forecasts and balance sheets for each asset category.
+
+(3) **5-year asset plan process.—** — In meeting the requirements of this subsection, Amtrak shall—
+
+  (A) consult with each business line described in subsection (b)(1) in the preparation of each 5-year asset plan and ensure integration of each 5-year asset plan with the 5-year business line plans;
+
+  (B) as applicable, consult with the Northeast Corridor Commission, the State-Supported Route Committee, and owners of assets affected by 5-year asset plans; and
+
+  (C) identify the appropriate Amtrak officials that are responsible for each asset category.
+
+(4) **Evaluation of national assets costs.—** — The Secretary shall—
+
+  (A) evaluate the costs and scope of all national assets; and
+
+  (B) determine the activities and costs that are—
+
+    (i) required in order to ensure the efficient operations of a national rail passenger system;
+
+    (ii) appropriate for allocation to 1 of the other Amtrak business lines; and
+
+    (iii) extraneous to providing an efficient national rail passenger system or are too costly relative to the benefits or performance outcomes they provide.
+
+(5) **Definition of national assets.—** — In this section, the term “national assets” means the Nation’s core rail assets shared among Amtrak services, including national reservations, security, training and training centers, and other assets associated with Amtrak’s national rail passenger transportation system.
+
+(6) **Restructuring of national assets.—** — Not later than 1 year after the date of completion of the evaluation under paragraph (4), the Administrator of the Federal Railroad Administration, in consultation with the Amtrak Board of Directors, the governors of each relevant State, and the Mayor of the District of Columbia, or their designees, shall restructure or reallocate, or both, the national assets costs in accordance with the determination under that section, including making appropriate updates to Amtrak’s cost accounting methodology and system.
+
+(7) **Exemption.—**
+
+  (A) *In general.—* — Upon written request from the Amtrak Board of Directors, the Secretary may exempt Amtrak from including in a plan required under this subsection any information described in paragraphs (1) and (2).
+
+  (B) *Public availability.—* — The Secretary shall make available to the public on the Department’s Internet Web site any exemption granted under subparagraph (A) and a detailed justification for granting such exemption.
+
+  (C) *Inclusion in plan.—* — Amtrak shall include in the plan required under this subsection any request granted under subparagraph (A) and justification under subparagraph (B).
+
+**(d) Standards to Promote Financial Stability.—** In preparing plans under this section, Amtrak shall—
+
+(1) apply sound budgetary practices, including reducing costs and other expenditures, improving productivity, increasing revenues, or combinations of such practices; and
+
+(2) use the categories specified in the financial accounting and reporting system developed under section 203 of the Passenger Rail Investment and Improvement Act of 2008 ([49 U.S.C. 24101](./chapter-241-general.md#section-24101) note).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+Pub. L. 114–94, div. A, title XI, § 11203(b), Dec. 4, 2015, 129 Stat. 1634, provided that: “The requirement for Amtrak to submit 5-year business line plans under [section 24320(a)(1) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section24320/a/1&num=0&edition=prelim), United States Code, shall take effect on February 15, 2017, the due date of the first business line plans. The requirement for Amtrak to submit 5-year asset plans under section 24320(a)(1) of such title shall take effect on February 15, 2019, the due date of the first asset plans.”
+
+#### Elimination of Duplicative Reporting
+Pub. L. 114–94, div. A, title XI, § 11215, Dec. 4, 2015, 129 Stat. 1644, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 4, 2015], the Secretary [of Transportation] shall— “(1) review existing Amtrak reporting requirements and identify where the existing requirements are duplicative with the business line and asset plans required by [section 24320 of title 49](./chapter-243-amtrak.md#section-24320), United States Code, or any other planning or reporting requirements under Federal law or regulation; “(2) if the duplicative requirements identified under paragraph (1) are administrative, eliminate such requirements; and “(3) submit to Congress a report with any recommendations for repealing any other duplicative requirements.”
+
+
+<a id="section-24321"></a>
+## § 24321. Food and beverage reform
+**(a) Plan.—** Not later than 90 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, Amtrak shall develop and begin implementing a plan to eliminate, within 5 years of such date of enactment, the operating loss associated with providing food and beverage service on board Amtrak trains.
+
+**(b) Considerations.—** In developing and implementing the plan, Amtrak shall consider a combination of cost management and revenue generation initiatives, including—
+
+(1) scheduling optimization;
+
+(2) on-board logistics;
+
+(3) product development and supply chain efficiency;
+
+(4) training, awards, and accountability;
+
+(5) technology enhancements and process improvements; and
+
+(6) ticket revenue allocation.
+
+**(c) Savings Clause.—** Amtrak shall ensure that no Amtrak employee holding a position as of the date of enactment of the Passenger Rail Reform and Investment Act of 2015 is involuntarily separated because of—
+
+(1) the development and implementation of the plan required under subsection (a); or
+
+(2) any other action taken by Amtrak to implement this section.
+
+**(d) No Federal Funding for Operating Losses.—** Beginning on the date that is 5 years after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, no Federal funds may be used to cover any operating loss associated with providing food and beverage service on a route operated by Amtrak or a rail carrier that operates a route in lieu of Amtrak pursuant to section 24711.
+
+**(e) Report.—** Not later than 120 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, and annually thereafter for 5 years, Amtrak shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the plan developed pursuant to subsection (a) and a description of progress in the implementation of the plan.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsecs. (a), (c), (d), and (e), is the date of enactment of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+#### Effective Date
+Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-24322"></a>
+## § 24322. Rolling stock purchases
+**(a) In General.—** Prior to entering into any contract in excess of $100,000,000 for rolling stock and locomotive procurements Amtrak shall submit a business case analysis to the Secretary of Transportation, the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives, on the utility of such procurements.
+
+**(b) Contents.—** The business case analysis shall—
+
+(1) include a cost and benefit comparison that describes the total lifecycle costs and the anticipated benefits related to revenue, operational efficiency, reliability, and other factors;
+
+(2) set forth the total payments by fiscal year;
+
+(3) identify the specific source and amounts of funding for each payment, including Federal funds, State funds, Amtrak profits, Federal, State, or private loans or loan guarantees, and other funding;
+
+(4) include an explanation of whether any payment under the contract will increase Amtrak’s funding request in its general and legislative annual report required under section 24315(b) in a particular fiscal year; and
+
+(5) describe how Amtrak will adjust the procurement if future funding is not available.
+
+**(c) Rule of Construction.—** Nothing in this section shall be construed as requiring Amtrak to disclose confidential information regarding a potential vendor’s proposed pricing or other sensitive business information prior to contract execution or prohibiting Amtrak from entering into a contract after submission of a business case analysis under subsection (a).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.

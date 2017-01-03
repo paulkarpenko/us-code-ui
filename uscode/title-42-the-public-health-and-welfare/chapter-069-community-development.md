@@ -257,7 +257,7 @@ Pub. L. 93–383, title VIII, § 817, Aug. 22, 1974, 88 Stat. 739, as amended by
 
 (16) The term “adjusted age of housing” means the arithmetic product of the age of housing in the metropolitan city or urban county multiplied times the adjustment factor.
 
-(17) The term “Indian tribe” means any Indian tribe, band, group, and nation, including Alaska Indians, Aleuts, and Eskimos, and any Alaskan Native Village, of the United States, which is considered an eligible recipient under the Indian Self-Determination and Education Assistance Act (Public Law 93–638) [[25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.] or was considered an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter.
+(17) The term “Indian tribe” means any Indian tribe, band, group, and nation, including Alaska Indians, Aleuts, and Eskimos, and any Alaskan Native Village, of the United States, which is considered an eligible recipient under the Indian Self-Determination and Education Assistance Act (Public Law 93–638) [[25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) et seq.] or was considered an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter.
 
 (18) The term “Federal grant-in-aid program” means a program of Federal financial assistance other than loans and other than the assistance provided by this chapter.
 
@@ -300,7 +300,7 @@ The Base Closure and Realignment Act of 1990, referred to in subsec. (a)(6)(D)(v
 
 This Act, referred to in subsec. (a)(6)(D)(viii), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, known as the Housing and Community Development Act of 1974. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-069-community-development.md#section-5301) and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(17), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(17), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
 Chapter 67 of title 31, referred to in subsec. (a)(17), was repealed by Pub. L. 99–272, title XIV, § 14001(a)(1), Apr. 7, 1986, 100 Stat. 327.
 
@@ -2401,8 +2401,8 @@ This heading, referred to in text, refers to the headings “Community Planning 
 #### Codification
 Section was enacted as part of the Disaster Relief and Recovery Supplemental Appropriations Act, 2008, and also as part of the Consolidated Security, Disaster Assistance, and Continuing Appropriations Act, 2009, and not as part of the Housing and Community Development Act of 1974 which comprises this chapter.
 
-#### Prior Provisions
-Prior similar provisions were contained in the following prior appropriation acts:
+#### Similar Provisions
+Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 110–252, title III, June 30, 2008, 122 Stat. 2353; Pub. L. 113–76, div. L, title II, § 236, Jan. 17, 2014, 128 Stat. 635.
 
@@ -3023,7 +3023,7 @@ Section effective Oct. 1, 1978, see section 104 of Pub. L. 95–557, set out as 
 
 <a id="section-5320"></a>
 ## § 5320. Historic preservation requirements
-**(a) Regulations** With respect to applications for assistance under section 531811 See References in Text note below. of this title, the Secretary of the Interior, after consulting with the Secretary, shall prescribe and implement regulations concerning projects funded under section 53181 of this title and their relationship with division A of subtitle III and chapter 3125 of title 54.
+**(a) Regulations** With respect to applications for assistance under section 5318 11 See References in Text note below. of this title, the Secretary of the Interior, after consulting with the Secretary, shall prescribe and implement regulations concerning projects funded under section 5318 1 of this title and their relationship with division A of subtitle III and chapter 3125 of title 54.
 
 **(b) Actions by State historic preservation officer and Secretary of the Interior** In prescribing and implementing such regulations with respect to applications submitted under [section 5318 of this title](./chapter-069-community-development.md#section-5318) which identify any property pursuant to subsection (c)(4)(B) of such section, the Secretary of the Interior shall provide at least that—
 

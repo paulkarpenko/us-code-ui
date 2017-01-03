@@ -20,7 +20,7 @@ In this chapter—
 ### Statutory Notes
 
 #### Effective Date
-Chapter effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under [section 5102 of this title](./chapter-051-classification.md#section-5102).
+Section effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under [section 5102 of this title](./chapter-051-classification.md#section-5102).
 
 #### Purpose
 Pub. L. 111–282, § 1(b), Oct. 15, 2010, 124 Stat. 3033, provided that: “The purpose of this Act [see Short Title of 2010 Amendment note set out under [section 101 of this title](./chapter-001-organization.md#section-101)] is to transfer statutory entitlements to pay and hours of work authorized by laws codified in the District of Columbia Official Code for current members of the United States Secret Service Uniformed Division from such laws to the United States Code.”
@@ -47,6 +47,11 @@ Pub. L. 111–282, § 4(a), Oct. 15, 2010, 124 Stat. 3041, provided that: “To 
 **(b) Delegation of Authority.—** The Secretary is authorized to delegate to the designated agent or agents of the Secretary, any power or function vested in the Secretary under in 11 So in original. this chapter.
 
 **(c) Regulations.—** The Secretary may prescribe such regulations as may be necessary to administer this chapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under [section 5102 of this title](./chapter-051-classification.md#section-5102).
 
 
 <a id="section-10203"></a>
@@ -76,12 +81,20 @@ Levels IV and V of the Executive Schedule, referred to in subsecs. (a) and (b)(2
 
 The General Schedule, referred to in subsec. (b)(1)(A), is set out under [section 5332 of this title](./chapter-053-pay-rates-and-systems.md#section-5332).
 
+#### Effective Date
+Section effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under [section 5102 of this title](./chapter-051-classification.md#section-5102).
+
 
 <a id="section-10204"></a>
 ## § 10204. Rate of pay for original appointments
 **(a) In General.—** Except as provided in subsection (b), all original appointments shall be made at the minimum rate of basic pay for the Officer rank set forth in the schedule in section 10203.
 
 **(b) Exception for Superior Qualifications or Special Need.—** The Director of the United States Secret Service or the designee of the Director may appoint an individual at a rate above the minimum rate of basic pay for the Officer rank based on the individual’s superior qualifications or a special need of the Government for the individual’s services.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under [section 5102 of this title](./chapter-051-classification.md#section-5102).
 
 
 <a id="section-10205"></a>
@@ -95,6 +108,11 @@ The General Schedule, referred to in subsec. (b)(1)(A), is set out under [sectio
 (2) Each member in service step 4, 5, 6, 7, 8, 9, 10, or 11 shall be advanced successively to the next higher service step at the beginning of the first pay period immediately following the completion of 104 calendar weeks of active service in the member’s service step.
 
 (3) Each member in service step 12 shall be advanced successively to the next higher service step at the beginning of the first pay period immediately following the completion of 156 calendar weeks of active service in the member’s service step.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under [section 5102 of this title](./chapter-051-classification.md#section-5102).
 
 
 <a id="section-10206"></a>
@@ -119,6 +137,11 @@ The General Schedule, referred to in subsec. (b)(1)(A), is set out under [sectio
 
 (3) The loss of the additional compensation authorized by subsection (a)(1) shall not constitute an adverse action for the purposes of section 7512.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under [section 5102 of this title](./chapter-051-classification.md#section-5102).
+
 
 <a id="section-10207"></a>
 ## § 10207. Promotions
@@ -126,11 +149,21 @@ The General Schedule, referred to in subsec. (b)(1)(A), is set out under [sectio
 
 **(b) Credit for Service.—** For the purposes of a service step adjustment under section 10205, periods of service at the lower rank shall be credited in the same manner as if it was service at the rank to which the employee is promoted.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under [section 5102 of this title](./chapter-051-classification.md#section-5102).
+
 
 <a id="section-10208"></a>
 ## § 10208. Demotions
 
 When a member is changed or demoted from any rank to a lower rank, the Secretary may fix the member’s rate of basic pay at the rate of pay for any step in the lower rank which does not exceed the lowest step in the lower rank for which the rate of basic pay is equal to or greater than the member’s existing rate of basic pay.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under [section 5102 of this title](./chapter-051-classification.md#section-5102).
 
 
 <a id="section-10209"></a>
@@ -138,6 +171,11 @@ When a member is changed or demoted from any rank to a lower rank, the Secretary
 **(a) In General.—** In addition to the benefits provided under section 5901, the Director of the United States Secret Service or the designee of the Director is authorized to provide a clothing allowance to a member assigned to perform duties in normal business or work attire purchased at the discretion of the employee. Such clothing allowance shall not to be treated as part of the member’s basic pay for any purpose (including retirement purposes) and shall not be used for the purpose of computing the member’s overtime pay, pay during leave or other paid time off, lump-sum payments under section 5551 or section 5552, workers’ compensation, or any other benefit. Such allowance for any member may be discontinued at any time upon written notification by the Director of the United States Secret Service or the designee of the Director.
 
 **(b) Maximum Amount Authorized.—** A clothing allowance authorized under this section shall not exceed $500 per annum.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under [section 5102 of this title](./chapter-051-classification.md#section-5102).
 
 
 <a id="section-10210"></a>
@@ -153,3 +191,6 @@ Not later than 3 years after the date of the enactment of this chapter, the Secr
 
 #### References in Text
 The date of the enactment of this chapter, referred to in text, is the date of enactment of Pub. L. 111–282, which was approved Oct. 15, 2010.
+
+#### Effective Date
+Section effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under [section 5102 of this title](./chapter-051-classification.md#section-5102).

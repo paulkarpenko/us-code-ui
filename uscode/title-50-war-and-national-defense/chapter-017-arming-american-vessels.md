@@ -11,4 +11,4 @@ source: >-
 
 ### Statutory Notes
 
-Section, act June 29, 1948, ch. 715, § 1, 62 Stat. 1095, provided for arming of American vessels during a war or national emergency. See [section 351 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section351&num=0&edition=prelim), Armed Forces.
+Section, act June 29, 1948, ch. 715, § 1, 62 Stat. 1095, provided for arming of American vessels during a war or national emergency. See [section 261 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section261&num=0&edition=prelim), Armed Forces.

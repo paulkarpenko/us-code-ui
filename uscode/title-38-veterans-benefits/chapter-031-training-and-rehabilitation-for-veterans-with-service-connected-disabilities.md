@@ -298,7 +298,13 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 
 (16) Other incidental goods and services determined by the Secretary to be necessary to accomplish the purposes of a rehabilitation program in an individual case.
 
-**(b)** A rehabilitation program (including individual courses) to be pursued by a veteran shall be subject to the approval of the Secretary.
+**(b)** A rehabilitation program (including individual courses) to be pursued by a veteran shall be subject to the approval of the Secretary. To the maximum extent practicable, a course of education or training may be pursued by a veteran as part of a rehabilitation program under this chapter only if the course is approved for purposes of chapter 30 or 33 of this title. The Secretary may waive the requirement under the preceding sentence to the extent the Secretary determines appropriate.
+
+**(c)**
+
+(1) The Secretary shall have the authority to administer this chapter by prioritizing the provision of services under this chapter based on need, as determined by the Secretary. In evaluating need for purposes of this subsection, the Secretary shall consider disability ratings, the severity of employment handicaps, qualification for a program of independent living, income, and any other factor the Secretary determines appropriate.
+
+(2) Not later than 90 days before making any changes to the prioritization of the provision of services under this chapter as authorized under paragraph (1), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a plan describing such changes.
 
 ### Statutory Notes
 
@@ -306,6 +312,10 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 Prior section 3104 was renumbered [section 5304 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5304).
 
 #### Amendments
+2016—Subsec. (b). Pub. L. 114–315, § 402(a), inserted at end “To the maximum extent practicable, a course of education or training may be pursued by a veteran as part of a rehabilitation program under this chapter only if the course is approved for purposes of chapter 30 or 33 of this title. The Secretary may waive the requirement under the preceding sentence to the extent the Secretary determines appropriate.”
+
+Subsec. (c). Pub. L. 114–315, § 403, added subsec. (c).
+
 1996—Subsec. (a)(1). Pub. L. 104–275, § 101(d)(1)(A), substituted “the veteran has an employment handicap or” for “such veteran’s disability or disabilities cause” and inserted “reasonably” after “goal is”.
 
 Subsec. (a)(7)(A). Pub. L. 104–275, § 101(d)(1)(B), struck out “(i)” after “assistance, including” and “, and (ii) job-readiness skills development and counseling under section 14(a)(2) of the Veterans’ Job Training Act ([29 U.S.C. 1721](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1721&num=0&edition=prelim) note) for a participant in a program of training under such Act” after “individual case”.
@@ -329,6 +339,9 @@ Subsec. (b). Pub. L. 102–54 substituted “([29 U.S.C. 796a](https://uscode.ho
 1989—Subsecs. (a), (c). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
 1988—Subsec. (a)(7). Pub. L. 100–323 designated existing provisions as subpar. (A) and added subpar. (B).
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–315, title IV, § 402(b), Dec. 16, 2016, 130 Stat. 1554, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to a course of education or training pursued by a veteran who first begins a program of rehabilitation under chapter 31 of title 38, United States Code, on or after the date that is 1 year after the date of the enactment of this Act [Dec. 16, 2016].”
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–275 effective Oct. 9, 1996, with amendment by section 101(d)(1)(C), (2) of Pub. L. 104–275 only applicable with respect to claims of eligibility or entitlement to services and assistance (including claims for extension of such services and assistance) under this chapter received by the Secretary of Veterans Affairs on or after Oct. 9, 1996, including those claims based on original applications, and applications seeking to reopen, revise, reconsider, or otherwise adjudicate or readjudicate on any basis claims for services and assistance under this chapter, see section 101(j) of Pub. L. 104–275, set out as a note under [section 3101 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3101).
@@ -547,7 +560,7 @@ During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the pr
 
   (B) such Consumer Price Index for the 12-month period preceding the 12-month period described in subparagraph (A).
 
-(4) A veteran entitled to a subsistence allowance under this chapter and educational assistance under chapter 33 of this title may elect to receive payment from the Secretary in lieu of an amount otherwise determined by the Secretary under this subsection in an amount equal to the applicable monthly amount of basic allowance for housing payable under [section 403 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403&num=0&edition=prelim) for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution providing 11 So in original. Probably should be followed by “the”. rehabilitation program concerned.
+(4) A veteran entitled to a subsistence allowance under this chapter and educational assistance under chapter 33 of this title may elect to receive payment from the Secretary in lieu of an amount otherwise determined by the Secretary under this subsection in an amount equal to the applicable monthly amount of basic allowance for housing payable under [section 403 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403&num=0&edition=prelim) for a member with dependents in pay grade E–5 residing in the military housing area that encompasses all or the majority portion of the ZIP code area in which is located the institution providing the rehabilitation program concerned.
 
 **(c)**
 
@@ -599,6 +612,8 @@ Prior section 3108 was renumbered [section 5308 of this title](./chapter-053-spe
 Provisions similar to those comprising this section were contained in former [section 1504 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1504) prior to the general revision of this chapter by Pub. L. 96–466.
 
 #### Amendments
+2015—Subsec. (b)(4). Pub. L. 114–58 inserted “the” before “rehabilitation program concerned”.
+
 2012—Subsec. (a)(2). Pub. L. 112–154 designated existing provisions as subpar. (A) and added subpar. (B).
 
 2011—Subsec. (b)(4). Pub. L. 111–377 added par. (4).

@@ -2,7 +2,7 @@
 title: 49
 chapter: '247'
 heading: AMTRAK ROUTE SYSTEM
-section_count: 8
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -47,7 +47,7 @@ In subsection (b), the words “concerning auto-ferry service . . . railroad or 
 A prior section 24702, Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 923; Pub. L. 104–287, § 5(48), Oct. 11, 1996, 110 Stat. 3393, related to carrying out plan to improve intercity rail passenger service prior to repeal by Pub. L. 105–134, title I, § 101(b), Dec. 2, 1997, 111 Stat. 2572.
 
 #### Access to Amtrak Equipment and Services
-Pub. L. 110–432, div. B, title II, § 217, Oct. 16, 2008, 122 Stat. 4930, provided that: “If a State desires to select or selects an entity other than Amtrak to provide services required for the operation of an intercity passenger train route described in section 24102(5)(D) or 24702 of title 49, United States Code, the State may make an agreement with Amtrak to use facilities and equipment of, or have services provided by, Amtrak under terms agreed to by the State and Amtrak to enable the State to utilize an entity other than Amtrak to provide services required for operation of the route. If the parties cannot agree upon terms, and the Surface Transportation Board finds that access to Amtrak’s facilities or equipment, or the provision of services by Amtrak, is necessary to carry out this provision and that the operation of Amtrak’s other services will not be impaired thereby, the Surface Transportation Board shall, within 120 days after submission of the dispute, issue an order that the facilities and equipment be made available, and that services be provided, by Amtrak, and shall determine reasonable compensation, liability, and other terms for use of the facilities and equipment and provision of the services. Compensation shall be determined, as appropriate, in accordance with the methodology established pursuant to section 209 of this division [[49 U.S.C. 24101](./chapter-241-general.md#section-24101) note], if available.”
+Pub. L. 110–432, div. B, title II, § 217, Oct. 16, 2008, 122 Stat. 4930, as amended by Pub. L. 114–94, div. A, title XI, § 11006(b)(1), Dec. 4, 2015, 129 Stat. 1624, provided that: “If a State desires to select or selects an entity other than Amtrak to provide services required for the operation of an intercity passenger train route described in section 24102(7)(D) or 24702 of title 49, United States Code, the State may make an agreement with Amtrak to use facilities and equipment of, or have services provided by, Amtrak under terms agreed to by the State and Amtrak to enable the State to utilize an entity other than Amtrak to provide services required for operation of the route. If the parties cannot agree upon terms, and the Surface Transportation Board finds that access to Amtrak’s facilities or equipment, or the provision of services by Amtrak, is necessary to carry out this provision and that the operation of Amtrak’s other services will not be impaired thereby, the Surface Transportation Board shall, within 120 days after submission of the dispute, issue an order that the facilities and equipment be made available, and that services be provided, by Amtrak, and shall determine reasonable compensation, liability, and other terms for use of the facilities and equipment and provision of the services. Compensation shall be determined, as appropriate, in accordance with the methodology established pursuant to section 209 of this division [[49 U.S.C. 24101](./chapter-241-general.md#section-24101) note], if available.”
 
 
 <a id="section-24703-to-24705"></a>
@@ -66,13 +66,13 @@ Section 24705, Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 926; Pub. L. 
 ## § 24706. Discontinuance
 **(a) Notice of Discontinuance.—**
 
-(1) Except as provided in subsection (b) of this section, at least 180 days before a discontinuance under section 24704 11 See References in Text note below. or or 22 So in original. discontinuing service over a route, Amtrak shall give notice of the discontinuance in the way Amtrak decides will give a State, a regional or local authority, or another person the opportunity to agree to share or assume the cost of any part of the train, route, or service to be discontinued.
+(1) Except as provided in subsection (b) of this section, at least 180 days before discontinuing service over a route, Amtrak shall give notice of the discontinuance in the way Amtrak decides will give a State, a regional or local authority, or another person the opportunity to agree to share or assume the cost of any part of the train, route, or service to be discontinued.
 
-(2) Notice of the discontinuance under section 24704 1 or paragraph (1) shall be posted in all stations served by the train to be discontinued at least 14 days before the discontinuance.
+(2) Notice of the discontinuance under paragraph (1) shall be posted in all stations served by the train to be discontinued at least 14 days before the discontinuance.
 
 **(b) Discontinuance for Lack of Appropriations.—**
 
-(1) Amtrak may discontinue service under section 24704 1 or subsection (a)(1) during—
+(1) Amtrak may discontinue service under subsection (a)(1) during—
 
   (A) the first month of a fiscal year if the authorization of appropriations and the appropriations for Amtrak are not enacted at least 90 days before the beginning of the fiscal year; and
 
@@ -110,10 +110,13 @@ In subsection (c)(3), the words “[section 11347 of this title](https://uscode.
 
 In subsection (c)(5), the words “be construed to” are omitted as surplus. The text of 45:565(c) (last sentence) is omitted as executed.
 
-#### References in Text
-[Section 24704 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section24704&num=0&edition=prelim), referred to in text, was repealed by Pub. L. 105–134, title I, § 105(a), Dec. 2, 1997, 111 Stat. 2573.
-
 #### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–94, § 11316(n)(1)(A)(i), struck out “a discontinuance under section 24704 or or” after “before”.
+
+Subsec. (a)(2). Pub. L. 114–94, § 11316(n)(1)(A)(ii), struck out “section 24704 or” after “under”.
+
+Subsec. (b)(1). Pub. L. 114–94, § 11316(n)(1)(B), struck out “section 24704 or” after “under” in introductory provisions.
+
 2008—Subsec. (c). Pub. L. 110–432 added subsec. (c).
 
 1997—Subsec. (a)(1). Pub. L. 105–134, § 101(c)(1)–(3), substituted “180 days” for “90 days” and “or discontinuing service over a route,” for “24707(a) or (b) of this title,” and inserted “or assume” after “agree to share”.
@@ -123,6 +126,9 @@ Subsec. (a)(2). Pub. L. 105–134, § 101(c)(4), which directed substitution of 
 Subsec. (b)(1). Pub. L. 105–134, § 101(c)(5), which directed substitution of “subsection (a)(1)” for “section 24707(a) or (b) of this title”, was executed by making the substitution for “24707(a) or (b) of this title” to reflect the probable intent of Congress.
 
 Subsec. (c). Pub. L. 105–134, § 142(a), struck out subsec. (c) which related to employee protective arrangements.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 1997 Amendment
 Amendment by section 142(a) of Pub. L. 105–134 effective 180 days after Dec. 2, 1997, see section 142(c) of Pub. L. 105–134, set out in an Employee Protection Reforms note below.
@@ -147,7 +153,7 @@ Section 24708, Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 929, related 
 <a id="section-24709"></a>
 ## § 24709. International transportation
 
-Amtrak may develop and operate international intercity rail passenger transportation between the United States and Canada and between the United States and Mexico. The Secretary of the Treasury and the Attorney General, in cooperation with Amtrak, shall maintain, consistent with the effective enforcement of the immigration and customs laws, en route customs inspection and immigration procedures for international intercity rail passenger transportation that will—
+Amtrak may develop and operate international intercity rail passenger transportation between the United States and Canada and between the United States and Mexico. The Secretary of Homeland Security, in cooperation with Amtrak, shall maintain, consistent with the effective enforcement of the immigration and customs laws, en route customs inspection and immigration procedures for international intercity rail passenger transportation that will—
 
 (1) be convenient for passengers; and
 
@@ -162,6 +168,12 @@ Amtrak may develop and operate international intercity rail passenger transporta
 |  | 45:545(i). | Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, § 305(i); added Oct. 28, 1974, Pub. L. 93–496, § 4, 88 Stat. 1527; restated May 26, 1975, Pub. L. 94–25, § 3, 89 Stat. 90; Sept. 29, 1979, Pub. L. 96–73, § 106, 93 Stat. 539; Aug. 13, 1981, Pub. L. 97–35, § 1176, 95 Stat. 692; Apr. 7, 1986, Pub. L. 99–272, § 13031(h)(1), 100 Stat. 310. |
 
 In this section, before clause (1), the words “points within”, “points in”, and “including Montreal, Canada; Vancouver, Canada; and Nuevo Laredo, Mexico” in 45:545(e)(7) are omitted as surplus. The words “establish and” in 45:545(i) (1st sentence) are omitted as executed. The words “trains operated in” are omitted as surplus.
+
+#### Amendments
+2015—Pub. L. 114–94 substituted “The Secretary of Homeland Security,” for “The Secretary of the Treasury and the Attorney General,” in introductory provisions.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Cross-Border Passenger Rail Service
 Pub. L. 110–432, div. B, title IV, § 406, Oct. 16, 2008, 122 Stat. 4958, provided that: “(a) Plan.—Not later than 1 year after the date of the enactment of this Act [Oct. 16, 2008], Amtrak shall, in consultation with the Secretary [of Transportation], the Secretary of Homeland Security, the Washington State Department of Transportation, and the owners of the relevant railroad infrastructure—“(1) develop a strategic plan to facilitate expanded passenger rail service across the international border between the United States and Canada during the 2010 Olympic Games on the Amtrak passenger rail route between Vancouver, British Columbia, Canada, and Eugene, Oregon (commonly known as ‘Amtrak Cascades’); “(2) develop recommendations for the Department of Homeland Security to process efficiently rail passengers traveling on Amtrak Cascades across such international border during the 2010 Olympic Games; and “(3) submit to Congress a report containing the strategic plan described in paragraph (1) and the recommendations described in paragraph (2). “(b) Travel Facilitation.—Using existing authority or agreements, or upon reaching additional agreements with Canada, the Secretary [of Transportation] and other Federal agencies, as appropriate, are authorized to establish facilities and procedures to conduct preclearance of passengers traveling on Amtrak trains from Canada to the United States. The Secretary shall seek to establish such facilities and procedures—“(1) in Vancouver, Canada, no later than June 1, 2009; and “(2) in other areas as determined appropriate by the Secretary.”
@@ -218,62 +230,226 @@ Section 207 of the Passenger Rail Investment and Improvement Act of 2008, referr
 
 
 <a id="section-24711"></a>
-## § 24711. Alternate passenger rail service pilot program
-**(a) In General.—** Within 1 year after the date of enactment of the Passenger Rail Investment and Improvement Act of 2008, the Federal Railroad Administration shall complete a rulemaking proceeding to develop a pilot program that—
+## § 24711. Competitive passenger rail service pilot program
+**(a) In General.—** Not later than 18 months after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, the Secretary of Transportation shall promulgate a rule to implement a pilot program for competitive selection of eligible petitioners described in subsection (b)(3) in lieu of Amtrak to operate not more than 3 long-distance routes (as defined in section 24102) operated by Amtrak on the date of enactment of such Act.
 
-(1) permits a rail carrier or rail carriers that own infrastructure over which Amtrak operates a passenger rail service route described in subparagraph (B), (C), or (D) of section 24102(5) or in section 24702 to petition the Administration to be considered as a passenger rail service provider over that route in lieu of Amtrak for a period not to exceed 5 years after the date of enactment of the Passenger Rail Investment and Improvement Act of 2008;
+**(b) Pilot Program Requirements.—**
 
-(2) requires the Administration to notify Amtrak within 30 days after receiving a petition under paragraph (1) and establish a deadline by which both the petitioner and Amtrak would be required to submit a bid to provide passenger rail service over the route to which the petition relates;
+(1) **In general.—** — The pilot program shall—
 
-(3) requires that each bid describe how the bidder would operate the route, what Amtrak passenger equipment would be needed, if any, what sources of non-Federal funding the bidder would use, including any State subsidy, among other things;
+  (A) allow a petitioner described in paragraph (3) to petition the Secretary to provide intercity rail passenger transportation over a long-distance route described in subsection (a) for an operation period of 4 years from the date of commencement of service by the winning bidder and, at the option of the Secretary, consistent with the rule promulgated under subsection (a), allow the contract to be renewed for 1 additional operation period of 4 years;
 
-(4) requires the Administration to select winning bidders by evaluating the bids against the financial and performance metrics developed under section 207 of the Passenger Rail Investment and Improvement Act of 2008 and to give preference in awarding contracts to bidders seeking to operate routes that have been identified as one of the five worst performing Amtrak routes under section 24710;
+  (B) require the Secretary to—
 
-(5) requires the Administration to execute a contract within a specified, limited time after the deadline established under paragraph (2) and award to the winning bidder—
+    (i) notify the petitioner and Amtrak of receipt of the petition under subparagraph (A) and to publish in the Federal Register a notice of receipt not later than 30 days after the date of receipt;
 
-  (A) the right and obligation to provide passenger rail service over that route subject to such performance standards as the Administration may require, consistent with the standards developed under section 207 of the Passenger Rail Investment and Improvement Act of 2008; and
+    (ii) establish a deadline, of not more than 120 days after the notice of receipt is published in the Federal Register under clause (i), by which both the petitioner and Amtrak, if Amtrak chooses to do so, would be required to submit a complete bid to provide intercity rail passenger transportation over the applicable route; and
 
-  (B) an operating subsidy—
+    (iii) upon selecting a winning bid, publish in the Federal Register the identity of the winning bidder, the long distance route that the bidder will operate, a detailed justification of the reasons why the Secretary selected the bid, and any other information the Secretary determines appropriate for public comment for a reasonable period of time not to exceed 30 days after the date on which the Secretary selects the bid;
 
-    (i) for the first year at a level not in excess of the level in effect during the fiscal year preceding the fiscal year in which the petition was received, adjusted for inflation;
+  (C) require that each bid—
 
-    (ii) for any subsequent years at such level, adjusted for inflation; and
+    (i) describe the capital needs, financial projections, and operational plans, including staffing plans, for the service, and such other factors as the Secretary considers appropriate; and
 
-(6) requires that each bid contain a staffing plan describing the number of employees needed to operate the service, the job assignments and requirements, and the terms of work for prospective and current employees of the bidder for the service outlined in the bid, and such staffing plan be made available by the winning bidder to the public after the bid award.
+    (ii) be made available by the winning bidder to the public after the bid award with any appropriate redactions for confidential or proprietary information;
 
-**(b) Route Limitations.—** The Administration may not make the program available with respect to more than 2 Amtrak intercity passenger rail routes.
+  (D) for a route that receives funding from a State or States, require that for each bid received from a petitioner described in paragraph (3), other than such State or States, the Secretary have the concurrence of the State or States that provide funding for that route; and
 
-**(c) Performance Standards; Access to Facilities; Employees.—** If the Administration awards the right and obligation to provide passenger rail service over a route under the program to a rail carrier or rail carriers—
+  (E) for a winning bidder that is not or does not include Amtrak, require the Secretary to execute a contract not later than 270 days after the deadline established under subparagraph (B)(ii) and award to the winning bidder—
 
-(1) it shall execute a contract with the rail carrier or rail carriers for rail passenger operations on that route that conditions the operating and subsidy rights upon—
+    (i) subject to paragraphs (4) and (5), the right and obligation to provide intercity rail passenger transportation over that route subject to such performance standards as the Secretary may require; and
 
-  (A) the service provider continuing to provide passenger rail service on the route that is no less frequent, nor over a shorter distance, than Amtrak provided on that route before the award; and
+    (ii) an operating subsidy, as determined by the Secretary, for—
 
-  (B) the service provider’s compliance with the minimum standards established under section 207 of the Passenger Rail Investment and Improvement Act of 2008 and such additional performance standards as the Administration may establish;
+      (I) the first year at a level that does not exceed 90 percent of the level in effect for that specific route during the fiscal year preceding the fiscal year in which the petition was received, adjusted for inflation; and
 
-(2) it shall, if the award is made to a rail carrier other than Amtrak, require Amtrak to provide access to its reservation system, stations, and facilities directly related to operations to any rail carrier or rail carriers awarded a contract under this section, in accordance with section 217 of that Act, necessary to carry out the purposes of this section;
+      (II) any subsequent years at the level calculated under subclause (I), adjusted for inflation.
 
-(3) the employees of any person used by a rail carrier or rail carriers (as defined in [section 10102(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10102/5&num=0&edition=prelim)) in the operation of a route under this section shall be considered an employee of that carrier or carriers and subject to the applicable Federal laws and regulations governing similar crafts or classes of employees of Amtrak, including provisions under section 121 of the Amtrak Reform and Accountability Act of 1997 relating to employees that provide food and beverage service; and
+(2) **Limitation.—** — The requirements under paragraph (1)(E), including the amounts of operating subsidies in the first and any subsequent years under paragraph (1)(E)(ii), shall not apply to a winning bidder that is or includes Amtrak.
 
-(4) the winning bidder shall provide hiring preference to qualified Amtrak employees displaced by the award of the bid, consistent with the staffing plan submitted by the bidder and shall be subject to the grant conditions under [section 24405 of this title](./chapter-244-intercity-passenger-rail-service-corridor-capital-assistance.md#section-24405).
+(3) **Eligible petitioners.—** — The following parties are eligible to submit petitions under paragraph (1):
 
-**(d) Cessation of Service.—** If a rail carrier or rail carriers awarded a route under this section cease to operate the service or fail to fulfill their obligations under the contract required under subsection (c), the Administrator, in collaboration with the Surface Transportation Board, shall take any necessary action consistent with this title to enforce the contract and ensure the continued provision of service, including the installment of an interim service provider and re-bidding the contract to operate the service. The entity providing service shall either be Amtrak or a rail carrier defined in subsection (a)(1).
+  (A) A rail carrier or rail carriers that own the infrastructure over which Amtrak operates a long-distance route, or another rail carrier that has a written agreement with a rail carrier or rail carriers that own such infrastructure.
 
-**(e) Adequate Resources.—** Before taking any action allowed under this section, the Secretary shall certify that the Administrator has sufficient resources that are adequate to undertake the program established under this section.
+  (B) A State, group of States, or State-supported joint powers authority or other sub-State governance entity responsible for provision of intercity rail passenger transportation with a written agreement with the rail carrier or rail carriers that own the infrastructure over which Amtrak operates a long-distance route and that host or would host the intercity rail passenger transportation.
+
+  (C) A State, group of States, or State-supported joint powers authority or other sub-State governance entity responsible for provision of intercity rail passenger transportation and a rail carrier with a written agreement with another rail carrier or rail carriers that own the infrastructure over which Amtrak operates a long-distance route and that host or would host the intercity rail passenger transportation.
+
+(4) **Performance standards.—** — The performance standards required under paragraph (1)(E)(i) shall meet or exceed the performance required of or achieved by Amtrak on the applicable route during the last fiscal year.
+
+(5) **Agreement governing access issues.—** — Unless the winning bidder already has applicable access rights or agreements in place or includes a rail carrier that owns the infrastructure used in the operation of the route, a winning bidder that is not or does not include Amtrak shall enter into a written agreement governing access issues between the winning bidder and the rail carrier or rail carriers that own the infrastructure over which the winning bidder would operate and that host or would host the intercity rail passenger transportation.
+
+**(c) Access to Facilities; Employees.—** If the Secretary awards the right and obligation to provide intercity rail passenger transportation over a route described in this section to an eligible petitioner—
+
+(1) the Secretary shall, if necessary to carry out the purposes of this section, require Amtrak to provide access to the Amtrak-owned reservation system, stations, and facilities directly related to operations of the awarded routes to the eligible petitioner awarded a contract under this section, in accordance with subsection (g);
+
+(2) an employee of any person, except as provided in a collective bargaining agreement, used by such eligible petitioner in the operation of a route under this section shall be considered an employee of that eligible petitioner and subject to the applicable Federal laws and regulations governing similar crafts or classes of employees of Amtrak; and
+
+(3) the winning bidder shall provide hiring preference to qualified Amtrak employees displaced by the award of the bid, consistent with the staffing plan submitted by the bidder, and shall be subject to the grant conditions under section 24405.
+
+**(d) Cessation of Service.—** If an eligible petitioner awarded a route under this section ceases to operate the service or fails to fulfill an obligation under a contract required under subsection (b)(1)(E), the Secretary, in collaboration with the Surface Transportation Board, shall take any necessary action consistent with this title to enforce the contract and ensure the continued provision of service, including—
+
+(1) the installment of an interim rail carrier;
+
+(2) providing to the interim rail carrier under paragraph (1) an operating subsidy necessary to provide service; and
+
+(3) rebidding the contract to operate the intercity rail passenger transportation.
+
+**(e) Budget Authority.—**
+
+(1) **In general.—** — The Secretary shall provide to a winning bidder that is not or does not include Amtrak and that is selected under this section any appropriations withheld under section 11101(e) of the Passenger Rail Reform and Investment Act of 2015, or any subsequent appropriation for the same purpose, necessary to cover the operating subsidy described in subsection (b)(1)(E)(ii).
+
+(2) **Attributable costs.—** — If the Secretary selects a winning bidder that is not or does not include Amtrak, the Secretary shall provide to Amtrak an appropriate portion of the appropriations under section 11101(b) of the Passenger Rail Reform and Investment Act of 2015, or any subsequent appropriation for the same purpose, to cover any cost directly attributable to the termination of Amtrak service on the route and any indirect costs to Amtrak imposed on other Amtrak routes as a result of losing service on the route operated by the winning bidder. Any amount provided by the Secretary to Amtrak under this paragraph shall not be deducted from or have any effect on the operating subsidy described in subsection (b)(1)(E)(ii).
+
+**(f) Reporting.—** If the Secretary does not promulgate the final rule before the deadline under subsection (a), the Secretary shall, not later than 19 months after the date of enactment of the Passenger Rail Reform and Investment Act of 2015 and every 90 days thereafter until the rule is complete, notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives in writing—
+
+(1) the reasons why the rule has not been issued;
+
+(2) a plan for completing the rule as soon as reasonably practicable; and
+
+(3) the estimated date of completion of the rule.
+
+**(g) Disputes.—**
+
+(1) **Petitioning surface transportation board.—** — If Amtrak and the eligible petitioner awarded a route under this section cannot agree upon terms to carry out subsection (c)(1), either party may petition the Surface Transportation Board for a determination as to—
+
+  (A) whether access to Amtrak’s facility or equipment, or the provisions of services by Amtrak, is necessary under subsection (c)(1); and
+
+  (B) whether the operation of Amtrak’s other services will not be unreasonably impaired by such access.
+
+(2) **Surface transportation board determination.—** — If the Surface Transportation Board determines access to Amtrak’s facilities or equipment, or the provision of services by Amtrak, is necessary under paragraph (1)(A) and the operation of Amtrak’s other services will not be unreasonably impaired under paragraph (1)(B), the Board shall issue an order that—
+
+  (A) requires Amtrak to provide the applicable facilities, equipment, and services; and
+
+  (B) determines reasonable compensation, liability, and other terms for the use of the facilities and equipment and the provision of the services.
+
+**(h) Limitation.—** Not more than 3 long-distance routes may be selected under this section for operation by a winning bidder that is not or does not include Amtrak.
+
+**(i) Preservation of Right to Competition on State-Supported Routes.—** Nothing in this section shall be construed as prohibiting a State from introducing competition for intercity rail passenger transportation or services on its State-supported route or routes.
+
+**(j) Savings Clause.—** Nothing in this section shall affect Amtrak’s access rights to railroad rights-of-way and facilities.
 
 ### Statutory Notes
 
 #### References in Text
-The date of enactment of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (a), is the date of enactment of div. B of Pub. L. 110–432, which was approved Oct. 16, 2008.
+The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsecs. (a) and (f), is the date of enactment of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
-Section 207 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsecs. (a)(4), (5)(A), and (c)(1)(B), is section 207 of Pub. L. 110–432, which is set out in a note under [section 24101 of this title](./chapter-241-general.md#section-24101).
+Section 11101 of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (e), is section 11101 of title XI of div. A of Pub. L. 114–94, Dec. 4, 2015, 129 Stat. 1622, which is not classified to the Code.
 
-Section 217 of that Act, referred to in subsec. (c)(2), is section 217 of Pub. L. 110–432, which is set out as a note under [section 24702 of this title](./chapter-247-amtrak-route-system.md#section-24702).
+#### Amendments
+2015—Pub. L. 114–94 amended section generally. Prior to amendment, section related to alternate passenger rail service pilot program.
 
-Section 121 of the Amtrak Reform and Accountability Act of 1997, referred to in subsec. (c)(3), is section 121 of Pub. L. 105–134, which amended [section 24312 of this title](./chapter-243-amtrak.md#section-24312) and enacted provisions set out as a note under [section 24312 of this title](./chapter-243-amtrak.md#section-24312).
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under [section 101 of this title](./chapter-001-organization.md#section-101).
 
+#### Report
+Pub. L. 114–94, div. A, title XI, § 11307(c), Dec. 4, 2015, 129 Stat. 1664, provided that: “Not later than 4 years after the date of implementation of the pilot program under [section 24711 of title 49](./chapter-247-amtrak-route-system.md#section-24711), United States Code, and quadrennially thereafter until the pilot program is discontinued, the Secretary [of Transportation] shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the results of the pilot program to date and any recommendations for further action.”
+
 #### Employee Transition Assistance
 Pub. L. 110–432, div. B, title II, § 215, Oct. 16, 2008, 122 Stat. 4929, provided that: “(a) Provision of Financial Incentives.—For Amtrak employees who are adversely affected by the cessation of the operation of a long-distance route or any other route under [section 24711 of title 49](./chapter-247-amtrak-route-system.md#section-24711), United States Code, previously operated by Amtrak, the Secretary [of Transportation] shall develop a program under which the Secretary may, at the Secretary’s discretion, provide grants for financial incentives to be provided to Amtrak employees who voluntarily terminate their employment with Amtrak and relinquish any legal rights to receive termination-related payments under any contractual agreement with Amtrak. “(b) Conditions for Financial Incentives.—As a condition for receiving financial assistance grants under this section, Amtrak must certify that—“(1) a reasonable attempt was made to reassign an employee adversely affected under [section 24711 of title 49](./chapter-247-amtrak-route-system.md#section-24711), United States Code, or by the elimination of any route, to other positions within Amtrak in accordance with any contractual agreements; “(2) the financial assistance results in a net reduction in the total number of employees equal to the number receiving financial incentives; “(3) the financial assistance results in a net reduction in total employment expense equivalent to the total employment expenses associated with the employees receiving financial incentives; and “(4) the total number of employees eligible for termination-related payments will not be increased without the express written consent of the Secretary. “(c) Amount of Financial Incentives.—The financial incentives authorized under this section may be no greater than $100,000 per employee. “(d) Authorization of Appropriations.—There are hereby authorized to be appropriated to the Secretary such sums as may be necessary to make grants to Amtrak to provide financial incentives under subsection (a). “(e) Termination-Related Payments.—If Amtrak employees adversely affected by the cessation of Amtrak service resulting from the awarding of a grant to an operator other than Amtrak for the operation of a route under [section 24711 of title 49](./chapter-247-amtrak-route-system.md#section-24711), United States Code, or any other route, previously operated by Amtrak do not receive financial incentives under subsection (a), then the Secretary shall make grants to Amtrak from funds authorized by section 101 of this division [122 Stat. 4908] for termination-related payments to employees under existing contractual agreements.”
+
+
+<a id="section-24712"></a>
+## § 24712. State-supported routes operated by Amtrak
+**(a) State-Supported Route Committee.—**
+
+(1) **Establishment.—** — Not later than 180 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, the Secretary of Transportation shall establish the State-Supported Route Committee (referred to in this section as the “Committee”) to promote mutual cooperation and planning pertaining to the rail operations of Amtrak and related activities of trains operated by Amtrak on State-supported routes and to further implement section 209 of the Passenger Rail Investment and Improvement Act of 2008 ([49 U.S.C. 24101](./chapter-241-general.md#section-24101) note).
+
+(2) **Membership.—**
+
+  (A) *In general.—* — The Committee shall consist of—
+
+    (i) members representing Amtrak;
+
+    (ii) members representing the Department of Transportation, including the Federal Railroad Administration; and
+
+    (iii) members representing States.
+
+  (B) *Non-voting members.—* — The Committee may invite and accept other non-voting members to participate in Committee activities, as appropriate.
+
+(3) **Decisionmaking.—** — The Committee shall establish a bloc voting system under which, at a minimum—
+
+  (A) there are 3 separate voting blocs to represent the Committee’s voting members, including—
+
+    (i) 1 voting bloc to represent the members described in paragraph (2)(A)(i);
+
+    (ii) 1 voting bloc to represent the members described in paragraph (2)(A)(ii); and
+
+    (iii) 1 voting bloc to represent the members described in paragraph (2)(A)(iii);
+
+  (B) each voting bloc has 1 vote;
+
+  (C) the vote of the voting bloc representing the members described in paragraph (2)(A)(iii) requires the support of at least two-thirds of that voting bloc’s members; and
+
+  (D) the Committee makes decisions by unanimous consent of the 3 voting blocs.
+
+(4) **Meetings; rules and procedures.—** — The Committee shall convene a meeting and shall define and implement the rules and procedures governing the Committee’s proceedings not later than 180 days after the date of establishment of the Committee by the Secretary. The rules and procedures shall—
+
+  (A) incorporate and further describe the decisionmaking procedures to be used in accordance with paragraph (3); and
+
+  (B) be adopted in accordance with such decisionmaking procedures.
+
+(5) **Committee decisions.—** — Decisions made by the Committee in accordance with the Committee’s rules and procedures, once established, are binding on all Committee members.
+
+(6) **Cost allocation methodology.—**
+
+  (A) *In general.—* — Subject to subparagraph (B), the Committee may amend the cost allocation methodology required and previously approved under section 209 of the Passenger Rail Investment and Improvement Act of 2008 ([49 U.S.C. 24101](./chapter-241-general.md#section-24101) note).
+
+  (B) *Procedures for changing methodology.—* — The rules and procedures implemented under paragraph (4) shall include procedures for changing the cost allocation methodology.
+
+  (C) *Requirements.—* — The cost allocation methodology shall—
+
+    (i) ensure equal treatment in the provision of like services of all States and groups of States; and
+
+    (ii) allocate to each route the costs incurred only for the benefit of that route and a proportionate share, based upon factors that reasonably reflect relative use, of costs incurred for the common benefit of more than 1 route.
+
+**(b) Invoices and Reports.—** Not later than April 15, 2016, and monthly thereafter, Amtrak shall provide to each State that sponsors a State-supported route a monthly invoice of the cost of operating such route, including fixed costs and third-party costs. The Committee shall determine the frequency and contents of financial and performance reports that Amtrak shall provide to the States, as well as the planning and demand reports that the States shall provide to Amtrak.
+
+**(c) Dispute Resolution.—**
+
+(1) **Request for dispute resolution.—** — If a dispute arises with respect to the rules and procedures implemented under subsection (a)(4), an invoice or a report provided under subsection (b), implementation or compliance with the cost allocation methodology developed under section 209 of the Passenger Rail Investment and Improvement Act of 2008 ([49 U.S.C. 24101](./chapter-241-general.md#section-24101) note) or amended under subsection (a)(6) of this section, either Amtrak or the State may request that the Surface Transportation Board conduct dispute resolution under this subsection.
+
+(2) **Procedures.—** — The Surface Transportation Board shall establish procedures for resolution of disputes brought before it under this subsection, which may include provision of professional mediation services.
+
+(3) **Binding effect.—** — A decision of the Surface Transportation Board under this subsection shall be binding on the parties to the dispute.
+
+(4) **Obligation.—** — Nothing in this subsection shall affect the obligation of a State to pay an amount not in dispute.
+
+**(d) Assistance.—**
+
+(1) **In general.—** — The Secretary may provide assistance to the parties in the course of negotiations for a contract for operation of a State-supported route.
+
+(2) **Financial assistance.—** — From among available funds, the Secretary shall provide—
+
+  (A) financial assistance to Amtrak or 1 or more States to perform requested independent technical analysis of issues before the Committee; and
+
+  (B) administrative expenses that the Secretary determines necessary.
+
+**(e) Performance Metrics.—** In negotiating a contract for operation of a State-supported route, Amtrak and the State or States that sponsor the route shall consider including provisions that provide penalties and incentives for performance.
+
+**(f) Statement of Goals and Objectives.—**
+
+(1) **In general.—** — The Committee shall develop a statement of goals, objectives, and associated recommendations concerning the future of State-supported routes operated by Amtrak. The statement shall identify the roles and responsibilities of Committee members and any other relevant entities, such as host railroads, in meeting the identified goals and objectives, or carrying out the recommendations. The Committee may consult with such relevant entities, as the Committee considers appropriate, when developing the statement.
+
+(2) **Transmission of statement of goals and objectives.—** — Not later than 2 years after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, the Committee shall transmit the statement developed under paragraph (1) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+**(g) Rule of Construction.—** The decisions of the Committee—
+
+(1) shall pertain to the rail operations of Amtrak and related activities of trains operated by Amtrak on State-sponsored routes; and
+
+(2) shall not pertain to the rail operations or related activities of services operated by other rail carriers on State-supported routes.
+
+**(h) Definition of State.—** In this section, the term “State” means any of the 50 States, including the District of Columbia, that sponsor the operation of trains by Amtrak on a State-supported route, or a public entity that sponsors such operation on such a route.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsecs. (a)(1) and (f)(2), is the date of enactment of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+Section 209 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsecs. (a)(1), (6)(A), and (c)(1), is section 209 of div. B of Pub. L. 110–432, which is set out as a note under [section 24101 of this title](./chapter-241-general.md#section-24101).
+
+#### Effective Date
+Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.

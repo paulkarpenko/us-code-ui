@@ -665,7 +665,7 @@ For extension of contiguous zone of United States, see Proc. No. 7219, set out a
 
   (A) *Granting of credit.—* — The President shall grant a State a credit against the share of the costs, for which it is responsible under paragraph (3) with respect to a facility listed on the National Priorities List under the National Contingency Plan, for amounts expended by a State for remedial action at such facility pursuant to a contract or cooperative agreement with the President. The credit under this paragraph shall be limited to those State expenses which the President determines to be reasonable, documented, direct out-of-pocket expenditures of non-Federal funds.
 
-  (B) *Expenses before listing or agreement.—* — The credit under this paragraph shall include expenses for remedial action at a facility incurred before the listing of the facility on the National Priorities List or before a contract or cooperative agreement is entered into under subsection (d) of this section for the facility if—
+  (B) *Expenses before listing or agreement.—* — The credit under this paragraph shall include expenses for remedial action at a facility incurred before the listing of the facility on the National Priorities List or before a contract or cooperative agreement is entered into under subsection (d) for the facility if—
 
     (i) after such expenses are incurred the facility is listed on such list and a contract or cooperative agreement is entered into for the facility, and
 
@@ -673,7 +673,7 @@ For extension of contiguous zone of United States, see Proc. No. 7219, set out a
 
   (C) *Response actions between 1978 and 1980.—* — The credit under this paragraph shall include funds expended or obligated by the State or a political subdivision thereof after January 1, 1978, and before December 11, 1980, for cost-eligible response actions and claims for damages compensable under [section 9611 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9611).
 
-  (D) *State expenses after december 11, 1980, in excess of 10 percent of costs.—* — The credit under this paragraph shall include 90 percent of State expenses incurred at a facility owned, but not operated, by such State or by a political subdivision thereof. Such credit applies only to expenses incurred pursuant to a contract or cooperative agreement under subsection (d) of this section and only to expenses incurred after December 11, 1980, but before October 17, 1986.
+  (D) *State expenses after december 11, 1980, in excess of 10 percent of costs.—* — The credit under this paragraph shall include 90 percent of State expenses incurred at a facility owned, but not operated, by such State or by a political subdivision thereof. Such credit applies only to expenses incurred pursuant to a contract or cooperative agreement under subsection (d) and only to expenses incurred after December 11, 1980, but before October 17, 1986.
 
   (E) *Item-by-item approval.—* — In the case of expenditures made after October 17, 1986, the President may require prior approval of each item of expenditure as a condition of granting a credit under this paragraph.
 
@@ -713,7 +713,7 @@ For extension of contiguous zone of United States, see Proc. No. 7219, set out a
 
 **(e) Information gathering and access**
 
-(1) **Action authorized** — Any officer, employee, or representative of the President, duly designated by the President, is authorized to take action under paragraph (2), (3), or (4) (or any combination thereof) at a vessel, facility, establishment, place, property, or location or, in the case of paragraph (3) or (4), at any vessel, facility, establishment, place, property, or location which is adjacent to the vessel, facility, establishment, place, property, or location referred to in such paragraph (3) or (4). Any duly designated officer, employee, or representative of a State or political subdivision under a contract or cooperative agreement under subsection (d)(1) of this section is also authorized to take such action. The authority of paragraphs (3) and (4) may be exercised only if there is a reasonable basis to believe there may be a release or threat of release of a hazardous substance or pollutant or contaminant. The authority of this subsection may be exercised only for the purposes of determining the need for response, or choosing or taking any response action under this subchapter, or otherwise enforcing the provisions of this subchapter.
+(1) **Action authorized** — Any officer, employee, or representative of the President, duly designated by the President, is authorized to take action under paragraph (2), (3), or (4) (or any combination thereof) at a vessel, facility, establishment, place, property, or location or, in the case of paragraph (3) or (4), at any vessel, facility, establishment, place, property, or location which is adjacent to the vessel, facility, establishment, place, property, or location referred to in such paragraph (3) or (4). Any duly designated officer, employee, or representative of a State or political subdivision under a contract or cooperative agreement under subsection (d)(1) is also authorized to take such action. The authority of paragraphs (3) and (4) may be exercised only if there is a reasonable basis to believe there may be a release or threat of release of a hazardous substance or pollutant or contaminant. The authority of this subsection may be exercised only for the purposes of determining the need for response, or choosing or taking any response action under this subchapter, or otherwise enforcing the provisions of this subchapter.
 
 (2) **Access to information** — Any officer, employee, or representative described in paragraph (1) may require any person who has or may have information relevant to any of the following to furnish, upon reasonable notice, information or documents relating to such matter:
 
@@ -1251,7 +1251,7 @@ Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, 
 
   (B) based upon the criteria set forth in subparagraph (A) of this paragraph, the President shall list as part of the plan national priorities among the known releases or threatened releases throughout the United States and shall revise the list no less often than annually. Within one year after December 11, 1980, and annually thereafter, each State shall establish and submit for consideration by the President priorities for remedial action among known releases and potential releases in that State based upon the criteria set forth in subparagraph (A) of this paragraph. In assembling or revising the national list, the President shall consider any priorities established by the States. To the extent practicable, the highest priority facilities shall be designated individually and shall be referred to as the “top priority among known response targets”, and, to the extent practicable, shall include among the one hundred highest priority facilities one such facility from each State which shall be the facility designated by the State as presenting the greatest danger to public health or welfare or the environment among the known facilities in such State. A State shall be allowed to designate its highest priority facility only once. Other priority facilities or incidents may be listed singly or grouped for response priority purposes;
 
-(9) specified roles for private organizations and entities in preparation for response and in responding to releases of hazardous substances, including identification of appropriate qualifications and capacity therefor and including consideration of minority firms in accordance with subsection (f) of this section; and
+(9) specified roles for private organizations and entities in preparation for response and in responding to releases of hazardous substances, including identification of appropriate qualifications and capacity therefor and including consideration of minority firms in accordance with subsection (f); and
 
 (10) standards and testing procedures by which alternative or innovative treatment technologies can be determined to be appropriate for utilization in response actions authorized by this chapter.
 The plan shall specify procedures, techniques, materials, equipment, and methods to be employed in identifying, removing, or remedying releases of hazardous substances comparable to those required under section 1321(c)(2)(F) and (G) and (j)(1) of title 33. Following publication of the revised national contingency plan, the response to and actions to minimize damage from hazardous substances releases shall, to the greatest extent possible, be in accordance with the provisions of the plan. The President may, from time to time, revise and republish the national contingency plan.
@@ -1268,7 +1268,7 @@ The plan shall specify procedures, techniques, materials, equipment, and methods
 
 (4) **New information** — Nothing in paragraph (3) shall preclude the President from taking new information into account in undertaking response actions under this chapter.
 
-**(d) Petition for assessment of release** Any person who is, or may be, affected by a release or threatened release of a hazardous substance or pollutant or contaminant, may petition the President to conduct a preliminary assessment of the hazards to public health and the environment which are associated with such release or threatened release. If the President has not previously conducted a preliminary assessment of such release, the President shall, within 12 months after the receipt of any such petition, complete such assessment or provide an explanation of why the assessment is not appropriate. If the preliminary assessment indicates that the release or threatened release concerned may pose a threat to human health or the environment, the President shall promptly evaluate such release or threatened release in accordance with the hazard ranking system referred to in paragraph (8)(A) of subsection (a) of this section to determine the national priority of such release or threatened release.
+**(d) Petition for assessment of release** Any person who is, or may be, affected by a release or threatened release of a hazardous substance or pollutant or contaminant, may petition the President to conduct a preliminary assessment of the hazards to public health and the environment which are associated with such release or threatened release. If the President has not previously conducted a preliminary assessment of such release, the President shall, within 12 months after the receipt of any such petition, complete such assessment or provide an explanation of why the assessment is not appropriate. If the preliminary assessment indicates that the release or threatened release concerned may pose a threat to human health or the environment, the President shall promptly evaluate such release or threatened release in accordance with the hazard ranking system referred to in paragraph (8)(A) of subsection (a) to determine the national priority of such release or threatened release.
 
 **(e) Releases from earlier sites** Whenever there has been, after January 1, 1985, a significant release of hazardous substances or pollutants or contaminants from a site which is listed by the President as a “Site Cleaned Up To Date” on the National Priorities List (revised edition, December 1984) the site shall be restored to the National Priorities List, without application of the hazard ranking system.
 
@@ -1282,7 +1282,7 @@ The plan shall specify procedures, techniques, materials, equipment, and methods
 
   (B) at which special study wastes described in paragraph (2), (3)(A)(ii) or (3)(A)(iii) of [section 6921(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6921/b&num=0&edition=prelim) are present in significant quantities, including any such facility from which there has been a release of a special study waste.
 
-(2) **Considerations in adding facilities to NPL** — Pending revision of the hazard ranking system under subsection (c) of this section, the President shall consider each of the following factors in adding facilities covered by this section to the National Priorities List:
+(2) **Considerations in adding facilities to NPL** — Pending revision of the hazard ranking system under subsection (c), the President shall consider each of the following factors in adding facilities covered by this section to the National Priorities List:
 
   (A) The extent to which hazard ranking system score for the facility is affected by the presence of any special study waste at, or any release from, such facility.
 
@@ -1340,7 +1340,7 @@ Subsec. (a)(8)(A). Pub. L. 99–499, § 105(a)(2), inserted “the damage to nat
 
 Subsec. (a)(8)(B). Pub. L. 99–499, § 105(a)(3), struck out “at least four hundred of” after “To the extent practicable,”, substituted “one hundred highest priority facilities” for “one hundred highest priority facilities at least”, and inserted “A State shall be allowed to designate its highest priority facility only once.”
 
-Subsec. (a)(9). Pub. L. 99–499, § 105(a)(4), inserted “and including consideration of minority firms in accordance with subsection (f) of this section”.
+Subsec. (a)(9). Pub. L. 99–499, § 105(a)(4), inserted “and including consideration of minority firms in accordance with subsection (f)”.
 
 Subsec. (a)(10). Pub. L. 99–499, § 105(a)(5), added par. (10).
 
@@ -1353,11 +1353,11 @@ Subsecs. (b) to (g). Pub. L. 99–499, § 105(b), added subsecs. (b) to (g).
 
 **(b) Fines; reimbursement**
 
-(1) Any person who, without sufficient cause, willfully violates, or fails or refuses to comply with, any order of the President under subsection (a) of this section may, in an action brought in the appropriate United States district court to enforce such order, be fined not more than $25,000 for each day in which such violation occurs or such failure to comply continues.
+(1) Any person who, without sufficient cause, willfully violates, or fails or refuses to comply with, any order of the President under subsection (a) may, in an action brought in the appropriate United States district court to enforce such order, be fined not more than $25,000 for each day in which such violation occurs or such failure to comply continues.
 
 (2)
 
-  (A) Any person who receives and complies with the terms of any order issued under subsection (a) of this section may, within 60 days after completion of the required action, petition the President for reimbursement from the Fund for the reasonable costs of such action, plus interest. Any interest payable under this paragraph shall accrue on the amounts expended from the date of expenditure at the same rate as specified for interest on investments of the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26.
+  (A) Any person who receives and complies with the terms of any order issued under subsection (a) may, within 60 days after completion of the required action, petition the President for reimbursement from the Fund for the reasonable costs of such action, plus interest. Any interest payable under this paragraph shall accrue on the amounts expended from the date of expenditure at the same rate as specified for interest on investments of the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26.
 
   (B) If the President refuses to grant all or part of a petition made under this paragraph, the petitioner may within 30 days of receipt of such refusal file an action against the President in the appropriate United States district court seeking reimbursement from the Fund.
 
@@ -1448,7 +1448,7 @@ The amounts recoverable in an action under this section shall include interest o
 
 **(f) Natural resources liability; designation of public trustees of natural resources**
 
-(1) **Natural resources liability** — In the case of an injury to, destruction of, or loss of natural resources under subparagraph (C) of subsection (a) of this section liability shall be to the United States Government and to any State for natural resources within the State or belonging to, managed by, controlled by, or appertaining to such State and to any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation: Provided, however, That no liability to the United States or State or Indian tribe shall be imposed under subparagraph (C) of subsection (a) of this section, where the party sought to be charged has demonstrated that the damages to natural resources complained of were specifically identified as an irreversible and irretrievable commitment of natural resources in an environmental impact statement, or other comparable environment analysis, and the decision to grant a permit or license authorizes such commitment of natural resources, and the facility or project was otherwise operating within the terms of its permit or license, so long as, in the case of damages to an Indian tribe occurring pursuant to a Federal permit or license, the issuance of that permit or license was not inconsistent with the fiduciary duty of the United States with respect to such Indian tribe. The President, or the authorized representative of any State, shall act on behalf of the public as trustee of such natural resources to recover for such damages. Sums recovered by the United States Government as trustee under this subsection shall be retained by the trustee, without further appropriation, for use only to restore, replace, or acquire the equivalent of such natural resources. Sums recovered by a State as trustee under this subsection shall be available for use only to restore, replace, or acquire the equivalent of such natural resources by the State. The measure of damages in any action under subparagraph (C) of subsection (a) of this section shall not be limited by the sums which can be used to restore or replace such resources. There shall be no double recovery under this chapter for natural resource damages, including the costs of damage assessment or restoration, rehabilitation, or acquisition for the same release and natural resource. There shall be no recovery under the authority of subparagraph (C) of subsection (a) of this section where such damages and the release of a hazardous substance from which such damages resulted have occurred wholly before December 11, 1980.
+(1) **Natural resources liability** — In the case of an injury to, destruction of, or loss of natural resources under subparagraph (C) of subsection (a) liability shall be to the United States Government and to any State for natural resources within the State or belonging to, managed by, controlled by, or appertaining to such State and to any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation: Provided, however, That no liability to the United States or State or Indian tribe shall be imposed under subparagraph (C) of subsection (a), where the party sought to be charged has demonstrated that the damages to natural resources complained of were specifically identified as an irreversible and irretrievable commitment of natural resources in an environmental impact statement, or other comparable environment analysis, and the decision to grant a permit or license authorizes such commitment of natural resources, and the facility or project was otherwise operating within the terms of its permit or license, so long as, in the case of damages to an Indian tribe occurring pursuant to a Federal permit or license, the issuance of that permit or license was not inconsistent with the fiduciary duty of the United States with respect to such Indian tribe. The President, or the authorized representative of any State, shall act on behalf of the public as trustee of such natural resources to recover for such damages. Sums recovered by the United States Government as trustee under this subsection shall be retained by the trustee, without further appropriation, for use only to restore, replace, or acquire the equivalent of such natural resources. Sums recovered by a State as trustee under this subsection shall be available for use only to restore, replace, or acquire the equivalent of such natural resources by the State. The measure of damages in any action under subparagraph (C) of subsection (a) shall not be limited by the sums which can be used to restore or replace such resources. There shall be no double recovery under this chapter for natural resource damages, including the costs of damage assessment or restoration, rehabilitation, or acquisition for the same release and natural resource. There shall be no recovery under the authority of subparagraph (C) of subsection (a) where such damages and the release of a hazardous substance from which such damages resulted have occurred wholly before December 11, 1980.
 
 (2) **Designation of Federal and State officials**
 
@@ -1534,7 +1534,7 @@ The amounts recoverable in an action under this section shall include interest o
 
 **(l) Federal lien**
 
-(1) **In general** — All costs and damages for which a person is liable to the United States under subsection (a) of this section (other than the owner or operator of a vessel under paragraph (1) of subsection (a) of this section) shall constitute a lien in favor of the United States upon all real property and rights to such property which—
+(1) **In general** — All costs and damages for which a person is liable to the United States under subsection (a) of this section (other than the owner or operator of a vessel under paragraph (1) of subsection (a)) shall constitute a lien in favor of the United States upon all real property and rights to such property which—
 
   (A) belong to such person; and
 
@@ -1551,7 +1551,7 @@ The amounts recoverable in an action under this section shall include interest o
 
 (4) **Action in rem** — The costs constituting the lien may be recovered in an action in rem in the United States district court for the district in which the removal or remedial action is occurring or has occurred. Nothing in this subsection shall affect the right of the United States to bring an action against any person to recover all costs and damages for which such person is liable under subsection (a) of this section.
 
-**(m) Maritime lien** All costs and damages for which the owner or operator of a vessel is liable under subsection (a)(1) of this section with respect to a release or threatened release from such vessel shall constitute a maritime lien in favor of the United States on such vessel. Such costs may be recovered in an action in rem in the district court of the United States for the district in which the vessel may be found. Nothing in this subsection shall affect the right of the United States to bring an action against the owner or operator of such vessel in any court of competent jurisdiction to recover such costs.
+**(m) Maritime lien** All costs and damages for which the owner or operator of a vessel is liable under subsection (a)(1) with respect to a release or threatened release from such vessel shall constitute a maritime lien in favor of the United States on such vessel. Such costs may be recovered in an action in rem in the district court of the United States for the district in which the vessel may be found. Nothing in this subsection shall affect the right of the United States to bring an action against the owner or operator of such vessel in any court of competent jurisdiction to recover such costs.
 
 **(n) Liability of fiduciaries**
 
@@ -1563,7 +1563,7 @@ The amounts recoverable in an action under this section shall include interest o
 
 (4) **Safe harbor** — A fiduciary shall not be liable in its personal capacity under this chapter for—
 
-  (A) undertaking or directing another person to undertake a response action under subsection (d)(1) of this section or under the direction of an on scene coordinator designated under the National Contingency Plan;
+  (A) undertaking or directing another person to undertake a response action under subsection (d)(1) or under the direction of an on scene coordinator designated under the National Contingency Plan;
 
   (B) undertaking or directing another person to undertake any other lawful means of addressing a hazardous substance in connection with the vessel or facility;
 
@@ -1645,7 +1645,7 @@ The amounts recoverable in an action under this section shall include interest o
 
 **(o) De micromis exemption**
 
-(1) **In general** — Except as provided in paragraph (2), a person shall not be liable, with respect to response costs at a facility on the National Priorities List, under this chapter if liability is based solely on paragraph (3) or (4) of subsection (a) of this section, and the person, except as provided in paragraph (4) of this subsection, can demonstrate that—
+(1) **In general** — Except as provided in paragraph (2), a person shall not be liable, with respect to response costs at a facility on the National Priorities List, under this chapter if liability is based solely on paragraph (3) or (4) of subsection (a), and the person, except as provided in paragraph (4) of this subsection, can demonstrate that—
 
   (A) the total amount of the material containing hazardous substances that the person arranged for disposal or treatment of, arranged with a transporter for transport for disposal or treatment of, or accepted for transport for disposal or treatment, at the facility was less than 110 gallons of liquid materials or less than 200 pounds of solid materials (or such greater or lesser amounts as the Administrator may determine by regulation); and
 
@@ -1667,7 +1667,7 @@ The amounts recoverable in an action under this section shall include interest o
 
 **(p) Municipal solid waste exemption**
 
-(1) **In general** — Except as provided in paragraph (2) of this subsection, a person shall not be liable, with respect to response costs at a facility on the National Priorities List, under paragraph (3) of subsection (a) of this section for municipal solid waste disposed of at a facility if the person, except as provided in paragraph (5) of this subsection, can demonstrate that the person is—
+(1) **In general** — Except as provided in paragraph (2) of this subsection, a person shall not be liable, with respect to response costs at a facility on the National Priorities List, under paragraph (3) of subsection (a) for municipal solid waste disposed of at a facility if the person, except as provided in paragraph (5) of this subsection, can demonstrate that the person is—
 
   (A) an owner, operator, or lessee of residential property from which all of the person’s municipal solid waste was generated with respect to the facility;
 
@@ -1716,13 +1716,13 @@ The amounts recoverable in an action under this section shall include interest o
 
 (6) **Certain actions not permitted** — No contribution action may be brought by a party, other than a Federal, State, or local government, under this chapter with respect to circumstances described in paragraph (1)(A).
 
-(7) **Costs and fees** — A nongovernmental entity that commences, after January 11, 2002, a contribution action under this chapter shall be liable to the defendant for all reasonable costs of defending the action, including all reasonable attorney’s fees and expert witness fees, if the defendant is not liable for contribution based on an exemption under this subsection or subsection (o) of this section.
+(7) **Costs and fees** — A nongovernmental entity that commences, after January 11, 2002, a contribution action under this chapter shall be liable to the defendant for all reasonable costs of defending the action, including all reasonable attorney’s fees and expert witness fees, if the defendant is not liable for contribution based on an exemption under this subsection or subsection (o).
 
 **(q) Contiguous properties**
 
 (1) **Not considered to be an owner or operator**
 
-  (A) *In general* — A person that owns real property that is contiguous to or otherwise similarly situated with respect to, and that is or may be contaminated by a release or threatened release of a hazardous substance from, real property that is not owned by that person shall not be considered to be an owner or operator of a vessel or facility under paragraph (1) or (2) of subsection (a) of this section solely by reason of the contamination if—
+  (A) *In general* — A person that owns real property that is contiguous to or otherwise similarly situated with respect to, and that is or may be contaminated by a release or threatened release of a hazardous substance from, real property that is not owned by that person shall not be considered to be an owner or operator of a vessel or facility under paragraph (1) or (2) of subsection (a) solely by reason of the contamination if—
 
     (i) the person did not cause, contribute, or consent to the release or threatened release;
 
@@ -1768,7 +1768,7 @@ The amounts recoverable in an action under this section shall include interest o
 
   (A) limits any defense to liability that may be available to the person under any other provision of law; or
 
-  (B) imposes liability on the person that is not otherwise imposed by subsection (a) of this section.
+  (B) imposes liability on the person that is not otherwise imposed by subsection (a).
 
 (3) **Assurances** — The Administrator may—
 
@@ -1778,7 +1778,7 @@ The amounts recoverable in an action under this section shall include interest o
 
 **(r) Prospective purchaser and windfall lien**
 
-(1) **Limitation on liability** — Notwithstanding subsection (a)(1) of this section, a bona fide prospective purchaser whose potential liability for a release or threatened release is based solely on the purchaser’s being considered to be an owner or operator of a facility shall not be liable as long as the bona fide prospective purchaser does not impede the performance of a response action or natural resource restoration.
+(1) **Limitation on liability** — Notwithstanding subsection (a)(1), a bona fide prospective purchaser whose potential liability for a release or threatened release is based solely on the purchaser’s being considered to be an owner or operator of a facility shall not be liable as long as the bona fide prospective purchaser does not impede the performance of a response action or natural resource restoration.
 
 (2) **Lien** — If there are unrecovered response costs incurred by the United States at a facility for which an owner of the facility is not liable by reason of paragraph (1), and if each of the conditions described in paragraph (3) is met, the United States shall have a lien on the facility, or may by agreement with the owner, obtain from the owner a lien on any other property or other assurance of payment satisfactory to the Administrator, for the unrecovered response costs.
 
@@ -1794,7 +1794,7 @@ The amounts recoverable in an action under this section shall include interest o
 
   (B) shall arise at the time at which costs are first incurred by the United States with respect to a response action at the facility;
 
-  (C) shall be subject to the requirements of subsection (l)(3) of this section; and
+  (C) shall be subject to the requirements of subsection (l)(3); and
 
   (D) shall continue until the earlier of—
 
@@ -1862,7 +1862,7 @@ Pub. L. 99–499, § 207(c)(2)(B), inserted “or Indian tribe” after fourth r
 
 Pub. L. 99–499, § 207(c)(2)(C), inserted in first sentence “, so long as, in the case of damages to an Indian tribe occurring pursuant to a Federal permit or license, the issuance of that permit or license was not inconsistent with the fiduciary duty of the United States with respect to such Indian tribe”.
 
-Pub. L. 99–499, § 107(d)(2), substituted “Sums recovered by the United States Government as trustee under this subsection shall be retained by the trustee, without further appropriation, for use only to restore, replace, or acquire the equivalent of such natural resources. Sums recovered by a State as trustee under this subsection shall be available for use only to restore, replace, or acquire the equivalent of such natural resources by the State. The measure of damages in any action under subparagraph (C) of subsection (a) of this section shall not be limited by the sums which can be used to restore or replace such resources. There shall be no double recovery under this chapter for natural resource damages, including the costs of damage assessment or restoration, rehabilitation, or acquisition for the same release and natural resource” for “Sums recovered shall be available for use to restore, rehabilitate, or acquire the equivalent of such natural resources by the appropriate agencies of the Federal Government or the State government, but the measure of such damages shall not be limited by the sums which can be used to restore or replace such resources”.
+Pub. L. 99–499, § 107(d)(2), substituted “Sums recovered by the United States Government as trustee under this subsection shall be retained by the trustee, without further appropriation, for use only to restore, replace, or acquire the equivalent of such natural resources. Sums recovered by a State as trustee under this subsection shall be available for use only to restore, replace, or acquire the equivalent of such natural resources by the State. The measure of damages in any action under subparagraph (C) of subsection (a) shall not be limited by the sums which can be used to restore or replace such resources. There shall be no double recovery under this chapter for natural resource damages, including the costs of damage assessment or restoration, rehabilitation, or acquisition for the same release and natural resource” for “Sums recovered shall be available for use to restore, rehabilitate, or acquire the equivalent of such natural resources by the appropriate agencies of the Federal Government or the State government, but the measure of such damages shall not be limited by the sums which can be used to restore or replace such resources”.
 
 Pub. L. 99–499, § 207(c)(2)(D), which directed the insertion of “or the Indian tribe” after “State government”, could not be executed because the prior amendment by section 107(d)(2) of Pub. L. 99–499, struck out third sentence referring to “State government”.
 
@@ -1952,9 +1952,9 @@ Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, 
 
 **(c) Direct action**
 
-(1) **Releases from vessels** — In the case of a release or threatened release from a vessel, any claim authorized by section 9607 or 9611 of this title may be asserted directly against any guarantor providing evidence of financial responsibility for such vessel under subsection (a) of this section. In defending such a claim, the guarantor may invoke all rights and defenses which would be available to the owner or operator under this subchapter. The guarantor may also invoke the defense that the incident was caused by the willful misconduct of the owner or operator, but the guarantor may not invoke any other defense that the guarantor might have been entitled to invoke in a proceeding brought by the owner or operator against him.
+(1) **Releases from vessels** — In the case of a release or threatened release from a vessel, any claim authorized by section 9607 or 9611 of this title may be asserted directly against any guarantor providing evidence of financial responsibility for such vessel under subsection (a). In defending such a claim, the guarantor may invoke all rights and defenses which would be available to the owner or operator under this subchapter. The guarantor may also invoke the defense that the incident was caused by the willful misconduct of the owner or operator, but the guarantor may not invoke any other defense that the guarantor might have been entitled to invoke in a proceeding brought by the owner or operator against him.
 
-(2) **Releases from facilities** — In the case of a release or threatened release from a facility, any claim authorized by section 9607 or 9611 of this title may be asserted directly against any guarantor providing evidence of financial responsibility for such facility under subsection (b) of this section, if the person liable under [section 9607 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9607) is in bankruptcy, reorganization, or arrangement pursuant to the Federal Bankruptcy Code, or if, with reasonable diligence, jurisdiction in the Federal courts cannot be obtained over a person liable under [section 9607 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9607) who is likely to be solvent at the time of judgment. In the case of any action pursuant to this paragraph, the guarantor shall be entitled to invoke all rights and defenses which would have been available to the person liable under [section 9607 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9607) if any action had been brought against such person by the claimant and all rights and defenses which would have been available to the guarantor if an action had been brought against the guarantor by such person.
+(2) **Releases from facilities** — In the case of a release or threatened release from a facility, any claim authorized by section 9607 or 9611 of this title may be asserted directly against any guarantor providing evidence of financial responsibility for such facility under subsection (b), if the person liable under [section 9607 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9607) is in bankruptcy, reorganization, or arrangement pursuant to the Federal Bankruptcy Code, or if, with reasonable diligence, jurisdiction in the Federal courts cannot be obtained over a person liable under [section 9607 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9607) who is likely to be solvent at the time of judgment. In the case of any action pursuant to this paragraph, the guarantor shall be entitled to invoke all rights and defenses which would have been available to the person liable under [section 9607 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9607) if any action had been brought against such person by the claimant and all rights and defenses which would have been available to the guarantor if an action had been brought against the guarantor by such person.
 
 **(d) Limitation of guarantor liability**
 
@@ -2171,7 +2171,7 @@ The President shall not pay for any administrative costs or expenses out of the 
 
 (4) recovery is authorized by a treaty or an executive agreement between the United States and foreign country involved, or if the Secretary of State, in consultation with the Attorney General and other appropriate officials, certifies that such country provides a comparable remedy for United States claimants.
 
-**(m) Agency for Toxic Substances and Disease Registry** There shall be directly available to the Agency for Toxic Substances and Disease Registry to be used for the purpose of carrying out activities described in subsection (c)(4) of this section and [section 9604(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9604/i&num=0&edition=prelim) not less than $50,000,000 per fiscal year for each of fiscal years 1987 and 1988, not less than $55,000,000 for fiscal year 1989, and not less than $60,000,000 per fiscal year for each of fiscal years 1990, 1991, 1992, 1993, and 1994. Any funds so made available which are not obligated by the end of the fiscal year in which made available shall be returned to the Fund.
+**(m) Agency for Toxic Substances and Disease Registry** There shall be directly available to the Agency for Toxic Substances and Disease Registry to be used for the purpose of carrying out activities described in subsection (c)(4) and [section 9604(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9604/i&num=0&edition=prelim) not less than $50,000,000 per fiscal year for each of fiscal years 1987 and 1988, not less than $55,000,000 for fiscal year 1989, and not less than $60,000,000 per fiscal year for each of fiscal years 1990, 1991, 1992, 1993, and 1994. Any funds so made available which are not obligated by the end of the fiscal year in which made available shall be returned to the Fund.
 
 **(n) Limitations on research, development, and demonstration program**
 
@@ -2734,7 +2734,7 @@ Sec. 14. General Provision. This order is intended only to improve the internal 
 
 **(b) Evaluation** Within 4 years after October 17, 1986, each facility listed (as of October 17, 1986) in the CERCLIS shall be evaluated if the President determines that such evaluation is warranted on the basis of a site inspection or preliminary assessment. The evaluation shall be in accordance with the criteria established in [section 9605 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9605) under the National Contingency Plan for determining priorities among release for inclusion on the National Priorities List. In the case of a facility listed in the CERCLIS after October 17, 1986, the facility shall be evaluated within 4 years after the date of such listing if the President determines that such evaluation is warranted on the basis of a site inspection or preliminary assessment.
 
-**(c) Explanations** If any of the goals established by subsection (a) or (b) of this section are not achieved, the President shall publish an explanation of why such action could not be completed by the specified date.
+**(c) Explanations** If any of the goals established by subsection (a) or (b) are not achieved, the President shall publish an explanation of why such action could not be completed by the specified date.
 
 **(d) Commencement of RI/FS** The President shall assure that remedial investigations and feasibility studies (RI/FS) are commenced for facilities listed on the National Priorities List, in addition to those commenced prior to October 17, 1986, in accordance with the following schedule:
 
@@ -2763,7 +2763,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 (2) Provide a reasonable opportunity for submission of written and oral comments and an opportunity for a public meeting at or near the facility at issue regarding the proposed plan and regarding any proposed findings under [section 9621(d)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9621/d/4&num=0&edition=prelim) (relating to cleanup standards). The President or the State shall keep a transcript of the meeting and make such transcript available to the public.
 The notice and analysis published under paragraph (1) shall include sufficient information as may be necessary to provide a reasonable explanation of the proposed plan and alternative proposals considered.
 
-**(b) Final plan** Notice of the final remedial action plan adopted shall be published and the plan shall be made available to the public before commencement of any remedial action. Such final plan shall be accompanied by a discussion of any significant changes (and the reasons for such changes) in the proposed plan and a response to each of the significant comments, criticisms, and new data submitted in written or oral presentations under subsection (a) of this section.
+**(b) Final plan** Notice of the final remedial action plan adopted shall be published and the plan shall be made available to the public before commencement of any remedial action. Such final plan shall be accompanied by a discussion of any significant changes (and the reasons for such changes) in the proposed plan and a response to each of the significant comments, criticisms, and new data submitted in written or oral presentations under subsection (a).
 
 **(c) Explanation of differences** After adoption of a final remedial action plan—
 
@@ -2803,7 +2803,7 @@ For purposes of taking action under section 9604 or 9606 of this title and listi
 
 **(b) Savings provisions**
 
-(1) **Liability of other persons** — The defense provided by [section 9607(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9607/b/3&num=0&edition=prelim) shall not be available to any potentially responsible party with respect to any costs or damages caused by any act or omission of a response action contractor. Except as provided in subsection (a)(4) of this section and the preceding sentence, nothing in this section shall affect the liability under this chapter or under any other Federal or State law of any person, other than a response action contractor.
+(1) **Liability of other persons** — The defense provided by [section 9607(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9607/b/3&num=0&edition=prelim) shall not be available to any potentially responsible party with respect to any costs or damages caused by any act or omission of a response action contractor. Except as provided in subsection (a)(4) and the preceding sentence, nothing in this section shall affect the liability under this chapter or under any other Federal or State law of any person, other than a response action contractor.
 
 (2) **Burden of plaintiff** — Nothing in this section shall affect the plaintiff’s burden of establishing liability under this subchapter.
 
@@ -2845,7 +2845,7 @@ For purposes of taking action under section 9604 or 9606 of this title and listi
 
   (D) *RCRA facilities* — No owner or operator of a facility regulated under the Solid Waste Disposal Act [[42 U.S.C. 6901](./chapter-082-solid-waste-disposal.md#section-6901) et seq.] may be indemnified under this subsection with respect to such facility.
 
-  (E) *Persons retained or hired* — A person retained or hired by a person described in subsection (e)(2)(B) of this section shall be eligible for indemnification under this subsection only if the President specifically approves of the retaining or hiring of such person.
+  (E) *Persons retained or hired* — A person retained or hired by a person described in subsection (e)(2)(B) shall be eligible for indemnification under this subsection only if the President specifically approves of the retaining or hiring of such person.
 
 (6) **Cost recovery** — For purposes of [section 9607 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9607), amounts expended pursuant to this subsection for indemnification of any person who is a response action contractor with respect to any release or threatened release shall be considered a cost of response incurred by the United States Government with respect to such release.
 
@@ -2853,7 +2853,7 @@ For purposes of taking action under section 9604 or 9606 of this title and listi
 
 (8) **Study** — The Comptroller General shall conduct a study in the fiscal year ending September 30, 1989, on the application of this subsection, including whether indemnification agreements under this subsection are being used, the number of claims that have been filed under such agreements, and the need for this subsection. The Comptroller General shall report the findings of the study to Congress no later than September 30, 1989.
 
-**(d) Exception** The exemption provided under subsection (a) of this section and the authority of the President to offer indemnification under subsection (c) of this section shall not apply to any person covered by the provisions of paragraph (1), (2), (3), or (4) of [section 9607(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9607/a&num=0&edition=prelim) with respect to the release or threatened release concerned if such person would be covered by such provisions even if such person had not carried out any actions referred to in subsection (e) of this section.
+**(d) Exception** The exemption provided under subsection (a) and the authority of the President to offer indemnification under subsection (c) shall not apply to any person covered by the provisions of paragraph (1), (2), (3), or (4) of [section 9607(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9607/a&num=0&edition=prelim) with respect to the release or threatened release concerned if such person would be covered by such provisions even if such person had not carried out any actions referred to in subsection (e) of this section.
 
 **(e) Definitions** For purposes of this section—
 
@@ -2947,7 +2947,7 @@ Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, 
 
 (3) **Exceptions** — This subsection shall not apply to the extent otherwise provided in this section with respect to applicable time periods. This subsection shall also not apply to any requirements relating to bonding, insurance, or financial responsibility. Nothing in this chapter shall be construed to require a State to comply with [section 9604(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9604/c/3&num=0&edition=prelim) in the case of a facility which is owned or operated by any department, agency, or instrumentality of the United States.
 
-(4) **State laws** — State laws concerning removal and remedial action, including State laws regarding enforcement, shall apply to removal and remedial action at facilities owned or operated by a department, agency, or instrumentality of the United States or facilities that are the subject of a deferral under subsection (h)(3)(C) of this section when such facilities are not included on the National Priorities List. The preceding sentence shall not apply to the extent a State law would apply any standard or requirement to such facilities which is more stringent than the standards and requirements applicable to facilities which are not owned or operated by any such department, agency, or instrumentality.
+(4) **State laws** — State laws concerning removal and remedial action, including State laws regarding enforcement, shall apply to removal and remedial action at facilities owned or operated by a department, agency, or instrumentality of the United States or facilities that are the subject of a deferral under subsection (h)(3)(C) when such facilities are not included on the National Priorities List. The preceding sentence shall not apply to the extent a State law would apply any standard or requirement to such facilities which is more stringent than the standards and requirements applicable to facilities which are not owned or operated by any such department, agency, or instrumentality.
 
 **(b) Notice** Each department, agency, and instrumentality of the United States shall add to the inventory of Federal agency hazardous waste facilities required to be submitted under section 3016 of the Solid Waste Disposal Act [[42 U.S.C. 6937](./chapter-082-solid-waste-disposal.md#section-6937)] (in addition to the information required under section 3016(a)(3) of such Act [[42 U.S.C. 6937(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6937/a/3&num=0&edition=prelim)]) information on contamination from each facility owned or operated by the department, agency, or instrumentality if such contamination affects contiguous or adjacent property owned by the department, agency, or instrumentality or by any other person, including a description of the monitoring data obtained.
 
@@ -3150,7 +3150,7 @@ Title III of the Superfund Amendments and Reauthorization Act of 1986, referred 
 The Atomic Energy Act, referred to in subsec. (j)(2), probably means the Atomic Energy Act of 1954, act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
 #### Amendments
-1996—Subsec. (a)(4). Pub. L. 104–201, § 334(b), inserted “or facilities that are the subject of a deferral under subsection (h)(3)(C) of this section” after “United States”.
+1996—Subsec. (a)(4). Pub. L. 104–201, § 334(b), inserted “or facilities that are the subject of a deferral under subsection (h)(3)(C)” after “United States”.
 
 Subsec. (d). Pub. L. 104–201, § 330(2)–(4), designated existing provisions as par. (1), inserted par. heading, substituted “The Administrator” for “Not later than 18 months after October 17, 1986, the Administrator”, realigned margins of par. (1) and subpars. (A) and (B), and substituted pars. (2) and (3) for “Such criteria shall be applied in the same manner as the criteria are applied to facilities which are owned or operated by other persons. Evaluation and listing under this subsection shall be completed not later than 30 months after October 17, 1986. Upon the receipt of a petition from the Governor of any State, the Administrator shall make such an evaluation of any facility included in the docket.”
 
@@ -3178,6 +3178,9 @@ Subsec. (h)(5). Pub. L. 102–426, § 5, added par. (5).
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (e)(5) of this section is listed as the 5th item on page 151), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance.
+
+#### Environmental Compliance, Liability, and Monitoring
+Pub. L. 114–120, title V, § 534(a), Feb. 8, 2016, 130 Stat. 75, provided that: “(a) Environmental Compliance.—Nothing in this Act [see Tables for classification] or any amendment made by this Act may be construed to affect or limit the application of or obligation to comply with any applicable environmental law, including section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9620(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9620/h&num=0&edition=prelim)).”
 
 #### Identification of Uncontaminated Property at Installations To Be Closed
 Pub. L. 103–160, div. B, title XXIX, § 2910, Nov. 30, 1993, 107 Stat. 1924, provided that: “The identification by the Secretary of Defense required under section 120(h)(4)(A) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9620(h)(4)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9620/h/4/A&num=0&edition=prelim)), and the concurrence required under section 120(h)(4)(B) of such Act, shall be made not later than the earlier of— “(1) the date that is 9 months after the date of the submittal, if any, to the transition coordinator for the installation concerned of a specific use proposed for all or a portion of the real property of the installation; or “(2) the date specified in section 120(h)(4)(C)(iii) of such Act.”
@@ -3244,7 +3247,7 @@ Pub. L. 99–499, title I, § 120(b), Oct. 17, 1986, 100 Stat. 1671, provided th
 
   (C)
 
-    (i) Clause (ii) of this subparagraph shall be applicable only in cases where, due to the President’s selection, in compliance with subsection (b)(1) of this section, of a proposed remedial action which does not permanently and significantly reduce the volume, toxicity, or mobility of hazardous substances, pollutants, or contaminants, the proposed disposition of waste generated by or associated with the remedial action selected by the President is land disposal in a State referred to in clause (ii).
+    (i) Clause (ii) of this subparagraph shall be applicable only in cases where, due to the President’s selection, in compliance with subsection (b)(1), of a proposed remedial action which does not permanently and significantly reduce the volume, toxicity, or mobility of hazardous substances, pollutants, or contaminants, the proposed disposition of waste generated by or associated with the remedial action selected by the President is land disposal in a State referred to in clause (ii).
 
     (ii) Except as provided in clauses (iii) and (iv), a State standard, requirement, criteria, or limitation (including any State siting standard or requirement) which could effectively result in the statewide prohibition of land disposal of hazardous substances, pollutants, or contaminants shall not apply.
 
@@ -3308,18 +3311,18 @@ Pub. L. 99–499, title I, § 120(b), Oct. 17, 1986, 100 Stat. 1671, provided th
 
     (iv) Other technical data and reports relating to implementation of the remedy.
 
-    (v) Any proposed finding or decision by the President to exercise the authority of subsection (d)(4) of this section.
+    (v) Any proposed finding or decision by the President to exercise the authority of subsection (d)(4).
 
   (F) Notice to the State of negotiations with potentially responsible parties regarding the scope of any response action at a facility in the State and an opportunity to participate in such negotiations and, subject to paragraph (2), be a party to any settlement.
 
-  (G) Notice to the State and an opportunity to comment on the President’s proposed plan for remedial action as well as on alternative plans under consideration. The President’s proposed decision regarding the selection of remedial action shall be accompanied by a response to the comments submitted by the State, including an explanation regarding any decision under subsection (d)(4) of this section on compliance with promulgated State standards. A copy of such response shall also be provided to the State.
+  (G) Notice to the State and an opportunity to comment on the President’s proposed plan for remedial action as well as on alternative plans under consideration. The President’s proposed decision regarding the selection of remedial action shall be accompanied by a response to the comments submitted by the State, including an explanation regarding any decision under subsection (d)(4) on compliance with promulgated State standards. A copy of such response shall also be provided to the State.
 
   (H) Prompt notice and explanation of each proposed action to the State in which the facility is located.
   Prior to the promulgation of such regulations, the President shall provide notice to the State of negotiations with potentially responsible parties regarding the scope of any response action at a facility in the State, and such State may participate in such negotiations and, subject to paragraph (2), any settlements.
 
 (2)
 
-  (A) This paragraph shall apply to remedial actions secured under [section 9606 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9606). At least 30 days prior to the entering of any consent decree, if the President proposes to select a remedial action that does not attain a legally applicable or relevant and appropriate standard, requirement, criteria, or limitation, under the authority of subsection (d)(4) of this section, the President shall provide an opportunity for the State to concur or not concur in such selection. If the State concurs, the State may become a signatory to the consent decree.
+  (A) This paragraph shall apply to remedial actions secured under [section 9606 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9606). At least 30 days prior to the entering of any consent decree, if the President proposes to select a remedial action that does not attain a legally applicable or relevant and appropriate standard, requirement, criteria, or limitation, under the authority of subsection (d)(4), the President shall provide an opportunity for the State to concur or not concur in such selection. If the State concurs, the State may become a signatory to the consent decree.
 
   (B) If the State does not concur in such selection, and the State desires to have the remedial action conform to such standard, requirement, criteria, or limitation, the State shall intervene in the action under [section 9606 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9606) before entry of the consent decree, to seek to have the remedial action so conform. Such intervention shall be a matter of right. The remedial action shall conform to such standard, requirement, criteria, or limitation if the State establishes, on the administrative record, that the finding of the President was not supported by substantial evidence. If the court determines that the remedial action shall conform to such standard, requirement, criteria, or limitation, the remedial action shall be so modified and the State may become a signatory to the decree. If the court determines that the remedial action need not conform to such standard, requirement, criteria, or limitation, and the State pays or assures the payment of the additional costs attributable to meeting such standard, requirement, criteria, or limitation, the remedial action shall be so modified and the State shall become a signatory to the decree.
 
@@ -3327,7 +3330,7 @@ Pub. L. 99–499, title I, § 120(b), Oct. 17, 1986, 100 Stat. 1671, provided th
 
 (3)
 
-  (A) This paragraph shall apply to remedial actions at facilities owned or operated by a department, agency, or instrumentality of the United States. At least 30 days prior to the publication of the President’s final remedial action plan, if the President proposes to select a remedial action that does not attain a legally applicable or relevant and appropriate standard, requirement, criteria, or limitation, under the authority of subsection (d)(4) of this section, the President shall provide an opportunity for the State to concur or not concur in such selection. If the State concurs, or does not act within 30 days, the remedial action may proceed.
+  (A) This paragraph shall apply to remedial actions at facilities owned or operated by a department, agency, or instrumentality of the United States. At least 30 days prior to the publication of the President’s final remedial action plan, if the President proposes to select a remedial action that does not attain a legally applicable or relevant and appropriate standard, requirement, criteria, or limitation, under the authority of subsection (d)(4), the President shall provide an opportunity for the State to concur or not concur in such selection. If the State concurs, or does not act within 30 days, the remedial action may proceed.
 
   (B) If the State does not concur in such selection as provided in subparagraph (A), and desires to have the remedial action conform to such standard, requirement, criteria, or limitation, the State may maintain an action as follows:
 
@@ -3371,7 +3374,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 (1) **Mixed funding** — An agreement under this section may provide that the President will reimburse the parties to the agreement from the Fund, with interest, for certain costs of actions under the agreement that the parties have agreed to perform but which the President has agreed to finance. In any case in which the President provides such reimbursement, the President shall make all reasonable efforts to recover the amount of such reimbursement under [section 9607 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9607) or under other relevant authorities.
 
-(2) **Reviewability** — The President’s decisions regarding the availability of fund financing under this subsection shall not be subject to judicial review under subsection (d) of this section.
+(2) **Reviewability** — The President’s decisions regarding the availability of fund financing under this subsection shall not be subject to judicial review under subsection (d).
 
 (3) **Retention of funds** — If, as part of any agreement, the President will be carrying out any action and the parties will be paying amounts to the President, the President may, notwithstanding any other provision of law, retain and use such amounts for purposes of carrying out the agreement.
 
@@ -3379,9 +3382,9 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 **(c) Effect of agreement**
 
-(1) **Liability** — Whenever the President has entered into an agreement under this section, the liability to the United States under this chapter of each party to the agreement, including any future liability to the United States, arising from the release or threatened release that is the subject of the agreement shall be limited as provided in the agreement pursuant to a covenant not to sue in accordance with subsection (f) of this section. A covenant not to sue may provide that future liability to the United States of a settling potentially responsible party under the agreement may be limited to the same proportion as that established in the original settlement agreement. Nothing in this section shall limit or otherwise affect the authority of any court to review in the consent decree process under subsection (d) of this section any covenant not to sue contained in an agreement under this section. In determining the extent to which the liability of parties to an agreement shall be limited pursuant to a covenant not to sue, the President shall be guided by the principle that a more complete covenant not to sue shall be provided for a more permanent remedy undertaken by such parties.
+(1) **Liability** — Whenever the President has entered into an agreement under this section, the liability to the United States under this chapter of each party to the agreement, including any future liability to the United States, arising from the release or threatened release that is the subject of the agreement shall be limited as provided in the agreement pursuant to a covenant not to sue in accordance with subsection (f). A covenant not to sue may provide that future liability to the United States of a settling potentially responsible party under the agreement may be limited to the same proportion as that established in the original settlement agreement. Nothing in this section shall limit or otherwise affect the authority of any court to review in the consent decree process under subsection (d) any covenant not to sue contained in an agreement under this section. In determining the extent to which the liability of parties to an agreement shall be limited pursuant to a covenant not to sue, the President shall be guided by the principle that a more complete covenant not to sue shall be provided for a more permanent remedy undertaken by such parties.
 
-(2) **Actions against other persons** — If an agreement has been entered into under this section, the President may take any action under [section 9606 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9606) against any person who is not a party to the agreement, once the period for submitting a proposal under subsection (e)(2)(B) of this section has expired. Nothing in this section shall be construed to affect either of the following:
+(2) **Actions against other persons** — If an agreement has been entered into under this section, the President may take any action under [section 9606 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9606) against any person who is not a party to the agreement, once the period for submitting a proposal under subsection (e)(2)(B) has expired. Nothing in this section shall be construed to affect either of the following:
 
   (A) The liability of any person under section 9606 or 9607 of this title with respect to any costs or damages which are not included in the agreement.
 
@@ -3391,7 +3394,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 (1) **Cleanup agreements**
 
-  (A) *Consent decree* — Whenever the President enters into an agreement under this section with any potentially responsible party with respect to remedial action under [section 9606 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9606), following approval of the agreement by the Attorney General, except as otherwise provided in the case of certain administrative settlements referred to in subsection (g) of this section, the agreement shall be entered in the appropriate United States district court as a consent decree. The President need not make any finding regarding an imminent and substantial endangerment to the public health or the environment in connection with any such agreement or consent decree.
+  (A) *Consent decree* — Whenever the President enters into an agreement under this section with any potentially responsible party with respect to remedial action under [section 9606 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9606), following approval of the agreement by the Attorney General, except as otherwise provided in the case of certain administrative settlements referred to in subsection (g), the agreement shall be entered in the appropriate United States district court as a consent decree. The President need not make any finding regarding an imminent and substantial endangerment to the public health or the environment in connection with any such agreement or consent decree.
 
   (B) *Effect* — The entry of any consent decree under this subsection shall not be construed to be an acknowledgment by the parties that the release or threatened release concerned constitutes an imminent and substantial endangerment to the public health or welfare or the environment. Except as otherwise provided in the Federal Rules of Evidence, the participation by any party in the process under this section shall not be considered an admission of liability for any purpose, and the fact of such participation shall not be admissible in any judicial or administrative proceeding, including a subsequent proceeding under this section.
 
@@ -3483,7 +3486,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 (6) **Additional condition for future liability**
 
-  (A) Except for the portion of the remedial action which is subject to a covenant not to sue under paragraph (2) or under subsection (g) of this section (relating to de minimis settlements), a covenant not to sue a person concerning future liability to the United States shall include an exception to the covenant that allows the President to sue such person concerning future liability resulting from the release or threatened release that is the subject of the covenant where such liability arises out of conditions which are unknown at the time the President certifies under paragraph (3) that remedial action has been completed at the facility concerned.
+  (A) Except for the portion of the remedial action which is subject to a covenant not to sue under paragraph (2) or under subsection (g) (relating to de minimis settlements), a covenant not to sue a person concerning future liability to the United States shall include an exception to the covenant that allows the President to sue such person concerning future liability resulting from the release or threatened release that is the subject of the covenant where such liability arises out of conditions which are unknown at the time the President certifies under paragraph (3) that remedial action has been completed at the facility concerned.
 
   (B) In extraordinary circumstances, the President may determine, after assessment of relevant factors such as those referred to in paragraph (4) and volume, toxicity, mobility, strength of evidence, ability to pay, litigative risks, public interest considerations, precedential value, and inequities and aggravating factors, not to include the exception referred to in subparagraph (A) if other terms, conditions, or requirements of the agreement containing the covenant not to sue are sufficient to provide all reasonable assurances that public health and the environment will be protected from any future releases at or from the facility.
 
@@ -3508,7 +3511,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
     (iii) did not contribute to the release or threat of release of a hazardous substance at the facility through any action or omission.
     This subparagraph (B) does not apply if the potentially responsible party purchased the real property with actual or constructive knowledge that the property was used for the generation, transportation, storage, treatment, or disposal of any hazardous substance.
 
-(2) **Covenant not to sue** — The President may provide a covenant not to sue with respect to the facility concerned to any party who has entered into a settlement under this subsection unless such a covenant would be inconsistent with the public interest as determined under subsection (f) of this section.
+(2) **Covenant not to sue** — The President may provide a covenant not to sue with respect to the facility concerned to any party who has entered into a settlement under this subsection unless such a covenant would be inconsistent with the public interest as determined under subsection (f).
 
 (3) **Expedited agreement** — The President shall reach any such settlement or grant any such covenant not to sue as soon as possible after the President has available the information necessary to reach such a settlement or grant such a covenant.
 
@@ -3534,7 +3537,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
   (B) *Failure to comply* — The President may decline to offer a settlement to a potentially responsible party under this subsection if the President determines that the potentially responsible party has failed to comply with any request for access or information or an administrative subpoena issued by the President under this chapter or has impeded or is impeding, through action or inaction, the performance of a response action with respect to the facility.
 
-  (C) *Responsibility to provide information and access* — A potentially responsible party that enters into a settlement under this subsection shall not be relieved of the responsibility to provide any information or access requested in accordance with subsection (e)(3)(B) of this section or [section 9604(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9604/e&num=0&edition=prelim).
+  (C) *Responsibility to provide information and access* — A potentially responsible party that enters into a settlement under this subsection shall not be relieved of the responsibility to provide any information or access requested in accordance with subsection (e)(3)(B) or [section 9604(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9604/e&num=0&edition=prelim).
 
 (9) **Basis of determination** — If the President determines that a potentially responsible party is not eligible for settlement under this subsection, the President shall provide the reasons for the determination in writing to the potentially responsible party that requested a settlement under this subsection.
 
@@ -3556,7 +3559,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 **(i) Settlement procedures**
 
-(1) **Publication in Federal Register** — At least 30 days before any settlement (including any settlement arrived at through arbitration) may become final under subsection (h) of this section, or under subsection (g) of this section in the case of a settlement embodied in an administrative order, the head of the department or agency which has jurisdiction over the proposed settlement shall publish in the Federal Register notice of the proposed settlement. The notice shall identify the facility concerned and the parties to the proposed settlement.
+(1) **Publication in Federal Register** — At least 30 days before any settlement (including any settlement arrived at through arbitration) may become final under subsection (h), or under subsection (g) in the case of a settlement embodied in an administrative order, the head of the department or agency which has jurisdiction over the proposed settlement shall publish in the Federal Register notice of the proposed settlement. The notice shall identify the facility concerned and the parties to the proposed settlement.
 
 (2) **Comment period** — For a 30-day period beginning on the date of publication of notice under paragraph (1) of a proposed settlement, the head of the department or agency which has jurisdiction over the proposed settlement shall provide an opportunity for persons who are not parties to the proposed settlement to file written comments relating to the proposed settlement.
 
@@ -3601,7 +3604,7 @@ Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, 
 
 (2) **Local funds not supplanted** — Reimbursement under this section shall not supplant local funds normally provided for response.
 
-**(c) Amount** The amount of any reimbursement to any local authority under subsection (b)(1) of this section may not exceed $25,000 for a single response. The reimbursement under this section with respect to a single facility shall be limited to the units of local government having jurisdiction over the political subdivision in which the facility is located.
+**(c) Amount** The amount of any reimbursement to any local authority under subsection (b)(1) may not exceed $25,000 for a single response. The reimbursement under this section with respect to a single facility shall be limited to the units of local government having jurisdiction over the political subdivision in which the facility is located.
 
 **(d) Procedure** Reimbursements authorized pursuant to this section shall be in accordance with rules promulgated by the Administrator within one year after October 17, 1986.
 
@@ -3616,12 +3619,12 @@ Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, 
 
 (3) The owner or operator of such equipment shall not be subject to any action under [section 9606 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9606) with respect to such facility.
 
-**(b) Exceptions** Subsection (a) of this section does not apply with respect to a release or threatened release of a hazardous substance from a facility described in subsection (a) of this section if either of the following circumstances exist:
+**(b) Exceptions** Subsection (a) does not apply with respect to a release or threatened release of a hazardous substance from a facility described in subsection (a) if either of the following circumstances exist:
 
-(1) The release or threatened release was primarily caused by activities of the owner or operator of the equipment described in subsection (a) of this section.
+(1) The release or threatened release was primarily caused by activities of the owner or operator of the equipment described in subsection (a).
 
 (2) The owner or operator of such equipment would be covered by paragraph (1), (2), (3), or (4) of subsection (a) of [section 9607 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9607) with respect to such release or threatened release if he were not the owner or operator of such equipment.
-In the case of any release or threatened release referred to in paragraph (1), the owner or operator of the equipment described in subsection (a) of this section shall be liable under this chapter only for costs or damages primarily caused by the activities of such owner or operator.
+In the case of any release or threatened release referred to in paragraph (1), the owner or operator of the equipment described in subsection (a) shall be liable under this chapter only for costs or damages primarily caused by the activities of such owner or operator.
 
 ### Statutory Notes
 
@@ -3671,7 +3674,7 @@ This chapter, referred to in subsecs. (c) and (d), was in the original “this A
 ## § 9627. Recycling transactions
 **(a) Liability clarification**
 
-(1) As provided in subsections (b), (c), (d), and (e) of this section, a person who arranged for recycling of recyclable material shall not be liable under sections 9607(a)(3) and 9607(a)(4) of this title with respect to such material.
+(1) As provided in subsections (b), (c), (d), and (e), a person who arranged for recycling of recyclable material shall not be liable under sections 9607(a)(3) and 9607(a)(4) of this title with respect to such material.
 
 (2) A determination whether or not any person shall be liable under [section 9607(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9607/a/3&num=0&edition=prelim) or [section 9607(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9607/a/4&num=0&edition=prelim) for any material that is not a recyclable material as that term is used in subsections (b) and (c), (d), or (e) of this section shall be made, without regard to subsections 11 So in original. Probably should be “subsection”. (b), (c), (d), or (e) of this section.
 
@@ -3705,7 +3708,7 @@ This chapter, referred to in subsecs. (c) and (d), was in the original “this A
 
 (1) Transactions involving scrap metal shall be deemed to be arranging for recycling if the person who arranged for the transaction (by selling recyclable material or otherwise arranging for the recycling of recyclable material) can demonstrate by a preponderance of the evidence that at the time of the transaction—
 
-  (A) the person met the criteria set forth in subsection (c) of this section with respect to the scrap metal;
+  (A) the person met the criteria set forth in subsection (c) with respect to the scrap metal;
 
   (B) the person was in compliance with any applicable regulations or standards regarding the storage, transport, management, or other activities associated with the recycling of scrap metal that the Administrator promulgates under the Solid Waste Disposal Act [[42 U.S.C. 6901](./chapter-082-solid-waste-disposal.md#section-6901) et seq.] subsequent to November 29, 1999, and with regard to transactions occurring after the effective date of such regulations or standards; and
 
@@ -3717,7 +3720,7 @@ This chapter, referred to in subsecs. (c) and (d), was in the original “this A
 
 **(e) Transactions involving batteries** Transactions involving spent lead-acid batteries, spent nickel-cadmium batteries, or other spent batteries shall be deemed to be arranging for recycling if the person who arranged for the transaction (by selling recyclable material or otherwise arranging for the recycling of recyclable material) can demonstrate by a preponderance of the evidence that at the time of the transaction—
 
-(1) the person met the criteria set forth in subsection (c) of this section with respect to the spent lead-acid batteries, spent nickel-cadmium batteries, or other spent batteries, but the person did not recover the valuable components of such batteries; and
+(1) the person met the criteria set forth in subsection (c) with respect to the spent lead-acid batteries, spent nickel-cadmium batteries, or other spent batteries, but the person did not recover the valuable components of such batteries; and
 
 (2)
 
@@ -3729,7 +3732,7 @@ This chapter, referred to in subsecs. (c) and (d), was in the original “this A
 
 **(f) Exclusions**
 
-(1) The exemptions set forth in subsections (c), (d), and (e) of this section shall not apply if—
+(1) The exemptions set forth in subsections (c), (d), and (e) shall not apply if—
 
   (A) the person had an objectively reasonable basis to believe at the time of the recycling transaction—
 
@@ -3763,9 +3766,9 @@ This chapter, referred to in subsecs. (c) and (d), was in the original “this A
 
 **(l) Limitation on statutory construction** Nothing in this section shall be construed to—
 
-(1) affect any defenses or liabilities of any person to whom subsection (a)(1) of this section does not apply; or
+(1) affect any defenses or liabilities of any person to whom subsection (a)(1) does not apply; or
 
-(2) create any presumption of liability against any person to whom subsection (a)(1) of this section does not apply.
+(2) create any presumption of liability against any person to whom subsection (a)(1) does not apply.
 
 ### Statutory Notes
 
@@ -3853,7 +3856,7 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title VI, § 6001(a)], Nov. 29, 1999, 
 
     (iv) the Administrator, after consultation with the State, determines that information, that on the earlier of the date on which cleanup was approved or completed, was not known by the State, as recorded in documents prepared or relied on in selecting or conducting the cleanup, has been discovered regarding the contamination or conditions at a facility such that the contamination or conditions at the facility present a threat requiring further remediation to protect public health or welfare or the environment. Consultation with the State shall not limit the ability of the Administrator to make this determination.
 
-  (C) *Public record* — The limitations on the authority of the President under subparagraph (A) apply only at sites in States that maintain, update not less than annually, and make available to the public a record of sites, by name and location, at which response actions have been completed in the previous year and are planned to be addressed under the State program that specifically governs response actions for the protection of public health and the environment in the upcoming year. The public record shall identify whether or not the site, on completion of the response action, will be suitable for unrestricted use and, if not, shall identify the institutional controls relied on in the remedy. Each State and tribe receiving financial assistance under subsection (a) of this section shall maintain and make available to the public a record of sites as provided in this paragraph.
+  (C) *Public record* — The limitations on the authority of the President under subparagraph (A) apply only at sites in States that maintain, update not less than annually, and make available to the public a record of sites, by name and location, at which response actions have been completed in the previous year and are planned to be addressed under the State program that specifically governs response actions for the protection of public health and the environment in the upcoming year. The public record shall identify whether or not the site, on completion of the response action, will be suitable for unrestricted use and, if not, shall identify the institutional controls relied on in the remedy. Each State and tribe receiving financial assistance under subsection (a) shall maintain and make available to the public a record of sites as provided in this paragraph.
 
   (D) *EPA notification*
 
@@ -3891,7 +3894,7 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title VI, § 6001(a)], Nov. 29, 1999, 
 
 **(c) Effect on Federal laws** Nothing in this section affects any liability or response authority under any Federal law, including—
 
-(1) this chapter, except as provided in subsection (b) of this section;
+(1) this chapter, except as provided in subsection (b);
 
 (2) the Solid Waste Disposal Act ([42 U.S.C. 6901](./chapter-082-solid-waste-disposal.md#section-6901) et seq.);
 
@@ -4215,13 +4218,13 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 (1) **Subchapter I terms** — The terms used in this section shall have the same meaning as when used in subchapter I of this chapter.
 
-(2) **Applicable limitations period** — The term “applicable limitations period” means the period specified in a statute of limitations during which a civil action referred to in subsection (a)(1) of this section may be brought.
+(2) **Applicable limitations period** — The term “applicable limitations period” means the period specified in a statute of limitations during which a civil action referred to in subsection (a)(1) may be brought.
 
 (3) **Commencement date** — The term “commencement date” means the date specified in a statute of limitations as the beginning of the applicable limitations period.
 
 (4) **Federally required commencement date**
 
-  (A) *In general* — Except as provided in subparagraph (B), the term “federally required commencement date” means the date the plaintiff knew (or reasonably should have known) that the personal injury or property damages referred to in subsection (a)(1) of this section were caused or contributed to by the hazardous substance or pollutant or contaminant concerned.
+  (A) *In general* — Except as provided in subparagraph (B), the term “federally required commencement date” means the date the plaintiff knew (or reasonably should have known) that the personal injury or property damages referred to in subsection (a)(1) were caused or contributed to by the hazardous substance or pollutant or contaminant concerned.
 
   (B) *Special rules* — In the case of a minor or incompetent plaintiff, the term “federally required commencement date” means the later of the date referred to in subparagraph (A) or the following:
 
@@ -4246,15 +4249,15 @@ Paragraph (2) shall not apply to any act or duty under the provisions of [sectio
 
 **(b) Venue**
 
-(1) **Actions under subsection (a)(1)** — Any action under subsection (a)(1) of this section shall be brought in the district court for the district in which the alleged violation occurred.
+(1) **Actions under subsection (a)(1)** — Any action under subsection (a)(1) shall be brought in the district court for the district in which the alleged violation occurred.
 
-(2) **Actions under subsection (a)(2)** — Any action brought under subsection (a)(2) of this section may be brought in the United States District Court for the District of Columbia.
+(2) **Actions under subsection (a)(2)** — Any action brought under subsection (a)(2) section may be brought in the United States District Court for the District of Columbia.
 
-**(c) Relief** The district court shall have jurisdiction in actions brought under subsection (a)(1) of this section to enforce the standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under [section 9620 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9620)), to order such action as may be necessary to correct the violation, and to impose any civil penalty provided for the violation. The district court shall have jurisdiction in actions brought under subsection (a)(2) of this section to order the President or other officer to perform the act or duty concerned.
+**(c) Relief** The district court shall have jurisdiction in actions brought under subsection (a)(1) to enforce the standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under [section 9620 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9620)), to order such action as may be necessary to correct the violation, and to impose any civil penalty provided for the violation. The district court shall have jurisdiction in actions brought under subsection (a)(2) to order the President or other officer to perform the act or duty concerned.
 
 **(d) Rules applicable to subsection (a)(1) actions**
 
-(1) **Notice** — No action may be commenced under subsection (a)(1) of this section before 60 days after the plaintiff has given notice of the violation to each of the following:
+(1) **Notice** — No action may be commenced under subsection (a)(1) before 60 days after the plaintiff has given notice of the violation to each of the following:
 
   (A) The President.
 
@@ -4263,9 +4266,9 @@ Paragraph (2) shall not apply to any act or duty under the provisions of [sectio
   (C) Any alleged violator of the standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under [section 9620 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9620)).
   Notice under this paragraph shall be given in such manner as the President shall prescribe by regulation.
 
-(2) **Diligent prosecution** — No action may be commenced under paragraph (1) of subsection (a) of this section if the President has commenced and is diligently prosecuting an action under this chapter, or under the Solid Waste Disposal Act [[42 U.S.C. 6901](./chapter-082-solid-waste-disposal.md#section-6901) et seq.] to require compliance with the standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under [section 9620 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9620)).
+(2) **Diligent prosecution** — No action may be commenced under paragraph (1) of subsection (a) if the President has commenced and is diligently prosecuting an action under this chapter, or under the Solid Waste Disposal Act [[42 U.S.C. 6901](./chapter-082-solid-waste-disposal.md#section-6901) et seq.] to require compliance with the standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under [section 9620 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9620)).
 
-**(e) Rules applicable to subsection (a)(2) actions** No action may be commenced under paragraph (2) of subsection (a) of this section before the 60th day following the date on which the plaintiff gives notice to the Administrator or other department, agency, or instrumentality that the plaintiff will commence such action. Notice under this subsection shall be given in such manner as the President shall prescribe by regulation.
+**(e) Rules applicable to subsection (a)(2) actions** No action may be commenced under paragraph (2) of subsection (a) before the 60th day following the date on which the plaintiff gives notice to the Administrator or other department, agency, or instrumentality that the plaintiff will commence such action. Notice under this subsection shall be given in such manner as the President shall prescribe by regulation.
 
 **(f) Costs** The court, in issuing any final order in any action brought pursuant to this section, may award costs of litigation (including reasonable attorney and expert witness fees) to the prevailing or the substantially prevailing party whenever the court determines such an award is appropriate. The court may, if a temporary restraining order or preliminary injunction is sought, require the filing of a bond or equivalent security in accordance with the Federal Rules of Civil Procedure.
 
@@ -4273,7 +4276,7 @@ Paragraph (2) shall not apply to any act or duty under the provisions of [sectio
 
 **(h) Other rights** This chapter does not affect or otherwise impair the rights of any person under Federal, State, or common law, except with respect to the timing of review as provided in [section 9613(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9613/h&num=0&edition=prelim) or as otherwise provided in [section 9658 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9658) (relating to actions under State law).
 
-**(i) Definitions** The terms used in this section shall have the same meanings as when used in subchapter I of this chapter.
+**(i) Definitions** The terms used in this section shall have the same meanings as when used in subchapter I.
 
 ### Statutory Notes
 
@@ -4446,11 +4449,11 @@ The Federal Rules of Civil Procedure, referred to in subsec. (f), are set out in
 
 (10) **Technology transfer activities** — Not less than five percent of the funds made available to carry out this subsection for any fiscal year shall be available to carry out technology transfer activities.
 
-**(e) Report to Congress** At the time of the submission of the annual budget request to Congress, the Administrator shall submit to the appropriate committees of the House of Representatives and the Senate and to the advisory council established under subsection (a) of this section, a report on the progress of the research, development, and demonstration program authorized by subsection (b) of this section, including an evaluation of each demonstration project completed in the preceding fiscal year, findings with respect to the efficacy of such demonstrated technologies in achieving permanent and significant reductions in risk from hazardous wastes, the costs of such demonstration projects, and the potential applicability of, and projected costs for, such technologies at other hazardous substance sites.
+**(e) Report to Congress** At the time of the submission of the annual budget request to Congress, the Administrator shall submit to the appropriate committees of the House of Representatives and the Senate and to the advisory council established under subsection (a), a report on the progress of the research, development, and demonstration program authorized by subsection (b), including an evaluation of each demonstration project completed in the preceding fiscal year, findings with respect to the efficacy of such demonstrated technologies in achieving permanent and significant reductions in risk from hazardous wastes, the costs of such demonstration projects, and the potential applicability of, and projected costs for, such technologies at other hazardous substance sites.
 
 **(f) Saving provision** Nothing in this section shall be construed to affect the provisions of the Solid Waste Disposal Act [[42 U.S.C. 6901](./chapter-082-solid-waste-disposal.md#section-6901) et seq.].
 
-**(g) Small business participation** The Administrator shall ensure, to the maximum extent practicable, an adequate opportunity for small business participation in the program established by subsection (b) of this section.
+**(g) Small business participation** The Administrator shall ensure, to the maximum extent practicable, an adequate opportunity for small business participation in the program established by subsection (b).
 
 ### Statutory Notes
 
@@ -4521,7 +4524,7 @@ The Administrator shall publish the findings of such study and shall work with t
 
 (1) **Emergency Declaration Area** — The terms “Emergency Declaration Area” and “Love Canal Emergency Declaration Area” mean the Emergency Declaration Area as defined in section 950, paragraph (2) of the General Municipal Law of the State of New York, Chapter 259, Laws of 1980, as in effect on October 17, 1986.
 
-(2) **Private property** — As used in subsection (a) of this section, the term “private property” means all property which is not owned by a department, agency, or instrumentality of—
+(2) **Private property** — As used in subsection (a), the term “private property” means all property which is not owned by a department, agency, or instrumentality of—
 
   (A) the United States, or
 
@@ -4603,9 +4606,9 @@ Pub. L. 99–499, title II, § 210(b), as added by Pub. L. 99–563, § 11(c)(1)
 
 **(b) Exceptions**
 
-(1) **State laws generally applicable** — Nothing in subsection (a) of this section shall be construed to affect the applicability of State laws generally applicable to persons or corporations. The State in which a risk retention group is chartered may regulate the formation and operation of the group.
+(1) **State laws generally applicable** — Nothing in subsection (a) shall be construed to affect the applicability of State laws generally applicable to persons or corporations. The State in which a risk retention group is chartered may regulate the formation and operation of the group.
 
-(2) **State regulations not subject to exemption** — Subsection (a) of this section shall not apply to any State law which requires a risk retention group to do any of the following:
+(2) **State regulations not subject to exemption** — Subsection (a) shall not apply to any State law which requires a risk retention group to do any of the following:
 
   (A) Comply with the unfair claim settlement practices law of the State.
 
@@ -4627,7 +4630,7 @@ Pub. L. 99–499, title II, § 210(b), as added by Pub. L. 99–563, § 11(c)(1)
 
   (H) Comply with a lawful order issued in a delinquency proceeding commenced by the State insurance commissioner if the commissioner of the jurisdiction in which the group is chartered has failed to initiate such a proceeding after notice of a finding of financial impairment under subparagraph (G).
 
-**(c) Application of exemptions** The exemptions specified in subsection (a) of this section apply to—
+**(c) Application of exemptions** The exemptions specified in subsection (a) apply to—
 
 (1) pollution liability insurance coverage provided by a risk retention group for—
 
@@ -4662,7 +4665,7 @@ Pub. L. 99–499, title II, § 210(b), as added by Pub. L. 99–563, § 11(c)(1)
 
 (8) A State law, rule, or order which otherwise discriminate 11 So in original. Probably should be “discriminates”. against a purchasing group or any of its members.
 
-**(b) Application of exemptions** The exemptions specified in subsection (a) of this section apply to the following:
+**(b) Application of exemptions** The exemptions specified in subsection (a) apply to the following:
 
 (1) Pollution liability insurance, and comprehensive general liability insurance which includes this coverage, provided to—
 

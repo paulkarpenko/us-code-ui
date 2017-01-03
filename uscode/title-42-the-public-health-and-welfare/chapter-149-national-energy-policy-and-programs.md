@@ -684,137 +684,7 @@ The Secretary of Housing and Urban Development shall develop and implement an in
 The Energy Policy Act of 1992, referred to in subsec. (c)(3), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, as amended. Title XXVI of the Act is classified generally to chapter 37 (§ 3501 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 13201 of this title](./chapter-134-energy-policy.md#section-13201) and Tables.
 
 #### Federal Leadership on Energy Management
-Memorandum of President of the United States, Dec. 5, 2013, 78 F.R. 75209, provided:
-
-Memorandum for the Heads of Executive Departments and Agencies
-
-In order to create a clean energy economy that will increase our Nation’s prosperity, promote energy security, combat climate change, protect the interests of taxpayers, and safeguard the health of our environment, the Federal Government must lead by example. During my Administration, Federal agencies have reduced their annual greenhouse gas emissions by more than 15 percent (7.8 million metric tons)—the equivalent of removing 1.5 million cars from the road. Today I am establishing new goals for renewable energy as well as new energy-management practices.
-
-Agencies are already well on their way towards meeting the aggressive sustainability goals set forth in Executive Order 13514 of October 5, 2009 (Federal Leadership in Environmental, Energy, and Economic Performance). This memorandum establishes a new target for Federal use of renewable energy that challenges agencies to more than double their renewable electricity consumption. In order to improve their ability to manage energy consumption, promote the reduction of greenhouse gas emissions, and achieve the sustainability goals set forth in Executive Order 13514, this memorandum also directs agencies to update their building-performance and energy-management practices, by encouraging the use of the consensus-based, industry-standard Green Button data access system (Green Button) and the Environmental Protection Agency’s (EPA) Energy Star Portfolio Manager.
-
-To help agencies achieve my Administration’s climate change goals and increase development of new renewable energy sources, I hereby direct the following:
-
-Section 1. Renewable Energy Target. (a) By fiscal year 2020, to the extent economically feasible and technically practicable, 20 percent of the total amount of electric energy consumed by each agency during any fiscal year shall be renewable energy.
-
-(b) Agencies shall seek to achieve the renewable energy consumption target set forth in subsection (a) of this section by, where possible, taking the following actions, which are listed in order of priority:
-
-(i) installing agency-funded renewable energy on-site at Federal facilities and retain renewable energy certificates;
-
-(ii) contracting for energy that includes the installation of a renewable energy project on-site at a Federal facility or off-site from a Federal facility and the retention of renewable energy certificates for the term of the contract;
-
-(iii) purchasing electricity and corresponding renewable energy certificates; and
-
-(iv) purchasing renewable energy certificates.
-
-(c) Agencies shall ensure that 100 percent of renewable energy certificates identified in subsection (b)(iii) and (b)(iv) of this section are produced by new renewable sources as defined in section 5(c) of this memorandum.
-
-(d) Agencies shall consider opportunities, to the extent economically feasible and technically practical, to install or contract for energy installed on current or formerly contaminated lands, landfills, and mine sites.
-
-Sec. 2. Accounting for Renewable Energy. (a) For the purposes of the renewable energy consumption target in section 1(a) of this memorandum, agency progress shall be determined by reference to the ownership of renewable energy certificates for electric energy consumed.
-
-(b) The percentage of renewable energy counted towards the target in section 1 of this memorandum shall be doubled if the renewable energy conforms with section 203(c)(1) through (3) of the Energy Policy Act of 2005 ([42 U.S.C. 15852(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15852/c/1&num=0&edition=prelim)–(3)).
-
-(c) In order to achieve the target set forth in section 1(a) of this memorandum, each agency shall ensure that the percentage of the total amount of electric energy consumed by that agency that is renewable energy is:
-
-(i) not less than 10 percent in fiscal year 2015;
-
-(ii) not less than 15 percent in fiscal years 2016 and 2017;
-
-(iii) not less than 17.5 percent in fiscal years 2018 and 2019; and
-
-(iv) not less than 20 percent in fiscal year 2020 and each fiscal year thereafter.
-
-(d) For the purposes of accounting for the generation of renewable energy not included in section 1(b) of this memorandum, such as thermal and hydrokinetic renewable energy and renewable energy generated on a Federal facility or Federal land, the renewable energy and its estimated contribution to meeting greenhouse gas emission reduction goals set forth in section 2(a)(ii) of Executive Order 13514 shall be reported in MWh and be measured against reported total electricity consumption.
-
-(e) In preparing Strategic Sustainability Performance Plans required under section 8 of Executive Order 13514, agencies shall report on:
-
-(i) progress towards meeting the agency renewable energy targets established in section 1(a) of this memorandum; and
-
-(ii) the actions taken pursuant to sections 1(b) and 2(d) of this memorandum.
-
-(f) Within 180 days of the date of this memorandum, the Department of Energy will issue an update to its Renewable Energy Requirement Guidance for EPACT 2005 and Executive Order 13423 to address the new requirements created by this memorandum.
-
-Sec. 3. Building Performance and Energy Management. (a) To encourage continuous improvement and better manage building performance, enhance energy efficiency, and reduce energy waste in an open and transparent way, each agency shall:
-
-(i) install building energy meters and sub-meters as required by section 543(e) of the National Energy Conservation Policy Act (NECPA) ([42 U.S.C. 8253(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8253/e&num=0&edition=prelim)), and continue installation of additional building energy meters and sub-meters where cost-effective and appropriate;
-
-(ii) install water meters at agency buildings where cost-effective and appropriate;
-
-(iii) ensure that for any agency buildings metered for energy and water performance, the associated monthly performance data is entered into the EPA Energy Star Portfolio Manager to better manage energy performance and allow for benchmarking;
-
-(iv) publicly disclose annual benchmark energy performance data through the Department of Energy web-based tracking system established under section 543(f)(7)(B) of NECPA ([42 U.S.C. 8253(f)(7)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8253/f/7/B&num=0&edition=prelim));
-
-(v) where feasible, incorporate Green Button into reporting, data analytics and automation, and processes, in consultation with local utilities; and
-
-(vi) consider participating in demand response programs where available.
-
-(b) To facilitate agency management of energy usage information in Green Button:
-
-(i) within 120 days of the date of this memorandum, the General Services Administration (GSA), in coordination with the Department of Energy (DOE) and EPA, shall prepare and initiate a strategy to pilot Green Button at Federal facilities where feasible;
-
-(ii) within 180 days of initiation of the Green Button pilot strategy described in paragraph (i) of this subsection, DOE, through the Federal Energy Management Program (FEMP), in coordination with EPA, shall issue guidance on the use of the Green Button at Federal facilities; and
-
-(iii) as soon as practicable, but no later than 1 year after the date of this memorandum, EPA shall update Energy Star Portfolio Manager to facilitate the inclusion of building energy usage data using Green Button and in conformance with the guidance prepared pursuant to paragraph (ii) of this subsection.
-
-(c) To support agency metering and benchmarking, and to promote disclosure of agency building energy usage, within 180 days of the date of this memorandum, DOE, through FEMP, shall:
-
-(i) revise and update the Metering Best Practices of August 2011, which shall include definitions for the terms “cost effective” and “appropriate” and shall address leased space so that, where submetering allows, energy and water consumption data will be reported; and
-
-(ii) in coordination with EPA, revise and update the Building Energy Use Benchmarking Guidance of April 15, 2010, including necessary revisions to benchmark building performance data fields and disclosure policies.
-
-Sec. 4. Applicability of Renewable Energy Certificates to Federal Target. Within 120 days of the date of this memorandum, DOE, through FEMP, and in coordination with the EPA, the Department of Defense, the Department of Veterans Affairs, GSA, and other agencies as appropriate, shall provide recommendations to the Chair of the Council on Environmental Quality on procurement, reporting, and accounting procedures related to agency use of renewable energy certificates in meeting the target in section 1(a) of this memorandum, including procedures and policies on:
-
-(a) appropriate certification and tracking of renewable energy certificates; and
-
-(b) sale and purchase of renewable energy certificates, including the exchange of project-related renewable energy certificates and interagency and interdepartmental purchase and transfer of renewable energy certificates.
-
-Sec. 5. Definitions. As used in this memorandum:
-
-(a) “Agency” means an executive agency as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim), United States Code, excluding the Government Accountability Office.
-
-(b) “New renewable sources” means sources of renewable energy placed into service within 10 years prior to the start of the fiscal year.
-
-(c) “Renewable energy” has the same meaning as in Executive Order 13514.
-
-(d) “Renewable energy certificates” means the technology and environmental (non-energy) attributes that represent proof that 1 megawatt-hour (MWh) of electricity was generated from an eligible renewable energy resource, and can be sold separately from the underlying generic electricity with which it is associated.
-
-(e) “Green Button data access system” or “Green Button” means the system developed by the North American Energy Standards Board for providing web-based secure access to energy bill account information, energy usage information, and energy consumption and usage data to customers of utilities and energy providers for the purposes of business management and energy usage management.
-
-(f) “Hydrokinetic renewable energy” means renewable energy from free flowing water in rivers, lakes, and streams or free flowing water in man-made channels and does not include energy from any source that uses a dam, diversionary structure, or impoundment for electric power purposes.
-
-(g) “Thermal renewable energy” means energy generated from renewable heat sources, including biomass, solar thermal, geothermal, waste heat, and combined heat and power processes.
-
-(h) “Energy or water metering” means energy or water consumption recording for the purposes of billing by a utility company or energy or water management at an installation, campus, or building level, which conforms with established accuracy standards and uses utility-grade meters.
-
-(i) “Sub-metering” means the application of metering technology to provide for capturing data at the level necessary to facilitate energy or water management at different buildings in a multi-building campus, different floors of the same building, different tenants in a multi-tenant office facility, individual building systems (e.g. heating and cooling, lighting, plug loads), electrical circuits, or specific devices.
-
-Sec. 6. Limitations. (a) This memorandum shall apply to an agency with respect to the activities, personnel, resources, and facilities of the agency that are located within the United States. The head of an agency may provide that this memorandum shall apply in whole or in part with respect to the activities, personnel, resources, and facilities of the agency that are not located within the United States, if the head of the agency determines that such application is in the interest of the United States.
-
-(b) The head of an agency shall manage activities, personnel, resources, and facilities of the agency that are not located within the United States, and with respect to which the head of the agency has not made a determination under subsection (a) of this section, in a manner consistent with this memorandum to the extent the head of the agency determines practicable.
-
-Sec. 7. Exemption Authority. (a) The Director of National Intelligence may exempt an intelligence activity of the United States, and related personnel, resources, and facilities, from the provisions of this memorandum, other than this subsection and section 8, to the extent the Director determines necessary to protect intelligence sources and methods from unauthorized disclosure.
-
-(b) The head of an agency may exempt law enforcement activities of that agency, and related personnel, resources, and facilities, from the provisions of this memorandum, other than this subsection and section 8, to the extent the head of any agency determines necessary to protect undercover operations from unauthorized disclosure.
-
-(c) The head of an agency may exempt particular agency activities and facilities from the provisions of this memorandum, other than this subsection and section 8, where it is in the interest of national security. If the head of any agency issues an exemption under this subsection, the agency must notify the Chair of the Council on Environmental Quality in writing within 30 days of the issuance of the exemption. To the maximum extent practicable, and without compromising national security, each agency shall strive to comply with the purpose, goals, and implementation steps in this memorandum.
-
-(d) The head of any agency may submit to the President, through the Chair of the Council on Environmental Quality, a request for an exemption of any agency activity, and related personnel, resources, and facilities, from this memorandum.
-
-Sec. 8. General Provisions. (a) This memorandum shall be implemented consistent with Executive Order 13514 and other applicable law, including international trade obligations, and subject to the availability of appropriations.
-
-(b) Nothing in this memorandum shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to a department, agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(c) Nothing in this memorandum shall be construed to require the disclosure of classified information, law enforcement sensitive information, or other information that must be protected in the interest of national security or public safety.
-
-(d) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-(e) The Chair of the Council on Environmental Quality is hereby authorized and directed to publish this memorandum in the Federal Register.
-
-Barack Obama.
+Memorandum of President of the United States, Dec. 5, 2013, 78 F.R. 75209, which set a renewable energy target and building performance and energy management requirements for Federal agencies, was revoked by Ex. Ord. No. 13693, § 16(b), Mar. 19, 2015, 80 F.R. 15880, set out in a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
 
 
 <a id="section-15854"></a>
@@ -883,7 +753,7 @@ Barack Obama.
 
   (C) to restore forest health.
 
-(2) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 450b(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim).
+(2) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim).
 
 (3) **Nonmerchantable** — For purposes of subsection (b), the term “nonmerchantable” means that portion of the byproducts of preventive treatments that would not otherwise be used for higher value products.
 
@@ -2030,7 +1900,7 @@ Subsecs. (e)(1), (2), (f)(1), (h). Pub. L. 113–291, § 3021(a)(2), substituted
 
 Subsec. (h)(6). Pub. L. 113–291, § 3021(a)(6), added par. (6) and struck out former par. (6) which read as follows: “the States of Wyoming, Montana, Colorado, Utah, and New Mexico.”
 
-Subsec. (i). Pub. L. 113–291, § 3021(a)(7), (8), redesignated subsec. (j) as (i) and struck out former subsec. (i) which read as follows: “During the period in which the Pilot Project is authorized, the Secretary shall not implement a rulemaking that would enable an increase in fees to recover additional costs related to processing drilling-related permit applications and use authorizations.”
+Subsec. (i). Pub. L. 113–291, § 3021(a)(7), (8), redesignated subsec. (j) as (i) and struck out former subsec. (i). Prior to amendment, text read as follows: “During the period in which the Project is authorized, the Secretary shall not implement a rulemaking that would enable an increase in fees to recover additional costs related to processing drilling-related permit applications and use authorizations.”
 
 Pub. L. 113–291, § 3021(a)(2), substituted “Project” for “Pilot Project”.
 
@@ -2774,12 +2644,12 @@ Section was enacted as part of the Energy and Water Development and Related Agen
 
 **(e) Cost sharing** The Federal share of the cost of the demonstration project shall be determined in accordance with [section 16352 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16352).
 
-**(f) Loan guarantees** Notwithstanding subchapter XIII of this chapter, the demonstration project shall not be eligible for Federal loan guarantees.
+**(f) Loan guarantees** Notwithstanding subchapter XIII, the demonstration project shall not be eligible for Federal loan guarantees.
 
 ### Statutory Notes
 
 #### References in Text
-Subchapter XIII of this chapter, referred to in subsec. (f), was in the original “title XIV”, meaning title XIV of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 1061, which enacted subchapter XIII of this chapter and [section 13557 of this title](./chapter-134-energy-policy.md#section-13557). For complete classification of title XIV to the Code, see Tables.
+Subchapter XIII, referred to in subsec. (f), was in the original “title XIV”, meaning title XIV of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 1061, which enacted subchapter XIII of this chapter and [section 13557 of this title](./chapter-134-energy-policy.md#section-13557). For complete classification of title XIV to the Code, see Tables.
 
 
 <a id="section-15975"></a>
@@ -2907,7 +2777,7 @@ For short title of title V of Pub. L. 109–58, which enacted this subchapter, a
 
 <a id="section-16013"></a>
 ## § 16013. Prohibition on assumption by United States Government of liability for certain foreign incidents
-**(a) In general** Notwithstanding any other provision of law, no officer of the United States or of any department, agency, or instrumentality of the United States Government may enter into any contract or other arrangement, or into any amendment or modification of a contract or other arrangement, the purpose or effect of which would be to directly or indirectly impose liability on the United States Government, or any department, agency, or instrumentality of the United States Government, or to otherwise directly or indirectly require an indemnity by the United States Government, for nuclear incidents occurring in connection with the design, construction, or operation of a production facility or utilization facility in any country whose government has been identified by the Secretary of State as engaged in state sponsorship of terrorist activities (specifically including any country the government of which, as of September 11, 2001, had been determined by the Secretary of State under [section 2371(a) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371/a&num=0&edition=prelim), [section 2405(j)(1) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2405/j/1&num=0&edition=prelim), Appendix, or [section 2780(d) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780/d&num=0&edition=prelim) to have repeatedly provided support for acts of international terrorism). This section shall not apply to nuclear incidents occurring as a result of missions, carried out under the direction of the Secretary, the Secretary of Defense, or the Secretary of State, that are necessary to safely secure, store, transport, or remove nuclear materials for nuclear safety or nonproliferation purposes.
+**(a) In general** Notwithstanding any other provision of law, no officer of the United States or of any department, agency, or instrumentality of the United States Government may enter into any contract or other arrangement, or into any amendment or modification of a contract or other arrangement, the purpose or effect of which would be to directly or indirectly impose liability on the United States Government, or any department, agency, or instrumentality of the United States Government, or to otherwise directly or indirectly require an indemnity by the United States Government, for nuclear incidents occurring in connection with the design, construction, or operation of a production facility or utilization facility in any country whose government has been identified by the Secretary of State as engaged in state sponsorship of terrorist activities (specifically including any country the government of which, as of September 11, 2001, had been determined by the Secretary of State under [section 2371(a) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371/a&num=0&edition=prelim), [section 4605(j)(1) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1&num=0&edition=prelim), or [section 2780(d) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780/d&num=0&edition=prelim) to have repeatedly provided support for acts of international terrorism). This section shall not apply to nuclear incidents occurring as a result of missions, carried out under the direction of the Secretary, the Secretary of Defense, or the Secretary of State, that are necessary to safely secure, store, transport, or remove nuclear materials for nuclear safety or nonproliferation purposes.
 
 **(b) Definitions** The terms used in this section shall have the same meaning as those terms have under [section 2014 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2014), unless otherwise expressly provided in this section.
 
@@ -9568,30 +9438,12 @@ Section was enacted as part of the Continuing Appropriations Resolution, 2007, a
 
 
 <a id="section-16521"></a>
-## § 16521. Temporary program for rapid deployment of renewable energy and electric power transmission projects
-**(a) In general** Notwithstanding [section 16513 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16513), the Secretary may make guarantees under this section only for the following categories of projects that commence construction not later than September 30, 2011:
+## § 16521. Omitted
 
-(1) Renewable energy systems, including incremental hydropower, that generate electricity or thermal energy, and facilities that manufacture related components.
+### Statutory Notes
 
-(2) Electric power transmission systems, including upgrading and reconductoring projects.
-
-(3) Leading edge biofuel projects that will use technologies performing at the pilot or demonstration scale that the Secretary determines are likely to become commercial technologies and will produce transportation fuels that substantially reduce life-cycle greenhouse gas emissions compared to other transportation fuels.
-
-**(b) Factors relating to electric power transmission systems** In determining to make guarantees to projects described in subsection (a)(2), the Secretary may consider the following factors:
-
-(1) The viability of the project without guarantees.
-
-(2) The availability of other Federal and State incentives.
-
-(3) The importance of the project in meeting reliability needs.
-
-(4) The effect of the project in meeting a State or region’s environment (including climate change) and energy goals.
-
-**(c) Wage rate requirements** The Secretary shall require that each recipient of support under this section provide reasonable assurance that all laborers and mechanics employed in the performance of the project for which the assistance is provided, including those employed by contractors or subcontractors, will be paid wages at rates not less than those prevailing on similar work in the locality as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of part A of subtitle II of title 40 (commonly referred to as the “Davis-Bacon Act”).
-
-**(d) Limitation** Funding under this section for projects described in subsection (a)(3) shall not exceed $500,000,000.
-
-**(e) Sunset** The authority to enter into guarantees under this section shall expire on September 30, 2011.
+#### Codification
+Section, Pub. L. 109–58, title XVII, § 1705, as added Pub. L. 111–5, div. A, title IV, § 406(a), Feb. 17, 2009, 123 Stat. 145, which related to temporary program for rapid deployment of renewable energy and electric power transmission projects, was omitted from the Code due to expiration of authority to enter into guarantees under this section on Sept. 30, 2011.
 
 
 <a id="section-16522"></a>

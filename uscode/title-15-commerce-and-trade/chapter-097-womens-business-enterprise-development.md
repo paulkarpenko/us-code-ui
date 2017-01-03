@@ -120,9 +120,9 @@ Nothing in this Order shall be construed as limiting the meaning or effect of an
 
 (5) design a comprehensive plan for a joint public-private sector effort to facilitate growth and development of women’s business enterprise, which plan shall, not later than 1 year after October 22, 1994, be submitted to the President for review.
 
-**(b) Meetings** The Interagency Committee shall meet not less than biannually at such times as the Interagency Committee determines to be necessary to perform the duties under subsection (a) of this section. A majority of the members of the Committee shall constitute a quorum for the approval of recommendations or reports issued pursuant to this section.
+**(b) Meetings** The Interagency Committee shall meet not less than biannually at such times as the Interagency Committee determines to be necessary to perform the duties under subsection (a). A majority of the members of the Committee shall constitute a quorum for the approval of recommendations or reports issued pursuant to this section.
 
-**(c) Interaction with Council** In performing its duties under subsection (a) of this section, the Interagency Committee shall consult with the Council. The Interagency Committee may meet jointly with the Council at the discretion of the chairperson of the Interagency Committee and the chairperson of the Council, but not less frequently than twice annually. The chairperson of the Interagency Committee shall serve as chairperson of any joint meetings of the Interagency Committee and the Council.
+**(c) Interaction with Council** In performing its duties under subsection (a), the Interagency Committee shall consult with the Council. The Interagency Committee may meet jointly with the Council at the discretion of the chairperson of the Interagency Committee and the chairperson of the Council, but not less frequently than twice annually. The chairperson of the Interagency Committee shall serve as chairperson of any joint meetings of the Interagency Committee and the Council.
 
 ### Statutory Notes
 
@@ -260,7 +260,7 @@ A prior section 405 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 269
 
   (C) the Council’s recommendations for such legislation and administrative actions as the Council considers appropriate to promote the development of small business concerns owned and controlled by women.
 
-**(e) Form of transmittal** The information included in each report under subsection (d) of this section that is described in subparagraphs (A) through (C) of subsection (d)(6) of this section, shall be reported verbatim, together with any separate additional, concurring, or dissenting views of the Administrator.
+**(e) Form of transmittal** The information included in each report under subsection (d) that is described in subparagraphs (A) through (C) of subsection (d)(6), shall be reported verbatim, together with any separate additional, concurring, or dissenting views of the Administrator.
 
 ### Statutory Notes
 
@@ -285,7 +285,7 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 ## § 7107. Membership of the Council
 **(a) Chairperson** The President shall appoint an individual to serve as chairperson of the Council, in consultation with the Administrator. The chairperson of the Council shall be a prominent business woman who is qualified to head the Council by virtue of her education, training, and experience.
 
-**(b) Other members** The Administrator shall, after receiving the recommendations of the Chairman and the Ranking Member of the Committees on Small Business of the House of Representatives and the Senate, appoint, in consultation with the chairperson of the Council appointed under subsection (a) of this section, 14 members of the Council, of whom—
+**(b) Other members** The Administrator shall, after receiving the recommendations of the Chairman and the Ranking Member of the Committees on Small Business of the House of Representatives and the Senate, appoint, in consultation with the chairperson of the Council appointed under subsection (a), 14 members of the Council, of whom—
 
 (1) 4 shall be—
 
@@ -317,7 +317,7 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 **(h) Executive director** The Administrator, in consultation with the chairperson of the Council, shall appoint an executive director of the Council. Upon the recommendation by the executive director, the chairperson of the Council may appoint and fix the pay of 4 additional employees of the Council, at a rate of pay not to exceed the maximum rate of pay payable for a position at GS–15 of the General Schedule. All such appointments shall be subject to the appropriation of funds.
 
-**(i) Rates of pay** The executive director and staff of the Council may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and except as provided in subsection (e) of this section, may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that the executive director may not receive pay in excess of the annual rate of basic pay payable for a position at ES–3 of the Senior Executive Pay Schedule under section 5832 11 So in original. Probably should be section “5382”. of title 5.
+**(i) Rates of pay** The executive director and staff of the Council may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and except as provided in subsection (e), may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that the executive director may not receive pay in excess of the annual rate of basic pay payable for a position at ES–3 of the Senior Executive Pay Schedule under section 5832 11 So in original. Probably should be section “5382”. of title 5.
 
 ### Statutory Notes
 

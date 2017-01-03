@@ -99,7 +99,7 @@ Pub. L. 101–601, § 1, Nov. 16, 1990, 104 Stat. 3048, provided that: “This A
 
   (C) if the cultural affiliation of the objects cannot be reasonably ascertained and if the objects were discovered on Federal land that is recognized by a final judgment of the Indian Claims Commission or the United States Court of Claims as the aboriginal land of some Indian tribe— (1) in the Indian tribe that is recognized as aboriginally occupying the area in which the objects were discovered, if upon notice, such tribe states a claim for such remains or objects, or (2) if it can be shown by a preponderance of the evidence that a different tribe has a stronger cultural relationship with the remains or objects than the tribe or organization specified in paragraph (1), in the Indian tribe that has the strongest demonstrated relationship, if upon notice, such tribe states a claim for such remains or objects.
 
-**(b) Unclaimed Native American human remains and objects** Native American cultural items not claimed under subsection (a) of this section shall be disposed of in accordance with regulations promulgated by the Secretary in consultation with the review committee established under [section 3006 of this title](./chapter-032-native-american-graves-protection-and-repatriation.md#section-3006), Native American groups, representatives of museums and the scientific community.
+**(b) Unclaimed Native American human remains and objects** Native American cultural items not claimed under subsection (a) shall be disposed of in accordance with regulations promulgated by the Secretary in consultation with the review committee established under [section 3006 of this title](./chapter-032-native-american-graves-protection-and-repatriation.md#section-3006), Native American groups, representatives of museums and the scientific community.
 
 **(c) Intentional excavation and removal of Native American human remains and objects** The intentional removal from or excavation of Native American cultural items from Federal or tribal lands for purposes of discovery, study, or removal of such items is permitted only if—
 
@@ -107,7 +107,7 @@ Pub. L. 101–601, § 1, Nov. 16, 1990, 104 Stat. 3048, provided that: “This A
 
 (2) such items are excavated or removed after consultation with or, in the case of tribal lands, consent of the appropriate (if any) Indian tribe or Native Hawaiian organization;
 
-(3) the ownership and right of control of the disposition of such items shall be as provided in subsections (a) and (b) of this section; and
+(3) the ownership and right of control of the disposition of such items shall be as provided in subsections (a) and (b); and
 
 (4) proof of consultation or consent under paragraph (2) is shown.
 
@@ -139,7 +139,7 @@ The Alaska Native Claims Settlement Act of 1971, referred to in subsec. (d)(1), 
 
 **(b) Requirements**
 
-(1) The inventories and identifications required under subsection (a) of this section shall be—
+(1) The inventories and identifications required under subsection (a) shall be—
 
   (A) completed in consultation with tribal government and Native Hawaiian organization officials and traditional religious leaders;
 
@@ -149,7 +149,7 @@ The Alaska Native Claims Settlement Act of 1971, referred to in subsec. (d)(1), 
 
 (2) Upon request by an Indian tribe or Native Hawaiian organization which receives or should have received notice, a museum or Federal agency shall supply additional available documentation to supplement the information required by subsection (a) of this section. The term “documentation” means a summary of existing museum or Federal agency records, including inventories or catalogues, relevant studies, or other pertinent data for the limited purpose of determining the geographical origin, cultural affiliation, and basic facts surrounding acquisition and accession of Native American human remains and associated funerary objects subject to this section. Such term does not mean, and this chapter shall not be construed to be an authorization for, the initiation of new scientific studies of such remains and associated funerary objects or other means of acquiring or preserving additional scientific information from such remains and objects.
 
-**(c) Extension of time for inventory** Any museum which has made a good faith effort to carry out an inventory and identification under this section, but which has been unable to complete the process, may appeal to the Secretary for an extension of the time requirements set forth in subsection (b)(1)(B) of this section. The Secretary may extend such time requirements for any such museum upon a finding of good faith effort. An indication of good faith shall include the development of a plan to carry out the inventory and identification process.
+**(c) Extension of time for inventory** Any museum which has made a good faith effort to carry out an inventory and identification under this section, but which has been unable to complete the process, may appeal to the Secretary for an extension of the time requirements set forth in subsection (b)(1)(B). The Secretary may extend such time requirements for any such museum upon a finding of good faith effort. An indication of good faith shall include the development of a plan to carry out the inventory and identification process.
 
 **(d) Notification**
 
@@ -179,7 +179,7 @@ This chapter, referred to in subsec. (b)(2), was in the original “this Act”,
 
 **(b) Requirements**
 
-(1) The summary required under subsection (a) of this section shall be—
+(1) The summary required under subsection (a) shall be—
 
   (A) in lieu of an object-by-object inventory;
 
@@ -200,9 +200,9 @@ This chapter, referred to in subsec. (b)(2), was in the original “this Act”,
 
 (3) The return of cultural items covered by this chapter shall be in consultation with the requesting lineal descendant or tribe or organization to determine the place and manner of delivery of such items.
 
-(4) Where cultural affiliation of Native American human remains and funerary objects has not been established in an inventory prepared pursuant to [section 3003 of this title](./chapter-032-native-american-graves-protection-and-repatriation.md#section-3003), or the summary pursuant to [section 3004 of this title](./chapter-032-native-american-graves-protection-and-repatriation.md#section-3004), or where Native American human remains and funerary objects are not included upon any such inventory, then, upon request and pursuant to subsections (b) and (e) of this section and, in the case of unassociated funerary objects, subsection (c) of this section, such Native American human remains and funerary objects shall be expeditiously returned where the requesting Indian tribe or Native Hawaiian organization can show cultural affiliation by a preponderance of the evidence based upon geographical, kinship, biological, archaeological, anthropological, linguistic, folkloric, oral traditional, historical, or other relevant information or expert opinion.
+(4) Where cultural affiliation of Native American human remains and funerary objects has not been established in an inventory prepared pursuant to [section 3003 of this title](./chapter-032-native-american-graves-protection-and-repatriation.md#section-3003), or the summary pursuant to [section 3004 of this title](./chapter-032-native-american-graves-protection-and-repatriation.md#section-3004), or where Native American human remains and funerary objects are not included upon any such inventory, then, upon request and pursuant to subsections (b) and (e) and, in the case of unassociated funerary objects, subsection (c), such Native American human remains and funerary objects shall be expeditiously returned where the requesting Indian tribe or Native Hawaiian organization can show cultural affiliation by a preponderance of the evidence based upon geographical, kinship, biological, archaeological, anthropological, linguistic, folkloric, oral traditional, historical, or other relevant information or expert opinion.
 
-(5) Upon request and pursuant to subsections (b), (c) and (e) of this section, sacred objects and objects of cultural patrimony shall be expeditiously returned where—
+(5) Upon request and pursuant to subsections (b), (c) and (e), sacred objects and objects of cultural patrimony shall be expeditiously returned where—
 
   (A) the requesting party is the direct lineal descendant of an individual who owned the sacred object;
 
@@ -232,7 +232,7 @@ This chapter, referred to in subsecs. (a)(3), (5)(C), (c), (e), and (f), was in 
 
 **(b) Membership**
 
-(1) The Committee 11 So in original. Probably should not be capitalized. established under subsection (a) of this section shall be composed of 7 members,
+(1) The Committee 11 So in original. Probably should not be capitalized. established under subsection (a) shall be composed of 7 members,
 
   (A) 3 of whom shall be appointed by the Secretary from nominations submitted by Indian tribes, Native Hawaiian organizations, and traditional Native American religious leaders with at least 2 of such persons being traditional Indian religious leaders;
 
@@ -244,9 +244,9 @@ This chapter, referred to in subsecs. (a)(3), (5)(C), (c), (e), and (f), was in 
 
 (3) In the event vacancies shall occur, such vacancies shall be filled by the Secretary in the same manner as the original appointment within 90 days of the occurrence of such vacancy.
 
-(4) Members of the committee established under subsection (a) of this section shall serve without pay, but shall be reimbursed at a rate equal to the daily rate for GS–18 of the General Schedule for each day (including travel time) for which the member is actually engaged in committee business. Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5.
+(4) Members of the committee established under subsection (a) shall serve without pay, but shall be reimbursed at a rate equal to the daily rate for GS–18 of the General Schedule for each day (including travel time) for which the member is actually engaged in committee business. Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5.
 
-**(c) Responsibilities** The committee established under subsection (a) of this section shall be responsible for—
+**(c) Responsibilities** The committee established under subsection (a) shall be responsible for—
 
 (1) designating one of the members of the committee as chairman;
 
@@ -274,7 +274,7 @@ This chapter, referred to in subsecs. (a)(3), (5)(C), (c), (e), and (f), was in 
 
 **(e) Recommendations and report** The committee shall make the recommendations under paragraph 22 So in original. Probably should be “subsection”. (c)(5) in consultation with Indian tribes and Native Hawaiian organizations and appropriate scientific and museum groups.
 
-**(f) Access** The Secretary shall ensure that the committee established under subsection (a) of this section and the members of the committee have reasonable access to Native American cultural items under review and to associated scientific and historical documents.
+**(f) Access** The Secretary shall ensure that the committee established under subsection (a) and the members of the committee have reasonable access to Native American cultural items under review and to associated scientific and historical documents.
 
 **(g) Duties of Secretary** The Secretary shall—
 
@@ -282,9 +282,9 @@ This chapter, referred to in subsecs. (a)(3), (5)(C), (c), (e), and (f), was in 
 
 (2) provide reasonable administrative and staff support necessary for the deliberations of the committee.
 
-**(h) Annual report** The committee established under subsection (a) of this section shall submit an annual report to the Congress on the progress made, and any barriers encountered, in implementing this section during the previous year.
+**(h) Annual report** The committee established under subsection (a) shall submit an annual report to the Congress on the progress made, and any barriers encountered, in implementing this section during the previous year.
 
-**(i) Termination** The committee established under subsection (a) of this section shall terminate at the end of the 120-day period beginning on the day the Secretary certifies, in a report submitted to Congress, that the work of the committee has been completed.
+**(i) Termination** The committee established under subsection (a) shall terminate at the end of the 120-day period beginning on the day the Secretary certifies, in a report submitted to Congress, that the work of the committee has been completed.
 
 ### Statutory Notes
 
@@ -299,7 +299,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 ## § 3007. Penalty
 **(a) Penalty** Any museum that fails to comply with the requirements of this chapter may be assessed a civil penalty by the Secretary of the Interior pursuant to procedures established by the Secretary through regulation. A penalty assessed under this subsection shall be determined on the record after opportunity for an agency hearing. Each violation under this subsection shall be a separate offense.
 
-**(b) Amount of penalty** The amount of a penalty assessed under subsection (a) of this section shall be determined under regulations promulgated pursuant to this chapter, taking into account, in addition to other factors—
+**(b) Amount of penalty** The amount of a penalty assessed under subsection (a) shall be determined under regulations promulgated pursuant to this chapter, taking into account, in addition to other factors—
 
 (1) the archaeological, historical, or commercial value of the item involved;
 
@@ -307,9 +307,9 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 (3) the number of violations that have occurred.
 
-**(c) Actions to recover penalties** If any museum fails to pay an assessment of a civil penalty pursuant to a final order of the Secretary that has been issued under subsection (a) of this section and not appealed or after a final judgment has been rendered on appeal of such order, the Attorney General may institute a civil action in an appropriate district court of the United States to collect the penalty. In such action, the validity and amount of such penalty shall not be subject to review.
+**(c) Actions to recover penalties** If any museum fails to pay an assessment of a civil penalty pursuant to a final order of the Secretary that has been issued under subsection (a) and not appealed or after a final judgment has been rendered on appeal of such order, the Attorney General may institute a civil action in an appropriate district court of the United States to collect the penalty. In such action, the validity and amount of such penalty shall not be subject to review.
 
-**(d) Subpoenas** In hearings held pursuant to subsection (a) of this section, subpoenas may be issued for the attendance and testimony of witnesses and the production of relevant papers, books, and documents. Witnesses so summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States.
+**(d) Subpoenas** In hearings held pursuant to subsection (a), subpoenas may be issued for the attendance and testimony of witnesses and the production of relevant papers, books, and documents. Witnesses so summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States.
 
 ### Statutory Notes
 

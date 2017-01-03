@@ -43,6 +43,9 @@ source: >-
 #### References in Text
 This Act, referred to in text, means Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended, known as the Railroad Revitalization and Regulatory Reform Act of 1976. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
+#### Short Title of 2015 Amendment
+Pub. L. 114–94, div. A, title XI, § 11601(a), Dec. 4, 2015, 129 Stat. 1693, provided that: “This subtitle [subtitle F (§§ 11601–11611) of title XI of div. A of Pub. L. 114–94, amending sections 821 to 823 of this title and enacting provisions set out as notes under [section 821 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-821)] may be cited as the ‘Railroad Infrastructure Financing Improvement Act’.”
+
 #### Short Title
 Pub. L. 94–210, § 1, Feb. 5, 1976, 90 Stat. 31, provided in part that this Act [enacting this chapter and sections 726 and 745 to 747 of this title, and sections 1a, 5c, 26b, 26c, 1613, 1653a, 1654, and 1657a of former Title 49, Transportation, amending sections 543, 545, 546, 562 to 564, 702, 711 to 713, 715, 716, 718 to 721, 724, 725, 741, 743, 744, 762, 763, 771, 772, 774, 775, 778, 779, and 791 of this title, sections 77c, 77s, 78m, and 80a–3 of Title 15, Commerce and Trade, sections 11 and 856 of former Title 31, Money and Finance, and sections 1, 1a, 5, 5b, 6, 12, 13, 15, 15a, 17, 20, 27, 314, 1653, 1658, and 1659 of former Title 49, repealing sections 761 to 762 of this title, enacting provisions set out as notes under sections 745, 761, 791, and 793 of this title, sections 77c and 80a–3 of Title 15, and sections 1, 1a, 5b, 5c, 17, and 1654 of former Title 49, and amending notes set out under section 1651 of former Title 49] may be cited as the “Railroad Revitalization and Regulatory Reform Act of 1976”.
 
@@ -83,13 +86,13 @@ The Regional Rail Reorganization Act of 1973, referred to in par. (4), is Pub. L
 1983—Par. (7). Pub. L. 97–468 struck out “and the Alaska Railroad” before the semicolon at end.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 #### Effective Date of 1983 Amendment
 Amendment by Pub. L. 97–468 effective on date of transfer of Alaska Railroad to the State [Jan. 5, 1985], pursuant to [section 1203 of this title](./chapter-021-alaska-railroad-transfer.md#section-1203), see section 615(b) of Pub. L. 97–468.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 702 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section702&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim).
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1302&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim).
 
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 See [section 1341 of this title](./chapter-022-conrail-privatization.md#section-1341).
@@ -142,18 +145,50 @@ For purposes of this subchapter:
 
 (5) The term “intermodal” means of or relating to the connection between rail service and other modes of transportation, including all parts of facilities at which such connection is made.
 
-(6) The term “loan guarantee” means any guarantee, insurance, or other pledge with respect to the payment of all or a part of the principal or interest on any debt obligation of a non-Federal borrower to a non-Federal lender, but does not include the insurance of deposits, shares, or other withdrawable accounts in financial institutions.
+(6) The term “investment-grade rating” means a rating of BBB minus, Baa 3, bbb minus, BBB(low), or higher assigned by a rating agency.
 
-(7) The term “loan guarantee commitment” means a binding agreement by the Secretary to make a loan guarantee when specified conditions are fulfilled by the borrower, the lender, or any other party to the guarantee agreement.
+(7) The term “loan guarantee” means any guarantee, insurance, or other pledge with respect to the payment of all or a part of the principal or interest on any debt obligation of a non-Federal borrower to a non-Federal lender, but does not include the insurance of deposits, shares, or other withdrawable accounts in financial institutions.
 
-(8) The term “modification” means any Government action that alters the estimated cost of an outstanding direct loan (or direct loan obligation) or an outstanding loan guarantee (or loan guarantee commitment) from the current estimate of cash flows. This includes the sale of loan assets, with or without recourse, and the purchase of guaranteed loans. This also includes any action resulting from new legislation, or from the exercise of administrative discretion under existing law, that directly or indirectly alters the estimated cost of outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments) such as a change in collection procedures.
+(8) The term “loan guarantee commitment” means a binding agreement by the Secretary to make a loan guarantee when specified conditions are fulfilled by the borrower, the lender, or any other party to the guarantee agreement.
+
+(9) The term “master credit agreement” means an agreement to make 1 or more direct loans or loan guarantees at future dates for a program of related projects on terms acceptable to the Secretary.
+
+(10) The term “modification” means any Government action that alters the estimated cost of an outstanding direct loan (or direct loan obligation) or an outstanding loan guarantee (or loan guarantee commitment) from the current estimate of cash flows. This includes the sale of loan assets, with or without recourse, and the purchase of guaranteed loans. This also includes any action resulting from new legislation, or from the exercise of administrative discretion under existing law, that directly or indirectly alters the estimated cost of outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments) such as a change in collection procedures.
+
+(11) The term “project obligation” means a note, bond, debenture, or other debt obligation issued by a borrower in connection with the financing of a project, other than a direct loan or loan guarantee under this subchapter.
+
+(12) The term “railroad” has the meaning given the term “railroad carrier” in [section 20102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section20102&num=0&edition=prelim).
+
+(13) The term “rating agency” means a credit rating agency registered with the Securities and Exchange Commission as a nationally recognized statistical rating organization (as defined in [section 78c(a) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a&num=0&edition=prelim)).
+
+(14) The term “substantial completion” means—
+
+  (A) the opening of a project to passenger or freight traffic; or
+
+  (B) a comparable event, as determined by the Secretary and specified in the terms of the direct loan or loan guarantee provided by the Secretary.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 821, Pub. L. 94–210, title V, § 501, Feb. 5, 1976, 90 Stat. 66; Pub. L. 95–620, title VIII, § 803(c)(1), Nov. 9, 1978, 92 Stat. 3347; Pub. L. 96–101, § 24(b), Nov. 4, 1979, 93 Stat. 747; Pub. L. 96–448, title IV, § 405(d), Oct. 14, 1980, 94 Stat. 1947; Pub. L. 97–35, title XI, § 1162(b), Aug. 13, 1981, 95 Stat. 684; Pub. L. 99–509, title IV, § 4033(c)(2), Oct. 21, 1986, 100 Stat. 1908, defined terms for purposes of this subchapter, prior to repeal by Pub. L. 105–178, title VII, § 7203(a)(1), June 9, 1998, 112 Stat. 471.
 
+#### Amendments
+2015—Pars. (6) to (8). Pub. L. 114–94, § 11602(2), (3), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively. Former par. (8) redesignated (10).
+
+Par. (9). Pub. L. 114–94, § 11602(4), added par. (9).
+
+Par. (10). Pub. L. 114–94, § 11602(1), redesignated par. (8) as (10).
+
+Pars. (11) to (14). Pub. L. 114–94, § 11602(5), added pars. (11) to (14).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Savings Provision
+Pub. L. 114–94, div. A, title XI, § 11607(b), Dec. 4, 2015, 129 Stat. 1699, provided that: “All provisions under sections 502 through 504 [[45 U.S.C. 822](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-822), 823, 836] of the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 801](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-801) et seq.) as they existed on the day before enactment of this Act shall apply to direct loans provided by the Secretary [of Transportation] prior to the date of enactment of this Act [Dec. 4, 2015], and nothing in this title [see Tables for classification] may be construed to limit the payback of a credit risk premium, with interest accrued thereon, if a direct loan provided by the Secretary under such sections has been paid back in full, prior to the date of enactment of this Act.”
+
+Pub. L. 114–94, div. A, title XI, § 11610, Dec. 4, 2015, 129 Stat. 1700, provided that: “(a) In General.—Except as provided in subsection (b) and section 11607(b) [set out above], this subtitle [see Short Title of 2015 Amendment note set out under [section 801 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-801)], and the amendments made by this subtitle, shall not affect any direct loan (or direct loan obligation) or an outstanding loan guarantee (or loan guarantee commitment) that was in effect prior to the date of enactment of this Act [Dec. 4, 2015]. Any such transaction entered into before the date of enactment of this Act shall be administered until completion under its terms as if this Act [div. A of Pub. L. 114–94, see Tables for classification] were not enacted. “(b) Modification Costs.—At the discretion of the Secretary [of Transportation], the authority to accept modification costs on behalf of an applicant under section 502(f) of the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 822(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section822/f&num=0&edition=prelim)), as amended by section 11607 of this Act, may apply with respect to any direct loan (or direct loan obligation) or an outstanding loan guarantee (or loan guarantee commitment) that was in effect prior to the date of enactment of this Act.”
+
 Pub. L. 105–178, title VII, § 7203(b)(2), June 9, 1998, 112 Stat. 477, provided that: “A transaction entered into under the authority of title V of the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 821](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-821) et seq.) before the date of enactment of this Act [June 9, 1998] shall be administered until completion under its terms as if this Act [see Tables for classification] were not enacted.”
 
 
@@ -169,39 +204,55 @@ Pub. L. 105–178, title VII, § 7203(b)(2), June 9, 1998, 112 Stat. 477, provid
 
 (4) railroads;
 
-(5) joint ventures that include at least one railroad; and
+(5) joint ventures that include at least 1 of the entities described in paragraph (1), (2), (3), (4), or (6); and
 
-(6) solely for the purpose of constructing a rail connection between a plant or facility and a second rail carrier, limited option rail freight shippers that own or operate a plant or other facility that is served by no more than a single railroad.
+(6) solely for the purpose of constructing a rail connection between a plant or facility and a railroad, limited option freight shippers that own or operate a plant or other facility.
 
 **(b) Eligible purposes**
 
 (1) **In general** — Direct loans and loan guarantees under this section shall be used to—
 
-  (A) acquire, improve, or rehabilitate intermodal or rail equipment or facilities, including track, components of track, bridges, yards, buildings, and shops;
+  (A) acquire, improve, or rehabilitate intermodal or rail equipment or facilities, including track, components of track, bridges, yards, buildings, and shops, and costs related to these activities, including pre-construction costs;
 
-  (B) refinance outstanding debt incurred for the purposes described in subparagraph (A); or
+  (B) refinance outstanding debt incurred for the purposes described in subparagraph (A) or (C);
 
-  (C) develop or establish new intermodal or railroad facilities.
+  (C) develop or establish new intermodal or railroad facilities;
+
+  (D) reimburse planning and design expenses relating to activities described in subparagraph (A) or (C); or
+
+  (E) finance economic development, including commercial and residential development, and related infrastructure and activities, that—
+
+    (i) incorporates private investment;
+
+    (ii) is physically or functionally related to a passenger rail station or multimodal station that includes rail service;
+
+    (iii) has a high probability of the applicant commencing the contracting process for construction not later than 90 days after the date on which the direct loan or loan guarantee is obligated for the project under this subchapter; and
+
+    (iv) has a high probability of reducing the need for financial assistance under any other Federal program for the relevant passenger rail station or service by increasing ridership, tenant lease payments, or other activities that generate revenue exceeding costs.
 
 (2) **Operating expenses not eligible** — Direct loans and loan guarantees under this section shall not be used for railroad operating expenses.
 
+(3) **Sunset** — The Secretary may provide a direct loan or loan guarantee under this section for a project described in paragraph (1)(E) only during the 4-year period beginning on December 4, 2015.
+
 **(c) Priority projects** In granting applications for direct loans or guaranteed loans under this section, the Secretary shall give priority to projects that—
 
-(1) enhance public safety;
+(1) enhance public safety, including projects for the installation of a positive train control system (as defined in [section 20157(i) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section20157/i&num=0&edition=prelim));
 
-(2) enhance the environment;
+(2) promote economic development;
 
-(3) promote economic development;
+(3) enhance the environment;
 
 (4) enable United States companies to be more competitive in international markets;
 
-(5) are endorsed by the plans prepared under [section 135 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section135&num=0&edition=prelim) by the State or States in which they are located;
+(5) are endorsed by the plans prepared under [section 135 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section135&num=0&edition=prelim) or chapter 227 of title 49 by the State or States in which they are located;
 
-(6) preserve or enhance rail or intermodal service to small communities or rural areas;
+(6) improve railroad stations and passenger facilities and increase transit-oriented development;
 
-(7) enhance service and capacity in the national rail system; or
+(7) preserve or enhance rail or intermodal service to small communities or rural areas;
 
-(8) would materially alleviate rail capacity problems which degrade the provision of service to shippers and would fulfill a need in the national transportation system.
+(8) enhance service and capacity in the national rail system; or
+
+(9) would materially alleviate rail capacity problems which degrade the provision of service to shippers and would fulfill a need in the national transportation system.
 
 **(d) Extent of authority** The aggregate unpaid principal amounts of obligations under direct loans and loan guarantees made under this section shall not exceed $35,000,000,000 at any one time. Of this amount, not less than $7,000,000,000 shall be available solely for projects primarily benefiting freight railroads other than Class I carriers. The Secretary shall not establish any limit on the proportion of the unused amount authorized under this subsection that may be used for 1 loan or loan guarantee.
 
@@ -213,7 +264,7 @@ Pub. L. 105–178, title VII, § 7203(b)(2), June 9, 1998, 112 Stat. 477, provid
 
 **(f) Infrastructure partners**
 
-(1) **Authority of Secretary** — In lieu of or in combination with appropriations of budget authority to cover the costs of direct loans and loan guarantees as required under [section 661c(b)(1) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661c/b/1&num=0&edition=prelim), the Secretary may accept on behalf of an applicant for assistance under this section a commitment from a non-Federal source to fund in whole or in part credit risk premiums with respect to the loan that is the subject of the application. In no event shall the aggregate of appropriations of budget authority and credit risk premiums described in this paragraph with respect to a direct loan or loan guarantee be less than the cost of that direct loan or loan guarantee.
+(1) **Authority of Secretary** — In lieu of or in combination with appropriations of budget authority to cover the costs of direct loans and loan guarantees as required under [section 661c(b)(1) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661c/b/1&num=0&edition=prelim), including the cost of a modification thereof, the Secretary may accept on behalf of an applicant for assistance under this section a commitment from a non-Federal source, including a State or local government or agency or public benefit corporation or public authority thereof, to fund in whole or in part credit risk premiums and modification costs with respect to the loan that is the subject of the application or modification. In no event shall the aggregate of appropriations of budget authority and credit risk premiums described in this paragraph with respect to a direct loan or loan guarantee be less than the cost of that direct loan or loan guarantee.
 
 (2) **Credit risk premium amount** — The Secretary shall determine the amount required for credit risk premiums under this subsection on the basis of—
 
@@ -223,19 +274,33 @@ Pub. L. 105–178, title VII, § 7203(b)(2), June 9, 1998, 112 Stat. 477, provid
 
   (C) historical data on the repayment history of similar borrowers;
 
-  (D) consultation with the Congressional Budget Office;
+  (D) consultation with the Congressional Budget Office; and
 
-  (E) the size and characteristics of the cohort of which the loan or loan guarantee is a member; and
+  (E) any other factors the Secretary considers relevant.
 
-  (F) any other factors the Secretary considers relevant.
+(3) **Creditworthiness** — An applicant may propose and the Secretary shall accept as a basis for determining the amount of the credit risk premium under paragraph (2) any of the following in addition to the value of any tangible asset:
 
-(3) **Payment of premiums** — Credit risk premiums under this subsection shall be paid to the Secretary before the disbursement of loan amounts.
+  (A) The net present value of a future stream of State or local subsidy income or other dedicated revenues to secure the direct loan or loan guarantee.
 
-(4) **Cohorts of loans** — In order to maintain sufficient balances of credit risk premiums to adequately protect the Federal Government from risk of default, while minimizing the length of time the Government retains possession of those balances, the Secretary shall establish cohorts of loans. When all obligations attached to a cohort of loans have been satisfied, credit risk premiums paid for the cohort, and interest accrued thereon, which were not used to mitigate losses shall be returned to the original source on a pro rata basis. A cohort may include loans and loan guarantees. The Secretary shall not establish any limit on the proportion of a cohort that may be used for 1 loan or loan guarantee.
+  (B) Adequate coverage requirements to ensure repayment, on a non-recourse basis, from cash flows generated by the project or any other dedicated revenue source, including—
+
+    (i) tolls;
+
+    (ii) user fees; or
+
+    (iii) payments owing to the obligor under a public-private partnership.
+
+  (C) An investment-grade rating on the direct loan or loan guarantee, as applicable, except that if the total amount of the direct loan or loan guarantee is greater than $75,000,000, the applicant shall have an investment-grade rating from at least 2 rating agencies on the direct loan or loan guarantee.
+
+(4) **Payment of premiums** — Credit risk premiums under this subsection shall be paid to the Secretary before the disbursement of loan amounts (and in the case of a modification, before the modification is executed), to the extent appropriations are not available to the Secretary to meet the costs of direct loans and loan guarantees, including costs of modifications thereof.
 
 **(g) Prerequisites for assistance** The Secretary shall not make a direct loan or loan guarantee under this section unless the Secretary has made a finding in writing that—
 
-(1) repayment of the obligation is required to be made within a term of not more than 35 years from the date of its execution;
+(1) repayment of the obligation is required to be made within a term of not more than the lesser of—
+
+  (A) 35 years after the date of substantial completion of the project; or
+
+  (B) the estimated useful life of the rail equipment or facilities to be acquired, rehabilitated, improved, developed, or established;
 
 (2) the direct loan or loan guarantee is justified by the present and probable future demand for rail services or intermodal facilities;
 
@@ -243,7 +308,7 @@ Pub. L. 105–178, title VII, § 7203(b)(2), June 9, 1998, 112 Stat. 477, provid
 
 (4) the obligation can reasonably be repaid, using an appropriate combination of credit risk premiums and collateral offered by the applicant to protect the Federal Government; and
 
-(5) the purposes of the direct loan or loan guarantee are consistent with subsection (b) of this section.
+(5) the purposes of the direct loan or loan guarantee are consistent with subsection (b).
 
 **(h) Conditions of assistance**
 
@@ -253,9 +318,9 @@ Pub. L. 105–178, title VII, § 7203(b)(2), June 9, 1998, 112 Stat. 477, provid
 
   (B) will, consistent with its capital resources, maintain its capital program, equipment, facilities, and operations on a continuing basis; and
 
-  (C) will not make any discretionary dividend payments that unreasonably conflict with the purposes stated in subsection (b) of this section.
+  (C) will not make any discretionary dividend payments that unreasonably conflict with the purposes stated in subsection (b).
 
-(2) The Secretary shall not require an applicant for a direct loan or loan guarantee under this section to provide collateral. Any collateral provided or thereafter enhanced shall be valued as a going concern after giving effect to the present value of improvements contemplated by the completion and operation of the project. The Secretary shall not require that an applicant for a direct loan or loan guarantee under this section have previously sought the financial assistance requested from another source.
+(2) The Secretary shall not require an applicant for a direct loan or loan guarantee under this section to provide collateral. Any collateral provided or thereafter enhanced shall be valued as a going concern after giving effect to the present value of improvements contemplated by the completion and operation of the project, if applicable. The Secretary shall not require that an applicant for a direct loan or loan guarantee under this section have previously sought the financial assistance requested from another source.
 
 (3) The Secretary shall require recipients of direct loans or loan guarantees under this section to comply with—
 
@@ -263,13 +328,97 @@ Pub. L. 105–178, title VII, § 7203(b)(2), June 9, 1998, 112 Stat. 477, provid
 
   (B) the protective arrangements established under [section 836 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-836), with respect to employees affected by actions taken in connection with the project to be financed by the loan or loan guarantee.
 
-**(i) Time limit for approval or disapproval** Not later than 90 days after receiving a complete application for a direct loan or loan guarantee under this section, the Secretary shall approve or disapprove the application.
+(4) The Secretary shall require each recipient of a direct loan or loan guarantee under this section for a project described in subsection (b)(1)(E) to provide a non-Federal match of not less than 25 percent of the total amount expended by the recipient for such project.
+
+**(i) Application processing procedures**
+
+(1) **Application status notices** — Not later than 30 days after the date that the Secretary receives an application under this section, or additional information and material under paragraph (2)(B), the Secretary shall provide the applicant written notice as to whether the application is complete or incomplete.
+
+(2) **Incomplete applications** — If the Secretary determines that an application is incomplete, the Secretary shall—
+
+  (A) provide the applicant with a description of all of the specific information or material that is needed to complete the application, including any information required by an independent financial analyst; and
+
+  (B) allow the applicant to resubmit the application with the information and material described under subparagraph (A) to complete the application.
+
+(3) **Application approvals and disapprovals**
+
+  (A) *In general* — Not later than 60 days after the date the Secretary notifies an applicant that an application is complete under paragraph (1), the Secretary shall provide the applicant written notice as to whether the Secretary has approved or disapproved the application.
+
+  (B) *Actions by the Office of Management and Budget* — In order to enable compliance with the time limit under subparagraph (A), the Office of Management and Budget shall take any action required with respect to the application within that 60-day period.
+
+(4) **Expedited processing** — The Secretary shall implement procedures and measures to economize the time and cost involved in obtaining an approval or a disapproval of an application for a direct loan or loan guarantee under this subchapter.
+
+(5) **Dashboard** — The Secretary shall post on the Department of Transportation’s Internet Web site a monthly report that includes, for each application—
+
+  (A) the applicant type;
+
+  (B) the location of the project;
+
+  (C) a brief description of the project, including its purpose;
+
+  (D) the requested direct loan or loan guarantee amount;
+
+  (E) the date on which the Secretary provided application status notice under paragraph (1); and
+
+  (F) the date that the Secretary provided notice of approval or disapproval under paragraph (3).
 
 **(j) Repayment schedules**
 
-(1) **In general** — The Secretary shall establish a repayment schedule requiring payments to commence not later than the sixth anniversary date of the original loan disbursement.
+(1) **In general** — The Secretary shall establish a repayment schedule requiring payments to commence not later than 5 years after the date of substantial completion.
 
 (2) **Accrual** — Interest shall accrue as of the date of disbursement, and shall be amortized over the remaining term of the loan beginning at the time the payments begin.
+
+(3) **Deferred payments**
+
+  (A) *In general* — If at any time after the date of substantial completion the obligor is unable to pay the scheduled loan repayments of principal and interest on a direct loan provided under this section, the Secretary, subject to subparagraph (B), may allow, for a maximum aggregate time of 1 year over the duration of the direct loan, the obligor to add unpaid principal and interest to the outstanding balance of the direct loan.
+
+  (B) *Interest* — A payment deferred under subparagraph (A) shall—
+
+    (i) continue to accrue interest under paragraph (2) until the loan is fully repaid; and
+
+    (ii) be scheduled to be amortized over the remaining term of the loan.
+
+(4) **Prepayments**
+
+  (A) *Use of excess revenues* — With respect to a direct loan provided by the Secretary under this section, any excess revenues that remain after satisfying scheduled debt service requirements on the project obligations and direct loan and all deposit requirements under the terms of any trust agreement, bond resolution, or similar agreement securing project obligations may be applied annually to prepay the direct loan without penalty.
+
+  (B) *Use of proceeds of refinancing* — The direct loan may be prepaid at any time without penalty from the proceeds of refinancing from non-Federal funding sources.
+
+**(k) Sale of direct loans**
+
+(1) **In general** — Subject to paragraph (2) and as soon as practicable after substantial completion of a project, the Secretary, after notifying the obligor, may sell to another entity or reoffer into the capital markets a direct loan for the project if the Secretary determines that the sale or reoffering has a high probability of being made on favorable terms.
+
+(2) **Consent of obligor** — In making a sale or reoffering under paragraph (1), the Secretary may not change the original terms and conditions of the secured loan without the prior written consent of the obligor.
+
+**(l) Nonsubordination**
+
+(1) **In general** — Except as provided in paragraph (2), a direct loan provided by the Secretary under this section shall not be subordinated to the claims of any holder of project obligations in the event of bankruptcy, insolvency, or liquidation of the obligor.
+
+(2) **Preexisting indentures**
+
+  (A) *In general* — The Secretary may waive the requirement under paragraph (1) for a public agency borrower that is financing ongoing capital programs and has outstanding senior bonds under a preexisting indenture if—
+
+    (i) the direct loan is rated in the A category or higher;
+
+    (ii) the direct loan is secured and payable from pledged revenues not affected by project performance, such as a tax-based revenue pledge or a system-backed pledge of project revenues; and
+
+    (iii) the program share, under this subchapter, of eligible project costs is 50 percent or less.
+
+  (B) *Limitation* — The Secretary may impose limitations for the waiver of the nonsubordination requirement under this paragraph if the Secretary determines that such limitations would be in the financial interest of the Federal Government.
+
+**(m) Master credit agreements**
+
+(1) **In general** — Subject to subsection (d) and paragraph (2) of this subsection, the Secretary may enter into a master credit agreement that is contingent on all of the conditions for the provision of a direct loan or loan guarantee, as applicable, under this subchapter and other applicable requirements being satisfied prior to the issuance of the direct loan or loan guarantee.
+
+(2) **Conditions** — Each master credit agreement shall—
+
+  (A) establish the maximum amount and general terms and conditions of each applicable direct loan or loan guarantee;
+
+  (B) identify 1 or more dedicated non-Federal revenue sources that will secure the repayment of each applicable direct loan or loan guarantee;
+
+  (C) provide for the obligation of funds for the direct loans or loan guarantees contingent on and after all requirements have been met for the projects subject to the master credit agreement; and
+
+  (D) provide 1 or more dates, as determined by the Secretary, before which the master credit agreement results in each of the direct loans or loan guarantees or in the release of the master credit agreement.
 
 ### Statutory Notes
 
@@ -280,6 +429,54 @@ Section 410(a) of the Amtrak Reform and Accountability Act of 1997, referred to 
 A prior section 822, Pub. L. 94–210, title V, § 502, Feb. 5, 1976, 90 Stat. 67; Pub. L. 95–620, title VIII, § 803(c)(2)–(4), Nov. 9, 1978, 92 Stat. 3347, related to the Rail Fund, prior to repeal by Pub. L. 105–178, title VII, § 7203(a)(1), June 9, 1998, 112 Stat. 471.
 
 #### Amendments
+2015—Subsec. (a)(5). Pub. L. 114–94, § 11603(1), substituted “1 of the entities described in paragraph (1), (2), (3), (4), or (6)” for “one railroad”.
+
+Subsec. (a)(6). Pub. L. 114–94, § 11603(2), amended par. (6) generally. Prior to amendent, par (6) read as follows: “solely for the purpose of constructing a rail connection between a plant or facility and a second rail carrier, limited option rail freight shippers that own or operate a plant or other facility that is served by no more than a single railroad.”
+
+Subsec. (b)(1)(A). Pub. L. 114–94, § 11604(a)(1), inserted “, and costs related to these activities, including pre-construction costs” after “shops”.
+
+Subsec. (b)(1)(B). Pub. L. 114–94, § 11604(a)(2), substituted “subparagraph (A) or (C);” for “subparagraph (A); or”.
+
+Subsec. (b)(1)(D), (E). Pub. L. 114–94, § 11604(a)(3), (4), added subpars. (D) and (E).
+
+Subsec. (b)(3). Pub. L. 114–94, § 11604(c), added par. (3).
+
+Subsec. (c)(1). Pub. L. 114–94, § 11609(a)(1), inserted “, including projects for the installation of a positive train control system (as defined in [section 20157(i) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section20157/i&num=0&edition=prelim))” after “public safety”.
+
+Subsec. (c)(2), (3). Pub. L. 114–94, § 11609(a)(2), redesignated pars. (2) and (3) as (3) and (2), respectively.
+
+Subsec. (c)(5). Pub. L. 114–94, § 11609(a)(3), inserted “or chapter 227 of title 49” after “[section 135 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section135&num=0&edition=prelim)”.
+
+Subsec. (c)(6) to (9). Pub. L. 114–94, § 11609(a)(4), (5), added par. (6) and redesignated former pars. (6) to (8) as (7) to (9), respectively.
+
+Subsec. (f)(1). Pub. L. 114–94, § 11607(a)(1), substituted “In lieu of or in combination with appropriations of budget authority to cover the costs of direct loans and loan guarantees as required under [section 661c(b)(1) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661c/b/1&num=0&edition=prelim), including the cost of a modification thereof, the Secretary may accept on behalf of an applicant for assistance under this section a commitment from a non-Federal source, including a State or local government or agency or public benefit corporation or public authority thereof, to fund in whole or in part credit risk premiums and modification costs with respect to the loan that is the subject of the application or modification.” for “In lieu of or in combination with appropriations of budget authority to cover the costs of direct loans and loan guarantees as required under [section 661c(b)(1) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661c/b/1&num=0&edition=prelim), the Secretary may accept on behalf of an applicant for assistance under this section a commitment from a non-Federal source to fund in whole or in part credit risk premiums with respect to the loan that is the subject of the application.”
+
+Subsec. (f)(2)(D) to (F). Pub. L. 114–94, § 11607(a)(2), inserted “and” at end of subpar. (D), redesignated subpar. (F) as (E), and struck out former subpar. (E) which read as follows: “the size and characteristics of the cohort of which the loan or loan guarantee is a member; and”.
+
+Subsec. (f)(3). Pub. L. 114–94, § 11607(a)(5), added par. (3). Former par. (3) redesignated (4).
+
+Subsec. (f)(4). Pub. L. 114–94, § 11607(a)(4), (6), redesignated par. (3) as (4) and substituted “amounts (and in the case of a modification, before the modification is executed), to the extent appropriations are not available to the Secretary to meet the costs of direct loans and loan guarantees, including costs of modifications thereof” for “amounts”.
+
+Pub. L. 114–94, § 11607(a)(3), struck out par. (4). Text read as follows: “In order to maintain sufficient balances of credit risk premiums to adequately protect the Federal Government from risk of default, while minimizing the length of time the Government retains possession of those balances, the Secretary shall establish cohorts of loans. When all obligations attached to a cohort of loans have been satisfied, credit risk premiums paid for the cohort, and interest accrued thereon, which were not used to mitigate losses shall be returned to the original source on a pro rata basis. A cohort may include loans and loan guarantees. The Secretary shall not establish any limit on the proportion of a cohort that may be used for 1 loan or loan guarantee.”
+
+Subsec. (g)(1). Pub. L. 114–94, § 11606(a), substituted “the lesser of—” for “35 years from the date of its execution;” and added subpars. (A) and (B).
+
+Subsec. (h)(2). Pub. L. 114–94, § 11609(b), inserted “, if applicable” after “project”.
+
+Subsec. (h)(4). Pub. L. 114–94, § 11604(b), added par. (4).
+
+Subsec. (i). Pub. L. 114–94, § 11605(a), amended subsec. (i) generally. Prior to amendment, text read as follows: “Not later than 90 days after receiving a complete application for a direct loan or loan guarantee under this section, the Secretary shall approve or disapprove the application.”
+
+Subsec. (j)(1). Pub. L. 114–94, § 11606(b)(1), substituted “5 years after the date of substantial completion” for “the sixth anniversary date of the original loan disbursement”.
+
+Subsec. (j)(3), (4). Pub. L. 114–94, § 11606(b)(2), added pars. (3) and (4).
+
+Subsec. (k). Pub. L. 114–94, § 11606(c), added subsec. (k).
+
+Subsec. (l). Pub. L. 114–94, § 11606(d), added subsec. (l).
+
+Subsec. (m). Pub. L. 114–94, § 11608, added subsec. (m).
+
 2008—Subsec. (g)(1). Pub. L. 110–432 substituted “35 years” for “25 years”.
 
 2005—Subsec. (a). Pub. L. 109–59, § 9003(b), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may provide direct loans and loan guarantees to State and local governments, government sponsored authorities and corporations, railroads, and joint ventures that include at least 1 railroad.”
@@ -298,29 +495,34 @@ Subsec. (h). Pub. L. 109–59, § 9003(f)(1), designated existing provisions as 
 
 Subsecs. (i), (j). Pub. L. 109–59, § 9003(g), added subsecs. (i) and (j).
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Substantive Criteria and Standards
 Pub. L. 109–59, title IX, § 9003(j), Aug. 10, 2005, 119 Stat. 1923, provided that: “Not later than 30 days after the date of enactment of this Act [Aug. 10, 2005], the Secretary of Transportation shall publish in the Federal Register and post on the Department of Transportation Web site the substantive criteria and standards used by the Secretary to determine whether to approve or disapprove applications submitted under section 502 of the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 822](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-822)). The Secretary of Transportation shall ensure adequate procedures and guidelines are in place to permit the filing of complete applications within 30 days of such publication.”
 
 
 <a id="section-823"></a>
 ## § 823. Administration of direct loans and loan guarantees
-**(a) Applications** The Secretary shall prescribe the form and contents required of applications for assistance under [section 822 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-822), to enable the Secretary to determine the eligibility of the applicant’s proposal, and shall establish terms and conditions for direct loans and loan guarantees made under that section.
+**(a) Applications** The Secretary shall prescribe the form and contents required of applications for assistance under [section 822 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-822), to enable the Secretary to determine the eligibility of the applicant’s proposal, and shall establish terms and conditions for direct loans and loan guarantees made under that section, including a program guide, a standard term sheet, and specific timetables.
 
-**(b) 11 So in original. There are two subsections designated (b). Full faith and credit** All guarantees entered into by the Secretary under [section 822 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-822) shall constitute general obligations of the United States of America backed by the full faith and credit of the United States of America.
+**(b) Full faith and credit** All guarantees entered into by the Secretary under [section 822 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-822) shall constitute general obligations of the United States of America backed by the full faith and credit of the United States of America.
 
-**(b) 1 Assignment of loan guarantees** The holder of a loan guarantee made under [section 822 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-822) may assign the loan guarantee in whole or in part, subject to such requirements as the Secretary may prescribe.
+**(c) Assignment of loan guarantees** The holder of a loan guarantee made under [section 822 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-822) may assign the loan guarantee in whole or in part, subject to such requirements as the Secretary may prescribe.
 
-**(c) Modifications** The Secretary may approve the modification of any term or condition of a direct loan, loan guarantee, direct loan obligation, or loan guarantee commitment, including the rate of interest, time of payment of interest or principal, or security requirements, if the Secretary finds in writing that—
+**(d) Modifications** The Secretary may approve the modification of any term or condition of a direct loan, loan guarantee, direct loan obligation, or loan guarantee commitment, including the rate of interest, time of payment of interest or principal, or security requirements, if the Secretary finds in writing that—
 
-(1) the modification is equitable and is in the overall best interests of the United States; and
+(1) the modification is equitable and is in the overall best interests of the United States;
 
-(2) consent has been obtained from the applicant and, in the case of a loan guarantee or loan guarantee commitment, the holder of the obligation.
+(2) consent has been obtained from the applicant and, in the case of a loan guarantee or loan guarantee commitment, the holder of the obligation; and
 
-**(d) Compliance** The Secretary shall assure compliance, by an applicant, any other party to the loan, and any railroad or railroad partner for whose benefit assistance is intended, with the provisions of this subchapter, regulations issued hereunder, and the terms and conditions of the direct loan or loan guarantee, including through regular periodic inspections.
+(3) the modification cost has been covered under [section 822(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section822/f&num=0&edition=prelim).
 
-**(e) Commercial validity** For purposes of claims by any party other than the Secretary, a loan guarantee or loan guarantee commitment shall be conclusive evidence that the underlying obligation is in compliance with the provisions of this subchapter, and that such obligation has been approved and is legal as to principal, interest, and other terms. Such a guarantee or commitment shall be valid and incontestable in the hands of a holder thereof, including the original lender or any other holder, as of the date when the Secretary granted the application therefor, except as to fraud or material misrepresentation by such holder.
+**(e) Compliance** The Secretary shall assure compliance, by an applicant, any other party to the loan, and any railroad or railroad partner for whose benefit assistance is intended, with the provisions of this subchapter, regulations issued hereunder, and the terms and conditions of the direct loan or loan guarantee, including through regular periodic inspections.
 
-**(f) Default** The Secretary shall prescribe regulations setting forth procedures in the event of default on a loan made or guaranteed under [section 822 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-822). The Secretary shall ensure that each loan guarantee made under that section contains terms and conditions that provide that—
+**(f) Commercial validity** For purposes of claims by any party other than the Secretary, a loan guarantee or loan guarantee commitment shall be conclusive evidence that the underlying obligation is in compliance with the provisions of this subchapter, and that such obligation has been approved and is legal as to principal, interest, and other terms. Such a guarantee or commitment shall be valid and incontestable in the hands of a holder thereof, including the original lender or any other holder, as of the date when the Secretary granted the application therefor, except as to fraud or material misrepresentation by such holder.
+
+**(g) Default** The Secretary shall prescribe regulations setting forth procedures in the event of default on a loan made or guaranteed under [section 822 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-822). The Secretary shall ensure that each loan guarantee made under that section contains terms and conditions that provide that—
 
 (1) if a payment of principal or interest under the loan is in default for more than 30 days, the Secretary shall pay to the holder of the obligation, or the holder’s agent, the amount of unpaid guaranteed interest;
 
@@ -332,26 +534,52 @@ Pub. L. 109–59, title IX, § 9003(j), Aug. 10, 2005, 119 Stat. 1923, provided 
 
 (5) the holder of the obligation shall not receive payment or be entitled to retain payment in a total amount which, together with all other recoveries (including any recovery based upon a security interest in equipment or facilities) exceeds the actual loss of such holder.
 
-**(g) Rights of the Secretary**
+**(h) Rights of the Secretary**
 
-(1) **Subrogation** — If the Secretary makes payment to a holder, or a holder’s agent, under subsection (g) of this section in connection with a loan guarantee made under [section 822 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-822), the Secretary shall be subrogated to all of the rights of the holder with respect to the obligor under the loan.
+(1) **Subrogation** — If the Secretary makes payment to a holder, or a holder’s agent, under subsection (g) in connection with a loan guarantee made under [section 822 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-822), the Secretary shall be subrogated to all of the rights of the holder with respect to the obligor under the loan.
 
 (2) **Disposition of property** — The Secretary may complete, recondition, reconstruct, renovate, repair, maintain, operate, charter, rent, sell, or otherwise dispose of any property or other interests obtained pursuant to this section. The Secretary shall not be subject to any Federal or State regulatory requirements when carrying out this paragraph.
 
-**(h) Action against obligor** The Secretary may bring a civil action in an appropriate Federal court in the name of the United States in the event of a default on a direct loan made under [section 822 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-822), or in the name of the United States or of the holder of the obligation in the event of a default on a loan guaranteed under [section 822 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-822). The holder of a guarantee shall make available to the Secretary all records and evidence necessary to prosecute the civil action. The Secretary may accept property in full or partial satisfaction of any sums owed as a result of a default. If the Secretary receives, through the sale or other disposition of such property, an amount greater than the aggregate of—
+**(i) Action against obligor** The Secretary may bring a civil action in an appropriate Federal court in the name of the United States in the event of a default on a direct loan made under [section 822 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-822), or in the name of the United States or of the holder of the obligation in the event of a default on a loan guaranteed under [section 822 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-822). The holder of a guarantee shall make available to the Secretary all records and evidence necessary to prosecute the civil action. The Secretary may accept property in full or partial satisfaction of any sums owed as a result of a default. If the Secretary receives, through the sale or other disposition of such property, an amount greater than the aggregate of—
 
 (1) the amount paid to the holder of a guarantee under subsection (g) of this section; and
 
 (2) any other cost to the United States of remedying the default,
 the Secretary shall pay such excess to the obligor.
 
-**(i) Breach of conditions** The Attorney General shall commence a civil action in an appropriate Federal court to enjoin any activity which the Secretary finds is in violation of this subchapter, regulations issued hereunder, or any conditions which were duly agreed to, and to secure any other appropriate relief.
+**(j) Breach of conditions** The Attorney General shall commence a civil action in an appropriate Federal court to enjoin any activity which the Secretary finds is in violation of this subchapter, regulations issued hereunder, or any conditions which were duly agreed to, and to secure any other appropriate relief.
 
-**(j) Attachment** No attachment or execution may be issued against the Secretary, or any property in the control of the Secretary, prior to the entry of final judgment to such effect in any State, Federal, or other court.
+**(k) Attachment** No attachment or execution may be issued against the Secretary, or any property in the control of the Secretary, prior to the entry of final judgment to such effect in any State, Federal, or other court.
 
-**(k) Evaluation charge** The Secretary may charge and collect from each applicant a reasonable charge for the cost of evaluating the application, including appraisal of the value of the equipment or facilities for which the direct loan or loan guarantee is sought, and for making necessary determinations and findings. Such charge shall not aggregate more than one-half of 1 percent of the principal amount of the obligation. Amounts collected under this subsection shall be credited directly to the Safety and Operations account of the Federal Railroad Administration, and shall remain available until expended to pay for the evaluation costs described in this subsection.
+**(l) Charges and loan servicing**
 
-**(l) Fees and charges** Except as provided in this subchapter, the Secretary may not assess any fees, including user fees, or charges in connection with a direct loan or loan guarantee provided under [section 822 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-822).
+(1) **Purposes** — The Secretary may collect from each applicant, obligor, or loan party a reasonable charge for—
+
+  (A) the cost of evaluating the application, amendments, modifications, and waivers, including for evaluating project viability, applicant creditworthiness, and the appraisal of the value of the equipment or facilities for which the direct loan or loan guarantee is sought, and for making necessary determinations and findings;
+
+  (B) the cost of award management and project management oversight;
+
+  (C) the cost of services from expert firms, including counsel, and independent financial advisors to assist in the underwriting, auditing, servicing, and exercise of rights with respect to direct loans and loan guarantees; and
+
+  (D) the cost of all other expenses incurred as a result of a breach of any term or condition or any event of default on a direct loan or loan guarantee.
+
+(2) **Standards** — The Secretary may charge different amounts under this subsection based on the different costs incurred under paragraph (1).
+
+(3) **Servicer**
+
+  (A) *In general* — The Secretary may appoint a financial entity to assist the Secretary in servicing a direct loan or loan guarantee under this subchapter.
+
+  (B) *Duties* — A servicer appointed under subparagraph (A) shall act as the agent of the Secretary in serving a direct loan or loan guarantee under this subchapter.
+
+  (C) *Fees* — A servicer appointed under subparagraph (A) shall receive a servicing fee from the obligor or other loan party, subject to approval by the Secretary.
+
+(4) **Safety and operations account** — Amounts collected under this subsection shall—
+
+  (A) be credited directly to the Safety and Operations account of the Federal Railroad Administration; and
+
+  (B) remain available until expended to pay for the costs described in this subsection.
+
+**(m) Fees and charges** Except as provided in this subchapter, the Secretary may not assess any fees, including user fees, or charges in connection with a direct loan or loan guarantee provided under [section 822 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-822).
 
 ### Statutory Notes
 
@@ -362,11 +590,30 @@ The text of [section 831(c) of this title](https://uscode.house.gov/view.xhtml?r
 A prior section 823, Pub. L. 94–210, title V, § 503, Feb. 5, 1976, 90 Stat. 69; Pub. L. 94–555, title II, § 216(b), Oct. 19, 1976, 90 Stat. 2627, related to classification and designation of rail lines, prior to repeal by Pub. L. 105–178, title VII, § 7203(a)(1), June 9, 1998, 112 Stat. 471.
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–94, § 11605(b)(1), inserted “, including a program guide, a standard term sheet, and specific timetables” before period at end.
+
+Subsecs. (b), (c). Pub. L. 114–94, § 11605(b)(3), redesignated subsec. (b), relating to assignment of loan guarantees, as (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 114–94, § 11605(b)(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (d)(3). Pub. L. 114–94, § 11605(b)(4), added par. (3).
+
+Subsecs. (e) to (k). Pub. L. 114–94, § 11605(b)(2), redesignated subsecs. (d) to (j) as (e) to (k), respectively. Former subsec. (k) redesignated (l).
+
+Subsec. (l). Pub. L. 114–94, § 11605(b)(5), added subsec. (l) and struck out former subsec. (l). Prior to amendment, text read as follows: “The Secretary may charge and collect from each applicant a reasonable charge for the cost of evaluating the application, including appraisal of the value of the equipment or facilities for which the direct loan or loan guarantee is sought, and for making necessary determinations and findings. Such charge shall not aggregate more than one-half of 1 percent of the principal amount of the obligation. Amounts collected under this subsection shall be credited directly to the Safety and Operations account of the Federal Railroad Administration, and shall remain available until expended to pay for the evaluation costs described in this subsection.”
+
+Pub. L. 114–94, § 11605(b)(2), redesignated subsec. (k) as (l). Former subsec. (l) redesignated (m).
+
+Subsec. (m). Pub. L. 114–94, § 11605(b)(2), redesignated subsec. (l) as (m).
+
 2005—Subsec. (k). Pub. L. 109–59, § 9003(h), in heading, substituted “Evaluation” for “Investigation” and, in text, inserted “the cost of evaluating the application, including” after “reasonable charge for” and inserted at end “Amounts collected under this subsection shall be credited directly to the Safety and Operations account of the Federal Railroad Administration, and shall remain available until expended to pay for the evaluation costs described in this subsection.”
 
 Subsec. (l). Pub. L. 109–59, § 9003(i), added subsec. (l).
 
 1998—Subsec. (b). Pub. L. 105–178, § 7203(a)(4), redesignated subsec. (c) of [section 831 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-831) as subsec. (b) of this section, relating to full faith and credit backing of guarantees entered into by Secretary. See Codification note above.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-824-825"></a>
@@ -472,7 +719,7 @@ Section 838, Pub. L. 94–210, title V, § 518, as added Pub. L. 102–533, § 1
 
 ### Statutory Notes
 
-Section, Pub. L. 94–210, title VII, § 701, Feb. 5, 1976, 90 Stat. 119; Pub. L. 96–254, title II, § 205, May 30, 1980, 94 Stat. 412, specified powers and duties of National Railroad Passenger Corporation with respect to implementing the Northeast Corridor improvement project. See sections 24102, 24305, 24315, 24902, and 24904 of Title 49, Transportation.
+Section, Pub. L. 94–210, title VII, § 701, Feb. 5, 1976, 90 Stat. 119; Pub. L. 96–254, title II, § 205, May 30, 1980, 94 Stat. 412, specified powers and duties of National Railroad Passenger Corporation with respect to implementing the Northeast Corridor improvement project. See sections 24102, 24305, 24315, 24902, and 24903 of Title 49, Transportation.
 
 
 <a id="section-852"></a>
@@ -493,9 +740,9 @@ Repeal effective Oct. 1, 1981, see section 1189 of Pub. L. 97–35.
 
 Section 853, Pub. L. 94–210, title VII, § 703, Feb. 5, 1976, 90 Stat. 121; Pub. L. 95–421, §§ 5, 8, Oct. 5, 1978, 92 Stat. 926, 927; Pub. L. 96–254, title II, §§ 202, 203, 209, May 30, 1980, 94 Stat. 410, 414; Pub. L. 97–468, title III, § 301(1), Jan. 14, 1983, 96 Stat. 2547; Pub. L. 99–272, title IV, § 4007(d), Apr. 7, 1986, 100 Stat. 108, enumerated goals of Northeast Corridor improvement project. See [section 24902 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section24902&num=0&edition=prelim), Transportation.
 
-Section 854, Pub. L. 94–210, title VII, § 704, Feb. 5, 1976, 90 Stat. 122; Pub. L. 94–555, title II, § 217, Oct. 19, 1976, 90 Stat. 2627; Pub. L. 95–421, § 9, Oct. 5, 1978, 92 Stat. 928; Pub. L. 96–254, title II, §§ 204(a), (b), 210, May 30, 1980, 94 Stat. 411, 414; Pub. L. 97–35, title XI, § 1193, Aug. 13, 1981, 95 Stat. 701; Pub. L. 97–468, title III, § 301(2)–(4), Jan. 14, 1983, 96 Stat. 2548, 2549; Pub. L. 100–342, § 6, June 22, 1988, 102 Stat. 627, related to funding of Northeast Corridor improvement project. See sections 24104, 24902, 24904, 24907, and 24909 of Title 49.
+Section 854, Pub. L. 94–210, title VII, § 704, Feb. 5, 1976, 90 Stat. 122; Pub. L. 94–555, title II, § 217, Oct. 19, 1976, 90 Stat. 2627; Pub. L. 95–421, § 9, Oct. 5, 1978, 92 Stat. 928; Pub. L. 96–254, title II, §§ 204(a), (b), 210, May 30, 1980, 94 Stat. 411, 414; Pub. L. 97–35, title XI, § 1193, Aug. 13, 1981, 95 Stat. 701; Pub. L. 97–468, title III, § 301(2)–(4), Jan. 14, 1983, 96 Stat. 2548, 2549; Pub. L. 100–342, § 6, June 22, 1988, 102 Stat. 627, related to funding of Northeast Corridor improvement project. See sections 24902, 24903, 24907, and 24909 of Title 49.
 
-Section 855, Pub. L. 94–210, title VII, § 705, as added Pub. L. 96–254, title II, § 206(a), May 30, 1980, 94 Stat. 412; amended Pub. L. 97–468, title III, § 301(5), Jan. 14, 1983, 96 Stat. 2550, related to transfers of authority with respect to track improvements and implementation of Northeast Corridor improvement project goals. See sections 24902, 24904, and 24909 of Title 49.
+Section 855, Pub. L. 94–210, title VII, § 705, as added Pub. L. 96–254, title II, § 206(a), May 30, 1980, 94 Stat. 412; amended Pub. L. 97–468, title III, § 301(5), Jan. 14, 1983, 96 Stat. 2550, related to transfers of authority with respect to track improvements and implementation of Northeast Corridor improvement project goals. See sections 24902, 24903, and 24909 of Title 49.
 
 
 <a id="section-856"></a>
@@ -503,7 +750,7 @@ Section 855, Pub. L. 94–210, title VII, § 705, as added Pub. L. 96–254, tit
 
 ### Statutory Notes
 
-Section, Pub. L. 94–210, title VII, § 708, as added Pub. L. 102–533, § 4(a), Oct. 27, 1992, 106 Stat. 3516, directed Secretary to develop and report to Congress within one year after Oct. 27, 1992, on a program master plan for improvements in passenger service between Boston and New York. See [section 24903 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section24903&num=0&edition=prelim), Transportation.
+Section, Pub. L. 94–210, title VII, § 708, as added Pub. L. 102–533, § 4(a), Oct. 27, 1992, 106 Stat. 3516, directed Secretary to develop and report to Congress within one year after Oct. 27, 1992, on a program master plan for improvements in passenger service between Boston and New York.
 
 #### Effective Date of Repeal
 Pub. L. 103–429, § 7(a)(1), Oct. 31, 1994, 108 Stat. 4388, provided that the repeal by section 7(a)(1) is effective July 5, 1994.

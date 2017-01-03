@@ -113,7 +113,7 @@ Amendment by act Aug. 7, 1956, as applicable to all works of improvement and pla
 ## § 1003a. Cost share assistance
 **(a) Easements** The Secretary may provide cost share assistance to project sponsors to enable such sponsors to acquire perpetual wetland or floodplain conservation easements to perpetuate, restore and enhance the natural capability of wetlands and floodplains to retain excessive floodwaters, improve water quality and quantity, and provide habitat for fish and wildlife.
 
-**(b) Amount** The Secretary shall require that project sponsors of watershed projects provide up to 50 percent of the cost of acquiring easements under subsection (a) of this section.
+**(b) Amount** The Secretary shall require that project sponsors of watershed projects provide up to 50 percent of the cost of acquiring easements under subsection (a).
 
 
 <a id="section-1004"></a>
@@ -559,7 +559,7 @@ Pub. L. 105–83, title III, § 334, Nov. 14, 1997, 111 Stat. 1601.
 
 (1) **Performance of operation and maintenance** — Rehabilitation assistance provided under this section may not be used to perform operation and maintenance activities specified in the agreement for the covered water resource project entered into between the Secretary and the local organization responsible for the works of improvement. Such operation and maintenance activities shall remain the responsibility of the local organization, as provided in the project work plan.
 
-(2) **Renegotiation** — Notwithstanding paragraph (1), as part of the provision of financial assistance under subsection (b) of this section, the Secretary may renegotiate the original agreement for the covered water resource project entered into between the Secretary and the local organization regarding responsibility for the operation and maintenance of the project when the rehabilitation is finished.
+(2) **Renegotiation** — Notwithstanding paragraph (1), as part of the provision of financial assistance under subsection (b), the Secretary may renegotiate the original agreement for the covered water resource project entered into between the Secretary and the local organization regarding responsibility for the operation and maintenance of the project when the rehabilitation is finished.
 
 **(e) Application for rehabilitation assistance** A local organization may apply to the Secretary for technical and financial assistance under this section if the application has also been submitted to and approved by the State agency having supervisory responsibility over the covered water resource project at issue or, if there is no State agency having such responsibility, by the Governor of the State. The Secretary shall request the State dam safety officer (or equivalent State official) to be involved in the application process if State permits or approvals are required. The rehabilitation of structural measures shall meet standards established by the Secretary and address other dam safety issues. At the request of the local organization, personnel of the Natural Resources Conservation Service of the Department of Agriculture may assist in preparing applications for assistance.
 

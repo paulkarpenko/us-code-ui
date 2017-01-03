@@ -118,7 +118,7 @@ This chapter, referred to in subsecs. (a) and (d)(2) to (4), was in the original
 
 <a id="section-7304"></a>
 ## § 7304. Briefings, hearings, witnesses, and subpoenas
-**(a) General authority** The Director or his designee, on behalf of a Team, may conduct hearings, administer oaths, and require, by subpoena (pursuant to subsection (e) of this section) and otherwise, necessary witnesses and evidence as necessary to carry out this chapter.
+**(a) General authority** The Director or his designee, on behalf of a Team, may conduct hearings, administer oaths, and require, by subpoena (pursuant to subsection (e)) and otherwise, necessary witnesses and evidence as necessary to carry out this chapter.
 
 **(b) Briefings** The Director or his designee (who may be the leader or a member of a Team), on behalf of a Team, shall hold regular public briefings on the status of investigative proceedings and findings, including a final briefing after the report required by [section 7307 of this title](./chapter-099-national-construction-safety-team.md#section-7307) is issued.
 
@@ -169,11 +169,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 ## § 7306. Disclosure of information
 **(a) General rule** Except as otherwise provided in this section, a copy of a record, information, or investigation submitted or received by a Team shall be made available to the public on request and at reasonable cost.
 
-**(b) Exceptions** Subsection (a) of this section does not require the release of—
+**(b) Exceptions** Subsection (a) does not require the release of—
 
 (1) information described by [section 552(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b&num=0&edition=prelim) or protected from disclosure by any other law of the United States; or
 
-(2) information described in subsection (a) of this section by the National Institute of Standards and Technology or by a Team until the report required by [section 7307 of this title](./chapter-099-national-construction-safety-team.md#section-7307) is issued.
+(2) information described in subsection (a) by the National Institute of Standards and Technology or by a Team until the report required by [section 7307 of this title](./chapter-099-national-construction-safety-team.md#section-7307) is issued.
 
 **(c) Protection of voluntary submission of information** Notwithstanding any other provision of law, a Team, the National Institute of Standards and Technology, and any agency receiving information from a Team or the National Institute of Standards and Technology, shall not disclose voluntarily provided safety-related information if that information is not directly related to the building failure being investigated and the Director finds that the disclosure of the information would inhibit the voluntary provision of that type of information.
 

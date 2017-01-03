@@ -128,15 +128,15 @@ Amendment by Pub. L. 99–272, effective Oct. 18, 1986, see section 14001(e) of 
 ## § 3503. Establishment of John H. Chafee Coastal Barrier Resources System
 **(a) Establishment** There is established the John H. Chafee Coastal Barrier Resources System, which shall consist of those undeveloped coastal barriers and other areas located on the coasts of the United States that are identified and generally depicted on the maps on file with the Secretary entitled “Coastal Barrier Resources System”, dated October 24, 1990, as those maps may be modified, revised, or corrected under—
 
-(1) subsection (f)(3) of this section;
+(1) subsection (f)(3);
 
 (2) section 4 of the Coastal Barrier Improvement Act of 1990 ([16 U.S.C. 3503](./chapter-055-coastal-barrier-resources.md#section-3503) note; Public Law 101–591); or
 
 (3) any other provision of law enacted on or after November 16, 1990, that specifically authorizes the modification, revision, or correction.
 
-**(b) System maps** The Secretary shall keep the maps referred to in subsection (a) of this section on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service, and in such other offices of that service as the Director considers appropriate.
+**(b) System maps** The Secretary shall keep the maps referred to in subsection (a) on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service, and in such other offices of that service as the Director considers appropriate.
 
-**(c) Boundary review and modification** At least once every 5 years, the Secretary shall review the maps referred to in subsection (a) of this section and shall make, in consultation with the appropriate State, local, and Federal officials, such minor and technical modifications to the boundaries of System units as are necessary solely to reflect changes that have occurred in the size or location of any System unit as a result of natural forces.
+**(c) Boundary review and modification** At least once every 5 years, the Secretary shall review the maps referred to in subsection (a) and shall make, in consultation with the appropriate State, local, and Federal officials, such minor and technical modifications to the boundaries of System units as are necessary solely to reflect changes that have occurred in the size or location of any System unit as a result of natural forces.
 
 **(d) Additions to System** The Secretary may add a parcel of real property to the System, if—
 
@@ -156,7 +156,7 @@ Amendment by Pub. L. 99–272, effective Oct. 18, 1986, see section 14001(e) of 
 
 **(f) Maps** The Secretary shall—
 
-(1) keep a map showing the location of each boundary modification made under subsection (c) of this section and of each parcel of real property added to the System under subsection (d) or (e) of this section on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service and in such other offices of the Service as the Director considers appropriate;
+(1) keep a map showing the location of each boundary modification made under subsection (c) and of each parcel of real property added to the System under subsection (d) or (e) on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service and in such other offices of the Service as the Director considers appropriate;
 
 (2) provide a copy of the map to—
 
@@ -166,7 +166,7 @@ Amendment by Pub. L. 99–272, effective Oct. 18, 1986, see section 14001(e) of 
 
   (C) the Federal Emergency Management Agency; and
 
-(3) revise the maps referred to in subsection (a) of this section to reflect each boundary modification under subsection (c) of this section and each addition of real property to the System under subsection (d) or (e) of this section, after publishing in the Federal Register a notice of any such proposed revision.
+(3) revise the maps referred to in subsection (a) to reflect each boundary modification under subsection (c) and each addition of real property to the System under subsection (d) or (e), after publishing in the Federal Register a notice of any such proposed revision.
 
 **(g) Guidelines for certain recommendations and determinations**
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 99–272, effective Oct. 18, 1986, see section 14001(e) of 
 
   (B) covers an area of at least 200 square feet.
 
-(3) **Savings clause** — Nothing in this subsection supersedes the official maps referred to in subsection (a) of this section.
+(3) **Savings clause** — Nothing in this subsection supersedes the official maps referred to in subsection (a).
 
 ### Statutory Notes
 
@@ -241,6 +241,10 @@ Pub. L. 106–167, § 3(a), (b), Dec. 9, 1999, 113 Stat. 1804, provided that: �
 
 #### Revision of Maps for Units of System
 The following acts directed the Secretary of the Interior to make technical revisions and corrections to maps relating to particular units of the John H. Chafee Coastal Barrier Resources System:
+
+Pub. L. 114–314, § 1, Dec. 16, 2016, 130 Stat. 1535.
+
+Pub. L. 114–128, § 1, Feb. 29, 2016, 130 Stat. 287.
 
 Pub. L. 113–253, Dec. 18, 2014, 128 Stat. 2895.
 
@@ -352,9 +356,9 @@ Subsec. (b)(2). Pub. L. 101–591, § 2(b)(2)(C), struck out “of enactment” 
 
   (G) Nonstructural projects for shoreline stabilization that are designed to mimic, enhance, or restore a natural stabilization system.
 
-**(b) Existing Federal navigation channels** For purposes of subsection (a)(2) of this section, a Federal navigation channel or a related structure is an existing channel or structure, respectively, if it was authorized before the date on which the relevant System unit or portion of the System unit was included within the System.
+**(b) Existing Federal navigation channels** For purposes of subsection (a)(2), a Federal navigation channel or a related structure is an existing channel or structure, respectively, if it was authorized before the date on which the relevant System unit or portion of the System unit was included within the System.
 
-**(c) Expansion of highways in Michigan** The limitations on the use of Federal expenditures or financial assistance within the System under subsection (a)(3) of this section shall not apply to a highway—
+**(c) Expansion of highways in Michigan** The limitations on the use of Federal expenditures or financial assistance within the System under subsection (a)(3) shall not apply to a highway—
 
 (1) located in a unit of the System in Michigan; and
 
@@ -382,7 +386,7 @@ Section 1362 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4103](https
 The National Flood Insurance Act of 1968, referred to in subsec. (d)(2), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4001&num=0&edition=prelim) and Tables.
 
 #### Amendments
-2014—Subsec. (a)(6)(C). Pub. L. 113–287, which directed the substitution of “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–4 through 11)” in section 6(a)(6)(C) of the Coastal Barrier Act of 1968, was executed to this section, which is section 6 of the Coastal Barrier Resources Act, to reflect the probable intent of Congress.
+2014—Subsec. (a)(6)(C). Pub. L. 113–287, which directed the substitution of “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–4 through 11)” in section 6(a)(6)(C) of the Coastal Barrier Act of 1968, was executed by making the substitution for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 4601–4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4601–4&num=0&edition=prelim) through 11)” in this section, which is section 6 of the Coastal Barrier Resources Act, to reflect the probable intent of Congress.
 
 1990—Pub. L. 101–591 amended section generally, substituting substantially similar provisions in subsec. (a), substituting “a Federal navigation channel or a related structure is an existing channel or structure, respectively, if it was authorized before the date on which the relevant System unit or portion of the System unit was included within the System” for “a channel improvement or a related structure shall be treated as an existing improvement or an existing related structure only if all, or a portion, of the moneys for such improvement or structure was appropriated before October 18, 1982” in subsec. (b), and adding subsecs. (c) and (d).
 

@@ -2059,6 +2059,8 @@ Section was formerly classified to [section 568a of Title 5](https://uscode.hous
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
+Pub. L. 113–235, div. A, title I, Dec. 16, 2014, 128 Stat. 2138.
+
 Pub. L. 113–76, div. A, title I, Jan. 17, 2014, 128 Stat. 11.
 
 Pub. L. 113–6, div. A, title I, Mar. 26, 2013, 127 Stat. 203.
@@ -2855,7 +2857,7 @@ Pub. L. 101–506, title VI, § 641, Nov. 5, 1990, 104 Stat. 1350.
 
   (E) Any other institution of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)) that has demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged farmers and ranchers in a region.
 
-  (F) An Indian tribe (as defined in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)) or a national tribal organization that has demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged farmers and ranchers in a region.
+  (F) An Indian tribe (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)) or a national tribal organization that has demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged farmers and ranchers in a region.
 
   (G) An organization or institution that received funding under subsection (a) before January 1, 1996, but only with respect to projects that the Secretary considers are similar to projects previously carried out by the organization or institution under such subsection.
 

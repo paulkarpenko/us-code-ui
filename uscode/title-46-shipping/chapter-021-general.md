@@ -643,7 +643,7 @@ Section 2104 provides the Secretary with authority to delegate duties and powers
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-2105"></a>
@@ -1100,12 +1100,19 @@ An individual authorized to enforce this title—
 
 <a id="section-2118"></a>
 ## § 2118. Establishment of equipment standards
-**(a)** In establishing standards for approved equipment required on vessels subject to part B of this title,11 So in original. Probably should be “this subtitle,”. the Secretary shall establish standards that are—
+**(a)** In establishing standards for approved equipment required on vessels subject to part B of this subtitle, the Secretary shall establish standards that are—
 
 (1) based on performance using the best available technology that is economically achievable; and
 
 (2) operationally practical.
 
-**(b)** Using the standards established under subsection (a), the Secretary may also certify lifesaving equipment that is not required to be carried on vessels subject to part B of this title 22 So in original. Probably should be “this subtitle”. to ensure that such equipment is suitable for its intended purpose.
+**(b)** Using the standards established under subsection (a), the Secretary may also certify lifesaving equipment that is not required to be carried on vessels subject to part B of this subtitle to ensure that such equipment is suitable for its intended purpose.
 
 **(c)** At least once every 10 years the Secretary shall review and revise the standards established under subsection (a) to ensure that the standards meet the requirements of this section.
+
+### Statutory Notes
+
+#### Amendments
+2016—Subsec. (a). Pub. L. 114–120, § 306(a)(2)(A), substituted “subtitle,” for “title,”.
+
+Subsec. (b). Pub. L. 114–120, § 306(a)(2)(B), substituted “subtitle” for “title”.

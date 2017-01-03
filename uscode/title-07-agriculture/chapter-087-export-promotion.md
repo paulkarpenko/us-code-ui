@@ -801,7 +801,7 @@ Section, Pub. L. 95–501, title IV, § 404, as added Pub. L. 101–624, title X
 ## § 5671. Agricultural embargo protection
 **(a) Prerequisites; scope of compensation** Notwithstanding any other provision of law, if—
 
-(1) the President or other member of the executive branch of the Federal Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) or under any other provision of law;
+(1) the President or other member of the executive branch of the Federal Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) [now [50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.] or under any other provision of law;
 
 (2) such suspension or restriction of the export of such agricultural commodity is imposed other than in connection with a suspension or restriction of all exports from the United States to such country or area of the world; and
 
@@ -829,7 +829,7 @@ the Secretary shall compensate producers of the commodity involved by making pay
 ### Statutory Notes
 
 #### References in Text
-The Export Administration Act of 1979, referred to in subsec. (a)(1), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+The Export Administration Act of 1979, referred to in subsec. (a)(1), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The Agricultural Act of 1949, referred to in subsec. (b)(1), (2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. Title I of the Act is classified generally to subchapter II (§ 1441 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
@@ -1245,7 +1245,7 @@ A prior section 602 of Pub. L. 95–501 enacted [section 1765b–1 of this title
 Subsec. (a)(2). Pub. L. 102–237, § 327(2), struck out “in accordance with subsection (c)” after “shall remain confidential”.
 
 #### Termination Date of 1999 Amendment
-Amendment by Pub. L. 106–78 to terminate Sept. 30, 2015, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
+Amendment by Pub. L. 106–78 to terminate Sept. 30, 2020, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 
 <a id="section-5713"></a>

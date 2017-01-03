@@ -55,6 +55,9 @@ The Communications Satellite Act of 1962, referred to in subsec. (a)(5), is Pub.
 
 Executive Order 12046, referred to in subsec. (b)(6), is set out as a note under [section 305 of this title](./chapter-005-wire-or-radio-communication.md#section-305).
 
+#### Short Title of 2015 Amendment
+Pub. L. 114–74, title X, § 1001, Nov. 2, 2015, 129 Stat. 621, provided that: “This title [amending sections 309, 923, and 928 of this title and enacting provisions set out as a note under [section 921 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-921)] may be cited as the ‘Spectrum Pipeline Act of 2015’.”
+
 #### Short Title of 2007 Amendment
 Pub. L. 110–53, title XXIII, § 2301, Aug. 3, 2007, 121 Stat. 543, as amended by Pub. L. 110–161, div. B, title V, § 539, Dec. 26, 2007, 121 Stat. 1934, provided that: “This title [amending [section 942 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-942) and provisions set out as a note under [section 309 of this title](./chapter-005-wire-or-radio-communication.md#section-309)] may be cited as the ‘911 Modernization Act’.”
 
@@ -103,39 +106,43 @@ Sec. 4. General. (a) Notwithstanding any other Executive Order, the functions of
 [Amendment by Ex. Ord. 13286 directing insertion of “through the Secretary of Homeland Security,” after “the President,” in section 2(b) of Ex. Ord. 12382, was executed by inserting “, through the Secretary of Homeland Security,” after “the President”.]
 
 #### Extension of Term of President’s National Security Telecommunications Advisory Committee
-Term of the President’s National Security Telecommunications Advisory Committee extended until Dec. 31, 1983, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of the President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 1985, by Ex. Ord. No. 12454, Dec. 29, 1983, 49 F.R. 343.
+Previous extensions of term of President’s National Security Telecommunications Advisory Committee were contained in the following prior Executive Orders:
 
-Term of the President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
-Term of the President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 1989, by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, extended term until Sept. 30, 2013.
 
-Term of the President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 1991, by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, extended term until Sept. 30, 2011.
 
-Term of the President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 1993, by Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, extended term until Sept. 30, 2009.
 
-Term of the President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, extended term until Sept. 30, 2007.
 
-Term of the President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, extended term until Sept. 30, 2005.
 
-Term of the President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 1999, by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, extended term until Sept. 30, 2003.
 
-Term of the President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, extended term until Sept. 30, 2001.
 
-Term of the President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, extended term until Sept. 30, 1999.
 
-Term of the President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, extended term until Sept. 30, 1997.
 
-Term of the President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, extended term until Sept. 30, 1995.
 
-Term of the President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, extended term until Sept. 30, 1993.
 
-Term of the President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, extended term until Sept. 30, 1991.
 
-Term of the President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, extended term until Sept. 30, 1989.
 
-Term of the President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, extended term until Sept. 30, 1987.
+
+Ex. Ord. No. 12454, Dec. 29, 1983, 49 F.R. 343, extended term until Sept. 30, 1985.
+
+Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, extended term until Dec. 31, 1983.
 
 
 <a id="section-902"></a>
@@ -259,7 +266,7 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1703], Dec. 21, 2000, 114 
 ## § 903. Spectrum management activities
 **(a) Revision of regulations** Within 180 days after October 27, 1992, the Secretary of Commerce and the NTIA shall amend the Department of Commerce spectrum management document entitled “Manual of Regulations and Procedures for Federal Radio Frequency Management” to improve Federal spectrum management activities and shall publish in the Federal Register any changes in the regulations in such document.
 
-**(b) Requirements for revisions** The amendments required by subsection (a) of this section shall—
+**(b) Requirements for revisions** The amendments required by subsection (a) shall—
 
 (1) provide for a period at the beginning of each meeting of the Interdepartmental Radio Advisory Committee to be open to the public to make presentations and receive advice, and provide the public with other meaningful opportunities to make presentations and receive advice;
 
@@ -285,7 +292,7 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1703], Dec. 21, 2000, 114 
 
 **(e) Proof of compliance with FCC licensing requirements**
 
-(1) **Amendment to manual required** — Within 90 days after August 10, 1993, the Secretary and the NTIA shall amend the spectrum management document described in subsection (a) of this section to require that—
+(1) **Amendment to manual required** — Within 90 days after August 10, 1993, the Secretary and the NTIA shall amend the spectrum management document described in subsection (a) to require that—
 
   (A) no person or entity (other than an agency or instrumentality of the United States) shall be permitted, after 1 year after August 10, 1993, to operate a radio station utilizing a frequency that is authorized for the use of government stations pursuant to [section 902(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section902/b/2/A&num=0&edition=prelim) for any non-government application unless such person or entity has submitted to the NTIA proof, in a form prescribed by such manual, that such person or entity has obtained a license from the Commission; and
 
@@ -390,6 +397,9 @@ As used in this subchapter:
 #### References in Text
 The Communications Act of 1934, referred to in par. (3), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§ 151 et seq.) of this title. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
 
+#### Identification, Reallocation, and Auction of Federal Spectrum
+Pub. L. 114–74, title X, §§ 1002–1004, Nov. 2, 2015, 129 Stat. 621, as amended by Pub. L. 114–328, div. A, title X, § 1044, Dec. 23, 2016, 130 Stat. 2394, provided that: “SEC. 1002. DEFINITIONS.“In this title [see Short Title of 2015 Amendment note set out under [section 901 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-901)]:“(1) Assistant secretary.—The term ‘Assistant Secretary’ means the Assistant Secretary of Commerce for Communications and Information. “(2) Commission.—The term ‘Commission’ means the Federal Communications Commission. “(3) Federal entity.—The term ‘Federal entity’ has the meaning given such term in section 113(l) of the National Telecommunications and Information Administration Organization Act ([47 U.S.C. 923](./chapter-008-national-telecommunications-and-information-administration.md#section-923)(l)). “(4) Secretary.—The term ‘Secretary’ means the Secretary of Commerce. “SEC. 1003. RULE OF CONSTRUCTION.“Each range of frequencies described in this title shall be construed to be inclusive of the upper and lower frequencies in the range. “SEC. 1004. IDENTIFICATION, REALLOCATION, AND AUCTION OF FEDERAL SPECTRUM.“(a) Identification of Spectrum.—Not later than January 1, 2022, the Secretary shall submit to the President and to the Commission a report identifying 30 megahertz of electromagnetic spectrum (in bands of not less than 10 megahertz of contiguous frequencies) below the frequency of 3 gigahertz (except for the spectrum between the frequencies of 1675 megahertz and 1695 megahertz) for reallocation from Federal use to non-Federal use or shared Federal and non-Federal use, or a combination thereof. “(b) Clearing of Spectrum.—The President shall—“(1) not later than January 1, 2022, begin the process of withdrawing or modifying the assignment to a Federal Government station of the electromagnetic spectrum identified under subsection (a); and “(2) not later than 30 days after completing the withdrawal or modification, notify the Commission that the withdrawal or modification is complete. “(c) Reallocation and Auction.—“(1) In general.—The Commission shall—“(A) reallocate the electromagnetic spectrum identified under subsection (a) for non-Federal use or shared Federal and non-Federal use, or a combination thereof; and “(B) notwithstanding paragraph (15)(A) of section 309(j) of the Communications Act of 1934 ([47 U.S.C. 309(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j&num=0&edition=prelim)), not later than July 1, 2024, begin a system of competitive bidding under such section to grant new initial licenses for the use of such spectrum, subject to flexible-use service rules. “(2) Proceeds to cover 110 percent of federal relocation or sharing costs.—Nothing in paragraph (1) shall be construed to relieve the Commission from the requirements of section 309(j)(16)(B) of the Communications Act of 1934 ([47 U.S.C. 309(j)(16)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j/16/B&num=0&edition=prelim)). “(d) Protection of Certain Federal Spectrum Operations.—If the report required by subsection (a) determines that reallocation and auction of the spectrum described in the report would harm national security by impacting existing terrestrial Federal spectrum operations at the Nevada Test and Training Range, the Commission, in coordination with the Secretary shall, prior to the auction described in subsection (c)(1)(B), establish rules for licensees in such spectrum sufficient to mitigate harmful interference to such operations. “(e) Rule of Construction.—Nothing in this section shall be construed to affect any requirement under section 1062(b) of the National Defense Authorization Act for Fiscal Year 2000 ([47 U.S.C. 921](./chapter-008-national-telecommunications-and-information-administration.md#section-921) note; Public Law 106–65).”
+
 #### Study and Report on Current and Future Spectrum Use
 Pub. L. 106–553, § 1(a)(2) [title II], Dec. 21, 2000, 114 Stat. 2762, 2762A–73, provided in part: “That the Administrator shall, after consultation with other federal departments and agencies responsible for regulating the core operations of entities engaged in the provision of energy, water and railroad services, complete and submit to Congress, not later than twelve months after date of enactment of this subsection, a study of the current and future use of spectrum by these entities to protect and maintain the nation’s critical infrastructure: Provided further, That within six months after the release of this study, the Chairman of the Federal Communications Commission shall submit a report to Congress on the actions that could be taken by the Commission to address any needs identified in the Administrator’s study.”
 
@@ -438,9 +448,9 @@ The Assistant Secretary and the Chairman of the Commission shall meet, at least 
 
 **(b) Minimum amount of spectrum recommended**
 
-(1) **Initial reallocation report** — In accordance with the provisions of this section, the Secretary shall recommend for reallocation in the initial report required by subsection (a) of this section, for use other than by Federal Government stations under section 305 of the 1934 Act ([47 U.S.C. 305](./chapter-005-wire-or-radio-communication.md#section-305)), bands of frequencies that in the aggregate span not less than 200 megahertz, that are located below 5 gigahertz, and that meet the criteria specified in paragraphs (1) through (5) of subsection (a) of this section. Such bands of frequencies shall include bands of frequencies, located below 3 gigahertz, that span in the aggregate not less than 100 megahertz.
+(1) **Initial reallocation report** — In accordance with the provisions of this section, the Secretary shall recommend for reallocation in the initial report required by subsection (a), for use other than by Federal Government stations under section 305 of the 1934 Act ([47 U.S.C. 305](./chapter-005-wire-or-radio-communication.md#section-305)), bands of frequencies that in the aggregate span not less than 200 megahertz, that are located below 5 gigahertz, and that meet the criteria specified in paragraphs (1) through (5) of subsection (a). Such bands of frequencies shall include bands of frequencies, located below 3 gigahertz, that span in the aggregate not less than 100 megahertz.
 
-(2) **Mixed uses permitted to be counted** — Bands of frequencies which a report of the Secretary under subsection (a) or (d)(1) of this section recommends be partially retained for use by Federal Government stations, but which are also recommended to be reallocated to be made available under the 1934 Act [[47 U.S.C. 151](./chapter-005-wire-or-radio-communication.md#section-151) et seq.] for use by non-Federal stations, may be counted toward the minimum spectrum required by paragraph (1) or (3) of this subsection, except that—
+(2) **Mixed uses permitted to be counted** — Bands of frequencies which a report of the Secretary under subsection (a) or (d)(1) recommends be partially retained for use by Federal Government stations, but which are also recommended to be reallocated to be made available under the 1934 Act [[47 U.S.C. 151](./chapter-005-wire-or-radio-communication.md#section-151) et seq.] for use by non-Federal stations, may be counted toward the minimum spectrum required by paragraph (1) or (3) of this subsection, except that—
 
   (A) the bands of frequencies counted under this paragraph may not count toward more than one-half of the minimums required by paragraph (1) or (3) of this subsection;
 
@@ -448,17 +458,17 @@ The Assistant Secretary and the Chairman of the Commission shall meet, at least 
 
   (C) the operational sharing permitted under this paragraph shall be subject to the interference regulations prescribed by the Commission pursuant to section 305(a) of the 1934 Act [[47 U.S.C. 305(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section305/a&num=0&edition=prelim)] and to coordination procedures that the Commission and the Secretary shall jointly establish and implement to ensure against harmful interference.
 
-(3) **Second reallocation report** — In accordance with the provisions of this section, the Secretary shall recommend for reallocation in the second report required by subsection (a) of this section, for use other than by Federal Government stations under section 305 of the 1934 Act ([47 U.S.C. 305](./chapter-005-wire-or-radio-communication.md#section-305)), a band or bands of frequencies that—
+(3) **Second reallocation report** — In accordance with the provisions of this section, the Secretary shall recommend for reallocation in the second report required by subsection (a), for use other than by Federal Government stations under section 305 of the 1934 Act ([47 U.S.C. 305](./chapter-005-wire-or-radio-communication.md#section-305)), a band or bands of frequencies that—
 
   (A) in the aggregate span not less than 12 megahertz;
 
   (B) are located below 3 gigahertz; and
 
-  (C) meet the criteria specified in paragraphs (1) through (5) of subsection (a) of this section.
+  (C) meet the criteria specified in paragraphs (1) through (5) of subsection (a).
 
 **(c) Criteria for identification**
 
-(1) **Needs of the Federal Government** — In determining whether a band of frequencies meets the criteria specified in subsection (a)(2) of this section, the Secretary shall—
+(1) **Needs of the Federal Government** — In determining whether a band of frequencies meets the criteria specified in subsection (a)(2), the Secretary shall—
 
   (A) consider whether the band of frequencies is used to provide a communications service that is or could be available from a commercial provider or other vendor;
 
@@ -466,7 +476,7 @@ The Assistant Secretary and the Chairman of the Commission shall meet, at least 
 
     (i) the maximum practicable reliance on commercially available substitutes;
 
-    (ii) the sharing of frequencies (as permitted under subsection (b)(2) of this section);
+    (ii) the sharing of frequencies (as permitted under subsection (b)(2));
 
     (iii) the development and use of new communications technologies; and
 
@@ -480,7 +490,7 @@ The Assistant Secretary and the Chairman of the Commission shall meet, at least 
 
     (iii) excessive disruption of existing use of Federal Government frequencies by amateur radio licensees.
 
-(2) **Feasibility of use** — In determining whether a frequency band meets the criteria specified in subsection (a)(3) of this section, the Secretary shall—
+(2) **Feasibility of use** — In determining whether a frequency band meets the criteria specified in subsection (a)(3), the Secretary shall—
 
   (A) assume that the frequency will be assigned by the Commission under section 303 of the 1934 Act ([47 U.S.C. 303](./chapter-005-wire-or-radio-communication.md#section-303)) within 15 years;
 
@@ -490,7 +500,7 @@ The Assistant Secretary and the Chairman of the Commission shall meet, at least 
 
   (D) consider the immediate and recurring costs to reestablish services displaced by the reallocation of spectrum.
 
-(3) **Analysis of benefits** — In determining whether a band of frequencies meets the criteria specified in subsection (a)(5) of this section, the Secretary shall consider—
+(3) **Analysis of benefits** — In determining whether a band of frequencies meets the criteria specified in subsection (a)(5), the Secretary shall consider—
 
   (A) the extent to which equipment is or will be available that is capable of utilizing the band;
 
@@ -502,9 +512,9 @@ The Assistant Secretary and the Chairman of the Commission shall meet, at least 
 
 (4) **Power agency frequencies**
 
-  (A) *Applicability of criteria* — The criteria specified by subsection (a) of this section shall be deemed not to be met for any purpose under this subchapter with regard to any frequency assignment to, or any frequency assignment used by, a Federal power agency for the purpose of withdrawing that assignment.
+  (A) *Applicability of criteria* — The criteria specified by subsection (a) shall be deemed not to be met for any purpose under this subchapter with regard to any frequency assignment to, or any frequency assignment used by, a Federal power agency for the purpose of withdrawing that assignment.
 
-  (B) *Mixed use eligibility* — The frequencies assigned to any Federal power agency may only be eligible for mixed use under subsection (b)(2) of this section in geographically separate areas, but in those cases where a frequency is to be shared by an affected Federal power agency and a non-Federal user, such use by the non-Federal user shall not cause harmful interference to the affected Federal power agency or adversely affect the reliability of its power system.
+  (B) *Mixed use eligibility* — The frequencies assigned to any Federal power agency may only be eligible for mixed use under subsection (b)(2) in geographically separate areas, but in those cases where a frequency is to be shared by an affected Federal power agency and a non-Federal user, such use by the non-Federal user shall not cause harmful interference to the affected Federal power agency or adversely affect the reliability of its power system.
 
   (C) *“Federal power agency” defined* — As used in this paragraph, the term “Federal power agency” means the Tennessee Valley Authority, the Bonneville Power Administration, the Western Area Power Administration, the Southwestern Power Administration, the Southeastern Power Administration, or the Alaska Power Administration.
 
@@ -518,17 +528,17 @@ The Assistant Secretary and the Chairman of the Commission shall meet, at least 
 
 (3) **Comment and recommendations from Commission** — The Commission shall, within 90 days after the conclusion of the period for comment provided pursuant to paragraph (2), submit to the Secretary the Commission’s analysis of such comments and the Commission’s recommendations for responses to such comments, together with such other comments and recommendations as the Commission deems appropriate.
 
-(4) **Direct discussions** — The Secretary shall encourage and provide opportunity for direct discussions among commercial representatives and Federal Government users of the spectrum to aid the Secretary in determining which frequencies to recommend for reallocation. The Secretary shall provide notice to the public and the Commission of any such discussions, including the name or names of any businesses or other persons represented in such discussions. A representative of the Commission (and of the Secretary at the election of the Secretary) shall be permitted to attend any such discussions. The Secretary shall provide the public and the Commission with an opportunity to comment on the results of any such discussions prior to the submission of the initial report required by subsection (a) of this section.
+(4) **Direct discussions** — The Secretary shall encourage and provide opportunity for direct discussions among commercial representatives and Federal Government users of the spectrum to aid the Secretary in determining which frequencies to recommend for reallocation. The Secretary shall provide notice to the public and the Commission of any such discussions, including the name or names of any businesses or other persons represented in such discussions. A representative of the Commission (and of the Secretary at the election of the Secretary) shall be permitted to attend any such discussions. The Secretary shall provide the public and the Commission with an opportunity to comment on the results of any such discussions prior to the submission of the initial report required by subsection (a).
 
 **(e) Timetable for reallocation and limitation**
 
-(1) **Timetable required** — The Secretary shall, as part of the reports required by subsections (a) and (d)(1) of this section, include a timetable that recommends effective dates by which the President shall withdraw or limit assignments of the frequencies specified in such reports.
+(1) **Timetable required** — The Secretary shall, as part of the reports required by subsections (a) and (d)(1), include a timetable that recommends effective dates by which the President shall withdraw or limit assignments of the frequencies specified in such reports.
 
 (2) **Expedited reallocation**
 
-  (A) *Required reallocation* — The Secretary shall, as part of the report required by subsection (d)(1) of this section, specifically identify and recommend for immediate reallocation bands of frequencies that in the aggregate span not less than 50 megahertz, that meet the criteria described in subsection (a) of this section, and that can be made available for reallocation immediately upon issuance of the report required by subsection (d)(1) of this section. Such bands of frequencies shall include bands of frequencies, located below 3 gigahertz, that in the aggregate span not less than 25 megahertz.
+  (A) *Required reallocation* — The Secretary shall, as part of the report required by subsection (d)(1), specifically identify and recommend for immediate reallocation bands of frequencies that in the aggregate span not less than 50 megahertz, that meet the criteria described in subsection (a), and that can be made available for reallocation immediately upon issuance of the report required by subsection (d)(1). Such bands of frequencies shall include bands of frequencies, located below 3 gigahertz, that in the aggregate span not less than 25 megahertz.
 
-  (B) *Permitted reallocation* — The Secretary may, as part of such report, identify and recommend bands of frequencies for immediate reallocation for a mixed use pursuant to subsection (b)(2) of this section, but such bands of frequencies may not count toward the minimums required by subparagraph (A).
+  (B) *Permitted reallocation* — The Secretary may, as part of such report, identify and recommend bands of frequencies for immediate reallocation for a mixed use pursuant to subsection (b)(2), but such bands of frequencies may not count toward the minimums required by subparagraph (A).
 
 (3) **Delayed effective dates** — In setting the recommended delayed effective dates, the Secretary shall—
 
@@ -544,7 +554,7 @@ The Assistant Secretary and the Chairman of the Commission shall meet, at least 
 
 **(g) Relocation of and spectrum sharing by Federal Government stations**
 
-(1) **Eligible Federal entities** — Any Federal entity that operates a Federal Government station authorized to use a band of eligible frequencies described in paragraph (2) and that incurs relocation or sharing costs because of planning for an auction of spectrum frequencies or the reallocation of spectrum frequencies from Federal use to exclusive non-Federal use or to shared use shall receive payment for such relocation or sharing costs from the Spectrum Relocation Fund, in accordance with this section and [section 928 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-928). For purposes of this paragraph, Federal power agencies exempted under subsection (c)(4) that choose to relocate from the frequencies identified for reallocation pursuant to subsection (a) are eligible to receive payment under this paragraph.
+(1) **Eligible Federal entities** — Any Federal entity that operates a Federal Government station that incurs relocation or sharing costs because of planning for an auction of eligible spectrum frequencies or the reallocation of eligible spectrum frequencies from Federal use to exclusive non-Federal use or to shared use shall receive payment for such relocation or sharing costs from the Spectrum Relocation Fund, in accordance with this section and [section 928 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-928). For purposes of this paragraph, Federal power agencies exempted under subsection (c)(4) that choose to relocate from the frequencies identified for reallocation pursuant to subsection (a) are eligible to receive payment under this paragraph.
 
 (2) **Eligible frequencies** — The bands of eligible frequencies for purposes of this section are as follows:
 
@@ -554,7 +564,7 @@ The Assistant Secretary and the Chairman of the Commission shall meet, at least 
 
 (3) **Relocation or sharing costs defined**
 
-  (A) *In general* — For purposes of this section and [section 928 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-928), the term “relocation or sharing costs” means the costs incurred by a Federal entity in connection with the auction of spectrum frequencies previously assigned to such entity or the sharing of spectrum frequencies assigned to such entity (including the auction or a planned auction of the rights to use spectrum frequencies on a shared basis with such entity) in order to achieve comparable capability of systems as before the relocation or sharing arrangement. Such term includes, with respect to relocation or sharing, as the case may be—
+  (A) *In general* — For purposes of this section and [section 928 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-928), the term “relocation or sharing costs” means the costs incurred by a Federal entity in connection with the auction of spectrum frequencies or the sharing of spectrum frequencies (including the auction or a planned auction of the rights to use spectrum frequencies on a shared basis with such entity) in order to achieve comparable capability of systems as before the relocation or sharing arrangement. Such term includes, with respect to relocation or sharing, as the case may be—
 
     (i) the costs of any modification or replacement of equipment, spares, associated ancillary equipment, software, facilities, operating manuals, training, or compliance with regulations that are attributable to relocation or sharing;
 
@@ -596,7 +606,7 @@ The Assistant Secretary and the Chairman of the Commission shall meet, at least 
 
 **(h) Development and publication of relocation or sharing transition plans**
 
-(1) **Development of transition plan by Federal entity** — Not later than 240 days before the commencement of any auction of eligible frequencies described in subsection (g)(2), a Federal entity authorized to use any such frequency shall submit to the NTIA and to the Technical Panel established by paragraph (3) a transition plan for the implementation by such entity of the relocation or sharing arrangement. The NTIA shall specify, after public input, a common format for all Federal entities to follow in preparing transition plans under this paragraph.
+(1) **Development of transition plan by Federal entity** — Not later than 240 days before the commencement of any auction of eligible frequencies described in subsection (g)(2), a Federal entity shall submit to the NTIA and to the Technical Panel established by paragraph (3) a transition plan for the implementation by such entity of the relocation or sharing arrangement. The NTIA shall specify, after public input, a common format for all Federal entities to follow in preparing transition plans under this paragraph.
 
 (2) **Contents of transition plan** — The transition plan required by paragraph (1) shall include the following information:
 
@@ -648,7 +658,7 @@ The Assistant Secretary and the Chairman of the Commission shall meet, at least 
 
     (vi) *No compensation* — The members of the Technical Panel shall not receive any compensation for service on the Technical Panel. If any such member is an employee of the agency of the official that appointed such member to the Technical Panel, compensation in the member’s capacity as such an employee shall not be considered compensation under this clause.
 
-  (C) *Administrative support* — The NTIA shall provide the Technical Panel with the administrative support services necessary to carry out its duties under this subsection and subsection (i).
+  (C) *Administrative support* — The NTIA shall provide the Technical Panel with the administrative support services necessary to carry out its duties under this subsection, subsection (i), and [section 928(g)(2)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section928/g/2/E&num=0&edition=prelim).
 
   (D) *Regulations* — Not later than 180 days after February 22, 2012, the NTIA shall, after public notice and comment and subject to approval by the Director of OMB, adopt regulations to govern the workings of the Technical Panel.
 
@@ -722,7 +732,7 @@ The Assistant Secretary and the Chairman of the Commission shall meet, at least 
 
 (2) **Notification of Congress when sharing chosen** — If the NTIA determines under paragraph (1) that relocation of a Federal entity from the band is not feasible, the NTIA shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives of the determination, including the specific technical or cost constraints on which the determination is based.
 
-**(k) Federal action to expedite spectrum transfer** Any Federal Government station which operates on electromagnetic spectrum that has been identified in any reallocation report under this section shall, to the maximum extent practicable through the use of the authority granted under subsection (g) of this section and any other applicable provision of law, take action to relocate its spectrum use to other frequencies that are reserved for Federal use or to consolidate its spectrum use with other Federal Government stations in a manner that maximizes the spectrum available for non-Federal use.
+**(k) Federal action to expedite spectrum transfer** Any Federal Government station which operates on electromagnetic spectrum that has been identified in any reallocation report under this section shall, to the maximum extent practicable through the use of the authority granted under subsection (g) and any other applicable provision of law, take action to relocate its spectrum use to other frequencies that are reserved for Federal use or to consolidate its spectrum use with other Federal Government stations in a manner that maximizes the spectrum available for non-Federal use.
 
 **(l) “Federal entity” defined** For purposes of this section, the term “Federal entity” means any department, agency, or other instrumentality of the Federal Government that utilizes a Government station license obtained under section 305 of the 1934 Act ([47 U.S.C. 305](./chapter-005-wire-or-radio-communication.md#section-305)).
 
@@ -736,6 +746,14 @@ Section 3002(c)(5) of the Balanced Budget Act of 1997, referred to in subsec. (f
 The Federal Advisory Committee Act, referred to in subsecs. (h)(3)(E) and (i)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2015—Subsec. (g)(1). Pub. L. 114–74, § 1005(c)(1)(A), struck out “authorized to use a band of eligible frequencies described in paragraph (2) and” after “Federal Government station” and inserted “eligible” after “auction of” and after “reallocation of”.
+
+Subsec. (g)(3)(A). Pub. L. 114–74, § 1005(c)(1)(B), substituted “or the sharing of spectrum frequencies” for “previously assigned to such entity or the sharing of spectrum frequencies assigned to such entity”.
+
+Subsec. (h)(1). Pub. L. 114–74, § 1005(c)(2), struck out “authorized to use any such frequency” after “a Federal entity”.
+
+Subsec. (h)(3)(C). Pub. L. 114–74, § 1005(b), substituted “this subsection, subsection (i), and [section 928(g)(2)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section928/g/2/E&num=0&edition=prelim)” for “this subsection and subsection (i)”.
+
 2012—Subsec. (g). Pub. L. 112–96, § 6701(a)(1)(A), substituted “Relocation of and spectrum sharing by Federal Government stations” for “Relocation of Federal Government stations” in heading.
 
 Subsec. (g)(1). Pub. L. 112–96, § 6701(a)(1)(B), amended par. (1) generally. Prior to amendment, text read as follows: “Any Federal entity that operates a Federal Government station assigned to a band of frequencies specified in paragraph (2) and that incurs relocation costs because of the reallocation of frequencies from Federal use to non-Federal use shall receive payment for such costs from the Spectrum Relocation Fund, in accordance with [section 928 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-928). For purposes of this paragraph, Federal power agencies exempted under subsection (c)(4) of this section that choose to relocate from the frequencies identified for reallocation pursuant to subsection (a) of this section, are eligible to receive payment under this paragraph.”
@@ -764,7 +782,7 @@ Subsecs. (h) to (l). Pub. L. 112–96, § 6701(a)(2), (3), added subsecs. (h) to
 
 1997—Subsec. (a). Pub. L. 105–33, § 3002(e)(1), inserted “and within 6 months after August 5, 1997” after “August 10, 1993,” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 105–33, § 3002(e)(2)(A), (B), substituted “Initial reallocation report” for “In general” in heading and inserted “in the initial report required by subsection (a) of this section” after “recommend for reallocation” in text.
+Subsec. (b)(1). Pub. L. 105–33, § 3002(e)(2)(A), (B), substituted “Initial reallocation report” for “In general” in heading and inserted “in the initial report required by subsection (a)” after “recommend for reallocation” in text.
 
 Subsec. (b)(2). Pub. L. 105–33, § 3002(e)(2)(C), inserted “or (3)” after “paragraph (1)” in two places.
 
@@ -799,7 +817,7 @@ Pub. L. 105–261, div. A, title X, § 1064(d), Oct. 17, 1998, 112 Stat. 2133, p
 
 (1) **Authority to substitute** — If the President determines that a circumstance described in paragraph (2) exists, the President—
 
-  (A) may substitute an alternative frequency or frequencies for the frequency that is subject to such determination and withdraw (or limit) the assignment of that alternative frequency in the manner required by subsection (a) of this section; and
+  (A) may substitute an alternative frequency or frequencies for the frequency that is subject to such determination and withdraw (or limit) the assignment of that alternative frequency in the manner required by subsection (a); and
 
   (B) shall submit a statement of the reasons for taking the action described in subparagraph (A) to the Commission, Committee on Energy and Commerce of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
 
@@ -927,7 +945,7 @@ For definition of the 1934 Act, referred to in subsec. (b)(1), see [section 921(
 
 **(d) Fund availability**
 
-(1) **Appropriation** — There are hereby appropriated from the Fund such sums as are required to pay the relocation or sharing costs specified in subsection (c) of this section.
+(1) **Appropriation** — There are hereby appropriated from the Fund such sums as are required to pay the relocation or sharing costs specified in subsection (c).
 
 (2) **Transfer conditions** — None of the funds provided under this subsection may be transferred to any eligible Federal entity—
 
@@ -972,19 +990,19 @@ For definition of the 1934 Act, referred to in subsec. (b)(1), see [section 921(
 
 (1) **Transfer**
 
-  (A) Amounts made available pursuant to subsection (d) of this section shall be transferred to eligible Federal entities, as defined in [section 923(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/g/1&num=0&edition=prelim).
+  (A) Amounts made available pursuant to subsection (d) shall be transferred to eligible Federal entities, as defined in [section 923(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/g/1&num=0&edition=prelim).
 
   (B) An eligible Federal entity may receive more than one such transfer, but if the sum of the subsequent transfer or transfers exceeds 10 percent of the original transfer—
 
-    (i) such subsequent transfers are subject to prior approval by the Director of OMB as required by subsection (d)(2)(B) of this section;
+    (i) such subsequent transfers are subject to prior approval by the Director of OMB as required by subsection (d)(2)(B);
 
-    (ii) the notice to the committees containing the plan required by subsection (d)(2)(C) of this section shall be not less than 45 days prior to the date of the transfer that causes such excess above 10 percent; and
+    (ii) the notice to the committees containing the plan required by subsection (d)(2)(C) shall be not less than 45 days prior to the date of the transfer that causes such excess above 10 percent; and
 
     (iii) such notice shall include, in addition to such plan, an explanation of need for such subsequent transfer or transfers.
 
   (C) Such transferred amounts shall be credited to the appropriations account of the eligible Federal entity which has incurred, or will incur, such costs, and shall, subject to paragraph (2), remain available until expended.
 
-(2) **Retransfer to fund** — An eligible Federal entity that has received such amounts shall report its expenditures to OMB and shall transfer any amounts in excess of actual relocation or sharing costs back to the Fund immediately after the NTIA has notified the Commission that the relocation of the entity or implementation of the sharing arrangement by the entity is complete, or has determined that such entity has unreasonably failed to complete such relocation or the implementation of such arrangement in accordance with the timeline required by subsection (d)(2)(B) of this section.
+(2) **Retransfer to fund** — An eligible Federal entity that has received such amounts shall report its expenditures to OMB and shall transfer any amounts in excess of actual relocation or sharing costs back to the Fund immediately after the NTIA has notified the Commission that the relocation of the entity or implementation of the sharing arrangement by the entity is complete, or has determined that such entity has unreasonably failed to complete such relocation or the implementation of such arrangement in accordance with the timeline required by subsection (d)(2)(B).
 
 **(f) Additional payments from Fund**
 
@@ -1004,7 +1022,63 @@ For definition of the 1934 Act, referred to in subsec. (b)(1), see [section 921(
 
     (iv) such payment may not be made until 30 days after the Director of OMB has notified the congressional committees described in subsection (d)(2)(C).
 
-**(g) Restriction on use of Funds** No amounts in the Fund on the day before February 22, 2012, may be used for any purpose except—
+**(g) Additional payments for research and development and planning activities**
+
+(1) **Amounts available** — Notwithstanding subsections (c) through (e)—
+
+  (A) there are appropriated from the Fund on November 2, 2015, and available to the Director of OMB for use in accordance with paragraph (2), not more than $500,000,000 from amounts in the Fund on November 2, 2015; and
+
+  (B) there are appropriated from the Fund after November 2, 2015, and available to the Director of OMB for use in accordance with such paragraph, not more than 10 percent of the amounts deposited in the Fund after November 2, 2015.
+
+(2) **Use of amounts**
+
+  (A) *In general* — The Director of OMB may use amounts made available under paragraph (1) to make payments requested by Federal entities for research and development, engineering studies, economic analyses, activities with respect to systems, or other planning activities intended to improve the efficiency and effectiveness of the spectrum use of Federal entities in order to make available frequencies described in subparagraph (C) for reallocation for non-Federal use or shared Federal and non-Federal use, or a combination thereof, and for auction in accordance with such reallocation.
+
+  (B) *Systems that improve efficiency and effectiveness of Federal spectrum use* — For purposes of a payment under subparagraph (A) for activities with respect to systems that improve the efficiency and effectiveness of the spectrum use of Federal entities, such systems include the following:
+
+    (i) Systems that have increased functionality or that increase the ability of a Federal entity to accommodate spectrum sharing with non-Federal entities.
+
+    (ii) Systems that consolidate functions or services that have been provided using separate systems.
+
+    (iii) Non-spectrum technology or systems.
+
+  (C) *Frequencies described* — The frequencies described in this subparagraph are, with respect to a payment under subparagraph (A), frequencies that—
+
+    (i) are assigned to a Federal entity; and
+
+    (ii) at the time of the activities conducted with such payment, are not identified for auction.
+
+  (D) *Conditions* — The Director of OMB may not make a payment to a Federal entity under subparagraph (A)—
+
+    (i) unless—
+
+      (I) the Federal entity has submitted to the Technical Panel established under [section 923(h)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/h/3&num=0&edition=prelim) a plan describing the activities that the Federal entity will conduct with such payment;
+
+      (II) the Technical Panel has approved such plan under subparagraph (E); and
+
+      (III) the Director of OMB has submitted the plan approved under subparagraph (E) to the congressional committees described in subsection (d)(2)(C); and
+
+    (ii) until 60 days have elapsed after submission of the plan under clause (i)(III).
+
+  (E) *Review by technical panel*
+
+    (i) *In general* — Not later than 120 days after a Federal entity submits a plan under subparagraph (D)(i)(I) to the Technical Panel established under [section 923(h)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/h/3&num=0&edition=prelim), the Technical Panel shall approve or disapprove such plan.
+
+    (ii) *Criteria for review* — In considering whether to approve or disapprove a plan under this subparagraph, the Technical Panel shall consider whether—
+
+      (I) the activities that the Federal entity will conduct with the payment will—
+
+        (aa) increase the probability of relocation from or sharing of Federal spectrum;
+
+        (bb) facilitate an auction intended to occur not later than 8 years after the payment; and
+
+        (cc) increase the net expected auction proceeds in an amount not less than the time value of the amount of the payment; and
+
+      (II) the transfer will leave sufficient amounts in the Fund for the other purposes of the Fund.
+
+**(h) Prioritization of payments** In determining whether to make payments under subsections (f) and (g), the Director of OMB shall, to the extent practicable, prioritize payments under subsection (g).
+
+**(i) Restriction on use of Funds** No amounts in the Fund on the day before February 22, 2012, may be used for any purpose except—
 
 (1) to pay the relocation or sharing costs incurred by eligible Federal entities in order to relocate from the frequencies the auction of which generated such amounts; or
 
@@ -1013,6 +1087,8 @@ For definition of the 1934 Act, referred to in subsec. (b)(1), see [section 921(
 ### Statutory Notes
 
 #### Amendments
+2015—Subsecs. (g) to (i). Pub. L. 114–74 added subsecs. (g) and (h) and redesignated former subsec. (g) as (i).
+
 2012—Pub. L. 112–96, § 6702(1), substituted “relocation or sharing costs” for “relocation costs” wherever appearing.
 
 Subsec. (c). Pub. L. 112–96, § 6702(2), amended subsec. (c) generally. Prior to amendment, text read as follows: “The amounts in the Fund from auctions of eligible frequencies are authorized to be used to pay relocation or sharing costs, as defined in [section 923(g)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/g/3&num=0&edition=prelim), of an eligible Federal entity incurring such costs with respect to relocation from those frequencies.”
@@ -1058,9 +1134,9 @@ Pub. L. 108–494, title II, § 207, Dec. 23, 2004, 118 Stat. 3996, provided tha
 
 **(b) Conditions of contracts**
 
-(1) **Initial registry** — The NTIA shall not exercise any option periods under any contract between the NTIA and the initial registry to operate and maintain the United States country code Internet domain unless the initial registry agrees, during the 90-day period beginning upon December 4, 2002, to carry out, and to operate the new domain in accordance with, the requirements under subsection (c) of this section. Nothing in this subsection shall be construed to prevent the initial registry of the United States country code Internet domain from participating in the NTIA’s process for selecting a successor registry or to prevent the NTIA from awarding, to the initial registry, the contract to be successor registry subject to the requirements of paragraph (2).
+(1) **Initial registry** — The NTIA shall not exercise any option periods under any contract between the NTIA and the initial registry to operate and maintain the United States country code Internet domain unless the initial registry agrees, during the 90-day period beginning upon December 4, 2002, to carry out, and to operate the new domain in accordance with, the requirements under subsection (c). Nothing in this subsection shall be construed to prevent the initial registry of the United States country code Internet domain from participating in the NTIA’s process for selecting a successor registry or to prevent the NTIA from awarding, to the initial registry, the contract to be successor registry subject to the requirements of paragraph (2).
 
-(2) **Successor registries** — The NTIA shall not enter into any contract for operating and maintaining the United States country code Internet domain with any successor registry unless such registry enters into an agreement with the NTIA, during the 90-day period after selection of such registry, that provides for the registry to carry out, and the new domain to operate in accordance with, the requirements under subsection (c) of this section.
+(2) **Successor registries** — The NTIA shall not enter into any contract for operating and maintaining the United States country code Internet domain with any successor registry unless such registry enters into an agreement with the NTIA, during the 90-day period after selection of such registry, that provides for the registry to carry out, and the new domain to operate in accordance with, the requirements under subsection (c).
 
 **(c) Requirements of new domain** The registry and new domain shall be subject to the following requirements:
 
@@ -1248,7 +1324,7 @@ Pub. L. 107–317, § 2, Dec. 4, 2002, 116 Stat. 2766, provided that: “(a) Fin
 
 (3) **Eligible entity**
 
-  (A) *In general* — The term “eligible entity” means a State or local government or a tribal organization (as defined in section 450b(l) of title 25).
+  (A) *In general* — The term “eligible entity” means a State or local government or a tribal organization (as defined in section 5304(l) of title 25).
 
   (B) *Instrumentalities* — The term “eligible entity” includes public authorities, boards, commissions, and similar bodies created by one or more eligible entities described in subparagraph (A) to provide 9–1–1 services, E9–1–1 services, or Next Generation 9–1–1 services.
 

@@ -1216,7 +1216,14 @@ Pub. L. 105–174, title III, § 7001(b), May 1, 1998, 112 Stat. 91, as amended 
 
 (2) 1 percent of that individual’s average pay multiplied by so much of such individual’s total service as exceeds 20 years.
 
-**(f)** The annuity of an air traffic controller or former air traffic controller retiring under section 8412(a) is computed under subsection (a), except that if the individual has had at least 5 years of service as an air traffic controller as defined by section 2109(1)(A)(i), so much of the annuity as is computed with respect to such type of service shall be computed by multiplying 17⁄10 percent of the individual’s average pay by the years of such service.
+**(f)** The annuity of an air traffic controller or former air traffic controller retiring under section 8412(a) is computed under subsection (a), except that if the individual has at least 5 years of service in any combination as—
+
+(1) an air traffic controller as defined by section 2109(1)(A)(i);
+
+(2) a first level supervisor of an air traffic controller as defined by section 2109(1)(A)(i); or
+
+(3) a second level supervisor of an air traffic controller as defined by section 2109(1)(A)(i);
+so much of the annuity as is computed with respect to such type of service shall be computed by multiplying 1 7/10 percent of the individual’s average pay by the years of such service.
 
 **(g)**
 
@@ -1296,6 +1303,8 @@ The date of the enactment of this subsection, referred to in subsec. (k), is the
 The date of enactment of this paragraph, referred to in subsec. (m)(2)(B)(i), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
 
 #### Amendments
+2016—Subsec. (f). Pub. L. 114–190 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The annuity of an air traffic controller or former air traffic controller retiring under section 8412(a) is computed under subsection (a), except that if the individual has had at least 5 years of service as an air traffic controller as defined by section 2109(1)(A)(i), so much of the annuity as is computed with respect to such type of service shall be computed by multiplying 17⁄10 percent of the individual’s average pay by the years of such service.”
+
 2013—Subsec. (d). Pub. L. 113–67 inserted “or a further revised annuity employee” after “a revised annuity employee”.
 
 2012—Subsecs. (d) to (n). Pub. L. 112–96 added subsec. (d) and redesignated former subsecs. (d) to (m) as (e) to (n), respectively.
@@ -1338,6 +1347,9 @@ Subsec. (i). Pub. L. 106–571 added subsec. (i).
 
 1986—Subsec. (f)(2). Pub. L. 99–556 inserted “8412(g) or” in subpars. (A) and (B).
 
+#### Effective Date of 2016 Amendment
+Pub. L. 114–190, title II, § 2304(b), July 15, 2016, 130 Stat. 640, provided that: “The amendment made by subsection (a) [amending this section] shall be deemed to be effective on December 12, 2003.”
+
 #### Effective Date of 2009 Amendment
 Pub. L. 111–84, div. A, title XIX, § 1901(c), Oct. 28, 2009, 123 Stat. 2615, provided that: “The amendments made by this section [amending this section and [section 8422 of this title](./chapter-084-federal-employees-retirement-system.md#section-8422)] shall apply with respect to any annuity, entitlement to which is based on a death or other separation from service occurring on or after the date of enactment of this Act [Oct. 28, 2009].”
 
@@ -1363,6 +1375,9 @@ Amendment by Pub. L. 105–261 effective at the beginning of the first pay perio
 
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–61 applicable to any annuity commencing before, on, or after Oct. 10, 1997, and effective with regard to any payment made after the first month following Oct. 10, 1997, see section 516(b) of Pub. L. 105–61, set out as a note under [section 8334 of this title](./chapter-083-retirement.md#section-8334).
+
+#### Procedures Required
+Pub. L. 114–190, title II, § 2304(c), July 15, 2016, 130 Stat. 640, provided that: “The Director of the Office of Personnel Management shall establish such procedures as are necessary to provide for— “(1) notification to each annuitant affected by the amendments made by this section [amending this section]; “(2) recalculation of the benefits of affected annuitants; “(3) an adjustment to applicable monthly benefit amounts pursuant to such recalculation, to begin as soon as is practicable; and “(4) a lump-sum payment to each affected annuitant equal to the additional total benefit amount that such annuitant would have received had the amendment made by subsection (a) been in effect on December 12, 2003.”
 
 #### Clarification Relating to Consideration of Pre-1987 Service as an Air Traffic Controller for Retirement Purposes
 See section 2 of Pub. L. 100–92, set out as a note under [section 8332 of this title](./chapter-083-retirement.md#section-8332).
@@ -1669,7 +1684,7 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub
 
 <a id="section-8421a"></a>
 ## § 8421a. Reductions on account of earnings from work performed while entitled to an annuity supplement
-**(a)** The amount of the annuity supplement to which an individual is entitled under section 8421 for any month (determined without regard to subsection (c) of such section) shall be reduced by the amount of any excess earnings of such individual which are required to be charged to such supplement for such month, as determined under subsection (b).
+**(a)** Except as provided in subsection (c), the amount of the annuity supplement to which an individual is entitled under section 8421 for any month (determined without regard to subsection (c) of such section) shall be reduced by the amount of any excess earnings of such individual which are required to be charged to such supplement for such month, as determined under subsection (b).
 
 **(b)** The amount of an individual’s excess earnings shall be charged to months as follows:
 
@@ -1703,7 +1718,9 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub
 
 (5) Notwithstanding paragraphs (1) through (4), the reduction required by subsection (a) shall be effective with respect to the annuity supplement payable for each month in the 12-month period beginning on the first day of the seventh month after the end of the calendar year in which the excess earnings were earned.
 
-**(c)** The Office shall prescribe regulations under which this section shall be applied in the case of a reemployed annuitant.
+**(c)** This section shall not apply to an individual described in section 8412(e) during any period in which the individual, after separating from the service as described in that section, is employed full-time as an air traffic control instructor under contract with the Federal Aviation Administration, including an instructor working at an on-site facility (such as an airport).
+
+**(d)** The Office shall prescribe regulations under which this section shall be applied in the case of a reemployed annuitant.
 
 ### Statutory Notes
 
@@ -1711,6 +1728,10 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub
 Section 203 of the Social Security Act, referred to in subsec. (b)(4)(A), is classified to [section 403 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section403&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–251, § 1(1), substituted “Except as provided in subsection (c), the amount” for “The amount”.
+
+Subsecs. (c), (d). Pub. L. 114–251, § 1(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
+
 2000—Subsec. (b)(5). Pub. L. 106–394 added par. (5).
 
 1986—Subsecs. (c), (d). Pub. L. 99–556 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “If, after an individual ceases to be entitled to an annuity supplement under section 8421 by reason of subsection (a)(3)(B) of such section, any portion of the individual’s excess earnings remains outstanding, an amount not to exceed 25 percent of the amount otherwise payable to such individual under this chapter for each month shall be deducted from such monthly payment until the full amount of that outstanding portion has been accounted for. To the extent practicable, reductions under this subsection shall be made by a level percentage.”
@@ -2384,6 +2405,25 @@ Pub. L. 106–168, title II, § 203(c), Dec. 12, 1999, 113 Stat. 1820, provided 
 
 ### Statutory Notes
 
+#### Amendment of Subsections (b)(2) and (g)
+Pub. L. 114–92, div. A, title VI, §§ 632(b), (c), 635, Nov. 25, 2015, 129 Stat. 847, 851, as amended by Pub. L. 114–328, div. A, title VI, § 632, Dec. 23, 2016, 130 Stat. 2162, provided that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended as follows:
+
+(1) in subsection (b)(2):
+
+(A) in subparagraph (D)(ii), by striking “Members” and inserting “(ii) Except in the case of a full TSP member (as defined in section 8440e(a)), members”;
+
+(B) in subparagraph (E), by striking “8440e(a)(1)” and inserting “8440e(b)(1)”; and
+
+(C) by adding at the end the following new subparagraph:
+
+“(F) Notwithstanding any other provision of this paragraph, if a full TSP member (as defined in section 8440e(a)) has declined automatic enrollment into the Thrift Savings Plan for a year, the full TSP member shall be automatically reenrolled on January 1 of the succeeding year, with contributions under subsection (a) at the default percentage of basic pay.”; and
+
+(2) in subsection (g)(2), by striking “or” after the semicolon in subparagraph (A)(iii), striking the period at the end of subparagraph (B) and inserting “; or”, and adding at the end the following:
+
+“(C) 2 years of service in the case of a member of the uniformed services.”
+
+See 2015 Amendment notes below.
+
 #### References in Text
 The Internal Revenue Code of 1986, referred to in subsecs. (a)(3), (d), and (j), is classified generally to Title 26, Internal Revenue Code.
 
@@ -2394,6 +2434,18 @@ Section 204 of the Federal Employees’ Retirement Contribution Temporary Adjust
 The Intelligence Authorization Act for Fiscal Year 2003, referred to in subsec. (k)(1), is Pub. L. 107–306, Nov. 27, 2002, 116 Stat. 2383. Section 402 of the Act was formerly set out as a note under [section 403–4 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–4&num=0&edition=prelim), War and National Defense, and was editorially reclassified as a note under [section 3505 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3505&num=0&edition=prelim).
 
 #### Amendments
+2016—Subsec. (g)(6). Pub. L. 114–328 repealed Pub. L. 114–92, § 632(c)(2). See 2015 Amendment note below.
+
+2015—Subsec. (b)(2)(D)(ii). Pub. L. 114–92, § 632(b)(1), substituted “(ii) Except in the case of a full TSP member (as defined in section 8440e(a)), members” for “Members”.
+
+Subsec. (b)(2)(E). Pub. L. 114–92, § 632(b)(2), substituted “8440e(b)(1)” for “8440e(a)(1)”.
+
+Subsec. (b)(2)(F). Pub. L. 114–92, § 632(b)(3), added subpar. (F).
+
+Subsec. (g)(2)(C). Pub. L. 114–92, § 632(c)(1), added subpar. (C).
+
+Subsec. (g)(6). Pub. L. 114–92, § 632(c)(2), which directed the amendment of subsec. (g) by adding at the end “(6) For purposes of this subsection, a member of the uniformed services shall be considered to have separated from Government employment if the member is discharged or released from service in the uniformed services.”, was repealed by Pub. L. 114–328, § 632.
+
 2009—Subsec. (b)(1)(B). Pub. L. 111–31, § 102(b), which directed the amendment of par. (1) by “striking the parenthetical matter in subparagraph (B)” was executed by striking out “(or any election allowable by virtue of paragraph (4))” before “shall be the percentage”, but not striking out “(A)” after “subparagraph”, to reflect the probable intent of Congress.
 
 Subsec. (b)(2) to (4). Pub. L. 111–31, § 102(a), added par. (2) and struck out former pars. (2) to (4) which related to eligibility to make an election regarding contributions.
@@ -2453,6 +2505,12 @@ Subsec. (g)(4). Pub. L. 100–238, § 115(2), added par. (4).
 Subsec. (c)(1). Pub. L. 99–509, § 6001(a)(2)(A), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
 Subsec. (c)(2)(C). Pub. L. 99–509, § 6001(a)(2)(B), added subpar. (C).
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–328, div. A, title VI, § 632, Dec. 23, 2016, 130 Stat. 2162, provided that, effective Dec. 23, 2016, paragraph (2) of section 632(c) of Pub. L. 114–92 (amending this section) is repealed, and the amendment proposed to be made by that paragraph shall not be made or go into effect.
+
+#### Effective Date of 2015 Amendment; Implementation
+Pub. L. 114–92, div. A, title VI, § 635, Nov. 25, 2015, 129 Stat. 851, provided that: “(a) Effective Date.—The amendments made by this part [part I (§§ 631–635) of subtitle D of title VI of Pub. L. 114–92, enacting [section 1415 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1415&num=0&edition=prelim), Armed Forces, and [section 356 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section356&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, and amending this section and sections 8432b, 8438, and 8440e of this title, sections 1401, 1401a, 1409, 1410, 1413a, 1414, 1463, and 12739 of Title 10, [section 3045 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3045&num=0&edition=prelim), Navigation and Navigable Waters, sections 211 and 354 of Title 37, [section 5304 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5304&num=0&edition=prelim), Veterans’ Benefits, and [section 212 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section212&num=0&edition=prelim), The Public Health and Welfare] shall take effect on January 1, 2018. “(b) Implementation.—“(1) In general.—The Secretaries concerned, the Director of the Office of Personnel Management, and the Federal Retirement Thrift Investment Board shall each and jointly take appropriate actions to ensure the full and effective implementation of the amendments made by this part in order to ensure that members of the uniformed services will be able to participate in the modernized retirement plan provided by this part commencing on the date specified in subsection (a). “(2) Implementation plan.—Not later than March 1, 2016, the Secretaries concerned shall submit to the appropriate committees of Congress a report containing a plan to ensure the full and effective commencement and operational implementation of the amendments made by this part in accordance with paragraph (1). “(c) Additional Technical and Conforming Amendments.—The report required by subsection (b) shall contain a draft of such legislation as may be necessary to make any additional technical and conforming changes to titles 10 and 37, United States Code, and other provisions of law that are required or should be made by reason of the amendments made by this part. “(d) Definitions.—In this section:“(1) The term ‘appropriate committees of Congress’ means—“(A) the Committee on Armed Services, the Committee on Energy and Commerce, the Committee on Natural Resources, the Committee on Oversight and Government Reform, and the Committee on Transportation and Infrastructure of the House of Representatives; and “(B) the Committee on Armed Services, the Committee on Commerce, Science, and Transportation, the Committee on Energy and Natural Resources, the Committee on Homeland Security and Governmental Affairs, and the Committee on Health, Education, Labor, and Pensions of the Senate. “(2) The term ‘Secretary concerned’ has the meaning given that term in [section 101 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section101&num=0&edition=prelim), United States Code.”
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–304 effective as of the earliest practicable date determined by the Executive Director in regulations, see section 1(c) of Pub. L. 107–304, set out as a note under [section 8351 of this title](./chapter-083-retirement.md#section-8351).
@@ -2616,13 +2674,21 @@ Pub. L. 101–335, § 2(b), July 17, 1990, 104 Stat. 320, provided that: “The 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)(2)(B)
+Pub. L. 114–92, div. A, title VI, §§ 632(e)(2), 635, Nov. 25, 2015, 129 Stat. 847, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (c)(2)(B) of this section is amended by striking “(including pursuant to an agreement under [section 211(d) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section211/d&num=0&edition=prelim))”. See 2015 Amendment note below.
+
 #### References in Text
 Section 8433(h), referred to in subsec. (h)(2)(A), was redesignated section 8433(f) by Pub. L. 103–226, § 9(b)(2), Mar. 30, 1994, 108 Stat. 119.
 
 #### Amendments
+2015—Subsec. (c)(2)(B). Pub. L. 114–92 struck out “(including pursuant to an agreement under [section 211(d) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section211/d&num=0&edition=prelim))” before “with respect to the period”.
+
 1999—Subsec. (b)(2)(B). Pub. L. 106–65, § 661(a)(3)(A), inserted “or 8440e” after “section 8432(a)”.
 
 Subsec. (c). Pub. L. 106–65, § 661(a)(3)(C), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+
+#### Effective Date of 2015 Amendment; Implementation
+Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under [section 8432 of this title](./chapter-084-federal-employees-retirement-system.md#section-8432).
 
 #### Effective Date of 1999 Amendment
 Amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless postponed, see section 663 of Pub. L. 106–65, as amended, set out as an Effective Date note under [section 8440e of this title](./chapter-084-federal-employees-retirement-system.md#section-8440e).
@@ -3364,7 +3430,11 @@ Pub. L. 112–267, § 2, Jan. 14, 2013, 126 Stat. 2440, provided that: “Any po
 
 (1) The Executive Director shall invest the sums available in the Thrift Savings Fund for investment as provided in elections made under subsection (d).
 
-(2) If an election has not been made with respect to any sums in the Thrift Savings Fund available for investment, the Executive Director shall invest such sums in the Government Securities Investment Fund.
+(2)
+
+  (A) Consistent with the requirements of subparagraph (B), if an election has not been made with respect to any sums available for investment in the Thrift Savings Fund, the Executive Director shall invest such sums in an age-appropriate target date asset allocation investment fund, as determined by the Executive Director. Such investment fund shall consist of any of the funds described in subsection (b).
+
+  (B) If an election has not been made by an eligible member under section 8440e with respect to any sums available for investment in such member’s Thrift Savings Fund account, the Executive Director shall invest such sums in the Government Securities Investment Fund.
 
 **(d)**
 
@@ -3415,11 +3485,11 @@ Pub. L. 112–267, § 2, Jan. 14, 2013, 126 Stat. 2440, provided that: “Any po
 ### Statutory Notes
 
 #### Amendment of Subsection (c)(2)
-Pub. L. 113–255, § 2(a), (e), Dec. 18, 2014, 128 Stat. 2920, provided that, effective on the date that the Executive Director issues guidance under section 2(d) of Pub. L. 113–255, set out as a note below, and applicable to individuals enrolled in the Thrift Savings Plan on or after such date, subsection (c)(2) of this section is amended to read as follows: “(2)(A) Consistent with the requirements of subparagraph (B), if an election has not been made with respect to any sums available for investment in the Thrift Savings Fund, the Executive Director shall invest such sums in an age-appropriate target date asset allocation investment fund, as determined by the Executive Director. Such investment fund shall consist of any of the funds described in subsection (b). “(B) If an election has not been made by an eligible member under section 8440e with respect to any sums available for investment in such member’s Thrift Savings Fund account, the Executive Director shall invest such sums in the Government Securities Investment Fund.”
-
-See 2014 Amendment note below.
+Pub. L. 114–92, div. A, title VI, §§ 632(d), 635, Nov. 25, 2015, 129 Stat. 847, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (c)(2) of this section is amended in subparagraph (A) by striking “(A) Consistent with the requirements of subparagraph (B), if an” and inserting “If an” and by striking subparagraph (B). See 2015 Amendment note below.
 
 #### Amendments
+2015—Subsec. (c)(2). Pub. L. 114–92 substituted “If an” for “(A) Consistent with the requirements of subparagraph (B), if an” and struck out subpar. (B) which read as follows: “If an election has not been made by an eligible member under section 8440e with respect to any sums available for investment in such member’s Thrift Savings Fund account, the Executive Director shall invest such sums in the Government Securities Investment Fund.”
+
 2014—Subsec. (c)(2). Pub. L. 113–255 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If an election has not been made with respect to any sums in the Thrift Savings Fund available for investment, the Executive Director shall invest such sums in the Government Securities Investment Fund.”
 
 2009—Subsec. (b)(1)(F). Pub. L. 111–31, § 104(a), added subpar. (F).
@@ -3454,8 +3524,11 @@ Subsecs. (h), (i). Pub. L. 101–335, § 3(a)(1), (7), redesignated subsec. (i) 
 
 1987—Subsecs. (h), (i). Pub. L. 100–43 added subsecs. (h) and (i).
 
+#### Effective Date of 2015 Amendment; Implementation
+Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under [section 8432 of this title](./chapter-084-federal-employees-retirement-system.md#section-8432).
+
 #### Effective Date of 2014 Amendment
-Pub. L. 113–255, § 2(e), Dec. 18, 2014, 128 Stat. 2920, provided that: “The amendments made by subsections (a) and (b) [amending this section and [section 8439 of this title](./chapter-084-federal-employees-retirement-system.md#section-8439)] shall— “(1) take effect on the date that the Executive Director issues guidance under subsection (d) [section 2(d) of Pub. L. 113–255, set out as a Guidance note below]; and “(2) apply to individuals enrolled in the Thrift Savings Plan on or after such date.”
+Pub. L. 113–255, § 2(e), Dec. 18, 2014, 128 Stat. 2920, provided that: “The amendments made by subsections (a) and (b) [amending this section and [section 8439 of this title](./chapter-084-federal-employees-retirement-system.md#section-8439)] shall— “(1) take effect on the date that the Executive Director issues guidance under subsection (d) [guidance published Aug. 28, 2015, effective Sept. 5, 2015, see section 2(d) of Pub. L. 113–255, set out as a Guidance note below]; and “(2) apply to individuals enrolled in the Thrift Savings Plan on or after such date.”
 
 #### Effective Date of 1996 Amendment
 Section 101(f) [title VI, § 659 [title I, § 104]] provided that: “This title [title I (§§ 101–104) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and [section 8439 of this title](./chapter-084-federal-employees-retirement-system.md#section-8439) and enacting provisions set out as a note under [section 8401 of this title](./chapter-084-federal-employees-retirement-system.md#section-8401)] shall take effect on the date of enactment of this Act [Sept. 30, 1996], and the Funds established under this title shall be offered for investment at the earliest practicable election period (described in [section 8432(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8432/b&num=0&edition=prelim), United States Code) as determined by the Executive Director in regulations.”
@@ -3468,6 +3541,8 @@ Pub. L. 100–366, § 2(b), July 13, 1988, 102 Stat. 826, provided that: “The 
 
 #### Guidance
 Pub. L. 113–255, § 2(d), Dec. 18, 2014, 128 Stat. 2920, provided that: “Not later than 9 months after the date of enactment of this Act [Dec. 18, 2014], the Executive Director (as that term is defined under [section 8401(13) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8401/13&num=0&edition=prelim), United States Code) shall develop and issue guidance implementing the requirements of this Act [see section 1 of Pub. L. 113–255, set out as a Short Title of 2014 Amendment note under [section 101 of this title](./chapter-001-organization.md#section-101)].”
+
+[Guidance issued in the form of a final rule published Aug. 28, 2015, effective Sept. 5, 2015, see 80 F.R. 52173.]
 
 #### Removal of Investment Restrictions
 Pub. L. 101–335, § 3(b)(4), July 17, 1990, 104 Stat. 320, provided that: “Any other provision of law, in effect on the date of enactment of this Act [July 17, 1990], which provides that any amounts contributed to the Thrift Savings Fund, or earnings thereon, may be invested or reinvested only in the Government Securities Investment Fund established under [section 8438(b)(1)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8438/b/1/A&num=0&edition=prelim), United States Code, shall cease to be effective.”
@@ -3513,20 +3588,13 @@ Pub. L. 101–335, § 3(b)(4), July 17, 1990, 104 Stat. 320, provided that: “A
 
 (2) Information under this subsection shall be provided on a regular basis, and in a manner designed to facilitate informed decisionmaking with respect to elections under sections 8432 and 8438 of this title. Nothing in this paragraph shall be considered to limit the dissemination of information only to the times required under the preceding sentence.
 
-**(d)** Each employee, Member, former employee, or former Member who elects to invest in any investment fund or option under this chapter, other than the Government Securities Investment Fund, shall sign an acknowledgement prescribed by the Executive Director which states that the employee, Member, former employee, or former Member understands that an investment in any such fund or option is made at the employee’s, Member’s, former employee’s, or former Member’s risk, that the employee, Member, former employee, or former Member is not protected by the Government against any loss on such investment, and that a return on such investment is not guaranteed by the Government.
+**(d)**
+
+(1) Each employee, Member, former employee, or former Member who elects to invest in any investment fund or option under this chapter, other than the Government Securities Investment Fund, shall sign an acknowledgement prescribed by the Executive Director which states that the employee, Member, former employee, or former Member understands that an investment in any such fund or option is made at the employee’s, Member’s, former employee’s, or former Member’s risk, that the employee, Member, former employee, or former Member is not protected by the Government against any loss on such investment, and that a return on such investment is not guaranteed by the Government.
+
+(2) Prior to enrollment in the Thrift Savings Fund, or as soon as practicable thereafter, an individual who is automatically enrolled pursuant to section 8432(b)(2) shall receive the risk acknowledgment information described under paragraph (1).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (d)
-Pub. L. 113–255, § 2(b), (e), Dec. 18, 2014, 128 Stat. 2920, provided that, effective on the date that the Executive Director issues guidance under section 2(d) of Pub. L. 113–255, set out as a note under [section 8438 of this title](./chapter-084-federal-employees-retirement-system.md#section-8438), and applicable to individuals enrolled in the Thrift Savings Plan on or after such date, subsection (d) of this section is amended by—
-
-(1) inserting “(1)” before “Each employee”; and
-
-(2) adding at the end the following new paragraph:
-
-“(2) Prior to enrollment in the Thrift Savings Fund, or as soon as practicable thereafter, an individual who is automatically enrolled pursuant to section 8432(b)(2) shall receive the risk acknowledgment information described under paragraph (1).”
-
-See 2014 Amendment note below.
 
 #### Amendments
 2014—Subsec. (d). Pub. L. 113–255 designated existing provisions as par. (1) and added par. (2).
@@ -3554,7 +3622,7 @@ Subsec. (a)(2)(A)(ii). Pub. L. 106–65, § 661(a)(5)(C), struck out “under [s
 Subsec. (d). Pub. L. 104–208 substituted “Each employee, Member, former employee, or former Member who elects to invest in the Common Stock Index Investment Fund, the Fixed Income Investment Fund, the International Stock Index Investment Fund, or the Small Capitalization Stock Index Investment Fund, defined in paragraphs (1), (3), (5), and (10),” for “Each employee, Member, former employee, or former Member who elects to invest in the Common Stock Index Investment Fund or the Fixed Income Investment Fund described in paragraphs (1) and (3),”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–255 effective on the date that the Executive Director issues guidance under section 2(d) Pub. L. 113–255, set out as a Guidance note under [section 8438 of this title](./chapter-084-federal-employees-retirement-system.md#section-8438), and applicable to individuals enrolled in the Thrift Savings Plan on or after such date, see section 2(e) of Pub. L. 113–255, set out as a note under [section 8438 of this title](./chapter-084-federal-employees-retirement-system.md#section-8438).
+Amendment by Pub. L. 113–255 effective on the date that the Executive Director issues guidance under section 2(d) Pub. L. 113–255, set out as a Guidance note under [section 8438 of this title](./chapter-084-federal-employees-retirement-system.md#section-8438) [guidance published Aug. 28, 2015, effective Sept. 5, 2015], and applicable to individuals enrolled in the Thrift Savings Plan on or after such date, see section 2(e) of Pub. L. 113–255, set out as a note under [section 8438 of this title](./chapter-084-federal-employees-retirement-system.md#section-8438).
 
 #### Effective Date of 2000 Amendment
 Amendment by Pub. L. 106–361 effective at the earliest practicable date after Sept. 30, 2000, as determined by the Executive Director in regulations, see section 2(c)(1) of Pub. L. 106–361, set out as a note under [section 8432 of this title](./chapter-084-federal-employees-retirement-system.md#section-8432).
@@ -3957,12 +4025,73 @@ Section 5(b) of Pub. L. 102–82, as amended by Pub. L. 102–198, § 7(c)(4)(C)
 
 ### Statutory Notes
 
+#### Amendment of Subsections (a) and (e)
+Pub. L. 114–92, div. A, title VI, §§ 632(a), 635, Nov. 25, 2015, 129 Stat. 845, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, this section is amended as follows:
+
+(1) in subsection (a), by striking paragraphs (1) and (2) and inserting the following new paragraphs:
+
+“(1) the term ‘basic pay’ means basic pay payable under [section 204 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section204&num=0&edition=prelim);
+
+“(2) the term ‘full TSP member’ means a member described in subsection (e)(1);
+
+“(3) the term ‘member’ has the meaning given the term in [section 211 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section211&num=0&edition=prelim); and
+
+“(4) the term ‘Secretary concerned’ has the meaning given the term in [section 101 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section101&num=0&edition=prelim).”; and
+
+(2) by amending subsection (e) to read as follows:
+
+(e) Modernized Retirement System.—
+
+(1) TSP contributions.—Notwithstanding any other provision of law, the Secretary concerned shall make contributions to the Thrift Savings Fund, in accordance with section 8432 (except to the extent the requirements under such section are modified by this subsection), for the benefit of a member—
+
+(A) who first enters a uniformed service on or after January 1, 2018; or
+
+(B) who—
+
+(i) first entered a uniformed service before January 1, 2018;
+
+(ii) has completed fewer than 12 years of service in the uniformed services as of December 31, 2017; and
+
+(iii) makes the election described in section 1409(b)(4)(B) or 12729(f)(2) of title 10 to receive Thrift Savings Plan contributions under this subsection in exchange for the reduced multipliers described in section 1409(b)(4)(A) or 12739(f)(1) of title 10, as applicable, for purposes of calculating the retired pay of the member.
+
+(2) Maximum amount.—The amount contributed under this subsection by the Secretary concerned for the benefit of a full TSP member for any pay period shall not be more than 5 percent of the member’s basic pay for such pay period. Any such contribution under this subsection, though in accordance with section 8432 as provided in paragraph (1), is instead of, and not in addition to, amounts contributable under section 8432 as provided in section 8432(c).
+
+(3) Timing and duration of contributions.—
+
+(A) Automatic contributions.—The Secretary concerned shall make a contribution described in section 8432(c)(1) under this subsection for the benefit of a member described in paragraph (1) for any pay period during the period that—
+
+(i) begins—
+
+(I) on or after the day that is 60 days afer the date the member first enters a uniformed service, in the case of a member described in paragraph (1)(A); or
+
+(II) on or after the date the member makes the election described in paragraph (1)(B), in the case of a member making such an election; and
+
+(ii) ends on the day such member completes 26 years of service as a member of the uniformed services.
+
+(B) Matching contributions.—The Secretary concerned shall make a contribution described in section 8432(c)(2) under this subsection for the benefit of a member described in paragraph (1) for any pay period during the period that—
+
+(i) begins—
+
+(I) on or after the day that is 2 years and 1 day after the date the member first enters a uniformed service, in the case of a member described in paragraph (1)(A); or
+
+(II) on or after the date the member makes the election described in paragraph (1)(B), in the case of a member making such an election; and
+
+(ii) ends on the day such member completes 26 years of service as a member of the uniformed services.
+
+(4) Protections for spouses and former spouses.—Section 8435 shall apply to a full TSP member in the same manner as such section is applied to an employee or Member under such section.
+
+See 2015 Amendment notes below.
+
 #### References in Text
 Section 663 of the National Defense Authorization Act for Fiscal Year 2000, referred to in subsec. (b)(2)(B)(i), is section 663 of Pub. L. 106–65, as amended, which is set out as an Effective Date note below.
 
 The Internal Revenue Code of 1986, referred to in subsec. (d)(3), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–92, § 632(a)(1), added pars. (1) to (4) and struck out former pars. (1) and (2) which defined “member” and “basic pay”, respectively.
+
+Subsec. (e). Pub. L. 114–92, § 632(a)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Except as provided in [section 211(d) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section211/d&num=0&edition=prelim), no contribution under [section 8432(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8432/c&num=0&edition=prelim) may be made for the benefit of a member making contributions to the Thrift Savings Fund under this section.”
+
 2004—Subsec. (b)(2)(A). Pub. L. 108–469 substituted “as provided under section 8432(b)” for “only during a period provided under section 8432(b), subject to the same conditions as prescribed under paragraph (2) (A)–(D) thereof”.
 
 2000—Subsec. (b)(2)(B)(i). Pub. L. 106–398 substituted “as of the effective date that applies with respect to such individual under section 663 of the National Defense Authorization Act for Fiscal Year 2000” for “as of the effective date described in paragraph (1) of section 663(a) of the National Defense Authorization Act for Fiscal Year 2000 (or, if applicable, paragraph (2) thereof)”.
@@ -3970,6 +4099,9 @@ The Internal Revenue Code of 1986, referred to in subsec. (d)(3), is classified 
 Subsec. (d)(1)(A). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(6)(A)], substituted “the maximum percentage of such member’s basic pay for such pay period allowable under section 8440f.” for “5 percent of such member’s basic pay for such pay period.”
 
 Subsec. (d)(1)(B). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(6)(B)], substituted “the maximum percentage of such member’s compensation for such pay period (received under such section 206) allowable under section 8440f.” for “5 percent of such compensation, payable to such member for such pay period.”
+
+#### Effective Date of 2015 Amendment; Implementation
+Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under [section 8432 of this title](./chapter-084-federal-employees-retirement-system.md#section-8432).
 
 #### Effective Date
 Pub. L. 106–65, div. A, title VI, § 663, Oct. 5, 1999, 113 Stat. 673, as amended by Pub. L. 106–398, § 1 [[div. A], title VI, § 661(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–167, provided that: “(a) In General.—Except as provided in subsection (b), the amendments made by this subtitle [subtitle F (§§ 661–663) of title VI of div. A of Pub. L. 106–65, enacting this section and [section 211 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section211&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, and amending sections 8351, 8432b, 8433, 8439, and 8473 of this title and [section 211 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section211&num=0&edition=prelim)] shall take effect 180 days after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 [Oct. 30, 2000]. “(b) Postponement Authority.—(1) The Secretary of Defense may postpone by up to 180 days after the date that would otherwise apply under subsection (a)—“(A) the date as of which the amendments made by this subtitle shall take effect; or “(B) the date as of which [section 211(a)(2) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section211/a/2&num=0&edition=prelim), United States Code (as added by this subtitle) shall take effect. “(2) Postponement authority under this subsection may be exercised only to the extent that the failure to do so would prevent the Federal Retirement Thrift Investment Board from being able to provide timely and accurate services to investors or would place an excessive burden on the administrative capacity of the Board to accommodate participants in the Thrift Savings Plan, as determined by the Secretary of Defense after consultation with the Executive Director (appointed by the Board). “(3) Paragraph (1) includes the authority to postpone the effective date of the amendments made by this subtitle (apart from [section 211(a)(2) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section211/a/2&num=0&edition=prelim), United States Code), and the effective date of such section 211(a)(2), by different lengths of time. “(4) The Secretary shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], the Committee on Government Reform [now Committee on Oversight and Government Reform] of the House of Representatives, and the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate of any determination made under this subsection.”

@@ -57,7 +57,7 @@ Process in the action may be served in the judicial district of which the offend
 
 (2) **Cost of service.—** — Any business entertainment expense subject to paragraph (1) that is paid or incurred by a water carrier providing transportation subject to this part shall not be taken into account in determining the cost of service or the rate base for purposes of section 13702.
 
-**(h) Settlement of Household Goods Civil Penalties.—** Nothing in this section shall be construed to prohibit the Secretary from accepting partial payment of a civil penalty as part of a settlement agreement in the public interest, or from holding imposition of any part of a civil penalty in abeyance.
+**(h) Settlement of Civil Penalties.—** Nothing in this section shall be construed to prohibit the Secretary from accepting partial payment of a civil penalty as part of a settlement agreement in the public interest, or from holding imposition of any part of a civil penalty in abeyance.
 
 ### Statutory Notes
 
@@ -68,7 +68,11 @@ The Solid Waste Disposal Act, referred to in subsec. (b), is title II of Pub. L.
 Provisions similar to those in this section were contained in sections 10751 and 11901 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Amendments
-2012—Subsec. (a). Pub. L. 112–141, § 32108(a)(4), which directed substitution of “$10,000 for each violation, or $25,000 for each violation relating to providing transportation of passengers” for “$2,000 for each violation and each additional day the violation continues”, was executed by making the substitution for “$2,000 for each violation and for each additional day the violation continues” in concluding provisions, to reflect the probable intent of Congress.
+2015—Subsec. (a). Pub. L. 114–94, § 5508(b)(1), amended Pub. L. 112–141, § 32108(a)(4). See 2012 Amendment note below.
+
+Subsec. (h). Pub. L. 114–94, § 5508(a)(4), struck out “Household Goods” after “Settlement of” in heading.
+
+2012—Subsec. (a). Pub. L. 112–141, § 32108(a)(4), as amended by Pub. L. 114–94, § 5508(b)(1), substituted “$10,000 for each violation, or $25,000 for each violation relating to providing transportation of passengers” for “$2,000 for each violation and for each additional day the violation continues” in concluding provisions.
 
 Pub. L. 112–141, § 32108(a)(1)–(3), substituted “$1,000” for “$500” and “or [section 13902(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section13902/c&num=0&edition=prelim),” for “with respect to providing transportation of passengers,” and struck out “who is not registered under this part to provide transportation of passengers,” after “in the case of a person” in concluding provisions.
 
@@ -78,11 +82,16 @@ Subsec. (h). Pub. L. 112–141, § 32923(a), added subsec. (h).
 
 2005—Subsec. (d). Pub. L. 109–59 designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
 
+#### Effective Date of 2015 Amendment
+Amendment by section 5508(a)(4) of Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+Pub. L. 114–94, div. A, title V, § 5508(b), Dec. 4, 2015, 129 Stat. 1554, provided that the amendment made by section 5508(b)(1) is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Foreign Motor Carrier Penalties and Disqualifications
 Pub. L. 106–159, title II, § 219, Dec. 9, 1999, 113 Stat. 1768, provided that: “(a) General Rule.—Subject to subsections (b) and (c), a foreign motor carrier or foreign motor private carrier (as such terms are defined under [section 13102 of title 49](./chapter-131-general-provisions.md#section-13102), United States Code) that operates without authority, before the implementation of the land transportation provisions of the North American Free Trade Agreement, outside the boundaries of a commercial zone along the United States-Mexico border shall be liable to the United States for a civil penalty and shall be disqualified from operating a commercial motor vehicle anywhere within the United States as provided in subsections (b) and (c). “(b) Penalty for Intentional Violation.—The civil penalty for an intentional violation of subsection (a) by a carrier shall not be more than $10,000 and may include a disqualification from operating a commercial motor vehicle anywhere within the United States for a period of not more than 6 months. “(c) Penalty for Pattern of Intentional Violations.—The civil penalty for a pattern of intentional violations of subsection (a) by a carrier shall not be more than $25,000 and the carrier shall be disqualified from operating a commercial motor vehicle anywhere within the United States and the disqualification may be permanent. “(d) Leasing.—Before the implementation of the land transportation provisions of the North American Free Trade Agreement, during any period in which a suspension, condition, restriction, or limitation imposed under [section 13902(c) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section13902/c&num=0&edition=prelim), United States Code, applies to a motor carrier (as defined in section 13902(e) of such title), that motor carrier may not lease a commercial motor vehicle to another motor carrier or a motor private carrier to transport property in the United States. “(e) Savings Clause.—No provision of this section may be enforced if it is inconsistent with any international agreement of the United States. “(f) Acts of Employees.—The actions of any employee driver of a foreign motor carrier or foreign motor private carrier committed without the knowledge of the carrier or committed unintentionally shall not be grounds for penalty or disqualification under this section.”
@@ -351,6 +360,12 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 (2) to the individual officers, directors, and principals of such entities.
 
 ### Statutory Notes
+
+#### Amendments
+2015—Pub. L. 114–94 substituted section symbol for “SEC.” before section designation.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.

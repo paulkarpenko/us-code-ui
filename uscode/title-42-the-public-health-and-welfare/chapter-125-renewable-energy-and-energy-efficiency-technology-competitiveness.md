@@ -237,7 +237,7 @@ There are authorized to be appropriated to the Secretary for the following energ
 
 (1) **Establishment**
 
-  (A) The Secretary shall solicit proposals for demonstration and commercial application projects for renewable energy and energy efficiency technologies pursuant to subsection (c) of this section. Such projects may include projects for—
+  (A) The Secretary shall solicit proposals for demonstration and commercial application projects for renewable energy and energy efficiency technologies pursuant to subsection (c). Such projects may include projects for—
 
     (i) the production and sale of electricity, thermal energy, or other forms of energy using a renewable energy technology;
 
@@ -249,9 +249,9 @@ There are authorized to be appropriated to the Secretary for the following energ
 
 (2) **Forms of financial assistance**
 
-  (A) In supporting projects selected under subsection (c) of this section, the Secretary may choose from among the forms of agreements described in [section 13541 of this title](./chapter-134-energy-policy.md#section-13541).
+  (A) In supporting projects selected under subsection (c), the Secretary may choose from among the forms of agreements described in [section 13541 of this title](./chapter-134-energy-policy.md#section-13541).
 
-  (B) In supporting projects selected under subsection (c) of this section, the Secretary may also enter into agreements with private lenders to pay a portion of the interest on loans made for such projects.
+  (B) In supporting projects selected under subsection (c), the Secretary may also enter into agreements with private lenders to pay a portion of the interest on loans made for such projects.
 
 (3) **Cost sharing** — Cost sharing for projects under this section shall be conducted according to the procedures described in section 13542(b) and (c) of this title.
 
@@ -388,7 +388,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 (6) Within one year after October 24, 1992, the Secretary shall submit a revised management plan under this section to Congress. Thereafter, the Secretary shall submit a management plan every three years at the time of submittal of the President’s annual budget submission to the Congress.
 
-**(c) Report on options** As part of the first report submitted under subsection (a) of this section, the Secretary shall submit to Congress a report analyzing options available to the Secretary under existing law to assist the private sector with the timely commercialization of wind, photovoltaic, solar thermal, biofuels, hydrogen, solar buildings, ocean, geothermal, low-head hydro, and energy storage renewable energy technologies and energy efficiency technologies through emphasis on development and demonstration assistance to specific technologies in the research, development, and demonstration programs of the Department of Energy that are near commercial application.
+**(c) Report on options** As part of the first report submitted under subsection (a), the Secretary shall submit to Congress a report analyzing options available to the Secretary under existing law to assist the private sector with the timely commercialization of wind, photovoltaic, solar thermal, biofuels, hydrogen, solar buildings, ocean, geothermal, low-head hydro, and energy storage renewable energy technologies and energy efficiency technologies through emphasis on development and demonstration assistance to specific technologies in the research, development, and demonstration programs of the Department of Energy that are near commercial application.
 
 ### Statutory Notes
 

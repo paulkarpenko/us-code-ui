@@ -808,12 +808,12 @@ Not later than 180 days after November 28, 1989, the President shall submit a re
 
 (1) the confidence building measures Poland and Hungary could undertake to facilitate the negotiation of agreements, including bilateral customs and technology transfer agreements, that would encourage greater direct private sector investment in that country; and
 
-(2) the confidence building measures Poland and Hungary could undertake with respect to the treatment accorded those countries under the Export Administration Act of 1979 [50 U.S.C. App. 2401 et seq.].
+(2) the confidence building measures Poland and Hungary could undertake with respect to the treatment accorded those countries under the Export Administration Act of 1979 [[50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.].
 
 ### Statutory Notes
 
 #### References in Text
-The Export Administration Act of 1979, referred to in par. (2), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+The Export Administration Act of 1979, referred to in par. (2), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-5475"></a>

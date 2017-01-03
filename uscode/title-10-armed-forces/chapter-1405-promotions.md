@@ -106,7 +106,7 @@ Pub. L. 106–65, div. A, title V, § 513(b), Oct. 5, 1999, 113 Stat. 593, provi
 Amendment by section 503(b), (c) of Pub. L. 105–85 effective Nov. 18, 1997, and applicable with respect to selection boards that are convened under section 611(a), 14101(a), or 14502 of this title on or after Nov. 18, 1997, see section 503(d) of Pub. L. 105–85, set out as a note under [section 619 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-619).
 
 #### Effective Date
-Chapter effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14302"></a>
@@ -150,6 +150,9 @@ Chapter effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 #### Amendments
 2006—Subsec. (a)(1)(A). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14303"></a>
 ## § 14303. Eligibility for consideration for promotion: minimum years of service in grade
@@ -170,6 +173,11 @@ This subsection does not apply to an adjutant general or assistant adjutant gene
 
 **(d) Waivers To Ensure Two Below-the-Zone Considerations.—** Subject to [section 14307(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14307/b&num=0&edition=prelim), the Secretary of the military department concerned may waive subsection (b) to the extent necessary to ensure that officers described in paragraph (1) of that subsection have at least two opportunities for consideration for promotion to the next higher grade as officers below the promotion zone.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14304"></a>
 ## § 14304. Eligibility for consideration for promotion: maximum years of service in grade
@@ -186,6 +194,9 @@ This subsection does not apply to an adjutant general or assistant adjutant gene
 **(c) Waiver Authority for Navy and Marine Corps Running Mate System.—** If the Secretary of the Navy establishes promotion zones for officers on the reserve active-status list of the Navy or the Marine Corps Reserve in accordance with a running mate system under [section 14306 of this title](./chapter-1405-promotions.md#section-14306), the Secretary may waive the requirements of subsection (a) to the extent the Secretary considers necessary in any case in which the years of service for promotion, or for consideration for promotion, within those zones will exceed the maximum years of service in grade specified in subsection (a).
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Minimum Service Qualifications for Promotion
 Pub. L. 103–337, div. A, title XVI, § 1685, Oct. 5, 1994, 108 Stat. 3024, provided that: “During the five-year period beginning on the effective date of this title [Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001)], the Secretary of the Army and the Secretary of the Air Force may waive the provisions of [section 14304 of title 10](./chapter-1405-promotions.md#section-14304), United States Code, as added by this title. The Secretary may, in addition, during any period in which such a waiver is in effect, establish minimum periods of total years of commissioned service an officer must have served to be eligible for consideration for promotion to the grade of captain, major, or lieutenant colonel by boards convened under [section 14101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/a&num=0&edition=prelim), United States Code, as added by this title.”
@@ -205,6 +216,11 @@ Pub. L. 103–337, div. A, title XVI, § 1685, Oct. 5, 1994, 108 Stat. 3024, pro
 
 (3) The number of officers that should be placed in the promotion zone in each of the next five years to provide to officers in those years relatively similar opportunities for promotion.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14306"></a>
 ## § 14306. Establishment of promotion zones: Navy Reserve and Marine Corps Reserve running mate system
@@ -221,6 +237,9 @@ Provisions similar to those in subsec. (b) of this section were contained in [se
 
 #### Amendments
 2006—Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14307"></a>
@@ -239,6 +258,9 @@ Provisions similar to those in subsec. (b) of this section were contained in [se
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 5901 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5901&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1629(b)(2).
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14308"></a>
@@ -267,6 +289,8 @@ Provisions similar to those in this section were contained in [section 5901 of t
 
     (ii) would be eligible for consideration for promotion to the next higher grade by a selection board convened under [section 14101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/a&num=0&edition=prelim) upon the convening of such a board.
 
+  (E) If the Secretary of the military department concerned determines that one or more officers or former officers were not placed on an all-fully-qualified-list under this paragraph because of administrative error, the Secretary may prepare a supplemental all-fully-qualified-officers list containing the names of any such officers for approval in accordance with this paragraph.
+
 **(c) Date of Rank.—**
 
 (1) The date of rank of an officer appointed to a higher grade under this section is determined under [section 741(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section741/d/2&num=0&edition=prelim).
@@ -293,6 +317,8 @@ Provisions similar to those in this section were contained in [section 5901 of t
 Provisions similar to those in subsecs. (a), (d), and (f) of this section were contained in sections 3385, 5902(a) to (c), and 8374 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
 
 #### Amendments
+2015—Subsec. (b)(4)(E). Pub. L. 114–92 added subpar. (E).
+
 2006—Subsec. (a). Pub. L. 109–364 inserted at end “A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.”
 
 2001—Subsec. (b)(4). Pub. L. 107–107, § 505(b)(1), added par. (4).
@@ -311,6 +337,9 @@ Amendment by Pub. L. 109–364 effective Oct. 17, 2006, and applicable with resp
 #### Effective Date of 2001 Amendment
 Subsec. (c)(2) of this section applicable with respect to any report of a selection board recommending officers for promotion to the next higher grade that is submitted to the Secretary of the military department concerned on or after Dec. 28, 2001, and Secretary of the military department concerned may apply subsec. (c)(2) of this section in the case of an appointment of an officer to a higher grade resulting from a report of a selection board submitted to the Secretary before Dec. 28, 2001, if the Secretary determines that such appointment would have been made on an earlier date that is on or after Oct. 1, 2001, and was delayed under the circumstances specified in [section 741(d)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section741/d/4&num=0&edition=prelim), see section 506(c) of Pub. L. 107–107, set out as a note under [section 741 of this title](./chapter-043-rank-and-command.md#section-741).
 
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14309"></a>
 ## § 14309. Acceptance of promotion; oath of office
@@ -322,6 +351,9 @@ Subsec. (c)(2) of this section applicable with respect to any report of a select
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 3394 and 8394 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (c)(1).
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14310"></a>
@@ -364,6 +396,9 @@ Pub. L. 109–364, § 515(b)(1)(A), redesignated subsec. (c) as (d).
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–364 applicable to any promotion list approved by the President after Jan. 1, 2007, see section 515(c) of Pub. L. 109–364, set out as a note under [section 629 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-629).
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Delegation of Functions
 For assignment of functions of President under subsec. (a) of this section, see section 1(d) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
@@ -440,6 +475,9 @@ Pub. L. 111–383, div. A, title X, § 1075(g), Jan. 7, 2011, 124 Stat. 4376, pr
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–364 effective Oct. 17, 2006, and applicable with respect to officers on promotion lists established on or after such date, see section 511(e) of Pub. L. 109–364, set out as a note under [section 624 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-624).
 
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 #### Delays in Promotions
 Pub. L. 103–337, div. A, title XVI, § 1684(a), Oct. 5, 1994, 108 Stat. 3024, provided that: “(1) A delay in a promotion that is in effect on the day before the effective date of this title [Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001)] under the laws and regulations in effect on that date shall continue in effect on and after that date as if the promotion had been delayed under [section 14311 of title 10](./chapter-1405-promotions.md#section-14311), United States Code, as added by this title. “(2) The delay of the promotion of a reserve officer of the Army or the Air Force which was in effect solely to achieve compliance with limitations set out in [section 524 of title 10](./chapter-032-officer-strength-and-distribution-in-grade.md#section-524), United States Code, or with regulations prescribed by the Secretary of Defense with respect to sections 3380(c) and 8380(c) of title 10, United States Code, as in effect on the day before the effective date of this title, shall continue in effect as if the promotion had been delayed under section 14311(e) of such title, as added by this title.”
 
@@ -466,6 +504,11 @@ Pub. L. 103–337, div. A, title XVI, § 1684(a), Oct. 5, 1994, 108 Stat. 3024, 
 
 (3) The Secretary concerned has approved the request of an officer for a delay of promotion and, upon the end of the period of delay authorized in accordance with regulations prescribed under subsection (a), the officer then declines to accept an appointment to a higher grade.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14313"></a>
 ## § 14313. Authority to vacate promotions to grade of brigadier general or rear admiral (lower half)
@@ -479,6 +522,9 @@ Pub. L. 103–337, div. A, title XVI, § 1684(a), Oct. 5, 1994, 108 Stat. 3024, 
 
 #### Amendments
 2006—Subsec. (b). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14314"></a>
@@ -514,6 +560,9 @@ Provisions similar to those in this section were contained in sections 3375, 837
 
 #### Amendments
 1996—Subsec. (b)(2)(B). Pub. L. 104–201 struck out “of the Air Force” after “reserve officer”.
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14315"></a>
@@ -557,6 +606,9 @@ Subsec. (b)(2)(A). Pub. L. 106–398, § 1 [[div. A], title V, § 501(2)], inser
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
 
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14316"></a>
 ## § 14316. Army National Guard and Air National Guard: appointment to and Federal recognition in a higher reserve grade after selection for promotion
@@ -571,6 +623,11 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 **(c) National Guard Officers Failed of Selection.—** An officer who is considered as failed of selection for promotion under [section 14501 of this title](./chapter-1407-failure-of-selection-for-promotion-and-involuntary-separation.md#section-14501) to a grade may be extended Federal recognition in that grade only if the Secretary of the military department concerned finds that the officer is the only qualified officer available to fill a vacancy. The Secretary concerned may not delegate the authority under the preceding sentence.
 
 **(d) Transfer to Army Reserve or Air Force Reserve.—** If, on the date on which an officer of the Army National Guard of the United States or of the Air National Guard of the United States who is on a promotion list as described in subsection (a) is to be promoted, the officer has not been promoted to fill a vacancy in the higher grade in the Army National Guard or the Air National Guard, the officer’s Federal recognition in the officer’s reserve grade shall be withdrawn and the officer shall be promoted and transferred to the Army Reserve or the Air Force Reserve as appropriate.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14317"></a>
@@ -630,3 +687,6 @@ Subsec. (e). Pub. L. 108–136, § 512(a)(2), amended heading and text of subsec
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).

@@ -19,7 +19,7 @@ Pub. L. 107–372, title II, § 201, Dec. 19, 2002, 116 Stat. 3082, provided tha
 
 <a id="section-3002"></a>
 ## § 3002. Definitions
-**(a) Applicability of definitions in title 10** Except as provided in subsection (b) of this section, the definitions provided in [section 101 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim) apply to the provisions of this chapter.
+**(a) Applicability of definitions in title 10** Except as provided in subsection (b), the definitions provided in [section 101 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim) apply to the provisions of this chapter.
 
 **(b) Additional definitions** In this chapter:
 
@@ -158,9 +158,9 @@ Functions of President under subsec. (a)(4) of this section delegated to Secreta
 
 (1) recommend to the Secretary such changes in the lineal list as the board may determine; and
 
-(2) make selections and recommendations to the Secretary and President for the appointment, promotion, separation, continuation, and retirement of officers as prescribed in this subchapter and subchapter III of this chapter.
+(2) make selections and recommendations to the Secretary and President for the appointment, promotion, separation, continuation, and retirement of officers as prescribed in this subchapter and subchapter III.
 
-**(c) Action on recommendations not acceptable** In a case in which any recommendation by a board convened under subsection (a) of this section is not accepted by the Secretary or the President, the board shall make such further recommendations as are acceptable.
+**(c) Action on recommendations not acceptable** In a case in which any recommendation by a board convened under subsection (a) is not accepted by the Secretary or the President, the board shall make such further recommendations as are acceptable.
 
 ### Statutory Notes
 
@@ -198,7 +198,7 @@ Provisions similar to those in this section were contained in [section 853b of t
 ## § 3025. Length of service for promotion purposes
 **(a) General rule** Each officer shall be assumed to have, for promotion purposes, at least the same length of service as any other officer below that officer on the lineal list.
 
-**(b) Exception** Notwithstanding subsection (a) of this section, an officer who has lost numbers shall be assumed to have, for promotion purposes, no greater service than the officer next above such officer in such officer’s new position on the lineal list.
+**(b) Exception** Notwithstanding subsection (a), an officer who has lost numbers shall be assumed to have, for promotion purposes, no greater service than the officer next above such officer in such officer’s new position on the lineal list.
 
 ### Statutory Notes
 
@@ -238,7 +238,7 @@ Provisions similar to those in this section were contained in [section 854 of th
 ## § 3028. Positions of importance and responsibility
 **(a) Designation of positions** The Secretary may designate positions in the Administration as being positions of importance and responsibility for which it is appropriate that officers of the Administration, if serving in those positions, serve in the grade of vice admiral, rear admiral, or rear admiral (lower half), as designated by the Secretary for each position.
 
-**(b) Assignment of officers to designated positions** The Secretary may assign officers to positions designated under subsection (a) of this section.
+**(b) Assignment of officers to designated positions** The Secretary may assign officers to positions designated under subsection (a).
 
 **(c) Director of NOAA Corps and Office of Marine and Aviation Operations** The Secretary shall designate one position under this section as responsible for oversight of the vessel and aircraft fleets and for the administration of the commissioned officer corps. That position shall be filled by an officer on the lineal list serving in or above the grade of rear admiral (lower half). For the specific purpose of administering the commissioned officer corps, that position shall carry the title of Director of the National Oceanic and Atmospheric Administration Commissioned Officer Corps. For the specific purpose of administering the vessel and aircraft fleets, that position shall carry the title of Director of the Office of Marine and Aviation Operations.
 
@@ -310,7 +310,7 @@ Functions of President under this section delegated to Secretary of Commerce by 
 ## § 3030. Temporary appointment or advancement of commissioned officers in time of war or national emergency
 **(a) In general** Officers of the Administration shall be subject in like manner and to the same extent as personnel of the Navy to all laws authorizing temporary appointment or advancement of commissioned officers in time of war or national emergency.
 
-**(b) Limitations** Subsection (a) of this section shall be applied subject to the following limitations:
+**(b) Limitations** Subsection (a) shall be applied subject to the following limitations:
 
 (1) A commissioned officer in the service of a military department under [section 3061 of this title](./chapter-043-national-oceanic-and-atmospheric-administration-commissioned-officer-corps.md#section-3061) may, upon the recommendation of the Secretary of the military department concerned, be temporarily promoted to a higher rank or grade.
 
@@ -373,9 +373,9 @@ Provisions similar to those in this section were contained in [section 853i(b) o
 
 (2) an officer in the permanent grade of lieutenant commander, lieutenant, or lieutenant (junior grade) who is not qualified for retirement may be separated from the service.
 
-**(b) Computations** In any fiscal year, the total number of officers selected for retirement or separation under subsection (a) of this section plus the number of officers retired for age may not exceed the whole number nearest 4 percent of the total number of officers authorized to be on the active list, except as otherwise provided by law.
+**(b) Computations** In any fiscal year, the total number of officers selected for retirement or separation under subsection (a) plus the number of officers retired for age may not exceed the whole number nearest 4 percent of the total number of officers authorized to be on the active list, except as otherwise provided by law.
 
-**(c) Effective date of retirements and separations** A retirement or separation under subsection (a) of this section shall take effect on the first day of the sixth month beginning after the date on which the Secretary approves the retirement or separation, except that if the officer concerned requests an earlier retirement or separation date, the date shall be as determined by the Secretary.
+**(c) Effective date of retirements and separations** A retirement or separation under subsection (a) shall take effect on the first day of the sixth month beginning after the date on which the Secretary approves the retirement or separation, except that if the officer concerned requests an earlier retirement or separation date, the date shall be as determined by the Secretary.
 
 ### Statutory Notes
 
@@ -385,7 +385,7 @@ Provisions similar to those in this section were contained in [section 853g of t
 
 <a id="section-3042"></a>
 ## § 3042. Separation pay
-**(a) Authorization of payment** An officer who is separated under [section 3041(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3041/a/2&num=0&edition=prelim) and who has completed more than three years of continuous active service immediately before that separation is entitled to separation pay computed under subsection (b) of this section unless the Secretary determines that the conditions under which the officer is separated do not warrant payment of that pay.
+**(a) Authorization of payment** An officer who is separated under [section 3041(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3041/a/2&num=0&edition=prelim) and who has completed more than three years of continuous active service immediately before that separation is entitled to separation pay computed under subsection (b) unless the Secretary determines that the conditions under which the officer is separated do not warrant payment of that pay.
 
 **(b) Amount of separation pay**
 
@@ -409,7 +409,7 @@ Provisions similar to those in this section were contained in [section 853h of t
 ## § 3043. Mandatory retirement for age
 **(a) Officers below grade of rear admiral (lower half)** Unless retired or separated earlier, each officer on the lineal list of the commissioned corps who is serving in a grade below the grade of rear admiral (lower half) shall be retired on the first day of the month following the month in which the officer becomes 62 years of age.
 
-**(b) Flag officers** Notwithstanding subsection (a) of this section, the President may defer the retirement of an officer serving in a position that carries a grade above captain for such period as the President considers advisable, but such a deferment may not extend beyond the first day of the month following the month in which the officer becomes 64 years of age.
+**(b) Flag officers** Notwithstanding subsection (a), the President may defer the retirement of an officer serving in a position that carries a grade above captain for such period as the President considers advisable, but such a deferment may not extend beyond the first day of the month following the month in which the officer becomes 64 years of age.
 
 ### Statutory Notes
 
@@ -451,7 +451,7 @@ The retired pay so computed may not exceed 75 percent of the retired pay base.
 
 **(c) Treatment of full and fractional parts of months in computing years of service**
 
-(1) **In general** — In computing the number of years of service of an officer for the purposes of subsection (a) of this section—
+(1) **In general** — In computing the number of years of service of an officer for the purposes of subsection (a)—
 
   (A) each full month of service that is in addition to the number of full years of service creditable to the officer shall be credited as 1⁄12 of a year; and
 
@@ -461,8 +461,21 @@ The retired pay so computed may not exceed 75 percent of the retired pay base.
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(2)
+Pub. L. 114–92, div. A, title VI, §§ 631(c)(3), 635, Nov. 25, 2015, 129 Stat. 844, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (a)(2) of this section is amended to read as follows:
+
+(2) the retired pay multiplier determined under section 1409 of such title for the number of years of service that may be credited to the officer under section 1405 of such title as if the officer’s service were service as a member of the Armed Forces.
+
+See 2015 Amendment note below.
+
 #### Prior Provisions
 Provisions similar to those in this section were contained in section 853o of this title prior to repeal by Pub. L. 107–372.
+
+#### Amendments
+2015—Subsec. (a)(2). Pub. L. 114–92 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “2½ percent of the number of years of service that may be credited to the officer under section 1405 of such title as if the officer’s service were service as a member of the Armed Forces.”
+
+#### Effective Date of 2015 Amendment; Implementation
+Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under [section 8432 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8432&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-3046"></a>
@@ -547,9 +560,9 @@ Provisions similar to those in this section were contained in [section 856 of th
 
 (2) providing for the cooperation of the Administration with the military departments in time of peace in preparation for its duties in time of war.
 
-**(b) Approval** Regulations under subsection (a) of this section shall not be effective unless approved by each of those Secretaries.
+**(b) Approval** Regulations under subsection (a) shall not be effective unless approved by each of those Secretaries.
 
-**(c) Communications** Regulations under subsection (a) of this section may provide procedures for making reports and communications between a military department and the Administration.
+**(c) Communications** Regulations under subsection (a) may provide procedures for making reports and communications between a military department and the Administration.
 
 ### Statutory Notes
 
@@ -593,7 +606,7 @@ Provisions similar to those in this section were contained in [section 858 of th
 
 (16) Such other provisions of subtitle A of that title as may be adopted for applicability to the commissioned officer corps of the National Oceanic and Atmospheric Administration by any other provision of law.
 
-**(b) References** The authority vested by title 10 in the “military departments”, “the Secretary concerned”, or “the Secretary of Defense” with respect to the provisions of law referred to in subsection (a) of this section shall be exercised, with respect to the commissioned officer corps of the Administration, by the Secretary of Commerce or the Secretary’s designee.
+**(b) References** The authority vested by title 10 in the “military departments”, “the Secretary concerned”, or “the Secretary of Defense” with respect to the provisions of law referred to in subsection (a) shall be exercised, with respect to the commissioned officer corps of the Administration, by the Secretary of Commerce or the Secretary’s designee.
 
 ### Statutory Notes
 
@@ -607,16 +620,16 @@ Provisions similar to those in this section were contained in [section 857a of t
 
 (1) Laws administered by the Secretary of Veterans Affairs.
 
-(2) The Servicemembers Civil Relief Act [50 U.S.C. App. 501 et seq.].
+(2) The Servicemembers Civil Relief Act [[50 U.S.C. 3901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3901&num=0&edition=prelim) et seq.].
 
 (3) [Section 410 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section410&num=0&edition=prelim), as in effect before September 1, 1950.
 
-**(b) Exercise of authority** In the administration of the laws and regulations referred to in subsection (a) of this section, with respect to the Administration, the authority vested in the Secretary of Defense and the Secretaries of the military departments and their respective departments shall be exercised by the Secretary of Commerce.
+**(b) Exercise of authority** In the administration of the laws and regulations referred to in subsection (a), with respect to the Administration, the authority vested in the Secretary of Defense and the Secretaries of the military departments and their respective departments shall be exercised by the Secretary of Commerce.
 
 ### Statutory Notes
 
 #### References in Text
-The Servicemembers Civil Relief Act, referred to in subsec. (a)(2), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see [section 501 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section501&num=0&edition=prelim), Appendix, and Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (a)(2), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified principally to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 857 and 857–3(a) of this title prior to repeal by Pub. L. 107–372.
@@ -670,7 +683,7 @@ Provisions similar to those in this section were contained in [section 874 of th
 ## § 3076. Presentation of United States flag upon retirement
 **(a) Presentation of flag upon retirement** Upon the release of a commissioned officer from active commissioned service for retirement, the Secretary shall present a United States flag to the officer.
 
-**(b) Multiple presentations not authorized** An officer is not eligible for presentation of a flag under subsection (a) of this section if the officer has previously been presented a flag under this section or any other provision of law providing for the presentation of a United States flag incident to release from active service for retirement.
+**(b) Multiple presentations not authorized** An officer is not eligible for presentation of a flag under subsection (a) if the officer has previously been presented a flag under this section or any other provision of law providing for the presentation of a United States flag incident to release from active service for retirement.
 
 **(c) No cost to recipient** The presentation of a flag under this section shall be at no cost to the recipient.
 

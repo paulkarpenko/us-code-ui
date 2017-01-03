@@ -158,13 +158,13 @@ This chapter, referred to in subsec. (d), was in the original “this Act” and
 
   (B) consider the adequacy of regulatory and enforcement mechanisms in all countries of origin for the species, including such mechanisms for control of illegal trade.
 
-**(b) Captive bred species** The Secretary shall include a species of exotic birds in the list under subsection (a) of this section if the Secretary determines that—
+**(b) Captive bred species** The Secretary shall include a species of exotic birds in the list under subsection (a) if the Secretary determines that—
 
 (1) the species is regularly bred in captivity and no wild-caught birds of the species are in trade; or
 
 (2) the species is bred in a qualifying facility.
 
-**(c) Non-captive bred species** The Secretary shall include in the list under subsection (a) of this section a species of exotic birds that is listed in an Appendix to the Convention if the Secretary finds the Convention is being effectively implemented with respect to that species because of each of the following:
+**(c) Non-captive bred species** The Secretary shall include in the list under subsection (a) a species of exotic birds that is listed in an Appendix to the Convention if the Secretary finds the Convention is being effectively implemented with respect to that species because of each of the following:
 
 (1) Each country of origin for which the species is listed is effectively implementing the Convention, particularly with respect to—
 
@@ -191,7 +191,7 @@ This chapter, referred to in subsec. (d), was in the original “this Act” and
 ## § 4906. Qualifying facilities
 **(a) Determination** Upon submission of a petition under [section 4909 of this title](./chapter-069-wild-exotic-bird-conservation.md#section-4909) by any person, the Secretary shall determine whether an exotic bird breeding facility is a qualifying facility. Such determination shall be effective for a period specified by the Secretary, which may not exceed 3 years. The Secretary shall, from time to time, publish a list of qualifying facilities in the Federal Register.
 
-**(b) Criteria** The Secretary shall determine under subsection (a) of this section that a facility is a qualifying facility for a species of exotic birds if the Secretary finds each of the following:
+**(b) Criteria** The Secretary shall determine under subsection (a) that a facility is a qualifying facility for a species of exotic birds if the Secretary finds each of the following:
 
 (1) The facility has demonstrated the capability of producing captive bred birds of the species in the numbers to be imported into the United States from that facility.
 
@@ -226,7 +226,7 @@ This chapter, referred to in subsec. (d), was in the original “this Act” and
 
     (ii) the Secretary finds that the moratorium or quota is necessary for the conservation of the species or is otherwise consistent with the purpose of this chapter.
 
-**(b) Termination of quota or moratorium** The Secretary shall terminate a quota or moratorium established under subsection (a) of this section if the Secretary finds that the reasons for establishing the quota or moratorium no longer exist.
+**(b) Termination of quota or moratorium** The Secretary shall terminate a quota or moratorium established under subsection (a) if the Secretary finds that the reasons for establishing the quota or moratorium no longer exist.
 
 
 <a id="section-4908"></a>
@@ -249,7 +249,7 @@ Within one month after October 23, 1992, the Secretary shall issue a call for in
 
 (3) determine under [section 4906 of this title](./chapter-069-wild-exotic-bird-conservation.md#section-4906) whether an exotic bird breeding facility is a qualifying facility.
 
-**(b) Consideration and ruling** For each petition submitted to the Secretary in accordance with subsection (a) of this section, the Secretary shall—
+**(b) Consideration and ruling** For each petition submitted to the Secretary in accordance with subsection (a), the Secretary shall—
 
 (1) within 90 days after receiving the petition, issue and publish in the Federal Register a preliminary ruling regarding whether the petition presents sufficient information indicating that the action requested in the petition might be warranted; and
 
@@ -336,7 +336,7 @@ For termination of Trust Territory of Palau and Northern Marianas, see note set 
 
 <a id="section-4913"></a>
 ## § 4913. Exotic bird conservation assistance
-**(a) Assistance** The Secretary, subject to the availability of appropriations, shall use amounts in the Exotic Bird Conservation Fund established by subsection (b) of this section to provide financial and technical assistance for projects to conserve exotic birds in their native countries. In selecting projects for assistance, the Secretary shall give particular attention to species that are subject to an import moratorium or quota under this chapter, in order to assist those countries in the development and implementation of conservation management programs, or law enforcement, or both.
+**(a) Assistance** The Secretary, subject to the availability of appropriations, shall use amounts in the Exotic Bird Conservation Fund established by subsection (b) to provide financial and technical assistance for projects to conserve exotic birds in their native countries. In selecting projects for assistance, the Secretary shall give particular attention to species that are subject to an import moratorium or quota under this chapter, in order to assist those countries in the development and implementation of conservation management programs, or law enforcement, or both.
 
 **(b) Fund**
 

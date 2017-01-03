@@ -9,7 +9,7 @@ source: >-
 <a id="section-711"></a>
 ## § 711. Senior members of Military Staff Committee of United Nations: appointment
 
-The President, by and with the advice and consent of the Senate, may appoint an officer of the Army, an officer of the Navy or the Marine Corps, and an officer of the Air Force, as senior members of the Military Staff Committee of the United Nations. An officer so appointed has the grade of lieutenant general or vice admiral, as the case may be, while serving under that appointment.
+The President, by and with the advice and consent of the Senate, may appoint an officer of the Army, an officer of the Navy or the Marine Corps, and an officer of the Air Force, as senior members of the Military Staff Committee of the United Nations.
 
 ### Statutory Notes
 
@@ -19,6 +19,9 @@ The President, by and with the advice and consent of the Senate, may appoint an 
 | 711 | 10:506b(c) (less last 12 words). | Aug. 7, 1947, ch. 512, § 504(c) (less last 12 words), 61 Stat 886. |
 
 The words “Within the limitations as to numbers in grade prescribed in this Act”, so far as they relate to the Army and the Air Force, are omitted as executed by the declaration of the national emergency on December 16, 1950, in accordance with an opinion of the Judge Advocate General of the Army (JAGA 1951/6180, 17 Oct. 1951). So far as they relate to the Navy and the Marine Corps they are omitted as surplusage. The words “may appoint” are inserted to make it explicit that the revised section prescribes the appointment as well as the rank and pay that go with it. The word “grade” is substituted for the word “rank”. The words “Navy or Marine Corps” are substituted for the words “Navy, including the Marine Corps”. The words “Army, * * * Air Force” are substituted for the words “Army less the Air Corps * * * Air Corps”. The words “pay and allowances of a vice admiral or lieutenant general” are omitted as surplusage, since this is implicit upon appointment to the grade. The words “and Naval” are omitted to conform to the name “Military Staff Committee” established by Article 47 of the United Nations Charter.
+
+#### Amendments
+2016—Pub. L. 114–328 struck out second sentence which read as follows: “An officer so appointed has the grade of lieutenant general or vice admiral, as the case may be, while serving under that appointment.”
 
 
 <a id="section-711a"></a>
@@ -109,14 +112,121 @@ In subsection (b), the words “The Secretary concerned may” are substituted f
 
 
 <a id="section-714"></a>
-## § 714. Repealed. Pub. L. 108–136, div. A, title V, § 503(a), Nov. 24, 2003, 117 Stat. 1456]
+## § 714. Senior leaders of the Department of Defense and other specified persons: authority to provide protection within the United States
+**(a) Protection for Department Leadership.—** The Secretary of Defense, under regulations prescribed by the Secretary and in accordance with guidelines approved by the Secretary and the Attorney General, may authorize qualified members of the armed forces and qualified civilian employees of the Department of Defense to provide physical protection and personal security within the United States to the following persons who, by nature of their positions, require continuous security and protection:
+
+(1) Secretary of Defense.
+
+(2) Deputy Secretary of Defense.
+
+(3) Chairman of the Joint Chiefs of Staff.
+
+(4) Vice Chairman of the Joint Chiefs of Staff.
+
+(5) Secretaries of the military departments.
+
+(6) Members of the Joint Chiefs of Staff in addition to the Chairman and Vice Chairman.
+
+(7) Commanders of combatant commands.
+
+**(b) Protection for Additional Personnel.—**
+
+(1) **Authority to provide.—** — The Secretary of Defense, under regulations prescribed by the Secretary and in accordance with guidelines approved by the Secretary and the Attorney General, may authorize qualified members of the armed forces and qualified civilian employees of the Department of Defense to provide physical protection and personal security within the United States to individuals other than individuals described in paragraphs (1) through (7) of subsection (a) if the Secretary determines that such protection and security are necessary because—
+
+  (A) there is an imminent and credible threat to the safety of the individual for whom protection is to be provided; or
+
+  (B) compelling operational considerations make such protection essential to the conduct of official Department of Defense business.
+
+(2) **Personnel.—** — Individuals authorized to receive physical protection and personal security under this subsection include the following:
+
+  (A) Any official or employee of the Department of Defense or member of the armed forces.
+
+  (B) A former or retired official who faces serious and credible threats arising from duties performed while employed by the Department for a period of up to two years beginning on the date on which the official separates from the Department.
+
+  (C) A head of a foreign state, an official representative of a foreign government, or any other distinguished foreign visitor to the United States who is primarily conducting official business with the Department of Defense.
+
+  (D) Any member of the immediate family of a person authorized to receive physical protection and personal security under this section.
+
+  (E) An individual who has been designated by the President, and who has received the advice and consent of the Senate, to serve as Secretary of Defense, but who has not yet been appointed as Secretary of Defense.
+
+(3) **Limitation on delegation.—** — The authority of the Secretary of Defense to authorize the provision of physical protection and personal security under this subsection may be delegated only to the Deputy Secretary of Defense.
+
+(4) **Requirement for written determination.—** — A determination of the Secretary of Defense to provide physical protection and personal security under this subsection shall be in writing, shall be based on a threat assessment by an appropriate law enforcement, security, or intelligence organization, and shall include the name and title of the officer, employee, or other individual affected, the reason for such determination, the duration of the authorized protection and security for such officer, employee, or individual, and the nature of the arrangements for the protection and security.
+
+(5) **Duration of protection.—**
+
+  (A) *Initial period of protection.—* — After making a written determination under paragraph (4), the Secretary of Defense may provide protection and security to an individual under this subsection for an initial period of not more than 90 calendar days.
+
+  (B) *Subsequent period.—* — If, at the end of the period that protection and security is provided to an individual under subsection (A), the Secretary determines that a condition described in subparagraph (A) or (B) of paragraph (1) continues to exist with respect to the individual, the Secretary may extend the period that such protection and security is provided for additional 60-day periods. The Secretary shall review such a determination at the end of each 60-day period to determine whether to continue to provide such protection and security.
+
+  (C) *Requirement for compliance with regulations.—* — Protection and personal security provided under subparagraph (B) shall be provided in accordance with the regulations and guidelines referred to in paragraph (1).
+
+(6) **Submission to congress.—**
+
+  (A) *In general.—* — Except as provided in subparagraph (D), the Secretary of Defense shall submit to the congressional defense committees each determination made under paragraph (4) to provide protection and security to an individual and of each determination under paragraph (5)(B) to extend such protection and security, together with the justification for such determination, not later than 15 days after the date on which the determination is made.
+
+  (B) *Form of report.—* — A report submitted under subparagraph (A) may be made in classified form.
+
+  (C) *Regulations and guidelines.—* — The Secretary of Defense shall submit to the congressional defense committees the regulations and guidelines prescribed pursuant to paragraph (1) not less than 20 days before the date on which such regulations take effect.
+
+  (D) *Exceptions.—* — Subparagraph (A) does not apply to determinations made with respect to the following individuals:
+
+    (i) An individual described in paragraph (2)(C) who is otherwise sponsored by the Secretary of Defense, the Deputy Secretary of Defense, the Chairman of the Joint Chiefs of Staff, or the Vice Chairman of the Joint Chiefs of Staff.
+
+    (ii) An individual described in paragraph (2)(E).
+
+**(c) Definitions.—** In this section, the terms “qualified members of the armed forces” and “qualified civilian employees of the Department of Defense” refer collectively to members or employees who are assigned to investigative, law enforcement, or security duties of any of the following:
+
+(1) The Army Criminal Investigation Command.
+
+(2) The Naval Criminal Investigative Service.
+
+(3) The Air Force Office of Special Investigations.
+
+(4) The Defense Criminal Investigative Service.
+
+(5) The Pentagon Force Protection Agency.
+
+**(d) Construction.—**
+
+(1) **No additional law enforcement or arrest authority.—** — Other than the authority to provide protection and security under this section, nothing in this section may be construed to bestow any additional law enforcement or arrest authority upon the qualified members of the armed forces and qualified civilian employees of the Department of Defense.
+
+(2) **Posse comitatus.—** — Nothing in this section shall be construed to abridge [section 1385 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1385&num=0&edition=prelim).
+
+(3) **Authorities of other departments.—** — Nothing in this section may be construed to preclude or limit, in any way, the express or implied powers of the Secretary of Defense or other Department of Defense officials, or the duties and authorities of the Secretary of State, the Director of the United States Secret Service, the Director of the United States Marshals Service, or any other Federal law enforcement agency.
 
 ### Statutory Notes
 
-Section, added Pub. L. 105–85, div. A, title V, § 597(a), Nov. 18, 1997, 111 Stat. 1766, related to required grade of officer selected for assignment to position of defense attaché to United States embassy in France.
+#### Codification
+Text of section consists of the text of section 1074 of Pub. L. 110–181, div. A, title X, Jan. 28, 2008, 122 Stat. 330, as amended by Pub. L. 113–66, div. A, title X, § 1084(b)(2)(A), Dec. 26, 2013, 127 Stat. 872; Pub. L. 113–291, div. A, title X, § 1046, Dec. 19, 2014, 128 Stat. 3494, which was set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113), prior to repeal by Pub. L. 114–328, div. A, title IX, § 925(c)(3).
 
 #### Prior Provisions
-A prior section 714, act Aug. 10, 1956, ch. 1041, 70A Stat. 33, related to reports to Congress on length of tours of duty outside the United States by members of the Army and Air Force, prior to repeal by Pub. L. 86–533, § 1(5)(A), June 29, 1960, 74 Stat. 246.
+A prior section 714, added Pub. L. 105–85, div. A, title V, § 597(a), Nov. 18, 1997, 111 Stat. 1766, related to required grade of officer selected for assignment to position of defense attaché to United States embassy in France, prior to repeal by Pub. L. 108–136, div. A, title V, § 503(a), Nov. 24, 2003, 117 Stat. 1456.
+
+Another prior section 714, act Aug. 10, 1956, ch. 1041, 70A Stat. 33, related to reports to Congress on length of tours of duty outside the United States by members of the Army and Air Force, prior to repeal by Pub. L. 86–533, § 1(5)(A), June 29, 1960, 74 Stat. 246.
+
+#### Amendments
+2016—Subsec. (a). Pub. L. 114–328, § 952(c)(4)(A), substituted “armed forces” for “Armed Forces” in introductory provisions.
+
+Subsec. (a)(6). Pub. L. 114–328, § 952(c)(5)(A)(i), substituted “Members of the Joint Chiefs of Staff in addition to the Chairman and Vice Chairman” for “Chiefs of the Services”.
+
+Subsec. (a)(7), (8). Pub. L. 114–328, § 952(c)(5)(A)(ii), (iii), redesignated par. (8) as (7), and struck out former par. (7), which read as follows: “Chief of the National Guard Bureau.”.
+
+Subsec. (b)(1). Pub. L. 114–328, § 952(c)(4)(A), (5)(B), in introductory provisions, substituted “armed forces” for “Armed Forces” and “through (7)” for “through (8)”.
+
+Subsec. (b)(2)(A). Pub. L. 114–328, § 952(c)(6), struck out “, military member,” after “official” and inserted “or member of the armed forces” after “of the Department of Defense”.
+
+Subsec. (c). Pub. L. 114–328, § 952(c)(4)(B), substituted “section, the terms ‘qualified members of the armed forces’ and” for “section:
+
+“(1) Congressional defense committees.—The term ‘congressional defense committees’ means the Committee on Appropriations and the Committee on Armed Services of the Senate and the Committee on Appropriations and the Committee on Armed Services of the House of Representatives.
+
+“(2) Qualified members of the armed forces and qualified civilian employees of the department of defense.—The terms ‘qualified members of the Armed Forces’ and”,
+
+redesignated subpars. (A) to (E) of former par. (2) as pars. (1) to (5), respectively, and realigned margins.
+
+Subsec. (d)(1). Pub. L. 114–328, § 952(c)(4)(A), substituted “armed forces” for “Armed Forces”.
+
+Subsec. (d)(2). Pub. L. 114–328, § 952(c)(4)(C), struck out “, United States Code” after “title 18”.
 
 
 <a id="section-715"></a>
@@ -281,17 +391,11 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 
 <a id="section-720"></a>
-## § 720. Chief of Staff to President: appointment
-
-The President, by and with the advice and consent of the Senate, may appoint a general officer of the Army, Air Force, or Marine Corps or a flag officer of the Navy as the Chief of Staff to the President and may designate such position as a position of importance and responsibility under [section 601 of this title](./chapter-035-temporary-appointments-in-officer-grades.md#section-601).
+## § 720. Repealed. Pub. L. 114–328, div. A, title V, § 502(g)(1), Dec. 23, 2016, 130 Stat. 2103]
 
 ### Statutory Notes
 
-#### Effective Date
-Section effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
-
-#### Transition Provisions Under Defense Officer Personnel Management Act
-For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under [section 611 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-611).
+Section, added Pub. L. 96–513, title V, § 501(9)(A), Dec. 12, 1980, 94 Stat. 2907, related to appointment of Chief of Staff to President.
 
 
 <a id="section-721"></a>
@@ -303,6 +407,8 @@ Section, added Pub. L. 105–85, div. A, title V, § 501(a), Nov. 18, 1997, 111 
 
 
 <a id="section-722"></a>
-## § 722. Attending Physician to the Congress: grade
+## § 722. Repealed. Pub. L. 114–328, div. A, title V, § 502(h)(1), Dec. 23, 2016, 130 Stat. 2103]
 
-A general officer serving as Attending Physician to the Congress, while so serving, holds the grade of major general. A flag officer serving as Attending Physician to the Congress, while so serving, holds the grade of rear admiral.
+### Statutory Notes
+
+Section, added Pub. L. 109–364, div. A, title V, § 507(a)(1)(A), Oct. 17, 2006, 120 Stat. 2180, related to grade of Attending Physician to the Congress.

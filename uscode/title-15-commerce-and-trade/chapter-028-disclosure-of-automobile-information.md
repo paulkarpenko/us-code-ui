@@ -102,6 +102,9 @@ Subsecs. (g), (h). Pub. L. 109–59, § 10307(a)(1), (3), (4), added subsecs. (g
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
+#### Effective Date
+Section effective on the later of Oct. 1, 1958, or the first day of the introduction of any new model of automobile in any line of automobile beginning after July 7, 1958, see section 5 of Pub. L. 85–506, set out as a note under [section 1231 of this title](./chapter-028-disclosure-of-automobile-information.md#section-1231).
+
 #### Regulations
 Pub. L. 109–59, title X, § 10307(b), Aug. 10, 2005, 119 Stat. 1942, provided that: “The Secretary of Transportation shall issue regulations to ensure that the labeling requirements under subsections (g) and (h) of section 3 of the Automobile Information Disclosure Act [[15 U.S.C. 1232(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1232/g&num=0&edition=prelim), (h)], as added by subsection (a), are implemented by September 1, 2007.”
 
@@ -124,3 +127,8 @@ Pub. L. 92–178, title IV, § 401(g)(7)(B), Dec. 10, 1971, 85 Stat. 534, provid
 **(b) Failure to endorse required label** Any manufacturer of automobiles distributed in commerce who willfully fails to endorse clearly, distinctly and legibly any label as required by [section 1232 of this title](./chapter-028-disclosure-of-automobile-information.md#section-1232), or who makes a false endorsement of any such label, shall be fined not more than $1,000. Such failure or false endorsement with respect to each automobile shall constitute a separate offense.
 
 **(c) Removal, alteration, or illegibility of required label** Any person who willfully removes, alters, or renders illegible any label affixed to a new automobile pursuant to [section 1232 of this title](./chapter-028-disclosure-of-automobile-information.md#section-1232), or any endorsement thereon, prior to the time that such automobile is delivered to the actual custody and possession of the ultimate purchaser of such new automobile, except where the manufacturer relabels the automobile in the event the same is rerouted, repurchased, or reacquired by the manufacturer of such automobile, shall be fined not more than $1,000, or imprisoned not more than one year, or both. Such removal, alteration, or rendering illegible with respect to each automobile shall constitute a separate offense.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the later of Oct. 1, 1958, or the first day of the introduction of any new model of automobile in any line of automobile beginning after July 7, 1958, see section 5 of Pub. L. 85–506, set out as a note under [section 1231 of this title](./chapter-028-disclosure-of-automobile-information.md#section-1231).

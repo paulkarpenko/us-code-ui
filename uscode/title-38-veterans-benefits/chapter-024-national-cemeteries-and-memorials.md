@@ -630,12 +630,26 @@ Pub. L. 107–330, title II, § 204, Dec. 6, 2002, 116 Stat. 2824, provided that
 
 **(b)** The Secretary of each military department shall make available appropriate forms on which those members of the Armed Forces who so desire may indicate their desire to be buried within the area to be designated under subsection (a).
 
+**(c)**
+
+(1) The Secretary of the Army shall ensure that, under such regulations as the Secretary may prescribe, the cremated remains of any person described in paragraph (2) are eligible for above ground inurnment in Arlington National Cemetery with military honors in accordance with [section 1491 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1491&num=0&edition=prelim).
+
+(2) A person described in this paragraph is a person whose service has been determined to be active duty service pursuant to section 401 of the GI Bill Improvement Act of 1977 (Public Law 95–202; [38 U.S.C. 106](./chapter-001-general.md#section-106) note) as of the date of the enactment of this paragraph.
+
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of this paragraph, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 114–158, which was approved May 20, 2016.
+
 #### Amendments
+2016—Subsec. (c). Pub. L. 114–158 added subsec. (c).
+
 1991—Pub. L. 102–83 renumbered [section 1010 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1010&num=0&edition=prelim) as this section.
 
 Subsec. (b). Pub. L. 102–54 substituted “each military department” for “the military departments”.
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–158, § 1(b), May 20, 2016, 130 Stat. 394, provided that: “(1) In general.—The amendment made by subsection (a) [amending this section] shall apply with respect to—“(A) the remains of a person that are not formally interred or inurned as of the date of the enactment of this Act [May 20, 2016]; and “(B) a person who dies on or after the date of the enactment of this Act. “(2) Formally interred or inurned defined.—In this subsection, the term ‘formally interred or inurned’ means interred or inurned in a cemetery, crypt, mausoleum, columbarium, niche, or other similar formal location.”
 
 
 <a id="section-2410a"></a>
@@ -740,7 +754,7 @@ Pub. L. 112–154, title VI, § 602(c), Aug. 6, 2012, 126 Stat. 1200, provided t
 
 **(e)**
 
-(1) A case described in this subsection is a case in which the appropriate federal 11 So in original. Probably should be capitalized. official receives—
+(1) A case described in this subsection is a case in which the appropriate Federal official receives—
 
   (A) written notice of a conviction referred to in subsection (b)(1), (b)(2), or (b)(4) of a person described in paragraph (2); or
 
@@ -770,6 +784,8 @@ Pub. L. 112–154, title VI, § 602(c), Aug. 6, 2012, 126 Stat. 1200, provided t
 The Sex Offender Registration and Notification Act, referred to in subsec. (b)(4)(A), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 16901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16901&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (e)(1). Pub. L. 114–58 substituted “Federal official” for “federal official” in introductory provisions.
+
 2013—Subsec. (a)(2). Pub. L. 113–65, § 2(b), struck out “such official approves an application for” after “received by the appropriate Federal official before”.
 
 Pub. L. 112–260, § 105(b), substituted “, (b)(2), or (b)(4)” for “or (b)(2)” in two places and struck out “capital” before “crime” in two places.

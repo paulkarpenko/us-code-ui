@@ -49,11 +49,11 @@ source: >-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101501(a) | [16 U.S.C. 7e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7e&num=0&edition=prelim) | Mar. 18, 1950, ch. 72, §§ 1 through 5, 64 Stat. 27; Pub. L. 85–726, title XIV, § 1402(e), Aug. 23, 1958, 72 Stat. 807; Pub. L. 89–763, Nov. 5, 1966, 80 Stat. 1313; Pub. L. 91–258, title I, § 52(b)(1), May 21, 1970, 84 Stat. 235. |
-| 101501(b) | [16 U.S.C. 7a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7a&num=0&edition=prelim) |  |
-| 101501(c) | [16 U.S.C. 7b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7b&num=0&edition=prelim) |  |
-| 101501(d) | [16 U.S.C. 7c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7c&num=0&edition=prelim) |  |
-| 101501(e) | [16 U.S.C. 7d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7d&num=0&edition=prelim) |  |
+| 101501(a) | [16 U.S.C. 7e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7e&num=0&edition=prelim). | Mar. 18, 1950, ch. 72, §§ 1 through 5, 64 Stat. 27; Pub. L. 85–726, title XIV, § 1402(e), Aug. 23, 1958, 72 Stat. 807; Pub. L. 89–763, Nov. 5, 1966, 80 Stat. 1313; Pub. L. 91–258, title I, § 52(b)(1), May 21, 1970, 84 Stat. 235. |
+| 101501(b) | [16 U.S.C. 7a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7a&num=0&edition=prelim). |  |
+| 101501(c) | [16 U.S.C. 7b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7b&num=0&edition=prelim). |  |
+| 101501(d) | [16 U.S.C. 7c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7c&num=0&edition=prelim). |  |
+| 101501(e) | [16 U.S.C. 7d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7d&num=0&edition=prelim). |  |
 
 In subsections (a) and (d)(1), the words “subchapter I of chapter 471 of title 49” are substituted for “the Federal Airport Act”. The Federal Airport Act was repealed by section 52(a) of the Airport and Airway Development Act of 1970 (Public Law 91–258, 84 Stat. 235), and the Airport and Airway Development Act of 1970 replaced the Federal Airport Act. The Airport and Airway Development Act of 1970 was repealed by section 523(a) of the Airport and Airway Improvement Act of 1982 (Public Law 97–248, 96 Stat. 695). The Airport and Airway Improvement Act of 1982, which replaced the Airport and Airway Development Act of 1970, was enacted as subchapter I of chapter 471 of title 49 by section 1(e) of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1245).
 
@@ -63,7 +63,7 @@ In subsection (c), the text of [16 U.S.C. 7b](https://uscode.house.gov/view.xhtm
 
 In subsection (c)(2), the words “chief executive official of the” are added for clarity and for consistency in the new title.
 
-In subsection (d)(2)(A), the words “(receipt of which funds and their use for such purposes is authorized) ” are omitted as unnecessary.
+In subsection (d)(2)(A), the words “(receipt of which funds and their use for such purposes is authorized)” are omitted as unnecessary.
 
 
 <a id="section-101511"></a>
@@ -103,13 +103,13 @@ In subsection (d)(2)(A), the words “(receipt of which funds and their use for 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101511(a) | [16 U.S.C. 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8&num=0&edition=prelim) | Apr. 9, 1924, ch. 86, § 1, 43 Stat. 90. |
-|  | [16 U.S.C. 8b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8b&num=0&edition=prelim) (words after 6th comma and before semicolon, last proviso) | Apr. 9, 1924, ch. 86, § 5, as added Jan. 31, 1931, ch. 79, 46 Stat. 1053. |
-| 101511(b)(1) | [16 U.S.C. 8a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8a&num=0&edition=prelim) | Apr. 9, 1924, ch. 86, §§ 4, 6, as added Jan. 31, 1931, ch. 79, 46 Stat. 1053, 1054. |
-| 101511(b) (2)(A) | [16 U.S.C. 8b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8b&num=0&edition=prelim) (words before 6th comma, words after semicolon and before 1st proviso) |  |
-| 101511(b) (2)(B) | [16 U.S.C. 8b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8b&num=0&edition=prelim) (2d proviso) |  |
-| 101511(b)(3) | [16 U.S.C. 8c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8c&num=0&edition=prelim) |  |
-| 101511(c) | [16 U.S.C. 8b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8b&num=0&edition=prelim) (1st proviso) |  |
+| 101511(a) | [16 U.S.C. 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8&num=0&edition=prelim). | Apr. 9, 1924, ch. 86, § 1, 43 Stat. 90. |
+|  | [16 U.S.C. 8b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8b&num=0&edition=prelim) (words after 6th comma and before semicolon, last proviso). | Apr. 9, 1924, ch. 86, § 5, as added Jan. 31, 1931, ch. 79, 46 Stat. 1053. |
+| 101511(b)(1) | [16 U.S.C. 8a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8a&num=0&edition=prelim). | Apr. 9, 1924, ch. 86, §§ 4, 6, as added Jan. 31, 1931, ch. 79, 46 Stat. 1053, 1054. |
+| 101511(b) (2)(A) | [16 U.S.C. 8b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8b&num=0&edition=prelim) (words before 6th comma, words after semicolon and before 1st proviso). |  |
+| 101511(b) (2)(B) | [16 U.S.C. 8b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8b&num=0&edition=prelim) (2d proviso). |  |
+| 101511(b)(3) | [16 U.S.C. 8c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8c&num=0&edition=prelim). |  |
+| 101511(c) | [16 U.S.C. 8b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8b&num=0&edition=prelim) (1st proviso). |  |
 
 In subsection (a), the text of [16 U.S.C. 8b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8b&num=0&edition=prelim) (last proviso) and the words “in the administration of the National Park Service” in [16 U.S.C. 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8&num=0&edition=prelim) are omitted as unnecessary.
 
@@ -117,7 +117,7 @@ In subsection (b)(1)(A), the words “at least 90 percent” are substituted for
 
 In subsection (b)(2)(A), the words “during the fiscal years 1950 and 1951” and the text of [16 U.S.C. 8b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8b&num=0&edition=prelim) (words after semicolon and before 1st proviso) are omitted as obsolete.
 
-In subsection (c), the words “Secretary of Transportation” are substituted for “Secretary of Commerce because the functions of the Secretary of Agriculture relating to Public Roads Administration were transferred to the Federal Works Administrator by Reorganization Plan No. 1 of 1939 (5 App. U.S.C.) and subsequently to the Administrator of General Services by section 103 of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380) and the Secretary of Commerce and Secretary of Transportation by Reorganization Plan No. 7 of 1949 (5 App. U.S.C.), as amended by section 2(b) of Public Law 97–449 (96 Stat. 2439).
+In subsection (c), the words “Secretary of Transportation” are substituted for “Secretary of Commerce” because the functions of the Secretary of Agriculture relating to Public Roads Administration were transferred to the Federal Works Administrator by Reorganization Plan No. 1 of 1939 (5 App. U.S.C.) and subsequently to the Administrator of General Services by section 103 of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380) and the Secretary of Commerce and Secretary of Transportation by Reorganization Plan No. 7 of 1949 (5 App. U.S.C.), as amended by section 2(b) of Public Law 97–449 (96 Stat. 2439).
 
 
 <a id="section-101512"></a>
@@ -135,8 +135,8 @@ In subsection (c), the words “Secretary of Transportation” are substituted f
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101512(a) | [16 U.S.C. 8f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8f&num=0&edition=prelim) | June 3, 1948, ch. 401, § 2, 62 Stat. 334; Aug. 1, 1956, ch. 852, § 5, 70 Stat. 908. |
-| 101512(b) through (d) | [16 U.S.C. 8e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8e&num=0&edition=prelim) | June 3, 1948, ch. 401, § 1, 62 Stat. 334. |
+| 101512(a) | [16 U.S.C. 8f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8f&num=0&edition=prelim). | June 3, 1948, ch. 401, § 2, 62 Stat. 334; Aug. 1, 1956, ch. 852, § 5, 70 Stat. 908. |
+| 101512(b) through (d) | [16 U.S.C. 8e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section8e&num=0&edition=prelim). | June 3, 1948, ch. 401, § 1, 62 Stat. 334. |
 
 In subsection (a), the words “Hawaii, Alaska” are omitted as obsolete.
 
@@ -178,7 +178,7 @@ In subsection (d), the words “is retroceded” are substituted for “shall th
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101521 | [16 U.S.C. 2302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2302&num=0&edition=prelim) | Pub. L. 95–344, title III, § 302, Aug. 15, 1978, 92 Stat. 478; Pub. L. 103–437, § 6(d)(18), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(A), Nov. 12, 1996, 110 Stat. 4195. |
+| 101521 | [16 U.S.C. 2302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2302&num=0&edition=prelim). | Pub. L. 95–344, title III, § 302, Aug. 15, 1978, 92 Stat. 478; Pub. L. 103–437, § 6(d)(18), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(A), Nov. 12, 1996, 110 Stat. 4195. |
 
 The text of [16 U.S.C. 2302(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2302/d&num=0&edition=prelim) is omitted as superseded by [16 U.S.C. 5981](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5981&num=0&edition=prelim), restated as section 101531 of the new title.
 
@@ -187,7 +187,7 @@ In subsection (d), the words “shall not be considered as concession facilities
 In subsection (e), the words “section 13506(a)(9)” are substituted for “section 10526(a)(9)” because of the general amendment of subtitle IV of title 49 by the ICC Termination Act of 1995 (Public Law 104–88, 109 Stat. 802), in which provisions comparable to section 10526(a)(9) were enacted as section 13506(a)(9) (109 Stat. 862). The words “section 10526(a)(9)” previously had been substituted for “section 203(b)(4) of the Interstate Commerce Act ([49 U.S.C. 303(b)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section303/b/4&num=0&edition=prelim))” because of section 3(b) of the Act of October 17, 1978 (Public Law 95–473, 92 Stat, 1466), the 1st section of which enacted subtitle IV of title 49.
 
 #### Congressional Statement of Purpose
-Pub. L. 95–344, title III, § 301(b), Aug. 15, 1978, 92 Stat. 478, provided that “The purpose of this title [see tables for classification] is to make the National Park System more accessible in a manner consistent with the preservation of parks and the conservation of energy by encouraging the use of transportation modes other than personal motor vehicles for access to and within units of the National Park System with minimum disruption to nearby communities through authorization of a pilot transportation program.”.
+Pub. L. 95–344, title III, § 301(b), Aug. 15, 1978, 92 Stat. 478, provided that “The purpose of this title [see Tables for classification] is to make the National Park System more accessible in a manner consistent with the preservation of parks and the conservation of energy by encouraging the use of transportation modes other than personal motor vehicles for access to and within units of the National Park System with minimum disruption to nearby communities through authorization of a pilot transportation program.”
 
 
 <a id="section-101522"></a>
@@ -201,7 +201,7 @@ Pub. L. 95–344, title III, § 301(b), Aug. 15, 1978, 92 Stat. 478, provided th
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101522 | [16 U.S.C. 2303](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2303&num=0&edition=prelim) | Pub. L. 95–344, title III, § 303, Aug. 15, 1978, 92 Stat. 479; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 103–437, § 6(d)(18), Nov. 2, 1994, 108 Stat. 4584. |
+| 101522 | [16 U.S.C. 2303](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2303&num=0&edition=prelim). | Pub. L. 95–344, title III, § 303, Aug. 15, 1978, 92 Stat. 479; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 103–437, § 6(d)(18), Nov. 2, 1994, 108 Stat. 4584. |
 
 Subsection (b) is substituted for [16 U.S.C. 2303(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2303/b&num=0&edition=prelim) to eliminate obsolete words.
 
@@ -227,7 +227,7 @@ Subsection (b) is substituted for [16 U.S.C. 2303(b)](https://uscode.house.gov/v
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101523 | [16 U.S.C. 2304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2304&num=0&edition=prelim) | Pub. L. 95–344, title III, § 304, Aug. 15, 1978, 92 Stat. 479; Pub. L. 103–437, § 6(d)(18), Nov. 2, 1994, 108 Stat. 4584. |
+| 101523 | [16 U.S.C. 2304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2304&num=0&edition=prelim). | Pub. L. 95–344, title III, § 304, Aug. 15, 1978, 92 Stat. 479; Pub. L. 103–437, § 6(d)(18), Nov. 2, 1994, 108 Stat. 4584. |
 
 In subsection (c), the words “When a report on a project is required under subsection (b)(2)” are added for clarity. The words “implementation of the project” are substituted for “implementation of such plan”, and the words “submission of the report” are substituted for “submission of the plan”, for consistency.
 
@@ -242,7 +242,7 @@ Notwithstanding any other provision of law, a service contract entered into by t
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101524 | [16 U.S.C. 5961(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5961/a&num=0&edition=prelim) | Pub. L. 105–391, title IV, § 412(a), Nov. 13, 1998, 112 Stat. 3514; Pub. L. 106–113, div. B, § 1000(a)(3) [title I, § 143(1)], Nov. 29, 1999, 113 Stat. 1535, 1501A–171. |
+| 101524 | [16 U.S.C. 5961(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5961/a&num=0&edition=prelim). | Pub. L. 105–391, title IV, § 412(a), Nov. 13, 1998, 112 Stat. 3514; Pub. L. 106–113, div. B, § 1000(a)(3) [title I, § 143(1)], Nov. 29, 1999, 113 Stat. 1535, 1501A–171. |
 
 
 <a id="section-101531"></a>
@@ -255,4 +255,4 @@ Notwithstanding any other provision of law, where the Service or an entity under
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101531 | [16 U.S.C. 5981](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5981&num=0&edition=prelim) | Pub. L. 105–391, title IV, § 501, Nov. 13, 1998, 112 Stat. 3518; Pub. L. 109–131, title I, § 102(b), Dec. 20, 2005, 119 Stat. 2568. |
+| 101531 | [16 U.S.C. 5981](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5981&num=0&edition=prelim). | Pub. L. 105–391, title IV, § 501, Nov. 13, 1998, 112 Stat. 3518; Pub. L. 109–131, title I, § 102(b), Dec. 20, 2005, 119 Stat. 2568. |

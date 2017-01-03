@@ -671,8 +671,11 @@ Pub. L. 101–189, div. A, title III, § 341(b), Nov. 29, 1989, 103 Stat. 1419, 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of Pub. L. 98–426, set out as a note under [section 901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section901&num=0&edition=prelim), Navigation and Navigable Waters.
 
+#### Investment of National Park Service Trust Funds
+Pub. L. 114–113, div. G, title I, Dec. 18, 2015, 129 Stat. 2533, provided in part that: “In fiscal year 2016 and each fiscal year thereafter, any amounts deposited into the National Park Service trust fund accounts ([31 U.S.C. 1321(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1321/a&num=0&edition=prelim)(l7)–(18)) shall be invested by the Secretary of the Treasury in interest bearing obligations of the United States to the extent such amounts are not, in his judgment, required to meet current withdrawals: Provided, That interest earned by such investments shall be available for obligation without further appropriation, to the benefit of the project.”
+
 #### Trust Funds for Individual Indians
-Section 725s of former Title 31 (now this section) was modified by act June 25, 1936, ch. 814, 49 Stat. 1928, providing that it shall not be applicable to funds held in trust for individual Indians, associations of individual Indians, or for Indian corporations chartered under sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of Title 25, Indians.
+Section 725s of former Title 31 (now this section) was modified by act June 25, 1936, ch. 814, 49 Stat. 1928, providing that it shall not be applicable to funds held in trust for individual Indians, associations of individual Indians, or for Indian corporations chartered under sections 5101 to 5103, 5107 to 5113, 5115, 5116, 5118, 5120, 5121, 5123 to 5125, and 5129 of Title 25, Indians.
 
 
 <a id="section-1322"></a>
@@ -1019,9 +1022,11 @@ Pub. L. 100–463, title VIII, § 8086, Oct. 1, 1988, 102 Stat. 2270–32.
 Pub. L. 100–202, § 101(b) [title VIII, § 8119], Dec. 22, 1987, 101 Stat. 1329–43, 1329–84.
 
 #### Maximum Purchase Price of Motor Vehicles; Exceptions
-Pub. L. 113–235, div. E, title VII, § 702, Dec. 16, 2014, 128 Stat. 2379, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with subsection [sic] 1343(c) of title 31, United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement vehicles, protective vehicles, and undercover surveillance vehicles), is hereby fixed at $13,197 except station wagons for which the maximum shall be $13,631: Provided, That these limits may be exceeded by not to exceed $3,700 for police-type vehicles, and by not to exceed $4,000 for special heavy-duty vehicles: Provided further, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 [[15 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2501&num=0&edition=prelim) et seq.]: Provided further, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 [see Tables for classification] over the cost of comparable conventionally fueled vehicles: Provided further, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on emerging motor vehicle technology, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles.”
+Pub. L. 114–113, div. E, title VII, § 702, Dec. 18, 2015, 129 Stat. 2473, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with subsection [sic] 1343(c) of title 31, United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement vehicles, protective vehicles, and undercover surveillance vehicles), is hereby fixed at $19,947 except station wagons for which the maximum shall be $19,997: Provided, That these limits may be exceeded by not to exceed $7,250 for police-type vehicles: Provided further, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 [[15 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2501&num=0&edition=prelim) et seq.]: Provided further, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 [see Tables for classification] over the cost of comparable conventionally fueled vehicles: Provided further, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on alternative fuel, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. E, title VII, § 702, Dec. 16, 2014, 128 Stat. 2379.
 
 Pub. L. 113–76, div. E, title VII, § 702, Jan. 17, 2014, 128 Stat. 230.
 
@@ -1730,12 +1735,14 @@ The words “executive agency” are substituted for “agency” because the de
 
 (10) The term “regularly employed”, with respect to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement or a commitment providing for the United States to insure or guarantee a loan, means an officer or employee who is employed by such person for at least 130 working days within one year immediately preceding the date of the submission that initiates agency consideration of such person for receipt of such contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
 
-(11) The terms “Indian tribe” and “tribal organization” have the meaning provided in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)).
+(11) The terms “Indian tribe” and “tribal organization” have the meaning provided in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)).11 See References in Text note below.
 
 ### Statutory Notes
 
 #### References in Text
 The Lobbying Disclosure Act of 1995, referred to in subsec. (b)(2)(A), (3), is Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, which is classified principally to chapter 26 (§ 1601 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1601&num=0&edition=prelim) and Tables.
+
+Section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)), referred to in subsec. (g)(11), was classified to [section 450b of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim), Indians, prior to editorial reclassification as [section 5304 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 #### Codification
 Another section 1352 was renumbered [section 1353 of this title](./chapter-013-appropriations.md#section-1353).

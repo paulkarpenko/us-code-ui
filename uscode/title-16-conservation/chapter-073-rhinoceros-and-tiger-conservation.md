@@ -130,7 +130,7 @@ Division A, section 101(e), title I of Public Law 105–277, referred to in par.
 
 (6) provide any other information the Secretary considers to be necessary for evaluating the eligibility of the project for funding under this chapter.
 
-**(c) Project review and approval** Within 30 days of receiving a final project proposal, the Secretary shall provide a copy of the proposal to the Administrator. The Secretary shall review each final project proposal to determine if it meets the criteria set forth in subsection (d) of this section. Not later than 6 months after receiving a final project proposal, and subject to the availability of funds, the Secretary, after consulting with the Administrator, shall approve or disapprove the proposal and provide written notification to the person who submitted the proposal and to the Administrator.
+**(c) Project review and approval** Within 30 days of receiving a final project proposal, the Secretary shall provide a copy of the proposal to the Administrator. The Secretary shall review each final project proposal to determine if it meets the criteria set forth in subsection (d). Not later than 6 months after receiving a final project proposal, and subject to the availability of funds, the Secretary, after consulting with the Administrator, shall approve or disapprove the proposal and provide written notification to the person who submitted the proposal and to the Administrator.
 
 **(d) Criteria for approval** The Secretary may approve a project under this section if the project will enhance programs for conservation of rhinoceros or tigers by assisting efforts to—
 
@@ -169,11 +169,11 @@ The Secretary may accept and use donations to provide assistance under [section 
 
 **(b) Penalties**
 
-(1) **Criminal penalty** — A person engaged in business as an importer, exporter, or distributor that knowingly violates subsection (a) of this section shall be fined under title 18, imprisoned not more than 6 months, or both.
+(1) **Criminal penalty** — A person engaged in business as an importer, exporter, or distributor that knowingly violates subsection (a) shall be fined under title 18, imprisoned not more than 6 months, or both.
 
 (2) **Civil penalties**
 
-  (A) *In general* — A person that knowingly violates subsection (a) of this section, and a person engaged in business as an importer, exporter, or distributor that violates subsection (a) of this section, may be assessed a civil penalty by the Secretary of not more than $12,000 for each violation.
+  (A) *In general* — A person that knowingly violates subsection (a), and a person engaged in business as an importer, exporter, or distributor that violates subsection (a), may be assessed a civil penalty by the Secretary of not more than $12,000 for each violation.
 
   (B) *Manner of assessment and collection* — A civil penalty under this paragraph shall be assessed, and may be collected, in the manner in which a civil penalty under the Endangered Species Act of 1973 [[16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.] may be assessed and collected under section 11(a) of that Act ([16 U.S.C. 1540(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1540/a&num=0&edition=prelim)).
 

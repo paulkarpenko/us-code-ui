@@ -503,7 +503,7 @@ The Congress finds that—
 1988—Pub. L. 100–615 amended Congressional findings provisions generally.
 
 #### Executive Order No. 13123
-Ex. Ord. No. 13123, June 3, 1999, 64 F.R. 30851, which directed the Federal Government to reduce greenhouse gas emissions, energy consumption, and water usage and required agencies to develop an annual implementation plan, to request funding necessary to achieve the goals of this order, and to make annual progress reports to the President, was revoked by Ex. Ord. No. 13423, § 11(a)(ii), Jan. 24, 2007, 72 F.R. 3923, set out in a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
+Ex. Ord. No. 13123, June 3, 1999, 64 F.R. 30851, which directed the Federal Government to reduce greenhouse gas emissions, energy consumption, and water usage and required agencies to develop an annual implementation plan, to request funding necessary to achieve the goals of this order, and to make annual progress reports to the President, was revoked by Ex. Ord. No. 13423, § 11(a)(ii), Jan. 24, 2007, 72 F.R. 3923, formerly set out in a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
 
 #### Ex. Ord. No. 13221. Energy Efficient Standby Power Devices
 Ex. Ord. No. 13221, July 31, 2001, 66 F.R. 40571, provided:
@@ -1595,7 +1595,7 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 <a id="section-8262f"></a>
 ## § 8262f. Inspector General review and agency accountability
-**(a) Audit survey** Not later than 120 days after October 24, 1992, each Inspector General created to conduct and supervise audits and investigations relating to the programs and operations of the establishments listed in section 11(2) of the Inspector General Act of 1978 (5 U.S.C. App.), and the Chief Postal Inspector of the United States Postal Service, in accordance with section 8E(f)(1) as established by section 8E(a)(2) of the Inspector General Act Amendments of 1988 (Public Law 100–504) shall—
+**(a) Audit survey** Not later than 120 days after October 24, 1992, each Inspector General created to conduct and supervise audits and investigations relating to the programs and operations of the establishments listed in section 11(2) 11 See References in Text note below. of the Inspector General Act of 1978 (5 U.S.C. App.), and the Chief Postal Inspector of the United States Postal Service, in accordance with section 8E(f)(1) as established by section 8E(a)(2) of the Inspector General Act Amendments of 1988 (Public Law 100–504) shall—
 
 (1) identify agency compliance activities to meet the requirements of section 543 of the National Energy Conservation Policy Act ([42 U.S.C. 8253](./chapter-091-national-energy-conservation-policy.md#section-8253)) and any other matters relevant to implementing the goals of such Act; and
 
@@ -1603,12 +1603,12 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 **(b) President’s Council on Integrity and Efficiency report to Congress** Not later than 150 days after October 24, 1992, the President’s Council on Integrity and Efficiency shall submit a report to the Committee on Energy and Natural Resources and the Committee on Governmental Affairs of the Senate, the Committee on Energy and Commerce, the Committee on Government Operations, and the Committee on Public Works and Transportation of the House of Representatives, on the review conducted by the Inspector General of each agency under this section.
 
-**(c) Inspector General review** Each Inspector General established under section 2 of the Inspector General Act of 1978 (5 U.S.C. App.) is encouraged to conduct periodic reviews of agency compliance with part 3 of title V of the National Energy Conservation Policy Act [[42 U.S.C. 8251](./chapter-091-national-energy-conservation-policy.md#section-8251) et seq.], the provisions of this subtitle,11 See References in Text note below. and other laws relating to energy consumption. Such reviews shall not be inconsistent with the performance of the required duties of the Inspector General’s office.
+**(c) Inspector General review** Each Inspector General established under section 2 of the Inspector General Act of 1978 (5 U.S.C. App.) is encouraged to conduct periodic reviews of agency compliance with part 3 of title V of the National Energy Conservation Policy Act [[42 U.S.C. 8251](./chapter-091-national-energy-conservation-policy.md#section-8251) et seq.], the provisions of this subtitle,1 and other laws relating to energy consumption. Such reviews shall not be inconsistent with the performance of the required duties of the Inspector General’s office.
 
 ### Statutory Notes
 
 #### References in Text
-Sections 2 and 11(2) of the Inspector General Act of 1978, referred to in subsecs. (a) and (c), are sections 2 and 11(2) of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees.
+Sections 2 and 11(2) of the Inspector General Act of 1978, referred to in subsecs. (a) and (c), are sections 2 and 11(2) of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees. Section 11(2) of the Act was renumbered section 12(2) by Pub. L. 110–409, § 7(a), Oct. 14, 2008, 122 Stat. 4305.
 
 Section 8E as established by section 8E(a)(2) of the Inspector General Act Amendments of 1988, referred to in subsec. (a), probably means section 8E of the Inspector General Act of 1978, Pub. L. 95–452, as added by Pub. L. 100–504, title I, § 104(a), Oct. 18, 1988, 102 Stat. 2522. Section 8E of the Inspector General Act of 1978 was successively renumbered section 8F by Pub. L. 103–82, title II, § 202(g)(1), Sept. 21, 1993, 107 Stat. 889, then section 8G by Pub. L. 103–204, § 23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5.
 
@@ -1938,6 +1938,11 @@ Section, Pub. L. 95–619, title VII, § 741, as added Pub. L. 96–294, title V
 
 It is the purpose of this subchapter to encourage the training and certification of individuals to conduct energy audits for residential and commercial buildings in order to serve the various private and public needs of the Nation for energy audits.
 
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Energy Security Act, and not as part of the National Energy Conservation Policy Act which comprises this chapter.
+
 
 <a id="section-8285a"></a>
 ## § 8285a. Definitions
@@ -1959,6 +1964,9 @@ For the purposes of this subchapter—
 
 [Section 8281 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8281&num=0&edition=prelim), referred to in par. (3), was repealed by Pub. L. 99–412, title II, § 201(a), Aug. 28, 1986, 100 Stat. 943.
 
+#### Codification
+Section was enacted as part of the Energy Security Act, and not as part of the National Energy Conservation Policy Act which comprises this chapter.
+
 
 <a id="section-8285b"></a>
 ## § 8285b. Grants
@@ -1976,12 +1984,22 @@ For the purposes of this subchapter—
 
 (2) The Secretary shall require each Governor receiving any grant under this subchapter to agree to meet the standards established pursuant to paragraph (1) in any training and certification conducted using funds provided under this subchapter.
 
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Energy Security Act, and not as part of the National Energy Conservation Policy Act which comprises this chapter.
+
 
 <a id="section-8285c"></a>
 ## § 8285c. Authorization of appropriations
 **(a)** To carry out this subchapter there is authorized to be appropriated the sum of $10,000,000 for the fiscal year ending on September 30, 1981, and the sum of $15,000,000 for the fiscal year ending on September 30, 1982.
 
 **(b)** Any funds appropriated under the authorization contained in this section shall remain available until expended.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Energy Security Act, and not as part of the National Energy Conservation Policy Act which comprises this chapter.
 
 
 <a id="section-8286"></a>
@@ -1999,6 +2017,11 @@ The Secretary of Energy shall assure that within 6 months after June 30, 1980, t
 
 (5) the cost and energy saving characteristics of construction materials.
 
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Energy Security Act, and not as part of the National Energy Conservation Policy Act which comprises this chapter.
+
 
 <a id="section-8286a"></a>
 ## § 8286a. Use of factors and data
@@ -2010,6 +2033,11 @@ Factors and data consented to pursuant to [section 8286 of this title](./chapter
 (2) using the consented to factors and data would cause a violation of an express provision of law; or
 
 (3) statutory requirements or responsibilities require a modification of the consented to factors and data.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Energy Security Act, and not as part of the National Energy Conservation Policy Act which comprises this chapter.
 
 
 <a id="section-8286b"></a>

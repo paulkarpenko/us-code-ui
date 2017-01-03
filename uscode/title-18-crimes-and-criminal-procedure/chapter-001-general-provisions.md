@@ -16,6 +16,19 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 #### Effective Date of Repeal
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
 
+#### Short Title of 2016 Amendment
+Pub. L. 114–316, § 1, Dec. 16, 2016, 130 Stat. 1593, provided that: “This Act [enacting [section 3273 of this title](./chapter-212a-extraterritorial-jurisdiction-over-certain-offenses.md#section-3273) and provisions set out as a note under [section 3273 of this title](./chapter-212a-extraterritorial-jurisdiction-over-certain-offenses.md#section-3273)] may be cited as the ‘Promoting Travel, Commerce, and National Security Act of 2016’.”
+
+Pub. L. 114–236, § 1, Oct. 7, 2016, 130 Stat. 966, provided that: “This Act [enacting chapter 238 of this title and sections 10603f and 14043g–1 of Title 42, The Public Health and Welfare, and amending [section 10601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10601&num=0&edition=prelim)] may be cited as the ‘Survivors’ Bill of Rights Act of 2016’.”
+
+Pub. L. 114–222, § 1, Sept. 28, 2016, 130 Stat. 852, provided that: “This Act [enacting [section 1605B of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605B&num=0&edition=prelim), Judiciary and Judicial Procedure, amending [section 2333 of this title](./chapter-113b-terrorism.md#section-2333) and [section 1605 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605&num=0&edition=prelim), and enacting provisions set out as notes under [section 2333 of this title](./chapter-113b-terrorism.md#section-2333) and [section 1605B of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605B&num=0&edition=prelim)] may be cited as the ‘Justice Against Sponsors of Terrorism Act’.”
+
+Pub. L. 114–154, § 1, May 16, 2016, 130 Stat. 387, provided that: “This Act [amending sections 2318 and 2320 of this title and [section 959 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section959&num=0&edition=prelim), Food and Drugs] may be cited as the ‘Transnational Drug Trafficking Act of 2015’.”
+
+Pub. L. 114–153, § 1, May 11, 2016, 130 Stat. 376, provided that: “This Act [amending sections 1832, 1833, 1835, 1836, 1838, 1839, and 1961 of this title and enacting provisions set out as notes under sections 1832 and 1833 of this title and [section 620 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section620&num=0&edition=prelim), Judiciary and Judicial Procedure] may be cited as the ‘Defend Trade Secrets Act of 2016’.”
+
+Pub. L. 114–133, § 1, Mar. 9, 2016, 130 Stat. 296, provided that: “This Act [enacting [section 4049 of this title](./chapter-303-bureau-of-prisons.md#section-4049)] may be cited as the ‘Eric Williams Correctional Officer Protection Act of 2015’.”
+
 #### Short Title of 2015 Amendment
 Pub. L. 114–22, § 1(a), May 29, 2015, 129 Stat. 227, provided that: “This Act [see Tables for classification] may be cited as the ‘Justice for Victims of Trafficking Act of 2015’.”
 

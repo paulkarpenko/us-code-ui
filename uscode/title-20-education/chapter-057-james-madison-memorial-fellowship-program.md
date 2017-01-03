@@ -179,7 +179,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 (2) The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of special obligations directly to the fund. Such special obligations shall bear interest at a rate equal to the average rate of interest, computed as to the end of the calendar month next preceding the date of such issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt; except that where such average rate is not a multiple of one-eighth of 1 per centum, the rate of interest of such special obligations shall be the multiple of one-eighth of 1 per centum next lower than such average rate. All requests of the Trust Fund to the Secretary of the Treasury provided for in this section shall be binding upon the Secretary.
 
-**(c) Sale of obligations acquired by fund** At the request of the Trust Fund, the Secretary of the Treasury shall redeem any obligation issued directly to the fund. Obligations issued to the fund under subsection (b)(2) of this section shall be redeemed at par plus accrued interest. Any other obligations issued directly to the fund shall be redeemed at the market price.
+**(c) Sale of obligations acquired by fund** At the request of the Trust Fund, the Secretary of the Treasury shall redeem any obligation issued directly to the fund. Obligations issued to the fund under subsection (b)(2) shall be redeemed at par plus accrued interest. Any other obligations issued directly to the fund shall be redeemed at the market price.
 
 **(d) Interest and proceeds from sale or redemption of obligations credited to fund** The interest on, and the proceeds from, the sale or redemption of any obligations held in the fund shall be credited to and form a part of the fund.
 
@@ -328,11 +328,16 @@ As used in this chapter—
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2015—Par. (4). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
+
 2002—Par. (4). Pub. L. 107–110 substituted “7801” for “8801”.
 
 1998—Par. (3). Pub. L. 105–244, § 102(a)(6)(G)(i), substituted “section 1001” for “section 1141(a)”.
 
 Par. (4). Pub. L. 105–244, § 102(a)(6)(G)(ii), substituted “section 8801” for “section 1141(d)”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).

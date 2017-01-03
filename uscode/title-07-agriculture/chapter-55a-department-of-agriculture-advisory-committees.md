@@ -26,7 +26,7 @@ The purposes of this chapter are to—
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
 #### Effective Date
-Chapter effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Soybean Research Advisory Institute
 Pub. L. 97–98, title XIV, § 1446, Dec. 22, 1981, 95 Stat. 1327, provided for the establishment of a Soybean Research Advisory Institute for the purpose of preparing and submitting to Senate Committee on Agriculture, Nutrition, and Forestry and House Committee on Agriculture, not later than Mar. 1, 1983, a comprehensive report, with appropriate recommendations, on the findings of the Institute regarding research on soybean production and utilization, prior to repeal by Pub. L. 99–198, title XIV, § 1434, Dec. 23, 1985, 99 Stat. 1557.
@@ -51,6 +51,9 @@ When used in this chapter—
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-2283"></a>
 ## § 2283. Membership on advisory committees
@@ -67,6 +70,9 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-2284"></a>
@@ -89,6 +95,9 @@ No advisory committee may expend funds in excess of its estimated annual operati
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-2286"></a>
@@ -116,6 +125,9 @@ The Federal Advisory Committee Act, referred to in par. (2), is Pub. L. 92–463
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-2287-to-2289"></a>

@@ -159,7 +159,7 @@ In this subchapter:
 
 (5) **Financial assistance** — The term “financial assistance” means a grant or loan provided by the Secretary (or the Secretary and other Federal agencies) to, or a cooperative agreement entered into by the Secretary (or the Secretary and other Federal agencies) with, a council, or association of councils, to carry out an area plan in a designated area, including assistance provided for planning, analysis, feasibility studies, training, education, and other activities necessary to carry out the area plan.
 
-(6) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim).
+(6) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 (7) **Local unit of government** — The term “local unit of government” means—
 

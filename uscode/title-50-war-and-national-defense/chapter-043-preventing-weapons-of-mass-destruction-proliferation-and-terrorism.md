@@ -143,7 +143,7 @@ In this chapter:
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title XVIII of Pub. L. 110–53, which enacted this chapter, amended [section 3021 of this title](./chapter-044-national-security.md#section-3021) and sections 5952 and 5963 of Title 22, Foreign Relations and Intercourse, and amended provisions set out as notes under sections 2551 and 5952 of Title 22. For complete classification of title XVIII to the Code, see Tables.
 
-Section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997, referred to in par. (1)(A), is section 1501(b) of Pub. L. 104–201, which was set out as a note under [section 2362 of this title](./chapter-040-defense-against-weapons-of-mass-destruction.md#section-2362), prior to repeal by Pub. L. 113–291, div. A, title XIII, § 1351(5), Dec. 19, 2014, 128 Stat. 3607.
+Section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997, referred to in par. (1)(A), is section 1501(b) of Pub. L. 104–201, which was set out in a note under [section 2362 of this title](./chapter-040-defense-against-weapons-of-mass-destruction.md#section-2362), prior to repeal by Pub. L. 113–291, div. A, title XIII, § 1351(5), Dec. 19, 2014, 128 Stat. 3607.
 
 Section 3101(a)(2) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314), referred to in par. (1)(B), is not classified to the Code.
 
@@ -170,27 +170,7 @@ Section 3101(a)(2) of the Bob Stump National Defense Authorization Act for Fisca
 
 (4) Establishing a multilateral mechanism to increase coordination, cooperation, and compliance among PSI-participating countries.
 
-**(b) Budget submission**
-
-(1) **In general** — Each fiscal year in which activities are planned to be carried out under the PSI, the President shall include in the budget request for each participating United States Government agency or department for that fiscal year, a description of the funding and the activities for which the funding is requested for each such agency or department.
-
-(2) **Report** — Not later than the first Monday in February of each even-numbered year in which the President submits a budget request described in paragraph (1), the Secretary of Defense and the Secretary of State shall submit to Congress a comprehensive joint report setting forth the following:
-
-  (A) A 3-year plan, beginning with the fiscal year for the budget request, that specifies the amount of funding and other resources to be provided by the United States for PSI-related activities over the term of the plan, including the purposes for which such funding and resources will be used.
-
-  (B) For the report submitted in 2008, a description of the PSI-related activities carried out during the 3 fiscal years preceding the year of the report, and for the report submitted in 2009 and each year thereafter, a description of the PSI-related activities carried out during the fiscal year preceding the year of the report. The description shall include, for each fiscal year covered by the report—
-
-    (i) the amounts obligated and expended for such activities and the purposes for which such amounts were obligated and expended;
-
-    (ii) a description of the participation of each department or agency of the United States Government in such activities;
-
-    (iii) a description of the participation of each foreign country or entity in such activities;
-
-    (iv) a description of any assistance provided to a foreign country or entity participating in such activities in order to secure such participation, in response to such participation, or in order to improve the quality of such participation; and
-
-    (v) such other information as the Secretary of Defense and the Secretary of State determine should be included to keep Congress fully informed of the operation and activities of the PSI.
-
-(3) **Classification** — The report required by paragraph (2) shall be in an unclassified form but may include a classified annex as necessary.
+**(b) Budget submission** Each fiscal year in which activities are planned to be carried out under the PSI, the President shall include in the budget request for each participating United States Government agency or department for that fiscal year, a description of the funding and the activities for which the funding is requested for each such agency or department.
 
 **(c) Implementation report** Not later than 180 days after August 3, 2007, the President shall transmit to the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives and the Committee on Armed Services and the Committee on Foreign Relations of the Senate a report on the implementation of this section. The report shall include—
 
@@ -203,6 +183,8 @@ Section 3101(a)(2) of the Bob Stump National Defense Authorization Act for Fisca
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (b). Pub. L. 114–92 struck out par. (1) designation and heading “In general” and pars. (2) and (3) which related to report and classification, respectively.
+
 2013—Subsec. (b)(2). Pub. L. 112–239, § 1076(a)(20)(B), made technical amendment to directory language of Pub. L. 112–81, § 1067. See 2011 Amendment note below.
 
 2011—Subsec. (b)(2). Pub. L. 112–81, § 1067, formerly § 1067(b), as amended by Pub. L. 112–239, § 1076(a)(20)(B), substituted “of each even-numbered year” for “of each year” in introductory provisions.

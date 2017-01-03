@@ -2,7 +2,7 @@
 title: 15
 chapter: '73'
 heading: EXPORT ENHANCEMENT
-section_count: 15
+section_count: 17
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -29,7 +29,7 @@ Pub. L. 105–261, div. C, title XXXVIII, § 3801, Oct. 17, 1998, 112 Stat. 2275
 Pub. L. 103–392, title IV, § 401, Oct. 22, 1994, 108 Stat. 4099, provided that: “This title [amending [section 4728 of this title](./chapter-073-export-enhancement.md#section-4728)] may be cited as the ‘Environmental Export Promotion Act of 1994’.”
 
 #### Short Title
-Pub. L. 100–418, title II, § 2001, Aug. 23, 1988, 102 Stat. 1325, provided that: “This title [enacting this chapter, [section 3310a of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3310a&num=0&edition=prelim), Foreign Relations and Intercourse, and [section 2410a of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2410a&num=0&edition=prelim), Appendix, War and National Defense, amending sections 4003, 4051, and 4052 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 1431 and 1708 of Title 7, Agriculture, sections 635q to 635s of Title 12, Banks and Banking, [section 1864 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1864&num=0&edition=prelim), Customs Duties, sections 2151f, 2191a, 2195, and 2421 of Title 22, [section 1702 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1702&num=0&edition=prelim), and sections 5, 6, 39, 2403 to 2406, 2409 to 2414, 2417, and 2419 of Title 50, Appendix, and enacting provisions set out as notes under sections 4011 and 4701 of this title, sections 1421 and 1431 of Title 7, [section 635q of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635q&num=0&edition=prelim), sections 2191 and 2421 of Title 22, [section 1702 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1702&num=0&edition=prelim), and sections 5, 2401, 2404, 2406, and 2410a of Title 50, Appendix] may be referred to as the ‘Export Enhancement Act of 1988’.”
+Pub. L. 100–418, title II, § 2001, Aug. 23, 1988, 102 Stat. 1325, provided that: “This title [see Tables for classification] may be referred to as the ‘Export Enhancement Act of 1988’.”
 
 Pub. L. 100–418, title II, § 2121, Aug. 23, 1988, 102 Stat. 1325, provided that this subchapter could be referred to as the “Fair Trade in Auto Parts Act of 1988”.
 
@@ -163,9 +163,9 @@ For composition of Interagency Group on Countertrade, see section 2–101 of Ex.
 
 (2) **Consul General** — In any United States consulate in which a vacancy occurs in the position of Consul General, the Secretary of State, in consultation with the Secretary, shall consider filling that vacancy with a Commercial Service Officer if the primary functions of the consulate are of a commercial nature and if there are significant business opportunities for United States exporters in the region in which the consulate is located.
 
-**(e) Information dissemination** In order to carry out subsection (b)(7) of this section, to lessen the cost of distribution of information produced by the Commercial Service, and to make that information more readily available, the Secretary should establish a system for distributing that information in those areas where no district offices of the Commercial Service are located. Distributors of the information should be State export promotion agencies or private export and trade promotion associations. The distribution system should be consistent with cost recovery objectives of the Department of Commerce.
+**(e) Information dissemination** In order to carry out subsection (b)(7), to lessen the cost of distribution of information produced by the Commercial Service, and to make that information more readily available, the Secretary should establish a system for distributing that information in those areas where no district offices of the Commercial Service are located. Distributors of the information should be State export promotion agencies or private export and trade promotion associations. The distribution system should be consistent with cost recovery objectives of the Department of Commerce.
 
-**(f) Cooperation in Federal financing and insurance programs** To assist the Commercial Service in carrying out subsection (b)(9) of this section, and consistent with the provisions of [section 635i–7 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635i–7&num=0&edition=prelim), the Export-Import Bank of the United States, the Overseas Private Investment Corporation, the Trade and Development Program, and the Small Business Administration shall each—
+**(f) Cooperation in Federal financing and insurance programs** To assist the Commercial Service in carrying out subsection (b)(9), and consistent with the provisions of [section 635i–7 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section635i–7&num=0&edition=prelim), the Export-Import Bank of the United States, the Overseas Private Investment Corporation, the Trade and Development Program, and the Small Business Administration shall each—
 
 (1) provide to the Commercial Service complete and current information on all of its programs and financing practices; and
 
@@ -223,6 +223,64 @@ Subsecs. (f) to (j). Pub. L. 102–429, § 203(b), added subsec. (f) and redesig
 For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to reporting results of audits to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 53 of House Document No. 103–7.
 
 
+<a id="section-4721a"></a>
+## § 4721a. State trade coordination
+**(a) Omitted**
+
+**(b) Federal and State Export Promotion Coordination Plan**
+
+(1) **In general** — The Secretary of Commerce, acting through the Trade Promotion Coordinating Committee and in coordination with representatives of State trade promotion agencies, shall develop a comprehensive plan to integrate the resources and strategies of State trade promotion agencies into the overall Federal trade promotion program.
+
+(2) **Matters to be included** — The plan required under paragraph (1) shall include the following:
+
+  (A) A description of the role of State trade promotion agencies in assisting exporters.
+
+  (B) An outline of the role of State trade promotion agencies and how it is different from Federal agencies located within or providing services within the State.
+
+  (C) A plan on how to utilize State trade promotion agencies in the Federal trade promotion program.
+
+  (D) An explanation of how Federal and State agencies will share information and resources.
+
+  (E) A description of how Federal and State agencies will coordinate education and trade events in the United States and abroad.
+
+  (F) A description of the efforts to increase efficiency and reduce duplication.
+
+  (G) A clear identification of where businesses can receive appropriate international trade information under the plan.
+
+(3) **Deadline** — The plan required under paragraph (1) shall be finalized and submitted to Congress not later than 12 months after February 24, 2016.
+
+**(c) Annual Federal-State export strategy**
+
+(1) **In general** — The Secretary of Commerce, acting through the head of the United States Foreign and Commercial Service,11 So in original. Probably should be “United States and Foreign Commercial Service,”. shall develop an annual Federal-State export strategy for each State that submits to the Secretary of Commerce its export strategy for the upcoming calendar year. In developing an annual Federal-State export strategy under this paragraph, the Secretary of Commerce shall take into account the Federal and State export promotion coordination plan developed under subsection (b).
+
+(2) **Matters to be included** — The Federal-State export strategy required under paragraph (1) shall include the following:
+
+  (A) The State’s export strategy and economic goals.
+
+  (B) The State’s key sectors and industries of focus.
+
+  (C) Possible foreign and domestic trade events.
+
+  (D) Efforts to increase efficiencies and reduce duplication.
+
+(3) **Report** — The Federal-State export strategy required under paragraph (1) shall be submitted to the Trade Promotion Coordinating Committee not later than February 1, 2017, and February 1 of each year thereafter.
+
+**(d) Coordinated metrics and information sharing**
+
+(1) **In general** — The Secretary of Commerce, in coordination with representatives of State trade promotion agencies, shall develop a framework to share export success information, and develop a coordinated set of reporting metrics.
+
+(2) **Report to Congress** — Not later than one year after February 24, 2016, the Secretary of Commerce shall submit to Congress a report that contains the framework and reporting metrics required under paragraph (1).
+
+**(e) Omitted**
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Small Business Trade Enhancement Act of 2015 or the State Trade Coordination Act, and also as part of the Trade Facilitation and Trade Enforcement Act of 2015, and not as part of the Export Enhancement Act of 1988 which enacted this chapter.
+
+Section is comprised of section 505 of Pub. L. 114–125. Subsecs. (a) and (e) of section 505 of Pub. L. 114–125 amended [section 4727 of this title](./chapter-073-export-enhancement.md#section-4727).
+
+
 <a id="section-4722"></a>
 ## § 4722. Transferred
 
@@ -244,15 +302,15 @@ Section, Pub. L. 100–418, title II, § 2302, Aug. 23, 1988, 102 Stat. 1341, wh
 
 (3) State departments of trade and their regional associations, including centers for international trade development, and
 
-(4) private industry firms or groups of firms in cases where no entity described in paragraph (1), (2), or (3) represents that industry,(in this section referred to as “cooperators”) to engage in activities in order to carry out the purpose of the Market Development Cooperator Program set forth in subsection (a) of this section. The costs of activities under such a contract shall be shared equitably among the Department of Commerce, the cooperator involved, and, whenever appropriate, foreign businesses. The Department of Commerce shall undertake to support direct costs of activities under such a contract, and the cooperator shall undertake to support indirect costs of such activities. Activities under such a contract shall be carried out by the cooperator with the approval and assistance of the Secretary.
+(4) private industry firms or groups of firms in cases where no entity described in paragraph (1), (2), or (3) represents that industry,(in this section referred to as “cooperators”) to engage in activities in order to carry out the purpose of the Market Development Cooperator Program set forth in subsection (a). The costs of activities under such a contract shall be shared equitably among the Department of Commerce, the cooperator involved, and, whenever appropriate, foreign businesses. The Department of Commerce shall undertake to support direct costs of activities under such a contract, and the cooperator shall undertake to support indirect costs of such activities. Activities under such a contract shall be carried out by the cooperator with the approval and assistance of the Secretary.
 
 **(c) Cooperator partnership program**
 
 (1) **In general**
 
-  (A) As part of the Market Development Cooperator Program established under subsection (a) of this section, the Secretary of Commerce shall establish a partnership program with cooperators under which a cooperator may detail individuals, subject to the approval of the Secretary, to the United States and Foreign Commercial Service for a period of not less than 1 year or more than 2 years to supplement the Commercial Service.
+  (A) As part of the Market Development Cooperator Program established under subsection (a), the Secretary of Commerce shall establish a partnership program with cooperators under which a cooperator may detail individuals, subject to the approval of the Secretary, to the United States and Foreign Commercial Service for a period of not less than 1 year or more than 2 years to supplement the Commercial Service.
 
-  (B) Any individual detailed to the United States and Foreign Commercial Service under this subsection shall be responsible for such duties as the Secretary may prescribe in order to carry out the purpose of the Market Development Cooperator Program set forth in subsection (a) of this section.
+  (B) Any individual detailed to the United States and Foreign Commercial Service under this subsection shall be responsible for such duties as the Secretary may prescribe in order to carry out the purpose of the Market Development Cooperator Program set forth in subsection (a).
 
   (C) Individuals detailed to the United States and Foreign Commercial Service under this subsection shall not be considered to be employees of the United States for the purposes of any law administered by the Office of Personnel Management, except that the Secretary of State may determine the applicability to such individuals of [section 2669(f) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2669/f&num=0&edition=prelim) and of any other law administered by the Secretary of State concerning the detail of such individuals abroad.
 
@@ -347,7 +405,7 @@ Section was enacted as part of the Jobs Through Exports Act of 1992, and not as 
 ## § 4724. Trade shows
 **(a) Authority of Secretary of Commerce** In order to facilitate exporting by United States businesses, the Secretary of Commerce shall provide assistance for trade shows in the United States which bring together representatives of United States businesses seeking to export goods or services produced in the United States and representatives of foreign companies or governments seeking to buy such goods or services from these United States businesses.
 
-**(b) Recipients of assistance** Assistance under subsection (a) of this section may be provided to—
+**(b) Recipients of assistance** Assistance under subsection (a) may be provided to—
 
 (1) nonprofit industry organizations,
 
@@ -356,7 +414,7 @@ Section was enacted as part of the Jobs Through Exports Act of 1992, and not as 
 (3) foreign trade zones, and
 
 (4) private industry firms or groups of firms in cases where no entity described in paragraph (1), (2), or (3) represents that industry,
-to provide the services necessary to operate trade shows described in subsection (a) of this section.
+to provide the services necessary to operate trade shows described in subsection (a).
 
 **(c) Assistance to small businesses** In providing assistance under this section, the Secretary of Commerce shall, in consultation with the Administrator of the Small Business Administration, make special efforts to facilitate participation by small businesses and companies new to export.
 
@@ -397,7 +455,7 @@ to provide the services necessary to operate trade shows described in subsection
 
 (5) monitor and evaluate the results of efforts to increase the sale of goods and services in such markets.
 
-**(b) Reports to Congress** The Secretary of Commerce shall report periodically to the Congress on activities carried out under subsection (a) of this section.
+**(b) Reports to Congress** The Secretary of Commerce shall report periodically to the Congress on activities carried out under subsection (a).
 
 **(c) “United States person” defined** As used in this section, the term “United States person” means—
 
@@ -452,7 +510,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 (6) carry out such other duties as are deemed to be appropriate, consistent with the purpose of the TPCC.
 
-**(c) Strategic plan** To carry out subsection (b) of this section, the TPCC shall develop and implement a governmentwide strategic plan for Federal trade promotion efforts. Such plan shall—
+**(c) Strategic plan** To carry out subsection (b), the TPCC shall develop and implement a governmentwide strategic plan for Federal trade promotion efforts. Such plan shall—
 
 (1) establish a set of priorities for Federal activities in support of United States exports and explain the rationale for the priorities;
 
@@ -462,9 +520,11 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 (4) propose to the President an annual unified Federal trade promotion budget that supports the plan for priority activities and improved coordination established under paragraph (2) and eliminates funding for the areas of overlap and duplication identified under paragraph (3);
 
-(5) review efforts by the States (as defined in [section 4721(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4721/i&num=0&edition=prelim)) to promote United States exports and propose means of developing cooperation between State and Federal efforts, including co-location, cost-sharing between Federal and State export promotion programs, and sharing of market research data; and
+(5) review efforts by the States (as defined in [section 4721(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4721/i&num=0&edition=prelim)) to promote United States exports and propose means of developing cooperation between State and Federal efforts, including co-location, cost-sharing between Federal and State export promotion programs, and sharing of market research data;
 
-(6) reflect the recommendations of the United States National Tourism Organization to the degree considered appropriate by the TPCC.
+(6) reflect the recommendations of the United States National Tourism Organization to the degree considered appropriate by the TPCC; and
+
+(7) in coordination with State trade promotion agencies, include a survey and analysis regarding the overall effectiveness of Federal-State coordination and export promotion goals on an annual basis, to further include best practices, recommendations to better assist small businesses, and other relevant matters.
 
 **(d) Membership**
 
@@ -496,13 +556,15 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
   (M) at the discretion of the President, such other departments or agencies as may be necessary.
 
-(2) **Chairperson** — The Secretary of Commerce shall serve as the chairperson of the TPCC.
+(2) **Representatives from State trade promotion agencies** — The TPCC shall also include 1 or more members appointed by the President who are representatives of State trade promotion agencies.
 
-**(e) Member qualifications** Members of the TPCC shall be appointed by the heads of their respective departments or agencies. Such members, as well as alternates designated by any members unable to attend a meeting of the TPCC, shall be individuals who exercise significant decisionmaking authority in their respective departments or agencies.
+(3) **Chairperson** — The Secretary of Commerce shall serve as the chairperson of the TPCC.
+
+**(e) Member qualifications** Members of the TPCC (other than members described in subsection (d)(2)) shall be appointed by the heads of their respective departments or agencies. Such members, as well as alternates designated by any members unable to attend a meeting of the TPCC, shall be individuals who exercise significant decisionmaking authority in their respective departments or agencies.
 
 **(f) Report to Congress** The chairperson of the TPCC shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on International Relations of the House of Representatives, not later than March 30 of each year, a report describing—
 
-(1) the strategic plan developed by the TPCC pursuant to subsection (c) of this section, the implementation of such plan, and any revisions thereto; and
+(1) the strategic plan developed by the TPCC pursuant to subsection (c), the implementation of such plan (including implementation of the survey and analysis described in paragraph (7) of that subsection), and any revisions thereto; and
 
 (2) the implementation of sections 5823 and 5824 of title 22 11 See References in Text note below. concerning funding for export promotion activities and the interagency working groups on energy of the TPCC.
 
@@ -512,6 +574,14 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 Sections 5823 and 5824 of title 22, referred to in subsec. (f)(2), was, in the original, “sections 303 and 304 of the Freedom for Russia and Emerging Democracies and Open Markets Support Act of 1992 ([22 U.S.C. 5823](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5823&num=0&edition=prelim) and 5824)”, and was translated as meaning sections 303 and 304 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, Pub. L. 102–511, to reflect the probable intent of Congress.
 
 #### Amendments
+2016—Subsec. (c)(7). Pub. L. 114–125, § 505(e)(1), added par. (7).
+
+Subsec. (d)(2), (3). Pub. L. 114–125, § 505(a)(1), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (e). Pub. L. 114–125, § 505(a)(2), inserted “(other than members described in subsection (d)(2))” after “Members of the TPCC”.
+
+Subsec. (f)(1). Pub. L. 114–125, § 505(e)(2), inserted “(including implementation of the survey and analysis described in paragraph (7) of that subsection)” after “the implementation of such plan”.
+
 1999—Subsec. (f). Pub. L. 106–158 substituted “March 30 of each year,” for “September 30, 1995, and annually thereafter,” in introductory provisions.
 
 1996—Subsec. (c)(6). Pub. L. 104–288 added par. (6).
@@ -520,6 +590,9 @@ Sections 5823 and 5824 of title 22, referred to in subsec. (f)(2), was, in the o
 
 #### Change of Name
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### Availability of State Resources Guides on Export.gov
+Pub. L. 114–125, title V, § 504(c), Feb. 24, 2016, 130 Stat. 179, provided that: “The Secretary of Commerce shall make available on the Internet website Export.gov (or a successor website) information on the resources relating to export promotion and export financing available in each State— “(1) organized by State; and “(2) including information on State agencies with responsibility for export promotion or export financing and district export councils and trade associations located in the State.”
 
 #### Ex. Ord. No. 12870. Trade Promotion Coordinating Committee
 Ex. Ord. No. 12870, Sept. 30, 1993, 58 F.R. 51753, as amended by Ex. Ord. No. 13286, § 26, Feb. 28, 2003, 68 F.R. 10625, provided:
@@ -767,7 +840,7 @@ Sec. 5. General Provisions. (a) The Commerce Department shall provide funding an
 Barack Obama.
 
 #### Ex. Ord. No. 13675. Establishing the President’s Advisory Council on Doing Business in Africa
-Ex. Ord. No. 13675, Aug. 5, 2014, 79 F.R. 46661, provided:
+Ex. Ord. No. 13675, Aug. 5, 2014, 79 F.R. 46661, as amended by Ex. Ord. No. 13734, § 2, Aug. 3, 2016, 81 F.R. 52321, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to promote broad-based economic growth and job creation in the United States and Africa by encouraging U.S. companies to trade with and invest in Africa, it is hereby ordered as follows:
 
@@ -775,7 +848,7 @@ Section 1. Policy. The United States recognizes that Africa is a region of growi
 
 Sec. 2. Establishment. Not later than 180 days after the date of this order, the Secretary of Commerce shall establish the President’s Advisory Council on Doing Business in Africa (Advisory Council).
 
-Sec. 3. Membership. (a) The Advisory Council shall consist of not more than 15 private sector corporate members, including small businesses and representatives from infrastructure, agriculture, consumer goods, banking, services, and other industries. The Advisory Council shall be broadly representative of the key industries with business interests in the functions of the Advisory Council as set forth in section 4 of this order. Appointments to the Advisory Council shall be made without regard to political affiliation.
+Sec. 3. Membership. (a) The Advisory Council shall consist of not more than 26 private sector corporate members, including small businesses and representatives from infrastructure, agriculture, consumer goods, banking, services, and other industries. The Advisory Council shall be broadly representative of the key industries with business interests in the functions of the Advisory Council as set forth in section 4 of this order. Appointments to the Advisory Council shall be made without regard to political affiliation.
 
 (b) Members of the Advisory Council shall be appointed by the Secretary of Commerce, in consultation with the Trade Promotion Coordinating Committee (TPCC), which was authorized by statute in 1992 ([15 U.S.C. 4727](./chapter-073-export-enhancement.md#section-4727)) and established by Executive Order 12870 of September 30, 1993.
 
@@ -826,6 +899,9 @@ Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impa
 (d) Insofar as the Federal Advisory Committee Act (5 U.S.C. App.) (the “Act”) may apply to the Advisory Council, any functions of the President under the Act, except for those in section 6 of the Act, shall be performed by the Secretary of Commerce in accordance with the guidelines that have been issued by the Administrator of General Services.
 
 Barack Obama.
+
+#### Extension of Term of President’s Advisory Council on Doing Business in Africa
+Term of President’s Advisory Council on Doing Business in Africa extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Maximizing the Effectiveness of Federal Programs and Functions Supporting Trade and Investment
 Memorandum of President of the United States, Feb. 17, 2012, 77 F.R. 10935, provided:
@@ -959,7 +1035,7 @@ Section was enacted as part of the Export Enhancement Act of 1999, and not as pa
 
 **(f) Environmental technologies specialists in United States and Foreign Commercial Service**
 
-(1) **Assignment of environmental technologies specialists** — The Secretary shall assign a specialist in environmental technologies to the office of the United States and Foreign Commercial Service in each of the 5 priority countries selected under subsection (d)(1) of this section, and the Secretary is authorized to assign such a specialist to the office of the United States and Foreign Commercial Service in any country that is a promising market for United States exports of environmental technologies, goods, and services. Such specialist may be an employee of the Department, an employee of any relevant United States Government department or agency assigned on a temporary or limited term basis to the Commerce Department, or a representative of the private sector assigned to the Department of Commerce.
+(1) **Assignment of environmental technologies specialists** — The Secretary shall assign a specialist in environmental technologies to the office of the United States and Foreign Commercial Service in each of the 5 priority countries selected under subsection (d)(1), and the Secretary is authorized to assign such a specialist to the office of the United States and Foreign Commercial Service in any country that is a promising market for United States exports of environmental technologies, goods, and services. Such specialist may be an employee of the Department, an employee of any relevant United States Government department or agency assigned on a temporary or limited term basis to the Commerce Department, or a representative of the private sector assigned to the Department of Commerce.
 
 (2) **Duties of environmental technologies specialists** — Each specialist assigned under paragraph (1) shall provide export promotion assistance to United States environmental businesses, including, but not limited to—
 
@@ -979,7 +1055,7 @@ Section was enacted as part of the Export Enhancement Act of 1999, and not as pa
 
   (H) promoting the equal treatment of United States environmental, safety, and related requirements, with those of other exporting countries, in order to promote exports of United States-made products.
 
-**(g) Environmental training in one-stop shops** In addition to the training provided under subsection (f)(2)(C) of this section, the Secretary shall establish a mechanism to train—
+**(g) Environmental training in one-stop shops** In addition to the training provided under subsection (f)(2)(C), the Secretary shall establish a mechanism to train—
 
 (1) Commercial Service Officers assigned to the one-stop shops provided for in [section 4721(b)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4721/b/8&num=0&edition=prelim), and
 
@@ -1032,13 +1108,41 @@ Subsecs. (f) to (k). Pub. L. 103–392, § 402(b), added subsecs. (f) to (k).
 Section 204(b) of Pub. L. 102–429 directed that, not later than 1 year after Oct. 21, 1992, chairperson of Trade Promotion Coordinating Committee, after consultation with appropriate departments and agencies of the United States Government, submit a report to Congress that analyzes (1) the extent to which Federal investment insurance and export financing programs sufficiently protect against business failures or default on obligations arising from changes by a foreign government in its environmental laws or regulations, and (2) the advisability and feasibility of expanding coverage of such programs, or creating new programs, to address such risks.
 
 
+<a id="section-4728a"></a>
+## § 4728a. State and Federal Export Promotion Coordination Working Group
+**(a) Statement of policy** It is the policy of the United States to promote exports as an opportunity for small businesses. In exercising their powers and functions in order to advance that policy, all Federal agencies shall work constructively with State and local agencies engaged in export promotion and export financing activities.
+
+**(b) Establishment** The President shall establish a State and Federal Export Promotion Coordination Working Group (in this section referred to as the “Working Group”) as a subcommittee of the Trade Promotion Coordination Committee (in this section referred to as the “TPCC”).
+
+**(c) Purposes** The purposes of the Working Group are—
+
+(1) to identify issues related to the coordination of Federal resources relating to export promotion and export financing with such resources provided by State and local governments;
+
+(2) to identify ways to improve coordination with respect to export promotion and export financing activities through the strategic plan developed under [section 4727(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4727/c&num=0&edition=prelim);
+
+(3) to develop a strategy for improving coordination of Federal and State resources relating to export promotion and export financing, including methods to eliminate duplication of effort and overlapping functions; and
+
+(4) to develop a strategic plan for considering and implementing the suggestions of the Working Group as part of the strategic plan developed under [section 4727(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4727/c&num=0&edition=prelim).
+
+**(d) Membership** The Secretary of Commerce shall select the members of the Working Group, who shall include—
+
+(1) representatives from State trade agencies representing regionally diverse areas; and
+
+(2) representatives of the departments and agencies that are represented on the TPCC, who are designated by the heads of their respective departments or agencies to advise the head on ways of promoting the exportation of United States goods and services.
+
+### Statutory Notes
+
+#### Delegation of Functions
+Functions of President under subsec. (b) of this section assigned to Secretary of Commerce, see Ex. Ord. No. 13733, § 1(a), July 22, 2016, 81 F.R. 49515, set out as a note under [section 4421 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4421&num=0&edition=prelim), Customs Duties.
+
+
 <a id="section-4729"></a>
 ## § 4729. Report on export policy
 **(a) In general** Not later than May 31 of each year, the Secretary of Commerce shall submit to the Congress a report on the international economic position of the United States and, not later than June 30 of each year, shall appear before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives to testify on issues addressed in that report.
 
 **(b) Contents**
 
-(1) **In general** — Each report required under subsection (a) of this section shall address—
+(1) **In general** — Each report required under subsection (a) shall address—
 
   (A) the state of United States international economic competitiveness, focusing, in particular, on the efforts of the Department of Commerce—
 

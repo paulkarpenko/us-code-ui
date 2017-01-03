@@ -164,7 +164,7 @@ Pub. L. 108–21, title III, § 361, Apr. 30, 2003, 117 Stat. 665, provided that
 <a id="section-5602"></a>
 ## § 5602. Purposes
 
-The purposes of this subchapter and subchapter II of this chapter are—
+The purposes of this subchapter and subchapter II are—
 
 (1) to support State and local programs that prevent juvenile involvement in delinquent behavior;
 
@@ -611,9 +611,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 (5)
 
-  (A) develop for each fiscal year, and publish annually in the Federal Register for public comment, a proposed comprehensive plan describing the particular activities which the Administrator intends to carry out under parts D and E of this subchapter in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E of this subchapter; and
+  (A) develop for each fiscal year, and publish annually in the Federal Register for public comment, a proposed comprehensive plan describing the particular activities which the Administrator intends to carry out under parts D and E in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E; and
 
-  (B) taking into consideration comments received during the 45-day period beginning on the date the proposed plan is published, develop and publish a final plan, before December 31 of such fiscal year, describing the particular activities which the Administrator intends to carry out under parts D and E of this subchapter in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E of this subchapter;
+  (B) taking into consideration comments received during the 45-day period beginning on the date the proposed plan is published, develop and publish a final plan, before December 31 of such fiscal year, describing the particular activities which the Administrator intends to carry out under parts D and E in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E;
 
 (6) provide for the auditing of monitoring systems required under section 5633(a)(15) 11 See References in Text note below. of this title to review the adequacy of such systems; and
 
@@ -2131,7 +2131,7 @@ Another prior section 245 of Pub. L. 93–415 was classified to [section 5656 of
 
 (3) **Authority to modify application process for subsequent grants** — The Administrator may modify by rule the operation of subsection (a) of this section with respect to the submission and contents of applications for subsequent grants described in paragraph (2).
 
-**(d) Reporting requirement** Each Indian tribe that receives a grant under this section shall be subject to the fiscal accountability provisions of [section 450c(f)(1) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450c/f/1&num=0&edition=prelim), relating to the submission of a single-agency audit report required by chapter 75 of title 31.
+**(d) Reporting requirement** Each Indian tribe that receives a grant under this section shall be subject to the fiscal accountability provisions of [section 5305(f)(1) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5305/f/1&num=0&edition=prelim), relating to the submission of a single-agency audit report required by chapter 75 of title 31.
 
 **(e) Matching requirement**
 
@@ -2195,7 +2195,7 @@ A prior section 5660, Pub. L. 93–415, title II, § 246, formerly § 250, Sept.
 
         (cc) the type of weapons used in incidents, as classified in the Uniform Crime Reports of the Federal Bureau of Investigation; and
 
-    (xi) other purposes consistent with the purposes of this subchapter and subchapter I of this chapter.
+    (xi) other purposes consistent with the purposes of this subchapter and subchapter I.
 
 (2) The Administrator shall ensure that an equitable amount of funds available to carry out paragraph (1)(B) is used for research and evaluation relating to the prevention of juvenile delinquency.
 
@@ -2221,7 +2221,7 @@ A prior section 5660, Pub. L. 93–415, title II, § 246, formerly § 250, Sept.
 
 (1) plan and identify the purposes and goals of all agreements carried out with funds provided under this subsection; and
 
-(2) undertake statistical work in juvenile justice matters, for the purpose of providing for the collection, analysis, and dissemination of statistical data and information relating to juvenile delinquency and serious crimes committed by juveniles, to the juvenile justice system, to juvenile violence, and to other purposes consistent with the purposes of this subchapter and subchapter I of this chapter.
+(2) undertake statistical work in juvenile justice matters, for the purpose of providing for the collection, analysis, and dissemination of statistical data and information relating to juvenile delinquency and serious crimes committed by juveniles, to the juvenile justice system, to juvenile violence, and to other purposes consistent with the purposes of this subchapter and subchapter I.
 
 **(c) Grant authority and competitive selection process** The Administrator may make grants and enter into contracts with public or private agencies, organizations, or individuals and shall use a competitive process, established by rule by the Administrator, to carry out subsections (a) and (b) of this section.
 
@@ -2387,15 +2387,15 @@ Recipients of grants made under this part shall submit to the Administrator such
 
 (2) Of such sums as are appropriated for a fiscal year to carry out this subchapter (other than parts C and E)—
 
-  (A) not more than 5 percent shall be available to carry out part A of this subchapter;
+  (A) not more than 5 percent shall be available to carry out part A;
 
-  (B) not less than 80 percent shall be available to carry out part B of this subchapter; and
+  (B) not less than 80 percent shall be available to carry out part B; and
 
-  (C) not more than 15 percent shall be available to carry out part D of this subchapter.
+  (C) not more than 15 percent shall be available to carry out part D.
 
-**(b) Authorization of appropriations for part C** There are authorized to be appropriated to carry out part C of this subchapter such sums as may be necessary for fiscal years 2003, 2004, 2005, 2006, and 2007.
+**(b) Authorization of appropriations for part C** There are authorized to be appropriated to carry out part C such sums as may be necessary for fiscal years 2003, 2004, 2005, 2006, and 2007.
 
-**(c) Authorization of appropriations for part E** There are authorized to be appropriated to carry out part E of this subchapter, and authorized to remain available until expended, such sums as may be necessary for fiscal years 2003, 2004, 2005, 2006, and 2007.
+**(c) Authorization of appropriations for part E** There are authorized to be appropriated to carry out part E, and authorized to remain available until expended, such sums as may be necessary for fiscal years 2003, 2004, 2005, 2006, and 2007.
 
 **(d) Experimentation on individuals; prohibition; “behavior control” defined** No funds appropriated to carry out the purposes of this subchapter may be used for any bio-medical or behavior control experimentation on individuals or any research involving such experimentation. For the purpose of this subsection, the term “behavior control” refers to experimentation or research employing methods which involve a substantial risk of physical or psychological harm to the individual subject and which are intended to modify or alter criminal and other anti-social behavior, including aversive conditioning therapy, drug therapy or chemotherapy (except as part of routine clinical care), physical therapy of mental disorders, electroconvulsive therapy, or physical punishment. The term does not apply to a limited class of programs generally recognized as involving no such risk, including methadone maintenance and certain alcohol treatment programs, psychological counseling, parent training, behavior contracting, survival skills training, restitution, or community service, if safeguards are established for the informed consent of subjects (including parents or guardians of minors).
 
@@ -2614,7 +2614,7 @@ Section effective on the first day of the first fiscal year that begins after No
 <a id="section-5678"></a>
 ## § 5678. Rules of construction
 
-Nothing in this subchapter or subchapter I of this chapter shall be construed—
+Nothing in this subchapter or subchapter I shall be construed—
 
 (1) to prevent financial assistance from being awarded through grants under this subchapter to any otherwise eligible organization; or
 
@@ -2670,17 +2670,17 @@ Section effective on the first day of the first fiscal year that begins after No
 
 (2) **Allocation**
 
-  (A) *Parts A and B of this subchapter* — From the amount appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not less than 90 percent to carry out parts A and B of this subchapter.
+  (A) *Parts A and B* — From the amount appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not less than 90 percent to carry out parts A and B.
 
-  (B) *Part B of this subchapter* — Of the amount reserved under subparagraph (A), 45 percent and, in those fiscal years in which continuation grant obligations and the quality and number of applicants for parts A and B of this subchapter warrant not more than 55 percent, shall be reserved to carry out part B of this subchapter.
+  (B) *Part B* — Of the amount reserved under subparagraph (A), 45 percent and, in those fiscal years in which continuation grant obligations and the quality and number of applicants for parts A and B warrant not more than 55 percent, shall be reserved to carry out part B.
 
-(3) **Parts C and D of this subchapter**
+(3) **Parts C and D**
 
-  (A) *In general* — In each fiscal year, after reserving the amounts required by paragraph (2), the Secretary shall use the remaining amount (if any) to carry out parts C and D of this subchapter (other than [section 5714–25 of this title](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5714-25)).
+  (A) *In general* — In each fiscal year, after reserving the amounts required by paragraph (2), the Secretary shall use the remaining amount (if any) to carry out parts C and D (other than [section 5714–25 of this title](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5714-25)).
 
   (B) *Periodic estimate* — There are authorized to be appropriated to carry out [section 5714–25 of this title](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5714-25) such sums as may be necessary for fiscal years 2009, 2010, 2011, 2012, and 2013.
 
-(4) **Part E of this subchapter** — There are authorized to be appropriated to carry out part E of this subchapter $25,000,000 for fiscal year 2009 and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013.
+(4) **Part E** — There are authorized to be appropriated to carry out part E $25,000,000 for fiscal year 2009 and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013.
 
 **(b) Separate identification required** No funds appropriated to carry out this subchapter may be combined with funds appropriated under any other Act if the purpose of combining such funds is to make a single discretionary grant, or a single discretionary payment, unless such funds are separately identified in all grants and contracts and are used for the purposes specified in this subchapter.
 
@@ -2695,7 +2695,7 @@ Subsec. (a)(4). Pub. L. 110–378, § 11(3), substituted “are authorized” fo
 
 2003—Subsec. (a)(1). Pub. L. 108–96, § 117(a), substituted “$105,000,000 for fiscal year 2004, and such sums as may be necessary for fiscal years 2005, 2006, 2007, and 2008” for “such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003”.
 
-Subsec. (a)(2)(B). Pub. L. 108–96, § 117(c), substituted “45 percent and, in those fiscal years in which continuation grant obligations and the quality and number of applicants for parts A and B of this subchapter warrant not more than 55 percent” for “not less than 20 percent, and not more than 30 percent”.
+Subsec. (a)(2)(B). Pub. L. 108–96, § 117(c), substituted “45 percent and, in those fiscal years in which continuation grant obligations and the quality and number of applicants for parts A and B warrant not more than 55 percent” for “not less than 20 percent, and not more than 30 percent”.
 
 Subsec. (a)(4). Pub. L. 108–96, § 117(b), substituted “2004, 2005, 2006, 2007, and 2008” for “2000, 2001, 2002, and 2003”.
 
@@ -3322,7 +3322,7 @@ Subsec. (c). Pub. L. 108–96, § 107(b), added subsec. (c).
 Subsec. (a)(13). Pub. L. 102–586, § 3(f)(2), substituted “informed consent of the individual youth” for “consent of the individual youth and parent or legal guardian” and struck out “or a government agency involved in the disposition of criminal charges against youth” after “statistical records”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date
 Section effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as an Effective Date of 1988 Amendment note under [section 5601 of this title](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5601).
@@ -3446,7 +3446,7 @@ Subsec. (b)(2) to (10). Pub. L. 106–71, § 3(h)(3), redesignated pars. (3) to 
 ## § 5714–41. Demonstration projects to provide services to youth in rural areas
 **(a)**
 
-(1) The Secretary may make grants on a competitive basis to States, localities, and private entities (and combinations of such entities) to provide services (including transportation) authorized to be provided under part A of this subchapter, to runaway and homeless youth in rural areas.
+(1) The Secretary may make grants on a competitive basis to States, localities, and private entities (and combinations of such entities) to provide services (including transportation) authorized to be provided under part A, to runaway and homeless youth in rural areas.
 
 (2)
 
@@ -3472,7 +3472,7 @@ Subsec. (b)(2) to (10). Pub. L. 106–71, § 3(h)(3), redesignated pars. (3) to 
 
     (i) the number of runaway and homeless youth who receive services under the project carried out by the applicant;
 
-    (ii) the types of services authorized under part A of this subchapter that were needed by, but not provided to, such youth in the geographical area served by the project;
+    (ii) the types of services authorized under part A that were needed by, but not provided to, such youth in the geographical area served by the project;
 
     (iii) the reasons the services identified under clause (ii) were not provided by the project; and
 
@@ -3554,9 +3554,9 @@ Section effective Oct. 12, 1984, see section 670(a) of Pub. L. 98–473, set out
 
 <a id="section-5731"></a>
 ## § 5731. Reports
-**(a) In general** Not later than April 1, 2000, and biennially thereafter, the Secretary shall submit, to the Committee on Education and the Workforce of the House of Representatives and the Committee on the Judiciary of the Senate, a report on the status, activities, and accomplishments of entities that receive grants under parts A, B, C, D, and E of this subchapter, with particular attention to—
+**(a) In general** Not later than April 1, 2000, and biennially thereafter, the Secretary shall submit, to the Committee on Education and the Workforce of the House of Representatives and the Committee on the Judiciary of the Senate, a report on the status, activities, and accomplishments of entities that receive grants under parts A, B, C, D, and E, with particular attention to—
 
-(1) in the case of centers funded under part A of this subchapter, the ability or effectiveness of such centers in—
+(1) in the case of centers funded under part A, the ability or effectiveness of such centers in—
 
   (A) alleviating the problems of runaway and homeless youth;
 
@@ -3566,7 +3566,7 @@ Section effective Oct. 12, 1984, see section 670(a) of Pub. L. 98–473, set out
 
   (D) assisting such youth to decide upon a future course of action; and
 
-(2) in the case of projects funded under part B of this subchapter—
+(2) in the case of projects funded under part B—
 
   (A) the number and characteristics of homeless youth served by such projects;
 
@@ -3652,7 +3652,7 @@ Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub.
 
 <a id="section-5732a"></a>
 ## § 5732a. Evaluation and information
-**(a) In general** If a grantee receives grants for 3 consecutive fiscal years under part A, B, C, D, or E of this subchapter (in the alternative), then the Secretary shall evaluate such grantee on-site, not less frequently than once in the period of such 3 consecutive fiscal years, for purposes of—
+**(a) In general** If a grantee receives grants for 3 consecutive fiscal years under part A, B, C, D, or E (in the alternative), then the Secretary shall evaluate such grantee on-site, not less frequently than once in the period of such 3 consecutive fiscal years, for purposes of—
 
 (1) determining whether such grants are being used for the purposes for which such grants are made by the Secretary;
 
@@ -3681,7 +3681,7 @@ Section effective Oct. 1, 1988, but not applicable with respect to fiscal year 1
 <a id="section-5732-1"></a>
 ## § 5732–1. Consolidated review of applications
 
-With respect to funds available to carry out parts A, B, C, D, and E of this subchapter, nothing in this subchapter shall be construed to prohibit the Secretary from—
+With respect to funds available to carry out parts A, B, C, D, and E, nothing in this subchapter shall be construed to prohibit the Secretary from—
 
 (1) announcing, in a single announcement, the availability of funds for grants under 2 or more of such parts; and
 
@@ -3741,9 +3741,9 @@ In this subchapter:
 
   (A) who is—
 
-    (i) less than 21 years of age, or, in the case of a youth seeking shelter in a center under part A of this subchapter, less than 18 years of age, or is less than a higher maximum age if the State where the center is located has an applicable State or local law (including a regulation) that permits such higher maximum age in compliance with licensure requirements for child-and youth-serving 11 So in original. facilities; and
+    (i) less than 21 years of age, or, in the case of a youth seeking shelter in a center under part A, less than 18 years of age, or is less than a higher maximum age if the State where the center is located has an applicable State or local law (including a regulation) that permits such higher maximum age in compliance with licensure requirements for child-and youth-serving 11 So in original. facilities; and
 
-    (ii) for the purposes of part B of this subchapter, not less than 16 years of age and either—
+    (ii) for the purposes of part B, not less than 16 years of age and either—
 
       (I) less than 22 years of age; or
 
@@ -3814,7 +3814,7 @@ Par. (3)(A)(ii). Pub. L. 110–378, § 10(a)(2)(B), substituted “age and eithe
 
 Pars. (4) to (8). Pub. L. 110–378, § 10(b), added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively.
 
-2003—Subsec. (3)(A)(i). Pub. L. 108–96 inserted “, or, in the case of a youth seeking shelter in a center under part A of this subchapter, not more than 18 years of age” after “of age”.
+2003—Subsec. (3)(A)(i). Pub. L. 108–96 inserted “, or, in the case of a youth seeking shelter in a center under part A, not more than 18 years of age” after “of age”.
 
 
 <a id="section-5751"></a>
@@ -4515,7 +4515,7 @@ A prior section 5782, Pub. L. 93–415, title V, § 503, as added Pub. L. 102–
 
 **(b) Eligibility** The requirements of this subsection are met with respect to a unit of general local government if—
 
-(1) the unit is in compliance with the requirements of part B of subchapter II of this chapter;
+(1) the unit is in compliance with the requirements of part B of subchapter II;
 
 (2) the unit has submitted to the State advisory group a minimum 3-year comprehensive plan outlining the unit’s local front end plans for investment for delinquency prevention and early intervention activities;
 
@@ -4537,7 +4537,7 @@ A prior section 5782, Pub. L. 93–415, title V, § 503, as added Pub. L. 102–
 
 (3) developing or enhancing a statewide subsidy program to local governments that is dedicated to early intervention and delinquency prevention;
 
-(4) coordinating and collaborating with programs established in local communities for delinquency prevention under part C of subchapter II of this chapter; 22 See References in Text note below. and
+(4) coordinating and collaborating with programs established in local communities for delinquency prevention under part C of subchapter II; 22 See References in Text note below. and
 
 (5) developing data-driven prevention plans, employing evidence-based prevention strategies, and conducting program evaluations to determine impact and effectiveness.
 
@@ -4568,7 +4568,7 @@ A prior section 5782, Pub. L. 93–415, title V, § 503, as added Pub. L. 102–
 ### Statutory Notes
 
 #### References in Text
-Part C of subchapter II of this chapter, referred to in subsec. (c)(4), was in the original “part C of this subtitle”, and was translated as reading “part C of title II”, meaning part C of title II of Pub. L. 93–415, to reflect the probable intent of Congress. Title V of Pub. L. 93–415 does not contain parts or subtitles.
+Part C of subchapter II, referred to in subsec. (c)(4), was in the original “part C of this subtitle”, and was translated as reading “part C of title II”, meaning part C of title II of Pub. L. 93–415, to reflect the probable intent of Congress. Title V of Pub. L. 93–415 does not contain parts or subtitles.
 
 #### Codification
 Another section 504 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended [section 5034 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section5034&num=0&edition=prelim), Crimes and Criminal Procedure. Pub. L. 111–211, which directed amendment of section 504 of Pub. L. 93–415, was executed to this section, to reflect the probable intent of Congress.

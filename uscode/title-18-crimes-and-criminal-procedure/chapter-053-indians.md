@@ -275,7 +275,7 @@ Functions of all other officers of Department of the Interior and functions of a
 
 (3) the term “Indian tribe”—
 
-  (A) has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)); and
+  (A) has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)); 11 See References in Text note below. and
 
   (B) includes, for purposes of this section only, an Indian group that has been formally recognized as an Indian tribe by—
 
@@ -301,6 +301,9 @@ The last paragraph of [section 305e of title 25](https://uscode.house.gov/view.x
 Maximum fine of $2,000 was changed to $500 to bring the offense within the category of petty offenses defined by [section 1 of this title](./chapter-001-general-provisions.md#section-1). (See reviser’s note under [section 1157 of this title](./chapter-053-indians.md#section-1157).)
 
 Minor changes were made in phraseology.
+
+#### References in Text
+Section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)), referred to in subsec. (c)(3)(A), was classified to [section 450b of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim), Indians, prior to editorial reclassification as [section 5304 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 #### Amendments
 2010—Subsec. (b). Pub. L. 111–211, § 103(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “Whoever knowingly violates subsection (a) shall—

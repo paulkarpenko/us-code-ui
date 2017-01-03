@@ -2,7 +2,7 @@
 title: 22
 chapter: '71'
 heading: UNITED STATES INTERNATIONAL BROADCASTING
-section_count: 16
+section_count: 18
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -105,51 +105,31 @@ Pub. L. 105–277, div. G, subdiv. B, title XXIV, § 2420, Oct. 21, 1998, 112 St
 
 
 <a id="section-6203"></a>
-## § 6203. Establishment of Broadcasting Board of Governors
-**(a) Continued existence within Executive branch**
+## § 6203. Establishment of the Chief Executive Officer of the Broadcasting Board of Governors
+**(a) Continued existence within Executive branch** The Broadcasting Board of Governors shall continue to exist within the Executive branch of Government as an entity described in [section 104 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section104&num=0&edition=prelim).
 
-(1) **In general** — The Broadcasting Board of Governors shall continue to exist within the Executive branch of Government as an entity described in [section 104 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section104&num=0&edition=prelim).
+**(b) Chief Executive Officer**
 
-(2) **Retention of existing Board members** — The members of the Broadcasting Board of Governors appointed by the President pursuant to subsection (b)(1)(A) before the effective date of title XIII of the Foreign Affairs Agencies Consolidation Act of 1998 and holding office as of that date may serve the remainder of their terms of office without reappointment.
+(1) **In general** — The head of the Broadcasting Board of Governors shall be a Chief Executive Officer, who shall be appointed by the President, by and with the advice and consent of the Senate. Notwithstanding any other provision of law, until such time as a Chief Executive Officer is appointed and has qualified, the current or acting Chief Executive Officer appointed by the Board may continue to serve and exercise the authorities and powers under this chapter.
 
-(3) **Inspector General authorities**
+(2) **Term** — The first Chief Executive Officer appointed pursuant to paragraph (1) shall serve for an initial term of three years.
 
-  (A) *In general* — The Inspector General of the Department of State and the Foreign Service shall exercise the same authorities with respect to the Broadcasting Board of Governors and the International Broadcasting Bureau as the Inspector General exercises under the Inspector General Act of 1978 and [section 3929 of this title](./chapter-052-foreign-service.md#section-3929) with respect to the Department of State.
+(3) **Compensation** — A Chief Executive Officer appointed pursuant to paragraph (1) shall be compensated at the annual rate of basic pay for level III of the Executive Schedule under [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim).
 
-  (B) *Respect for journalistic integrity of broadcasters* — The Inspector General shall respect the journalistic integrity of all the broadcasters covered by this chapter and may not evaluate the philosophical or political perspectives reflected in the content of broadcasts.
+**(c) Termination of Director of International Broadcasting Bureau** Effective on December 23, 2016, the position of the Director of the International Broadcasting Bureau shall be terminated, and all of the responsibilities, offices, authorities, and immunities of the Director or the Board under this or any other chapter or authority before such date of enactment shall be transferred or available to, assumed by, or overseen by the Chief Executive Officer, as head of the Board.
 
-**(b) Composition of Board**
-
-(1) The Board shall consist of 9 members, as follows:
-
-  (A) 8 voting members who shall be appointed by the President, by and with the advice and consent of the Senate.
-
-  (B) The Secretary of State who shall also be a voting member.
-
-(2) The President shall appoint one member (other than the Secretary of State) as Chairman of the Board, subject to the advice and consent of the Senate.
-
-(3) Exclusive of the Secretary of State, not more than 4 of the members of the Board appointed by the President shall be of the same political party.
-
-**(c) Term of office** The term of office of each member of the Board shall be three years, except that the Secretary of State shall remain a member of the Board during the Director’s 11 So in original. Probably should be “Secretary’s”. term of service. Of the other 8 voting members, the initial terms of office of two members shall be one year, and the initial terms of office of 3 other members shall be two years, as determined by the President. The President shall appoint, by and with the advice and consent of the Senate, Board members to fill vacancies occurring prior to the expiration of a term, in which case the members so appointed shall serve for the remainder of such term. Any member whose term has expired may serve until a successor has been appointed and qualified. When there is no Secretary of State, the Acting Secretary of State shall serve as a member of the Board until a Director 22 So in original. Probably should be “Secretary”. is appointed.
-
-**(d) Selection of Board** Members of the Board appointed by the President shall be citizens of the United States who are not regular full-time employees of the United States Government. Such members shall be selected by the President from among Americans distinguished in the fields of mass communications, print, broadcast media, or foreign affairs.
-
-**(e) Compensation** Members of the Board, while attending meetings of the Board or while engaged in duties relating to such meetings or in other activities of the Board pursuant to this section (including travel time) shall be entitled to receive compensation equal to the daily equivalent of the compensation prescribed for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim). While away from their homes or regular places of business, members of the Board may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law ([5 U.S.C. 5703](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim)) for persons in the Government service employed intermittently. The Secretary of State shall not be entitled to any compensation under this chapter, but may be allowed travel expenses as provided under this subsection.
-
-**(f) Decisions** Decisions of the Board shall be made by majority vote, a quorum being present. A quorum shall consist of 5 members.
-
-**(g) Immunity from civil liability** Notwithstanding any other provision of law, any and all limitations on liability that apply to the members of the Broadcasting Board of Governors also shall apply to such members when acting in their capacities as members of the boards of directors of RFE/RL, Incorporated and Radio Free Asia.
+**(d) Immunity from civil liability** Notwithstanding any other provision of law, all limitations on liability that apply to the Chief Executive Officer shall also apply to members of the boards of directors of RFE/RL, Inc., Radio Free Asia, the Middle East Broadcasting Networks, or any organization that consolidates such entities when such members are acting in their official capacities.
 
 ### Statutory Notes
 
 #### References in Text
-For the effective date of title XIII of the Foreign Affairs Agencies Consolidation Act of 1998, referred to in subsec. (a)(2), meaning the effective date of title XIII of subdiv. A of div. G of Pub. L. 105–277, see section 1301 of Pub. L. 105–277, set out as a note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
+This chapter, referred to in subsecs. (b)(1) and (c), was in the original “this Act”, and was translated as reading “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
-The Inspector General Act of 1978, referred to in subsec. (a)(3)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-This chapter, referred to in subsecs. (a)(3)(B) and (e), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+December 23, 2016, referred to in subsec. (c), was in the original “the date of the enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 114–328, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to the continued existence within the Executive branch, retention of existing Board members, Inspector General authorities, composition, term, selection, compensation, decisions, and immunity from civil liability of the Broadcasting Board of Governors.
+
 1999—Subsec. (b)(2). Pub. L. 106–113, § 1000(a)(7) [div. A, title V, § 502(2)], which directed amendment of par. (2) by inserting “, subject to the advice and consent of the Senate” at end, was executed by making the insertion before period at end, to reflect the probable intent of Congress.
 
 Pub. L. 106–113, § 1000(a)(7) [div. A, title V, § 502(1)], substituted “appoint” for “designate”.
@@ -170,9 +150,9 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 <a id="section-6204"></a>
 ## § 6204. Authorities of Board
-**(a) Authorities** The Board shall have the following authorities:
+**(a) Authorities** The Chief Executive Officer shall have the following authorities:
 
-(1) To supervise all broadcasting activities conducted pursuant to this chapter, the Radio Broadcasting to Cuba Act [[22 U.S.C. 1465](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465) et seq.],,11 So in original. the Television Broadcasting to Cuba Act [[22 U.S.C. 1465aa](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465aa) et seq.], and Worldnet Television, except as provided in [section 6205(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6205/b&num=0&edition=prelim).
+(1) To direct and supervise all broadcasting activities conducted pursuant to this chapter, the Radio Broadcasting to Cuba Act [[22 U.S.C. 1465](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465) et seq.],,11 So in original. the Television Broadcasting to Cuba Act [[22 U.S.C. 1465aa](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465aa) et seq.], and Worldnet Television, except as provided in [section 6205(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6205/b&num=0&edition=prelim).
 
 (2) To review and evaluate the mission and operation of, and to assess the quality, effectiveness, and professional integrity of, all such activities within the context of the broad foreign policy objectives of the United States.
 
@@ -180,9 +160,9 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 (4) To review, evaluate, and determine, at least annually, after consultation with the Secretary of State, the addition or deletion of language services.
 
-(5) To make and supervise grants for broadcasting and related activities in accordance with sections 6207 and 6208 of this title.
+(5) To make and supervise grants and cooperative agreements for broadcasting and related activities in furtherance of the purposes of this chapter and on behalf of other agencies, accordingly.
 
-(6) To allocate funds appropriated for international broadcasting activities among the various elements of the International Broadcasting Bureau and grantees, subject to the limitations in sections 6207 and 6208 of this title and subject to reprogramming notification requirements in law for the reallocation of funds.
+(6) To allocate funds appropriated for international broadcasting activities among the various elements of the Board and grantees, subject to reprogramming notification requirements in law for the reallocation of funds.
 
 (7) To review engineering activities to ensure that all broadcasting elements receive the highest quality and cost-effective delivery services.
 
@@ -190,48 +170,52 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 (9) To submit to the President and the Congress an annual report which summarizes and evaluates activities under this chapter, the Radio Broadcasting to Cuba Act [[22 U.S.C. 1465](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465) et seq.], and the Television Broadcasting to Cuba Act [[22 U.S.C. 1465aa](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465aa) et seq.]. Each annual report shall place special emphasis on the assessment described in paragraph (2).
 
-(10) To the extent considered necessary to carry out the functions of the Board, procure supplies, services, and other personal property.
+(10) To the extent considered necessary to carry out the functions of the Chief Executive Officer, procure, rent, or lease supplies, services, and other property for journalism, media, production, and broadcasting, and related support services, notwithstanding any other provision of law relating to such acquisition, rental, or lease, and under the same terms and conditions as authorized under section 501(b) of the United States Information and Educational Exchange Act of 1948 ([22 U.S.C. 1461(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1461/b&num=0&edition=prelim)), and for multiyear contracts and leases for periods of up to 20 years subject to the requirements of subsections (b) through (f) of [section 3903 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3903&num=0&edition=prelim).
 
-(11) To appoint such staff personnel for the Board as the Board may determine to be necessary, subject to the provisions of title 5 governing appointments in the competitive service, and to fix their compensation in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+(11) To appoint such personnel for the Chief Executive Officer as the Chief Executive Officer may determine to be necessary, which shall not be subject to the provisions of title 5 governing appointments in the competitive service, and to fix their compensation in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
-(12) To obligate and expend, for official reception and representation expenses, such amount as may be made available through appropriations (which for each of the fiscal years 1998 and 1999 may not exceed the amount made available to the Board and the International Broadcasting Bureau for such purposes for fiscal year 1997).
+(12) To obligate and expend, for official reception and representation expenses, such amount as may be made available through appropriations (which for each of the fiscal years 1998 and 1999 may not exceed the amount made available to the Chief Executive Officer and the International Broadcasting Bureau for such purposes for fiscal year 1997).
 
-(13) To make available in the annual report required by paragraph (9) information on funds expended on administrative and managerial services by the Bureau and by grantees and the steps the Board has taken to reduce unnecessary overhead costs for each of the broadcasting services.
+(13) To make available in the annual report required by paragraph (9) information on funds expended on administrative and managerial services by the Board and by grantees and the steps the Chief Executive Officer has taken to reduce unnecessary overhead costs for each of the broadcasting services.
 
-(14) The Board may provide for the use of United States Government transmitter capacity for relay of Radio Free Asia.
+(14) The Chief Executive Officer may provide for the use of United States Government transmitter capacity for transmission or relay of Radio Free Asia or any other grantee authorized under this chapter.
 
 (15)
 
-  (A) To procure temporary and intermittent personal services to the same extent as is authorized by [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim), at rates not to exceed the daily equivalent of the rate provided for positions classified above grade GS–15 of the General Schedule under [section 5108 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108&num=0&edition=prelim).
+  (A) To procure personal services at rates not to exceed the daily equivalent of the rate provided for positions classified above grade GS–15 of the General Schedule under [section 5108 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108&num=0&edition=prelim).
 
   (B) To allow those providing such services, while away from their homes or their regular places of business, travel expenses (including per diem in lieu of subsistence) as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim) for persons in the Government service employed intermittently, while so employed.
 
-(16) To procure, pursuant to [section 1535 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim) (commonly known as the “Economy Act”), such goods and services from other departments or agencies for the Board and the International Broadcasting Bureau as the Board determines are appropriate.
+(16) To procure, pursuant to [section 1535 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim) (commonly known as the “Economy Act”), such goods and services from other departments or agencies for the Chief Executive Officer and the International Broadcasting Bureau as the Chief Executive Officer determines are appropriate.
 
-(17) To utilize the provisions of titles III, IV, V, VII, VIII, IX, and X of the United States Information and Educational Exchange Act of 1948 [[22 U.S.C. 1431](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1431) et seq.], and section 6 of Reorganization Plan Number 2 of 1977, as in effect on the day before the effective date of title XIII of the Foreign Affairs Agencies Consolidation Act of 1998, to the extent the Board considers necessary in carrying out the provisions and purposes of this chapter.
+(17) To utilize the provisions of titles III, IV, V, VII, VIII, IX, and X of the United States Information and Educational Exchange Act of 1948 [[22 U.S.C. 1431](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1431) et seq.], and section 6 of Reorganization Plan Number 2 of 1977, as in effect on the day before the effective date of title XIII of the Foreign Affairs Agencies Consolidation Act of 1998, to the extent the Chief Executive Officer considers necessary in carrying out the provisions and purposes of this chapter.
 
-(18) To utilize the authorities of any other statute, reorganization plan, Executive order, regulation, agreement, determination, or other official document or proceeding that had been available to the Director of the United States Information Agency, the Bureau, or the Board before the effective date of title XIII of the Foreign Affairs Consolidation Act of 1998 for carrying out the broadcasting activities covered by this chapter.
+(18) To utilize the authorities of any other statute, reorganization plan, Executive order, regulation, agreement, determination, or other official document or proceeding that had been available to the Director of the United States Information Agency, the Chief Executive Officer, or the Chief Executive Officer 22 So in original. See 2016 Amendment note below. before the effective date of title XIII of the Foreign Affairs Consolidation Act of 1998 for carrying out the broadcasting activities covered by this chapter.
 
 (19)
 
-  (A) To provide for the payment of primary and secondary school expenses for dependents of personnel stationed in the Commonwealth of the Northern Mariana Islands (CNMI) at a cost not to exceed expenses authorized by the Department of Defense for such schooling for dependents of members of the Armed Forces stationed in the Commonwealth, if the Board determines that schools available in the Commonwealth are unable to provide adequately for the education of the dependents of such personnel.
+  (A) To provide for the payment of primary and secondary school expenses for dependents of personnel stationed in the Commonwealth of the Northern Mariana Islands (CNMI) at a cost not to exceed expenses authorized by the Department of Defense for such schooling for dependents of members of the Armed Forces stationed in the Commonwealth, if the Chief Executive Officer determines that schools available in the Commonwealth are unable to provide adequately for the education of the dependents of such personnel.
 
-  (B) To provide transportation for dependents of such personnel between their places of residence and those schools for which expenses are provided under subparagraph (A), if the Board determines that such schools are not accessible by public means of transportation.
+  (B) To provide transportation for dependents of such personnel between their places of residence and those schools for which expenses are provided under subparagraph (A), if the Chief Executive Officer determines that such schools are not accessible by public means of transportation.
 
-**(b) Delegation of authority** The Board may delegate to the Director of the International Broadcasting Bureau, or any other officer or employee of the United States, to the extent the Board determines to be appropriate, the authorities provided in this section, except those authorities provided in paragraph (1), (2), (3), (4), (5), (6), (9), or (11) of subsection (a).
+(20) Notwithstanding any other provision of law, including [section 6207(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6207/a&num=0&edition=prelim), to condition, if appropriate, any grant or cooperative agreement to RFE/RL, Inc., Radio Free Asia, or the Middle East Broadcasting Networks, or any organization that is established through the consolidation of such entities, on authority to determine membership of their respective boards, and the consolidation of such grantee entities into a single grantee organization under terms and conditions established by the Board.
 
-**(c) Broadcasting budgets** The Director of the Bureau and the grantees identified in sections 6207 and 6208 of this title shall submit proposed budgets to the Board. The Board shall forward its recommendations concerning the proposed budget for the Board and broadcasting activities under this chapter, the Radio Broadcasting to Cuba Act [[22 U.S.C. 1465](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465) et seq.], and the Television Broadcasting to Cuba Act [[22 U.S.C. 1465aa](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465aa) et seq.] to the Office of Management and Budget.
+(21) To redirect or reprogram funds within the scope of any grant or cooperative agreement, or between grantees, as necessary (and not later than 15 days before any such redirection of funds between language services, to notify the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives and the Committee on Appropriations and the Committee on Foreign Relations of the Senate regarding such redirection), and to condition grants or cooperative agreements, if appropriate, on such grants or cooperative agreements or any similar amendments as authorized under [section 6207(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6207/a&num=0&edition=prelim), including authority to name and replace the board of any grantee authorized under this chapter, including with Federal officials, to meet the purposes of this chapter.
 
-**(d) Professional independence of broadcasters** The Secretary of State and the Board, in carrying out their functions, shall respect the professional independence and integrity of the International Broadcasting Bureau, its broadcasting services, and the grantees of the Board.
+(22) To change the name of the Board pursuant to congressional notification 60 days prior to any such change.
+
+**(b) Professional independence of broadcasters** The Secretary of State and the Chief Executive Officer, in carrying out their functions, shall respect the professional independence and integrity of the Board, its broadcasting services, and the grantees of the Board.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsecs. (a)(1), (9), (17), (18) and (c), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
-The Radio Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (c), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, as amended, which is classified generally to subchapter V–A (§ 1465 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1465 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465) and Tables.
+This chapter, referred to in subsec. (a)(5), (14), (21), was in the original “this Act”, and was translated as reading “this title”, meaning title III of Pub. L. 103–236, to reflect the probable intent of Congress. See above.
 
-The Television Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (b)(1), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§ 1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1465aa of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465aa) and Tables.
+The Radio Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, as amended, which is classified generally to subchapter V–A (§ 1465 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1465 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465) and Tables.
+
+The Television Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§ 1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1465aa of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465aa) and Tables.
 
 The United States Information and Educational Exchange Act of 1948, referred to in subsec. (a)(17), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, as amended, which is classified generally to chapter 18 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1431 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1431) and Tables.
 
@@ -243,6 +227,38 @@ For the effective date of title XIII of the Foreign Affairs Agencies Consolidati
 Section is comprised of section 305 of Pub. L. 103–236. Subsec. (e) of section 305 of Pub. L. 103–236 amended sections 1465b and 1465c of this title.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328, § 1288(2)(A)(i), substituted “Chief Executive Officer” for “Board” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 114–328, § 1288(2)(A)(ii), inserted “direct and” before “supervise”.
+
+Subsec. (a)(5). Pub. L. 114–328, § 1288(2)(A)(iii), inserted “and cooperative agreements” after “grants” and substituted “in furtherance of the purposes of this chapter and on behalf of other agencies, accordingly” for “in accordance with sections 6207 and 6208 of this title”.
+
+Subsec. (a)(6). Pub. L. 114–328, § 1288(2)(A)(iv), substituted “Board” for “International Broadcasting Bureau” and struck out “subject to the limitations in sections 6207 and 6208 of this title and” before “subject to reprogramming”.
+
+Subsec. (a)(10). Pub. L. 114–328, § 1288(2)(A)(i), (v), substituted “Chief Executive Officer” for “Board”, inserted “, rent, or lease” after “procure”, and substituted “property for journalism, media, production, and broadcasting, and related support services, notwithstanding any other provision of law relating to such acquisition, rental, or lease, and under the same terms and conditions as authorized under section 501(b) of the United States Information and Educational Exchange Act of 1948 ([22 U.S.C. 1461(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1461/b&num=0&edition=prelim)), and for multiyear contracts and leases for periods of up to 20 years subject to the requirements of subsections (b) through (f) of [section 3903 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3903&num=0&edition=prelim)” for “personal property”.
+
+Subsec. (a)(11). Pub. L. 114–328, § 1288(2)(A)(i), (vi), struck out “staff” before “personnel” and substituted “for the Chief Executive Officer” for “for the Board”, “as the Chief Executive Officer” for “as the Board”, and “which shall not be subject” for “subject”.
+
+Subsec. (a)(12). Pub. L. 114–328, § 1288(2)(A)(i), substituted “Chief Executive Officer” for “Board”.
+
+Subsec. (a)(13). Pub. L. 114–328, § 1288(2)(A)(vii), substituted “Board” for “Bureau” and “Chief Executive Officer has taken” for “Board has taken”.
+
+Subsec. (a)(14). Pub. L. 114–328, § 1288(2)(A)(i), (viii), substituted “Chief Executive Officer” for “Board” and inserted “transmission or” before “relay” and “or any other grantee authorized under this chapter” after “Radio Free Asia”.
+
+Subsec. (a)(15)(A). Pub. L. 114–328, § 1288(2)(A)(ix), struck out “temporary and intermittent” after “To procure” and “to the same extent as is authorized by [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim),” after “personal services”.
+
+Subsec. (a)(16). Pub. L. 114–328, § 1288(2)(A)(i), (x), substituted “for the Chief Executive Officer” for “for the Board” and “Chief Executive Officer determines” for “Board determines”.
+
+Subsec. (a)(17). Pub. L. 114–328, § 1288(2)(A)(i), substituted “Chief Executive Officer” for “Board”.
+
+Subsec. (a)(18). Pub. L. 114–328, § 1288(2)(A)(i), (xi), substituted “Agency, the Chief Executive Officer” for “Agency, the Bureau” and “or the Chief Executive Officer” for “or the Board”.
+
+Subsec. (a)(19). Pub. L. 114–328, § 1288(2)(A)(i), substituted “Chief Executive Officer” for “Board” in subpars. (A) and (B).
+
+Subsec. (a)(20) to (22). Pub. L. 114–328, § 1288(2)(A)(xii), added pars. (20) to (22).
+
+Subsecs. (b) to (d). Pub. L. 114–328, § 1288(2)(B)–(D), redesignated subsec. (d) as (b), substituted “and the Chief Executive Officer” for “and the Board” and “Board” for “International Broadcasting Bureau”, and struck out former subsecs. (b) and (c) which related to delegation of authority and broadcasting budgets, respectively.
+
 2005—Subsec. (a)(19). Pub. L. 109–140 added par. (19).
 
 2002—Subsec. (a)(4). Pub. L. 107–228 substituted “annually,” for “annually,,”.
@@ -288,14 +304,65 @@ Pub. L. 110–53, title XX, § 2032, Aug. 3, 2007, 121 Stat. 516, provided that:
 
 
 <a id="section-6205"></a>
-## § 6205. Role of Secretary of State
-**(a) Foreign policy guidance** To assist the Board in carrying out its functions, the Secretary of State shall provide information and guidance on foreign policy issues to the Board, as the Secretary may deem appropriate.
+## § 6205. Establishment of the International Broadcasting Advisory Board
+**(a) In general** Except as provided in subsection (b)(2), the International Broadcasting Advisory Board (referred to in this section as the “Advisory Board”) shall consist of five members, including the Secretary of State, appointed by the President and in accordance with subsection (d), to advise the Chief Executive Officer of the Broadcasting Board of Governors, as appropriate.
 
-**(b) Certain Worldnet programming** The Secretary of State is authorized to use Worldnet broadcasts for the purposes of continuing interactive dialogues with foreign media and other similar overseas public diplomacy programs sponsored by the Department of State. The Chairman of the Broadcasting Board of Governors shall provide access to Worldnet for this purpose on a nonreimbursable basis.
+**(b) Retention of existing BBG Board Members**
+
+(1) **In general** — The presidentially appointed and Senate-confirmed members of the Board of the Broadcasting Board of Governors who are serving on unexpired terms as of December 23, 2016, shall—
+
+  (A) constitute the first Advisory Board; and
+
+  (B) hold office for the remainder of their original terms of office without reappointment to the Advisory Board.
+
+(2) **Effect of additional members** — If, on December 23, 2016, more than five members described in subsection (a) are serving their original terms of office on the Broadcasting Board of Governors, each such member may serve on the Advisory Board for a period equal to the time remaining on each such member’s respective term without reappointment.
+
+**(c) Terms of office**
+
+(1) **In general** — Except as provided in paragraph (2), the term of office of each member of the Advisory Board appointed pursuant to subsection (a) shall be three years.
+
+(2) **Vacancies** — If a vacancy on the Advisory Board occurs before the expiration of the term of the member who created such vacancy—
+
+  (A) the President shall appoint a new member to fill such vacancy in accordance with subsection (d); and
+
+  (B) the member appointed pursuant to such subsection shall serve for the remainder of such term.
+
+(3) **Service beyond term prohibited** — Members may not serve beyond the term for which they were appointed.
+
+**(d) Selection of the Board** In identifying individuals for appointment to the Advisory Board under subsection (a), the President shall appoint United States citizens—
+
+(1) who, with the exception of the Secretary of State, are not regular, full-time employees of the United States Government; and
+
+(2) distinguished in the fields of public diplomacy, mass communications, print, broadcast or digital media, or foreign affairs, of whom—
+
+  (A) one individual should be appointed from among a list of at least three individuals submitted by the Chair of the Committee on Foreign Affairs of the House of Representatives;
+
+  (B) one individual should be appointed from among a list of at least three individuals submitted by the Ranking Member of the Committee on Foreign Affairs of the House of Representatives;
+
+  (C) one individual should be appointed from among a list of at least three individuals submitted by the Chair of the Committee on Foreign Relations of the Senate; and
+
+  (D) one individual should be appointed from among a list of at least three individuals submitted by the Ranking Member of the Committee on Foreign Relations of the Senate.
+
+**(e) Functions of the Board** The members of the Advisory Board shall perform the following advisory functions:
+
+(1) To provide the Chief Executive Officer of the Broadcasting Board of Governors with counsel and recommendations for improving the effectiveness and efficiency of the agency and its programming.
+
+(2) To meet with the Chief Executive Officer at least twice annually and at additional meetings at the request of the Chief Executive Officer.
+
+(3) To report periodically or upon request to the congressional committees specified in subsection (d)(2) regarding its counsel and recommendations for improving the effectiveness and efficiency of the Broadcasting Board of Governors and its programming.
+
+(4) To obtain information from the Chief Executive Officer, as needed, for the purposes of fulfilling the functions described in this subsection.
+
+**(f) Compensation** Members of the Advisory Board, including the Secretary of State, may not receive any fee, salary, or remuneration of any kind for their service as members.
 
 ### Statutory Notes
 
+#### References in Text
+December 23, 2016, referred to in subsec. (b), was in the original “the date of the enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 114–328, which amended this section generally, to reflect the probable intent of Congress.
+
 #### Amendments
+2016—Pub. L. 114–328 amended section generally. Prior to amendment section related to the role of the Secretary of State in international broadcasting.
+
 1998—Pub. L. 105–277, § 1323(j)(1), substituted “Role of Secretary of State” for “Foreign policy guidance” in section catchline.
 
 Subsec. (a). Pub. L. 105–277, § 1323(j)(2)–(4), designated existing provisions as subsec. (a), inserted heading, substituted “State” for “State, acting through the Director of the United States Information Agency,”, and inserted before period at end “, as the Secretary may deem appropriate”.
@@ -307,32 +374,16 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 
 <a id="section-6206"></a>
-## § 6206. International Broadcasting Bureau
-**(a) Establishment** There is hereby established an International Broadcasting Bureau under the Board (hereafter in this chapter referred to as the “Bureau”), to carry out all nonmilitary international broadcasting activities supported by the United States Government other than those described in sections 6207 and 6208 of this title.
-
-**(b) Selection of Director of Bureau** The Director of the Bureau shall be appointed by the President, by and with the advice and consent of the Senate. The Director of the Bureau shall be entitled to receive compensation at the rate prescribed by law for level IV of the Executive Schedule.
-
-**(c) Responsibilities of Director** The Director shall organize and chair a coordinating committee to examine and make recommendations to the Board on long-term strategies for the future of international broadcasting, including the use of new technologies, further consolidation of broadcast services, and consolidation of currently existing public affairs and legislative relations functions in the various international broadcasting entities. The coordinating committee shall include representatives of Radio Free Asia, RFE/RL, Incorporated, the Broadcasting Board of Governors, and, as appropriate, the Office of Cuba Broadcasting, the Voice of America, and Worldnet.
+## § 6206. Repealed. Pub. L. 114–328, div. A, title XII, § 1288(4), Dec. 23, 2016, 130 Stat. 2552
 
 ### Statutory Notes
 
-#### References in Text
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
-
-Level IV of the Executive Schedule, referred to in subsec. (b), is set out in [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
-
-#### Amendments
-1998—Subsec. (a). Pub. L. 105–277, § 1323(k)(1), substituted “under the Board” for “within the United States Information Agency”.
-
-Subsec. (b). Pub. L. 105–277, § 1323(k)(2)–(4), redesignated par. (1) as entire subsec. (b), substituted “President, by and with the advice and consent of the Senate” for “Chairman of the Board, in consultation with the Director of the United States Information Agency and with the concurrence of a majority of the Board”, and struck out par. (2) which amended [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
-
-Subsec. (c). Pub. L. 105–277, § 1323(k)(5), added subsec. (c).
-
-#### Effective Date of 1998 Amendment
-Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
+Section, Pub. L. 103–236, title III, § 307, Apr. 30, 1994, 108 Stat. 436; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1323(k), Oct. 21, 1998, 112 Stat. 2681–780, related to the International Broadcasting Bureau.
 
 #### Personal Services Contracting Pilot Program
 Pub. L. 107–228, div. A, title V, § 504, Sept. 30, 2002, 116 Stat. 1393, as amended by Pub. L. 109–140, § 6, Dec. 22, 2005, 119 Stat. 2652; Pub. L. 109–472, § 9, Jan. 11, 2007, 120 Stat. 3556; Pub. L. 110–161, div. J, title VI, § 634(r), Dec. 26, 2007, 121 Stat. 2330; Pub. L. 110–321, § 5, Sept. 19, 2008, 122 Stat. 3536, provided that: “(a) In General.—The Director of the International Broadcasting Bureau (in this section referred to as the ‘Director’) may establish a pilot program (in this section referred to as the ‘program’) for the purpose of hiring United States citizens or aliens as personal services contractors, without regard to Civil Service and classification laws, for service in the United States as broadcasters and other broadcasting specialists in the International Broadcasting Bureau to respond to new or emerging broadcast needs or to augment broadcast services. “(b) Conditions.—The Director is authorized to use the authority of subsection (a) subject to the following conditions:“(1) The Director determines that existing personnel resources are insufficient and the need is not of permanent duration. “(2) The Director approves each employment of a personal services contractor. “(3) The contract length, including options, may not exceed 2 years, unless the Director makes a finding that exceptional circumstances justify an extension of up to one additional year. “(4) Not more than a total of 60 United States citizens or aliens are employed at any one time as personal services contractors under the program. “(c) Termination of Authority.—The authority to award personal services contracts under the pilot program authorized by this section shall terminate on December 31, 2009. A contract entered into prior to the termination date under this subsection may remain in effect for a period not to exceed 6 months after such termination date.”
+
+[Pub. L. 114–113, div. K, title I, Dec. 18, 2015, 129 Stat. 2712, provided in part: “That the authority provided by section 504(c) of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107–228; [22 U.S.C. 6206](./chapter-071-united-states-international-broadcasting.md#section-6206) note) shall remain in effect through September 30, 2016” .]
 
 [Pub. L. 113–235, div. J, title I, Dec. 16, 2014, 128 Stat. 2580, provided in part: “That the authority provided by section 504(c) of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107–228; [22 U.S.C. 6206](./chapter-071-united-states-international-broadcasting.md#section-6206) note) shall remain in effect through September 30, 2015” .]
 
@@ -347,7 +398,7 @@ Pub. L. 107–228, div. A, title V, § 504, Sept. 30, 2002, 116 Stat. 1393, as a
 ## § 6207. Limits on grants for Radio Free Europe and Radio Liberty
 **(a) Board of RFE/RL, Incorporated** The Board may not make any grant to RFE/RL, Incorporated, unless the certificate of incorporation of RFE/RL, Incorporated, has been amended to provide that—
 
-(1) the Board of Directors of RFE/RL, Incorporated, shall consist of the members of the Broadcasting Board of Governors established under [section 6203 of this title](./chapter-071-united-states-international-broadcasting.md#section-6203) and of no other members; and
+(1) the Board of Directors of RFE/RL, Incorporated, shall consist of the members authorized under [section 6204(a)(20) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/20&num=0&edition=prelim); and
 
 (2) such Board of Directors shall make all major policy determinations governing the operation of RFE/RL, Incorporated, and shall appoint and fix the compensation of such managerial officers and employees of RFE/RL, Incorporated, as it considers necessary to carry out the purposes of the grant provided under this chapter.
 
@@ -359,7 +410,7 @@ Pub. L. 107–228, div. A, title V, § 504, Sept. 30, 2002, 116 Stat. 1393, as a
 
 **(c) Limitation on grant amounts** The total amount of grants made for the operating costs of RFE/RL, Incorporated, may not exceed $85,000,000 in fiscal year 2003.
 
-**(d) Alternative grantee** If the Board determines at any time that RFE/RL, Incorporated, is not carrying out the functions described in [section 6208 of this title](./chapter-071-united-states-international-broadcasting.md#section-6208) in an effective and economical manner, the Board may award the grant to carry out such functions to another entity after soliciting and considering applications from eligible entities in such manner and accompanied by such information as the Board may reasonably require.
+**(d) Alternative grantee** If the Chief Executive Officer determines at any time that RFE/RL, Incorporated is not carrying out the functions described in this section in an effective and economical manner, the Board may award the grant to carry out such functions to another entity.
 
 **(e) Not a Federal agency or instrumentality** Nothing in this chapter may be construed to make RFE/RL, Incorporated a Federal agency or instrumentality.
 
@@ -373,7 +424,7 @@ Pub. L. 107–228, div. A, title V, § 504, Sept. 30, 2002, 116 Stat. 1393, as a
 
 (3) that failure to comply with the requirements of this section may result in suspension or termination of a grant without further obligation by the Board or the United States;
 
-(4) that duplication of language services and technical operations between RFE/RL, Incorporated and the International Broadcasting Bureau be reduced to the extent appropriate, as determined by the Board; and
+(4) that duplication of language services and technical operations between RFE/RL, Incorporated and the 11 So in original. The word “the” probably should not appear. any other grantee of the Board be reduced to the extent appropriate, as determined by the Chief Executive Officer; and
 
 (5) that RFE/RL, Incorporated, justify in detail each proposed expenditure of grant funds, and that such funds may not be used for any other purpose unless the Board gives its prior written approval.
 
@@ -395,9 +446,7 @@ Pub. L. 107–228, div. A, title V, § 504, Sept. 30, 2002, 116 Stat. 1393, as a
 
 (5) To compensate freelance contractors without the approval of the Board.
 
-**(i) Report on management practices**
-
-(1) 11 So in original. No par. (2) has been enacted. Effective not later than March 31 and September 30 of each calendar year, the Inspector General of the Department of State and the Foreign Service shall submit to the Board and the Congress a report on management practices of RFE/RL, Incorporated, under this section. The Inspector General of the Department of State and the Foreign Service shall establish a special unit within the Inspector General’s office to monitor and audit the activities of RFE/RL, Incorporated, and shall provide for on-site monitoring of such activities.
+**(i) Report on management practices** Effective not later than March 31 and September 30 of each calendar year, the Inspector General of the Department of State and the Foreign Service shall submit to the Board and the Congress a report on management practices of RFE/RL, Incorporated, under this section. The Inspector General of the Department of State and the Foreign Service shall establish a special unit within the Inspector General’s office to monitor and audit the activities of RFE/RL, Incorporated, and shall provide for on-site monitoring of such activities.
 
 **(j) Audit authority**
 
@@ -419,6 +468,14 @@ The Board for International Broadcasting Act, referred to in subsecs. (f) and (j
 The Inspector General Act of 1978, referred to in subsec. (j)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–328, § 1288(5)(A), which directed substitution of “authorized under [section 6204(a)(20) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/20&num=0&edition=prelim)” for “of the Broadcasting Board of Governors established under [section 6203 of this title](./chapter-071-united-states-international-broadcasting.md#section-6203) and no other members”, was executed by making the substitution for “of the Broadcasting Board of Governors established under [section 6203 of this title](./chapter-071-united-states-international-broadcasting.md#section-6203) and of no other members”, to reflect the probable intent of Congress.
+
+Subsec. (d). Pub. L. 114–328, § 1288(5)(B), amended subsec. (d) generally. Prior to amendment, text read as follows: “If the Board determines at any time that RFE/RL, Incorporated, is not carrying out the functions described in [section 6208 of this title](./chapter-071-united-states-international-broadcasting.md#section-6208) in an effective and economical manner, the Board may award the grant to carry out such functions to another entity after soliciting and considering applications from eligible entities in such manner and accompanied by such information as the Board may reasonably require.”
+
+Subsec. (g)(4). Pub. L. 114–328, § 1288(5)(C), substituted “any other grantee of the Board” for “International Broadcasting Bureau” and “by the Chief Executive Officer” for “by the Board”.
+
+Subsec. (i). Pub. L. 114–328, § 1288(5)(D), struck out par. (1) designation before “Effective”.
+
 2004—Subsec. (j)(1), (2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 2002—Subsec. (c). Pub. L. 107–228, § 501, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The total amount of grants made by the Board for the operating costs of Radio Free Europe and Radio Liberty may not exceed $75,000,000 for any fiscal year after fiscal year 1995.”
@@ -444,13 +501,13 @@ Pub. L. 99–93, title III, § 305(b), Aug. 16, 1985, 99 Stat. 436, provided tha
 ## § 6208. Radio Free Asia
 **(a) Authority**
 
-(1) Grants authorized under [section 6204 of this title](./chapter-071-united-states-international-broadcasting.md#section-6204) shall be available to make annual grants for the purpose of carrying out radio broadcasting to the following countries: The People’s Republic of China, Burma, Cambodia, Laos, North Korea, Tibet, and Vietnam.
+(1) Grants authorized under [section 6204 of this title](./chapter-071-united-states-international-broadcasting.md#section-6204) shall be available to make annual grants for the purpose of carrying out radio broadcasting to Asia.
 
 (2) Such broadcasting service shall be referred to as “Radio Free Asia”.
 
 **(b) Functions** Radio Free Asia shall—
 
-(1) provide accurate and timely information, news, and commentary about events in the respective countries of Asia and elsewhere; and
+(1) provide accurate and timely information, news, and commentary about events in Asia and elsewhere; and
 
 (2) be a forum for a variety of opinions and voices from within Asian nations whose people do not fully enjoy freedom of expression.
 
@@ -488,16 +545,26 @@ Pub. L. 99–93, title III, § 305(b), Aug. 16, 1985, 99 Stat. 436, provided tha
 
   (B) entering into any agreements in regard to the utilization of Radio Free Asia transmitters, equipment, or other resources that will significantly reduce the broadcasting activities of Radio Free Asia.
 
-(2) **Consultation** — The Chairman of the Board shall consult with such committees on the impact of any such reduction in Voice of America broadcasting activities or Radio Free Asia broadcasting activities.
+(2) **Consultation** — The Chief Executive Officer of the Board shall consult with such committees on the impact of any such reduction in Voice of America broadcasting activities or Radio Free Asia broadcasting activities.
 
-**(g) Not a Federal agency or instrumentality** Nothing in this chapter may be construed to make Radio Free Asia a Federal agency or instrumentality.
+**(g) Alternative grantee** If the Chief Executive Officer determines at any time that Radio Free Asia is not carrying out the functions described in this section in an effective and economical manner, the Board may award the grant to carry out such functions to another entity.
+
+**(h) Not a Federal agency or instrumentality** Nothing in this chapter may be construed to make Radio Free Asia a Federal agency or instrumentality.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (e)(2) and (g), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+This chapter, referred to in subsecs. (e)(2) and (h), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
 #### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–323, § 703(a)(1), substituted “Asia.” for “the following countries: The People’s Republic of China, Burma, Cambodia, Laos, North Korea, Tibet, and Vietnam.”
+
+Subsec. (b)(1). Pub. L. 114–323, § 703(a)(2), struck out “the respective countries of” before “Asia”.
+
+Subsec. (f)(2). Pub. L. 114–328, § 1288(6)(A), substituted “Chief Executive Officer of the Board” for “Chairman of the Board”.
+
+Subsecs. (g), (h). Pub. L. 114–328, § 1288(6)(B), (C), added subsec. (g) and redesignated former subsec. (g) as (h).
+
 2010—Subsec. (c)(2). Pub. L. 111–202, § 3(1), struck out “, and shall further specify that funds to carry out the activities of Radio Free Asia may not be available after September 30, 2010” after “Government”.
 
 Subsecs. (f) to (h). Pub. L. 111–202, § 3(2)–(4), redesignated subsecs. (g) and (h) as (f) and (g), respectively, designated first sentence of subsec. (f) as par. (1), inserted heading, inserted subpar. (A) designation before “entering into any agreements for the utilization of Voice of America”, added subpar. (B), designated second sentence of subsec. (f) as par. (2), inserted heading, inserted “or Radio Free Asia broadcasting activities” before period at end, and struck out former subsec. (f) which related to sunset provisions.
@@ -531,14 +598,56 @@ Pub. L. 111–202, § 1, July 13, 2010, 124 Stat. 1373, provided that: “Congre
 
 
 <a id="section-6209"></a>
-## § 6209. Repealed. Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1323(l)(2), Oct. 21, 1998, 112 Stat. 2681–780
+## § 6209. Broadcast entities reporting to Chief Executive Officer
+**(a) Consolidation of grantee organizations**
+
+(1) **In general** — The Chief Executive Officer, subject to the regular notification procedures of the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives and the Committee on Appropriations and the Committee on Foreign Relations of the Senate, who is authorized to incorporate a grantee, may condition annual grants to RFE/RL, Inc., Radio Free Asia, and the Middle East Broadcasting Networks on the consolidation of such grantees into a single, consolidated private, non-profit corporation (in accordance with [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and exempt from tax under section 501(a) of such title), in such a manner and under such terms and conditions as determined by the Chief Executive Officer, which may broadcast and provide news and information to audiences wherever the agency may broadcast, for activities that the Chief Executive Officer determines are consistent with the purposes of this chapter, including the terms and conditions of subsections (g)(5), (h), (i), and (j) of [section 6207 of this title](./chapter-071-united-states-international-broadcasting.md#section-6207), except that the Agency may select any name for such a consolidated grantee.
+
+(2) **Special rule** — No State or political subdivision of a State may establish, enforce, or continue in effect any provision of law or legal requirement that is different from, or is in conflict with, any requirement or authority applicable under this chapter relating to the consolidation, incorporation, structure, or dissolution of any grantee under this chapter.
+
+**(b) Mission** The consolidated grantee established under subsection (a) shall—
+
+(1) counter state-sponsored propaganda which undermines the national security or foreign policy interests of the United States and its allies;
+
+(2) provide uncensored local and regional news and analysis to people in societies where a robust, indigenous, independent, and free media does not exist;
+
+(3) help countries improve their indigenous capacity to enhance media professionalism and independence, and develop partnerships with local media outlets, as appropriate; and
+
+(4) promote unrestricted access to uncensored sources of information, especially via the internet, and use all effective and efficient mediums of communication to reach target audiences.
+
+**(c) Federal status** Nothing in this or any other Act, or any action taken pursuant to this or any other Act, may be construed to make such a consolidated grantee described in subsection (a) or RFE/RL, Inc., Radio Free Asia, or the Middle East Broadcasting Networks or any other grantee or entity provided funding by the agency a Federal agency or instrumentality. Employees or staff of such grantees or entities may not be Federal employees. For purposes of this section and this chapter, the term “grant” includes agreements under [section 6305 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6305&num=0&edition=prelim), and the term “grantee” includes recipients of such agreements.
+
+**(d) Leadership of grantee organizations** Officers and directors of RFE/RL Inc., Radio Free Asia, and the Middle East Broadcasting Networks or any organization that is established through the consolidation of such entities, or authorized under this chapter, shall serve at the pleasure of and may be named by the Chief Executive Officer of the Board.
+
+**(e) Maintenance of the existing individual grantee brands** RFE/RL, Incorporated, Radio Free Asia, and the Middle East Broadcasting Networks, Incorporated should remain brand names under which news and related programming and content may be disseminated by the consolidated grantee. Additional brands may be created as necessary.
 
 ### Statutory Notes
 
-Section, Pub. L. 103–236, title III, § 310, Apr. 30, 1994, 108 Stat. 442, related to transition of transfer of functions from Board for International Broadcasting to United States Information Agency, Board, or Bureau.
+#### References in Text
+This chapter, referred to in subsecs. (a), (c), and (d), was in the original “this Act”, and was translated as reading “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
-#### Effective Date of Repeal
-Repeal effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
+#### Prior Provisions
+A prior section 6209, Pub. L. 103–236, title III, § 310, Apr. 30, 1994, 108 Stat. 442, related to transition of transfer of functions from Board for International Broadcasting to United States Information Agency, Board, or Bureau, prior to repeal by Pub. L. 105–277, div. G, subdiv. A, title XIII, §§ 1301, 1323(l)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–780, effective Oct. 1, 1999.
+
+
+<a id="section-6209a"></a>
+## § 6209a. Inspector General authorities
+**(a) In general** The Inspector General of the Department of State and the Foreign Service shall exercise the same authorities with respect to the Broadcasting Board of Governors as the Inspector General exercises under the Inspector General Act of 1978 [5 U.S.C. App.] and [section 3929 of this title](./chapter-052-foreign-service.md#section-3929) with respect to the Department of State.
+
+**(b) Respect for journalistic integrity of broadcasters** The Inspector General of the Department of State and the Foreign Service shall respect the journalistic integrity of all the broadcasters covered by this chapter and may not evaluate the philosophical or political perspectives reflected in the content of broadcasts.
+
+### Statutory Notes
+
+#### References in Text
+The Inspector General Act of 1978, referred to in subsec. (a), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+This chapter, referred to in subsec. (b), was in the original “this Act”, and was translated as reading “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+
+
+<a id="section-6209b"></a>
+## § 6209b. Role of the Secretary of State in foreign policy guidance
+
+To assist the Board in carrying out its functions, the Chief Executive Officer shall regularly consult with and seek from the Secretary of State guidance on foreign policy issues.
 
 
 <a id="section-6210"></a>
@@ -606,18 +715,19 @@ For the purposes of this chapter—
 
 (1) the term “appropriate congressional committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives;
 
-(2) the term “RFE/RL, Incorporated” includes—
-
-  (A) the corporation having the corporate title described in section 6206(b)(3) 11 So in original. There is no section “6206(b)(3)”. of this title; and
-
-  (B) any alternative grantee described in section 6206(e) 22 So in original. Probably should be section “6207(d)”. of this title; and
-
-(3) the term “salary or other compensation” includes any deferred compensation or pension payments, any payments for expenses for which the recipient is not obligated to itemize, and any payments for personnel services provided to an employee of RFE/RL, Incorporated.
+(4) 11 So in original. Probably should be designated as par. (2). the terms “Board” and “Chief Executive Officer of the Board” mean the Broadcasting Board of Governors and the position, respectively, authorized in accordance with this chapter; (3) the term “RFE/RL, Incorporated” includes—(A) the corporation having the corporate title described in section 6206(b)(3) 22 See References in Text note below. of this title; and (B) any alternative grantee described in section 6206(e) 33 So in original. Probably should be section “6207(d)”. of this title; and (4) the term “salary or other compensation” includes any deferred compensation or pension payments, any payments for expenses for which the recipient is not obligated to itemize, and any payments for personnel services provided to an employee of RFE/RL, Incorporated.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+This chapter, referred to in introductory provisions, was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+
+This chapter, referred to in the first par. (4), was in the original “this Act”, and was translated as reading “this title”, meaning title III of Pub. L. 103–236, to reflect the probable intent of Congress. See above.
+
+[Section 6206 of this title](./chapter-071-united-states-international-broadcasting.md#section-6206), referred to in par. (3), which related to the International Broadcasting Bureau and did not contain a subsec. (b)(3), was repealed by Pub. L. 114–328, div. A, title XII, § 1288(4), Dec. 23, 2016, 130 Stat. 2552.
+
+#### Amendments
+2016—Pars. (2) to (4). Pub. L. 114–328 redesignated par. (2) as (3) and par. (3) as (4) defining “salary or other compensation” and added par. (4) defining “Board” and “Chief Executive Officer of the Board” after par. (1).
 
 
 <a id="section-6214"></a>

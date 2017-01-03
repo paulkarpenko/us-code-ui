@@ -64,11 +64,11 @@ Except as otherwise specifically provided, the definitions in [section 2602 of T
 
 <a id="section-3203"></a>
 ## § 3203. Adoption of certain standards
-**(a) Adoption of standards** Not later than 2 years after November 9, 1978 (or after October 24, 1992, in the case of standards under paragraphs (3),11 So in original. The comma probably should not appear. and (4) of subsection (b) of this section), each State regulatory authority (with respect to each gas utility for which it has ratemaking authority) and each nonregulated gas utility shall provide public notice and conduct a hearing respecting the standards established by subsection (b) of this section, and, on the basis of such hearing, shall—
+**(a) Adoption of standards** Not later than 2 years after November 9, 1978 (or after October 24, 1992, in the case of standards under paragraphs (3),11 So in original. The comma probably should not appear. and (4) of subsection (b)), each State regulatory authority (with respect to each gas utility for which it has ratemaking authority) and each nonregulated gas utility shall provide public notice and conduct a hearing respecting the standards established by subsection (b), and, on the basis of such hearing, shall—
 
-(1) adopt the standard established by subsection (b)(1) of this section, if, and to the extent, such authority or nonregulated utility determines that such adoption is appropriate and is consistent with otherwise applicable State law, and
+(1) adopt the standard established by subsection (b)(1), if, and to the extent, such authority or nonregulated utility determines that such adoption is appropriate and is consistent with otherwise applicable State law, and
 
-(2) adopt the standards established by paragraphs (2), (3) 22 So in original. A comma probably should appear. (4), (5), and (6) of subsection (b) of this section, if, and to the extent, such authority or nonregulated utility determines that such adoption is appropriate to carry out the purposes of this chapter, is otherwise appropriate, and is consistent with otherwise applicable State law.
+(2) adopt the standards established by paragraphs (2), (3) 22 So in original. A comma probably should appear. (4), (5), and (6) of subsection (b), if, and to the extent, such authority or nonregulated utility determines that such adoption is appropriate to carry out the purposes of this chapter, is otherwise appropriate, and is consistent with otherwise applicable State law.
 For purposes of any determination under paragraphs (1) and (2) and any review of such determination in any court under [section 3207 of this title](./chapter-059-retail-policies-for-natural-gas-utilities.md#section-3207), the purposes of this chapter supplement State law. Nothing in this subsection prohibits any State regulatory authority or non­regulated utility from making any determination that it is not appropriate to implement any such standard, pursuant to its authority under otherwise applicable State law.
 
 **(b) Establishment** The following Federal standards are hereby established:
@@ -77,7 +77,7 @@ For purposes of any determination under paragraphs (1) and (2) and any review of
 
 (2) **Advertising** — No gas utility may recover from any person other than the shareholders (or other owners) of such utility any direct or indirect expenditure by such utility for promotional or political advertising as defined in [section 3204(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3204/b&num=0&edition=prelim).
 
-(3) **Integrated resource planning** — Each gas utility shall employ, in order to provide adequate and reliable service to its gas customers at the lowest system cost. All plans or filings of a State regulated gas utility before a State regulatory authority to meet the requirements of this paragraph shall (A) be updated on a regular basis, (B) provide the opportunity for public participation and comment, (C) provide for methods of validating predicted performance, and (D) contain a requirement that the plan be implemented after approval of the State regulatory authority. Subsection (c) of this section shall not apply to this paragraph to the extent that it could be construed to require the State regulatory authority to extend the record of a State proceeding in submitting reports to the Federal Government.
+(3) **Integrated resource planning** — Each gas utility shall employ, in order to provide adequate and reliable service to its gas customers at the lowest system cost. All plans or filings of a State regulated gas utility before a State regulatory authority to meet the requirements of this paragraph shall (A) be updated on a regular basis, (B) provide the opportunity for public participation and comment, (C) provide for methods of validating predicted performance, and (D) contain a requirement that the plan be implemented after approval of the State regulatory authority. Subsection (c) shall not apply to this paragraph to the extent that it could be construed to require the State regulatory authority to extend the record of a State proceeding in submitting reports to the Federal Government.
 
 (4) **Investments in conservation and demand management** — The rates charged by any State regulated gas utility shall be such that the utility’s prudent investments in, and expenditures for, energy conservation and load shifting programs and for other demand-side management measures which are consistent with the findings and purposes of the Energy Policy Act of 1992 are at least as profitable (taking into account the income lost due to reduced sales resulting from such programs) as prudent investments in, and expenditures for, the acquisition or construction of supplies and facilities. This objective requires that (A) regulators link the utility’s net revenues, at least in part, to the utility’s performance in implementing cost-effective programs promoted by this section; and (B) regulators ensure that, for purposes of recovering fixed costs, including its authorized return, the utility’s performance is not affected by reductions in its retail sales volumes.
 
@@ -102,9 +102,9 @@ For purposes of any determination under paragraphs (1) and (2) and any review of
     (iv) adopting rate designs that encourage energy efficiency for each customer class.
     For purposes of applying the provisions of this chapter 33 See Codification note below. to this paragraph, any reference in this chapter 3 to November 9, 1978, shall be treated as a reference to December 19, 2007.
 
-**(c) Procedural requirements** Each State regulatory authority (with respect to each gas utility for which it has ratemaking authority) and each nonregulated gas utility, within the 2-year period specified in subsection (a) of this section, shall adopt, pursuant to subsection (a) of this section, each of the standards established by subsection (b) of this section, or, with respect to any such standard which is not adopted, such authority or nonregulated gas utility shall state in writing that it has determined not to adopt such standard, together with the reasons for such determination. Such statement of reasons shall be available to the public.
+**(c) Procedural requirements** Each State regulatory authority (with respect to each gas utility for which it has ratemaking authority) and each nonregulated gas utility, within the 2-year period specified in subsection (a), shall adopt, pursuant to subsection (a), each of the standards established by subsection (b), or, with respect to any such standard which is not adopted, such authority or nonregulated gas utility shall state in writing that it has determined not to adopt such standard, together with the reasons for such determination. Such statement of reasons shall be available to the public.
 
-**(d) Small business impacts** If a State regulatory authority implements a standard established by subsection (b)(3) or (4) of this section, such authority shall—
+**(d) Small business impacts** If a State regulatory authority implements a standard established by subsection (b)(3) or (4), such authority shall—
 
 (1) consider the impact that implementation of such standard would have on small businesses engaged in the design, sale, supply, installation, or servicing of energy conservation, energy efficiency, or other demand-side management measures, and
 
@@ -123,7 +123,7 @@ This chapter, referred to in subsec. (b)(6), was in the original “this subtitl
 
 Subsec. (b)(5), (6). Pub. L. 110–140, § 532(b), added pars. (5) and (6).
 
-1992—Subsec. (a). Pub. L. 102–486, § 115(d), in introductory provisions inserted “(or after October 24, 1992, in the case of standards under paragraphs (3), and (4) of subsection (b) of this section)” and in par. (2) substituted “standards established by paragraphs (2), (3) and (4) of subsection (b)” for “standard established by subsection (b)(2)”.
+1992—Subsec. (a). Pub. L. 102–486, § 115(d), in introductory provisions inserted “(or after October 24, 1992, in the case of standards under paragraphs (3), and (4) of subsection (b))” and in par. (2) substituted “standards established by paragraphs (2), (3) and (4) of subsection (b)” for “standard established by subsection (b)(2)”.
 
 Subsec. (b)(3), (4). Pub. L. 102–486, § 115(b), added pars. (3) and (4).
 
@@ -189,7 +189,7 @@ The National Energy Conservation Policy Act, referred to in subsec. (b)(2)(B), i
 
 **(b) Rights** The Secretary shall have the same rights as any other party to a proceeding before a State regulatory authority which relates to gas utility rates or rate design.
 
-**(c) Nonregulated gas utilities** The Secretary, on his own motion, may, to the same extent as provided in subsections (a) through (b) of this section, intervene as a matter of right in any proceeding which relates to rates or rate design of nonregulated gas utilities.
+**(c) Nonregulated gas utilities** The Secretary, on his own motion, may, to the same extent as provided in subsections (a) through (b), intervene as a matter of right in any proceeding which relates to rates or rate design of nonregulated gas utilities.
 
 ### Statutory Notes
 
@@ -217,9 +217,9 @@ The definition of Secretary in [section 2602 of Title 16](https://uscode.house.g
 
   (F) competition with alternative fuels.
 
-**(b) Proposals** Based upon the study prepared pursuant to subsection (a) of this section, the Secretary shall develop proposals to improve gas utility rate design and to encourage conservation of natural gas. Such proposals shall include any comments and recommendations of the Commission.
+**(b) Proposals** Based upon the study prepared pursuant to subsection (a), the Secretary shall develop proposals to improve gas utility rate design and to encourage conservation of natural gas. Such proposals shall include any comments and recommendations of the Commission.
 
-**(c) Transmission to Congress** The proposals prepared under subsection (b) of this section, shall be transmitted, together with any legislative recommendations, to each House of Congress not later than 6 months after the date of submission of the study under subsection (a) of this section. Such proposals shall be accompanied by an analyses 11 So in original. Probably should be “analysis”. of—
+**(c) Transmission to Congress** The proposals prepared under subsection (b), shall be transmitted, together with any legislative recommendations, to each House of Congress not later than 6 months after the date of submission of the study under subsection (a). Such proposals shall be accompanied by an analyses 11 So in original. Probably should be “analysis”. of—
 
 (1) the projected savings (if any) in consumption of natural gas, and other energy resources,
 
@@ -227,7 +227,7 @@ The definition of Secretary in [section 2602 of Title 16](https://uscode.house.g
 
 (3) the effects of the proposals on other provisions of this Act on gas utility rate structures.
 
-**(d) Public participation** The Secretary shall provide for public participation in the conduct of the study under subsection (a) of this section, and the preparation of proposals under subsection (b) of this section.
+**(d) Public participation** The Secretary shall provide for public participation in the conduct of the study under subsection (a), and the preparation of proposals under subsection (b).
 
 ### Statutory Notes
 
@@ -279,7 +279,7 @@ The definition of State in [section 2602 of Title 16](https://uscode.house.gov/v
 
 **(b) Secretary** Not later than 18 months after November 9, 1978, and annually thereafter for 10 years, the Secretary shall submit a report to the President and the Congress containing—
 
-(1) a summary of the reports submitted under subsection (a) of this section,
+(1) a summary of the reports submitted under subsection (a),
 
 (2) his analysis of such reports, and
 

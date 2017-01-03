@@ -20,7 +20,7 @@ In this chapter:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 312101 | no source |  |
+| 312101 | no source. |  |
 
 
 <a id="section-312102"></a>
@@ -42,7 +42,7 @@ In this chapter:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 312102 | [16 U.S.C. 468](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section468&num=0&edition=prelim) | Oct. 26, 1949, ch. 735, § 1, 63 Stat. 927. |
+| 312102 | [16 U.S.C. 468](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section468&num=0&edition=prelim). | Oct. 26, 1949, ch. 735, § 1, 63 Stat. 927. |
 
 
 <a id="section-312103"></a>
@@ -55,7 +55,7 @@ The National Trust shall have its principal office in the District of Columbia a
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 312103 | [16 U.S.C. 468a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section468a&num=0&edition=prelim) | Oct. 26, 1949, ch. 735, § 2, 63 Stat. 927. |
+| 312103 | [16 U.S.C. 468a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section468a&num=0&edition=prelim). | Oct. 26, 1949, ch. 735, § 2, 63 Stat. 927. |
 
 The words “inhabitant and” are omitted as unnecessary.
 
@@ -87,7 +87,7 @@ The words “inhabitant and” are omitted as unnecessary.
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 312104 | [16 U.S.C. 468b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section468b&num=0&edition=prelim) | Oct. 26, 1949, ch. 735, § 3, 63 Stat. 928; July 28, 1953, ch. 255, 67 Stat. 228. |
+| 312104 | [16 U.S.C. 468b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section468b&num=0&edition=prelim). | Oct. 26, 1949, ch. 735, § 3, 63 Stat. 928; July 28, 1953, ch. 255, 67 Stat. 228. |
 
 
 <a id="section-312105"></a>
@@ -119,7 +119,7 @@ The words “inhabitant and” are omitted as unnecessary.
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 312105 | [16 U.S.C. 468c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section468c&num=0&edition=prelim) | Oct. 26, 1949, ch. 735, § 4, 63 Stat. 928. |
+| 312105 | [16 U.S.C. 468c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section468c&num=0&edition=prelim). | Oct. 26, 1949, ch. 735, § 4, 63 Stat. 928. |
 
 In subsection (h), the words “local agencies” are substituted for “municipal departments or agencies” for consistency in the revised title and with other titles of the United States Code.
 
@@ -134,6 +134,6 @@ In carrying out its functions under this chapter, the National Trust may consult
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 312106 | [16 U.S.C. 468d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section468d&num=0&edition=prelim) | Oct. 26, 1949, ch. 735, § 5, 63 Stat. 929. |
+| 312106 | [16 U.S.C. 468d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section468d&num=0&edition=prelim). | Oct. 26, 1949, ch. 735, § 5, 63 Stat. 929. |
 
 The words “National Park System Advisory Board” are substituted for “Advisory Board on National Parks, Historic Sites, Buildings, and Museums” because the Board was renamed when section 3 of the Act of August 21, 1935 (known as the Historic Sites, Buildings, and Antiquities Act (ch. 593, 49 Stat. 667)) was amended by section 9 of Public Law 91–383, as added by section 2 of Public Law 94–458 (90 Stat. 1940).

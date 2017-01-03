@@ -18,6 +18,9 @@ In this subtitle, the term “Administrator” means the Administrator for Feder
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 101 | no source. |  |
 
+#### Short Title of 2016 Amendment
+Pub. L. 114–260, § 1, Dec. 14, 2016, 130 Stat. 1361, provided that: “This Act [amending [section 4106 of this title](./chapter-041-chapter-41.md#section-4106)] may be cited as the ‘GAO Civilian Task and Delivery Order Protest Authority Act of 2016’.”
+
 #### Short Title of 2012 Amendment
 Pub. L. 112–194, § 1, Oct. 5, 2012, 126 Stat. 1445, provided that: “This Act [enacting [section 1909 of this title](./chapter-019-chapter-19.md#section-1909), amending [section 2784 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2784&num=0&edition=prelim), Armed Forces, enacting provisions set out as notes under [section 1909 of this title](./chapter-019-chapter-19.md#section-1909) and [section 5701 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701&num=0&edition=prelim), Government Organization and Employees, and amending provisions set out as a note under [section 5701 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701&num=0&edition=prelim)] may be cited as the ‘Government Charge Card Abuse Prevention Act of 2012’.”
 
@@ -437,6 +440,9 @@ In division B, the term “executive agency” means—
 In division B, the term “simplified acquisition threshold” means $100,000.
 
 ### Statutory Notes
+
+#### Adjustment of Simplified Acquisition Threshold
+For adjustment of dollar threshold pursuant to [section 1908 of this title](./chapter-019-chapter-19.md#section-1908), see definition of simplified acquisition threshold in Federal Acquisition Regulation 2.101.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |

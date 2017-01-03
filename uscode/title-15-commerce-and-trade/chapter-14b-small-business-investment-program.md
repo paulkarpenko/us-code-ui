@@ -499,7 +499,7 @@ Nothing in amendment by Pub. L. 102–366 to be construed to affect applicabilit
 
     (ii) $150,000,000.
 
-  (B) *Multiple licenses under common control.—* — The maximum amount of outstanding leverage made available to two or more companies licensed under [section 681(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section681/c&num=0&edition=prelim) that are commonly controlled (as determined by the Administrator) and not under capital impairment may not exceed $225,000,000.
+  (B) *Multiple licenses under common control.—* — The maximum amount of outstanding leverage made available to two or more companies licensed under [section 681(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section681/c&num=0&edition=prelim) that are commonly controlled (as determined by the Administrator) and not under capital impairment may not exceed $350,000,000.
 
   (C) *Investments in low-income geographic areas.—*
 
@@ -632,6 +632,8 @@ For purposes of this subsection, the term “venture capital” includes such co
 For definition of “this chapter”, referred to in subsecs. (b), (e), (g)(2), (4), (j), and (k), see References in Text note set out under [section 661 of this title](./chapter-14b-small-business-investment-program.md#section-661).
 
 #### Amendments
+2015—Subsec. (b)(2)(B). Pub. L. 114–113 substituted “$350,000,000” for “$225,000,000”.
+
 2009—Subsec. (b)(2)(A), (B). Pub. L. 111–5, § 505(a)(1), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which set forth the maximum amount of outstanding leverage for a company with private capital of not more than $15,000,000, for a company with from $15,000,000 to $30,000,000 in private capital, and for a company with private capital of more than $30,000,000, and set forth provisions relating to initial and annual adjustments of amounts.
 
 Subsec. (b)(2)(C). Pub. L. 111–5, § 505(a)(2), designated existing provisions as cl. (i) and added cls. (ii) and (iii).
@@ -2453,7 +2455,7 @@ In no event shall the Administration pay a surety pursuant to this subsection an
 
 **(c) Limitation of liability** Any guarantee or agreement to indemnify under this section shall obligate the Administration to pay to the surety a sum—
 
-(1) not to exceed 70 per centum of the loss incurred and paid by a surety authorized to issue bonds subject to the Administration’s guarantee under subsection (a)(3);
+(1) not to exceed 90 per centum of the loss incurred and paid by a surety authorized to issue bonds subject to the Administration’s guarantee under subsection (a)(3);
 
 (2) not to exceed 90 per centum of the loss incurred and paid in the case of a surety requiring the Administration’s specific approval for the issuance of such bond, but in no event may the Administration make any duplicate payment pursuant to subsection (b) or any other subsection;
 
@@ -2496,6 +2498,8 @@ In no event shall the Administration pay a surety pursuant to this subsection an
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (c)(1). Pub. L. 114–92 substituted “90” for “70”.
+
 2013—Subsec. (a)(1). Pub. L. 112–239, § 1695(a), designated existing provisions as subpar. (A), substituted “does not exceed $6,500,000, as adjusted for inflation in accordance with [section 1908 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1908&num=0&edition=prelim).” for “does not exceed $2,000,000.”, and added subpar. (B).
 
 Subsec. (e). Pub. L. 112–239, § 1695(b)(1), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “Pursuant to any such guarantee or agreement, the Administration shall reimburse the surety, as provided in subsection (c) of this section, except that the Administration shall be relieved of all liability if—
@@ -2565,6 +2569,9 @@ Subsecs. (e) to (i). Pub. L. 95–507 added subsecs. (e) to (i).
 1974—Subsec. (a). Pub. L. 93–386, § 6(a)(3), substituted “$1,000,000” for “$500,000”.
 
 Subsec. (c). Pub. L. 93–386, § 11, inserted provisions relating to the administration of the program on a prudent and economically justifiable basis and provisions requiring the Administration to publish the cost of the program to the Administration, to conduct a study of the program in order to determine what must be done to make the program economically sound, and to transmit a report to Congress of the findings, conclusions, and recommendations of the study.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–92, div. A, title VIII, § 874(c), Nov. 25, 2015, 129 Stat. 941, provided that: “The amendments made by this section [enacting [section 9310 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9310&num=0&edition=prelim), Money and Finance, and amending this section] shall take effect 1 year after the date of the enactment of this Act [Nov. 25, 2015].”
 
 #### Termination Date of 2009 Amendment
 Amendment by Pub. L. 111–5 to remain in effect until Sept. 30, 2010, see section 508(f) of Pub. L. 111–5, set out as a note under [section 694a of this title](./chapter-14b-small-business-investment-program.md#section-694a).
@@ -2876,6 +2883,9 @@ The Administration may, in addition to its authority under [section 695 of this 
 
 ### Statutory Notes
 
+#### Effectiveness of Former Paragraph (7)(C)
+Subparagraph (C) of paragraph (7) of this section, as in effect on September 25, 2012 (see 2010 Amendment note below), effective in any fiscal year during which the cost to the Federal Government of making guarantees under such subparagraph (C) and section 503 of the Small Business Investment Act of 1958 ([15 U.S.C. 697](./chapter-14b-small-business-investment-program.md#section-697)) is zero, with certain exceptions, see section 521(a) of Pub. L. 114–113, set out as a note below.
+
 #### Amendments
 2010—Par. (2)(A)(i). Pub. L. 111–240, § 1122(c), substituted “clause (ii), (iii), (iv), or (v)” for “subparagraph (B) or (C)”.
 
@@ -2885,7 +2895,73 @@ Par. (2)(A)(ii). Pub. L. 111–240, § 1112(2), substituted “$5,000,000” for
 
 Par. (2)(A)(iii) to (v). Pub. L. 111–240, § 1112(3)–(5), substituted “$5,500,000” for “$4,000,000”.
 
-Par. (7)(C). Pub. L. 111–240, § 1122(b), struck out subpar. (C) relating to refinancing not involving expansions.
+Par. (7)(C). Pub. L. 111–240, § 1122(b), struck out subpar. (C) relating to refinancing not involving expansions. Text read as follows:
+
+“(i) Definitions.—In this subparagraph—
+
+“(I) the term ‘borrower’ means a small business concern that submits an application to a development company for financing under this subparagraph;
+
+“(II) the term ‘eligible fixed asset’ means tangible property relating to which the Administrator may provide financing under this section; and
+
+“(III) the term ‘qualified debt’ means indebtedness—
+
+“(aa) that—
+
+“(AA) was incurred not less than 2 years before the date of the application for assistance under this subparagraph;
+
+“(BB) is a commercial loan;
+
+“(CC) is not subject to a guarantee by a Federal agency;
+
+“(DD) the proceeds of which were used to acquire an eligible fixed asset;
+
+“(EE) was incurred for the benefit of the small business concern; and
+
+“(FF) is collateralized by eligible fixed assets; and
+
+“(bb) for which the borrower has been current on all payments for not less than 1 year before the date of the application.
+
+“(ii) Authority.—A project that does not involve the expansion of a small business concern may include the refinancing of qualified debt if—
+
+“(I) the amount of the financing is not more than 90 percent of the value of the collateral for the financing, except that, if the appraised value of the eligible fixed assets serving as collateral for the financing is less than the amount equal to 125 percent of the amount of the financing, the borrower may provide additional cash or other collateral to eliminate any deficiency;
+
+“(II) the borrower has been in operation for all of the 2-year period ending on the date of the loan; and
+
+“(III) for a financing for which the Administrator determines there will be an additional cost attributable to the refinancing of the qualified debt, the borrower agrees to pay a fee in an amount equal to the anticipated additional cost.
+
+“(iii) Financing for business expenses.—
+
+“(I) Financing for business expenses.—The Administrator may provide financing to a borrower that receives financing that includes a refinancing of qualified debt under clause (ii), in addition to the refinancing under clause (ii), to be used solely for the payment of business expenses.
+
+“(II) Application for financing.—An application for financing under subclause (I) shall include—
+
+“(aa) a specific description of the expenses for which the additional financing is requested; and
+
+“(bb) an itemization of the amount of each expense.
+
+“(III) Condition on additional financing.—A borrower may not use any part of the financing under this clause for non-business purposes.
+
+“(iv) Loans based on jobs.—
+
+“(I) Job creation and retention goals.—
+
+“(aa) In general.—The Administrator may provide financing under this subparagraph for a borrower that meets the job creation goals under subsection (d) or (e) of [section 695 of this title](./chapter-14b-small-business-investment-program.md#section-695).
+
+“(bb) Alternate job retention goal.—The Administrator may provide financing under this subparagraph to a borrower that does not meet the goals described in item (aa) in an amount that is not more than the product obtained by multiplying the number of employees of the borrower by $65,000.
+
+“(II) Number of employees.—For purposes of subclause (I), the number of employees of a borrower is equal to the sum of—
+
+“(aa) the number of full-time employees of the borrower on the date on which the borrower applies for a loan under this subparagraph; and
+
+“(bb) the product obtained by multiplying—
+
+“(AA) the number of part-time employees of the borrower on the date on which the borrower applies for a loan under this subparagraph; by
+
+“(BB) the quotient obtained by dividing the average number of hours each part time employee of the borrower works each week by 40.
+
+“(v) Nondelegation.—Notwithstanding [section 697e(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section697e/e&num=0&edition=prelim), the Administrator may not permit a premier certified lender to approve or disapprove an application for assistance under this subparagraph.
+
+“(vi) Total amount of loans.—The Administrator may provide not more than a total of $7,500,000,000 of financing under this subparagraph for each fiscal year.”
 
 Pub. L. 111–240, § 1122(a), added subpar. (C).
 
@@ -2955,6 +3031,9 @@ Amendment by Pub. L. 104–208 effective Oct. 1, 1996, see section 3 of Pub. L. 
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 1918 of Pub. L. 97–35, set out as a note under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
+
+#### Refinancing Not Involving Expansions
+Pub. L. 114–113, div. E, title V, § 521(a), Dec. 18, 2015, 129 Stat. 2463, provided that: “Subparagraph (C) of section 502(7) of the Small Business Investment Act of 1958 ([15 U.S.C. 696(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section696/7&num=0&edition=prelim)) [former [15 U.S.C. 696(7)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section696/7/C&num=0&edition=prelim)], as in effect on September 25, 2012, shall be in effect in any fiscal year during which the cost to the Federal Government of making guarantees under such subparagraph (C) [see 2010 Amendment note above] and section 503 of the Small Business Investment Act of 1958 ([15 U.S.C. 697](./chapter-14b-small-business-investment-program.md#section-697)) is zero, except that— “(1) subclause (I)(bb) and subclause (II) of clause (iv) of such subparagraph (C) shall not be in effect; “(2) unless, upon application by a development company and after determining that the refinance loan is needed for good cause, the Administrator of the Small Business Administration waives this paragraph, a development company shall limit its financings under section 502 of the Small Business Investment Act of 1958 ([15 U.S.C. 696](./chapter-14b-small-business-investment-program.md#section-696)) so that, during any fiscal year, new financings under such subparagraph (C) shall not exceed 50 percent of the dollars loaned under title V of the Small Business Investment Act of 1958 ([15 U.S.C. 695](./chapter-14b-small-business-investment-program.md#section-695) et seq.) during the previous fiscal year; and “(3) clause (iv)(I)(aa) of such subparagraph (C) shall be applied by substituting ‘job creation and retention’ for ‘job creation’.”
 
 
 <a id="section-697"></a>

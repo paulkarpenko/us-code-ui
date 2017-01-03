@@ -16,7 +16,7 @@ There is in the Department of the Interior a service called the National Park Se
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100301 | [16 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim) (1st sentence words before 1st comma) | Aug. 25, 1916, ch. 408, § 1 (1st sentence words before 1st comma), 39 Stat. 535. |
+| 100301 | [16 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim) (1st sentence words before 1st comma). | Aug. 25, 1916, ch. 408, § 1 (1st sentence words before 1st comma), 39 Stat. 535. |
 
 
 <a id="section-100302"></a>
@@ -38,11 +38,11 @@ There is in the Department of the Interior a service called the National Park Se
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100302(a)(1) | [16 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim) (1st sentence words after 1st comma) | Aug. 25, 1916, ch. 408, § 1 (1st sentence words after 1st comma, 2d to 4th sentences), 39 Stat. 535; Pub. L. 104–333, div. I, title VIII, § 814(e)(1), Nov. 12, 1996, 110 Stat. 4196. |
-| 100302(a)(2) | [16 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim) (2d sentence) |  |
-| 100302(a)(3) | [16 U.S.C. 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2&num=0&edition=prelim) | Aug. 25, 1916, ch. 408, § 2, 39 Stat. 535. |
-| 100302(b) | [16 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim) (3d, 4th sentences) |  |
-| 100302(c) | [16 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim) (5th sentence) | Aug. 25, 1916, ch. 408, § 1 (5th sentence), 39 Stat. 535. |
+| 100302(a)(1) | [16 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim) (1st sentence words after 1st comma). | Aug. 25, 1916, ch. 408, § 1 (1st sentence words after 1st comma, 2d to 4th sentences), 39 Stat. 535; Pub. L. 104–333, div. I, title VIII, § 814(e)(1), Nov. 12, 1996, 110 Stat. 4196. |
+| 100302(a)(2) | [16 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim) (2d sentence). |  |
+| 100302(a)(3) | [16 U.S.C. 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2&num=0&edition=prelim). | Aug. 25, 1916, ch. 408, § 2, 39 Stat. 535. |
+| 100302(b) | [16 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim) (3d, 4th sentences). |  |
+| 100302(c) | [16 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim) (5th sentence). | Aug. 25, 1916, ch. 408, § 1 (5th sentence), 39 Stat. 535. |
 
 In subsection (a)(3), the words “of the Hot Springs Reservation in the State of Arkansas” [changed to “Hot Springs National Park” because of section 1 of the Act of March 4, 1921 (ch. 161, 41 Stat. 1407)] in section 2 of the Act of August 25, 1916 (known as the National Park Service Organic Act) (ch. 408, 39 Stat. 535) are omitted as unnecessary.
 
@@ -59,4 +59,4 @@ This chapter and sections 100101(a), 100751(a), 100752, 100753, and 102101 of th
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100303 | [16 U.S.C. 4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4&num=0&edition=prelim) | Aug. 25, 1916, ch. 408, § 4, 39 Stat. 536. |
+| 100303 | [16 U.S.C. 4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4&num=0&edition=prelim). | Aug. 25, 1916, ch. 408, § 4, 39 Stat. 536. |

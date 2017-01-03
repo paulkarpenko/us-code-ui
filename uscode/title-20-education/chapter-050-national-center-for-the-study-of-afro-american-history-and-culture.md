@@ -66,7 +66,7 @@ Pub. L. 96–430, title II, § 201, Oct. 10, 1980, 94 Stat. 1846, provided that:
 
 (6) Nine members appointed by the President, who are especially qualified to serve on the Commission by reason of their background and experience. No more than two members appointed under this paragraph shall be from any one State.
 
-**(b) Terms of office** Subject to subsection (c) of this section, the members of the Commission specified in paragraphs (1) through (5) of subsection (a) of this section shall serve for the life of the Commission. The members of the Commission appointed under paragraph (6) of such subsection shall serve for terms of four years, except that of the members first appointed—
+**(b) Terms of office** Subject to subsection (c), the members of the Commission specified in paragraphs (1) through (5) of subsection (a) shall serve for the life of the Commission. The members of the Commission appointed under paragraph (6) of such subsection shall serve for terms of four years, except that of the members first appointed—
 
 (1) three shall be appointed for terms of one year;
 
@@ -75,7 +75,7 @@ Pub. L. 96–430, title II, § 201, Oct. 10, 1980, 94 Stat. 1846, provided that:
 (3) three shall be appointed for terms of four years;
 as designated by the President at the time of appointment.
 
-**(c) Membership continuation** If any member of the Commission who was appointed to the Commission under paragraphs (1) through (5) 11 So in original. Probably should be followed by “of subsection (a) of this section”. as an officer designated under such paragraphs leaves such office, such member may continue as a member of the Commission for not longer than the thirty-day period beginning on the date he leaves that office.
+**(c) Membership continuation** If any member of the Commission who was appointed to the Commission under paragraphs (1) through (5) 11 So in original. Probably should be followed by “of subsection (a)”. as an officer designated under such paragraphs leaves such office, such member may continue as a member of the Commission for not longer than the thirty-day period beginning on the date he leaves that office.
 
 **(d) Vacancies**
 

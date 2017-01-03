@@ -124,11 +124,11 @@ In subsection (a), the words “(referred to in [section 421(c)(1) of this title
 
 (14) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a Federal Government facility in that country at the request of the government of that country.
 
-(15) Costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the Federal Government or a State, to the extent provided in [section 4310 of this title](./chapter-043-chapter-43.md#section-4310).
+(15) Costs incurred by a contractor or subcontractor, or personal service 11 So in original. Probably should be “services”. contractor in connection with any criminal, civil, or administrative proceeding commenced by the Federal Government or a State, to the extent provided in [section 4310 of this title](./chapter-043-chapter-43.md#section-4310).
 
-(16) 11 So in original. Two pars. (16) have been enacted. Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $625,000 adjusted annually for the U.S. Bureau of Labor Statistics Employment Cost Index for total compensation for private industry workers, by occupational and industry group not seasonally adjusted, except that the executive agency may establish exceptions for positions in the science, technology, engineering, mathematics, medical, and cybersecurity fields and other fields requiring unique areas of expertise upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
+(16) 22 So in original. Two pars. (16) have been enacted. Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $625,000 adjusted annually for the U.S. Bureau of Labor Statistics Employment Cost Index for total compensation for private industry workers, by occupational and industry group not seasonally adjusted, except that the executive agency may establish exceptions for positions in the science, technology, engineering, mathematics, medical, and cybersecurity fields and other fields requiring unique areas of expertise upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
 
-(16) 1 Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
+(16) 2 Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.
 
 **(b) Waiver of Severance Pay Restrictions for Foreign Nationals.—**
 
@@ -158,7 +158,9 @@ In subsection (a), the words “(referred to in [section 421(c)(1) of this title
 | 4304 | 41:256(e). | June 30, 1949, ch. 288, title III, § 306(e), as added Pub. L. 100–700, § 8(a)(1), Nov. 19, 1988, 102 Stat. 4634; Pub. L. 103–355, title II, § 2151, Oct. 13, 1994, 108 Stat. 3310; Pub. L. 105–85, title VIII, § 808(b)(1), Nov. 18, 1997, 111 Stat. 1836. |
 
 #### Amendments
-2013—Subsec. (a)(16). Pub. L. 113–66 and Pub. L. 113–67 amended par. (16) generally. Prior to amendment, par. (16) read as follows: “Costs of compensation of senior executives of contractors for a fiscal year, regardless of the contract funding source, to the extent that the compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator under [section 1127 of this title](./chapter-011-chapter-11.md#section-1127).”
+2016—Subsec. (a)(15). Pub. L. 114–261 inserted “or subcontractor, or personal service contractor” after “contractor”.
+
+2013—Subsec. (a)(16). Pub. L. 113–66 and Pub. L. 113–67 amended par. (16) generally. Prior to amendment, par. (16) read as follows: “Costs of compensation of senior executives of contractors for a fiscal year, regardless of the contract funding source, to the extent that the compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator under [section 1127 of this title](./chapter-011-chapter-11.md#section-1127).” See Effective Date of 2013 Amendment notes below.
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 113–67 applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, see section 702(c) of Pub. L. 113–67, set out as a note under [section 2324 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2324&num=0&edition=prelim), Armed Forces.
@@ -328,23 +330,23 @@ In a proceeding before a board of contract appeals, the United States Court of F
 ## § 4310. Proceeding costs not allowable
 **(a) Definitions.—** In this section:
 
-(1) **Costs.—** — The term “costs”, with respect to a proceeding, means all costs incurred by a contractor, whether before or after the commencement of the proceeding, including—
+(1) **Costs.—** — The term “costs”, with respect to a proceeding, means all costs incurred by a contractor, subcontractor, or personal services contractor, whether before or after the commencement of the proceeding, including—
 
   (A) administrative and clerical expenses;
 
-  (B) the cost of legal services, including legal services performed by an employee of the contractor;
+  (B) the cost of legal services, including legal services performed by an employee of the contractor, subcontractor, or personal services contractor;
 
-  (C) the cost of the services of accountants and consultants retained by the contractor; and
+  (C) the cost of the services of accountants and consultants retained by the contractor, subcontractor, or personal services contractor; and
 
-  (D) the pay of directors, officers, and employees of the contractor for time devoted by those directors, officers, and employees to the proceeding.
+  (D) the pay of directors, officers, and employees of the contractor, subcontractor, or personal services contractor for time devoted by those directors, officers, and employees to the proceeding.
 
 (2) **Penalty.—** — The term “penalty” does not include restitution, reimbursement, or compensatory damages.
 
 (3) **Proceeding.—** — The term “proceeding” includes an investigation.
 
-**(b) In General.—** Except as otherwise provided in this section, costs incurred by a contractor in connection with a criminal, civil, or administrative proceeding commenced by the Federal Government, by a State, or by a contractor or grantee employee submitting a complaint under [section 4712 of this title](./chapter-047-chapter-47.md#section-4712) are not allowable as reimbursable costs under a covered contract if the proceeding—
+**(b) In General.—** Except as otherwise provided in this section, costs incurred by a contractor, subcontractor, or personal services contractor in connection with a criminal, civil, or administrative proceeding commenced by the Federal Government, by a State, or by a contractor, subcontractor, or personal services contractor or grantee employee submitting a complaint under [section 4712 of this title](./chapter-047-chapter-47.md#section-4712) are not allowable as reimbursable costs under a covered contract, subcontract, or personal services contract if the proceeding—
 
-(1) relates to a violation of, or failure to comply with, a Federal or State statute or regulation; and
+(1) relates to a violation of, or failure to comply with, a Federal or State statute or regulation or to any other activity described in [section 4712(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section4712/a/1&num=0&edition=prelim); and
 
 (2) results in a disposition described in subsection (c).
 
@@ -352,31 +354,31 @@ In a proceeding before a board of contract appeals, the United States Court of F
 
 (1) In a criminal proceeding, a conviction (including a conviction pursuant to a plea of nolo contendere) by reason of the violation or failure referred to in subsection (b).
 
-(2) In a civil or administrative proceeding involving an allegation of fraud or similar misconduct, a determination of contractor liability on the basis of the violation or failure referred to in subsection (b).
+(2) In a civil or administrative proceeding involving an allegation of fraud or similar misconduct, a determination of contractor, subcontractor, or personal services contractor liability on the basis of the violation or failure referred to in subsection (b).
 
 (3) In any civil or administrative proceeding, the imposition of a monetary penalty or an order to take corrective action under [section 4712 of this title](./chapter-047-chapter-47.md#section-4712) by reason of the violation or failure referred to in subsection (b).
 
 (4) A final decision to do any of the following, by reason of the violation or failure referred to in subsection (b):
 
-  (A) Debar or suspend the contractor.
+  (A) Debar or suspend the contractor, subcontractor, or personal services contractor.
 
-  (B) Rescind or void the contract.
+  (B) Rescind or void the contract, subcontract, or personal services contract.
 
-  (C) Terminate the contract for default.
+  (C) Terminate the contract, subcontract, or personal services contract for default.
 
 (5) A disposition of the proceeding by consent or compromise if the disposition could have resulted in a disposition described in paragraph (1), (2), (3), or (4).
 
-**(d) Costs Allowed by Settlement Agreement in Proceeding Commenced by Federal Government.—** In the case of a proceeding referred to in subsection (b) that is commenced by the Federal Government and is resolved by consent or compromise pursuant to an agreement entered into by a contractor and the Federal Government, the costs incurred by the contractor in connection with the proceeding that are otherwise not allowable as reimbursable costs under subsection (b) may be allowed to the extent specifically provided in that agreement.
+**(d) Costs Allowed by Settlement Agreement in Proceeding Commenced by Federal Government.—** In the case of a proceeding referred to in subsection (b) that is commenced by the Federal Government and is resolved by consent or compromise pursuant to an agreement entered into by a contractor, subcontractor, or personal services contractor and the Federal Government, the costs incurred by the contractor, subcontractor, or personal services contractor in connection with the proceeding that are otherwise not allowable as reimbursable costs under subsection (b) may be allowed to the extent specifically provided in that agreement.
 
-**(e) Costs Specifically Authorized by Executive Agency in Proceeding Commenced by State.—** In the case of a proceeding referred to in subsection (b) that is commenced by a State, the executive agency that awarded the covered contract involved in the proceeding may allow the costs incurred by the contractor in connection with the proceeding as reimbursable costs if the executive agency determines, in accordance with the Federal Acquisition Regulation, that the costs were incurred as a result of—
+**(e) Costs Specifically Authorized by Executive Agency in Proceeding Commenced by State.—** In the case of a proceeding referred to in subsection (b) that is commenced by a State, the executive agency that awarded the covered contract, subcontract, or personal services contract involved in the proceeding may allow the costs incurred by the contractor, subcontractor, or personal services contractor in connection with the proceeding as reimbursable costs if the executive agency determines, in accordance with the Federal Acquisition Regulation, that the costs were incurred as a result of—
 
-(1) a specific term or condition of the contract; or
+(1) a specific term or condition of the contract, subcontract, or personal services contract; or
 
 (2) specific written instructions of the executive agency.
 
 **(f) Other Allowable Costs.—**
 
-(1) **In general.—** — Except as provided in paragraph (3), costs incurred by a contractor in connection with a criminal, civil, or administrative proceeding commenced by the Federal Government or a State in connection with a covered contract may be allowed as reimbursable costs under the contract if the costs are not disallowable under subsection (b), but only to the extent provided in paragraph (2).
+(1) **In general.—** — Except as provided in paragraph (3), costs incurred by a contractor, subcontractor, or personal services contractor in connection with a criminal, civil, or administrative proceeding commenced by the Federal Government or a State in connection with a covered contract, subcontract, or personal services contract may be allowed as reimbursable costs under the contract, subcontract, or personal services contract if the costs are not disallowable under subsection (b), but only to the extent provided in paragraph (2).
 
 (2) **Amount of allowable costs.—**
 
@@ -384,9 +386,9 @@ In a proceeding before a board of contract appeals, the United States Court of F
 
   (B) *Content of regulations.—* — Regulations issued for the purpose of subparagraph (A) shall provide for appropriate consideration of the complexity of procurement litigation, generally accepted principles governing the award of legal fees in civil actions involving the Federal Government as a party, and other factors as may be appropriate.
 
-(3) **When otherwise allowable costs are not allowable.—** — In the case of a proceeding referred to in paragraph (1), contractor costs otherwise allowable as reimbursable costs under this subsection are not allowable if—
+(3) **When otherwise allowable costs are not allowable.—** — In the case of a proceeding referred to in paragraph (1), contractor, subcontractor, or personal services contractor costs otherwise allowable as reimbursable costs under this subsection are not allowable if—
 
-  (A) the proceeding involves the same contractor misconduct alleged as the basis of another criminal, civil, or administrative proceeding; and
+  (A) the proceeding involves the same contractor, subcontractor, or personal services contractor misconduct alleged as the basis of another criminal, civil, or administrative proceeding; and
 
   (B) the costs of the other proceeding are not allowable under subsection (b).
 
@@ -403,6 +405,10 @@ In a proceeding before a board of contract appeals, the United States Court of F
 | 4310(f) | 41:256(k)(5). |  |
 
 #### Amendments
+2016—Pub. L. 114–261, § 1(b)(2)(A)(i), (ii), inserted “, subcontractor, or personal services contractor” after “contractor” and “, subcontract, or personal services contract” after “contract” wherever appearing.
+
+Subsec. (b)(1). Pub. L. 114–261, § 1(b)(2)(A)(iii), inserted “or to any other activity described in [section 4712(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section4712/a/1&num=0&edition=prelim)” after “statute or regulation”.
+
 2013—Subsec. (b). Pub. L. 112–239, § 828(d)(1), substituted “commenced by the Federal Government, by a State, or by a contractor or grantee employee submitting a complaint under [section 4712 of this title](./chapter-047-chapter-47.md#section-4712)” for “commenced by the Federal Government or a State”.
 
 Subsec. (c)(3). Pub. L. 112–239, § 828(d)(2), substituted “the imposition of a monetary penalty or an order to take corrective action under [section 4712 of this title](./chapter-047-chapter-47.md#section-4712)” for “the imposition of a monetary penalty”.

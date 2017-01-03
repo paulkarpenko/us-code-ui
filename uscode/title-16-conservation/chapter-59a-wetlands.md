@@ -2,7 +2,7 @@
 title: 16
 chapter: 59A
 heading: WETLANDS
-section_count: 6
+section_count: 7
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -291,7 +291,7 @@ Pub. L. 102–212, title III, § 302(b), Dec. 11, 1991, 105 Stat. 1661, provided
 
 **(b) Coastal wetlands conservation grants** Of the total amount appropriated during a given fiscal year to carry out this chapter, 15 percent shall be available, and shall remain available to the Director, for purposes of making grants—
 
-(1) to any coastal State, except States eligible to receive funding under subsection (a) of this section, to carry out coastal wetlands conservation projects in accordance with [section 3954 of this title](./chapter-59a-wetlands.md#section-3954); and
+(1) to any coastal State, except States eligible to receive funding under subsection (a), to carry out coastal wetlands conservation projects in accordance with [section 3954 of this title](./chapter-59a-wetlands.md#section-3954); and
 
 (2) in the amount of $2,500,000 in total for an assessment of the status, condition, and trends of wetlands in the State of Texas.
 
@@ -314,3 +314,65 @@ Subsec. (c). Pub. L. 108–447, § 114(a)(3), struck out “, not to exceed $15,
 **(a) Additional authority for Corps of Engineers** The Secretary is authorized to carry out projects for the protection, restoration, or enhancement of aquatic and associated ecosystems, including projects for the protection, restoration, or creation of wetlands and coastal ecosystems. In carrying out such projects, the Secretary shall give such projects equal consideration with projects relating to irrigation, navigation, or flood control.
 
 **(b) Study** The Secretary is hereby authorized and directed to study the feasibility of modifying the operation of existing navigation and flood control projects to allow for an increase in the share of the Mississippi River flows and sediment sent down the Atchafalaya River for purposes of land building and wetlands nourishment.
+
+
+<a id="section-3957"></a>
+## § 3957. Environmental banks
+**(a) Guidelines** Not later than 1 year after December 16, 2016, the Task Force shall, after public notice and opportunity for comment, issue guidelines for the use, maintenance, and oversight of environmental banks in Louisiana.
+
+**(b) Requirements** The guidelines issued pursuant to subsection (a) shall—
+
+(1) set forth procedures for establishment and approval of environmental banks subject to the approval of the heads of the appropriate Federal agencies responsible for implementation of Federal environmental laws for which mitigation credits may be used;
+
+(2) establish criteria for siting of environmental banks that enhance the resilience of coastal resources to inundation and coastal erosion in high priority areas, as identified within Federal or State restoration plans, including the restoration of resources within the scope of a project authorized for construction;
+
+(3) establish criteria that ensure environmental banks secure adequate financial assurances and legally enforceable protection for the land or resources that generate the credits from environmental banks;
+
+(4) stipulate that credits from environmental banks may not be used for mitigation of impacts required under section 404 of the Federal Water Pollution Control Act ([33 U.S.C. 1342](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1342&num=0&edition=prelim)) 11 See References in Text note below. or the Endangered Species Act ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.) in an area where an existing mitigation bank approved pursuant to such laws within 5 years of enactment of the Water Resources Development Act of 2016 has credits available;
+
+(5) establish performance criteria for environmental banks; and
+
+(6) establish criteria and financial assurance for the operation and monitoring of environmental banks.
+
+**(c) Environmental bank**
+
+(1) **Definition of environmental bank** — In this section, the term “environmental bank” means a project, project increment, or projects for purposes of restoring, creating, or enhancing natural resources at a designated site to establish mitigation credits.
+
+(2) **Credits** — Mitigation credits created from environmental banks approved pursuant to this section may be used to satisfy existing liability under Federal environmental laws.
+
+**(d) Savings clause**
+
+(1) **Application of Federal law** — Guidelines developed under this section and mitigation carried out through an environmental bank established pursuant to such guidelines shall comply with all applicable requirements of Federal law (including regulations), including—
+
+  (A) the Federal Water Pollution Control Act ([33 U.S.C. 1251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) et seq.);
+
+  (B) the Endangered Species Act ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.);
+
+  (C) the Oil Pollution Act of 1990 ([33 U.S.C. 2701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2701&num=0&edition=prelim) et seq.);
+
+  (D) the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.); and
+
+  (E) [section 2283 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2283&num=0&edition=prelim).
+
+(2) **Statutory construction** — Nothing in this section may be construed to affect—
+
+  (A) any authority, regulatory determination, or legal obligation in effect the day before December 16, 2016; or
+
+  (B) the obligations or requirements of any Federal environmental law.
+
+**(e) Sunset** No new environmental bank may be created or approved pursuant to this section after the date that is 10 years after December 16, 2016.
+
+### Statutory Notes
+
+#### References in Text
+Section 404 of the Federal Water Pollution Control Act, referred to in subsec. (b)(4), is section 404 of act June 30, 1948, ch. 758, which is classified to [section 1344 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1344&num=0&edition=prelim), Navigation and Navigable Waters. [Section 1342 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1342&num=0&edition=prelim) is section 402 of the Act.
+
+The Endangered Species Act, referred to in subsecs. (b)(4) and (d)(1)(B), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+
+Enactment of the Water Resources Development Act of 2016, referred to in subsec. (b)(4), means the enactment of title I of Pub. L. 114–322, which was approved Dec. 16, 2016.
+
+The Federal Water Pollution Control Act, referred to in subsec. (d)(1)(A), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
+
+The Oil Pollution Act of 1990, referred to in subsec. (d)(1)(C), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§ 2701 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2701&num=0&edition=prelim) and Tables.
+
+The National Environmental Policy Act of 1969, referred to in subsec. (d)(1)(D), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.

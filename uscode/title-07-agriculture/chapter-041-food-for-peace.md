@@ -777,7 +777,9 @@ The Secretary of Defense shall pay to the Commodity Credit Corporation an amount
 The Food for Peace Act ([7 U.S.C. 1721–172](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1721–172&num=0&edition=prelim)6), referred to in text, is act July 10, 1954, ch. 469, 68 Stat. 457. Title II of the Act is classified generally to subchapter III (§ 1721 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1691 of this title](./chapter-041-food-for-peace.md#section-1691) and Tables.
 
 #### Codification
-Section consists of section 9(a) of Pub. L. 97–214. Section 9(b) of Pub. L. 97–214 is classified as a note set out under [section 1594k of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1594k&num=0&edition=prelim), The Public Health and Welfare. Section was enacted as part of the Military Construction Codification Act, and not as part of the Food for Peace Act which comprises this chapter.
+Section consists of section 9(a) of Pub. L. 97–214. Section 9(b) of Pub. L. 97–214 is classified as a note set out under [section 1594k of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1594k&num=0&edition=prelim), The Public Health and Welfare.
+
+Section was enacted as part of the Military Construction Codification Act, and not as part of the Food for Peace Act which comprises this chapter.
 
 #### Amendments
 2008—Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
@@ -1716,12 +1718,6 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 #### Codification
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Food for Peace Act which comprises this chapter.
 
-#### Effective Date
-Section effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
-
-#### Definition of “Secretary”
-“Secretary” as meaning the Secretary of Agriculture, see [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
-
 #### Amendments
 2014—Subsec. (b). Pub. L. 113–79, § 3207(1)(A), (B), substituted “Field-based projects” for “Study; field-based projects” in heading, struck out par. (2) designation and heading, redesignated subpars. (A) and (B) of former par. (2) as pars. (1) and (2), respectively, and struck out former par. (1) which required a study of prior local and regional procurements for food aid programs and a report to Congress.
 
@@ -1744,6 +1740,12 @@ Subsec. (d)(4). Pub. L. 113–79, § 3207(5)(B), struck out par. (4). Text read 
 Subsec. (e). Pub. L. 113–79, § 3207(6), added subsec. (e). Former subsec. (e) redesignated (d).
 
 Subsecs. (f), (g). Pub. L. 113–79, § 3207(3), struck out subsecs. (f) and (g) which related, respectively, to independent evaluations of field-based projects and report to Congress and to Commodity Credit Corporation funding and funding amounts for fiscal years 2009 through 2012.
+
+#### Effective Date
+Section effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+#### Definition of “Secretary”
+“Secretary” as meaning the Secretary of Agriculture, see [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-1727b"></a>
@@ -2550,14 +2552,14 @@ It is hereby declared to be the policy of the United States—
 
 (2) not to restrict or limit the export of such commodities and products except under the most compelling circumstances;
 
-(3) that any prohibition or limitation on the export of such commodities or products should be imposed only in time of a national emergency declared by the President under the Export Administration Act [50 U.S.C. App. 2401 et seq.]; and
+(3) that any prohibition or limitation on the export of such commodities or products should be imposed only in time of a national emergency declared by the President under the Export Administration Act [[50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.]; and
 
 (4) that contracts for the export of such commodities or products entered into before the imposition of any prohibition or limitation on the export of such commodities or products should not be abrogated.
 
 ### Statutory Notes
 
 #### References in Text
-The Export Administration Act, referred to in par. (3), probably means the Export Administration Act of 1979, Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+The Export Administration Act, referred to in par. (3), probably means the Export Administration Act of 1979, Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section is comprised of section 1133(a) of Pub. L. 99–198. Section 1133(b) of Pub. L. 99–198 amended [section 1736j of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1736j&num=0&edition=prelim).
@@ -3081,7 +3083,7 @@ Pub. L. 107–76, title VII, § 730, Nov. 28, 2001, 115 Stat. 736.
 
 (1) considered a part of the total domestic supply (including carryover) for the purpose of subsection (c) or for the purpose of administering the Food for Peace Act ([7 U.S.C. 1691](./chapter-041-food-for-peace.md#section-1691) et seq.); and
 
-(2) subject to any quantitative limitation on exports that may be imposed under [section 2406 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2406&num=0&edition=prelim), Appendix.
+(2) subject to any quantitative limitation on exports that may be imposed under [section 4606 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4606&num=0&edition=prelim).
 
 **(f) Use of Commodity Credit Corporation**
 

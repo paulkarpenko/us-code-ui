@@ -50,7 +50,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), C (§ 1087a et seq.), and D (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2011—Subsecs. (h), (i). Pub. L. 111–383 added subsecs. (h) and (i).
@@ -110,16 +110,20 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 (2) The annual maximum amount of a loan that may be repaid under this section shall be the same as the maximum amount in effect for the same year under subsection (e)(2) of [section 2173 of this title](./chapter-109-educational-loan-repayment-programs.md#section-2173) for the education loan repayment program under such section.
 
-**(d)** The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer on or before December 31, 2015.
+**(d)** The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer on or before December 31, 2017.
 
 ### Statutory Notes
 
 #### References in Text
-The Higher Education Act of 1965, referred to in subsec. (a)(1) to (3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), C (§ 1087a et seq.), and D (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(1) to (3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 The Public Health Service Act, referred to in subsec. (a)(4), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§ 292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part B of title VIII of the Act is classified generally to part B (§ 297 et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2016—Subsec. (d). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
+
+2015—Subsec. (d). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
+
 2014—Subsec. (d). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
 
 2013—Subsec. (d). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.

@@ -103,7 +103,7 @@ Section was formerly classified to [section 1973ee–4 of Title 42](https://usco
 <a id="section-20106"></a>
 ## § 20106. Relationship to Voting Rights Act of 1965
 
-This chapter shall not be construed to impair any right guaranteed by the Voting Rights Act of 1965 ([42 U.S.C. 1973](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973&num=0&edition=prelim) et seq.) [now [52 U.S.C. 10301](./chapter-103-enforcement-of-voting-rights.md#section-10301) et seq.] .
+This chapter shall not be construed to impair any right guaranteed by the Voting Rights Act of 1965 ([42 U.S.C. 1973](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973&num=0&edition=prelim) et seq.) [now [52 U.S.C. 10301](./chapter-103-enforcement-of-voting-rights.md#section-10301) et seq.].
 
 ### Statutory Notes
 

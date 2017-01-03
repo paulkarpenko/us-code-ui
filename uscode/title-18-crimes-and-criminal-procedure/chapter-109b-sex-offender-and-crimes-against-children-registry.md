@@ -21,7 +21,16 @@ source: >-
 (3) knowingly fails to register or update a registration as required by the Sex Offender Registration and Notification Act;
 shall be fined under this title or imprisoned not more than 10 years, or both.
 
-**(b) Affirmative Defense.—** In a prosecution for a violation under subsection (a), it is an affirmative defense that—
+**(b) International Travel Reporting Violations.—** Whoever—
+
+(1) is required to register under the Sex Offender Registration and Notification Act ([42 U.S.C. 16901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16901&num=0&edition=prelim) et seq.);
+
+(2) knowingly fails to provide information required by the Sex Offender Registration and Notification Act relating to intended travel in foreign commerce; and
+
+(3) engages or attempts to engage in the intended travel in foreign commerce;
+shall be fined under this title, imprisoned not more than 10 years, or both.
+
+**(c) Affirmative Defense.—** In a prosecution for a violation under subsection (a) or (b), it is an affirmative defense that—
 
 (1) uncontrollable circumstances prevented the individual from complying;
 
@@ -29,15 +38,18 @@ shall be fined under this title or imprisoned not more than 10 years, or both.
 
 (3) the individual complied as soon as such circumstances ceased to exist.
 
-**(c) Crime of Violence.—**
+**(d) Crime of Violence.—**
 
-(1) **In general.—** — An individual described in subsection (a) who commits a crime of violence under Federal law (including the Uniform Code of Military Justice), the law of the District of Columbia, Indian tribal law, or the law of any territory or possession of the United States shall be imprisoned for not less than 5 years and not more than 30 years.
+(1) **In general.—** — An individual described in subsection (a) or (b) who commits a crime of violence under Federal law (including the Uniform Code of Military Justice), the law of the District of Columbia, Indian tribal law, or the law of any territory or possession of the United States shall be imprisoned for not less than 5 years and not more than 30 years.
 
-(2) **Additional punishment.—** — The punishment provided in paragraph (1) shall be in addition and consecutive to the punishment provided for the violation described in subsection (a).
+(2) **Additional punishment.—** — The punishment provided in paragraph (1) shall be in addition and consecutive to the punishment provided for the violation described in subsection (a) or (b).
 
 ### Statutory Notes
 
 #### References in Text
-The Sex Offender Registration and Notification Act, referred to in subsec. (a)(1), (2)(A), (3), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 16901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16901&num=0&edition=prelim) and Tables.
+The Sex Offender Registration and Notification Act, referred to in subsecs. (a)(1), (2)(A), (3), and (b)(1), (2), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 16901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16901&num=0&edition=prelim) and Tables.
 
-The Uniform Code of Military Justice, referred to in subsecs. (a)(2)(A) and (c)(1), is classified generally to chapter 47 (§ 801 et seq.) of Title 10, Armed Forces.
+The Uniform Code of Military Justice, referred to in subsecs. (a)(2)(A) and (d)(1), is classified generally to chapter 47 (§ 801 et seq.) of Title 10, Armed Forces.
+
+#### Amendments
+2016—Subsecs. (b) to (d). Pub. L. 114–119 added subsec. (b), redesignated former subsecs. (b) and (c) as (c) and (d), respectively, and in subsecs. (c) and (d), substituted “subsection (a) or (b)” for “subsection (a)” wherever appearing.

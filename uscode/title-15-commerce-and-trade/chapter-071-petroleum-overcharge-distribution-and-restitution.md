@@ -12,15 +12,15 @@ source: >-
 
 (1) specifies the procedure for the disbursement of funds collected, including interest thereon, by the Secretary or the courts pursuant to the Emergency Petroleum Allocation Act of 1973 [[15 U.S.C. 751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section751&num=0&edition=prelim) et seq.] or the Economic Stabilization Act of 1970 (and the regulations issued thereunder) as restitution for actual or alleged violations of such Acts or regulations; and
 
-(2) subject to subsection (c) of this section, applies to—
+(2) subject to subsection (c), applies to—
 
   (A) any amount of such funds held in escrow by the Secretary through accounts administered by the Secretary of the Treasury on or after October 21, 1986; and
 
   (B) any amount of such funds determined at any time, pursuant to judicial or administrative proceedings (including any settlement agreement or declaratory judgment) instituted by the Secretary to enforce such Acts and regulations, to be amounts paid for such actual or alleged violations, including any such amounts held in escrow by any court.
 
-**(b) Special rule** Amounts described in subsection (a)(2) of this section and held in an escrow account by a court before October 21, 1986, may continue to be held by such court but shall be disbursed, together with any interest thereon, by the Secretary or, as appropriate, by the court only in accordance with the provisions of this chapter.
+**(b) Special rule** Amounts described in subsection (a)(2) and held in an escrow account by a court before October 21, 1986, may continue to be held by such court but shall be disbursed, together with any interest thereon, by the Secretary or, as appropriate, by the court only in accordance with the provisions of this chapter.
 
-**(c) Exclusions** Subsection (a)(2) of this section does not apply to—
+**(c) Exclusions** Subsection (a)(2) does not apply to—
 
 (1) any amount actually disbursed before October 21, 1986, to any person or class of persons pursuant to section 155 of Public Law 97–377 or any final judicial or administrative order or judgment (including any settlement agreement or declaratory judgment);
 
@@ -28,13 +28,13 @@ source: >-
 
 (3) any amount designated by judicial or administrative order or judgment (including any settlement agreement or declaratory judgment) for disbursement at any time to any specific person or class of persons—
 
-  (A) identified in such order or judgment as injured by the violation or alleged violation of the Acts described in subsection (a)(1) of this section (including the regulations thereunder); or
+  (A) identified in such order or judgment as injured by the violation or alleged violation of the Acts described in subsection (a)(1) (including the regulations thereunder); or
 
   (B) identified in such order or judgment issued before October 21, 1986, for indirect restitution.
 
-**(d) Escrow accounts** Subject to subsections (b) and (c) of this section, the amounts covered by subsection (a) of this section shall be held in appropriate escrow accounts administered for the Secretary by the Secretary of the Treasury.
+**(d) Escrow accounts** Subject to subsections (b) and (c), the amounts covered by subsection (a) shall be held in appropriate escrow accounts administered for the Secretary by the Secretary of the Treasury.
 
-**(e) Interest** Consistent with the disbursement requirements of this chapter, the Secretary of the Treasury shall provide that amounts described in subsection (a) of this section shall earn interest at the maximum rate earned on investments of Federal trust funds by the Secretary of the Treasury in short-term and long-term securities issued by the Federal Government (including minority bank investments).
+**(e) Interest** Consistent with the disbursement requirements of this chapter, the Secretary of the Treasury shall provide that amounts described in subsection (a) shall earn interest at the maximum rate earned on investments of Federal trust funds by the Secretary of the Treasury in short-term and long-term securities issued by the Federal Government (including minority bank investments).
 
 ### Statutory Notes
 
@@ -92,7 +92,7 @@ Section 4502(c) and (d) of this title, referred to in text, was repealed by [sec
 ## § 4504. Statute of limitation
 **(a) In general**
 
-(1) Except as provided in subsection (b) of this section, the commencement of a civil enforcement action shall be barred unless such action is commenced before the later of—
+(1) Except as provided in subsection (b), the commencement of a civil enforcement action shall be barred unless such action is commenced before the later of—
 
   (A) September 30, 1988; or
 
@@ -108,7 +108,7 @@ Section 4502(c) and (d) of this title, referred to in text, was repealed by [sec
 
 **(b) Exceptions**
 
-(1) In computing the periods established in subparagraphs (A) and (B) of subsection (a)(1) of this section, there shall be excluded any period—
+(1) In computing the periods established in subparagraphs (A) and (B) of subsection (a)(1), there shall be excluded any period—
 
   (A) during which any person who is or may become the subject of a civil enforcement action is outside the United States, has absconded or concealed himself, or is not subject to legal process;
 
@@ -116,15 +116,15 @@ Section 4502(c) and (d) of this title, referred to in text, was repealed by [sec
 
   (C) occurring before full compliance with any subpoena or special report order issued to any person under [section 772 of this title](./chapter-16b-federal-energy-administration.md#section-772), and such additional period (not to exceed 12 calendar months) after such compliance for the Secretary to consider the results thereof and commence a civil enforcement action;
 
-  (D) during the pendency of any relevant criminal action under the Acts or regulations described in subsection (a)(1) of this section during which a civil enforcement action is held in abeyance as a result of prosecutorial discretion and with or without a stay, and such additional period (not to exceed 12 calendar months) after a final judicial order or dismissal of such criminal action to commence a civil enforcement action;
+  (D) during the pendency of any relevant criminal action under the Acts or regulations described in subsection (a)(1) during which a civil enforcement action is held in abeyance as a result of prosecutorial discretion and with or without a stay, and such additional period (not to exceed 12 calendar months) after a final judicial order or dismissal of such criminal action to commence a civil enforcement action;
 
   (E) before the issuance of an order that constitutes final agency action on a request for adjustment from any rule, regulation, or order under [section 7194 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7194&num=0&edition=prelim), and such additional period (not to exceed 12 calendar months) to commence a civil enforcement action; or
 
-  (F) of extension, to which the Secretary and the defendant have consented in writing, before the expiration of the time periods prescribed in subsection (a)(1) of this section.
+  (F) of extension, to which the Secretary and the defendant have consented in writing, before the expiration of the time periods prescribed in subsection (a)(1).
 
-(2) The provisions of subsection (a) of this section shall not affect or apply to any civil enforcement action commenced before, on, or after October 21, 1986, and remanded by the Office of Hearings and Appeals, the Federal Energy Regulatory Commission, or the court for further action of any kind.
+(2) The provisions of subsection (a) shall not affect or apply to any civil enforcement action commenced before, on, or after October 21, 1986, and remanded by the Office of Hearings and Appeals, the Federal Energy Regulatory Commission, or the court for further action of any kind.
 
-(3) The provisions of subsection (a) of this section shall not apply to any agency orders issued under the Acts or regulations described in subsection (a)(1) of this section or to regulations issued under this chapter, other than a proposed remedial order subject to this section.
+(3) The provisions of subsection (a) shall not apply to any agency orders issued under the Acts or regulations described in subsection (a)(1) or to regulations issued under this chapter, other than a proposed remedial order subject to this section.
 
 **(c) Expression of intent**
 
@@ -132,7 +132,7 @@ Section 4502(c) and (d) of this title, referred to in text, was repealed by [sec
 
   (A) the Secretary and the Administrator of the Economic Regulatory Administration shall, to the greatest extent possible and within the time frames specified on September 12, 1986, by such Administrator to the Committee on Energy and Commerce of the House of Representatives, commence civil enforcement actions with respect to all cases known by such Administrator as of October 21, 1986, and designated by such Administrator as “prelitigation cases”, unless such an action is found not to be warranted;
 
-  (B) the Secretary and such Administrator not delay civil enforcement actions so as to cause the limitation in subsection (a)(1) of this section to apply to any such case;
+  (B) the Secretary and such Administrator not delay civil enforcement actions so as to cause the limitation in subsection (a)(1) to apply to any such case;
 
   (C) any negotiations for the purpose of settlement of alleged violations not delay the commencement of a civil enforcement action; and
 
@@ -140,7 +140,7 @@ Section 4502(c) and (d) of this title, referred to in text, was repealed by [sec
 
 (2) Any failure to comply with the time frames described in paragraph (1)(A) shall not be considered for any purpose in any administrative or judicial proceeding subsequently commenced.
 
-**(d) End of investigations and audits** Notwithstanding any other provision of law, the Secretary shall not initiate, after January 1, 1987, any audit or investigation of alleged civil violations of the Acts or regulations described in subsection (a)(1) of this section for the purpose of commencement of any civil enforcement action. Nothing in this subsection shall affect or apply to any audit or investigation conducted with respect to any civil enforcement action commenced (within the limitation established by subsection (a)(1) of this section) before, on, or after October 21, 1986. Nothing in this subsection shall limit the authority of the Secretary to continue any audit or investigation initiated before January 1, 1987.
+**(d) End of investigations and audits** Notwithstanding any other provision of law, the Secretary shall not initiate, after January 1, 1987, any audit or investigation of alleged civil violations of the Acts or regulations described in subsection (a)(1) for the purpose of commencement of any civil enforcement action. Nothing in this subsection shall affect or apply to any audit or investigation conducted with respect to any civil enforcement action commenced (within the limitation established by subsection (a)(1)) before, on, or after October 21, 1986. Nothing in this subsection shall limit the authority of the Secretary to continue any audit or investigation initiated before January 1, 1987.
 
 **(e) Limitation on review** Any review of a final agency action determined under section 7193 or 7194 of title 42 may not be initiated in any court by any person subject to such action after—
 
@@ -184,7 +184,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 <a id="section-4505"></a>
 ## § 4505. Reports
-**(a) Report on receipts and disbursements** The Secretary shall transmit, not later than 60 days after October 21, 1986, a report to the committees referred to in subsection (d) of this section containing a clear and complete statement of all receipts, disbursements, and commitments of restitutionary amounts, as of October 21, 1986, by the Secretary pursuant to—
+**(a) Report on receipts and disbursements** The Secretary shall transmit, not later than 60 days after October 21, 1986, a report to the committees referred to in subsection (d) containing a clear and complete statement of all receipts, disbursements, and commitments of restitutionary amounts, as of October 21, 1986, by the Secretary pursuant to—
 
 (1) any judicial or administrative proceeding (including any settlement agreement or declaratory judgment) instituted at any time by the Secretary to enforce the crude oil and petroleum product pricing and allocation regulations issued under the Emergency Petroleum Allocation Act of 1973 [[15 U.S.C. 751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section751&num=0&edition=prelim) et seq.] or the Economic Stabilization Act of 1970; or
 
@@ -215,7 +215,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 ## § 4506. Termination
 **(a) In general**
 
-(1) Except as provided in subsection (b) of this section, the provisions of this chapter (other than [section 4504 of this title](./chapter-071-petroleum-overcharge-distribution-and-restitution.md#section-4504)) shall terminate 90 days after the Secretary—
+(1) Except as provided in subsection (b), the provisions of this chapter (other than [section 4504 of this title](./chapter-071-petroleum-overcharge-distribution-and-restitution.md#section-4504)) shall terminate 90 days after the Secretary—
 
   (A) determines that all of the restitutionary amounts to which [section 4501(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4501/a&num=0&edition=prelim) applies have been collected and disbursed as provided in this chapter; and
 

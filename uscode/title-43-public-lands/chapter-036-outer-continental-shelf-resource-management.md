@@ -216,10 +216,10 @@ Pub. L. 97–212, § 9, June 30, 1982, 96 Stat. 147, provided that: “(a) Excep
 
   (A) revenues received from investments made under paragraph (3);
 
-  (B) amounts collected under subsection (b) of this section; and
+  (B) amounts collected under subsection (b); and
 
   (C) amounts recovered by the Secretary under [section 1845(h)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1845/h/2&num=0&edition=prelim).
-  The total amount in the Fund that is collected under subsection (b) of this section may at no time exceed $2,000,000; and the total amount in the Fund which is attributable to revenue received under paragraph (3) or recovered by the Secretary under [section 1845(h)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1845/h/2&num=0&edition=prelim) shall be expended prior to amounts collected under subsection (b) of this section. Not more than 8 percent of the total amount in the Fund may be expended in any fiscal year for paying the administrative and personnel expenses referred to in paragraph (2)(A).
+  The total amount in the Fund that is collected under subsection (b) may at no time exceed $2,000,000; and the total amount in the Fund which is attributable to revenue received under paragraph (3) or recovered by the Secretary under [section 1845(h)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1845/h/2&num=0&edition=prelim) shall be expended prior to amounts collected under subsection (b). Not more than 8 percent of the total amount in the Fund may be expended in any fiscal year for paying the administrative and personnel expenses referred to in paragraph (2)(A).
 
 (2) The Fund shall be available, as provided for in appropriation Acts solely for the payment of—
 
@@ -335,9 +335,9 @@ Amendment by Pub. L. 97–212 applicable with respect to claims for damages file
 
 <a id="section-1847"></a>
 ## § 1847. Claims procedure
-**(a) Filing requirement; time to file** Any commercial fisherman suffering damages compensable under this subchapter may file a claim for compensation with the Secretary under subsection (d)(1) of this section.
+**(a) Filing requirement; time to file** Any commercial fisherman suffering damages compensable under this subchapter may file a claim for compensation with the Secretary under subsection (d)(1).
 
-**(b) Transmittal of copy of claim to Secretary of the Interior; reference to Secretary** Upon receipt of any claim under this section, the Secretary shall transmit a copy of the claim to the Secretary of the Interior and shall take such further action regarding the claim that is required under subsection (d) of this section.
+**(b) Transmittal of copy of claim to Secretary of the Interior; reference to Secretary** Upon receipt of any claim under this section, the Secretary shall transmit a copy of the claim to the Secretary of the Interior and shall take such further action regarding the claim that is required under subsection (d).
 
 **(c) Notification to persons engaged in activities associated with Outer Continental Shelf energy activities; response of persons notified; submittal of evidence** The Secretary of the Interior shall make reasonable efforts to notify all persons known to have engaged in activities associated with Outer Continental Shelf energy activity in the vicinity. Each such person shall promptly notify the Secretary and the Secretary of the Interior as to whether he admits or denies responsibility for the damages claimed. Any such person, including lessees or permittees or their contractors or subcontractors, may submit evidence at any proceeding conducted with respect to such claim.
 
@@ -359,7 +359,7 @@ Amendment by Pub. L. 97–212 applicable with respect to claims for damages file
 
   (C) If a petition for review of an initial determination is timely filed under subparagraph (A), the Secretary shall allow the petitioner 30 days after the day on which the petition is received to submit written or oral evidence relating to the initial determination. The Secretary shall then undertake such review and, on the basis of such review, issue a final determination no later than the 60th day after the day on which the Secretary received the petition for review of an initial determination.
 
-**(e) Claim preparation fees; attorney’s fees** If the decision of the Secretary under subsection (d) of this section is in favor of the commercial fisherman filing the claim, the Secretary, as a part of the amount awarded, shall include reasonable claim preparation fees and reasonable attorney’s fees, if any, incurred by the claimant in pursuing the claim.
+**(e) Claim preparation fees; attorney’s fees** If the decision of the Secretary under subsection (d) is in favor of the commercial fisherman filing the claim, the Secretary, as a part of the amount awarded, shall include reasonable claim preparation fees and reasonable attorney’s fees, if any, incurred by the claimant in pursuing the claim.
 
 **(f) Powers of Secretary**
 
@@ -367,21 +367,21 @@ Amendment by Pub. L. 97–212 applicable with respect to claims for damages file
 
 (2) In any proceeding conducted pursuant to this section with respect to a claim for damages resulting from activities on any area of the Outer Continental Shelf, the Secretary shall consider evidence of obstructions in such area which have been identified pursuant to the survey conducted under section 1847 11 See References in Text note below. of this title.
 
-**(g) Place of proceeding** Any proceeding conducted with respect to an initial determination on a claim under subsection (d)(3)(A) of this section shall be conducted within such United States judicial district as may be mutually agreeable to the claimant and the Secretary or, if no agreement can be reached, within the United States judicial district in which the home port of the claimant is located.
+**(g) Place of proceeding** Any proceeding conducted with respect to an initial determination on a claim under subsection (d)(3)(A) shall be conducted within such United States judicial district as may be mutually agreeable to the claimant and the Secretary or, if no agreement can be reached, within the United States judicial district in which the home port of the claimant is located.
 
 **(h) Certification and disbursement of award; subrogation of rights; payment of costs of proceedings**
 
-(1) The amount awarded in an initial determination by the Secretary under subsection (d) of this section shall be immediately disbursed, subject to the limitations of this section, by the Secretary if the claimant—
+(1) The amount awarded in an initial determination by the Secretary under subsection (d) shall be immediately disbursed, subject to the limitations of this section, by the Secretary if the claimant—
 
   (A) states in writing that he will not petition for review of the initial determination; and
 
-  (B) enters into an agreement with the Secretary to repay to the Secretary all or any part of the amount of the award if, after review under subsection (d)(3)(C) of this section or, if applicable, after judicial review, the amount of the award, or any part thereof, is not sustained.
+  (B) enters into an agreement with the Secretary to repay to the Secretary all or any part of the amount of the award if, after review under subsection (d)(3)(C) or, if applicable, after judicial review, the amount of the award, or any part thereof, is not sustained.
 
 (2) Upon payment of a claim by the Secretary pursuant to this subsection, the Secretary shall acquire by subrogation all rights of the claimant against any person found to be responsible for the damages with respect to which such claim was made. Any moneys recovered by the Secretary through subrogation shall be deposited into the Fund.
 
 (3) Any person who denies responsibility for damages with respect to which a claim is made and who is subquently 22 So in original. Probably should be “subsequently”. found to be responsible for such damages, and any commercial fisherman who files a claim for damages and who is subsequently found to be responsible for such damages, shall pay the costs of the proceedings under this section with respect to such claim.
 
-**(i) Judicial review** Any claimant or other person who suffers a legal wrong or who is adversely affected or aggrieved by a final determination of the Secretary under subsection (d) of this section, may, no later than 30 days after such determination is made, seek judicial review of the determination in the United States district court for such United States judicial district as may be mutually agreeable to the parties concerned or, if no agreement can be reached, in the United States district court for the United States judicial district in which is located the home port of the claimant.
+**(i) Judicial review** Any claimant or other person who suffers a legal wrong or who is adversely affected or aggrieved by a final determination of the Secretary under subsection (d), may, no later than 30 days after such determination is made, seek judicial review of the determination in the United States district court for such United States judicial district as may be mutually agreeable to the parties concerned or, if no agreement can be reached, in the United States district court for the United States judicial district in which is located the home port of the claimant.
 
 ### Statutory Notes
 
@@ -389,11 +389,11 @@ Amendment by Pub. L. 97–212 applicable with respect to claims for damages file
 [Section 1847 of this title](./chapter-036-outer-continental-shelf-resource-management.md#section-1847), referred to in subsec. (f)(2), was repealed by Pub. L. 97–212, § 6(a), June 30, 1982, 96 Stat. 147.
 
 #### Amendments
-1984—Subsec. (a). Pub. L. 98–498 substituted “under subsection (d)(1) of this section” for “, except that no such claim may be filed more than 60 days after the date of discovery of the damages with respect to which such claim is made”.
+1984—Subsec. (a). Pub. L. 98–498, § 420(3), substituted “under subsection (d)(1)” for “, except that no such claim may be filed more than 60 days after the date of discovery of the damages with respect to which such claim is made”.
 
-Subsec. (d)(1). Pub. L. 98–498 inserted “time,” before “form”.
+Subsec. (d)(1). Pub. L. 98–498, § 420(4), inserted “time,” before “form”.
 
-1982—Subsec. (b). Pub. L. 97–212, § 5(1), struck out pars. (1) and (2) designations, and substituted “shall take such further action regarding the claim that is required under subsection (d) of this section” for “refer such matter to a hearing examiner appointed under [section 3105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3105&num=0&edition=prelim)”.
+1982—Subsec. (b). Pub. L. 97–212, § 5(1), struck out pars. (1) and (2) designations, and substituted “shall take such further action regarding the claim that is required under subsection (d)” for “refer such matter to a hearing examiner appointed under [section 3105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3105&num=0&edition=prelim)”.
 
 Subsec. (c). Pub. L. 97–212, § 5(2), substituted “proceeding” for “hearing”.
 
@@ -403,13 +403,13 @@ Subsec. (e). Pub. L. 97–212, § 5(4), substituted provisions that if the decis
 
 Subsec. (f). Pub. L. 97–212, § 5(5), substituted “the Secretary” for “hearing examiner” and “proceeding” for “hearing” wherever appearing. The amendment which directed the substitution of “the Secretary” for “hearing examiner” was executed by substituting “the Secretary” for “the hearing examiner”, as the probable intent of Congress, to avoid repeating the article “the” before “Secretary” in two places.
 
-Subsec. (g). Pub. L. 97–212, § 5(6), substituted “Any proceeding conducted with respect to an initial determination on a claim under subsection (d)(3)(A) of this section shall be conducted within such United States judicial district as may be mutually agreeable to the claimant and the Secretary or, if no agreement can be reached, within the United States judicial district in which the home port of the claimant is located” for “A hearing conducted under this section shall be conducted within the United States judicial district within which the matter giving rise to the claim occurred, or, if such matter occurred within two or more districts, in any of the affected districts, or, if such matter occurred outside of any district, in the nearest district”.
+Subsec. (g). Pub. L. 97–212, § 5(6), substituted “Any proceeding conducted with respect to an initial determination on a claim under subsection (d)(3)(A) shall be conducted within such United States judicial district as may be mutually agreeable to the claimant and the Secretary or, if no agreement can be reached, within the United States judicial district in which the home port of the claimant is located” for “A hearing conducted under this section shall be conducted within the United States judicial district within which the matter giving rise to the claim occurred, or, if such matter occurred within two or more districts, in any of the affected districts, or, if such matter occurred outside of any district, in the nearest district”.
 
 Subsec. (h)(1). Pub. L. 97–212, § 5(7)(A), substituted provisions that the amount awarded in an initial determination by the Secretary under subsec. (d) be immediately disbursed by the Secretary if the claimant states in writing that he will not petition for review of the initial determination and he enters into an agreement with the Secretary to repay to the Secretary all or any part of the award that is not sustained upon later judicial review for provisions that upon a decision of the hearing examiner and in absence of judicial review, any amount to be paid would be certified to the Secretary who would promptly disburse the award and that such decision of the hearing examiner was not reviewable by the Secretary.
 
 Subsec. (h)(2). Pub. L. 97–212, § 5(7)(B), inserted provision that any moneys recovered by the Secretary through subrogation shall be deposited into the Fund.
 
-Subsec. (i). Pub. L. 97–212, § 5(8), substituted “Any claimant or other person who suffers a legal wrong or who is adversely affected or aggrieved by a final determination of the Secretary under subsection (d) of this section, may, no later than 30 days after such determination is made, seek judicial review of the determination in the United States district court for such United States judicial district as may be mutually agreeable to the parties concerned or, if no agreement can be reached, in the United States district court for the United States judicial district in which is located the home port of the claimant” for “Any person who suffers legal wrong or who is adversely affected or aggrieved by the decision of a hearing examiner under this section may, no later than 60 days after such decision is made, seek judicial review of such decision in the United States court of appeals for the circuit in which the damage occurred, or if such damage occurred outside of any circuit, in the United States court of appeals for the nearest circuit”.
+Subsec. (i). Pub. L. 97–212, § 5(8), substituted “Any claimant or other person who suffers a legal wrong or who is adversely affected or aggrieved by a final determination of the Secretary under subsection (d), may, no later than 30 days after such determination is made, seek judicial review of the determination in the United States district court for such United States judicial district as may be mutually agreeable to the parties concerned or, if no agreement can be reached, in the United States district court for the United States judicial district in which is located the home port of the claimant” for “Any person who suffers legal wrong or who is adversely affected or aggrieved by the decision of a hearing examiner under this section may, no later than 60 days after such decision is made, seek judicial review of such decision in the United States court of appeals for the circuit in which the damage occurred, or if such damage occurred outside of any circuit, in the United States court of appeals for the nearest circuit”.
 
 #### Effective Date of 1982 Amendment
 Amendment by Pub. L. 97–212 applicable with respect to claims for damages filed on or after June 30, 1982, with the Secretary of Commerce under [section 1845(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1845/a&num=0&edition=prelim), with provision for the refiling of previously filed claims under certain circumstances, see section 9 of Pub. L. 97–212, set out as a note under [section 1841 of this title](./chapter-036-outer-continental-shelf-resource-management.md#section-1841).

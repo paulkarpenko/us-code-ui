@@ -111,7 +111,7 @@ Pub. L. 95–297, § 1, June 19, 1978, 92 Stat. 322, provided: “That this Act 
 
 <a id="section-2802"></a>
 ## § 2802. Franchise relationship
-**(a) General prohibition against termination or nonrenewal** Except as provided in subsection (b) of this section and [section 2803 of this title](./chapter-055-petroleum-marketing-practices.md#section-2803), no franchisor engaged in the sale, consignment, or distribution of motor fuel in commerce may—
+**(a) General prohibition against termination or nonrenewal** Except as provided in subsection (b) and [section 2803 of this title](./chapter-055-petroleum-marketing-practices.md#section-2803), no franchisor engaged in the sale, consignment, or distribution of motor fuel in commerce may—
 
 (1) terminate any franchise (entered into or renewed on or after June 19, 1978) prior to the conclusion of the term, or the expiration date, stated in the franchise; or
 
@@ -205,7 +205,7 @@ Pub. L. 95–297, § 1, June 19, 1978, 92 Stat. 322, provided: “That this Act 
 
       (II) if applicable, offered the franchisee a right of first refusal of at least 45-days duration of an offer, made by another, to purchase such franchisor’s interest in such premises.
 
-**(c) Definition** As used in subsection (b)(2)(C) of this section, the term “an event which is relevant to the franchise relationship and as a result of which termination of the franchise or nonrenewal of the franchise relationship is reasonable” includes events such as—
+**(c) Definition** As used in subsection (b)(2)(C), the term “an event which is relevant to the franchise relationship and as a result of which termination of the franchise or nonrenewal of the franchise relationship is reasonable” includes events such as—
 
 (1) fraud or criminal misconduct by the franchisee relevant to the operation of the marketing premises;
 
@@ -261,9 +261,9 @@ Pub. L. 95–297, § 1, June 19, 1978, 92 Stat. 322, provided: “That this Act 
 
 **(d) Compensation, etc., for franchisee upon condemnation or destruction of marketing premises** In the case of any termination of a franchise (entered into or renewed on or after June 19, 1978), or in the case of any nonrenewal of a franchise relationship (without regard to the date on which such franchise relationship was entered into or renewed)—
 
-(1) if such termination or nonrenewal is based upon an event described in subsection (c)(5) of this section, the franchisor shall fairly apportion between the franchisor and the franchisee compensation, if any, received by the franchisor based upon any loss of business opportunity or good will; and
+(1) if such termination or nonrenewal is based upon an event described in subsection (c)(5), the franchisor shall fairly apportion between the franchisor and the franchisee compensation, if any, received by the franchisor based upon any loss of business opportunity or good will; and
 
-(2) if such termination or nonrenewal is based upon an event described in subsection (c)(7) of this section and the leased marketing premises are subsequently rebuilt or replaced by the franchisor and operated under a franchise, the franchisor shall, within a reasonable period of time, grant to the franchisee a right of first refusal of the franchise under which such premises are to be operated.
+(2) if such termination or nonrenewal is based upon an event described in subsection (c)(7) and the leased marketing premises are subsequently rebuilt or replaced by the franchisor and operated under a franchise, the franchisor shall, within a reasonable period of time, grant to the franchisee a right of first refusal of the franchise under which such premises are to be operated.
 
 ### Statutory Notes
 
@@ -338,13 +338,13 @@ Subsec. (c)(4). Pub. L. 103–371, § 3, redesignated portion of introductory la
 ## § 2804. Notification of termination or nonrenewal of franchise relationship
 **(a) General requirements applicable to franchisor** Prior to termination of any franchise or nonrenewal of any franchise relationship, the franchisor shall furnish notification of such termination or such nonrenewal to the franchisee who is a party to such franchise or such franchise relationship—
 
-(1) in the manner described in subsection (c) of this section; and
+(1) in the manner described in subsection (c); and
 
-(2) except as provided in subsection (b) of this section, not less than 90 days prior to the date on which such termination or nonrenewal takes effect.
+(2) except as provided in subsection (b), not less than 90 days prior to the date on which such termination or nonrenewal takes effect.
 
 **(b) Additional requirements applicable to franchisor**
 
-(1) In circumstances in which it would not be reasonable for the franchisor to furnish notification, not less than 90 days prior to the date on which termination or nonrenewal takes effect, as required by subsection (a)(2) of this section—
+(1) In circumstances in which it would not be reasonable for the franchisor to furnish notification, not less than 90 days prior to the date on which termination or nonrenewal takes effect, as required by subsection (a)(2)—
 
   (A) such franchisor shall furnish notification to the franchisee affected thereby on the earliest date on which furnishing of such notification is reasonably practicable; and
 
@@ -376,7 +376,7 @@ Subsec. (c)(4). Pub. L. 103–371, § 3, redesignated portion of introductory la
 
   (B) the date on which such termination or nonrenewal takes effect; and
 
-  (C) the summary statement prepared under subsection (d) of this section.
+  (C) the summary statement prepared under subsection (d).
 
 **(d) Preparation, publication, etc., of statutory summaries**
 
@@ -395,9 +395,9 @@ Subsec. (c)(4). Pub. L. 103–371, § 3, redesignated portion of introductory la
 
 **(b) Equitable relief by court; bond requirements; grounds for nonexercise of court’s equitable powers**
 
-(1) In any action under subsection (a) of this section, the court shall grant such equitable relief as the court determines is necessary to remedy the effects of any failure to comply with the requirements of section 2802, 2803, or 2807 of this title, including declaratory judgment, mandatory or prohibitive injunctive relief, and interim equitable relief.
+(1) In any action under subsection (a), the court shall grant such equitable relief as the court determines is necessary to remedy the effects of any failure to comply with the requirements of section 2802, 2803, or 2807 of this title, including declaratory judgment, mandatory or prohibitive injunctive relief, and interim equitable relief.
 
-(2) Except as provided in paragraph (3), in any action under subsection (a) of this section, the court shall grant a preliminary injunction if—
+(2) Except as provided in paragraph (3), in any action under subsection (a), the court shall grant a preliminary injunction if—
 
   (A) the franchisee shows—
 
@@ -407,9 +407,9 @@ Subsec. (c)(4). Pub. L. 103–371, § 3, redesignated portion of introductory la
 
   (B) the court determines that, on balance, the hardships imposed upon the franchisor by the issuance of such preliminary injunctive relief will be less than the hardship which would be imposed upon such franchisee if such preliminary injunctive relief were not granted.
 
-(3) Nothing in this subsection prevents any court from requiring the franchisee in any action under subsection (a) of this section to post a bond, in an amount established by the court, prior to the issuance or continuation of any equitable relief.
+(3) Nothing in this subsection prevents any court from requiring the franchisee in any action under subsection (a) to post a bond, in an amount established by the court, prior to the issuance or continuation of any equitable relief.
 
-(4) In any action under subsection (a) of this section, the court need not exercise its equity powers to compel continuation or renewal of the franchise relationship if such action was commenced—
+(4) In any action under subsection (a), the court need not exercise its equity powers to compel continuation or renewal of the franchise relationship if such action was commenced—
 
   (A) more than 90 days after the date on which notification pursuant to [section 2804(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2804/a&num=0&edition=prelim) was posted or personally delivered to the franchisee;
 
@@ -417,11 +417,11 @@ Subsec. (c)(4). Pub. L. 103–371, § 3, redesignated portion of introductory la
 
   (C) more than 30 days after the date on which the termination of such franchise or the nonrenewal of such franchise relationship takes effect if less than 90 days notification was provided pursuant to [section 2804(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2804/b/1&num=0&edition=prelim).
 
-**(c) Burden of proof; burden of going forward with evidence** In any action under subsection (a) of this section, the franchisee shall have the burden of proving the termination of the franchise or the nonrenewal of the franchise relationship. The franchisor shall bear the burden of going forward with evidence to establish as an affirmative defense that such termination or nonrenewal was permitted under section 2802(b) or 2803 of this title, and, if applicable, that such franchisor complied with the requirements of [section 2802(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2802/d&num=0&edition=prelim).
+**(c) Burden of proof; burden of going forward with evidence** In any action under subsection (a), the franchisee shall have the burden of proving the termination of the franchise or the nonrenewal of the franchise relationship. The franchisor shall bear the burden of going forward with evidence to establish as an affirmative defense that such termination or nonrenewal was permitted under section 2802(b) or 2803 of this title, and, if applicable, that such franchisor complied with the requirements of [section 2802(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2802/d&num=0&edition=prelim).
 
 **(d) Actual and exemplary damages and attorney and expert witness fees to franchisee; determination by court of right to exemplary damages and amount; attorney and expert witness fees to franchisor for frivolous actions**
 
-(1) If the franchisee prevails in any action under subsection (a) of this section, such franchisee shall be entitled—
+(1) If the franchisee prevails in any action under subsection (a), such franchisee shall be entitled—
 
   (A) consistent with the Federal Rules of Civil Procedure, to actual damages;
 
@@ -431,11 +431,11 @@ Subsec. (c)(4). Pub. L. 103–371, § 3, redesignated portion of introductory la
 
 (2) The question of whether to award exemplary damages and the amount of any such award shall be determined by the court and not by a jury.
 
-(3) In any action under subsection (a) of this section, the court may, in its discretion, direct that reasonable attorney and expert witness fees be paid by the franchisee if the court finds that such action is frivolous.
+(3) In any action under subsection (a), the court may, in its discretion, direct that reasonable attorney and expert witness fees be paid by the franchisee if the court finds that such action is frivolous.
 
 **(e) Discretionary power of court to compel continuation or renewal of franchise relationship; grounds for noncompulsion; right of franchisee to actual damages and attorney and expert witness fees unaffected**
 
-(1) In any action under subsection (a) of this section with respect to a failure of a franchisor to renew a franchise relationship in compliance with the requirements of [section 2802 of this title](./chapter-055-petroleum-marketing-practices.md#section-2802), the court may not compel a continuation or renewal of the franchise relationship if the franchisor demonstrates to the satisfaction of the court that—
+(1) In any action under subsection (a) with respect to a failure of a franchisor to renew a franchise relationship in compliance with the requirements of [section 2802 of this title](./chapter-055-petroleum-marketing-practices.md#section-2802), the court may not compel a continuation or renewal of the franchise relationship if the franchisor demonstrates to the satisfaction of the court that—
 
   (A) the basis for such nonrenewal is a determination made by the franchisor in good faith and in the normal course of business—
 
@@ -451,7 +451,7 @@ Subsec. (c)(4). Pub. L. 103–371, § 3, redesignated portion of introductory la
 
   (B) the requirements of [section 2804 of this title](./chapter-055-petroleum-marketing-practices.md#section-2804) have been complied with.
 
-(2) The provisions of paragraph (1) shall not affect any right of any franchisee to recover actual damages and reasonable attorney and expert witness fees under subsection (d) of this section if such nonrenewal is prohibited by [section 2802 of this title](./chapter-055-petroleum-marketing-practices.md#section-2802).
+(2) The provisions of paragraph (1) shall not affect any right of any franchisee to recover actual damages and reasonable attorney and expert witness fees under subsection (d) if such nonrenewal is prohibited by [section 2802 of this title](./chapter-055-petroleum-marketing-practices.md#section-2802).
 
 **(f) Release or waiver of rights**
 
@@ -655,11 +655,11 @@ Pub. L. 102–486, title XV, § 1501(d)(2), Oct. 24, 1992, 106 Stat. 2997, provi
 
 **(c) Display of automotive fuel rating by automotive fuel retailer; use of automotive fuel rating for display** Each automotive fuel retailer shall display in a clear and conspicuous manner, at the point of sale to ultimate purchasers of automotive fuel, the automotive fuel rating of such automotive fuel, which automotive fuel rating shall be consistent with—
 
-(1) the automotive fuel rating of such automotive fuel certified to such retailer under subsection (a)(2) or (b) of this section;
+(1) the automotive fuel rating of such automotive fuel certified to such retailer under subsection (a)(2) or (b);
 
 (2) if such automotive fuel retailer elects (at such time and in such manner as the Federal Trade Commission may, by rule, prescribe), the automotive fuel rating of such automotive fuel determined by such retailer for such automotive fuel; or
 
-(3) if such automotive fuel retailer is a refiner, the automotive fuel rating of such automotive fuel determined under subsection (a)(1) of this section.
+(3) if such automotive fuel retailer is a refiner, the automotive fuel rating of such automotive fuel determined under subsection (a)(1).
 
 **(d) Display or representation of automotive fuel requirements for new motor vehicles by manufacturer of such vehicles; promulgation of rules by Federal Trade Commission** The Federal Trade Commission shall, by rule, prescribe requirements, applicable to any manufacturer of new motor vehicles, with respect to the display on each such motor vehicle (or representation in connection with the sale of each such motor vehicle) of the automotive fuel requirement of such motor vehicle.
 
@@ -677,7 +677,7 @@ Pub. L. 102–486, title XV, § 1501(d)(2), Oct. 24, 1992, 106 Stat. 2997, provi
 
 (2) to the identification of automotive fuel at the point of sale (or elsewhere) by the trademark, trade name, or other identifying symbol or mark used in connection with the sale of such fuel.
 
-**(h) Display or representation of automotive fuel requirement of motor vehicle not to create express or implied warranty under State or Federal law respecting knocking characteristics of automotive fuel** Any display or representation, with respect to the automotive fuel requirement of any motor vehicle, required to be made under any rule prescribed under subsection (d) of this section shall not create an express or implied warranty under State or Federal law that any automotive fuel the automotive fuel rating of which equals or exceeds such automotive fuel requirement—
+**(h) Display or representation of automotive fuel requirement of motor vehicle not to create express or implied warranty under State or Federal law respecting knocking characteristics of automotive fuel** Any display or representation, with respect to the automotive fuel requirement of any motor vehicle, required to be made under any rule prescribed under subsection (d) shall not create an express or implied warranty under State or Federal law that any automotive fuel the automotive fuel rating of which equals or exceeds such automotive fuel requirement—
 
 (1) may be used as a fuel in all motor vehicles of the same class as that motor vehicle without knocking; or
 
@@ -748,7 +748,7 @@ Section 1503 of Pub. L. 102–486 directed Administrator of Environmental Protec
 
 (1) Except as provided in paragraph (2), rules under this subchapter shall be prescribed in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), except that interested persons shall be afforded an opportunity to present written and oral data, views, and arguments with respect to any proposed rule.
 
-(2) Rules prescribed under subsection (c)(3) of this section and [section 2822(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2822/d&num=0&edition=prelim) shall be prescribed on the record after opportunity for an agency hearing.
+(2) Rules prescribed under subsection (c)(3) and [section 2822(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2822/d&num=0&edition=prelim) shall be prescribed on the record after opportunity for an agency hearing.
 
 (3) Section 18 of the Federal Trade Commission Act ([15 U.S.C. 57a](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-57a)) shall not apply with respect to any rule prescribed under this subchapter.
 
@@ -777,9 +777,9 @@ Subsec. (b) of this section effective on first day of first calendar month begin
 
 <a id="section-2824"></a>
 ## § 2824. Relationship of statutory provisions to State and local laws
-**(a)** To the extent that any provision of this subchapter applies to any act or omission, no State or any political subdivision thereof may adopt or continue in effect, except as provided in subsection (b) of this section, any provision of law or regulation with respect to such act or omission, unless such provision of such law or regulation is the same as the applicable provision of this subchapter.
+**(a)** To the extent that any provision of this subchapter applies to any act or omission, no State or any political subdivision thereof may adopt or continue in effect, except as provided in subsection (b), any provision of law or regulation with respect to such act or omission, unless such provision of such law or regulation is the same as the applicable provision of this subchapter.
 
-**(b)** A State or political subdivision thereof may provide for any investigative or enforcement action, remedy, or penalty (including procedural actions necessary to carry out such investigative or enforcement actions, remedies, or penalties) with respect to any provision of law or regulation permitted by subsection (a) of this section.
+**(b)** A State or political subdivision thereof may provide for any investigative or enforcement action, remedy, or penalty (including procedural actions necessary to carry out such investigative or enforcement actions, remedies, or penalties) with respect to any provision of law or regulation permitted by subsection (a).
 
 ### Statutory Notes
 

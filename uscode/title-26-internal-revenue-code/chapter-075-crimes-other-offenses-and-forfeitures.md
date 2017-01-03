@@ -2,7 +2,7 @@
 title: 26
 chapter: '75'
 heading: 'CRIMES, OTHER OFFENSES, AND FORFEITURES'
-section_count: 59
+section_count: 60
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
@@ -328,7 +328,7 @@ knowing that such statement is false or that the tax is not so great as the port
 
 (1) **Federal employees and other persons** — It shall be unlawful for any officer or employee of the United States or any person described in section 6103(n) (or an officer or employee of any such person), or any former officer or employee, willfully to disclose to any person, except as authorized in this title, any return or return information (as defined in section 6103(b)). Any violation of this paragraph shall be a felony punishable upon conviction by a fine in any amount not exceeding $5,000, or imprisonment of not more than 5 years, or both, together with the costs of prosecution, and if such offense is committed by any officer or employee of the United States, he shall, in addition to any other punishment, be dismissed from office or discharged from employment upon conviction for such offense.
 
-(2) **State and other employees** — It shall be unlawful for any person (not described in paragraph (1)) willfully to disclose to any person, except as authorized in this title, any return or return information (as defined in section 6103(b)) acquired by him or another person under subsection (d), (i)(3)(B)(i) or (7)(A)(ii), (k)(10), (l)(6), (7), (8), (9), (10), (12), (15), (16), (19), (20), or (21) or (m)(2), (4), (5), (6), or (7) of section 6103 or under section 6104(c). Any violation of this paragraph shall be a felony punishable by a fine in any amount not exceeding $5,000, or imprisonment of not more than 5 years, or both, together with the costs of prosecution.
+(2) **State and other employees** — It shall be unlawful for any person (not described in paragraph (1)) willfully to disclose to any person, except as authorized in this title, any return or return information (as defined in section 6103(b)) acquired by him or another person under subsection (d), (i)(1)(C), (3)(B)(i), or (7)(A)(ii), (k)(10), (l)(6), (7), (8), (9), (10), (12), (15), (16), (19), (20), or (21) or (m)(2), (4), (5), (6), or (7) of section 6103 or under section 6104(c). Any violation of this paragraph shall be a felony punishable by a fine in any amount not exceeding $5,000, or imprisonment of not more than 5 years, or both, together with the costs of prosecution.
 
 (3) **Other persons** — It shall be unlawful for any person to whom any return or return information (as defined in section 6103(b)) is disclosed in a manner unauthorized by this title thereafter willfully to print or publish in any manner not provided by law any such return or return information. Any violation of this paragraph shall be a felony punishable by a fine in any amount not exceeding $5,000, or imprisonment of not more than 5 years, or both, together with the costs of prosecution.
 
@@ -351,6 +351,8 @@ knowing that such statement is false or that the tax is not so great as the port
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a)(2). Pub. L. 114–184 substituted “(i)(1)(C), (3)(B)(i),” for “(i)(3)(B)(i)”.
+
 2013—Subsec. (a)(2). Pub. L. 112–240 inserted “(k)(10),” before “(l)(6),”.
 
 2010—Subsec. (a)(2). Pub. L. 111–148 substituted “(20), or (21)” for “or (20)”.
@@ -1310,3 +1312,68 @@ The term “person” as used in this chapter includes an officer or employee of
 ## § 7344. Extended application of penalties relating to officers of the Treasury Department
 
 All provisions of law imposing fines, penalties, or other punishment for offenses committed by an internal revenue officer or other officer of the Department of the Treasury, or under any agency or office thereof, shall apply to all persons whomsoever, employed, appointed, or acting under the authority of any internal revenue law, or any revenue provision of any law of the United States, when such persons are designated or acting as officers or employees in connection with such law, or are persons having the custody or disposition of any public money.
+
+
+<a id="section-7345"></a>
+## § 7345. Revocation or denial of passport in case of certain tax delinquencies
+**(a) In general** If the Secretary receives certification by the Commissioner of Internal Revenue that an individual has a seriously delinquent tax debt, the Secretary shall transmit such certification to the Secretary of State for action with respect to denial, revocation, or limitation of a passport pursuant to section 32101 of the FAST Act.
+
+**(b) Seriously delinquent tax debt**
+
+(1) **In general** — For purposes of this section, the term “seriously delinquent tax debt” means an unpaid, legally enforceable Federal tax liability of an individual—
+
+  (A) which has been assessed,
+
+  (B) which is greater than $50,000, and
+
+  (C) with respect to which—
+
+    (i) a notice of lien has been filed pursuant to section 6323 and the administrative rights under section 6320 with respect to such filing have been exhausted or have lapsed, or
+
+    (ii) a levy is made pursuant to section 6331.
+
+(2) **Exceptions** — Such term shall not include—
+
+  (A) a debt that is being paid in a timely manner pursuant to an agreement to which the individual is party under section 6159 or 7122, and
+
+  (B) a debt with respect to which collection is suspended with respect to the individual—
+
+    (i) because a due process hearing under section 6330 is requested or pending, or
+
+    (ii) because an election under subsection (b) or (c) of section 6015 is made or relief under subsection (f) of such section is requested.
+
+**(c) Reversal of certification**
+
+(1) **In general** — In the case of an individual with respect to whom the Commissioner makes a certification under subsection (a), the Commissioner shall notify the Secretary (and the Secretary shall subsequently notify the Secretary of State) if such certification is found to be erroneous or if the debt with respect to such certification is fully satisfied or ceases to be a seriously delinquent tax debt by reason of subsection (b)(2).
+
+(2) **Timing of notice**
+
+  (A) *Full satisfaction of debt* — In the case of a debt that has been fully satisfied or has become legally unenforceable, such notification shall be made not later than the date required for issuing the certificate of release of lien with respect to such debt under section 6325(a).
+
+  (B) *Innocent spouse relief* — In the case of an individual who makes an election under subsection (b) or (c) of section 6015, or requests relief under subsection (f) of such section, such notification shall be made not later than 30 days after any such election or request.
+
+  (C) *Installment agreement or offer-in-compromise* — In the case of an installment agreement under section 6159 or an offer-in-compromise under section 7122, such notification shall be made not later than 30 days after such agreement is entered into or such offer is accepted by the Secretary.
+
+  (D) *Erroneous certification* — In the case of a certification found to be erroneous, such notification shall be made as soon as practicable after such finding.
+
+**(d) Contemporaneous notice to individual** The Commissioner shall contemporaneously notify an individual of any certification under subsection (a), or any reversal of certification under subsection (c), with respect to such individual. Such notice shall include a description in simple and nontechnical terms of the right to bring a civil action under subsection (e).
+
+**(e) Judicial review of certification**
+
+(1) **In general** — After the Commissioner notifies an individual under subsection (d), the taxpayer may bring a civil action against the United States in a district court of the United States or the Tax Court to determine whether the certification was erroneous or whether the Commissioner has failed to reverse the certification.
+
+(2) **Determination** — If the court determines that such certification was erroneous, then the court may order the Secretary to notify the Secretary of State that such certification was erroneous.
+
+**(f) Adjustment for inflation** In the case of a calendar year beginning after 2016, the dollar amount in subsection (a) shall be increased by an amount equal to—
+
+(1) such dollar amount, multiplied by
+
+(2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2015” for “calendar year 1992” in subparagraph (B) thereof.
+If any amount as adjusted under the preceding sentence is not a multiple of $1,000, such amount shall be rounded to the nearest multiple of $1,000.
+
+**(g) Delegation of certification** A certification under subsection (a) or reversal of certification under subsection (c) may only be delegated by the Commissioner of Internal Revenue to the Deputy Commissioner for Services and Enforcement, or the Commissioner of an operating division, of the Internal Revenue Service.
+
+### Statutory Notes
+
+#### References in Text
+Section 32101 of the FAST Act, referred to in subsec. (a), is section 32101 of Pub. L. 114–94, which enacted this section and [section 2714a of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2714a&num=0&edition=prelim), Foreign Relations and Intercourse, and amended sections 6103, 6320, 6331, and 7508 of this title.

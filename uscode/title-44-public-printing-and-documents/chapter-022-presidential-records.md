@@ -71,7 +71,7 @@ The United States shall reserve and retain complete ownership, possession, and c
 
 (2) the Archivist states that the Archivist does not intend to take any action under subsection (e) of this section.
 
-**(d)** In the event the Archivist notifies the President under subsection (c) that the Archivist does intend to take action under subsection (e), the President may dispose of such Presidential rec­ords if copies of the disposal schedule are submitted to the appropriate Congressional Committees at least 60 calendar days of continuous session of Congress in advance of the proposed disposal date. For the purpose of this section, continuity of session is broken only by an adjournment of Congress sine die, and the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the days in which Congress is in continuous session.
+**(d)** In the event the Archivist notifies the President under subsection (c) that the Archivist does intend to take action under subsection (e), the President may dispose of such Presidential records if copies of the disposal schedule are submitted to the appropriate Congressional Committees at least 60 calendar days of continuous session of Congress in advance of the proposed disposal date. For the purpose of this section, continuity of session is broken only by an adjournment of Congress sine die, and the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the days in which Congress is in continuous session.
 
 **(e)** The Archivist shall request the advice of the Committee on Rules and Administration and the Committee on Governmental Affairs of the Senate and the Committee on House Oversight and the Committee on Government Operations of the House of Representatives with respect to any proposed disposal of Presidential records whenever the Archivist considers that—
 
@@ -87,12 +87,16 @@ The United States shall reserve and retain complete ownership, possession, and c
 
 (2) The Archivist shall deposit all such Presidential records in a Presidential archival depository or another archival facility operated by the United States. The Archivist is authorized to designate, after consultation with the former President, a director at each depository or facility, who shall be responsible for the care and preservation of such records.
 
-(3) The Archivist is authorized to dispose of such Presidential records which the Archivist has appraised and determined to have insufficient administrative, historical, informational, or evidentiary value to warrant their continued preservation. Notice of such disposal shall be published in the Federal Register at least 60 days in advance of the proposed disposal date. Publication of such notice shall constitute a final agency action for purposes of review under chapter 7 of title 5, United States Code.
+(3) When the President considers it practicable and in the public interest, the President shall include in the President’s budget transmitted to Congress, for each fiscal year in which the term of office of the President will expire, such funds as may be necessary for carrying out the authorities of this subsection.
+
+(4) The Archivist is authorized to dispose of such Presidential records which the Archivist has appraised and determined to have insufficient administrative, historical, informational, or evidentiary value to warrant their continued preservation. Notice of such disposal shall be published in the Federal Register at least 60 days in advance of the proposed disposal date. Publication of such notice shall constitute a final agency action for purposes of review under chapter 7 of title 5, United States Code.
 
 ### Statutory Notes
 
 #### Amendments
-Subsec. (a). Pub. L. 113–187, § 8(3)(A), substituted “the President’s” for “his”.
+2016—Subsec. (g)(3), (4). Pub. L. 114–136 added par. (3) and redesignated former par. (3) as (4).
+
+2014—Subsec. (a). Pub. L. 113–187, § 8(3)(A), substituted “the President’s” for “his”.
 
 Pub. L. 113–187, § 2(c)(1), substituted “preserved and maintained” for “maintained”.
 
@@ -161,7 +165,7 @@ For provisions authorizing Archivist to review, downgrade, and declassify inform
 
 (2) Any such record which does not contain information within a category restricted by the President under subsection (a), or contains information within such a category for which the duration of restricted access has expired, shall be exempt from the provisions of subsection (c) until the earlier of—
 
-  (A) the date which is 5 years after the date on which the Archivist obtains custody of such record pursuant to section 2203(d)(1);11 So in original. Probably should be “2203(g)(1);”. or
+  (A) the date which is 5 years after the date on which the Archivist obtains custody of such record pursuant to section 2203(d)(1); 11 So in original. Probably should be “2203(g)(1);”. or
 
   (B) the date on which the Archivist completes the processing and organization of such records or integral file segment thereof.
 
@@ -312,7 +316,7 @@ The Archivist shall promulgate in accordance with [section 553 of title 5](https
 ### Statutory Notes
 
 #### References in Text
-Section 2203(f)(3), referred to in par. (1), was redesignated [section 2203(g)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section2203/g/3&num=0&edition=prelim) by Pub. L. 113–187, § 2(c)(3), Nov. 26, 2014, 128 Stat. 2006.
+Section 2203(f)(3), referred to in par. (1), was redesignated [section 2203(g)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section2203/g/3&num=0&edition=prelim) by Pub. L. 113–187, § 2(c)(3), Nov. 26, 2014, 128 Stat. 2006, and subsequently redesignated [section 2203(g)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section2203/g/4&num=0&edition=prelim) by Pub. L. 114–136, § 3(1), Mar. 18, 2016, 130 Stat. 305.
 
 
 <a id="section-2207"></a>

@@ -260,11 +260,11 @@ Pub. L. 104–132, title V, § 501, Apr. 24, 1996, 110 Stat. 1281, provided that
 #### References in Text
 Section 219 of the Immigration and Nationality Act, referred to in subsec. (d)(3), is classified to [section 1189 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1189&num=0&edition=prelim), Aliens and Nationality.
 
-Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (d)(3), is classified to [section 2405(j) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2405/j&num=0&edition=prelim), Appendix, War and National Defense.
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (d)(3), is classified to [section 4605(j) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), War and National Defense.
 
 Section 620A of the Foreign Assistance Act of 1961, referred to in subsec. (d)(3), is classified to [section 2371 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371&num=0&edition=prelim), Foreign Relations and Intercourse.
 
-Section 831(f)(1), referred to in subsec. (d)(4), was redesignated as section 831(g)(1) by Pub. L. 114–23, title VIII, § 812(d), June 2, 2015, 129 Stat. 312.
+Section 831(f)(1), referred to in subsec. (d)(4), was redesignated section 831(g)(1) by Pub. L. 114–23, title VIII, § 812(d), June 2, 2015, 129 Stat. 312.
 
 #### Prior Provisions
 A prior section 832, acts June 25, 1948, ch. 645, 62 Stat. 738; Sept. 6, 1960, Pub. L. 86–710, 74 Stat. 809, related to transportation of explosives, radioactive materials, etiologic agents, and other dangerous articles, prior to repeal by Pub. L. 96–129, title II, § 216(b), Nov. 30, 1979, 93 Stat. 1015.

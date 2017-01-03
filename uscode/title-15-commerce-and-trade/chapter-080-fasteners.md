@@ -228,9 +228,9 @@ Section 5406, Pub. L. 101–592, § 7, Nov. 16, 1990, 104 Stat. 2948; Pub. L. 10
 
 (1) the fasteners bear such insignia; and
 
-(2) the manufacturer has complied with the insignia recordation requirements established under subsection (b) of this section.
+(2) the manufacturer has complied with the insignia recordation requirements established under subsection (b).
 
-**(b) Recordation** The Secretary shall establish, by regulation, a program to provide for the recordation of the insignias of manufacturers described in subsection (a) of this section.
+**(b) Recordation** The Secretary shall establish, by regulation, a program to provide for the recordation of the insignias of manufacturers described in subsection (a).
 
 ### Statutory Notes
 
@@ -240,7 +240,7 @@ A prior section 5 of Pub. L. 101–592 was classified to [section 5404 of this t
 #### Amendments
 1999—Subsec. (a). Pub. L. 106–34, § 5(1), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “No fastener which is required by the standards and specifications to which it was manufactured to bear a raised or depressed insignia identifying its manufacturer or private label distributor shall be offered for sale or sold in commerce unless the manufacturer or private label distributor of such fastener has complied with the requirements prescribed by the Secretary in connection with the program established under subsection (b) of this section.”
 
-Subsec. (b). Pub. L. 106–34, § 5(2), substituted “described in subsection (a) of this section” for “and private label distributors described in subsection (a) of this section, to ensure the traceability of a fastener to its manufacturer or private label distributor”.
+Subsec. (b). Pub. L. 106–34, § 5(2), substituted “described in subsection (a)” for “and private label distributors described in subsection (a), to ensure the traceability of a fastener to its manufacturer or private label distributor”.
 
 
 <a id="section-5408"></a>
@@ -341,7 +341,7 @@ A prior section 9 of Pub. L. 101–592 was renumbered section 6 and is classifie
 ## § 5411a. Certification and accreditation
 **(a) Certification** A person publishing a document setting forth guidance or requirements for the certification of manufacturing systems as fastener quality assurance systems by an accredited third party may petition the Director to approve such document for use as described in [section 5402(7)(B)(iii)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5402/7/B/iii/I&num=0&edition=prelim). The Director shall act upon a petition within 180 days after its filing, and shall approve such petition if the document provides equal or greater rigor and reliability as compared to ISO/IEC Guide 62.
 
-**(b) Accreditation** A person publishing a document setting forth guidance or requirements for the approval of accreditation bodies to accredit third parties described in subsection (a) of this section may petition the Director to approve such document for use as described in [section 5402(7)(B)(iii)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5402/7/B/iii/I&num=0&edition=prelim). The Director shall act upon a petition within 180 days after its filing, and shall approve such petition if the document provides equal or greater rigor and reliability as compared to ISO/IEC Guide 61.
+**(b) Accreditation** A person publishing a document setting forth guidance or requirements for the approval of accreditation bodies to accredit third parties described in subsection (a) may petition the Director to approve such document for use as described in [section 5402(7)(B)(iii)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5402/7/B/iii/I&num=0&edition=prelim). The Director shall act upon a petition within 180 days after its filing, and shall approve such petition if the document provides equal or greater rigor and reliability as compared to ISO/IEC Guide 61.
 
 **(c) Laboratory accreditation** A person publishing a document setting forth guidance or requirements for the accreditation of laboratories may petition the Director to approve such document for use as described in [section 5402(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5402/1/A&num=0&edition=prelim). The Director shall act upon a petition within 180 days after its filing, and shall approve such petition if the document provides equal or greater rigor and reliability as compared to ISO/IEC Guide 25.
 
@@ -349,9 +349,9 @@ A prior section 9 of Pub. L. 101–592 was renumbered section 6 and is classifie
 
 **(e) Affirmation**
 
-(1) An accreditation body accrediting third parties who certify manufacturing systems as fastener quality assurance systems as described in [section 5402(7)(B)(iii)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5402/7/B/iii/I&num=0&edition=prelim) shall affirm to the Director that it meets the requirements of ISO/IEC Guide 61 (or another document approved by the Director under subsection (b) of this section), including revisions from time-to-time.
+(1) An accreditation body accrediting third parties who certify manufacturing systems as fastener quality assurance systems as described in [section 5402(7)(B)(iii)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5402/7/B/iii/I&num=0&edition=prelim) shall affirm to the Director that it meets the requirements of ISO/IEC Guide 61 (or another document approved by the Director under subsection (b)), including revisions from time-to-time.
 
-(2) An accreditation body accrediting laboratories as described in [section 5402(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5402/1/B&num=0&edition=prelim) shall affirm to the Director that it meets the requirements of ISO/IEC Guide 58 (or another document approved by the Director under subsection (d) of this section), including revisions from time-to-time.
+(2) An accreditation body accrediting laboratories as described in [section 5402(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5402/1/B&num=0&edition=prelim) shall affirm to the Director that it meets the requirements of ISO/IEC Guide 58 (or another document approved by the Director under subsection (d)), including revisions from time-to-time.
 
 (3) An affirmation required under paragraph (1) or (2) shall take the form of a self-declaration that the accreditation body meets the requirements of the applicable Guide, signed by an authorized representative of the accreditation body, without requirement for accompanying documentation. Any such affirmation shall be considered to be a continuous affirmation that the accreditation body meets the requirements of the applicable Guide, unless and until the affirmation is withdrawn by the accreditation body.
 

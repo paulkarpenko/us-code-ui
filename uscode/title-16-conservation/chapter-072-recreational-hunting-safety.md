@@ -19,7 +19,7 @@ Pub. L. 103–322, title XXXII, § 320801, Sept. 13, 1994, 108 Stat. 2121, provi
 
 <a id="section-5202"></a>
 ## § 5202. Civil penalties
-**(a) In general** A person who violates [section 5201 of this title](./chapter-072-recreational-hunting-safety.md#section-5201) shall be assessed a civil penalty in an amount computed under subsection (b) of this section.
+**(a) In general** A person who violates [section 5201 of this title](./chapter-072-recreational-hunting-safety.md#section-5201) shall be assessed a civil penalty in an amount computed under subsection (b).
 
 **(b) Computation of penalty** The penalty shall be—
 

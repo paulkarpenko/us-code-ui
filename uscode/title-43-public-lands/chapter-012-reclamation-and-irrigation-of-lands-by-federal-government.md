@@ -2,7 +2,7 @@
 title: 43
 chapter: '12'
 heading: RECLAMATION AND IRRIGATION OF LANDS BY FEDERAL GOVERNMENT
-section_count: 409
+section_count: 411
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43&num=0&edition=prelim
 ---
@@ -25,6 +25,9 @@ When used in sections 371, 376, 377, 412, 417, 433, 462, 466, 478, 493, 494, 500
 
 #### References in Text
 Act June 17, 1902, referred to in par. (b), is popularly known as the Reclamation Act or National Irrigation Act of 1902, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### Short Title of 2015 Amendment
+Pub. L. 114–57, § 1, Sept. 30, 2015, 129 Stat. 528, provided that: “This Act [amending provisions set out as notes under sections 407 and 620 of this title] may be cited as the ‘New Mexico Navajo Water Settlement Technical Corrections Act’.”
 
 #### Short Title of 2009 Amendment
 Pub. L. 111–11, title X, § 10301, Mar. 30, 2009, 123 Stat. 1367, provided that: “This subtitle [subtitle B (§§ 10301–10704) of title X of Pub. L. 111–11, enacting section 407, former section 615jj, and [section 620n–1 of this title](./chapter-12b-colorado-river-storage-project.md#section-620n-1), amending former section 615ss and sections 620 and 620o of this title, repealing former [section 615jj of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section615jj&num=0&edition=prelim), and enacting provisions set out as notes under sections 407 and 620 of this title] may be cited as the ‘Northwestern New Mexico Rural Water Projects Act’.”
@@ -133,7 +136,7 @@ Repeal effective on first day of first pay period which begins on or after July 
 ## § 373b. Law enforcement authority at Bureau of Reclamation facilities
 **(a) Public safety regulations** The Secretary of the Interior shall issue regulations necessary to maintain law and order and protect persons and property within Reclamation projects and on Reclamation lands.
 
-**(b) Violations; criminal penalties** Any person who knowingly and willfully violates any regulation issued under subsection (a) of this section shall be fined under chapter 227, subchapter C of title 18, imprisoned for not more than 6 months, or both. Any person charged with a violation of a regulation issued under subsection (a) of this section may be tried and sentenced by any United States magistrate judge designated for that purpose by the court by which he was appointed, in the same manner and subject to the same conditions and limitations as provided for in [section 3401 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3401&num=0&edition=prelim).
+**(b) Violations; criminal penalties** Any person who knowingly and willfully violates any regulation issued under subsection (a) shall be fined under chapter 227, subchapter C of title 18, imprisoned for not more than 6 months, or both. Any person charged with a violation of a regulation issued under subsection (a) may be tried and sentenced by any United States magistrate judge designated for that purpose by the court by which he was appointed, in the same manner and subject to the same conditions and limitations as provided for in [section 3401 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3401&num=0&edition=prelim).
 
 **(c) Authorization of law enforcement officers** The Secretary of the Interior may—
 
@@ -145,7 +148,7 @@ Repeal effective on first day of first pay period which begins on or after July 
 
 (4) provide reimbursement to a State or local government, including an Indian tribe, for expenditures incurred in connection with activities under paragraph (2).
 
-**(d) Powers of law enforcement officers** A law enforcement officer authorized by the Secretary of the Interior under subsection (c) of this section may—
+**(d) Powers of law enforcement officers** A law enforcement officer authorized by the Secretary of the Interior under subsection (c) may—
 
 (1) carry firearms within a Reclamation project or on Reclamation lands;
 
@@ -165,11 +168,11 @@ Repeal effective on first day of first pay period which begins on or after July 
 
 **(e) Legal status of State or local law enforcement officers**
 
-(1) **State or local officers not Federal employees** — Except as otherwise provided in this section, a law enforcement officer of any State or local government, including an Indian tribe, authorized to act as a law enforcement officer under subsection (c) of this section shall not be deemed to be a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, employment discrimination, leave, unemployment compensation, and Federal benefits.
+(1) **State or local officers not Federal employees** — Except as otherwise provided in this section, a law enforcement officer of any State or local government, including an Indian tribe, authorized to act as a law enforcement officer under subsection (c) shall not be deemed to be a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, employment discrimination, leave, unemployment compensation, and Federal benefits.
 
-(2) **Application of Federal Tort Claims Act** — For purposes of chapter 171 of title 28 (commonly known as the Federal Tort Claims Act), a law enforcement officer of any State or local government, including an Indian tribe, shall, when acting as a law enforcement officer under subsection (c) of this section and while under Federal supervision and control, and only when carrying out Federal law enforcement responsibilities, be considered a Federal employee.
+(2) **Application of Federal Tort Claims Act** — For purposes of chapter 171 of title 28 (commonly known as the Federal Tort Claims Act), a law enforcement officer of any State or local government, including an Indian tribe, shall, when acting as a law enforcement officer under subsection (c) and while under Federal supervision and control, and only when carrying out Federal law enforcement responsibilities, be considered a Federal employee.
 
-(3) **Availability of workers compensation** — For purposes of subchapter I of chapter 81 of title 5, relating to compensation to Federal employees for work injuries, a law enforcement officer of any State or local government, including an Indian tribe, shall, when acting as a law enforcement officer under subsection (c) of this section and while under Federal supervision and control, and only when carrying out Federal law enforcement responsibilities, be deemed a civil service employee of the United States within the meaning of the term employee as defined in [section 8101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8101&num=0&edition=prelim), and the provisions of that subchapter shall apply. Benefits under such subchapter shall be reduced by the amount of any entitlement to State or local workers compensation benefits arising out of the same injury or death.
+(3) **Availability of workers compensation** — For purposes of subchapter I of chapter 81 of title 5, relating to compensation to Federal employees for work injuries, a law enforcement officer of any State or local government, including an Indian tribe, shall, when acting as a law enforcement officer under subsection (c) and while under Federal supervision and control, and only when carrying out Federal law enforcement responsibilities, be deemed a civil service employee of the United States within the meaning of the term employee as defined in [section 8101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8101&num=0&edition=prelim), and the provisions of that subchapter shall apply. Benefits under such subchapter shall be reduced by the amount of any entitlement to State or local workers compensation benefits arising out of the same injury or death.
 
 **(f) Concurrent jurisdiction** Nothing in this section shall be construed or applied to limit or restrict the investigative jurisdiction of any Federal law enforcement agency, or to affect any existing right of a State or local government, including an Indian tribe, to exercise civil and criminal jurisdiction within a Reclamation project or on Reclamation lands.
 
@@ -189,14 +192,14 @@ In this section and [section 373b of this title](./chapter-012-reclamation-and-i
 <a id="section-373d"></a>
 ## § 373d. Grants and cooperative agreements with Indian tribes and organizations
 
-In order to increase opportunities for Indian tribes to develop, manage, and protect their water resources, in fiscal year 2003 and thereafter, the Secretary of the Interior, acting through the Commissioner of the Bureau of Reclamation, is authorized to enter into grants and cooperative agreements with any Indian tribe, institution of higher education, national Indian organization, or tribal organization pursuant to sections 6301 to 6308 of title 31. Nothing in this Act is intended to modify or limit the provisions of the Indian Self Determination Act [[25 U.S.C. 450f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450f&num=0&edition=prelim) et seq.].
+In order to increase opportunities for Indian tribes to develop, manage, and protect their water resources, in fiscal year 2003 and thereafter, the Secretary of the Interior, acting through the Commissioner of the Bureau of Reclamation, is authorized to enter into grants and cooperative agreements with any Indian tribe, institution of higher education, national Indian organization, or tribal organization pursuant to sections 6301 to 6308 of title 31. Nothing in this Act is intended to modify or limit the provisions of the Indian Self Determination Act [[25 U.S.C. 5321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5321&num=0&edition=prelim) et seq.].
 
 ### Statutory Notes
 
 #### References in Text
 This Act, referred to in text, means div. D of Pub. L. 108–7, Feb. 20, 2003, 117 Stat. 133, known as the Energy and Water Development Appropriations Act, 2003. For complete classification of this Act to the Code, see Tables.
 
-The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) and Tables.
+The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
 #### Similar Provisions
 Provisions similar to those in this section were contained in the following appropriation act:
@@ -249,7 +252,7 @@ This Act, referred to in subsec. (c)(5), means Pub. L. 110–229, May 8, 2008, 1
 <a id="section-373f"></a>
 ## § 373f. Partnerships, grants, and cooperative agreements with local joint powers authorities
 
-The Secretary may hereafter partner, provide a grant to, or enter into a cooperative agreement with local joint powers authorities formed pursuant to State law by irrigation districts and other local water districts and local governments, to advance planning and feasibility studies authorized by Congress for water storage project: Provided, That the Secretary shall ensure that all documents associated with the preparation of planning and feasibility studies and applicable environmental reviews under the National Environmental Policy Act for a project covered by this section shall be made available to any joint powers authority with whom the Secretary enters into an agreement to advance such project: Provided further, That the Secretary, acting through the Commissioner of the Bureau of Reclamation, shall ensure that all applicable environmental reviews under the National Environmental Policy Act, to the degree such reviews are required, are completed on an expeditious basis and that the shortest existing applicable process under the National Environmental Policy Act shall be utilized, including in the completion of feasibility studies, Draft Environmental Impact Statements (DEIS) and Final Environmental Impact Statements (FEIS): Provided further, That the Bureau of Reclamation need not complete the applicable feasibility study, DEIS or FEIS if the Commissioner determines, and the Secretary concurs, that the project can be expedited by a joint powers authority as a non-Federal project or if the project fails to meet applicable Federal cost-benefit requirements or standards: Provided further, That the Secretary shall not provide financial assistance towards these studies or projects, unless there is a demonstrable Federal interest.
+The Secretary may hereafter partner, provide a grant to, or enter into a cooperative agreement with local joint powers authorities formed pursuant to State law by irrigation districts and other local water districts and local governments, to advance planning and feasibility studies authorized by Congress for water storage project: Provided, That the Secretary shall ensure that all documents associated with the preparation of planning and feasibility studies and applicable environmental reviews under the National Environmental Policy Act [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.] for a project covered by this section shall be made available to any joint powers authority with whom the Secretary enters into an agreement to advance such project: Provided further, That the Secretary, acting through the Commissioner of the Bureau of Reclamation, shall ensure that all applicable environmental reviews under the National Environmental Policy Act, to the degree such reviews are required, are completed on an expeditious basis and that the shortest existing applicable process under the National Environmental Policy Act shall be utilized, including in the completion of feasibility studies, Draft Environmental Impact Statements (DEIS) and Final Environmental Impact Statements (FEIS): Provided further, That the Bureau of Reclamation need not complete the applicable feasibility study, DEIS or FEIS if the Commissioner determines, and the Secretary concurs, that the project can be expedited by a joint powers authority as a non-Federal project or if the project fails to meet applicable Federal cost-benefit requirements or standards: Provided further, That the Secretary shall not provide financial assistance towards these studies or projects, unless there is a demonstrable Federal interest.
 
 ### Statutory Notes
 
@@ -470,7 +473,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in tex
 Section is comprised of the second, third, fourth, and sixth undesignated pars. under headings “Bureau of Reclamation” and “administrative provisions” in title II of Pub. L. 102–377, Oct. 2, 1992, 106 Stat. 1330, 1331.
 
 #### Amendments
-2014—Pub. L. 113–287, which directed that the second paragraph under the heading “administrative provisions” under the heading “Bureau of Reclamation” ([43 U.S.C. 377b](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-377b)), be amended by substituting “chapters 3125 and 3201 of title 54” for “the Acts of August 21, 1935 ([16 U.S.C. 461–467](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section461–467&num=0&edition=prelim)) and June 27 1960 ([16 U.S.C. 469](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469&num=0&edition=prelim))” without specifying a public law, was executed by making the substitution for “the Acts of August 21, 1935 ([16 U.S.C. 461–467](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section461–467&num=0&edition=prelim)) and June 27, 1960 ([16 U.S.C. 469](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469&num=0&edition=prelim))” in the first paragraph of this section, which is the second undesignated par. under headings “Bureau of Reclamation” and “administrative provisions” in title II of Pub. L. 102–377, Oct. 2, 1992, 106 Stat. 1330, 1331, to reflect the probable intent of Congress. See Codification note above.
+2014—Pub. L. 113–287, which directed that the second paragraph under the heading “administrative provisions” under the heading “Bureau of Reclamation” ([43 U.S.C. 377b](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-377b)), be amended by substituting “chapters 3125 and 3201 of title 54” for “the Acts of August 21, 1935 ([16 U.S.C. 461–467](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section461–467&num=0&edition=prelim)) and June 27 1960 ([16 U.S.C. 469](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469&num=0&edition=prelim))” without specifying a public law, was executed by making the substitution for “the Acts of August 21, 1935 ([16 U.S.C. 461–467](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section461–467&num=0&edition=prelim)) and June 27, 1960 ([16 U.S.C. 469](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469&num=0&edition=prelim))” in the first paragraph of this section, which is the second undesignated par. under the headings “Bureau of Reclamation” and “administrative provisions” in title II of Pub. L. 102–377, Oct. 2, 1992, 106 Stat. 1330, to reflect the probable intent of Congress. See Codification note above.
 
 2003—Pub. L. 108–137 inserted in first par. “, not to exceed $5,000,000 for each causal event giving rise to a claim or claims” after “activities of the Bureau of Reclamation”.
 
@@ -553,7 +556,7 @@ Provisions of this section as not amended, modified or repealed by the Submerged
 ## § 384. Extension of time for payment of charges accrued prior to March 2, 1924, and January 1, 1925
 **(a)** The Secretary of the Interior is authorized and empowered, in his discretion, to defer the dates of payments of any charges, rentals, and penalties which have accrued prior to the 2d day of March, 1924, under the Act of June 17, 1902 (32 Stat. 388), and amendatory and supplemental acts or prior to that date, as against water users on any irrigation project being constructed or operated and maintained under the direction of the Commissioner of Indian Affairs, as may, in his judgment, be necessary in or concerning any irrigation project existing on May 9, 1924, under said act: Provided, That no payment shall be deferred under this section in any particular case beyond March 1, 1927: Provided, That upon such adjustment being made, any penalties or interest which may have accrued in connection with such unpaid construction and operation and maintenance charges shall be canceled, and in lieu thereof the amount so due, and the payment of which is hereby extended, shall draw interest at the rate of 5 per centum per annum, paid annually from the time said amount became due to date of payment: And provided further, That in case the principal and interest herein provided for are not paid in the manner and at the time provided by this section, any penalty provided by the law in effect on May 9, 1924, shall thereupon attach from the date of such default.
 
-**(b)** Where an individual water user, or individual applicant for a water right under a Federal irrigation project constructed or being constructed under the Act of June 17, 1902 (32 Stat. 388), or any act amendatory thereof or supplementary thereto, makes application prior to January 1, 1925, alleging that he will be unable to make the payments as required in subsection (a) of this section, the Secretary of the Interior is authorized in his discretion prior to March 1, 1925, to add such accrued and unpaid charges to the construction charge of the land of such water user or applicant, and to distribute such accumulated charges equally over each of the subsequent years, beginning with the year 1925, or, in the discretion of the Secretary, distribute a total of one-fourth over the first half of the remaining years of the 20-year period beginning with the year 1925, and three-fourths over the second half of such period, so as to complete the payment during the remaining years of the 20-year period of payment of the original construction charge: Provided, That upon such adjustment being made, any penalties or interest which may have accrued in connection with such unpaid construction and operation and maintenance charges shall be canceled, and in lieu thereof the amount so due, and the payment of which is extended, shall draw interest at the rate of 5 per centum per annum, paid annually from the time said amount became due to the date of payment: Provided further, That the applicant for the extension shall first show to the satisfaction of the Secretary of the Interior detailed statement of his assets and liabilities and probable inability to make payment at the time required in subsection (a) of this section: And provided further, That in case the principal and interest herein provided for are not paid in the manner and at the time provided by this section, any penalty provided by law, prior to May 9, 1924, shall thereupon attach from the date of such default: And provided further, That similar relief in whole or in part may be extended by the Secretary of the Interior to a legally organized group of water users of a project, upon presentation of a sufficient number of individual showings made in accordance with the foregoing proviso to satisfy the Secretary of the Interior that such extension is necessary.
+**(b)** Where an individual water user, or individual applicant for a water right under a Federal irrigation project constructed or being constructed under the Act of June 17, 1902 (32 Stat. 388), or any act amendatory thereof or supplementary thereto, makes application prior to January 1, 1925, alleging that he will be unable to make the payments as required in subsection (a) hereof, the Secretary of the Interior is authorized in his discretion prior to March 1, 1925, to add such accrued and unpaid charges to the construction charge of the land of such water user or applicant, and to distribute such accumulated charges equally over each of the subsequent years, beginning with the year 1925, or, in the discretion of the Secretary, distribute a total of one-fourth over the first half of the remaining years of the 20-year period beginning with the year 1925, and three-fourths over the second half of such period, so as to complete the payment during the remaining years of the 20-year period of payment of the original construction charge: Provided, That upon such adjustment being made, any penalties or interest which may have accrued in connection with such unpaid construction and operation and maintenance charges shall be canceled, and in lieu thereof the amount so due, and the payment of which is extended, shall draw interest at the rate of 5 per centum per annum, paid annually from the time said amount became due to the date of payment: Provided further, That the applicant for the extension shall first show to the satisfaction of the Secretary of the Interior detailed statement of his assets and liabilities and probable inability to make payment at the time required in subsection (a): And provided further, That in case the principal and interest herein provided for are not paid in the manner and at the time provided by this section, any penalty provided by law, prior to May 9, 1924, shall thereupon attach from the date of such default: And provided further, That similar relief in whole or in part may be extended by the Secretary of the Interior to a legally organized group of water users of a project, upon presentation of a sufficient number of individual showings made in accordance with the foregoing proviso to satisfy the Secretary of the Interior that such extension is necessary.
 
 ### Statutory Notes
 
@@ -726,9 +729,7 @@ Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 St
 
 **(d) Application to other laws** The provisions of this section shall not be construed to modify the provisions of [section 701–1 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section701–1&num=0&edition=prelim) and [section 390 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390), as amended and extended, or the provisions of sections 372 and 383 of this title.
 
-**(e) Approval of Congress of modifications of reservoir projects** Modifications of a reservoir project heretofore authorized, surveyed, planned, or constructed to include storage as provided in subsection (b) of this section which would seriously affect the purposes for which the project was authorized, surveyed, planned, or constructed, or which would involve major structural or operational changes shall be made only upon the approval of Congress as now provided by law.
-
-**(f) Apalachicola-Chattahoochee-Flint River System and Alabama-Coosa-Tallapoosa River System projects** The Committees of jurisdiction are very concerned about the operation of projects in the Apalachicola-Chattahoochee-Flint River System and the Alabama-Coosa-Tallapoosa River System, and further, the Committees of jurisdiction recognize that this ongoing water resources dispute raises serious concerns related to the authority of the Secretary of the Army to allocate substantial storage at projects to provide local water supply pursuant to the Water Supply Act of 1958 [[43 U.S.C. 390b](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390b)] absent congressional approval. Interstate water disputes of this nature are more properly addressed through interstate water agreements that take into consideration the concerns of all affected States including impacts to other authorized uses of the projects, water supply for communities and major cities in the region, water quality, freshwater flows to communities, rivers, lakes, estuaries, and bays located downstream of projects, agricultural uses, economic development, and other appropriate concerns. To that end, the Committees of jurisdiction strongly urge the Governors of the affected States to reach agreement on an interstate water compact as soon as possible, and we pledge our commitment to work with the affected States to ensure prompt consideration and approval of any such agreement. Absent such action, the Committees of jurisdiction should consider appropriate legislation to address these matters including any necessary clarifications to the Water Supply Act of 1958 or other law. This subsection does not alter existing rights or obligations under law.
+**(e) Approval of Congress of modifications of reservoir projects** Modifications of a reservoir project heretofore authorized, surveyed, planned, or constructed to include storage as provided in subsection (b) which would seriously affect the purposes for which the project was authorized, surveyed, planned, or constructed, or which would involve major structural or operational changes shall be made only upon the approval of Congress as now provided by law.
 
 ### Statutory Notes
 
@@ -737,9 +738,9 @@ The Reclamation Projects Act of 1939, referred to in subsec. (b), is act Aug. 4,
 
 This Act, referred to in subsec. (c)(1)(A), (2), probably means the Water Supply Act of 1958. See below.
 
-The Water Supply Act of 1958, referred to in subsec. (f), is title III of Pub. L. 85–500, July 3, 1958, 72 Stat. 319, which enacted this section and enacted a provision set out as a note under this section. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
-
 #### Amendments
+2016—Subsec. (f). Pub. L. 114–322 struck out subsec. (f) which related to the Apalachicola-Chattahoochee-Flint River System and Alabama-Coosa-Tallapoosa River System projects.
+
 2014—Subsecs. (c) to (e). Pub. L. 113–121, § 1046(d), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 Subsec. (f). Pub. L. 113–121, § 1051(a), added subsec. (f).
@@ -754,8 +755,24 @@ Pub. L. 87–88, § 11, July 20, 1961, 75 Stat. 210, provided that: “This Act 
 #### Short Title
 Pub. L. 85–500, title III, § 302, July 3, 1958, 72 Stat. 320, provided that: “Title III of this Act [enacting this section] may be cited as the ‘Water Supply Act of 1958’.”
 
+#### Storage
+Pub. L. 114–322, title III, § 4007(a)–(j), Dec. 16, 2016, 130 Stat. 1863–1866, provided that: “(a) Definitions.—In this subtitle [subtitle J (§§ 4001–4014) of title III of Pub. L. 114–322, see Tables for classification]:“(1) Federally owned storage project.—The term ‘federally owned storage project’ means any project involving a surface water storage facility in a Reclamation State—“(A) to which the United States holds title; and “(B) that was authorized to be constructed, operated, and maintained pursuant to the reclamation laws. “(2) State-led storage project.—The term ‘State-led storage project’ means any project in a Reclamation State that—“(A) involves a groundwater or surface water storage facility constructed, operated, and maintained by any State, department of a State, subdivision of a State, or public agency organized pursuant to State law; and “(B) provides a benefit in meeting any obligation under Federal law (including regulations). “(b) Federally Owned Storage Projects.—“(1) Agreements.—On the request of any State, any department, agency, or subdivision of a State, or any public agency organized pursuant to State law, the Secretary of the Interior may negotiate and enter into an agreement on behalf of the United States for the design, study, and construction or expansion of any federally owned storage project in accordance with this section. “(2) Federal cost share.—Subject to the requirements of this subsection, the Secretary of the Interior may participate in a federally owned storage project in an amount equal to not more than 50 percent of the total cost of the federally owned storage project. “(3) Commencement.—The construction of a federally owned storage project that is the subject of an agreement under this subsection shall not commence until the Secretary of the Interior—“(A) determines that the proposed federally owned storage project is feasible in accordance with the reclamation laws; “(B) secures an agreement providing upfront funding as is necessary to pay the non-Federal share of the capital costs; and “(C) determines that, in return for the Federal cost-share investment in the federally owned storage project, at least a proportionate share of the project benefits are Federal benefits, including water supplies dedicated to specific purposes such as environmental enhancement and wildlife refuges. “(4) Environmental laws.—In participating in a federally owned storage project under this subsection, the Secretary of the Interior shall comply with all applicable environmental laws, including the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.). “(c) State-Led Storage Projects.—“(1) In general.—Subject to the requirements of this subsection, the Secretary of the Interior may participate in a State-led storage project in an amount equal to not more than 25 percent of the total cost of the State-led storage project. “(2) Request by governor.—Participation by the Secretary of the Interior in a State-led storage project under this subsection shall not occur unless—“(A) the participation has been requested by the Governor of the State in which the State-led storage project is located; “(B) the State or local sponsor determines, and the Secretary of the Interior concurs, that—“(i) the State-led storage project is technically and financially feasible and provides a Federal benefit in accordance with the reclamation laws; “(ii) sufficient non-Federal funding is available to complete the State-led storage project; and “(iii) the State-led storage project sponsors are financially solvent; “(C) the Secretary of the Interior determines that, in return for the Federal cost-share investment in the State-led storage project, at least a proportional share of the project benefits are the Federal benefits, including water supplies dedicated to specific purposes such as environmental enhancement and wildlife refuges; and “(D) the Secretary of the Interior submits to Congress a written notification of these determinations within 30 days of making such determinations. “(3) Environmental laws.—When participating in a State-led storage project under this subsection, the Secretary shall comply with all applicable environmental laws, including the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.). “(4) Information.—When participating in a State-led storage project under this subsection, the Secretary of the Interior—“(A) may rely on reports prepared by the sponsor of the State-led storage project, including feasibility (or equivalent) studies, environmental analyses, and other pertinent reports and analyses; but “(B) shall retain responsibility for making the independent determinations described in paragraph (2). “(d) Authority To Provide Assistance.—The Secretary of the Interior may provide financial assistance under this subtitle to carry out projects within any Reclamation State. “(e) Rights To Use Capacity.—Subject to compliance with State water rights laws, the right to use the capacity of a federally owned storage project or State-led storage project for which the Secretary of the Interior has entered into an agreement under this subsection shall be allocated in such manner as may be mutually agreed to by the Secretary of the Interior and each other party to the agreement. “(f) Compliance With California Water Bond.—“(1) In general.—The provision of Federal funding for construction of a State-led storage project in the State of California shall be subject to the condition that the California Water Commission shall determine that the State-led storage project is consistent with the California Water Quality, Supply, and Infrastructure Improvement Act, approved by California voters on November 4, 2014. “(2) Applicability.—This subsection expires on the date on which State bond funds available under the Act referred to in paragraph (1) are expended. “(g) Partnership and Agreements.—The Secretary of the Interior, acting through the Commissioner [of Reclamation], may partner or enter into an agreement regarding the water storage projects identified in section 103(d)(1) of the Water Supply, Reliability, and Environmental Improvement Act (Public Law 108–361; 118 Stat. 1688) with local joint powers authorities formed pursuant to State law by irrigation districts and other local water districts and local governments within the applicable hydrologic region, to advance those projects. “(h) Authorization of Appropriations.—“(1) $335,000,000 of funding in section 4011(e) [130 Stat. 1881] is authorized to remain available until expended. “(2) Projects can only receive funding if enacted appropriations legislation designates funding to them by name, after the Secretary recommends specific projects for funding pursuant to this section and transmits such recommendations to the appropriate committees of Congress. “(i) Sunset.—This section shall apply only to federally owned storage projects and State-led storage projects that the Secretary of the Interior determines to be feasible before January 1, 2021. “(j) Consistency With State Law.—Nothing in this section preempts or modifies any obligation of the United States to act in conformance with applicable State law.”
+
+[For definition of “Reclamation State” as used in section 4007(a)(1), (2), (d) of Pub. L. 114–322, set out above, see section 4014(8) of Pub. L. 114–322, set out below.]
+
+#### Savings Language
+Pub. L. 114–322, title III, § 4012, Dec. 16, 2016, 130 Stat. 1882, provided that: “(a) In General.—This subtitle [subtitle J (§§ 4001–4014) of title III of Pub. L. 114–322, see Tables for classification] shall not be interpreted or implemented in a manner that—“(1) preempts or modifies any obligation of the United States to act in conformance with applicable State law, including applicable State water law; “(2) affects or modifies any obligation under the Central Valley Project Improvement Act ([title XXXIV of] Public Law 102–575; 106 Stat. 4706), except for the savings provisions for the Stanislaus River predator management program expressly established by section 11(d) [sic] and provisions in section 11(g) [sic]; “(3) overrides, modifies, or amends the applicability of the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.) or the application of the smelt and salmonid biological opinions to the operation of the Central Valley Project or the State Water Project; “(4) would cause additional adverse effects on listed fish species beyond the range of effects anticipated to occur to the listed fish species for the duration of the applicable biological opinion, using the best scientific and commercial data available; or “(5) overrides, modifies, or amends any obligation of the Pacific Fisheries Management Council, required by the Magnuson Stevens Act [probably means the Magnuson-Stevens Fishery Conservation and Management Act, [16 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1801&num=0&edition=prelim) et seq.] or the Endangered Species Act of 1973, to manage fisheries off the coast of California, Oregon, or Washington. “(b) Successor Biological Opinions.—“(1) In general.—The Secretaries of the Interior and Commerce shall apply this Act [see Tables for classification] to any successor biological opinions to the smelt or salmonid biological opinions only to the extent that the Secretaries determine is consistent with—“(A) the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.), its implementing regulations, and the successor biological opinions; and “(B) subsection (a)(4). “(2) Limitation.—Nothing in this Act shall restrict the Secretaries of the Interior and Commerce from completing consultation on successor biological opinions and through those successor biological opinions implementing whatever adjustments in operations or other activities as may be required by the Endangered Species Act of 1973 and its implementing regulations. “(c) Severability.—If any provision of this subtitle, or any application of such provision to any person or circumstance, is held to be inconsistent with any law or the biological opinions, the remainder of this subtitle and the application of this subtitle to any other person or circumstance shall not be affected.”
+
+[For definitions of terms used in section 4012 of Pub. L. 114–322, set out above, see section 4014 of Pub. L. 114–322, set out below.]
+
+#### Duration
+Pub. L. 114–322, title III, § 4013, Dec. 16, 2016, 130 Stat. 1883, provided that: “This subtitle [subtitle J (§§ 4001–4014) of title III of Pub. L. 114–322, see Tables for classification] shall expire on the date that is 5 years after the date of its enactment [Dec. 16, 2016], with the exception of— “(1) section 4004 [not classified to the Code], which shall expire 10 years after the date of its enactment; and “(2) projects under construction in sections 4007 [set out in part as a note above], 4009(a) [set out as a note under [section 10301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10301&num=0&edition=prelim), The Public Health and Welfare], and 4009(c) [amending [section 390h of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390h)].”
+
 #### Amendment of Contracts Existing Prior to November 17, 1986
 Pub. L. 99–662, title IX, § 932(b), Nov. 17, 1986, 100 Stat. 4197, provided that: “Nothing in this section [amending this section] shall be deemed to amend or require amendment of any valid contract entered into pursuant to the Water Supply Act of 1958 [this section], or Federal reclamation law and approved by the Secretary of the Army or the Secretary of the Interior prior to the date of enactment of this Act [Nov. 17, 1986].”
+
+#### Definitions
+Pub. L. 114–322, title III, § 4014, Dec. 16, 2016, 130 Stat. 1883, provided that: “In this subtitle [subtitle J (§§ 4001–4014) of title III of Pub. L. 114–322, see Tables for classification]: “(1) Assistant administrator.—The term ‘Assistant Administrator’ means the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration. “(2) Central valley project.—The term ‘Central Valley Project’ has the meaning given the term in section 3403 of the Central Valley Project Improvement Act ([title XXXIV of] Public Law 102–575; 106 Stat. 4707). “(3) Commissioner.—The term ‘Commissioner’ means the Commissioner of Reclamation. “(4) Delta.—The term ‘Delta’ means the Sacramento-San Joaquin Delta and the Suisun Marsh (as defined in section 12220 of the California Water Code and section 29101 of the California Public Resources Code (as in effect on the date of enactment of this Act [Dec. 16, 2016])). “(5) Delta smelt.—The term ‘Delta smelt’ means the fish species with the scientific name Hypomesus transpacificus. “(6) Director.—The term ‘Director’ means the Director of the United States Fish and Wildlife Service. “(7) Listed fish species.—The term ‘listed fish species’ means—“(A) any natural origin steelhead, natural origin genetic spring run Chinook, or genetic winter run Chinook salmon (including any hatchery steelhead or salmon population within the evolutionary significant unit or a distinct population segment); and “(B) Delta smelt. “(8) Reclamation state.—The term ‘Reclamation State’ means any of the States of—“(A) Arizona; “(B) California; “(C) Colorado; “(D) Idaho; “(E) Kansas; “(F) Montana; “(G) Nebraska; “(H) Nevada; “(I) New Mexico; “(J) North Dakota; “(K) Oklahoma; “(L) Oregon; “(M) South Dakota; “(N) Texas; “(O) Utah; “(P) Washington; and “(Q) Wyoming. “(9) Salmonid biological opinion.—“(A) In general.—The term ‘salmonid biological opinion’ means the biological and conference opinion of the National Marine Fisheries Service dated June 4, 2009, regarding the long-term operation of the Central Valley Project and the State Water Project, and successor biological opinions. “(B) Inclusions.—The term ‘salmonid biological opinion’ includes the operative incidental take statement of the opinion described in subparagraph (A). “(10) Smelt biological opinion.—“(A) In general.—The term ‘smelt biological opinion’ means the biological opinion dated December 15, 2008, regarding the coordinated operation of the Central Valley Project and the State Water Project, and successor biological opinions. “(B) Inclusions.—The term ‘smelt biological opinion’ includes the operative incidental take statement of the opinion described in subparagraph (A). “(11) State water project.—The term ‘State Water Project’ means the water project described in chapter 5 of part 3 of division 6 of the California Water Code (sections 11550 et seq.) (as in effect on the date of enactment of this Act [Dec. 16, 2016]) and operated by the California Department of Water Resources.”
 
 
 <a id="section-390bb"></a>
@@ -820,6 +837,120 @@ Federal reclamation law, referred to in pars. (1), (3)(A), (8), and (10), is def
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2201&num=0&edition=prelim), Navigation and Navigable Waters.
 
 
+<a id="section-390b-2"></a>
+## § 390b–2. Leveraging Federal infrastructure for increased water supply
+**(a) In general** At the request of a non-Federal interest, the Secretary may review proposals to increase the quantity of available supplies of water at a Federal water resources development project through—
+
+(1) modification of the project;
+
+(2) modification of how the project is managed; or
+
+(3) accessing water released from the project.
+
+**(b) Proposals included** A proposal under subsection (a) may include—
+
+(1) increasing the storage capacity of the project;
+
+(2) diversion of water released or withdrawn from the project—
+
+  (A) to recharge groundwater;
+
+  (B) to aquifer storage and recovery; or
+
+  (C) to any other storage facility;
+
+(3) construction of facilities for delivery of water from pumping stations constructed by the Secretary;
+
+(4) construction of facilities to access water; and
+
+(5) a combination of the activities described in paragraphs (1) through (4).
+
+**(c) Exclusions** This section shall not apply to a proposal that—
+
+(1) reallocates existing water supply or hydropower storage; or
+
+(2) reduces water available for any authorized project purpose.
+
+**(d) Other Federal projects** In any case in which a proposal relates to a Federal project that is not operated by the Secretary, this section shall apply only to activities under the authority of the Secretary.
+
+**(e) Review process**
+
+(1) **Notice** — On receipt of a proposal submitted under subsection (a), the Secretary shall provide a copy of the proposal to each entity described in paragraph (2) and, if applicable, the Federal agency that operates the project, in the case of a project operated by an agency other than the Department of the Army.
+
+(2) **Public participation** — In reviewing proposals submitted under subsection (a), and prior to making any decisions regarding a proposal, the Secretary shall comply with all applicable public participation requirements under law, including consultation with—
+
+  (A) affected States;
+
+  (B) power marketing administrations, in the case of reservoirs with Federal hydropower projects;
+
+  (C) entities responsible for operation and maintenance costs;
+
+  (D) any entity that has a contractual right from the Federal Government or a State to withdraw water from, or use storage at, the project;
+
+  (E) entities that the State determines hold rights under State law to the use of water from the project; and
+
+  (F) units of local government with flood risk reduction responsibilities downstream of the project.
+
+**(f) Authorities** A proposal submitted to the Secretary under subsection (a) may be reviewed and approved, if applicable and appropriate, under—
+
+(1) the specific authorization for the water resources development project;
+
+(2) [section 549a of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section549a&num=0&edition=prelim);
+
+(3) [section 390b of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390b); and
+
+(4) [section 408 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section408&num=0&edition=prelim).
+
+**(g) Limitations** The Secretary shall not approve a proposal submitted under subsection (a) that—
+
+(1) is not supported by the Federal agency that operates the project, if that agency is not the Department of the Army;
+
+(2) interferes with an authorized purpose of the project;
+
+(3) adversely impacts contractual rights to water or storage at the reservoir;
+
+(4) adversely impacts legal rights to water under State law, as determined by an affected State;
+
+(5) increases costs for any entity other than the entity that submitted the proposal; or
+
+(6) if a project is subject to [section 390b(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section390b/e&num=0&edition=prelim), makes modifications to the project that do not meet the requirements of that section unless the modification is submitted to and authorized by Congress.
+
+**(h) Cost share**
+
+(1) **In general** — Except as provided in paragraph (2), 100 percent of the cost of developing, reviewing, and implementing a proposal submitted under subsection (a) shall be provided by an entity other than the Federal Government.
+
+(2) **Planning assistance to states** — In the case of a proposal from an entity authorized to receive assistance under [section 1962d–16 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–16&num=0&edition=prelim), the Secretary may use funds available under that section to pay 50 percent of the cost of a review of a proposal submitted under subsection (a).
+
+(3) **Operation and maintenance costs**
+
+  (A) *In general* — Except as provided in subparagraphs (B) and (C), the operation and maintenance costs for the non-Federal sponsor of a proposal submitted under subsection (a) shall be 100 percent of the separable operation and maintenance costs associated with the costs of implementing the proposal.
+
+  (B) *Certain water supply storage projects* — For a proposal submitted under subsection (a) for constructing additional water supply storage at a reservoir for use under a water supply storage agreement, in addition to the costs under subparagraph (A), the non-Federal costs shall include the proportional share of any joint-use costs for operation, maintenance, repair, replacement, or rehabilitation of the reservoir project determined in accordance with [section 390b of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390b).
+
+  (C) *Voluntary contributions* — An entity other than an entity described in subparagraph (A) may voluntarily contribute to the costs of implementing a proposal submitted under subsection (a).
+
+**(i) Contributed funds** The Secretary may receive and expend funds contributed by a non-Federal interest for the review and approval of a proposal submitted under subsection (a).
+
+**(j) Assistance** On request by a non-Federal interest, the Secretary may provide technical assistance in the development or implementation of a proposal under subsection (a), including assistance in obtaining necessary permits for construction, if the non-Federal interest contracts with the Secretary to pay all costs of providing the technical assistance.
+
+**(k) Exclusion** This section shall not apply to reservoirs in—
+
+(1) the Upper Missouri River;
+
+(2) the Apalachicola-Chattahoochee-Flint river system;
+
+(3) the Alabama-Coosa-Tallapoosa river system; and
+
+(4) the Stones River.
+
+**(l) Effect of section** Nothing in this section affects or modifies any authority of the Secretary to review or modify reservoirs.
+
+### Statutory Notes
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under [section 2201 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2201&num=0&edition=prelim), Navigation and Navigable Waters.
+
+
 <a id="section-390c"></a>
 ## § 390c. Water reservoirs; interests of States and local agencies in storage space
 
@@ -836,9 +967,9 @@ Cognizant that many States and local interests have in the past contributed to t
 
 (3) which amends its contract for the purpose of conforming to the provisions of this subchapter.
 
-**(b) Amendment of existing contracts** Any district which has an existing contract with the Secretary as of October 12, 1982, which does not enter into an amendment of such contract as specified in subsection (a) of this section shall be subject to Federal reclamation law in effect immediately prior to October 12, 1982, as that law is amended or supplemented by sections 209 through 230 of this title [[43 U.S.C. 390ii](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390ii)—390zz–1, 373a, 422e, 425b, 485h]. Within a district that does not enter into an amendment of its contract with the Secretary within four and one-half years of October 12, 1982, irrigation water may be delivered to lands leased in excess of a landholding of one hundred and sixty acres only if full cost, as defined in [section 390bb(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section390bb/3/A&num=0&edition=prelim), is paid for such water as is assignable to those lands leased in excess of such landholding of one hundred and sixty acres: Provided, That the interest rate used in computing full cost under this subsection shall be the same as provided in [section 390ee(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section390ee/a/3&num=0&edition=prelim).
+**(b) Amendment of existing contracts** Any district which has an existing contract with the Secretary as of October 12, 1982, which does not enter into an amendment of such contract as specified in subsection (a) shall be subject to Federal reclamation law in effect immediately prior to October 12, 1982, as that law is amended or supplemented by sections 209 through 230 of this title [[43 U.S.C. 390ii](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390ii)—390zz–1, 373a, 422e, 425b, 485h]. Within a district that does not enter into an amendment of its contract with the Secretary within four and one-half years of October 12, 1982, irrigation water may be delivered to lands leased in excess of a landholding of one hundred and sixty acres only if full cost, as defined in [section 390bb(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section390bb/3/A&num=0&edition=prelim), is paid for such water as is assignable to those lands leased in excess of such landholding of one hundred and sixty acres: Provided, That the interest rate used in computing full cost under this subsection shall be the same as provided in [section 390ee(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section390ee/a/3&num=0&edition=prelim).
 
-**(c) Election by qualified or limited recipients in absence of amendment to contract** In the absence of an amendment to a contract, as specified in subsection (a) of this section, a qualified recipient or limited recipient may elect to be subject to the provisions of this subchapter by executing an irrevocable election in a form approved by the Secretary to comply with this subchapter. The district shall thereupon deliver irrigation water to and collect from such recipient, for the credit of the United States, the additional charges required by this subchapter and assignable to the recipient making the election.
+**(c) Election by qualified or limited recipients in absence of amendment to contract** In the absence of an amendment to a contract, as specified in subsection (a), a qualified recipient or limited recipient may elect to be subject to the provisions of this subchapter by executing an irrevocable election in a form approved by the Secretary to comply with this subchapter. The district shall thereupon deliver irrigation water to and collect from such recipient, for the credit of the United States, the additional charges required by this subchapter and assignable to the recipient making the election.
 
 **(d) Consent of non-Federal party** Amendments to contracts which are not required by the provisions of this subchapter shall not be made without the consent of the non-Federal party.
 
@@ -888,7 +1019,7 @@ The right thus acquired by any such local interest is declared to be available t
   (B) the weighted average of market yields on all interest-bearing, marketable issues sold by the Treasury
   during the fiscal year preceding the fiscal year in which the expenditures are made, or October 12, 1982, for expenditures made before October 12, 1982.
 
-**(b) Delivery of irrigation water at prior terms and conditions** Any contract with a district entered into by the Secretary as specified in [section 390cc of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390cc), shall provide for the delivery of irrigation water to lands not in excess of the landholdings described in subsection (a) of this section upon terms and conditions related to pricing established by the Secretary pursuant to Federal reclamation law in effect immediately prior to October 12, 1982, or, in the case of an amended contract, upon the terms and conditions established by such contract prior to the date of its amendment. However, the portion of any price established under this subsection which relates to operation and maintenance charges shall be established pursuant to [section 390hh of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390hh).
+**(b) Delivery of irrigation water at prior terms and conditions** Any contract with a district entered into by the Secretary as specified in [section 390cc of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390cc), shall provide for the delivery of irrigation water to lands not in excess of the landholdings described in subsection (a) upon terms and conditions related to pricing established by the Secretary pursuant to Federal reclamation law in effect immediately prior to October 12, 1982, or, in the case of an amended contract, upon the terms and conditions established by such contract prior to the date of its amendment. However, the portion of any price established under this subsection which relates to operation and maintenance charges shall be established pursuant to [section 390hh of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390hh).
 
 **(c) Delivery of irrigation water to lands under recordable contracts** Notwithstanding any extension of time of any recordable contract as provided in [section 390ii(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section390ii/e&num=0&edition=prelim), lands under recordable contract shall be eligible to receive irrigation water at less than full cost for a period not to exceed ten years from the date such recordable contract was executed by the Secretary in the case of contracts existing prior to October 12, 1982, or five years from the date such recordable contract was executed by the Secretary in the case of contracts entered into subsequent to October 12, 1982, or the time specified in [section 390rr of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390rr) for lands described in that section: Provided, That in no case shall the right to receive water at less than full cost under this subsection terminate sooner than eighteen months after the date on which the Secretary again commences the processing or the approval of the disposition of such lands.
 
@@ -943,25 +1074,25 @@ Upon the request of any district, the ownership and pricing limitations imposed 
 
 <a id="section-390g-2"></a>
 ## § 390g–2. Phase II of groundwater recharge demonstration program
-**(a) Design, construction, and operation of projects** During phase II, and subject to State water laws and interstate water compacts, the Bureau is authorized and directed to design, construct, and operate demonstration projects in the High Plains States and other Reclamation Act States to recharge groundwater systems as recommended in the report referred to in subsection (c) of this section.
+**(a) Design, construction, and operation of projects** During phase II, and subject to State water laws and interstate water compacts, the Bureau is authorized and directed to design, construct, and operate demonstration projects in the High Plains States and other Reclamation Act States to recharge groundwater systems as recommended in the report referred to in subsection (c).
 
 **(b) Alternative means of cost allocation; economic feasibility of projects** During phase II the Secretary, acting through the Bureau, shall contract with the various High Plains States and other Reclamation Act States to conduct a study to identify and evaluate alternative means by which the costs of groundwater recharge projects could be allocated among the beneficiaries of the projects within the respective States and identify and evaluate the economic feasibility of and the legal authority for utilizing groundwater recharge in water resource development projects.
 
 **(c) Reports to Congress**
 
-(1) Within twelve months after the initiation of phase II, and at annual intervals thereafter, the Secretary shall submit interim reports to Congress. Each report shall contain a detailed statement of his findings and progress respecting the design, construction, and operation of the demonstration projects referred to in subsection (a) of this section and the study referred to in subsection (b) of this section.
+(1) Within twelve months after the initiation of phase II, and at annual intervals thereafter, the Secretary shall submit interim reports to Congress. Each report shall contain a detailed statement of his findings and progress respecting the design, construction, and operation of the demonstration projects referred to in subsection (a) and the study referred to in subsection (b).
 
 (2) Within five years after the initiation of phase II, the Secretary shall submit a summary report to Congress. The summary report shall contain—
 
-  (A) a detailed evaluation of the demonstration projects referred to in subsection (a) of this section;
+  (A) a detailed evaluation of the demonstration projects referred to in subsection (a);
 
-  (B) the results of the studies referred to in subsection (b) of this section;
+  (B) the results of the studies referred to in subsection (b);
 
   (C) specific recommendations regarding the location, scope, and feasibility of operational groundwater recharge projects to be constructed and maintained by the Bureau; and
 
   (D) an evaluation of the feasibility of integrating these groundwater recharge projects into existing reclamation projects.
 
-(3) In addition to recommendations made under [section 390g–1 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390g-1), the Secretary shall make additional recommendations for design, construction, and operation of demonstration projects. Such projects are authorized to be designed, constructed, and operated in accordance with subsection (a) of this section.
+(3) In addition to recommendations made under [section 390g–1 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390g-1), the Secretary shall make additional recommendations for design, construction, and operation of demonstration projects. Such projects are authorized to be designed, constructed, and operated in accordance with subsection (a).
 
 (4) Each project under this section shall terminate five years after the date on which construction on the project is completed.
 
@@ -1038,6 +1169,64 @@ No funds authorized to be appropriated by sections 390g to 390g–8 of this titl
 
 **(d) San Luis Unit of Central Valley Project, California** The Secretary shall not investigate, promote or implement, pursuant to sections 390h to 390h–39 of this title, any project intended to reclaim and reuse agricultural wastewater generated in the service area of the San Luis Unit of the Central Valley Project, California, except those measures recommended for action by the San Joaquin Valley Drainage Program in the report entitled A Management Plan for Agricultural Subsurface Drainage and Related Problems on the Westside San Joaquin Valley (September 1990).
 
+**(e) Authorization of new water recycling and reuse projects**
+
+(1) **Submission to the Secretary**
+
+  (A) *In general* — Non-Federal interests may submit proposals for projects eligible to be authorized pursuant to this section in the form of completed feasibility studies to the Secretary.
+
+  (B) *Eligible projects* — A project shall be considered eligible for consideration under this section if the project reclaims and reuses—
+
+    (i) municipal, industrial, domestic, or agricultural wastewater; or
+
+    (ii) impaired ground or surface waters.
+
+  (C) *Guidelines* — Within 60 days of the enactment of this Act the Secretary shall issue guidelines for feasibility studies for water recycling and reuse projects to provide sufficient information for the formulation of the studies.
+
+(2) **Review by the Secretary** — The Secretary shall review each feasibility study received under paragraph (1)(A) for the purpose of—
+
+  (A) determining whether the study, and the process under which the study was developed, each comply with Federal laws and regulations applicable to feasibility studies of water recycling and reuse projects; and
+
+  (B) the project is technically and financially feasible and provides a Federal benefit in accordance with the reclamation laws.
+
+(3) **Submission to Congress** — Not later than 180 days after the date of receipt of a feasibility study received under paragraph (1)(A), the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes—
+
+  (A) the results of the Secretary’s review of the study under paragraph (2), including a determination of whether the project is feasible;
+
+  (B) any recommendations the Secretary may have concerning the plan or design of the project; and
+
+  (C) any conditions the Secretary may require for construction of the project.
+
+(4) **Eligibility for funding** — The non-Federal project sponsor of any project determined by the Secretary to be feasible under paragraph (3)(A) shall be eligible to apply to the Secretary for funding for the Federal share of the costs of planning, designing and constructing the project pursuant to subsection (f).
+
+**(f) Competitive grant program for the funding of water recycling and reuse projects**
+
+(1) **Establishment** — The Secretary shall establish a competitive grant program under which the non-Federal project sponsor of any project determined by the Secretary to be feasible under subsection (e)(3)(A) shall be eligible to apply for funding for the planning, design, and construction of the project, subject to subsection (g)(2).
+
+(2) **Priority** — When funding projects under paragraph (1), the Secretary shall give funding priority to projects that meet one or more of the criteria listed in paragraph (3) and are located in an area that—
+
+  (A) has been identified by the United States Drought Monitor as experiencing severe, extreme, or exceptional drought at any time in the 4-year period before such funds are made available; or
+
+  (B) was designated as a disaster area by a State during the 4-year period before such funds are made available.
+
+(3) **Criteria** — The project criteria referred to in paragraph (2) are the following:
+
+  (A) Projects that are likely to provide a more reliable water supply for States and local governments.
+
+  (B) Projects that are likely to increase the water management flexibility and reduce impacts on environmental resources from projects operated by Federal and State agencies.
+
+  (C) Projects that are regional in nature.
+
+  (D) Projects with multiple stakeholders.
+
+  (E) Projects that provide multiple benefits, including water supply reliability, eco-system benefits, groundwater management and enhancements, and water quality improvements.
+
+**(g) Authorization of appropriations**
+
+(1) There is authorized to be appropriated to the Secretary of the Interior an additional $50,000,000 to remain available until expended.
+
+(2) Projects can only receive funding if enacted appropriations legislation designates funding to them by name, after the Secretary recommends specific projects for funding pursuant to subsection (f) and transmits such recommendations to the appropriate committees of Congress.
+
 ### Statutory Notes
 
 #### References in Text
@@ -1045,7 +1234,11 @@ The Reclamation Act of 1902 (Act of June 17, 1902, 32 Stat. 388), referred to in
 
 Hereafter, referred to in subsec. (a), means hereafter in title XVI of Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4663, which enacted sections 390h to 390h–39 of this title.
 
+The enactment of this Act, referred to in subsec. (e)(1)(C), probably means the date of enactment of Pub. L. 114–322, which added subsec. (e) and was approved Dec. 16, 2016.
+
 #### Amendments
+2016—Subsecs. (e) to (g). Pub. L. 114–322 added subsecs. (e) to (g).
+
 2000—Subsec. (b). Pub. L. 106–566 inserted “, and the State of Hawaii” before period at end.
 
 #### Short Title of 2005 Amendment
@@ -1111,30 +1304,30 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pu
 ## § 390h–10. San Diego area water reclamation program
 **(a)** The Secretary, in cooperation with the city of San Diego, California 11 So in original. Probably should be followed by a comma. or its successor agency in the management of the San Diego Area Wastewater Management District, shall participate in the planning, design and construction of demonstration and permanent facilities to reclaim and reuse water in the San Diego metropolitan service area.
 
-**(b)** The Federal share of the costs of the facilities authorized by subsection (a) of this section shall not exceed 25 per centum of the total. The Secretary shall not provide funds for the operation or maintenance of the project.
+**(b)** The Federal share of the costs of the facilities authorized by subsection (a) shall not exceed 25 per centum of the total. The Secretary shall not provide funds for the operation or maintenance of the project.
 
 
 <a id="section-390h-11"></a>
 ## § 390h–11. Los Angeles area water reclamation and reuse project
 **(a)** The Secretary is authorized to participate with the city and county of Los Angeles, State of California, West Basin Municipal Water District, and other appropriate authorities, in the design, planning, and construction of water reclamation and reuse projects to treat approximately one hundred and twenty thousand acre-feet per year of effluent from the city and county of Los Angeles, in order to provide new water supplies for industrial, environmental, and other beneficial purposes, to reduce the demand for imported water, and to reduce sewage effluent discharged into Santa Monica Bay.
 
-**(b)** The Secretary’s share of costs associated with the project described in subsection (a) of this section shall not exceed 25 per centum of the total. The Secretary shall not provide funds for operation or maintenance of the project.
+**(b)** The Secretary’s share of costs associated with the project described in subsection (a) shall not exceed 25 per centum of the total. The Secretary shall not provide funds for operation or maintenance of the project.
 
 
 <a id="section-390h-12"></a>
 ## § 390h–12. San Gabriel basin demonstration project
 **(a)** The Secretary, in cooperation with the Metropolitan Water District of Southern California and the Main San Gabriel Water Quality Authority or a successor public agency, is authorized to participate in the design, planning and construction of a conjunctive-use facility designed to improve the water quality in the San Gabriel groundwater basin and allow the utilization of the basin as a water storage facility; Provided, That this authority shall not be construed to limit the authority of the United States under any other Federal statute to pursue remedial actions or recovery of costs for work performed pursuant to this subsection.
 
-**(b)** The Secretary’s share of costs associated with the project described in subsection (a) of this section shall not exceed 25 per centum of the total. The Secretary shall not provide funds for the operation or maintenance of the project.
+**(b)** The Secretary’s share of costs associated with the project described in subsection (a) shall not exceed 25 per centum of the total. The Secretary shall not provide funds for the operation or maintenance of the project.
 
 
 <a id="section-390h-12a"></a>
 ## § 390h–12a. North San Diego County Area Water Recycling Project
 **(a) Authorization** The Secretary, in cooperation with the appropriate State and local authorities, is authorized to participate in the design, planning, and construction of the North San Diego County Area Water Recycling Project, consisting of projects to reclaim and reuse water within service areas of the San Elijo Joint Powers Authority, the Leucadia County Water District, the City of Carlsbad, and the Olivenhain Municipal Water District, California.
 
-**(b) Cost share** The Federal share of the cost of a project described in subsection (a) of this section shall not exceed 25 percent of the total cost.
+**(b) Cost share** The Federal share of the cost of a project described in subsection (a) shall not exceed 25 percent of the total cost.
 
-**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a) of this section.
+**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a).
 
 ### Statutory Notes
 
@@ -1146,9 +1339,9 @@ A prior section 1615 of Pub. L. 102–575 was renumbered section 1631 and is cla
 ## § 390h–12b. Calleguas Municipal Water District Recycling Project
 **(a) Authorization** The Secretary, in cooperation with the appropriate State and local authorities, is authorized to participate in the design, planning, and construction of the Calleguas Municipal Water District Recycling Project to reclaim and reuse water in the service area of the Calleguas Municipal Water District in Ventura County, California.
 
-**(b) Cost share** The Federal share of the cost of a project described in subsection (a) of this section shall not exceed 25 percent of the total cost.
+**(b) Cost share** The Federal share of the cost of a project described in subsection (a) shall not exceed 25 percent of the total cost.
 
-**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a) of this section.
+**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a).
 
 ### Statutory Notes
 
@@ -1160,9 +1353,9 @@ A prior section 1616 of Pub. L. 102–575 was renumbered section 1632 and is cla
 ## § 390h–12c. Central Valley Water Recycling Project
 **(a) Authorization** The Secretary, in cooperation with the appropriate State and local authorities, is authorized to participate in the design, planning, and construction of the Central Valley Water Recycling Project to reclaim and reuse water in the service areas of the Central Valley Reclamation Facility and the Salt Lake County Water Conservancy District in Utah.
 
-**(b) Cost share** The Federal share of the cost of a project described in subsection (a) of this section shall not exceed 25 percent of the total cost.
+**(b) Cost share** The Federal share of the cost of a project described in subsection (a) shall not exceed 25 percent of the total cost.
 
-**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a) of this section.
+**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a).
 
 ### Statutory Notes
 
@@ -1174,36 +1367,36 @@ A prior section 1617 of Pub. L. 102–575 was renumbered section 1633 and is cla
 ## § 390h–12d. St. George Area Water Recycling Project
 **(a) Authorization** The Secretary, in cooperation with the appropriate State and local authorities, is authorized to participate in the design, planning, and construction of the St. George Area Water Recycling Project to reclaim and reuse water in the service area of the Washington County Water Conservancy District in Utah.
 
-**(b) Cost share** The Federal share of the cost of a project described in subsection (a) of this section shall not exceed 25 percent of the total cost.
+**(b) Cost share** The Federal share of the cost of a project described in subsection (a) shall not exceed 25 percent of the total cost.
 
-**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a) of this section.
+**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a).
 
 
 <a id="section-390h-12e"></a>
 ## § 390h–12e. Watsonville Area Water Recycling Project
 **(a) Authorization** The Secretary, in cooperation with the City of Watsonville, California, is authorized to participate in the design, planning, and construction of the Watsonville Area Water Recycling Project to reclaim and reuse water in the Pajaro Valley in Santa Cruz County, California.
 
-**(b) Cost share** The Federal share of the cost of a project described in subsection (a) of this section shall not exceed 25 percent of the total cost.
+**(b) Cost share** The Federal share of the cost of a project described in subsection (a) shall not exceed 25 percent of the total cost.
 
-**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a) of this section.
+**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a).
 
 
 <a id="section-390h-12f"></a>
 ## § 390h–12f. Southern Nevada Water Recycling Project
 **(a) Authorization** The Secretary, in cooperation with the appropriate State and local authorities, is authorized to participate in the design, planning, and construction of the Southern Nevada Water Recycling Project to reclaim and reuse water in the service area of the Southern Nevada Water Authority in Clark County, Nevada.
 
-**(b) Cost share** The Federal share of the cost of a project described in subsection (a) of this section shall not exceed 25 percent of the total cost.
+**(b) Cost share** The Federal share of the cost of a project described in subsection (a) shall not exceed 25 percent of the total cost.
 
-**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a) of this section.
+**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a).
 
 
 <a id="section-390h-12g"></a>
 ## § 390h–12g. Albuquerque Metropolitan Area Water Reclamation and Reuse Project
 **(a) Authorization** The Secretary, in cooperation with the city of Albuquerque, New Mexico, is authorized to participate in the planning, design, and construction of the Albuquerque Metropolitan Area Water Reclamation and Reuse Project to reclaim and reuse industrial and municipal wastewater and reclaim and use naturally impaired ground water and nonpotable surface water in the Albuquerque metropolitan area.
 
-**(b) Cost share** The Federal share of the cost of a project described in subsection (a) of this section shall not exceed 25 percent of the total cost.
+**(b) Cost share** The Federal share of the cost of a project described in subsection (a) shall not exceed 25 percent of the total cost.
 
-**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a) of this section.
+**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a).
 
 ### Statutory Notes
 
@@ -1222,27 +1415,27 @@ Pub. L. 105–62, § 506(1), which directed the substitution of “project” fo
 ## § 390h–12h. El Paso Water Reclamation and Reuse Project
 **(a) Authorization** The Secretary, in cooperation with the appropriate State and local authorities, is authorized to participate in the design, planning, and construction of the El Paso Water Reclamation and Reuse Project to reclaim and reuse wastewater in the service area of the El Paso Water Utilities Public Service Board, El Paso, Texas.
 
-**(b) Cost share** The Federal share of the cost of a project described in subsection (a) of this section shall not exceed 25 percent of the total cost.
+**(b) Cost share** The Federal share of the cost of a project described in subsection (a) shall not exceed 25 percent of the total cost.
 
-**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a) of this section.
+**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a).
 
 
 <a id="section-390h-12i"></a>
 ## § 390h–12i. Reclaimed water in Pasadena
 **(a) Authorization** The Secretary, in cooperation with the appropriate State and local authorities, is authorized to participate in the design, planning, and construction of the City of Pasadena, California, reclaimed water project to obtain, store, and use reclaimed water in Pasadena and its service area, as well as neighboring communities.
 
-**(b) Cost share** The Federal share of the cost of a project described in subsection (a) of this section shall not exceed 25 percent of the total cost.
+**(b) Cost share** The Federal share of the cost of a project described in subsection (a) shall not exceed 25 percent of the total cost.
 
-**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a) of this section.
+**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a).
 
 
 <a id="section-390h-12j"></a>
 ## § 390h–12j. Orange County Regional Water Reclamation Project
 **(a) Authorization** The Secretary, in cooperation with the appropriate State and local authorities, is authorized to participate in the design, planning, and construction of the Orange County Regional Water Reclamation Project, to reclaim and reuse water within the service area of the Orange County Water District in California.
 
-**(b) Cost share** The Federal share of the cost of a project described in subsection (a) of this section shall not exceed 25 percent of the total cost.
+**(b) Cost share** The Federal share of the cost of a project described in subsection (a) shall not exceed 25 percent of the total cost.
 
-**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a) of this section.
+**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a).
 
 ### Statutory Notes
 
@@ -1256,54 +1449,54 @@ Subsec. (a). Pub. L. 111–11, § 9111(c)(2), struck out “phase 1 of” before
 ## § 390h–12k. City of West Jordan Water Reuse Project
 **(a) Authorization** The Secretary, in cooperation with the City of West Jordan, Utah, is authorized to participate in the design, planning, and construction of the City of West Jordan Water Reuse Project to recycle and reuse water in its service area from the South Valley Water Reclamation Facility Discharge Waters in Utah.
 
-**(b) Cost share** The Federal share of the cost of a project described in subsection (a) of this section shall not exceed 25 percent of the total cost.
+**(b) Cost share** The Federal share of the cost of a project described in subsection (a) shall not exceed 25 percent of the total cost.
 
-**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a) of this section.
+**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a).
 
 
 <a id="section-390h-12l"></a>
 ## § 390h–12l. Hi-Desert Water District in Yucca Valley, California wastewater collection and reuse facility
 **(a) Authorization** The Secretary, in cooperation with the appropriate State and local authorities, is authorized to participate in the design, planning, and construction of the Hi-Desert Water District in Yucca Valley, California wastewater collection and reuse facility.
 
-**(b) Cost share** The Federal share of the cost of a project described in subsection (a) of this section shall not exceed 25 percent of the total cost.
+**(b) Cost share** The Federal share of the cost of a project described in subsection (a) shall not exceed 25 percent of the total cost.
 
-**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a) of this section.
+**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a).
 
 
 <a id="section-390h-12m"></a>
 ## § 390h–12m. Mission Basin Brackish Groundwater Desalting Demonstration Project
 **(a) Authorization** The Secretary, in cooperation with the City of Oceanside, is authorized to participate in the design, planning, and construction of a 3,000,000 gallon per day expansion of the Mission Basin Brackish Groundwater Desalting Demonstration Project in Oceanside, California.
 
-**(b) Cost share** The Federal share of the cost of a project described in subsection (a) of this section shall not exceed 25 percent of the total cost.
+**(b) Cost share** The Federal share of the cost of a project described in subsection (a) shall not exceed 25 percent of the total cost.
 
-**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a) of this section.
+**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a).
 
 
 <a id="section-390h-12n"></a>
 ## § 390h–12n. Treatment of effluent from sanitation districts of Los Angeles County through city of Long Beach
 **(a) Authorization** The Secretary, in cooperation with the Water Replenishment District of Southern California, the Orange County Water District in the State of California, and other appropriate authorities, is authorized to participate in the design, planning, and construction of water reclamation and reuse projects to treat approximately 10,000 acre-feet per year of effluent from the sanitation districts of Los Angeles County through the city of Long Beach.
 
-**(b) Cost share** The Federal share of the cost of a project described in subsection (a) of this section shall not exceed 25 percent of the total cost.
+**(b) Cost share** The Federal share of the cost of a project described in subsection (a) shall not exceed 25 percent of the total cost.
 
-**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a) of this section.
+**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a).
 
 
 <a id="section-390h-12o"></a>
 ## § 390h–12o. San Joaquin Area Water Recycling and Reuse Project
 **(a) Authorization** The Secretary, in cooperation with the appropriate State and local authorities, is authorized to participate in the design, planning, and construction of the San Joaquin Area Water Recycling and Reuse Project, in cooperation with the City of Tracy, and consisting of participating projects which will reclaim and reuse water within the County of San Joaquin in California.
 
-**(b) Cost share** The Federal share of the cost of a project described in subsection (a) of this section shall not exceed 25 percent of the total cost.
+**(b) Cost share** The Federal share of the cost of a project described in subsection (a) shall not exceed 25 percent of the total cost.
 
-**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a) of this section.
+**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a).
 
 
 <a id="section-390h-12p"></a>
 ## § 390h–12p. Tooele Wastewater Treatment and Reuse Project
 **(a) Authorization** The Secretary, in cooperation with Tooele City, Utah, is authorized to participate in the design, planning, and construction of the Tooele Wastewater Treatment and Reuse Project.
 
-**(b) Cost share** The Federal share of the cost of a project described in subsection (a) of this section shall not exceed 25 percent of the total cost.
+**(b) Cost share** The Federal share of the cost of a project described in subsection (a) shall not exceed 25 percent of the total cost.
 
-**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a) of this section.
+**(c) Limitation** The Secretary shall not provide funds for the operation or maintenance of a project described in subsection (a).
 
 
 <a id="section-390h-13"></a>
@@ -1322,7 +1515,7 @@ Subsec. (a). Pub. L. 111–11, § 9111(c)(2), struck out “phase 1 of” before
 
 (2) The requirements of paragraph (1) shall not apply to those projects authorized by sections 390h to 390h–39 of this title for which funds were appropriated prior to January 1, 1996.
 
-**(c) Congressional notification** The Secretary shall notify the Committees on Resources and Appropriations of the House of Representatives and the Committees on Energy and Natural Resources and Appropriations of the Senate within 30 days after the signing of a cost-sharing agreement pursuant to subsection (b) of this section that such an agreement has been signed and that the Secretary has determined that the non-Federal project sponsor is financially capable of funding the project’s non-Federal share of the project’s costs.
+**(c) Congressional notification** The Secretary shall notify the Committees on Resources and Appropriations of the House of Representatives and the Committees on Energy and Natural Resources and Appropriations of the Senate within 30 days after the signing of a cost-sharing agreement pursuant to subsection (b) that such an agreement has been signed and that the Secretary has determined that the non-Federal project sponsor is financially capable of funding the project’s non-Federal share of the project’s costs.
 
 **(d) Ceiling on Federal share**
 
@@ -1436,9 +1629,9 @@ Another section 1636 of Pub. L. 102–575 was renumbered 1637 and is classified 
 ## § 390h–19. Williamson County, Texas, water recycling and reuse project
 **(a) Authorization** The Secretary, in cooperation with the Lower Colorado River Authority, Texas, is authorized to participate in the design, planning, and construction of permanent facilities to reclaim and reuse water in Williamson County, Texas.
 
-**(b) Cost share** The Federal share of the costs of the project described in subsection (a) of this section shall not exceed 25 percent of the total cost.
+**(b) Cost share** The Federal share of the costs of the project described in subsection (a) shall not exceed 25 percent of the total cost.
 
-**(c) Limitation** The Secretary shall not provide funds for the operation and maintenance of the project described in subsection (a) of this section.
+**(c) Limitation** The Secretary shall not provide funds for the operation and maintenance of the project described in subsection (a).
 
 ### Statutory Notes
 
@@ -1499,9 +1692,9 @@ Subsec. (c)(6), (7). Pub. L. 104–266, § 4(3), (5), added pars. (6) and (7).
 
 (3) in cooperation with the County of Maui Wastewater Reclamation Division, Hawaii, participate in the design, planning, and construction of, and acquire land for, facilities in Lahaina, Hawaii, for the distribution of recycled water from the Lahaina Wastewater Reclamation Facility for non-potable uses within the County.
 
-**(b) Cost share** The Federal share of the cost of a project described in subsection (a) of this section shall not exceed 25 percent of the total cost of the project.
+**(b) Cost share** The Federal share of the cost of a project described in subsection (a) shall not exceed 25 percent of the total cost of the project.
 
-**(c) Limitation** Funds provided by the Secretary shall not be used for the operation and maintenance of a project described in subsection (a) of this section.
+**(c) Limitation** Funds provided by the Secretary shall not be used for the operation and maintenance of a project described in subsection (a).
 
 **(d) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to carry out this section.
 
@@ -1870,7 +2063,7 @@ Pub. L. 102–580, title II, § 217, Oct. 31, 1992, 106 Stat. 4833, provided tha
 ## § 390h–5. San Jose area water reclamation and reuse program
 **(a)** The Secretary, in cooperation with the city of San Jose, California, and the Santa Clara Valley Water District, and local water suppliers, shall participate in the planning, design and construction of demonstration and permanent facilities to reclaim and reuse water in the San Jose metropolitan service area.
 
-**(b)** The Federal share of the costs of the facilities authorized by subsection (a) of this section shall not exceed 25 per centum of the total. The Secretary shall not provide funds for the operation or maintenance of the project.
+**(b)** The Federal share of the costs of the facilities authorized by subsection (a) shall not exceed 25 per centum of the total. The Secretary shall not provide funds for the operation or maintenance of the project.
 
 ### Statutory Notes
 
@@ -1882,7 +2075,7 @@ Pub. L. 102–580, title II, § 218, Oct. 31, 1992, 106 Stat. 4834, provided tha
 ## § 390h–6. Phoenix metropolitan water reclamation study and program
 **(a) General authority** The Secretary, in cooperation with the city of Phoenix, Arizona, shall participate in the planning, design, and construction of the Phoenix Metropolitan Water Reclamation and Reuse Project to utilize fully wastewater from the regional wastewater treatment plant for direct municipal, industrial, agricultural and environmental purposes, groundwater recharge and indirect potable reuse in the Phoenix metropolitan area.
 
-**(b) Federal share** The Federal share of the costs associated with the project described in subsection (a) of this section shall not exceed 25 per centum of the total. The Secretary shall not provide funds for operation or maintenance of the project.
+**(b) Federal share** The Federal share of the costs associated with the project described in subsection (a) shall not exceed 25 per centum of the total. The Secretary shall not provide funds for operation or maintenance of the project.
 
 ### Statutory Notes
 
@@ -1950,7 +2143,7 @@ Subsec. (c). Pub. L. 106–53, § 596(3), struck out subsec. (c) which read as f
 
 (2) if the owners of such lands have requested that a recordable contract be executed by the Secretary.
 
-**(c) Amendment of existing recordable contracts** Recordable contracts existing on October 12, 1982, shall be amended at the request of the landowner to conform with the ownership limitations contained in this subchapter: Provided, That the time period for disposal of excess lands specified in the existing recordable contract shall not be extended except as provided in subsection (e) of this section.
+**(c) Amendment of existing recordable contracts** Recordable contracts existing on October 12, 1982, shall be amended at the request of the landowner to conform with the ownership limitations contained in this subchapter: Provided, That the time period for disposal of excess lands specified in the existing recordable contract shall not be extended except as provided in subsection (e).
 
 **(d) Power of attorney requirement in contracts; exercise of power by Secretary** Any recordable contract covering excess lands sales shall provide that a power of attorney shall vest in the Secretary to sell any excess lands not disposed of by the owners thereof within the period of time specified in the recordable contract. In the exercise of that power, the Secretary shall sell such lands through an impartial selection process only to qualified purchasers according to such reasonable rules and regulations as the Secretary may establish: Provided, That the Secretary shall recover for the owner the fair market value of the land unrelated to irrigation water deliveries plus the fair market value of improvements thereon.
 
@@ -2051,7 +2244,7 @@ Federal reclamation law, referred to in subsec. (a), is defined in [section 390a
 
 (2) infrequent and otherwise unmanaged flood flows of short duration.
 
-**(b) Waiver of payment for temporary water supplies** The Secretary shall have the authority to waive payments for a supply of water described in subsection (a) of this section.
+**(b) Waiver of payment for temporary water supplies** The Secretary shall have the authority to waive payments for a supply of water described in subsection (a).
 
 ### Statutory Notes
 
@@ -2166,7 +2359,7 @@ Federal reclamation law, referred to in text, is defined in [section 390aa of th
 
 **(g) Annual audit of compliance with reclamation laws** In addition to any other audit or compliance activities which may otherwise be undertaken, the Secretary of the Interior, or his designee, shall conduct a thorough audit of the compliance with the reclamation law of the United States, specifically including this subchapter, by legal entities and individuals subject to such law. At a minimum, the Secretary shall complete audits of those legal entities and individuals whose landholdings or operations exceed 960 acres within 3 years.
 
-**(h) Recordable contracts executed prior to October 12, 1982** The provisions of [section 390ee(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section390ee/c&num=0&edition=prelim) are and have been applicable to all recordable contracts executed prior to October 12, 1982, and any decision, rule, or regulation promulgated by the Department of the Interior to the contrary is hereby revoked: Provided, That notwithstanding the provisions of subsection (i) of this section, the Secretary shall not seek reimbursement for any amounts due under this subsection or [section 390ee(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section390ee/c&num=0&edition=prelim) which was due prior to December 22, 1987.
+**(h) Recordable contracts executed prior to October 12, 1982** The provisions of [section 390ee(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section390ee/c&num=0&edition=prelim) are and have been applicable to all recordable contracts executed prior to October 12, 1982, and any decision, rule, or regulation promulgated by the Department of the Interior to the contrary is hereby revoked: Provided, That notwithstanding the provisions of subsection (i), the Secretary shall not seek reimbursement for any amounts due under this subsection or [section 390ee(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section390ee/c&num=0&edition=prelim) which was due prior to December 22, 1987.
 
 **(i) Collection of underpayment with interest for irrigation water** When the Secretary finds that any individual or legal entity subject to reclamation law, including this subchapter, has not paid the required amount for irrigation water delivered to a landholding pursuant to reclamation law, including this subchapter, he shall collect the amount of any underpayment with interest accruing from the date the required payment was due until paid. The interest rate shall be determined by the Secretary of the Treasury on the basis of the weighted average yield of all interest bearing marketable issues sold by the Treasury during the period of underpayment.
 
@@ -2545,7 +2738,7 @@ Section 10609(a), referred to in subsec. (c)(3)(B)(i)(I), is section 10609(a) of
 Pub. L. 111–11, title X, § 10303, Mar. 30, 2009, 123 Stat. 1370, provided that: “(a) Effect of Execution of Agreement.—The execution of the Agreement under section 10701(a)(2) [[43 U.S.C. 620](./chapter-12b-colorado-river-storage-project.md#section-620) note] shall not constitute a major Federal action under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.). “(b) Compliance With Environmental Laws.—In carrying out this subtitle [subtitle B (§§ 10301–10704) of title X of Pub. L. 111–11, see Definitions note below], the Secretary shall comply with each law of the Federal Government relating to the protection of the environment, including—“(1) the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.); and “(2) the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.).”
 
 #### Definitions
-Pub. L. 111–11, title X, § 10302, Mar. 30, 2009, 123 Stat. 1367, provided that: “In this subtitle [subtitle B (§§ 10301–10704) of title X of Pub. L. 111–11, enacting this section, former section 615jj, and [section 620n–1 of this title](./chapter-12b-colorado-river-storage-project.md#section-620n-1), amending former section 615ss and sections 620 and 620o of this title, repealing former [section 615jj of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section615jj&num=0&edition=prelim), and enacting provisions set out as notes under this section and sections 371 and 620 of this title]: “(1) Aamodt adjudication.—The term ‘Aamodt adjudication’ means the general stream adjudication that is the subject of the civil action entitled ‘State of New Mexico, ex rel. State Engineer and United States of America, Pueblo de Nambe, Pueblo de Pojoaque, Pueblo de San Ildefonso, and Pueblo de Tesuque v. R. Lee Aamodt, et al.’, No. 66 CV 6639 MV/LCS (D.N.M.). “(2) Abeyta adjudication.—The term ‘Abeyta adjudication’ means the general stream adjudication that is the subject of the civil actions entitled ‘State of New Mexico v. Abeyta and State of New Mexico v. Arrellano’, Civil Nos. 7896–BB (D.N.M) and 7939–BB (D.N.M.) (consolidated). “(3) Acre-feet.—The term ‘acre-feet’ means acre-feet per year. “(4) Agreement.—The term ‘Agreement’ means the agreement among the State of New Mexico, the Nation, and the United States setting forth a stipulated and binding agreement signed by the State of New Mexico and the Nation on April 19, 2005. “(5) Allottee.—The term ‘allottee’ means a person that holds a beneficial real property interest in a Navajo allotment that—“(A) is located within the Navajo Reservation or the State of New Mexico; “(B) is held in trust by the United States; and “(C) was originally granted to an individual member of the Nation by public land order or otherwise. “(6) Animas-la plata project.—The term ‘Animas-La Plata Project’ has the meaning given the term in section 3 of Public Law 100–585 (102 Stat. 2973), including Ridges Basin Dam, Lake Nighthorse, the Navajo Nation Municipal Pipeline, and any other features or modifications made pursuant to the Colorado Ute Settlement Act Amendments of 2000 (Public Law 106–554; 114 Stat. 2763A–258). “(7) City.—The term ‘City’ means the city of Gallup, New Mexico, or a designee of the City, with authority to provide water to the Gallup, New Mexico service area. “(8) Colorado river compact.—The term ‘Colorado River Compact’ means the Colorado River Compact of 1922 as approved by Congress in the Act of December 21, 1928 (45 Stat. 1057) and by the Presidential Proclamation of June 25, 1929 (46 Stat. 3000). “(9) Colorado river system.—The term ‘Colorado River System’ has the same meaning given the term in Article II(a) of the Colorado River Compact. “(10) Compact.—The term ‘Compact’ means the Upper Colorado River Basin Compact as consented to by the Act of April 6, 1949 (63 Stat. 31, chapter 48). “(11) Contract.—The term ‘Contract’ means the contract between the United States and the Nation setting forth certain commitments, rights, and obligations of the United States and the Nation, as described in paragraph 6.0 of the Agreement. “(12) Depletion.—The term ‘depletion’ means the depletion of the flow of the San Juan River stream system in the State of New Mexico by a particular use of water (including any depletion incident to the use) and represents the diversion from the stream system by the use, less return flows to the stream system from the use. “(13) Draft impact statement.—The term ‘Draft Impact Statement’ means the draft environmental impact statement prepared by the Bureau of Reclamation for the Project dated March 2007. “(14) Fund.—The term ‘Fund’ means the Reclamation Waters Settlements Fund established by section 10501(a) [[43 U.S.C. 407(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section407/a&num=0&edition=prelim)]. “(15) Hydrologic determination.—The term ‘hydrologic determination’ means the hydrologic determination entitled ‘Water Availability from Navajo Reservoir and the Upper Colorado River Basin for Use in New Mexico,’ prepared by the Bureau of Reclamation pursuant to section 11 of the Act of June 13, 1962 (Public Law 87–483; 76 Stat. 99) [former [43 U.S.C. 615ss](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section615ss&num=0&edition=prelim)], and dated May 23, 2007. “(16) Lower basin.—The term ‘Lower Basin’ has the same meaning given the term in Article II(g) of the Colorado River Compact. “(17) Nation.—The term ‘Nation’ means the Navajo Nation, a body politic and federally-recognized Indian nation as provided for in section 101(2) [102(2)] of the Federally Recognized Indian Tribe List [Act] of 1994 ([25 U.S.C. 497a(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section497a/2&num=0&edition=prelim) [479a(2)]), also known variously as the ‘Navajo Tribe,’ the ‘Navajo Tribe of Arizona, New Mexico & Utah,’ and the ‘Navajo Tribe of Indians’ and other similar names, and includes all bands of Navajo Indians and chapters of the Navajo Nation. “(18) Navajo-gallup water supply project; project.—The term ‘Navajo-Gallup Water Supply Project’ or ‘Project’ means the Navajo-Gallup Water Supply Project authorized under section 10602(a) [123 Stat. 1379], as described as the preferred alternative in the Draft Impact Statement. “(19) Navajo indian irrigation project.—The term ‘Navajo Indian Irrigation Project’ means the Navajo Indian irrigation project authorized by section 2 of Public Law 87–483 (76 Stat. 96) [former [43 U.S.C. 615jj](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section615jj&num=0&edition=prelim)]. “(20) Navajo reservoir.—The term ‘Navajo Reservoir’ means the reservoir created by the impoundment of the San Juan River at Navajo Dam, as authorized by the Act of April 11, 1956 (commonly known as the ‘Colorado River Storage Project Act’) ([43 U.S.C. 620](./chapter-12b-colorado-river-storage-project.md#section-620) et seq.). “(21) Navajo nation municipal pipeline; pipeline.—The term ‘Navajo Nation Municipal Pipeline’ or ‘Pipeline’ means the pipeline used to convey the water of the Animas-La Plata Project of the Navajo Nation from the City of Farmington, New Mexico, to communities of the Navajo Nation located in close proximity to the San Juan River Valley in the State of New Mexico (including the City of Shiprock), as authorized by section 15(b) of the Colorado Ute Indian Water Rights Settlement Act of 1988 (Public Law 100–585; 102 Stat. 2973; 114 Stat. 2763A–263). “(22) Non-navajo irrigation districts.—The term ‘Non-Navajo Irrigation Districts’ means—“(A) the Hammond Conservancy District; “(B) the Bloomfield Irrigation District; and “(C) any other community ditch organization in the San Juan River basin in the State of New Mexico. “(23) Partial final decree.—The term ‘Partial Final Decree’ means a final and binding judgment and decree entered by a court in the stream adjudication, setting forth the rights of the Nation to use and administer waters of the San Juan River Basin in New Mexico, as set forth in Appendix 1 of the Agreement. “(24) Project participants.—The term ‘Project Participants’ means the City, the Nation, and the Jicarilla Apache Nation. “(25) San juan river basin recovery implementation program.—The term ‘San Juan River Basin Recovery Implementation Program’ means the intergovernmental program established pursuant to the cooperative agreement dated October 21, 1992 (including any amendments to the program). “(26) Secretary.—The term ‘Secretary’ means the Secretary of the Interior, acting through the Commissioner of Reclamation or any other designee. “(27) Stream adjudication.—The term ‘stream adjudication’ means the general stream adjudication that is the subject of New Mexico v. United States, et al., No. 75–185 (11th Jud. Dist., San Juan County, New Mexico) (involving claims to waters of the San Juan River and the tributaries of that river). “(28) Supplemental partial final decree.—The term ‘Supplemental Partial Final Decree’ means a final and binding judgment and decree entered by a court in the stream adjudication, setting forth certain water rights of the Nation, as set forth in Appendix 2 of the Agreement. “(29) Trust fund.—The term ‘Trust Fund’ means the Navajo Nation Water Resources Development Trust Fund established by section 10702(a) [123 Stat. 1402]. “(30) Upper basin.—The term ‘Upper Basin’ has the same meaning given the term in Article II(f) of the Colorado River Compact.”
+Pub. L. 111–11, title X, § 10302, Mar. 30, 2009, 123 Stat. 1367, as amended by Pub. L. 114–57, § 2(a), Sept. 30, 2015, 129 Stat. 528, provided that: “In this subtitle [subtitle B (§§ 10301–10704) of title X of Pub. L. 111–11, enacting this section, former section 615jj, and [section 620n–1 of this title](./chapter-12b-colorado-river-storage-project.md#section-620n-1), amending former section 615ss and sections 620 and 620o of this title, repealing former [section 615jj of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section615jj&num=0&edition=prelim), and enacting provisions set out as notes under this section and sections 371 and 620 of this title]: “(1) Aamodt adjudication.—The term ‘Aamodt adjudication’ means the general stream adjudication that is the subject of the civil action entitled ‘State of New Mexico, ex rel. State Engineer and United States of America, Pueblo de Nambe, Pueblo de Pojoaque, Pueblo de San Ildefonso, and Pueblo de Tesuque v. R. Lee Aamodt, et al.’, No. 66 CV 6639 MV/LCS (D.N.M.). “(2) Abeyta adjudication.—The term ‘Abeyta adjudication’ means the general stream adjudication that is the subject of the civil actions entitled ‘State of New Mexico v. Abeyta and State of New Mexico v. Arellano’, Civil Nos. 7896–BB (D.N.M) and 7939–BB (D.N.M.) (consolidated). “(3) Acre-feet.—The term ‘acre-feet’ means acre-feet per year. “(4) Agreement.—The term ‘Agreement’ means the agreement among the State of New Mexico, the Nation, and the United States setting forth a stipulated and binding agreement signed by the State of New Mexico and the Nation on April 19, 2005. “(5) Allottee.—The term ‘allottee’ means a person that holds a beneficial real property interest in a Navajo allotment that—“(A) is located within the Navajo Reservation or the State of New Mexico; “(B) is held in trust by the United States; and “(C) was originally granted to an individual member of the Nation by public land order or otherwise. “(6) Animas-la plata project.—The term ‘Animas-La Plata Project’ has the meaning given the term in section 3 of Public Law 100–585 (102 Stat. 2973), including Ridges Basin Dam, Lake Nighthorse, the Navajo Nation Municipal Pipeline, and any other features or modifications made pursuant to the Colorado Ute Settlement Act Amendments of 2000 (Public Law 106–554; 114 Stat. 2763A–258). “(7) City.—The term ‘City’ means the city of Gallup, New Mexico, or a designee of the City, with authority to provide water to the Gallup, New Mexico service area. “(8) Colorado river compact.—The term ‘Colorado River Compact’ means the Colorado River Compact of 1922 as approved by Congress in the Act of December 21, 1928 (45 Stat. 1057) and by the Presidential Proclamation of June 25, 1929 (46 Stat. 3000). “(9) Colorado river system.—The term ‘Colorado River System’ has the same meaning given the term in Article II(a) of the Colorado River Compact. “(10) Compact.—The term ‘Compact’ means the Upper Colorado River Basin Compact as consented to by the Act of April 6, 1949 (63 Stat. 31, chapter 48). “(11) Contract.—The term ‘Contract’ means the contract between the United States and the Nation setting forth certain commitments, rights, and obligations of the United States and the Nation, as described in paragraph 6.0 of the Agreement. “(12) Depletion.—The term ‘depletion’ means the depletion of the flow of the San Juan River stream system in the State of New Mexico by a particular use of water (including any depletion incident to the use) and represents the diversion from the stream system by the use, less return flows to the stream system from the use. “(13) Draft impact statement.—The term ‘Draft Impact Statement’ means the draft environmental impact statement prepared by the Bureau of Reclamation for the Project dated March 2007. “(14) Fund.—The term ‘Fund’ means the Reclamation Waters Settlements Fund established by section 10501(a) [[43 U.S.C. 407(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section407/a&num=0&edition=prelim)]. “(15) Hydrologic determination.—The term ‘hydrologic determination’ means the hydrologic determination entitled ‘Water Availability from Navajo Reservoir and the Upper Colorado River Basin for Use in New Mexico,’ prepared by the Bureau of Reclamation pursuant to section 11 of the Act of June 13, 1962 (Public Law 87–483; 76 Stat. 99) [former [43 U.S.C. 615ss](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section615ss&num=0&edition=prelim)], and dated May 23, 2007. “(16) Lower basin.—The term ‘Lower Basin’ has the same meaning given the term in Article II(g) of the Colorado River Compact. “(17) Nation.—The term ‘Nation’ means the Navajo Nation, a body politic and federally-recognized Indian nation as provided for in section 101(2) [102(2)] of the Federally Recognized Indian Tribe List [Act] of 1994 ([25 U.S.C. 497a(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section497a/2&num=0&edition=prelim)) [now [25 U.S.C. 5130(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5130/2&num=0&edition=prelim)], also known variously as the ‘Navajo Tribe,’ the ‘Navajo Tribe of Arizona, New Mexico & Utah,’ and the ‘Navajo Tribe of Indians’ and other similar names, and includes all bands of Navajo Indians and chapters of the Navajo Nation. “(18) Navajo-gallup water supply project; project.—The term ‘Navajo-Gallup Water Supply Project’ or ‘Project’ means the Navajo-Gallup Water Supply Project authorized under section 10602(a) [123 Stat. 1379], as described as the preferred alternative in the Draft Impact Statement. “(19) Navajo indian irrigation project.—The term ‘Navajo Indian Irrigation Project’ means the Navajo Indian irrigation project authorized by section 2 of Public Law 87–483 (76 Stat. 96) [former [43 U.S.C. 615jj](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section615jj&num=0&edition=prelim)]. “(20) Navajo reservoir.—The term ‘Navajo Reservoir’ means the reservoir created by the impoundment of the San Juan River at Navajo Dam, as authorized by the Act of April 11, 1956 (commonly known as the ‘Colorado River Storage Project Act’) ([43 U.S.C. 620](./chapter-12b-colorado-river-storage-project.md#section-620) et seq.). “(21) Navajo nation municipal pipeline; pipeline.—The term ‘Navajo Nation Municipal Pipeline’ or ‘Pipeline’ means the pipeline used to convey the water of the Animas-La Plata Project of the Navajo Nation from the City of Farmington, New Mexico, to communities of the Navajo Nation located in close proximity to the San Juan River Valley in the State of New Mexico (including the City of Shiprock), as authorized by section 15(b) of the Colorado Ute Indian Water Rights Settlement Act of 1988 (Public Law 100–585; 102 Stat. 2973; 114 Stat. 2763A–263). “(22) Non-navajo irrigation districts.—The term ‘Non-Navajo Irrigation Districts’ means—“(A) the Hammond Conservancy District; “(B) the Bloomfield Irrigation District; and “(C) any other community ditch organization in the San Juan River basin in the State of New Mexico. “(23) Partial final decree.—The term ‘Partial Final Decree’ means a final and binding judgment and decree entered by a court in the stream adjudication, setting forth the rights of the Nation to use and administer waters of the San Juan River Basin in New Mexico, as set forth in Appendix 1 of the Agreement. “(24) Project participants.—The term ‘Project Participants’ means the City, the Nation, and the Jicarilla Apache Nation. “(25) San juan river basin recovery implementation program.—The term ‘San Juan River Basin Recovery Implementation Program’ means the intergovernmental program established pursuant to the cooperative agreement dated October 21, 1992 (including any amendments to the program). “(26) Secretary.—The term ‘Secretary’ means the Secretary of the Interior, acting through the Commissioner of Reclamation or any other designee. “(27) Stream adjudication.—The term ‘stream adjudication’ means the general stream adjudication that is the subject of New Mexico v. United States, et al., No. 75–184 (11th Jud. Dist., San Juan County, New Mexico) (involving claims to waters of the San Juan River and the tributaries of that river). “(28) Supplemental partial final decree.—The term ‘Supplemental Partial Final Decree’ means a final and binding judgment and decree entered by a court in the stream adjudication, setting forth certain water rights of the Nation, as set forth in Appendix 2 of the Agreement. “(29) Trust fund.—The term ‘Trust Fund’ means the Navajo Nation Water Resources Development Trust Fund established by section 10702(a) [123 Stat. 1402]. “(30) Upper basin.—The term ‘Upper Basin’ has the same meaning given the term in Article II(f) of the Colorado River Compact.”
 
 
 <a id="section-411"></a>
@@ -4109,7 +4302,7 @@ If the proposed construction is found by the Secretary to have engineering feasi
 
 (4) That the first annual installment for any project contract unit, or for any irrigation block, as the case may be, shall accrue, on the date fixed by the Secretary, in the year after the last year of the development period or, if there be not development period, in the calendar year after the Secretary announces that the construction contemplated in the repayment contract is substantially completed or is advanced to a point where delivery of water can be made to substantially all of the lands in said unit or block to be irrigated; and if there be no development period fixed, that prior to and including the year in which the Secretary makes said announcement water shall be delivered only on the toll charge basis hereinbefore provided for development periods.
 
-**(e) Contracts to furnish water** In lieu of entering into a repayment contract pursuant to the provisions of subsection (d) of this section to cover that part of the cost of the construction of works connected with water supply and allocated to irrigation, the Secretary, in his discretion, may enter into either short- or long-term contracts to furnish water for irrigation purposes. Each such contract shall be for such period, not to exceed forty years, and at such rates as in the Secretary’s judgment will produce revenues at least sufficient to cover an appropriate share of the annual operation and maintenance cost and an appropriate share of such fixed charges as the Secretary deems proper, due consideration being given to that part of the cost of construction of works connected with water supply and allocated to irrigation; and shall require payment of said rates each year in advance of delivery of water for said year. In the event such contracts are made for furnishing water for irrigation purposes, the costs of any irrigation water distribution works constructed by the United States in connection with the new project, new division of a project, or supplemental works on a project, shall be covered by a repayment contract entered into pursuant to subsection (d) of this section.
+**(e) Contracts to furnish water** In lieu of entering into a repayment contract pursuant to the provisions of subsection (d) of this section to cover that part of the cost of the construction of works connected with water supply and allocated to irrigation, the Secretary, in his discretion, may enter into either short- or long-term contracts to furnish water for irrigation purposes. Each such contract shall be for such period, not to exceed forty years, and at such rates as in the Secretary’s judgment will produce revenues at least sufficient to cover an appropriate share of the annual operation and maintenance cost and an appropriate share of such fixed charges as the Secretary deems proper, due consideration being given to that part of the cost of construction of works connected with water supply and allocated to irrigation; and shall require payment of said rates each year in advance of delivery of water for said year. In the event such contracts are made for furnishing water for irrigation purposes, the costs of any irrigation water distribution works constructed by the United States in connection with the new project, new division of a project, or supplemental works on a project, shall be covered by a repayment contract entered into pursuant to said subsection (d).
 
 **(f) Public participation** No less than sixty days before entering into or amending any repayment contract or any contract for the delivery of irrigation water (except any contract for the delivery of surplus or interim irrigation water whose duration is for one year or less) the Secretary shall—
 
@@ -4619,7 +4812,12 @@ Pub. L. 95–578, § 12, as added by Pub. L. 98–404, § 1(4), Aug. 28, 1984, 9
 <a id="section-507"></a>
 ## § 507. Construction for dam safety
 
-Construction authorized by this subchapter shall be for the purposes of dam safety and not for the specific purposes of providing additional conservation storage capacity or of developing benefits over and above those provided by the original dams and reservoirs. Nothing in this subchapter shall be construed to reduce the amount of project costs allocated to reimbursable purposes heretofore authorized.
+Except as provided in [section 509b of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-509b), construction authorized by this subchapter shall be for the purposes of dam safety and not for the specific purposes of providing additional conservation storage capacity or of developing benefits over and above those provided by the original dams and reservoirs. Nothing in this subchapter shall be construed to reduce the amount of project costs allocated to reimbursable purposes heretofore authorized.
+
+### Statutory Notes
+
+#### Amendments
+2015—Pub. L. 114–113 substituted “Except as provided in [section 509b of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-509b), construction” for “Construction”.
 
 
 <a id="section-508"></a>
@@ -4672,11 +4870,15 @@ Subsecs. (c), (d). Pub. L. 98–404, § 1(2), added subsecs. (c) and (d).
 <a id="section-509"></a>
 ## § 509. Authorization of appropriations; report to Congress
 
-There are hereby authorized to be appropriated for fiscal year 1979 and ensuing fiscal years such sums as may be necessary and, effective October 1, 1983, not to exceed an additional $650,000,000 (October 1, 1983, price levels), and, effective October 1, 2000, not to exceed an additional $95,000,000 (October 1, 2000, price levels), and, effective October 1, 2001, not to exceed an additional $32,000,000 (October 1, 2001, price levels), and, effective October 1, 2003, not to exceed an additional $540,000,000 (October 1, 2003, price levels), plus or minus such amounts, if any, as may be justified by reason of ordinary fluctuations in construction costs as indicated by engineering cost indexes applicable to the types of construction involved herein, to carry out the provisions of this subchapter to remain available until expended if so provided by the appropriations Act: Provided, That no funds exceeding $1,250,000 (October 1, 2003, price levels), as adjusted to reflect any ordinary fluctuations in construction costs indicated by applicable engineering cost indexes, shall be obligated for carrying out actual construction to modify an existing dam under authority of this subchapter prior to 30 calendar days from the date that the Secretary has transmitted a report on such existing dam to the Congress. The report required to be submitted by this section will consist of a finding by the Secretary of the Interior to the effect that modifications are required to be made to insure the safety of an existing dam. Such finding shall be accompanied by a technical report containing information on the need for structural modification, the corrective action deemed to be required, alternative solutions to structural modification that were considered, the estimated cost of needed modifications, and environmental impacts if any resulting from the implementation of the recommended plan of modification.
+There are hereby authorized to be appropriated for fiscal year 1979 and ensuing fiscal years such sums as may be necessary and, effective October 1, 1983, not to exceed an additional $650,000,000 (October 1, 1983, price levels), and, effective October 1, 2000, not to exceed an additional $95,000,000 (October 1, 2000, price levels), and, effective October 1, 2001, not to exceed an additional $32,000,000 (October 1, 2001, price levels), and, effective October 1, 2003, not to exceed an additional $540,000,000 (October 1, 2003, price levels), and effective October 1, 2015, not to exceed an additional $1,100,000,000 (October 1, 2003, price levels), plus or minus such amounts, if any, as may be justified by reason of ordinary fluctuations in construction costs as indicated by engineering cost indexes applicable to the types of construction involved herein, to carry out the provisions of this subchapter to remain available until expended if so provided by the appropriations Act: Provided, That no funds exceeding $20,000,000 (October 1, 2003, price levels), as adjusted to reflect any ordinary fluctuations in construction costs indicated by applicable engineering cost indexes, shall be obligated for carrying out actual construction to modify an existing dam under authority of this subchapter prior to 30 calendar days from the date that the Secretary has transmitted a report on such existing dam to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. The report required to be submitted by this section will consist of a finding by the Secretary of the Interior to the effect that modifications are required to be made to insure the safety of an existing dam. Such finding shall be accompanied by a technical report containing information on the need for structural modification, the corrective action deemed to be required, alternative solutions to structural modification that were considered, the estimated cost of needed modifications, and environmental impacts if any resulting from the implementation of the recommended plan of modification. For modification expenditures between $1,800,000 and $20,000,000 (October 1, 2015, price levels), the Secretary of the Interior shall, at least 30 days before the date on which the funds are expended, submit written notice of the expenditures to the Committee on Natural Resources of the House of Representatives and Committee on Energy and Natural Resources of the Senate that provides a summary of the project, the cost of the project, and any alternatives that were considered.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Pub. L. 114–113, § 204(b), in proviso, substituted “$20,000,000” for “$1,250,000” and “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate” for “Congress” and inserted at end “For modification expenditures between $1,800,000 and $20,000,000 (October 1, 2015, price levels), the Secretary of the Interior shall, at least 30 days before the date on which the funds are expended, submit written notice of the expenditures to the Committee on Natural Resources of the House of Representatives and Committee on Energy and Natural Resources of the Senate that provides a summary of the project, the cost of the project, and any alternatives that were considered.”
+
+Pub. L. 114–113, § 204(a), which directed insertion of “and effective October 1, 2015, not to exceed an additional $1,100,000,000 (October 1, 2003, price levels),” after “(October 1, 2003, price levels),” in first sentence, was executed by making the insertion after “(October 1, 2003, price levels),” first time appearing to reflect the probable intent of Congress.
+
 2004—Pub. L. 108–439 inserted “and, effective October 1, 2003, not to exceed an additional $540,000,000 (October 1, 2003, price levels),” after “(October 1, 2001, price levels),” and substituted “$1,250,000 (October 1, 2003, price levels), as adjusted to reflect any ordinary fluctuations in construction costs indicated by applicable engineering cost indexes,” for “$750,000”.
 
 2002—Pub. L. 107–117 inserted “and, effective October 1, 2001, not to exceed an additional $32,000,000 (October 1, 2001, price levels),” after “(October 1, 2000, price levels),”.
@@ -4702,13 +4904,24 @@ There are hereby authorized to be appropriated for fiscal year 1979 and ensuing 
 
 **(c) Alternatives**
 
-(1) Prior to submitting the reports required under [section 509 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-509), the Secretary shall consider any alternative submitted in writing, in accordance with the timeframes established under subsection (b) of this section, by a project beneficiary that has elected to consult with the Bureau of Reclamation on a modification.
+(1) Prior to submitting the reports required under [section 509 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-509), the Secretary shall consider any alternative submitted in writing, in accordance with the timeframes established under subsection (b), by a project beneficiary that has elected to consult with the Bureau of Reclamation on a modification.
 
 (2) The Secretary shall provide to the project beneficiary a timely written response describing proposed actions, if any, to address the recommendation.
 
 (3) The response of the Secretary shall be included in the reports required by [section 509 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-509).
 
-**(d) Waiver** The Secretary may waive 1 or more of the requirements of subsections (a), (b), and (c) of this section, if the Secretary determines that implementation of the requirement could have an adverse impact on dam safety or security.
+**(d) Waiver** The Secretary may waive 1 or more of the requirements of subsections (a), (b), and (c), if the Secretary determines that implementation of the requirement could have an adverse impact on dam safety or security.
+
+
+<a id="section-509b"></a>
+## § 509b. Additional project benefits through the construction of new or supplementary works
+
+Notwithstanding [section 507 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-507), if the Secretary, in her judgment, determines that additional project benefits, including but not limited to additional conservation storage capacity, are necessary and in the interests of the United States and the project and are feasible and not inconsistent with the purposes of this subchapter, the Secretary is authorized to develop additional project benefits through the construction of new or supplementary works on a project in conjunction with the Secretary’s activities under [section 506 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-506) and subject to the conditions described in the feasibility study, provided a cost share agreement related to the additional project benefits is reached among non-Federal and Federal funding participants and the costs associated with developing the additional project benefits are allocated exclusively among beneficiaries of the additional project benefits and repaid consistent with all provisions of Federal Reclamation law (the Act of June 17, 1902, [43 U.S.C. 371](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) et seq.) and acts supplemental to and amendatory of that Act.
+
+### Statutory Notes
+
+#### References in Text
+Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
 
 <a id="section-510"></a>
@@ -5307,7 +5520,7 @@ Act of March 3, 1905, referred to in text, is act Mar. 3, 1905, ch. 1452, 33 Sta
 The first par. of this section is from part of the first section of act June 5, 1920. The second par. of this section is from a proviso in the first section of act Mar. 4, 1921. For classification of other provisions of these Acts, see Tables.
 
 #### Restoration of Lands to Public Domain
-Act Aug. 15, 1953, ch. 509, § 2, 67 Stat. 612, set out as a note under [section 611 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section611&num=0&edition=prelim), Indians, provided that unentered and vacant lands of the Riverton reclamation project within the ceded portion of the Wind River Indian Reservation should be restored to the public domain for administration, use, occupancy, and disposal under the reclamation and public land laws of the United States.
+Act Aug. 15, 1953, ch. 509, § 2, 67 Stat. 612, provided that: “Subject only to the existing rights and interests which are not extinguished and terminated by this Act [act Aug. 15, 1953, ch. 509, 67 Stat. 592], all unentered and vacant lands within the area described in section 1 hereof [describing unentered and vacant lands of the Riverton reclamation project within the ceded portion of the Wind River Indian Reservation], are hereby restored to the public domain for administration, use, occupancy, and disposal under the reclamation and public land laws of the United States: Provided, That the sale or other disposition of such lands shall be at rates and upon terms and conditions approved by the Secretary of the Interior: Provided further, That the average price of all such lands disposed of by sale shall be not less than $6.25 per acre.”
 
 
 <a id="section-597a"></a>

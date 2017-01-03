@@ -16,7 +16,7 @@ The purpose of this chapter is to increase the public benefits from museums esta
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 102501 | [16 U.S.C. 18f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18f&num=0&edition=prelim) (1st sentence) | July 1, 1955, ch. 259, § 1 (1st sentence), 69 Stat. 242. |
+| 102501 | [16 U.S.C. 18f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18f&num=0&edition=prelim) (1st sentence). | July 1, 1955, ch. 259, § 1 (1st sentence), 69 Stat. 242. |
 
 #### Disposal of Unnecessary or Duplicate Museum Objects; Use of Proceeds
 Pub. L. 101–512, title I, § 116, Nov. 5, 1990, 104 Stat. 1937, provided that: “In fiscal year 1991 and thereafter, the Secretary may exercise the authorities granted in the Act of July 1, 1955 ([16 U.S.C. 18f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18f&num=0&edition=prelim)) [see [54 U.S.C. 102501](./chapter-1025-chapter-1025.md#section-102501), 102503(a)–(f)] in administration of the Department of the Interior Museum, and may dispose of objects no longer needed for the Museum or held in duplicate among museum properties and apply the proceeds to the purchase of museum objects, museum collections, and other personal properties at reasonable prices.”
@@ -40,7 +40,7 @@ In this chapter:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 102502 | [16 U.S.C. 18f–3(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18f–3/b&num=0&edition=prelim) | July 1, 1955, ch. 259, § 3(b), as added Pub. L. 104–333, div. I, title VIII, § 804(b), Nov. 12, 1996, 110 Stat. 4188. |
+| 102502 | [16 U.S.C. 18f–3(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18f–3/b&num=0&edition=prelim). | July 1, 1955, ch. 259, § 3(b), as added Pub. L. 104–333, div. I, title VIII, § 804(b), Nov. 12, 1996, 110 Stat. 4188. |
 
 The words “museum collections” are omitted as unnecessary.
 
@@ -70,8 +70,8 @@ The words “museum collections” are omitted as unnecessary.
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 102503(a) through (f) | [16 U.S.C. 18f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18f&num=0&edition=prelim) (less 1st sentence) | July 1, 1955, ch. 259, § 1 (less 1st sentence), 69 Stat. 242; Pub. L. 104–333, div. I, title VIII, § 804(a)(1), Nov. 12, 1996, 110 Stat. 4187. |
-| 102503(g) through (i) | [16 U.S.C. 18f–2(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18f–2/a&num=0&edition=prelim) | July 1, 1955, ch. 259, § 2(a), as added Pub. L. 104–333, div. I, title VIII, § 804(a)(2), Nov. 12, 1996, 110 Stat. 4187. |
+| 102503(a) through (f) | [16 U.S.C. 18f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18f&num=0&edition=prelim) (less 1st sentence). | July 1, 1955, ch. 259, § 1 (less 1st sentence), 69 Stat. 242; Pub. L. 104–333, div. I, title VIII, § 804(a)(1), Nov. 12, 1996, 110 Stat. 4187. |
+| 102503(g) through (i) | [16 U.S.C. 18f–2(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18f–2/a&num=0&edition=prelim). | July 1, 1955, ch. 259, § 2(a), as added Pub. L. 104–333, div. I, title VIII, § 804(a)(2), Nov. 12, 1996, 110 Stat. 4187. |
 
 
 <a id="section-102504"></a>
@@ -84,4 +84,4 @@ The Secretary shall ensure that museum objects are treated in a careful and deli
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 102504 | [16 U.S.C. 18f–2(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18f–2/b&num=0&edition=prelim) | July 1, 1955, ch. 259, § (2)(b), as added Pub. L. 104–333, div. I, title VIII, § 804(a)(2), Nov. 12, 1996, 110 Stat. 4188. |
+| 102504 | [16 U.S.C. 18f–2(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18f–2/b&num=0&edition=prelim). | July 1, 1955, ch. 259, § (2)(b), as added Pub. L. 104–333, div. I, title VIII, § 804(a)(2), Nov. 12, 1996, 110 Stat. 4188. |

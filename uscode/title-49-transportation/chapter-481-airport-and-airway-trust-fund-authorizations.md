@@ -18,6 +18,8 @@ source: >-
 
 (4) $2,730,000,000 for fiscal year 2015.
 
+(5) $2,855,000,000 for each of fiscal years 2016 and 2017.
+
 **(b) Availability of Amounts.—** Amounts appropriated under this section remain available until expended.
 
 **(c) Automated Surface Observation System/Automated Weather Observing System Upgrade.—** Of the amounts appropriated under subsection (a), such sums as may be necessary may be used for the implementation and use of upgrades to the current automated surface observation system/automated weather observing system, if the upgrade is successfully demonstrated.
@@ -38,6 +40,12 @@ source: >-
 In subsection (a), the words “to the Secretary of Transportation” are added for clarity and consistency in this chapter. The words “for fiscal years beginning after September 30, 1990” and “$2,500,000,000 for fiscal year 1991” are omitted as obsolete.
 
 #### Amendments
+2016—Subsec. (a)(5). Pub. L. 114–190 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “$2,058,333,333 for the period beginning on October 1, 2015, and ending on July 15, 2016.”
+
+Pub. L. 114–141 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “$1,300,000,000 for the period beginning on October 1, 2015, and ending on March 31, 2016.”
+
+2015—Subsec. (a)(5). Pub. L. 114–55 added par. (5).
+
 2012—Subsec. (a). Pub. L. 112–95, § 102(a), added pars. (1) to (4) and struck out former pars. (1) to (8) which authorized appropriations for fiscal years 2004 through 2011, and for the period beginning Oct. 1, 2011, and ending Feb. 17, 2012.
 
 Subsec. (a)(8). Pub. L. 112–91 amended par. (8) generally. Prior to amendment, par. (8) read as follows: “$917,704,544 for the period beginning on October 1, 2011, and ending on January 31, 2012.”
@@ -128,7 +136,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under [section 106 of this title](./chapter-001-organization.md#section-106).
 
 #### Facilities and Equipment Reports
-Pub. L. 108–176, title I, § 184, Dec. 12, 2003, 117 Stat. 2517, provided that: “(a) Biannual Reports.—Beginning 180 days after the date of enactment of this Act [Dec. 12, 2003], the Administrator of the Federal Aviation Administration shall transmit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure every 6 months that describes—“(1) the 10 largest programs funded under [section 48101(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section48101/a&num=0&edition=prelim), United States Code; “(2) any changes in the budget for such programs; “(3) the program schedule; and “(4) technical risks associated with the programs. “(b) Sunset Provision.—This section shall cease to be effective beginning on the date that is 4 years after the date of enactment of this Act [Dec. 12, 2003].”
+Pub. L. 108–176, title I, § 184, Dec. 12, 2003, 117 Stat. 2517, directed the Administrator of the Federal Aviation Administration to report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure every 6 months on the 10 largest programs funded under this section until Dec. 12, 2007.
 
 #### Funding for Aviation Programs
 Pub. L. 106–181, title I, § 106(a)–(c), Apr. 5, 2000, 114 Stat. 72, 73, which related to budget resources made available from the Airport and Airway Trust Fund through fiscal year 2003, was repealed by Pub. L. 108–176, title I, § 104(c), Dec. 12, 2003, 117 Stat. 2497.
@@ -248,9 +256,11 @@ Pub. L. 106–181, title I, § 106(a)–(c), Apr. 5, 2000, 114 Stat. 72, 73, whi
 
 (6) $190,500,000 for fiscal year 2010;
 
-(7) $170,000,000 for fiscal year 2011; and
+(7) $170,000,000 for fiscal year 2011;
 
-(8) $168,000,000 for each of fiscal years 2012 through 2015.
+(8) $168,000,000 for each of fiscal years 2012 through 2015; and
+
+(9) $166,000,000 for each of fiscal years 2016 and 2017.
 
 **(b) Research Priorities.—**
 
@@ -375,6 +385,12 @@ In subsection (d)(2), the reference to fiscal years 1988–1992 and the words �
 The date of the enactment of the FAA Research, Engineering, and Development Authorization Act of 1998, referred to in subsec. (h)(2), is the date of enactment of Pub. L. 105–155, which was approved Feb. 11, 1998.
 
 #### Amendments
+2016—Subsec. (a)(9). Pub. L. 114–190 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “$124,093,750 for the period beginning on October 1, 2015, and ending on July 15, 2016.”
+
+Pub. L. 114–141 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “$78,375,000 for the period beginning on October 1, 2015, and ending on March 31, 2016.”
+
+2015—Subsec. (a)(9). Pub. L. 114–55 added par. (9).
+
 2012—Subsec. (a). Pub. L. 112–95, § 901(a)(1), substituted “of this title and, for each of fiscal years 2012 through 2015, under subsection (g)” for “of this title” in introductory provisions.
 
 Subsec. (a)(1) to (15). Pub. L. 112–95, § 901(a)(2)–(5), redesignated pars. (9) to (15) as (1) to (7), respectively, inserted “and” at end of par. (3)(K), struck out “and” at end of par. (3)(L), added par. (8), and struck out former pars. (1) to (8) which related to appropriations for fiscal years 1995 to 2002.
@@ -473,7 +489,7 @@ Pub. L. 105–155, § 4, Feb. 11, 1998, 112 Stat. 6, provided that: “(a) Repro
 
 <a id="section-48103"></a>
 ## § 48103. Airport planning and development and noise compatibility planning and programs
-**(a) In General.—** There shall be available to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 to make grants for airport planning and airport development under section 47104, airport noise compatibility planning under section 47505(a)(2), and carrying out noise compatibility programs under section 47504(c) $3,350,000,000 for each of fiscal years 2012 through 2015.
+**(a) In General.—** There shall be available to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 to make grants for airport planning and airport development under section 47104, airport noise compatibility planning under section 47505(a)(2), and carrying out noise compatibility programs under section 47504(c) $3,350,000,000 for each of fiscal years 2012 through 2017.
 
 **(b) Availability of Amounts.—** Amounts made available under subsection (a) shall remain available until expended.
 
@@ -491,6 +507,12 @@ In this section, references to the aggregate amounts for fiscal years ending bef
 Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (a), is classified to [section 9502 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–190 substituted “fiscal years 2012 through 2017” for “fiscal years 2012 through 2015 and $2,652,083,333 for the period beginning on October 1, 2015, and ending on July 15, 2016” and struck out second period at end.
+
+Pub. L. 114–141 substituted “$2,652,083,333 for the period beginning on October 1, 2015, and ending on July 15, 2016.” for “$1,675,000,000 for the period beginning on October 1, 2015, and ending on March 31, 2016”.
+
+2015—Subsec. (a). Pub. L. 114–55 inserted “and $1,675,000,000 for the period beginning on October 1, 2015, and ending on March 31, 2016” before period at end.
+
 2012—Pub. L. 112–95 amended section generally. Prior to amendment, section listed amounts available out of the Airport and Airway Trust Fund for fiscal years 2004 through 2011 and for the period beginning on Oct. 1, 2011, and ending on Feb. 17, 2012.
 
 Par. (9). Pub. L. 112–91 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “$1,181,270,492 for the period beginning on October 1, 2011, and ending on January 31, 2012.”
@@ -839,7 +861,7 @@ Section applicable only to fiscal years beginning after Sept. 30, 1999, see sect
 
   (B) *Guarantee.—* — No funds may be appropriated or limited for aviation investment programs listed in subsection (b)(1) unless the amount described in subparagraph (A) has been provided.
 
-(2) **Additional authorizations of appropriations from the general fund.—** — In any fiscal year through fiscal year 2015, if the amount described in paragraph (1) is appropriated, there is further authorized to be appropriated from the general fund of the Treasury such sums as may be necessary for the Federal Aviation Administration Operations account.
+(2) **Additional authorizations of appropriations from the general fund.—** — In any fiscal year through fiscal year 2017, if the amount described in paragraph (1) is appropriated, there is further authorized to be appropriated from the general fund of the Treasury such sums as may be necessary for the Federal Aviation Administration Operations account.
 
 **(b) Definitions.—** In this section, the following definitions apply:
 
@@ -859,7 +881,7 @@ Section applicable only to fiscal years beginning after Sept. 30, 1999, see sect
 
 (1) **Total airport and airway trust fund funding.—** — It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that would cause total budget resources in a fiscal year for aviation investment programs described in subsection (b) to be less than the amount required by subsection (a)(1)(A) for such fiscal year.
 
-(2) **Capital priority.—** — It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that provides an appropriation (or any amendment thereto) for any fiscal year through fiscal year 2015 for Research and Development or Operations if the sum of the obligation limitation for Grants-in-Aid for Airports and the appropriation for Facilities and Equipment for such fiscal year is below the sum of the authorized levels for Grants-in-Aid for Airports and for Facilities and Equipment for such fiscal year.
+(2) **Capital priority.—** — It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that provides an appropriation (or any amendment thereto) for any fiscal year through fiscal year 2017 for Research and Development or Operations if the sum of the obligation limitation for Grants-in-Aid for Airports and the appropriation for Facilities and Equipment for such fiscal year is below the sum of the authorized levels for Grants-in-Aid for Airports and for Facilities and Equipment for such fiscal year.
 
 ### Statutory Notes
 
@@ -869,6 +891,14 @@ Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (b)(2)
 Section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (b)(2), is classified to [section 907 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section907&num=0&edition=prelim), The Congress.
 
 #### Amendments
+2016—Subsec. (a)(2). Pub. L. 114–190, § 1106(a)(1), substituted “fiscal year 2017,” for “fiscal year 2016,”.
+
+Subsec. (c)(2). Pub. L. 114–190, § 1106(a)(2), substituted “fiscal year 2017” for “fiscal year 2016”.
+
+2015—Subsec. (a)(2). Pub. L. 114–55, § 106(a)(1), substituted “2016’ for “2015”.
+
+Subsec. (c)(2). Pub. L. 114–55, § 106(a)(2), substituted “2016” for “2015”.
+
 2012—Subsec. (a)(1)(A). Pub. L. 112–95, § 104(a), amended subpar. (A) generally. Prior to amendment, text read as follows: “The total budget resources made available from the Airport and Airway Trust Fund each fiscal year through fiscal year 2007 pursuant to sections 48101, 48102, 48103, and 106(k) of title 49, United States Code, shall be equal to the level of receipts plus interest credited to the Airport and Airway Trust Fund for that fiscal year. Such amounts may be used only for aviation investment programs listed in subsection (b).”
 
 Subsec. (a)(1)(B). Pub. L. 112–95, § 104(b), substituted “subsection (b)(1)” for “subsection (b)”.

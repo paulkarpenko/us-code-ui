@@ -16,7 +16,7 @@ To obtain practical benefits of great value to the country from the establishmen
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 103301 | [16 U.S.C. 411](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section411&num=0&edition=prelim) | May 15, 1896, ch. 182, § 1, 29 Stat. 120; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501. |
+| 103301 | [16 U.S.C. 411](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section411&num=0&edition=prelim). | May 15, 1896, ch. 182, § 1, 29 Stat. 120; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501. |
 
 The words “or Regular Air Force” are added for consistency with section 103302 of the new title.
 
@@ -32,7 +32,7 @@ The words “or Regular Air Force” are added for consistency with section 1033
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 103302 | [16 U.S.C. 412](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section412&num=0&edition=prelim) | May 15, 1896, ch. 182, § 2, 29 Stat. 121; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501. |
+| 103302 | [16 U.S.C. 412](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section412&num=0&edition=prelim). | May 15, 1896, ch. 182, § 2, 29 Stat. 121; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501. |
 
 In this section, the words “or Secretary of the Air Force” and “or Regular Air Force” are added because certain functions, personnel, and property, insofar as they pertain to the Air Force, were transferred from the Secretary of the Army and Department of the Army to the Secretary of the Air Force and Department of the Air Force by Secretary of Defense Transfer Order Nos. 1, September 26, 1947; 10, April 27, 1948; and 40 [App. B(65)], July 22, 1949.
 
@@ -49,7 +49,7 @@ The duties of commissions in charge of national military parks shall be performe
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 103303 | [16 U.S.C. 421](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section421&num=0&edition=prelim) | Aug. 24, 1912, ch. 355, § 1 (last undesignated paragraph under heading “national military parks” under heading “UNDER THE WAR DEPARTMENT”), 37 Stat. 442; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501. |
+| 103303 | [16 U.S.C. 421](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section421&num=0&edition=prelim). | Aug. 24, 1912, ch. 355, § 1 (last undesignated paragraph under heading “national military parks” under heading “UNDER THE WAR DEPARTMENT”), 37 Stat. 442; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501. |
 
 Section 103303 is substituted for [16 U.S.C. 421](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section421&num=0&edition=prelim) to eliminate obsolete words because there no longer are park commissioners for the national military parks. The references to the Secretary of the Army are changed to the Secretary the Interior because the administrative functions of certain national military parks were transferred to the Department of the Interior by section 2 of Executive Order No. 6166, June 10, 1933, and section 1 of Executive Order No. 6228, July 28, 1933, set out as a note under [section 901 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim), Government Organization and Employees. References to the National Park Service were substituted for references to the Office of National Parks, Buildings, and Reservations in section 2 of Executive Order No. 6166 because of the last paragraph under the heading “OFFICE OF NATIONAL PARKS, BUILDINGS, AND RESERVATIONS” in section 1 of the Act of March 2, 1934 (ch. 38, 48 Stat. 389).
 
@@ -65,7 +65,7 @@ Section 103303 is substituted for [16 U.S.C. 421](https://uscode.house.gov/view.
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 103304 | [16 U.S.C. 416](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section416&num=0&edition=prelim) | Mar. 3, 1897, ch. 372, §§ 4, 5, 29 Stat. 622. |
+| 103304 | [16 U.S.C. 416](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section416&num=0&edition=prelim). | Mar. 3, 1897, ch. 372, §§ 4, 5, 29 Stat. 622. |
 
 In subsection (a) the words “any park commissioner” are omitted as obsolete. See section 103303 of the new title. The words “or code of practice” are omitted as obsolete because of the Federal Rules of Civil Procedure (28 U.S.C. App.).
 
@@ -80,7 +80,7 @@ Mileage of officers of the Army and actual expenses of civilian employees travel
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 103305 | [16 U.S.C. 458](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section458&num=0&edition=prelim) | Mar. 8, 1928, ch. 152, 45 Stat. 249. |
+| 103305 | [16 U.S.C. 458](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section458&num=0&edition=prelim). | Mar. 8, 1928, ch. 152, 45 Stat. 249. |
 
 
 <a id="section-103306"></a>
@@ -98,9 +98,9 @@ Mileage of officers of the Army and actual expenses of civilian employees travel
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 103306(a) | [16 U.S.C. 455](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section455&num=0&edition=prelim) | June 11, 1926, ch. 555, 44 Stat. 726; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501. |
-| 103306(b) | [16 U.S.C. 455b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section455b&num=0&edition=prelim) |  |
-| 103306(c) | [16 U.S.C. 455c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section455c&num=0&edition=prelim) |  |
-| 103306(d) | [16 U.S.C. 455a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section455a&num=0&edition=prelim) |  |
+| 103306(a) | [16 U.S.C. 455](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section455&num=0&edition=prelim). | June 11, 1926, ch. 555, 44 Stat. 726; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501. |
+| 103306(b) | [16 U.S.C. 455b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section455b&num=0&edition=prelim). |  |
+| 103306(c) | [16 U.S.C. 455c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section455c&num=0&edition=prelim). |  |
+| 103306(d) | [16 U.S.C. 455a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section455a&num=0&edition=prelim). |  |
 
 In subsection (d), the words “after December 1, 1926” are omitted as obsolete.

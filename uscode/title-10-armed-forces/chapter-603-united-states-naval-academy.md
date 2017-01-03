@@ -2,7 +2,7 @@
 title: 10
 chapter: '603'
 heading: UNITED STATES NAVAL ACADEMY
-section_count: 35
+section_count: 33
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -78,7 +78,7 @@ Midshipmen at the Naval Academy shall be appointed by the President alone. An ap
 ### Statutory Notes
 
 #### Historical and Revision Notes
-This section is included in this chapter without specific reference to statutory source to resolve the ambiguities and conflicts existing in the statutes relating to the appointment of midshipmen at the Naval Academy. The word “appoint” has been used in various statutes when the intent of Congress was to provide authority in the persons named to “choose,” “select,” or “nominate” for the office of midshipman. These statutes have been collected and codified in [§ 6954 of this title](./chapter-603-united-states-naval-academy.md#section-6954), which reflects the various sources of nominees for “appointment” as midshipmen and the persons who may so “nominate” them. The actual appointing power resides in the President and this implied authority is herein expressed for clarity and for the purpose of uniformity of expression.
+This section is included in this chapter without specific reference to statutory source to resolve the ambiguities and conflicts existing in the statutes relating to the appointment of midshipmen at the Naval Academy. The word “appoint” has been used in various statutes when the intent of Congress was to provide authority in the persons named to “choose,” “select,” or “nominate” for the office of midshipman. These statutes have been collected and codified in § 6954 of this title, which reflects the various sources of nominees for “appointment” as midshipmen and the persons who may so “nominate” them. The actual appointing power resides in the President and this implied authority is herein expressed for clarity and for the purpose of uniformity of expression.
 
 #### Amendments
 1981—Pub. L. 97–60 inserted provision that an appointment is conditional until the midshipman is admitted.
@@ -101,15 +101,15 @@ Amendment by Pub. L. 97–60 effective with respect to nominations for appointme
 
 (5) Five from the District of Columbia, nominated by the Delegate to the House of Representatives from the District of Columbia.
 
-(6) Three from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands.
+(6) Four from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands.
 
 (7) Six from Puerto Rico, five of whom are nominated by the Resident Commissioner from Puerto Rico and one who is a native of Puerto Rico nominated by the Governor of Puerto Rico.
 
-(8) Three from Guam, nominated by the Delegate in Congress from Guam.
+(8) Four from Guam, nominated by the Delegate in Congress from Guam.
 
-(9) Two from American Samoa, nominated by the Delegate in Congress from American Samoa.
+(9) Three from American Samoa, nominated by the Delegate in Congress from American Samoa.
 
-(10) Two from the Commonwealth of the Northern Mariana Islands, nominated by the Delegate in Congress from the commonwealth.
+(10) Three from the Commonwealth of the Northern Mariana Islands, nominated by the Delegate in Congress from the commonwealth.
 Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 10 persons for each vacancy that is available to him under this section. Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter.
 
 **(b)** In addition there may be appointed each year at the Academy midshipmen as follows:
@@ -155,6 +155,9 @@ Each Senator, Representative, and Delegate in Congress, including the Resident C
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)
+Pub. L. 114–328, div. A, title V, § 566(b), (e), Dec. 23, 2016, 130 Stat. 2138, 2139, provided that, applicable with respect to the appointment of cadets and midshipmen to the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the United States Merchant Marine Academy for classes entering these service academies after Jan. 1, 2018, subsection (a) of this section is amended by inserting at end of concluding provisions “When a nominee of a Senator, Representative, or Delegate is selected for appointment as a midshipman, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.” See 2016 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | 1956 Act |  |  |
@@ -169,7 +172,7 @@ Each Senator, Representative, and Delegate in Congress, including the Resident C
 | 6954(b)(4) | [34 U.S.C. 1033a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section1033a&num=0&edition=prelim). | Feb. 27, 1936, ch. 89, 49 Stat. 1144; June 6, 1941, ch. 175, 55 Stat. 246. |
 | 6954(c) | [34 U.S.C. 1038](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section1038&num=0&edition=prelim). | Nov. 24, 1945, ch. 492, 59 Stat. 586. |
 
-All provisions of law authorizing appointments to the Naval Academy from various sources are collected in this section. The language is extensively changed to meet the needs of this organization of the source material. In those provisions that now authorize “appointments” by other than the President, the language is changed to indicate that the process is one of selection where the law requires selection by competitive examination, and to show that other candidates are nominated. The manner of appointing the selectees and nominees, in all cases, is covered in [§ 6953 of this title](./chapter-603-united-states-naval-academy.md#section-6953). In the case of nominees from States, the District of Columbia, Territories, and from Puerto Rico, the qualification that the nominees must be from the political subdivisions from which nominated is indicated. The requirement that the nominees be actual residents of the political subdivisions is contained in [§ 6958(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6958/b&num=0&edition=prelim).
+All provisions of law authorizing appointments to the Naval Academy from various sources are collected in this section. The language is extensively changed to meet the needs of this organization of the source material. In those provisions that now authorize “appointments” by other than the President, the language is changed to indicate that the process is one of selection where the law requires selection by competitive examination, and to show that other candidates are nominated. The manner of appointing the selectees and nominees, in all cases, is covered in § 6953 of this title. In the case of nominees from States, the District of Columbia, Territories, and from Puerto Rico, the qualification that the nominees must be from the political subdivisions from which nominated is indicated. The requirement that the nominees be actual residents of the political subdivisions is contained in § 6958(b) of this title.
 
 In subsection (a)(1) the words “armed forces” are substituted for the description of the land and naval forces. The words “including male and female members of” and “of all components thereof” are omitted as surplusage.
 
@@ -177,7 +180,7 @@ In subsection (a)(1)(B), the date February 1, 1955, fixed by Proclamation No. 30
 
 In subsection (b)(1) the qualification that appointees must be from the sons of members of the various “regular” components of the armed forces is added, as “Army, Navy, Air Force, Marine Corps, and Coast Guard” are so interpreted in this statute.
 
-In subsection (c) the proviso “That all such appointees are otherwise qualified for admission” is omitted as covered by [§ 6958 of this title](./chapter-603-united-states-naval-academy.md#section-6958) setting forth qualifications of all candidates.
+In subsection (c) the proviso “That all such appointees are otherwise qualified for admission” is omitted as covered by § 6958 of this title setting forth qualifications of all candidates.
 
 The applicability to the United States Military Academy in the Act of June 8, 1926, ch. 492, as amended ([34 U.S.C. 1036a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section1036a&num=0&edition=prelim); [10 U.S.C. 1091a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1091a&num=0&edition=prelim)), was repealed by section 6(c) of the Act of June 30, 1950, ch. 421, 64 Stat. 305.
 
@@ -188,6 +191,16 @@ The change reflects the change of the name of the Panama Railroad Company to the
 In 10:6954(f), the word “The” is substituted for “Effective beginning with the nominations for appointment to the Academy in the calendar year 1964, the” to eliminate executed words.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328 inserted at end of concluding provisions “When a nominee of a Senator, Representative, or Delegate is selected for appointment as a midshipman, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.”
+
+2015—Subsec. (a)(6). Pub. L. 114–92, § 556(b)(1), substituted “Four” for “Three”.
+
+Subsec. (a)(8). Pub. L. 114–92, § 556(b)(2), substituted “Four” for “Three”.
+
+Subsec. (a)(9). Pub. L. 114–92, § 556(b)(3), substituted “Three” for “Two”.
+
+Subsec. (a)(10). Pub. L. 114–92, § 556(b)(4), substituted “Three” for “Two”.
+
 2013—Subsec. (b)(1). Pub. L. 112–239, § 1076(f)(40)(A)(i), substituted “paragraph” for “clause” in two places in concluding provisions.
 
 Subsec. (b)(5), (d). Pub. L. 112–239, § 1076(f)(40)(A)(ii), (B), substituted “paragraphs” for “clauses”.
@@ -277,6 +290,12 @@ Subsecs. (d), (e). Pub. L. 88–276, § 2(3), added subsecs. (d) and (e).
 1962—Subsec. (a). Pub. L. 87–663 added cl. (9).
 
 Pub. L. 87–651 substituted “Panama Canal Company” for “Panama Railroad Company” in cl. (8).
+
+#### Effective Date of 2016 Amendment
+Amendment by Pub. L. 114–328 applicable with respect to the appointment of cadets and midshipmen to the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the United States Merchant Marine Academy for classes entering these service academies after January 1, 2018, see section 566(e) of Pub. L. 114–328, set out as a note under [section 4342 of this title](./chapter-403-united-states-military-academy.md#section-4342).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–92 applicable with respect to the nomination of candidates for appointment to the United States Military Academy, Naval Academy, and Air Force Academy for classes entering after Nov. 25, 2015, see section 556(d) of Pub. L. 114–92, set out as a note under [section 4342 of this title](./chapter-403-united-states-military-academy.md#section-4342).
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–84 applicable with respect to appointments to the United States Naval Academy beginning with the first class of candidates nominated for appointment after Oct. 28, 2009, see section 527(d) of Pub. L. 111–84, set out as a note under [section 4342 of this title](./chapter-403-united-states-military-academy.md#section-4342).
@@ -400,152 +419,16 @@ For effective date of amendment by Pub. L. 93–171, see section 4 of Pub. L. 93
 Nonreduction of number of appointees from congressional sources under this section because of additional presidential appointments under [section 6954(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6954/b/1&num=0&edition=prelim), see note set out under [section 4343 of this title](./chapter-403-united-states-military-academy.md#section-4343).
 
 
-<a id="section-6957"></a>
-## § 6957. Selection of persons from foreign countries
-**(a)**
-
-(1) The Secretary of the Navy may permit not more than 60 persons at any one time from foreign countries to receive instruction at the Academy. Such persons shall be in addition to the authorized strength of the midshipmen under [section 6954 of this title](./chapter-603-united-states-naval-academy.md#section-6954).
-
-(2) The Secretary of the Navy, upon approval by the Secretary of Defense, shall determine the countries from which persons may be selected for appointment under this section and the number of persons that may be selected from each country. The Secretary of the Navy may establish entrance qualifications and methods of competition for selection among individual applicants under this section and shall select those persons who will be permitted to receive instruction at the Academy under this section.
-
-(3) In selecting persons to receive instruction under this section from among applicants from the countries approved under paragraph (2), the Secretary of the Navy shall give a priority to persons who have a national service obligation to their countries upon graduation from the Academy.
-
-**(b)**
-
-(1) A person receiving instruction under this section is entitled to the pay, allowances, and emoluments of a midshipman appointed from the United States, and from the same appropriations.
-
-(2) Each foreign country from which a midshipman is permitted to receive instruction at the Academy under this section shall reimburse the United States for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1). The Secretary of the Navy shall prescribe the rates for reimbursement under this paragraph, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a midshipman appointed from the United States.
-
-(3) The Secretary of Defense may waive, in whole or in part, the requirement for reimbursement of the cost of instruction for a midshipman under paragraph (2). In the case of a partial waiver, the Secretary shall establish the amount waived.
-
-**(c)**
-
-(1) Except as the Secretary of the Navy determines, a person receiving instruction under this section is subject to the same regulations governing admission, attendance, discipline, resignation, discharge, dismissal, and graduation as a midshipman at the Academy appointed from the United States. The Secretary may prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a midshipman at the Academy appointed from the United States.
-
-(2) A person receiving instruction under this section is not entitled to an appointment in an armed force of the United States by reason of graduation from the Academy.
-
-**(d)** A person receiving instruction under this section is not subject to [section 6958(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6958/d&num=0&edition=prelim).
+<a id="section-6957-to-6957b"></a>
+## § 6957 to 6957b. Repealed. Pub. L. 114–328, div. A, title XII, § 1248(b)(1), Dec. 23, 2016, 130 Stat. 2525]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised section | Source (U.S. Code) | Source (Statutes at Large) |
-| 6957(a) | [34 U.S.C. 1036](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section1036&num=0&edition=prelim). | June 29, 1906, ch. 3590, 34 Stat. 577 (1st par.). |
-| 6957(b), (c), (d) | [34 U.S.C. 1036–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section1036–1&num=0&edition=prelim). | July 14, 1941, ch. 292, 55 Stat. 589; June 1, 1948, ch. 357, § 1, 62 Stat. 279. |
-|  | [34 U.S.C. 1036–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section1036–2&num=0&edition=prelim). | June 24, 1948, ch. 616, 62 Stat. 583. |
+Section 6957, act Aug. 10, 1956, ch. 1041, 70A Stat. 431; Pub. L. 98–94, title X, § 1004(b)(1), Sept. 24, 1983, 97 Stat. 658; Pub. L. 105–85, div. A, title V, §§ 541(b), 543(b), Nov. 18, 1997, 111 Stat. 1740, 1743; Pub. L. 106–65, div. A, title V, § 534(b), Oct. 5, 1999, 113 Stat. 605; Pub. L. 106–398, § 1 [[div. A], title V, § 532(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–110; Pub. L. 107–107, div. A, title V, § 533(b)(1), (2), Dec. 28, 2001, 115 Stat. 1106, related to the selection of persons from foreign countries to receive instruction at the United States Naval Academy. See [section 347 of this title](./chapter-016-security-cooperation.md#section-347).
 
-In subsections (a) and (b) the location of the Academy is omitted as surplusage.
+Section 6957a, added Pub. L. 105–85, div. A, title V, § 542(b)(1), Nov. 18, 1997, 111 Stat. 1741; amended Pub. L. 106–65, div. A, title V, § 535(b), Oct. 5, 1999, 113 Stat. 605; Pub. L. 109–364, div. A, title V, § 531(b), Oct. 17, 2006, 120 Stat. 2199, related to an exchange program with foreign military academies.
 
-In subsection (b) the words “from the Republic of the Philippines” are substituted for the word “Filipinos” to indicate the proper designation of that country.
-
-In subsection (c) reference to “emoluments” is omitted, as that term has no present significance with reference to midshipmen.
-
-In subsection (d) the words “rules and” and “any office or position” are omitted as surplusage and the provision is extended to cover specifically the Marine Corps, since “Navy” in this context is so interpreted.
-
-#### Amendments
-2001—Subsec. (a)(1). Pub. L. 107–107, § 533(b)(1), substituted “60” for “40”.
-
-Subsec. (b)(2). Pub. L. 107–107, § 533(b)(2)(A), struck out “unless a written waiver of reimbursement is granted by the Secretary of Defense” before period at end of first sentence.
-
-Subsec. (b)(3). Pub. L. 107–107, § 533(b)(2)(B), added par. (3) and struck out former par. (3) which read as follows: “The amount of reimbursement waived under paragraph (2) may not exceed 50 percent of the per-person reimbursement amount otherwise required to be paid by a foreign country under such paragraph, except in the case of not more than 20 persons receiving instruction at the Naval Academy under this section at any one time.”
-
-2000—Subsec. (a)(3). Pub. L. 106–398 added par. (3).
-
-1999—Subsec. (b)(3). Pub. L. 106–65 substituted “50 percent” for “35 percent” and “20 persons” for “five persons”.
-
-1997—Subsec. (b)(2). Pub. L. 105–85, § 543(b)(1), substituted “, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a midshipman appointed from the United States.” for period at end.
-
-Subsec. (b)(3). Pub. L. 105–85, § 543(b)(2), added par. (3).
-
-Subsec. (d). Pub. L. 105–85, § 541(b), added subsec. (d).
-
-1983—Pub. L. 98–94 substituted “Selection of persons from foreign countries” for “Admission of foreigners for instruction: restrictions; conditions” in section catchline.
-
-Subsec. (a). Pub. L. 98–94 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “No person from a foreign country may be permitted to receive instruction at the Naval Academy except as authorized by this section.”
-
-Subsec. (b). Pub. L. 98–94 amended subsec. (b) generally, redesignating former subsec. (c) as par. (1) and in par. (1), as so redesignated, substituted “pay, allowances, and emoluments of a midshipman appointed from the United States, and from the same appropriations” for “same pay and allowances, to be paid from the same appropriations, as midshipmen”, and added par. (2). Former subsec. (b), relating to the authority of the Secretary of the Navy to limit the numbers of foreigners studying at the Academy, was struck out.
-
-Subsec. (c). Pub. L. 98–94 amended subsec. (c) generally, designating first sentence of former subsec. (d) as par. (1) and in par. (1), as so designated, substituted “as a midshipman at the Academy appointed from the United States” for “as a midshipman”, and inserted sentence authorizing the Secretary to prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a midshipman at the Academy appointed from the United States; and designating the second sentence of former subsec. (d) as par. (2) and in par. (2), as so designated, substituted “A person” for “However, a person” and “an armed force of the United States” for “the Navy or the Marine Corps”. Former subsec. (c) was redesignated (b)(1).
-
-Subsec. (d). Pub. L. 98–94, as part of the general amendment of this section, omitted subsec. (d) and incorporated its provisions into subsec. (c).
-
-#### Effective Date of 2001 Amendment
-Pub. L. 107–107, div. A, title V, § 533(b)(3), Dec. 28, 2001, 115 Stat. 1106, provided that: “The amendments made by paragraph (2) [amending this section] shall not apply with respect to any person who entered the United States Naval Academy to receive instruction under [section 6957 of title 10](./chapter-603-united-states-naval-academy.md#section-6957), United States Code, before the date of the enactment of this Act [Dec. 28, 2001].”
-
-Amendment by Pub. L. 107–107 inapplicable with respect to any academic year that began before Dec. 28, 2001, see section 533(d) of Pub. L. 107–107, set out as a note under [section 4344 of this title](./chapter-403-united-states-military-academy.md#section-4344).
-
-#### Effective Date of 2000 Amendment
-Amendment by Pub. L. 106–398 applicable with respect to academic years that begin after Oct. 1, 2000, see section 1 [[div. A], title V, § 532(d)] of Pub. L. 106–398, set out as a note under [section 4344 of this title](./chapter-403-united-states-military-academy.md#section-4344).
-
-#### Effective Date of 1999 Amendment
-Amendment by Pub. L. 106–65 applicable with respect to students from a foreign country entering the United States Military Academy, Naval Academy, or Air Force Academy on or after May 1, 1999, see section 534(d) of Pub. L. 106–65, set out as a note under [section 4344 of this title](./chapter-403-united-states-military-academy.md#section-4344).
-
-#### Effective Date of 1997 Amendment
-Amendment by section 543(b) of Pub. L. 105–85 applicable with respect to students from foreign country entering United States Military Academy, United States Naval Academy, or United States Air Force Academy on or after May 1, 1998, see section 543(d) of Pub. L. 105–85, set out as a note under [section 4344 of this title](./chapter-403-united-states-military-academy.md#section-4344).
-
-#### Effective Date of 1983 Amendment
-Amendment by Pub. L. 98–94 effective one year after Sept. 24, 1983, and applicable to persons entering the Academy after such date, with subsec. (b)(2) of this section, as amended, not to apply to the cost of providing instruction to a person who, before such date, entered the Academy, see section 1004(d) of Pub. L. 98–94, set out as a note under [section 4344 of this title](./chapter-403-united-states-military-academy.md#section-4344).
-
-#### Persons From Countries Assisting U.S. in Vietnam: Naval Academy Instruction; Benefits, Limitations, Restrictions, and Regulations; Oath of Trainees
-Naval Academy instruction of persons from countries assisting U.S. in Vietnam, numerical limitation, prohibition against appointment of graduates to the Armed Forces, exemption from oath, etc., see Pub. L. 89–802, Nov. 9, 1966, 80 Stat. 1518, set out as a note under [section 4344 of this title](./chapter-403-united-states-military-academy.md#section-4344).
-
-
-<a id="section-6957a"></a>
-## § 6957a. Exchange program with foreign military academies
-**(a) Exchange Program Authorized.—** The Secretary of the Navy may permit a student enrolled at a military academy of a foreign country to receive instruction at the Naval Academy in exchange for a midshipman receiving instruction at that foreign military academy pursuant to an exchange agreement entered into between the Secretary and appropriate officials of the foreign country. Students receiving instruction at the Academy under the exchange program shall be in addition to persons receiving instruction at the Academy under [section 6957 of this title](./chapter-603-united-states-naval-academy.md#section-6957).
-
-**(b) Limitations on Number and Duration of Exchanges.—** An exchange agreement under this section between the Secretary and a foreign country shall provide for the exchange of students on a one-for-one basis each fiscal year. Not more than 100 midshipmen and a comparable number of students from all foreign military academies participating in the exchange program may be exchanged during any fiscal year. The duration of an exchange may not exceed the equivalent of one academic semester at the Naval Academy.
-
-**(c) Costs and Expenses.—**
-
-(1) A student from a military academy of a foreign country is not entitled to the pay, allowances, and emoluments of a midshipman by reason of attendance at the Naval Academy under the exchange program, and the Department of Defense may not incur any cost of international travel required for transportation of such a student to and from the sponsoring foreign country.
-
-(2) The Secretary may provide a student from a foreign country under the exchange program, during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreign country provides comparable support and services to the exchanged midshipman in that foreign country.
-
-(3) The Naval Academy shall bear all costs of the exchange program from funds appropriated for the Academy and such additional funds as may be available to the Academy from a source other than appropriated funds to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.
-
-(4) Expenditures in support of the exchange program from funds appropriated for the Naval Academy may not exceed $1,000,000 during any fiscal year.
-
-**(d) Application of Other Laws.—** Subsections (c) and (d) of [section 6957 of this title](./chapter-603-united-states-naval-academy.md#section-6957) shall apply with respect to a student enrolled at a military academy of a foreign country while attending the Naval Academy under the exchange program.
-
-**(e) Regulations.—** The Secretary shall prescribe regulations to implement this section. Such regulations may include qualification criteria and methods of selection for students of foreign military academies to participate in the exchange program.
-
-### Statutory Notes
-
-#### Amendments
-2006—Subsec. (b). Pub. L. 109–364, § 531(b)(1), substituted “100” for “24”.
-
-Subsec. (c)(3). Pub. L. 109–364, § 531(b)(2)(A), substituted “for the Academy and such additional funds as may be available to the Academy from a source other than appropriated funds to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.” for “for the Academy. Expenditures in support of the exchange program may not exceed $120,000 during any fiscal year.”
-
-Subsec. (c)(4). Pub. L. 109–364, § 531(b)(2)(B), added par. (4).
-
-1999—Subsec. (b). Pub. L. 106–65, § 535(b)(1), substituted “24 midshipmen” for “10 midshipmen”.
-
-Subsec. (c)(3). Pub. L. 106–65, § 535(b)(2), substituted “$120,000” for “$50,000”.
-
-#### Effective Date of 2006 Amendment
-Amendment by Pub. L. 109–364 effective Oct. 1, 2008, see section 531(d) of Pub. L. 109–364, set out as a note under [section 4345 of this title](./chapter-403-united-states-military-academy.md#section-4345).
-
-
-<a id="section-6957b"></a>
-## § 6957b. Foreign and cultural exchange activities
-**(a) Attendance Authorized.—** The Secretary of the Navy may authorize the Naval Academy to permit students, officers, and other representatives of a foreign country to attend the Naval Academy for periods of not more than four weeks if the Secretary determines that the attendance of such persons contributes significantly to the development of foreign language, cross cultural interactions and understanding, and cultural immersion of midshipmen.
-
-**(b) Costs and Expenses.—** The Secretary may pay the travel, subsistence, and similar personal expenses of persons incurred to attend the Naval Academy under subsection (a).
-
-**(c) Effect of Attendance.—** Persons attending the Naval Academy under subsection (a) are not considered to be students enrolled at the Naval Academy and are in addition to persons receiving instruction at the Naval Academy under section 6957 or 6957a of this title.
-
-**(d) Source of Funds; Limitation.—**
-
-(1) The Naval Academy shall bear the costs of the attendance of persons under subsection (a) from funds appropriated for the Naval Academy and from such additional funds as may be available to the Naval Academy from a source, other than appropriated funds, to support cultural immersion, regional awareness, or foreign language training activities in connection with their attendance.
-
-(2) Expenditures from appropriated funds in support of activities under this section may not exceed $40,000 during any fiscal year.
-
-### Statutory Notes
-
-#### Amendments
-2014—Subsec. (a). Pub. L. 113–291 substituted “four weeks” for “two weeks”.
+Section 6957b, added Pub. L. 110–417, [div. A], title V, § 541(b)(1), Oct. 14, 2008, 122 Stat. 4455; amended Pub. L. 113–291, div. A, title V, § 553(b), Dec. 19, 2014, 128 Stat. 3377, related to foreign and cultural exchange activities.
 
 
 <a id="section-6958"></a>
@@ -808,7 +691,7 @@ Midshipmen found deficient at any examination shall, unless the Academic Board r
 | 6964(d), (e) | [34 U.S.C. 1066](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section1066&num=0&edition=prelim). | June 23, 1874, ch. 453, 18 Stat. 203; Mar. 3, 1903, ch. 1010, 32 Stat. 1198 (29th to 49th word of 1st proviso); Apr. 9, 1906, ch. 1370, § 3, 34 Stat. 104; May 5, 1950, ch. 169, § 11, 64 Stat. 146. |
 | 6964(f) | [34 U.S.C. 1067](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section1067&num=0&edition=prelim). | Mar. 3, 1903, ch. 1010, 32 Stat. 1198 (last 43 words of 1st proviso). |
 
-In subsection (a) the words “privilege, or advantage to which he shall legally be entitled” are omitted as surplusage, since they are covered by the word “right”. The definition in this subsection is made applicable throughout the chapter to cover [§ 6965 of this title](./chapter-603-united-states-naval-academy.md#section-6965), since the reference in that section to hazing was also derived from the act which is the source for this subsection.
+In subsection (a) the words “privilege, or advantage to which he shall legally be entitled” are omitted as surplusage, since they are covered by the word “right”. The definition in this subsection is made applicable throughout the chapter to cover § 6965 of this title, since the reference in that section to hazing was also derived from the act which is the source for this subsection.
 
 In subsection (b) the words “prescribe regulations * * * to prevent hazing” are substituted for the words “make such rules * * * as will effectually prevent the practice of hazing”.
 
@@ -1320,6 +1203,9 @@ Section applicable only with respect to funds appropriated for fiscal years afte
   (B) The Secretary of Defense shall transmit each such report, together with the Secretary’s comments on the report, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
 ### Statutory Notes
+
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (d)(4)(B) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
 #### Further Information From Cadets and Midshipmen at the Service Academies on Sexual Assault and Sexual Harassment Issues
 Secretary of a military department to provide for focus groups to ascertain information relating to sexual assault and sexual harassment issues in any year in which the Secretary is not required by law to conduct a survey on such matters at the service academy under the Secretary’s jurisdiction and to include such information in the Secretary’s annual report to Congress, see section 532(b) of Pub. L. 109–364, set out as a note under [section 4361 of this title](./chapter-403-united-states-military-academy.md#section-4361).

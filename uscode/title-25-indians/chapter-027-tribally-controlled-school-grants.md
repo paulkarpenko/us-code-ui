@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-2501"></a>
 ## § 2501. Declaration of policy
-**(a) Recognition** Congress recognizes that the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.], which was a product of the legitimate aspirations and a recognition of the inherent authority of Indian nations, was and is a crucial positive step toward tribal and community control and that the United States has an obligation to assure maximum Indian participation in the direction of educational services so as to render the persons administering such services and the services themselves more responsive to the needs and desires of Indian communities.
+**(a) Recognition** Congress recognizes that the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.], which was a product of the legitimate aspirations and a recognition of the inherent authority of Indian nations, was and is a crucial positive step toward tribal and community control and that the United States has an obligation to assure maximum Indian participation in the direction of educational services so as to render the persons administering such services and the services themselves more responsive to the needs and desires of Indian communities.
 
 **(b) Commitment** Congress declares its commitment to the maintenance of the Federal Government’s unique and continuing trust relationship with and responsibility to the Indian people for the education of Indian children through the establishment of a meaningful Indian self-determination policy for education that will deter further perpetuation of Federal bureaucratic domination of programs.
 
@@ -33,7 +33,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 House Concurrent Resolution 108 of the 83rd Congress, referred to in subsec. (f), is H. Con. Res. 108, Eighty-third Congress, Aug. 1, 1953, 67 Stat. B132, which is not classified to the Code.
 
@@ -47,7 +47,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 Pub. L. 100–297, title V, § 5201, Apr. 28, 1988, 102 Stat. 385, provided that: “This part [part B (§§ 5201–5212) of title V of Pub. L. 100–297, enacting this chapter] may be cited as the ‘Tribally Controlled Schools Act of 1988’.”
 
 #### Tribal School Construction Demonstration Program
-Pub. L. 108–7, div. F, title I, § 122, Feb. 20, 2003, 117 Stat. 241, as amended by Pub. L. 108–108, title I, § 136(a), Nov. 10, 2003, 117 Stat. 1270, provided that: “(a) Definitions.—In this section:“(1) Construction.—The term ‘construction’, with respect to a tribally controlled school, includes the construction or renovation of that school. “(2) Indian tribe.—The term ‘Indian tribe’ has the meaning given that term in section 4(e) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim)). “(3) Secretary.—The term ‘Secretary’ means the Secretary of the Interior. “(4) Tribally controlled school.—The term ‘tribally controlled school’ means a school that currently receives a grant under the Tribally Controlled Schools Act of 1988, as amended ([25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.) or is determined by the Secretary to meet the eligibility criteria of section 5205 of the Tribally Controlled Schools Act of 1988, as amended ([25 U.S.C. 2504](./chapter-027-tribally-controlled-school-grants.md#section-2504)). “(5) Department.—The term ‘Department’ means the Department of the Interior. “(6) Demonstration program.—The term ‘demonstration program’ means the Tribal School Construction Demonstration Program. “(b) In General.—The Secretary shall carry out a demonstration program for fiscal years 2003 through 2007 to provide grants to Indian tribes for the construction of tribally controlled schools.“(1) In general.—Subject to the availability of appropriations, in carrying out the demonstration program under subsection (b), the Secretary shall award a grant to each Indian tribe that submits an application that is approved by the Secretary under paragraph (2). The Secretary shall ensure that applications for funding to replace schools currently receiving funding for facility operation and maintenance from the Bureau of Indian Affairs receive the highest priority for grants under this section. Among such applications, the Secretary shall give priority to applications of Indian tribes that agree to fund all future facility operation and maintenance costs of the tribally controlled school funded under the demonstration program from other than Federal funds. “(2) Grant applications.—An application for a grant under the section shall—“(A) include a proposal for the construction of a tribally controlled school of the Indian tribe that submits the application; and “(B) be in such form as the Secretary determines appropriate. “(3) Grant agreement.—As a condition to receiving a grant under this section, the Indian tribe shall enter into an agreement with the Secretary that specifies—“(A) the costs of construction under the grant; “(B) that the Indian tribe shall be required to contribute towards the cost of the construction a tribal share equal to 50 percent of the costs; and “(C) any other term or condition that the Secretary determines to be appropriate. “(4) Eligibility.—Grants awarded under the demonstration program shall be used only for construction or replacement of a tribally controlled school. “(c) Effect of Grant.—(1) Except as provided in paragraph (2) of this subsection, A [sic] grant received under this section shall be in addition to any other funds received by an Indian tribe under any other provision of law. The receipt of a grant under this section shall not affect the eligibility of an Indian tribe receiving funding, or the amount of funding received by the Indian tribe, under the Tribally Controlled Schools Act of 1988 ([25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.) or the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.). “(2) A tribe receiving a grant for construction of a tribally controlled school under this section shall not be eligible to receive funding from the Bureau of Indian Affairs for that school for education operations or facility operation and maintenance if the school that was not at the time of the grant: (i) a school receiving funding for education operations or facility operation and maintenance under the Tribally Controlled Schools Act [[25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.] or the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.] or (ii) a school operated by the Bureau of Indian Affairs. “(d) Report.—At the conclusion of the five-year demonstration program, the Secretary shall report to Congress as to whether the demonstration program has achieved its purposes of providing additional tribes fair opportunities to construct tribally controlled schools, accelerating construction of needed educational facilities in Indian Country, and permitting additional funds to be provided for the Department’s priority list for construction of replacement educational facilities.”
+Pub. L. 108–7, div. F, title I, § 122, Feb. 20, 2003, 117 Stat. 241, as amended by Pub. L. 108–108, title I, § 136(a), Nov. 10, 2003, 117 Stat. 1270, provided that: “(a) Definitions.—In this section:“(1) Construction.—The term ‘construction’, with respect to a tribally controlled school, includes the construction or renovation of that school. “(2) Indian tribe.—The term ‘Indian tribe’ has the meaning given that term in section 4(e) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim)) [now [25 U.S.C. 5304(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim)]. “(3) Secretary.—The term ‘Secretary’ means the Secretary of the Interior. “(4) Tribally controlled school.—The term ‘tribally controlled school’ means a school that currently receives a grant under the Tribally Controlled Schools Act of 1988, as amended ([25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.) or is determined by the Secretary to meet the eligibility criteria of section 5205 of the Tribally Controlled Schools Act of 1988, as amended ([25 U.S.C. 2504](./chapter-027-tribally-controlled-school-grants.md#section-2504)). “(5) Department.—The term ‘Department’ means the Department of the Interior. “(6) Demonstration program.—The term ‘demonstration program’ means the Tribal School Construction Demonstration Program. “(b) In General.—The Secretary shall carry out a demonstration program for fiscal years 2003 through 2007 to provide grants to Indian tribes for the construction of tribally controlled schools.“(1) In general.—Subject to the availability of appropriations, in carrying out the demonstration program under subsection (b), the Secretary shall award a grant to each Indian tribe that submits an application that is approved by the Secretary under paragraph (2). The Secretary shall ensure that applications for funding to replace schools currently receiving funding for facility operation and maintenance from the Bureau of Indian Affairs receive the highest priority for grants under this section. Among such applications, the Secretary shall give priority to applications of Indian tribes that agree to fund all future facility operation and maintenance costs of the tribally controlled school funded under the demonstration program from other than Federal funds. “(2) Grant applications.—An application for a grant under the section shall—“(A) include a proposal for the construction of a tribally controlled school of the Indian tribe that submits the application; and “(B) be in such form as the Secretary determines appropriate. “(3) Grant agreement.—As a condition to receiving a grant under this section, the Indian tribe shall enter into an agreement with the Secretary that specifies—“(A) the costs of construction under the grant; “(B) that the Indian tribe shall be required to contribute towards the cost of the construction a tribal share equal to 50 percent of the costs; and “(C) any other term or condition that the Secretary determines to be appropriate. “(4) Eligibility.—Grants awarded under the demonstration program shall be used only for construction or replacement of a tribally controlled school. “(c) Effect of Grant.—(1) Except as provided in paragraph (2) of this subsection, A [sic] grant received under this section shall be in addition to any other funds received by an Indian tribe under any other provision of law. The receipt of a grant under this section shall not affect the eligibility of an Indian tribe receiving funding, or the amount of funding received by the Indian tribe, under the Tribally Controlled Schools Act of 1988 ([25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.) or the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.) [now [25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.]. “(2) A tribe receiving a grant for construction of a tribally controlled school under this section shall not be eligible to receive funding from the Bureau of Indian Affairs for that school for education operations or facility operation and maintenance if the school that was not at the time of the grant: (i) a school receiving funding for education operations or facility operation and maintenance under the Tribally Controlled Schools Act [[25 U.S.C. 2501](./chapter-027-tribally-controlled-school-grants.md#section-2501) et seq.] or the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.] or (ii) a school operated by the Bureau of Indian Affairs. “(d) Report.—At the conclusion of the five-year demonstration program, the Secretary shall report to Congress as to whether the demonstration program has achieved its purposes of providing additional tribes fair opportunities to construct tribally controlled schools, accelerating construction of needed educational facilities in Indian Country, and permitting additional funds to be provided for the Department’s priority list for construction of replacement educational facilities.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -111,7 +111,7 @@ a grant under this chapter to plan, conduct, and administer all of, or any porti
 
 (1) **In general** — Whenever a tribal governing body requests retrocession of any program for which assistance is provided under this chapter, such retrocession shall become effective upon a date specified by the Secretary that is not later than 120 days after the date on which the tribal governing body requests the retrocession. A later date may be specified if mutually agreed upon by the Secretary and the tribal governing body. If such a program is retroceded, the Secretary shall provide to any Indian tribe served by such program at least the same quantity and quality of services that would have been provided under such program at the level of funding provided under this chapter prior to the retrocession.
 
-(2) **Status after retrocession** — The tribe requesting retrocession shall specify whether the retrocession is to status as a Bureau-operated school or as a school operated under contract under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.].
+(2) **Status after retrocession** — The tribe requesting retrocession shall specify whether the retrocession is to status as a Bureau-operated school or as a school operated under contract under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.].
 
 (3) **Transfer of equipment and materials** — Except as otherwise determined by the Secretary, the tribe or tribal organization operating the program to be retroceded must transfer to the Secretary (or to the tribe or tribal organization which will operate the program as a contract school) the existing equipment and materials which were acquired—
 
@@ -126,7 +126,7 @@ a grant under this chapter to plan, conduct, and administer all of, or any porti
 #### References in Text
 The Education Amendments of 1978, referred to in subsecs. (a)(1)(A) and (f)(3)(B), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Act is classified principally to chapter 22 (§ 2000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (f)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (f)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Prior Provisions
 A prior section 2502, Pub. L. 100–297, title V, § 5203, Apr. 28, 1988, 102 Stat. 385, set forth declaration of policy, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See [section 2501 of this title](./chapter-027-tribally-controlled-school-grants.md#section-2501).
@@ -145,7 +145,7 @@ Beginning July 1, 2008, and thereafter, any funds (including investments and int
 #### References in Text
 Public Law 100–297, referred to in text, is Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 130. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
 
-Public Law 93–638, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+Public Law 93–638, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Section was enacted as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2014, and also as part of the Consolidated Appropriations Act, 2014, and not as part of the Tribally Controlled Schools Act of 1988 which comprises this chapter.
@@ -157,7 +157,7 @@ Section was enacted as part of the Department of the Interior, Environment, and 
 
 (1) the total amount of funds allocated for such fiscal year under sections 1127 and 1128 of the Education Amendments of 1978 [[25 U.S.C. 2007](./chapter-022-bureau-of-indian-affairs-programs.md#section-2007), 2008] with respect to the tribally controlled schools eligible for assistance under this chapter which are operated by such Indian tribe or tribal organization, including, but not limited to, funds provided under such sections, or under any other provision of law, for transportation costs;
 
-(2) to the extent requested by such Indian tribe or tribal organization, the total amount of funds provided from operations and maintenance accounts and, notwithstanding [section 450j of this title](./chapter-014-miscellaneous.md#section-450j), or any other provision of law, other facilities accounts for such schools for such fiscal year (including but not limited to those referenced under section 1126(d) of the Education Amendments of 1978 [[25 U.S.C. 2006(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2006/d&num=0&edition=prelim)] or any other law); and
+(2) to the extent requested by such Indian tribe or tribal organization, the total amount of funds provided from operations and maintenance accounts and, notwithstanding [section 5324 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5324), or any other provision of law, other facilities accounts for such schools for such fiscal year (including but not limited to those referenced under section 1126(d) of the Education Amendments of 1978 [[25 U.S.C. 2006(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2006/d&num=0&edition=prelim)] or any other law); and
 
 (3) the total amount of funds that are allocated to such schools for such fiscal year under—
 
@@ -171,7 +171,7 @@ Section was enacted as part of the Department of the Interior, Environment, and 
 
 (1) **In general**
 
-  (A) *Applicability of certain laws* — Funds allocated to a tribally controlled school by reason of paragraph (1) or (2) of subsection (a) of this section shall be subject to the provisions of this chapter and shall not be subject to any additional restriction, priority, or limitation that is imposed by the Bureau with respect to funds provided under—
+  (A) *Applicability of certain laws* — Funds allocated to a tribally controlled school by reason of paragraph (1) or (2) of subsection (a) shall be subject to the provisions of this chapter and shall not be subject to any additional restriction, priority, or limitation that is imposed by the Bureau with respect to funds provided under—
 
     (i) title I of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) et seq.];
 
@@ -219,13 +219,13 @@ Section was enacted as part of the Department of the Interior, Environment, and 
 
 (5) **Enforcement of request to include funds**
 
-  (A) *In general* — If the Secretary fails to carry out a request filed by an Indian tribe or tribal organization to include in such tribe 66 So in original. Probably should be “tribe’s”. or organization’s grant under this chapter the funds described in subsection (a)(2) of this section within 180 days after the filing of the request, the Secretary shall—
+  (A) *In general* — If the Secretary fails to carry out a request filed by an Indian tribe or tribal organization to include in such tribe 66 So in original. Probably should be “tribe’s”. or organization’s grant under this chapter the funds described in subsection (a)(2) within 180 days after the filing of the request, the Secretary shall—
 
     (i) be deemed to have approved such request; and
 
     (ii) immediately upon the expiration of such 180-day period amend the grant accordingly.
 
-  (B) *Rights* — A tribe or organization described in subparagraph (A) may enforce its rights under subsection (a)(2) of this section and this paragraph, including rights relating to any denial or failure to act on such tribe’s or organization’s request, pursuant to the dispute authority described in section 2508(e) 5 of this title.
+  (B) *Rights* — A tribe or organization described in subparagraph (A) may enforce its rights under subsection (a)(2) and this paragraph, including rights relating to any denial or failure to act on such tribe’s or organization’s request, pursuant to the dispute authority described in section 2508(e) 5 of this title.
 
 ### Statutory Notes
 
@@ -253,17 +253,17 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
   (A) on April 28, 1988, was a contract school under title XI of the Education Amendments of 1978 [[25 U.S.C. 2000](./chapter-022-bureau-of-indian-affairs-programs.md#section-2000) et seq.] and the tribe or tribal organization operating the school submits to the Secretary a written notice of election to receive a grant under this chapter;
 
-  (B) was a Bureau-operated school under title XI of the Education Amendments of 1978 [[25 U.S.C. 2000](./chapter-022-bureau-of-indian-affairs-programs.md#section-2000) et seq.] and has met the requirements of subsection (b) of this section;
+  (B) was a Bureau-operated school under title XI of the Education Amendments of 1978 [[25 U.S.C. 2000](./chapter-022-bureau-of-indian-affairs-programs.md#section-2000) et seq.] and has met the requirements of subsection (b);
 
-  (C) is a school for which the Bureau has not provided funds, but which has met the requirements of subsection (c) of this section; or
+  (C) is a school for which the Bureau has not provided funds, but which has met the requirements of subsection (c); or
 
-  (D) is a school with respect to which an election has been made under paragraph (2) and which has met the requirements of subsection (b) of this section.
+  (D) is a school with respect to which an election has been made under paragraph (2) and which has met the requirements of subsection (b).
 
-(2) **New schools** — Any application which has been submitted under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.] by an Indian tribe for a school which is not in operation on January 8, 2002, shall be reviewed under the guidelines and regulations for applications submitted under the Indian Self-Determination and Education Assistance Act that were in effect at the time the application was submitted, unless the Indian tribe or tribal organization elects to have the application reviewed under the provisions of subsection (b) of this section.
+(2) **New schools** — Any application which has been submitted under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.] by an Indian tribe for a school which is not in operation on January 8, 2002, shall be reviewed under the guidelines and regulations for applications submitted under the Indian Self-Determination and Education Assistance Act that were in effect at the time the application was submitted, unless the Indian tribe or tribal organization elects to have the application reviewed under the provisions of subsection (b).
 
 **(b) Additional requirements for Bureau-funded schools and certain electing schools**
 
-(1) **Bureau-funded schools** — A school that was a Bureau-funded school under title XI of the Education Amendments of 1978 [[25 U.S.C. 2000](./chapter-022-bureau-of-indian-affairs-programs.md#section-2000) et seq.] on January 8, 2002, and any school with respect to which an election is made under subsection (a)(2) of this section, meets the requirements of this subsection if—
+(1) **Bureau-funded schools** — A school that was a Bureau-funded school under title XI of the Education Amendments of 1978 [[25 U.S.C. 2000](./chapter-022-bureau-of-indian-affairs-programs.md#section-2000) et seq.] on January 8, 2002, and any school with respect to which an election is made under subsection (a)(2), meets the requirements of this subsection if—
 
   (A) the Indian tribe or tribal organization that operates, or desires to operate, the school submits to the Secretary an application requesting that the Secretary—
 
@@ -345,17 +345,17 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
 (2) **Supporting documentation** — Any application that is submitted under this chapter shall be accompanied by a document indicating the action taken by the tribal governing body in authorizing such application.
 
-**(e) Effective date for approved applications** Except as provided by subsection (c)(2)(E) of this section, a grant provided under this chapter, and any transfer of the operation of a Bureau school made under subsection (b) of this section, shall become effective beginning the academic year succeeding the fiscal year in which the application for the grant or transfer is made, or at an earlier date determined by the Secretary.
+**(e) Effective date for approved applications** Except as provided by subsection (c)(2)(E), a grant provided under this chapter, and any transfer of the operation of a Bureau school made under subsection (b), shall become effective beginning the academic year succeeding the fiscal year in which the application for the grant or transfer is made, or at an earlier date determined by the Secretary.
 
 **(f) Denial of applications**
 
-(1) **In general** — Whenever the Secretary refuses to approve a grant under this chapter, to transfer operation of a Bureau school under subsection (b) of this section, or determines that a school is not eligible for assistance under this chapter, the Secretary shall—
+(1) **In general** — Whenever the Secretary refuses to approve a grant under this chapter, to transfer operation of a Bureau school under subsection (b), or determines that a school is not eligible for assistance under this chapter, the Secretary shall—
 
   (A) state the objections in writing to the tribe or tribal organization within the allotted time;
 
   (B) provide assistance to the tribe or tribal organization to overcome all stated objections;
 
-  (C) at the request of the tribe or tribal organization, provide the tribe or tribal organization a hearing on the record under the same rules and regulations that apply under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.]; and
+  (C) at the request of the tribe or tribal organization, provide the tribe or tribal organization a hearing on the record under the same rules and regulations that apply under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.]; and
 
   (D) provide an opportunity to appeal the objection raised.
 
@@ -368,7 +368,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 #### References in Text
 The Education Amendments of 1978, referred to in subsecs. (a)(1)(A), (B), (b)(1), and (c)(1), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Act is classified principally to chapter 22 (§ 2000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (a)(2) and (f)(1)(C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (a)(2) and (f)(1)(C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 The title, referred to in subsec. (c)(2)(E), probably should be “this part”, meaning part B of title V of Pub. L. 100–297, known as the Tribally Controlled Schools Act of 1988, which is classified generally to this chapter. For complete classification of part B to the Code, see Short Title note set out under [section 2501 of this title](./chapter-027-tribally-controlled-school-grants.md#section-2501) and Tables.
 
@@ -395,7 +395,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
   (D) an annual submission to the Secretary of the number of students served and a brief description of programs offered under the grant; and
 
-  (E) a program evaluation conducted by an impartial evaluation review team, to be based on the standards established for purposes of subsection (c)(1)(A)(ii) 11 So in original. Probably should be subsection “(c)(1)(B)(ii)”. of this section.
+  (E) a program evaluation conducted by an impartial evaluation review team, to be based on the standards established for purposes of subsection (c)(1)(A)(ii).11 So in original. Probably should be subsection “(c)(1)(B)(ii).”
 
 (2) **Evaluation review teams** — Where appropriate, other tribally controlled schools and representatives of tribally controlled community colleges shall make up members of the evaluation review teams.
 
@@ -411,7 +411,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
 (1) **Determination of eligibility for assistance** — The Secretary shall not revoke a determination that a school is eligible for assistance under this chapter if—
 
-  (A) the Indian tribe or tribal organization submits the reports required under subsection (b) of this section with respect to the school; and
+  (A) the Indian tribe or tribal organization submits the reports required under subsection (b) with respect to the school; and
 
   (B) at least one of the following clauses applies with respect to the school:
 
@@ -423,7 +423,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
     (iv)
 
-      (I) With respect to a school that lacks accreditation, or that is not a candidate for accreditation, based on circumstances that are not beyond the control of the school board, every 3 years an impartial evaluator agreed upon by the Secretary and the grant recipient conducts evaluations of the school, and the school receives a positive assessment under such evaluations. The evaluations are conducted under standards adopted by a contractor under a contract for the school entered into under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.] (or revisions of such standards agreed to by the Secretary and the grant recipient) prior to January 8, 2002.
+      (I) With respect to a school that lacks accreditation, or that is not a candidate for accreditation, based on circumstances that are not beyond the control of the school board, every 3 years an impartial evaluator agreed upon by the Secretary and the grant recipient conducts evaluations of the school, and the school receives a positive assessment under such evaluations. The evaluations are conducted under standards adopted by a contractor under a contract for the school entered into under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.] (or revisions of such standards agreed to by the Secretary and the grant recipient) prior to January 8, 2002.
 
       (II) If the Secretary and a grant recipient other than a tribal governing body fail to agree on such an evaluator, the tribal governing body shall choose the evaluator or perform the evaluation. If the Secretary and a grant recipient that is a tribal governing body fail to agree on such an evaluator, subclause (I) shall not apply.
 
@@ -458,7 +458,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 #### References in Text
 The Single Audit Act of 1984, referred to in subsec. (b)(1)(B), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which enacted chapter 75 (§ 7501 et seq.) of Title 31, Money and Finance, and provisions set out as notes under [section 7501 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section7501&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under [section 7501 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section7501&num=0&edition=prelim) and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(1)(B)(iv)(I), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(1)(B)(iv)(I), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Prior Provisions
 A prior section 2505, Pub. L. 100–297, title V, § 5206, Apr. 28, 1988, 102 Stat. 388; Pub. L. 100–427, § 11, Sept. 9, 1988, 102 Stat. 1608; Pub. L. 105–362, title VIII, § 801(d), Nov. 10, 1998, 112 Stat. 3288, related to eligibility for grants, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See [section 2504 of this title](./chapter-027-tribally-controlled-school-grants.md#section-2504).
@@ -510,49 +510,49 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
 <a id="section-2507"></a>
 ## § 2507. Application with respect to Indian Self-Determination and Education Assistance Act
-**(a) Certain provisions to apply to grants** The following provisions of the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.] (and any subsequent revisions thereto or renumbering thereof), shall apply to grants provided under this chapter:
+**(a) Certain provisions to apply to grants** The following provisions of the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.] (and any subsequent revisions thereto or renumbering thereof), shall apply to grants provided under this chapter:
 
-(1) Section 5(f) [[25 U.S.C. 450c(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450c/f&num=0&edition=prelim)] (relating to single agency audit).
+(1) Section 5(f) [[25 U.S.C. 5305(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5305/f&num=0&edition=prelim)] (relating to single agency audit).
 
-(2) Section 6 [[25 U.S.C. 450d](./chapter-014-miscellaneous.md#section-450d)] (relating to criminal activities; penalties).
+(2) Section 6 [[25 U.S.C. 5306](./chapter-046-indian-self-determination-and-education-assistance.md#section-5306)] (relating to criminal activities; penalties).
 
-(3) Section 7 [[25 U.S.C. 450e](./chapter-014-miscellaneous.md#section-450e)] (relating to wage and labor standards).
+(3) Section 7 [[25 U.S.C. 5307](./chapter-046-indian-self-determination-and-education-assistance.md#section-5307)] (relating to wage and labor standards).
 
-(4) Section 104 [[25 U.S.C. 450i](./chapter-014-miscellaneous.md#section-450i)] (relating to retention of Federal employee coverage).
+(4) Section 104 [[25 U.S.C. 5323](./chapter-046-indian-self-determination-and-education-assistance.md#section-5323)] (relating to retention of Federal employee coverage).
 
-(5) Section 105(f) [[25 U.S.C. 450j(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j/f&num=0&edition=prelim)] (relating to Federal property).
+(5) Section 105(f) [[25 U.S.C. 5324(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5324/f&num=0&edition=prelim)] (relating to Federal property).
 
-(6) Section 105(k) [[25 U.S.C. 450j(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j/k&num=0&edition=prelim)] (relating to access to Federal sources of supply).
+(6) Section 105(k) [[25 U.S.C. 5324(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5324/k&num=0&edition=prelim)] (relating to access to Federal sources of supply).
 
-(7) Section 105(l) [[25 U.S.C. 450j](./chapter-014-miscellaneous.md#section-450j)(l)] (relating to lease of facility used for administration and delivery of services).
+(7) Section 105(l) [[25 U.S.C. 5324](./chapter-046-indian-self-determination-and-education-assistance.md#section-5324)(l)] (relating to lease of facility used for administration and delivery of services).
 
-(8) Section 106(f) [[25 U.S.C. 450j–1(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j–1/f&num=0&edition=prelim)] (relating to limitation on remedies relating to cost allowances).
+(8) Section 106(f) [[25 U.S.C. 5325(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5325/f&num=0&edition=prelim)] (relating to limitation on remedies relating to cost allowances).
 
-(9) Section 106(j) [[25 U.S.C. 450j–1(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j–1/j&num=0&edition=prelim)] (relating to use of funds for matching or cost participation requirements).
+(9) Section 106(j) [[25 U.S.C. 5325(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5325/j&num=0&edition=prelim)] (relating to use of funds for matching or cost participation requirements).
 
-(10) Section 106(k) [[25 U.S.C. 450j–1(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j–1/k&num=0&edition=prelim)] (relating to allowable uses of funds).
+(10) Section 106(k) [[25 U.S.C. 5325(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5325/k&num=0&edition=prelim)] (relating to allowable uses of funds).
 
-(11) Section 108(c) [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450)l(c)] (Model Agreements provisions (1)(a)(5) 11 So in original. Probably should be “1(b)(5)”. (relating to limitations of costs), (1)(a)(7) 22 So in original. Probably should be “1(b)(7)”. (relating to records and monitoring), (1)(a)(8) 33 So in original. Probably should be “1(b)(8)”. (relating to property), and (a)(1)(9) 44 So in original. Probably should be “1(b)(9)”. (relating to availability of funds).55 So in original. There probably should be a second closing parenthesis.
+(11) Section 108(c) [[25 U.S.C. 5329(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5329/c&num=0&edition=prelim)] (Model Agreements provisions (1)(a)(5) 11 So in original. Probably should be “1(b)(5)”. (relating to limitations of costs), (1)(a)(7) 22 So in original. Probably should be “1(b)(7)”. (relating to records and monitoring), (1)(a)(8) 33 So in original. Probably should be “1(b)(8)”. (relating to property), and (a)(1)(9) 44 So in original. Probably should be “1(b)(9)”. (relating to availability of funds).55 So in original. There probably should be a second closing parenthesis.
 
-(12) Section 109 [[25 U.S.C. 450m](./chapter-014-miscellaneous.md#section-450m)] (relating to reassumption).
+(12) Section 109 [[25 U.S.C. 5330](./chapter-046-indian-self-determination-and-education-assistance.md#section-5330)] (relating to reassumption).
 
-(13) Section 111 [[25 U.S.C. 450n](./chapter-014-miscellaneous.md#section-450n)] (relating to sovereign immunity and trusteeship rights unaffected).
+(13) Section 111 [[25 U.S.C. 5332](./chapter-046-indian-self-determination-and-education-assistance.md#section-5332)] (relating to sovereign immunity and trusteeship rights unaffected).
 
 **(b) Election for grant in lieu of contract**
 
-(1) **In general** — Contractors for activities to which this chapter applies who have entered into a contract under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.] that is in effect on January 8, 2002, may, by giving notice to the Secretary, elect to have the provisions of this chapter apply to such activity in lieu of such contract.
+(1) **In general** — Contractors for activities to which this chapter applies who have entered into a contract under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.] that is in effect on January 8, 2002, may, by giving notice to the Secretary, elect to have the provisions of this chapter apply to such activity in lieu of such contract.
 
 (2) **Effective date of election** — Any election made under paragraph (1) shall take effect on the first day of July immediately following the date of such election.
 
 (3) **Exception** — In any case in which the first day of July immediately following the date of an election under paragraph (1) is less than 60 days after such election, such election shall not take effect until the first day of July of 66 So in original. Probably should be followed by “the”. year following the year in which the election is made.
 
-**(c) No duplication** No funds may be provided under any contract entered into under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.] to pay any expenses incurred in providing any program or services if a grant has been made under this chapter to pay such expenses.
+**(c) No duplication** No funds may be provided under any contract entered into under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.] to pay any expenses incurred in providing any program or services if a grant has been made under this chapter to pay such expenses.
 
 **(d) Transfers and carryovers**
 
 (1) **Buildings, equipment, supplies, materials** — A tribe or tribal organization assuming the operation of—
 
-  (A) a Bureau school with assistance under this chapter shall be entitled to the transfer or use of buildings, equipment, supplies, and materials to the same extent as if it were contracting under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.]; or
+  (A) a Bureau school with assistance under this chapter shall be entitled to the transfer or use of buildings, equipment, supplies, and materials to the same extent as if it were contracting under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.]; or
 
   (B) a contract school with assistance under this chapter shall be entitled to the transfer or use of buildings, equipment, supplies, and materials that were used in the operation of the contract school to the same extent as if it were contracting under the Indian Self-Determination and Education Assistance Act.
 
@@ -560,12 +560,12 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
 (3) **Funding for school improvement** — Any tribe or tribal organization that assumes operation of a Bureau school or a contract school with assistance under this chapter shall be eligible for funding for the improvement, alteration, replacement, and repair of facilities to the same extent as a Bureau school.
 
-**(e) Exceptions, problems, and disputes** Any exception or problem cited in an audit conducted pursuant to [section 2505(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2505/b/1&num=0&edition=prelim), any dispute regarding a grant authorized to be made pursuant to this chapter or any amendment to such grant, and any dispute involving an administrative cost grant under [section 2008 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2008) shall be administered under the provisions governing such exceptions, problems, or disputes in the case of contracts under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.]. The Equal Access to Justice Act shall apply to administrative appeals filed after September 8, 1988, by grantees regarding a grant under this chapter, including an administrative cost grant.
+**(e) Exceptions, problems, and disputes** Any exception or problem cited in an audit conducted pursuant to [section 2505(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2505/b/1&num=0&edition=prelim), any dispute regarding a grant authorized to be made pursuant to this chapter or any amendment to such grant, and any dispute involving an administrative cost grant under [section 2008 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2008) shall be administered under the provisions governing such exceptions, problems, or disputes in the case of contracts under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.]. The Equal Access to Justice Act shall apply to administrative appeals filed after September 8, 1988, by grantees regarding a grant under this chapter, including an administrative cost grant.
 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 The Equal Access to Justice Act, referred to in subsec. (e), is title II of Pub. L. 96–481, Oct. 21, 1980, 94 Stat. 2325, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 504 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section504&num=0&edition=prelim), Government Organization and Employees, and Tables.
 
@@ -618,7 +618,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
   (C) for the sole use of the school any noncash, in-kind contributions of real or personal property, which may at any time be used, sold, or otherwise disposed of.
 
-**(b) Interest** Interest from the fund established under subsection (a) of this section may periodically be withdrawn and used, at the discretion of the school, to defray any expenses associated with the operation of the school consistent with the purposes of this Act.11 See References in Text note below.
+**(b) Interest** Interest from the fund established under subsection (a) may periodically be withdrawn and used, at the discretion of the school, to defray any expenses associated with the operation of the school consistent with the purposes of this Act.11 See References in Text note below.
 
 ### Statutory Notes
 

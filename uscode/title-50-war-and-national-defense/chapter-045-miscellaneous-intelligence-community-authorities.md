@@ -2,19 +2,19 @@
 title: 50
 chapter: '45'
 heading: MISCELLANEOUS INTELLIGENCE COMMUNITY AUTHORITIES
-section_count: 40
+section_count: 41
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
 <a id="section-3301"></a>
 ## § 3301. Multiyear national intelligence program
-**(a) Annual submission of multiyear national intelligence program** The Director of National Intelligence shall submit to the congressional committees specified in subsection (d) of this section each year a multiyear national intelligence program plan reflecting the estimated expenditures and proposed appropriations required to support that program. Any such multiyear national intelligence program plan shall cover the fiscal year with respect to which the budget is submitted and at least four succeeding fiscal years.
+**(a) Annual submission of multiyear national intelligence program** The Director of National Intelligence shall submit to the congressional committees specified in subsection (d) each year a multiyear national intelligence program plan reflecting the estimated expenditures and proposed appropriations required to support that program. Any such multiyear national intelligence program plan shall cover the fiscal year with respect to which the budget is submitted and at least four succeeding fiscal years.
 
-**(b) Time of submission** The Director of National Intelligence shall submit the report required by subsection (a) of this section each year at or about the same time that the budget is submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim).
+**(b) Time of submission** The Director of National Intelligence shall submit the report required by subsection (a) each year at or about the same time that the budget is submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim).
 
-**(c) Consistency with budget estimates** The Director of National Intelligence and the Secretary of Defense shall ensure that the estimates referred to in subsection (a) of this section are consistent with the budget estimates submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim) for the fiscal year concerned and with the estimated expenditures and proposed appropriations for the future-years defense program submitted pursuant to [section 221 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section221&num=0&edition=prelim).
+**(c) Consistency with budget estimates** The Director of National Intelligence and the Secretary of Defense shall ensure that the estimates referred to in subsection (a) are consistent with the budget estimates submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim) for the fiscal year concerned and with the estimated expenditures and proposed appropriations for the future-years defense program submitted pursuant to [section 221 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section221&num=0&edition=prelim).
 
-**(d) Specified congressional committees** The congressional committees referred to in subsection (a) of this section are the following:
+**(d) Specified congressional committees** The congressional committees referred to in subsection (a) are the following:
 
 (1) The Committee on Armed Services, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate.
 
@@ -36,7 +36,7 @@ Subsec. (c). Pub. L. 111–259, § 805(b)(1), (c), substituted “Director of Na
 
 1999—Subsec. (d)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1996—Subsec. (a). Pub. L. 104–106, § 1502(c)(4)(B)(i), substituted “the congressional committees specified in subsection (d) of this section each year” for “the Committees on Armed Services and Appropriations of the Senate and the House of Representatives and the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives each year”.
+1996—Subsec. (a). Pub. L. 104–106, § 1502(c)(4)(B)(i), substituted “the congressional committees specified in subsection (d) each year” for “the Committees on Armed Services and Appropriations of the Senate and the House of Representatives and the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives each year”.
 
 Subsec. (d). Pub. L. 104–106, § 1502(c)(4)(B)(ii), added subsec. (d).
 
@@ -74,13 +74,13 @@ Section was formerly classified to [section 403–2a of this title](./chapter-01
 ## § 3304. Limitation on construction of facilities to be used primarily by intelligence community
 **(a) In general**
 
-(1) **In general** — Except as provided in subsection (b) of this section, no project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost in excess of $5,000,000 may be undertaken in any fiscal year unless such project is specifically identified as a separate item in the President’s annual fiscal year budget request and is specifically authorized by the Congress.
+(1) **In general** — Except as provided in subsection (b), no project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost in excess of $5,000,000 may be undertaken in any fiscal year unless such project is specifically identified as a separate item in the President’s annual fiscal year budget request and is specifically authorized by the Congress.
 
 (2) **Notification** — In the case of a project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost greater than $1,000,000 but less than $5,000,000, or where any improvement project to such a facility has an estimated Federal cost greater than $1,000,000, the Director of National Intelligence shall submit a notification to the intelligence committees specifically identifying such project.
 
 **(b) Exception**
 
-(1) **In general** — Notwithstanding subsection (a) of this section but subject to paragraphs (2) and (3), a project for the construction of a facility to be used primarily by personnel of any component of the intelligence community may be carried out if the Secretary of Defense and the Director of National Intelligence jointly determine—
+(1) **In general** — Notwithstanding subsection (a) but subject to paragraphs (2) and (3), a project for the construction of a facility to be used primarily by personnel of any component of the intelligence community may be carried out if the Secretary of Defense and the Director of National Intelligence jointly determine—
 
   (A) that the project is vital to the national security or to the protection of health, safety, or the quality of the environment, and
 
@@ -120,7 +120,7 @@ Subsec. (b)(3). Pub. L. 111–259, § 809(2)(C), substituted “Director of the 
 Subsec. (b)(2). Pub. L. 108–177, § 314(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, substituted “7-day period” for “21-day period”, and added subpar. (B).
 
 #### Definitions
-Pub. L. 103–359, title VI, § 604, Oct. 14, 1994, 108 Stat. 3433, provided that: “As used in this title [enacting this section and [section 3302 of this title](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3302)]: “(1) Intelligence committees.—The term ‘intelligence committees’ means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate. “(2) Intelligence community.—The term ‘intelligence community’ has the same meaning given that term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401a/4&num=0&edition=prelim) [now [50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)]) .”
+Pub. L. 103–359, title VI, § 604, Oct. 14, 1994, 108 Stat. 3433, provided that: “As used in this title [enacting this section and [section 3302 of this title](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3302)]: “(1) Intelligence committees.—The term ‘intelligence committees’ means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate. “(2) Intelligence community.—The term ‘intelligence community’ has the same meaning given that term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401a/4&num=0&edition=prelim) [now [50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim)]).”
 
 
 <a id="section-3305"></a>
@@ -244,6 +244,22 @@ Section was formerly classified to [section 403–9 of this title](./chapter-015
 For definition of “intelligence community”, see section 2 of Pub. L. 111–259, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
 
 
+<a id="section-3308a"></a>
+## § 3308a. Provision of certain information to Government Accountability Office by National Reconnaissance Office
+**(a) In general** The Director of the National Reconnaissance Office shall provide to the Comptroller General of the United States, in a timely manner, access to the cost, schedule, and performance information the Comptroller General requires to conduct assessments, as required by any of the appropriate congressional committees, of programs of the National Reconnaissance Office.
+
+**(b) Appropriate Congressional Committees Defined** In this section, the term “appropriate congressional committees” means—
+
+(1) the congressional defense committees; and
+
+(2) the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+### Statutory Notes
+
+#### “Congressional Defense Committees” Defined
+Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 114–328, 130 Stat. 2025. See note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
+
+
 <a id="section-3309"></a>
 ## § 3309. Notification of establishment of advisory committee
 
@@ -272,7 +288,7 @@ For definition of “congressional intelligence committees” referred to in tex
 
 <a id="section-3310"></a>
 ## § 3310. Annual report on United States security arrangements and commitments with other nations
-**(a) Report requirements** The President shall submit to the congressional committees specified in subsection (d) of this section each year a report (in both classified and unclassified form) on United States security arrangements with, and commitments to, other nations.
+**(a) Report requirements** The President shall submit to the congressional committees specified in subsection (d) each year a report (in both classified and unclassified form) on United States security arrangements with, and commitments to, other nations.
 
 **(b) Matters to be included** The President shall include in each such report the following:
 
@@ -288,9 +304,9 @@ For definition of “congressional intelligence committees” referred to in tex
 
 (4) An assessment of the need to continue, modify, or discontinue each of those arrangements and commitments in view of the changing international security situation.
 
-**(c) Deadline for report** The President shall submit the report required by subsection (a) of this section not later than February 1 of each year.
+**(c) Deadline for report** The President shall submit the report required by subsection (a) not later than February 1 of each year.
 
-**(d) Specified congressional committees** The congressional committees referred to in subsection (a) of this section are the following:
+**(d) Specified congressional committees** The congressional committees referred to in subsection (a) are the following:
 
 (1) The Committee on Armed Services and the Committee on Foreign Relations of the Senate.
 
@@ -304,9 +320,9 @@ Section was formerly classified to [section 404c of this title](./chapter-015-na
 #### Amendments
 1999—Subsec. (d)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1996—Subsec. (a). Pub. L. 104–106, § 1502(c)(4)(C)(i), substituted “shall submit to the congressional committees specified in subsection (d) of this section each year” for “shall submit to the Committees on Armed Services and on Foreign Affairs of the House of Representatives and the Committees on Armed Services and Foreign Relations of the Senate each year”.
+1996—Subsec. (a). Pub. L. 104–106, § 1502(c)(4)(C)(i), substituted “shall submit to the congressional committees specified in subsection (d) each year” for “shall submit to the Committees on Armed Services and on Foreign Affairs of the House of Representatives and the Committees on Armed Services and Foreign Relations of the Senate each year”.
 
-Subsec. (c). Pub. L. 104–106, § 1502(c)(4)(C)(ii), substituted “The President” for “(1) Except as provided in paragraph (2), the President” and struck out par. (2) which read as follows: “In the case of the report required to be submitted in 1991, the evaluation, plan, and assessment referred to in paragraphs (2), (3), and (4) of subsection (b) of this section may be submitted not later than May 1, 1991.”
+Subsec. (c). Pub. L. 104–106, § 1502(c)(4)(C)(ii), substituted “The President” for “(1) Except as provided in paragraph (2), the President” and struck out par. (2) which read as follows: “In the case of the report required to be submitted in 1991, the evaluation, plan, and assessment referred to in paragraphs (2), (3), and (4) of subsection (b) may be submitted not later than May 1, 1991.”
 
 Subsec. (d). Pub. L. 104–106, § 1502(c)(4)(C)(iii), added subsec. (d).
 
@@ -458,9 +474,9 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 (2) is officially recognized by a foreign government as a representative of a United States media organization.
 
-**(b) Waiver** Pursuant to such procedures as the President may prescribe, the President or the Director of Central Intelligence may waive subsection (a) of this section in the case of an individual if the President or the Director, as the case may be, makes a written determination that the waiver is necessary to address the overriding national security interest of the United States. The Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate shall be notified of any waiver under this subsection.
+**(b) Waiver** Pursuant to such procedures as the President may prescribe, the President or the Director of Central Intelligence may waive subsection (a) in the case of an individual if the President or the Director, as the case may be, makes a written determination that the waiver is necessary to address the overriding national security interest of the United States. The Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate shall be notified of any waiver under this subsection.
 
-**(c) Voluntary cooperation** Subsection (a) of this section shall not be construed to prohibit the voluntary cooperation of any person who is aware that the cooperation is being provided to an element of the United States Intelligence Community.
+**(c) Voluntary cooperation** Subsection (a) shall not be construed to prohibit the voluntary cooperation of any person who is aware that the cooperation is being provided to an element of the United States Intelligence Community.
 
 ### Statutory Notes
 
@@ -475,7 +491,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 ## § 3325. Reaffirmation of longstanding prohibition against drug trafficking by employees of the intelligence community
 **(a) Finding** Congress finds that longstanding statutes, regulations, and policies of the United States prohibit employees, agents, and assets of the elements of the intelligence community, and of every other Federal department and agency, from engaging in the illegal manufacture, purchase, sale, transport, and distribution of drugs.
 
-**(b) Obligation of employees of intelligence community** Any employee of the intelligence community having knowledge of a fact or circumstance that reasonably indicates that an employee, agent, or asset of an element of the intelligence community is involved in any activity that violates a statute, regulation, or policy described in subsection (a) of this section shall report such knowledge to an appropriate official.
+**(b) Obligation of employees of intelligence community** Any employee of the intelligence community having knowledge of a fact or circumstance that reasonably indicates that an employee, agent, or asset of an element of the intelligence community is involved in any activity that violates a statute, regulation, or policy described in subsection (a) shall report such knowledge to an appropriate official.
 
 **(c) Intelligence community defined** In this section, the term “intelligence community” has the meaning given that term in [section 3003(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim).
 
@@ -625,7 +641,7 @@ For definitions of “intelligence community” and “congressional intelligenc
 
   (C) an element of the intelligence community.
 
-(2) The term “authorized investigative agency” means an agency designated by the head of the agency selected pursuant to subsection (b) of this section to conduct a counterintelligence investigation or investigation of persons who are proposed for access to classified information to ascertain whether such persons satisfy the criteria for obtaining and retaining access to such information.
+(2) The term “authorized investigative agency” means an agency designated by the head of the agency selected pursuant to subsection (b) to conduct a counterintelligence investigation or investigation of persons who are proposed for access to classified information to ascertain whether such persons satisfy the criteria for obtaining and retaining access to such information.
 
 (3) The term “authorized adjudicative agency” means an agency authorized by law, regulation, or direction of the Director of National Intelligence to determine eligibility for access to classified information in accordance with Executive Order 12968.
 
@@ -677,7 +693,7 @@ For definitions of “intelligence community” and “congressional intelligenc
 
 (3) serving as the final authority to designate an authorized investigative agency or authorized adjudicative agency;
 
-(4) ensuring reciprocal recognition of access to classified information among the agencies of the United States Government, including acting as the final authority to arbitrate and resolve disputes involving the reciprocity of security clearances and access to highly sensitive programs pursuant to subsection (d) of this section;
+(4) ensuring reciprocal recognition of access to classified information among the agencies of the United States Government, including acting as the final authority to arbitrate and resolve disputes involving the reciprocity of security clearances and access to highly sensitive programs pursuant to subsection (d);
 
 (5) ensuring, to the maximum extent practicable, that sufficient resources are available in each agency to achieve clearance and investigative program goals;
 
@@ -691,15 +707,15 @@ For definitions of “intelligence community” and “congressional intelligenc
 
 **(c) Performance of security clearance investigations**
 
-(1) Notwithstanding any other provision of law, not later than 180 days after December 17, 2004, the President shall, in consultation with the head of the entity selected pursuant to subsection (b) of this section, select a single agency of the executive branch to conduct, to the maximum extent practicable, security clearance investigations of employees and contractor personnel of the United States Government who require access to classified information and to provide and maintain all security clearances of such employees and contractor personnel. The head of the entity selected pursuant to subsection (b) of this section may designate other agencies to conduct such investigations if the head of the entity selected pursuant to subsection (b) of this section considers it appropriate for national security and efficiency purposes.
+(1) Notwithstanding any other provision of law, not later than 180 days after December 17, 2004, the President shall, in consultation with the head of the entity selected pursuant to subsection (b), select a single agency of the executive branch to conduct, to the maximum extent practicable, security clearance investigations of employees and contractor personnel of the United States Government who require access to classified information and to provide and maintain all security clearances of such employees and contractor personnel. The head of the entity selected pursuant to subsection (b) may designate other agencies to conduct such investigations if the head of the entity selected pursuant to subsection (b) considers it appropriate for national security and efficiency purposes.
 
 (2) The agency selected under paragraph (1) shall—
 
   (A) take all necessary actions to carry out the requirements of this section, including entering into a memorandum of understanding with any agency carrying out responsibilities relating to security clearances or security clearance investigations before December 17, 2004;
 
-  (B) as soon as practicable, integrate reporting of security clearance applications, security clearance investigations, and determinations of eligibility for security clearances, with the database required by subsection (e) of this section; and
+  (B) as soon as practicable, integrate reporting of security clearance applications, security clearance investigations, and determinations of eligibility for security clearances, with the database required by subsection (e); and
 
-  (C) ensure that security clearance investigations are conducted in accordance with uniform standards and requirements established under subsection (b) of this section, including uniform security questionnaires and financial disclosure requirements.
+  (C) ensure that security clearance investigations are conducted in accordance with uniform standards and requirements established under subsection (b), including uniform security questionnaires and financial disclosure requirements.
 
 **(d) Reciprocity of security clearance and access determinations**
 
@@ -709,31 +725,31 @@ For definitions of “intelligence community” and “congressional intelligenc
 
 (3)
 
-  (A) An authorized investigative agency or authorized adjudicative agency may not establish additional investigative or adjudicative requirements (other than requirements for the conduct of a polygraph examination) that exceed requirements specified in Executive Orders establishing security requirements for access to classified information without the approval of the head of the entity selected pursuant to subsection (b) of this section.
+  (A) An authorized investigative agency or authorized adjudicative agency may not establish additional investigative or adjudicative requirements (other than requirements for the conduct of a polygraph examination) that exceed requirements specified in Executive Orders establishing security requirements for access to classified information without the approval of the head of the entity selected pursuant to subsection (b).
 
-  (B) Notwithstanding subparagraph (A), the head of the entity selected pursuant to subsection (b) of this section may establish such additional requirements as the head of such entity considers necessary for national security purposes.
+  (B) Notwithstanding subparagraph (A), the head of the entity selected pursuant to subsection (b) may establish such additional requirements as the head of such entity considers necessary for national security purposes.
 
 (4) An authorized investigative agency or authorized adjudicative agency may not conduct an investigation for purposes of determining whether to grant a security clearance to an individual where a current investigation or clearance of equal level already exists or has been granted by another authorized adjudicative agency.
 
-(5) The head of the entity selected pursuant to subsection (b) of this section may disallow the reciprocal recognition of an individual security clearance by an agency under this section on a case-by-case basis if the head of the entity selected pursuant to subsection (b) of this section determines that such action is necessary for national security purposes.
+(5) The head of the entity selected pursuant to subsection (b) may disallow the reciprocal recognition of an individual security clearance by an agency under this section on a case-by-case basis if the head of the entity selected pursuant to subsection (b) determines that such action is necessary for national security purposes.
 
-(6) The head of the entity selected pursuant to subsection (b) of this section shall establish a review procedure by which agencies can seek review of actions required under this section.
+(6) The head of the entity selected pursuant to subsection (b) shall establish a review procedure by which agencies can seek review of actions required under this section.
 
 **(e) Database on security clearances**
 
-(1) Not later than 12 months after December 17, 2004, the Director of the Office of Personnel Management shall, in cooperation with the heads of the entities selected pursuant to subsections (b) and (c) of this section, establish and commence operating and maintaining an integrated, secure, database into which appropriate data relevant to the granting, denial, or revocation of a security clearance or access pertaining to military, civilian, or government contractor personnel shall be entered from all authorized investigative and adjudicative agencies.
+(1) Not later than 12 months after December 17, 2004, the Director of the Office of Personnel Management shall, in cooperation with the heads of the entities selected pursuant to subsections (b) and (c), establish and commence operating and maintaining an integrated, secure, database into which appropriate data relevant to the granting, denial, or revocation of a security clearance or access pertaining to military, civilian, or government contractor personnel shall be entered from all authorized investigative and adjudicative agencies.
 
 (2) The database under this subsection shall function to integrate information from existing Federal clearance tracking systems from other authorized investigative and adjudicative agencies into a single consolidated database.
 
 (3) Each authorized investigative or adjudicative agency shall check the database under this subsection to determine whether an individual the agency has identified as requiring a security clearance has already been granted or denied a security clearance, or has had a security clearance revoked, by any other authorized investigative or adjudicative agency.
 
-(4) The head of the entity selected pursuant to subsection (b) of this section shall evaluate the extent to which an agency is submitting information to, and requesting information from, the database under this subsection as part of a determination of whether to certify the agency as an authorized investigative agency or authorized adjudicative agency.
+(4) The head of the entity selected pursuant to subsection (b) shall evaluate the extent to which an agency is submitting information to, and requesting information from, the database under this subsection as part of a determination of whether to certify the agency as an authorized investigative agency or authorized adjudicative agency.
 
-(5) The head of the entity selected pursuant to subsection (b) of this section may authorize an agency to withhold information about certain individuals from the database under this subsection if the head of the entity considers it necessary for national security purposes.
+(5) The head of the entity selected pursuant to subsection (b) may authorize an agency to withhold information about certain individuals from the database under this subsection if the head of the entity considers it necessary for national security purposes.
 
 **(f) Evaluation of use of available technology in clearance investigations and adjudications**
 
-(1) The head of the entity selected pursuant to subsection (b) of this section shall evaluate the use of available information technology and databases to expedite investigative and adjudicative processes for all and to verify standard information submitted as part of an application for a security clearance.
+(1) The head of the entity selected pursuant to subsection (b) shall evaluate the use of available information technology and databases to expedite investigative and adjudicative processes for all and to verify standard information submitted as part of an application for a security clearance.
 
 (2) The evaluation shall assess the application of the technologies described in paragraph (1) for—
 
@@ -747,15 +763,15 @@ For definitions of “intelligence community” and “congressional intelligenc
 
   (E) assessing the impact of the use of such technologies on the rights of applicants to verify, correct, or challenge information obtained through such technologies; and
 
-  (F) such other purposes as the head of the entity selected pursuant to subsection (b) of this section considers appropriate.
+  (F) such other purposes as the head of the entity selected pursuant to subsection (b) considers appropriate.
 
 (3) An individual subject to verification utilizing the technology described in paragraph (1) shall be notified of such verification, shall provide consent to such use, and shall have access to data being verified in order to correct errors or challenge information the individual believes is incorrect.
 
-(4) Not later than one year after December 17, 2004, the head of the entity selected pursuant to subsection (b) of this section shall submit to the President and the appropriate committees of Congress a report on the results of the evaluation, including recommendations on the use of technologies described in paragraph (1).
+(4) Not later than one year after December 17, 2004, the head of the entity selected pursuant to subsection (b) shall submit to the President and the appropriate committees of Congress a report on the results of the evaluation, including recommendations on the use of technologies described in paragraph (1).
 
 **(g) Reduction in length of personnel security clearance process**
 
-(1) The head of the entity selected pursuant to subsection (b) of this section shall, within 90 days of selection under that subsection, develop, in consultation with the appropriate committees of Congress and each authorized adjudicative agency, a plan to reduce the length of the personnel security clearance process.
+(1) The head of the entity selected pursuant to subsection (b) shall, within 90 days of selection under that subsection, develop, in consultation with the appropriate committees of Congress and each authorized adjudicative agency, a plan to reduce the length of the personnel security clearance process.
 
 (2)
 
@@ -779,7 +795,7 @@ For definitions of “intelligence community” and “congressional intelligenc
 
 **(h) Reports**
 
-(1) Not later than February 15, 2006, and annually thereafter through 2011, the head of the entity selected pursuant to subsection (b) of this section shall submit to the appropriate committees of Congress a report on the progress made during the preceding year toward meeting the requirements of this section.
+(1) Not later than February 15, 2006, and annually thereafter through 2011, the head of the entity selected pursuant to subsection (b) shall submit to the appropriate committees of Congress a report on the progress made during the preceding year toward meeting the requirements of this section.
 
 (2) Each report shall include, for the period covered by such report—
 
@@ -787,9 +803,9 @@ For definitions of “intelligence community” and “congressional intelligenc
 
   (B) a discussion of any impediments to the smooth and timely functioning of the requirements of this section; and
 
-  (C) such other information or recommendations as the head of the entity selected pursuant to subsection (b) of this section considers appropriate.
+  (C) such other information or recommendations as the head of the entity selected pursuant to subsection (b) considers appropriate.
 
-**(i) Authorization of appropriations** There is authorized to be appropriated such sums as may be necessary for fiscal year 2005 and each fiscal year thereafter for the implementation, maintenance, and operation of the database required by subsection (e) of this section.
+**(i) Authorization of appropriations** There is authorized to be appropriated such sums as may be necessary for fiscal year 2005 and each fiscal year thereafter for the implementation, maintenance, and operation of the database required by subsection (e).
 
 **(j) Retaliatory revocation of security clearances and access determinations**
 
@@ -1059,19 +1075,19 @@ Pub. L. 111–258, § 3, Oct. 7, 2010, 124 Stat. 2648, provided that: “In this
 ## § 3345. Limitation on handling, retention, and storage of certain classified materials by the Department of State
 **(a) Certification regarding full compliance with requirements** The Director of Central Intelligence shall certify to the appropriate committees of Congress whether or not each covered element of the Department of State is in full compliance with all applicable directives of the Director of Central Intelligence relating to the handling, retention, or storage of covered classified material.
 
-**(b) Limitation on certification** The Director of Central Intelligence may not certify a covered element of the Department of State as being in full compliance with the directives referred to in subsection (a) of this section if the covered element is currently subject to a waiver of compliance with respect to any such directive.
+**(b) Limitation on certification** The Director of Central Intelligence may not certify a covered element of the Department of State as being in full compliance with the directives referred to in subsection (a) if the covered element is currently subject to a waiver of compliance with respect to any such directive.
 
-**(c) Report on noncompliance** Whenever the Director of Central Intelligence determines that a covered element of the Department of State is not in full compliance with any directive referred to in subsection (a) of this section, the Director shall promptly notify the appropriate committees of Congress of such determination.
+**(c) Report on noncompliance** Whenever the Director of Central Intelligence determines that a covered element of the Department of State is not in full compliance with any directive referred to in subsection (a), the Director shall promptly notify the appropriate committees of Congress of such determination.
 
 **(d) Effects of certification of non-full compliance**
 
-(1) Subject to subsection (e) of this section, effective as of January 1, 2001, a covered element of the Department of State may not retain or store covered classified material unless the Director has certified under subsection (a) of this section as of such date that the covered element is in full compliance with the directives referred to in subsection (a) of this section.
+(1) Subject to subsection (e), effective as of January 1, 2001, a covered element of the Department of State may not retain or store covered classified material unless the Director has certified under subsection (a) as of such date that the covered element is in full compliance with the directives referred to in subsection (a).
 
-(2) If the prohibition in paragraph (1) takes effect in accordance with that paragraph, the prohibition shall remain in effect until the date on which the Director certifies under subsection (a) of this section that the covered element involved is in full compliance with the directives referred to in that subsection.
+(2) If the prohibition in paragraph (1) takes effect in accordance with that paragraph, the prohibition shall remain in effect until the date on which the Director certifies under subsection (a) that the covered element involved is in full compliance with the directives referred to in that subsection.
 
 **(e) Waiver by Director of Central Intelligence**
 
-(1) The Director of Central Intelligence may waive the applicability of the prohibition in subsection (d) of this section to an element of the Department of State otherwise covered by such prohibition if the Director determines that the waiver is in the national security interests of the United States.
+(1) The Director of Central Intelligence may waive the applicability of the prohibition in subsection (d) to an element of the Department of State otherwise covered by such prohibition if the Director determines that the waiver is in the national security interests of the United States.
 
 (2) The Director shall submit to appropriate committees of Congress a report on each exercise of the waiver authority in paragraph (1).
 
@@ -1081,7 +1097,7 @@ Pub. L. 111–258, § 3, Oct. 7, 2010, 124 Stat. 2648, provided that: “In this
 
   (B) The reasons for the waiver.
 
-  (C) The actions that will be taken to bring such element into full compliance with the directives referred to in subsection (a) of this section, including a schedule for completion of such actions.
+  (C) The actions that will be taken to bring such element into full compliance with the directives referred to in subsection (a), including a schedule for completion of such actions.
 
   (D) The actions taken by the Director to protect any covered classified material to be handled, retained, or stored by such element pending achievement of full compliance of such element with such directives.
 
@@ -1277,7 +1293,7 @@ Amendment by Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L
 
 (2) in connection with a civil, criminal, or administrative proceeding;
 
-(3) as a result of a declassification review process under Executive Order 13526 ([former] [50 U.S.C. 435](./chapter-015-national-security.md#section-435) note) [now [50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note] or any successor order; or
+(3) as a result of a declassification review process under Executive Order 13526 ([50 U.S.C. 435](./chapter-015-national-security.md#section-435) note) [now [50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note] or any successor order; or
 
 (4) to any officer, employee, or contractor of the Federal government or member of an advisory committee to an element of the intelligence community who possesses an active security clearance and a need to know the specific national intelligence or intelligence related to national security, as defined in [section 3003(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/5&num=0&edition=prelim).
 
@@ -1294,9 +1310,9 @@ Pub. L. 112–277, § 2, Jan. 14, 2013, 126 Stat. 2469, provided that: “In thi
 ## § 3361. National Virtual Translation Center
 **(a) Establishment** The Director of National Intelligence shall establish in the intelligence community an element with the function of connecting the elements of the intelligence community engaged in the acquisition, storage, translation, or analysis of voice or data in digital form.
 
-**(b) Designation** The element established under subsection (a) of this section shall be known as the National Virtual Translation Center.
+**(b) Designation** The element established under subsection (a) shall be known as the National Virtual Translation Center.
 
-**(c) Function** The element established under subsection (a) of this section shall provide for timely and accurate translations of foreign intelligence for all elements of the intelligence community through—
+**(c) Function** The element established under subsection (a) shall provide for timely and accurate translations of foreign intelligence for all elements of the intelligence community through—
 
 (1) the integration of the translation capabilities of the intelligence community;
 
@@ -1306,17 +1322,17 @@ Pub. L. 112–277, § 2, Jan. 14, 2013, 126 Stat. 2469, provided that: “In thi
 
 **(d) Administrative matters**
 
-(1) The Director shall retain direct supervision and control over the element established under subsection (a) of this section.
+(1) The Director shall retain direct supervision and control over the element established under subsection (a).
 
-(2) The element established under subsection (a) of this section shall connect elements of the intelligence community utilizing the most current available information technology that is applicable to the function of the element.
+(2) The element established under subsection (a) shall connect elements of the intelligence community utilizing the most current available information technology that is applicable to the function of the element.
 
-(3) Personnel of the element established under subsection (a) of this section may carry out the duties and functions of the element at any location that—
+(3) Personnel of the element established under subsection (a) may carry out the duties and functions of the element at any location that—
 
   (A) has been certified as a secure facility by a department or agency of the United States Government; or
 
   (B) the Director has otherwise determined to be appropriate for such duties and functions 11 So in original. Probably should be followed by a period.
 
-**(e) Deadline for establishment** The element required by subsection (a) of this section shall be established as soon as practicable after November 27, 2002, but not later than 90 days after November 27, 2002.
+**(e) Deadline for establishment** The element required by subsection (a) shall be established as soon as practicable after November 27, 2002, but not later than 90 days after November 27, 2002.
 
 ### Statutory Notes
 
@@ -1342,9 +1358,9 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 ## § 3362. Foreign Terrorist Asset Tracking Center
 **(a) Establishment** The Director of National Intelligence shall establish within the Central Intelligence Agency an element responsible for conducting all-source intelligence analysis of information relating to the financial capabilities, practices, and activities of individuals, groups, and nations associated with international terrorism in their activities relating to international terrorism.
 
-**(b) Designation** The element established under subsection (a) of this section shall be known as the Foreign Terrorist Asset Tracking Center.
+**(b) Designation** The element established under subsection (a) shall be known as the Foreign Terrorist Asset Tracking Center.
 
-**(c) Deadline for establishment** The element required by subsection (a) of this section shall be established as soon as practicable after November 27, 2002, but not later than 90 days after November 27, 2002.
+**(c) Deadline for establishment** The element required by subsection (a) shall be established as soon as practicable after November 27, 2002, but not later than 90 days after November 27, 2002.
 
 ### Statutory Notes
 
@@ -1368,13 +1384,13 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
   (A) establish and maintain a list of individuals who are known or suspected international terrorists, and of organizations that are known or suspected international terrorist organizations; and
 
-  (B) ensure that pertinent information on the list is shared with the departments, agencies, and organizations described by subsection (c) of this section.
+  (B) ensure that pertinent information on the list is shared with the departments, agencies, and organizations described by subsection (c).
 
 (2) The list under paragraph (1), and the mechanisms for sharing information on the list, shall be known as the “Terrorist Identification Classification System”.
 
 **(b) Administration**
 
-(1) The Director shall prescribe requirements for the inclusion of an individual or organization on the list required by subsection (a) of this section, and for the deletion or omission from the list of an individual or organization currently on the list.
+(1) The Director shall prescribe requirements for the inclusion of an individual or organization on the list required by subsection (a), and for the deletion or omission from the list of an individual or organization currently on the list.
 
 (2) The Director shall ensure that the information utilized to determine the inclusion, or deletion or omission, of an individual or organization on or from the list is derived from all-source intelligence.
 
@@ -1384,13 +1400,13 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 **(d) Report on criteria for information sharing**
 
-(1) Not later then March 1, 2003, the Director shall submit to the congressional intelligence committees a report describing the criteria used to determine which types of information on the list required by subsection (a) of this section are to be shared, and which types of information are not to be shared, with various departments and agencies of the Federal Government, State and local government agencies, and entities of foreign governments and international organizations.
+(1) Not later then 11 So in original. Probably should be “than”. March 1, 2003, the Director shall submit to the congressional intelligence committees a report describing the criteria used to determine which types of information on the list required by subsection (a) are to be shared, and which types of information are not to be shared, with various departments and agencies of the Federal Government, State and local government agencies, and entities of foreign governments and international organizations.
 
-(2) The report shall include a description of the circumstances in which the Director has determined that sharing information on the list with the departments and agencies of the Federal Government, and of State and local governments, described by subsection (c) of this section would be inappropriate due to the concerns addressed by section 403–3(c)(7) 11 See References in Text note below. of this title, relating to the protection of sources and methods, and any instance in which the sharing of information on the list has been inappropriate in light of such concerns.
+(2) The report shall include a description of the circumstances in which the Director has determined that sharing information on the list with the departments and agencies of the Federal Government, and of State and local governments, described by subsection (c) would be inappropriate due to the concerns addressed by section 403–3(c)(7) 22 See References in Text note below. of this title, relating to the protection of sources and methods, and any instance in which the sharing of information on the list has been inappropriate in light of such concerns.
 
 **(e) System administration requirements**
 
-(1) The Director shall, to the maximum extent practicable, ensure the interoperability of the Terrorist Identification Classification System with relevant information systems of the departments and agencies of the Federal Government, and of State and local governments, described by subsection (c) of this section.
+(1) The Director shall, to the maximum extent practicable, ensure the interoperability of the Terrorist Identification Classification System with relevant information systems of the departments and agencies of the Federal Government, and of State and local governments, described by subsection (c).
 
 (2) The Director shall ensure that the System utilizes technologies that are effective in aiding the identification of individuals in the field.
 
@@ -1423,9 +1439,9 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 Section was formerly classified to [section 404n–2 of this title](./chapter-015-national-security.md#section-404n-2) prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
 
 #### Amendments
-Subsecs. (d) to (h). Pub. L. 111–259 redesignated subsecs. (e) to (h) as (d) to (g), respectively, and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows:
+2010—Subsecs. (d) to (h). Pub. L. 111–259 redesignated subsecs. (e) to (h) as (d) to (g), respectively, and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows:
 
-“(1) The Director shall review on an annual basis the information provided by various departments and agencies for purposes of the list under subsection (a) of this section in order to determine whether or not the information so provided is derived from the widest possible range of intelligence available to such departments and agencies.
+“(1) The Director shall review on an annual basis the information provided by various departments and agencies for purposes of the list under subsection (a) in order to determine whether or not the information so provided is derived from the widest possible range of intelligence available to such departments and agencies.
 
 “(2) The Director shall, as a result of each review under paragraph (1), certify whether or not the elements of the intelligence community responsible for the collection of intelligence related to the list have provided information for purposes of the list that is derived from the widest possible range of intelligence available to such department and agencies.”
 
@@ -1447,7 +1463,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 **(b) Responsibilities**
 
-(1) The individual or entity assigned responsibility under subsection (a) of this section—
+(1) The individual or entity assigned responsibility under subsection (a)—
 
   (A) may be responsible for general oversight and management of analysis and production, but may not be directly responsible for, or involved in, the specific production of any finished intelligence product;
 
@@ -1461,11 +1477,11 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
   (A) include whether the product or products concerned were based on all sources of available intelligence, properly describe the quality and reliability of underlying sources, properly caveat and express uncertainties or confidence in analytic judgments, properly distinguish between underlying intelligence and the assumptions and judgments of analysts, and incorporate, where appropriate, alternative analyses; and
 
-  (B) ensure that the analytic methodologies, tradecraft, and practices used by the element or elements concerned in the production of the product or products concerned meet the standards set forth in subsection (a) of this section.
+  (B) ensure that the analytic methodologies, tradecraft, and practices used by the element or elements concerned in the production of the product or products concerned meet the standards set forth in subsection (a).
 
 (3) Information drafted under paragraph (1)(D) should, as appropriate, be included in analysis teaching modules and case studies for use throughout the intelligence community.
 
-**(c) Annual reports** Not later than December 1 each year, the Director of National Intelligence shall submit to the congressional intelligence committees, the heads of the relevant elements of the intelligence community, and the heads of analytic training departments a report containing a description, and the associated findings, of each review under subsection (b)(1)(B) of this section during such year.
+**(c) Annual reports** Not later than December 1 each year, the Director of National Intelligence shall submit to the congressional intelligence committees, the heads of the relevant elements of the intelligence community, and the heads of analytic training departments a report containing a description, and the associated findings, of each review under subsection (b)(1)(B) during such year.
 
 **(d) Congressional intelligence committees defined** In this section, the term “congressional intelligence committees” means—
 
@@ -1686,17 +1702,13 @@ Pub. L. 105–107, title III, § 308, Nov. 20, 1997, 111 Stat. 2253, as amended 
 
 <a id="section-3382"></a>
 ## § 3382. National Counterintelligence Executive
-**(a) Establishment**
-
-(1) There shall be a National Counterintelligence Executive, who shall be appointed by the Director of National Intelligence.
-
-(2) It is the sense of Congress that the Director of National Intelligence should seek the views of the Attorney General, Secretary of Defense, and Director of the Central Intelligence Agency in selecting an individual for appointment as the Executive.
+**(a) Establishment** There shall be a National Counterintelligence Executive who shall be appointed by the President, by and with the advice and consent of the Senate.
 
 **(b) Mission** The mission of the National Counterintelligence Executive shall be to serve as the head of national counterintelligence for the United States Government.
 
 **(c) Duties** Subject to the direction and control of the Director of National Intelligence, the duties of the National Counterintelligence Executive are as follows:
 
-(1) To carry out the mission referred to in subsection (b) of this section.
+(1) To carry out the mission referred to in subsection (b).
 
 (2) To act as chairperson of the National Counterintelligence Policy Board under [section 3381 of this title](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3381).
 
@@ -1710,11 +1722,20 @@ Pub. L. 105–107, title III, § 308, Nov. 20, 1997, 111 Stat. 2253, as amended 
 Section was formerly classified to [section 402b of this title](./chapter-015-national-security.md#section-402b) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–113 amended subsec. (a) generally. Prior to amendment, text read as follows:
+
+“(1) There shall be a National Counterintelligence Executive, who shall be appointed by the Director of National Intelligence.
+
+“(2) It is the sense of Congress that the Director of National Intelligence should seek the views of the Attorney General, Secretary of Defense, and Director of the Central Intelligence Agency in selecting an individual for appointment as the Executive.”
+
 2004—Subsec. (a)(1). Pub. L. 108–458, § 1072(d)(1)(B)(i), substituted “Director of National Intelligence” for “President”.
 
 Subsec. (a)(2). Pub. L. 108–458, § 1072(d)(1)(B), substituted “Director of National Intelligence” for “President” and “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
 
 Subsec. (c). Pub. L. 108–458, § 1072(d)(1)(B)(i), substituted “Director of National Intelligence” for “President” in two places.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. M, title IV, § 401(b), Dec. 18, 2015, 129 Stat. 2921, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is one year after the date of the enactment of this Act [Dec. 18, 2015].”
 
 #### Effective Date of 2004 Amendment
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).

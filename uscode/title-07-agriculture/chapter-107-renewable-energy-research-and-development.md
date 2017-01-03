@@ -71,7 +71,7 @@ Except as otherwise provided, in this chapter:
 
     (ii) any recycled products derived from forest materials.
 
-(10) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim).
+(10) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 (11) **Institution of higher education** — The term “institution of higher education” has the meaning given the term in [section 1002(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002/a&num=0&edition=prelim).
 
@@ -165,7 +165,7 @@ Par. (16). Pub. L. 113–79, § 9001(4), added par. (16).
 Par. (17). Pub. L. 113–79, § 9001(1), redesignated par. (14) as (17).
 
 #### Effective Date
-Enactment of this chapter and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Short Title of 2004 Amendment
 Pub. L. 108–199, div. A, title VII, § 778(a), Jan. 23, 2004, 118 Stat. 41, provided that: “This section [enacting [section 8109 of this title](./chapter-107-renewable-energy-research-and-development.md#section-8109)] may be cited as the ‘Sun Grant Research Initiative Act of 2003’.”
@@ -474,30 +474,23 @@ Subsec. (j). Pub. L. 113–79, § 9002(a)(7), added subsec. (j).
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 #### Driving Innovation and Creating Jobs in Rural America Through Biobased and Sustainable Product Procurement
-Memorandum of President of the United States, Feb. 21, 2012, 77 F.R. 10939, provided:
+Memorandum of President of the United States, Feb. 21, 2012, 77 F.R. 10939, as amended by Ex. Ord. No. 13693, § 16(b), Mar. 19, 2015, 80 F.R. 15880, provided:
 
 Memorandum for the Heads of Executive Departments and Agencies
 
 The BioPreferred program—established by the Farm Security and Rural Investment Act of 2002 (Public Law 107–171) (2002 Farm Bill), and strengthened by the Food, Conservation[,] and Energy Act of 2008 (Public Law 110–234 [probably should refer to Public Law 110–246]) (2008 Farm Bill)—is intended to increase Federal procurement of biobased products to promote rural economic development, create new jobs, and provide new markets for farm commodities. Biobased and sustainable products help to increase our energy security and independence.
 
-The Federal Government, with leadership from the Department of Agriculture (USDA), has made significant strides in implementing the BioPreferred program. It is one of the key elements in my efforts to promote sustainable acquisition throughout the Government under Executive Order 13514 of October 5, 2009 (Federal Leadership in Environmental, Energy, and Economic Performance). Further efforts will drive innovation and economic growth and create jobs at marginal cost to the American public.
+The Federal Government, with leadership from the Department of Agriculture (USDA), has made significant strides in implementing the BioPreferred program. It is one of the key elements in my efforts to promote sustainable acquisition throughout the Government under [former] Executive Order 13514 of October 5, 2009 (Federal Leadership in Environmental, Energy, and Economic Performance). Further efforts will drive innovation and economic growth and create jobs at marginal cost to the American public.
 
-The goal of this memorandum is to ensure that executive departments and agencies (agencies) effectively execute Federal procurement requirements for biobased products, including those requirements identified in Executive Order 13514 and prescribed in the 2002 Farm Bill, as amended by the 2008 Farm Bill. It is vital that these efforts are in accord and carefully coordinated with other Federal procurement requirements.
+The goal of this memorandum is to ensure that executive departments and agencies (agencies) effectively execute Federal procurement requirements for biobased products, including those requirements identified in [former] Executive Order 13514 and prescribed in the 2002 Farm Bill, as amended by the 2008 Farm Bill. It is vital that these efforts are in accord and carefully coordinated with other Federal procurement requirements.
 
 Therefore, I direct that agencies take the following steps to significantly increase Federal procurement of biobased and other sustainable products.
 
-Section 1. Actions Related to Executive Order 13514. (a) Agencies shall include and report on biobased acquisition as part of the sustainable acquisition goals and milestones in the Strategic Sustainability Performance Plan required by section 8 of Executive Order 13514.
-
-(b) As required by section 2(h) of Executive Order 13514, agencies shall ensure that 95 percent of applicable new contract actions for products and services advance sustainable acquisition, including biobased acquisition, where such products and services meet agency performance requirements. In doing so, agencies shall:
-
-(i) include acquisition of biobased products in their Affirmative Procurement Programs and Preferable Purchasing Programs, as applicable (as originally required by Executive Order 13101 of September 14, 1998 (Greening the Government Through Waste Prevention, Recycling, and Federal Acquisition) and reinforced by Executive Order 13423 of January 24, 2007 (Strengthening Federal Environmental, Energy, and Transportation Management) and Executive Order 13514);
-
-(ii) include biobased products as part of their procurement review and monitoring program required by section 9002(a) of the 2008 Farm Bill [probably should be 2002 Farm Bill], incorporating data collection and reporting requirements as part of their program evaluation; and
-
-(iii) provide appropriate training on procurement of biobased products for all acquisition personnel including requirements and procurement staff.
-
-(c) The Office of Management and Budget (OMB) shall emphasize biobased purchasing in the fiscal year 2012 and 2013 Sustainability/Energy scorecard, which is the periodic evaluation of agency performance on sustainable acquisition pursuant to section 4 of Executive Order 13514.
+Section 1. [Revoked by Ex. Ord. No. 13693, § 16(b), Mar. 19, 2015, 80 F.R. 15880.]
 
 Sec. 2. Biobased Product Designations. The USDA has already designated 64 categories of biobased products for preferred Federal procurement. Although these categories represent an estimated 9,000 individual products, less than half of the known biobased products are currently included in the preference program. Increasing the number of products subject to the Federal procurement preference will increase procurement of biobased products. Therefore, I direct the Secretary of Agriculture to:
 
@@ -703,6 +696,9 @@ Subsec. (h). Pub. L. 113–79, § 9003(a)(6), redesignated subsec. (h) as (g).
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 
 <a id="section-8104"></a>
 ## § 8104. Repowering assistance
@@ -752,6 +748,9 @@ Subsec. (d)(2). Pub. L. 113–79, § 9004(2), substituted “$10,000,000 for eac
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8105"></a>
@@ -814,6 +813,9 @@ Subsec. (g)(2). Pub. L. 113–79, § 9005(2), substituted “$20,000,000 for eac
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 
 <a id="section-8106"></a>
 ## § 8106. Biodiesel fuel education program
@@ -852,6 +854,9 @@ Subsec. (d)(2). Pub. L. 113–79, § 9006(2), substituted “Discretionary fundi
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8107"></a>
@@ -1010,6 +1015,9 @@ Subsec. (g)(3). Pub. L. 113–79, § 9007(b)(2), substituted “$20,000,000 for 
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8107a"></a>
@@ -1403,6 +1411,9 @@ Subsec. (h)(2). Pub. L. 113–79, § 9008(2), substituted “$20,000,000 for eac
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 
 <a id="section-8109"></a>
 ## § 8109. Rural Energy Self-Sufficiency Initiative
@@ -1455,18 +1466,21 @@ Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of P
 ### Statutory Notes
 
 #### Codification
+Another section 9009 of Pub. L. 107–171 amended [section 6711 of this title](./chapter-096-global-climate-change.md#section-6711).
+
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 A prior section 8109, Pub. L. 107–171, title IX, § 9011, as added Pub. L. 108–199, div. A, title VII, § 778(b), Jan. 23, 2004, 118 Stat. 41, related to research, extension, and educational programs on biobased energy technologies and products, prior to the general amendment of this chapter by Pub. L. 110–246. See [section 8114 of this title](./chapter-107-renewable-energy-research-and-development.md#section-8114).
-
-A prior section 9009 of Pub. L. 107–171 amended [section 6711 of this title](./chapter-096-global-climate-change.md#section-6711).
 
 #### Amendments
 2013—Subsec. (d). Pub. L. 112–240 substituted “2013” for “2012”.
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8110"></a>
@@ -1553,6 +1567,9 @@ A prior section 9010 of Pub. L. 107–171 was classified to [section 8108 of thi
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8111"></a>
@@ -1860,6 +1877,9 @@ A prior section 9011 of Pub. L. 107–171 was classified to [section 8109 of thi
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
 
 <a id="section-8112"></a>
 ## § 8112. Repealed. Pub. L. 113–79, title IX, § 9011, Feb. 7, 2014, 128 Stat. 938
@@ -1949,6 +1969,9 @@ Subsec. (e). Pub. L. 113–79, § 9012(d), substituted “2018” for “2013”
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 
 <a id="section-8114"></a>

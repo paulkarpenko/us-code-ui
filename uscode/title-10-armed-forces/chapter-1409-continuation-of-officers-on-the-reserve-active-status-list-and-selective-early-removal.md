@@ -66,7 +66,7 @@ Subsecs. (b) to (d). Pub. L. 108–136, § 511(a)(2), (3), redesignated subsec. 
 2000—Subsec. (a)(1). Pub. L. 106–398 substituted “A reserve officer” for “Upon application, a reserve officer”.
 
 #### Effective Date
-Chapter effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14702"></a>
@@ -87,6 +87,9 @@ Chapter effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 Subsec. (b). Pub. L. 110–417, § 514(b), in heading, substituted “for Age” for “at Age 60” and, in text, substituted “paragraph (1) or (2) of subsection (a)” for “subsection (a)(1) or (a)(2)” and “An officer described in paragraph (1) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 62 years of age. An officer described in paragraph (2) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 60 years of age.” for “An officer may not be retained under this section after the last day of the month in which the officer becomes 60 years of age.”
 
 1997—Subsec. (a). Pub. L. 105–85, in introductory provisions, substituted “section 14506, 14507, or 14508” for “section 14506 or 14507” and “colonel, or brigadier general” for “or colonel”.
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14703"></a>
@@ -112,6 +115,9 @@ Provisions similar to those in this section were contained in sections 3855(a), 
 2000—Subsec. (a)(3). Pub. L. 106–398 substituted “Air Force nurse, Medical Service Corps officer, biomedical sciences officer, or chaplain.” for “veterinary officer, Air Force nurse, or chaplain or who is designated as a biomedical sciences officer and is qualified for service as a veterinarian, optometrist, or podiatrist.”
 
 1999—Subsec. (b). Pub. L. 106–65 struck out “(or, in the case of a reserve officer of the Army in the Chaplains or a reserve officer of the Air Force designated as a chaplain, 60 years of age)” after “67 years of age”.
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14704"></a>
@@ -148,6 +154,9 @@ Provisions similar to those in this section were contained in sections 3850 and 
 
 Subsecs. (b) to (d). Pub. L. 113–66, § 503(b)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14705"></a>
 ## § 14705. Selective early retirement: reserve general and flag officers of the Navy and Marine Corps
@@ -177,6 +186,9 @@ Provisions similar to those in this section were contained in [section 6389(f)(3
 
 1998—Subsec. (b). Pub. L. 105–261 designated existing provisions as par. (1), inserted “of officers” after “consideration” and “continuation” after “shall convene a”, and added par. (2).
 
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14706"></a>
 ## § 14706. Computation of total years of service
@@ -199,3 +211,6 @@ Provisions similar to those in this section were contained in sections 3853 and 
 
 #### Amendments
 1999—Pub. L. 106–65 amended text generally. Prior to amendment, text read as follows: “For the purpose of this chapter and chapter 1407 of this title, a reserve officer’s years of service include all service, other than constructive service, of the officer as a commissioned officer of any uniformed service (other than service as a warrant officer).”
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).

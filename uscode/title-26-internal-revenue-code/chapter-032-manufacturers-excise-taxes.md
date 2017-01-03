@@ -126,11 +126,13 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 (2) the sale of the article by the importer thereof shall be treated as the sale of the tires with which such article is equipped.
 This subsection shall not apply with respect to the sale of an automobile bus chassis or an automobile bus body.
 
-**(d) Termination** On and after October 1, 2016, the taxes imposed by subsection (a) shall not apply.
+**(d) Termination** On and after October 1, 2022, the taxes imposed by subsection (a) shall not apply.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (d). Pub. L. 114–94 substituted “October 1, 2022” for “October 1, 2016”.
+
 2012—Subsec. (d). Pub. L. 112–141 substituted “October 1, 2016” for “July 1, 2012”.
 
 Pub. L. 112–140, §§ 1(c), 402(a)(2)(C), temporarily substituted “July 7, 2012” for “July 1, 2012”. See Effective and Termination Dates of 2012 Amendment note below.
@@ -212,6 +214,9 @@ Subsec. (c). Pub. L. 87–61, § 202(d), substituted “October 1, 1972” for �
 Subsec. (a)(5). Pub. L. 86–440, § 1(a)(2), added par. (5).
 
 1956—Act June 29, 1956, increased tax on tires of type used on highway vehicles from 5 cents a pound to 8 cents a pound, provided for a tax of 3 cents a pound on tread rubber, and required on and after July 1, 1972, a reduction in tax on tires of type used on highway vehicles from 8 cents a pound to 5 cents a pound, and elimination of tax on tread rubber.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective and Termination Dates of 2012 Amendment
 Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
@@ -436,15 +441,15 @@ Amendment by act June 29, 1956, effective July 1, 1956, see section 211 of act J
 
 **(d) Termination**
 
-(1) **In general** — The rates of tax specified in clauses (i) and (iii) of subsection (a)(2)(A) shall be 4.3 cents per gallon after September 30, 2016.
+(1) **In general** — The rates of tax specified in clauses (i) and (iii) of subsection (a)(2)(A) shall be 4.3 cents per gallon after September 30, 2022.
 
 (2) **Aviation fuels** — The rates of tax specified in subsection (a)(2)(A)(ii) and (a)(2)(C)(ii) shall be 4.3 cents per gallon—
 
   (A) after December 31, 1996, and before the date which is 7 days after the date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, and
 
-  (B) after September 30, 2015.
+  (B) after September 30, 2017.
 
-(3) **Leaking Underground Storage Tank Trust Fund financing rate** — The Leaking Underground Storage Tank Trust Fund financing rate under subsection (a)(2) shall apply after September 30, 1997, and before October 1, 2016.
+(3) **Leaking Underground Storage Tank Trust Fund financing rate** — The Leaking Underground Storage Tank Trust Fund financing rate under subsection (a)(2) shall apply after September 30, 1997, and before October 1, 2022.
 
 **(e) Refunds in certain cases** Under regulations prescribed by the Secretary, if any person who paid the tax imposed by this section with respect to any taxable fuel establishes to the satisfaction of the Secretary that a prior tax was paid (and not credited or refunded) with respect to such taxable fuel, then an amount equal to the tax paid by such person shall be allowed as a refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.
 
@@ -456,6 +461,16 @@ Section 211 of the Clean Air Act, referred to in subsec. (a)(2)(D), is classifie
 The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, referred to in subsec. (d)(2)(A), is the date of enactment of Pub. L. 105–2, which was approved Feb. 28, 1997.
 
 #### Amendments
+2016—Subsec. (d)(2)(B). Pub. L. 114–190 substituted “September 30, 2017” for “July 15, 2016”.
+
+Pub. L. 114–141 substituted “July 15, 2016” for “March 31, 2016”.
+
+2015—Subsec. (d)(1). Pub. L. 114–94, § 31102(a)(1)(C), substituted “September 30, 2022” for “September 30, 2016”.
+
+Subsec. (d)(2)(B). Pub. L. 114–55 substituted “March 31, 2016” for “September 30, 2015”.
+
+Subsec. (d)(3). Pub. L. 114–94, § 31102(a)(2)(D), substituted “October 1, 2022” for “October 1, 2016”.
+
 2012—Subsec. (d)(1). Pub. L. 112–141, § 40102(a)(1)(C), substituted “September 30, 2016” for “June 30, 2012”.
 
 Pub. L. 112–140, §§ 1(c), 402(a)(1)(C), temporarily substituted “July 6, 2012” for “June 30, 2012”. See Effective and Termination Dates of 2012 Amendment note below.
@@ -745,6 +760,9 @@ Subsec. (a). Act June 29, 1956, redesignated first sentence as subsec. (a) and i
 Subsec. (b). Act June 29, 1956, redesignated second sentence as subsec. (b) and substituted “July 1, 1972” for “April 1, 1956”.
 
 1955—Act Mar. 30, 1955, substituted “April 1, 1956” for “April 1, 1955”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective and Termination Dates of 2012 Amendment
 Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
@@ -1184,7 +1202,7 @@ Pub. L. 108–357, title VIII, § 854(b), Oct. 22, 2004, 118 Stat. 1615, provide
 
   (B) *Transmix* — For purposes of subparagraph (A), the term “transmix” means a byproduct of refined products pipeline operations created by the mixing of different specification products during pipeline transportation.
 
-**(b) Commercial aviation** For purposes of this subpart, the term “commercial aviation” means any use of an aircraft in a business of transporting persons or property for compensation or hire by air, unless properly allocable to any transportation exempt from the taxes imposed by sections 4261 and 4271 by reason of section 4281 or 4282 or by reason of subsection (h) or (i) of section 4261. Such term shall not include the use of any aircraft before October 1, 2015, if tax is imposed under section 4043 with respect to the fuel consumed in such use or if no tax is imposed on such use under section 4043 by reason of subsection (c)(5) thereof.
+**(b) Commercial aviation** For purposes of this subpart, the term “commercial aviation” means any use of an aircraft in a business of transporting persons or property for compensation or hire by air, unless properly allocable to any transportation exempt from the taxes imposed by sections 4261 and 4271 by reason of section 4281 or 4282 or by reason of subsection (h) or (i) of section 4261. Such term shall not include the use of any aircraft before October 1, 2017, if tax is imposed under section 4043 with respect to the fuel consumed in such use or if no tax is imposed on such use under section 4043 by reason of subsection (c)(5) thereof.
 
 **(c) Certain uses defined as removal** If any person uses taxable fuel (other than in the production of taxable fuels or special fuels referred to in section 4041), such use shall for the purposes of this chapter be considered a removal.
 
@@ -1213,6 +1231,12 @@ Pub. L. 108–357, title VIII, § 854(b), Oct. 22, 2004, 118 Stat. 1615, provide
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (b). Pub. L. 114–190 substituted “October 1, 2017” for “July 16, 2016”.
+
+Pub. L. 114–141 substituted “July 16, 2016” for “April 1, 2016”.
+
+2015—Subsec. (b). Pub. L. 114–55 substituted “April 1, 2016” for “October 1, 2015”.
+
 2012—Subsec. (b). Pub. L. 112–95 inserted at end “Such term shall not include the use of any aircraft before October 1, 2015, if tax is imposed under section 4043 with respect to the fuel consumed in such use or if no tax is imposed on such use under section 4043 by reason of subsection (c)(5) thereof.”
 
 2005—Subsec. (b). Pub. L. 109–59 substituted “subsection (h) or (i) of section 4261” for “section 4261(h)”.
@@ -2186,6 +2210,8 @@ Pub. L. 91–128, § 1(a), Nov. 26, 1969, 83 Stat. 261, provided that: “This A
 
   (D) any other medical device determined by the Secretary to be of a type which is generally purchased by the general public at retail for individual use.
 
+**(c) Moratorium** The tax imposed under subsection (a) shall not apply to sales during the period beginning on January 1, 2016, and ending on December 31, 2017.
+
 ### Statutory Notes
 
 #### References in Text
@@ -2193,6 +2219,12 @@ Section 201(h) of the Federal Food, Drug, and Cosmetic Act, referred to in subse
 
 #### Prior Provisions
 For prior sections 4191, 4192, 4201, and 4211, see Prior Provisions note set out preceding this section.
+
+#### Amendments
+2015—Subsec. (c). Pub. L. 114–113 added subsec. (c).
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title I, § 174(b), Dec. 18, 2015, 129 Stat. 3072, provided that: “The amendment made by this section [amending this section] shall apply to sales after December 31, 2015.”
 
 #### Effective Date
 Pub. L. 111–152, title I, § 1405(c), Mar. 30, 2010, 124 Stat. 1065, provided that: “The amendments made by this section [enacting this section and amending sections 4221 and 6416 of this title] shall apply to sales after December 31, 2012.”
@@ -2569,7 +2601,7 @@ Repeal effective on first day of first calendar quarter which begins more than 6
 (5) to a nonprofit educational organization for its exclusive use, or
 
 (6) to a qualified blood collector organization (as defined in section 7701(a)(49)) for such organization’s exclusive use in the collection, storage, or transportation of blood,
-but only if such exportation or use is to occur before any other use. Paragraphs (4), (5), and (6) shall not apply to the tax imposed by section 4064. In the case of taxes imposed by section 4051,11 So in original. The comma probably should not appear. or 4071, paragraphs (4) and (5) shall not apply on and after October 1, 2016. In the case of the tax imposed by section 4131, paragraphs (3), (4), and (5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. In the case of taxes imposed by subchapter C or D, paragraph (6) shall not apply. In the case of the tax imposed by section 4191, paragraphs (3), (4), (5), and (6) shall not apply.
+but only if such exportation or use is to occur before any other use. Paragraphs (4), (5), and (6) shall not apply to the tax imposed by section 4064. In the case of taxes imposed by section 4051,11 So in original. The comma probably should not appear. or 4071, paragraphs (4) and (5) shall not apply on and after October 1, 2022. In the case of the tax imposed by section 4131, paragraphs (3), (4), and (5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. In the case of taxes imposed by subchapter C or D, paragraph (6) shall not apply. In the case of the tax imposed by section 4191, paragraphs (3), (4), (5), and (6) shall not apply.
 
 **(b) Proof of resale for further manufacture; proof of export** Where an article has been sold free of tax under subsection (a)—
 
@@ -2641,6 +2673,8 @@ Section 1207(b)(1)–(3)(A) of Pub. L. 109–280, which directed the amendment o
 A prior section 4221, act Aug. 16, 1954, ch. 736, 68A Stat. 495, related to exemption for articles taxable as jewelry, prior to repeal by Pub. L. 85–859, § 119(a).
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–94 substituted “October 1, 2022” for “October 1, 2016” in concluding provisions.
+
 2014—Subsec. (a). Pub. L. 113–295, § 221(a)(103)(B)(i)(II), struck out “In the case of taxes imposed by subchapter A of chapter 31, paragraphs (1), (3), (4), and (5) shall not apply.” after “regulations prescribe.” in concluding provisions.
 
 Pub. L. 113–295, § 221(a)(103)(B)(i)(I), substituted “subchapter” for “subchapter A or” in introductory provisions.
@@ -2756,6 +2790,9 @@ Subsec. (e)(4). Pub. L. 86–418 added par. (4).
 1959—Subsec. (d)(4). Pub. L. 86–70 struck out “Alaska,” before “Hawaii”.
 
 Subsec. (d)(5). Pub. L. 86–344 included in definition of “nonprofit educational organization” a school operated as an activity of certain organizations exempt from the income tax and having a regular situs, faculty, curriculum and student body.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).

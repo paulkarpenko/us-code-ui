@@ -2,7 +2,7 @@
 title: 38
 chapter: '73'
 heading: VETERANS HEALTH ADMINISTRATION—ORGANIZATION AND FUNCTIONS
-section_count: 45
+section_count: 47
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -69,8 +69,8 @@ source: >-
 #### Amendments
 2014—Subsec. (e). Pub. L. 113–146 added subsec. (e).
 
-#### Five-Year Increase
-Pub. L. 113–146, title III, § 301(b)(2), Aug. 7, 2014, 128 Stat. 1785, provided that: “(A) In general.—In carrying out [section 7302(e) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7302/e&num=0&edition=prelim), United States Code, as added by paragraph (1), during the 5-year period beginning on the day that is 1 year after the date of the enactment of this Act [Aug. 7, 2014], the Secretary of Veterans Affairs shall increase the number of graduate medical education residency positions at medical facilities of the Department by up to 1,500 positions. “(B) Priority.—In increasing the number of graduate medical education residency positions at medical facilities of the Department under subparagraph (A), the Secretary shall give priority to medical facilities that—“(i) as of the date of the enactment of this Act, do not have a medical residency program; and “(ii) are located in a community that has a high concentration of veterans.”
+#### Ten-year Increase
+Pub. L. 113–146, title III, § 301(b)(2), Aug. 7, 2014, 128 Stat. 1785, as amended by Pub. L. 114–315, title VI, § 617(a), Dec. 16, 2016, 130 Stat. 1577, provided that: “(A) In general.—In carrying out [section 7302(e) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7302/e&num=0&edition=prelim), United States Code, as added by paragraph (1), during the 10-year period beginning on the day that is 1 year after the date of the enactment of this Act [Aug. 7, 2014], the Secretary of Veterans Affairs shall increase the number of graduate medical education residency positions at medical facilities of the Department by up to 1,500 positions. “(B) Priority.—In increasing the number of graduate medical education residency positions at medical facilities of the Department under subparagraph (A), the Secretary shall give priority to medical facilities that—“(i) as of the date of the enactment of this Act, do not have a medical residency program; and “(ii) are located in a community that has a high concentration of veterans.”
 
 [For definition of “facility of the Department” as used in section 301(b)(2) of Pub. L. 113–146, set out above, see section 2 of Pub. L. 113–146, set out as a note under [section 1701 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1701).]
 
@@ -416,7 +416,7 @@ Subsec. (d). Pub. L. 112–154 added subsec. (d).
 
 **(c) Structure.—**
 
-(1) The Readjustment Counseling Service is a distinct organizational element within Veterans 11 So in original. Probably should be preceded by “the”. Health Administration.
+(1) The Readjustment Counseling Service is a distinct organizational element within the Veterans Health Administration.
 
 (2) The Readjustment Counseling Service shall provide counseling and services as described in subsection (a).
 
@@ -432,7 +432,7 @@ Subsec. (d). Pub. L. 112–154 added subsec. (d).
 
 **(e) Annual Report.—**
 
-(1) Not later than March 15 of each year, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the activities of the Readjustment Counseling Service during the preceding calendar year.
+(1) Not later than March 15 of each year, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the activities of the Readjustment Counseling Service during the preceding fiscal year.
 
 (2) Each report submitted under paragraph (1) shall include, with respect to the period covered by the report, the following:
 
@@ -443,6 +443,78 @@ Subsec. (d). Pub. L. 112–154 added subsec. (d).
   (C) A detailed analysis of demand for and unmet need for readjustment counseling services and the Secretary’s plan for meeting such unmet need.
 
 **(f) Vet Center Defined.—** In this section, the term “Vet Center” has the meaning given the term in [section 1712A(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1712A/h/1&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendments
+2016—Subsec. (e)(1). Pub. L. 114–315 substituted “fiscal year” for “calendar year”.
+
+2015—Subsec. (c)(1). Pub. L. 114–58 inserted “the” before “Veterans Health Administration”.
+
+
+<a id="section-7309a"></a>
+## § 7309A. Office of Patient Advocacy
+**(a) Establishment.—** There is established in the Department within the Office of the Under Secretary for Health an office to be known as the “Office of Patient Advocacy” (in this section referred to as the “Office”).
+
+**(b) Head.—**
+
+(1) The Director of the Office of Patient Advocacy shall be the head of the Office.
+
+(2) The Director of the Office of Patient Advocacy shall be appointed by the Under Secretary for Health from among individuals qualified to perform the duties of the position and shall report directly to the Under Secretary for Health.
+
+**(c) Function.—**
+
+(1) The function of the Office is to carry out the Patient Advocacy Program of the Department.
+
+(2) In carrying out the Patient Advocacy Program of the Department, the Director shall ensure that patient advocates of the Department—
+
+  (A) advocate on behalf of veterans with respect to health care received and sought by veterans under the laws administered by the Secretary;
+
+  (B) carry out the responsibilities specified in subsection (d); and
+
+  (C) receive training in patient advocacy.
+
+**(d) Patient Advocacy Responsibilities.—** The responsibilities of each patient advocate at a medical facility of the Department are the following:
+
+(1) To resolve complaints by veterans with respect to health care furnished under the laws administered by the Secretary that cannot be resolved at the point of service or at a higher level easily accessible to the veteran.
+
+(2) To present at various meetings and to various committees the issues experienced by veterans in receiving such health care at such medical facility.
+
+(3) To express to veterans their rights and responsibilities as patients in receiving such health care.
+
+(4) To manage the Patient Advocate Tracking System of the Department at such medical facility.
+
+(5) To compile data at such medical facility of complaints made by veterans with respect to the receipt of such health care at such medical facility and the satisfaction of veterans with such health care at such medical facility to determine whether there are trends in such data.
+
+(6) To ensure that a process is in place for the distribution of the data compiled under paragraph (5) to appropriate leaders, committees, services, and staff of the Department.
+
+(7) To identify, not less frequently than quarterly, opportunities for improvements in the furnishing of such health care to veterans at such medical facility based on complaints by veterans.
+
+(8) To ensure that any significant complaint by a veteran with respect to such health care is brought to the attention of appropriate staff of the Department to trigger an assessment of whether there needs to be a further analysis of the problem at the facility-wide level.
+
+(9) To support any patient advocacy programs carried out by the Department.
+
+(10) To ensure that all appeals and final decisions with respect to the receipt of such health care are entered into the Patient Advocate Tracking System of the Department.
+
+(11) To understand all laws, directives, and other rules with respect to the rights and responsibilities of veterans in receiving such health care, including the appeals processes available to veterans.
+
+(12) To ensure that veterans receiving mental health care, or the surrogate decision-makers for such veterans, are aware of the rights of veterans to seek representation from systems established under section 103 of the Protection and Advocacy for Mentally Ill Individuals Act of 1986 11 See References in Text note below. ([42 U.S.C. 10803](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10803&num=0&edition=prelim)) to protect and advocate the rights of individuals with mental illness and to investigate incidents of abuse and neglect of such individuals.
+
+(13) To fulfill requirements established by the Secretary with respect to the inspection of controlled substances.
+
+(14) To document potentially threatening behavior and report such behavior to appropriate authorities.
+
+**(e) Training.—** In providing training to patient advocates under subsection (c)(2)(C), the Director shall ensure that such training is consistent throughout the Department.
+
+**(f) Controlled Substance Defined.—** In this section, the term “controlled substance” has the meaning given that term in section 102 of the Controlled Substances Act ([21 U.S.C. 802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### References in Text
+The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (d)(12), was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, § 3206(a), Oct. 17, 2000, 114 Stat. 1193.
+
+#### Date Fully Operational
+Pub. L. 114–198, title IX, § 924(c), July 22, 2016, 130 Stat. 769, provided that: “The Secretary of Veterans Affairs shall ensure that the Office of Patient Advocacy established under [section 7309A of title 38](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7309a), United States Code, as added by subsection (a), is fully operational not later than the date that is one year after the date of the enactment of this Act [July 22, 2016].”
 
 
 <a id="section-7311"></a>
@@ -1402,7 +1474,7 @@ Pub. L. 107–287, § 3(b), Nov. 7, 2002, 116 Stat. 2028, provided that: “The 
 ### Statutory Notes
 
 #### Center of Excellence in the Mitigation, Treatment, and Rehabilitation of Traumatic Extremity Injuries and Amputations
-Pub. L. 110–417, [div. A], title VII, § 723, Oct. 14, 2008, 122 Stat. 4508, provided that: “(a) In General.—The Secretary of Defense and the Secretary of Veterans Affairs shall jointly establish a center of excellence in the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations. “(b) Partnerships.—The Secretary of Defense and the Secretary of Veterans Affairs shall jointly ensure that the center collaborates with the Department of Defense, the Department of Veterans Affairs, institutions of higher education, and other appropriate public and private entities (including international entities) to carry out the responsibilities specified in subsection (c). “(c) Responsibilities.—The center shall have the responsibilities as follows:“(1) To implement a comprehensive plan and strategy for the Department of Defense and the Department of Veterans Affairs for the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations. “(2) To conduct research to develop scientific information aimed at saving injured extremities, avoiding amputations, and preserving and restoring the function of injured extremities. Such research shall address military medical needs and include the full range of scientific inquiry encompassing basic, translational, and clinical research. “(3) To carry out such other activities to improve and enhance the efforts of the Department of Defense and the Department of Veterans Affairs for the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations as the Secretary of Defense and the Secretary of Veterans Affairs consider appropriate. “(d) Reports.—“(1) In general.—Not later than one year after the date of the enactment of this Act [Oct. 14, 2008], and annually thereafter, the Secretary of Defense and the Secretary of Veterans Affairs shall jointly submit to Congress a report on the activities of the center. “(2) Elements.—Each report under this subsection shall include the following:“(A) In the case of the first report under this subsection, a description of the implementation of the requirements of this Act. “(B) A description and assessment of the activities of the center during the one-year period ending on the date of such report, including an assessment of the role of such activities in improving and enhancing the efforts of the Department of Defense and the Department of Veterans Affairs for the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations.”
+Pub. L. 110–417, [div. A], title VII, § 723, Oct. 14, 2008, 122 Stat. 4508, as amended by Pub. L. 114–92, div. A, title X, § 1079(d)(2), Nov. 25, 2015, 129 Stat. 999, provided that: “(a) In General.—The Secretary of Defense and the Secretary of Veterans Affairs shall jointly establish a center of excellence in the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations. “(b) Partnerships.—The Secretary of Defense and the Secretary of Veterans Affairs shall jointly ensure that the center collaborates with the Department of Defense, the Department of Veterans Affairs, institutions of higher education, and other appropriate public and private entities (including international entities) to carry out the responsibilities specified in subsection (c). “(c) Responsibilities.—The center shall have the responsibilities as follows:“(1) To implement a comprehensive plan and strategy for the Department of Defense and the Department of Veterans Affairs for the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations. “(2) To conduct research to develop scientific information aimed at saving injured extremities, avoiding amputations, and preserving and restoring the function of injured extremities. Such research shall address military medical needs and include the full range of scientific inquiry encompassing basic, translational, and clinical research. “(3) To carry out such other activities to improve and enhance the efforts of the Department of Defense and the Department of Veterans Affairs for the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations as the Secretary of Defense and the Secretary of Veterans Affairs consider appropriate.”
 
 #### Designation of Centers
 Pub. L. 108–422, title III, § 302(b), Nov. 30, 2004, 118 Stat. 2385, provided that: “The Secretary of Veterans Affairs shall designate the centers for research, education, and clinical activities on complex multi-trauma associated with combat injuries required by [section 7327 of title 38](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7327), United States Code (as added by subsection (a)), not later than 120 days after the date of the enactment of this Act [Nov. 30, 2004].”
@@ -1738,6 +1810,39 @@ Section effective at the end of the 30-day period beginning Dec. 22, 2006, see s
 The date of the enactment of the Veterans’ Mental Health and Other Care Improvements Act of 2008, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 110–387, which was approved Oct. 10, 2008.
 
 The Federal Advisory Committee Act, referred to in subsec. (c)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+
+<a id="section-7330b"></a>
+## § 7330B. Annual report on Veterans Health Administration and furnishing of hospital care, medical services, and nursing home care
+**(a) Report Required.—** Not later than March 1 of each of years 2018 through 2022, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on, for the calendar year preceding the calendar year during which the report is submitted—
+
+(1) the furnishing of hospital care, medical services, and nursing home care under the laws administered by the Secretary; and
+
+(2) the administration of the furnishing of such care and services by the Veterans Health Administration.
+
+**(b) Elements.—** Each report required by subsection (a) shall include each of the following for the year covered by the report:
+
+(1) An evaluation of the effectiveness of the Veterans Health Administration in increasing the access of veterans to hospital care, medical services, and nursing home care furnished by the Secretary for which such veterans are eligible.
+
+(2) An evaluation of the effectiveness of the Veterans Health Administration in improving the quality of health care provided to veterans, without increasing the costs incurred for such health care by the Federal Government or veterans, including relevant information for each medical center and Veterans Integrated Service Network of the Department set forth separately.
+
+(3) An assessment of—
+
+  (A) the workload of physicians and other employees of the Veterans Health Administration;
+
+  (B) patient demographics and utilization rates;
+
+  (C) physician compensation;
+
+  (D) the productivity of physicians and other employees of the Veterans Health Administration;
+
+  (E) the percentage of hospital care, medical services, and nursing home care provided to veterans in facilities of the Department and in non-Department facilities and any changes in such percentages compared to the year preceding the year covered by the report;
+
+  (F) pharmaceutical prices; and
+
+  (G) third-party health billings owed to the Department, including the total amount of such billings and the total amount collected by the Department, set forth separately for claims greater than $1,000 and for claims equal to or less than $1,000.
+
+**(c) Definitions.—** In this section, the terms “hospital care”, “medical services”, “nursing home care”, “facilities of the Department”, and “non-Department facilities” have the meanings given those terms in [section 1701 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1701).
 
 
 <a id="section-7331"></a>

@@ -112,6 +112,9 @@ Pub. L. 98–181, title I [title IV, § 461(f)], Nov. 30, 1983, 97 Stat. 1232, p
 #### Effective Date of 1976 Amendment
 Pub. L. 94–205, § 12, Jan. 2, 1976, 89 Stat. 1160, provided that: “The provisions of this Act and the amendments made hereby [enacting [section 2617 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2617), amending this section, sections 2603, 2604, 2607, 2609, and 2616 of this title, and [section 1631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1631&num=0&edition=prelim), Commerce and Trade, repealing sections 2605 and 2606 of this title, and enacting and amending provisions set out as notes under [section 2601 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2601)] shall become effective upon enactment [Jan. 2, 1976]. The Secretary may suspend for up to one hundred and eighty days from the date of enactment of this Act [Jan. 2, 1976] any provision of section 4 and section 5 of the Real Estate Settlement Procedures Act of 1974 [sections 2603 and 2604 of this title], as amended by this Act.”
 
+#### Effective Date
+Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under [section 2601 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2601).
+
 #### Regulations
 Pub. L. 102–550, title IX, § 908(c), Oct. 28, 1992, 106 Stat. 3874, provided that: “The Secretary of Housing and Urban Development shall issue regulations to implement the amendments made by this section [amending this section] not later than the expiration of the 180-day period beginning on the date of the enactment of this Act [Oct. 28, 1992]. The regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
 
@@ -155,6 +158,9 @@ Amendment by section 1475 of Pub. L. 111–203 effective on the date on which fi
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–205 effective Jan. 2, 1976, with the Secretary authorized to suspend for up to 180 days from Jan. 2, 1976, any provision of this section as amended by Pub. L. 94–205, see section 12 of Pub. L. 94–205, set out as a note under [section 2602 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2602).
+
+#### Effective Date
+Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under [section 2601 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2601).
 
 
 <a id="section-2604"></a>
@@ -243,6 +249,9 @@ Amendment by section 1450 of Pub. L. 111–203 effective on the date on which fi
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–205 effective Jan. 2, 1976, with the Secretary authorized to suspend for up to 180 days from Jan. 2, 1976, any provision of this section as amended by Pub. L. 94–205, see section 12 of Pub. L. 94–205, set out as a note under [section 2602 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2602).
+
+#### Effective Date
+Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under [section 2601 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2601).
 
 
 <a id="section-2605"></a>
@@ -561,6 +570,9 @@ Amendment by Pub. L. 98–181 effective Jan. 1, 1984, see section 461(f) of Pub.
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–205 effective Jan. 2, 1976, see section 12 of Pub. L. 94–205, set out as a note under [section 2602 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2602).
 
+#### Effective Date
+Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under [section 2601 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2601).
+
 #### Transfer of Functions
 Federal Home Loan Bank Board abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under [section 1437 of this title](./chapter-011-federal-home-loan-banks.md#section-1437).
 
@@ -570,6 +582,11 @@ Federal Home Loan Bank Board abolished and functions transferred, see sections 4
 **(a)** No seller of property that will be purchased with the assistance of a federally related mortgage loan shall require directly or indirectly, as a condition to selling the property, that title insurance covering the property be purchased by the buyer from any particular title company.
 
 **(b)** Any seller who violates the provisions of subsection (a) shall be liable to the buyer in an amount equal to three times all charges made for such title insurance.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under [section 2601 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2601).
 
 
 <a id="section-2609"></a>
@@ -625,6 +642,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–205 effective Jan. 2, 1976, see section 12 of Pub. L. 94–205, set out as a note under [section 2602 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2602).
 
+#### Effective Date
+Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under [section 2601 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2601).
+
 
 <a id="section-2610"></a>
 ## § 2610. Prohibition of fees for preparation of truth-in-lending, uniform settlement, and escrow account statements
@@ -638,6 +658,9 @@ Truth in Lending Act, referred to in text, is title I of Pub. L. 90–321, May 2
 
 #### Amendments
 1990—Pub. L. 101–625 substituted present section catchline for “Fee for preparation of truth-in-lending and uniform settlement statements”, inserted after first comma “or by a servicer (as the term is defined under [section 2605(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2605/i&num=0&edition=prelim)),”, and substituted “lender or servicer” for second reference to “lender” and “2609(c)” for “2605”.
+
+#### Effective Date
+Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under [section 2601 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2601).
 
 
 <a id="section-2611-to-2613"></a>
@@ -672,11 +695,19 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 #### Effective Date of 1983 Amendment
 Amendment by Pub. L. 98–181 effective Jan. 1, 1984, see section 461(f) of Pub. L. 98–181, set out as a note under [section 2602 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2602).
 
+#### Effective Date
+Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under [section 2601 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2601).
+
 
 <a id="section-2615"></a>
 ## § 2615. Contracts and liens; validity
 
 Nothing in this chapter shall affect the validity or enforceability of any sale or contract for the sale of real property or any loan, loan agreement, mortgage, or lien made or arising in connection with a federally related mortgage loan.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under [section 2601 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2601).
 
 
 <a id="section-2616"></a>
@@ -696,6 +727,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–205 effective Jan. 2, 1976, see section 12 of Pub. L. 94–205, set out as a note under [section 2602 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2602).
+
+#### Effective Date
+Section effective 180 days after Dec. 22, 1974, see section 20 of Pub. L. 93–533, set out as a note under [section 2601 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2601).
 
 
 <a id="section-2617"></a>

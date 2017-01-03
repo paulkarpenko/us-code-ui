@@ -51,7 +51,7 @@ Pub. L. 111–281, title VIII, § 827, Oct. 15, 2010, 124 Stat. 3004, provided t
 Pub. L. 108–458, title IV, § 4071, Dec. 17, 2004, 118 Stat. 3729, provided that: “(a) Watch Lists.—“(1) In general.—As soon as practicable but not later than 180 days after the date of the enactment of this Act [Dec. 17, 2004], the Secretary of Homeland Security shall—“(A) implement a procedure under which the Department of Homeland Security compares information about passengers and crew who are to be carried aboard a cruise ship with a comprehensive, consolidated database containing information about known or suspected terrorists and their associates; “(B) use the information obtained by comparing the passenger and crew information with the information in the database to prevent known or suspected terrorists and their associates from boarding such ships or to subject them to specific additional security scrutiny, through the use of ‘no transport’ and ‘automatic selectee’ lists or other means. “(2) Waiver.—The Secretary may waive the requirement in paragraph (1)(B) with respect to cruise ships embarking at foreign ports if the Secretary determines that the application of such requirement to such cruise ships is impracticable. “(b) Cooperation From Operators of Cruise Ships.—The Secretary of Homeland Security shall by rulemaking require operators of cruise ships to provide the passenger and crew information necessary to implement the procedure required by subsection (a). “(c) Maintenance of Accuracy and Integrity of ‘No Transport’ and ‘Automatic Selectee’ Lists.—“(1) Watch list database.—The Secretary of Homeland Security, in consultation with the Terrorist Screening Center, shall develop guidelines, policies, and operating procedures for the collection, removal, and updating of data maintained, or to be maintained, in the ‘no transport’ and ‘automatic selectee’ lists described in subsection (a)(1) that are designed to ensure the accuracy and integrity of the lists. “(2) Accuracy of entries.—In developing the ‘no transport’ and ‘automatic selectee’ lists under subsection (a)(1)(B), the Secretary shall establish a simple and timely method for correcting erroneous entries, for clarifying information known to cause false hits or misidentification errors, and for updating relevant information that is dispositive in the passenger and crew screening process. The Secretary shall also establish a process to provide an individual whose name is confused with, or similar to, a name in the watch list database with a means of demonstrating that such individual is not the person named in the database. “(d) Cruise Ship Defined.—In this section, the term ‘cruise ship’ means a vessel on an international voyage that embarks or disembarks passengers at a port of United States jurisdiction to which subpart C of part 160 of title 33, Code of Federal Regulations, applies and that provides overnight accommodations.”
 
 #### Vessel and Intermodal Security Reports
-Pub. L. 108–293, title VIII, § 809(g)–(i), (k), Aug. 9, 2004, 118 Stat. 1087, 1088, as amended by Pub. L. 113–284, § 2(a)(1), (2)(B), Dec. 18, 2014, 128 Stat. 3089, provided that: “(g) Compliance With Security Standards Established Pursuant to Maritime Transportation Security Plans.—Within 180 days after the date of the enactment of this Act [Aug. 9, 2004] and annually thereafter, the Secretary of the department in which the Coast Guard is operating shall prepare a report on compliance and steps taken to ensure compliance by ports, terminals, vessel operators, and shippers with security standards established pursuant to [section 70103 of title 46](./chapter-701-port-security.md#section-70103), United States Code. The reports shall also include a summary of security standards established pursuant to such section during the previous year. The Secretary shall submit the reports to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. [(h) Repealed. Pub. L. 113–284, § 2(a)(1), Dec. 18, 2014, 128 Stat. 3089.] “(i) Report and Plan Formats.—The Secretary and the Inspector General of the department in which the Coast Guard is operating may submit any plan or report required by this section in both classified and redacted formats, if the Secretary determines that it is appropriate or necessary.”
+Pub. L. 108–293, title VIII, § 809(g), (i), formerly § 809(g)–(i), (k), Aug. 9, 2004, 118 Stat. 1087, 1088, renumbered and amended by Pub. L. 113–284, § 2(a)(1), (2)(B), Dec. 18, 2014, 128 Stat. 3089, provided that: “(g) Compliance With Security Standards Established Pursuant to Maritime Transportation Security Plans.—Within 180 days after the date of the enactment of this Act [Aug. 9, 2004] and annually thereafter, the Secretary of the department in which the Coast Guard is operating shall prepare a report on compliance and steps taken to ensure compliance by ports, terminals, vessel operators, and shippers with security standards established pursuant to [section 70103 of title 46](./chapter-701-port-security.md#section-70103), United States Code. The reports shall also include a summary of security standards established pursuant to such section during the previous year. The Secretary shall submit the reports to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. [(h) Repealed. Pub. L. 113–284, § 2(a)(1), Dec. 18, 2014, 128 Stat. 3089.] “(i) Report and Plan Formats.—The Secretary and the Inspector General of the department in which the Coast Guard is operating may submit any plan or report required by this section in both classified and redacted formats, if the Secretary determines that it is appropriate or necessary.”
 
 [(k) Redesignated (i).]
 
@@ -386,9 +386,17 @@ Pub. L. 107–295, title I, § 102(c), Nov. 25, 2002, 116 Stat. 2084, provided t
 
   (E) an individual with access to security sensitive information as determined by the Secretary;
 
-  (F) other individuals engaged in port security activities as determined by the Secretary; and
+  (F) other individuals engaged in port security activities as determined by the Secretary;
 
-  (G) other individuals as determined appropriate by the Secretary including individuals employed at a port not otherwise covered by this subsection.
+  (G) a member of the Armed Forces who—
+
+    (i) is undergoing separation, discharge, or release from the Armed Forces under honorable conditions;
+
+    (ii) applies for a transportation security card; and
+
+    (iii) is otherwise eligible for such a card; and
+
+  (H) other individuals as determined appropriate by the Secretary including individuals employed at a port not otherwise covered by this subsection.
 
 (3) The Secretary may extend for up to one year the expiration of a biometric transportation security card required by this section to align the expiration with the expiration of a license, certificate of registry, or merchant mariner document required under chapter 71 or 73.
 
@@ -462,7 +470,7 @@ Pub. L. 107–295, title I, § 102(c), Nov. 25, 2002, 116 Stat. 2084, provided t
 
     (xiv) Fraudulent entry into a seaport in violation of [section 1036 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1036&num=0&edition=prelim), or a comparable State law.
 
-    (xv) A violation of the chapter 96 of title 18, popularly known as the Racketeer Influenced and Corrupt Organizations Act 11 So in original. Probably should be followed by a comma. or a comparable State law, other than any of the violations listed in subparagraph (A)(x).
+    (xv) A violation of the chapter 96 of title 18 (popularly known as the Racketeer Influenced and Corrupt Organizations Act) or a comparable State law, other than any of the violations listed in subparagraph (A)(x).
 
   (C) *Under want, warrant, or indictment.—* — An applicant who is wanted, or under indictment, in any civilian or military jurisdiction for a felony listed in paragraph (1)(A), is disqualified from being issued a biometric transportation security card under subsection (b) until the want or warrant is released or the indictment is dismissed.
 
@@ -482,7 +490,7 @@ Pub. L. 107–295, title I, § 102(c), Nov. 25, 2002, 116 Stat. 2084, provided t
 
   (E) *Modification of listed offenses.—* — The Secretary may, by rulemaking, add to or modify the list of disqualifying crimes described in paragraph (1)(B).
 
-(2) The Secretary shall prescribe regulations that establish a waiver process for issuing a transportation security card to an individual found to be otherwise ineligible for such a card under subparagraph (A), (B), or (D) 22 So in original. Probably should be followed by “of”. paragraph (1). In deciding to issue a card to such an individual, the Secretary shall—
+(2) The Secretary shall prescribe regulations that establish a waiver process for issuing a transportation security card to an individual found to be otherwise ineligible for such a card under subparagraph (A), (B), or (D) of paragraph (1). In deciding to issue a card to such an individual, the Secretary shall—
 
   (A) give consideration to the circumstances of any disqualifying act or offense, restitution made by the individual, Federal and State mitigation remedies, and other factors from which it may be concluded that the individual does not pose a terrorism risk warranting denial of the card; and
 
@@ -556,7 +564,11 @@ Pub. L. 107–295, title I, § 102(c), Nov. 25, 2002, 116 Stat. 2084, provided t
 
   (C) all other United States ports not later than January 1, 2009.
 
-**(j) Transportation Security Card Processing Deadline.—** Not later than January 1, 2009, the Secretary shall process and issue or deny each application for a transportation security card under this section for individuals with current and valid merchant mariners’ documents on the date of the enactment of the SAFE Port Act.
+**(j) Priority Processing for Separating Service Members.—**
+
+(1) The Secretary and the Secretary of Defense shall enter into a memorandum of understanding regarding the submission and processing of applications for transportation security cards under subsection (b)(2)(G).
+
+(2) Not later than 30 days after the submission of such an application by an individual who is eligible to submit such an application, the Secretary shall process and approve or deny the application unless an appeal or waiver applies or further application documentation is necessary.
 
 **(k) Deployment of Transportation Security Card Readers.—**
 
@@ -613,11 +625,19 @@ The Immigration and Nationality Act, referred to in subsec. (c)(1)(D)(iii), is a
 
 The Classified Information Procedures Act, referred to in subsec. (c)(3)(D)(i), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-The date of the enactment of the SAFE Port Act, referred to in subsecs. (j), (k)(1)(C), (l), is the date of enactment of Pub. L. 109–347, which was approved Oct. 13, 2006.
+The date of the enactment of the SAFE Port Act, referred to in subsecs. (k)(1)(C) and (l), is the date of enactment of Pub. L. 109–347, which was approved Oct. 13, 2006.
 
-Section 2(1) of the SAFE Port Act, referred to in subsecs. (k)(4), (l), is classified to [section 901(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section901/1&num=0&edition=prelim), Domestic Security.
+Section 2(1) of the SAFE Port Act, referred to in subsecs. (k)(4) and (l), is classified to [section 901(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section901/1&num=0&edition=prelim), Domestic Security.
 
 #### Amendments
+2016—Subsec. (b)(2)(G), (H). Pub. L. 114–328, § 3509(a)(1), added subpar. (G) and redesignated former subpar. (G) as (H).
+
+Subsec. (c)(1)(B)(xv). Pub. L. 114–120, § 306(a)(9)(A), substituted “18 (popularly” for “18, popularly” and “Act)” for “Act”.
+
+Subsec. (c)(2). Pub. L. 114–120, § 306(a)(9)(B), substituted “(D) of paragraph” for “(D) paragraph” in introductory provisions.
+
+Subsec. (j). Pub. L. 114–328, § 3509(a)(2), amended subsec. (j) generally. Prior to amendment, text read as follows: “Not later than January 1, 2009, the Secretary shall process and issue or deny each application for a transportation security card under this section for individuals with current and valid merchant mariners’ documents on the date of the enactment of the SAFE Port Act.”
+
 2010—Subsec. (b)(2)(B). Pub. L. 111–281, § 809(1), inserted “allowed unescorted access to a secure area designated in a vessel security plan approved under [section 70103 of this title](./chapter-701-port-security.md#section-70103)” after “subtitle II of this title”.
 
 Subsec. (b)(2)(D). Pub. L. 111–281, § 809(2), inserted “allowed unescorted access to a secure area designated in a vessel security plan approved under [section 70103 of this title](./chapter-701-port-security.md#section-70103)” after “tank vessel”.
@@ -644,11 +664,20 @@ Subsec. (c)(3) to (5). Pub. L. 109–241 added par. (3) and redesignated former 
 
 Subsecs. (g) to (m). Pub. L. 109–347, § 104(a), added subsecs. (g) to (m).
 
+#### Effective Date of 2016 Amendment
+Pub. L. 114–328, div. C, title XXXV, § 3509(c), Dec. 23, 2016, 130 Stat. 2781, provided that: “[Section 70105(j)(2) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70105/j/2&num=0&edition=prelim), United States Code, as amended by this section, shall apply to applications for transportation security cards submitted after the expiration of the 180-day period beginning on the date of the enactment of this Act [Dec. 23, 2016].”
+
 #### Effective Date of 2010 Amendment
 Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(13) is effective with the enactment of Pub. L. 111–281.
 
+#### Deadline for Memorandum
+Pub. L. 114–328, div. C, title XXXV, § 3509(b), Dec. 23, 2016, 130 Stat. 2781, provided that: “The Secretary of the department in which the Coast Guard is operating and the Secretary of Defense shall enter into the memorandum of understanding required by the amendment made by subsection (a)(2) by not later than 180 days after the date of the enactment of this Act [Dec. 23, 2016].”
+
 #### Deadline for Section 70105 Regulations
 Pub. L. 109–347, title I, § 104(c), Oct. 13, 2006, 120 Stat. 1891, provided that: “Not later than January 1, 2007, the Secretary [of Homeland Security] shall promulgate final regulations implementing the requirements for issuing transportation security cards under [section 70105 of title 46](./chapter-701-port-security.md#section-70105), United States Code. The regulations shall include a background check process to enable newly hired workers to begin working unless the Secretary makes an initial determination that the worker poses a security risk. Such process shall include a check against the consolidated and integrated terrorist watch list maintained by the Federal Government.”
+
+#### Transportation Worker Identification Credential Security Card Program Improvements and Assessment
+Pub. L. 114–278, § 1, Dec. 16, 2016, 130 Stat. 1410, provided that: “(a) Credential Improvements.—“(1) In general.—Not later than 60 days after the date of enactment of this Act [Dec. 16, 2016], the Administrator of the Transportation Security Administration shall commence actions, consistent with [section 70105 of title 46](./chapter-701-port-security.md#section-70105), United States Code, to improve the Transportation Security Administration’s process for vetting individuals with access to secure areas of vessels and maritime facilities. “(2) Required actions.—The actions described under paragraph (1) shall include—“(A) conducting a comprehensive risk analysis of security threat assessment procedures, including—“(i) identifying those procedures that need additional internal controls; and “(ii) identifying best practices for quality assurance at every stage of the security threat assessment; “(B) implementing the additional internal controls and best practices identified under subparagraph (A); “(C) improving fraud detection techniques, such as—“(i) by establishing benchmarks and a process for electronic document validation; “(ii) by requiring annual training for Trusted Agents; and “(iii) by reviewing any security threat assessment-related information provided by Trusted Agents and incorporating any new threat information into updated guidance under subparagraph (D); “(D) updating the guidance provided to Trusted Agents regarding the vetting process and related regulations; “(E) finalizing a manual for Trusted Agents and adjudicators on the vetting process; and “(F) establishing quality controls to ensure consistent procedures to review adjudication decisions and terrorism vetting decisions. “(3) Report.—Not later than 2 years after the date of enactment of this Act, the Inspector General of the Department of Homeland Security shall submit a report to Congress that evaluates the implementation of the actions described in paragraph (1). “(b) Comprehensive Security Assessment of the Transportation Security Card Program.—“(1) In general.—Not later than 60 days after the date of enactment of this Act [Dec. 16, 2016], the Secretary of Homeland Security shall commission an assessment of the effectiveness of the transportation security card program (referred to in this section as ‘Program’) required under [section 70105 of title 46](./chapter-701-port-security.md#section-70105), United States Code, at enhancing security and reducing security risks for facilities and vessels regulated under chapter 701 of that title. “(2) Location.—The assessment commissioned under paragraph (1) shall be conducted by a research organization with significant experience in port or maritime security, such as—“(A) a national laboratory; “(B) a university-based center within the Science and Technology Directorate’s centers of excellence network; or “(C) a qualified Federally-funded research and development center. “(3) Contents.—The assessment commissioned under paragraph (1) shall—“(A) review the credentialing process by determining—“(i) the appropriateness of vetting standards; “(ii) whether the fee structure adequately reflects the current costs of vetting; “(iii) whether there is unnecessary redundancy or duplication with other Federal- or State-issued transportation security credentials; and “(iv) the appropriateness of having varied Federal and State threat assessments and access controls; “(B) review the process for renewing applications for Transportation Worker Identification Credentials, including the number of days it takes to review application, appeal, and waiver requests for additional information; and “(C) review the security value of the Program by—“(i) evaluating the extent to which the Program, as implemented, addresses known or likely security risks in the maritime and port environments; “(ii) evaluating the potential for a non-biometric credential alternative; “(iii) identifying the technology, business process, and operational impacts of the use of the transportation security card and transportation security card readers in the maritime and port environments; “(iv) assessing the costs and benefits of the Program, as implemented; and “(v) evaluating the extent to which the Secretary of Homeland Security has addressed the deficiencies in the Program identified by the Government Accountability Office and the Inspector General of the Department of Homeland Security before the date of enactment of this Act. “(4) Deadlines.—The assessment commissioned under paragraph (1) shall be completed not later than 1 year after the date on which the assessment is commissioned. “(5) Submission to congress.—Not later than 60 days after the date that the assessment is completed, the Secretary of Homeland Security shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives the results of the assessment commissioned under this subsection. “(c) Corrective Action Plan; Program Reforms.—If the assessment commissioned under subsection (b) identifies a deficiency in the effectiveness of the Program, the Secretary of Homeland Security, not later than 60 days after the date on which the assessment is completed, shall submit a corrective action plan to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives that—“(1) responds to findings of the assessment; “(2) includes an implementation plan with benchmarks; “(3) may include programmatic reforms, revisions to regulations, or proposals for legislation; and “(4) shall be considered in any rulemaking by the Department of Homeland Security relating to the Program. “(d) Inspector General Review.—If a corrective action plan is submitted under subsection (c), the Inspector General of the Department of Homeland Security shall—“(1) not later than 120 days after the date of such submission, review the extent to which such plan implements the requirements under subsection (c); and “(2) not later than 18 months after the date of such submission, and annually thereafter for 3 years, submit a report to the congressional committees set forth in subsection (c) that describes the progress of the implementation of such plan.”
 
 #### Transportation Worker Identification Credential Process Reform
 Pub. L. 112–213, title VII, § 709, Dec. 20, 2012, 126 Stat. 1581, provided that: “Not later than 270 days after the date of enactment of this Act [Dec. 20, 2012], the Secretary of Homeland Security shall reform the process for Transportation Worker Identification Credential enrollment, activation, issuance, and renewal to require, in total, not more than one in-person visit to a designated enrollment center except in cases in which there are extenuating circumstances, as determined by the Secretary, requiring more than one such in-person visit.”
@@ -717,7 +746,7 @@ Pub. L. 111–281, title VIII, § 805, Oct. 15, 2010, 124 Stat. 2991, provided t
 
 (1) Salary, benefits, overtime compensation, retirement contributions, and other costs of additional Coast Guard mandated security personnel.
 
-(2) The cost of acquisition, operation, and maintenance of security equipment or facilities to be used for security monitoring and recording, security gates and fencing, marine barriers for designated security zones, security-related lighting systems, remote surveillance, concealed video systems, security vessels, and other security-related infrastructure or equipment that contributes to the overall security of passengers, cargo, or crewmembers. Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121(j)(8)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121/j/8&num=0&edition=prelim) 11 So in original. Probably should be “5196(j)(8)”. ), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—
+(2) The cost of acquisition, operation, and maintenance of security equipment or facilities to be used for security monitoring and recording, security gates and fencing, marine barriers for designated security zones, security-related lighting systems, remote surveillance, concealed video systems, security vessels, and other security-related infrastructure or equipment that contributes to the overall security of passengers, cargo, or crewmembers. Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5196(j)(8)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5196/j/8&num=0&edition=prelim)), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—
 
   (A) $1,000,000 per project; or
 
@@ -873,7 +902,7 @@ Pub. L. 111–281, title VIII, § 805, Oct. 15, 2010, 124 Stat. 2991, provided t
 
     (ii) The applicant’s capability to provide leadership in making national and regional contributions to the solution of immediate and long-range port and maritime transportation security and risk mitigation problems.
 
-    (iii) Whether the applicant can demonstrate that is 22 So in original. Probably should be “the applicant”. has an established, nationally recognized program in disciplines that contribute directly to maritime transportation safety and education.
+    (iii) Whether the applicant can demonstrate that the applicant has an established, nationally recognized program in disciplines that contribute directly to maritime transportation safety and education.
 
     (iv) Whether the applicant’s investigations will involve major United States ports on the East Coast, the Gulf Coast, and the West Coast, and Federal agencies and other entities with expertise in port and maritime transportation.
 
@@ -901,6 +930,10 @@ This Act, referred to in subsec. (k)(1)(B)(iii), probably means the Maritime Tra
 The Maritime Transportation Security Act of 2002, referred to in subsec. (k)(3)(D), is Pub. L. 107–295, Nov. 25, 2002, 116 Stat. 2064. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2016—Subsec. (b)(2). Pub. L. 114–120, § 306(a)(10)(A), substituted “5196(j)(8)),” for “5121(j)(8)),” in introductory provisions.
+
+Subsec. (m)(3)(C)(iii). Pub. L. 114–120, § 306(a)(10)(B), substituted “that the applicant” for “that is”.
+
 2010—Subsec. (a). Pub. L. 111–281, § 828(b)(1), substituted “services and to train law enforcement personnel under [section 70132 of this title](./chapter-701-port-security.md#section-70132).” for “services.” in first sentence.
 
 Subsec. (b)(8). Pub. L. 111–281, § 828(b)(2), added par.(8).
@@ -945,7 +978,7 @@ Pub. L. 108–293, title VIII, § 804(c), Aug. 9, 2004, 118 Stat. 1081, provided
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-70107a"></a>
@@ -1062,9 +1095,35 @@ Pub. L. 109–347, title I, § 108(b), Oct. 13, 2006, 120 Stat. 1893, provided t
 
 **(e) Limitation on Statutory Construction.—** The absence of an inspection of a foreign port shall not bar the Secretary from making a finding that a port in a foreign country does not maintain effective antiterrorism measures.
 
+**(f) Recognition of Assessment Conducted by Other Entities.—**
+
+(1) **Certification and treatment of assessments.—** — For the purposes of this section and section 70109, the Secretary may treat an assessment that a foreign government (including, for the purposes of this subsection, an entity of or operating under the auspices of the European Union) or international organization has conducted as an assessment that the Secretary has conducted for the purposes of subsection (a), provided that the Secretary certifies that the foreign government or international organization has—
+
+  (A) conducted the assessment in accordance with subsection (b); and
+
+  (B) provided the Secretary with sufficient information pertaining to its assessment (including, but not limited to, information on the outcome of the assessment).
+
+(2) **Authorization to enter into an agreement.—** — For the purposes of this section and section 70109, the Secretary, in consultation with the Secretary of State, may enter into an agreement with a foreign government (including, for the purposes of this subsection, an entity of or operating under the auspices of the European Union) or international organization, under which parties to the agreement—
+
+  (A) conduct an assessment, required under subsection (a);
+
+  (B) share information pertaining to such assessment (including, but not limited to, information on the outcome of the assessment); or
+
+  (C) both.
+
+(3) **Limitations.—** — Nothing in this subsection shall be construed to—
+
+  (A) require the Secretary to recognize an assessment that a foreign government or an international organization has conducted; or
+
+  (B) limit the discretion or ability of the Secretary to conduct an assessment under this section.
+
+(4) **Notification to congress.—** — Not later than 30 days before entering into an agreement or arrangement with a foreign government under paragraph (2), the Secretary shall notify the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the proposed terms of such agreement or arrangement.
+
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (f). Pub. L. 114–120 added subsec. (f).
+
 2010—Subsec. (c)(2) to (4). Pub. L. 111–281, § 806(c)(2)(B), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “the Secretary of the Treasury;”.
 
 Subsec. (e). Pub. L. 111–281, § 806(a)(1), added subsec. (e).
@@ -1378,7 +1437,7 @@ Pub. L. 107–295, title I, § 110(c), Nov. 25, 2002, 116 Stat. 2092, provided t
 
 [For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).]
 
-[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).]
+[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).]
 
 #### Performance Standards
 Pub. L. 107–295, title I, § 111, Nov. 25, 2002, 116 Stat. 2092, provided that: “Not later than January 1, 2004, the Secretary of the department in which the Coast Guard is operating, in consultation with the Transportation Security Oversight Board, shall— “(1) develop and maintain an antiterrorism cargo identification, tracking, and screening system for containerized cargo shipped to and from the United States either directly or via a foreign port; and “(2) develop performance standards to enhance the physical security of shipping containers, including standards for seals and locks.”
@@ -1501,7 +1560,7 @@ Provisions of Pub. L. 109–304 repealed by section 3529(c)(1) of Pub. L. 110–
 
 
 <a id="section-70122"></a>
-## § 70122. Waterway watch program 11 So in original. Probably should be “Waterway Watch Program”.
+## § 70122. Waterway Watch Program
 **(a) Program Established.—** There is hereby established, within the Coast Guard, the America’s Waterway Watch Program.
 
 **(b) Purpose.—** The Secretary shall administer the Program in a manner that promotes voluntary reporting of activities that may indicate that a person or persons may be preparing to engage or engaging in a violation of law relating to a threat or an act of terrorism (as that term is defined in [section 3077 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3077&num=0&edition=prelim)) against a vessel, facility, port, or waterway.
@@ -1527,6 +1586,11 @@ Provisions of Pub. L. 109–304 repealed by section 3529(c)(1) of Pub. L. 110–
 **(e) Coordination.—** The Secretary shall coordinate the Program with other like watch programs. The Secretary shall submit, concurrent with the President’s budget submission for each fiscal year, a report on coordination of the Program and like watch programs within the Department of Homeland Security to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives.
 
 **(f) Authorization of Appropriations.—** There are authorized to be appropriated for the purposes of this section $3,000,000 for each of fiscal years 2011 through 2016. Such funds shall remain available until expended.
+
+### Statutory Notes
+
+#### Amendments
+2016—Pub. L. 114–120 substituted “Watch Program” for “watch program” in section catchline.
 
 
 <a id="section-70123"></a>

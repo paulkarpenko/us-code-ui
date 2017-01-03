@@ -44,7 +44,7 @@ In this chapter:
 
   (B) a program that directly provides early learning to young children.
 
-(5) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim).
+(5) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 (6) **Local Council** — The term “Local Council” means a Local Council established or designated under [section 9413(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9413/a&num=0&edition=prelim) that serves one or more localities.
 
@@ -111,17 +111,17 @@ There are authorized to be appropriated to the Department of Health and Human Se
 
 **(b) Federal share**
 
-(1) **In general** — The Federal share of the cost described in subsections (a) and (e) of this section shall be 85 percent for the first and second years of the grant, 80 percent for the third and fourth years of the grant, and 75 percent for the fifth and subsequent years of the grant.
+(1) **In general** — The Federal share of the cost described in subsections (a) and (e) shall be 85 percent for the first and second years of the grant, 80 percent for the third and fourth years of the grant, and 75 percent for the fifth and subsequent years of the grant.
 
-(2) **Non-Federal share** — The non-Federal share of the cost described in subsections (a) and (e) of this section may be contributed in cash or in kind, fairly evaluated, including facilities, equipment, or services, which may be provided from State or local public sources, or through donations from private entities. For the purposes of this paragraph the term “facilities” includes the use of facilities, but the term “equipment” means donated equipment and not the use of equipment.
+(2) **Non-Federal share** — The non-Federal share of the cost described in subsections (a) and (e) may be contributed in cash or in kind, fairly evaluated, including facilities, equipment, or services, which may be provided from State or local public sources, or through donations from private entities. For the purposes of this paragraph the term “facilities” includes the use of facilities, but the term “equipment” means donated equipment and not the use of equipment.
 
-**(c) Maintenance of effort** The Secretary shall not award a grant under this chapter to any State unless the Secretary first determines that the total expenditures by the State and its political subdivisions to support early learning programs (other than funds used to pay the non-Federal share under subsection (b)(2) of this section) for the fiscal year for which the determination is made is equal to or greater than such expenditures for the preceding fiscal year.
+**(c) Maintenance of effort** The Secretary shall not award a grant under this chapter to any State unless the Secretary first determines that the total expenditures by the State and its political subdivisions to support early learning programs (other than funds used to pay the non-Federal share under subsection (b)(2)) for the fiscal year for which the determination is made is equal to or greater than such expenditures for the preceding fiscal year.
 
 **(d) Supplement not supplant** Amounts received under this chapter shall be used to supplement and not supplant other Federal, State, and local public funds expended to promote early learning.
 
 **(e) Special rule** If funds appropriated to carry out this chapter are less than $150,000,000 for any fiscal year, the Secretary shall award grants for the fiscal year directly to Local Councils, on a competitive basis, to pay the Federal share of the cost of carrying out early learning programs in the locality served by the Local Council. In carrying out the preceding sentence—
 
-(1) subsection (c) of this section, subsections (b) and (c) of [section 9409 of this title](./chapter-075-early-learning-opportunities.md#section-9409), and paragraphs (1), (2), and (3) of [section 9410(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9410/a&num=0&edition=prelim) shall not apply;
+(1) subsection (c), subsections (b) and (c) of [section 9409 of this title](./chapter-075-early-learning-opportunities.md#section-9409), and paragraphs (1), (2), and (3) of [section 9410(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9410/a&num=0&edition=prelim) shall not apply;
 
 (2) State responsibilities described in [section 9410(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9410/d&num=0&edition=prelim) shall be carried out by the Local Council with regard to the locality;
 
@@ -171,13 +171,13 @@ There are authorized to be appropriated to the Department of Health and Human Se
 
 (2) 0.5 percent shall be available to Regional Corporations and Native Hawaiian entities.
 
-**(b) Allotments** From the funds appropriated under this chapter for each fiscal year that are not reserved under subsection (a) of this section, the Secretary shall allot to each State the sum of—
+**(b) Allotments** From the funds appropriated under this chapter for each fiscal year that are not reserved under subsection (a), the Secretary shall allot to each State the sum of—
 
 (1) an amount that bears the same ratio to 50 percent of such funds as the number of children 4 years of age and younger in the State bears to the number of such children in all States; and
 
 (2) an amount that bears the same ratio to 50 percent of such funds as the number of children 4 years of age and younger living in families with incomes below the poverty line in the State bears to the number of such children in all States.
 
-**(c) Minimum allotment** No State shall receive an allotment under subsection (b) of this section for a fiscal year in an amount that is less than .40 percent of the total amount appropriated for the fiscal year under this chapter.
+**(c) Minimum allotment** No State shall receive an allotment under subsection (b) for a fiscal year in an amount that is less than .40 percent of the total amount appropriated for the fiscal year under this chapter.
 
 **(d) Availability of funds** Any portion of the allotment to a State that is not expended for activities under this chapter in the fiscal year for which the allotment is made shall remain available to the State for two additional years, after which any unexpended funds shall be returned to the Secretary. The Secretary shall use the returned funds to carry out a discretionary grant program for research-based early learning demonstration projects.
 
@@ -296,7 +296,7 @@ There are authorized to be appropriated to the Department of Health and Human Se
 ## § 9412. Local applications
 **(a) In general** To be eligible to receive assistance under this chapter, the Local Council shall submit an application to the Lead State Agency at such time, in such manner, and containing such information as the Lead State Agency may require.
 
-**(b) Contents** Each application submitted pursuant to subsection (a) of this section shall include a statement ensuring that the local government entity, Indian tribe, Regional Corporation, or Native Hawaiian entity has established or designated a Local Council under [section 9413 of this title](./chapter-075-early-learning-opportunities.md#section-9413), and the Local Council has developed a local plan for carrying out early learning programs under this chapter that includes—
+**(b) Contents** Each application submitted pursuant to subsection (a) shall include a statement ensuring that the local government entity, Indian tribe, Regional Corporation, or Native Hawaiian entity has established or designated a Local Council under [section 9413 of this title](./chapter-075-early-learning-opportunities.md#section-9413), and the Local Council has developed a local plan for carrying out early learning programs under this chapter that includes—
 
 (1) a needs and resources assessment concerning early learning services and a statement describing how early learning programs will be funded consistent with the assessment;
 

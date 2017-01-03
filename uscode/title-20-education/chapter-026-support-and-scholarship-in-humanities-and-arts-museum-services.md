@@ -244,7 +244,7 @@ In the case of publications under paragraph (10) of this subsection such publica
 (2) applications are consistent with the purposes of this section. Such regulations and procedures shall clearly indicate that obscenity is without artistic merit, is not protected speech, and shall not be funded. Projects, productions, workshops, and programs that are determined to be obscene are prohibited from receiving financial assistance under this subchapter from the National Endowment for the Arts.
 The disapproval or approval of an application by the Chairperson shall not be construed to mean, and shall not be considered as evidence that, the project, production, workshop, or program for which the applicant requested financial assistance is or is not obscene.
 
-**(e) Limitation on amount of grant to group; grants and contracts of the National Endowment for the Arts** The total amount of any grant to any group pursuant to subsection (c) of this section shall not exceed 50 per centum of the total cost of such project or production, except that not more than 20 per centum of the funds allotted by the National Endowment for the Arts for the purposes of subsection (c) of this section for any fiscal year may be available for grants and contracts in that fiscal year without regard to such limitation.
+**(e) Limitation on amount of grant to group; grants and contracts of the National Endowment for the Arts** The total amount of any grant to any group pursuant to subsection (c) of this section shall not exceed 50 per centum of the total cost of such project or production, except that not more than 20 per centum of the funds allotted by the National Endowment for the Arts for the purposes of subsection (c) for any fiscal year may be available for grants and contracts in that fiscal year without regard to such limitation.
 
 **(f) Eligibility for financial assistance** Any group shall be eligible for financial assistance pursuant to this section only if (1) no part of its net earnings inures to the benefit of any private stockholder or stockholders, or individual or individuals, and (2) donations to such group are allowable as a charitable contribution under the standards of subsection (c) of [section 170 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section170&num=0&edition=prelim).
 
@@ -256,7 +256,7 @@ The disapproval or approval of an application by the Chairperson shall not be co
 
   (A) designates or provides for the establishment of a State agency (hereinafter in this section referred to as the “State agency”) as the sole agency for the administration of the State plan;
 
-  (B) provides that funds paid to the State under this subsection will be expended solely on projects and productions approved by the State agency which carry out one or more of the objectives of subsection (c) of this section;
+  (B) provides that funds paid to the State under this subsection will be expended solely on projects and productions approved by the State agency which carry out one or more of the objectives of subsection (c);
 
   (C) provides that the State agency will make such reports, in such form and containing such information, as the Chairperson may from time to time require, including a description of the progress made toward achieving the goals of the State plan;
 
@@ -298,7 +298,7 @@ The disapproval or approval of an application by the Chairperson shall not be co
 
   (E) For purposes of paragraph (3)(B), the term “State” includes, in addition to the several States of the Union, only those special jurisdictions specified in [section 952(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section952/g&num=0&edition=prelim) which have a population of 200,000 or more, according to the latest decennial census.
 
-(5) All amounts allotted or made available under paragraph (3) for a fiscal year which are not granted to a State during such year shall be available at the end of such year to the National Endowment for the Arts for the purpose of carrying out subsection (c) of this section.
+(5) All amounts allotted or made available under paragraph (3) for a fiscal year which are not granted to a State during such year shall be available at the end of such year to the National Endowment for the Arts for the purpose of carrying out subsection (c).
 
 **(h) Suspension of grants for defaults, noncompliance with provisions and plans, and diversion of funds; repayment of funds** Whenever the Chairperson, after reasonable notice and opportunity for hearing, finds that—
 
@@ -362,7 +362,7 @@ the Chairperson shall immediately notify the Secretary of the Treasury and the g
 
 **(n) Labor standards of laborers and mechanics** It shall be a condition of the receipt of any grant under this section that the group or individual of exceptional talent or the State or State agency receiving such grant furnish adequate assurances to the Secretary of Labor that all laborers and mechanics employed by contractors or subcontractors on construction proj­ects assisted under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Labor shall have with respect to the labor standards specified in this subsection the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 and [section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim).
 
-**(o) Correlation and development of endowment programs with other Federal and non-Federal programs; expenditure of appropriations** The Chairperson shall correlate the programs of the National Endowment for the Arts insofar as practicable, with existing Federal programs and with those undertaken by other public agencies or private groups, and shall develop the programs of the Endowment with due regard to the contribution to the objectives of this subchapter which can be made by other Federal agencies under existing programs. The Chairperson may enter into interagency agreements to promote or assist with the arts-related activities of other Federal agencies, on a reimbursable or nonreimbursable basis, and may use funds authorized to be appropriated for the purposes of subsection (c) of this section for the costs of such activities.
+**(o) Correlation and development of endowment programs with other Federal and non-Federal programs; expenditure of appropriations** The Chairperson shall correlate the programs of the National Endowment for the Arts insofar as practicable, with existing Federal programs and with those undertaken by other public agencies or private groups, and shall develop the programs of the Endowment with due regard to the contribution to the objectives of this subchapter which can be made by other Federal agencies under existing programs. The Chairperson may enter into interagency agreements to promote or assist with the arts-related activities of other Federal agencies, on a reimbursable or nonreimbursable basis, and may use funds authorized to be appropriated for the purposes of subsection (c) for the costs of such activities.
 
 **(p) Program of contracts or grants-in-aid to public agencies and private nonprofit organizations; limitation on payments; authority of Chairperson**
 
@@ -410,9 +410,9 @@ the Chairperson shall immediately notify the Secretary of the Treasury and the g
 
 (3) The total amount of any payment made under this subsection for a program or project may not exceed 50 per centum of the cost of such program or project.
 
-(4) In carrying out the program authorized by this subsection, the Chairperson of the National Endowment for the Arts shall have the same authority as is established in subsection (c) of this section and [section 959 of this title](./chapter-026-support-and-scholarship-in-humanities-and-arts-museum-services.md#section-959).
+(4) In carrying out the program authorized by this subsection, the Chairperson of the National Endowment for the Arts shall have the same authority as is established in subsection (c) and [section 959 of this title](./chapter-026-support-and-scholarship-in-humanities-and-arts-museum-services.md#section-959).
 
-**(q) National information and data collection system on the arts, artists and art groups, and audiences; development and implementation plan; state of the arts reports** The Chairperson of the National Endowment for the Arts shall, in ongoing consultation with State and local agencies, relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the arts, artists and arts groups, and their audiences. Such system shall include artistic and financial trends in the various artistic fields, trends in audience participation, and trends in arts education on national, regional, and State levels. Such system shall also include information regarding the availability of the arts to various audience segments, including rural communities. Such system shall be used, along with a summary of the data submitted with State plans under subsection (g) of this section, to prepare a periodic report on the state of the arts in the Nation. The state of the arts report shall include a description of the availability of the Endowment’s programs to emerging, rural, and culturally diverse artists, arts organizations, and communities and of the participation by such artists, organizations, and communities in such programs. The state of the arts report shall be submitted to the President and the Congress, and provided to the States, not later than October 1, 1992, and quadrennially thereafter.
+**(q) National information and data collection system on the arts, artists and art groups, and audiences; development and implementation plan; state of the arts reports** The Chairperson of the National Endowment for the Arts shall, in ongoing consultation with State and local agencies, relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the arts, artists and arts groups, and their audiences. Such system shall include artistic and financial trends in the various artistic fields, trends in audience participation, and trends in arts education on national, regional, and State levels. Such system shall also include information regarding the availability of the arts to various audience segments, including rural communities. Such system shall be used, along with a summary of the data submitted with State plans under subsection (g), to prepare a periodic report on the state of the arts in the Nation. The state of the arts report shall include a description of the availability of the Endowment’s programs to emerging, rural, and culturally diverse artists, arts organizations, and communities and of the participation by such artists, organizations, and communities in such programs. The state of the arts report shall be submitted to the President and the Congress, and provided to the States, not later than October 1, 1992, and quadrennially thereafter.
 
 ### Statutory Notes
 
@@ -475,7 +475,7 @@ Pub. L. 101–512, § 318 [title I, § 103(g)(1)], redesignated subsec. (m) as (
 
 Subsec. (p)(1)(G). Pub. L. 101–512, § 318 [title I, § 103(e)], added subpar. (G).
 
-Subsec. (p)(2) to (4). Pub. L. 101–512, § 318 [title I, § 104], added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and in par. (4), substituted “subsection (c)” for “section 5(c)”, which for purposes of codification was translated as “subsection (c) of this section” thus requiring no change in text.
+Subsec. (p)(2) to (4). Pub. L. 101–512, § 318 [title I, § 104], added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and in par. (4), substituted “subsection (c)” for “section 5(c)”, which for purposes of codification was translated as “subsection (c)” thus requiring no change in text.
 
 Subsec. (q). Pub. L. 101–512, § 318 [title I, § 103(h)(1)], redesignated subsec. (p) as (q).
 
@@ -664,11 +664,11 @@ Section effective Oct. 1, 1990, see section 318 [title IV, § 403(a)] of Pub. L.
 
 (2) **Transition to the new council composition.—**
 
-  (A) Notwithstanding subsection (b)(1)(B) of this section, members first appointed pursuant to such subsection shall be appointed not later than December 31, 1997. Notwithstanding such subsection, such members shall be appointed to serve until December 31, 1998.
+  (A) Notwithstanding subsection (b)(1)(B), members first appointed pursuant to such subsection shall be appointed not later than December 31, 1997. Notwithstanding such subsection, such members shall be appointed to serve until December 31, 1998.
 
-  (B) Members of the Council serving on the effective date of this subsection may continue to serve on the Council until their current terms expire and new members shall not be appointed under subsection (b)(1)(C) of this section until the number of Presidentially appointed members is less than 14.
+  (B) Members of the Council serving on the effective date of this subsection may continue to serve on the Council until their current terms expire and new members shall not be appointed under subsection (b)(1)(C) until the number of Presidentially appointed members is less than 14.
 
-**(c) Terms of office; vacancies** Each member appointed under subsection (b)(1)(C) of this section shall hold office for a term of six years, and the terms of office shall be staggered. The terms of office of all Council members appointed under subsection (b)(1)(C) of this section shall expire on the third day of September in the year of expiration. No member appointed under subsection (b)(1)(C) of this section shall be eligible for reappointment during the two-year period following the expiration of such member’s term. Any member appointed under subsection (b)(1)(C) of this section appointed 22 So in original. to fill a vacancy shall serve for the remainder of the term for which such member’s predecessor was appointed. Notwithstanding any other provision of this subsection, a member appointed under subsection (b)(1)(C) of this section shall serve after the expiration of such member’s term until such member’s successor takes office.
+**(c) Terms of office; vacancies** Each member appointed under subsection (b)(1)(C) shall hold office for a term of six years, and the terms of office shall be staggered. The terms of office of all Council members appointed under subsection (b)(1)(C) shall expire on the third day of September in the year of expiration. No member appointed under subsection (b)(1)(C) shall be eligible for reappointment during the two-year period following the expiration of such member’s term. Any member appointed under subsection (b)(1)(C) appointed 22 So in original. to fill a vacancy shall serve for the remainder of the term for which such member’s predecessor was appointed. Notwithstanding any other provision of this subsection, a member appointed under subsection (b)(1)(C) shall serve after the expiration of such member’s term until such member’s successor takes office.
 
 **(d) Meetings of Council; quorum; written records**
 
@@ -715,7 +715,7 @@ Subsec. (d)(1). Pub. L. 111–88, § 417(2), substituted “Ten” for “Eight�
 
 The President is requested, in the making of such appointments, to give consideration to such recommendations as may, from time to time, be submitted to the President by leading national organizations in these fields. In making such appointments, the President shall give due regard to equitable representation of women, minorities, and individuals with disabilities who are involved in the arts. Members of the Council shall be appointed so as to represent equitably all geographical areas in the United States.”
 
-Subsec. (c). Pub. L. 105–83, § 346(f), inserted “appointed under subsection (b)(1)(C) of this section” after “member” wherever appearing and after “all Council members” in second sentence.
+Subsec. (c). Pub. L. 105–83, § 346(f), inserted “appointed under subsection (b)(1)(C)” after “member” wherever appearing and after “all Council members” in second sentence.
 
 Subsec. (d)(1). Pub. L. 105–119, which directed the substitution of “eight” for “fourteen”, was executed by substituting “Eight” for “Fourteen” to reflect the probable intent of Congress.
 
@@ -775,7 +775,7 @@ Section, Pub. L. 98–146, title II, Nov. 4, 1983, 97 Stat. 949, which provided 
 
 <a id="section-955b"></a>
 ## § 955b. National Medal of Arts
-**(a) Establishment** There is hereby established a National Medal of Arts, which shall be a medal of such design as is deemed appropriate by the President, on the basis of recommendations submitted by the National Council on the Arts, and which shall be awarded as provided in subsection (b) of this section.
+**(a) Establishment** There is hereby established a National Medal of Arts, which shall be a medal of such design as is deemed appropriate by the President, on the basis of recommendations submitted by the National Council on the Arts, and which shall be awarded as provided in subsection (b).
 
 **(b) Award of Medal; conditions; recipients; presentation ceremonies**
 
@@ -836,7 +836,7 @@ In the case of publications under clause (8) of this subsection such publication
 
 **(d) Coordination and development of Endowment programs with other Federal and non-Federal programs** The Chairperson shall coordinate the programs of the National Endowment for the Humanities, insofar as practicable, with existing Federal programs, designated State humanities agencies and with those undertaken by other public agencies or private groups, and shall develop the programs of the Endowment with due regard to the contribution to the objectives of this subchapter which can be made by other Federal agencies under existing programs.
 
-**(e) Limitation on amount of grant for workshop activities for which an admission or other charge is made to the general public** The total amount of any grant under subsection (c)(3) of this section to any group engaging in workshop activities for which an admission or other charge is made to the general public shall not exceed 30 per centum of the total cost of such activities.
+**(e) Limitation on amount of grant for workshop activities for which an admission or other charge is made to the general public** The total amount of any grant under subsection (c)(3) to any group engaging in workshop activities for which an admission or other charge is made to the general public shall not exceed 30 per centum of the total cost of such activities.
 
 **(f) Grants-in-aid programs; designation of State administrative agency; matching funds; applications and plans; allotments; cost limitations; grants to regional groups; non-Federal funding; definitions; suspension of grants; single entity limitation**
 
@@ -852,7 +852,7 @@ In the case of publications under clause (8) of this subsection such publication
 
     (iii) provides, from State funds, an amount equal to 50 per centum of that portion of Federal financial assistance received by such State under this subsection which is described in the first sentence of paragraph (4) relating to the minimum State grant, or 25 per centum of the total amount of Federal financial assistance received by such State under this subsection, whichever is greater, for the fiscal year involved;
 
-    (iv) provides that funds paid to the State under this subsection will be expended solely on programs approved by the State agency which carry out the objectives of subsection (c) of this section and which are designed to bring the humanities to the public;
+    (iv) provides that funds paid to the State under this subsection will be expended solely on programs approved by the State agency which carry out the objectives of subsection (c) and which are designed to bring the humanities to the public;
 
     (v) provides assurances that State funds will be newly appropriated for the purpose of meeting the requirements of this subparagraph;
 
@@ -882,7 +882,7 @@ In the case of publications under clause (8) of this subsection such publication
 
   (A) provides assurances that the grant recipient will comply with the requirements of paragraph (2)(B);
 
-  (B) provides that funds paid to the grant recipient will be expended solely on programs which carry out the objectives of subsection (c) of this section;
+  (B) provides that funds paid to the grant recipient will be expended solely on programs which carry out the objectives of subsection (c);
 
   (C) establishes a membership policy which is designed to assure broad public representation with respect to programs administered by such grant recipient;
 
@@ -936,7 +936,7 @@ In the case of publications under clause (8) of this subsection such publication
 
   (E) For purposes of paragraph (4)(B), the term “State” and the term “grant recipient” include, in addition to the several States of the Union, only those special jurisdictions specified in [section 952(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section952/g&num=0&edition=prelim) which have a population of 200,000 or more, according to the latest decennial census.
 
-(6) All amounts allotted or made available under paragraph (4) for a fiscal year which are not granted to any entity during such fiscal year shall be available to the National Endowment for the Humanities for the purpose of carrying out subsection (c) of this section.
+(6) All amounts allotted or made available under paragraph (4) for a fiscal year which are not granted to any entity during such fiscal year shall be available to the National Endowment for the Humanities for the purpose of carrying out subsection (c).
 
 (7) Whenever the Chairperson, after reasonable notice and opportunity for hearing, finds that—
 
@@ -973,13 +973,13 @@ In the case of publications under clause (8) of this subsection such publication
 
   (B) The Chairperson, with the advice of the Council, may waive all or part of the requirement of matching funds provided in subparagraph (A) of this paragraph, but only for the purposes described in clause (F) of paragraph (1), whenever he determines that highly meritorious proposals for grants and contracts under such clause, could not otherwise be supported from non-Federal sources or from Federal sources other than funds authorized by [section 960(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section960/a/3&num=0&edition=prelim), unless such matching requirement is waived. Such waiver may not exceed 15 per centum of the amount appropriated in any fiscal year and available to the National Endowment for the Humanities for the purpose of this subsection.
 
-(3) In carrying out the program authorized by this subsection, the Chairperson of the National Endowment for the Humanities shall have the same authority as is established in subsection (c) of this section and [section 959 of this title](./chapter-026-support-and-scholarship-in-humanities-and-arts-museum-services.md#section-959).
+(3) In carrying out the program authorized by this subsection, the Chairperson of the National Endowment for the Humanities shall have the same authority as is established in subsection (c) and [section 959 of this title](./chapter-026-support-and-scholarship-in-humanities-and-arts-museum-services.md#section-959).
 
-**(i) Interagency agreements** The Chairperson may enter into interagency agreements to promote or assist with the humanities-related activities of other Federal agencies, on either a reimbursable or nonreimbursable basis, and may use funds authorized to be appropriated for the purposes of subsection (c) of this section for the costs of such activities.
+**(i) Interagency agreements** The Chairperson may enter into interagency agreements to promote or assist with the humanities-related activities of other Federal agencies, on either a reimbursable or nonreimbursable basis, and may use funds authorized to be appropriated for the purposes of subsection (c) for the costs of such activities.
 
 **(j) Payment of wages at prevailing rates; authority of Secretary of Labor** It shall be a condition of the receipt of any grant under this section that the group or individual of exceptional talent or the State, State agency, or entity receiving such grant furnish adequate assurances to the Secretary of Labor that all laborers and mechanics employed by contractors or subcontractors on construction projects assisted under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Labor shall have, with respect to the labor standards specified in this subsection, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 and [section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim).
 
-**(k) National information and data collection system on humanities, scholars, educational and cultural groups, and audiences; development and implementation plan; state of the humanities reports** The Chairperson of the National Endowment for the Humanities shall, in ongoing consultation with State and local agencies, other relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the humanities, scholars, educational and cultural groups, and their audiences. Such system shall include cultural and financial trends in the various humanities fields, trends in audience participation, and trends in humanities education on national, regional, and State levels. Such system shall be used, along with a summary of the data submitted with plans under subsection (f) of this section, to prepare a report on the state of the humanities in the Nation. The state of the humanities report shall include a description of the availability of the Endowment’s programs to emerging and culturally diverse scholars, cultural and educational organizations, and communities and of the participation of such scholars, organizations, and communities in such programs. The state of the humanities report shall be submitted to the President and the Congress, and provided the States, not later than October 1, 1992, and quadrennially thereafter.
+**(k) National information and data collection system on humanities, scholars, educational and cultural groups, and audiences; development and implementation plan; state of the humanities reports** The Chairperson of the National Endowment for the Humanities shall, in ongoing consultation with State and local agencies, other relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the humanities, scholars, educational and cultural groups, and their audiences. Such system shall include cultural and financial trends in the various humanities fields, trends in audience participation, and trends in humanities education on national, regional, and State levels. Such system shall be used, along with a summary of the data submitted with plans under subsection (f), to prepare a report on the state of the humanities in the Nation. The state of the humanities report shall include a description of the availability of the Endowment’s programs to emerging and culturally diverse scholars, cultural and educational organizations, and communities and of the participation of such scholars, organizations, and communities in such programs. The state of the humanities report shall be submitted to the President and the Congress, and provided the States, not later than October 1, 1992, and quadrennially thereafter.
 
 **(l) Eligibility of group for financial assistance** Any group shall be eligible for financial assistance under this section only if—
 
@@ -1333,7 +1333,7 @@ In making appointments to panels, the Chairperson shall ensure that an individua
 
   (B) Such recipient shall comply with the requirements of this paragraph not later than 90 days after the end of the period for which such financial assistance is provided. The Chairperson may extend the 90-day period only if the recipient shows good cause why such an extension should be granted.
 
-(3) If such recipient substantially fails to satisfy the purposes for which such financial assistance is provided and the criteria specified in subsection (c)(3)(A) 11 So in original. Subsec. (c)(3) of this section does not contain a subpar. (A). of this section, as determined by the Chairperson of the Endowment that provided such financial assistance, then such Chairperson may—
+(3) If such recipient substantially fails to satisfy the purposes for which such financial assistance is provided and the criteria specified in subsection (c)(3)(A),11 So in original. Subsec. (c)(3) does not contain a subpar. (A). as determined by the Chairperson of the Endowment that provided such financial assistance, then such Chairperson may—
 
   (A) for purposes of determining whether to provide any subsequent financial assistance, take into consideration the results of the post-award evaluation conducted under this subsection;
 
@@ -1361,7 +1361,7 @@ Pub. L. 101–512, § 318 [title I, § 109(4)–(7)], redesignated concluding pr
 
 Subsecs. (c) to (e). Pub. L. 101–512, § 318 [title I, § 109(3), (4), (9)], added subsec. (c), redesignated former subsecs. (b) and (c) as (d) and (e), respectively, and struck out former subsec. (e) which related to studies and reports on the state and quality of arts and humanities education in public elementary and secondary schools. Former subsec. (d) redesignated (f).
 
-Subsec. (f). Pub. L. 101–512, § 318 [title I, § 109(2)–(4)], redesignated subsec. (d) as (f) and, in par. (3), substituted “subsection (c)(3)(A) of this section” for “the last sentence of subsection (a) of this section”, and struck out former subsec. (f) which related to report to Congress on selection of experts for appointment to panels, and procedures for recommendations on financial assistance applications.
+Subsec. (f). Pub. L. 101–512, § 318 [title I, § 109(2)–(4)], redesignated subsec. (d) as (f) and, in par. (3), substituted “subsection (c)(3)(A)” for “the last sentence of subsection (a)”, and struck out former subsec. (f) which related to report to Congress on selection of experts for appointment to panels, and procedures for recommendations on financial assistance applications.
 
 1985—Subsec. (a). Pub. L. 99–194, § 110(1), substituted “Chairperson” for “Chairman” in two places in provisions preceding cl. (1); in cl. (1) substituted “the chairperson” and “the chairperson’s” for “he” and “his”, respectively; in cl. (2) substituted “Chairperson” for “Chairman” wherever appearing; in cl. (3) substituted “the Chairperson’s” for “his”; in cl. (4) substituted “[section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim)” for “section 15 of the Administrative Expenses Act of 1946, as amended ([5 U.S.C. 55a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section55a&num=0&edition=prelim))” and struck out proviso that any advisory panel appointed to review or make recommendations with respect to the approval of applications or projects for funding was to have broad geographic and culturally diverse representation; and in provisions following par. (8) substituted “Chairperson” for “Chairman” wherever appearing and inserted provisions relating to the selection of a panel of experts to review financial assistance applications and the considerations to be made in the review of such applications.
 
@@ -1515,9 +1515,9 @@ Pub. L. 105–83, title III, § 330, Nov. 14, 1997, 111 Stat. 1600.
 
 **(b) Availability of appropriated unexpended funds; notice of availability of funds by advance appropriation**
 
-(1) Sums appropriated pursuant to subsection (a) of this section for any fiscal year shall remain available for obligation and expenditure until expended.
+(1) Sums appropriated pursuant to subsection (a) for any fiscal year shall remain available for obligation and expenditure until expended.
 
-(2) In order to afford adequate notice to interested persons of available assistance under this subchapter, appropriations authorized under subsection (a) of this section are authorized to be included in the measure making appropriations for the fiscal year preceding the fiscal year for which such appropriations become available for obligation.
+(2) In order to afford adequate notice to interested persons of available assistance under this subchapter, appropriations authorized under subsection (a) are authorized to be included in the measure making appropriations for the fiscal year preceding the fiscal year for which such appropriations become available for obligation.
 
 **(c) Administrative appropriations**
 

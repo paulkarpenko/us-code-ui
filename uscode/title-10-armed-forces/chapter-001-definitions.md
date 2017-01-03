@@ -174,7 +174,7 @@ source: >-
 
     (iv) Duty performed as a general or flag officer.
 
-    (v) Service as a State director of the Selective Service System under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)).
+    (v) Service as a State director of the Selective Service System under section 10(b)(2) of the Military Selective Service Act ([50 U.S.C. 3809(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3809/b/2&num=0&edition=prelim)).
 
 (7) The term “inactive-duty training” means—
 
@@ -319,6 +319,8 @@ The Atomic Energy Act of 1954, referred to in subsec. (e)(4)(C)(iii), is act Aug
 Pub. L. 107–296, § 1704(b)(1), which directed amendment of [section 101(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/9&num=0&edition=prelim) by substituting of “of Homeland Security” for “of Transportation” wherever appearing, could not be executed because there is no section 101(9).
 
 #### Amendments
+2016—Subsec. (d)(6)(B)(v). Pub. L. 114–328 substituted “([50 U.S.C. 3809(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3809/b/2&num=0&edition=prelim))” for “(50 U.S.C. App. 460(b)(2))”.
+
 2013—Subsec. (a)(13)(B). Pub. L. 112–239 inserted “[section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim),” after “chapter 15 of this title,”.
 
 2011—Subsec. (a)(13)(B). Pub. L. 112–81 inserted “12304a,” after “12304,”.
@@ -453,6 +455,9 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 #### Effective Date of 1958 Amendment
 Pub. L. 85–861, § 33(g), Sept. 2, 1958, 72 Stat. 1568, provided that: “This section [see Tables for classification] is effective as of August 10, 1956, for all purposes.”
 
+#### Short Title of 2016 Amendment
+Pub. L. 114–328, div. E, § 5001, Dec. 23, 2016, 130 Stat. 2894, provided that: “This division [div. E (§§ 5001–5542) of Pub. L. 114–328, see Tables for classification] may be cited as the ‘Military Justice Act of 2016’.”
+
 #### Short Title of 2009 Amendment
 Pub. L. 111–23, § 1(a), May 22, 2009, 123 Stat. 1704, provided that: “This Act [enacting sections 139c, 139d, 2334, and 2433a of this title, amending sections 139a, 181, 2306b, 2366a, 2366b, 2430, 2433, 2434, 2445c, 2501, and 2505 of this title and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, enacting provisions set out as notes under sections 139a, 139c, 181, 2302, 2366a, 2366b, 2430, and 2433a of this title, and amending provisions set out as a note under [section 2304 of this title](./chapter-137-procurement-generally.md#section-2304)] may be cited as the ‘Weapon Systems Acquisition Reform Act of 2009’.”
 
@@ -497,10 +502,46 @@ Authority vested by this title in “military departments”, “the Secretary c
 Authority vested by this title in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see [section 213a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section213a&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Coordination of Certain Sections of an Act With Other Provisions of That Act
-Pub. L. 113–291, div. A, title X, § 1071(k), Dec. 19, 2014, 128 Stat. 3512, provided that: “For purposes of applying amendments made by provisions of this Act other than this section [see Tables for classification], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act. Pub. L. 113–66, div. A, title X, § 1091(f), Dec. 26, 2013, 127 Stat. 877, provided that: “For purposes of applying amendments made by provisions of this Act other than this section [see Tables for classification], the amendments made by this section shall be treated as having been enacted immediately before any amendment made by other provisions of this Act.” Pub. L. 112–239, div. A, title X, § 1076(m), Jan. 2, 2013, 126 Stat. 1956, provided that: “For purposes of applying amendments made by provisions of this Act other than this section [see Tables for classification], the amendments made by this section shall be treated as having been enacted immediately before any amendment made by other provisions of this Act.” Pub. L. 109–364, div. A, title X, § 1071(i), Oct. 17, 2006, 120 Stat. 2403, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section [see Tables for classification], this section shall be treated as having been enacted immediately before the other provisions of this Act.” Pub. L. 107–107, div. A, title X, § 1048(j), Dec. 28, 2001, 115 Stat. 1230, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section [see Tables for classification], this section shall be treated as having been enacted immediately before the other provisions of this Act.” Pub. L. 106–398, § 1 [[div. A], title X, § 1087(h)], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section [section 1087 of H.R. 5408, as enacted by section 1 of Pub. L. 106–398, see Tables for classification], this section shall be treated as having been enacted immediately before the other provisions of this Act.” Pub. L. 106–65, div. A, title X, § 1066(e), Oct. 5, 1999, 113 Stat. 773, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section [see Tables for classification], this section shall be treated as having been enacted immediately before the other provisions of this Act.” Pub. L. 105–261, div. A, title X, § 1069(e), Oct. 17, 1998, 112 Stat. 2137, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section [see Tables for classification], this section shall be treated as having been enacted immediately before the other provisions of this Act.” Pub. L. 105–85, div. A, title X, § 1073(i), Nov. 18, 1997, 111 Stat. 1907, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section [see Tables for classification], this section shall be treated as having been enacted immediately before the other provisions of this Act.” Pub. L. 104–201, div. A, title X, § 1074(e), Sept. 23, 1996, 110 Stat. 2661, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section [see Tables for classification], this section shall be treated as having been enacted immediately before the other provisions of this Act.” Pub. L. 104–106, div. A, title XV, § 1506, Feb. 10, 1996, 110 Stat. 515, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this title [see Tables for classification], this title shall be treated as having been enacted immediately before the other provisions of this Act.” Pub. L. 103–337, div. A, title X, § 1070(h), Oct. 5, 1994, 108 Stat. 2859, provided that: “For purposes of applying amendments made by provisions of this Act other than this section [see Tables for classification], this section shall be treated as having been enacted immediately before the other provisions of this Act.” Pub. L. 103–160, div. A, title XI, § 1182(h), Nov. 30, 1993, 107 Stat. 1774, provided that: “For purposes of applying the amendments made by provisions of this Act other than this section [see Tables for classification], this section shall be treated as having been enacted immediately before the other provisions of this Act.” Pub. L. 102–484, div. A, title X, § 1055, Oct. 23, 1992, 106 Stat. 2503, provided that: “For purposes of applying the amendments made by provisions of this Act other than sections 1052, 1053, and 1054 [see Tables for classification], those sections shall be treated as having been enacted immediately before the other provisions of this Act.”
+Pub. L. 114–328, div. A, title X, § 1081(d), Dec. 23, 2016, 130 Stat. 2420, provided that: “For purposes of applying amendments made by provisions of this Act other than this section [see Tables for classification], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.”
+
+Similar provisions were contained in the following prior acts:
+
+Pub. L. 114–92, div. A, title X, § 1081(e), Nov. 25, 2015, 129 Stat. 1002.
+
+Pub. L. 113–291, div. A, title X, § 1071(k), Dec. 19, 2014, 128 Stat. 3512.
+
+Pub. L. 113–66, div. A, title X, § 1091(f), Dec. 26, 2013, 127 Stat. 877.
+
+Pub. L. 112–239, div. A, title X, § 1076(m), Jan. 2, 2013, 126 Stat. 1956.
+
+Pub. L. 109–364, div. A, title X, § 1071(i), Oct. 17, 2006, 120 Stat. 2403.
+
+Pub. L. 107–107, div. A, title X, § 1048(j), Dec. 28, 2001, 115 Stat. 1230.
+
+Pub. L. 106–398, § 1 [[div. A], title X, § 1087(h)], Oct. 30, 2000, 114 Stat. 1654, 1654A–294.
+
+Pub. L. 106–65, div. A, title X, § 1066(e), Oct. 5, 1999, 113 Stat. 773.
+
+Pub. L. 105–261, div. A, title X, § 1069(e), Oct. 17, 1998, 112 Stat. 2137.
+
+Pub. L. 105–85, div. A, title X, § 1073(i), Nov. 18, 1997, 111 Stat. 1907.
+
+Pub. L. 104–201, div. A, title X, § 1074(e), Sept. 23, 1996, 110 Stat. 2661.
+
+Pub. L. 104–106, div. A, title XV, § 1506, Feb. 10, 1996, 110 Stat. 515.
+
+Pub. L. 103–337, div. A, title X, § 1070(h), Oct. 5, 1994, 108 Stat. 2859.
+
+Pub. L. 103–160, div. A, title XI, § 1182(h), Nov. 30, 1993, 107 Stat. 1774.
+
+Pub. L. 102–484, div. A, title X, § 1055, Oct. 23, 1992, 106 Stat. 2503.
 
 #### Congressional Defense Committees Defined
 The following provisions provided that the term “congressional defense committees” for purposes of the Acts in which they were contained has the meaning given that term in subsec. (a)(16) of this section:
+
+Pub. L. 114–328, § 3, Dec. 23, 2016, 130 Stat. 2025.
+
+Pub. L. 114–92, § 3, Nov. 25, 2015, 129 Stat. 745.
 
 Pub. L. 113–291, § 3, Dec. 19, 2014, 128 Stat. 3312.
 

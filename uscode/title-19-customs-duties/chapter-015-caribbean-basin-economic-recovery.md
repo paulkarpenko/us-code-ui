@@ -58,7 +58,7 @@ Pub. L. 106–200, title II, § 203, May 18, 2000, 114 Stat. 276, provided that:
 
 (1) For purposes of this chapter—
 
-  (A) The term “beneficiary country” means any country listed in subsection (b) of this section with respect to which there is in effect a proclamation by the President designating such country as a beneficiary country for purposes of this chapter. Before the President designates any country as a beneficiary country for purposes of this chapter, he shall notify the House of Representatives and the Senate of his intention to make such designation, together with the considerations entering into such decision.
+  (A) The term “beneficiary country” means any country listed in subsection (b) with respect to which there is in effect a proclamation by the President designating such country as a beneficiary country for purposes of this chapter. Before the President designates any country as a beneficiary country for purposes of this chapter, he shall notify the House of Representatives and the Senate of his intention to make such designation, together with the considerations entering into such decision.
 
   (B) The term “entered” means entered, or withdrawn from warehouse for consumption, in the customs territory of the United States.
 
@@ -137,14 +137,14 @@ Paragraphs (1), (2), (3), (5), and (7) shall not prevent the designation of any 
 
 (1)
 
-  (A) The President may, after the requirements of subsection (a)(2) of this section and paragraph (2) have been met—
+  (A) The President may, after the requirements of subsection (a)(2) and paragraph (2) have been met—
 
     (i) withdraw or suspend the designation of any country as a beneficiary country, or
 
     (ii) withdraw, suspend, or limit the application of duty-free treatment under this chapter to any article of any country,
-    if, after such designation, the President determines that as a result of changed circumstances such country would be barred from designation as a beneficiary country under subsection (b) of this section.
+    if, after such designation, the President determines that as a result of changed circumstances such country would be barred from designation as a beneficiary country under subsection (b).
 
-  (B) The President may, after the requirements of subsection (a)(2) of this section and paragraph (2) have been met—
+  (B) The President may, after the requirements of subsection (a)(2) and paragraph (2) have been met—
 
     (i) withdraw or suspend the designation of any country as a CBTPA beneficiary country; or
 
@@ -173,7 +173,7 @@ Paragraphs (1), (2), (3), (5), and (7) shall not prevent the designation of any 
 
 (1) **In general** — Not later than December 31, 2001, and every 2 years thereafter during the period this chapter is in effect, the United States Trade Representative shall submit to Congress a report regarding the operation of this chapter, including—
 
-  (A) with respect to subsections (b) and (c) of this section, the results of a general review of beneficiary countries based on the considerations described in such subsections; and
+  (A) with respect to subsections (b) and (c), the results of a general review of beneficiary countries based on the considerations described in such subsections; and
 
   (B) the performance of each beneficiary country or CBTPA beneficiary country, as the case may be, under the criteria set forth in [section 2703(b)(5)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2703/b/5/B&num=0&edition=prelim).
 
@@ -257,7 +257,7 @@ Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318
 ## § 2703. Eligible articles
 **(a) Growth, product, or manufacture of beneficiary countries**
 
-(1) Unless otherwise excluded from eligibility by this chapter, and subject to section 423 of the Tax Reform Act of 1986, and except as provided in subsection (b)(2) and (3) of this section, the duty-free treatment provided under this chapter shall apply to any article which is the growth, product, or manufacture of a beneficiary country if—
+(1) Unless otherwise excluded from eligibility by this chapter, and subject to section 423 of the Tax Reform Act of 1986, and except as provided in subsection (b)(2) and (3), the duty-free treatment provided under this chapter shall apply to any article which is the growth, product, or manufacture of a beneficiary country if—
 
   (A) that article is imported directly from a beneficiary country into the customs territory of the United States; and
 
@@ -279,7 +279,7 @@ Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318
 
 (4) Notwithstanding [section 1311 of this title](./chapter-004-tariff-act-of-1930.md#section-1311), the products of a beneficiary country which are imported directly from any beneficiary country into Puerto Rico may be entered under bond for processing or use in manufacturing in Puerto Rico. No duty shall be imposed on the withdrawal from warehouse of the product of such processing or manufacturing if, at the time of such withdrawal, such product meets the requirements of paragraph (1)(B).
 
-(5) The duty-free treatment provided under this chapter shall apply to an article (other than an article listed in subsection (b) of this section) which is the growth, product, or manufacture of the Commonwealth of Puerto Rico if—
+(5) The duty-free treatment provided under this chapter shall apply to an article (other than an article listed in subsection (b)) which is the growth, product, or manufacture of the Commonwealth of Puerto Rico if—
 
   (A) the article is imported directly from the beneficiary country into the customs territory of the United States,
 
@@ -311,7 +311,7 @@ Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318
 
   (E) watches and watch parts (including cases, bracelets, and straps), of whatever type including, but not limited to, mechanical, quartz digital or quartz analog, if such watches or watch parts contain any material which is the product of any country with respect to which HTS column 2 rates of duty apply; or
 
-  (F) articles to which reduced rates of duty apply under subsection (h) of this section.
+  (F) articles to which reduced rates of duty apply under subsection (h).
 
 (2) **Transition period treatment of certain textile and apparel articles**
 
@@ -446,9 +446,9 @@ Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318
 
       (I) the article of footwear is the growth, product, or manufacture of a CBTPA beneficiary country; and
 
-      (II) the article otherwise meets the requirements of subsection (a) of this section, except that in applying such subsection, “CBTPA beneficiary country” shall be substituted for “beneficiary country” each place it appears.
+      (II) the article otherwise meets the requirements of subsection (a), except that in applying such subsection, “CBTPA beneficiary country” shall be substituted for “beneficiary country” each place it appears.
 
-  (B) *Relationship to subsection (h) duty reductions* — If at any time during the transition period the rate of duty that would (but for action taken under subparagraph (A)(i) in regard to such period) apply with respect to any article under subsection (h) of this section is a rate of duty that is lower than the rate of duty resulting from such action, then such lower rate of duty shall be applied for the purposes of implementing such action.
+  (B) *Relationship to subsection (h) duty reductions* — If at any time during the transition period the rate of duty that would (but for action taken under subparagraph (A)(i) in regard to such period) apply with respect to any article under subsection (h) is a rate of duty that is lower than the rate of duty resulting from such action, then such lower rate of duty shall be applied for the purposes of implementing such action.
 
 (4) **Customs procedures**
 
@@ -769,7 +769,7 @@ Subsec. (b)(2)(A)(vii)(V). Pub. L. 107–210, § 3107(a)(6), added subcl. (V).
 
 Subsec. (b)(2)(A)(ix). Pub. L. 107–210, § 3107(a)(7), added cl. (ix).
 
-2000—Subsec. (a)(1). Pub. L. 106–200, § 211(e)(1)(B), inserted “and except as provided in subsection (b)(2) and (3) of this section,” after “Tax Reform Act of 1986,” in introductory provisions.
+2000—Subsec. (a)(1). Pub. L. 106–200, § 211(e)(1)(B), inserted “and except as provided in subsection (b)(2) and (3),” after “Tax Reform Act of 1986,” in introductory provisions.
 
 Subsec. (a)(5). Pub. L. 106–200, § 212(1), made technical amendment to reference in original act which appears in text as reference to this chapter.
 
@@ -889,7 +889,7 @@ Amendment by Pub. L. 98–573 effective on 15th day after Oct. 30, 1984, see sec
 For termination, effective May 15, 2000, of provisions in subsec. (c)(4) relating to submitting a written report to Congress by March 15 following the close of each biennium, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 25 of House Document No. 103–7.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Entries of Certain Apparel Articles Pursuant to the Caribbean Basin Economic Recovery Act
 Pub. L. 108–429, title II, § 2004(g), Dec. 3, 2004, 118 Stat. 2593, provided that: “(1) In general.—Notwithstanding section 514 of the Tariff Act of 1930 ([19 U.S.C. 1514](./chapter-004-tariff-act-of-1930.md#section-1514)) or any other provision of law, the Customs Service [Bureau of Customs and Border Protection] shall liquidate or reliquidate as free of duty and free of any quantitative restrictions, limitations, or consultation levels entries of articles described in paragraph (4) made on or after October 1, 2000. “(2) Requests.—Liquidation or reliquidation may be made under paragraph (1) with respect to an entry described in paragraph (4) only if a request therefor is filed with the Customs Service within 90 days after the date of the enactment of this Act [Dec. 3, 2004] and the request contains sufficient information to enable the Customs Service to locate the entry or reconstruct the entry if it cannot be located. “(3) Payment of amounts owed.—Any amounts owed by the United States pursuant to the liquidation or reliquidation of any entry under paragraph (1) shall be paid not later than 180 days after the date of such liquidation or reliquidation. “(4) Entries.—The entries referred to in paragraph (1) are entries of apparel articles (other than socks provided for in heading 6115 of the Harmonized Tariff Schedule of the United States [see Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202)]) that meet the requirements of section 213(b)(2)(A) of the Caribbean Basin Economic Recovery Act [[19 U.S.C. 2703(b)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2703/b/2/A&num=0&edition=prelim)] (as amended by section 3107(a) of the Trade Act of 2002 [Pub. L. 107–210] and subsection (b) of this section).”
@@ -1051,7 +1051,7 @@ Sec. 11. Judicial Review. This order does not create any right or benefit, subst
 
   (bb) 55 percent or more during the 1-year period beginning on December 20, 2015, and the 1-year period beginning on December 20, 2016; and
 
-  (cc) 60 percent or more during the 1-year period beginning on December 20, 2017.
+  (cc) 60 percent or more during the 1-year period beginning on December 20, 2017, and each of the 7 succeeding 1-year periods.
 
 (II) **Foreign material** — The term “foreign material” means a material produced in a country other than Haiti or any country described in clause (iii).
 
@@ -1101,7 +1101,7 @@ Sec. 11. Judicial Review. This order does not create any right or benefit, subst
 
     (bb) any fabric or yarn described in subclause (I)(bb) was designated as not being available in commercial quantities,
 
-(C) **Quantitative limitations** — The preferential treatment described in subparagraph (A) shall be extended, during each of the 1-year periods set forth in the following table, to not more than the corresponding percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the most recent 12-month period for which data are available: During:the corresponding percentage is: the initial applicable 1-year period1 percent. each of the succeeding 11 1-year periods1.25 percent. No preferential treatment shall be provided under subparagraph (A) after December 19, 2018.
+(C) **Quantitative limitations** — The preferential treatment described in subparagraph (A) shall be extended, during each of the 1-year periods set forth in the following table, to not more than the corresponding percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the most recent 12-month period for which data are available: During:the corresponding percentage is: the initial applicable 1-year period1 percent. each of the 16 succeeding 1-year periods1.25 percent. No preferential treatment shall be provided under subparagraph (A) after December 19, 2025.
 
 (D) **Other preferential treatment not affected by quantitative limitations** — Any apparel article that qualifies for preferential treatment under paragraph (2), (3), (4), or (5) or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitations under subparagraph (C).
 
@@ -1111,7 +1111,7 @@ Sec. 11. Judicial Review. This order does not create any right or benefit, subst
 
     (i) *General rule* — Any apparel article classifiable under chapter 62 of the HTS that is wholly assembled, or knit-to-shape, in Haiti from any combination of fabrics, fabric components, components knit-to-shape, or yarns and is imported directly from Haiti or the Dominican Republic shall enter the United States free of duty, subject to clauses (ii) and (iii), without regard to the source of the fabric, fabric components, components knit-to-shape, or yarns from which the article is made.
 
-    (ii) *Limitation* — Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 11 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
+    (ii) *Limitation* — Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 16 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
 
     (iii) *Other preferential treatment not affected by quantitative limitation* — Any apparel article that qualifies for preferential treatment under paragraph (1), (3), (4), or (5) or subparagraph (B) of this paragraph or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitation under clause (ii).
 
@@ -1139,7 +1139,7 @@ Sec. 11. Judicial Review. This order does not create any right or benefit, subst
 
       (IV) Sweatshirts for men or boys, of man-made fibers and containing less than 65 percent by weight of man-made fibers, that are classifiable under subheading 6110.30.30 of the HTS.
 
-    (iii) *Limitation* — Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 11 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
+    (iii) *Limitation* — Except as provided in paragraph (2A), the preferential treatment described in clause (i) shall be extended, in the 1-year period beginning October 1, 2008, and in each of the 16 succeeding 1-year periods, to not more than 70,000,000 square meter equivalents of apparel articles described in such clause.
 
     (iv) *Other preferential treatment not affected by quantitative limitation* — Any apparel article that qualifies for preferential treatment under paragraph (1), (3), (4), or (5) or subparagraph (A) of this paragraph or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitation under clause (iii). (2A) Special rule for certain woven articles and certain knit articles entered during fiscal year 2010 and succeeding 1-year periods
 
@@ -1519,7 +1519,7 @@ Sec. 11. Judicial Review. This order does not create any right or benefit, subst
 
 **(g) Regulations** The President shall issue regulations to carry out this section not later than 180 days after December 20, 2006. The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate in preparing such regulations.
 
-**(h) Termination** Except as provided in subsection (b)(1), the duty-free treatment provided under this section shall remain in effect until September 30, 2020.
+**(h) Termination** Except as provided in subsection (b)(1), the duty-free treatment provided under this section shall remain in effect until September 30, 2025.
 
 ### Statutory Notes
 
@@ -1534,6 +1534,16 @@ The date of the enactment of the Haitian Hemispheric Opportunity through Partner
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2015—Subsec. (b)(1)(B)(v)(I)(cc). Pub. L. 114–27, § 301(1)(A)(i), amended item (cc) generally. Prior to amendment, item (cc) read as follows: “60 percent or more during the 1-year period beginning on December 20, 2017.”
+
+Subsec. (b)(1)(C). Pub. L. 114–27, § 301(1)(A)(ii), substituted “16 succeeding 1-year periods” for “succeeding 11 1-year periods” in table and “December 19, 2025” for “December 19, 2018” in concluding provisions.
+
+Subsec. (b)(2)(A)(ii). Pub. L. 114–27, § 301(1)(B)(i), substituted “16 succeeding 1-year periods” for “11 succeeding 1-year periods”.
+
+Subsec. (b)(2)(B)(iii). Pub. L. 114–27, § 301(1)(B)(ii), substituted “16 succeeding 1-year periods” for “11 succeeding 1-year periods”.
+
+Subsec. (h). Pub. L. 114–27, § 301(2), substituted “September 30, 2025” for “September 30, 2020”.
+
 2012—Subsec. (b)(4)(C), (D). Pub. L. 112–234, which directed amendment of section 231A(b)(4) of the Caribbean Basin Economic Recovery Act by redesignating subpar. (D) as (C) and striking out former subpar. (C), was executed to this section, which is section 213A of the Caribbean Basin Economic Recovery Act, to reflect the probable intent of Congress. Prior to amendment, text of subpar. (C) read as follows: “The United States Government Accountability Office shall review the program established under subparagraph (B) annually for the purpose of evaluating the effectiveness of, and making recommendations for improvements in, the program.”
 
 2010—Subsec. (a)(1). Pub. L. 111–171, § 7(1), added par. (1) and struck out former par. (1) which defined “applicable 1-year period”, “initial applicable 1-year period”, “second applicable 1-year period”, “third applicable 1-year period”, “fourth applicable 1-year period”, and “fifth applicable 1-year period” in subpars. (A) to (F), respectively.
@@ -1670,7 +1680,7 @@ Pub. L. 110–234, title XV, § 15406, May 22, 2008, 122 Stat. 1546, and Pub. L.
 
 **(b) Requisite areas of Commission assessment**
 
-(1) Each report required under subsection (a) of this section shall include, but not be limited to, an assessment by the Commission regarding—
+(1) Each report required under subsection (a) shall include, but not be limited to, an assessment by the Commission regarding—
 
   (A) the actual effect, during the period covered by the report, of this Act on the United States economy generally as well as on those specific domestic industries which produce articles that are like, or directly competitive with, articles being imported into the United States from beneficiary countries; and
 
@@ -1684,7 +1694,7 @@ Pub. L. 110–234, title XV, § 15406, May 22, 2008, 122 Stat. 1546, and Pub. L.
 
 **(c) Time of submission of reports; public participation**
 
-(1) Each report required under subsection (a) of this section shall be submitted to the Congress and to the President before the close of the nine-month period beginning on the day after the last day of the period covered by the report.
+(1) Each report required under subsection (a) shall be submitted to the Congress and to the President before the close of the nine-month period beginning on the day after the last day of the period covered by the report.
 
 (2) The Commission shall provide opportunity for the submission by the public, either orally or in writing, or both, of information relating to matters that will be addressed in the reports.
 
@@ -1795,7 +1805,7 @@ Each subsequent report shall include information with respect to the operations 
 Subsec. (h)(1), (2). Pub. L. 104–295, § 21(d)(2), substituted semicolon for comma after “Center”.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Authorization of Appropriations
 Pub. L. 103–182, title V, § 515(b), Dec. 8, 1993, 107 Stat. 2159, provided that: “There are authorized to be appropriated $10,000,000 for fiscal year 1994, and such sums as may be necessary in the 3 succeeding fiscal years to carry out the purposes of section 219 of the Caribbean Basin Economic Recovery Act [[19 U.S.C. 2707](./chapter-015-caribbean-basin-economic-recovery.md#section-2707)] (as added by subsection (a)).”

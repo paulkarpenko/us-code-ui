@@ -10,9 +10,9 @@ source: >-
 ## § 1701. Vulnerability and threat assessment
 **(a) Study** The Under Secretary of Homeland Security for Border and Transportation Security, in consultation with the Under Secretary of Homeland Security for Science and Technology and the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection, shall study the technology, equipment, and personnel needed to address security vulnerabilities within the United States for each field office of the Bureau of Customs and Border Protection that has responsibility for any portion of the United States borders with Canada and Mexico. The Under Secretary shall conduct follow-up studies at least once every 5 years.
 
-**(b) Report to Congress** The Under Secretary shall submit a report to Congress on the Under Secretary’s findings and conclusions from each study conducted under subsection (a) of this section together with legislative recommendations, as appropriate, for addressing any security vulnerabilities found by the study.
+**(b) Report to Congress** The Under Secretary shall submit a report to Congress on the Under Secretary’s findings and conclusions from each study conducted under subsection (a) together with legislative recommendations, as appropriate, for addressing any security vulnerabilities found by the study.
 
-**(c) Authorization of appropriations** There are authorized to be appropriated to the Department of Homeland Security Directorate of Border and Transportation Security such sums as may be necessary for fiscal years 2006 through 2011 to carry out any such recommendations from the first study conducted under subsection (a) of this section.
+**(c) Authorization of appropriations** There are authorized to be appropriated to the Department of Homeland Security Directorate of Border and Transportation Security such sums as may be necessary for fiscal years 2006 through 2011 to carry out any such recommendations from the first study conducted under subsection (a).
 
 ### Statutory Notes
 
@@ -63,7 +63,7 @@ In this chapter:
 
 (5) **Intelligence community** — The term “intelligence community” has the meaning given that term in [section 3003(4) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim).
 
-(6) **President** — The term “President” means the President of the United States, acting through the Assistant to the President for Homeland Security, in coordination with the Secretary of State, the Commissioner of Immigration and Naturalization, the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Secretary of Transportation, the Commissioner of Customs, and the Secretary of the Treasury.
+(6) **President** — The term “President” means the President of the United States, acting through the Assistant to the President for Homeland Security, in coordination with the Secretary of State, the Commissioner of Immigration and Naturalization, the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Secretary of Transportation, the Commissioner of U.S. Customs and Border Protection, and the Secretary of the Treasury.
 
 (7) **USA PATRIOT Act** — The term “USA PATRIOT Act” means the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 (Public Law 107–56).
 
@@ -80,6 +80,8 @@ The Uniting and Strengthening America by Providing Appropriate Tools Required to
 2002—Par. (4)(J). Pub. L. 107–296 substituted “Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “Bureau of Alcohol, Tobacco, and Firearms”.
 
 #### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in par. (6) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under [section 3001 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim), War and National Defense.
@@ -91,7 +93,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 Pub. L. 107–173, § 1(a), May 14, 2002, 116 Stat. 543, provided that: “This Act [enacting this chapter, amending sections 1187, 1201, 1221, 1356, 1372, and 1379 of this title, enacting provisions set out as notes under [section 1221 of this title](./chapter-012-immigration-and-nationality.md#section-1221), and amending provisions set out as notes under sections 1101, 1351, and 1365a of this title] may be cited as the ‘Enhanced Border Security and Visa Entry Reform Act of 2002’.”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -224,7 +226,7 @@ Pub. L. 109–472, § 6, Jan. 11, 2007, 120 Stat. 3555, provided that: “(a) In
 
 <a id="section-1722"></a>
 ## § 1722. Interim measures for access to and coordination of law enforcement and other information
-**(a) Interim directive** Until the plan required by subsection (c) of this section is implemented, Federal law enforcement agencies and the intelligence community shall, to the maximum extent practicable, share any information with the Department of State and the Immigration and Naturalization Service relevant to the admissibility and deportability of aliens, consistent with the plan described in subsection (c) of this section.
+**(a) Interim directive** Until the plan required by subsection (c) is implemented, Federal law enforcement agencies and the intelligence community shall, to the maximum extent practicable, share any information with the Department of State and the Immigration and Naturalization Service relevant to the admissibility and deportability of aliens, consistent with the plan described in subsection (c).
 
 **(b) Report identifying law enforcement and intelligence information**
 
@@ -234,11 +236,11 @@ Pub. L. 109–472, § 6, Jan. 11, 2007, 120 Stat. 3555, provided that: “(a) In
 
 **(c) Coordination plan**
 
-(1) **Requirement for plan** — Not later than one year after October 26, 2001, the President shall develop and implement a plan based on the findings of the report under subsection (b) of this section that requires Federal law enforcement agencies and the intelligence community to provide to the Department of State and the Immigration and Naturalization Service all information identified in that report as expeditiously as practicable.
+(1) **Requirement for plan** — Not later than one year after October 26, 2001, the President shall develop and implement a plan based on the findings of the report under subsection (b) that requires Federal law enforcement agencies and the intelligence community to provide to the Department of State and the Immigration and Naturalization Service all information identified in that report as expeditiously as practicable.
 
 (2) **Consultation requirement** — In the preparation and implementation of the plan under this subsection, the President shall consult with the appropriate committees of Congress.
 
-(3) **Protections regarding information and uses thereof** — The plan under this subsection shall establish conditions for using the information described in subsection (b) of this section received by the Department of State and Immigration and Naturalization Service—
+(3) **Protections regarding information and uses thereof** — The plan under this subsection shall establish conditions for using the information described in subsection (b) received by the Department of State and Immigration and Naturalization Service—
 
   (A) to limit the redissemination of such information;
 
@@ -302,9 +304,9 @@ Pub. L. 109–13, div. B, title III, § 303, May 11, 2005, 119 Stat. 317, provid
 
 **(b) Name-search capacity and support**
 
-(1) **In general** — The interoperable electronic data system required by subsection (a) of this section shall—
+(1) **In general** — The interoperable electronic data system required by subsection (a) shall—
 
-  (A) have the capacity to compensate for disparate name formats among the different databases referred to in subsection (a) of this section;
+  (A) have the capacity to compensate for disparate name formats among the different databases referred to in subsection (a);
 
   (B) be searchable on a linguistically sensitive basis;
 
@@ -392,7 +394,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 ## § 1731. Personnel management authorities for positions involved in the development and implementation of the interoperable electronic data system (“Chimera system”)
 **(a) In general** Notwithstanding any other provision of law relating to position classification or employee pay or performance, the Attorney General may hire and fix the compensation of necessary scientific, technical, engineering, and other analytical personnel for the purpose of the development and implementation of the interoperable electronic data system described in [section 1722(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1722/a/2&num=0&edition=prelim) (also known as the “Chimera system”).
 
-**(b) Limitation on rate of pay** Except as otherwise provided by law, no employee compensated under subsection (a) of this section may be paid at a rate in excess of the rate payable for a position at level III of the Executive Schedule.
+**(b) Limitation on rate of pay** Except as otherwise provided by law, no employee compensated under subsection (a) may be paid at a rate in excess of the rate payable for a position at level III of the Executive Schedule.
 
 **(c) Limitation on total calendar year payments** Total payments to employees under any system established under this section shall be subject to the limitation on payments to employees under [section 5307 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5307&num=0&edition=prelim).
 
@@ -423,7 +425,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 (3) make interoperable all security databases relevant to making determinations of admissibility under [section 1182 of this title](./chapter-012-immigration-and-nationality.md#section-1182).
 
-**(b) Implementation** In implementing the provisions of subsection (a) of this section, the Immigration and Naturalization Service and the Department of State shall—
+**(b) Implementation** In implementing the provisions of subsection (a), the Immigration and Naturalization Service and the Department of State shall—
 
 (1) utilize technologies that facilitate the lawful and efficient cross-border movement of commerce and persons without compromising the safety and security of the United States; and
 
@@ -444,9 +446,9 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 (1) **In general** — Not later than 180 days after May 14, 2002, the Attorney General, the Secretary of State, and the National Institute of Standards and Technology (NIST), acting jointly, shall submit to the appropriate committees of Congress a comprehensive report assessing the actions that will be necessary, and the considerations to be taken into account, to achieve fully, not later than October 26, 2004—
 
-  (A) implementation of the requirements of subsections (b) and (c) of this section; and
+  (A) implementation of the requirements of subsections (b) and (c); and
 
-  (B) deployment of the equipment and software to allow biometric comparison and authentication of the documents described in subsections (b) and (c) of this section.
+  (B) deployment of the equipment and software to allow biometric comparison and authentication of the documents described in subsections (b) and (c).
 
 (2) **Estimates** — In addition to the assessment required by paragraph (1), the report required by that paragraph shall include an estimate of the costs to be incurred, and the personnel, man-hours, and other support required, by the Department of Justice, the Department of State, and NIST to achieve the objectives of subparagraphs (A) and (B) of paragraph (1).
 
@@ -456,29 +458,27 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 (2) **Readers and scanners at ports of entry**
 
-  (A) *In general* — Not later than October 26, 2005, the Attorney General, in consultation with the Secretary of State, shall install at all ports of entry of the United States equipment and software to allow biometric comparison and authentication of all United States visas and other travel and entry documents issued to aliens, and passports issued pursuant to subsection (c)(1) of this section.
+  (A) *In general* — Not later than October 26, 2005, the Attorney General, in consultation with the Secretary of State, shall install at all ports of entry of the United States equipment and software to allow biometric comparison and authentication of all United States visas and other travel and entry documents issued to aliens, and passports issued pursuant to subsection (c)(1).
 
   (B) *Use of readers and scanners* — The Attorney General, in consultation with the Secretary of State, shall utilize biometric data readers and scanners that—
 
     (i) domestic and international standards organizations determine to be highly accurate when used to verify identity;
 
-    (ii) can read the biometric identifiers utilized under subsections (b)(1) and (c)(1) of this section; and
+    (ii) can read the biometric identifiers utilized under subsections (b)(1) and (c)(1); and
 
     (iii) can authenticate the document presented to verify identity.
 
 (3) **Use of technology standard** — The systems employed to implement paragraphs (1) and (2) shall utilize the technology standard established pursuant to [section 1379 of this title](./chapter-012-immigration-and-nationality.md#section-1379).
 
-**(c) Technology standard for visa waiver participants**
-
-(1) **Certification requirement** — Not later than October 26, 2005, the government of each country that is designated to participate in the visa waiver program established under [section 1187 of this title](./chapter-012-immigration-and-nationality.md#section-1187) shall certify, as a condition for designation or continuation of that designation, that it has a program to issue to its nationals machine-readable passports that are tamper-resistant and incorporate biometric and document authentication identifiers that comply with applicable biometric and document identifying standards established by the International Civil Aviation Organization. This paragraph shall not be construed to rescind the requirement of [section 1187(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1187/a/3&num=0&edition=prelim).
-
-(2) **Use of technology standard** — On and after October 26, 2005, any alien applying for admission under the visa waiver program under [section 1187 of this title](./chapter-012-immigration-and-nationality.md#section-1187) shall present a passport that meets the requirements of paragraph (1) unless the alien’s passport was issued prior to that date.
+**(c) Repealed. Pub. L. 114–113, div. O, title II, § 202(c), Dec. 18, 2015, 129 Stat. 2989**
 
 **(d) Authorization of appropriations** There are authorized to be appropriated such sums as may be necessary to carry out this section, including reimbursement to international and domestic standards organizations.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (c). Pub. L. 114–113 struck out subsec. (c), which related to technology standard for visa waiver participants.
+
 2004—Subsecs. (b)(2)(A), (c)(1), (2). Pub. L. 108–299 substituted “2005” for “2004”.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
@@ -489,7 +489,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 ## § 1734. Terrorist lookout committees
 **(a) Establishment** The Secretary of State shall require a terrorist lookout committee to be maintained within each United States mission to a foreign country.
 
-**(b) Purpose** The purpose of each committee established under subsection (a) of this section shall be—
+**(b) Purpose** The purpose of each committee established under subsection (a) shall be—
 
 (1) to utilize the cooperative resources of all elements of the United States mission in the country in which the consular post is located to identify known or potential terrorists and to develop information on those individuals;
 
@@ -499,9 +499,9 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 **(c) Composition; chair** The Secretary shall establish rules governing the composition of such committees.
 
-**(d) Meetings** Each committee established under subsection (a) of this section shall meet at least monthly to share information pertaining to the committee’s purpose as described in subsection (b)(2) of this section.
+**(d) Meetings** Each committee established under subsection (a) shall meet at least monthly to share information pertaining to the committee’s purpose as described in subsection (b)(2).
 
-**(e) Periodic reports to the Secretary of State** Each committee established under subsection (a) of this section shall submit monthly reports to the Secretary of State describing the committee’s activities, whether or not information on known or suspected terrorists was developed during the month.
+**(e) Periodic reports to the Secretary of State** Each committee established under subsection (a) shall submit monthly reports to the Secretary of State describing the committee’s activities, whether or not information on known or suspected terrorists was developed during the month.
 
 **(f) Repealed. Pub. L. 113–235, div. J, title VII, § 7034(i), Dec. 16, 2014, 128 Stat. 2624**
 
@@ -517,7 +517,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 ## § 1735. Improved training for consular officers
 **(a) Training** The Secretary of State shall require that all consular officers responsible for adjudicating visa applications, before undertaking to perform consular responsibilities, receive specialized training in the effective screening of visa applicants who pose a potential threat to the safety or security of the United States. Such officers shall be specially and extensively trained in the identification of aliens inadmissible under section 1182(a)(3)(A) and (B) of this title, interagency and international intelligence sharing regarding terrorists and terrorism, and cultural-sensitivity toward visa applicants. In accordance with [section 1776 of this title](./chapter-015-enhanced-border-security-and-visa-entry-reform.md#section-1776), and as part of the consular training provided to such officers by the Secretary of State, such officers shall also receive training in detecting fraudulent documents and general document forensics and shall be required as part of such training to work with immigration officers conducting inspections of applicants for admission into the United States at ports of entry.
 
-**(b) Use of foreign intelligence information** As an ongoing component of the training required in subsection (a) of this section, the Secretary of State shall coordinate with the Assistant to the President for Homeland Security, Federal law enforcement agencies, and the intelligence community to compile and disseminate to the Bureau of Consular Affairs reports, bulletins, updates, and other current unclassified information relevant to terrorists and terrorism and to screening visa applicants who pose a potential threat to the safety or security of the United States.
+**(b) Use of foreign intelligence information** As an ongoing component of the training required in subsection (a), the Secretary of State shall coordinate with the Assistant to the President for Homeland Security, Federal law enforcement agencies, and the intelligence community to compile and disseminate to the Bureau of Consular Affairs reports, bulletins, updates, and other current unclassified information relevant to terrorists and terrorism and to screening visa applicants who pose a potential threat to the safety or security of the United States.
 
 **(c) Authorization of appropriations** There are authorized to be appropriated such sums as may be necessary to implement this section.
 
@@ -537,7 +537,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 (2) **Laws under which determinations were made** — The laws specified in this paragraph are the following:
 
-  (A) [Section 2405(j)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2405/j/1/A&num=0&edition=prelim), Appendix (or successor statute).
+  (A) [Section 4605(j)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1/A&num=0&edition=prelim) (or successor statute).
 
   (B) [Section 2780(d) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780/d&num=0&edition=prelim).
 
@@ -568,7 +568,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 (2) **Entry of information on previously lost or stolen passports** — To the extent practicable, the Attorney General, in consultation with the Secretary of State, shall enter into such system the corresponding identification numbers for the United States and foreign passports lost or stolen prior to the implementation of such system.
 
-**(b) Transition period** Until such time as the law enforcement and intelligence data system described in [section 1722 of this title](./chapter-015-enhanced-border-security-and-visa-entry-reform.md#section-1722) is fully implemented, the Attorney General shall enter the data described in subsection (a) of this section into an existing data system being used to determine the admissibility or deportability of aliens.
+**(b) Transition period** Until such time as the law enforcement and intelligence data system described in [section 1722 of this title](./chapter-015-enhanced-border-security-and-visa-entry-reform.md#section-1722) is fully implemented, the Attorney General shall enter the data described in subsection (a) into an existing data system being used to determine the admissibility or deportability of aliens.
 
 ### Statutory Notes
 
@@ -591,7 +591,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 ## § 1752. Study of the feasibility of a North American National Security Program
 **(a) In general** The President shall conduct a study of the feasibility of establishing a North American National Security Program to enhance the mutual security and safety of the United States, Canada, and Mexico.
 
-**(b) Study elements** In conducting the study required by subsection (a) of this section, the President shall consider the following:
+**(b) Study elements** In conducting the study required by subsection (a), the President shall consider the following:
 
 (1) **Preclearance** — The feasibility of establishing a program enabling foreign national travelers to the United States to submit voluntarily to a preclearance procedure established by the Department of State and the Immigration and Naturalization Service to determine whether such travelers are admissible to the United States under [section 1182 of this title](./chapter-012-immigration-and-nationality.md#section-1182). Consideration shall be given to the feasibility of expanding the preclearance program to include the preclearance both of foreign nationals traveling to Canada and foreign nationals traveling to Mexico.
 
@@ -599,7 +599,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 (3) **Conditions** — A determination of the measures necessary to ensure that the conditions required by [section 1225a(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1225a/a/5&num=0&edition=prelim) are satisfied, including consultation with experts recognized for their expertise regarding the conditions required by that section.
 
-**(c) Report** Not later than 1 year after May 14, 2002, the President shall submit to the appropriate committees of Congress a report setting forth the findings of the study conducted under subsection (a) of this section.
+**(c) Report** Not later than 1 year after May 14, 2002, the President shall submit to the appropriate committees of Congress a report setting forth the findings of the study conducted under subsection (a).
 
 **(d) Authorization of appropriations** There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
@@ -648,9 +648,9 @@ Section was enacted as part of the Implementing Recommendations of the 9/11 Comm
 ## § 1761. Joint United States-Canada projects for alternative inspections services
 **(a) In general** United States border inspections agencies, including the Immigration and Naturalization Service, acting jointly and under an agreement of cooperation with the Government of Canada, may conduct joint United States-Canada inspections projects on the international border between the two countries. Each such project may provide alternative inspections services and shall undertake to harmonize the criteria for inspections applied by the two countries in implementing those projects.
 
-**(b) Annual report** The Attorney General and the Secretary of the Treasury shall prepare and submit annually to Congress a report on the joint United States-Canada inspections projects conducted under subsection (a) of this section.
+**(b) Annual report** The Attorney General and the Secretary of the Treasury shall prepare and submit annually to Congress a report on the joint United States-Canada inspections projects conducted under subsection (a).
 
-**(c) Exemption from Administrative Procedure Act and Paperwork Reduction Act** Subchapter II of chapter 5 of title 5 (commonly referred to as the “Administrative Procedure Act”) and chapter 35 of title 44 (commonly referred to as the “Paperwork Reduction Act”) shall not apply to fee setting for services and other administrative requirements relating to projects described in subsection (a) of this section, except that fees and forms established for such projects shall be published as a notice in the Federal Register.
+**(c) Exemption from Administrative Procedure Act and Paperwork Reduction Act** Subchapter II of chapter 5 of title 5 (commonly referred to as the “Administrative Procedure Act”) and chapter 35 of title 44 (commonly referred to as the “Paperwork Reduction Act”) shall not apply to fee setting for services and other administrative requirements relating to projects described in subsection (a), except that fees and forms established for such projects shall be published as a notice in the Federal Register.
 
 ### Statutory Notes
 
@@ -735,7 +735,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 (2) **Nonimmigrant alien defined** — In paragraph (1), the term “nonimmigrant alien” means an alien described in [section 1101(a)(15) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15&num=0&edition=prelim).
 
-**(b) Report** Not later than 1 year after May 14, 2002, the Comptroller General shall submit to Congress a report on the results of the study under subsection (a) of this section. The report shall include the Comptroller General’s findings, together with any recommendations that the Comptroller General considers appropriate.
+**(b) Report** Not later than 1 year after May 14, 2002, the Comptroller General shall submit to Congress a report on the results of the study under subsection (a). The report shall include the Comptroller General’s findings, together with any recommendations that the Comptroller General considers appropriate.
 
 ### Statutory Notes
 
@@ -756,7 +756,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 (3) performs in accordance with implementation of the technology standard referred to in [section 1722(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1722/a&num=0&edition=prelim).
 
-**(b) Report** Not later than 1 year after May 14, 2002, the Secretary of State and the Attorney General shall submit to the appropriate committees of Congress a report setting forth the findings of the study conducted under subsection (a) of this section.
+**(b) Report** Not later than 1 year after May 14, 2002, the Secretary of State and the Attorney General shall submit to the appropriate committees of Congress a report setting forth the findings of the study conducted under subsection (a).
 
 ### Statutory Notes
 
@@ -782,7 +782,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 ## § 1775. Annual report on aliens who fail to appear after release on own recognizance
 **(a) Requirement for report** Not later than January 15 of each year, the Attorney General shall submit to the appropriate committees of Congress a report on the total number of aliens who, during the preceding year, failed to attend a removal proceeding after having been arrested outside a port of entry, served a notice to appear under [section 1229(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1229/a/1&num=0&edition=prelim), and released on the alien’s own recognizance. The report shall also take into account the number of cases in which there were defects in notices of hearing or the service of notices of hearing, together with a description and analysis of the effects, if any, that the defects had on the attendance of aliens at the proceedings.
 
-**(b) Initial report** Notwithstanding the time for submission of the annual report provided in subsection (a) of this section, the report for 2001 shall be submitted not later than 6 months after May 14, 2002.
+**(b) Initial report** Notwithstanding the time for submission of the annual report provided in subsection (a), the report for 2001 shall be submitted not later than 6 months after May 14, 2002.
 
 ### Statutory Notes
 

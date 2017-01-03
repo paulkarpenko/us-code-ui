@@ -44,7 +44,7 @@ Based on 44 U.S. Code, 1964 ed., § 85 (part) (Mar. 1, 1907, ch. 2284, § 4, 34 
 The last paragraph of former section 85 will be found in section 1906 of the revision.
 
 #### Change of Name
-“Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
+“Government Publishing Office” substituted for “Government Printing Office” in second par. on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
 
 
 <a id="section-1904"></a>

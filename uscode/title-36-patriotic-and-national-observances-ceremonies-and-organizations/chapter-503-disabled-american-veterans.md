@@ -2,7 +2,7 @@
 title: 36
 chapter: '503'
 heading: DISABLED AMERICAN VETERANS
-section_count: 8
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36&num=0&edition=prelim
 ---
@@ -27,7 +27,7 @@ This section is substituted for the source provisions for consistency in the rev
 <a id="section-50302"></a>
 ## § 50302. Purposes
 
-The purposes of the corporation are—
+The corporation is organized exclusively for charitable and educational purposes. The purposes of the corporation shall include—
 
 (1) to uphold and maintain the Constitution and laws of the United States;
 
@@ -39,9 +39,13 @@ The purposes of the corporation are—
 
 (5) to stimulate a feeling of mutual devotion, helpfulness, and comradeship among all wounded, injured, and disabled veterans;
 
-(6) to serve our comrades, our communities, and our country; and
+(6) to serve our comrades, our communities, and our country;
 
-(7) to encourage in all people that spirit of understanding which will guard against future wars.
+(7) to educate the public about the sacrifices and needs of disabled veterans;
+
+(8) to educate disabled veterans about the benefits and resources available to them; and
+
+(9) to encourage in all people that spirit of understanding which will guard against future wars.
 
 ### Statutory Notes
 
@@ -49,6 +53,11 @@ The purposes of the corporation are—
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 50302 | 36:90c. | June 17, 1932, ch. 268, § 3, 47 Stat. 320; July 15, 1942, ch. 505, § 2, 56 Stat. 660; June 13, 1991, Pub. L. 102–54, § 13(n)(2), 105 Stat. 278. |
+
+#### Amendments
+2016—Pub. L. 114–135, § 1(a)(1), substituted “The corporation is organized exclusively for charitable and educational purposes. The purposes of the corporation shall include” for “The purposes of the corporation are” in introductory provisions.
+
+Pars. (7) to (9). Pub. L. 114–135, § 1(a)(2)–(4), added pars. (7) and (8) and redesignated former par. (7) as (9).
 
 
 <a id="section-50303"></a>
@@ -190,3 +199,9 @@ The word “activities” is substituted for “proceedings” for consistency i
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 200 of House Document No. 103–7.
+
+
+<a id="section-50309"></a>
+## § 50309. Dissolution
+
+On dissolution or final liquidation of the corporation, any assets remaining after the discharge or satisfactory provision for the discharge of all liabilities shall be transferred to the Secretary of Veterans Affairs for the care of disabled veterans.

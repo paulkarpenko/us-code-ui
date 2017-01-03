@@ -292,7 +292,7 @@ Pub. L. 101–336, title I, § 108, July 26, 1990, 104 Stat. 337, provided that:
 ## § 12115. Discrimination
 **(a) General rule** No covered entity shall discriminate against a qualified individual on the basis of disability in regard to job application procedures, the hiring, advancement, or discharge of employees, employee compensation, job training, and other terms, conditions, and privileges of employment.
 
-**(b) Construction** As used in subsection (a) of this section, the term “discriminate against a qualified individual on the basis of disability” includes—
+**(b) Construction** As used in subsection (a), the term “discriminate against a qualified individual on the basis of disability” includes—
 
 (1) limiting, segregating, or classifying a job applicant or employee in a way that adversely affects the opportunities or status of such applicant or employee because of the disability of such applicant or employee;
 
@@ -339,7 +339,7 @@ Pub. L. 101–336, title I, § 108, July 26, 1990, 104 Stat. 337, provided that:
 
 **(d) Medical examinations and inquiries**
 
-(1) **In general** — The prohibition against discrimination as referred to in subsection (a) of this section shall include medical examinations and inquiries.
+(1) **In general** — The prohibition against discrimination as referred to in subsection (a) shall include medical examinations and inquiries.
 
 (2) **Preemployment**
 
@@ -435,7 +435,7 @@ Amendment by Pub. L. 110–325 effective Jan. 1, 2009, see section 8 of Pub. L. 
 ## § 12117. Illegal use of drugs and alcohol
 **(a) Qualified individual with a disability** For purposes of this subchapter, a qualified individual with a disability shall not include any employee or applicant who is currently engaging in the illegal use of drugs, when the covered entity acts on the basis of such use.
 
-**(b) Rules of construction** Nothing in subsection (a) of this section shall be construed to exclude as a qualified individual with a disability an individual who—
+**(b) Rules of construction** Nothing in subsection (a) shall be construed to exclude as a qualified individual with a disability an individual who—
 
 (1) has successfully completed a supervised drug rehabilitation program and is no longer engaging in the illegal use of drugs, or has otherwise been rehabilitated successfully and is no longer engaging in such use;
 
@@ -472,7 +472,7 @@ except that it shall not be a violation of this chapter for a covered entity to 
 
 (1) test employees of such entities in, and applicants for, positions involving safety-sensitive duties for the illegal use of drugs and for on-duty impairment by alcohol; and
 
-(2) remove such persons who test positive for illegal use of drugs and on-duty impairment by alcohol pursuant to paragraph (1) from safety-sensitive duties in implementing subsection (c) of this section.
+(2) remove such persons who test positive for illegal use of drugs and on-duty impairment by alcohol pursuant to paragraph (1) from safety-sensitive duties in implementing subsection (c).
 
 ### Statutory Notes
 
@@ -592,9 +592,9 @@ The remedies, procedures, and rights set forth in [section 794a of title 29](htt
 ## § 12143. Regulations
 **(a) In general** Not later than 1 year after July 26, 1990, the Attorney General shall promulgate regulations in an accessible format that implement this part. Such regulations shall not include any matter within the scope of the authority of the Secretary of Transportation under section 12143, 12149, or 12164 of this title.
 
-**(b) Relationship to other regulations** Except for “program accessibility, existing facilities”, and “communications”, regulations under subsection (a) of this section shall be consistent with this chapter and with the coordination regulations under part 41 of title 28, Code of Federal Regulations (as promulgated by the Department of Health, Education, and Welfare on January 13, 1978), applicable to recipients of Federal financial assistance under [section 794 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794&num=0&edition=prelim). With respect to “program accessibility, existing facilities”, and “communications”, such regulations shall be consistent with regulations and analysis as in part 39 of title 28 of the Code of Federal Regulations, applicable to federally conducted activities under [section 794 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794&num=0&edition=prelim).
+**(b) Relationship to other regulations** Except for “program accessibility, existing facilities”, and “communications”, regulations under subsection (a) shall be consistent with this chapter and with the coordination regulations under part 41 of title 28, Code of Federal Regulations (as promulgated by the Department of Health, Education, and Welfare on January 13, 1978), applicable to recipients of Federal financial assistance under [section 794 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794&num=0&edition=prelim). With respect to “program accessibility, existing facilities”, and “communications”, such regulations shall be consistent with regulations and analysis as in part 39 of title 28 of the Code of Federal Regulations, applicable to federally conducted activities under [section 794 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794&num=0&edition=prelim).
 
-**(c) Standards** Regulations under subsection (a) of this section shall include standards applicable to facilities and vehicles covered by this part, other than facilities, stations, rail passenger cars, and vehicles covered by part B of this subchapter. Such standards shall be consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board in accordance with [section 12204(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12204/a&num=0&edition=prelim).
+**(c) Standards** Regulations under subsection (a) shall include standards applicable to facilities and vehicles covered by this part, other than facilities, stations, rail passenger cars, and vehicles covered by part B. Such standards shall be consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board in accordance with [section 12204(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12204/a&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -632,7 +632,7 @@ Pub. L. 101–336, title II, § 231, July 26, 1990, 104 Stat. 346, provided that
 ## § 12145. Public entities operating fixed route systems
 **(a) Purchase and lease of new vehicles** It shall be considered discrimination for purposes of [section 12132 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12132) and [section 794 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794&num=0&edition=prelim) for a public entity which operates a fixed route system to purchase or lease a new bus, a new rapid rail vehicle, a new light rail vehicle, or any other new vehicle to be used on such system, if the solicitation for such purchase or lease is made after the 30th day following July 26, 1990, and if such bus, rail vehicle, or other vehicle is not readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.
 
-**(b) Purchase and lease of used vehicles** Subject to subsection (c)(1) of this section, it shall be considered discrimination for purposes of [section 12132 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12132) and [section 794 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794&num=0&edition=prelim) for a public entity which operates a fixed route system to purchase or lease, after the 30th day following July 26, 1990, a used vehicle for use on such system unless such entity makes demonstrated good faith efforts to purchase or lease a used vehicle for use on such system that is readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.
+**(b) Purchase and lease of used vehicles** Subject to subsection (c)(1), it shall be considered discrimination for purposes of [section 12132 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12132) and [section 794 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794&num=0&edition=prelim) for a public entity which operates a fixed route system to purchase or lease, after the 30th day following July 26, 1990, a used vehicle for use on such system unless such entity makes demonstrated good faith efforts to purchase or lease a used vehicle for use on such system that is readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.
 
 **(c) Remanufactured vehicles**
 
@@ -710,13 +710,13 @@ Section effective July 26, 1990, see section 231(b) of Pub. L. 101–336, set ou
 
 (3) **Modification of disapproved plan** — Not later than 90 days after the date of disapproval of a plan under this subsection, the public entity which submitted the plan shall modify the plan to meet the requirements of this section and shall submit to the Secretary, and commence implementation of, such modified plan.
 
-**(e) “Discrimination” defined** As used in subsection (a) of this section, the term “discrimination” includes—
+**(e) “Discrimination” defined** As used in subsection (a), the term “discrimination” includes—
 
-(1) a failure of a public entity to which the regulations issued under this section apply to submit, or commence implementation of, a plan in accordance with subsections (c)(6) and (c)(7) of this section;
+(1) a failure of a public entity to which the regulations issued under this section apply to submit, or commence implementation of, a plan in accordance with subsections (c)(6) and (c)(7);
 
-(2) a failure of such entity to submit, or commence implementation of, a modified plan in accordance with subsection (d)(3) of this section;
+(2) a failure of such entity to submit, or commence implementation of, a modified plan in accordance with subsection (d)(3);
 
-(3) submission to the Secretary of a modified plan under subsection (d)(3) of this section which does not meet the requirements of this section; or
+(3) submission to the Secretary of a modified plan under subsection (d)(3) which does not meet the requirements of this section; or
 
 (4) a failure of such entity to provide paratransit or other special transportation services in accordance with the plan or modified plan the public entity submitted to the Secretary under this section.
 
@@ -732,6 +732,9 @@ Section effective July 26, 1990, see section 231(b) of Pub. L. 101–336, set ou
 
 #### Effective Date
 Subsec. (a) of this section effective 18 months after July 26, 1990, and subsecs. (b) to (f) of this section effective July 26, 1990, see section 231 of Pub. L. 101–336, set out as a note under [section 12141 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12141).
+
+#### Paratransit System Under FTA Approved Coordinated Plan
+Pub. L. 114–94, div. A, title III, § 3023, Dec. 4, 2015, 129 Stat. 1494, provided that: “Notwithstanding the provisions of section 37.131(c) of title 49, Code of Federal Regulations, any paratransit system currently coordinating complementary paratransit service for more than 40 fixed route agencies shall be permitted to continue using an existing tiered, distance-based coordinated paratransit fare system, if the fare for the existing tiered, distance-based coordinated paratransit fare system is not increased by a greater percentage than any increase to the fixed route fare for the largest transit agency in the complementary paratransit service area.”
 
 
 <a id="section-12147"></a>
@@ -757,9 +760,9 @@ Section effective July 26, 1990, see section 231(b) of Pub. L. 101–336, set ou
 
 (4) that any further delay in purchasing new buses necessary to obtain such lifts would significantly impair transportation services in the community served by the public entity.
 
-**(b) Duration and notice to Congress** Any relief granted under subsection (a) of this section shall be limited in duration by a specified date, and the appropriate committees of Congress shall be notified of any such relief granted.
+**(b) Duration and notice to Congress** Any relief granted under subsection (a) shall be limited in duration by a specified date, and the appropriate committees of Congress shall be notified of any such relief granted.
 
-**(c) Fraudulent application** If, at any time, the Secretary has reasonable cause to believe that any relief granted under subsection (a) of this section was fraudulently applied for, the Secretary shall—
+**(c) Fraudulent application** If, at any time, the Secretary has reasonable cause to believe that any relief granted under subsection (a) was fraudulently applied for, the Secretary shall—
 
 (1) cancel such relief if such relief is still in effect; and
 
@@ -1189,7 +1192,7 @@ Pub. L. 101–336, title III, § 310, July 26, 1990, 104 Stat. 365, provided tha
 
 (2) **Specific prohibitions**
 
-  (A) *Discrimination* — For purposes of subsection (a) of this section, discrimination includes—
+  (A) *Discrimination* — For purposes of subsection (a), discrimination includes—
 
     (i) the imposition or application of eligibility criteria that screen out or tend to screen out an individual with a disability or any class of individuals with disabilities from fully and equally enjoying any goods, services, facilities, privileges, advantages, or accommodations, unless such criteria can be shown to be necessary for the provision of the goods, services, facilities, privileges, advantages, or accommodations being offered;
 
@@ -1207,7 +1210,7 @@ Pub. L. 101–336, title III, § 310, July 26, 1990, 104 Stat. 365, provided tha
 
     (ii) *Equivalent service* — If a private entity which operates a fixed route system and which is not subject to [section 12184 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12184) purchases or leases a vehicle with a seating capacity of 16 passengers or less (including the driver) for use on such system after the effective date of this subparagraph that is not readily accessible to or usable by individuals with disabilities, it shall be considered discrimination for such entity to fail to operate such system so that, when viewed in its entirety, such system ensures a level of service to individuals with disabilities, including individuals who use wheelchairs, equivalent to the level of service provided to individuals without disabilities.
 
-  (C) *Demand responsive system* — For purposes of subsection (a) of this section, discrimination includes—
+  (C) *Demand responsive system* — For purposes of subsection (a), discrimination includes—
 
     (i) a failure of a private entity which operates a demand responsive system and which is not subject to [section 12184 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12184) to operate such system so that, when viewed in its entirety, such system ensures a level of service to individuals with disabilities, including individuals who use wheelchairs, equivalent to the level of service provided to individuals without disabilities; and
 
@@ -1217,7 +1220,7 @@ Pub. L. 101–336, title III, § 310, July 26, 1990, 104 Stat. 365, provided tha
 
     (i) *Limitation on applicability* — Subparagraphs (B) and (C) do not apply to over-the-road buses.
 
-    (ii) *Accessibility requirements* — For purposes of subsection (a) of this section, discrimination includes (I) the purchase or lease of an over-the-road bus which does not comply with the regulations issued under [section 12186(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12186/a/2&num=0&edition=prelim) by a private entity which provides transportation of individuals and which is not primarily engaged in the business of transporting people, and (II) any other failure of such entity to comply with such regulations.
+    (ii) *Accessibility requirements* — For purposes of subsection (a), discrimination includes (I) the purchase or lease of an over-the-road bus which does not comply with the regulations issued under [section 12186(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12186/a/2&num=0&edition=prelim) by a private entity which provides transportation of individuals and which is not primarily engaged in the business of transporting people, and (II) any other failure of such entity to comply with such regulations.
 
 (3) **Specific construction** — Nothing in this subchapter shall require an entity to permit an individual to participate in or benefit from the goods, services, facilities, privileges, advantages and accommodations of such entity where such individual poses a direct threat to the health or safety of others. The term “direct threat” means a significant risk to the health or safety of others that cannot be eliminated by a modification of policies, practices, or procedures or by the provision of auxiliary aids or services.
 
@@ -1232,13 +1235,13 @@ Section effective 18 months after July 26, 1990, but with subsec. (a) of this se
 
 <a id="section-12186"></a>
 ## § 12186. New construction and alterations in public accommodations and commercial facilities
-**(a) Application of term** Except as provided in subsection (b) of this section, as applied to public accommodations and commercial facilities, discrimination for purposes of [section 12182(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12182/a&num=0&edition=prelim) includes—
+**(a) Application of term** Except as provided in subsection (b), as applied to public accommodations and commercial facilities, discrimination for purposes of [section 12182(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12182/a&num=0&edition=prelim) includes—
 
 (1) a failure to design and construct facilities for first occupancy later than 30 months after July 26, 1990, that are readily accessible to and usable by individuals with disabilities, except where an entity can demonstrate that it is structurally impracticable to meet the requirements of such subsection in accordance with standards set forth or incorporated by reference in regulations issued under this subchapter; and
 
 (2) with respect to a facility or part thereof that is altered by, on behalf of, or for the use of an establishment in a manner that affects or could affect the usability of the facility or part thereof, a failure to make alterations in such a manner that, to the maximum extent feasible, the altered portions of the facility are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs. Where the entity is undertaking an alteration that affects or could affect usability of or access to an area of the facility containing a primary function, the entity shall also make the alterations in such a manner that, to the maximum extent feasible, the path of travel to the altered area and the bathrooms, telephones, and drinking fountains serving the altered area, are readily accessible to and usable by individuals with disabilities where such alterations to the path of travel or the bathrooms, telephones, and drinking fountains serving the altered area are not disproportionate to the overall alterations in terms of cost and scope (as determined under criteria established by the Attorney General).
 
-**(b) Elevator** Subsection (a) of this section shall not be construed to require the installation of an elevator for facilities that are less than three stories or have less than 3,000 square feet per story unless the building is a shopping center, a shopping mall, or the professional office of a health care provider or unless the Attorney General determines that a particular category of such facilities requires the installation of elevators based on the usage of such facilities.
+**(b) Elevator** Subsection (a) shall not be construed to require the installation of an elevator for facilities that are less than three stories or have less than 3,000 square feet per story unless the building is a shopping center, a shopping mall, or the professional office of a health care provider or unless the Attorney General determines that a particular category of such facilities requires the installation of elevators based on the usage of such facilities.
 
 ### Statutory Notes
 
@@ -1250,9 +1253,9 @@ Section effective 18 months after July 26, 1990, see section 310(a), (b) of Pub.
 ## § 12187. Prohibition of discrimination in specified public transportation services provided by private entities
 **(a) General rule** No individual shall be discriminated against on the basis of disability in the full and equal enjoyment of specified public transportation services provided by a private entity that is primarily engaged in the business of transporting people and whose operations affect commerce.
 
-**(b) Construction** For purposes of subsection (a) of this section, discrimination includes—
+**(b) Construction** For purposes of subsection (a), discrimination includes—
 
-(1) the imposition or application by a 11 So in original. Probably should be “an”. entity described in subsection (a) of this section of eligibility criteria that screen out or tend to screen out an individual with a disability or any class of individuals with disabilities from fully enjoying the specified public transportation services provided by the entity, unless such criteria can be shown to be necessary for the provision of the services being offered;
+(1) the imposition or application by a 11 So in original. Probably should be “an”. entity described in subsection (a) of eligibility criteria that screen out or tend to screen out an individual with a disability or any class of individuals with disabilities from fully enjoying the specified public transportation services provided by the entity, unless such criteria can be shown to be necessary for the provision of the services being offered;
 
 (2) the failure of such entity to—
 
@@ -1278,7 +1281,7 @@ Section effective 18 months after July 26, 1990, see section 310(a), (b) of Pub.
 
 **(c) Historical or antiquated cars**
 
-(1) **Exception** — To the extent that compliance with subsection (b)(2)(C) or (b)(7) of this section would significantly alter the historic or antiquated character of a historical or antiquated rail passenger car, or a rail station served exclusively by such cars, or would result in violation of any rule, regulation, standard, or order issued by the Secretary of Transportation under the Federal Railroad Safety Act of 1970, such compliance shall not be required.
+(1) **Exception** — To the extent that compliance with subsection (b)(2)(C) or (b)(7) would significantly alter the historic or antiquated character of a historical or antiquated rail passenger car, or a rail station served exclusively by such cars, or would result in violation of any rule, regulation, standard, or order issued by the Secretary of Transportation under the Federal Railroad Safety Act of 1970, such compliance shall not be required.
 
 (2) **Definition** — As used in this subsection, the term “historical or antiquated rail passenger car” means a rail passenger car—
 
@@ -1327,7 +1330,7 @@ Section effective 18 months after July 26, 1990, but with subsec. (a) of this se
 
 (6) The impact of accessibility requirements on the continuation of over-the-road bus service, with particular consideration of the impact of such requirements on such service to rural communities.
 
-**(c) Advisory committee** In conducting the study required by subsection (a) of this section, the Office of Technology Assessment shall establish an advisory committee, which shall consist of—
+**(c) Advisory committee** In conducting the study required by subsection (a), the Office of Technology Assessment shall establish an advisory committee, which shall consist of—
 
 (1) members selected from among private operators and manufacturers of over-the-road buses;
 
@@ -1336,9 +1339,9 @@ Section effective 18 months after July 26, 1990, but with subsec. (a) of this se
 (3) members selected for their technical expertise on issues included in the study, including manufacturers of boarding assistance equipment and devices.
 The number of members selected under each of paragraphs (1) and (2) shall be equal, and the total number of members selected under paragraphs (1) and (2) shall exceed the number of members selected under paragraph (3).
 
-**(d) Deadline** The study required by subsection (a) of this section, along with recommendations by the Office of Technology Assessment, including any policy options for legislative action, shall be submitted to the President and Congress within 36 months after July 26, 1990. If the President determines that compliance with the regulations issued pursuant to [section 12186(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12186/a/2/B&num=0&edition=prelim) on or before the applicable deadlines specified in [section 12186(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12186/a/2/B&num=0&edition=prelim) will result in a significant reduction in intercity over-the-road bus service, the President shall extend each such deadline by 1 year.
+**(d) Deadline** The study required by subsection (a), along with recommendations by the Office of Technology Assessment, including any policy options for legislative action, shall be submitted to the President and Congress within 36 months after July 26, 1990. If the President determines that compliance with the regulations issued pursuant to [section 12186(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12186/a/2/B&num=0&edition=prelim) on or before the applicable deadlines specified in [section 12186(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12186/a/2/B&num=0&edition=prelim) will result in a significant reduction in intercity over-the-road bus service, the President shall extend each such deadline by 1 year.
 
-**(e) Review** In developing the study required by subsection (a) of this section, the Office of Technology Assessment shall provide a preliminary draft of such study to the Architectural and Transportation Barriers Compliance Board established under [section 792 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section792&num=0&edition=prelim). The Board shall have an opportunity to comment on such draft study, and any such comments by the Board made in writing within 120 days after the Board’s receipt of the draft study shall be incorporated as part of the final study required to be submitted under subsection (d) of this section.
+**(e) Review** In developing the study required by subsection (a), the Office of Technology Assessment shall provide a preliminary draft of such study to the Architectural and Transportation Barriers Compliance Board established under [section 792 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section792&num=0&edition=prelim). The Board shall have an opportunity to comment on such draft study, and any such comments by the Board made in writing within 120 days after the Board’s receipt of the draft study shall be incorporated as part of the final study required to be submitted under subsection (d).
 
 ### Statutory Notes
 
@@ -1379,9 +1382,9 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 (3) **Standards** — The regulations issued pursuant to this subsection shall include standards applicable to facilities and vehicles covered by sections 12182(b)(2) and 12184 of this title.
 
-**(b) Other provisions** Not later than 1 year after July 26, 1990, the Attorney General shall issue regulations in an accessible format to carry out the provisions of this subchapter not referred to in subsection (a) of this section that include standards applicable to facilities and vehicles covered under [section 12182 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12182).
+**(b) Other provisions** Not later than 1 year after July 26, 1990, the Attorney General shall issue regulations in an accessible format to carry out the provisions of this subchapter not referred to in subsection (a) that include standards applicable to facilities and vehicles covered under [section 12182 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12182).
 
-**(c) Consistency with ATBCB guidelines** Standards included in regulations issued under subsections (a) and (b) of this section shall be consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board in accordance with [section 12204 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12204).
+**(c) Consistency with ATBCB guidelines** Standards included in regulations issued under subsections (a) and (b) shall be consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board in accordance with [section 12204 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12204).
 
 **(d) Interim accessibility standards**
 
@@ -1457,7 +1460,7 @@ Section effective 18 months after July 26, 1990, see section 310(a) of Pub. L. 1
 
 (3) **Single violation** — For purposes of paragraph (2)(C), in determining whether a first or subsequent violation has occurred, a determination in a single action, by judgment or settlement, that the covered entity has engaged in more than one discriminatory act shall be counted as a single violation.
 
-(4) **Punitive damages** — For purposes of subsection (b)(2)(B) of this section, the term “monetary damages” and “such other relief” does not include punitive damages.
+(4) **Punitive damages** — For purposes of subsection (b)(2)(B), the term “monetary damages” and “such other relief” does not include punitive damages.
 
 (5) **Judicial consideration** — In a civil action under paragraph (1)(B), the court, when considering what amount of civil penalty, if any, is appropriate, shall give consideration to any good faith effort or attempt to comply with this chapter by the entity. In evaluating good faith, the court shall consider, among other factors it deems relevant, whether the entity could have reasonably anticipated the need for an appropriate type of auxiliary aid needed to accommodate the unique needs of a particular individual with a disability.
 
@@ -1542,7 +1545,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **(b) Interference, coercion, or intimidation** It shall be unlawful to coerce, intimidate, threaten, or interfere with any individual in the exercise or enjoyment of, or on account of his or her having exercised or enjoyed, or on account of his or her having aided or encouraged any other individual in the exercise or enjoyment of, any right granted or protected by this chapter.
 
-**(c) Remedies and procedures** The remedies and procedures available under sections 12117, 12133, and 12188 of this title shall be available to aggrieved persons for violations of subsections (a) and (b) of this section, with respect to subchapter I, subchapter II and subchapter III, respectively.
+**(c) Remedies and procedures** The remedies and procedures available under sections 12117, 12133, and 12188 of this title shall be available to aggrieved persons for violations of subsections (a) and (b), with respect to subchapter I, subchapter II and subchapter III, respectively.
 
 ### Statutory Notes
 
@@ -1557,11 +1560,11 @@ For constitutionality of section 503 of Pub. L. 101–336, see Congressional Res
 ## § 12206. Regulations by Architectural and Transportation Barriers Compliance Board
 **(a) Issuance of guidelines** Not later than 9 months after July 26, 1990, the Architectural and Transportation Barriers Compliance Board shall issue minimum guidelines that shall supplement the existing Minimum Guidelines and Requirements for Accessible Design for purposes of subchapters II and III of this chapter.
 
-**(b) Contents of guidelines** The supplemental guidelines issued under subsection (a) of this section shall establish additional requirements, consistent with this chapter, to ensure that buildings, facilities, rail passenger cars, and vehicles are accessible, in terms of architecture and design, transportation, and communication, to individuals with disabilities.
+**(b) Contents of guidelines** The supplemental guidelines issued under subsection (a) shall establish additional requirements, consistent with this chapter, to ensure that buildings, facilities, rail passenger cars, and vehicles are accessible, in terms of architecture and design, transportation, and communication, to individuals with disabilities.
 
 **(c) Qualified historic properties**
 
-(1) **In general** — The supplemental guidelines issued under subsection (a) of this section shall include procedures and requirements for alterations that will threaten or destroy the historic significance of qualified historic buildings and facilities as defined in 4.1.7(1)(a) of the Uniform Federal Accessibility Standards.
+(1) **In general** — The supplemental guidelines issued under subsection (a) shall include procedures and requirements for alterations that will threaten or destroy the historic significance of qualified historic buildings and facilities as defined in 4.1.7(1)(a) of the Uniform Federal Accessibility Standards.
 
 (2) **Sites eligible for listing in National Register** — With respect to alterations of buildings or facilities that are eligible for listing in the National Register of Historic Places under division A of subtitle III of title 54, the guidelines described in paragraph (1) shall, at a minimum, maintain the procedures and requirements established in 4.1.7(1) and (2) of the Uniform Federal Accessibility Standards.
 
@@ -1614,7 +1617,7 @@ Section effective Jan. 1, 2009, see section 8 of Pub. L. 110–325, set out as a
 
 (2) **Publication of plan** — The Attorney General shall publish the plan referred to in paragraph (1) for public comment in accordance with subchapter II of chapter 5 of title 5 (commonly known as the Administrative Procedure Act).
 
-**(b) Agency and public assistance** The Attorney General may obtain the assistance of other Federal agencies in carrying out subsection (a) of this section, including the National Council on Disability, the President’s Committee on Employment of People with Disabilities, the Small Business Administration, and the Department of Commerce.
+**(b) Agency and public assistance** The Attorney General may obtain the assistance of other Federal agencies in carrying out subsection (a), including the National Council on Disability, the President’s Committee on Employment of People with Disabilities, the Small Business Administration, and the Department of Commerce.
 
 **(c) Implementation**
 
@@ -1622,7 +1625,7 @@ Section effective Jan. 1, 2009, see section 8 of Pub. L. 110–325, set out as a
 
 (2) **Implementation of subchapters**
 
-  (A) *Subchapter I* — The Equal Employment Opportunity Commission and the Attorney General shall implement the plan for assistance developed under subsection (a) of this section, for subchapter I.
+  (A) *Subchapter I* — The Equal Employment Opportunity Commission and the Attorney General shall implement the plan for assistance developed under subsection (a), for subchapter I.
 
   (B) *Subchapter II*
 
@@ -1638,7 +1641,7 @@ Section effective Jan. 1, 2009, see section 8 of Pub. L. 110–325, set out as a
 
 **(d) Grants and contracts**
 
-(1) **In general** — Each Federal agency that has responsibility under subsection (c)(2) of this section for implementing this chapter may make grants or award contracts to effectuate the purposes of this section, subject to the availability of appropriations. Such grants and contracts may be awarded to individuals, institutions not organized for profit and no part of the net earnings of which inures to the benefit of any private shareholder or individual (including educational institutions), and associations representing individuals who have rights or duties under this chapter. Contracts may be awarded to entities organized for profit, but such entities may not be the recipients or 11 So in original. Probably should be “of”. grants described in this paragraph.
+(1) **In general** — Each Federal agency that has responsibility under subsection (c)(2) for implementing this chapter may make grants or award contracts to effectuate the purposes of this section, subject to the availability of appropriations. Such grants and contracts may be awarded to individuals, institutions not organized for profit and no part of the net earnings of which inures to the benefit of any private shareholder or individual (including educational institutions), and associations representing individuals who have rights or duties under this chapter. Contracts may be awarded to entities organized for profit, but such entities may not be the recipients or 11 So in original. Probably should be “of”. grants described in this paragraph.
 
 (2) **Dissemination of information** — Such grants and contracts, among other uses, may be designed to ensure wide dissemination of information about the rights and duties established by this chapter and to provide information and technical assistance about techniques for effective compliance with this chapter.
 
@@ -1659,7 +1662,7 @@ A prior section 507 of Pub. L. 101–336 was renumbered section 508 and is class
 ## § 12210. Federal wilderness areas
 **(a) Study** The National Council on Disability shall conduct a study and report on the effect that wilderness designations and wilderness land management practices have on the ability of individuals with disabilities to use and enjoy the National Wilderness Preservation System as established under the Wilderness Act ([16 U.S.C. 1131](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1131&num=0&edition=prelim) et seq.).
 
-**(b) Submission of report** Not later than 1 year after July 26, 1990, the National Council on Disability shall submit the report required under subsection (a) of this section to Congress.
+**(b) Submission of report** Not later than 1 year after July 26, 1990, the National Council on Disability shall submit the report required under subsection (a) to Congress.
 
 **(c) Specific wilderness access**
 
@@ -1770,7 +1773,7 @@ Amendment by Pub. L. 102–166 effective Nov. 21, 1991, except as otherwise prov
 ## § 12213. Illegal use of drugs
 **(a) In general** For purposes of this chapter, the term “individual with a disability” does not include an individual who is currently engaging in the illegal use of drugs, when the covered entity acts on the basis of such use.
 
-**(b) Rules of construction** Nothing in subsection (a) of this section shall be construed to exclude as an individual with a disability an individual who—
+**(b) Rules of construction** Nothing in subsection (a) shall be construed to exclude as an individual with a disability an individual who—
 
 (1) has successfully completed a supervised drug rehabilitation program and is no longer engaging in the illegal use of drugs, or has otherwise been rehabilitated successfully and is no longer engaging in such use;
 
@@ -1779,7 +1782,7 @@ Amendment by Pub. L. 102–166 effective Nov. 21, 1991, except as otherwise prov
 (3) is erroneously regarded as engaging in such use, but is not engaging in such use;
 except that it shall not be a violation of this chapter for a covered entity to adopt or administer reasonable policies or procedures, including but not limited to drug testing, designed to ensure that an individual described in paragraph (1) or (2) is no longer engaging in the illegal use of drugs; however, nothing in this section shall be construed to encourage, prohibit, restrict, or authorize the conducting of testing for the illegal use of drugs.
 
-**(c) Health and other services** Notwithstanding subsection (a) of this section and [section 12211(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12211/b/3&num=0&edition=prelim), an individual shall not be denied health services, or services provided in connection with drug rehabilitation, on the basis of the current illegal use of drugs if the individual is otherwise entitled to such services.
+**(c) Health and other services** Notwithstanding subsection (a) and [section 12211(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12211/b/3&num=0&edition=prelim), an individual shall not be denied health services, or services provided in connection with drug rehabilitation, on the basis of the current illegal use of drugs if the individual is otherwise entitled to such services.
 
 **(d) “Illegal use of drugs” defined**
 

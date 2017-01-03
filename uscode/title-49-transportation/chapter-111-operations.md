@@ -37,7 +37,7 @@ A prior section 11101, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1419; Pub. L. 9
 1996—Subsec. (f). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of the ICC Termination Act of 1995”.
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-11102"></a>

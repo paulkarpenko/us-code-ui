@@ -2,7 +2,7 @@
 title: 15
 chapter: '7'
 heading: NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY
-section_count: 49
+section_count: 50
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -47,6 +47,9 @@ Section 5115(c) of Pub. L. 100–418 provided that: “References in any other F
 
 Act Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, created the Department of Labor and renamed the Department of Commerce and Labor as the Department of Commerce.
 
+#### Short Title of 2017 Amendment
+Pub. L. 114–329, title V, § 501(a), Jan. 6, 2017, 130 Stat. 3023, provided that: “This section [enacting [section 278k–1 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278k-1), amending sections 278g–5, 278k, and 278l of this title and [section 2199 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2199&num=0&edition=prelim), Armed Forces, and enacting provisions set out as notes under [section 278k of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278k)] may be cited as the ‘Manufacturing Extension Partnership Improvement Act’.”
+
 #### Short Title of 2014 Amendment
 Pub. L. 113–235, div. B, title VII, § 701, Dec. 16, 2014, 128 Stat. 2220, provided that: “This title [enacting [section 278s of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278s), amending [section 3722 of this title](./chapter-063-technology-innovation.md#section-3722) and [section 6622 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6622&num=0&edition=prelim), The Public Health and Welfare, enacting provisions set out as a note under [section 278s of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278s), and amending provisions set out as a note under this section] may be cited as the ‘Revitalize American Manufacturing and Innovation Act of 2014’.”
 
@@ -63,7 +66,7 @@ Pub. L. 105–309, § 1, Oct. 30, 1998, 112 Stat. 2935, provided that: “This A
 Pub. L. 102–245, title II, § 201(a), Feb. 14, 1992, 106 Stat. 15, provided that: “This title [amending sections 272 and 278n of this title and enacting provisions set out as notes under [section 278n of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278n)] may be cited as the ‘Emerging Technologies and Advanced Technology Program Amendments Act of 1991’.”
 
 #### Short Title of 1988 Amendment
-Pub. L. 100–418, title V, § 5101, Aug. 23, 1988, 102 Stat. 1426, provided that: “This part [part I (§§ 5101–5164) of subtitle B of title V of Pub. L. 100–418, enacting sections 205j–1, 278i to 278o, 282a, 1532, 1533, 3704a, and 4632 of this title, amending this section, sections 205a, 205b, 205k, 272 to 275, 278, 278b, 278d, 278e, 278g to 278g–4, 3703, 3706, 3708, 3710, 3710c, and 3713 of this title, and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, repealing sections 280 to 282 of this title, enacting provisions set out as notes under this section, sections 272, 272, 278l, and 278n of this title, and [section 1803 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1803&num=0&edition=prelim), Mineral Lands and Mining, and amending provisions set out as a note under this section] may be cited as the ‘Technology Competitiveness Act’.”
+Pub. L. 100–418, title V, § 5101, Aug. 23, 1988, 102 Stat. 1426, provided that: “This part [part I (§§ 5101–5164) of subtitle B of title V of Pub. L. 100–418, enacting sections 205j–1, 278i to 278o, 282a, 1532, 1533, 3704a, and 4632 of this title, amending this section, sections 205a, 205b, 205k, 272 to 275, 278, 278b, 278d, 278e, 278g to 278g–4, 3703, 3706, 3708, 3710, 3710c, and 3713 of this title, and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, repealing sections 280 to 282 of this title, enacting provisions set out as notes under this section, sections 272, 278l, and 278n of this title, and [section 1803 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1803&num=0&edition=prelim), Mineral Lands and Mining, and amending provisions set out as a note under this section] may be cited as the ‘Technology Competitiveness Act’.”
 
 #### Short Title
 Act Mar. 3, 1901, ch. 872, § 35, formerly § 23, as added Jan. 8, 1988, Pub. L. 100–235, § 3(3), 101 Stat. 1728; renumbered § 31 and amended Pub. L. 100–418, title V, §§ 5114(1), 5115(a)(2), Aug. 23, 1988, 102 Stat. 1432, 1433; renumbered § 32, Pub. L. 105–309, § 4(a), Oct. 30, 1998, 112 Stat. 2935; renumbered § 34, Pub. L. 110–69, title III, § 3007(1), Aug. 9, 2007, 121 Stat. 590, renumbered § 35, Pub. L. 113–235, div. B, title VII, § 703(1), Dec. 16, 2014, 128 Stat. 2221, provided that: “This Act [enacting this chapter] may be cited as the National Institute of Standards and Technology Act.”
@@ -76,13 +79,13 @@ Act Mar. 3, 1901, ch. 872, § 29, as added Aug. 23, 1988, Pub. L. 100–418, tit
 ## § 272. Establishment, functions, and activities
 **(a) Establishment of National Institute of Standards and Technology** There is established within the Department of Commerce a science, engineering, technology, and measurement laboratory to be known as the National Institute of Standards and Technology (hereafter in this chapter referred to as the “Institute”).
 
-**(b) Functions of Secretary and Institute** The Secretary of Commerce (hereafter in this chapter referred to as the “Secretary”) acting through the Director of the Institute (hereafter in this chapter referred to as the “Director”) is authorized to take all actions necessary and appropriate to accomplish the purposes of this chapter, including the following functions of the Institute—
+**(b) Functions of Secretary and Institute** The Secretary of Commerce (hereafter in this chapter referred to as the “Secretary”) acting through the Director of the Institute (hereafter in this chapter referred to as the “Director”) is authorized to serve as the President’s principal adviser on standards policy pertaining to the Nation’s technological competitiveness and innovation ability and to take all actions necessary and appropriate to accomplish the purposes of this chapter, including the following functions of the Institute—
 
 (1) to assist industry in the development of technology and procedures needed to improve quality, to modernize manufacturing processes, to ensure product reliability, manufacturability, functionality, and cost-effectiveness, and to facilitate the more rapid commercialization, especially by small- and medium-sized companies throughout the United States, of products based on new scientific discoveries in fields such as automation, electronics, advanced materials, biotechnology, and optical technologies;
 
 (2) to develop, maintain, and retain custody of the national standards of measurement, and provide the means and methods for making measurements consistent with those standards;
 
-(3) to compare standards used in scientific investigations, engineering, manufacturing, commerce, industry, and educational institutions with the standards adopted or recognized by the Federal Government and to coordinate the use by Federal agencies of private sector standards, emphasizing where possible the use of standards developed by private, consensus organizations;
+(3) to facilitate standards-related information sharing and cooperation between Federal agencies and to coordinate the use by Federal agencies of private sector standards, emphasizing where possible the use of standards developed by private, consensus organizations;
 
 (4) to enter into contracts, including cooperative research and development arrangements, and grants and cooperative agreements, in furtherance of the purposes of this chapter;
 
@@ -102,7 +105,7 @@ Act Mar. 3, 1901, ch. 872, § 29, as added Aug. 23, 1988, Pub. L. 100–418, tit
 
 (12) to invent, develop, and (when appropriate) promote transfer to the private sector of measurement devices to serve special national needs; and
 
-(13) to coordinate Federal, State, and local technical standards activities and conformity assessment activities, with private sector technical standards activities and conformity assessment activities, with the goal of eliminating unnecessary duplication and complexity in the development and promulgation of conformity assessment requirements and measures.
+(13) to coordinate technical standards activities and conformity assessment activities of Federal, State, and local governments with private sector technical standards activities and conformity assessment activities, with the goal of eliminating unnecessary duplication and complexity in the development and promulgation of conformity assessment requirements and measures.
 
 **(c) Implementation activities** In carrying out the functions specified in subsection (b), the Secretary, acting through the Director 11 So in original. Probably should be followed by a comma. may, among other things—
 
@@ -136,23 +139,31 @@ Act Mar. 3, 1901, ch. 872, § 29, as added Aug. 23, 1988, Pub. L. 100–418, tit
 
 (15) on an ongoing basis, facilitate and support the development of a voluntary, consensus-based, industry-led set of standards, guidelines, best practices, methodologies, procedures, and processes to cost-effectively reduce cyber risks to critical infrastructure (as defined under subsection (e));
 
-(16) determine properties of building materials and structural elements, and encourage their standardization and most effective use, including investigation of fire-resisting properties of building materials and conditions under which they may be most efficiently used, and the standardization of types of appliances for fire prevention;
+(16) perform research to support the development of voluntary, consensus-based, industry-led standards and recommendations on the security of computers, computer networks, and computer data storage used in election systems to ensure voters can vote securely and privately.33 So in original. The period probably should be a semicolon.
 
-(17) undertake such research in engineering, pure and applied mathematics, statistics, computer science, materials science, and the physical sciences as may be necessary to carry out and support the functions specified in this section;
+(17) determine properties of building materials and structural elements, and encourage their standardization and most effective use, including investigation of fire-resisting properties of building materials and conditions under which they may be most efficiently used, and the standardization of types of appliances for fire prevention;
 
-(18) compile, evaluate, publish, and otherwise disseminate general, specific and technical data resulting from the performance of the functions specified in this section or from other sources when such data are important to science, engineering, or industry, or to the general public, and are not available elsewhere;
+(18) undertake such research in engineering, pure and applied mathematics, statistics, computer science, materials science, and the physical sciences as may be necessary to carry out and support the functions specified in this section;
 
-(19) collect, create, analyze, and maintain specimens of scientific value;
+(19) host, participate in, and support scientific and technical workshops (as defined in section 202 of the American Innovation and Competitiveness Act);
 
-(20) operate national user facilities;
+(20) collect and retain any fees charged by the Secretary for hosting a scientific and technical workshop described in paragraph (19);
 
-(21) evaluate promising inventions and other novel technical concepts submitted by inventors and small companies and work with other Federal agencies, States, and localities to provide appropriate technical assistance and support for those inventions which are found in the evaluation process to have commercial promise;
+(21) notwithstanding title 31 of the United States Code, use the fees described in paragraph (20) to pay for any related expenses, including subsistence expenses for participants;
 
-(22) demonstrate the results of the Institute’s activities by exhibits or other methods of technology transfer, including the use of scientific or technical personnel of the Institute for part-time or intermittent teaching and training activities at educational institutions of higher learning as part of and incidental to their official duties; and
+(22) compile, evaluate, publish, and otherwise disseminate general, specific and technical data resulting from the performance of the functions specified in this section or from other sources when such data are important to science, engineering, or industry, or to the general public, and are not available elsewhere;
 
-(23) undertake such other activities similar to those specified in this subsection as the Director determines appropriate.
+(23) collect, create, analyze, and maintain specimens of scientific value;
 
-**(d) Management costs** In carrying out the extramural funding programs of the Institute, including the programs established under sections 278k, 278l, and 278n of this title, the Secretary may retain reasonable amounts of any funds appropriated pursuant to authorizations for these programs in order to pay for the Institute’s management of these programs.
+(24) operate national user facilities;
+
+(25) evaluate promising inventions and other novel technical concepts submitted by inventors and small companies and work with other Federal agencies, States, and localities to provide appropriate technical assistance and support for those inventions which are found in the evaluation process to have commercial promise;
+
+(26) demonstrate the results of the Institute’s activities by exhibits or other methods of technology transfer, including the use of scientific or technical personnel of the Institute for part-time or intermittent teaching and training activities at educational institutions of higher learning as part of and incidental to their official duties; and
+
+(27) undertake such other activities similar to those specified in this subsection as the Director determines appropriate.
+
+**(d) Management costs** In carrying out the extramural funding programs of the Institute, including the programs established under sections 278k and 278l of this title, the Secretary may retain reasonable amounts of any funds appropriated pursuant to authorizations for these programs in order to pay for the Institute’s management of these programs.
 
 **(e) Cyber risks**
 
@@ -201,7 +212,17 @@ Act Mar. 3, 1901, ch. 872, § 29, as added Aug. 23, 1988, Pub. L. 100–418, tit
 #### References in Text
 [Section 278g–3 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3), referred to in subsec. (c)(13), was amended, and no longer defines the term “computer systems”.
 
+Section 202 of the American Innovation and Competitiveness Act, referred to in subsec. (c)(19), is section 202 of Pub. L. 114–329, title II, Jan. 6, 2017, 130 Stat. 2997. Subsec. (a) of that section, which defines “scientific and technical workshop”, is not classified to the Code.
+
 #### Amendments
+2017—Subsec. (b). Pub. L. 114–329, § 403(1), in introductory provisions, substituted “authorized to serve as the President’s principal adviser on standards policy pertaining to the Nation’s technological competitiveness and innovation ability and to take” for “authorized to take”.
+
+Subsec. (b)(3). Pub. L. 114–329, § 403(2), substituted “facilitate standards-related information sharing and cooperation between Federal agencies” for “compare standards used in scientific investigations, engineering, manufacturing, commerce, industry, and educational institutions with the standards adopted or recognized by the Federal Government”.
+
+Subsec. (b)(13). Pub. L. 114–329, § 403(3), substituted “technical standards activities and conformity assessment activities of Federal, State, and local governments with private sector” for “Federal, State, and local technical standards activities and conformity assessment activities, with private sector”.
+
+Subsec. (c)(16) to (27). Pub. L. 114–329, §§ 104(b)(4), 202(d), added pars. (16) and (19) to (21), redesignated former pars. (16) and (17) as (17) and (18), respectively, and redesignated former pars. (18) to (23) as (22) to (27), respectively.
+
 2014—Subsec. (c)(15) to (23). Pub. L. 113–274, § 101(a), added par. (15) and redesignated former pars. (15) to (22) as (16) to (23), respectively.
 
 Subsec. (e). Pub. L. 113–274, § 101(b), added subsec. (e).
@@ -228,8 +249,14 @@ Par. (20). Pub. L. 100–235 added par. (20).
 
 1950—Act July 22, 1950, provided basic authority for performance of certain functions and activities of Department of Commerce.
 
+#### NIST Cybersecurity Priorities
+Pub. L. 114–329, title I, § 104(b)(1), (2), Jan. 6, 2017, 130 Stat. 2975, provided that: “(1) Critical infrastructure awareness.—The Director of NIST [National Institute of Standards and Technology] shall continue to raise public awareness of the voluntary, industry-led cybersecurity standards and best practices for critical infrastructure developed under section 2(c)(15) of the National Institute of Standards and Technology Act ([15 U.S.C. 272(c)(15)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272/c/15&num=0&edition=prelim)). “(2) Quantum computing.—Under section 2(b) of the National Institute of Standards and Technology Act ([15 U.S.C. 272(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272/b&num=0&edition=prelim)) and section 20 of that Act ([15 U.S.C. 278g–3](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3)), the Director of NIST shall—“(A) research information systems for future cybersecurity needs; and “(B) coordinate with relevant stakeholders to develop a process—“(i) to research and identify or, if necessary, develop cryptography standards and guidelines for future cybersecurity needs, including quantum-resistant cryptography standards; and “(ii) to provide recommendations to Congress, Federal agencies, and industry consistent with the National Technology Transfer and Advancement Act of 1995 (Public Law 104–113; 110 Stat. 775), for a secure and smooth transition to the standards under clause (i).”
+
+#### Laboratory Program Improvements
+Pub. L. 114–329, title I, § 107, Jan. 6, 2017, 130 Stat. 2987, provided that: “(a) In General.—The Director of NIST [National Institute of Standards and Technology], acting through the Associate Director for Laboratory Programs, shall develop and implement a comprehensive strategic plan for laboratory programs that expands—“(1) interactions with academia, international researchers, and industry; and “(2) commercial and industrial applications. “(b) Optimizing Commercial and Industrial Applications.—In accordance with the purpose under section 1(b)(3) of the National Institute of Standards and Technology Act ([15 U.S.C. 271(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section271/b/3&num=0&edition=prelim)), the comprehensive strategic plan shall—“(1) include performance metrics for the dissemination of fundamental research results, measurements, and standards research results to industry, including manufacturing, and other interested parties; “(2) document any positive benefits of research on the competitiveness of the interested parties described in paragraph (1); “(3) clarify the current approach to the technology transfer activities of NIST; and “(4) consider recommendations from the National Academy of Sciences.”
+
 #### Enhancement of Science and Mathematics Programs
-Pub. L. 105–309, § 6, Oct. 30, 1998, 112 Stat. 2936, provided that: “(a) Definitions.—In this section—“(1) Educationally useful federal equipment.—The term ‘educationally useful Federal equipment’ means computers and related peripheral tools and research equipment that is appropriate for use in schools. “(2) School.—The term ‘school’ means a public or private educational institution that serves any of the grades of kindergarten through grade 12. “(b) Sense of the Congress.—“(1) In general.—It is the sense of the Congress that the Director of the National Institute of Standards and Technology should, to the greatest extent practicable and in a manner consistent with applicable Federal law (including Executive Order No. 12999 [[40 U.S.C. 549](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section549&num=0&edition=prelim) note]), donate educationally useful Federal equipment to schools in order to enhance the science and mathematics programs of those schools. “(2) Reports.—“(A) In general.—Not later than 1 year after the date of the enactment of this Act [Oct. 30, 1998], and annually thereafter, the Director of the National Institute of Standards and Technology shall prepare and submit to the President a report. The President shall submit the report to Congress at the same time as the President submits a budget request to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code. “(B) Contents of report.—The report prepared by the Director under this paragraph shall describe any donations of educationally useful Federal equipment to schools made during the period covered by the report.”
+Pub. L. 105–309, § 6, Oct. 30, 1998, 112 Stat. 2936, as amended by Pub. L. 114–329, title II, § 204(a)(1)(A), Jan. 6, 2017, 130 Stat. 2998, provided that: “(a) Definitions.—In this section—“(1) Educationally useful federal equipment.—The term ‘educationally useful Federal equipment’ means computers and related peripheral tools and research equipment that is appropriate for use in schools. “(2) School.—The term ‘school’ means a public or private educational institution that serves any of the grades of kindergarten through grade 12. “(b) Sense of the Congress.—It is the sense of the Congress that the Director of the National Institute of Standards and Technology should, to the greatest extent practicable and in a manner consistent with applicable Federal law (including Executive Order No. 12999 [[40 U.S.C. 549](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section549&num=0&edition=prelim) note]), donate educationally useful Federal equipment to schools in order to enhance the science and mathematics programs of those schools.”
 
 #### Transmittal of Plan for Standards Conformity to Congress
 Pub. L. 104–113, § 12(c), Mar. 7, 1996, 110 Stat. 783, provided that: “The National Institute of Standards and Technology shall, within 90 days after the date of enactment of this Act [Mar. 7, 1996], transmit to the Congress a plan for implementing the amendments made by this section [amending this section and enacting provisions set out as a note below].”
@@ -439,7 +466,7 @@ Act Feb. 14, 1903, transferred power and authority of Secretary of the Treasury 
 
 <a id="section-278"></a>
 ## § 278. Visiting Committee on Advanced Technology
-**(a) Establishment; appointment; membership and composition; review and recommendations** There is established within the Institute a Visiting Committee on Advanced Technology (hereafter in this chapter referred to as the “Committee”). The Committee shall consist of 15 members appointed by the Director, at least 10 of whom shall be from United States industry. The Director shall appoint as original members of the Committee any final members of the National Bureau of Standards Visiting Committee who wish to serve in such capacity. In addition to any powers and functions otherwise granted to it by this chapter, the Committee shall review and make recommendations regarding general policy for the Institute, its organization, its budget, and its programs within the framework of applicable national policies as set forth by the President and the Congress.
+**(a) Establishment; appointment; membership and composition; review and recommendations** There is established within the Institute a Visiting Committee on Advanced Technology (hereafter in this chapter referred to as the “Committee”). The Committee shall consist of not fewer than 9 members appointed by the Director, a majority of whom shall be from United States industry. The Director shall appoint as original members of the Committee any final members of the National Institute of Standards and Technology Visiting Committee who wish to serve in such capacity. In addition to any powers and functions otherwise granted to it by this chapter, the Committee shall review and make recommendations regarding general policy for the Institute, its organization, its budget, and its programs within the framework of applicable national policies as set forth by the President and the Congress.
 
 **(b) Qualifications; recommendations for appointment** The persons appointed as members of the Committee—
 
@@ -468,16 +495,19 @@ The Director is requested, in making appointments of persons as members of the C
 
 **(h) Annual and other reports to Secretary and Congress**
 
-(1) The Committee shall render an annual report to the Secretary for submission to the Congress not later than 30 days after the submittal to Congress of the President’s annual budget request in each year. Such report shall deal essentially, though not necessarily exclusively, with policy issues or matters which affect the Institute, including the Program established under section 278n 11 See References in Text note below. of this title, or with which the Committee in its official role as the private sector policy advisor of the Institute is concerned. Each such report shall identify areas of research and research techniques of the Institute of potential importance to the long-term competitiveness of United States industry, in which the Institute possesses special competence, which could be used to assist United States enterprises and United States industrial joint research and development ventures. Such report also shall comment on the programmatic planning document and updates thereto submitted to Congress by the Director under subsections (c) and (d) of [section 278i of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278i).
+(1) The Committee shall render an annual report to the Secretary for submission to the Congress not later than 30 days after the submittal to Congress of the President’s annual budget request in each year. Such report shall deal essentially, though not necessarily exclusively, with policy issues or matters which affect the Institute or with which the Committee in its official role as the private sector policy advisor of the Institute is concerned. Each such report shall identify areas of research and research techniques of the Institute of potential importance to the long-term competitiveness of United States industry, in which the Institute possesses special competence, which could be used to assist United States enterprises and United States industrial joint research and development ventures.
 
 (2) The Committee shall render to the Secretary and the Congress such additional reports on specific policy matters as it deems appropriate.
 
 ### Statutory Notes
 
-#### References in Text
-[Section 278n of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278n), referred to in subsec. (h)(1), was repealed and a new section 278n enacted by Pub. L. 110–69, title III, § 3012(a), (b), Aug. 9, 2007, 121 Stat. 593, and, as so enacted, section 278n no longer relates to the Advanced Technology Program, to which the term “Program” referred in this chapter.
-
 #### Amendments
+2017—Subsec. (a). Pub. L. 114–329, § 404(1), substituted “not fewer than 9 members appointed by the Director, a majority of whom” for “15 members appointed by the Director, at least 10 of whom” and “National Institute of Standards and Technology” for “National Bureau of Standards”.
+
+Subsec. (h)(1). Pub. L. 114–329, §§ 205(a)(2)(C), 404(2), made identical amendments, striking out “, including the Program established under [section 278n of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278n),” after “which affect the Institute”.
+
+Pub. L. 114–329, § 204(a)(1)(B)(ii), struck out at end “Such report also shall comment on the programmatic planning document and updates thereto submitted to Congress by the Director under subsections (c) and (d) of [section 278i of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278i).”
+
 2007—Subsec. (d). Pub. L. 110–69, § 3006, substituted “twice each year” for “quarterly”.
 
 Subsec. (h)(1). Pub. L. 110–69, § 3005, substituted “not later than 30 days after the submittal to Congress of the President’s annual budget request in each year” for “on or before January 31 in each year” and inserted at end “Such report also shall comment on the programmatic planning document and updates thereto submitted to Congress by the Director under subsections (c) and (d) of [section 278i of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278i).”
@@ -593,6 +623,9 @@ In the performance of the functions of the Institute the Secretary of Commerce i
 
 1972—Pub. L. 92–317 substituted, in cl. (b), “the care, maintenance, protection, repair, and alteration of Bureau buildings and other plant facilities, equipment, and property” for “the repair and alteration of buildings and other plant facilities”.
 
+#### NIST Campus Security
+Pub. L. 114–329, title I, § 113, Jan. 6, 2017, 130 Stat. 2993, provided that: “(a) Supervisory Authority.—The Department of Commerce Office of Security shall directly manage the law enforcement and site security programs of NIST [National Institute of Standards and Technology] through an assigned Director of Security for NIST without increasing the number of full-time equivalent employees of the Department of Commerce, including NIST. “(b) Reports.—The Director of Security for NIST shall provide an activities and security report on a quarterly basis for the first year after the date of enactment of this Act [Jan. 6, 2017], and on an annual basis thereafter, to the Under Secretary for Standards and Technology and the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Science, Space, and Technology of the House of Representatives].”
+
 
 <a id="section-278f"></a>
 ## § 278f. Fire Research Center
@@ -704,47 +737,75 @@ Pub. L. 96–461, § 9, Oct. 15, 1980, 94 Stat. 2051, as amended by Pub. L. 100�
 
 
 <a id="section-278g-1"></a>
-## § 278g–1. Research fellowships and other financial assistance to students at institutes of higher education
-**(a) In general** The Director is authorized to expend funds appropriated for activities of the Institute in any fiscal year, as the Director may deem desirable, for awards of research fellowships and other forms of financial assistance to students at institutions of higher learning within the United States who show promise as present or future contributors to the mission of the Institute, and to United States citizens for research and technical activities on Institute programs. The selection of persons to receive such fellowships and assistance shall be made on the basis of ability and of the relevance of the proposed work to the mission and programs of the Institute.
+## § 278g–1. Education and outreach
+**(a) In general** The Director is authorized to expend funds appropriated for activities of the Institute in any fiscal year, to support, promote, and coordinate activities and efforts to enhance public awareness and understanding of measurement sciences, standards and technology at the national measurement laboratories and otherwise in fulfillment of the mission of the Institute. The Director may carry out activities under this subsection, including education and outreach activities to the general public, industry and academia in support of the Institute’s mission.
 
-**(b) Manufacturing fellowship program**
+**(b) Hiring** The Director, in coordination with the Director of the Office of Personnel Management, may revise the procedures the Director applies when making appointments to laboratory positions within the competitive service—
 
-(1) **Establishment** — To promote the development of a robust research community working at the leading edge of manufacturing sciences, the Director shall establish a program to award—
+(1) to ensure corporate memory of and expertise in the fundamental ongoing work, and on developing new capabilities in priority areas;
 
-  (A) postdoctoral research fellowships at the Institute for research activities related to manufacturing sciences; and
+(2) to maintain high overall technical competence;
 
-  (B) senior research fellowships to established researchers in industry or at institutions of higher education who wish to pursue studies related to the manufacturing sciences at the Institute.
+(3) to improve staff diversity;
 
-(2) **Applications** — To be eligible for an award under this subsection, an individual shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require.
+(4) to balance emphases on the noncore and core areas; or
 
-(3) **Stipend levels** — Under this subsection, the Director shall provide stipends for postdoctoral research fellowships at a level consistent with the National Institute of Standards and Technology Postdoctoral Research Fellowship Program, and senior research fellowships at levels consistent with support for a faculty member in a sabbatical position.
+(5) to improve the ability of the Institute to compete in the marketplace for qualified personnel.
 
-**(c) Underrepresented minorities** In evaluating applications for fellowships under this section, the Director shall give consideration to the goal of promoting the participation of underrepresented minorities in research areas supported by the Institute.
+**(c) Volunteers**
+
+(1) **In general** — The Director may establish a program to use volunteers in carrying out the programs of the Institute.
+
+(2) **Acceptance of personnel** — The Director may accept, subject to regulations issued by the Office of Personnel Management, voluntary service for the Institute for such purpose if the service—
+
+  (A) is to be without compensation; and
+
+  (B) will not be used to displace any current employee or act as a substitute for any future full-time employee of the Institute.
+
+(3) **Federal employee status** — Any individual who provides voluntary service under this subsection shall not be considered a Federal employee, except for purposes of chapter 81 of title 5 (relating to compensation for injury), and sections 2671 through 2680 of title 28 (relating to tort claims).
+
+**(d) Research fellowships**
+
+(1) **In general** — The Director may expend funds appropriated for activities of the Institute in any fiscal year, as the Director considers appropriate, for awards of research fellowships and other forms of financial and logistical assistance, including direct stipend awards to—
+
+  (A) students at institutions of higher learning within the United States who show promise as present or future contributors to the mission of the Institute; and
+
+  (B) United States citizens for research and technical activities of the Institute, including programs.
+
+(2) **Selection criteria** — The selection of persons to receive such fellowships and assistance shall be made on the basis of ability and of the relevance of the proposed work to the mission and programs of the Institute.
+
+(3) **Financial and logistical assistance** — Notwithstanding [section 1345 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1345&num=0&edition=prelim) or any other law to the contrary, the Director may include as a form of financial or logistical assistance under this subsection temporary housing and transportation to and from Institute facilities.
+
+**(e) Educational outreach activities** The Director may—
+
+(1) facilitate education programs for undergraduate and graduate students, postdoctoral researchers, and academic and industry employees;
+
+(2) sponsor summer workshops for STEM kindergarten through grade 12 teachers as appropriate;
+
+(3) develop programs for graduate student internships and visiting faculty researchers;
+
+(4) document publications, presentations, and interactions with visiting researchers and sponsoring interns as performance metrics for improving and continuing interactions with those individuals; and
+
+(5) facilitate laboratory tours and provide presentations for educational, industry, and community groups.
 
 ### Statutory Notes
 
 #### Prior Provisions
+A prior section 278g–1, act Mar. 3, 1901, ch. 872, § 18, as added Pub. L. 99–574, § 6(a), Oct. 28, 1986, 100 Stat. 3237; amended Pub. L. 100–418, title V, § 5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–245, title I, § 104(h)(1), Feb. 14, 1992, 106 Stat. 11; Pub. L. 110–69, title III, §§ 3008, 3013(a), Aug. 9, 2007, 121 Stat. 591, 598; Pub. L. 111–358, title IV, §§ 406(a), § 407(b), Jan. 4, 2011, 124 Stat. 4003, 4004, related to research fellowships and other financial assistance to students at institutes of higher education, prior to repeal by Pub. L. 114–329, title III, § 306(a), Jan. 6, 2017, 130 Stat. 3008.
+
 A prior section 18 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and is classified to [section 278q of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278q).
 
-#### Amendments
-2011—Subsec. (a). Pub. L. 111–358, § 407(b), struck out “up to 1.5 percent of the” after “expend”.
-
-Subsec. (c). Pub. L. 111–358, § 406(a), added subsec. (c).
-
-2007—Pub. L. 110–69 designated existing provisions as subsec. (a), inserted heading, substituted “up to 1.5 percent of the” for “up to 1 per centum of the”, and added subsec. (b).
-
-1992—Pub. L. 102–245 inserted before period at end of first sentence “, and to United States citizens for research and technical activities on Institute programs”.
-
-1988—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards” the first place appearing, and for “Bureau” wherever subsequently appearing.
-
-#### Effective Date
-Pub. L. 99–574, § 6(b), Oct. 28, 1986, 100 Stat. 3237, provided that: “The amendments made by subsection (a) [enacting this section] shall be effective October 1, 1986.”
+#### Savings Clause for Research Fellowships and Other Financial Assistance to Students at Institutes of Higher Education
+Pub. L. 114–329, title III, § 306(d)(1), Jan. 6, 2017, 130 Stat. 3010, provided that: “The repeal made by subsection (a) of this section [repealing this section] shall not affect any award of a research fellowship or other form of financial assistance made under section 18 of the National Institute of Standards and Technology Act ([15 U.S.C. 278g–1](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-1)) before the date of enactment of this Act [Jan. 6, 2017]. Such award shall continue to be subject to the requirements to which such funds were subject under that section before the date of enactment of this Act.”
 
 
 <a id="section-278g-2"></a>
 ## § 278g–2. Post-doctoral fellowship program
+**(a) In general** The Institute and the National Academy of Sciences, jointly, shall establish and conduct a post-doctoral fellowship program, subject to the availability of appropriations.
 
-The Institute shall establish and conduct a post-doctoral fellowship program, subject to the availability of appropriations, which shall be organized and carried out in substantially the same manner as the National Academy of Sciences/National Research Council Post-Doctoral Research Associate Program that was in effect prior to 1986, and which shall include not less than twenty nor more than 120 new fellows per fiscal year. In evaluating applications for fellowships under this section, the Director shall give consideration to the goal of promoting the participation of underrepresented minorities in research areas supported by the Institute.
+**(b) Organization** The post-doctoral fellowship program shall include not less than 20 new fellows per fiscal year.
+
+**(c) Evaluations** In evaluating applications for post-doctoral fellowships under this section, the Director of the Institute and the President of the National Academy of Sciences shall give consideration to the goal of promoting the participation of individuals identified in sections 1885a and 1885b of title 42 in research areas supported by the Institute.
 
 ### Statutory Notes
 
@@ -752,6 +813,8 @@ The Institute shall establish and conduct a post-doctoral fellowship program, su
 A prior section 19 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and is classified to [section 278q of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278q).
 
 #### Amendments
+2017—Pub. L. 114–329 amended section generally. Prior to amendment, text read as follows: “The Institute shall establish and conduct a post-doctoral fellowship program, subject to the availability of appropriations, which shall be organized and carried out in substantially the same manner as the National Academy of Sciences/National Research Council Post-Doctoral Research Associate Program that was in effect prior to 1986, and which shall include not less than twenty nor more than 120 new fellows per fiscal year. In evaluating applications for fellowships under this section, the Director shall give consideration to the goal of promoting the participation of underrepresented minorities in research areas supported by the Institute.”
+
 2011—Pub. L. 111–358, § 407(a), struck out “, in conjunction with the National Academy of Sciences,” after “The Institute”.
 
 Pub. L. 111–358, § 406(b), inserted at end “In evaluating applications for fellowships under this section, the Director shall give consideration to the goal of promoting the participation of underrepresented minorities in research areas supported by the Institute.”
@@ -764,6 +827,9 @@ Pub. L. 111–358, § 406(b), inserted at end “In evaluating applications for 
 
 #### Effective Date
 Pub. L. 99–574, § 8(b), Oct. 28, 1986, 100 Stat. 3238, provided that: “The amendments made by subsection (a) [enacting this section] shall be effective October 1, 1987.”
+
+#### Savings Clause for Post-Doctoral Fellowship Program
+Pub. L. 114–329, title III, § 306(d)(2), Jan. 6, 2017, 130 Stat. 3010, provided that: “The amendment made by subsection (c) of this section [amending this section] shall not affect any award of a post-doctoral fellowship or other form of financial assistance made under section 19 of the National Institute of Standards and Technology Act ([15 U.S.C. 278g–2](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-2)) before the date of enactment of this Act [Jan. 6, 2017]. Such awards shall continue to be subject to the requirements to which such funds were subject under that section before the date of enactment of this Act.”
 
 
 <a id="section-278g-2a"></a>
@@ -858,7 +924,13 @@ Pub. L. 99–574, § 8(b), Oct. 28, 1986, 100 Stat. 3238, provided that: “The 
 
   (C) information security policies, procedures, and practices;
 
-(3) conduct research, as needed, to determine the nature and extent of information security vulnerabilities and techniques for providing cost-effective information security;
+(3) conduct research and analysis—
+
+  (A) to determine the nature and extent of information security vulnerabilities and techniques for providing cost-effective information security;
+
+  (B) to review and determine prevalent information security challenges and deficiencies identified by agencies or the Institute, including any challenges or deficiencies described in any of the annual reports under section 3553 or 3554 of title 44, and in any of the reports and the independent evaluations under section 3555 of that title, that may undermine the effectiveness of agency information security programs and practices; and
+
+  (C) to evaluate the effectiveness and sufficiency of, and challenges to, Federal agencies’ implementation of standards and guidelines developed under this section and policies and standards promulgated under [section 11331 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11331&num=0&edition=prelim);
 
 (4) develop and periodically revise performance indicators and measures for agency information security policies and practices;
 
@@ -896,12 +968,9 @@ Pub. L. 99–574, § 8(b), Oct. 28, 1986, 100 Stat. 3238, provided that: “The 
 
 (4) the term “information technology” has the same meaning as provided in [section 11101 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11101&num=0&edition=prelim); and
 
-(5) the term “national security system” has the same meaning as provided in section 3552(b)(5) of such title.33 See References in Text note below.
+(5) the term “national security system” has the same meaning as provided in section 3552(b)(5) 1 of such title.33 So in original. “Such title” probably means title 44.
 
 ### Statutory Notes
-
-#### References in Text
-Section 3552(b)(5) of such title, referred to in subsec. (f)(5), probably should be [section 3552(b)(6) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552/b/6&num=0&edition=prelim).
 
 #### Codification
 November 25, 2002, referred to in subsec. (c)(3) and (4), was in the original “the date of the enactment of this section” in subsec. (c)(3) and “the date of the enactment of this Act” in subsec. (c)(4), which were translated as meaning the date of enactment of Pub. L. 107–296, which enacted the text of this section, to reflect the probable intent of Congress.
@@ -910,6 +979,8 @@ November 25, 2002, referred to in subsec. (c)(3) and (4), was in the original �
 A prior section 20 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and is classified to [section 278q of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278q).
 
 #### Amendments
+2017—Subsec. (d)(3). Pub. L. 114–329 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “conduct research, as needed, to determine the nature and extent of information security vulnerabilities and techniques for providing cost-effective information security;”.
+
 2014—Subsec. (a)(2). Pub. L. 113–283, § 2(e)(4)(A), substituted “section 3552(b)(5)” for “section 3532(b)(2)”.
 
 Subsec. (e). Pub. L. 113–274, § 204(2), added subsec. (e). Former subsec. (e) redesignated (f).
@@ -1201,7 +1272,7 @@ Advisory boards in existence on Jan. 5, 1973, to terminate not later than the ex
 
 <a id="section-278g-5"></a>
 ## § 278g–5. Enterprise integration initiative
-**(a) Establishment** The Director shall establish an initiative for advancing enterprise integration within the United States. In carrying out this section, the Director shall involve, as appropriate, the various units of the National Institute of Standards and Technology, including the National Institute of Standards and Technology laboratories (including the Building and Fire Research Laboratory), the Manufacturing Extension Partnership program 11 See Change of Name note below. established under sections 278k and 278l of this title, and the Malcolm Baldrige National Quality Program. This initiative shall build upon ongoing efforts of the National Institute of Standards and Technology and of the private sector, shall involve consortia that include government and industry, and shall address the enterprise integration needs of each United States major manufacturing industry at the earliest possible date.
+**(a) Establishment** The Director shall establish an initiative for advancing enterprise integration within the United States. In carrying out this section, the Director shall involve, as appropriate, the various units of the National Institute of Standards and Technology, including the National Institute of Standards and Technology laboratories (including the Building and Fire Research Laboratory), the Hollings Manufacturing Extension Partnership program established under sections 278k and 278l of this title, and the Malcolm Baldrige National Quality Program. This initiative shall build upon ongoing efforts of the National Institute of Standards and Technology and of the private sector, shall involve consortia that include government and industry, and shall address the enterprise integration needs of each United States major manufacturing industry at the earliest possible date.
 
 **(b) Assessment** For each major manufacturing industry, the Director may work with industry, trade associations, professional societies, and others as appropriate, to identify enterprise integration standardization and implementation activities underway in the United States and abroad that affect that industry and to assess the current state of enterprise integration within that industry. The Director may assist in the development of roadmaps to permit supply chains within the industry to operate as an integrated electronic enterprise. The roadmaps shall be based on voluntary consensus standards.
 
@@ -1220,16 +1291,15 @@ Advisory boards in existence on Jan. 5, 1973, to terminate not later than the ex
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (c), is Pub. L. 107–277, Nov. 5, 2002, 116 Stat. 1936, which enacted this section and provisions set out as a note under this section. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (c), is Pub. L. 107–277, Nov. 5, 2002, 116 Stat. 1936, known as the Enterprise Integration Act of 2002, which enacted this section and provisions set out as a note under this section. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was enacted as part of the Enterprise Integration Act of 2002, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
 
 #### Amendments
-2014—Subsecs. (c) to (e). Pub. L. 113–188 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which required annual reports on the National Institute of Standards and Technology’s activities under subsec. (b).
+2017—Subsec. (a). Pub. L. 114–329 inserted “Hollings” before “Manufacturing Extension Partnership”.
 
-#### Change of Name
-The Manufacturing Extension Partnership Program, referred to in subsec. (a), redesignated the Hollings Manufacturing Partnership Program by provision of title II of div. B of Pub. L. 108–447, formerly set out as a note under [section 278k of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278k). Program now known as the Hollings Manufacturing Extension Partnership, see [section 278k(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278k/i&num=0&edition=prelim).
+2014—Subsecs. (c) to (e). Pub. L. 113–188 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which required annual reports on the National Institute of Standards and Technology’s activities under subsec. (b).
 
 #### Enterprise Integration
 Pub. L. 107–277, Nov. 5, 2002, 116 Stat. 1936, provided that: “SECTION. 1. SHORT TITLE.“This Act [enacting this section and this note] may be cited as the ‘Enterprise Integration Act of 2002’. “SEC. 2. FINDINGS.“The Congress makes the following findings:“(1) Over 90 percent of United States companies engaged in manufacturing are small- and medium-sized businesses. “(2) Most of these manufacturers produce goods for assemblage into products of large companies. “(3) The emergence of the World Wide Web and the promulgation of international standards for product data exchange greatly accelerated the movement toward electronically integrated supply chains during the last half of the 1990’s. “(4) European and Asian countries are investing heavily in electronic enterprise standards development, and in preparing their smaller manufacturers to do business in the new environment. European efforts are well advanced in the aerospace, automotive, and shipbuilding industries and are beginning in other industries including home building, furniture manufacturing, textiles, and apparel. This investment could give overseas companies a major competitive advantage. “(5) The National Institute of Standards and Technology, because of the electronic commerce expertise in its laboratories and quality program, its long history of working cooperatively with manufacturers, and the nationwide reach of its manufacturing extension program, is in a unique position to help United States large and smaller manufacturers alike in their responses to this challenge. “(6) It is, therefore, in the national interest for the National Institute of Standards and Technology to accelerate its efforts in helping industry develop standards and enterprise integration processes that are necessary to increase efficiency and lower costs. “SEC. 3. ENTERPRISE INTEGRATION INITIATIVE. [Enacted this section.] “SEC. 4. DEFINITIONS.“For purposes of this Act—“(1) the term ‘automotive’ means land-based engine-powered vehicles including automobiles, trucks, busses, trains, defense vehicles, farm equipment, and motorcycles; “(2) the term ‘Director’ means the Director of the National Institute of Standards and Technology; “(3) the term ‘enterprise integration’ means the electronic linkage of manufacturers, assemblers, suppliers, and customers to enable the electronic exchange of product, manufacturing, and other business data among all partners in a product supply chain, and such term includes related application protocols and other related standards; “(4) the term ‘major manufacturing industry’ includes the aerospace, automotive, electronics, shipbuilding, construction, home building, furniture, textile, and apparel industries and such other industries as the Director designates; and “(5) the term ‘roadmap’ means an assessment of manufacturing interoperability requirements developed by an industry describing that industry’s goals related to enterprise integration, the knowledge and standards including application protocols necessary to achieve those goals, and the necessary steps, timetable, and assignment of responsibilities for acquiring the knowledge and developing the standards and protocols. “SEC. 5. AUTHORIZATION OF APPROPRIATIONS.“There are authorized to be appropriated to the Director to carry out functions under this Act—“(1) $2,000,000 for fiscal year 2002; “(2) $10,000,000 for fiscal year 2003; “(3) $15,000,000 for fiscal year 2004; and “(4) $20,000,000 for fiscal year 2005.”
@@ -1331,13 +1401,11 @@ Committee on Science of House of Representatives changed to Committee on Science
 
 **(b) Justification for changes in policies and fees** The Director shall justify in writing all changes in policies regarding fees for standard reference materials and calibration services occurring after June 30, 1987, including a description of the anticipated impact of any proposed changes on demand for and anticipated revenues from the materials and services. Changes in policy and fees shall not be effective unless and until the Director has submitted the proposed schedule and justification to the Congress and 30 days on which both Houses of Congress are in session have elapsed since such submission, except that the requirement of this sentence shall not apply with respect to adjustments which are based solely on changes in the costs of raw materials or of producing and delivering standard reference materials or calibration services.
 
-**(c) Three-Year programmatic planning document** Concurrent with the submission to Congress of the President’s annual budget request in the first year after August 9, 2007, the Director shall submit to Congress a 3-year programmatic planning document for the Institute, including programs under the Scientific and Technical Research and Services, Industrial Technology Services, and Construction of Research Facilities functions.
-
-**(d) Annual update on three-year programmatic planning document** Concurrent with the submission to the Congress of the President’s annual budget request in each year after August 9, 2007, the Director shall submit to Congress an update to the 3-year programmatic planning document submitted under subsection (c), revised to cover the first 3 fiscal years after the date of that update.
-
 ### Statutory Notes
 
 #### Amendments
+2017—Subsecs. (c), (d). Pub. L. 114–329 struck out subsecs. (c) and (d) which required the Director to submit to Congress a 3-year programmatic planning document for the Institute and annual updates.
+
 2007—Subsecs. (c), (d). Pub. L. 110–69 added subsecs. (c) and (d).
 
 #### Change of Name
@@ -1357,200 +1425,303 @@ The Director may periodically contract with the National Research Council for ad
 
 
 <a id="section-278k"></a>
-## § 278k. Regional centers for the transfer of manufacturing technology
-**(a) Creation and support of Centers; affiliations; merit review in determining awards; objectives** The Secretary, through the Director and, if appropriate, through other officials, shall provide assistance for the creation and support of regional centers for the transfer of manufacturing technology (hereafter in this chapter referred to as the “Centers”). Such centers 11 So in original. Probably should be capitalized. shall be affiliated with any United States-based nonprofit institution or organization, or group thereof, that applies for and is awarded financial assistance under this section in accordance with the description published by the Secretary in the Federal Register under subsection (c)(2). Individual awards shall be decided on the basis of merit review. The objective of the Centers is to enhance productivity and technological performance in United States manufacturing through—
+## § 278k. Hollings Manufacturing Extension Partnership
+**(a) Definitions** In this section:
+
+(1) **Appropriate committees of congress** — The term “appropriate committees of Congress” means—
+
+  (A) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+  (B) the Committee on Science, Space, and Technology of the House of Representatives.
+
+(2) **Area career and technical education school** — The term “area career and technical education school” has the meaning given the term in [section 2302 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2302&num=0&edition=prelim).
+
+(3) **Center** — The term “Center” means a manufacturing extension center that—
+
+  (A) is created under subsection (b); and
+
+  (B) is affiliated with an eligible entity that applies for and is awarded financial support under subsection (e).
+
+(4) **Community college** — The term “community college” means an institution of higher education (as defined under [section 1001(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim)) at which the highest degree that is predominately awarded to students is an associate’s degree.
+
+(5) **Eligible entity** — The term “eligible entity” means a United States-based nonprofit institution, or consortium thereof, an institution of higher education, or a State, United States territory, local, or tribal government.
+
+(6) **Hollings Manufacturing Extension Partnership or Program** — The term “Hollings Manufacturing Extension Partnership” or “Program” means the program established under subsection (b).
+
+(7) **MEP advisory board** — The term “MEP Advisory Board” means the Manufacturing Extension Partnership Advisory Board established under subsection (n).11 So in original. Probably should refer to subsec. (m).
+
+**(b) Establishment and purpose** The Secretary, acting through the Director and, if appropriate, through other Federal officials, shall establish a program to provide assistance for the creation and support of manufacturing extension centers for the transfer of manufacturing technology and best business practices.
+
+**(c) Objective** The objective of the Program shall be to enhance competitiveness, productivity, and technological performance in United States manufacturing through—
 
 (1) the transfer of manufacturing technology and techniques developed at the Institute to Centers and, through them, to manufacturing companies throughout the United States;
 
-(2) the participation of individuals from industry, universities, State governments, other Federal agencies, and, when appropriate, the Institute in cooperative technology transfer activities;
+(2) the participation of individuals from industry, institutions of higher education, State governments, other Federal agencies, and, when appropriate, the Institute in cooperative technology transfer activities;
 
-(3) efforts to make new manufacturing technology and processes usable by United States-based small- and medium-sized companies;
+(3) efforts to make new manufacturing technology and processes usable by United States-based small and medium-sized companies;
 
-(4) the active dissemination of scientific, engineering, technical, and management information about manufacturing to industrial firms, including small- and medium-sized manufacturing companies;
+(4) the active dissemination of scientific, engineering, technical, and management information about manufacturing to industrial firms, including small and medium-sized manufacturing companies;
 
-(5) the utilization, when appropriate, of the expertise and capability that exists in Federal laboratories other than the Institute; and
+(5) the utilization, when appropriate, of the expertise and capability that exists in Federal agencies, other than the Institute, and federally-sponsored laboratories;
 
-(6) providing to community colleges information about the job skills needed in small- and medium-sized manufacturing businesses in the regions they serve.
+(6) the provision to community colleges and area career and technical education schools of information about the job skills needed in manufacturing companies, including small and medium-sized manufacturing businesses in the regions they serve;
 
-**(b) Activities of Centers** The activities of the Centers shall include—
+(7) the promotion and expansion of certification systems offered through industry, associations, and local colleges when appropriate, including efforts such as facilitating training, supporting new or existing apprenticeships, and providing access to information and experts, to address workforce needs and skills gaps in order to assist small- and medium-sized manufacturing businesses; and
 
-(1) the establishment of automated manufacturing systems and other advanced production technologies, based on research by the Institute, for the purpose of demonstrations and technology transfer;
+(8) the growth in employment and wages at United States-based small and medium-sized companies.
 
-(2) the active transfer and dissemination of research findings and Center expertise to a wide range of companies and enterprises, particularly small- and medium-sized manufacturers; and
+**(d) Activities** The activities of a Center shall include—
 
-(3) loans, on a selective, short-term basis, of items of advanced manufacturing equipment to small manufacturing firms with less than 100 employees.
+(1) the establishment of automated manufacturing systems and other advanced production technologies, based on Institute-supported research, for the purpose of demonstrations and technology transfer;
 
-**(c) Duration and amount of support; program descriptions; applications; merit review; evaluations of assistance; applicability of patent law; report; modification of requirements**
+(2) the active transfer and dissemination of research findings and Center expertise to a wide range of companies and enterprises, particularly small and medium-sized manufacturers; and
 
-(1) The Secretary may provide financial support to any Center created under subsection (a) for a period not to exceed six years. The Secretary may not provide to a Center more than 50 percent of the capital and annual operating and maintenance funds required to create and maintain such Center.
+(3) the facilitation of collaborations and partnerships between small and medium-sized manufacturing companies, community colleges, and area career and technical education schools, to help those entities better understand the specific needs of manufacturers and to help manufacturers better understand the skill sets that students learn in the programs offered by such colleges and schools.
 
-(2) The Secretary shall publish in the Federal Register, within 90 days after August 23, 1988, a draft description of a program for establishing Centers, including—
+**(e) Financial assistance**
 
-  (A) a description of the program;
+(1) **Authorization** — Except as provided in paragraph (2), the Secretary may provide financial assistance for the creation and support of a Center through a cooperative agreement with an eligible entity.
 
-  (B) procedures to be followed by applicants;
+(2) **Cost sharing** — The Secretary may not provide more than 50 percent of the capital and annual operating and maintenance funds required to establish and support a Center.
 
-  (C) criteria for determining qualified applicants;
+(3) **Rule of construction** — For purposes of paragraph (2), any amount received by an eligible entity for a Center under a provision of law other than paragraph (1) shall not be considered an amount provided under paragraph (1).
 
-  (D) criteria, including those listed under paragraph (4), for choosing recipients of financial assistance under this section from among the qualified applicants; and
+(4) **Regulations** — The Secretary may revise or promulgate such regulations as necessary to carry out this subsection.
 
-  (E) maximum support levels expected to be available to Centers under the program in the fourth through sixth years of assistance under this section.
-  The Secretary shall publish a final description under this paragraph after the expiration of a 30-day comment period.
+**(f) Applications**
 
-(3)
+(1) **In general** — An eligible entity shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
-  (A) Any nonprofit institution, or group thereof, or consortia of nonprofit institutions, including entities existing on August 23, 1988, may submit to the Secretary an application for financial support under this subsection, in accordance with the procedures established by the Secretary and published in the Federal Register under paragraph (2).
+(2) **Program description** — The Secretary shall establish and update, as necessary—
 
-  (B) In order to receive assistance under this section, an applicant for financial assistance under subparagraph (A) shall provide adequate assurances that non-Federal assets obtained from the applicant and the applicant’s partnering organizations will be used as a funding source to meet not less than 50 percent of the costs incurred for the first 3 years and an increasing share for each of the last 3 years. For purposes of the preceding sentence, the costs incurred means the costs incurred in connection with the activities undertaken to improve the management, productivity, and technological performance of small- and medium-sized manufacturing companies.
+  (A) a description of the Program;
 
-  (C) In meeting the 50 percent requirement, it is anticipated that a Center will enter into agreements with other entities such as private industry, universities, and State governments to accomplish programmatic objectives and access new and existing resources that will further the impact of the Federal investment made on behalf of small- and medium-sized manufacturing companies. All non-Federal costs,22 So in original. The comma probably should not appear. contributed by such entities and determined by a Center as programmatically reasonable and allocable under MEP program procedures are includable as a portion of the Center’s contribution.
+  (B) the application procedures;
 
-  (D) Each applicant under subparagraph (A) shall also submit a proposal for the allocation of the legal rights associated with any invention which may result from the proposed Center’s activities.
+  (C) performance metrics;
 
-(4) The Secretary shall subject each such application to merit review. In making a decision whether to approve such application and provide financial support under this subsection, the Secretary shall consider at a minimum (A) the merits of the application, particularly those portions of the application regarding technology transfer, training and education, and adaptation of manufacturing technologies to the needs of particular industrial sectors, (B) the quality of service to be provided, (C) geographical diversity and extent of service area, and (D) the percentage of funding and amount of in-kind commitment from other sources.
+  (D) criteria for determining qualified applicants; and 22 So in original.
 
-(5) Each Center which receives financial assistance under this section shall be evaluated during its third year of operation by an evaluation panel appointed by the Secretary. Each such evaluation panel shall be composed of private experts, none of whom shall be connected with the involved Center, and Federal officials. An official of the Institute shall chair the panel. Each evaluation panel shall measure the involved Center’s performance against the objectives specified in this section. The Secretary shall not provide funding for the fourth through the sixth years of such Center’s operation unless the evaluation is positive. If the evaluation is positive, the Secretary may provide continued funding through the sixth year at declining levels. A Center that has not received a positive evaluation by the evaluation panel shall be notified by the panel of the deficiencies in its performance and shall be placed on probation for one year, after which time the panel shall reevaluate the Center. If the Center has not addressed the deficiencies identified by the panel, or shown a significant improvement in its performance, the Director shall conduct a new competition to select an operator for the Center or may close the Center. After the sixth year, a Center may receive additional financial support under this section if it has received a positive evaluation through an independent review, under procedures established by the Institute. Such an independent review shall be required at least every two years after the sixth year of operation. Funding received for a fiscal year under this section after the sixth year of operation shall not exceed one third of the capital and annual operating and maintenance costs of the Center under the program.
+  (E) criteria for choosing recipients of financial assistance from among the qualified applicants.2
 
-(6) The provisions of chapter 18 of title 35 shall (to the extent not inconsistent with this section) apply to the promotion of technology from research by Centers under this section except for contracts for such specific technology extension or transfer services as may be specified by statute or by the Director.
+  (F) procedures for determining allowable cost share contributions; and
 
-(7) Not later than 90 days after January 4, 2011, the Comptroller General shall submit to Congress a report on the cost share requirements under the program. The report shall—
+  (G) such other program policy objectives and operational procedures as the Secretary considers necessary.
 
-  (A) discuss various cost share structures, including the cost share structure in place prior to such date, and the effect of such cost share structures on individual Centers and the overall program; and
+(3) **Cost sharing**
 
-  (B) include recommendations for how best to structure the cost share requirement to provide for the long-term sustainability of the program.
+  (A) *In general* — To be considered for financial assistance under this section, an applicant shall provide adequate assurances that the applicant and if applicable, the applicant’s partnering organizations, will obtain funding for not less than 50 percent of the capital and annual operating and maintenance funds required to establish and support the Center from sources other than the financial assistance provided under subsection (e).
 
-(8) If consistent with the recommendations in the report transmitted to Congress under paragraph (7), the Secretary shall alter the cost structure requirements specified under paragraph (3)(B) and (5) provided that the modification does not increase the cost share structure in place before January 4, 2011, or allow the Secretary to provide a Center more than 50 percent of the costs incurred by that Center.
+  (B) *Agreements with other entities* — In meeting the cost-sharing requirement under subparagraph (A), an eligible entity may enter into an agreement with 1 or more other entities, such as a private industry, institutions of higher education, or a State, United States territory, local, or tribal government for the contribution by that other entity of funding if the Secretary determines the agreement—
 
-**(d) Acceptance of funds**
+    (i) is programmatically reasonable;
 
-(1) **In general** — In addition to such sums as may be appropriated to the Secretary and Director to operate the Centers program, the Secretary and Director also may accept funds from other Federal departments and agencies and under [section 272(c)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272/c/7&num=0&edition=prelim) from the private sector for the purpose of strengthening United States manufacturing.
+    (ii) will help accomplish programmatic objectives; and
 
-(2) **Allocation of funds**
+    (iii) is allocable under Program procedures under subsection (f)(2).
 
-  (A) *Funds accepted from other Federal departments or agencies* — The Director shall determine whether funds accepted from other Federal departments or agencies shall be counted in the calculation of the Federal share of capital and annual operating and maintenance costs under subsection (c).
+(4) **Legal rights** — Each applicant shall include in the application a proposal for the allocation of the legal rights associated with any intellectual property which may result from the activities of the Center.
 
-  (B) *Funds accepted from the private sector* — Funds accepted from the private sector under [section 272(c)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272/c/7&num=0&edition=prelim), if allocated to a Center, shall not be considered in the calculation of the Federal share under subsection (c) of this section.
+(5) **Merit review of applications**
 
-**(e) MEP Advisory Board**
+  (A) *In general* — The Secretary shall subject each application to merit review.
 
-(1) **Establishment** — There is established within the Institute a Manufacturing Extension Partnership Advisory Board (in this subsection referred to as the “MEP Advisory Board”).
+  (B) *Considerations* — In making a decision whether to approve an application and provide financial assistance under subsection (e), the Secretary shall consider, at a minimum—
+
+    (i) the merits of the application, particularly those portions of the application regarding technology transfer, training and education, and adaptation of manufacturing technologies to the needs of particular industrial sectors;
+
+    (ii) the quality of service to be provided;
+
+    (iii) the geographical diversity and extent of the service area; and
+
+    (iv) the type and percentage of funding and in-kind commitment from other sources under paragraph (3).
+
+**(g) Evaluations**
+
+(1) **Third and eighth year evaluations by panel**
+
+  (A) *In general* — The Secretary shall ensure that each Center is evaluated during its third and eighth years of operation by an evaluation panel appointed by the Secretary.
+
+  (B) *Composition* — The Secretary shall ensure that each evaluation panel appointed under subparagraph (A) is composed of—
+
+    (i) private experts, none of whom are connected with the Center evaluated by the panel; and
+
+    (ii) Federal officials.
+
+  (C) *Chairperson* — For each evaluation panel appointed under subparagraph (B), the Secretary shall appoint a chairperson who is an official of the Institute.
+
+(2) **Fifth year evaluations by Secretary** — In the fifth year of operation of a Center, the Secretary shall conduct a review of the Center.
+
+(3) **Performance measurement** — In evaluating a Center an evaluation panel or the Secretary, as applicable, shall measure the performance of the Center against—
+
+  (A) the objective specified in subsection (c);
+
+  (B) the performance metrics under subsection (f)(2)(C); and
+
+  (C) such other criterion as considered appropriate by the Secretary.
+
+(4) **Positive evaluations** — If an evaluation of a Center is positive, the Secretary may continue to provide financial assistance for the Center—
+
+  (A) in the case of an evaluation occurring in the third year of a Center, through the fifth year of the Center;
+
+  (B) in the case of an evaluation occurring in the fifth year of a Center, through the eighth year of the Center; and
+
+  (C) in the case of an evaluation occurring in the eighth year of a Center, through the tenth year of the Center.
+
+(5) **Other than positive evaluations**
+
+  (A) *Probation* — If an evaluation of a Center is other than positive, the Secretary shall put the Center on probation during the period beginning on the date that the Center receives notice under subparagraph (B)(i) and ending on the date that the reevaluation is complete under subparagraph (B)(iii).
+
+  (B) *Notice and reevaluation* — If a Center receives an evaluation that is other than positive, the evaluation panel or Secretary, as applicable, shall—
+
+    (i) notify the Center of the reason, including any deficiencies in the performance of the Center identified during the evaluation;
+
+    (ii) assist the Center in remedying the deficiencies by providing the Center, not less frequently than once every 3 months, an analysis of the Center, if considered appropriate by the panel or Secretary, as applicable; and
+
+    (iii) reevaluate the Center not later than 1 year after the date of the notice under clause (i).
+
+  (C) *Continued support during period of probation*
+
+    (i) *In general* — The Secretary may continue to provide financial assistance under subsection (e) for a Center during the probation period.
+
+    (ii) *Post probation* — After the period of probation, the Secretary shall not provide any financial assistance unless the Center has received a positive evaluation under subparagraph (B)(iii).
+
+(6) **Failure to remedy**
+
+  (A) *In general* — If a Center fails to remedy a deficiency or to show significant improvement in performance before the end of the probation period under paragraph (5), the Secretary shall conduct a competition to select an operator for the Center under subsection (h).
+
+  (B) *Treatment of Centers subject to new competition* — Upon the selection of an operator for a Center under subsection (h), the Center shall be considered a new Center and the calculation of the years of operation of that Center for purposes of paragraphs (1) through (5) of this subsection and subsection (h)(1) shall start anew.
+
+**(h) Reapplication competition for financial assistance after 10 years**
+
+(1) **In general** — If an eligible entity has operated a Center under this section for a period of 10 consecutive years, the Secretary shall conduct a competition to select an eligible entity to operate the Center in accordance with the process plan under subsection (i).
+
+(2) **Incumbent eligible entities** — An eligible entity that has received financial assistance under this section for a period of 10 consecutive years and that the Secretary determines is in good standing shall be eligible to compete in the competition under paragraph (1).
+
+(3) **Treatment of Centers subject to reapplication competition** — Upon the selection of an operator for a Center under paragraph (1), the Center shall be considered a new Center and the calculation of the years of operation of that Center for purposes of paragraphs (1) through (5) of subsection (g) shall start anew.
+
+**(i) Process plan** Not later than 180 days after January 6, 2017, the Secretary shall implement and submit to Congress a plan for how the Institute will conduct an evaluation, competition, and reapplication competition under this section.
+
+**(j) Operational requirements**
+
+(1) **Protection of confidential information of Center clients** — The following information, if obtained by the Federal Government in connection with an activity of a Center or the Program, shall be exempt from public disclosure under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim):
+
+  (A) Information on the business operation of any participant in the Program or of a client of a Center.
+
+  (B) Trade secrets of any client of a Center.
+
+**(k) Oversight boards**
+
+(1) **In general** — As a condition on receipt of financial assistance for a Center under subsection (e), an eligible entity shall establish a board to oversee the operations of the Center.
+
+(2) **Standards**
+
+  (A) *In general* — The Director shall establish appropriate standards for each board described under paragraph (1).
+
+  (B) *Considerations* — In establishing the standards, the Director shall take into account the type and organizational structure of an eligible entity.
+
+  (C) *Requirements* — The standards shall address—
+
+    (i) membership;
+
+    (ii) composition;
+
+    (iii) term limits;
+
+    (iv) conflicts of interest; and
+
+    (v) such other requirements as the Director considers necessary.
+
+(3) **Membership**
+
+  (A) *In general* — Each board established under paragraph (1) shall be composed of members as follows:
+
+    (i) The membership of each board shall be representative of stakeholders in the region in which the Center is located.
+
+    (ii) A majority of the members of the board shall be selected from among individuals who own or are employed by small or medium-sized manufacturers.
+
+  (B) *Limitation* — A member of a board established under paragraph (1) may not serve on more than 1 board established under that paragraph.
+
+(4) **Bylaws**
+
+  (A) *In general* — Each board established under paragraph (1) shall adopt and submit to the Director bylaws to govern the operation of the board.
+
+  (B) *Conflicts of interest* — Bylaws adopted under subparagraph (A) shall include policies to minimize conflicts of interest, including such policies relating to disclosure of relationships and recusal as may be necessary to minimize conflicts of interest.
+
+**(l) Acceptance of funds** In addition to such sums as may be appropriated to the Secretary and Director to operate the Program, the Secretary and Director may also accept funds from other Federal departments and agencies and from the private sector under [section 272(c)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272/c/7&num=0&edition=prelim), to be available to the extent provided by appropriations Acts, for the purpose of strengthening United States manufacturing.
+
+**(m) MEP Advisory Board**
+
+(1) **Establishment** — There is established within the Institute a Manufacturing Extension Partnership Advisory Board.
 
 (2) **Membership**
 
-  (A) *In general* — The MEP Advisory Board shall consist of 10 members broadly representative of stakeholders, to be appointed by the Director. At least 2 members shall be employed by or on an advisory board for the Centers, and at least 5 other members shall be from United States small businesses in the manufacturing sector. No member shall be an employee of the Federal Government.
+  (A) *Composition*
 
-  (B) *Term* — Except as provided in subparagraph (C) or (D), the term of office of each member of the MEP Advisory Board shall be 3 years.
+    (i) *In general* — The MEP Advisory Board shall consist of not fewer than 10 members appointed by the Director and broadly representative of stakeholders.
 
-  (C) *Classes* — The original members of the MEP Advisory Board shall be appointed to 3 classes. One class of 3 members shall have an initial term of 1 year, one class of 3 members shall have an initial term of 2 years, and one class of 4 members shall have an initial term of 3 years.
+    (ii) *Requirements* — Of the members appointed under clause (i)—
 
-  (D) *Vacancies* — Any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.
+      (I) at least 2 members shall be employed by or on an advisory board for a Center;
 
-  (E) *Serving consecutive terms* — Any person who has completed two consecutive full terms of service on the MEP Advisory Board shall thereafter be ineligible for appointment during the one-year period following the expiration of the second such term.
+      (II) at least 5 members shall be from United States small businesses in the manufacturing sector; and
 
-(3) **Meetings** — The MEP Advisory Board shall meet not less than 2 times annually, and provide to the Director—
+      (III) at least 1 member shall represent a community college.
 
-  (A) advice on Manufacturing Extension Partnership programs, plans, and policies;
+    (iii) *Limitation* — No member of the MEP Advisory Board shall be an employee of the Federal Government.
 
-  (B) assessments of the soundness of Manufacturing Extension Partnership plans and strategies; and
+  (B) *Term* — Except as provided in subparagraph (C), the term of office of each member of the MEP Advisory Board shall be 3 years.
 
-  (C) assessments of current performance against Manufacturing Extension Partnership program plans.
+  (C) *Vacancies* — Any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.
 
-(4) **Federal Advisory Committee Act applicability**
+  (D) *Serving consecutive terms* — Any person who has completed 2 consecutive full terms of service on the MEP Advisory Board shall thereafter be ineligible for appointment during the 1-year period following the expiration of the second such term.
 
-  (A) *In general* — In discharging its duties under this subsection, the MEP Advisory Board shall function solely in an advisory capacity, in accordance with the Federal Advisory Committee Act.
+(3) **Meetings** — The MEP Advisory Board shall—
+
+  (A) meet not less than biannually; and
+
+  (B) provide to the Director—
+
+    (i) advice on the activities, plans, and policies of the Program;
+
+    (ii) assessments of the soundness of the plans and strategies of the Program; and
+
+    (iii) assessments of current performance against the plans of the Program.
+
+(4) **FACA applicability**
+
+  (A) *In general* — In discharging its duties under this subsection, the MEP Advisory Board shall function solely in an advisory capacity, in accordance with the Federal Advisory Committee Act (5 U.S.C. App.).
 
   (B) *Exception* — Section 14 of the Federal Advisory Committee Act shall not apply to the MEP Advisory Board.
 
-(5) **Report** — The MEP Advisory Board shall transmit an annual report to the Secretary for transmittal to Congress within 30 days after the submission to Congress of the President’s annual budget request in each year. Such report shall address the status of the program established pursuant to this section and comment on the relevant sections of the programmatic planning document and updates thereto transmitted to Congress by the Director under subsections (c) and (d) of [section 278i of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278i).
+(5) **Annual report**
 
-**(f) Competitive grant program**
+  (A) *In general* — At a minimum, the MEP Advisory Board shall transmit an annual report to the Secretary for transmittal to Congress not later than 30 days after the submission to Congress of the President’s annual budget under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim).
 
-(1) **Establishment** — The Director shall establish, within the Centers program under this section and section 278l of this title, a program of competitive awards among participants described in paragraph (2) for the purposes described in paragraph (3).
+  (B) *Contents* — The report shall address the status of the Program and describe the relevant sections of the programmatic planning document and updates thereto transmitted to Congress by the Director under subsections (c) and (d) of section 278i 33 See References in Text note below. of this title.
 
-(2) **Participants** — Participants receiving awards under this subsection shall be the Centers, or a consortium of such Centers.
+**(n) Small manufacturers**
 
-(3) **Purpose** — The purpose of the program under this subsection is to add capabilities to the MEP program, including the development of projects to solve new or emerging manufacturing problems as determined by the Director, in consultation with the Director of the Hollings MEP program, the Manufacturing Extension Partnership Advisory Board, and small and medium-sized manufacturers. One or more themes for the competition may be identified, which may vary from year to year, depending on the needs of manufacturers and the success of previous competitions. Centers may be reimbursed for costs incurred under the program. These themes—
+(1) **Evaluation of obstacles** — As part of the Program, the Director shall—
 
-  (A) shall be related to projects designed to increase the viability both of traditional manufacturing sectors and other sectors, such as construction, that increasingly rely on manufacturing through the use of manufactured components and manufacturing techniques, including supply chain integration and quality management;
+  (A) identify obstacles that prevent small manufacturers from effectively competing in the global market;
 
-  (B) shall be related to projects related to the transfer of technology based on the technological needs of manufacturers and available technologies from institutions of higher education, laboratories, and other technology producing entities; and
+  (B) implement a comprehensive plan to train the Centers to address the obstacles identified in paragraph (2); and
 
-  (C) may extend beyond these traditional areas to include projects related to construction industry modernization.
+  (C) facilitate improved communication between the Centers to assist such manufacturers in implementing appropriate, targeted solutions to the obstacles identified in paragraph (2).
 
-(4) **Applications** — Applications for awards under this subsection shall be submitted in such manner, at such time, and containing such information as the Director shall require, in consultation with the Manufacturing Extension Partnership Advisory Board.
-
-(5) **Selection**
-
-  (A) *In general* — Awards under this section shall be peer reviewed and competitively awarded. The Director shall endeavor to select at least one proposal in each of the 9 statistical divisions of the United States (as designated by the Bureau of the Census). The Director shall select proposals to receive awards that will—
-
-    (i) create jobs or train newly hired employees;
-
-    (ii) promote technology transfer and commercialization of environmentally focused materials, products, and processes;
-
-    (iii) increase energy efficiency; and
-
-    (iv) improve the competitiveness of industries in the region in which the Center or Centers are located.
-
-  (B) *Additional selection criteria* — The Director may select proposals to receive awards that will—
-
-    (i) encourage greater cooperation and foster partnerships in the region with similar Federal, State, and locally funded programs to encourage energy efficiency and building technology; and
-
-    (ii) collect data and analyze the increasing connection between manufactured products and manufacturing techniques, the future of construction practices, and the emerging application of products from the green energy industries.
-
-(6) **Program contribution** — Recipients of awards under this subsection shall not be required to provide a matching contribution.
-
-(7) **33 So in original. Two pars. (7) have been enacted. Global marketplace projects** — In making awards under this subsection, the Director, in consultation with the Manufacturing Extension Partnership Advisory Board and the Secretary of Commerce, may—
-
-  (A) take into consideration whether an application has significant potential for enhancing the competitiveness of small and medium-sized United States manufacturers in the global marketplace; and
-
-  (B) give a preference to applications for such projects to the extent the Director deems appropriate, taking into account the broader purposes of this subsection.
-
-(7) **3 Duration** — Awards under this section shall last no longer than 3 years.
-
-(8) **Eligible participants** — In addition to manufacturing firms eligible to participate in the Centers program, awards under this subsection may be used by the Centers to assist small- or medium-sized construction firms. Centers may be reimbursed under the program for working with such eligible participants.
-
-(9) **Authorization of appropriations** — In addition to any amounts otherwise authorized or appropriated to carry out this section, there are authorized to be appropriated to the Secretary of Commerce $7,000,000 for each of the fiscal years 2011 through 2013 to carry out this subsection.
-
-**(g) Innovative services initiative**
-
-(1) **Establishment** — The Director shall establish, within the Centers program under this section, an innovative services initiative to assist small- and medium-sized manufacturers in—
-
-  (A) reducing their energy usage, greenhouse gas emissions, and environmental waste to improve profitability;
-
-  (B) accelerating the domestic commercialization of new product technologies, including components for renewable energy and energy efficiency systems; and
-
-  (C) identification of and diversification to new markets, including support for transitioning to the production of components for renewable energy and energy efficiency systems.
-
-(2) **Market demand** — The Director may not undertake any activity to accelerate the domestic commercialization of a new product technology under this subsection unless an analysis of market demand for the new product technology has been conducted.
-
-**(h) Reports**
-
-(1) **In general** — In submitting the 3-year programmatic planning document and annual updates under [section 278i of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278i), the Director shall include an assessment of the Director’s governance of the program established under this section.
-
-(2) **Criteria** — In conducting the assessment, the Director shall use the criteria established pursuant to the Malcolm Baldrige National Quality Award under [section 3711a(d)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3711a/d/1/C&num=0&edition=prelim).
-
-**(i) Designation**
-
-(1) **Hollings Manufacturing Extension Partnership** — The program under this section shall be known as the “Hollings Manufacturing Extension Partnership”.
-
-(2) **Hollings Manufacturing Extension Centers** — The Regional Centers for the Transfer of Manufacturing Technology created and supported under subsection (a) shall be known as the “Hollings Manufacturing Extension Centers” (in this chapter referred to as the “Centers”).
-
-**(j) Community college defined** In this section, the term “community college” means an institution of higher education (as defined under [section 1001(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim)) at which the highest degree that is predominately awarded to students is an associate’s degree.
-
-**(k) Evaluation of obstacles unique to small manufacturers** The Director shall—
-
-(1) evaluate obstacles that are unique to small manufacturers that prevent such manufacturers from effectively competing in the global market;
-
-(2) implement a comprehensive plan to train the Centers to address such obstacles; and
-
-(3) facilitate improved communication between the Centers to assist such manufacturers in implementing appropriate, targeted solutions to such obstacles.
+(2) **Development of open access resources** — As part of the Program, the Secretary shall develop open access resources that address best practices related to inventory sourcing, supply chain management, manufacturing techniques, available Federal resources, and other topics to further the competitiveness and profitability of small manufacturers.
 
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (e)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (m)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+Subsections (c) and (d) of [section 278i of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278i), referred to in subsec. (m)(5)(B), which related to 3-year programmatic planning documents and annual updates, were struck out by Pub. L. 114–329, title II, § 204(a)(1)(B)(i), Jan. 6, 2017, 130 Stat. 2998.
 
 #### Amendments
+2017—Pub. L. 114–329 amended section generally. Prior to amendment, section related to establishment of regional centers for the transfer of manufacturing technology, the MEP Advisory Board, a competitive grant program, and an innovative services initiative.
+
 2011—Subsec. (a). Pub. L. 111–358, § 404(f)(3)(A), substituted “regional centers for the transfer of manufacturing technology” for “Regional Centers for the Transfer of Manufacturing Technology” in introductory provisions.
 
 Subsec. (a)(6). Pub. L. 111–358, § 404(a), added par. (6).
@@ -1604,13 +1775,19 @@ Subsec. (f). Pub. L. 110–69, § 3003(e), added subsec. (f).
 Subsec. (d). Pub. L. 102–245, § 105(e)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated for the purposes of carrying out this section, a combined total of not to exceed $40,000,000 for fiscal years 1989 and 1990. Such sums shall remain available until expended.”
 
 #### Change of Name
-Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2879, which in part renamed the Manufacturing Extension Partnership Program authorized under this section as the Hollings Manufacturing Partnership Program and which named the centers established and receiving funding under subsec. (a) of this section the Hollings Manufacturing Extension Centers, was repealed by Pub. L. 111–358, title IV, § 404(f)(2), Jan. 4, 2011, 124 Stat. 4002.
+Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2879, which in part renamed the Manufacturing Extension Partnership Program authorized under this section as the Hollings Manufacturing Partnership Program and which named the centers established and receiving funding under former subsec. (a) of this section the Hollings Manufacturing Extension Centers, was repealed by Pub. L. 111–358, title IV, § 404(f)(2), Jan. 4, 2011, 124 Stat. 4002.
+
+#### Savings Provisions
+Pub. L. 114–329, title V, § 501(f), Jan. 6, 2017, 130 Stat. 3033, provided that: “Notwithstanding the amendments made by subsections (a) [sic; subsec. (a) is set out as a Short Title of 2017 Amendment note under [section 271 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-271)] and (b) of this section [amending this section], the Secretary of Commerce may carry out section 25 of the National Institute of Standards and Technology Act ([15 U.S.C. 278k](./chapter-007-national-institute-of-standards-and-technology.md#section-278k)) as that section was in effect on the day before the date of enactment of this Act [Jan. 6, 2017], with respect to existing grants, agreements, cooperative agreements, or contracts, and with respect to applications for such items that are received by the Secretary prior to the date of enactment of this Act.”
+
+#### Patent Rights
+Pub. L. 114–329, title V, § 501(g), Jan. 6, 2017, 130 Stat. 3033, provided that: “The provisions of chapter 18 of title 35, United States Code, shall apply, to the extent not inconsistent with section 25 of the National Institute of Standards and Technology Act ([15 U.S.C. 278k](./chapter-007-national-institute-of-standards-and-technology.md#section-278k)) and section 25 [sic] of that Act, to the promotion of technology from research by Centers under those sections, except for contracts for such specific technology extension or transfer services as may be specified by the Director of NIST [National Institute of Standards and Technology] or under other law.”
 
 #### Findings
-Pub. L. 111–358, title VII, § 702, Jan. 4, 2011, 124 Stat. 4041, provided that: “Congress finds the following: “(1) Over its 20-year existence, the Hollings Manufacturing Extension Partnership has proven its value to manufacturers as demonstrated by the resulting impact on jobs and the economies of all 50 States and the Nation as a whole. “(2) The Hollings Manufacturing Extension Partnership has helped thousands of companies reinvest in themselves through process improvement and business growth initiatives leading to more sales, new markets, and the adoption of technology to deliver new products and services. “(3) Manufacturing is an increasingly important part of the construction sector as the industry moves to the use of more components and factory built sub-assemblies. “(4) Construction practices must become more efficient and precise if the United States is to construct and renovate its building stock to reduce related carbon emissions to levels that are consistent with combating global warming. “(5) Many companies involved in construction are small, without access to innovative manufacturing techniques, and could benefit from the type of training and business analysis activities that the Hollings Manufacturing Extension Partnership routinely provides to the Nation’s manufacturers and their supply chains. “(6) Broadening the competitiveness grant program under section 25(f) of the National Institute of Standards and Technology Act ([15 U.S.C. 278k(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278k/f&num=0&edition=prelim)) could help develop and diffuse knowledge necessary to capture a large portion of the estimated $100 billion or more in energy savings if buildings in the United States met the level and quality of energy efficiency now found in buildings in certain other countries. “(7) It is therefore in the national interest to expand the capabilities of the Hollings Manufacturing Extension Partnership to be supportive of the construction and green energy industries.”
+Pub. L. 111–358, title VII, § 702, Jan. 4, 2011, 124 Stat. 4041, provided that: “Congress finds the following: “(1) Over its 20-year existence, the Hollings Manufacturing Extension Partnership has proven its value to manufacturers as demonstrated by the resulting impact on jobs and the economies of all 50 States and the Nation as a whole. “(2) The Hollings Manufacturing Extension Partnership has helped thousands of companies reinvest in themselves through process improvement and business growth initiatives leading to more sales, new markets, and the adoption of technology to deliver new products and services. “(3) Manufacturing is an increasingly important part of the construction sector as the industry moves to the use of more components and factory built sub-assemblies. “(4) Construction practices must become more efficient and precise if the United States is to construct and renovate its building stock to reduce related carbon emissions to levels that are consistent with combating global warming. “(5) Many companies involved in construction are small, without access to innovative manufacturing techniques, and could benefit from the type of training and business analysis activities that the Hollings Manufacturing Extension Partnership routinely provides to the Nation’s manufacturers and their supply chains. “(6) Broadening the competitiveness grant program under [former] section 25(f) of the National Institute of Standards and Technology Act ([former] [15 U.S.C. 278k(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278k/f&num=0&edition=prelim), now see [15 U.S.C. 278k–1](./chapter-007-national-institute-of-standards-and-technology.md#section-278k-1)) could help develop and diffuse knowledge necessary to capture a large portion of the estimated $100 billion or more in energy savings if buildings in the United States met the level and quality of energy efficiency now found in buildings in certain other countries. “(7) It is therefore in the national interest to expand the capabilities of the Hollings Manufacturing Extension Partnership to be supportive of the construction and green energy industries.”
 
 #### Agreements and Contributions for Collective Research and Development Initiatives
-Pub. L. 108–7, div. B, title II, Feb. 20, 2003, 117 Stat. 73, provided in part: “That hereafter the Secretary of Commerce is authorized to enter into agreements with one or more nonprofit organizations for the purpose of carrying out collective research and development initiatives pertaining to [15 U.S.C. 278k](./chapter-007-national-institute-of-standards-and-technology.md#section-278k) paragraph (a), and is authorized to seek and accept contributions from public and private sources to support these efforts as necessary.”
+Pub. L. 108–7, div. B, title II, Feb. 20, 2003, 117 Stat. 73, provided in part: “That hereafter the Secretary of Commerce is authorized to enter into agreements with one or more nonprofit organizations for the purpose of carrying out collective research and development initiatives pertaining to [former] [15 U.S.C. 278k](./chapter-007-national-institute-of-standards-and-technology.md#section-278k) paragraph (a), and is authorized to seek and accept contributions from public and private sources to support these efforts as necessary.”
 
 Similar provisions were contained in the following prior appropriation act:
 
@@ -1626,12 +1803,60 @@ Pub. L. 104–208, div. A, title I, § 101(a) [title II], Sept. 30, 1996, 110 St
 Pub. L. 103–317, title II, Aug. 26, 1994, 108 Stat. 1741.
 
 #### Publication in Federal Register
-Pub. L. 100–519, title I, § 102(d), Oct. 24, 1988, 102 Stat. 2590, provided that: “The requirement of section 25(c)(2) of the Act of March 3, 1901, [[15 U.S.C. 278k(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278k/c/2&num=0&edition=prelim)], shall be considered to have been met by the publication made by the National Bureau of Standards on July 18, 1988 (53 Fed. Reg. 27060).”
+Pub. L. 100–519, title I, § 102(d), Oct. 24, 1988, 102 Stat. 2590, provided that the requirement of former subsec. (c)(2) of this section was met by the publication made by the National Bureau of Standards on July 18, 1988, at 53 F.R. 27060.
+
+
+<a id="section-278k-1"></a>
+## § 278k–1. Competitive awards program
+**(a) Establishment** The Director shall establish within the Hollings Manufacturing Extension Partnership under [section 278k of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278k) and section 278l of this title a program of competitive awards among participants described in subsection (b) of this section for the purposes described in subsection (c).
+
+**(b) Participants** Participants receiving awards under this section shall be Centers, or a consortium of Centers.
+
+**(c) Purpose, themes, and reimbursement**
+
+(1) **Purpose** — The purpose of the program established under subsection (a) is to add capabilities to the Hollings Manufacturing Extension Partnership, including the development of projects to solve new or emerging manufacturing problems as determined by the Director, in consultation with the Director of the Hollings Manufacturing Extension Partnership, the MEP Advisory Board, other Federal agencies, and small and medium-sized manufacturers.
+
+(2) **Themes** — The Director may identify 1 or more themes for a competition carried out under this section, which may vary from year to year, as the Director considers appropriate after assessing the needs of manufacturers and the success of previous competitions.
+
+(3) **Reimbursement** — Centers may be reimbursed for costs incurred by the Centers under this section.
+
+**(d) Applications** Applications for awards under this section shall be submitted in such manner, at such time, and containing such information as the Director shall require in consultation with the MEP Advisory Board.
+
+**(e) Selection**
+
+(1) **Peer review and competitively awarded** — The Director shall ensure that awards under this section are peer reviewed and competitively awarded.
+
+(2) **Geographic diversity** — The Director shall endeavor to have broad geographic diversity among selected proposals.
+
+(3) **Criteria** — The Director shall select applications to receive awards that the Director determines will achieve 1 or more of the following:
+
+  (A) Improve the competitiveness of industries in the region in which the Center or Centers are located.
+
+  (B) Create jobs or train newly hired employees.
+
+  (C) Promote the transfer and commercialization of research and technology from institutions of higher education, national laboratories or other federally funded research programs, and nonprofit research institutes.
+
+  (D) Recruit a diverse manufacturing workforce, including through outreach to underrepresented populations, including individuals identified in section 1885a or [section 1885b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1885b&num=0&edition=prelim).
+
+  (E) Such other result as the Director determines will advance the objective set forth in [section 278k(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278k/c&num=0&edition=prelim) or in section 278l of this title.
+
+**(f) Program Contribution** Recipients of awards under this section shall not be required to provide a matching contribution.
+
+**(g) Global marketplace projects** In making an award under this section, the Director, in consultation with the MEP Advisory Board and the Secretary, may take into consideration whether an application has significant potential for enhancing the competitiveness of small and medium-sized United States manufacturers in the global marketplace.
+
+**(h) Duration** The duration of an award under this section shall be for not more than 3 years.
+
+**(i) Definitions** The terms used in this section have the meanings given the terms in [section 278k of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278k).
+
+### Statutory Notes
+
+#### Prior Provisions
+Provisions similar to this section were contained in [section 278k(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278k/f&num=0&edition=prelim), prior to the general amendment of section 278k by Pub. L. 114–329.
 
 
 <a id="section-278l"></a>
 ## § 278l. Assistance to State technology programs
-**(a)** In addition to the Centers program created under [section 278k of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278k), the Secretary, through the Director and, if appropriate, through other officials, shall provide technical assistance to State technology programs throughout the United States, in order to help those programs help businesses, particularly small- and medium-sized businesses, to enhance their competitiveness through the application of science and technology.
+**(a)** In addition to the Hollings Manufacturing Extension Partnership under [section 278k of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278k), the Secretary, through the Director and, if appropriate, through other officials, shall provide technical assistance to State technology programs throughout the United States, in order to help those programs help businesses, particularly small- and medium-sized businesses, to enhance their competitiveness through the application of science and technology.
 
 **(b)** Such assistance from the Institute to State technology programs shall include, but not be limited to—
 
@@ -1643,8 +1868,11 @@ Pub. L. 100–519, title I, § 102(d), Oct. 24, 1988, 102 Stat. 2590, provided t
 
 ### Statutory Notes
 
+#### Amendments
+2017—Subsec. (a). Pub. L. 114–329 substituted “Hollings Manufacturing Extension Partnership” for “Centers program created”.
+
 #### Technology Extension Services
-Pub. L. 100–418, title V, § 5121(b), (c), Aug. 23, 1988, 102 Stat. 1436, 1437, as amended by Pub. L. 102–245, title I, § 105(d), Feb. 14, 1992, 106 Stat. 12, provided that: “(b) Technology Extension Services.—(1) The Secretary shall conduct a nationwide study of current State technology extension services. The study shall include—“(A) a thorough description of each State program, including its duration, its annual budget, and the number and types of businesses it has aided; “(B) a description of any anticipated expansion of each State program and its associated costs; “(C) an evaluation of the success of the services in transferring technology, modernizing manufacturing processes, and improving the productivity and profitability of businesses; “(D) an assessment of the degree to which State services make use of Federal programs, including the Small Business Innovative Research program and the programs of the Federal Laboratory Consortium, the National Technical Information Service, the National Science Foundation, the Office of Productivity, Technology, and Innovation, and the Small Business Administration; “(E) a survey of what additional Federal information and technical assistance the services could utilize; and “(F) an assessment of how the services could be more effective agents for the transfer of Federal scientific and technical information, including the results and application of Federal and federally funded research. The Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, at the time of submission of the organization plan for the Institute under section 5112(d)(1) [of Pub. L. 100–418, set out as a note under [section 272 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-272)], the results of the study and an initial implementation plan for the programs under section 26 of the Act of March 3, 1901 [[15 U.S.C. 278](./chapter-007-national-institute-of-standards-and-technology.md#section-278)l], and under this section [enacting sections 278k to 278m of this title]. The implementation plan shall include methods of providing technical assistance to States and criteria for awarding financial assistance under this section. The Secretary may make use of contractors and experts for any or all of the studies and findings called for in this section. “(2)(A) The Institute shall enter into cooperative agreements with State technology extension services to—“(i) demonstrate methods by which the States can, in cooperation with Federal agencies, increase the use of Federal technology by businesses within their States to improve industrial competitiveness; or “(ii) help businesses in their States take advantage of the services and information offered by the Regional Centers for the Transfer of Manufacturing Technology created under section 25 of the Act of March 3, 1901 [[15 U.S.C. 278k](./chapter-007-national-institute-of-standards-and-technology.md#section-278k)]. “(B) Any State, for itself or for a consortium of States, may submit to the Secretary an application for a cooperative agreement under this subsection, in accordance with procedures established by the Secretary. To qualify for a cooperative agreement under this subsection, a State shall provide adequate assurances that it will increase its spending on technology extension services by an amount at least equal to the amount of Federal assistance. “(C) In evaluating each application, the Secretary shall consider—“(i) the number and types of additional businesses that will be assisted under the cooperative agreement; “(ii) the extent to which the State extension service will demonstrate new methods to increase the use of Federal technology; “(iii) geographic diversity; and “(iv) the ability of the State to maintain the extension service after the cooperative agreement has expired. “(D) States which are party to cooperative agreements under this subsection may provide services directly or may arrange for the provision of any or all of such services by institutions of higher education or other non-profit institutions or organizations. “(3) In carrying out section 26 of the Act of March 3, 1901 [[15 U.S.C. 278](./chapter-007-national-institute-of-standards-and-technology.md#section-278)l], and this subsection, the Secretary shall coordinate the activities with the Federal Laboratory Consortium; the National Technical Information Service; the National Science Foundation; the Office of Productivity, Technology, and Innovation; the Small Business Administration; and other appropriate Federal agencies. “(4) There are authorized to be appropriated for the purposes of this subsection $2,000,000 for each of the fiscal years 1989, 1990, and 1991. “(c) Federal Technology Transfer Act of 1986.—Nothing in sections [sic] 25 or 26 of the Act of March 3, 1901 [[15 U.S.C. 278k](./chapter-007-national-institute-of-standards-and-technology.md#section-278k), 278l], or in subsection (b) of this section shall be construed as limiting the authorities contained in the Federal Technology Transfer Act of 1986 (Public Law 99–502) [see Short Title of 1986 Amendments note set out under [section 3701 of this title](./chapter-063-technology-innovation.md#section-3701)].”
+Pub. L. 100–418, title V, § 5121(b), (c), Aug. 23, 1988, 102 Stat. 1436, 1437, as amended by Pub. L. 102–245, title I, § 105(d), Feb. 14, 1992, 106 Stat. 12, provided that: “(b) Technology Extension Services.—(1) The Secretary shall conduct a nationwide study of current State technology extension services. The study shall include—“(A) a thorough description of each State program, including its duration, its annual budget, and the number and types of businesses it has aided; “(B) a description of any anticipated expansion of each State program and its associated costs; “(C) an evaluation of the success of the services in transferring technology, modernizing manufacturing processes, and improving the productivity and profitability of businesses; “(D) an assessment of the degree to which State services make use of Federal programs, including the Small Business Innovative Research program and the programs of the Federal Laboratory Consortium, the National Technical Information Service, the National Science Foundation, the Office of Productivity, Technology, and Innovation, and the Small Business Administration; “(E) a survey of what additional Federal information and technical assistance the services could utilize; and “(F) an assessment of how the services could be more effective agents for the transfer of Federal scientific and technical information, including the results and application of Federal and federally funded research. The Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, at the time of submission of the organization plan for the Institute under section 5112(d)(1) [of Pub. L. 100–418, set out as a note under [section 272 of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-272)], the results of the study and an initial implementation plan for the programs under section 26 of the Act of March 3, 1901 [[15 U.S.C. 278](./chapter-007-national-institute-of-standards-and-technology.md#section-278)l], and under this section [enacting sections 278k to 278m of this title]. The implementation plan shall include methods of providing technical assistance to States and criteria for awarding financial assistance under this section. The Secretary may make use of contractors and experts for any or all of the studies and findings called for in this section. “(2)(A) The Institute shall enter into cooperative agreements with State technology extension services to—“(i) demonstrate methods by which the States can, in cooperation with Federal agencies, increase the use of Federal technology by businesses within their States to improve industrial competitiveness; or “(ii) help businesses in their States take advantage of the services and information offered by the Regional Centers for the Transfer of Manufacturing Technology created under [former] section 25 of the Act of March 3, 1901 [former [15 U.S.C. 278k](./chapter-007-national-institute-of-standards-and-technology.md#section-278k)]. “(B) Any State, for itself or for a consortium of States, may submit to the Secretary an application for a cooperative agreement under this subsection, in accordance with procedures established by the Secretary. To qualify for a cooperative agreement under this subsection, a State shall provide adequate assurances that it will increase its spending on technology extension services by an amount at least equal to the amount of Federal assistance. “(C) In evaluating each application, the Secretary shall consider—“(i) the number and types of additional businesses that will be assisted under the cooperative agreement; “(ii) the extent to which the State extension service will demonstrate new methods to increase the use of Federal technology; “(iii) geographic diversity; and “(iv) the ability of the State to maintain the extension service after the cooperative agreement has expired. “(D) States which are party to cooperative agreements under this subsection may provide services directly or may arrange for the provision of any or all of such services by institutions of higher education or other non-profit institutions or organizations. “(3) In carrying out section 26 of the Act of March 3, 1901 [[15 U.S.C. 278](./chapter-007-national-institute-of-standards-and-technology.md#section-278)l], and this subsection, the Secretary shall coordinate the activities with the Federal Laboratory Consortium; the National Technical Information Service; the National Science Foundation; the Office of Productivity, Technology, and Innovation; the Small Business Administration; and other appropriate Federal agencies. “(4) There are authorized to be appropriated for the purposes of this subsection $2,000,000 for each of the fiscal years 1989, 1990, and 1991. “(c) Federal Technology Transfer Act of 1986.—Nothing in sections [sic] 25 or 26 of the Act of March 3, 1901 [[15 U.S.C. 278k](./chapter-007-national-institute-of-standards-and-technology.md#section-278k), 278l], or in subsection (b) of this section shall be construed as limiting the authorities contained in the Federal Technology Transfer Act of 1986 (Public Law 99–502) [see Short Title of 1986 Amendments note set out under [section 3701 of this title](./chapter-063-technology-innovation.md#section-3701)].”
 
 
 <a id="section-278m"></a>
@@ -1656,164 +1884,16 @@ Section, act Mar. 3, 1901, ch. 872, § 27, as added Pub. L. 100–418, title V, 
 
 
 <a id="section-278n"></a>
-## § 278n. Technology Innovation Program
-**(a) Establishment** There is established within the Institute a program linked to the purpose and functions of the Institute, to be known as the “Technology Innovation Program” for the purpose of assisting United States businesses and institutions of higher education or other organizations, such as national laboratories and nonprofit research institutions, to support, promote, and accelerate innovation in the United States through high-risk, high-reward research in areas of critical national need.
-
-**(b) External funding**
-
-(1) **In general** — The Director shall award competitive, merit-reviewed grants, cooperative agreements, or contracts to—
-
-  (A) eligible companies that are small-sized businesses or medium-sized businesses; or
-
-  (B) joint ventures.
-
-(2) **Single company awards** — No award given to a single company shall exceed $3,000,000 over 3 years.
-
-(3) **Joint venture awards** — No award given to a joint venture shall exceed $9,000,000 over 5 years.
-
-(4) **Federal cost share** — The Federal share of a project funded by an award under the program shall not be more than 50 percent of total project costs.
-
-(5) **Prohibitions** — Federal funds awarded under this program may be used only for direct costs and not for indirect costs, profits, or management fees of a contractor. Any business that is not a small-sized or medium-sized business may not receive any funding under this program.
-
-**(c) Award criteria** The Director shall only provide assistance under this section to an entity—
-
-(1) whose proposal has scientific and technical merit and may result in intellectual property vesting in a United States entity that can commercialize the technology in a timely manner;
-
-(2) whose application establishes that the proposed technology has strong potential to address critical national needs through transforming the Nation’s capacity to deal with major societal challenges that are not currently being addressed, and generate substantial benefits to the Nation that extend significantly beyond the direct return to the applicant;
-
-(3) whose application establishes that the research has strong potential for advancing the state-of-the-art and contributing significantly to the United States science and technology knowledge base;
-
-(4) whose proposal explains why Technology Innovation Program support is necessary, including evidence that the research will not be conducted within a reasonable time period in the absence of financial assistance under this section;
-
-(5) whose application demonstrates that reasonable efforts have been made to secure funding from alternative funding sources and no other alternative funding sources are reasonably available to support the proposal; and
-
-(6) whose application explains the novelty of the technology and demonstrates that other entities have not already developed, commercialized, marketed, distributed, or sold similar technologies.
-
-**(d) Competitions** The Director shall solicit proposals at least annually to address areas of critical national need for high-risk, high-reward projects.
-
-**(e) Intellectual property rights ownership**
-
-(1) **In general** — Title to any intellectual property developed by a joint venture from assistance provided under this section may vest in any participant in the joint venture, as agreed by the members of the joint venture, notwithstanding section 202(a) and (b) of title 35. The United States may reserve a nonexclusive, nontransferable, irrevocable paid-up license, to have practice for or on behalf of the United States in connection with any such intellectual property, but shall not in the exercise of such license publicly disclose proprietary information related to the license. Title to any such intellectual property shall not be transferred or passed, except to a participant in the joint venture, until the expiration of the first patent obtained in connection with such intellectual property.
-
-(2) **Licensing** — Nothing in this subsection shall be construed to prohibit the licensing to any company of intellectual property rights arising from assistance provided under this section.
-
-(3) **Definition** — For purposes of this subsection, the term “intellectual property” means an invention patentable under title 35, or any patent on such an invention, or any work for which copyright protection is available under title 17.
-
-**(f) Program operation** Not later than 9 months after August 9, 2007, the Director shall promulgate regulations—
-
-(1) establishing criteria for the selection of recipients of assistance under this section;
-
-(2) establishing procedures regarding financial reporting and auditing to ensure that awards are used for the purposes specified in this section, are in accordance with sound accounting practices, and are not funding existing or planned research programs that would be conducted within a reasonable time period in the absence of financial assistance under this section; and
-
-(3) providing for appropriate dissemination of Technology Innovation Program research results.
-
-**(g) Continuation of ATP grants** The Director shall, through the Technology Innovation Program, continue to provide support originally awarded under the Advanced Technology Program, in accordance with the terms of the original award and consistent with the goals of the Technology Innovation Program.
-
-**(h) Coordination with other State and Federal technology programs** In carrying out this section, the Director shall, as appropriate, coordinate with other senior State and Federal officials to ensure cooperation and coordination in State and Federal technology programs and to avoid unnecessary duplication of efforts.
-
-**(i) Acceptance of funds from other Federal agencies** In addition to amounts appropriated to carry out this section, the Secretary and the Director may accept funds from other Federal agencies to support awards under the Technology Innovation Program. Any award under this section which is supported with funds from other Federal agencies shall be selected and carried out according to the provisions of this section. Funds accepted from other Federal agencies shall be included as part of the Federal cost share of any project funded under this section.
-
-**(j) TIP Advisory Board**
-
-(1) **Establishment** — There is established within the Institute a TIP Advisory Board.
-
-(2) **Membership**
-
-  (A) *In general* — The TIP Advisory Board shall consist of 10 members appointed by the Director, at least 7 of whom shall be from United States industry, chosen to reflect the wide diversity of technical disciplines and industrial sectors represented in Technology Innovation Program projects. No member shall be an employee of the Federal Government.
-
-  (B) *Term* — Except as provided in subparagraph (C) or (D), the term of office of each member of the TIP Advisory Board shall be 3 years.
-
-  (C) *Classes* — The original members of the TIP Advisory Board shall be appointed to 3 classes. One class of 3 members shall have an initial term of 1 year, one class of 3 members shall have an initial term of 2 years, and one class of 4 members shall have an initial term of 3 years.
-
-  (D) *Vacancies* — Any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.
-
-  (E) *Serving consecutive terms* — Any person who has completed 2 consecutive full terms of service on the TIP Advisory Board shall thereafter be ineligible for appointment during the 1-year period following the expiration of the second such term.
-
-(3) **Purpose** — The TIP Advisory Board shall meet not less than 2 times annually, and provide the Director—
-
-  (A) advice on programs, plans, and policies of the Technology Innovation Program;
-
-  (B) reviews of the Technology Innovation Program’s efforts to accelerate the research and development of challenging, high-risk, high-reward technologies in areas of critical national need;
-
-  (C) reports on the general health of the program and its effectiveness in achieving its legislatively mandated mission; and
-
-  (D) guidance on investment areas that are appropriate for Technology Innovation Program funding; 11 So in original. The semicolon probably should be a period.
-
-(4) **Advisory capacity** — In discharging its duties under this subsection, the TIP Advisory Board shall function solely in an advisory capacity, in accordance with the Federal Advisory Committee Act.
-
-**(k) Definitions** In this section—
-
-(1) the term “eligible company” means a small-sized or medium-sized business that is incorporated in the United States and does a majority of its business in the United States, and that either—
-
-  (A) is majority owned by citizens of the United States; or
-
-  (B) is owned by a parent company incorporated in another country and the Director finds that—
-
-    (i) the company’s participation in the Technology Innovation Program would be in the economic interest of the United States, as evidenced by—
-
-      (I) investments in the United States in research and manufacturing;
-
-      (II) significant contributions to employment in the United States; and
-
-      (III) agreement with respect to any technology arising from assistance provided under this section to promote the manufacture within the United States of products resulting from that technology; and
-
-    (ii) the company is incorporated in a country which—
-
-      (I) affords to United States-owned companies opportunities, comparable to those afforded to any other company, to participate in any joint venture similar to those receiving funding under this section;
-
-      (II) affords to United States-owned companies local investment opportunities comparable to those afforded any other company; and
-
-      (III) affords adequate and effective protection for intellectual property rights of United States-owned companies;
-
-(2) the term “high-risk, high-reward research” means research that—
-
-  (A) has the potential for yielding transformational results with far-ranging or wide-ranging implications;
-
-  (B) addresses critical national needs within the National Institute of Standards and Technology’s areas of technical competence; and
-
-  (C) is too novel or spans too diverse a range of disciplines to fare well in the traditional peer-review process;
-
-(3) the term “institution of higher education” has the meaning given that term in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim);
-
-(4) the term “joint venture” means a joint venture that—
-
-  (A) includes either—
-
-    (i) at least 2 separately owned for-profit companies that are both substantially involved in the project and both of which are contributing to the cost-sharing required under this section, with the lead entity of the joint venture being one of those companies that is a small-sized or medium-sized business; or
-
-    (ii) at least 1 small-sized or medium-sized business and 1 institution of higher education or other organization, such as a national laboratory or nonprofit research institute, that are both substantially involved in the project and both of which are contributing to the cost-sharing required under this section, with the lead entity of the joint venture being either that small-sized or medium-sized business or that institution of higher education; and
-
-  (B) may include additional for-profit companies, institutions of higher education, and other organizations, such as national laboratories and nonprofit research institutes, that may or may not contribute non-Federal funds to the project; and
-
-(5) the term “TIP Advisory Board” means the advisory board established under subsection (j).
+## § 278n. Repealed. Pub. L. 114–329, title II, § 205(a)(1), Jan. 6, 2017, 130 Stat. 3000
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (j)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section, act Mar. 3, 1901, ch. 872, § 28, as added Pub. L. 110–69, title III, § 3012(b), Aug. 9, 2007, 121 Stat. 593; amended Pub. L. 113–188, title II, § 201(d), (e), Nov. 26, 2014, 128 Stat. 2018, related to the Technology Innovation Program.
 
-#### Prior Provisions
 A prior section 278n, act Mar. 3, 1901, ch. 872, § 28, as added Pub. L. 100–418, title V, § 5131(a), Aug. 23, 1988, 102 Stat. 1439; amended Pub. L. 102–245, title II, § 201(c), Feb. 14, 1992, 106 Stat. 16, related to the Advanced Technology Program, prior to repeal by Pub. L. 110–69, title III, § 3012(a), Aug. 9, 2007, 121 Stat. 593.
 
-#### Amendments
-2014—Subsecs. (g) to (j). Pub. L. 113–188, § 201(d)(1), (2), redesignated subsecs. (h) to (k) as (g) to (j), respectively, and struck out former subsec. (g) which required annual reports describing the Technology Innovation Program’s activities.
-
-Subsec. (j)(5). Pub. L. 113–188, § 201(e), struck out par. (5) which related to annual Technology Innovation Program status reports transmitted by the TIP Advisory Board.
-
-Subsec. (k). Pub. L. 113–188, § 201(d)(2), redesignated subsec. (l) as (k). Former subsec. (k) redesignated (j).
-
-Subsec. (k)(5). Pub. L. 113–188, § 201(d)(3), substituted “under subsection (j)” for “under subsection (k)”.
-
-Subsec. (l). Pub. L. 113–188, § 201(d)(2), redesignated subsec. (l) as (k).
-
 #### Technology Innovation Program
-Pub. L. 111–240, title IV, § 4226(b), Sept. 27, 2010, 124 Stat. 2598, provided that: “In awarding grants, cooperative agreements, or contracts under section 28 of the National Institute of Standards and Technology Act ([15 U.S.C. 278n](./chapter-007-national-institute-of-standards-and-technology.md#section-278n)), in addition to the award criteria set forth in subsection (c) of that section, the Director of the National Institute of Standards and Technology may take into consideration whether an application has significant potential for enhancing the competitiveness of small- and medium-sized businesses in the United States in the global marketplace. The Director shall consult with the Technology Innovation Program Advisory Board and the Secretary of Commerce in implementing this subsection.”
-
-#### Transition
-Pub. L. 110–69, title III, § 3012(c), Aug. 9, 2007, 121 Stat. 598, provided that: “Notwithstanding the repeal made by subsection (a) [repealing former [section 278n of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278n)], the Director shall carry out section 28 of the National Institute of Standards and Technology Act ([15 U.S.C. 278n](./chapter-007-national-institute-of-standards-and-technology.md#section-278n)) as such section was in effect on the day before the date of the enactment of this Act [Aug. 9, 2007], with respect to applications for grants under such section submitted before such date, until the earlier of— “(1) the date that the Director promulgates the regulations required under section 28(f) of the National Institute of Standards and Technology Act [[15 U.S.C. 278n(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278n/f&num=0&edition=prelim)], as added by subsection (b) [Final regulations implementing the Technology Innovation Program issued June 25, 2008. See 73 F.R. 35913.]; or “(2) December 31, 2007.”
-
-#### National Academies of Sciences and Engineering Study of Government-Industry Cooperation in Civilian Technology
-Pub. L. 100–418, title V, § 5131(c), Aug. 23, 1988, 102 Stat. 1443, directed the Secretary of Commerce, within 90 days after Aug. 23, 1988, to enter into contracts with the National Academies of Sciences and Engineering to review the various types of cooperative arrangements between the private sector and the Federal Government and required a report based on the review to be submitted to the Secretary, the President, and Congress within 18 months after the contracts were signed.
+Pub. L. 111–240, title IV, § 4226(b), Sept. 27, 2010, 124 Stat. 2598, which allowed the Director of NIST to consider the potential for enhancing the competitiveness of small- and medium-sized U.S. businesses in the global marketplace when awarding grants, cooperative agreements, or contracts under this section, was repealed by Pub. L. 114–329, title II, § 205(a)(2)(A), Jan. 6, 2017, 130 Stat. 3000.
 
 
 <a id="section-278n-1"></a>

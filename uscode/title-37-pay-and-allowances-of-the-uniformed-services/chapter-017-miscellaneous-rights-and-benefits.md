@@ -180,7 +180,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
   (G) Assignment incentive pay under [section 307a of this title](./chapter-005-special-and-incentive-pays.md#section-307a).
 
-  (H) Special pay for duty subject to hostile fire or imminent danger under [section 310 of this title](./chapter-005-special-and-incentive-pays.md#section-310).
+  (H) Special pay for duty subject to hostile fire or imminent danger under section 310 or 351 of this title.
 
   (I) Special pay or bonus for an extension of duty at a designated overseas location under [section 314 of this title](./chapter-005-special-and-incentive-pays.md#section-314).
 
@@ -206,6 +206,8 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 [Section 323 of this title](./chapter-005-special-and-incentive-pays.md#section-323), referred to in subsec. (d)(1)(K), was renumbered [section 355 of this title](./chapter-005-special-and-incentive-pays.md#section-355) by Pub. L. 110–181, div. A, title VI, § 661(c)(1), Jan. 28, 2008, 122 Stat. 178.
 
 #### Amendments
+2016—Subsec. (d)(1)(H). Pub. L. 114–328 inserted “or 351” after “section 310”.
+
 2006—Subsecs. (a), (b). Pub. L. 109–163, § 686(b)(1), substituted “the officer” for “he” wherever appearing and “the appointment” for “his appointment” wherever appearing.
 
 Subsec. (c)(2). Pub. L. 109–163, § 686(b)(2), substituted “the officer remained” for “he remained”.
@@ -294,7 +296,7 @@ Pub. L. 107–107, div. A, title VI, § 623(b), Dec. 28, 2001, 115 Stat. 1143, p
 
   (A) satisfies the required number of days on active duty specified in subparagraph (A) or (B) of paragraph (1) or was involuntarily mobilized as provided in subparagraph (C) of such paragraph; and
 
-  (B) is retained on active duty under subparagraph (A) or (B) of [section 12301(h)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12301/h/1&num=0&edition=prelim) because of an injury or illness incurred or aggravated while the member was assigned to duty in an area for which special pay under [section 310 of this title](./chapter-005-special-and-incentive-pays.md#section-310) is available.
+  (B) is retained on active duty under subparagraph (A) or (B) of [section 12301(h)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12301/h/1&num=0&edition=prelim) because of an injury or illness incurred or aggravated while the member was assigned to duty in an area for which special pay under section 310, or paragraph (1) or (3) of section 351(a), of this title is available.
 
 (3) A civilian employee of the Federal Government who is also a member of a reserve component is not entitled to a payment under this section for any period for which the employee is entitled to—
 
@@ -326,11 +328,17 @@ Pub. L. 107–107, div. A, title VI, § 623(b), Dec. 28, 2001, 115 Stat. 1143, p
 
 **(f) Regulations.—** This section shall be administered under regulations to be prescribed by the Secretary of Defense.
 
-**(g) Termination.—** No payment shall be made to a member under this section for months beginning after December 31, 2015, unless the entitlement of the member to payments under this section commenced on or before that date.
+**(g) Termination.—** No payment shall be made to a member under this section for months beginning after December 31, 2017, unless the entitlement of the member to payments under this section commenced on or before that date.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (b)(2)(B). Pub. L. 114–328, § 618(h)(5), inserted “, or paragraph (1) or (3) of section 351(a),” after “section 310”.
+
+Subsec. (g). Pub. L. 114–328, § 611(8), substituted “December 31, 2017” for “December 31, 2016”.
+
+2015—Subsec. (g). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
+
 2014—Subsec. (g). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
 
 2013—Subsec. (g). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.

@@ -23,7 +23,7 @@ The Congress finds that—
 
 (3) Indian tribes have shown an increasing interest in administering programs serving these individuals and making decisions on these programs reflecting their determinations of the tribal and human needs;
 
-(4) the contracting process under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.] has provided a mechanism for the majority of the tribes to assume control over this program from the Bureau of Indian Affairs;
+(4) the contracting process under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.] has provided a mechanism for the majority of the tribes to assume control over this program from the Bureau of Indian Affairs;
 
 (5) however, inherent limitations in the contracting philosophy and mechanism, coupled with cumbersome administrative procedures developed by the Bureau of Indian Affairs have effectively limited the efficiency and effectiveness of these programs;
 
@@ -34,7 +34,7 @@ The Congress finds that—
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in par. (4), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in par. (4), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 
 <a id="section-3303"></a>
@@ -50,9 +50,9 @@ The Indian Self-Determination and Education Assistance Act, referred to in par. 
 
 <a id="section-3304"></a>
 ## § 3304. Qualification for grants to tribes
-**(a) Contracting tribes** Any Indian tribe that obtains funds for educational purposes similar to those authorized in this subchapter pursuant to contract under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.] may qualify for a grant under this subchapter by submitting to the Secretary a notice of intent to administer a student assistance program under [section 3303 of this title](./chapter-035-indian-higher-education-programs.md#section-3303). Such notice shall be effective for the fiscal year following the fiscal year in which it is submitted, except that if such notice is submitted during the last 90 days of a fiscal year such notice shall be effective the second fiscal year following the fiscal year in which it is submitted, unless the Secretary waives this limitation.
+**(a) Contracting tribes** Any Indian tribe that obtains funds for educational purposes similar to those authorized in this subchapter pursuant to contract under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.] may qualify for a grant under this subchapter by submitting to the Secretary a notice of intent to administer a student assistance program under [section 3303 of this title](./chapter-035-indian-higher-education-programs.md#section-3303). Such notice shall be effective for the fiscal year following the fiscal year in which it is submitted, except that if such notice is submitted during the last 90 days of a fiscal year such notice shall be effective the second fiscal year following the fiscal year in which it is submitted, unless the Secretary waives this limitation.
 
-**(b) Noncontracting tribes** Any Indian tribe that is not eligible to qualify for a grant under this subchapter by filing a notice under subsection (a) of this section may qualify for such a grant by filing an application for such a grant. Such application shall be submitted under guidelines for programs under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.], as in effect on January 1, 1991, and shall be reviewed under the standards, practices, and procedures applicable to applications to contract under such Act as in effect on the date the application is received, except that—
+**(b) Noncontracting tribes** Any Indian tribe that is not eligible to qualify for a grant under this subchapter by filing a notice under subsection (a) may qualify for such a grant by filing an application for such a grant. Such application shall be submitted under guidelines for programs under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.], as in effect on January 1, 1991, and shall be reviewed under the standards, practices, and procedures applicable to applications to contract under such Act as in effect on the date the application is received, except that—
 
 (1) if the tribe is not notified that its application has been disapproved within 180 days after it is filed with the Secretary, the application shall be deemed to be approved;
 
@@ -64,7 +64,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in par. 
 
 **(c) Termination of grants**
 
-(1) **Continuing eligibility presumed** — An Indian tribe which has qualified under subsection (a) or (b) of this section for a grant under this subchapter for any fiscal year shall continue to be eligible for such a grant for each succeeding fiscal year unless the Secretary revokes such eligibility for a cause described in paragraph (2).
+(1) **Continuing eligibility presumed** — An Indian tribe which has qualified under subsection (a) or (b) for a grant under this subchapter for any fiscal year shall continue to be eligible for such a grant for each succeeding fiscal year unless the Secretary revokes such eligibility for a cause described in paragraph (2).
 
 (2) **Causes for loss of eligibility** — The Secretary may revoke the eligibility of an Indian tribe for a grant under this subchapter if such tribe—
 
@@ -74,7 +74,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in par. 
 
   (C) fails to submit to the Secretary a biennial financial audit conducted in accordance with chapter 75 of title 31; or
 
-  (D) fails, in an evaluation of its financial assistance program conducted by an impartial third party entity, to comply with standards under this subchapter relating to (i) eligible students, programs, or institutions of higher education, (ii) satisfactory progress, or (iii) allowable administrative costs; as determined under contracts applicable to programs to provide financial assistance to individual Indian students for the cost of attendance at institutions of higher education administered by Indian tribes under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.] and in effect on January 20, 1991.
+  (D) fails, in an evaluation of its financial assistance program conducted by an impartial third party entity, to comply with standards under this subchapter relating to (i) eligible students, programs, or institutions of higher education, (ii) satisfactory progress, or (iii) allowable administrative costs; as determined under contracts applicable to programs to provide financial assistance to individual Indian students for the cost of attendance at institutions of higher education administered by Indian tribes under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.] and in effect on January 20, 1991.
 
 (3) **Procedures for revocation of eligibility** — The Secretary shall not revoke the eligibility of an Indian tribe for a grant under this subchapter except—
 
@@ -82,12 +82,12 @@ The Indian Self-Determination and Education Assistance Act, referred to in par. 
 
   (B) providing technical assistance to the tribe in making such corrections; and
 
-  (C) after hearing and appeals conducted under the same rules and regulations that apply to similar termination actions under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.].
+  (C) after hearing and appeals conducted under the same rules and regulations that apply to similar termination actions under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.].
 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 
 <a id="section-3305"></a>
@@ -96,20 +96,20 @@ The Indian Self-Determination and Education Assistance Act, referred to in text,
 
 (1) **In general** — The Secretary shall continue to determine the amount of program funds to be received by each grantee under this subchapter by the same method used for determining such distribution in fiscal year 1991 for tribally-administered and Bureau-administered programs of grants to individual Indians to defray postsecondary expenses.
 
-(2) **Administrative costs** — In addition to the amount determined under paragraph (1), a grantee which has exercised the option given in [section 3304(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3304/a&num=0&edition=prelim) to administer the program under a grant shall receive an amount for administrative costs determined pursuant to the method used by the grantee during the preceding contract period. All other grantees shall receive an amount for administrative costs determined pursuant to the regulations governing such determinations under the Indian Self Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.], as in effect at the time of application to grants being made.
+(2) **Administrative costs** — In addition to the amount determined under paragraph (1), a grantee which has exercised the option given in [section 3304(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3304/a&num=0&edition=prelim) to administer the program under a grant shall receive an amount for administrative costs determined pursuant to the method used by the grantee during the preceding contract period. All other grantees shall receive an amount for administrative costs determined pursuant to the regulations governing such determinations under the Indian Self Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.], as in effect at the time of application to grants being made.
 
 (3) **Single grant; separate accounts** — Each grantee shall receive only one grant during any fiscal year, which shall include both of the amounts under paragraphs (1) and (2). Each grantee shall maintain this grant in a separate account.
 
 **(b) Use of funds** Funds provided by grants under this subchapter shall be used—
 
-(1) to make grants to individual Indian students to meet, on the basis of need, any educational expense of attendance in a postsecondary education program (as determined under the contracts applying to the postsecondary education program administered by tribes under the Indian Self Determination and Education Assistance Act (Public Law 93–638) [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.]), to the extent that such expense is not met from other sources or cannot be defrayed through the action of any State, Federal, or municipal Act, except that nothing in this subsection shall be interpreted as requiring any priority in consideration of resources; and
+(1) to make grants to individual Indian students to meet, on the basis of need, any educational expense of attendance in a postsecondary education program (as determined under the contracts applying to the postsecondary education program administered by tribes under the Indian Self Determination and Education Assistance Act (Public Law 93–638) [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.]), to the extent that such expense is not met from other sources or cannot be defrayed through the action of any State, Federal, or municipal Act, except that nothing in this subsection shall be interpreted as requiring any priority in consideration of resources; and
 
-(2) costs of administering the program under this subchapter, except that no more may be spent on administration of such program than is generated by the method for administrative cost computation specified in subsection (a)(2) of this section.
+(2) costs of administering the program under this subchapter, except that no more may be spent on administration of such program than is generated by the method for administrative cost computation specified in subsection (a)(2).
 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (a)(2) and (b)(1), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (a)(2) and (b)(1), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 
 <a id="section-3306"></a>
@@ -147,22 +147,24 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 **(b) Role of Director** Applications for grants under this subchapter, and all application modifications, shall be reviewed and approved by personnel under the direction and control of the Director of the Office of Indian Education Programs. Required reports shall be submitted to education personnel under the direction and control of the Director of such Office.
 
-**(c) Application of Indian Self-Determination and Education Assistance Act** All provisions of sections 5, 6, 7, 105, 109, and 110 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450c](./chapter-014-miscellaneous.md#section-450c) et seq.) [[25 U.S.C. 450c](./chapter-014-miscellaneous.md#section-450c), 450d, 450e, 450j, 450m, 450m–1], except those provisions pertaining to indirect costs and length of contract, shall apply to grants provided under this subchapter.
+**(c) Application of Indian Self-Determination and Education Assistance Act** All provisions of sections 5, 6, 7, 105, 109, and 110 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450c](./chapter-014-miscellaneous.md#section-450c) et seq.),11 See References in Text note below. except those provisions pertaining to indirect costs and length of contract, shall apply to grants provided under this subchapter.
 
 **(d) Regulations** The Secretary is authorized to issue regulations relating to the discharge of duties specifically assigned to the Secretary by this subchapter. In all other matters relating to the details of planning, development, implementing, and evaluating grants under this subchapter, the Secretary shall not issue regulations. Regulations issued pursuant to this subchapter shall not have the standing of a Federal statute for the purposes of judicial review.
 
-**(e) Retrocession** Whenever an Indian tribe requests retrocession of any program for which assistance is provided under this subchapter, such retrocession shall become effective upon a date specified by the Secretary not more than 120 days after the date on which the tribe requests the retrocession, or such later date as may be mutually agreed upon by the Secretary and the tribe. If such a program is retroceded, the Secretary shall provide to any Indian tribe served by such program at least the same quantity and quality of services that would have been provided under such program at the level of funding provided under this subchapter prior to the retrocession. The tribal governing body requesting the retrocession shall specify whether the retrocession shall be to a contract administered by the tribe, or a tribal entity, under the authority of the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.] or to a Bureau administered program.
+**(e) Retrocession** Whenever an Indian tribe requests retrocession of any program for which assistance is provided under this subchapter, such retrocession shall become effective upon a date specified by the Secretary not more than 120 days after the date on which the tribe requests the retrocession, or such later date as may be mutually agreed upon by the Secretary and the tribe. If such a program is retroceded, the Secretary shall provide to any Indian tribe served by such program at least the same quantity and quality of services that would have been provided under such program at the level of funding provided under this subchapter prior to the retrocession. The tribal governing body requesting the retrocession shall specify whether the retrocession shall be to a contract administered by the tribe, or a tribal entity, under the authority of the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.] or to a Bureau administered program.
 
 **(f) Definitions** For the purposes of this subchapter:
 
 (1) The term “Secretary” means the Secretary of the Interior.
 
-(2) The terms “Indian” and “Indian tribe” have the same meaning given those terms in sections 11 So in original. Probably should be “section”. 4(d) and (e), respectively, of the Indian Self Determination and Education Assistance Act [[25 U.S.C. 450b(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/d&num=0&edition=prelim), (e)].
+(2) The terms “Indian” and “Indian tribe” have the same meaning given those terms in sections 22 So in original. Probably should be “section”. 4(d) and (e), respectively, of the Indian Self Determination and Education Assistance Act [[25 U.S.C. 5304(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/d&num=0&edition=prelim), (e)].
 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in subsec. (e), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+Sections 5, 6, 7, 105, 109, and 110 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450c](./chapter-014-miscellaneous.md#section-450c) et seq.), referred to in subsec. (c), are sections 5, 6, 7, 105, 109, and 110 of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which were classified to sections 450c, 450d, 450e, 450j, 450m, and 450m–1, respectively, of this title prior to editorial reclassification as sections 5305, 5306, 5307, 5324, 5330, and 5331, respectively, of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
+
+The Indian Self-Determination Act, referred to in subsec. (e), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Subsec. (a) of this section, which required the Secretary to submit a biennial report to Congress on programs established under this subchapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, page 79 of House Document No. 103–7.
@@ -181,14 +183,14 @@ As used in this subchapter:
 
 (1) The term “federally funded higher education assistance” means any grant assistance provided to an Indian student from funds made available for such purpose by contract or grant to an Indian tribe from amounts appropriated under the authority of [section 13 of this title](./chapter-001-bureau-of-indian-affairs.md#section-13).
 
-(2) The term “eligible Indian tribe or tribal organization” means any Indian tribe or tribal organization that qualifies to administer federally funded higher education assistance under a contract pursuant to the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.] or under a grant pursuant to subchapter I of this chapter.
+(2) The term “eligible Indian tribe or tribal organization” means any Indian tribe or tribal organization that qualifies to administer federally funded higher education assistance under a contract pursuant to the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.] or under a grant pursuant to subchapter I of this chapter.
 
-(3) The term “Indian” has the meaning given such term in section 4(d) of the Indian Self Determination and Education Assistance Act [[25 U.S.C. 450b(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/d&num=0&edition=prelim)].
+(3) The term “Indian” has the meaning given such term in section 4(d) of the Indian Self Determination and Education Assistance Act [[25 U.S.C. 5304(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/d&num=0&edition=prelim)].
 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in par. (2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in par. (2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 
 <a id="section-3323"></a>
@@ -216,7 +218,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in par. 
 
 (2) may be treated as providing services to the tribe or organization if the student provides services for members of the tribe or organization that are approved by the tribe or organization and agreed to by the student even though such services are performed while the student is employed by a Federal, State, or local agency or instrumentality or by a nonprofit or for-profit private institution or organization; and
 
-(3) may obtain the benefits of a waiver or suspension in accordance with the requirements of subsection (c) of this section.
+(3) may obtain the benefits of a waiver or suspension in accordance with the requirements of subsection (c).
 
 **(c) Waiver and suspension of service agreement**
 
@@ -229,7 +231,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in par. 
   (B) shall be suspended if the student ceases to attend an institution of higher education as a consequence of an institutional determination of unsatisfactory performance.
   If, at the end of a period of suspension under subparagraph (A), there are still no employment opportunities available in any critical service area, the student’s obligations under the agreement shall terminate. A suspension under subparagraph (B) shall be reviewed by the tribe or organization annually, but may be continued indefinitely.
 
-**(d) Pro rata reduction for partial services** The Secretary shall, by regulation, provide for the pro rata reduction of repayment obligations under subsection (a)(2) of this section in the case of any student who partially completes the service obligation of that student under subsection (a)(2)(A) of this section.
+**(d) Pro rata reduction for partial services** The Secretary shall, by regulation, provide for the pro rata reduction of repayment obligations under subsection (a)(2) in the case of any student who partially completes the service obligation of that student under subsection (a)(2)(A).
 
 **(e) Certification of service** An Indian tribe or tribal organization receiving services under a critical area service agreement—
 
@@ -247,14 +249,14 @@ The Indian Self-Determination and Education Assistance Act, referred to in par. 
 
 <a id="section-3325"></a>
 ## § 3325. General provisions
-**(a) Application of existing procedures** Except as provided in subsection (b) of this section, the requirements relating to student eligibility, needs analysis, and determination of eligibility for the program to be attended regularly incorporated by reference into contracts under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.] for tribal operation of higher education grant programs prior to January 1, 1991, shall apply.
+**(a) Application of existing procedures** Except as provided in subsection (b), the requirements relating to student eligibility, needs analysis, and determination of eligibility for the program to be attended regularly incorporated by reference into contracts under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.] for tribal operation of higher education grant programs prior to January 1, 1991, shall apply.
 
 **(b) Additional, excess, and incremental costs** The tribe or tribal organization may establish in writing, subject to the review of the Secretary, procedures for determining additional, excess, or inducement costs to be associated with grants for critical area service agreements.
 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 
 <a id="section-3331-to-3338"></a>

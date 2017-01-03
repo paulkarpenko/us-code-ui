@@ -38,7 +38,7 @@ source: >-
 
 (14) the public interest is served by creating a clear legal, regulatory, and safety regime for commercial human space flight; and
 
-(15) the regulatory standards governing human space flight must evolve as the industry matures so that regulations neither stifle technology development nor expose crew or space flight participants to avoidable risks as the public comes to expect greater safety for crew and space flight participants from the industry.
+(15) the regulatory standards governing human space flight must evolve as the industry matures so that regulations neither stifle technology development nor expose crew, government astronauts, or space flight participants to avoidable risks as the public comes to expect greater safety for crew, government astronauts, and space flight participants from the industry.
 
 **(b) Purposes.—** The purposes of this chapter are—
 
@@ -69,7 +69,9 @@ In subsection (a), before clause (1), the words “and declares” are omitted a
 In subsection (b), before clause (1), the word “therefore” is omitted as surplus.
 
 #### Amendments
-2010—Pub. L. 111–314 successively renumbered [section 70101 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70101&num=0&edition=prelim) and [section 70101 of this title](./chapter-701-use-of-space-shuttle-or-alternatives.md#section-70101) as this section.
+2015—Subsec. (a)(15). Pub. L. 114–90, which directed amendment of section “50901(15)” by inserting “, government astronauts,” after “crew” wherever appearing, was executed by making the insertion in subsec. (a)(15) in two places, to reflect the probable intent of Congress.
+
+2010—Pub. L. 111–314 successively renumbered [section 70101 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70101&num=0&edition=prelim) and [section 70101 of this title](./chapter-701-use-of-space-launch-system-or-alternatives.md#section-70101) as this section.
 
 2004—Subsec. (a)(3). Pub. L. 108–492, § 2(a)(1), inserted “human space flight,” after “microgravity research,”.
 
@@ -124,7 +126,23 @@ In this chapter—
 
 (3) “executive agency” has the same meaning given that term in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim).
 
-(4) “launch” means to place or try to place a launch vehicle or reentry vehicle and any payload, crew, or space flight participant from Earth—
+(4) “government astronaut” means an individual who—
+
+  (A) is designated by the National Aeronautics and Space Administration under section 20113(n);
+
+  (B) is carried within a launch vehicle or reentry vehicle in the course of his or her employment, which may include performance of activities directly relating to the launch, reentry, or other operation of the launch vehicle or reentry vehicle; and
+
+  (C) is either—
+
+    (i) an employee of the United States Government, including the uniformed services, engaged in the performance of a Federal function under authority of law or an Executive act; or
+
+    (ii) an international partner astronaut.
+
+(5) “international partner astronaut” means an individual designated under Article 11 of the International Space Station Intergovernmental Agreement, by a partner to that agreement other than the United States, as qualified to serve as an International Space Station crew member.
+
+(6) “International Space Station Intergovernmental Agreement” means the Agreement Concerning Cooperation on the International Space Station, signed at Washington January 29, 1998 (TIAS 12927).
+
+(7) “launch” means to place or try to place a launch vehicle or reentry vehicle and any payload or human being from Earth—
 
   (A) in a suborbital trajectory;
 
@@ -133,51 +151,51 @@ In this chapter—
   (C) otherwise in outer space,
   including activities involved in the preparation of a launch vehicle or payload for launch, when those activities take place at a launch site in the United States.
 
-(5) “launch property” means an item built for, or used in, the launch preparation or launch of a launch vehicle.
+(8) “launch property” means an item built for, or used in, the launch preparation or launch of a launch vehicle.
 
-(6) “launch services” means—
+(9) “launch services” means—
 
-  (A) activities involved in the preparation of a launch vehicle, payload, crew (including crew training), or space flight participant for launch; and
+  (A) activities involved in the preparation of a launch vehicle, payload, crew (including crew training), government astronaut, or space flight participant for launch; and
 
   (B) the conduct of a launch.
 
-(7) “launch site” means the location on Earth from which a launch takes place (as defined in a license the Secretary issues or transfers under this chapter) and necessary facilities at that location.
+(10) “launch site” means the location on Earth from which a launch takes place (as defined in a license the Secretary issues or transfers under this chapter) and necessary facilities at that location.
 
-(8) “launch vehicle” means—
+(11) “launch vehicle” means—
 
   (A) a vehicle built to operate in, or place a payload or human beings in, outer space; and
 
   (B) a suborbital rocket.
 
-(9) “obtrusive space advertising” means advertising in outer space that is capable of being recognized by a human being on the surface of the Earth without the aid of a telescope or other technological device.
+(12) “obtrusive space advertising” means advertising in outer space that is capable of being recognized by a human being on the surface of the Earth without the aid of a telescope or other technological device.
 
-(10) “payload” means an object that a person undertakes to place in outer space by means of a launch vehicle or reentry vehicle, including components of the vehicle specifically designed or adapted for that object.
+(13) “payload” means an object that a person undertakes to place in outer space by means of a launch vehicle or reentry vehicle, including components of the vehicle specifically designed or adapted for that object.
 
-(11) except in section 50904(c), “permit” means an experimental permit issued under section 50906.
+(14) except in section 50904(c), “permit” means an experimental permit issued under section 50906.
 
-(12) “person” means an individual and an entity organized or existing under the laws of a State or country.
+(15) “person” means an individual and an entity organized or existing under the laws of a State or country.
 
-(13) “reenter” and “reentry” mean to return or attempt to return, purposefully, a reentry vehicle and its payload, crew, or space flight participants, if any, from Earth orbit or from outer space to Earth.
+(16) “reenter” and “reentry” mean to return or attempt to return, purposefully, a reentry vehicle and its payload or human beings, if any, from Earth orbit or from outer space to Earth.
 
-(14) “reentry services” means—
+(17) “reentry services” means—
 
-  (A) activities involved in the preparation of a reentry vehicle and payload, crew (including crew training), or space flight participant, if any, for reentry; and
+  (A) activities involved in the preparation of a reentry vehicle and payload, crew (including crew training), government astronaut, or space flight participant, if any, for reentry; and
 
   (B) the conduct of a reentry.
 
-(15) “reentry site” means the location on Earth to which a reentry vehicle is intended to return (as defined in a license the Secretary issues or transfers under this chapter).
+(18) “reentry site” means the location on Earth to which a reentry vehicle is intended to return (as defined in a license the Secretary issues or transfers under this chapter).
 
-(16) “reentry vehicle” means a vehicle designed to return from Earth orbit or outer space to Earth, or a reusable launch vehicle designed to return from Earth orbit or outer space to Earth, substantially intact.
+(19) “reentry vehicle” means a vehicle designed to return from Earth orbit or outer space to Earth, or a reusable launch vehicle designed to return from Earth orbit or outer space to Earth, substantially intact.
 
-(17) “space flight participant” means an individual, who is not crew, carried within a launch vehicle or reentry vehicle.
+(20) “space flight participant” means an individual, who is not crew or a government astronaut, carried within a launch vehicle or reentry vehicle.
 
-(18) “State” means a State of the United States, the District of Columbia, and a territory or possession of the United States.
+(21) “State” means a State of the United States, the District of Columbia, and a territory or possession of the United States.
 
-(19) unless and until regulations take effect under section 50922(c)(2), “suborbital rocket” means a vehicle, rocket-propelled in whole or in part, intended for flight on a suborbital trajectory, and the thrust of which is greater than its lift for the majority of the rocket-powered portion of its ascent.
+(22) unless and until regulations take effect under section 50922(c)(2), “suborbital rocket” means a vehicle, rocket-propelled in whole or in part, intended for flight on a suborbital trajectory, and the thrust of which is greater than its lift for the majority of the rocket-powered portion of its ascent.
 
-(20) “suborbital trajectory” means the intentional flight path of a launch vehicle, reentry vehicle, or any portion thereof, whose vacuum instantaneous impact point does not leave the surface of the Earth.
+(23) “suborbital trajectory” means the intentional flight path of a launch vehicle, reentry vehicle, or any portion thereof, whose vacuum instantaneous impact point does not leave the surface of the Earth.
 
-(21) “third party” means a person except—
+(24) “third party” means a person except—
 
   (A) the United States Government or the Government’s contractors or subcontractors involved in launch services or reentry services;
 
@@ -187,9 +205,9 @@ In this chapter—
 
   (D) the customer’s contractors or subcontractors involved in launch services or reentry services; or
 
-  (E) crew or space flight participants.
+  (E) crew, government astronauts, or space flight participants.
 
-(22) “United States” means the States of the United States, the District of Columbia, and the territories and possessions of the United States.
+(25) “United States” means the States of the United States, the District of Columbia, and the territories and possessions of the United States.
 
 ### Statutory Notes
 
@@ -222,7 +240,31 @@ In clause (11), before subclause (A), the words “or entity” are omitted as s
 This amends 49:70102(6) to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1331).
 
 #### Amendments
-2010—Pub. L. 111–314, § 4(d)(2), (3)(B), successively renumbered [section 70102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70102&num=0&edition=prelim) and [section 70102 of this title](./chapter-701-use-of-space-shuttle-or-alternatives.md#section-70102) as this section.
+2015—Pars. (4) to (6). Pub. L. 114–90, § 112(c)(2), added pars. (4) to (6). Former pars. (4) to (6) redesignated (7) to (9), respectively.
+
+Par. (7). Pub. L. 114–90, § 112(c)(1), (e), redesignated par. (4) as (7) and substituted “and any payload or human being” for “and any payload, crew, or space flight participant” in introductory provisions. Former par. (7) redesignated (10).
+
+Par. (8). Pub. L. 114–90, § 112(c)(1), redesignated par. (5) as (8). Former par. (8) redesignated (11).
+
+Par. (9). Pub. L. 114–90, § 112(c)(1), (f), redesignated par. (6) as (9) and substituted “payload, crew (including crew training), government astronaut, or space flight participant” for “payload, crew (including crew training), or space flight participant” in subpar. (A). Former par. (9) redesignated (12).
+
+Pars. (10) to (15). Pub. L. 114–90, § 112(c)(1), redesignated pars. (7) to (12) as (10) to (15), respectively. Former pars. (10) to (15) redesignated (13) to (18), respectively.
+
+Par. (16). Pub. L. 114–90, § 112(c)(1), (g), redesignated par. (13) as (16) and substituted “and its payload or human beings, if any,” for “and its payload, crew, or space flight participants, if any,”. Former par. (16) redesignated (19).
+
+Par. (17). Pub. L. 114–90, § 112(c)(1), (h), redesignated par. (14) as (17) and substituted “payload, crew (including crew training), government astronaut, or space flight participant, if any,” for “payload, crew (including crew training), or space flight participant, if any,” in subpar. (A). Former par. (17) redesignated (20).
+
+Pars. (18), (19). Pub. L. 114–90, § 112(c)(1), redesignated pars. (15) and (16) as (18) and (19), respectively. Former pars. (18) and (19) redesignated (21) and (22), respectively.
+
+Par. (20). Pub. L. 114–90, § 112(c)(1), (i), redesignated par. (17) as (20) and amended it generally. Prior to amendment, par. (20) read as follows: “ ‘space flight participant’ means an individual, who is not crew, carried within a launch vehicle or reentry vehicle.”
+
+Pars. (21) to (23). Pub. L. 114–90, § 112(c)(1), redesignated pars. (18) to (20) as (21) to (23), respectively. Former pars. (21) and (22) redesignated (24) and (25), respectively.
+
+Par. (24). Pub. L. 114–90, § 112(c)(1), (j), redesignated par. (21) as (24) and inserted “, government astronauts,” after “crew” in subpar. (E).
+
+Par. (25). Pub. L. 114–90, § 112(c)(1), redesignated par. (22) as (25).
+
+2010—Pub. L. 111–314, § 4(d)(2), (3)(B), successively renumbered [section 70102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70102&num=0&edition=prelim) and [section 70102 of this title](./chapter-701-use-of-space-launch-system-or-alternatives.md#section-70102) as this section.
 
 Par. (11). Pub. L. 111–314, § 4(d)(5)(A), substituted “section 50904(c)” for “section 70104(c)” and “section 50906” for “section 70105a”.
 
@@ -312,7 +354,7 @@ In subsection (a), the words “be responsible for” are omitted as surplus.
 In subsection (c), the words “To the extent permitted by law” are omitted as surplus. The words “the head of an executive agency” are substituted for “Federal agencies” for consistency in the revised title and with other titles of the United States Code.
 
 #### Amendments
-2010—Pub. L. 111–314 successively renumbered [section 70103 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70103&num=0&edition=prelim) and [section 70103 of this title](./chapter-701-use-of-space-shuttle-or-alternatives.md#section-70103) as this section.
+2010—Pub. L. 111–314 successively renumbered [section 70103 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70103&num=0&edition=prelim) and [section 70103 of this title](./chapter-701-use-of-space-launch-system-or-alternatives.md#section-70103) as this section.
 
 2004—Subsec. (b)(1). Pub. L. 108–492, § 2(c)(1), inserted “, including those involving space flight participants” after “private sector”.
 
@@ -388,7 +430,7 @@ Notwithstanding this subsection, a permit shall not authorize a person to operat
 
 **(c) Preventing Launches and Reentries.—** The Secretary of Transportation shall establish whether all required licenses, authorizations, and permits required for a payload have been obtained. If no license, authorization, or permit is required, the Secretary may prevent the launch or reentry if the Secretary decides the launch or reentry would jeopardize the public health and safety, safety of property, or national security or foreign policy interest of the United States.
 
-**(d) Single License or Permit.—** The Secretary of Transportation shall ensure that only 1 license or permit is required from the Department of Transportation to conduct activities involving crew or space flight participants, including launch and reentry, for which a license or permit is required under this chapter. The Secretary shall ensure that all Department of Transportation regulations relevant to the licensed or permitted activity are satisfied.
+**(d) Single License or Permit.—** The Secretary of Transportation shall ensure that only 1 license or permit is required from the Department of Transportation to conduct activities involving crew, government astronauts, or space flight participants, including launch and reentry, for which a license or permit is required under this chapter. The Secretary shall ensure that all Department of Transportation regulations relevant to the licensed or permitted activity are satisfied.
 
 ### Statutory Notes
 
@@ -410,7 +452,9 @@ In subsection (a)(4), the text of 49 App.:2605(a)(3)(B)(i) is omitted as surplus
 In subsection (c), the words “by Federal law”, “which is to be launched”, “by any Federal law”, “take such action under this chapter as the Secretary deems necessary to”, and “of a payload by a holder of a launch license under this chapter” are omitted as surplus.
 
 #### Amendments
-2010—Pub. L. 111–314, § 4(d)(2), (3)(D), successively renumbered [section 70104 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70104&num=0&edition=prelim) and [section 70104 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section70104&num=0&edition=prelim) as this section.
+2015—Subsec. (d). Pub. L. 114–90 substituted “activities involving crew, government astronauts, or space flight participants” for “activities involving crew or space flight participants”.
+
+2010—Pub. L. 111–314, § 4(d)(2), (3)(D), successively renumbered [section 70104 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70104&num=0&edition=prelim) and [section 70104 of this title](./chapter-701-use-of-space-launch-system-or-alternatives.md#section-70104) as this section.
 
 Subsec. (a)(2). Pub. L. 111–314, § 4(d)(5)(C), substituted “section 50902(1)(A) or (B)” for “section 70102(1)(A) or (B)”.
 
@@ -441,7 +485,7 @@ Subsec. (c). Pub. L. 105–303, § 102(a)(5)(E), substituted “Preventing Launc
 
 (1) A person may apply to the Secretary of Transportation for a license or transfer of a license under this chapter in the form and way the Secretary prescribes. Consistent with the public health and safety, safety of property, and national security and foreign policy interests of the United States, the Secretary, not later than 180 days after accepting an application in accordance with criteria established pursuant to subsection (b)(2)(D),11 See References in Text note below. shall issue or transfer a license if the Secretary decides in writing that the applicant complies, and will continue to comply, with this chapter and regulations prescribed under this chapter. The Secretary shall inform the applicant of any pending issue and action required to resolve the issue if the Secretary has not made a decision not later than 120 days after accepting an application in accordance with criteria established pursuant to subsection (b)(2)(D).1 The Secretary shall transmit to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a written notice not later than 30 days after any occurrence when the Secretary has not taken action on a license application within the deadline established by this subsection.
 
-(2) In carrying out paragraph (1), the Secretary may establish procedures for safety approvals of launch vehicles, reentry vehicles, safety systems, processes, services, or personnel (including approval procedures for the purpose of protecting the health and safety of crews and space flight participants, to the extent permitted by subsections (b) and (c)) that may be used in conducting licensed commercial space launch or reentry activities.
+(2) In carrying out paragraph (1), the Secretary may establish procedures for safety approvals of launch vehicles, reentry vehicles, safety systems, processes, services, or personnel (including approval procedures for the purpose of protecting the health and safety of crew, government astronauts, and space flight participants, to the extent permitted by subsections (b) and (c)) that may be used in conducting licensed commercial space launch or reentry activities.
 
 **(b) Requirements.—**
 
@@ -455,7 +499,7 @@ Subsec. (c). Pub. L. 105–303, § 102(a)(5)(E), substituted “Preventing Launc
 
   (C) by regulation that a requirement of a law of the United States not be a requirement for a license or permit if the Secretary, after consulting with the head of the appropriate executive agency, decides that the requirement is not necessary to protect the public health and safety, safety of property, and national security and foreign policy interests of the United States;
 
-  (D) additional license requirements, for a launch vehicle carrying a human being for compensation or hire, necessary to protect the health and safety of crew or space flight participants, only if such requirements are imposed pursuant to final regulations issued in accordance with subsection (c); and
+  (D) additional license requirements, for a launch vehicle carrying a human being for compensation or hire, necessary to protect the health and safety of crew, government astronauts, or space flight participants, only if such requirements are imposed pursuant to final regulations issued in accordance with subsection (c); and
 
   (E) regulations establishing criteria for accepting or rejecting an application for a license or permit under this chapter within 60 days after receipt of such application.
 
@@ -487,9 +531,9 @@ Subsec. (c). Pub. L. 105–303, § 102(a)(5)(E), substituted “Preventing Launc
 
 **(c) Safety Regulations.—**
 
-(1) The Secretary may issue regulations governing the design or operation of a launch vehicle to protect the health and safety of crew and space flight participants.
+(1) **In general.—** — The Secretary may issue regulations governing the design or operation of a launch vehicle to protect the health and safety of crew, government astronauts, and space flight participants.
 
-(2) Regulations issued under this subsection shall—
+(2) **Regulations.—** — Regulations issued under this subsection shall—
 
   (A) describe how such regulations would be applied when the Secretary is determining whether to issue a license under this chapter;
 
@@ -497,15 +541,49 @@ Subsec. (c). Pub. L. 105–303, § 102(a)(5)(E), substituted “Preventing Launc
 
   (C) be limited to restricting or prohibiting design features or operating practices that—
 
-    (i) have resulted in a serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004) to crew or space flight participants during a licensed or permitted commercial human space flight; or
+    (i) have resulted in a serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004) to crew, government astronauts, or space flight participants during a licensed or permitted commercial human space flight; or
 
-    (ii) contributed to an unplanned event or series of events during a licensed or permitted commercial human space flight that posed a high risk of causing a serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004) to crew or space flight participants; and
+    (ii) contributed to an unplanned event or series of events during a licensed or permitted commercial human space flight that posed a high risk of causing a serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004) to crew, government astronauts, or space flight participants; and
 
   (D) be issued with a description of the instance or instances when the design feature or operating practice being restricted or prohibited contributed to a result or event described in subparagraph (C).
 
-(3) Beginning on October 1, 2015, the Secretary may propose regulations under this subsection without regard to paragraph (2)(C) and (D). Any such regulations shall take into consideration the evolving standards of safety in the commercial space flight industry.
+(3) **Facilitation of standards.—** — The Secretary shall continue to work with the commercial space sector, including the Commercial Space Transportation Advisory Committee, or its successor organization, to facilitate the development of voluntary industry consensus standards based on recommended best practices to improve the safety of crew, government astronauts, and space flight participants as the commercial space sector continues to mature.
 
-(4) Nothing in this subsection shall be construed to limit the authority of the Secretary to issue requirements or regulations to protect the public health and safety, safety of property, national security interests, and foreign policy interests of the United States.
+(4) **Communication and transparency.—** — Nothing in this subsection shall be construed to limit the authority of the Secretary to discuss potential regulatory approaches, potential performance standards, or any other topic related to this subsection with the commercial space industry, including observations, findings, and recommendations from the Commercial Space Transportation Advisory Committee, or its successor organization, prior to the issuance of a notice of proposed rulemaking. Such discussions shall not be construed to permit the Secretary to promulgate industry regulations except as otherwise provided in this section.
+
+(5) **Interim voluntary industry consensus standards reports.—**
+
+  (A) *In general.—* — Not later than December 31, 2016, and every 30 months thereafter until December 31, 2021, the Secretary, in consultation and coordination with the commercial space sector, including the Commercial Space Transportation Advisory Committee, or its successor organization, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the progress of the commercial space transportation industry in developing voluntary industry consensus standards that promote best practices to improve industry safety.
+
+  (B) *Contents.—* — The report shall include, at a minimum—
+
+    (i) any voluntary industry consensus standards that have been accepted by the industry at large;
+
+    (ii) the identification of areas that have the potential to become voluntary industry consensus standards that are currently under consideration by the industry at large;
+
+    (iii) an assessment from the Secretary on the general progress of the industry in adopting voluntary industry consensus standards;
+
+    (iv) any lessons learned about voluntary industry consensus standards, best practices, and commercial space launch operations;
+
+    (v) any lessons learned associated with the development, potential application, and acceptance of voluntary industry consensus standards, best practices, and commercial space launch operations; and
+
+    (vi) recommendations, findings, or observations from the Commercial Space Transportation Advisory Committee, or its successor organization, on the progress of the industry in developing voluntary industry consensus standards that promote best practices to improve industry safety.
+
+(6) **Report.—** — Not later than 270 days after the date of enactment of the SPACE Act of 2015, the Secretary, in consultation and coordination with the commercial space sector, including the Commercial Space Transportation Advisory Committee, or its successor organization, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report specifying key industry metrics that might indicate readiness of the commercial space sector and the Department of Transportation to transition to a safety framework that may include regulations under paragraph (9) that considers space flight participant, government astronaut, and crew safety.
+
+(7) **Reports.—** — Not later than March 31 of each of 2018 and 2022, the Secretary, in consultation and coordination with the commercial space sector, including the Commercial Space Transportation Advisory Committee, or its successor organization, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that identifies the activities, described in this subsection and subsection (d) most appropriate for a new safety framework that may include regulatory action, if any, and a proposed transition plan for such safety framework.
+
+(8) **Independent review.—** — Not later than December 31, 2022, an independent systems engineering and technical assistance organization or standards development organization contracted by the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives an assessment of the readiness of the commercial space industry and the Federal Government to transition to a safety framework that may include regulations. As part of the review, the contracted organization shall evaluate—
+
+  (A) the progress of the commercial space industry in adopting voluntary industry consensus standards as reported by the Secretary in the interim assessments included in the reports under paragraph (5);
+
+  (B) the progress of the commercial space industry toward meeting the key industry metrics identified by the report under paragraph (6), including the knowledge and operational experience obtained by the commercial space industry while providing services for compensation or hire; and
+
+  (C) whether the areas identified in the reports under paragraph (5) are appropriate for regulatory action, or further development of voluntary industry consensus standards, considering the progress evaluated in subparagraphs (A) and (B) of this paragraph.
+
+(9) **Learning period.—** — Beginning on October 1, 2023, the Secretary may propose regulations under this subsection without regard to subparagraphs (C) and (D) of paragraph (2). The development of any such regulations shall take into consideration the evolving standards of the commercial space flight industry as identified in the reports published under paragraphs (5), (6), and (7).
+
+(10) **Rule of construction.—** — Nothing in this subsection shall be construed to limit the authority of the Secretary to issue requirements or regulations to protect the public health and safety, safety of property, national security interests, and foreign policy interests of the United States.
 
 **(d) Procedures and Timetables.—** The Secretary shall establish procedures and timetables that expedite review of a license or permit application and reduce the regulatory burden for an applicant.
 
@@ -532,7 +610,29 @@ Subsection (b)(2)(D), referred to in subsec. (a)(1), was redesignated subsection
 
 The date of enactment of the Commercial Space Launch Amendments Act of 2004, referred to in subsec. (b)(4)(B), (6), is the date of enactment of Pub. L. 108–492, which was approved Dec. 23, 2004.
 
+The date of enactment of the SPACE Act of 2015, referred to in subsec. (c)(6), is the date of enactment of title I of Pub. L. 114–90, which was approved Nov. 25, 2015.
+
 #### Amendments
+2015—Subsec. (a)(2). Pub. L. 114–90, § 112(l)(1), substituted “crew, government astronauts, and space flight participants” for “crews and space flight participants”.
+
+Subsec. (b)(2)(D). Pub. L. 114–90, § 112(l)(2), substituted “crew, government astronauts, or space flight participants” for “crew or space flight participants”.
+
+Subsec. (c)(1). Pub. L. 114–90, §§ 111(1), 112(l)(3)(A), inserted “In general.—” before “The Secretary” and substituted “crew, government astronauts, and space flight participants” for “crew and space flight participants”.
+
+Subsec. (c)(2). Pub. L. 114–90, § 111(2), inserted “Regulations.—” before “Regulations” in introductory provisions.
+
+Subsec. (c)(2)(C). Pub. L. 114–90, § 112(l)(3)(B), substituted “to crew, government astronauts, or space flight participants” for “to crew or space flight participants” in cls. (i) and (ii).
+
+Subsec. (c)(3). Pub. L. 114–90, § 111(3), (5), added par. (3) and struck out former par. (3) which read as follows: “Beginning on April 1, 2016, the Secretary may propose regulations under this subsection without regard to paragraph (2)(C) and (D). Any such regulations shall take into consideration the evolving standards of safety in the commercial space flight industry.”
+
+Pub. L. 114–55 substituted “April 1, 2016,” for “October 1, 2015,”.
+
+Subsec. (c)(4). Pub. L. 114–90, § 111(5), added par. (4). Former par. (4) redesignated (10).
+
+Subsec. (c)(5) to (9). Pub. L. 114–90, § 111(5), added pars. (5) to (9).
+
+Subsec. (c)(10). Pub. L. 114–90, § 111(4), (6), redesignated par. (4) as (10) and inserted “Rule of construction.—” before “Nothing”.
+
 2012—Subsec. (c)(3). Pub. L. 112–95 substituted “Beginning on October 1, 2015,” for “Beginning 8 years after the date of enactment of the Commercial Space Launch Amendments Act of 2004,”.
 
 2010—Pub. L. 111–314, § 4(d)(2), (3)(E), successively renumbered [section 70105 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70105&num=0&edition=prelim) and [section 70105 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section70105&num=0&edition=prelim) as this section.
@@ -585,25 +685,25 @@ Committee on Science of House of Representatives changed to Committee on Science
 
 **(c)** In order to encourage the development of a commercial space flight industry, the Secretary may when issuing permits use the authority granted under section 50905(b)(2)(C).
 
-**(d)** The Secretary may issue a permit only for reusable suborbital rockets that will be launched or reentered solely for—
+**(d)** The Secretary may issue a permit only for reusable suborbital rockets or reusable launch vehicles that will be launched into a suborbital trajectory or reentered under that permit solely for—
 
-(1) research and development to test new design concepts, new equipment, or new operating techniques;
+(1) research and development to test design concepts, equipment, or operating techniques;
 
 (2) showing compliance with requirements as part of the process for obtaining a license under this chapter; or
 
-(3) crew training prior to obtaining a license for a launch or reentry using the design of the rocket for which the permit would be issued.
+(3) crew training for a launch or reentry using the design of the rocket or vehicle for which the permit would be issued.
 
 **(e)** Permits issued under this section shall—
 
-(1) authorize an unlimited number of launches and reentries for a particular suborbital rocket design for the uses described in subsection (d); and
+(1) authorize an unlimited number of launches and reentries for a particular suborbital rocket or suborbital rocket design, or for a particular reusable launch vehicle or reusable launch vehicle design, for the uses described in subsection (d); and
 
-(2) specify the type of modifications that may be made to the suborbital rocket without changing the design to an extent that would invalidate the permit.
+(2) specify the type of modifications that may be made to the suborbital rocket or launch vehicle without changing the design to an extent that would invalidate the permit.
 
 **(f)** Permits shall not be transferable.
 
-**(g)** A permit may not be issued for, and a permit that has already been issued shall cease to be valid for, a particular design for a reusable suborbital rocket after a license has been issued for the launch or reentry of a rocket of that design.
+**(g)** The Secretary may issue a permit under this section notwithstanding any license issued under this chapter. The issuance of a license under this chapter may not invalidate a permit issued under this section.
 
-**(h)** No person may operate a reusable suborbital rocket under a permit for carrying any property or human being for compensation or hire.
+**(h)** No person may operate a reusable suborbital rocket or reusable launch vehicle under a permit for carrying any property or human being for compensation or hire.
 
 **(i)** For the purposes of sections 50907, 50908, 50909, 50910, 50912, 50914, 50917, 50918, 50919, and 50923 of this chapter—
 
@@ -619,6 +719,20 @@ This subsection shall not be construed to allow the transfer of a permit.
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (d). Pub. L. 114–90, § 104(1)(A), substituted “or reusable launch vehicles that will be launched into a suborbital trajectory or reentered under that permit” for “that will be launched or reentered” in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 114–90, § 104(1)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “research and development to test new design concepts, new equipment, or new operating techniques;”.
+
+Subsec. (d)(3). Pub. L. 114–90, § 104(1)(C), struck out “prior to obtaining a license” after “crew training” and inserted “or vehicle” after “design of the rocket”.
+
+Subsec. (e)(1). Pub. L. 114–90, § 104(2)(A), substituted “suborbital rocket or suborbital rocket design, or for a particular reusable launch vehicle or reusable launch vehicle design,” for “suborbital rocket design”.
+
+Subsec. (e)(2). Pub. L. 114–90, § 104(2)(B), inserted “or launch vehicle” after “the suborbital rocket”.
+
+Subsec. (g). Pub. L. 114–90, § 104(3), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “A permit may not be issued for, and a permit that has already been issued shall cease to be valid for, a particular design for a reusable suborbital rocket after a license has been issued for the launch or reentry of a rocket of that design.”
+
+Subsec. (h). Pub. L. 114–90, § 104(4), inserted “or reusable launch vehicle” after “suborbital rocket”.
+
 2010—Pub. L. 111–314, § 4(d)(2), (3)(F), successively renumbered [section 70105a of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70105a&num=0&edition=prelim) and [section 70105a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section70105a&num=0&edition=prelim) as this section.
 
 Subsec. (c). Pub. L. 111–314, § 4(d)(5)(G), substituted “section 50905(b)(2)(C)” for “section 70105(b)(2)(C)”.
@@ -631,7 +745,7 @@ Committee on Science of House of Representatives changed to Committee on Science
 
 <a id="section-50907"></a>
 ## § 50907. Monitoring activities
-**(a) General Requirements.—** A licensee under this chapter must allow the Secretary of Transportation to place an officer or employee of the United States Government or another individual as an observer at a launch site or reentry site the licensee uses, at a production facility or assembly site a contractor of the licensee uses to produce or assemble a launch vehicle or reentry vehicle, at a site used for crew or space flight participant training, or at a site at which a payload is integrated with a launch vehicle or reentry vehicle. The observer will monitor the activity of the licensee or contractor at the time and to the extent the Secretary considers reasonable to ensure compliance with the license or to carry out the duties of the Secretary under sections 50904(c), 50905, and 50906 of this title. A licensee must cooperate with an observer carrying out this subsection.
+**(a) General Requirements.—** A licensee under this chapter must allow the Secretary of Transportation to place an officer or employee of the United States Government or another individual as an observer at a launch site or reentry site the licensee uses, at a production facility or assembly site a contractor of the licensee uses to produce or assemble a launch vehicle or reentry vehicle, at a site not owned or operated by the Federal Government or a foreign government used for crew, government astronaut, or space flight participant training, or at a site at which a payload is integrated with a launch vehicle or reentry vehicle. The observer will monitor the activity of the licensee or contractor at the time and to the extent the Secretary considers reasonable to ensure compliance with the license or to carry out the duties of the Secretary under sections 50904(c), 50905, and 50906 of this title. A licensee must cooperate with an observer carrying out this subsection.
 
 **(b) Contracts.—** To the extent provided in advance in an appropriation law, the Secretary may make a contract with a person to carry out subsection (a) of this section.
 
@@ -646,6 +760,8 @@ Committee on Science of House of Representatives changed to Committee on Science
 In subsection (a), the word “duties” is substituted for “responsibilities” for consistency in the revised title and with other titles of the United States Code.
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–90 substituted “at a site not owned or operated by the Federal Government or a foreign government used for crew, government astronaut, or space flight participant training” for “at a site used for crew or space flight participant training”.
+
 2010—Pub. L. 111–314, § 4(d)(2), (3)(G), successively renumbered [section 70106 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70106&num=0&edition=prelim) and [section 70106 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section70106&num=0&edition=prelim) as this section.
 
 Subsec. (a). Pub. L. 111–314, § 4(d)(5)(I), substituted “sections 50904(c), 50905, and 50906” for “sections 70104(c), 70105, and 70105a”.
@@ -673,7 +789,7 @@ Subsec. (a). Pub. L. 111–314, § 4(d)(5)(I), substituted “sections 50904(c),
 
 **(d) Additional Suspensions.—**
 
-(1) The Secretary may suspend a license when a previous launch or reentry under the license has resulted in a serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004) to crew or space flight participants and the Secretary has determined that continued operations under the license are likely to cause additional serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004) to crew or space flight participants.
+(1) The Secretary may suspend a license when a previous launch or reentry under the license has resulted in a serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004) to any human being and the Secretary has determined that continued operations under the license are likely to cause additional serious or fatal injury (as defined in 49 CFR 830, as in effect on November 10, 2004) to any human being.
 
 (2) Any suspension imposed under this subsection shall be for as brief a period as possible and, in any event, shall cease when the Secretary—
 
@@ -705,6 +821,8 @@ In subsection (b), the words “the requirements of” are omitted as surplus.
 In subsection (e), the words “Whenever the Secretary takes any action” are omitted as surplus.
 
 #### Amendments
+2015—Subsec. (d)(1). Pub. L. 114–90 substituted “to any human being” for “to crew or space flight participants” in two places.
+
 2010—Pub. L. 111–314, § 4(d)(2), (3)(H), successively renumbered [section 70107 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70107&num=0&edition=prelim) and [section 70107 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section70107&num=0&edition=prelim) as this section.
 
 Subsec. (b)(2). Pub. L. 111–314, § 4(d)(5)(J), substituted “section 50905(c)” for “section 70105(c)”.
@@ -948,9 +1066,25 @@ Subsec. (d). Pub. L. 105–303, § 102(a)(11)(H), (I), substituted “or reentry
 
   (D) contractors and subcontractors of the customer.
 
+  (E) space flight participants.
+
+(5) Subparagraph (E) of paragraph (4) ceases to be effective September 30, 2025.
+
 **(b) Reciprocal Waiver of Claims.—**
 
-(1) A launch or reentry license issued or transferred under this chapter shall contain a provision requiring the licensee or transferee to make a reciprocal waiver of claims with its contractors, subcontractors, and customers, and contractors and subcontractors of the customers, involved in launch services or reentry services under which each party to the waiver agrees to be responsible for property damage or loss it sustains, or for personal injury to, death of, or property damage or loss sustained by its own employees resulting from an activity carried out under the applicable license.
+(1)
+
+  (A) A launch or reentry license issued or transferred under this chapter shall contain a provision requiring the licensee or transferee to make a reciprocal waiver of claims with applicable parties involved in launch services or reentry services under which each party to the waiver agrees to be responsible for personal injury to, death of, or property damage or loss sustained by it or its own employees resulting from an activity carried out under the applicable license.
+
+  (B) In this paragraph, the term “applicable parties” means—
+
+    (i) contractors, subcontractors, and customers of the licensee or transferee;
+
+    (ii) contractors and subcontractors of the customers; and
+
+    (iii) space flight participants.
+
+  (C) Clause (iii) of subparagraph (B) ceases to be effective September 30, 2025.
 
 (2) The Secretary of Transportation shall make, for the Government, executive agencies of the Government involved in launch services or reentry services, and contractors and subcontractors involved in launch services or reentry services, a reciprocal waiver of claims with the licensee or transferee, contractors, subcontractors, crew, space flight participants, and customers of the licensee or transferee, and contractors and subcontractors of the customers, involved in launch services or reentry services under which each party to the waiver agrees to be responsible for property damage or loss it sustains, or for personal injury to, death of, or property damage or loss sustained by its own employees or by space flight participants, resulting from an activity carried out under the applicable license. The waiver applies only to the extent that claims are more than the amount of insurance or demonstration of financial responsibility required under subsection (a)(1)(B) of this section. After consulting with the Administrator and the Secretary of the Air Force, the Secretary of Transportation may waive, for the Government and a department, agency, and instrumentality of the Government, the right to recover damages for damage or loss to Government property to the extent insurance is not available because of a policy exclusion the Secretary of Transportation decides is usual for the type of insurance involved.
 
@@ -965,6 +1099,8 @@ Subsec. (d). Pub. L. 105–303, § 102(a)(11)(H), (I), substituted “or reentry
 **(e) Launches or Reentries Involving Government Facilities and Personnel.—** The Secretary of Transportation shall establish requirements consistent with this chapter for proof of financial responsibility and other assurances necessary to protect the Government and its executive agencies and personnel from liability, death, bodily injury, or property damage or loss as a result of a launch or operation of a launch site or reentry site or a reentry involving a facility or personnel of the Government. The Secretary may not relieve the Government of liability under this subsection for death, bodily injury, or property damage or loss resulting from the willful misconduct of the Government or its agents.
 
 **(f) Collection and Crediting Payments.—** The head of a department, agency, or instrumentality of the Government shall collect a payment owed for damage or loss to Government property under its jurisdiction or control resulting from an activity carried out under a launch or reentry license issued or transferred under this chapter. The payment shall be credited to the current applicable appropriation, fund, or account of the department, agency, or instrumentality.
+
+**(g) Federal Jurisdiction.—** Any claim by a third party or space flight participant for death, bodily injury, or property damage or loss resulting from an activity carried out under the license shall be the exclusive jurisdiction of the Federal courts.
 
 ### Statutory Notes
 
@@ -999,6 +1135,14 @@ In subsection (f), the words “department, agency, or instrumentality of the Go
 This amends 49:70112(a)(3)(B) to clarify a cross-reference in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1337).
 
 #### Amendments
+2015—Subsec. (a)(4)(E). Pub. L. 114–90, § 103(a)(1)(A), added subpar. (E).
+
+Subsec. (a)(5). Pub. L. 114–90, § 103(a)(1)(B), added par. (5).
+
+Subsec. (b)(1). Pub. L. 114–90, § 107, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “A launch or reentry license issued or transferred under this chapter shall contain a provision requiring the licensee or transferee to make a reciprocal waiver of claims with its contractors, subcontractors, and customers, and contractors and subcontractors of the customers, involved in launch services or reentry services under which each party to the waiver agrees to be responsible for property damage or loss it sustains, or for personal injury to, death of, or property damage or loss sustained by its own employees resulting from an activity carried out under the applicable license.”
+
+Subsec. (g). Pub. L. 114–90, § 106, added subsec. (g).
+
 2010—Pub. L. 111–314 successively renumbered [section 70112 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70112&num=0&edition=prelim) and [section 70112 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section70112&num=0&edition=prelim) as this section.
 
 2004—Subsec. (b)(2). Pub. L. 108–492 inserted “crew, space flight participants,” after “transferee, contractors, subcontractors,” and “or by space flight participants,” after “its own employees”.
@@ -1035,13 +1179,27 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 ## § 50915. Paying claims exceeding liability insurance and financial responsibility requirements
 **(a) General Requirements.—**
 
-(1) To the extent provided in advance in an appropriation law or to the extent additional legislative authority is enacted providing for paying claims in a compensation plan submitted under subsection (d) of this section, the Secretary of Transportation shall provide for the payment by the United States Government of a successful claim (including reasonable litigation or settlement expenses) of a third party against a licensee or transferee under this chapter, a contractor, subcontractor, or customer of the licensee or transferee, or a contractor or subcontractor of a customer, but not against a space flight participant, resulting from an activity carried out under the license issued or transferred under this chapter for death, bodily injury, or property damage or loss resulting from an activity carried out under the license. However, claims may be paid under this section only to the extent the total amount of successful claims related to one launch or reentry—
+(1) To the extent provided in advance in an appropriation law or to the extent additional legislative authority is enacted providing for paying claims in a compensation plan submitted under subsection (d) of this section, the Secretary of Transportation shall provide for the payment by the United States Government of a successful claim (including reasonable litigation or settlement expenses) of a third party against a person described in paragraph (3)(A) resulting from an activity carried out under the license issued or transferred under this chapter for death, bodily injury, or property damage or loss resulting from an activity carried out under the license. However, claims may be paid under this section only to the extent the total amount of successful claims related to one launch or reentry—
 
   (A) is more than the amount of insurance or demonstration of financial responsibility required under [section 50914(a)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section50914/a/1/A&num=0&edition=prelim); and
 
   (B) is not more than $1,500,000,000 (plus additional amounts necessary to reflect inflation occurring after January 1, 1989) above that insurance or financial responsibility amount.
 
 (2) The Secretary may not provide for paying a part of a claim for which death, bodily injury, or property damage or loss results from willful misconduct by the licensee or transferee. To the extent insurance required under [section 50914(a)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section50914/a/1/A&num=0&edition=prelim) is not available to cover a successful third party liability claim because of an insurance policy exclusion the Secretary decides is usual for the type of insurance involved, the Secretary may provide for paying the excluded claims without regard to the limitation contained in section 50914(a)(1).
+
+(3)
+
+  (A) A person described in this subparagraph is—
+
+    (i) a licensee or transferee under this chapter;
+
+    (ii) a contractor, subcontractor, or customer of the licensee or transferee;
+
+    (iii) a contractor or subcontractor of a customer; or
+
+    (iv) a space flight participant.
+
+  (B) Clause (iv) of subparagraph (A) ceases to be effective September 30, 2025.
 
 **(b) Notice, Participation, and Approval.—** Before a payment under subsection (a) of this section is made—
 
@@ -1113,7 +1271,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
   (D) an appeal from a decision of the chair related to the application of the rules of the Senate to the procedures related to a resolution.
 
-**(f) Application.—** This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than December 31, 2016. This section does not apply to permits.
+**(f) Application.—** This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than September 30, 2025. This section does not apply to permits.
 
 ### Statutory Notes
 
@@ -1159,6 +1317,12 @@ In subsection (f), the word “only” is omitted as surplus.
 This amends 49:70113(e)(6)(D) to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1340).
 
 #### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–90, § 103(a)(2)(A), in introductory provisions, substituted “a person described in paragraph (3)(A)” for “a licensee or transferee under this chapter, a contractor, subcontractor, or customer of the licensee or transferee, or a contractor or subcontractor of a customer, but not against a space flight participant,”.
+
+Subsec. (a)(3). Pub. L. 114–90, § 103(a)(2)(B), added par. (3).
+
+Subsec. (f). Pub. L. 114–90, § 102(d), substituted “September 30, 2025” for “December 31, 2016”.
+
 2014—Subsec. (f). Pub. L. 113–76 substituted “December 31, 2016” for “December 31, 2013”.
 
 2013—Subsec. (f). Pub. L. 112–273 substituted “December 31, 2013” for “December 31, 2012”.
@@ -1319,6 +1483,13 @@ In subsection (c), before clause (1), the words “the head of” and “executi
 #### Amendments
 2010—Pub. L. 111–314 successively renumbered [section 70116 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70116&num=0&edition=prelim) and [section 70116 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section70116&num=0&edition=prelim) as this section.
 
+#### Streamline Commercial Space Launch Activities
+Pub. L. 114–92, div. A, title XVI, § 1617, Nov. 25, 2015, 129 Stat. 1106, provided that: “(a) Sense of Congress.—It is the sense of Congress that eliminating duplicative requirements and approvals for commercial launch and reentry operations will promote and encourage the development of the commercial space sector. “(b) Reaffirmation of Policy.—Congress reaffirms that the Secretary of Transportation, in overseeing and coordinating commercial launch and reentry operations, should—“(1) promote commercial space launches and reentries by the private sector; “(2) facilitate Government, State, and private sector involvement in enhancing United States launch sites and facilities; “(3) protect public health and safety, safety of property, national security interests, and foreign policy interests of the United States; and “(4) consult with the head of another executive agency, including the Secretary of Defense or the Administrator of the National Aeronautics and Space Administration, as necessary to provide consistent application of licensing requirements under chapter 509 of title 51, United States Code. “(c) Requirements.—“(1) In general.—The Secretary of Transportation under [section 50918 of title 51](./chapter-509-commercial-space-launch-activities.md#section-50918), United States Code, and subject to section 50905(b)(2)(C) of that title, shall consult with the Secretary of Defense, the Administrator of the National Aeronautics and Space Administration, and the heads of other executive agencies, as appropriate—“(A) to identify all requirements that are imposed to protect the public health and safety, safety of property, national security interests, and foreign policy interests of the United States relevant to any commercial launch of a launch vehicle or commercial reentry of a reentry vehicle; and “(B) to evaluate the requirements identified in subparagraph (A) and, in coordination with the licensee or transferee and the heads of the relevant executive agencies—“(i) determine whether the satisfaction of a requirement of one agency could result in the satisfaction of a requirement of another agency; and “(ii) resolve any inconsistencies and remove any outmoded or duplicative requirements or approvals of the Federal Government relevant to any commercial launch of a launch vehicle or commercial reentry of a reentry vehicle. “(2) Reports.—Not later than 180 days after the date of enactment of this Act [Nov. 25, 2015], and annually thereafter until the Secretary of Transportation determines no outmoded or duplicative requirements or approvals of the Federal Government exist, the Secretary of Transportation, in consultation with the Secretary of Defense, the Administrator of the National Aeronautics and Space Administration, the commercial space sector, and the heads of other executive agencies, as appropriate, shall submit to the appropriate congressional committees a report that includes the following:“(A) A description of the process for the application for and approval of a permit or license under chapter 509 of title 51, United States Code, for the commercial launch of a launch vehicle or commercial reentry of a reentry vehicle, including the identification of—“(i) any unique requirements for operating on a United States Government launch site, reentry site, or launch property; and “(ii) any inconsistent, outmoded, or duplicative requirements or approvals. “(B) A description of current efforts, if any, to coordinate and work across executive agencies to define interagency processes and procedures for sharing information, avoiding duplication of effort, and resolving common agency requirements. “(C) Recommendations for legislation that may further—“(i) streamline requirements in order to improve efficiency, reduce unnecessary costs, resolve inconsistencies, remove duplication, and minimize unwarranted constraints; and “(ii) consolidate or modify requirements across affected agencies into a single application set that satisfies the requirements identified in paragraph (1)(A). “(3) Definitions.—For purposes of this subsection—“(A) any applicable definitions set forth in [section 50902 of title 51](./chapter-509-commercial-space-launch-activities.md#section-50902), United States Code, shall apply; “(B) the term ‘appropriate congressional committees’ means—“(i) the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]; “(ii) the Committee on Commerce, Science, and Transportation of the Senate; “(iii) the Committee on Science, Space, and Technology of the House of Representatives; and “(iv) the Committee on Transportation and Infrastructure of the House of Representatives; “(C) the terms ‘launch’, ‘reenter’, and ‘reentry’ include landing of a launch vehicle or reentry vehicle; and “(D) the terms ‘United States Government launch site’ and ‘United States Government reentry site’ include any necessary facility, at that location, that is commercially operated on United States Government property.”
+
+Substantially identical provisions were contained in the following act:
+
+Pub. L. 114–90, title I, § 113, Nov. 25, 2015, 129 Stat. 714.
+
 
 <a id="section-50919"></a>
 ## § 50919. Relationship to other executive agencies, laws, and international obligations
@@ -1346,11 +1517,19 @@ In subsection (c), before clause (1), the words “the head of” and “executi
 
 **(f) Launch Not an Export; Reentry Not an Import.—** A launch vehicle, reentry vehicle, or payload that is launched or reentered is not, because of the launch or reentry, an export or import, respectively, for purposes of a law controlling exports or imports, except that payloads launched pursuant to foreign trade zone procedures as provided for under the Foreign Trade Zones Act ([19 U.S.C. 81a–81u](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section81a–81u&num=0&edition=prelim)) shall be considered exports with regard to customs entry.
 
-**(g) Nonapplication.—** This chapter does not apply to—
+**(g) Nonapplication.—**
 
-(1) a launch, reentry, operation of a launch vehicle or reentry vehicle, operation of a launch site or reentry site, or other space activity the Government carries out for the Government; or
+(1) **In general.—** — This chapter does not apply to—
 
-(2) planning or policies related to the launch, reentry, operation, or activity.
+  (A) a launch, reentry, operation of a launch vehicle or reentry vehicle, operation of a launch site or reentry site, or other space activity the Government carries out for the Government; or
+
+  (B) planning or policies related to the launch, reentry, operation, or activity under subparagraph (A).
+
+(2) **Rule of construction.—** — The following activities are not space activities the Government carries out for the Government under paragraph (1):
+
+  (A) A government astronaut being carried within a launch vehicle or reentry vehicle under this chapter.
+
+  (B) A government astronaut performing activities directly relating to the launch, reentry, or other operation of the launch vehicle or reentry vehicle under this chapter.
 
 ### Statutory Notes
 
@@ -1377,6 +1556,12 @@ The Communications Act of 1934, referred to in subsec. (b)(1), is act June 19, 1
 The Foreign Trade Zones Act, referred to in subsec. (f), is act June 18, 1934, ch. 590, 48 Stat. 998, which is classified generally to chapter 1A (§ 81a et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2015—Subsec. (g). Pub. L. 114–90 amended subsec. (g) generally. Prior to amendment, text read as follows: “This chapter does not apply to—
+
+“(1) a launch, reentry, operation of a launch vehicle or reentry vehicle, operation of a launch site or reentry site, or other space activity the Government carries out for the Government; or
+
+“(2) planning or policies related to the launch, reentry, operation, or activity.”
+
 2010—Pub. L. 111–314, § 4(d)(2), (3)(S), successively renumbered [section 70117 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section70117&num=0&edition=prelim) and [section 70117 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section70117&num=0&edition=prelim) as this section.
 
 Subsec. (b)(2). Pub. L. 111–314, § 4(d)(5)(T), substituted “chapter 601 of this title” for “the Land Remote Sensing Policy Act of 1992 ([15 U.S.C. 5601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5601&num=0&edition=prelim) et seq.)”.

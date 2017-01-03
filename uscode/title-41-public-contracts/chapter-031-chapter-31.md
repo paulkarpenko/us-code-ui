@@ -201,7 +201,7 @@ Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impa
 Barack Obama.
 
 #### Ex. Ord. No. 13673. Fair Pay and Safe Workplaces
-Ex. Ord. No. 13673, July 31, 2014, 79 F.R. 45309, provided:
+Ex. Ord. No. 13673, July 31, 2014, 79 F.R. 45309, as amended by Ex. Ord. No. 13683, § 3, Dec. 11, 2014, 79 F.R. 75042; Ex. Ord. No. 13738, Aug. 23, 2016, 81 F.R. 58807, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including [40 U.S.C. 121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section121&num=0&edition=prelim), and in order to promote economy and efficiency in procurement by contracting with responsible sources who comply with labor laws, it is hereby ordered as follows:
 
@@ -225,7 +225,7 @@ Sec. 2. Compliance with Labor Laws. (a) Pre-award Actions. (i) For procurement c
 
 (H) section 503 of the Rehabilitation Act of 1973;
 
-(I) [38 U.S.C. 3696](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3696&num=0&edition=prelim), 3698, 3699, 4214, 4301–4306, also known as the Vietnam Era Veterans’ Readjustment Assistance Act of 1974;
+(I) the Vietnam Era Veterans’ Readjustment Assistance Act of 1972 and the Vietnam Era Veterans’ Readjustment Assistance Act of 1974;
 
 (J) the Family and Medical Leave Act;
 
@@ -245,11 +245,11 @@ Sec. 2. Compliance with Labor Laws. (a) Pre-award Actions. (i) For procurement c
 
 (iv) For any subcontract where the estimated value of the supplies acquired and services required exceeds $500,000 and that is not for commercially available off-the-shelf items, a contracting officer shall require that, at the time of execution of the contract, a contractor represents to the contracting agency that the contractor:
 
-(A) will require each subcontractor to disclose any administrative merits determination, arbitral award or decision, or civil judgment rendered against the subcontractor within the preceding 3-year period for violations of any of the requirements of the labor laws listed in paragraph (i) of this subsection, and update the information every 6 months; and
+(A) will require each subcontractor to disclose to the entity designated by a final rule amending the Federal Acquisition Regulation under subsection 4(a) any administrative merits determination, arbitral award or decision, or civil judgment rendered against the subcontractor within the preceding 3-year period for violations of any of the requirements of the labor laws listed in paragraph (i) of this subsection, and update the information every 6 months; and
 
-(B) before awarding a subcontract, will consider the information submitted by the subcontractor pursuant to subparagraph (A) of this paragraph in determining whether a subcontractor is a responsible source that has a satisfactory record of integrity and business ethics, except for subcontracts that are awarded or become effective within 5 days of contract execution, in which case the information may be reviewed within 30 days of subcontract award.
+(B) before awarding a subcontract, will consider the advice provided by the entity designated by a final rule amending the Federal Acquisition Regulation under subsection 4(a), or the information submitted to that entity in determining whether a subcontractor is a responsible source that has a satisfactory record of integrity and business ethics, except for subcontracts that are awarded or become effective within 5 days of contract execution, in which case the information may be reviewed within 30 days of subcontract award.
 
-(v) A contracting officer shall require that a contractor incorporate into subcontracts covered by paragraph (iv) of this subsection a requirement that the subcontractor disclose to the contractor any administrative merits determination, arbitral award or decision, or civil judgment rendered against the subcontractor within the preceding 3-year period for violations of any of the requirements of the labor laws listed in paragraph (i) of this subsection.
+(v) A contracting officer shall require that a contractor incorporate into subcontracts covered by paragraph (iv) of this subsection a requirement that the subcontractor disclose to an entity designated by a final rule amending the Federal Acquisition Regulation under subsection 4(a) any administrative merits determination, arbitral award or decision, or civil judgment rendered against the subcontractor within the preceding 3-year period for violations of any of the requirements of the labor laws listed in paragraph (i) of this subsection.
 
 (vi) A contracting officer, Labor Compliance Advisor, and the Department of Labor (or other relevant enforcement agency) shall be available, as appropriate, for consultation with a contractor to assist in evaluating the information on labor compliance submitted by a subcontractor pursuant to paragraph (v) of this subsection.
 
@@ -335,7 +335,7 @@ Sec. 4. Ensuring Government-wide Consistency. In order to facilitate Government-
 
 (c) the Director of the Office of Management and Budget shall:
 
-(i) work with the Administrator of General Services to include in the Federal Awardee Performance and Integrity Information System information provided by contractors pursuant to sections 2(a)(i) and (ii) and 2(b)(i) of this order, and data on the resolution of any issues related to such information; and
+(i) work with the Administrator of General Services to include in the Federal Awardee Performance and Integrity Information System information provided by contractors pursuant to sections 2(a)(i) and 2(b)(i) of this order, and data on the resolution of any issues related to such information; and
 
 (ii) designate an appropriate contact for agencies seeking to consult with the Office of Management and Budget pursuant to this order;
 

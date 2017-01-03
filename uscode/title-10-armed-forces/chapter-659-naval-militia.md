@@ -34,7 +34,7 @@ In the discretion of the Secretary of the Navy, any member of the Naval Militia 
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
 | 7852 | [50 U.S.C. 1072](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1072&num=0&edition=prelim). | July 9, 1952, ch. 608, § 502, 66 Stat. 500. |
 
-This section is written to indicate that the Secretary of the Navy has discretion in authorizing the appointment or enlistment in the Naval Reserve of members of the Naval Militia but does not make such appointments or enlistments. [Section 593 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section593&num=0&edition=prelim), based on [50 U.S.C. 942](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section942&num=0&edition=prelim), 943, provides the manner in which all reserve appointments are made, and [§ 510 of this title](./chapter-031-enlistments.md#section-510), based on [50 U.S.C. 941](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section941&num=0&edition=prelim), 952, 956 provides the authority to enlist persons in the reserve components. As worded, this section removes the conflicting statement of appointing authority, and allows appointments and enlistments to be controlled by these other provisions. The words “rank” and “or rating” are omitted as covered by the word “grade”.
+This section is written to indicate that the Secretary of the Navy has discretion in authorizing the appointment or enlistment in the Naval Reserve of members of the Naval Militia but does not make such appointments or enlistments. [Section 593 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section593&num=0&edition=prelim), based on [50 U.S.C. 942](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section942&num=0&edition=prelim), 943, provides the manner in which all reserve appointments are made, and § 510 of this title, based on [50 U.S.C. 941](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section941&num=0&edition=prelim), 952, 956 provides the authority to enlist persons in the reserve components. As worded, this section removes the conflicting statement of appointing authority, and allows appointments and enlistments to be controlled by these other provisions. The words “rank” and “or rating” are omitted as covered by the word “grade”.
 
 #### Amendments
 2006—Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
@@ -52,7 +52,7 @@ When ordered to active duty, a member of the Navy Reserve or the Marine Corps Re
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
 | 7853 | [50 U.S.C. 1073](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1073&num=0&edition=prelim). | July 9, 1952, ch. 608, § 503, 66 Stat. 500. |
 
-The words “in the service of the United States” are omitted as covered by the definition of “active duty” in [§ 101 of this title](./chapter-001-definitions.md#section-101). The words “is relieved” are substituted for the words “shall stand relieved”.
+The words “in the service of the United States” are omitted as covered by the definition of “active duty” in § 101 of this title. The words “is relieved” are substituted for the words “shall stand relieved”.
 
 #### Amendments
 2006—Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.

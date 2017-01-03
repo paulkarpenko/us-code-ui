@@ -497,11 +497,11 @@ Subsec. (a) of this section effective Oct. 21, 1980, see section 14(b) of Pub. L
 
 **(c) Certificate; issuance; validity; inspection; review of suspension or revocation by Secretary**
 
-(1) If reception facilities of a port or terminal meet the requirements of Annex I and Annex II to the Convention and the regulations prescribed under subsection (a)(1) of this section, the Secretary shall, after consultation with the Administrator of the Environmental Protection Agency, issue a certificate to that effect to the applicant.
+(1) If reception facilities of a port or terminal meet the requirements of Annex I and Annex II to the Convention and the regulations prescribed under subsection (a)(1), the Secretary shall, after consultation with the Administrator of the Environmental Protection Agency, issue a certificate to that effect to the applicant.
 
 (2)
 
-  (A) Subject to subparagraph (B), if reception facilities of a port or terminal meet the requirements of Annex V to the Convention and the regulations prescribed under subsection (a)(2) of this section, the Secretary may, after consultation with appropriate Federal agencies, issue a certificate to that effect to the person in charge of the port or terminal.
+  (A) Subject to subparagraph (B), if reception facilities of a port or terminal meet the requirements of Annex V to the Convention and the regulations prescribed under subsection (a)(2), the Secretary may, after consultation with appropriate Federal agencies, issue a certificate to that effect to the person in charge of the port or terminal.
 
   (B) The Secretary may not issue a certificate attesting to the adequacy of reception facilities under this paragraph unless, prior to the issuance of the certificate, the Secretary conducts an inspection of the reception facilities of the port or terminal that is the subject of the certificate.
 
@@ -701,13 +701,13 @@ Each day of a continuing violation shall constitute a separate violation. The am
 
 **(c) Abatement of civil penalties; collection by Attorney General** The Secretary, or the Administrator as provided for in this chapter, may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to assessment or which has been assessed under this section. If any person fails to pay an assessment of a civil penalty after it has become final, the Secretary, or the Administrator as provided for in this chapter, may refer the matter to the Attorney General of the United States for collection in any appropriate district court of the United States.
 
-**(d) Liability in rem; district court jurisdiction** A ship operated in violation of the MARPOL Protocol, Annex IV to the Antarctic Protocol, this chapter, or the regulations thereunder is liable in rem for any fine imposed under subsection (a) of this section or civil penalty assessed pursuant to subsection (b) of this section, and may be proceeded against in the United States district court of any district in which the ship may be found.
+**(d) Liability in rem; district court jurisdiction** A ship operated in violation of the MARPOL Protocol, Annex IV to the Antarctic Protocol, this chapter, or the regulations thereunder is liable in rem for any fine imposed under subsection (a) or civil penalty assessed pursuant to subsection (b), and may be proceeded against in the United States district court of any district in which the ship may be found.
 
 **(e) Ship clearance or permits; refusal or revocation; bond or other surety** If any ship subject to the MARPOL Protocol, Annex IV to the Antarctic Protocol, or this chapter, its owner, operator, or person in charge is liable for a fine or civil penalty under this section, or if reasonable cause exists to believe that the ship, its owner, operator, or person in charge may be subject to a fine or civil penalty under this section, the Secretary of the Treasury, upon the request of the Secretary, shall refuse or revoke the clearance required by [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim). Clearance may be granted upon the filing of a bond or other surety satisfactory to the Secretary.
 
 **(f) Referrals for appropriate action by foreign country** Notwithstanding subsection (a), (b), or (d) of this section, if the violation is by a ship registered in or of the nationality of a country party to the MARPOL Protocol or the Antarctic Protocol, or one operated under the authority of a country party to the MARPOL Protocol or the Antarctic Protocol, the Secretary, or the Administrator as provided for in this chapter acting in coordination with the Secretary of State, may refer the matter to the government of the country of the ship’s registry or nationality, or under whose authority the ship is operating for appropriate action, rather than taking the actions required or authorized by this section.
 
-**(g) Deposits in Abandoned Seafarers Fund** Any penalty collected under subsection (a) or (b) that is not paid under that subsection to the person giving information leading to the conviction or assessment of such penalties shall be deposited in the Abandoned Seafarers Fund established under [section 11113 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section11113&num=0&edition=prelim), United States Code.
+**(g) Deposits in Abandoned Seafarers Fund** Any penalty collected under subsection (a) or (b) that is not paid under that subsection to the person giving information leading to the conviction or assessment of such penalties shall be deposited in the Abandoned Seafarers Fund established under [section 11113 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section11113&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -856,7 +856,7 @@ Any action taken under this chapter shall be taken in accordance with internatio
 
 (4) any other information which the agency head considers relevant and appropriate.
 
-**(c) Congressional action** Upon receipt of the compliance report under subsection (b) of this section, the Congress shall modify the applicability of Annex V to ships referred to in section 3(b)(1)(A) of the Act to Prevent Pollution from Ships [[33 U.S.C. 1902(b)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1902/b/1/A&num=0&edition=prelim)], as may be appropriate with respect to the requirements of Annex V to the Convention.
+**(c) Congressional action** Upon receipt of the compliance report under subsection (b), the Congress shall modify the applicability of Annex V to ships referred to in section 3(b)(1)(A) of the Act to Prevent Pollution from Ships [[33 U.S.C. 1902(b)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1902/b/1/A&num=0&edition=prelim)], as may be appropriate with respect to the requirements of Annex V to the Convention.
 
 ### Statutory Notes
 

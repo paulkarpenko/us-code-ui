@@ -410,7 +410,7 @@ Pub. L. 96–499, title X, § 1023(c), Dec. 5, 1980, 94 Stat. 2658, provided tha
 ## § 8521. Definitions; application
 **(a)** For the purpose of this subchapter—
 
-(1) “Federal service” means active service (not including active duty in a reserve status unless for a continuous period of 90 days or more) in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration if with respect to that service—
+(1) “Federal service” means active service (not including active duty in a reserve status unless for a continuous period of 180 days or more) in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration if with respect to that service—
 
   (A) the individual was discharged or released under honorable conditions (and, if an officer, did not resign for the good of the service); and
 
@@ -455,9 +455,11 @@ This incorporates into [5 U.S.C. 8521](./chapter-085-unemployment-compensation.m
 Section 8 of Pub. L. 102–107, Aug. 17, 1991, 105 Stat. 546, which contained provisions substantially identical to those of section 301 of Pub. L. 102–164, amending this section and enacting provisions set out below, did not become effective pursuant to section 10(b) of Pub. L. 102–107, because the President did not take the action required by that section by Aug. 17, 1991.
 
 #### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–92 substituted “180 days” for “90 days” in introductory provisions.
+
 2008—Subsec. (a)(1)(B)(ii)(III). Pub. L. 110–317 substituted “hardship (including pursuant to a sole survivorship discharge, as that term is defined in [section 1174(i) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1174/i&num=0&edition=prelim)),” for “hardship,”.
 
-1991—Subsec. (a)(1). Pub. L. 102–164, § 301(b), substituted “90 days” for “180 days”.
+1991—Subsec. (a)(1). Pub. L. 102–164, § 301(b), substituted “90 days” for “180 days” in introductory provisions.
 
 Subsec. (c). Pub. L. 102–164, § 301(a), struck out subsec. (c) which read as follows:
 
@@ -476,6 +478,9 @@ Subsec. (c). Pub. L. 97–362, § 201(b), added subsec. (c).
 Subsec. (a)(1)(A). Pub. L. 96–364 substituted “365” for “90”.
 
 1976—Subsec. (a)(3). Pub. L. 94–566 added the Virgin Islands to definition of “State”.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–92, div. A, title V, § 513(b), Nov. 25, 2015, 129 Stat. 809, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Nov. 25, 2015], and shall apply with respect to periods of Federal service commencing on or after that date.”
 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted after Aug. 29, 2008, see section 10 of Pub. L. 110–317, set out as a note under [section 2108 of this title](./chapter-021-definitions.md#section-2108).
@@ -562,13 +567,23 @@ Pub. L. 91–373, title I, § 107, Aug. 10, 1970, 84 Stat. 701, provided that th
 
 <a id="section-8525"></a>
 ## § 8525. Effect on other statutes
-**(a)** Repealed. Pub. L. 90–83, § 1(90), Sept. 11, 1967, 81 Stat. 219.]
+**(a)** Subsection (b)(2) does not apply to an individual who—
 
-**(b)** An individual is not entitled to compensation under this subchapter for any period with respect to which he receives—
+(1) is otherwise entitled to compensation under this subchapter;
 
-(1) a subsistence allowance under chapter 31 of title 38 or under part VIII of Veterans Regulation Numbered 1(a); or
+(2) is described in [section 3311(b) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3311/b&num=0&edition=prelim);
 
-(2) an educational assistance allowance under chapter 35 of title 38.
+(3) is not receiving retired pay under title 10; and
+
+(4) was discharged or released from service in the Armed Forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration (including through a reduction in force) under honorable conditions, but did not voluntarily separate from such service.
+
+**(b)** An individual is not entitled to compensation under this subchapter for any period with respect to which the individual receives—
+
+(1) a subsistence allowance under chapter 31 of title 38 or under part VIII of Veterans Regulation Numbered 1(a);
+
+(2) except in the case of an individual described in subsection (a), an educational assistance allowance under chapter 33 of title 38; or
+
+(3) an educational assistance allowance under chapter 35 of title 38.
 
 ### Statutory Notes
 
@@ -586,3 +601,10 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### 1967 Act
 This section deletes subsection (a) of [5 U.S.C. 8525](./chapter-085-unemployment-compensation.md#section-8525). That subsection is now obsolete in view of the repeal, effective July 1, 1966, of chapter 43 of title 38, U.S.C., by Public Law 89–50, section 1(a) (79 Stat. 173).
+
+#### Amendments
+2015—Subsec. (a). Pub. L. 114–92, § 560(b), added subsec. (a).
+
+Subsec. (b). Pub. L. 114–92, § 560(a)(1), substituted “the individual receives” for “he receives” in introductory provisions.
+
+Subsec. (b)(2), (3). Pub. L. 114–92, § 560(a)(2)–(4), added par. (2) and redesignated former par. (2) as (3).

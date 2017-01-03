@@ -2,7 +2,7 @@
 title: 50
 chapter: '36'
 heading: FOREIGN INTELLIGENCE SURVEILLANCE
-section_count: 48
+section_count: 49
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -31,7 +31,7 @@ As used in this subchapter:
 
 (1) any person other than a United States person, who—
 
-  (A) acts in the United States as an officer or employee of a foreign power, or as a member of a foreign power as defined in subsection (a)(4) of this section, irrespective of whether the person is inside the United States;
+  (A) acts in the United States as an officer or employee of a foreign power, or as a member of a foreign power as defined in subsection (a)(4), irrespective of whether the person is inside the United States;
 
   (B) acts for or on behalf of a foreign power which engages in clandestine intelligence activities in the United States contrary to the interests of the United States, when the circumstances indicate that such person may engage in such activities, or when such person knowingly aids or abets any person in the conduct of such activities or knowingly conspires with any person to engage in such activities;
 
@@ -101,13 +101,13 @@ As used in this subchapter:
 
 (1) specific procedures, which shall be adopted by the Attorney General, that are reasonably designed in light of the purpose and technique of the particular surveillance, to minimize the acquisition and retention, and prohibit the dissemination, of nonpublicly available information concerning unconsenting United States persons consistent with the need of the United States to obtain, produce, and disseminate foreign intelligence information;
 
-(2) procedures that require that nonpublicly available information, which is not foreign intelligence information, as defined in subsection (e)(1) of this section, shall not be disseminated in a manner that identifies any United States person, without such person’s consent, unless such person’s identity is necessary to understand foreign intelligence information or assess its importance;
+(2) procedures that require that nonpublicly available information, which is not foreign intelligence information, as defined in subsection (e)(1), shall not be disseminated in a manner that identifies any United States person, without such person’s consent, unless such person’s identity is necessary to understand foreign intelligence information or assess its importance;
 
 (3) notwithstanding paragraphs (1) and (2), procedures that allow for the retention and dissemination of information that is evidence of a crime which has been, is being, or is about to be committed and that is to be retained or disseminated for law enforcement purposes; and
 
 (4) notwithstanding paragraphs (1), (2), and (3), with respect to any electronic surveillance approved pursuant to [section 1802(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1802/a&num=0&edition=prelim), procedures that require that no contents of any communication to which a United States person is a party shall be disclosed, disseminated, or used for any purpose or retained for longer than 72 hours unless a court order under [section 1805 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1805) is obtained or unless the Attorney General determines that the information indicates a threat of death or serious bodily harm to any person.
 
-**(i)** “United States person” means a citizen of the United States, an alien lawfully admitted for permanent residence (as defined in [section 1101(a)(20) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/20&num=0&edition=prelim)), an unincorporated association a substantial number of members of which are citizens of the United States or aliens lawfully admitted for permanent residence, or a corporation which is incorporated in the United States, but does not include a corporation or an association which is a foreign power, as defined in subsection (a)(1), (2), or (3) of this section.
+**(i)** “United States person” means a citizen of the United States, an alien lawfully admitted for permanent residence (as defined in [section 1101(a)(20) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/20&num=0&edition=prelim)), an unincorporated association a substantial number of members of which are citizens of the United States or aliens lawfully admitted for permanent residence, or a corporation which is incorporated in the United States, but does not include a corporation or an association which is a foreign power, as defined in subsection (a)(1), (2), or (3).
 
 **(j)** “United States”, when used in a geographic sense, means all areas under the territorial sovereignty of the United States and the Trust Territory of the Pacific Islands.
 
@@ -244,7 +244,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
   (B) maintain under security procedures approved by the Attorney General and the Director of National Intelligence any records concerning the surveillance or the aid furnished which such carrier wishes to retain.
   The Government shall compensate, at the prevailing rate, such carrier for furnishing such aid.
 
-**(b)** Applications for a court order under this subchapter are authorized if the President has, by written authorization, empowered the Attorney General to approve applications to the court having jurisdiction under [section 1803 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1803), and a judge to whom an application is made may, notwithstanding any other law, grant an order, in conformity with [section 1805 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1805), approving electronic surveillance of a foreign power or an agent of a foreign power for the purpose of obtaining foreign intelligence information, except that the court shall not have jurisdiction to grant any order approving electronic surveillance directed solely as described in paragraph (1)(A) of subsection (a) of this section unless such surveillance may involve the acquisition of communications of any United States person.
+**(b)** Applications for a court order under this subchapter are authorized if the President has, by written authorization, empowered the Attorney General to approve applications to the court having jurisdiction under [section 1803 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1803), and a judge to whom an application is made may, notwithstanding any other law, grant an order, in conformity with [section 1805 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1805), approving electronic surveillance of a foreign power or an agent of a foreign power for the purpose of obtaining foreign intelligence information, except that the court shall not have jurisdiction to grant any order approving electronic surveillance directed solely as described in paragraph (1)(A) of subsection (a) unless such surveillance may involve the acquisition of communications of any United States person.
 
 ### Statutory Notes
 
@@ -296,7 +296,7 @@ None of the above officials, nor anyone officially acting in that capacity, may 
 ## § 1803. Designation of judges
 **(a) Court to hear applications and grant orders; record of denial; transmittal to court of review**
 
-(1) The Chief Justice of the United States shall publicly designate 11 district court judges from at least seven of the United States judicial circuits of whom no fewer than 3 shall reside within 20 miles of the District of Columbia who shall constitute a court which shall have jurisdiction to hear applications for and grant orders approving electronic surveillance anywhere within the United States under the procedures set forth in this chapter, except that no judge designated under this subsection (except when sitting en banc under paragraph (2)) shall hear the same application for electronic surveillance under this chapter which has been denied previously by another judge designated under this subsection. If any judge so designated denies an application for an order authorizing electronic surveillance under this chapter, such judge shall provide immediately for the record a written statement of each reason of his decision and, on motion of the United States, the record shall be transmitted, under seal, to the court of review established in subsection (b) of this section.
+(1) The Chief Justice of the United States shall publicly designate 11 district court judges from at least seven of the United States judicial circuits of whom no fewer than 3 shall reside within 20 miles of the District of Columbia who shall constitute a court which shall have jurisdiction to hear applications for and grant orders approving electronic surveillance anywhere within the United States under the procedures set forth in this chapter, except that no judge designated under this subsection (except when sitting en banc under paragraph (2)) shall hear the same application for electronic surveillance under this chapter which has been denied previously by another judge designated under this subsection. If any judge so designated denies an application for an order authorizing electronic surveillance under this chapter, such judge shall provide immediately for the record a written statement of each reason for his decision and, on motion of the United States, the record shall be transmitted, under seal, to the court of review established in subsection (b).
 
 (2)
 
@@ -314,7 +314,7 @@ None of the above officials, nor anyone officially acting in that capacity, may 
 
 **(c) Expeditious conduct of proceedings; security measures for maintenance of records** Proceedings under this chapter shall be conducted as expeditiously as possible. The record of proceedings under this chapter, including applications made and orders granted, shall be maintained under security measures established by the Chief Justice in consultation with the Attorney General and the Director of National Intelligence.
 
-**(d) Tenure** Each judge designated under this section shall so serve for a maximum of seven years and shall not be eligible for redesignation, except that the judges first designated under subsection (a) of this section shall be designated for terms of from one to seven years so that one term expires each year, and that judges first designated under subsection (b) of this section shall be designated for terms of three, five, and seven years.
+**(d) Tenure** Each judge designated under this section shall so serve for a maximum of seven years and shall not be eligible for redesignation, except that the judges first designated under subsection (a) shall be designated for terms of from one to seven years so that one term expires each year, and that judges first designated under subsection (b) shall be designated for terms of three, five, and seven years.
 
 **(e) Jurisdiction and procedures for review of petitions**
 
@@ -498,7 +498,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 (1)
 
-  (A) Upon written request of the Director of the Federal Bureau of Investigation, the Secretary of Defense, the Secretary of State, the Director of National Intelligence, or the Director of the Central Intelligence Agency, the Attorney General shall personally review under subsection (a) of this section an application under that subsection for a target described in [section 1801(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1801/b/2&num=0&edition=prelim).
+  (A) Upon written request of the Director of the Federal Bureau of Investigation, the Secretary of Defense, the Secretary of State, the Director of National Intelligence, or the Director of the Central Intelligence Agency, the Attorney General shall personally review under subsection (a) an application under that subsection for a target described in [section 1801(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1801/b/2&num=0&edition=prelim).
 
   (B) Except when disabled or otherwise unavailable to make a request referred to in subparagraph (A), an official referred to in that subparagraph may not delegate the authority to make a request referred to in that subparagraph.
 
@@ -506,9 +506,9 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 (2)
 
-  (A) If as a result of a request under paragraph (1) the Attorney General determines not to approve an application under the second sentence of subsection (a) of this section for purposes of making the application under this section, the Attorney General shall provide written notice of the determination to the official making the request for the review of the application under that paragraph. Except when disabled or otherwise unavailable to make a determination under the preceding sentence, the Attorney General may not delegate the responsibility to make a determination under that sentence. The Attorney General shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event the Attorney General is disabled or otherwise unavailable to make such determination.
+  (A) If as a result of a request under paragraph (1) the Attorney General determines not to approve an application under the second sentence of subsection (a) for purposes of making the application under this section, the Attorney General shall provide written notice of the determination to the official making the request for the review of the application under that paragraph. Except when disabled or otherwise unavailable to make a determination under the preceding sentence, the Attorney General may not delegate the responsibility to make a determination under that sentence. The Attorney General shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event the Attorney General is disabled or otherwise unavailable to make such determination.
 
-  (B) Notice with respect to an application under subparagraph (A) shall set forth the modifications, if any, of the application that are necessary in order for the Attorney General to approve the application under the second sentence of subsection (a) of this section for purposes of making the application under this section.
+  (B) Notice with respect to an application under subparagraph (A) shall set forth the modifications, if any, of the application that are necessary in order for the Attorney General to approve the application under the second sentence of subsection (a) for purposes of making the application under this section.
 
   (C) Upon review of any modifications of an application set forth under subparagraph (B), the official notified of the modifications under this paragraph shall modify the application if such official determines that such modification is warranted. Such official shall supervise the making of any modification under this subparagraph. Except when disabled or otherwise unavailable to supervise the making of any modification under the preceding sentence, such official may not delegate the responsibility to supervise the making of any modification under that preceding sentence. Each such official shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event such official is disabled or otherwise unavailable to supervise the making of such modification.
 
@@ -565,7 +565,7 @@ For designation of certain officials to make certifications required by subsec. 
 
 (4) the application which has been filed contains all statements and certifications required by [section 1804 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1804) and, if the target is a United States person, the certification or certifications are not clearly erroneous on the basis of the statement made under section 1804(a)(7)(E) 11 See References in Text note below. of this title and any other information furnished under section 1804(d) 1 of this title.
 
-**(b) Determination of probable cause** In determining whether or not probable cause exists for purposes of an order under subsection (a)(2) of this section, a judge may consider past activities of the target, as well as facts and circumstances relating to current or future activities of the target.
+**(b) Determination of probable cause** In determining whether or not probable cause exists for purposes of an order under subsection (a)(2), a judge may consider past activities of the target, as well as facts and circumstances relating to current or future activities of the target.
 
 **(c) Specifications and directions of orders**
 
@@ -862,11 +862,11 @@ Repeal effective July 10, 2008, except as provided in section 404 of Pub. L. 110
 (2) the surveillance was not made in conformity with an order of authorization or approval.
 Such a motion shall be made before the trial, hearing, or other proceeding unless there was no opportunity to make such a motion or the person was not aware of the grounds of the motion.
 
-**(f) In camera and ex parte review by district court** Whenever a court or other authority is notified pursuant to subsection (c) or (d) of this section, or whenever a motion is made pursuant to subsection (e) of this section, or whenever any motion or request is made by an aggrieved person pursuant to any other statute or rule of the United States or any State before any court or other authority of the United States or any State to discover or obtain applications or orders or other materials relating to electronic surveillance or to discover, obtain, or suppress evidence or information obtained or derived from electronic surveillance under this chapter, the United States district court or, where the motion is made before another authority, the United States district court in the same district as the authority, shall, notwithstanding any other law, if the Attorney General files an affidavit under oath that disclosure or an adversary hearing would harm the national security of the United States, review in camera and ex parte the application, order, and such other materials relating to the surveillance as may be necessary to determine whether the surveillance of the aggrieved person was lawfully authorized and conducted. In making this determination, the court may disclose to the aggrieved person, under appropriate security procedures and protective orders, portions of the application, order, or other materials relating to the surveillance only where such disclosure is necessary to make an accurate determination of the legality of the surveillance.
+**(f) In camera and ex parte review by district court** Whenever a court or other authority is notified pursuant to subsection (c) or (d), or whenever a motion is made pursuant to subsection (e), or whenever any motion or request is made by an aggrieved person pursuant to any other statute or rule of the United States or any State before any court or other authority of the United States or any State to discover or obtain applications or orders or other materials relating to electronic surveillance or to discover, obtain, or suppress evidence or information obtained or derived from electronic surveillance under this chapter, the United States district court or, where the motion is made before another authority, the United States district court in the same district as the authority, shall, notwithstanding any other law, if the Attorney General files an affidavit under oath that disclosure or an adversary hearing would harm the national security of the United States, review in camera and ex parte the application, order, and such other materials relating to the surveillance as may be necessary to determine whether the surveillance of the aggrieved person was lawfully authorized and conducted. In making this determination, the court may disclose to the aggrieved person, under appropriate security procedures and protective orders, portions of the application, order, or other materials relating to the surveillance only where such disclosure is necessary to make an accurate determination of the legality of the surveillance.
 
-**(g) Suppression of evidence; denial of motion** If the United States district court pursuant to subsection (f) of this section determines that the surveillance was not lawfully authorized or conducted, it shall, in accordance with the requirements of law, suppress the evidence which was unlawfully obtained or derived from electronic surveillance of the aggrieved person or otherwise grant the motion of the aggrieved person. If the court determines that the surveillance was lawfully authorized and conducted, it shall deny the motion of the aggrieved person except to the extent that due process requires discovery or disclosure.
+**(g) Suppression of evidence; denial of motion** If the United States district court pursuant to subsection (f) determines that the surveillance was not lawfully authorized or conducted, it shall, in accordance with the requirements of law, suppress the evidence which was unlawfully obtained or derived from electronic surveillance of the aggrieved person or otherwise grant the motion of the aggrieved person. If the court determines that the surveillance was lawfully authorized and conducted, it shall deny the motion of the aggrieved person except to the extent that due process requires discovery or disclosure.
 
-**(h) Finality of orders** Orders granting motions or requests under subsection (g) of this section, decisions under this section that electronic surveillance was not lawfully authorized or conducted, and orders of the United States district court requiring review or granting disclosure of applications, orders, or other materials relating to a surveillance shall be final orders and binding upon all courts of the United States and the several States except a United States court of appeals and the Supreme Court.
+**(h) Finality of orders** Orders granting motions or requests under subsection (g), decisions under this section that electronic surveillance was not lawfully authorized or conducted, and orders of the United States district court requiring review or granting disclosure of applications, orders, or other materials relating to a surveillance shall be final orders and binding upon all courts of the United States and the several States except a United States court of appeals and the Supreme Court.
 
 **(i) Destruction of unintentionally acquired information** In circumstances involving the unintentional acquisition by an electronic, mechanical, or other surveillance device of the contents of any communication, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes, and if both the sender and all intended recipients are located within the United States, such contents shall be destroyed upon recognition, unless the Attorney General determines that the contents indicate a threat of death or serious bodily harm to any person.
 
@@ -950,7 +950,7 @@ In April of each year, the Attorney General shall transmit to the Administrative
 ### Statutory Notes
 
 #### References in Text
-Section 301(e), referred to in subsec. (a)(2)(D), probably should be a reference to section 304(e), meaning section 304(e) of Pub. L. 95–511, which is classified to [section 1824(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1824/e&num=0&edition=prelim) and relates to authorizations and orders for emergency physical searches. Section 301 of Pub. L. 95–511, which is classified to [section 1821 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1821), relates to definitions for terms used in subchapter II of this chapter and does not contain a subsec. (e).
+Section 301, referred to in subsec. (a)(2)(D), means section 301 of Pub. L. 95–511, which is classified to [section 1821 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1821), relates to definitions for terms used in subchapter II of this chapter, and does not contain a subsec. (e). Section 304(e) of Pub. L. 95–511, which is classified to [section 1824(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1824/e&num=0&edition=prelim), relates to authorizations and orders for emergency physical searches.
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801) and Tables.
 
@@ -983,7 +983,7 @@ Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in se
 
 (2) discloses or uses information obtained under color of law by electronic surveillance, knowing or having reason to know that the information was obtained through electronic surveillance not authorized by this chapter, chapter 119, 121, or 206 of title 18, or any express statutory authorization that is an additional exclusive means for conducting electronic surveillance under [section 1812 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1812).
 
-**(b) Defense** It is a defense to a prosecution under subsection (a) of this section that the defendant was a law enforcement or investigative officer engaged in the course of his official duties and the electronic surveillance was authorized by and conducted pursuant to a search warrant or court order of a court of competent jurisdiction.
+**(b) Defense** It is a defense to a prosecution under subsection (a) that the defendant was a law enforcement or investigative officer engaged in the course of his official duties and the electronic surveillance was authorized by and conducted pursuant to a search warrant or court order of a court of competent jurisdiction.
 
 **(c) Penalties** An offense described in this section is punishable by a fine of not more than $10,000 or imprisonment for not more than five years, or both.
 
@@ -1276,7 +1276,7 @@ None of the above officials, nor anyone officially acting in that capacity, may 
 
 (1)
 
-  (A) Upon written request of the Director of the Federal Bureau of Investigation, the Secretary of Defense, the Secretary of State, the Director of National Intelligence, or the Director of the Central Intelligence Agency, the Attorney General shall personally review under subsection (a) of this section an application under that subsection for a target described in [section 1801(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1801/b/2&num=0&edition=prelim).
+  (A) Upon written request of the Director of the Federal Bureau of Investigation, the Secretary of Defense, the Secretary of State, the Director of National Intelligence, or the Director of the Central Intelligence Agency, the Attorney General shall personally review under subsection (a) an application under that subsection for a target described in [section 1801(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1801/b/2&num=0&edition=prelim).
 
   (B) Except when disabled or otherwise unavailable to make a request referred to in subparagraph (A), an official referred to in that subparagraph may not delegate the authority to make a request referred to in that subparagraph.
 
@@ -1284,9 +1284,9 @@ None of the above officials, nor anyone officially acting in that capacity, may 
 
 (2)
 
-  (A) If as a result of a request under paragraph (1) the Attorney General determines not to approve an application under the second sentence of subsection (a) of this section for purposes of making the application under this section, the Attorney General shall provide written notice of the determination to the official making the request for the review of the application under that paragraph. Except when disabled or otherwise unavailable to make a determination under the preceding sentence, the Attorney General may not delegate the responsibility to make a determination under that sentence. The Attorney General shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event the Attorney General is disabled or otherwise unavailable to make such determination.
+  (A) If as a result of a request under paragraph (1) the Attorney General determines not to approve an application under the second sentence of subsection (a) for purposes of making the application under this section, the Attorney General shall provide written notice of the determination to the official making the request for the review of the application under that paragraph. Except when disabled or otherwise unavailable to make a determination under the preceding sentence, the Attorney General may not delegate the responsibility to make a determination under that sentence. The Attorney General shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event the Attorney General is disabled or otherwise unavailable to make such determination.
 
-  (B) Notice with respect to an application under subparagraph (A) shall set forth the modifications, if any, of the application that are necessary in order for the Attorney General to approve the application under the second sentence of subsection (a) of this section for purposes of making the application under this section.
+  (B) Notice with respect to an application under subparagraph (A) shall set forth the modifications, if any, of the application that are necessary in order for the Attorney General to approve the application under the second sentence of subsection (a) for purposes of making the application under this section.
 
   (C) Upon review of any modifications of an application set forth under subparagraph (B), the official notified of the modifications under this paragraph shall modify the application if such official determines that such modification is warranted. Such official shall supervise the making of any modification under this subparagraph. Except when disabled or otherwise unavailable to supervise the making of any modification under the preceding sentence, such official may not delegate the responsibility to supervise the making of any modification under that preceding sentence. Each such official shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event such official is disabled or otherwise unavailable to supervise the making of such modification.
 
@@ -1460,11 +1460,11 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 (2) Such a motion shall be made before the trial, hearing, or other proceeding unless there was no opportunity to make such a motion or the person was not aware of the grounds of the motion.
 
-**(g) In camera and ex parte review by district court** Whenever a court or other authority is notified pursuant to subsection (d) or (e) of this section, or whenever a motion is made pursuant to subsection (f) of this section, or whenever any motion or request is made by an aggrieved person pursuant to any other statute or rule of the United States or any State before any court or other authority of the United States or any State to discover or obtain applications or orders or other materials relating to a physical search authorized by this subchapter or to discover, obtain, or suppress evidence or information obtained or derived from a physical search authorized by this subchapter, the United States district court or, where the motion is made before another authority, the United States district court in the same district as the authority shall, notwithstanding any other provision of law, if the Attorney General files an affidavit under oath that disclosure or any adversary hearing would harm the national security of the United States, review in camera and ex parte the application, order, and such other materials relating to the physical search as may be necessary to determine whether the physical search of the aggrieved person was lawfully authorized and conducted. In making this determination, the court may disclose to the aggrieved person, under appropriate security procedures and protective orders, portions of the application, order, or other materials relating to the physical search, or may require the Attorney General to provide to the aggrieved person a summary of such materials, only where such disclosure is necessary to make an accurate determination of the legality of the physical search.
+**(g) In camera and ex parte review by district court** Whenever a court or other authority is notified pursuant to subsection (d) or (e), or whenever a motion is made pursuant to subsection (f), or whenever any motion or request is made by an aggrieved person pursuant to any other statute or rule of the United States or any State before any court or other authority of the United States or any State to discover or obtain applications or orders or other materials relating to a physical search authorized by this subchapter or to discover, obtain, or suppress evidence or information obtained or derived from a physical search authorized by this subchapter, the United States district court or, where the motion is made before another authority, the United States district court in the same district as the authority shall, notwithstanding any other provision of law, if the Attorney General files an affidavit under oath that disclosure or any adversary hearing would harm the national security of the United States, review in camera and ex parte the application, order, and such other materials relating to the physical search as may be necessary to determine whether the physical search of the aggrieved person was lawfully authorized and conducted. In making this determination, the court may disclose to the aggrieved person, under appropriate security procedures and protective orders, portions of the application, order, or other materials relating to the physical search, or may require the Attorney General to provide to the aggrieved person a summary of such materials, only where such disclosure is necessary to make an accurate determination of the legality of the physical search.
 
-**(h) Suppression of evidence; denial of motion** If the United States district court pursuant to subsection (g) of this section determines that the physical search was not lawfully authorized or conducted, it shall, in accordance with the requirements of law, suppress the evidence which was unlawfully obtained or derived from the physical search of the aggrieved person or otherwise grant the motion of the aggrieved person. If the court determines that the physical search was lawfully authorized or conducted, it shall deny the motion of the aggrieved person except to the extent that due process requires discovery or disclosure.
+**(h) Suppression of evidence; denial of motion** If the United States district court pursuant to subsection (g) determines that the physical search was not lawfully authorized or conducted, it shall, in accordance with the requirements of law, suppress the evidence which was unlawfully obtained or derived from the physical search of the aggrieved person or otherwise grant the motion of the aggrieved person. If the court determines that the physical search was lawfully authorized or conducted, it shall deny the motion of the aggrieved person except to the extent that due process requires discovery or disclosure.
 
-**(i) Finality of orders** Orders granting motions or requests under subsection (h) of this section, decisions under this section that a physical search was not lawfully authorized or conducted, and orders of the United States district court requiring review or granting disclosure of applications, orders, or other materials relating to the physical search shall be final orders and binding upon all courts of the United States and the several States except a United States Court of Appeals or the Supreme Court.
+**(i) Finality of orders** Orders granting motions or requests under subsection (h), decisions under this section that a physical search was not lawfully authorized or conducted, and orders of the United States district court requiring review or granting disclosure of applications, orders, or other materials relating to the physical search shall be final orders and binding upon all courts of the United States and the several States except a United States Court of Appeals or the Supreme Court.
 
 **(j) Notification of emergency execution of physical search; contents; postponement, suspension, or elimination**
 
@@ -1544,7 +1544,7 @@ Par. (4). Pub. L. 109–177, § 109(a)(3)–(5), added par. (4).
 
 (2) discloses or uses information obtained under color of law by physical search within the United States, knowing or having reason to know that the information was obtained through physical search not authorized by statute, for the purpose of obtaining intelligence information.
 
-**(b) Defense** It is a defense to a prosecution under subsection (a) of this section that the defendant was a law enforcement or investigative officer engaged in the course of his official duties and the physical search was authorized by and conducted pursuant to a search warrant or court order of a court of competent jurisdiction.
+**(b) Defense** It is a defense to a prosecution under subsection (a) that the defendant was a law enforcement or investigative officer engaged in the course of his official duties and the physical search was authorized by and conducted pursuant to a search warrant or court order of a court of competent jurisdiction.
 
 **(c) Fine or imprisonment** An offense described in this section is punishable by a fine of not more than $10,000 or imprisonment for not more than five years, or both.
 
@@ -1689,11 +1689,11 @@ A prior section 401 of Pub. L. 95–511 was renumbered section 701 and was set o
 
 **(e) Time limitation**
 
-(1) Except as provided in paragraph (2), an order issued under this section shall authorize the installation and use of a pen register or trap and trace device for a period not to exceed 90 days. Extensions of such an order may be granted, but only upon an application for an order under this section and upon the judicial finding required by subsection (d) of this section. The period of extension shall be for a period not to exceed 90 days.
+(1) Except as provided in paragraph (2), an order issued under this section shall authorize the installation and use of a pen register or trap and trace device for a period not to exceed 90 days. Extensions of such an order may be granted, but only upon an application for an order under this section and upon the judicial finding required by subsection (d). The period of extension shall be for a period not to exceed 90 days.
 
 (2) In the case of an application under subsection (c) where the applicant has certified that the information likely to be obtained is foreign intelligence information not concerning a United States person, an order, or an extension of an order, under this section may be for a period not to exceed one year.
 
-**(f) Cause of action barred** No cause of action shall lie in any court against any provider of a wire or electronic communication service, landlord, custodian, or other person (including any officer, employee, agent, or other specified person thereof) that furnishes any information, facilities, or technical assistance under subsection (d) of this section in accordance with the terms of an order issued under this section.
+**(f) Cause of action barred** No cause of action shall lie in any court against any provider of a wire or electronic communication service, landlord, custodian, or other person (including any officer, employee, agent, or other specified person thereof) that furnishes any information, facilities, or technical assistance under subsection (d) in accordance with the terms of an order issued under this section.
 
 **(g) Furnishing of results** Unless otherwise ordered by the judge, the results of a pen register or trap and trace device shall be furnished at reasonable intervals during regular business hours for the duration of the order to the authorized Government official or officials.
 
@@ -1763,7 +1763,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 <a id="section-1843"></a>
 ## § 1843. Authorization during emergencies
-**(a) Requirements for authorization** Notwithstanding any other provision of this subchapter, when the Attorney General makes a determination described in subsection (b) of this section, the Attorney General may authorize the installation and use of a pen register or trap and trace device on an emergency basis to gather foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution if—
+**(a) Requirements for authorization** Notwithstanding any other provision of this subchapter, when the Attorney General makes a determination described in subsection (b), the Attorney General may authorize the installation and use of a pen register or trap and trace device on an emergency basis to gather foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution if—
 
 (1) a judge referred to in [section 1842(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1842/b&num=0&edition=prelim) is informed by the Attorney General or his designee at the time of such authorization that the decision has been made to install and use the pen register or trap and trace device, as the case may be, on an emergency basis; and
 
@@ -1777,7 +1777,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 **(c) Effect of absence of order**
 
-(1) In the absence of an order applied for under subsection (a)(2) of this section approving the installation and use of a pen register or trap and trace device authorized under this section, the installation and use of the pen register or trap and trace device, as the case may be, shall terminate at the earlier of—
+(1) In the absence of an order applied for under subsection (a)(2) approving the installation and use of a pen register or trap and trace device authorized under this section, the installation and use of the pen register or trap and trace device, as the case may be, shall terminate at the earlier of—
 
   (A) when the information sought is obtained;
 
@@ -1785,7 +1785,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
   (C) 7 days after the time of the authorization by the Attorney General.
 
-(2) In the event that an application for an order applied for under subsection (a)(2) of this section is denied, or in any other case where the installation and use of a pen register or trap and trace device under this section is terminated and no order under [section 1842 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1842) is issued approving the installation and use of the pen register or trap and trace device, as the case may be, no information obtained or evidence derived from the use of the pen register or trap and trace device, as the case may be, shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired from the use of the pen register or trap and trace device, as the case may be, shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
+(2) In the event that an application for an order applied for under subsection (a)(2) is denied, or in any other case where the installation and use of a pen register or trap and trace device under this section is terminated and no order under [section 1842 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1842) is issued approving the installation and use of the pen register or trap and trace device, as the case may be, no information obtained or evidence derived from the use of the pen register or trap and trace device, as the case may be, shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired from the use of the pen register or trap and trace device, as the case may be, shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
 
 **(d) Privacy procedures** Information collected through the use of a pen register or trap and trace device installed under this section shall be subject to the policies and procedures required under [section 1842(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1842/h&num=0&edition=prelim).
 
@@ -1836,24 +1836,24 @@ Notwithstanding any other provision of law, the President, through the Attorney 
 
 **(f) In camera and ex parte review**
 
-(1) Whenever a court or other authority is notified pursuant to subsection (c) or (d) of this section, whenever a motion is made pursuant to subsection (e) of this section, or whenever any motion or request is made by an aggrieved person pursuant to any other statute or rule of the United States or any State before any court or other authority of the United States or any State to discover or obtain applications or orders or other materials relating to the use of a pen register or trap and trace device authorized by this subchapter or to discover, obtain, or suppress evidence or information obtained or derived from the use of a pen register or trap and trace device authorized by this subchapter, the United States district court or, where the motion is made before another authority, the United States district court in the same district as the authority shall, notwithstanding any other provision of law and if the Attorney General files an affidavit under oath that disclosure or any adversary hearing would harm the national security of the United States, review in camera and ex parte the application, order, and such other materials relating to the use of the pen register or trap and trace device, as the case may be, as may be necessary to determine whether the use of the pen register or trap and trace device, as the case may be, was lawfully authorized and conducted.
+(1) Whenever a court or other authority is notified pursuant to subsection (c) or (d), whenever a motion is made pursuant to subsection (e), or whenever any motion or request is made by an aggrieved person pursuant to any other statute or rule of the United States or any State before any court or other authority of the United States or any State to discover or obtain applications or orders or other materials relating to the use of a pen register or trap and trace device authorized by this subchapter or to discover, obtain, or suppress evidence or information obtained or derived from the use of a pen register or trap and trace device authorized by this subchapter, the United States district court or, where the motion is made before another authority, the United States district court in the same district as the authority shall, notwithstanding any other provision of law and if the Attorney General files an affidavit under oath that disclosure or any adversary hearing would harm the national security of the United States, review in camera and ex parte the application, order, and such other materials relating to the use of the pen register or trap and trace device, as the case may be, as may be necessary to determine whether the use of the pen register or trap and trace device, as the case may be, was lawfully authorized and conducted.
 
 (2) In making a determination under paragraph (1), the court may disclose to the aggrieved person, under appropriate security procedures and protective orders, portions of the application, order, or other materials relating to the use of the pen register or trap and trace device, as the case may be, or may require the Attorney General to provide to the aggrieved person a summary of such materials, only where such disclosure is necessary to make an accurate determination of the legality of the use of the pen register or trap and trace device, as the case may be.
 
 **(g) Effect of determination of lawfulness**
 
-(1) If the United States district court determines pursuant to subsection (f) of this section that the use of a pen register or trap and trace device was not lawfully authorized or conducted, the court may, in accordance with the requirements of law, suppress the evidence which was unlawfully obtained or derived from the use of the pen register or trap and trace device, as the case may be, or otherwise grant the motion of the aggrieved person.
+(1) If the United States district court determines pursuant to subsection (f) that the use of a pen register or trap and trace device was not lawfully authorized or conducted, the court may, in accordance with the requirements of law, suppress the evidence which was unlawfully obtained or derived from the use of the pen register or trap and trace device, as the case may be, or otherwise grant the motion of the aggrieved person.
 
 (2) If the court determines that the use of the pen register or trap and trace device, as the case may be, was lawfully authorized or conducted, it may deny the motion of the aggrieved person except to the extent that due process requires discovery or disclosure.
 
-**(h) Binding final orders** Orders granting motions or requests under subsection (g) of this section, decisions under this section that the use of a pen register or trap and trace device was not lawfully authorized or conducted, and orders of the United States district court requiring review or granting disclosure of applications, orders, or other materials relating to the installation and use of a pen register or trap and trace device shall be final orders and binding upon all courts of the United States and the several States except a United States Court of Appeals or the Supreme Court.
+**(h) Binding final orders** Orders granting motions or requests under subsection (g), decisions under this section that the use of a pen register or trap and trace device was not lawfully authorized or conducted, and orders of the United States district court requiring review or granting disclosure of applications, orders, or other materials relating to the installation and use of a pen register or trap and trace device shall be final orders and binding upon all courts of the United States and the several States except a United States Court of Appeals or the Supreme Court.
 
 
 <a id="section-1846"></a>
 ## § 1846. Congressional oversight
 **(a)** On a semiannual basis, the Attorney General shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, concerning all uses of pen registers and trap and trace devices pursuant to this subchapter.
 
-**(b)** On a semiannual basis, the Attorney General shall also provide to the committees referred to in subsection (a) of this section and to the Committees on the Judiciary of the House of Representatives and the Senate a report setting forth with respect to the preceding 6-month period—
+**(b)** On a semiannual basis, the Attorney General shall also provide to the committees referred to in subsection (a) and to the Committees on the Judiciary of the House of Representatives and the Senate a report setting forth with respect to the preceding 6-month period—
 
 (1) the total number of applications made for orders approving the use of pen registers or trap and trace devices under this subchapter;
 
@@ -1899,15 +1899,23 @@ Subsec. (b)(3). Pub. L. 109–177, § 109(b), added par. (3).
 
 (2) shall include—
 
-  (A) a statement of facts showing that there are reasonable grounds to believe that the tangible things sought are relevant to an authorized investigation (other than a threat assessment) conducted in accordance with subsection (a)(2) to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, such things being presumptively relevant to an authorized investigation if the applicant shows in the statement of the facts that they pertain to—
+  (A) a specific selection term to be used as the basis for the production of the tangible things sought;
+
+  (B) in the case of an application other than an application described in subparagraph (C) (including an application for the production of call detail records other than in the manner described in subparagraph (C)), a statement of facts showing that there are reasonable grounds to believe that the tangible things sought are relevant to an authorized investigation (other than a threat assessment) conducted in accordance with subsection (a)(2) to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, such things being presumptively relevant to an authorized investigation if the applicant shows in the statement of the facts that they pertain to—
 
     (i) a foreign power or an agent of a foreign power;
 
     (ii) the activities of a suspected agent of a foreign power who is the subject of such authorized investigation; or
 
-    (iii) an individual in contact with, or known to, a suspected agent of a foreign power who is the subject of such authorized investigation; and
+    (iii) an individual in contact with, or known to, a suspected agent of a foreign power who is the subject of such authorized investigation;
 
-  (B) an enumeration of the minimization procedures adopted by the Attorney General under subsection (g) that are applicable to the retention and dissemination by the Federal Bureau of Investigation of any tangible things to be made available to the Federal Bureau of Investigation based on the order requested in such application.
+  (C) in the case of an application for the production on an ongoing basis of call detail records created before, on, or after the date of the application relating to an authorized investigation (other than a threat assessment) conducted in accordance with subsection (a)(2) to protect against international terrorism, a statement of facts showing that—
+
+    (i) there are reasonable grounds to believe that the call detail records sought to be produced based on the specific selection term required under subparagraph (A) are relevant to such investigation; and
+
+    (ii) there is a reasonable, articulable suspicion that such specific selection term is associated with a foreign power engaged in international terrorism or activities in preparation therefor, or an agent of a foreign power engaged in international terrorism or activities in preparation therefor; and
+
+  (D) an enumeration of the minimization procedures adopted by the Attorney General under subsection (g) that are applicable to the retention and dissemination by the Federal Bureau of Investigation of any tangible things to be made available to the Federal Bureau of Investigation based on the order requested in such application.
 
 **(c) Ex parte judicial order of approval**
 
@@ -1915,31 +1923,53 @@ Subsec. (b)(3). Pub. L. 109–177, § 109(b), added par. (3).
 
 (2) An order under this subsection—
 
-  (A) shall describe the tangible things that are ordered to be produced with sufficient particularity to permit them to be fairly identified;
+  (A) shall describe the tangible things that are ordered to be produced with sufficient particularity to permit them to be fairly identified, including each specific selection term to be used as the basis for the production;
 
   (B) shall include the date on which the tangible things must be provided, which shall allow a reasonable period of time within which the tangible things can be assembled and made available;
 
   (C) shall provide clear and conspicuous notice of the principles and procedures described in subsection (d);
 
-  (D) may only require the production of a tangible thing if such thing can be obtained with a subpoena duces tecum issued by a court of the United States in aid of a grand jury investigation or with any other order issued by a court of the United States directing the production of records or tangible things; and
+  (D) may only require the production of a tangible thing if such thing can be obtained with a subpoena duces tecum issued by a court of the United States in aid of a grand jury investigation or with any other order issued by a court of the United States directing the production of records or tangible things;
 
-  (E) shall not disclose that such order is issued for purposes of an investigation described in subsection (a).
+  (E) shall not disclose that such order is issued for purposes of an investigation described in subsection (a); and
+
+  (F) in the case of an application described in subsection (b)(2)(C), shall—
+
+    (i) authorize the production on a daily basis of call detail records for a period not to exceed 180 days;
+
+    (ii) provide that an order for such production may be extended upon application under subsection (b) and the judicial finding under paragraph (1) of this subsection;
+
+    (iii) provide that the Government may require the prompt production of a first set of call detail records using the specific selection term that satisfies the standard required under subsection (b)(2)(C)(ii);
+
+    (iv) provide that the Government may require the prompt production of a second set of call detail records using session-identifying information or a telephone calling card number identified by the specific selection term used to produce call detail records under clause (iii);
+
+    (v) provide that, when produced, such records be in a form that will be useful to the Government;
+
+    (vi) direct each person the Government directs to produce call detail records under the order to furnish the Government forthwith all information, facilities, or technical assistance necessary to accomplish the production in such a manner as will protect the secrecy of the production and produce a minimum of interference with the services that such person is providing to each subject of the production; and
+
+    (vii) direct the Government to—
+
+      (I) adopt minimization procedures that require the prompt destruction of all call detail records produced under the order that the Government determines are not foreign intelligence information; and
+
+      (II) destroy all call detail records produced under the order as prescribed by such procedures.
+
+(3) No order issued under this subsection may authorize the collection of tangible things without the use of a specific selection term that meets the requirements of subsection (b)(2).
 
 **(d) Nondisclosure**
 
-(1) No person shall disclose to any other person that the Federal Bureau of Investigation has sought or obtained tangible things pursuant to an order under this section, other than to—
+(1) No person shall disclose to any other person that the Federal Bureau of Investigation has sought or obtained tangible things pursuant to an order issued or an emergency production required under this section, other than to—
 
-  (A) those persons to whom disclosure is necessary to comply with such order;
+  (A) those persons to whom disclosure is necessary to comply with such order or such emergency production;
 
-  (B) an attorney to obtain legal advice or assistance with respect to the production of things in response to the order; or
+  (B) an attorney to obtain legal advice or assistance with respect to the production of things in response to the order or the emergency production; or
 
   (C) other persons as permitted by the Director of the Federal Bureau of Investigation or the designee of the Director.
 
 (2)
 
-  (A) A person to whom disclosure is made pursuant to paragraph (1) shall be subject to the nondisclosure requirements applicable to a person to whom an order is directed under this section in the same manner as such person.
+  (A) A person to whom disclosure is made pursuant to paragraph (1) shall be subject to the nondisclosure requirements applicable to a person to whom an order or emergency production is directed under this section in the same manner as such person.
 
-  (B) Any person who discloses to a person described in subparagraph (A), (B), or (C) of paragraph (1) that the Federal Bureau of Investigation has sought or obtained tangible things pursuant to an order under this section shall notify such person of the nondisclosure requirements of this subsection.
+  (B) Any person who discloses to a person described in subparagraph (A), (B), or (C) of paragraph (1) that the Federal Bureau of Investigation has sought or obtained tangible things pursuant to an order or emergency production under this section shall notify such person of the nondisclosure requirements of this subsection.
 
   (C) At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under subparagraph (A) or (C) of paragraph (1) shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request.
 
@@ -1989,7 +2019,7 @@ Subsec. (b)(3). Pub. L. 109–177, § 109(b), added par. (3).
 
 **(g) Minimization procedures**
 
-(1) **In generalThe Attorney General shall adopt, and update as appropriate, specific minimization procedures governing the retention and dissemination by the Federal Bureau of Investigation of any tangible things, or information therein, received by the Federal Bureau of Investigation in response to an order under this subchapter.**
+(1) **In general** — The Attorney General shall adopt, and update as appropriate, specific minimization procedures governing the retention and dissemination by the Federal Bureau of Investigation of any tangible things, or information therein, received by the Federal Bureau of Investigation in response to an order under this subchapter.
 
 (2) **Defined** — In this section, the term “minimization procedures” means—
 
@@ -2003,7 +2033,29 @@ Subsec. (b)(3). Pub. L. 109–177, § 109(b), added par. (3).
 
 **(h) Use of information** Information acquired from tangible things received by the Federal Bureau of Investigation in response to an order under this subchapter concerning any United States person may be used and disclosed by Federal officers and employees without the consent of the United States person only in accordance with the minimization procedures adopted pursuant to subsection (g). No otherwise privileged information acquired from tangible things received by the Federal Bureau of Investigation in accordance with the provisions of this subchapter shall lose its privileged character. No information acquired from tangible things received by the Federal Bureau of Investigation in response to an order under this subchapter may be used or disclosed by Federal officers or employees except for lawful purposes.
 
-**(j) 11 So in original. Subsec. (i) was enacted by section 102(a) of Pub. L. 114–23, effective 180 days after June 2, 2015. See Amendment of Section note and Effective Date of 2015 Amendment note below. Compensation** The Government shall compensate a person for reasonable expenses incurred for—
+**(i) Emergency authority for production of tangible things**
+
+(1) Notwithstanding any other provision of this section, the Attorney General may require the emergency production of tangible things if the Attorney General—
+
+  (A) reasonably determines that an emergency situation requires the production of tangible things before an order authorizing such production can with due diligence be obtained;
+
+  (B) reasonably determines that the factual basis for the issuance of an order under this section to approve such production of tangible things exists;
+
+  (C) informs, either personally or through a designee, a judge having jurisdiction under this section at the time the Attorney General requires the emergency production of tangible things that the decision has been made to employ the authority under this subsection; and
+
+  (D) makes an application in accordance with this section to a judge having jurisdiction under this section as soon as practicable, but not later than 7 days after the Attorney General requires the emergency production of tangible things under this subsection.
+
+(2) If the Attorney General requires the emergency production of tangible things under paragraph (1), the Attorney General shall require that the minimization procedures required by this section for the issuance of a judicial order be followed.
+
+(3) In the absence of a judicial order approving the production of tangible things under this subsection, the production shall terminate when the information sought is obtained, when the application for the order is denied, or after the expiration of 7 days from the time the Attorney General begins requiring the emergency production of such tangible things, whichever is earliest.
+
+(4) A denial of the application made under this subsection may be reviewed as provided in [section 1803 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1803).
+
+(5) If such application for approval is denied, or in any other case where the production of tangible things is terminated and no order is issued approving the production, no information obtained or evidence derived from such production shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or a political subdivision thereof, and no information concerning any United States person acquired from such production shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
+
+(6) The Attorney General shall assess compliance with the requirements of paragraph (5).
+
+**(j) Compensation** The Government shall compensate a person for reasonable expenses incurred for—
 
 (1) producing tangible things or providing information, facilities, or assistance in accordance with an order issued with respect to an application described in subsection (b)(2)(C) or an emergency production under subsection (i) that, to comply with subsection (i)(1)(D), requires an application described in subsection (b)(2)(C); or
 
@@ -2050,108 +2102,6 @@ Subsec. (b)(3). Pub. L. 109–177, § 109(b), added par. (3).
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 114–23, title I, §§ 101–103, 109(a), June 2, 2015, 129 Stat. 269–272, 276, provided that, effective 180 days after June 2, 2015, this section is amended as follows:
-
-(1) Subsection (b)(2) is amended—
-
-(A) in subparagraph (A)—
-
-(i) in the matter preceding clause (i), by striking “a statement” and inserting “in the case of an application other than an application described in subparagraph (C) (including an application for the production of call detail records other than in the manner described in subparagraph (C)), a statement”; and
-
-(ii) in clause (iii), by striking “; and” and inserting a semicolon;
-
-(B) by redesignating subparagraphs (A) and (B) as subparagraphs (B) and (D), respectively;
-
-(C) by inserting before subparagraph (B), as redesignated, the following new subparagraph:
-
-“(A) a specific selection term to be used as the basis for the production of the tangible things sought;”; and
-
-(D) by inserting after subparagraph (B), as redesignated, the following new subparagraph:
-
-“(C) in the case of an application for the production on an ongoing basis of call detail records created before, on, or after the date of the application relating to an authorized investigation (other than a threat assessment) conducted in accordance with subsection (a)(2) to protect against international terrorism, a statement of facts showing that—
-
-“(i) there are reasonable grounds to believe that the call detail records sought to be produced based on the specific selection term required under subparagraph (A) are relevant to such investigation; and
-
-“(ii) there is a reasonable, articulable suspicion that such specific selection term is associated with a foreign power engaged in international terrorism or activities in preparation therefor, or an agent of a foreign power engaged in international terrorism or activities in preparation therefor; and”.
-
-(2) Subsection (c) is amended—
-
-(A) in paragraph (2)—
-
-(i) in subparagraph (A), by striking the semicolon and inserting “, including each specific selection term to be used as the basis for the production;”;
-
-(ii) in subparagraph (D), by striking “; and” and inserting a semicolon;
-
-(iii) in subparagraph (E), by striking the period and inserting “; and”; and
-
-(iv) by adding at the end the following new subparagraph:
-
-“(F) in the case of an application described in subsection (b)(2)(C), shall—
-
-“(i) authorize the production on a daily basis of call detail records for a period not to exceed 180 days;
-
-“(ii) provide that an order for such production may be extended upon application under subsection (b) and the judicial finding under paragraph (1) of this subsection;
-
-“(iii) provide that the Government may require the prompt production of a first set of call detail records using the specific selection term that satisfies the standard required under subsection (b)(2)(C)(ii);
-
-“(iv) provide that the Government may require the prompt production of a second set of call detail records using session-identifying information or a telephone calling card number identified by the specific selection term used to produce call detail records under clause (iii);
-
-“(v) provide that, when produced, such records be in a form that will be useful to the Government;
-
-“(vi) direct each person the Government directs to produce call detail records under the order to furnish the Government forthwith all information, facilities, or technical assistance necessary to accomplish the production in such a manner as will protect the secrecy of the production and produce a minimum of interference with the services that such person is providing to each subject of the production; and
-
-“(vii) direct the Government to—
-
-“(I) adopt minimization procedures that require the prompt destruction of all call detail records produced under the order that the Government determines are not foreign intelligence information; and
-
-“(II) destroy all call detail records produced under the order as prescribed by such procedures.”; and
-
-(B) by adding at the end the following new paragraph:
-
-“(3) No order issued under this subsection may authorize the collection of tangible things without the use of a specific selection term that meets the requirements of subsection (b)(2).”
-
-(3) Subsection (d) is amended—
-
-(A) in paragraph (1)—
-
-(i) in the matter preceding subparagraph (A), by striking “pursuant to an order” and inserting “pursuant to an order issued or an emergency production required”;
-
-(ii) in subparagraph (A), by striking “such order” and inserting “such order or such emergency production”; and
-
-(iii) in subparagraph (B), by striking “the order” and inserting “the order or the emergency production”; and
-
-(B) in paragraph (2)—
-
-(i) in subparagraph (A), by striking “an order” and inserting “an order or emergency production”; and
-
-(ii) in subparagraph (B), by striking “an order” and inserting “an order or emergency production”.
-
-(4) The following new subsection is added at the end:
-
-“(i) Emergency authority for production of tangible things
-
-“(1) Notwithstanding any other provision of this section, the Attorney General may require the emergency production of tangible things if the Attorney General—
-
-“(A) reasonably determines that an emergency situation requires the production of tangible things before an order authorizing such production can with due diligence be obtained;
-
-“(B) reasonably determines that the factual basis for the issuance of an order under this section to approve such production of tangible things exists;
-
-“(C) informs, either personally or through a designee, a judge having jurisdiction under this section at the time the Attorney General requires the emergency production of tangible things that the decision has been made to employ the authority under this subsection; and
-
-“(D) makes an application in accordance with this section to a judge having jurisdiction under this section as soon as practicable, but not later than 7 days after the Attorney General requires the emergency production of tangible things under this subsection.
-
-“(2) If the Attorney General requires the emergency production of tangible things under paragraph (1), the Attorney General shall require that the minimization procedures required by this section for the issuance of a judicial order be followed.
-
-“(3) In the absence of a judicial order approving the production of tangible things under this subsection, the production shall terminate when the information sought is obtained, when the application for the order is denied, or after the expiration of 7 days from the time the Attorney General begins requiring the emergency production of such tangible things, whichever is earliest.
-
-“(4) A denial of the application made under this subsection may be reviewed as provided in [section 1803 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1803).
-
-“(5) If such application for approval is denied, or in any other case where the production of tangible things is terminated and no order is issued approving the production, no information obtained or evidence derived from such production shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or a political subdivision thereof, and no information concerning any United States person acquired from such production shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
-
-“(6) The Attorney General shall assess compliance with the requirements of paragraph (5).”
-
-See 2015 Amendment notes below.
-
 Pub. L. 109–177, title I, § 102(b), Mar. 9, 2006, 120 Stat. 195, as amended by Pub. L. 111–118, div. B, § 1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, § 1(a), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, § 2(a), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, § 2(a), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title VII, § 705(a), (c), June 2, 2015, 129 Stat. 300, provided that, effective Dec. 15, 2019, with certain exceptions, this section is amended to read as it read on Oct. 25, 2001:
 
 § 1861. Definitions
@@ -2175,7 +2125,7 @@ See 2006, 2009, 2010, 2011, and 2015 Amendment notes below.
 #### References in Text
 Executive Order No. 12333, referred to in subsec. (a)(2)(A), is set out as a note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
 
-The USA FREEDOM Act of 2015, referred to in subsecs. (e)(1)(B) and (j)(2), also known as the Uniting and Strengthening America by Fulfilling Rights and Ensuring Effective Discipline Over Monitoring Act of 2015, is Pub. L. 114–23, June 2, 2015, 129 Stat. 268. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801) and Tables.
+The USA FREEDOM Act of 2015, referred to in subsecs. (e)(1)(B) and (j)(2), also known as the Uniting and Strengthening America by Fulfilling Rights and Ensuring Effective Discipline Over Monitoring Act of 2015, is Pub. L. 114–23, June 2, 2015, 129 Stat. 268. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 1801 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1801) and Tables.
 
 #### Codification
 Pursuant to Pub. L. 109–177, § 102(b)(1), as amended by Pub. L. 112–14, this section was amended, effective June 1, 2015, to read as it read on Oct. 25, 2001. The amendments made by Pub. L. 114–23, which was enacted June 2, 2015, were directed to this section as it read prior to such reversion and were executed as if the reversion had not taken place, to reflect the probable intent of Congress and the extension of the provisions of this section to Dec. 15, 2019, by Pub. L. 114–23, § 705(a), (c). See 2015 Amendment notes below.
@@ -2216,7 +2166,7 @@ Subsec. (d)(2)(A). Pub. L. 114–23, § 102(b)(2)(A), substituted “an order or
 
 Subsec. (d)(2)(B). Pub. L. 114–23, § 102(b)(2)(B), substituted “an order or emergency production” for “an order”.
 
-Subsec. (e). Pub. L. 114–23, § 105, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “A person who, in good faith, produces tangible things under an order pursuant to this section shall not be liable to any other person for such production. Such production shall not be deemed to constitute a waiver of any privilege in any other proceeding or context.”
+Subsec. (e). Pub. L. 114–23, § 105, amended subsec. (e) generally. Prior to amendment, text read as follows: “A person who, in good faith, produces tangible things under an order pursuant to this section shall not be liable to any other person for such production. Such production shall not be deemed to constitute a waiver of any privilege in any other proceeding or context.”
 
 Subsec. (f)(2)(A)(i). Pub. L. 114–23, § 104(b)(1), substituted “the production order or any nondisclosure order imposed in connection with the production order” for “that order” and struck out at end “Not less than 1 year after the date of the issuance of the production order, the recipient of a production order may challenge the nondisclosure order imposed in connection with such production order by filing a petition to modify or set aside such nondisclosure order, consistent with the requirements of subparagraph (C), with the pool established by [section 1803(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803/e/1&num=0&edition=prelim).”
 
@@ -2246,13 +2196,13 @@ Subsec. (a)(1). Pub. L. 109–177, § 106(a)(1), substituted “Subject to parag
 
 Subsec. (a)(3). Pub. L. 109–177, § 106(a)(2), added par. (3).
 
-Subsec. (b)(2). Pub. L. 109–177, § 106(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “shall specify that the records concerned are sought for an authorized investigation conducted in accordance with subsection (a)(2) of this section to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities.”
+Subsec. (b)(2). Pub. L. 109–177, § 106(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “shall specify that the records concerned are sought for an authorized investigation conducted in accordance with subsection (a)(2) to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities.”
 
 Subsec. (c). Pub. L. 109–177, § 106(c), (d), amended subsec. (c) generally. Prior to amendment, text read as follows:
 
 “(1) Upon an application made pursuant to this section, the judge shall enter an ex parte order as requested, or as modified, approving the release of records if the judge finds that the application meets the requirements of this section.
 
-“(2) An order under this subsection shall not disclose that it is issued for purposes of an investigation described in subsection (a) of this section.”
+“(2) An order under this subsection shall not disclose that it is issued for purposes of an investigation described in subsection (a).”
 
 Subsec. (d). Pub. L. 109–177, § 106(e), amended subsec. (d) generally. Prior to amendment, text read as follows: “No person shall disclose to any other person (other than those persons necessary to produce the tangible things under this section) that the Federal Bureau of Investigation has sought or obtained tangible things under this section.”
 
@@ -2272,7 +2222,7 @@ Pub. L. 114–23, title I, § 109(a), June 2, 2015, 129 Stat. 276, provided that
 #### Effective Date of 2006 Amendment
 Amendment by section 102(b)(1) of Pub. L. 109–177 effective Dec. 15, 2019, except that former provisions to continue in effect with respect to any particular foreign intelligence investigation that began before Dec. 15, 2019, or with respect to any particular offense or potential offense that began or occurred before Dec. 15, 2019, see section 102(b) of Pub. L. 109–177, set out as a note under [section 1805 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1805).
 
-#### Rule of Construction
+#### Construction of Pub. L. 114–23
 Pub. L. 114–23, title I, § 109(b), June 2, 2015, 129 Stat. 276, provided that: “Nothing in this Act [see Tables for classification] shall be construed to alter or eliminate the authority of the Government to obtain an order under title V of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1861](./chapter-036-foreign-intelligence-surveillance.md#section-1861) et seq.) as in effect prior to the effective date described in subsection (a) [see Effective Date of 2015 Amendment note above] during the period ending on such effective date.”
 
 Pub. L. 114–23, title I, § 110, June 2, 2015, 129 Stat. 276, provided that: “Nothing in this Act [see Tables for classification] shall be construed to authorize the production of the contents (as such term is defined in [section 2510(8) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2510/8&num=0&edition=prelim), United States Code) of any electronic communication from an electronic communication service provider (as such term is defined in section 701(b)(4) of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1881(b)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881/b/4&num=0&edition=prelim))) under title V of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1861](./chapter-036-foreign-intelligence-surveillance.md#section-1861) et seq.).”
@@ -2357,7 +2307,7 @@ Each application under this section—
 
 (1) Upon application made pursuant to this section, the judge shall enter an ex parte order as requested, or as modified, approving the release of records if the judge finds that the application satisfies the requirements of this section.
 
-(2) An order under this subsection shall not disclose that it is issued for purposes of an investigation described in subsection (a) of this section.
+(2) An order under this subsection shall not disclose that it is issued for purposes of an investigation described in subsection (a).
 
 (d) Compliance; nondisclosure
 
@@ -2415,6 +2365,8 @@ Amendment by section 102(b)(1) of Pub. L. 109–177 effective Dec. 15, 2019, exc
 
 ### Statutory Notes
 
+Section, Pub. L. 95–511, title V, § 503, as added Pub. L. 105–272, title VI, § 602, Oct. 20, 1998, 112 Stat. 2412, related to congressional oversight. See [section 1862 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1862).
+
 #### Revival of Section
 Pub. L. 109–177, title I, § 102(b), Mar. 9, 2006, 120 Stat. 195, as amended by Pub. L. 111–118, div. B, § 1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, § 1(a), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, § 2(a), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, § 2(a), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title VII, § 705(a), (c), June 2, 2015, 129 Stat. 300, provided that, effective Dec. 15, 2019, with certain exceptions, this section is amended to read as it read on Oct. 25, 2001: § 1863. Congressional oversight
 
@@ -2426,10 +2378,31 @@ Pub. L. 109–177, title I, § 102(b), Mar. 9, 2006, 120 Stat. 195, as amended b
 
 (2) the total number of such orders either granted, modified, or denied.
 
-Section, Pub. L. 95–511, title V, § 503, as added Pub. L. 105–272, title VI, § 602, Oct. 20, 1998, 112 Stat. 2412, related to congressional oversight. See [section 1862 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1862).
-
 #### Effective Date of Revival
 Revival of section by section 102(b)(1) of Pub. L. 109–177 effective Dec. 15, 2019, except that former provisions to continue in effect with respect to any particular foreign intelligence investigation that began before Dec. 15, 2019, or with respect to any particular offense or potential offense that began or occurred before Dec. 15, 2019, see section 102(b) of Pub. L. 109–177, set out as an Effective Date of 2006 Amendment note under [section 1805 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1805).
+
+
+<a id="section-1864"></a>
+## § 1864. Notification of changes to retention of call detail record policies
+**(a) Requirement to retain**
+
+(1) **In general** — Not later than 15 days after learning that an electronic communication service provider that generates call detail records in the ordinary course of business has changed the policy of the provider on the retention of such call detail records to result in a retention period of less than 18 months, the Director of National Intelligence shall notify, in writing, the congressional intelligence committees of such change.
+
+(2) **Report** — Not later than 30 days after December 18, 2015, the Director shall submit to the congressional intelligence committees a report identifying each electronic communication service provider that has, as of the date of the report, a policy to retain call detail records for a period of 18 months or less.
+
+**(b) Definitions** In this section:
+
+(1) **Call detail record** — The term “call detail record” has the meaning given that term in [section 1861(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1861/k&num=0&edition=prelim).
+
+(2) **Electronic communication service provider** — The term “electronic communication service provider” has the meaning given that term in [section 1881(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1881/b/4&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 2016, and also as part of the Consolidated Appropriations Act, 2016, and not as part of the Foreign Intelligence Surveillance Act of 1978 which comprises this chapter.
+
+#### Definitions
+For definition of “congressional intelligence committees” as used in this section, see section 2 of div. M of Pub. L. 114–113, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
 
 
 <a id="section-1871"></a>

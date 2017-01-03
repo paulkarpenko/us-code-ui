@@ -101,7 +101,7 @@ The Federal Non-Nuclear Research and Development Act of 1974, referred to in tex
 
 (5) describe the technology transfer mechanisms the applicant will use to make available research results to industry and to other researchers.
 
-**(c) Content of management plan** The management plan set forth in subsection (b)(3) of this section shall—
+**(c) Content of management plan** The management plan set forth in subsection (b)(3) shall—
 
 (1) outline the basic research and development activities expected to be performed;
 
@@ -145,7 +145,7 @@ The Federal Non-Nuclear Research and Development Act of 1974, referred to in tex
 
 **(e) Funding of program** From amounts made available in separate appropriation Acts, the Secretary shall provide to each applicant selected the financial and technical assistance and other incentives that are necessary and appropriate to carry out the purposes of this chapter.
 
-**(f) National Metal Casting Research Institute** Each recipient of financial assistance under subsection (d) of this section shall be known as a “National Metal Casting Research Institute”.
+**(f) National Metal Casting Research Institute** Each recipient of financial assistance under subsection (d) shall be known as a “National Metal Casting Research Institute”.
 
 
 <a id="section-5305"></a>

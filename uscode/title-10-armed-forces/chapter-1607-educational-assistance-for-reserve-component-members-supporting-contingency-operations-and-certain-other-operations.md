@@ -4,7 +4,7 @@ chapter: '1607'
 heading: >-
   EDUCATIONAL ASSISTANCE FOR RESERVE COMPONENT MEMBERS SUPPORTING CONTINGENCY
   OPERATIONS AND CERTAIN OTHER OPERATIONS
-section_count: 8
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -364,3 +364,15 @@ Amendment by Pub. L. 110–181 effective as of Oct. 28, 2004, as if included in 
 (3) the flight school courses meet Federal Aviation Administration standards for such courses and are approved by the Federal Aviation Administration and the State approving agency.
 
 **(d) Trust Fund.—** Amounts for payments for benefits under this chapter shall be derived from the Department of Defense Education Benefits Fund under [section 2006 of this title](./chapter-101-training-generally.md#section-2006).
+
+
+<a id="section-16167"></a>
+## § 16167. Sunset
+**(a) Sunset.—** The authority to provide educational assistance under this chapter shall terminate on the date that is four years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016.
+
+**(b) Limitation on Provision of Assistance Pending Sunset.—** Notwithstanding any other provision of this chapter, during the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016 and ending on the date that is four years after the date of the enactment of that Act, educational assistance may be provided under this chapter only to a member otherwise eligible for educational assistance under this chapter who received educational assistance under this chapter for a course of study at an educational institution for the enrollment period at the educational institution that immediately preceded the date of the enactment of that Act.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2016, referred to in text, is the date of enactment of Pub. L. 114–92, which was approved Nov. 25, 2015.

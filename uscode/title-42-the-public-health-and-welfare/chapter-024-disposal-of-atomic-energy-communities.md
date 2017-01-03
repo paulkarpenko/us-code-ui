@@ -159,7 +159,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 <a id="section-2307"></a>
 ## § 2307. Form and contents of contracts, mortgages, and other instruments
 
-Contracts entered into pursuant to this chapter and other instruments executed pursuant to this chapter shall be in such form and contain such provisions, consistent with this chapter, as the Commission shall prescribe; and shall be as simple and concise as possible. Any mortgage shall contain terms which will place the United States in the same position, with respect to any mortgages it may hold under the provisions of subchapter V of this chapter, as that occupied by a private lender under the applicable State laws for the relief of mortgagors with respect to deficiency judgments.
+Contracts entered into pursuant to this chapter and other instruments executed pursuant to this chapter shall be in such form and contain such provisions, consistent with this chapter, as the Commission shall prescribe; and shall be as simple and concise as possible. Any mortgage shall contain terms which will place the United States in the same position, with respect to any mortgages it may hold under the provisions of subchapter V, as that occupied by a private lender under the applicable State laws for the relief of mortgagors with respect to deficiency judgments.
 
 ### Statutory Notes
 
@@ -443,7 +443,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 (1) structures which in the opinion of the Commission should be removed from the community because of their unsatisfactory type of construction, condition, or location; or
 
-(2) property which in the opinion of the Commission should be transferred pursuant to subchapters VI or VII of this chapter; or
+(2) property which in the opinion of the Commission should be transferred pursuant to subchapters VI or VII; or
 
 (3) property which in the opinion of the Commission should be retained by the Commission for its own use.
 

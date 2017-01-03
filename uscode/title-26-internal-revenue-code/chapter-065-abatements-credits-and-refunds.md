@@ -268,12 +268,16 @@ Amendment by Pub. L. 89–44 applicable to taxable years beginning on or after J
 
 **(l) Explanation of reason for refund disallowance** In the case of a disallowance of a claim for refund, the Secretary shall provide the taxpayer with an explanation for such disallowance.
 
+**(m) Earliest date for certain refunds** No credit or refund of an overpayment for a taxable year shall be made to a taxpayer before the 15th day of the second month following the close of such taxable year if a credit is allowed to such taxpayer under section 24 (by reason of subsection (d) thereof) or 32 for such taxable year.
+
 ### Statutory Notes
 
 #### References in Text
 The Social Security Act, referred to in subsecs. (c), (d)(2), (3)(D), and (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 204, 464, and 471(a)(17) of the Act are classified to sections 404, 664, and 671(a)(17) of Title 42. Section 402 of the Act, which was classified to [section 602 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section602&num=0&edition=prelim), was repealed and a new section 402 enacted by Pub. L. 104–193, title I, § 103(a)(1), Aug. 22, 1996, 110 Stat. 2112. As so enacted section 402 does not contain a subsec. (a)(26). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (m). Pub. L. 114–113 added subsec. (m).
+
 2010—Subsec. (f). Pub. L. 111–291, § 801(a)(1), struck out “resulting from fraud” after “debts” in heading.
 
 Subsec. (f)(3). Pub. L. 111–291, § 801(a)(2), redesignated par. (4) as (3) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows: “Paragraph (1) shall apply to an overpayment by any person for a taxable year only if the address shown on the Federal return for such taxable year of the overpayment is an address within the State seeking the offset.”
@@ -371,6 +375,9 @@ Subsec. (h). Pub. L. 98–378, § 21(e)(2), redesignated former subsec. (g) as (
 Subsec. (c). Pub. L. 97–35, § 2331(c)(2), added subsec. (c).
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–113 applicable to credits or refunds made after Dec. 31, 2016, see section 201(d) of Pub. L. 114–113, set out as a note under [section 6071 of this title](./chapter-061-information-and-returns.md#section-6071).
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–312, title V, § 503(b), Dec. 17, 2010, 124 Stat. 3308, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in section 801 of the Claims Resolution Act of 2010 [Pub. L. 111–291].”
@@ -501,9 +508,17 @@ In the case of a tax payable in installments, if the taxpayer has paid as an ins
 
   (B) ending on the date which is 21 days after the date on which notice described in paragraph (1)(A) is provided by the Secretary.
 
-**(h) Review of denial of request for abatement of interest**
+**(h) Judicial review of request for abatement of interest**
 
-(1) **In general** — The Tax Court shall have jurisdiction over any action brought by a taxpayer who meets the requirements referred to in section 7430(c)(4)(A)(ii) to determine whether the Secretary’s failure to abate interest under this section was an abuse of discretion, and may order an abatement, if such action is brought within 180 days after the date of the mailing of the Secretary’s final determination not to abate such interest.
+(1) **In general** — The Tax Court shall have jurisdiction over any action brought by a taxpayer who meets the requirements referred to in section 7430(c)(4)(A)(ii) to determine whether the Secretary’s failure to abate interest under this section was an abuse of discretion, and may order an abatement, if such action is brought—
+
+  (A) at any time after the earlier of—
+
+    (i) the date of the mailing of the Secretary’s final determination not to abate such interest, or
+
+    (ii) the date which is 180 days after the date of the filing with the Secretary (in such form as the Secretary may prescribe) of a claim for abatement under this section, and
+
+  (B) not later than the date which is 180 days after the date described in subparagraph (A)(i).
 
 (2) **Special rules**
 
@@ -521,6 +536,10 @@ In the case of a tax payable in installments, if the taxpayer has paid as an ins
 Section 6664(d)(2)(A), referred to in subsec. (g)(2)(E), was redesignated as section 6664(d)(3)(A) by Pub. L. 111–152, title I, § 1409(c)(2)(A), Mar. 30, 2010, 124 Stat. 1069.
 
 #### Amendments
+2015—Subsec. (h). Pub. L. 114–113, § 421(a)(1), substituted “Judicial review” for “Review of denial” in heading.
+
+Subsec. (h)(1). Pub. L. 114–113, § 421(a)(2), substituted “if such action is brought—” and subpars. (A) and (B) for “if such action is brought within 180 days after the date of the mailing of the Secretary’s final determination not to abate such interest.”
+
 2014—Subsec. (f)(3). Pub. L. 113–295 struck out par. (3). Text read as follows: “Within 180 days after the date of the enactment of this subsection, the Secretary shall prescribe such initial regulations as may be necessary to carry out this subsection.”
 
 2007—Subsec. (g)(1)(A), (3)(A). Pub. L. 110–28 substituted “36-month period” for “18-month period”.
@@ -570,6 +589,9 @@ Subsec. (f). Pub. L. 100–647, § 6229(a), added subsec. (f).
 1976—Subsecs. (a), (c). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (d). Pub. L. 94–455, § 1212(a), added subsec. (d).
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title IV, § 421(b), Dec. 18, 2015, 129 Stat. 3123, provided that: “The amendments made by this section [amending this section] shall apply to claims for abatement of interest filed with the Secretary of the Treasury after the date of the enactment of this Act [Dec. 18, 2015].”
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -913,7 +935,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 ## § 6412. Floor stocks refunds
 **(a) In general**
 
-(1) **Tires and taxable fuel** — Where before October 1, 2016, any article subject to the tax imposed by section 4071 or 4081 has been sold by the manufacturer, producer, or importer and on such date is held by a dealer and has not been used and is intended for sale, there shall be credited or refunded (without interest) to the manufacturer, producer, or importer an amount equal to the difference between the tax paid by such manufacturer, producer, or importer on his sale of the article and the amount of tax made applicable to such article on and after October 1, 2016, if claim for such credit or refund is filed with the Secretary on or before March 31, 2017, based upon a request submitted to the manufacturer, producer, or importer before January 1, 2017, by the dealer who held the article in respect of which the credit or refund is claimed, and, on or before March 31, 2017, reimbursement has been made to such dealer by such manufacturer, producer, or importer for the tax reduction on such article or written consent has been obtained from such dealer to allowance of such credit or refund. No credit or refund shall be allowable under this paragraph with respect to taxable fuel in retail stocks held at the place where intended to be sold at retail, nor with respect to taxable fuel held for sale by a producer or importer of taxable fuel.
+(1) **Tires and taxable fuel** — Where before October 1, 2022, any article subject to the tax imposed by section 4071 or 4081 has been sold by the manufacturer, producer, or importer and on such date is held by a dealer and has not been used and is intended for sale, there shall be credited or refunded (without interest) to the manufacturer, producer, or importer an amount equal to the difference between the tax paid by such manufacturer, producer, or importer on his sale of the article and the amount of tax made applicable to such article on and after October 1, 2022, if claim for such credit or refund is filed with the Secretary on or before March 31, 2023, based upon a request submitted to the manufacturer, producer, or importer before January 1, 2023, by the dealer who held the article in respect of which the credit or refund is claimed, and, on or before March 31, 2023, reimbursement has been made to such dealer by such manufacturer, producer, or importer for the tax reduction on such article or written consent has been obtained from such dealer to allowance of such credit or refund. No credit or refund shall be allowable under this paragraph with respect to taxable fuel in retail stocks held at the place where intended to be sold at retail, nor with respect to taxable fuel held for sale by a producer or importer of taxable fuel.
 
 (2) **Definitions** — For purposes of this section—
 
@@ -928,6 +950,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–94 substituted “October 1, 2022” for “October 1, 2016” in two places and “March 31, 2023” for “March 31, 2017” in two places and substituted “January 1, 2023” for “January 1, 2017”.
+
 2012—Subsec. (a)(1). Pub. L. 112–141 substituted in two places “October 1, 2016” for “July 1, 2012” and “March 31, 2017” for “December 31, 2012” and substituted “January 1, 2017” for “October 1, 2012”.
 
 Pub. L. 112–140, §§ 1(c), 402(b), temporarily substituted in two places “July 7, 2012” for “July 1, 2012” and “January 6, 2013” for “December 31, 2012” and temporarily substituted “October 7, 2012” for “October 1, 2012”. See Effective and Termination Dates of 2012 Amendment note below.
@@ -1031,6 +1055,9 @@ Subsec. (c). Act June 29, 1956, included taxes imposed by [section 4071 of this 
 Subsec. (d). Act May 29, 1956, substituted “1961” for “1957”.
 
 1955—Subsecs. (a), (b). Act Mar. 30, 1955, substituted “April 1, 1956” for “April 1, 1955” and “July 1, 1956” for “July 1, 1955” wherever appearing.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective and Termination Dates of 2012 Amendment
 Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
@@ -2534,7 +2561,7 @@ Amendment by act July 25, 1956, applicable to amounts paid on or after first day
 
 (6) For abatement, credit, or refund in case of jeopardy assessments, see chapter 70.
 
-(7) For treatment of certain overpayments as having been refunded, in connection with sale of surplus war-built vessels, see section 9(b)(8) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742).
+(7) For treatment of certain overpayments as having been refunded, in connection with sale of surplus war-built vessels, see section 9(b)(8) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742).11 See References in Text note below.
 
 (8) For restrictions on transfers and assignments of claims against the United States, see [section 3727 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3727&num=0&edition=prelim), United States Code.
 
@@ -2542,16 +2569,21 @@ Amendment by act July 25, 1956, applicable to amounts paid on or after first day
 
 (10) For special provisions relating to alcohol and tobacco taxes, see subtitle E.
 
-(11) for 11 So in original. Probably should be capitalized. credit or refund in case of deficiency dividends paid by a regulated investment company or real estate investment trust, see section 860.
+(11) for 22 So in original. Probably should be capitalized. credit or refund in case of deficiency dividends paid by a regulated investment company or real estate investment trust, see section 860.
 
 (12) For special rules in the case of a credit or refund attributable to partnership items, see section 6227 and subsections (c) and (d) of section 6230.
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 114–74, title XI, § 1101(f)(2), (g), Nov. 2, 2015, 129 Stat. 637, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is amended by striking paragraph (12). See 2015 Amendment note below.
+
 #### References in Text
-Section 9 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742), referred to in par. (7), was repealed by Pub. L. 94–412, title V, § 501(g), Sept. 14, 1976, 90 Stat. 1258.
+Section 9 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742), referred to in par. (7), is section 9 of act Mar. 8, 1946, ch. 82, 60 Stat. 46, which was repealed by Pub. L. 94–412, title V, § 501(g), Sept. 14, 1976, 90 Stat. 1258.
 
 #### Amendments
+2015—Par. (12). Pub. L. 114–74 struck out par. (12) which read as follows: “For special rules in the case of a credit or refund attributable to partnership items, see section 6227 and subsections (c) and (d) of section 6230.”
+
 1997—Pars. (5) to (13). Pub. L. 105–34 struck out par. (5) and redesignated pars. (6) to (13) as (5) to (12), respectively. Prior to amendment, par. (5) read as follows: “For abatement or refund of tax on transfers to avoid income tax, see section 1494(b).”
 
 1990—Pub. L. 101–508 struck out par. (6) and redesignated the succeeding pars. accordingly, which was executed with respect to the succeeding pars. (consisting of pars. (7) to (12), (14), and (15)) by redesignating such pars. as (6) to (13), respectively. Prior to amendment, par. (6) provided a cross reference to [section 1481 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1481&num=0&edition=prelim) for overpayment in certain renegotiations of war contracts.
@@ -2581,6 +2613,9 @@ Par. (14). Pub. L. 94–455, § 1601(f)(1), added par. (14).
 1963—Pars. (7) to (14). Pub. L. 88–36 redesignated pars. (8) to (14) as (7) to (13), respectively. Former par. (7), which was cross reference provision for abatement or refund in case of tax on silver bullion to section 4894, was struck out.
 
 1958—Pub. L. 85–859 substituted “subtitle E” for “sections 5011, 5044, 5057, 5063, 5705, and 5707” in par. (14).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 1982 Amendment
 Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for applicability of amendment to any partnership taxable year ending after Sept. 3, 1982, if partnership, each partner, and each indirect partner requests such application and Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
@@ -2674,7 +2709,7 @@ Repeal applicable with respect to articles sold after Jan. 6, 1983, see section 
 ## § 6425. Adjustment of overpayment of estimated income tax by corporation
 **(a) Application of adjustment**
 
-(1) **Time for filing** — A corporation may, after the close of the taxable year and on or before the 15th day of the third month thereafter, and before the day on which it files a return for such taxable year, file an application for an adjustment of an overpayment by it of estimated income tax for such taxable year. An application under this subsection shall not constitute a claim for credit or refund.
+(1) **Time for filing** — A corporation may, after the close of the taxable year and on or before the 15th day of the fourth month thereafter, and before the day on which it files a return for such taxable year, file an application for an adjustment of an overpayment by it of estimated income tax for such taxable year. An application under this subsection shall not constitute a claim for credit or refund.
 
 (2) **Form of application, etc.** — An application under this subsection shall be verified in the manner prescribed by section 6065 in the case of a return of the taxpayer, and shall be filed in the manner and form required by regulations prescribed by the Secretary. The application shall set forth—
 
@@ -2719,6 +2754,8 @@ Repeal applicable with respect to articles sold after Jan. 6, 1983, see section 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–41 substituted “fourth month” for “third month”.
+
 2014—Subsec. (c)(1)(A). Pub. L. 113–295 inserted “plus” at end of cl. (i), substituted “over” for “plus” at end of cl. (ii), and struck out cl. (iii) which read as follows: “the tax imposed by section 59A, over”.
 
 1987—Subsec. (c). Pub. L. 100–203 substituted “section 6655(h)” for “section 6655(g)”.
@@ -2728,6 +2765,9 @@ Repeal applicable with respect to articles sold after Jan. 6, 1983, see section 
 Pub. L. 99–499 amended subsec. (c)(1)(A), as amended by the Tax Reform Act of 1986 (Pub. L. 99–514), by striking out “plus” at end of cl. (i), substituting “plus” for “over” at end of cl. (ii), and adding cl. (iii).
 
 1976—Subsecs. (a), (b), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–41 applicable to returns for taxable years beginning after Dec. 31, 2015, with special rule for certain C corporations, see section 2006(a)(3) of Pub. L. 114–41, set out as a note under [section 170 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-170).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -2810,7 +2850,7 @@ No credit shall be allowed in the case of the credits described in subsections (
 
 (5) **Other definitions** — Any term used in this subsection which is also used in section 40A shall have the meaning given such term by section 40A.
 
-(6) **Termination** — This subsection shall not apply to any sale, use, or removal for any period after December 31, 2014.
+(6) **Termination** — This subsection shall not apply to any sale, use, or removal for any period after December 31, 2016.
 
 **(d) Alternative fuel credit**
 
@@ -2845,7 +2885,7 @@ No credit shall be allowed in the case of the credits described in subsections (
 
     (ii) 75 percent in the case of fuel produced after December 30, 2009.
 
-(5) **Termination** — This subsection shall not apply to any sale or use for any period after December 31, 2014.
+(5) **Termination** — This subsection shall not apply to any sale or use for any period after December 31, 2016.
 
 **(e) Alternative fuel mixture credit**
 
@@ -2857,7 +2897,7 @@ No credit shall be allowed in the case of the credits described in subsections (
 
   (B) is used as a fuel by the taxpayer producing such mixture.
 
-(3) **Termination** — This subsection shall not apply to any sale or use for any period after December 31, 2014.
+(3) **Termination** — This subsection shall not apply to any sale or use for any period after December 31, 2016.
 
 **(f) Mixture not used as a fuel, etc.**
 
@@ -2885,6 +2925,12 @@ No credit shall be allowed in the case of the credits described in subsections (
 (2) **Biodiesel and alternative fuels** — No credit shall be determined under this section with respect to any biodiesel or alternative fuel which is produced outside the United States for use as a fuel outside the United States.
 For purposes of this subsection, the term “United States” includes any possession of the United States.
 
+**(j) Energy equivalency determinations for liquefied petroleum gas and liquefied natural gas** For purposes of determining any credit under this section, any reference to the number of gallons of an alternative fuel or the gasoline gallon equivalent of such a fuel shall be treated as a reference to—
+
+(1) in the case of liquefied petroleum gas, the energy equivalent of a gallon of gasoline, as defined in section 4041(a)(2)(C), and
+
+(2) in the case of liquefied natural gas, the energy equivalent of a gallon of diesel, as defined in section 4041(a)(2)(D).
+
 ### Statutory Notes
 
 #### Codification
@@ -2894,6 +2940,12 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 6426, added Pub. L. 91–258, title II, § 206(c), May 21, 1970, 84 Stat. 245; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, provided for a refund of aircraft use tax where plane transports for hire in foreign air commerce, prior to repeal by Pub. L. 97–248, title II, § 280(c)(2)(G), (d), Sept. 3, 1982, 96 Stat. 564, 565, applicable with respect to transportation beginning after Aug. 31, 1982.
 
 #### Amendments
+2015—Subsec. (c)(6). Pub. L. 114–113, § 185(b)(1), substituted “December 31, 2016” for “December 31, 2014”.
+
+Subsecs. (d)(5), (e)(3). Pub. L. 114–113, § 192(a)(1), substituted “December 31, 2016” for “December 31, 2014”.
+
+Subsec. (j). Pub. L. 114–113, § 342(a), added subsec. (j).
+
 2014—Subsec. (c)(6). Pub. L. 113–295, § 160(a)(1), substituted “December 31, 2014” for “December 31, 2013”.
 
 Subsecs. (d)(5), (e)(3). Pub. L. 113–295, § 160(c)(1), which directed striking out “(September 30, 2014 in the case of any sale or use involving liquefied hydrogen)”, was executed by striking out “(September 30, 2014, in the case of any sale or use involving liquefied hydrogen)” before period at end, to reflect the probable intent of Congress.
@@ -2964,6 +3016,13 @@ Subsec. (d)(2)(F). Pub. L. 109–59, § 11151(e)(2), substituted “section 45K(
 
 Subsecs. (e) to (g). Pub. L. 109–59, § 11113(b)(2), added subsec. (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
 
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title I, § 185(b)(3), Dec. 18, 2015, 129 Stat. 3073, provided that: “The amendments made by this subsection [amending this section and [section 6427 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6427)] shall apply to fuel sold or used after December 31, 2014.”
+
+Pub. L. 114–113, div. Q, title I, § 192(b), Dec. 18, 2015, 129 Stat. 3075, provided that: “The amendments made by this section [amending this section and [section 6427 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6427)] shall apply to fuel sold or used after December 31, 2014.”
+
+Pub. L. 114–113, div. Q, title III, § 342(b), Dec. 18, 2015, 129 Stat. 3114, provided that: “The amendments made by this section [amending this section] shall apply to fuel sold or used after December 31, 2015.”
+
 #### Effective Date of 2014 Amendment
 Pub. L. 113–295, div. A, title I, § 160(d), Dec. 19, 2014, 128 Stat. 4022, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section and [section 6427 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6427)] shall apply to fuel sold or used after December 31, 2013. “(2) Liquefied hydrogen.—The amendments made by subsection (c) [amending this section and [section 6427 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6427)] shall apply to fuel sold or used after September 30, 2014.”
 
@@ -3002,6 +3061,11 @@ Amendment by section 11151(e)(2) of Pub. L. 109–59 effective as if included in
 
 #### Effective Date
 Section applicable to fuel sold or used after Dec. 31, 2004, see section 301(d)(1) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under [section 40 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-40).
+
+#### Special Rules for 2015
+Pub. L. 114–113, div. Q, title I, § 185(b)(4), Dec. 18, 2015, 129 Stat. 3073, provided that: “Notwithstanding any other provision of law, in the case of any biodiesel mixture credit properly determined under section 6426(c) of the Internal Revenue Code of 1986 for the period beginning on January 1, 2015, and ending on December 31, 2015, such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary’s delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act [Dec. 18, 2015] providing for a one-time submission of claims covering periods described in the preceding sentence. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code.”
+
+Pub. L. 114–113, div. Q, title I, § 192(c), Dec. 18, 2015, 129 Stat. 3075, provided that: “Notwithstanding any other provision of law, in the case of any alternative fuel credit properly determined under section 6426(d) of the Internal Revenue Code of 1986 for the period beginning on January 1, 2015, and ending on December 31, 2015, such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary’s delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act [Dec. 18, 2015] providing for a one-time submission of claims covering periods described in the preceding sentence. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code.”
 
 #### Special Rule for Certain Periods During 2014
 Pub. L. 113–295, div. A, title I, § 160(e), Dec. 19, 2014, 128 Stat. 4023, provided that: “Notwithstanding any other provision of law, in the case of—“(1) any biodiesel mixture credit properly determined under section 6426(c) of the Internal Revenue Code of 1986 for periods after December 31, 2013, and before the date of the enactment of this Act [Dec. 19, 2014], and “(2) any alternative fuel credit properly determined under section 6426(d) of such Code for such periods, such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary’s delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act [Dec. 19, 2014] providing for a one-time submission of claims covering periods described in the preceding sentence. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code.”
@@ -3081,9 +3145,9 @@ is used by an aircraft museum (as defined in section 4041(h)(2)) in an aircraft 
 
   (A) any alcohol fuel mixture (as defined in section 6426(b)(3)) sold or used after December 31, 2011,
 
-  (B) any biodiesel mixture (as defined in section 6426(c)(3)) sold or used after December 31, 2014,
+  (B) any biodiesel mixture (as defined in section 6426(c)(3)) sold or used after December 31, 2016,
 
-  (C) any alternative fuel (as defined in section 6426(d)(2)) sold or used after December 31, 2014, and
+  (C) any alternative fuel (as defined in section 6426(d)(2)) sold or used after December 31, 2016, and
 
   (D) any alternative fuel mixture (as defined in section 6426(e)(2)) sold or used after December 31, 2011.
 
@@ -3249,6 +3313,10 @@ Section 4081(c), referred to in subsec. (f)(1), was repealed by Pub. L. 108–35
 Section 4091, referred to in subsec. (f)(1), (2)(A)(ii), (B)(ii), was repealed by Pub. L. 108–357, title VIII, § 853(d)(1), Oct. 22, 2004, 118 Stat. 1612.
 
 #### Amendments
+2015—Subsec. (e)(6)(B). Pub. L. 114–113, § 185(b)(2), substituted “December 31, 2016” for “December 31, 2014”.
+
+Subsec. (e)(6)(C). Pub. L. 114–113, § 192(a)(2), substituted “December 31, 2016” for “December 31, 2014”.
+
 2014—Subsec. (e)(6)(B). Pub. L. 113–295, § 160(a)(2), substituted “December 31, 2014” for “December 31, 2013”.
 
 Subsec. (e)(6)(C). Pub. L. 113–295, § 160(c)(2)(A), (B), substituted “any” for “except as provided in subparagraph (D), any” and inserted “and” at end.
@@ -3892,6 +3960,11 @@ Subsec. (g). Pub. L. 94–530, § 1(b), (c)(5), redesignated former subsec. (f) 
 Subsecs. (h), (i). Pub. L. 94–530, § 1(b), redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
 Subsec. (h). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 2015 Amendment
+Amendment by section 185(b)(2) of Pub. L. 114–113 applicable to fuel sold or used after Dec. 31, 2014, see section 185(b)(3) of Pub. L. 114–113, set out as a note under [section 6426 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6426).
+
+Amendment by section 192(a)(2) of Pub. L. 114–113 applicable to fuel sold or used after Dec. 31, 2014, see section 192(b) of Pub. L. 114–113, set out as a note under [section 6426 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6426).
 
 #### Effective Date of 2014 Amendment
 Amendment by section 160(a)(2), (b)(2) of Pub. L. 113–295 applicable to fuel sold or used after Dec. 31, 2013, see section 160(d)(1) of Pub. L. 113–295, set out as a note under [section 6426 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6426).

@@ -2,14 +2,14 @@
 title: 46
 chapter: '575'
 heading: 'CONSTRUCTION, CHARTER, AND SALE OF VESSELS'
-section_count: 20
+section_count: 21
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
 <a id="section-57501"></a>
 ## § 57501. Completion of long-range program
 
-Whenever the Secretary of Transportation determines that the objectives and policies declared in sections 50101 and 50102 of this title cannot be fully realized within a reasonable time under titles V and VI of the Merchant Marine Act, 1936, and the President approves the determination, the Secretary, in accordance with this chapter, shall complete the long-range program described in [section 50102 of this title](./chapter-501-policy-studies-and-reports.md#section-50102).
+Whenever the Secretary of Transportation determines that the objectives and policies declared in sections 50101 and 50102 of this title cannot be fully realized within a reasonable time under title V of the Merchant Marine Act, 1936, and the President approves the determination, the Secretary, in accordance with this chapter, shall complete the long-range program described in [section 50102 of this title](./chapter-501-policy-studies-and-reports.md#section-50102).
 
 ### Statutory Notes
 
@@ -21,7 +21,10 @@ Whenever the Secretary of Transportation determines that the objectives and poli
 The words “find and”, “finding and”, “in whole or in part”, and “previously adopted” are omitted as unnecessary. The word “shall” is substituted for “is authorized and directed to” to eliminate unnecessary words.
 
 #### References in Text
-The Merchant Marine Act, 1936, referred to in text, is act June 29, 1936, ch. 858, 49 Stat. 1985. Titles V and VI of the Act enacted provisions set out as notes under [section 53101 of this title](./chapter-531-maritime-security-fleet.md#section-53101). For complete classification of this Act to the Code, see Short Title of 1936 Amendment note set out under [section 101 of this title](./chapter-001-definitions.md#section-101) and Tables.
+The Merchant Marine Act, 1936, referred to in text, is act June 29, 1936, ch. 858, 49 Stat. 1985. Title V of the Act enacted provisions set out as a note under [section 53101 of this title](./chapter-531-maritime-security-fleet.md#section-53101). For complete classification of this Act to the Code, see Short Title of 1936 Amendment note set out under [section 101 of this title](./chapter-001-definitions.md#section-101) and Tables.
+
+#### Amendments
+2016—Pub. L. 114–120 substituted “title V” for “titles V and VI”.
 
 
 <a id="section-57502"></a>
@@ -124,7 +127,7 @@ In subsection (b)(1), the words “in the manner provided in section 7 of the Me
 Subsection (d) is substituted for “less depreciation based on a twenty-five year life” because of section 9 of Public Law 86–518 (June 12, 1960, 74 Stat. 217), which provided that “Nothing in any amendment made by this Act [including section 1 substituting ‘twenty-five’ for ‘twenty’ in 46 App. U.S.C. 1195] shall operate or be interpreted to change from twenty to twenty-five years the provisions of the Merchant Marine Act, 1936, as amended, relating to the commercial expectancy or period of depreciation of any tanker or other liquid bulk carrier.”
 
 #### References in Text
-The Merchant Marine Act, 1936, referred to in subsec. (a), is act June 29, 1936, ch. 858, 49 Stat. 1985, which enacted provisions set out as notes under [section 53101 of this title](./chapter-531-maritime-security-fleet.md#section-53101). For complete classification of this Act to the Code, see Short Title of 1936 Amendment note set out under [section 101 of this title](./chapter-001-definitions.md#section-101) and Tables.
+The Merchant Marine Act, 1936, referred to in subsec. (a), is act June 29, 1936, ch. 858, 49 Stat. 1985, which was classified principally to chapter 27 (§ 1101 et seq.) of the former Appendix to this title. Most of the Act was repealed and restated mainly in this subtitle by Pub. L. 109–304, §§ 8, 19, Oct. 6, 2006, 120 Stat. 1555, 1710. Titles V and VI and sections 301, 801, 802, 809(a), and 909 of the Act were not repealed and are set out as notes under [section 53101 of this title](./chapter-531-maritime-security-fleet.md#section-53101). For complete classification of this Act to the Code, see Tables. For disposition of sections of the former Appendix to this title, see Disposition Table preceding [section 101 of this title](./chapter-001-definitions.md#section-101).
 
 
 <a id="section-57511"></a>
@@ -187,7 +190,7 @@ The Secretary of Transportation shall reject any bid for the charter under this 
 | 57513 | 46 App.:1196(b) (last sentence). | June 29, 1936, ch. 858, title VII, § 706(b) (last sentence), as added Aug. 4, 1939, ch. 417, § 11(b), 53 Stat. 1186; Pub. L. 97–31, § 12(108), Aug. 6, 1981, 95 Stat. 163. |
 
 #### References in Text
-The Merchant Marine Act, 1936, referred to in text, is act June 29, 1936, ch. 858, 49 Stat. 1985, which enacted provisions set out as notes under [section 53101 of this title](./chapter-531-maritime-security-fleet.md#section-53101). For complete classification of this Act to the Code, see Short Title of 1936 Amendment note set out under [section 101 of this title](./chapter-001-definitions.md#section-101) and Tables.
+The Merchant Marine Act, 1936, referred to in text, is act June 29, 1936, ch. 858, 49 Stat. 1985, which was classified principally to chapter 27 (§ 1101 et seq.) of the former Appendix to this title. Most of the Act was repealed and restated mainly in this subtitle by Pub. L. 109–304, §§ 8, 19, Oct. 6, 2006, 120 Stat. 1555, 1710. Titles V and VI and sections 301, 801, 802, 809(a), and 909 of the Act were not repealed and are set out as notes under [section 53101 of this title](./chapter-531-maritime-security-fleet.md#section-53101). For complete classification of this Act to the Code, see Tables. For disposition of sections of the former Appendix to this title, see Disposition Table preceding [section 101 of this title](./chapter-001-definitions.md#section-101).
 
 
 <a id="section-57514"></a>
@@ -315,9 +318,27 @@ A charter under this chapter shall provide that during a national emergency proc
 | 57521 | 46 App.:1202(d). | June 29, 1936, ch. 858, title VII, § 712(d), 49 Stat. 2010; Aug. 7, 1939, ch. 555, § 1, 53 Stat. 1254; Pub. L. 97–31, § 12(114), Aug. 6, 1981, 95 Stat. 163. |
 
 
+<a id="section-57522"></a>
+## § 57522. Books and records, balance sheets, and inspection and auditing
+
+Every contract executed by the Secretary of Transportation under this chapter shall contain provisions requiring (1) that, the contractor and every affiliate, domestic agent, subsidiary, or holding company connected with, or directly or indirectly controlling or controlled by, the contractor, to keep its books, records, and accounts, relating to the maintenance, operation, and servicing of the vessels, services, routes, and lines covered by the contract, in such form and under such regulations as may be prescribed by the Secretary of Transportation; (2) that the contractor and every affiliate, domestic agent, subsidiary, or holding company connected with, or directly or indirectly controlling or controlled by, the contractor, to file, upon notice from the Secretary of Transportation, balance sheets, profit and loss statements, and such other statements of financial operations, special report, memoranda of any facts and transactions, which in the opinion of the Secretary of Transportation affect the financial results in, the performance of, or transactions or operations under, such contract; (3) that the Secretary of Transportation shall be authorized to examine and audit the books, records, and accounts of all persons referred to in this section whenever he may deem it necessary or desirable; and (4) that upon the willful failure or refusal of any person described in this section to comply with the contract provisions required by this section, the Secretary of Transportation shall have the right to rescind the contract, and upon such rescission, the United States shall be relieved of all further liability on such contract.
+
+### Statutory Notes
+
+#### Codification
+Section consists of text of Act June 29, 1936, ch. 858, title VIII, § 801, 49 Stat. 2011, as amended by Pub. L. 97–31, § 12(119), Aug. 6, 1981, 95 Stat. 164. Section 801 of act June 29, 1936, ch. 858, which was formerly set out as a note under [section 53101 of this title](./chapter-531-maritime-security-fleet.md#section-53101), was transferred to this section by Pub. L. 114–120, title III, § 313(c)(1)(A), Feb. 8, 2016, 130 Stat. 58.
+
+#### Amendments
+2016—Pub. L. 114–120, § 313(c)(1)(B)(i), inserted “Books and records, balance sheets, and inspection and auditing” in section catchline.
+
+Pub. L. 114–120, § 313(c)(1)(B)(ii), which directed substitution of “this chapter” for “the provision of title VI or VII of this Act”, was executed by making the substitution for “the provisions of title VI or VII of this Act” to reflect the probable intent of Congress.
+
+Pub. L. 114–120, § 313(c)(1)(B)(iii), struck out “: Provided, That the provisions of this paragraph shall not require the duplication of books, records, and accounts required to be kept in some other form by the Interstate Commerce Commission” after “prescribed by the Secretary of Transportation”.
+
+
 <a id="section-57531"></a>
 ## § 57531. Construction and charter of vessels for unsuccessful routes
-**(a) In General.—** If the Secretary of Transportation finds that a trade route determined to be essential under [section 50103 of this title](./chapter-501-policy-studies-and-reports.md#section-50103) cannot be successfully developed and maintained and the Secretary’s replacement program cannot be achieved under private operation of the trade route by a citizen of the United States with vessels documented under chapter 121 of this title, without further aid by the United States Government in addition to the financial aid authorized under titles V and VI of the Merchant Marine Act, 1936, the Secretary, without advertisement or competition, may—
+**(a) In General.—** If the Secretary of Transportation finds that a trade route determined to be essential under [section 50103 of this title](./chapter-501-policy-studies-and-reports.md#section-50103) cannot be successfully developed and maintained and the Secretary’s replacement program cannot be achieved under private operation of the trade route by a citizen of the United States with vessels documented under chapter 121 of this title, without further aid by the United States Government in addition to the financial aid authorized under title V of the Merchant Marine Act, 1936, the Secretary, without advertisement or competition, may—
 
 (1) have constructed, in private shipyards or in navy yards, vessels of the types necessary for the trade route; and
 
@@ -383,7 +404,10 @@ Subsection (b)(2) is substituted for “Upon the basis of a twenty-five year lif
 In subsection (c), in paragraphs (1) and (4), references to the useful life specified in subsection (b)(2) are substituted for references to the twenty-five year useful life for the reason stated in explaining subsection (b)(2).
 
 #### References in Text
-The Merchant Marine Act, 1936, referred to in subsecs. (a), (b)(1), (c), is act June 29, 1936, ch. 858, 49 Stat. 1985. Titles V and VI of the Act enacted provisions set out as notes under [section 53101 of this title](./chapter-531-maritime-security-fleet.md#section-53101). For complete classification of this Act to the Code, see Short Title of 1936 Amendment note set out under [section 101 of this title](./chapter-001-definitions.md#section-101) and Tables.
+The Merchant Marine Act, 1936, referred to in subsecs. (a), (b)(1), (c), is act June 29, 1936, ch. 858, 49 Stat. 1985. Title V of the Act enacted provisions set out as a note under [section 53101 of this title](./chapter-531-maritime-security-fleet.md#section-53101). For complete classification of this Act to the Code, see Short Title of 1936 Amendment note set out under [section 101 of this title](./chapter-001-definitions.md#section-101) and Tables.
+
+#### Amendments
+2016—Subsec. (a). Pub. L. 114–120 substituted “title V” for “titles V and VI” in introductory provisions.
 
 
 <a id="section-57532"></a>
@@ -394,7 +418,7 @@ The Merchant Marine Act, 1936, referred to in subsecs. (a), (b)(1), (c), is act 
 
 **(c) Terms of Operation.—** Operation of a vessel under this section shall be on terms the Secretary considers appropriate to carry out the purposes of this subtitle. A bareboat charter under this section shall be at reasonable rates and include restrictions the Secretary considers appropriate to protect the public interest, including provisions for recapture of profits under [section 57517 of this title](./chapter-575-construction-charter-and-sale-of-vessels.md#section-57517). A charter or general agency agreement under this section shall be reviewed annually to determine whether conditions exist to justify continuance of the charter or agreement.
 
-**(d) Rights of Seamen.—** A seaman engaged in vessel operations of the Secretary under this section and employed through a general agent in connection with a charter or agreement under this section is entitled to all the rights and remedies provided in sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294).
+**(d) Rights of Seamen.—** A seaman engaged in vessel operations of the Secretary under this section and employed through a general agent in connection with a charter or agreement under this section is entitled to all the rights and remedies provided in sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294).11 See References in Text note below.
 
 ### Statutory Notes
 
@@ -404,6 +428,9 @@ The Merchant Marine Act, 1936, referred to in subsecs. (a), (b)(1), (c), is act 
 | 57532 | 46 App.:1205. | June 29, 1936, ch. 858, title VII, § 715, as added July 11, 1956, ch. 574, 70 Stat. 531; Pub. L. 97–31, § 12(117), Aug. 6, 1981, 95 Stat. 164. |
 
 Subsection (d) is substituted for “Those provisions of law prescribed or incorporated under section 1241a of this Appendix, which relate to vessel operating activities of the Secretary of Transportation and to employment of seamen through general agents, shall be applicable in connection with charters and agreements entered into under this section” for clarity.
+
+#### References in Text
+Sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294), referred to in subsec. (d), are sections 1(a) and (c), 3(c), and 4 of act Mar. 24, 1943, ch. 26, 57 Stat. 45, 47, 49, 51, which were formerly classified to sections 1291(a), (c), 1293(c), and 1294 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as sections 4701(a), (c), 4703(c), and 4704, respectively, of Title 50.
 
 
 <a id="section-57533"></a>

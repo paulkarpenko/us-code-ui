@@ -258,13 +258,13 @@ Pub. L. 100–42, § 2, May 21, 1987, 101 Stat. 314, provided that: “(a) Repea
 
 **(b) Limitation**
 
-(1) **Expiration** — Any declaration of a natural gas supply emergency (or extension thereof) under subsection (a) of this section, shall terminate at the earlier of—
+(1) **Expiration** — Any declaration of a natural gas supply emergency (or extension thereof) under subsection (a), shall terminate at the earlier of—
 
-  (A) the date on which the President finds that any shortage described in subsection (a) of this section does not exist or is not imminent; or
+  (A) the date on which the President finds that any shortage described in subsection (a) does not exist or is not imminent; or
 
   (B) 120 days after the date of such declaration of emergency (or extension thereof).
 
-(2) **Extensions** — Nothing in this subsection shall prohibit the President from extending, under subsection (a) of this section, any emergency (or extension thereof), previously declared under subsection (a) of this section, upon the expiration of such declaration of emergency (or extension thereof) under paragraph (1)(B).
+(2) **Extensions** — Nothing in this subsection shall prohibit the President from extending, under subsection (a), any emergency (or extension thereof), previously declared under subsection (a), upon the expiration of such declaration of emergency (or extension thereof) under paragraph (1)(B).
 
 ### Statutory Notes
 
@@ -284,9 +284,9 @@ Functions of President under this subchapter, except for authority to declare, e
 
 (2) from any intrastate pipeline, local distribution company, or other person (other than an interstate pipeline or a producer of natural gas).
 
-**(b) Contract duration** The duration of any contract authorized under subsection (a) of this section may not exceed 4 months. The preceding sentence shall not prohibit the President from authorizing under subsection (a) of this section a renewal of any contract, previously authorized under such subsection, following the expiration of such contract.
+**(b) Contract duration** The duration of any contract authorized under subsection (a) may not exceed 4 months. The preceding sentence shall not prohibit the President from authorizing under subsection (a) a renewal of any contract, previously authorized under such subsection, following the expiration of such contract.
 
-**(c) Related transportation and facilities** The President may, by order, require any pipeline to transport natural gas, and to construct and operate such facilities for the transportation of natural gas, as he determines necessary to carry out any contract authorized under subsection (a) of this section. The costs of any construction or transportation ordered under this subsection shall be paid by the purchaser of natural gas under the contract with respect to which such order is issued. No order to transport natural gas under this subsection shall require any pipeline to transport natural gas in excess of such pipeline’s available capacity.
+**(c) Related transportation and facilities** The President may, by order, require any pipeline to transport natural gas, and to construct and operate such facilities for the transportation of natural gas, as he determines necessary to carry out any contract authorized under subsection (a). The costs of any construction or transportation ordered under this subsection shall be paid by the purchaser of natural gas under the contract with respect to which such order is issued. No order to transport natural gas under this subsection shall require any pipeline to transport natural gas in excess of such pipeline’s available capacity.
 
 **(d) Maintenance of adequate records** The Commission shall require any interstate pipeline or local distribution company contracting under the authority of this section for natural gas to maintain and make available full and adequate records concerning transactions under this section, including records of the volumes of natural gas purchased under the authority of this section and the rates and charges for purchase and receipt of such natural gas.
 
@@ -300,7 +300,7 @@ The Natural Gas Act, referred to in subsec. (a)(1)(B), is act June 21, 1938, ch.
 
 <a id="section-3364"></a>
 ## § 3364. Emergency allocation authority
-**(a) In general** In order to assist in meeting natural gas requirements for high-priority uses of natural gas during any natural gas supply emergency declared under [section 3361 of this title](./chapter-060-natural-gas-policy.md#section-3361), the President may, by order, allocate supplies of natural gas under subsections (b), (c), and (d) of this section to—
+**(a) In general** In order to assist in meeting natural gas requirements for high-priority uses of natural gas during any natural gas supply emergency declared under [section 3361 of this title](./chapter-060-natural-gas-policy.md#section-3361), the President may, by order, allocate supplies of natural gas under subsections (b), (c), and (d) to—
 
 (1) any interstate pipeline;
 
@@ -332,7 +332,7 @@ The Natural Gas Act, referred to in subsec. (a)(1)(B), is act June 21, 1938, ch.
 
 (1) **Required findings** — The President shall not allocate supplies of natural gas under this subsection unless he finds that—
 
-  (A) to the maximum extent practicable, allocation of supplies of natural gas under subsection (b) of this section has been utilized to assist in meeting natural gas requirements for high-priority uses of natural gas;
+  (A) to the maximum extent practicable, allocation of supplies of natural gas under subsection (b) has been utilized to assist in meeting natural gas requirements for high-priority uses of natural gas;
 
   (B) the exercise of such authority is not likely to satisfy the natural gas requirements for such high-priority uses;
 
@@ -372,7 +372,7 @@ The Natural Gas Act, referred to in subsec. (a)(1)(B), is act June 21, 1938, ch.
 
 (1) **Required finding** — The President shall not allocate supplies of natural gas under this subsection unless he finds that—
 
-  (A) to the maximum extent practicable, allocation of supplies of natural gas under subsection (c) of this section has been utilized to assist in meeting natural gas requirements for high-priority uses of natural gas;
+  (A) to the maximum extent practicable, allocation of supplies of natural gas under subsection (c) has been utilized to assist in meeting natural gas requirements for high-priority uses of natural gas;
 
   (B) the exercise of such authority is not likely to satisfy the natural gas requirements for such high-priority uses;
 
@@ -392,25 +392,25 @@ The Natural Gas Act, referred to in subsec. (a)(1)(B), is act June 21, 1938, ch.
 
 **(g) Compensation**
 
-(1) **In general** — If the parties to any order issued under subsection (b), (c), (d), or (h) of this section fail to agree upon the terms of compensation for natural gas deliveries or transportation required pursuant to such order, the President, after a hearing held either before or after such order takes effect, shall, by supplemental order, prescribe the amount of compensation to be paid for such deliveries or transportation and for any other expenses incurred in delivering or transporting natural gas.
+(1) **In general** — If the parties to any order issued under subsection (b), (c), (d), or (h) fail to agree upon the terms of compensation for natural gas deliveries or transportation required pursuant to such order, the President, after a hearing held either before or after such order takes effect, shall, by supplemental order, prescribe the amount of compensation to be paid for such deliveries or transportation and for any other expenses incurred in delivering or transporting natural gas.
 
-(2) **Calculation of compensation for certain boiler fuel natural gas** — For purposes of any supplemental order under paragraph (1) with respect to emergency deliveries pursuant to subsection (b) of this section, the President shall calculate the amount of compensation—
+(2) **Calculation of compensation for certain boiler fuel natural gas** — For purposes of any supplemental order under paragraph (1) with respect to emergency deliveries pursuant to subsection (b), the President shall calculate the amount of compensation—
 
   (A) for supplies of natural gas based upon the amount required to make whole the user subject to the prohibition order, but in no event may such compensation exceed just compensation prescribed in [section 717z of this title](./chapter-15b-natural-gas.md#section-717z); and
 
   (B) for transportation, storage, delivery, and other services, based upon reasonable costs, as determined by the President.
 
-(3) **Compensation for other natural gas allocated** — For the purpose of any supplemental order under paragraph (1), if the party making emergency deliveries pursuant to subsection (c) or (d) of this section—
+(3) **Compensation for other natural gas allocated** — For the purpose of any supplemental order under paragraph (1), if the party making emergency deliveries pursuant to subsection (c) or (d)—
 
   (A) indicates a preference for compensation in kind, the President shall direct that compensation in kind be provided as expeditiously as practicable;
 
   (B) indicates a preference for compensation, or the President determines that, notwithstanding paragraph (A) of this subsection, any portion thereof cannot practicably be compensated in kind, the President shall calculate the amount of compensation—
 
-    (i) for supplies of natural gas, based upon the amount required to make the pipeline and its local distribution companies whole, in the case of any order under subsection (c) of this section, or to make the user from whom natural gas is allocated whole, in the case of any order under subsection (d) of this section including any amount actually paid by such pipeline and its local distribution companies or such user for volumes of natural gas or higher cost synthetic gas acquired to replace natural gas subject to an order under subsection (c) or (d) of this section; and
+    (i) for supplies of natural gas, based upon the amount required to make the pipeline and its local distribution companies whole, in the case of any order under subsection (c), or to make the user from whom natural gas is allocated whole, in the case of any order under subsection (d) including any amount actually paid by such pipeline and its local distribution companies or such user for volumes of natural gas or higher cost synthetic gas acquired to replace natural gas subject to an order under subsection (c) or (d); and
 
     (ii) for transportation, storage, delivery, and other services, based upon reasonable costs, as determined by the President. Compensation received by an interstate pipeline under this subsection shall be credited to the account of any local distribution company served by that pipeline to the extent ordered by the President to make such local distribution company whole.
 
-**(h) Related transportation and facilities** The President may, by order, require any pipeline to transport natural gas, and to construct and operate such facilities for the transportation of natural gas, as he determines necessary to carry out any order under subsection (b), (c), or (d) of this section. Compensation for the costs of any construction or transportation ordered under this subsection shall be determined under subsection (g) of this section and shall be paid by the person to whom supplies of natural gas are ordered allocated under this section.
+**(h) Related transportation and facilities** The President may, by order, require any pipeline to transport natural gas, and to construct and operate such facilities for the transportation of natural gas, as he determines necessary to carry out any order under subsection (b), (c), or (d). Compensation for the costs of any construction or transportation ordered under this subsection shall be determined under subsection (g) and shall be paid by the person to whom supplies of natural gas are ordered allocated under this section.
 
 **(i) Monitoring** In order to effect the purposes of this part, the President shall monitor the operation of any order made pursuant to this section to assure that natural gas delivered pursuant to this section is applied to high-priority uses only.
 
@@ -618,7 +618,7 @@ The Natural Gas Act, referred to in subsec. (a)(1)(B), is act June 21, 1938, ch.
 ## § 3373. Assignment of contractual rights to receive surplus natural gas
 **(a) Authorization of assignments** The Commission may, by rule or order, authorize any intrastate pipeline to assign, without compensation, to any interstate pipeline or local distribution company all or any portion of such intrastate pipeline’s right to receive surplus natural gas at any first sale, upon such terms and conditions as the Commission determines appropriate.
 
-**(b) Effect of authorization under subsection (a)** For the effect of an authorization under subsection (a) of this section, see [section 3431 of this title](./chapter-060-natural-gas-policy.md#section-3431) (relating to the coordination of this chapter with the Natural Gas Act [[15 U.S.C. 717](./chapter-15b-natural-gas.md#section-717) et seq.]).
+**(b) Effect of authorization under subsection (a)** For the effect of an authorization under subsection (a), see [section 3431 of this title](./chapter-060-natural-gas-policy.md#section-3431) (relating to the coordination of this chapter with the Natural Gas Act [[15 U.S.C. 717](./chapter-15b-natural-gas.md#section-717) et seq.]).
 
 **(c) Surplus natural gas** For purposes of this section, the term “surplus natural gas” means any natural gas which is determined, by the State agency having regulatory jurisdiction over the intrastate pipeline which would be entitled to receive such natural gas in the absence of any assignment to exceed the then current demands on such pipeline for natural gas.
 
@@ -673,7 +673,7 @@ Amendment by Pub. L. 101–60 effective Jan. 1, 1993, see section 3(b) of Pub. L
 
 (3) terminates, or grants any party the option to terminate, any obligation under any such contract as a result of such commingling, sale, or transportation.
 
-**(b) Natural gas covered by this chapter** For purposes of subsection (a) of this section, the term “natural gas covered by this chapter” means—
+**(b) Natural gas covered by this chapter** For purposes of subsection (a), the term “natural gas covered by this chapter” means—
 
 (1) natural gas which is not committed or dedicated to interstate commerce as of November 8, 1978;
 
@@ -716,17 +716,17 @@ Subsecs. (b), (c). Pub. L. 100–439, § 2(a), redesignated subsec. (c) as (b) a
 
 <a id="section-3391a"></a>
 ## § 3391a. Natural gas for essential agricultural uses
-**(a) General rule** Not later than 120 days after November 9, 1978, the Secretary of Energy shall prescribe and make effective a rule, which may be amended from time to time, which provides that, notwithstanding any other provision of law (other than subsection (b) of this section) and to the maximum extent practicable, no curtailment plan of an interstate pipeline may provide for curtailment of deliveries of natural gas for any essential agricultural use, unless such curtailment—
+**(a) General rule** Not later than 120 days after November 9, 1978, the Secretary of Energy shall prescribe and make effective a rule, which may be amended from time to time, which provides that, notwithstanding any other provision of law (other than subsection (b)) and to the maximum extent practicable, no curtailment plan of an interstate pipeline may provide for curtailment of deliveries of natural gas for any essential agricultural use, unless such curtailment—
 
-(1) does not reduce the quantity of natural gas delivered for such use below the use requirement specified in subsection (c) of this section; or
+(1) does not reduce the quantity of natural gas delivered for such use below the use requirement specified in subsection (c); or
 
 (2) is necessary in order to meet the requirements of high-priority users.
 
-**(b) Curtailment priority not applicable if alternative fuel available** If the Commission, in consultation with the Secretary of Agriculture, determines, by rule or order, that use of a fuel (other than natural gas) is economically practicable and that the fuel is reasonably available as an alternative for any agricultural use of natural gas, the provisions of subsection (a) of this section shall not apply with respect to any curtailment of deliveries for such use.
+**(b) Curtailment priority not applicable if alternative fuel available** If the Commission, in consultation with the Secretary of Agriculture, determines, by rule or order, that use of a fuel (other than natural gas) is economically practicable and that the fuel is reasonably available as an alternative for any agricultural use of natural gas, the provisions of subsection (a) shall not apply with respect to any curtailment of deliveries for such use.
 
 **(c) Determination of essential agricultural use requirements** The Secretary of Agriculture shall certify to the Secretary of Energy and the Commission the natural gas requirements (expressed either as volumes or percentages of use) of persons (or classes thereof) for essential agricultural uses in order to meet the requirements of full food and fiber production.
 
-**(d) Authority of Secretary of Agriculture to intervene** The Secretary of Agriculture may intervene as a matter of right in any proceeding before the Commission which is conducted in connection with implementing the requirements of the rule prescribed under subsection (a) of this section.
+**(d) Authority of Secretary of Agriculture to intervene** The Secretary of Agriculture may intervene as a matter of right in any proceeding before the Commission which is conducted in connection with implementing the requirements of the rule prescribed under subsection (a).
 
 **(e) Limitation** The Secretary of Agriculture may not exercise any authority under this section for the purpose of restricting the production of any crop.
 
@@ -772,15 +772,15 @@ Section was enacted as part of the Biomass Energy and Alcohol Fuels Act of 1980 
 
 <a id="section-3393"></a>
 ## § 3393. Natural gas for essential industrial process and feedstock uses
-**(a) General rule** The Secretary of Energy shall prescribe and make effective a rule which provides that, notwithstanding any other provision of law (other than subsection (b) of this section) and to the maximum extent practicable, no interstate pipeline may curtail deliveries of natural gas for any essential industrial process or feedstock use, unless such curtailment—
+**(a) General rule** The Secretary of Energy shall prescribe and make effective a rule which provides that, notwithstanding any other provision of law (other than subsection (b)) and to the maximum extent practicable, no interstate pipeline may curtail deliveries of natural gas for any essential industrial process or feedstock use, unless such curtailment—
 
-(1) does not reduce the quantity of natural gas delivered for such use below the use requirement specified in subsection (c) of this section;
+(1) does not reduce the quantity of natural gas delivered for such use below the use requirement specified in subsection (c);
 
 (2) is necessary in order to meet the requirements of high-priority users; or
 
 (3) is necessary in order to meet the requirements for essential agricultural uses of natural gas for which curtailment priority is established under [section 3391 of this title](./chapter-060-natural-gas-policy.md#section-3391).
 
-**(b) Curtailment priority applicable only if alternative fuel not available** The provisions of subsection (a) of this section shall apply with respect to any curtailment of deliveries for any essential industrial process or feedstock use only if the Commission determines that use of a fuel (other than natural gas) is not economically practicable and that no fuel is reasonably available as an alternative for such use.
+**(b) Curtailment priority applicable only if alternative fuel not available** The provisions of subsection (a) shall apply with respect to any curtailment of deliveries for any essential industrial process or feedstock use only if the Commission determines that use of a fuel (other than natural gas) is not economically practicable and that no fuel is reasonably available as an alternative for such use.
 
 **(c) Determination of essential industrial use requirements** The Secretary of Energy shall determine and certify to the Commission the natural gas requirements (expressed either as volumes or percentages of use) of persons (or classes thereof) for essential industrial process and feedstock uses (other than those referred to in [section 3391(f)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3391/f/1/B&num=0&edition=prelim)).
 
@@ -809,7 +809,7 @@ The Natural Gas Act, referred to in subsecs. (a) and (b), is act June 21, 1938, 
 ## § 3411. Limitation on revoking or amending certain pre-1969 certificates of public convenience and necessity
 **(a) General rule** The Commission may not, during the 10-year period beginning on November 9, 1978, revoke or amend any certificate of public convenience and necessity issued before January 1, 1969, under section 7 of the Natural Gas Act [[15 U.S.C. 717f](./chapter-15b-natural-gas.md#section-717f)] for the transportation of natural gas owned by any electric utility except upon the application of the person to whom such certificate was issued.
 
-**(b) Commission curtailment authority** The limitation under subsection (a) of this section shall not affect the authority of the Commission to enforce any curtailment of deliveries of natural gas under the Natural Gas Act [[15 U.S.C. 717](./chapter-15b-natural-gas.md#section-717) et seq.].
+**(b) Commission curtailment authority** The limitation under subsection (a) shall not affect the authority of the Commission to enforce any curtailment of deliveries of natural gas under the Natural Gas Act [[15 U.S.C. 717](./chapter-15b-natural-gas.md#section-717) et seq.].
 
 ### Statutory Notes
 
@@ -834,11 +834,11 @@ Amendment by Pub. L. 101–60 effective Jan. 1, 1993, see section 3(b) of Pub. L
 
 <a id="section-3413"></a>
 ## § 3413. Administrative procedure
-**(a) Administrative Procedure Act** Subject to subsection (b) of this section, the provisions of subchapter II of chapter 5 of title 5 shall apply to any rule or order issued under this chapter having the applicability and effect of a rule as defined in [section 551(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551/4&num=0&edition=prelim); except that sections 554, 556, and 557 of such title 5 shall not apply to any order under such section 3361, 3362, or 3363 of this title.
+**(a) Administrative Procedure Act** Subject to subsection (b), the provisions of subchapter II of chapter 5 of title 5 shall apply to any rule or order issued under this chapter having the applicability and effect of a rule as defined in [section 551(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551/4&num=0&edition=prelim); except that sections 554, 556, and 557 of such title 5 shall not apply to any order under such section 3361, 3362, or 3363 of this title.
 
-**(b) Opportunity for oral presentations** To the maximum extent practicable, an opportunity for oral presentation of data, views, and arguments shall be afforded with respect to any proposed rule or order described in subsection (a) of this section (other than an order under section 3361, 3362, or 3363 of this title). To the maximum extent practicable, such opportunity shall be afforded before the effective date of such rule or order. Such opportunity shall be afforded no later than 30 days after such date in the case of a waiver of the entire comment period under [section 553(d)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553/d/3&num=0&edition=prelim), and no later than 45 days after such date in all other cases. A transcript shall be made of any such oral presentation.
+**(b) Opportunity for oral presentations** To the maximum extent practicable, an opportunity for oral presentation of data, views, and arguments shall be afforded with respect to any proposed rule or order described in subsection (a) (other than an order under section 3361, 3362, or 3363 of this title). To the maximum extent practicable, such opportunity shall be afforded before the effective date of such rule or order. Such opportunity shall be afforded no later than 30 days after such date in the case of a waiver of the entire comment period under [section 553(d)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553/d/3&num=0&edition=prelim), and no later than 45 days after such date in all other cases. A transcript shall be made of any such oral presentation.
 
-**(c) Adjustments** The Commission or any other Federal officer or agency authorized to issue rules or orders described in subsection (a) of this section (other than an order under section 3361, 3362, or 3363 of this title) shall, by rule, provide for the making of such adjustments, consistent with the other purposes of this chapter, as may be necessary to prevent special hardship, inequity, or an unfair distribution of burdens. Such rule shall establish procedures which are available to any person for the purpose of seeking an interpretation, modification, or rescission of, exception to, or exemption from, such applicable rules or orders. If any person is aggrieved or adversely affected by the denial of a request for adjustment under the preceding sentence, such person may request a review of such denial by the officer or agency and may obtain judicial review in accordance with [section 3416 of this title](./chapter-060-natural-gas-policy.md#section-3416) when such denial becomes final. The officer or agency shall, by rule, establish procedures, including an opportunity for oral presentation of data, views, and arguments, for considering requests for adjustment under this subsection.
+**(c) Adjustments** The Commission or any other Federal officer or agency authorized to issue rules or orders described in subsection (a) (other than an order under section 3361, 3362, or 3363 of this title) shall, by rule, provide for the making of such adjustments, consistent with the other purposes of this chapter, as may be necessary to prevent special hardship, inequity, or an unfair distribution of burdens. Such rule shall establish procedures which are available to any person for the purpose of seeking an interpretation, modification, or rescission of, exception to, or exemption from, such applicable rules or orders. If any person is aggrieved or adversely affected by the denial of a request for adjustment under the preceding sentence, such person may request a review of such denial by the officer or agency and may obtain judicial review in accordance with [section 3416 of this title](./chapter-060-natural-gas-policy.md#section-3416) when such denial becomes final. The officer or agency shall, by rule, establish procedures, including an opportunity for oral presentation of data, views, and arguments, for considering requests for adjustment under this subsection.
 
 ### Statutory Notes
 
@@ -905,7 +905,7 @@ Repeal effective Jan. 1, 1993, see section 3(b) of Pub. L. 101–60, set out as 
 
   (C) both such fine and such imprisonment.
 
-(2) **Violation of rules or orders generally** — Except in the case of violations covered under paragraph (3), any person who knowingly and willfully violates any rule or order under this chapter (other than an order of the Commission assessing a civil penalty under subsection (b)(4)(E) of this section), shall be subject to a fine of not more than $50,000 for each day on which the offense occurs.
+(2) **Violation of rules or orders generally** — Except in the case of violations covered under paragraph (3), any person who knowingly and willfully violates any rule or order under this chapter (other than an order of the Commission assessing a civil penalty under subsection (b)(4)(E)), shall be subject to a fine of not more than $50,000 for each day on which the offense occurs.
 
 (3) **Violations of emergency orders** — Any person who knowingly and willfully violates an order under [section 3362 of this title](./chapter-060-natural-gas-policy.md#section-3362) or an order or supplemental order under [section 3363 of this title](./chapter-060-natural-gas-policy.md#section-3363) shall be fined not more than $50,000 for each violation.
 
@@ -942,13 +942,13 @@ Amendment by section 3(b)(6) of Pub. L. 101–60 effective Jan. 1, 1993, see sec
 
 (2) **Enforcement of right to intervene** — The Secretary may bring an action in any appropriate court of the United States to enforce his right to intervene under paragraph (1).
 
-(3) **Access to information** — As an intervenor in a proceeding described in subsection (a) of this section, the Secretary shall have access to information available to other parties to the proceeding if such information is relevant to the issues to which his participation in such proceeding relates. Such information may be obtained through reasonable rules relating to discovery of information prescribed by the State agency.
+(3) **Access to information** — As an intervenor in a proceeding described in subsection (a), the Secretary shall have access to information available to other parties to the proceeding if such information is relevant to the issues to which his participation in such proceeding relates. Such information may be obtained through reasonable rules relating to discovery of information prescribed by the State agency.
 
 **(b) Access to State courts**
 
-(1) **Review in State courts** — The Secretary may obtain review of any determination made in any proceeding described in subsection (a)(1) of this section in the appropriate State court if the Secretary intervened or otherwise participated in the original proceeding or if State law otherwise permits such review.
+(1) **Review in State courts** — The Secretary may obtain review of any determination made in any proceeding described in subsection (a)(1) in the appropriate State court if the Secretary intervened or otherwise participated in the original proceeding or if State law otherwise permits such review.
 
-(2) **Participation as amicus curiae** — In addition to his authority to obtain review under paragraph (1), the Secretary may also participate an 11 So in original. Probably should be “as”. amicus curiae in any judicial review of any proceeding described in subsection (a)(1) of this section.
+(2) **Participation as amicus curiae** — In addition to his authority to obtain review under paragraph (1), the Secretary may also participate an 11 So in original. Probably should be “as”. amicus curiae in any judicial review of any proceeding described in subsection (a)(1).
 
 
 <a id="section-3417"></a>
@@ -970,7 +970,7 @@ Amendment by section 3(b)(6) of Pub. L. 101–60 effective Jan. 1, 1993, see sec
 
 (5) **Orders remain effective** — The filing of an application for rehearing under paragraph (2) shall not, unless specifically ordered by the Commission, operate as a stay of the Commission’s order. The commencement of proceedings under paragraph (4) shall not, unless specifically ordered by the court, operate as a stay of the Commission’s order.
 
-**(b) Review of rules and orders** Except as provided in subsections (a) and (c) of this section, judicial review of any rule or order, within the meaning of [section 551(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551/4&num=0&edition=prelim), issued under this chapter may be obtained in the United States Court of Appeals for any appropriate circuit pursuant to the provisions of chapter 7 of title 5, except that the second sentence of section 705 thereof shall not apply.
+**(b) Review of rules and orders** Except as provided in subsections (a) and (c), judicial review of any rule or order, within the meaning of [section 551(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551/4&num=0&edition=prelim), issued under this chapter may be obtained in the United States Court of Appeals for any appropriate circuit pursuant to the provisions of chapter 7 of title 5, except that the second sentence of section 705 thereof shall not apply.
 
 **(c) Judicial review of emergency orders** Except with respect to enforcement of orders or subpenas under [section 3364(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3364/a&num=0&edition=prelim), the United States Court of Appeals for the Federal Circuit shall have exclusive original jurisdiction to review all civil cases and controversies under section 3361, 3362 or 3363 of this title, including any order issued, or other action taken, under such section. The United States Court of Appeals for the Federal Circuit shall have exclusive jurisdiction of all appeals from the district courts of the United States in cases and controversies arising under [section 3364(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3364/a/2&num=0&edition=prelim); such appeals shall be taken by the filing of a notice of appeal with the United States Court of Appeals for the Federal Circuit within thirty days after the entry of judgment by the district court. Prior to a final judgment, no court shall have jurisdiction to grant any injunctive relief to stay or defer the implementation of any order issued, or action taken, under section 3361, 3362, or 3363 of this title.
 

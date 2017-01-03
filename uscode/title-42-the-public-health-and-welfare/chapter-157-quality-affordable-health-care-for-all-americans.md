@@ -430,7 +430,7 @@ A prior section 1253 of Pub. L. 111–148 was renumbered section 1255 and is set
 
 **(e) Regulations** The Secretary of the Treasury, the Secretary of Health and Human Services, and the Secretary of Labor may promulgate regulations necessary to carry out this Act, including such rules as may be necessary to prevent inappropriate expansion of the application of the exclusions under this Act from applicable laws and regulations, and to amend existing annual reporting requirements or procedures to include applicable qualified expatriate health insurers’ total number of expatriate plan enrollees.
 
-**(f) Effective Date** Unless otherwise specified, this Act shall take effect on December 16, 2014, and shall apply only to expatriate health plans issued or renewed on or after July 1, 2015.
+**(f) Effective date** Unless otherwise specified, this Act shall take effect on December 16, 2014, and shall apply only to expatriate health plans issued or renewed on or after July 1, 2015.
 
 ### Statutory Notes
 
@@ -818,11 +818,11 @@ Barack Obama.
 
 **(b) Employers** In this title: 1
 
-(1) **Large employer** — The term “large employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 101 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
+(1) **Large employer** — The term “large employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 51 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
 
-(2) **Small employer** — The term “small employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 1 but not more than 100 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
+(2) **Small employer** — The term “small employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 1 but not more than 50 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
 
-(3) **State option to treat 50 employees as small** — In the case of plan years beginning before January 1, 2016, a State may elect to apply this subsection by substituting “51 employees” for “101 employees” in paragraph (1) and by substituting “50 employees” for “100 employees” in paragraph (2).
+(3) **State option to extend definition of small employer** — Notwithstanding paragraphs (1) and (2), nothing in this section shall prevent a State from applying this subsection by treating as a small employer, with respect to a calendar year and a plan year, an employer who employed an average of at least 1 but not more than 100 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year.
 
 (4) **Rules for determining employer size** — For purposes of this subsection—
 
@@ -851,6 +851,12 @@ Barack Obama.
 This title, referred to in subsecs. (a) to (d), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 
 #### Amendments
+2015—Subsec. (b)(1). Pub. L. 114–60, § 2(a)(1), substituted “51” for “101”.
+
+Subsec. (b)(2). Pub. L. 114–60, § 2(a)(2), substituted “50” for “100”.
+
+Subsec. (b)(3). Pub. L. 114–60, § 2(a)(3), amended par. (3) generally. Prior to amendment, text read as follows: “In the case of plan years beginning before January 1, 2016, a State may elect to apply this subsection by substituting ‘51 employees’ for ‘101 employees’ in paragraph (1) and by substituting ‘50 employees’ for ‘100 employees’ in paragraph (2).”
+
 2010—Subsec. (e). Pub. L. 111–148, § 10104(d), added subsec. (e).
 
 
@@ -2239,7 +2245,7 @@ In the case of an individual described in [section 36B(c)(1)(B) of title 26](htt
 
 **(d) Special rules for Indians**
 
-(1) **Indians under 300 percent of poverty** — If an individual enrolled in any qualified health plan in the individual market through an Exchange is an Indian (as defined in [section 450b(d) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/d&num=0&edition=prelim)) whose household income is not more than 300 percent of the poverty line for a family of the size involved, then, for purposes of this section—
+(1) **Indians under 300 percent of poverty** — If an individual enrolled in any qualified health plan in the individual market through an Exchange is an Indian (as defined in [section 5304(d) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/d&num=0&edition=prelim)) whose household income is not more than 300 percent of the poverty line for a family of the size involved, then, for purposes of this section—
 
   (A) such individual shall be treated as an eligible insured; and
 
@@ -2335,7 +2341,9 @@ Subsec. (c)(2)(C). Pub. L. 111–152, § 1001(b)(2)(A)(ii), (B)(ii), (C), added 
 
   (A) *Information regarding income and family size* — The information described in section 6103(l)(21) of title 26 1 for the taxable year ending with or within the second calendar year preceding the calendar year in which the plan year begins.
 
-  (B) *Changes in circumstances* — The information described in [section 18082(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18082/b/2&num=0&edition=prelim), including information with respect to individuals who were not required to file an income tax return for the taxable year described in subparagraph (A) or individuals who experienced changes in marital status or family size or significant reductions in income.
+  (B) *Certain individual health insurance policies obtained through small employers* — The amount of the enrollee’s permitted benefit (as defined in [section 9831(d)(3)(C) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9831/d/3/C&num=0&edition=prelim)) under a qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of such title).
+
+  (C) *Changes in circumstances* — The information described in [section 18082(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18082/b/2&num=0&edition=prelim), including information with respect to individuals who were not required to file an income tax return for the taxable year described in subparagraph (A) or individuals who experienced changes in marital status or family size or significant reductions in income.
 
 (4) **Employer-sponsored coverage** — In the case of an enrollee with respect to whom eligibility for a premium tax credit under [section 36B of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36B&num=0&edition=prelim) or cost-sharing reduction under [section 18071 of this title](./chapter-157-quality-affordable-health-care-for-all-americans.md#section-18071) is being established on the basis that the enrollee’s (or related individual’s) employer is not treated under [section 36B(c)(2)(C) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36B/c/2/C&num=0&edition=prelim) as providing minimum essential coverage or affordable minimum essential coverage, the following information:
 
@@ -2513,8 +2521,14 @@ This title, referred to in subsecs. (f)(2)(B) and (i)(1), is title I of Pub. L. 
 
 Section 1513, referred to in subsec. (i)(1), means section 1513 of Pub. L. 111–148.
 
+#### Amendments
+2016—Subsec. (b)(3)(B), (C). Pub. L. 114–255 added subpar. (B) and redesignated former subpar. (B) as (C).
+
 #### Change of Name
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+#### Effective Date of 2016 Amendment
+Amendment by Pub. L. 114–255 applicable to applications for enrollment made after Dec. 31, 2016, see section 18001(a)(7)(F) of Pub. L. 114–255, set out in a note under [section 36B of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36B&num=0&edition=prelim), Internal Revenue Code.
 
 #### Verification of Household Income and Other Qualifications for the Provision of ACA Premium and Cost-Sharing Subsidies
 Pub. L. 113–46, div. B, § 1001, Oct. 17, 2013, 127 Stat. 566, provided that: “(a) In General.—Notwithstanding any other provision of law, the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall ensure that American Health Benefit Exchanges verify that individuals applying for premium tax credits under section 36B of the Internal Revenue Code of 1986 [[26 U.S.C. 36B](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36B&num=0&edition=prelim)] and reductions in cost-sharing under section 1402 of the Patient Protection and Affordable Care Act ([42 U.S.C. 18071](./chapter-157-quality-affordable-health-care-for-all-americans.md#section-18071)) are eligible for such credits and cost sharing reductions consistent with the requirements of section 1411 of such Act ([42 U.S.C. 18081](./chapter-157-quality-affordable-health-care-for-all-americans.md#section-18081)), and, prior to making such credits and reductions available, the Secretary shall certify to the Congress that the Exchanges verify such eligibility consistent with the requirements of such Act [Pub. L. 111–148, see Tables for classification]. “(b) Report by Secretary.—Not later than January 1, 2014, the Secretary shall submit a report to the Congress that details the procedures employed by American Health Benefit Exchanges to verify eligibility for credits and cost-sharing reductions described in subsection (a). “(c) Report by Inspector General.—Not later than July 1, 2014, the Inspector General of the Department of Health and Human Services shall submit to the Congress a report regarding the effectiveness of the procedures and safeguards provided under the Patient Protection and Affordable Care Act for preventing the submission of inaccurate or fraudulent information by applicants for enrollment in a qualified health plan offered through an American Health Benefit Exchange.”
@@ -2863,7 +2877,7 @@ This title, referred to in text, is title I of Pub. L. 111–148, Mar. 23, 2010,
 
 **(b) Rule of construction regarding Hawaii’s Prepaid Health Care Act** Nothing in this title 1 (or an amendment made by this title) 1 shall be construed to modify or limit the application of the exemption for Hawaii’s Prepaid Health Care Act (Haw. Rev. Stat. §§ 393–1 et seq.) as provided for under [section 1144(b)(5) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1144/b/5&num=0&edition=prelim).
 
-**(c) Student health insurance plans** Nothing in this title 1 (or an amendment made by this title) 1 shall be construed to prohibit an institution of higher education (as such term is defined for purposes of the Higher Education Act of 1965 [[20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq., [42 U.S.C. 2751](./chapter-034-economic-opportunity-program.md#section-2751) et seq.]) from offering a student health insurance plan, to the extent that such requirement is otherwise permitted under applicable Federal, State or local law.
+**(c) Student health insurance plans** Nothing in this title 1 (or an amendment made by this title) 1 shall be construed to prohibit an institution of higher education (as such term is defined for purposes of the Higher Education Act of 1965 [[20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq.]) from offering a student health insurance plan, to the extent that such requirement is otherwise permitted under applicable Federal, State or local law.
 
 **(d) No effect on existing requirements** Nothing in this title 1 (or an amendment made by this title,1 unless specified by direct statutory reference) shall be construed to modify any existing Federal requirement concerning the State agency responsible for determining eligibility for programs identified in [section 18083 of this title](./chapter-157-quality-affordable-health-care-for-all-americans.md#section-18083).
 
@@ -2872,7 +2886,7 @@ This title, referred to in text, is title I of Pub. L. 111–148, Mar. 23, 2010,
 #### References in Text
 This title, where footnoted in text, is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (c), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified principally to chapter 28 (§ 1001 et seq.) of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (c), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 
 <a id="section-18119"></a>
@@ -2940,7 +2954,7 @@ Section was enacted as part of the Health Care and Education Reconciliation Act 
 
     (ii) required to be so licensed, registered, or certified but that is exempted by other statute or regulation.
 
-  (C) *Medical malpractice or medical product liability action or claim* — The term “medical malpractice or medical product liability action or claim” means a medical malpractice action or claim (as defined in [section 11151(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11151/7&num=0&edition=prelim)) and includes a liability action or claim relating to a health care provider’s prescription or provision of a drug, device, or biological product (as such terms are defined in [section 321 of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321&num=0&edition=prelim) or [section 262 of this title](./chapter-6a-public-health-service.md#section-262).
+  (C) *Medical malpractice or medical product liability action or claim* — The term “medical malpractice or medical product liability action or claim” means a medical malpractice action or claim (as defined in [section 11151(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11151/7&num=0&edition=prelim)) and includes a liability action or claim relating to a health care provider’s prescription or provision of a drug, device, or biological product (as such terms are defined in [section 321 of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321&num=0&edition=prelim) or [section 262 of this title](./chapter-6a-public-health-service.md#section-262)).
 
   (D) *State* — The term “State” includes the District of Columbia, Puerto Rico, and any other commonwealth, possession, or territory of the United States.
 

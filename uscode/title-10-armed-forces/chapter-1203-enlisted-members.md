@@ -14,7 +14,7 @@ In this chapter, the term “enlistment” means original enlistment or reenlist
 ### Statutory Notes
 
 #### Effective Date
-Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-12102"></a>
@@ -84,7 +84,7 @@ Pub. L. 99–661, div. A, title V, § 523, Nov. 14, 1986, 100 Stat. 3871, as ame
 ## § 12103. Reserve components: terms
 **(a)** Except as otherwise prescribed by law, enlistments as Reserves are for terms prescribed by the Secretary concerned. However, an enlistment that is in effect at the beginning of a war or of a national emergency declared by Congress, or entered into during such a war or emergency, and that would otherwise expire, continues in effect until the expiration of six months after the end of that war or emergency, whichever is later, unless sooner terminated by the Secretary concerned.
 
-**(b)** Under regulations to be prescribed by the Secretary of Defense, and by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, a person who is qualified for enlistment for active duty in an armed force, and who is not under orders to report for induction into an armed force under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), may be enlisted as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve, for a term of not less than six years nor more than eight years. Each person enlisted under this subsection shall serve—
+**(b)** Under regulations to be prescribed by the Secretary of Defense, and by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, a person who is qualified for enlistment for active duty in an armed force, and who is not under orders to report for induction into an armed force under the Military Selective Service Act ([50 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) et seq.), may be enlisted as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve, for a term of not less than six years nor more than eight years. Each person enlisted under this subsection shall serve—
 
 (1) on active duty for a period of not less than two years; and
 
@@ -92,7 +92,7 @@ Pub. L. 99–661, div. A, title V, § 523, Nov. 14, 1986, 100 Stat. 3871, as ame
 
 **(c)** In time of war or of national emergency declared by Congress the term of service of an enlisted member transferred to a reserve component according to law, that would otherwise expire, continues until the expiration of six months after the end of that war or emergency, whichever is later, unless sooner terminated by the Secretary concerned.
 
-**(d)** Under regulations to be prescribed by the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, a non-prior-service person who is qualified for induction for active duty in an armed force and who is not under orders to report for induction into an armed force under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), except as provided in section 6(c)(2)(A)(ii) and (iii) of such Act, may be enlisted in the Army National Guard or the Air National Guard, or as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve, for a term of not less than six years nor more than eight years. Each person enlisted under this subsection shall perform an initial period of active duty for training of not less than twelve weeks to commence insofar as practicable within one year after the date of that enlistment.
+**(d)** Under regulations to be prescribed by the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, a non-prior-service person who is qualified for induction for active duty in an armed force and who is not under orders to report for induction into an armed force under the Military Selective Service Act ([50 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) et seq.), except as provided in clauses (ii) and (iii) of section 6(c)(2)(A) of such Act ([50 U.S.C. 3806(c)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3806/c/2/A&num=0&edition=prelim)), may be enlisted in the Army National Guard or the Air National Guard, or as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve, for a term of not less than six years nor more than eight years. Each person enlisted under this subsection shall perform an initial period of active duty for training of not less than twelve weeks to commence insofar as practicable within one year after the date of that enlistment.
 
 ### Statutory Notes
 
@@ -116,9 +116,13 @@ In subsection (b), the word “continues” is substituted for the words “shal
 In subsection (b), the words “respectively, pursuant to the provisions of this section” are omitted as surplusage. The words “as a Reserve for service” are inserted to reflect [section 510 of this title](./chapter-031-enlistments.md#section-510). The last six words of the first sentence are substituted for 50:1012(b) (1st sentence).
 
 #### References in Text
-The Military Selective Service Act, referred to in subsecs. (b) and (d), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. Section 6 of the Act is classified to [section 456 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section456&num=0&edition=prelim), Appendix. For complete classification of this Act to the Code, see References in Text note set out under [section 451 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section451&num=0&edition=prelim), Appendix, and Tables.
+The Military Selective Service Act, referred to in subsecs. (b) and (d), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under [section 3801 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2016—Subsec. (b). Pub. L. 114–328, § 1081(b)(1)(A)(vii)(I), substituted “([50 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) et seq.)” for “(50 U.S.C. App. 451 et seq.)” in introductory provisions.
+
+Subsec. (d). Pub. L. 114–328, § 1081(b)(1)(A)(vii), substituted “([50 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) et seq.)” for “(50 U.S.C. App. 451 et seq.)” and “clauses (ii) and (iii) of section 6(c)(2)(A) of such Act ([50 U.S.C. 3806(c)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3806/c/2/A&num=0&edition=prelim))” for “section 6(c)(2)(A)(ii) and (iii) of such Act”.
+
 2006—Subsecs. (b), (d). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 2002—Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
@@ -180,7 +184,7 @@ Pub. L. 107–314, div. A, title V, § 533(c), Dec. 2, 2002, 116 Stat. 2547, pro
 
 <a id="section-12104"></a>
 ## § 12104. Reserve components: transfers
-**(a)** A person who would otherwise be required to be transferred to a reserve component under [section 651 of this title](./chapter-037-general-service-requirements.md#section-651) or under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), is entitled, if he is qualified and accepted, to be enlisted in any armed force that he chooses and to participate in the programs authorized for that armed force. However, unless the two Secretaries concerned consent, he may not be enlisted as a Reserve of an armed force other than that from which he is transferred. All periods of his participation shall be credited against the total period of service required of him under [section 651 of this title](./chapter-037-general-service-requirements.md#section-651) or under the Military Selective Service Act (50 U.S.C. App. 451 et seq.). However, no period may be credited more than once.
+**(a)** A person who would otherwise be required to be transferred to a reserve component under [section 651 of this title](./chapter-037-general-service-requirements.md#section-651) or under the Military Selective Service Act ([50 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) et seq.), is entitled, if he is qualified and accepted, to be enlisted in any armed force that he chooses and to participate in the programs authorized for that armed force. However, unless the two Secretaries concerned consent, he may not be enlisted as a Reserve of an armed force other than that from which he is transferred. All periods of his participation shall be credited against the total period of service required of him under [section 651 of this title](./chapter-037-general-service-requirements.md#section-651) or under the Military Selective Service Act ([50 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) et seq.). However, no period may be credited more than once.
 
 **(b)** A person covered by subsection (a) shall perform the rest of his required term of service in the armed force in which he is so enlisted or in any other armed force in which he is later enlisted or appointed.
 
@@ -201,9 +205,11 @@ In subsection (b), the word “rest” is substituted for the words “remaining
 In subsection (c), the words “This section does not” are substituted for the words “Nothing in this section shall be construed”. The word “change” is substituted for the words “reduce, limit, or modify”. The words “which any person may undertake to perform” are omitted as surplusage.
 
 #### References in Text
-The Military Selective Service Act, referred to in subsec. (a), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under [section 451 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section451&num=0&edition=prelim), Appendix, and Tables.
+The Military Selective Service Act, referred to in subsec. (a), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under [section 3801 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328 substituted “([50 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) et seq.)” for “(50 U.S.C. App. 451 et seq.)” in two places.
+
 1994—Pub. L. 103–337 renumbered [section 512 of this title](./chapter-031-enlistments.md#section-512) as this section.
 
 1980—Subsec. (a). Pub. L. 96–513 substituted “the Military Selective Service Act (50 U.S.C. App. 451 et seq.)” for “sections 451–473 of title 50, appendix” wherever appearing.
@@ -229,6 +235,9 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 3259 and 8259 of this title, prior to repeal by Pub. L. 103–337, § 1662(b)(3).
 
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-12106"></a>
 ## § 12106. Army and Air Force Reserve: transfer to upon withdrawal as member of National Guard
@@ -242,6 +251,9 @@ Provisions similar to those in this section were contained in sections 3259 and 
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 3260 and 8260 of this title, prior to repeal by Pub. L. 103–337, § 1662(b)(3).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-12107"></a>
@@ -270,6 +282,9 @@ Provisions similar to those in this section were contained in sections 3260 and 
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 3261 and 8261 of this title, prior to repeal by Pub. L. 103–337, § 1662(b)(3).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-12108"></a>

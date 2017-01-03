@@ -9,7 +9,7 @@ source: >-
 <a id="section-2601"></a>
 ## § 2601. Regulations
 
-The Secretary of Labor shall prescribe such regulations as are necessary to carry out subchapter I of this chapter and this subchapter not later than 120 days after February 5, 1993.
+The Secretary of Labor shall prescribe such regulations as are necessary to carry out subchapter I and this subchapter not later than 120 days after February 5, 1993.
 
 
 <a id="section-2611"></a>
@@ -325,7 +325,7 @@ Subsec. (f). Pub. L. 110–181, § 585(a)(3)(D), designated existing provisions 
 ## § 2614. Certification
 **(a) In general** An employer may require that a request for leave under subparagraph (C) or (D) of paragraph (1) or paragraph (3) of [section 2612(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2612/a&num=0&edition=prelim) be supported by a certification issued by the health care provider of the eligible employee or of the son, daughter, spouse, or parent of the employee, or of the next of kin of an individual in the case of leave taken under such paragraph (3), as appropriate. The employee shall provide, in a timely manner, a copy of such certification to the employer.
 
-**(b) Sufficient certification** Certification provided under subsection (a) of this section shall be sufficient if it states—
+**(b) Sufficient certification** Certification provided under subsection (a) shall be sufficient if it states—
 
 (1) the date on which the serious health condition commenced;
 
@@ -347,15 +347,15 @@ Subsec. (f). Pub. L. 110–181, § 585(a)(3)(D), designated existing provisions 
 
 **(c) Second opinion**
 
-(1) **In general** — In any case in which the employer has reason to doubt the validity of the certification provided under subsection (a) of this section for leave under subparagraph (C) or (D) of [section 2612(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2612/a/1&num=0&edition=prelim), the employer may require, at the expense of the employer, that the eligible employee obtain the opinion of a second health care provider designated or approved by the employer concerning any information certified under subsection (b) of this section for such leave.
+(1) **In general** — In any case in which the employer has reason to doubt the validity of the certification provided under subsection (a) for leave under subparagraph (C) or (D) of [section 2612(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2612/a/1&num=0&edition=prelim), the employer may require, at the expense of the employer, that the eligible employee obtain the opinion of a second health care provider designated or approved by the employer concerning any information certified under subsection (b) for such leave.
 
 (2) **Limitation** — A health care provider designated or approved under paragraph (1) shall not be employed on a regular basis by the employer.
 
 **(d) Resolution of conflicting opinions**
 
-(1) **In general** — In any case in which the second opinion described in subsection (c) of this section differs from the opinion in the original certification provided under subsection (a) of this section, the employer may require, at the expense of the employer, that the employee obtain the opinion of a third health care provider designated or approved jointly by the employer and the employee concerning the information certified under subsection (b) of this section.
+(1) **In general** — In any case in which the second opinion described in subsection (c) differs from the opinion in the original certification provided under subsection (a), the employer may require, at the expense of the employer, that the employee obtain the opinion of a third health care provider designated or approved jointly by the employer and the employee concerning the information certified under subsection (b).
 
-(2) **Finality** — The opinion of the third health care provider concerning the information certified under subsection (b) of this section shall be considered to be final and shall be binding on the employer and the employee.
+(2) **Finality** — The opinion of the third health care provider concerning the information certified under subsection (b) shall be considered to be final and shall be binding on the employer and the employee.
 
 **(e) Subsequent recertification** The employer may require that the eligible employee obtain subsequent recertifications on a reasonable basis.
 
@@ -375,7 +375,7 @@ Subsec. (f). Pub. L. 110–181, § 585(a)(3)(E)(ii), added subsec. (f).
 ## § 2615. Employment and benefits protection
 **(a) Restoration to position**
 
-(1) **In general** — Except as provided in subsection (b) of this section, any eligible employee who takes leave under [section 2612 of this title](./chapter-028-family-and-medical-leave.md#section-2612) for the intended purpose of the leave shall be entitled, on return from such leave—
+(1) **In general** — Except as provided in subsection (b), any eligible employee who takes leave under [section 2612 of this title](./chapter-028-family-and-medical-leave.md#section-2612) for the intended purpose of the leave shall be entitled, on return from such leave—
 
   (A) to be restored by the employer to the position of employment held by the employee when the leave commenced; or
 
@@ -395,7 +395,7 @@ Subsec. (f). Pub. L. 110–181, § 585(a)(3)(E)(ii), added subsec. (f).
 
 **(b) Exemption concerning certain highly compensated employees**
 
-(1) **Denial of restoration** — An employer may deny restoration under subsection (a) of this section to any eligible employee described in paragraph (2) if—
+(1) **Denial of restoration** — An employer may deny restoration under subsection (a) to any eligible employee described in paragraph (2) if—
 
   (A) such denial is necessary to prevent substantial and grievous economic injury to the operations of the employer;
 
@@ -464,7 +464,7 @@ Subsec. (c)(3)(A)(iii). Pub. L. 110–181, § 585(a)(3)(F)(ii), added cl. (iii).
 
 <a id="section-2617"></a>
 ## § 2617. Investigative authority
-**(a) In general** To ensure compliance with the provisions of this subchapter, or any regulation or order issued under this subchapter, the Secretary shall have, subject to subsection (c) of this section, the investigative authority provided under [section 211(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section211/a&num=0&edition=prelim).
+**(a) In general** To ensure compliance with the provisions of this subchapter, or any regulation or order issued under this subchapter, the Secretary shall have, subject to subsection (c), the investigative authority provided under [section 211(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section211/a&num=0&edition=prelim).
 
 **(b) Obligation to keep and preserve records** Any employer shall make, keep, and preserve records pertaining to compliance with this subchapter in accordance with [section 211(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section211/c&num=0&edition=prelim) and in accordance with regulations issued by the Secretary.
 
@@ -503,16 +503,16 @@ Subsec. (c)(3)(A)(iii). Pub. L. 110–181, § 585(a)(3)(F)(ii), added cl. (iii).
 
 (4) **Limitations** — The right provided by paragraph (2) to bring an action by or on behalf of any employee shall terminate—
 
-  (A) on the filing of a complaint by the Secretary in an action under subsection (d) of this section in which restraint is sought of any further delay in the payment of the amount described in paragraph (1)(A) to such employee by an employer responsible under paragraph (1) for the payment; or
+  (A) on the filing of a complaint by the Secretary in an action under subsection (d) in which restraint is sought of any further delay in the payment of the amount described in paragraph (1)(A) to such employee by an employer responsible under paragraph (1) for the payment; or
 
-  (B) on the filing of a complaint by the Secretary in an action under subsection (b) of this section in which a recovery is sought of the damages described in paragraph (1)(A) owing to an eligible employee by an employer liable under paragraph (1),
+  (B) on the filing of a complaint by the Secretary in an action under subsection (b) in which a recovery is sought of the damages described in paragraph (1)(A) owing to an eligible employee by an employer liable under paragraph (1),
   unless the action described in subparagraph (A) or (B) is dismissed without prejudice on motion of the Secretary.
 
 **(b) Action by Secretary**
 
 (1) **Administrative action** — The Secretary shall receive, investigate, and attempt to resolve complaints of violations of [section 2615 of this title](./chapter-028-family-and-medical-leave.md#section-2615) in the same manner that the Secretary receives, investigates, and attempts to resolve complaints of violations of sections 206 and 207 of this title.
 
-(2) **Civil action** — The Secretary may bring an action in any court of competent jurisdiction to recover the damages described in subsection (a)(1)(A) of this section.
+(2) **Civil action** — The Secretary may bring an action in any court of competent jurisdiction to recover the damages described in subsection (a)(1)(A).
 
 (3) **Sums recovered** — Any sums recovered by the Secretary pursuant to paragraph (2) shall be held in a special deposit account and shall be paid, on order of the Secretary, directly to each employee affected. Any such sums not paid to an employee because of inability to do so within a period of 3 years shall be deposited into the Treasury of the United States as miscellaneous receipts.
 
@@ -607,6 +607,11 @@ The Individuals with Disabilities Education Act, referred to in subsec. (b), is 
 The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (a)(1)(A). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 2008—Subsecs. (c)(1), (d)(2), (3). Pub. L. 110–181 inserted “or under [section 2612(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2612/a/3&num=0&edition=prelim)” after “[section 2612(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2612/a/1&num=0&edition=prelim)”.
 
 2002—Subsec. (a)(1)(A). Pub. L. 107–110 substituted “[section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)” for “[section 8801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section8801&num=0&edition=prelim)”.
@@ -645,7 +650,7 @@ The Commission shall—
 
   (D) the impact of family and medical leave policies on the availability of employee benefits provided by employers, including employers not covered under this Act;
 
-  (E) alternate and equivalent State enforcement of subchapter I of this chapter with respect to employees described in [section 2618(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2618/a&num=0&edition=prelim);
+  (E) alternate and equivalent State enforcement of subchapter I with respect to employees described in [section 2618(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2618/a&num=0&edition=prelim);
 
   (F) methods used by employers to reduce administrative costs of implementing family and medical leave policies;
 

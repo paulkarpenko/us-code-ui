@@ -162,7 +162,7 @@ This Act, and the amendments made by this Act, referred to in text, is Pub. L. 1
 
   (C) the implementation roadmap under subparagraph (D), and its annual updates, which shall be appended to the annual report required under [section 5511(a)(2)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5511/a/2/D&num=0&edition=prelim).
 
-(4) **Definition of applicable agencies and departments** — In this subsection, the term “applicable agencies and departments” means the agencies and departments identified in clauses (i) through (x) of [section 5511(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5511/a/3/B&num=0&edition=prelim) or designated under clause (xi) of that section.
+(4) **Definition of applicable agencies and departments** — In this subsection, the term “applicable agencies and departments” means the agencies and departments identified in clauses (i) through (xi) of section 5511(a)(3)(B) 11 See References in Text note below. of this title or designated under clause (xii) of that section.
 
 **(b) Cybersecurity practices research** The Director of the National Science Foundation shall support research that—
 
@@ -202,12 +202,18 @@ This Act, and the amendments made by this Act, referred to in text, is Pub. L. 1
 
 **(e) Omitted**
 
-**(f) Research on the science of cybersecurity** The head of each agency and department identified under [section 5511(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5511/a/3/B&num=0&edition=prelim), through existing programs and activities, shall support research that will lead to the development of a scientific foundation for the field of cybersecurity, including research that increases understanding of the underlying principles of securing complex networked systems, enables repeatable experimentation, and creates quantifiable security metrics.
+**(f) Research on the science of cybersecurity** The head of each agency and department identified under section 5511(a)(3)(B) 1 of this title, through existing programs and activities, shall support research that will lead to the development of a scientific foundation for the field of cybersecurity, including research that increases understanding of the underlying principles of securing complex networked systems, enables repeatable experimentation, and creates quantifiable security metrics.
 
 ### Statutory Notes
 
+#### References in Text
+[Section 5511(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5511/a/3/B&num=0&edition=prelim), referred to in subsecs. (a)(4) and (f), was redesignated [section 5511(a)(3)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5511/a/3/C&num=0&edition=prelim) by Pub. L. 114–329, title I, § 105(f)(2)(D)(i), Jan. 6, 2017, 130 Stat. 2979.
+
 #### Codification
 Section is comprised of section 201 of Pub. L. 113–274. Subsec. (e) of section 201 of Pub. L. 113–274 amended [section 7403 of this title](./chapter-100-cyber-security-research-and-development.md#section-7403).
+
+#### Amendments
+2017—Subsec. (a)(4). Pub. L. 114–329 substituted “clauses (i) through (xi)” for “clauses (i) through (x)” and “under clause (xii)” for “under clause (xi)”.
 
 
 <a id="section-7461"></a>
@@ -377,7 +383,7 @@ Section is comprised of section 201 of Pub. L. 113–274. Subsec. (e) of section
 ### Statutory Notes
 
 #### References in Text
-The Higher Education Act of 1965, referred to in subsec. (j)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part D of title IV of the Act is classified to part C (§ 1087a et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (j)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part D of title IV of the Act is classified to part D (§ 1087a et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 
 <a id="section-7463"></a>

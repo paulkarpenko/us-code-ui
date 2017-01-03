@@ -482,7 +482,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (10) Section 3(a) of the Arts and Artifacts Indemnity Act ([20 U.S.C. 972(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section972/a&num=0&edition=prelim));
 
-(11) Section 7 of the Act of June 15, 1951, c. 138, 65 Stat. 71 (50 U.S.C. App. 2316);
+(11) Section 7 of the Act of June 15, 1951, c. 138, 65 Stat. 71 ([former] 50 U.S.C. App. 2316);
 
 (12) Section 9(b) of the National Foundation on the Arts and Humanities Act of 1965 ([20 U.S.C. 958(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section958/b&num=0&edition=prelim)), to the extent that such functions are vested in the Secretary of State;
 
@@ -490,7 +490,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (14) Section 3(b)(1) of the Woodrow Wilson Memorial Act of 1968 ([20 U.S.C. 80f(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section80f/b/1&num=0&edition=prelim));
 
-(15) Section 201 of Public Law 89–665, as amended by section 201(5) of Public Law 94–422 ([16 U.S.C. 470i(a)(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470i/a/9&num=0&edition=prelim)) [see [54 U.S.C. 304101(a)(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section304101/a/9&num=0&edition=prelim)];
+(15) Section 201 of Public Law 89–665, as amended by section 201(5) of Public Law 94–422 ([former] [16 U.S.C. 470i(a)(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470i/a/9&num=0&edition=prelim));
 
 (16) The third proviso in the twenty-third unnumbered paragraph of title V of Public Law 95–86 (headed “UNITED STATES INFORMATION AGENCY, SALARIES AND EXPENSES”), 91 Stat. 440–41 [Aug. 2, 1977];
 
@@ -1055,6 +1055,9 @@ Pub. L. 105–277, § 1324(3), which directed the substitution of “the Broadca
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
+
+#### Prohibitions
+Pub. L. 114–323, title VII, § 703(b), Dec. 16, 2016, 130 Stat. 1941, provided that: “(1) In general.—Notwithstanding any other provision of law, any change to the Federal status of—“(A) the Cuba Service established pursuant to section 4 of the Radio Broadcasting to Cuba Act ([22 U.S.C. 1465b](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465b); Public Law 98–111) is prohibited unless such section is explicitly repealed and such service is dissolved by an Act of Congress enacted on or after the date of the enactment of this Act [Dec. 16, 2016]; and “(B) the Television Marti Service established by section 244(a) of Television Broadcasting to Cuba Act ([22 U.S.C. 1465cc](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465cc); Public Law 101–246) is prohibited unless such section is explicitly repealed and such service is dissolved by an Act of Congress enacted on or after the date of the enactment of this Act. “(2) Definition.—In this subsection, the term ‘change to the Federal status’, with respect to a service referred to in subparagraph (A) or (B) of paragraph (1), includes any significant restructuring, privatization, subordination to a private or private-public entity, or merger with a private or public-private entity of such service.”
 
 
 <a id="section-1465bb"></a>

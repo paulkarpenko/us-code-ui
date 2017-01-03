@@ -301,7 +301,7 @@ A prior section 5 of act of June 20, 1936, which was classified to [section 107d
 
 <a id="section-107d-2"></a>
 ## § 107d–2. Arbitration
-**(a) Notice and hearing** Upon receipt of a complaint filed under [section 107d–1 of this title](./chapter-6a-vending-facilities-for-blind-in-federal-buildings.md#section-107d-1), the Secretary shall convene an ad hoc arbitration panel as provided in subsection (b) of this section. Such panel shall, in accordance with the provisions of subchapter II of chapter 5 of title 5, give notice, conduct a hearing, and render its decision which shall be subject to appeal and review as a final agency action for purposes of chapter 7 of such title 5.
+**(a) Notice and hearing** Upon receipt of a complaint filed under [section 107d–1 of this title](./chapter-6a-vending-facilities-for-blind-in-federal-buildings.md#section-107d-1), the Secretary shall convene an ad hoc arbitration panel as provided in subsection (b). Such panel shall, in accordance with the provisions of subchapter II of chapter 5 of title 5, give notice, conduct a hearing, and render its decision which shall be subject to appeal and review as a final agency action for purposes of chapter 7 of such title 5.
 
 **(b) Composition of panel; designation of chairman; termination of violations**
 

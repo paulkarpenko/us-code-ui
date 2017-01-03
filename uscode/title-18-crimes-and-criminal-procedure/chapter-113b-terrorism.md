@@ -339,7 +339,7 @@ Section, added Pub. L. 104–132, title V, § 521(a), Apr. 24, 1996, 110 Stat. 1
 
 <a id="section-2332d"></a>
 ## § 2332d. Financial transactions
-**(a) Offense.—** Except as provided in regulations issued by the Secretary of the Treasury, in consultation with the Secretary of State, whoever, being a United States person, knowing or having reasonable cause to know that a country is designated under section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405) as a country supporting international terrorism, engages in a financial transaction with the government of that country, shall be fined under this title, imprisoned for not more than 10 years, or both.
+**(a) Offense.—** Except as provided in regulations issued by the Secretary of the Treasury, in consultation with the Secretary of State, whoever, being a United States person, knowing or having reasonable cause to know that a country is designated under section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405) 11 See References in Text note below. as a country supporting international terrorism, engages in a financial transaction with the government of that country, shall be fined under this title, imprisoned for not more than 10 years, or both.
 
 **(b) Definitions.—** As used in this section—
 
@@ -357,6 +357,9 @@ Section, added Pub. L. 104–132, title V, § 521(a), Apr. 24, 1996, 110 Stat. 1
 
 ### Statutory Notes
 
+#### References in Text
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (a), was classified to section 2405(j) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 4605(j) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim).
+
 #### Codification
 Another section 2332d was renumbered [section 2332e of this title](./chapter-113b-terrorism.md#section-2332e).
 
@@ -370,9 +373,12 @@ Pub. L. 104–132, title III, § 321(c), Apr. 24, 1996, 110 Stat. 1254, provided
 <a id="section-2332e"></a>
 ## § 2332e. Requests for military assistance to enforce prohibition in certain emergencies
 
-The Attorney General may request the Secretary of Defense to provide assistance under [section 382 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section382&num=0&edition=prelim) in support of Department of Justice activities relating to the enforcement of [section 2332a of this title](./chapter-113b-terrorism.md#section-2332a) during an emergency situation involving a weapon of mass destruction. The authority to make such a request may be exercised by another official of the Department of Justice in accordance with [section 382(f)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section382/f/2&num=0&edition=prelim).
+The Attorney General may request the Secretary of Defense to provide assistance under [section 382 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section382&num=0&edition=prelim) 11 See References in Text note below. in support of Department of Justice activities relating to the enforcement of [section 2332a of this title](./chapter-113b-terrorism.md#section-2332a) during an emergency situation involving a weapon of mass destruction. The authority to make such a request may be exercised by another official of the Department of Justice in accordance with [section 382(f)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section382/f/2&num=0&edition=prelim).1
 
 ### Statutory Notes
+
+#### References in Text
+[Section 382 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section382&num=0&edition=prelim), referred to in text, was renumbered [section 282 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section282&num=0&edition=prelim), Armed Forces, by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
 #### Codification
 Pub. L. 104–201, § 1416(c)(2)(A), which directed amendment of the chapter 133B of this title that relates to terrorism by adding this section, was executed by adding this section to this chapter to reflect the probable intent of Congress. This title does not contain a chapter 133B.
@@ -625,7 +631,7 @@ Pub. L. 107–197, title I, § 102(c), June 25, 2002, 116 Stat. 724, provided th
 
   (B) any radioactive material dispersal or radiation-emitting device that may, owing to its radiological properties, cause death, serious bodily injury or substantial damage to property or the environment;
 
-(3) “international organization” has the meaning given that term in [section 831(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section831/f/3&num=0&edition=prelim); 11 See References in Text note below.
+(3) “international organization” has the meaning given that term in section 831(f)(3) 11 See References in Text note below. of this title;
 
 (4) “military forces of a state” means the armed forces of a country that are organized, trained and equipped under its internal law for the primary purpose of national defense or security and persons acting in support of those armed forces who are under their formal command, control and responsibility;
 
@@ -639,11 +645,11 @@ Pub. L. 107–197, title I, § 102(c), June 25, 2002, 116 Stat. 724, provided th
 
   (C) a facility (including associated buildings and equipment) in which nuclear material is produced, processed, used, handled, stored or disposed of, if damage to or interference with such facility could lead to the release of significant amounts of radiation or radioactive material;
 
-(7) “nuclear material” has the meaning given that term in [section 831(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section831/f/1&num=0&edition=prelim); 1
+(7) “nuclear material” has the meaning given that term in section 831(f)(1) 1 of this title;
 
 (8) “radioactive material” means nuclear material and other radioactive substances that contain nuclides that undergo spontaneous disintegration (a process accompanied by emission of one or more types of ionizing radiation, such as alpha-, beta-, neutron particles and gamma rays) and that may, owing to their radiological or fissile properties, cause death, serious bodily injury or substantial damage to property or to the environment;
 
-(9) “serious bodily injury” has the meaning given that term in [section 831(f)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section831/f/4&num=0&edition=prelim); 1
+(9) “serious bodily injury” has the meaning given that term in section 831(f)(4) 1 of this title;
 
 (10) “state” has the same meaning as that term has under international law, and includes all political subdivisions thereof;
 
@@ -671,13 +677,33 @@ Pub. L. 107–197, title I, § 102(c), June 25, 2002, 116 Stat. 724, provided th
 
 **(c) Estoppel Under Foreign Law.—** A final judgment or decree rendered in favor of any foreign state in any criminal proceeding shall, to the extent that such judgment or decree may be accorded full faith and credit under the law of the United States, estop the defendant from denying the essential allegations of the criminal offense in any subsequent civil proceeding under this section.
 
+**(d) Liability.—**
+
+(1) **Definition.—** — In this subsection, the term “person” has the meaning given the term in [section 1 of title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section1&num=0&edition=prelim).
+
+(2) **Liability.—** — In an action under subsection (a) for an injury arising from an act of international terrorism committed, planned, or authorized by an organization that had been designated as a foreign terrorist organization under section 219 of the Immigration and Nationality Act ([8 U.S.C. 1189](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1189&num=0&edition=prelim)), as of the date on which such act of international terrorism was committed, planned, or authorized, liability may be asserted as to any person who aids and abets, by knowingly providing substantial assistance, or who conspires with the person who committed such an act of international terrorism.
+
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (d). Pub. L. 114–222 added subsec. (d).
+
 1994—Subsec. (b). Pub. L. 103–429 substituted “section 46314, 46502, 46505, or 46506 of title 49” for “section 902(i), (k), (l), (n), or (r) of the Federal Aviation Act of 1958 (49 U.S.C. App. 1472(i), (k), (l), (n), or (r))”.
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–222, § 7, Sept. 28, 2016, 130 Stat. 855, provided that: “The amendments made by this Act [enacting [section 1605B of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605B&num=0&edition=prelim), Judiciary and Judicial Procedure, and amending this section and [section 1605 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605&num=0&edition=prelim)] shall apply to any civil action— “(1) pending on, or commenced on or after, the date of enactment of this Act [Sept. 28, 2016]; and “(2) arising out of an injury to a person, property, or business on or after September 11, 2001.”
 
 #### Effective Date
 Section applicable to any pending case or any cause of action arising on or after 4 years before Oct. 29, 1992, see section 1003(c) of Pub. L. 102–572, set out as a note under [section 2331 of this title](./chapter-113b-terrorism.md#section-2331).
+
+#### Severability
+Pub. L. 114–222, § 6, Sept. 28, 2016, 130 Stat. 855, provided that: “If any provision of this Act [enacting [section 1605B of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605B&num=0&edition=prelim), Judiciary and Judicial Procedure, amending this section and [section 1605 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605&num=0&edition=prelim), and enacting provisions set out as notes under this section, [section 1 of this title](./chapter-001-general-provisions.md#section-1), and [section 1605B of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605B&num=0&edition=prelim)] or any amendment made by this Act, or the application of a provision or amendment to any person or circumstance, is held to be invalid, the remainder of this Act and the amendments made by this Act, and the application of the provisions and amendments to any other person not similarly situated or to other circumstances, shall not be affected by the holding.”
+
+#### Findings and Purpose
+Pub. L. 114–222, § 2, Sept. 28, 2016, 130 Stat. 852, provided that: “(a) Findings.—Congress finds the following:“(1) International terrorism is a serious and deadly problem that threatens the vital interests of the United States. “(2) International terrorism affects the interstate and foreign commerce of the United States by harming international trade and market stability, and limiting international travel by United States citizens as well as foreign visitors to the United States. “(3) Some foreign terrorist organizations, acting through affiliated groups or individuals, raise significant funds outside of the United States for conduct directed and targeted at the United States. “(4) It is necessary to recognize the substantive causes of action for aiding and abetting and conspiracy liability under chapter 113B of title 18, United States Code. “(5) The decision of the United States Court of Appeals for the District of Columbia in Halberstam v. Welch, 705 F.2d 472 (D.C. Cir. 1983), which has been widely recognized as the leading case regarding Federal civil aiding and abetting and conspiracy liability, including by the Supreme Court of the United States, provides the proper legal framework for how such liability should function in the context of chapter 113B of title 18, United States Code. “(6) Persons, entities, or countries that knowingly or recklessly contribute material support or resources, directly or indirectly, to persons or organizations that pose a significant risk of committing acts of terrorism that threaten the security of nationals of the United States or the national security, foreign policy, or economy of the United States, necessarily direct their conduct at the United States, and should reasonably anticipate being brought to court in the United States to answer for such activities. “(7) The United States has a vital interest in providing persons and entities injured as a result of terrorist attacks committed within the United States with full access to the court system in order to pursue civil claims against persons, entities, or countries that have knowingly or recklessly provided material support or resources, directly or indirectly, to the persons or organizations responsible for their injuries. “(b) Purpose.—The purpose of this Act [enacting [section 1605B of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605B&num=0&edition=prelim), Judiciary and Judicial Procedure, amending this section and [section 1605 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605&num=0&edition=prelim), and enacting provisions set out as notes under this section, [section 1 of this title](./chapter-001-general-provisions.md#section-1), and [section 1605B of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605B&num=0&edition=prelim)] is to provide civil litigants with the broadest possible basis, consistent with the Constitution of the United States, to seek relief against persons, entities, and foreign countries, wherever acting and wherever they may be found, that have provided material support, directly or indirectly, to foreign organizations or persons that engage in terrorist activities against the United States.”
+
+#### Effect on Foreign Sovereign Immunities Act
+Pub. L. 114–222, § 4(b), Sept. 28, 2016, 130 Stat. 854, provided that: “Nothing in the amendment made by this section [amending this section] affects immunity of a foreign state, as that term is defined in [section 1603 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1603&num=0&edition=prelim), United States Code, from jurisdiction under other law.”
 
 #### Special Rule Relating to Certain Acts of International Terrorism
 Pub. L. 112–239, div. A, title XII, § 1251(c), Jan. 2, 2013, 126 Stat. 2017, provided that: “Notwithstanding [section 2335 of title 18](./chapter-113b-terrorism.md#section-2335), United States Code, as amended by subsection (a), a civil action under section 2333 of such title resulting from an act of international terrorism that occurred on or after September 11, 2001, and before the date that is 4 years before the date of the enactment of this Act [Jan. 2, 2013], may be maintained if the civil action is commenced during the 6-year period beginning on such date of enactment.”

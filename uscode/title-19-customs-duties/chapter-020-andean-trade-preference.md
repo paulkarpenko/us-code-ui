@@ -39,7 +39,7 @@ Pub. L. 107–210, div. C, title XXXI, § 3102, Aug. 6, 2002, 116 Stat. 1023, pr
 ## § 3202. Beneficiary country
 **(a) Definitions** For purposes of this chapter—
 
-(1) The term “beneficiary country” means any country listed in subsection (b)(1) of this section with respect to which there is in effect a proclamation by the President designating such country as a beneficiary country for purposes of this chapter.
+(1) The term “beneficiary country” means any country listed in subsection (b)(1) with respect to which there is in effect a proclamation by the President designating such country as a beneficiary country for purposes of this chapter.
 
 (2) The term “entered” means entered, or withdrawn from warehouse for consumption, in the customs territory of the United States.
 
@@ -154,7 +154,7 @@ Paragraphs (1), (2), (3), (5), and (7) shall not prevent the designation of any 
 
 (1) **In general** — Not later than June 30, 2010, and annually thereafter during the period this chapter is in effect, the United States Trade Representative shall submit to the Congress a report regarding the operation of this chapter, including—
 
-  (A) with respect to subsections (c) and (d) of this section, the results of a general review of beneficiary countries based on the considerations described in such subsections; and
+  (A) with respect to subsections (c) and (d), the results of a general review of beneficiary countries based on the considerations described in such subsections; and
 
   (B) the performance of each beneficiary country or ATPEA 22 So in original. Probably should be “ATPDEA”. beneficiary country, as the case may be, under the criteria set forth in [section 3203(b)(6)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3203/b/6/B&num=0&edition=prelim).
 
@@ -615,7 +615,7 @@ Amendment by section 5005(b) of Pub. L. 109–432 applicable to articles entered
 Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States [Jan. 1, 1995], except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under [section 3601 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3601).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Delegation of Authority
 For delegation of functions of President under div. C of Pub. L. 107–210, amending this section, see section 2 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under [section 3801 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3801).
@@ -685,7 +685,7 @@ Proc. No. 8323, Nov. 25, 2008, 73 F.R. 72679, provided in par. (4) that the desi
 
 **(b) Report requirements**
 
-(1) Each report required under subsection (a) of this section shall include, but not be limited to, an assessment by the Commission regarding—
+(1) Each report required under subsection (a) shall include, but not be limited to, an assessment by the Commission regarding—
 
   (A) the actual effect, during the period covered by the report, of this chapter on the United States economy generally as well as on those specific domestic industries which produce articles that are like, or directly competitive with, articles being imported into the United States from beneficiary countries;
 
@@ -701,7 +701,7 @@ Proc. No. 8323, Nov. 25, 2008, 73 F.R. 72679, provided in par. (4) that the desi
 
 **(c) Submission dates; public comment**
 
-(1) Each report required under subsection (a) of this section shall be submitted to the Congress before the close of the 9-month period beginning on the day after the last day of the period covered by the report.
+(1) Each report required under subsection (a) shall be submitted to the Congress before the close of the 9-month period beginning on the day after the last day of the period covered by the report.
 
 (2) The Commission shall provide an opportunity for the submission by the public, either orally or in writing, or both, of information relating to matters that will be addressed in the reports.
 
@@ -780,4 +780,4 @@ Amendment by Pub. L. 112–42 applicable to articles entered on or after the 15t
 #### Retroactive Application for Certain Liquidations and Reliquidations
 Pub. L. 107–210, div. C, title XXXI, § 3104(b), Aug. 6, 2002, 116 Stat. 1034, provided that: “(1) In general.—Notwithstanding section 514 of the Tariff Act of 1930 [[19 U.S.C. 1514](./chapter-004-tariff-act-of-1930.md#section-1514)] or any other provision of law, and subject to paragraph (3), the entry—“(A) of any article to which duty-free treatment (or preferential treatment) under the Andean Trade Preference Act ([19 U.S.C. 3201](./chapter-020-andean-trade-preference.md#section-3201) et seq.) would have applied if the entry had been made on December 4, 2001, and “(B) that was made after December 4, 2001, and before the date of the enactment of this Act [Aug. 6, 2002], shall be liquidated or reliquidated as if such duty-free treatment (or preferential treatment) applied, and the Secretary of the Treasury shall refund any duty paid with respect to such entry. “(2) Entry.—As used in this subsection, the term ‘entry’ includes a withdrawal from warehouse for consumption. “(3) Requests.—Liquidation or reliquidation may be made under paragraph (1) with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date of the enactment of this Act, that contains sufficient information to enable the Customs Service—“(A) to locate the entry; or “(B) to reconstruct the entry if it cannot be located.”
 
-[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).]
+[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).]

@@ -56,7 +56,7 @@ Pub. L. 103–412, § 1(a), Oct. 25, 1994, 108 Stat. 4239, provided that: “Thi
 
 (5) the ending balance.
 
-**(c) Annual audit** The Secretary shall cause to be conducted an annual audit on a fiscal year basis of all funds held in trust by the United States for the benefit of an Indian tribe or an individual Indian which are deposited or invested pursuant to [section 162a of this title](./chapter-004-performance-by-united-states-of-obligations-to-indians.md#section-162a), and shall include a letter relating to the audit in the first statement of performance provided under subsection (b) of this section after the completion of the audit.
+**(c) Annual audit** The Secretary shall cause to be conducted an annual audit on a fiscal year basis of all funds held in trust by the United States for the benefit of an Indian tribe or an individual Indian which are deposited or invested pursuant to [section 162a of this title](./chapter-004-performance-by-united-states-of-obligations-to-indians.md#section-162a), and shall include a letter relating to the audit in the first statement of performance provided under subsection (b) after the completion of the audit.
 
 ### Statutory Notes
 
@@ -299,7 +299,7 @@ The Minerals Management Service was abolished and functions divided among the Of
 
 **(e) Special Trustee access** The Special Trustee, and his staff, shall have access to all records, reports, audits, reviews, documents, papers, recommendations, files and other material, as well as to any officer and employee, of the Department and any office or bureau thereof, as the Special Trustee deems necessary for the accomplishment of his duties under this chapter.
 
-**(f) Annual report** The Special Trustee shall report to the Secretary and the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate each year on the progress of the Department, the Bureau, the Bureau of Land Management, and the Minerals Management Service in implementing the reforms identified in the comprehensive strategic plan under subsection (a)(1) of this section and in meeting the timetable established in the strategic plan under subsection (a)(2)(C) of this section.
+**(f) Annual report** The Special Trustee shall report to the Secretary and the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate each year on the progress of the Department, the Bureau, the Bureau of Land Management, and the Minerals Management Service in implementing the reforms identified in the comprehensive strategic plan under subsection (a)(1) and in meeting the timetable established in the strategic plan under subsection (a)(2)(C).
 
 ### Statutory Notes
 

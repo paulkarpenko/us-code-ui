@@ -55,14 +55,14 @@ source: >-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100901(a) | [16 U.S.C. 1a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2&num=0&edition=prelim) (matter before (a)) | Pub. L. 91–383, § 3 (matter before (a)), Aug. 18, 1970, 84 Stat. 826. |
-|  | [16 U.S.C. 1b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1b&num=0&edition=prelim) (matter before (1)) | Aug. 8, 1953, ch. 384, § 1 (matter before (1)), (2), (5) through (8), 67 Stat. 495, 496; Pub. L. 91–383, § 2(a), Aug. 18, 1970, 84 Stat. 826. |
-| 100901(b) | [16 U.S.C. 1a–2(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/e&num=0&edition=prelim) | Pub. L. 91–383, § 3(e), Aug. 18, 1970, 84 Stat. 827; Pub. L. 94–458, § 1(1), Oct. 7, 1976, 90 Stat. 1939; Pub. L. 106–176, title I, § 118(2), (3), Mar. 10, 2000, 114 Stat. 28. |
-| 100901(c) | [16 U.S.C. 1a–2(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/f&num=0&edition=prelim) | Pub. L. 91–383, § 3(f), Aug. 18, 1970, 84 Stat. 827; Pub. L. 106–176, title I, § 118(2), (3), Mar. 10, 2000, 114 Stat. 28. |
-| 100901(d) | [16 U.S.C. 1b(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1b/2&num=0&edition=prelim) |  |
-| 100901(e) through (h) | [16 U.S.C. 1b(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1b/5&num=0&edition=prelim) through (8) |  |
+| 100901(a) | [16 U.S.C. 1a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2&num=0&edition=prelim) (matter before (a)). | Pub. L. 91–383, § 3 (matter before (a)), Aug. 18, 1970, 84 Stat. 826. |
+|  | [16 U.S.C. 1b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1b&num=0&edition=prelim) (matter before (1)). | Aug. 8, 1953, ch. 384, § 1 (matter before (1)), (2), (5) through (8), 67 Stat. 495, 496; Pub. L. 91–383, § 2(a), Aug. 18, 1970, 84 Stat. 826. |
+| 100901(b) | [16 U.S.C. 1a–2(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/e&num=0&edition=prelim). | Pub. L. 91–383, § 3(e), Aug. 18, 1970, 84 Stat. 827; Pub. L. 94–458, § 1(1), Oct. 7, 1976, 90 Stat. 1939; Pub. L. 106–176, title I, § 118(2), (3), Mar. 10, 2000, 114 Stat. 28. |
+| 100901(c) | [16 U.S.C. 1a–2(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/f&num=0&edition=prelim). | Pub. L. 91–383, § 3(f), Aug. 18, 1970, 84 Stat. 827; Pub. L. 106–176, title I, § 118(2), (3), Mar. 10, 2000, 114 Stat. 28. |
+| 100901(d) | [16 U.S.C. 1b(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1b/2&num=0&edition=prelim). |  |
+| 100901(e) through (h) | [16 U.S.C. 1b(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1b/5&num=0&edition=prelim) through (8). |  |
 
-In subsection (a), the words “and he may use applicable appropriations for the aforesaid system for the following purposes” in [16 U.S.C. 1b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1b&num=0&edition=prelim) (matter before (1)) are omitted as unnecessary
+In subsection (a), the words “and he may use applicable appropriations for the aforesaid system for the following purposes” in [16 U.S.C. 1b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1b&num=0&edition=prelim) (matter before (1)) are omitted as unnecessary.
 
 
 <a id="section-100902"></a>
@@ -126,8 +126,8 @@ In subsection (a), the words “and he may use applicable appropriations for the
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100902(a) | [16 U.S.C. 79](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section79&num=0&edition=prelim) | Feb. 15, 1901, ch.372 (relating to System units), 31 Stat. 790. |
-| 100902(b) | [16 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5&num=0&edition=prelim) | Mar. 4, 1911, ch. 238 (4th and last paragraphs (relating to System units) under heading “Improvement of the National Forest” under heading “Forest Service”), 36 Stat. 1253; May 27, 1952, ch. 338, 66 Stat. 95. |
+| 100902(a) | [16 U.S.C. 79](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section79&num=0&edition=prelim). | Feb. 15, 1901, ch.372 (relating to System units), 31 Stat. 790. |
+| 100902(b) | [16 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5&num=0&edition=prelim). | Mar. 4, 1911, ch. 238 (4th and last paragraphs (relating to System units) under heading “Improvement of the National Forest” under heading “Forest Service”), 36 Stat. 1253; May 27, 1952, ch. 338, 66 Stat. 95. |
 
 In subsection (a), the text of [16 U.S.C. 79](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section79&num=0&edition=prelim) (2d proviso) is omitted as obsolete because title 65 of the Revised States of the United States was repealed by section 1 of the Act of July 16, 1947 (ch. 256, 61 Stat. 327).
 
@@ -137,12 +137,12 @@ The inclusion of paragraphs (4) and (5) of subsection (a) do not have any effect
 
 In subsection (a)(4), the words “or his successor in his discretion” are omitted as unnecessary.
 
-In subsection (b), the text of [16 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5&num=0&edition=prelim) (last paragraph) is omitted as obsolete. The word “Secretary” is substituted for “the head of the department having jurisdiction over the lands” and “chief officer of the department under whose supervision or control such reservation falls” because the portion of the Act of March 4, 1911 (ch. 238, 36 Stat. 1253) classified to [16 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5&num=0&edition=prelim) relates only to System units
+In subsection (b), the text of [16 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5&num=0&edition=prelim) (last paragraph) is omitted as obsolete. The word “Secretary” is substituted for “the head of the department having jurisdiction over the lands” and “chief officer of the department under whose supervision or control such reservation falls” because the portion of the Act of March 4, 1911 (ch. 238, 36 Stat. 1253) classified to [16 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5&num=0&edition=prelim) relates only to System units.
 
 
 <a id="section-100903"></a>
 ## § 100903. Solid waste disposal operations
-**(a) In General 11 So in original. Probably should be followed by a period.—** To protect the air, land, water, and natural and cultural values of the System and the property of the United States in the System, no solid waste disposal site (including any site for the disposal of domestic or industrial solid waste) may be operated within the boundary of any System unit, other than—
+**(a) In General 11 So in original. A period probably should appear. —** To protect the air, land, water, and natural and cultural values of the System and the property of the United States in the System, no solid waste disposal site (including any site for the disposal of domestic or industrial solid waste) may be operated within the boundary of any System unit, other than—
 
 (1) a site that was operating as of September 1, 1984; or
 
@@ -155,7 +155,7 @@ In subsection (b), the text of [16 U.S.C. 5](https://uscode.house.gov/view.xhtml
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100903 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–22(c) | Pub. L. 90–401, § 5(c), as added Pub. L. 98–506, § 2, Oct. 19, 1984, 98 Stat. 2338. |
+| 100903 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–22(c). | Pub. L. 90–401, § 5(c), as added Pub. L. 98–506, § 2, Oct. 19, 1984, 98 Stat. 2338. |
 
 
 <a id="section-100904"></a>
@@ -229,9 +229,9 @@ In subsection (b), the text of [16 U.S.C. 5](https://uscode.house.gov/view.xhtml
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100904(a) | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–6a(i)(1)(C) | Pub. L. 88–578, title I, § 4(i)(1)(C), as added Pub. L. 105–327, § 1, Oct. 30, 1998, 112 Stat. 3055; Pub. L. 108–447, div. J, title VIII, § 813(a), Dec. 8, 2004, 118 Stat. 3390, as amended Pub. L. 109–54, title I, § 132, Aug. 2, 2005, 119 Stat. 526. |
-| 100904(b) through (e) | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–6a(j) through (m) | Pub. L. 88–578, title I, § 4(j) through (m), as added Pub. L. 100–203, title V, § 5201(c), Dec. 22, 1987, 101 Stat. 1330–265. |
-| 100904(f) | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–6a(n) | Pub. L. 88–578, title I, § 4(n), as added Pub. L. 103–66, title X, § 10002(c), Aug. 10, 1993, 107 Stat. 404. |
+| 100904(a) | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–6a(i)(1)(C). | Pub. L. 88–578, title I, § 4(i)(1)(C), as added Pub. L. 105–327, § 1, Oct. 30, 1998, 112 Stat. 3055; Pub. L. 108–447, div. J, title VIII, § 813(a), Dec. 8, 2004, 118 Stat. 3390, as amended Pub. L. 109–54, title I, § 132, Aug. 2, 2005, 119 Stat. 526. |
+| 100904(b) through (e) | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–6a(j) through (m). | Pub. L. 88–578, title I, § 4(j) through (m), as added Pub. L. 100–203, title V, § 5201(c), Dec. 22, 1987, 101 Stat. 1330–265. |
+| 100904(f) | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–6a(n). | Pub. L. 88–578, title I, § 4(n), as added Pub. L. 103–66, title X, § 10002(c), Aug. 10, 1993, 107 Stat. 404. |
 
 In subsection (c), the word “Secretary” is substituted for “head of the collecting agency”, “head of the agency”, “collecting agency”, and “agency”, and the words “System units” are substituted for “designated areas” and “areas”, because the source provisions apply only to the National Park Service.
 
@@ -243,8 +243,11 @@ In subsection (f)(1), the words “by October 1, 1993” are omitted as obsolete
 
 In subsection (f)(4)(B), the words “subchapter II of chapter 1019 of this title” are substituted for “the Act of October 9, 1965 ([16 U.S.C. 20–20g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section20–20g&num=0&edition=prelim)) entitled ‘An Act relating to the establishment of concession policies in the areas administered by the National Park Service and for other purposes’ ” because section 415 of the National Park Service Concessions Management Improvement Act of 1998 (Public Law 105–391, 112 Stat. 3515) repealed the Act of October 9, 1965, which was classified as [16 U.S.C. 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section20&num=0&edition=prelim) to 20g, and enacted similar provisions, which are restated as subchapter II of chapter 1019 of the new title.
 
+#### References in Text
+Section 107 of the Department of the Interior and Related Agencies Appropriations Act, 1998, referred to in subsec. (a)(1), is section 107 of Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1561, which was set out as a note under former section 460l–6a of Title 16, Conservation.
+
 #### Construction
-Pub. L. 109–54, title I, § 132(c), Aug. 2, 2005, 119 Stat. 526, provided that: “Except as provided in this section [amending [section 6812 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6812&num=0&edition=prelim), Conservation, and enacting provisions set out as a note under [section 6812 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6812&num=0&edition=prelim)], section 4(i)(1)(C) of the Land and Water Conservation Fund Act of 1965 ([former] [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–6a(i)(1)(C)) [see [54 U.S.C. 100904(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100904/a&num=0&edition=prelim)] shall be applied and administered as if section 813(a) of the Federal Lands Recreation Enhancement Act ([16 U.S.C. 6812(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6812/a&num=0&edition=prelim)) (and the amendments made by that section [Pub. L. 108–447, amending this section]) had not been enacted.”
+Pub. L. 109–54, title I, § 132(c), Aug. 2, 2005, 119 Stat. 526, provided that: “Except as provided in this section [amending former section 460l–6a and [section 6812 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6812&num=0&edition=prelim), Conservation, and enacting provisions set out as a note under [section 6812 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6812&num=0&edition=prelim)], section 4(i)(1)(C) of the Land and Water Conservation Fund Act of 1965 ([former] [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–6a(i)(1)(C)) [see [54 U.S.C. 100904(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100904/a&num=0&edition=prelim)] shall be applied and administered as if section 813(a) of the Federal Lands Recreation Enhancement Act ([16 U.S.C. 6812(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6812/a&num=0&edition=prelim)) (and the amendments made by that section [Pub. L. 108–447, amending former section 460l–6a of Title 16]) had not been enacted.”
 
 
 <a id="section-100905"></a>
@@ -290,7 +293,7 @@ Pub. L. 109–54, title I, § 132(c), Aug. 2, 2005, 119 Stat. 526, provided that
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100905 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–6d (relating to the National Park Service) | Pub. L. 106–206, § 1 (relating to the National Park Service), May 26, 2000, 114 Stat. 314. |
+| 100905 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–6d (relating to the National Park Service). | Pub. L. 106–206, § 1 (relating to the National Park Service), May 26, 2000, 114 Stat. 314. |
 
 In subsection (e)(1), the words “in accordance with the formula and purposes established for the Recreational Fee Demonstration Program (Public Law 104–134)” are omitted as obsolete because the Program was repealed by section 813(b) of the Federal Lands Recreation Enhancement Act (Public Law 108–447, 118 Stat. 3390).
 
@@ -310,9 +313,9 @@ In subsection (e)(1), the words “in accordance with the formula and purposes e
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100906(a) | [16 U.S.C. 1a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2&num=0&edition=prelim) (matter before (a), (c) (words before comma) | Pub. L. 91–383, § 3 (matter before (a)), (c), Aug. 18, 1970, 84 Stat. 826; Pub. L. 106–176, title I, § 118(2), (3), Mar. 10, 2000, 114 Stat. 28. |
-| 100906(b), (c) | [16 U.S.C. 1a–14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–14&num=0&edition=prelim) | Pub. L. 102–525, title III, § 301, Oct. 26, 1992, 106 Stat. 3441. |
-| 100906(d) | [16 U.S.C. 1a–2(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/c&num=0&edition=prelim) (words after comma) |  |
+| 100906(a) | [16 U.S.C. 1a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2&num=0&edition=prelim) (matter before (a), (c) (words before comma). | Pub. L. 91–383, § 3 (matter before (a)), (c), Aug. 18, 1970, 84 Stat. 826; Pub. L. 106–176, title I, § 118(2), (3), Mar. 10, 2000, 114 Stat. 28. |
+| 100906(b), (c) | [16 U.S.C. 1a–14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–14&num=0&edition=prelim). | Pub. L. 102–525, title III, § 301, Oct. 26, 1992, 106 Stat. 3441. |
+| 100906(d) | [16 U.S.C. 1a–2(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/c&num=0&edition=prelim) (words after comma). |  |
 
 #### References in Text
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.

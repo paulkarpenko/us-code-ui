@@ -182,7 +182,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 **(e) Quorum** A majority of the current membership of the Council shall constitute a quorum for the transaction of business.
 
-**(f) Meetings** The Council shall meet at the call of the Chairman at least once a year. Council meetings shall be open to the public, and the Chairman shall take appropriate steps to provide adequate notice to the public of the time and place of such meetings. If a Council member appointed under subsection (a)(1)(C) or (a)(1)(D) of this section misses three consecutive regularly scheduled meetings, the Secretary may remove that individual in accordance with subsection (b)(4) of this section.
+**(f) Meetings** The Council shall meet at the call of the Chairman at least once a year. Council meetings shall be open to the public, and the Chairman shall take appropriate steps to provide adequate notice to the public of the time and place of such meetings. If a Council member appointed under subsection (a)(1)(C) or (a)(1)(D) of this section misses three consecutive regularly scheduled meetings, the Secretary may remove that individual in accordance with subsection (b)(4).
 
 **(g) Coordinator** The Director of the United States Fish and Wildlife Service shall appoint an individual who shall serve at the pleasure of the Director and—
 
@@ -210,7 +210,7 @@ Subsec. (c). Pub. L. 107–308, § 8(a)(7), substituted “Council” for “Com
 
 Subsec. (a)(1)(A). Pub. L. 101–593, § 112(1), as amended by Pub. L. 107–308, § 8(b)(1), inserted “, who shall be the responsible Federal official for ensuring Council compliance with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.)” after “Service”.
 
-Subsec. (f). Pub. L. 101–593, § 112(3), inserted before period at end of first sentence “, and the Chairman shall take appropriate steps to provide adequate notice to the public of the time and place of such meetings”.
+Subsec. (f). Pub. L. 101–593, § 112(3), inserted “, and the Chairman shall take appropriate steps to provide adequate notice to the public of the time and place of such meetings” after “open to the public”.
 
 #### Effective Date of 2002 Amendment
 Pub. L. 107–308, § 8(b)(2), Dec. 2, 2002, 116 Stat. 2448, provided that: “Paragraph (1) of this subsection [amending this section] shall be effective on and after the effective date of section 112(1) of Public Law 101–593 (104 Stat. 2962) [Nov. 16, 1990].”
@@ -333,9 +333,9 @@ Section is comprised of section 7 of Pub. L. 101–233. Subsec. (a) of section 7
 
 **(b) Cost sharing**
 
-(1) Except as provided in paragraph (2), as a condition of providing assistance under this chapter for any approved wetlands conservation project, the Secretary shall require that the portion of the costs of the project paid with amounts provided by non-Federal United States sources is equal to at least the amount allocated under subsection (a) of this section that is used for the project.
+(1) Except as provided in paragraph (2), as a condition of providing assistance under this chapter for any approved wetlands conservation project, the Secretary shall require that the portion of the costs of the project paid with amounts provided by non-Federal United States sources is equal to at least the amount allocated under subsection (a) that is used for the project.
 
-(2) Federal moneys allocated under subsection (a) of this section may be used to pay 100 percent of the costs of such projects located on Federal lands and waters, including the acquisition of inholdings within such lands and waters.
+(2) Federal moneys allocated under subsection (a) may be used to pay 100 percent of the costs of such projects located on Federal lands and waters, including the acquisition of inholdings within such lands and waters.
 
 (3) The non-Federal share of the United States contribution to the costs of such projects may not be derived from Federal grant programs. In the case of a project carried out in Canada or Mexico, the non-Federal share of the costs of the project may include cash contributions from non-United States sources that are used to pay costs of the project. In the case of a project carried out in Canada, funds from Canadian sources may comprise up to 50 percent of the non-Federal share of the costs of the project.
 

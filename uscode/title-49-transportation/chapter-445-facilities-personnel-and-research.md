@@ -247,9 +247,11 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 Pub. L. 112–95, title V, § 508, Feb. 14, 2012, 126 Stat. 106, provided that: “The Administrator of the Federal Aviation Administration may implement, to the extent practicable, sustainable practices for the incorporation of energy-efficient design, equipment, systems, and other measures in the construction and major renovation of air traffic control facilities of the Administration in order to reduce energy consumption at, improve the environmental performance of, and reduce the cost of maintenance for such facilities.”
 
 #### Strategy for Staffing, Hiring, and Training Flight Standards and Aircraft Certification Staff
-Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2700, provided in part: “That not later than March 31 of each fiscal year hereafter, the Administrator [of the Federal Aviation Administration] shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year”.
+Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2839, provided in part: “That not later than March 31 of each fiscal year hereafter, the Administrator [of the Federal Aviation Administration] shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2700.
 
 Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 578.
 
@@ -356,6 +358,9 @@ In subsection (a), the words “to improve” are substituted for “such . . . 
 
 #### Effective Date of 2000 Amendment
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under [section 106 of this title](./chapter-001-organization.md#section-106).
+
+#### Crash-Resistant Fuel Systems
+Pub. L. 114–190, title II, § 2105, July 15, 2016, 130 Stat. 620, provided that: “Not later than 1 year after the date of enactment of this Act [July 15, 2016], the Administrator of the Federal Aviation Administration shall evaluate and update, as necessary, standards for crash-resistant fuel systems for civilian rotorcraft.”
 
 #### Aviation Fuel Research and Development Program
 Pub. L. 112–95, title IX, § 910, Feb. 14, 2012, 126 Stat. 141, provided that: “(a) In General.—Using amounts made available under [section 48102(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section48102/a&num=0&edition=prelim), United States Code, the Administrator [of the Federal Aviation Administration], in coordination with the Administrator of NASA [National Aeronautics and Space Administration], shall continue research and development activities into the qualification of an unleaded aviation fuel and safe transition to this fuel for the fleet of piston engine aircraft. “(b) Requirements.—In carrying out the program under subsection (a), the Administrator shall, at a minimum—“(1) not later than 120 days after the date of enactment of this Act [Feb. 14, 2012], develop a research and development plan containing the specific research and development objectives, including consideration of aviation safety, technical feasibility, and other relevant factors, and the anticipated timetable for achieving the objectives; “(2) assess the methods and processes by which the FAA and industry may expeditiously certify and approve new aircraft and recertify existing aircraft with respect to unleaded aviation fuel; “(3) assess technologies that modify existing piston engine aircraft to enable safe operation of the aircraft using unleaded aviation fuel and determine the resources necessary to certify those technologies; and “(4) develop recommendations for appropriate policies and guidelines to facilitate a transition to unleaded aviation fuel for piston engine aircraft. “(c) Collaboration.—In carrying out the program under subsection (a), the Administrator shall collaborate with—“(1) industry groups representing aviation consumers, manufacturers, and fuel producers and distributors; and “(2) other appropriate Federal agencies. “(d) Report.—Not later than 270 days after the date of enactment of this Act [Feb. 14, 2012], the Administrator shall provide to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the plan, information obtained, and policies and guidelines developed pursuant to subsection (b).”
@@ -574,6 +579,54 @@ Pub. L. 106–181, title IX, § 905, Apr. 5, 2000, 114 Stat. 196, provided that:
 
 (3) a detailed plan for employing the controllers, including projected budget requests.
 
+**(f) Hiring of Certain Air Traffic Control Specialists.—**
+
+(1) **Consideration of applicants.—**
+
+  (A) *Ensuring selection of most qualified applicants.—* — In appointing individuals to the position of air traffic controller, the Administrator shall give preferential consideration to qualified individuals maintaining 52 consecutive weeks of air traffic control experience involving the full-time active separation of air traffic after receipt of an air traffic certification or air traffic control facility rating within 5 years of application while serving at—
+
+    (i) a Federal Aviation Administration air traffic control facility;
+
+    (ii) a civilian or military air traffic control facility of the Department of Defense; or
+
+    (iii) a tower operating under contract with the Federal Aviation Administration under section 47124.
+
+  (B) *Consideration of additional applicants.—*
+
+    (i) *In general.—* — After giving preferential consideration to applicants under subparagraph (A), the Administrator shall consider additional applicants for the position of air traffic controller by referring an approximately equal number of individuals for appointment among the 2 applicant pools described in this subparagraph. The number of individuals referred for consideration from each group shall not differ by more than 10 percent.
+
+    (ii) *Pool 1.—* — Pool 1 applicants are individuals who—
+
+      (I) have successfully completed air traffic controller training and graduated from an institution participating in the Collegiate Training Initiative program maintained under subsection (c)(1) and who have received from the institution—
+
+        (aa) an appropriate recommendation; or
+
+        (bb) an endorsement certifying that the individual would have met the requirements in effect as of December 31, 2013, for an appropriate recommendation;
+
+      (II) are eligible for a veterans recruitment appointment pursuant to [section 4214 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4214&num=0&edition=prelim) and provide a Certificate of Release or Discharge from Active Duty within 120 days of the announcement closing;
+
+      (III) are eligible veterans (as defined in [section 4211 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4211&num=0&edition=prelim)) maintaining aviation experience obtained in the course of the individual’s military experience; or
+
+      (IV) are preference eligible veterans (as defined in [section 2108 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2108&num=0&edition=prelim)).
+
+    (iii) *Pool 2.—* — Pool 2 applicants are individuals who apply under a vacancy announcement recruiting from all United States citizens.
+
+(2) **Use of biographical assessments.—**
+
+  (A) *Biographical assessments.—* — The Administrator shall not use any biographical assessment when hiring under paragraph (1)(A) or paragraph (1)(B)(ii).
+
+  (B) *Reconsideration of applicants disqualified on basis of biographical assessments.—*
+
+    (i) *In general.—* — If an individual described in paragraph (1)(A) or paragraph (1)(B)(ii), who applied for the position of air traffic controller with the Administration in response to Vacancy Announcement FAA–AMC–14–ALLSRCE–33537 (issued on February 10, 2014), was disqualified from the position as the result of a biographical assessment, the Administrator shall provide the applicant an opportunity to reapply for the position as soon as practicable under the revised hiring practices.
+
+    (ii) *Waiver of age restriction.—* — The Administrator shall waive any maximum age restriction for the position of air traffic controller with the Administration that would otherwise disqualify an individual from the position if the individual—
+
+      (I) is reapplying for the position pursuant to clause (i) on or before December 31, 2017; and
+
+      (II) met the maximum age requirement on the date of the individual’s previous application for the position during the interim hiring process.
+
+(3) **Maximum entry age for experienced controllers.—** — Notwithstanding [section 3307 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3307&num=0&edition=prelim), the maximum limit of age for an original appointment to a position as an air traffic controller shall be 35 years of age for those maintaining 52 weeks of air traffic control experience involving the full-time active separation of air traffic after receipt of an air traffic certification or air traffic control facility rating in a civilian or military air traffic control facility.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -591,9 +644,14 @@ In subsection (c), the words “institutions of higher education” are substitu
 The date of enactment of the FAA Modernization and Reform Act of 2012, referred to in subsec. (d)(3), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
 
 #### Amendments
+2016—Subsec. (f). Pub. L. 114–190 added subsec. (f).
+
 2012—Subsecs. (d), (e). Pub. L. 112–95 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1996—Subsec. (d). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+
+#### Notification of Vacancies
+Pub. L. 114–190, title II, § 2106(b), July 15, 2016, 130 Stat. 622, provided that: “The Administrator of the Federal Aviation Administration shall consider directly notifying secondary schools and institutions of higher learning, including Historically Black Colleges and Universities, Hispanic-serving institutions, Minority Institutions, and Tribal Colleges and Universities, of a vacancy announcement under [section 44506(f)(1)(B)(iii) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44506/f/1/B/iii&num=0&edition=prelim), United States Code.”
 
 #### Air Traffic Controller Staffing Initiatives and Analysis
 Pub. L. 112–95, title II, § 224, Feb. 14, 2012, 126 Stat. 55, provided that: “As soon as practicable, and not later than 1 year after the date of enactment of this Act [Feb. 14, 2012], the Administrator of the Federal Aviation Administration shall— “(1) ensure, to the extent practicable, a sufficient number of contract instructors, classroom space (including off-site locations as needed), and simulators to allow for an increase in the number of air traffic controllers at air traffic control facilities; “(2) distribute, to the extent practicable, the placement of certified professional air traffic controllers-in-training and developmental air traffic controllers at facilities evenly across the calendar year in order to avoid training bottlenecks; “(3) initiate an analysis, to be conducted in consultation with the exclusive bargaining representative of air traffic controllers certified under [section 7111 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7111&num=0&edition=prelim), United States Code, of scheduling processes and practices, including overtime scheduling practices at those facilities; “(4) provide, to the extent practicable and where appropriate, priority to certified professional air traffic controllers-in-training when filling staffing vacancies at facilities; “(5) assess training programs at air traffic control facilities with below-average success rates to determine if training is being carried out in accordance with Administration standards, and conduct exit interview analyses with all candidates to determine potential weaknesses in training protocols, or in the execution of such training protocols; and “(6) prioritize, to the extent practicable, such efforts to address the recommendations for the facilities identified in the Department of Transportation’s Office of the Inspector General Report Number: AV-2009-047.”
@@ -602,9 +660,11 @@ Pub. L. 112–95, title II, § 224, Feb. 14, 2012, 126 Stat. 55, provided that: 
 Pub. L. 112–95, title VI, § 609(b), Feb. 14, 2012, 126 Stat. 116, provided that: “Not later than 1 year after the date of enactment of this Act [Feb. 14, 2012], the Administrator [of the Federal Aviation Administration] shall conduct a comprehensive review and evaluation of its Academy and facility training efforts. The Administrator shall— “(1) clarify responsibility for oversight and direction of the Academy’s facility training program at the national level; “(2) communicate information concerning that responsibility to facility managers; and “(3) establish standards to identify the number of developmental air traffic controllers that can be accommodated at each facility, based on—“(A) the number of available on-the-job training instructors; “(B) available classroom space; “(C) the number of available simulators; “(D) training requirements; and “(E) the number of recently placed new personnel already in training.”
 
 #### Controller Staffing
-Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2700, provided in part: “That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 [set out below]”.
+Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2839, provided in part: “That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 [set out below]”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2700.
 
 Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 578.
 

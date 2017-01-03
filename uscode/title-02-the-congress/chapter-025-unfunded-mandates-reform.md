@@ -185,6 +185,9 @@ Nothing in this chapter shall preclude a State, local, or tribal government that
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–4, Mar. 22, 1995, 109 Stat. 48, known as the Unfunded Mandates Reform Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-025-unfunded-mandates-reform.md#section-1501) and Tables.
 
+#### Effective Date
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under [section 1516 of this title](./chapter-025-unfunded-mandates-reform.md#section-1516), whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under [section 1511 of this title](./chapter-025-unfunded-mandates-reform.md#section-1511).
+
 
 <a id="section-1531"></a>
 ## § 1531. Impact on local governments
@@ -209,6 +212,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 #### References in Text
 This chapter, referred to in subsec. (b)(3), was in the original “this Act”, meaning Pub. L. 104–4, Mar. 22, 1995, 109 Stat. 48, known as the Unfunded Mandates Reform Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-025-unfunded-mandates-reform.md#section-1501) and Tables.
 
+#### Effective Date
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under [section 1516 of this title](./chapter-025-unfunded-mandates-reform.md#section-1516), whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under [section 1511 of this title](./chapter-025-unfunded-mandates-reform.md#section-1511).
+
 
 <a id="section-1532"></a>
 ## § 1532. Enforcement in House of Representatives
@@ -224,6 +230,9 @@ Clause 1(d) of Rule XI of the Rules of the House of Representatives, referred to
 #### Codification
 Section is comprised of section 107 of Pub. L. 104–4. Subsec. (a) of section 107 of Pub. L. 104–4 amended the Rules of the House of Representatives, which are not classified to the Code.
 
+#### Effective Date
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under [section 1516 of this title](./chapter-025-unfunded-mandates-reform.md#section-1516), whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under [section 1511 of this title](./chapter-025-unfunded-mandates-reform.md#section-1511).
+
 
 <a id="section-1533"></a>
 ## § 1533. Exercise of rulemaking powers
@@ -233,6 +242,11 @@ The provisions of sections 658 to 658g and 1514 of this title are enacted by Con
 (1) as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they shall be considered as part of the rules of such House, respectively, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
 (2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner, and to the same extent as in the case of any other rule of each House.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under [section 1516 of this title](./chapter-025-unfunded-mandates-reform.md#section-1516), whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under [section 1511 of this title](./chapter-025-unfunded-mandates-reform.md#section-1511).
 
 
 <a id="section-1534"></a>
@@ -244,6 +258,9 @@ There are authorized to be appropriated to the Congressional Budget Office $4,50
 
 #### References in Text
 This subchapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 104–4, Mar. 22, 1995, 109 Stat. 50, which enacted this subchapter and sections 658 to 658g of this title, amended sections 602, 632, and 653 of this title, and enacted provisions set out as a note under [section 1511 of this title](./chapter-025-unfunded-mandates-reform.md#section-1511).
+
+#### Effective Date
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under [section 1516 of this title](./chapter-025-unfunded-mandates-reform.md#section-1516), whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under [section 1511 of this title](./chapter-025-unfunded-mandates-reform.md#section-1511).
 
 
 <a id="section-1535"></a>

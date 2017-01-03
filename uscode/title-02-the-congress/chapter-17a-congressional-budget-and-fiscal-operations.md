@@ -1742,6 +1742,9 @@ This part shall not apply to any provision in a bill, joint resolution, amendmen
 #### References in Text
 The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
+#### Effective Date
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under [section 1516 of this title](./chapter-025-unfunded-mandates-reform.md#section-1516), whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under [section 1511 of this title](./chapter-025-unfunded-mandates-reform.md#section-1511).
+
 
 <a id="section-658e"></a>
 ## § 658e. Duties of Congressional committees
@@ -1783,6 +1786,9 @@ The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531,
 
 #### Amendments
 1999—Subsec. (d)(3). Pub. L. 106–141 added par. (3).
+
+#### Effective Date
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under [section 1516 of this title](./chapter-025-unfunded-mandates-reform.md#section-1516), whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under [section 1511 of this title](./chapter-025-unfunded-mandates-reform.md#section-1511).
 
 
 <a id="section-658f"></a>
@@ -1827,6 +1833,9 @@ The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531,
 
 #### Amendments
 1999—Subsec. (a)(3), (4). Pub. L. 106–141 added par. (3) and redesignated former par. (3) as (4).
+
+#### Effective Date
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under [section 1516 of this title](./chapter-025-unfunded-mandates-reform.md#section-1516), whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under [section 1511 of this title](./chapter-025-unfunded-mandates-reform.md#section-1511).
 
 
 <a id="section-658g"></a>
@@ -1892,6 +1901,9 @@ The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531,
 #### Change of Name
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
+#### Effective Date
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under [section 1516 of this title](./chapter-025-unfunded-mandates-reform.md#section-1516), whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under [section 1511 of this title](./chapter-025-unfunded-mandates-reform.md#section-1511).
+
 
 <a id="section-661"></a>
 ## § 661. Provisions relating to House of Representatives
@@ -1909,11 +1921,21 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 (5) **Effect on amendment in order as original text** — The disposition of the question of consideration under this subsection with respect to a bill or joint resolution shall be considered also to determine the question of consideration under this subsection with respect to an amendment made in order as original text.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under [section 1516 of this title](./chapter-025-unfunded-mandates-reform.md#section-1516), whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under [section 1511 of this title](./chapter-025-unfunded-mandates-reform.md#section-1511).
+
 
 <a id="section-661a"></a>
 ## § 661a. Requests to Congressional Budget Office from Senators
 
 At the written request of a Senator, the Director shall, to the extent practicable, prepare an estimate of the direct costs of a Federal intergovernmental mandate contained in an amendment of such Senator.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under [section 1516 of this title](./chapter-025-unfunded-mandates-reform.md#section-1516), whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under [section 1511 of this title](./chapter-025-unfunded-mandates-reform.md#section-1511).
 
 
 <a id="section-661b"></a>
@@ -1935,6 +1957,11 @@ At the written request of a Senator, the Director shall, to the extent practicab
   (B) the aggregate amount of direct costs of Federal mandates that would result under the statute if the bill, joint resolution, amendment, motion, or conference report were not enacted.
 
 (3) **Extension of authorization of appropriations** — For purposes of this section, in the case of legislation to extend authorization of appropriations, the authorization level that would be provided by the extension shall be compared to the authorization level for the last year in which authorization of appropriations is already provided.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under [section 1516 of this title](./chapter-025-unfunded-mandates-reform.md#section-1516), whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under [section 1511 of this title](./chapter-025-unfunded-mandates-reform.md#section-1511).
 
 
 <a id="section-661c"></a>

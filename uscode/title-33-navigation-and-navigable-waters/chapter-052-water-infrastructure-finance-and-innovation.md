@@ -71,7 +71,7 @@ The Federal Water Pollution Control Act, referred to in par. (12), is act June 3
 The Federal Credit Reform Act of 1990, referred to in par. (13), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
 
 #### Short Title
-Pub. L. 113–121, title V, § 5021, June 10, 2014, 128 Stat. 1332, provided that: “This subtitle [enacting this chapter] may be cited as the ‘Water Infrastructure Finance and Innovation Act of 2014’.”
+Pub. L. 113–121, title V, § 5021, June 10, 2014, 128 Stat. 1332, provided that: “This subtitle [subtitle C (§§ 5021–5035) of title V of Pub. L. 113–121, enacting this chapter] may be cited as the ‘Water Infrastructure Finance and Innovation Act of 2014’.”
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -85,11 +85,18 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 (1) **Secretary** — The Secretary shall carry out all pilot projects under this chapter that are eligible projects under [section 3905(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/1&num=0&edition=prelim).
 
-(2) **Administrator** — The Administrator shall carry out all pilot projects under this chapter that are eligible projects under paragraphs (2), (3), (4), (5), (6), and (8) of [section 3905 of this title](./chapter-052-water-infrastructure-finance-and-innovation.md#section-3905).
+(2) **Administrator** — The Administrator shall provide financial assistance to carry out all pilot projects under this chapter that are eligible projects under paragraphs (2), (3), (4), (5), (6), (7), and (9) of [section 3905 of this title](./chapter-052-water-infrastructure-finance-and-innovation.md#section-3905).
 
-(3) **Other projects** — The Secretary or the Administrator, as applicable, may carry out eligible projects under paragraph (7) or (9) of [section 3905 of this title](./chapter-052-water-infrastructure-finance-and-innovation.md#section-3905).
+(3) **Other projects** — The Secretary or the Administrator, as applicable, may carry out eligible projects under paragraph (8) or (10) of [section 3905 of this title](./chapter-052-water-infrastructure-finance-and-innovation.md#section-3905).
 
 ### Statutory Notes
+
+#### Amendments
+2016—Subsec. (b)(2). Pub. L. 114–322, § 5008(b)(2)(A)(i), substituted “(7), and (9)” for “and (8)”.
+
+Pub. L. 114–322, § 5008(a), substituted “provide financial assistance to carry out” for “carry out”.
+
+Subsec. (b)(3). Pub. L. 114–322, § 5008(b)(2)(A)(ii), substituted “paragraph (8) or (10)” for “paragraph (7) or (9)”.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -99,9 +106,12 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 ## § 3903. Applications
 **(a) In general** To receive assistance under this chapter, an eligible entity shall submit to the Secretary or the Administrator, as applicable, an application at such time, in such manner, and containing such information as the Secretary or the Administrator may require.
 
-**(b) Combined projects** In the case of an eligible project described in paragraph (8) or (9) of [section 3905 of this title](./chapter-052-water-infrastructure-finance-and-innovation.md#section-3905), the Secretary or the Administrator, as applicable, shall require the eligible entity to submit a single application for the combined group of projects.
+**(b) Combined projects** In the case of an eligible project described in paragraph (9) or (10) of [section 3905 of this title](./chapter-052-water-infrastructure-finance-and-innovation.md#section-3905), the Secretary or the Administrator, as applicable, shall require the eligible entity to submit a single application for the combined group of projects.
 
 ### Statutory Notes
+
+#### Amendments
+2016—Subsec. (b). Pub. L. 114–322 substituted “paragraph (9) or (10)” for “paragraph (8) or (9)”.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -150,19 +160,28 @@ The following projects may be carried out with amounts made available under this
 
 (5) A project for repair, rehabilitation, or replacement of a treatment works, community water system, or aging water distribution or waste collection facility (including a facility that serves a population or community of an Indian reservation).
 
-(6) A brackish or sea water desalination project, a managed aquifer recharge project, or a water recycling project.
+(6) A brackish or sea water desalination project, including chloride control, a managed aquifer recharge project, a water recycling project, or a project to provide alternative water supplies to reduce aquifer depletion.
 
-(7) Acquisition of real property or an interest in real property—
+(7) A project to prevent, reduce, or mitigate the effects of drought, including projects that enhance the resilience of drought-stricken watersheds.
+
+(8) Acquisition of real property or an interest in real property—
 
   (A) if the acquisition is integral to a project described in paragraphs (1) through (6); or
 
   (B) pursuant to an existing plan that, in the judgment of the Administrator or the Secretary, as applicable, would mitigate the environmental impacts of water resources infrastructure projects otherwise eligible for assistance under this section.
 
-(8) A combination of projects, each of which is eligible under paragraph (2) or (3), for which a State infrastructure financing authority submits to the Administrator a single application.
+(9) A combination of projects, each of which is eligible under paragraph (2) or (3), for which a State infrastructure financing authority submits to the Administrator a single application.
 
-(9) A combination of projects secured by a common security pledge, each of which is eligible under paragraph (1), (2), (3), (4), (5), (6), or (7), for which an eligible entity, or a combination of eligible entities, submits a single application.
+(10) A combination of projects secured by a common security pledge, each of which is eligible under paragraph (1), (2), (3), (4), (5), (6), (7), or (8), for which an eligible entity, or a combination of eligible entities, submits a single application.
 
 ### Statutory Notes
+
+#### Amendments
+2016—Par. (6). Pub. L. 114–322, § 5008(b)(1)(A), substituted “desalination project, including chloride control” for “desalination project” and “a water recycling project, or a project to provide alternative water supplies to reduce aquifer depletion” for “or a water recycling project”.
+
+Pars. (7) to (9). Pub. L. 114–322, § 5008(b)(1)(B), (C), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively. Former par. (9) redesignated (10).
+
+Par. (10). Pub. L. 114–322, § 5008(b)(1)(B), (D), redesignated par. (9) as (10) and substituted “(7), or (8)” for “or (7)”.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -177,9 +196,14 @@ For purposes of this chapter, an eligible activity with respect to an eligible p
 
 (2) construction, reconstruction, rehabilitation, and replacement activities;
 
-(3) the acquisition of real property or an interest in real property (including water rights, land relating to the project, and improvements to land), environmental mitigation (including acquisitions pursuant to [section 3905(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/7&num=0&edition=prelim)), construction contingencies, and acquisition of equipment; and
+(3) the acquisition of real property or an interest in real property (including water rights, land relating to the project, and improvements to land), environmental mitigation (including acquisitions pursuant to [section 3905(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/8&num=0&edition=prelim)), construction contingencies, and acquisition of equipment; and
 
 (4) capitalized interest necessary to meet market requirements, reasonably required reserve funds, capital issuance expenses, and other carrying costs during construction.
+
+### Statutory Notes
+
+#### Amendments
+2016—Par. (3). Pub. L. 114–322 substituted “section 3905(8)” for “section 3905(7)”.
 
 
 <a id="section-3907"></a>
@@ -208,7 +232,7 @@ For purposes of this chapter, an eligible activity with respect to an eligible p
 
     (ii) *Final rating opinion letters* — The Secretary or the Administrator, as applicable, shall require each project applicant to provide, prior to final acceptance and financing of the project, final rating opinion letters from at least 2 rating agencies indicating that the senior obligations of the project have an investment-grade rating.
 
-  (E) *Special rule for certain combined projects* — The Administrator shall develop a credit evaluation process for a Federal credit instrument provided to a State infrastructure financing authority for a project under [section 3905(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/8&num=0&edition=prelim) or an entity for a project under [section 3905(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/9&num=0&edition=prelim), which may include requiring the provision of a final rating opinion letter from at least 2 rating agencies.
+  (E) *Special rule for certain combined projects* — The Administrator shall develop a credit evaluation process for a Federal credit instrument provided to a State infrastructure financing authority for a project under [section 3905(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/9&num=0&edition=prelim) or an entity for a project under [section 3905(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/10&num=0&edition=prelim), which may include requiring the provision of a final rating opinion letter from at least 2 rating agencies.
 
 (2) **Eligible project costs**
 
@@ -224,13 +248,7 @@ For purposes of this chapter, an eligible activity with respect to an eligible p
 
   (B) *Public sponsorship* — For purposes of this chapter, a project shall be considered to be publicly sponsored if the obligor can demonstrate, to the satisfaction of the Secretary or the Administrator, as appropriate, that the project applicant has consulted with the affected State, local, or tribal government in which the project is located, or is otherwise affected by the project, and that such government supports the proposed project.
 
-(5) **Limitation** — No project receiving Federal credit assistance under this chapter may be financed (directly or indirectly), in whole or in part, with proceeds of any obligation—
-
-  (A) the interest on which is exempt from the tax imposed under chapter 1 of title 26; or
-
-  (B) with respect to which credit is allowable under subpart I or J of part IV of subchapter A of chapter 1 of title 26.
-
-(6) **Use of existing financing mechanisms**
+(5) **Use of existing financing mechanisms**
 
   (A) *Notification* — For each eligible project for which the Administrator has authority under paragraph (2) or (3) of [section 3902(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3902/b&num=0&edition=prelim) and for which the Administrator has received an application for financial assistance under this chapter, the Administrator shall notify, not later than 30 days after the date on which the Administrator receives a complete application, the applicable State infrastructure financing authority of the State in which the project is located that such application has been submitted.
 
@@ -240,7 +258,7 @@ For purposes of this chapter, an eligible activity with respect to an eligible p
 
     (ii) the financial assistance to be provided by the State infrastructure financing authority will be at rates and terms that are less favorable than the rates and terms for financial assistance provided under this chapter.
 
-(7) **Operation and maintenance plan**
+(6) **Operation and maintenance plan**
 
   (A) *In general* — The Secretary or the Administrator, as applicable, shall determine whether an applicant for assistance under this chapter has developed, and identified adequate revenues to implement, a plan for operating, maintaining, and repairing the project over the useful life of the project.
 
@@ -296,11 +314,25 @@ For purposes of this chapter, an eligible activity with respect to an eligible p
 
   (K) The extent to which assistance under this chapter reduces the contribution of Federal assistance to the project.
 
-(3) **Special rule for certain combined projects** — For a project described in [section 3905(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/8&num=0&edition=prelim), the Administrator shall only consider the criteria described in subparagraphs (B) through (K) of paragraph (2).
+(3) **Special rule for certain combined projects** — For a project described in [section 3905(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3905/9&num=0&edition=prelim), the Administrator shall only consider the criteria described in subparagraphs (B) through (K) of paragraph (2).
 
 **(c) Federal requirements** Nothing in this section supersedes the applicability of other requirements of Federal law (including regulations).
 
 ### Statutory Notes
+
+#### Amendments
+2016—Subsec. (a)(1)(E). Pub. L. 114–322, § 5008(b)(2)(D)(i), substituted “section 3905(9)” for “section 3905(8)” and “section 3905(10)” for “section 3905(9)”.
+
+Subsec. (b)(3). Pub. L. 114–322, § 5008(b)(2)(D)(ii), substituted “section 3905(9)” for “section 3905(8)”.
+
+2015—Subsec. (a)(5) to (7). Pub. L. 114–94 redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5). Prior to amendment, text of par. (5) read as follows: “No project receiving Federal credit assistance under this chapter may be financed (directly or indirectly), in whole or in part, with proceeds of any obligation—
+
+“(A) the interest on which is exempt from the tax imposed under chapter 1 of title 26; or
+
+“(B) with respect to which credit is allowable under subpart I or J of part IV of subchapter A of chapter 1 of title 26.”
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -348,7 +380,11 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 (6) **Nonsubordination** — A secured loan under this section shall not be subordinated to the claims of any holder of project obligations in the event of bankruptcy, insolvency, or liquidation of the obligor of the project.
 
-(7) **Fees** — The Secretary or the Administrator, as applicable, may establish fees at a level sufficient to cover all or a portion of the costs to the Federal Government of making a secured loan under this section.
+(7) **Fees**
+
+  (A) *In general* — Except as provided in subparagraph (B), the Secretary or the Administrator, as applicable, may establish fees at a level sufficient to cover all or a portion of the costs to the Federal Government of making a secured loan under this section.
+
+  (B) *Financing fees* — On request of an eligible entity, the Secretary or the Administrator, as applicable, shall allow the fees under subparagraph (A) to be financed as part of the loan.
 
 (8) **Non-Federal share** — The proceeds of a secured loan under this section may be used to pay any non-Federal share of project costs required if the loan is repayable from non-Federal funds.
 
@@ -363,6 +399,8 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
     (ii) that includes among its beneficiaries a federally recognized Indian tribe; and
 
     (iii) for which the authorized Federal share of the total project costs is greater than the amount described in subparagraph (A).
+
+(10) **Credit** — Any eligible project costs incurred and the value of any integral in-kind contributions made before receipt of assistance under this chapter shall be credited toward the 51 percent of project costs to be provided by sources of funding other than a secured loan under this chapter (as described in paragraph (2)(A)).
 
 **(c) Repayment**
 
@@ -410,6 +448,11 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 ### Statutory Notes
 
+#### Amendments
+2016—Subsec. (b)(7). Pub. L. 114–322, § 5008(c)(1), designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), the Secretary” for “The Secretary”, and added subpar. (B).
+
+Subsec. (b)(10). Pub. L. 114–322, § 5008(c)(2), added par. (10).
+
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
@@ -436,7 +479,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 **(d) Assistance from experts** The Secretary or the Administrator, as applicable, may retain the services, including counsel, of organizations and entities with expertise in the field of municipal and project finance to assist in the underwriting and servicing of Federal credit instruments provided under this chapter.
 
-**(e) Applicability of other laws** Section 513 of the Federal Water Pollution Control Act ([33 U.S.C. 1372](./chapter-026-water-pollution-prevention-and-control.md#section-1372)) applies to the construction of a project carried out, in whole or in part, with assistance made available through a Federal credit instrument under this chapter in the same manner that section applies to a treatment works for which a grant is made available under that Act.
+**(e) Applicability of other laws** Section 513 of the Federal Water Pollution Control Act ([33 U.S.C. 1372](./chapter-026-water-pollution-prevention-and-control.md#section-1372)) applies to the construction of a project carried out, in whole or in part, with assistance made available through a Federal credit instrument under this chapter in the same manner that section applies to a treatment works for which a grant is made available under that Act [[33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.].
 
 ### Statutory Notes
 
@@ -532,7 +575,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 (2) **Recommendations** — The report under paragraph (1) shall include—
 
-  (A) an evaluation of the impacts (if any) of the limitation under [section 3907(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3907/a/5&num=0&edition=prelim) on the ability of eligible entities to finance water infrastructure projects under this chapter;
+  (A) an evaluation of the impacts (if any) of the limitation under section 3907(a)(5) 11 See References in Text note below. of this title on the ability of eligible entities to finance water infrastructure projects under this chapter;
 
   (B) a recommendation as to whether the objectives of this chapter would be best served—
 
@@ -545,6 +588,9 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
   (C) any proposed changes to improve the efficiency and effectiveness of this chapter in providing financing for water infrastructure projects, taking into consideration the recommendations made under subparagraphs (A) and (B).
 
 ### Statutory Notes
+
+#### References in Text
+[Section 3907(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3907/a/5&num=0&edition=prelim), referred to in subsec. (b)(2)(A), was struck out, and [section 3907(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3907/a/6&num=0&edition=prelim) was redesignated as 3907(a)(5), by Pub. L. 114–94, div. A, title I, § 1445, Dec. 4, 2015, 129 Stat. 1437. As amended, section 3907(a)(5) no longer relates to limitation.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).

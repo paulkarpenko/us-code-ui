@@ -2,8 +2,8 @@
 title: 14
 heading: COAST GUARD
 positive_law: false
-sections: 422
-chapters: 15
+sections: 439
+chapters: 17
 ---
 # Title 14. COAST GUARD
 
@@ -23,3 +23,5 @@ chapters: 15
 - 21 — COAST GUARD RESERVE
 - 23 — COAST GUARD AUXILIARY
 - 25 — GENERAL PROVISIONS FOR COAST GUARD RESERVE AND AUXILIARY
+- 27 — AUTHORIZATIONS
+- 29 — REPORTS

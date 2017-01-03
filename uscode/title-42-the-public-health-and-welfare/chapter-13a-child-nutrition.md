@@ -161,7 +161,7 @@ Pub. L. 95–166, § 20, Nov. 10, 1977, 91 Stat. 1346, provided that the amendme
 
 (5) Expenditures of funds from State and local sources for the maintenance of the breakfast program shall not be diminished as a result of funds or commodities received under paragraph (3) or (4).
 
-**(c) Disbursement of apportioned funds by State; preference for schools in poor economic areas, for students traveling long distances daily, and for schools for improvement of nutrition and dietary practices of children of working mothers and from low-income families** Funds apportioned and paid to any State for the purpose of this section shall be disbursed by the State educational agency to schools selected by the State educational agency to assist such schools in operating a breakfast program and for the purpose of subsection (d) of this section. Disbursement to schools shall be made at such rates per meal or on such other basis as the Secretary shall prescribe. In selecting schools for participation, the State educational agency shall, to the extent practicable, give first consideration to those schools drawing attendance from areas in which poor economic conditions exist, to those schools in which a substantial proportion of the children enrolled must travel long distances daily, and to those schools in which there is a special need for improving the nutrition and dietary practices of children of working mothers and children from low-income families. Breakfast assistance disbursements to schools under this section may be made in advance or by way of reimbursement in accordance with procedures prescribed by the Secretary.
+**(c) Disbursement of apportioned funds by State; preference for schools in poor economic areas, for students traveling long distances daily, and for schools for improvement of nutrition and dietary practices of children of working mothers and from low-income families** Funds apportioned and paid to any State for the purpose of this section shall be disbursed by the State educational agency to schools selected by the State educational agency to assist such schools in operating a breakfast program and for the purpose of subsection (d). Disbursement to schools shall be made at such rates per meal or on such other basis as the Secretary shall prescribe. In selecting schools for participation, the State educational agency shall, to the extent practicable, give first consideration to those schools drawing attendance from areas in which poor economic conditions exist, to those schools in which a substantial proportion of the children enrolled must travel long distances daily, and to those schools in which there is a special need for improving the nutrition and dietary practices of children of working mothers and children from low-income families. Breakfast assistance disbursements to schools under this section may be made in advance or by way of reimbursement in accordance with procedures prescribed by the Secretary.
 
 **(d) Severe need assistance**
 
@@ -171,7 +171,7 @@ Pub. L. 95–166, § 20, Nov. 10, 1977, 91 Stat. 1346, provided that the amendme
 
   (B) in the case of a school in which lunches were not served during the most recent second preceding school year, the Secretary otherwise determines that the requirements of subparagraph (A) would have been met.
 
-(2) **Additional assistance** — A school, on the submission of appropriate documentation about the need circumstances in that school and the eligibility of the school for additional assistance, shall be entitled to receive the meal reimbursement rate specified in subsection (b)(2) of this section.
+(2) **Additional assistance** — A school, on the submission of appropriate documentation about the need circumstances in that school and the eligibility of the school for additional assistance, shall be entitled to receive the meal reimbursement rate specified in subsection (b)(2).
 
 **(e) Nutritional requirements; service free or at reduced price; compliance assistance**
 
@@ -348,7 +348,7 @@ Additional funds for direct distribution programs for diet of needy children suf
 
 <a id="section-1774"></a>
 ## § 1774. Disbursement directly to schools or institutions
-**(a)** The Secretary shall withhold funds payable to a State under this chapter and disburse the funds directly to schools or institutions within the State for the purposes authorized by this chapter to the extent that the Secretary has so withheld and disbursed such funds continuously since October 1, 1980, but only to such extent (except as otherwise required by subsection (b) of this section). Any funds so withheld and disbursed by the Secretary shall be used for the same purposes, and shall be subject to the same conditions, as applicable to a State disbursing funds made available under this chapter. If the Secretary is administering (in whole or in part) any program authorized under this chapter, the State in which the Secretary is administering the program may, upon request to the Secretary, assume administration of that program.
+**(a)** The Secretary shall withhold funds payable to a State under this chapter and disburse the funds directly to schools or institutions within the State for the purposes authorized by this chapter to the extent that the Secretary has so withheld and disbursed such funds continuously since October 1, 1980, but only to such extent (except as otherwise required by subsection (b)). Any funds so withheld and disbursed by the Secretary shall be used for the same purposes, and shall be subject to the same conditions, as applicable to a State disbursing funds made available under this chapter. If the Secretary is administering (in whole or in part) any program authorized under this chapter, the State in which the Secretary is administering the program may, upon request to the Secretary, assume administration of that program.
 
 **(b)** If a State educational agency is not permitted by law to disburse the funds paid to it under this chapter to any of the nonpublic schools in the State, the Secretary shall disburse the funds directly to such schools within the State for the same purposes and subject to the same conditions as are authorized or required with respect to the disbursements to public schools within the State by the State educational agency.
 
@@ -442,7 +442,7 @@ The Secretary shall certify to the Secretary of the Treasury from time to time t
 
     (iii) using electronic data to establish benchmarks to compare and monitor program integrity, program participation, and financial data.
 
-(3) **Training and technical assistance** — Each State shall submit to the Secretary for approval a plan describing the manner in which the State intends to implement subsection (g) of this section and section 22(b)(3) of the Richard B. Russell National School Lunch Act [[42 U.S.C. 1769c(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1769c/b/3&num=0&edition=prelim)].
+(3) **Training and technical assistance** — Each State shall submit to the Secretary for approval a plan describing the manner in which the State intends to implement subsection (g) and section 22(b)(3) of the Richard B. Russell National School Lunch Act [[42 U.S.C. 1769c(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1769c/b/3&num=0&edition=prelim)].
 
 **(f) State funding requirement** Payments of funds under this section shall be made only to States that agree to maintain a level of funding out of State revenues, for administrative costs in connection with programs under this chapter (except [section 1786 of this title](./chapter-13a-child-nutrition.md#section-1786)) and the Richard B. Russell National School Lunch Act [[42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.] (except section 13 of that Act [[42 U.S.C. 1761](./chapter-013-school-lunch-programs.md#section-1761)]), not less than the amount expended or obligated in fiscal year 1977, and that agree to participate fully in any studies authorized by the Secretary.
 
@@ -532,7 +532,7 @@ The Secretary shall certify to the Secretary of the Treasury from time to time t
 
 (2) **Use of funds**
 
-  (A) *In general* — Except as provided in subparagraph (B), the Secretary shall use funds provided under this subsection to assist States in carrying out subsection (g) of this section and administrative reviews of selected local educational agencies carried out under section 22 of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1769c](./chapter-013-school-lunch-programs.md#section-1769c)).
+  (A) *In general* — Except as provided in subparagraph (B), the Secretary shall use funds provided under this subsection to assist States in carrying out subsection (g) and administrative reviews of selected local educational agencies carried out under section 22 of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1769c](./chapter-013-school-lunch-programs.md#section-1769c)).
 
   (B) *Exception* — The Secretary may retain a portion of the amount provided to cover costs of activities carried out by the Secretary in lieu of the State.
 
@@ -542,7 +542,7 @@ The Secretary shall certify to the Secretary of the Treasury from time to time t
 
 **(i) Technology infrastructure improvement**
 
-(1) **In general** — Each State shall submit to the Secretary, for approval by the Secretary, an amendment to the plan required by subsection (e) of this section that describes the manner in which funds provided under this section will be used for technology and information management systems.
+(1) **In general** — Each State shall submit to the Secretary, for approval by the Secretary, an amendment to the plan required by subsection (e) that describes the manner in which funds provided under this section will be used for technology and information management systems.
 
 (2) **Requirements** — The amendment shall, at a minimum, describe the manner in which the State will improve program integrity by—
 
@@ -1084,7 +1084,7 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
 
   (C) receipt of food or meals from soup kitchens, or shelters, or other forms of emergency food assistance.
 
-(2) Subject to amounts appropriated to carry out this section under subsection (g) of this section—
+(2) Subject to amounts appropriated to carry out this section under subsection (g)—
 
   (A) the Secretary shall make cash grants to State agencies for the purpose of administering the program, and
 
@@ -1222,7 +1222,7 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
 
   (C) The plan shall include—
 
-    (i) a description of the food delivery system of the State agency and the method of enabling participants to receive supplemental foods under the program at any of the authorized retail stores under the program, to be administered in accordance with standards developed by the Secretary, including a description of the State agency’s vendor peer group system, competitive price criteria, and allowable reimbursement levels that demonstrate that the State is in compliance with the cost-containment provisions in subsection (h)(11) of this section;
+    (i) a description of the food delivery system of the State agency and the method of enabling participants to receive supplemental foods under the program at any of the authorized retail stores under the program, to be administered in accordance with standards developed by the Secretary, including a description of the State agency’s vendor peer group system, competitive price criteria, and allowable reimbursement levels that demonstrate that the State is in compliance with the cost-containment provisions in subsection (h)(11);
 
     (ii) procedures for accepting and processing vendor applications outside of the established timeframes if the State agency determines there will be inadequate access to the program, including in a case in which a previously authorized vendor sells a store under circumstances that do not permit timely notification to the State agency of the change in ownership;
 
@@ -1310,7 +1310,7 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
 
 (16) The State agency may adopt methods of delivering benefits to accommodate the special needs and problems of homeless individuals.
 
-(17) Notwithstanding subsection (d)(2)(A)(i) of this section, not later than July 1 of each year, a State agency may implement income eligibility guidelines under this section concurrently with the implementation of income eligibility guidelines under the medicaid program established under title XIX of the Social Security Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.).
+(17) Notwithstanding subsection (d)(2)(A)(i), not later than July 1 of each year, a State agency may implement income eligibility guidelines under this section concurrently with the implementation of income eligibility guidelines under the medicaid program established under title XIX of the Social Security Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.).
 
 (18) Each local agency participating in the program under this section may provide information about other potential sources of food assistance in the local area to individuals who apply in person to participate in the program under this section, but who cannot be served because the program is operating at capacity in the local area.
 
@@ -1390,7 +1390,7 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
 
 (1)
 
-  (A) Each fiscal year, the Secretary shall make available, from amounts appropriated for such fiscal year under subsection (g)(1) of this section and amounts remaining from amounts appropriated under such subsection for the preceding fiscal year, an amount sufficient to guarantee a national average per participant grant to be allocated among State agencies for costs of nutrition services and administration incurred by State and local agencies for such year.
+  (A) Each fiscal year, the Secretary shall make available, from amounts appropriated for such fiscal year under subsection (g)(1) and amounts remaining from amounts appropriated under such subsection for the preceding fiscal year, an amount sufficient to guarantee a national average per participant grant to be allocated among State agencies for costs of nutrition services and administration incurred by State and local agencies for such year.
 
   (B)
 
@@ -1404,7 +1404,7 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
 
   (C) *Remaining amounts.—*
 
-    (i) *In general.—* — Except as provided in clause (ii), in any fiscal year, amounts remaining from amounts appropriated for such fiscal year under subsection (g)(1) of this section and from amounts appropriated under such section for the preceding fiscal year, after carrying out subparagraph (A), shall be made available for food benefits under this section, except to the extent that such amounts are needed to carry out the purposes of subsections (g)(4) and (g)(5) of this section.
+    (i) *In general.—* — Except as provided in clause (ii), in any fiscal year, amounts remaining from amounts appropriated for such fiscal year under subsection (g)(1) and from amounts appropriated under such section for the preceding fiscal year, after carrying out subparagraph (A), shall be made available for food benefits under this section, except to the extent that such amounts are needed to carry out the purposes of subsections (g)(4) and (g)(5).
 
     (ii) *Breast pumps.—* — A State agency may use amounts made available under clause (i) for the purchase of breast pumps.
 
@@ -1863,7 +1863,7 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
 
 **(i) Division of funds formula; reallocation of unspent funds; use of State allocation to buy supplemental foods; use of amounts available for succeeding fiscal year**
 
-(1) By the beginning of each fiscal year, the Secretary shall divide, among the State agencies, the amounts made available for food benefits under subsection (h)(1)(C) of this section on the basis of a formula determined by the Secretary.
+(1) By the beginning of each fiscal year, the Secretary shall divide, among the State agencies, the amounts made available for food benefits under subsection (h)(1)(C) on the basis of a formula determined by the Secretary.
 
 (2) Each State agency’s allocation, as so determined, shall constitute the State agency’s authorized operational level for that year, except that the Secretary shall reallocate funds periodically if the Secretary determines that a State agency is unable to spend its allocation.
 
@@ -1893,7 +1893,7 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
 
 (6) Notwithstanding any other provision of this section, the Secretary may use a portion of a State agency’s allocation to purchase supplemental foods for donation to the State agency under this section.
 
-(7) In addition to any amounts expended under paragraph (3)(A)(i), any State agency using cost containment measures as defined in subsection (h)(9) of this section may temporarily use amounts made available to such agency for the first quarter of a fiscal year to defray expenses for costs incurred during the final quarter of the preceding fiscal year. In any fiscal year, any State agency that uses amounts made available for a succeeding fiscal year under the authority of the preceding sentence shall restore or reimburse such amounts when such agency receives payment as a result of its cost containment measures for such expenses.
+(7) In addition to any amounts expended under paragraph (3)(A)(i), any State agency using cost containment measures as defined in subsection (h)(9) may temporarily use amounts made available to such agency for the first quarter of a fiscal year to defray expenses for costs incurred during the final quarter of the preceding fiscal year. In any fiscal year, any State agency that uses amounts made available for a succeeding fiscal year under the authority of the preceding sentence shall restore or reimburse such amounts when such agency receives payment as a result of its cost containment measures for such expenses.
 
 (8) **Temporary spending authority.—** — During each of fiscal years 2012 and 2013, the Secretary may authorize a State agency to expend more than the amount otherwise authorized under paragraph (3)(C) for expenses incurred under this section for supplemental foods during the preceding fiscal year, if the Secretary determines that—
 
@@ -1941,7 +1941,7 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
 
 **(m) Women, infants, and children farmers’ market nutrition program; establishment, grants, etc.**
 
-(1) Subject to the availability of funds appropriated for the purposes of this subsection, and as specified in this subsection, the Secretary shall award grants to States that submit State plans that are approved for the establishment or maintenance of programs designed to provide recipients of assistance under subsection (c) of this section, or those who are on the waiting list to receive the assistance, with coupons that may be exchanged for fresh, nutritious, unprepared foods at farmers’ markets and (at the option of a State) roadside stands, as defined in the State plans submitted under this subsection.
+(1) Subject to the availability of funds appropriated for the purposes of this subsection, and as specified in this subsection, the Secretary shall award grants to States that submit State plans that are approved for the establishment or maintenance of programs designed to provide recipients of assistance under subsection (c), or those who are on the waiting list to receive the assistance, with coupons that may be exchanged for fresh, nutritious, unprepared foods at farmers’ markets and (at the option of a State) roadside stands, as defined in the State plans submitted under this subsection.
 
 (2) A grant provided to any State under this subsection shall be provided to the chief executive officer of the State, who shall—
 
@@ -1955,7 +1955,7 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
 
 (5) Each State that receives a grant under this subsection shall ensure that the program for which the grant is received complies with the following requirements:
 
-  (A) Individuals who are eligible to receive Federal benefits under the program shall only be individuals who are receiving assistance under subsection (c) of this section, or who are on the waiting list to receive the assistance.
+  (A) Individuals who are eligible to receive Federal benefits under the program shall only be individuals who are receiving assistance under subsection (c), or who are on the waiting list to receive the assistance.
 
   (B) Construction or operation of a farmers’ market may not be carried out using funds—
 
@@ -2087,7 +2087,7 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
 
   (C) The term “recipient” means a person or household, as determined by the State, who is chosen by a State to receive benefits under this subsection, or who is on a waiting list to receive such benefits.
 
-  (D) The term “State agency” has the meaning provided in subsection (b)(13) of this section, except that the term also includes the agriculture department of each State and any other agency approved by the chief executive officer of the State.
+  (D) The term “State agency” has the meaning provided in subsection (b)(13), except that the term also includes the agriculture department of each State and any other agency approved by the chief executive officer of the State.
 
 **(n) Disqualification of vendors who are disqualified under supplemental nutrition assistance program**
 
@@ -2137,13 +2137,13 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
 
 **(p) Criminal forfeiture**
 
-(1) **In general** — Notwithstanding any provision of State law and in addition to any other penalty authorized by law, a court may order a person that is convicted of a violation of a provision of law described in paragraph (2), with respect to food instruments (including any item described in subsection (o)(1)(A) of this section issued in lieu of a food instrument under this section), funds, assets, or property that have a value of $100 or more and that are the subject of a grant or other form of assistance under this section, to forfeit to the United States all property described in paragraph (3).
+(1) **In general** — Notwithstanding any provision of State law and in addition to any other penalty authorized by law, a court may order a person that is convicted of a violation of a provision of law described in paragraph (2), with respect to food instruments (including any item described in subsection (o)(1)(A) issued in lieu of a food instrument under this section), funds, assets, or property that have a value of $100 or more and that are the subject of a grant or other form of assistance under this section, to forfeit to the United States all property described in paragraph (3).
 
 (2) **Applicable laws** — A provision of law described in this paragraph is—
 
   (A) [section 1760(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1760/g&num=0&edition=prelim); and
 
-  (B) any other Federal law imposing a penalty for embezzlement, willful misapplication, stealing, obtaining by fraud, or trafficking in food instruments (including any item described in subsection (o)(1)(A) of this section issued in lieu of a food instrument under this section), funds, assets, or property.
+  (B) any other Federal law imposing a penalty for embezzlement, willful misapplication, stealing, obtaining by fraud, or trafficking in food instruments (including any item described in subsection (o)(1)(A) issued in lieu of a food instrument under this section), funds, assets, or property.
 
 (3) **Property subject to forfeiture** — The following property shall be subject to forfeiture under paragraph (1):
 
@@ -2270,9 +2270,9 @@ Subsec. (d)(3)(C)(ii)(II)(cc). Pub. L. 108–265, § 203(b)(2)(B), substituted �
 
 Subsec. (d)(3)(C)(ii)(III). Pub. L. 108–265, § 203(b)(2)(C), added subcl. (III).
 
-Subsec. (f)(1)(C)(i). Pub. L. 108–447, § 788(d), struck out period after “subsection (h)(11) of this section”.
+Subsec. (f)(1)(C)(i). Pub. L. 108–447, § 788(d), struck out period after “subsection (h)(11)”.
 
-Pub. L. 108–265, § 203(e)(10)(B), inserted before semicolon at end “, including a description of the State agency’s vendor peer group system, competitive price criteria, and allowable reimbursement levels that demonstrate that the State is in compliance with the cost-containment provisions in subsection (h)(11) of this section.”
+Pub. L. 108–265, § 203(e)(10)(B), inserted before semicolon at end “, including a description of the State agency’s vendor peer group system, competitive price criteria, and allowable reimbursement levels that demonstrate that the State is in compliance with the cost-containment provisions in subsection (h)(11).”
 
 Pub. L. 108–265, § 203(c)(1)(A), inserted “at any of the authorized retail stores under the program” after “foods under the program”.
 
@@ -2776,7 +2776,7 @@ Subsec. (g)(6). Pub. L. 101–147, § 123(a)(5)(E), added par. (6).
 
 Subsec. (h). Pub. L. 101–147, § 123(a)(6), amended subsec. (h) generally, substituting provisions regarding the establishment and administration of national average participant grants for purposes of funding nutrition services and administration and provisions on breastfeeding promotion and procurement of infant formula, for provisions limiting funding for nutrition services and administration to 20% of the total funding for the section, providing a formula for distributing funds to States and setting forth various administrative duties.
 
-Subsec. (i)(1). Pub. L. 101–147, § 123(a)(7)(A), substituted “amounts made available for food benefits under subsection (h)(1)(C) of this section” for “funds provided in accordance with this section”.
+Subsec. (i)(1). Pub. L. 101–147, § 123(a)(7)(A), substituted “amounts made available for food benefits under subsection (h)(1)(C)” for “funds provided in accordance with this section”.
 
 Subsec. (i)(3)(D). Pub. L. 101–147, § 123(a)(7)(B), substituted “cost containment measures as defined in subsection (h)(9)” for “approved cost-savings strategies as identified in subsection (h)(5)(A)” and “not more than 3 percent” for “at the discretion of the Secretary, up to 5 percent”.
 
@@ -2844,7 +2844,7 @@ Subsec. (n). Pub. L. 100–690, § 3201(6), added subsec. (n).
 
 Subsec. (b)(6), (13). Pub. L. 99–500 and Pub. L. 99–591, § 372(b)(1), and Pub. L. 99–661, § 4502(b)(1), amended pars. (6) and (13) identically, substituting “Health and Human Services” for “Health, Education, and Welfare”.
 
-Subsec. (c)(2). Pub. L. 99–500 and Pub. L. 99–591, § 314(1), and Pub. L. 99–661, § 4104(1), amended par. (2) identically, substituting “Subject to amounts appropriated to carry out this section under subsection (g) of this section” for “Subject to the authorization levels specified in subsection (g) of this section for the fiscal years ending September 30, 1979, and September 30, 1980, and subject to amounts appropriated for this program for the fiscal year ending September 30, 1981, and for each succeeding fiscal year ending on or before September 30, 1984”.
+Subsec. (c)(2). Pub. L. 99–500 and Pub. L. 99–591, § 314(1), and Pub. L. 99–661, § 4104(1), amended par. (2) identically, substituting “Subject to amounts appropriated to carry out this section under subsection (g)” for “Subject to the authorization levels specified in subsection (g) of this section for the fiscal years ending September 30, 1979, and September 30, 1980, and subject to amounts appropriated for this program for the fiscal year ending September 30, 1981, and for each succeeding fiscal year ending on or before September 30, 1984”.
 
 Subsec. (c)(4). Pub. L. 99–500 and Pub. L. 99–591, § 342(a), and Pub. L. 99–661, § 4302(a), amended subsec. (c) identically, adding par. (4).
 
@@ -3463,9 +3463,9 @@ Section effective Oct. 1, 1978, and no provisions to be construed to impair or t
 
 <a id="section-1790"></a>
 ## § 1790. Breastfeeding promotion program
-**(a) In general** The Secretary, from amounts received under subsection (d) of this section, shall establish a breastfeeding promotion program to promote breastfeeding as the best method of infant nutrition, foster wider public acceptance of breastfeeding in the United States, and assist in the distribution of breastfeeding equipment to breastfeeding women.
+**(a) In general** The Secretary, from amounts received under subsection (d), shall establish a breastfeeding promotion program to promote breastfeeding as the best method of infant nutrition, foster wider public acceptance of breastfeeding in the United States, and assist in the distribution of breastfeeding equipment to breastfeeding women.
 
-**(b) Conduct of program** In carrying out the program described in subsection (a) of this section, the Secretary may—
+**(b) Conduct of program** In carrying out the program described in subsection (a), the Secretary may—
 
 (1) develop or assist others to develop appropriate educational materials, including public service announcements, promotional publications, and press kits for the purpose of promoting breastfeeding;
 
@@ -3473,11 +3473,11 @@ Section effective Oct. 1, 1978, and no provisions to be construed to impair or t
 
 (3) provide funds to public and private individuals and entities, including physicians, health professional organizations, hospitals, community based health organizations, and employers, for the purpose of assisting such entities in the distribution of breastpumps and similar equipment to breastfeeding women.
 
-**(c) Cooperative agreements** The Secretary is authorized to enter into cooperative agreements with Federal agencies, State and local governments, and other entities to carry out the program described in subsection (a) of this section.
+**(c) Cooperative agreements** The Secretary is authorized to enter into cooperative agreements with Federal agencies, State and local governments, and other entities to carry out the program described in subsection (a).
 
 **(d) Gifts, bequests, and devises**
 
-(1) **In general** — The Secretary is authorized to solicit, accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of establishing and carrying out the program described in subsection (a) of this section. Gifts, bequests, or devises of money and proceeds from the sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Secretary.
+(1) **In general** — The Secretary is authorized to solicit, accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of establishing and carrying out the program described in subsection (a). Gifts, bequests, or devises of money and proceeds from the sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Secretary.
 
 (2) **Criteria for acceptance** — The Secretary shall establish criteria for determining whether to solicit and accept gifts, bequests, or devises under paragraph (1), including criteria that ensure that the acceptance of any gifts, bequests, or devises would not—
 

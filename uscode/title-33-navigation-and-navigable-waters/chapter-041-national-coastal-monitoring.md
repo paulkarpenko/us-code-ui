@@ -87,7 +87,7 @@ For extension of territorial sea and contiguous zone of United States, see Proc.
 
 (5) analysis of expected short-term and long-term trends in the environmental quality of the Nation’s coastal ecosystems; and
 
-(6) the development and implementation of intensive coastal water quality monitoring programs in accordance with subsection (d) of this section.
+(6) the development and implementation of intensive coastal water quality monitoring programs in accordance with subsection (d).
 
 **(c) Monitoring guidelines and protocols**
 
@@ -151,7 +151,7 @@ For extension of territorial sea and contiguous zone of United States, see Proc.
 
   (C) identify the water quality and biological parameters of the monitoring program and their relationship to these goals and objectives;
 
-  (D) describe the types of monitoring networks, surveys and other activities to be used to achieve these goals and objectives, using where appropriate the guidelines issued under subsection (c) of this section;
+  (D) describe the types of monitoring networks, surveys and other activities to be used to achieve these goals and objectives, using where appropriate the guidelines issued under subsection (c);
 
   (E) survey existing Federal, State, and local coastal monitoring activities and private compliance monitoring activities in or on the coastal waters covered by the program, describe the relationship of the program to those other monitoring activities, and integrate them, as appropriate, into the intensive monitoring program;
 
@@ -212,13 +212,15 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(b) Study** In carrying out the study under subsection (a), the Secretary shall—
 
-(1) as appropriate, coordinate with the heads of other appropriate Federal agencies, the Governors and other chief executive officers of the coastal states, nonprofit organizations, and other interested parties;
+(1) as appropriate, coordinate with the heads of other appropriate Federal agencies, the Governors and other chief executive officers of the coastal states, nonprofit organizations, Indian tribes, and other interested parties;
 
 (2) identify Corps of Engineers projects in coastal zones for enhancing ocean and coastal ecosystem resiliency based on an assessment of the need and opportunities for, and feasibility of, the projects;
 
-(3) to the maximum extent practicable, use any existing Corps of Engineers plans and data; and
+(3) give priority to projects in communities the existence of which is threatened by rising sea level, including projects relating to shoreline restoration, tidal marsh restoration, dunal habitats to protect coastal infrastructure, reduction of future and existing emergency repair costs, and the beneficial reuse of dredged materials;
 
-(4) not later than 365 days after initial appropriations for this section, and every five years thereafter subject to the availability of appropriations, complete a study authorized under subsection (a).
+(4) to the maximum extent practicable, use any existing Corps of Engineers plans and data; and
+
+(5) not later than 365 days after initial appropriations for this section, and every five years thereafter subject to the availability of appropriations, complete a study authorized under subsection (a).
 
 **(c) Disposition**
 
@@ -242,6 +244,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Codification
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of title V of Pub. L. 92–532, popularly known as the National Coastal Monitoring Act, which comprises this chapter.
+
+#### Amendments
+2016—Subsec. (b)(1). Pub. L. 114–322, § 1183(a)(1), inserted “Indian tribes,” after “nonprofit organizations,”.
+
+Subsec. (b)(3) to (5). Pub. L. 114–322, § 1183(a)(2), (3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).

@@ -9,29 +9,20 @@ source: >-
 <a id="section-941"></a>
 ## § 941. Findings
 
-The Congress finds and declares the following:
+Congress finds that—
 
-(1) As the human population of the Great Lakes Basin has expanded to over 35,000,000 people, great demands have been placed on the lakes for use for boating and other recreation, navigation, municipal and industrial water supply, waste disposal, power production, and other purposes. These growing and often conflicting demands exert pressure on the fish and wildlife resources of the Great Lakes Basin, including in the form of contaminants, invasion by nonindigenous species, habitat degradation and destruction, legal and illegal fishery resource harvest levels, and sea lamprey predation.
+(1) the Great Lakes have fish and wildlife communities that are structurally and functionally changing;
 
-(2) The fishery resources of the Great Lakes support recreational fisheries enjoyed by more than 5,000,000 people annually and commercial fisheries providing approximately 9,000 jobs. Together, these fisheries generate economic activity worth more than $4,400,000,000 annually to the United States.
+(2) successful fish and wildlife management focuses on the lakes as ecosystems, and effective management requires the coordination and integration of efforts of many partners;
 
-(3) The availability of a suitable forage base is essential to lake trout, walleye, yellow perch, and other recreational and commercially valuable fishery resources of the Great Lakes Basin. Protecting and restoring productive fish habitat, including by protecting water quality, is essential to the successful recovery of Great Lakes Basin fishery resources.
+(3) additional actions and better coordination are needed to protect and effectively manage the fish and wildlife resources, and the habitats on which the resources depend, in the Great Lakes Basin; and
 
-(4) The Great Lakes Basin contains important breeding and migration habitat for all types of migratory birds. Many migratory bird species dependent on deteriorating Great Lakes Basin habitat have suffered serious population declines in recent years.
-
-(5) Over 80 percent of the original wetlands in the Great Lakes Basin have been destroyed and such losses continue at a rate of 20,000 acres annually.
-
-(6) Contaminant burdens in the fish and wildlife resources of the Great Lakes Basin are substantial and the impacts of those contaminants on the life functions of important fish and wildlife resources are poorly understood. Concern over the effects of those contaminants on human health have resulted in numerous public health advisories recommending restricted or no consumption of Great Lakes fish.
-
-(7) The lower Great Lakes are uniquely different from the upper Great Lakes biologically, physically, and in the degree of human use and shoreline development, and special fishery resource assessments and management activities are necessary to respond effectively to these special circumstances.
+(4) this chapter allows Federal agencies, States, and Indian tribes to work in an effective partnership by providing the funding for restoration work.
 
 ### Statutory Notes
 
-#### Codification
-Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted identical sections. Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265.
-
-#### Amendments
-1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 2002, which enacted this section.
+#### Prior Provisions
+A prior section 941, Pub. L. 101–537, title I, § 1002, Nov. 8, 1990, 104 Stat. 2370; Pub. L. 101–646, title II, § 2002, Nov. 29, 1990, 104 Stat. 4773; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, § 3(b), Oct. 19, 1998, 112 Stat. 2358, related to Congressional findings, prior to repeal by Pub. L. 114–322, title III, § 3901(b), Dec. 16, 2016, 130 Stat. 1848.
 
 #### Short Title of 2006 Amendment
 Pub. L. 109–326, § 1, Oct. 11, 2006, 120 Stat. 1761, provided that: “This Act [amending sections 941b to 941g of this title and enacting provisions set out as notes under this section] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Act of 2006’.”
@@ -40,10 +31,10 @@ Pub. L. 109–326, § 1, Oct. 11, 2006, 120 Stat. 1761, provided that: “This A
 Pub. L. 105–265, § 1, Oct. 19, 1998, 112 Stat. 2358, provided that: “This Act [amending this section and sections 941 to 941g of this title and enacting provisions set out as a note under this section] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Act of 1998’.”
 
 #### Short Title
-Section 1001 of title I of Pub. L. 101–537, and section 2001 of title II of Pub. L. 101–646, as amended by Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091, provided that: “This title [enacting this chapter] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Act of 1990’.” Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, § 3(b), Oct. 19, 1998, 112 Stat. 2358.
+Pub. L. 101–537, title I, § 1001, Nov. 8, 1990, 104 Stat. 2370, and Pub. L. 101–646, title II, § 2001, Nov. 29, 1990, 104 Stat. 4773, as amended by Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091, provided that: “This title [enacting this chapter] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Act of 1990’.” Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, § 3(b), Oct. 19, 1998, 112 Stat. 2358.
 
 #### Continued Monitoring and Assessment of Study Findings and Recommendations
-Pub. L. 109–326, § 8, Oct. 11, 2006, 120 Stat. 1766, provided that: “The Director of the United States Fish and Wildlife Service— “(1) shall continue to monitor the status, and the assessment, management, and restoration needs, of the fish and wildlife resources of the Great Lakes Basin; and “(2) may reassess and update, as necessary, the findings and recommendations of the report entitled ‘Great Lakes Fishery Resources Restoration Study’, submitted to the President of the Senate and the Speaker of the House of Representatives on September 13, 1995.”
+Pub. L. 109–326, § 8, Oct. 11, 2006, 120 Stat. 1766, which required the Director of the United States Fish and Wildlife Service to monitor fish and wildlife resources of the Great Lakes Basin and to update findings and recommendations of the Great Lakes Fishery Resources Restoration Study, was repealed by Pub. L. 114–322, title III, § 3901(h), Dec. 16, 2016, 130 Stat. 1851.
 
 #### Congressional Findings
 Pub. L. 109–326, § 2, Oct. 11, 2006, 120 Stat. 1761, provided that: “Congress finds that— “(1) the Great Lakes have fish and wildlife communities that are structurally and functionally changing; “(2) successful fish and wildlife management focuses on the lakes as ecosystems, and effective management requires the coordination and integration of efforts of many partners; “(3) it is in the national interest to undertake activities in the Great Lakes Basin that support sustainable fish and wildlife resources of common concern provided under the recommendations of the Great Lakes Regional Collaboration authorized under Executive Order 13340 (69 Fed. Reg. 29043; relating to the Great Lakes Interagency Task Force) [[33 U.S.C. 1268](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1268&num=0&edition=prelim) note]; “(4) additional actions and better coordination are needed to protect and effectively manage the fish and wildlife resources, and the habitats upon which the resources depend, in the Great Lakes Basin; “(5) as of the date of enactment of this Act [Oct. 11, 2006], actions are not funded that are considered essential to meet the goals and objectives in managing the fish and wildlife resources, and the habitats upon which the resources depend, in the Great Lakes Basin; and “(6) the Great Lakes Fish and Wildlife Restoration Act [of 1990] ([16 U.S.C. 941](./chapter-15b-great-lakes-fish-and-wildlife-restoration.md#section-941) et seq.) allows Federal agencies, States, and tribes to work in an effective partnership by providing the funding for restoration work.”
@@ -169,9 +160,13 @@ Par. (14). Pub. L. 105–265, § 5(2), (3), redesignated par. (7) as (14).
 
     (iv) the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 ([16 U.S.C. 4701](./chapter-067-aquatic-nuisance-prevention-and-control.md#section-4701) et seq.);
 
-    (v) the North American Waterfowl Management Plan and joint ventures established under the plan; and
+    (v) the North American Waterfowl Management Plan and joint ventures established under the plan;
 
-    (vi) the strategies outlined through the Great Lakes Regional Collaboration authorized under Executive Order 13340 (69 Fed. Reg. 29043; relating to the Great Lakes Interagency Task Force).
+    (vi) the strategies outlined through the Great Lakes Regional Collaboration authorized under Executive Order 13340 (69 Fed. Reg. 29043; relating to the Great Lakes Interagency Task Force);
+
+    (vii) the strategic action plan of the Great Lakes Restoration Initiative; and
+
+    (viii) each applicable State wildlife action plan.
 
 (3) **Sea lamprey authority** — The Great Lakes Fishery Commission shall retain authority and responsibility to formulate and implement a comprehensive program to eradicate or minimize sea lamprey populations in the Great Lakes Basin.
 
@@ -189,7 +184,7 @@ Par. (14). Pub. L. 105–265, § 5(2), (3), redesignated par. (7) as (14).
 
   (B) *Appointments* — Each representative shall serve at the pleasure of the appointing State Director or Tribal Chair.
 
-  (C) *Observer* — The Great Lakes Coordinator of the United States Fish and Wildlife Service shall participate as an observer of the Committee.
+  (C) *Observer* — The United States Fish and Wildlife Service shall participate as an observer of the Committee.
 
   (D) *Recusal* — A member of the Committee shall recuse himself or herself from consideration of proposals that the member, or the entity that the member represents, has submitted.
 
@@ -213,13 +208,61 @@ Par. (14). Pub. L. 105–265, § 5(2), (3), redesignated par. (7) as (14).
 
 **(e) Cost sharing**
 
-(1) **In general** — Except as provided in paragraphs (2) and (4), not less than 25 percent of the cost of implementing a proposal selected under subsection (d) (excluding the cost of establishing sea lamprey barriers) shall be paid in cash or in-kind contributions by non-Federal sources.
+(1) **In general**
 
-(2) **Regional projects** — Regional projects selected under subsection (d) shall be exempt from cost sharing if the Director determines that the authorization for the project does not require a non-Federal cost-share.
+  (A) *Non-Federal share* — Except as provided in paragraphs (3) and (5) and subject to paragraph (2), not less than 25 percent of the cost of implementing a proposal or regional project selected under subsection (d) (excluding the cost of establishing sea lamprey barriers) shall be paid in cash or in-kind contributions by non-Federal sources.
 
-(3) **Exclusion of Federal funds from non-Federal share** — The Director may not consider the expenditure, directly or indirectly, of Federal funds received by any entity to be a contribution by a non-Federal source for purposes of this subsection.
+  (B) *Time period for providing match* — The non-Federal share of the cost of implementing a proposal or regional project required under subparagraph (A) may be provided at any time during the 2-year period preceding January 1 of the year in which the Director receives the application for the proposal or regional project.
 
-(4) **Effect on certain Indian tribes** — Nothing in this subsection affects an Indian tribe affected by an alternative applicable cost sharing requirement under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.).
+(2) **Authorized sources of non-Federal share**
+
+  (A) *In general* — The Director may determine the non-Federal share under paragraph (1) by taking into account—
+
+    (i) the appraised value of land or a conservation easement as described in subparagraph (B); or
+
+    (ii) as described in subparagraph (C), the costs associated with—
+
+      (I) securing a conservation easement; and
+
+      (II) restoration or enhancement of the conservation easement.
+
+  (B) *Appraisal of conservation easement*
+
+    (i) *In general* — The value of a conservation easement may be used to satisfy the non-Federal share of the cost of implementing a proposal or regional project required under paragraph (1)(A) if the Director determines that the conservation easement—
+
+      (I) meets the requirements of subsection (b)(2);
+
+      (II) is acquired before the end of the grant period of the proposal or regional project;
+
+      (III) is held in perpetuity for the conservation purposes of the programs of the United States Fish and Wildlife Service related to the Great Lakes Basin, as described in [section 941d of this title](./chapter-15b-great-lakes-fish-and-wildlife-restoration.md#section-941d), by an accredited land trust or conservancy or a Federal, State, or tribal agency;
+
+      (IV) is connected either physically or through a conservation planning process to the proposal or regional project; and
+
+      (V) is appraised in accordance with clause (ii).
+
+    (ii) *Appraisal* — With respect to the appraisal of a conservation easement described in clause (i)—
+
+      (I) the appraisal valuation date shall be not later than 1 year after the price of the conservation easement was set under a contract; and
+
+      (II) the appraisal shall—
+
+        (aa) conform to the Uniform Standards of Professional Appraisal Practice (USPAP); and
+
+        (bb) be completed by a Federal- or State-certified appraiser.
+
+  (C) *Costs of securing conservation easements*
+
+    (i) *In general* — All costs associated with securing a conservation easement and restoration or enhancement of that conservation easement may be used to satisfy the non-Federal share of the cost of implementing a proposal or regional project required under paragraph (1)(A) if the activities and expenses associated with securing the conservation easement and restoration or enhancement of that conservation easement meet the requirements of subparagraph (B)(i).
+
+    (ii) *Inclusion* — The costs referred to in clause (i) may include cash, in-kind contributions, and indirect costs.
+
+    (iii) *Exclusion* — The costs referred to in clause (i) may not be costs associated with mitigation or litigation (other than costs associated with the Natural Resource Damage Assessment program).
+
+(3) **Regional projects** — Regional projects selected under subsection (d) shall be exempt from cost sharing if the Director determines that the authorization for the project does not require a non-Federal cost-share.
+
+(4) **Exclusion of Federal funds from non-Federal share** — The Director may not consider the expenditure, directly or indirectly, of Federal funds received by any entity to be a contribution by a non-Federal source for purposes of this subsection.
+
+(5) **Effect on certain Indian tribes** — Nothing in this subsection affects an Indian tribe affected by an alternative applicable cost sharing requirement under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.).11 See References in Text note below.
 
 ### Statutory Notes
 
@@ -228,12 +271,20 @@ The Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, referred 
 
 Executive Order 13340, referred to in subsec. (b)(2)(B)(vi), is Ex. Ord. No. 13340, May 18, 2004, 69 F.R. 29043, which is set out as a note under [section 1268 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1268&num=0&edition=prelim), Navigation and Navigable Waters.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(4), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(5), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
 #### Codification
 Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substantially identical sections. Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, § 3(b).
 
 #### Amendments
+2016—Subsec. (b)(2)(B)(vii), (viii). Pub. L. 114–322, § 3901(c)(1), added cls. (vii) and (viii).
+
+Subsec. (c)(2)(C). Pub. L. 114–322, § 3901(c)(2), struck out “Great Lakes Coordinator of the” before “United States Fish and Wildlife Service”.
+
+Subsec. (e)(1). Pub. L. 114–322, § 3901(c)(3)(A), designated exisiting provisions as subpar. (A) and inserted heading, substituted “Except as provided in paragraphs (3) and (5) and subject to paragraph (2), not less than 25 percent of the cost of implementing a proposal or regional project” for “Except as provided in paragraphs (2) and (4), not less than 25 percent of the cost of implementing a proposal”, and added subpar. (B).
+
+Subsec. (e)(2) to (5). Pub. L. 114–322, § 3901(c)(3)(B), (C), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+
 2006—Pub. L. 109–326 amended section generally. Prior to amendment, section related to identification, review, and implementation of proposals.
 
 1998—Pub. L. 105–265 amended section generally, substituting present provisions for provisions requiring a Great Lakes fishery resources restoration study and development of proposals for implementing recommendations.
@@ -271,39 +322,21 @@ Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted identical
 
 <a id="section-941e"></a>
 ## § 941e. Establishment of offices
-**(a) Great Lakes Coordination Office**
-
-(1) **In general** — The Director shall establish a centrally located facility for the coordination of all United States Fish and Wildlife Service activities in the Great Lakes Basin, to be known as the “Great Lakes Coordination Office”.
-
-(2) **Functional responsibilities** — The functional responsibilities of the Great Lakes Coordination Office shall include—
-
-  (A) intra- and interagency coordination;
-
-  (B) information distribution; and
-
-  (C) public outreach.
-
-(3) **Requirements** — The Great Lakes Coordination Office shall—
-
-  (A) ensure that information acquired under this chapter is made available to the public; and
-
-  (B) report to the Director of Region 3, Great Lakes Big Rivers.
-
-**(b) Lower Great Lakes Fishery Resources Office**
+**(a) Lower Great Lakes Fish and Wildlife Conservation Office**
 
 (1) **In general** — The Director shall establish an office with necessary administrative and technical support services to carry out all United States Fish and Wildlife Service operational activities related to fishery resource protection, restoration, maintenance, and enhancement in the lower Great Lakes.
 
-(2) **Name and location** — The office shall be known as the “Lower Great Lakes Fishery Resources Office”, and shall be centrally located in the lower Great Lakes so as to facilitate fishery resource restoration and enhancement activities relating to the lower Great Lakes.
+(2) **Name and location** — The office shall be known as the “Lower Great Lakes Fish and Wildlife Conservation Office”, and shall be centrally located in the lower Great Lakes so as to facilitate fishery resource restoration and enhancement activities relating to the lower Great Lakes.
 
-(3) **Responsibilities** — The responsibilities of the Lower Great Lakes Fishery Resources Office shall include operational activities of the United States Fish and Wildlife Service related to fishery resource protection, restoration, maintenance, and enhancement in the Lower Great Lakes.
+(3) **Responsibilities** — The responsibilities of the Lower Great Lakes Fish and Wildlife Conservation Office shall include operational activities of the United States Fish and Wildlife Service related to fishery resource protection, restoration, maintenance, and enhancement in the Lower Great Lakes.
 
-**(c) Upper Great Lakes Fishery Resources Offices**
+**(b) Upper Great Lakes Fish and Wildlife Conservation Offices**
 
 (1) **In general** — The Director shall establish one or more offices with necessary administrative and technical support services to carry out United States Fish and Wildlife Service operational activities related to fishery resource protection, restoration, maintenance, and enhancement in the upper Great Lakes.
 
-(2) **Name and location** — Each of the offices shall be known as an “Upper Great Lakes Fishery Resources Office”, and shall be appropriately located so as to facilitate fishery resource activities in the upper Great Lakes.
+(2) **Name and location** — Each of the offices shall be known as an “Upper Great Lakes Fish and Wildlife Conservation Office”, and shall be appropriately located so as to facilitate fishery resource activities in the upper Great Lakes.
 
-(3) **Responsibilities** — The responsibilities of the Upper Great Lakes Fishery Resources Offices shall include operational activities of the United States Fish and Wildlife Service related to fishery resource protection, restoration, maintenance, and enhancement in the Upper Great Lakes.
+(3) **Responsibilities** — The responsibilities of the Upper Great Lakes Fish and Wildlife Conservation Offices shall include operational activities of the United States Fish and Wildlife Service related to fishery resource protection, restoration, maintenance, and enhancement in the Upper Great Lakes.
 
 ### Statutory Notes
 
@@ -311,6 +344,16 @@ Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted identical
 Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substantially identical sections. Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–322, § 3901(d)(3), (4), redesignated subsec. (b) as (a) and struck out former subsec. (a) which related to establishment of the Great Lakes Coordination Office.
+
+Subsec. (b). Pub. L. 114–322, § 3901(d)(4), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
+
+Pub. L. 114–322, § 3901(d)(1), substituted “Fish and Wildlife Conservation” for “Fishery Resources” in heading and in pars. (2) and (3).
+
+Subsec. (c). Pub. L. 114–322, § 3901(d)(4), redesignated subsec. (c) as (b).
+
+Pub. L. 114–322, § 3901(d)(2), substituted “Fish and Wildlife Conservation” for “Fishery Resources” in heading and in pars. (2) and (3).
+
 2006—Subsec. (a). Pub. L. 109–326, § 6(1), added subsec. (a) and struck out former subsec. (a). Text read as follows: “The Director shall establish a centrally located facility for the coordination of all United States Fish and Wildlife Service activities in the Great Lakes Basin, to be known as the ‘Great Lakes Coordination Office’. The functional responsibilities of the Great Lakes Coordination Office shall include intra- and interagency coordination, information distribution, and public awareness outreach. The Great Lakes Coordination Office shall include all administrative and technical support necessary to carry out its responsibilities.”
 
 Subsec. (b). Pub. L. 109–326, § 6(2), designated first and second sentences of subsec. (b) as pars. (1) and (2), respectively, inserted headings, and added par. (3).
@@ -322,7 +365,7 @@ Subsec. (c). Pub. L. 109–326, § 6(3), designated first and second sentences o
 
 <a id="section-941f"></a>
 ## § 941f. Reports
-**(a) In general** Not later than December 31, 2011, the Director shall submit to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that describes—
+**(a) In general** Not later than December 31, 2021, the Director shall submit to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that describes—
 
 (1) actions taken to solicit and review proposals under [section 941c of this title](./chapter-15b-great-lakes-fish-and-wildlife-restoration.md#section-941c);
 
@@ -330,7 +373,7 @@ Subsec. (c). Pub. L. 109–326, § 6(3), designated first and second sentences o
 
 (3) progress toward the accomplishment of the goals specified in [section 941d of this title](./chapter-15b-great-lakes-fish-and-wildlife-restoration.md#section-941d).
 
-**(b) Public access to data** For each of fiscal years 2007 through 2012, the Director shall make available through a public access website of the Department information that describes—
+**(b) Public access to data** For each of fiscal years 2016 through 2020, the Director shall make available through a public access website of the Department information that describes—
 
 (1) actions taken to solicit and review proposals under [section 941c of this title](./chapter-15b-great-lakes-fish-and-wildlife-restoration.md#section-941c);
 
@@ -340,9 +383,13 @@ Subsec. (c). Pub. L. 109–326, § 6(3), designated first and second sentences o
 
 (4) the priorities proposed for funding in the annual budget process under this chapter; and
 
-(5) actions taken in support of the recommendations of the Great Lakes Regional Collaboration authorized under Executive Order 13340 (69 Fed. Reg. 29043; relating to the Great Lakes Interagency Task Force).
+(5) actions taken in support of the Great Lakes Restoration Initiative Action Plan based on the recommendations of the Great Lakes Regional Collaboration authorized under Executive Order 13340 (69 Fed. Reg. 29043; relating to the Great Lakes Interagency Task Force).
 
-**(c) Report** Not later than June 30, 2007, the Director shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives the 2002 report required under this section as in effect on the day before October 11, 2006.
+**(c) Continued monitoring and assessment of study findings and recommendations** The Director—
+
+(1) shall continue to monitor the status, and the assessment, management, and restoration needs, of the fish and wildlife resources of the Great Lakes Basin; and
+
+(2) may reassess and update, as necessary, the findings and recommendations of the Report.
 
 ### Statutory Notes
 
@@ -353,6 +400,14 @@ Executive Order 13340, referred to in subsec. (b)(5), is Ex. Ord. No. 13340, May
 Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substantially identical sections. Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, § 3(b).
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–322, § 3901(e)(1), substituted “2021” for “2011” in introductory provisions.
+
+Subsec. (b). Pub. L. 114–322, § 3901(e)(2)(A), substituted “2016 through 2020” for “2007 through 2012” in introductory provisions.
+
+Subsec. (b)(5). Pub. L. 114–322, § 3901(e)(2)(B), inserted “the Great Lakes Restoration Initiative Action Plan based on” after “in support of”.
+
+Subsec. (c). Pub. L. 114–322, § 3901(e)(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Not later than June 30, 2007, the Director shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives the 2002 report required under this section as in effect on the day before October 11, 2006.”
+
 2006—Pub. L. 109–326 amended section catchline and text generally. Prior to amendment, text read as follows: “On December 31, 2002, the Director shall submit to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that describes—
 
 “(1) actions taken to solicit and review proposals under [section 941c of this title](./chapter-15b-great-lakes-fish-and-wildlife-restoration.md#section-941c);
@@ -371,16 +426,17 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 <a id="section-941g"></a>
 ## § 941g. Authorization of appropriations
+**(a) Authorization** There are authorized to be appropriated to the Director for each of fiscal years 2016 through 2021—
 
-There are authorized to be appropriated to the Director for each of fiscal years 2007 through 2012—
+(1) $6,000,000 to implement fish and wildlife restoration proposals as selected by the Director under [section 941c(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section941c/e&num=0&edition=prelim), of which—
 
-(1) $14,000,000 to implement fish and wildlife restoration proposals as selected by the Director under [section 941c(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section941c/e&num=0&edition=prelim), of which—
+  (A) not more than the lesser of 33 1/3 percent or $2,000,000 may be allocated to implement regional projects by the United States Fish and Wildlife Service, as selected by the Director under [section 941c(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section941c/e&num=0&edition=prelim); and
 
-  (A) not more than the lesser of 33 1/3 percent or $4,600,000 may be allocated to implement regional projects by the United States Fish and Wildlife Service, as selected by the Director under [section 941c(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section941c/e&num=0&edition=prelim); and
+  (B) the lesser of 5 percent or $300,000 shall be allocated to the United States Fish and Wildlife Service to cover costs incurred in administering the proposals by any entity; and
 
-  (B) the lesser of 5 percent or $700,000 shall be allocated to the United States Fish and Wildlife Service to cover costs incurred in administering the proposals by any entity; and
+(2) $2,000,000, which shall be allocated for the activities of the Upper Great Lakes Fish and Wildlife Conservation Offices and the Lower Great Lakes Fish and Wildlife Conservation Office under [section 941e of this title](./chapter-15b-great-lakes-fish-and-wildlife-restoration.md#section-941e).
 
-(2) $2,000,000, which shall be allocated for the activities of the Great Lakes Coordination Office in East Lansing, Michigan, of the Upper Great Lakes Fishery Resources Office, and the Lower Great Lakes Fishery Resources Office under [section 941e of this title](./chapter-15b-great-lakes-fish-and-wildlife-restoration.md#section-941e).
+**(b) Prohibition on use of funds for Federal acquisition of interests in land** No funds appropriated or used to carry out this chapter may be used for acquisition by the Federal Government of any interest in land.
 
 ### Statutory Notes
 
@@ -388,6 +444,18 @@ There are authorized to be appropriated to the Director for each of fiscal years
 Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substantially identical provisions of subsec. (a), but Pub. L. 101–537 did not enact a subsec. (b). Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, § 3(b).
 
 #### Amendments
+2016—Pub. L. 114–322, § 3901(g), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+Pub. L. 114–322, § 3901(f)(1) substituted “2016 through 2021” for “2007 through 2012” in introductory provisions.
+
+Par. (1). Pub. L. 114–322, § 3901(f)(2)(A), substituted “$6,000,000” for “$14,000,000” in introductory provisions.
+
+Par. (1)(A). Pub. L. 114–322, § 3901(f)(2)(B), substituted “$2,000,000” for “$4,600,000”.
+
+Par. (1)(B). Pub. L. 114–322, § 3901(f)(2)(C), substituted “$300,000” for “$700,000”.
+
+Par. (2). Pub. L. 114–322, § 3901(f)(3), substituted “the activities of the Upper Great Lakes Fish and Wildlife Conservation Offices and the Lower Great Lakes Fish and Wildlife Conservation Office under [section 941e of this title](./chapter-15b-great-lakes-fish-and-wildlife-restoration.md#section-941e)” for “the activities of the Great Lakes Coordination Office in East Lansing, Michigan, of the Upper Great Lakes Fishery Resources Office, and the Lower Great Lakes Fishery Resources Office under [section 941e of this title](./chapter-15b-great-lakes-fish-and-wildlife-restoration.md#section-941e)”.
+
 2006—Pub. L. 109–326 amended section generally, substituting provisions authorizing appropriations for fiscal years 2007 to 2012 for provisions authorizing appropriations for fiscal years 1999 to 2004.
 
 1998—Pub. L. 105–265 amended section generally, substituting provisions authorizing appropriations for fiscal years 1999 to 2004 for provisions authorizing appropriations for fiscal years 1991 to 1994 to conduct a study under [section 941c of this title](./chapter-15b-great-lakes-fish-and-wildlife-restoration.md#section-941c) and for fiscal years 1991 to 1995 to establish and operate Great Lakes Coordination and Upper and Lower Great Lakes Fishery Resources Offices.

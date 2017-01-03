@@ -2,7 +2,7 @@
 title: 2
 chapter: '28'
 heading: ARCHITECT OF THE CAPITOL
-section_count: 61
+section_count: 66
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -56,6 +56,9 @@ Committee on House Oversight of House of Representatives changed to Committee on
 The name of Superintendent of the Capitol Building and Grounds was changed to Architect of the Capitol by Act Mar. 3, 1921, ch. 124, 41 Stat. 1291, the Legislative, Executive, and Judicial Appropriation Act Mar. 3, 1921, fiscal year 1922.
 
 The name of Architect of the Capitol was changed to Superintendent of the Capitol Building and Grounds, by act Feb. 14, 1902, ch. 17, 32 Stat. 20, popularly known as the “Urgent Deficiency Appropriation Act for 1902”.
+
+#### Short Title of 2016 Amendment
+Pub. L. 114–156, § 1, May 16, 2016, 130 Stat. 391, provided that: “This Act [enacting subchapter V of this chapter] may be cited as the ‘Fallen Heroes Flag Act of 2016’.”
 
 #### Comprehensive Management Study and Response
 Pub. L. 107–68, title I, § 129(d), Nov. 12, 2001, 115 Stat. 580, provided that: “(1) Study by comptroller general.—Not later than November 1, 2002, the Comptroller General shall conduct a comprehensive management study of the operations of the Architect of the Capitol, and submit the study to the Architect of the Capitol and the Committees on Appropriations of the House of Representatives and Senate. “(2) Plan by architect in response.—After the Comptroller General submits the study conducted under paragraph (1) to the Committees referred to in such paragraph, the Architect of the Capitol shall develop and submit to such Committees a management improvement plan which addresses the study and which indicates how the personnel for whom the Architect fixes the rate of basic pay under the amendment made by subsection (c)(1) [amending [section 1849 of this title](./chapter-028-architect-of-the-capitol.md#section-1849)] will support such plan.”
@@ -1516,3 +1519,51 @@ Section is from the Legislative Branch Appropriations Act, 2010, which is div. A
 
 #### References in Text
 Section 1101, referred to in subsec. (a), is section 1101 of title I of div. F of Pub. L. 113—6, Mar. 26, 2013, 127 Stat. 412, which is not classified to the Code.
+
+
+<a id="section-1881"></a>
+## § 1881. Definitions
+
+In this subchapter—
+
+(1) the term “Capitol-flown flag” means a flag of the United States flown over the Capitol in honor of the deceased individual for whom the flag is requested;
+
+(2) the terms “chaplain”, “firefighter”, “law enforcement officer”, “member of a rescue squad or ambulance crew”, and “public agency” have the meanings given such terms in [section 3796b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796b&num=0&edition=prelim);
+
+(3) the term “immediate family member”, with respect to an individual, means—
+
+  (A) the spouse, parent, brother, sister, or child of the individual or a person to whom the individual stands in loco parentis; or
+
+  (B) any other person related to the individual by blood or marriage;
+
+(4) the term “public safety officer” means an individual serving a public agency in an official capacity, with or without compensation, as a law enforcement officer, as a firefighter, or as a chaplain; and
+
+(5) the term “Representative” includes a Delegate or Resident Commissioner to the Congress.
+
+
+<a id="section-1881a"></a>
+## § 1881a. Providing Capitol-flown flags for families of fallen heroes
+**(a) In general** At the request of an immediate family member of a firefighter, law enforcement officer, member of a rescue squad or ambulance crew, or public safety officer who died in the line of duty, the Representative or Senator of the family may provide to the family a Capitol-flown flag, together with the certificate described in subsection (c).
+
+**(b) No cost to family** A Capitol-flown flag provided under this section shall be provided at no cost to the family.
+
+**(c) Certificate** The certificate described in this subsection is a certificate which is signed by the Speaker of the House of Representatives and the Representative, or the President pro tempore of the Senate and the Senator, providing the Capitol-flown flag, as applicable, and which contains an expression of sympathy for the family involved from the House of Representatives or the Senate, as applicable.
+
+
+<a id="section-1881b"></a>
+## § 1881b. Regulations and procedures
+**(a) In general** Not later than 30 days after May 16, 2016, the Architect of the Capitol shall issue regulations for carrying out this subchapter, including regulations to establish procedures (including any appropriate forms, guidelines, and accompanying certificates) for requesting a Capitol-flown flag.
+
+**(b) Review** The regulations issued under subsection (a) shall take effect upon approval by the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate.
+
+
+<a id="section-1881c"></a>
+## § 1881c. Authorization of appropriations
+
+There are authorized to be appropriated for each of fiscal years 2017 through 2022 such sums as may be necessary to carry out this subchapter, to be derived from amounts appropriated in each such fiscal year for the operation of the Architect of the Capitol, except that the aggregate amount appropriated to carry out this subchapter for all such fiscal years may not exceed $40,000.
+
+
+<a id="section-1881d"></a>
+## § 1881d. Effective date
+
+This subchapter shall take effect on May 16, 2016, except that a Capitol-flown flag may not be provided under [section 1881a of this title](./chapter-028-architect-of-the-capitol.md#section-1881a) until the regulations issued under [section 1881b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1881b/a&num=0&edition=prelim) take effect in accordance with [section 1881b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1881b/b&num=0&edition=prelim).

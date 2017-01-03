@@ -27,7 +27,7 @@ source: >-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 308501 | [16 U.S.C. 469m(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469m/b&num=0&edition=prelim) | Pub. L. 111–11, title VII, subtitle B, § 7111(b), Mar. 30, 2009, 123 Stat. 1200. |
+| 308501 | [16 U.S.C. 469m(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469m/b&num=0&edition=prelim). | Pub. L. 111–11, title VII, subtitle B, § 7111(b), Mar. 30, 2009, 123 Stat. 1200. |
 
 In subsection (e), reference to fiscal years 2009 to 2011 is omitted as obsolete.
 
@@ -55,7 +55,7 @@ In subsection (e), reference to fiscal years 2009 to 2011 is omitted as obsolete
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 308502 | [16 U.S.C. 469m(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469m/c&num=0&edition=prelim) | Pub. L. 111–11, title VII, subtitle B, § 7111(c), Mar. 30, 2009, 123 Stat. 1200. |
+| 308502 | [16 U.S.C. 469m(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469m/c&num=0&edition=prelim). | Pub. L. 111–11, title VII, subtitle B, § 7111(c), Mar. 30, 2009, 123 Stat. 1200. |
 
 In subsection (b)(1), the words “nongovernmental managing entity” are substituted for “nongovernmental managing network” for consistency.
 

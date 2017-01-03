@@ -143,11 +143,11 @@ Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 707], Sept. 30, 199
 
 **(f) Coordination** The Director shall ensure coordination of the policies and activities of the Institute with the policies and activities of other agencies and offices of the Federal Government having interest in and responsibilities for the improvement of museums and libraries and information services. Where appropriate, the Director shall ensure that such policies and activities are coordinated with—
 
-(1) activities under [section 6383 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6383);
+(1) activities under [section 6646 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6646);
 
-(2) programs and activities under the Head Start Act ([42 U.S.C. 9831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9831&num=0&edition=prelim) et seq.) (including programs and activities under subparagraphs (H)(vii) and (J)(iii) of section 641(d)(2) of such Act) ([42 U.S.C. 9836(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9836/d/2&num=0&edition=prelim));
+(2) programs and activities under the Head Start Act ([42 U.S.C. 9831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9831&num=0&edition=prelim) et seq.) (including programs and activities under subparagraphs (H)(vii) and (J)(iii) of section 641(d)(2) of such Act) ([42 U.S.C. 9836(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9836/d/2&num=0&edition=prelim)); 11 See References in Text note below.
 
-(3) activities under the Workforce Innovation and Opportunity Act [[29 U.S.C. 3101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) et seq.] (including activities under section 121(e) of such Act [[29 U.S.C. 3151(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim)])); 11 So in original. The second closing parenthesis probably should not appear. and
+(3) activities under the Workforce Innovation and Opportunity Act [[29 U.S.C. 3101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) et seq.] (including activities under section 121(e) of such Act [[29 U.S.C. 3151(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim)])); 22 So in original. The second closing parenthesis probably should not appear. and
 
 (4) Federal programs and activities that increase the capacity of libraries and museums to act as partners in economic and community development, education and research, improving digital literacy skills, and disseminating health information.
 
@@ -180,7 +180,7 @@ Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 707], Sept. 30, 199
 #### References in Text
 This chapter, referred to in subsec. (e)(2) and the second place it appears in subsec. (i)(2), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 94–462, known as the Museum and Library Services Act, to reflect the probable intent of Congress.
 
-The Head Start Act, referred to in subsec. (f)(2), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
+The Head Start Act, referred to in subsec. (f)(2), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. Cl. (vii) of section 641(d)(2)(H) of that Act was redesignated cl. (vi) by Pub. L. 114–95, title IX, § 9215(nn)(2)(A)(ii), Dec. 10, 2015, 129 Stat. 2176, and is now classified to [section 9836(d)(2)(H)(vi) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9836/d/2/H/vi&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (f)(3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of this title, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
@@ -188,20 +188,25 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (f)(3), is 
 A prior section 204 of Pub. L. 94–462 was classified to [section 963 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section963&num=0&edition=prelim) prior to the general amendment of title II of Pub. L. 94–462 by Pub. L. 104–208.
 
 #### Amendments
+2015—Subsec. (f)(1). Pub. L. 114–95 added par. (1) and struck out former par. (1) which read as follows: “activities under [section 6383 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6383&num=0&edition=prelim);”.
+
 2014—Subsec. (f)(3). Pub. L. 113–128 substituted “activities under the Workforce Innovation and Opportunity Act (including activities under section 121(e) of such Act))” for “activities under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.) (including activities under section 134(c) of such Act) ([29 U.S.C. 2864(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim))”.
 
 2010—Subsec. (c). Pub. L. 111–340, § 102(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Director shall perform such duties and exercise such powers as may be prescribed by law, including awarding financial assistance for activities described in this chapter.”
 
-Subsecs. (e) to (g). Pub. L. 111–340, § 102(3), added subsecs. (e) to (g) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “The Director shall ensure coordination of the policies and activities of the Institute with the policies and activities of other agencies and offices of the Federal Government having interest in and responsibilities for the improvement of museums and libraries and information services. Where appropriate, the Director shall ensure that activities under subchapter II of this chapter are coordinated with activities under [section 6383 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6383).” Former subsecs. (f) and (g) redesignated (h) and (i), respectively.
+Subsecs. (e) to (g). Pub. L. 111–340, § 102(3), added subsecs. (e) to (g) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “The Director shall ensure coordination of the policies and activities of the Institute with the policies and activities of other agencies and offices of the Federal Government having interest in and responsibilities for the improvement of museums and libraries and information services. Where appropriate, the Director shall ensure that activities under subchapter II of this chapter are coordinated with activities under [section 6383 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6383&num=0&edition=prelim).” Former subsecs. (f) and (g) redesignated (h) and (i), respectively.
 
 Subsecs. (h), (i). Pub. L. 111–340, § 102(2), redesignated subsecs. (f) and (g) as (h) and (i), respectively.
 
-2003—Subsec. (e). Pub. L. 108–81, § 103(1), inserted at end “Where appropriate, the Director shall ensure that activities under subchapter II of this chapter are coordinated with activities under [section 6383 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6383).”
+2003—Subsec. (e). Pub. L. 108–81, § 103(1), inserted at end “Where appropriate, the Director shall ensure that activities under subchapter II of this chapter are coordinated with activities under [section 6383 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6383&num=0&edition=prelim).”
 
 Subsecs. (f), (g). Pub. L. 108–81, § 103(2), added subsecs. (f) and (g).
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
+
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Service of Individuals Serving on September 30, 1996
 Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 705], Sept. 30, 1996, 110 Stat. 3009–233, 3009–311, which provided that the individual who was appointed to the position of Director of the Institute of Museum Services and was serving in such position on the day before Sept. 30, 1996, would serve, at the pleasure of the President, as the first Director of the Institute of Museum and Library Services, was repealed by Pub. L. 108–81, title V, § 505(b), Sept. 25, 2003, 117 Stat. 1004.
@@ -302,7 +307,7 @@ Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 706], Sept. 30, 199
 
 **(c) Terms**
 
-(1) **In general** — Each member of the Museum and Library Services Board appointed under subparagraph (D) or (E) of subsection (b)(1) of this section shall serve for a term of 5 years.
+(1) **In general** — Each member of the Museum and Library Services Board appointed under subparagraph (D) or (E) of subsection (b)(1) shall serve for a term of 5 years.
 
 (2) **Authority to adjust terms** — The terms of the members appointed to the Museum and Library Service Board shall be adjusted by the President as necessary to ensure that the terms of not more than four members expire in the same year. Such adjustments shall be carried out through designation of the adjusted term at the time of appointment.
 
@@ -490,7 +495,7 @@ This chapter, referred to in text, was in the original “this Act” and was tr
 
 **(b) Grants, contracts, or cooperative agreements**
 
-(1) **In general** — The Director may carry out the activities described in subsection (a) of this section by awarding grants to, or entering into contracts or cooperative agreements with, libraries, agencies, institutions of higher education, or museums, where appropriate.
+(1) **In general** — The Director may carry out the activities described in subsection (a) by awarding grants to, or entering into contracts or cooperative agreements with, libraries, agencies, institutions of higher education, or museums, where appropriate.
 
 (2) **Competitive basis** — Grants, contracts, and cooperative agreements under this section shall be awarded on a competitive basis.
 
@@ -649,7 +654,7 @@ As used in this subchapter:
 
 (1) **In general** — To the end of affording the responsible Federal, State, and local officers adequate notice of available Federal financial assistance for carrying out ongoing library activities and projects, appropriations for grants, contracts, or other payments under any program under this subchapter are authorized to be included in the appropriations Act for the fiscal year preceding the fiscal year during which such activities and projects shall be carried out.
 
-(2) **Additional authorization of appropriations** — In order to effect a transition to the timing of appropriation action authorized by subsection (a) of this section, the application of this section may result in the enactment, in a fiscal year, of separate appropriations for a program under this subchapter (whether in the same appropriations Act or otherwise) for two consecutive fiscal years.
+(2) **Additional authorization of appropriations** — In order to effect a transition to the timing of appropriation action authorized by subsection (a), the application of this section may result in the enactment, in a fiscal year, of separate appropriations for a program under this subchapter (whether in the same appropriations Act or otherwise) for two consecutive fiscal years.
 
 ### Statutory Notes
 
@@ -684,19 +689,19 @@ Amendment by Pub. L. 108–81 effective Oct. 1, 2003, see section 506 of Pub. L.
 
   (B) shall reserve 3.75 percent to award national leadership grants or contracts in accordance with [section 9162 of this title](./chapter-072-museum-and-library-services.md#section-9162).
 
-(2) **Special rule** — If the funds reserved pursuant to paragraph (1)(B) for a fiscal year have not been obligated by the end of such fiscal year, then such funds shall be allotted in accordance with subsection (b) of this section for the fiscal year succeeding the fiscal year for which the funds were so reserved.
+(2) **Special rule** — If the funds reserved pursuant to paragraph (1)(B) for a fiscal year have not been obligated by the end of such fiscal year, then such funds shall be allotted in accordance with subsection (b) for the fiscal year succeeding the fiscal year for which the funds were so reserved.
 
 **(b) Allotments**
 
-(1) **In general** — From the sums appropriated under the authority of [section 9123 of this title](./chapter-072-museum-and-library-services.md#section-9123) and not reserved under subsection (a) of this section for any fiscal year, the Director shall award grants from minimum allotments, as determined under paragraph (3), to each State. Any sums remaining after minimum allotments are made for such year shall be allotted in the manner set forth in paragraph (2).
+(1) **In general** — From the sums appropriated under the authority of [section 9123 of this title](./chapter-072-museum-and-library-services.md#section-9123) and not reserved under subsection (a) for any fiscal year, the Director shall award grants from minimum allotments, as determined under paragraph (3), to each State. Any sums remaining after minimum allotments are made for such year shall be allotted in the manner set forth in paragraph (2).
 
-(2) **Remainder** — From the remainder of any sums appropriated under the authority of [section 9123 of this title](./chapter-072-museum-and-library-services.md#section-9123) that are not reserved under subsection (a) of this section and not allotted under paragraph (1) for any fiscal year, the Director shall award grants to each State in an amount that bears the same relation to such remainder as the population of the State bears to the population of all States.
+(2) **Remainder** — From the remainder of any sums appropriated under the authority of [section 9123 of this title](./chapter-072-museum-and-library-services.md#section-9123) that are not reserved under subsection (a) and not allotted under paragraph (1) for any fiscal year, the Director shall award grants to each State in an amount that bears the same relation to such remainder as the population of the State bears to the population of all States.
 
 (3) **Minimum allotments**
 
   (A) *In general* — For purposes of this subsection, the minimum allotment for each State shall be $680,000, except that the minimum allotment shall be $60,000 in the case of the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
-  (B) *Ratable reductions* — Notwithstanding subparagraph (A), if the sum appropriated under the authority of [section 9123 of this title](./chapter-072-museum-and-library-services.md#section-9123) and not reserved under subsection (a) of this section for any fiscal year is insufficient to fully satisfy the requirement of subparagraph (A), each of the minimum allotments under such subparagraph shall be reduced ratably.
+  (B) *Ratable reductions* — Notwithstanding subparagraph (A), if the sum appropriated under the authority of [section 9123 of this title](./chapter-072-museum-and-library-services.md#section-9123) and not reserved under subsection (a) for any fiscal year is insufficient to fully satisfy the requirement of subparagraph (A), each of the minimum allotments under such subparagraph shall be reduced ratably.
 
   (C) *Special rule*
 
@@ -806,7 +811,7 @@ Amendment by Pub. L. 108–81 effective Oct. 1, 2003, see section 506 of Pub. L.
 
 (6) describe how the State library administrative agency will work with other State agencies and offices where appropriate to coordinate resources, programs, and activities and leverage, but not replace, the Federal and State investment in—
 
-  (A) elementary and secondary education, including coordination with the activities within the State that are supported by a grant under [section 6383 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6383);
+  (A) elementary and secondary education, including coordination with the activities within the State that are supported by a grant under [section 6646 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6646);
 
   (B) early childhood education, including coordination with—
 
@@ -822,13 +827,13 @@ Amendment by Pub. L. 108–81 effective Oct. 1, 2003, see section 506 of Pub. L.
 
   (D) other Federal programs and activities that relate to library services, including economic and community development and health information;
 
-(7) provide assurances that the State will comply with subsection (f) of this section; and
+(7) provide assurances that the State will comply with subsection (f); and
 
 (8) provide assurances satisfactory to the Director that such agency will make such reports, in such form and containing such information, as the Director may reasonably require to carry out this subchapter and to determine the extent to which funds provided under this subchapter have been effective in carrying out the purposes of this subchapter.
 
 **(c) Evaluation and report** Each State library administrative agency receiving a grant under this subchapter shall independently evaluate, and report to the Director regarding, the activities assisted under this subchapter, prior to the end of the 5-year plan.
 
-**(d) Information** Each library receiving assistance under this subchapter shall submit to the State library administrative agency such information as such agency may require to meet the requirements of subsection (c) of this section.
+**(d) Information** Each library receiving assistance under this subchapter shall submit to the State library administrative agency such information as such agency may require to meet the requirements of subsection (c).
 
 **(e) Approval**
 
@@ -935,6 +940,8 @@ For the effective date of this subsection, referred to in subsec. (f)(4), as 120
 The General Education Provisions Act, referred to in subsec. (f)(5)(A), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§ 1221 et seq.) of this title. For complete classification of this Act to the Code, see [section 1221 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221) and Tables.
 
 #### Amendments
+2015—Subsec. (b)(6)(A). Pub. L. 114–95 substituted “including coordination with the activities within the State that are supported by a grant under [section 6646 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6646)” for “including coordination with the activities within the State that are supported by a grant under [section 6383 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6383&num=0&edition=prelim)”.
+
 2014—Subsec. (b)(6)(C)(i). Pub. L. 113–128, § 512(t)(2)(A), substituted “the activities carried out by the State workforce development board under [section 3111 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim)” for “the activities carried out by the State workforce investment board under [section 2821(d) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2821/d&num=0&edition=prelim)”.
 
 Subsec. (b)(6)(C)(ii). Pub. L. 113–128, § 512(t)(2)(B), substituted “the State’s one-stop delivery system established under [section 3151(e) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim)” for “the State’s one-stop delivery system established under [section 2864(c) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim)”.
@@ -959,14 +966,17 @@ Subsec. (f)(7)(D). Pub. L. 108–81, § 205(2)(C)(ii), substituted “applicable
 
 Subsec. (f). Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1712(a)(2)], added subsec. (f).
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
+
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 2000 Amendment
 Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1712(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–343, provided that: “The amendment made by this section [amending this section] shall take effect 120 days after the date of the enactment of this Act [Dec. 21, 2000].”
 
 #### Availability of Certain Funds for Acquisition of Technology Protection Measures
-Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1721(g)], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: “(1) In general.—Notwithstanding any other provision of law, funds available under section 3134 [former [20 U.S.C. 6844](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6844)] or part A of title VI of the Elementary and Secondary Education Act of 1965 [former [20 U.S.C. 7311](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7311) et seq.], or under section 231 of the Library Services and Technology Act [[20 U.S.C. 9141](./chapter-072-museum-and-library-services.md#section-9141)], may be used for the purchase or acquisition of technology protection measures that are necessary to meet the requirements of this title [see Short Title of 2000 Amendments note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301)] and the amendments made by this title. No other sources of funds for the purchase or acquisition of such measures are authorized by this title, or the amendments made by this title. “(2) Technology protection measure defined.—In this section, the term ‘technology protection measure’ has the meaning given that term in section 1703 [set out as a note under [section 902 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section902&num=0&edition=prelim), Telecommunications].”
+Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1721(g)], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, as amended by Pub. L. 114–95, title IX, § 9215(q), Dec. 10, 2015, 129 Stat. 2171, provided that: “(1) In general.—Notwithstanding any other provision of law, funds available under part B of title I of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6361](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6361) et seq.], or under section 231 of the Library Services and Technology Act [[20 U.S.C. 9141](./chapter-072-museum-and-library-services.md#section-9141)], may be used for the purchase or acquisition of technology protection measures that are necessary to meet the requirements of this title [see Short Title of 2000 Amendments note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301)] and the amendments made by this title. No other sources of funds for the purchase or acquisition of such measures are authorized by this title, or the amendments made by this title. “(2) Technology protection measure defined.—In this section, the term ‘technology protection measure’ has the meaning given that term in section 1703 [set out as a note under [section 902 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section902&num=0&edition=prelim), Telecommunications].”
 
 
 <a id="section-9162"></a>
@@ -1033,9 +1043,14 @@ From amounts reserved under [section 9131(a)(1)(A) of this title](https://uscode
 ### Statutory Notes
 
 #### Amendments
+2015—Pub. L. 114–95 substituted “represent Native Hawaiians (as the term is defined in [section 7517 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7517))” for “represent Native Hawaiians (as the term is defined in [section 7517 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7517)”.
+
 2002—Pub. L. 107–110 substituted “7517” for “7912”.
 
-1997—Pub. L. 105–128 substituted “Native Americans” for “Indian tribes” in section catchline and in text substituted “to Indian tribes and to organizations that primarily serve and represent Native Hawaiians (as the term is defined in [section 7912 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7912)) to enable such tribes and organizations” for “to organizations primarily serving and representing Indian tribes to enable such organizations”.
+1997—Pub. L. 105–128 substituted “Native Americans” for “Indian tribes” in section catchline and in text substituted “to Indian tribes and to organizations that primarily serve and represent Native Hawaiians (as the term is defined in [section 7912 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7912) to enable such tribes and organizations” for “to organizations primarily serving and representing Indian tribes to enable such organizations”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
@@ -1149,15 +1164,15 @@ A prior section 273 of Pub. L. 94–462 was renumbered section 274 and is classi
 
 **(b) Federal share**
 
-(1) **50 percent** — Except as provided in paragraph (2), the Federal share described in subsection (a) of this section shall be not more than 50 percent.
+(1) **50 percent** — Except as provided in paragraph (2), the Federal share described in subsection (a) shall be not more than 50 percent.
 
-(2) **Greater than 50 percent** — The Director may use not more than 20 percent of the funds made available under this subchapter for a fiscal year to enter into arrangements under subsection (a) of this section for which the Federal share may be greater than 50 percent.
+(2) **Greater than 50 percent** — The Director may use not more than 20 percent of the funds made available under this subchapter for a fiscal year to enter into arrangements under subsection (a) for which the Federal share may be greater than 50 percent.
 
 (3) **Operational expenses** — No funds for operational expenses may be provided under this section to any entity that is not a museum.
 
 **(c) Review and evaluation**
 
-(1) **In general** — The Director shall establish procedures for reviewing and evaluating arrangements described in subsection (a) of this section entered into under this subchapter.
+(1) **In general** — The Director shall establish procedures for reviewing and evaluating arrangements described in subsection (a) entered into under this subchapter.
 
 (2) **Grant distribution** — In awarding grants, the Director shall take into consideration the equitable distribution of grants to museums of various types and sizes and to different geographic areas of the United States 11 So in original. Probably should be followed by a period.
 
@@ -1167,7 +1182,7 @@ A prior section 273 of Pub. L. 94–462 was renumbered section 274 and is classi
 
   (B) *Individual museums* — Individual museums may receive not more than 3 technical assistance awards under subparagraph (A). Subsequent awards for technical assistance shall be subject to review outside the Institute.
 
-**(d) Services for Native Americans** From amounts appropriated under [section 9176 of this title](./chapter-072-museum-and-library-services.md#section-9176), the Director shall reserve 1.75 percent to award grants to, or enter into contracts or cooperative agreements with, Indian tribes and organizations that primarily serve and represent Native Hawaiians (as defined in [section 7517 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7517)), to enable such tribes and organizations to carry out the activities described in subsection (a) of this section.
+**(d) Services for Native Americans** From amounts appropriated under [section 9176 of this title](./chapter-072-museum-and-library-services.md#section-9176), the Director shall reserve 1.75 percent to award grants to, or enter into contracts or cooperative agreements with, Indian tribes and organizations that primarily serve and represent Native Hawaiians (as defined in [section 7517 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7517)), to enable such tribes and organizations to carry out the activities described in subsection (a).
 
 ### Statutory Notes
 
@@ -1175,6 +1190,8 @@ A prior section 273 of Pub. L. 94–462 was renumbered section 274 and is classi
 A prior section 274 of Pub. L. 94–462 was classified to [section 9174 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9174&num=0&edition=prelim), prior to repeal by Pub. L. 108–81.
 
 #### Amendments
+2015—Subsec. (d). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7517 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7517).
+
 2010—Subsec. (a). Pub. L. 111–340, § 303(1)(A), inserted “, States, local governments,” after “with museums” in introductory provisions.
 
 Subsec. (a)(3) to (5). Pub. L. 111–340, § 303(1)(B), (C), added pars. (3) to (5), redesignated former par. (5) as (6), and struck out former pars. (3) and (4) which read as follows:
@@ -1199,6 +1216,9 @@ Subsec. (c)(3)(B). Pub. L. 111–340, § 303(2)(C)(ii), which directed the subst
 
 2003—Pub. L. 108–81, § 303, amended section catchline and text generally. Prior to amendment, section contained provisions which in subsec. (a) authorized the Director to make grants to museums to pay for the Federal share of the cost of increasing and improving museum services, in subsec. (b) authorized the Director to enter into contracts and cooperative agreements with appropriate entities to pay for the Federal share of enabling the entities to undertake projects designed to strengthen museum services, in subsec. (c) established the Federal share, and in subsec. (d) required the Director to establish procedures for reviewing and evaluating grants, contracts, and cooperative agreements entered into under this subchapter.
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
+
 
 <a id="section-9174-9175"></a>
 ## § 9174, 9175. Repealed. Pub. L. 108–81, title III, § 304, Sept. 25, 2003, 117 Stat. 1002
@@ -1214,7 +1234,7 @@ Section 9175, Pub. L. 94–462, title II, § 275, as added Pub. L. 104–208, di
 ## § 9176. Authorization of appropriations
 **(a) Grants** For the purpose of carrying out this subchapter, there are authorized to be appropriated to the Director $38,600,000 for fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016.
 
-**(b) Sums remaining available** Sums appropriated pursuant to subsection (a) of this section for any fiscal year shall remain available for obligation until expended.
+**(b) Sums remaining available** Sums appropriated pursuant to subsection (a) for any fiscal year shall remain available for obligation until expended.
 
 **(c) Funding rules** Notwithstanding any other provision of this subchapter, if the amount appropriated under subsection (a) for a fiscal year is greater than the amount appropriated under such subsection for fiscal year 2011 by more than $10,000,000, then an amount of not less than 30 percent but not more than 50 percent of the increase in appropriated funds shall be available, from the funds appropriated under such subsection for the fiscal year, to enter into arrangements under [section 9173 of this title](./chapter-072-museum-and-library-services.md#section-9173) to carry out the State assessments described in [section 9173(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9173/a/4&num=0&edition=prelim) and to assist States in the implementation of such plans.
 

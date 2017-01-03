@@ -99,6 +99,8 @@ In addition to these acts the following House Resolutions affected the salary of
 #### Legislative Branch Appropriation Acts
 The following acts have provided for funds for the operation of Congress:
 
+Pub. L. 114–113, div. I, Dec. 18, 2015, 129 Stat. 2654.
+
 Pub. L. 113–235, div. H, Dec. 16, 2014, 128 Stat. 2523.
 
 Pub. L. 113–76, div. I, Jan. 17, 2014, 128 Stat. 417.
@@ -1344,7 +1346,7 @@ Section 62 was editorially reclassified as [section 6592 of this title](./chapte
 ### Statutory Notes
 
 #### Codification
-Section, act May 1, 1947, ch. 49, title I, 61 Stat. 58, accorded Sergeant at Arms of Senate the same priority as executive agencies under the Surplus Property Act of 1944 (50 App. U.S.C. 1611–1648). The Surplus Property Act of 1944 was repealed by act June 30, 1949, ch. 288, title V, § 503, 63 Stat. 399, and the priorities thereunder expired Dec. 31, 1949.
+Section, act May 1, 1947, ch. 49, title I, 61 Stat. 58, accorded Sergeant at Arms of Senate the same priority as executive agencies under the Surplus Property Act of 1944, act Oct. 3, 1944, ch. 479, 58 Stat. 765. The Surplus Property Act of 1944, which was formerly classified principally to sections 1611 to 1646 of the former Appendix to Title 50, War and National Defense, was repealed, with certain exceptions, by act June 30, 1949, ch. 288, title V, § 503, 63 Stat. 399, and the priorities thereunder expired Dec. 31, 1949. See References in Text note under [section 352 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section352&num=0&edition=prelim), Mineral Lands and Mining.
 
 
 <a id="section-62b"></a>
@@ -2194,7 +2196,7 @@ Section 75a–1 was editorially reclassified as [section 5501 of this title](./c
 ### Statutory Notes
 
 #### Codification
-Section 75b, act May 1, 1947, ch. 49, title I, 61 Stat. 58, accorded Clerk of House the same priority as executive agencies under the Surplus Property Act of 1944 (50 App. U.S.C. 1611–1648). The Surplus Property Act of 1944 was repealed by act June 30, 1949, ch. 288, title V, § 503, 63 Stat. 399, and the priorities thereunder expired Dec. 31, 1949.
+Section 75b, act May 1, 1947, ch. 49, title I, 61 Stat. 58, accorded Clerk of House the same priority as executive agencies under the Surplus Property Act of 1944, act Oct. 3, 1944, ch. 479, 58 Stat. 765. The Surplus Property Act of 1944, which was formerly classified principally to sections 1611 to 1646 of the former Appendix to Title 50, War and National Defense, was repealed, with certain exceptions, by act June 30, 1949, ch. 288, title V, § 503, 63 Stat. 399, and the priorities thereunder expired Dec. 31, 1949. See References in Text note under [section 352 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section352&num=0&edition=prelim), Mineral Lands and Mining.
 
 Sections 75c to 75e were omitted from the Code for lack of general applicability.
 

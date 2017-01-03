@@ -145,7 +145,7 @@ For the purposes of this chapter, the term “program or activity” and “prog
 
   (A) a college, university, or other postsecondary institution, or a public system of higher education; or
 
-  (B) a local educational agency (as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)), system of vocational education, or other school system;
+  (B) a local educational agency (as defined in section section 11 So in original. 7801 of this title), system of vocational education, or other school system;
 
 (3)
 
@@ -166,9 +166,14 @@ any part of which is extended Federal financial assistance, except that such ter
 This chapter, referred to in text, was in the original “this title”, meaning title IX of Pub. L. 92–318 which enacted this chapter and amended sections 203 and 213 of Title 29, Labor, and sections 2000c, 2000c–6, 2000c–9, and 2000h–2 of Title 42, The Public Health and Welfare. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of this title](./chapter-038-discrimination-based-on-sex-or-blindness.md#section-1681) and Tables.
 
 #### Amendments
+2015—Par. (2)(B). Pub. L. 114–95 substituted “[section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)), system of vocational education, or other school system;” for “7801 of this title), system of vocational education, or other school system;”.
+
 2002—Par. (2)(B). Pub. L. 107–110 substituted “7801” for “8801”.
 
 1994—Par. (2)(B). Pub. L. 103–382 substituted “section 8801” for “section 2854(a)(10)”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).

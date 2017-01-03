@@ -54,7 +54,7 @@ In this chapter:
 
     (iii) is or was lawfully residing.
 
-(5) **Indian; Indian tribe; tribal organization** — The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings given such terms in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim).
+(5) **Indian; Indian tribe; tribal organization** — The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings given such terms in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 (6) **Native Hawaiian** — The term “Native Hawaiian” has the meaning given the term in [section 7517 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7517&num=0&edition=prelim).
 
@@ -92,6 +92,12 @@ In this chapter:
 A prior section 10402, Pub. L. 98–457, title III, § 303, Oct. 9, 1984, 98 Stat. 1757; Pub. L. 100–294, title III, § 302, Apr. 25, 1988, 102 Stat. 124; Pub. L. 102–295, title III, §§ 303–309(a), 310, 311(a), May 28, 1992, 106 Stat. 201–203; Pub. L. 103–322, title IV, § 40271, Sept. 13, 1994, 108 Stat. 1937; Pub. L. 104–235, title II, § 201, Oct. 3, 1996, 110 Stat. 3089; Pub. L. 108–36, title IV, §§ 401, 415(2), (3), June 25, 2003, 117 Stat. 825, 830, related to authorization of State grants, prior to the general amendment of this chapter by Pub. L. 111–320. See [section 10406 of this title](./chapter-110-family-violence-prevention-and-services.md#section-10406).
 
 A prior section 302 of Pub. L. 98–457 was classified to [section 10401 of this title](./chapter-110-family-violence-prevention-and-services.md#section-10401) prior to the general amendment of this chapter by Pub. L. 111–320.
+
+#### Amendments
+2015—Par. (6). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to 7517 of title 20.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 
 <a id="section-10403"></a>
@@ -428,7 +434,7 @@ A prior section 308 of Pub. L. 98–457 was classified to [section 10407 of this
 
 <a id="section-10409"></a>
 ## § 10409. Grants for Indian tribes
-**(a) Grants authorized** The Secretary, in consultation with tribal governments pursuant to Executive Order No. 13175 ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) note) and in accordance with [section 14045d of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14045d), shall continue to award grants for Indian tribes from amounts appropriated under [section 10403(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10403/a/2/B&num=0&edition=prelim) to carry out this section.
+**(a) Grants authorized** The Secretary, in consultation with tribal governments pursuant to Executive Order No. 13175 ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) note) 11 See References in Text note below. and in accordance with [section 14045d of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14045d), shall continue to award grants for Indian tribes from amounts appropriated under [section 10403(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10403/a/2/B&num=0&edition=prelim) to carry out this section.
 
 **(b) Eligible entities** To be eligible to receive a grant under this section, an entity shall be an Indian tribe, or a tribal organization or nonprofit private organization authorized by an Indian tribe. An Indian tribe shall have the option to authorize a tribal organization or a nonprofit private organization to submit an application and administer the grant funds awarded under this section.
 
@@ -439,6 +445,9 @@ A prior section 308 of Pub. L. 98–457 was classified to [section 10407 of this
 **(e) Use of funds** An amount provided under a grant to an eligible entity shall be used for the services described in [section 10408(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10408/b&num=0&edition=prelim).
 
 ### Statutory Notes
+
+#### References in Text
+Executive Order No. 13175, referred to in subsec. (a), was set out as a note under [section 450 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim), Indians, prior to editorial reclassification as a note under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim).
 
 #### Prior Provisions
 A prior section 10409, Pub. L. 98–457, title III, § 310, Oct. 9, 1984, 98 Stat. 1763; Pub. L. 100–294, title III, § 301, Apr. 25, 1988, 102 Stat. 124; Pub. L. 102–295, title III, § 316, May 28, 1992, 106 Stat. 206; Pub. L. 103–322, title IV, § 40241, Sept. 13, 1994, 108 Stat. 1934; Pub. L. 104–235, title II, § 203, Oct. 3, 1996, 110 Stat. 3089; Pub. L. 106–386, div. B, title II, § 1202(a), Oct. 28, 2000, 114 Stat. 1505; Pub. L. 108–36, title IV, § 406(a), (b), June 25, 2003, 117 Stat. 827, related to authorization of appropriations, prior to the general amendment of this chapter by Pub. L. 111–320. See [section 10403 of this title](./chapter-110-family-violence-prevention-and-services.md#section-10403).

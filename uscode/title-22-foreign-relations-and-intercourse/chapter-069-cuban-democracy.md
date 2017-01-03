@@ -30,15 +30,15 @@ The Congress makes the following findings:
 ### Statutory Notes
 
 #### Effective Date
-Pub. L. 102–484, div. A, title XVII, § 1712, Oct. 23, 1992, 106 Stat. 2581, provided that: “This title [enacting this chapter, amending [section 16 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section16&num=0&edition=prelim), Appendix, War and National Defense, and enacting provisions set out as a note below] shall take effect on the date of the enactment of this Act [Oct. 23, 1992].”
+Pub. L. 102–484, div. A, title XVII, § 1712, Oct. 23, 1992, 106 Stat. 2581, provided that: “This title [enacting this chapter, amending [section 4315 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4315&num=0&edition=prelim), War and National Defense, and enacting provisions set out as a note below] shall take effect on the date of the enactment of this Act [Oct. 23, 1992].”
 
 #### Short Title
-Pub. L. 102–484, div. A, title XVII, § 1701, Oct. 23, 1992, 106 Stat. 2575, provided that: “This title [enacting this chapter, amending [section 16 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section16&num=0&edition=prelim), Appendix, War and National Defense, and enacting provisions set out as a note above] may be cited as the ‘Cuban Democracy Act of 1992’.”
+Pub. L. 102–484, div. A, title XVII, § 1701, Oct. 23, 1992, 106 Stat. 2575, provided that: “This title [enacting this chapter, amending [section 4315 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4315&num=0&edition=prelim), War and National Defense, and enacting provisions set out as a note above] may be cited as the ‘Cuban Democracy Act of 1992’.”
 
 #### Ex. Ord. No. 12854. Implementation of Cuban Democracy Act
 Ex. Ord. No. 12854, July 4, 1993, 58 F.R. 36587, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Trading with the Enemy Act, as amended (50 U.S.C. App. 1–6, 7–39, 41–44), the Cuban Democracy Act of 1992 (Public Law 102–484, sections 1701–1712, October 23, 1992, 106 Stat. 2575) (the “Act”) [[22 U.S.C. 6001](./chapter-069-cuban-democracy.md#section-6001) et seq.], and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code,
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Trading with the Enemy Act, as amended (50 U.S.C. App. 1–6, 7–39, 41–44)) [now [50 U.S.C. 4301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4301&num=0&edition=prelim) et seq.], the Cuban Democracy Act of 1992 (Public Law 102–484, sections 1701–1712, October 23, 1992, 106 Stat. 2575) (the “Act”) [[22 U.S.C. 6001](./chapter-069-cuban-democracy.md#section-6001) et seq.], and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code,
 
 I, WILLIAM J. CLINTON, President of the United States of America, hereby order:
 
@@ -128,7 +128,7 @@ The Arms Export Control Act, referred to in subsec. (b)(1)(A), is Pub. L. 90–6
 
 <a id="section-6004"></a>
 ## § 6004. Support for Cuban people
-**(a) Provisions of law affected** The provisions of this section apply notwithstanding any other provision of law, including [section 2370(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2370/a&num=0&edition=prelim), and notwithstanding the exercise of authorities, before October 23, 1992, under section 5(b) of the Trading With the Enemy Act [[12 U.S.C. 95a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section95a&num=0&edition=prelim), 50 U.S.C. App. 5(b)], the International Emergency Economic Powers Act [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.], or the Export Administration Act of 1979 [50 U.S.C. App. 2401 et seq.].
+**(a) Provisions of law affected** The provisions of this section apply notwithstanding any other provision of law, including [section 2370(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2370/a&num=0&edition=prelim), and notwithstanding the exercise of authorities, before October 23, 1992, under section 5(b) of the Trading With the Enemy Act [[50 U.S.C. 4305(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4305/b&num=0&edition=prelim)], the International Emergency Economic Powers Act [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.], or the Export Administration Act of 1979 [[50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.].
 
 **(b) Donations of food** Nothing in this or any other Act shall prohibit donations of food to nongovernmental organizations or individuals in Cuba.
 
@@ -160,7 +160,7 @@ The Arms Export Control Act, referred to in subsec. (b)(1)(A), is Pub. L. 90–6
 
 (3) **Licensing of payments to Cuba**
 
-  (A) The President may provide for the issuance of licenses for the full or partial payment to Cuba of amounts due Cuba as a result of the provision of telecommunications services authorized by this subsection, in a manner that is consistent with the public interest and the purposes of this chapter, except that this paragraph shall not require any withdrawal from any account blocked pursuant to regulations issued under section 5(b) of the Trading With the Enemy Act [[12 U.S.C. 95a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section95a&num=0&edition=prelim), 50 U.S.C. App. 5(b)].
+  (A) The President may provide for the issuance of licenses for the full or partial payment to Cuba of amounts due Cuba as a result of the provision of telecommunications services authorized by this subsection, in a manner that is consistent with the public interest and the purposes of this chapter, except that this paragraph shall not require any withdrawal from any account blocked pursuant to regulations issued under section 5(b) of the Trading With the Enemy Act [[50 U.S.C. 4305(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4305/b&num=0&edition=prelim)].
 
   (B) If only partial payments are made to Cuba under subparagraph (A), the amounts withheld from Cuba shall be deposited in an account in a banking institution in the United States. Such account shall be blocked in the same manner as any other account containing funds in which Cuba has any interest, pursuant to regulations issued under section 5(b) of the Trading With the Enemy Act.
 
@@ -182,7 +182,7 @@ Pub. L. 104–114, title II, § 204(d)(3), Mar. 12, 1996, 110 Stat. 810, provide
 #### References in Text
 The International Emergency Economic Powers Act, referred to in subsec. (a), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
-The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1996—Subsec. (e)(5), (6). Pub. L. 104–114, § 102(g), added pars. (5) and (6).
@@ -217,7 +217,7 @@ For delegation of congressional reporting functions of President under subsec. (
 
 **(c) Restrictions on remittances to Cuba** The President shall establish strict limits on remittances to Cuba by United States persons for the purpose of financing the travel of Cubans to the United States, in order to ensure that such remittances reflect only the reasonable costs associated with such travel, and are not used by the Government of Cuba as a means of gaining access to United States currency.
 
-**(d) Clarification of applicability of sanctions** The prohibitions contained in subsections (a), (b), and (c) shall not apply with respect to any activity otherwise permitted by [section 6004 of this title](./chapter-069-cuban-democracy.md#section-6004) or [section 6006 of this title](./chapter-069-cuban-democracy.md#section-6006) or any activity which may not be regulated or prohibited under section 5(b)(4) of the Trading With the Enemy Act [[12 U.S.C. 95a(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section95a/4&num=0&edition=prelim), 50 U.S.C. App. 5(b)(4)].
+**(d) Clarification of applicability of sanctions** The prohibitions contained in subsections (a), (b), and (c) shall not apply with respect to any activity otherwise permitted by [section 6004 of this title](./chapter-069-cuban-democracy.md#section-6004) or [section 6006 of this title](./chapter-069-cuban-democracy.md#section-6006) or any activity which may not be regulated or prohibited under section 5(b)(4) of the Trading With the Enemy Act [[50 U.S.C. 4305(b)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4305/b/4&num=0&edition=prelim)].
 
 ### Statutory Notes
 
@@ -281,23 +281,23 @@ Except as provided in [section 6004(a) of this title](https://uscode.house.gov/v
 
 <a id="section-6009"></a>
 ## § 6009. Enforcement
-**(a) Enforcement authority** The authority to enforce this chapter shall be carried out by the Secretary of the Treasury. The Secretary of the Treasury shall exercise the authorities of the Trading With the Enemy Act [50 U.S.C. App. 1 et seq.] in enforcing this chapter. In carrying out this subsection, the Secretary of the Treasury shall take the necessary steps to ensure that activities permitted under [section 6004 of this title](./chapter-069-cuban-democracy.md#section-6004) are carried out for the purposes set forth in this chapter and not for purposes of the accumulation by the Cuban Government of excessive amounts of United States currency or the accumulation of excessive profits by any person or entity.
+**(a) Enforcement authority** The authority to enforce this chapter shall be carried out by the Secretary of the Treasury. The Secretary of the Treasury shall exercise the authorities of the Trading With the Enemy Act [[50 U.S.C. 4301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4301&num=0&edition=prelim) et seq.] in enforcing this chapter. In carrying out this subsection, the Secretary of the Treasury shall take the necessary steps to ensure that activities permitted under [section 6004 of this title](./chapter-069-cuban-democracy.md#section-6004) are carried out for the purposes set forth in this chapter and not for purposes of the accumulation by the Cuban Government of excessive amounts of United States currency or the accumulation of excessive profits by any person or entity.
 
 **(b) Authorization of appropriations** There are authorized to be appropriated to the Secretary of the Treasury such sums as may be necessary to carry out this chapter.
 
 **(c) Omitted**
 
-**(d) Applicability of penalties** The penalties set forth in section 16 of the Trading With the Enemy Act [50 U.S.C. App. 16] shall apply to violations of this chapter to the same extent as such penalties apply to violations under that Act [50 U.S.C. App. 1 et seq.].
+**(d) Applicability of penalties** The penalties set forth in section 16 of the Trading With the Enemy Act [[50 U.S.C. 4315](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4315&num=0&edition=prelim)] shall apply to violations of this chapter to the same extent as such penalties apply to violations under that Act [[50 U.S.C. 4301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4301&num=0&edition=prelim) et seq.].
 
 **(e) Office of Foreign Assets Control** The Department of the Treasury shall establish and maintain a branch of the Office of Foreign Assets Control in Miami, Florida, in order to strengthen the enforcement of this chapter.
 
 ### Statutory Notes
 
 #### References in Text
-The Trading With the Enemy Act, referred to in subsecs. (a) and (d), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act, referred to in subsecs. (a) and (d), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified to chapter 53 (§ 4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
-Section is comprised of section 1710 of Pub. L. 102–484. Subsec. (c) of section 1710 of Pub. L. 102–484 amended section 16 of the Appendix to Title 50, War and National Defense.
+Section is comprised of section 1710 of Pub. L. 102–484. Subsec. (c) of section 1710 of Pub. L. 102–484 amended [section 4315 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4315&num=0&edition=prelim), War and National Defense.
 
 
 <a id="section-6010"></a>

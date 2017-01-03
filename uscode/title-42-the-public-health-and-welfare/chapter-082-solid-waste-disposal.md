@@ -142,7 +142,7 @@ Section was enacted as part of the Used Oil Re­cycling Act of 1980, and not as 
 
 (6) minimizing the generation of hazardous waste and the land disposal of hazardous waste by encouraging process substitution, materials recovery, properly conducted recycling and reuse, and treatment;
 
-(7) establishing a viable Federal-State partnership to carry out the purposes of this chapter and insuring that the Administrator will, in carrying out the provisions of subchapter III of this chapter, give a high priority to assisting and cooperating with States in obtaining full authorization of State programs under subchapter III of this chapter;
+(7) establishing a viable Federal-State partnership to carry out the purposes of this chapter and insuring that the Administrator will, in carrying out the provisions of subchapter III of this chapter, give a high priority to assisting and cooperating with States in obtaining full authorization of State programs under subchapter III;
 
 (8) providing for the promulgation of guidelines for solid waste collection, transport, separation, recovery, and disposal practices and systems;
 
@@ -266,7 +266,7 @@ As used in this chapter:
 
 (39) The term “re-refined oil” means used oil from which the physical and chemical contaminants acquired through previous use have been removed through a refining process.
 
-(40) Except as otherwise provided in this paragraph, the term “medical waste” means any solid waste which is generated in the diagnosis, treatment, or immunization of human beings or animals, in research pertaining thereto, or in the production or testing of biologicals. Such term does not include any hazardous waste identified or listed under subchapter III of this chapter or any household waste as defined in regulations under subchapter III of this chapter.
+(40) Except as otherwise provided in this paragraph, the term “medical waste” means any solid waste which is generated in the diagnosis, treatment, or immunization of human beings or animals, in research pertaining thereto, or in the production or testing of biologicals. Such term does not include any hazardous waste identified or listed under subchapter III or any household waste as defined in regulations under subchapter III.
 
 (41) The term “mixed waste” means waste that contains both hazardous waste and source, special nuclear, or by-product material subject to the Atomic Energy Act of 1954 ([42 U.S.C. 2011](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) et seq.).
 
@@ -345,7 +345,7 @@ For transfer of certain enforcement functions of Administrator or other official
 
 **(c) Integration with the Surface Mining Control and Reclamation Act of 1977**
 
-(1) No later than 90 days after October 21, 1980, the Administrator shall review any regulations applicable to the treatment, storage, or disposal of any coal mining wastes or overburden promulgated by the Secretary of the Interior under the Surface Mining and Reclamation Act of 1977 [[30 U.S.C. 1201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1201&num=0&edition=prelim) et seq.]. If the Administrator determines that any requirement of final regulations promulgated under any section of subchapter III of this chapter relating to mining wastes or overburden is not adequately addressed in such regulations promulgated by the Secretary, the Administrator shall promptly transmit such determination, together with suggested revisions and supporting documentation, to the Secretary.
+(1) No later than 90 days after October 21, 1980, the Administrator shall review any regulations applicable to the treatment, storage, or disposal of any coal mining wastes or overburden promulgated by the Secretary of the Interior under the Surface Mining and Reclamation Act of 1977 [[30 U.S.C. 1201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1201&num=0&edition=prelim) et seq.]. If the Administrator determines that any requirement of final regulations promulgated under any section of subchapter III relating to mining wastes or overburden is not adequately addressed in such regulations promulgated by the Secretary, the Administrator shall promptly transmit such determination, together with suggested revisions and supporting documentation, to the Secretary.
 
 (2) The Secretary of the Interior shall have exclusive responsibility for carrying out any requirement of subchapter III of this chapter with respect to coal mining wastes or overburden for which a surface coal mining and reclamation permit is issued or approved under the Surface Mining Control and Reclamation Act of 1977 [[30 U.S.C. 1201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1201&num=0&edition=prelim) et seq.]. The Secretary shall, with the concurrence of the Administrator, promulgate such regulations as may be necessary to carry out the purposes of this subsection and shall integrate such regulations with regulations promulgated under the Surface Mining Control and Reclamation Act of 1977.
 
@@ -734,9 +734,9 @@ For transfer of certain enforcement functions of Administrator or other official
 
 **(f) Underground storage tanks**
 
-(1) There are authorized to be appropriated to the Administrator for the purpose of carrying out the provisions of subchapter IX of this chapter (relating to regulation of underground storage tanks), $10,000,000 for each of the fiscal years 1985 through 1988.
+(1) There are authorized to be appropriated to the Administrator for the purpose of carrying out the provisions of subchapter IX (relating to regulation of underground storage tanks), $10,000,000 for each of the fiscal years 1985 through 1988.
 
-(2) There is authorized to be appropriated $25,000,000 for each of the fiscal years 1985 through 1988 to be used to make grants to the States for purposes of assisting the States in the development and implementation of approved State underground storage tank release detection, prevention, and correction programs under subchapter IX of this chapter.
+(2) There is authorized to be appropriated $25,000,000 for each of the fiscal years 1985 through 1988 to be used to make grants to the States for purposes of assisting the States in the development and implementation of approved State underground storage tank release detection, prevention, and correction programs under subchapter IX.
 
 ### Statutory Notes
 
@@ -2439,25 +2439,39 @@ and continues, without interruption, as long as the waste is stored on the origi
 
 (1) **In general** — Not later than January 1, 2010, the Secretary of Energy (referred to in this section as the “Secretary”) shall designate a facility or facilities of the Department of Energy, which shall not include the Y–12 National Security Complex or any other portion or facility of the Oak Ridge Reservation of the Department of Energy, for the purpose of long-term management and storage of elemental mercury generated within the United States.
 
-(2) **Operation of facility** — Not later than January 1, 2013, the facility designated in paragraph (1) shall be operational and shall accept custody, for the purpose of long-term management and storage, of elemental mercury generated within the United States and delivered to such facility.
+(2) **Operation of facility** — Not later than January 1, 2019, the facility designated in paragraph (1) shall be operational and shall accept custody, for the purpose of long-term management and storage, of elemental mercury generated within the United States and delivered to such facility.
 
 **(b) Fees**
 
-(1) **In general** — After consultation with persons who are likely to deliver elemental mercury to a designated facility for long-term management and storage under the program prescribed in subsection (a), and with other interested persons, the Secretary shall assess and collect a fee at the time of delivery for providing such management and storage, based on the pro rata cost of long-term management and storage of elemental mercury delivered to the facility. The amount of such fees—
+(1) **In general**
 
-  (A) shall be made publically 11 So in original. Probably should be “publicly”. available not later than October 1, 2012;
+  (A) *Assessment and collection* — After consultation with persons who are likely to deliver elemental mercury to a designated facility for long-term management and storage under the program prescribed in subsection (a), and with other interested persons, the Secretary shall assess and collect a fee at the time of delivery for providing such management and storage, based on the pro rata cost of long-term management and storage of elemental mercury delivered to the facility.
 
-  (B) may be adjusted annually; and
+  (B) *Amount* — The amount of the fees described in subparagraph (A)—
 
-  (C) shall be set in an amount sufficient to cover the costs described in paragraph (2).
+    (i) shall be made publicly available not later than October 1, 2018;
 
-(2) **Costs** — The costs referred to in paragraph (1)(C) are the costs to the Department of Energy of providing such management and storage, including facility operation and maintenance, security, monitoring, reporting, personnel, administration, inspections, training, fire suppression, closure, and other costs required for compliance with applicable law. Such costs shall not include costs associated with land acquisition or permitting of a designated facility under the Solid Waste Disposal Act [[42 U.S.C. 6901](./chapter-082-solid-waste-disposal.md#section-6901) et seq.] or other applicable law. Building design and building construction costs shall only be included to the extent that the Secretary finds that the management and storage of elemental mercury accepted under the program under this section cannot be accomplished without construction of a new building or buildings.
+    (ii) may be adjusted annually;
+
+    (iii) shall be set in an amount sufficient to cover the costs described in paragraph (2), subject to clause (iv); and
+
+    (iv) for generators temporarily accumulating elemental mercury in a facility subject to subparagraphs (B) and (D)(iv) of subsection (g)(2) if the facility designated in subsection (a) is not operational by January 1, 2019, shall be adjusted to subtract the cost of the temporary accumulation during the period in which the facility designated under subsection (a) is not operational.
+
+  (C) *Conveyance of title and permitting* — If the facility designated in subsection (a) is not operational by January 1, 2020, the Secretary—
+
+    (i) shall immediately accept the conveyance of title to all elemental mercury that has accumulated in facilities in accordance with subsection (g)(2)(D), before January 1, 2020, and deliver the accumulated mercury to the facility designated under subsection (a) on the date on which the facility becomes operational;
+
+    (ii) shall pay any applicable Federal permitting costs, including the costs for permits issued under section 3005(c) of the Solid Waste Disposal Act ([42 U.S.C. 6925(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6925/c&num=0&edition=prelim)); and
+
+    (iii) shall store, or pay the cost of storage of, until the time at which a facility designated in subsection (a) is operational, accumulated mercury to which the Secretary has title under this subparagraph in a facility that has been issued a permit under section 3005(c) of the Solid Waste Disposal Act ([42 U.S.C. 6925(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6925/c&num=0&edition=prelim)).
+
+(2) **Costs** — The costs referred to in paragraph (1)(B)(iii) are the costs to the Department of Energy of providing such management and storage, including facility operation and maintenance, security, monitoring, reporting, personnel, administration, inspections, training, fire suppression, closure, and other costs required for compliance with applicable law. Such costs shall not include costs associated with land acquisition or permitting of a designated facility under the Solid Waste Disposal Act [[42 U.S.C. 6901](./chapter-082-solid-waste-disposal.md#section-6901) et seq.] or other applicable law. Building design and building construction costs shall only be included to the extent that the Secretary finds that the management and storage of elemental mercury accepted under the program under this section cannot be accomplished without construction of a new building or buildings.
 
 **(c) Report** Not later than 60 days after the end of each Federal fiscal year, the Secretary shall transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on all of the costs incurred in the previous fiscal year associated with the long-term management and storage of elemental mercury. Such report shall set forth separately the costs associated with activities taken under this section.
 
 **(d) Management standards for a facility**
 
-(1) **Guidance** — Not later than October 1, 2009, the Secretary, after consultation with the Administrator of the Environmental Protection Agency and all appropriate State agencies in affected States, shall make available, including to potential users of the long-term management and storage program established under subsection (a), guidance that establishes procedures and standards for the receipt, management, and long-term storage of elemental mercury at a designated facility or facilities, including requirements to ensure appropriate use of flasks or other suitable shipping containers. Such procedures and standards shall be protective of human health and the environment and shall ensure that the elemental mercury is stored in a safe, secure, and effective manner. In addition to such procedures and standards, elemental mercury managed and stored under this section at a designated facility shall be subject to the requirements of the Solid Waste Disposal Act [[42 U.S.C. 6901](./chapter-082-solid-waste-disposal.md#section-6901) et seq.], including the requirements of subtitle C of that Act [[42 U.S.C. 6921](./chapter-082-solid-waste-disposal.md#section-6921) et seq.], except as provided in subsection (g)(2) of this section. A designated facility in existence on or before January 1, 2013, is authorized to operate under interim status pursuant to section 3005(e) of the Solid Waste Disposal Act [[42 U.S.C. 6925(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6925/e&num=0&edition=prelim)] until a final decision on a permit application is made pursuant to section 3005(c) of the Solid Waste Disposal Act [[42 U.S.C. 6925(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6925/c&num=0&edition=prelim)]. Not later than January 1, 2015, the Administrator of the Environmental Protection Agency (or an authorized State) shall issue a final decision on the permit application.
+(1) **Guidance** — Not later than October 1, 2009, the Secretary, after consultation with the Administrator of the Environmental Protection Agency and all appropriate State agencies in affected States, shall make available, including to potential users of the long-term management and storage program established under subsection (a), guidance that establishes procedures and standards for the receipt, management, and long-term storage of elemental mercury at a designated facility or facilities, including requirements to ensure appropriate use of flasks or other suitable shipping containers. Such procedures and standards shall be protective of human health and the environment and shall ensure that the elemental mercury is stored in a safe, secure, and effective manner. In addition to such procedures and standards, elemental mercury managed and stored under this section at a designated facility shall be subject to the requirements of the Solid Waste Disposal Act [[42 U.S.C. 6901](./chapter-082-solid-waste-disposal.md#section-6901) et seq.], including the requirements of subtitle C of that Act [[42 U.S.C. 6921](./chapter-082-solid-waste-disposal.md#section-6921) et seq.], except as provided in subsection (g)(2) of this section. A designated facility is authorized to operate under interim status pursuant to section 3005(e) of the Solid Waste Disposal Act [[42 U.S.C. 6925(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6925/e&num=0&edition=prelim)] until a final decision on a permit application is made pursuant to section 3005(c) of the Solid Waste Disposal Act [[42 U.S.C. 6925(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6925/c&num=0&edition=prelim)]. Not later than January 1, 2020, the Administrator of the Environmental Protection Agency (or an authorized State) shall issue a final decision on the permit application.
 
 (2) **Training** — The Secretary shall conduct operational training and emergency training for all staff that have responsibilities related to elemental mercury management, transfer, storage, monitoring, or response.
 
@@ -2510,7 +2524,20 @@ and continues, without interruption, as long as the waste is stored on the origi
     (ii) the owner or operator of the permitted facility certifies in writing to the Secretary that it will ship the mercury to the designated facility when the Secretary is able to accept the mercury; and
 
     (iii) the owner or operator of the permitted facility certifies in writing to the Secretary that it will not sell, or otherwise place into commerce, the mercury.
-    This subparagraph shall not apply to mercury with respect to which the owner or operator of the permitted facility fails to comply with a certification provided under clause (ii) or (iii).
+
+  (C) Subparagraph (B) shall not apply to mercury with respect to which the owner or operator of the permitted facility fails to comply with a certification provided under clause (ii) or (iii) of that subparagraph.
+
+  (D) A generator producing elemental mercury incidentally from the beneficiation or processing of ore or related pollution control activities may accumulate the mercury produced onsite that is destined for a facility designated by the Secretary under subsection (a) for more than 90 days without a permit issued under section 3005(c) of the Solid Waste Disposal Act ([42 U.S.C. 6925(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6925/c&num=0&edition=prelim)), and shall not be subject to the storage prohibition of section 3004(j) of that Act ([42 U.S.C. 6924(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6924/j&num=0&edition=prelim)), if—
+
+    (i) the Secretary is unable to accept the mercury at a facility designated by the Secretary under subsection (a) for reasons beyond the control of the generator;
+
+    (ii) the generator certifies in writing to the Secretary that the generator will ship the mercury to a designated facility when the Secretary is able to accept the mercury;
+
+    (iii) the generator certifies in writing to the Secretary that the generator is storing only mercury the generator has produced or recovered onsite and will not sell, or otherwise place into commerce, the mercury; and
+
+    (iv) the generator has obtained an identification number under section 262.12 of title 40, Code of Federal Regulations, and complies with the requirements described in paragraphs (1) through (4) of section 262.34(a) of title 40, Code of Federal Regulations (as in effect on the date of enactment of this subparagraph).
+
+  (E) *Management standards for temporary storage.—* — Not later than January 1, 2017, the Secretary, after consultation with the Administrator of the Environmental Protection Agency and State agencies in affected States, shall develop and make available guidance that establishes procedures and standards for the management and short-term storage of elemental mercury at a generator covered under subparagraph (D), including requirements to ensure appropriate use of flasks or other suitable containers. Such procedures and standards shall be protective of health and the environment and shall ensure that the elemental mercury is stored in a safe, secure, and effective manner. A generator may accumulate mercury in accordance with subparagraph (D) immediately upon enactment of this subparagraph, and notwithstanding that guidance called for by this paragraph has not been developed or made available.
 
 **(h) Study** Not later than July 1, 2014, the Secretary shall transmit to the Congress the results of a study, conducted in consultation with the Administrator of the Environmental Protection Agency, that—
 
@@ -2522,6 +2549,23 @@ and continues, without interruption, as long as the waste is stored on the origi
 
 #### References in Text
 The Solid Waste Disposal Act, referred to in subsecs. (b)(2) and (d)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to this chapter. Subtitle C of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title](./chapter-082-solid-waste-disposal.md#section-6901) and Tables.
+
+#### Amendments
+2016—Subsec. (a)(2). Pub. L. 114–182, § 10(c)(1), substituted “2019” for “2013”.
+
+Subsec. (b)(1)(A). Pub. L. 114–182, § 10(c)(2)(A)(ii), (iii), designated introductory provisions of par. (1) as subpar. (A), inserted heading, and struck out “The amount of such fees” at end. Former subpar. (A) redesignated cl. (i) of subpar. (B).
+
+Subsec. (b)(1)(B). Pub. L. 114–182, § 10(c)(2)(A)(i), (iii), (iv), inserted heading and introductory provisions, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (B) and realigned margins, substituted “publicly available not later than October 1, 2018” for “publically available not later than October 1, 2012” in cl. (i) and “, subject to clause (iv); and” for period in cl. (iii), and added cl. (iv).
+
+Subsec. (b)(1)(C). Pub. L. 114–182, § 10(c)(2)(A)(v), added subpar. (C). Former subpar. (C) redesignated cl. (iii) of subpar. (B).
+
+Subsec. (b)(2). Pub. L. 114–182, § 10(c)(2)(B), substituted “paragraph (1)(B)(iii)” for “paragraph (1)(C)” in first sentence.
+
+Subsec. (d)(1). Pub. L. 114–182, § 10(d), struck out “in existence on or before January 1, 2013,” after “facility” in fourth sentence and substituted “January 1, 2020” for “January 1, 2015” in last sentence.
+
+Subsec. (g)(2)(C). Pub. L. 114–182, § 10(c)(3)(A), (B), redesignated concluding provisions of subpar. (B) as (C), substituted “Subparagraph (B)” for “This subparagraph”, and inserted “of that subparagraph” before period at end.
+
+Subsec. (g)(2)(D), (E). Pub. L. 114–182, § 10(c)(3)(C), added subpars. (D) and (E).
 
 #### Codification
 Section was enacted as part of the Mercury Export Ban Act of 2008, and not as part of the Solid Waste Disposal Act which comprises this chapter.
@@ -2948,12 +2992,116 @@ For transfer of certain enforcement functions of Administrator or other official
 
   (B) For purposes of this paragraph, the term “requirement of this subchapter” in [section 6928 of this title](./chapter-082-solid-waste-disposal.md#section-6928) shall be deemed to include criteria promulgated by the Administrator under sections 6907(a)(3) and 6944(a) of this title, and the term “hazardous wastes” in [section 6927 of this title](./chapter-082-solid-waste-disposal.md#section-6927) shall be deemed to include solid waste at facilities that may handle hazardous household wastes or hazardous wastes from small quantity generators.
 
+**(d) State programs for control of coal combustion residuals**
+
+(1) **Approval by Administrator**
+
+  (A) *In general* — Each State may submit to the Administrator, in such form as the Administrator may establish, evidence of a permit program or other system of prior approval and conditions under State law for regulation by the State of coal combustion residuals units that are located in the State that, after approval by the Administrator, will operate in lieu of regulation of coal combustion residuals units in the State by—
+
+    (i) application of part 257 of title 40, Code of Federal Regulations (or successor regulations promulgated pursuant to sections 6907(a)(3) and 6944(a) of this title); or
+
+    (ii) implementation by the Administrator of a permit program under paragraph (2)(B).
+
+  (B) *Requirement* — Not later than 180 days after the date on which a State submits the evidence described in subparagraph (A), the Administrator, after public notice and an opportunity for public comment, shall approve, in whole or in part, a permit program or other system of prior approval and conditions submitted under subparagraph (A) if the Administrator determines that the program or other system requires each coal combustion residuals unit located in the State to achieve compliance with—
+
+    (i) the applicable criteria for coal combustion residuals units under part 257 of title 40, Code of Federal Regulations (or successor regulations promulgated pursuant to sections 6907(a)(3) and 6944(a) of this title); or
+
+    (ii) such other State criteria that the Administrator, after consultation with the State, determines to be at least as protective as the criteria described in clause (i).
+
+  (C) *Permit requirements* — The Administrator shall approve under subparagraph (B)(ii) a State permit program or other system of prior approval and conditions that allows a State to include technical standards for individual permits or conditions of approval that differ from the criteria under part 257 of title 40, Code of Federal Regulations (or successor regulations promulgated pursuant to sections 6907(a)(3) and 6944(a) of this title) if, based on site-specific conditions, the Administrator determines that the technical standards established pursuant to a State permit program or other system are at least as protective as the criteria under that part.
+
+  (D) *Program review and notification*
+
+    (i) *Program review* — The Administrator shall review a State permit program or other system of prior approval and conditions that is approved under subparagraph (B)—
+
+      (I) from time to time, as the Administrator determines necessary, but not less frequently than once every 12 years;
+
+      (II) not later than 3 years after the date on which the Administrator revises the applicable criteria for coal combustion residuals units under part 257 of title 40, Code of Federal Regulations (or successor regulations promulgated pursuant to sections 6907(a)(3) and 6944(a) of this title);
+
+      (III) not later than 1 year after the date of a significant release (as defined by the Administrator), that was not authorized at the time the release occurred, from a coal combustion residuals unit located in the State; and
+
+      (IV) on request of any other State that asserts that the soil, groundwater, or surface water of the State is or is likely to be adversely affected by a release or potential release from a coal combustion residuals unit located in the State for which the program or other system was approved.
+
+    (ii) *Notification and opportunity for a public hearing* — The Administrator shall provide to a State notice of deficiencies with respect to the permit program or other system of prior approval and conditions of the State that is approved under subparagraph (B), and an opportunity for a public hearing, if the Administrator determines that—
+
+      (I) a revision or correction to the permit program or other system of prior approval and conditions of the State is necessary to ensure that the permit program or other system of prior approval and conditions continues to ensure that each coal combustion residuals unit located in the State achieves compliance with the criteria described in clauses (i) and (ii) of subparagraph (B);
+
+      (II) the State has not implemented an adequate permit program or other system of prior approval and conditions that requires each coal combustion residuals unit located in the State to achieve compliance with the criteria described in subparagraph (B); or
+
+      (III) the State has, at any time, approved or failed to revoke a permit for a coal combustion residuals unit, a release from which adversely affects or is likely to adversely affect the soil, groundwater, or surface water of another State.
+
+  (E) *Withdrawal*
+
+    (i) *In general* — The Administrator shall withdraw approval of a State permit program or other system of prior approval and conditions if, after the Administrator provides notice and an opportunity for a public hearing to the relevant State under subparagraph (D)(ii), the Administrator determines that the State has not corrected the deficiencies identified by the Administrator under subparagraph (D)(ii).
+
+    (ii) *Reinstatement of State approval* — Any withdrawal of approval under clause (i) shall cease to be effective on the date on which the Administrator makes a determination that the State has corrected the deficiencies identified by the Administrator under subparagraph (D)(ii).
+
+(2) **Nonparticipating states**
+
+  (A) *Definition of nonparticipating State* — In this paragraph, the term “nonparticipating State” means a State—
+
+    (i) for which the Administrator has not approved a State permit program or other system of prior approval and conditions under paragraph (1)(B);
+
+    (ii) the Governor of which has not submitted to the Administrator for approval evidence to operate a State permit program or other system of prior approval and conditions under paragraph (1)(A);
+
+    (iii) the Governor of which provides notice to the Administrator that, not fewer than 90 days after the date on which the Governor provides the notice to the Administrator, the State will relinquish an approval under paragraph (1)(B) to operate a permit program or other system of prior approval and conditions; or
+
+    (iv) for which the Administrator has withdrawn approval for a permit program or other system of prior approval and conditions under paragraph (1)(E).
+
+  (B) *Implementation of permit program* — In the case of a nonparticipating State and subject to the availability of appropriations specifically provided in an appropriations Act to carry out a program in a nonparticipating State, the Administrator shall implement a permit program to require each coal combustion residuals unit located in the nonparticipating State to achieve compliance with applicable criteria established by the Administrator under part 257 of title 40, Code of Federal Regulations (or successor regulations promulgated pursuant to sections 6907(a)(3) and 6944(a) of this title).
+
+(3) **Applicability of criteria** — The applicable criteria for coal combustion residuals units under part 257 of title 40, Code of Federal Regulations (or successor regulations promulgated pursuant to sections 6907(a)(3) and 6944(a) of this title), shall apply to each coal combustion residuals unit in a State unless—
+
+  (A) a permit under a State permit program or other system of prior approval and conditions approved by the Administrator under paragraph (1)(B) is in effect for the coal combustion residuals unit; or
+
+  (B) a permit issued by the Administrator in a State in which the Administrator is implementing a permit program under paragraph (2)(B) is in effect for the coal combustion residuals unit.
+
+(4) **Prohibition on open dumping**
+
+  (A) *In general* — The Administrator may use the authority provided by sections 6927 and 6928 of this title to enforce the prohibition on open dumping under subsection (a) with respect to a coal combustion residuals unit—
+
+    (i) in a nonparticipating State (as defined in paragraph (2)); and
+
+    (ii) located in a State that is approved to operate a permit program or other system of prior approval and conditions under paragraph (1)(B), in accordance with subparagraph (B) of this paragraph.
+
+  (B) *Federal enforcement in an approved State*
+
+    (i) *In general* — In the case of a coal combustion residuals unit located in a State that is approved to operate a permit program or other system of prior approval and conditions under paragraph (1)(B), the Administrator may commence an administrative or judicial enforcement action under [section 6928 of this title](./chapter-082-solid-waste-disposal.md#section-6928) if—
+
+      (I) the State requests that the Administrator provide assistance in the performance of an enforcement action; or
+
+      (II) after consideration of any other administrative or judicial enforcement action involving the coal combustion residuals unit, the Administrator determines that an enforcement action is likely to be necessary to ensure that the coal combustion residuals unit is operating in accordance with the criteria established under the permit program or other system of prior approval and conditions.
+
+    (ii) *Notification* — In the case of an enforcement action by the Administrator under clause (i)(II), before issuing an order or commencing a civil action, the Administrator shall notify the State in which the coal combustion residuals unit is located.
+
+    (iii) *Annual report to Congress*
+
+      (I) *In general* — Subject to subclause (II), not later than December 31, 2017, and December 31 of each year thereafter, the Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes any enforcement action commenced under clause (i), including a description of the basis for the enforcement action.
+
+      (II) *Applicability* — Subclause (I) shall not apply for any calendar year during which the Administrator does not commence an enforcement action under clause (i).
+
+(5) **Indian country** — The Administrator shall establish and carry out a permit program, in accordance with this subsection, for coal combustion residuals units in Indian country (as defined in [section 1151 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1151&num=0&edition=prelim)) to require each coal combustion residuals unit located in Indian country to achieve compliance with the applicable criteria established by the Administrator under part 257 of title 40, Code of Federal Regulations (or successor regulations promulgated pursuant to sections 6907(a)(3) and 6944(a) of this title).
+
+(6) **Treatment of coal combustion residuals units** — A coal combustion residuals unit shall be considered to be a sanitary landfill for purposes of this chapter, including subsection (a), only if the coal combustion residuals unit is operating in accordance with—
+
+  (A) the requirements of a permit issued by—
+
+    (i) the State in accordance with a program or system approved under paragraph (1)(B); or
+
+    (ii) the Administrator pursuant to paragraph (2)(B) or paragraph (5); or
+
+  (B) the applicable criteria for coal combustion residuals units under part 257 of title 40, Code of Federal Regulations (or successor regulations promulgated pursuant to sections 6907(a)(3) and 6944(a) of this title).
+
+(7) **Effect of subsection** — Nothing in this subsection affects any authority, regulatory determination, other law, or legal obligation in effect on the day before December 16, 2016.
+
 ### Statutory Notes
 
 #### Codification
 Another section 19(b) of Pub. L. 96–482 amended [section 6946 of this title](./chapter-082-solid-waste-disposal.md#section-6946).
 
 #### Amendments
+2016—Subsec. (d). Pub. L. 114–322 added subsec. (d).
+
 1984—Subsec. (a). Pub. L. 98–616, § 403(c), inserted after first sentence “The prohibition contained in the preceding sentence shall be enforceable under [section 6972 of this title](./chapter-082-solid-waste-disposal.md#section-6972) against persons engaged in the act of open dumping.”
 
 Pub. L. 98–616, § 502(c), inserted a closing parenthesis before the period at end.
@@ -3075,7 +3223,7 @@ For transfer of certain enforcement functions of Administrator or other official
 
 **(d) Technical assistance**
 
-(1) The Administrator may provide technical assistance to State and local governments for purposes of developing and implementing State plans. Technical assistance respecting resource recovery and conservation may be provided through resource recovery and conservation panels, established in the Environmental Protection Agency under subchapter II of this chapter, to assist the State and local governments with respect to particular resource recovery and conservation projects under consideration and to evaluate their effect on the State plan.
+(1) The Administrator may provide technical assistance to State and local governments for purposes of developing and implementing State plans. Technical assistance respecting resource recovery and conservation may be provided through resource recovery and conservation panels, established in the Environmental Protection Agency under subchapter II, to assist the State and local governments with respect to particular resource recovery and conservation projects under consideration and to evaluate their effect on the State plan.
 
 (2) In carrying out this subsection, the Administrator may, upon request, provide technical assistance to States to assist in the removal or modification of legal, institutional, economic, and other impediments to the recycling of used oil. Such impediments may include laws, regulations, and policies, including State procurement policies, which are not favorable to the recycling of used oil.
 
@@ -3214,7 +3362,7 @@ For transfer of certain enforcement functions of Administrator or other official
 
 <a id="section-6949a"></a>
 ## § 6949a. Adequacy of certain guidelines and criteria
-**(a) Study** The Administrator shall conduct a study of the extent to which the guidelines and criteria under this chapter (other than guidelines and criteria for facilities to which subchapter III of this chapter applies) which are applicable to solid waste management and disposal facilities, including, but not limited to landfills and surface impoundments, are adequate to protect human health and the environment from ground water contamination. Such study shall include a detailed assessment of the degree to which the criteria under [section 6907(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6907/a&num=0&edition=prelim) and the criteria under [section 6944 of this title](./chapter-082-solid-waste-disposal.md#section-6944) regarding monitoring, prevention of contamination, and remedial action are adequate to protect ground water and shall also include recommendation with respect to any additional enforcement authorities which the Administrator, in consultation with the Attorney General, deems necessary for such purposes.
+**(a) Study** The Administrator shall conduct a study of the extent to which the guidelines and criteria under this chapter (other than guidelines and criteria for facilities to which subchapter III applies) which are applicable to solid waste management and disposal facilities, including, but not limited to landfills and surface impoundments, are adequate to protect human health and the environment from ground water contamination. Such study shall include a detailed assessment of the degree to which the criteria under [section 6907(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6907/a&num=0&edition=prelim) and the criteria under [section 6944 of this title](./chapter-082-solid-waste-disposal.md#section-6944) regarding monitoring, prevention of contamination, and remedial action are adequate to protect ground water and shall also include recommendation with respect to any additional enforcement authorities which the Administrator, in consultation with the Attorney General, deems necessary for such purposes.
 
 **(b) Report** Not later than thirty-six months after November 8, 1984, the Administrator shall submit a report to the Congress setting forth the results of the study required under this section, together with any recommendations made by the Administrator on the basis of such study.
 
@@ -3360,7 +3508,7 @@ Ex. Ord. No. 12780, Oct. 31, 1991, 56 F.R. 56289, which required Federal agencie
 Ex. Ord. No. 12873, Oct. 20, 1993, 58 F.R. 54911, as amended by Ex. Ord. No. 12995, Mar. 25, 1996, 61 F.R. 13645, which directed Executive agencies to incorporate waste prevention and recycling in daily operations and work and to acquire and use environmentally preferable products and services and which created a Federal Environmental Executive and established high-level Environmental Executive positions within each agency, was revoked by Ex. Ord. No. 13101, § 901, Sept. 14, 1998, 63 F.R. 49651, formerly set out below.
 
 #### Executive Order No. 13101
-Ex. Ord. No. 13101, Sept. 14, 1998, 63 F.R. 49643, which directed executive agencies to incorporate waste prevention and recycling policies in their daily operations and created a Steering Committee, a Federal Environmental Executive, a Task Force, and Agency Environmental Executive positions responsible for ensuring the implementation of this order, was revoked by Ex. Ord. No. 13423, § 11(a)(i), Jan. 24, 2007, 72 F.R. 3923, set out in a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
+Ex. Ord. No. 13101, Sept. 14, 1998, 63 F.R. 49643, which directed executive agencies to incorporate waste prevention and recycling policies in their daily operations and created a Steering Committee, a Federal Environmental Executive, a Task Force, and Agency Environmental Executive positions responsible for ensuring the implementation of this order, was revoked by Ex. Ord. No. 13423, § 11(a)(i), Jan. 24, 2007, 72 F.R. 3923, formerly set out in a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
 
 
 <a id="section-6962"></a>
@@ -3858,7 +4006,7 @@ Any action under paragraph (a)(1) of this subsection shall be brought in the dis
 
   (F) Whenever any action is brought under subsection (a)(1)(B) of this section in a court of the United States, the plaintiff shall serve a copy of the complaint on the Attorney General of the United States and with the Administrator.
 
-**(c) Notice** No action may be commenced under paragraph (a)(2) of this section prior to sixty days after the plaintiff has given notice to the Administrator that he will commence such action, except that such action may be brought immediately after such notification in the case of an action under this section respecting a violation of subchapter III of this chapter. Notice under this subsection shall be given in such manner as the Administrator shall prescribe by regulation. Any action respecting a violation under this chapter may be brought under this section only in the judicial district in which such alleged violation occurs.
+**(c) Notice** No action may be commenced under paragraph (a)(2) of this section prior to sixty days after the plaintiff has given notice to the Administrator that he will commence such action, except that such action may be brought immediately after such notification in the case of an action under this section respecting a violation of subchapter III. Notice under this subsection shall be given in such manner as the Administrator shall prescribe by regulation. Any action respecting a violation under this chapter may be brought under this section only in the judicial district in which such alleged violation occurs.
 
 **(d) Intervention** In any action under this section the Administrator, if not a party, may intervene as a matter of right.
 
@@ -3888,7 +4036,7 @@ Subsec. (e). Pub. L. 98–616, § 401(e), substituted “to the prevailing or su
 
 Subsec. (g). Pub. L. 98–616, § 401(c), added subsec. (g).
 
-1978—Subsec. (c). Pub. L. 95–609, § 7(p)(1), substituted “subchapter III of this chapter” for “section 212 of this Act.”
+1978—Subsec. (c). Pub. L. 95–609, § 7(p)(1), substituted “subchapter III” for “section 212 of this Act.”
 
 Subsec. (e). Pub. L. 95–609, § 7(p)(2), substituted “require” for “requiring”.
 
@@ -4591,7 +4739,7 @@ In this subchapter:
 
 (7) The term “regulated substance” means—
 
-  (A) any substance defined in [section 9601(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/14&num=0&edition=prelim) (but not including any substance regulated as a hazardous waste under subchapter III of this chapter), and
+  (A) any substance defined in [section 9601(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/14&num=0&edition=prelim) (but not including any substance regulated as a hazardous waste under subchapter III), and
 
   (B) petroleum.
 

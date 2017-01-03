@@ -47,24 +47,11 @@ Repeal effective Dec. 1, 1994, except as otherwise provided, see section 1691 of
 
 
 <a id="section-8543"></a>
-## § 8543. Aides: detail; number authorized
-**(a)** Each major general of the Air Force is entitled to three aides selected by him from commissioned officers of the Air Force in any grade below major.
-
-**(b)** Each brigadier general of the Air Force is entitled to two aides selected by him from commissioned officers of the Air Force in any grade below captain.
+## § 8543. Repealed. Pub. L. 114–328, div. A, title V, § 502(pp)(1), Dec. 23, 2016, 130 Stat. 2106]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised section | Source (U.S. Code) | Source (Statutes at Large) |
-| 8543(a) | 10:498 (1st 20 words). | R.S. 1098. |
-| 8543(b) | 10:498 (less 1st 20 words). |  |
-
-In subsection (a), the words “commissioned officers * * * in any grade below major” are substituted for the words “captains or lieutenants”.
-
-In subsections (a) and (b), the words “is entitled to” are substituted for the words “shall have”.
-
-In subsection (b), the words “commissioned officers in any grade below captain” are substituted for the word “lieutenants”.
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, related to number of authorized aides.
 
 
 <a id="section-8544-8545"></a>

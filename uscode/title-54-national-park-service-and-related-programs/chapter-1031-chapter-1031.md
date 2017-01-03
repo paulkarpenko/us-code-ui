@@ -35,12 +35,12 @@ source: >-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 103101(a) | [16 U.S.C. 14b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section14b&num=0&edition=prelim) | May 9, 1935, ch. 101, § 1 (34th undesignated paragraph under heading “NATIONAL PARK SERVICE”), 49 Stat. 209. |
-|  | [16 U.S.C. 456a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section456a&num=0&edition=prelim) |  |
-| 103101(b) | [16 U.S.C. 14c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section14c&num=0&edition=prelim) | June 28, 1941, ch. 259, § 1 (41st undesignated paragraph under heading “NATIONAL PARK SERVICE”), 55 Stat. 350. |
-| 103101(c) | [16 U.S.C. 14d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section14d&num=0&edition=prelim) | Pub. L. 102–381, title I, (1st proviso in paragraph under heading “administrative provisions” under heading “National Park Service”), Oct. 5, 1992, 106 Stat. 1384; Pub. L. 103–332, title I, (3d proviso in paragraph under heading “administrative provisions” under heading “National Park Service”), Sept. 30, 1994, 108 Stat. 2507. |
-| 103101(d) | [16 U.S.C. 14e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section14e&num=0&edition=prelim) | Pub. L. 107–63, title I, (paragraph under heading “contribution for annuity benefits” under heading “National Park Service”), Nov. 5, 2001, 115 Stat. 424. |
-| 103101(e) | [16 U.S.C. 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section15&num=0&edition=prelim) | Mar. 7, 1928, ch. 137, § 1 (28th undesignated paragraph under heading “NATIONAL PARK SERVICE”), 45 Stat. 238. |
+| 103101(a) | [16 U.S.C. 14b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section14b&num=0&edition=prelim). | May 9, 1935, ch. 101, § 1 (34th undesignated paragraph under heading “NATIONAL PARK SERVICE”), 49 Stat. 209. |
+|  | [16 U.S.C. 456a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section456a&num=0&edition=prelim). |  |
+| 103101(b) | [16 U.S.C. 14c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section14c&num=0&edition=prelim). | June 28, 1941, ch. 259, § 1 (41st undesignated paragraph under heading “NATIONAL PARK SERVICE”), 55 Stat. 350. |
+| 103101(c) | [16 U.S.C. 14d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section14d&num=0&edition=prelim). | Pub. L. 102–381, title I, (1st proviso in paragraph under heading “administrative provisions” under heading “National Park Service”), Oct. 5, 1992, 106 Stat. 1384; Pub. L. 103–332, title I, (3d proviso in paragraph under heading “administrative provisions” under heading “National Park Service”), Sept. 30, 1994, 108 Stat. 2507. |
+| 103101(d) | [16 U.S.C. 14e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section14e&num=0&edition=prelim). | Pub. L. 107–63, title I, (paragraph under heading “contribution for annuity benefits” under heading “National Park Service”), Nov. 5, 2001, 115 Stat. 424. |
+| 103101(e) | [16 U.S.C. 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section15&num=0&edition=prelim). | Mar. 7, 1928, ch. 137, § 1 (28th undesignated paragraph under heading “NATIONAL PARK SERVICE”), 45 Stat. 238. |
 
 In subsection (a), the word “Hereafter” in section 1 (last paragraph on p. 209) of the Act of May 9, 1935 (ch. 101, 49 Stat. 209) is omitted as obsolete.
 
@@ -90,8 +90,8 @@ Appropriations for the Service are authorized and are available for—
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 103102 | [16 U.S.C. 1d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1d&num=0&edition=prelim) | Aug. 8, 1953, ch. 384, § 3, 67 Stat. 496. |
-|  | [16 U.S.C. 17j–2(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17j–2/b&num=0&edition=prelim) through (g), (i), (j) | Aug. 7, 1946, ch. 788, (b) through (g), (i), (j), 60 Stat. 885, 886; Pub. L. 104–333, div. I, title VIII, § 802, Nov. 12, 1996, 110 Stat. 4186. |
+| 103102 | [16 U.S.C. 1d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1d&num=0&edition=prelim). | Aug. 8, 1953, ch. 384, § 3, 67 Stat. 496. |
+|  | [16 U.S.C. 17j–2(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17j–2/b&num=0&edition=prelim) through (g), (i), (j). | Aug. 7, 1946, ch. 788, (b) through (g), (i), (j), 60 Stat. 885, 886; Pub. L. 104–333, div. I, title VIII, § 802, Nov. 12, 1996, 110 Stat. 4186. |
 
 Before paragraph (1), the words “On and after August 8, 1953” in [16 U.S.C. 1d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1d&num=0&edition=prelim) are omitted as obsolete.
 
@@ -106,7 +106,7 @@ Notwithstanding any other provision of law, amounts provided to the Service by p
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 103103 | [16 U.S.C. 1h](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1h&num=0&edition=prelim) | Pub. L. 108–7, div. F, title I (words before proviso in last undesignated paragraph under heading “administrative provisions” under heading “National Park Service”), Feb. 20, 2003, 117 Stat. 227. |
+| 103103 | [16 U.S.C. 1h](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1h&num=0&edition=prelim). | Pub. L. 108–7, div. F, title I (words before proviso in last undesignated paragraph under heading “administrative provisions” under heading “National Park Service”), Feb. 20, 2003, 117 Stat. 227. |
 
 The words “in fiscal year 2003 and thereafter” are omitted as obsolete.
 
@@ -121,6 +121,6 @@ Notwithstanding any other provision of law, the Service may recover all costs of
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 103104 | [16 U.S.C. 3a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3a&num=0&edition=prelim) | Pub. L. 103–138, title I (2d proviso in paragraph under heading “administrative provisions” under heading “National Park Service”), Nov. 11, 1993, 107 Stat. 1387. |
+| 103104 | [16 U.S.C. 3a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3a&num=0&edition=prelim). | Pub. L. 103–138, title I (2d proviso in paragraph under heading “administrative provisions” under heading “National Park Service”), Nov. 11, 1993, 107 Stat. 1387. |
 
 The words “on and after November 11, 1993” are omitted as obsolete.

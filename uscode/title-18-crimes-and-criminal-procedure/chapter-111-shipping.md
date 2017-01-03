@@ -281,7 +281,7 @@ Minor changes were made in phraseology.
 
 (7) “infrastructure facility” has the meaning given the term in [section 2332f(e)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2332f/e/5&num=0&edition=prelim);
 
-(8) “international organization” has the meaning given the term in [section 831(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section831/f/3&num=0&edition=prelim);
+(8) “international organization” has the meaning given the term in section 831(f)(3) 11 See References in Text note below. of this title;
 
 (9) “military forces of a state” means the armed forces of a state which are organized, trained, and equipped under its internal law for the primary purpose of national defense or security, and persons acting in support of those armed forces who are under their formal command, control, and responsibility;
 
@@ -336,6 +336,9 @@ Minor changes were made in phraseology.
 (2) **Applicable Procedures.—** — Seizures and forfeitures under this section shall be governed by the provisions of chapter 46 of title 18, United States Code, relating to civil forfeitures, except that such duties as are imposed upon the Secretary of the Treasury under the customs laws described in section 981(d) shall be performed by such officers, agents, and other persons as may be designated for that purpose by the Secretary of Homeland Security, the Attorney General, or the Secretary of Defense.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 831(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section831/f/3&num=0&edition=prelim), referred to in subsec. (d)(8), was redesignated section 831(g)(3) by Pub. L. 114–23, title VIII, § 812(d), June 2, 2015, 129 Stat. 312.
 
 #### Amendments
 2015—Subsec. (b)(1)(A)(i). Pub. L. 114–23, § 801(1)(A), substituted “a vessel of the United States or a vessel subject to the jurisdiction of the United States (as defined in [section 70502 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70502&num=0&edition=prelim))” for “a ship flying the flag of the United States”.
@@ -625,7 +628,7 @@ Whoever intentionally destroys, seriously damages, alters, moves, or tampers wit
 ### Statutory Notes
 
 #### References in Text
-Section 831(f)(1), referred to in subsec. (c)(5), was redesignated as section 831(g)(1) by Pub. L. 114–23, title VIII, § 812(d), June 2, 2015, 129 Stat. 312.
+Section 831(f)(1), referred to in subsec. (c)(5), was redesignated section 831(g)(1) by Pub. L. 114–23, title VIII, § 812(d), June 2, 2015, 129 Stat. 312.
 
 
 <a id="section-2284"></a>

@@ -2,7 +2,7 @@
 title: 10
 chapter: '6'
 heading: COMBATANT COMMANDS
-section_count: 11
+section_count: 12
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -75,9 +75,9 @@ Barack Obama.
 ## § 162. Combatant commands: assigned forces; chain of command
 **(a) Assignment of Forces.—**
 
-(1) Except as provided in paragraph (2), the Secretaries of the military departments shall assign all forces under their jurisdiction to unified and specified combatant commands or to the United States element of the North American Aerospace Defense Command to perform missions assigned to those commands. Such assignments shall be made as directed by the Secretary of Defense, including direction as to the command to which forces are to be assigned. The Secretary of Defense shall ensure that such assignments are consistent with the force structure prescribed by the President for each combatant command.
+(1) As directed by the Secretary of Defense, the Secretaries of the military departments shall assign specified forces under their jurisdiction to unified and specified combatant commands or to the United States element of the North American Aerospace Defense Command to perform missions assigned to those commands. The Secretary of Defense shall ensure that such assignments are consistent with the force structure prescribed by the President for each combatant command.
 
-(2) Except as otherwise directed by the Secretary of Defense, forces to be assigned by the Secretaries of the military departments to the combatant commands or to the United States element of the North American Aerospace Defense Command under paragraph (1) do not include forces assigned to carry out functions of the Secretary of a military department listed in sections 3013(b), 5013(b), and 8013(b) of this title or forces assigned to multinational peacekeeping organizations.
+(2) A force not assigned to a combatant command or to the United States element of the North American Aerospace Defense Command under paragraph (1) shall remain assigned to the military department concerned for carrying out the responsibilities of the Secretary of the military department concerned as specified in section 3013, 5013, or 8013 of this title, as applicable.
 
 (3) A force assigned to a combatant command or to the United States element of the North American Aerospace Defense Command under this section may be transferred from the command to which it is assigned only—
 
@@ -85,7 +85,7 @@ Barack Obama.
 
   (B) under procedures prescribed by the Secretary and approved by the President.
 
-(4) Except as otherwise directed by the Secretary of Defense, all forces operating within the geographic area assigned to a unified combatant command shall be assigned to, and under the command of, the commander of that command. The preceding sentence applies to forces assigned to a specified combatant command only as prescribed by the Secretary of Defense.
+(4) Except as otherwise directed by the Secretary of Defense, all forces assigned to a unified combatant command shall be under the command of,11 So in original. The comma probably should not appear. the commander of that command. The preceding sentence applies to forces assigned to a specified combatant command only as prescribed by the Secretary of Defense.
 
 **(b) Chain of Command.—** Unless otherwise directed by the President, the chain of command to a unified or specified combatant command runs—
 
@@ -96,6 +96,14 @@ Barack Obama.
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–328, § 924(1), substituted “As directed by the Secretary of Defense” for “Except as provided in paragraph (2)” and “specified forces” for “all forces”, and struck out “Such assignments shall be made as directed by the Secretary of Defense, including direction as to the command to which forces are to be assigned.” before “The Secretary of Defense”.
+
+Subsec. (a)(2). Pub. L. 114–328, § 924(2), added par. (2) and struck out former par. (2), which read as follows: “Except as otherwise directed by the Secretary of Defense, forces to be assigned by the Secretaries of the military departments to the combatant commands or to the United States element of the North American Aerospace Defense Command under paragraph (1) do not include forces assigned to carry out functions of the Secretary of a military department listed in sections 3013(b), 5013(b), and 8013(b) of this title or forces assigned to multinational peacekeeping organizations.”
+
+Subsec. (a)(4). Pub. L. 114–328, § 924(3), which directed striking out “operating with the geographic area”, was executed by striking out “operating within the geographic area” after “all forces” to reflect the probable intent of Congress.
+
+Pub. L. 114–328, § 924(3), struck out “assigned to, and” before “under the command”.
+
 1996—Subsec. (a)(1) to (3). Pub. L. 104–201 substituted “North American Aerospace Defense Command” for “North American Air Defense Command”.
 
 1988—Subsec. (a)(1) to (3). Pub. L. 100–456 inserted “or to the United States element of the North American Air Defense Command”.
@@ -137,7 +145,7 @@ Pub. L. 99–433, title II, § 214(a), Oct. 1, 1986, 100 Stat. 1018, provided th
 
   (A) has the joint specialty under [section 661 of this title](./chapter-038-joint-officer-management.md#section-661); and
 
-  (B) has completed a full tour of duty in a joint duty assignment (as defined in [section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim)) as a general or flag officer.
+  (B) has completed a full tour of duty in a joint duty assignment (as defined in section 664(f) 11 See References in Text note below. of this title) as a general or flag officer.
 
 (2) The President may waive paragraph (1) in the case of an officer if the President determines that such action is necessary in the national interest.
 
@@ -150,6 +158,14 @@ Pub. L. 99–433, title II, § 214(a), Oct. 1, 1986, 100 Stat. 1018, provided th
   (A) performs his duties under the authority, direction, and control of the Secretary of Defense; and
 
   (B) is directly responsible to the Secretary for the preparedness of the command to carry out missions assigned to the command.
+
+(3) Among the full range of command responsibilities specified in subsection (c) and as provided for in [section 161 of this title](./chapter-006-combatant-commands.md#section-161), the primary duties of the commander of a combatant command shall be as follows:
+
+  (A) To produce plans for the employment of the armed forces to execute national defense strategies and respond to significant military contingencies.
+
+  (B) To take actions, as necessary, to deter conflict.
+
+  (C) To command United States armed forces as directed by the Secretary and approved by the President.
 
 **(c) Command Authority of Combatant Commanders.—**
 
@@ -203,7 +219,7 @@ Pub. L. 99–433, title II, § 214(a), Oct. 1, 1986, 100 Stat. 1018, provided th
 
   (B) submit the evaluation to the Secretary of the military department concerned and the Chairman of the Joint Chiefs of Staff.
 
-(4) At least one deputy commander of the combatant command the geographic area of responsibility of which includes the United States shall be a qualified officer of the National Guard who is eligible for promotion to the grade of O–9, unless a National Guard officer is serving as commander of that combatant command.
+(4) At least one deputy commander of the combatant command the geographic area of responsibility of which includes the United States shall be a qualified officer of a reserve component of the armed forces who is eligible for promotion to the grade of O–9, unless a reserve component officer is serving as commander of that combatant command.
 
 **(f) Combatant Command Staff.—**
 
@@ -219,9 +235,20 @@ Pub. L. 99–433, title II, § 214(a), Oct. 1, 1986, 100 Stat. 1018, provided th
 
 **(g) Authority to Suspend Subordinates.—** In accordance with procedures established by the Secretary of Defense, the commander of a combatant command may suspend from duty and recommend the reassignment of any officer assigned to such combatant command.
 
+**(h) Support to Chairman of the Joint Chiefs of Staff.—** The commander of a combatant command shall provide such information to the Chairman of the Joint Chiefs of Staff as may be necessary for the Chairman to perform the duties of the Chairman under [section 153 of this title](./chapter-005-joint-chiefs-of-staff.md#section-153).
+
 ### Statutory Notes
 
+#### References in Text
+[Section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim), referred to in subsec. (a)(1)(B), was redesignated as [section 664(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/d&num=0&edition=prelim) by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
+
 #### Amendments
+2016—Subsec. (b)(3). Pub. L. 114–328, § 921(e)(1), added par. (3).
+
+Subsec. (e)(4). Pub. L. 114–328, § 516, substituted “a reserve component of the armed forces” for “the National Guard” and “a reserve component officer” for “a National Guard officer”.
+
+Subsec. (h). Pub. L. 114–328, § 921(e)(2), added subsec. (h).
+
 2008—Subsec. (e)(4). Pub. L. 110–181 added par. (4).
 
 1988—Subsec. (a)(1)(B). Pub. L. 100–456 substituted “completed a full tour of duty in a joint duty assignment (as defined in [section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim))” for “served in at least one joint duty assignment (as defined under [section 668(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section668/b&num=0&edition=prelim))”.
@@ -262,9 +289,12 @@ Pub. L. 99–433, title II, § 214(b), Oct. 1, 1986, 100 Stat. 1018, authorized 
 
 (4) Selected operations.
 
-**(c) SOF Training With Foreign Forces.—** A funding proposal for force training under subsection (b)(2) may include amounts for training expense payments authorized in [section 2011 of this title](./chapter-101-training-generally.md#section-2011).
+**(c) SOF Training With Foreign Forces.—** A funding proposal for force training under subsection (b)(2) may include amounts for training expense payments authorized in [section 2011 of this title](./chapter-101-training-generally.md#section-2011).11 See References in Text note below.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 2011 of this title](./chapter-101-training-generally.md#section-2011), referred to in subsec. (c), was renumbered [section 322 of this title](./chapter-016-security-cooperation.md#section-322) by Pub. L. 114–328, div. A, title XII, § 1244(b), Dec. 23, 2016, 130 Stat. 2518.
 
 #### Amendments
 1991—Subsec. (c). Pub. L. 102–190 added subsec. (c).
@@ -313,7 +343,7 @@ Pub. L. 99–433, title II, § 214(d), Oct. 1, 1986, 100 Stat. 1019, provided th
 
 (1) Of funds made available under this section for any fiscal year—
 
-  (A) not more than $20,000,000 may be used to purchase items with a unit cost in excess of the investment unit cost threshold in effect under [section 2245a of this title](./chapter-134-miscellaneous-administrative-provisions.md#section-2245a);
+  (A) not more than $20,000,000 may be used to purchase items with a unit cost in excess of $250,000;
 
   (B) not more than $10,000,000 may be used to pay for any expenses of foreign countries participating in joint exercises as authorized by subsection (b)(5); and
 
@@ -326,6 +356,8 @@ Pub. L. 99–433, title II, § 214(d), Oct. 1, 1986, 100 Stat. 1019, provided th
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (e)(1)(A). Pub. L. 114–328 substituted “$250,000” for “the investment unit cost threshold in effect under [section 2245a of this title](./chapter-134-miscellaneous-administrative-provisions.md#section-2245a)”.
+
 2009—Subsec. (b)(6). Pub. L. 111–84, § 904(b), inserted “in coordination with the relevant chief of mission to the extent practicable,” after “assistance,”.
 
 Subsec. (e)(1)(A). Pub. L. 111–84, § 904(a), substituted “$20,000,000” for “$10,000,000” and “the investment unit cost threshold in effect under [section 2245a of this title](./chapter-134-miscellaneous-administrative-provisions.md#section-2245a)” for “$15,000”.
@@ -423,7 +455,7 @@ Pub. L. 108–136, div. A, title IX, § 902(a)(1), (3), Nov. 24, 2003, 117 Stat.
 
 (1) In addition to the authority prescribed in [section 164(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section164/c&num=0&edition=prelim), the commander of the special operations command shall be responsible for, and shall have the authority to conduct, all affairs of such command relating to special operations activities.
 
-(2) The commander of such command shall be responsible for, and shall have the authority to conduct, the following functions relating to special operations activities (whether or not relating to the special operations command):
+(2) Subject to the authority, direction, and control of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, the commander of such command shall be responsible for, and shall have the authority to conduct, the following functions relating to special operations activities (whether or not relating to the special operations command):
 
   (A) Developing strategy, doctrine, and tactics.
 
@@ -447,7 +479,7 @@ Pub. L. 108–136, div. A, title IX, § 902(a)(1), (3), Nov. 24, 2003, 117 Stat.
 
   (I) Formulating and submitting requirements for intelligence support.
 
-  (J) Monitoring the promotions, assignments, retention, training, and professional military education of special operations forces officers.
+  (J) Monitoring the promotions of special operations forces and coordinating with the military departments regarding the assignment, retention, training, professional military education, and special and incentive pays of special operations forces.
 
 (3) The commander of the special operations command shall be responsible for—
 
@@ -481,17 +513,29 @@ Pub. L. 108–136, div. A, title IX, § 902(a)(1), (3), Nov. 24, 2003, 117 Stat.
 
   (D) The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the special operations command and such other inspector general functions as may be assigned.
 
-**(f) Budget.—** In addition to the activities of a combatant command for which funding may be requested under [section 166(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section166/b&num=0&edition=prelim), the budget proposal of the special operations command shall include requests for funding for—
+**(f) Administrative Chain of Command.—**
+
+(1) Unless otherwise directed by the President, the administrative chain of command to the special operations command runs—
+
+  (A) from the President to the Secretary of Defense;
+
+  (B) from the Secretary of Defense to the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict; and
+
+  (C) from the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict to the commander of the special operations command.
+
+(2) For purposes of this subsection, administrative chain of command refers to the exercise of authority, direction and control with respect to the special operations-peculiar administration and support of the special operations command, including the readiness and organization of special operations forces, resources and equipment, and civilian personnel. It does not refer to the exercise of authority, direction, and control of operational matters that are subject to the operational chain of command of the commanders of combatant commands or the exercise of authority, direction, and control of personnel, resources, equipment, and other matters that are not special operations-peculiar that are the purview of the armed forces.
+
+**(g) Budget.—** In addition to the activities of a combatant command for which funding may be requested under [section 166(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section166/b&num=0&edition=prelim), the budget proposal of the special operations command shall include requests for funding for—
 
 (1) development and acquisition of special operations-peculiar equipment; and
 
 (2) acquisition of other material, supplies, or services that are peculiar to special operations activities.
 
-**(g) Intelligence and Special Activities.—** This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 ([50 U.S.C. 3091](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim) et seq.).
+**(h) Intelligence and Special Activities.—** This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 ([50 U.S.C. 3091](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim) et seq.).
 
-**(h) Regulations.—** The Secretary of Defense shall prescribe regulations for the activities of the special operations command. Such regulations shall include authorization for the commander of such command to provide for operational security of special operations forces and activities.
+**(i) Regulations.—** The Secretary of Defense shall prescribe regulations for the activities of the special operations command. Such regulations shall include authorization for the commander of such command to provide for operational security of special operations forces and activities.
 
-**(i) Identification of Special Operations Forces.—**
+**(j) Identification of Special Operations Forces.—**
 
 (1) Subject to paragraph (2), for the purposes of this section special operations forces are those forces of the armed forces that—
 
@@ -503,7 +547,7 @@ Pub. L. 108–136, div. A, title IX, § 902(a)(1), (3), Nov. 24, 2003, 117 Stat.
 
 (2) The Secretary of Defense, after consulting with the Chairman of the Joint Chiefs of Staff and the commander of the special operations command, may direct that any force included within the description in paragraph (1)(A) or (1)(B) shall not be considered as a special operations force for the purposes of this section.
 
-**(j) Special Operations Activities.—** For purposes of this section, special operations activities include each of the following insofar as it relates to special operations:
+**(k) Special Operations Activities.—** For purposes of this section, special operations activities include each of the following insofar as it relates to special operations:
 
 (1) Direct action.
 
@@ -525,7 +569,7 @@ Pub. L. 108–136, div. A, title IX, § 902(a)(1), (3), Nov. 24, 2003, 117 Stat.
 
 (10) Such other activities as may be specified by the President or the Secretary of Defense.
 
-**(k) Budget Support for Reserve Elements.—**
+**(l) Budget Support for Reserve Elements.—**
 
 (1) Before the budget proposal for the special operations command for any fiscal year is submitted to the Secretary of Defense, the commander of the command shall consult with the Secretaries of the military departments concerning funding for reserve component special operations units. If the Secretary of a military department does not concur in the recommended level of funding with respect to any such unit that is under the jurisdiction of the Secretary, the commander shall include with the budget proposal submitted to the Secretary of Defense the views of the Secretary of the military department concerning such funding.
 
@@ -534,7 +578,7 @@ Pub. L. 108–136, div. A, title IX, § 902(a)(1), (3), Nov. 24, 2003, 117 Stat.
 ### Statutory Notes
 
 #### References in Text
-The National Security Act of 1947, referred to in subsec. (g), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
@@ -542,6 +586,12 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Pub. L. 99–661 and Pub. L. 99–500 added identical sections.
 
 #### Amendments
+2016—Subsec. (e)(2). Pub. L. 114–328, § 922(c)(1)(A), substituted “Subject to the authority, direction, and control of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, the commander” for “The commander” in introductory provisions.
+
+Subsec. (e)(2)(J). Pub. L. 114–328, § 922(c)(1)(B), added subpar. (J) and struck out former subpar. (J) which read as follows: “Monitoring the promotions, assignments, retention, training, and professional military education of special operations forces officers.”.
+
+Subsec. (f) to (l). Pub. L. 114–328, § 922(c)(2), added susbec. (f) and redesignated former subsecs. (f) to (k) as (g) to (l), respectively.
+
 2014—Subsec. (g). Pub. L. 113–291 substituted “([50 U.S.C. 3091](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim) et seq.)” for “([50 U.S.C. 413](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section413&num=0&edition=prelim) et seq.)”.
 
 2013—Subsec. (e)(4)(C)(ii). Pub. L. 113–66 inserted “responsible to the commander for rapidly delivering acquisition solutions to meet validated special operations-peculiar requirements, subordinate to the Defense Acquisition Executive in matters of acquisition, subject to the same oversight as the service acquisition executives, and” after “shall be”.
@@ -597,8 +647,10 @@ Pub. L. 112–81, div. A, title IX, § 904, Dec. 31, 2011, 125 Stat. 1533, provi
 #### Counterterrorism Operational Briefing Requirement
 Pub. L. 112–81, div. A, title X, § 1031, Dec. 31, 2011, 125 Stat. 1570, required the Secretary of Defense, beginning not later than March 1, 2012, to provide to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives quarterly briefings outlining Department of Defense counterterrorism operations and related activities involving special operations forces, prior to repeal by Pub. L. 113–66, div. A, title X, § 1042(b), Dec. 26, 2013, 127 Stat. 857.
 
-#### Quarterly Reports on Use of Combat Mission Requirements Funds
-Pub. L. 111–383, div. A, title I, § 123, Jan. 7, 2011, 124 Stat. 4158, as amended by Pub. L. 112–81, div. A, title I, § 145, Dec. 31, 2011, 125 Stat. 1326, provided that: “(a) Quarterly Reports Required.—“(1) In general.—Not later than 30 days after the end of each fiscal quarter, the commander of the United States Special Operations Command shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the use of Combat Mission Requirements funds during the preceding fiscal quarter. “(2) Combat mission requirements funds.—For purposes of this section, Combat Mission Requirements funds are amounts available to the Department of Defense for Defense-wide procurement in the Combat Mission Requirements subaccount of the Defense-wide Procurement account. “(b) Elements.—Each report under subsection (a) shall include, for the fiscal quarter covered by such report, the following:“(1) The balance of the Combat Mission Requirements subaccount at the beginning of such quarter. “(2) The balance of the Combat Mission Requirements subaccount at the end of such quarter. “(3) Any transfer of funds into or out of the Combat Mission Requirements subaccount during such quarter, including the source of any funds transferred into the subaccount, and the objective of any transfer of funds out of the subaccount. “(4) A description of any requirement—“(A) approved for procurement using Combat Mission Requirements funds during such quarter; or “(B) procured using such funds during such quarter. “(5) With respect to each description of a requirement under paragraph (4), the amount of Combat Mission Requirements funds committed to the procurement or approved procurement of such requirement. “(6) A table setting forth the Combat Mission Requirements approved during the fiscal year in which such report is submitted and the two preceding fiscal years, including for each such Requirement—“(A) the title of such Requirement; “(B) the date of approval of such Requirement; and “(C) the amount of funding approved for such Requirement, and the source of such approved funds. “(7) A statement of the amount of any unspent Combat Mission Requirements funds from the fiscal year in which such report is submitted and the two preceding fiscal years. “(c) Form.—Each report under subsection (a) shall be submitted in unclassified form, but may include a classified annex.”
+#### Annual Reports on Use of Combat Mission Requirements Funds
+Pub. L. 111–383, div. A, title I, § 123, Jan. 7, 2011, 124 Stat. 4158, as amended by Pub. L. 112–81, div. A, title I, § 145, Dec. 31, 2011, 125 Stat. 1326; Pub. L. 114–328, div. A, title I, § 145, Dec. 23, 2016, 130 Stat. 2042, provided that: “(a) Annual Reports Required.—“(1) In general.—Not later than 30 days after the end of each fiscal year, the commander of the United States Special Operations Command shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the use of Combat Mission Requirements funds during the preceding fiscal year. “(2) Combat mission requirements funds.—For purposes of this section, Combat Mission Requirements funds are amounts available to the Department of Defense for Defense-wide procurement in the Combat Mission Requirements subaccount of the Defense-wide Procurement account. “(b) Elements.—Each report under subsection (a) shall include, for the fiscal year covered by such report, the following:“(1) The balance of the Combat Mission Requirements subaccount at the beginning of such year. “(2) The balance of the Combat Mission Requirements subaccount at the end of such year. “(3) Any transfer of funds into or out of the Combat Mission Requirements subaccount during such year, including the source of any funds transferred into the subaccount, and the objective of any transfer of funds out of the subaccount. “(4) A description of any requirement—“(A) approved for procurement using Combat Mission Requirements funds during such year; or “(B) procured using such funds during such year. “(5) With respect to each description of a requirement under paragraph (4), the amount of Combat Mission Requirements funds committed to the procurement or approved procurement of such requirement. “(6) A table setting forth the Combat Mission Requirements approved during the fiscal year in which such report is submitted and the two preceding fiscal years, including for each such Requirement—“(A) the title of such Requirement; “(B) the date of approval of such Requirement; and “(C) the amount of funding approved for such Requirement, and the source of such approved funds. “(7) A statement of the amount of any unspent Combat Mission Requirements funds from the fiscal year in which such report is submitted and the two preceding fiscal years. “(c) Form.—Each report under subsection (a) shall be submitted in unclassified form, but may include a classified annex.”
+
+[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 123 of Pub. L. 111–383, set out above, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).]
 
 #### Resources for CINCSOF
 Pub. L. 100–180, div. A, title XII, § 1211(b), Dec. 4, 1987, 101 Stat. 1155, as amended by Pub. L. 104–106, div. A, title IX, § 903(f)(5), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617, provided that: “The Secretary of Defense shall provide sufficient resources for the commander of the unified combatant command for special operations forces established pursuant to [section 167 of title 10](./chapter-006-combatant-commands.md#section-167), United States Code, to carry out his duties and responsibilities, including particularly his duties and responsibilities relating to the following functions: “(1) Developing and acquiring special operations-peculiar equipment and acquiring special operations-peculiar material, supplies, and services. “(2) Providing advice and assistance to the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict in the Assistant Secretary’s overall supervision of the preparation and justification of the program recommendations and budget proposals for special operations forces. “(3) Managing assigned resources from the major force program category for special operations forces of the Five-Year Defense Plan of the Department of Defense (as required to be created pursuant to subsection (e)).”
@@ -659,108 +711,89 @@ Subsec. (g). Pub. L. 110–181, § 825(a)(2), (b), redesignated subsec. (f) as (
 Pub. L. 108–136, div. A, title VIII, § 848(b), Nov. 24, 2003, 117 Stat. 1555, required the Comptroller General to review the implementation of this section and submit to Congress a report on such review not later than two years after Nov. 24, 2003.
 
 
-<a id="section-168"></a>
-## § 168. Military-to-military contacts and comparable activities
-**(a) Program Authority.—** The Secretary of Defense may conduct military-to-military contacts and comparable activities that are designed to encourage a democratic orientation of defense establishments and military forces of other countries.
+<a id="section-167b"></a>
+## § 167b. Unified combatant command for cyber operations
+**(a) Establishment.—** With the advice and assistance of the Chairman of the Joint Chiefs of Staff, the President, through the Secretary of Defense, shall establish under [section 161 of this title](./chapter-006-combatant-commands.md#section-161) a unified combatant command for cyber operations forces (hereinafter in this section referred to as the “cyber command”). The principal function of the command is to prepare cyber operations forces to carry out assigned missions.
 
-**(b) Administration.—** The Secretary may provide funds appropriated for carrying out subsection (a) to the following officials for use as provided in subsection (c):
+**(b) Assignment of Forces.—** Unless otherwise directed by the Secretary of Defense, all active and reserve cyber operations forces of the armed forces stationed in the United States shall be assigned to the cyber command.
 
-(1) The commander of a combatant command, upon the request of the commander.
+**(c) Grade of Commander.—** The commander of the cyber command shall hold the grade of general or, in the case of an officer of the Navy, admiral while serving in that position, without vacating that officer’s permanent grade. The commander of such command shall be appointed to that grade by the President, by and with the advice and consent of the Senate, for service in that position.
 
-(2) An officer designated by the Chairman of the Joint Chiefs of Staff, with respect to an area or areas not under the area of responsibility of a commander of a combatant command.
+**(d) Command of Activity or Mission.—**
 
-(3) The head of any Department of Defense component.
+(1) Unless otherwise directed by the President or the Secretary of Defense, a cyber operations activity or mission shall be conducted under the command of the commander of the unified combatant command in whose geographic area the activity or mission is to be conducted.
 
-**(c) Authorized Activities.—** An official provided funds under subsection (b) may use those funds for the following activities and expenses:
+(2) The commander of the cyber command shall exercise command of a selected cyber operations mission if directed to do so by the President or the Secretary of Defense.
 
-(1) The activities of traveling contact teams, including any transportation expense, translation services expense, or administrative expense that is related to such activities.
+**(e) Authority of Combatant Commander.—**
 
-(2) The activities of military liaison teams.
+(1) In addition to the authority prescribed in [section 164(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section164/c&num=0&edition=prelim), the commander of the cyber command shall be responsible for, and shall have the authority to conduct, all affairs of such command relating to cyber operations activities.
 
-(3) Exchanges of civilian or military personnel between the Department of Defense and defense ministries of foreign governments.
+(2)
 
-(4) Exchanges of military personnel between units of the armed forces and units of foreign armed forces.
+  (A) Subject to the authority, direction, and control of the Principal Cyber Advisor, the commander of such command shall be responsible for, and shall have the authority to conduct, the following functions relating to cyber operations activities (whether or not relating to the cyber command):
 
-(5) Seminars and conferences held primarily in a theater of operations.
+    (i) Developing strategy, doctrine, and tactics.
 
-(6) Distribution of publications primarily in a theater of operations.
+    (ii) Preparing and submitting to the Secretary of Defense program recommendations and budget proposals for cyber operations forces and for other forces assigned to the cyber command.
 
-(7) Personnel expenses for Department of Defense civilian and military personnel to the extent that those expenses relate to participation in an activity described in paragraph (3), (4), (5), or (6).
+    (iii) Exercising authority, direction, and control over the expenditure of funds—
 
-(8) Reimbursement of military personnel appropriations accounts for the pay and allowances paid to reserve component personnel for service while engaged in any activity referred to in another paragraph of this subsection.
+      (I) for forces assigned directly to the cyber command; and
 
-(9) The assignment of personnel described in paragraph (3) or (4) on a non-reciprocal basis if the Secretary of Defense determines that such an assignment, rather than an exchange of personnel, is in the interests of the United States.
+      (II) for cyber operations forces assigned to unified combatant commands other than the cyber command, with respect to all matters covered by section 807 of the National Defense Authorization Act for Fiscal Year 2014 11 So in original. Should be “2016”. (Public Law 114–92; 129 Stat. 886; [10 U.S.C. 2224](./chapter-131-planning-and-coordination.md#section-2224) note) and, with respect to a matter not covered by such section, to the extent directed by the Secretary of Defense.
 
-**(d) Relationship to Other Funding.—** Any amount provided during any fiscal year to an official under subsection (b) for an activity or expense referred to in subsection (c) shall be in addition to amounts otherwise available for those activities and expenses for that fiscal year.
+    (iv) Training and certification of assigned joint forces.
 
-**(e) Limitations.—**
+    (v) Conducting specialized courses of instruction for commissioned and noncommissioned officers.
 
-(1) Funds may not be provided under this section for a fiscal year for any activity for which—
+    (vi) Validating requirements.
 
-  (A) funding was proposed in the budget submitted to Congress for that fiscal year pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim); and
+    (vii) Establishing priorities for requirements.
 
-  (B) Congress did not authorize appropriations.
+    (viii) Ensuring the interoperability of equipment and forces.
 
-(2) An activity may not be conducted under this section with a foreign country unless the Secretary of State approves the conduct of such activity in that foreign country.
+    (ix) Formulating and submitting requirements for intelligence support.
 
-(3) Funds may not be provided under this section for a fiscal year for any country that is not eligible in that fiscal year for assistance under chapter 5 of part II of the Foreign Assistance Act of 1961.
+    (x) Monitoring the promotion of cyber operation forces and coordinating with the military departments regarding the assignment, retention, training, professional military education, and special and incentive pays of cyber operation forces.
 
-(4) Except for those activities specifically authorized under subsection (c), funds may not be used under this section for the provision of defense articles or defense services to any country or for assistance under chapter 5 of part II of the Foreign Assistance Act of 1961.
+  (B) The authority, direction, and control exercised by the Principal Cyber Advisor for purposes of this section is authority, direction, and control with respect to the administration and support of the cyber command, including readiness and organization of cyber operations forces, cyber operations-peculiar equipment and resources, and civilian personnel.
 
-(5) Funds available to carry out this section shall be available, to the extent provided in appropriations Acts, for programs or activities under this section that begin in a fiscal year and end in the following fiscal year.
+  (C) Nothing in this section shall be construed as providing the Principal Cyber Advisor authority, direction, and control of operational matters that are subject to the operational chain of command of the combatant commands or the exercise of authority, direction, and control of personnel, resources, equipment, and other matters that are not cyber-operations peculiar and that are in the purview of the armed forces.
 
-**(f) Active Duty End Strengths.—** A member of a reserve component who is engaged in activities authorized under this section shall not be counted for purposes of the following personnel strength limitations:
+(3) The commander of the cyber command shall be responsible for—
 
-(1) The end strength for active-duty personnel authorized pursuant to [section 115(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section115/a/1&num=0&edition=prelim) for the fiscal year in which the member carries out the activities referred to under this section.
+  (A) ensuring the combat readiness of forces assigned to the cyber command; and
 
-(2) The authorized daily average for members in pay grades E–8 and E–9 under [section 517 of this title](./chapter-031-enlistments.md#section-517) for the calendar year in which the member carries out such activities.
+  (B) monitoring the preparedness to carry out assigned missions of cyber forces assigned to unified combatant commands other than the cyber command.
 
-(3) The authorized strengths for commissioned officers under [section 523 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-523) for the fiscal year in which the member carries out such activities.
+  (C) The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the cyber operations command and such other inspector general functions as may be assigned.
 
-**(g) Military-to-Military Contacts Defined.—** In this section, the term “military-to-military contacts” means contacts between members of the armed forces and members of foreign armed forces through activities described in subsection (c).
+**(f) Intelligence and Special Activities.—** This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 ([50 U.S.C. 3091](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim) et seq.).
 
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (e)(3), (4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 5 of part II of the Act is classified generally to part V (§ 2347 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) and Tables.
+The National Security Act of 1947, referred to in subsec. (f), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§ 3001 et seq.) of this title. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of this title. For complete classification of this Act to the Code, see Tables.
 
-#### Amendments
-2008—Subsec. (c)(9). Pub. L. 110–181 added par. (9).
 
-Subsec. (e)(5). Pub. L. 110–417 added par. (5).
+<a id="section-168"></a>
+## § 168. Repealed. Pub. L. 114–328, div. A, title XII, § 1253(a)(1)(A), Dec. 23, 2016, 130 Stat. 2532]
 
-2004—Subsec. (f). Pub. L. 108–375 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+### Statutory Notes
 
-“(1) A member of a reserve component referred to in paragraph (2) shall not be counted for purposes of the following personnel strength limitations:
-
-“(A) The end strength for active-duty personnel authorized pursuant to [section 115(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section115/a/1&num=0&edition=prelim) for the fiscal year in which the member carries out the activities referred to in paragraph (2).
-
-“(B) The authorized daily average for members in pay grades E–8 and E–9 under [section 517 of this title](./chapter-031-enlistments.md#section-517) for the calendar year in which the member carries out such activities.
-
-“(C) The authorized strengths for commissioned officers under [section 523 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-523) for the fiscal year in which the member carries out such activities.
-
-“(2) A member of a reserve component referred to in paragraph (1) is any member on active duty under an order to active duty for 180 days or more who is engaged in activities authorized under this section.”
-
-1996—Subsecs. (f), (g). Pub. L. 104–106 added subsec. (f) and redesignated former subsec. (f) as (g).
-
-#### Effective Date of 2008 Amendment
-Pub. L. 110–417, [div. A], title XII, § 1202(b), Oct. 14, 2008, 122 Stat. 4622, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2008, and shall apply with respect to programs and activities under [section 168 of title 10](./chapter-006-combatant-commands.md#section-168), United States Code, as so amended, that begin on or after that date.”
+Section, added Pub. L. 103–337, div. A, title XIII, § 1316(a)(1), Oct. 5, 1994, 108 Stat. 2898; amended Pub. L. 104–106, div. A, title IV, § 416, Feb. 10, 1996, 110 Stat. 289; Pub. L. 108–375, div. A, title IV, § 416(e), Oct. 28, 2004, 118 Stat. 1868; Pub. L. 110–181, div. A, title XII, § 1201, Jan. 28, 2008, 122 Stat. 363; Pub. L. 110–417, [div. A], title XII, § 1202(a), Oct. 14, 2008, 122 Stat. 4622, related to military-to-military contacts and comparable activities.
 
 #### Update of Policy Guidance on Authority for Assignment of Civilian Employees of the Department of Defense as Advisors to Foreign Ministries of Defense and Regional Organizations
-Pub. L. 113–291, div. A, title X, § 1047(b), Dec. 19, 2014, 128 Stat. 3495, provided that: “The Under Secretary of Defense for Policy shall issue an update of the policy of the Department of Defense for assignment of civilian employees of the Department as advisors to foreign ministries of defense and regional organizations under the authority in section 1081 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1599; [10 U.S.C. 168](./chapter-006-combatant-commands.md#section-168) note), as amended by this section.”
+Pub. L. 113–291, div. A, title X, § 1047(b), Dec. 19, 2014, 128 Stat. 3495, required the Under Secretary of Defense for Policy to issue an update of the policy of the Department of Defense for assignment of civilian employees of the Department as advisors to foreign ministries of defense and regional organizations under the authority in section 1081 of Pub. L. 112–81, formerly set out as a note under this section.
 
-Pub. L. 113–66, div. A, title X, § 1094(a)(2), Dec. 26, 2013, 127 Stat. 878, provided that: “The Under Secretary of Defense for Policy shall issue an update of the policy of the Department of Defense for assignment of civilian employees of the Department as advisors to foreign ministries of defense under the authority in section 1081 of the National Defense Authorization Act for Fiscal Year 2012 [section 1081 of Pub. L. 112–81, set out below], as amended by this section.”
+Pub. L. 113–66, div. A, title X, § 1094(a)(2), Dec. 26, 2013, 127 Stat. 878, required the Under Secretary of Defense for Policy to issue an update of the policy of the Department of Defense for assignment of civilian employees of the Department as advisors to foreign ministries of defense under the authority in section 1081 of Pub. L. 112–81, formerly set out as a note under this section.
 
-#### Authority for Assignment of Civilian Employees of the Department of Defense as Advisors to Foreign Ministries of Defense and Regional Organizations
-Pub. L. 112–81, div. A, title X, § 1081, Dec. 31, 2011, 125 Stat. 1599, as amended by Pub. L. 113–66, div. A, title X, § 1094(a)(1), (3)–(5), Dec. 26, 2013, 127 Stat. 878; Pub. L. 113–291, div. A, title X, § 1047(a), (c), Dec. 19, 2014, 128 Stat. 3494, 3495, provided that: “(a) Authority.—The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to assign civilian employees of the Department of Defense as advisors to the ministries of defense (or security agencies serving a similar defense function) of foreign countries or regional organizations with security missions in order to—“(1) provide institutional, ministerial-level advice, and other training to personnel of the ministry or regional organization to which assigned in support of stabilization or post-conflict activities; or “(2) assist such ministry or regional organization in building core institutional capacity, competencies, and capabilities to manage defense-related processes. “(b) Termination of Authority.—“(1) In general.—The authority of the Secretary of Defense to assign civilian employees under the program under subsection (a) terminates at the close of September 30, 2017. “(2) Continuation of assignments.—Any assignment of a civilian employee under subsection (a) before the date specified in paragraph (1) may continue after that date, but only using funds available for a fiscal year ending on or before that date. “(c) Congressional Notice.—Not later than 15 days before assigning a civilian employee of the Department of Defense as an advisor to a regional organization with a security mission under subsection (a), the Secretary shall submit to the Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs of the House of Representatives a notification of such assignment. Such a notification shall include each of the following:“(1) A statement of the intent of the Secretary to assign the employee as an advisor to the regional organization. “(2) The name of the regional organization and the location and duration of the assignment. “(3) A description of the assignment, including a description of the training or assistance proposed to be provided to the regional organization, the justification for the assignment, a description of the unique capabilities the employee can provide to the regional organization, and a description of how the assignment serves the national security interests of the United States. “(4) Any other information relating to the assignment that the Secretary of Defense considers appropriate. “(d) Annual Report.—Not later than December 30 each year through 2017, the Secretary of Defense shall submit to the Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs of the House of Representatives a report on activities under the program under subsection (a) during the preceding fiscal year. Each report shall include, for the fiscal year covered by such report, the following:“(1) A list of the defense ministries and regional organizations with security missions to which civilian employees were assigned under the program. “(2) A statement of the number of such employees so assigned. “(3) A statement of the duration of the various assignments of such employees. “(4) A brief description of the activities carried out by such employees pursuant to such assignments. “(5) A description of the criteria used to select the defense ministries and regional organizations with security missions identified in paragraph (1) and the civilian employees so assigned. “(6) A statement of the cost of each such assignment. “(7) Recommendations, if any, about changes to the authority, including an assessment of whether expanding the program authority to include assignments to bilateral, regional, or multilateral international security organizations would advance the national security interests of the United States. “(e) Comptroller General Report.—Not later than December 31, 2014, the Comptroller General of the United States shall submit to the committees of Congress specified in subsection (d) a report setting forth an assessment of the effectiveness of the advisory services provided by civilian employees assigned under the program under subsection (a) as of the date of the report in meeting the purposes of the program.”
-
-[Pub. L. 113–66, div. A, title X, § 1094(a)(3)–(5), Dec. 26, 2013, 127 Stat. 878, which directed amendment of “such section” by striking “2014” and inserting “2017” in subsec. (c), by striking “carried out such by such” and inserting “carried out by such” in subsec. (c)(4), and by striking “December 30, 2013” and inserting “December 31, 2014” in subsec. (d), was executed to section 1081 of Pub. L. 112–81, set out above, to reflect the probable intent of Congress.]
+#### Defense Institution Capacity Building Program
+Pub. L. 112–81, div. A, title X, § 1081, Dec. 31, 2011, 125 Stat. 1599, as amended by Pub. L. 113–66, div. A, title X, § 1094(a)(1), (3)–(5), Dec. 26, 2013, 127 Stat. 878; Pub. L. 113–291, div. A, title X, § 1047(a), (c), Dec. 19, 2014, 128 Stat. 3494, 3495; Pub. L. 114–92, div. A, title X, § 1055(a)–(d)(1), Nov. 25, 2015, 129 Stat. 982, 983, which related to the Defense Institution Capacity Building Program, was repealed by Pub. L. 114–328, div. A, title XII, § 1241(c)(3), Dec. 23, 2016, 130 Stat. 2500.
 
 #### Authority for Non-Reciprocal Exchanges of Defense Personnel Between the United States and Foreign Countries
-Pub. L. 111–84, div. A, title XII, § 1207, Oct. 28, 2009, 123 Stat. 2514, as amended by Pub. L. 112–239, div. A, title XII, § 1202, Jan. 2, 2013, 126 Stat. 1980, provided that: “(a) Authority To Enter Into Non-reciprocal International Exchange Agreements.—“(1) In general.—The Secretary of Defense may enter into non-reciprocal international defense personnel exchange agreements. “(2) International defense personnel exchange agreements defined.—For purposes of this section, an international defense personnel exchange agreement is an agreement with the government of an ally of the United States or another friendly foreign country for the exchange of military and civilian personnel of the defense ministry of that foreign government. “(b) Assignment of Personnel.—“(1) In general.—Pursuant to a non-reciprocal international defense personnel exchange agreement, personnel of the defense ministry of a foreign government may be assigned to positions in the Department of Defense. “(2) Mutual agreement required.—An individual may not be assigned to a position pursuant to a non-reciprocal international defense personnel exchange agreement unless the assignment is acceptable to both governments. “(c) Payment of Personnel Costs.—“(1) In general.—The foreign government with which the United States has entered into a non-reciprocal international defense personnel exchange agreement shall pay the salary, per diem, cost of living, travel costs, cost of language or other training, and other costs for its personnel under such agreement in accordance with the applicable laws and regulations of such government. “(2) Excluded costs.—Paragraph (1) does not apply to the following costs:“(A) The cost of training programs conducted to familiarize, orient, or certify exchanged personnel regarding unique aspects of the assignments of the exchanged personnel. “(B) Costs incident to the use of facilities of the United States Government in the performance of assigned duties. “(C) The cost of temporary duty of the exchanged personnel directed by the United States Government. “(d) Prohibited Conditions.—No personnel exchanged pursuant to a non-reciprocal agreement under this section may take or be required to take an oath of allegiance or to hold an official capacity in the government. “(e) Report.—“(1) In general.—Not later than 90 days after the end of the fiscal year in which the authority in subsection (a) has been exercised, the Secretary of Defense shall submit to the appropriate congressional committees a report on the use of the authority through the end of such fiscal year. “(2) Matters to be included.—The report required under paragraph (1) shall include the number of non-reciprocal international defense personnel exchange agreements, the number of personnel assigned pursuant to such agreements, the Department of Defense component to which the personnel have been assigned, the duty title of each assignment, and the countries with which the agreements have been concluded. “(3) Appropriate congressional committees defined.—In this subsection, the term ‘appropriate congressional committees’ means—“(A) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives; and “(B) the Committee on Armed Services and the Committee on Foreign Relations of the Senate. “(f) Duration of Authority.—The authority under this section shall expire on September 30, 2016.”
-
-#### Limitation on Military-to-Military Exchanges and Contacts With Chinese People’s Liberation Army
-Pub. L. 106–65, div. A, title XII, § 1201, Oct. 5, 1999, 113 Stat. 779, as amended by Pub. L. 111–84, div. A, title XII, § 1246(d), Oct. 28, 2009, 123 Stat. 2545; Pub. L. 112–81, div. A, title X, § 1066(e)(2), Dec. 31, 2011, 125 Stat. 1589, provided that: “(a) Limitation.—The Secretary of Defense may not authorize any military-to-military exchange or contact described in subsection (b) to be conducted by the armed forces with representatives of the People’s Liberation Army of the People’s Republic of China if that exchange or contact would create a national security risk due to an inappropriate exposure specified in subsection (b). “(b) Covered Exchanges and Contacts.—Subsection (a) applies to any military-to-military exchange or contact that includes inappropriate exposure to any of the following:“(1) Force projection operations. “(2) Nuclear operations. “(3) Advanced combined-arms and joint combat operations. “(4) Advanced logistical operations. “(5) Chemical and biological defense and other capabilities related to weapons of mass destruction. “(6) Surveillance and reconnaissance operations. “(7) Joint warfighting experiments and other activities related to a transformation in warfare. “(8) Military space operations. “(9) Other advanced capabilities of the Armed Forces. “(10) Arms sales or military-related technology transfers. “(11) Release of classified or restricted information. “(12) Access to a Department of Defense laboratory. “(c) Exceptions.—Subsection (a) does not apply to any search-and-rescue or humanitarian operation or exercise.”
+Pub. L. 111–84, div. A, title XII, § 1207, Oct. 28, 2009, 123 Stat. 2514, as amended by Pub. L. 112–239, div. A, title XII, § 1202, Jan. 2, 2013, 126 Stat. 1980; Pub. L. 114–92, div. A, title XII, § 1204, Nov. 25, 2015, 129 Stat. 1039, which related to authority for non-reciprocal exchanges of defense personnel between the United States and foreign countries, was repealed by Pub. L. 114–328, div. A, title XII, § 1242(c)(2), Dec. 23, 2016, 130 Stat. 2513.
 
 #### Agreements for Exchange of Defense Personnel Between United States and Foreign Countries
-Pub. L. 104–201, div. A, title X, § 1082, Sept. 23, 1996, 110 Stat. 2672, provided that: “(a) Authority To Enter Into International Exchange Agreements.—(1) The Secretary of Defense may enter into international defense personnel exchange agreements. “(2) For purposes of this section, an international defense personnel exchange agreement is an agreement with the government of an ally of the United States or another friendly foreign country for the exchange of—“(A) military and civilian personnel of the Department of Defense; and “(B) military and civilian personnel of the defense ministry of that foreign government. “(b) Assignment of Personnel.—(1) Pursuant to an international defense personnel exchange agreement, personnel of the defense ministry of a foreign government may be assigned to positions in the Department of Defense and personnel of the Department of Defense may be assigned to positions in the defense ministry of such foreign government. Positions to which exchanged personnel are assigned may include positions of instructors. “(2) An agreement for the exchange of personnel engaged in research and development activities may provide for assignment of Department of Defense personnel to positions in private industry that support the defense ministry of the host foreign government. “(3) An individual may not be assigned to a position pursuant to an international defense personnel exchange agreement unless the assignment is acceptable to both governments. “(c) Reciprocity of Personnel Qualifications Required.—Each government shall be required under an international defense personnel exchange agreement to provide personnel with qualifications, training, and skills that are essentially equal to those of the personnel provided by the other government. “(d) Payment of Personnel Costs.—(1) Each government shall pay the salary, per diem, cost of living, travel costs, cost of language or other training, and other costs for its own personnel in accordance with the applicable laws and regulations of such government. “(2) Paragraph (1) does not apply to the following costs:“(A) The cost of temporary duty directed by the host government. “(B) The cost of training programs conducted to familiarize, orient, or certify exchanged personnel regarding unique aspects of the assignments of the exchanged personnel. “(C) Costs incident to the use of the facilities of the host government in the performance of assigned duties. “(e) Prohibited Conditions.—No personnel exchanged pursuant to an agreement under this section may take or be required to take an oath of allegiance to the host country or to hold an official capacity in the government of such country. “(f) Relationship to Other Authority.—The requirements in subsections (c) and (d) shall apply in the exercise of any authority of the Secretaries of the military departments to enter into an agreement with the government of a foreign country to provide for the exchange of members of the armed forces and military personnel of the foreign country. The Secretary of Defense may prescribe regulations for the application of such subsections in the exercise of such authority.”
+Pub. L. 104–201, div. A, title X, § 1082, Sept. 23, 1996, 110 Stat. 2672, which related to agreements for exchange of defense personnel between the United States and foreign countries, was repealed by Pub. L. 114–328, div. A, title XII, § 1242(c)(1), Dec. 23, 2016, 130 Stat. 2513. See [section 311 of this title](./chapter-016-security-cooperation.md#section-311).

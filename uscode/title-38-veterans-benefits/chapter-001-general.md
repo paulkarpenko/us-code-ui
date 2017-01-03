@@ -349,7 +349,28 @@ Pub. L. 90–77, title IV, § 405, Aug. 31, 1967, 81 Stat. 191, provided that: �
 #### Effective Date of 1965 Amendment
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
 
+#### Short Title of 2016 Amendment
+Pub. L. 114–315, § 1(a), Dec. 16, 2016, 130 Stat. 1536, provided that: “This Act [see Tables for classification] may be cited as the ‘Jeff Miller and Richard Blumenthal Veterans Health Care and Benefits Improvement Act of 2016’.”
+
+Pub. L. 114–273, § 1, Dec. 14, 2016, 130 Stat. 1400, provided that: “This Act [amending [section 2306 of this title](./chapter-023-burial-benefits.md#section-2306)] may be cited as the ‘Charles Duncan Buried with Honor Act of 2016’.”
+
+Pub. L. 114–256, § 1, Dec. 14, 2016, 130 Stat. 1345, provided that: “This Act [amending sections 3903, 7401, and 7402 of this title and enacting provisions set out as notes under sections 3902 and 7401 of this title] may be cited as the ‘Veterans Mobility Safety Act of 2016’.”
+
+Pub. L. 114–228, § 1(a), Sept. 29, 2016, 130 Stat. 935, provided that: “This Act [amending sections 111A, 315, 322, 503, 521A, 544, 1710, 1710A, 1720G, 1729, 2013, 2021, 2021A, 2023, 2031, 2033, 2041, 2044, 2061, 2066, 2101, 2108, 3679, 3692, 3720, 3732, and 3733 of this title and provisions set out as notes under sections 523, 1116, 1710, 1712A, 3684, and 5101 of this title and [section 1071 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1071&num=0&edition=prelim), Armed Forces] may be cited as the ‘Department of Veterans Affairs Expiring Authorities Act of 2016’.”
+
+Pub. L. 114–226, § 1, Sept. 29, 2016, 130 Stat. 926, provided that: “This Act [amending sections 8161, 8162, 8163, and 8168 of this title] may be cited as the ‘West Los Angeles Leasing Act of 2016’.”
+
+Pub. L. 114–218, § 1, July 29, 2016, 130 Stat. 842, provided that: “This Act [enacting [section 1712C of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1712c) and repealing provisions set out as a note under [section 1712 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1712)] may be cited as the ‘Department of Veterans Affairs Dental Insurance Reauthorization Act of 2016’.”
+
+Pub. L. 114–197, § 1, July 22, 2016, 130 Stat. 693, provided that: “This Act [enacting provisions set out as notes under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114)] may be cited as the ‘Veterans’ Compensation COLA Act of 2016’.”
+
+Pub. L. 114–188, § 1, June 30, 2016, 130 Stat. 611, provided that: “This Act [amending [section 1709B of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1709b)] may be cited as the ‘Female Veteran Suicide Prevention Act’.”
+
 #### Short Title of 2015 Amendment
+Pub. L. 114–58, § 1(a), Sept. 30, 2015, 129 Stat. 530, provided that: “This Act [see Tables for classification] may be cited as the ‘Department of Veterans Affairs Expiring Authorities Act of 2015’.”
+
+Pub. L. 114–41, title IV, § 4001, July 31, 2015, 129 Stat. 460, provided that: “This title [amending sections 223 and 4980H of Title 26, Internal Revenue Code, enacting provisions set out as notes under [section 1701 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1701) and sections 223 and 4980H of Title 26, and amending provisions set out as a note under [section 1701 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1701)] may be cited as the ‘VA Budget and Choice Improvement Act’.”
+
 Pub. L. 114–31, § 1, July 20, 2015, 129 Stat. 428, provided that: “This Act [enacting [section 5706 of this title](./chapter-057-records-and-investigations.md#section-5706) and provisions set out as notes under [section 5706 of this title](./chapter-057-records-and-investigations.md#section-5706)] may be cited as the ‘Veterans Identification Card Act 2015’.”
 
 Pub. L. 114–19, § 1, May 22, 2015, 129 Stat. 215, provided that: “This Act [enacting and amending provisions set out as notes under section 1701 of this section] may be cited as the ‘Construction Authorization and Choice Improvement Act’.”
@@ -399,7 +420,7 @@ Pub. L. 112–26, § 1, Aug. 3, 2011, 125 Stat. 268, provided that: “This Act 
 Pub. L. 111–377, § 1(a), Jan. 4, 2011, 124 Stat. 4106, provided that: “This Act [enacting [section 3315A of this title](./chapter-033-post-9-11-educational-assistance.md#section-3315a), amending sections 3031, 3034, 3108, 3301, 3311, 3313, 3315, 3316, 3319, 3322, 3323, 3512, 3671 to 3673, 3675, 3679, 3680, 3681, 3684, and 3689 of this title and [section 2006 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2006&num=0&edition=prelim), Armed Forces, and enacting provisions set out as notes under sections 3031, 3034, 3108, 3301, 3311, 3313, 3315, 3315A, 3319, 3322, 3680, and 3684 of this title and [section 2006 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2006&num=0&edition=prelim)] may be cited as the ‘Post-9/11 Veterans Educational Assistance Improvements Act of 2010’.”
 
 #### Short Title of 2010 Amendment
-Pub. L. 111–275, § 1(a), Oct. 13, 2010, 124 Stat. 2864, provided that: “This Act [enacting sections 2021A and 2108 of this title and sections 597 to 597b of Title 50, Appendix, War and National Defense, amending sections 107, 315, 503, 1114, 1311, 1318, 1503, 1521, 1541, 1542, 1717, 1785, 1922A, 1967, 1968, 1977, 1980, 1980A, 2021, 2044, 2106, 2301, 2303, 2306, 2402, 3120, 3313, 3316, 3318, 3319, 3321, 3485, 3512, 3684, 3692, 3729, 3732, 3733, 3901, 3902, 4102A, 4303, 4324, 5111, 5503, 5510, 5723, 5727, 7325, 7903, 8104, 8111A, 8117, and 8127 of this title, [section 1316 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1316&num=0&edition=prelim), The Congress, [section 416 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section416&num=0&edition=prelim), The President, and sections 527, 531 to 533, and 535 to 537 of Title 50, Appendix, enacting provisions set out as notes under this section and sections 107, 1114, 1318, 1503, 1521, 1922A, 1968, 1977, 1980, 1980A, 2106, 2303, 2400, 2402, 3120, 3317, 3485, 3732, 3901, 3902, 4102A, 4301, 4303, 5111, and 8127 of this title and [section 2913 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2913&num=0&edition=prelim), Labor, and amending provisions set out as notes under sections 1117, 1980A, and 5101 of this title] may be cited as the ‘Veterans’ Benefits Act of 2010’.”
+Pub. L. 111–275, § 1(a), Oct. 13, 2010, 124 Stat. 2864, provided that: “This Act [enacting sections 2021A and 2108 of this title and sections 4041 to 4043 of Title 50, War and National Defense, amending sections 107, 315, 503, 1114, 1311, 1318, 1503, 1521, 1541, 1542, 1717, 1785, 1922A, 1967, 1968, 1977, 1980, 1980A, 2021, 2044, 2106, 2301, 2303, 2306, 2402, 3120, 3313, 3316, 3318, 3319, 3321, 3485, 3512, 3684, 3692, 3729, 3732, 3733, 3901, 3902, 4102A, 4303, 4324, 5111, 5503, 5510, 5723, 5727, 7325, 7903, 8104, 8111A, 8117, and 8127 of this title, [section 1316 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1316&num=0&edition=prelim), The Congress, [section 416 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section416&num=0&edition=prelim), The President, and sections 3937, 3951 to 3953, and 3955 to 3958 of Title 50, enacting provisions set out as notes under this section and sections 107, 1114, 1318, 1503, 1521, 1922A, 1968, 1977, 1980, 1980A, 2106, 2303, 2400, 2402, 3120, 3317, 3485, 3732, 3901, 3902, 4102A, 4301, 4303, 5111, and 8127 of this title and [section 2913 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2913&num=0&edition=prelim), Labor, and amending provisions set out as notes under sections 1117, 1980A, and 5101 of this title] may be cited as the ‘Veterans’ Benefits Act of 2010’.”
 
 Pub. L. 111–275, title I, § 104(a), Oct. 13, 2010, 124 Stat. 2867, provided that: “This section [amending [section 8127 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8127) and enacting provisions set out as a note under [section 8127 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8127)] may be cited as the ‘Veterans Small Business Verification Act’.”
 
@@ -415,7 +436,7 @@ Pub. L. 111–81, § 1, Oct. 22, 2009, 123 Stat. 2137, provided that: “This Ac
 Pub. L. 111–37, § 1, June 30, 2009, 123 Stat. 1927, provided that: “This Act [amending sections 1114, 1115, 1162, 1311, and 1313 to 1315 of this title and enacting provisions set out as notes under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114)] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2009’.”
 
 #### Short Title of 2008 Amendment
-Pub. L. 110–389, § 1(a), Oct. 10, 2008, 122 Stat. 4145, provided that: “This Act [enacting sections 321, 322, 521A, 532, 546, 1156, 3122, 4327, 4335, 5121A, 7288, and 7732A of this title and [section 535a of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section535a&num=0&edition=prelim), Appendix, War and National Defense, amending this section, sections 502, 544, 1112, 1161, 1922, 1965, 1967 to 1969, 1973, 2103, 2306, 3105, 3120, 3512, 3673, 3676, 3677, 3686, 3691, 3703, 3707, 3707A, 3710, 4103, 4110A, 4322 to 4324, 4332, 5103, 5317, 7253, 7257, 7268, 7285, 7296, 7731, and 8127 of this title, [section 3711 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3711&num=0&edition=prelim), Money and Finance, and [section 527 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section527&num=0&edition=prelim), Appendix, enacting provisions set out as notes under sections 322, 521A, 1156, 1161, 1967 to 1969, 1973, 2306, 3703, 4332, 5101, 5103, 5121A, 5302A, and 7732A of this title, and amending provisions set out as notes under [section 5101 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5101) and [section 1212 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1212&num=0&edition=prelim), Armed Forces] may be cited as the ‘Veterans’ Benefits Improvement Act of 2008’.”
+Pub. L. 110–389, § 1(a), Oct. 10, 2008, 122 Stat. 4145, provided that: “This Act [enacting sections 321, 322, 521A, 532, 546, 1156, 3122, 4327, 4335, 5121A, 7288, and 7732A of this title and [section 3956 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3956&num=0&edition=prelim), War and National Defense, amending this section, sections 502, 544, 1112, 1161, 1922, 1965, 1967 to 1969, 1973, 2103, 2306, 3105, 3120, 3512, 3673, 3676, 3677, 3686, 3691, 3703, 3707, 3707A, 3710, 4103, 4110A, 4322 to 4324, 4332, 5103, 5317, 7253, 7257, 7268, 7285, 7296, 7731, and 8127 of this title, [section 3711 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3711&num=0&edition=prelim), Money and Finance, and [section 3937 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3937&num=0&edition=prelim), enacting provisions set out as notes under sections 322, 521A, 1156, 1161, 1967 to 1969, 1973, 2306, 3703, 4332, 5101, 5103, 5121A, 5302A, and 7732A of this title, and amending provisions set out as notes under [section 5101 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5101) and [section 1212 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1212&num=0&edition=prelim), Armed Forces] may be cited as the ‘Veterans’ Benefits Improvement Act of 2008’.”
 
 Pub. L. 110–387, § 1(a), Oct. 10, 2008, 122 Stat. 4110, provided that: “This Act [enacting sections 1729B, 2044, 7330A, and 8119 of this title, amending sections 111, 542, 1701, 1703, 1708, 1710, 1710A, 1712A, 1725, 1728, 1729, 1782, 1803, 2013, 2022, 2023, 2043, 2065, 4110, 7314, 7320, 7321, 7325, 7328, 7402, 7458, 8104, and 8117 of this title, repealing [section 7368 of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7368), enacting provisions set out as notes under sections 111, 1701, 1703, 1712A, 1720A, 1803, 2044, 7311, and 8119 of this title, amending provisions set out as notes under sections 1710B and 1712A of this title, and repealing provisions set out as a note under [section 7333 of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7333)] may be cited as the ‘Veterans’ Mental Health and Other Care Improvements Act of 2008’.”
 
@@ -469,7 +490,7 @@ Pub. L. 108–170, § 1(a), Dec. 6, 2003, 117 Stat. 2042, provided that: “This
 Pub. L. 108–147, § 1, Dec. 3, 2003, 117 Stat. 1885, provided that: “This Act [enacting provisions set out as notes under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114)] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2003’.”
 
 #### Short Title of 2002 Amendments
-Pub. L. 107–330, § 1(a), Dec. 6, 2002, 116 Stat. 2820, provided that: “This Act [enacting [section 3707A of this title](./chapter-037-housing-and-small-business-loans.md#section-3707a), amending sections 103, 107, 112, 1114, 1115, 1160, 1162, 1311, 1313, 1314, 1562, 1701, 1705, 1707, 1710, 1729B, 1781, 2106, 2301, 2306, 2411, 3011, 3014A, 3018C, 3031, 3035, 3103, 3485, 3512, 3674, 3689, 3703, 3734, 7261, 7292, and 7315 of this title, [section 6103 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6103&num=0&edition=prelim), Internal Revenue Code, and [section 511 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section511&num=0&edition=prelim), Appendix, War and National Defense, enacting provisions set out as notes under sections 103, 112, 1562, 2306, 2409, 3035, 3103, 3512, 3703, 3729, 7261, and 7292 of this title and [section 2412 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2412&num=0&edition=prelim), Judiciary and Judicial Procedure, and amending provisions set out as notes under sections 2306 and 2400 of this title] may be cited as the ‘Veterans Benefits Act of 2002’.”
+Pub. L. 107–330, § 1(a), Dec. 6, 2002, 116 Stat. 2820, provided that: “This Act [enacting [section 3707A of this title](./chapter-037-housing-and-small-business-loans.md#section-3707a), amending sections 103, 107, 112, 1114, 1115, 1160, 1162, 1311, 1313, 1314, 1562, 1701, 1705, 1707, 1710, 1729B, 1781, 2106, 2301, 2306, 2411, 3011, 3014A, 3018C, 3031, 3035, 3103, 3485, 3512, 3674, 3689, 3703, 3734, 7261, 7292, and 7315 of this title, [section 6103 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6103&num=0&edition=prelim), Internal Revenue Code, and [section 3911 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3911&num=0&edition=prelim), War and National Defense, enacting provisions set out as notes under sections 103, 112, 1562, 2306, 2409, 3035, 3103, 3512, 3703, 3729, 7261, and 7292 of this title and [section 2412 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2412&num=0&edition=prelim), Judiciary and Judicial Procedure, and amending provisions set out as notes under sections 2306 and 2400 of this title] may be cited as the ‘Veterans Benefits Act of 2002’.”
 
 Pub. L. 107–288, § 1(a), Nov. 7, 2002, 116 Stat. 2033, provided that: “This Act [enacting sections 4112 and 4215 of this title, amending sections 3117, 4101 to 4104, 4106, 4107, 4109, 4211, 4212, and 4214 of this title, repealing [section 4104A of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4104a), and enacting provisions set out as notes under sections 4100, 4101, 4102, 4102A, 4103A, 4106, 4107, 4211, 4214, and 4215 of this title] may be cited as the ‘Jobs for Veterans Act’.”
 
@@ -774,6 +795,9 @@ Pub. L. 86–211, § 1, Aug. 29, 1959, 73 Stat. 432, provided: “That this Act 
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Honoring as Veterans Certain Persons Who Performed Service in the Reserve Components of the Armed Forces
+Pub. L. 114–315, title III, § 305, Dec. 16, 2016, 130 Stat. 1552, provided that: “Any person who is entitled under chapter 1223 of title 10, United States Code, to retired pay for nonregular service or, but for age, would be entitled under such chapter to retired pay for nonregular service shall be honored as a veteran but shall not be entitled to any benefit by reason of this honor.”
 
 #### Coordination of Provisions With Pub. L. 109–444
 Pub. L. 109–461, title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3468, provided that: “If this Act is enacted after the enactment of the Veterans Programs Extension Act of 2006 [Pub. L. 109–444, approved Dec. 21, 2006], then as of the date of the enactment of this Act [Dec. 22, 2006], the Veterans Programs Extension Act of 2006 [see Tables for classification] and the amendments made by that Act shall be deemed for all purposes not to have taken effect and the Veterans Programs Extension Act of 2006 and the amendments made by that Act shall cease to be in effect.”
@@ -1322,7 +1346,7 @@ Pub. L. 87–825, § 7, Oct. 15, 1962, 76 Stat. 950, provided that: “This Act 
 
 **(b)**
 
-(1) Except as provided in subsection (c) of this section and notwithstanding subsection (g)(2)(A) 11 See References in Text note below. of this section or any other provision of law, if, with respect to any fiscal year, the Secretary exercises the authority under this section to make any payments, the Secretary shall make the payments provided for in this section to or for the following persons for travel during such fiscal year for examination, treatment, or care for which the person is eligible:
+(1) Except as provided in subsection (c) of this section and notwithstanding subsection (g)(2) of this section or any other provision of law, if, with respect to any fiscal year, the Secretary exercises the authority under this section to make any payments, the Secretary shall make the payments provided for in this section to or for the following persons for travel during such fiscal year for examination, treatment, or care for which the person is eligible:
 
   (A) A veteran or other person whose travel is in connection with treatment or care for a service-connected disability.
 
@@ -1336,6 +1360,12 @@ Pub. L. 87–825, § 7, Oct. 15, 1962, 76 Stat. 950, provided that: “This Act 
 
   (F) A veteran whose travel to a Department facility is incident to a scheduled compensation and pension examination.
 
+  (G) A veteran with vision impairment, a veteran with a spinal cord injury or disorder, or a veteran with double or multiple amputations whose travel is in connection with care provided through a special disabilities rehabilitation program of the Department (including programs provided by spinal cord injury centers, blind rehabilitation centers, and prosthetics rehabilitation centers) if such care is provided—
+
+    (i) on an in-patient basis; or
+
+    (ii) during a period in which the Secretary provides the veteran with temporary lodging at a facility of the Department to make such care more accessible to the veteran.
+
 (2) The Secretary may make payments provided for in this section to or for any person not covered by paragraph (1) of this subsection for travel by such person for examination, treatment, or care. Such payments shall be made in accordance with regulations which the Secretary shall prescribe.
 
 (3)
@@ -1344,7 +1374,7 @@ Pub. L. 87–825, § 7, Oct. 15, 1962, 76 Stat. 950, provided that: “This Act 
 
   (B) In the case of travel by a person to or from a Department facility by special mode of travel, the Secretary may provide payment under this section to the provider of the transportation by special mode before determining the eligibility of such person for such payment if the Secretary determines that providing such payment is in the best interest of furnishing care and services. Such a payment shall be made subject to subsequently recovering from such person the amount of the payment if such person is determined to have been ineligible for payment for such travel.
 
-  (C) In the case of transportation of a person to or from a Department facility by ambulance, the Secretary may pay the provider of the transportation the lesser of the actual charge for the transportation or the amount determined by the fee schedule established under section 1834(l) of the Social Security Act ([42 U.S.C. 1395](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395&num=0&edition=prelim)(l)) 22 So in original. Probably should be “1395m(l))”. unless the Secretary has entered into a contract for that transportation with the provider.
+  (C) In the case of transportation of a person to or from a Department facility by ambulance, the Secretary may pay the provider of the transportation the lesser of the actual charge for the transportation or the amount determined by the fee schedule established under section 1834(l) of the Social Security Act ([42 U.S.C. 1395m](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m&num=0&edition=prelim)(l)) unless the Secretary has entered into a contract for that transportation with the provider.
 
 (4) In determining for purposes of subsection (a) whether travel by air is the only practical way for a veteran to reach a Department facility, the Secretary shall consider the medical condition of the veteran and any other impediments to the use of ground transportation by the veteran.
 
@@ -1399,11 +1429,15 @@ Pub. L. 87–825, § 7, Oct. 15, 1962, 76 Stat. 950, provided that: “This Act 
 ### Statutory Notes
 
 #### References in Text
-Subsection (g)(2) of this section, referred to in subsec. (b)(1), was amended generally by section 305(a)(2) of Pub. L. 111–163 and, as so amended, no longer contains subpars.
-
 The date of the enactment of the Caregivers and Veterans Omnibus Health Services Act of 2010, referred to in subsec. (g)(1), is the date of enactment of Pub. L. 111–163, which was approved May 5, 2010.
 
 #### Amendments
+2016—Subsec. (b)(1)(G). Pub. L. 114–223 added subpar. (G).
+
+2015—Subsec. (b)(1). Pub. L. 114–58, § 601(1)(A), substituted “subsection (g)(2)” for “subsection (g)(2)(A)”.
+
+Subsec. (b)(3)(C). Pub. L. 114–58, § 601(1)(B), substituted “([42 U.S.C. 1395m](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m&num=0&edition=prelim)(l))” for “([42 U.S.C. 1395](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395&num=0&edition=prelim)(l))”.
+
 2013—Subsec. (h). Pub. L. 112–260 transferred subsec. (h), relating to transportation of veterans to Department facilities by third parties, to [section 111A(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section111A/b&num=0&edition=prelim).
 
 2012—Subsec. (b)(3)(C). Pub. L. 112–154 substituted “to or from a Department facility” for “under subparagraph (B)”.
@@ -1496,6 +1530,9 @@ Subsec. (b). Pub. L. 89–455 authorized the prepayment of actual local travel e
 
 1960—Subsec. (a). Pub. L. 86–590 allowed reimbursement for actual cost of ferry fares, and bridge, road, and tunnel tolls.
 
+#### Effective Date of 2016 Amendment
+Pub. L. 114–223, div. A, title II, § 250(c), Sept. 29, 2016, 130 Stat. 893, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the first day of the first fiscal year that begins after the date of the enactment of this Act [Sept. 29, 2016].”
+
 #### Effective Date of 2008 Amendment
 Pub. L. 110–387, title IV, § 401(d), Oct. 10, 2008, 122 Stat. 4123, provided that: “The amendments made by this section [amending this section] shall apply with respect to travel expenses incurred after the expiration of the 90-day period that begins on the date of the enactment of this Act [Oct. 10, 2008].”
 
@@ -1562,13 +1599,17 @@ Sec. 6. Executive Order No. 11142 of February 12, 1964, is hereby superseded.
 
 (1) The Secretary may transport any person to or from a Department facility or other place in connection with vocational rehabilitation, counseling required by the Secretary pursuant to chapter 34 or 35 of this title, or for the purpose of examination, treatment, or care.
 
-(2) The authority granted by paragraph (1) shall expire on December 31, 2015.
+(2) The authority granted by paragraph (1) shall expire on December 31, 2017.
 
 **(b) Transportation by Third-parties.—** The Secretary, in consultation and coordination with the Secretary of Transportation and appropriate representatives of veterans’ service organizations, shall take all appropriate steps to facilitate the establishment and maintenance of a program under which such organizations, or individuals who are volunteering their services to the Department, would take responsibility for the transportation, without reimbursement from the Department, to Department facilities of veterans (primarily those residing in areas which are geographically accessible to such facilities) who seek services or benefits from the Department under chapter 17 or other provisions of this title.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a)(2). Pub. L. 114–228 substituted “December 31, 2017” for “December 31, 2016”.
+
+2015—Subsec. (a)(2). Pub. L. 114–58 substituted “December 31, 2016” for “December 31, 2015”.
+
 2014—Subsec. (a)(2). Pub. L. 113–175 substituted “December 31, 2015” for “December 31, 2014”.
 
 2013—Subsec. (a)(2). Pub. L. 113–59 substituted “December 31, 2014” for “the date that is one year after the date of the enactment of this section”.
@@ -1578,7 +1619,7 @@ Subsec. (b). Pub. L. 112–260, § 202(b), transferred subsec. (h) of [section 1
 
 <a id="section-112"></a>
 ## § 112. Presidential memorial certificate program
-**(a)** At the request of the President the Secretary may conduct a program for honoring the memory of deceased veterans, discharged under honorable conditions, and persons who died in the active military, naval, or air service, by preparing and sending to eligible recipients a certificate bearing the signature of the President and expressing the country’s grateful recognition of the deceased individual’s service in the Armed Forces. The award of a certificate to one eligible recipient will not preclude authorization of another certificate if a request is received from some other eligible recipient.
+**(a)** At the request of the President the Secretary may conduct a program for honoring the memory of deceased persons eligible for burial in a national cemetery by reason of any of paragraphs (1), (2), (3), or (7) of [section 2402(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2402/a&num=0&edition=prelim), by preparing and sending to eligible recipients a certificate bearing the signature of the President and expressing the country’s grateful recognition of the deceased individual’s service in the Armed Forces. The award of a certificate to one eligible recipient will not preclude authorization of another certificate if a request is received from some other eligible recipient.
 
 **(b)** For the purpose of this section an “eligible recipient” means the next of kin, a relative or friend upon request, or an authorized service representative acting on behalf of such relative or friend.
 
@@ -1587,11 +1628,16 @@ Subsec. (b). Pub. L. 112–260, § 202(b), transferred subsec. (h) of [section 1
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–315 substituted “persons eligible for burial in a national cemetery by reason of any of paragraphs (1), (2), (3), or (7) of [section 2402(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2402/a&num=0&edition=prelim),” for “veterans, discharged under honorable conditions, and persons who died in the active military, naval, or air service,”.
+
 2012—Subsec. (a). Pub. L. 112–154 inserted “and persons who died in the active military, naval, or air service,” after “under honorable conditions,” and substituted “deceased individual’s” for “veteran’s”.
 
 2002—Subsec. (c). Pub. L. 107–330 added subsec. (c).
 
 1991—Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator”.
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–315, title III, § 302(b), Dec. 16, 2016, 130 Stat. 1551, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to the death of a person eligible for burial in a national cemetery by reason of paragraph (1), (2), (3), or (7) of [section 2402(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2402/a&num=0&edition=prelim), United States Code, occurring before, on, or after the date of the enactment of this Act [Dec. 16, 2016].”
 
 #### Effective Date of 2002 Amendment
 Pub. L. 107–330, title II, § 201(d), Dec. 6, 2002, 116 Stat. 2823, provided that: “The amendments made by this section [amending this section and sections 2301 and 2306 of this title] shall apply with respect to deaths occurring on or after the date of the enactment of this Act [Dec. 6, 2002].”
@@ -1847,11 +1893,15 @@ Pub. L. 106–419, title IV, § 403(d)(2), Nov. 1, 2000, 114 Stat. 1864, provide
 
 (6) Veterans Health Administration, Medical Facilities.
 
+(7) Veterans Health Administration, Medical Community Care.
+
 **(d) Annual Report.—** Not later than July 31 of each year, the Secretary shall submit to Congress an annual report on the sufficiency of the Department’s resources for the next fiscal year beginning after the date of the submittal of the report for the provision of medical care. Such report shall also include estimates of the workload and demand data for that fiscal year.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (c)(7). Pub. L. 114–315 added par. (7).
+
 2014—Pub. L. 113–235, § 244(a)(4), substituted “certain accounts” for “certain medical care accounts” in section catchline.
 
 Subsec. (a). Pub. L. 113–235, § 244(a)(2), struck out “beginning with fiscal year 2011,” after “each fiscal year,” in introductory provisions and “discretionary” before “new budget authority” in introductory provisions and par. (2).
@@ -1860,11 +1910,12 @@ Pub. L. 113–235, § 244(a)(1), substituted “covered accounts of the Departme
 
 Subsec. (b). Pub. L. 113–235, § 244(a)(1), substituted “covered accounts of the Department” for “medical care accounts of the Department”.
 
-Subsec. (c). Pub. L. 113–235, § 244(a)(3)(G), substituted “Covered Accounts of the Department” for “Medical Care Accounts” in heading.
+Subsec. (c). Pub. L. 113–235, § 244(a)(1), (3)(A), (G), in heading, substituted “Covered Accounts of the Department” for “Medical Care Accounts” and, in introductory provisions, substituted “covered accounts of the Department” for “medical care accounts of the Department” and “accounts of the Department of Veterans Affairs account” for “medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account”.
 
-Pub. L. 113–235, § 244(a)(1), (3)(A), in introductory provisions, substituted “covered accounts of the Department” for “medical care accounts of the Department” and “accounts of the Department of Veterans Affairs account” for “medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account”.
+Subsec. (c). Pub. L. 113–235, § 244(a)(3)(B)–(F), inserted “Veterans Health Administration,” after enumerators for pars. (1) to (3), redesignated pars. (1) to (3) as (4) to (6), respectively, and added pars. (1) to (3).
 
-Subsec. (c)(1)–(6). Pub. L. 113–235, § 244(a)(3)(B)–(F), inserted “Veterans Health Administration,” after enumerators for pars. (1) to (3), redesignated pars. (1) to (3) as (4) to (6), respectively, and added pars. (1) to (3).
+#### Effective Date of 2016 Amendment
+Amendment by Pub. L. 114–315 applicable to fiscal years beginning on and after Oct. 1, 2017, see section 601(c) of Pub. L. 114–315, set out as a note under [section 1105 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), Money and Finance.
 
 #### Effective Date of 2014Amendment
 Pub. L. 113–235, div. I, title II, § 244(b), Dec. 16, 2014, 128 Stat. 2569, provided that: “[Section 117 of title 38](./chapter-001-general.md#section-117), United States Code, shall apply as follows: “(1) With respect to an account described in paragraph (4), (5), or (6) of subsection (c) of such section, as redesignated by subsection (a) of this section, for each fiscal year beginning with fiscal year 2011. “(2) With respect to an account described in paragraph (1), (2), or (3) of such subsection (c), as added by subsection (a) of this section, for each fiscal year beginning with 2017.”

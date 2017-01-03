@@ -14,7 +14,7 @@ Chapter 47 shall not apply to this chapter.
 ### Statutory Notes
 
 #### Effective Date
-Chapter effective Oct. 1, 2001, see section 11 of Pub. L. 107–123, set out as an Effective Date of 2002 Amendment note under [section 78ee of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78ee&num=0&edition=prelim), Commerce and Trade.
+Section effective Oct. 1, 2001, see section 11 of Pub. L. 107–123, set out as an Effective Date of 2002 Amendment note under [section 78ee of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78ee&num=0&edition=prelim), Commerce and Trade.
 
 
 <a id="section-4802"></a>
@@ -32,6 +32,9 @@ Chapter effective Oct. 1, 2001, see section 11 of Pub. L. 107–123, set out as 
 **(f)** This section shall be administered consistent with merit system principles.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2001, see section 11 of Pub. L. 107–123, set out as an Effective Date of 2002 Amendment note under [section 78ee of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78ee&num=0&edition=prelim), Commerce and Trade.
 
 #### Employees Represented by Labor Organizations
 Pub. L. 107–123, § 8(b), Jan. 16, 2002, 115 Stat. 2398, provided that: “To the extent that any employee of the Securities and Exchange Commission is represented by a labor organization with exclusive recognition in accordance with chapter 71 of title 5, United States Code, no reduction in base pay of such employee shall be made by reason of enactment of this section [enacting this chapter, amending sections 3132 and 5373 of this title, [section 1833b of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1833b&num=0&edition=prelim), Banks and Banking, and [section 78d of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78d&num=0&edition=prelim), Commerce and Trade, and enacting provisions set out as a note under this section] (including the amendments made by this section).”

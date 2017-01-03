@@ -77,114 +77,14 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 
 <a id="section-5503"></a>
-## § 5503. Office of Intermodalism
-**(a) Establishment.—** There is established in the Office of the Assistant Secretary for Research and Technology of the Department of Transportation an Office of Intermodalism.
-
-**(b) Director.—** The head of the Office is a Director who shall be appointed by the Secretary.
-
-**(c) Duties and Powers.—** The Director shall carry out the duties of the Secretary described in [section 301(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section301/3&num=0&edition=prelim).
-
-**(d) Research.—** The Director shall—
-
-(1) coordinate United States Government research on intermodal transportation as provided in the plan developed under section 6009(b) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2177); and
-
-(2) carry out additional research needs identified by the Director.
-
-**(e) Technical Assistance.—** The Director shall provide technical assistance to States and to metropolitan planning organizations for urban areas having a population of at least 1,000,000 in collecting data related to intermodal transportation to facilitate the collection of the data by States and metropolitan planning organizations. Amounts reserved under section 5504(d) not awarded to States as grants may be used by the Director to provide technical assistance under this subsection.
-
-**(f) National Intermodal System Improvement Plan.—**
-
-(1) **In general.—** — The Director, in consultation with the advisory board established under section 5502 and other public and private transportation interests, shall develop a plan to improve the national intermodal transportation system. The plan shall include—
-
-  (A) an assessment and forecast of the national intermodal transportation system’s impact on mobility, safety, energy consumption, the environment, technology, international trade, economic activity, and quality of life in the United States;
-
-  (B) an assessment of the operational and economic attributes of each passenger and freight mode of transportation and the optimal role of each mode in the national intermodal transportation system;
-
-  (C) a description of recommended intermodal and multimodal research and development projects;
-
-  (D) a description of emerging trends that have an impact on the national intermodal transportation system;
-
-  (E) recommendations for improving intermodal policy, transportation decision-making, and financing to maximize mobility and the return on investment of Federal spending on transportation;
-
-  (F) an estimate of the impact of current Federal and State transportation policy on the national intermodal transportation system; and
-
-  (G) specific near and long-term goals for the national intermodal transportation system.
-
-(2) **Progress reports.—** — The Director shall submit an initial report on the plan to improve the national intermodal transportation system 2 years after the date of enactment of the Motor Carrier Safety Reauthorization Act of 2005, and a follow-up report 2 years after that, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. The progress report shall—
-
-  (A) describe progress made toward achieving the plan’s goals;
-
-  (B) describe challenges and obstacles to achieving the plan’s goals;
-
-  (C) update the plan to reflect changed circumstances or new developments; and
-
-  (D) make policy and legislative recommendations the Director believes are necessary and appropriate to achieve the goals of the plan.
-
-(3) **Plan development funding.—** — Such sums as may be necessary from the administrative expenses of the Research and Innovative Technology Administration shall be reserved by the Secretary of Transportation each year for the purpose of completing and updating the plan to improve the national intermodal transportation plan.
-
-**(g) Impact Measurement Methodology; Impact Review.—** The Director and the Director of the Bureau of Transportation Statistics shall jointly—
-
-(1) develop, in consultation with the modal administrations, and State and local planning organizations, common measures to compare transportation investment decisions across the various modes of transportation; and
-
-(2) formulate a methodology for measuring the impact of intermodal transportation on—
-
-  (A) the environment;
-
-  (B) public health and welfare;
-
-  (C) energy consumption;
-
-  (D) the operation and efficiency of the transportation system;
-
-  (E) congestion, including congestion at the Nation’s ports; and
-
-  (F) the economy and employment.
-
-**(h) Administrative and Clerical Support.—** The Director shall provide administrative and clerical support to the Intermodal Transportation Advisory Board.
-
-**(i) Authorization of Appropriations.—** There is authorized to be appropriated to the Secretary of Transportation such sums as may be necessary for fiscal years 2006 through 2009 to carry out this chapter.
+## § 5503. Repealed. Pub. L. 114–94, div. A, title VI, § 6015(a), Dec. 4, 2015, 129 Stat. 1571]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 5503 | 49:301 (note). | Dec. 18, 1991, Pub. L. 102–240, § 5002(c), 105 Stat. 2158. |
+Section, Pub. L. 103–272, § 1(d), July 5, 1994, 108 Stat. 850; Pub. L. 105–178, title V, § 5109(b), June 9, 1998, 112 Stat. 440; Pub. L. 108–426, § 4(c), Nov. 30, 2004, 118 Stat. 2425; Pub. L. 109–59, title IV, § 4149, Aug. 10, 2005, 119 Stat. 1750; Pub. L. 110–244, title III, § 301(k), June 6, 2008, 122 Stat. 1616; Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 574, related to the Office of Intermodalism.
 
-#### References in Text
-Section 6009(b) of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (d)(1), is section 6009(b) of Pub. L. 102–240, which is set out as a note under [section 508 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section508&num=0&edition=prelim), Highways.
-
-The date of enactment of the Motor Carrier Safety Reauthorization Act of 2005, referred to in subsec. (f)(2), is the date of enactment of title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
-
-#### Amendments
-2008—Subsec. (f)(2). Pub. L. 110–244, § 301(k)(1), substituted “Motor Carrier Safety Reauthorization Act of 2005” for “Surface Transportation Safety Improvement Act of 2005” in introductory provisions.
-
-Subsecs. (h), (i). Pub. L. 110–244, § 301(k)(2), redesignated subsec. (h), relating to authorization of appropriations, as (i) and moved such subsec. to appear in proper order.
-
-2005—Subsec. (e). Pub. L. 109–59, § 4149(1), inserted at end “Amounts reserved under section 5504(d) not awarded to States as grants may be used by the Director to provide technical assistance under this subsection.”
-
-Subsecs. (f), (g). Pub. L. 109–59, § 4149(2), (3), added subsecs. (f) and (g). Former subsec. (f) redesignated (h) relating to administrative and clerical support.
-
-Subsec. (h). Pub. L. 109–59, § 4149(3), added subsec. (h) relating to authorization of appropriations.
-
-Pub. L. 109–59, § 4149(2), redesignated subsec. (f) as (h) relating to administrative and clerical support.
-
-2004—Subsec. (a). Pub. L. 108–426 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary of Transportation shall establish in the Office of the Secretary an Office of Intermodalism.”
-
-1998—Subsecs. (d) to (g). Pub. L. 105–178 redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out heading and text of former subsec. (d). Text read as follows:
-
-“(1) The Director shall develop, maintain, and disseminate intermodal transportation data through the Bureau of Transportation Statistics. The Director shall coordinate the collection of data for the data base with the States and metropolitan planning organizations. The data base shall include information on—
-
-“(A) the volume of property and number of individuals carried in intermodal transportation by relevant classification;
-
-“(B) patterns of movement of property and individuals in intermodal transportation by relevant classification by origin and destination; and
-
-“(C) public and private investment in intermodal transportation facilities and services.
-
-“(2) The Director shall make information from the data base available to the public.”
-
-#### Change of Name
-“Office of the Assistant Secretary for Research and Technology of the Department of Transportation” substituted for “Research and Innovative Technology Administration” in subsec. (a) on authority of title I of div. L of Pub. L. 113–76, set out in part as a note under [section 112 of this title](./chapter-001-organization.md#section-112).
+#### Effective Date of Repeal
+Repeal effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-5504"></a>
@@ -221,17 +121,21 @@ Pub. L. 109–59, § 4149(2), redesignated subsec. (f) as (h) relating to admini
 
 **(b) Competitive Selection Process.—**
 
-(1) **Applications.—** — To receive a grant under this section, a nonprofit institution of higher education shall submit to the Secretary an application that is in such form and contains such information as the Secretary may require.
+(1) **Applications.—** — To receive a grant under this section, a consortium of nonprofit institutions of higher education shall submit to the Secretary an application that is in such form and contains such information as the Secretary may require.
 
-(2) **Restriction.—** — A nonprofit institution of higher education or the lead institution of a consortium of nonprofit institutions of higher education, as applicable, that receives a grant for a national transportation center or a regional transportation center in a fiscal year shall not be eligible to receive as a lead institution or member of a consortium an additional grant in that fiscal year for a national transportation center or a regional transportation center.
+(2) **Restriction.—**
+
+  (A) *Limitation.—* — A lead institution of a consortium of nonprofit institutions of higher education, as applicable, may only receive 1 grant per fiscal year for each of the transportation centers described under paragraphs (2), (3), and (4) of subsection (c).
+
+  (B) *Exception for consortium members that are not lead institutions.—* — Subparagraph (A) shall not apply to a nonprofit institution of higher education that is a member of a consortium of nonprofit institutions of higher education but not the lead institution of such consortium.
 
 (3) **Coordination.—** — The Secretary shall solicit grant applications for national transportation centers, regional transportation centers, and Tier 1 university transportation centers with identical advertisement schedules and deadlines.
 
 (4) **General selection criteria.—**
 
-  (A) *In general.—* — Except as otherwise provided by this section, the Secretary shall award grants under this section in nonexclusive candidate topic areas established by the Secretary that address the research priorities identified in [section 503 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section503&num=0&edition=prelim).
+  (A) *In general.—* — Except as otherwise provided by this section, the Secretary shall award grants under this section in nonexclusive candidate topic areas established by the Secretary that address the research priorities identified in chapter 65.
 
-  (B) *Criteria.—* — The Secretary, in consultation as appropriate with the Administrators of the Federal Highway Administration and the Federal Transit Administration, shall select each recipient of a grant under this section through a competitive process based on the assessment of the Secretary relating to—
+  (B) *Criteria.—* — The Secretary, in consultation with the Assistant Secretary for Research and Technology and the Administrator of the Federal Highway Administration and other modal administrations as appropriate, shall select each recipient of a grant under this section through a competitive process based on the assessment of the Secretary relating to—
 
     (i) the demonstrated ability of the recipient to address each specific topic area described in the research and strategic plans of the recipient;
 
@@ -243,9 +147,9 @@ Pub. L. 109–59, § 4149(2), redesignated subsec. (f) as (h) relating to admini
 
     (v) the demonstrated commitment of the recipient to carry out transportation workforce development programs through—
 
-      (I) degree-granting programs; and
+      (I) degree-granting programs or programs that provide other industry-recognized credentials; and
 
-      (II) outreach activities to attract new entrants into the transportation field;
+      (II) outreach activities to attract new entrants into the transportation field, including women and underrepresented populations;
 
     (vi) the demonstrated ability of the recipient to disseminate results and spur the implementation of transportation research and education programs through national or statewide continuing education programs;
 
@@ -259,7 +163,7 @@ Pub. L. 109–59, § 4149(2), redesignated subsec. (f) as (h) relating to admini
 
   (A) *In general.—* — The Secretary shall provide to each applicant, upon request, any materials, including copies of reviews (with any information that would identify a reviewer redacted), used in the evaluation process of the proposal of the applicant.
 
-  (B) *Reports.—* — The Secretary shall submit to the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing the overall review process under paragraph (3) that includes—
+  (B) *Reports.—* — The Secretary shall submit to the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing the overall review process under paragraph (4) that includes—
 
     (i) specific criteria of evaluation used in the review;
 
@@ -267,39 +171,43 @@ Pub. L. 109–59, § 4149(2), redesignated subsec. (f) as (h) relating to admini
 
     (iii) explanations of the selected awards.
 
-(6) **Outside stakeholders.—** — The Secretary shall, to the maximum extent practicable, consult external stakeholders such as the Transportation Research Board of the National Academy of Sciences to evaluate and competitively review all proposals.
+(6) **Outside stakeholders.—** — The Secretary shall, to the maximum extent practicable, consult external stakeholders, including the Transportation Research Board of the National Research Council of the National Academies, to evaluate and competitively review all proposals.
 
 **(c) Grants.—**
 
-(1) **In general.—** — Not later than 1 year after the date of enactment of the Transportation Research and Innovative Technology Act of 2012, the Secretary, in consultation as appropriate with the Administrators of the Federal Highway Administration and the Federal Transit Administration, shall select grant recipients under subsection (b) and make grant amounts available to the selected recipients.
+(1) **In general.—** — Not later than 1 year after the date of enactment of this section, the Secretary shall select grant recipients under subsection (b) and make grant amounts available to the selected recipients.
 
 (2) **National transportation centers.—**
 
-  (A) *In general.—* — Subject to subparagraph (B), the Secretary shall provide grants to 5 recipients that the Secretary determines best meet the criteria described in subsection (b)(3).
+  (A) *In general.—* — Subject to subparagraph (B), the Secretary shall provide grants to 5 consortia that the Secretary determines best meet the criteria described in subsection (b)(4).
 
   (B) *Restrictions.—*
 
-    (i) *In general.—* — For each fiscal year, a grant made available under this paragraph shall be $3,000,000 per recipient.
+    (i) *In general.—* — For each fiscal year, a grant made available under this paragraph shall be not greater than $4,000,000 and not less than $2,000,000 per recipient.
 
-    (ii) *Focused research.—* — The grant recipients under this paragraph shall focus research on national transportation issues, as determined by the Secretary.
+    (ii) *Focused research.—* — A consortium receiving a grant under this paragraph shall focus research on 1 of the transportation issue areas specified in section 6503(c).
 
   (C) *Matching requirement.—*
 
     (i) *In general.—* — As a condition of receiving a grant under this paragraph, a grant recipient shall match 100 percent of the amounts made available under the grant.
 
-    (ii) *Sources.—* — The matching amounts referred to in clause (i) may include amounts made available to the recipient under section 504(b) or 505 of title 23.
+    (ii) *Sources.—* — The matching amounts referred to in clause (i) may include amounts made available to the recipient under—
+
+      (I) [section 504(b) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section504/b&num=0&edition=prelim); or
+
+      (II) [section 505 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section505&num=0&edition=prelim).
 
 (3) **Regional university transportation centers.—**
 
-  (A) *Location of regional centers.—* — One regional university transportation center shall be located in each of the 10 Federal regions that comprise the Standard Federal Regions established by the Office of Management and Budget in the document entitled “Standard Federal Regions” and dated April, 1974 (circular A-105).
+  (A) *Location of regional centers.—* — One regional university transportation center shall be located in each of the 10 Federal regions that comprise the Standard Federal Regions established by the Office of Management and Budget in the document entitled “Standard Federal Regions” and dated April 1974 (circular A–105).
 
-  (B) *Selection criteria.—* — In conducting a competition under subsection (b), the Secretary shall provide grants to 10 recipients on the basis of—
+  (B) *Selection criteria.—* — In conducting a competition under subsection (b), the Secretary shall provide grants to 10 consortia on the basis of—
 
-    (i) the criteria described in subsection (b)(3);
+    (i) the criteria described in subsection (b)(4);
 
-    (ii) the location of the center within the Federal region to be served; and
+    (ii) the location of the lead center within the Federal region to be served; and
 
-    (iii) whether the institution (or, in the case of consortium 11 So in original. Probably should be preceded by “a”. of institutions, the lead institution) demonstrates that the institution has a well-established, nationally recognized program in transportation research and education, as evidenced by—
+    (iii) whether the consortium of institutions demonstrates that the consortium has a well-established, nationally recognized program in transportation research and education, as evidenced by—
 
       (I) recent expenditures by the institution in highway or public transportation research;
 
@@ -307,31 +215,35 @@ Pub. L. 109–59, § 4149(2), redesignated subsec. (f) as (h) relating to admini
 
       (III) an experienced faculty who specialize in professional fields closely related to highways and public transportation.
 
-  (C) *Restrictions.—* — For each fiscal year, a grant made available under this paragraph shall be $2,750,000 for each recipient.
+  (C) *Restrictions.—* — For each fiscal year, a grant made available under this paragraph shall be not greater than $3,000,000 and not less than $1,500,000 per recipient.
 
   (D) *Matching requirements.—*
 
     (i) *In general.—* — As a condition of receiving a grant under this paragraph, a grant recipient shall match 100 percent of the amounts made available under the grant.
 
-    (ii) *Sources.—* — The matching amounts referred to in the clause (i) may include amounts made available to the recipient under section 504(b) or 505 of title 23.
+    (ii) *Sources.—* — The matching amounts referred to in clause (i) may include amounts made available to the recipient under—
 
-  (E) *Focused research.—* — The Secretary shall make a grant to 1 of the 10 regional university transportation centers established under this paragraph for the purpose of furthering the objectives described in subsection (a)(2) in the field of comprehensive transportation safety.
+      (I) [section 504(b) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section504/b&num=0&edition=prelim); or
+
+      (II) [section 505 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section505&num=0&edition=prelim).
+
+  (E) *Focused research.—* — The Secretary shall make a grant to 1 of the 10 regional university transportation centers established under this paragraph for the purpose of furthering the objectives described in subsection (a)(2) in the field of comprehensive transportation safety, congestion, connected vehicles, connected infrastructure, and autonomous vehicles.
 
 (4) **Tier 1 university transportation centers.—**
 
-  (A) *In general.—* — The Secretary shall provide grants of $1,500,000 each to not more than 20 recipients to carry out this paragraph.
+  (A) *In general.—* — The Secretary shall provide grants of not greater than $2,000,000 and not less than $1,000,000 to not more than 20 recipients to carry out this paragraph.
 
-  (B) *Restriction.—* — A lead institution of a consortium that receives a grant under paragraph (2) or (3) shall not be eligible to receive a grant under this paragraph.
+  (B) *Matching requirement.—*
 
-  (C) *Matching requirement.—*
+    (i) *In general.—* — As a condition of receiving a grant under this paragraph, a grant recipient shall match 50 percent of the amounts made available under the grant.
 
-    (i) *In general.—* — Subject to clause (iii), as a condition of receiving a grant under this paragraph, a grant recipient shall match 50 percent of the amounts made available under the grant.
+    (ii) *Sources.—* — The matching amounts referred to in clause (i) may include amounts made available to the recipient under—
 
-    (ii) *Sources.—* — The matching amounts referred to in clause (i) may include amounts made available to the recipient under section 504(b) or 505 of title 23.
+      (I) [section 504(b) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section504/b&num=0&edition=prelim); or
 
-    (iii) *Exemption.—* — This subparagraph shall not apply on a demonstration of financial hardship by the applicant institution.
+      (II) [section 505 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section505&num=0&edition=prelim).
 
-  (D) *Focused research.—* — In awarding grants under this paragraph, consideration shall be given to minority institutions, as defined by section 365 of the Higher Education Act of 1965 ([20 U.S.C. 1067k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067k&num=0&edition=prelim)), or consortia that include such institutions that have demonstrated an ability in transportation-related research.
+  (C) *Focused research.—* — In awarding grants under this section, consideration shall be given to minority institutions, as defined by section 365 of the Higher Education Act of 1965 ([20 U.S.C. 1067k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067k&num=0&edition=prelim)), or consortia that include such institutions that have demonstrated an ability in transportation-related research.
 
 **(d) Program Coordination.—**
 
@@ -339,26 +251,28 @@ Pub. L. 109–59, § 4149(2), redesignated subsec. (f) as (h) relating to admini
 
   (A) coordinate the research, education, and technology transfer activities carried out by grant recipients under this section; and
 
-  (B) disseminate the results of that research through the establishment and operation of an information clearinghouse.
+  (B) disseminate the results of that research through the establishment and operation of a publicly accessible online information clearinghouse.
 
-(2) **Annual review and evaluation.—** — Not less frequently than annually, and consistent with the plan developed under [section 508 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section508&num=0&edition=prelim), the Secretary shall—
+(2) **Annual review and evaluation.—** — Not less frequently than annually, and consistent with the plan developed under section 6503, the Secretary shall—
 
   (A) review and evaluate the programs carried out under this section by grant recipients; and
 
-  (B) submit to the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing that review and evaluation.
+  (B) submit to the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committees on Environment and Public Works and Commerce, Science, and Transportation of the Senate a report describing that review and evaluation.
 
-(3) **Program evaluation and oversight.—** — For each of fiscal years 2013 and 2014, the Secretary shall expend not more than 1½ percent of the amounts made available to the Secretary to carry out this section for any coordination, evaluation, and oversight activities of the Secretary under this section.
+(3) **Program evaluation and oversight.—** — For each of fiscal years 2016 through 2020, the Secretary shall expend not more than 1 and a half percent of the amounts made available to the Secretary to carry out this section for any coordination, evaluation, and oversight activities of the Secretary under this section.
 
-**(e) Limitation on Availability of Amounts.—** Amounts made available to the Secretary to carry out this section shall remain available for obligation by the Secretary for a period of 3 years after the last day of the fiscal year for which the amounts are appropriated.
+**(e) Limitation on Availability of Amounts.—** Amounts made available to the Secretary to carry out this section shall remain available for obligation by the Secretary for a period of 3 years after the last day of the fiscal year for which the amounts are authorized.
 
 **(f) Information Collection.—** Any survey, questionnaire, or interview that the Secretary determines to be necessary to carry out reporting requirements relating to any program assessment or evaluation activity under this section, including customer satisfaction assessments, shall not be subject to chapter 35 of title 44.
 
 ### Statutory Notes
 
 #### References in Text
-The date of enactment of the Transportation Research and Innovative Technology Act of 2012, referred to in subsec. (c)(1), is the date of enactment of div. E of Pub. L. 112–141, which was approved July 6, 2012.
+The date of enactment of this section, referred to in subsec. (c)(1), probably means the date of enactment of Pub. L. 114–94, which amended this section generally and was approved Dec. 4, 2015.
 
 #### Amendments
+2015—Pub. L. 114–94 amended section generally. Prior to amendment, section related to the university transportation centers program.
+
 2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to national university transportation centers.
 
 2005—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to national university transportation centers for provisions relating to university transportation research.
@@ -368,6 +282,9 @@ The date of enactment of the Transportation Research and Innovative Technology A
 Subsec. (i). Pub. L. 105–178, § 5110(d)(2), as added by Pub. L. 105–206, inserted “Subject to section 5338(e):” before par. (1) and substituted “institutions or groups of institutions” for “institutions” wherever appearing.
 
 Subsec. (j)(4)(B). Pub. L. 105–178, § 5110(d)(3), as added by Pub. L. 105–206, substituted “on behalf of a consortium which may also include West Virginia University Institute of Technology, the College of West Virginia, and Bluefield State College” for “on behalf of a consortium of West Virginia colleges and universities”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.

@@ -303,9 +303,9 @@ Enactment of this section and repeal of former section 6 of act Mar. 4, 1907, an
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(2), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(2), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
 
-Either Act and these Acts, referred to in subsec. (c)(2), mean the Federal Meat Inspection Act and the Federal Food, Drug, and Cosmetic Act. The Federal Meat Inspection Act is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, and amended, which are classified generally to subchapters I to IV (§ 601 et seq.), respectively, of this chapter. For complete classification of this Act to the Code, see Short Title note under [section 601 of this title](./chapter-012-meat-inspection.md#section-601) and Tables.
+Either Act and these Acts, referred to in subsec. (c)(2), mean the Federal Meat Inspection Act and the Federal Food, Drug, and Cosmetic Act. The Federal Meat Inspection Act is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, § 11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§ 601 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note under [section 601 of this title](./chapter-012-meat-inspection.md#section-601) and Tables.
 
 #### Codification
 Section was formerly classified to [section 75 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section75&num=0&edition=prelim).
@@ -874,7 +874,7 @@ The authority conferred on the Secretary by section 642, 643, or 644 of this tit
 
 (2) **Exemptions of retail stores, restaurants, and similar retail-type establishments; operations conducted at a restaurant central kitchen facility** — The provisions of this chapter requiring inspection of the slaughter of animals and the preparation of carcasses, parts thereof, meat and meat food products shall not apply to operations of types traditionally and usually conducted at retail stores and restaurants, when conducted at any retail store or restaurant or similar retail-type establishment for sale in normal retail quantities or service of such articles to consumers at such establishments if such establishments are subject to such inspection provisions only under this paragraph (c). For the purposes of this subparagraph, operations conducted at a restaurant central kitchen facility shall be considered as being conducted at a restaurant if the restaurant central kitchen prepares meat or meat food products that are ready to eat when they leave such facility and are served in meals or as entrees only to customers at restaurants owned or operated by the same person, firm, or corporation owning or operating such facility: Provided, That such facility shall be subject to the provisions of [section 642 of this title](./chapter-012-meat-inspection.md#section-642): Provided further, That the facility may be subject to the inspection requirements under subchapter I of this chapter for as long as the Secretary deems necessary, if the Secretary determines that the sanitary conditions or practices of the facility or the processing procedures or methods at the facility are such that any of its meat or meat food products are rendered adulterated.
 
-(3) **Termination of designation of State upon development and enforcement of minimum requirements; redesignation; designation for nonenforcement of minimum requirements: notice and publication in Federal Register** — Whenever the Secretary determines that any State designated under this paragraph (c) has developed and will enforce State meat inspection requirements at least equal to those imposed under subchapters I and IV of this chapter with respect to the operations and transactions within such State which are regulated under paragraph (1), he shall terminate the designation of such State under this paragraph (c), but this shall not preclude the subsequent redesignation of the State at any time upon thirty days notice to the Governor and publication in the Federal Register in accordance with this paragraph, and any State may be designated upon such notice and publication at any time after the period specified in this paragraph whether or not the State has theretofore been designated upon the Secretary determining that it is not effectively enforcing requirements at least equal to those imposed under subchapters I and IV of this chapter.
+(3) **Termination of designation of State upon development and enforcement of minimum requirements; redesignation; designation for nonenforcement of minimum requirements: notice and publication in Federal Register** — Whenever the Secretary determines that any State designated under this paragraph (c) has developed and will enforce State meat inspection requirements at least equal to those imposed under subchapters I and IV, with respect to the operations and transactions within such State which are regulated under paragraph (1), he shall terminate the designation of such State under this paragraph (c), but this shall not preclude the subsequent redesignation of the State at any time upon thirty days notice to the Governor and publication in the Federal Register in accordance with this paragraph, and any State may be designated upon such notice and publication at any time after the period specified in this paragraph whether or not the State has theretofore been designated upon the Secretary determining that it is not effectively enforcing requirements at least equal to those imposed under subchapters I and IV.
 
 (4) **Periodic review; report to Congressional committees** — The Secretary shall promptly upon December 15, 1967, and periodically thereafter, but at least annually, review the requirements, including the enforcement thereof, of the several States not designated under this paragraph (c), with respect to the slaughter, and the preparation, storage, handling and distribution of carcasses, parts thereof, meat and meat food products, of such animals, and inspection of such operations and annually report thereon to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate in the report required under section 691 11 See References in Text note below. of this title.
 
@@ -1067,7 +1067,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), is act Jun
 
   (C) *Publication in Federal Register* — Each report of the panel to the Secretary shall be published in the Federal Register.
 
-**(c) Secretarial response** Not later than 90 days after the publication of a panel report under subsection (b)(2)(C) of this section, the Secretary shall publish in the Federal Register any response required of the Secretary to the report.
+**(c) Secretarial response** Not later than 90 days after the publication of a panel report under subsection (b)(2)(C), the Secretary shall publish in the Federal Register any response required of the Secretary to the report.
 
 **(d) Composition of panel** The panel shall be composed of 7 members, not fewer than 5 of whom shall be from the food science, meat science, or poultry science profession, appointed to staggered terms not to exceed 3 years by the Secretary from nominations received from the National Institutes of Health and the Federation of American Societies of Food Animal Science and based on the professional qualifications of the nominees.
 
@@ -1105,9 +1105,8 @@ The Poultry Products Inspection Act, referred to in subsec. (i), is Pub. L. 85�
 #### Prior Provisions
 A prior section 410 of act Mar. 4, 1907, was renumbered section 411, and is classified to [section 680 of this title](./chapter-012-meat-inspection.md#section-680).
 
-Use of Appropriated Funds
-
-For prohibition of use of funds appropriated by div. A of Pub. L. 113–235 or any other Act to carry out this section see section 741 Pub. L. 113–235, set out as a note under [section 471 of this title](./chapter-010-poultry-and-poultry-products-inspection.md#section-471).
+#### Use of Appropriated Funds
+For prohibition of use of funds appropriated by div. A of Pub. L. 113–235 or any other Act to carry out this section, see section 741 Pub. L. 113–235, set out as a note under [section 471 of this title](./chapter-010-poultry-and-poultry-products-inspection.md#section-471).
 
 
 <a id="section-679b"></a>
@@ -1119,7 +1118,7 @@ For prohibition of use of funds appropriated by div. A of Pub. L. 113–235 or a
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Federal Meat Inspection Act which is classified to subchapters I to IV of this chapter.
+Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Federal Meat Inspection Act which is classified to subchapters I to IV–A of this chapter.
 
 
 <a id="section-679c"></a>
@@ -1130,7 +1129,7 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 (2) improve the capacity of the Service to inspect international meat and meat products, poultry and poultry products, and egg products at points of origin and at ports of entry;
 
-(3) strengthen the ability of the Service to collaborate with relevant agencies within the Department of Agriculture and with other entities in the Federal Government, the States, and Indian tribes (as defined in [section 450b(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim)) through the sharing of information and technology; and
+(3) strengthen the ability of the Service to collaborate with relevant agencies within the Department of Agriculture and with other entities in the Federal Government, the States, and Indian tribes (as defined in [section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim)) through the sharing of information and technology; and
 
 (4) otherwise expand the capacity of the Service to protect against the threat of bioterrorism.
 
@@ -1139,7 +1138,7 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, and not as part of the Federal Meat Inspection Act which is classified to subchapters I to IV of this chapter.
+Section was enacted as part of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, and not as part of the Federal Meat Inspection Act which is classified to subchapters I to IV–A of this chapter.
 
 
 <a id="section-680"></a>

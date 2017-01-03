@@ -75,10 +75,29 @@ Pub. L. 106–346, § 101(a) [title III, § 359], Oct. 23, 2000, 114 Stat. 1356,
 
 (5) be incorporated as part of the continuity of operations plans of the agency in the event of an emergency.
 
+**(c) Required Telework.—** If an agency places an employee in investigative leave under section 6329b, the agency may require the employee to, through telework, perform duties similar to the duties that the employee performs on-site if—
+
+(1) the agency determines that such a requirement would not—
+
+  (A) pose a threat to the employee or others;
+
+  (B) result in the destruction of evidence relevant to an investigation;
+
+  (C) result in the loss of or damage to Government property; or
+
+  (D) otherwise jeopardize legitimate Government interests;
+
+(2) the employee is eligible to telework under subsections (a) and (b) of this section; and
+
+(3) the agency determines that it would be appropriate for the employee to perform the duties of the employee through telework.
+
 ### Statutory Notes
 
 #### References in Text
 The date of enactment of this chapter, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 111–292, which was approved Dec. 9, 2010.
+
+#### Amendments
+2016—Subsec. (c). Pub. L. 114–328 added subsec. (c).
 
 
 <a id="section-6503"></a>

@@ -44,7 +44,7 @@ Pub. L. 101–566, title I, § 101, Nov. 15, 1990, 104 Stat. 2797, provided that
 ## § 12402. Report to Congress
 **(a)** Not later than January 1, 1999, the Secretary shall transmit to Congress a detailed report on the status and progress of the programs authorized under this chapter.
 
-**(b)** A report under subsection (a) of this section shall include, in addition to any views and recommendations of the Secretary—
+**(b)** A report under subsection (a) shall include, in addition to any views and recommendations of the Secretary—
 
 (1) an analysis of the effectiveness of the programs authorized under this chapter, to be prepared and submitted to the Secretary by the Hydrogen Technical Advisory Panel established under [section 12407 of this title](./chapter-128-hydrogen-research-development-and-demonstration-program.md#section-12407); and
 
@@ -109,7 +109,7 @@ Pub. L. 104–271, title II, Oct. 9, 1996, 110 Stat. 3307, provided that: “SEC
 ## § 12405. Technology transfer program
 **(a) Program** The Secretary shall conduct a program designed to accelerate wider application of hydrogen production, storage, utilization, and other technologies available in near term as a result of aerospace experience as well as other research progress by transferring critical technologies to the private sector. The Secretary shall direct the program with the advice and assistance of the Hydrogen Technical Advisory Panel established under [section 12407 of this title](./chapter-128-hydrogen-research-development-and-demonstration-program.md#section-12407). The objective in seeking this advice is to increase participation of private industry in the demonstration of near commercial applications through cooperative research and development arrangements, joint ventures or other appropriate arrangements involving the private sector.
 
-**(b) Information** The Secretary, in carrying out the program authorized by subsection (a) of this section, shall—
+**(b) Information** The Secretary, in carrying out the program authorized by subsection (a), shall—
 
 (1) undertake an inventory and assessment of hydrogen technologies and their commercial capability to economically produce, store, or utilize hydrogen in aerospace, transportation, electric utilities, petrochemical, chemical, merchant hydrogen, and other industrial sectors; and
 
@@ -136,9 +136,9 @@ The information exchange program may consist of workshops, publications, confere
 
 (1) shall use the expertise of the National Aeronautics and Space Administration and the Department of Transportation; and
 
-(2) may use the expertise of any other Federal agency in accordance with subsection (b) of this section in carrying out any activities under this chapter,11 See References in Text note below. to the extent that the Secretary determines that any such agency has capabilities which would allow such agency to contribute to the purpose of this chapter.
+(2) may use the expertise of any other Federal agency in accordance with subsection (b) in carrying out any activities under this chapter,11 See References in Text note below. to the extent that the Secretary determines that any such agency has capabilities which would allow such agency to contribute to the purpose of this chapter.
 
-**(b) Assistance** The Secretary may, in accordance with subsection (a) of this section, obtain the assistance of any department, agency, or instrumentality of the Executive branch of the Federal Government upon written request, on a reimbursable basis or otherwise and with the consent of such department, agency, or instrumentality. Each such request shall identify the assistance the Secretary deems necessary to carry out any duty under this chapter.
+**(b) Assistance** The Secretary may, in accordance with subsection (a), obtain the assistance of any department, agency, or instrumentality of the Executive branch of the Federal Government upon written request, on a reimbursable basis or otherwise and with the consent of such department, agency, or instrumentality. Each such request shall identify the assistance the Secretary deems necessary to carry out any duty under this chapter.
 
 **(c) Consultation** The Secretary shall consult with the Administrator of the National Aeronautics and Space Administration, the Administrator of the Environmental Protection Agency, the Secretary of Transportation, and the Hydrogen Technical Advisory Panel established under [section 12407 of this title](./chapter-128-hydrogen-research-development-and-demonstration-program.md#section-12407) in carrying out his authorities pursuant to this chapter.
 

@@ -136,7 +136,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
   (B) *Debt or equity instruments issued before May 19, 2010* — For debt or equity instruments issued before May 19, 2010, by depository institution holding companies or by nonbank financial companies supervised by the Board of Governors, any regulatory capital deductions required under this section shall be phased in incrementally over a period of 3 years, with the phase-in period to begin on January 1, 2013, except as set forth in subparagraph (C).
 
-  (C) *Debt or equity instruments of smaller institutions* — For debt or equity instruments issued before May 19, 2010, by depository institution holding companies with total consolidated assets of less than $15,000,000,000 as of December 31, 2009, and by organizations that were mutual holding companies on May 19, 2010, the capital deductions that would be required for other institutions under this section are not required as a result of this section.
+  (C) *Debt or equity instruments of smaller institutions* — For debt or equity instruments issued before May 19, 2010, by depository institution holding companies with total consolidated assets of less than $15,000,000,000 as of December 31, 2009, or March 31, 2010, and by organizations that were mutual holding companies on May 19, 2010, the capital deductions that would be required for other institutions under this section are not required as a result of this section.
 
   (D) *Depository institution holding companies not previously supervised by the Board of Governors* — For any depository institution holding company that was not supervised by the Board of Governors as of May 19, 2010, the requirements of this section, except as set forth in subparagraphs (A) and (B), shall be effective 5 years after July 21, 2010 11 So in original. Probably should be followed by a period.
 
@@ -192,6 +192,8 @@ Section 1 of an Act entitled “To enhance the ability of community financial in
 The Home Owners’ Loan Act, referred to in subsec. (c)(3)(A), is act June 13, 1933, ch. 64, 48 Stat. 128, which is classified generally to chapter 12 (§ 1461 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2015—Subsec. (b)(4)(C). Pub. L. 114–94 inserted “or March 31, 2010,” after “December 31, 2009,”.
+
 2014—Subsec. (a)(4) to (7). Pub. L. 113–279, § 2(1), added pars. (4) to (7).
 
 Subsec. (b)(5)(C). Pub. L. 113–250 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “any small bank holding company that is subject to the Small Bank Holding Company Policy Statement of the Board of Governors, as in effect on May 19, 2010.”
@@ -2018,7 +2020,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 The Farm Credit Act of 1971, referred to in subsec. (a)(11)(C), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§ 2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of this title](./chapter-023-farm-credit-system.md#section-2001) and Tables.
 
 #### Effective Date
-Subchapter effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
 
 
 <a id="section-5385"></a>
@@ -2184,6 +2186,9 @@ Subchapter effective 1 day after July 21, 2010, except as otherwise provided, se
 #### References in Text
 This subchapter, referred to in subsecs. (a)(1)(A)(v)(III), (c), and (d)(5), was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
 
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
 
 <a id="section-5386"></a>
 ## § 5386. Systemic risk determination
@@ -2311,12 +2316,18 @@ This subchapter, referred to in subsecs. (a)(1)(A)(v)(III), (c), and (d)(5), was
 
 (2) **Exception for subsidiaries and affiliates** — The requirement of paragraph (1) shall not apply with respect to any subsidiary or affiliate of an insurance company that is not itself an insurance company.
 
-(3) **Backup authority** — Notwithstanding paragraph (1), with respect to a covered financial company described in paragraph (1), if, after the end of the 60-day period beginning on the date on which a determination is made under [section 5382(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5382/a&num=0&edition=prelim) with respect to such company, the appropriate regulatory agency has not filed the appropriate judicial action in the appropriate State court to place such company into orderly liquidation under the laws and requirements of the State, the Corporation shall have the authority to stand in the place of the appropriate regulatory agency and file the appropriate judicial action in the appropriate State court to place such company into orderly liquidation under the laws and requirements of the State.
+(3) **Backup authority** — Notwithstanding paragraph (1), with respect to a covered financial company described in paragraph (1), if, after the end of the 60-day period beginning on the date on which a determination is made under [section 5382(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5382/a&num=0&edition=prelim) with respect to such company, the appropriate regulatory agency has not filed the appropriate judicial action in the appropriate State court to place such company into orderly liquidation or rehabilitation under the laws and requirements of the State, the Corporation shall have the authority to stand in the place of the appropriate regulatory agency and file the appropriate judicial action in the appropriate State court to place such company into orderly liquidation or rehabilitation under the laws and requirements of the State.
 
 ### Statutory Notes
 
 #### References in Text
 This subchapter, referred to in subsecs. (a) to (d), was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+#### Amendments
+2015—Subsec. (e)(3). Pub. L. 114–113 inserted “or rehabilitation” after “orderly liquidation” in two places.
+
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
 
 
 <a id="section-5387"></a>
@@ -2349,7 +2360,15 @@ This subchapter, referred to in subsecs. (a) to (d), was in the original “this
 
 (3) assuming or guaranteeing the obligations of the covered financial company or any covered subsidiary to 1 or more third parties;
 
-(4) taking a lien on any or all assets of the covered financial company or any covered subsidiary, including a first priority lien on all unencumbered assets of the covered financial company or any covered subsidiary to secure repayment of any transactions conducted under this subsection;
+(4) taking a lien on any or all assets of the covered financial company or any covered subsidiary, including a first priority lien on all unencumbered assets of the covered financial company or any covered subsidiary to secure repayment of any transactions conducted under this subsection, except that, if the covered financial company or covered subsidiary is an insurance company or a subsidiary of an insurance company, the Corporation—
+
+  (A) shall promptly notify the State insurance authority for the insurance company of the intention to take such lien; and
+
+  (B) may only take such lien—
+
+    (i) to secure repayment of funds made available to such covered financial company or covered subsidiary; and
+
+    (ii) if the Corporation determines, after consultation with the State insurance authority, that such lien will not unduly impede or delay the liquidation or rehabilitation of the insurance company, or the recovery by its policyholders;
 
 (5) selling or transferring all, or any part, of such acquired assets, liabilities, or obligations of the covered financial company or any covered subsidiary; and
 
@@ -2359,6 +2378,12 @@ This subchapter, referred to in subsecs. (a) to (d), was in the original “this
 
 #### References in Text
 This subchapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+#### Amendments
+2015—Subsec. (d)(4). Pub. L. 114–113 inserted “, except that, if the covered financial company or covered subsidiary is an insurance company or a subsidiary of an insurance company, the Corporation—” and subpars. (A) and (B) before semicolon at end.
+
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
 
 
 <a id="section-5388"></a>
@@ -2442,6 +2467,9 @@ The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 
 
 This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
 
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
 
 <a id="section-5389"></a>
 ## § 5389. Mandatory terms and conditions for all orderly liquidation actions
@@ -2465,11 +2493,19 @@ In taking action under this subchapter, the Corporation shall—
 #### References in Text
 This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
 
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
 
 <a id="section-5390"></a>
 ## § 5390. Directors not liable for acquiescing in appointment of receiver
 
 The members of the board of directors (or body performing similar functions) of a covered financial company shall not be liable to the shareholders or creditors thereof for acquiescing in or consenting in good faith to the appointment of the Corporation as receiver for the covered financial company under [section 5383 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5383).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
 
 
 <a id="section-5391"></a>
@@ -2485,6 +2521,9 @@ The members of the board of directors (or body performing similar functions) of 
 #### References in Text
 The Securities Investor Protection Act of 1970, referred to in subsecs. (a) and (b), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78aaa of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) and Tables.
 
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
 
 <a id="section-5392"></a>
 ## § 5392. Rulemaking; non-conflicting law
@@ -2497,6 +2536,9 @@ The Corporation shall, in consultation with the Council, prescribe such rules or
 This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
 
 The Federal Deposit Insurance Act, referred to in text, is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
 
 
 <a id="section-5393"></a>
@@ -3889,6 +3931,9 @@ This Act, referred to in subsec. (n)(8)(A)(i), is Pub. L. 111–203, July 21, 20
 
 The Internal Revenue Code of 1986, referred to in subsec. (q)(2), is classified generally to Title 26, Internal Revenue Code.
 
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
 
 <a id="section-5394"></a>
 ## § 5394. Inspector General reviews
@@ -3962,6 +4007,9 @@ The Inspector General Act of 1978, referred to in subsecs. (d)(3) and (e)(3), is
 #### Codification
 Section is comprised of section 211 of Pub. L. 111–203. Subsecs. (a) to (c) of section 211 of Pub. L. 111–203 amended [section 4403 of this title](./chapter-045-payment-system-risk-reduction.md#section-4403) and [section 1032 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1032&num=0&edition=prelim), Crimes and Criminal Procedure.
 
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
 
 <a id="section-5401"></a>
 ## § 5401. Disposition of affairs
@@ -3994,6 +4042,9 @@ Section is comprised of section 211 of Pub. L. 111–203. Subsecs. (a) to (c) of
 #### References in Text
 This title, where footnoted in subsec. (a)(1), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, repealed [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a), enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
 
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
 
 <a id="section-5402"></a>
 ## § 5402. Continuation of services
@@ -4009,6 +4060,9 @@ Any agency, department, or other instrumentality of the United States, and any s
 #### References in Text
 This title, referred to in text, is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, repealed [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a), enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
 
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
 
 <a id="section-5411"></a>
 ## § 5411. Prohibition of circumvention and prevention of conflicts of interest
@@ -4022,6 +4076,9 @@ This title, referred to in text, is title III of Pub. L. 111–203, July 21, 201
 
 #### References in Text
 This subchapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
 
 
 <a id="section-5412"></a>
@@ -4067,6 +4124,9 @@ This subchapter, referred to in subsecs. (a) and (b), was in the original “thi
 #### References in Text
 The Federal Deposit Insurance Act, referred to in subsec. (c)(2), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. The terms “insured depository institution” and “institution-affiliated party” are defined in section 3 of the Act, which is classified to [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813). For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
 
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
 
 <a id="section-5413"></a>
 ## § 5413. Prohibition on taxpayer funding
@@ -4080,6 +4140,9 @@ The Federal Deposit Insurance Act, referred to in subsec. (c)(2), is act Sept. 2
 
 #### References in Text
 This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
 
 
 <a id="section-5414"></a>
@@ -4101,7 +4164,7 @@ The purposes of this title 11 See References in Text note below. are—
 This title, referred to in text, is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, repealed [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a), enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
 
 #### Effective Date
-Subchapter effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
 
 
 <a id="section-5415"></a>
@@ -4113,6 +4176,9 @@ In this title,11 See References in Text note below. the term “transferred empl
 
 #### References in Text
 This title, where footnoted in text, is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, repealed [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a), enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
 
 
 <a id="section-5416"></a>
@@ -4137,6 +4203,9 @@ This title, where footnoted in text, is title III of Pub. L. 111–203, July 21,
 
 #### References in Text
 This title, referred to in subsec. (b)(1)(A), (B), (D), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, repealed [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a), enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
 
 
 <a id="section-5431"></a>
@@ -4197,6 +4266,11 @@ Section is comprised of section 312 of Pub. L. 111–203. Subsec. (c) of section
 
 Effective 90 days after the transfer date, the Office of Thrift Supervision and the position of Director of the Office of Thrift Supervision are abolished.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
 
 <a id="section-5433"></a>
 ## § 5433. Savings provisions
@@ -4251,6 +4325,9 @@ Effective 90 days after the transfer date, the Office of Thrift Supervision and 
 #### References in Text
 This title, referred to in subsecs. (a)(2), (b), and (d), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, repealed [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a), enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
 
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
 
 <a id="section-5434"></a>
 ## § 5434. References in Federal law to Federal banking agencies
@@ -4263,6 +4340,9 @@ On and after the transfer date, any reference in Federal law to the Director of 
 This subtitle, referred to in text, is subtitle A (§§ 311–319) of title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, which enacted this part and sections 4b and 16 of this title, amended sections 1, 11, 248, 481, 482, 1813, and 1820 of this title and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, and enacted provisions set out as notes under sections 1 and 16 of this title. For complete classification of subtitle A to the Code, see Tables.
 
 Subtitle E, referred to in text, is subtitle E (§ 351–378) of title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1546. For complete classification of subtitle E to the Code, see Tables.
+
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
 
 
 <a id="section-5435"></a>
@@ -4281,6 +4361,9 @@ The Competition in Contracting Act, referred to in text, probably means the Comp
 
 #### Codification
 In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
 
 
 <a id="section-5436"></a>
@@ -4313,6 +4396,9 @@ In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3
 
 #### References in Text
 This title, referred to in subsec. (a), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, repealed [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a), enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
 
 
 <a id="section-5437"></a>
@@ -4470,6 +4556,9 @@ This title, referred to in subsec. (a), is title III of Pub. L. 111–203, July 
 #### References in Text
 This title, referred to in subsecs. (a)(1)(B)(i) and (i)(2)(A)(i), (E)(i), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, repealed [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a), enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
 
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
 
 <a id="section-5451"></a>
 ## § 5451. Property transferred
@@ -4490,6 +4579,9 @@ This title, referred to in subsecs. (a)(1)(B)(i) and (i)(2)(A)(i), (E)(i), is ti
 #### References in Text
 This title, referred to in subsec. (b), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, repealed [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a), enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
 
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
 
 <a id="section-5452"></a>
 ## § 5452. Funds transferred
@@ -4501,6 +4593,11 @@ The funds that, on the day before the transfer date, the Director of the Office 
 (2) relating to the functions of the Office of Thrift Supervision transferred under [section 5412(b)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5412/b/2/C&num=0&edition=prelim), shall be transferred to the Corporation on the transfer date; and
 
 (3) relating to the functions of the Office of Thrift Supervision transferred under [section 5412(b)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5412/b/1/A&num=0&edition=prelim), shall be transferred to the Board of Governors on the transfer date.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
 
 
 <a id="section-5461"></a>
@@ -4528,6 +4625,9 @@ The funds that, on the day before the transfer date, the Director of the Office 
 #### References in Text
 Sections 301 through 326, referred to in subsecs. (a) and (b), are sections 301 to 326 of Pub. L. 111–203, which enacted sections 4b, 16, and 5401 to 5436 of this title, amended sections 1, 11, 248, 481, 482, 1813, and 1820 of this title and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, and enacted provisions set out as notes under sections 1 and 16 of this title.
 
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
 
 <a id="section-5462"></a>
 ## § 5462. Branching
@@ -4544,6 +4644,9 @@ Notwithstanding the Federal Deposit Insurance Act ([12 U.S.C. 1811](./chapter-01
 The Federal Deposit Insurance Act, referred to in text, is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
 
 The Bank Holding Company Act of 1956, referred to in text, is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
+
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
 
 
 <a id="section-5463"></a>
@@ -4662,6 +4765,9 @@ The Bank Holding Company Act of 1956, referred to in text, is act May 9, 1956, c
 
 #### References in Text
 Section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (g)(3), is section 1204(c) of Pub. L. 101–73, which is set out as a note under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811).
+
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
 
 
 <a id="section-5464"></a>
@@ -5599,7 +5705,7 @@ Except as otherwise provided in this title,11 See References in Text note below.
 
   (C) *Rule of construction* — A person that is a service provider shall be deemed to be a covered person to the extent that such person engages in the offering or provision of its own consumer financial product or service.
 
-(27) **State** — The term “State” means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, American Samoa, or the United States Virgin Islands or any federally recognized Indian tribe, as defined by the Secretary of the Interior under [section 479a–1(a) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section479a–1/a&num=0&edition=prelim).
+(27) **State** — The term “State” means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, American Samoa, or the United States Virgin Islands or any federally recognized Indian tribe, as defined by the Secretary of the Interior under [section 5131(a) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5131/a&num=0&edition=prelim).
 
 (28) **Stored value**
 
@@ -5999,6 +6105,8 @@ The Federal Reserve Act, referred to in subsec. (c)(2), is act Dec. 23, 1913, ch
 
   (F) work with community organizations, non-profit organizations, and other entities that are involved with educating or assisting seniors (including the National Education and Resource Center on Women and Retirement Planning).
 
+**(h) Application of FACA** Notwithstanding any provision of the Federal Advisory Committee Act (5 U.S.C. App.), such Act shall apply to each advisory committee of the Bureau and each subcommittee of such an advisory committee.
+
 ### Statutory Notes
 
 #### References in Text
@@ -6010,8 +6118,13 @@ The Equal Credit Opportunity Act, referred to in subsec. (c)(2)(A), is title VII
 
 The Home Mortgage Disclosure Act, referred to in subsec. (c)(2)(A), probably means the Home Mortgage Disclosure Act of 1975, which is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, and is classified principally to chapter 29 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2801 of this title](./chapter-029-home-mortgage-disclosure.md#section-2801) and Tables.
 
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
 #### Codification
 Section is comprised of section 1013 of Pub. L. 111–203. Subsec. (d)(5), (6) of section 1013 of Pub. L. 111–203 amended [section 9702 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9702&num=0&edition=prelim), Education.
+
+#### Amendments
+2015—Subsec. (h). Pub. L. 114–113 added subsec. (h).
 
 
 <a id="section-5496b"></a>
@@ -6360,6 +6473,9 @@ The Right to Financial Privacy Act of 1978, referred to in subsec. (c)(9)(A)(ii)
 
 #### Effective Date
 Section effective July 21, 2010, see section 1029A of Pub. L. 111–203, set out as a note under [section 5511 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5511).
+
+#### Designation of Rural Area
+Pub. L. 114–94, div. G, title LXXXIX, § 89002, Dec. 4, 2015, 129 Stat. 1799, provided that: “(a) Application.—Not later than 90 days after the date of the enactment of this Act [Dec. 4, 2015], the Bureau of Consumer Financial Protection shall establish an application process under which a person who lives or does business in a State may, with respect to an area identified by the person in such State that has not been designated by the Bureau as a rural area for purposes of a Federal consumer financial law (as defined under section 1002 of the Consumer Financial Protection Act of 2010 [[12 U.S.C. 5481](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5481)]), apply for such area to be so designated. “(b) Evaluation Criteria.—When evaluating an application submitted under subsection (a), the Bureau shall take into consideration the following factors:“(1) Criteria used by the Director of the Bureau of the Census for classifying geographical areas as rural or urban. “(2) Criteria used by the Director of the Office of Management and Budget to designate counties as metropolitan or micropolitan or neither. “(3) Criteria used by the Secretary of Agriculture to determine property eligibility for rural development programs. “(4) The Department of Agriculture rural-urban commuting area codes. “(5) A written opinion provided by the State’s bank supervisor, as defined under section 3(r) of the Federal Deposit Insurance Act ([12 U.S.C. 1813(r)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/r&num=0&edition=prelim)). “(6) Population density. “(c) Rule of Construction.—If, at any time prior to the submission of an application under subsection (a), the area subject to review has been designated as nonrural by any Federal agency described under subsection (b) using any of the criteria described under subsection (b), the Bureau shall not be required to consider such designation in its evaluation. “(d) Public Comment Period.—“(1) In general.—Not later than 60 days after receiving an application submitted under subsection (a), the Bureau shall—“(A) publish such application in the Federal Register; and “(B) make such application available for public comment for not fewer than 90 days. “(2) Limitation on additional applications.—Nothing in this section shall be construed to require the Bureau, during the public comment period with respect to an application submitted under subsection (a), to accept an additional application with respect to the area that is the subject of the initial application. “(e) Decision on Designation.—Not later than 90 days after the end of the public comment period under subsection (d)(1) for an application, the Bureau shall—“(1) grant or deny such application, in whole or in part; and “(2) publish such grant or denial in the Federal Register, along with an explanation of what factors the Bureau relied on in making such determination. “(f) Subsequent Applications.—A decision by the Bureau under subsection (e) to deny an application for an area to be designated as a rural area shall not preclude the Bureau from accepting a subsequent application submitted under subsection (a) for such area to be so designated, so long as such subsequent application is made after the end of the 90-day period beginning on the date that the Bureau denies the application under subsection (e). “(g) Sunset.—This section shall cease to have any force or effect after the end of the 2-year period beginning on the date of the enactment of this Act.”
 
 
 <a id="section-5517"></a>

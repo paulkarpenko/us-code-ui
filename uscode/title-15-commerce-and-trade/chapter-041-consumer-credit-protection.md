@@ -31,6 +31,9 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 #### Effective Date
 Section 504(a) of Pub. L. 90–321 provided that this part is effective May 29, 1968.
 
+#### Short Title of 2015 Amendment
+Pub. L. 114–94, div. G, title LXXXIX, § 89001, Dec. 4, 2015, 129 Stat. 1799, provided that: “This title [amending sections 1639c and 1639d of this title and enacting provisions set out as a note under [section 5512 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5512&num=0&edition=prelim), Banks and Banking] may be cited as the ‘Helping Expand Lending Practices in Rural Communities Act of 2015’ or the ‘HELP Rural Communities Act of 2015’.”
+
 #### Short Title of 2010 Amendment
 Pub. L. 111–319, § 1, Dec. 18, 2010, 124 Stat. 3457, provided that: “This Act [amending [section 1681m of this title](./chapter-041-consumer-credit-protection.md#section-1681m) and enacting provisions set out as a note under [section 1681m of this title](./chapter-041-consumer-credit-protection.md#section-1681m)] may be cited as the ‘Red Flag Program Clarification Act of 2010’.”
 
@@ -151,7 +154,7 @@ Pub. L. 111–203, title XIV, § 1495, July 21, 2010, 124 Stat. 2207, provided t
 
 **(f)** The term “credit” means the right granted by a creditor to a debtor to defer payment of debt or to incur debt and defer its payment.
 
-**(g)** The term “creditor” refers only to a person who both (1) regularly extends, whether in connection with loans, sales of property or services, or otherwise, consumer credit which is payable by agreement in more than four installments or for which the payment of a finance charge is or may be required, and (2) is the person to whom the debt arising from the consumer credit transaction is initially payable on the face of the evidence of indebtedness or, if there is no such evidence of indebtedness, by agreement. Notwithstanding the preceding sentence, in the case of an open-end credit plan involving a credit card, the card issuer and any person who honors the credit card and offers a discount which is a finance charge are creditors. For the purpose of the requirements imposed under part D of this subchapter and sections 1637(a)(5), 1637(a)(6), 1637(a)(7), 1637(b)(1), 1637(b)(2), 1637(b)(3), 1637(b)(8), and 1637(b)(10) of this title, the term “creditor” shall also include card issuers whether or not the amount due is payable by agreement in more than four installments or the payment of a finance charge is or may be required, and the Bureau shall, by regulation, apply these requirements to such card issuers, to the extent appropriate, even though the requirements are by their terms applicable only to creditors offering open-end credit plans. Any person who originates 2 or more mortgages referred to in subsection (aa) of this section in any 12-month period or any person who originates 1 or more such mortgages through a mortgage broker shall be considered to be a creditor for purposes of this subchapter. The term “creditor” includes a private educational lender (as that term is defined in [section 1650 of this title](./chapter-041-consumer-credit-protection.md#section-1650)) for purposes of this subchapter.
+**(g)** The term “creditor” refers only to a person who both (1) regularly extends, whether in connection with loans, sales of property or services, or otherwise, consumer credit which is payable by agreement in more than four installments or for which the payment of a finance charge is or may be required, and (2) is the person to whom the debt arising from the consumer credit transaction is initially payable on the face of the evidence of indebtedness or, if there is no such evidence of indebtedness, by agreement. Notwithstanding the preceding sentence, in the case of an open-end credit plan involving a credit card, the card issuer and any person who honors the credit card and offers a discount which is a finance charge are creditors. For the purpose of the requirements imposed under part D of this subchapter and sections 1637(a)(5), 1637(a)(6), 1637(a)(7), 1637(b)(1), 1637(b)(2), 1637(b)(3), 1637(b)(8), and 1637(b)(10) of this title, the term “creditor” shall also include card issuers whether or not the amount due is payable by agreement in more than four installments or the payment of a finance charge is or may be required, and the Bureau shall, by regulation, apply these requirements to such card issuers, to the extent appropriate, even though the requirements are by their terms applicable only to creditors offering open-end credit plans. Any person who originates 2 or more mortgages referred to in subsection (aa) in any 12-month period or any person who originates 1 or more such mortgages through a mortgage broker shall be considered to be a creditor for purposes of this subchapter. The term “creditor” includes a private educational lender (as that term is defined in [section 1650 of this title](./chapter-041-consumer-credit-protection.md#section-1650)) for purposes of this subchapter.
 
 **(h)** The term “credit sale” refers to any sale in which the seller is a creditor. The term includes any contract in the form of a bailment or lease if the bailee or lessee contracts to pay as compensation for use a sum substantially equivalent to or in excess of the aggregate value of the property and services involved and it is agreed that the bailee or lessee will become, or for no other or a nominal consideration has the option to become, the owner of the property upon full compliance with his obligations under the contract.
 
@@ -397,7 +400,7 @@ Subsec. (dd). Pub. L. 111–203, § 1431(d), added subsec. (dd).
 
 2008—Subsec. (f). Pub. L. 110–315 inserted at end “The term ‘creditor’ includes a private educational lender (as that term is defined in [section 1650 of this title](./chapter-041-consumer-credit-protection.md#section-1650)) for purposes of this subchapter.”
 
-1994—Subsec. (f). Pub. L. 103–325, § 152(c), inserted at end “Any person who originates 2 or more mortgages referred to in subsection (aa) of this section in any 12-month period or any person who originates 1 or more such mortgages through a mortgage broker shall be considered to be a creditor for purposes of this subchapter.”
+1994—Subsec. (f). Pub. L. 103–325, § 152(c), inserted at end “Any person who originates 2 or more mortgages referred to in subsection (aa) in any 12-month period or any person who originates 1 or more such mortgages through a mortgage broker shall be considered to be a creditor for purposes of this subchapter.”
 
 Subsec. (u). Pub. L. 103–325, § 152(b), substituted “the due dates” for “and the due dates” and inserted before period at end “, and the disclosures required by [section 1639(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1639/a&num=0&edition=prelim)”.
 
@@ -477,7 +480,7 @@ This subchapter does not apply to the following:
 
 (6) Repealed. Pub. L. 96–221, title VI, § 603(c)(3), Mar. 31, 1980, 94 Stat. 169.
 
-(7) Loans made, insured, or guaranteed pursuant to a program authorized by title IV of the Higher Education Act of 1965 [[20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq., [42 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751&num=0&edition=prelim) et seq.].
+(7) Loans made, insured, or guaranteed pursuant to a program authorized by title IV of the Higher Education Act of 1965 [[20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.].
 
 ### Statutory Notes
 
@@ -485,7 +488,7 @@ This subchapter does not apply to the following:
 For requirement of inflation adjustment of dollar amounts in par. (3) of this section, see section 1100E(b) of Pub. L. 111–203, set out as a note below.
 
 #### References in Text
-The Higher Education Act of 1965, referred to in par. (7), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Higher Education Act of 1965 is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in par. (7), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2010—Par. (3). Pub. L. 111–203, § 1100E(a)(1), substituted “$50,000” for “$25,000”.
@@ -533,7 +536,7 @@ Pub. L. 111–203, title X, § 1100E(b), July 21, 2010, 124 Stat. 2111, provided
 
 **(c) Procedures applicable for adoption of model forms and clauses** Model disclosure forms and clauses shall be adopted by the Bureau after notice duly given in the Federal Register and an opportunity for public comment in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim).
 
-**(d) Effective dates of regulations containing new disclosure requirements** Any regulation of the Bureau, or any amendment or interpretation thereof, requiring any disclosure which differs from the disclosures previously required by this part, part D, or part E of this subchapter or by any regulation of the Bureau promulgated thereunder shall have an effective date of that October 1 which follows by at least six months the date of promulgation, except that the Bureau may at its discretion take interim action by regulation, amendment, or interpretation to lengthen the period of time permitted for creditors or lessors to adjust their forms to accommodate new requirements or shorten the length of time for creditors or lessors to make such adjustments when it makes a specific finding that such action is necessary to comply with the findings of a court or to prevent unfair or deceptive disclosure practices. Notwithstanding the previous sentence, any creditor or lessor may comply with any such newly promulgated disclosure requirements prior to the effective date of the requirements.
+**(d) Effective dates of regulations containing new disclosure requirements** Any regulation of the Bureau, or any amendment or interpretation thereof, requiring any disclosure which differs from the disclosures previously required by this part, part D, or part E or by any regulation of the Bureau promulgated thereunder shall have an effective date of that October 1 which follows by at least six months the date of promulgation, except that the Bureau may at its discretion take interim action by regulation, amendment, or interpretation to lengthen the period of time permitted for creditors or lessors to adjust their forms to accommodate new requirements or shorten the length of time for creditors or lessors to make such adjustments when it makes a specific finding that such action is necessary to comply with the findings of a court or to prevent unfair or deceptive disclosure practices. Notwithstanding the previous sentence, any creditor or lessor may comply with any such newly promulgated disclosure requirements prior to the effective date of the requirements.
 
 **(f) 22 So in original. No subsec. (e) has been enacted. Exemption authority**
 
@@ -735,9 +738,9 @@ Pub. L. 104–29, § 2(f), Sept. 30, 1995, 109 Stat. 272, provided that: “(1) 
 
 **(c) Allowable tolerances for purposes of compliance with disclosure requirements** The disclosure of an annual percentage rate is accurate for the purpose of this subchapter if the rate disclosed is within a tolerance not greater than one-eighth of 1 per centum more or less than the actual rate or rounded to the nearest one-fourth of 1 per centum. The Bureau may allow a greater tolerance to simplify compliance where irregular payments are involved.
 
-**(d) Use of rate tables or charts having allowable variance from determined rates** The Bureau may authorize the use of rate tables or charts which may provide for the disclosure of annual percentage rates which vary from the rate determined in accordance with subsection (a)(1)(A) of this section by not more than such tolerances as the Bureau may allow. The Bureau may not allow a tolerance greater than 8 per centum of that rate except to simplify compliance where irregular payments are involved.
+**(d) Use of rate tables or charts having allowable variance from determined rates** The Bureau may authorize the use of rate tables or charts which may provide for the disclosure of annual percentage rates which vary from the rate determined in accordance with subsection (a)(1)(A) by not more than such tolerances as the Bureau may allow. The Bureau may not allow a tolerance greater than 8 per centum of that rate except to simplify compliance where irregular payments are involved.
 
-**(e) Authorization of tolerances in determining annual percentage rates** In the case of creditors determining the annual percentage rate in a manner other than as described in subsection (d) of this section, the Bureau may authorize other reasonable tolerances.
+**(e) Authorization of tolerances in determining annual percentage rates** In the case of creditors determining the annual percentage rate in a manner other than as described in subsection (d), the Bureau may authorize other reasonable tolerances.
 
 ### Statutory Notes
 
@@ -781,7 +784,7 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 (7) sections 21B and 21C of the Securities Exchange Act of 1934 [[15 U.S.C. 78u–2](./chapter-2b-securities-exchanges.md#section-78u-2), 78u–3], in the case of a broker or dealer, other than a depository institution, by the Securities and Exchange Commission.
 
-**(b) Violations of this subchapter deemed violations of pre-existing statutory requirements; additional agency powers** For the purpose of the exercise by any agency referred to in subsection (a) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a) of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter, any other authority conferred on it by law.
+**(b) Violations of this subchapter deemed violations of pre-existing statutory requirements; additional agency powers** For the purpose of the exercise by any agency referred to in subsection (a) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a), each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter, any other authority conferred on it by law.
 
 **(c) Overall enforcement authority of the Federal Trade Commission** Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under any of paragraphs (1) through (5) of subsection (a), and subject to subtitle B of the Consumer Financial Protection Act of 2010 [[12 U.S.C. 5511](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5511&num=0&edition=prelim) et seq.], the Federal Trade Commission shall be authorized to enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act [[15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.], a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Federal Trade Commission to enforce compliance by any person with the requirements under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests under the Federal Trade Commission Act.
 
@@ -789,7 +792,7 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 **(e) Adjustment of finance charges; procedures applicable, coverage, criteria, etc.**
 
-(1) In carrying out its enforcement activities under this section, each agency referred to in subsection (a) or (c) of this section, in cases where an annual percentage rate or finance charge was inaccurately disclosed, shall notify the creditor of such disclosure error and is authorized in accordance with the provisions of this subsection to require the creditor to make an adjustment to the account of the person to whom credit was extended, to assure that such person will not be required to pay a finance charge in excess of the finance charge actually disclosed or the dollar equivalent of the annual percentage rate actually disclosed, whichever is lower. For the purposes of this subsection, except where such disclosure error resulted from a willful violation which was intended to mislead the person to whom credit was extended, in determining whether a disclosure error has occurred and in calculating any adjustment, (A) each agency shall apply (i) with respect to the annual percentage rate, a tolerance of one-quarter of 1 percent more or less than the actual rate, determined without regard to [section 1606(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1606/c&num=0&edition=prelim), and (ii) with respect to the finance charge, a corresponding numerical tolerance as generated by the tolerance provided under this subsection for the annual percentage rate; except that (B) with respect to transactions consummated after two years following March 31, 1980, each agency shall apply (i) for transactions that have a scheduled amortization of ten years or less, with respect to the annual percentage rate, a tolerance not to exceed one-quarter of 1 percent more or less than the actual rate, determined without regard to [section 1606(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1606/c&num=0&edition=prelim), but in no event a tolerance of less than the tolerances allowed under [section 1606(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1606/c&num=0&edition=prelim), (ii) for transactions that have a scheduled amortization of more than ten years, with respect to the annual percentage rate, only such tolerances as are allowed under [section 1606(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1606/c&num=0&edition=prelim), and (iii) for all transactions, with respect to the finance charge, a corresponding numerical tolerance as generated by the tolerances provided under this subsection for the annual percentage rate.
+(1) In carrying out its enforcement activities under this section, each agency referred to in subsection (a) or (c), in cases where an annual percentage rate or finance charge was inaccurately disclosed, shall notify the creditor of such disclosure error and is authorized in accordance with the provisions of this subsection to require the creditor to make an adjustment to the account of the person to whom credit was extended, to assure that such person will not be required to pay a finance charge in excess of the finance charge actually disclosed or the dollar equivalent of the annual percentage rate actually disclosed, whichever is lower. For the purposes of this subsection, except where such disclosure error resulted from a willful violation which was intended to mislead the person to whom credit was extended, in determining whether a disclosure error has occurred and in calculating any adjustment, (A) each agency shall apply (i) with respect to the annual percentage rate, a tolerance of one-quarter of 1 percent more or less than the actual rate, determined without regard to [section 1606(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1606/c&num=0&edition=prelim), and (ii) with respect to the finance charge, a corresponding numerical tolerance as generated by the tolerance provided under this subsection for the annual percentage rate; except that (B) with respect to transactions consummated after two years following March 31, 1980, each agency shall apply (i) for transactions that have a scheduled amortization of ten years or less, with respect to the annual percentage rate, a tolerance not to exceed one-quarter of 1 percent more or less than the actual rate, determined without regard to [section 1606(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1606/c&num=0&edition=prelim), but in no event a tolerance of less than the tolerances allowed under [section 1606(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1606/c&num=0&edition=prelim), (ii) for transactions that have a scheduled amortization of more than ten years, with respect to the annual percentage rate, only such tolerances as are allowed under [section 1606(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1606/c&num=0&edition=prelim), and (iii) for all transactions, with respect to the finance charge, a corresponding numerical tolerance as generated by the tolerances provided under this subsection for the annual percentage rate.
 
 (2) Each agency shall require such an adjustment when it determines that such disclosure error resulted from (A) a clear and consistent pattern or practice of violations, (B) gross negligence, or (C) a willful violation which was intended to mislead the person to whom the credit was extended. Notwithstanding the preceding sentence, except where such disclosure error resulted from a willful violation which was intended to mislead the person to whom credit was extended, an agency need not require such an adjustment if it determines that such disclosure error—
 
@@ -808,7 +811,7 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
     (i) require a partial adjustment in an amount which does not have such an impact; or
 
-    (ii) require the full adjustment, but permit the creditor to make the required adjustment in partial payments over an extended period of time which the agency considers to be reasonable, if (in the case of an agency referred to in paragraph (1), (2), or (3) of subsection (a) of this section), the agency determines that a partial adjustment or making partial payments over an extended period is necessary to avoid causing the creditor to become undercapitalized pursuant to section 38 of the Federal Deposit Insurance Act [[12 U.S.C. 1831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1831&num=0&edition=prelim)o];
+    (ii) require the full adjustment, but permit the creditor to make the required adjustment in partial payments over an extended period of time which the agency considers to be reasonable, if (in the case of an agency referred to in paragraph (1), (2), or (3) of subsection (a)), the agency determines that a partial adjustment or making partial payments over an extended period is necessary to avoid causing the creditor to become undercapitalized pursuant to section 38 of the Federal Deposit Insurance Act [[12 U.S.C. 1831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1831&num=0&edition=prelim)o];
 
   (B) the 11 So in original. Probably should be preceded by “if”. amount of the adjustment would be less than $1, except that if more than one year has elapsed since the date of the violation, the agency may require that such amount be paid into the Treasury of the United States, or
 
@@ -822,15 +825,15 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 (4)
 
-  (A) Notwithstanding any other provision of this section, an adjustment under this subsection may be required by an agency referred to in subsection (a) or (c) of this section only by an order issued in accordance with cease and desist procedures provided by the provision of law referred to in such subsections.
+  (A) Notwithstanding any other provision of this section, an adjustment under this subsection may be required by an agency referred to in subsection (a) or (c) only by an order issued in accordance with cease and desist procedures provided by the provision of law referred to in such subsections.
 
   (B) In case of an agency which is not authorized to conduct cease and desist proceedings, such an order may be issued after an agency hearing on the record conducted at least thirty but not more than sixty days after notice of the alleged violation is served on the creditor. Such a hearing shall be deemed to be a hearing which is subject to the provisions of section 8(h) of the Federal Deposit Insurance Act [[12 U.S.C. 1818(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1818/h&num=0&edition=prelim)] and shall be subject to judicial review as provided therein.
 
-(5) Except as otherwise specifically provided in this subsection and notwithstanding any provision of law referred to in subsection (a) or (c) of this section, no agency referred to in subsection (a) or (c) of this section may require a creditor to make dollar adjustments for errors in any requirements under this subchapter, except with regard to the requirements of [section 1666d of this title](./chapter-041-consumer-credit-protection.md#section-1666d).
+(5) Except as otherwise specifically provided in this subsection and notwithstanding any provision of law referred to in subsection (a) or (c), no agency referred to in subsection (a) or (c) may require a creditor to make dollar adjustments for errors in any requirements under this subchapter, except with regard to the requirements of [section 1666d of this title](./chapter-041-consumer-credit-protection.md#section-1666d).
 
 (6) A creditor shall not be subject to an order to make an adjustment, if within sixty days after discovering a disclosure error, whether pursuant to a final written examination report or through the creditor’s own procedures, the creditor notifies the person concerned of the error and adjusts the account so as to assure that such person will not be required to pay a finance charge in excess of the finance charge actually disclosed or the dollar equivalent of the annual percentage rate actually disclosed, whichever is lower.
 
-(7) Notwithstanding the second sentence of subsection (e)(1), subsection (e)(3)(C)(i), and subsection (e)(3)(C)(ii) of this section, each agency referred to in subsection (a) or (c) of this section shall require an adjustment for an annual percentage rate disclosure error that exceeds a tolerance of one quarter of one percent less than the actual rate, determined without regard to [section 1606(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1606/c&num=0&edition=prelim), with respect to any transaction consummated between January 1, 1977, and March 31, 1980.
+(7) Notwithstanding the second sentence of subsection (e)(1), subsection (e)(3)(C)(i), and subsection (e)(3)(C)(ii), each agency referred to in subsection (a) or (c) shall require an adjustment for an annual percentage rate disclosure error that exceeds a tolerance of one quarter of one percent less than the actual rate, determined without regard to [section 1606(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1606/c&num=0&edition=prelim), with respect to any transaction consummated between January 1, 1977, and March 31, 1980.
 
 ### Statutory Notes
 
@@ -871,7 +874,7 @@ struck out “, except that with respect to any transaction consumated after Mar
 
 “(ii) require”;
 
-directed the substitution of “reasonable, if (in the case of an agency referred to in paragraph (1), (2), or (3) of subsection (a) of this section), the agency determines that a partial adjustment or making partial payments over an extended period is necessary to avoid causing the creditor to become undercapitalized pursuant to section 38 of the Federal Deposit Insurance Act;
+directed the substitution of “reasonable, if (in the case of an agency referred to in paragraph (1), (2), or (3) of subsection (a)), the agency determines that a partial adjustment or making partial payments over an extended period is necessary to avoid causing the creditor to become undercapitalized pursuant to section 38 of the Federal Deposit Insurance Act;
 
 “(B) the”;
 
@@ -953,7 +956,7 @@ Repeal effective Mar. 23, 1976, see section 708 of Pub. L. 90–321, set out as 
 ## § 1610. Effect on other laws
 **(a) Inconsistent provisions; procedures applicable for determination**
 
-(1) Except as provided in subsection (e) of this section, this part and parts B and C of this subchapter, do not annul, alter, or affect the laws of any State relating to the disclosure of information in connection with credit transactions, except to the extent that those laws are inconsistent with the provisions of this subchapter, and then only to the extent of the inconsistency. Upon its own motion or upon the request of any creditor, State, or other interested party which is submitted in accordance with procedures prescribed in regulations of the Bureau, the Bureau shall determine whether any such inconsistency exists. If the Bureau determines that a State-required disclosure is inconsistent, creditors located in that State may not make disclosures using the inconsistent term or form, and shall incur no liability under the law of that State for failure to use such term or form, notwithstanding that such determination is subsequently amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
+(1) Except as provided in subsection (e), this part and parts B and C, do not annul, alter, or affect the laws of any State relating to the disclosure of information in connection with credit transactions, except to the extent that those laws are inconsistent with the provisions of this subchapter, and then only to the extent of the inconsistency. Upon its own motion or upon the request of any creditor, State, or other interested party which is submitted in accordance with procedures prescribed in regulations of the Bureau, the Bureau shall determine whether any such inconsistency exists. If the Bureau determines that a State-required disclosure is inconsistent, creditors located in that State may not make disclosures using the inconsistent term or form, and shall incur no liability under the law of that State for failure to use such term or form, notwithstanding that such determination is subsequently amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
 
 (2) Upon its own motion or upon the request of any creditor, State, or other interested party which is submitted in accordance with procedures prescribed in regulations of the Bureau, the Bureau shall determine whether any disclosure required under the law of any State is substantially the same in meaning as a disclosure required under this subchapter. If the Bureau determines that a State-required disclosure is substantially the same in meaning as a disclosure required by this subchapter, then creditors located in that State may make such disclosure in compliance with such State law in lieu of the disclosure required by this subchapter, except that the annual percentage rate and finance charge shall be disclosed as required by [section 1632 of this title](./chapter-041-consumer-credit-protection.md#section-1632), and such State-required disclosure may not be made in lieu of the disclosures applicable to certain mortgages under [section 1639 of this title](./chapter-041-consumer-credit-protection.md#section-1639).
 
@@ -977,7 +980,7 @@ Repeal effective Mar. 23, 1976, see section 708 of Pub. L. 90–321, set out as 
 
 Subsec. (b). Pub. L. 103–325, § 152(e)(2)(C), substituted “Except as provided in [section 1639 of this title](./chapter-041-consumer-credit-protection.md#section-1639), this subchapter” for “This subchapter” and inserted at end “The provisions of [section 1639 of this title](./chapter-041-consumer-credit-protection.md#section-1639) do not annul, alter, or affect the applicability of the laws of any State or exempt any person subject to the provisions of [section 1639 of this title](./chapter-041-consumer-credit-protection.md#section-1639) from complying with the laws of any State, with respect to the requirements for mortgages referred to in [section 1602(aa) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1602/aa&num=0&edition=prelim), except to the extent that those State laws are inconsistent with any provisions of [section 1639 of this title](./chapter-041-consumer-credit-protection.md#section-1639), and then only to the extent of the inconsistency.”
 
-1988—Subsec. (a)(1). Pub. L. 100–583, § 4(1), substituted “Except as provided in subsection (e) of this section, this part” for “This part”.
+1988—Subsec. (a)(1). Pub. L. 100–583, § 4(1), substituted “Except as provided in subsection (e), this part” for “This part”.
 
 Subsec. (e). Pub. L. 100–583, § 4(2), added subsec. (e).
 
@@ -1086,7 +1089,7 @@ Repeal effective on expiration of two years and six months after Mar. 31, 1980, 
 
   (B) any prepayment made as a result of the acceleration of the obligation to repay the amount due with respect to the transaction.
 
-**(b) Use of “Rule of 78’s” prohibited** For the purpose of calculating any refund of interest required under subsection (a) of this section for any precomputed consumer credit transaction of a term exceeding 61 months which is consummated after September 30, 1993, the creditor shall compute the refund based on a method which is at least as favorable to the consumer as the actuarial method.
+**(b) Use of “Rule of 78’s” prohibited** For the purpose of calculating any refund of interest required under subsection (a) for any precomputed consumer credit transaction of a term exceeding 61 months which is consummated after September 30, 1993, the creditor shall compute the refund based on a method which is at least as favorable to the consumer as the actuarial method.
 
 **(c) Statement of prepayment amount**
 
@@ -1185,7 +1188,7 @@ For definition of “Board”, see section 2 of Pub. L. 111–24, set out as a R
 
 <a id="section-1631"></a>
 ## § 1631. Disclosure requirements
-**(a) Duty of creditor or lessor respecting one or more than one obligor** Subject to subsection (b) of this section, a creditor or lessor shall disclose to the person who is obligated on a consumer lease or a consumer credit transaction the information required under this subchapter. In a transaction involving more than one obligor, a creditor or lessor, except in a transaction under [section 1635 of this title](./chapter-041-consumer-credit-protection.md#section-1635), need not disclose to more than one of such obligors if the obligor given disclosure is a primary obligor.
+**(a) Duty of creditor or lessor respecting one or more than one obligor** Subject to subsection (b), a creditor or lessor shall disclose to the person who is obligated on a consumer lease or a consumer credit transaction the information required under this subchapter. In a transaction involving more than one obligor, a creditor or lessor, except in a transaction under [section 1635 of this title](./chapter-041-consumer-credit-protection.md#section-1635), need not disclose to more than one of such obligors if the obligor given disclosure is a primary obligor.
 
 **(b) Creditor or lessor required to make disclosure** If a transaction involves one creditor as defined in section 1602(f) 11 See References in Text note below. of this title, or one lessor as defined in [section 1667(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1667/3&num=0&edition=prelim), such creditor or lessor shall make the disclosures. If a transaction involves more than one creditor or lessor, only one creditor or lessor shall by required to make the disclosures. The Bureau shall by regulation specify which creditor or lessor shall make the disclosures.
 
@@ -1240,9 +1243,9 @@ Provisions of Real Estate Settlement Procedures Act of 1974, as superseding prov
 
 <a id="section-1632"></a>
 ## § 1632. Form of disclosure; additional information
-**(a) Information clearly and conspicuously disclosed; “annual percentage rate” and “finance charge”; order of disclosures and use of different terminology** Information required by this subchapter shall be disclosed clearly and conspicuously, in accordance with regulations of the Bureau. The terms “annual percentage rate” and “finance charge” shall be disclosed more conspicuously than other terms, data, or information provided in connection with a transaction, except information relating to the identify of the creditor. Except as provided in subsection (c) of this section, regulations of the Bureau need not require that disclosures pursuant to this subchapter be made in the order set forth in this subchapter and, except as otherwise provided, may permit the use of terminology different from that employed in this subchapter if it conveys substantially the same meaning.
+**(a) Information clearly and conspicuously disclosed; “annual percentage rate” and “finance charge”; order of disclosures and use of different terminology** Information required by this subchapter shall be disclosed clearly and conspicuously, in accordance with regulations of the Bureau. The terms “annual percentage rate” and “finance charge” shall be disclosed more conspicuously than other terms, data, or information provided in connection with a transaction, except information relating to the identify of the creditor. Except as provided in subsection (c), regulations of the Bureau need not require that disclosures pursuant to this subchapter be made in the order set forth in this subchapter and, except as otherwise provided, may permit the use of terminology different from that employed in this subchapter if it conveys substantially the same meaning.
 
-**(b) Optional information by creditor or lessor** Any creditor or lessor may supply additional information or explanation with any disclosures required under parts D and E of this subchapter and, except as provided in sections 1637a(b)(3) and 1638(b)(1) of this title, under this part.
+**(b) Optional information by creditor or lessor** Any creditor or lessor may supply additional information or explanation with any disclosures required under parts D and E and, except as provided in sections 1637a(b)(3) and 1638(b)(1) of this title, under this part.
 
 **(c) Tabular format required for certain disclosures under section 1637(c)**
 
@@ -1291,7 +1294,7 @@ Subsec. (d)(5). Pub. L. 111–203 substituted “The Bureau, in” for “The Bo
 
 2009—Subsec. (d). Pub. L. 111–24 added subsec. (d).
 
-1988—Subsec. (a). Pub. L. 100–583, § 2(b)(1), substituted “Except as provided in subsection (c) of this section, regulations” for “Regulations”.
+1988—Subsec. (a). Pub. L. 100–583, § 2(b)(1), substituted “Except as provided in subsection (c), regulations” for “Regulations”.
 
 Subsec. (b). Pub. L. 100–709 substituted “sections 1637a(b)(3) and 1638(b)(1)” for “section 1638(b)(1)”.
 
@@ -1348,7 +1351,7 @@ If information disclosed in accordance with this part is subsequently rendered i
 ## § 1635. Right of rescission as to certain transactions
 **(a) Disclosure of obligor’s right to rescind** Except as otherwise provided in this section, in the case of any consumer credit transaction (including opening or increasing the credit limit for an open end credit plan) in which a security interest, including any such interest arising by operation of law, is or will be retained or acquired in any property which is used as the principal dwelling of the person to whom credit is extended, the obligor shall have the right to rescind the transaction until midnight of the third business day following the consummation of the transaction or the delivery of the information and rescission forms required under this section together with a statement containing the material disclosures required under this subchapter, whichever is later, by notifying the creditor, in accordance with regulations of the Bureau, of his intention to do so. The creditor shall clearly and conspicuously disclose, in accordance with regulations of the Bureau, to any obligor in a transaction subject to this section the rights of the obligor under this section. The creditor shall also provide, in accordance with regulations of the Bureau, appropriate forms for the obligor to exercise his right to rescind any transaction subject to this section.
 
-**(b) Return of money or property following rescission** When an obligor exercises his right to rescind under subsection (a) of this section, he is not liable for any finance or other charge, and any security interest given by the obligor, including any such interest arising by operation of law, becomes void upon such a rescission. Within 20 days after receipt of a notice of rescission, the creditor shall return to the obligor any money or property given as earnest money, downpayment, or otherwise, and shall take any action necessary or appropriate to reflect the termination of any security interest created under the transaction. If the creditor has delivered any property to the obligor, the obligor may retain possession of it. Upon the performance of the creditor’s obligations under this section, the obligor shall tender the property to the creditor, except that if return of the property in kind would be impracticable or inequitable, the obligor shall tender its reasonable value. Tender shall be made at the location of the property or at the residence of the obligor, at the option of the obligor. If the creditor does not take possession of the property within 20 days after tender by the obligor, ownership of the property vests in the obligor without obligation on his part to pay for it. The procedures prescribed by this subsection shall apply except when otherwise ordered by a court.
+**(b) Return of money or property following rescission** When an obligor exercises his right to rescind under subsection (a), he is not liable for any finance or other charge, and any security interest given by the obligor, including any such interest arising by operation of law, becomes void upon such a rescission. Within 20 days after receipt of a notice of rescission, the creditor shall return to the obligor any money or property given as earnest money, downpayment, or otherwise, and shall take any action necessary or appropriate to reflect the termination of any security interest created under the transaction. If the creditor has delivered any property to the obligor, the obligor may retain possession of it. Upon the performance of the creditor’s obligations under this section, the obligor shall tender the property to the creditor, except that if return of the property in kind would be impracticable or inequitable, the obligor shall tender its reasonable value. Tender shall be made at the location of the property or at the residence of the obligor, at the option of the obligor. If the creditor does not take possession of the property within 20 days after tender by the obligor, ownership of the property vests in the obligor without obligation on his part to pay for it. The procedures prescribed by this subsection shall apply except when otherwise ordered by a court.
 
 **(c) Rebuttable presumption of delivery of required disclosures** Notwithstanding any rule of evidence, written acknowledgment of receipt of any disclosures required under this subchapter by a person to whom information, forms, and a statement is required to be given pursuant to this section does no more than create a rebuttable presumption of delivery thereof.
 
@@ -1372,13 +1375,13 @@ If information disclosed in accordance with this part is subsequently rendered i
 
 **(i) Rescission rights in foreclosure**
 
-(1) **In general** — Notwithstanding [section 1649 of this title](./chapter-041-consumer-credit-protection.md#section-1649), and subject to the time period provided in subsection (f) of this section, in addition to any other right of rescission available under this section for a transaction, after the initiation of any judicial or nonjudicial foreclosure process on the primary dwelling of an obligor securing an extension of credit, the obligor shall have a right to rescind the transaction equivalent to other rescission rights provided by this section, if—
+(1) **In general** — Notwithstanding [section 1649 of this title](./chapter-041-consumer-credit-protection.md#section-1649), and subject to the time period provided in subsection (f), in addition to any other right of rescission available under this section for a transaction, after the initiation of any judicial or nonjudicial foreclosure process on the primary dwelling of an obligor securing an extension of credit, the obligor shall have a right to rescind the transaction equivalent to other rescission rights provided by this section, if—
 
   (A) a mortgage broker fee is not included in the finance charge in accordance with the laws and regulations in effect at the time the consumer credit transaction was consummated; or
 
   (B) the form of notice of rescission for the transaction is not the appropriate form of written notice published and adopted by the Bureau or a comparable written notice, and otherwise complied with all the requirements of this section regarding notice.
 
-(2) **Tolerance for disclosures** — Notwithstanding [section 1605(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1605/f&num=0&edition=prelim), and subject to the time period provided in subsection (f) of this section, for the purposes of exercising any rescission rights after the initiation of any judicial or nonjudicial foreclosure process on the principal dwelling of the obligor securing an extension of credit, the disclosure of the finance charge and other disclosures affected by any finance charge shall be treated as being accurate for purposes of this section if the amount disclosed as the finance charge does not vary from the actual finance charge by more than $35 or is greater than the amount required to be disclosed under this subchapter.
+(2) **Tolerance for disclosures** — Notwithstanding [section 1605(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1605/f&num=0&edition=prelim), and subject to the time period provided in subsection (f), for the purposes of exercising any rescission rights after the initiation of any judicial or nonjudicial foreclosure process on the principal dwelling of the obligor securing an extension of credit, the disclosure of the finance charge and other disclosures affected by any finance charge shall be treated as being accurate for purposes of this section if the amount disclosed as the finance charge does not vary from the actual finance charge by more than $35 or is greater than the amount required to be disclosed under this subchapter.
 
 (3) **Right of recoupment under State law** — Nothing in this subsection affects a consumer’s right of rescission in recoupment under State law.
 
@@ -1453,7 +1456,7 @@ Repeal effective on expiration of two years and six months after Mar. 31, 1980, 
 
 (6) In cases where the credit is or will be secured, a statement that a security interest has been or will be taken in (A) the property purchased as part of the credit transaction, or (B) property not purchased as part of the credit transaction identified by item or type.
 
-(7) A statement, in a form prescribed by regulations of the Bureau of the protection provided by sections 1666 and 1666i of this title to an obligor and the creditor’s responsibilities under sections 1666a and 1666i of this title. With respect to one billing cycle per calendar year, at intervals of not less than six months or more than eighteen months, the creditor shall transmit such statement to each obligor to whom the creditor is required to transmit a statement pursuant to subsection (b) of this section for such billing cycle.
+(7) A statement, in a form prescribed by regulations of the Bureau of the protection provided by sections 1666 and 1666i of this title to an obligor and the creditor’s responsibilities under sections 1666a and 1666i of this title. With respect to one billing cycle per calendar year, at intervals of not less than six months or more than eighteen months, the creditor shall transmit such statement to each obligor to whom the creditor is required to transmit a statement pursuant to subsection (b) for such billing cycle.
 
 (8) In the case of any account under an open end consumer credit plan which provides for any extension of credit which is secured by the consumer’s principal dwelling, any information which—
 
@@ -1535,7 +1538,7 @@ Repeal effective on expiration of two years and six months after Mar. 31, 1980, 
 
 (1) **Direct mail applications and solicitations**
 
-  (A) *Information in tabular format* — Any application to open a credit card account for any person under an open end consumer credit plan, or a solicitation to open such an account without requiring an application, that is mailed to consumers shall disclose the following information, subject to subsection (e) of this section and [section 1632(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1632/c&num=0&edition=prelim):
+  (A) *Information in tabular format* — Any application to open a credit card account for any person under an open end consumer credit plan, or a solicitation to open such an account without requiring an application, that is mailed to consumers shall disclose the following information, subject to subsection (e) and [section 1632(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1632/c&num=0&edition=prelim):
 
     (i) *Annual percentage rates*
 
@@ -1565,7 +1568,7 @@ Repeal effective on expiration of two years and six months after Mar. 31, 1980, 
 
       (II) In prescribing regulations to carry out this clause, the Bureau shall define and name not more than the 5 balance calculation methods determined by the Bureau to be the most commonly used methods.
 
-  (B) *Other information* — In addition to the information required to be disclosed under subparagraph (A), each application or solicitation to which such subparagraph applies shall disclose clearly and conspicuously the following information, subject to subsections (e) and (f) of this section:
+  (B) *Other information* — In addition to the information required to be disclosed under subparagraph (A), each application or solicitation to which such subparagraph applies shall disclose clearly and conspicuously the following information, subject to subsections (e) and (f):
 
     (i) *Cash advance fee* — Any fee imposed for an extension of credit in the form of cash.
 
@@ -1597,9 +1600,9 @@ Repeal effective on expiration of two years and six months after Mar. 31, 1980, 
 
     (i) the information—
 
-      (I) described in paragraph (1)(A) in the form required under [section 1632(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1632/c&num=0&edition=prelim), subject to subsection (e) of this section, and
+      (I) described in paragraph (1)(A) in the form required under [section 1632(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1632/c&num=0&edition=prelim), subject to subsection (e), and
 
-      (II) described in paragraph (1)(B) in a clear and conspicuous form, subject to subsections (e) and (f) of this section;
+      (II) described in paragraph (1)(B) in a clear and conspicuous form, subject to subsections (e) and (f);
 
     (ii) a statement, in a conspicuous and prominent location on the application or solicitation, that—
 
@@ -1627,7 +1630,7 @@ Repeal effective on expiration of two years and six months after Mar. 31, 1980, 
 
   (D) *Applications or solicitations containing subsection (a) disclosures* — An application or solicitation meets the requirement of this subparagraph if it contains, or is accompanied by—
 
-    (i) the disclosures required by paragraphs (1) through (6) of subsection (a) of this section;
+    (i) the disclosures required by paragraphs (1) through (6) of subsection (a);
 
     (ii) the disclosures required by subparagraphs (A) and (B) of paragraph (1) of this subsection included clearly and conspiciously 11 So in original. Probably should be “conspicuously”. (except that the provisions of [section 1632(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1632/c&num=0&edition=prelim) shall not apply); and
 
@@ -1637,7 +1640,7 @@ Repeal effective on expiration of two years and six months after Mar. 31, 1980, 
 
 (4) **Charge card applications and solicitations**
 
-  (A) *In general* — Any application or solicitation to open a charge card account shall disclose clearly and conspicuously the following information in the form required by [section 1632(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1632/c&num=0&edition=prelim), subject to subsection (e) of this section:
+  (A) *In general* — Any application or solicitation to open a charge card account shall disclose clearly and conspicuously the following information in the form required by [section 1632(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1632/c&num=0&edition=prelim), subject to subsection (e):
 
     (i) Any annual fee, other periodic fee, or membership fee imposed for the issuance or availability of the charge card, including any account maintenance fee or other charge imposed based on activity or inactivity for the account during the billing cycle.
 
@@ -1645,7 +1648,7 @@ Repeal effective on expiration of two years and six months after Mar. 31, 1980, 
 
     (iii) A statement that charges incurred by use of the charge card are due and payable upon receipt of a periodic statement rendered for such charge card account.
 
-  (B) *Other information* — In addition to the information required to be disclosed under subparagraph (A), each written application or solicitation to which such subparagraph applies shall disclose clearly and conspicuously the following information, subject to subsections (e) and (f) of this section:
+  (B) *Other information* — In addition to the information required to be disclosed under subparagraph (A), each written application or solicitation to which such subparagraph applies shall disclose clearly and conspicuously the following information, subject to subsections (e) and (f):
 
     (i) *Cash advance fee* — Any fee imposed for an extension of credit in the form of cash.
 
@@ -1657,9 +1660,9 @@ Repeal effective on expiration of two years and six months after Mar. 31, 1980, 
 
     (i) the information—
 
-      (I) described in subparagraph (A) in the form required under [section 1632(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1632/c&num=0&edition=prelim), subject to subsection (e) of this section, and
+      (I) described in subparagraph (A) in the form required under [section 1632(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1632/c&num=0&edition=prelim), subject to subsection (e), and
 
-      (II) described in subparagraph (B) in a clear and conspicuous form, subject to subsections (e) and (f) of this section;
+      (II) described in subparagraph (B) in a clear and conspicuous form, subject to subsections (e) and (f);
 
     (ii) a statement, in a conspicuous and prominent location on the application or solicitation, that—
 
@@ -1684,7 +1687,7 @@ Repeal effective on expiration of two years and six months after Mar. 31, 1980, 
 
   (E) *Charge card defined* — For the purposes of this subsection, the term “charge card” means a card, plate, or other single credit device that may be used from time to time to obtain credit which is not subject to a finance charge.
 
-(5) **Regulatory authority of the Bureau** — The Bureau may, by regulation, require the disclosure of information in addition to that otherwise required by this subsection or subsection (d) of this section, and modify any disclosure of information required by this subsection or subsection (d) of this section, in any application to open a credit card account for any person under an open end consumer credit plan or any application to open a charge card account for any person, or a solicitation to open any such account without requiring an application, if the Bureau determines that such action is necessary to carry out the purposes of, or prevent evasions of, any paragraph of this subsection.
+(5) **Regulatory authority of the Bureau** — The Bureau may, by regulation, require the disclosure of information in addition to that otherwise required by this subsection or subsection (d), and modify any disclosure of information required by this subsection or subsection (d), in any application to open a credit card account for any person under an open end consumer credit plan or any application to open a charge card account for any person, or a solicitation to open any such account without requiring an application, if the Bureau determines that such action is necessary to carry out the purposes of, or prevent evasions of, any paragraph of this subsection.
 
 (6) **Additional notice concerning “introductory rates”**
 
@@ -1750,11 +1753,11 @@ Repeal effective on expiration of two years and six months after Mar. 31, 1980, 
 
 **(d) Disclosure prior to renewal**
 
-(1) **In general** — A card issuer that has changed or amended any term of the account since the last renewal that has not been previously disclosed or that imposes any fee described in subsection (c)(1)(A)(ii)(I) or (c)(4)(A)(i) of this section shall transmit to a consumer at least 30 days prior to the scheduled renewal date of the consumer’s credit or charge card account a clear and conspicuous disclosure of—
+(1) **In general** — A card issuer that has changed or amended any term of the account since the last renewal that has not been previously disclosed or that imposes any fee described in subsection (c)(1)(A)(ii)(I) or (c)(4)(A)(i) shall transmit to a consumer at least 30 days prior to the scheduled renewal date of the consumer’s credit or charge card account a clear and conspicuous disclosure of—
 
   (A) the date by which, the month by which, or the billing period at the close of which, the account will expire if not renewed;
 
-  (B) the information described in subsection (c)(1)(A) or (c)(4)(A) of this section that would apply if the account were renewed, subject to subsection (e) of this section; and
+  (B) the information described in subsection (c)(1)(A) or (c)(4)(A) that would apply if the account were renewed, subject to subsection (e); and
 
   (C) the method by which the consumer may terminate continued credit availability under the account.
 
@@ -1762,11 +1765,11 @@ Repeal effective on expiration of two years and six months after Mar. 31, 1980, 
 
 **(e) Other rules for disclosures under subsections (c) and (d)**
 
-(1) **Fees determined on the basis of a percentage** — If the amount of any fee required to be disclosed under subsection (c) or (d) of this section is determined on the basis of a percentage of another amount, the percentage used in making such determination and the identification of the amount against which such percentage is applied shall be disclosed in lieu of the amount of such fee.
+(1) **Fees determined on the basis of a percentage** — If the amount of any fee required to be disclosed under subsection (c) or (d) is determined on the basis of a percentage of another amount, the percentage used in making such determination and the identification of the amount against which such percentage is applied shall be disclosed in lieu of the amount of such fee.
 
-(2) **Disclosure only of fees actually imposed** — If a credit or charge card issuer does not impose any fee required to be disclosed under any provision of subsection (c) or (d) of this section, such provision shall not apply with respect to such issuer.
+(2) **Disclosure only of fees actually imposed** — If a credit or charge card issuer does not impose any fee required to be disclosed under any provision of subsection (c) or (d), such provision shall not apply with respect to such issuer.
 
-**(f) Disclosure of range of certain fees which vary by State allowed** If the amount of any fee required to be disclosed by a credit or charge card issuer under paragraph (1)(B), (3)(B)(i)(II), (4)(B), or (4)(C)(i)(II) of subsection (c) of this section varies from State to State, the card issuer may disclose the range of such fees for purposes of subsection (c) of this section in lieu of the amount for each applicable State, if such disclosure includes a statement that the amount of such fee varies from State to State.
+**(f) Disclosure of range of certain fees which vary by State allowed** If the amount of any fee required to be disclosed by a credit or charge card issuer under paragraph (1)(B), (3)(B)(i)(II), (4)(B), or (4)(C)(i)(II) of subsection (c) varies from State to State, the card issuer may disclose the range of such fees for purposes of subsection (c) in lieu of the amount for each applicable State, if such disclosure includes a statement that the amount of such fee varies from State to State.
 
 **(g) Insurance in connection with certain open end credit card plans**
 
@@ -2015,7 +2018,7 @@ Pub. L. 100–583, § 8, Nov. 3, 1988, 102 Stat. 2969, provided that: “Not lat
 
 <a id="section-1637a"></a>
 ## § 1637a. Disclosure requirements for open end consumer credit plans secured by consumer’s principal dwelling
-**(a) Application disclosures** In the case of any open end consumer credit plan which provides for any extension of credit which is secured by the consumer’s principal dwelling, the creditor shall make the following disclosures in accordance with subsection (b) of this section:
+**(a) Application disclosures** In the case of any open end consumer credit plan which provides for any extension of credit which is secured by the consumer’s principal dwelling, the creditor shall make the following disclosures in accordance with subsection (b):
 
 (1) **Fixed annual percentage rate** — Each annual percentage rate imposed in connection with extensions of credit under the plan and a statement that such rate does not include costs other than interest.
 
@@ -2045,7 +2048,7 @@ Pub. L. 100–583, § 8, Nov. 3, 1988, 102 Stat. 2969, provided that: “Not lat
 
   (F) a statement of the maximum annual percentage rate that may be imposed at any time under the plan;
 
-  (G) subject to subsection (b)(3) of this section, a table, based on a $10,000 extension of credit, showing how the annual percentage rate and the minimum periodic payment amount under each repayment option of the plan would have been affected during the preceding 15-year period by changes in any index used to compute such rate;
+  (G) subject to subsection (b)(3), a table, based on a $10,000 extension of credit, showing how the annual percentage rate and the minimum periodic payment amount under each repayment option of the plan would have been affected during the preceding 15-year period by changes in any index used to compute such rate;
 
   (H) a statement of—
 
@@ -2146,35 +2149,35 @@ Pub. L. 100–583, § 8, Nov. 3, 1988, 102 Stat. 2969, provided that: “Not lat
 
 (1) **Time of disclosure**
 
-  (A) *In general* — The disclosures required under subsection (a) of this section with respect to any open end consumer credit plan which provides for any extension of credit which is secured by the consumer’s principal dwelling and the pamphlet required under subsection (e) of this section shall be provided to any consumer at the time the creditor distributes an application to establish an account under such plan to such consumer.
+  (A) *In general* — The disclosures required under subsection (a) with respect to any open end consumer credit plan which provides for any extension of credit which is secured by the consumer’s principal dwelling and the pamphlet required under subsection (e) shall be provided to any consumer at the time the creditor distributes an application to establish an account under such plan to such consumer.
 
-  (B) *Telephone, publications, and third party applications* — In the case of telephone applications, applications contained in magazines or other publications, or applications provided by a third party, the disclosures required under subsection (a) of this section and the pamphlet required under subsection (e) of this section shall be provided by the creditor before the end of the 3-day period beginning on the date the creditor receives a completed application from a consumer.
+  (B) *Telephone, publications, and third party applications* — In the case of telephone applications, applications contained in magazines or other publications, or applications provided by a third party, the disclosures required under subsection (a) and the pamphlet required under subsection (e) shall be provided by the creditor before the end of the 3-day period beginning on the date the creditor receives a completed application from a consumer.
 
 (2) **Form**
 
-  (A) *In general* — Except as provided in paragraph (1)(B), the disclosures required under subsection (a) of this section shall be provided on or with any application to establish an account under an open end consumer credit plan which provides for any extension of credit which is secured by the consumer’s principal dwelling.
+  (A) *In general* — Except as provided in paragraph (1)(B), the disclosures required under subsection (a) shall be provided on or with any application to establish an account under an open end consumer credit plan which provides for any extension of credit which is secured by the consumer’s principal dwelling.
 
-  (B) *Segregation of required disclosures from other information* — The disclosures required under subsection (a) of this section shall be conspicuously segregated from all other terms, data, or additional information provided in connection with the application, either by grouping the disclosures separately on the application form or by providing the disclosures on a separate form, in accordance with regulations of the Bureau.
+  (B) *Segregation of required disclosures from other information* — The disclosures required under subsection (a) shall be conspicuously segregated from all other terms, data, or additional information provided in connection with the application, either by grouping the disclosures separately on the application form or by providing the disclosures on a separate form, in accordance with regulations of the Bureau.
 
-  (C) *Precedence of certain information* — The disclosures required by paragraphs (5), (6), and (7) of subsection (a) of this section shall precede all of the other required disclosures.
+  (C) *Precedence of certain information* — The disclosures required by paragraphs (5), (6), and (7) of subsection (a) shall precede all of the other required disclosures.
 
-  (D) *Special provision relating to variable interest rate information* — Whether or not the disclosures required under subsection (a) of this section are provided on the application form, the variable rate information described in subsection (a)(2) of this section may be provided separately from the other information required to be disclosed.
+  (D) *Special provision relating to variable interest rate information* — Whether or not the disclosures required under subsection (a) are provided on the application form, the variable rate information described in subsection (a)(2) may be provided separately from the other information required to be disclosed.
 
-(3) **Requirement for historical table** — In preparing the table required under subsection (a)(2)(G) of this section, the creditor shall consistently select one rate of interest for each year and the manner of selecting the rate from year to year shall be consistent with the plan.
+(3) **Requirement for historical table** — In preparing the table required under subsection (a)(2)(G), the creditor shall consistently select one rate of interest for each year and the manner of selecting the rate from year to year shall be consistent with the plan.
 
-**(c) Third party applications** In the case of an application to open an account under any open end consumer credit plan described in subsection (a) of this section which is provided to a consumer by any person other than the creditor—
+**(c) Third party applications** In the case of an application to open an account under any open end consumer credit plan described in subsection (a) which is provided to a consumer by any person other than the creditor—
 
 (1) such person shall provide such consumer with—
 
-  (A) the disclosures required under subsection (a) of this section with respect to such plan, in accordance with subsection (b) of this section; and
+  (A) the disclosures required under subsection (a) with respect to such plan, in accordance with subsection (b); and
 
-  (B) the pamphlet required under subsection (e) of this section; or
+  (B) the pamphlet required under subsection (e); or
 
-(2) if such person cannot provide specific terms about the plan because specific information about the plan terms is not available, no nonrefundable fee may be imposed in connection with such application before the end of the 3-day period beginning on the date the consumer receives the disclosures required under subsection (a) of this section with respect to the application.
+(2) if such person cannot provide specific terms about the plan because specific information about the plan terms is not available, no nonrefundable fee may be imposed in connection with such application before the end of the 3-day period beginning on the date the consumer receives the disclosures required under subsection (a) with respect to the application.
 
 **(d) “Principal dwelling” defined** For purposes of this section and sections 1647 and 1665b of this title, the term “principal dwelling” includes any second or vacation home of the consumer.
 
-**(e) Pamphlet** In addition to the disclosures required under subsection (a) of this section with respect to an application to open an account under any open end consumer credit plan described in such subsection, the creditor or other person providing such disclosures to the consumer shall provide—
+**(e) Pamphlet** In addition to the disclosures required under subsection (a) with respect to an application to open an account under any open end consumer credit plan described in such subsection, the creditor or other person providing such disclosures to the consumer shall provide—
 
 (1) a pamphlet published by the Bureau pursuant to section 4 of the Home Equity 11 So in original. Probably should be followed by “Loan”. Consumer Protection Act of 1988; or
 
@@ -2217,7 +2220,7 @@ Pub. L. 100–709, § 4, Nov. 23, 1988, 102 Stat. 4733, provided that: “The Bo
 
 (2)
 
-  (A) The “amount financed”, using that term, which shall be the amount of credit of which the consumer has actual use. This amount shall be computed as follows, but the computations need not be disclosed and shall not be disclosed with the disclosures conspicuously segregated in accordance with subsection (b)(1) of this section:
+  (A) The “amount financed”, using that term, which shall be the amount of credit of which the consumer has actual use. This amount shall be computed as follows, but the computations need not be disclosed and shall not be disclosed with the disclosures conspicuously segregated in accordance with subsection (b)(1):
 
     (i) take the principal amount of the loan or the cash price less downpayment and trade-in;
 
@@ -2279,11 +2282,11 @@ Pub. L. 100–709, § 4, Nov. 23, 1988, 102 Stat. 4733, provided that: “The Bo
 
 **(b) Form and timing of disclosures; residential mortgage transaction requirements**
 
-(1) Except as otherwise provided in this part, the disclosures required under subsection (a) of this section shall be made before the credit is extended. Except for the disclosures required by subsection (a)(1) of this section, all disclosures required under subsection (a) of this section and any disclosure provided for in subsection (b), (c), or (d) of [section 1605 of this title](./chapter-041-consumer-credit-protection.md#section-1605) shall be conspicuously segregated from all other terms, data, or information provided in connection with a transaction, including any computations or itemization.
+(1) Except as otherwise provided in this part, the disclosures required under subsection (a) shall be made before the credit is extended. Except for the disclosures required by subsection (a)(1) of this section, all disclosures required under subsection (a) and any disclosure provided for in subsection (b), (c), or (d) of [section 1605 of this title](./chapter-041-consumer-credit-protection.md#section-1605) shall be conspicuously segregated from all other terms, data, or information provided in connection with a transaction, including any computations or itemization.
 
 (2)
 
-  (A) Except as provided in subparagraph (G), in the case of any extension of credit that is secured by the dwelling of a consumer, which is also subject to the Real Estate Settlement Procedures Act [[12 U.S.C. 2601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2601&num=0&edition=prelim) et seq.], good faith estimates of the disclosures required under subsection (a) of this section shall be made in accordance with regulations of the Bureau under [section 1631(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1631/c&num=0&edition=prelim) and shall be delivered or placed in the mail not later than three business days after the creditor receives the consumer’s written application, which shall be at least 7 business days before consummation of the transaction.
+  (A) Except as provided in subparagraph (G), in the case of any extension of credit that is secured by the dwelling of a consumer, which is also subject to the Real Estate Settlement Procedures Act [[12 U.S.C. 2601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2601&num=0&edition=prelim) et seq.], good faith estimates of the disclosures required under subsection (a) shall be made in accordance with regulations of the Bureau under [section 1631(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1631/c&num=0&edition=prelim) and shall be delivered or placed in the mail not later than three business days after the creditor receives the consumer’s written application, which shall be at least 7 business days before consummation of the transaction.
 
   (B) In the case of an extension of credit that is secured by the dwelling of a consumer, the disclosures provided under subparagraph (A),11 So in original. The comma probably should not appear. shall be in addition to the other disclosures required by subsection (a), and shall—
 
@@ -2319,7 +2322,7 @@ Pub. L. 100–709, § 4, Nov. 23, 1988, 102 Stat. 4733, provided that: “The Bo
 
     (ii) If a disclosure statement furnished within 3 business days of the written application (as provided under clause (i)(II)) contains an annual percentage rate which is subsequently rendered inaccurate, within the meaning of [section 1606(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1606/c&num=0&edition=prelim), the creditor shall furnish another disclosure statement at the time of settlement or consummation of the transaction.
 
-(3) In the case of a credit transaction described in paragraph (15) of subsection (a) of this section, disclosures required by that paragraph shall be made to the consumer at the time of application for such extension of credit.
+(3) In the case of a credit transaction described in paragraph (15) of subsection (a), disclosures required by that paragraph shall be made to the consumer at the time of application for such extension of credit.
 
 (4) **Repayment analysis required to include escrow payments.—**
 
@@ -2329,11 +2332,11 @@ Pub. L. 100–709, § 4, Nov. 23, 1988, 102 Stat. 4733, provided that: “The Bo
 
 **(c) Timing of disclosures on unsolicited mailed or telephone purchase orders or loan requests**
 
-(1) If a creditor receives a purchase order by mail or telephone without personal solicitation, and the cash price and the total sale price and the terms of financing, including the annual percentage rate, are set forth in the creditor’s catalog or other printed material distributed to the public, then the disclosures required under subsection (a) of this section may be made at any time not later than the date the first payment is due.
+(1) If a creditor receives a purchase order by mail or telephone without personal solicitation, and the cash price and the total sale price and the terms of financing, including the annual percentage rate, are set forth in the creditor’s catalog or other printed material distributed to the public, then the disclosures required under subsection (a) may be made at any time not later than the date the first payment is due.
 
-(2) If a creditor receives a request for a loan by mail or telephone without personal solicitation and the terms of financing, including the annual percentage rate for representative amounts of credit, are set forth in the creditor’s printed material distributed to the public, or in the contract of loan or other printed material delivered to the obligor, then the disclosures required under subsection (a) of this section may be made at any time not later than the date the first payment is due.
+(2) If a creditor receives a request for a loan by mail or telephone without personal solicitation and the terms of financing, including the annual percentage rate for representative amounts of credit, are set forth in the creditor’s printed material distributed to the public, or in the contract of loan or other printed material delivered to the obligor, then the disclosures required under subsection (a) may be made at any time not later than the date the first payment is due.
 
-**(d) Timing of disclosure in cases of an addition of a deferred payment price to an existing outstanding balance** If a consumer credit sale is one of a series of consumer credit sales transactions made pursuant to an agreement providing for the addition of the deferred payment price of that sale to an existing outstanding balance, and the person to whom the credit is extended has approved in writing both the annual percentage rate or rates and the method of computing the finance charge or charges, and the creditor retains no security interest in any property as to which he has received payments aggregating the amount of the sales price including any finance charges attributable thereto, then the disclosure required under subsection (a) of this section for the particular sale may be made at any time not later than the date the first payment for that sale is due. For the purposes of this subsection, in the case of items purchased on different dates, the first purchased shall be deemed first paid for, and in the case of items purchased on the same date, the lowest price shall be deemed first paid for.
+**(d) Timing of disclosure in cases of an addition of a deferred payment price to an existing outstanding balance** If a consumer credit sale is one of a series of consumer credit sales transactions made pursuant to an agreement providing for the addition of the deferred payment price of that sale to an existing outstanding balance, and the person to whom the credit is extended has approved in writing both the annual percentage rate or rates and the method of computing the finance charge or charges, and the creditor retains no security interest in any property as to which he has received payments aggregating the amount of the sales price including any finance charges attributable thereto, then the disclosure required under subsection (a) for the particular sale may be made at any time not later than the date the first payment for that sale is due. For the purposes of this subsection, in the case of items purchased on different dates, the first purchased shall be deemed first paid for, and in the case of items purchased on the same date, the lowest price shall be deemed first paid for.
 
 **(e) Terms and disclosure with respect to private education loans**
 
@@ -2367,9 +2370,9 @@ Pub. L. 100–709, § 4, Nov. 23, 1988, 102 Stat. 4733, provided that: “The Bo
 
   (L) that a covered educational institution may have school-specific education loan benefits and terms not detailed on the disclosure form;
 
-  (M) that the borrower may qualify for Federal student financial assistance through a program under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.) [and [42 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751&num=0&edition=prelim) et seq.], in lieu of, or in addition to, a loan from a non-Federal source;
+  (M) that the borrower may qualify for Federal student financial assistance through a program under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.), in lieu of, or in addition to, a loan from a non-Federal source;
 
-  (N) the interest rates available with respect to such Federal student financial assistance through a program under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.) [and [42 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751&num=0&edition=prelim) et seq.];
+  (N) the interest rates available with respect to such Federal student financial assistance through a program under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.);
 
   (O) that, as provided in paragraph (6)—
 
@@ -2415,11 +2418,11 @@ Pub. L. 100–709, § 4, Nov. 23, 1988, 102 Stat. 4733, provided that: “The Bo
 
   (M) that the borrower—
 
-    (i) may qualify for Federal financial assistance through a program under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.) [and [42 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751&num=0&edition=prelim) et seq.], in lieu of, or in addition to, a loan from a non-Federal source; and
+    (i) may qualify for Federal financial assistance through a program under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.), in lieu of, or in addition to, a loan from a non-Federal source; and
 
     (ii) may obtain additional information concerning such assistance from their institution of higher education or the website of the Department of Education;
 
-  (N) the interest rates available with respect to such Federal financial assistance through a program under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.) [and [42 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751&num=0&edition=prelim) et seq.];
+  (N) the interest rates available with respect to such Federal financial assistance through a program under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.);
 
   (O) the maximum monthly payment, calculated using the maximum rate of interest actually offered by the private educational lender and applicable to the borrower, to the extent that such maximum rate may be determined, or if not, a good faith estimate thereof; and
 
@@ -2504,7 +2507,7 @@ Pub. L. 100–709, § 4, Nov. 23, 1988, 102 Stat. 4733, provided that: “The Bo
 #### References in Text
 The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2)(A), probably refers to the Real Estate Settlement Procedures Act of 1974, Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2601&num=0&edition=prelim) and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (e)(1)(M), (N), (2)(M)(i), (N), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (e)(1)(M), (N), (2)(M)(i), (N), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2010—Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
@@ -2696,7 +2699,7 @@ Section effective on the date on which final regulations implementing such secti
 
 **(p) Discretionary regulatory authority of Bureau**
 
-(1) **Exemptions** — The Bureau may, by regulation or order, exempt specific mortgage products or categories of mortgages from any or all of the prohibitions specified in subsections (c) through (i) of this section, if the Bureau finds that the exemption—
+(1) **Exemptions** — The Bureau may, by regulation or order, exempt specific mortgage products or categories of mortgages from any or all of the prohibitions specified in subsections (c) through (i), if the Bureau finds that the exemption—
 
   (A) is in the interest of the borrowing public; and
 
@@ -3061,7 +3064,7 @@ Pub. L. 111–203, title XIV, § 1415, July 21, 2010, 124 Stat. 2153, provided t
 
     (iv) that is extended by a creditor that—
 
-      (I) operates predominantly in rural or underserved areas;
+      (I) operates in rural or underserved areas;
 
       (II) together with all affiliates, has total annual residential mortgage loan originations that do not exceed a limit set by the Bureau;
 
@@ -3181,6 +3184,8 @@ The National Housing Act, referred to in subsec. (b)(3)(B)(ii)(I), is act June 2
 The Mortgage Reform and Anti-Predatory Lending Act, referred to in subsec. (c)(2)(C), is title XIV of Pub. L. 111–203, July 21, 2010, 124 Stat. 2136. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under [section 1601 of this title](./chapter-041-consumer-credit-protection.md#section-1601) and Tables.
 
 #### Amendments
+2015—Subsec. (b)(2)(E)(iv)(I). Pub. L. 114–94 struck out “predominantly” after “operates”.
+
 2010—Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
 Subsec. (b). Pub. L. 111–203, § 1412, added subsec. (b).
@@ -3225,7 +3230,7 @@ Pub. L. 111–203, title XIV, § 1411(a)(1), July 21, 2010, 124 Stat. 2142, prov
 
 **(c) Exemptions** The Bureau may, by regulation, exempt from the requirements of subsection (a) a creditor that—
 
-(1) operates predominantly in rural or underserved areas;
+(1) operates in rural or underserved areas;
 
 (2) together with all affiliates, has total annual mortgage loan originations that do not exceed a limit set by the Bureau;
 
@@ -3320,6 +3325,8 @@ The Flood Disaster Protection Act of 1973, referred to in subsec. (g)(2)(B), is 
 The National Flood Insurance Act of 1968, referred to in subsec. (i)(1), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (c)(1). Pub. L. 114–94 struck out “predominantly” after “operates”.
+
 2010—Pub. L. 111–203, § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
 Subsec. (j). Pub. L. 111–203, § 1462, added subsec. (j).
@@ -3495,11 +3502,11 @@ Section effective on the date on which final regulations implementing such secti
 (4) in the case of a failure to comply with any requirement under [section 1639 of this title](./chapter-041-consumer-credit-protection.md#section-1639), paragraph (1) or (2) of [section 1639b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1639b/c&num=0&edition=prelim), or [section 1639c(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1639c/a&num=0&edition=prelim), an amount equal to the sum of all finance charges and fees paid by the consumer, unless the creditor demonstrates that the failure to comply is not material.
 In determining the amount of award in any class action, the court shall consider, among other relevant factors, the amount of any actual damages awarded, the frequency and persistence of failures of compliance by the creditor, the resources of the creditor, the number of persons adversely affected, and the extent to which the creditor’s failure of compliance was intentional. In connection with the disclosures referred to in subsections (a) and (b) of [section 1637 of this title](./chapter-041-consumer-credit-protection.md#section-1637), a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of [section 1635 of this title](./chapter-041-consumer-credit-protection.md#section-1635), 1637(a) 22 So in original. Probably should be preceded by “section”. of this title, or any of paragraphs (4) through (13) of [section 1637(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1637/b&num=0&edition=prelim), or for failing to comply with disclosure requirements under State law for any term or item that the Bureau has determined to be substantially the same in meaning under [section 1610(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1610/a/2&num=0&edition=prelim) as any of the terms or items referred to in [section 1637(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1637/a&num=0&edition=prelim), or any of paragraphs (4) through (13) of [section 1637(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1637/b&num=0&edition=prelim). In connection with the disclosures referred to in subsection (c) or (d) of [section 1637 of this title](./chapter-041-consumer-credit-protection.md#section-1637), a card issuer shall have a liability under this section only to a cardholder who pays a fee described in section 1637(c)(1)(A)(ii)(I) or [section 1637(c)(4)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1637/c/4/A/i&num=0&edition=prelim) or who uses the credit card or charge card. In connection with the disclosures referred to in [section 1638 of this title](./chapter-041-consumer-credit-protection.md#section-1638), a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of [section 1635 of this title](./chapter-041-consumer-credit-protection.md#section-1635), of paragraph (2) (insofar as it requires a disclosure of the “amount financed”), (3), (4), (5), (6), or (9) of [section 1638(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1638/a&num=0&edition=prelim), or [section 1638(b)(2)(C)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1638/b/2/C/ii&num=0&edition=prelim), of subparagraphs (A), (B), (D), (F), or (J) of [section 1638(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1638/e/2&num=0&edition=prelim) (for purposes of paragraph (2) or (4) of [section 1638(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1638/e&num=0&edition=prelim)), or paragraph (4)(C), (6), (7), or (8) of [section 1638(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1638/e&num=0&edition=prelim), or for failing to comply with disclosure requirements under State law for any term which the Bureau has determined to be substantially the same in meaning under [section 1610(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1610/a/2&num=0&edition=prelim) as any of the terms referred to in any of those paragraphs of [section 1638(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1638/a&num=0&edition=prelim) or [section 1638(b)(2)(C)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1638/b/2/C/ii&num=0&edition=prelim). With respect to any failure to make disclosures required under this part or part D or E of this subchapter, liability shall be imposed only upon the creditor required to make disclosure, except as provided in [section 1641 of this title](./chapter-041-consumer-credit-protection.md#section-1641).
 
-**(b) Correction of errors** A creditor or assignee has no liability under this section or [section 1607 of this title](./chapter-041-consumer-credit-protection.md#section-1607) or [section 1611 of this title](./chapter-041-consumer-credit-protection.md#section-1611) for any failure to comply with any requirement imposed under this part or part E of this subchapter, if within sixty days after discovering an error, whether pursuant to a final written examination report or notice issued under [section 1607(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1607/e/1&num=0&edition=prelim) or through the creditor’s or assignee’s own procedures, and prior to the institution of an action under this section or the receipt of written notice of the error from the obligor, the creditor or assignee notifies the person concerned of the error and makes whatever adjustments in the appropriate account are necessary to assure that the person will not be required to pay an amount in excess of the charge actually disclosed, or the dollar equivalent of the annual percentage rate actually disclosed, whichever is lower.
+**(b) Correction of errors** A creditor or assignee has no liability under this section or [section 1607 of this title](./chapter-041-consumer-credit-protection.md#section-1607) or [section 1611 of this title](./chapter-041-consumer-credit-protection.md#section-1611) for any failure to comply with any requirement imposed under this part or part E, if within sixty days after discovering an error, whether pursuant to a final written examination report or notice issued under [section 1607(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1607/e/1&num=0&edition=prelim) or through the creditor’s or assignee’s own procedures, and prior to the institution of an action under this section or the receipt of written notice of the error from the obligor, the creditor or assignee notifies the person concerned of the error and makes whatever adjustments in the appropriate account are necessary to assure that the person will not be required to pay an amount in excess of the charge actually disclosed, or the dollar equivalent of the annual percentage rate actually disclosed, whichever is lower.
 
 **(c) Unintentional violations; bona fide errors** A creditor or assignee may not be held liable in any action brought under this section or [section 1635 of this title](./chapter-041-consumer-credit-protection.md#section-1635) for a violation of this subchapter if the creditor or assignee shows by a preponderance of evidence that the violation was not intentional and resulted from a bona fide error notwithstanding the maintenance of procedures reasonably adapted to avoid any such error. Examples of a bona fide error include, but are not limited to, clerical, calculation, computer malfunction and programing, and printing errors, except that an error of legal judgment with respect to a person’s obligations under this subchapter is not a bona fide error.
 
-**(d) Liability in transaction or lease involving multiple obligors** When there are multiple obligors in a consumer credit transaction or consumer lease, there shall be no more than one recovery of damages under subsection (a)(2) of this section for a violation of this subchapter.
+**(d) Liability in transaction or lease involving multiple obligors** When there are multiple obligors in a consumer credit transaction or consumer lease, there shall be no more than one recovery of damages under subsection (a)(2) for a violation of this subchapter.
 
 **(e) Jurisdiction of courts; limitations on actions; State attorney general enforcement** Except as provided in the subsequent sentence, any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, within one year from the date of the occurrence of the violation or, in the case of a violation involving a private education loan (as that term is defined in [section 1650(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1650/a&num=0&edition=prelim)), 1 year from the date on which the first regular payment of principal is due under the loan. Any action under this section with respect to any violation of section 1639, 1639b, or 1639c of this title may be brought in any United States district court, or in any other court of competent jurisdiction, before the end of the 3-year period beginning on the date of the occurrence of the violation. This subsection does not bar a person from asserting a violation of this subchapter in an action to collect the debt which was brought more than one year from the date of the occurrence of the violation as a matter of defense by recoupment or set-off in such action, except as otherwise provided by State law. An action to enforce a violation of section 1639, 1639b, 1639c, 1639d, 1639e, 1639f, 1639g, or 1639h of this title may also be brought by the appropriate State attorney general in any appropriate United States district court, or any other court of competent jurisdiction, not later than 3 years after the date on which the violation occurs. The State attorney general shall provide prior written notice of any such civil action to the Federal agency responsible for enforcement under [section 1607 of this title](./chapter-041-consumer-credit-protection.md#section-1607) and shall provide the agency with a copy of the complaint. If prior notice is not feasible, the State attorney general shall provide notice to such agency immediately upon instituting the action. The Federal agency may—
 
@@ -3517,7 +3524,7 @@ In determining the amount of award in any class action, the court shall consider
 
 **(g) Recovery for multiple failures to disclose** The multiple failure to disclose to any person any information required under this part or part D or E of this subchapter to be disclosed in connection with a single account under an open end consumer credit plan, other single consumer credit sale, consumer loan, consumer lease, or other extension of consumer credit, shall entitle the person to a single recovery under this section but continued failure to disclose after a recovery has been granted shall give rise to rights to additional recoveries. This subsection does not bar any remedy permitted by [section 1635 of this title](./chapter-041-consumer-credit-protection.md#section-1635).
 
-**(h) Offset from amount owed to creditor or assignee; rights of defaulting consumer** A person may not take any action to offset any amount for which a creditor or assignee is potentially liable to such person under subsection (a)(2) of this section against any amount owed by such person, unless the amount of the creditor’s or assignee’s liability under this subchapter has been determined by judgment of a court of competent jurisdiction in an action of which such person was a party. This subsection does not bar a consumer then in default on the obligation from asserting a violation of this subchapter as an original action, or as a defense or counterclaim to an action to collect amounts owed by the consumer brought by a person liable under this subchapter.
+**(h) Offset from amount owed to creditor or assignee; rights of defaulting consumer** A person may not take any action to offset any amount for which a creditor or assignee is potentially liable to such person under subsection (a)(2) against any amount owed by such person, unless the amount of the creditor’s or assignee’s liability under this subchapter has been determined by judgment of a court of competent jurisdiction in an action of which such person was a party. This subsection does not bar a consumer then in default on the obligation from asserting a violation of this subchapter as an original action, or as a defense or counterclaim to an action to collect amounts owed by the consumer brought by a person liable under this subchapter.
 
 **(i) Class action moratorium**
 
@@ -3686,7 +3693,7 @@ Pub. L. 93–495, title IV, § 408(e), Oct. 28, 1974, 88 Stat. 1519, provided th
 ## § 1641. Liability of assignees
 **(a) Prerequisites** Except as otherwise specifically provided in this subchapter, any civil action for a violation of this subchapter or proceeding under [section 1607 of this title](./chapter-041-consumer-credit-protection.md#section-1607) which may be brought against a creditor may be maintained against any assignee of such creditor only if the violation for which such action or proceeding is brought is apparent on the face of the disclosure statement, except where the assignment was involuntary. For the purpose of this section, a violation apparent on the face of the disclosure statement includes, but is not limited to (1) a disclosure which can be determined to be incomplete or inaccurate from the face of the disclosure statement or other documents assigned, or (2) a disclosure which does not use the terms required to be used by this subchapter.
 
-**(b) Proof of compliance with statutory provisions** Except as provided in [section 1635(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1635/c&num=0&edition=prelim), in any action or proceeding by or against any subsequent assignee of the original creditor without knowledge to the contrary by the assignee when he acquires the obligation, written acknowledgement of receipt by a person to whom a statement is required to be given pursuant to this subchapter shall be conclusive proof of the delivery thereof and, except as provided in subsection (a) of this section, of compliance with this part. This section does not affect the rights of the obligor in any action against the original creditor.
+**(b) Proof of compliance with statutory provisions** Except as provided in [section 1635(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1635/c&num=0&edition=prelim), in any action or proceeding by or against any subsequent assignee of the original creditor without knowledge to the contrary by the assignee when he acquires the obligation, written acknowledgement of receipt by a person to whom a statement is required to be given pursuant to this subchapter shall be conclusive proof of the delivery thereof and, except as provided in subsection (a), of compliance with this part. This section does not affect the rights of the obligor in any action against the original creditor.
 
 **(c) Right of rescission by consumer unaffected** Any consumer who has the right to rescind a transaction under [section 1635 of this title](./chapter-041-consumer-credit-protection.md#section-1635) may rescind the transaction as against any assignee of the obligation.
 
@@ -3764,7 +3771,7 @@ Subsec. (f). Pub. L. 104–29, § 7(b), added subsec. (f).
 
 1994—Subsec. (d). Pub. L. 103–325 added subsec. (d).
 
-1980—Pub. L. 96–221 added subsecs. (a) and (c), designated existing provisions as subsec. (b), substituted “excepted as provided in subsection (a) of this section” for “unless the violation is apparent on the face of the statement”, and struck out exception for actions under [section 1640(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1640/d&num=0&edition=prelim).
+1980—Pub. L. 96–221 added subsecs. (a) and (c), designated existing provisions as subsec. (b), substituted “excepted as provided in subsection (a)” for “unless the violation is apparent on the face of the statement”, and struck out exception for actions under [section 1640(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1640/d&num=0&edition=prelim).
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
@@ -3804,7 +3811,7 @@ Pub. L. 91–508, title V, § 503(1), Oct. 26, 1970, 84 Stat. 1127, provided tha
 
 (2) For purposes of this section, a card issuer has been notified when such steps as may be reasonably required in the ordinary course of business to provide the card issuer with the pertinent information have been taken, whether or not any particular officer, employee, or agent of the card issuer does in fact receive such information.
 
-**(b) Burden of proof** In any action by a card issuer to enforce liability for the use of a credit card, the burden of proof is upon the card issuer to show that the use was authorized or, if the use was unauthorized, then the burden of proof is upon the card issuer to show that the conditions of liability for the unauthorized use of a credit card, as set forth in subsection (a) of this section, have been met.
+**(b) Burden of proof** In any action by a card issuer to enforce liability for the use of a credit card, the burden of proof is upon the card issuer to show that the use was authorized or, if the use was unauthorized, then the burden of proof is upon the card issuer to show that the conditions of liability for the unauthorized use of a credit card, as set forth in subsection (a), have been met.
 
 **(c) Liability imposed by other laws or by agreement with issuer** Nothing in this section imposes liability upon a cardholder for the unauthorized use of a credit card in excess of his liability for such use under other applicable law or under any agreement with the card issuer.
 
@@ -3885,7 +3892,7 @@ Section effective Oct. 28, 1974, see section 416 of Pub. L. 93–495, set out as
 
   (B) report such information semiannually to Congress.
 
-**(c) Implementation** The Bureau is authorized to enter into contracts or other arrangements with appropriate persons, organizations, or State agencies to carry out its functions under subsections (a) and (b) of this section and to furnish financial assistance in support thereof.
+**(c) Implementation** The Bureau is authorized to enter into contracts or other arrangements with appropriate persons, organizations, or State agencies to carry out its functions under subsections (a) and (b) and to furnish financial assistance in support thereof.
 
 ### Statutory Notes
 
@@ -3983,7 +3990,7 @@ For provisions relating to promulgation of regulations to implement amendment by
 
 (2) a statement that the consumer is not obligated to complete the reverse mortgage transaction merely because the consumer has received the disclosure required under this section or has signed an application for the reverse mortgage.
 
-**(b) Projected total cost** In determining the projected total cost of the mortgage to be disclosed to the consumer under subsection (a) of this section, the creditor shall take into account—
+**(b) Projected total cost** In determining the projected total cost of the mortgage to be disclosed to the consumer under subsection (a), the creditor shall take into account—
 
 (1) any shared appreciation or equity that the lender will, by contract, be entitled to receive;
 
@@ -4026,7 +4033,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
   (C) is greater than the amount or percentage required to be disclosed under this subchapter.
 
-**(b) Exceptions** Subsection (a) of this section shall not apply to—
+**(b) Exceptions** Subsection (a) shall not apply to—
 
 (1) any individual action or counterclaim brought under this subchapter which was filed before June 1, 1995;
 
@@ -4084,7 +4091,7 @@ Pub. L. 104–208, div. A, title II, § 2107(b), Sept. 30, 1996, 110 Stat. 3009�
 
       (I) applications for private education loans or private education loan volume;
 
-      (II) applications or loan volume for any loan made, insured, or guaranteed under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.) [and [42 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751&num=0&edition=prelim) et seq.]; or
+      (II) applications or loan volume for any loan made, insured, or guaranteed under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.); or
 
       (III) the purchase of a product or service of a specific private educational lender;
 
@@ -4110,7 +4117,7 @@ Pub. L. 104–208, div. A, title II, § 2107(b), Sept. 30, 1996, 110 Stat. 3009�
 
   (A) means a loan provided by a private educational lender that—
 
-    (i) is not made, insured, or guaranteed under of 11 So in original. The word “of” probably should not appear. title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.) [and [42 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751&num=0&edition=prelim) et seq.]; and
+    (i) is not made, insured, or guaranteed under of 11 So in original. The word “of” probably should not appear. title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.); and
 
     (ii) is issued expressly for postsecondary educational expenses to a borrower, regardless of whether the loan is provided through the educational institution that the subject student attends or directly to the borrower from the private educational lender; and
 
@@ -4159,7 +4166,7 @@ Pub. L. 104–208, div. A, title II, § 2107(b), Sept. 30, 1996, 110 Stat. 3009�
 ### Statutory Notes
 
 #### References in Text
-The Higher Education Act of 1965, referred to in subsec. (a)(2)(B)(iv)(II), (7)(A)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(2)(B)(iv)(II), (7)(A)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2010—Subsec. (f)(2)(B). Pub. L. 111–203 substituted “Bureau” for “Board”.
@@ -4243,7 +4250,7 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 <a id="section-1664"></a>
 ## § 1664. Advertising of credit other than open end plans
-**(a) Exclusion of open end credit plans** Except as provided in subsection (b) of this section, this section applies to any advertisement to aid, promote, or assist directly or indirectly any consumer credit sale, loan, or other extension of credit subject to the provisions of this subchapter, other than an open end credit plan.
+**(a) Exclusion of open end credit plans** Except as provided in subsection (b), this section applies to any advertisement to aid, promote, or assist directly or indirectly any consumer credit sale, loan, or other extension of credit subject to the provisions of this subchapter, other than an open end credit plan.
 
 **(b) Advertisements of residential real estate** The provisions of this section do not apply to advertisements of residential real estate except to the extent that the Bureau may by regulation require.
 
@@ -4324,25 +4331,25 @@ Pub. L. 93–495, title IV, § 416, Oct. 28, 1974, 88 Stat. 1521, provided that:
 
 **(b) Tax deductibility**
 
-(1) **In general** — If any advertisement described in subsection (a) of this section contains a statement that any interest expense incurred with respect to the plan is or may be tax deductible, the advertisement shall not be misleading with respect to such deductibility.
+(1) **In general** — If any advertisement described in subsection (a) contains a statement that any interest expense incurred with respect to the plan is or may be tax deductible, the advertisement shall not be misleading with respect to such deductibility.
 
-(2) **Credit in excess of fair market value** — Each advertisement described in subsection (a) of this section that relates to an extension of credit that may exceed the fair market value of the dwelling, and which advertisement is disseminated in paper form to the public or through the Internet, as opposed to by radio or television, shall include a clear and conspicuous statement that—
+(2) **Credit in excess of fair market value** — Each advertisement described in subsection (a) that relates to an extension of credit that may exceed the fair market value of the dwelling, and which advertisement is disseminated in paper form to the public or through the Internet, as opposed to by radio or television, shall include a clear and conspicuous statement that—
 
   (A) the interest on the portion of the credit extension that is greater than the fair market value of the dwelling is not tax deductible for Federal income tax purposes; and
 
   (B) the consumer should consult a tax adviser for further information regarding the deductibility of interest and charges.
 
-**(c) Certain terms prohibited** No advertisement described in subsection (a) of this section with respect to any home equity account may refer to such loan as “free money” or use other terms determined by the Bureau by regulation to be misleading.
+**(c) Certain terms prohibited** No advertisement described in subsection (a) with respect to any home equity account may refer to such loan as “free money” or use other terms determined by the Bureau by regulation to be misleading.
 
 **(d) Discounted initial rate**
 
-(1) **In general** — If any advertisement described in subsection (a) of this section includes an initial annual percentage rate that is not determined by the index or formula used to make later interest rate adjustments, the advertisement shall also state with equal prominence the current annual percentage rate that would have been applied using the index or formula if such initial rate had not been offered.
+(1) **In general** — If any advertisement described in subsection (a) includes an initial annual percentage rate that is not determined by the index or formula used to make later interest rate adjustments, the advertisement shall also state with equal prominence the current annual percentage rate that would have been applied using the index or formula if such initial rate had not been offered.
 
 (2) **Quoted rate must be reasonably current** — The annual percentage rate required to be disclosed under the paragraph (1) rate must be current as of a reasonable time given the media involved.
 
 (3) **Period during which initial rate is in effect** — Any advertisement to which paragraph (1) applies shall also state the period of time during which the initial annual percentage rate referred to in such paragraph will be in effect.
 
-**(e) Balloon payment** If any advertisement described in subsection (a) of this section contains a statement regarding the minimum monthly payment under the plan, the advertisement shall also disclose, if applicable, the fact that the plan includes a balloon payment.
+**(e) Balloon payment** If any advertisement described in subsection (a) contains a statement regarding the minimum monthly payment under the plan, the advertisement shall also disclose, if applicable, the fact that the plan includes a balloon payment.
 
 **(f) “Balloon payment” defined** For purposes of this section and [section 1637a of this title](./chapter-041-consumer-credit-protection.md#section-1637a), the term “balloon payment” means, with respect to any open end consumer credit plan under which extensions of credit are secured by the consumer’s principal dwelling, any repayment option under which—
 
@@ -4479,14 +4486,14 @@ After complying with the provisions of this subsection with respect to an allege
 
 (7) Any other error described in regulations of the Bureau.
 
-**(c) Action by creditor to collect amount or any part thereof regarded by obligor to be a billing error** For the purposes of this section, “action to collect the amount, or any part thereof, indicated by an obligor under paragraph (2)” does not include the sending of statements of account, which may include finance charges on amounts in dispute, to the obligor following written notice from the obligor as specified under subsection (a) of this section, if—
+**(c) Action by creditor to collect amount or any part thereof regarded by obligor to be a billing error** For the purposes of this section, “action to collect the amount, or any part thereof, indicated by an obligor under paragraph (2)” does not include the sending of statements of account, which may include finance charges on amounts in dispute, to the obligor following written notice from the obligor as specified under subsection (a), if—
 
-(1) the obligor’s account is not restricted or closed because of the failure of the obligor to pay the amount indicated under paragraph (2) of subsection (a) of this section, and
+(1) the obligor’s account is not restricted or closed because of the failure of the obligor to pay the amount indicated under paragraph (2) of subsection (a), and
 
 (2) the creditor indicates the payment of such amount is not required pending the creditor’s compliance with this section.
 Nothing in this section shall be construed to prohibit any action by a creditor to collect any amount which has not been indicated by the obligor to contain a billing error.
 
-**(d) Restricting or closing by creditor of account regarded by obligor to contain a billing error** Pursuant to regulations of the Bureau, a creditor operating an open end consumer credit plan may not, prior to the sending of the written explanation or clarification required under paragraph (B)(ii), restrict or close an account with respect to which the obligor has indicated pursuant to subsection (a) of this section that he believes such account to contain a billing error solely because of the obligor’s failure to pay the amount indicated to be in error. Nothing in this subsection shall be deemed to prohibit a creditor from applying against the credit limit on the obligor’s account the amount indicated to be in error.
+**(d) Restricting or closing by creditor of account regarded by obligor to contain a billing error** Pursuant to regulations of the Bureau, a creditor operating an open end consumer credit plan may not, prior to the sending of the written explanation or clarification required under paragraph (B)(ii), restrict or close an account with respect to which the obligor has indicated pursuant to subsection (a) that he believes such account to contain a billing error solely because of the obligor’s failure to pay the amount indicated to be in error. Nothing in this subsection shall be deemed to prohibit a creditor from applying against the credit limit on the obligor’s account the amount indicated to be in error.
 
 **(e) Effect of noncompliance with requirements by creditor** Any creditor who fails to comply with the requirements of this section or [section 1666a of this title](./chapter-041-consumer-credit-protection.md#section-1666a) forfeits any right to collect from the obligor the amount indicated by the obligor under paragraph (2) of subsection (a) of this section, and any finance charges thereon, except that the amount required to be forfeited under this subsection may not exceed $50.
 
@@ -4523,7 +4530,7 @@ Title III of Pub. L. 93–495, which is classified principally to this part, is 
 
 **(b) Reports by creditor on delinquent amounts in dispute; notification of obligor of parties notified of delinquency** If a creditor receives a further written notice from an obligor that an amount is still in dispute within the time allowed for payment under subsection (a) of this section, a creditor may not report to any third party that the amount of the obligor is delinquent because the obligor has failed to pay an amount which he has indicated under [section 1666(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1666/a/2&num=0&edition=prelim), unless the creditor also reports that the amount is in dispute and, at the same time, notifies the obligor of the name and address of each party to whom the creditor is reporting information concerning the delinquency.
 
-**(c) Reports by creditor of subsequent resolution of delinquent amounts** A creditor shall report any subsequent resolution of any delinquencies reported pursuant to subsection (b) of this section to the parties to whom such delinquencies were initially reported.
+**(c) Reports by creditor of subsequent resolution of delinquent amounts** A creditor shall report any subsequent resolution of any delinquencies reported pursuant to subsection (b) to the parties to whom such delinquencies were initially reported.
 
 
 <a id="section-1666b"></a>
@@ -4647,7 +4654,7 @@ For effective date of this section, referred to in subsec. (a), see Effective Da
 
 <a id="section-1666i"></a>
 ## § 1666i. Assertion by cardholder against card issuer of claims and defenses arising out of credit card transaction; prerequisites; limitation on amount of claims or defenses
-**(a) Claims and defenses assertible** Subject to the limitation contained in subsection (b) of this section, a card issuer who has issued a credit card to a cardholder pursuant to an open end consumer credit plan shall be subject to all claims (other than tort claims) and defenses arising out of any transaction in which the credit card is used as a method of payment or extension of credit if (1) the obligor has made a good faith attempt to obtain satisfactory resolution of a disagreement or problem relative to the transaction from the person honoring the credit card; (2) the amount of the initial transaction exceeds $50; and (3) the place where the initial transaction occurred was in the same State as the mailing address previously provided by the cardholder or was within 100 miles from such address, except that the limitations set forth in clauses (2) and (3) with respect to an obligor’s right to assert claims and defenses against a card issuer shall not be applicable to any transaction in which the person honoring the credit card (A) is the same person as the card issuer, (B) is controlled by the card issuer, (C) is under direct or indirect common control with the card issuer, (D) is a franchised dealer in the card issuer’s products or services, or (E) has obtained the order for such transaction through a mail solicitation made by or participated in by the card issuer in which the cardholder is solicited to enter into such transaction by using the credit card issued by the card issuer.
+**(a) Claims and defenses assertible** Subject to the limitation contained in subsection (b), a card issuer who has issued a credit card to a cardholder pursuant to an open end consumer credit plan shall be subject to all claims (other than tort claims) and defenses arising out of any transaction in which the credit card is used as a method of payment or extension of credit if (1) the obligor has made a good faith attempt to obtain satisfactory resolution of a disagreement or problem relative to the transaction from the person honoring the credit card; (2) the amount of the initial transaction exceeds $50; and (3) the place where the initial transaction occurred was in the same State as the mailing address previously provided by the cardholder or was within 100 miles from such address, except that the limitations set forth in clauses (2) and (3) with respect to an obligor’s right to assert claims and defenses against a card issuer shall not be applicable to any transaction in which the person honoring the credit card (A) is the same person as the card issuer, (B) is controlled by the card issuer, (C) is under direct or indirect common control with the card issuer, (D) is a franchised dealer in the card issuer’s products or services, or (E) has obtained the order for such transaction through a mail solicitation made by or participated in by the card issuer in which the cardholder is solicited to enter into such transaction by using the credit card issued by the card issuer.
 
 **(b) Amount of claims and defenses assertible** The amount of claims or defenses asserted by the cardholder may not exceed the amount of credit outstanding with respect to such transaction at the time the cardholder first notifies the card issuer or the person honoring the credit card of such claim or defense. For the purpose of determining the amount of credit outstanding in the preceding sentence, payments and credits to the cardholder’s account are deemed to have been applied, in the order indicated, to the payment of: (1) late charges in the order of their entry to the account; (2) finance charges in order of their entry to the account; and (3) debits to the account other than those set forth above, in the order in which each debit entry to the account was made.
 
@@ -4841,9 +4848,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **(c) Radio advertisements**
 
-(1) **In general** — An advertisement by radio broadcast to aid, promote, or assist, directly or indirectly, any consumer lease shall be deemed to be in compliance with the requirements of subsection (a) of this section if such advertisement clearly and conspicuously—
+(1) **In general** — An advertisement by radio broadcast to aid, promote, or assist, directly or indirectly, any consumer lease shall be deemed to be in compliance with the requirements of subsection (a) if such advertisement clearly and conspicuously—
 
-  (A) states the information required by paragraphs (1) and (2) of subsection (a) of this section;
+  (A) states the information required by paragraphs (1) and (2) of subsection (a);
 
   (B) states the number, amounts, due dates or periods of scheduled payments, and the total of such payments under the lease;
 
@@ -4851,13 +4858,13 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
     (i) a referral to—
 
-      (I) a toll-free telephone number established in accordance with paragraph (2) that may be used by consumers to obtain the information required under subsection (a) of this section; or
+      (I) a toll-free telephone number established in accordance with paragraph (2) that may be used by consumers to obtain the information required under subsection (a); or
 
       (II) a written advertisement that—
 
         (aa) appears in a publication in general circulation in the community served by the radio station on which such advertisement is broadcast during the period beginning 3 days before any such broadcast and ending 10 days after such broadcast; and
 
-        (bb) includes the information required to be disclosed under subsection (a) of this section; and
+        (bb) includes the information required to be disclosed under subsection (a); and
 
     (ii) the name and dates of any publication referred to in clause (i)(II); and
 
@@ -4871,7 +4878,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
     (ii) maintain such telephone number for a period of not less than 10 days, beginning on the date of any such broadcast; and
 
-    (iii) provide the information required under subsection (a) of this section with respect to the lease to any person who calls such number.
+    (iii) provide the information required under subsection (a) with respect to the lease to any person who calls such number.
 
   (B) *Form of information* — The information required to be provided under subparagraph (A)(iii) shall be provided verbally or, if requested by the consumer, in written form.
 
@@ -5000,7 +5007,7 @@ For the purposes of this subchapter:
 
 <a id="section-1673"></a>
 ## § 1673. Restriction on garnishment
-**(a) Maximum allowable garnishment** Except as provided in subsection (b) of this section and in [section 1675 of this title](./chapter-041-consumer-credit-protection.md#section-1675), the maximum part of the aggregate disposable earnings of an individual for any workweek which is subjected to garnishment may not exceed
+**(a) Maximum allowable garnishment** Except as provided in subsection (b) and in [section 1675 of this title](./chapter-041-consumer-credit-protection.md#section-1675), the maximum part of the aggregate disposable earnings of an individual for any workweek which is subjected to garnishment may not exceed
 
 (1) 25 per centum of his disposable earnings for that week, or
 
@@ -5009,7 +5016,7 @@ whichever is less. In the case of earnings for any pay period other than a week,
 
 **(b) Exceptions**
 
-(1) The restrictions of subsection (a) of this section do not apply in the case of
+(1) The restrictions of subsection (a) do not apply in the case of
 
   (A) any order for the support of any person issued by a court of competent jurisdiction or in accordance with an administrative procedure, which is established by State law, which affords substantial due process, and which is subject to judicial review.
 
@@ -5095,8 +5102,8 @@ This subchapter does not annul, alter, or affect, or exempt any person from comp
 #### Prior Provisions
 A prior title IV of Pub. L. 90–321, May 29, 1968, 82 Stat. 164, as amended by Pub. L. 91–344, July 20, 1970, 84 Stat. 440; Pub. L. 92–321, June 30, 1972, 86 Stat. 382, which was set out as a note under [section 1601 of this title](./chapter-041-consumer-credit-protection.md#section-1601), established a bipartisan National Commission on Consumer Finance to study the functioning and structure of the consumer finance industry as well as consumer credit transactions generally. The Commission was to submit a final report by Dec. 31, 1972, and was to cease to exist thereafter.
 
-#### Effective Date of Subchapter
-Section 413 of title IV of Pub. L. 90–321, as added by Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–462, provided that: “This title [enacting this subchapter] shall apply after the end of the 6-month period beginning on the date of the enactment of the Credit Repair Organizations Act [Sept. 30, 1996], except with respect to contracts entered into by a credit repair organization before the end of such period.”
+#### Effective Date
+Pub. L. 90–321, title IV, § 413, as added by Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–462, provided that: “This title [enacting this subchapter] shall apply after the end of the 6-month period beginning on the date of the enactment of the Credit Repair Organizations Act [Sept. 30, 1996], except with respect to contracts entered into by a credit repair organization before the end of such period.”
 
 #### Short Title
 This subchapter known as the “Credit Repair Organizations Act”, see Short Title note set out under [section 1601 of this title](./chapter-041-consumer-credit-protection.md#section-1601).
@@ -5137,6 +5144,9 @@ For purposes of this subchapter, the following definitions apply:
 #### Prior Provisions
 For a prior section 403 of Pub. L. 90–321, see note set out under [section 1679 of this title](./chapter-041-consumer-credit-protection.md#section-1679).
 
+#### Effective Date
+Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under [section 1679 of this title](./chapter-041-consumer-credit-protection.md#section-1679).
+
 
 <a id="section-1679b"></a>
 ## § 1679b. Prohibited practices
@@ -5173,6 +5183,9 @@ For a prior section 403 of Pub. L. 90–321, see note set out under [section 167
 #### Prior Provisions
 For a prior section 404 of Pub. L. 90–321, see note set out under [section 1679 of this title](./chapter-041-consumer-credit-protection.md#section-1679).
 
+#### Effective Date
+Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under [section 1679 of this title](./chapter-041-consumer-credit-protection.md#section-1679).
+
 
 <a id="section-1679c"></a>
 ## § 1679c. Disclosures
@@ -5194,16 +5207,19 @@ The Credit Repair Organization Act, referred to in subsec. (a), probably means t
 #### Prior Provisions
 For a prior section 405 of Pub. L. 90–321, see note set out under [section 1679 of this title](./chapter-041-consumer-credit-protection.md#section-1679).
 
+#### Effective Date
+Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under [section 1679 of this title](./chapter-041-consumer-credit-protection.md#section-1679).
+
 
 <a id="section-1679d"></a>
 ## § 1679d. Credit repair organizations contracts
 **(a) Written contracts required** No services may be provided by any credit repair organization for any consumer—
 
-(1) unless a written and dated contract (for the purchase of such services) which meets the requirements of subsection (b) of this section has been signed by the consumer; or
+(1) unless a written and dated contract (for the purchase of such services) which meets the requirements of subsection (b) has been signed by the consumer; or
 
 (2) before the end of the 3-business-day period beginning on the date the contract is signed.
 
-**(b) Terms and conditions of contract** No contract referred to in subsection (a) of this section meets the requirements of this subsection unless such contract includes (in writing)—
+**(b) Terms and conditions of contract** No contract referred to in subsection (a) meets the requirements of this subsection unless such contract includes (in writing)—
 
 (1) the terms and conditions of payment, including the total amount of all payments to be made by the consumer to the credit repair organization or to any other person;
 
@@ -5226,6 +5242,9 @@ For a prior section 405 of Pub. L. 90–321, see note set out under [section 167
 #### Prior Provisions
 For a prior section 406 of Pub. L. 90–321, see note set out under [section 1679 of this title](./chapter-041-consumer-credit-protection.md#section-1679).
 
+#### Effective Date
+Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under [section 1679 of this title](./chapter-041-consumer-credit-protection.md#section-1679).
+
 
 <a id="section-1679e"></a>
 ## § 1679e. Right to cancel contract
@@ -5245,6 +5264,9 @@ at the time the contract or the other document is signed.
 #### Prior Provisions
 For a prior section 407 of Pub. L. 90–321, see note set out under [section 1679 of this title](./chapter-041-consumer-credit-protection.md#section-1679).
 
+#### Effective Date
+Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under [section 1679 of this title](./chapter-041-consumer-credit-protection.md#section-1679).
+
 
 <a id="section-1679f"></a>
 ## § 1679f. Noncompliance with this subchapter
@@ -5261,6 +5283,11 @@ For a prior section 407 of Pub. L. 90–321, see note set out under [section 167
 (1) shall be treated as void; and
 
 (2) may not be enforced by any Federal or State court or any other person.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under [section 1679 of this title](./chapter-041-consumer-credit-protection.md#section-1679).
 
 
 <a id="section-1679g"></a>
@@ -5285,7 +5312,7 @@ For a prior section 407 of Pub. L. 90–321, see note set out under [section 167
 
 (3) **Attorneys’ fees** — In the case of any successful action to enforce any liability under paragraph (1) or (2), the costs of the action, together with reasonable attorneys’ fees.
 
-**(b) Factors to be considered in awarding punitive damages** In determining the amount of any liability of any credit repair organization under subsection (a)(2) of this section, the court shall consider, among other relevant factors—
+**(b) Factors to be considered in awarding punitive damages** In determining the amount of any liability of any credit repair organization under subsection (a)(2), the court shall consider, among other relevant factors—
 
 (1) the frequency and persistence of noncompliance by the credit repair organization;
 
@@ -5294,6 +5321,11 @@ For a prior section 407 of Pub. L. 90–321, see note set out under [section 167
 (3) the extent to which such noncompliance was intentional; and
 
 (4) in the case of any class action, the number of consumers adversely affected.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under [section 1679 of this title](./chapter-041-consumer-credit-protection.md#section-1679).
 
 
 <a id="section-1679h"></a>
@@ -5341,6 +5373,9 @@ For a prior section 407 of Pub. L. 90–321, see note set out under [section 167
 #### References in Text
 The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
+#### Effective Date
+Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under [section 1679 of this title](./chapter-041-consumer-credit-protection.md#section-1679).
+
 
 <a id="section-1679i"></a>
 ## § 1679i. Statute of limitations
@@ -5356,11 +5391,21 @@ Any action to enforce any liability under this subchapter may be brought before 
   (B) is material to the establishment of the credit repair organization’s liability to the consumer under this subchapter,
   the end of the 5-year period beginning on the date of the discovery by the consumer of the misrepresentation.
 
+### Statutory Notes
+
+#### Effective Date
+Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under [section 1679 of this title](./chapter-041-consumer-credit-protection.md#section-1679).
+
 
 <a id="section-1679j"></a>
 ## § 1679j. Relation to State law
 
 This subchapter shall not annul, alter, affect, or exempt any person subject to the provisions of this subchapter from complying with any law of any State except to the extent that such law is inconsistent with any provision of this subchapter, and then only to the extent of the inconsistency.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under [section 1679 of this title](./chapter-041-consumer-credit-protection.md#section-1679).
 
 
 <a id="section-1681"></a>
@@ -5385,7 +5430,7 @@ Pub. L. 108–159, § 3, Dec. 4, 2003, 117 Stat. 1953, provided that: “Except 
 [For final rules adopted by Board of Governors of the Federal Reserve System and Federal Trade Commission establishing effective dates for provisions of Pub. L. 108–159, see 68 F.R. 74467 (joint interim final rules) and 69 F.R. 6526 (joint final rules).]
 
 #### Effective Date
-Section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 602, Oct. 26, 1970, 84 Stat. 1136, provided that: “Title VI [enacting this subchapter] takes effect upon the expiration of one hundred and eighty days following the date of its enactment [Oct. 26, 1970].”
+Pub. L. 90–321, title V, § 504(d), as added by Pub. L. 91–508, title VI, § 602, Oct. 26, 1970, 84 Stat. 1136, provided that: “Title VI [enacting this subchapter] takes effect upon the expiration of one hundred and eighty days following the date of its enactment [Oct. 26, 1970].”
 
 #### Short Title
 This subchapter known as the “Fair Credit Reporting Act”, see Short Title note set out under [section 1601 of this title](./chapter-041-consumer-credit-protection.md#section-1601).
@@ -5435,7 +5480,7 @@ Pub. L. 108–159, § 2, Dec. 4, 2003, 117 Stat. 1953, provided that: “As used
 
   (C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his or her decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made, and such person makes the disclosures to the consumer required under [section 1681m of this title](./chapter-041-consumer-credit-protection.md#section-1681m); or
 
-  (D) a communication described in subsection (o) or (x) 11 See References in Text note below. of this section.
+  (D) a communication described in subsection (o) or (x).11 See References in Text note below.
 
 (3) **Restriction on sharing of medical information.—** — Except for information or any communication of information disclosed as provided in [section 1681b(g)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681b/g/3&num=0&edition=prelim), the exclusions in paragraph (2) shall not apply with respect to information disclosed to any person related by common ownership or affiliated by corporate control, if the information is—
 
@@ -5523,7 +5568,7 @@ Pub. L. 108–159, § 2, Dec. 4, 2003, 117 Stat. 1953, provided that: “As used
 
 **(o) Excluded Communications.—** A communication is described in this subsection if it is a communication—
 
-(1) that, but for subsection (d)(2)(D) of this section, would be an investigative consumer report;
+(1) that, but for subsection (d)(2)(D), would be an investigative consumer report;
 
 (2) that is made to a prospective employer for the purpose of—
 
@@ -5631,7 +5676,7 @@ Pub. L. 108–159, § 2, Dec. 4, 2003, 117 Stat. 1953, provided that: “As used
 
 (1) **Communications described in this subsection.—** — A communication is described in this subsection if—
 
-  (A) but for subsection (d)(2)(D) of this section, the communication would be a consumer report;
+  (A) but for subsection (d)(2)(D), the communication would be a consumer report;
 
   (B) the communication is made to an employer in connection with an investigation of—
 
@@ -5653,7 +5698,7 @@ Pub. L. 108–159, § 2, Dec. 4, 2003, 117 Stat. 1953, provided that: “As used
 
     (v) pursuant to [section 1681f of this title](./chapter-041-consumer-credit-protection.md#section-1681f).
 
-(2) **Subsequent disclosure.—** — After taking any adverse action based in whole or in part on a communication described in paragraph (1), the employer shall disclose to the consumer a summary containing the nature and substance of the communication upon which the adverse action is based, except that the sources of information acquired solely for use in preparing what would be but for subsection (d)(2)(D) of this section an investigative consumer report need not be disclosed.
+(2) **Subsequent disclosure.—** — After taking any adverse action based in whole or in part on a communication described in paragraph (1), the employer shall disclose to the consumer a summary containing the nature and substance of the communication upon which the adverse action is based, except that the sources of information acquired solely for use in preparing what would be but for subsection (d)(2)(D) an investigative consumer report need not be disclosed.
 
 (3) **Self-regulatory organization defined.—** — For purposes of this subsection, the term “self-regulatory organization” includes any self-regulatory organization (as defined in [section 78c(a)(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a/26&num=0&edition=prelim)), any entity established under title I of the Sarbanes-Oxley Act of 2002 [[15 U.S.C. 7211](./chapter-098-public-company-accounting-reform-and-corporate-responsibility.md#section-7211) et seq.], any board of trade designated by the Commodity Futures Trading Commission, and any futures association registered with such Commission.
 
@@ -5728,13 +5773,16 @@ Pub. L. 104–208, div. A, title II, § 2420, Sept. 30, 1996, 110 Stat. 3009–4
 #### Effective Date of 1992 Amendment
 Pub. L. 102–537, § 2(d), Oct. 27, 1992, 106 Stat. 3532, provided that: “The amendments made by this section [enacting [section 1681s–1 of this title](./chapter-041-consumer-credit-protection.md#section-1681s-1) and amending this section] shall take effect on January 1, 1993.”
 
+#### Effective Date
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
+
 #### Construction of 1996 Amendment
 Pub. L. 104–208, div. A, title II, § 2421, Sept. 30, 1996, 110 Stat. 3009–454, provided that: “Nothing in this chapter [chapter 1 (§§ 2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208, see Short Title of 1996 Amendment note set out under [section 1601 of this title](./chapter-041-consumer-credit-protection.md#section-1601)] or the amendments made by this chapter shall be considered to supersede or otherwise affect [section 2721 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2721&num=0&edition=prelim), United States Code, with respect to motor vehicle records for surveys, marketing, or solicitations.”
 
 
 <a id="section-1681b"></a>
 ## § 1681b. Permissible purposes of consumer reports
-**(a) In general** Subject to subsection (c) of this section, any consumer reporting agency may furnish a consumer report under the following circumstances and no other:
+**(a) In general** Subject to subsection (c), any consumer reporting agency may furnish a consumer report under the following circumstances and no other:
 
 (1) In response to the order of a court having jurisdiction to issue such an order, or a subpoena issued in connection with proceedings before a Federal grand jury.
 
@@ -5762,13 +5810,11 @@ Pub. L. 104–208, div. A, title II, § 2421, Sept. 30, 1996, 110 Stat. 3009–4
 
 (4) In response to a request by the head of a State or local child support enforcement agency (or a State or local government official authorized by the head of such an agency), if the person making the request certifies to the consumer reporting agency that—
 
-  (A) the consumer report is needed for the purpose of establishing an individual’s capacity to make child support payments or determining the appropriate level of such payments;
+  (A) the consumer report is needed for the purpose of establishing an individual’s capacity to make child support payments, determining the appropriate level of such payments, or enforcing a child support order, award, agreement, or judgment;
 
-  (B) the paternity of the consumer for the child to which the obligation relates has been established or acknowledged by the consumer in accordance with State laws under which the obligation arises (if required by those laws);
+  (B) the parentage of the consumer for the child to which the obligation relates has been established or acknowledged by the consumer in accordance with State laws under which the obligation arises (if required by those laws); and
 
-  (C) the person has provided at least 10 days’ prior notice to the consumer whose report is requested, by certified or registered mail to the last known address of the consumer, that the report will be requested; and
-
-  (D) the consumer report will be kept confidential, will be used solely for a purpose described in subparagraph (A), and will not be used in connection with any other civil, administrative, or criminal proceeding, or for any other purpose.
+  (C) the consumer report will be kept confidential, will be used solely for a purpose described in subparagraph (A), and will not be used in connection with any other civil, administrative, or criminal proceeding, or for any other purpose.
 
 (5) To an agency administering a State plan under [section 654 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section654&num=0&edition=prelim) for use to set an initial or modified child support award.
 
@@ -5874,7 +5920,7 @@ Pub. L. 104–208, div. A, title II, § 2421, Sept. 30, 1996, 110 Stat. 3009–4
 
 **(c) Furnishing reports in connection with credit or insurance transactions that are not initiated by consumer**
 
-(1) **In general** — A consumer reporting agency may furnish a consumer report relating to any consumer pursuant to subparagraph (A) or (C) of subsection (a)(3) of this section in connection with any credit or insurance transaction that is not initiated by the consumer only if—
+(1) **In general** — A consumer reporting agency may furnish a consumer report relating to any consumer pursuant to subparagraph (A) or (C) of subsection (a)(3) in connection with any credit or insurance transaction that is not initiated by the consumer only if—
 
   (A) the consumer authorizes the agency to provide such report to such person; or
 
@@ -5882,9 +5928,9 @@ Pub. L. 104–208, div. A, title II, § 2421, Sept. 30, 1996, 110 Stat. 3009–4
 
     (i) the transaction consists of a firm offer of credit or insurance;
 
-    (ii) the consumer reporting agency has complied with subsection (e) of this section;
+    (ii) the consumer reporting agency has complied with subsection (e);
 
-    (iii) there is not in effect an election by the consumer, made in accordance with subsection (e) of this section, to have the consumer’s name and address excluded from lists of names provided by the agency pursuant to this paragraph; and
+    (iii) there is not in effect an election by the consumer, made in accordance with subsection (e), to have the consumer’s name and address excluded from lists of names provided by the agency pursuant to this paragraph; and
 
     (iv) the consumer report does not contain a date of birth that shows that the consumer has not attained the age of 21, or, if the date of birth on the consumer report shows that the consumer has not attained the age of 21, such consumer consents to the consumer reporting agency to such furnishing.
 
@@ -5902,7 +5948,7 @@ Pub. L. 104–208, div. A, title II, § 2421, Sept. 30, 1996, 110 Stat. 3009–4
 
 **(e) Election of consumer to be excluded from lists**
 
-(1) **In general** — A consumer may elect to have the consumer’s name and address excluded from any list provided by a consumer reporting agency under subsection (c)(1)(B) of this section in connection with a credit or insurance transaction that is not initiated by the consumer, by notifying the agency in accordance with paragraph (2) that the consumer does not consent to any use of a consumer report relating to the consumer in connection with any credit or insurance transaction that is not initiated by the consumer.
+(1) **In general** — A consumer may elect to have the consumer’s name and address excluded from any list provided by a consumer reporting agency under subsection (c)(1)(B) in connection with a credit or insurance transaction that is not initiated by the consumer, by notifying the agency in accordance with paragraph (2) that the consumer does not consent to any use of a consumer report relating to the consumer in connection with any credit or insurance transaction that is not initiated by the consumer.
 
 (2) **Manner of notification** — A consumer shall notify a consumer reporting agency under paragraph (1)—
 
@@ -5932,7 +5978,7 @@ Pub. L. 104–208, div. A, title II, § 2421, Sept. 30, 1996, 110 Stat. 3009–4
 
 (5) **Notification system**
 
-  (A) *In general* — Each consumer reporting agency that, under subsection (c)(1)(B) of this section, furnishes a consumer report in connection with a credit or insurance transaction that is not initiated by a consumer, shall—
+  (A) *In general* — Each consumer reporting agency that, under subsection (c)(1)(B), furnishes a consumer report in connection with a credit or insurance transaction that is not initiated by a consumer, shall—
 
     (i) establish and maintain a notification system, including a toll-free telephone number, which permits any consumer whose consumer report is maintained by the agency to notify the agency, with appropriate identification, of the consumer’s election to have the consumer’s name and address excluded from any such list of names and addresses provided by the agency for such a transaction; and
 
@@ -6002,6 +6048,12 @@ The Health Insurance Portability and Accountability Act of 1996, referred to in 
 Section 1179 of such Act, referred to in subsec. (g)(3)(B), probably means section 1179 of the Social Security Act, as added by section 262(a) of Pub. L. 104–191, title II, Aug. 21, 1996, 110 Stat. 2030, which is classified to [section 1320d–8 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320d–8&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2015—Subsec. (a)(4)(A). Pub. L. 114–94, § 80001(1), substituted “, determining the appropriate level of such payments, or enforcing a child support order, award, agreement, or judgment” for “or determining the appropriate level of such payments”.
+
+Subsec. (a)(4)(B). Pub. L. 114–94, § 80001(2)(A), substituted “parentage” for “paternity” and inserted “and” at end.
+
+Subsec. (a)(4)(C), (D). Pub. L. 114–94, § 80001(3), (4), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “the person has provided at least 10 days’ prior notice to the consumer whose report is requested, by certified or registered mail to the last known address of the consumer, that the report will be requested; and”.
+
 2010—Subsec. (b)(1)(B), (3)(A)(ii), (B)(ii). Pub. L. 111–203, § 1088(a)(2)(A), substituted “Bureau” for “Federal Trade Commission”.
 
 Subsec. (g)(3)(C). Pub. L. 111–203, § 1088(a)(4)(A), added subpar. (C) and struck out former subpar. (C) which read as follows: “as otherwise determined to be necessary and appropriate, by regulation or order and subject to paragraph (6), by the Commission, any Federal banking agency or the National Credit Union Administration (with respect to any financial institution subject to the jurisdiction of such agency or Administration under paragraph (1), (2), or (3) of [section 1681s(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681s/b&num=0&edition=prelim), or the applicable State insurance authority (with respect to any person engaged in providing insurance or annuities).”
@@ -6052,7 +6104,7 @@ Subsec. (g). Pub. L. 105–347, § 6(4), struck out “or a direct marketing tra
 
 1997—Subsec. (b)(4). Pub. L. 105–107 added par. (4).
 
-1996—Pub. L. 104–208, §§ 2403(a), 2404(a)(1), designated existing provisions as subsec. (a) and inserted heading, substituted “Subject to subsection (c) of this section, any consumer reporting agency” for “A consumer reporting agency” in introductory provisions, added subpars. (E) and (F) of par. (3), and struck out former subpar. (E) of par. (3) which read as follows: “otherwise has a legitimate business need for the information in connection with a business transaction involving the consumer.”
+1996—Pub. L. 104–208, §§ 2403(a), 2404(a)(1), designated existing provisions as subsec. (a) and inserted heading, substituted “Subject to subsection (c), any consumer reporting agency” for “A consumer reporting agency” in introductory provisions, added subpars. (E) and (F) of par. (3), and struck out former subpar. (E) of par. (3) which read as follows: “otherwise has a legitimate business need for the information in connection with a business transaction involving the consumer.”
 
 Subsec. (b). Pub. L. 104–208, § 2403(b), added subsec. (b).
 
@@ -6092,6 +6144,9 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
 For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under [section 654 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section654&num=0&edition=prelim), The Public Health and Welfare.
 
+#### Effective Date
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
+
 #### Public Awareness Campaign
 Pub. L. 108–159, title II, § 213(d), Dec. 4, 2003, 117 Stat. 1979, provided that: “The Commission shall actively publicize and conspicuously post on its website any address and the toll-free telephone number established as part of a notification system for opting out of prescreening under section 604(e) of the Fair Credit Reporting Act ([15 U.S.C. 1681b(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681b/e&num=0&edition=prelim)), and otherwise take measures to increase public awareness regarding the availability of the right to opt out of prescreening.”
 
@@ -6106,7 +6161,7 @@ Pub. L. 104–208, div. A, title II, § 2404(c), Sept. 30, 1996, 110 Stat. 3009�
 
 <a id="section-1681c"></a>
 ## § 1681c. Requirements relating to information contained in consumer reports
-**(a) Information excluded from consumer reports** Except as authorized under subsection (b) of this section, no consumer reporting agency may make any consumer report containing any of the following items of information:
+**(a) Information excluded from consumer reports** Except as authorized under subsection (b), no consumer reporting agency may make any consumer report containing any of the following items of information:
 
 (1) Cases under title 11 or under the Bankruptcy Act that, from the date of entry of the order for relief or the date of adjudication, as the case may be, antedate the report by more than 10 years.
 
@@ -6124,7 +6179,7 @@ Pub. L. 104–208, div. A, title II, § 2404(c), Sept. 30, 1996, 110 Stat. 3009�
 
   (B) the report is being provided to an insurance company for a purpose relating to engaging in the business of insurance other than property and casualty insurance.
 
-**(b) Exempted cases** The provisions of paragraphs (1) through (5) of subsection (a) of this section are not applicable in the case of any consumer credit report to be used in connection with—
+**(b) Exempted cases** The provisions of paragraphs (1) through (5) of subsection (a) are not applicable in the case of any consumer credit report to be used in connection with—
 
 (1) a credit transaction involving, or which may reasonably be expected to involve, a principal amount of $150,000 or more;
 
@@ -6134,7 +6189,7 @@ Pub. L. 104–208, div. A, title II, § 2404(c), Sept. 30, 1996, 110 Stat. 3009�
 
 **(c) Running of reporting period**
 
-(1) **In general** — The 7-year period referred to in paragraphs (4) and (6) of subsection (a) of this section shall begin, with respect to any delinquent account that is placed for collection (internally or by referral to a third party, whichever is earlier), charged to profit and loss, or subjected to any similar action, upon the expiration of the 180-day period beginning on the date of the commencement of the delinquency which immediately preceded the collection activity, charge to profit and loss, or similar action.
+(1) **In general** — The 7-year period referred to in paragraphs (4) and (6) of subsection (a) shall begin, with respect to any delinquent account that is placed for collection (internally or by referral to a third party, whichever is earlier), charged to profit and loss, or subjected to any similar action, upon the expiration of the 180-day period beginning on the date of the commencement of the delinquency which immediately preceded the collection activity, charge to profit and loss, or similar action.
 
 (2) **Effective date** — Paragraph (1) shall apply only to items of information added to the file of a consumer on or after the date that is 455 days after September 30, 1996.
 
@@ -6235,6 +6290,9 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding [section 101 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section101&num=0&edition=prelim), Bankruptcy.
 
+#### Effective Date
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
+
 
 <a id="section-1681c-1"></a>
 ## § 1681c–1. Identity theft prevention; fraud alerts and active duty alerts
@@ -6280,11 +6338,11 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 **(e) Referrals of alerts** Each consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim) that receives a referral of a fraud alert or active duty alert from another consumer reporting agency pursuant to this section shall, as though the agency received the request from the consumer directly, follow the procedures required under—
 
-(1) paragraphs (1)(A) and (2) of subsection (a) of this section, in the case of a referral under subsection (a)(1)(B) of this section;
+(1) paragraphs (1)(A) and (2) of subsection (a), in the case of a referral under subsection (a)(1)(B);
 
-(2) paragraphs (1)(A), (1)(B), and (2) of subsection (b) of this section, in the case of a referral under subsection (b)(1)(C) of this section; and
+(2) paragraphs (1)(A), (1)(B), and (2) of subsection (b), in the case of a referral under subsection (b)(1)(C); and
 
-(3) paragraphs (1) and (2) of subsection (c) of this section, in the case of a referral under subsection (c)(3) of this section.
+(3) paragraphs (1) and (2) of subsection (c), in the case of a referral under subsection (c)(3).
 
 **(f) Duty of reseller to reconvey alert** A reseller shall include in its report any fraud alert or active duty alert placed in the file of a consumer pursuant to this section by another consumer reporting agency.
 
@@ -6347,7 +6405,7 @@ Pub. L. 108–159, title I, § 151(b), Dec. 4, 2003, 117 Stat. 1964, provided th
 
 (4) a statement by the consumer that the information is not information relating to any transaction by the consumer.
 
-**(b) Notification** A consumer reporting agency shall promptly notify the furnisher of information identified by the consumer under subsection (a) of this section—
+**(b) Notification** A consumer reporting agency shall promptly notify the furnisher of information identified by the consumer under subsection (a)—
 
 (1) that the information may be a result of identity theft;
 
@@ -6377,19 +6435,19 @@ Pub. L. 108–159, title I, § 151(b), Dec. 4, 2003, 117 Stat. 1964, provided th
 
   (A) is a reseller;
 
-  (B) is not, at the time of the request of the consumer under subsection (a) of this section, otherwise furnishing or reselling a consumer report concerning the information identified by the consumer; and
+  (B) is not, at the time of the request of the consumer under subsection (a), otherwise furnishing or reselling a consumer report concerning the information identified by the consumer; and
 
   (C) informs the consumer, by any means, that the consumer may report the identity theft to the Bureau to obtain consumer information regarding identity theft.
 
 (2) **Reseller with file** — The sole obligation of the consumer reporting agency under this section, with regard to any request of a consumer under this section, shall be to block the consumer report maintained by the consumer reporting agency from any subsequent use, if—
 
-  (A) the consumer, in accordance with the provisions of subsection (a) of this section, identifies, to a consumer reporting agency, information in the file of the consumer that resulted from identity theft; and
+  (A) the consumer, in accordance with the provisions of subsection (a), identifies, to a consumer reporting agency, information in the file of the consumer that resulted from identity theft; and
 
   (B) the consumer reporting agency is a reseller of the identified information.
 
 (3) **Notice** — In carrying out its obligation under paragraph (2), the reseller shall promptly provide a notice to the consumer of the decision to block the file. Such notice shall contain the name, address, and telephone number of each consumer reporting agency from which the consumer information was obtained for resale.
 
-**(e) Exception for verification companies** The provisions of this section do not apply to a check services company, acting as such, which issues authorizations for the purpose of approving or processing negotiable instruments, electronic fund transfers, or similar methods of payments, except that, beginning 4 business days after receipt of information described in paragraphs (1) through (3) of subsection (a) of this section, a check services company shall not report to a national consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim), any information identified in the subject identity theft report as resulting from identity theft.
+**(e) Exception for verification companies** The provisions of this section do not apply to a check services company, acting as such, which issues authorizations for the purpose of approving or processing negotiable instruments, electronic fund transfers, or similar methods of payments, except that, beginning 4 business days after receipt of information described in paragraphs (1) through (3) of subsection (a), a check services company shall not report to a national consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim), any information identified in the subject identity theft report as resulting from identity theft.
 
 **(f) Access to blocked information by law enforcement agencies** No provision of this section shall be construed as requiring a consumer reporting agency to prevent a Federal, State, or local law enforcement agency from accessing blocked information in a consumer file to which the agency could otherwise obtain access under this subchapter.
 
@@ -6415,15 +6473,15 @@ Section subject to joint regulations establishing effective dates as prescribed 
 
   (A) the person has made the disclosures to the consumer required by paragraph (1); and
 
-  (B) the person will comply with subsection (b) of this section.
+  (B) the person will comply with subsection (b).
 
-**(b) Disclosure on request of nature and scope of investigation** Any person who procures or causes to be prepared an investigative consumer report on any consumer shall, upon written request made by the consumer within a reasonable period of time after the receipt by him of the disclosure required by subsection (a)(1) of this section, make a complete and accurate disclosure of the nature and scope of the investigation requested. This disclosure shall be made in a writing mailed, or otherwise delivered, to the consumer not later than five days after the date on which the request for such disclosure was received from the consumer or such report was first requested, whichever is the later.
+**(b) Disclosure on request of nature and scope of investigation** Any person who procures or causes to be prepared an investigative consumer report on any consumer shall, upon written request made by the consumer within a reasonable period of time after the receipt by him of the disclosure required by subsection (a)(1), make a complete and accurate disclosure of the nature and scope of the investigation requested. This disclosure shall be made in a writing mailed, or otherwise delivered, to the consumer not later than five days after the date on which the request for such disclosure was received from the consumer or such report was first requested, whichever is the later.
 
-**(c) Limitation on liability upon showing of reasonable procedures for compliance with provisions** No person may be held liable for any violation of subsection (a) or (b) of this section if he shows by a preponderance of the evidence that at the time of the violation he maintained reasonable procedures to assure compliance with subsection (a) or (b) of this section.
+**(c) Limitation on liability upon showing of reasonable procedures for compliance with provisions** No person may be held liable for any violation of subsection (a) or (b) of this section if he shows by a preponderance of the evidence that at the time of the violation he maintained reasonable procedures to assure compliance with subsection (a) or (b).
 
 **(d) Prohibitions**
 
-(1) **Certification** — A consumer reporting agency shall not prepare or furnish an investigative consumer report unless the agency has received a certification under subsection (a)(2) of this section from the person who requested the report.
+(1) **Certification** — A consumer reporting agency shall not prepare or furnish an investigative consumer report unless the agency has received a certification under subsection (a)(2) from the person who requested the report.
 
 (2) **Inquiries** — A consumer reporting agency shall not make an inquiry for the purpose of preparing an investigative consumer report on a consumer for employment purposes if the making of the inquiry by an employer or prospective employer of the consumer would violate any applicable Federal or State equal employment opportunity law or regulation.
 
@@ -6448,6 +6506,9 @@ Subsec. (d). Pub. L. 104–208, § 2414(4), added subsec. (d).
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under [section 1681a of this title](./chapter-041-consumer-credit-protection.md#section-1681a).
+
+#### Effective Date
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
 
 
 <a id="section-1681e"></a>
@@ -6516,11 +6577,19 @@ Amendment by Pub. L. 105–107 effective as if included in chapter 1 of subtitle
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under [section 1681a of this title](./chapter-041-consumer-credit-protection.md#section-1681a).
 
+#### Effective Date
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
+
 
 <a id="section-1681f"></a>
 ## § 1681f. Disclosures to governmental agencies
 
 Notwithstanding the provisions of [section 1681b of this title](./chapter-041-consumer-credit-protection.md#section-1681b), a consumer reporting agency may furnish identifying information respecting any consumer, limited to his name, address, former addresses, places of employment, or former places of employment, to a governmental agency.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
 
 
 <a id="section-1681g"></a>
@@ -6561,7 +6630,7 @@ Notwithstanding the provisions of [section 1681b of this title](./chapter-041-co
 
 (6) If the consumer requests the credit file and not the credit score, a statement that the consumer may request and obtain a credit score.
 
-**(b) Exempt information** The requirements of subsection (a) of this section respecting the disclosure of sources of information and the recipients of consumer reports do not apply to information received or consumer reports furnished prior to the effective date of this subchapter except to the extent that the matter involved is contained in the files of the consumer reporting agency on that date.
+**(b) Exempt information** The requirements of subsection (a) respecting the disclosure of sources of information and the recipients of consumer reports do not apply to information received or consumer reports furnished prior to the effective date of this subchapter except to the extent that the matter involved is contained in the files of the consumer reporting agency on that date.
 
 **(c) Summary of rights to obtain and dispute information in consumer reports and to obtain credit scores**
 
@@ -6571,7 +6640,7 @@ Notwithstanding the provisions of [section 1681b of this title](./chapter-041-co
 
   (B) *Content of summary* — The summary of rights prepared under subparagraph (A) shall include a description of—
 
-    (i) the right of a consumer to obtain a copy of a consumer report under subsection (a) of this section from each consumer reporting agency;
+    (i) the right of a consumer to obtain a copy of a consumer report under subsection (a) from each consumer reporting agency;
 
     (ii) the frequency and circumstances under which a consumer is entitled to receive a consumer report without charge under [section 1681j of this title](./chapter-041-consumer-credit-protection.md#section-1681j);
 
@@ -6715,7 +6784,7 @@ Notwithstanding the provisions of [section 1681b of this title](./chapter-041-co
 
   (B) *Key factors* — The term “key factors” means all relevant elements or reasons adversely affecting the credit score for the particular individual, listed in the order of their importance based on their effect on the credit score.
 
-(3) **Timeframe and manner of disclosure** — The information required by this subsection shall be provided in the same timeframe and manner as the information described in subsection (a) of this section.
+(3) **Timeframe and manner of disclosure** — The information required by this subsection shall be provided in the same timeframe and manner as the information described in subsection (a).
 
 (4) **Applicability to certain uses** — This subsection shall not be construed so as to compel a consumer reporting agency to develop or disclose a score if the agency does not—
 
@@ -6743,11 +6812,11 @@ Notwithstanding the provisions of [section 1681b of this title](./chapter-041-co
 
 **(g) Disclosure of credit scores by certain mortgage lenders**
 
-(1) **In general** — Any person who makes or arranges loans and who uses a consumer credit score, as defined in subsection (f) of this section, in connection with an application initiated or sought by a consumer for a closed end loan or the establishment of an open end loan for a consumer purpose that is secured by 1 to 4 units of residential real property (hereafter in this subsection referred to as the “lender”) shall provide the following to the consumer as soon as reasonably practicable:
+(1) **In general** — Any person who makes or arranges loans and who uses a consumer credit score, as defined in subsection (f), in connection with an application initiated or sought by a consumer for a closed end loan or the establishment of an open end loan for a consumer purpose that is secured by 1 to 4 units of residential real property (hereafter in this subsection referred to as the “lender”) shall provide the following to the consumer as soon as reasonably practicable:
 
   (A) *Information required under subsection (f)*
 
-    (i) *In general* — A copy of the information identified in subsection (f) of this section that was obtained from a consumer reporting agency or was developed and used by the user of the information.
+    (i) *In general* — A copy of the information identified in subsection (f) that was obtained from a consumer reporting agency or was developed and used by the user of the information.
 
     (ii) *Notice under subparagraph (D)* — In addition to the information provided to it by a third party that provided the credit score or scores, a lender is only required to provide the notice contained in subparagraph (D).
 
@@ -6765,9 +6834,9 @@ Notwithstanding the provisions of [section 1681b of this title](./chapter-041-co
 
   (E) *Actions not required under this subsection* — This subsection shall not require any person to—
 
-    (i) explain the information provided pursuant to subsection (f) of this section;
+    (i) explain the information provided pursuant to subsection (f);
 
-    (ii) disclose any information other than a credit score or key factors, as defined in subsection (f) of this section;
+    (ii) disclose any information other than a credit score or key factors, as defined in subsection (f);
 
     (iii) disclose any credit score or related information obtained by the user after a loan has closed;
 
@@ -6855,6 +6924,9 @@ Amendment by Pub. L. 105–347 deemed to have same effective date as amendments 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under [section 1681a of this title](./chapter-041-consumer-credit-protection.md#section-1681a).
 
+#### Effective Date
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
+
 #### Simplified Disclosure To Maximize Comprehensibility and Standardization
 Pub. L. 104–208, div. A, title II, § 2408(e)(2), (3), Sept. 30, 1996, 110 Stat. 3009–438, 3009–439, provided that: “(2) Simplified disclosure.—Not later than 90 days after the date of enactment of this Act [Sept. 30, 1996], each consumer reporting agency shall develop a form on which such consumer reporting agency shall make the disclosures required under section 609(a) of the Fair Credit Reporting Act [[15 U.S.C. 1681g(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681g/a&num=0&edition=prelim)], for the purpose of maximizing the comprehensibility and standardization of such disclosures. “(3) Goals.—The Federal Trade Commission shall take appropriate action to assure that the goals of comprehensibility and standardization are achieved in accordance with paragraph (2).”
 
@@ -6865,7 +6937,7 @@ Pub. L. 104–208, div. A, title II, § 2408(e)(2), (3), Sept. 30, 1996, 110 Sta
 
 (1) **Proper identification** — A consumer reporting agency shall require, as a condition of making the disclosures required under [section 1681g of this title](./chapter-041-consumer-credit-protection.md#section-1681g), that the consumer furnish proper identification.
 
-(2) **Disclosure in writing** — Except as provided in subsection (b) of this section, the disclosures required to be made under [section 1681g of this title](./chapter-041-consumer-credit-protection.md#section-1681g) shall be provided under that section in writing.
+(2) **Disclosure in writing** — Except as provided in subsection (b), the disclosures required to be made under [section 1681g of this title](./chapter-041-consumer-credit-protection.md#section-1681g) shall be provided under that section in writing.
 
 **(b) Other forms of disclosure**
 
@@ -6913,6 +6985,9 @@ Subsec. (e). Pub. L. 104–208, § 2408(e)(4), inserted “or based on informati
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under [section 1681a of this title](./chapter-041-consumer-credit-protection.md#section-1681a).
 
+#### Effective Date
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
+
 
 <a id="section-1681i"></a>
 ## § 1681i. Procedure in case of disputed accuracy
@@ -6920,7 +6995,7 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
 (1) **Reinvestigation required**
 
-  (A) *In general* — Subject to subsection (f) of this section, if the completeness or accuracy of any item of information contained in a consumer’s file at a consumer reporting agency is disputed by the consumer and the consumer notifies the agency directly, or indirectly through a reseller, of such dispute, the agency shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate and record the current status of the disputed information, or delete the item from the file in accordance with paragraph (5), before the end of the 30-day period beginning on the date on which the agency receives the notice of the dispute from the consumer or reseller.
+  (A) *In general* — Subject to subsection (f), if the completeness or accuracy of any item of information contained in a consumer’s file at a consumer reporting agency is disputed by the consumer and the consumer notifies the agency directly, or indirectly through a reseller, of such dispute, the agency shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate and record the current status of the disputed information, or delete the item from the file in accordance with paragraph (5), before the end of the 30-day period beginning on the date on which the agency receives the notice of the dispute from the consumer or reseller.
 
   (B) *Extension of period to reinvestigate* — Except as provided in subparagraph (C), the 30-day period described in subparagraph (A) may be extended for not more than 15 additional days if the consumer reporting agency receives information from the consumer during that 30-day period that is relevant to the reinvestigation.
 
@@ -6986,7 +7061,7 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
     (iv) a notice that the consumer has the right to add a statement to the consumer’s file disputing the accuracy or completeness of the information; and
 
-    (v) a notice that the consumer has the right to request under subsection (d) of this section that the consumer reporting agency furnish notifications under that subsection.
+    (v) a notice that the consumer has the right to request under subsection (d) that the consumer reporting agency furnish notifications under that subsection.
 
 (7) **Description of reinvestigation procedure** — A consumer reporting agency shall provide to a consumer a description referred to in paragraph (6)(B)(iii) by not later than 15 days after receiving a request from the consumer for that description.
 
@@ -6994,7 +7069,7 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
   (A) provides prompt notice of the deletion to the consumer by telephone;
 
-  (B) includes in that notice, or in a written notice that accompanies a confirmation and consumer report provided in accordance with subparagraph (C), a statement of the consumer’s right to request under subsection (d) of this section that the agency furnish notifications under that subsection; and
+  (B) includes in that notice, or in a written notice that accompanies a confirmation and consumer report provided in accordance with subparagraph (C), a statement of the consumer’s right to request under subsection (d) that the agency furnish notifications under that subsection; and
 
   (C) provides written confirmation of the deletion and a copy of a consumer report on the consumer that is based on the consumer’s file after the deletion, not later than 5 business days after making the deletion.
 
@@ -7002,13 +7077,13 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
 **(c) Notification of consumer dispute in subsequent consumer reports** Whenever a statement of a dispute is filed, unless there is reasonable grounds to believe that it is frivolous or irrelevant, the consumer reporting agency shall, in any subsequent consumer report containing the information in question, clearly note that it is disputed by the consumer and provide either the consumer’s statement or a clear and accurate codification or summary thereof.
 
-**(d) Notification of deletion of disputed information** Following any deletion of information which is found to be inaccurate or whose accuracy can no longer be verified or any notation as to disputed information, the consumer reporting agency shall, at the request of the consumer, furnish notification that the item has been deleted or the statement, codification or summary pursuant to subsection (b) or (c) of this section to any person specifically designated by the consumer who has within two years prior thereto received a consumer report for employment purposes, or within six months prior thereto received a consumer report for any other purpose, which contained the deleted or disputed information.
+**(d) Notification of deletion of disputed information** Following any deletion of information which is found to be inaccurate or whose accuracy can no longer be verified or any notation as to disputed information, the consumer reporting agency shall, at the request of the consumer, furnish notification that the item has been deleted or the statement, codification or summary pursuant to subsection (b) or (c) to any person specifically designated by the consumer who has within two years prior thereto received a consumer report for employment purposes, or within six months prior thereto received a consumer report for any other purpose, which contained the deleted or disputed information.
 
 **(e) Treatment of complaints and report to Congress**
 
 (1) **In general** — The Commission 11 So in original. Probably should be “Bureau”. shall—
 
-  (A) compile all complaints that it receives that a file of a consumer that is maintained by a consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim) contains incomplete or inaccurate information, with respect to which, the consumer appears to have disputed the completeness or accuracy with the consumer reporting agency or otherwise utilized the procedures provided by subsection (a) of this section; and
+  (A) compile all complaints that it receives that a file of a consumer that is maintained by a consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim) contains incomplete or inaccurate information, with respect to which, the consumer appears to have disputed the completeness or accuracy with the consumer reporting agency or otherwise utilized the procedures provided by subsection (a); and
 
   (B) transmit each such complaint to each consumer reporting agency involved.
 
@@ -7042,7 +7117,7 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
 (3) **Responsibility of consumer reporting agency to notify consumer through reseller** — Upon the completion of a reinvestigation under this section of a dispute concerning the completeness or accuracy of any information in the file of a consumer by a consumer reporting agency that received notice of the dispute from a reseller under paragraph (2)—
 
-  (A) the notice by the consumer reporting agency under paragraph (6), (7), or (8) of subsection (a) of this section shall be provided to the reseller in lieu of the consumer; and
+  (A) the notice by the consumer reporting agency under paragraph (6), (7), or (8) of subsection (a) shall be provided to the reseller in lieu of the consumer; and
 
   (B) the reseller shall immediately reconvey such notice to the consumer, including any notice of a deletion by telephone in the manner required under paragraph (8)(A).
 
@@ -7060,7 +7135,7 @@ Subsec. (e)(3), (5). Pub. L. 111–203, § 1088(a)(2)(C), substituted “the Bur
 
 2003—Subsec. (a)(1)(A). Pub. L. 108–159, § 317, substituted “shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate” for “shall reinvestigate free of charge”.
 
-Pub. L. 108–159, § 316(a)(1), substituted “Subject to subsection (f) of this section, if the completeness” for “If the completeness” and inserted “, or indirectly through a reseller,” after “notifies the agency directly” and “or reseller” before period at end.
+Pub. L. 108–159, § 316(a)(1), substituted “Subject to subsection (f), if the completeness” for “If the completeness” and inserted “, or indirectly through a reseller,” after “notifies the agency directly” and “or reseller” before period at end.
 
 Subsec. (a)(2)(A). Pub. L. 108–159, § 316(a)(2), inserted “or a reseller” after “dispute from any consumer” and “or reseller” before period at end.
 
@@ -7092,6 +7167,9 @@ Amendment by Pub. L. 105–347 deemed to have same effective date as amendments 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under [section 1681a of this title](./chapter-041-consumer-credit-protection.md#section-1681a).
 
+#### Effective Date
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
+
 #### Prompt Investigation of Disputed Consumer Information
 Pub. L. 108–159, title III, § 313(b), Dec. 4, 2003, 117 Stat. 1994, provided that: “(1) Study required.—The Board and the Commission shall jointly study the extent to which, and the manner in which, consumer reporting agencies and furnishers of consumer information to consumer reporting agencies are complying with the procedures, time lines, and requirements under the Fair Credit Reporting Act [this subchapter] for the prompt investigation of the disputed accuracy of any consumer information, the completeness of the information provided to consumer reporting agencies, and the prompt correction or deletion, in accordance with such Act, of any inaccurate or incomplete information or information that cannot be verified. “(2) Report required.—Before the end of the 12-month period beginning on the date of enactment of this Act [Dec. 4, 2003], the Board and the Commission shall jointly submit a progress report to the Congress on the results of the study required under paragraph (1). “(3) Considerations.—In preparing the report required under paragraph (2), the Board and the Commission shall consider information relating to complaints compiled by the Commission under section 611(e) of the Fair Credit Reporting Act [[15 U.S.C. 1681i(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681i/e&num=0&edition=prelim)], as added by this section. “(4) Recommendations.—The report required under paragraph (2) shall include such recommendations as the Board and the Commission jointly determine to be appropriate for legislative or administrative action, to ensure that—“(A) consumer disputes with consumer reporting agencies over the accuracy or completeness of information in a consumer’s file are promptly and fully investigated and any incorrect, incomplete, or unverifiable information is corrected or deleted immediately thereafter; “(B) furnishers of information to consumer reporting agencies maintain full and prompt compliance with the duties and responsibilities established under section 623 of the Fair Credit Reporting Act [[15 U.S.C. 1681s–2](./chapter-041-consumer-credit-protection.md#section-1681s-2)]; and “(C) consumer reporting agencies establish and maintain appropriate internal controls and management review procedures for maintaining full and continuous compliance with the procedures, time lines, and requirements under the Fair Credit Reporting Act [this subchapter] for the prompt investigation of the disputed accuracy of any consumer information and the prompt correction or deletion, in accordance with such Act, of any inaccurate or incomplete information or information that cannot be verified.”
 
@@ -7122,9 +7200,9 @@ Pub. L. 108–159, title III, § 313(b), Dec. 4, 2003, 117 Stat. 1994, provided 
 
     (iii) *Date of issuance* — The Commission 2 shall issue the regulations required by this subparagraph in final form not later than 6 months after December 4, 2003.
 
-    (iv) *Consideration of ability to comply* — The regulations of the Bureau under this subparagraph shall establish an effective date by which each nationwide specialty consumer reporting agency (as defined in section 1681a(w) 1 of this title) shall be required to comply with subsection (a) of this section, which effective date—
+    (iv) *Consideration of ability to comply* — The regulations of the Bureau under this subparagraph shall establish an effective date by which each nationwide specialty consumer reporting agency (as defined in section 1681a(w) 1 of this title) shall be required to comply with subsection (a), which effective date—
 
-      (I) shall be established after consideration of the ability of each nationwide specialty consumer reporting agency to comply with subsection (a) of this section; and
+      (I) shall be established after consideration of the ability of each nationwide specialty consumer reporting agency to comply with subsection (a); and
 
       (II) shall be not later than 6 months after the date on which such regulations are issued in final form (or such additional period not to exceed 3 months, as the Bureau determines appropriate).
 
@@ -7146,11 +7224,11 @@ Pub. L. 108–159, title III, § 313(b), Dec. 4, 2003, 117 Stat. 1994, provided 
 
 **(d) Free disclosures in connection with fraud alerts** Upon the request of a consumer, a consumer reporting agency described in [section 1681a(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/p&num=0&edition=prelim) shall make all disclosures pursuant to [section 1681g of this title](./chapter-041-consumer-credit-protection.md#section-1681g) without charge to the consumer, as provided in subsections (a)(2) and (b)(2) of [section 1681c–1 of this title](./chapter-041-consumer-credit-protection.md#section-1681c-1), as applicable.
 
-**(e) Other charges prohibited** A consumer reporting agency shall not impose any charge on a consumer for providing any notification required by this subchapter or making any disclosure required by this subchapter, except as authorized by subsection (f) of this section.
+**(e) Other charges prohibited** A consumer reporting agency shall not impose any charge on a consumer for providing any notification required by this subchapter or making any disclosure required by this subchapter, except as authorized by subsection (f).
 
 **(f) Reasonable charges allowed for certain disclosures**
 
-(1) **In general** — In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d) of this section, a consumer reporting agency may impose a reasonable charge on a consumer—
+(1) **In general** — In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d), a consumer reporting agency may impose a reasonable charge on a consumer—
 
   (A) for making a disclosure to the consumer pursuant to [section 1681g of this title](./chapter-041-consumer-credit-protection.md#section-1681g), which charge—
 
@@ -7194,7 +7272,7 @@ Subsec. (d). Pub. L. 108–159, § 211(a)(4), added subsec. (d). Former subsec. 
 
 Subsec. (e). Pub. L. 108–159, § 211(a)(3), (5), redesignated subsec. (d) as (e) and substituted “subsection (f)” for “subsection (a)”.
 
-Subsec. (f). Pub. L. 108–159, § 211(a)(1), (6), redesignated subsec. (a) as (f) and substituted “In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d) of this section, a” for “Except as provided in subsections (b), (c), and (d) of this section, a” in par. (1).
+Subsec. (f). Pub. L. 108–159, § 211(a)(1), (6), redesignated subsec. (a) as (f) and substituted “In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d), a” for “Except as provided in subsections (b), (c), and (d), a” in par. (1).
 
 1996—Pub. L. 104–208 amended section generally. Prior to amendment, section read as follows: “A consumer reporting agency shall make all disclosures pursuant to [section 1681g of this title](./chapter-041-consumer-credit-protection.md#section-1681g) and furnish all consumer reports pursuant to [section 1681i(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681i/d&num=0&edition=prelim) without charge to the consumer if, within thirty days after receipt by such consumer of a notification pursuant to [section 1681m of this title](./chapter-041-consumer-credit-protection.md#section-1681m) or notification from a debt collection agency affiliated with such consumer reporting agency stating that the consumer’s credit rating may be or has been adversely affected, the consumer makes a request under section 1681g or 1681i(d) of this title. Otherwise, the consumer reporting agency may impose a reasonable charge on the consumer for making disclosure to such consumer pursuant to [section 1681g of this title](./chapter-041-consumer-credit-protection.md#section-1681g), the charge for which shall be indicated to the consumer prior to making disclosure; and for furnishing notifications, statements, summaries, or codifications to person designated by the consumer pursuant to [section 1681i(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681i/d&num=0&edition=prelim), the charge for which shall be indicated to the consumer prior to furnishing such information and shall not exceed the charge that the consumer reporting agency would impose on each designated recipient for a consumer report except that no charge may be made for notifying such persons of the deletion of information which is found to be inaccurate or which can no longer be verified.”
 
@@ -7209,6 +7287,9 @@ Amendment by Pub. L. 108–159 subject to joint regulations establishing effecti
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under [section 1681a of this title](./chapter-041-consumer-credit-protection.md#section-1681a).
+
+#### Effective Date
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
 
 #### Regulations
 Pub. L. 111–24, title II, § 205(b), May 22, 2009, 123 Stat. 1747, provided that: “(1) In general.—Not later than 9 months after the date of enactment of this Act [May 22, 2009], the Federal Trade Commission shall issue a final rule to carry out this section. “(2) Content.—The rule required by this subsection—“(A) shall include specific wording to be used in advertisements in accordance with this section; and “(B) for advertisements on the Internet, shall include whether the disclosure required under section 612(g)(1) of the Fair Credit Reporting Act [[15 U.S.C. 1681j(g)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681j/g/1&num=0&edition=prelim)] (as added by this section) shall appear on the advertisement or the website on which the free credit report is made available. “(3) Interim disclosures.—If an advertisement subject to section 612(g) of the Fair Credit Reporting Act [[15 U.S.C. 1681j(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681j/g&num=0&edition=prelim)], as added by this section, is made public after the 9-month deadline specified in paragraph (1), but before the rule required by paragraph (1) is finalized, such advertisement shall include the disclosure: ‘Free credit reports are available under Federal law at: “AnnualCreditReport.com”.’ ”
@@ -7226,7 +7307,7 @@ Pub. L. 108–159, title II, § 211(d), Dec. 4, 2003, 117 Stat. 1972, as amended
 
 (2) maintain strict procedures designed to insure that whenever public record information which is likely to have an adverse effect on a consumer’s ability to obtain employment is reported it is complete and up to date. For purposes of this paragraph, items of public record relating to arrests, indictments, convictions, suits, tax liens, and outstanding judgments shall be considered up to date if the current public record status of the item at the time of the report is reported.
 
-**(b) Exemption for national security investigations** Subsection (a) of this section does not apply in the case of an agency or department of the United States Government that seeks to obtain and use a consumer report for employment purposes, if the head of the agency or department makes a written finding as prescribed under [section 1681b(b)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681b/b/4/A&num=0&edition=prelim).
+**(b) Exemption for national security investigations** Subsection (a) does not apply in the case of an agency or department of the United States Government that seeks to obtain and use a consumer report for employment purposes, if the head of the agency or department makes a written finding as prescribed under [section 1681b(b)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681b/b/4/A&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -7236,11 +7317,19 @@ Pub. L. 108–159, title II, § 211(d), Dec. 4, 2003, 117 Stat. 1972, as amended
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–347 deemed to have same effective date as amendments made by section 2403 of Pub. L. 104–208, see section 7 of Pub. L. 105–347, set out as a note under [section 1681a of this title](./chapter-041-consumer-credit-protection.md#section-1681a).
 
+#### Effective Date
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
+
 
 <a id="section-1681l"></a>
 ## § 1681l. Restrictions on investigative consumer reports
 
 Whenever a consumer reporting agency prepares an investigative consumer report, no adverse information in the consumer report (other than information which is a matter of public record) may be included in a subsequent consumer report unless such adverse information has been verified in the process of making such subsequent consumer report, or the adverse information was received within the three-month period preceding the date the subsequent report is furnished.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
 
 
 <a id="section-1681m"></a>
@@ -7373,7 +7462,7 @@ Whenever a consumer reporting agency prepares an investigative consumer report, 
 
   (C) the transfer of debt as a result of a merger, acquisition, purchase and assumption transaction, or transfer of substantially all of the assets of an entity.
 
-**(g) Debt collector communications concerning identity theft** If a person acting as a debt collector (as that term is defined in subchapter V of this chapter) on behalf of a third party that is a creditor or other user of a consumer report is notified that any information relating to a debt that the person is attempting to collect may be fraudulent or may be the result of identity theft, that person shall—
+**(g) Debt collector communications concerning identity theft** If a person acting as a debt collector (as that term is defined in subchapter V) on behalf of a third party that is a creditor or other user of a consumer report is notified that any information relating to a debt that the person is attempting to collect may be fraudulent or may be the result of identity theft, that person shall—
 
 (1) notify the third party that the information may be fraudulent or may be the result of identity theft; and
 
@@ -7389,9 +7478,9 @@ Whenever a consumer reporting agency prepares an investigative consumer report, 
 
   (A) the consumer applied for specific material terms and was granted those terms, unless those terms were initially specified by the person after the transaction was initiated by the consumer and after the person obtained a consumer report; or
 
-  (B) the person has provided or will provide a notice to the consumer under subsection (a) of this section in connection with the transaction.
+  (B) the person has provided or will provide a notice to the consumer under subsection (a) in connection with the transaction.
 
-(4) **Other notice not sufficient** — A person that is required to provide a notice under subsection (a) of this section cannot meet that requirement by providing a notice under this subsection.
+(4) **Other notice not sufficient** — A person that is required to provide a notice under subsection (a) cannot meet that requirement by providing a notice under this subsection.
 
 (5) **Content and delivery of notice** — A notice under this subsection shall, at a minimum—
 
@@ -7483,6 +7572,9 @@ Amendment by Pub. L. 108–159 subject to joint regulations establishing effecti
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under [section 1681a of this title](./chapter-041-consumer-credit-protection.md#section-1681a).
 
+#### Effective Date
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
+
 #### Regulations
 Pub. L. 108–159, title II, § 213(b), Dec. 4, 2003, 117 Stat. 1979, provided that: “Regulations required by section 615(d)(2) of the Fair Credit Reporting Act [[15 U.S.C. 1681m(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681m/d/2&num=0&edition=prelim)], as amended by this section, shall be issued in final form not later than 1 year after the date of enactment of this Act [Dec. 4, 2003].”
 
@@ -7523,6 +7615,9 @@ Subsec. (c). Pub. L. 104–208, § 2412(e)(1), added subsec. (c).
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under [section 1681a of this title](./chapter-041-consumer-credit-protection.md#section-1681a).
 
+#### Effective Date
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
+
 #### Construction
 Pub. L. 108–159, title III, § 312(f), Dec. 4, 2003, 117 Stat. 1993, provided that: “Nothing in this section, the amendments made by this section, or any other provision of this Act [see Short Title of 2003 Amendment note set out under [section 1601 of this title](./chapter-041-consumer-credit-protection.md#section-1601)] shall be construed to affect any liability under section 616 or 617 of the Fair Credit Reporting Act ([15 U.S.C. 1681n](./chapter-041-consumer-credit-protection.md#section-1681n), 1681o) that existed on the day before the date of enactment of this Act [Dec. 4, 2003].”
 
@@ -7558,6 +7653,9 @@ Amendment by Pub. L. 108–159 subject to joint regulations establishing effecti
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under [section 1681a of this title](./chapter-041-consumer-credit-protection.md#section-1681a).
 
+#### Effective Date
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
+
 
 <a id="section-1681p"></a>
 ## § 1681p. Jurisdiction of courts; limitation of actions
@@ -7576,6 +7674,9 @@ An action to enforce any liability created under this subchapter may be brought 
 #### Effective Date of 2003 Amendment
 Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
 
+#### Effective Date
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
+
 
 <a id="section-1681q"></a>
 ## § 1681q. Obtaining information under false pretenses
@@ -7590,6 +7691,9 @@ Any person who knowingly and willfully obtains information on a consumer from a 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under [section 1681a of this title](./chapter-041-consumer-credit-protection.md#section-1681a).
 
+#### Effective Date
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
+
 
 <a id="section-1681r"></a>
 ## § 1681r. Unauthorized disclosures by officers or employees
@@ -7603,6 +7707,9 @@ Any officer or employee of a consumer reporting agency who knowingly and willful
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under [section 1681a of this title](./chapter-041-consumer-credit-protection.md#section-1681a).
+
+#### Effective Date
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
 
 
 <a id="section-1681s"></a>
@@ -7663,7 +7770,7 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
   (C) in the case of any successful action under subparagraph (A) or (B), shall be awarded the costs of the action and reasonable attorney fees as determined by the court.
 
-(2) **Rights of Federal regulators** — The State shall serve prior written notice of any action under paragraph (1) upon the Bureau and the Federal Trade Commission or the appropriate Federal regulator determined under subsection (b) of this section and provide the Bureau and the Federal Trade Commission or appropriate Federal regulator with a copy of its complaint, except in any case in which such prior notice is not feasible, in which case the State shall serve such notice immediately upon instituting such action. The Bureau and the Federal Trade Commission or appropriate Federal regulator shall have the right—
+(2) **Rights of Federal regulators** — The State shall serve prior written notice of any action under paragraph (1) upon the Bureau and the Federal Trade Commission or the appropriate Federal regulator determined under subsection (b) and provide the Bureau and the Federal Trade Commission or appropriate Federal regulator with a copy of its complaint, except in any case in which such prior notice is not feasible, in which case the State shall serve such notice immediately upon instituting such action. The Bureau and the Federal Trade Commission or appropriate Federal regulator shall have the right—
 
   (A) to intervene in the action;
 
@@ -7687,7 +7794,7 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
   (B) *Limitation on damages recoverable* — In an action against a person under paragraph (1)(B) for a violation described in any of paragraphs (1) through (3) of [section 1681s–2(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681s–2/c&num=0&edition=prelim), a State may not recover any damages incurred before the date of the violation of an injunction on which the action is based.
 
-**(d) Enforcement under other authority** For the purpose of the exercise by any agency referred to in subsection (b) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b) of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter any other authority conferred on it by law.
+**(d) Enforcement under other authority** For the purpose of the exercise by any agency referred to in subsection (b) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b), each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter any other authority conferred on it by law.
 
 **(e) Regulatory authority**
 
@@ -7817,13 +7924,16 @@ Amendment by Pub. L. 105–347 deemed to have same effective date as amendments 
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under [section 1681a of this title](./chapter-041-consumer-credit-protection.md#section-1681a).
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 #### Effective Date of 1992 Amendment
 Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under [section 191 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section191&num=0&edition=prelim), Banks and Banking.
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note under [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees.
+
+#### Effective Date
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
 
 #### Transfer of Functions
 Functions vested in Administrator of National Credit Union Administration transferred and vested in National Credit Union Administration Board pursuant to [section 1752a of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1752a&num=0&edition=prelim), Banks and Banking.
@@ -7976,7 +8086,7 @@ Section effective Jan. 1, 1993, see section 2(d) of Pub. L. 102–537, set out a
 
       (I) by reason of the failure of a consumer to provide sufficient information to investigate the disputed information; or
 
-      (II) the submission by a consumer of a dispute that is substantially the same as a dispute previously submitted by or for the consumer, either directly to the person or through a consumer reporting agency under subsection (b) of this section, with respect to which the person has already performed the person’s duties under this paragraph or subsection (b) of this section, as applicable.
+      (II) the submission by a consumer of a dispute that is substantially the same as a dispute previously submitted by or for the consumer, either directly to the person or through a consumer reporting agency under subsection (b), with respect to which the person has already performed the person’s duties under this paragraph or subsection (b), as applicable.
 
     (ii) *Notice of determination* — Upon making any determination under clause (i) that a dispute is frivolous or irrelevant, the person shall notify the consumer of such determination not later than 5 business days after making such determination, by mail or, if authorized by the consumer for that purpose, by any other means available to the person.
 
@@ -8020,7 +8130,7 @@ Section effective Jan. 1, 1993, see section 2(d) of Pub. L. 102–537, set out a
 
 (3) subsection (e) of [section 1681m of this title](./chapter-041-consumer-credit-protection.md#section-1681m).
 
-**(d) Limitation on enforcement** The provisions of law described in paragraphs (1) through (3) of subsection (c) of this section (other than with respect to the exception described in paragraph (2) of subsection (c) of this section) shall be enforced exclusively as provided under [section 1681s of this title](./chapter-041-consumer-credit-protection.md#section-1681s) by the Federal agencies and officials and the State officials identified in [section 1681s of this title](./chapter-041-consumer-credit-protection.md#section-1681s).
+**(d) Limitation on enforcement** The provisions of law described in paragraphs (1) through (3) of subsection (c) (other than with respect to the exception described in paragraph (2) of subsection (c)) shall be enforced exclusively as provided under [section 1681s of this title](./chapter-041-consumer-credit-protection.md#section-1681s) by the Federal agencies and officials and the State officials identified in [section 1681s of this title](./chapter-041-consumer-credit-protection.md#section-1681s).
 
 **(e) Accuracy guidelines and regulations required**
 
@@ -8131,7 +8241,7 @@ Pub. L. 108–159, title II, § 217(b), Dec. 4, 2003, 117 Stat. 1987, provided t
 
 (5) **No retroactivity** — This subsection shall not prohibit the use of information to send a solicitation to a consumer if such information was received prior to the date on which persons are required to comply with regulations implementing this subsection.
 
-**(b) Notice for other purposes permissible** A notice or other disclosure under this section may be coordinated and consolidated with any other notice required to be issued under any other provision of law by a person that is subject to this section, and a notice or other disclosure that is equivalent to the notice required by subsection (a) of this section, and that is provided by a person described in subsection (a) of this section to a consumer together with disclosures required by any other provision of law, shall satisfy the requirements of subsection (a) of this section.
+**(b) Notice for other purposes permissible** A notice or other disclosure under this section may be coordinated and consolidated with any other notice required to be issued under any other provision of law by a person that is subject to this section, and a notice or other disclosure that is equivalent to the notice required by subsection (a), and that is provided by a person described in subsection (a) to a consumer together with disclosures required by any other provision of law, shall satisfy the requirements of subsection (a).
 
 **(c) User requirements** Requirements with respect to the use by a person of information received from another person related to it by common ownership or affiliated by corporate control, such as the requirements of this section, constitute requirements with respect to the exchange of information among persons affiliated by common ownership or common corporate control, within the meaning of [section 1681t(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681t/b/2&num=0&edition=prelim).
 
@@ -8147,7 +8257,7 @@ Pub. L. 108–159, title II, § 217(b), Dec. 4, 2003, 117 Stat. 1987, provided t
 
   (D) any other pre-existing customer relationship defined in the regulations implementing this section.
 
-(2) **Solicitation** — The term “solicitation” means the marketing of a product or service initiated by a person to a particular consumer that is based on an exchange of information described in subsection (a) of this section, and is intended to encourage the consumer to purchase such product or service, but does not include communications that are directed at the general public or determined not to be a solicitation by the regulations prescribed under this section.
+(2) **Solicitation** — The term “solicitation” means the marketing of a product or service initiated by a person to a particular consumer that is based on an exchange of information described in subsection (a), and is intended to encourage the consumer to purchase such product or service, but does not include communications that are directed at the general public or determined not to be a solicitation by the regulations prescribed under this section.
 
 ### Statutory Notes
 
@@ -8172,7 +8282,7 @@ Pub. L. 108–159, title II, § 214(e), Dec. 4, 2003, 117 Stat. 1983, as amended
 
 <a id="section-1681t"></a>
 ## § 1681t. Relation to State laws
-**(a) In general** Except as provided in subsections (b) and (c) of this section, this subchapter does not annul, alter, affect, or exempt any person subject to the provisions of this subchapter from complying with the laws of any State with respect to the collection, distribution, or use of any information on consumers, or for the prevention or mitigation of identity theft, except to the extent that those laws are inconsistent with any provision of this subchapter, and then only to the extent of the inconsistency.
+**(a) In general** Except as provided in subsections (b) and (c), this subchapter does not annul, alter, affect, or exempt any person subject to the provisions of this subchapter from complying with the laws of any State with respect to the collection, distribution, or use of any information on consumers, or for the prevention or mitigation of identity theft, except to the extent that those laws are inconsistent with any provision of this subchapter, and then only to the extent of the inconsistency.
 
 **(b) General exceptions** No requirement or prohibition may be imposed under the laws of any State—
 
@@ -8248,7 +8358,7 @@ Pub. L. 108–159, title II, § 214(e), Dec. 4, 2003, 117 Stat. 1983, as amended
 
 **(c) “Firm offer of credit or insurance” defined** Notwithstanding any definition of the term “firm offer of credit or insurance” (or any equivalent term) under the laws of any State, the definition of that term contained in section 1681a(l) of this title shall be construed to apply in the enforcement and interpretation of the laws of any State governing consumer reports.
 
-**(d) Limitations** Subsections (b) and (c) of this section do not affect any settlement, agreement, or consent judgment between any State Attorney General and any consumer reporting agency in effect on September 30, 1996.
+**(d) Limitations** Subsections (b) and (c) do not affect any settlement, agreement, or consent judgment between any State Attorney General and any consumer reporting agency in effect on September 30, 1996.
 
 ### Statutory Notes
 
@@ -8270,7 +8380,7 @@ Subsec. (b)(3), (4). Pub. L. 108–159, § 212(e), added pars. (3) and (4) and s
 
 Subsec. (b)(5). Pub. L. 108–159, § 711(2), added par. (5).
 
-Subsec. (d). Pub. L. 108–159, § 711(3), substituted “(c) of this section” for “(c) of this section—”, struck out par. (1) designation before “do not affect”, substituted “1996.” for “1996; and”, and struck out par. (2) which read as follows:
+Subsec. (d). Pub. L. 108–159, § 711(3), substituted “(b) and (c)” for “(b) and (c)—”, struck out par. (1) designation before “do not affect”, substituted “1996.” for “1996; and”, and struck out par. (2) which read as follows:
 
 “(2) do not apply to any provision of State law (including any provision of a State constitution) that—
 
@@ -8280,7 +8390,7 @@ Subsec. (d). Pub. L. 108–159, § 711(3), substituted “(c) of this section”
 
 “(C) gives greater protection to consumers than is provided under this subchapter.”
 
-1996—Subsec. (a). Pub. L. 104–208, § 2419(1), designated existing provisions as subsec. (a), inserted heading, and substituted “Except as provided in subsections (b) and (c) of this section, this subchapter” for “This subchapter”.
+1996—Subsec. (a). Pub. L. 104–208, § 2419(1), designated existing provisions as subsec. (a), inserted heading, and substituted “Except as provided in subsections (b) and (c), this subchapter” for “This subchapter”.
 
 Subsecs. (b) to (d). Pub. L. 104–208, § 2419(2), added subsecs. (b) to (d).
 
@@ -8289,6 +8399,9 @@ Amendment by Pub. L. 108–159 subject to joint regulations establishing effecti
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under [section 1681a of this title](./chapter-041-consumer-credit-protection.md#section-1681a).
+
+#### Effective Date
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under [section 1681 of this title](./chapter-041-consumer-credit-protection.md#section-1681).
 
 
 <a id="section-1681u"></a>
@@ -8345,7 +8458,7 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
 **(i) Reports to Congress**
 
-(1) On a semiannual basis, the Attorney General shall fully inform the Permanent Select Committee on Intelligence and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Select Committee on Intelligence and the Committee on Banking, Housing, and Urban Affairs of the Senate concerning all requests made pursuant to subsections (a), (b), and (c) of this section.
+(1) On a semiannual basis, the Attorney General shall fully inform the Permanent Select Committee on Intelligence and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Select Committee on Intelligence and the Committee on Banking, Housing, and Urban Affairs of the Senate concerning all requests made pursuant to subsections (a), (b), and (c).
 
 (2) In the case of the semiannual reports required to be submitted under paragraph (1) to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, the submittal dates for such reports shall be as provided in [section 3106 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3106&num=0&edition=prelim).
 
@@ -8411,7 +8524,7 @@ Amendment by section 358(g)(1)(A) of Pub. L. 107–56 applicable with respect to
 ## § 1681v. Disclosures to governmental agencies for counterterrorism purposes
 **(a) Disclosure** Notwithstanding [section 1681b of this title](./chapter-041-consumer-credit-protection.md#section-1681b) or any other provision of this subchapter, a consumer reporting agency shall furnish a consumer report of a consumer and all other information in a consumer’s file to a government agency authorized to conduct investigations of, or intelligence or counterintelligence activities or analysis related to, international terrorism when presented with a written certification by such government agency that such information is necessary for the agency’s conduct or such investigation, activity or analysis and that includes a term that specifically identifies a consumer or account to be used as the basis for the production of such information.
 
-**(b) Form of certification** The certification described in subsection (a) of this section shall be signed by a supervisory official designated by the head of a Federal agency or an officer of a Federal agency whose appointment to office is required to be made by the President, by and with the advice and consent of the Senate.
+**(b) Form of certification** The certification described in subsection (a) shall be signed by a supervisory official designated by the head of a Federal agency or an officer of a Federal agency whose appointment to office is required to be made by the President, by and with the advice and consent of the Senate.
 
 **(c) Prohibition of certain disclosure**
 
@@ -8735,7 +8848,7 @@ Amendment by Pub. L. 94–239 effective Mar. 23, 1976, see section 708 of Pub. L
 (9) Subtitle E of the Consumer Financial Protection Act of 2010 [[12 U.S.C. 5561](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5561&num=0&edition=prelim) et seq.], by the Bureau, with respect to any person subject to this subchapter.
 The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act ([12 U.S.C. 1813(s)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/s&num=0&edition=prelim)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 ([12 U.S.C. 3101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3101&num=0&edition=prelim)).
 
-**(b) Violations of subchapter deemed violations of preexisting statutory requirements; additional agency powers** For the purpose of the exercise by any agency referred to in subsection (a) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a) of this section, each of the agencies referred to in that subsection may exercise for the purpose of enforcing compliance with any requirement imposed under this subchapter, any other authority conferred on it by law. The exercise of the authorities of any of the agencies referred to in subsection (a) of this section for the purpose of enforcing compliance with any requirement imposed under this subchapter shall in no way preclude the exercise of such authorities for the purpose of enforcing compliance with any other provision of law not relating to the prohibition of discrimination on the basis of sex or marital status with respect to any aspect of a credit transaction.
+**(b) Violations of subchapter deemed violations of preexisting statutory requirements; additional agency powers** For the purpose of the exercise by any agency referred to in subsection (a) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a), each of the agencies referred to in that subsection may exercise for the purpose of enforcing compliance with any requirement imposed under this subchapter, any other authority conferred on it by law. The exercise of the authorities of any of the agencies referred to in subsection (a) for the purpose of enforcing compliance with any requirement imposed under this subchapter shall in no way preclude the exercise of such authorities for the purpose of enforcing compliance with any other provision of law not relating to the prohibition of discrimination on the basis of sex or marital status with respect to any aspect of a credit transaction.
 
 **(c) Overall enforcement authority of Federal Trade Commission** Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under any of paragraphs (1) through (8) of subsection (a), and subject to subtitle B of the Consumer Financial Protection Act of 2010, the Federal Trade Commission shall be authorized to enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act ([15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.), a violation of any requirement imposed under this subchapter 33 See References in Text note below. shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Federal Trade Commission to enforce compliance by any person with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests under the Federal Trade Commission Act, including the power to enforce any rule prescribed by the Bureau under this subchapter in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule.
 
@@ -8808,7 +8921,7 @@ Pub. L. 102–242, § 212(d)(1), added par. (1) and struck out former par. (1) w
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 #### Effective Date of 1992 Amendment
 Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under [section 191 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section191&num=0&edition=prelim), Banks and Banking.
@@ -9019,11 +9132,11 @@ Amendment by Pub. L. 94–239 effective Mar. 23, 1976, see section 708 of Pub. L
 ## § 1691e. Civil liability
 **(a) Individual or class action for actual damages** Any creditor who fails to comply with any requirement imposed under this subchapter shall be liable to the aggrieved applicant for any actual damages sustained by such applicant acting either in an individual capacity or as a member of a class.
 
-**(b) Recovery of punitive damages in individual and class action for actual damages; exemptions; maximum amount of punitive damages in individual actions; limitation on total recovery in class actions; factors determining amount of award** Any creditor, other than a government or governmental subdivision or agency, who fails to comply with any requirement imposed under this subchapter shall be liable to the aggrieved applicant for punitive damages in an amount not greater than $10,000, in addition to any actual damages provided in subsection (a) of this section, except that in the case of a class action the total recovery under this subsection shall not exceed the lesser of $500,000 or 1 per centum of the net worth of the creditor. In determining the amount of such damages in any action, the court shall consider, among other relevant factors, the amount of any actual damages awarded, the frequency and persistence of failures of compliance by the creditor, the resources of the creditor, the number of persons adversely affected, and the extent to which the creditor’s failure of compliance was intentional.
+**(b) Recovery of punitive damages in individual and class action for actual damages; exemptions; maximum amount of punitive damages in individual actions; limitation on total recovery in class actions; factors determining amount of award** Any creditor, other than a government or governmental subdivision or agency, who fails to comply with any requirement imposed under this subchapter shall be liable to the aggrieved applicant for punitive damages in an amount not greater than $10,000, in addition to any actual damages provided in subsection (a), except that in the case of a class action the total recovery under this subsection shall not exceed the lesser of $500,000 or 1 per centum of the net worth of the creditor. In determining the amount of such damages in any action, the court shall consider, among other relevant factors, the amount of any actual damages awarded, the frequency and persistence of failures of compliance by the creditor, the resources of the creditor, the number of persons adversely affected, and the extent to which the creditor’s failure of compliance was intentional.
 
 **(c) Action for equitable and declaratory relief** Upon application by an aggrieved applicant, the appropriate United States district court or any other court of competent jurisdiction may grant such equitable and declaratory relief as is necessary to enforce the requirements imposed under this subchapter.
 
-**(d) Recovery of costs and attorney fees** In the case of any successful action under subsection (a), (b), or (c) of this section, the costs of the action, together with a reasonable attorney’s fee as determined by the court, shall be added to any damages awarded by the court under such subsection.
+**(d) Recovery of costs and attorney fees** In the case of any successful action under subsection (a), (b), or (c), the costs of the action, together with a reasonable attorney’s fee as determined by the court, shall be added to any damages awarded by the court under such subsection.
 
 **(e) Good faith compliance with rule, regulation, or interpretation of Bureau or interpretation or approval by an official or employee of Bureau of Consumer Financial Protection duly authorized by Bureau** No provision of this subchapter imposing liability shall apply to any act done or omitted in good faith in conformity with any official rule, regulation, or interpretation thereof by the Bureau or in conformity with any interpretation or approval by an official or employee of the Bureau of Consumer Financial Protection duly authorized by the Bureau to issue such interpretations or approvals under such procedures as the Bureau may prescribe therefor, notwithstanding that after such act or omission has occurred, such rule, regulation, interpretation, or approval is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
 
@@ -9036,7 +9149,7 @@ then any applicant who has been a victim of the discrimination which is the subj
 
 **(g) Request by responsible enforcement agency to Attorney General for civil action** The agencies having responsibility for administrative enforcement under [section 1691c of this title](./chapter-041-consumer-credit-protection.md#section-1691c), if unable to obtain compliance with [section 1691 of this title](./chapter-041-consumer-credit-protection.md#section-1691), are authorized to refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted. Each agency referred to in paragraphs (1), (2), and (9) of [section 1691c(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1691c/a&num=0&edition=prelim) shall refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has engaged in a pattern or practice of discouraging or denying applications for credit in violation of [section 1691(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1691/a&num=0&edition=prelim). Each such agency may refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has violated [section 1691(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1691/a&num=0&edition=prelim).
 
-**(h) Authority for Attorney General to bring civil action; jurisdiction** When a matter is referred to the Attorney General pursuant to subsection (g) of this section, or whenever he has reason to believe that one or more creditors are engaged in a pattern or practice in violation of this subchapter, the Attorney General may bring a civil action in any appropriate United States district court for such relief as may be appropriate, including actual and punitive damages and injunctive relief.
+**(h) Authority for Attorney General to bring civil action; jurisdiction** When a matter is referred to the Attorney General pursuant to subsection (g), or whenever he has reason to believe that one or more creditors are engaged in a pattern or practice in violation of this subchapter, the Attorney General may bring a civil action in any appropriate United States district court for such relief as may be appropriate, including actual and punitive damages and injunctive relief.
 
 **(i) Recovery under both subchapter and fair housing enforcement provisions prohibited for violation based on same transaction** No person aggrieved by a violation of this subchapter and by a violation of [section 3605 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3605&num=0&edition=prelim) shall recover under this subchapter and section 3612 11 See References in Text note below. of title 42, if such violation is based on the same transaction.
 
@@ -9048,7 +9161,7 @@ then any applicant who has been a victim of the discrimination which is the subj
 
 (2) has reason to believe that the alleged violation would be a violation of the Fair Housing Act [[42 U.S.C. 3601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3601&num=0&edition=prelim) et seq.]; and
 
-(3) does not refer the matter to the Attorney General pursuant to subsection (g) of this section,
+(3) does not refer the matter to the Attorney General pursuant to subsection (g),
 the agency shall notify the Secretary of Housing and Urban Development of the violation, and shall notify the applicant that the Secretary of Housing and Urban Development has been notified of the alleged violation and that remedies for the violation may be available under the Fair Housing Act.
 
 ### Statutory Notes
@@ -9135,7 +9248,7 @@ Section effective Mar. 23, 1976, see section 708 of Pub. L. 90–321, set out as
 ### Statutory Notes
 
 #### Effective Date
-Pub. L. 90–321, title VIII, § 819, formerly § 818, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 883, § 818; renumbered § 819, Pub. L. 109–351, title VIII, § 801(a)(1), Oct. 13, 2006, 120 Stat. 2004, provided that: “This title [enacting this subchapter] takes effect upon the expiration of six months after the date of its enactment [Sept. 20, 1977], but section 809 [[section 1692g of this title](./chapter-041-consumer-credit-protection.md#section-1692g)] shall apply only with respect to debts for which the initial attempt to collect occurs after such effective date.”
+Pub. L. 90–321, title VIII, § 819, formerly § 818, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 883, § 818; renumbered § 819, Pub. L. 109–351, title VIII, § 801(a)(1), Oct. 13, 2006, 120 Stat. 2004, provided that: “This title [enacting this subchapter] takes effect upon the expiration of six months after the date of its enactment [Sept. 20, 1977], but section 809 [[section 1692g of this title](./chapter-041-consumer-credit-protection.md#section-1692g)] shall apply only with respect to debts for which the initial attempt to collect occurs after such effective date.”
 
 #### Short Title
 This subchapter known as the “Fair Debt Collection Practices Act”, see Short Title note set out under [section 1601 of this title](./chapter-041-consumer-credit-protection.md#section-1601).
@@ -9184,6 +9297,9 @@ As used in this subchapter—
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
 
+#### Effective Date
+Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under [section 1692 of this title](./chapter-041-consumer-credit-protection.md#section-1692).
+
 
 <a id="section-1692b"></a>
 ## § 1692b. Acquisition of location information
@@ -9201,6 +9317,11 @@ Any debt collector communicating with any person other than the consumer for the
 (5) not use any language or symbol on any envelope or in the contents of any communication effected by the mails or telegram that indicates that the debt collector is in the debt collection business or that the communication relates to the collection of a debt; and
 
 (6) after the debt collector knows the consumer is represented by an attorney with regard to the subject debt and has knowledge of, or can readily ascertain, such attorney’s name and address, not communicate with any person other than that attorney, unless the attorney fails to respond within a reasonable period of time to communication from the debt collector.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under [section 1692 of this title](./chapter-041-consumer-credit-protection.md#section-1692).
 
 
 <a id="section-1692c"></a>
@@ -9226,6 +9347,11 @@ If such notice from the consumer is made by mail, notification shall be complete
 
 **(d) “Consumer” defined** For the purpose of this section, the term “consumer” includes the consumer’s spouse, parent (if the consumer is a minor), guardian, executor, or administrator.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under [section 1692 of this title](./chapter-041-consumer-credit-protection.md#section-1692).
+
 
 <a id="section-1692d"></a>
 ## § 1692d. Harassment or abuse
@@ -9248,6 +9374,9 @@ A debt collector may not engage in any conduct the natural consequence of which 
 
 #### References in Text
 [Section 1681b(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681b/3&num=0&edition=prelim), referred to in par. (3), was redesignated [section 1681b(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681b/a/3&num=0&edition=prelim) by Pub. L. 104–208, div. A, title II, § 2403(a)(1), Sept. 30, 1996, 110 Stat. 3009–430.
+
+#### Effective Date
+Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under [section 1692 of this title](./chapter-041-consumer-credit-protection.md#section-1692).
 
 
 <a id="section-1692e"></a>
@@ -9303,6 +9432,9 @@ A debt collector may not use any false, deceptive, or misleading representation 
 #### Effective Date of 1996 Amendment
 Pub. L. 104–208, div. A, title II, § 2305(b), Sept. 30, 1996, 110 Stat. 3009–425, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 90 days after the date of enactment of this Act [Sept. 30, 1996] and shall apply to all communications made after that date of enactment.”
 
+#### Effective Date
+Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under [section 1692 of this title](./chapter-041-consumer-credit-protection.md#section-1692).
+
 
 <a id="section-1692f"></a>
 ## § 1692f. Unfair practices
@@ -9331,6 +9463,11 @@ A debt collector may not use unfair or unconscionable means to collect or attemp
 
 (8) Using any language or symbol, other than the debt collector’s address, on any envelope when communicating with a consumer by use of the mails or by telegram, except that a debt collector may use his business name if such name does not indicate that he is in the debt collection business.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under [section 1692 of this title](./chapter-041-consumer-credit-protection.md#section-1692).
+
 
 <a id="section-1692g"></a>
 ## § 1692g. Validation of debts
@@ -9346,7 +9483,7 @@ A debt collector may not use unfair or unconscionable means to collect or attemp
 
 (5) a statement that, upon the consumer’s written request within the thirty-day period, the debt collector will provide the consumer with the name and address of the original creditor, if different from the current creditor.
 
-**(b) Disputed debts** If the consumer notifies the debt collector in writing within the thirty-day period described in subsection (a) of this section that the debt, or any portion thereof, is disputed, or that the consumer requests the name and address of the original creditor, the debt collector shall cease collection of the debt, or any disputed portion thereof, until the debt collector obtains verification of the debt or a copy of a judgment, or the name and address of the original creditor, and a copy of such verification or judgment, or name and address of the original creditor, is mailed to the consumer by the debt collector. Collection activities and communications that do not otherwise violate this subchapter may continue during the 30-day period referred to in subsection (a) unless the consumer has notified the debt collector in writing that the debt, or any portion of the debt, is disputed or that the consumer requests the name and address of the original creditor. Any collection activities and communication during the 30-day period may not overshadow or be inconsistent with the disclosure of the consumer’s right to dispute the debt or request the name and address of the original creditor.
+**(b) Disputed debts** If the consumer notifies the debt collector in writing within the thirty-day period described in subsection (a) that the debt, or any portion thereof, is disputed, or that the consumer requests the name and address of the original creditor, the debt collector shall cease collection of the debt, or any disputed portion thereof, until the debt collector obtains verification of the debt or a copy of a judgment, or the name and address of the original creditor, and a copy of such verification or judgment, or name and address of the original creditor, is mailed to the consumer by the debt collector. Collection activities and communications that do not otherwise violate this subchapter may continue during the 30-day period referred to in subsection (a) unless the consumer has notified the debt collector in writing that the debt, or any portion of the debt, is disputed or that the consumer requests the name and address of the original creditor. Any collection activities and communication during the 30-day period may not overshadow or be inconsistent with the disclosure of the consumer’s right to dispute the debt or request the name and address of the original creditor.
 
 **(c) Admission of liability** The failure of a consumer to dispute the validity of a debt under this section may not be construed by any court as an admission of liability by the consumer.
 
@@ -9367,13 +9504,18 @@ Subsec. (d). Pub. L. 109–351, § 802(a), added subsec. (d).
 Subsec. (e). Pub. L. 109–351, § 802(b), added subsec. (e).
 
 #### Effective Date
-Section applicable only with respect to debts for which the initial attempt to collect occurs after the effective date of this subchapter, which takes effect upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, set out as a note under [section 1692 of this title](./chapter-041-consumer-credit-protection.md#section-1692).
+Section applicable only with respect to debts for which the initial attempt to collect occurs after the effective date of this subchapter, which takes effect upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under [section 1692 of this title](./chapter-041-consumer-credit-protection.md#section-1692).
 
 
 <a id="section-1692h"></a>
 ## § 1692h. Multiple debts
 
 If any consumer owes multiple debts and makes any single payment to any debt collector with respect to such debts, such debt collector may not apply such payment to any debt which is disputed by the consumer and, where applicable, shall apply such payment in accordance with the consumer’s directions.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under [section 1692 of this title](./chapter-041-consumer-credit-protection.md#section-1692).
 
 
 <a id="section-1692i"></a>
@@ -9390,12 +9532,22 @@ If any consumer owes multiple debts and makes any single payment to any debt col
 
 **(b) Authorization of actions** Nothing in this subchapter shall be construed to authorize the bringing of legal actions by debt collectors.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under [section 1692 of this title](./chapter-041-consumer-credit-protection.md#section-1692).
+
 
 <a id="section-1692j"></a>
 ## § 1692j. Furnishing certain deceptive forms
 **(a)** It is unlawful to design, compile, and furnish any form knowing that such form would be used to create the false belief in a consumer that a person other than the creditor of such consumer is participating in the collection of or in an attempt to collect a debt such consumer allegedly owes such creditor, when in fact such person is not so participating.
 
 **(b)** Any person who violates this section shall be liable to the same extent and in the same manner as a debt collector is liable under [section 1692k of this title](./chapter-041-consumer-credit-protection.md#section-1692k) for failure to comply with a provision of this subchapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under [section 1692 of this title](./chapter-041-consumer-credit-protection.md#section-1692).
 
 
 <a id="section-1692k"></a>
@@ -9412,11 +9564,11 @@ If any consumer owes multiple debts and makes any single payment to any debt col
 
 (3) in the case of any successful action to enforce the foregoing liability, the costs of the action, together with a reasonable attorney’s fee as determined by the court. On a finding by the court that an action under this section was brought in bad faith and for the purpose of harassment, the court may award to the defendant attorney’s fees reasonable in relation to the work expended and costs.
 
-**(b) Factors considered by court** In determining the amount of liability in any action under subsection (a) of this section, the court shall consider, among other relevant factors—
+**(b) Factors considered by court** In determining the amount of liability in any action under subsection (a), the court shall consider, among other relevant factors—
 
-(1) in any individual action under subsection (a)(2)(A) of this section, the frequency and persistence of noncompliance by the debt collector, the nature of such noncompliance, and the extent to which such noncompliance was intentional; or
+(1) in any individual action under subsection (a)(2)(A), the frequency and persistence of noncompliance by the debt collector, the nature of such noncompliance, and the extent to which such noncompliance was intentional; or
 
-(2) in any class action under subsection (a)(2)(B) of this section, the frequency and persistence of noncompliance by the debt collector, the nature of such noncompliance, the resources of the debt collector, the number of persons adversely affected, and the extent to which the debt collector’s noncompliance was intentional.
+(2) in any class action under subsection (a)(2)(B), the frequency and persistence of noncompliance by the debt collector, the nature of such noncompliance, the resources of the debt collector, the number of persons adversely affected, and the extent to which the debt collector’s noncompliance was intentional.
 
 **(c) Intent** A debt collector may not be held liable in any action brought under this subchapter if the debt collector shows by a preponderance of evidence that the violation was not intentional and resulted from a bona fide error notwithstanding the maintenance of procedures reasonably adapted to avoid any such error.
 
@@ -9431,6 +9583,9 @@ If any consumer owes multiple debts and makes any single payment to any debt col
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
+
+#### Effective Date
+Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under [section 1692 of this title](./chapter-041-consumer-credit-protection.md#section-1692).
 
 
 <a id="section-1692l"></a>
@@ -9458,7 +9613,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 (6) subtitle E of the Consumer Financial Protection Act of 2010 [[12 U.S.C. 5561](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5561&num=0&edition=prelim) et seq.], by the Bureau, with respect to any person subject to this subchapter.
 The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act ([12 U.S.C. 1813(s)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/s&num=0&edition=prelim)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 ([12 U.S.C. 3101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3101&num=0&edition=prelim)).
 
-**(c) Agency powers** For the purpose of the exercise by any agency referred to in subsection (b) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b) of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter any other authority conferred on it by law, except as provided in subsection (d) of this section.
+**(c) Agency powers** For the purpose of the exercise by any agency referred to in subsection (b) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b), each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter any other authority conferred on it by law, except as provided in subsection (d).
 
 **(d) Rules and regulations** Except as provided in section 1029(a) of the Consumer Financial Protection Act of 2010 [[12 U.S.C. 5519(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5519/a&num=0&edition=prelim)], the Bureau may prescribe rules with respect to the collection of debts by debt collectors, as defined in this subchapter.
 
@@ -9521,13 +9676,16 @@ Pub. L. 102–242, § 212(e)(1), added par. (1) and struck out former par. (1) w
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 #### Effective Date of 1992 Amendment
 Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under [section 191 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section191&num=0&edition=prelim), Banks and Banking.
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note under [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees.
+
+#### Effective Date
+Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under [section 1692 of this title](./chapter-041-consumer-credit-protection.md#section-1692).
 
 #### Transfer of Functions
 Functions vested in Administrator of National Credit Union Administration transferred and vested in National Credit Union Administration Board pursuant to [section 1752a of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1752a&num=0&edition=prelim), Banks and Banking.
@@ -9550,11 +9708,19 @@ The effective date of this subchapter, referred to in subsec. (a), is the date o
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
 
+#### Effective Date
+Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under [section 1692 of this title](./chapter-041-consumer-credit-protection.md#section-1692).
+
 
 <a id="section-1692n"></a>
 ## § 1692n. Relation to State laws
 
 This subchapter does not annul, alter, or affect, or exempt any person subject to the provisions of this subchapter from complying with the laws of any State with respect to debt collection practices, except to the extent that those laws are inconsistent with any provision of this subchapter, and then only to the extent of the inconsistency. For purposes of this section, a State law is not inconsistent with this subchapter if the protection such law affords any consumer is greater than the protection provided by this subchapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under [section 1692 of this title](./chapter-041-consumer-credit-protection.md#section-1692).
 
 
 <a id="section-1692o"></a>
@@ -9569,6 +9735,9 @@ The Bureau shall by regulation exempt from the requirements of this subchapter a
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
+
+#### Effective Date
+Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under [section 1692 of this title](./chapter-041-consumer-credit-protection.md#section-1692).
 
 
 <a id="section-1692p"></a>
@@ -9874,9 +10043,9 @@ Amendment by section 1084(1), (3) of Pub. L. 111–203 effective on the designat
 
   (B) any national, regional, or local network utilized to effect the transaction.
 
-**(b) Notification of changes to consumer** A financial institution shall notify a consumer in writing at least twenty-one days prior to the effective date of any change in any term or condition of the consumer’s account required to be disclosed under subsection (a) of this section if such change would result in greater cost or liability for such consumer or decreased access to the consumer’s account. A financial institution may, however, implement a change in the terms or conditions of an account without prior notice when such change is immediately necessary to maintain or restore the security of an electronic fund transfer system or a consumer’s account. Subject to subsection (a)(3) of this section, the Bureau shall require subsequent notification if such a change is made permanent.
+**(b) Notification of changes to consumer** A financial institution shall notify a consumer in writing at least twenty-one days prior to the effective date of any change in any term or condition of the consumer’s account required to be disclosed under subsection (a) if such change would result in greater cost or liability for such consumer or decreased access to the consumer’s account. A financial institution may, however, implement a change in the terms or conditions of an account without prior notice when such change is immediately necessary to maintain or restore the security of an electronic fund transfer system or a consumer’s account. Subject to subsection (a)(3), the Bureau shall require subsequent notification if such a change is made permanent.
 
-**(c) Time for disclosures respecting accounts accessible prior to effective date of this subchapter** For any account of a consumer made accessible to electronic fund transfers prior to the effective date of this subchapter, the information required to be disclosed to the consumer under subsection (a) of this section shall be disclosed not later than the earlier of—
+**(c) Time for disclosures respecting accounts accessible prior to effective date of this subchapter** For any account of a consumer made accessible to electronic fund transfers prior to the effective date of this subchapter, the information required to be disclosed to the consumer under subsection (a) shall be disclosed not later than the earlier of—
 
 (1) the first periodic statement required by [section 1693d(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1693d/c&num=0&edition=prelim) after the effective date of this subchapter; or
 
@@ -9912,9 +10081,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **(b) Notice of credit to consumer** For a consumer’s account which is scheduled to be credited by a preauthorized electronic fund transfer from the same payor at least once in each successive sixty-day period, except where the payor provides positive notice of the transfer to the consumer, the financial institution shall elect to provide promptly either positive notice to the consumer when the credit is made as scheduled, or negative notice to the consumer when the credit is not made as scheduled, in accordance with regulations of the Bureau. The means of notice elected shall be disclosed to the consumer in accordance with [section 1693c of this title](./chapter-041-consumer-credit-protection.md#section-1693c).
 
-**(c) Periodic statement; contents** A financial institution shall provide each consumer with a periodic statement for each account of such consumer that may be accessed by means of an electronic fund transfer. Except as provided in subsections (d) and (e) of this section, such statement shall be provided at least monthly for each monthly or shorter cycle in which an electronic fund transfer affecting the account has occurred, or every three months, whichever is more frequent. The statement, which may include information regarding transactions other than electronic fund transfers, shall clearly set forth—
+**(c) Periodic statement; contents** A financial institution shall provide each consumer with a periodic statement for each account of such consumer that may be accessed by means of an electronic fund transfer. Except as provided in subsections (d) and (e), such statement shall be provided at least monthly for each monthly or shorter cycle in which an electronic fund transfer affecting the account has occurred, or every three months, whichever is more frequent. The statement, which may include information regarding transactions other than electronic fund transfers, shall clearly set forth—
 
-(1) with regard to each electronic fund transfer during the period, the information described in subsection (a) of this section, which may be provided on an accompanying document;
+(1) with regard to each electronic fund transfer during the period, the information described in subsection (a), which may be provided on an accompanying document;
 
 (2) the amount of any fee or charge assessed by the financial institution during the period for electronic fund transfers or for account maintenance;
 
@@ -9922,9 +10091,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 (4) the address and telephone number to be used by the financial institution for the purpose of receiving any statement inquiry or notice of account error from the consumer. Such address and telephone number shall be preceded by the caption “Direct Inquiries To:” or other similar language indicating that the address and number are to be used for such inquiries or notices.
 
-**(d) Consumer passbook accounts** In the case of a consumer’s passbook account which may not be accessed by electronic fund transfers other than preauthorized electronic fund transfers crediting the account, a financial institution may, in lieu of complying with the requirements of subsection (c) of this section, upon presentation of the passbook provide the consumer in writing with the amount and date of each such transfer involving the account since the passbook was last presented.
+**(d) Consumer passbook accounts** In the case of a consumer’s passbook account which may not be accessed by electronic fund transfers other than preauthorized electronic fund transfers crediting the account, a financial institution may, in lieu of complying with the requirements of subsection (c), upon presentation of the passbook provide the consumer in writing with the amount and date of each such transfer involving the account since the passbook was last presented.
 
-**(e) Accounts other than passbook accounts** In the case of a consumer’s account, other than a passbook account, which may not be accessed by electronic fund transfers other than preauthorized electronic fund transfers crediting the account, the financial institution may provide a periodic statement on a quarterly basis which otherwise complies with the requirements of subsection (c) of this section.
+**(e) Accounts other than passbook accounts** In the case of a consumer’s account, other than a passbook account, which may not be accessed by electronic fund transfers other than preauthorized electronic fund transfers crediting the account, the financial institution may provide a periodic statement on a quarterly basis which otherwise complies with the requirements of subsection (c).
 
 **(f) Documentation as evidence** In any action involving a consumer, any documentation required by this section to be given to the consumer which indicates that an electronic fund transfer was made to another person shall be admissible as evidence of such transfer and shall constitute prima facie proof that such transfer was made.
 
@@ -9961,17 +10130,17 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 (2) indicates the consumer’s belief that the documentation, or, in the case of notification pursuant to [section 1693d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1693d/b&num=0&edition=prelim), the consumer’s account, contains an error and the amount of such error; and
 
 (3) sets forth the reasons for the consumer’s belief (where applicable) that an error has occurred,
-the financial institution shall investigate the alleged error, determine whether an error has occurred, and report or mail the results of such investigation and determination to the consumer within ten business days. The financial institution may require written confirmation to be provided to it within ten business days of an oral notification of error if, when the oral notification is made, the consumer is advised of such requirement and the address to which such confirmation should be sent. A financial institution which requires written confirmation in accordance with the previous sentence need not provisionally recredit a consumer’s account in accordance with subsection (c) of this section, nor shall the financial institution be liable under subsection (e) of this section if the written confirmation is not received within the ten-day period referred to in the previous sentence.
+the financial institution shall investigate the alleged error, determine whether an error has occurred, and report or mail the results of such investigation and determination to the consumer within ten business days. The financial institution may require written confirmation to be provided to it within ten business days of an oral notification of error if, when the oral notification is made, the consumer is advised of such requirement and the address to which such confirmation should be sent. A financial institution which requires written confirmation in accordance with the previous sentence need not provisionally recredit a consumer’s account in accordance with subsection (c), nor shall the financial institution be liable under subsection (e) if the written confirmation is not received within the ten-day period referred to in the previous sentence.
 
 **(b) Correction of error; interest** If the financial institution determines that an error did occur, it shall promptly, but in no event more than one business day after such determination, correct the error, subject to [section 1693g of this title](./chapter-041-consumer-credit-protection.md#section-1693g), including the crediting of interest where applicable.
 
-**(c) Provisional recredit of consumer’s account** If a financial institution receives notice of an error in the manner and within the time period specified in subsection (a) of this section, it may, in lieu of the requirements of subsections (a) and (b) of this section, within ten business days after receiving such notice provisionally recredit the consumer’s account for the amount alleged to be in error, subject to [section 1693g of this title](./chapter-041-consumer-credit-protection.md#section-1693g), including interest where applicable, pending the conclusion of its investigation and its determination of whether an error has occurred. Such investigation shall be concluded not later than forty-five days after receipt of notice of the error. During the pendency of the investigation, the consumer shall have full use of the funds provisionally recredited.
+**(c) Provisional recredit of consumer’s account** If a financial institution receives notice of an error in the manner and within the time period specified in subsection (a), it may, in lieu of the requirements of subsections (a) and (b), within ten business days after receiving such notice provisionally recredit the consumer’s account for the amount alleged to be in error, subject to [section 1693g of this title](./chapter-041-consumer-credit-protection.md#section-1693g), including interest where applicable, pending the conclusion of its investigation and its determination of whether an error has occurred. Such investigation shall be concluded not later than forty-five days after receipt of notice of the error. During the pendency of the investigation, the consumer shall have full use of the funds provisionally recredited.
 
-**(d) Absence of error; finding; explanation** If the financial institution determines after its investigation pursuant to subsection (a) or (c) of this section that an error did not occur, it shall deliver or mail to the consumer an explanation of its findings within 3 business days after the conclusion of its investigation, and upon request of the consumer promptly deliver or mail to the consumer reproductions of all documents which the financial institution relied on to conclude that such error did not occur. The financial institution shall include notice of the right to request reproductions with the explanation of its findings.
+**(d) Absence of error; finding; explanation** If the financial institution determines after its investigation pursuant to subsection (a) or (c) that an error did not occur, it shall deliver or mail to the consumer an explanation of its findings within 3 business days after the conclusion of its investigation, and upon request of the consumer promptly deliver or mail to the consumer reproductions of all documents which the financial institution relied on to conclude that such error did not occur. The financial institution shall include notice of the right to request reproductions with the explanation of its findings.
 
 **(e) Treble damages** If in any action under section 1693m 11 See References in Text note below. of this title, the court finds that—
 
-(1) the financial institution did not provisionally recredit a consumer’s account within the ten-day period specified in subsection (c) of this section, and the financial institution (A) did not make a good faith investigation of the alleged error, or (B) did not have a reasonable basis for believing that the consumer’s account was not in error; or
+(1) the financial institution did not provisionally recredit a consumer’s account within the ten-day period specified in subsection (c), and the financial institution (A) did not make a good faith investigation of the alleged error, or (B) did not have a reasonable basis for believing that the consumer’s account was not in error; or
 
 (2) the financial institution knowingly and willfully concluded that the consumer’s account was not in error when such conclusion could not reasonably have been drawn from the evidence available to the financial institution at the time of its investigation,
 then the consumer shall be entitled to treble damages determined under section 1693m(a)(1) 1 of this title.
@@ -10013,7 +10182,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 (2) the amount of money or value of property or services obtained in such unauthorized electronic fund transfer prior to the time the financial institution is notified of, or otherwise becomes aware of, circumstances which lead to the reasonable belief that an unauthorized electronic fund transfer involving the consumer’s account has been or may be effected. Notice under this paragraph is sufficient when such steps have been taken as may be reasonably required in the ordinary course of business to provide the financial institution with the pertinent information, whether or not any particular officer, employee, or agent of the financial institution does in fact receive such information.
 Notwithstanding the foregoing, reimbursement need not be made to the consumer for losses the financial institution establishes would not have occurred but for the failure of the consumer to report within sixty days of transmittal of the statement (or in extenuating circumstances such as extended travel or hospitalization, within a reasonable time under the circumstances) any unauthorized electronic fund transfer or account error which appears on the periodic statement provided to the consumer under [section 1693d of this title](./chapter-041-consumer-credit-protection.md#section-1693d). In addition, reimbursement need not be made to the consumer for losses which the financial institution establishes would not have occurred but for the failure of the consumer to report any loss or theft of a card or other means of access within two business days after the consumer learns of the loss or theft (or in extenuating circumstances such as extended travel or hospitalization, within a longer period which is reasonable under the circumstances), but the consumer’s liability under this subsection in any such case may not exceed a total of $500, or the amount of unauthorized electronic fund transfers which occur following the close of two business days (or such longer period) after the consumer learns of the loss or theft but prior to notice to the financial institution under this subsection, whichever is less.
 
-**(b) Burden of proof** In any action which involves a consumer’s liability for an unauthorized electronic fund transfer, the burden of proof is upon the financial institution to show that the electronic fund transfer was authorized or, if the electronic fund transfer was unauthorized, then the burden of proof is upon the financial institution to establish that the conditions of liability set forth in subsection (a) of this section have been met, and, if the transfer was initiated after the effective date of [section 1693c of this title](./chapter-041-consumer-credit-protection.md#section-1693c), that the disclosures required to be made to the consumer under section 1693c(a)(1) and (2) of this title were in fact made in accordance with such section.
+**(b) Burden of proof** In any action which involves a consumer’s liability for an unauthorized electronic fund transfer, the burden of proof is upon the financial institution to show that the electronic fund transfer was authorized or, if the electronic fund transfer was unauthorized, then the burden of proof is upon the financial institution to establish that the conditions of liability set forth in subsection (a) have been met, and, if the transfer was initiated after the effective date of [section 1693c of this title](./chapter-041-consumer-credit-protection.md#section-1693c), that the disclosures required to be made to the consumer under section 1693c(a)(1) and (2) of this title were in fact made in accordance with such section.
 
 **(c) Determination of limitation on liability** In the event of a transaction which involves both an unauthorized electronic fund transfer and an extension of credit as defined in section 1602(e) 22 See References in Text note below. of this title pursuant to an agreement between the consumer and the financial institution to extend such credit to the consumer in the event the consumer’s account is overdrawn, the limitation on the consumer’s liability for such transaction shall be determined solely in accordance with this section.
 
@@ -10029,7 +10198,7 @@ Notwithstanding the foregoing, reimbursement need not be made to the consumer fo
 
 <a id="section-1693h"></a>
 ## § 1693h. Liability of financial institutions
-**(a) Action or failure to act proximately causing damages** Subject to subsections (b) and (c) of this section, a financial institution shall be liable to a consumer for all damages proximately caused by—
+**(a) Action or failure to act proximately causing damages** Subject to subsections (b) and (c), a financial institution shall be liable to a consumer for all damages proximately caused by—
 
 (1) the financial institution’s failure to make an electronic fund transfer, in accordance with the terms and conditions of an account, in the correct amount or in a timely manner when properly instructed to do so by the consumer, except where—
 
@@ -10047,13 +10216,13 @@ Notwithstanding the foregoing, reimbursement need not be made to the consumer fo
 
 (3) the financial institution’s failure to stop payment of a preauthorized transfer from a consumer’s account when instructed to do so in accordance with the terms and conditions of the account.
 
-**(b) Acts of God and technical malfunctions** A financial institution shall not be liable under subsection (a)(1) or (2) of this section if the financial institution shows by a preponderance of the evidence that its action or failure to act resulted from—
+**(b) Acts of God and technical malfunctions** A financial institution shall not be liable under subsection (a)(1) or (2) if the financial institution shows by a preponderance of the evidence that its action or failure to act resulted from—
 
 (1) an act of God or other circumstance beyond its control, that it exercised reasonable care to prevent such an occurrence, and that it exercised such diligence as the circumstances required; or
 
 (2) a technical malfunction which was known to the consumer at the time he attempted to initiate an electronic fund transfer or, in the case of a preauthorized transfer, at the time such transfer should have occurred.
 
-**(c) Intent** In the case of a failure described in subsection (a) of this section which was not intentional and which resulted from a bona fide error, notwithstanding the maintenance of procedures reasonably adapted to avoid any such error, the financial institution shall be liable for actual damages proved.
+**(c) Intent** In the case of a failure described in subsection (a) which was not intentional and which resulted from a bona fide error, notwithstanding the maintenance of procedures reasonably adapted to avoid any such error, the financial institution shall be liable for actual damages proved.
 
 **(d) Exception for damaged notices** If the notice required to be posted pursuant to [section 1693b(d)(3)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1693b/d/3/B/i&num=0&edition=prelim) by an automated teller machine operator has been posted by such operator in compliance with such section and the notice is subsequently removed, damaged, or altered by any person other than the operator of the automated teller machine, the operator shall have no liability under this section for failure to comply with [section 1693b(d)(3)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1693b/d/3/B/i&num=0&edition=prelim).
 
@@ -10076,7 +10245,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 (2) as a renewal of, or in substitution for, an accepted card, code, or other means of access, whether issued by the initial issuer or a successor.
 
-**(b) Exceptions** Notwithstanding the provisions of subsection (a) of this section, a person may distribute to a consumer on an unsolicited basis a card, code, or other means of access for use in initiating an electronic fund transfer from such consumer’s account, if—
+**(b) Exceptions** Notwithstanding the provisions of subsection (a), a person may distribute to a consumer on an unsolicited basis a card, code, or other means of access for use in initiating an electronic fund transfer from such consumer’s account, if—
 
 (1) such card, code, or other means of access is not validated;
 
@@ -10086,7 +10255,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 (4) such card, code, or other means of access is validated only in response to a request or application from the consumer, upon verification of the consumer’s identity.
 
-**(c) Validation** For the purpose of subsection (b) of this section, a card, code, or other means of access is validated when it may be used to initiate an electronic fund transfer.
+**(c) Validation** For the purpose of subsection (b), a card, code, or other means of access is validated when it may be used to initiate an electronic fund transfer.
 
 ### Statutory Notes
 
@@ -10268,11 +10437,11 @@ Pub. L. 111–24, title IV, § 403, May 22, 2009, 123 Stat. 1754, which provided
 
 (3) in the case of any successful action to enforce the foregoing liability, the costs of the action, together with a reasonable attorney’s fee as determined by the court.
 
-**(b) Factors determining amount of award** In determining the amount of liability in any action under subsection (a) of this section, the court shall consider, among other relevant factors—
+**(b) Factors determining amount of award** In determining the amount of liability in any action under subsection (a), the court shall consider, among other relevant factors—
 
-(1) in any individual action under subsection (a)(2)(A) of this section, the frequency and persistence of noncompliance, the nature of such noncompliance, and the extent to which the noncompliance was intentional; or
+(1) in any individual action under subsection (a)(2)(A), the frequency and persistence of noncompliance, the nature of such noncompliance, and the extent to which the noncompliance was intentional; or
 
-(2) in any class action under subsection (a)(2)(B) of this section, the frequency and persistence of noncompliance, the nature of such noncompliance, the resources of the defendant, the number of persons adversely affected, and the extent to which the noncompliance was intentional.
+(2) in any class action under subsection (a)(2)(B), the frequency and persistence of noncompliance, the nature of such noncompliance, the resources of the defendant, the number of persons adversely affected, and the extent to which the noncompliance was intentional.
 
 **(c) Unintentional violations; bona fide error** Except as provided in [section 1693h of this title](./chapter-041-consumer-credit-protection.md#section-1693h), a person may not be held liable in any action brought under this section for a violation of this subchapter if the person shows by a preponderance of evidence that the violation was not intentional and resulted from a bona fide error notwithstanding the maintenance of procedures reasonably adapted to avoid any such error.
 
@@ -10359,7 +10528,7 @@ A prior section 917 of Pub. L. 90–321 was renumbered section 918 and is classi
 (5) subtitle E of the Consumer Financial Protection Act of 2010 [[12 U.S.C. 5561](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5561&num=0&edition=prelim) et seq.], by the Bureau, with respect to any person subject to this subchapter, except that the Bureau shall not have authority to enforce the requirements of section 1693o–2 of this title or any regulations prescribed by the Board under section 1693o–2 of this title.
 The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act ([12 U.S.C. 1813(s)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/s&num=0&edition=prelim)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 ([12 U.S.C. 3101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3101&num=0&edition=prelim)).
 
-**(b) Violations of subchapter deemed violations of pre-existing statutory requirements; additional powers** For the purpose of the exercise by any agency referred to in any of paragraphs (1) through (4) of subsection (a) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in any of paragraphs (1) through (4) of subsection (a) of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter, any other authority conferred on it by law.
+**(b) Violations of subchapter deemed violations of pre-existing statutory requirements; additional powers** For the purpose of the exercise by any agency referred to in any of paragraphs (1) through (4) of subsection (a) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in any of paragraphs (1) through (4) of subsection (a), each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter, any other authority conferred on it by law.
 
 **(c) Overall enforcement authority of the Federal Trade Commission** Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under any of paragraphs (1) through (4) of subsection (a), and subject to subtitle B of the Consumer Financial Protection Act of 2010, the Federal Trade Commission shall be authorized to enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act [[15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.], a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Federal Trade Commission to enforce compliance by any person subject to the jurisdiction of the Federal Trade Commission with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests under the Federal Trade Commission Act.
 

@@ -69,23 +69,47 @@ In this chapter:
 
 (7) **Fishing vessel.—** — The term “fishing vessel” has the meaning given that term in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1802&num=0&edition=prelim)), and any reference in this chapter to a vessel designed principally for commercial use in the fishing trade or industry is deemed to be a reference to a fishing vessel.
 
-(8) **Mortgage.—** — The term “mortgage” includes—
+(8) **Historical uses.—** — The term “historical uses” includes—
+
+  (A) refurbishing, repairing, rebuilding, or replacing equipment on a fishing vessel, without materially increasing harvesting capacity;
+
+  (B) purchasing a used fishing vessel;
+
+  (C) purchasing, constructing, expanding, or reconditioning a fishery facility;
+
+  (D) refinancing existing debt;
+
+  (E) reducing fishing capacity; and
+
+  (F) making upgrades to a fishing vessel, including upgrades in technology, gear, or equipment, that improve—
+
+    (i) collection and reporting of fishery-dependent data;
+
+    (ii) bycatch reduction or avoidance;
+
+    (iii) gear selectivity;
+
+    (iv) adverse impacts caused by fishing gear; or
+
+    (v) safety.
+
+(9) **Mortgage.—** — The term “mortgage” includes—
 
   (A) a preferred mortgage as defined in [section 31301 of this title](./chapter-313-commercial-instruments-and-maritime-liens.md#section-31301); and
 
   (B) a mortgage on a vessel that will become a preferred mortgage when filed or recorded under chapter 313 of this title.
 
-(9) **Obligation.—** — The term “obligation” means an instrument of indebtedness issued for a purpose described in [section 53706 of this title](./chapter-537-loans-and-guarantees.md#section-53706), except—
+(10) **Obligation.—** — The term “obligation” means an instrument of indebtedness issued for a purpose described in [section 53706 of this title](./chapter-537-loans-and-guarantees.md#section-53706), except—
 
   (A) an obligation issued by the Secretary or Administrator under [section 53723 of this title](./chapter-537-loans-and-guarantees.md#section-53723); and
 
   (B) an obligation eligible for investment of funds under section 53715(f) or 53717 of this title.
 
-(10) **Obligee.—** — The term “obligee” means the holder of an obligation.
+(11) **Obligee.—** — The term “obligee” means the holder of an obligation.
 
-(11) **Obligor.—** — The term “obligor” means a party primarily liable for payment of the principal of or interest on an obligation.
+(12) **Obligor.—** — The term “obligor” means a party primarily liable for payment of the principal of or interest on an obligation.
 
-(12) **Ocean thermal energy conversion facility or plantship.—** — The term “ocean thermal energy conversion facility or plantship” means an at-sea facility or vessel, whether mobile, floating unmoored, moored, or standing on the seabed, that uses temperature differences in ocean water to produce electricity or another form of energy capable of being used directly to perform work, and includes—
+(13) **Ocean thermal energy conversion facility or plantship.—** — The term “ocean thermal energy conversion facility or plantship” means an at-sea facility or vessel, whether mobile, floating unmoored, moored, or standing on the seabed, that uses temperature differences in ocean water to produce electricity or another form of energy capable of being used directly to perform work, and includes—
 
   (A) equipment installed on the facility or vessel to use the electricity or other form of energy to produce, process, refine, or manufacture a product;
 
@@ -93,9 +117,9 @@ In this chapter:
 
   (C) other associated equipment and appurtenances of the facility or vessel to the extent they are located seaward of the high water mark.
 
-(13) **Secretary.—** — The term “Secretary” means the Secretary of Commerce with respect to fishing vessels and fishery facilities.
+(14) **Secretary.—** — The term “Secretary” means the Secretary of Commerce with respect to fishing vessels and fishery facilities.
 
-(14) **Vessel.—** — The term “vessel” means any type of vessel, whether in existence or under construction, including—
+(15) **Vessel.—** — The term “vessel” means any type of vessel, whether in existence or under construction, including—
 
   (A) a cargo vessel;
 
@@ -153,6 +177,8 @@ In paragraph (5)(B)(ii), the words “corporation, partnership, association, or 
 In paragraph (8), before subparagraph (A), the words “instrument of indebtedness” are substituted for “note, bond, debenture, or other evidence of indebtedness” to eliminate unnecessary words. In subparagraph (B), the reference to section 53717 is substituted for the reference to 46 App. U.S.C. 1272 because the accounts under section 53717 replace the Federal Ship Financing Fund. See the explanation for section 53717.
 
 #### Amendments
+2016—Pars. (8) to (15). Pub. L. 114–120 added par. (8) and redesignated former pars. (8) to (14) as (9) to (15), respectively.
+
 2008—Pub. L. 110–181, § 3522(b), repealed Pub. L. 109–163, § 3507(a)(1)(A), (b)(1). See 2006 Amendment note below.
 
 Pub. L. 110–181, § 3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, § 3507(a)(1)(A), into this section by inserting “or Administrator” after “Secretary” wherever appearing in pars. (1)(B), (4), and (9)(A). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-definitions.md#section-101).
@@ -172,6 +198,14 @@ Pub. L. 110–181, § 3522(a)(1), incorporated the substance of the amendment by
 
 (2) **Interest rate.—** — Notwithstanding any other provision of this chapter, the annual rate of interest an obligor shall pay on a direct loan obligation under this subsection is 2 percent plus the additional percent the Secretary must pay as interest to borrow from the Treasury the funds to make the loan.
 
+(3) **Minimum obligations available for historic uses.—** — Of the direct loan obligations issued by the Secretary under this chapter, the Secretary shall make a minimum of $59,000,000 available each fiscal year for historic uses.
+
+(4) **Use of obligations in limited access fisheries.—** — In addition to the other eligible purposes and uses of direct loan obligations provided for in this chapter, the Secretary may issue direct loan obligations for the purpose of—
+
+  (A) financing the construction or reconstruction of a fishing vessel in a fishery managed under a limited access system; or
+
+  (B) financing the purchase of harvesting rights in a fishery that is federally managed under a limited access system.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -186,6 +220,8 @@ In subsection (a), the words “on terms the Secretary may prescribe” are adde
 Subsec. (b) of this section was derived from section 1112 of act June 29, 1936, as added by Pub. L. 104–297, § 303(a), which was classified to section 1279g of the former Appendix to this title. Section 1112 was renumbered section 1114 of the Act by Pub. L. 109–163, div. C, title XXXV, § 3507(d), Jan. 6, 2006, 119 Stat. 3557, which was repealed by Pub. L. 110–181, div. C, title XXXV, § 3522(b), Jan. 28, 2008, 122 Stat. 598. See Historical and Revision notes above and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-definitions.md#section-101).
 
 #### Amendments
+2016—Subsec. (b)(3), (4). Pub. L. 114–120 added pars. (3) and (4).
+
 2008—Pub. L. 110–181, § 3522(b), repealed Pub. L. 109–163, § 3507(a)(1)(C), (d). See 2006 Amendment note below and Codification note above.
 
 Subsec. (a). Pub. L. 110–181, § 3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, § 3507(a)(1)(C), into this section by inserting “or Administrator” after “Secretary” in two places. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-definitions.md#section-101).
@@ -427,7 +463,7 @@ See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as
 2006—Pub. L. 109–163, § 3507(a)(1)(D), (2)(A), (B), (b)(2), which directed the amendment of sections 1273(i), (j) and 1274(a) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, § 3522(b). See 2008 Amendment notes for subsecs. (a)(3)(B)(iii) and (c) and Historical and Revision notes above.
 
 #### Prohibition of New Loans for Construction of Fishing Vessels Under Certain Conditions
-Pub. L. 104–297, title III, § 302(b)(2), Oct. 11, 1996, 110 Stat. 3615, as amended by Pub. L. 105–277, div. C, title II, § 212, Oct. 21, 1998, 112 Stat. 2681–635; Pub. L. 107–206, title I, § 1103, Aug. 2, 2002, 116 Stat. 884, provided that: “No loans may be provided or guaranteed by the Federal Government for the construction or rebuilding of a vessel intended for use as a fishing vessel (as defined in [section 2101 of title 46](./chapter-021-general.md#section-2101), United States Code), if such vessel will be greater than 165 feet in registered length, of more than 750 gross registered tons (as measured under chapter 145 of title 46) or 1,900 gross registered tons [(]as measured under chapter 143 of that title), or have an engine or engines capable of producing a total of more than 3,000 shaft horsepower, after such construction or rebuilding is completed. This prohibition shall not apply to vessels to be used in the menhaden fishery or in tuna purse seine fisheries outside the exclusive economic zone of the United States or the area of the South Pacific Regional Fisheries Treaty.”
+Pub. L. 104–297, title III, § 302(b)(2), Oct. 11, 1996, 110 Stat. 3615, as amended by Pub. L. 105–277, div. C, title II, § 212, Oct. 21, 1998, 112 Stat. 2681–635; Pub. L. 107–206, title I, § 1103, Aug. 2, 2002, 116 Stat. 884; Pub. L. 114–120, title III, § 302(b), Feb. 8, 2016, 130 Stat. 52, provided that: “No loans may be provided or guaranteed by the Federal Government for the construction or rebuilding of a vessel intended for use as a fishing vessel (as defined in [section 2101 of title 46](./chapter-021-general.md#section-2101), United States Code), if such vessel will be greater than 165 feet in registered length, of more than 750 gross registered tons (as measured under chapter 145 of title 46) or 1,900 gross registered tons [(]as measured under chapter 143 of that title), or have an engine or engines capable of producing a total of more than 3,000 shaft horsepower, after such construction or rebuilding is completed. This prohibition shall not apply to vessels to be used in the menhaden fishery, in tuna purse seine fisheries outside the exclusive economic zone of the United States or the area of the South Pacific Regional Fisheries Treaty, in fisheries that are under the jurisdiction of the North Pacific Fishery Management Council and managed under a fishery management plan issued under the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1801&num=0&edition=prelim) et seq.), or in the Pacific whiting fishery that is under the jurisdiction of the Pacific Fishery Management Council and managed under a fishery management plan issued under that Act. Any fishing vessel operated in fisheries under the jurisdiction of the North Pacific Fishery Management Council and managed under a fishery management plan issued under the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1801&num=0&edition=prelim) et seq.), or in the Pacific whiting fishery under the jurisdiction of the Pacific Fishery Management Council and managed under a fishery management plan issued under that Act, and that is replaced by a vessel that is constructed or rebuilt with a loan or loan guarantee provided by the Federal Government may not be used to harvest fish in any fishery under the jurisdiction of any regional fishery management council, other than a fishery under the jurisdiction of the North Pacific Fishery Management Council or the Pacific Fishery Management Council.”
 
 [Pub. L. 107–206, title I, § 1103, Aug. 2, 2002, 116 Stat. 884, which directed the amendment of title II of division C of Public Law 105–277 by substituting “of more than 750 gross registered tons (as measured under chapter 145 of title 46) or 1,900 gross registered tons as measured under chapter 143 of that title)” for “of more than 750 gross registered tons”, was executed to section 302(b)(2) of Pub. L. 104–297, set out above, as amended by section 212 of Pub. L. 105–277, to reflect the probable intent of Congress.]
 

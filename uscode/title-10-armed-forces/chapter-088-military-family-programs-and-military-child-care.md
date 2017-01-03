@@ -7,8 +7,8 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
 <a id="section-1781"></a>
-## § 1781. Office of Family Policy
-**(a) Establishment.—** There is in the Office of the Secretary of Defense an Office of Family Policy (in this section referred to as the “Office”). The Office shall be headed by the Director of Family Policy, who shall serve within the Office of the Under Secretary of Defense for Personnel and Readiness.
+## § 1781. Office of Military Family Readiness Policy
+**(a) Establishment.—** There is in the Office of the Secretary of Defense an Office of Military Family Readiness Policy (in this section referred to as the “Office”). The Office shall be headed by the Director of Military Family Readiness Policy, who shall serve within the Office of the Under Secretary of Defense for Personnel and Readiness.
 
 **(b) Duties.—** The Office—
 
@@ -24,12 +24,19 @@ source: >-
 Provisions similar to those in this subchapter were contained in Pub. L. 99–145, title VIII, Nov. 8, 1985, 99 Stat. 678, as amended, which was set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113), prior to repeal by Pub. L. 104–106, § 568(e)(1).
 
 #### Amendments
+2016—Pub. L. 114–328, § 933(a)(4)(A), substituted “Office of Military Family Readiness Policy” for “Office of Family Policy” in section catchline.
+
+Subsec. (a). Pub. L. 114–328, § 933(a)(1), substituted “Office of Military Family Readiness Policy” for “Office of Family Policy” and “Director of Military Family Readiness Policy” for “Director of Family Policy”.
+
 2013—Subsec. (a). Pub. L. 112–239, in first sentence, substituted “in the Office” for “in the Director” and struck out “hereinafter” before “in this section”, and in second sentence, substituted “Office” for “office” in two places.
 
 2011—Subsec. (a). Pub. L. 111–383 substituted “the Director” for “the Office” before “of the Secretary” and “The office shall be headed by the Director of Family Policy, who shall serve within the office of the Under Secretary of Defense for Personnel and Readiness.” for “The Office shall be under the Assistant Secretary of Defense for Force Management and Personnel.”
 
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under [section 131 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-131).
+
+#### Support for Programs Providing Camp Experience for Children of Military Families
+Pub. L. 114–328, div. A, title V, § 577, Dec. 23, 2016, 130 Stat. 2143, provided that: “(a) Authority to Provide Support.—The Secretary of Defense may provide financial or non-monetary support to qualified nonprofit organizations in order to assist such organizations in carrying out programs to support the attendance at a camp, or camp-like setting, of children of military families who have experienced the death of a family member or other loved one or who have another family member living with a substance use disorder or post-traumatic stress disorder. “(b) Application for Support.—“(1) In general.—Each organization seeking support pursuant to subsection (a) shall submit to the Secretary of Defense an application therefor containing such information as the Secretary shall specify for purposes of this section. “(2) Contents.—Each application submitted under paragraph (1) shall include the following:“(A) A description of the program for which support is being sought, including the location of the setting or settings under the program, the duration of such setting or settings, any local partners participating in or contributing to the program, and the ratio of counselors, trained volunteers, or both to children at such setting or settings. “(B) An estimate of the number of children of military families to be supported using the support sought. “(C) A description of the type of activities that will be conducted using the support sought, including the manner in which activities are particularly supportive to children of military families described in subsection (a). “(D) A description of the outreach conducted or to be conducted by the organization to military families regarding the program. “(c) Use of Support.—Support provided by the Secretary of Defense to an organization pursuant to subsection (a) shall be used by the organization to support attendance at a camp, or camp-like setting, of children of military families described in subsection (a).”
 
 #### Establishment of Online Resources To Provide Information About Benefits and Services Available to Members of the Armed Forces and Their Families
 Pub. L. 111–84, div. A, title V, § 561, Oct. 28, 2009, 123 Stat. 2302, provided that: “(a) Internet Outreach Website.—“(1) Establishment.—The Secretary of Defense shall establish an Internet website or other online resources for the purpose of providing comprehensive information to members of the Armed Forces and their families about the benefits and services described in subsection (b) that are available to members of the Armed Forces and their families. “(2) Contact information.—The online resources shall provide contact information, both telephone and e-mail, that a member of the Armed Forces or dependent of the member can use to get specific information about benefits and services that may be available for the member or dependent. “(b) Covered Benefits and Services.—The information provided through the online resources established pursuant to subsection (a) shall include information regarding the following benefits and services that may be available to a member of the Armed Forces and dependents of the member:“(1) Financial compensation, including financial counseling. “(2) Health care and life insurance programs. “(3) Death benefits. “(4) Entitlements and survivor benefits for dependents, including offsets in the receipt of such benefits under the Survivor Benefit Plan and in connection with the receipt of dependency and indemnity compensation. “(5) Educational assistance benefits, including limitations on and the transferability of such assistance. “(6) Housing assistance benefits, including counseling. “(7) Relocation planning and preparation. “(8) Maintaining military records. “(9) Legal assistance. “(10) Quality of life programs. “(11) Family and community programs. “(12) Employment assistance upon separation or retirement of a member or for the spouse of the member. “(13) Reserve component service for members completing service in a regular component. “(14) Disability benefits, including offsets in connection with the receipt of such benefits. “(15) Benefits and services provided under laws administered by the Secretary of Veterans Affairs. “(16) Such other benefits and services as the Secretary of Defense considers appropriate. “(c) Dissemination of Information on Availability on Online Resources.—The Secretaries of the military departments shall use public service announcements, publications, and such other announcements through the general media as the Secretaries consider appropriate to inform members of the Armed Forces and their families and the general public about the information available through the online resources established pursuant to subsection (a). “(d) Implementation Report.—Not later than one year after the date of the enactment of this Act [Oct. 28, 2009], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the quality and scope of the online resources established pursuant to subsection (a) to provide information about benefits and services for members of the Armed Forces and their families.”
@@ -42,6 +49,63 @@ Pub. L. 109–364, div. A, title VI, § 675, Oct. 17, 2006, 120 Stat. 2273, as a
 
 #### Recognition of Military Families
 Pub. L. 108–136, div. A, title V, § 581, Nov. 24, 2003, 117 Stat. 1489, provided that: “(a) Findings.—Congress makes the following findings:“(1) The families of both active and reserve component members of the Armed Forces, through their sacrifices and their dedication to the Nation and its values, contribute immeasurably to the readiness of the Armed Forces. “(2) Without the continued support of military families, the Nation’s ability to sustain a high quality all-volunteer military force would be undermined. “(3) In the perilous and challenging times of the global war on terrorism, with hundreds of thousands of active and reserve component military personnel deployed overseas in places of combat and other imminent danger, military families are making extraordinary sacrifices and will be required to do so for the foreseeable future. “(4) Beginning in 1997, military family service and support centers have responded to the encouragement and support of private, non-profit organizations to recognize and honor the American military family during the Thanksgiving period each November. “(b) Military Family Recognition.—In view of the findings in subsection (a), Congress determines that it is appropriate that special measures be taken annually to recognize and honor the American military family. “(c) Department of Defense Programs and Activities.—The Secretary of Defense shall—“(1) implement and sustain programs, including appropriate ceremonies and activities, to recognize and honor the contributions and sacrifices of the American military family, including families of both active and reserve component military personnel; “(2) focus the celebration of the American military family during a specific period of each year to give full and proper recognition to those families; and “(3) seek the assistance and support of appropriate civilian organizations, associations, and other entities (A) in carrying out the annual celebration of the American military family, and (B) in sustaining other, longer-term efforts to support the American military family.”
+
+#### Supporting New American Service Members, Veterans, and Their Families
+Memorandum of President of the United States, Dec. 22, 2016, 81 F.R. 95849, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+My Administration has maintained a steadfast commitment to honor and serve the brave men and women who have served this country. Like all service members and veterans, foreign-born residents and naturalized citizens serving in the United States Armed Forces are shining examples of the American dream. These brave new Americans have taken the extraordinary step of answering the call to duty, to support and defend our country. Some have made the ultimate sacrifice for our country before becoming American citizens.
+
+New American service members are undoubtedly a critical element of our national security. They risk their lives all over the world in the name of the United States, securing shipping lanes, protecting bases and embassies, providing medical assistance, and conducting humanitarian missions. Tens of thousands of lawful permanent residents and naturalized U.S. citizens currently serve in our Armed Forces. Many more are veterans who have served previously in the Armed Forces. Additionally, many U.S.-born service members have immediate family members who were born abroad.
+
+Over the past decade, the Departments of Defense, Veterans Affairs, and Homeland Security have strengthened partnerships to provide services and opportunities to service members, veterans, and their families interacting with the U.S. immigration system. Indeed, since 2001, more than 110,000 service members have been naturalized and many were assisted in the process through partnerships such as the “Naturalization at Basic Training Initiative,” which gives non-citizen enlistees the opportunity to naturalize during basic training. Despite these efforts, service members, veterans, and their families still face barriers to accessing immigration benefits and other assistance for which they may be eligible.
+
+In light of the sacrifices that all of these individuals make and have made for our country, it is critical that executive departments and agencies (agencies) enhance collaboration and streamline processes to ensure that they receive the services and benefits they need and have earned. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, and to address the issues facing new American service members, veterans, and their families, I hereby direct as follows:
+
+Section 1. Interagency Working Group to Support New American Service Members, Veterans, and their Families. There is established a Working Group to Support New American Service Members, Veterans, and their Families (Working Group) to coordinate records, benefits, and immigration and citizenship services for these service members, veterans, and their families. The Working Group shall convene its first meeting within 10 days of the date of this memorandum.
+
+(a) The Working Group shall consist of representatives from:
+
+(i) the Department of State;
+
+(ii) the Department of Defense;
+
+(iii) the Department of Justice;
+
+(iv) the Department of Labor;
+
+(v) the Department of Veterans Affairs; and
+
+(vi) the Department of Homeland Security.
+
+(b) The Working Group shall consult with additional agencies or offices, as appropriate.
+
+Sec. 2. Mission and Functions of the Working Group. (a) The Working Group shall coordinate agency efforts to support service members, veterans, and their families who are navigating the immigration, veterans, and military systems. Such efforts shall include:
+
+(i) coordinating the sharing of military records and other information relevant to immigration or veterans benefits;
+
+(ii) enhancing awareness of naturalization and immigration benefits to provide timely assistance and information to service members, veterans, and their families;
+
+(iii) coordinating and facilitating the process of adjudicating immigration applications and petitions; and
+
+(iv) other efforts that further support service members, veterans, and their families.
+
+(b) Within 30 days of the date of this memorandum, the Working Group shall develop an initial 3-year strategic action plan that details broad approaches to be taken to enhance access to services and benefits. This initial plan shall be supplemented by a more detailed plan, to be published within 120 days of the date of this memorandum that discusses the steps to be taken in greater detail. The Working Group shall also report periodically on its accomplishments and ongoing initiatives.
+
+Sec. 3. Outreach. Consistent with the objectives of this memorandum and applicable law, the Working Group shall seek the views of representatives of private and nonprofit organizations; veterans and military service organizations; State, tribal, and local government agencies; elected officials; and other interested persons to inform the Working Group’s plans.
+
+Sec. 4. General Provisions. (a) The heads of agencies shall assist and provide information to the Working Group, consistent with applicable law, as may be necessary to carry out the functions of the Working Group. Each agency and office shall bear its own expense for carrying out activities related to the Working Group.
+
+(b) Nothing in this memorandum shall be construed to impair or otherwise affect the authority granted by law to an executive department or an agency, or the head thereof, or the status of that department or agency within the Federal Government.
+
+(c) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(e) The Secretary of Homeland Security is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.
 
 
 <a id="section-1781a"></a>
@@ -66,7 +130,7 @@ Pub. L. 108–136, div. A, title V, § 581, Nov. 24, 2003, 117 Stat. 1489, provi
 
   (D) The senior enlisted advisor from each of the Army, Navy, Marine Corps, and Air Force, except that two of these members may instead be selected from among the spouses of the senior enlisted advisors.
 
-  (E) The Director of the Office of Community Support for Military Families with Special Needs.
+  (E) The Director of the Office of Military Family Readiness Policy.
 
 (2)
 
@@ -97,6 +161,8 @@ Pub. L. 108–136, div. A, title V, § 581, Nov. 24, 2003, 117 Stat. 1489, provi
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (b)(1)(E). Pub. L. 114–328 substituted “Office of Military Family Readiness Policy” for “Office of Community Support for Military Families with Special Needs”.
+
 2011—Subsec. (b). Pub. L. 112–81 amended subsec. (b) generally. Prior to amendment, subsec. (b) related to members.
 
 Subsec. (b)(1)(B). Pub. L. 111–383, § 581(d)(1)(A), struck out “, who shall be appointed by the Secretary of Defense” after “Air Force”.
@@ -120,6 +186,9 @@ Subsec. (b)(3). Pub. L. 111–383, § 581(d)(2), added par. (3).
 2009—Subsec. (b)(1)(C) to (E). Pub. L. 111–84, § 562(a), added subpar. (C), redesignated former subpars. (C) and (D) as (D) and (E), respectively, and substituted “subparagraphs (B) and (C)” for “subparagraph (B)” in subpar. (E).
 
 Subsec. (b)(2). Pub. L. 111–84, § 562(b), substituted “subparagraphs (C) and (D) of paragraph (1)” for “paragraph (1)(C)” and inserted at end “Representation on the Council required by clause (i) of paragraph (1)(C) shall rotate between the Army National Guard and Air National Guard. Representation required by clause (ii) of such paragraph shall rotate among the reserve components specified in such clause.”
+
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (e) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
 
 <a id="section-1781b"></a>
@@ -159,22 +228,16 @@ Subsec. (b)(2). Pub. L. 111–84, § 562(b), substituted “subparagraphs (C) an
 
 
 <a id="section-1781c"></a>
-## § 1781c. Office of Community Support for Military Families With Special Needs
-**(a) Establishment.—** There is in the Office of the Under Secretary of Defense for Personnel and Readiness the Office of Community Support for Military Families With Special Needs (in this section referred to as the “Office”).
+## § 1781c. Office of Special Needs
+**(a) Establishment.—** There is in the Office of Military Family Readiness Policy the Office of Special Needs (in this section referred to as the “Office”).
 
 **(b) Purpose.—** The purpose of the Office is to enhance and improve Department of Defense support around the world for military families with special needs (whether medical or educational needs) through the development of appropriate policies, enhancement and dissemination of appropriate information throughout the Department of Defense, support for such families in obtaining referrals for services and in obtaining service, and oversight of the activities of the military departments in support of such families.
 
-**(c) Director.—**
+**(c) Responsibilities.—** The Office shall have the responsibilities as follows:
 
-(1) The head of the Office shall be the Director of the Office of Community Support for Military Families With Special Needs, who shall be a member of the Senior Executive Service or a general officer or flag officer.
+(1) To develop and implement a comprehensive policy on support for military families with special needs as required by subsection (d).
 
-(2) In the discharge of the responsibilities of the Office, the Director shall be subject to the supervision, direction, and control of the Under Secretary of Defense for Personnel and Readiness.
-
-**(d) Responsibilities.—** The Office shall have the responsibilities as follows:
-
-(1) To develop and implement a comprehensive policy on support for military families with special needs as required by subsection (e).
-
-(2) To establish and oversee the programs required by subsection (f).
+(2) To establish and oversee the programs required by subsection (e).
 
 (3) To identify gaps in services available through the Department of Defense for military families with special needs.
 
@@ -188,7 +251,7 @@ Subsec. (b)(2). Pub. L. 111–84, § 562(b), substituted “subparagraphs (C) an
 
 (8) To carry out such other matters with respect to the programs and activities of the Department of Defense regarding military families with special needs as the Under Secretary of Defense for Personnel and Readiness shall specify.
 
-**(e) Policy.—**
+**(d) Policy.—**
 
 (1) The Office shall develop, and update from time to time, a uniform policy for the Department of Defense regarding military families with special needs. The policy shall apply with respect to members of the armed forces without regard to their location, whether within or outside the continental United States.
 
@@ -220,7 +283,7 @@ Subsec. (b)(2). Pub. L. 111–84, § 562(b), substituted “subparagraphs (C) an
 
   (G) Requirements for record keeping, reporting, and continuous monitoring of available resources and family needs under individualized services support plans for military families with special needs, including the establishment and maintenance of a central or various regional databases for such purposes.
 
-**(f) Programs.—**
+**(e) Programs.—**
 
 (1) The Office shall establish, maintain, and oversee a program to provide information and referral services on special needs matters to military families with special needs on a continuous basis regardless of the location of the member’s assignment. The program shall provide for timely access by members of such military families to individual case managers and counselors on matters relating to special needs.
 
@@ -232,31 +295,53 @@ Subsec. (b)(2). Pub. L. 111–84, § 562(b), substituted “subparagraphs (C) an
 
 (3)
 
-  (A) The Office shall provide support to the Secretary of each military department in the establishment and sustainment by such Secretary of a program for the support of military families with special needs under the jurisdiction of such Secretary. Each program shall be consistent with the policy developed by the Office under subsection (e).
+  (A) The Office shall provide support to the Secretary of each military department in the establishment and sustainment by such Secretary of a program for the support of military families with special needs under the jurisdiction of such Secretary. Each program shall be consistent with the policy developed by the Office under subsection (d).
 
   (B) Each program under this paragraph shall provide for appropriate numbers of case managers for the development and oversight of individualized services plans for educational and medical support for military families with special needs.
 
   (C) Services under a program under this paragraph may be provided by contract or other arrangements with non-Department of Defense entities qualified to provide such services.
 
-**(g) Resources.—** The Secretary of Defense shall assign to the Office such resources, including personnel, as the Secretary considers necessary for the discharge of the responsibilities of the Office, including a sufficient number of members of the armed forces to ensure appropriate representation by the military departments in the personnel of the Office.
+**(f) Resources.—** The Secretary of Defense shall assign to the Office such resources, including personnel, as the Secretary considers necessary for the discharge of the responsibilities of the Office, including a sufficient number of members of the armed forces to ensure appropriate representation by the military departments in the personnel of the Office.
 
-**(h) Reports.—**
+**(g) Reports.—**
 
 (1) Not later than April 30 each year, the Secretary of Defense shall submit to the congressional defense committees a report on the activities of the Office.
 
 (2) Each report under this subsection shall include the following:
 
-  (A) A description of any gaps in services available through the Department of Defense for military families with special needs that were identified under subsection (d)(3).
+  (A) A description of any gaps in services available through the Department of Defense for military families with special needs that were identified under subsection (c)(3).
 
-  (B) A description of the actions being taken, or planned, to address such gaps, including any plans developed under subsection (d)(4).
+  (B) A description of the actions being taken, or planned, to address such gaps, including any plans developed under subsection (c)(4).
 
   (C) Such recommendations for legislative action as the Secretary considers appropriate to provide for the continuous improvement of support and services for military families with special needs.
 
-**(i) Military Family With Special Needs.—** For purposes of this section, a military family with special needs is any military family with one or more members who has a medical or educational special need (as defined by the Secretary in regulations for purposes of this section), including a condition covered by the Extended Health Care Option Program under [section 1079f of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1079f&num=0&edition=prelim).
+**(h) Military Family With Special Needs.—** For purposes of this section, a military family with special needs is any military family with one or more members who has a medical or educational special need (as defined by the Secretary in regulations for purposes of this section), including a condition covered by the Extended Health Care Option Program under [section 1079f of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1079f&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Amendments
+2016—Pub. L. 114–328, § 933(b)(5)(A), substituted “Office of Special Needs” for “Office of Community Support for Military Families With Special Needs” in section catchline.
+
+Subsec. (a). Pub. L. 114–328, § 933(b)(2), substituted “Office of Military Family Readiness Policy” for “Office of the Under Secretary of Defense for Personnel and Readiness”.
+
+Pub. L. 114–328, § 933(b)(1), which directed substitution of “Office of Special Needs” for “Office of Community Support for Military Families with Special Needs”, was executed by making the substitution for “Office of Community Support for Military Families With Special Needs” to reflect the probable intent of Congress.
+
+Subsec. (c). Pub. L. 114–328, § 933(b)(3), (4)(A)–(C), redesignated subsec. (d) as (c), substituted “subsection (d)” for “subsection (e)” in par. (1) and “subsection (e)” for “subsection (f)” in par. (2), and struck out former subsec. (c). Prior to amendment, text read as follows:
+
+“(1) The head of the Office shall be the Director of the Office of Community Support for Military Families With Special Needs, who shall be a member of the Senior Executive Service or a general officer or flag officer.
+
+“(2) In the discharge of the responsibilities of the Office, the Director shall be subject to the supervision, direction, and control of the Under Secretary of Defense for Personnel and Readiness.”
+
+Subsec. (d). Pub. L. 114–328, § 933(b)(4)(A), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+
+Subsec. (e). Pub. L. 114–328, § 933(b)(4)(A), (B), redesignated subsec. (f) as (e) and substituted “subsection (d)” for “subsection (e)” in par. (3)(A). Former subsec. (e) redesignated (d).
+
+Subsec. (f). Pub. L. 114–328, § 933(b)(4)(A), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+Subsec. (g). Pub. L. 114–328, § 933(b)(4)(A), (D), redesignated subsec. (h) as (g) and substituted “subsection (c)(3)” for “subsection (d)(3)” in par. (2)(A) and “subsection (c)(4)” for “subsection (d)(4)” in par. (2)(B). Former subsec. (g) redesignated (f).
+
+Subsec. (h), (i). Pub. L. 114–328, § 933(b)(4)(A), redesignated subsec. (i) as (h).
+
 2011—Subsec. (c). Pub. L. 111–383, § 582(a), amended subsec. (c) generally. Prior to amendment, text read as follows:
 
 “(1) The head of the Office shall be the Director of the Office of Community Support for Military Families With Special Needs, who shall be appointed by the Secretary of Defense from among civilian employees of the Department of Defense who are members of the Senior Executive Service or members of the armed forces in a general or flag grade.
@@ -267,6 +352,9 @@ Subsec. (d)(7), (8). Pub. L. 111–383, § 582(b), added par. (7) and redesignat
 
 Subsec. (h)(1). Pub. L. 111–383, § 1075(b)(24), substituted “April 30 each year” for “180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010, and annually thereafter”.
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (g) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
 #### Foundation for Support of Military Families With Special Needs
 Pub. L. 111–84, div. A, title V, § 563(b), Oct. 28, 2009, 123 Stat. 2307, provided that: “(1) Establishment authorized.—The Secretary of Defense may establish a foundation for the provision of assistance to the Department of Defense in providing support to military families with special needs. “(2) Purposes.—The purposes of the foundation shall be to assist the Department of Defense as follows:“(A) In conducting outreach to identify military families with special needs. “(B) In developing programs to support and provide services to military families with special needs. “(C) In developing educational curricula for the training of professional and paraprofessional personnel providing support and services on special needs to military families with special needs. “(D) In conducting research on the following:“(i) The unique factors associated with a military career (including deployments of members of the Armed Forces) and their effects on families and individuals with special needs. “(ii) Evidence-based therapeutic and medical services for members of military families with special needs, including research in conjunction with non-Department of Defense entities such as the National Institutes of Health. “(E) In providing vocational education and training for adolescent and adult members of military families with special needs. “(F) In carrying out other initiatives to contribute to improved support for military families with special needs. “(3) Department of defense funding.—The Secretary may provide the foundation such financial support as the Secretary considers appropriate, including the provision to the foundation of appropriated funds and non-appropriated funds available to the Department of Defense. “(4) Annual report.—The foundation shall submit to the Secretary, and to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], each year a report on its activities under this subsection during the preceding year. Each report shall include, for the year covered by such report, the following:“(A) A description of the programs and activities of the foundation. “(B) The budget of the foundation, including the sources of any funds provided to the foundation. “(5) Military family with special needs defined.—In this subsection, the term ‘military family with special needs’ has the meaning given such term in [section 1781c(i) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1781c/i&num=0&edition=prelim), United States Code (as added by subsection (a)).”
 
@@ -274,7 +362,7 @@ Pub. L. 111–84, div. A, title V, § 563(b), Oct. 28, 2009, 123 Stat. 2307, pro
 Pub. L. 111–84, div. A, title V, § 563(c), as added Pub. L. 111–383, div. A, title V, § 582(c)(2), Jan. 7, 2011, 124 Stat. 4227, provided that: “The Secretary of a military department may establish or support centers on or in the vicinity of military installations under the jurisdiction of such Secretary to coordinate and provide medical and educational services for children with special needs of members of the Armed Forces who are assigned to such installations.”
 
 #### Advisory Panel on Community Support for Military Families With Special Needs
-Pub. L. 111–84, div. A, title V, § 563(d), as added Pub. L. 111–383, div. A, title V, § 582(c)(2), Jan. 7, 2011, 124 Stat. 4227, provided that: “(1) Establishment.—Not later than 90 days after the date of the enactment of this subsection [Jan. 7, 2011], the Secretary of Defense shall establish an advisory panel on community support for military families with special needs. “(2) Members.—The advisory panel shall consist of seven individuals who are a member of a military family with special needs. The Secretary of Defense shall appoint the members of the advisory panel. “(3) Duties.—The advisory panel shall—“(A) provide informed advice to the Director of the Office of Community Support for Military Families With Special Needs on the implementation of the policy required by subsection (e) of [section 1781c of title 10](./chapter-088-military-family-programs-and-military-child-care.md#section-1781c), United States Code, and on the discharge of the programs required by subsection (f) of such section; “(B) assess and provide information to the Director on services and support for children with special needs that is available from other departments and agencies of the Federal Government and from State and local governments; and “(C) otherwise advise and assist the Director in the discharge of the duties of the Office of Community Support for Military Families With Special Needs in such manner as the Secretary of Defense and the Director jointly determine appropriate. “(4) Meetings.—The Director shall meet with the advisory panel at such times, and with such frequency, as the Director considers appropriate. The Director shall meet with the panel at least once each year. The Director may meet with the panel through teleconferencing or by other electronic means.”
+Pub. L. 111–84, div. A, title V, § 563(d), as added Pub. L. 111–383, div. A, title V, § 582(c)(2), Jan. 7, 2011, 124 Stat. 4227, provided that: “(1) Establishment.—Not later than 90 days after the date of the enactment of this subsection [Jan. 7, 2011], the Secretary of Defense shall establish an advisory panel on community support for military families with special needs. “(2) Members.—The advisory panel shall consist of seven individuals who are a member of a military family with special needs. The Secretary of Defense shall appoint the members of the advisory panel. “(3) Duties.—The advisory panel shall—“(A) provide informed advice to the Director of the Office of Community Support for Military Families With Special Needs on the implementation of the policy required by subsection (e) [now subsection (d)] of [section 1781c of title 10](./chapter-088-military-family-programs-and-military-child-care.md#section-1781c), United States Code, and on the discharge of the programs required by subsection (f)[now subsection (e)] of such section; “(B) assess and provide information to the Director on services and support for children with special needs that is available from other departments and agencies of the Federal Government and from State and local governments; and “(C) otherwise advise and assist the Director in the discharge of the duties of the Office of Community Support for Military Families With Special Needs in such manner as the Secretary of Defense and the Director jointly determine appropriate. “(4) Meetings.—The Director shall meet with the advisory panel at such times, and with such frequency, as the Director considers appropriate. The Director shall meet with the panel at least once each year. The Director may meet with the panel through teleconferencing or by other electronic means.”
 
 
 <a id="section-1782"></a>
@@ -351,7 +439,7 @@ Section 3(2) of the Federal Advisory Committee Act, referred to in text, is sect
 #### Amendments
 2001—Subsecs. (d) to (g). Pub. L. 107–107 added subsecs. (d) to (g).
 
-#### Improved Data Collection Related to Efforts to Reduce Underemployment of Spouses of Members of the Armed Forces and Close the Wage gap Between Military Spouses and Their Civilian Counterparts
+#### Improved Data Collection Related to Efforts To Reduce Underemployment of Spouses of Members of the Armed Forces and Close the Wage Gap Between Military Spouses and Their Civilian Counterparts
 Pub. L. 113–291, div. A, title V, § 568, Dec. 19, 2014, 128 Stat. 3386, provided that: “(a) Data Collection Efforts.—In addition to monitoring the number of spouses of members of the Armed Forces who obtain employment through military spouse employment programs, the Secretary of Defense shall collect data to evaluate the effectiveness of military spouse employment programs—“(1) in addressing the underemployment of military spouses; “(2) in matching military spouses’ education and experience to available employment positions; and “(3) in closing the wage gap between military spouses and their civilian counterparts. “(b) Report Required.—Not later than one year after the date of the enactment of this Act [Dec. 19, 2014], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report evaluating the progress of military spouse employment programs—“(1) in reducing military spouse unemployment and underemployment; and “(2) in reducing the wage gap between military spouses and their civilian counterparts. “(c) Military Spouse Employment Programs Defined.—In this section, the term ‘military spouse employment programs’ means the Military Spouse Employment Partnership (MSEP).”
 
 #### Pilot Program To Secure Internships for Military Spouses With Federal Agencies
@@ -417,6 +505,9 @@ Funds available to the Department of Defense for the travel and transportation o
 #### Amendments
 2013—Subsec. (b). Pub. L. 112–239 substituted “section 3” for “section 3(1)” and “Public Law 93–247; [42 U.S.C. 5101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5101&num=0&edition=prelim) note” for “[42 U.S.C. 5102](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5102&num=0&edition=prelim)”.
 
+#### Reporting on Allegations of Child Abuse in Military Families and Homes
+Pub. L. 114–328, div. A, title V, § 575(a), Dec. 23, 2016, 130 Stat. 2142, provided that: “(a) Reports to Family Advocacy Program Offices.—“(1) In general.—The following information shall be reported immediately to the Family Advocacy Program office at the military installation to which the member of the Armed Forces concerned is assigned:“(A) Credible information (which may include a reasonable belief), obtained by any individual within the chain of command of the member, that a child in the family or home of the member has suffered an incident of child abuse. “(B) Information, learned by a member of the Armed Forces engaged in a profession or activity described in section 226(b) of the Victims of Child Abuse Act of 1990 ([42 U.S.C. 13031(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13031/b&num=0&edition=prelim)) for members of the Armed Forces and their dependents, that gives reason to suspect that a child in the family or home of the member has suffered an incident of child abuse. “(2) Regulations.—The Secretary of Defense and the Secretary of Homeland Security (with respect to the Coast Guard when it is not operating as a service in the Navy) shall jointly prescribe regulations to carry out this subsection. “(3) Child abuse defined.—In this subsection, the term ‘child abuse’ has the meaning given that term in section 226(c) of the Victims of Child Abuse Act of 1990 ([42 U.S.C. 13031(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13031/c&num=0&edition=prelim)).”
+
 #### Plan for Implementation of Accreditation Requirement
 Pub. L. 104–106, div. A, title V, § 568(c), Feb. 10, 1996, 110 Stat. 335, directed Secretary of Defense to submit to Congress, not later than Apr. 1, 1997, a plan for carrying out the requirements of this section.
 
@@ -436,7 +527,7 @@ Pub. L. 104–106, div. A, title V, § 568(c), Feb. 10, 1996, 110 Stat. 335, dir
 Pub. L. 107–314, div. A, title VI, § 652(b), Dec. 2, 2002, 116 Stat. 2581, provided that: “[Section 1788 of title 10](./chapter-088-military-family-programs-and-military-child-care.md#section-1788), United States Code, as added by subsection (a), shall take effect on October 1, 2002.”
 
 #### Family Support Programs for Immediate Family Members of Members of the Armed Forces Assigned to Special Operations Forces
-Pub. L. 113–66, div. A, title V, § 554, Dec. 26, 2013, 127 Stat. 765, provided that: “(a) Pilot Programs Authorized.—Consistent with such regulations as the Secretary of Defense may prescribe to carry out this section, the Commander of the United States Special Operations Command may conduct up to three pilot programs to assess the feasibility and benefits of providing family support activities for the immediate family members of members of the Armed Forces assigned to special operations forces. In selecting and conducting any pilot program under this subsection, the Commander shall coordinate with the Under Secretary of Defense for Personnel and Readiness. “(b) Selection of Programs.—In selecting the pilot programs to be conducted under subsection (a), the Commander shall—“(1) identify family support activities that have a direct and concrete impact on the readiness of special operations forces, but that are not being provided by the Secretary of a military department to the immediate family members of members of the Armed Forces assigned to special operations forces; and “(2) conduct a cost-benefit analysis of each family support activity proposed to be included in a pilot program. “(c) Evaluation.—The Commander shall develop outcome measurements to evaluate the success of each family support activity included in a pilot program under subsection (a). “(d) Additional Authority.—The Commander may expend up to $5,000,000 during each fiscal year specified in subsection (f) to carry out the pilot programs under subsection (a). “(e) Definitions.—In this section:“(1) The term ‘Commander’ means the Commander of the United States Special Operations Command. “(2) The term ‘immediate family members’ has the meaning given that term in [section 1789(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1789/c&num=0&edition=prelim), United States Code. “(3) The term ‘special operations forces’ means those forces of the Armed Forces identified as special operations forces under section 167(i) of such title. “(f) Duration of Pilot Program Authority.—The authority provided by subsection (a) is available to the Commander during fiscal years 2014 through 2016. “(g) Report Required.—“(1) In general.—Not later than 180 days after completing a pilot program under subsection (a), the Commander shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report describing the results of the pilot program. The Commander shall prepare the report in coordination with the Under Secretary of Defense for Personnel and Readiness. “(2) Elements of report.—The report shall include the following:“(A) A description of the pilot program to address family support requirements not being provided by the Secretary of a military department to immediate family members of members of the Armed Forces assigned to special operations forces. “(B) An assessment of the impact of the pilot program on the readiness of members of the Armed Forces assigned to special operations forces. “(C) A comparison of the pilot program to other programs conducted by the Secretaries of the military departments to provide family support to immediate family members of members of the Armed Forces. “(D) Recommendations for incorporating the lessons learned from the pilot program into family support programs conducted by the Secretaries of the military departments. “(E) Any other matters considered appropriate by the Commander or the Under Secretary of Defense for Personnel and Readiness.”
+Pub. L. 113–66, div. A, title V, § 554, Dec. 26, 2013, 127 Stat. 765, as amended by Pub. L. 114–92, div. A, title V, § 574, Nov. 25, 2015, 129 Stat. 831, provided that: “(a) Pilot Programs Authorized.—Consistent with such regulations as the Secretary of Defense may prescribe to carry out this section, the Commander of the United States Special Operations Command may conduct up to three pilot programs to assess the feasibility and benefits of providing family support activities for the immediate family members of members of the Armed Forces assigned to special operations forces. In selecting and conducting any pilot program under this subsection, the Commander shall coordinate with the Under Secretary of Defense for Personnel and Readiness. “(b) Selection of Programs.—In selecting the pilot programs to be conducted under subsection (a), the Commander shall—“(1) identify family support activities that have a direct and concrete impact on the readiness of special operations forces, but that are not being provided by the Secretary of a military department to the immediate family members of members of the Armed Forces assigned to special operations forces; and “(2) conduct a cost-benefit analysis of each family support activity proposed to be included in a pilot program. “(c) Evaluation.—The Commander shall develop outcome measurements to evaluate the success of each family support activity included in a pilot program under subsection (a). “(d) Additional Authority.—The Commander may expend up to $5,000,000 during each fiscal year specified in subsection (f) to carry out the pilot programs under subsection (a). “(e) Definitions.—In this section:“(1) The term ‘Commander’ means the Commander of the United States Special Operations Command. “(2) The term ‘immediate family members’ has the meaning given that term in [section 1789(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1789/c&num=0&edition=prelim), United States Code. “(3) The term ‘special operations forces’ means those forces of the Armed Forces identified as special operations forces under section 167(i) [now 167(j)] of such title. “(f) Duration of Pilot Program Authority.—The authority provided by subsection (a) is available to the Commander during fiscal years 2014 through 2018. “(g) Report Required.—“(1) In general.—Not later than March 1, 2016, and each March 1 thereafter though the conclusion of the pilot programs conducted under subsection (a), the Commander, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall submit to the congressional defense committees a report describing the progress made in achieving the goals of the pilot programs. “(2) Elements of report.—Each report under this subsection shall include the following for each pilot program:“(A) A description of the pilot program to address family support requirements not being provided by the Secretary of a military department to immediate family members of members of the Armed Forces assigned to special operations forces. “(B) An assessment of the impact of the pilot program on the readiness of members of the Armed Forces assigned to special operations forces. “(C) A comparison of the pilot program to other programs conducted by the Secretaries of the military departments to provide family support to immediate family members of members of the Armed Forces. “(D) Recommendations for incorporating the lessons learned from the pilot program into family support programs conducted by the Secretaries of the military departments. “(E) Any other matters considered appropriate by the Commander or the Under Secretary of Defense for Personnel and Readiness.”
 
 #### Pilot Program on Parent Education To Promote Early Childhood Education for Dependent Children Affected by Military Deployment or Relocation of Military Units
 Pub. L. 109–364, div. A, title V, § 575, Oct. 17, 2006, 120 Stat. 2227, provided that: “(a) Pilot Program Authorized.—Using such funds as may be appropriated for this purpose, the Secretary of Defense may carry out a pilot program on the provision of educational and support tools to the parents of preschool-age children—“(1) whose parent or parents serve as members of the Armed Forces on active duty (including members of the Selected Reserve on active duty pursuant to a call or order to active duty of 180 days or more); and “(2) who are affected by the deployment of their parent or parents or the relocation of the military unit of which their parent or parents are a member. “(b) Purpose.—The purpose of the pilot program is to develop models for improving the capability of military child and youth programs on or near military installations to provide assistance to military parents with young children through a program of activities focusing on the unique needs of children described in subsection (a). “(c) Limits on Commencement and Duration of Program.—The Secretary of Defense may not commence the pilot program before October 1, 2007, and shall conclude the pilot program not later than the end of the three-year period beginning on the date on which the Secretary commences the program. “(d) Scope of Program.—Under the pilot program, the Secretary of Defense shall utilize one or more models, demonstrated through research, of universal access of parents of children described in subsection (a) to assistance under the pilot program to achieve the following goals:“(1) The identification and mitigation of specific risk factors for such children related to military life. “(2) The maximization of the educational readiness of such children. “(e) Locations and Goals.—“(1) Selection of participating installations.—In selecting military installations to participate in the pilot program, the Secretary of Defense shall limit selection to those military installations whose military personnel are experiencing significant transition or deployment or which are undergoing transition as a result of the relocation or activation of military units or activities relating to defense base closure and realignment. “(2) Selection of certain installations.—At least one of the installations selected under paragraph (1) shall be a military installation that will permit, under the pilot program, the meaningful evaluation of a model under subsection (d) that provides outreach to parents in families with a parent who is a member of the National Guard or Reserve, which families live more than 40 miles from the installation. “(3) Goals of participating installations.—If a military installation is selected under paragraph (1), the Secretary shall require appropriate personnel at the military installation to develop goals, and specific outcome measures with respect to such goals, for the conduct of the pilot program at the installation. “(4) Evaluation required.—Upon completion of the pilot program at a military installation, the personnel referred to in paragraph (3) at the installation shall be required to conduct an evaluation and assessment of the success of the pilot program at the installation in meeting the goals developed for that installation. “(f) Guidelines.—As part of conducting the pilot program, the Secretary of Defense shall issue guidelines regarding—“(1) the goals to be developed under subsection (e)(3); “(2) specific outcome measures; and “(3) the selection of curriculum and the conduct of developmental screening under the pilot program. “(g) Report.—Upon completion of the pilot program, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on all of the evaluations prepared under subsection (e)(4) for the military installations participating in the pilot program. The report shall describe the results of the evaluations, and may include such recommendations for legislative or administrative action as the Secretary considers appropriate in light of the evaluations, including recommendations for the continuation of the pilot program.”

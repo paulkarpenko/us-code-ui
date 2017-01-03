@@ -2,7 +2,7 @@
 title: 42
 chapter: '44'
 heading: DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
-section_count: 24
+section_count: 26
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -147,114 +147,8 @@ Section 4. Administrative arrangements. (a) Each executive department and agency
 
 Lyndon B. Johnson.
 
-#### Ex. Ord. No. 13602. Establishing a White House Council on Strong Cities, Strong Communities
-Ex. Ord. No. 13602, Mar. 15, 2012, 77 F.R. 16131, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to forge a partnership with local communities to provide them with comprehensive technical assistance to use and compete for Federal resources more effectively and efficiently, which will enable them to develop and implement economic strategies to become more competitive, sustainable, and inclusive, it is hereby ordered as follows:
-
-Section 1. Policy. Cities, towns, and regions across our Nation continue to face difficult economic challenges. Enhancing current Federal assistance is helping to lift communities out of distress. To allow the Federal Government to better partner with these local communities to build local capacity to address economic issues, and to support comprehensive planning and regional collaboration, my Administration established the Strong Cities, Strong Communities (SC2) pilot initiative. By partnering with cities and regions to augment their vision for stability and economic growth, the SC2 was designed to help communities strengthen their capacity to create jobs and more competitive business climates, and implement locally driven community and regional planning approaches that lead to sustained economic growth, as well as ensure that Federal assistance is more efficiently provided and used.
-
-This order improves the way the Federal Government engages with and supports local communities by better aligning resources and coordinating efforts across executive departments and agencies (agencies) so that communities across the country have access to comprehensive, localized technical assistance and planning resources to develop and implement their economic vision and strategies.
-
-Sec. 2. White House Council on Strong Cities, Strong Communities. There is established a White House Council on Strong Cities, Strong Communities (Council) within the Department of Housing and Urban Development, to be chaired by the Secretary of Housing and Urban Development and the Assistant to the President for Domestic Policy (Co-Chairs).
-
-(a) Membership. In addition to the Co-Chairs, the Council shall consist of the following members:
-
-(i) the Secretary of the Treasury;
-
-(ii) the Secretary of Defense;
-
-(iii) the Attorney General;
-
-(iv) the Secretary of the Interior;
-
-(v) the Secretary of Agriculture;
-
-(vi) the Secretary of Commerce;
-
-(vii) the Secretary of Labor;
-
-(viii) the Secretary of Health and Human Services;
-
-(ix) the Secretary of Transportation;
-
-(x) the Secretary of Energy;
-
-(xi) the Secretary of Education;
-
-(xii) the Secretary of Veterans Affairs;
-
-(xiii) the Secretary of Homeland Security;
-
-(xiv) the Chair of the Council of Economic Advisers;
-
-(xv) the Administrator of the Environmental Protection Agency;
-
-(xvi) the Director of the Office of Management and Budget;
-
-(xvii) the Administrator of General Services;
-
-(xviii) the Administrator of the Small Business Administration;
-
-(xix) the Chief Executive Officer of the Corporation for National and Community Service;
-
-(xx) the Chairperson of the National Endowment for the Arts;
-
-(xxi) the Senior Advisor and Assistant to the President for Intergovernmental Affairs and Public Engagement;
-
-(xxii) the Assistant to the President and Cabinet Secretary;
-
-(xxiii) the Assistant to the President for Economic Policy;
-
-(xxiv) the Chair of the Council on Environmental Quality;
-
-(xxv) the Director of the Office of Science and Technology Policy; and
-
-(xxvi) the heads of such other agencies and offices as the President may, from time to time, designate.
-
-A member of the Council may designate, to perform the Council functions of the member, a senior-level official who is a part of the member’s agency or office, and who is a full-time officer or employee of the Federal Government.
-
-(b) Administration. The Co-Chairs shall convene regular meetings of the Council, determine its agenda, and direct its work. The Secretary of Housing and Urban Development shall appoint an Executive Director of the Council to coordinate the Council’s activities. At the direction of the Co-Chairs, the Council may establish subgroups consisting exclusively of Council members or their designees, as appropriate. Agencies may detail staff to the Council to support its coordination and implementation efforts.
-
-Sec. 3. Mission and Function of the Council. The Council shall, to the extent permitted by law, work across agencies and offices to:
-
-(a) coordinate the development and implementation of the various components of the SC2, as determined by the Co-Chairs;
-
-(b) coordinate agency efforts to ensure communities have access to comprehensive, localized technical assistance and planning resources to develop and execute their economic vision and strategies (including, where appropriate, efforts of existing committees or taskforces related to providing technical assistance to local governments and improving their capacity to address economic issues);
-
-(c) ensure that members of the Council incorporate SC2 implementation efforts into their agency annual performance plans and those efforts’ outcomes into their annual performance results;
-
-(d) provide recommendations to the President, through the Co-Chairs on:
-
-(i) policies for building local expertise in strengthening local economies;
-
-(ii) changes to Federal policies and programs to address issues of special importance to cities and local governments that pertain to local capacity and economic growth;
-
-(iii) implementing best practices from the SC2 initiative Government-wide to better support cities and local governments; and
-
-(iv) opportunities to increase the flexible utilization of existing Federal program resources across agencies to enable more performance and outcome-based funding;
-
-(e) encourage the development of technical assistance, planning, and financing tools and implementation strategies that can be coordinated or aligned across agencies to assist communities in building local capacity to address economic issues, engaging in comprehensive planning, and advancing regional collaboration; and
-
-(f) facilitate the exchange of ideas and strategies to help communities address economic challenges and create sustained economic opportunity.
-
-Sec. 4. Outreach. Consistent with the objectives set forth in this order, the Council, in accordance with applicable law, shall conduct outreach to representatives of nonprofit organizations, businesses, labor organizations, State and local government agencies, school districts, elected officials, faith and other community-based organizations, philanthropies, other institutions of local importance, and other interested persons with relevant expertise in the expansion and improvement of efforts to build local capacity to address economic issues in cities and communities. The Council will convene an annual meeting of interested parties—including mayors and city employees—to share key findings and progress, offer best practices, and promote strategies that have worked in communities participating in the initiative.
-
-Sec. 5. Reports. Within 1 year of the date of this order, and annually thereafter, the Executive Director shall provide a report to the Co-Chairs on the work of the Council and its achievements during the year, including demonstrable changes in the capacity of local communities to implement their economic development goals and efforts to achieve more efficient and effective use of Federal resources.
-
-Sec. 6. General Provisions. (a) The heads of agencies shall assist and provide information to the Council, consistent with applicable law, as may be necessary to implement this order. Each agency shall bear its own expense for participating in the Council.
-
-(b) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department, agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Barack Obama.
+#### Executive Order No. 13602
+Ex. Ord. No. 13602, Mar. 15, 2012, 77 F.R. 16131, which established a White House Council on Strong Cities, Strong Communities, was superseded and revoked by Ex. Ord. No. 13748, § 5, Nov. 16, 2016, 81 F.R. 83621, set out as a note under [section 601 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-3533"></a>
@@ -353,6 +247,34 @@ Barack Obama.
 
 (5) **Scope of homeownership counseling** — In carrying out the responsibilities of the Director, the Director shall ensure that homeownership counseling provided by, in connection with, or pursuant to any function, activity, or program of the Department addresses the entire process of homeownership, including the decision to purchase a home, the selection and purchase of a home, issues arising during or affecting the period of ownership of a home (including refinancing, default and foreclosure, and other financial decisions), and the sale or other disposition of a home.
 
+**(h) Special Assistant for Veterans Affairs**
+
+(1) **Position** — There shall be in the Office of the Secretary a Special Assistant for Veterans Affairs, who shall report directly to the Secretary.
+
+(2) **Appointment** — The Special Assistant for Veterans Affairs shall be appointed based solely on merit and shall be covered under the provisions of title 5, governing appointments in the competitive service.
+
+(3) **Responsibilities** — The Special Assistant for Veterans Affairs shall be responsible for—
+
+  (A) ensuring veterans have fair access to housing and homeless assistance under each program of the Department providing either such assistance;
+
+  (B) coordinating all programs and activities of the Department relating to veterans;
+
+  (C) serving as a liaison for the Department with the Department of Veterans Affairs, including establishing and maintaining relationships with the Secretary of Veterans Affairs;
+
+  (D) serving as a liaison for the Department, and establishing and maintaining relationships with the United States Interagency Council on Homelessness and officials of State, local, regional, and nongovernmental organizations concerned with veterans;
+
+  (E) providing information and advice regarding—
+
+    (i) sponsoring housing projects for veterans assisted under programs administered by the Department; or
+
+    (ii) assisting veterans in obtaining housing or homeless assistance under programs administered by the Department;
+
+  (F) coordinating with the Secretary of Housing and Urban Development and the Secretary of Veterans Affairs in carrying out section 404 of the Housing Opportunity Through Modernization Act of 2016;
+
+  (G) collaborating with the Department of Veterans Affairs on making joint recommendations to the Congress, the Secretary of Housing and Urban Development, and the Secretary of Veterans Affairs on how to better coordinate and improve services to veterans under both Department of Housing and Urban Development and Department of Veteran Affairs veterans housing programs, including ways to improve the Independent Living Program of the Department of Veteran Affairs; and
+
+  (H) carrying out such other duties as may be assigned to the Special Assistant by the Secretary or by law.
+
 ### Statutory Notes
 
 #### References in Text
@@ -360,10 +282,14 @@ The Housing and Community Development Act of 1974, referred to in subsec. (e)(1)
 
 Section 6 of the Expand and Preserve Home Ownership Through Counseling Act, referred to in subsec. (g)(3)(B)(vi), probably means section 1446 of subtitle D of title XIV of Pub. L. 111–203, July 21, 2010, 124 Stat. 2172, which is not classified to the Code.
 
+Section 404 of the Housing Opportunity Through Modernization Act of 2016, referred to in subsec. (h)(3)(F), is section 404 of Pub. L. 114–201, which is set out as a note under [section 11313 of this title](./chapter-119-homeless-assistance.md#section-11313).
+
 #### Codification
 Section was formerly classified to section 624b of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employee, by Pub. L. 89–554, § 1, Sept. 1, 1966, 80 Stat. 378.
 
 #### Amendments
+2016—Subsec. (h). Pub. L. 114–201 added subsec. (h).
+
 2012—Subsec. (a). Pub. L. 112–166 designated existing provisions as par. (1), substituted “7” for “eight” in par. (1), and added par. (2).
 
 2010—Subsec. (g). Pub. L. 111–203 added subsec. (g).
@@ -416,8 +342,11 @@ Amendment by Pub. L. 101–509 effective on first day of first pay period that b
 #### Effective Date; Interim Appointments
 Nomination and appointment of Under Secretary, Assistant Secretaries, General Counsel, Federal Housing Commissioner, and Assistant Secretary for Administration of Department of Housing and Urban Development any time after Sept. 9, 1965, and interim designation and compensation of officers of Housing and Home Finance Agency for those offices upon non-entry upon the offices upon expiration of first period of sixty calendar days following Sept. 9, 1965 or on earlier date specified by Executive order, see section 11 of Pub. L. 89–174, set out as a note under [section 3531 of this title](./chapter-044-department-of-housing-and-urban-development.md#section-3531).
 
+#### Transfer of Position in Office of Deputy Assistant Secretary for Special Needs
+Pub. L. 114–201, title IV, § 403(b), July 29, 2016, 130 Stat. 809, provided that: “On the date that the initial Special Assistant for Veterans Affairs is appointed pursuant to section 4(h)(2) of the Department of Housing and Urban Development Act [[42 U.S.C. 3533(h)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3533/h/2&num=0&edition=prelim)], as added by subsection (a) of this section, the position of Special Assistant for Veterans Programs in the Office of the Deputy Assistant Secretary for Special Needs of the Department of Housing and Urban Development shall be terminated.”
+
 #### Transfer of Functions
-Section 902(a)(2), (3) of Pub. L. 102–550 provided that: “(2) Transfer of functions.—Not later than the expiration of the 180-day period beginning on the date of the enactment of this Act [Oct. 28, 1992], the Secretary of Housing and Urban Development shall transfer to the Special Assistant for Indian and Alaska Native Programs any functions and duties described in section 4(e)(1)(B) of the Department of Housing and Urban Development Act [[42 U.S.C. 3533(e)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3533/e/1/B&num=0&edition=prelim)] (as added by paragraph (1) of this subsection). “(3) Staff.—Not later than the expiration of the 1-year period beginning on the date of the enactment of this Act, the Secretary of Housing and Urban Development shall transfer from offices within the Department of Housing and Urban Development to the office of the Special Assistant for Indian and Alaska Native Programs such staff, having experience and capacity to administer Indian housing and community development programs, as may be necessary and appropriate to assist the Special Assistant in carrying out the responsibilities under section 4(e)(1)(B) of the Department of Housing and Urban Development Act (as added by paragraph (1) of this subsection).”
+Pub. L. 102–550, title IX, § 902(a)(2), (3), Oct. 28, 1992, 106 Stat. 3866, 3867, provided that: “(2) Transfer of functions.—Not later than the expiration of the 180-day period beginning on the date of the enactment of this Act [Oct. 28, 1992], the Secretary of Housing and Urban Development shall transfer to the Special Assistant for Indian and Alaska Native Programs any functions and duties described in section 4(e)(1)(B) of the Department of Housing and Urban Development Act [[42 U.S.C. 3533(e)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3533/e/1/B&num=0&edition=prelim)] (as added by paragraph (1) of this subsection). “(3) Staff.—Not later than the expiration of the 1-year period beginning on the date of the enactment of this Act, the Secretary of Housing and Urban Development shall transfer from offices within the Department of Housing and Urban Development to the office of the Special Assistant for Indian and Alaska Native Programs such staff, having experience and capacity to administer Indian housing and community development programs, as may be necessary and appropriate to assist the Special Assistant in carrying out the responsibilities under section 4(e)(1)(B) of the Department of Housing and Urban Development Act (as added by paragraph (1) of this subsection).”
 
 #### Office of Inspector General
 Functions, powers, and duties of Office of Inspector General in Department of Housing and Urban Development transferred to Office of Inspector General in Department of Housing and Urban Development, as established by Pub. L. 95–452, § 2, Oct. 12, 1978, 92 Stat. 1101, set out in the Appendix to Title 5, Government Organization and Employees. See section 9(a)(1)(G) of Pub. L. 95–452, set out in Appendix to Title 5.
@@ -623,6 +552,8 @@ where any of the above factors cannot be quantified, the Secretary shall provide
 #### References in Text
 This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 89–174, Sept. 9, 1965, 79 Stat. 667, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3531 of this title](./chapter-044-department-of-housing-and-urban-development.md#section-3531) and Tables.
 
+For establishment of the working capital fund, referred to in subsec. (f), see [section 3535a of this title](./chapter-044-department-of-housing-and-urban-development.md#section-3535a).
+
 The National Housing Act, referred to in subsecs. (m) and (s)(2), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. Title II of the Act is classified principally to subchapter II (§ 1707 et seq.) of chapter 13 of Title 12. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
 The Housing and Urban Development Act of 1965, referred to in subsec. (m), is Pub. L. 89–117, Aug. 10, 1965, 79 Stat. 451. Title I of the Housing and Urban Development Act of 1965 enacted sections 1421b, 1466 of this title, and sections 1701q, 1701s, 1735g, 1735h of Title 12, amended sections 1402, 1422, 1451, 1465 of this title, sections 1715c, 1715l, 1715n, 1717 of Title 12, and section 1816 [now 3732] of Title 38, Veterans’ Benefits, and enacted provisions set out as notes under [section 1466 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1466) and [section 1701q of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701q&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
@@ -754,6 +685,22 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
 
 
+<a id="section-3535a"></a>
+## § 3535a. Working capital fund
+
+There is hereby established in the United States Treasury, pursuant to [section 3535(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3535/f&num=0&edition=prelim), a working capital fund for the Department of Housing and Urban Development (referred to in this paragraph as the “Fund”): Provided, That amounts transferred to the Fund under this heading shall be available for Federal shared services used by offices and agencies of the Department, and for such portion of any office or agency’s printing, records management, space renovation, furniture, or supply services as the Secretary determines shall be derived from centralized sources made available by the Department to all offices and agencies and funded through the Fund: Provided further, That of the amounts made available in this title 11 See References in Text note below. for salaries and expenses under the headings “Executive Offices”, “Administrative Support Offices”, “Program Office Salaries and Expenses”, and “Government National Mortgage Association”, the Secretary shall transfer to the Fund such amounts, to remain available until expended, as are necessary to fund services, specified in the first proviso, for which the appropriation would otherwise have been available, and may transfer not to exceed an additional $10,000,000, in aggregate, from all such appropriations, to be merged with the Fund and to remain available until expended for use for any office or agency: Provided further, That amounts in the Fund shall be the only amounts available to each office or agency of the Department for the services, or portion of services, specified in the first proviso: Provided further, That with respect to the Fund, the authorities and conditions under this heading shall supplant the authorities and conditions provided under [section 3535(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3535/f&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+This heading, referred to in text, refers to the heading “working capital fund” of title II of div. L of the Consolidated Appropriations Act, 2016, Pub. L. 114–113, which is classified to this section.
+
+The amounts made available in this title for salaries and expenses under the headings “Executive Offices”, “Administrative Support Offices”, “Program Office Salaries and Expenses”, and “Government National Mortgage Association”, referred to in text, refer to the amounts made available under those headings in title II of div. L of the Consolidated Appropriations Act, 2016, Pub. L. 114–113, which are not classified to the Code.
+
+#### Codification
+Section was enacted as part of the Consolidated Appropriations Act, 2016, and not as part of the Department of Housing and Urban Development Act which comprises this chapter.
+
+
 <a id="section-3536"></a>
 ## § 3536. Annual reports
 
@@ -772,6 +719,21 @@ Pub. L. 102–550, title IX, § 925(a), Oct. 28, 1992, 106 Stat. 3884, provided 
 
 #### Annual Report on Characteristics of Families in Assisted Housing
 Pub. L. 100–242, title I, § 166, Feb. 5, 1988, 101 Stat. 1864, as amended by Pub. L. 101–625, title IX, § 954(b), Nov. 28, 1990, 104 Stat. 4420, provided that: “(a) In General.—The Secretary of Housing and Urban Development shall include in the annual report under section 8 of the Housing and Urban Development Act [probably means section 8 of the Department of Housing and Urban Development Act, [42 U.S.C. 3536](./chapter-044-department-of-housing-and-urban-development.md#section-3536)] descriptions of the characteristics of families assisted under each of the following programs of assistance: public housing, section 8 of the United States Housing Act of 1937 [[42 U.S.C. 1437f](./chapter-008-low-income-housing.md#section-1437f)] (other than subsection (o) of such section), section 8(o) of the United States Housing Act of 1937, and section 202 of the Housing Act of 1959 [[12 U.S.C. 1701q](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701q&num=0&edition=prelim)]. “(b) Specific Requirements.—The descriptions required in subsection (a) shall include information with respect to—“(1) family size, including the number of children; “(2) amount and sources of family income; “(3) the age, race, and sex of family members; and “(4) whether the head of the family (or the spouse of such person) is a member of the armed forces. “(c) Collection and Maintenance of Data.—The Secretary shall collect and maintain data necessary to carry out the purposes of this section and shall coordinate such efforts, to the greatest extent possible, with activities and responsibilities under section 8 of the Department of Housing and Urban Development Act [[42 U.S.C. 3536](./chapter-044-department-of-housing-and-urban-development.md#section-3536)].”
+
+
+<a id="section-3536a"></a>
+## § 3536a. Report on interagency family economic empowerment strategies
+
+The Secretary of Housing and Urban Development, in consultation with the Secretary of Labor, shall submit a report to the Congress annually that describes—
+
+(1) any interagency strategies of such Departments that are designed to improve family economic empowerment by linking housing assistance with essential supportive services, such as employment counseling and training, financial education and growth, childcare, transportation, meals, youth recreational activities, and other supportive services; and
+
+(2) any actions taken in the preceding year to carry out such strategies and the extent of progress achieved by such actions.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Housing Opportunity Through Modernization Act of 2016, and not as part of the Department of Housing and Urban Development Act which comprises this chapter.
 
 
 <a id="section-3537"></a>
@@ -1145,6 +1107,9 @@ Subsec. (c)(3)(B)(ii). Pub. L. 103–66, § 3003(4)(B)(ii), inserted “such sec
 #### Effective Date of 1998 Amendment
 Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437).
 
+#### Inclusion of Disaster Housing Assistance Program in Certain Fraud and Abuse Prevention Measures
+Pub. L. 114–201, title V, § 501, July 29, 2016, 130 Stat. 811, provided that: “The Disaster Housing Assistance Program administered by the Department of Housing and Urban Development shall be considered a ‘program of the Department of Housing and Urban Development’ under section 904 of the Stewart B. McKinney Homeless Assistance Amendments Act of 1988 ([42 U.S.C. 3544](./chapter-044-department-of-housing-and-urban-development.md#section-3544)) for the purpose of income verifications.”
+
 #### Release Forms
 Pub. L. 102–550, title IX, § 903(b), Oct. 28, 1992, 106 Stat. 3868, directed Secretary of Housing and Urban Development, not later than the expiration of the 180-day period beginning Oct. 28, 1992, to develop a release form that fulfilled the requirements of this section and provided that during the period beginning Oct. 28, 1992, and ending upon implementation of the use of the new form, the benefits provided to an applicant or participant under any program of Department of Housing and Urban Development, or eligibility for such benefits, could not be terminated, denied, suspended, or reduced because of any failure to sign any form authorizing the release of information from any third party, if the applicant or participant otherwise disclosed all financial information relating to the application or recertification.
 
@@ -1302,6 +1267,8 @@ Section was enacted as part of the appropriation act cited as the credit to this
 
 #### Similar Provisions
 Provisions similar to those in this section were contained in the following appropriation acts:
+
+Pub. L. 114–113, div. L, title II, § 221, Dec. 18, 2015, 129 Stat. 2893.
 
 Pub. L. 113–235, div. K, title II, § 222, Dec. 16, 2014, 128 Stat. 2754.
 

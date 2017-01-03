@@ -73,18 +73,18 @@ Pub. L. 106–534, § 4, Nov. 22, 2000, 114 Stat. 2556, provided that: “(a) In
 
 (1) **Promulgation**
 
-  (A) *In general* — Except as provided in subparagraph (B), not later than 6 months after the effective date of rules promulgated by the Federal Trade Commission under subsection (a) of this section, the Securities and Exchange Commission shall promulgate, or require any national securities exchange or registered securities association to promulgate, rules substantially similar to such rules to prohibit deceptive and other abusive telemarketing acts or practices by persons described in paragraph (2).
+  (A) *In general* — Except as provided in subparagraph (B), not later than 6 months after the effective date of rules promulgated by the Federal Trade Commission under subsection (a), the Securities and Exchange Commission shall promulgate, or require any national securities exchange or registered securities association to promulgate, rules substantially similar to such rules to prohibit deceptive and other abusive telemarketing acts or practices by persons described in paragraph (2).
 
   (B) *Exception* — The Securities and Exchange Commission is not required to promulgate a rule under subparagraph (A) if it determines that—
 
-    (i) Federal securities laws or rules adopted by the Securities and Exchange Commission thereunder provide protection from deceptive and other abusive telemarketing by persons described in paragraph (2) substantially similar to that provided by rules promulgated by the Federal Trade Commission under subsection (a) of this section; or
+    (i) Federal securities laws or rules adopted by the Securities and Exchange Commission thereunder provide protection from deceptive and other abusive telemarketing by persons described in paragraph (2) substantially similar to that provided by rules promulgated by the Federal Trade Commission under subsection (a); or
 
     (ii) such a rule promulgated by the Securities and Exchange Commission is not necessary or appropriate in the public interest, or for the protection of investors, or would be inconsistent with the maintenance of fair and orderly markets.
     If the Securities and Exchange Commission determines that an exception described in clause (i) or (ii) applies, the Securities and Exchange Commission shall publish in the Federal Register its determination with the reasons for it.
 
 (2) **Application**
 
-  (A) *In general* — The rules promulgated by the Securities and Exchange Commission under paragraph (1)(A) shall apply to a broker, dealer, transfer agent, municipal securities dealer, municipal securities broker, government securities broker, government securities dealer, investment adviser or investment company, or any individual associated with a broker, dealer, transfer agent, municipal securities dealer, municipal securities broker, government securities broker, government securities dealer, investment adviser or investment company. The rules promulgated by the Federal Trade Commission under subsection (a) of this section shall not apply to persons described in the preceding sentence.
+  (A) *In general* — The rules promulgated by the Securities and Exchange Commission under paragraph (1)(A) shall apply to a broker, dealer, transfer agent, municipal securities dealer, municipal securities broker, government securities broker, government securities dealer, investment adviser or investment company, or any individual associated with a broker, dealer, transfer agent, municipal securities dealer, municipal securities broker, government securities broker, government securities dealer, investment adviser or investment company. The rules promulgated by the Federal Trade Commission under subsection (a) shall not apply to persons described in the preceding sentence.
 
   (B) *Definitions* — For purposes of subparagraph (A)—
 
@@ -96,7 +96,7 @@ Pub. L. 106–534, § 4, Nov. 22, 2000, 114 Stat. 2556, provided that: “(a) In
 
 **(e) Commodity Futures Trading Commission rules**
 
-(1) **Application** — The rules promulgated by the Federal Trade Commission under subsection (a) of this section shall not apply to persons described in [section 9b(1) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9b/1&num=0&edition=prelim).
+(1) **Application** — The rules promulgated by the Federal Trade Commission under subsection (a) shall not apply to persons described in [section 9b(1) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9b/1&num=0&edition=prelim).
 
 (2) **Omitted**
 
@@ -127,19 +127,19 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 ## § 6103. Actions by States
 **(a) In general** Whenever an attorney general of any State has reason to believe that the interests of the residents of that State have been or are being threatened or adversely affected because any person has engaged or is engaging in a pattern or practice of telemarketing which violates any rule of the Commission under [section 6102 of this title](./chapter-087-telemarketing-and-consumer-fraud-and-abuse-prevention.md#section-6102), the State, as parens patriae, may bring a civil action on behalf of its residents in an appropriate district court of the United States to enjoin such telemarketing, to enforce compliance with such rule of the Commission, to obtain damages, restitution, or other compensation on behalf of residents of such State, or to obtain such further and other relief as the court may deem appropriate.
 
-**(b) Notice** The State shall serve prior written notice of any civil action under subsection (a) or (f)(2) of this section upon the Commission and provide the Commission with a copy of its complaint, except that if it is not feasible for the State to provide such prior notice, the State shall serve such notice immediately upon instituting such action. Upon receiving a notice respecting a civil action, the Commission shall have the right (1) to intervene in such action, (2) upon so intervening, to be heard on all matters arising therein, and (3) to file petitions for appeal.
+**(b) Notice** The State shall serve prior written notice of any civil action under subsection (a) or (f)(2) upon the Commission and provide the Commission with a copy of its complaint, except that if it is not feasible for the State to provide such prior notice, the State shall serve such notice immediately upon instituting such action. Upon receiving a notice respecting a civil action, the Commission shall have the right (1) to intervene in such action, (2) upon so intervening, to be heard on all matters arising therein, and (3) to file petitions for appeal.
 
-**(c) Construction** For purposes of bringing any civil action under subsection (a) of this section, nothing in this chapter shall prevent an attorney general from exercising the powers conferred on the attorney general by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
+**(c) Construction** For purposes of bringing any civil action under subsection (a), nothing in this chapter shall prevent an attorney general from exercising the powers conferred on the attorney general by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
 
-**(d) Actions by Commission or the Bureau of Consumer Financial Protection** Whenever a civil action has been instituted by or on behalf of the Commission or the Bureau of Consumer Financial Protection for violation of any rule prescribed under [section 6102 of this title](./chapter-087-telemarketing-and-consumer-fraud-and-abuse-prevention.md#section-6102), no State may, during the pendency of such action instituted by or on behalf of the Commission or the Bureau of Consumer Financial Protection, institute a civil action under subsection (a) or (f)(2) of this section against any defendant named in the complaint in such action for violation of any rule as alleged in such complaint.
+**(d) Actions by Commission or the Bureau of Consumer Financial Protection** Whenever a civil action has been instituted by or on behalf of the Commission or the Bureau of Consumer Financial Protection for violation of any rule prescribed under [section 6102 of this title](./chapter-087-telemarketing-and-consumer-fraud-and-abuse-prevention.md#section-6102), no State may, during the pendency of such action instituted by or on behalf of the Commission or the Bureau of Consumer Financial Protection, institute a civil action under subsection (a) or (f)(2) against any defendant named in the complaint in such action for violation of any rule as alleged in such complaint.
 
-**(e) Venue; service of process** Any civil action brought under subsection (a) of this section in a district court of the United States may be brought in the district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under [section 1391 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391&num=0&edition=prelim). Process in such an action may be served in any district in which the defendant is an inhabitant or in which the defendant may be found.
+**(e) Venue; service of process** Any civil action brought under subsection (a) in a district court of the United States may be brought in the district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under [section 1391 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391&num=0&edition=prelim). Process in such an action may be served in any district in which the defendant is an inhabitant or in which the defendant may be found.
 
 **(f) Actions by other State officials**
 
 (1) Nothing contained in this section shall prohibit an authorized State official from proceeding in State court on the basis of an alleged violation of any civil or criminal statute of such State.
 
-(2) In addition to actions brought by an attorney general of a State under subsection (a) of this section, such an action may be brought by officers of such State who are authorized by the State to bring actions in such State on behalf of its residents.
+(2) In addition to actions brought by an attorney general of a State under subsection (a), such an action may be brought by officers of such State who are authorized by the State to bring actions in such State on behalf of its residents.
 
 ### Statutory Notes
 
@@ -161,11 +161,11 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **(c) Action by Commission or the Bureau of Consumer Financial Protection** Whenever a civil action has been instituted by or on behalf of the Commission or the Bureau of Consumer Financial Protection for violation of any rule prescribed under [section 6102 of this title](./chapter-087-telemarketing-and-consumer-fraud-and-abuse-prevention.md#section-6102), no person may, during the pendency of such action instituted by or on behalf of the Commission or the Bureau of Consumer Financial Protection, institute a civil action against any defendant named in the complaint in such action for violation of any rule as alleged in such complaint.
 
-**(d) Cost and fees** The court, in issuing any final order in any action brought under subsection (a) of this section, may award costs of suit and reasonable fees for attorneys and expert witnesses to the prevailing party.
+**(d) Cost and fees** The court, in issuing any final order in any action brought under subsection (a), may award costs of suit and reasonable fees for attorneys and expert witnesses to the prevailing party.
 
 **(e) Construction** Nothing in this section shall restrict any right which any person may have under any statute or common law.
 
-**(f) Venue; service of process** Any civil action brought under subsection (a) of this section in a district court of the United States may be brought in the district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under [section 1391 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391&num=0&edition=prelim). Process in such an action may be served in any district in which the defendant is an inhabitant or in which the defendant may be found.
+**(f) Venue; service of process** Any civil action brought under subsection (a) in a district court of the United States may be brought in the district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under [section 1391 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391&num=0&edition=prelim). Process in such an action may be served in any district in which the defendant is an inhabitant or in which the defendant may be found.
 
 ### Statutory Notes
 
@@ -232,17 +232,17 @@ For purposes of this chapter:
 
 <a id="section-6107"></a>
 ## § 6107. Enforcement of orders
-**(a) General authority** Subject to subsections (b) and (c) of this section, the Federal Trade Commission may bring a criminal contempt action for violations of orders of the Commission obtained in cases brought under [section 53(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section53/b&num=0&edition=prelim).
+**(a) General authority** Subject to subsections (b) and (c), the Federal Trade Commission may bring a criminal contempt action for violations of orders of the Commission obtained in cases brought under [section 53(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section53/b&num=0&edition=prelim).
 
-**(b) Appointment** An action authorized by subsection (a) of this section may be brought by the Federal Trade Commission only after, and pursuant to, the appointment by the Attorney General of an attorney employed by the Commission, as a special assistant United States Attorney.
+**(b) Appointment** An action authorized by subsection (a) may be brought by the Federal Trade Commission only after, and pursuant to, the appointment by the Attorney General of an attorney employed by the Commission, as a special assistant United States Attorney.
 
 **(c) Request for appointment**
 
-(1) **Appointment upon request or motion** — A special assistant United States Attorney may be appointed under subsection (b) of this section upon the request of the Federal Trade Commission or the court which has entered the order for which contempt is sought or upon the Attorney General’s own motion.
+(1) **Appointment upon request or motion** — A special assistant United States Attorney may be appointed under subsection (b) upon the request of the Federal Trade Commission or the court which has entered the order for which contempt is sought or upon the Attorney General’s own motion.
 
 (2) **Timing** — The Attorney General shall act upon any request made under paragraph (1) within 45 days of the receipt of the request.
 
-**(d) Termination of authority** The authority of the Federal Trade Commission to bring a criminal contempt action under subsection (a) of this section expires 2 years after the date of the first promulgation of rules under [section 6102 of this title](./chapter-087-telemarketing-and-consumer-fraud-and-abuse-prevention.md#section-6102). The expiration of such authority shall have no effect on an action brought before the expiration date.
+**(d) Termination of authority** The authority of the Federal Trade Commission to bring a criminal contempt action under subsection (a) expires 2 years after the date of the first promulgation of rules under [section 6102 of this title](./chapter-087-telemarketing-and-consumer-fraud-and-abuse-prevention.md#section-6102). The expiration of such authority shall have no effect on an action brought before the expiration date.
 
 
 <a id="section-6108"></a>

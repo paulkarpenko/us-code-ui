@@ -44,6 +44,9 @@ Pub. L. 85–726, title XV, § 1505(2), Aug. 23, 1958, 72 Stat. 810, provided th
 #### Termination of Trust Territory of the Pacific Islands
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
+#### Discontinuance of an Aid to Navigation
+Pub. L. 114–120, title II, § 210, Feb. 8, 2016, 130 Stat. 41, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Feb. 8, 2016], the Secretary of the department in which the Coast Guard is operating shall establish a process for the discontinuance of an aid to navigation (other than a seasonal or temporary aid) established, maintained, or operated by the Coast Guard. “(b) Requirement.—The process established under subsection (a) shall include procedures to notify the public of any discontinuance of an aid to navigation described in that subsection. “(c) Consultation.—In establishing a process under subsection (a), the Secretary shall consult with and consider any recommendations of the Navigation Safety Advisory Council. “(d) Notification.—Not later than 30 days after establishing a process under subsection (a), the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the process established.”
+
 #### Improved Safety Information for Vessels
 Pub. L. 113–281, title II, § 228, Dec. 18, 2014, 128 Stat. 3040, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 18, 2014], the Secretary of the department in which the Coast Guard is operating shall establish a process that allows an operator of a marine exchange or other non-Federal vessel traffic information service to use the automatic identification system to transmit weather, ice, and other important navigation safety information to vessels.”
 
@@ -157,6 +160,9 @@ The President shall facilitate planning for the design, procurement, maintenance
 #### Prior Provisions
 A prior section 87, act Aug. 4, 1949, ch. 393, § 1, 63 Stat. 501, related to color and numbering of buoys along coast, or in bays, harbors, sounds, or channels, as indicating whether such buoys were to be passed on the starboard or port hand and prescribed the coloring for buoys in channel ways, prior to repeal by Pub. L. 94–546, § 1(6), (7), Oct. 18, 1976, 90 Stat. 2519.
 
+#### Incremental Funding Authority for Polar Icebreakers
+Pub. L. 114–120, title II, § 207(a), Feb. 8, 2016, 130 Stat. 37, provided that: “In fiscal year 2016 and each fiscal year thereafter, the Commandant of the Coast Guard may enter into a contract or contracts for the acquisition of polar icebreakers and associated equipment using incremental funding.”
+
 
 <a id="section-88"></a>
 ## § 88. Saving life and property
@@ -253,7 +259,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 Pub. L. 104–324, title I, § 103, Oct. 19, 1996, 110 Stat. 3905, as amended by Pub. L. 109–241, title IX, § 901(p)(1), July 11, 2006, 120 Stat. 565, which required annual report to congressional committees on all expenditures related to drug interdiction activities of the Coast Guard, was repealed by Pub. L. 113–281, title II, § 221(a)(3), Dec. 18, 2014, 128 Stat. 3037.
 
 #### Enhanced Drug-Interdiction Assistance
-Pub. L. 99–145, title XIV, § 1421, Nov. 8, 1985, 99 Stat. 750, required assignment of a member of the Coast Guard to each surface naval vessel at sea in a drug-interdiction area to perform law enforcement functions, prior to repeal by Pub. L. 99–570, title III, § 3053(b)(3), Oct. 27, 1986, 100 Stat. 3207–76. See [section 379 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section379&num=0&edition=prelim), Armed Forces.
+Pub. L. 99–145, title XIV, § 1421, Nov. 8, 1985, 99 Stat. 750, required assignment of a member of the Coast Guard to each surface naval vessel at sea in a drug-interdiction area to perform law enforcement functions, prior to repeal by Pub. L. 99–570, title III, § 3053(b)(3), Oct. 27, 1986, 100 Stat. 3207–76. See [section 279 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section279&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-90"></a>
@@ -278,7 +284,7 @@ Pub. L. 99–145, title XIV, § 1421, Nov. 8, 1985, 99 Stat. 750, required assig
 
 **(e) Icebreaking.—** The Secretary shall promote safe maritime navigation by means of icebreaking where necessary, feasible, and effective to carry out the purposes of this section.
 
-**(f) Arctic Definition.—** In this section, the term “Arctic”?11 So in original. has the meaning given such term in section 112 of the Arctic Research and Policy Act of 1984 ([15 U.S.C. 4111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4111&num=0&edition=prelim)).
+**(f) Arctic Definition.—** In this section, the term “Arctic”? 11 So in original. has the meaning given such term in section 112 of the Arctic Research and Policy Act of 1984 ([15 U.S.C. 4111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4111&num=0&edition=prelim)).
 
 ### Statutory Notes
 
@@ -575,9 +581,11 @@ Pub. L. 88–45, § 1, June 21, 1963, 77 Stat. 68, provided that after fiscal ye
 
 (22) provide for the honorary recognition of individuals and organizations that significantly contribute to Coast Guard programs, missions, or operations, including State and local governments and commercial and nonprofit organizations, and pay for, using any appropriations or funds available to the Coast Guard, plaques, medals, trophies, badges, and similar items to acknowledge such contribution (including reasonable expenses of ceremony and presentation);
 
-(23) rent or lease, under such terms and conditions as are considered by the Secretary to be advisable, commercial vehicles to transport the next of kin of eligible retired Coast Guard military personnel to attend funeral services of the service member at a national cemetery; and
+(23) rent or lease, under such terms and conditions as are considered by the Secretary to be advisable, commercial vehicles to transport the next of kin of eligible retired Coast Guard military personnel to attend funeral services of the service member at a national cemetery;
 
-(24) after informing the Secretary, make such recommendations to the Congress relating to the Coast Guard as the Commandant considers appropriate.
+(24) after informing the Secretary, make such recommendations to the Congress relating to the Coast Guard as the Commandant considers appropriate; and
+
+(25) enter into cooperative agreements, contracts, and other agreements with Federal entities and other public or private entities, including academic entities, to develop a positioning, navigation, and timing system to provide redundant capability in the event Global Positioning System signals are disrupted, which may consist of an enhanced LORAN system.
 
 **(b)**
 
@@ -637,15 +645,13 @@ Pub. L. 88–45, § 1, June 21, 1963, 77 Stat. 68, provided that after fiscal ye
 
 (2) **Limitation.—** — The Commandant may lease submerged lands and tidelands under paragraph (1) only if—
 
-  (A) lease payments are—
+  (A) the lease is for cash exclusively;
 
-    (i) received exclusively in the form of cash;
+  (B) the lease amount is equal to the fair market value of the use of the leased submerged lands or tidelands for the period during which such lands are leased, as determined by the Commandant;
 
-    (ii) equal to the fair market value of the use of the leased submerged lands or tidelands for the period during which such lands are leased, as determined by the Commandant; and
+  (C) the lease does not provide authority to or commit the Coast Guard to use or support any improvements to such submerged lands and tidelands, or obtain goods and services from the lessee; and
 
-    (iii) deposited in the fund established under section 687; and
-
-  (B) the lease does not provide authority to or commit the Coast Guard to use or support any improvements to such submerged lands or tidelands, or obtain goods or services from the lessee.
+  (D) proceeds from the lease are deposited in the Coast Guard Housing Fund established under section 687.
 
 ### Statutory Notes
 
@@ -696,6 +702,10 @@ Section 4(e) of the Ports and Waterways Safety Act, referred to in subsec. (b)(2
 The date of enactment of this paragraph, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 111–281, which was approved Oct. 15, 2010.
 
 #### Amendments
+2016—Subsec. (a)(25). Pub. L. 114–120, § 610(b), added par. (25).
+
+Subsec. (f)(2). Pub. L. 114–120, § 209(4), added par. (2) and struck out former par. (2) which related to limitation on leasing of tidelands and submerged lands.
+
 2014—Subsec. (a)(4). Pub. L. 113–281, § 206(a), substituted “and investigate” for “, investigate” and struck out “, and cooperate and coordinate such activities with other Government agencies and with private agencies” before semicolon at end.
 
 Subsec. (a)(7). Pub. L. 113–281, § 214(c), inserted “, and to eligible spouses as defined under section 542,” after “Coast Guard”.
@@ -759,6 +769,9 @@ Subsec. (p). Act Aug. 3, 1950, substituted “; and” for the period at end.
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Days Away From Homeport
+Pub. L. 114–120, title II, § 204(c), Feb. 8, 2016, 130 Stat. 35, provided that: “Not later than 1 year after the date of the enactment of this Act [Feb. 8, 2016], the Commandant of the Coast Guard shall— “(1) implement a standard for tracking operational days at sea for Coast Guard cutters that does not include days during which such cutters are undergoing maintenance or repair; and “(2) notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the standard implemented under paragraph (1).”
+
 #### Report on Sexual Assaults in the Coast Guard
 Pub. L. 111–281, title II, § 217, Oct. 15, 2010, 124 Stat. 2917, provided that: “(a) In General.—Not later than January 15 of each year, the Commandant of the Coast Guard shall submit a report on the sexual assaults involving members of the Coast Guard to the Committee on Transportation and Infrastructure and the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate. “(b) Contents.—The report required under subsection (a) shall contain the following:“(1) The number of sexual assaults against members of the Coast Guard, and the number of sexual assaults by members of the Coast Guard, that were reported to military officials during the year covered by such report, and the number of the cases so reported that were substantiated. “(2) A synopsis of, and the disciplinary action taken in, each substantiated case. “(3) The policies, procedures, and processes implemented by the Secretary concerned during the year covered by such report in response to incidents of sexual assault involving members of the Coast Guard concerned. “(4) A plan for the actions that are to be taken in the year following the year covered by such report on the prevention of and response to sexual assault involving members of the Coast Guard concerned.”
 
@@ -780,7 +793,7 @@ Pub. L. 107–295, title IV, § 429, Nov. 25, 2002, 116 Stat. 2127, provided tha
 Pub. L. 107–295, title IV, § 430, Nov. 25, 2002, 116 Stat. 2128, provided that: “(a) In General.—The Commandant of the Coast Guard may provide support, with or without reimbursement, to an entity engaged in fishing vessel safety training, including—“(1) assistance in developing training curricula; “(2) use of Coast Guard personnel, including active duty members, members of the Coast Guard Reserve, and members of the Coast Guard Auxiliary, as temporary or adjunct instructors; “(3) sharing of appropriate Coast Guard informational and safety publications; and “(4) participation on applicable fishing vessel safety training advisory panels. “(b) No Interference With Other Functions.—In providing support under subsection (a), the Commandant shall ensure that the support does not interfere with any Coast Guard function or operation.”
 
 #### Conveyance of Lighthouses; Notification
-Pub. L. 105–383, title IV, § 416(d), Nov. 13, 1998, 112 Stat. 3437, provided that: “Not less than 1 year prior to reporting to the General Services Administration that a lighthouse or light station eligible for listing under the National Historic Preservation Act of 1966 ([16 U.S.C. 470](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470&num=0&edition=prelim) et seq.) [see [54 U.S.C. 300101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section300101&num=0&edition=prelim) et seq.] and under the jurisdiction of the Coast Guard is excess to the needs of the Coast Guard, the Commandant of the Coast Guard shall notify the State in which the lighthouse or light station is located, (including the State Historic Preservation Officer, if any) the appropriate political subdivision of that State, and any lighthouse, historic, or maritime preservation organizations in that State, that such property is excess to the needs of the Coast Guard.”
+Pub. L. 105–383, title IV, § 416(d), Nov. 13, 1998, 112 Stat. 3437, provided that: “Not less than 1 year prior to reporting to the General Services Administration that a lighthouse or light station eligible for listing under the National Historic Preservation Act of 1966 ([former] [16 U.S.C. 470](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470&num=0&edition=prelim) et seq.) [see [54 U.S.C. 300101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section300101&num=0&edition=prelim) et seq.] and under the jurisdiction of the Coast Guard is excess to the needs of the Coast Guard, the Commandant of the Coast Guard shall notify the State in which the lighthouse or light station is located, (including the State Historic Preservation Officer, if any) the appropriate political subdivision of that State, and any lighthouse, historic, or maritime preservation organizations in that State, that such property is excess to the needs of the Coast Guard.”
 
 #### Small Waterplane Area Twin Hull (SWATH) Technology
 Pub. L. 105–383, title IV, § 425(a), Nov. 13, 1998, 112 Stat. 3441, provided that: “The Commandant of the Coast Guard shall, within 18 months after the date of the enactment of this Act [Nov. 13, 1998], report to the Senate Committee on Commerce, Science, and Transportation and the House Committee on Transportation and Infrastructure on the applicability of Small Waterplane Area Twin Hull (SWATH) technology, including concepts developed by the United States Office of Naval Research, to the design of Coast Guard vessels.”
@@ -859,9 +872,9 @@ A Coast Guard vessel the home port of which is in the United States or Guam may 
 
 **(b) Limitation on Expenditures.—**
 
-(1) Except as provided in paragraph (2), the Secretary shall not expend any appropriated Federal funds for the engineering, design, or construction of any museum established under this section.
+(1) Except as provided in paragraph (2), the Secretary shall not expend any funds appropriated to the Coast Guard on the engineering, design, or construction of any museum established under this section.
 
-(2) The Secretary shall fund the operation and maintenance of the National Coast Guard Museum with nonappropriated and non-Federal funds to the maximum extent practicable. The priority use of Federal operation and maintenance funds should be to preserve and protect historic Coast Guard artifacts.
+(2) The Secretary shall fund the operation and maintenance of the National Coast Guard Museum with nonappropriated and non-Federal funds to the maximum extent practicable. The priority use of Federal operation and maintenance funds should be to preserve and protect historic Coast Guard artifacts, including the design, fabrication, and installation of exhibits or displays in which such artifacts are included.
 
 **(c) Funding Plan.—** Before the date on which the Commandant establishes a museum under subsection (a), the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a plan for constructing, operating, and maintaining such a museum, including—
 
@@ -872,6 +885,13 @@ A Coast Guard vessel the home port of which is in the United States or Guam may 
 (3) a certification by the Inspector General of the department in which the Coast Guard is operating that the estimates provided pursuant to paragraphs (1) and (2) are reasonable and realistic.
 
 **(d) Authority.—** The Commandant may not establish a Coast Guard museum except as set forth in this section.
+
+### Statutory Notes
+
+#### Amendments
+2016—Subsec. (b)(1). Pub. L. 114–120, § 219(1), substituted “any funds appropriated to the Coast Guard on” for “any appropriated Federal funds for”.
+
+Subsec. (b)(2). Pub. L. 114–120, § 219(2), substituted “artifacts, including the design, fabrication, and installation of exhibits or displays in which such artifacts are included.” for “artifacts.”
 
 
 <a id="section-99"></a>

@@ -146,9 +146,9 @@ Section 1973bb–1 was editorially reclassified as [section 10702 of Title 52](h
 
 ### Statutory Notes
 
-Section 1973bb–2, Pub. L. 89–110, title III, § 303, as added Pub. L. 91–285, § 6, June 22, 1970, 84 Stat. 318, authorized the Attorney General to institute actions to enforce this subchapter, and provided for jurisdiction of district courts, appeals, and penalties for denial of rights secured by this subchapter. See [section 1973bb of this title](./chapter-020-elective-franchise.md#section-1973bb).
+Section 1973bb–2, Pub. L. 89–110, title III, § 303, as added Pub. L. 91–285, § 6, June 22, 1970, 84 Stat. 318, authorized the Attorney General to institute actions to enforce this subchapter, and provided for jurisdiction of district courts, appeals, and penalties for denial of rights secured by this subchapter. See [section 10701 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section10701&num=0&edition=prelim), Voting and Elections.
 
-Section 1973bb–3, Pub. L. 89–110, title III, § 304, as added Pub. L. 91–285, § 6, June 22, 1970, 84 Stat. 319, defined “State”. See [section 1973bb–1 of this title](./chapter-020-elective-franchise.md#section-1973bb-1).
+Section 1973bb–3, Pub. L. 89–110, title III, § 304, as added Pub. L. 91–285, § 6, June 22, 1970, 84 Stat. 319, defined “State”. See [section 10702 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section10702&num=0&edition=prelim), Voting and Elections.
 
 Section 1973bb–4, Pub. L. 89–10, title III, § 305, as added Pub. L. 91–285, § 6, June 22, 1970, 84 Stat. 319, provided for effective date of this subchapter.
 
@@ -167,7 +167,7 @@ Section 1973c was editorially reclassified as [section 10304 of Title 52](https:
 
 ### Statutory Notes
 
-Section 1973cc, acts Aug. 9, 1955, ch. 656, title I, § 101, 69 Stat. 584; June 18, 1968, Pub. L. 90–343, § 1, 82 Stat. 180; Nov. 4, 1978, Pub. L. 95–593, § 7, 92 Stat. 2537, related to State enactment of absentee voting legislation and to covered persons. See [section 1973ff–1 of this title](./chapter-020-elective-franchise.md#section-1973ff-1).
+Section 1973cc, acts Aug. 9, 1955, ch. 656, title I, § 101, 69 Stat. 584; June 18, 1968, Pub. L. 90–343, § 1, 82 Stat. 180; Nov. 4, 1978, Pub. L. 95–593, § 7, 92 Stat. 2537, related to State enactment of absentee voting legislation and to covered persons. See [section 20302 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20302&num=0&edition=prelim), Voting and Elections.
 
 Section 1973cc–1, acts Aug. 9, 1955, ch. 656, title I, § 102, 69 Stat. 584; June 18, 1968, Pub. L. 90–344, § 1(1), 82 Stat. 181; Aug. 6, 1981, Pub. L. 97–31, § 12(19), 95 Stat. 154, related to balloting procedures.
 
@@ -176,7 +176,7 @@ Section 1973cc–2, act Aug. 9, 1955, ch. 656, title I, § 103, 69 Stat. 585, re
 Section 1973cc–3, act Aug. 9, 1955, ch. 656, title I, § 104, as added June 18, 1968, Pub. L. 90–344, § 1(2), 82 Stat. 181, related to legal residence for voting purposes of personnel residing on military installations.
 
 #### Effective Date of Repeal
-Repeal applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as an Effective Date note under [section 1973ff of this title](./chapter-020-elective-franchise.md#section-1973ff).
+Repeal applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as an Effective Date note under [section 20301 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20301&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-1973cc-11-to-1973cc-15"></a>
@@ -184,13 +184,13 @@ Repeal applicable with respect to elections taking place after Dec. 31, 1987, se
 
 ### Statutory Notes
 
-Section 1973cc–11, acts Aug. 9, 1955, ch. 656, title II, § 201, 69 Stat. 585; Dec. 21, 1982, Pub. L. 97–375, title II, § 203(b), 96 Stat. 1823, provided for designation of Presidential designee to coordinate and facilitate Federal responsibilities and to report to the President and Congress. See section 1973ff(a) and (b) of this title.
+Section 1973cc–11, acts Aug. 9, 1955, ch. 656, title II, § 201, 69 Stat. 585; Dec. 21, 1982, Pub. L. 97–375, title II, § 203(b), 96 Stat. 1823, provided for designation of Presidential designee to coordinate and facilitate Federal responsibilities and to report to the President and Congress. See section 20301(a) and (b) of Title 52, Voting and Elections.
 
 Section 1973cc–12, acts Aug. 9, 1955, ch. 656, title II, § 202, 69 Stat. 586; Nov. 4, 1978, Pub. L. 95–593, § 8, 92 Stat. 2537, related to acquisition and distribution by Presidential designee of current absentee voting information from each State.
 
-Section 1973c–13, acts Aug. 9, 1955, ch. 656, title II, § 203, 69 Stat. 586; June 18, 1968, Pub. L. 90–344, § 1(3), 82 Stat. 181; Nov. 4, 1978, Pub. L. 95–593, § 9, 92 Stat. 2538, related to cooperation of Government officials, drafts of State legislation, and printing and transmitting of post cards. See [section 1973ff(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973ff/c&num=0&edition=prelim).
+Section 1973c–13, acts Aug. 9, 1955, ch. 656, title II, § 203, 69 Stat. 586; June 18, 1968, Pub. L. 90–344, § 1(3), 82 Stat. 181; Nov. 4, 1978, Pub. L. 95–593, § 9, 92 Stat. 2538, related to cooperation of Government officials, drafts of State legislation, and printing and transmitting of post cards. See [section 20301(c) of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20301/c&num=0&edition=prelim), Voting and Elections.
 
-Section 1973cc–14, acts Aug. 9, 1955, ch. 656, title II, § 204, 69 Stat. 586; June 18, 1968, Pub. L. 90–343, § 2, 82 Stat. 181; June 18, 1968, Pub. L. 90–344, § 1(4)–(6), 82 Stat. 182; Nov. 4, 1978, Pub. L. 95–593, § 10, 92 Stat. 2538, related to form and content of post card application. See [section 1973ff(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973ff/b/2&num=0&edition=prelim).
+Section 1973cc–14, acts Aug. 9, 1955, ch. 656, title II, § 204, 69 Stat. 586; June 18, 1968, Pub. L. 90–343, § 2, 82 Stat. 181; June 18, 1968, Pub. L. 90–344, § 1(4)–(6), 82 Stat. 182; Nov. 4, 1978, Pub. L. 95–593, § 10, 92 Stat. 2538, related to form and content of post card application. See [section 20301(b)(2) of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20301/b/2&num=0&edition=prelim), Voting and Elections.
 
 Section 1973cc–15, act Aug. 9, 1955, ch. 656, title II, § 205, 69 Stat. 588, related to use of prior post card form for election of Members of Congress.
 
@@ -203,7 +203,7 @@ Repeal applicable with respect to elections taking place after Dec. 31, 1987, se
 
 ### Statutory Notes
 
-Section 1973cc–21, act Aug. 9, 1955, ch. 656, title III, § 301, 69 Stat. 588, provided definitions of terms used in this subchapter. See [section 1973ff–6 of this title](./chapter-020-elective-franchise.md#section-1973ff-6).
+Section 1973cc–21, act Aug. 9, 1955, ch. 656, title III, § 301, 69 Stat. 588, provided definitions of terms used in this subchapter. See [section 20310 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20310&num=0&edition=prelim), Voting and Elections.
 
 Section 1973cc–22, act Aug. 9, 1955, ch. 656, title III, § 302, 69 Stat. 588, provided free postage for official post cards, ballots, voting instructions, and envelopes. See [section 3406 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3406&num=0&edition=prelim), Postal Service.
 
@@ -216,7 +216,7 @@ Section 1973cc–25, act Aug. 9, 1955, ch. 656, title III, § 305, 69 Stat. 589,
 Section 1973cc–26, act Aug. 9, 1955, ch. 656, title III, § 308, 69 Stat. 589, authorized appropriations as necessary to carry out this subchapter.
 
 #### Effective Date of Repeal
-Repeal applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as an Effective Date note under [section 1973ff of this title](./chapter-020-elective-franchise.md#section-1973ff).
+Repeal applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as an Effective Date note under [section 20301 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20301&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-1973d-1973e"></a>
@@ -234,26 +234,26 @@ Section 1973e, Pub. L. 89–110, title I, § 7, Aug. 6, 1965, 79 Stat. 440; renu
 
 ### Statutory Notes
 
-Section 1973dd, Pub. L. 94–203, § 2, Jan. 2, 1976, 89 Stat. 1142; Pub. L. 95–593, § 1, Nov. 4, 1978, 92 Stat. 2535, provided definitions of terms used in this subchapter. See [section 1973ff–6 of this title](./chapter-020-elective-franchise.md#section-1973ff-6).
+Section 1973dd, Pub. L. 94–203, § 2, Jan. 2, 1976, 89 Stat. 1142; Pub. L. 95–593, § 1, Nov. 4, 1978, 92 Stat. 2535, provided definitions of terms used in this subchapter. See [section 20310 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20310&num=0&edition=prelim), Voting and Elections.
 
 Section 13973dd–1, Pub. L. 94–203, § 3, Jan. 2, 1976, 89 Stat. 1142; Pub. L. 95–593, § 2, Nov. 4, 1978, 92 Stat. 2535, related to qualifications for registration and vote by absentee ballot.
 
-Section 1973dd–2, Pub. L. 94–203, § 4, Jan. 2, 1976, 89 Stat. 1143; Pub. L. 95–593, § 3, Nov. 4, 1978, 92 Stat. 2535, related to State provisions concerning absentee registration or qualification and absentee ballots and to recommendations to States in carrying out the provisions of this section. See [section 1973ff–1 of this title](./chapter-020-elective-franchise.md#section-1973ff-1).
+Section 1973dd–2, Pub. L. 94–203, § 4, Jan. 2, 1976, 89 Stat. 1143; Pub. L. 95–593, § 3, Nov. 4, 1978, 92 Stat. 2535, related to State provisions concerning absentee registration or qualification and absentee ballots and to recommendations to States in carrying out the provisions of this section. See [section 20302 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20302&num=0&edition=prelim), Voting and Elections.
 
 Section 1973dd–2a, Pub. L. 94–203, § 5, as added Pub. L. 95–593, § 4(2), Nov. 4, 1978, 92 Stat. 2535, related to acquisition and dissemination by Presidential designee of current absentee voting information from each State.
 
-Section 1973dd–2b, Pub. L. 94–203, § 6, as added Pub. L. 95–593, § 4(2), Nov. 4, 1978, 92 Stat. 2536, related to printing and transmitting of voting material. See [section 1973ff(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973ff/c/2&num=0&edition=prelim) and [section 3406 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3406&num=0&edition=prelim), Postal Service.
+Section 1973dd–2b, Pub. L. 94–203, § 6, as added Pub. L. 95–593, § 4(2), Nov. 4, 1978, 92 Stat. 2536, related to printing and transmitting of voting material. See [section 3406 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3406&num=0&edition=prelim), Postal Service, and [section 20301(c)(2) of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20301/c/2&num=0&edition=prelim), Voting and Elections.
 
-Section 1973dd–3, Pub. L. 94–203, § 7, formerly § 5, Jan. 2, 1976, 89 Stat. 1143; renumbered § 7, Pub. L. 95–593, § 4(1), Nov. 4, 1978, 92 Stat. 2535, provided for enforcement by the Attorney General, jurisdiction of courts, and penalties for depriving or attempting to deprive persons of secured rights and giving or conspiring to give false information or paying or accepting money either for registration to vote or voting. See [section 1973ff–4 of this title](./chapter-020-elective-franchise.md#section-1973ff-4) and [section 608 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section608&num=0&edition=prelim), Crimes and Criminal Procedure.
+Section 1973dd–3, Pub. L. 94–203, § 7, formerly § 5, Jan. 2, 1976, 89 Stat. 1143; renumbered § 7, Pub. L. 95–593, § 4(1), Nov. 4, 1978, 92 Stat. 2535, provided for enforcement by the Attorney General, jurisdiction of courts, and penalties for depriving or attempting to deprive persons of secured rights and giving or conspiring to give false information or paying or accepting money either for registration to vote or voting. See [section 608 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section608&num=0&edition=prelim), Crimes and Criminal Procedure, and [section 20307 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20307&num=0&edition=prelim), Voting and Elections.
 
 Section 1973dd–4, Pub. L. 94–203, § 8, formerly § 6, Jan. 2, 1976, 89 Stat. 1143; renumbered § 8, Pub. L. 95–593, § 4(1), Nov. 4, 1978, 92 Stat. 2535, provided that if any provision of this subchapter is held invalid, the validity of the remainder of this subchapter not be affected.
 
-Section 1973dd–5, Pub. L. 94–203, § 9, formerly § 7, Jan. 2, 1976, 89 Stat. 1144; renumbered § 9 and amended Pub. L. 95–593, §§ 4(1), 5, Nov. 4, 1978, 92 Stat. 2535, 2537, related to applicability of this subchapter to State registration requirements and voting practices and provided that exercise of any right to register or vote in Federal elections by any citizen outside the United States not affect the determination of residence or domicile for tax purposes. See [section 1973ff–5 of this title](./chapter-020-elective-franchise.md#section-1973ff-5).
+Section 1973dd–5, Pub. L. 94–203, § 9, formerly § 7, Jan. 2, 1976, 89 Stat. 1144; renumbered § 9 and amended Pub. L. 95–593, §§ 4(1), 5, Nov. 4, 1978, 92 Stat. 2535, 2537, related to applicability of this subchapter to State registration requirements and voting practices and provided that exercise of any right to register or vote in Federal elections by any citizen outside the United States not affect the determination of residence or domicile for tax purposes. See [section 20309 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20309&num=0&edition=prelim), Voting and Elections.
 
 Section 1973dd–6, Pub. L. 94–203, § 11, as added Pub. L. 95–593, § 6, Nov. 4, 1978, 92 Stat. 2537, authorized appropriations as necessary to carry out this subchapter.
 
 #### Effective Date of Repeal
-Repeal applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as an Effective Date note under [section 1973ff of this title](./chapter-020-elective-franchise.md#section-1973ff).
+Repeal applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as an Effective Date note under [section 20301 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20301&num=0&edition=prelim), Voting and Elections.
 
 
 <a id="section-1973ee"></a>

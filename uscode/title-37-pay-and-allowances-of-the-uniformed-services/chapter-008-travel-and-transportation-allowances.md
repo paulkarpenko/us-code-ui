@@ -201,11 +201,11 @@ Pub. L. 112–81, div. A, title VI, § 632, Dec. 31, 2011, 125 Stat. 1465, provi
 
 **(f) Attendance at Memorial Ceremonies and Services.—** A family member or member of the uniformed services who attends a deceased member’s repatriation, burial, or memorial ceremony or service may be provided travel and transportation allowances to the extent provided in regulations prescribed under [section 464 of this title](./chapter-008-travel-and-transportation-allowances.md#section-464).
 
-**(g) Reimbursement for Travel in Connection With Leave Cancelled Due to Contingency Operations.—** A member may be reimbursed as specified in regulations prescribed under [section 464 of this title](./chapter-008-travel-and-transportation-allowances.md#section-464) for travel and related expenses incurred by the member as a result of the cancellation of previously approved leave when the leave is cancelled in conjunction with the member’s participation in a contingency operation and the cancellation occurs within 48 hours of the time the leave would have commenced. The settlement for reimbursement under this subsection is final and conclusive.
-
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (g). Pub. L. 114–328 struck out subsec. (g). Text read as follows: “A member may be reimbursed as specified in regulations prescribed under [section 464 of this title](./chapter-008-travel-and-transportation-allowances.md#section-464) for travel and related expenses incurred by the member as a result of the cancellation of previously approved leave when the leave is cancelled in conjunction with the member’s participation in a contingency operation and the cancellation occurs within 48 hours of the time the leave would have commenced. The settlement for reimbursement under this subsection is final and conclusive.”
+
 2013—Subsec. (c)(3). Pub. L. 113–66, § 621(h), substituted “(including household goods in temporary storage, but excluding packing and crating)” for “(including packing, crating, and household goods in temporary storage)”.
 
 Subsec. (g). Pub. L. 113–66, § 621(c)(1), added subsec. (g).
@@ -640,6 +640,9 @@ Pub. L. 96–342 substituted in par. (2) “$50” for “$35” and in provisio
 Subsec. (d). Pub. L. 89–718, § 55, struck out reference to the Chief of Finance of the Army in cl. (1), substituted “subsection” for “section” and “$16” for “$12” in cl. (2), substituted “subsection” for “section” in cl. (3), and inserted provision authorizing reimbursement on an actual expenses basis where, due to unusual circumstances of a travel assignment, per diem reimbursement is not enough, but placing a limit of $30 for each day in a travel status.
 
 Subsec. (e). Pub. L. 89–718, § 56, substituted “Military Airlift Command” for “Military Air Transport Service”.
+
+#### Modification of Flat Rate per Diem Requirement for Personnel on Long-term Temporary Duty Assignments
+Pub. L. 114–328, div. A, title VI, § 672, Dec. 23, 2016, 130 Stat. 2178, provided that: “(a) Modification of Flat Rate.—“(1) In general.—The Secretary of Defense shall take such action as may be necessary to provide that, to the extent that regulations implementing travel and transportation authorities for military and civilian personnel of the Department of Defense impose a flat rate per diem for meals and incidental expenses for authorized travelers on long-term temporary duty assignments that is at a reduced rate compared to the per diem rate otherwise applicable, the Secretary concerned may waive the applicability of such reduced rate and pay such travelers actual expenses up to the full per diem rate for such travel in any case when the Secretary concerned determines that the reduced flat rate per diem for meals and incidental expenses is not sufficient under the circumstances of the temporary duty assignment. “(2) Applicability.—The Secretary concerned may exercise the authority provided pursuant to paragraph (1) with respect to per diem payable for any day on or after the date of the enactment of this Act [Dec. 23, 2016]. “(b) Delegation of Authority.—The authority pursuant to subsection (a) may be delegated by the Secretary concerned to an officer at the level of lieutenant general or vice admiral, or above. Such authority may not be delegated to an officer below that level. “(c) Waiver of Collection of Receipts.—The Secretary concerned or an officer to whom the authority pursuant to subsection (a) is delegated pursuant to subsection (b) may waive any requirement for the submittal of receipts by travelers on long-term temporary duty assignments for the purpose of receiving the full per diem rate pursuant to subsection (a) if the Secretary concerned or officer, as described in subsection (b), personally certifies that requiring travelers to submit receipts for that purpose will negatively affect mission performance or create an undue administrative burden. “(d) Secretary Concerned Defined.—In this section, the term ‘Secretary concerned’ has the meaning given that term in [section 101 of title 37](./chapter-001-definitions.md#section-101), United States Code.”
 
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 602(g) of Pub. L. 105–85, set out as a note under [section 402 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-402).
@@ -1965,15 +1968,37 @@ Pub. L. 99–145, title VI, § 619(b), Nov. 8, 1985, 99 Stat. 642, provided that
 
 (3) assigned to a unit or position that is disestablished or relocated as a result of defense base closure or realignment or another force structure reallocation.
 
-**(c) Maximum Reimbursement Amount.—** The amount of reimbursement provided a member under subsection (a) for each round trip to a training location may not exceed $300.
+**(c) Maximum Reimbursement Amount.—**
+
+(1) Except as provided by paragraph (2), the amount of reimbursement provided a member under subsection (a) for each round trip to a training location may not exceed $300.
+
+(2) The Secretary concerned may authorize, on a case-by-case basis, a higher reimbursement amount for a member under subsection (a) when the member—
+
+  (A) resides—
+
+    (i) in the same State as the training location; and
+
+    (ii) outside of an urbanized area with a population of 50,000 or more, as determined by the Bureau of the Census; and
+
+  (B) is required to commute to a training location—
+
+    (i) using an aircraft or boat on account of limited or nonexistent vehicular routes to the training location or other geographical challenges; or
+
+    (ii) from a permanent residence located more than 75 miles from the training location.
 
 **(d) Regulations.—** The Secretary concerned shall prescribe regulations to carry out this section. Regulations prescribed by the Secretary of a military department shall be subject to the approval of the Secretary of Defense.
 
-**(e) Termination.—** No reimbursement may be provided under this section for travel that occurs after December 31, 2015.
+**(e) Termination.—** No reimbursement may be provided under this section for travel that occurs after December 31, 2017.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (c). Pub. L. 114–328, § 621, substituted “(1) Except as provided by paragraph (2), the amount” for “The amount” and added par. (2).
+
+Subsec. (e). Pub. L. 114–328, § 611(7), substituted “December 31, 2017” for “December 31, 2016”.
+
+2015—Subsec. (e). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
+
 2014—Subsec. (e). Pub. L. 113–291 substituted “December 31, 2015” for “December 31, 2014”.
 
 2013—Subsec. (e). Pub. L. 113–66, § 611(7), substituted “December 31, 2014” for “December 31, 2013”.
@@ -2175,7 +2200,7 @@ Amendment by Pub. L. 89–26 effective Feb. 1, 1965, see section 2 of Pub. L. 89
 
 <a id="section-481a"></a>
 ## § 481a. Travel and transportation allowances: travel performed in connection with convalescent leave
-**(a)** Under uniform regulations prescribed by the Secretaries concerned, a member of a uniformed service is entitled to travel and transportation allowances for travel from his place of medical treatment in the continental United States to a place selected by him and approved by the Secretary concerned, and return, when the Secretary concerned determines that the member is traveling in connection with authorized leave for convalescence from illness or injury incurred while the member was eligible for the receipt of hostile fire pay under [section 310 of this title](./chapter-005-special-and-incentive-pays.md#section-310).
+**(a)** Under uniform regulations prescribed by the Secretaries concerned, a member of a uniformed service is entitled to travel and transportation allowances for travel from his place of medical treatment in the continental United States to a place selected by him and approved by the Secretary concerned, and return, when the Secretary concerned determines that the member is traveling in connection with authorized leave for convalescence from illness or injury incurred while the member was eligible for the receipt of hostile fire pay under section 310 or 351 of this title.
 
 **(b)** The allowances prescribed under this section may not be at rates more than the rates authorized under [section 474(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474/d/1&num=0&edition=prelim). Authorized travel under this section is performed in a duty status.
 
@@ -2184,6 +2209,8 @@ Amendment by Pub. L. 89–26 effective Feb. 1, 1965, see section 2 of Pub. L. 89
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328 inserted “or 351” after “section 310”.
+
 2013—Subsec. (b). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
 2011—Pub. L. 112–81, § 631(d)(2), renumbered [section 411a of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-411a) as this section.
@@ -2406,25 +2433,9 @@ Pub. L. 100–456, div. A, title VI, § 623(b), Sept. 29, 1988, 102 Stat. 1984, 
 
 (2) If no person described in subparagraphs (A) through (D) of paragraph (1) is provided travel and transportation allowances under paragraph (1) or (2) of subsection (a), the travel and transportation allowances may be provided to one or two other persons who are closely related to the deceased member and are selected by the person referred to in paragraph (1)(E). A person provided travel and transportation allowances under this paragraph is in addition to the person referred to in paragraph (1)(E).
 
-**(d) Expanded Allowances Related to Recovery of Remains From Vietnam Conflict.—**
+**(d) Transportation to Transfer Ceremonies of Members of the Armed Forces Who Die Overseas.—**
 
-(1) The Secretary of Defense may provide round trip travel and transportation allowances for the family of a deceased member of the armed forces who died while classified as a prisoner of war or as missing in action during the Vietnam conflict and whose remains are returned to the United States in order that the family members may attend the burial ceremony of the deceased member.
-
-(2) The allowances under paragraph (1) shall include round trip transportation from the places of residence of such family members to the burial ceremony and such living expenses and other allowances as the Secretary of Defense considers appropriate.
-
-(3) For purposes of paragraph (1), eligible family members of the deceased member of the armed forces include the following:
-
-  (A) The surviving spouse (including a remarried surviving spouse) of the deceased member.
-
-  (B) The child or children, including children described in [section 401(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section401/b/1&num=0&edition=prelim), of the deceased member.
-
-  (C) The parent or parents of the deceased member (as defined in [section 401(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section401/b/2&num=0&edition=prelim)).
-
-  (D) If no person described in subparagraph (A), (B), or (C) is provided travel and transportation allowances under paragraph (1), any brothers, sisters, halfbrothers, halfsisters, stepbrothers, and stepsisters of the deceased member.
-
-**(e) Transportation to Transfer Ceremonies of Members of the Armed Forces Who Die Overseas.—**
-
-(1) The Secretary of the military department concerned may provide round trip transportation to ceremonies for the transfer of a member of the armed forces who dies while located or serving overseas to the following:
+(1) The Secretary of the military department concerned may provide round trip transportation to ceremonies for the transfer of a member of the armed forces who dies while located or serving overseas (including during a humanitarian relief operation) to the following:
 
   (A) The primary next of kin of the member.
 
@@ -2442,7 +2453,7 @@ Pub. L. 100–456, div. A, title VI, § 623(b), Sept. 29, 1988, 102 Stat. 1984, 
 
 (4) The Secretary of a military department may, upon the request of the primary next of kin covered by paragraph (1)(A) and at the discretion of the Secretary, provide for the accompaniment of such next of kin in travel under this subsection by a casualty assistance officer or family liaison officer of the military department who shall act as an escort in such accompaniment.
 
-**(f) Burial Ceremony Defined.—** In this section, the term “burial ceremony” includes the following:
+**(e) Burial Ceremony Defined.—** In this section, the term “burial ceremony” includes the following:
 
 (1) An interment of casketed or cremated remains.
 
@@ -2452,13 +2463,21 @@ Pub. L. 100–456, div. A, title VI, § 623(b), Sept. 29, 1988, 102 Stat. 1984, 
 
 (4) A burial of commingled remains that cannot be individually identified in a common grave in a national cemetery.
 
-**(g) Regulations.—** The Secretaries concerned shall prescribe uniform regulations to carry out this section.
+**(f) Regulations.—** The Secretaries concerned shall prescribe uniform regulations to carry out this section.
 
-**(h) Termination.—** No travel and transportation allowance or reimbursement may be provided under this section for travel that begins after the travel authorities transition expiration date.
+**(g) Termination.—** No travel and transportation allowance or reimbursement may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (d). Pub. L. 114–92, § 622(a), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to expanded allowances related to recovery of remains from the Vietnam conflict.
+
+Subsec. (e). Pub. L. 114–92, § 622(a)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+
+Subsec. (e)(1). Pub. L. 114–92, § 621, inserted “(including during a humanitarian relief operation)” after “located or serving overseas” in introductory provisions.
+
+Subsecs. (f) to (h). Pub. L. 114–92, § 622(a)(2), redesignated subsecs. (f) to (h) as (e) to (g), respectively.
+
 2011—Pub. L. 112–81, § 631(d)(2), renumbered [section 411f of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-411f) as this section.
 
 Subsec. (h). Pub. L. 112–81, § 631(e)(20), added subsec. (h).

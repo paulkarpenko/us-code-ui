@@ -64,7 +64,7 @@ Pub. L. 104–43, title III, § 301, Nov. 3, 1995, 109 Stat. 382, provided that:
 Pub. L. 94–70, § 1, Aug. 5, 1975, 89 Stat. 385, provided: “That this Act [enacting this chapter and provisions set out below] may be cited as the ‘Atlantic Tunas Convention Act of 1975’.”
 
 #### Separability
-Pub. L. 94–70, § 13, formerly § 11, Aug. 5, 1975, 89 Stat. 394; renumbered § 13, Pub. L. 105–384, title II, § 202(b)(1)(D), Nov. 13, 1998, 112 Stat. 3452, provided that: “If any provision of this Act [this chapter] or the application of such provision to any circumstance or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby.”
+Pub. L. 94–70, § 12, formerly § 11, Aug. 5, 1975, 89 Stat. 394; renumbered § 13, Pub. L. 105–384, title II, § 202(b)(1)(D), Nov. 13, 1998, 112 Stat. 3452; renumbered § 12, Pub. L. 114–81, title I, § 107(5), Nov. 5, 2015, 129 Stat. 658, provided that: “If any provision of this Act [this chapter] or the application of such provision to any circumstance or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby.”
 
 
 <a id="section-971a"></a>
@@ -210,7 +210,11 @@ Pub. L. 104–43, title III, § 309(b), Nov. 3, 1995, 109 Stat. 387, as amended 
 
   (C) Regulations promulgated under this paragraph shall, to the extent practicable, be consistent with fishery management plans prepared and implemented under the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.).
 
-(2) To promulgate regulations referred to in paragraph (1) of this subsection, the Secretary shall publish in the Federal Register a general notice of proposed rulemaking and shall afford interested persons an opportunity to participate in the rulemaking through (A) submission of written data, views, or arguments, and (B) oral presentation at a public hearing. Such regulations shall be published in the Federal Register and shall be accompanied by a statement of the considerations involved in the issuance of the regulations, and by a statement, based on inquiries and investigations, assessing the nature and effectiveness of the measures for the implementation of the Commission’s recommendations which are being or will be carried out by countries whose vessels engage in fishing the species subject to such recommendations within the waters to which the Convention applies. After publication in the Federal Register, such regulations shall be applicable to all vessels and persons subject to the jurisdiction of the United States on such date as the Secretary shall prescribe. The Secretary shall suspend at any time the application of any such regulation when, after consultation with the Secretary of State and the United States Commissioners, he determines that fishing operations in the Convention area of a contracting party for whom the regulations are effective are such as to constitute a serious threat to the achievement of the Commission’s recommendations.
+(2)
+
+  (A) To promulgate regulations referred to in paragraph (1) of this subsection, the Secretary shall publish in the Federal Register a general notice of proposed rulemaking and shall afford interested persons an opportunity to participate in the rulemaking through (i) submission of written data, views, or arguments, and (ii) oral presentation at a public hearing. Such regulations shall be published in the Federal Register and shall be accompanied by a statement of the considerations involved in the issuance of the regulations, and by a statement, based on inquiries and investigations, assessing the nature and effectiveness of the measures for the implementation of the Commission’s recommendations which are being or will be carried out by countries whose vessels engage in fishing the species subject to such recommendations within the waters to which the Convention applies. After publication in the Federal Register, such regulations shall be applicable to all vessels and persons subject to the jurisdiction of the United States on such date as the Secretary shall prescribe. The Secretary shall suspend at any time the application of any such regulation when, after consultation with the Secretary of State and the United States Commissioners, he determines that fishing operations in the Convention area of a contracting party for whom the regulations are effective are such as to constitute a serious threat to the achievement of the Commission’s recommendations.
+
+  (B) Notwithstanding the requirements of subparagraph (A) and subsections (b) and (c) of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), the Secretary may issue final regulations to implement Commission recommendations referred to in paragraph (1) concerning trade restrictive measures against nations or fishing entities.
 
 (3) The regulations required to be promulgated under paragraph (1) of this subsection may—
 
@@ -279,6 +283,8 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d)(1), was subsequently amended, and section 3(16) no longer defines the term “large-scale driftnet fishing”. However, such term is defined elsewhere in that section.
 
 #### Amendments
+2015—Subsec. (c)(2). Pub. L. 114–81 designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+
 1998—Subsec. (c)(1)(C). Pub. L. 105–384, § 202(b)(1)(F), substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
 Subsecs. (c)(6)(A)(iii), (B). Pub. L. 105–384, § 202(b)(1)(C), substituted “clause (i)” for “subparagraph (A)” in cl. (iii), and redesignated last sentence of subpar. (A) as subpar. (B) and realigned margin.
@@ -302,7 +308,7 @@ Subsec. (d). Pub. L. 101–627, § 207, amended subsec. (d) generally, substitut
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 “Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (a) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, which transferred functions vested by statute in the Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
 
@@ -324,11 +330,7 @@ Pub. L. 106–553, § 1(a)(2) [title VI, § 634], Dec. 21, 2000, 114 Stat. 2762,
 
 **(d) Importation of ineligible species or species under investigation** It shall be unlawful for any person to import, in violation of any regulation adopted pursuant to section 971d(c) or (d) 11 See References in Text note below. of this title, from any country, any fish in any form of those species subject to regulation pursuant to a recommendation of the Commission, or any fish in any form not under regulation but under investigation by the Commission, during the period such fish have been denied entry in accordance with the provisions of section 971d(c) or (d) 1 of this title. In the case of any fish as described in this subsection offered for entry in the United States, the Secretary shall require proof satisfactory to him that such fish is not ineligible for such entry under the terms of section 971d(c) or (d) 1 of this title.
 
-**(e) Sanctions** The civil penalty and permit sanctions of [section 1858 of this title](./chapter-038-fishery-conservation-and-management.md#section-1858) are hereby made applicable to violations of this section as if they were violations of [section 1857 of this title](./chapter-038-fishery-conservation-and-management.md#section-1857).
-
-**(f) Forfeiture** All fish taken or retained in violation of subsection (a) of this section, or the monetary value thereof, may be forfeited.
-
-**(g) Applicability of other laws** All provisions of law relating to the seizure, judicial forfeiture, and condemnation of a cargo for violation of the customs laws, the disposition of such cargo or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter.
+**(e) Applicability of other laws** All provisions of law relating to the seizure, judicial forfeiture, and condemnation of a cargo for violation of the customs laws, the disposition of such cargo or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter.
 
 ### Statutory Notes
 
@@ -336,6 +338,8 @@ Pub. L. 106–553, § 1(a)(2) [title VI, § 634], Dec. 21, 2000, 114 Stat. 2762,
 [Section 971d(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section971d/d&num=0&edition=prelim), referred to in subsec. (d), was amended generally by Pub. L. 101–627, title II, § 207, Nov. 28, 1990, 104 Stat. 4461. Prior to amendment, subsec. (d) related to Commission recommendations concerning bluefin tuna and issuance of regulations in that regard.
 
 #### Amendments
+2015—Subsecs. (e) to (g). Pub. L. 114–81 redesignated subsec. (g) as (e) and struck out former subsecs. (e) and (f), which related to sanctions and forfeiture, respectively.
+
 1998—Subsec. (e). Pub. L. 105–384 made technical amendment to reference in original act which appears in text as reference to [section 1858 of this title](./chapter-038-fishery-conservation-and-management.md#section-1858).
 
 1995—Subsec. (e). Pub. L. 104–43 amended subsec. (e) generally, substituting present provisions for provisions establishing civil penalties for violations of this section, providing for authority of Secretary to assess, remit, or mitigate any civil penalty, providing for notice and hearing prior to assessment, and providing for civil action upon failure to pay penalty.
@@ -343,19 +347,18 @@ Pub. L. 106–553, § 1(a)(2) [title VI, § 634], Dec. 21, 2000, 114 Stat. 2762,
 
 <a id="section-971f"></a>
 ## § 971f. Enforcement
-**(a) Particular powers** Any person authorized in accordance with the provisions of this chapter to enforce the provisions of this chapter and the regulations issued thereunder may—
+**(a)** For additional prohibitions relating to this chapter and enforcement of this chapter, see [section 1826g of this title](./chapter-038-fishery-conservation-and-management.md#section-1826g).
 
-(1) with or without a warrant, board any vessel subject to the jurisdiction of the United States and inspect such vessel and its catch and, if as a result of such inspection, he has reasonable cause to believe that such vessel or any person on board is engaging in operations in violation of this chapter or any regulations issued thereunder, he may, with or without a warrant or other process, arrest such person;
+**(b)** To the extent authorized under the convention or by agreements between the United States and any contracting party concluded pursuant to [section 971c(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section971c/b&num=0&edition=prelim) for international enforcement, the duly authorized officials of such party shall have the authority to carry out enforcement activities with respect to this chapter that are otherwise authorized by law with respect to persons or vessels subject to the jurisdiction of the United States, and the officials of the United States authorized pursuant to this section shall have the authority to carry out enforcement activities with respect to this chapter that are otherwise authorized by law with respect to persons or vessels subject to the jurisdiction of such party, except that where any agreement provides for arrest or seizure of persons or vessels under United States jurisdiction it shall also provide that the person or vessel arrested or seized shall be promptly handed over to a United States enforcement officer or another authorized United States official.
 
-(2) arrest, with or without a warrant, any person who violates the provisions of this chapter or any regulation issued thereunder in his presence or view;
+### Statutory Notes
 
-(3) execute any warrant or other process issued by an officer or court of competent jurisdiction; and
+#### Amendments
+2015—Subsec. (a). Pub. L. 114–81, § 107(3), added subsec. (a) and struck out former subsec. (a) which related to particular powers of persons authorized to enforce the provisions of this chapter and the regulations issued thereunder.
 
-(4) seize, whenever and wherever lawfully found, all fish taken or retained by a vessel subject to the jurisdiction of the United States in violation of the provisions of this chapter or any regulations issued pursuant thereto. Any fish so seized may be disposed of pursuant to an order of a court of competent jurisdiction, or, if perishable, in a manner prescribed by regulation of the Secretary.
+Subsec. (b). Pub. L. 114–81, § 107(4), substituted “enforcement activities with respect to this chapter that are otherwise authorized by law” for “the enforcement activities specified in subsection (a) of this section” in two places.
 
-**(b) International enforcement** To the extent authorized under the convention or by agreements between the United States and any contracting party concluded pursuant to [section 971c(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section971c/b&num=0&edition=prelim) for international enforcement, the duly authorized officials of such party shall have the authority to carry out the enforcement activities specified in subsection (a) of this section with respect to persons or vessels subject to the jurisdiction of the United States, and the officials of the United States authorized pursuant to this section shall have the authority to carry out the enforcement activities specified in subsection (a) of this section with respect to persons or vessels subject to the jurisdiction of such party, except that where any agreement provides for arrest or seizure of persons or vessels under United States jurisdiction it shall also provide that the person or vessel arrested or seized shall be promptly handed over to a United States enforcement officer or another authorized United States official.
-
-**(c) Bonds or stipulations** Notwithstanding the provisions of [section 2464 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2464&num=0&edition=prelim), when a warrant of arrest or other process in rem is issued in any cause under this section, the marshal or other officer shall stay the execution of such process, or discharge any fish seized if the process has been levied, on receiving from the claimant of the fish a bond or stipulation for the value of the property with sufficient surety to be approved by a judge of the district court having jurisdiction of the offense, conditioned to deliver the fish seized, if condemned, without impairment in value or, in the discretion of the court, to pay its equivalent value in money or otherwise to answer the decree of the court in such cause. Such bond or stipulation shall be returned to the court and judgment thereon against both the principal and sureties may be recovered in event of any breach of the conditions thereof as determined by the court. In the discretion of the accused, and subject to the direction of the court, the fish may be sold for not less than its reasonable market value at the time of seizure and the proceeds of such sale placed in the registry of the court pending judgment in the case.
+Subsec. (c). Pub. L. 114–81, § 107(3)(A), struck out subsec. (c) which related to bonds or stipulations.
 
 
 <a id="section-971g"></a>
@@ -377,7 +380,7 @@ Pub. L. 106–553, § 1(a)(2) [title VI, § 634], Dec. 21, 2000, 114 Stat. 2762,
   (B) has enacted laws or promulgated regulations which (i) are less restrictive than the regulations promulgated pursuant to this chapter, or (ii) are not effectively enforced.
   If a State requests the opportunity for an agency hearing on the record, the Secretary shall not apply regulations promulgated pursuant to this chapter within that State’s boundaries unless the hearing record supports a determination under paragraph (A) or (B). Such regulations shall apply until the Secretary determines that the State is effectively enforcing within its boundaries measures which are not less restrictive than such regulations.
 
-**(e) Continuing review of State laws and regulations** To insure that the purposes of subsection (d) of this section are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (d) of this section applies or may apply and the extent to which such laws and regulations are enforced.
+**(e) Continuing review of State laws and regulations** To insure that the purposes of subsection (d) are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (d) applies or may apply and the extent to which such laws and regulations are enforced.
 
 ### Statutory Notes
 
@@ -487,28 +490,11 @@ Section was not enacted as part of the Atlantic Tunas Convention Act of 1975 whi
 
 
 <a id="section-971j"></a>
-## § 971j. Annual report
-
-Not later than April 1, 1996, and annually thereafter, the Secretary shall prepare and transmit to the Committee on Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report, that—
-
-(1) details for the previous 10-year period the catches and exports to the United States of highly migratory species (including tunas, swordfish, marlin and sharks) from Nations fishing on Atlantic stocks of such species that are subject to management by the Commission;
-
-(2) identifies those fishing Nations whose harvests are inconsistent with conservation and management recommendations of the Commission;
-
-(3) describes reporting requirements established by the Secretary to ensure that imported fish products are in compliance with all international management measures, including minimum size requirements, established by the Commission and other international fishery organizations to which the United States is a party; and
-
-(4) describes actions taken by the Secretary under [section 971d of this title](./chapter-16a-atlantic-tunas-convention.md#section-971d).
+## § 971j. Repealed. Pub. L. 114–81, title I, § 107(5), Nov. 5, 2015, 129 Stat. 658
 
 ### Statutory Notes
 
-#### Prior Provisions
-A prior section 11 of Pub. L. 94–70 was renumbered section 13 and is set out as a Separability note under [section 971 of this title](./chapter-16a-atlantic-tunas-convention.md#section-971).
-
-#### Amendments
-1998—Pub. L. 105–384 made technical amendment to style of heading and section designation in original act.
-
-#### Change of Name
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Section, Pub. L. 94–70, § 11, as added Pub. L. 104–43, title III, § 308, Nov. 3, 1995, 109 Stat. 386; amended Pub. L. 105–384, title II, § 202(b)(1)(E), Nov. 13, 1998, 112 Stat. 3453, required the Secretary to submit an annual report.
 
 
 <a id="section-971k"></a>
@@ -517,6 +503,11 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 Nothing in this chapter shall have the effect of diminishing the rights and obligations of any Nation under Article VIII(3) of the Convention.
 
 ### Statutory Notes
+
+#### Prior Provisions
+A prior section 11 of Pub. L. 94–70 was renumbered section 12 and is set out as a Separability note under [section 971 of this title](./chapter-16a-atlantic-tunas-convention.md#section-971).
+
+Another prior section 11 of Pub. L. 94–70 was classified to [section 971j of this title](./chapter-16a-atlantic-tunas-convention.md#section-971j), prior to repeal by Pub. L. 114–81, title I, § 107(5), Nov. 5, 2015, 129 Stat. 658.
 
 #### Amendments
 1998—Pub. L. 105–384 made technical amendment to style of heading and section designation in original act.

@@ -363,7 +363,7 @@ In subsection (a), the word “only” is omitted for consistency with a similar
 In subsection (b)(6), the words “from time to time, may review” are substituted for “is authorized to review at least every three years” because the source law, while effectively granting the Administrator authority to conduct the reviews, does not require the Administrator to conduct any reviews, and does not restrict the number of reviews the Administrator may conduct during any time period. The words “beginning with the third year after November 1, 1978” are omitted as obsolete. The words “the dollar amount specified in paragraph (1)” are substituted for “the dollar amount defined in subsection (a) of this section as a small claim” to eliminate unnecessary words and because 41:608(a), restated as paragraph (1), does not explicitly provide a definition for the term “small claim”.
 
 #### Senate Revision Amendment
-In subsec. (b)(6), “amounts” substituted for “amount” in heading and “amounts” substituted for “amount” in two places in text by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. S8442, Dec. 2, 2010 (daily ed.).
+In subsec. (b)(6), “amounts” substituted for “amount” in heading and “amounts” substituted for “amount” in two places in text by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18683 (2010).
 
 
 <a id="section-7107"></a>

@@ -1624,6 +1624,24 @@ The Consolidated Farm and Rural Development Act, referred to in subsec. (n)(2), 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2015—Subsec. (k)(8). Pub. L. 114–94, § 32205, repealed Pub. L. 114–74, § 201, effective Nov. 2, 2015, and provided that the provisions of law amended by such section are restored as if such section had not been enacted. See notes below and Effective Date of 2015 Amendment note below.
+
+Subsec. (k)(8)(A). Pub. L. 114–74, § 201(1), which directed substitution of “shall renegotiate the financial terms and conditions of each Standard Reinsurance Agreement—
+
+“(i) not later than December 31, 2016; and
+
+“(ii) not less than once during each period of 5 reinsurance years thereafter.”
+
+for “may renegotiate the financial terms and conditions of each Standard Reinsurance Agreement—
+
+“(i) to be effective for the 2011 reinsurance year beginning July 1, 2010; and
+
+“(ii) once during each period of 5 reinsurance years thereafter.”,
+
+was repealed by Pub. L. 114–94, § 32205. See above.
+
+Subsec. (k)(8)(E). Pub. L. 114–74, § 201(2), which directed striking subpar. (E) and adding a new subpar. (E) to read “Cap on overall rate of return.—Notwithstanding subparagraph (F), the Board shall ensure that the Standard Reinsurance Agreement renegotiated under subparagraph (A)(i) establishes a target rate of return for the approved insurance providers, taken as a whole, that does not exceed 8.9 percent of retained premium for each of the 2017 through 2026 reinsurance years.”, was repealed by Pub. L. 114–94, § 32205. See above.
+
 2014—Subsec. (a)(9)(C). Pub. L. 113–79, § 11002, added subpar. (C).
 
 Subsec. (b)(1). Pub. L. 113–79, § 12305(b), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Corporation shall offer a catastrophic risk protection plan to indemnify producers for crop loss due to loss of yield or prevented planting, if provided by the Corporation, when the producer is unable, because of drought, flood, or other natural disaster (as determined by the Secretary), to plant other crops for harvest on the acreage for the crop year.”
@@ -1993,6 +2011,9 @@ Subsec. (d). Act June 21, 1941, §§ 6, 10, substituted “the agricultural comm
 Subsec. (e). Act June 21, 1941, § 7, added subsec. (e).
 
 1938—Subsec. (a). Act June 22, 1938, inserted second proviso in first sentence.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–94, div. C, title XXXII, § 32205, Dec. 4, 2015, 129 Stat. 1740, provided that: “Effective as of November 2, 2015, the date of the enactment of the Bipartisan Budget Act of 2015 (Public Law 114–74), section 201 of such Act [amending this section] and the amendments made by such section are repealed, and the provisions of law amended by such section are hereby restored to appear as if such section had not been enacted into law.”
 
 #### Effective Date of 2014 Amendment
 Pub. L. 113–79, title XI, § 11003(d), Feb. 7, 2014, 128 Stat. 956, provided that: “The Federal Crop Insurance Corporation shall begin to provide additional coverage based on an individual yield and loss basis, supplemented with coverage based on an area yield and loss basis, as described in the amendments made by this section [amending this section], not later than for the 2015 crop year.”
@@ -2567,7 +2588,7 @@ The Commodity Credit Corporation Charter Act, referred to in subsec. (h)(3)(B)(i
 
 The Agricultural Adjustment Act of 1938, referred to in subsec. (h)(3)(B)(v), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (h)(3)(B)(vi), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act, popularly known as the “Sodbuster Law”, is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+The Food Security Act of 1985, referred to in subsec. (h)(3)(B)(vi), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (h)(3)(B)(vii), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§ 1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
@@ -3746,7 +3767,7 @@ Section effective Oct. 1, 2000, see section 171(b)(1)(A) of Pub. L. 106–224, s
 ### Statutory Notes
 
 #### References in Text
-[Section 1308(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1308/5&num=0&edition=prelim), which required the Secretary to issue regulations defining “person”, referred to in subsec. (b)(3), was redesignated section 1308(e) and amended by section 1603(b)(1) of Pub. L. 107–171. Section 1603(a) of the Food, Conservation, and Energy Act of 2008 probably should be a reference to section 1603(b)(1)(C), (3)(A) of that Act, Pub. L. 110–246, which subsequently amended [section 1308 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1308) by striking out subsec. (e) and adding a new subsec. (a)(4) defining “person”.
+[Section 1308(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1308/5&num=0&edition=prelim), which required the Secretary to issue regulations defining “person”, referred to in subsec. (b)(3), was redesignated section 1308(e) and amended by section 1603(b)(1) of Pub. L. 107–171. Section 1603(a) of the Food, Conservation, and Energy Act of 2008, Pub. L. 110–246, subsequently amended the definition of “covered commodity” in section 1308(a)(1). Section 1603(b) of Pub. L. 110–246 amended section 1308 by, among other things, striking out subsec. (e) and adding subsec. (a)(4) which defined “person”. The amendments by section 1603 of Pub. L. 110–246 to section 1308 were effective May 22, 2008.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.

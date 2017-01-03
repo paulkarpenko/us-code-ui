@@ -2,7 +2,7 @@
 title: 10
 chapter: '81'
 heading: CIVILIAN EMPLOYEES
-section_count: 29
+section_count: 33
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -154,9 +154,11 @@ Pub. L. 101–510, § 1481(d)(1), (2), substituted “Employment of non-citizens
 Amendment by section 1482(b) of Pub. L. 101–510 effective Oct. 1, 1991, see section 1482(d) of Pub. L. 101–510, set out as a note under [section 119 of this title](./chapter-002-department-of-defense.md#section-119).
 
 #### Citizenship Requirement Not Applicable
-Pub. L. 113–235, div. C, title VIII, § 8002, Dec. 16, 2014, 128 Stat. 2251, provided that: “During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: Provided, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act [div. C of Pub. L. 113–235, see Tables for classification] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: Provided further, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 [[22 U.S.C. 3901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) et seq.]: Provided further, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey.”
+Pub. L. 114–113, div. C, title VIII, § 8002, Dec. 18, 2015, 129 Stat. 2349, provided that: “During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: Provided, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act [div. C of Pub. L. 114–113, see Tables for classification] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: Provided further, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 [[22 U.S.C. 3901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) et seq.]: Provided further, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. C, title VIII, § 8002, Dec. 16, 2014, 128 Stat. 2251.
 
 Pub. L. 113–76, div. C, title VIII, § 8002, Jan. 17, 2014, 128 Stat. 103.
 
@@ -1039,9 +1041,13 @@ Pub. L. 108–375, div. A, title XI, § 1102(b), Oct. 28, 2004, 118 Stat. 2072, 
 
 **(e) Involuntary Reductions of Civilian Positions.—** The Secretary of Defense may not implement any involuntary reduction or furlough of civilian positions in a military department, Defense Agency, or other component of the Department of Defense until the expiration of the 45-day period beginning on the date on which the Secretary submits to Congress a report setting forth the reasons why such reductions or furloughs are required and a description of any change in workload or positions requirements that will result from such reductions or furloughs.
 
+**(f) Reductions Based Primarily on Performance.—** The Secretary of Defense shall establish procedures to provide that, in implementing any reduction in force for civilian positions in the Department of Defense in the competitive service or the excepted service, the determination of which employees shall be separated from employment in the Department shall be made primarily on the basis of performance, as determined under any applicable performance management system.
+
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (f). Pub. L. 114–92 added subsec. (f).
+
 2011—Subsec. (b). Pub. L. 112–81 inserted after first sentence “In establishing the guidelines, the Secretary shall ensure that nothing in the guidelines conflicts with the requirements of [section 129 of this title](./chapter-003-general-powers-and-functions.md#section-129) or the policies and procedures established under [section 129a of this title](./chapter-003-general-powers-and-functions.md#section-129a).”
 
 1993—Subsec. (a). Pub. L. 103–160, § 363(a)(1), substituted “during a fiscal year” for “during fiscal year 1993”.
@@ -1146,11 +1152,11 @@ Pub. L. 101–510, div. A, title III, § 322(b), Nov. 5, 1990, 104 Stat. 1529, p
 ### Statutory Notes
 
 #### References in Text
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
 [Section 1151 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1151), referred to in subsecs. (d)(2)(A), (B) and (f), was repealed by Pub. L. 106–65, div. A, title XVII, § 1707(a)(1), Oct. 5, 1999, 113 Stat. 823, and a new [section 1151 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1151) was subsequently added by Pub. L. 109–364, § 561(a).
 
-The Higher Education Act of 1965, referred to in subsec. (e)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (e)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2000—Subsec. (d)(2). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(11)(A)], inserted “as in effect on October 4, 1999,” after “of this title,” in subpars. (A) and (B).
@@ -1302,3 +1308,295 @@ Pub. L. 112–10, div. A, title VIII, § 8086, Apr. 15, 2011, 125 Stat. 76, prov
 
 #### Effective Date
 Pub. L. 107–314, div. A, title XI, § 1104(b), Dec. 2, 2002, 116 Stat. 2661, provided that: “Standards established pursuant to [section 1599d of title 10](./chapter-081-civilian-employees.md#section-1599d), United States Code, as added by subsection (a), may take effect no sooner than 120 days after the date of the enactment of this Act [Dec. 2, 2002].”
+
+
+<a id="section-1599e"></a>
+## § 1599e. Probationary period for employees
+**(a) In General.—** Notwithstanding sections 3321 and 3393(d) of title 5, the appointment of a covered employee shall become final only after such employee has served a probationary period of two years. The Secretary concerned may extend a probationary period under this subsection at the discretion of such Secretary.
+
+**(b) Definitions.—** In this section:
+
+(1) The term “covered employee” means any individual—
+
+  (A) appointed to a permanent position within the competitive service at the Department of Defense; or
+
+  (B) appointed as a career appointee (as that term is defined in [section 3132(a)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132/a/4&num=0&edition=prelim)) within the Senior Executive Service at the Department.
+
+(2) The term “Secretary concerned” includes the Secretary of Defense with respect to employees of the Department of Defense who are not employees of a military department.
+
+**(c) Employment Becomes Final.—** Upon the expiration of a covered employee’s probationary period under subsection (a), the supervisor of the employee shall determine whether the appointment becomes final based on regulations prescribed for such purpose by the Secretary of Defense.
+
+**(d) Application of Chapter 75 of Title 5 for Employees in the Competitive Service.—** With respect to any individual described in subsection (b)(1)(A) and to whom this section applies, section 7501(1) and [section 7511(a)(1)(A)(ii) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7511/a/1/A/ii&num=0&edition=prelim) shall be applied to such individual by substituting “completed 2 years” for “completed 1 year” in each instance it appears.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 114–92, div. A, title XI, § 1105(b), Nov. 25, 2015, 129 Stat. 1024, provided that: “The amendment made by subsection (a) [enacting this section] shall apply to any covered employee (as that term is defined in [section 1599e of title 10](./chapter-081-civilian-employees.md#section-1599e), United States Code, as added by such subsection) appointed after the date of the enactment of this section [Nov. 25, 2015].”
+
+
+<a id="section-1599f"></a>
+## § 1599f. United States Cyber Command recruitment and retention
+**(a) General Authority.—**
+
+(1) The Secretary of Defense may—
+
+  (A) establish, as positions in the excepted service, such qualified positions in the Department of Defense as the Secretary determines necessary to carry out the responsibilities of the United States Cyber Command, including—
+
+    (i) positions held by staff of the headquarters of the United States Cyber Command;
+
+    (ii) positions held by elements of the United States Cyber Command enterprise relating to cyberspace operations, including elements assigned to the Joint Task Force-Department of Defense Information Networks; and
+
+    (iii) positions held by elements of the military departments supporting the United States Cyber Command;
+
+  (B) appoint an individual to a qualified position (after taking into consideration the availability of preference eligibles for appointment to the position); and
+
+  (C) subject to the requirements of subsections (b) and (c), fix the compensation of an individual for service in a qualified position.
+
+(2) The authority of the Secretary under this subsection applies without regard to the provisions of any other law relating to the appointment, number, classification, or compensation of employees.
+
+**(b) Basic Pay.—**
+
+(1) In accordance with this section, the Secretary shall fix the rates of basic pay for any qualified position established under subsection (a)—
+
+  (A) in relation to the rates of pay provided for employees in comparable positions in the Department, in which the employee occupying the comparable position performs, manages, or supervises functions that execute the cyber mission of the Department; and
+
+  (B) subject to the same limitations on maximum rates of pay established for such employees by law or regulation.
+
+(2) The Secretary may—
+
+  (A) consistent with [section 5341 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5341&num=0&edition=prelim), adopt such provisions of that title to provide for prevailing rate systems of basic pay; and
+
+  (B) apply those provisions to qualified positions for employees in or under which the Department may employ individuals described by section 5342(a)(2)(A) of such title.
+
+**(c) Additional Compensation, Incentives, and Allowances.—**
+
+(1) The Secretary may provide employees in qualified positions compensation (in addition to basic pay), including benefits, incentives, and allowances, consistent with, and not in excess of the level authorized for, comparable positions authorized by title 5.
+
+(2) An employee in a qualified position whose rate of basic pay is fixed under subsection (b)(1) shall be eligible for an allowance under [section 5941 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5941&num=0&edition=prelim) on the same basis and to the same extent as if the employee was an employee covered by such section, including eligibility conditions, allowance rates, and all other terms and conditions in law or regulation.
+
+**(d) Implementation Plan Required.—** The authority granted in subsection (a) shall become effective 30 days after the date on which the Secretary of Defense provides to the congressional defense committees a plan for implementation of such authority. The plan shall include the following:
+
+(1) An assessment of the current scope of the positions covered by the authority.
+
+(2) A plan for the use of the authority.
+
+(3) An assessment of the anticipated workforce needs of the United States Cyber Command across the future-years defense plan.
+
+(4) Other matters as appropriate.
+
+**(e) Collective Bargaining Agreements.—** Nothing in subsection (a) may be construed to impair the continued effectiveness of a collective bargaining agreement with respect to an office, component, subcomponent, or equivalent of the Department that is a successor to an office, component, subcomponent, or equivalent of the Department covered by the agreement before the succession.
+
+**(f) Training.—**
+
+(1) The Secretary shall provide training to covered personnel on hiring and pay matters relating to authorities under this section.
+
+(2) For purposes of this subsection, covered personnel are employees of the Department who—
+
+  (A) carry out functions relating to—
+
+    (i) the management of human resources and the civilian workforce of the Department; or
+
+    (ii) the writing of guidance for the implementation of authorities regarding hiring and pay under this section; or
+
+  (B) are employed in supervisory positions or have responsibilities relating to the hiring of individuals for positions in the Department and to whom the Secretary intends to delegate authority under this section.
+
+**(g) Required Regulations.—** The Secretary, in coordination with the Director of the Office of Personnel Management, shall prescribe regulations for the administration of this section.
+
+**(h) Annual Report.—**
+
+(1) Not later than one year after the date of the enactment of this section and not less frequently than once each year thereafter until the date that is five years after the date of the enactment of this section, the Director of the Office of Personnel Management, in coordination with the Secretary, shall submit to the appropriate committees of Congress a detailed report on the administration of this section during the most recent one-year period.
+
+(2) Each report submitted under paragraph (1) shall include, for the period covered by the report, the following:
+
+  (A) A discussion of the process used in accepting applications, assessing candidates, ensuring adherence to veterans’ preference, and selecting applicants for vacancies to be filled by an individual for a qualified position.
+
+  (B) A description of the following:
+
+    (i) How the Secretary plans to fulfill the critical need of the Department to recruit and retain employees in qualified positions.
+
+    (ii) The measures that will be used to measure progress.
+
+    (iii) Any actions taken during the reporting period to fulfill such critical need.
+
+  (C) A discussion of how the planning and actions taken under subparagraph (B) are integrated into the strategic workforce planning of the Department.
+
+  (D) The metrics on actions occurring during the reporting period, including the following:
+
+    (i) The number of employees in qualified positions hired, disaggregated by occupation, grade, and level or pay band.
+
+    (ii) The placement of employees in qualified positions, disaggregated by military department, Defense Agency, or other component within the Department.
+
+    (iii) The total number of veterans hired.
+
+    (iv) The number of separations of employees in qualified positions, disaggregated by occupation and grade and level or pay band.
+
+    (v) The number of retirements of employees in qualified positions, disaggregated by occupation, grade, and level or pay band.
+
+    (vi) The number and amounts of recruitment, relocation, and retention incentives paid to employees in qualified positions, disaggregated by occupation, grade, and level or pay band.
+
+  (E) A description of the training provided to employees described in subsection (f)(2) on the use of authorities under this section.
+
+**(i) Three-year Probationary Period.—** The probationary period for all employees hired under the authority established in this section shall be three years.
+
+**(j) Incumbents of Existing Competitive Service Positions.—**
+
+(1) An individual occupying a position on the date of the enactment of this section that is selected to be converted to a position in the excepted service under this section shall have the right to refuse such conversion.
+
+(2) After the date on which an individual who refuses a conversion under paragraph (1) stops serving in the position selected to be converted, the position may be converted to a position in the excepted service.
+
+**(k) Definitions.—** In this section:
+
+(1) The term “appropriate committees of Congress” means—
+
+  (A) the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate; and
+
+  (B) the Committee on Armed Services, the Committee on Oversight and Government Reform, and the Committee on Appropriations of the House of Representatives.
+
+(2) The term “collective bargaining agreement” has the meaning given that term in [section 7103(a)(8) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7103/a/8&num=0&edition=prelim).
+
+(3) The term “excepted service” has the meaning given that term in [section 2103 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2103&num=0&edition=prelim).
+
+(4) The term “preference eligible” has the meaning given that term in [section 2108(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2108/3&num=0&edition=prelim).
+
+(5) The term “qualified position” means a position, designated by the Secretary for the purpose of this section, in which the individual occupying such position performs, manages, or supervises functions that execute the responsibilities of the United States Cyber Command relating to cyber operations.
+
+(6) The term “Senior Executive Service” has the meaning given that term in [section 2101a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2101a&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in subsecs. (h)(1) and (j)(1), is the date of enactment of Pub. L. 114–92, which was approved Nov. 25, 2015.
+
+#### Amendments
+2016—Subsecs. (f), (g). Pub. L. 114–328, § 1103(a), added subsec. (f) and redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 114–328, § 1103(a)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+
+Subsec. (h)(2)(E). Pub. L. 114–328, § 1103(b)(2), substituted “employees described in subsection (f)(2) on the use of authorities under this section” for “supervisors of employees in qualified positions at the Department on the use of the new authorities”.
+
+Subsecs. (i) to (k). Pub. L. 114–328, § 1103(a)(1), redesignated subsecs. (h) to (j) as (i) to (k), respectively.
+
+#### Actions Pending Full Implementation of Plan for Cyber Mission Force Positions
+Pub. L. 114–328, div. A, title XVI, § 1643(a), Dec. 23, 2016, 130 Stat. 2602, provided that: “Until the Secretary of Defense completes implementation of the authority in subsection (a) of [section 1599f of title 10](./chapter-081-civilian-employees.md#section-1599f), United States Code, for United States Cyber Command workforce positions in accordance with the implementation plan required by subsection (d) of such section, the Secretary shall do each of the following: “(1) Notwithstanding sections 3309 through 3318 of title 5, United States Code, provide for and implement an interagency transfer agreement between excepted service position systems and competitive service position systems in military departments and Defense Agencies concerned to satisfy the requirements for cyber workforce positions from among a mix of employees in the excepted service and the competitive service in such military departments and Defense Agencies. “(2) Implement in the defense civilian cyber personnel system a classification system commonly known as a ‘Rank-in-person’ classification system similar to such classification system used by the National Security Agency as of the date of the enactment of this Act [Dec. 23, 2016]. “(3) Approve direct hiring authority for cyber workforce positions up to the GG or GS–15 level in accordance with the criteria in [section 3304 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3304&num=0&edition=prelim), United States Code. “(4) Notwithstanding [section 5333 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5333&num=0&edition=prelim), United States Code, authorize officials conducting hiring in the competitive service for cyber workforce positions to set starting salaries at up to a step-five level with no justification and at up to a step-ten level with justification that meets published guidelines applicable to the excepted service.”
+
+
+<a id="section-1599g"></a>
+## § 1599g. Public-private talent exchange
+**(a) Assignment Authority.—** Under regulations prescribed by the Secretary of Defense, the Secretary may, with the agreement of a private-sector organization and the consent of the employee, arrange for the temporary assignment of an employee to such private-sector organization, or from such private-sector organization to a Department of Defense organization under this section.
+
+**(b) Agreements.—**
+
+(1) The Secretary of Defense shall provide for a written agreement among the Department of Defense, the private-sector organization, and the employee concerned regarding the terms and conditions of the employee’s assignment under this section. The agreement—
+
+  (A) shall require that the employee of the Department of Defense, upon completion of the assignment, will serve in the Department of Defense, or elsewhere in the civil service if approved by the Secretary, for a period equal to twice the length of the assignment;
+
+  (B) shall provide that if the employee of the Department of Defense or of the private-sector organization (as the case may be) fails to carry out the agreement, such employee shall be liable to the United States for payment of all expenses of the assignment, unless that failure was for good and sufficient reason, as determined by the Secretary of Defense; and
+
+  (C) shall contain language ensuring that such employee of the Department does not improperly use pre-decisional or draft deliberative information that such employee may be privy to or aware of related to Department programing, budgeting, resourcing, acquisition, or procurement for the benefit or advantage of the private-sector organization.
+
+(2) An amount for which an employee is liable under paragraph (1) shall be treated as a debt due the United States.
+
+(3) The Secretary may waive, in whole or in part, collection of a debt described in paragraph (2) based on a determination that the collection would be against equity and good conscience and not in the best interests of the United States, after taking into account any indication of fraud, misrepresentation, fault, or lack of good faith on the part of the employee.
+
+**(c) Termination.—** An assignment under this section may, at any time and for any reason, be terminated by the Department of Defense or the private-sector organization concerned.
+
+**(d) Duration.—**
+
+(1) An assignment under this section shall be for a period of not less than three months and not more than two years, renewable up to a total of four years. No employee of the Department of Defense may be assigned under this section for more than a total of 4 years inclusive of all such assignments.
+
+(2) An assignment under this section may be for a period in excess of two years, but not more than four years, if the Secretary determines that such assignment is necessary to meet critical mission or program requirements.
+
+**(e) Status of Federal Employees Assigned to Private-sector Organizations.—**
+
+(1) An employee of the Department of Defense who is assigned to a private-sector organization under this section shall be considered, during the period of assignment, to be on detail to a regular work assignment in the Department for all purposes. The written agreement established under subsection (b)(1) shall address the specific terms and conditions related to the employee’s continued status as a Federal employee.
+
+(2) In establishing a temporary assignment of an employee of the Department of Defense to a private-sector organization, the Secretary of Defense shall—
+
+  (A) ensure that the normal duties and functions of such employee can be reasonably performed by other employees of the Department of Defense without the transfer or reassignment of other personnel of the Department of Defense, including members of the armed forces;
+
+  (B) ensure that the normal duties and functions of such employees are not, as a result of and during the course of such temporary assignment, performed or augmented by contractor personnel in violation of the provisions of [section 2461 of this title](./chapter-146-contracting-for-performance-of-civilian-commercial-or-industrial-type-functions.md#section-2461); and
+
+  (C) certify that the temporary assignment of such employee shall not have an adverse or negative impact on mission attainment, warfighter support, or organizational capabilities associated with the assignment.
+
+**(f) Terms and Conditions for Private-sector Employees.—** An employee of a private-sector organization who is assigned to a Department of Defense organization under this section—
+
+(1) shall continue to receive pay and benefits from the private-sector organization from which such employee is assigned and shall not receive pay or benefits from the Department of Defense, except as provided in paragraph (2);
+
+(2) is deemed to be an employee of the Department of Defense for the purposes of—
+
+  (A) chapters 73 and 81 of title 5;
+
+  (B) sections 201, 203, 205, 207, 208, 209, 603, 606, 607, 643, 654, 1905, and 1913 of title 18;
+
+  (C) sections 1343, 1344, and 1349(b) of title 31;
+
+  (D) the Federal Tort Claims Act and any other Federal tort liability statute;
+
+  (E) the Ethics in Government Act of 1978; and
+
+  (F) chapter 21 of title 41;
+
+(3) shall not have access to any trade secrets or to any other nonpublic information which is of commercial value to the private-sector organization from which such employee is assigned;
+
+(4) may perform work that is considered inherently governmental in nature only when requested in writing by the Secretary of Defense; and
+
+(5) may not be used to circumvent the provision of [section 2461 of this title](./chapter-146-contracting-for-performance-of-civilian-commercial-or-industrial-type-functions.md#section-2461) nor to circumvent any limitation or restriction on the size of the Department’s workforce.
+
+**(g) Prohibition Against Charging Certain Costs to the Federal Government.—** A private-sector organization may not charge the Department or any other agency of the Federal Government, as direct or indirect costs under a Federal contract, the costs of pay or benefits paid by the organization to an employee assigned to a Department organization under this section for the period of the assignment.
+
+**(h) Considerations.—** In carrying out this section, the Secretary of Defense—
+
+(1) shall ensure that, of the assignments made under this section each year, at least 20 percent are from small business concerns (as defined by [section 3703(e)(2)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3703/e/2/A&num=0&edition=prelim));
+
+(2) shall take into consideration the question of how assignments under this section might best be used to help meet the needs of the Department of Defense with respect to the training of employees; and
+
+(3) shall take into consideration, where applicable, areas of particular private sector expertise, such as cybersecurity.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Tort Claims Act, referred to in subsec. (f)(2)(D), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+
+The Ethics in Government Act of 1978, referred to in subsec. (f)(2)(E), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
+
+
+<a id="section-1599h"></a>
+## § 1599h. Personnel management authority to attract experts in science and engineering
+**(a) Programs Authorized.—**
+
+(1) **Laboratories of the military departments.—** — The Secretary of Defense may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for such laboratories of the military departments as the Secretary shall designate for purposes of the program for research and development projects of such laboratories.
+
+(2) **DARPA.—** — The Director of the Defense Advanced Research Projects Agency may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for research and development projects and to enhance the administration and management of the Agency.
+
+(3) **DOTE.—** — The Director of the Office of Operational Test and Evaluation may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering to support operational test and evaluation missions of the Office.
+
+**(b) Personnel Management Authority.—** Under a program under subsection (a), the official responsible for administration of the program may—
+
+(1) without regard to any provision of title 5 governing the appointment of employees in the civil service—
+
+  (A) in the case of the laboratories of the military departments designated pursuant to subsection (a)(1), appoint scientists and engineers to a total of not more than 40 scientific and engineering positions in such laboratories;
+
+  (B) in the case of the Defense Advanced Research Projects Agency, appoint individuals to a total of not more than 100 positions in the Agency, of which not more than 5 such positions may be positions of administration or management of the Agency; and
+
+  (C) in the case of the Office of Operational Test and Evaluation, appoint scientists and engineers to a total of not more than 10 scientific and engineering positions in the Office;
+
+(2) notwithstanding any provision of title 5 governing the rates of pay or classification of employees in the executive branch, prescribe the rates of basic pay for positions to which employees are appointed under paragraph (1)—
+
+  (A) in the case of employees appointed pursuant to paragraph (1)(B) to any of 5 positions designated by the Director of the Defense Advanced Research Projects Agency for purposes of this subparagraph, at rates not in excess of a rate equal to 150 percent of the maximum rate of basic pay authorized for positions at Level I of the Executive Schedule under [section 5312 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5312&num=0&edition=prelim); and
+
+  (B) in the case of any other employee appointed pursuant to paragraph (1), at rates not in excess of the maximum rate of basic pay authorized for senior-level positions under [section 5376 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim); and
+
+(3) pay any employee appointed under paragraph (1), other than an employee appointed to a position designated as described in paragraph (2)(A), payments in addition to basic pay within the limit applicable to the employee under subsection (d).
+
+**(c) Limitation on Term of Appointment.—**
+
+(1) **In general.—** — Except as provided in paragraph (2), the service of an employee under an appointment under subsection (b)(1) may not exceed four years.
+
+(2) **Extension.—** — The official responsible for the administration of a program under subsection (a) may, in the case of a particular employee under the program, extend the period to which service is limited under paragraph (1) by up to two years if the official determines that such action is necessary to promote the efficiency of a laboratory of a military department, the Defense Advanced Research Projects Agency, or the Office of Operational Test and Evaluation, as applicable.
+
+**(d) Maximum Amount of Additional Payments Payable.—** Notwithstanding any other provision of this section or [section 5307 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5307&num=0&edition=prelim), no additional payments may be paid to an employee under subsection (b)(3) in any calendar year if, or to the extent that, the employee’s total annual compensation in such calendar year will exceed the maximum amount of total annual compensation payable at the salary set in accordance with [section 104 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Applicability of Personnel Management Authority to Personnel Currently Employed Under Superseded Authority
+Pub. L. 114–328, div. A, title XI, § 1121(c), Dec. 23, 2016, 130 Stat. 2452, provided that: “(1) In general.—Any individual employed as of the date of the enactment of this Act [Dec. 23, 2016] under section 1101(b)(1) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([5 U.S.C. 3104](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3104&num=0&edition=prelim) note) (as in effect on the day before such date) shall remain employed under [section 1599h of title 10](./chapter-081-civilian-employees.md#section-1599h), United States Code (as added by subsection (a)), after such date in accordance with such section 1599h and the applicable program carried out under such section 1599h. “(2) Date of appointment.—For purposes of subsection (c) of [section 1599h of title 10](./chapter-081-civilian-employees.md#section-1599h), United States Code (as so added), the date of the appointment of any employee who remains employed as described in paragraph (1) shall be the date of the appointment of such employee under section 1101(b)(1) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([5 U.S.C. 3104](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3104&num=0&edition=prelim) note) (as so in effect).”

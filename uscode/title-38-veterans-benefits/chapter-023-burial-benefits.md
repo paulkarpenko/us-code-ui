@@ -216,7 +216,7 @@ Amendment by Pub. L. 95–476 effective Oct. 18, 1978, see section 205(a) of Pub
 
 (2) if such veteran is eligible for a burial allowance under [section 2302 of this title](./chapter-023-burial-benefits.md#section-2302) or under subsection (a) of this section, or was discharged from the active military, naval, or air service for a disability incurred or aggravated in line of duty, and such veteran is buried in a cemetery, or a section of a cemetery, other than as described in clause (1) of this subsection, the Secretary shall pay a sum not exceeding $700 (as increased from time to time under subsection (c)) as a plot or interment allowance to such person as the Secretary prescribes, except that if any part of the plot or interment costs of a burial to which this clause applies has been paid or assumed by a State, an agency or political subdivision of a State, or a former employer of the deceased veteran, no claim for such allowance shall be allowed for more than the difference between the entire amount of the expenses incurred and the amount paid or assumed by any or all of the foregoing entities.
 
-**(c)** With respect to any fiscal year, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the maximum amount of burial and funeral expenses payable under subsection (a) and in the maximum amount of the plot or internment 11 So in original. Probably should be “interment”. allowance payable under subsection (b), equal to the percentage by which—
+**(c)** With respect to any fiscal year, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the maximum amount of burial and funeral expenses payable under subsection (a) and in the maximum amount of the plot or interment allowance payable under subsection (b), equal to the percentage by which—
 
 (1) the Consumer Price Index (all items, United States city average) for the 12-month period ending on the June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
 
@@ -225,6 +225,8 @@ Amendment by Pub. L. 95–476 effective Oct. 18, 1978, see section 205(a) of Pub
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (c). Pub. L. 114–58 substituted “interment” for “internment” in introductory provisions.
+
 2010—Subsec. (a)(1)(A). Pub. L. 111–275, § 501(a), substituted “$700 (as increased from time to time under subsection (c))” for “$300”.
 
 Subsec. (b). Pub. L. 111–275, § 501(b), substituted “$700 (as increased from time to time under subsection (c))” for “$300” in pars. (1) and (2).
@@ -398,7 +400,31 @@ The death of any person who had a status which would, under the laws in effect o
 
 (3) The headstone or marker furnished under this subsection shall be the headstone or marker selected by the individual making the request from among all the headstones and markers made available by the Government for selection.
 
-(4) In lieu of furnishing a headstone or marker under this subsection, the Secretary may furnish, upon request, a medallion or other device of a design determined by the Secretary to signify the deceased’s status as a veteran, to be attached to a headstone or marker furnished at private expense.
+(4)
+
+  (A) In lieu of furnishing a headstone or marker under this subsection to a deceased individual described in subparagraph (B), the Secretary may furnish, upon request, a medallion or other device of a design determined by the Secretary to signify the deceased individual’s status as a veteran, to be attached to a headstone or marker furnished at private expense.
+
+  (B) A deceased individual described in this subsection is an individual who—
+
+    (i) served in the Armed Forces on or after April 6, 1917; and
+
+    (ii) is eligible for a headstone or marker furnished under paragraph (1) (or would be so eligible but for the date of the death of the individual).
+
+(5)
+
+  (A) In carrying out this subsection with respect to a deceased individual described in subparagraph (C), the Secretary shall furnish, upon request, a headstone or marker under paragraph (1) or a medallion under paragraph (4) that signifies the deceased’s status as a medal of honor recipient.
+
+  (B) If the Secretary furnished a headstone, marker, or medallion under paragraph (1) or (4) for a deceased individual described in subparagraph (C) that does not signify the deceased’s status as a medal of honor recipient, the Secretary shall, upon request, replace such headstone, marker, or medallion with a headstone, marker, or medallion, as the case may be, that so signifies the deceased’s status as a medal of honor recipient.
+
+  (C) A deceased individual described in this subparagraph is a deceased individual who—
+
+    (i) served in the Armed Forces on or after April 6, 1917;
+
+    (ii) is eligible for a headstone or marker furnished under paragraph (1) or a medallion furnished under paragraph (4) (or would be so eligible for such headstone, marker, or medallion but for the date of the death of the individual); and
+
+    (iii) was awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or [section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim) (including posthumously).
+
+  (D) In this paragraph, the term “medal of honor recipient” means an individual who is awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or [section 491 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section491&num=0&edition=prelim).
 
 **(e)**
 
@@ -418,11 +444,11 @@ The death of any person who had a status which would, under the laws in effect o
 
 (4) Regulations or procedures under paragraph (2) may provide for the use of a voucher system, or other system of reimbursement approved by the Secretary (or, with respect to Arlington National Cemetery, the Secretary of the Army), for payment for outer burial receptacles other than grave liners provided under such regulations or procedures.
 
-**(f)** The Secretary may furnish a casket or urn, of such quality as the Secretary considers appropriate for a dignified burial, for burial in a national cemetery of a deceased veteran in any case in which the Secretary—
+**(f)** The Secretary may furnish a casket or urn, of such quality as the Secretary considers appropriate for a dignified burial, for burial of a deceased veteran in a national cemetery or in a veterans cemetery of a State or tribal organization for which the Department has provided a grant under [section 2408 of this title](./chapter-024-national-cemeteries-and-memorials.md#section-2408) in any case in which the Secretary—
 
 (1) is unable to identify the veteran’s next of kin, if any; and
 
-(2) determines that sufficient resources for the furnishing of a casket or urn for the burial of the veteran in a national cemetery are not otherwise available.
+(2) determines that sufficient resources for the furnishing of a casket or urn for such burial are not otherwise available.
 
 **(g)**
 
@@ -443,6 +469,14 @@ The death of any person who had a status which would, under the laws in effect o
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (d)(4). Pub. L. 114–315, § 301(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In lieu of furnishing a headstone or marker under this subsection, the Secretary may furnish, upon request, a medallion or other device of a design determined by the Secretary to signify the deceased’s status as a veteran, to be attached to a headstone or marker furnished at private expense.”
+
+Subsec. (d)(5). Pub. L. 114–315, § 301(2), added par. (5).
+
+Subsec. (f). Pub. L. 114–273, § 2(1) substituted “for burial of a deceased veteran in a national cemetery or in a veterans cemetery of a State or tribal organization for which the Department has provided a grant under [section 2408 of this title](./chapter-024-national-cemeteries-and-memorials.md#section-2408)” for “for burial in a national cemetery of a deceased veteran” in introductory provisions.
+
+Subsec. (f)(2). Pub. L. 114–273, § 2(2), substituted “such burial” for “the burial of the veteran in a national cemetery”.
+
 2013—Subsecs. (f) to (h). Pub. L. 112–260, § 101(a)(1), (2), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 Subsec. (h)(4). Pub. L. 112–260, § 101(a)(3), added par. (4).

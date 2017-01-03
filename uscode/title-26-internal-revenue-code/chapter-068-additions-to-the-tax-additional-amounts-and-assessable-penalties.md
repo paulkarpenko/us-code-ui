@@ -15,7 +15,7 @@ source: >-
 (2) to pay the amount shown on tax on any return specified in paragraph (1) on or before the date prescribed for payment of such tax (determined with regard to any extension of time for payment), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount shown as tax on such return 0.5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 0.5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate; or
 
 (3) to pay any amount in respect of any tax required to be shown on a return specified in paragraph (1) which is not so shown (including an assessment made pursuant to section 6213(b)) within 21 calendar days from the date of notice and demand therefor (10 business days if the amount for which such notice and demand is made equals or exceeds $100,000), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand 0.5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 0.5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate.
-In the case of a failure to file a return of tax imposed by chapter 1 within 60 days of the date prescribed for filing of such return (determined with regard to any extensions of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under paragraph (1) shall not be less than the lesser of $135 or 100 percent of the amount required to be shown as tax on such return.
+In the case of a failure to file a return of tax imposed by chapter 1 within 60 days of the date prescribed for filing of such return (determined with regard to any extensions of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under paragraph (1) shall not be less than the lesser of $205 or 100 percent of the amount required to be shown as tax on such return.
 
 **(b) Penalty imposed on net amount due** For purposes of—
 
@@ -59,13 +59,20 @@ In the case of a failure to file a return of tax imposed by chapter 1 within 60 
 
 **(i) Adjustment for inflation**
 
-(1) **In general** — In the case of any return required to be filed in a calendar year beginning after 2014, the $135 dollar amount under subsection (a) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2013” for “calendar year 1992” in subparagraph (B) thereof.
+(1) **In general** — In the case of any return required to be filed in a calendar year beginning after 2014, the $205 dollar amount under subsection (a) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2013” for “calendar year 1992” in subparagraph (B) thereof.
 
 (2) **Rounding** — If any amount adjusted under paragraph (1) is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.
 
 ### Statutory Notes
 
+#### Inflation Adjusted Items for Certain Years
+For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–125, § 921(a), substituted “$205” for “$135” in concluding provisions.
+
+Subsec. (i)(1). Pub. L. 114–125, § 921(b), substituted “$205” for “$135”.
+
 2014—Subsec. (i). Pub. L. 113–295 added subsec. (i).
 
 2008—Subsec. (a). Pub. L. 110–245 substituted “$135” for “$100” in concluding provisions.
@@ -103,6 +110,9 @@ Subsec. (b). Pub. L. 91–172 designated existing provisions as par. (1) and add
 Subsecs. (c), (d). Pub. L. 91–172 added subsec. (c), redesignated former subsec. (c) as (d) and struck out reference to [section 6016 of this title](./chapter-061-information-and-returns.md#section-6016) and provided that this section would not be applicable for failure to pay any estimated tax required under section 6153 or 6154 of this title.
 
 1968—Subsec. (c). Pub. L. 90–364 struck out reference to section 6016.
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–125, title IX, § 921(c), Feb. 24, 2016, 130 Stat. 281, provided that: “The amendments made by this section [amending this section] shall apply to returns required to be filed in calendar years after 2015.”
 
 #### Effective Date of 2014 Amendment
 Pub. L. 113–295, div. B, title II, § 208(h), Dec. 19, 2014, 128 Stat. 4074, provided that: “The amendments made by this section [amending this section and sections 6652, 6695, 6698, 6699, 6721, and 6722 of this title] shall apply to returns required to be filed after December 31, 2014.”
@@ -207,9 +217,15 @@ on the date prescribed therefor (determined with regard to any extension of time
 
   (C) *Definitions* — Any term used in this section which is also used in section 4965 shall have the meaning given such term under section 4965.
 
-(4) **Reasonable cause exception** — No penalty shall be imposed under this subsection with respect to any failure if it is shown that such failure is due to reasonable cause.
+(4) **Notices under section 506**
 
-(5) **Other special rules**
+  (A) *Penalty on organization* — In the case of a failure to submit a notice required under section 506(a) (relating to organizations required to notify Secretary of intent to operate as 501(c)(4)) on the date and in the manner prescribed therefor, there shall be paid by the organization failing to so submit $20 for each day during which such failure continues, but the total amount imposed under this subparagraph on any organization for failure to submit any one notice shall not exceed $5,000.
+
+  (B) *Managers* — The Secretary may make written demand on an organization subject to penalty under subparagraph (A) specifying in such demand a reasonable future date by which the notice shall be submitted for purposes of this subparagraph. If such notice is not submitted on or before such date, there shall be paid by the person failing to so submit $20 for each day after the expiration of the time specified in the written demand during which such failure continues, but the total amount imposed under this subparagraph on all persons for failure to submit any one notice shall not exceed $5,000.
+
+(5) **Reasonable cause exception** — No penalty shall be imposed under this subsection with respect to any failure if it is shown that such failure is due to reasonable cause.
+
+(6) **Other special rules**
 
   (A) *Treatment as tax* — Any penalty imposed under this subsection shall be paid on notice and demand of the Secretary and in the same manner as tax.
 
@@ -217,7 +233,7 @@ on the date prescribed therefor (determined with regard to any extension of time
 
   (C) *Person* — For purposes of this subsection, the term “person” means any officer, director, trustee, employee, or other individual who is under a duty to perform the act in respect of which the violation occurs.
 
-(6) **Adjustment for inflation**
+(7) **Adjustment for inflation**
 
   (A) *In general* — In the case of any failure relating to a return required to be filed in a calendar year beginning after 2014, each of the dollar amounts under paragraphs (1), (2), and (3) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2013” for “calendar year 1992” in subparagraph (B) thereof.
 
@@ -264,7 +280,12 @@ on the date prescribed therefor (determined with regard to any extension of time
 
 **(n) Failure to make reports required under sections 3511, 6053(c)(8), and 7705** In the case of a failure to make a report required under section 3511, 6053(c)(8), or 7705 which contains the information required by such section on the date prescribed therefor (determined with regard to any extension of time for filing), there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing to make such report, an amount equal to $50 for each report with respect to which there was such a failure. In the case of any failure due to negligence or intentional disregard the preceding sentence shall be applied by substituting “$100” for “$50”.
 
+**(o) Failure to provide notices with respect to qualified small employer health reimbursement arrangements** In the case of each failure to provide a written notice as required by section 9831(d)(4), unless it is shown that such failure is due to reasonable cause and not willful neglect, there shall be paid, on notice and demand of the Secretary and in the same manner as tax, by the person failing to provide such written notice, an amount equal to $50 per employee per incident of failure to provide such notice, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $2,500.
+
 ### Statutory Notes
+
+#### Inflation Adjusted Items for Certain Years
+For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Codification
 Sections 1201(b)(2) and 1223(d) of Pub. L. 109–280, which directed the amendment of section 6652 without specifying the act to be amended, were executed to this section, which is section 6652 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
@@ -272,6 +293,10 @@ Sections 1201(b)(2) and 1223(d) of Pub. L. 109–280, which directed the amendme
 Pub. L. 101–140, § 203(a)(1), amended this section to read as if the amendments made by section 1151(b) of Pub. L. 99–514 (enacting subsec. (l)) had not been enacted. Subsequent to enactment by Pub. L. 99–514, subsec. (l) was amended by Pub. L. 100–203, Pub. L. 100–647, and Pub. L. 101–239. See 1989, 1988, and 1987 Amendment notes below.
 
 #### Amendments
+2016—Subsec. (o). Pub. L. 114–255 added subsec. (o).
+
+2015—Subsec. (c)(4) to (7). Pub. L. 114–113 added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
+
 2014—Subsec. (c)(1)(A). Pub. L. 113–295, § 208(b)(2)(A), substituted “in applying the first sentence of this subparagraph, the amount of the penalty for each day during which a failure continues shall be $100 in lieu of the amount otherwise specified, and” for “the first sentence of this subparagraph shall be applied by substituting ‘$100’ for ‘$20’ and”.
 
 Subsec. (c)(2)(C)(ii). Pub. L. 113–295, § 208(b)(2)(B), substituted “in applying the first sentence of paragraph (1)(A), the amount of the penalty for each day during which a failure continues shall be $100 in lieu of the amount otherwise specified, and in lieu of applying the second sentence of paragraph (1)(A), the maximum penalty under paragraph (1)(A) shall not exceed $50,000, and” for “the first sentence of paragraph (1)(A) shall be applied by substituting ‘$100’ for ‘$20’, and the second sentence thereof shall be applied by substituting ‘$50,000’ for ‘$10,000’, and”.
@@ -467,6 +492,12 @@ Subsec. (b). Pub. L. 87–834 redesignated former subsec. (a) as (b), and substi
 Subsec. (c). Pub. L. 87–834 redesignated former subsec. (b) as (c).
 
 1958—Subsec. (a). Pub. L. 85–866 substituted “section 6042(1)” for “section 6042” and “(upon notice and demand by the Secretary or his delegate and in the same manner as tax), by the person failing to so file the statement, $1 for each such statement not so filed” for “by the person failing to file the statement, upon notice and demand by the Secretary or his delegate and in the same manner as tax, $1 for each such statement not filed”, deleted “section 6045 (relating to returns of brokers)” after “patronage dividends)” and inserted “on the date prescribed therefor (determined with regard to any extension of time for filing)” after “income tax withheld),”.
+
+#### Effective Date of 2016 Amendment
+Amendment by Pub. L. 114–255 applicable to notices with respect to years beginning after Dec. 31, 2016, see section 18001(a)(7)(D) of Pub. L. 114–255, set out in a note under [section 36B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-36b).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–113 applicable to organizations which are described in [section 501(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/4&num=0&edition=prelim) and organized after Dec. 18, 2015, and to certain then-existing organizations, see section 405(f) of Pub. L. 114–113, set out as an Effective Date note under [section 506 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-506).
 
 #### Effective Date of 2014 Amendment
 Amendment by section 221(a)(39)(B) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of div. A of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -1275,7 +1306,7 @@ Requirement of making a declaration or amended declaration or amended declaratio
 
 (2) **Period of underpayment** — The period of the underpayment shall run from the due date for the installment to whichever of the following dates is the earlier—
 
-  (A) the 15th day of the 3rd month following the close of the taxable year, or
+  (A) the 15th day of the 4th month following the close of the taxable year, or
 
   (B) with respect to any portion of the underpayment, the date on which such portion is paid.
 
@@ -1446,7 +1477,7 @@ Requirement of making a declaration or amended declaration or amended declaratio
   (B) Any tax imposed by section 511, and any tax imposed by section 1 or 4940 on a private foundation, shall be treated as a tax imposed by section 11.
 
   (C) Any reference to taxable income shall be treated as including a reference to unrelated business taxable income or net investment income (as the case may be).
-  In the case of any organization described in subparagraph (A), subsection (b)(2)(A) shall be applied by substituting “5th month” for “3rd month”, subsection (e)(2)(A) shall be applied by substituting “2 months” for “3 months” in clause (i)(I), the election under clause (i) of subsection (e)(2)(C) may be made separately for each installment, and clause (ii) of subsection (e)(2)(C) shall not apply. In the case of a private foundation, subsection (c)(2) shall be applied by substituting “May 15” for “April 15”.
+  In the case of any organization described in subparagraph (A), subsection (b)(2)(A) shall be applied by substituting “5th month” for “4th month”, subsection (e)(2)(A) shall be applied by substituting “2 months” for “3 months” in clause (i)(I), the election under clause (i) of subsection (e)(2)(C) may be made separately for each installment, and clause (ii) of subsection (e)(2)(C) shall not apply. In the case of a private foundation, subsection (c)(2) shall be applied by substituting “May 15” for “April 15”.
 
 (4) **Application of section to certain taxes imposed on S corporations** — In the case of an S corporation, for purposes of this section—
 
@@ -1470,11 +1501,13 @@ Requirement of making a declaration or amended declaration or amended declaratio
 
   (D) The requirement in the last sentence of subsection (d)(1)(B) that the return for the preceding taxable year show a liability for tax shall not apply.
 
-  (E) Any reference in subsection (e) to taxable income shall be treated as including a reference to the net recognized built-in gain or the excess passive income (as the case may be).
+  (E) Subsection (b)(2)(A) shall be applied by substituting “3rd month” for “4th month”.
+
+  (F) Any reference in subsection (e) to taxable income shall be treated as including a reference to the net recognized built-in gain or the excess passive income (as the case may be).
 
 **(h) Excessive adjustment under section 6425**
 
-(1) **Addition to tax** — If the amount of an adjustment under section 6425 made before the 15th day of the 3rd month following the close of the taxable year is excessive, there shall be added to the tax under chapter 1 for the taxable year an amount determined at the underpayment rate established under section 6621 upon the excessive amount from the date on which the credit is allowed or the refund is paid to such 15th day.
+(1) **Addition to tax** — If the amount of an adjustment under section 6425 made before the 15th day of the 4th month following the close of the taxable year is excessive, there shall be added to the tax under chapter 1 for the taxable year an amount determined at the underpayment rate established under section 6621 upon the excessive amount from the date on which the credit is allowed or the refund is paid to such 15th day.
 
 (2) **Excessive amount** — For purposes of paragraph (1), the excessive amount is equal to the amount of the adjustment or (if smaller) the amount by which—
 
@@ -1493,6 +1526,12 @@ Requirement of making a declaration or amended declaration or amended declaratio
 ### Statutory Notes
 
 #### Amendments
+2015—Subsecs. (b)(2)(A), (g)(3). Pub. L. 114–41, § 2006(a)(2)(F), substituted “4th month” for “3rd month”.
+
+Subsec. (g)(4)(E), (F). Pub. L. 114–41, § 2006(a)(2)(G), added subpar. (E) and redesignated former subpar. (E) as (F).
+
+Subsec. (h)(1). Pub. L. 114–41, § 2006(a)(2)(F), substituted “4th month” for “3rd month”.
+
 2014—Subsec. (e)(2)(A)(i), (B)(i). Pub. L. 113–295, § 221(a)(12)(K)(i), substituted “taxable income and alternative minimum taxable income” for “taxable income, alternative minimum taxable income, and modified alternative minimum taxable income”.
 
 Subsec. (e)(2)(B)(iii). Pub. L. 113–295, § 221(a)(12)(K)(ii), struck out cl. (iii). Text read as follows: “The term ‘modified alternative minimum taxable income’ has the meaning given to such term by section 59A(b).”
@@ -1622,6 +1661,9 @@ Subsec. (g). Pub. L. 90–364, § 103(d)(2), added subsec. (g).
 1964—Subsec. (c)(2). Pub. L. 88–272, § 122(c)(1), substituted “any installment date” and “such installment date” for “the 15th day of the 12th month”.
 
 Subsec. (d)(3). Pub. L. 88–272, § 122(c)(2), redesignated cls. (A)(i) and (ii) as (A)(iii) and (iv), respectively, added cls. (A)(i) and (ii), and substituted “(3, 5, 6, 8, 9,)” for “(6 or 8, or 9)” in subpar. (B)(ii).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–41 applicable to returns for taxable years beginning after Dec. 31, 2015, with special rule for certain C corporations, see section 2006(a)(3) of Pub. L. 114–41, set out as a note under [section 170 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-170).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -2022,6 +2064,8 @@ Repeal applicable to returns the due date for which (determined without regard t
 (6) Any disallowance of claimed tax benefits by reason of a transaction lacking economic substance (within the meaning of section 7701(o)) or failing to meet the requirements of any similar rule of law.
 
 (7) Any undisclosed foreign financial asset understatement.
+
+(8) Any inconsistent estate basis.
 This section shall not apply to any portion of an underpayment on which a penalty is imposed under section 6663. Except as provided in paragraph (1) or (2)(B) of section 6662A(e), this section shall not apply to the portion of any underpayment which is attributable to a reportable transaction understatement on which a penalty is imposed under section 6662A.
 
 **(c) Negligence** For purposes of this section, the term “negligence” includes any failure to make a reasonable attempt to comply with the provisions of this title, and the term “disregard” includes any careless, reckless, or intentional disregard.
@@ -2173,6 +2217,8 @@ This section shall not apply to any portion of an underpayment on which a penalt
 
 (3) **Special rule for amended returns** — In no event shall any amendment or supplement to a return of tax be taken into account for purposes of this subsection if the amendment or supplement is filed after the earlier of the date the taxpayer is first contacted by the Secretary regarding the examination of the return or such other date as is specified by the Secretary.
 
+**(k) Inconsistent estate basis reporting** For purposes of this section, there is an “inconsistent estate basis” if the basis of property claimed on a return exceeds the basis as determined under section 1014(f).
+
 ### Statutory Notes
 
 #### References in Text
@@ -2187,6 +2233,10 @@ Section 1219(a)(1), (2) of Pub. L. 109–280, which directed the amendment of se
 A prior section 6662, acts Aug. 16, 1954, ch. 736, 68A Stat. 827, § 6659; May 14, 1960, Pub. L. 86–470, § 1, 74 Stat. 132; Dec. 30, 1969, Pub. L. 91–172, title I, § 101(j)(51), 83 Stat. 531; Sept. 2, 1974, Pub. L. 93–406, title II, § 1016(a)(19), 88 Stat. 931; renumbered § 6660, Aug. 13, 1981, Pub. L. 97–34, title VII, § 722(a)(1), 95 Stat. 341; renumbered § 6662, Sept. 3, 1982, Pub. L. 97–248, title III, § 323(a), 96 Stat. 613, directed that additions be treated as tax and set procedure for assessing certain additions to tax, prior to repeal by Pub. L. 101–239, title VII, § 7721(a), Dec. 19, 1989, 103 Stat. 2395, applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989. See [section 6665 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6665).
 
 #### Amendments
+2015—Subsec. (b)(8). Pub. L. 114–41, § 2004(c)(1), added par. (8).
+
+Subsec. (k). Pub. L. 114–41, § 2004(c)(2), added subsec. (k).
+
 2014—Subsec. (b)(7). Pub. L. 113–295, § 208(a), amended directory language of Pub. L. 111–147, § 512(a)(1). See 2010 Amendment note below.
 
 2010—Subsec. (b)(6). Pub. L. 111–152, § 1409(b)(1), added par. (6). See Codification note above.
@@ -2266,6 +2316,9 @@ Subsec. (e). Pub. L. 101–508, § 11312(a), substituted “misstatement” for 
 “(2) Limitation.—No penalty shall be imposed by reason of subsection (b)(3) unless the portion of the underpayment for the taxable year attributable to substantial valuation overstatements under chapter 1 exceeds $5,000 ($10,000 in the case of a corporation other than an S corporation or a personal holding company (as defined in section 542)).”
 
 Subsec. (h)(2)(A). Pub. L. 101–508, § 11312(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “any substantial valuation overstatement under chapter 1 as determined under subsection (e) by substituting ‘400 percent’ for ‘200 percent’,”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–41 applicable to property with respect to which an estate tax return is filed after July 31, 2015, see section 2004(d) of Pub. L. 114–41, set out as a note under [section 1014 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1014).
 
 #### Effective Date of 2014 Amendment
 Pub. L. 113–295, div. A, title II, § 208(b), Dec. 19, 2014, 128 Stat. 4028, provided that: “The amendment made by this section [amending this section] shall take effect as if included in the provision of the Hiring Incentives to Restore Employment Act [Pub. L. 111–147] to which it relates.”
@@ -2379,7 +2432,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 Section applicable to taxable years ending after Oct. 22, 2004, see section 812(f) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under [section 6662 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6662).
 
 #### Report on Tax Shelter Penalties and Certain Other Enforcement Actions
-Pub. L. 111–240, title II, § 2103, Sept. 27, 2010, 124 Stat. 2564, provided that: “(a) In General.—The Commissioner of Internal Revenue, in consultation with the Secretary of the Treasury, shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate an annual report on the penalties assessed by the Internal Revenue Service during the preceding year under each of the following provisions of the Internal Revenue Code of 1986:“(1) Section 6662A (relating to accuracy-related penalty on understatements with respect to reportable transactions). “(2) Section 6700(a) (relating to promoting abusive tax shelters). “(3) Section 6707 (relating to failure to furnish information regarding reportable transactions). “(4) Section 6707A (relating to failure to include reportable transaction information with return). “(5) Section 6708 (relating to failure to maintain lists of advisees with respect to reportable transactions). “(b) Additional Information.—The report required under subsection (a) shall also include information on the following with respect to each year:“(1) Any action taken under [section 330(b) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section330/b&num=0&edition=prelim), United States Code, with respect to any reportable transaction (as defined in section 6707A(c) of the Internal Revenue Code of 1986). “(2) Any extension of the time for assessment of tax enforced, or assessment of any amount under such an extension, under paragraph (10) of section 6501(c) of the Internal Revenue Code of 1986. “(c) Date of Report.—The first report required under subsection (a) shall be submitted not later than December 31, 2010.”
+Pub. L. 111–240, title II, § 2103, Sept. 27, 2010, 124 Stat. 2564, provided that: “(a) In General.—The Commissioner of Internal Revenue, in consultation with the Secretary of the Treasury, shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate an annual report on the penalties assessed by the Internal Revenue Service during the preceding year under each of the following provisions of the Internal Revenue Code of 1986:“(1) Section 6662A (relating to accuracy-related penalty on understatements with respect to reportable transactions). “(2) Section 6700(a) (relating to promoting abusive tax shelters). “(3) Section 6707 (relating to failure to furnish information regarding reportable transactions). “(4) Section 6707A (relating to failure to include reportable transaction information with return). “(5) Section 6708 (relating to failure to maintain lists of advisees with respect to reportable transactions). “(b) Additional Information.—The report required under subsection (a) shall also include information on the following with respect to each year:“(1) Any action taken under section 330(b) [now 330(c)] of title 31, United States Code, with respect to any reportable transaction (as defined in section 6707A(c) of the Internal Revenue Code of 1986). “(2) Any extension of the time for assessment of tax enforced, or assessment of any amount under such an extension, under paragraph (10) of section 6501(c) of the Internal Revenue Code of 1986. “(c) Date of Report.—The first report required under subsection (a) shall be submitted not later than December 31, 2010.”
 
 
 <a id="section-6663"></a>
@@ -2402,7 +2455,7 @@ Pub. L. 111–240, title II, § 2103, Sept. 27, 2010, 124 Stat. 2564, provided t
   (B) amounts not so shown previously assessed (or collected without assessment), over
 
 (2) the amount of rebates made.
-For purposes of paragraph (2), the term “rebate” means so much of an abatement, credit, refund, or other repayment, as was made on the ground that the tax imposed was less than the excess of the amount specified in paragraph (1) over the rebates previously made.
+For purposes of paragraph (2), the term “rebate” means so much of an abatement, credit, refund, or other repayment, as was made on the ground that the tax imposed was less than the excess of the amount specified in paragraph (1) over the rebates previously made. A rule similar to the rule of section 6211(b)(4) shall apply for purposes of this subsection.
 
 **(b) Penalties applicable only where return filed** The penalties provided in this part shall apply only in cases where a return of tax is filed (other than a return prepared by the Secretary under the authority of section 6020(b)).
 
@@ -2485,6 +2538,8 @@ Section 1409(c) of Pub. L. 111–152, which directed the amendment of section 66
 Section 1219(a)(3), (c)(2) of Pub. L. 109–280, which directed the amendment of section 6664 without specifying the act to be amended, was executed to this section, which is section 6664 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–113 inserted at end “A rule similar to the rule of section 6211(b)(4) shall apply for purposes of this subsection.”
+
 2010—Subsec. (c)(2) to (4). Pub. L. 111–152, § 1409(c)(1)(A), (C), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. See Codification note above.
 
 Subsec. (c)(4)(A). Pub. L. 111–152, § 1409(c)(1)(B), substituted “paragraph (3)” for “paragraph (2)”. See Codification note above.
@@ -2510,6 +2565,9 @@ See Codification note above.
 Subsec. (c)(1). Pub. L. 108–357, § 812(c)(2)(A), substituted “section 6662 or 6663” for “this part”.
 
 Subsec. (d). Pub. L. 108–357, § 812(c)(1), added subsec. (d).
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title II, § 209(d)(1), Dec. 18, 2015, 129 Stat. 3085, provided that: “The amendment made by subsection (a) [amending this section] shall apply to— “(A) returns filed after the date of the enactment of this Act [Dec. 18, 2015], and “(B) returns filed on or before such date if the period specified in section 6501 of the Internal Revenue Code of 1986 for assessment of the taxes with respect to which such return relates has not expired as of such date.”
 
 #### Effective Date of 2010 Amendment
 Amendment by section 1409(c)(1) of Pub. L. 111–152 applicable to underpayments attributable to transactions entered into after Mar. 30, 2010, see section 1409(e)(2) of Pub. L. 111–152, set out as a note under [section 6662 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6662).
@@ -2792,11 +2850,11 @@ Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act 
 
 <a id="section-6676"></a>
 ## § 6676. Erroneous claim for refund or credit
-**(a) Civil penalty** If a claim for refund or credit with respect to income tax (other than a claim for a refund or credit relating to the earned income credit under section 32) is made for an excessive amount, unless it is shown that the claim for such excessive amount has a reasonable basis, the person making such claim shall be liable for a penalty in an amount equal to 20 percent of the excessive amount.
+**(a) Civil penalty** If a claim for refund or credit with respect to income tax is made for an excessive amount, unless it is shown that the claim for such excessive amount is due to reasonable cause, the person making such claim shall be liable for a penalty in an amount equal to 20 percent of the excessive amount.
 
 **(b) Excessive amount** For purposes of this section, the term “excessive amount” means in the case of any person the amount by which the amount of the claim for refund or credit for any taxable year exceeds the amount of such claim allowable under this title for such taxable year.
 
-**(c) Noneconomic substance transactions treated as lacking reasonable basis** For purposes of this section, any excessive amount which is attributable to any transaction described in section 6662(b)(6) shall not be treated as having a reasonable basis.
+**(c) Noneconomic substance transactions treated as lacking reasonable basis** For purposes of this section, any excessive amount which is attributable to any transaction described in section 6662(b)(6) shall not be treated as due to reasonable cause.
 
 **(d) Coordination with other penalties** This section shall not apply to any portion of the excessive amount of a claim for refund or credit which is subject to a penalty imposed under part II of subchapter A of chapter 68.
 
@@ -2809,7 +2867,16 @@ Section 1409(d) of Pub. L. 111–152, which directed the amendment of section 66
 A prior section 6676, added Pub. L. 87–397, § 1(b), Oct. 5, 1961, 75 Stat. 828; amended Pub. L. 91–172, title I, § 101(j)(52), Dec. 30, 1969, 83 Stat. 531; Pub. L. 93–406, title II, § 1016(a)(20), Sept. 2, 1974, 88 Stat. 931; Pub. L. 97–248, title III, § 316(a), Sept. 3, 1982, 96 Stat. 607; Pub. L. 98–67, title I, § 105(a), Aug. 5, 1983, 97 Stat. 380; Pub. L. 98–369, div. A, title IV, § 422(c), July 18, 1984, 98 Stat. 798; Pub. L. 99–514, title XV, §§ 1501(b), 1523(b)(3), 1524(b), Oct. 22, 1986, 100 Stat. 2736, 2748, 2749; Pub. L. 100–647, title I, § 1015(g), Nov. 10, 1988, 102 Stat. 3570, related to failure to supply identifying numbers, prior to repeal by Pub. L. 101–239, title VII, § 7711(b)(1), (c), Dec. 19, 1989, 103 Stat. 2393, applicable to returns and statements the due date for which (determined without regard to extensions) is after Dec. 31, 1989.
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–113, § 209(c)(1), substituted “is due to reasonable cause” for “has a reasonable basis”.
+
+Pub. L. 114–113, § 209(b), struck out “(other than a claim for a refund or credit relating to the earned income credit under section 32)” after “income tax”.
+
+Subsec. (c). Pub. L. 114–113, § 209(c)(2), substituted “due to reasonable cause” for “having a reasonable basis”.
+
 2010—Subsecs. (c), (d). Pub. L. 111–152 added subsec. (c) and redesignated former subsec. (c) as (d). See Codification note above.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title II, § 209(d)(2), Dec. 18, 2015, 129 Stat. 3085, provided that: “The amendment made by subsection (b) [amending this section] shall apply to claims filed after the date of the enactment of this Act [Dec. 18, 2015].”
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–152 applicable to refunds and credits attributable to transactions entered into after Mar. 30, 2010, see section 1409(e)(4) of Pub. L. 111–152, set out as a note under [section 6662 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6662).
@@ -3335,7 +3402,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
   (A) $5,000, or
 
-  (B) 50 percent of the income derived (or to be derived) by the tax return preparer with respect to the return or claim.
+  (B) 75 percent of the income derived (or to be derived) by the tax return preparer with respect to the return or claim.
 
 (2) **Willful or reckless conduct** — Conduct described in this paragraph is conduct by the tax return preparer which is—
 
@@ -3365,6 +3432,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 Another section 6694, relating to failure to file information with respect to carryover basis property, which was added by Pub. L. 94–455, § 2005(d)(2), was renumbered section 6698 by Pub. L. 95–600, renumbered section 6698A by Pub. L. 96–222, and repealed by Pub. L. 96–223.
 
 #### Amendments
+2015—Subsec. (b)(1)(B). Pub. L. 114–113 substituted “75 percent” for “50 percent”.
+
 2008—Subsec. (a). Pub. L. 110–343 amended subsec. (a) generally. Prior to amendment, subsec. (a) provided penalty for understatement due to unreasonable positions.
 
 2007—Pub. L. 110–28, § 8246(a)(2)(F)(i)(I), substituted “tax return preparer” for “income tax return preparer” in section catchline.
@@ -3401,6 +3470,9 @@ Subsec. (b). Pub. L. 101–239, § 7732(a), substituted “Willful or reckless c
 
 Subsec. (c)(1). Pub. L. 101–239, § 7737(a), inserted at end “Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2).”
 
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title II, § 210(b), Dec. 18, 2015, 129 Stat. 3085, provided that: “The amendment made by this section [amending this section] shall apply to returns prepared for taxable years ending after the date of the enactment of this Act [Dec. 18, 2015].”
+
 #### Effective Date of 2008 Amendment
 Pub. L. 110–343, div. C, title V, § 506(b), Oct. 3, 2008, 122 Stat. 3880, provided that: “The amendment made by this section [amending this section] shall apply— “(1) in the case of a position other than a position described in subparagraph (C) of section 6694(a)(2) of the Internal Revenue Code of 1986 (as amended by this section), to returns prepared after May 25, 2007, and “(2) in the case of a position described in such subparagraph (C), to returns prepared for taxable years ending after the date of the enactment of this Act [Oct. 3, 2008].”
 
@@ -3430,7 +3502,7 @@ unless it is shown that such failure is due to reasonable cause and not due to w
 
 **(f) Negotiation of check** Any person who is a tax return preparer who endorses or otherwise negotiates (directly or through an agent) any check made in respect of the taxes imposed by this title which is issued to a taxpayer (other than the tax return preparer) shall pay a penalty of $500 with respect to each such check. The preceding sentence shall not apply with respect to the deposit by a bank (within the meaning of section 581) of the full amount of the check in the taxpayer’s account in such bank for the benefit of the taxpayer.
 
-**(g) Failure to be diligent in determining eligibility for earned income credit** Any person who is a tax return preparer with respect to any return or claim for refund who fails to comply with due diligence requirements imposed by the Secretary by regulations with respect to determining eligibility for, or the amount of, the credit allowable by section 32 shall pay a penalty of $500 for each such failure.
+**(g) Failure to be diligent in determining eligibility for child tax credit; American Opportunity Tax Credit; and earned income credit** Any person who is a tax return preparer with respect to any return or claim for refund who fails to comply with due diligence requirements imposed by the Secretary by regulations with respect to determining eligibility for, or the amount of, the credit allowable by section 24, 25A(a)(1), or 32 shall pay a penalty of $500 for each such failure.
 
 **(h) Adjustment for inflation**
 
@@ -3444,7 +3516,12 @@ unless it is shown that such failure is due to reasonable cause and not due to w
 
 ### Statutory Notes
 
+#### Inflation Adjusted Items for Certain Years
+For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Amendments
+2015—Subsec. (g). Pub. L. 114–113 inserted “child tax credit; American Opportunity Tax Credit; and” before “earned income credit” in heading and substituted “section 24, 25A(a)(1), or 32” for “section 32” in text.
+
 2014—Subsec. (h). Pub. L. 113–295 added subsec. (h).
 
 2011—Subsec. (g). Pub. L. 112–41 substituted “$500” for “$100”.
@@ -3474,6 +3551,9 @@ unless it is shown that such failure is due to reasonable cause and not due to w
 1984—Subsec. (b). Pub. L. 98–369 amended subsec. (b) generally, substituting provisions dealing with failure to inform taxpayer of certain recordkeeping requirements of [section 274(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section274/d&num=0&edition=prelim) or to sign returns, for provisions dealing with failure to sign returns. See 1985 Amendment note above.
 
 1978—Subsec. (f). Pub. L. 95–600 inserted provision relating to deposits by a bank.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title II, § 207(c), Dec. 18, 2015, 129 Stat. 3083, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2015.”
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 applicable to returns required to be filed after Dec. 31, 2014, see section 208(h) of Pub. L. 113–295, set out as a note under [section 6651 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6651).
@@ -3620,6 +3700,9 @@ such partnership shall be liable for a penalty determined under subsection (b) f
 
 ### Statutory Notes
 
+#### Inflation Adjusted Items for Certain Years
+For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Codification
 Another section 6698, formerly section 6694, relating to failure to file information with respect to carryover basis property, which was added by Pub. L. 94–455, § 2005(d)(2), was renumbered section 6698 by Pub. L. 95–600, renumbered section 6698A by Pub. L. 96–222, and repealed by Pub. L. 96–223.
 
@@ -3690,6 +3773,9 @@ such S corporation shall be liable for a penalty determined under subsection (b)
 (2) **Rounding** — If any amount adjusted under paragraph (1) is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.
 
 ### Statutory Notes
+
+#### Inflation Adjusted Items for Certain Years
+For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Codification
 Section 9(a) of Pub. L. 110–142, which directed amendment of this part by adding this section at the end, was executed by inserting this section after section 6698, to reflect the probable intent of Congress.
@@ -4582,9 +4668,9 @@ Section applicable to failures occurring after Feb. 17, 2009, see section 3001(a
 
   (B) the total amount imposed on the person for all such failures during the calendar year which are so corrected shall not exceed $1,500,000.
 
-**(c) Exception for de minimis failures to include all required information**
+**(c) Exceptions for certain de minimis failures**
 
-(1) **In general** — If—
+(1) **Exception for de minimis failure to include all required information** — If—
 
   (A) an information return is filed with the Secretary,
 
@@ -4598,6 +4684,21 @@ Section applicable to failures occurring after Feb. 17, 2009, see section 3001(a
   (A) 10, or
 
   (B) one-half of 1 percent of the total number of information returns required to be filed by the person during the calendar year.
+
+(3) **Safe harbor for certain de minimis errors**
+
+  (A) *In general* — If, with respect to an information return filed with the Secretary—
+
+    (i) there are 1 or more failures described in subsection (a)(2)(B) relating to an incorrect dollar amount,
+
+    (ii) no single amount in error differs from the correct amount by more than $100, and
+
+    (iii) no single amount reported for tax withheld on any information return differs from the correct amount by more than $25,
+    then no correction shall be required and, for purposes of this section, such return shall be treated as having been filed with all of the correct required information.
+
+  (B) *Exception* — Subparagraph (A) shall not apply with respect to any incorrect dollar amount to the extent that such error relates to an amount with respect to which an election is made under section 6722(c)(3)(B).
+
+  (C) *Regulatory authority* — The Secretary may issue regulations to prevent the abuse of the safe harbor under this paragraph, including regulations providing that this paragraph shall not apply to the extent necessary to prevent any such abuse.
 
 **(d) Lower limitations for persons with gross receipts of not more than $5,000,000**
 
@@ -4651,6 +4752,9 @@ Section applicable to failures occurring after Feb. 17, 2009, see section 3001(a
 
 ### Statutory Notes
 
+#### Inflation Adjusted Items for Certain Years
+For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Amendments
 2015—Subsec. (a)(1). Pub. L. 114–27, § 806(a), substituted “$250” for “$100” and “$3,000,000” for “$1,500,000”.
 
@@ -4661,6 +4765,12 @@ Subsec. (b)(1)(B). Pub. L. 114–27, § 806(b)(1)(C), substituted “$500,000”
 Subsec. (b)(2)(A). Pub. L. 114–27, § 806(b)(2)(A), (B), substituted “$100” for “$60” and “$250” for “$100”.
 
 Subsec. (b)(2)(B). Pub. L. 114–27, § 806(b)(2)(C), substituted “$1,500,000” for “$500,000”.
+
+Subsec. (c). Pub. L. 114–113, § 202(d)(1), substituted “Exceptions for certain de minimis failures” for “Exception for de minimis failures to include all required information” in heading.
+
+Subsec. (c)(1). Pub. L. 114–113, § 202(d)(2), substituted “Exception for de minimis failure to include all required information” for “In general” in heading.
+
+Subsec. (c)(3). Pub. L. 114–113, § 202(a), added par. (3).
 
 Subsec. (d)(1)(A). Pub. L. 114–27, § 806(c)(1), substituted “$1,000,000” for “$500,000” and “$3,000,000” for “$1,500,000”.
 
@@ -4707,6 +4817,8 @@ Subsec. (f). Pub. L. 111–240, § 2102(f), added subsec. (f).
 1988—Subsec. (b)(1)(A). Pub. L. 100–690 inserted “(or, if greater, in the case of a return filed under section 6050I, 10 percent of the taxable income derived from the transaction)” after “reported”.
 
 #### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–113 applicable to returns required to be filed, and payee statements required to be provided, after Dec. 31, 2016, see section 202(e) of Pub. L. 114–113, set out as a note under [section 6045 of this title](./chapter-061-information-and-returns.md#section-6045).
+
 Pub. L. 114–27, title VIII, § 806(f), June 29, 2015, 129 Stat. 418, provided that: “The amendments made by this section [amending this section and [section 6722 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6722)] shall apply with respect to returns and statements required to be filed after December 31, 2015.”
 
 #### Effective Date of 2014 Amendment
@@ -4774,6 +4886,21 @@ for purposes of this section, such statement shall be treated as having been fur
 
   (B) one-half of 1 percent of the total number of payee statements required to be furnished by the person during the calendar year.
 
+(3) **Safe harbor for certain de minimis errors**
+
+  (A) *In general* — If, with respect to any payee statement—
+
+    (i) there are 1 or more failures described in subsection (a)(2)(B) relating to an incorrect dollar amount,
+
+    (ii) no single amount in error differs from the correct amount by more than $100, and
+
+    (iii) no single amount reported for tax withheld on any information return differs from the correct amount by more than $25,
+    then no correction shall be required and, for purposes of this section, such statement shall be treated as having been filed with all of the correct required information.
+
+  (B) *Exception* — Subparagraph (A) shall not apply to any payee statement if the person to whom such statement is required to be furnished makes an election (at such time and in such manner as the Secretary may prescribe) that subparagraph (A) not apply with respect to such statement.
+
+  (C) *Regulatory authority* — The Secretary may issue regulations to prevent the abuse of the safe harbor under this paragraph, including regulations providing that this paragraph shall not apply to the extent necessary to prevent any such abuse.
+
 **(d) Lower limitations for persons with gross receipts of not more than $5,000,000**
 
 (1) **In general** — If any person meets the gross receipts test of paragraph (2) with respect to any calendar year, with respect to failures during such calendar year—
@@ -4814,6 +4941,9 @@ for purposes of this section, such statement shall be treated as having been fur
 
 ### Statutory Notes
 
+#### Inflation Adjusted Items for Certain Years
+For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Amendments
 2015—Subsec. (a)(1). Pub. L. 114–27, § 806(e)(1), substituted “$250” for “$100” and “$3,000,000” for “$1,500,000”.
 
@@ -4824,6 +4954,8 @@ Subsec. (b)(1)(B). Pub. L. 114–27, § 806(e)(2)(A)(iii), substituted “$500,0
 Subsec. (b)(2)(A). Pub. L. 114–27, § 806(e)(2)(B)(i), (ii), substituted “$100” for “$60” and “$250” for “$100”.
 
 Subsec. (b)(2)(B). Pub. L. 114–27, § 806(e)(2)(B)(iii), substituted “$1,500,000” for “$500,000”.
+
+Subsec. (c)(3). Pub. L. 114–113 added par. (3).
 
 Subsec. (d)(1)(A). Pub. L. 114–27, § 806(e)(3)(A), substituted “$1,000,000” for “$500,000” and “$3,000,000” for “$1,500,000”.
 
@@ -4846,6 +4978,8 @@ Subsec. (f)(1). Pub. L. 113–295, § 208(g), substituted “In the case of any 
 1989—Pub. L. 101–239 substituted “correct” for “certain” in section catchline and amended text generally, substituting subsecs. (a) to (c) for former subsec. (a) stating general rule and subsec. (b) relating to failure to notify partnership of exchange of partnership interest.
 
 #### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–113 applicable to returns required to be filed, and payee statements required to be provided, after Dec. 31, 2016, see section 202(e) of Pub. L. 114–113, set out as a note under [section 6045 of this title](./chapter-061-information-and-returns.md#section-6045).
+
 Amendment by Pub. L. 114–27 applicable with respect to returns and statements required to be filed after Dec. 31, 2015, see section 806(f) of Pub. L. 114–27, set out as a note under [section 6721 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6721).
 
 #### Effective Date of 2014 Amendment
@@ -4962,14 +5096,15 @@ Section applicable to returns the due date for which (determined without regard 
 
     (xxiv) section 6055 (relating to returns relating to information regarding health insurance coverage), or
 
-    (xxv) section 6056 (relating to returns relating to certain employers required to report on health insurance coverage), and
+    (xxv) section 6056 (relating to returns relating to certain employers required to report on health insurance coverage),
 
   (C) any statement of the amount of payments to another person required to be made to the Secretary under—
 
     (i) section 408(i) (relating to reports with respect to individual retirement accounts or annuities), or
 
-    (ii) section 6047(d) (relating to reports by employers, plan administrators, etc.).
-    Such term also includes any form, statement, or schedule required to be filed with the Secretary under chapter 4 or with respect to any amount from which tax was required to be deducted and withheld under chapter 3 (or from which tax would be required to be so deducted and withheld but for an exemption under this title or any treaty obligation of the United States).33 So in original. Provision probably should be set flush with par. (1).
+    (ii) section 6047(d) (relating to reports by employers, plan administrators, etc.), and
+
+  (D) any statement required to be filed with the Secretary under section 6035.Such term also includes any form, statement, or schedule required to be filed with the Secretary under chapter 4 or with respect to any amount from which tax was required to be deducted and withheld under chapter 3 (or from which tax would be required to be so deducted and withheld but for an exemption under this title or any treaty obligation of the United States).33 So in original. Provision probably should be set flush with par. (1).
 
 (2) **Payee statement** — The term “payee statement” means any statement required to be furnished under—
 
@@ -5037,9 +5172,11 @@ Section applicable to returns the due date for which (determined without regard 
 
   (FF) section 6050W(f) (relating to returns relating to payments made in settlement of payment card transactions),
 
-  (GG) section 6055(c) (relating to statements relating to information regarding health insurance coverage), or
+  (GG) section 6055(c) (relating to statements relating to information regarding health insurance coverage),
 
-  (HH) section 6056(c) (relating to statements relating to certain employers required to report on health insurance coverage).
+  (HH) section 6056(c) (relating to statements relating to certain employers required to report on health insurance coverage), or
+
+  (II) section 6035 (other than a statement described in paragraph (1)(D)).
   Such term also includes any form, statement, or schedule required to be furnished to the recipient of any amount from which tax was required to be deducted and withheld under chapter 3 or 4 (or from which tax would be required to be so deducted and withheld but for an exemption under this title or any treaty obligation of the United States).
 
 (3) **Specified information reporting requirement** — The term “specified information reporting requirement” means—
@@ -5080,7 +5217,11 @@ Section 1211(b)(1) of Pub. L. 109–280, which directed the amendment of section
 Amendments to subsec. (d)(2) of this section by section 1901(c)(1) of Pub. L. 104–188 were executed before amendments by sections 1116(b)(2)(B) and 1455(a)(2) of Pub. L. 104–188, to reflect the probable intent of Congress.
 
 #### Amendments
-2015—Subsec. (f). Pub. L. 114–27 added subsec. (f).
+2015—Subsec. (d)(1)(D). Pub. L. 114–41, § 2004(b)(2)(A), which directed amendment of subsec. (d)(1) by “adding at the end” subpar. (D), was executed by adding subpar. (D) after subpar. (C) to reflect the probable intent of Congress.
+
+Subsec. (d)(2)(II). Pub. L. 114–41, § 2004(b)(2)(B), which directed amendment of subsec. (d)(2) by “adding at the end” subpar. (II), was executed by adding subpar. (II) after subpar. (HH) to reflect the probable intent of Congress.
+
+Subsec. (f). Pub. L. 114–27 added subsec. (f).
 
 2014—Subsec. (d)(2)(FF). Pub. L. 113–295 substituted “section 6050W(f)” for “section 6050W(c)”.
 
@@ -5369,6 +5510,8 @@ Pub. L. 100–418, § 1941(b)(2)(M)(ii), redesignated subpars. (B) to (J) as (A)
 Subsec. (d)(2)(B). Pub. L. 100–647, § 1015(a), substituted “6031(b) or (c)” for “6031(b)”.
 
 #### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–41 applicable to property with respect to which an estate tax return is filed after July 31, 2015, see section 2004(d) of Pub. L. 114–41, set out as a note under [section 1014 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1014).
+
 Pub. L. 114–27, title VIII, § 805(b), June 29, 2015, 129 Stat. 416, provided that: “The amendments made by this section [amending this section] shall apply to returns required to be made, and statements required to be furnished, after December 31, 2015.”
 
 #### Effective Date of 2010 Amendment

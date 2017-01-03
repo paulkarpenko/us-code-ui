@@ -61,7 +61,7 @@ Pub. L. 111–211, title II, § 205, July 29, 2010, 124 Stat. 2264, provided tha
 Pub. L. 111–211, title II, § 206, July 29, 2010, 124 Stat. 2264, provided that: “Nothing in this Act [see Tables for classification] confers on an Indian tribe criminal jurisdiction over non-Indians.”
 
 #### Definitions
-Pub. L. 111–211, title II, § 203(a), July 29, 2010, 124 Stat. 2263, provided that: “In this title [see Short Title of 2010 Amendment note above]: “(1) Indian country.—The term ‘Indian country’ has the meaning given the term in [section 1151 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1151&num=0&edition=prelim), United States Code. “(2) Indian tribe.—The term ‘Indian tribe’ has the meaning given the term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 479a](./chapter-014-miscellaneous.md#section-479a)). “(3) Secretary.—The term ‘Secretary’ means the Secretary of the Interior. “(4) Tribal government.—The term ‘tribal government’ means the governing body of a federally recognized Indian tribe.”
+Pub. L. 111–211, title II, § 203(a), July 29, 2010, 124 Stat. 2263, provided that: “In this title [see Short Title of 2010 Amendment note above]: “(1) Indian country.—The term ‘Indian country’ has the meaning given the term in [section 1151 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1151&num=0&edition=prelim), United States Code. “(2) Indian tribe.—The term ‘Indian tribe’ has the meaning given the term in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 479a](./chapter-014-miscellaneous.md#section-479a)) [now [25 U.S.C. 5130](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5130)]. “(3) Secretary.—The term ‘Secretary’ means the Secretary of the Interior. “(4) Tribal government.—The term ‘tribal government’ means the governing body of a federally recognized Indian tribe.”
 
 
 <a id="section-2802"></a>
@@ -146,7 +146,7 @@ Pub. L. 111–211, title II, § 203(a), July 29, 2010, 124 Stat. 2263, provided 
 
 (4)
 
-  (i) Criminal investigative personnel of the Branch shall be subject only to the supervision and direction of law enforcement personnel of the Branch or of the Office of Justice Services. Such personnel shall not be subject to the supervision of the Bureau of Indian Affairs Agency Superintendent or Bureau of Indian Affairs Area Office Director. Nothing in this paragraph is intended to prohibit cooperation, coordination, or consultation, as appropriate, with nonlaw enforcement Bureau of Indian Affairs personnel at the agency or area levels, or prohibit or restrict the right of a tribe to contract the investigative program under the authority of Public Law 93–638 [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.] or to maintain its own criminal investigative operations.
+  (i) Criminal investigative personnel of the Branch shall be subject only to the supervision and direction of law enforcement personnel of the Branch or of the Office of Justice Services. Such personnel shall not be subject to the supervision of the Bureau of Indian Affairs Agency Superintendent or Bureau of Indian Affairs Area Office Director. Nothing in this paragraph is intended to prohibit cooperation, coordination, or consultation, as appropriate, with nonlaw enforcement Bureau of Indian Affairs personnel at the agency or area levels, or prohibit or restrict the right of a tribe to contract the investigative program under the authority of Public Law 93–638 [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.] or to maintain its own criminal investigative operations.
 
   (ii) At the end of one year following the date of establishment of the separate Branch of Criminal Investigations, any tribe may, by resolution of the governing body of the tribe, request the Secretary to reestablish line authority through the Agency Superintendent or Bureau of Indian Affairs Area Office Director. In the absence of good cause to the contrary, the Secretary, upon receipt of such resolution, shall reestablish the line authority as requested by the tribe.
 
@@ -174,13 +174,13 @@ Pub. L. 111–211, title II, § 203(a), July 29, 2010, 124 Stat. 2263, provided 
 
   (A) *In general* — The Office of Justice Services shall develop standards and deadlines for the provision of background checks to tribal law enforcement and corrections officials.
 
-  (B) *Timing* — If a request for a background check is made by an Indian tribe that has contracted or entered into a compact for law enforcement or corrections services with the Bureau of Indian Affairs pursuant to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), the Office of Justice Services shall complete the check not later than 60 days after the date of receipt of the request, unless an adequate reason for failure to respond by that date is provided to the Indian tribe in writing.
+  (B) *Timing* — If a request for a background check is made by an Indian tribe that has contracted or entered into a compact for law enforcement or corrections services with the Bureau of Indian Affairs pursuant to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.),22 See References in Text note below. the Office of Justice Services shall complete the check not later than 60 days after the date of receipt of the request, unless an adequate reason for failure to respond by that date is provided to the Indian tribe in writing.
 
 **(f) Long-term plan for tribal detention programs** Not later than 1 year after July 29, 2010, the Secretary, acting through the Bureau, in coordination with the Department of Justice and in consultation with tribal leaders, tribal courts, tribal law enforcement officers, and tribal corrections officials, shall submit to Congress a long-term plan to address incarceration in Indian country, including—
 
 (1) a description of proposed activities for—
 
-  (A) the construction, operation, and maintenance of juvenile (in accordance with [section 2453(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2453/a/3&num=0&edition=prelim) 22 So in original. Probably should be followed by a closing parenthesis. and adult detention facilities (including regional facilities) in Indian country;
+  (A) the construction, operation, and maintenance of juvenile (in accordance with [section 2453(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2453/a/3&num=0&edition=prelim) 33 So in original. Probably should be followed by a closing parenthesis. and adult detention facilities (including regional facilities) in Indian country;
 
   (B) contracting with State and local detention centers, upon approval of affected tribal governments; and
 
@@ -193,7 +193,7 @@ Pub. L. 111–211, title II, § 203(a), July 29, 2010, 124 Stat. 2263, provided 
 ### Statutory Notes
 
 #### References in Text
-Public Law 93–638 and the Indian Self-Determination and Education Assistance Act, referred to in subsecs. (d)(4)(i) and (e)(4)(B), are Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+Public Law 93–638 and the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsecs. (d)(4)(i) and (e)(4)(B), are Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Amendments
 2010—Subsec. (b). Pub. L. 111–211, § 211(b)(1), inserted heading and substituted “There is established in the Bureau an office, to be known as the ‘Office of Justice Services’, that” for “There is hereby established within the Bureau a Division of Law Enforcement Services which” in introductory provisions.
@@ -315,9 +315,9 @@ Par. (3)(D). Pub. L. 111–211, § 211(c)(2)(A), (C), (D), added subpar. (D).
 
 **(b) Agreement to be in accord with agreements between Secretary and Attorney General** Any agreement entered into under this section relating to the enforcement of the criminal laws of the United States shall be in accord with any agreement between the Secretary and the Attorney General of the United States.
 
-**(c) Limitations on use of personnel of non-Federal agency** The Secretary may not use the personnel of a non-Federal agency under this section in an area of Indian country if the Indian tribe having jurisdiction over such area of Indian country has adopted a resolution objecting to the use of the personnel of such agency. The Secretary shall consult with Indian tribes before entering into any agreement under subsection (a) of this section with a non-Federal agency that will provide personnel for use in any area under the jurisdiction of such Indian tribes.
+**(c) Limitations on use of personnel of non-Federal agency** The Secretary may not use the personnel of a non-Federal agency under this section in an area of Indian country if the Indian tribe having jurisdiction over such area of Indian country has adopted a resolution objecting to the use of the personnel of such agency. The Secretary shall consult with Indian tribes before entering into any agreement under subsection (a) with a non-Federal agency that will provide personnel for use in any area under the jurisdiction of such Indian tribes.
 
-**(d) Authority of Federal agency head to enter into agreement with Secretary** Notwithstanding the provisions of [section 1535 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim), the head of a Federal agency with law enforcement personnel or facilities may enter into an agreement (with or without reimbursement) with the Secretary under subsection (a) of this section.
+**(d) Authority of Federal agency head to enter into agreement with Secretary** Notwithstanding the provisions of [section 1535 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim), the head of a Federal agency with law enforcement personnel or facilities may enter into an agreement (with or without reimbursement) with the Secretary under subsection (a).
 
 **(e) Authority of Federal agency head to enter into agreement with Indian tribe** The head of a Federal agency with law enforcement personnel or facilities may enter into an agreement (with or without reimbursement) with an Indian tribe relating to—
 
@@ -325,7 +325,7 @@ Par. (3)(D). Pub. L. 111–211, § 211(c)(2)(A), (C), (D), added subpar. (D).
 
 (2) the carrying out of a law of either the United States or the Indian tribe.
 
-**(f) Status of person as Federal employee** While acting under authority granted by the Secretary under subsection (a) of this section, a person who is not otherwise a Federal employee shall be considered to be—
+**(f) Status of person as Federal employee** While acting under authority granted by the Secretary under subsection (a), a person who is not otherwise a Federal employee shall be considered to be—
 
 (1) an employee of the Department of the Interior only for purposes of—
 
@@ -339,12 +339,12 @@ Par. (3)(D). Pub. L. 111–211, § 211(c)(2)(A), (C), (D), added subpar. (D).
 
 (1) a Federal, tribal, State, or other government agency; or
 
-(2) the Indian Law Enforcement Foundation established under section 458ccc–1(a) 11 See References in Text note below. of this title.
+(2) the Indian Law Enforcement Foundation established under section 5412(a) 11 See References in Text note below. of this title.
 
 ### Statutory Notes
 
 #### References in Text
-[Section 458ccc–1(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section458ccc–1/a&num=0&edition=prelim), referred to in subsec. (g)(2), was in the original “section 701(a) of the Indian Self-Determination and Education Assistance Act”, and was translated as reading “section 702(a) of the Indian Self-Determination and Education Assistance Act”, meaning section 702(a) of Pub. L. 93–638, to reflect the probable intent of Congress, because Pub. L. 93–638 does not contain a section 701(a), and section 702(a) of Pub. L. 93–638 relates to establishment of the Indian Law Enforcement Foundation.
+[Section 5412(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5412/a&num=0&edition=prelim), referred to in subsec. (g)(2), was in the original “section 701(a) of the Indian Self-Determination and Education Assistance Act”, and was translated as reading “section 702(a) of the Indian Self-Determination and Education Assistance Act”, meaning section 702(a) of Pub. L. 93–638, to reflect the probable intent of Congress, because Pub. L. 93–638 does not contain a section 701(a), and section 702(a) of Pub. L. 93–638 relates to establishment of the Indian Law Enforcement Foundation.
 
 #### Amendments
 2010—Subsec. (a). Pub. L. 111–211, § 231(b), inserted heading, designated first sentence as par. (1), inserted par. (1) heading, substituted “Not later than 180 days after July 29, 2010, the Secretary shall establish procedures to enter into memoranda of agreement” for “The Secretary may enter into an agreement”, designated second sentence as par. (2), inserted par. (2) heading, and added par. (3).
@@ -355,12 +355,12 @@ Subsec. (g). Pub. L. 111–211, § 231(e), added subsec. (g).
 <a id="section-2805"></a>
 ## § 2805. Regulations
 
-After consultation with the Attorney General of the United States, the Secretary may prescribe under this chapter regulations relating to the enforcement of criminal laws of the United States and regulations relating to the consideration of applications for contracts awarded under the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.] to perform the functions of the Branch of Criminal Investigations.
+After consultation with the Attorney General of the United States, the Secretary may prescribe under this chapter regulations relating to the enforcement of criminal laws of the United States and regulations relating to the consideration of applications for contracts awarded under the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.] to perform the functions of the Branch of Criminal Investigations.
 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 
 <a id="section-2806"></a>

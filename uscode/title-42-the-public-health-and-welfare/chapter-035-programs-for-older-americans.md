@@ -2,7 +2,7 @@
 title: 42
 chapter: '35'
 heading: PROGRAMS FOR OLDER AMERICANS
-section_count: 124
+section_count: 123
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -72,6 +72,9 @@ Pub. L. 98–459, title VIII, § 803, Oct. 9, 1984, 98 Stat. 1793, provided that
 #### Effective Date of 1978 Amendment
 Pub. L. 95–478, title V, § 504, Oct. 18, 1978, 92 Stat. 1559, provided that: “This Act [see Short Title of 1978 Amendment note below], and the amendments made by this Act, shall take effect at the close of September 30, 1978.”
 
+#### Short Title of 2016 Amendment
+Pub. L. 114–144, § 1, Apr. 19, 2016, 130 Stat. 334, provided that: “This Act [see Tables for classification] may be cited as the ‘Older Americans Act Reauthorization Act of 2016’.”
+
 #### Short Title of 2007 Amendment
 Pub. L. 110–19, § 1, Apr. 23, 2007, 121 Stat. 84, provided that: “This Act [amending [section 3030a of this title](./chapter-035-programs-for-older-americans.md#section-3030a) and enacting provisions set out as a note under [section 3030a of this title](./chapter-035-programs-for-older-americans.md#section-3030a)] may be cited as the ‘Older Americans Reauthorization Technical Corrections Act’.”
 
@@ -125,6 +128,9 @@ Pub. L. 89–73, title V, § 501, formerly title IX, § 901, as added by Pub. L.
 #### Regulations
 Pub. L. 102–375, title IX, § 902, Sept. 30, 1992, 106 Stat. 1305, provided that: “Except as otherwise specifically provided, the Secretary of Health and Human Services shall, not later than 120 days after the date of the enactment of this Act [Sept. 30, 1992], issue proposed regulations to carry out the amendments made by titles I through VII [see Tables for classification].”
 
+#### Guidance on Serving Holocaust Survivors
+Pub. L. 114–144, § 10, Apr. 19, 2016, 130 Stat. 352, provided that: “(a) In General.—Because the services under the Older Americans Act of 1965 ([42 U.S.C. 3001](./chapter-035-programs-for-older-americans.md#section-3001) et seq.) are critical to meeting the urgent needs of Holocaust survivors to age in place with dignity, comfort, security, and quality of life, the Assistant Secretary for Aging shall issue guidance to States, that shall be applicable to States, area agencies on aging, and providers of services for older individuals, with respect to serving Holocaust survivors, including guidance on promising practices for conducting outreach to that population. In developing the guidance, the Assistant Secretary for Aging shall consult with experts and organizations serving Holocaust survivors, and shall take into account the possibility that the needs of Holocaust survivors may differ based on geography. “(b) Contents.—The guidance shall include the following:“(1) How nutrition service providers may meet the special health-related or other dietary needs of participants in programs under the Older Americans Act of 1965, including needs based on religious, cultural, or ethnic requirements. “(2) How transportation service providers may address the urgent transportation needs of Holocaust survivors. “(3) How State long-term care ombudsmen may address the unique needs of residents of long-term care facilities for whom institutional settings may produce sights, sounds, smells, emotions, and routines, that can induce panic, anxiety, and retraumatization as a result of experiences from the Holocaust. “(4) How supportive services providers may consider the unique needs of Holocaust survivors. “(5) How other services provided under that Act, as determined by the Assistant Secretary for Aging, may serve Holocaust survivors. “(c) Date of Issuance.—The guidance described in subsection (a) shall be issued not later than 180 days after the date of enactment of this Act [Apr. 19, 2016].”
+
 #### Study of Effectiveness of State Long-Term Care Ombudsman Programs
 Pub. L. 102–375, title II, § 211, Sept. 30, 1992, 106 Stat. 1215, as amended by Pub. L. 103–171, § 4(a)(2), Dec. 2, 1993, 107 Stat. 1991, provided that not later than Jan. 1, 1995, the Assistant Secretary for Aging, in consultation with State agencies, State Long-Term Care Ombudsmen, the National Ombudsman Resource Center, and professional ombudsmen associations, directly, or by grant or contract, was to conduct a study and submit a report to Congress analyzing separately with respect to each State effectiveness of State long-term care ombudsman programs.
 
@@ -160,29 +166,29 @@ Ex. Ord. No. 11022, May 14, 1962, 27 F.R. 4659, as amended by Ex. Ord. No. 11376
 
 For the purposes of this chapter—
 
-(1) The term “abuse” means the willful—
-
-  (A) infliction of injury, unreasonable confinement, intimidation, or cruel punishment with resulting physical harm, pain, or mental anguish; or
-
-  (B) deprivation by a person, including a caregiver, of goods or services that are necessary to avoid physical harm, mental anguish, or mental illness.
+(1) The term “abuse” means the knowing infliction of physical or psychological harm or the knowing deprivation of goods or services that are necessary to meet essential needs or to avoid physical or psychological harm.
 
 (2) The term “Administration” means the Administration on Aging.
 
-(3) The term “adult child with a disability” means a child who—
+(3) The term “adult protective services” means such services provided to adults as the Secretary may specify and includes services such as—
 
-  (A) is 18 years of age or older;
+  (A) receiving reports of adult abuse, neglect, or exploitation;
 
-  (B) is financially dependent on an older individual who is a parent of the child; and
+  (B) investigating the reports described in subparagraph (A);
 
-  (C) has a disability.
+  (C) case planning, monitoring, evaluation, and other casework and services; and
 
-(4) The term “Aging and Disability Resource Center” means an entity established by a State as part of the State system of long-term care, to provide a coordinated system for providing—
+  (D) providing, arranging for, or facilitating the provision of medical, social service, economic, legal, housing, law enforcement, or other protective, emergency, or support services.
 
-  (A) comprehensive information on the full range of available public and private long-term care programs, options, service providers, and resources within a community, including information on the availability of integrated long-term care;
+(4) The term “Aging and Disability Resource Center” means an entity, network, or consortium established by a State as part of the State system of long-term care, to provide a coordinated and integrated system for older individuals and individuals with disabilities (as defined in [section 12102 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12102)), and the caregivers of older individuals and individuals with disabilities, that provides—
 
-  (B) personal counseling to assist individuals in assessing their existing or anticipated long-term care needs, and developing and implementing a plan for long-term care designed to meet their specific needs and circumstances; and
+  (A) comprehensive information on the full range of available public and private long-term care programs, options, service providers, and resources within a community, including information on the availability of integrated long-term care services, and Federal or State programs that provide long-term care services and supports through home and community-based service programs;
 
-  (C) consumers access to the range of publicly-supported long-term care programs for which consumers may be eligible, by serving as a convenient point of entry for such programs.
+  (B) person-centered counseling to assist individuals in assessing their existing or anticipated long-term care needs and goals, and developing and implementing a person-centered plan for long-term care that is consistent with the desires of such an individual and designed to meet the individual’s specific needs, goals, and circumstances;
+
+  (C) access for individuals to the full range of publicly-supported long-term care services and supports for which the individuals may be eligible, including home and community-based service options, by serving as a convenient point of entry for such programs and supports; and
+
+  (D) in cooperation with area agencies on aging, centers for independent living described in part C of title VII of the Rehabilitation Act of 1973 ([29 U.S.C. 796f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section796f&num=0&edition=prelim) et seq.), and other community-based entities, information and referrals regarding available home and community-based services for individuals who are at risk for residing in, or who reside in, institutional settings, so that the individuals have the choice to remain in or to return to the community.
 
 (5) The term “aging network” means the network of—
 
@@ -248,7 +254,7 @@ For the purposes of this chapter—
 
   (A) health risk assessments;
 
-  (B) routine health screening, which may include hypertension, glaucoma, cholesterol, cancer, vision, hearing, diabetes, bone density, and nutrition screening;
+  (B) routine health screening, which may include hypertension, glaucoma, cholesterol, cancer, vision, hearing, diabetes, bone density, oral health, and nutrition screening;
 
   (C) nutritional counseling and educational services for individuals and their primary caregivers;
 
@@ -264,7 +270,7 @@ For the purposes of this chapter—
 
   (F) home injury control services, including screening of high-risk home environments and provision of educational programs on injury prevention (including fall and fracture prevention) in the home environment;
 
-  (G) screening for the prevention of depression, coordination of community mental health services, provision of educational activities, and referral to psychiatric and psychological services;
+  (G) screening for the prevention of depression, coordination of community mental and behavioral health services, provision of educational activities, and referral to psychiatric and psychological services;
 
   (H) educational programs on the availability, benefits, and appropriate use of preventive health services covered under title XVIII of the Social Security Act ([42 U.S.C. 1395](./chapter-007-social-security.md#section-1395) et seq.);
 
@@ -281,15 +287,19 @@ For the purposes of this chapter—
 
 (16) The term “elder abuse, neglect, and exploitation” means abuse, neglect, and exploitation, of an older individual.
 
-(17) The term “elder justice”—
+(17) The term “elder justice” means—
 
-  (A) used with respect to older individuals, collectively, means efforts to prevent, detect, treat, intervene in, and respond to elder abuse, neglect, and exploitation and to protect older individuals with diminished capacity while maximizing their autonomy; and
+  (A) from a societal perspective, efforts to—
 
-  (B) used with respect to an individual who is an older individual, means the recognition of the individual’s rights, including the right to be free of abuse, neglect, and exploitation.
+    (i) prevent, detect, treat, intervene in, and prosecute elder abuse, neglect, and exploitation; and
+
+    (ii) protect older individuals with diminished capacity while maximizing their autonomy; and
+
+  (B) from an individual perspective, the recognition of an older individual’s rights, including the right to be free of abuse, neglect, and exploitation.
 
 (18)
 
-  (A) The term “exploitation” means the fraudulent or otherwise illegal, unauthorized, or improper act or process of an individual, including a caregiver or fiduciary, that uses the resources of an older individual for monetary or personal benefit, profit, or gain, or that results in depriving an older individual of rightful access to, or use of, benefits, resources, belongings, or assets.
+  (A) The terms “exploitation” and “financial exploitation” mean the fraudulent or otherwise illegal, unauthorized, or improper act or process of an individual, including a caregiver or fiduciary, that uses the resources of an older individual for monetary or personal benefit, profit, or gain, or that results in depriving an older individual of rightful access to, or use of, benefits, resources, belongings, or assets.
 
   (B) In subparagraph (A), the term “caregiver” means an individual who has the responsibility for the care of an older individual, either voluntarily, by contract, by receipt of payment for care, or as a result of the operation of law and means a family member or other individual who provides (on behalf of such individual or of a public or private agency, organization, or institution) compensated or uncompensated care to an older individual.
 
@@ -427,7 +437,7 @@ For the purposes of this chapter—
 
   (D) any other adult care home, including an assisted living facility, similar to a facility or institution described in subparagraphs (A) through (C).
 
-(36) The term “multipurpose senior center” means a community facility for the organization and provision of a broad spectrum of services, which shall include provision of health (including mental health), social, nutritional, and educational services and the provision of facilities for recreational activities for older individuals.
+(36) The term “multipurpose senior center” means a community facility for the organization and provision of a broad spectrum of services, which shall include provision of health (including mental and behavioral health), social, nutritional, and educational services and the provision of facilities for recreational activities for older individuals.
 
 (37) The term “Native American” means—
 
@@ -453,7 +463,7 @@ For the purposes of this chapter—
 
 (44) The term “representative payee” means a person who is appointed by a governmental entity to receive, on behalf of an older individual who is unable to manage funds by reason of a physical or mental incapacity, any funds owed to such individual by such entity.
 
-(45) The term “Secretary” means the Secretary of Health and Human Services, except that for purposes of subchapter IX of this chapter such term means the Secretary of Labor.
+(45) The term “Secretary” means the Secretary of Health and Human Services, except that for purposes of subchapter IX such term means the Secretary of Labor.
 
 (46) The term “self-directed care” means an approach to providing services (including programs, benefits, supports, and technology) under this chapter intended to assist an individual with activities of daily living, in which—
 
@@ -477,7 +487,7 @@ For the purposes of this chapter—
 
   (A) obtaining essential food, clothing, shelter, and medical care;
 
-  (B) obtaining goods and services necessary to maintain physical health, mental health, or general safety; or
+  (B) obtaining goods and services necessary to maintain physical health, mental and behavioral health, or general safety; or
 
   (C) managing one’s own financial affairs.
 
@@ -502,6 +512,8 @@ For the purposes of this chapter—
 ### Statutory Notes
 
 #### References in Text
+The Rehabilitation Act of 1973, referred to in par. (4)(D), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Part C of title VII of the Act is classified generally to subpart 3 (§ 796f et seq.) of part A of subchapter VII of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+
 The Social Security Act, referred to in pars. (14) and (32), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 [Section 8801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section8801&num=0&edition=prelim), referred to in par. (14)(E)(ii), was repealed by Pub. L. 107–110, title X, § 1011(5)(C), Jan. 8, 2002, 115 Stat. 1986. See [section 7801 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim), Education.
@@ -513,6 +525,24 @@ The Alaska Native Claims Settlement Act, referred to in par. (27), is Pub. L. 92
 [Section 3796gg–2 of this title](./chapter-046-justice-system-improvement.md#section-3796gg-2), referred to in par. (49), was subsequently amended and no longer defines “sexual assault”. However, it now refers to definitions in [section 13925 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-13925), which defines “sexual assault” in subsec. (a).
 
 #### Amendments
+2016—Par. (1). Pub. L. 114–144, § 2(1), added par. (1) and struck out former par. (1) which defined “abuse”.
+
+Par. (3). Pub. L. 114–144, § 2(2), added par. (3) and struck out former par. (3) which defined “adult child with a disability”.
+
+Par. (4). Pub. L. 114–144, § 2(3), added par. (4) and struck out former par. (4) which defined “Aging and Disability Resource Center”.
+
+Par. (14)(B). Pub. L. 114–144, § 2(4), inserted “oral health,” after “bone density,”.
+
+Par. (14)(G). Pub. L. 114–144, § 9(1)(A), inserted “and behavioral” after “mental”.
+
+Par. (17). Pub. L. 114–144, § 2(5), added par. (17) and struck out former par. (17) which defined “elder justice”.
+
+Par. (18)(A). Pub. L. 114–144, § 2(6), substituted “terms ‘exploitation’ and ‘financial exploitation’ mean” for “term ‘exploitation’ means”.
+
+Par. (36). Pub. L. 114–144, § 9(1)(B), inserted “and behavioral” after “mental”.
+
+Par. (47)(B). Pub. L. 114–144, § 9(1)(C), inserted “and behavioral” after “mental”.
+
 2006—Pub. L. 109–365, § 101(b), redesignated pars. (1) to (54) as (45), (7), (50), (39), (26), (27), (54), (13), (48), (8), (29), (14), (1), (2), (3), (5), (6), (10), (30), (37), (11), (15), (16), (18), (21), (22), (23), (24), (28), (31), (33), (35), (36), (38), (40), (41), (42), (43), (44), (51), (53), (19), (49), (4), (9), (12), (17), (20), (25), (34), (46), (47), (52), and (32), respectively.
 
 Par. (10). Pub. L. 109–365, § 101(a)(1), added par. (10) and struck out former par. (10) which read as follows: “The term ‘assistive technology’ means technology, engineering methodologies, or scientific principles appropriate to meet the needs of, and address the barriers confronted by, older individuals with functional limitations.”
@@ -591,7 +621,7 @@ Par. (11). Pub. L. 100–628, § 705(1)(A), redesignated par. (9) defining “in
 
 Par. (12). Pub. L. 100–628, § 705(1)(B), redesignated par. (8) defining “Trust Territory of the Pacific Islands” as (12).
 
-1987—Par. (1). Pub. L. 100–175, § 182(a), substituted “except that for purposes of subchapter IX of this chapter such term means the Secretary of Labor” for “other than for purposes of subchapter IX of this chapter”.
+1987—Par. (1). Pub. L. 100–175, § 182(a), substituted “except that for purposes of subchapter IX such term means the Secretary of Labor” for “other than for purposes of subchapter IX”.
 
 Par. (3). Pub. L. 100–175, § 182(b)(1)(A), substituted “means any of the several States,” for “includes” and “the Commonwealth of Puerto Rico” for “Puerto Rico”.
 
@@ -611,7 +641,7 @@ Par. (3). Pub. L. 97–115, § 2(a)(3)(A), inserted reference to the Commonwealt
 
 Pars. (6), (7). Pub. L. 97–115, § 2(a)(3)(B), (C), substituted “Except for the purposes of subchapter X of this chapter, the term” for “The term”.
 
-1978—Par. (1). Pub. L. 95–478, § 503(a)(1), inserted “, other than for purposes of subchapter IX of this chapter”.
+1978—Par. (1). Pub. L. 95–478, § 503(a)(1), inserted “, other than for purposes of subchapter IX”.
 
 Pars. (4) to (7). Pub. L. 95–478, § 503(a)(2), redesignated second par. (4), which was enacted by Pub. L. 94–135, § 104(b), as par. (5) and redesignated existing pars. (5) and (6) as (6) and (7), respectively.
 
@@ -662,7 +692,7 @@ Section was not enacted as part of the Older Americans Act of 1965 which compris
 
 <a id="section-3011"></a>
 ## § 3011. Establishment of Administration on Aging
-**(a) Function and operation** There is established in the Office of the Secretary an Administration on Aging which shall be headed by an Assistant Secretary for Aging. Except for subchapter IX of this chapter, the Administration shall be the agency for carrying out this chapter. There shall be a direct reporting relationship between the Assistant Secretary and the Secretary. In the performance of the functions of the Assistant Secretary, the Assistant Secretary shall be directly responsible to the Secretary. The Secretary shall not approve or require any delegation of the functions of the Assistant Secretary (including the functions of the Assistant Secretary carried out through regional offices) to any other officer not directly responsible to the Assistant Secretary.
+**(a) Function and operation** There is established in the Office of the Secretary an Administration on Aging which shall be headed by an Assistant Secretary for Aging. Except for subchapter IX, the Administration shall be the agency for carrying out this chapter. There shall be a direct reporting relationship between the Assistant Secretary and the Secretary. In the performance of the functions of the Assistant Secretary, the Assistant Secretary shall be directly responsible to the Secretary. The Secretary shall not approve or require any delegation of the functions of the Assistant Secretary (including the functions of the Assistant Secretary carried out through regional offices) to any other officer not directly responsible to the Assistant Secretary.
 
 **(b) Appointment of Assistant Secretary** The Assistant Secretary shall be appointed by the President by and with the advice and consent of the Senate.
 
@@ -676,7 +706,7 @@ Section was not enacted as part of the Older Americans Act of 1965 which compris
 
   (A)
 
-    (i) evaluate the adequacy of outreach under subchapter III of this chapter and subchapter X of this chapter for older individuals who are Native Americans and recommend to the Assistant Secretary necessary action to improve service delivery, outreach, coordination between subchapter III and subchapter X services, and particular problems faced by older Indians and Native Hawaiians; and
+    (i) evaluate the adequacy of outreach under subchapter III and subchapter X for older individuals who are Native Americans and recommend to the Assistant Secretary necessary action to improve service delivery, outreach, coordination between subchapter III and subchapter X services, and particular problems faced by older Indians and Native Hawaiians; and
 
     (ii) include a description of the results of such evaluation and recommendations in the annual report required by [section 3018(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3018/a&num=0&edition=prelim) to be submitted by the Assistant Secretary;
 
@@ -692,13 +722,13 @@ Section was not enacted as part of the Older Americans Act of 1965 which compris
 
   (G) develop research plans, and conduct and arrange for research, in the field of American Native aging with a special emphasis on the gathering of statistics on the status of older individuals who are Native Americans;
 
-  (H) develop and provide technical assistance and training programs to grantees under subchapter X of this chapter;
+  (H) develop and provide technical assistance and training programs to grantees under subchapter X;
 
   (I) promote coordination—
 
-    (i) between the administration of subchapter III of this chapter and the administration of subchapter X of this chapter; and
+    (i) between the administration of subchapter III and the administration of subchapter X; and
 
-    (ii) between programs established under subchapter III of this chapter by the Assistant Secretary and programs established under subchapter X of this chapter by the Assistant Secretary;
+    (ii) between programs established under subchapter III by the Assistant Secretary and programs established under subchapter X by the Assistant Secretary;
     including sharing among grantees information on programs funded, and on training and technical assistance provided, under such subchapters; and
 
   (J) serve as the effective and visible advocate on behalf of older individuals who are Indians, Alaskan Natives, and Native Hawaiians, in the States to promote the enhanced delivery of services and implementation of programs, under this chapter and other Federal Acts, for the benefit of such individuals.
@@ -757,21 +787,23 @@ Section was not enacted as part of the Older Americans Act of 1965 which compris
 
   (G) supervise the activities carried out under the authority of the Administration that relate to State Long-Term Care Ombudsman programs;
 
-  (H) administer the National Ombudsman Resource Center established under section 3012(a)(21) 11 See References in Text note below. of this title and make recommendations to the Assistant Secretary regarding the operation of the National Ombudsman Resource Center;
+  (H) administer the National Ombudsman Resource Center established under [section 3012(a)(18) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3012/a/18&num=0&edition=prelim) and make recommendations to the Assistant Secretary regarding the operation of the National Ombudsman Resource Center;
 
   (I) advocate, monitor, and coordinate Federal and State activities of Long-Term Care Ombudsmen under this chapter;
 
   (J) submit to the Speaker of the House of Representatives and the President pro tempore of the Senate an annual report on the effectiveness of services provided under [section 3027(a)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a/9&num=0&edition=prelim) and [section 3058g of this title](./chapter-035-programs-for-older-americans.md#section-3058g);
 
-  (K) have authority to investigate the operation or violation of any Federal law administered by the Department of Health and Human Services that may adversely affect the health, safety, welfare, or rights of older individuals; and
+  (K) have authority to investigate the operation or violation of any Federal law administered by the Department of Health and Human Services that may adversely affect the health, safety, welfare, or rights of older individuals;
 
-  (L) not later than 180 days after September 30, 1992, establish standards applicable to the training required by [section 3058g(h)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3058g/h/4&num=0&edition=prelim).
+  (L) not later than 180 days after April 19, 2016, establish standards applicable to the training required by [section 3058g(h)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3058g/h/5&num=0&edition=prelim); and
+
+  (M) collect and analyze best practices related to responding to elder abuse, neglect, and exploitation in long-term care facilities, and publish a report of such best practices.
 
 **(e) Elder abuse prevention and services**
 
 (1) The Assistant Secretary is authorized to designate within the Administration a person to have responsibility for elder abuse prevention and services.
 
-(2) It shall be the duty of the Assistant Secretary, acting through the person designated to have responsibility for elder abuse prevention and services—
+(2) It shall be the duty of the Assistant Secretary, acting through the person designated to have responsibility for elder abuse prevention and services, and in coordination with the heads of State adult protective services programs and the Director of the Office of Long-Term Care Ombudsman Programs—
 
   (A) to develop objectives, priorities, policy, and a long-term plan for—
 
@@ -805,16 +837,23 @@ Section was not enacted as part of the Older Americans Act of 1965 which compris
 
 **(f) Mental health services**
 
-(1) The Assistant Secretary may designate an officer or employee who shall be responsible for the administration of mental health services authorized under this chapter.
+(1) The Assistant Secretary may designate an officer or employee who shall be responsible for the administration of mental and behavioral health services authorized under this chapter.
 
 (2) It shall be the duty of the Assistant Secretary, acting through the individual designated under paragraph (1), to develop objectives, priorities, and a long-term plan for supporting State and local efforts involving education about and prevention, detection, and treatment of mental disorders, including age-related dementia, depression, and Alzheimer’s disease and related neurological disorders with neurological and organic brain dysfunction.
 
 ### Statutory Notes
 
-#### References in Text
-[Section 3012(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3012/a/21&num=0&edition=prelim), referred to in subsec. (d)(3)(H), was redesignated [section 3012(a)(18) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3012/a/18&num=0&edition=prelim) and section 3012(a)(24) was redesignated section 3012(a)(21) by Pub. L. 106–501, title II, § 201(1)(B), Nov. 13, 2000, 114 Stat. 2229.
-
 #### Amendments
+2016—Subsec. (d)(3)(H). Pub. L. 114–144, § 3(a)(1)(A), substituted “3012(a)(18)” for “3012(a)(21)”.
+
+Subsec. (d)(3)(L). Pub. L. 114–144, § 3(a)(1)(C), substituted “April 19, 2016” for “September 30, 1992” and “3058g(h)(5) of this title; and” for “3058g(h)(4) of this title.”
+
+Subsec. (d)(3)(M). Pub. L. 114–144, § 3(a)(1)(B), (D), added subpar. (M).
+
+Subsec. (e)(2). Pub. L. 114–144, § 3(a)(2), inserted “, and in coordination with the heads of State adult protective services programs and the Director of the Office of Long-Term Care Ombudsman Programs” after “and services”.
+
+Subsec. (f)(1). Pub. L. 114–144, § 9(2), inserted “and behavioral” after “mental”.
+
 2006—Subsecs. (e), (f). Pub. L. 109–365 added subsecs. (e) and (f).
 
 2000—Subsec. (d)(3)(C)(ii), (J). Pub. L. 106–501 substituted “3027(a)(9)” for “3027(a)(12)”.
@@ -859,7 +898,7 @@ Subsec. (c). Pub. L. 100–175, § 107(a), added subsec. (c).
 
 Pub. L. 98–459, § 201(2), which directed that “the functions of the Administration” be substituted for “his functions” in second sentence could not be executed because “his functions” appeared only in third sentence.
 
-1978—Subsec. (a). Pub. L. 95–478 substituted “subchapter IX of this chapter” for “subchapter VI of this chapter and as otherwise specifically provided by the Older Americans Comprehensive Services Amendments of 1973”.
+1978—Subsec. (a). Pub. L. 95–478 substituted “subchapter IX” for “subchapter VI and as otherwise specifically provided by the Older Americans Comprehensive Services Amendments of 1973”.
 
 1974—Subsec. (a). Pub. L. 93–351 struck out provisions which had authorized the Secretary of Health, Education, and Welfare, under certain conditions, to approve a delegation of the functions of the Commissioner on Aging to officers not directly responsible to the Commissioner.
 
@@ -895,11 +934,11 @@ Pub. L. 93–351, § 2(b), July 12, 1974, 88 Stat. 357, provided that: “Any de
 
 (4) administer the grants provided by this chapter;
 
-(5) develop plans, conduct and arrange for research in the field of aging, and assist in the establishment and implementation of programs designed to meet the needs of older individuals for supportive services, including nutrition, hospitalization, education and training services (including preretirement training, and continuing education), low-cost transportation and housing, assistive technology, and health (including mental health) services;
+(5) develop plans, conduct and arrange for research in the field of aging, and assist in the establishment and implementation of programs designed to meet the health and economic needs of older individuals for supportive services, including nutrition, hospitalization, education and training services (including preretirement training, and continuing education), low-cost transportation and housing, assistive technology, and health (including mental and behavioral health) services;
 
 (6) provide technical assistance and consultation to States and political subdivisions thereof with respect to programs for the aged and aging;
 
-(7) prepare, publish, and disseminate educational materials dealing with the welfare of older individuals;
+(7) prepare, publish, and disseminate educational materials dealing with the health and economic welfare of older individuals;
 
 (8) gather statistics in the field of aging which other Federal agencies are not collecting, and take whatever action is necessary to achieve coordination of activities carried out or assisted by all departments, agencies, and instrumentalities of the Federal Government with respect to the collection, preparation, and dissemination of information relevant to older individuals;
 
@@ -923,7 +962,7 @@ Pub. L. 93–351, § 2(b), July 12, 1974, 88 Stat. 357, provided that: “Any de
 
 (13) provide information and assistance to private organizations for the establishment and operation by them of programs and activities related to the objectives of this chapter;
 
-(14) develop, in coordination with other agencies, a national plan for meeting the needs for trained personnel in the field of aging, and for training persons for carrying out programs related to the objectives of this chapter, and conduct and provide for the conducting of such training;
+(14) develop, in coordination with other agencies (including the Health Resources and Services Administration), a national plan for meeting the needs for trained personnel in the field of aging, and for training persons for carrying out programs related to the objectives of this chapter, and conduct and provide for the conducting of such training;
 
 (15) consult with national organizations representing minority individuals to develop and disseminate training packages and to provide technical assistance efforts designed to assist State and area agencies on aging, and service providers, in providing services to older individuals with greatest economic need or individuals with greatest social need, with particular attention to and specific objectives for providing services to low-income minority individuals and older individuals residing in rural areas;
 
@@ -1021,9 +1060,15 @@ Pub. L. 93–351, § 2(b), July 12, 1974, 88 Stat. 357, provided that: “Any de
 
   (B) developing a resource guide on best practices for States, area agencies on aging, and service providers; and
 
-  (C) providing training and technical assistance to States to implement these best practices of service delivery; and
+  (C) providing training and technical assistance to States to implement these best practices of service delivery;
 
-(28) make available to States, area agencies on aging, and service providers information and technical assistance to support the provision of evidence-based disease prevention and health promotion services.
+(28) make available to States, area agencies on aging, and service providers information and technical assistance to support the provision of evidence-based disease prevention and health promotion services;
+
+(29) provide information and technical assistance to States, area agencies on aging, and service providers, in collaboration with relevant Federal agencies, on providing efficient, person-centered transportation services, including across geographic boundaries;
+
+(30) identify model programs and provide information and technical assistance to States, area agencies on aging, and service providers (including providers operating multipurpose senior centers), to support the modernization of multipurpose senior centers; and
+
+(31) provide technical assistance to and share best practices with States, area agencies on aging, and Aging and Disability Resource Centers, on how to collaborate and coordinate services with health care entities, such as Federally-qualified health centers, as defined in section 1905(l)(2)(B) of the Social Security Act ([42 U.S.C. 1396d](./chapter-007-social-security.md#section-1396d)(l)(2)(B)), in order to improve care coordination for individuals with multiple chronic illnesses.
 
 **(b) Development and implementation of comprehensive, coordinated systems for long-term care** To promote the development and implementation of comprehensive, coordinated systems at Federal, State, and local levels that enable older individuals to receive long-term care in home and community-based settings, in a manner responsive to the needs and preferences of older individuals and their family caregivers, the Assistant Secretary shall, consistent with the applicable provisions of this subchapter—
 
@@ -1053,9 +1098,11 @@ Pub. L. 93–351, § 2(b), July 12, 1974, 88 Stat. 357, provided that: “Any de
 
   (A) directing (as the Secretary or the President determines to be appropriate) or otherwise participating in departmental and interdepartmental activities concerning long-term care;
 
-  (B) reviewing and commenting on departmental rules, regulations, and policies related to providing long-term care; and
+  (B) reviewing and commenting on departmental rules, regulations, and policies related to providing long-term care;
 
-  (C) making recommendations to the Secretary with respect to home and community-based long-term care, including recommendations based on findings made through projects conducted under paragraph (2);
+  (C) making recommendations to the Secretary with respect to home and community-based long-term care, including recommendations based on findings made through projects conducted under paragraph (2); and
+
+  (D) when feasible, developing, in consultation with States and national organizations, a consumer-friendly tool to assist older individuals and their families in choosing home and community-based services, with a particular focus on ways for consumers to assess how providers protect the health, safety, welfare, and rights, including the rights provided under [section 3030c–1 of this title](./chapter-035-programs-for-older-americans.md#section-3030c-1), of older individuals;
 
 (6) promote, in coordination with other appropriate Federal agencies—
 
@@ -1069,13 +1116,15 @@ Pub. L. 93–351, § 2(b), July 12, 1974, 88 Stat. 357, provided that: “Any de
 
   (A) to serve as visible and trusted sources of information on the full range of long-term care options, including both institutional and home and community-based care, which are available in the community;
 
-  (B) to provide personalized and consumer-friendly assistance to empower individuals to make informed decisions about their care options;
+  (B) to provide personalized and consumer-friendly assistance to empower individuals to identify and articulate goals of care and to make informed decisions about their care options;
 
   (C) to provide coordinated and streamlined access to all publicly supported long-term care options so that consumers can obtain the care they need through a single intake, assessment, and eligibility determination process;
 
-  (D) to help individuals to plan ahead for their future long-term care needs; and
+  (D) to help individuals to respond to or plan ahead for their long-term care needs;
 
-  (E) to assist (in coordination with the entities carrying out the health insurance information, counseling, and assistance program (receiving funding under [section 1395b–4 of this title](./chapter-007-social-security.md#section-1395b-4)) in the States) beneficiaries, and prospective beneficiaries, under the Medicare program established under title XVIII of the Social Security Act ([42 U.S.C. 1395](./chapter-007-social-security.md#section-1395) et seq.) in understanding and accessing prescription drug and preventative health benefits under the provisions of, and amendments made by, the Medicare Prescription Drug, Improvement, and Modernization Act of 2003;
+  (E) to assist (in coordination with the entities carrying out the health insurance information, counseling, and assistance program (receiving funding under [section 1395b–4 of this title](./chapter-007-social-security.md#section-1395b-4)) in the States) beneficiaries, and prospective beneficiaries, under the Medicare program established under title XVIII of the Social Security Act ([42 U.S.C. 1395](./chapter-007-social-security.md#section-1395) et seq.) in understanding and accessing prescription drug and preventative health benefits under the provisions of, and amendments made by, the Medicare Prescription Drug, Improvement, and Modernization Act of 2003; and
+
+  (F) to provide information and referrals regarding available home and community-based services for individuals who are at risk for residing in, or who reside in, institutional settings, so that the individuals have the choice to remain in or to return to the community;
 
 (9) establish, either directly or through grants or contracts, national technical assistance programs to assist State agencies, area agencies on aging, and community-based service providers funded under this chapter in implementing—
 
@@ -1131,7 +1180,7 @@ Pub. L. 93–351, § 2(b), July 12, 1974, 88 Stat. 357, provided that: “Any de
 
   (A) The Assistant Secretary shall make grants or enter into contracts with eligible entities to establish the National Aging Information Center (in this subsection referred to as the “Center”) to—
 
-    (i) provide information about grants and projects under subchapter IV of this chapter;
+    (i) provide information about grants and projects under subchapter IV;
 
     (ii) annually compile, analyze, publish, and disseminate—
 
@@ -1191,6 +1240,8 @@ Pub. L. 93–351, § 2(b), July 12, 1974, 88 Stat. 357, provided that: “Any de
 
   (D) evaluation of the pilot test and recommendations for modification of the proposed set of such measures.
 
+**(g) Training and provision of services addressing elder justice and exploitation** The Assistant Secretary shall, as appropriate, ensure that programs authorized under this chapter include appropriate training in the prevention of abuse, neglect, and exploitation and provision of services that address elder justice and the exploitation of older individuals.
+
 ### Statutory Notes
 
 #### References in Text
@@ -1208,7 +1259,27 @@ The Medicare Prescription Drug, Improvement, and Modernization Act of 2003, refe
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
-2008—Subsec. (a)(17(A), (20)(A)(iii). Pub. L. 110–246, § 4002(b)(1)(B), (2)(BB), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+2016—Subsec. (a)(5). Pub. L. 114–144, § 9(3), inserted “and behavioral” after “mental”.
+
+Pub. L. 114–144, § 3(b)(1)(A), inserted “health and economic” before “needs of older individuals”.
+
+Subsec. (a)(7). Pub. L. 114–144, § 3(b)(1)(B), inserted “health and economic” before “welfare”.
+
+Subsec. (a)(14). Pub. L. 114–144, § 3(b)(1)(C), inserted “(including the Health Resources and Services Administration)” after “other agencies”.
+
+Subsec. (a)(29) to (31). Pub. L. 114–144, § 3(b)(1)(D)–(F), added pars. (29) to (31).
+
+Subsec. (b)(5)(D). Pub. L. 114–144, § 3(b)(2)(A), added subpar. (D).
+
+Subsec. (b)(8)(B). Pub. L. 114–144, § 3(b)(2)(B)(i), inserted “to identify and articulate goals of care and” after “individuals”.
+
+Subsec. (b)(8)(D). Pub. L. 114–144, § 3(b)(2)(B)(ii), inserted “respond to or” before “plan” and substituted “long-term care needs;” for “future long-term care needs; and”.
+
+Subsec. (b)(8)(F). Pub. L. 114–144, § 3(b)(2)(B)(iii), (iv), added subpar. (F).
+
+Subsec. (g). Pub. L. 114–144, § 3(b)(3), added subsec. (g).
+
+2008—Subsec. (a)(17)(A), (20)(A)(iii). Pub. L. 110–246, § 4002(b)(1)(B), (2)(BB), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
 2006—Subsec. (a)(5). Pub. L. 109–365, § 202(1)(A), inserted “assistive technology,” after “housing,”.
 
@@ -1452,7 +1523,7 @@ Pub. L. 102–375, title II, § 202(h), Sept. 30, 1992, 106 Stat. 1210, provided
 ## § 3013. Federal agency cooperation
 **(a) In general**
 
-(1) The Assistant Secretary, in carrying out the objectives and provisions of this chapter, shall coordinate, advise, consult with, and cooperate with the head of each department, agency, or instrumentality of the Federal Government proposing or administering programs or services substantially related to the objectives of this chapter, with respect to such programs or services. In particular, the Assistant Secretary shall coordinate, advise, consult, and cooperate with the Secretary of Labor in carrying out subchapter IX of this chapter and with the Corporation for National and Community Service in carrying out this chapter.
+(1) The Assistant Secretary, in carrying out the objectives and provisions of this chapter, shall coordinate, advise, consult with, and cooperate with the head of each department, agency, or instrumentality of the Federal Government proposing or administering programs or services substantially related to the objectives of this chapter, with respect to such programs or services. In particular, the Assistant Secretary shall coordinate, advise, consult, and cooperate with the Secretary of Labor in carrying out subchapter IX and with the Corporation for National and Community Service in carrying out this chapter.
 
 (2) The head of each department, agency, or instrumentality of the Federal Government proposing to establish programs and services substantially related to the objectives of this chapter shall consult with the Assistant Secretary prior to the establishment of such programs and services. To achieve appropriate coordination, the head of each department, agency, or instrumentality of the Federal Government administering any program substantially related to the objectives of this chapter, particularly administering any program referred to in subsection (b) of this section, shall consult and cooperate with the Assistant Secretary in carrying out such program. In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.].
 
@@ -1577,7 +1648,7 @@ The Housing and Community Development Act of 1974, referred to in subsec. (b)(7)
 
 The Higher Education Act of 1965, referred to in subsec. (b)(8), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title I of the Higher Education Act of 1965 is classified generally to subchapter I (§ 1001 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
-The Adult Education and Family Literacy Act, referred to in subsec. (b)(8), is title II of Pub. L. 113–128, July 22, 2014, 128 Stat. 1608, which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
+The Adult Education and Family Literacy Act, referred to in subsec. (b)(8), was title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, which was classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of Title 20, Education, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pub. L. 113–128 also included a title II, entitled the “Adult Education and Family Literacy Act”, which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of Pub. L. 105–220 are deemed to refer to the corresponding provision of Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of title II of Pub. L. 105–220 to the Code, see Tables. For complete classification of title II of Pub. L. 113–128 to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Public Health Service Act, referred to in subsec. (b)(10), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§ 201 et seq.) of this title. Title XIX of the Public Health Service Act is classified to subchapter XVII (§ 300w et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
@@ -1660,7 +1731,7 @@ Subsec. (b). Pub. L. 97–115, § 2(d)(2), substituted “purposes of this chapt
 Subsec. (b). Pub. L. 95–478 added subsec. (b).
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 1998 Amendment
 Amendment by section 101(f) [title VIII, § 405(d)(33)(A)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(25)(A)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under [section 3502 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3502&num=0&edition=prelim), Government Organization and Employees.
@@ -1681,7 +1752,7 @@ Amendment by Pub. L. 95–478 effective at close of Sept. 30, 1978, see section 
 <a id="section-3013a"></a>
 ## § 3013a. Consultation with State agencies, area agencies on aging, and Native American grant recipients
 
-The Assistant Secretary shall consult and coordinate with State agencies, area agencies on aging, and recipients of grants under subchapter X of this chapter in the development of Federal goals, regulations, program instructions, and policies under this chapter.
+The Assistant Secretary shall consult and coordinate with State agencies, area agencies on aging, and recipients of grants under subchapter X in the development of Federal goals, regulations, program instructions, and policies under this chapter.
 
 ### Statutory Notes
 
@@ -1739,7 +1810,7 @@ A prior section 204 of Pub. L. 89–73 was classified to [section 3014 of this t
 
 (2)
 
-  (A) The Assistant Secretary shall designate an officer or employee who shall serve on a full-time basis and who shall be responsible for the administration of the nutrition services described in subparts I and II of part C of subchapter III of this chapter and shall have duties that include—
+  (A) The Assistant Secretary shall designate an officer or employee who shall serve on a full-time basis and who shall be responsible for the administration of the nutrition services described in subparts I and II of part C of subchapter III and shall have duties that include—
 
     (i) designing, implementing, and evaluating evidence-based programs to support improved nutrition and regular physical activity for older individuals;
 
@@ -1761,7 +1832,7 @@ A prior section 204 of Pub. L. 89–73 was classified to [section 3014 of this t
 
     (x) providing technical assistance to the regional offices of the Administration with respect to each duty described in clauses (i) through (ix).
 
-  (B) The regional offices of the Administration shall be responsible for disseminating, and providing technical assistance regarding, the guidelines and information described in clauses (ii), (iii), and (v) of subparagraph (A) to State agencies, area agencies on aging, and persons that provide nutrition services under part C of subchapter III of this chapter.
+  (B) The regional offices of the Administration shall be responsible for disseminating, and providing technical assistance regarding, the guidelines and information described in clauses (ii), (iii), and (v) of subparagraph (A) to State agencies, area agencies on aging, and persons that provide nutrition services under part C of subchapter III.
 
   (C) The officer or employee designated under subparagraph (A) shall—
 
@@ -1777,14 +1848,14 @@ A prior section 204 of Pub. L. 89–73 was classified to [section 3014 of this t
 
 **(b) Utilization of services and facilities of Federal and other public or nonprofit agencies; advance or reimbursement payments for such use** In administering the functions of the Administration under this chapter, the Assistant Secretary may utilize the services and facilities of any agency of the Federal Government and of any other public or nonprofit agency or organization, in accordance with agreements between the Assistant Secretary and the head thereof, and is authorized to pay therefor, in advance or by way of reimbursement, as may be provided in the agreement.
 
-**(c) Authorization of appropriations** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary.
-
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 205 of Pub. L. 89–73 was renumbered section 204 and is classified to [section 3015 of this title](./chapter-035-programs-for-older-americans.md#section-3015).
 
 #### Amendments
+2016—Subsec. (c). Pub. L. 114–144 struck out subsec. (c). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary.”
+
 2006—Subsec. (a)(1)(C) to (E). Pub. L. 109–365, § 204(1)(A), in subpar. (C) inserted “and” at end, in subpar. (D) substituted period for “; and” at end, and struck out subpar. (E) which read as follows: “provide staff and other technical assistance to the Federal Council on the Aging.”
 
 Subsec. (a)(2)(A)(i). Pub. L. 109–365, § 204(1)(B)(i)(I), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “designing, implementing, and evaluating nutrition programs;”.
@@ -1908,17 +1979,17 @@ Amendment by Pub. L. 95–478 effective at close of Sept. 30, 1978, see section 
 
 (1) statistical data reflecting services and activities provided to individuals during the preceding fiscal year;
 
-(2) statistical data collected under section 3012(a)(19) 11 See References in Text note below. of this title;
+(2) statistical data collected under [section 3012(a)(16) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3012/a/16&num=0&edition=prelim);
 
 (3) statistical data and an analysis of information regarding the effectiveness of the State agency and area agencies on aging in targeting services to older individuals with greatest economic need and older individuals with greatest social need, with particular attention to low-income minority individuals, older individuals residing in rural areas, low-income individuals, and frail individuals (including individuals with any physical or mental functional impairment); and
 
-(4) a description of the implementation of the plan required by section 3012(a)(17) 1 of this title.
+(4) a description of the implementation of the plan required by [section 3012(a)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3012/a/14&num=0&edition=prelim).
 
 **(b) Report on ombudsman program**
 
 (1) Not later than March 1 of each year, the Assistant Secretary shall compile a report—
 
-  (A) summarizing and analyzing the data collected under subchapters III and XI of this chapter in accordance with [section 3058g(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3058g/c&num=0&edition=prelim) for the then most recently concluded fiscal year;
+  (A) summarizing and analyzing the data collected under subchapters III and XI in accordance with [section 3058g(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3058g/c&num=0&edition=prelim) for the then most recently concluded fiscal year;
 
   (B) identifying significant problems and issues revealed by such data (with special emphasis on problems relating to quality of care and residents’ rights);
 
@@ -1934,7 +2005,7 @@ Amendment by Pub. L. 95–478 effective at close of Sept. 30, 1978, see section 
 
   (C) the Committee on Health, Education, Labor, and Pensions of the Senate.
 
-(3) The Assistant Secretary shall provide the report required by paragraph (1), and make the State reports required under subchapters III and XI of this chapter in accordance with [section 3058g(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3058g/h/1&num=0&edition=prelim) available, to—
+(3) The Assistant Secretary shall provide the report required by paragraph (1), and make the State reports required under subchapters III and XI in accordance with [section 3058g(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3058g/h/1&num=0&edition=prelim) available, to—
 
   (A) the Administrator of the Health Care Finance Administration;
 
@@ -1944,7 +2015,7 @@ Amendment by Pub. L. 95–478 effective at close of Sept. 30, 1978, see section 
 
   (D) the Secretary of Veterans Affairs; and
 
-  (E) each public agency or private organization designated as an Office of the State Long-Term Care Ombudsman under subchapter III or XI of this chapter in accordance with [section 3058g(a)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3058g/a/4/A&num=0&edition=prelim).
+  (E) each public agency or private organization designated as an Office of the State Long-Term Care Ombudsman under subchapter III or XI in accordance with [section 3058g(a)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3058g/a/4/A&num=0&edition=prelim).
 
 **(c) Outreach activities; report on evaluations to be included in annual report** The Assistant Secretary shall, as part of the annual report submitted under subsection (a) of this section, prepare and submit a report on the outreach activities supported under this chapter, together with such recommendations as the Assistant Secretary deems appropriate. In carrying out this subsection, the Assistant Secretary shall consider—
 
@@ -1960,13 +2031,14 @@ Amendment by Pub. L. 95–478 effective at close of Sept. 30, 1978, see section 
 
 ### Statutory Notes
 
-#### References in Text
-Section 3012(a)(17), (19) of this title, referred to in subsec. (a)(2), (4), was redesignated section 3012(a)(14) and (16), respectively, of this title and section 3012(a)(20), (22) was redesignated section 3012(a)(17), (19), respectively, by Pub. L. 106–501, title II, § 201(1)(B), Nov. 13, 2000, 114 Stat. 2229.
-
 #### Prior Provisions
 A prior section 207 of Pub. L. 89–73 was renumbered section 206 and is classified to [section 3017 of this title](./chapter-035-programs-for-older-americans.md#section-3017).
 
 #### Amendments
+2016—Subsec. (a)(2). Pub. L. 114–144, § 3(d)(1), substituted “3012(a)(16)” for “3012(a)(19)”.
+
+Subsec. (a)(4). Pub. L. 114–144, § 3(d)(2), substituted “3012(a)(14)” for “3012(a)(17)”.
+
 2006—Subsec. (b)(2)(B). Pub. L. 109–365, § 206(1), substituted “the Workforce” for “Labor”.
 
 Subsec. (b)(2)(C). Pub. L. 109–365, § 206(2), substituted “Health, Education, Labor, and Pensions” for “Labor and Human Resources”.
@@ -1991,9 +2063,9 @@ Subsec. (a)(5). Pub. L. 102–375, § 208(a), added par. (5).
 
 Subsec. (b)(1). Pub. L. 102–375, § 208(b), substituted “March 1” for “January 15” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 102–375, § 708(a)(2)(A)(i), substituted “subchapters III and XI of this chapter in accordance with [section 3058g(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3058g/c&num=0&edition=prelim)” for “[section 3027(a)(12)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a/12/C&num=0&edition=prelim)”.
+Subsec. (b)(1)(A). Pub. L. 102–375, § 708(a)(2)(A)(i), substituted “subchapters III and XI in accordance with [section 3058g(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3058g/c&num=0&edition=prelim)” for “[section 3027(a)(12)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a/12/C&num=0&edition=prelim)”.
 
-Subsec. (b)(3). Pub. L. 102–375, § 708(a)(2)(A)(ii)(I), substituted “under subchapters III and XI of this chapter in accordance with [section 3058g(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3058g/h/1&num=0&edition=prelim)” for “by [section 3027(a)(12)(H)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a/12/H/i&num=0&edition=prelim)”.
+Subsec. (b)(3). Pub. L. 102–375, § 708(a)(2)(A)(ii)(I), substituted “under subchapters III and XI in accordance with [section 3058g(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3058g/h/1&num=0&edition=prelim)” for “by [section 3027(a)(12)(H)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a/12/H/i&num=0&edition=prelim)”.
 
 Subsec. (b)(3)(E). Pub. L. 102–375, § 708(a)(2)(A)(ii)(II), added subpar. (E) and struck out former subpar. (E) which read as follows: “the public agencies and private organizations designated under [section 3027(a)(12)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a/12/A&num=0&edition=prelim).”
 
@@ -2324,18 +2396,27 @@ Subsec. (h)(2). Pub. L. 109–365, § 209(3), inserted “(including individuals
 
 <a id="section-3020f"></a>
 ## § 3020f. Authorization of appropriations
-**(a) In general** For purposes of carrying out this chapter, there are authorized to be appropriated for administration, salaries, and expenses of the Administration such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
+**(a) In general** For purposes of carrying out this chapter, there are authorized to be appropriated for administration, salaries, and expenses of the Administration $40,063,000 for each of the fiscal years 2017, 2018, and 2019.
 
-**(b) Eldercare Locator Service** There are authorized to be appropriated to carry out section 3012(a)(24) 11 See References in Text note below. of this title (relating to the National Eldercare Locator Service) such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
+**(b) There are authorized to be appropriated—**
 
-**(c) Pension counseling and information programs** There are authorized to be appropriated to carry out [section 3020e–1 of this title](./chapter-035-programs-for-older-americans.md#section-3020e-1), such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
+(1) to carry out [section 3012(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3012/a/21&num=0&edition=prelim) (relating to the National Eldercare Locator Service), $2,088,758 for fiscal year 2017, $2,132,440 for fiscal year 2018, and $2,176,121 for fiscal year 2019;
+
+(2) to carry out [section 3020e–1 of this title](./chapter-035-programs-for-older-americans.md#section-3020e-1), $1,904,275 for fiscal year 2017, $1,944,099 for fiscal year 2018, and $1,983,922 for fiscal year 2019;
+
+(3) to carry out [section 3012 of this title](./chapter-035-programs-for-older-americans.md#section-3012) (relating to Elder Rights Support Activities under this subchapter), $1,312,904 for fiscal year 2017, $1,340,361 for fiscal year 2018, and $1,367,817 for fiscal year 2019; and
+
+(4) to carry out [section 3012(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3012/b&num=0&edition=prelim) (relating to the Aging and Disability Resource Centers), $6,271,399 for fiscal year 2017, $6,402,551 for fiscal year 2018, and $6,533,703 for fiscal year 2019.
 
 ### Statutory Notes
 
-#### References in Text
-[Section 3012(a)(24) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3012/a/24&num=0&edition=prelim), referred to in subsec. (b), does not relate to the National Eldercare Locator Service. Provisions relating to that Service are found elsewhere in section 3012.
-
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–144, § 3(e)(1), substituted “$40,063,000 for each of the fiscal years 2017, 2018, and 2019.” for “such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.”
+
+Subsec. (b). Pub. L. 114–144, § 3(e)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out [section 3012(a)(24) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3012/a/24&num=0&edition=prelim) (relating to the National Eldercare Locator Service) such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.”
+
+Subsec. (c). Pub. L. 114–144, § 3(e)(3), struck out subsec. (c). Text read as follows: “There are authorized to be appropriated to carry out [section 3020e–1 of this title](./chapter-035-programs-for-older-americans.md#section-3020e-1), such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.”
+
 2006—Subsec. (a). Pub. L. 109–365, § 210(1), substituted “2007, 2008, 2009, 2010, and 2011.” for “2001, 2002, 2003, 2004, and 2005”.
 
 Subsec. (b). Pub. L. 109–365, § 210(2), substituted “years 2007, 2008, 2009, 2010, and 2011” for “year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years”.
@@ -2557,31 +2638,25 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 ## § 3023. Authorization of appropriations; uses of funds
 **(a)**
 
-(1) There are authorized to be appropriated to carry out part B of this subchapter (relating to supportive services) such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
+(1) There are authorized to be appropriated to carry out part B (relating to supportive services) $356,717,276 for fiscal year 2017, $364,456,847 for fiscal year 2018, and $372,196,069 for fiscal year 2019.
 
 (2) Funds appropriated under paragraph (1) shall be available to carry out [section 3058g of this title](./chapter-035-programs-for-older-americans.md#section-3058g).
 
 **(b)**
 
-(1) There are authorized to be appropriated to carry out subpart I of part C of this subchapter (relating to congregate nutrition services) such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
+(1) There are authorized to be appropriated to carry out subpart I of part C (relating to congregate nutrition services) $459,937,586 for fiscal year 2017, $469,916,692 for fiscal year 2018, and $479,895,348 for fiscal year 2019.
 
-(2) There are authorized to be appropriated to carry out subpart II of part C of this subchapter (relating to home delivered nutrition services) such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
+(2) There are authorized to be appropriated to carry out subpart II of part C (relating to home delivered nutrition services) $232,195,942 for fiscal year 2017, $237,233,817 for fiscal year 2018, and $242,271,465 for fiscal year 2019.
 
 **(c)** Grants made under part B, and subparts I and II of part C, of this subchapter may be used for paying part of the cost of—
 
 (1) the administration of area plans by area agencies on aging designated under [section 3025(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3025/a/2/A&num=0&edition=prelim), including the preparation of area plans on aging consistent with [section 3026 of this title](./chapter-035-programs-for-older-americans.md#section-3026) and the evaluation of activities carried out under such plans; and
 
-(2) the development of comprehensive and coordinated systems for supportive services, congregate and home delivered nutrition services under subparts I and II of part C of this subchapter, the development and operation of multipurpose senior centers, and the delivery of legal assistance.
+(2) the development of comprehensive and coordinated systems for supportive services, congregate and home delivered nutrition services under subparts I and II of part C, the development and operation of multipurpose senior centers, and the delivery of legal assistance.
 
-**(d)** There are authorized to be appropriated to carry out part D of this subchapter (relating to disease prevention and health promotion services) such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
+**(d)** There are authorized to be appropriated to carry out part D (relating to disease prevention and health promotion services) $20,361,334 for fiscal year 2017, $20,803,107 for fiscal year 2018, and $21,244,860 for fiscal year 2019.
 
-**(e)**
-
-(1) There are authorized to be appropriated to carry out part E of this subchapter (relating to family caregiver support) $160,000,000 for fiscal year 2007.
-
-(2) There are authorized to be appropriated to carry out part E of this subchapter (relating to family caregiver support) $166,500,000 for fiscal year 2008, $173,000,000 for fiscal year 2009, $180,000,000 for fiscal year 2010, and $187,000,000 for fiscal year 2011.
-
-(3) Of the funds appropriated under paragraphs (1) and (2), not more than 1 percent of such funds may be reserved to carry out activities described in [section 3032(a)(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3032/a/11&num=0&edition=prelim).
+**(e)** There are authorized to be appropriated to carry out part E (relating to family caregiver support) $154,336,482 for fiscal year 2017, $157,564,066 for fiscal year 2018, and $160,791,658 for fiscal year 2019.
 
 ### Statutory Notes
 
@@ -2591,6 +2666,20 @@ A prior section 3023, Pub. L. 89–73, title III, § 303, as added Pub. L. 93–
 Another prior section 3023, Pub. L. 89–73, title III, § 303, July 14, 1965, 79 Stat. 222; Pub. L. 91–69, §§ 3(b), 4(a), Sept. 17, 1969, 83 Stat. 108, related to state plans, providing in subsec. (a) for approval by Secretary, contents, notice and hearing prior to disapproval; subsec. (b) noncompliance and cancellation of payments; and subsec. (c) appeals, petitions, record, jurisdiction of courts of appeals, conclusiveness of findings, review by Supreme Court, and stay of administrative action, prior to repeal by Pub. L. 93–29, title III, § 301, May 3, 1973, 87 Stat. 36.
 
 #### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–144, § 4(a)(1), substituted “$356,717,276 for fiscal year 2017, $364,456,847 for fiscal year 2018, and $372,196,069 for fiscal year 2019.” for “such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.”
+
+Subsec. (b)(1). Pub. L. 114–144, § 4(a)(2)(A), substituted “$459,937,586 for fiscal year 2017, $469,916,692 for fiscal year 2018, and $479,895,348 for fiscal year 2019.” for “such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.”
+
+Subsec. (b)(2). Pub. L. 114–144, § 4(a)(2)(B), substituted “$232,195,942 for fiscal year 2017, $237,233,817 for fiscal year 2018, and $242,271,465 for fiscal year 2019.” for “such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.”
+
+Subsec. (d). Pub. L. 114–144, § 4(a)(3), substituted “$20,361,334 for fiscal year 2017, $20,803,107 for fiscal year 2018, and $21,244,860 for fiscal year 2019.” for “such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.”
+
+Subsec. (e). Pub. L. 114–144, § 4(a)(4), struck out par. (2) designation before “There are authorized”, substituted “$154,336,482 for fiscal year 2017, $157,564,066 for fiscal year 2018, and $160,791,658 for fiscal year 2019.” for “$166,500,000 for fiscal year 2008, $173,000,000 for fiscal year 2009, $180,000,000 for fiscal year 2010, and $187,000,000 for fiscal year 2011.”, and struck out pars. (1) and (3) which read as follows:
+
+“(1) There are authorized to be appropriated to carry out part E of this subchapter (relating to family caregiver support) $160,000,000 for fiscal year 2007.
+
+“(3) Of the funds appropriated under paragraphs (1) and (2), not more than 1 percent of such funds may be reserved to carry out activities described in [section 3032(a)(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3032/a/11&num=0&edition=prelim).”
+
 2006—Subsecs. (a)(1), (b)(1), (2), (d). Pub. L. 109–365, § 303(1), substituted “years 2007, 2008, 2009, 2010, and 2011” for “year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years”.
 
 Subsec. (e)(1). Pub. L. 109–365, § 303(2)(A), substituted “$160,000,000 for fiscal year 2007” for “$125,000,000 for fiscal year 2001 if the aggregate amount appropriated under subsection (a)(1) of this section (relating to part B of this subchapter, supportive services), paragraphs (1) (relating to subpart I of part C of this subchapter, congregate nutrition services) and (2) (relating to subpart II of part C of this subchapter, home delivered nutrition services) of subsection (b) of this section, and (d) (relating to part D of this subchapter, disease prevention and health promotion services) of this section for fiscal year 2001 is not less than the aggregate amount appropriated under subsection (a)(1) of this section, paragraphs (1) and (2) of subsection (b) of this section, and subsection (d) of this section for fiscal year 2000”.
@@ -2631,7 +2720,7 @@ Subsec. (b)(3). Pub. L. 102–375, § 303(b)(3), added par. (3).
 
 Subsec. (c). Pub. L. 102–375, § 316(b)(1), substituted “part B, and subparts I and II of part C, of this subchapter” for “parts B and C of this subchapter”.
 
-Subsec. (c)(2). Pub. L. 102–375, § 316(b)(2), inserted “under subparts I and II of part C of this subchapter” after “nutrition services”.
+Subsec. (c)(2). Pub. L. 102–375, § 316(b)(2), inserted “under subparts I and II of part C” after “nutrition services”.
 
 Subsec. (d). Pub. L. 102–375, § 303(c), substituted “$45,388,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995,” for “$25,000,000 for fiscal year 1988, $26,250,000 for fiscal year 1989, $27,563,000 for fiscal year 1990, and $28,941,000 for fiscal year 1991”.
 
@@ -2709,23 +2798,15 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 
   (D)
 
-    (i) No State shall be allotted less than the total amount allotted to the State for fiscal year 2006.
+    (i) For each of fiscal years 2017 through 2019, no State shall be allotted an amount that is less than 99 percent of the amount allotted to such State for the previous fiscal year.
 
-    (ii) No State shall receive a percentage increase in an allotment, above the State’s fiscal year 2006 allotment, that is less than—
-
-      (I) for fiscal year 2007, 20 percent of the percentage increase above the fiscal year 2006 allotments for all of the States;
-
-      (II) for fiscal year 2008, 15 percent of the percentage increase above the fiscal year 2006 allotments for all of the States;
-
-      (III) for fiscal year 2009, 10 percent of the percentage increase above the fiscal year 2006 allotments for all of the States; and
-
-      (IV) For 11 So in original. Probably should be “for”. fiscal year 2010, 5 percent of the percentage increase above the fiscal year 2006 allotments for all of the States.
+    (ii) For fiscal year 2020 and each subsequent fiscal year, no State shall be allotted an amount that is less than 100 percent of the amount allotted to such State for fiscal year 2019.
 
 (4) The number of individuals aged 60 or older in any State and in all States shall be determined by the Assistant Secretary on the basis of the most recent data available from the Bureau of the Census, and other reliable demographic data satisfactory to the Assistant Secretary.
 
 (5) State allotments for a fiscal year under this section shall be proportionally reduced to the extent that appropriations may be insufficient to provide the full allotments of the prior year.
 
-**(b) Unused funds** Whenever the Assistant Secretary determines that any amount allotted to a State under part B or C of this subchapter, or subpart I of part E of this subchapter, for a fiscal year under this section will not be used by such State for carrying out the purpose for which the allotment was made, the Assistant Secretary shall make such allotment available for carrying out such purpose to one or more other States to the extent the Assistant Secretary determines that such other States will be able to use such additional amount for carrying out such purpose. Any amount made available to a State from an appropriation for a fiscal year in accordance with the preceding sentence shall, for purposes of this subchapter, be regarded as part of such State’s allotment (as determined under subsection (a) of this section) for such year, but shall remain available until the end of the succeeding fiscal year.
+**(b) Unused funds** Whenever the Assistant Secretary determines that any amount allotted to a State under part B or C, or part E, for a fiscal year under this section will not be used by such State for carrying out the purpose for which the allotment was made, the Assistant Secretary shall make such allotment available for carrying out such purpose to one or more other States to the extent the Assistant Secretary determines that such other States will be able to use such additional amount for carrying out such purpose. Any amount made available to a State from an appropriation for a fiscal year in accordance with the preceding sentence shall, for purposes of this subchapter, be regarded as part of such State’s allotment (as determined under subsection (a) of this section) for such year, but shall remain available until the end of the succeeding fiscal year.
 
 **(c) Withholding of funds; disbursement** If the Assistant Secretary finds that any State has failed to qualify under the State plan requirements of [section 3027 of this title](./chapter-035-programs-for-older-americans.md#section-3027) or the Assistant Secretary does not approve the funding formula required under [section 3025(a)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3025/a/2/C&num=0&edition=prelim), the Assistant Secretary shall withhold the allotment of funds to such State referred to in subsection (a) of this section. The Assistant Secretary shall disburse the funds so withheld directly to any public or private nonprofit institution or organization, agency, or political subdivision of such State submitting an approved plan under [section 3027 of this title](./chapter-035-programs-for-older-americans.md#section-3027), which includes an agreement that any such payment shall be matched in the proportion determined under subsection (d)(1)(D) of this section for such State, by funds or in-kind resources from non-Federal sources.
 
@@ -2737,7 +2818,7 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 
   (B) such amount (excluding any amount attributable to funds appropriated under [section 3023(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3023/a/3&num=0&edition=prelim)) as the State agency determines to be adequate for conducting an effective ombudsman program under [section 3027(a)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a/9&num=0&edition=prelim) shall be available for conducting such program;
 
-  (C) not less than $150,000 and not more than 4 percent of the amount allotted to the State for carrying out part B of this subchapter, shall be available for conducting outreach demonstration projects under [section 3058e of this title](./chapter-035-programs-for-older-americans.md#section-3058e); and
+  (C) not less than $150,000 and not more than 4 percent of the amount allotted to the State for carrying out part B, shall be available for conducting outreach demonstration projects under [section 3058e of this title](./chapter-035-programs-for-older-americans.md#section-3058e); and
 
   (D) the remainder of such allotment shall be available to such State only for paying such percentage as the State agency determines, but not more than 85 percent of the cost of supportive services, senior centers, and nutrition services under this subchapter provided in the State as part of a comprehensive and coordinated system in planning and service areas for which there is an area plan approved by the State agency.
 
@@ -2755,6 +2836,10 @@ Provisions similar to those comprising this section were contained in Pub. L. 89
 A prior section 3024a, Pub. L. 89–73, title III, § 305, as added Pub. L. 91–69, § 5, Sept. 17, 1969, 83 Stat. 110, related to areawide model projects, grants to or contracts with State agencies, amount, purposes of projects, and authorization of appropriations, prior to repeal by Pub. L. 93–29, title III, § 301, May 3, 1973, 87 Stat. 36.
 
 #### Amendments
+2016—Subsec. (a)(3)(D). Pub. L. 114–144, § 4(b)(1), added subpar. (D) and struck out former subpar. (D) which related to allotments and increases for fiscal years 2007 to 2010 based on fiscal year 2006.
+
+Subsec. (b). Pub. L. 114–144, § 4(b)(2), struck out “subpart I of” before “part E”.
+
 2006—Subsec. (a)(3)(D). Pub. L. 109–365 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “No State shall be allotted less than the total amount allotted to the State for fiscal year 2000 and no State shall receive a percentage increase above the fiscal year 2000 allotment that is less than 20 percent of the percentage increase above the fiscal year 2000 allotments for all of the States.”
 
 2000—Subsec. (a). Pub. L. 106–501, § 303(a), added subsec. (a) and struck out former subsec. (a) which read as follows:
@@ -2767,7 +2852,7 @@ A prior section 3024a, Pub. L. 89–73, title III, § 305, as added Pub. L. 91�
 
 “(4) The number of individuals aged 60 or older in any State and in all States shall be determined by the Assistant Secretary on the basis of the most recent data available from the Bureau of the Census, and other reliable demographic data satisfactory to the Assistant Secretary.”
 
-Subsec. (b). Pub. L. 106–501, § 303(b), substituted “part B or C of this subchapter, or subpart I of part E of this subchapter,” for “part B or C of this subchapter” in first sentence.
+Subsec. (b). Pub. L. 106–501, § 303(b), substituted “part B or C, or subpart I of part E,” for “part B or C” in first sentence.
 
 Subsec. (d)(1)(B). Pub. L. 106–501, § 801(c)(2)(A), substituted “3027(a)(9)” for “3027(a)(12)”.
 
@@ -2915,7 +3000,7 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 
       (II) designate an additional planning and service area in a State;
 
-      (III) divide the State into different planning and services 11 So in original. Probably should be “service”. areas; or
+      (III) divide the State into different planning and service areas; or
 
       (IV) otherwise affect the boundaries of the planning and service areas in the State.
 
@@ -2972,6 +3057,8 @@ Another prior section 3025, Pub. L. 89–73, title III, § 306, formerly § 305,
 Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, § 304, as added Pub. L. 93–29, title III, § 301, May 3, 1973, 87 Stat. 38; Pub. L. 94–135, title I, §§ 105, 106(c), Nov. 28, 1975, 89 Stat. 715, 716, which was classified to [section 3024 of this title](./chapter-035-programs-for-older-americans.md#section-3024) prior to repeal by Pub. L. 95–478.
 
 #### Amendments
+2016—Subsec. (b)(5)(C)(i)(III). Pub. L. 114–144 substituted “planning and service areas” for “planning and services areas”.
+
 2006—Subsec. (a)(1)(E). Pub. L. 109–365, § 305(1)(A), substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “(with particular attention to low-income minority individuals and older individuals residing in rural areas)” in two places.
 
 Subsec. (a)(2)(E). Pub. L. 109–365, § 305(2)(A), substituted “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “, with particular attention to low-income minority individuals and older individuals residing in rural areas”.
@@ -3092,11 +3179,11 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 ## § 3026. Area plans
 **(a) Preparation and development by area agency on aging; requirements** Each area agency on aging designated under [section 3025(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3025/a/2/A&num=0&edition=prelim) shall, in order to be approved by the State agency, prepare and develop an area plan for a planning and service area for a two-, three-, or four-year period determined by the State agency, with such annual adjustments as may be necessary. Each such plan shall be based upon a uniform format for area plans within the State prepared in accordance with [section 3027(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a/1&num=0&edition=prelim). Each such plan shall—
 
-(1) provide, through a comprehensive and coordinated system, for supportive services, nutrition services, and, where appropriate, for the establishment, maintenance, or construction of multipurpose senior centers, within the planning and service area covered by the plan, including determining the extent of need for supportive services, nutrition services, and multipurpose senior centers in such area (taking into consideration, among other things, the number of older individuals with low incomes residing in such area, the number of older individuals who have greatest economic need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such area, the number of older individuals who have greatest social need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such area, the number of older individuals at risk for institutional placement residing in such area, and the number of older individuals who are Indians residing in such area, and the efforts of voluntary organizations in the community), evaluating the effectiveness of the use of resources in meeting such need, and entering into agreements with providers of supportive services, nutrition services, or multipurpose senior centers in such area, for the provision of such services or centers to meet such need;
+(1) provide, through a comprehensive and coordinated system, for supportive services, nutrition services, and, where appropriate, for the establishment, maintenance, modernization, or construction of multipurpose senior centers (including a plan to use the skills and services of older individuals in paid and unpaid work, including multigenerational and older individual to older individual work), within the planning and service area covered by the plan, including determining the extent of need for supportive services, nutrition services, and multipurpose senior centers in such area (taking into consideration, among other things, the number of older individuals with low incomes residing in such area, the number of older individuals who have greatest economic need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such area, the number of older individuals who have greatest social need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such area, the number of older individuals at risk for institutional placement residing in such area, and the number of older individuals who are Indians residing in such area, and the efforts of voluntary organizations in the community), evaluating the effectiveness of the use of resources in meeting such need, and entering into agreements with providers of supportive services, nutrition services, or multipurpose senior centers in such area, for the provision of such services or centers to meet such need;
 
-(2) provide assurances that an adequate proportion, as required under [section 3027(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a/2&num=0&edition=prelim), of the amount allotted for part B of this subchapter to the planning and service area will be expended for the delivery of each of the following categories of services—
+(2) provide assurances that an adequate proportion, as required under [section 3027(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a/2&num=0&edition=prelim), of the amount allotted for part B to the planning and service area will be expended for the delivery of each of the following categories of services—
 
-  (A) services associated with access to services (transportation, health services (including mental health services), outreach, information and assistance (which may include information and assistance to consumers on availability of services under part B and how to receive benefits under and participate in publicly supported programs for which the consumer may be eligible), and case management services);
+  (A) services associated with access to services (transportation, health services (including mental and behavioral health services), outreach, information and assistance (which may include information and assistance to consumers on availability of services under part B and how to receive benefits under and participate in publicly supported programs for which the consumer may be eligible), and case management services);
 
   (B) in-home services, including supportive services for families of older individuals who are victims of Alzheimer’s disease and related disorders with neurological and organic brain dysfunction); 11 So in original. A closing parenthesis probably should not appear. and
 
@@ -3189,9 +3276,11 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 
     (ii) entities conducting other Federal programs for older individuals at the local level, with particular emphasis on entities conducting programs described in [section 3013(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3013/b&num=0&edition=prelim), within the area;
 
-  (F) in coordination with the State agency and with the State agency responsible for mental health services, increase public awareness of mental health disorders, remove barriers to diagnosis and treatment, and coordinate mental health services (including mental health screenings) provided with funds expended by the area agency on aging with mental health services provided by community health centers and by other public agencies and nonprofit private organizations;
+  (F) in coordination with the State agency and with the State agency responsible for mental and behavioral health services, increase public awareness of mental health disorders, remove barriers to diagnosis and treatment, and coordinate mental and behavioral health services (including mental health screenings) provided with funds expended by the area agency on aging with mental and behavioral health services provided by community health centers and by other public agencies and nonprofit private organizations;
 
-  (G) if there is a significant population of older individuals who are Indians in the planning and service area of the area agency on aging, the area agency on aging shall conduct outreach activities to identify such individuals in such area and shall inform such individuals of the availability of assistance under this chapter;
+  (G) if there is a significant population of older individuals who are Indians in the planning and service area of the area agency on aging, the area agency on aging shall conduct outreach activities to identify such individuals in such area and shall inform such individuals of the availability of assistance under this chapter; and
+
+  (H) in coordination with the State agency and with the State agency responsible for elder abuse prevention services, increase public awareness of elder abuse, neglect, and exploitation, and remove barriers to education, prevention, investigation, and treatment of elder abuse, neglect, and exploitation, as appropriate;
 
 (7) provide that the area agency on aging shall, consistent with this section, facilitate the area-wide development and implementation of a comprehensive, coordinated system for providing long-term care in home and community-based settings, in a manner responsive to the needs and preferences of older individuals and their family caregivers, by—
 
@@ -3237,7 +3326,7 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 
   (A) information concerning whether there is a significant population of older Native Americans in the planning and service area and if so, an assurance that the area agency on aging will pursue activities, including outreach, to increase access of those older Native Americans to programs and benefits provided under this subchapter;
 
-  (B) an assurance that the area agency on aging will, to the maximum extent practicable, coordinate the services the agency provides under this subchapter with services provided under subchapter X of this chapter; and
+  (B) an assurance that the area agency on aging will, to the maximum extent practicable, coordinate the services the agency provides under this subchapter with services provided under subchapter X; and
 
   (C) an assurance that the area agency on aging will make services under the area plan available, to the same extent as such services are available to older individuals within the planning and service area, to older Native Americans; and 33 So in original. The word “and” probably should not appear.
 
@@ -3305,9 +3394,11 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 
   (I) civic engagement;
 
-  (J) emergency preparedness; and
+  (J) emergency preparedness;
 
-  (K) any other service as determined by such agency.
+  (K) protection from elder abuse, neglect, and exploitation; and
+
+  (L) any other service as determined by such agency.
 
 **(c) Waiver of requirements** Each State, in approving area agency on aging plans under this section, shall waive the requirement described in paragraph (2) of subsection (a) of this section for any category of services described in such paragraph if the area agency on aging demonstrates to the State agency that services being furnished for such category in the area are sufficient to meet the need for such services in such area and had conducted a timely public hearing upon request.
 
@@ -3356,6 +3447,16 @@ A prior section 3026, Pub. L. 89–73, title III, § 306, as added Pub. L. 93–
 Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, § 304, as added Pub. L. 93–29, title III, § 301, May 3, 1973, 87 Stat. 38; amended Pub. L. 94–135, title I, §§ 105, 106(c), Nov. 28, 1975, 89 Stat. 715, 716, which was classified to [section 3024 of this title](./chapter-035-programs-for-older-americans.md#section-3024) prior to repeal by Pub. L. 95–478.
 
 #### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–144, § 4(d)(1)(A), substituted “establishment, maintenance, modernization, or construction of multipurpose senior centers (including a plan to use the skills and services of older individuals in paid and unpaid work, including multigenerational and older individual to older individual work),” for “establishment, maintenance, or construction of multipurpose senior centers,”.
+
+Subsec. (a)(2)(A). Pub. L. 114–144, § 9(4)(A), inserted “and behavioral” after “mental”.
+
+Subsec. (a)(6)(F). Pub. L. 114–144, § 9(4)(B), substituted “mental and behavioral health services” for “mental health services” wherever appearing.
+
+Subsec. (a)(6)(H). Pub. L. 114–144, § 4(d)(1)(B), added subpar. (H).
+
+Subsec. (b)(3)(K), (L). Pub. L. 114–144, § 4(d)(2), added subpar. (K) and redesignated former subpar. (K) as (L).
+
 2006—Subsec. (a)(1). Pub. L. 109–365, § 306(1)(A)(iii), which directed the insertion of “the number of older individuals at risk for institutional placement residing in such area,” after “individuals) residing in such area,”, was executed by making the insertion after “individuals residing in rural areas) residing in such area,” to reflect the probable intent of Congress and amendments by Pub. L. 106–501, § 305(a)(1) and Pub. L. 109–365, § 306(1)(A)(ii). See notes below.
 
 Pub. L. 109–365, § 306(1)(A)(ii), which directed the substitution of “(with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “(with particular attention to low-income minority individuals)”, was executed by making the substitution for “(with particular attention to low-income minority individuals and older individuals residing in rural areas)” the second place that phrase appeared, to reflect the probable intent of Congress and amendment by Pub. L. 106–501, § 305(a)(1). See 2000 Amendment note below.
@@ -3661,11 +3762,11 @@ Pub. L. 100–175, title I, § 155(h), Nov. 29, 1987, 101 Stat. 954, directed Co
 
 (2) The plan shall provide that the State agency will—
 
-  (A) evaluate, using uniform procedures described in section 3012(a)(29) 11 See References in Text note below. of this title, the need for supportive services (including legal assistance pursuant to subsection (a)(11) of this section, information and assistance, and transportation services), nutrition services, and multipurpose senior centers within the State;
+  (A) evaluate, using uniform procedures described in [section 3012(a)(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3012/a/26&num=0&edition=prelim), the need for supportive services (including legal assistance pursuant to subsection (a)(11) of this section, information and assistance, and transportation services), nutrition services, and multipurpose senior centers within the State;
 
   (B) develop a standardized process to determine the extent to which public or private programs and resources (including volunteers and programs and services of voluntary organizations) that have the capacity and actually meet such need;
 
-  (C) specify a minimum proportion of the funds received by each area agency on aging in the State to carry out part B of this subchapter that will be expended (in the absence of a waiver under section 3026(c) or 3030c–3 of this title) by such area agency on aging to provide each of the categories of services specified in [section 3026(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a/2&num=0&edition=prelim).
+  (C) specify a minimum proportion of the funds received by each area agency on aging in the State to carry out part B that will be expended (in the absence of a waiver under section 3026(c) or 3030c–3 of this title) by such area agency on aging to provide each of the categories of services specified in [section 3026(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a/2&num=0&edition=prelim).
 
 (3) The plan shall—
 
@@ -3679,7 +3780,7 @@ Pub. L. 100–175, title I, § 155(h), Nov. 29, 1987, 101 Stat. 954, directed Co
 
     (iii) describe the methods used to meet the needs for such services in the fiscal year preceding the first year to which such plan applies.
 
-(4) The plan shall provide that the State agency will conduct periodic evaluations of, and public hearings on, activities and projects carried out in the State under this subchapter and subchapter XI of this chapter, including evaluations of the effectiveness of services provided to individuals with greatest economic need, greatest social need, or disabilities (with particular attention to low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas).
+(4) The plan shall provide that the State agency will conduct periodic evaluations of, and public hearings on, activities and projects carried out in the State under this subchapter and subchapter XI, including evaluations of the effectiveness of services provided to individuals with greatest economic need, greatest social need, or disabilities (with particular attention to low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas).
 
 (5) The plan shall provide that the State agency will—
 
@@ -3717,7 +3818,7 @@ Pub. L. 100–175, title I, § 155(h), Nov. 29, 1987, 101 Stat. 954, directed Co
 
   (C) The plan may specify that an area agency on aging is allowed to directly provide information and assistance services and outreach.
 
-(9) The plan shall provide assurances that the State agency will carry out, through the Office of the State Long-Term Care Ombudsman, a State Long-Term Care Ombudsman program in accordance with [section 3058g of this title](./chapter-035-programs-for-older-americans.md#section-3058g) and this subchapter, and will expend for such purpose an amount that is not less than an amount expended by the State agency with funds received under this subchapter for fiscal year 2000, and an amount that is not less than the amount expended by the State agency with funds received under subchapter XI of this chapter for fiscal year 2000.
+(9) The plan shall provide assurances that the State agency will carry out, through the Office of the State Long-Term Care Ombudsman, a State Long-Term Care Ombudsman program in accordance with [section 3058g of this title](./chapter-035-programs-for-older-americans.md#section-3058g) and this subchapter, and will expend for such purpose an amount that is not less than an amount expended by the State agency with funds received under this subchapter for fiscal year 2000, and an amount that is not less than the amount expended by the State agency with funds received under subchapter XI for fiscal year 2000.
 
 (10) The plan shall provide assurances that the special needs of older individuals residing in rural areas will be taken into consideration and shall describe how those needs have been met and describe how funds have been allocated to meet those needs.
 
@@ -3801,7 +3902,7 @@ Pub. L. 100–175, title I, § 155(h), Nov. 29, 1987, 101 Stat. 954, directed Co
 
 (21) The plan shall—
 
-  (A) provide an assurance that the State agency will coordinate programs under this subchapter and programs under subchapter X of this chapter, if applicable; and
+  (A) provide an assurance that the State agency will coordinate programs under this subchapter and programs under subchapter X, if applicable; and
 
   (B) provide an assurance that the State agency will pursue activities to increase access by older individuals who are Native Americans to all aging programs and benefits provided by the agency, including programs and benefits provided under this subchapter, if applicable, and specify the ways in which the State agency intends to implement the activities.
 
@@ -3813,7 +3914,7 @@ Pub. L. 100–175, title I, § 155(h), Nov. 29, 1987, 101 Stat. 954, directed Co
 
   (B) to provide multigenerational activities, such as opportunities for older individuals to serve as mentors or advisers in child care, youth day care, educational assistance, at-risk youth intervention, juvenile delinquency treatment, and family support programs.
 
-(24) The plan shall provide assurances that the State will coordinate public services within the State to assist older individuals to obtain transportation services associated with access to services provided under this subchapter, to services under subchapter X of this chapter, to comprehensive counseling services, and to legal assistance.
+(24) The plan shall provide assurances that the State will coordinate public services within the State to assist older individuals to obtain transportation services associated with access to services provided under this subchapter, to services under subchapter X, to comprehensive counseling services, and to legal assistance.
 
 (25) The plan shall include assurances that the State has in effect a mechanism to provide for quality in the provision of in-home services under this subchapter.
 
@@ -3875,8 +3976,6 @@ the Assistant Secretary shall notify such State agency that no further payments 
 ### Statutory Notes
 
 #### References in Text
-[Section 3012(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3012/a&num=0&edition=prelim), referred to in subsec. (a)(2)(A), does not contain a par. (29). A former [section 3012(a)(29) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3012/a/29&num=0&edition=prelim), relating to uniform data collection procedures, was redesignated section 3012(a)(26) by Pub. L. 106–501, title II, § 201(1)(B), Nov. 13, 2000, 114 Stat. 2229.
-
 The Legal Services Corporation Act, referred to in subsec. (a)(11)(A), is title X of Pub. L. 88–452, as added by Pub. L. 93–355, § 2, July 25, 1974, 88 Stat. 378, as amended, which is classified generally to subchapter X (§ 2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-034-economic-opportunity-program.md#section-2701) and Tables.
 
 #### Prior Provisions
@@ -3885,6 +3984,8 @@ A prior section 3027, Pub. L. 89–73, title III, § 307, as added Pub. L. 93–
 Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, § 305, as added Pub. L. 93–29, title III, § 301, May 3, 1973, 87 Stat. 41; Pub. L. 94–135, title I, §§ 106(a), (b), 114(e), Nov. 28, 1975, 89 Stat. 715, 725, which was classified to [section 3025 of this title](./chapter-035-programs-for-older-americans.md#section-3025) prior to repeal by Pub. L. 95–478.
 
 #### Amendments
+2016—Subsec. (a)(2)(A). Pub. L. 114–144 substituted “3012(a)(26)” for “3012(a)(29)”.
+
 2006—Subsec. (a)(2)(C). Pub. L. 109–365, § 307(1), substituted “section 3026(c)” for “section 3026(b)”.
 
 Subsec. (a)(4). Pub. L. 109–365, § 307(2), substituted “(with particular attention to low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas)” for “, with particular attention to low-income minority individuals and older individuals residing in rural areas”.
@@ -4302,9 +4403,9 @@ Pub. L. 100–175, title I, § 129(b), Nov. 29, 1987, 101 Stat. 934, directed Co
 
 (4)
 
-  (A) Notwithstanding any other provision of this subchapter and except as provided in subparagraph (B), with respect to funds received by a State and attributable to funds appropriated under paragraph (1) or (2) of [section 3023(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3023/b&num=0&edition=prelim), the State may elect to transfer not more than 40 percent of the funds so received between subpart I and subpart II of part C of this subchapter, for use as the State considers appropriate to meet the needs of the area served. The Assistant Secretary shall approve any such transfer unless the Assistant Secretary determines that such transfer is not consistent with the objectives of this chapter.
+  (A) Notwithstanding any other provision of this subchapter and except as provided in subparagraph (B), with respect to funds received by a State and attributable to funds appropriated under paragraph (1) or (2) of [section 3023(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3023/b&num=0&edition=prelim), the State may elect to transfer not more than 40 percent of the funds so received between subpart I and subpart II of part C, for use as the State considers appropriate to meet the needs of the area served. The Assistant Secretary shall approve any such transfer unless the Assistant Secretary determines that such transfer is not consistent with the objectives of this chapter.
 
-  (B) If a State demonstrates, to the satisfaction of the Assistant Secretary, that funds received by the State and attributable to funds appropriated under paragraph (1) or (2) of [section 3023(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3023/b&num=0&edition=prelim), including funds transferred under subparagraph (A) without regard to this subparagraph, for any fiscal year are insufficient to satisfy the need for services under subpart I or subpart II of part C of this subchapter, then the Assistant Secretary may grant a waiver that permits the State to transfer under subparagraph (A) to satisfy such need an additional 10 percent of the funds so received by a State and attributable to funds appropriated under paragraph (1) or (2) of [section 3023(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3023/b&num=0&edition=prelim).
+  (B) If a State demonstrates, to the satisfaction of the Assistant Secretary, that funds received by the State and attributable to funds appropriated under paragraph (1) or (2) of [section 3023(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3023/b&num=0&edition=prelim), including funds transferred under subparagraph (A) without regard to this subparagraph, for any fiscal year are insufficient to satisfy the need for services under subpart I or subpart II of part C, then the Assistant Secretary may grant a waiver that permits the State to transfer under subparagraph (A) to satisfy such need an additional 10 percent of the funds so received by a State and attributable to funds appropriated under paragraph (1) or (2) of [section 3023(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3023/b&num=0&edition=prelim).
 
   (C) A State’s request for a waiver under subparagraph (B) shall—
 
@@ -4312,13 +4413,13 @@ Pub. L. 100–175, title I, § 129(b), Nov. 29, 1987, 101 Stat. 934, directed Co
 
     (ii) include a request that the waiver be granted;
 
-    (iii) specify the amount of the funds received by a State and attributable to funds appropriated under paragraph (1) or (2) of [section 3023(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3023/b&num=0&edition=prelim), over the permissible 40 percent referred to in subparagraph (A), that the State requires to satisfy the need for services under subpart I or II of part C of this subchapter; and
+    (iii) specify the amount of the funds received by a State and attributable to funds appropriated under paragraph (1) or (2) of [section 3023(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3023/b&num=0&edition=prelim), over the permissible 40 percent referred to in subparagraph (A), that the State requires to satisfy the need for services under subpart I or II of part C; and
 
-    (iv) not include a request for a waiver with respect to an amount if the transfer of the amount would jeopardize the appropriate provision of services under subpart I or II of part C of this subchapter.
+    (iv) not include a request for a waiver with respect to an amount if the transfer of the amount would jeopardize the appropriate provision of services under subpart I or II of part C.
 
 (5)
 
-  (A) Notwithstanding any other provision of this subchapter, of the funds received by a State attributable to funds appropriated under subsection (a)(1), and paragraphs (1) and (2) of subsection (b), of [section 3023 of this title](./chapter-035-programs-for-older-americans.md#section-3023), the State may elect to transfer not more than 30 percent for any fiscal year between programs under part B of this subchapter and part C of this subchapter, for use as the State considers appropriate. The State shall notify the Assistant Secretary of any such election.
+  (A) Notwithstanding any other provision of this subchapter, of the funds received by a State attributable to funds appropriated under subsection (a)(1), and paragraphs (1) and (2) of subsection (b), of [section 3023 of this title](./chapter-035-programs-for-older-americans.md#section-3023), the State may elect to transfer not more than 30 percent for any fiscal year between programs under part B and part C, for use as the State considers appropriate. The State shall notify the Assistant Secretary of any such election.
 
   (B) At a minimum, the notification described in subparagraph (A) shall include a description of the amount to be transferred, the purposes of the transfer, the need for the transfer, and the impact of the transfer on the provision of services from which the funding will be transferred.
 
@@ -4332,21 +4433,21 @@ Pub. L. 100–175, title I, § 129(b), Nov. 29, 1987, 101 Stat. 934, directed Co
 
   (C) in the case of transfers described in paragraphs (4)(A) and (5)(A), the effect of the transfers of the provision of services, including the effect on the number of meals served, under—
 
-    (i) subpart I of part C of this subchapter; and
+    (i) subpart I of part C; and
 
-    (ii) subpart II of part C of this subchapter; and
+    (ii) subpart II of part C; and
 
   (D) in the case of transfers described in paragraph (5)(A)—
 
-    (i) in the case of transfers to part B of this subchapter, information on the supportive services, or services provided through senior centers, for which the transfers were used; and
+    (i) in the case of transfers to part B, information on the supportive services, or services provided through senior centers, for which the transfers were used; and
 
     (ii) the effect of the transfers on the provision of services provided under—
 
-      (I) part B of this subchapter; and
+      (I) part B; and
 
-      (II) part C of this subchapter, including the effect on the number of meals served.
+      (II) part C, including the effect on the number of meals served.
 
-**(c) Availability of funds under this section to provide services under parts B and C** The amounts of any State’s allotment under subsection (b) of this section for any fiscal year which the Assistant Secretary determines will not be required for that year for the purposes described in subsection (a)(1) of this section shall be available to provide services under part B of this subchapter or part C of this subchapter, or both, in the State.
+**(c) Availability of funds under this section to provide services under parts B and C** The amounts of any State’s allotment under subsection (b) of this section for any fiscal year which the Assistant Secretary determines will not be required for that year for the purposes described in subsection (a)(1) of this section shall be available to provide services under part B or part C, or both, in the State.
 
 ### Statutory Notes
 
@@ -4475,17 +4576,17 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 ## § 3030. Disaster relief reimbursements
 **(a) Application; limitations**
 
-(1) The Assistant Secretary may provide reimbursements to any State (or to any tribal organization receiving a grant under subchapter X of this chapter), upon application for such reimbursement, for funds such State makes available to area agencies on aging in such State (or funds used by such tribal organization) for the delivery of supportive services (and related supplies) during any major disaster declared by the President in accordance with the Robert T. Stafford Disaster Relief and Emergency Assistance Act [[42 U.S.C. 5121](./chapter-068-disaster-relief.md#section-5121) et seq.].
+(1) The Assistant Secretary may provide reimbursements to any State (or to any tribal organization receiving a grant under subchapter X), upon application for such reimbursement, for funds such State makes available to area agencies on aging in such State (or funds used by such tribal organization) for the delivery of supportive services (and related supplies) during any major disaster declared by the President in accordance with the Robert T. Stafford Disaster Relief and Emergency Assistance Act [[42 U.S.C. 5121](./chapter-068-disaster-relief.md#section-5121) et seq.].
 
-(2) Total payments to all States and such tribal organizations under paragraph (1) in any fiscal year shall not exceed 2 percent of the total amount appropriated and available to carry out subchapter IV of this chapter.
+(2) Total payments to all States and such tribal organizations under paragraph (1) in any fiscal year shall not exceed 2 percent of the total amount appropriated and available to carry out subchapter IV.
 
 (3) If the Assistant Secretary decides, in the 5-day period beginning on the date such disaster is declared by the President, to provide an amount of reimbursement under paragraph (1) to a State or such tribal organization, then the Assistant Secretary shall provide not less than 75 percent of such amount to such State or such tribal organization not later than 5 days after the date of such decision.
 
 **(b) Setting aside of funds by Assistant Secretary**
 
-(1) At the beginning of each fiscal year the Assistant Secretary shall set aside, for payment to States and such tribal organizations under subsection (a) of this section, an amount equal to 2 percent of the total amount appropriated and available to carry out subchapter IV of this chapter.
+(1) At the beginning of each fiscal year the Assistant Secretary shall set aside, for payment to States and such tribal organizations under subsection (a) of this section, an amount equal to 2 percent of the total amount appropriated and available to carry out subchapter IV.
 
-(2) Amounts set aside under paragraph (1) which are not obligated by the end of the third quarter of any fiscal year shall be made available to carry out subchapter IV of this chapter.
+(2) Amounts set aside under paragraph (1) which are not obligated by the end of the third quarter of any fiscal year shall be made available to carry out subchapter IV.
 
 **(c) Effect on other laws** Nothing in this section shall be construed to prohibit expenditures by States and such tribal organizations for disaster relief for older individuals in excess of amounts reimbursable under this section, by using funds made available to them under other sections of this chapter or under other provisions of Federal or State law, or from private sources.
 
@@ -4495,7 +4596,7 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
 #### Amendments
-2000—Subsec. (a)(1). Pub. L. 106–501, § 308(1)(A), inserted “(or to any tribal organization receiving a grant under subchapter X of this chapter)” after “any State” and “(or funds used by such tribal organization)” before “for the delivery of supportive services”.
+2000—Subsec. (a)(1). Pub. L. 106–501, § 308(1)(A), inserted “(or to any tribal organization receiving a grant under subchapter X)” after “any State” and “(or funds used by such tribal organization)” before “for the delivery of supportive services”.
 
 Subsec. (a)(2). Pub. L. 106–501, § 308(1)(B), inserted “and such tribal organizations” after “States”.
 
@@ -4509,13 +4610,13 @@ Subsec. (a)(1). Pub. L. 103–171, § 2(10), substituted “Robert T. Stafford D
 
 1992—Subsec. (a)(1). Pub. L. 102–375, §§ 102(b)(10)(A), 309(1)(A), substituted “area agencies on aging” for “area agencies” and inserted “(and related supplies)” after “supportive services”.
 
-Subsec. (a)(2). Pub. L. 102–375, § 309(2), substituted “2 percent” for “5 percent” and “to carry out subchapter IV of this chapter” for “for carrying out the purposes of [section 3035a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3035a&num=0&edition=prelim)”.
+Subsec. (a)(2). Pub. L. 102–375, § 309(2), substituted “2 percent” for “5 percent” and “to carry out subchapter IV” for “for carrying out the purposes of [section 3035a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3035a&num=0&edition=prelim)”.
 
 Subsec. (a)(3). Pub. L. 102–375, § 309(1)(B), added par. (3).
 
-Subsec. (b)(1). Pub. L. 102–375, § 309(2), substituted “2 percent” for “5 percent” and “to carry out subchapter IV of this chapter” for “for carrying out the purposes of [section 3035a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3035a&num=0&edition=prelim)”.
+Subsec. (b)(1). Pub. L. 102–375, § 309(2), substituted “2 percent” for “5 percent” and “to carry out subchapter IV” for “for carrying out the purposes of [section 3035a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3035a&num=0&edition=prelim)”.
 
-Subsec. (b)(2). Pub. L. 102–375, § 309(2)(B), substituted “to carry out subchapter IV of this chapter” for “for carrying out the purposes of [section 3035a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3035a&num=0&edition=prelim)”.
+Subsec. (b)(2). Pub. L. 102–375, § 309(2)(B), substituted “to carry out subchapter IV” for “for carrying out the purposes of [section 3035a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3035a&num=0&edition=prelim)”.
 
 1988—Subsec. (a)(1). Pub. L. 100–707 substituted “Disaster Relief and Emergency Assistance Act” for “Disaster Relief Act of 1974”.
 
@@ -4533,9 +4634,9 @@ Section effective at the close of Sept. 30, 1978, see section 504 of Pub. L. 95�
 
 **(b) Allotment and provision and payment**
 
-(1) The Secretary shall allot and provide, in accordance with this section, to or on behalf of each State agency with a plan approved under this subchapter for a fiscal year, and to or on behalf of each grantee with an application approved under subchapter X of this chapter for such fiscal year, an amount bearing the same ratio to the total amount appropriated for such fiscal year under subsection (e) of this section as the number of meals served in the State under such plan approved for the preceding fiscal year (or the number of meals served by the title VI [subchapter X] grantee, under such application approved for such preceding fiscal year), bears to the total number of such meals served in all States and by all title VI [subchapter X] grantees under all such plans and applications approved for such preceding fiscal year.
+(1) The Secretary shall allot and provide, in accordance with this section, to or on behalf of each State agency with a plan approved under this subchapter for a fiscal year, and to or on behalf of each grantee with an application approved under subchapter X for such fiscal year, an amount bearing the same ratio to the total amount appropriated for such fiscal year under subsection (e) of this section as the number of meals served in the State under such plan approved for the preceding fiscal year (or the number of meals served by the title VI [subchapter X] grantee, under such application approved for such preceding fiscal year), bears to the total number of such meals served in all States and by all title VI [subchapter X] grantees under all such plans and applications approved for such preceding fiscal year.
 
-(2) For purposes of paragraph (1), in the case of a grantee that has an application approved under subchapter X of this chapter for a fiscal year but that did not receive assistance under this section for the preceding fiscal year, the number of meals served by the title VI [subchapter X] grantee for the preceding fiscal year shall be deemed to equal the number of meals that the Assistant Secretary estimates will be served by the title VI [subchapter X] grantee in the fiscal year for which the application was approved.
+(2) For purposes of paragraph (1), in the case of a grantee that has an application approved under subchapter X for a fiscal year but that did not receive assistance under this section for the preceding fiscal year, the number of meals served by the title VI [subchapter X] grantee for the preceding fiscal year shall be deemed to equal the number of meals that the Assistant Secretary estimates will be served by the title VI [subchapter X] grantee in the fiscal year for which the application was approved.
 
 **(c) Donation of products**
 
@@ -4559,13 +4660,15 @@ Section effective at the close of Sept. 30, 1978, see section 504 of Pub. L. 95�
 
 (5) Nothing in this subsection shall be construed to require any State agency or title VI [subchapter X] grantee to elect to receive cash payments under this subsection.
 
-**(e) Authorization of appropriations** There are authorized to be appropriated to carry out this section (other than subsection (c)(1) of this section) such sums as may be necessary for fiscal year 2007 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+**(e) Authorization of appropriations** There are authorized to be appropriated to carry out this section (other than subsection (c)(1) of this section) $164,055,664 for fiscal year 2017, $167,486,502 for fiscal year 2018, and $170,917,349 for fiscal year 2019.
 
 **(f) Dissemination of information** In each fiscal year, the Secretary and the Secretary of Agriculture shall jointly disseminate to State agencies, title VI [subchapter X] grantees, area agencies on aging, and providers of nutrition services assisted under this subchapter, information concerning the foods available to such State agencies, title VI [subchapter X] grantees, area agencies on aging, and providers under subsection (c).
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (e). Pub. L. 114–144, which directed substitution of “$164,055,664 for fiscal year 2017, $167,486,502 for fiscal year 2018, and $170,917,349 for fiscal year 2019.” for “such sums” and all that followed through the period at the end, was executed by making the substitution for “such sums as may be necessary for fiscal year 2007 and such sums as may be necessary for each of the 4 succeeding fiscal years.” to reflect the probable intent of Congress.
+
 2007—Subsec. (b)(3). Pub. L. 110–19, § 2(1), struck out par. (3) which read as follows: “State agencies that elect to make grants and enter into contracts for purposes of this section shall promptly and equitably disburse amounts received under this subsection to the recipients of the grants and contracts.”
 
 Subsec. (d). Pub. L. 110–19, § 2(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to purchase of commodities and payments to school food authorities.
@@ -4863,7 +4966,7 @@ Subsec. (d). Pub. L. 109–365, § 310(3), substituted “(with particular atten
 
 (3) any State plan requirement described in [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim) if granting the waiver will promote innovations or improve service delivery and will not diminish services already provided under this chapter;
 
-(4) any restriction under paragraph (5) of [section 3028(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3028/b&num=0&edition=prelim), on the amount that may be transferred between programs carried out under part B of this subchapter and part C of this subchapter; and
+(4) any restriction under paragraph (5) of [section 3028(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3028/b&num=0&edition=prelim), on the amount that may be transferred between programs carried out under part B and part C; and
 
 (5) the requirement of [section 3029(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3029/c&num=0&edition=prelim) that certain amounts of a State allotment be used for the provision of services, with respect to a State that reduces expenditures under the State plan of the State (but only to the extent that the non-Federal share of the expenditures is not reduced below any minimum specified in [section 3024(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3024/d&num=0&edition=prelim) or any other provision of this subchapter).
 
@@ -4881,7 +4984,7 @@ Pub. L. 106–501, § 310, which directed the addition of this section at the en
 ## § 3030d. Grants for supportive services
 **(a) Grants** The Assistant Secretary shall carry out a program for making grants to States under State plans approved under [section 3027 of this title](./chapter-035-programs-for-older-americans.md#section-3027) for any of the following supportive services:
 
-(1) health (including mental health), education and training, welfare, informational, recreational, homemaker, counseling, or referral services;
+(1) health (including mental and behavioral health), education and training, welfare, informational, recreational, homemaker, counseling, referral, chronic condition self-care management, or falls prevention services;
 
 (2) transportation services to facilitate access to supportive services or nutrition services, and services provided by an area agency on aging, in conjunction with local transportation service providers, public transportation agencies, and other local government agencies, that result in increased provision of such transportation services for older individuals;
 
@@ -4911,7 +5014,7 @@ Pub. L. 106–501, § 310, which directed the addition of this section at the en
 
 (7) services designed to enable older individuals to attain and maintain physical and mental well-being through programs of regular physical activity, exercise, music therapy, art therapy, and dance-movement therapy;
 
-(8) services designed to provide health screening (including mental health screening) to detect or prevent illnesses, or both, that occur most frequently in older individuals;
+(8) services designed to provide health screening (including mental and behavioral health screening and falls prevention services screening) to detect or prevent (or both) illnesses and injuries that occur most frequently in older individuals;
 
 (9) services designed to provide, for older individuals, preretirement counseling and assistance in planning for and assessing future post-retirement needs with regard to public and private insurance, public benefits, lifestyle changes, relocation, legal matters, leisure time, and other appropriate matters;
 
@@ -4923,9 +5026,9 @@ Pub. L. 106–501, § 310, which directed the addition of this section at the en
 
 (13) crime prevention services and victim assistance programs for older individuals;
 
-(14) a program, to be known as “Senior Opportunities and Services”, designed to identify and meet the needs of low-income older individuals in one or more of the following areas: (A) development and provision of new volunteer services; (B) effective referral to existing health (including mental health), employment, housing, legal, consumer, transportation, and other services; (C) stimulation and creation of additional services and programs to remedy gaps and deficiencies in presently existing services and programs; and (D) such other services as the Assistant Secretary may determine are necessary or especially appropriate to meet the needs of low-income older individuals and to assure them greater self-sufficiency;
+(14) a program, to be known as “Senior Opportunities and Services”, designed to identify and meet the needs of low-income older individuals in one or more of the following areas: (A) development and provision of new volunteer services; (B) effective referral to existing health (including mental and behavioral health), employment, housing, legal, consumer, transportation, and other services; (C) stimulation and creation of additional services and programs to remedy gaps and deficiencies in presently existing services and programs; and (D) such other services as the Assistant Secretary may determine are necessary or especially appropriate to meet the needs of low-income older individuals and to assure them greater self-sufficiency;
 
-(15) services for the prevention of abuse of older individuals in accordance with subpart III of part A of subchapter XI of this chapter and [section 3027(a)(12) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a/12&num=0&edition=prelim);
+(15) services for the prevention of abuse of older individuals in accordance with subpart III of part A of subchapter XI and [section 3027(a)(12) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a/12&num=0&edition=prelim), and screening for elder abuse, neglect, and exploitation;
 
 (16) inservice training and State leadership for legal assistance activities;
 
@@ -4941,7 +5044,7 @@ Pub. L. 106–501, § 310, which directed the addition of this section at the en
 
 (22) in-home services for frail older individuals, including individuals with Alzheimer’s disease and related disorders with neurological and organic brain dysfunction, and their families, including in-home services defined by a State agency in the State plan submitted under [section 3027 of this title](./chapter-035-programs-for-older-americans.md#section-3027), taking into consideration the age, economic need, and noneconomic and nonhealth factors contributing to the frail condition and need for services of the individuals described in this paragraph, and in-home services defined by an area agency on aging in the area plan submitted under [section 3026 of this title](./chapter-035-programs-for-older-americans.md#section-3026);
 
-(23) services designed to support States, area agencies on aging, and local service providers in carrying out and coordinating activities for older individuals with respect to mental health services, including outreach for, education concerning, and screening for such services, and referral to such services for treatment;
+(23) services designed to support States, area agencies on aging, and local service providers in carrying out and coordinating activities for older individuals with respect to mental and behavioral health services, including outreach for, education concerning, and screening for such services, and referral to such services for treatment;
 
 (24) activities to promote and disseminate information about life-long learning programs, including opportunities for distance learning; and
 
@@ -4950,13 +5053,21 @@ if such services meet standards prescribed by the Assistant Secretary and are ne
 
 **(b) Existing facilities**
 
-(1) The Assistant Secretary shall carry out a program for making grants to States under State plans approved under [section 3027 of this title](./chapter-035-programs-for-older-americans.md#section-3027) for the acquisition, alteration, or renovation of existing facilities, including mobile units, and, where appropriate, construction of facilities to serve as multipurpose senior centers.
+(1) The Assistant Secretary shall carry out a program for making grants to States under State plans approved under [section 3027 of this title](./chapter-035-programs-for-older-americans.md#section-3027) for the acquisition, alteration, or renovation of existing facilities, including mobile units, and, where appropriate, construction or modernization of facilities to serve as multipurpose senior centers.
 
 (2) Funds made available to a State under this part may be used for the purpose of assisting in the operation of multipurpose senior centers and meeting all or part of the costs of compensating professional and technical personnel required for the operation of multipurpose senior centers.
 
-**(c) Coordination of services with other providers** In carrying out the provisions of this part, to more efficiently and effectively deliver services to older individuals, each area agency on aging shall coordinate services described in subsection (a) of this section with other community agencies and voluntary organizations providing the same services. In coordinating the services, the area agency on aging shall make efforts to coordinate the services with agencies and organizations carrying out intergenerational programs or projects.
+**(c) Coordination of services with other providers** In carrying out the provisions of this part, to more efficiently and effectively deliver services to older individuals, each area agency on aging shall coordinate services described in subsection (a) of this section with other community agencies and voluntary organizations providing the same services. In coordinating the services, the area agency on aging shall make efforts to coordinate the services with agencies and organizations carrying out intergenerational programs or projects, and pursue opportunities for the development of intergenerational shared site models for programs or projects, consistent with the purposes of this chapter”.
 
 **(d) Relationship to other funding sources** Funds made available under this part shall supplement, and not supplant, any Federal, State, or local funds expended by a State or unit of general purpose local government (including an area agency on aging) to provide services described in subsection (a) of this section.
+
+**(e) “Adult child with a disability” defined** In this section, the term “adult child with a disability” means a child who—
+
+(1) is age 18 or older;
+
+(2) is financially dependent on an older individual who is a parent of the child; and
+
+(3) has a disability.
 
 ### Statutory Notes
 
@@ -4964,6 +5075,24 @@ if such services meet standards prescribed by the Assistant Secretary and are ne
 The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(12), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–144, § 9(5)(A), inserted “and behavioral” after “mental”.
+
+Pub. L. 114–144, § 4(g)(1)(A), substituted “referral, chronic condition self-care management, or falls prevention services” for “or referral services”.
+
+Subsec. (a)(8). Pub. L. 114–144, § 4(g)(1)(B), substituted “(including mental and behavioral health screening and falls prevention services screening) to detect or prevent (or both) illnesses and injuries that occur most frequently in older individuals;” for “(including mental health screening) to detect or prevent illnesses, or both, that occur most frequently in older individuals;”.
+
+Subsec. (a)(14)(B). Pub. L. 114–144, § 9(5)(B), inserted “and behavioral” after “mental”.
+
+Subsec. (a)(15). Pub. L. 114–144, § 4(g)(1)(C), inserted “, and screening for elder abuse, neglect, and exploitation” before semicolon at end.
+
+Subsec. (a)(23). Pub. L. 114–144, § 9(5)(C), inserted “and behavioral” after “mental”.
+
+Subsec. (b)(1). Pub. L. 114–144, § 4(g)(2), inserted “or modernization” after “construction”.
+
+Subsec. (c). Pub. L. 114–144, § 4(g)(3), inserted before period at end “, and pursue opportunities for the development of intergenerational shared site models for programs or projects, consistent with the purposes of this chapter”.
+
+Subsec. (e). Pub. L. 114–144, § 4(g)(4), added subsec. (e).
+
 2014—Subsec. (a)(12). Pub. L. 113–128 substituted “including programs carried out under the Workforce Innovation and Opportunity Act” for “including programs carried out under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)”.
 
 2006—Subsec. (a)(8). Pub. L. 109–365, § 311(1), inserted “(including mental health screening)” after “provide health screening”.
@@ -4994,7 +5123,7 @@ Subsecs. (c), (d). Pub. L. 106–501, § 311(2), added subsecs. (c) and (d).
 
 1993—Subsec. (a). Pub. L. 103–171, § 3(a)(13), substituted “Assistant Secretary” for “Commissioner” in introductory and concluding provisions and in par. (14).
 
-Subsec. (a)(15). Pub. L. 103–171, § 2(12), which directed amendment of par. (15) by substituting “subpart III of part A of subchapter XI of this chapter and [section 3027(a)(16) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a/16&num=0&edition=prelim)” for “clause (16) of [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim)”, was executed by making the substitution for “paragraph (16) of [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim)” to reflect the probable intent of Congress and amendment by Pub. L. 102–375, § 904(a)(15)(C). See 1992 Amendment note below.
+Subsec. (a)(15). Pub. L. 103–171, § 2(12), which directed amendment of par. (15) by substituting “subpart III of part A of subchapter XI and [section 3027(a)(16) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a/16&num=0&edition=prelim)” for “clause (16) of [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim)”, was executed by making the substitution for “paragraph (16) of [section 3027(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a&num=0&edition=prelim)” to reflect the probable intent of Congress and amendment by Pub. L. 102–375, § 904(a)(15)(C). See 1992 Amendment note below.
 
 Subsec. (b)(1). Pub. L. 103–171, § 3(a)(13), substituted “Assistant Secretary” for “Commissioner”.
 
@@ -5057,7 +5186,7 @@ Subsec. (a)(4). Pub. L. 97–115, § 10(b), designated existing provisions as cl
 Subsec. (a)(12) to (15). Pub. L. 97–115, § 10(c), added pars. (12) to (14) and redesignated former par. (12) as (15).
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 1992 Amendment
 Amendment by section 708(b) of Pub. L. 102–375 inapplicable with respect to fiscal year 1993, see section 4(b) of Pub. L. 103–171, set out as a note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
@@ -5077,7 +5206,7 @@ Part effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–478, 
 <a id="section-3030d-21"></a>
 ## § 3030d–21. Payment requirement
 
-Payments made by a State agency or an area agency on aging for nutrition services (including meals) provided under part A, B, or C of this subchapter may not be reduced to reflect any increase in the level of assistance provided under [section 3030a of this title](./chapter-035-programs-for-older-americans.md#section-3030a).
+Payments made by a State agency or an area agency on aging for nutrition services (including meals) provided under part A, B, or C may not be reduced to reflect any increase in the level of assistance provided under [section 3030a of this title](./chapter-035-programs-for-older-americans.md#section-3030a).
 
 ### Statutory Notes
 
@@ -5147,13 +5276,15 @@ Operation of predecessor projects under successor provisions, see section 501(b)
 
 The Assistant Secretary shall establish and carry out a program to make grants to States under State plans approved under [section 3027 of this title](./chapter-035-programs-for-older-americans.md#section-3027) for the establishment and operation of nutrition projects for older individuals that provide—
 
-(1) on 5 or more days a week (except in a rural area where such frequency is not feasible (as defined by the Assistant Secretary by rule) and a lesser frequency is approved by the State agency) at least 1 home delivered meal per day, which may consist of hot, cold, frozen, dried, canned, fresh, or supplemental foods and any additional meals that the recipient of a grant or contract under this subpart elects to provide; and
+(1) on 5 or more days a week (except in a rural area where such frequency is not feasible (as defined by the Assistant Secretary by rule) and a lesser frequency is approved by the State agency) at least 1 home delivered meal per day, which may consist of hot, cold, frozen, dried, canned, or fresh foods and, as appropriate, supplemental foods, and any additional meals that the recipient of a grant or contract under this subpart elects to provide; and
 
 (2) nutrition education, nutrition counseling, and other nutrition services, as appropriate, based on the needs of meal recipients.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Par. (1). Pub. L. 114–144 substituted “canned, or fresh foods and, as appropriate, supplemental foods, and any additional meals” for “canned, fresh, or supplemental foods and any additional meals”.
+
 2006—Pub. L. 109–365 amended section generally. Prior to amendment, text read as follows: “The Assistant Secretary shall carry out a program for making grants to States under State plans approved under [section 3027 of this title](./chapter-035-programs-for-older-americans.md#section-3027) for the establishment and operation of nutrition projects for older individuals which, 5 or more days a week (except in a rural area where such frequency is not feasible (as defined by the Assistant Secretary by regulation) and a lesser frequency is approved by the State agency), provide at least one home delivered hot, cold, frozen, dried, canned, or supplemental foods (with a satisfactory storage life) meal per day and any additional meals which the recipient of a grant or contract under this subpart may elect to provide.”
 
 1993—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” in two places.
@@ -5191,7 +5322,7 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 
 A State that establishes and operates a nutrition project under this chapter 11 So in original. Title III of Pub. L. 89–73, as amended, contained parts and subparts, but not chapters. shall—
 
-(1) solicit the expertise of a dietitian or other individual with equivalent education and training in nutrition science, or if such an individual is not available, an individual with comparable expertise in the planning of nutritional services, and
+(1) utilize the expertise of a dietitian or other individual with equivalent education and training in nutrition science, or if such an individual is not available, an individual with comparable expertise in the planning of nutritional services, and
 
 (2) ensure that the project—
 
@@ -5231,9 +5362,11 @@ A State that establishes and operates a nutrition project under this chapter 11 
 
   (I) ensures that nutrition services will be available to older individuals and to their spouses, and may be made available to individuals with disabilities who are not older individuals but who reside in housing facilities occupied primarily by older individuals at which congregate nutrition services are provided,
 
-  (J) provides for nutrition screening and nutrition education, and nutrition assessment and counseling if appropriate, and
+  (J) provides for nutrition screening and nutrition education, and nutrition assessment and counseling if appropriate,
 
-  (K) encourages individuals who distribute nutrition services under subpart II to provide, to homebound older individuals, available medical information approved by health care professionals, such as informational brochures and information on how to get vaccines, including vaccines for influenza, pneumonia, and shingles, in the individuals’ communities.
+  (K) encourages individuals who distribute nutrition services under subpart II to provide, to homebound older individuals, available medical information approved by health care professionals, such as informational brochures and information on how to get vaccines, including vaccines for influenza, pneumonia, and shingles, in the individuals’ communities, and
+
+  (L) where feasible, encourages the use of locally grown foods in meal programs and identifies potential partnerships and contracts with local producers and providers of locally grown foods.
 
 ### Statutory Notes
 
@@ -5244,6 +5377,10 @@ Pub. L. 106–501, § 313, which directed amendment of subpart 4 of part C of ti
 A prior section 3030g–21, Pub. L. 89–73, title III, § 339, as added Pub. L. 102–375, title III, § 317, Sept. 30, 1992, 106 Stat. 1241, related to compliance with dietary guidelines prior to repeal by Pub. L. 106–501, title III, § 313, Nov. 13, 2000, 114 Stat. 2252. See Codification note above.
 
 #### Amendments
+2016—Par. (1). Pub. L. 114–144, § 4(i)(1), substituted “utilize” for “solicit”.
+
+Par. (2)(L). Pub. L. 114–144, § 4(i)(2), added subpar. (L).
+
 2006—Par. (1). Pub. L. 109–365, § 316(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “solicit the advice of a dietitian or individual with comparable expertise in the planning of nutritional services, and”.
 
 Par. (2)(A)(i). Pub. L. 109–365, § 316(2)(A)(i), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “comply with the Dietary Guidelines for Americans, published by the Secretary and the Secretary of Agriculture,”.
@@ -5261,7 +5398,7 @@ Par. (2)(J), (K). Pub. L. 109–365, § 316(2)(E), (F), added subpars. (J) and (
 
 <a id="section-3030m"></a>
 ## § 3030m. Program authorized
-**(a) Grants to States** The Assistant Secretary shall carry out a program for making grants to States under State plans approved under [section 3027 of this title](./chapter-035-programs-for-older-americans.md#section-3027) to provide disease prevention and health promotion services and information at multipurpose senior centers, at congregate meal sites, through home delivered meals programs, or at other appropriate sites. In carrying out such program, the Assistant Secretary shall consult with the Directors of the Centers for Disease Control and Prevention and the National Institute on Aging.
+**(a) Grants to States** The Assistant Secretary shall carry out a program for making grants to States under State plans approved under [section 3027 of this title](./chapter-035-programs-for-older-americans.md#section-3027) to provide evidence-based disease prevention and health promotion services and information at multipurpose senior centers, at congregate meal sites, through home delivered meals programs, or at other appropriate sites. In carrying out such program, the Assistant Secretary shall consult with the Directors of the Centers for Disease Control and Prevention and the National Institute on Aging.
 
 **(b) Community organizations and agencies** The Assistant Secretary shall, to the extent possible, assure that services provided by other community organizations and agencies are used to carry out the provisions of this part.
 
@@ -5270,6 +5407,8 @@ Par. (2)(J), (K). Pub. L. 109–365, § 316(2)(E), (F), added subpars. (J) and (
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–144 inserted “evidence-based” after “to provide”.
+
 2006—Subsec. (c). Pub. L. 109–365 added subsec. (c).
 
 1993—Subsec. (a). Pub. L. 103–171, §§ 2(13), 3(a)(13), substituted “Assistant Secretary” for “Commissioner” in two places and inserted “and Prevention” after “Control”.
@@ -5314,27 +5453,43 @@ Section 3030r, Pub. L. 89–73, title III, § 383, as added Pub. L. 102–375, t
 
 <a id="section-3030s"></a>
 ## § 3030s. Definitions
-**(a) In general** In this subpart:
+**(a) In general** In this part:
 
-(1) **Child** — The term “child” means an individual who is not more than 18 years of age or who is an individual with a disability.
+(1) **Child** — The term “child” means an individual who is not more than 18 years of age.
 
-(2) **Grandparent or older individual who is a relative caregiver** — The term “grandparent or older individual who is a relative caregiver” means a grandparent or stepgrandparent of a child, or a relative of a child by blood, marriage, or adoption, who is 55 years of age or older and—
+(2) **Individual with a disability** — The term “individual with a disability” means an individual with a disability, as defined in [section 12102 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12102), who is not less than age 18 and not more than age 59.
 
-  (A) lives with the child;
+(3) **Older relative caregiver** — The term “older relative caregiver” means a caregiver who—
 
-  (B) is the primary caregiver of the child because the biological or adoptive parents are unable or unwilling to serve as the primary caregiver of the child; and
+  (A)
 
-  (C) has a legal relationship to the child, as such legal custody or guardianship, or is raising the child informally.
+    (i) is age 55 or older; and
 
-**(b) Rule** In providing services under this subpart—
+    (ii) lives with, is the informal provider of in-home and community care to, and is the primary caregiver for, a child or an individual with a disability;
 
-(1) for family caregivers who provide care for individuals with Alzheimer’s disease and related disorders with neurological and organic brain dysfunction, the State involved shall give priority to caregivers who provide care for older individuals with such disease or disorder; and
+  (B) in the case of a caregiver for a child—
 
-(2) for grandparents or older individuals who are relative caregivers, the State involved shall give priority to caregivers who provide care for children with severe disabilities.
+    (i) is the grandparent, stepgrandparent, or other relative (other than the parent) by blood, marriage, or adoption, of the child;
+
+    (ii) is the primary caregiver of the child because the biological or adoptive parents are unable or unwilling to serve as the primary caregivers of the child; and
+
+    (iii) has a legal relationship to the child, such as legal custody, adoption, or guardianship, or is raising the child informally; and
+
+  (C) in the case of a caregiver for an individual with a disability, is the parent, grandparent, or other relative by blood, marriage, or adoption, of the individual with a disability.
+
+**(b) Rule** In providing services under this part, for family caregivers who provide care for individuals with Alzheimer’s disease and related disorders with neurological and organic brain dysfunction, the State involved shall give priority to caregivers who provide care for older individuals with such disease or disorder.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Pub. L. 114–144, § 4(m), substituted “this part” for “this subpart” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 114–144, § 4(k)(2)(A)(i), struck out “or who is an individual with a disability” before period at end.
+
+Subsec. (a)(2), (3). Pub. L. 114–144, § 4(k)(2)(A)(ii), added pars. (2) and (3) and struck out former par. (2) which defined grandparent or older individual who is a relative caregiver.
+
+Subsec. (b). Pub. L. 114–144, § 4(k)(2)(B), substituted “this part,” for “this subpart—”, struck out par. (1) designation before “for family caregivers”, and struck out par. (2) which read as follows: “for grandparents or older individuals who are relative caregivers, the State involved shall give priority to caregivers who provide care for children with severe disabilities.”
+
 2006—Pub. L. 109–365 designated existing provisions as subsec. (a) and inserted heading, inserted “or who is an individual with a disability” after “age” in par. (1), substituted “a child by blood, marriage, or adoption” for “a child by blood or marriage” and “55 years” for “60 years” in par. (3), redesignated par. (3) as (2), struck out former par. (2) which defined term “family caregiver”, and added subsec. (b).
 
 #### Short Title
@@ -5347,7 +5502,7 @@ For short title of this part as the “National Family Caregiver Support Act”,
 
 (1) for family caregivers; and
 
-(2) for grandparents or older individuals who are relative caregivers.
+(2) for older relative caregivers.
 
 **(b) Support services** The services provided, in a State program under subsection (a) of this section, by an area agency on aging, or entity that such agency has contracted with, shall include—
 
@@ -5363,33 +5518,33 @@ For short title of this part as the “National Family Caregiver Support Act”,
 
 **(c) Population served; priority**
 
-(1) **Population served** — Services under a State program under this subpart shall be provided to family caregivers, and grandparents and older individuals who are relative caregivers, and who—
+(1) **Population served** — Services under a State program under this part shall be provided to family caregivers, and older relative caregivers, who—
 
   (A) are described in paragraph (1) or (2) of subsection (a) of this section; and
 
   (B) with regard to the services specified in paragraphs (4) and (5) of subsection (b) of this section, in the case of a caregiver described in paragraph (1), is providing care to an older individual who meets the condition specified in subparagraph (A)(i) or (B) of [section 3002(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3002/22&num=0&edition=prelim).
 
-(2) **Priority** — In providing services under this subpart, the State, in addition to giving the priority described in [section 3030s(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3030s/b&num=0&edition=prelim), shall give priority—
+(2) **Priority** — In providing services under this part, the State, in addition to giving the priority described in [section 3030s(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3030s/b&num=0&edition=prelim), shall give priority—
 
   (A) to caregivers who are older individuals with greatest social need, and older individuals with greatest economic need (with particular attention to low-income older individuals); and
 
-  (B) to older individuals providing care to individuals with severe disabilities, including children with severe disabilities.
+  (B) to older relative caregivers of children with severe disabilities, or individuals with disabilities who have severe disabilities.
 
-**(d) Use of volunteers** In carrying out this subpart, each area agency on aging shall make use of trained volunteers to expand the provision of the available services described in subsection (b) and, if possible, work in coordination with organizations that have experience in providing training, placement, and stipends for volunteers or participants (such as organizations carrying out Federal service programs administered by the Corporation for National and Community Service), in community service settings.
+**(d) Use of volunteers** In carrying out this part, each area agency on aging shall make use of trained volunteers to expand the provision of the available services described in subsection (b) and, if possible, work in coordination with organizations that have experience in providing training, placement, and stipends for volunteers or participants (such as organizations carrying out Federal service programs administered by the Corporation for National and Community Service), in community service settings.
 
 **(e) Quality standards and mechanisms and accountability**
 
-(1) **Quality standards and mechanisms** — The State shall establish standards and mechanisms designed to assure the quality of services provided with assistance made available under this subpart.
+(1) **Quality standards and mechanisms** — The State shall establish standards and mechanisms designed to assure the quality of services provided with assistance made available under this part.
 
 (2) **Data and records** — The State shall collect data and maintain records relating to the State program in a standardized format specified by the Assistant Secretary. The State shall furnish the records to the Assistant Secretary, at such time as the Assistant Secretary may require, in order to enable the Assistant Secretary to monitor State program administration and compliance, and to evaluate and compare the effectiveness of the State programs.
 
-(3) **Reports** — The State shall prepare and submit to the Assistant Secretary reports on the data and records required under paragraph (2), including information on the services funded under this subpart, and standards and mechanisms by which the quality of the services shall be assured. The reports shall describe any mechanisms used in the State to provide to persons who are family caregivers, or grandparents or older individuals who are relative caregivers, information about and access to various services so that the persons can better carry out their care responsibilities.
+(3) **Reports** — The State shall prepare and submit to the Assistant Secretary reports on the data and records required under paragraph (2), including information on the services funded under this part, and standards and mechanisms by which the quality of the services shall be assured. The reports shall describe any mechanisms used in the State to provide to persons who are family caregivers, or older relative caregivers, information about and access to various services so that the persons can better carry out their care responsibilities.
 
 **(f) Caregiver allotment**
 
 (1) **In general**
 
-  (A) From sums appropriated under [section 3023(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3023/e&num=0&edition=prelim) for fiscal years 2007, 2008, 2009, 2010, and 2011, the Assistant Secretary shall allot amounts among the States proportionately based on the population of individuals 70 years of age or older in the States.
+  (A) From sums appropriated under [section 3023(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3023/e&num=0&edition=prelim) for a fiscal year, the Assistant Secretary shall allot amounts among the States proportionately based on the population of individuals 70 years of age or older in the States.
 
   (B) In determining the amounts allotted to States from the sums appropriated under [section 3023 of this title](./chapter-035-programs-for-older-americans.md#section-3023) for a fiscal year, the Assistant Secretary shall first determine the amount allotted to each State under subparagraph (A) and then proportionately adjust such amounts, if necessary, to meet the requirements of paragraph (2).
 
@@ -5411,19 +5566,33 @@ For short title of this part as the “National Family Caregiver Support Act”,
 
 **(g) Availability of funds**
 
-(1) **Use of funds for administration of area plans** — Amounts made available to a State to carry out the State program under this subpart may be used, in addition to amounts available in accordance with [section 3023(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3023/c/1&num=0&edition=prelim), for costs of administration of area plans.
+(1) **Use of funds for administration of area plans** — Amounts made available to a State to carry out the State program under this part may be used, in addition to amounts available in accordance with [section 3023(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3023/c/1&num=0&edition=prelim), for costs of administration of area plans.
 
 (2) **Federal share**
 
-  (A) *In general* — Notwithstanding [section 3024(d)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3024/d/1/D&num=0&edition=prelim), the Federal share of the cost of carrying out a State program under this subpart shall be 75 percent.
+  (A) *In general* — Notwithstanding [section 3024(d)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3024/d/1/D&num=0&edition=prelim), the Federal share of the cost of carrying out a State program under this part shall be 75 percent.
 
   (B) *Non-Federal share* — The non-Federal share of the cost shall be provided from State and local sources.
 
-  (C) *Limitation* — A State may use not more than 10 percent of the total Federal and non-Federal share available to the State to provide support services to grandparents and older individuals who are relative caregivers of a child who is not more than 18 years of age.
+  (C) *Limitation* — A State may use not more than 10 percent of the total Federal and non-Federal share available to the State to provide support services to older relative caregivers.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Pub. L. 114–144, § 4(m), substituted “this part” for “this subpart” wherever appearing.
+
+Subsec. (a)(2). Pub. L. 114–144, § 4(l)(1), substituted “older relative caregivers.” for “grandparents or older individuals who are relative caregivers.”
+
+Subsec. (c)(1). Pub. L. 114–144, § 4(l)(2)(A), in introductory provisions, substituted “older relative caregivers, who” for “grandparents and older individuals who are relative caregivers, and who”.
+
+Subsec. (c)(2)(B). Pub. L. 114–144, § 4(l)(2)(B), substituted “to older relative caregivers of children with severe disabilities, or individuals with disabilities who have severe disabilities” for “to older individuals providing care to individuals with severe disabilities, including children with severe disabilities”.
+
+Subsec. (e)(3). Pub. L. 114–144, § 4(l)(3), substituted “older relative caregivers” for “grandparents or older individuals who are relative caregivers”.
+
+Subsec. (f)(1)(A). Pub. L. 114–144, § 4(l)(4), substituted “for a fiscal year” for “for fiscal years 2007, 2008, 2009, 2010, and 2011”.
+
+Subsec. (g)(2)(C). Pub. L. 114–144, § 4(l)(5), substituted “older relative caregivers” for “grandparents and older individuals who are relative caregivers of a child who is not more than 18 years of age”.
+
 2006—Subsec. (b)(3). Pub. L. 109–365, § 321(1), substituted “assist the caregivers in the areas of health, nutrition, and financial literacy, and in making decisions and solving problems relating to their caregiving roles;” for “caregivers to assist the caregivers in making decisions and solving problems relating to their caregiving roles;”.
 
 Subsec. (c)(1)(B). Pub. L. 109–365, § 321(2)(A), substituted “subparagraph (A)(i) or (B) of section 3002(22)” for “subparagraph (A)(i) or (B) of section 3002(28)”.
@@ -5439,20 +5608,22 @@ Subsec. (f)(1)(A). Pub. L. 109–365, § 321(5), substituted “2007, 2008, 2009
 Subsec. (g)(2)(C). Pub. L. 109–365, § 321(6), inserted “of a child who is not more than 18 years of age” before period at end.
 
 
-<a id="section-3030s-11-3030s-12"></a>
-## § 3030s–11, 3030s–12. Repealed. Pub. L. 109–365, title III, § 322, Oct. 17, 2006, 120 Stat. 2552
+<a id="section-3030s-2"></a>
+## § 3030s–2. Maintenance of effort
+
+Funds made available under this part shall supplement, and not supplant, any Federal, State, or local funds expended by a State or unit of general purpose local government (including an area agency on aging) to provide services described in [section 3030s–1 of this title](./chapter-035-programs-for-older-americans.md#section-3030s-1).
 
 ### Statutory Notes
+
+#### Prior Provisions
+Prior sections 3030s–11 and 3030s–12, which comprised subpart II of this part, were repealed by Pub. L. 109–365, title III, § 322, Oct. 17, 2006, 120 Stat. 2552.
 
 Section 3030s–11, Pub. L. 89–73, title III, § 375, as added Pub. L. 106–501, title III, § 316(2), Nov. 13, 2000, 114 Stat. 2256, provided for an innovation grant program.
 
 Section 3030s–12, Pub. L. 89–73, title III, § 376, as added Pub. L. 106–501, title III, § 316(2), Nov. 13, 2000, 114 Stat. 2257, directed Assistant Secretary to carry out activities of national significance to promote quality and continuous improvement in the support provided to family and other informal caregivers of older individuals.
 
-
-<a id="section-3030s-2"></a>
-## § 3030s–2. Maintenance of effort
-
-Funds made available under this subpart shall supplement, and not supplant, any Federal, State, or local funds expended by a State or unit of general purpose local government (including an area agency on aging) to provide services described in [section 3030s–1 of this title](./chapter-035-programs-for-older-americans.md#section-3030s-1).
+#### Amendments
+2016—Pub. L. 114–144 substituted “this part” for “this subpart”.
 
 
 <a id="section-3031"></a>
@@ -5637,16 +5808,24 @@ A prior section 401 of Pub. L. 89–73 was classified to [section 3030aa of this
 
   (C) programs supporting caregivers in the role they play in providing disease prevention and health promotion services;
 
-(12) building public awareness of cognitive impairments such as Alzheimer’s disease and related disorders with neurological and organic brain dysfunction, depression, and mental disorders; and
+(12) building public awareness of cognitive impairments such as Alzheimer’s disease and related disorders with neurological and organic brain dysfunction, depression, and mental disorders;
 
-(13) any other activities that the Assistant Secretary determines will achieve the objectives of this section.
+(13) continuing support for program integrity initiatives concerning the Medicare program under title XVIII of the Social Security Act ([42 U.S.C. 1395](./chapter-007-social-security.md#section-1395) et seq.) that train senior volunteers to prevent and identify health care fraud and abuse; and
 
-**(b) Authorization of appropriations** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
+(14) any other activities that the Assistant Secretary determines will achieve the objectives of this section.
+
+**(b) Authorization of appropriations** There are authorized to be appropriated to carry out—
+
+(1) aging network support activities under this section, $6,216,054 for fiscal year 2017, $6,346,048 for fiscal year 2018, and $6,476,043 for fiscal year 2019; and
+
+(2) elder rights support activities under this section, $10,856,828 for fiscal year 2017, $11,083,873 for fiscal year 2018, and $11,310,919 for fiscal year 2019.
 
 ### Statutory Notes
 
 #### References in Text
 The Rehabilitation Act of 1973, referred to in subsec. (a)(7), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+
+The Social Security Act, referred to in subsec. (a)(13), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Prior Provisions
 A prior section 3032, Pub. L. 89–73, title IV, § 412, as added Pub. L. 97–115, § 11(a), Dec. 29, 1981, 95 Stat. 1601; amended Pub. L. 98–459, title IV, § 404, Oct. 9, 1984, 98 Stat. 1782; Pub. L. 100–175, title I, §§ 105(e)(2), 134(c)(4), 146(c), 156(b), Nov. 29, 1987, 101 Stat. 930, 941, 950, 954; Pub. L. 102–375, title I, § 102(b)(10)(I), title IV, § 405, title IX, § 904(a)(17), Sept. 30, 1992, 106 Stat. 1202, 1245, 1308; Pub. L. 103–171, § 3(a)(13), Dec. 2, 1993, 107 Stat. 1990, related to establishment and support of multidisciplinary centers of gerontology and gerontology centers of special emphasis, prior to the general amendment of this subchapter by Pub. L. 106–501.
@@ -5660,6 +5839,10 @@ A prior section 411 of Pub. L. 89–73 was classified to [section 3031 of this t
 Another prior section 411 of Pub. L. 89–73 was classified to [section 3035 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3035&num=0&edition=prelim), prior to the general amendment of this subchapter by Pub. L. 97–115.
 
 #### Amendments
+2016—Subsec. (a)(13), (14). Pub. L. 114–144, § 5(a)(1), added par. (13) and redesignated former par. (13) as (14).
+
+Subsec. (b). Pub. L. 114–144, § 5(a)(2), substituted “carry out—” for “carry out this section such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.” and added pars. (1) and (2).
+
 2006—Subsec. (a)(9) to (13). Pub. L. 109–365, § 402(1), added pars. (9) to (12) and redesignated former par. (9) as (13).
 
 Subsec. (b). Pub. L. 109–365, § 402(2), substituted “years 2007, 2008, 2009, 2010, and 2011” for “year 2001, and such sums as may be necessary for subsequent fiscal years”.
@@ -5757,24 +5940,11 @@ Subsec. (b)(1)(B)(i). Pub. L. 109–365, § 404(2), inserted “mental health,�
 
 
 <a id="section-3032e"></a>
-## § 3032e. Computer training
-**(a) Program authorized** The Assistant Secretary, in consultation with the Assistant Secretary of Commerce for Communications and Information, may award grants or contracts to entities to provide computer training and enhanced Internet access for older individuals.
+## § 3032e. Repealed. Pub. L. 114–144, § 5(d), Apr. 19, 2016, 130 Stat. 342
 
-**(b) Priority** If the Assistant Secretary awards grants under subsection (a) of this section, the Assistant Secretary shall give priority to an entity that—
+### Statutory Notes
 
-(1) will provide services to older individuals living in rural areas;
-
-(2) has demonstrated expertise in providing computer training to older individuals; or
-
-(3) has demonstrated that it has a variety of training delivery methods, including facility-based, computer-based, and Internet-based training, that may facilitate a determination of the best method of training older individuals.
-
-**(c) Special consideration** In awarding grants under this section, the Assistant Secretary shall give special consideration to applicants that have entered into a partnership with one or more private entities providing such applicants with donated information technologies including software, hardware, or training.
-
-**(d) Use of funds** An entity that receives a grant or contract under subsection (a) of this section shall use funds received under such grant or contract to provide training for older individuals that—
-
-(1) relates to the use of computers and related equipment, in order to improve the self-employment and employment-related technology skills of older individuals, as well as their ability to use the Internet; and
-
-(2) is provided at senior centers, housing facilities for older individuals, elementary schools, secondary schools, and institutions of higher education.
+Section, Pub. L. 89–73, title IV, § 415, as added Pub. L. 106–501, title IV, § 401, Nov. 13, 2000, 114 Stat. 2260, related to grants or contracts for computer training and enhanced Internet access for older individuals.
 
 
 <a id="section-3032f"></a>
@@ -5813,7 +5983,7 @@ Subsec. (b)(1)(B)(i). Pub. L. 109–365, § 404(2), inserted “mental health,�
 
 (1) provide opportunities for older individuals to participate in multigenerational activities and civic engagement activities designed to meet critical community needs, and use the full range of time, skills, and experience of older individuals, including demonstration and support projects that—
 
-  (A) provide support for grandparents and other older individuals who are relative caregivers raising children (such as kinship navigator programs); or
+  (A) provide support for older relative caregivers (as defined in [section 3030s of this title](./chapter-035-programs-for-older-americans.md#section-3030s)) raising children (such as kinship navigator programs); or
 
   (B) involve volunteers who are older individuals who provide support and information to families who have a child with a disability or chronic illness, or other families in need of such family support; and
 
@@ -5890,6 +6060,8 @@ Subsec. (b)(1)(B)(i). Pub. L. 109–365, § 404(2), inserted “mental health,�
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a)(1)(A). Pub. L. 114–144 substituted “older relative caregivers (as defined in [section 3030s of this title](./chapter-035-programs-for-older-americans.md#section-3030s))” for “grandparents and other older individuals who are relative caregivers”.
+
 2006—Pub. L. 109–365 amended section generally, substituting provisions relating to demonstration, support, and research projects for multigenerational and civic engagement activities for provisions relating to demonstration projects for multigenerational activities.
 
 
@@ -5929,106 +6101,22 @@ Subsec. (b)(1)(B)(i). Pub. L. 109–365, § 404(2), inserted “mental health,�
 
 (6) **Report to Congress** — The Assistant Secretary, with assistance from each Resource Center, shall prepare and submit to the Speaker of the House of Representatives and the President pro tempore of the Senate an annual report on the status and needs, including the priority areas of concern, of Native Americans who are older individuals.
 
-**(b) Training grants** The Assistant Secretary shall make grants and enter into contracts to provide in-service training opportunities and courses of instruction on aging to Indian tribes through public or nonprofit Indian aging organizations and to provide annually a national meeting to train directors of programs under this subchapter.
+**(b) Training grants** The Assistant Secretary shall make grants and enter into contracts to provide in-service training opportunities and courses of instruction on aging to Indian tribes through public or nonprofit Indian aging organizations and to provide annually national trainings for directors of programs under this subchapter.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (b). Pub. L. 114–144 substituted “national trainings for” for “a national meeting to train”.
+
 2006—Subsec. (a)(2)(B)(i). Pub. L. 109–365 inserted “(including mental health)” after “health”.
 
 
 <a id="section-3032i"></a>
-## § 3032i. Multidisciplinary centers and multidisciplinary systems
-**(a) Multidisciplinary centers**
-
-(1) **Program authorized** — The Assistant Secretary may make grants to public and private nonprofit agencies, organizations, and institutions for the purpose of establishing or supporting multidisciplinary centers of gerontology, and gerontology centers of special emphasis (including emphasis on nutrition, employment, health (including mental health), disabilities (including severe disabilities), income maintenance, counseling services, supportive services, minority populations, diverse populations of older individuals residing in urban communities, and older individuals residing in rural areas).
-
-(2) **Use of funds**
-
-  (A) *In general* — The centers described in paragraph (1) shall conduct research and policy analysis and function as a technical resource for the Assistant Secretary, policymakers, service providers, and Congress.
-
-  (B) *Multidisciplinary centers* — The multidisciplinary centers of gerontology described in paragraph (1) shall—
-
-    (i) recruit and train personnel;
-
-    (ii) conduct basic and applied research toward the development of information related to aging;
-
-    (iii) stimulate the incorporation of information on aging into the teaching of biological, behavioral, and social sciences at colleges and universities;
-
-    (iv) help to develop training programs in the field of aging at schools of public health, education, social work, and psychology, and other appropriate schools within colleges and universities;
-
-    (v) serve as a repository of information and knowledge on aging, including information about best practices in long-term care service delivery, housing, and transportation;
-
-    (vi) provide information and other technical assistance to public and voluntary organizations, including State agencies and area agencies on aging, which serve the needs of older individuals in planning and developing services provided under other provisions of this chapter;
-
-    (vii) if appropriate, provide information relating to assistive technology; and
-
-    (viii) provide training and technical assistance to support the provision of community-based mental health services for older individuals.
-
-(3) **Data**
-
-  (A) *In general* — Each center that receives a grant under paragraph (1) shall provide data to the Assistant Secretary on the projects and activities carried out with funds received under such paragraph.
-
-  (B) *Information included* — Such data described in subparagraph (A) shall include—
-
-    (i) information on the number of personnel trained;
-
-    (ii) information on the number of older individuals served;
-
-    (iii) information on the number of schools assisted; and
-
-    (iv) other information that will facilitate achieving the objectives of this subsection.
-
-**(b) Multidisciplinary health services in communities**
-
-(1) **Program authorized** — The Assistant Secretary shall make grants to States, on a competitive basis, for the development and operation of—
-
-  (A) systems for the delivery of mental health screening and treatment services for older individuals who lack access to such services; and
-
-  (B) programs to—
-
-    (i) increase public awareness regarding the benefits of prevention and treatment of mental disorders in older individuals;
-
-    (ii) reduce the stigma associated with mental disorders in older individuals and other barriers to the diagnosis and treatment of the disorders; and
-
-    (iii) reduce age-related prejudice and discrimination regarding mental disorders in older individuals.
-
-(2) **Application** — To be eligible to receive a grant under this subsection for a State, a State agency shall submit an application to the Assistant Secretary at such time, in such manner, and containing such information as the Assistant Secretary may require.
-
-(3) **State allocation and priorities** — A State agency that receives funds through a grant made under this subsection shall allocate the funds to area agencies on aging to carry out this subsection in planning and service areas in the State. In allocating the funds, the State agency shall give priority to planning and service areas in the State—
-
-  (A) that are medically underserved; and
-
-  (B) in which there are large numbers of older individuals.
-
-(4) **Area coordination of services with other providers** — In carrying out this subsection, to more efficiently and effectively deliver services to older individuals, each area agency on aging shall—
-
-  (A) coordinate services described in subparagraphs (A) and (B) of paragraph (1) with such services or similar or related services of other community agencies, and voluntary organizations; and
-
-  (B) to the greatest extent practicable, integrate outreach and educational activities with such activities of existing (as of the date of the integration) social service and health care (including mental health) providers serving older individuals in the planning and service area involved.
-
-(5) **Relationship to other funding sources** — Funds made available under this subsection shall supplement, and not supplant, any Federal, State, and local funds expended by a State or unit of general purpose local government (including an area agency on aging) to provide the services described in subparagraphs (A) and (B) of paragraph (1).
-
-(6) **Definition** — In this subsection, the term “mental health screening and treatment services” means patient screening, diagnostic services, care planning and oversight, therapeutic interventions, and referrals, that are—
-
-  (A) provided pursuant to evidence-based intervention and treatment protocols (to the extent such protocols are available) for mental disorders prevalent in older individuals; and
-
-  (B) coordinated and integrated with the services of social service and health care (including mental health) providers in an area in order to—
-
-    (i) improve patient outcomes; and
-
-    (ii) ensure, to the maximum extent feasible, the continuing independence of older individuals who are residing in the area.
+## § 3032i. Repealed. Pub. L. 114–144, § 5(d), Apr. 19, 2016, 130 Stat. 342
 
 ### Statutory Notes
 
-#### Amendments
-2006—Pub. L. 109–365, § 408(1)–(6), substituted “Multidisciplinary centers and multidisciplinary systems” for “Multidisciplinary centers” in section catchline, redesignated subsecs. (a) to (c) as pars. (1) to (3), respectively, of subsec. (a), in subsec. (a) inserted heading, redesignated former pars. and subpars. as subpars. and cls., respectively, made conforming amendments to internal references, and realigned margins.
-
-Subsec. (a)(1). Pub. L. 109–365, § 408(7)(A), inserted “diverse populations of older individuals residing in urban communities,” after “minority populations,”.
-
-Subsec. (a)(2). Pub. L. 109–365, § 408(7)(B), (C), in cl. (v) inserted “, including information about best practices in long-term care service delivery, housing, and transportation” before semicolon at end, in cl. (vi) substituted “information and other technical assistance” for “consultation and information”, and added cl. (viii).
-
-Subsec. (b). Pub. L. 109–365, § 408(8), added subsec. (b). Former subsec. (b) redesignated (a)(2).
+Section, Pub. L. 89–73, title IV, § 419, as added Pub. L. 106–501, title IV, § 401, Nov. 13, 2000, 114 Stat. 2264; amended Pub. L. 109–365, title IV, § 408, Oct. 17, 2006, 120 Stat. 2557, related to grants for multidisciplinary centers and multidisciplinary systems.
 
 
 <a id="section-3032j"></a>
@@ -6049,28 +6137,24 @@ Subsec. (b). Pub. L. 109–365, § 408(8), added subsec. (b). Former subsec. (b)
 
 **(b) Assurances** Any grants or contracts made under subsection (a)(2) of this section shall contain assurances that the requirements of [section 3027(a)(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a/11&num=0&edition=prelim) are met.
 
-**(c) Assistance** To carry out subsection (a)(1) of this section, the Assistant Secretary shall make grants to or enter into contracts with national nonprofit organizations experienced in providing support and technical assistance on a nationwide basis to States, area agencies on aging, legal assistance providers, ombudsmen, elder abuse prevention programs, and other organizations interested in the legal rights of older individuals.
+**(c) Assistance** To carry out subsection (a)(1) of this section, the Assistant Secretary shall make grants to or enter into contracts with nonprofit organizations experienced in providing support and technical assistance on a nationwide basis to States, area agencies on aging, legal assistance providers, ombudsmen, elder abuse prevention programs, and other organizations interested in the legal rights of older individuals.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 420 of Pub. L. 89–73 was classified to [section 3034 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3034&num=0&edition=prelim), prior to the general amendment of this subchapter by Pub. L. 106–501.
 
+#### Amendments
+2016—Subsec. (c). Pub. L. 114–144 struck out “national” before “nonprofit organizations”.
+
 
 <a id="section-3032k"></a>
-## § 3032k. Ombudsman and advocacy demonstration projects
-**(a) Program authorized** The Assistant Secretary shall award grants to not fewer than three and not more than 10 States to conduct demonstrations and evaluate cooperative projects between the State long-term care ombudsman program, legal assistance agencies, and the State protection and advocacy systems for individuals with developmental disabilities and individuals with mental illness, established under part C of the Developmental Disabilities Assistance and Bill of Rights Act 11 See References in Text note below. ([42 U.S.C. 6041](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6041&num=0&edition=prelim) et seq.) and under the Protection and Advocacy for Mentally Ill Individuals Act of 1986 1 ([42 U.S.C. 10801](./chapter-114-protection-and-advocacy-for-individuals-with-mental-illness.md#section-10801) et seq.).
-
-**(b) Report** The Assistant Secretary shall prepare and submit to Congress a report containing the results of the evaluation required by subsection (a) of this section. Such report shall contain such recommendations as the Assistant Secretary determines to be appropriate.
+## § 3032k. Repealed. Pub. L. 114–144, § 5(d), Apr. 19, 2016, 130 Stat. 342
 
 ### Statutory Notes
 
-#### References in Text
-The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (a), is title I of Pub. L. 88–164, Oct. 31, 1963, 77 Stat. 282, as amended generally by Pub. L. 98–527, § 2, Oct. 19, 1984, 98 Stat. 2662, as further amended, which was repealed by Pub. L. 106–402, title IV, § 401(a), Oct. 30, 2000, 114 Stat. 1737. Part C of the Act was classified generally to subchapter III (§ 6041 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Tables.
+Section, Pub. L. 89–73, title IV, § 421, as added Pub. L. 106–501, title IV, § 401, Nov. 13, 2000, 114 Stat. 2265, related to grants for ombudsman and advocacy demonstration projects.
 
-The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (a), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, § 3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§ 10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10801 of this title](./chapter-114-protection-and-advocacy-for-individuals-with-mental-illness.md#section-10801) and Tables.
-
-#### Prior Provisions
 A prior section 421 of Pub. L. 89–73 was classified to [section 3035 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3035&num=0&edition=prelim), prior to the general amendment of this subchapter by Pub. L. 106–501.
 
 Another prior section 421 of Pub. L. 89–73 was classified to [section 3035b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3035b&num=0&edition=prelim), prior to the general amendment of this subchapter by Pub. L. 97–115.
@@ -6204,7 +6288,7 @@ Another prior section 422 of Pub. L. 89–73 was classified to [section 3035c of
 
 **(b) Payments** Payments under this subchapter pursuant to a grant or contract may be made (after necessary adjustment, in the case of grants, on account of previously made overpayments or underpayments) in advance or by way of reimbursement, and in such installments and on such conditions, as the Assistant Secretary may determine.
 
-**(c) Consultation** The Assistant Secretary shall make no grant or contract under this subchapter in any State that has established or designated a State agency for purposes of subchapter III of this chapter unless the Assistant Secretary—
+**(c) Consultation** The Assistant Secretary shall make no grant or contract under this subchapter in any State that has established or designated a State agency for purposes of subchapter III unless the Assistant Secretary—
 
 (1) consults with the State agency prior to issuing the grant or contract; and
 
@@ -6352,7 +6436,7 @@ Section 3055, Pub. L. 89–73, title VIII, § 805, formerly title VII, § 705, a
 
     (i) 27 months; or
 
-    (ii) pursuant to the request of a grantee, an extended period of participation established by the Secretary for a specific project area for such grantee, up to a period of not more than 36 months, if the Secretary determines that extenuating circumstances exist relating to the factors identified in [section 3056k(a)(2)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3056k/a/2/D&num=0&edition=prelim) that justify such an extended period for the program year involved;
+    (ii) pursuant to the request of a grantee, an extended period of participation established by the Secretary for a specific project area for such grantee, up to a period of not more than 36 months, if the Secretary determines that extenuating circumstances exist relating to the factors identified in [section 3056k(a)(2)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3056k/a/2/E&num=0&edition=prelim) that justify such an extended period for the program year involved;
 
   (D) will employ eligible individuals in service related to publicly owned and operated facilities and projects, or projects sponsored by nonprofit organizations (excluding political parties exempt from taxation under [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim)), but excluding projects involving the construction, operation, or maintenance of any facility used or to be used as a place for sectarian religious instruction or worship;
 
@@ -6390,7 +6474,7 @@ Section 3055, Pub. L. 89–73, title VIII, § 805, formerly title VII, § 705, a
 
   (N)
 
-    (i) will prepare an assessment of the participants’ skills and talents and their needs for services, except to the extent such project has, for the participant involved, recently prepared an assessment of such skills and talents, and such needs, pursuant to another employment or training program (such as a program under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)11 See References in Text note below, the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) et seq.), or part A of title IV of the Social Security Act ([42 U.S.C. 601](./chapter-007-social-security.md#section-601) et seq.)) and will prepare a related service strategy;
+    (i) will prepare an assessment of the participants’ skills and talents and their needs for services, except to the extent such project has, for the participant involved, recently prepared an assessment of such skills and talents, and such needs, pursuant to another employment or training program (such as a program under the Workforce Innovation and Opportunity Act ([29 U.S.C. 3101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) et seq.), the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) et seq.), or part A of title IV of the Social Security Act ([42 U.S.C. 601](./chapter-007-social-security.md#section-601) et seq.)) and will prepare a related service strategy;
 
     (ii) will provide training and employment counseling to eligible individuals based on strategies that identify appropriate employment objectives and the need for supportive services, developed as a result of the assessment and service strategy provided for in clause (i), and provide other appropriate information regarding such project; and
 
@@ -6525,7 +6609,7 @@ Section 3055, Pub. L. 89–73, title VIII, § 805, formerly title VII, § 705, a
 
   (D) *Report* — Each grantee under subsection (b) shall annually prepare and submit to the Secretary a report documenting the grantee’s use of funds for activities described in clauses (i) through (v) of subparagraph (A).
 
-**(d) Project description** Whenever a grantee conducts a project within a planning and service area in a State, such grantee shall conduct such project in consultation with the area agency on aging of the planning and service area and shall submit to the State agency and the area agency on aging a description of such project to be conducted in the State, including the location of the project, 90 days prior to undertaking the project, for review and public comment according to guidelines the Secretary shall issue to assure efficient and effective coordination of projects under this subchapter.
+**(d) Project description** Whenever a grantee conducts a project within a planning and service area in a State, such grantee shall conduct such project in consultation with the area agency on aging of the planning and service area and the local workforce development board and shall submit to the State agency, the local workforce development board, and the area agency on aging a description of such project to be conducted in the State, including the location of the project, 90 days prior to undertaking the project, for review and public comment according to guidelines the Secretary shall issue to assure efficient and effective coordination of projects under this subchapter.
 
 **(e) Pilot, demonstration, and evaluation projects**
 
@@ -6553,16 +6637,14 @@ Section 3055, Pub. L. 89–73, title VIII, § 805, formerly title VII, § 705, a
 
   (F) evaluation of the activities authorized under this subchapter.
 
-(3) **Consultation** — To the extent practicable, entities carrying out projects under this subsection shall consult with appropriate area agencies on aging and with other appropriate agencies and entities to promote coordination of activities under this subchapter.
+(3) **Consultation** — To the extent practicable, entities carrying out projects under this subsection shall consult with appropriate area agencies on aging, with the State workforce development board and local workforce development board, and with other appropriate agencies and entities to promote coordination of activities under this subchapter.
 
 ### Statutory Notes
 
 #### References in Text
-The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1)(H), (3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. Subtitle B of title I of the Act is classified generally to part B (§ 3151 et seq.) of subchapter I of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1)(H), (N)(i), (3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. Subtitle B of title I of the Act is classified generally to part B (§ 3151 et seq.) of subchapter I of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (b)(1)(J)(i), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
-
-The Workforce Investment Act of 1998, referred to in subsec. (b)(1)(N)(i), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113—128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), Labor, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-037-community-facilities-and-advance-land-acquisition.md#section-3101) and Tables.
 
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(1)(N)(i), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) and Tables.
 
@@ -6576,6 +6658,16 @@ Another prior section 3056, Pub. L. 89–73, title V, § 502, formerly title IX,
 Another prior section 502 of Pub. L. 89–73, title V, as added Pub. L. 93–29, title V, § 501, May 3, 1973, 87 Stat. 50, related to requirements for approval of applications, preferred areas, and agency application and was classified to [section 3041a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3041a&num=0&edition=prelim), prior to repeal by Pub. L. 95–478, title V, § 501(a), Oct. 18, 1978, 92 Stat. 1558.
 
 #### Amendments
+2016—Subsec. (b)(1)(C)(ii). Pub. L. 114–144, § 6(a)(1)(A), substituted “3056k(a)(2)(E)” for “3056k(a)(2)(D)”.
+
+Subsec. (b)(1)(N)(i). Pub. L. 114–144, § 6(a)(1)(B), substituted “Workforce Innovation and Opportunity Act ([29 U.S.C. 3101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) et seq.)” for “Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)”.
+
+Subsec. (d). Pub. L. 114–144, § 6(a)(2)(B), substituted “, the local workforce development board, and” for “and”.
+
+Pub. L. 114–144, § 6(a)(2)(A), which directed amendment of subsec. (d) by inserting “and the local workforce development board” after “service area”, was executed by making the insertion after “service area” the second place appearing to reflect the probable intent of Congress.
+
+Subsec. (e)(3). Pub. L. 114–144, § 6(a)(3), inserted “, with the State workforce development board and local workforce development board,” after “aging”.
+
 2014—Subsec. (b)(1)(H). Pub. L. 113–128, § 512(w)(3)(A)(i)(I), substituted “will coordinate activities with training and other services provided under title I of the Workforce Innovation and Opportunity Act, including utilizing the one-stop delivery system of the local workforce development areas involved” for “will coordinate activities with training and other services provided under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.), including utilizing the one-stop delivery system of the local workforce investment areas involved”.
 
 Subsec. (b)(1)(O). Pub. L. 113–128, § 512(w)(3)(A)(i)(II), substituted “through the one-stop delivery system of the local workforce development areas involved as established under section 121(e) of the Workforce Innovation and Opportunity Act, and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce development board in accordance with section 121(c) of such Act” for “through the one-stop delivery system of the local workforce investment areas involved as established under section 134(c) of the Workforce Investment Act of 1998 ([29 U.S.C. 2864(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim)), and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce investment board in accordance with section 121(c) of such Act ([29 U.S.C. 2841(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2841/c&num=0&edition=prelim))”.
@@ -6591,7 +6683,7 @@ Subsec. (b)(3)(B). Pub. L. 113–128, § 512(w)(3)(A)(ii)(II), substituted “Wo
 Subsec. (e)(2)(B)(ii). Pub. L. 113–128, § 512(w)(3)(B), substituted “one-stop delivery systems established under section 121(e) of the Workforce Innovation and Opportunity Act” for “one-stop delivery systems established under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date
 Pub. L. 109–365, title V, § 502, Oct. 17, 2006, 120 Stat. 2590, provided that: “(a) In General.—Title V of the Older Americans Act of 1965 [[42 U.S.C. 3056](./chapter-035-programs-for-older-americans.md#section-3056) et seq.] (as amended by section 501) takes effect July 1, 2007. “(b) Regulations and Expected Levels of Performance.—“(1) Regulations.—Effective on the date of enactment of this Act [Oct. 17, 2006], the Secretary of Labor may issue rules and regulations authorized in such title V. “(2) Expected levels of performance.—Prior to July 1, 2007, the Secretary of Labor may carry out the activities authorized in section 513(a)(2) of the Older Americans Act of 1965 [[42 U.S.C. 3056k(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3056k/a/2&num=0&edition=prelim)] (as so amended), in preparation for program year 2007.”
@@ -6614,7 +6706,7 @@ For short title of this subchapter as the “Community Service Senior Opportunit
 
   (C) individuals representing social service organizations providing services to older individuals, grantees under subchapter III of this chapter, affected communities, unemployed older individuals, community-based organizations serving the needs of older individuals, business organizations, and labor organizations.
 
-(3) **Comments** — Any State plan submitted by the Governor in accordance with paragraph (1) shall be accompanied by copies of public comments relating to the plan received pursuant to paragraph (7), and a summary of the comments.
+(3) **Comments** — Any State plan submitted by the Governor in accordance with paragraph (1) shall be accompanied by copies of public comments relating to the plan received pursuant to paragraph (8), and a summary of the comments.
 
 (4) **Plan provisions** — The State plan shall identify and address—
 
@@ -6636,7 +6728,7 @@ For short title of this subchapter as the “Community Service Senior Opportunit
 
   (E) the localities and populations for which projects of the type authorized by this subchapter are most needed; and
 
-  (F) plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.].
+  (F) how the activities of grantees in the State under this subchapter will be coordinated with activities carried out in the State under title I of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.) and other related programs (referred to in this subparagraph as “WIOA and related activities”), and how the State will reduce unnecessary duplication between the activities carried out under this subchapter and the WIOA and related activities.
 
 (5) **Governor’s recommendations** — Before a proposal for a grant under this subchapter for any fiscal year is submitted to the Secretary, the Governor of the State in which projects are proposed to be conducted under such grant shall be afforded a reasonable opportunity to submit to the Secretary—
 
@@ -6646,15 +6738,17 @@ For short title of this subchapter as the “Community Service Senior Opportunit
 
   (C) in the case of any increase in funding that may be available for use in the State under this subchapter for the fiscal year, any recommendations for distribution of newly available positions in excess of those available during the preceding year to underserved areas.
 
-(6) **Disruptions** — In developing a plan or considering a recommendation under this subsection, the Governor shall avoid disruptions in the provision of services for participants to the greatest possible extent.
+(6) **Combined State plan** — In lieu of the plan described in paragraph (1), a State may develop and submit a combined State plan in accordance with section 103 of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3113](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3113&num=0&edition=prelim)). For a State that obtains approval of such a combined State plan, that section 103 shall apply in lieu of this subsection and a reference in any other provision of this subchapter (other than this subsection) to a State plan shall be considered to be a reference to that combined State plan.
 
-(7) **Determination; review**
+(7) **Disruptions** — In developing a plan or considering a recommendation under this subsection, the Governor shall avoid disruptions in the provision of services for participants to the greatest possible extent.
+
+(8) **Determination; review**
 
   (A) *Determination* — In order to effectively carry out this subchapter, each State shall make the State plan available for public comment. The Secretary, in consultation with the Assistant Secretary, shall review the plan and make a written determination with findings and a decision regarding the plan.
 
   (B) *Review* — The Secretary may review, on the Secretary’s own initiative or at the request of any public or private agency or organization or of any agency of the State, the distribution of projects and services under this subchapter in the State, including the distribution between urban and rural areas in the State. For each proposed reallocation of projects or services in a State, the Secretary shall give notice and opportunity for public comment.
 
-(8) **Exemption** — The grantees that serve eligible individuals who are older Indians or Pacific Island and Asian Americans with funds reserved under [section 3056d(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3056d/a/3&num=0&edition=prelim) may not be required to participate in the State planning processes described in this section but shall collaborate with the Secretary to develop a plan for projects and services to eligible individuals who are Indians or Pacific Island and Asian Americans, respectively.
+(9) **Exemption** — The grantees that serve eligible individuals who are older Indians or Pacific Island and Asian Americans with funds reserved under [section 3056d(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3056d/a/3&num=0&edition=prelim) may not be required to participate in the State planning processes described in this section but shall collaborate with the Secretary to develop a plan for projects and services to eligible individuals who are Indians or Pacific Island and Asian Americans, respectively.
 
 **(b) Coordination with other Federal programs**
 
@@ -6666,7 +6760,7 @@ For short title of this subchapter as the “Community Service Senior Opportunit
 
   (B) *Use of funds*
 
-    (i) *Prohibition* — Funds appropriated to carry out this subchapter may not be used to carry out any program under the Workforce Investment Act of 1998,11 See References in Text note below. the Community Services Block Grant Act, the Rehabilitation Act of 1973, the Carl D. Perkins Career and Technical Education Act of 2006, the National and Community Service Act of 1990, or the Domestic Volunteer Service Act of 1973.
+    (i) *Prohibition* — Funds appropriated to carry out this subchapter may not be used to carry out any program under the Workforce Innovation and Opportunity Act, the Community Services Block Grant Act, the Rehabilitation Act of 1973, the Carl D. Perkins Career and Technical Education Act of 2006, the National and Community Service Act of 1990, or the Domestic Volunteer Service Act of 1973.
 
     (ii) *Joint activities* — Clause (i) shall not be construed to prohibit carrying out projects under this subchapter jointly with programs, projects, or activities under any Act specified in clause (i), or from carrying out [section 3056i of this title](./chapter-035-programs-for-older-americans.md#section-3056i).
 
@@ -6699,7 +6793,7 @@ For short title of this subchapter as the “Community Service Senior Opportunit
 ### Statutory Notes
 
 #### References in Text
-The Workforce Innovation and Opportunity Act, referred to in subsecs. (a)(2)(A), (4)(F) and (b)(2)(A), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsecs. (a)(2)(A), (4)(F) and (b)(2)(A), (B)(i), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Community Services Block Grant Act, referred to in subsec. (b)(2)(A), (B)(i), is subtitle B (§ 671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§ 9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9901 of this title](./chapter-106-community-services-block-grant-program.md#section-9901) and Tables.
 
@@ -6711,8 +6805,6 @@ The National and Community Service Act of 1990, referred to in subsec. (b)(2)(A)
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (b)(2)(A), (B)(i), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified principally to chapter 66 (§ 4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950) and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (b)(2)(B)(i), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113—128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), Labor, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classificaiton of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
-
 The Age Discrimination in Employment Act of 1967, referred to in subsec. (b)(3), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, which is classified generally to chapter 14 (§ 621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section621&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
@@ -6723,6 +6815,16 @@ Another prior section 3056a, Pub. L. 89–73, title V, § 503, formerly title IX
 Another prior section 503 of Pub. L. 89–73 was classified to [section 3041b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3041b&num=0&edition=prelim), prior to repeal by Pub. L. 95–478.
 
 #### Amendments
+2016—Subsec. (a)(3). Pub. L. 114–144, § 6(b)(1)(B), substituted “paragraph (8)” for “paragraph (7)”.
+
+Subsec. (a)(4)(F). Pub. L. 114–144, § 6(b)(1)(C), added subpar. (F) and struck out former subpar. (F) which read as follows: “plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Innovation and Opportunity Act.”
+
+Subsec. (a)(6). Pub. L. 114–144, § 6(b)(1)(D), added par. (6). Former par. (6) redesignated (7).
+
+Subsec. (a)(7) to (9). Pub. L. 114–144, § 6(b)(1)(A), redesignated pars. (6) to (8) as (7) to (9), respectively.
+
+Subsec. (b)(2)(B)(i). Pub. L. 114–144, § 6(b)(2), substituted “Workforce Innovation and Opportunity Act” for “Workforce Investment Act of 1998”.
+
 2014—Subsec. (a)(2)(A). Pub. L. 113–128, § 512(w)(4)(A)(i), substituted “the State and local workforce development boards established under title I of the Workforce Innovation and Opportunity Act” for “the State and local workforce investment boards established under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)”.
 
 Subsec. (a)(4)(F). Pub. L. 113–128, § 512(w)(4)(A)(ii), substituted “plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Innovation and Opportunity Act” for “plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)”.
@@ -6730,7 +6832,7 @@ Subsec. (a)(4)(F). Pub. L. 113–128, § 512(w)(4)(A)(ii), substituted “plans 
 Subsec. (b)(2)(A). Pub. L. 113–128, § 512(w)(4)(B), substituted “with the program carried out under the Workforce Innovation and Opportunity Act” for “with the program carried out under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-3056b"></a>
@@ -6779,7 +6881,7 @@ Another prior section 505 of Pub. L. 89–73 was classified to [section 3041d of
 2014—Subsec. (c)(1). Pub. L. 113–128 substituted “activities carried out under other Acts, especially activities provided under the Workforce Innovation and Opportunity Act, including activities provided through one-stop delivery systems established under section 121(e) of such Act,” for “activities carried out under other Acts, especially activities provided under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.), including activities provided through one-stop delivery systems established under section 134(c)) of such Act ([29 U.S.C. 2864(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim)),”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-3056d"></a>
@@ -6959,11 +7061,11 @@ Another prior section 3056h, Pub. L. 89–73, title V, § 510, as added Pub. L. 
 2014—Pub. L. 113–128 substituted “by local workforce development boards and one-stop operators established under title I of the Workforce Innovation and Opportunity Act” for “by local workforce investment boards and one-stop operators established under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)” and “such title” for “such title I”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-3056i"></a>
-## § 3056i. Coordination with the Workforce Innovation and Opportunity Act 11 Catchline updated editorially based on amendment by Pub. L. 113–128.
+## § 3056i. Coordination with the Workforce Innovation and Opportunity Act
 **(a) Partners** Grantees under this subchapter shall be one-stop partners as described in subparagraphs (A) and (B)(v) of section 121(b)(1) of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3151(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/b/1&num=0&edition=prelim)] in the one-stop delivery system established under section 121(e) of such Act [[29 U.S.C. 3151(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3151/e&num=0&edition=prelim)] for the appropriate local workforce development areas, and shall carry out the responsibilities relating to such partners.
 
 **(b) Coordination** In local workforce investment areas where more than 1 grantee under this subchapter provides services, the grantees shall—
@@ -6980,12 +7082,14 @@ A prior section 3056i, Pub. L. 89–73, title V, § 511, as added Pub. L. 106–
 Another prior section 3056i, Pub. L. 89–73, title V, § 511, as added Pub. L. 102–375, title V, § 507, Sept. 30, 1992, 106 Stat. 1269, related to treatment of assistance, prior to the general amendment of this subchapter by Pub. L. 106–501.
 
 #### Amendments
+2016—Pub. L. 114–144 substituted “Workforce Innovation and Opportunity Act” for “Workforce Investment Act of 1998” in section catchline.
+
 2014—Subsec. (a). Pub. L. 113–128, § 512(w)(7)(A), substituted “Grantees under this subchapter shall be one-stop partners as described in subparagraphs (A) and (B)(v) of section 121(b)(1) of the Workforce Innovation and Opportunity Act in the one-stop delivery system established under section 121(e) of such Act for the appropriate local workforce development areas” for “Grantees under this subchapter shall be one-stop partners as described in subparagraphs (A) and (B)(vi) of section 121(b)(1) of the Workforce Investment Act of 1998 ([29 U.S.C. 2841(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2841/b/1&num=0&edition=prelim)) in the one-stop delivery system established under section 134(c) of such Act ([29 U.S.C. 2864(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/c&num=0&edition=prelim)) for the appropriate local workforce investment areas”.
 
 Subsec. (b)(2). Pub. L. 113–128, § 512(w)(7)(B), substituted “be signatories of the memorandum of understanding established under section 121(c) of the Workforce Innovation and Opportunity Act” for “be signatories of the memorandum of understanding established under section 121(c) of the Workforce Investment Act of 1998 ([29 U.S.C. 2841(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2841/c&num=0&edition=prelim))”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-3056j"></a>
@@ -7001,102 +7105,65 @@ A prior section 3056j, Pub. L. 89–73, title V, § 512, as added Pub. L. 106–
 
 <a id="section-3056k"></a>
 ## § 3056k. Performance
-**(a) Measures and indicators**
+**(a) Measures**
 
-(1) **Establishment and implementation of measures and indicators** — The Secretary shall establish and implement, after consultation with grantees, subgrantees, and host agencies under this subchapter, States, older individuals, area agencies on aging, and other organizations serving older individuals, core measures of performance and additional indicators of performance for each grantee for projects and services carried out under this subchapter. The core measures of performance and additional indicators of performance shall be applicable to each grantee under this subchapter without regard to whether such grantee operates the program directly or through subcontracts, subgrants, or agreements with other entities.
+(1) **Establishment and implementation of measures** — The Secretary shall establish and implement, after consultation with grantees, subgrantees, and host agencies under this subchapter, States, older individuals, area agencies on aging, and other organizations serving older individuals, core measures of performance for each grantee for projects and services carried out under this subchapter. The core measures of performance shall be applicable to each grantee under this subchapter without regard to whether such grantee operates the program directly or through subcontracts, subgrants, or agreements with other entities.
 
 (2) **Content**
 
-  (A) *Composition of measures and indicators*
+  (A) *Composition of measures* — The core measures of performance established by the Secretary in accordance with paragraph (1) shall consist of core indicators of performance specified in subsection (b)(1) and the expected levels of performance applicable to each core indicator of performance.
 
-    (i) *Measures* — The core measures of performance established by the Secretary in accordance with paragraph (1) shall consist of core indicators of performance specified in subsection (b)(1) and the expected levels of performance applicable to each core indicator of performance.
+  (B) *Expected levels of performance* — The Secretary and each grantee shall reach agreement on the expected levels of performance for each program year for each of the core indicators of performance specified in subparagraph (A). Funds may not be awarded under the grant until such agreement is reached. At the conclusion of negotiations concerning the levels with all grantees, the Secretary shall make available for public review the final negotiated expected levels of performance for each grantee, including any comments submitted by the grantee regarding the grantee’s satisfaction with the negotiated levels.
 
-    (ii) *Additional indicators* — The additional indicators of performance established by the Secretary in accordance with paragraph (1) shall be the additional indicators of performance specified in subsection (b)(2).
+  (C) *Agreement on expected levels of performance*
 
-  (B) *Continuous improvement* — The measures described in subparagraph (A)(i) shall be designed to promote continuous improvement in performance.
+    (i) *First 2 years* — Each grantee shall reach agreement with the Secretary on levels of performance for each measure described in subparagraph (A)(i),11 So in original. Subparagraph (A) does not contain clauses. for each of the first 2 program years covered by the grant agreement. In reaching the agreement, the grantee and the Secretary shall take into account the expected levels proposed by the grantee and the factors described in subparagraph (D). The levels agreed to shall be considered to be the expected levels of performance for the grantee for such program years.
 
-  (C) *Expected levels of performance* — The Secretary and each grantee shall reach agreement on the expected levels of performance for each program year for each of the core indicators of performance specified in subparagraph (A)(i). The agreement shall take into account the requirement of subparagraph (B) and the factors described in subparagraph (D), and other appropriate factors as determined by the Secretary, and shall be consistent with the requirements of subparagraph (E). Funds may not be awarded under the grant until such agreement is reached. At the conclusion of negotiations concerning the levels with all grantees, the Secretary shall make available for public review the final negotiated expected levels of performance for each grantee, including any comments submitted by the grantee regarding the grantee’s satisfaction with the negotiated levels.
+    (ii) *Third and fourth year* — Each grantee shall reach agreement with the Secretary, prior to the third program year covered by the grant agreement, on levels of performance for each measure described in subparagraph (A), for each of the third and fourth program years so covered. In reaching the agreement, the grantee and the Secretary shall take into account the expected levels proposed by the grantee and the factors described in subparagraph (D). The levels agreed to shall be considered to be the expected levels of performance for the grantee for such program years.
 
-  (D) *Adjustment* — The expected levels of performance described in subparagraph (C) applicable to a grantee shall be adjusted after the agreement under subparagraph (C) has been reached only with respect to the following factors:
+  (D) *Factors* — In reaching the agreements described in subparagraph (B), each grantee and the Secretary shall—
 
-    (i) High rates of unemployment or of poverty or participation in the program of block grants to States for temporary assistance for needy families established under part A of title IV of the Social Security Act ([42 U.S.C. 601](./chapter-007-social-security.md#section-601) et seq.), in the areas served by a grantee, relative to other areas of the State involved or Nation.
+    (i) take into account how the levels involved compare with the expected levels of performance established for other grantees;
 
-    (ii) Significant downturns in the areas served by the grantee or in the national economy.
+    (ii) ensure that the levels involved are adjusted, using an objective statistical model based on the model established by the Secretary in accordance with section 3141(a)(3)(A)(viii) 22 So in original. Probably should be “3141(b)(3)(A)(viii)”. of title 29; 33 See References in Text note below. and
 
-    (iii) Significant numbers or proportions of participants with 1 or more barriers to employment, including individuals described in subsection (a)(3)(B)(ii) or (b)(2) of [section 3056p of this title](./chapter-035-programs-for-older-americans.md#section-3056p), served by a grantee relative to such numbers or proportions for grantees serving other areas of the State or Nation.
+    (iii) take into account the extent to which the levels involved promote continuous improvement in performance accountability on the core measures and ensure optimal return on the investment of Federal funds.
 
-    (iv) Changes in Federal, State, or local minimum wage requirements.
+  (E) *Adjustments based on economic conditions and individuals served during the program year* — The Secretary shall, in accordance with the objective statistical model developed pursuant to subparagraph (D)(ii), adjust the expected levels of performance for a program year for grantees, to reflect the actual economic conditions and characteristics of participants in the corresponding projects during such program year.
 
-    (v) Limited economies of scale for the provision of community service employment and other authorized activities in the areas served by the grantee.
-
-  (E) *Placement*
-
-    (i) *Level of performance* — For all grantees, the Secretary shall establish an expected level of performance of not less than the percentage specified in clause (ii) (adjusted in accordance with subparagraph (D)) for the entry into unsubsidized employment core indicator of performance described in subsection (b)(1)(B).
-
-    (ii) *Required placement percentages* — The minimum percentage for the expected level of performance for the entry into unsubsidized employment core indicator of performance described in subsection (b)(1)(B) is—
-
-      (I) 21 percent for fiscal year 2007;
-
-      (II) 22 percent for fiscal year 2008;
-
-      (III) 23 percent for fiscal year 2009;
-
-      (IV) 24 percent for fiscal year 2010; and
-
-      (V) 25 percent for fiscal year 2011.
-
-(3) **Limitation** — An agreement to be evaluated on the core measures of performance and to report information on the additional indicators of performance shall be a requirement for application for, and a condition of, all grants authorized by this subchapter.
+(3) **Limitation** — An agreement to be evaluated on the core measures of performance shall be a requirement for application for, and a condition of, all grants authorized by this subchapter.
 
 **(b) Indicators of performance**
 
-(1) **Core indicators** — The core indicators of performance described in subsection (a)(2)(A)(i) shall consist of—
+(1) **Core indicators** — The core indicators of performance described in subsection (a)(2)(A) shall consist of—
 
   (A) hours (in the aggregate) of community service employment;
 
-  (B) entry into unsubsidized employment;
+  (B) the percentage of project participants who are in unsubsidized employment during the second quarter after exit from the project;
 
-  (C) retention in unsubsidized employment for 6 months;
+  (C) the percentage of project participants who are in unsubsidized employment during the fourth quarter after exit from the project;
 
-  (D) earnings; and
+  (D) the median earnings of project participants who are in unsubsidized employment during the second quarter after exit from the project;
 
-  (E) the number of eligible individuals served, including the number of participating individuals described in subsection (a)(3)(B)(ii) or (b)(2) of section 3056p of the title.
+  (E) indicators of effectiveness in serving employers, host agencies, and project participants; and
 
-(2) **Additional indicators** — The additional indicators of performance described in subsection (a)(2)(A)(ii) shall consist of—
+  (F) the number of eligible individuals served, including the number of participating individuals described in subsection (a)(3)(B)(ii) or (b)(2) of [section 3056p of this title](./chapter-035-programs-for-older-americans.md#section-3056p).
 
-  (A) retention in unsubsidized employment for 1 year;
+(2) **Definitions of indicators** — The Secretary, after consultation with national and State grantees, representatives of business and labor organizations, and providers of services, shall, by regulation, issue definitions of the indicators of performance described in paragraph (1).
 
-  (B) satisfaction of the participants, employers, and their host agencies with their experiences and the services provided;
-
-  (C) any other indicators of performance that the Secretary determines to be appropriate to evaluate services and performance.
-
-(3) **Definitions of indicators** — The Secretary, after consultation with national and State grantees, representatives of business and labor organizations, and providers of services, shall, by regulation, issue definitions of the indicators of performance described in paragraphs (1) and (2).
-
-**(c) Evaluation** The Secretary shall—
-
-(1) annually evaluate, and publish and make available for public review information on, the actual performance of each grantee with respect to the levels achieved for each of the core indicators of performance, compared to the expected levels of performance established under subsection (a)(2)(C) (including any adjustments to such levels made in accordance with subsection (a)(2)(D)); and
-
-(2) annually publish and make available for public review information on the actual performance of each grantee with respect to the levels achieved for each of the additional indicators of performance.
+**(c) Evaluation** The Secretary shall annually evaluate, and publish and make available for public review information on, the actual performance of each grantee with respect to the levels achieved for each of the core indicators of performance, compared to the expected levels of performance established under subsection (a)(2)(B) (including any adjustments to such levels made in accordance with subsection (a)(2)(E)).
 
 **(d) Technical assistance and corrective efforts**
 
 (1) **Initial determinations**
 
-  (A) *In general* — As soon as practicable after July 1, 2007, the Secretary shall determine if a grantee under this subchapter has, for program year 2006—
+  (A) *In general* — As soon as practicable after July 1, 2016, the Secretary shall determine if a grantee under this subchapter has, for program year 2016, met the expected levels of performance established under subsection (a)(2)(B) (including any adjustments to such levels made in accordance with subsection (a)(2)(E)) for the core indicators of performance.
 
-    (i) met the expected levels of performance established under subsection (a)(2)(C) (including any adjustments to such levels made in accordance with subsection (a)(2)(D)) for the core indicators of performance described in subparagraphs (A), (C), (D), and (E) of subsection (b)(1); and
-
-    (ii) achieved the applicable percentage specified in subsection (a)(2)(E)(ii) for the core indicator of performance described in subsection (b)(1)(B).
-
-  (B) *Technical assistance* — If the Secretary determines that the grantee, for program year 2006—
-
-    (i) failed to meet the expected levels of performance described in subparagraph (A)(i); or
-
-    (ii) failed to achieve the applicable percentage described in subparagraph (A)(ii),
-    the Secretary shall provide technical assistance to assist the grantee to meet the expected levels of performance and achieve the applicable percentage.
+  (B) *Technical assistance* — If the Secretary determines that the grantee, for program year 2016, failed to meet the expected levels of performance described in subparagraph (A), the Secretary shall provide technical assistance to assist the grantee to meet the expected levels of performance.
 
 (2) **National grantees**
 
-  (A) *In general* — Not later than 120 days after the end of each program year, the Secretary shall determine if a national grantee awarded a grant under [section 3056(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3056/b&num=0&edition=prelim) in accordance with section 3056l of this title has met the expected levels of performance established under subsection (a)(2)(C) (including any adjustments to such levels made in accordance with subsection (a)(2)(D)) for the core indicators of performance described in subsection (b)(1).
+  (A) *In general* — Not later than 120 days after the end of each program year, the Secretary shall determine if a national grantee awarded a grant under [section 3056(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3056/b&num=0&edition=prelim) in accordance with section 3056l of this title has met the expected levels of performance established under subsection (a)(2)(B) (including any adjustments to such levels made in accordance with subsection (a)(2)(E)) for the core indicators of performance described in subsection (b)(1).
 
   (B) *Technical assistance and corrective action plan*
 
@@ -7104,11 +7171,13 @@ A prior section 3056j, Pub. L. 89–73, title V, § 512, as added Pub. L. 106–
 
     (ii) *Content* — The plan submitted under clause (i) shall detail the steps the grantee will take to meet the expected levels of performance in the next program year.
 
-    (iii) *Recompetition* — Any grantee who has failed to meet the expected levels of performance for 4 consecutive years (beginning with program year 2007) shall not be allowed to compete in the subsequent grant competition under section 3056l of this title following the fourth consecutive year of failure but may compete in the next such grant competition after that subsequent competition.
+    (iii) *Recompetition* — Any grantee who has failed to meet the expected levels of performance for 4 consecutive years shall not be allowed to compete in the subsequent grant competition under section 3056l of this title following the fourth consecutive year of failure but may compete in the next such grant competition after that subsequent competition.
+
+    (iv) *Use of core indicators* — For purposes of assessing grantee performance under this subparagraph before program year 2017, the Secretary shall use the core indicators of performance in effect at the time of the award and the most recent corresponding expected levels of performance.
 
 (3) **State grantees**
 
-  (A) *In general* — Not later than 120 days after the end of each program year, the Secretary shall determine if a State grantee allotted funds under [section 3056d(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3056d/e&num=0&edition=prelim) has met the expected levels of performance established under subsection (a)(2)(C) (including any adjustments to such levels made in accordance with subsection (a)(2)(D)) for the core indicators of performance described in subsection (b)(1).
+  (A) *In general* — Not later than 120 days after the end of each program year, the Secretary shall determine if a State grantee allotted funds under [section 3056d(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3056d/e&num=0&edition=prelim) has met the expected levels of performance established under subsection (a)(2)(B) (including any adjustments to such levels made in accordance with subsection (a)(2)(E)) for the core indicators of performance described in subsection (b)(1).
 
   (B) *Technical assistance and corrective action plan*
 
@@ -7116,23 +7185,72 @@ A prior section 3056j, Pub. L. 89–73, title V, § 512, as added Pub. L. 106–
 
     (ii) *Content* — The plan submitted under clause (i) shall detail the steps the State will take to meet the expected levels of performance in the next program year.
 
-    (iii) *Competition* — If the Secretary determines that the State fails to meet the expected levels of performance described in subparagraph (A) for 3 consecutive program years (beginning with program year 2007), the Secretary shall provide for the conduct by the State of a competition to award the funds allotted to the State under [section 3056d(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3056d/e&num=0&edition=prelim) for the first full program year following the Secretary’s determination.
+    (iii) *Competition* — If the Secretary determines that the State fails to meet the expected levels of performance described in subparagraph (A) for 3 consecutive program years, the Secretary shall provide for the conduct by the State of a competition to award the funds allotted to the State under [section 3056d(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3056d/e&num=0&edition=prelim) for the first full program year following the Secretary’s determination.
 
-(4) **Special rule for establishment and implementation** — The Secretary shall establish and implement the core measures of performance and additional indicators of performance described in this section, including all required indicators described in subsection (b), not later than July 1, 2007.
+(4) **Special rule for implementation** — The Secretary shall implement the core measures of performance described in this section not later than December 31, 2017.
 
-**(e) Impact on grant competition** The Secretary may not publish a notice announcing a grant competition under this subchapter, and solicit proposals for grants, until the day that is the later of—
-
-(1) the date on which the Secretary implements the core measures of performance and additional indicators of performance described in this section; and
-
-(2) January 1, 2010.
+**(e) Impact on grant competition** Effective on January 1, 2018, the Secretary may not publish a notice announcing a grant competition under this subchapter, or solicit proposals for grants, until the day on which the Secretary implements the core measures of performance.
 
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (a)(2)(D)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+[Section 3141 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3141&num=0&edition=prelim), referred to in subsec. (a)(2)(D)(ii), was in the original a reference to section 116 of the Workforce Investment and Opportunity Act and was translated as meaning section 116 of the Workforce Innovation and Opportunity Act, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 A prior section 3056k, Pub. L. 89–73, title V, § 513, as added Pub. L. 106–501, title V, § 501, Nov. 13, 2000, 114 Stat. 2281, related to performance measures, prior to the general amendment of this subchapter by Pub. L. 109–365.
+
+#### Amendments
+2016—Subsec. (a). Pub. L. 114–144, § 6(d)(1)(A), struck out “and indicators” after “Measures” in heading.
+
+Subsec. (a)(1). Pub. L. 114–144, § 6(d)(1)(B), struck out “and indicators” after “measures” in heading and “and additional indicators of performance” after “measures of performance” in two places in text.
+
+Subsec. (a)(2)(A). Pub. L. 114–144, § 6(d)(1)(C)(i), substituted “Composition of measures” for “Composition of measures and indicators” in heading, struck out cl. (i) designation and heading, and struck out cl. (ii). Prior to amendment, text of cl. (ii) read as follows: “The additional indicators of performance established by the Secretary in accordance with paragraph (1) shall be the additional indicators of performance specified in subsection (b)(2).”
+
+Subsec. (a)(2)(B). Pub. L. 114–144, § 6(d)(1)(C)(iii), redesignated subpar. (C) as (B), substituted “subparagraph (A)” for “subparagraph (A)(i)”, and struck out “The agreement shall take into account the requirement of subparagraph (B) and the factors described in subparagraph (D), and other appropriate factors as determined by the Secretary, and shall be consistent with the requirements of subparagraph (E).” before “Funds may”. Former subpar. (B) struck out.
+
+Pub. L. 114–144, § 6(d)(1)(C)(ii), struck out subpar. (B). Text read as follows: “The measures described in subparagraph (A)(i) shall be designed to promote continuous improvement in performance.”
+
+Subsec. (a)(2)(C) to (E). Pub. L. 114–144, § 6(d)(1)(C)(iv), added subpars. (C) to (E) and struck out former subpars. (D) and (E) which related to adjustment of expected levels of performance and placement into unsubsidized employment, respectively. Former subpar. (C) redesignated (B).
+
+Subsec. (a)(3). Pub. L. 114–144, § 6(d)(1)(D), struck out “and to report information on the additional indicators of performance” after “measures of performance”.
+
+Subsec. (b)(1). Pub. L. 114–144, § 6(d)(2)(A)(i), substituted “subsection (a)(2)(A)” for “subsection (a)(2)(A)(i)” in introductory provisions.
+
+Subsec. (b)(1)(B) to (F). Pub. L. 114–144, § 6(d)(2)(A)(ii), added subpars. (B) to (F) and struck out former subpars. (B) to (E) which read as follows:
+
+“(B) entry into unsubsidized employment;
+
+“(C) retention in unsubsidized employment for 6 months;
+
+“(D) earnings; and
+
+“(E) the number of eligible individuals served, including the number of participating individuals described in subsection (a)(3)(B)(ii) or (b)(2) of section 3056p of the title.”
+
+Subsec. (b)(2), (3). Pub. L. 114–144, § 6(d)(2)(B)–(D), redesignated par. (3) as (2), substituted “paragraph (1)” for “paragraphs (1) and (2)”, and struck out former par. (2) which related to additional indicators of performance.
+
+Subsec. (c). Pub. L. 114–144, § 6(d)(3), substituted “shall” for “shall—”, struck out par. (1) designation before “annually evaluate”, substituted “subsection (a)(2)(B)” for “subsection (a)(2)(C)” and “subsection (a)(2)(E)).” for “subsection (a)(2)(D)); and”, and struck out par. (2) which read as follows: “annually publish and make available for public review information on the actual performance of each grantee with respect to the levels achieved for each of the additional indicators of performance.”
+
+Subsec. (d)(1)(A). Pub. L. 114–144, § 6(d)(4)(A)(i), substituted “July 1, 2016” for “July 1, 2007” and “year 2016,” for “year 2006—”; struck out cl. (i) designation before “met”; substituted “subsection (a)(2)(B)” for “subsection (a)(2)(C)”, “subsection (a)(2)(E)” for “subsection (a)(2)(D)”, and “indicators of performance.” for “indicators of performance described in subparagraphs (A), (C), (D), and (E) of subsection (b)(1); and”; and struck out cl. (ii) which read as follows: “achieved the applicable percentage specified in subsection (a)(2)(E)(ii) for the core indicator of performance described in subsection (b)(1)(B).”
+
+Subsec. (d)(1)(B). Pub. L. 114–144, § 6(d)(4)(A)(ii), substituted “year 2016,” for “year 2006—” and “subparagraph (A),” for “subparagraph (A)(i); or” and struck out cl. (i) designation before “failed”, “and achieve the applicable percentage” before period at end, and cl. (ii) “failed to achieve the applicable percentage described in subparagraph (A)(ii),” before “the Secretary shall provide”.
+
+Subsec. (d)(2)(A). Pub. L. 114–144, § 6(d)(4)(B)(i), substituted “(a)(2)(B)” for “(a)(2)(C)” and “(a)(2)(E)” for “(a)(2)(D)”.
+
+Subsec. (d)(2)(B)(iii). Pub. L. 114–144, § 6(d)(4)(B)(ii)(I), struck out “(beginning with program year 2007)” after “4 consecutive years”.
+
+Subsec. (d)(2)(B)(iv). Pub. L. 114–144, § 6(d)(4)(B)(ii)(II), added cl. (iv).
+
+Subsec. (d)(3)(A). Pub. L. 114–144, § 6(d)(4)(C)(i), substituted “(a)(2)(B)” for “(a)(2)(C)” and “(a)(2)(E)” for “(a)(2)(D)”.
+
+Subsec. (d)(3)(B)(iii). Pub. L. 114–144, § 6(d)(4)(C)(ii), struck out “(beginning with program year 2007)” after “3 consecutive program years”.
+
+Subsec. (d)(4). Pub. L. 114–144, § 6(d)(4)(D), amended par. (4) generally. Prior to amendment, text read as follows: “The Secretary shall establish and implement the core measures of performance and additional indicators of performance described in this section, including all required indicators described in subsection (b), not later than July 1, 2007.”
+
+Subsec. (e). Pub. L. 114–144, § 6(d)(5), amended subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary may not publish a notice announcing a grant competition under this subchapter, and solicit proposals for grants, until the day that is the later of—
+
+“(1) the date on which the Secretary implements the core measures of performance and additional indicators of performance described in this section; and
+
+“(2) January 1, 2010.”
 
 
 <a id="section-3056l"></a>
@@ -7153,7 +7271,7 @@ A prior section 3056k, Pub. L. 89–73, title V, § 513, as added Pub. L. 106–
 
 (3) The applicant’s ability to administer a project that moves eligible individuals into unsubsidized employment.
 
-(4) The applicant’s prior performance, if any, in meeting core measures of performance and addressing additional indicators of performance under this subchapter and the applicant’s ability to address core indicators of performance and additional indicators of performance under this subchapter and under other Federal or State programs in the case of an applicant that has not previously received a grant under this subchapter.
+(4) The applicant’s prior performance, if any, in meeting core measures of performance under this subchapter and the applicant’s ability to address core indicators of performance under this subchapter and under other Federal or State programs in the case of an applicant that has not previously received a grant under this subchapter.
 
 (5) The applicant’s ability to move individuals with multiple barriers to employment, including individuals described in subsection (a)(3)(B)(ii) or (b)(2) of [section 3056p of this title](./chapter-035-programs-for-older-americans.md#section-3056p), into unsubsidized employment.
 
@@ -7225,6 +7343,9 @@ The Debt Collection Improvement Act of 1996, referred to in subsec. (d)(6), is s
 #### Prior Provisions
 A prior section 3056l, Pub. L. 89–73, title V, § 514, as added Pub. L. 106–501, title V, § 501, Nov. 13, 2000, 114 Stat. 2282, related to competitive requirements relating to grant awards, prior to the general amendment of this subchapter by Pub. L. 109–365.
 
+#### Amendments
+2016—Subsec. (c)(4). Pub. L. 114–144 struck out “and addressing additional indicators of performance” after “measures of performance” and “and additional indicators of performance” after “core indicators of performance”.
+
 
 <a id="section-3056m"></a>
 ## § 3056m. Report on service to minority individuals
@@ -7273,9 +7394,9 @@ A prior section 3056n, Pub. L. 89–73, title V, § 516, as added Pub. L. 106–
 
 <a id="section-3056o"></a>
 ## § 3056o. Authorization of appropriations
-**(a) In general** There are authorized to be appropriated to carry out this subchapter such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.
+**(a) In general** There are authorized to be appropriated to carry out this subchapter $445,189,405 for fiscal year 2017, $454,499,494 for fiscal year 2018, and $463,809,605 for fiscal year 2019.
 
-**(b) Obligation** Amounts appropriated under this section for any fiscal year shall be available for obligation during the annual period that begins on July 1 of the calendar year immediately following the beginning of such fiscal year and that ends on June 30 of the following calendar year. The Secretary may extend the period during which such amounts may be obligated or expended in the case of a particular organization or agency that receives funds under this subchapter if the Secretary determines that such extension is necessary to ensure the effective use of such funds by such organization or agency.
+**(b) Obligation** Amounts appropriated under this section for any fiscal year shall be available for Federal obligation during the annual period that begins on April 1 of the calendar year immediately following the beginning of such fiscal year and that ends on June 30 of the following calendar year. Such amounts obligated to grantees shall be available for obligation and expenditure by grantees during the program year that begins on July 1 of the calendar year immediately following the beginning of the fiscal year in which the amounts are appropriated and that ends on June 30 of the following calendar year. The Secretary may extend the period during which such amounts may be obligated or expended in the case of a particular organization or agency that receives funds under this subchapter if the Secretary determines that such extension is necessary to ensure the effective use of such funds by such organization or agency.
 
 **(c) Recapturing funds** At the end of the program year, the Secretary may recapture any unexpended funds for the program year, and reobligate such funds within the 2 succeeding program years for—
 
@@ -7284,6 +7405,13 @@ A prior section 3056n, Pub. L. 89–73, title V, § 516, as added Pub. L. 106–
 (2) technical assistance; or
 
 (3) grants or contracts for any other activity under this subchapter.
+
+### Statutory Notes
+
+#### Amendments
+2016—Subsec. (a). Pub. L. 114–144, § 6(f)(1), substituted “$445,189,405 for fiscal year 2017, $454,499,494 for fiscal year 2018, and $463,809,605 for fiscal year 2019.” for “such sums as may be necessary for fiscal years 2007, 2008, 2009, 2010, and 2011.”
+
+Subsec. (b). Pub. L. 114–144, § 6(f)(2), substituted “April 1” for “July 1” and inserted “Federal” before “obligation during” and “Such amounts obligated to grantees shall be available for obligation and expenditure by grantees during the program year that begins on July 1 of the calendar year immediately following the beginning of the fiscal year in which the amounts are appropriated and that ends on June 30 of the following calendar year.” before “The Secretary may extend”.
 
 
 <a id="section-3056p"></a>
@@ -7330,13 +7458,15 @@ A prior section 3056n, Pub. L. 89–73, title V, § 516, as added Pub. L. 106–
 
 (4) **Income** — In this section, the term “income” means income received during the 12-month period (or, at the option of the grantee involved, the annualized income for the 6-month period) ending on the date an eligible individual submits an application to participate in a project carried out under this subchapter by such grantee.
 
-(5) **Pacific Island and Asian Americans** — The term “Pacific Island and Asian Americans” means Americans having origins in any of the original peoples of the Far East, Southeast Asia, the Indian Subcontinent, or the Pacific Islands.
+(5) **Local workforce development board; state workforce development board** — The terms “local workforce development board” and “State workforce development board” have the meanings given the terms “local board” and “State board”, respectively, in section 3 of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3102](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim)).
 
-(6) **Program** — The term “program” means the older American community service employment program established under this subchapter.
+(6) **Pacific Island and Asian Americans** — The term “Pacific Island and Asian Americans” means Americans having origins in any of the original peoples of the Far East, Southeast Asia, the Indian Subcontinent, or the Pacific Islands.
 
-(7) **Supportive services** — The term “supportive services” means services, such as transportation, child care, dependent care, housing, and needs-related payments, that are necessary to enable an individual to participate in activities authorized under this subchapter, consistent with the provisions of this subchapter.
+(7) **Program** — The term “program” means the older American community service employment program established under this subchapter.
 
-(8) **Unemployed** — The term “unemployed”, used with respect to a person or individual, means an individual who is without a job and who wants and is available for work, including an individual who may have occasional employment that does not result in a constant source of income.
+(8) **Supportive services** — The term “supportive services” means services, such as transportation, child care, dependent care, housing, and needs-related payments, that are necessary to enable an individual to participate in activities authorized under this subchapter, consistent with the provisions of this subchapter.
+
+(9) **Unemployed** — The term “unemployed”, used with respect to a person or individual, means an individual who is without a job and who wants and is available for work, including an individual who may have occasional employment that does not result in a constant source of income.
 
 **(b) Rule** Pursuant to regulations prescribed by the Secretary, an eligible individual shall have priority for the community service employment and other authorized activities provided under this subchapter if the individual—
 
@@ -7366,10 +7496,12 @@ The Social Security Act, referred to in subsec. (a)(3)(A), (B)(ii)(III), is act 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(2)(F), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2016—Subsec. (a)(5) to (9). Pub. L. 114–144 added par. (5) and redesignated former pars. (5) to (8) as (6) to (9), respectively.
+
 2014—Subsec. (b)(2)(F). Pub. L. 113–128 substituted “has failed to find employment after utilizing services provided under title I of the Workforce Innovation and Opportunity Act” for “has failed to find employment after utilizing services provided under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.)”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-3057"></a>
@@ -7388,13 +7520,17 @@ Payments may be made under this subchapter (after necessary adjustments, in the 
 
 There are authorized to be appropriated to carry out this subchapter—
 
-(1) for parts A and B of this subchapter, such sums as may be necessary for fiscal year 2007, and such sums as may be necessary for subsequent fiscal years; and
+(1) for parts A and B, $31,934,018 for fiscal year 2017, $32,601,843 for fiscal year 2018, and $33,269,670 for fiscal year 2019; and
 
-(2) for part C of this subchapter, $6,500,000 for fiscal year 2007, $6,800,000 for fiscal year 2008, $7,200,000 for fiscal year 2009, $7,500,000 for fiscal year 2010, and $7,900,000 for fiscal year 2011.
+(2) for part C, $7,718,566 for fiscal year 2017, $7,879,982 for fiscal year 2018, and $8,041,398 for fiscal year 2019.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Par. (1). Pub. L. 114–144, § 7(1), which directed substitution of “$31,934,018 for fiscal year 2017, $32,601,843 for fiscal year 2018, and $33,269,670 for fiscal year 2019;” for “such sums” and all that followed through the semicolon, was executed by making the substitution for “such sums as may be necessary for fiscal year 2007, and such sums as may be necessary for subsequent fiscal years;” to reflect the probable intent of Congress.
+
+Par. (2). Pub. L. 114–144, § 7(2), which directed amendment of par. (2) by substituting “$7,718,566 for fiscal year 2017, $7,879,982 for fiscal year 2018, and $8,041,398 for fiscal year 2019.” for “such sums” and all that followed through the period at the end, was executed by making the substitution for “$6,500,000 for fiscal year 2007, $6,800,000 for fiscal year 2008, $7,200,000 for fiscal year 2009, $7,500,000 for fiscal year 2010, and $7,900,000 for fiscal year 2011.” to reflect the probable intent of Congress. The words “such sums” did not appear in text following the amendment by Pub. L. 109–365, § 602(2).
+
 2006—Par. (1). Pub. L. 109–365, § 602(1), substituted “2007” for “2001”.
 
 Par. (2). Pub. L. 109–365, § 602(2), substituted “$6,500,000 for fiscal year 2007, $6,800,000 for fiscal year 2008, $7,200,000 for fiscal year 2009, $7,500,000 for fiscal year 2010, and $7,900,000 for fiscal year 2011” for “$5,000,000 for fiscal year 2001, and such sums as may be necessary for subsequent fiscal years”.
@@ -7407,7 +7543,7 @@ Par. (2). Pub. L. 109–365, § 602(2), substituted “$6,500,000 for fiscal yea
 <a id="section-3057b"></a>
 ## § 3057b. Statement of purpose
 
-It is the purpose of this subchapter to promote the delivery of supportive services, including nutrition services to American Indians, Alaskan Natives, and Native Hawaiians that are comparable to services provided under subchapter III of this chapter.
+It is the purpose of this subchapter to promote the delivery of supportive services, including nutrition services to American Indians, Alaskan Natives, and Native Hawaiians that are comparable to services provided under subchapter III.
 
 ### Statutory Notes
 
@@ -7456,7 +7592,7 @@ A prior section 3057a, Pub. L. 89–73, title VI, § 602, as added Pub. L. 95–
 
 (9) are served under this subchapter at a rate of less than 19 percent of the total national population of older individuals who are Indians living on Indian reservations; and
 
-(10) are served under subchapter III of this chapter at a rate of less than 1 percent of the total participants under that subchapter.
+(10) are served under subchapter III at a rate of less than 1 percent of the total participants under that subchapter.
 
 ### Statutory Notes
 
@@ -7487,7 +7623,7 @@ Pub. L. 100–175, title I, § 134(e), Nov. 29, 1987, 101 Stat. 942, directed Co
 
 **(b) Limitation** An Indian tribe represented by an organization specified in subsection (a) of this section shall be eligible for only one grant under this part for any fiscal year. Nothing in this subsection shall preclude an Indian tribe represented by an organization specified in subsection (a) of this section from receiving a grant under [section 3057k–11 of this title](./chapter-035-programs-for-older-americans.md#section-3057k-11).
 
-**(c) “Indian tribe” and “tribal organization” defined** For the purposes of this part the terms “Indian tribe” and “tribal organization” have the same meaning as in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim).
+**(c) “Indian tribe” and “tribal organization” defined** For the purposes of this part the terms “Indian tribe” and “tribal organization” have the same meaning as in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -7532,13 +7668,13 @@ A prior section 3057d, Pub. L. 89–73, title VI, § 605, as added Pub. L. 95–
 
 (7) provide a preference for older individuals who are Indians for full or part-time staff positions wherever feasible;
 
-(8) provide assurances that either directly or by way of grant or contract with appropriate entities nutrition services will be delivered to older individuals who are Indians represented by the tribal organization substantially in compliance with the provisions of part C of subchapter III of this chapter, except that in any case in which the need for nutritional services for older individuals who are Indians represented by the tribal organization is already met from other sources, the tribal organization may use the funds otherwise required to be expended under this paragraph for supportive services;
+(8) provide assurances that either directly or by way of grant or contract with appropriate entities nutrition services will be delivered to older individuals who are Indians represented by the tribal organization substantially in compliance with the provisions of part C of subchapter III, except that in any case in which the need for nutritional services for older individuals who are Indians represented by the tribal organization is already met from other sources, the tribal organization may use the funds otherwise required to be expended under this paragraph for supportive services;
 
-(9) provide that any legal or ombudsman services made available to older individuals who are Indians represented by the tribal organization will be substantially in compliance with the provisions of subchapter III of this chapter relating to the furnishing of similar services;
+(9) provide that any legal or ombudsman services made available to older individuals who are Indians represented by the tribal organization will be substantially in compliance with the provisions of subchapter III relating to the furnishing of similar services;
 
 (10) provide satisfactory assurance that fiscal control and fund accounting procedures will be adopted as may be necessary to assure proper disbursement of, and accounting for, Federal funds paid under this part to the tribal organization, including any funds paid by the tribal organization to a recipient of a grant or contract; and
 
-(11) contain assurances that the tribal organization will coordinate services provided under this part with services provided under subchapter III of this chapter in the same geographical area.
+(11) contain assurances that the tribal organization will coordinate services provided under this part with services provided under subchapter III in the same geographical area.
 
 **(b) Population statistics development** For the purpose of any application submitted under this part, the tribal organization may develop its own population statistics, with approval from the Bureau of Indian Affairs, in order to establish eligibility.
 
@@ -7692,7 +7828,7 @@ The Assistant Secretary may make grants to public and nonprofit private organiza
 
 (2) provide for the use of such methods of administration as are necessary for the proper and efficient administration of the program to be assisted;
 
-(3) provide assurances that the organization will coordinate its activities with the State agency on aging and with the activities carried out under subchapter III of this chapter in the same geographical area;
+(3) provide assurances that the organization will coordinate its activities with the State agency on aging and with the activities carried out under subchapter III in the same geographical area;
 
 (4) provide that the organization will make such reports in such form and containing such information as the Assistant Secretary may reasonably require, and comply with such requirements as the Assistant Secretary may impose to ensure the correctness of such reports;
 
@@ -7704,7 +7840,7 @@ The Assistant Secretary may make grants to public and nonprofit private organiza
 
 (8) provide a preference for Native Hawaiians 60 years of age and older for full or part-time staff positions wherever feasible;
 
-(9) provide that any legal or ombudsman services made available to older Native Hawaiians represented by the nonprofit private organization will be substantially in compliance with the provisions of subchapter III of this chapter relating to the furnishing and similar services; and
+(9) provide that any legal or ombudsman services made available to older Native Hawaiians represented by the nonprofit private organization will be substantially in compliance with the provisions of subchapter III relating to the furnishing and similar services; and
 
 (10) provide satisfactory assurances that the fiscal control and fund accounting procedures will be adopted as may be necessary to assure proper disbursement of, and accounting for, Federal funds paid under this part to the nonprofit private organization, including any funds paid by the organization to a recipient of a grant or contract.
 
@@ -7725,7 +7861,7 @@ The Assistant Secretary may make grants to public and nonprofit private organiza
 #### Amendments
 1993—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 
-1992—Subsec. (a)(3). Pub. L. 102–375, § 603, inserted before semicolon at end “and with the activities carried out under subchapter III of this chapter in the same geographical area”.
+1992—Subsec. (a)(3). Pub. L. 102–375, § 603, inserted before semicolon at end “and with the activities carried out under subchapter III in the same geographical area”.
 
 Subsec. (a)(7). Pub. L. 102–375, § 102(b)(4), substituted “information and assistance” for “information and referral”.
 
@@ -7747,7 +7883,7 @@ For the purpose of this part, the term “Native Hawaiian” means any individua
 
 <a id="section-3057m"></a>
 ## § 3057m. Program
-**(a) In general** The Assistant Secretary shall carry out a program for making grants to tribal organizations with applications approved under parts A and B of this subchapter, to pay for the Federal share of carrying out tribal programs, to enable the tribal organizations to provide multifaceted systems of the support services described in [section 3030s–1 of this title](./chapter-035-programs-for-older-americans.md#section-3030s-1) for caregivers described in [section 3030s–1 of this title](./chapter-035-programs-for-older-americans.md#section-3030s-1).
+**(a) In general** The Assistant Secretary shall carry out a program for making grants to tribal organizations with applications approved under parts A and B, to pay for the Federal share of carrying out tribal programs, to enable the tribal organizations to provide multifaceted systems of the support services described in [section 3030s–1 of this title](./chapter-035-programs-for-older-americans.md#section-3030s-1) for caregivers described in [section 3030s–1 of this title](./chapter-035-programs-for-older-americans.md#section-3030s-1).
 
 **(b) Requirements** In providing services under subsection (a) of this section, a tribal organization shall meet the requirements specified for an area agency on aging and for a State in the provisions of subsections (c), (d), and (e) of [section 3030s–1 of this title](./chapter-035-programs-for-older-americans.md#section-3030s-1) and of [section 3030s–2 of this title](./chapter-035-programs-for-older-americans.md#section-3030s-2). For purposes of this subsection, references in such provisions to a State program shall be considered to be references to a tribal program under this part.
 
@@ -7760,7 +7896,7 @@ A prior section 631 of Pub. L. 89–73 was renumbered section 641 and is classif
 <a id="section-3057n"></a>
 ## § 3057n. Administration
 
-In establishing regulations for the purpose of part A of this subchapter the Assistant Secretary shall consult with the Secretary of the Interior.
+In establishing regulations for the purpose of part A the Assistant Secretary shall consult with the Secretary of the Interior.
 
 ### Statutory Notes
 
@@ -7793,11 +7929,9 @@ Subchapter inapplicable with respect to fiscal year 1992, see section 905(b)(6) 
 
 <a id="section-3058a"></a>
 ## § 3058a. Authorization of appropriations
-**(a) Ombudsman program** There are authorized to be appropriated to carry out subpart II of this part, such sums as may be necessary for fiscal year 2007, and such sums as may be necessary for subsequent fiscal years.
+**(a) Ombudsman program** There are authorized to be appropriated to carry out subpart II of this part, $16,280,630 for fiscal year 2017, $16,621,101 for fiscal year 2018, and $16,961,573 for fiscal year 2019.
 
-**(b) Prevention of elder abuse, neglect, and exploitation** There are authorized to be appropriated to carry out subpart III of this part, such sums as may be necessary for fiscal year 2007, and such sums as may be necessary for subsequent fiscal years.
-
-**(c) Legal assistance development program** There are authorized to be appropriated to carry out subpart IV of this part, such sums as may be necessary for fiscal year 2007, and such sums as may be necessary for subsequent fiscal years.
+**(b) Other programs** There are authorized to be appropriated to carry out subparts III and IV, $4,891,876 for fiscal year 2017, $4,994,178 for fiscal year 2018, and $5,096,480 for fiscal year 2019.
 
 ### Statutory Notes
 
@@ -7807,6 +7941,12 @@ A prior section 3058a, Pub. L. 89–73, title VII, § 703, as added Pub. L. 98�
 A prior section 702 of Pub. L. 89–73 was classified to [section 3045a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3045a&num=0&edition=prelim) prior to repeal by Pub. L. 95–478.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–144, § 8(a)(1), which directed substitution of “$16,280,630 for fiscal year 2017, $16,621,101 for fiscal year 2018, and $16,961,573 for fiscal year 2019.” for “such sums” and all that followed through the period at the end, was executed by making the substitution for “such sums as may be necessary for fiscal year 2007, and such sums as may be necessary for subsequent fiscal years.” to reflect the probable intent of Congress.
+
+Subsec. (b). Pub. L. 114–144, § 8(a)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out subpart III of this part, such sums as may be necessary for fiscal year 2007, and such sums as may be necessary for subsequent fiscal years.”
+
+Subsec. (c). Pub. L. 114–144, § 8(a)(3), struck out subsec. (c). Text read as follows: “There are authorized to be appropriated to carry out subpart IV of this part, such sums as may be necessary for fiscal year 2007, and such sums as may be necessary for subsequent fiscal years.”
+
 2006—Pub. L. 109–365 substituted “2007” for “2001” in subsecs. (a) to (c).
 
 2000—Pub. L. 106–501 amended section catchline and text generally, substituting provisions authorizing appropriations for subparts II, III, and IV of this part for fiscal year 2001 and subsequent fiscal years for provisions authorizing appropriations for subparts II, III, IV, and V of this part for fiscal years 1992 through 1995.
@@ -7903,9 +8043,9 @@ Subsec. (d). Pub. L. 109–365, § 703(3), substituted “this part” for “th
 
   (C) *Minimum allotments for ombudsman and elder abuse programs*
 
-    (i) *Ombudsman program* — No State shall be allotted for a fiscal year, from the funds appropriated under [section 3058a of this title](./chapter-035-programs-for-older-americans.md#section-3058a) and made available to carry out subpart II of this part, less than the amount allotted to the State under [section 3024 of this title](./chapter-035-programs-for-older-americans.md#section-3024) in fiscal year 2000 to carry out the State Long-Term Care Ombudsman program under subchapter III of this chapter.
+    (i) *Ombudsman program* — No State shall be allotted for a fiscal year, from the funds appropriated under [section 3058a of this title](./chapter-035-programs-for-older-americans.md#section-3058a) and made available to carry out subpart II of this part, less than the amount allotted to the State under [section 3024 of this title](./chapter-035-programs-for-older-americans.md#section-3024) in fiscal year 2000 to carry out the State Long-Term Care Ombudsman program under subchapter III.
 
-    (ii) *Elder abuse programs* — No State shall be allotted for a fiscal year, from the funds appropriated under [section 3058a of this title](./chapter-035-programs-for-older-americans.md#section-3058a) and made available to carry out subpart III of this part, less than the amount allotted to the State under [section 3024 of this title](./chapter-035-programs-for-older-americans.md#section-3024) in fiscal year 2000 to carry out programs with respect to the prevention of elder abuse, neglect, and exploitation under subchapter III of this chapter.
+    (ii) *Elder abuse programs* — No State shall be allotted for a fiscal year, from the funds appropriated under [section 3058a of this title](./chapter-035-programs-for-older-americans.md#section-3058a) and made available to carry out subpart III of this part, less than the amount allotted to the State under [section 3024 of this title](./chapter-035-programs-for-older-americans.md#section-3024) in fiscal year 2000 to carry out programs with respect to the prevention of elder abuse, neglect, and exploitation under subchapter III.
 
   (D) *“State” defined* — For the purposes of this paragraph, the term “State” does not include Guam, American Samoa, the United States Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 
@@ -7942,12 +8082,12 @@ As used in this subchapter:
 
 (1) **Elder right** — The term “elder right” means a right of an older individual.
 
-(2) **Vulnerable elder rights protection activity** — The term “vulnerable elder rights protection activity” means an activity funded under part A of this subchapter.
+(2) **Vulnerable elder rights protection activity** — The term “vulnerable elder rights protection activity” means an activity funded under part A.
 
 ### Statutory Notes
 
 #### Amendments
-2000—Par. (2). Pub. L. 106–501 substituted “part A of this subchapter” for “subpart II, III, IV, or V of this subchapter”.
+2000—Par. (2). Pub. L. 106–501 substituted “part A” for “subpart II, III, IV, or V of this subchapter”.
 
 
 <a id="section-3058c"></a>
@@ -7998,7 +8138,7 @@ A State agency may carry out vulnerable elder rights protection activities eithe
 
 (1) an assurance that the State, in carrying out any subpart of this part for which the State receives funding under this part, will establish programs in accordance with the requirements of the subpart and this subpart;
 
-(2) an assurance that the State will hold public hearings, and use other means, to obtain the views of older individuals, area agencies on aging, recipients of grants under subchapter X of this chapter, and other interested persons and entities regarding programs carried out under this part;
+(2) an assurance that the State will hold public hearings, and use other means, to obtain the views of older individuals, area agencies on aging, recipients of grants under subchapter X, and other interested persons and entities regarding programs carried out under this part;
 
 (3) an assurance that the State, in consultation with area agencies on aging, will identify and prioritize statewide activities aimed at ensuring that older individuals have access to, and assistance in securing and maintaining, benefits and rights;
 
@@ -8132,7 +8272,12 @@ As used in this subpart:
 
 (5) **Representative** — The term “representative” includes an employee or volunteer who represents an entity designated under [section 3058g(a)(5)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3058g/a/5/A&num=0&edition=prelim) and who is individually designated by the Ombudsman.
 
-(6) **Resident** — The term “resident” means an older individual who resides in a long-term care facility.
+(6) **Resident** — The term “resident” means an individual who resides in a long-term care facility.
+
+### Statutory Notes
+
+#### Amendments
+2016—Par. (6). Pub. L. 114–144 struck out “older” before “individual”.
 
 
 <a id="section-3058ff"></a>
@@ -8163,13 +8308,13 @@ Nothing in this subchapter shall be construed to interfere with or abridge the r
 
   (B) carry out through the Office a State Long-Term Care Ombudsman program.
 
-(2) **Ombudsman** — The Office shall be headed by an individual, to be known as the State Long-Term Care Ombudsman, who shall be selected from among individuals with expertise and experience in the fields of long-term care and advocacy.
+(2) **Ombudsman** — The Office shall be headed by an individual, to be known as the State Long-Term Care Ombudsman, who shall be selected from among individuals with expertise and experience in the fields of long-term care and advocacy. The Ombudsman shall be responsible for the management, including the fiscal management, of the Office.
 
 (3) **Functions** — The Ombudsman shall serve on a full-time basis, and shall, personally or through representatives of the Office—
 
   (A) identify, investigate, and resolve complaints that—
 
-    (i) are made by, or on behalf of, residents; and
+    (i) are made by, or on behalf of, residents, including residents with limited or no decisionmaking capacity and who have no known legal representative, and if such a resident is unable to communicate consent for an Ombudsman to work on a complaint directly involving the resident, the Ombudsman shall seek evidence to indicate what outcome the resident would have communicated (and, in the absence of evidence to the contrary, shall assume that the resident wishes to have the resident’s health, safety, welfare, and rights protected) and shall work to accomplish that outcome; and
 
     (ii) relate to action, inaction, or decisions, that may adversely affect the health, safety, welfare, or rights of the residents (including the welfare and rights of the residents with respect to the appointment and activities of guardians and representative payees), of—
 
@@ -8183,7 +8328,7 @@ Nothing in this subchapter shall be construed to interfere with or abridge the r
 
   (C) inform the residents about means of obtaining services provided by providers or agencies described in subparagraph (A)(ii) or services described in subparagraph (B);
 
-  (D) ensure that the residents have regular and timely access to the services provided through the Office and that the residents and complainants receive timely responses from representatives of the Office to complaints;
+  (D) ensure that the residents have regular, timely, private, and unimpeded access to the services provided through the Office and that the residents and complainants receive timely responses from representatives of the Office to complaints;
 
   (E) represent the interests of the residents before governmental agencies and seek administrative, legal, and other remedies to protect the health, safety, welfare, and rights of the residents;
 
@@ -8203,9 +8348,11 @@ Nothing in this subchapter shall be construed to interfere with or abridge the r
 
     (ii) promote the development of citizen organizations, to participate in the program; and
 
-    (iii) provide technical support for the development of resident and family councils to protect the well-being and rights of residents; and
+    (iii) provide technical support for, actively encourage, and assist in the development of resident and family councils to protect the well-being and rights of residents;
 
-  (I) carry out such other activities as the Assistant Secretary determines to be appropriate.
+  (I) when feasible, continue to carry out the functions described in this section on behalf of residents transitioning from a long-term care facility to a home care setting; and
+
+  (J) carry out such other activities as the Assistant Secretary determines to be appropriate.
 
 (4) **Contracts and arrangements**
 
@@ -8237,9 +8384,11 @@ Nothing in this subchapter shall be construed to interfere with or abridge the r
 
       (II) facilitate the ability of the public to comment on the laws, regulations, policies, and actions;
 
-    (vi) support the development of resident and family councils; and
+    (vi) support, actively encourage, and assist in the development of resident and family councils;
 
-    (vii) carry out other activities that the Ombudsman determines to be appropriate.
+    (vii) identify, investigate, and resolve complaints described in clause (iii) that are made by or on behalf of residents with limited or no decisionmaking capacity and who have no known legal representative, and if such a resident is unable to communicate consent for an Ombudsman to work on a complaint directly involving the resident, the Ombudsman shall seek evidence to indicate what outcome the resident would have communicated (and, in the absence of evidence to the contrary, shall assume that the resident wishes to have the resident’s health, safety, welfare, and rights protected) and shall work to accomplish that outcome; and
+
+    (viii) carry out other activities that the Ombudsman determines to be appropriate.
 
   (C) *Eligibility for designation* — Entities eligible to be designated as local Ombudsman entities, and individuals eligible to be designated as representatives of such entities, shall—
 
@@ -8263,17 +8412,17 @@ Nothing in this subchapter shall be construed to interfere with or abridge the r
 
 (1) **In general** — The State shall ensure that representatives of the Office shall have—
 
-  (A) access to long-term care facilities and residents;
+  (A) private and unimpeded access to long-term care facilities and residents;
 
   (B)
 
-    (i) appropriate access to review the medical and social records of a resident, if—
+    (i) appropriate access to review all files, records, and other information concerning a resident, if—
 
       (I) the representative has the permission of the resident, or the legal representative of the resident; or
 
-      (II) the resident is unable to consent to the review and has no legal representative; or
+      (II) the resident is unable to communicate consent to the review and has no legal representative; or
 
-    (ii) access to the records as is necessary to investigate a complaint if—
+    (ii) access to the files, records, and information as is necessary to investigate a complaint if—
 
       (I) a legal guardian of the resident refuses to give the permission;
 
@@ -8287,6 +8436,8 @@ Nothing in this subchapter shall be construed to interfere with or abridge the r
 
 (2) **Procedures** — The State agency shall establish procedures to ensure the access described in paragraph (1).
 
+(3) **Health oversight agency** — For purposes of section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (including regulations issued under that section) ([42 U.S.C. 1320d–2](./chapter-007-social-security.md#section-1320d-2) note), the Ombudsman and a representative of the Office shall be considered a “health oversight agency,” so that release of residents’ individually identifiable health information to the Ombudsman or representative is not precluded in cases in which the requirements of clause (i) or (ii) of paragraph (1)(B), or the requirements of paragraph (1)(D), are otherwise met.
+
 **(c) Reporting system** The State agency shall establish a statewide uniform reporting system to—
 
 (1) collect and analyze data relating to complaints and conditions in long-term care facilities and to residents for the purpose of identifying and resolving significant problems; and
@@ -8299,17 +8450,17 @@ Nothing in this subchapter shall be construed to interfere with or abridge the r
 
   (C) the Assistant Secretary; and
 
-  (D) the National Ombudsman Resource Center established in section 3012(a)(21) 22 See References in Text note below. of this title.
+  (D) the National Ombudsman Resource Center established in [section 3012(a)(18) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3012/a/18&num=0&edition=prelim).
 
 **(d) Disclosure**
 
-(1) **In general** — The State agency shall establish procedures for the disclosure by the Ombudsman or local Ombudsman entities of files maintained by the program, including records described in subsection (b)(1) or (c) of this section.
+(1) **In general** — The State agency shall establish procedures for the disclosure by the Ombudsman or local Ombudsman entities of files, records, and other information maintained by the program, including records described in subsection (b)(1) or (c) of this section.
 
 (2) **Identity of complainant or resident** — The procedures described in paragraph (1) shall—
 
-  (A) provide that, subject to subparagraph (B), the files and records described in paragraph (1) may be disclosed only at the discretion of the Ombudsman (or the person designated by the Ombudsman to disclose the files and records); and
+  (A) provide that, subject to subparagraph (B), the files, records, and other information described in paragraph (1) may be disclosed only at the discretion of the Ombudsman (or the person designated by the Ombudsman to disclose the files, records, and other information);
 
-  (B) prohibit the disclosure of the identity of any complainant or resident with respect to whom the Office maintains such files or records unless—
+  (B) prohibit the disclosure of the identity of any complainant or resident with respect to whom the Office maintains such files, records, or other information unless—
 
     (i) the complainant or resident, or the legal representative of the complainant or resident, consents to the disclosure and the consent is given in writing;
 
@@ -8319,31 +8470,71 @@ Nothing in this subchapter shall be construed to interfere with or abridge the r
 
       (II) the consent is documented contemporaneously in a writing made by a representative of the Office in accordance with such requirements as the State agency shall establish; or
 
-    (iii) the disclosure is required by court order.
+    (iii) the disclosure is required by court order; and
+
+  (C) notwithstanding subparagraph (B), ensure that the Ombudsman may disclose information as needed in order to best serve residents with limited or no decisionmaking capacity who have no known legal representative and are unable to communicate consent, in order for the Ombudsman to carry out the functions and duties described in paragraphs (3)(A) and (5)(B) of subsection (a).
 
 **(e) Consultation** In planning and operating the program, the State agency shall consider the views of area agencies on aging, older individuals, and providers of long-term care.
 
-**(f) Conflict of interest** The State agency shall—
+**(f) Conflict of interest**
 
-(1) ensure that no individual, or member of the immediate family of an individual, involved in the designation of the Ombudsman (whether by appointment or otherwise) or the designation of an entity designated under subsection (a)(5) of this section, is subject to a conflict of interest;
+(1) **Individual conflict of interest** — The State agency shall—
 
-(2) ensure that no officer or employee of the Office, representative of a local Ombudsman entity, or member of the immediate family of the officer, employee, or representative, is subject to a conflict of interest;
+  (A) ensure that no individual, or member of the immediate family of an individual, involved in the designation of the Ombudsman (whether by appointment or otherwise) or the designation of an entity designated under subsection (a)(5), is subject to a conflict of interest;
 
-(3) ensure that the Ombudsman—
+  (B) ensure that no officer or employee of the Office, representative of a local Ombudsman entity, or member of the immediate family of the officer, employee, or representative, is subject to a conflict of interest; and
 
-  (A) does not have a direct involvement in the licensing or certification of a long-term care facility or of a provider of a long-term care service;
+  (C) ensure that the Ombudsman—
 
-  (B) does not have an ownership or investment interest (represented by equity, debt, or other financial relationship) in a long-term care facility or a long-term care service;
+    (i) does not have a direct involvement in the licensing or certification of a long-term care facility or of a provider of a long-term care service;
 
-  (C) is not employed by, or participating in the management of, a long-term care facility; and
+    (ii) does not have an ownership or investment interest (represented by equity, debt, or other financial relationship) in a long-term care facility or a long-term care service;
 
-  (D) does not receive, or have the right to receive, directly or indirectly, remuneration (in cash or in kind) under a compensation arrangement with an owner or operator of a long-term care facility; and
+    (iii) is not employed by, or participating in the management of, a long-term care facility or a related organization, and has not been employed by such a facility or organization within 1 year before the date of the determination involved;
 
-(4) establish, and specify in writing, mechanisms to identify and remove conflicts of interest referred to in paragraphs (1) and (2), and to identify and eliminate the relationships described in subparagraphs (A) through (D) of paragraph (3), including such mechanisms as—
+    (iv) does not receive, or have the right to receive, directly or indirectly, remuneration (in cash or in kind) under a compensation arrangement with an owner or operator of a long-term care facility;
 
-  (A) the methods by which the State agency will examine individuals, and immediate family members, to identify the conflicts; and
+    (v) does not have management responsibility for, or operate under the supervision of an individual with management responsibility for, adult protective services; and
 
-  (B) the actions that the State agency will require the individuals and such family members to take to remove such conflicts.
+    (vi) does not serve as a guardian or in another fiduciary capacity for residents of long-term care facilities in an official capacity (as opposed to serving as a guardian or fiduciary for a family member, in a personal capacity).
+
+(2) **Organizational conflict of interest**
+
+  (A) *In general* — The State agency shall comply with subparagraph (B)(i) in a case in which the Office poses an organizational conflict of interest, including a situation in which the Office is placed in an organization that—
+
+    (i) is responsible for licensing, certifying, or surveying long-term care services in the State;
+
+    (ii) is an association (or an affiliate of such an association) of long-term care facilities, or of any other residential facilities for older individuals;
+
+    (iii) provides long-term care services, including programs carried out under a Medicaid waiver approved under section 1115 of the Social Security Act ([42 U.S.C. 1315](./chapter-007-social-security.md#section-1315)) or under subsection (b) or (c) of section 1915 of the Social Security Act ([42 U.S.C. 1396n](./chapter-007-social-security.md#section-1396n)), or under a Medicaid State plan amendment under subsection (i), (j), or (k) of section 1915 of the Social Security Act ([42 U.S.C. 1396n](./chapter-007-social-security.md#section-1396n));
+
+    (iv) provides long-term care case management;
+
+    (v) sets rates for long-term care services;
+
+    (vi) provides adult protective services;
+
+    (vii) is responsible for eligibility determinations for the Medicaid program carried out under title XIX of the Social Security Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.);
+
+    (viii) conducts preadmission screening for placements in facilities described in clause (ii); or
+
+    (ix) makes decisions regarding admission or discharge of individuals to or from such facilities.
+
+  (B) *Identifying, removing, and remedying organizational conflict*
+
+    (i) *In general* — The State agency may not operate the Office or carry out the program, directly, or by contract or other arrangement with any public agency or nonprofit private organization, in a case in which there is an organizational conflict of interest (within the meaning of subparagraph (A)) unless such conflict of interest has been—
+
+      (I) identified by the State agency;
+
+      (II) disclosed by the State agency to the Assistant Secretary in writing; and
+
+      (III) remedied in accordance with this subparagraph.
+
+    (ii) *Action by Assistant Secretary* — In a case in which a potential or actual organizational conflict of interest (within the meaning of subparagraph (A)) involving the Office is disclosed or reported to the Assistant Secretary by any person or entity, the Assistant Secretary shall require that the State agency, in accordance with the policies and procedures established by the State agency under subsection (a)(5)(D)(iii)—
+
+      (I) remove the conflict; or
+
+      (II) submit, and obtain the approval of the Assistant Secretary for, an adequate remedial plan that indicates how the Ombudsman will be unencumbered in fulfilling all of the functions specified in subsection (a)(3).
 
 **(g) Legal counsel** The State agency shall ensure that—
 
@@ -8389,13 +8580,15 @@ Nothing in this subchapter shall be construed to interfere with or abridge the r
 
   (A) provide such information as the Office determines to be necessary to public and private agencies, legislators, and other persons, regarding—
 
-    (i) the problems and concerns of older individuals residing in long-term care facilities; and
+    (i) the problems and concerns of individuals residing in long-term care facilities; and
 
     (ii) recommendations related to the problems and concerns; and
 
   (B) make available to the public, and submit to the Assistant Secretary, the chief executive officer of the State, the State legislature, the State agency responsible for licensing or certifying long-term care facilities, and other appropriate governmental entities, each report prepared under paragraph (1);
 
-(4) strengthen and update procedures for the training of the representatives of the Office, including unpaid volunteers, based on model standards established by the Director of the Office of Long-Term Care Ombudsman Programs, in consultation with representatives of citizen groups, long-term care providers, and the Office, that—
+(4) ensure that the Ombudsman or a designee participates in training provided by the National Ombudsman Resource Center established in [section 3012(a)(18) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3012/a/18&num=0&edition=prelim);
+
+(5) strengthen and update procedures for the training of the representatives of the Office, including unpaid volunteers, based on model standards established by the Director of the Office of Long-Term Care Ombudsman Programs, in consultation with representatives of citizen groups, long-term care providers, and the Office, that—
 
   (A) specify a minimum number of hours of initial training;
 
@@ -8409,23 +8602,23 @@ Nothing in this subchapter shall be construed to interfere with or abridge the r
 
   (C) specify an annual number of hours of in-service training for all designated representatives;
 
-(5) prohibit any representative of the Office (other than the Ombudsman) from carrying out any activity described in subparagraphs (A) through (G) of subsection (a)(3) of this section unless the representative—
+(6) prohibit any representative of the Office (other than the Ombudsman) from carrying out any activity described in subparagraphs (A) through (G) of subsection (a)(3) of this section unless the representative—
 
-  (A) has received the training required under paragraph (4); and
+  (A) has received the training required under paragraph (5); and
 
   (B) has been approved by the Ombudsman as qualified to carry out the activity on behalf of the Office;
 
-(6) coordinate ombudsman services with the protection and advocacy systems for individuals with developmental disabilities and mental illnesses established under—
+(7) coordinate ombudsman services with the protection and advocacy systems for individuals with developmental disabilities and mental illnesses established under—
 
-  (A) subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [[42 U.S.C. 15041](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15041) et seq.]; and
+  (A) subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [[42 U.S.C. 15041](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15041) et seq.]; and
 
-  (B) the Protection and Advocacy for Mentally Ill Individuals Act of 1986 33 See References in Text note below. ([42 U.S.C. 10801](./chapter-114-protection-and-advocacy-for-individuals-with-mental-illness.md#section-10801) et seq.);
+  (B) the Protection and Advocacy for Mentally Ill Individuals Act of 1986 22 See References in Text note below. ([42 U.S.C. 10801](./chapter-114-protection-and-advocacy-for-individuals-with-mental-illness.md#section-10801) et seq.);
 
-(7) coordinate, to the greatest extent possible, ombudsman services with legal assistance provided under [section 3026(a)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a/2/C&num=0&edition=prelim), through adoption of memoranda of understanding and other means;
+(8) coordinate, to the greatest extent possible, ombudsman services with legal assistance provided under [section 3026(a)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3026/a/2/C&num=0&edition=prelim), through adoption of memoranda of understanding and other means;
 
-(8) coordinate services with State and local law enforcement agencies and courts of competent jurisdiction; and
+(9) coordinate services with State and local law enforcement agencies and courts of competent jurisdiction; and
 
-(9) permit any local Ombudsman entity to carry out the responsibilities described in paragraph (1), (2), (3), (6), or (7).
+(10) permit any local Ombudsman entity to carry out the responsibilities described in paragraph (1), (2), (3), (7), or (8).
 
 **(i) Liability** The State shall ensure that no representative of the Office will be liable under State law for the good faith performance of official duties.
 
@@ -8440,13 +8633,71 @@ Nothing in this subchapter shall be construed to interfere with or abridge the r
 ### Statutory Notes
 
 #### References in Text
-[Section 3012(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3012/a/21&num=0&edition=prelim), referred to in subsec. (c)(2)(D), was redesignated [section 3012(a)(18) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3012/a/18&num=0&edition=prelim) by Pub. L. 106–501, title II, § 201(1)(B), Nov. 13, 2000, 114 Stat. 2229.
+Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b)(3), is section 264(c) of Pub. L. 104–191, which is set out as a note under [section 1320d–2 of this title](./chapter-007-social-security.md#section-1320d-2).
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (h)(6)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of this title](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15001) and Tables.
+The Social Security Act, referred to in subsec. (f)(2)(A)(vii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
-The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (h)(6)(B), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, § 3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§ 10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10801 of this title](./chapter-114-protection-and-advocacy-for-individuals-with-mental-illness.md#section-10801) and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (h)(7)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of title I of the Act is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of this title](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15001) and Tables.
+
+The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (h)(7)(B), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, § 3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§ 10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10801 of this title](./chapter-114-protection-and-advocacy-for-individuals-with-mental-illness.md#section-10801) and Tables.
 
 #### Amendments
+2016—Subsec. (a)(2). Pub. L. 114–144, § 8(c)(1)(A), inserted at end “The Ombudsman shall be responsible for the management, including the fiscal management, of the Office.”
+
+Subsec. (a)(3)(A)(i). Pub. L. 114–144, § 8(c)(1)(B)(i), added cl. (i) and struck out former cl. (i) which read as follows: “are made by, or on behalf of, residents; and”.
+
+Subsec. (a)(3)(D). Pub. L. 114–144, § 8(c)(1)(B)(ii), substituted “regular, timely, private, and unimpeded” for “regular and timely”.
+
+Subsec. (a)(3)(H)(iii). Pub. L. 114–144, § 8(c)(1)(B)(iii), inserted “, actively encourage, and assist in” after “provide technical support for” and struck out “and” after semicolon at end.
+
+Subsec. (a)(3)(I), (J). Pub. L. 114–144, § 8(c)(1)(B)(iv), (v), added subpar. (I) and redesignated former subpar. (I) as (J).
+
+Subsec. (a)(5)(B)(vi). Pub. L. 114–144, § 8(c)(1)(C)(i), inserted “, actively encourage, and assist in” after “support” and struck out “and” after semicolon at end.
+
+Subsec. (a)(5)(B)(vii), (viii). Pub. L. 114–144, § 8(c)(1)(C)(ii), (iii), added cl. (vii) and redesignated former cl. (vii) as (viii).
+
+Subsec. (b)(1)(A). Pub. L. 114–144, § 8(c)(2)(A)(i), substituted “private and unimpeded access” for “access”.
+
+Subsec. (b)(1)(B)(i). Pub. L. 114–144, § 8(c)(2)(A)(ii)(I)(aa), substituted “all files, records, and other information concerning” for “the medical and social records of” in introductory provisions.
+
+Subsec. (b)(1)(B)(i)(II). Pub. L. 114–144, § 8(c)(2)(A)(ii)(I)(bb), substituted “to communicate consent” for “to consent”.
+
+Subsec. (b)(1)(B)(ii). Pub. L. 114–144, § 8(c)(2)(A)(ii)(II), substituted “the files, records, and information” for “the records” in introductory provisions.
+
+Subsec. (b)(3). Pub. L. 114–144, § 8(c)(2)(B), added par. (3).
+
+Subsec. (c)(2)(D). Pub. L. 114–144, § 8(c)(3), substituted “3012(a)(18)” for “3012(a)(21)”.
+
+Subsec. (d)(1). Pub. L. 114–144, § 8(c)(4)(A), substituted “files, records, and other information” for “files”.
+
+Subsec. (d)(2)(A). Pub. L. 114–144, § 8(c)(4)(B)(i), substituted “files, records, and other information” for “files and records” in two places and struck out “and” after semicolon at end.
+
+Subsec. (d)(2)(B). Pub. L. 114–144, § 8(c)(4)(B)(ii)(I), substituted “files, records, or other information” for “files or records” in introductory provisions.
+
+Subsec. (d)(2)(C). Pub. L. 114–144, § 8(c)(4)(B)(ii)(II), (iii), added subpar. (C).
+
+Subsec. (f). Pub. L. 114–144, § 8(c)(5), added subsec. (f) and struck out former subsec. (f) which related to conflict of interest.
+
+Subsec. (h)(3)(A)(i). Pub. L. 114–144, § 8(c)(6)(A), struck out “older” before “individuals”.
+
+Subsec. (h)(4). Pub. L. 114–144, § 8(c)(6)(D), added par. (4). Former par. (4) redesignated (5).
+
+Pub. L. 114–144, § 8(c)(6)(B), substituted “(4) strengthen and update” for “(4) strengthen and update”.
+
+Subsec. (h)(5), (6). Pub. L. 114–144, § 8(c)(6)(C), redesignated pars. (4) and (5) as (5) and (6), respectively. Former par. (6) redesignated (7).
+
+Subsec. (h)(6)(A). Pub. L. 114–144, § 8(c)(6)(E), substituted “paragraph (5)” for “paragraph (4)”.
+
+Subsec. (h)(7). Pub. L. 114–144, § 8(c)(6)(C), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+
+Subsec. (h)(7)(A). Pub. L. 114–144, § 8(c)(6)(F), substituted “subtitle C of title I of the” for “subtitle C of the”.
+
+Subsec. (h)(8), (9). Pub. L. 114–144, § 8(c)(6)(C), redesignated pars. (7) and (8) as (8) and (9), respectively. Former par. (9) redesignated (10).
+
+Subsec. (h)(10). Pub. L. 114–144, § 8(c)(6)(G), substituted “(7), or (8)” for “(6), or (7)”.
+
+Pub. L. 114–144, § 8(c)(6)(C), redesignated par. (9) as (10).
+
 2000—Subsec. (a)(1). Pub. L. 106–501, § 801(e)(2), substituted “[section 3058a of this title](./chapter-035-programs-for-older-americans.md#section-3058a) and made available to carry out this subpart” for “[section 3058a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3058a/a&num=0&edition=prelim)” in introductory provisions.
 
 Subsec. (a)(5)(C)(ii). Pub. L. 106–501, § 704(1), inserted “and not stand to gain financially through an action or potential action brought on behalf of individuals the Ombudsman serves” after “interest”.
@@ -8469,13 +8720,17 @@ Subsec. (j)(1). Pub. L. 103–171, § 3(a)(9)(B), substituted “Assistant Secre
 
 The Assistant Secretary shall issue and periodically update regulations respecting—
 
-(1) conflicts of interest by persons described in paragraphs (1) and (2) of [section 3058g(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3058g/f&num=0&edition=prelim); and
+(1) conflicts of interest by persons described in subparagraphs (A) and (B) of [section 3058g(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3058g/f/1&num=0&edition=prelim); and
 
-(2) the relationships described in subparagraphs (A) through (D) of [section 3058g(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3058g/f/3&num=0&edition=prelim).
+(2) the relationships described in clauses (i) through (vi) of [section 3058g(f)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3058g/f/1/C&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Amendments
+2016—Par. (1). Pub. L. 114–144, § 8(d)(1), substituted “subparagraphs (A) and (B) of section 3058g(f)(1)” for “paragraphs (1) and (2) of section 3058g(f)”.
+
+Par. (2). Pub. L. 114–144, § 8(d)(2), substituted “clauses (i) through (vi) of section 3058g(f)(1)(C)” for “subparagraphs (A) through (D) of section 3058g(f)(3)”.
+
 1993—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
 
 
@@ -8483,7 +8738,7 @@ The Assistant Secretary shall issue and periodically update regulations respecti
 ## § 3058i. Prevention of elder abuse, neglect, and exploitation
 **(a) Establishment** In order to be eligible to receive an allotment under [section 3058b of this title](./chapter-035-programs-for-older-americans.md#section-3058b) from funds appropriated under [section 3058a of this title](./chapter-035-programs-for-older-americans.md#section-3058a) and made available to carry out this subpart, a State agency shall, in accordance with this section, and in consultation with area agencies on aging, develop and enhance programs to address elder abuse, neglect, and exploitation.
 
-**(b) Use of allotments** The State agency shall use an allotment made under subsection (a) of this section to carry out, through the programs described in subsection (a) of this section, activities to develop, strengthen, and carry out programs for the prevention, detection, assessment, and treatment of, intervention in, investigation of, and response to elder abuse, neglect, and exploitation (including financial exploitation), including—
+**(b) Use of allotments** The State agency shall use an allotment made under subsection (a) of this section to carry out, through the programs described in subsection (a) of this section, activities to develop, strengthen, and carry out programs for the prevention, detection, assessment, and treatment of, intervention in, investigation of, and response to elder abuse, neglect, and exploitation, including—
 
 (1) providing for public education and outreach to identify and prevent elder abuse, neglect, and exploitation;
 
@@ -8493,15 +8748,17 @@ The Assistant Secretary shall issue and periodically update regulations respecti
 
 (4) promoting the development of information and data systems, including elder abuse reporting systems, to quantify the extent of elder abuse, neglect, and exploitation in the State;
 
-(5) conducting analyses of State information concerning elder abuse, neglect, and exploitation and identifying unmet service, enforcement, or intervention needs;
+(5) promoting the submission of data on elder abuse, neglect, and exploitation for the appropriate database of the Administration or another database specified by the Assistant Secretary;
 
-(6) conducting training for individuals, including caregivers described in part E of subchapter III of this chapter, professionals, and paraprofessionals, in relevant fields on the identification, prevention, and treatment of elder abuse, neglect, and exploitation, with particular focus on prevention and enhancement of self-determination and autonomy;
+(6) conducting analyses of State information concerning elder abuse, neglect, and exploitation and identifying unmet service, enforcement, or intervention needs;
 
-(7) providing technical assistance to programs that provide or have the potential to provide services for victims of elder abuse, neglect, and exploitation and for family members of the victims;
+(7) conducting training for individuals, including caregivers described in part E of subchapter III, professionals, and paraprofessionals, in relevant fields on the identification, prevention, and treatment of elder abuse, neglect, and exploitation, with particular focus on prevention and enhancement of self-determination and autonomy;
 
-(8) conducting special and on-going training, for individuals involved in serving victims of elder abuse, neglect, and exploitation, on the topics of self-determination, individual rights, State and Federal requirements concerning confidentiality, and other topics determined by a State agency to be appropriate;
+(8) providing technical assistance to programs that provide or have the potential to provide services for victims of elder abuse, neglect, and exploitation and for family members of the victims;
 
-(9) promoting the development of an elder abuse, neglect, and exploitation system—
+(9) conducting special and on-going training, for individuals involved in serving victims of elder abuse, neglect, and exploitation, on the topics of self-determination, individual rights, State and Federal requirements concerning confidentiality, and other topics determined by a State agency to be appropriate;
+
+(10) promoting the development of an elder abuse, neglect, and exploitation system—
 
   (A) that includes a State elder abuse, neglect, and exploitation law that includes provisions for immunity, for persons reporting instances of elder abuse, neglect, and exploitation, from prosecution arising out of such reporting, under any State or local law;
 
@@ -8515,13 +8772,13 @@ The Assistant Secretary shall issue and periodically update regulations respecti
 
     (i) such administrative procedures;
 
-    (ii) such personnel trained in the special problems of elder abuse, neglect, and exploitation prevention and treatment;
+    (ii) such personnel, such as forensic specialists, trained in the special problems of elder abuse, neglect, and exploitation prevention and treatment;
 
     (iii) such training procedures;
 
     (iv) such institutional and other facilities (public and private); and
 
-    (v) such related multidisciplinary programs and services,
+    (v) such related multidisciplinary programs and services, including programs and arrangements that protect against financial exploitation,
     as may be necessary or appropriate to ensure that the State will deal effectively with elder abuse, neglect, and exploitation cases in the State;
 
   (D) that preserves the confidentiality of records in order to protect the rights of older individuals;
@@ -8538,9 +8795,9 @@ The Assistant Secretary shall issue and periodically update regulations respecti
 
     (iii) prevention and treatment methods available to combat instances of elder abuse, neglect, and exploitation;
 
-(10) examining various types of shelters serving older individuals (in this paragraph referred to as “safe havens”), and testing various safe haven models for establishing safe havens (at home or elsewhere), that recognize autonomy and self-determination, and fully protect the due process rights of older individuals;
+(11) examining various types of shelters serving older individuals (in this paragraph referred to as “safe havens”), and testing various safe haven models for establishing safe havens (at home or elsewhere), that recognize autonomy and self-determination, and fully protect the due process rights of older individuals;
 
-(11) supporting multidisciplinary elder justice activities, such as—
+(12) supporting multidisciplinary elder justice activities, such as—
 
   (A) supporting and studying team approaches for bringing a coordinated multidisciplinary or interdisciplinary response to elder abuse, neglect, and exploitation, including a response from individuals in social service, health care, public safety, and legal disciplines;
 
@@ -8548,11 +8805,13 @@ The Assistant Secretary shall issue and periodically update regulations respecti
 
   (C) providing training, technical assistance, and other methods of support to groups carrying out multidisciplinary efforts at the State (referred to in some States as “State Working Groups”);
 
-  (D) broadening and studying various models for elder fatality and serious injury review teams, to make recommendations about their composition, protocols, functions, timing, roles, and responsibilities, with a goal of producing models and information that will allow for replication based on the needs of States and communities (other than the ones in which the review teams were used); and
+  (D) broadening and studying various models for elder fatality and serious injury review teams, to make recommendations about their composition, protocols, functions, timing, roles, and responsibilities, with a goal of producing models and information that will allow for replication based on the needs of States and communities (other than the ones in which the review teams were used);
 
   (E) developing best practices, for use in long-term care facilities, that reduce the risk of elder abuse for residents, including the risk of resident-to-resident abuse; and
 
-(12) addressing underserved populations of older individuals, such as—
+  (F) supporting and studying innovative practices in communities to develop partnerships across disciplines for the prevention, investigation, and prosecution of abuse, neglect, and exploitation; and
+
+(13) addressing underserved populations of older individuals, such as—
 
   (A) older individuals living in rural locations;
 
@@ -8584,7 +8843,7 @@ The Assistant Secretary shall issue and periodically update regulations respecti
 
 (1) not permit involuntary or coerced participation in such programs by alleged victims, abusers, or members of their households;
 
-(2) require that all information gathered in the course of receiving a report described in subsection (b)(9)(B)(i) of this section, and making a referral described in subsection (b)(9)(B)(ii) of this section, shall remain confidential except—
+(2) require that all information gathered in the course of receiving a report described in subsection (b)(10)(B)(i) of this section, and making a referral described in subsection (b)(10)(B)(ii) of this section, shall remain confidential except—
 
   (A) if all parties to such complaint or report consent in writing to the release of such information;
 
@@ -8615,6 +8874,24 @@ The Assistant Secretary shall issue and periodically update regulations respecti
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (b). Pub. L. 114–144, § 8(e)(1)(A), struck out “(including financial exploitation)” after “and exploitation” in introductory provisions.
+
+Subsec. (b)(5). Pub. L. 114–144, § 8(e)(1)(C), added par. (5). Former par. (5) redesignated (6).
+
+Subsec. (b)(6) to (10). Pub. L. 114–144, § 8(e)(1)(B), redesignated pars. (5) to (9) as (6) to (10), respectively. Former par. (10) redesignated (11).
+
+Subsec. (b)(10)(C)(ii). Pub. L. 114–144, § 8(e)(1)(D)(i), inserted “, such as forensic specialists,” after “such personnel”.
+
+Subsec. (b)(10)(C)(v). Pub. L. 114–144, § 8(e)(1)(D)(ii), inserted before comma at end “, including programs and arrangements that protect against financial exploitation”.
+
+Subsec. (b)(11), (12). Pub. L. 114–144, § 8(e)(1)(B), redesignated pars. (10) and (11) as (11) and (12), respectively. Former par. (12) redesignated (13).
+
+Subsec. (b)(12)(F). Pub. L. 114–144, § 8(e)(1)(E), added subpar. (F).
+
+Subsec. (b)(13). Pub. L. 114–144, § 8(e)(1)(B), redesignated par. (12) as (13).
+
+Subsec. (e)(2). Pub. L. 114–144, § 8(e)(2), substituted “subsection (b)(10)(B)(i)” for “subsection (b)(9)(B)(i)” and “subsection (b)(10)(B)(ii)” for “subsection (b)(9)(B)(ii)” in introductory provisions.
+
 2006—Subsec. (a). Pub. L. 109–365, § 702(1), substituted “programs to address” for “programs for the prevention of”.
 
 Subsec. (b). Pub. L. 109–365, § 702(2)(A), substituted “programs for the prevention, detection, assessment, and treatment of, intervention in, investigation of, and response to elder abuse, neglect, and exploitation (including financial exploitation), including—” for “programs for the prevention and treatment of elder abuse, neglect, and exploitation (including financial exploitation), including—” in introductory provisions.
@@ -8633,7 +8910,7 @@ Subsec. (b). Pub. L. 106–501, § 705(1)(A), in introductory provisions, insert
 
 Subsec. (b)(2). Pub. L. 106–501, § 705(1)(B), inserted “, State and local law enforcement systems, and courts of competent jurisdiction” after “service program”.
 
-Subsec. (b)(5). Pub. L. 106–501, § 705(1)(C), inserted “including caregivers described in part E of subchapter III of this chapter,” after “individuals,”.
+Subsec. (b)(5). Pub. L. 106–501, § 705(1)(C), inserted “including caregivers described in part E of subchapter III,” after “individuals,”.
 
 Subsec. (d)(8). Pub. L. 106–501, § 705(2), inserted “State and local” before “law enforcement programs” and “, and services provided by agencies and courts of competent jurisdiction” before period at end.
 

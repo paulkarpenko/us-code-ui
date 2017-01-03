@@ -36,7 +36,7 @@ source: >-
 
 (5) the term “affected employees” means employees who may reasonably be expected to experience an employment loss as a consequence of a proposed plant closing or mass layoff by their employer;
 
-(6) subject to subsection (b) of this section, the term “employment loss” means (A) an employment termination, other than a discharge for cause, voluntary departure, or retirement, (B) a layoff exceeding 6 months, or (C) a reduction in hours of work of more than 50 percent during each month of any 6-month period;
+(6) subject to subsection (b), the term “employment loss” means (A) an employment termination, other than a discharge for cause, voluntary departure, or retirement, (B) a layoff exceeding 6 months, or (C) a reduction in hours of work of more than 50 percent during each month of any 6-month period;
 
 (7) the term “unit of local government” means any general purpose political subdivision of a State which has the power to levy taxes and spend funds, as well as general corporate and police powers; and
 
@@ -46,7 +46,7 @@ source: >-
 
 (1) In the case of a sale of part or all of an employer’s business, the seller shall be responsible for providing notice for any plant closing or mass layoff in accordance with [section 2102 of this title](./chapter-023-worker-adjustment-and-retraining-notification.md#section-2102), up to and including the effective date of the sale. After the effective date of the sale of part or all of an employer’s business, the purchaser shall be responsible for providing notice for any plant closing or mass layoff in accordance with [section 2102 of this title](./chapter-023-worker-adjustment-and-retraining-notification.md#section-2102). Notwithstanding any other provision of this chapter, any person who is an employee of the seller (other than a part-time employee) as of the effective date of the sale shall be considered an employee of the purchaser immediately after the effective date of the sale.
 
-(2) Notwithstanding subsection (a)(6) of this section, an employee may not be considered to have experienced an employment loss if the closing or layoff is the result of the relocation or consolidation of part or all of the employer’s business and, prior to the closing or layoff—
+(2) Notwithstanding subsection (a)(6), an employee may not be considered to have experienced an employment loss if the closing or layoff is the result of the relocation or consolidation of part or all of the employer’s business and, prior to the closing or layoff—
 
   (A) the employer offers to transfer the employee to a different site of employment within a reasonable commuting distance with no more than a 6-month break in employment; or
 
@@ -100,7 +100,7 @@ If there is more than one such unit, the unit of local government which the empl
 Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(26)], substituted “to the State dislocated worker unit or office (referred to in [section 1661(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1661/b/2&num=0&edition=prelim)), or the State or entity designated by the State to carry out rapid response activities under [section 2864(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/a/2/A&num=0&edition=prelim), and the chief” for “to the State dislocated worker unit (designated or created under title III of the Job Training Partnership Act) and the chief”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
 #### Effective Date of 1998 Amendment
 Amendment by section 101(f) [title VIII, § 405(d)(26)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(18)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under [section 3502 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3502&num=0&edition=prelim), Government Organization and Employees.

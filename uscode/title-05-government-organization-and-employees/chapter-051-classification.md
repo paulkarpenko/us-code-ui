@@ -65,11 +65,13 @@ References in laws to fix pay in accordance with this chapter and subchapter III
 
   (vi) the National Security Agency, Department of Defense;
 
-  (vii) the Government Accountability Office; or 11 So in original. The word “or” probably should not appear.
+  (vii) the Government Accountability Office;
 
-  (ix) 22 So in original. Subsec. (a)(1) does not contain a cl. (viii). the Defense Intelligence Agency, Department of Defense; or
+  (viii) the Office of the Director of National Intelligence;
 
-  (x) the National Geospatial-Intelligence Agency, Department of Defense.33 So in original. The period probably should be a semicolon.
+  (ix) the Defense Intelligence Agency, Department of Defense; or
+
+  (x) the National Geospatial-Intelligence Agency, Department of Defense;
 
 (2) “employee” means an individual employed in or under an agency;
 
@@ -245,6 +247,8 @@ The Foreign Service Act of 1980, referred to in subsec. (c)(2), is Pub. L. 96–
 Level V of the Executive Schedule, referred to in subsec. (c)(25), is set out in [section 5316 of this title](./chapter-053-pay-rates-and-systems.md#section-5316).
 
 #### Amendments
+2015—Subsec. (a)(1)(vii), (viii), (x). Pub. L. 114–113 struck out “or” at end of cl. (vii), added cl. (viii), and substituted semicolon for period at end of cl. (x).
+
 2011—Subsec. (c)(30). Pub. L. 111–350 substituted “section 7105(a)(2), (c)(2), or (d)(2) of title 41” for “section 8 of the Contract Disputes Act of 1978”.
 
 2010—Subsec. (c)(5). Pub. L. 111–282 substituted “the United States Secret Service Uniformed Division” for “the Executive Protective Service”.
@@ -381,7 +385,7 @@ Amendment by section 801(a)(3)(D) of Pub. L. 95–454 effective on first day of 
 Amendment by section 906(2)(2) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 #### Effective Date of 1973 Amendment
-Amendment by Pub. L. 93–176 effective not later than beginning of first pay period which begins on or after 90th day following Dec. 5, 1973, see section 4 of Pub. L. 93–176, set out as a note under section 460 of the Appendix to Title 50, War and National Defense.
+Amendment by Pub. L. 93–176 effective not later than beginning of first pay period which begins on or after 90th day following Dec. 5, 1973, see section 4 of Pub. L. 93–176, set out as a note under [section 3809 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3809&num=0&edition=prelim), War and National Defense.
 
 #### Effective Date of 1970 Amendments
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding [section 101 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section101&num=0&edition=prelim), Postal Service.

@@ -236,7 +236,7 @@ Pub. L. 98–480, title II, § 201, Oct. 17, 1984, 98 Stat. 2245, provided that:
 
 <a id="section-130aa-3"></a>
 ## § 130aa–3. Withdrawals and expenditures
-**(a) Defrayment of expenses; restrictions on use of income or corpus; limits on withdrawals or expenditures** The University may withdraw and expend its endowment fund income to defray any expenses necessary to its operation, including expenses of operations and maintenance, administration, academic and support personnel, construction and renovation, community and student services programs, technical assistance, and research. No endowment fund income or corpus may be used for any type of support of the executive officers of the University or for any commercial enterprise or endeavor entered into after January 1, 1981. Except as provided in subsection (b) of this section, the University shall not, in the aggregate, withdraw or expend more than 50 per centum of the total aggregate endowment fund income earned prior to the time of withdrawal or expenditure.
+**(a) Defrayment of expenses; restrictions on use of income or corpus; limits on withdrawals or expenditures** The University may withdraw and expend its endowment fund income to defray any expenses necessary to its operation, including expenses of operations and maintenance, administration, academic and support personnel, construction and renovation, community and student services programs, technical assistance, and research. No endowment fund income or corpus may be used for any type of support of the executive officers of the University or for any commercial enterprise or endeavor entered into after January 1, 1981. Except as provided in subsection (b), the University shall not, in the aggregate, withdraw or expend more than 50 per centum of the total aggregate endowment fund income earned prior to the time of withdrawal or expenditure.
 
 **(b) Authority of Secretary; withdrawal or expenditure beyond limits; circumstances demonstrating necessity** The Secretary is authorized to permit the University to withdraw or expend more than 50 per centum of its total aggregate endowment income whenever the University demonstrates such withdrawal or expenditure is necessary because of—
 
@@ -263,7 +263,7 @@ Pub. L. 98–480, title II, § 201, Oct. 17, 1984, 98 Stat. 2245, provided that:
 
 (3) fails to account properly to the Secretary concerning investments and expenditures of its endowment fund corpus or income.
 
-**(b)** If the Secretary terminates a grant under subsection (a) of this section, the University shall return to the Treasury of the United States an amount equal to the sum of the original grant or grants under this subchapter 11 See Codification note below. plus any income earned thereon. The Secretary may direct the University to take such other appropriate measures to remedy any violation of this subchapter and to protect the financial interest of the United States.
+**(b)** If the Secretary terminates a grant under subsection (a), the University shall return to the Treasury of the United States an amount equal to the sum of the original grant or grants under this subchapter 11 See Codification note below. plus any income earned thereon. The Secretary may direct the University to take such other appropriate measures to remedy any violation of this subchapter and to protect the financial interest of the United States.
 
 ### Statutory Notes
 

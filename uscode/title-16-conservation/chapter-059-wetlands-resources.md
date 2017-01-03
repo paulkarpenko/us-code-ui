@@ -109,7 +109,7 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 ## § 3921. National wetlands priority conservation plan
 **(a) In general** The Secretary shall establish, and periodically review and revise, a national wetlands priority conservation plan which shall specify, on a region-by-region basis or other basis considered appropriate by the Secretary, the types of wetlands and interests in wetlands which should be given priority with respect to Federal and State acquisition.
 
-**(b) Consultation** The Secretary shall establish the plan required by subsection (a) of this section after consultation with—
+**(b) Consultation** The Secretary shall establish the plan required by subsection (a) after consultation with—
 
 (1) the Administrator of the Environmental Protection Agency;
 
@@ -119,7 +119,7 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 (4) (the chief executive officer of) each State.
 
-**(c) Factors to be considered** The Secretary, in establishing the plan required by subsection (a) of this section, shall consider—
+**(c) Factors to be considered** The Secretary, in establishing the plan required by subsection (a), shall consider—
 
 (1) the estimated proportion remaining of the respective types of wetlands which existed at the time of European settlement;
 
@@ -188,7 +188,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 (7) archive and make available for dissemination wetlands data and maps digitized under this section as such data and maps become available.
 
-**(b) Notice** The Secretary shall notify the appropriate State and local units of government at such time as he proposes to begin map preparation under subsection (a) of this section in an area. Such notice shall include, but is not limited to, the identification of the area to be mapped, the proposed schedule for completion, and the identification of a source for further information.
+**(b) Notice** The Secretary shall notify the appropriate State and local units of government at such time as he proposes to begin map preparation under subsection (a) in an area. Such notice shall include, but is not limited to, the identification of the area to be mapped, the proposed schedule for completion, and the identification of a source for further information.
 
 ### Statutory Notes
 
@@ -210,7 +210,7 @@ Subsec. (a)(6), (7). Pub. L. 102–440, § 305(3), (4), added pars. (6) and (7).
 
 (2) by September 30, 1987, a report regarding trends of wetlands in all other areas of the United States.
 
-**(b) Contents of reports** The reports required under subsection (a) of this section shall contain—
+**(b) Contents of reports** The reports required under subsection (a) shall contain—
 
 (1) an analysis of the factors responsible for wetlands destruction, degradation, protection and enhancement;
 

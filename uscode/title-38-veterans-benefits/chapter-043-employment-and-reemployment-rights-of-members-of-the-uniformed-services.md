@@ -211,7 +211,7 @@ For the purposes of this chapter—
 
 (12) The term “seniority” means longevity in employment together with any benefits of employment which accrue with, or are determined by, longevity in employment.
 
-(13) The term “service in the uniformed services” means the performance of duty on a voluntary or involuntary basis in a uniformed service under competent authority and includes active duty, active duty for training, initial active duty for training, inactive duty training, full-time National Guard duty, a period for which a person is absent from a position of employment for the purpose of an examination to determine the fitness of the person to perform any such duty, and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by [section 12503 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12503&num=0&edition=prelim) or [section 115 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section115&num=0&edition=prelim).
+(13) The term “service in the uniformed services” means the performance of duty on a voluntary or involuntary basis in a uniformed service under competent authority and includes active duty, active duty for training, initial active duty for training, inactive duty training, full-time National Guard duty, a period for which a person is absent from a position of employment for the purpose of an examination to determine the fitness of the person to perform any such duty, a period for which a System member of the National Urban Search and Rescue Response System is absent from a position of employment due to an appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by [section 12503 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12503&num=0&edition=prelim) or [section 115 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section115&num=0&edition=prelim).
 
 (14) The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and other territories of the United States (including the agencies and political subdivisions thereof).
 
@@ -225,9 +225,12 @@ For the purposes of this chapter—
 
   (D) the type of operation or operations of the employer, including the composition, structure, and functions of the work force of such employer; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the employer.
 
-(16) The term “uniformed services” means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the commissioned corps of the Public Health Service, and any other category of persons designated by the President in time of war or national emergency.
+(16) The term “uniformed services” means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the commissioned corps of the Public Health Service, System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and any other category of persons designated by the President in time of war or national emergency.
 
 ### Statutory Notes
+
+#### References in Text
+Section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in pars. (13) and (16), is classified to [section 5165f of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5165f&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Prior Provisions
 A prior section 4303, added Pub. L. 93–508, title IV, § 404(a), Dec. 3, 1974, 88 Stat. 1596, § 2023; amended Pub. L. 97–295, § 4(72), Oct. 12, 1982, 96 Stat. 1310; renumbered § 4303 and amended Pub. L. 102–568, title V, § 506(a), (c)(2), Oct. 29, 1992, 106 Stat. 4340, 4341, related to reemployment by the United States, by any territory, possession, or political subdivision thereof, or by the District of Columbia, prior to the general amendment of this chapter by Pub. L. 103–353. This section, as in effect on the day before Oct. 13, 1994, continues to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date under [section 4301 of this title](./chapter-043-employment-and-reemployment-rights-of-members-of-the-uniformed-services.md#section-4301).
@@ -235,6 +238,10 @@ A prior section 4303, added Pub. L. 93–508, title IV, § 404(a), Dec. 3, 1974,
 Another prior section 4303 was renumbered [section 7603 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7603).
 
 #### Amendments
+2016—Par. (13). Pub. L. 114–326, § 2(b)(2)(A), inserted “, a period for which a System member of the National Urban Search and Rescue Response System is absent from a position of employment due to an appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act” before “, and a period”.
+
+Par. (16). Pub. L. 114–326, § 2(b)(2)(B), inserted “System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act,” after “Public Health Service,”.
+
 2011—Par. (2). Pub. L. 112–56 inserted “the terms, conditions, or privileges of employment, including” after “means”.
 
 2010—Par. (2). Pub. L. 111–275, § 701(a), substituted “(including” for “(other than”.
@@ -365,7 +372,7 @@ Section effective Oct. 13, 1994, except as otherwise provided, see section 8 of 
 
 (4) performed by a member of a uniformed service who is—
 
-  (A) ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 of title 14;
+  (A) ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, 12304a, 12304b, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 of title 14;
 
   (B) ordered to or retained on active duty (other than for training) under any provision of law because of a war or national emergency declared by the President or the Congress, as determined by the Secretary concerned;
 
@@ -450,6 +457,8 @@ Section effective Oct. 13, 1994, except as otherwise provided, see section 8 of 
 A prior section 4312 was renumbered [section 7612 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7612).
 
 #### Amendments
+2015—Subsec. (c)(4)(A). Pub. L. 114–92 inserted “12304a, 12304b,” after “12304,”.
+
 2011—Subsec. (c)(4)(F). Pub. L. 112–81 added subpar. (F).
 
 1996—Subsec. (a). Pub. L. 104–275, § 311(4)(A), substituted “whose absence from a position of employment is necessitated” for “who is absent from a position of employment”.

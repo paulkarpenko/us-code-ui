@@ -149,7 +149,7 @@ Amendment by Pub. L. 108–447 applicable to fiscal year 2005 and each fiscal ye
 Amendment by Pub. L. 108–7 applicable to fiscal year 2003 and each fiscal year thereafter, see section 1(f) of Pub. L. 108–7, set out as a note under [section 6102 of this title](./chapter-061-senate-leadership.md#section-6102).
 
 #### Office of the President Pro Tempore Emeritus of the Senate
-Pub. L. 108–7, div. H, title I, § 7, Feb. 20, 2003, 117 Stat. 350, as amended by Pub. L. 108–447, div. G, title I, §§ 4, 13(b), Dec. 8, 2004, 118 Stat. 3169, 3171; Pub. L. 110–161, div. H, title I, § 2, Dec. 26, 2007, 121 Stat. 2221; Pub. L. 113–235, div. H, title I, § 2, Dec. 16, 2014, 128 Stat. 2525, provided that: “(a) Establishment.—There is established the Office of the President pro tempore emeritus of the Senate. “(b) Designation.—Any Member of the Senate who—“(1) is designated by the Senate as the President pro tempore emeritus of the United States Senate; and “(2) is serving as a Member of the Senate,“shall be the President pro tempore emeritus of the United States Senate. “(c) Appointment and Compensation of Employees.—The President pro tempore emeritus is authorized to appoint and fix the compensation of such employees as the President pro tempore emeritus determines appropriate. “(d) Expense Allowance.—There is authorized an expense allowance for the President pro tempore emeritus which shall not exceed $15,000 each fiscal year. The President pro tempore emeritus may receive the expense allowance: (1) as reimbursement for actual expenses incurred upon certification and documentation of such expenses by the President pro tempore emeritus; or (2) in equal monthly payments. Such amounts paid to the President pro tempore emeritus as reimbursement of actual expenses incurred upon certification and documentation under this subsection, shall not be reported as income, and the expenses so reimbursed shall not be allowed as a deduction under the Internal Revenue Code of 1986 [[26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.]. “(e) Effective Date.—This section shall take effect on the date of enactment of this Act [Feb. 20, 2003] and shall apply only with respect to the 108th Congress, the 109th Congress, the 110th Congress, and the 114th Congress.”
+Pub. L. 108–7, div. H, title I, § 7, Feb. 20, 2003, 117 Stat. 350, as amended by Pub. L. 108–447, div. G, title I, §§ 4, 13(b), Dec. 8, 2004, 118 Stat. 3169, 3171; Pub. L. 110–161, div. H, title I, § 2, Dec. 26, 2007, 121 Stat. 2221; Pub. L. 113–235, div. H, title I, § 2, Dec. 16, 2014, 128 Stat. 2525, provided that: “(a) Establishment.—There is established the Office of the President pro tempore emeritus of the Senate. “(b) Designation.—Any Member of the Senate who—“(1) is designated by the Senate as the President pro tempore emeritus of the United States Senate; and “(2) is serving as a Member of the Senate, shall be the President pro tempore emeritus of the United States Senate. “(c) Appointment and Compensation of Employees.—The President pro tempore emeritus is authorized to appoint and fix the compensation of such employees as the President pro tempore emeritus determines appropriate. “(d) Expense Allowance.—There is authorized an expense allowance for the President pro tempore emeritus which shall not exceed $15,000 each fiscal year. The President pro tempore emeritus may receive the expense allowance: (1) as reimbursement for actual expenses incurred upon certification and documentation of such expenses by the President pro tempore emeritus; or (2) in equal monthly payments. Such amounts paid to the President pro tempore emeritus as reimbursement of actual expenses incurred upon certification and documentation under this subsection, shall not be reported as income, and the expenses so reimbursed shall not be allowed as a deduction under the Internal Revenue Code of 1986 [[26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.]. “(e) Effective Date.—This section shall take effect on the date of enactment of this Act [Feb. 20, 2003] and shall apply only with respect to the 108th Congress, the 109th Congress, the 110th Congress, and the 114th Congress.”
 
 
 <a id="section-6116"></a>
@@ -432,13 +432,19 @@ Increases in compensation for Senate officers and employees under authority of F
 
 (2) The Chairman of the Majority or Minority Conference Committee of the Senate may, during any fiscal year, at his or her election transfer funds from the appropriation account for expenses, within the contingent fund of the Senate, for the Majority and Minority Conference Committees of the Senate, to the account from which salaries are payable for such committees.
 
-**(c) Availability of transferred funds** Any funds transferred under this section shall be—
+**(c) Transfer of funds by Chaplain of the Senate**
 
-(1) available for expenditure by such committee in like manner and for the same purposes as are other moneys which are available for expenditure by such committee from the account to which the funds were transferred; and
+(1) The Chaplain of the Senate may, during any fiscal year, at the election of the Chaplain of the Senate, transfer funds from the appropriation account for salaries for the Office of the Chaplain of the Senate to the account, within the contingent fund of the Senate, from which expenses are payable for the Office of the Chaplain.
 
-(2) made at such time or times as the Chairman shall specify in writing to the Senate Disbursing Office.
+(2) The Chaplain of the Senate may, during any fiscal year, at the election of the Chaplain of the Senate, transfer funds from the appropriation account for expenses, within the contingent fund of the Senate, for the Office of the Chaplain to the account from which salaries are payable for the Office of the Chaplain of the Senate.
 
-**(d) Notification to Committee on Appropriations** The Chairman of a committee transferring funds under this section shall notify the Committee on Appropriations of the Senate of the transfer.
+**(d) Availability of transferred funds** Any funds transferred under this section shall be—
+
+(1) available for expenditure by such committee or the Office of the Chaplain of the Senate, as the case may be, in like manner and for the same purposes as are other moneys which are available for expenditure by such committee or the Office of the Chaplain of the Senate, as the case may be, from the account to which the funds were transferred; and
+
+(2) made at such time or times as the Chairman or the Chaplain of the Senate, as the case may be, shall specify in writing to the Senate Disbursing Office.
+
+**(e) Notification to Committee on Appropriations** The Chairman of a committee or the Chaplain of the Senate, as the case may be, transferring funds under this section shall notify the Committee on Appropriations of the Senate of the transfer.
 
 ### Statutory Notes
 
@@ -448,6 +454,16 @@ Section was formerly classified to [section 61g–6a of this title](./chapter-00
 Section is from the Congressional Operations Appropriations Act, 1991, which is title I of the Legislative Branch Appropriations Act, 1991.
 
 #### Amendments
+2015—Subsec. (c). Pub. L. 114–113, § 2(2), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 114–113, § 2(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (d)(1). Pub. L. 114–113, § 2(3)(A), inserted “or the Office of the Chaplain of the Senate, as the case may be,” after “such committee” in two places.
+
+Subsec. (d)(2). Pub. L. 114–113, § 2(3)(B), inserted “or the Chaplain of the Senate, as the case may be,” after “the Chairman”.
+
+Subsec. (e). Pub. L. 114–113, § 2(1), (4), redesignated subsec. (d) as (e) and inserted “or the Chaplain of the Senate, as the case may be,” after “The Chairman of a committee”.
+
 1995—Pub. L. 104–53 amended section generally. Prior to amendment, section read as follows: “The Chairman of the Majority or Minority Conference Committee of the Senate may, during any fiscal year (commencing with the fiscal year ending September 30, 1991), at his election transfer not more than $275,000 from the appropriation account for salaries for the Conference of the Majority and the Conference of the Minority of the Senate, to the account, within the contingent fund of the Senate, from which expenses are payable under [section 61g–6 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-61g-6). Any transfer of funds under authority of the preceding sentence shall be made at such time or times as such chairman shall specify in writing to the Senate Disbursing Office. Any funds so transferred by the Chairman of the Majority or Minority Conference Committee shall be available for expenditure by such committee in like manner and for the same purposes as are other moneys which are available for expenditure by such committee from the account, within the contingent fund of the Senate, from which expenses are payable under [section 61g–6 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-61g-6).”
 
 1991—Pub. L. 102–90 substituted “$275,000” for “$75,000”.

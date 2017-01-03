@@ -83,7 +83,7 @@ Pub. L. 111–383, div. A, title V, § 514(a)(2), Jan. 7, 2011, 124 Stat. 4213, 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
 #### Effective Date
-Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-10302"></a>
@@ -162,6 +162,9 @@ Provisions similar to those in this section were contained in [section 5251(c) o
 
 Pub. L. 109–163, § 515(b)(1)(DD), substituted “Navy Reserve” for “Naval Reserve” in two places in text.
 
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-10304"></a>
 ## § 10304. Marine Corps Reserve Policy Board
@@ -172,6 +175,9 @@ A Marine Corps Reserve Policy Board shall be convened at least once annually at 
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 5252(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5252/c&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-10305"></a>

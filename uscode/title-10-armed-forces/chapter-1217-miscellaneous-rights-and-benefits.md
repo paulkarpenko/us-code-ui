@@ -17,7 +17,7 @@ Any Reserve who, before being ordered to active duty, was receiving compensation
 Provisions similar to those in this section were contained in [section 1033 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1033), prior to repeal by Pub. L. 103–337, § 1662(g)(2).
 
 #### Effective Date
-Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-12602"></a>
@@ -42,6 +42,9 @@ Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 3686 and 8686 of this title, prior to repeal by Pub. L. 103–337, § 1662(g)(2).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-12603"></a>

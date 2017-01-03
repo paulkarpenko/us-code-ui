@@ -901,7 +901,7 @@ Pub. L. 108–454, title IV, § 405(c), Dec. 10, 2004, 118 Stat. 3616, provided 
 ### Statutory Notes
 
 #### Authority of Secretary of Defense
-Pub. L. 104–106, div. B, title XXVIII, § 2822(c), Feb. 10, 1996, 110 Stat. 557, provided that: “(1) Reimbursement for buy down costs.—The Secretary of Defense shall reimburse the Secretary of Veterans Affairs for amounts paid by the Secretary of Veterans Affairs to mortgagees under [section 3708 of title 38](./chapter-037-housing-and-small-business-loans.md#section-3708), United States Code, as added by subsection (b). “(2) Designation of housing shortage areas.—For purposes of [section 3708 of title 38](./chapter-037-housing-and-small-business-loans.md#section-3708), United States Code, the Secretary of Defense may designate as a housing shortage area a military installation in the United States at which the Secretary determines there is a shortage of suitable housing to meet the military family needs of members of the Armed Forces and the dependents of such members. “(3) Report.—Not later than March 30, 1998, the Secretary shall submit to Congress a report regarding the effectiveness of the authority provided in [section 3708 of title 38](./chapter-037-housing-and-small-business-loans.md#section-3708), United States Code, in ensuring that members of the Armed Forces and their dependents have access to suitable housing. The report shall include the recommendations of the Secretary regarding whether the authority provided in this subsection should be extended beyond the date specified in paragraph (5). “(4) Earmark.—Of the amount provided in section 2405(a)(11)(B) [110 Stat. 538], $10,000,000 for fiscal year 1996 shall be available to carry out this subsection. “(5) Sunset.—This subsection shall not apply with respect to housing loans guaranteed after September 30, 1998, for which assistance payments are paid under [section 3708 of title 38](./chapter-037-housing-and-small-business-loans.md#section-3708), United States Code.”
+Pub. L. 104–106, div. B, title XXVIII, § 2822(c), Feb. 10, 1996, 110 Stat. 557, directed the Secretary of Defense to reimburse the Secretary of Veterans Affairs for interest rate buy down costs paid to mortgagees under this section and authorized the Secretary of Defense to designate housing shortage areas with respect to housing loans guaranteed on or before Sept. 30, 1998.
 
 
 <a id="section-3710"></a>
@@ -2032,7 +2032,7 @@ Section 1819 was renumbered [section 1812 of this title](./chapter-018-benefits-
 
 (1) The Secretary may, upon such terms and conditions as the Secretary considers appropriate, issue or approve the issuance of, and guarantee the timely payment of principal and interest on, certificates or other securities evidencing an interest in a pool of mortgage loans made in connection with the sale of properties acquired under this chapter.
 
-(2) The Secretary may not under this subsection guarantee the payment of principal and interest on certificates or other securities issued or approved after December 31, 2016.
+(2) The Secretary may not under this subsection guarantee the payment of principal and interest on certificates or other securities issued or approved after December 31, 2017.
 
 ### Statutory Notes
 
@@ -2040,6 +2040,8 @@ Section 1819 was renumbered [section 1812 of this title](./chapter-018-benefits-
 The Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.), referred to in subsec. (f), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2016—Subsec. (h)(2). Pub. L. 114–228 substituted “December 31, 2017” for “December 31, 2016”.
+
 2012—Subsec. (h)(2). Pub. L. 112–154 substituted “December 31, 2016” for “December 31, 2011”.
 
 2011—Subsec. (b). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)”.
@@ -2325,7 +2327,7 @@ Section effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out
 
 (1) The amount of the fee shall be determined from the loan fee table in paragraph (2). The fee is expressed as a percentage of the total amount of the loan guaranteed, insured, or made, or, in the case of a loan assumption, the unpaid principal balance of the loan on the date of the transfer of the property.
 
-(2) The loan fee table referred to in paragraph (1) is as follows: LOAN FEE TABLE Type of loanActive duty veteranReservistOther obligor (A)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed before January 1, 2004)2.002.75NA (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 1, 2004, and before October 1, 2004)2.202.40NA (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before September 30, 2024)2.152.40NA (A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after September 30, 2024)1.401.65NA (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before September 30, 2024)3.303.30NA (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after September 30, 2024)1.251.25NA (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before September 30, 2024)1.501.75NA (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after September 30, 2024)0.751.00NA (D)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before September 30, 2024)1.251.50NA (D)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after September 30, 2024)0.500.75NA (E) Interest rate reduction refinancing loan0.500.50NA (F) Direct loan under section 37111.001.00NA (G) Manufactured home loan under section 3712 (other than an interest rate reduction refinancing loan)1.001.00NA (H) Loan to Native American veteran under section 3762 (other than an interest rate reduction refinancing loan)1.251.25NA (I) Loan assumption under section 37140.500.500.50 (J) Loan under section 3733(a)2.252.252.25
+(2) The loan fee table referred to in paragraph (1) is as follows: LOAN FEE TABLE Type of loanActive dutyveteranReservistOtherobligor (A)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed before January 1, 2004)2.002.75NA (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 1, 2004, and before October 1, 2004)2.202.40NA (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before September 30, 2024)2.152.40NA (A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after September 30, 2024)1.401.65NA (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before September 30, 2024)3.303.30NA (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after September 30, 2024)1.251.25NA (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before September 30, 2024)1.501.75NA (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after September 30, 2024)0.751.00NA (D)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before September 30, 2024)1.251.50NA (D)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after September 30, 2024)0.500.75NA (E) Interest rate reduction refinancing loan0.500.50NA (F) Direct loan under section 37111.001.00NA (G) Manufactured home loan under section 3712 (other than an interest rate reduction refinancing loan)1.001.00NA (H) Loan to Native American veteran under section 3762 (other than an interest rate reduction refinancing loan)1.251.25NA (I) Loan assumption under section 37140.500.500.50 (J) Loan under section 3733(a)2.252.252.25
 
 (3) Any reference to a section in the “Type of loan” column in the loan fee table in paragraph (2) refers to a section of this title.
 
@@ -2751,11 +2753,15 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
   (D) For the purpose of determining the liability of the United States under a loan guaranty under paragraphs (5)(B), (6), (7)(B), and (8)(B), the amount of the total indebtedness with respect to such loan guaranty shall include, in any case in which there was an excessive delay caused by the Department of Veterans Affairs in the liquidation sale of the property securing such loan, any interest which had accrued as of the date of such sale and which would not be included, except for this subparagraph, in the calculation of such total indebtedness as a result of the specification of an earlier date under subparagraph (C)(i) of this paragraph.
 
-(11) This subsection shall apply to loans closed before October 1, 2015.
+(11) This subsection shall apply to loans closed before October 1, 2017.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (c)(11). Pub. L. 114–228 substituted “October 1, 2017” for “October 1, 2016”.
+
+2015—Subsec. (c)(11). Pub. L. 114–58 substituted “October 1, 2016” for “October 1, 2015”.
+
 2014—Subsec. (c)(11). Pub. L. 113–175 substituted “October 1, 2015” for “October 1, 2014”.
 
 2013—Subsec. (c)(11). Pub. L. 113–37 substituted “October 1, 2014” for “October 1, 2013”.
@@ -2900,13 +2906,13 @@ Pub. L. 102–389, title I, Oct. 6, 1992, 106 Stat. 1574, provided in part: “T
 
 (6) The Secretary shall make a loan to finance the sale of real property described in paragraph (1) at an interest rate that is lower than the prevailing mortgage market interest rate in areas where, and to the extent, the Secretary determines, in light of prevailing conditions in the real estate market involved, that such lower interest rate is necessary in order to market the property competitively and is in the interest of the long-term stability and solvency of the Veterans Housing Benefit Program Fund established by [section 3722(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3722/a&num=0&edition=prelim).
 
-(7) During the period that begins on December 16, 2003, and ends on September 30, 2015, the Secretary shall carry out the provisions of this subsection as if—
+(7) During the period that begins on December 16, 2003, and ends on September 30, 2017, the Secretary shall carry out the provisions of this subsection as if—
 
   (A) the references in the first sentence of paragraph (1) to “65 percent” and “may be financed” were references to “85 percent” and “shall be financed”, respectively;
 
   (B) the second sentence of paragraph (1) were repealed; and
 
-  (C) the reference in paragraph (2) to “September 30, 1990,” were a reference to “September 30, 2015,”.
+  (C) the reference in paragraph (2) to “September 30, 1990,” were a reference to “September 30, 2017,”.
 
 **(b)** The Secretary may not make a loan to finance a purchase of property acquired by the Secretary as a result of a default on a loan guaranteed under this chapter unless the purchaser meets the credit underwriting standards established under [section 3710(g)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3710/g/2/A&num=0&edition=prelim).
 
@@ -2925,6 +2931,10 @@ Pub. L. 102–389, title I, Oct. 6, 1992, 106 Stat. 1574, provided in part: “T
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a)(7). Pub. L. 114–228 substituted “September 30, 2017” for “September 30, 2016” in introductory provisions and in subpar. (C).
+
+2015—Subsec. (a)(7). Pub. L. 114–58 substituted “September 30, 2016” for “September 30, 2015” in introductory provisions and in subpar. (C).
+
 2014—Subsec. (a)(7). Pub. L. 113–175 substituted “September 30, 2015” for “September 30, 2014” in introductory provisions and in subpar. (C).
 
 2013—Subsec. (a)(7). Pub. L. 113–59 substituted “September 30, 2014” for “September 30, 2013” in introductory provisions and in subpar. (C).
@@ -3608,7 +3618,7 @@ For the purposes of this subchapter—
 
 (3) The term “Native American” means—
 
-  (A) an Indian, as defined in section 4(d) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/d&num=0&edition=prelim));
+  (A) an Indian, as defined in section 4(d) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/d&num=0&edition=prelim)); 11 See References in Text note below.
 
   (B) a native Hawaiian, as that term is defined in section 201(a)(7) of the Hawaiian Homes Commission Act, 1920 (Public Law 67–34; 42 Stat. 108);
 
@@ -3616,7 +3626,7 @@ For the purposes of this subchapter—
 
   (D) a Pacific Islander, within the meaning of the Native American Programs Act of 1974 ([42 U.S.C. 2991](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2991&num=0&edition=prelim) et seq.).
 
-(4) The term “tribal organization” shall have the meaning given such term in section 4(l) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)(l)) and shall include the Department of Hawaiian Homelands, in the case of native Hawaiians, and such other organizations as the Secretary may prescribe.
+(4) The term “tribal organization” shall have the meaning given such term in section 4(l) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)(l)) 1 and shall include the Department of Hawaiian Homelands, in the case of native Hawaiians, and such other organizations as the Secretary may prescribe.
 
 (5) The term “qualified non-Native American veteran” means a veteran who—
 
@@ -3627,9 +3637,13 @@ For the purposes of this subchapter—
 ### Statutory Notes
 
 #### References in Text
+Section 4(d) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/d&num=0&edition=prelim)), referred to in par. (3)(A), was classified to [section 450b(d) of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/d&num=0&edition=prelim), Indians, prior to editorial reclassification as [section 5304(d) of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/d&num=0&edition=prelim).
+
 Section 201(a)(7) of the Hawaiian Homes Commission Act, 1920, referred to in par. (3)(B), was classified to [section 692 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section692&num=0&edition=prelim), Territories and Insular Possessions, and was omitted from the Code.
 
 The Native American Programs Act of 1974, referred to in par. (3)(D), is title VIII of Pub. L. 88–452, as added by Pub. L. 93–644, § 11, Jan. 4, 1975, 88 Stat. 2324, which is classified generally to subchapter VIII (§ 2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 2991 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2991&num=0&edition=prelim) and Tables.
+
+Section 4(l) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)(l)), referred to in par. (4), was classified to section 450b(l) of Title 25, prior to editorial reclassification as section 5304(l) of Title 25.
 
 #### Amendments
 2006—Pub. L. 109–233, § 104(a)(1), renumbered [section 3764 of this title](./chapter-037-housing-and-small-business-loans.md#section-3764) as this section.

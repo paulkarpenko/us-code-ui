@@ -150,7 +150,7 @@ This Act, referred to in subsec. (d)(7), means Pub. L. 92–532, which enacted t
 
 **(c) Plan review and approval**
 
-(1) **In general** — When a Board has developed a marine research plan, including amendments thereto, the Board shall submit the plan to the Administrator of the National Oceanic and Atmospheric Administration and the Administration of the Environmental Protection Agency, who shall jointly determine whether the plan meets the requirements of subsection (b) of this section.
+(1) **In general** — When a Board has developed a marine research plan, including amendments thereto, the Board shall submit the plan to the Administrator of the National Oceanic and Atmospheric Administration and the Administration of the Environmental Protection Agency, who shall jointly determine whether the plan meets the requirements of subsection (b).
 
 (2) **Time for approval or disapproval** — The Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency, shall jointly approve or disapprove such research plan within 120 days after receiving the plan.
 
@@ -229,7 +229,7 @@ The National Ocean Pollution Planning Act of 1978, referred to in subsec. (a)(2)
 
 (3) available data and information concerning ecosystem health within the region.
 
-**(b) Transmittal to Congress** Upon receipt of a report prepared by a Board under subsection (a) of this section, the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency shall transmit a copy of such report to the Committees on Commerce, Science, and Transportation and on Environment and Public Works of the Senate and to the Committee on Merchant Marine and Fisheries of the House of Representatives.
+**(b) Transmittal to Congress** Upon receipt of a report prepared by a Board under subsection (a), the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency shall transmit a copy of such report to the Committees on Commerce, Science, and Transportation and on Environment and Public Works of the Senate and to the Committee on Merchant Marine and Fisheries of the House of Representatives.
 
 ### Statutory Notes
 

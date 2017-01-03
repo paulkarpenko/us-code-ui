@@ -70,52 +70,11 @@ Transfer of functions of bureaus and reorganization, see note set out under [sec
 
 
 <a id="section-5133"></a>
-## § 5133. Bureau Chiefs: rank; pay and allowances; retirement
-**(a)** Unless appointed to a higher grade under another provision of law, an officer of the Navy, while serving as a chief of bureau, has the rank of rear admiral.
-
-**(b)** Except for an officer who is serving or has served in the grade of vice admiral under [section 5137(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5137/a&num=0&edition=prelim), an officer who is retired while serving as a chief of bureau, or who, after serving at least two and one-half years as chief of bureau, is retired after completion of that service while serving in a lower rank or grade, may, in the discretion of the President, be retired with the grade of rear admiral, and with retired pay based on that grade. An officer who is serving or has served in the grade of vice admiral under [section 5137(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5137/a&num=0&edition=prelim) may, upon retirement, be appointed by the President, by and with the advice and consent of the Senate, to the highest grade held by him while on the active list or active-duty list and with retired pay based on that grade.
-
-**(c)** Except in time of war, any officer of a staff corps who has served as a chief of bureau for a full term is exempt from sea duty.
+## § 5133. Repealed. Pub. L. 114–328, div. A, title V, § 502(z)(1), Dec. 23, 2016, 130 Stat. 2104]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised section | Source (U.S. Code) | Source (Statutes at Large) |
-| 5133(a) | [5 U.S.C. 441](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section441&num=0&edition=prelim) (less applicability to JAG). | July 1, 1918, ch. 114, 40 Stat. 717 (1st sentence on p. 717, less applicability to JAG). |
-|  | [5 U.S.C. 441a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section441a&num=0&edition=prelim) (as applicable to rank, pay and allowances). | June 20, 1940, ch. 400, § 1(c) (2d sentence, less applicability to retirement), 54 Stat. 493. |
-|  | [5 U.S.C. 439](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section439&num=0&edition=prelim) (last 39 words). | July 12, 1921, ch. 44, § 8 (2d par., last 42 words), 42 Stat. 140. |
-| 5133(b) | [5 U.S.C. 425a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section425a&num=0&edition=prelim) (as applicable to Chiefs of Bureaus). | June 22, 1938, ch. 567, 52 Stat. 839 (as applicable to Chiefs of Bureaus). |
-|  | [5 U.S.C. 441a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section441a&num=0&edition=prelim) (as applicable to retirement). | June 20, 1940, ch. 400, § 1(c) (2d sentence as applicable to retirement), 54 Stat. 493. |
-| 5133(c) | [34 U.S.C. 225](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section225&num=0&edition=prelim). | R.S. 1436. |
-
-In subsection (a), the language that incorporates the rank, pay, and allowances of chiefs of bureaus of the War Department for chiefs of bureaus is executed. Creation of the Department of the Air Force by the National Security Act of 1947, and the saving provisions in § 305 of that act, would relate chiefs of bureaus of the Navy to the corresponding officers of both the other military departments. Since there is now positive organizational law for both of those departments providing the grades of the departmental officers, and, since in the reorganization of the departments, there is no precise counterpart of the chief of a Navy bureau, it is inappropriate to continue the incorporation by reference. Subsection (a), therefore, provides that bureau chiefs are entitled to have the rank of rear admiral with pay and allowances of a rear admiral in the upper half, which, under § 516 of the Officer Personnel Act of 1947, corresponds with major general. The subsection also recognizes the possibility of appointing an officer of the Marine Corps as Chief of the Bureau of Aeronautics by providing that such an appointee has the rank, pay, and allowances of a major general.
-
-#### Amendments
-1994—Pub. L. 103–337, § 504(b)(5), struck out “and Judge Advocate General” after “Chiefs” in section catchline.
-
-Subsec. (a). Pub. L. 103–337, § 504(b)(3)(A), struck out “or the Judge Advocate General” after “chief of bureau” and struck out at end “Unless appointed to a higher grade under another provision of law, an officer of the Marine Corps, while serving as Judge Advocate General, has the rank of major general.”
-
-Subsec. (b). Pub. L. 103–337, § 504(b)(3)(B), struck out “or the Judge Advocate General” after “chief of bureau” in two places and “or major general, as appropriate” after “grade of rear admiral”.
-
-1980—Subsec. (b). Pub. L. 96–513 struck out second sentence relating to retired pay of an officer retired in the grade of rear admiral, and inserted “or active-duty list” after “active list” in third sentence.
-
-1966—Pub. L. 89–718 inserted reference to the Judge Advocate General in section catchline, substituted “Judge Advocate General” for “Chief of the Bureau of Naval Weapons”, inserted “or the Judge Advocate General” after “chief of bureau” in subsec. (a), and “or the Judge Advocate General” after “chief of bureau” in subsec. (b).
-
-1965—Subsec. (b). Pub. L. 89–288 permitted an officer who is serving or has served in the grade of vice admiral under [section 5137(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5137/a&num=0&edition=prelim), upon retirement, to be appointed by the President, by and with the advice and consent of the Senate, to the highest grade held by him while on the active list and with the retired pay based on that grade.
-
-1962—Subsec. (a). Pub. L. 87–649 repealed provisions which prescribed the pay and allowances of a chief of bureau and of the Chief of the Bureau of Naval Weapons, in the Marine Corps. See [section 202 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section202&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
-
-1959—Pub. L. 86–174 substituted “Bureau of Naval Weapons” for “Bureau of Aeronautics”.
-
-#### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
-
-#### Effective Date of 1962 Amendments
-Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding [section 101 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section101&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
-
-#### Effective Date of 1959 Amendment
-For effective date of amendment by Pub. L. 86–174 see note set out under [section 5131 of this title](./chapter-513-bureaus-office-of-the-judge-advocate-general.md#section-5131).
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 285; Pub. L. 86–174, § 2(2), Aug. 18, 1959, 73 Stat. 396; Pub. L. 87–649, § 14c(15), Sept. 7, 1962, 76 Stat. 501; Pub. L. 89–288, § 3, Oct. 22, 1965, 79 Stat. 1050; Pub. L. 89–718, § 35(2)–(4), Nov. 2, 1966, 80 Stat. 1120; Pub. L. 96–513, title V, § 503(9), Dec. 12, 1980, 94 Stat. 2911; Pub. L. 103–337, div. A, title V, § 504(b)(3), (5), Oct. 5, 1994, 108 Stat. 2751, related to rank of, pay and allowances for, and retirement of Bureau Chiefs.
 
 #### Transfer of Functions
 Transfer of functions of Offices of Bureau Chiefs, see note set out under [section 5111 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5111&num=0&edition=prelim).
@@ -171,10 +130,16 @@ Repeal effective July 1, 1960, or any earlier date on which the Secretary of the
 
 
 <a id="section-5137"></a>
-## § 5137. Bureau of Medicine and Surgery: Chief; Deputy Chief
-**(a)** The Chief of the Bureau of Medicine and Surgery shall be appointed by the President, by and with the advice and consent of the Senate, for a term of four years, from officers on the active-duty list of the Navy in any corps of the Navy Medical Department. He has the title of Surgeon General. The Surgeon General, while so serving has the grade of vice admiral.
+## § 5137. Surgeon General: appointment; duties
+**(a) Appointment.—** The Surgeon General of the Navy shall be appointed by the President, by and with the advice and consent of the Senate, for a term of four years, from officers on the active-duty list of the Navy in any corps of the Navy Medical Department.
 
-**(b)** An officer on the active-duty list of the Navy who is qualified to be the Chief of the Bureau of Medicine and Surgery may be detailed as Deputy Chief of the Bureau of Medicine and Surgery.
+**(b) Duties.—**
+
+(1) The Surgeon General serves as the Chief of the Bureau of Medicine and Surgery and serves as the principal advisor to the Secretary of the Navy and the Chief of Naval Operations on all health and medical matters of the Navy and the Marine Corps, including strategic planning and policy development relating to such matters.
+
+(2) The Surgeon General serves as the chief medical advisor of the Navy and the Marine Corps to the Director of the Defense Health Agency on matters pertaining to military health readiness requirements and safety of members of the Navy and the Marine Corps.
+
+(3) The Surgeon General, acting under the authority, direction, and control of the Secretary of the Navy, shall recruit, organize, train, and equip, medical personnel of the Navy and the Marine Corps.
 
 ### Statutory Notes
 
@@ -191,6 +156,8 @@ In subsection (a) the words “from officers on the active list of the Navy in t
 In subsection (b) the words “Deputy Chief of the Bureau” are substituted for the words “assistant to the Bureau” for uniformity. The words “An officer on the active list of the Navy in the Medical Corps” are substituted for the words “A surgeon, assistant surgeon, or passed assistant surgeon” to conform to present statutory terminology and to describe clearly the class of officers eligible for detail under this subsection. When the source statute was enacted there was no class of officers exactly corresponding to officers of the present Naval Reserve, and retired officers could be called to active duty only in time of war, so that the detailing of an officer not on the active list as assistant to the bureau chief was probably not contemplated. Further, since the assistant or deputy must at times perform the duties of the chief, it is reasonable to assume that he was intended to be in the same category of officers. Later statutes relating to the Assistant Chiefs of the Bureau of Aeronautics and the Bureau of Ships, enacted at a time when there were Reserve officers and when retired officers could be called to duty at any time with their consent, specify that the assistant chiefs shall be officers on the active list.
 
 #### Amendments
+2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to Chief and Deputy Chief of the Bureau of Medicine and Surgery.
+
 1996—Subsec. (a). Pub. L. 104–106, § 506(b)(1), substituted “in any corps of the Navy Medical Department” for “in the Medical Corps”.
 
 Subsec. (b). Pub. L. 104–106, § 506(b)(2), substituted “who is qualified to be the Chief of the Bureau of Medicine and Surgery” for “in the Medical Corps”.
@@ -205,11 +172,11 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 <a id="section-5138"></a>
 ## § 5138. Bureau of Medicine and Surgery: Dental Corps; Chief; functions
-**(a)** An officer of the Dental Corps not below the grade of rear admiral (lower half) shall be detailed as Chief of the Dental Corps.
+**(a)** An officer of the Dental Corps shall be detailed as Chief of the Dental Corps.
 
-**(b)** The Chief of the Dental Corps is entitled to the same privileges of retirement as provided for chiefs of bureaus in [section 5133 of this title](./chapter-513-bureaus-office-of-the-judge-advocate-general.md#section-5133).
+**(b)** The Chief of the Dental Corps is entitled to the same privileges of retirement as provided for chiefs of bureaus in section 5133 11 See References in Text note below. of this title.
 
-**(c)** The dental functions of the Bureau of Medicine and Surgery shall be defined and prescribed by Bureau directives, and if necessary by regulations of the Secretary of the Navy, so that all such functions are under the direction of the Dental Corps. All matters relating to dentistry shall be referred to the Chief of the Dental Corps.
+**(c)** All matters relating to dentistry shall be referred to the Chief of the Dental Corps.
 
 **(d)** The Chief of the Dental Corps shall—
 
@@ -227,7 +194,14 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 | 5138 | [5 U.S.C. 456b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section456b&num=0&edition=prelim). | Dec. 28, 1945, ch. 604, § 2, 59 Stat. 666. |
 |  | [5 U.S.C. 456c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section456c&num=0&edition=prelim). | Dec. 28, 1945, ch. 604, § 3, 59 Stat. 666; Aug. 7, 1947, ch. 512, § 427, 61 Stat. 880; Oct. 18, 1951, ch. 513, 65 Stat. 450. |
 
+#### References in Text
+[Section 5133 of this title](./chapter-513-bureaus-office-of-the-judge-advocate-general.md#section-5133), referrd to in subsec. (b), was repealed by Pub. L. 114–328, div. A, title V, § 502(z)(1), Dec. 23, 2016, 130 Stat. 2104.
+
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328, § 502(aa)(1), struck out “not below the grade of rear admiral (lower half)” after “officer of the Dental Corps”.
+
+Subsec. (c). Pub. L. 114–328, § 502(aa)(2), struck out first sentence which read as follows: “The dental functions of the Bureau of Medicine and Surgery shall be defined and prescribed by Bureau directives, and if necessary by regulations of the Secretary of the Navy, so that all such functions are under the direction of the Dental Corps.”
+
 2006—Pub. L. 109–364, § 593(d)(1), substituted “Dental Corps” for “Dental Division” in section catchline.
 
 Subsec. (a). Pub. L. 109–364, § 593(a)(1), substituted “Chief of the Dental Corps” for “Chief of the Dental Division” and struck out first sentence which read as follows: “There is a Dental Division in the Bureau of Medicine and Surgery.”
@@ -292,10 +266,10 @@ Repeal effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as
 
 
 <a id="section-5141"></a>
-## § 5141. Bureau of Naval Personnel: Chief of Naval Personnel; Deputy Chief of Naval Personnel
-**(a)** The Chief of the Bureau of Naval Personnel shall be known as the Chief of Naval Personnel. The Chief of Naval Personnel shall be appointed by the President, by and with the advice and consent of the Senate, for a term of four years, from officers on the active-duty list in the line of the Navy not below the grade of commander.
+## § 5141. Chief of Naval Personnel; Deputy Chief of Naval Personnel
+**(a)** The Chief of Naval Personnel shall be appointed by the President, by and with the advice and consent of the Senate, for a term of four years, from officers on the active-duty list in the line of the Navy not below the grade of commander.
 
-**(b)** The Deputy Chief of the Bureau of Naval Personnel shall be known as the Deputy Chief of Naval Personnel. An officer on the active-duty list in the line of the Navy not below the grade of commander may be detailed as Deputy Chief of Naval Personnel.
+**(b)** An officer on the active-duty list in the line of the Navy not below the grade of commander may be detailed as Deputy Chief of Naval Personnel.
 
 ### Statutory Notes
 
@@ -308,9 +282,15 @@ Repeal effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as
 
 In subsection (a) the words “from officers on the active list in the line of the Navy” are substituted for the words “from the list of officers of the Navy” to conform to current terminology. Line officers alone had the “grade” of commander when the source statute was enacted. The words “or from officers having the rank of captain in the staff corps of the Navy” are omitted as obsolete in view of subsequent changes in the staff corps and in the staff corps ranks and grades. These words were derived from the Act of Mar. 3, 1871, ch. 117, § 10, 16 Stat. 537, which established new staff corps grades and assigned to officers in the highest grade the relative rank of captain. They were probably intended merely to assure the eligibility of senior staff corps officers for appointment as chiefs of appropriate staff bureaus. However, as incorporated in R.S. 421, they provide a category of eligible officers which is an alternative to each of the categories listed in R.S. 422–426. Thus R.S. 421 and R.S. 422, as originally enacted, provided that the chiefs of the four “line” bureaus, Yards and Docks, Navigation, Ordnance, and Equipment and Recruiting, could be appointed from line officers not below the grade of commander or from officers having the relative rank of captain in any staff corps. Pursuant to these sections the Attorney General held in 1898 that an officer having the relative rank of captain in the Civil Engineer Corps could legally be appointed as Chief of the Bureau of Yards and Docks (22 Op. Atty. Gen. 47, 17 Mar. 1898). There is some confusion in the opinion as to which corps was meant. The proposed appointee was a member of the Civil Engineer Corps, but the Corps of Engineers is the corps mentioned in the conclusion of the opinion. A provision in the Act of June 29, 1906, ch. 3590, 34 Stat. 564, requires that the Chief of the Bureau of Yards and Docks be selected from officers of the Civil Engineer Corps, so that there is no longer any question as to that bureau. The Bureau of Equipment and Recruiting has been abolished, leaving only the Bureau of Naval Personnel (formerly Navigation) and the Bureau of Ordnance of the four “line” bureaus originally listed in R.S. 422. The statutes establishing new “line” bureaus, the Bureau of Ships and the Bureau of Aeronautics, contain their own requirements as to the qualifications of the chiefs. The abolition of the Corps of Engineers and the Construction Corps, with the transfer of officers in those corps to the line, has eliminated the only staff corps whose members had duties closely related to those of line officers. The present staff corps, with the possible exception of the Supply Corps, are all highly specialized. Furthermore, in five of the seven corps, captain is no longer the highest grade. In view of these facts it is considered that the provision of R.S. 421 making staff corps captains eligible for appointment as Chief of the Bureaus of Naval Personnel and Ordnance is obsolete.
 
-In subsection (b) the words “An officer on the active list in the line of the Navy not below the grade of commander” are substituted for the words “An officer of the Navy not below the rank of commander” to conform to current terminology and for clarity. When the source statute was enacted only line officers had the actual rank of commander. The words “on the active list” are inserted for the reasons stated in the revision note on [§ 5137(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5137/b&num=0&edition=prelim). The words “Deputy Chief” are substituted for the words “assistant to the Chief” for the reason stated in the revision note on [§ 5134 of this title](./chapter-513-bureaus-office-of-the-judge-advocate-general.md#section-5134).
+In subsection (b) the words “An officer on the active list in the line of the Navy not below the grade of commander” are substituted for the words “An officer of the Navy not below the rank of commander” to conform to current terminology and for clarity. When the source statute was enacted only line officers had the actual rank of commander. The words “on the active list” are inserted for the reasons stated in the revision note on § 5137(b) of this title. The words “Deputy Chief” are substituted for the words “assistant to the Chief” for the reason stated in the revision note on § 5134 of this title.
 
 #### Amendments
+2016—Pub. L. 114–328, § 502(bb)(2), amended section catchline generally, substituting “Chief of Naval Personnel; Deputy Chief of Naval Personnel” for “Bureau of Naval Personnel: Chief of Naval Personnel; Deputy Chief of Naval Personnel”.
+
+Subsec. (a). Pub. L. 114–328, § 502(bb)(1)(A), struck out first sentence which read as follows: “The Chief of the Bureau of Naval Personnel shall be known as the Chief of Naval Personnel.”
+
+Subsec. (b). Pub. L. 114–328, § 502(bb)(1)(B), struck out first sentence which read as follows: “The Deputy Chief of the Bureau of Naval Personnel shall be known as the Deputy Chief of Naval Personnel.”
+
 1980—Pub. L. 96–513 substituted “active-duty list” for “active list” wherever appearing.
 
 #### Effective Date of 1980 Amendment
@@ -331,14 +311,14 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 (2) The Chief of Chaplains shall, with respect to all duties pertaining to the procurement, distribution, and support of personnel of the Chaplain Corps, report to and be supported by the Chief of Naval Personnel.
 
-**(e)** The Chief of Chaplains of the Navy is entitled to the same rank and privileges of retirement as provided for chiefs of bureaus in [section 5133 of this title](./chapter-513-bureaus-office-of-the-judge-advocate-general.md#section-5133).
-
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 5142, acts Aug. 10, 1956, ch. 1041, 70A Stat. 288; Sept. 7, 1962, Pub. L. 87–649, § 14c(18), 76 Stat. 501, provided for a Chief of Chaplains in Bureau of Naval Personnel, detailed by Chief of Naval Personnel from officers on active list of the Navy in Chaplains Corps not below grade of rear admiral, prior to repeal by Pub. L. 96–343, § 11(a).
 
 #### Amendments
+2016—Subsec. (e). Pub. L. 114–328 struck out subsec. (e) which read as follows: “The Chief of Chaplains of the Navy is entitled to the same rank and privileges of retirement as provided for chiefs of bureaus in [section 5133 of this title](./chapter-513-bureaus-office-of-the-judge-advocate-general.md#section-5133).”
+
 1997—Subsec. (b). Pub. L. 105–85 struck out “, who are not on the retired list,” after “serving on active duty”.
 
 
@@ -380,11 +360,7 @@ The Secretary of the Navy may detail as the Deputy Chief of Chaplains an officer
   (B) the waiver is necessary for the good of the service.
   Any such waiver shall be made on a case-by-case basis.
 
-**(c) Term; Reappointment; Grade.—**
-
-(1) The Chief of Navy Reserve is appointed for a term determined by the Chief of Naval Operations, normally four years, but may be removed for cause at any time. An officer serving as Chief of Navy Reserve may be reappointed for one additional term of up to four years.
-
-(2) The Chief of Navy Reserve, while so serving, holds the grade of vice admiral.
+**(c) Term; Reappointment.—** The Chief of Navy Reserve is appointed for a term determined by the Chief of Naval Operations, normally four years, but may be removed for cause at any time. An officer serving as Chief of Navy Reserve may be reappointed for one additional term of up to four years.
 
 **(d) Budget.—** The Chief of Navy Reserve is the official within the executive part of the Department of the Navy who, subject to the authority, direction, and control of the Secretary of the Navy and the Chief of Naval Operations, is responsible for preparation, justification, and execution of the personnel, operation and maintenance, and construction budgets for the Navy Reserve. As such, the Chief of Navy Reserve is the director and functional manager of appropriations made for the Navy Reserve in those areas.
 
@@ -394,6 +370,8 @@ The Secretary of the Navy may detail as the Deputy Chief of Chaplains an officer
 A prior section 5143, acts Aug. 10, 1956, ch. 1041, 70A Stat. 288; Sept. 7, 1962, Pub. L. 87–649, § 6(c)(3), 76 Stat. 494; Nov. 8, 1967, Pub. L. 90–130, § 14(B), (C), 81 Stat. 376, established in Bureau of Naval Personnel the position of Assistant Chief of Naval Personnel for Women, prior to repeal by Pub. L. 96–513, title III, § 344(a), title VII, § 701, Dec. 12, 1980, 94 Stat. 2901, 2955, effective Sept. 15, 1981.
 
 #### Amendments
+2016—Subsec. (c). Pub. L. 114–328, in heading, struck out “; Grade” after “Reappointment”, and in text, struck out par. (1) designation before “The Chief of Navy Reserve” and struck out par. (2) which read as follows: “The Chief of Navy Reserve, while so serving, holds the grade of vice admiral.”
+
 2011—Subsec. (e). Pub. L. 112–81 struck out subsec. (e). Prior to amendment, text read as follows:
 
 “(1) The Chief of Navy Reserve shall submit to the Secretary of Defense, through the Secretary of the Navy, an annual report on the state of the Navy Reserve and the ability of the Navy Reserve to meet its missions. The report shall be prepared in conjunction with the Chief of Naval Operations and may be submitted in classified and unclassified versions.
@@ -455,11 +433,7 @@ Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special
   (B) the waiver is necessary for the good of the service.
   Any such waiver shall be made on a case-by-case basis.
 
-**(c) Term; Reappointment; Grade.—**
-
-(1) The Commander, Marine Forces Reserve, is appointed for a term determined by the Commandant of the Marine Corps, normally four years, but may be removed for cause at any time. An officer serving as Commander, Marine Forces Reserve, may be reappointed for one additional term of up to four years.
-
-(2) The Commander, Marine Forces Reserve, while so serving, holds the grade of lieutenant general.
+**(c) Term; Reappointment.—** The Commander, Marine Forces Reserve, is appointed for a term determined by the Commandant of the Marine Corps, normally four years, but may be removed for cause at any time. An officer serving as Commander, Marine Forces Reserve, may be reappointed for one additional term of up to four years.
 
 **(d) Annual Report.—**
 
@@ -473,6 +447,8 @@ Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special
 A prior section 5144, act Aug. 10, 1956, ch. 1041, 70A Stat. 289, related to appointment and term of Chief of Bureau of Ordnance, and authorized detail of an officer as Deputy Chief of Bureau, prior to repeal by Pub. L. 86–174, § 2(3), Aug. 18, 1959, 73 Stat. 396, effective July 1, 1960, or any earlier date on which the Secretary of the Navy made a formal finding that all the functions of the Bureau of Aeronautics and the Bureau of Ordnance had been transferred to the Bureau of Naval Weapons or elsewhere.
 
 #### Amendments
+2016—Subsec. (c). Pub. L. 114–328, in heading, struck out “; Grade” after “Reappointment”, and in text, struck out par. (1) designation before “The Commander, Marine Forces Reserve,” and struck out par. (2) which read as follows: “The Commander, Marine Forces Reserve, while so serving, holds the grade of lieutenant general.”
+
 2004—Subsec. (b)(4). Pub. L. 108–375 substituted “December 31, 2006” for “December 31, 2004”.
 
 2002—Subsec. (b)(4). Pub. L. 107–314 substituted “December 31, 2004” for “October 1, 2003”.
@@ -515,7 +491,7 @@ Section 5147, act Aug. 10, 1956, ch. 1041, 70A Stat. 289, provided for appointme
 ## § 5148. Judge Advocate General’s Corps: Office of the Judge Advocate General; Judge Advocate General; appointment, term, emoluments, duties
 **(a)** The Judge Advocate General’s Corps is a Staff Corps of the Navy, and shall be organized in accordance with regulations prescribed by the Secretary of the Navy.
 
-**(b)** There is in the executive part of the Department of the Navy the Office of the Judge Advocate General of the Navy. The Judge Advocate General shall be appointed by the President, by and with the advice and consent of the Senate, for a term of four years. He shall be appointed from judge advocates of the Navy or the Marine Corps who are members of the bar of a Federal court or the highest court of a State and who have had at least eight years of experience in legal duties as commissioned officers. The Judge Advocate General, while so serving, has the grade of vice admiral or lieutenant general, as appropriate.
+**(b)** There is in the executive part of the Department of the Navy the Office of the Judge Advocate General of the Navy. The Judge Advocate General shall be appointed by the President, by and with the advice and consent of the Senate, for a term of four years. He shall be appointed from judge advocates of the Navy or the Marine Corps who are members of the bar of a Federal court or the highest court of a State and who have had at least eight years of experience in legal duties as commissioned officers.
 
 **(c)** Under regulations prescribed by the Secretary of Defense, the Secretary of the Navy, in selecting an officer for recommendation to the President for appointment as the Judge Advocate General, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
 
@@ -552,6 +528,8 @@ In subsection (c), clauses (1) and (4) are substituted for the words “and perf
 Subsection (c)(2) is substituted for the reference, in [5 U.S.C. 428](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section428&num=0&edition=prelim), to courts-martial and courts of inquiry, since the Uniform Code of Military Justice has superseded prior law as to the duties of the Judge Advocates General relating to these courts.
 
 #### Amendments
+2016—Subsec. (b). Pub. L. 114–328 struck out last sentence which read as follows: “The Judge Advocate General, while so serving, has the grade of vice admiral or lieutenant general, as appropriate.”
+
 2008—Subsec. (b). Pub. L. 110–181 substituted “The Judge Advocate General, while so serving, has the grade of vice admiral or lieutenant general, as appropriate.” for “The Judge Advocate General, while so serving, shall hold a grade not lower than rear admiral or major general, as appropriate.”
 
 2006—Subsec. (b). Pub. L. 109–163, § 1057(a)(2), struck out “or Territory” after “highest court of a State”.
@@ -592,13 +570,13 @@ Pub. L. 90–179, § 11, Dec. 8, 1967, 81 Stat. 549, provided that all provision
 ## § 5149. Office of the Judge Advocate General: Deputy Judge Advocate General; Assistant Judge Advocates General
 **(a)**
 
-(1) There is a Deputy Judge Advocate General of the Navy who is appointed by the President, by and with the advice and consent of the Senate, from among judge advocates of the Navy and Marine Corps who have the qualifications prescribed for the Judge Advocate General. If an officer appointed as the Deputy Judge Advocate General holds a lower regular grade, the officer shall be appointed in the regular grade of rear admiral or major general, as appropriate.
+(1) There is a Deputy Judge Advocate General of the Navy who is appointed by the President from among judge advocates of the Navy and Marine Corps who have the qualifications prescribed for the Judge Advocate General.
 
 (2) Under regulations prescribed by the Secretary of Defense, the Secretary of the Navy, in selecting an officer for recommendation to the President for appointment as the Deputy Judge Advocate General, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
 
-**(b)** An officer of the Judge Advocate General’s Corps who has the qualifications prescribed for the Judge Advocate General in [section 5148(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5148/b&num=0&edition=prelim) may be detailed as Assistant Judge Advocate General of the Navy. While so serving, a judge advocate who holds a grade lower than rear admiral (lower half) shall hold the grade of rear admiral (lower half), if he is appointed to that grade by the President, by and with the advice and consent of the Senate. An officer who is retired while serving as Assistant Judge Advocate General of the Navy under this subsection or who, after serving at least twelve months as Assistant Judge Advocate General of the Navy, is retired after completion of that service while serving in a lower rank or grade, may, in the discretion of the President, be retired with the rank and grade of rear admiral (lower half). If he is retired as a rear admiral (lower half), he is entitled to the retired pay of that grade, unless entitled to higher pay under another provision of law.
+**(b)** An officer of the Judge Advocate General’s Corps who has the qualifications prescribed for the Judge Advocate General in [section 5148(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5148/b&num=0&edition=prelim) may be detailed as Assistant Judge Advocate General of the Navy. An officer who is retired while serving as Assistant Judge Advocate General of the Navy under this subsection or who, after serving at least twelve months as Assistant Judge Advocate General of the Navy, is retired after completion of that service while serving in a lower rank or grade, may, in the discretion of the President, be retired with the rank and grade of rear admiral (lower half).
 
-**(c)** A judge advocate of the Marine Corps who has the qualifications prescribed for the Judge Advocate General in [section 5148(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5148/b&num=0&edition=prelim) may be detailed as Assistant Judge Advocate General of the Navy. While so serving, a judge advocate who holds a grade lower than brigadier general shall hold the grade of brigadier general, if he is appointed to that grade by the President, by and with the advice and consent of the Senate. An officer who is retired while serving as Assistant Judge Advocate General of the Navy under this subsection or who, after serving at least twelve months as Assistant Judge Advocate General of the Navy, is retired after completion of that service while serving in a lower rank or grade, may, in the discretion of the President, be retired with the rank and grade of brigadier general. If he is retired as a brigadier general, he is entitled to the retired pay of that grade, unless entitled to higher pay under another provision of law.
+**(c)** A judge advocate of the Marine Corps who has the qualifications prescribed for the Judge Advocate General in [section 5148(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5148/b&num=0&edition=prelim) may be detailed as Assistant Judge Advocate General of the Navy. An officer who is retired while serving as Assistant Judge Advocate General of the Navy under this subsection or who, after serving at least twelve months as Assistant Judge Advocate General of the Navy, is retired after completion of that service while serving in a lower rank or grade, may, in the discretion of the President, be retired with the rank and grade of brigadier general.
 
 **(d)** When there is a vacancy in the Office of the Judge Advocate General, or during the absence or disability of the Judge Advocate General, the Deputy Judge Advocate General shall perform the duties of the Judge Advocate General until a successor is appointed or the absence or disability ceases.
 
@@ -614,9 +592,15 @@ Pub. L. 90–179, § 11, Dec. 8, 1967, 81 Stat. 549, provided that all provision
 | 5149(b) | [5 U.S.C. 444](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section444&num=0&edition=prelim) (last 19 words). | Aug. 29, 1916, ch. 417 (3d par., 122d word to end of par.), 39 Stat. 558. |
 | 5149(c) | [5 U.S.C. 432a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section432a&num=0&edition=prelim) (as applicable to JAG). | Feb. 3, 1942, ch. 35, § 1 (as applicable to JAG), 56 Stat. 47. |
 
-Changes in phraseology are made to conform to the language used in [§ 5135 of this title](./chapter-513-bureaus-office-of-the-judge-advocate-general.md#section-5135).
+Changes in phraseology are made to conform to the language used in § 5135 of this title.
 
 #### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–328, § 502(gg)(1), struck out “, by and with the advice and consent of the Senate,” after “appointed by the President” and struck out second sentence which read as follows: “If an officer appointed as the Deputy Judge Advocate General holds a lower regular grade, the officer shall be appointed in the regular grade of rear admiral or major general, as appropriate.”
+
+Subsec. (b). Pub. L. 114–328, § 502(gg)(2), struck out second and last sentences which read “While so serving, a judge advocate who holds a grade lower than rear admiral (lower half) shall hold the grade of rear admiral (lower half), if he is appointed to that grade by the President, by and with the advice and consent of the Senate.” and “If he is retired as a rear admiral (lower half), he is entitled to the retired pay of that grade, unless entitled to higher pay under another provision of law.”, respectively.
+
+Subsec. (c). Pub. L. 114–328, § 502(gg)(2), struck out second and last sentences which read “While so serving, a judge advocate who holds a grade lower than brigadier general shall hold the grade of brigadier general, if he is appointed to that grade by the President, by and with the advice and consent of the Senate.” and “If he is retired as a brigadier general, he is entitled to the retired pay of that grade, unless entitled to higher pay under another provision of law.”, respectively.
+
 1994—Subsec. (a). Pub. L. 103–337 designated existing provisions as par. (1), added second sentence, struck out former second and third sentences which read as follows: “While so serving he is entitled to the grade of rear admiral or major general, as appropriate, unless entitled to a higher grade under another provision of law. The Deputy Judge Advocate General is entitled to the same privileges of retirement as provided for chiefs of bureaus in [section 5133 of this title](./chapter-513-bureaus-office-of-the-judge-advocate-general.md#section-5133).”, and added par. (2).
 
 1986—Subsec. (a). Pub. L. 99–661, § 508(b)(1), substituted “There is a Deputy Judge Advocate General of the Navy who is appointed by the President, by and with the advice and consent of the Senate, from among judge advocates of the Navy and Marine Corps who have the qualifications prescribed for the Judge Advocate General” for “A judge advocate of the Navy or Marine Corps who has the qualifications prescribed for the Judge Advocate General in [section 5148(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5148/b&num=0&edition=prelim) shall be detailed as Deputy Judge Advocate General of the Navy”, and struck out “rank and” before “grade of” and struck out “rank or” before “grade under” in second sentence.
@@ -689,9 +673,7 @@ Pub. L. 90–179, § 9, Dec. 8, 1967, 81 Stat. 549, provided that: “Nothing in
 
 (1) The Secretary of the Navy may establish staff corps of the Navy in addition to the Medical Corps, the Dental Corps, the Judge Advocate General’s Corps, and the Chaplain Corps. The Secretary may designate commissioned officers in, and may assign members to, any such staff corps.
 
-(2) Subject to subsection (c), the Secretary of the Navy may provide for the appointment of the chief of any staff corps established under this subsection.
-
-**(c)** The Secretary of the Navy, whenever the needs of the service require, may convene a selection board under [section 611(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section611/a&num=0&edition=prelim) to select an officer in the Nurse Corps or in the Medical Service Corps (if such corps has been established under subsection (a)) for promotion to the grade of rear admiral, in the case of an officer in the Nurse Corps, or rear admiral (lower half), in the case of an officer in the Medical Service Corps. An officer promoted pursuant to such a selection shall be appointed by the Secretary to the position of Director of the Nurse Corps or Director of the Medical Service Corps, respectively, for a term of four years, to serve at the pleasure of the Secretary.
+(2) The Secretary of the Navy may provide for the appointment of the chief of any staff corps established under this subsection.
 
 ### Statutory Notes
 
@@ -699,6 +681,10 @@ Pub. L. 90–179, § 9, Dec. 8, 1967, 81 Stat. 549, provided that: “Nothing in
 A prior section 5150 was renumbered [section 5021 of this title](./chapter-503-department-of-the-navy.md#section-5021).
 
 #### Amendments
+2016—Subsec. (b)(2). Pub. L. 114–328, § 502(hh)(1), substituted “The Secretary” for “Subject to subsection (c), the Secretary”.
+
+Subsec. (c). Pub. L. 114–328, § 502(hh)(2), struck out subsec. (c) which read as follows: “The Secretary of the Navy, whenever the needs of the service require, may convene a selection board under [section 611(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section611/a&num=0&edition=prelim) to select an officer in the Nurse Corps or in the Medical Service Corps (if such corps has been established under subsection (a)) for promotion to the grade of rear admiral, in the case of an officer in the Nurse Corps, or rear admiral (lower half), in the case of an officer in the Medical Service Corps. An officer promoted pursuant to such a selection shall be appointed by the Secretary to the position of Director of the Nurse Corps or Director of the Medical Service Corps, respectively, for a term of four years, to serve at the pleasure of the Secretary.”
+
 2013—Subsec. (c). Pub. L. 112–239 struck out at end “For the purpose of computing the total number of flag officers in the staff corps of the Navy under [section 526 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-526), an officer so appointed shall be considered an additional number in grade.”
 
 2002—Subsec. (c). Pub. L. 107–314 substituted “for promotion to the grade of rear admiral, in the case of an officer in the Nurse Corps, or rear admiral (lower half), in the case of an officer in the Medical Service Corps” for “for promotion to the grade of rear admiral (lower half)” in first sentence.

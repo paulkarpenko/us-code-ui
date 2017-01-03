@@ -1,15 +1,15 @@
 ---
 title: 10
-chapter: '15'
+chapter: '13'
 heading: INSURRECTION
-section_count: 6
+section_count: 5
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
-<a id="section-331"></a>
-## § 331. Federal aid for State governments
+<a id="section-251"></a>
+## § 251. Federal aid for State governments
 
-Whenever there is an insurrections in any State against its government, the President may, upon the request of its legislature or of its governor if the legislature cannot be convened, call into Federal service such of the militia of the other States, in the number requested by that State, and use such of the armed forces, as he considers necessary to suppress the insurrection.
+Whenever there is an insurrection in any State against its government, the President may, upon the request of its legislature or of its governor if the legislature cannot be convened, call into Federal service such of the militia of the other States, in the number requested by that State, and use such of the armed forces, as he considers necessary to suppress the insurrection.
 
 ### Statutory Notes
 
@@ -20,9 +20,12 @@ Whenever there is an insurrections in any State against its government, the Pres
 
 The words “armed forces” are substituted for the words “land or naval forces of the United States”. The word “governor” is substituted for the word “executive”. The word “may” is substituted for the words “it shall be lawful * * * to”. The words “into Federal service” are substituted for the word “forth” for uniformity and clarity.
 
+#### Amendments
+2016—Pub. L. 114–328 renumbered [section 331 of this title](./chapter-016-security-cooperation.md#section-331) as this section.
 
-<a id="section-332"></a>
-## § 332. Use of militia and armed forces to enforce Federal authority
+
+<a id="section-252"></a>
+## § 252. Use of militia and armed forces to enforce Federal authority
 
 Whenever the President considers that unlawful obstructions, combinations, or assemblages, or rebellion against the authority of the United States, make it impracticable to enforce the laws of the United States in any State by the ordinary course of judicial proceedings, he may call into Federal service such of the militia of any State, and use such of the armed forces, as he considers necessary to enforce those laws or to suppress the rebellion.
 
@@ -39,6 +42,8 @@ Whenever the President considers that unlawful obstructions, combinations, or as
 Act July 29, 1861, ch. 25, § 1, 12 Stat. 281.
 
 #### Amendments
+2016—Pub. L. 114–328 renumbered [section 332 of this title](./chapter-016-security-cooperation.md#section-332) as this section.
+
 2006—Pub. L. 109–163 struck out “or Territory” after “in any State”.
 
 #### Ex. Ord. No. 10730. Assistance for Removal of an Obstruction of Justice Within the State of Arkansas
@@ -54,8 +59,8 @@ Ex. Ord. No. 11111, June 11, 1963, 28 F.R. 5709, authorized the Secretary of Def
 Ex. Ord. No. 11118, Sept. 10, 1963, 28 F.R. 9863, authorized the Secretary of Defense to call into the active military service of the United States units of the Army National Guard and of the Air National Guard of the State of Alabama for an indefinite period and until relieved by appropriate orders in order to enforce the laws of the United States and any orders of United States Courts relating to the enrollment and attendance of students in public schools in the State of Alabama and to suppress unlawful assemblies, conspiracies, and domestic violence which oppose the law or impede the course of justice under the law within that State; authorized the Secretary of Defense to also use the armed forces of the United States for such purposes; and authorized the Secretary of Defense to delegate his authority to the Secretary of the Army or the Secretary of the Air Force.
 
 
-<a id="section-333"></a>
-## § 333. Interference with State and Federal law
+<a id="section-253"></a>
+## § 253. Interference with State and Federal law
 
 The President, by using the militia or the armed forces, or both, or by any other means, shall take such measures as he considers necessary to suppress, in a State, any insurrection, domestic violence, unlawful combination, or conspiracy, if it—
 
@@ -77,6 +82,8 @@ The words “armed forces” are substituted for the words “land or naval forc
 Act Apr. 20, 1871, ch. 22, § 3, 17 Stat. 14.
 
 #### Amendments
+2016—Pub. L. 114–328 renumbered [section 333 of this title](./chapter-016-security-cooperation.md#section-333) as this section.
+
 2008—Pub. L. 110–181 amended section generally, substituting provisions directing the President to suppress certain insurrections and domestic violence in a State for provisions authorizing the President to employ the armed forces during a natural disaster or terrorist attack or to suppress an insurrection in a State and requiring notice to Congress during the exercise of such authority.
 
 2006—Pub. L. 109–364 amended section catchline and text generally, substituting provisions authorizing the President to employ the armed forces during a natural disaster or terrorist attack or to suppress an insurrection in a State and requiring notice to Congress during the exercise of such authority for provisions directing the President to suppress certain insurrections and domestic violence in a State.
@@ -85,8 +92,8 @@ Act Apr. 20, 1871, ch. 22, § 3, 17 Stat. 14.
 Pub. L. 110–181, div. A, title X, § 1068(d), Jan. 28, 2008, 122 Stat. 326, provided that: “The amendments made by this section [amending this section and sections 334 and 12304 of this title and repealing [section 2567 of this title](./chapter-152-issue-of-supplies-services-and-facilities.md#section-2567)] shall take effect on the date of the enactment of this Act [Jan. 28, 2008].”
 
 
-<a id="section-334"></a>
-## § 334. Proclamation to disperse
+<a id="section-254"></a>
+## § 254. Proclamation to disperse
 
 Whenever the President considers it necessary to use the militia or the armed forces under this chapter, he shall, by proclamation, immediately order the insurgents to disperse and retire peaceably to their abodes within a limited time.
 
@@ -103,6 +110,8 @@ The words “militia or the armed forces” are substituted for the words “mil
 Act July 29, 1861, ch. 25, § 2, 12 Stat. 282.
 
 #### Amendments
+2016—Pub. L. 114–328 renumbered [section 334 of this title](./chapter-016-security-cooperation.md#section-334) as this section.
+
 2008—Pub. L. 110–181 struck out “or those obstructing the enforcement of the laws” after “insurgents”.
 
 2006—Pub. L. 109–364 inserted “or those obstructing the enforcement of the laws” after “insurgents”.
@@ -135,14 +144,16 @@ Proc. No. 3841, Apr. 9, 1968, 33 F.R. 5497, commanded all persons engaged in vio
 Proc. No. 3842, Apr. 9, 1968, 33 F.R. 5499, commanded all persons engaged in acts of violence and obstructing the enforcement of the laws in and about the City of Baltimore to cease and desist therefrom and to disperse forthwith.
 
 
-<a id="section-335"></a>
-## § 335. Guam and Virgin Islands included as “State”
+<a id="section-255"></a>
+## § 255. Guam and Virgin Islands included as “State”
 
 For purposes of this chapter, the term “State” includes Guam and the Virgin Islands.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Pub. L. 114–328 renumbered [section 335 of this title](./chapter-016-security-cooperation.md#section-335) as this section.
+
 2006—Pub. L. 109–163 struck out “the unincorporated territories of” before “Guam”.
 
 1980—Pub. L. 96–513 inserted “and Virgin Islands” after “Guam” in section catchline and inserted provision respecting applicability to the Virgin Islands.
@@ -152,14 +163,3 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date
 Pub. L. 90–497, § 11, Sept. 11, 1968, 82 Stat. 847, provided that this section is effective on date of enactment of Pub. L. 90–497, which was approved on Sept. 11, 1968.
-
-
-<a id="section-336"></a>
-## § 336. Repealed. Pub. L. 96–513, title V, § 511(11)(B), Dec. 12, 1980, 94 Stat. 2921]
-
-### Statutory Notes
-
-Section, added Pub. L. 90–496, § 12, Aug. 23, 1968, 82 Stat. 841, included Virgin Islands within “State”. See [section 335 of this title](./chapter-015-insurrection.md#section-335).
-
-#### Effective Date of Repeal
-Repeal effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).

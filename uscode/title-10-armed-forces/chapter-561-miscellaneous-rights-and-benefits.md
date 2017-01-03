@@ -304,7 +304,7 @@ Section effective Jan. 1, 1958, see section 2301 of Pub. L. 85–56.
 
 <a id="section-6161"></a>
 ## § 6161. Settlement of accounts: remission or cancellation of indebtedness of members
-**(a) In General.—** The Secretary of the Navy may have remitted or cancelled any part of the indebtedness of a person to the United States or any instrumentality of the United States incurred while the person was serving on active duty as a member of the naval service, but only if the Secretary considers such action to be in the best interest of the United States.
+**(a) In General.—** The Secretary of the Navy may have remitted or cancelled any part of the indebtedness of a person to the United States or any instrumentality of the United States incurred while the person was serving as a member of the naval service, whether as a regular or a reserve in active status, but only if the Secretary considers such action to be in the best interest of the United States.
 
 **(b) Retroactive Applicability to Certain Debts.—** The authority in subsection (a) may be exercised with respect to any debt covered by that subsection that is incurred on or after October 7, 2001.
 
@@ -313,6 +313,8 @@ Section effective Jan. 1, 1958, see section 2301 of Pub. L. 85–56.
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328 substituted “as a member of the naval service, whether as a regular or a reserve in active status” for “on active duty as a member of the naval service”.
+
 2008—Subsec. (a). Pub. L. 110–181 made technical correction to directory language of Pub. L. 109–364, § 673(b)(1). See 2006 Amendment note below.
 
 2006—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text read as follows: “If he considers it in the best interest of the United States, the Secretary of the Navy may have remitted or canceled any part of an enlisted member’s indebtedness to the United States or any of its instrumentalities remaining unpaid before, or at the time of that member’s honorable discharge.”
@@ -328,6 +330,9 @@ Subsecs. (b) to (d). Pub. L. 109–364, § 673(b)(2), redesignated subsecs. (c) 
 “(2) if discharged from the armed forces under honorable conditions, during the one-year period beginning on the date of such discharge; or
 
 “(3) if released from active status in a reserve component, during the one-year period beginning on the date of such release.”
+
+#### Effective Date of 2016 Amendment
+Amendment by Pub. L. 114–328 effective Dec. 23, 2016, and applicable with respect to debt incurred on or after Oct. 7, 2001, see section 671(b)(5) of Pub. L. 114–328, set out as a note under [section 4837 of this title](./chapter-453-accountability-and-responsibility.md#section-4837).
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–181, div. A, title X, § 1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(7)(B) is effective as of Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, Pub. L. 109–364, as enacted.

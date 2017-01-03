@@ -374,7 +374,7 @@ The source law provided that leases of lands of the United States within the nav
 
 (4) notwithstanding the provisions of subsection (b), the Secretary may, at his discretion if he deems it to be in the public interest, prorate such petroleum among such refiners for sale, without competition, at not less than the prevailing local market price of comparable petroleum.
 
-**(e)** Any petroleum produced from the naval petroleum reserves, except such petroleum which is either exchanged in similar quantities for convenience or increased efficiency of transportation with persons or the government of an adjacent foreign state, or which is temporarily exported for convenience or increased efficiency of transportation across parts of an adjacent foreign state and reenters the United States, shall be subject to all of the limitations and licensing requirements of the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) and, in addition, before any petroleum subject to this section may be exported under the limitations and licensing requirement and penalty and enforcement provisions of the Export Administration Act of 1979, the President must make and publish an express finding that such exports will not diminish the total quality or quantity of petroleum available to the United States and that such exports are in the national interest and are in accord with the Export Administration Act of 1979.
+**(e)** Any petroleum produced from the naval petroleum reserves, except such petroleum which is either exchanged in similar quantities for convenience or increased efficiency of transportation with persons or the government of an adjacent foreign state, or which is temporarily exported for convenience or increased efficiency of transportation across parts of an adjacent foreign state and reenters the United States, shall be subject to all of the limitations and licensing requirements of the Export Administration Act of 1979 ([50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.) and, in addition, before any petroleum subject to this section may be exported under the limitations and licensing requirement and penalty and enforcement provisions of the Export Administration Act of 1979, the President must make and publish an express finding that such exports will not diminish the total quality or quantity of petroleum available to the United States and that such exports are in the national interest and are in accord with the Export Administration Act of 1979.
 
 **(f)** During the period of production or any extension thereof authorized by [section 7422(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7422/c&num=0&edition=prelim), the consultation and approval requirements of [section 7431(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7431/a/3&num=0&edition=prelim) are waived.
 
@@ -433,7 +433,7 @@ In subsection (a) the words “subject to the applicable limitations and restric
 In subsection (b) the words “under this section” are substituted for the words “from the naval reserves” to make it clear that the requirements of this subsection apply to sales of petroleum, gas, and other hydrocarbons from lands outside petroleum reserve numbered 1 covered by joint, unit, or other cooperative plans as well as the sale of those products from the naval reserves proper. Subsection (a) is the only authority for the sale of petroleum, gas, and other hydrocarbons from the naval petroleum reserves.
 
 #### References in Text
-The Export Administration Act of 1979, referred to in subsec. (e), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+The Export Administration Act of 1979, referred to in subsec. (e), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) and Tables.
 
 The Sherman Act, referred to in subsec. (i)(1), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) and Tables.
 
@@ -448,6 +448,8 @@ Act of June 19, 1936, referred to in subsec. (i)(5), is act June 19, 1936, ch. 5
 The Natural Gas Act, referred to in subsec. (j), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15. For complete classification of this Act to the Code, see [section 717w of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717w&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2016—Subsec. (e). Pub. L. 114–328, § 1081(b)(3)(E), substituted “([50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.)” for “(50 U.S.C. App. 2401 et seq.)”.
+
 2001—Subsec. (b)(2). Pub. L. 107–107 substituted “at a price less than the current sales price” for “at a price less than the higher of— (A) the current sales price”, substituted a period for “; or” after “petroleum in the same area”, and struck out subpar. (B) which read as follows: “the price of petroleum being purchased for the Strategic Petroleum Reserve, minus the cost of transporting petroleum from the naval petroleum reserve concerned to the nearest storage area of the Strategic Petroleum Reserve, with adjustments for the difference in the quality of the petroleum being purchased for the Strategic Petroleum Reserve and petroleum being produced from the naval petroleum reserve concerned.”
 
 2000—Subsec. (b)(2). Pub. L. 106–398 substituted “Naval Petroleum Reserves Numbered 2 and 3” for “Naval Petroleum Reserves Numbered 1, 2, and 3” in introductory provisions and struck out “90 percent of” before “the current sales price” in subpar. (A).
@@ -552,18 +554,6 @@ Pub. L. 103–138, title II, Nov. 11, 1993, 107 Stat. 1405.
 
 (2) All plans or substantial amendments submitted to the Congress pursuant to this section shall contain a report by the Attorney General of the United States with respect to the anticipated effects of such plans or amendments on competition. Such plans or amendments shall not be implemented until sixty days after such plans or amendments have been submitted to such committees.
 
-**(c)** During the period of production authorized by [section 7422(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7422/c&num=0&edition=prelim), the Secretary shall submit annual reports as of the first day of the fiscal year to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, and such committees shall cause such reports to be printed as a Senate or House document, as appropriate. The Secretary shall include in such reports, with respect to each naval petroleum reserve, an explanation in detail of the following:
-
-(1) The status of the exploration, development, and production programs.
-
-(2) The production that has been achieved, including the disposition of such production and the proceeds realized therefrom.
-
-(3) The status of pipeline construction and procurement and problems related to the availability of transportation facilities.
-
-(4) A summary of future plans for exploration, development, production, disposal, and transportation of the production from the naval petroleum reserves.
-
-(5) Such other information regarding the reserve as the Secretary deems appropriate.
-
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -572,6 +562,8 @@ Pub. L. 103–138, title II, Nov. 11, 1993, 107 Stat. 1405.
 | 7431 | [34 U.S.C. 524](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section524&num=0&edition=prelim) (1st proviso of 4th par.). | June 4, 1920, ch. 228 (4th par., 1st proviso, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 282. |
 
 #### Amendments
+2015—Subsec. (c). Pub. L. 114–92 struck out subsec. (c) which required annual reports relating to naval petroleum reserves.
+
 1999—Subsecs. (a), (b)(1), (c). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 1996—Subsecs. (a), (b)(1), (c). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
@@ -649,7 +641,7 @@ Pub. L. 96–137, § 3(c), Dec. 12, 1979, 93 Stat. 1062, provided that: “The n
 
 In subsection (a) the words “or all” are omitted as surplusage. The words “under this chapter” are substituted for the words “of lands within the naval petroleum reserves or other naval fuel reserves under the authority of this section” for brevity. The words “be delivered to the United States, or shall be paid for in money” are substituted for the words “be paid for in money or be paid in kind” for clarity. Neither gas, oil, gasoline, nor hydrocarbon can be “paid”, but any one of them may be delivered.
 
-In subsection (b) the words “except as otherwise provided in this section” are omitted as surplusage. There is no exception within the chapter to the rule stated in subsection (b). The word “paid” is substituted for the words “which may accrue” for clarity. The words “under this chapter” are substituted for the words “under the provisions of this section or of sections * * * on account of the petroleum products extracted therefrom” for brevity. The two terms are coextensive. The sections of 30 U.S.C. that are cited in [34 U.S.C. 524](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section524&num=0&edition=prelim) (10th par.) comprise the entire Act of Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended. The application of that Act to the Navy is covered in [§ 7427 of this title](./chapter-641-naval-petroleum-reserves.md#section-7427). The words “as miscellaneous receipts” are omitted as surplusage.
+In subsection (b) the words “except as otherwise provided in this section” are omitted as surplusage. There is no exception within the chapter to the rule stated in subsection (b). The word “paid” is substituted for the words “which may accrue” for clarity. The words “under this chapter” are substituted for the words “under the provisions of this section or of sections * * * on account of the petroleum products extracted therefrom” for brevity. The two terms are coextensive. The sections of 30 U.S.C. that are cited in [34 U.S.C. 524](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section524&num=0&edition=prelim) (10th par.) comprise the entire Act of Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended. The application of that Act to the Navy is covered in § 7427 of this title. The words “as miscellaneous receipts” are omitted as surplusage.
 
 #### Amendments
 1976—Subsec. (a). Pub. L. 94–258, § 201(14), struck out “of the Navy” after “Secretary”.

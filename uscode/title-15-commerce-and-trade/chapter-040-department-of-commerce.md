@@ -196,9 +196,13 @@ Sec. 4. General Provisions.
 Barack Obama.
 
 #### Extension of Term of Commission on Asian Americans and Pacific Islanders
-Term of Commission on Asian Americans and Pacific Islanders extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Commission on Asian Americans and Pacific Islanders extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of Commission on Asian Americans and Pacific Islanders extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Previous extensions of term of Commission on Asian Americans and Pacific Islanders were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
+
+Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, extended term until Sept. 30, 2013.
 
 
 <a id="section-1502-1503"></a>
@@ -597,7 +601,7 @@ Section, Pub. L. 94–370, § 15(a), July 26, 1976, 90 Stat. 1032, authorized ap
 
 **(b) Assignment** Upon the request of the Secretary, the Secretary of State shall officially assign fishery trade officers to such diplomatic missions of the United States as the Secretary designates (three of which shall be those in Brussels, Belgium; Rome, Italy; and Tokyo, Japan) and shall obtain for them diplomatic privileges and immunities equivalent to those enjoyed by foreign service personnel of comparable rank and salary.
 
-**(c) Functions of fishery trade officers** The functions of fishery trade officers appointed under subsection (a) of this section shall be—
+**(c) Functions of fishery trade officers** The functions of fishery trade officers appointed under subsection (a) shall be—
 
 (1) to increase the effectiveness of United States fishery export promotion efforts through such activities as the coordination of market development efforts and the provision of services and facilities for exporters of United States fishery products;
 
@@ -828,6 +832,95 @@ Barack Obama.
 
 [Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under [section 3021 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim), War and National Defense.]
 
+#### Ex. Ord. No. 13731. Global Entrepreneurship
+Ex. Ord. No. 13731, June 24, 2016, 81 F.R. 42221, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. The American spirit of entrepreneurship is one of our most admired values around the world, and the United States has produced many of the world’s most respected businesses and inspiring business creators. At a time when many societies confront extremism, unemployment, and slow economic growth, entrepreneurship holds out the promise of opportunity, prosperity, and security.
+
+It is in the national interest for the Federal Government to support innovation, global entrepreneurship, and the American private sector. Linking entrepreneurs with capital, new networks, and markets and providing skills and training will allow them to grow their businesses and positively impact their communities. It is also necessary that we help enable our global partners to invest in the tools and infrastructure that make this possible, including high-speed broadband; business incubators and accelerators; regional economic development programs and extension services; international people-to-people exchange programs; and the technical, export, and business assistance and mentoring that entrepreneurs need worldwide in order to drive economic growth and job creation.
+
+This order sets forth the administration and goals of several programs designed to connect American and foreign entrepreneurs with the Federal Government and promote entrepreneurship across the United States and around the world by sharing the knowledge, experience, and connectivity necessary to help develop the next generation of entrepreneurs.
+
+Sec. 2. Administration of the Presidential Ambassadors for Global Entrepreneurship Program. (a) The Secretary of Commerce (Secretary) shall administer the Presidential Ambassadors for Global Entrepreneurship Program (PAGE Program) to enable individuals who exemplify the spirit of American entrepreneurship and who have proven track records to use their networks, platforms, and voices to support aspiring entrepreneurs and advance public policies that encourage entrepreneurship in the United States and around the globe. Individuals selected for participation in the PAGE Program shall be known as PAGE Members.
+
+(b) The PAGE Program shall be administered by a Director, appointed by the Secretary under authorities of the Department of Commerce (Commerce). Commerce shall provide necessary staff, resources, and administrative support for the PAGE Program to the extent permitted by law and within existing appropriations.
+
+Sec. 3. PAGE Advisory Board. (a) The Secretary shall establish an Advisory Board to advise the Secretary by recommending such priorities, standards, and partnerships as may be beneficial to fulfill the goals of the PAGE Program and to identify potential opportunities for PAGE Members to support the PAGE Program.
+
+(b) The Secretary shall serve as Chair of the Advisory Board. In addition to the Chair, the membership of the Advisory Board shall include the Secretary of State, the Administrator of the United States Agency for International Development (USAID), the Administrator of the Small Business Administration (SBA), and the Administrator of the National Aeronautics and Space Administration (NASA), or their designees, and such other representatives of executive departments and agencies (agencies) as may be designated by the Secretary. Consistent with law, the Advisory Board may consult with industry, academia, and other non-federal entities to ensure that the PAGE Program is continually identifying opportunities to apply innovative practices in effective ways to promote entrepreneurship.
+
+Sec. 4. Selection of PAGE Members. (a) The Secretary, in accordance with applicable law, shall prescribe appropriate procedures for the selection of PAGE Members. PAGE Members will total no more than 25 at any given time.
+
+(b) PAGE Members may participate in the PAGE Program for periods of 2 years, and may be selected to participate for additional periods at the discretion of the Secretary.
+
+Sec. 5. Responsibilities of Agencies. The Department of State (State), USAID, and SBA are encouraged to work with the Secretary and the Advisory Board to maximize the PAGE Program’s benefits to innovation, global entrepreneurship, and the American private sector through the identification of opportunities for entrepreneurs to access capital, education, mentorships, and other services that will help to grow their businesses.
+
+Sec. 6. Global Entrepreneurship Summit. (a) The Secretary of State shall coordinate the Federal Government’s participation in the Global Entrepreneurship Summit (GES), which will focus on connecting entrepreneurs around the world and empowering them to expand their enterprises and build lasting relationships with the United States; increasing global economic prosperity; building secure communities; promoting responsible business conduct, including business practices to encourage greater representation of all people, including women, youth, and minorities; and using innovation to solve pressing global challenges.
+
+(b) State shall coordinate with Commerce, USAID, and SBA to identify and carry out programs and activities that will further the goals of the GES to the extent permitted by law and within existing appropriations.
+
+Sec. 7. Accelerating Entrepreneurship and Economic Opportunity by Expanding Internet Access Globally. State, in coordination with other agencies, multilateral institutions, foreign countries, and stakeholders, shall work to actively promote global Internet connectivity. Specifically, the Global Connect Initiative shall focus on encouraging foreign countries to prioritize Internet connectivity in development plans, promoting the formation of region-specific multi-sector working groups to ensure technical and regulatory best practices, and encouraging the development of digital literacy programs in developing nations.
+
+Sec. 8. Global Connect International Connectivity Steering Group. (a) In order to ensure a coordinated and consistent approach in agency implementation of the goals set forth in section 7 of this order, there is hereby established a Global Connect International Connectivity Steering Group (Steering Group), chaired by State.
+
+(b) The Steering Group shall be composed of a representative from each of the following agencies:
+
+(i) the Department of State;
+
+(ii) the Department of the Treasury;
+
+(iii) the Department of Defense;
+
+(iv) the Department of Commerce;
+
+(v) the Department of Transportation;
+
+(vi) the United States Trade Representative;
+
+(vii) the Small Business Administration;
+
+(viii) the United States Trade and Development Agency;
+
+(ix) the Millennium Challenge Corporation;
+
+(x) the Overseas Private Investment Corporation;
+
+(xi) the Export-Import Bank of the United States; and
+
+(xii) the United States Agency for International Development.
+
+(c) The Chair shall invite a representative from the Federal Communications Commission, and may invite a representative from any other department, agency, component, or office the Chair deems appropriate, to participate as a member of the Steering Group.
+
+(d) The Chair shall consult with the following entities in setting the agenda of the Steering Group and ensuring coordination with other Administration policies:
+
+(i) the National Economic Council;
+
+(ii) the National Security Council Staff; and
+
+(iii) the Office of Science and Technology Policy.
+
+(e) Not later than 6 months after the date of this order, the Steering Group shall report to the Secretary of State. In this report, the Steering Group shall:
+
+(i) describe the current state of agency procedures, requirements, programs, and policies related to the goals of the Global Connect Initiative; and
+
+(ii) provide updates on the strategy and the evaluation criteria for Federal contributions to the Global Connect Initiative.
+
+(f) The Secretary of State may request a periodic update of this report every 12 months thereafter, through 2020, on progress that has been made in achieving the goals of the Global Connect Initiative.
+
+Sec. 9. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to a department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.
+
 
 <a id="section-1513"></a>
 ## § 1513. Duties and powers vested in Department
@@ -859,6 +952,8 @@ Section is from the Department of Commerce and Related Agencies Appropriations A
 #### Similar Provisions
 Similar provisions were contained in the following prior appropriation acts:
 
+Pub. L. 114–113, div. B, title I, Dec. 18, 2015, 129 Stat. 2292.
+
 Pub. L. 113–235, div. B, title I, Dec. 16, 2014, 128 Stat. 2179.
 
 Pub. L. 113–76, div. B, title I, Jan. 17, 2014, 128 Stat. 49.
@@ -884,6 +979,8 @@ Section is from the Department of Commerce and Related Agencies Appropriations A
 
 #### Similar Provisions
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 114–113, div. B, title I, Dec. 18, 2015, 129 Stat. 2291.
 
 Pub. L. 113–235, div. B, title I, Dec. 16, 2014, 128 Stat. 2177.
 
@@ -1260,11 +1357,11 @@ Pub. L. 111–358, § 407(c), which directed the repeal of section 5163(d) of th
 
 **(b) Eligible recipients; waiver of fees in cases of foreign governments and international organizations**
 
-(1) The Secretary shall provide data, information, and products described in subsection (a) of this section to Federal, State, and local government agencies, to universities, and to other nonprofit institutions at the cost of reproduction and transmission, if such data, information, and products are to be used for research and not for commercial purposes.
+(1) The Secretary shall provide data, information, and products described in subsection (a) to Federal, State, and local government agencies, to universities, and to other nonprofit institutions at the cost of reproduction and transmission, if such data, information, and products are to be used for research and not for commercial purposes.
 
-(2) The Secretary shall waive the assessment of fees under subsection (a) of this section as necessary to continue to provide data, information, or products to foreign governments and international organizations on a basis of exchanging such data, information, and products or as otherwise provided by international agreement.
+(2) The Secretary shall waive the assessment of fees under subsection (a) as necessary to continue to provide data, information, or products to foreign governments and international organizations on a basis of exchanging such data, information, and products or as otherwise provided by international agreement.
 
-(3) The Secretary shall waive the assessment of fees authorized by subsection (a) of this section as necessary to continue to provide weather warnings, watches, and similar products and services essential to the mission of the National Oceanic Atmospheric 11 So in original. Probably should be preceded by “and”. Administration.
+(3) The Secretary shall waive the assessment of fees authorized by subsection (a) as necessary to continue to provide weather warnings, watches, and similar products and services essential to the mission of the National Oceanic Atmospheric 11 So in original. Probably should be preceded by “and”. Administration.
 
 **(c) Publication of fee schedules in Federal Register; initial schedule effective for three-year period** The initial schedule of any fees assessed under this section, and any subsequent amendment to such schedule, shall be published by the Secretary in the Federal Register at least 30 days before such fees will take effect. The initial schedule shall remain in effect without amendment for the three-year period beginning on the date that fees under the schedule take effect.
 
@@ -1272,7 +1369,7 @@ Pub. L. 111–358, § 407(c), which directed the repeal of section 5163(d) of th
 
 (1) The initial schedule of fees established by the National Environmental Satellite, Data, and Information Service for archived data shall remain in effect for the 3-year period beginning on the date that the fees under that schedule take effect.
 
-(2) With respect to the first one-year period during which the initial fee schedule is in effect, fees shall be assessed at no more than one-third of the fair market value specified in subsection (a) of this section.
+(2) With respect to the first one-year period during which the initial fee schedule is in effect, fees shall be assessed at no more than one-third of the fair market value specified in subsection (a).
 
 (3) With respect to the second one-year period during which the initial fee schedule is in effect, fees shall be assessed at not more than two-thirds of such fair market value.
 
@@ -1403,9 +1500,12 @@ Similar provisions were contained in Pub. L. 108–7, div. B, title II, Feb. 20,
 <a id="section-1541"></a>
 ## § 1541. Administrative Law Judges
 
-Notwithstanding [section 559 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section559&num=0&edition=prelim), with respect to any marine resource conservation law or regulation administered by the Secretary of Commerce acting through the National Oceanic and Atmospheric Administration, all adjudicatory functions which are required by chapter 5 of title 5 to be performed by an Administrative Law Judge may be performed by the United States Coast Guard on a reimbursable basis. Should the United States Coast Guard require the detail of an Administrative Law Judge to perform any of these functions, it may request such temporary or occasional assistance from the Office of Personnel Management pursuant to [section 3344 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3344&num=0&edition=prelim).
+Notwithstanding [section 559 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section559&num=0&edition=prelim), with respect to any marine resource conservation law or regulation administered by the Secretary of Commerce acting through the National Oceanic and Atmospheric Administration, all adjudicatory functions which are required by chapter 5 of title 5 to be performed by an Administrative Law Judge may be performed by another Federal agency on a reimbursable basis. Should another Federal agency require the detail of an Administrative Law Judge to perform any of these functions, it may request such temporary or occasional assistance from the Office of Personnel Management pursuant to [section 3344 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3344&num=0&edition=prelim).
 
 ### Statutory Notes
+
+#### Amendments
+2016—Pub. L. 114–327 substituted “another Federal agency” for “the United States Coast Guard” in two places.
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -1437,7 +1537,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(d) Eligibility** In order to be eligible to participate in the program, an individual must—
 
-(1) be enrolled or accepted for enrollment as a full-time student at an institution of higher education (as defined in [section 1001(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim)) in an academic field or discipline described in subsection (c) of this section;
+(1) be enrolled or accepted for enrollment as a full-time student at an institution of higher education (as defined in [section 1001(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim)) in an academic field or discipline described in subsection (c);
 
 (2) be a United States citizen;
 
@@ -1523,7 +1623,7 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 Secretary of Commerce substituted for Secretary of the Interior in view of transfer of functions to Secretary of Commerce from Secretary of the Interior by section 2 of Pub. L. 93–193. See Transfer of Functions note set out under [section 1544 of this title](./chapter-040-department-of-commerce.md#section-1544).
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 702 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section702&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim).
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1302&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim).
 
 
 <a id="section-1547"></a>

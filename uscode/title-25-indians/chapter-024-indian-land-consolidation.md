@@ -17,17 +17,17 @@ For the purpose of this chapter—
 
   (A) any person who is a member of any Indian tribe, is eligible to become a member of any Indian tribe, or is an owner (as of October 27, 2004) of a trust or restricted interest in land;
 
-  (B) any person meeting the definition of Indian under the Indian Reorganization Act ([25 U.S.C. 479](./chapter-014-miscellaneous.md#section-479)) and the regulations promulgated thereunder; and
+  (B) any person meeting the definition of Indian under the Indian Reorganization Act ([25 U.S.C. 479](./chapter-014-miscellaneous.md#section-479)) 11 See References in Text note below. and the regulations promulgated thereunder; and
 
-  (C) with respect to the inheritance and ownership of trust or restricted land in the State of California pursuant to [section 2206 of this title](./chapter-024-indian-land-consolidation.md#section-2206), any person described in subparagraph (A) or (B) or any person who owns a trust or restricted interest in a parcel of such land in that State.11 So in original. The period probably should be a semicolon.
+  (C) with respect to the inheritance and ownership of trust or restricted land in the State of California pursuant to [section 2206 of this title](./chapter-024-indian-land-consolidation.md#section-2206), any person described in subparagraph (A) or (B) or any person who owns a trust or restricted interest in a parcel of such land in that State.22 So in original. The period probably should be a semicolon.
 
 (3) “Secretary” means the Secretary of the Interior;
 
 (4)
 
-  (i) “trust or restricted lands” means lands, title to which is held by the United States in trust for an Indian tribe or individual, or which is held by an Indian tribe or individual subject to a restriction by the United States against alienation; and (ii) “trust or restricted interest in land” or “trust or restricted interest in a parcel of land” means an interest in land, the title to which interest is held in trust by the United States for an Indian tribe or individual, or which is held by an Indian tribe or individual subject to a restriction by the United States against alienation.1
+  (i) “trust or restricted lands” means lands, title to which is held by the United States in trust for an Indian tribe or individual, or which is held by an Indian tribe or individual subject to a restriction by the United States against alienation; and (ii) “trust or restricted interest in land” or “trust or restricted interest in a parcel of land” means an interest in land, the title to which interest is held in trust by the United States for an Indian tribe or individual, or which is held by an Indian tribe or individual subject to a restriction by the United States against alienation.2
 
-(5) “heirs of the first or second degree” means parents, children, grandchildren, grandparents, brothers and sisters of a decedent.1
+(5) “heirs of the first or second degree” means parents, children, grandchildren, grandparents, brothers and sisters of a decedent.2
 
 (6) “parcel of highly fractionated Indian land” means a parcel of land that the Secretary, pursuant to authority under a provision of this chapter, determines to have, as evidenced by the Secretary’s records at the time of the determination—
 
@@ -52,7 +52,7 @@ For the purpose of this chapter—
 ### Statutory Notes
 
 #### References in Text
-The Indian Reorganization Act, referred to in par. (2)(B), is act June 18, 1934, ch. 576, 48 Stat. 984, which is classified generally to subchapter V (§ 461 et seq.) of chapter 14 of this title. The term “Indian” is defined for purposes of this Act in [section 479 of this title](./chapter-014-miscellaneous.md#section-479). For complete classification of this Act to the Code, see Short Title note set out under [section 461 of this title](./chapter-014-miscellaneous.md#section-461) and Tables.
+The Indian Reorganization Act, referred to in par. (2)(B), is act June 18, 1934, ch. 576, 48 Stat. 984, which was classified generally to subchapter V (§ 461 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 45 (§ 5101 et seq.) of this title. The term “Indian” was defined for purposes of this Act in [section 479 of this title](./chapter-014-miscellaneous.md#section-479) prior to editorial reclassification as [section 5129 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5129). For complete classification of this Act to the Code, see Short Title note set out under [section 5101 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5101) and Tables.
 
 This chapter, referred to in par. (6), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
 
@@ -106,20 +106,20 @@ Pub. L. 106–462, title I, § 101, Nov. 7, 2000, 114 Stat. 1991, provided that:
 Pub. L. 106–462, title I, § 102, Nov. 7, 2000, 114 Stat. 1992, provided that: “It is the policy of the United States— “(1) to prevent the further fractionation of trust allotments made to Indians; “(2) to consolidate fractional interests and ownership of those interests into usable parcels; “(3) to consolidate fractional interests in a manner that enhances tribal sovereignty; “(4) to promote tribal self-sufficiency and self-determination; and “(5) to reverse the effects of the allotment policy on Indian tribes.”
 
 #### Authorization of Appropriations
-Pub. L. 106–462, title I, § 105, Nov. 7, 2000, 114 Stat. 2007, provided that: “There are authorized to be appropriated not to exceed $8,000,000 for fiscal year 2001 and each subsequent fiscal year to carry out the provisions of this title [enacting sections 2205, 2206, and 2212 to 2219 of this title, amending this section and sections 348, 372, 373, 464, 2204, and 2207 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and [section 2206 of this title](./chapter-024-indian-land-consolidation.md#section-2206)] (and the amendments made by this title) that are not otherwise funded under the authority provided for in any other provision of Federal law.”
+Pub. L. 106–462, title I, § 105, Nov. 7, 2000, 114 Stat. 2007, provided that: “There are authorized to be appropriated not to exceed $8,000,000 for fiscal year 2001 and each subsequent fiscal year to carry out the provisions of this title [enacting sections 2205, 2206, and 2212 to 2219 of this title, amending this section and sections 348, 372, 373, 2204, 2207, and 5107 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and [section 2206 of this title](./chapter-024-indian-land-consolidation.md#section-2206)] (and the amendments made by this title) that are not otherwise funded under the authority provided for in any other provision of Federal law.”
 
 
 <a id="section-2202"></a>
 ## § 2202. Other applicable provisions
 
-The provisions of [section 465 of this title](./chapter-014-miscellaneous.md#section-465) shall apply to all tribes notwithstanding the provisions of [section 478 of this title](./chapter-014-miscellaneous.md#section-478): Provided, That nothing in this section is intended to supersede any other provision of Federal law which authorizes, prohibits, or restricts the acquisition of land for Indians with respect to any specific tribe, reservation, or state(s).
+The provisions of [section 5108 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5108) shall apply to all tribes notwithstanding the provisions of [section 5125 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5125): Provided, That nothing in this section is intended to supersede any other provision of Federal law which authorizes, prohibits, or restricts the acquisition of land for Indians with respect to any specific tribe, reservation, or state(s).
 
 
 <a id="section-2203"></a>
 ## § 2203. Adoption of land consolidation plan with approval of Secretary
 **(a) Statement of purpose; sales or exchanges: terms and conditions** Notwithstanding any other provision of law, any tribe, acting through its governing body, is authorized, with the approval of the Secretary to adopt a land consolidation plan providing for the sale or exchange of any tribal lands or interest in lands for the purpose of eliminating undivided fractional interests in Indian trust or restricted lands or consolidating its tribal landholdings: Provided, That—
 
-(1) except as provided by subsection (c) of this section, the sale price or exchange value received by the tribe for land or interests in land covered by this section shall be no less than within 10 per centum of the fair market value as determined by the Secretary;
+(1) except as provided by subsection (c), the sale price or exchange value received by the tribe for land or interests in land covered by this section shall be no less than within 10 per centum of the fair market value as determined by the Secretary;
 
 (2) if the tribal land involved in an exchange is of greater or lesser value than the land for which it is being exchanged, the tribe may accept or give cash in such exchange in order to equalize the values of the property exchanged;
 
@@ -136,7 +136,7 @@ The provisions of [section 465 of this title](./chapter-014-miscellaneous.md#sec
 ### Statutory Notes
 
 #### Amendments
-1991—Subsec. (a)(1). Pub. L. 102–238, § 3(1), substituted “(1) except as provided by subsection (c) of this section, the sale price” for “(1) the sale price”.
+1991—Subsec. (a)(1). Pub. L. 102–238, § 3(1), substituted “(1) except as provided by subsection (c), the sale price” for “(1) the sale price”.
 
 Subsec. (c). Pub. L. 102–238, § 3(2), added subsec. (c).
 
@@ -149,7 +149,7 @@ Subsec. (b). Pub. L. 98–608 included subsec. (b) within this section and subst
 ## § 2204. Purchase of trust or restricted or controlled lands at no less than fair market value; requisite conditions
 **(a) Purchase of land**
 
-(1) **In general** — Subject to subsection (b) of this section, any Indian tribe may purchase, at not less than fair market value and with the consent of the owners of the interests, part or all of the interests in—
+(1) **In general** — Subject to subsection (b), any Indian tribe may purchase, at not less than fair market value and with the consent of the owners of the interests, part or all of the interests in—
 
   (A) any tract of trust or restricted land within the boundaries of the reservation of the tribe; or
 
@@ -161,7 +161,7 @@ Subsec. (b). Pub. L. 98–608 included subsec. (b) within this section and subst
 
   (B) *Interest owned by tribe* — Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under subparagraph (A) has been met.
 
-**(b) Conditions applicable to purchase** Subsection (a) of this section applies on the condition that—
+**(b) Conditions applicable to purchase** Subsection (a) applies on the condition that—
 
 (1) any Indian owning any undivided interest, and in actual use and possession of such tract for at least three years preceding the tribal initiative, may purchase such tract by matching the tribal offer;
 
@@ -396,9 +396,9 @@ Pub. L. 109–157, § 2(2), redesignated subsec. (d) as (c).
 
 Subsec. (d). Pub. L. 108–374, § 4, as amended by Pub. L. 109–157, § 8(a)(1), added subsec. (d).
 
-2001—Pub. L. 106–462, § 103(2)(A)(iii), which directed substitution of subsec. (b) designation and heading and “Subsection (a) of this section applies on the condition that—” for “: Provided, That—”, was executed by making the substitution for “Provided, That—” to reflect the probable intent of Congress and the amendment by Pub. L. 106–462, § 103(2)(A)(ii). See below.
+2001—Pub. L. 106–462, § 103(2)(A)(iii), which directed substitution of subsec. (b) designation and heading and “Subsection (a) applies on the condition that—” for “: Provided, That—”, was executed by making the substitution for “Provided, That—” to reflect the probable intent of Congress and the amendment by Pub. L. 106–462, § 103(2)(A)(ii). See below.
 
-Pub. L. 106–462, § 103(2)(A)(i), (ii), substituted subsec. (a) designation and heading and “Subject to subsection (b) of this section, any Indian” for “Any Indian” and “. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.” for the colon before “Provided, That—”.
+Pub. L. 106–462, § 103(2)(A)(i), (ii), substituted subsec. (a) designation and heading and “Subject to subsection (b), any Indian” for “Any Indian” and “. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.” for the colon before “Provided, That—”.
 
 Subsec. (b)(2). Pub. L. 106–462, § 103(2)(B)(ii), inserted “and” at end.
 
@@ -415,7 +415,7 @@ Par. (2). Pub. L. 98–608 added par. (2). Former par. (2) redesignated (1).
 Pars. (3), (4). Pub. L. 98–608 redesignated par. (4) as (3), and in par. (3), as so redesignated, substituted “subject to approval” for “approved” and struck out former par. (3), which provided that “this section shall not apply to any tract of land owned by less than fifteen persons; and”.
 
 #### Effective Date of 2005 Amendment
-Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under [section 464 of this title](./chapter-014-miscellaneous.md#section-464).
+Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under [section 5107 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5107).
 
 #### Severability
 Invalidity of any provision of Pub. L. 108–374 not to affect validity of remaining provisions, except that each of subcls. (II), (III), or (IV) of subsection (c)(2)(I)(i) of this section deemed to be inseverable from the other two, such that invalidity of any one subcl. renders the other two without effect, see section 9 of Pub. L. 108–374, as amended, set out as a note under [section 2201 of this title](./chapter-024-indian-land-consolidation.md#section-2201).
@@ -448,15 +448,15 @@ Invalidity of any provision of Pub. L. 108–374 not to affect validity of remai
 
   (ii) the opportunity for a devisee who is the spouse or lineal descendant of a testator to reserve a life estate without regard to waste; and
 
-  (iii) payment of fair market value in the manner prescribed under subsection (c)(2) of this section.
+  (iii) payment of fair market value in the manner prescribed under subsection (c)(2).
 
 **(b) Secretarial approval**
 
-(1) **In general** — Any tribal probate code enacted under subsection (a) of this section, and any amendment to such a tribal probate code, shall be subject to the approval of the Secretary.
+(1) **In general** — Any tribal probate code enacted under subsection (a), and any amendment to such a tribal probate code, shall be subject to the approval of the Secretary.
 
 (2) **Review and approval**
 
-  (A) *In general* — Each Indian tribe that adopts a tribal probate code under subsection (a) of this section shall submit that code to the Secretary for review. Not later than 180 days after a tribal probate code is submitted to the Secretary under this paragraph, the Secretary shall review and approve or disapprove that tribal probate code.
+  (A) *In general* — Each Indian tribe that adopts a tribal probate code under subsection (a) shall submit that code to the Secretary for review. Not later than 180 days after a tribal probate code is submitted to the Secretary under this paragraph, the Secretary shall review and approve or disapprove that tribal probate code.
 
   (B) *Consequence of failures to approve or disapprove a tribal probate code* — If the Secretary fails to approve or disapprove a tribal probate code submitted for review under subparagraph (A) by the date specified in that subparagraph, the tribal probate code shall be deemed to have been approved by the Secretary, but only to the extent that the tribal probate code is consistent with Federal law and promotes the policies set forth in section 102 of the Indian Land Consolidation Act Amendments of 2000.
 
@@ -478,7 +478,7 @@ Invalidity of any provision of Pub. L. 108–374 not to affect validity of remai
 
 (4) **Limitations**
 
-  (A) *Tribal probate codes* — Each tribal probate code enacted under subsection (a) of this section shall apply only to the estate of a decedent who dies on or after the effective date of the tribal probate code.
+  (A) *Tribal probate codes* — Each tribal probate code enacted under subsection (a) shall apply only to the estate of a decedent who dies on or after the effective date of the tribal probate code.
 
   (B) *Amendments to tribal probate codes* — With respect to an amendment to a tribal probate code referred to in subparagraph (A), that amendment shall apply only to the estate of a decedent who dies on or after the effective date of the amendment.
 
@@ -570,7 +570,7 @@ Subsec. (c)(2)(A). Pub. L. 108–374, § 6(a)(3)(B)(ii)(I), substituted “Inapp
 Subsec. (c)(2)(B). Pub. L. 108–374, § 6(a)(3)(B)(ii)(II), which directed the substitution of “paragraph (1)” for “subparagraph (A) or a non-Indian devisee described in [section 2206(a)(6)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2206/a/6/B&num=0&edition=prelim)” was executed by making the substitution for language which did not contain the words “of this title” in the original, to reflect the probable intent of Congress.
 
 #### Effective Date of 2005 Amendment
-Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under [section 464 of this title](./chapter-014-miscellaneous.md#section-464).
+Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under [section 5107 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5107).
 
 
 <a id="section-2206"></a>
@@ -722,7 +722,7 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
   (B) *Indian reorganization act lands*
 
-    (i) *In general* — Subject to clauses (ii) and (iii), any interest”; 55 So in original. in trust or restricted land that is subject to [section 464 of this title](./chapter-014-miscellaneous.md#section-464), may be devised only in accordance with—
+    (i) *In general* — Subject to clauses (ii) and (iii), any interest”; 55 So in original. in trust or restricted land that is subject to [section 5107 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5107), may be devised only in accordance with—
 
       (I) that section;
 
@@ -738,7 +738,7 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
       (III) *Notice of request* — An Indian tribe shall provide to the Secretary a copy of any resolution, law, or other enactment of the Indian tribe that requests the Secretary to apply subparagraph (A)(ii) to devises of trust or restricted land under the jurisdiction of the Indian tribe.
 
-    (iii) *Effect* — Except as provided in clause (ii), nothing; and 66 So in original. The semicolon and word “and” probably should not appear. in this section or in [section 464 of this title](./chapter-014-miscellaneous.md#section-464), shall be construed to authorize the devise of any interest in trust or restricted land that is subject to [section 464 of this title](./chapter-014-miscellaneous.md#section-464) to any person as a fee interest under subparagraph (A)(ii).
+    (iii) *Effect* — Except as provided in clause (ii), nothing; and 66 So in original. The semicolon and word “and” probably should not appear. in this section or in [section 5107 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5107), shall be construed to authorize the devise of any interest in trust or restricted land that is subject to [section 5107 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5107) to any person as a fee interest under subparagraph (A)(ii).
 
 (3) **General devise of an interest in trust personalty**
 
@@ -752,9 +752,9 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
 (4) **Invalid devises and wills**
 
-  (A) *Land* — Any trust or restricted interest in land that is not devised in accordance with paragraph (1) or (2) or that is not disposed of by a valid will shall descend in accordance with the applicable law of intestate succession as provided for in subsection (a) of this section.
+  (A) *Land* — Any trust or restricted interest in land that is not devised in accordance with paragraph (1) or (2) or that is not disposed of by a valid will shall descend in accordance with the applicable law of intestate succession as provided for in subsection (a).
 
-  (B) *Personalty* — Any trust personalty that is not disposed of by a valid will shall descend in accordance with the applicable law of intestate succession as provided for in subsection (a) of this section.
+  (B) *Personalty* — Any trust personalty that is not disposed of by a valid will shall descend in accordance with the applicable law of intestate succession as provided for in subsection (a).
 
 **(c) Joint tenancy; right of survivorship**
 
@@ -819,7 +819,7 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
 **(g) Applicable Federal law**
 
-(1) **In general** — Any references in subsections (a) and (b) of this section to applicable Federal law include—
+(1) **In general** — Any references in subsections (a) and (b) to applicable Federal law include—
 
   (A) Public Law 91–627 (84 Stat. 1874);
 
@@ -869,9 +869,9 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
 (4) **Persons born out of wedlock** — In construing provisions of this chapter 8 relating to lapsed and void devises, and in construing a devise to a person or persons described by relationship to the testator or to another, a person born out of wedlock shall be considered the child of the natural mother and also of the natural father.
 
-(5) **Lapsed devises** — Subject to the provisions of subsection (b) of this section, where the testator devises or bequeaths a trust or restricted interest in land or trust personalty to the testator’s grandparents or to the lineal descendent of a grandparent, and the devisee or legatee dies before the testator leaving lineal descendents, such descendents shall take the interest so devised or bequeathed per stirpes.
+(5) **Lapsed devises** — Subject to the provisions of subsection (b), where the testator devises or bequeaths a trust or restricted interest in land or trust personalty to the testator’s grandparents or to the lineal descendent of a grandparent, and the devisee or legatee dies before the testator leaving lineal descendents, such descendents shall take the interest so devised or bequeathed per stirpes.
 
-(6) **Void devises** — Except as provided in paragraph (5), and if the disposition shall not be otherwise expressly provided for by a tribal probate code approved under [section 2205 of this title](./chapter-024-indian-land-consolidation.md#section-2205), if a devise other than a residuary devise of a trust or restricted interest in land or trust personalty fails for any reason, such interest shall become part of the residue and pass, subject to the provisions of subsection (b) of this section, to the other residuary devisees, if any, in proportion to their respective shares or interests in the residue.
+(6) **Void devises** — Except as provided in paragraph (5), and if the disposition shall not be otherwise expressly provided for by a tribal probate code approved under [section 2205 of this title](./chapter-024-indian-land-consolidation.md#section-2205), if a devise other than a residuary devise of a trust or restricted interest in land or trust personalty fails for any reason, such interest shall become part of the residue and pass, subject to the provisions of subsection (b), to the other residuary devisees, if any, in proportion to their respective shares or interests in the residue.
 
 (7) **Family cemetery plot** — If a family cemetery plot owned by the testator in trust or restricted status at his decease is not mentioned in the decedent’s will, the ownership of the plot shall descend to his heirs as if he had died intestate.
 
@@ -947,7 +947,7 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
         (bb) an intent that the transfer be in lieu of a testamentary provision is demonstrated by statements of the testator or through a reasonable inference based on the amount of the transfer or other evidence.
 
-    (iii) *Spouses married at the time of the will* — Should the surviving spouse of the testator be omitted from the will of the testator, the surviving spouse shall be treated, for purposes of trust or restricted land or trust personalty in the testator’s estate, in accordance with subsection (a)(2)(A) of this section, as though there was no will but only if—
+    (iii) *Spouses married at the time of the will* — Should the surviving spouse of the testator be omitted from the will of the testator, the surviving spouse shall be treated, for purposes of trust or restricted land or trust personalty in the testator’s estate, in accordance with subsection (a)(2)(A), as though there was no will but only if—
 
       (I) the testator and surviving spouse were continuously married without legal separation for the 5-year period preceding the decedent’s death;
 
@@ -992,7 +992,7 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
 (5) **Advancements of trust personalty during lifetime; effect on distribution of estate**
 
-  (A) The trust personalty of a decedent who dies intestate as to all or a portion of his or her estate, given during the decedent’s lifetime to a person eligible to be an heir of the decedent under subsection (b)(2)(B) of this section, shall be treated as an advancement against the heir’s inheritance, but only if the decedent declared in a contemporaneous writing, or the heir acknowledged in writing, that the gift is an advancement or is to be taken into account in computing the division and distribution of the decedent’s intestate estate.
+  (A) The trust personalty of a decedent who dies intestate as to all or a portion of his or her estate, given during the decedent’s lifetime to a person eligible to be an heir of the decedent under subsection (b)(2)(B), shall be treated as an advancement against the heir’s inheritance, but only if the decedent declared in a contemporaneous writing, or the heir acknowledged in writing, that the gift is an advancement or is to be taken into account in computing the division and distribution of the decedent’s intestate estate.
 
   (B) For the purposes of this section, trust personalty advanced during the decedent’s lifetime is valued as of the time the heir came into possession or enjoyment of the property or as of the time of the decedent’s death, whichever occurs first.
 
@@ -1016,18 +1016,18 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
       (I) an eligible heir;
 
-      (II) any person who would have been eligible to be a devisee of the interest in question pursuant to subsection (b)(1)(A) of this section (but only in cases where the renouncing person is a devisee of the interest under a valid will); or
+      (II) any person who would have been eligible to be a devisee of the interest in question pursuant to subsection (b)(1)(A) (but only in cases where the renouncing person is a devisee of the interest under a valid will); or
 
       (III) the Indian tribe with jurisdiction over the interest in question;
     and the interest so renounced shall pass to its recipient in trust or restricted status.
 
-    (ii) *Trust personalty* — An interest in trust personalty may be renounced or disclaimed in favor of any person who would be eligible to be a devisee of such an interest under subsection (b)(3) of this section and shall pass to the recipient in accordance with the provisions of that subsection.
+    (ii) *Trust personalty* — An interest in trust personalty may be renounced or disclaimed in favor of any person who would be eligible to be a devisee of such an interest under subsection (b)(3) and shall pass to the recipient in accordance with the provisions of that subsection.
 
     (iii) *Unauthorized renunciations and disclaimers* — Unless renounced or disclaimed in favor of a person or Indian tribe eligible to receive the interest in accordance with the provisions of this subparagraph, a renounced or disclaimed interest shall pass as if the renunciation or disclaimer had not been made.
 
   (C) *Acceptance of interest* — A renunciation or disclaimer of an interest filed in accordance with this paragraph shall be considered accepted when implemented in a final order by a decisionmaker, and shall thereafter be irrevocable. No renunciation or disclaimer of an interest shall be included in such order unless the recipient of the interest has been given notice of the renunciation or disclaimer and has not refused to accept the interest. All disclaimers and renunciations filed and implemented in probate orders made effective prior to October 27, 2004, are hereby ratified.
 
-  (D) *Rule of construction* — Nothing in this paragraph shall be construed to allow the renunciation of an interest that is subject to subsection (a)(2)(D) of this section in favor of more than 1 person.
+  (D) *Rule of construction* — Nothing in this paragraph shall be construed to allow the renunciation of an interest that is subject to subsection (a)(2)(D) in favor of more than 1 person.
 
 (9) **Consolidation agreements**
 
@@ -1035,7 +1035,7 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
   (B) *Effective* — An agreement approved under subparagraph (A) shall be considered final when implemented in an order by a decisionmaker. The final probate order shall direct any changes necessary to the Secretary’s land records, to reflect and implement the terms of the approved agreement.
 
-  (C) *Effect on purchase option at probate* — Any interest in trust or restricted land that is subject to a consolidation agreement under this paragraph or subsection (e) of this section shall not be available for purchase under subsection (o) of this section unless the decisionmaker determines that the agreement should not be approved.
+  (C) *Effect on purchase option at probate* — Any interest in trust or restricted land that is subject to a consolidation agreement under this paragraph or subsection (e) shall not be available for purchase under subsection (o) unless the decisionmaker determines that the agreement should not be approved.
 
 **(k) Notification to landowners** After receiving a written request by any owner of a trust or restricted interest in land, the Secretary shall provide to such landowner the following information with respect to each tract of trust or restricted land in which the landowner has an interest:
 
@@ -1097,9 +1097,9 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
 **(n) Missing heirs**
 
-(1) For purposes of this subsection and subsection (m) of this section, an heir may be presumed missing if—
+(1) For purposes of this subsection and subsection (m), an heir may be presumed missing if—
 
-  (A) such heir’s whereabouts remain unknown 60 days after completion of notice efforts under subsection (m) of this section; and
+  (A) such heir’s whereabouts remain unknown 60 days after completion of notice efforts under subsection (m); and
 
   (B) in the proceeding to determine a decedent’s heirs, the Secretary finds that the heir has had no contact with other heirs of the decedent, if any, or with the Department relating to trust or restricted land or other trust assets at any time during the 6-year period preceding the hearing to determine heirs.
 
@@ -1113,9 +1113,9 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
 (1) **In general** — The trust or restricted interests in a parcel of land in the decedent’s estate may be purchased at probate in accordance with the provisions of this subsection.
 
-(2) **Sale of interest at fair market value** — Subject to paragraph (3), the Secretary is authorized to sell trust or restricted interests in land subject to this subsection, including the interest that a surviving spouse would otherwise receive under subparagraph (A) or (D) of subsection (a)(2) of this section, at no less than fair market value, as determined in accordance with the provisions of this chapter, to any of the following eligible purchasers:
+(2) **Sale of interest at fair market value** — Subject to paragraph (3), the Secretary is authorized to sell trust or restricted interests in land subject to this subsection, including the interest that a surviving spouse would otherwise receive under subparagraph (A) or (D) of subsection (a)(2), at no less than fair market value, as determined in accordance with the provisions of this chapter, to any of the following eligible purchasers:
 
-  (A) Any other eligible heir taking an interest in the same parcel of land by intestate succession or the decedent’s other devisees of interests in the same parcel who are eligible to receive a devise under subsection (b)(1)(A) of this section.
+  (A) Any other eligible heir taking an interest in the same parcel of land by intestate succession or the decedent’s other devisees of interests in the same parcel who are eligible to receive a devise under subsection (b)(1)(A).
 
   (B) All persons who own undivided trust or restricted interests in the same parcel of land involved in the probate proceeding.
 
@@ -1127,7 +1127,7 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
     (i) an eligible purchaser described in paragraph (2) submits a written request to purchase prior to the distribution of the interest to heirs or devisees of the decedent and in accordance with any regulations of the Secretary; and
 
-    (ii) except as provided in paragraph (5), the heirs or devisees of such interest, and the decedent’s surviving spouse, if any, receiving a life estate under subparagraph (A) or (D) of subsection (a)(2) of this section consent to the sale.
+    (ii) except as provided in paragraph (5), the heirs or devisees of such interest, and the decedent’s surviving spouse, if any, receiving a life estate under subparagraph (A) or (D) of subsection (a)(2) consent to the sale.
 
   (B) *Multiple requests to purchase* — Except for interests purchased pursuant to paragraph (5), if the Secretary receives a request with respect to an interest from more than 1 eligible purchaser under paragraph (2), the Secretary shall sell the interest to the eligible purchaser that is selected by the applicable heir, devisee, or surviving spouse.
 
@@ -1159,9 +1159,9 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
   (B) *Holding in trust* — Proceeds described in subparagraph (A) shall be deposited and held in an account as trust personalty if the interest sold would otherwise pass to—
 
-    (i) the heir, by intestate succession under subsection (a) of this section; or
+    (i) the heir, by intestate succession under subsection (a); or
 
-    (ii) the devisee in trust or restricted status under subsection (b)(1) of this section.
+    (ii) the devisee in trust or restricted status under subsection (b)(1).
 
 ### Statutory Notes
 
@@ -1170,7 +1170,7 @@ This chapter, referred to in subsecs. (a)(2)(C)(ii), (D)(iii), (g)(2), (3), intr
 
 Section 8 of the American Indian Probate Reform Act of 2004, referred to in subsecs. (a)(2)(D)(iv)(II)(dd), (c)(2), and (j)(2)(A)(ii)(I), (7)(B), is section 8 of Pub. L. 108–374, which is set out as a note under [section 2201 of this title](./chapter-024-indian-land-consolidation.md#section-2201).
 
-Public Law 91–627, referred to in subsec. (g)(1)(A), is Pub. L. 91–627, Dec. 31, 1970, 84 Stat. 1874, which amended [section 607 of this title](./chapter-014-miscellaneous.md#section-607) and enacted provisions set out as a note under [section 607 of this title](./chapter-014-miscellaneous.md#section-607).
+Public Law 91–627, referred to in subsec. (g)(1)(A), is Pub. L. 91–627, Dec. 31, 1970, 84 Stat. 1874, which amended former [section 607 of this title](./chapter-014-miscellaneous.md#section-607) and enacted provisions formerly set out as a note under [section 607 of this title](./chapter-014-miscellaneous.md#section-607).
 
 Public Law 92–377, referred to in subsec. (g)(1)(B), is Pub. L. 92–377, Aug. 10, 1972, 86 Stat. 530, which is not classified to the Code.
 
@@ -1292,7 +1292,7 @@ Subsec. (p). Pub. L. 108–374, § 6(a)(2), added subsec. (p).
 Pub. L. 110–453, title II, § 207(f), Dec. 2, 2008, 122 Stat. 5033, provided that: “(1) Testamentary disposition.—The amendments made by subsection (c)(2) of this section to section 207(b) of the Indian Land Consolidation Act ([25 U.S.C. 2206(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2206/b&num=0&edition=prelim)) shall not apply to any will executed before the date that is 1 year after the date of enactment of this Act [Dec. 2, 2008]. “(2) Small undivided interests in indian lands.—The amendments made by subsection (c)(7)(C) of this section to subsection (o)(5) of section 207 of the Indian Land Consolidation Act ([25 U.S.C. 2206](./chapter-024-indian-land-consolidation.md#section-2206)) shall not apply to or affect any sale of an interest under subsection (o)(5) of that section that was completed before the date of enactment of this Act.”
 
 #### Effective Date of 2005 Amendment
-Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under [section 464 of this title](./chapter-014-miscellaneous.md#section-464).
+Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under [section 5107 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5107).
 
 #### Effective Date of 2004 Amendment
 Amendment by Pub. L. 108–374 applicable on and after the date that is 1 year after June 20, 2005, except that subsecs. (e) and (f) of this section (as amended by Pub. L. 108–374), subsec. (g) of this section (as in effect on Mar. 1, 2006), and amendment by section 6(a)(4) of Pub. L. 108–374 are applicable as of Oct. 27, 2004, see section 8(b) of Pub. L. 108–374, set out as a Notice; Effective Date of 2004 Amendment note under [section 2201 of this title](./chapter-024-indian-land-consolidation.md#section-2201).
@@ -1351,7 +1351,7 @@ This chapter, referred to in text, was in the original “this Act”, which was
 
 (3) **Interests held in trust** — Subject to [section 2213 of this title](./chapter-024-indian-land-consolidation.md#section-2213), the Secretary shall immediately hold interests acquired under this chapter in trust for the recognized tribal government that exercises jurisdiction over the land involved.
 
-**(b) Requirements** In implementing subsection (a) of this section, the Secretary—
+**(b) Requirements** In implementing subsection (a), the Secretary—
 
 (1) shall promote the policies provided for in section 102 of the Indian Land Consolidation Act Amendments of 2000;
 
@@ -1363,7 +1363,7 @@ This chapter, referred to in text, was in the original “this Act”, which was
 
   (B) shall coordinate the acquisition activities with the acquisition program of the tribal government that exercises jurisdiction over the land involved, including a tribal land consolidation plan approved pursuant to [section 2203 of this title](./chapter-024-indian-land-consolidation.md#section-2203); and
 
-  (C) may enter into agreements (such agreements will not be subject to the provisions of the Indian Self-Determination and Education Assistance Act of 1974 [[25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.]) with the tribal government that exercises jurisdiction over the land involved or a subordinate entity of the tribal government to carry out some or all of the Secretary’s land acquisition program; and
+  (C) may enter into agreements (such agreements will not be subject to the provisions of the Indian Self-Determination and Education Assistance Act of 1974 [[25 U.S.C. 5301](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) et seq.]) with the tribal government that exercises jurisdiction over the land involved or a subordinate entity of the tribal government to carry out some or all of the Secretary’s land acquisition program; and
 
 (4) shall minimize the administrative costs associated with the land acquisition program through the use of policies and procedures designed to accommodate the voluntary sale of interests under this section, notwithstanding the existence of any otherwise applicable policy, procedure, or regulation, through the elimination of duplicate—
 
@@ -1387,7 +1387,7 @@ This chapter, referred to in text, was in the original “this Act”, which was
 
       (II) the Secretary determines that the purchase price will be paid in a timely and efficient manner.
 
-  (B) *Limitation* — With respect to a conveyance under this subsection, the Secretary shall not approve an application to terminate the trust status or remove the restrictions of such an interest unless the interest is subject to a foreclosure of a mortgage in accordance with [section 483a of this title](./chapter-014-miscellaneous.md#section-483a).
+  (B) *Limitation* — With respect to a conveyance under this subsection, the Secretary shall not approve an application to terminate the trust status or remove the restrictions of such an interest unless the interest is subject to a foreclosure of a mortgage in accordance with [section 5135 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5135).
 
 (2) **Multiple owners** — If more than one Indian owner requests an interest under paragraph (1), the Secretary shall convey the interest to the Indian owner who owns the largest percentage of the undivided interest in the parcel of trust or restricted land involved.
 
@@ -1402,7 +1402,7 @@ This chapter, referred to in subsec. (a)(3), was in the original “this Act”,
 
 Section 102 of the Indian Land Consolidation Act Amendments of 2000, referred to in subsec. (b)(1), is section 102 of Pub. L. 106–462, which is set out as a note under [section 2201 of this title](./chapter-024-indian-land-consolidation.md#section-2201).
 
-The Indian Self-Determination and Education Assistance Act of 1974, referred to in subsec. (b)(3)(C), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act of 1974, referred to in subsec. (b)(3)(C), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Amendments
 2008—Subsec. (a)(1). Pub. L. 110–453 substituted “section 2206(o)” for “section 2206(p)”.
@@ -1421,23 +1421,23 @@ Subsec. (b)(4). Pub. L. 108–374, § 6(a)(5)(C), added par. (4) and struck out 
 
 Subsec. (c)(1)(A). Pub. L. 108–374, § 6(a)(5)(D)(i)(I)–(III), substituted “an undivided interest” for “at least 5 percent of the undivided interest”, inserted “in such parcel” after “the Secretary shall convey an interest”, and substituted “landowner—” and cls. (i) and (ii) for “landowner upon payment by the Indian landowner of the amount paid for the interest by the Secretary.”
 
-Subsec. (c)(1)(B). Pub. L. 108–374, § 6(a)(5)(D)(i)(IV), inserted “unless the interest is subject to a foreclosure of a mortgage in accordance with [section 483a of this title](./chapter-014-miscellaneous.md#section-483a)” before period at end.
+Subsec. (c)(1)(B). Pub. L. 108–374, § 6(a)(5)(D)(i)(IV), inserted “unless the interest is subject to a foreclosure of a mortgage in accordance with [section 5135 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5135)” before period at end.
 
 Subsec. (c)(3). Pub. L. 108–374, § 6(a)(5)(D)(ii), substituted “an undivided interest” for “10 percent or more of the undivided interests”.
 
 Subsec. (d). Pub. L. 108–374, § 6(a)(5)(E), added subsec. (d).
 
 #### Effective Date of 2005 Amendment
-Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under [section 464 of this title](./chapter-014-miscellaneous.md#section-464).
+Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under [section 5107 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5107).
 
 
 <a id="section-2213"></a>
 ## § 2213. Administration of acquired fractional interests; disposition of proceeds
-**(a) In general** Subject to the conditions described in subsection (b)(1) of this section, an Indian tribe receiving a fractional interest under [section 2212 of this title](./chapter-024-indian-land-consolidation.md#section-2212) may, as a tenant in common with the other owners of the trust or restricted lands, lease the interest, sell the resources, consent to the granting of rights-of-way, or engage in any other transaction affecting the trust or restricted land authorized by law.
+**(a) In general** Subject to the conditions described in subsection (b)(1), an Indian tribe receiving a fractional interest under [section 2212 of this title](./chapter-024-indian-land-consolidation.md#section-2212) may, as a tenant in common with the other owners of the trust or restricted lands, lease the interest, sell the resources, consent to the granting of rights-of-way, or engage in any other transaction affecting the trust or restricted land authorized by law.
 
 **(b) Application of revenue from acquired interests to land consolidation program**
 
-(1) **In general** — The Secretary shall have a lien on any revenue accruing to an interest described in subsection (a) of this section until the Secretary provides for the removal of the lien under paragraph (3), (4), or (5).
+(1) **In general** — The Secretary shall have a lien on any revenue accruing to an interest described in subsection (a) until the Secretary provides for the removal of the lien under paragraph (3), (4), or (5).
 
 (2) **Requirements**
 
@@ -1447,7 +1447,7 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
     (ii) any revenue derived from any interest acquired by the Secretary in accordance with [section 2212 of this title](./chapter-024-indian-land-consolidation.md#section-2212) shall be deposited in the fund created under [section 2215 of this title](./chapter-024-indian-land-consolidation.md#section-2215).
 
-  (B) *Approval of transactions* — Notwithstanding [section 476 of this title](./chapter-014-miscellaneous.md#section-476), or any other provision of law, until the Secretary removes a lien from an interest in land under paragraph (1), the Secretary may approve a transaction covered under this section on behalf of an Indian tribe.
+  (B) *Approval of transactions* — Notwithstanding [section 5123 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5123), or any other provision of law, until the Secretary removes a lien from an interest in land under paragraph (1), the Secretary may approve a transaction covered under this section on behalf of an Indian tribe.
 
 (3) **Removal of liens after findings** — The Secretary may remove a lien referred to in paragraph (1) if the Secretary makes a finding that—
 
@@ -1463,7 +1463,7 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
 **(c) Tribe not treated as party to lease; no effect on tribal sovereignty, immunity**
 
-(1) **In general** — Paragraph (2) shall apply with respect to any undivided interest in allotted land held by the Secretary in trust for a tribe if a lease or agreement under subsection (a) of this section is otherwise applicable to such undivided interest by reason of this section even though the Indian tribe did not consent to the lease or agreement.
+(1) **In general** — Paragraph (2) shall apply with respect to any undivided interest in allotted land held by the Secretary in trust for a tribe if a lease or agreement under subsection (a) is otherwise applicable to such undivided interest by reason of this section even though the Indian tribe did not consent to the lease or agreement.
 
 (2) **Application of lease** — The lease or agreement described in paragraph (1) shall apply to the portion of the undivided interest in allotted land described in such paragraph (including entitlement of the Indian tribe to payment under the lease or agreement), and the Indian tribe shall not be treated as being a party to the lease or agreement. Nothing in this section (or in the lease or agreement) shall be construed to affect the sovereignty of the Indian tribe.
 
@@ -1492,7 +1492,7 @@ This chapter, referred to in text, was in the original “this Act”, which was
 2004—Pub. L. 108–374, which directed substitution of “this Act” for “[section 2212 of this title](./chapter-024-indian-land-consolidation.md#section-2212)” in last sentence, was executed by substituting “this chapter” for “section 213”, meaning section 213 of Pub. L. 97–459, which is classified to [section 2212 of this title](./chapter-024-indian-land-consolidation.md#section-2212), to reflect the probable intent of Congress.
 
 #### Effective Date of 2005 Amendment
-Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under [section 464 of this title](./chapter-014-miscellaneous.md#section-464).
+Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under [section 5107 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5107).
 
 
 <a id="section-2215"></a>
@@ -1505,7 +1505,7 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
 **(b) Deposits; use**
 
-(1) **In general** — All proceeds from leases, permits, or resource sales derived from an interest in trust or restricted lands described in subsection (a)(2) of this section shall—
+(1) **In general** — All proceeds from leases, permits, or resource sales derived from an interest in trust or restricted lands described in subsection (a)(2) shall—
 
   (A) be deposited in the Acquisition Fund;
 
@@ -1596,7 +1596,7 @@ Subsec. (e)(3). Pub. L. 108–374, § 6(a)(9)(D), substituted “any person that
 Subsec. (f). Pub. L. 108–374, § 6(a)(9)(E), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “After the expiration of the limitation period provided for in subsection (b)(2) of this section and prior to considering an Indian application to terminate the trust status or to remove the restrictions on alienation from trust or restricted land sold, exchanged or otherwise conveyed under this section, the Indian tribe that exercises jurisdiction over the parcel of such land shall be notified of the application and given the opportunity to match the purchase price that has been offered for the trust or restricted land involved.”
 
 #### Effective Date of 2005 Amendment
-Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under [section 464 of this title](./chapter-014-miscellaneous.md#section-464).
+Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under [section 5107 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5107).
 
 
 <a id="section-2217"></a>
@@ -1607,7 +1607,7 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
 (2) the impact of the resulting reduction in the number of such fractional interests on the financial and realty recordkeeping systems of the Bureau of Indian Affairs.
 
-**(b) Report** The reports described in subsection (a) of this section and [section 2212(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2212/a&num=0&edition=prelim) shall contain findings as to whether the program under this chapter to acquire fractional interests in trust or restricted lands should be extended and whether such program should be altered to make resources available to Indian tribes and individual Indian landowners.
+**(b) Report** The reports described in subsection (a) and [section 2212(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2212/a&num=0&edition=prelim) shall contain findings as to whether the program under this chapter to acquire fractional interests in trust or restricted lands should be extended and whether such program should be altered to make resources available to Indian tribes and individual Indian landowners.
 
 ### Statutory Notes
 
@@ -1624,7 +1624,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 (1) **In general** — Notwithstanding any other provision of law, the Secretary may approve any lease or agreement that affects individually owned allotted land or any other land held in trust or restricted status by the Secretary on behalf of an Indian, if—
 
-  (A) the owners of not less than the applicable percentage (determined under subsection (b) of this section) of the undivided interest in the allotted land that is covered by the lease or agreement consent in writing to the lease or agreement; and
+  (A) the owners of not less than the applicable percentage (determined under subsection (b)) of the undivided interest in the allotted land that is covered by the lease or agreement consent in writing to the lease or agreement; and
 
   (B) the Secretary determines that approving the lease or agreement is in the best interest of the owners of the undivided interest in the allotted land.
 
@@ -1634,7 +1634,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 **(b) Applicable percentage**
 
-(1) **Percentage interest** — The applicable percentage referred to in subsection (a)(1) of this section shall be determined as follows:
+(1) **Percentage interest** — The applicable percentage referred to in subsection (a)(1) shall be determined as follows:
 
   (A) If there are 5 or fewer owners of the undivided interest in the allotted land, the applicable percentage shall be 90 percent.
 
@@ -1650,7 +1650,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
   (B) *Rule of construction* — Nothing in subparagraph (A) shall be construed to authorize the Secretary to treat an Indian tribe as the owner of an interest in allotted land that did not escheat to the tribe pursuant to [section 2206 of this title](./chapter-024-indian-land-consolidation.md#section-2206) as a result of the Supreme Court’s decision in Babbitt v. Youpee (117 S 11 So in original. Probably should be followed by a period. Ct. 727 (1997)).
 
-**(c) Authority of Secretary to sign lease or agreement on behalf of certain owners** The Secretary may give written consent to a lease or agreement under subsection (a) of this section—
+**(c) Authority of Secretary to sign lease or agreement on behalf of certain owners** The Secretary may give written consent to a lease or agreement under subsection (a)—
 
 (1) on behalf of the individual Indian owner if the owner is deceased and the heirs to, or devisees of, the interest of the deceased owner have not been determined; or
 
@@ -1660,7 +1660,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 (1) **Application to all parties**
 
-  (A) *In general* — Subject to paragraph (2), a lease or agreement approved by the Secretary under subsection (a) of this section shall be binding on the parties described in subparagraph (B), to the same extent as if all of the owners of the undivided interest in allotted land covered under the lease or agreement consented to the lease or agreement.
+  (A) *In general* — Subject to paragraph (2), a lease or agreement approved by the Secretary under subsection (a) shall be binding on the parties described in subparagraph (B), to the same extent as if all of the owners of the undivided interest in allotted land covered under the lease or agreement consented to the lease or agreement.
 
   (B) *Description of parties* — The parties referred to in subparagraph (A) are—
 
@@ -1670,13 +1670,13 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 (2) **Tribe not treated as party to lease; no effect on tribal sovereignty, immunity**
 
-  (A) *In general* — Subparagraph (B) shall apply with respect to any undivided interest in allotted land held by the Secretary in trust for a tribe if a lease or agreement under subsection (a) of this section is otherwise applicable to such undivided interest by reason of this section even though the Indian tribe did not consent to the lease or agreement.
+  (A) *In general* — Subparagraph (B) shall apply with respect to any undivided interest in allotted land held by the Secretary in trust for a tribe if a lease or agreement under subsection (a) is otherwise applicable to such undivided interest by reason of this section even though the Indian tribe did not consent to the lease or agreement.
 
   (B) *Application of lease* — The lease or agreement described in subparagraph (A) shall apply to the portion of the undivided interest in allotted land described in such paragraph (including entitlement of the Indian tribe to payment under the lease or agreement), and the Indian tribe shall not be treated as being a party to the lease or agreement. Nothing in this section (or in the lease or agreement) shall be construed to affect the sovereignty of the Indian tribe.
 
 **(e) Distribution of proceeds**
 
-(1) **In general** — The proceeds derived from a lease or agreement that is approved by the Secretary under subsection (a) of this section shall be distributed to all owners of undivided interest in the allotted land covered under the lease or agreement.
+(1) **In general** — The proceeds derived from a lease or agreement that is approved by the Secretary under subsection (a) shall be distributed to all owners of undivided interest in the allotted land covered under the lease or agreement.
 
 (2) **Determination of amounts distributed** — The amount of the proceeds under paragraph (1) that are distributed to each owner under that paragraph shall be determined in accordance with the portion of the undivided interest in the allotted land covered under the lease or agreement that is owned by that owner.
 
@@ -1725,7 +1725,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, wh
 
 **(c) Owner management**
 
-(1) **In general** — Notwithstanding any provision of Federal law requiring the Secretary to approve individual Indian leases of individual Indian trust or restricted land, where the owners of all of the undivided trust or restricted interests in a parcel of land have submitted applications to the Secretary pursuant to subsection (a) of this section, and the Secretary has approved such applications under subsection (d) of this section, such owners may, without further approval by the Secretary, enter into a lease of the parcel for agricultural purposes for a term not to exceed 10 years.
+(1) **In general** — Notwithstanding any provision of Federal law requiring the Secretary to approve individual Indian leases of individual Indian trust or restricted land, where the owners of all of the undivided trust or restricted interests in a parcel of land have submitted applications to the Secretary pursuant to subsection (a), and the Secretary has approved such applications under subsection (d), such owners may, without further approval by the Secretary, enter into a lease of the parcel for agricultural purposes for a term not to exceed 10 years.
 
 (2) **Rule of construction** — No such lease shall be effective until it has been executed by the owners of all undivided trust or restricted interests in the parcel.
 
@@ -1741,7 +1741,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, wh
 
 (2) has been approved by the Secretary in accordance with other Federal laws applicable to the leasing of trust or restricted land.
 
-**(f) Lease revenues** The Secretary shall not be responsible for the collection of, or accounting for, any lease revenues accruing to any interests under a lease authorized by subsection (e) of this section, so long as such interest is in owner-managed status under the provisions of this section.
+**(f) Lease revenues** The Secretary shall not be responsible for the collection of, or accounting for, any lease revenues accruing to any interests under a lease authorized by subsection (e), so long as such interest is in owner-managed status under the provisions of this section.
 
 **(g) Jurisdiction**
 
@@ -1751,7 +1751,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, wh
 
 **(h) Continuation of owner-managed status; revocation**
 
-(1) **In general** — Subject to the provisions of paragraph (2), after the applications of the owners of all of the trust or restricted interests in a parcel of land have been approved by the Secretary pursuant to subsection (d) of this section, each such interest shall continue in owner-managed status under this section notwithstanding any subsequent conveyance of the interest in trust or restricted status to another person or the subsequent descent of the interest in trust or restricted status by testate or intestate succession to 1 or more heirs.
+(1) **In general** — Subject to the provisions of paragraph (2), after the applications of the owners of all of the trust or restricted interests in a parcel of land have been approved by the Secretary pursuant to subsection (d), each such interest shall continue in owner-managed status under this section notwithstanding any subsequent conveyance of the interest in trust or restricted status to another person or the subsequent descent of the interest in trust or restricted status by testate or intestate succession to 1 or more heirs.
 
 (2) **Revocation** — Owner-managed status of an interest may be revoked upon written request of the owners (including the parents or legal guardians of minors or incompetent owners) of all trust or restricted interests in the parcel, submitted to the Secretary in accordance with regulations adopted under subsection (l).11 See References in Text note below. The revocation shall become effective as of the date on which the last of all such requests has been delivered to the Secretary.
 
@@ -1759,7 +1759,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, wh
 
 **(i) Defined terms**
 
-(1) For purposes of subsection (d)(1) of this section, the term “qualified applicant” means—
+(1) For purposes of subsection (d)(1), the term “qualified applicant” means—
 
   (A) a person over the age of 18 who owns a trust or restricted interest in a parcel of land; and
 
@@ -1767,15 +1767,15 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, wh
 
 (2) For purposes of this section, the term “owner-managed status” means, with respect to a trust or restricted interest, that—
 
-  (A) the interest is a trust or restricted interest in a parcel of land for which applications covering all trust or restricted interests in such parcel have been submitted to and approved by the Secretary pursuant to subsection (d) of this section;
+  (A) the interest is a trust or restricted interest in a parcel of land for which applications covering all trust or restricted interests in such parcel have been submitted to and approved by the Secretary pursuant to subsection (d);
 
   (B) the interest may be leased without approval of the Secretary pursuant to, and in a manner that is consistent with, the requirements of this section; and
 
-  (C) no revocation has occurred under subsection (h)(2) of this section.
+  (C) no revocation has occurred under subsection (h)(2).
 
-**(j) Secretarial approval of other transactions** Except with respect to the specific lease transaction described in paragraph (1) of subsection (c) of this section, interests that acquire owner-managed status under the provisions of this section shall continue to be subject to all Federal laws requiring the Secretary to approve transactions involving trust or restricted land (including leases with terms of a duration in excess of 10 years) that would otherwise apply to such interests if the interests had not acquired owner-managed status under this section.
+**(j) Secretarial approval of other transactions** Except with respect to the specific lease transaction described in paragraph (1) of subsection (c), interests that acquire owner-managed status under the provisions of this section shall continue to be subject to all Federal laws requiring the Secretary to approve transactions involving trust or restricted land (including leases with terms of a duration in excess of 10 years) that would otherwise apply to such interests if the interests had not acquired owner-managed status under this section.
 
-**(k) Effect of section** Subject to subsections (c), (f), and (h) of this section, nothing in this section diminishes or otherwise affects any authority or responsibility of the Secretary with respect to an interest in trust or restricted land.
+**(k) Effect of section** Subject to subsections (c), (f), and (h), nothing in this section diminishes or otherwise affects any authority or responsibility of the Secretary with respect to an interest in trust or restricted land.
 
 ### Statutory Notes
 

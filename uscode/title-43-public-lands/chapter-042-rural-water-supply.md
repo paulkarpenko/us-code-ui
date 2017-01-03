@@ -17,7 +17,7 @@ In this subchapter:
 
 (3) **Indian** — The term “Indian” means an individual who is a member of an Indian tribe.
 
-(4) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim).
+(4) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 (5) **Non-Federal project entity** — The term “non-Federal project entity” means a State, regional, or local authority, Indian tribe or tribal organization, or other qualifying entity, such as a water conservation district, water conservancy district, or rural water district or association.
 
@@ -469,7 +469,7 @@ The authority of the Secretary to carry out this subchapter terminates on Septem
 
 In this subchapter:
 
-(1) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim).
+(1) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 (2) **Lender** — The term “lender” means—
 

@@ -2,8 +2,8 @@
 title: 6
 heading: DOMESTIC SECURITY
 positive_law: false
-sections: 438
-chapters: 5
+sections: 472
+chapters: 6
 ---
 # Title 6. DOMESTIC SECURITY
 
@@ -13,3 +13,4 @@ chapters: 5
 - 3 — SECURITY AND ACCOUNTABILITY FOR EVERY PORT
 - 4 — TRANSPORTATION SECURITY
 - 5 — BORDER INFRASTRUCTURE AND TECHNOLOGY MODERNIZATION
+- 6 — CYBERSECURITY

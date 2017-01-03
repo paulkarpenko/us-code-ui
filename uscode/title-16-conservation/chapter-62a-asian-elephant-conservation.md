@@ -93,7 +93,7 @@ Division A, section 101(e), title I of Public Law 105–277, referred to in par.
 
 **(c) Project review and approval**
 
-(1) **In general** — Within 30 days after receiving a final project proposal, the Secretary shall provide a copy of the proposal to the Administrator. The Secretary shall review each final project proposal to determine if it meets the criteria set forth in subsection (d) of this section.
+(1) **In general** — Within 30 days after receiving a final project proposal, the Secretary shall provide a copy of the proposal to the Administrator. The Secretary shall review each final project proposal to determine if it meets the criteria set forth in subsection (d).
 
 (2) **Consultation; approval or disapproval** — Not later than 6 months after receiving a final project proposal, and subject to the availability of funds, the Secretary, after consulting with the Administrator, shall—
 

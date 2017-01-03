@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 93–584 designated existing second par. as subsec. (c), su
 1949—Act May 24, 1949, substituted “20, 23, and 43” for “20, 43, and 49” in second par.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 #### Effective Date of 1975 Amendment
 Pub. L. 93–584, § 10, Jan. 2, 1975, 88 Stat. 1918, provided that: “This Act [amending this section, sections 1336, 1398, 2323, 2341, and 2342 of this title, and section 305 of former Title 49, Transportation, and repealing sections 2324 and 2325 of this title] shall not apply to any action commenced on or before the last day of the first month beginning after the date of enactment [Jan. 2, 1975]. However, actions to enjoin or suspend orders of the Interstate Commerce Commission which are pending when this Act becomes effective shall not be affected thereby, but shall proceed to final disposition under the law existing on the date they were commenced.”
@@ -94,7 +94,7 @@ This section corrects, in [section 2323 of title 28](./chapter-157-surface-trans
 1949—Act May 24, 1949, substituted “20, 23, and 43” for “20, 43, and 49” in first par.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 #### Effective Date of 1975 Amendment
 Amendment by Pub. L. 93–584 not applicable to actions commenced on or before last day of first month beginning after Jan. 2, 1975, and actions to enjoin or suspend orders of Interstate Commerce Commission which are pending when this amendment becomes effective shall not be affected thereby, but shall proceed to final disposition under the law existing on the date they were commenced, see section 10 of Pub. L. 93–584, set out as a note under [section 2321 of this title](./chapter-157-surface-transportation-board-orders-enforcement-and-review.md#section-2321).

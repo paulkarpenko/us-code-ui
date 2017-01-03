@@ -896,7 +896,7 @@ In subsection (b)(3), the word “civil” is added for consistency in the revis
 In subsection (c)(2), the word “either” is omitted as surplus.
 
 #### References in Text
-The Higher Education Act of 1965, referred to in subsec. (c)(1)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (c)(1)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Titles II, VIII, XVI, and XVIII of the Act are classified generally to subchapters II (§ 401 et seq.), VIII (§ 1001 et seq.), XVI (§ 1381 et seq.), and XVIII (§ 1395 et seq.), respectively, of chapter 7 of Title 42. Sections 205(b)(1), 809(a)(1), and 1631(c)(1) of the Act are classified to sections 405(b)(1), 1009(a)(1), and 1383(c)(1), respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
@@ -2052,7 +2052,7 @@ Subsecs. (c) to (g). Pub. L. 99–627, § 1(2), (3), added subsecs. (c) to (e) a
 Amendment by Pub. L. 105–264 effective 18 months after Oct. 19, 1998, see section 3(b) of Pub. L. 105–264, set out as a note under [section 3322 of this title](./chapter-033-depositing-keeping-and-paying-money.md#section-3322).
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 #### Effective Date of 1994 Amendment
 Pub. L. 103–429, § 7(a), Oct. 31, 1994, 108 Stat. 4388, provided that the amendment made by that section is effective July 5, 1994.

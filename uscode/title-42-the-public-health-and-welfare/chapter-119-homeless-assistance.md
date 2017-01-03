@@ -2,7 +2,7 @@
 title: 42
 chapter: '119'
 heading: HOMELESS ASSISTANCE
-section_count: 75
+section_count: 76
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -198,7 +198,7 @@ Pub. L. 100–628, title I, § 101, Nov. 7, 1988, 102 Stat. 3227, provided that:
 <a id="section-11304"></a>
 ## § 11304. Evaluation by Comptroller General
 
-The Comptroller General of the United States may evaluate the disbursement and use of the amounts made available by appropriation Acts under the authorizations in subchapters III and IV of this chapter.
+The Comptroller General of the United States may evaluate the disbursement and use of the amounts made available by appropriation Acts under the authorizations in subchapters III and IV.
 
 ### Statutory Notes
 
@@ -346,7 +346,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 (9) 1 collect and disseminate information relating to homeless individuals;
 
-(10) prepare the annual reports required in subsection (c)(2) of this section;
+(10) prepare the annual reports required in subsection (c)(2);
 
 (11) prepare and distribute to States (including State contact persons), local governments, and other public and private nonprofit organizations, a bimonthly bulletin that describes the Federal resources available to them to assist the homeless, including current information regarding application deadlines and appropriate persons to contact in each Federal agency providing the resources;
 
@@ -354,7 +354,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 (13) not later than the expiration of the 6-month period beginning upon completion of the study requested in a letter to the Acting Comptroller General from the Chair and Ranking Member of the House Financial Services Committee and several other members regarding various definitions of homelessness in Federal statutes, convene a meeting of representatives of all Federal agencies and committees of the House of Representatives and the Senate having jurisdiction over any Federal program to assist homeless individuals or families, local and State governments, academic researchers who specialize in homelessness, nonprofit housing and service providers that receive funding under any Federal program to assist homeless individuals or families, organizations advocating on behalf of such nonprofit providers and homeless persons receiving housing or services under any such Federal program, and homeless persons receiving housing or services under any such Federal program, at which meeting such representatives shall discuss all issues relevant to whether the definitions of “homeless” under paragraphs (1) through (4) of [section 11302(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11302/a&num=0&edition=prelim), as amended by section 1003 of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, should be modified by the Congress, including whether there is a compelling need for a uniform definition of homelessness under Federal law, the extent to which the differences in such definitions create barriers for individuals to accessing services and to collaboration between agencies, and the relative availability, and barriers to access by persons defined as homeless, of mainstream programs identified by the Government Accountability Office in the two reports identified in paragraph (7) of this subsection; and shall submit transcripts of such meeting, and any majority and dissenting recommendations from such meetings, to each committee of the House of Representatives and the Senate having jurisdiction over any Federal program to assist homeless individuals or families not later than the expiration of the 60-day period beginning upon conclusion of such meeting.
 
-**(b) Authority** In carrying out subsection (a) of this section, the Council may—
+**(b) Authority** In carrying out subsection (a), the Council may—
 
 (1) arrange national, regional, State, and local conferences for the purpose of developing and coordinating effective programs and activities to assist homeless individuals and pay for expenses of attendance at meetings which are concerned with the functions or activities for which the appropriation is made; 22 So in original. Probably should be followed by “and”.
 
@@ -419,6 +419,9 @@ Amendment by Pub. L. 111–22 effective on, and applicable beginning on, May 20,
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsec. (c)(2) of this section relating to transmittal to Congress of annual report, see section 3003 of Pub. L. 104–66, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and the 5th item on page 175 of House Document No. 103–7.
+
+#### Annual Supplemental Report on Veterans Homelessness
+Pub. L. 114–201, title IV, § 404, July 29, 2016, 130 Stat. 809, provided that: “(a) In General.—The Secretary of Housing and Urban Development and the Secretary of Veterans Affairs, in coordination with the United States Interagency Council on Homelessness, shall submit annually to the Committees of the Congress specified in subsection (b), together with the annual reports required by such Secretaries under section 203(c)(1) of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11313(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11313/c/1&num=0&edition=prelim)), a supplemental report that includes the following information with respect to the preceding year:“(1) The same information, for such preceding year, that was included with respect to 2010 in the report by the Secretary of Housing and Urban Development and the Secretary of Veterans Affairs entitled ‘Veterans Homelessness: A Supplemental Report to the 2010 Annual Homeless Assessment Report to Congress’. “(2) Information regarding the activities of the Department of Housing and Urban Development relating to veterans during such preceding year, as follows:“(A) The number of veterans provided assistance under the housing choice voucher program for Veterans Affairs supported housing under section 8(o)(19) of the United States Housing Act of 1937 ([42 U.S.C. 1437f](./chapter-008-low-income-housing.md#section-1437f)(o)(19)), the socioeconomic characteristics of such homeless veterans, and the number, types, and locations of entities contracted under such section to administer the vouchers. “(B) A summary description of the special considerations made for veterans under public housing agency plans submitted pursuant to section 5A of the United States Housing Act of 1937 ([42 U.S.C. 1437c–1](./chapter-008-low-income-housing.md#section-1437c-1)) and under comprehensive housing affordability strategies submitted pursuant to section 105 of the Cranston-Gonzalez National Affordable Housing Act ([42 U.S.C. 12705](./chapter-130-national-affordable-housing.md#section-12705)). “(C) A description of the activities of the Special Assistant for Veterans Affairs of the Department of Housing and Urban Development. “(D) A description of the efforts of the Department of Housing and Urban Development and the other members of the United States Interagency Council on Homelessness to coordinate the delivery of housing and services to veterans. “(E) The cost to the Department of Housing and Urban Development of administering the programs and activities relating to veterans. “(F) Any other information that the Secretary of Housing and Urban Development and the Secretary of Veterans Affairs consider relevant in assessing the programs and activities of the Department of Housing and Urban Development relating to veterans. “(b) Committees.—The Committees of the Congress specified in this subsection are as follows:“(1) The Committee on Banking, Housing, and Urban Affairs of the Senate. “(2) The Committee on Veterans’ Affairs of the Senate. “(3) The Committee on Appropriations of the Senate. “(4) The Committee on Financial Services of the House of Representatives. “(5) The Committee on Veterans’ Affairs of the House of Representatives. “(6) The Committee on Appropriations of the House of Representatives.”
 
 #### Personnel From Federal Departments and Agencies
 Pub. L. 102–389, title III, Oct. 6, 1992, 106 Stat. 1608, provided in part: “That the Council shall carry out its duties in the 10 standard Federal regions under section 203(a)(4) of such Act [now [42 U.S.C. 11313(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11313/a/5&num=0&edition=prelim)] only through detail, on a non-reimbursable basis, of employees of the departments and agencies represented on the Council pursuant to section 202(a) of such Act [[42 U.S.C. 11312(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11312/a&num=0&edition=prelim)].”
@@ -520,7 +523,7 @@ The Council shall cease to exist, and the requirements of this subchapter shall 
 #### Amendments
 2014—Pub. L. 113–235 substituted “October 1, 2017” for “October 1, 2016”.
 
-2014—Pub. L. 113–76 substituted “October 1, 2016” for “October 1, 2015”.
+Pub. L. 113–76 substituted “October 1, 2016” for “October 1, 2015”.
 
 2011—Pub. L. 112–55 substituted “October 1, 2015” for “October 1, 2013.”
 
@@ -566,7 +569,7 @@ Par. (7) of [section 11313(a) of this title](https://uscode.house.gov/view.xhtml
 
 <a id="section-11331"></a>
 ## § 11331. Emergency Food and Shelter Program National Board
-**(a) Establishment** There is established to carry out the provisions of this subchapter the Emergency Food and Shelter Program National Board. The Administrator of the Federal Emergency Management Agency shall constitute the National Board in accordance with subsection (b) of this section in administering the program under this subchapter.
+**(a) Establishment** There is established to carry out the provisions of this subchapter the Emergency Food and Shelter Program National Board. The Administrator of the Federal Emergency Management Agency shall constitute the National Board in accordance with subsection (b) in administering the program under this subchapter.
 
 **(b) Members** The National Board shall consist of the Director and 6 members appointed by the Director. The initial members of the National Board shall be appointed by the Director not later than 30 days after July 22, 1987. Each such member shall be appointed from among individuals nominated by 1 of the following organizations:
 
@@ -586,7 +589,7 @@ Par. (7) of [section 11313(a) of this title](https://uscode.house.gov/view.xhtml
 
 **(d) Other activities** Except as otherwise specifically provided in this subchapter, the National Board shall establish its own procedures and policies for the conduct of its affairs.
 
-**(e) Transfers from previous national board** Upon the appointment of members to the National Board under subsection (b) of this section—
+**(e) Transfers from previous national board** Upon the appointment of members to the National Board under subsection (b)—
 
 (1) the national board constituted under the emergency food and shelter program established pursuant to section 101(g) of Public Law 99–500 or Public Law 99–591 shall cease to exist; and
 
@@ -747,7 +750,7 @@ Any amount made available by appropriation Acts under this subchapter shall be d
 
 (6) guidelines requiring each private nonprofit organization and local government carrying out a local emergency food and shelter program with amounts provided under this part to provide for the participation of not less than 1 homeless individual or former homeless individual on the board of directors or other equivalent policy making entity of the organization or governmental agency to the extent that such entity considers and makes policies and decisions regarding the local program of the organization or locality; except that such guidelines may grant waivers to applicants unable to meet such requirement if the organization or government agrees to otherwise consult with homeless or formerly homeless individuals in considering and making such policies and decisions.
 
-**(b) Publication** Guidelines established under subsection (a) of this section shall be published annually, and whenever modified, in the Federal Register. The National Board shall not be subject to the procedural rulemaking requirements of subchapter II of chapter 5 of title 5.
+**(b) Publication** Guidelines established under subsection (a) shall be published annually, and whenever modified, in the Federal Register. The National Board shall not be subject to the procedural rulemaking requirements of subchapter II of chapter 5 of title 5.
 
 ### Statutory Notes
 
@@ -1363,15 +1366,15 @@ Section effective on the earlier of 18 months after May 20, 2009, or 3 months af
 ## § 11373. Allocation and distribution of assistance
 **(a) In general** The Secretary shall allocate assistance under this part to metropolitan cities, urban counties, and States (for distribution to local governments and private nonprofit organizations in the States) in a manner that ensures that the percentage of the total amount available under this part for any fiscal year that is allocated to any State, metropolitan city, or urban county is equal to the percentage of the total amount available for [section 5306 of this title](./chapter-069-community-development.md#section-5306) for such prior fiscal year that is allocated to such State, metropolitan city, or urban county.
 
-**(b) Minimum allocation requirement** If, under the allocation provisions applicable under this part, any metropolitan city or urban county would receive a grant of less than 0.05 percent of the amounts appropriated under [section 11364 of this title](./chapter-119-homeless-assistance.md#section-11364) and made available to carry out this part for any fiscal year, such amount shall instead be reallocated to the State, except that any city that is located in a State that does not have counties as local governments, that has a population greater than 40,000 but less than 50,000 as used in determining the fiscal year 1987 community development block grant program allocation, and that was allocated in excess of $1,000,000 in community development block grant funds in fiscal year 1987, shall receive directly the amount allocated to such city under subsection (a) of this section.
+**(b) Minimum allocation requirement** If, under the allocation provisions applicable under this part, any metropolitan city or urban county would receive a grant of less than 0.05 percent of the amounts appropriated under [section 11364 of this title](./chapter-119-homeless-assistance.md#section-11364) and made available to carry out this part for any fiscal year, such amount shall instead be reallocated to the State, except that any city that is located in a State that does not have counties as local governments, that has a population greater than 40,000 but less than 50,000 as used in determining the fiscal year 1987 community development block grant program allocation, and that was allocated in excess of $1,000,000 in community development block grant funds in fiscal year 1987, shall receive directly the amount allocated to such city under subsection (a).
 
-**(c) Distributions to nonprofit organizations** Any local government receiving assistance under this part may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals. Any State receiving assistance under this part may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals, if the local government for the locality in which the project is located certifies that it approves of the project.
+**(c) Distributions to nonprofit organizations, public housing agencies, and local redevelopment authorities** Any local government receiving assistance under this part may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals, to public housing agencies (as defined under [section 1437a(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437a/b/6&num=0&edition=prelim)), or to local redevelopment authorities (as defined under State law). Any State receiving assistance under this part may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals, if the local government for the locality in which the project is located certifies that it approves of the project.
 
 **(d) Reallocation of funds**
 
-(1) The Secretary shall, not less than twice during each fiscal year, reallocate any assistance provided under this part that is unused or returned or that becomes available under subsection (b) of this section.
+(1) The Secretary shall, not less than once during each fiscal year, reallocate any assistance provided under this part that is unused or returned or that becomes available under subsection (b).
 
-(2) If a city or county eligible for a grant under subsection (a) of this section fails to obtain approval of its comprehensive plan during the 90-day period following the date funds authorized by this part first become available for allocation during any fiscal year, the amount that the city or county would have received shall be available to the State in which the city or county is located if the State has obtained approval of its comprehensive plan. Any amounts that cannot be allocated to a State under the preceding sentence shall be reallocated to other States, counties, and cities that demonstrate extraordinary need or large numbers of homeless individuals, as determined by the Secretary.
+(2) If a city or county eligible for a grant under subsection (a) fails to obtain approval of its comprehensive plan during the 90-day period following the date funds authorized by this part first become available for allocation during any fiscal year, the amount that the city or county would have received shall be available to the State in which the city or county is located if the State has obtained approval of its comprehensive plan. Any amounts that cannot be allocated to a State under the preceding sentence shall be reallocated to other States, counties, and cities that demonstrate extraordinary need or large numbers of homeless individuals, as determined by the Secretary.
 
 (3) If a State fails to obtain approval of its comprehensive plan during the 90-day period following the date funds authorized by this part first become available for allocation during any fiscal year, the amount that the State would have received shall be reallocated to other States and to cities and counties as applicable, that demonstrate extraordinary need or large numbers of homeless individuals, as determined by the Secretary.
 
@@ -1383,6 +1386,10 @@ Section effective on the earlier of 18 months after May 20, 2009, or 3 months af
 A prior section 414 of Pub. L. 100–77 was classified to [section 11374 of this title](./chapter-119-homeless-assistance.md#section-11374) prior to renumbering as section 415 and repeal by Pub. L. 111–22.
 
 #### Amendments
+2016—Subsec. (c). Pub. L. 114–201, inserted “, public housing agencies, and local redevelopment authorities” after “organizations” in heading and inserted “, to public housing agencies (as defined under [section 1437a(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437a/b/6&num=0&edition=prelim)), or to local redevelopment authorities (as defined under State law)” before period at end of first sentence.
+
+2015—Subsec. (d)(1). Pub. L. 114–94 substituted “once” for “twice”.
+
 2009—Subsec. (b). Pub. L. 111–22, § 1201(5), substituted “amounts appropriated under [section 11364 of this title](./chapter-119-homeless-assistance.md#section-11364) and made available to carry out this part for any” for “amounts appropriated to carry out this part for any”.
 
 1996—Subsec. (a). Pub. L. 104–330, § 506(a)(3)(A), struck out “, and to Indian tribes,” after “in the States)” and “, or for Indian tribes” after “or urban county” in two places.
@@ -1490,7 +1497,7 @@ Pub. L. 100–628, title IV, § 423(b), Nov. 7, 1988, 102 Stat. 3232, required t
 
   (B) other Federal, State, local, and private assistance available for such individuals;
 
-(4) in the case of a recipient that is a State, it will obtain any matching amounts required under subsection (a) of this section in a manner so that local governments, agencies, and local nonprofit organizations receiving assistance from the grant that are least capable of providing the recipient State with such matching amounts receive the benefit of the $100,000 subtrahend under subsection (a)(2) of this section;
+(4) in the case of a recipient that is a State, it will obtain any matching amounts required under subsection (a) in a manner so that local governments, agencies, and local nonprofit organizations receiving assistance from the grant that are least capable of providing the recipient State with such matching amounts receive the benefit of the $100,000 subtrahend under subsection (a)(2);
 
 (5) it will develop and implement procedures to ensure the confidentiality of records pertaining to any individual provided family violence prevention or treatment services under any project assisted under this part and that the address or location of any family violence shelter project assisted under this part will, except with written authorization of the person or persons responsible for the operation of such shelter, not be made public;
 
@@ -1550,7 +1557,7 @@ Amendment by Pub. L. 104–330 applicable with respect to amounts made available
 ## § 11376. Administrative provisions
 **(a) Regulations** Not later than 60 days after July 22, 1987, the Secretary shall by notice establish such requirements as may be necessary to carry out the provisions of this part. Such requirements shall be subject to [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim). The Secretary shall issue requirements based on the initial notice before the expiration of the 12-month period following July 22, 1987. Prior to the issuance of such requirements in final form, the requirements established by the Secretary implementing the provisions of the emergency shelter grants program under the provisions made effective by section 101(g) of Public Law 99–500 or Public Law 99–591 shall govern the emergency shelter grants program under this part.
 
-**(b) Initial allocation of assistance** Not later than the expiration of the 60-day period following the date of enactment of a law providing appropriations to carry out this part, the Secretary shall notify each State, metropolitan city, and urban county that is to receive a direct grant of its allocation of assistance under this part. Such assistance shall be allocated and may be used notwithstanding any failure of the Secretary to issue requirements under subsection (a) of this section.
+**(b) Initial allocation of assistance** Not later than the expiration of the 60-day period following the date of enactment of a law providing appropriations to carry out this part, the Secretary shall notify each State, metropolitan city, and urban county that is to receive a direct grant of its allocation of assistance under this part. Such assistance shall be allocated and may be used notwithstanding any failure of the Secretary to issue requirements under subsection (a).
 
 **(c) Minimum standards of habitability** The Secretary shall prescribe such minimum standards of habitability as the Secretary determines to be appropriate to ensure that emergency shelters assisted under this section are environments that provide appropriate privacy, safety, and sanitary and other health-related conditions for homeless persons and families. Grantees are authorized to establish standards of habitability in addition to those prescribed by the Secretary.
 
@@ -1782,7 +1789,7 @@ For provisions relating to definition of “local government” as used in this 
 
 **(f) Eligibility for permanent housing** Any project that receives assistance under subsection (a) and that provides project-based or sponsor-based permanent housing for homeless individuals or families with a disability, including projects that meet the requirements of subsection (a) and subsection (d)(2)(A) of [section 11386b of this title](./chapter-119-homeless-assistance.md#section-11386b) may also serve individuals who had previously met the requirements for such project prior to moving into a different permanent housing project.
 
-**(g) Administration of rental assistance** Provision of permanent housing rental assistance shall be administered by a State, unit of general local government, or public housing agency.
+**(g) Administration of rental assistance** Provision of permanent housing rental assistance shall be administered by a State, unit of general local government, private nonprofit organization, or public housing agency.
 
 ### Statutory Notes
 
@@ -1793,6 +1800,9 @@ This chapter, referred to in subsec. (a)(4), was in the original “this Act”,
 A prior section 11383, Pub. L. 100–77, title IV, § 423, as added Pub. L. 102–550, title XIV, § 1403(a), Oct. 28, 1992, 106 Stat. 4015; amended Pub. L. 106–377, § 1(a)(1) [title II, § 226], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 109–162, title VI, § 605(1), Jan. 5, 2006, 119 Stat. 3041; Pub. L. 109–271, § 5(b), Aug. 12, 2006, 120 Stat. 759, which related to eligible activities, was repealed by Pub. L. 111–22, div. B, title III, § 1302, May 20, 2009, 123 Stat. 1684.
 
 Another prior section 11383, Pub. L. 100–77, title IV, § 423, July 22, 1987, 101 Stat. 501; Pub. L. 100–628, title IV, §§ 441(b), (c), 445(a), 446–448(a), 449, Nov. 7, 1988, 102 Stat. 3233, 3234; Pub. L. 101–625, title VIII, § 833(c)–(e), (g), Nov. 28, 1990, 104 Stat. 4362, 4363, which outlined types of assistance provided under the supportive housing demonstration program, was repealed by Pub. L. 102–550, title XIV, § 1403(a), Oct. 28, 1992, 106 Stat. 4013.
+
+#### Amendments
+2015—Subsec. (g). Pub. L. 114–94 inserted “private nonprofit organization,” after “unit of general local government,”.
 
 #### Effective Date
 Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under [section 11302 of this title](./chapter-119-homeless-assistance.md#section-11302).
@@ -2077,7 +2087,7 @@ For provisions relating to definition of “local government” as used in this 
 This chapter, referred to in subsec. (c)(2), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of this title](./chapter-119-homeless-assistance.md#section-11301) and Tables.
 
 #### Prior Provisions
-A prior section 427 of Pub. L. 100–77 was renumbered section 432 and is classified to [section 11387 of this title](./chapter-119-homeless-assistance.md#section-11387).
+A prior section 427 of Pub. L. 100–77 was renumbered section 433 and is classified to [section 11387 of this title](./chapter-119-homeless-assistance.md#section-11387).
 
 Another prior section 427 of Pub. L. 100–77, July 22, 1987, 101 Stat. 504; Pub. L. 100–628, title IV, § 453, Nov. 7, 1988, 102 Stat. 3236, which provided for reports to Congress summarizing the activities carried out under the supportive housing demonstration program, was classified to [section 11387 of this title](./chapter-119-homeless-assistance.md#section-11387) prior to repeal by Pub. L. 102–550, title XIV, § 1403(a), Oct. 28, 1992, 106 Stat. 4013.
 
@@ -2125,7 +2135,7 @@ Section effective on the earlier of 18 months after May 20, 2009, or 3 months af
 This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of this title](./chapter-119-homeless-assistance.md#section-11301) and Tables.
 
 #### Prior Provisions
-A prior section 428 of Pub. L. 100–77 was renumbered section 433 and is classified to [section 11388 of this title](./chapter-119-homeless-assistance.md#section-11388).
+A prior section 428 of Pub. L. 100–77 was renumbered section 434 and is classified to [section 11388 of this title](./chapter-119-homeless-assistance.md#section-11388).
 
 Another prior section 428 of Pub. L. 100–77, July 22, 1987, 101 Stat. 504; Pub. L. 100–628, title IV, §§ 454, 455, Nov. 7, 1988, 102 Stat. 3236; Pub. L. 101–625, title VIII, § 833(a), Nov. 28, 1990, 104 Stat. 4362, which authorized appropriations for the supportive housing demonstration program, was classified to [section 11388 of this title](./chapter-119-homeless-assistance.md#section-11388) prior to repeal by Pub. L. 102–550, title XIV, § 1403(a), Oct. 28, 1992, 106 Stat. 4013.
 
@@ -2199,6 +2209,22 @@ A prior section 431 of Pub. L. 100–77 was classified to [section 11391 of this
 Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under [section 11302 of this title](./chapter-119-homeless-assistance.md#section-11302).
 
 
+<a id="section-11386f"></a>
+## § 11386f. Geographic areas
+**(a) Requirement to define** For purposes of this part, the term “geographic area” shall have such meaning as the Secretary shall by notice provide.
+
+**(b) Issuance of notice** Not later than the expiration of the 90-day period beginning on July 29, 2016, the Secretary shall issue a notice setting forth the definition required by subsection (a).
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 432 of Pub. L. 100–77 was renumbered section 433 and is classified to [section 11387 of this title](./chapter-119-homeless-assistance.md#section-11387).
+
+Another prior section 432 of Pub. L. 100–77, as added Pub. L. 102–550, title XIV, § 1404, Oct. 28, 1992, 106 Stat. 4022, which defined terms for purposes of this part, was classified to [section 11392 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11392&num=0&edition=prelim), prior to repeal by Pub. L. 111–22, div. B, title V, § 1501, May 20, 2009, 123 Stat. 1701.
+
+Another prior section 432 of Pub. L. 100–77, July 22, 1987, 101 Stat. 505; Pub. L. 100–628, title IV, §§ 461–463(a), Nov. 7, 1988, 102 Stat. 3236, 3237; Pub. L. 101–625, title VIII, § 834(b)–(d), Nov. 28, 1990, 104 Stat. 4365, 4366, which provided for supplemental assistance for facilities to assist the homeless, was classified to [section 11392 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11392&num=0&edition=prelim), prior to repeal by Pub. L. 102–550, title XIV, § 1403(a), Oct. 28, 1992, 106 Stat. 4013.
+
+
 <a id="section-11387"></a>
 ## § 11387. Regulations
 
@@ -2209,9 +2235,11 @@ Not later than the expiration of the 90-day period beginning on October 28, 1992
 #### Prior Provisions
 A prior section 11387, Pub. L. 100–77, title IV, § 427, July 22, 1987, 101 Stat. 504; Pub. L. 100–628, title IV, § 453, Nov. 7, 1988, 102 Stat. 3236, provided for reports to Congress summarizing the activities carried out under the supportive housing demonstration program, prior to repeal by Pub. L. 102–550, title XIV, § 1403(a), Oct. 28, 1992, 106 Stat. 4013.
 
-A prior section 432 of Pub. L. 100–77, as added Pub. L. 102–550, title XIV, § 1404, Oct. 28, 1992, 106 Stat. 4022, which defined terms for purposes of this part, was classified to [section 11392 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11392&num=0&edition=prelim), prior to repeal by Pub. L. 111–22, div. B, title V, § 1501, May 20, 2009, 123 Stat. 1701.
+A prior section 433 of Pub. L. 100–77 was renumbered section 434 and is classified to [section 11388 of this title](./chapter-119-homeless-assistance.md#section-11388).
 
-Another prior section 432 of Pub. L. 100–77, July 22, 1987, 101 Stat. 505; Pub. L. 100–628, title IV, §§ 461–463(a), Nov. 7, 1988, 102 Stat. 3236, 3237; Pub. L. 101–625, title VIII, § 834(b)–(d), Nov. 28, 1990, 104 Stat. 4365, 4366, which provided for supplemental assistance for facilities to assist the homeless, was classified to [section 11392 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11392&num=0&edition=prelim), prior to repeal by Pub. L. 102–550, title XIV, § 1403(a), Oct. 28, 1992, 106 Stat. 4013.
+Another prior section 433 of Pub. L. 100–77 was classified to [section 11393 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11393&num=0&edition=prelim), prior to repeal by Pub. L. 111–22, div. B, title V, § 1501, May 20, 2009, 123 Stat. 1701.
+
+Another prior section 433 of Pub. L. 100–77 related to establishment of regulations for program to provide supplemental assistance for facilities to assist the homeless and was classified to [section 11393 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11393&num=0&edition=prelim), prior to repeal by Pub. L. 102–550, title XIV, § 1403(a), Oct. 28, 1992, 106 Stat. 4013.
 
 
 <a id="section-11388"></a>
@@ -2224,9 +2252,9 @@ The Secretary shall submit a report to the Congress annually, summarizing the ac
 #### Prior Provisions
 A prior section 11388, Pub. L. 100–77, title IV, § 428, July 22, 1987, 101 Stat. 504; Pub. L. 100–628, title IV, §§ 454, 455, Nov. 7, 1988, 102 Stat. 3236; Pub. L. 101–625, title VIII, § 833(a), Nov. 28, 1990, 104 Stat. 4362, authorized appropriations for the supportive housing demonstration program, prior to repeal by Pub. L. 102–550, title XIV, § 1403(a), Oct. 28, 1992, 106 Stat. 4013.
 
-A prior section 433 of Pub. L. 100–77 was classified to [section 11393 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11393&num=0&edition=prelim), prior to repeal by Pub. L. 111–22, div. B, title V, § 1501, May 20, 2009, 123 Stat. 1701.
+A prior section 434 of Pub. L. 100–77 was classified to [section 11394 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11394&num=0&edition=prelim), prior to repeal by Pub. L. 111–22, div. B, title V, § 1501, May 20, 2009, 123 Stat. 1701.
 
-Another prior section 433 of Pub. L. 100–77 related to establishment of regulations for program to provide supplemental assistance for facilities to assist the homeless and was classified to [section 11393 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11393&num=0&edition=prelim), prior to repeal by Pub. L. 102–550, title XIV, § 1403(a), Oct. 28, 1992, 106 Stat. 4013.
+Another prior section 434 of Pub. L. 100–77 authorized appropriations for supplemental assistance for facilities to assist the homeless and was classified to [section 11394 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11394&num=0&edition=prelim), prior to repeal by Pub. L. 102–550, title XIV, § 1403(a), Oct. 28, 1992, 106 Stat. 4013.
 
 
 <a id="section-11389"></a>
@@ -2373,7 +2401,7 @@ Repeal effective on the earlier of 18 months after May 20, 2009, or 3 months aft
 
 **(b) Use of funds**
 
-(1) **In general** — An eligible organization may use a grant awarded under subsection (a) of this section to provide, in rural areas—
+(1) **In general** — An eligible organization may use a grant awarded under subsection (a) to provide, in rural areas—
 
   (A) rent, mortgage, or utility assistance after 2 months of nonpayment in order to prevent eviction, foreclosure, or loss of utility service;
 
@@ -2429,21 +2457,21 @@ Repeal effective on the earlier of 18 months after May 20, 2009, or 3 months aft
 
   (K) costs associated with making use of Federal inventory property programs to house homeless families, including the program established under subchapter V of this chapter and the Single Family Property Disposition Program established pursuant to [section 1710(g) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1710/g&num=0&edition=prelim).
 
-(2) **Capacity building activities** — Not more than 20 percent of the funds transferred under subsection (l)(1) of this section for a fiscal year may be used by eligible organizations for capacity building activities, including payment of operating costs and staff retention.
+(2) **Capacity building activities** — Not more than 20 percent of the funds transferred under subsection (l)(1) for a fiscal year may be used by eligible organizations for capacity building activities, including payment of operating costs and staff retention.
 
 **(c) Award of grants**
 
 (1) **Communities with populations of less than 10,000**
 
-  (A) *Set aside* — In awarding grants under subsection (a) of this section for a fiscal year, the Secretary shall make available not less than 50 percent of the funds transferred under subsection (l)(1) of this section for the fiscal year for grants to eligible organizations serving communities that have populations of less than 10,000.
+  (A) *Set aside* — In awarding grants under subsection (a) for a fiscal year, the Secretary shall make available not less than 50 percent of the funds transferred under subsection (l)(1) for the fiscal year for grants to eligible organizations serving communities that have populations of less than 10,000.
 
   (B) *Priority within set aside* — In awarding grants in accordance with subparagraph (A), the Secretary shall give priority to eligible organizations serving communities with populations of less than 5,000.
 
-(2) **Communities without significant Federal assistance** — In awarding grants under subsection (a) of this section, including grants awarded in accordance with paragraph (1), the Secretary shall give priority to eligible organizations serving communities not currently receiving significant Federal assistance under this chapter.
+(2) **Communities without significant Federal assistance** — In awarding grants under subsection (a), including grants awarded in accordance with paragraph (1), the Secretary shall give priority to eligible organizations serving communities not currently receiving significant Federal assistance under this chapter.
 
-(3) **State limit** — In awarding grants under subsection (a) of this section for a fiscal year, the Secretary shall not award to eligible organizations within a State an aggregate sum of more than 10 percent of the funds transferred under subsection (l)(1) of this section, for the fiscal year.
+(3) **State limit** — In awarding grants under subsection (a) for a fiscal year, the Secretary shall not award to eligible organizations within a State an aggregate sum of more than 10 percent of the funds transferred under subsection (l)(1), for the fiscal year.
 
-**(d) Application** In order to be eligible to receive a grant under subsection (a) of this section, an organization shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. The application shall include, at a minimum—
+**(d) Application** In order to be eligible to receive a grant under subsection (a), an organization shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. The application shall include, at a minimum—
 
 (1) a description of the target population and geographic area to be served;
 
@@ -2461,7 +2489,7 @@ Repeal effective on the earlier of 18 months after May 20, 2009, or 3 months aft
 
 (8) a description of the extent and nature of homelessness and of the worst housing situations in the community.
 
-**(e) Eligible organizations** Organizations eligible to receive a grant under subsection (a) of this section shall include private nonprofit entities and county and local governments.
+**(e) Eligible organizations** Organizations eligible to receive a grant under subsection (a) shall include private nonprofit entities and county and local governments.
 
 **(f) Matching funding**
 
@@ -2667,7 +2695,7 @@ The Housing Act of 1949, referred to in subsecs. (a) and (c)(2), is act July 15,
 
 **(b) Availability of property**
 
-(1) The Secretary shall promptly notify each Federal agency with respect to any property of that agency that the Secretary has identified under subsection (a) of this section. No later than 45 days after receipt of such a notice, the head of the appropriate landholding agency shall transmit to the Secretary the agency’s response to property identifications contained in such notification, which shall include—
+(1) The Secretary shall promptly notify each Federal agency with respect to any property of that agency that the Secretary has identified under subsection (a). No later than 45 days after receipt of such a notice, the head of the appropriate landholding agency shall transmit to the Secretary the agency’s response to property identifications contained in such notification, which shall include—
 
   (A) in the case of unutilized or underutilized property—
 
@@ -2683,13 +2711,13 @@ The Housing Act of 1949, referred to in subsecs. (a) and (c)(2), is act July 15,
 
     (ii) a statement that there is further and compelling Federal need for the property (including a full explanation of such need) and that, therefore, the property is not presently available for use to assist the homeless.
 
-(2)
+(2) All properties identified by the Secretary under subsection (a) shall be available for application—
 
-  (A) 11 So in original. No subpar. (B) has been enacted. All properties identified by the Secretary under subsection (a) of this section shall be available for application—
+  (A) in the case of property other than surplus property, for use to assist the homeless in accordance with the provisions of this section;
 
-    (i) in the case of property other than surplus property, for use to assist the homeless in accordance with the provisions of this section; and
+  (B) in the case of surplus property, for use to assist the homeless either in accordance with this section or as a public health use in accordance with section 550(a)–(d) of title 40; and
 
-    (ii) in the case of surplus property, for use to assist the homeless either in accordance with this section or as a public health use in accordance with section 550(a)–(d) of title 40.
+  (C) in the case of surplus property, the provision of permanent housing with or without supportive services is an eligible use to assist the homeless under this section.
 
 (3) The Secretary shall maintain a written public record of—
 
@@ -2701,11 +2729,11 @@ The Housing Act of 1949, referred to in subsecs. (a) and (c)(2), is act July 15,
 
 (1)
 
-  (A) No later than 15 days after the last day of the 45-day period provided for under subsection (b)(1) of this section, the Secretary shall publish in the Federal Register—
+  (A) No later than 15 days after the last day of the 45-day period provided for under subsection (b)(1), the Secretary shall publish on the Web site of the Department of Housing and Urban Development or the General Services Administration—
 
-    (i) a list of all properties reviewed by the Secretary under subsection (a) of this section; and
+    (i) a list of all properties reviewed by the Secretary under subsection (a); and
 
-    (ii) a list of all properties that are available under subsection (b)(2) of this section for application for use to assist the homeless.
+    (ii) a list of all properties that are available under subsection (b)(2) for application for use to assist the homeless.
 
   (B) Each publication of properties shall include a description and the location of each property (including the address and zip code) and the current classification of each property as unutilized, underutilized, excess property, or surplus property.
 
@@ -2715,7 +2743,7 @@ The Housing Act of 1949, referred to in subsecs. (a) and (c)(2), is act July 15,
 
 (2)
 
-  (A) No later than 15 days after the last day of the 45-day period provided for under subsection (b)(1) of this section, the Secretary shall transmit a copy of the list of available properties published under paragraph (1)(A)(ii) to the United States Interagency Council on Homelessness. The Council shall immediately distribute to all State and regional homeless coordinators area-relevant portions of the list.
+  (A) No later than 15 days after the last day of the 45-day period provided for under subsection (b)(1), the Secretary shall transmit a copy of the list of available properties published under paragraph (1)(A)(ii) to the United States Interagency Council on Homelessness. The Council shall immediately distribute to all State and regional homeless coordinators area-relevant portions of the list.
 
   (B) The Secretary, the Administrator, and the Secretary of Health and Human Services shall make such efforts as are necessary to ensure the widest possible dissemination of the information on such list.
 
@@ -2733,7 +2761,7 @@ The Housing Act of 1949, referred to in subsecs. (a) and (c)(2), is act July 15,
 
   (B) No later than February 15 each year, the Secretary shall publish in the Federal Register a list of all properties reported under subparagraph (A) for the preceding year and the current classification of the properties.
 
-  (C) For purposes of subparagraph (A), property shall not be considered to remain available for application for use to assist the homeless after the 60-day holding period provided under subsection (d) of this section if—
+  (C) For purposes of subparagraph (A), property shall not be considered to remain available for application for use to assist the homeless after the 60-day holding period provided under subsection (d) if—
 
     (i) an application for or written expression of interest in the property is made under any law for use of the property for any purpose; or
 
@@ -2741,31 +2769,45 @@ The Housing Act of 1949, referred to in subsecs. (a) and (c)(2), is act July 15,
 
 **(d) Holding period**
 
-(1) Properties published under subsection (c)(1)(A)(ii) of this section as available for application for use to assist the homeless shall not be available for any other purpose for a period of 60 days beginning on the date of such publication.
+(1) Properties published under subsection (c)(1)(A)(ii) as available for application for use to assist the homeless shall not be available for any other purpose for a period of 30 days beginning on the date of such publication.
 
-(2) If written notice of intent to apply for such a property for use to assist the homeless is received by the Secretary of Health and Human Services within the 60-day period described under paragraph (1), such property may not be made available for any other purpose until the date the Secretary of Health and Human Services or other appropriate landholding agency has completed action on the application submitted under subsection (e) of this section with respect to that written notice of intent.
+(2) If written notice of intent to apply for such a property for use to assist the homeless is received by the Secretary of Health and Human Services within the 30-day period described under paragraph (1), such property may not be made available for any other purpose until the date the Secretary of Health and Human Services or other appropriate landholding agency has completed action on the application submitted under subsection (e) with respect to that written notice of intent.
 
-(3) Property that is reviewed by the Secretary under subsection (a) of this section and that is not identified by the Secretary as being suitable for use to assist the homeless may not be made available for any other purpose for 20 days after the determination of unsuitability to allow for review of the determination at the request of the representative of the homeless. The Secretary shall disseminate immediately this information to the regional offices of the Department of Housing and Urban Development and to the United States Interagency Council on Homelessness.
+(3) Property that is reviewed by the Secretary under subsection (a) and that is not identified by the Secretary as being suitable for use to assist the homeless may not be made available for any other purpose for 20 days after the determination of unsuitability to allow for review of the determination at the request of the representative of the homeless. The Secretary shall disseminate immediately this information to the regional offices of the Department of Housing and Urban Development and to the United States Interagency Council on Homelessness. If no such review of the determination is requested within the 20-day period, such property will not be included in subsequent publications unless the landholding agency makes changes to the property (e.g. improvements) that may change the unsuitable determination and the Secretary subsequently determines the property is suitable.
 
 (4)
 
-  (A) Written notice of intent to apply for a property published under subsection (c)(1)(A)(ii) of this section may be filed at any time after the 60-day period described in paragraph (1) has expired. In such case, an application submitted pursuant to the notice may be approved for disposal for use to assist the homeless only if the property remains available for application for use to assist the homeless. If the property remains available, the use to assist the homeless shall be given priority of consideration over other competing disposal opportunities under sections 541–555 of title 40, except as provided in subsection (f)(3)(A) of this section.
+  (A) Written notice of intent to apply for a property published under subsection (c)(1)(A)(ii) may be filed at any time after the 30-day period described in paragraph (1) has expired. In such case, an application submitted pursuant to the notice may be approved for disposal for use to assist the homeless only if the property remains available for application for use to assist the homeless. If the property remains available, the use to assist the homeless shall be given priority of consideration over other competing disposal opportunities under sections 541–555 of title 40, except as provided in subsection (f)(3)(A).
 
-  (B) Surplus property for which an application has been approved shall be assigned promptly to the Secretary of Health and Human Services for disposition in accordance with and subject to subsection (f) of this section.
+  (B) Surplus property for which an application has been approved shall be assigned promptly to the Secretary of Health and Human Services for disposition in accordance with and subject to subsection (f).
 
 **(e) Application for property**
 
-(1) A representative of the homeless may submit an application to the Secretary of Health and Human Services for any property that is published under subsection (c)(1)(A)(ii) of this section as available for application for use to assist the homeless.
+(1) A representative of the homeless may submit an application to the Secretary of Health and Human Services for any property that is published under subsection (c)(1)(A)(ii) as available for application for use to assist the homeless.
 
-(2) No later than 90 days after the submission of written notice of intent to apply for a property, an applicant shall submit a complete application to the Secretary of Health and Human Services. The Secretary of Health and Human Services shall, with the concurrence of the appropriate landholding agency, grant reasonable extensions.
+(2)
 
-(3) No later than 25 days after receipt of a completed application, the Secretary of Health and Human Services shall review, make all determinations, and complete all actions on the application. The Secretary of Health and Human Services shall maintain a written public record of all actions taken in response to an application.
+  (A) No later than 75 days after the submission of written notice of intent to apply for a property, an applicant shall submit an initial application to the Secretary of Health and Human Services. The Secretary of Health and Human Services shall, with the concurrence of the appropriate landholding agency, grant reasonable extensions.
+
+  (B) An initial application shall set forth—
+
+    (i) the services that will be offered;
+
+    (ii) the need for the services; and
+
+    (iii) the experience of the applicant that demonstrates the ability to provide the services.
+
+(3) No later than 10 days after receipt of an initial application, the Secretary of Health and Human Services shall review, make all determinations, and complete all actions on the application. The Secretary of Health and Human Services shall maintain a written public record of all actions taken in response to an application.
+
+(4) If the Secretary of Health and Human Services approves an initial application, the applicant has 45 days in which to provide a final application that sets forth a reasonable plan to finance the approved program.
+
+(5) No later than 15 days after receipt of the final application, the Secretary of Health and Human Services shall review, make a final determination, and complete all actions on the final application. The Secretary of Health and Human Services shall maintain a public record of all actions taken in response to an application.
 
 **(f) Making property available to representatives of homeless**
 
-(1) Subject to the provisions of this subsection, property for which the Secretary of Health and Human Services has approved an application under subsection (e) of this section shall be made promptly available by permit or lease, or by deed as a public health use under section 550(a)–(d) of title 40, to the representative of the homeless that submitted the application.
+(1) Subject to the provisions of this subsection, property for which the Secretary of Health and Human Services has approved an application under subsection (e) shall be made promptly available, at the applicant’s discretion, by permit or lease, or by deed as a public health use under section 550(a)–(d) of title 40, to the representative of the homeless that submitted the application.
 
-(2) Unutilized or underutilized property that is the subject of an agency’s statement of intention under subsection (b)(1)(A)(ii) of this section shall be made promptly available by the appropriate landholding agency to the approved applicant by lease or permit for a term of not less than 1 year, unless the applicant requests a shorter term.
+(2) Unutilized or underutilized property that is the subject of an agency’s statement of intention under subsection (b)(1)(A)(ii) shall be made promptly available by the appropriate landholding agency to the approved applicant by lease or permit for a term of not less than 1 year, unless the applicant requests a shorter term.
 
 (3)
 
@@ -2779,7 +2821,7 @@ The Housing Act of 1949, referred to in subsecs. (a) and (c)(2), is act July 15,
 
 (1) the reasons for determinations of the Secretary under this section that property is suitable or unsuitable for use to assist the homeless; and
 
-(2) the responses of landholding agencies under subsection (b)(1) of this section.
+(2) the responses of landholding agencies under subsection (b)(1).
 
 **(h) Applicability to property under base closure process**
 
@@ -2812,6 +2854,26 @@ Section 2(e) of Base Closure Community Redevelopment and Homeless Assistance Act
 In subsec. (a), “section 524(a)(2) and (3) of title 40” substituted for “section 202(b)(2) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 483(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section483/b/2&num=0&edition=prelim))”, in subsecs.(b)(2)(A)(ii) and (f)(1), “section 550(a)–(d) of title 40” substituted for “paragraphs (1) and (4) of section 203(k) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 484(k)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section484/k/1&num=0&edition=prelim) and (4))”, in subsecs. (d)(4)(A) and (f)(3)(A), “sections 541–555 of title 40” substituted for “section 203 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 484](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section484&num=0&edition=prelim))”, in subsec. (f)(3)(A), “[section 550 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section550&num=0&edition=prelim)” substituted for “section 203(k) of such Act”, meaning the Federal Property and Administrative Services Act of 1949, in subsec. (f)(4), “[section 550 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section550&num=0&edition=prelim)” substituted for “section 203(k) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 484(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section484/k&num=0&edition=prelim))”, and, in subsec. (i)(2), “[section 102 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section102&num=0&edition=prelim)” substituted for “section 3 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 472](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section472&num=0&edition=prelim))”, on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+2016—Subsec. (b)(2). Pub. L. 114–287, § 22(1), struck out subpar. (A) designation after par. (2) designation, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and added subpar. (C).
+
+Subsec. (c)(1)(A). Pub. L. 114–287, § 22(2), substituted “on the Web site of the Department of Housing and Urban Development or the General Services Administration” for “in the Federal Register” in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 114–287, § 22(3)(A), substituted “period of 30 days” for “period of 60 days”.
+
+Subsec. (d)(2). Pub. L. 114–287, § 22(3)(B), substituted “30-day period” for “60-day period”.
+
+Subsec. (d)(3). Pub. L. 114–287, § 22(3)(C), inserted at end “If no such review of the determination is requested within the 20-day period, such property will not be included in subsequent publications unless the landholding agency makes changes to the property (e.g. improvements) that may change the unsuitable determination and the Secretary subsequently determines the property is suitable.”
+
+Subsec. (d)(4). Pub. L. 114–287, § 22(3)(B), substituted “30-day period” for “60-day period”.
+
+Subsec. (e)(2). Pub. L. 114–287, § 22(4)(A), designated existing provisions as subpar. (A), substituted “75 days” for “90 days” and “an initial application” for “a complete application”, and added subpar. (B).
+
+Subsec. (e)(3). Pub. L. 114–287, § 22(4)(B), substituted “10 days after receipt of an initial application” for “25 days after receipt of a completed application”.
+
+Subsec. (e)(4), (5). Pub. L. 114–287, § 22(4)(C), added pars. (4) and (5).
+
+Subsec. (f)(1). Pub. L. 114–287, § 22(5), substituted “available, at the applicant’s discretion, by” for “available by”.
+
 2004—Subsecs. (c)(2)(A), (d)(3). Pub. L. 108–199 substituted “United States Interagency Council on Homelessness” for “Interagency Council on the Homeless”.
 
 1994—Subsecs. (h), (i). Pub. L. 103–421 added subsec. (h) and redesignated former subsec. (h) as (i).
@@ -2889,11 +2951,11 @@ The following is the policy of the Congress:
 
 (1) Each State educational agency shall ensure that each child of a homeless individual and each homeless youth has equal access to the same free, appropriate public education, including a public preschool education, as provided to other children and youths.
 
-(2) In any State that has a compulsory residency requirement as a component of the State’s compulsory school attendance laws or other laws, regulations, practices, or policies that may act as a barrier to the enrollment, attendance, or success in school of homeless children and youths, the State will review and undertake steps to revise such laws, regulations, practices, or policies to ensure that homeless children and youths are afforded the same free, appropriate public education as provided to other children and youths.
+(2) In any State where compulsory residency requirements or other requirements, in laws, regulations, practices, or policies, may act as a barrier to the identification of, or the enrollment, attendance, or success in school of, homeless children and youths, the State educational agency and local educational agencies in the State will review and undertake steps to revise such laws, regulations, practices, or policies to ensure that homeless children and youths are afforded the same free, appropriate public education as provided to other children and youths.
 
-(3) Homelessness alone is not sufficient reason to separate students from the mainstream school environment.
+(3) Homelessness is not sufficient reason to separate students from the mainstream school environment.
 
-(4) Homeless children and youths should have access to the education and other services that such children and youths need to ensure that such children and youths have an opportunity to meet the same challenging State student academic achievement standards to which all students are held.
+(4) Homeless children and youths should have access to the education and other services that such children and youths need to ensure that such children and youths have an opportunity to meet the same challenging State academic standards to which all students are held.
 
 ### Statutory Notes
 
@@ -2902,15 +2964,25 @@ A prior section 11431, Pub. L. 100–77, title VII, § 721, as added Pub. L. 103
 
 Another prior section 11431, Pub. L. 100–77, title VII, § 721, July 22, 1987, 101 Stat. 525; Pub. L. 101–645, title VI, § 612(a), Nov. 29, 1990, 104 Stat. 4735, stated policy of Congress, prior to the general amendment of this part by Pub. L. 103–382.
 
+#### Amendments
+2015—Par. (2). Pub. L. 114–95, § 9101(1), substituted “In any State where compulsory residency requirements or other requirements, in laws, regulations, practices, or policies, may act as a barrier to the identification of, or the enrollment, attendance, or success in school of, homeless children and youths, the State educational agency and local educational agencies in the State will review” for “In any State that has a compulsory residency requirement as a component of the State’s compulsory school attendance laws or other laws, regulations, practices, or policies that may act as a barrier to the enrollment, attendance, or success in school of homeless children and youths, the State will review”.
+
+Par. (3). Pub. L. 114–95, § 9101(2), struck out “alone” after “Homelessness”.
+
+Par. (4). Pub. L. 114–95, § 9101(3), substituted “challenging State academic standards” for “challenging State student academic achievement standards”.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–95, title IX, § 9107, Dec. 10, 2015, 129 Stat. 2137, provided that: “Except as provided in section 9105(b) [set out as a note under [section 11434a of this title](./chapter-119-homeless-assistance.md#section-11434a)] or as otherwise provided in this Act [see Tables for classification], this title [probably means “this part”, meaning part A (§§ 9101–9107) of title IX of Pub. L. 114–95, amending this section and sections 11432 to 11435 of this title and enacting provisions set out as notes under [section 11434a of this title](./chapter-119-homeless-assistance.md#section-11434a)] and the amendments made by this title take effect on October 1, 2016.”
+
 #### Effective Date
 Part effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 
 <a id="section-11432"></a>
 ## § 11432. Grants for State and local activities for the education of homeless children and youths
-**(a) General authority** The Secretary is authorized to make grants to States in accordance with the provisions of this section to enable such States to carry out the activities described in subsections (d) through (g) of this section.
+**(a) General authority** The Secretary is authorized to make grants to States in accordance with the provisions of this section to enable such States to carry out the activities described in subsections (d) through (g).
 
-**(b) Application** No State may receive a grant under this section unless the State educational agency submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information as the Secretary may reasonably require.
+**(b) Grants from allotments** The Secretary shall make the grants to States from the allotments made under subsection (c)(1).
 
 **(c) Allocation and reservations**
 
@@ -2932,7 +3004,7 @@ Part effective Jan. 8, 2002, except with respect to certain noncompetitive progr
 
   (B)
 
-    (i) The Secretary shall transfer 1 percent of the amount appropriated for each fiscal year under [section 11435 of this title](./chapter-119-homeless-assistance.md#section-11435) to the Department of the Interior for programs for Indian students served by schools funded by the Secretary of the Interior, as determined under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.), that are consistent with the purposes of the programs described in this part.
+    (i) The Secretary shall transfer 1 percent of the amount appropriated for each fiscal year under [section 11435 of this title](./chapter-119-homeless-assistance.md#section-11435) to the Department of the Interior for programs for Indian students served by schools funded by the Secretary of the Interior, as determined under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.),11 See References in Text note below. that are consistent with the purposes of the programs described in this part.
 
     (ii) The Secretary and the Secretary of the Interior shall enter into an agreement, consistent with the requirements of this part, for the distribution and use of the funds described in clause (i) under terms that the Secretary determines best meet the purposes of the programs described in this part. Such agreement shall set forth the plans of the Secretary of the Interior for the use of the amounts transferred, including appropriate goals, objectives, and milestones.
 
@@ -2942,25 +3014,29 @@ Part effective Jan. 8, 2002, except with respect to certain noncompetitive progr
 
 (1) To carry out the policies set forth in [section 11431 of this title](./chapter-119-homeless-assistance.md#section-11431) in the State.
 
-(2) To provide activities for, and services to, homeless children, including preschool-aged homeless children, and youths that enable such children and youths to enroll in, attend, and succeed in school, or, if appropriate, in preschool programs.
+(2) To provide services and activities to improve the identification of homeless children and youths (including preschool-aged homeless children) and enable such children and youths to enroll in, attend, and succeed in school, including, if appropriate, in preschool programs.
 
-(3) To establish or designate an Office of Coordinator for Education of Homeless Children and Youths in the State educational agency in accordance with subsection (f) of this section.
+(3) To establish or designate in the State educational agency an Office of the Coordinator for Education of Homeless Children and Youths that can sufficiently carry out the duties described for the Office in this part in accordance with subsection (f).
 
-(4) To prepare and carry out the State plan described in subsection (g) of this section.
+(4) To prepare and carry out the State plan described in subsection (g).
 
-(5) To develop and implement professional development programs for school personnel to heighten their awareness of, and capacity to respond to, specific problems in the education of homeless children and youths.
+(5) To develop and implement professional development programs for liaisons designated under subsection (g)(1)(J)(ii) and other local educational agency personnel—
+
+  (A) to improve their identification of homeless children and youths; and
+
+  (B) to heighten the awareness of the liaisons and personnel of, and their capacity to respond to, specific needs in the education of homeless children and youths.
 
 **(e) State and local subgrants**
 
-(1) **Minimum disbursements by States** — From the sums made available each year to carry out this part, the State educational agency shall distribute not less than 75 percent in subgrants to local educational agencies for the purposes of carrying out [section 11433 of this title](./chapter-119-homeless-assistance.md#section-11433), except that States funded at the minimum level set forth in subsection (c)(1) of this section shall distribute not less than 50 percent in subgrants to local educational agencies for the purposes of carrying out [section 11433 of this title](./chapter-119-homeless-assistance.md#section-11433).
+(1) **Minimum disbursements by States** — From the sums made available each year to a State through grants under subsection (a) to carry out this part, the State educational agency shall distribute not less than 75 percent in subgrants to local educational agencies for the purposes of carrying out [section 11433 of this title](./chapter-119-homeless-assistance.md#section-11433), except that States funded at the minimum level set forth in subsection (c)(1) shall distribute not less than 50 percent in subgrants to local educational agencies for the purposes of carrying out [section 11433 of this title](./chapter-119-homeless-assistance.md#section-11433).
 
-(2) **Use by State educational agency** — A State educational agency may use funds made available for State use under this part to conduct activities under subsection (f) of this section directly or through grants or contracts.
+(2) **Use by State educational agency** — A State educational agency may use the grant funds remaining after the State educational agency distributes subgrants under paragraph (1) to conduct activities under subsection (f) directly or through grants or contracts.
 
 (3) **Prohibition on segregating homeless students**
 
   (A) *In general* — Except as provided in subparagraph (B) and [section 11433(a)(2)(B)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11433/a/2/B/ii&num=0&edition=prelim), in providing a free public education to a homeless child or youth, no State receiving funds under this part shall segregate such child or youth in a separate school, or in a separate program within a school, based on such child’s or youth’s status as homeless.
 
-  (B) *Exception* — Notwithstanding subparagraph (A), paragraphs (1)(J)(i) and (3) of subsection (g) of this section, [section 11433(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11433/a/2&num=0&edition=prelim), and any other provision of this part relating to the placement of homeless children or youths in schools, a State that has a separate school for homeless children or youths that was operated in fiscal year 2000 in a covered county shall be eligible to receive funds under this part for programs carried out in such school if—
+  (B) *Exception* — Notwithstanding subparagraph (A), paragraphs (1)(J)(i) and (3) of subsection (g), [section 11433(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11433/a/2&num=0&edition=prelim), and any other provision of this part relating to the placement of homeless children or youths in schools, a State that has a separate school for homeless children or youths that was operated in fiscal year 2000 in a covered county shall be eligible to receive funds under this part for programs carried out in such school if—
 
     (i) the school meets the requirements of subparagraph (C);
 
@@ -2978,11 +3054,11 @@ Part effective Jan. 8, 2002, except with respect to certain noncompetitive progr
 
       (III) specifically states—
 
-        (aa) the choice of schools homeless children and youths are eligible to attend, as provided in subsection (g)(3)(A) of this section;
+        (aa) the choice of schools homeless children and youths are eligible to attend, as provided in subsection (g)(3)(A);
 
         (bb) that no homeless child or youth is required to attend a separate school for homeless children or youths;
 
-        (cc) that homeless children and youths shall be provided comparable services described in subsection (g)(4) of this section, including transportation services, educational services, and meals through school meals programs; and
+        (cc) that homeless children and youths shall be provided comparable services described in subsection (g)(4), including transportation services, educational services, and meals through school meals programs; and
 
         (dd) that homeless children and youths should not be stigmatized by school personnel; and
 
@@ -2990,7 +3066,7 @@ Part effective Jan. 8, 2002, except with respect to certain noncompetitive progr
 
     (ii)
 
-      (I) provide assistance to the parent or guardian of each homeless child or youth (or, in the case of an unaccompanied youth, the youth) to exercise the right to attend the parent’s or guardian’s (or youth’s) choice of schools, as provided in subsection (g)(3)(A) of this section; and
+      (I) provide assistance to the parent or guardian of each homeless child or youth (or, in the case of an unaccompanied youth, the youth) to exercise the right to attend the parent’s or guardian’s (or youth’s) choice of schools, as provided in subsection (g)(3)(A); and
 
       (II) coordinate with the local educational agency with jurisdiction for the school selected by the parent or guardian (or youth), to provide transportation and other necessary services;
 
@@ -3000,7 +3076,7 @@ Part effective Jan. 8, 2002, except with respect to certain noncompetitive progr
 
       (I) is complying with clauses (i) and (ii); and
 
-      (II) is meeting (as of the date of submission of the application) the same Federal and State standards, regulations, and mandates as other public schools in the State (such as complying with sections 1111 and 1116 of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6311](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311&num=0&edition=prelim), 6316] and providing a full range of education and related services, including services applicable to students with disabilities).
+      (II) is meeting (as of the date of submission of the application) the same Federal and State standards, regulations, and mandates as other public schools in the State (such as complying with section 1111 of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6311](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311&num=0&edition=prelim)] and providing a full range of education and related services, including services applicable to students with disabilities).
 
   (D) *School ineligibility* — A separate school described in subparagraph (B) that fails to meet the standards, regulations, and mandates described in subparagraph (C)(iv)(II) shall not be eligible to receive funds under this part for programs carried out in such school after the first date of such failure.
 
@@ -3008,17 +3084,17 @@ Part effective Jan. 8, 2002, except with respect to certain noncompetitive progr
 
     (i) implement a coordinated system for ensuring that homeless children and youths—
 
-      (I) are advised of the choice of schools provided in subsection (g)(3)(A) of this section;
+      (I) are advised of the choice of schools provided in subsection (g)(3)(A);
 
-      (II) are immediately enrolled, in accordance with subsection (g)(3)(C) of this section, in the school selected under subsection (g)(3)(A) of this section; and
+      (II) are immediately enrolled, in accordance with subsection (g)(3)(C), in the school selected under subsection (g)(3)(A); and
 
-      (III) are promptly provided necessary services described in subsection (g)(4) of this section, including transportation, to allow homeless children and youths to exercise their choices of schools under subsection (g)(3)(A) of this section;
+      (III) are promptly provided necessary services described in subsection (g)(4), including transportation, to allow homeless children and youths to exercise their choices of schools under subsection (g)(3)(A);
 
     (ii) document that written notice has been provided—
 
       (I) in accordance with subparagraph (C)(i) for each child or youth enrolled in a separate school under subparagraph (B); and
 
-      (II) in accordance with subsection (g)(6)(A)(v) of this section;
+      (II) in accordance with subsection (g)(6)(A)(vi);
 
     (iii) prohibit schools within the agency’s jurisdiction from referring homeless children or youths to, or requiring homeless children and youths to enroll in or attend, a separate school described in subparagraph (B);
 
@@ -3036,13 +3112,15 @@ Part effective Jan. 8, 2002, except with respect to certain noncompetitive progr
 
       (I) compliance with all requirements of this paragraph;
 
-      (II) barriers to school access in the school districts served by the local educational agencies; and
+      (II) barriers to school access in the school districts served by the local educational agencies;
 
-      (III) the progress the separate schools are making in integrating homeless children and youths into the mainstream school environment, including the average length of student enrollment in such schools.
+      (III) the progress the separate schools are making in integrating homeless children and youths into the mainstream school environment, including the average length of student enrollment in such schools; and
 
-    (ii) *Compliance with information requests* — For purposes of enabling the Secretary to prepare the report, the separate schools and local educational agencies shall cooperate with the Secretary and the State Coordinator for Education of Homeless Children and Youths established in the State under subsection (d)(3) of this section, and shall comply with any requests for information by the Secretary and State Coordinator for such State.
+      (IV) the progress the separate schools are making in helping all students meet the challenging State academic standards.
 
-    (iii) *Submission* — Not later than 2 years after January 8, 2002, the Secretary shall submit the report described in clause (i) to—
+    (ii) *Compliance with information requests* — For purposes of enabling the Secretary to prepare the report, the separate schools and local educational agencies shall cooperate with the Secretary and the State Coordinator for Education of Homeless Children and Youths established in the State under subsection (d)(3), and shall comply with any requests for information by the Secretary and State Coordinator for such State.
+
+    (iii) *Submission* — The Secretary shall submit the report described in clause (i) to—
 
       (I) the President;
 
@@ -3060,55 +3138,69 @@ Part effective Jan. 8, 2002, except with respect to certain noncompetitive progr
 
     (iv) Maricopa County, Arizona.
 
-**(f) Functions of the Office of Coordinator** The Coordinator for Education of Homeless Children and Youths established in each State shall—
+**(f) Functions of the Office of the Coordinator** The Coordinator for Education of Homeless Children and Youths established in each State shall—
 
-(1) gather reliable, valid, and comprehensive information on the nature and extent of the problems homeless children and youths have in gaining access to public preschool programs and to public elementary schools and secondary schools, the difficulties in identifying the special needs of such children and youths, any progress made by the State educational agency and local educational agencies in the State in addressing such problems and difficulties, and the success of the programs under this part in allowing homeless children and youths to enroll in, attend, and succeed in, school;
+(1) gather and make publicly available reliable, valid, and comprehensive information on—
 
-(2) develop and carry out the State plan described in subsection (g) of this section;
+  (A) the number of homeless children and youths identified in the State, which shall be posted annually on the State educational agency’s website;
 
-(3) collect and transmit to the Secretary, at such time and in such manner as the Secretary may require, a report containing such information as the Secretary determines is necessary to assess the educational needs of homeless children and youths within the State;
+  (B) the nature and extent of the problems homeless children and youths have in gaining access to public preschool programs and to public elementary schools and secondary schools;
 
-(4) facilitate coordination between the State educational agency, the State social services agency, and other agencies (including agencies providing mental health services) to provide services to homeless children, including preschool-aged homeless children, and youths, and to families of such children and youths;
+  (C) the difficulties in identifying the special needs and barriers to the participation and achievement of such children and youths;
 
-(5) in order to improve the provision of comprehensive education and related services to homeless children and youths and their families, coordinate and collaborate with—
+  (D) any progress made by the State educational agency and local educational agencies in the State in addressing such problems and difficulties; and
 
-  (A) educators, including child development and preschool program personnel;
+  (E) the success of the programs under this part in identifying homeless children and youths and allowing such children and youths to enroll in, attend, and succeed in, school;
 
-  (B) providers of services to homeless and runaway children and youths and homeless families (including domestic violence agencies, shelter operators, transitional housing facilities, runaway and homeless youth centers, and transitional living programs for homeless youths);
+(2) develop and carry out the State plan described in subsection (g);
 
-  (C) local educational agency liaisons designated under subsection (g)(1)(J)(ii) of this section for homeless children and youths; and
+(3) collect data for and transmit to the Secretary, at such time and in such manner as the Secretary may reasonably require, a report containing information necessary to assess the educational needs of homeless children and youths within the State, including data necessary for the Secretary to fulfill the responsibilities under [section 11434(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11434/h&num=0&edition=prelim);
 
-  (D) community organizations and groups representing homeless children and youths and their families; and
+(4) in order to improve the provision of comprehensive education and related services to homeless children and youths and their families, coordinate activities and collaborate with—
 
-(6) provide technical assistance to local educational agencies in coordination with local educational agency liaisons designated under subsection (g)(1)(J)(ii) of this section, to ensure that local educational agencies comply with the requirements of subsection (e)(3) of this section and paragraphs (3) through (7) of subsection (g) of this section.
+  (A) educators, including teachers, special education personnel, administrators, and child development and preschool program personnel;
+
+  (B) providers of services to homeless children and youths and their families, including public and private child welfare and social services agencies, law enforcement agencies, juvenile and family courts, agencies providing mental health services, domestic violence agencies, child care providers, runaway and homeless youth centers, and providers of services and programs funded under the Runaway and Homeless Youth Act ([42 U.S.C. 5701](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5701) et seq.);
+
+  (C) providers of emergency, transitional, and permanent housing to homeless children and youths, and their families, including public housing agencies, shelter operators, operators of transitional housing facilities, and providers of transitional living programs for homeless youths;
+
+  (D) local educational agency liaisons designated under subsection (g)(1)(J)(ii) for homeless children and youths; and
+
+  (E) community organizations and groups representing homeless children and youths and their families;
+
+(5) provide technical assistance to and conduct monitoring of local educational agencies in coordination with local educational agency liaisons designated under subsection (g)(1)(J)(ii), to ensure that local educational agencies comply with the requirements of subsection (e)(3) and paragraphs (3) through (7) of subsection (g);
+
+(6) provide professional development opportunities for local educational agency personnel and the local educational agency liaison designated under subsection (g)(1)(J)(ii) to assist such personnel and liaison in identifying and meeting the needs of homeless children and youths, and provide training on the definitions of terms related to homelessness specified in sections 11302, 11360, and 11434a of this title to the liaison; and
+
+(7) respond to inquiries from parents and guardians of homeless children and youths, and (in the case of unaccompanied youths) such youths, to ensure that each child or youth who is the subject of such an inquiry receives the full protections and services provided by this part.
 
 **(g) State plan**
 
-(1) **In general** — Each State shall submit to the Secretary a plan to provide for the education of homeless children and youths within the State. Such plan shall include the following:
+(1) **In general** — For any State desiring to receive a grant under this part, the State educational agency shall submit to the Secretary a plan to provide for the education of homeless children and youths within the State. Such plan shall include the following:
 
-  (A) A description of how such children and youths are (or will be) given the opportunity to meet the same challenging State academic achievement standards all students are expected to meet.
+  (A) A description of how such children and youths are (or will be) given the opportunity to meet the same challenging State academic standards as all students are expected to meet.
 
-  (B) A description of the procedures the State educational agency will use to identify such children and youths in the State and to assess their special needs.
+  (B) A description of the procedures the State educational agency will use to identify such children and youths in the State and to assess their needs.
 
   (C) A description of procedures for the prompt resolution of disputes regarding the educational placement of homeless children and youths.
 
-  (D) A description of programs for school personnel (including principals, attendance officers, teachers, enrollment personnel, and pupil services personnel) to heighten the awareness of such personnel of the specific needs of runaway and homeless youths.
+  (D) A description of programs for school personnel (including liaisons designated under subparagraph (J)(ii), principals and other school leaders, attendance officers, teachers, enrollment personnel, and specialized instructional support personnel) to heighten the awareness of such school personnel of the specific needs of homeless children and youths, including such children and youths who are runaway and homeless youths.
 
-  (E) A description of procedures that ensure that homeless children and youths who meet the relevant eligibility criteria are able to participate in Federal, State, or local food programs.
+  (E) A description of procedures that ensure that homeless children and youths who meet the relevant eligibility criteria are able to participate in Federal, State, or local nutrition programs.
 
   (F) A description of procedures that ensure that—
 
-    (i) homeless children have equal access to the same public preschool programs, administered by the State agency, as provided to other children in the State;
+    (i) homeless children have access to public preschool programs, administered by the State educational agency or local educational agency, as provided to other children in the State;
 
-    (ii) homeless youths and youths separated from the public schools are identified and accorded equal access to appropriate secondary education and support services; and
+    (ii) youths described in [section 11434a(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11434a/2&num=0&edition=prelim) and youths separated from public schools are identified and accorded equal access to appropriate secondary education and support services, including by identifying and removing barriers that prevent youths described in this clause from receiving appropriate credit for full or partial coursework satisfactorily completed while attending a prior school, in accordance with State, local, and school policies; and
 
-    (iii) homeless children and youths who meet the relevant eligibility criteria are able to participate in Federal, State, or local before- and after-school care programs.
+    (iii) homeless children and youths who meet the relevant eligibility criteria do not face barriers to accessing academic and extracurricular activities, including magnet school, summer school, career and technical education, advanced placement, online learning, and charter school programs, if such programs are available at the State and local levels.
 
-  (G) Strategies to address problems identified in the report provided to the Secretary under subsection (f)(3) of this section.
+  (G) Strategies to address problems identified in the report provided to the Secretary under subsection (f)(3).
 
   (H) Strategies to address other problems with respect to the education of homeless children and youths, including problems resulting from enrollment delays that are caused by—
 
-    (i) immunization and medical records requirements;
+    (i) requirements of immunization and other required health records;
 
     (ii) residency requirements;
 
@@ -3118,21 +3210,25 @@ Part effective Jan. 8, 2002, except with respect to certain noncompetitive progr
 
     (v) uniform or dress code requirements.
 
-  (I) A demonstration that the State educational agency and local educational agencies in the State have developed, and shall review and revise, policies to remove barriers to the enrollment and retention of homeless children and youths in schools in the State.
+  (I) A demonstration that the State educational agency and local educational agencies in the State have developed, and shall review and revise, policies to remove barriers to the identification of homeless children and youths, and the enrollment and retention of homeless children and youths in schools in the State, including barriers to enrollment and retention due to outstanding fees or fines, or absences.
 
-  (J) Assurances that—
+  (J) Assurances that the following will be carried out:
 
-    (i) the State educational agency and local educational agencies in the State will adopt policies and practices to ensure that homeless children and youths are not stigmatized or segregated on the basis of their status as homeless;
+    (i) The State educational agency and local educational agencies in the State will adopt policies and practices to ensure that homeless children and youths are not stigmatized or segregated on the basis of their status as homeless.
 
-    (ii) local educational agencies will designate an appropriate staff person, who may also be a coordinator for other Federal programs, as a local educational agency liaison for homeless children and youths, to carry out the duties described in paragraph (6)(A); and
+    (ii) The local educational agencies will designate an appropriate staff person, able to carry out the duties described in paragraph (6)(A), who may also be a coordinator for other Federal programs, as a local educational agency liaison for homeless children and youths.
 
-    (iii) the State and its local educational agencies will adopt policies and practices to ensure that transportation is provided, at the request of the parent or guardian (or in the case of an unaccompanied youth, the liaison), to and from the school of origin, as determined in paragraph (3)(A), in accordance with the following, as applicable:
+    (iii) The State and the local educational agencies in the State will adopt policies and practices to ensure that transportation is provided, at the request of the parent or guardian (or in the case of an unaccompanied youth, the liaison), to and from the school of origin (as determined under paragraph (3)), in accordance with the following, as applicable:
 
-      (I) If the homeless child or youth continues to live in the area served by the local educational agency in which the school of origin is located, the child’s or youth’s transportation to and from the school of origin shall be provided or arranged by the local educational agency in which the school of origin is located.
+      (I) If the child or youth continues to live in the area served by the local educational agency in which the school of origin is located, the child’s or youth’s transportation to and from the school of origin shall be provided or arranged by the local educational agency in which the school of origin is located.
 
-      (II) If the homeless child’s or youth’s living arrangements in the area served by the local educational agency of origin terminate and the child or youth, though continuing his or her education in the school of origin, begins living in an area served by another local educational agency, the local educational agency of origin and the local educational agency in which the homeless child or youth is living shall agree upon a method to apportion the responsibility and costs for providing the child with transportation to and from the school of origin. If the local educational agencies are unable to agree upon such method, the responsibility and costs for transportation shall be shared equally.
+      (II) If the child’s or youth’s living arrangements in the area served by the local educational agency of origin terminate and the child or youth, though continuing the child’s or youth’s education in the school of origin, begins living in an area served by another local educational agency, the local educational agency of origin and the local educational agency in which the child or youth is living shall agree upon a method to apportion the responsibility and costs for providing the child or youth with transportation to and from the school of origin. If the local educational agencies are unable to agree upon such method, the responsibility and costs for transportation shall be shared equally.
 
-(2) **Compliance**
+    (iv) The State and the local educational agencies in the State will adopt policies and practices to ensure participation by liaisons described in clause (ii) in professional development and other technical assistance activities provided pursuant to paragraphs (5) and (6) of subsection (f), as determined appropriate by the Office of the Coordinator.
+
+  (K) A description of how youths described in [section 11434a(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11434a/2&num=0&edition=prelim) will receive assistance from counselors to advise such youths, and prepare and improve the readiness of such youths for college.
+
+(2) Compliance
 
   (A) *In general* — Each plan adopted under this subsection shall also describe how the State will ensure that local educational agencies in the State will comply with the requirements of paragraphs (3) through (7).
 
@@ -3144,57 +3240,69 @@ Part effective Jan. 8, 2002, except with respect to certain noncompetitive progr
 
     (i) continue the child’s or youth’s education in the school of origin for the duration of homelessness—
 
-      (I) in any case in which a family becomes homeless between academic years or during an academic year; or
+      (I) in any case in which a family becomes homeless between academic years or during an academic year; and
 
       (II) for the remainder of the academic year, if the child or youth becomes permanently housed during an academic year; or
 
     (ii) enroll the child or youth in any public school that nonhomeless students who live in the attendance area in which the child or youth is actually living are eligible to attend.
 
-  (B) *Best interest* — In determining the best interest of the child or youth under subparagraph (A), the local educational agency shall—
+  (B) *School stability* — In determining the best interest of the child or youth under subparagraph (A), the local educational agency shall—
 
-    (i) to the extent feasible, keep a homeless child or youth in the school of origin, except when doing so is contrary to the wishes of the child’s or youth’s parent or guardian;
+    (i) presume that keeping the child or youth in the school of origin is in the child’s or youth’s best interest, except when doing so is contrary to the request of the child’s or youth’s parent or guardian, or (in the case of an unaccompanied youth) the youth;
 
-    (ii) provide a written explanation, including a statement regarding the right to appeal under subparagraph (E), to the homeless child’s or youth’s parent or guardian, if the local educational agency sends such child or youth to a school other than the school of origin or a school requested by the parent or guardian; and
+    (ii) consider student-centered factors related to the child’s or youth’s best interest, including factors related to the impact of mobility on achievement, education, health, and safety of homeless children and youth, giving priority to the request of the child’s or youth’s parent or guardian or (in the case of an unaccompanied youth) the youth;
 
-    (iii) in the case of an unaccompanied youth, ensure that the homeless liaison designated under paragraph (1)(J)(ii) assists in placement or enrollment decisions under this subparagraph, considers the views of such unaccompanied youth, and provides notice to such youth of the right to appeal under subparagraph (E).
+    (iii) if, after conducting the best interest determination based on consideration of the presumption in clause (i) and the student-centered factors in clause (ii), the local educational agency determines that it is not in the child’s or youth’s best interest to attend the school of origin or the school requested by the parent or guardian, or (in the case of an unaccompanied youth) the youth, provide the child’s or youth’s parent or guardian or the unaccompanied youth with a written explanation of the reasons for its determination, in a manner and form understandable to such parent, guardian, or unaccompanied youth, including information regarding the right to appeal under subparagraph (E); and
 
-  (C) *Enrollment*
+    (iv) in the case of an unaccompanied youth, ensure that the local educational agency liaison designated under paragraph (1)(J)(ii) assists in placement or enrollment decisions under this subparagraph, gives priority to the views of such unaccompanied youth, and provides notice to such youth of the right to appeal under subparagraph (E).
 
-    (i) The school selected in accordance with this paragraph shall immediately enroll the homeless child or youth, even if the child or youth is unable to produce records normally required for enrollment, such as previous academic records, medical records, proof of residency, or other documentation.
+  (C) *Immediate enrollment*
 
-    (ii) The enrolling school shall immediately contact the school last attended by the child or youth to obtain relevant academic and other records.
+    (i) *In general* — The school selected in accordance with this paragraph shall immediately enroll the homeless child or youth, even if the child or youth—
 
-    (iii) If the child or youth needs to obtain immunizations, or immunization or medical records, the enrolling school shall immediately refer the parent or guardian of the child or youth to the local educational agency liaison designated under paragraph (1)(J)(ii), who shall assist in obtaining necessary immunizations, or immunization or medical records, in accordance with subparagraph (D).
+      (I) is unable to produce records normally required for enrollment, such as previous academic records, records of immunization and other required health records, proof of residency, or other documentation; or
 
-  (D) *Records* — Any record ordinarily kept by the school, including immunization or medical records, academic records, birth certificates, guardianship records, and evaluations for special services or programs, regarding each homeless child or youth shall be maintained—
+      (II) has missed application or enrollment deadlines during any period of homelessness.
 
-    (i) so that the records are available, in a timely fashion, when a child or youth enters a new school or school district; and
+    (ii) *Relevant academic records* — The enrolling school shall immediately contact the school last attended by the child or youth to obtain relevant academic and other records.
+
+    (iii) *Relevant health records* — If the child or youth needs to obtain immunizations or other required health records, the enrolling school shall immediately refer the parent or guardian of the child or youth, or (in the case of an unaccompanied youth) the youth, to the local educational agency liaison designated under paragraph (1)(J)(ii), who shall assist in obtaining necessary immunizations or screenings, or immunization or other required health records, in accordance with subparagraph (D).
+
+  (D) *Records* — Any record ordinarily kept by the school, including immunization or other required health records, academic records, birth certificates, guardianship records, and evaluations for special services or programs, regarding each homeless child or youth shall be maintained—
+
+    (i) so that the records involved are available, in a timely fashion, when a child or youth enters a new school or school district; and
 
     (ii) in a manner consistent with [section 1232g of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1232g&num=0&edition=prelim).
 
-  (E) *Enrollment disputes* — If a dispute arises over school selection or enrollment in a school—
+  (E) *Enrollment disputes* — If a dispute arises over eligibility, or school selection or enrollment in a school—
 
-    (i) the child or youth shall be immediately admitted to the school in which enrollment is sought, pending resolution of the dispute;
+    (i) the child or youth shall be immediately enrolled in the school in which enrollment is sought, pending final resolution of the dispute, including all available appeals;
 
-    (ii) the parent or guardian of the child or youth shall be provided with a written explanation of the school’s decision regarding school selection or enrollment, including the rights of the parent, guardian, or youth to appeal the decision;
+    (ii) the parent or guardian of the child or youth or (in the case of an unaccompanied youth) the youth shall be provided with a written explanation of any decisions related to school selection or enrollment made by the school, the local educational agency, or the State educational agency involved, including the rights of the parent, guardian, or unaccompanied youth to appeal such decisions;
 
-    (iii) the child, youth, parent, or guardian shall be referred to the local educational agency liaison designated under paragraph (1)(J)(ii), who shall carry out the dispute resolution process as described in paragraph (1)(C) as expeditiously as possible after receiving notice of the dispute; and
+    (iii) the parent, guardian, or unaccompanied youth shall be referred to the local educational agency liaison designated under paragraph (1)(J)(ii), who shall carry out the dispute resolution process as described in paragraph (1)(C) as expeditiously as possible after receiving notice of the dispute; and
 
-    (iv) in the case of an unaccompanied youth, the homeless liaison shall ensure that the youth is immediately enrolled in school pending resolution of the dispute.
+    (iv) in the case of an unaccompanied youth, the liaison shall ensure that the youth is immediately enrolled in the school in which the youth seeks enrollment pending resolution of such dispute.
 
   (F) *Placement choice* — The choice regarding placement shall be made regardless of whether the child or youth lives with the homeless parents or has been temporarily placed elsewhere.
 
-  (G) *School of origin defined* — In this paragraph, the term “school of origin” means the school that the child or youth attended when permanently housed or the school in which the child or youth was last enrolled.
+  (G) *Privacy* — Information about a homeless child’s or youth’s living situation shall be treated as a student education record, and shall not be deemed to be directory information, under [section 1232g of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1232g&num=0&edition=prelim).
 
-  (H) *Contact information* — Nothing in this part shall prohibit a local educational agency from requiring a parent or guardian of a homeless child to submit contact information.
+  (H) *Contact information* — Nothing in this part shall prohibit a local educational agency from requiring a parent or guardian of a homeless child or youth to submit contact information.
+
+  (I) *School of origin defined* — In this paragraph:
+
+    (i) *In general* — The term “school of origin” means the school that a child or youth attended when permanently housed or the school in which the child or youth was last enrolled, including a preschool.
+
+    (ii) *Receiving school* — When the child or youth completes the final grade level served by the school of origin, as described in clause (i), the term “school of origin” shall include the designated receiving school at the next grade level for all feeder schools.
 
 (4) **Comparable services** — Each homeless child or youth to be assisted under this part shall be provided services comparable to services offered to other students in the school selected under paragraph (3), including the following:
 
   (A) Transportation services.
 
-  (B) Educational services for which the child or youth meets the eligibility criteria, such as services provided under title I of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) et seq.] or similar State or local programs, educational programs for children with disabilities, and educational programs for students with limited English proficiency.
+  (B) Educational services for which the child or youth meets the eligibility criteria, such as services provided under title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) et seq.) or similar State or local programs, educational programs for children with disabilities, and educational programs for English learners.
 
-  (C) Programs in vocational and technical education.
+  (C) Programs in career and technical education.
 
   (D) Programs for gifted and talented students.
 
@@ -3204,82 +3312,80 @@ Part effective Jan. 8, 2002, except with respect to certain noncompetitive progr
 
   (A) *In general* — Each local educational agency serving homeless children and youths that receives assistance under this part shall coordinate—
 
-    (i) the provision of services under this part with local social services agencies and other agencies or programs providing services to homeless children and youths and their families, including services and programs funded under the Runaway and Homeless Youth Act ([42 U.S.C. 5701](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5701) et seq.); and
+    (i) the provision of services under this part with local social services agencies and other agencies or entities providing services to homeless children and youths and their families, including services and programs funded under the Runaway and Homeless Youth Act ([42 U.S.C. 5701](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5701) et seq.); and
 
-    (ii) with other local educational agencies on interdistrict issues, such as transportation or transfer of school records.
+    (ii) transportation, transfer of school records, and other interdistrict activities, with other local educational agencies.
 
   (B) *Housing assistance* — If applicable, each State educational agency and local educational agency that receives assistance under this part shall coordinate with State and local housing agencies responsible for developing the comprehensive housing affordability strategy described in [section 12705 of this title](./chapter-130-national-affordable-housing.md#section-12705) to minimize educational disruption for children and youths who become homeless.
 
   (C) *Coordination purpose* — The coordination required under subparagraphs (A) and (B) shall be designed to—
 
-    (i) ensure that homeless children and youths have access and reasonable proximity to available education and related support services; and
+    (i) ensure that all homeless children and youths are promptly identified;
 
-    (ii) raise the awareness of school personnel and service providers of the effects of short-term stays in a shelter and other challenges associated with homelessness.
+    (ii) ensure that all homeless children and youths have access to, and are in reasonable proximity to, available education and related support services; and
+
+    (iii) raise the awareness of school personnel and service providers of the effects of short-term stays in a shelter and other challenges associated with homelessness.
+
+  (D) *Homeless children and youths with disabilities* — For children and youths who are to be assisted both under this part, and under the Individuals with Disabilities Education Act ([20 U.S.C. 1400](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) et seq.) or [section 794 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794&num=0&edition=prelim), each local educational agency shall coordinate the provision of services under this part with the provision of programs for children with disabilities served by that local educational agency and other involved local educational agencies.
 
 (6) **Local educational agency liaison**
 
   (A) *Duties* — Each local educational agency liaison for homeless children and youths, designated under paragraph (1)(J)(ii), shall ensure that—
 
-    (i) homeless children and youths are identified by school personnel and through coordination activities with other entities and agencies;
+    (i) homeless children and youths are identified by school personnel through outreach and coordination activities with other entities and agencies;
 
-    (ii) homeless children and youths enroll in, and have a full and equal opportunity to succeed in, schools of that local educational agency;
+    (ii) homeless children and youths are enrolled in, and have a full and equal opportunity to succeed in, schools of that local educational agency;
 
-    (iii) homeless families, children, and youths receive educational services for which such families, children, and youths are eligible, including Head Start and Even Start programs and preschool programs administered by the local educational agency, and referrals to health care services, dental services, mental health services, and other appropriate services;
+    (iii) homeless families and homeless children and youths have access to and receive educational services for which such families, children, and youths are eligible, including services through Head Start programs (including Early Head Start programs) under the Head Start Act ([42 U.S.C. 9831](./chapter-105-community-services-programs.md#section-9831) et seq.), early intervention services under part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1431&num=0&edition=prelim) et seq.), and other preschool programs administered by the local educational agency;
 
-    (iv) the parents or guardians of homeless children and youths are informed of the educational and related opportunities available to their children and are provided with meaningful opportunities to participate in the education of their children;
+    (iv) homeless families and homeless children and youths receive referrals to health care services, dental services, mental health and substance abuse services, housing services, and other appropriate services;
 
-    (v) public notice of the educational rights of homeless children and youths is disseminated where such children and youths receive services under this chapter, such as schools, family shelters, and soup kitchens;
+    (v) the parents or guardians of homeless children and youths are informed of the educational and related opportunities available to their children and are provided with meaningful opportunities to participate in the education of their children;
 
-    (vi) enrollment disputes are mediated in accordance with paragraph (3)(E); and
+    (vi) public notice of the educational rights of homeless children and youths is disseminated in locations frequented by parents or guardians of such children and youths, and unaccompanied youths, including schools, shelters, public libraries, and soup kitchens, in a manner and form understandable to the parents and guardians of homeless children and youths, and unaccompanied youths;
 
-    (vii) the parent or guardian of a homeless child or youth, and any unaccompanied youth, is fully informed of all transportation services, including transportation to the school of origin, as described in paragraph (1)(J)(iii), and is assisted in accessing transportation to the school that is selected under paragraph (3)(A).
+    (vii) enrollment disputes are mediated in accordance with paragraph (3)(E);
 
-  (B) *Notice* — State coordinators established under subsection (d)(3) of this section and local educational agencies shall inform school personnel, service providers, and advocates working with homeless families of the duties of the local educational agency liaisons.
+    (viii) the parent or guardian of a homeless child or youth, and any unaccompanied youth, is fully informed of all transportation services, including transportation to the school of origin, as described in paragraph (1)(J)(iii), and is assisted in accessing transportation to the school that is selected under paragraph (3)(A);
 
-  (C) *Local and State coordination* — Local educational agency liaisons for homeless children and youths shall, as a part of their duties, coordinate and collaborate with State coordinators and community and school personnel responsible for the provision of education and related services to homeless children and youths.
+    (ix) school personnel providing services under this part receive professional development and other support; and
+
+    (x) unaccompanied youths—
+
+      (I) are enrolled in school;
+
+      (II) have opportunities to meet the same challenging State academic standards as the State establishes for other children and youth, including through implementation of the procedures under paragraph (1)(F)(ii); and
+
+      (III) are informed of their status as independent students under [section 1087vv of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087vv&num=0&edition=prelim) and that the youths may obtain assistance from the local educational agency liaison to receive verification of such status for purposes of the Free Application for Federal Student Aid described in [section 1090 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1090&num=0&edition=prelim).
+
+  (B) *Notice* — State Coordinators established under subsection (d)(3) and local educational agencies shall inform school personnel, service providers, advocates working with homeless families, parents and guardians of homeless children and youths, and homeless children and youths of the duties of the local educational agency liaisons, and publish an annually updated list of the liaisons on the State educational agency’s website.
+
+  (C) *Local and State coordination* — Local educational agency liaisons for homeless children and youths shall, as a part of their duties, coordinate and collaborate with State Coordinators and community and school personnel responsible for the provision of education and related services to homeless children and youths. Such coordination shall include collecting and providing to the State Coordinator the reliable, valid, and comprehensive data needed to meet the requirements of paragraphs (1) and (3) of subsection (f).
+
+  (D) *Homeless status* — A local educational agency liaison designated under paragraph (1)(J)(ii) who receives training described in subsection (f)(6) may affirm, without further agency action by the Department of Housing and Urban Development, that a child or youth who is eligible for and participating in a program provided by the local educational agency, or the immediate family of such a child or youth, who meets the eligibility requirements of this chapter for a program or service authorized under subchapter IV, is eligible for such program or service.
 
 (7) **Review and revisions**
 
-  (A) *In general* — Each State educational agency and local educational agency that receives assistance under this part shall review and revise any policies that may act as barriers to the enrollment of homeless children and youths in schools that are selected under paragraph (3).
+  (A) *In general* — Each State educational agency and local educational agency that receives assistance under this part shall review and revise any policies that may act as barriers to the identification of homeless children and youths or the enrollment of homeless children and youths in schools that are selected under paragraph (3).
 
   (B) *Consideration* — In reviewing and revising such policies, consideration shall be given to issues concerning transportation, immunization, residency, birth certificates, school records and other documentation, and guardianship.
 
-  (C) *Special attention* — Special attention shall be given to ensuring the enrollment and attendance of homeless children and youths who are not currently attending school.
-
-**(h) Special rule for emergency assistance**
-
-(1) **Emergency assistance**
-
-  (A) *Reservation of amounts* — Subject to paragraph (4) and notwithstanding any other provision of this subchapter, the Secretary shall use funds appropriated under [section 11435 of this title](./chapter-119-homeless-assistance.md#section-11435) for fiscal year 2009, but not to exceed $30,000,000, for the purposes of providing emergency assistance through grants.
-
-  (B) *General authority* — The Secretary shall use the funds to make grants to State educational agencies under paragraph (2), to enable the agencies to make subgrants to local educational agencies under paragraph (3), to provide activities described in [section 11433(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11433/d&num=0&edition=prelim) for individuals referred to in subparagraph (C).
-
-  (C) *Eligible individuals* — Funds made available under this subsection shall be used to provide such activities for eligible individuals, consisting of homeless children and youths, and their families, who have become homeless due to home foreclosure, including children and youths, and their families, who became homeless when lenders foreclosed on properties rented by the families.
-
-(2) **Grants to State educational agencies**
-
-  (A) *Disbursement* — The Secretary shall make grants with funds provided under paragraph (1)(A) to State educational agencies based on need, consistent with the number of eligible individuals described in paragraph (1)(C) in the States involved, as determined by the Secretary.
-
-  (B) *Assurance* — To be eligible to receive a grant under this paragraph, a State educational agency shall provide an assurance to the Secretary that the State educational agency, and each local educational agency receiving a subgrant from the State educational agency under this subsection shall ensure that the activities carried out under this subsection are consistent with the activities described in [section 11433(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11433/d&num=0&edition=prelim).
-
-(3) **Subgrants to local educational agencies** — A State educational agency that receives a grant under paragraph (2) shall use the funds made available through the grant to make subgrants to local educational agencies. The State educational agency shall make the subgrants to local educational agencies based on need, consistent with the number of eligible individuals described in paragraph (1)(C) in the areas served by the local educational agencies, as determined by the State educational agency.
-
-(4) **Restriction** — The Secretary—
-
-  (A) shall determine the amount (if any) by which the funds appropriated under [section 11435 of this title](./chapter-119-homeless-assistance.md#section-11435) for fiscal year 2009 exceed $70,000,000; and
-
-  (B) may only use funds from that amount to carry out this subsection.
+  (C) *Special attention* — Special attention shall be given to ensuring the identification, enrollment, and attendance of homeless children and youths who are not currently attending school.
 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(B)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.), referred to in subsec. (c)(2)(B)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (g)(4)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
+The Runaway and Homeless Youth Act, referred to in subsecs. (f)(4)(B) and (g)(5)(A)(i), is title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1129, which is classified generally to subchapter III (§ 5701 et seq.) of chapter 72 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of this title](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5601) and Tables.
 
-The Runaway and Homeless Youth Act, referred to in subsec. (g)(5)(A)(i), is title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1129, which is classified generally to subchapter III (§ 5701 et seq.) of chapter 72 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of this title](./chapter-072-juvenile-justice-and-delinquency-prevention.md#section-5601) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (g)(4)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
-This chapter, referred to in subsec. (g)(6)(A)(v), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of this title](./chapter-119-homeless-assistance.md#section-11301) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (g)(5)(D), (6)(A)(iii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
+
+The Head Start Act, referred to in subsec. (g)(6)(A)(iii), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of this title](./chapter-105-community-services-programs.md#section-9801) and Tables.
+
+This chapter, referred to in subsec. (g)(6)(D), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of this title](./chapter-119-homeless-assistance.md#section-11301) and Tables.
 
 #### Prior Provisions
 A prior section 11432, Pub. L. 100–77, title VII, § 722, as added Pub. L. 103–382, title III, § 323, Oct. 20, 1994, 108 Stat. 3957, related to grants for State and local activities for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 107–110.
@@ -3287,14 +3393,43 @@ A prior section 11432, Pub. L. 100–77, title VII, § 722, as added Pub. L. 103
 Another prior section 11432, Pub. L. 100–77, title VII, § 722, July 22, 1987, 101 Stat. 525; Pub. L. 100–628, title VII, § 702(a), Nov. 7, 1988, 102 Stat. 3245; Pub. L. 101–645, title VI, § 612(b), Nov. 29, 1990, 104 Stat. 4735, related to grants for State and local activities for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 103–382.
 
 #### Amendments
+2015—Subsec. (b). Pub. L. 114–95, § 9102(1), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “No State may receive a grant under this section unless the State educational agency submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information as the Secretary may reasonably require.”
+
+Subsec. (d)(2). Pub. L. 114–95, § 9102(2)(A), substituted “To provide services and activities to improve the identification of homeless children and youths (including preschool-aged homeless children) and enable” for “To provide activities for, and services to, homeless children, including preschool-aged homeless children, and youths that enable” and “including, if” for “or, if”.
+
+Subsec. (d)(3). Pub. L. 114–95, § 9102(2)(B), substituted “designate in the State educational agency an Office of the Coordinator for Education of Homeless Children and Youths that can sufficiently carry out the duties described for the Office in this part in accordance with subsection (f).” for “designate an Office of Coordinator for Education of Homeless Children and Youths in the State educational agency in accordance with subsection (f) of this section.”
+
+Subsec. (d)(5). Pub. L. 114–95, § 9102(2)(C), added par. (5) and struck out former par. (5) which read as follows: “To develop and implement professional development programs for school personnel to heighten their awareness of, and capacity to respond to, specific problems in the education of homeless children and youths.”
+
+Subsec. (e)(1). Pub. L. 114–95, § 9102(3)(A), inserted “a State through grants under subsection (a) to” after “each year to”.
+
+Subsec. (e)(2). Pub. L. 114–95, § 9102(3)(B), substituted “the grant funds remaining after the State educational agency distributes subgrants under paragraph (1)” for “funds made available for State use under this part”.
+
+Subsec. (e)(3)(C)(iv)(II). Pub. L. 114–95, § 9102(3)(C)(i), substituted “section 1111” for “sections 1111 and 1116”.
+
+Subsec. (e)(3)(E)(ii)(II). Pub. L. 114–95, § 9102(3)(C)(ii), substituted “subsection (g)(6)(A)(vi)”for “subsection (g)(6)(A)(v)”.
+
+Subsec. (e)(3)(F)(i)(IV). Pub. L. 114–95, § 9102(3)(C)(iii)(I), added subcl. (IV).
+
+Subsec. (e)(3)(F)(iii). Pub. L. 114–95, § 9102(3)(C)(iii)(II), substituted “The” for “Not later than 2 years after January 8, 2002, the”.
+
+Subsec. (f). Pub. L. 114–95, § 9102(4), added subsec. (f) and struck out former subsec. (f) which related to the functions of the Office of Coordinator.
+
+Subsec. (g). Pub. L. 114–95, § 9102(5), added subsec. (g) and struck out former subsec. (g) which related to State plans to provide for the education of homeless children and youths.
+
+Subsec. (h). Pub. L. 114–95, § 9102(6), struck out subsec. (h) which related to emergency assistance for certain individuals who become homeless due to home foreclosure.
+
 2008—Subsec. (h). Pub. L. 110–289 added subsec. (h).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Oct. 1, 2016, see section 9107 of Pub. L. 114–95, set out as a note under [section 11431 of this title](./chapter-119-homeless-assistance.md#section-11431).
 
 
 <a id="section-11433"></a>
 ## § 11433. Local educational agency subgrants for the education of homeless children and youths
 **(a) General authority**
 
-(1) **In general** — The State educational agency shall, in accordance with [section 11432(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11432/e&num=0&edition=prelim), and from amounts made available to such agency under [section 11435 of this title](./chapter-119-homeless-assistance.md#section-11435), make subgrants to local educational agencies for the purpose of facilitating the enrollment, attendance, and success in school of homeless children and youths.
+(1) **In general** — The State educational agency shall, in accordance with [section 11432(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11432/e&num=0&edition=prelim), and from amounts made available to such agency under [section 11435 of this title](./chapter-119-homeless-assistance.md#section-11435), make subgrants to local educational agencies for the purpose of facilitating the identification, enrollment, attendance, and success in school of homeless children and youths.
 
 (2) **Services**
 
@@ -3306,7 +3441,7 @@ Another prior section 11432, Pub. L. 100–77, title VII, § 722, July 22, 1987,
 
     (iii) shall be designed to expand or improve services provided as part of a school’s regular academic program, but not to replace such services provided under such program.
 
-  (B) *Services on school grounds* — If services under paragraph (1) are provided on school grounds, schools—
+  (B) *Services on school grounds* — If services under paragraph (1) are provided on school grounds, the related schools—
 
     (i) may use funds under this part to provide the same services to other children and youths who are determined by the local educational agency to be at risk of failing in, or dropping out of, school, subject to the requirements of clause (ii); and
 
@@ -3317,6 +3452,8 @@ Another prior section 11432, Pub. L. 100–77, title VII, § 722, July 22, 1987,
       (II) to provide temporary, special, and supplementary services to meet the unique needs of homeless children and youths.
 
 (3) **Requirement** — Services provided under this section shall not replace the regular academic program and shall be designed to expand upon or improve services provided as part of the school’s regular academic program.
+
+(4) **Duration of grants** — Subgrants made under this section shall be for terms of not to exceed 3 years.
 
 **(b) Application** A local educational agency that desires to receive a subgrant under this section shall submit an application to the State educational agency at such time, in such manner, and containing or accompanied by such information as the State educational agency may reasonably require. Such application shall include the following:
 
@@ -3330,49 +3467,51 @@ Another prior section 11432, Pub. L. 100–77, title VII, § 722, July 22, 1987,
 
 (5) A description of policies and procedures, consistent with [section 11432(e)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11432/e/3&num=0&edition=prelim), that the agency will implement to ensure that activities carried out by the agency will not isolate or stigmatize homeless children and youths.
 
+(6) An assurance that the local educational agency will collect and promptly provide data requested by the State Coordinator pursuant to paragraphs (1) and (3) of [section 11432(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11432/f&num=0&edition=prelim).
+
+(7) An assurance that the local educational agency will meet the requirements of [section 11432(g)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11432/g/3&num=0&edition=prelim).
+
 **(c) Awards**
 
-(1) **In general** — The State educational agency shall, in accordance with the requirements of this part and from amounts made available to it under [section 11435 of this title](./chapter-119-homeless-assistance.md#section-11435), make competitive subgrants to local educational agencies that submit applications under subsection (b) of this section. Such subgrants shall be awarded on the basis of the need of such agencies for assistance under this part and the quality of the applications submitted.
+(1) **In general** — The State educational agency shall, in accordance with the requirements of this part and from amounts made available to it under [section 11435 of this title](./chapter-119-homeless-assistance.md#section-11435), make competitive subgrants to local educational agencies that submit applications under subsection (b). Such subgrants shall be awarded on the basis of the need of such agencies for assistance under this part and the quality of the applications submitted.
 
-(2) **Need** — In determining need under paragraph (1), the State educational agency may consider the number of homeless children and youths enrolled in preschool, elementary, and secondary schools within the area served by the local educational agency, and shall consider the needs of such children and youths and the ability of the local educational agency to meet such needs. The State educational agency may also consider the following:
+(2) **Need** — In determining need under paragraph (1), the State educational agency may consider the number of homeless children and youths enrolled in early childhood education and other preschool programs, elementary schools, and secondary schools, within the area served by the local educational agency, and shall consider the needs of such children and youths and the ability of the local educational agency to meet such needs. The State educational agency may also consider the following:
 
-  (A) The extent to which the proposed use of funds will facilitate the enrollment, retention, and educational success of homeless children and youths.
+  (A) The extent to which the proposed use of funds will facilitate the identification, enrollment, retention, and educational success of homeless children and youths.
 
-  (B) The extent to which the application—
+  (B) The extent to which the application reflects coordination with other local and State agencies that serve homeless children and youths.
 
-    (i) reflects coordination with other local and State agencies that serve homeless children and youths; and
-
-    (ii) describes how the applicant will meet the requirements of [section 11432(g)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11432/g/3&num=0&edition=prelim).
-
-  (C) The extent to which the applicant exhibits in the application and in current practice a commitment to education for all homeless children and youths.
+  (C) The extent to which the applicant exhibits in the application and in current practice (as of the date of submission of the application) a commitment to education for all homeless children and youths.
 
   (D) Such other criteria as the State agency determines appropriate.
 
 (3) **Quality** — In determining the quality of applications under paragraph (1), the State educational agency shall consider the following:
 
-  (A) The applicant’s needs assessment under subsection (b)(1) of this section and the likelihood that the program presented in the application will meet such needs.
+  (A) The applicant’s needs assessment under subsection (b)(1) and the likelihood that the program presented in the application will meet such needs.
 
   (B) The types, intensity, and coordination of the services to be provided under the program.
 
-  (C) The involvement of parents or guardians of homeless children or youths in the education of their children.
+  (C) The extent to which the applicant will promote meaningful involvement of parents or guardians of homeless children or youths in the education of their children.
 
-  (D) The extent to which homeless children and youths will be integrated within the regular education program.
+  (D) The extent to which homeless children and youths will be integrated into the regular education program.
 
   (E) The quality of the applicant’s evaluation plan for the program.
 
   (F) The extent to which services provided under this part will be coordinated with other services available to homeless children and youths and their families.
 
-  (G) Such other measures as the State educational agency considers indicative of a high-quality program, such as the extent to which the local educational agency will provide case management or related services to unaccompanied youths.
+  (G) The extent to which the local educational agency will use the subgrant to leverage resources, including by maximizing nonsubgrant funding for the position of the liaison described in [section 11432(g)(1)(J)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11432/g/1/J/ii&num=0&edition=prelim) and the provision of transportation.
 
-(4) **Duration of grants** — Grants awarded under this section shall be for terms not to exceed 3 years.
+  (H) How the local educational agency will use funds to serve homeless children and youths under section 1113(c)(3) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6313(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6313/c/3&num=0&edition=prelim)).
+
+  (I) The extent to which the applicant’s program meets such other measures as the State educational agency considers indicative of a high-quality program, such as the extent to which the local educational agency will provide case management or related services to unaccompanied youths.
 
 **(d) Authorized activities** A local educational agency may use funds awarded under this section for activities that carry out the purpose of this part, including the following:
 
-(1) The provision of tutoring, supplemental instruction, and enriched educational services that are linked to the achievement of the same challenging State academic content standards and challenging State student academic achievement standards the State establishes for other children and youths.
+(1) The provision of tutoring, supplemental instruction, and enriched educational services that are linked to the achievement of the same challenging State academic standards as the State establishes for other children and youths.
 
-(2) The provision of expedited evaluations of the strengths and needs of homeless children and youths, including needs and eligibility for programs and services (such as educational programs for gifted and talented students, children with disabilities, and students with limited English proficiency, services provided under title I of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) et seq.] or similar State or local programs, programs in vocational and technical education, and school nutrition programs).
+(2) The provision of expedited evaluations of the strengths and needs of homeless children and youths, including needs and eligibility for programs and services (such as educational programs for gifted and talented students, children with disabilities, and English learners, services provided under title I of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) et seq.] or similar State or local programs, programs in career and technical education, and school nutrition programs).
 
-(3) Professional development and other activities for educators and pupil services personnel that are designed to heighten the understanding and sensitivity of such personnel to the needs of homeless children and youths, the rights of such children and youths under this part, and the specific educational needs of runaway and homeless youths.
+(3) Professional development and other activities for educators and specialized instructional support personnel that are designed to heighten the understanding and sensitivity of such personnel to the needs of homeless children and youths, the rights of such children and youths under this part, and the specific educational needs of runaway and homeless youths.
 
 (4) The provision of referral services to homeless children and youths for medical, dental, mental, and other health services.
 
@@ -3380,25 +3519,25 @@ Another prior section 11432, Pub. L. 100–77, title VII, § 722, July 22, 1987,
 
 (6) The provision of developmentally appropriate early childhood education programs, not otherwise provided through Federal, State, or local funding, for preschool-aged homeless children.
 
-(7) The provision of services and assistance to attract, engage, and retain homeless children and youths, and unaccompanied youths, in public school programs and services provided to nonhomeless children and youths.
+(7) The provision of services and assistance to attract, engage, and retain homeless children and youths, particularly homeless children and youths who are not enrolled in school, in public school programs and services provided to nonhomeless children and youths.
 
 (8) The provision for homeless children and youths of before- and after-school, mentoring, and summer programs in which a teacher or other qualified individual provides tutoring, homework assistance, and supervision of educational activities.
 
-(9) If necessary, the payment of fees and other costs associated with tracking, obtaining, and transferring records necessary to enroll homeless children and youths in school, including birth certificates, immunization or medical records, academic records, guardianship records, and evaluations for special programs or services.
+(9) If necessary, the payment of fees and other costs associated with tracking, obtaining, and transferring records necessary to enroll homeless children and youths in school, including birth certificates, immunization or other required health records, academic records, guardianship records, and evaluations for special programs or services.
 
-(10) The provision of education and training to the parents of homeless children and youths about the rights of, and resources available to, such children and youths.
+(10) The provision of education and training to the parents and guardians of homeless children and youths about the rights of, and resources available to, such children and youths, and other activities designed to increase the meaningful involvement of parents and guardians of homeless children or youths in the education of such children or youths.
 
 (11) The development of coordination between schools and agencies providing services to homeless children and youths, as described in [section 11432(g)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11432/g/5&num=0&edition=prelim).
 
-(12) The provision of pupil services (including violence prevention counseling) and referrals for such services.
+(12) The provision of specialized instructional support services (including violence prevention counseling) and referrals for such services.
 
-(13) Activities to address the particular needs of homeless children and youths that may arise from domestic violence.
+(13) Activities to address the particular needs of homeless children and youths that may arise from domestic violence and parental mental health or substance abuse problems.
 
-(14) The adaptation of space and purchase of supplies for any nonschool facilities made available under subsection (a)(2) of this section to provide services under this subsection.
+(14) The adaptation of space and purchase of supplies for any nonschool facilities made available under subsection (a)(2) to provide services under this subsection.
 
 (15) The provision of school supplies, including those supplies to be distributed at shelters or temporary housing facilities, or other appropriate locations.
 
-(16) The provision of other extraordinary or emergency assistance needed to enable homeless children and youths to attend school.
+(16) The provision of other extraordinary or emergency assistance needed to enable homeless children and youths to attend school and participate fully in school activities.
 
 ### Statutory Notes
 
@@ -3410,6 +3549,58 @@ A prior section 11433, Pub. L. 100–77, title VII, § 723, as added Pub. L. 103
 
 Another prior section 11433, Pub. L. 100–77, title VII, § 723, July 22, 1987, 101 Stat. 527; Pub. L. 100–628, title VII, § 702(b), Nov. 7, 1988, 102 Stat. 3245; Pub. L. 101–645, title VI, § 612(c), Nov. 29, 1990, 104 Stat. 4739, related to local educational agency grants for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 103–382.
 
+#### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–95, § 9103(1)(A), substituted “facilitating the identification, enrollment,” for “facilitating the enrollment,”.
+
+Subsec. (a)(2)(B). Pub. L. 114–95, § 9103(1)(B), inserted “the related” before “schools” in introductory provisions.
+
+Subsec. (a)(4). Pub. L. 114–95, § 9103(1)(C), added par. (4).
+
+Subsec. (b)(6), (7). Pub. L. 114–95, § 9103(2), added pars. (6) and (7).
+
+Subsec. (c)(2). Pub. L. 114–95, § 9103(3)(A)(i), substituted “early childhood education and other preschool programs, elementary schools, and secondary schools,” for “preschool, elementary, and secondary schools” in introductory provisions.
+
+Subsec. (c)(2)(A). Pub. L. 114–95, § 9103(3)(A)(ii), inserted “identification,” before “enrollment,”.
+
+Subsec. (c)(2)(B). Pub. L. 114–95, § 9103(3)(A)(iii), substituted “application reflects coordination with other local and State agencies that serve homeless children and youths.” for “application—
+
+“(i) reflects coordination with other local and State agencies that serve homeless children and youths; and
+
+“(ii) describes how the applicant will meet the requirements of [section 11432(g)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11432/g/3&num=0&edition=prelim).”
+
+Subsec. (c)(2)(C). Pub. L. 114–95, § 9103(3)(A)(iv), inserted “(as of the date of submission of the application)” after “practice”.
+
+Subsec. (c)(3)(C). Pub. L. 114–95, § 9103(3)(B)(i), inserted “extent to which the applicant will promote meaningful” after “The”.
+
+Subsec. (c)(3)(D). Pub. L. 114–95, § 9103(3)(B)(ii), substituted “into” for “within”.
+
+Subsec. (c)(3)(G), (H). Pub. L. 114–95, § 9103(3)(B)(iv), added subpars. (G) and (H). Former subpar. (G) redesignated (I).
+
+Subsec. (c)(3)(I). Pub. L. 114–95, § 9103(3)(B)(iii), (v), redesignated subpar. (G) as (I) and substituted “The extent to which the applicant’s program meets such” for “Such”.
+
+Subsec. (c)(4). Pub. L. 114–95, § 9103(3)(C), struck out par. (4). Text read as follows: “Grants awarded under this section shall be for terms not to exceed 3 years.”
+
+Subsec. (d)(1). Pub. L. 114–95, § 9103(4)(A), substituted “the same challenging State academic standards as” for “the same challenging State academic content standards and challenging State student academic achievement standards”.
+
+Subsec. (d)(2). Pub. L. 114–95, § 9103(4)(B), substituted “English learners” for “students with limited English proficiency” and “career” for “vocational”.
+
+Subsec. (d)(3). Pub. L. 114–95, § 9103(4)(C), substituted “specialized instructional support” for “pupil services”.
+
+Subsec. (d)(7). Pub. L. 114–95, § 9103(4)(D), substituted “particularly homeless children and youths who are not enrolled in school,” for “and unaccompanied youths,”.
+
+Subsec. (d)(9). Pub. L. 114–95, § 9103(4)(E), substituted “other required health” for “medical”.
+
+Subsec. (d)(10). Pub. L. 114–95, § 9103(4)(F), substituted “parents and guardians” for “parents” and inserted before period at end “, and other activities designed to increase the meaningful involvement of parents and guardians of homeless children or youths in the education of such children or youths”.
+
+Subsec. (d)(12). Pub. L. 114–95, § 9103(4)(G), substituted “specialized instructional support services” for “pupil services”.
+
+Subsec. (d)(13). Pub. L. 114–95, § 9103(4)(H), inserted before period at end “and parental mental health or substance abuse problems”.
+
+Subsec. (d)(16). Pub. L. 114–95, § 9103(4)(I), inserted before period at end “and participate fully in school activities”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Oct. 1, 2016, see section 9107 of Pub. L. 114–95, set out as a note under [section 11431 of this title](./chapter-119-homeless-assistance.md#section-11431).
+
 
 <a id="section-11434"></a>
 ## § 11434. Secretarial responsibilities
@@ -3417,25 +3608,29 @@ Another prior section 11433, Pub. L. 100–77, title VII, § 723, July 22, 1987,
 
 **(b) Technical assistance** The Secretary shall provide support and technical assistance to a State educational agency to assist such agency in carrying out its responsibilities under this part, if requested by the State educational agency.
 
-**(c) Notice** The Secretary shall, before the next school year that begins after January 8, 2002, create and disseminate nationwide a public notice of the educational rights of homeless children and youths and disseminate such notice to other Federal agencies, programs, and grantees, including Head Start grantees, Health Care for the Homeless grantees, Emergency Food and Shelter grantees, and homeless assistance programs administered by the Department of Housing and Urban Development.
+**(c) Notice**
 
-**(d) Evaluation and dissemination** The Secretary shall conduct evaluation and dissemination activities of programs designed to meet the educational needs of homeless elementary and secondary school students, and may use funds appropriated under [section 11435 of this title](./chapter-119-homeless-assistance.md#section-11435) to conduct such activities.
+(1) **In general** — The Secretary shall, before the next school year that begins after December 10, 2015, update and disseminate nationwide the public notice described in this subsection (as in effect prior to such date) of the educational rights of homeless children and youths.
 
-**(e) Submission and distribution** The Secretary shall require applications for grants under this part to be submitted to the Secretary not later than the expiration of the 60-day period beginning on the date that funds are available for purposes of making such grants and shall make such grants not later than the expiration of the 120-day period beginning on such date.
+(2) **Dissemination** — The Secretary shall disseminate the notice nationwide to all Federal agencies, and grant recipients, serving homeless families or homeless children and youths.
 
-**(f) Determination by Secretary** The Secretary, based on the information received from the States and information gathered by the Secretary under subsection (h) of this section, shall determine the extent to which State educational agencies are ensuring that each homeless child and homeless youth has access to a free appropriate public education, as described in [section 11431(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11431/1&num=0&edition=prelim).
+**(d) Evaluation, dissemination, and technical assistance** The Secretary shall conduct evaluation, dissemination, and technical assistance activities for programs designed to meet the educational needs of homeless elementary and secondary school students, and may use funds appropriated under [section 11435 of this title](./chapter-119-homeless-assistance.md#section-11435) to conduct such activities.
 
-**(g) Guidelines** The Secretary shall develop, issue, and publish in the Federal Register, not later than 60 days after January 8, 2002, school enrollment guidelines for States with respect to homeless children and youths. The guidelines shall describe—
+**(e) Submission and distribution** The Secretary shall require applications for grants under this part to be submitted to the Secretary not later than the expiration of the 120-day period beginning on the date that funds are available for purposes of making such grants and shall make such grants not later than the expiration of the 180-day period beginning on such date.
 
-(1) successful ways in which a State may assist local educational agencies to immediately enroll homeless children and youths in school; and
+**(f) Determination by Secretary** The Secretary, based on the information received from the States and information gathered by the Secretary under subsection (h), shall determine the extent to which State educational agencies are ensuring that each homeless child and homeless youth has access to a free appropriate public education, as described in [section 11431(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11431/1&num=0&edition=prelim). The Secretary shall provide support and technical assistance to State educational agencies, concerning areas in which documented barriers to a free appropriate public education persist.
 
-(2) how a State can review the State’s requirements regarding immunization and medical or school records and make such revisions to the requirements as are appropriate and necessary in order to enroll homeless children and youths in school immediately.
+**(g) Guidelines** The Secretary shall develop, issue, and publish in the Federal Register, not later than 60 days after December 10, 2015, guidelines concerning ways in which a State—
+
+(1) may assist local educational agencies to implement the provisions related to homeless children and youths amended by that Act; and
+
+(2) may review and revise State policies and procedures that may present barriers to the identification of homeless children and youths, and the enrollment, attendance, and success of homeless children and youths in school.
 
 **(h) Information**
 
 (1) **In general** — From funds appropriated under [section 11435 of this title](./chapter-119-homeless-assistance.md#section-11435), the Secretary shall, directly or through grants, contracts, or cooperative agreements, periodically collect and disseminate data and information regarding—
 
-  (A) the number and location of homeless children and youths;
+  (A) the number and primary nighttime residence of homeless children and youths in all areas served by local educational agencies;
 
   (B) the education and related services such children and youths receive;
 
@@ -3445,7 +3640,7 @@ Another prior section 11433, Pub. L. 100–77, title VII, § 723, July 22, 1987,
 
 (2) **Coordination** — The Secretary shall coordinate such collection and dissemination with other agencies and entities that receive assistance and administer programs under this part.
 
-**(i) Report** Not later than 4 years after January 8, 2002, the Secretary shall prepare and submit to the President and the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the status of education of homeless children and youths, which shall include information on—
+**(i) Report** Not later than 4 years after December 10, 2015, the Secretary shall prepare and submit to the President and the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the status of education of homeless children and youths, which shall include information on—
 
 (1) the education of homeless children and youths; and
 
@@ -3453,10 +3648,35 @@ Another prior section 11433, Pub. L. 100–77, title VII, § 723, July 22, 1987,
 
 ### Statutory Notes
 
+#### References in Text
+That Act, referred to in subsec. (g)(1), is Pub. L. 114–95, Dec. 10, 2015, 129 Stat. 1802, known as The Every Student Succeeds Act. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 6301 of this title](./chapter-077-energy-conservation.md#section-6301) and Tables.
+
 #### Prior Provisions
 A prior section 11434, Pub. L. 100–77, title VII, § 724, as added Pub. L. 103–382, title III, § 323, Oct. 20, 1994, 108 Stat. 3964, related to Secretarial responsibilities, prior to the general amendment of this part by Pub. L. 107–110.
 
 Another prior section 11434, Pub. L. 100–77, title VII, § 724, July 22, 1987, 101 Stat. 528; Pub. L. 101–645, title VI, § 612(d), Nov. 29, 1990, 104 Stat. 4742, related to national responsibilities, prior to the general amendment of this part by Pub. L. 103–382.
+
+#### Amendments
+2015—Subsec. (c). Pub. L. 114–95, § 9104(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Secretary shall, before the next school year that begins after January 8, 2002, create and disseminate nationwide a public notice of the educational rights of homeless children and youths and disseminate such notice to other Federal agencies, programs, and grantees, including Head Start grantees, Health Care for the Homeless grantees, Emergency Food and Shelter grantees, and homeless assistance programs administered by the Department of Housing and Urban Development.”
+
+Subsec. (d). Pub. L. 114–95, § 9104(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary shall conduct evaluation and dissemination activities of programs designed to meet the educational needs of homeless elementary and secondary school students, and may use funds appropriated under [section 11435 of this title](./chapter-119-homeless-assistance.md#section-11435) to conduct such activities.”
+
+Subsec. (e). Pub. L. 114–95, § 9104(3), substituted “120-day” for “60-day” and “180-day” for “120-day”.
+
+Subsec. (f). Pub. L. 114–95, § 9104(4), inserted at end “The Secretary shall provide support and technical assistance to State educational agencies, concerning areas in which documented barriers to a free appropriate public education persist.”
+
+Subsec. (g). Pub. L. 114–95, § 9104(5), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “The Secretary shall develop, issue, and publish in the Federal Register, not later than 60 days after January 8, 2002, school enrollment guidelines for States with respect to homeless children and youths. The guidelines shall describe—
+
+“(1) successful ways in which a State may assist local educational agencies to immediately enroll homeless children and youths in school; and
+
+“(2) how a State can review the State’s requirements regarding immunization and medical or school records and make such revisions to the requirements as are appropriate and necessary in order to enroll homeless children and youths in school immediately.”
+
+Subsec. (h)(1)(A). Pub. L. 114–95, § 9104(6), substituted “primary nighttime residence” for “location” and inserted before semicolon at end “in all areas served by local educational agencies”.
+
+Subsec. (i). Pub. L. 114–95, § 9104(7), substituted “December 10, 2015” for “January 8, 2002”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Oct. 1, 2016, see section 9107 of Pub. L. 114–95, set out as a note under [section 11431 of this title](./chapter-119-homeless-assistance.md#section-11431).
 
 
 <a id="section-11434a"></a>
@@ -3472,7 +3692,7 @@ For purposes of this part:
 
   (B) includes—
 
-    (i) children and youths who are sharing the housing of other persons due to loss of housing, economic hardship, or a similar reason; are living in motels, hotels, trailer parks, or camping grounds due to the lack of alternative adequate accommodations; are living in emergency or transitional shelters; are abandoned in hospitals; or are awaiting foster care placement;
+    (i) children and youths who are sharing the housing of other persons due to loss of housing, economic hardship, or a similar reason; are living in motels, hotels, trailer parks, or camping grounds due to the lack of alternative adequate accommodations; are living in emergency or transitional shelters; or are abandoned in hospitals;
 
     (ii) children and youths who have a primary nighttime residence that is a public or private place not designed for or ordinarily used as a regular sleeping accommodation for human beings (within the meaning of section 11302(a)(2)(C) 11 See References in Text note below. of this title);
 
@@ -3486,7 +3706,7 @@ For purposes of this part:
 
 (5) The term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(6) The term “unaccompanied youth” includes a youth not in the physical custody of a parent or guardian.
+(6) The term “unaccompanied youth” includes a homeless child or youth not in the physical custody of a parent or guardian.
 
 ### Statutory Notes
 
@@ -3500,11 +3720,30 @@ Another prior section 11434a, Pub. L. 100–77, title VII, § 725, as added Pub.
 
 A prior section 725 of Pub. L. 100–77 was renumbered section 726 and was classified to [section 11435 of this title](./chapter-119-homeless-assistance.md#section-11435), prior to the general amendment of this part by Pub. L. 103–382.
 
+#### Amendments
+2015—Par. (2)(B)(i). Pub. L. 114–95, § 9105(a)(1), inserted “or” before “are abandoned” and struck out “or are awaiting foster care placement;” after “hospitals;”.
+
+Par. (3). Pub. L. 114–95, § 9215(zz), made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
+Pub. L. 114–95, § 9105(a)(2), which directed technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim), could not be executed because of the intervening amendment by Pub. L. 114–95, § 9215(zz). See above and Effective Date of 2015 Amendment notes below.
+
+Par. (6). Pub. L. 114–95, § 9105(a)(3), substituted “homeless child or youth not” for “youth not”.
+
+#### Effective Date of 2015 Amendment
+Amendment by section 9215(zz) of Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-077-energy-conservation.md#section-6301).
+
+Pub. L. 114–95, title IX, § 9105(b), Dec. 10, 2015, 129 Stat. 2137, provided that: “(1) In general.—In the case of a State that is not a covered State, the amendment made by subsection (a)(1) [amending this section] shall take effect on the date that is 1 year after the date of enactment of this Act [Dec. 10, 2015]. “(2) Covered state.—In the case of a covered State, the amendment made by subsection (a)(1) shall take effect on the date that is 2 years after the date of enactment of this Act.”
+
+Amendment by section 9105(a) of Pub. L. 114–95 effective Oct. 1, 2016, except as provided in section 9105(b) of Pub. L. 114–95 (set out above), see section 9107 of Pub. L. 114–95, set out as a note under [section 11431 of this title](./chapter-119-homeless-assistance.md#section-11431).
+
+#### Definition of Covered State
+Pub. L. 114–95, title IX, § 9105(c), Dec. 10, 2015, 129 Stat. 2137, provided that: “For purposes of this section [amending this section and enacting provisions set out as a note above] the term ‘covered State’ means a State that has a statutory law that defines or describes the phrase ‘awaiting foster care placement’, for purposes of a program under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11431](./chapter-119-homeless-assistance.md#section-11431) et seq.).”
+
 
 <a id="section-11435"></a>
 ## § 11435. Authorization of appropriations
 
-For the purpose of carrying out this part, there are authorized to be appropriated $100,000,000 for fiscal year 2009 and such sums as may be necessary for each subsequent fiscal year.
+There are authorized to be appropriated to carry out this part $85,000,000 for each of fiscal years 2017 through 2020.
 
 ### Statutory Notes
 
@@ -3514,7 +3753,12 @@ A prior section 11435, Pub. L. 100–77, title VII, § 726, as added Pub. L. 103
 Another prior section 11435, Pub. L. 100–77, title VII, § 726, formerly § 725, July 22, 1987, 101 Stat. 528; Pub. L. 100–628, title VII, § 702(c), Nov. 7, 1988, 102 Stat. 3245; renumbered § 726, Pub. L. 101–645, title VI, § 613(1), Nov. 29, 1990, 104 Stat. 4743, defined terms used in this part, prior to the general amendment of this part by Pub. L. 103–382.
 
 #### Amendments
+2015—Pub. L. 114–95, § 9106, amended section generally. Prior to amendment, text read as follows: “For the purpose of carrying out this part, there are authorized to be appropriated $100,000,000 for fiscal year 2009 and such sums as may be necessary for each subsequent fiscal year.”
+
 2008—Pub. L. 110–289 substituted “$100,000,000 for fiscal year 2009 and such sums as may be necessary for each subsequent fiscal year” for “$70,000,000 for fiscal year 2002 and such sums as may be necessary for each of fiscal years 2003 through 2007”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Oct. 1, 2016, see section 9107 of Pub. L. 114–95, set out as a note under [section 11431 of this title](./chapter-119-homeless-assistance.md#section-11431).
 
 
 <a id="section-11441-to-11447"></a>
@@ -3573,7 +3817,7 @@ Section 11465, Pub. L. 100–77, title VII, § 755, as added Pub. L. 101–645, 
 Section 11466, Pub. L. 100–77, title VII, § 756, as added Pub. L. 101–645, title VI, § 641, Nov. 29, 1990, 104 Stat. 4747, required report by General Accounting Office.
 
 #### Effective Date of Repeal
-Repeal effective July 1, 1999, see section 199(c)(2)(A) of Pub. L. 105–220, set out as a note under [section 11421 of this title](./chapter-119-homeless-assistance.md#section-11421).
+Repeal effective July 1, 1999, see section 199(c)(2)(A) of Pub. L. 105–220, as amended, set out as a note under [section 11421 of this title](./chapter-119-homeless-assistance.md#section-11421).
 
 
 <a id="section-11471-11472"></a>
@@ -3586,7 +3830,7 @@ Section 11471, Pub. L. 100–77, title VII, § 761, July 22, 1987, 101 Stat. 533
 Section 11472, Pub. L. 100–77, title VII, § 762, July 22, 1987, 101 Stat. 533, related to set-asides for Native Americans.
 
 #### Effective Date of Repeal
-Repeal effective July 1, 1999, see section 199(c)(2)(A) of Pub. L. 105–220, set out as a note under [section 11421 of this title](./chapter-119-homeless-assistance.md#section-11421).
+Repeal effective July 1, 1999, see section 199(c)(2)(A) of Pub. L. 105–220, as amended, set out as a note under [section 11421 of this title](./chapter-119-homeless-assistance.md#section-11421).
 
 
 <a id="section-11481-to-11489"></a>

@@ -381,7 +381,7 @@ Public Law 88–170, as amended (82 Stat. 863), referred to in text, is Pub. L. 
 #### References in Text
 The Internal Revenue Code of 1986, referred to in subsecs. (d) to (f), is classified generally to Title 26, Internal Revenue Code.
 
-The Internal Revenue Code of 1939, referred to in subsecs. (d)(1), (e), and (f), was generally repealed by section 7851 of the Internal Revenue Code of 1986, Title 26. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim), Internal Revenue Code. See also [section 7852(b) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7852/b&num=0&edition=prelim), Internal Revenue Code, for provision that references in any other law to a provision of the 1939 Code, unless expressly incompatible with the intent thereof, shall be deemed a reference to the corresponding provision of the 1986 Code.
+The Internal Revenue Code of 1939, referred to in subsecs. (d)(1), (e), and (f), was generally repealed by section 7851 of the Internal Revenue Code of 1954, Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim), Internal Revenue Code. See also [section 7852(b) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7852/b&num=0&edition=prelim) for provision that references in any other law to a provision of the 1939 Code, unless expressly incompatible with the intent thereof, shall be deemed a reference to the corresponding provision of the 1986 Code.
 
 Subtitle A (not including chapter 2 and section 931) and chapters 24 and 25 of subtitle C, referred to in subsec. (d)(1), and subtitle F and chapter 75, referred to in subsecs. (d)(1) and (f), mean subtitle A (§ 1 et seq.), chapter 2 (§ 1401 et seq.) of subtitle A, chapters 24 (§ 3401 et seq.) and 25 (§ 3501 et seq.) of subtitle C, subtitle F (§ 6001 et seq.) and chapter 75 (§ 7201 et seq.) of subtitle F, respectively, of Title 26.
 
@@ -505,7 +505,7 @@ Section was not enacted as part of the Organic Act of Guam which comprises this 
 <a id="section-1421q"></a>
 ## § 1421q. Applicability of Federal laws
 
-The laws of the United States which are made applicable to the Northern Mariana Islands by the provisions of section 502(a)(1) of H.J. Res. 549,11 See References in Text note below. as approved by the House of Representatives and the Senate, except for section 228 of title II [[42 U.S.C. 428](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section428&num=0&edition=prelim)] and title XVI of the Social Security Act [[42 U.S.C. 1381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1381&num=0&edition=prelim) et seq.] as it applies to the several States and the Micronesia Claims Act [50 U.S.C. App. 2018 et seq.] as it applies to the Trust Territory of the Pacific Islands, shall be made applicable to Guam on the same terms and conditions as such laws are applied to the Northern Mariana Islands.
+The laws of the United States which are made applicable to the Northern Mariana Islands by the provisions of section 502(a)(1) of H.J. Res. 549,11 See References in Text note below. as approved by the House of Representatives and the Senate, except for section 228 of title II [[42 U.S.C. 428](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section428&num=0&edition=prelim)] and title XVI of the Social Security Act [[42 U.S.C. 1381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1381&num=0&edition=prelim) et seq.] as it applies to the several States and the Micronesia Claims Act as it applies to the Trust Territory of the Pacific Islands, shall be made applicable to Guam on the same terms and conditions as such laws are applied to the Northern Mariana Islands.
 
 ### Statutory Notes
 
@@ -514,7 +514,7 @@ Section 502(a)(1) of H.J. Res. 549, referred to in text, probably means section 
 
 The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVI of the Social Security Act is classified generally to subchapter XVI (§ 1381 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-The Micronesia Claims Act, referred to in text, probably means the Micronesian Claims Act of 1971, Pub. L. 92–39, July 1, 1971, 85 Stat. 92, as amended, which was classified generally to section 2018 et seq. of Title 50, Appendix, War and National Defense, and which was omitted from the Code as terminated Aug. 3, 1976.
+The Micronesia Claims Act, referred to in text, probably means the Micronesian Claims Act of 1971, Pub. L. 92–39, July 1, 1971, 85 Stat. 92, which was classified generally to section 2018 et seq. of the former Appendix to Title 50, War and National Defense, and which was omitted from the Code as terminated Aug. 3, 1976.
 
 #### Codification
 Section was not enacted as part of the Organic Act of Guam which comprises this chapter.
@@ -535,7 +535,7 @@ The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Poli
 
 The joint resolution approved on March 24, 1976, referred to in text, is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, which is classified generally to subchapter I (§ 1801 et seq.) of chapter 17 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Micronesian Claims Act of 1971, referred to in text, is Pub. L. 92–39, July 1, 1971, 85 Stat. 92, which was classified generally to section 2018 et seq. of Title 50, Appendix, War and National Defense, and which was omitted from the Code as terminated Aug. 3, 1976.
+The Micronesian Claims Act of 1971, referred to in text, is Pub. L. 92–39, July 1, 1971, 85 Stat. 92, which was classified generally to section 2018 et seq. of the former Appendix to Title 50, War and National Defense, and which was omitted from the Code as terminated Aug. 3, 1976.
 
 #### Codification
 Section is also classified to [section 1574–1 of this title](./chapter-012-virgin-islands-1954.md#section-1574-1).

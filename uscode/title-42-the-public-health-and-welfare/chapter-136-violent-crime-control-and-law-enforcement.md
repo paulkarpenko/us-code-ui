@@ -2,7 +2,7 @@
 title: 42
 chapter: '136'
 heading: VIOLENT CRIME CONTROL AND LAW ENFORCEMENT
-section_count: 233
+section_count: 235
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -25,6 +25,9 @@ Unless otherwise provided, for purposes of this part—
 
 #### Prior Provisions
 A prior section 13701, Pub. L. 103–322, title II, § 20101, Sept. 13, 1994, 108 Stat. 1815, related to grants for correctional facilities prior to the general amendment of this part by Pub. L. 104–134.
+
+#### Short Title of 2016 Amendment
+Pub. L. 114–324, § 1, Dec. 16, 2016, 130 Stat. 1948, provided that: “This Act [enacting sections 3793c and 14136f of this title, amending sections 3752, 3793, 3797k to 3797m, 3797o, 10603, 14043e–11, 14136 to 14136b, 14136d, 14136e, 14163e, 15605, and 15607 of this title and sections 3583, 3600, 3600A, 3612, and 3613 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under sections 3711 and 3752 of this title, amending provisions set out as a note under [section 14136 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14136), and amending Rule 28 of the Federal Rules of Criminal Procedure, set out in the Appendix to Title 18] may be cited as the ‘Justice for All Reauthorization Act of 2016’.”
 
 #### Short Title of 2015 Amendment
 Pub. L. 114–22, title IV, § 401, May 29, 2015, 129 Stat. 256, provided that: “This title [enacting part N–2 (§ 14043h et seq.) of subchapter III of this chapter] may be cited as the ‘Rape Survivor Child Custody Act’.”
@@ -140,19 +143,19 @@ For construction of amendments by Pub. L. 110–199 and requirements for grants 
 ## § 13703. Violent offender incarceration grants
 **(a) Eligibility for minimum grant** To be eligible to receive a minimum grant under this section, a State shall submit an application to the Attorney General that provides assurances that the State has implemented, or will implement, correctional policies and programs, including truth-in-sentencing laws that ensure that violent offenders serve a substantial portion of the sentences imposed, that are designed to provide sufficiently severe punishment for violent offenders, including violent juvenile offenders, and that the prison time served is appropriately related to the determination that the inmate is a violent offender and for a period of time deemed necessary to protect the public.
 
-**(b) Additional amount for increased percentage of persons sentenced and time served** A State that received a grant under subsection (a) of this section is eligible to receive additional grant amounts if such State demonstrates that the State has, since 1993—
+**(b) Additional amount for increased percentage of persons sentenced and time served** A State that received a grant under subsection (a) is eligible to receive additional grant amounts if such State demonstrates that the State has, since 1993—
 
 (1) increased the percentage of persons arrested for a part 1 violent crime sentenced to prison; or
 
 (2) increased the average prison time actually served or the average percent of sentence served by persons convicted of a part 1 violent crime.
-Receipt of grant amounts under this subsection does not preclude eligibility for a grant under subsection (c) of this section.
+Receipt of grant amounts under this subsection does not preclude eligibility for a grant under subsection (c).
 
-**(c) Additional amount for increased rate of incarceration and percentage of sentence served** A State that received a grant under subsection (a) of this section is eligible to receive additional grant amounts if such State demonstrates that the State has—
+**(c) Additional amount for increased rate of incarceration and percentage of sentence served** A State that received a grant under subsection (a) is eligible to receive additional grant amounts if such State demonstrates that the State has—
 
 (1) since 1993, increased the percentage of persons arrested for a part 1 violent crime sentenced to prison, and has increased the average percent of sentence served by persons convicted of a part 1 violent crime; or
 
 (2) has increased by 10 percent or more over the most recent 3-year period the number of new court commitments to prison of persons convicted of part 1 violent crimes.
-Receipt of grant amounts under this subsection does not preclude eligibility for a grant under subsection (b) of this section.
+Receipt of grant amounts under this subsection does not preclude eligibility for a grant under subsection (b).
 
 ### Statutory Notes
 
@@ -191,7 +194,7 @@ Pub. L. 104–208, div. A, title I, § 101(a) [title I], Sept. 30, 1996, 110 Sta
 
   (C) a brief description of the circumstances surrounding the death.
 
-**(b) Exception** Notwithstanding subsection (a) of this section, a State may provide that the Governor of the State may allow for the earlier release of—
+**(b) Exception** Notwithstanding subsection (a), a State may provide that the Governor of the State may allow for the earlier release of—
 
 (1) a geriatric prisoner; or
 
@@ -441,9 +444,9 @@ Beginning on October 1, 1996, and each subsequent July 1 thereafter, the Attorne
 
 **(c) Penalty**
 
-(1) **Single State** — Pursuant to regulations promulgated by the Attorney General hereunder, in any case in which a criminal-records-reporting State convicts an individual of murder, rape, or a dangerous sexual offense, who has a prior conviction for any one of those offenses in a State described in paragraph (3), it may, under subsection (d) of this section, apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation.
+(1) **Single State** — Pursuant to regulations promulgated by the Attorney General hereunder, in any case in which a criminal-records-reporting State convicts an individual of murder, rape, or a dangerous sexual offense, who has a prior conviction for any one of those offenses in a State described in paragraph (3), it may, under subsection (d), apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation.
 
-(2) **Multiple States** — Pursuant to regulations promulgated by the Attorney General hereunder, in any case in which a criminal-records-reporting State convicts an individual of murder, rape, or a dangerous sexual offense, who has a prior conviction for any one or more of those offenses in more than one other State described in paragraph (3), it may, under subsection (d) of this section, apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation.
+(2) **Multiple States** — Pursuant to regulations promulgated by the Attorney General hereunder, in any case in which a criminal-records-reporting State convicts an individual of murder, rape, or a dangerous sexual offense, who has a prior conviction for any one or more of those offenses in more than one other State described in paragraph (3), it may, under subsection (d), apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation.
 
 (3) **State described** — Pursuant to regulations promulgated by the Attorney General hereunder, a State is described in this paragraph unless—
 
@@ -452,17 +455,17 @@ Beginning on October 1, 1996, and each subsequent July 1 thereafter, the Attorne
   (B) with respect to the individual described in paragraph (1) or (2), as applicable, the individual had served not less than 85 percent of the term of imprisonment to which that individual was sentenced for the prior offense.
   For purposes of subparagraph (B), in a State that has indeterminate sentencing, the term of imprisonment to which that individual was sentenced for the prior offense shall be based on the lower of the range of sentences.
 
-**(d) State applications** In order to receive an amount under subsection (c) of this section, the chief executive of a State shall submit to the Attorney General an application, in such form and containing such information as the Attorney General may reasonably require, which shall include a certification that the State has convicted an individual of murder, rape, or a dangerous sexual offense, who has a prior conviction for one of those offenses in another State.
+**(d) State applications** In order to receive an amount under subsection (c), the chief executive of a State shall submit to the Attorney General an application, in such form and containing such information as the Attorney General may reasonably require, which shall include a certification that the State has convicted an individual of murder, rape, or a dangerous sexual offense, who has a prior conviction for one of those offenses in another State.
 
 **(e) Source of funds**
 
-(1) **In general** — Pursuant to regulations promulgated by the Attorney General hereunder, any amount under subsection (c) of this section shall be derived by reducing the amount of Federal law enforcement assistance funds received by the State pursuant to [section 3755 of this title](./chapter-046-justice-system-improvement.md#section-3755) that convicted such individual of the prior offense before the distribution of the funds to the State. No amount described under this section shall be subject to section 3335(b) or 6503(d) of title 31 11 So in original. Probably should be followed by a period.
+(1) **In general** — Pursuant to regulations promulgated by the Attorney General hereunder, any amount under subsection (c) shall be derived by reducing the amount of Federal law enforcement assistance funds received by the State pursuant to [section 3755 of this title](./chapter-046-justice-system-improvement.md#section-3755) that convicted such individual of the prior offense before the distribution of the funds to the State. No amount described under this section shall be subject to section 3335(b) or 6503(d) of title 31 11 So in original. Probably should be followed by a period.
 
 (2) **Payment schedule** — The Attorney General, in consultation with the chief executive of the State that convicted such individual of the prior offense, shall establish a payment schedule.
 
 **(f) Construction** Nothing in this section may be construed to diminish or otherwise affect any court ordered restitution.
 
-**(g) Exception** Pursuant to regulations promulgated by the Attorney General hereunder, this section does not apply if the individual convicted of murder, rape, or a dangerous sexual offense has been released from prison upon the reversal of a conviction for an offense described in subsection (c) of this section and subsequently been convicted for an offense described in subsection (c) of this section.
+**(g) Exception** Pursuant to regulations promulgated by the Attorney General hereunder, this section does not apply if the individual convicted of murder, rape, or a dangerous sexual offense has been released from prison upon the reversal of a conviction for an offense described in subsection (c) and subsequently been convicted for an offense described in subsection (c).
 
 **(h) Report** The Attorney General shall—
 
@@ -504,9 +507,9 @@ Section was enacted as Aimee’s Law and also as part of the Victims of Traffick
 #### Amendments
 2006—Subsec. (b). Pub. L. 109–162, § 1170(1), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, in this section” for “In this section” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 109–162, § 1170(1), (2), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, in any case” for “In any case”, “a criminal-records-reporting State” for “a State” the first place appearing, and “(3), it may, under subsection (d) of this section, apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation” for “(3), the Attorney General shall transfer an amount equal to the costs of incarceration, prosecution, and apprehension of that individual, from Federal law enforcement assistance funds that have been allocated to but not distributed to the State that convicted the individual of the prior offense, to the State account that collects Federal law enforcement assistance funds of the State that convicted that individual of the subsequent offense”.
+Subsec. (c)(1). Pub. L. 109–162, § 1170(1), (2), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, in any case” for “In any case”, “a criminal-records-reporting State” for “a State” the first place appearing, and “(3), it may, under subsection (d), apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation” for “(3), the Attorney General shall transfer an amount equal to the costs of incarceration, prosecution, and apprehension of that individual, from Federal law enforcement assistance funds that have been allocated to but not distributed to the State that convicted the individual of the prior offense, to the State account that collects Federal law enforcement assistance funds of the State that convicted that individual of the subsequent offense”.
 
-Subsec. (c)(2). Pub. L. 109–162, § 1170(1), (2), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, in any case” for “In any case”, “a criminal-records-reporting State” for “a State”, and “(3), it may, under subsection (d) of this section, apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation” for “(3), the Attorney General shall transfer an amount equal to the costs of incarceration, prosecution, and apprehension of that individual, from Federal law enforcement assistance funds that have been allocated to but not distributed to each State that convicted such individual of the prior offense, to the State account that collects Federal law enforcement assistance funds of the State that convicted that individual of the subsequent offense”.
+Subsec. (c)(2). Pub. L. 109–162, § 1170(1), (2), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, in any case” for “In any case”, “a criminal-records-reporting State” for “a State”, and “(3), it may, under subsection (d), apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation” for “(3), the Attorney General shall transfer an amount equal to the costs of incarceration, prosecution, and apprehension of that individual, from Federal law enforcement assistance funds that have been allocated to but not distributed to each State that convicted such individual of the prior offense, to the State account that collects Federal law enforcement assistance funds of the State that convicted that individual of the subsequent offense”.
 
 Subsec. (c)(3). Pub. L. 109–162, § 1170(1), (3)(A), substituted “Pursuant to regulations promulgated by the Attorney General hereunder, a State” for “A State” and “unless” for “if” in introductory provisions.
 
@@ -548,7 +551,7 @@ Subsec. (i)(2). Pub. L. 109–162, § 1170(7), added par. (2) and struck out hea
 (2) evaluate and recommend new construction technologies, techniques, and materials,
 to reduce prison construction costs at the Federal, State, and local levels and make such construction more efficient.
 
-**(d) Dissemination** The task force shall disseminate information described in subsection (c) of this section to State and local officials involved in prison construction, through written reports and meetings.
+**(d) Dissemination** The task force shall disseminate information described in subsection (c) to State and local officials involved in prison construction, through written reports and meetings.
 
 **(e) Promotion and evaluation** The task force shall—
 
@@ -579,7 +582,7 @@ This Act, referred to in subsec. (a), is Pub. L. 103–322, Sept. 13, 1994, 108 
 ## § 13723. Congressional approval of any expansion at Lorton and congressional hearings on future needs
 **(a) Congressional approval** Notwithstanding any other provision of law, the existing prison facilities and complex at the District of Columbia Corrections Facility at Lorton, Virginia, shall not be expanded unless such expansion has been approved by the Congress under the authority provided to Congress in section 446 of the District of Columbia Home Rule Act.
 
-**(b) Senate hearings** The Senate directs the Subcommittee on the District of Columbia of the Committee on Appropriations of the Senate to conduct hearings regarding expansion of the prison complex in Lorton, Virginia, prior to any approval granted pursuant to subsection (a) of this section. The subcommittee shall permit interested parties, including appropriate officials from the County of Fairfax, Virginia, to testify at such hearings.
+**(b) Senate hearings** The Senate directs the Subcommittee on the District of Columbia of the Committee on Appropriations of the Senate to conduct hearings regarding expansion of the prison complex in Lorton, Virginia, prior to any approval granted pursuant to subsection (a). The subcommittee shall permit interested parties, including appropriate officials from the County of Fairfax, Virginia, to testify at such hearings.
 
 **(c) “Expanded” and “expansion” defined** For purposes of this section, the terms “expanded” and “expansion” mean any alteration of the physical structure of the prison complex that is made to increase the number of inmates incarcerated at the prison.
 
@@ -601,7 +604,7 @@ Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provid
 
 **(b) Suitability for conversion** In evaluating the suitability of a military installation for conversion into a Federal prison facility, the Secretary of Defense and the Attorney General shall consider the estimated cost to convert the installation into a prison facility and such other factors as the Secretary and the Attorney General consider to be appropriate.
 
-**(c) Time for study** The study required by subsection (a) of this section shall be completed not later than the date that is 180 days after September 13, 1994.
+**(c) Time for study** The study required by subsection (a) shall be completed not later than the date that is 180 days after September 13, 1994.
 
 **(d) Construction of Federal prisons**
 
@@ -759,7 +762,7 @@ This section was enacted as part of the Interstate Transportation of Dangerous C
 
 (10) Minimum standards for the safety of violent prisoners in accordance with applicable Federal and State law.
 
-**(c) Federal standards** Except for the requirements of subsection (b)(6) of this section, the regulations promulgated under sections 13726 to 13726c of this title shall not provide stricter standards with respect to private prisoner transport companies than are applicable, without exception, to the United States Marshals Service, Federal Bureau of Prisons, and the Immigration and Naturalization Service when transporting violent prisoners under comparable circumstances.
+**(c) Federal standards** Except for the requirements of subsection (b)(6), the regulations promulgated under sections 13726 to 13726c of this title shall not provide stricter standards with respect to private prisoner transport companies than are applicable, without exception, to the United States Marshals Service, Federal Bureau of Prisons, and the Immigration and Naturalization Service when transporting violent prisoners under comparable circumstances.
 
 ### Statutory Notes
 
@@ -880,7 +883,7 @@ This section was enacted as part of the Death in Custody Reporting Act of 2013, 
 
 **(b) Program coordination** For any program authorized under the Violent Crime Control and Law Enforcement Act of 1994, the Ounce of Prevention Council Chair, only at the request of the Council member with jurisdiction over that program, may coordinate that program, in whole or in part, through the Council.
 
-**(c) Administrative responsibilities and powers** In addition to the program coordination provided in subsection (b) of this section, the Council shall be responsible for such functions as coordinated planning, development of a comprehensive crime prevention program catalogue, provision of assistance to communities and community-based organizations seeking information regarding crime prevention programs and integrated program service delivery, and development of strategies for program integration and grant simplification. The Council shall have the authority to audit the expenditure of funds received by grantees under programs administered by or coordinated through the Council. In consultation with the Council, the Chair may issue regulations and guidelines to carry out this part and programs administered by or coordinated through the Council.
+**(c) Administrative responsibilities and powers** In addition to the program coordination provided in subsection (b), the Council shall be responsible for such functions as coordinated planning, development of a comprehensive crime prevention program catalogue, provision of assistance to communities and community-based organizations seeking information regarding crime prevention programs and integrated program service delivery, and development of strategies for program integration and grant simplification. The Council shall have the authority to audit the expenditure of funds received by grantees under programs administered by or coordinated through the Council. In consultation with the Council, the Chair may issue regulations and guidelines to carry out this part and programs administered by or coordinated through the Council.
 
 ### Statutory Notes
 
@@ -908,7 +911,7 @@ The Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec
 
 **(d) Federal share**
 
-(1) **In general** — The Federal share of a grant made under this part 11 See References in Text note below. may not exceed 75 percent of the total costs of the projects described in the applications submitted under subsection (b) of this section for the fiscal year for which the projects receive assistance under this subchapter.
+(1) **In general** — The Federal share of a grant made under this part 11 See References in Text note below. may not exceed 75 percent of the total costs of the projects described in the applications submitted under subsection (b) for the fiscal year for which the projects receive assistance under this subchapter.
 
 (2) **Waiver** — The Council may waive the 25 percent matching requirement under paragraph (1) upon making a determination that a waiver is equitable in view of the financial circumstances affecting the ability of the applicant to meet that requirement.
 
@@ -1007,7 +1010,7 @@ Pub. L. 104–294, title IV, § 401, Oct. 11, 1996, 110 Stat. 3496, as amended b
 
 (2) **Consultation with the Ounce of Prevention Council** — The Attorney General may consult with the Ounce of Prevention Council in awarding grants under paragraph (1).
 
-**(b) Priority** In awarding grants under subsection (a) of this section, the Attorney General shall give priority to proposals that—
+**(b) Priority** In awarding grants under subsection (a), the Attorney General shall give priority to proposals that—
 
 (1) are innovative in approach to the prevention of crime in a specific area;
 
@@ -1034,7 +1037,7 @@ This subchapter, referred to in subsec. (b)(3), was in the original “this titl
 ## § 13773. Program requirements
 **(a) Description** An applicant shall include a description of the distinctive factors that contribute to chronic violent crime within the area proposed to be served by the grant. Such factors may include lack of alternative activities and programs for youth, deterioration or lack of public facilities, inadequate public services such as public transportation, street lighting, community-based substance abuse treatment facilities, or employment services offices, and inadequate police or public safety services, equipment, or facilities.
 
-**(b) Comprehensive plan** An applicant shall include a comprehensive, community-based plan to attack intensively the principal factors identified in subsection (a) of this section. Such plans shall describe the specific purposes for which funds are proposed to be used and how each purpose will address specific factors. The plan also shall specify how local nonprofit organizations, government agencies, private businesses, citizens groups, volunteer organizations, and interested citizens will cooperate in carrying out the purposes of the grant.
+**(b) Comprehensive plan** An applicant shall include a comprehensive, community-based plan to attack intensively the principal factors identified in subsection (a). Such plans shall describe the specific purposes for which funds are proposed to be used and how each purpose will address specific factors. The plan also shall specify how local nonprofit organizations, government agencies, private businesses, citizens groups, volunteer organizations, and interested citizens will cooperate in carrying out the purposes of the grant.
 
 **(c) Evaluation** An applicant shall include an evaluation plan by which the success of the plan will be measured, including the articulation of specific, objective indicia of performance, how the indicia will be evaluated, and a projected timetable for carrying out the evaluation.
 
@@ -1102,7 +1105,7 @@ There are authorized to be appropriated to carry out this part—
   (vii) Other public agencies.
 
   (viii) Other interested parties.
-“eligible community” means an area identified pursuant to subsection (e) of this section.
+“eligible community” means an area identified pursuant to subsection (e).
 “Indian tribe” means a tribe, band, pueblo, nation, or other organized group or community of Indians, including an Alaska Native village (as defined in or established under the Alaska Native Claims Settlement Act ([43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 “poverty line” means the income official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with [section 9902(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9902/2&num=0&edition=prelim) 11 So in original. Probably should be followed by a closing parenthesis. applicable to a family of the size involved.
 “public school” means a public elementary school, as defined in section 1001(i) 22 See References in Text note below. of title 20, and a public secondary school, as defined in section 1001(d) 2 of title 20.
@@ -1179,7 +1182,7 @@ There are authorized to be appropriated to carry out this part—
 
       (I) where appropriate, make a public school the focal point of the eligible community; or
 
-      (II) make a local facility described in subsection (d)(1)(B) of this section such a focal point; and
+      (II) make a local facility described in subsection (d)(1)(B) such a focal point; and
 
     (ii) may include reducing the percentage of children in the eligible community that enter the juvenile justice system, increasing the graduation rates, school attendance, and academic success of children in the eligible community, and improving the skills of program participants;
 
@@ -1199,11 +1202,11 @@ There are authorized to be appropriated to carry out this part—
 
     (vii) other organizations that the community-based organization determines to be appropriate;
 
-  (F) contain an assurance that the community-based organization will use grant funds received under this section to provide children in the eligible community with activities and services that shall include supervised sports programs, and extracurricular and academic programs, in accordance with subparagraphs (A) and (B) of subsection (d)(2) of this section;
+  (F) contain an assurance that the community-based organization will use grant funds received under this section to provide children in the eligible community with activities and services that shall include supervised sports programs, and extracurricular and academic programs, in accordance with subparagraphs (A) and (B) of subsection (d)(2);
 
   (G) contain a list of the activities and services that will be offered through the program for which the grant is sought and sponsored by private nonprofit organizations, individuals, and groups serving the eligible community, including—
 
-    (i) extracurricular and academic programs, such as programs described in subsection (d)(2)(B) of this section; and
+    (i) extracurricular and academic programs, such as programs described in subsection (d)(2)(B); and
 
     (ii) activities that address specific needs in the community;
 
@@ -1219,7 +1222,7 @@ There are authorized to be appropriated to carry out this part—
 
   (M) contain an assurance that the program will maintain an average attendance rate of not less than 75 percent of the participants enrolled in the program, or will enroll additional participants in the program;
 
-  (N) contain an assurance that the community-based organization will comply with any evaluation under subsection (m) 44 So in original. Probably should be subsection “(k)”. of this section, any research effort authorized under Federal law, and any investigation by the Secretary;
+  (N) contain an assurance that the community-based organization will comply with any evaluation under subsection (m),44 So in original. Probably should be subsection “(k)”. any research effort authorized under Federal law, and any investigation by the Secretary;
 
   (O) contain an assurance that the community-based organization shall prepare and submit to the Secretary an annual report regarding any program conducted under this section;
 
@@ -1255,7 +1258,7 @@ There are authorized to be appropriated to carry out this part—
 
   (F) A representative of the United States Olympic Committee, at the option of the Secretary.
 
-(3) **Functions** — A peer review panel shall conduct the initial review of all grant applications received by the Secretary under subsection (f) of this section, make recommendations to the Secretary regarding—
+(3) **Functions** — A peer review panel shall conduct the initial review of all grant applications received by the Secretary under subsection (f), make recommendations to the Secretary regarding—
 
   (A) grant funding under this section; and
 
@@ -1265,7 +1268,7 @@ There are authorized to be appropriated to carry out this part—
 
 **(j) Payments; Federal share; non-Federal share**
 
-(1) **Payments** — The Secretary shall, subject to the availability of appropriations, pay to each community-based organization having an application approved under subsection (f) of this section the Federal share of the costs of developing and carrying out programs described in subsection (c) of this section.
+(1) **Payments** — The Secretary shall, subject to the availability of appropriations, pay to each community-based organization having an application approved under subsection (f) the Federal share of the costs of developing and carrying out programs described in subsection (c).
 
 (2) **Federal share** — The Federal share of such costs shall be no more than—
 
@@ -1277,7 +1280,7 @@ There are authorized to be appropriated to carry out this part—
 
 (3) **Non-Federal share**
 
-  (A) *In general* — The non-Federal share of such costs may be in cash or in kind, fairly evaluated, including plant, equipment, and services (including the services described in subsection (f)(2)(P) of this section), and funds appropriated by the Congress for the activity of any agency of an Indian tribal government or the Bureau of Indian Affairs on any Indian lands may be used to provide the non-Federal share of the costs of programs or projects funded under this part.
+  (A) *In general* — The non-Federal share of such costs may be in cash or in kind, fairly evaluated, including plant, equipment, and services (including the services described in subsection (f)(2)(P)), and funds appropriated by the Congress for the activity of any agency of an Indian tribal government or the Bureau of Indian Affairs on any Indian lands may be used to provide the non-Federal share of the costs of programs or projects funded under this part.
 
   (B) *Special rule* — At least 15 percent of the non-Federal share of such costs shall be provided from private or nonprofit sources.
 
@@ -1331,7 +1334,7 @@ Section, Pub. L. 103–322, title III, § 30402, Sept. 13, 1994, 108 Stat. 1852,
 
 (6) $201,500,000 for fiscal year 2000.
 
-**(b) Programs** Of the amounts appropriated under subsection (a) of this section for any fiscal year—
+**(b) Programs** Of the amounts appropriated under subsection (a) for any fiscal year—
 
 (1) 70 percent shall be made available to carry out [section 13791 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-13791); and
 
@@ -1361,7 +1364,7 @@ Section 13802, Pub. L. 103–322, title III, § 30702, Sept. 13, 1994, 108 Stat.
 
 (2) **Consultation with the Ounce of Prevention Council** — The Attorney General may consult with the Ounce of Prevention Council in making grants under paragraph (1).
 
-**(b) Qualified community organizations** An organization is a qualified community organization which is eligible to receive a grant under subsection (a) of this section if the organization—
+**(b) Qualified community organizations** An organization is a qualified community organization which is eligible to receive a grant under subsection (a) if the organization—
 
 (1) is a nonprofit organization; and
 
@@ -1377,7 +1380,7 @@ Section 13802, Pub. L. 103–322, title III, § 30702, Sept. 13, 1994, 108 Stat.
 
   (E) developing other programs that contribute to the community.
 
-**(c) Qualified programs** A program is a qualified program for which a grant may be made under subsection (a) of this section if the program is designed to recruit and train individuals from underrepresented neighborhoods and localities and if—
+**(c) Qualified programs** A program is a qualified program for which a grant may be made under subsection (a) if the program is designed to recruit and train individuals from underrepresented neighborhoods and localities and if—
 
 (1) the overall design of the program is to recruit and retain applicants to a police department;
 
@@ -1387,7 +1390,7 @@ Section 13802, Pub. L. 103–322, title III, § 30702, Sept. 13, 1994, 108 Stat.
 
 (4) the program provides retention services to assist in retaining individuals to stay in the application process of a police department.
 
-**(d) Applications** To qualify for a grant under subsection (a) of this section, a qualified organization shall submit an application to the Attorney General in such form as the Attorney General may prescribe. Such application shall—
+**(d) Applications** To qualify for a grant under subsection (a), a qualified organization shall submit an application to the Attorney General in such form as the Attorney General may prescribe. Such application shall—
 
 (1) include documentation from the applicant showing—
 
@@ -1399,15 +1402,15 @@ Section 13802, Pub. L. 103–322, title III, § 30702, Sept. 13, 1994, 108 Stat.
 
   (D) demographic characteristics of the population to be served, including age, disability, race, ethnicity, and languages used; and
 
-(2) contain assurances satisfactory to the Attorney General that the program for which a grant is made will meet the applicable requirements of the program guidelines prescribed by the Attorney General under subsection (i) of this section.
+(2) contain assurances satisfactory to the Attorney General that the program for which a grant is made will meet the applicable requirements of the program guidelines prescribed by the Attorney General under subsection (i).
 
-**(e) Action by Attorney General** Not later than 60 days after the date that an application for a grant under subsection (a) of this section is received, the Attorney General shall consult with the police department which will be involved with the applicant and shall—
+**(e) Action by Attorney General** Not later than 60 days after the date that an application for a grant under subsection (a) is received, the Attorney General shall consult with the police department which will be involved with the applicant and shall—
 
 (1) approve the application and disburse the grant funds applied for; or
 
 (2) disapprove the application and inform the applicant that the application is not approved and provide the applicant with the reasons for the disapproval.
 
-**(f) Grant disbursement** The Attorney General shall disburse funds under a grant under subsection (a) of this section in accordance with regulations of the Attorney General which shall ensure—
+**(f) Grant disbursement** The Attorney General shall disburse funds under a grant under subsection (a) in accordance with regulations of the Attorney General which shall ensure—
 
 (1) priority is given to applications for areas and organizations with the greatest showing of need;
 
@@ -1415,17 +1418,17 @@ Section 13802, Pub. L. 103–322, title III, § 30702, Sept. 13, 1994, 108 Stat.
 
 (3) the needs of underserved populations are recognized and addressed.
 
-**(g) Grant period** A grant under subsection (a) of this section shall be made for a period not longer than 3 years.
+**(g) Grant period** A grant under subsection (a) shall be made for a period not longer than 3 years.
 
 **(h) Grantee reporting**
 
-(1) For each year of a grant period for a grant under subsection (a) of this section, the recipient of the grant shall file a performance report with the Attorney General explaining the activities carried out with the funds received and assessing the effectiveness of such activities in meeting the purpose of the recipient’s qualified program.
+(1) For each year of a grant period for a grant under subsection (a), the recipient of the grant shall file a performance report with the Attorney General explaining the activities carried out with the funds received and assessing the effectiveness of such activities in meeting the purpose of the recipient’s qualified program.
 
 (2) If there was more than one recipient of a grant, each recipient shall file such report.
 
 (3) The Attorney General shall suspend the funding of a grant, pending compliance, if the recipient of the grant does not file the report required by this subsection or uses the grant for a purpose not authorized by this section.
 
-**(i) Guidelines** The Attorney General shall, by regulation, prescribe guidelines on content and results for programs receiving a grant under subsection (a) of this section. Such guidelines shall be designed to establish programs which will be effective in training individuals to enter instructional programs for police departments and shall include requirements for—
+**(i) Guidelines** The Attorney General shall, by regulation, prescribe guidelines on content and results for programs receiving a grant under subsection (a). Such guidelines shall be designed to establish programs which will be effective in training individuals to enter instructional programs for police departments and shall include requirements for—
 
 (1) individuals providing recruiting services;
 
@@ -1537,7 +1540,7 @@ The Family Support Act of 1988, referred to in subsec. (a)(4)(C), is Pub. L. 100
 Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(44)], substituted “authorized under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “authorized under the Job Training Partnership Act ([29 U.S.C. 1501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1501&num=0&edition=prelim) et seq.)”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 1998 Amendment
 Amendment by section 101(f) [title VIII, § 405(d)(44)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(35)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under [section 3502 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3502&num=0&edition=prelim), Government Organization and Employees.
@@ -1545,7 +1548,7 @@ Amendment by section 101(f) [title VIII, § 405(d)(44)] of Pub. L. 105–277 eff
 
 <a id="section-13824"></a>
 ## § 13824. Availability of lines of credit and use
-**(a) Approval of application** The Secretary shall provide a community development corporation that has an application approved under [section 13823 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-13823) with a line of credit in an amount determined appropriate by the Secretary, subject to the limitations contained in subsection (b) of this section.
+**(a) Approval of application** The Secretary shall provide a community development corporation that has an application approved under [section 13823 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-13823) with a line of credit in an amount determined appropriate by the Secretary, subject to the limitations contained in subsection (b).
 
 **(b) Limitations on availability of amounts**
 
@@ -1575,7 +1578,7 @@ Amendment by section 101(f) [title VIII, § 405(d)(44)] of Pub. L. 105–277 eff
 ## § 13826. Program priority for special emphasis programs
 **(a) In general** The Secretary shall give priority in providing lines of credit under this subpart to community development corporations that propose to undertake economic development activities in distressed communities that target women, Native Americans, at risk youth, farmworkers, population-losing communities, very low-income communities, single mothers, veterans, and refugees; or that expand employee ownership of private enterprises and small businesses, and to programs providing loans of not more than $35,000 to very small business enterprises.
 
-**(b) Reservation of funds** Not less than 5 percent of the amounts made available under section 13822(a)(2)(A) 11 So in original. Probably should be section “13852(b)(1)”. of this title may be reserved to carry out the activities described in subsection (a) of this section.
+**(b) Reservation of funds** Not less than 5 percent of the amounts made available under section 13822(a)(2)(A) 11 So in original. Probably should be section “13852(b)(1)”. of this title may be reserved to carry out the activities described in subsection (a).
 
 
 <a id="section-13841"></a>
@@ -1618,7 +1621,7 @@ Subpart 1, referred to in subsec. (c)(2)(A), was in the original “subtitle A�
 ## § 13842. Emerging community development corporation revolving loan funds
 **(a) Authority** The Secretary may award grants to emerging community development corporations to enable such corporations to establish, maintain or expand revolving loan funds, to make or guarantee loans, or to make capital investments in new or expanding local businesses.
 
-**(b) Eligibility** To be eligible to receive a grant under subsection (a) of this section, an entity shall—
+**(b) Eligibility** To be eligible to receive a grant under subsection (a), an entity shall—
 
 (1) be a community development corporation;
 
@@ -1675,13 +1678,13 @@ As used in this part:
 
 (4) $76,500,000 for fiscal year 1999.
 
-**(b) Earmarks** Of the aggregate amount appropriated under subsection (a) of this section for each fiscal year—
+**(b) Earmarks** Of the aggregate amount appropriated under subsection (a) for each fiscal year—
 
 (1) 60 percent shall be available to carry out subpart 1; and
 
 (2) 40 percent shall be available to carry out subpart 2.
 
-**(c) Amounts** Amounts appropriated under subsection (a) of this section shall remain available for expenditure without fiscal year limitation.
+**(c) Amounts** Amounts appropriated under subsection (a) shall remain available for expenditure without fiscal year limitation.
 
 
 <a id="section-13853"></a>
@@ -1694,7 +1697,7 @@ None of the funds authorized under this part shall be used to finance the constr
 ## § 13861. Grant authorization
 **(a) In general** The Attorney General may make grants to State, Indian tribal, or local prosecutors for the purpose of supporting the creation or expansion of community-based justice programs.
 
-**(b) Consultation** The Attorney General may consult with the Ounce of Prevention Council in making grants under subsection (a) of this section.
+**(b) Consultation** The Attorney General may consult with the Ounce of Prevention Council in making grants under subsection (a).
 
 
 <a id="section-13862"></a>
@@ -1807,7 +1810,7 @@ The Alaska Native Claims Settlement Act, referred to in text, is Pub. L. 92–20
 ## § 13881. Report
 **(a) In general** A State that receives a grant under this subpart 11 See References in Text note below. shall, not later than 90 days after the 1-year period in which the grant is required to be expended, submit a report to the Attorney General regarding the family unity demonstration project for which the grant was expended.
 
-**(b) Contents** A report under subsection (a) of this section shall—
+**(b) Contents** A report under subsection (a) shall—
 
 (1) state the number of prisoners who submitted applications to participate in the project and the number of prisoners who were placed in community correctional facilities;
 
@@ -1882,7 +1885,7 @@ In this part—
 
 (5) $5,400,000 for fiscal year 2000.
 
-**(b) Availability of appropriations** Of the amount appropriated under subsection (a) of this section for any fiscal year—
+**(b) Availability of appropriations** Of the amount appropriated under subsection (a) for any fiscal year—
 
 (1) 90 percent shall be available to carry out subpart 1; and
 
@@ -1893,7 +1896,7 @@ In this part—
 ## § 13901. Authority to make grants
 **(a) General authority** The Attorney General may make grants, on a competitive basis, to States to carry out in accordance with this part family unity demonstration projects that enable eligible offenders to live in community correctional facilities with their children.
 
-**(b) Preferences** For the purpose of making grants under subsection (a) of this section, the Attorney General shall give preference to a State that includes in the application required by [section 13892 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-13892) assurances that if the State receives a grant—
+**(b) Preferences** For the purpose of making grants under subsection (a), the Attorney General shall give preference to a State that includes in the application required by [section 13892 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-13892) assurances that if the State receives a grant—
 
 (1) both the State corrections agency and the State health and human services agency will participate substantially in, and cooperate closely in all aspects of, the development and operation of the family unity demonstration project for which such a grant is requested;
 
@@ -1901,13 +1904,13 @@ In this part—
 
 (3) the State has in effect a policy that provides for the placement of all prisoners, whenever possible, in correctional facilities for which they qualify that are located closest to their respective family homes;
 
-(4) unless the Attorney General determines that a longer timeline is appropriate in a particular case, the State will implement the project not later than 180 days after receiving a grant under subsection (a) of this section and will expend all of the grant during a 1-year period;
+(4) unless the Attorney General determines that a longer timeline is appropriate in a particular case, the State will implement the project not later than 180 days after receiving a grant under subsection (a) and will expend all of the grant during a 1-year period;
 
 (5) the State has the capacity to continue implementing a community correctional facility beyond the funding period to ensure the continuity of the work;
 
 (6) unless the Attorney General determines that a different process for selecting participants in a project is desirable, the State will—
 
-  (A) give written notice to a prisoner, not later than 30 days after the State first receives a grant under subsection (a) of this section or 30 days after the prisoner is sentenced to a term of imprisonment of not more than 7 years (whichever is later), of the proposed or current operation of the project;
+  (A) give written notice to a prisoner, not later than 30 days after the State first receives a grant under subsection (a) or 30 days after the prisoner is sentenced to a term of imprisonment of not more than 7 years (whichever is later), of the proposed or current operation of the project;
 
   (B) accept at any time at which the project is in operation an application by a prisoner to participate in the project if, at the time of application, the remainder of the prisoner’s sentence exceeds 180 days;
 
@@ -1917,7 +1920,7 @@ In this part—
 
 (7) for the purposes of selecting eligible offenders to participate in such project, the State has authorized State courts to sentence an eligible offender directly to a community correctional facility, provided that the court gives assurances that the offender would have otherwise served a term of imprisonment.
 
-**(c) Selection of grantees** The Attorney General shall make grants under subsection (a) of this section on a competitive basis, based on such criteria as the Attorney General shall issue by rule and taking into account the preferences described in subsection (b) of this section.
+**(c) Selection of grantees** The Attorney General shall make grants under subsection (a) on a competitive basis, based on such criteria as the Attorney General shall issue by rule and taking into account the preferences described in subsection (b).
 
 
 <a id="section-13902"></a>
@@ -1930,7 +1933,7 @@ To be eligible to receive a grant under [section 13891 of this title](./chapter-
 ## § 13911. Prevention, diagnosis, and treatment of tuberculosis in correctional institutions
 **(a) Guidelines** The Attorney General, in consultation with the Secretary of Health and Human Services and the Director of the National Institute of Corrections, shall develop and disseminate to appropriate entities, including State, Indian tribal, and local correctional institutions and the Immigration and Naturalization Service, guidelines for the prevention, diagnosis, treatment, and followup care of tuberculosis among inmates of correctional institutions and persons held in holding facilities operated by or under contract with the Immigration and Naturalization Service.
 
-**(b) Compliance** The Attorney General shall ensure that prisons in the Federal prison system and holding facilities operated by or under contract with the Immigration and Naturalization Service comply with the guidelines described in subsection (a) of this section.
+**(b) Compliance** The Attorney General shall ensure that prisons in the Federal prison system and holding facilities operated by or under contract with the Immigration and Naturalization Service comply with the guidelines described in subsection (a).
 
 **(c) Grants**
 
@@ -2004,7 +2007,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 ## § 13925. Consultation
 **(a) In general** The Attorney General shall conduct annual consultations with Indian tribal governments concerning the Federal administration of tribal funds and programs established under this Act, the Violence Against Women Act of 1994 (title IV of Public Law 103–322; 108 Stat. 1902), the Violence Against Women Act of 2000 (division B of Public Law 106–386; 114 Stat. 1491), and the Violence Against Women Reauthorization Act of 2013.
 
-**(b) Recommendations** During consultations under subsection (a) of this section, the Secretary of Health and Human Services, the Secretary of the Interior, and the Attorney General shall solicit recommendations from Indian tribes concerning—
+**(b) Recommendations** During consultations under subsection (a), the Secretary of Health and Human Services, the Secretary of the Interior, and the Attorney General shall solicit recommendations from Indian tribes concerning—
 
 (1) administering tribal funds and programs;
 
@@ -2556,7 +2559,7 @@ Pub. L. 109–162, title III, § 301, Jan. 5, 2006, 119 Stat. 3003, provided tha
 
   (D) any other project intended to increase the security and safety of existing or planned public transportation systems.
 
-(2) From the sums authorized under this section, at least 75 percent shall be expended on projects of the type described in subsection (b)(1)(A) and (B) of this section.
+(2) From the sums authorized under this section, at least 75 percent shall be expended on projects of the type described in subsection (b)(1)(A) and (B).
 
 **(c) Reporting** All grants under this section are contingent upon the filing of a report with the Secretary and the Department of Justice, Office of Victims of Crime, showing crime rates in or adjacent to public transportation before, and for a 1-year period after, the capital improvement. Statistics shall be compiled on the basis of the type of crime, sex, race, ethnicity, language, and relationship of victim to the offender.
 
@@ -2582,7 +2585,7 @@ This Act, referred to in subsecs. (a) and (d), is Pub. L. 103–322, Sept. 13, 1
 
 (3) relapse prevention.
 
-**(b) Training programs** The Attorney General shall ensure, to the extent practicable, that training programs developed under subsection (a) of this section are available in geographically diverse locations throughout the country.
+**(b) Training programs** The Attorney General shall ensure, to the extent practicable, that training programs developed under subsection (a) are available in geographically diverse locations throughout the country.
 
 **(c) Authorization of appropriations** There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2014 through 2018.
 
@@ -2641,15 +2644,15 @@ The Attorney General shall compile information regarding sex offender treatment 
 ## § 13961. Confidentiality of abused person’s address
 **(a) Regulations** Not later than 90 days after September 13, 1994, the United States Postal Service shall promulgate regulations to secure the confidentiality of domestic violence shelters and abused persons’ addresses.
 
-**(b) Requirements** The regulations under subsection (a) of this section shall require—
+**(b) Requirements** The regulations under subsection (a) shall require—
 
 (1) in the case of an individual, the presentation to an appropriate postal official of a valid, outstanding protection order; and
 
 (2) in the case of a domestic violence shelter, the presentation to an appropriate postal authority of proof from a State domestic violence coalition that meets the requirements of section 10410 11 See References in Text note below. of this title verifying that the organization is a domestic violence shelter.
 
-**(c) Disclosure for certain purposes** The regulations under subsection (a) of this section shall not prohibit the disclosure of addresses to State or Federal agencies for legitimate law enforcement or other governmental purposes.
+**(c) Disclosure for certain purposes** The regulations under subsection (a) shall not prohibit the disclosure of addresses to State or Federal agencies for legitimate law enforcement or other governmental purposes.
 
-**(d) Existing compilations** Compilations of addresses existing at the time at which order is presented to an appropriate postal official shall be excluded from the scope of the regulations under subsection (a) of this section.
+**(d) Existing compilations** Compilations of addresses existing at the time at which order is presented to an appropriate postal official shall be excluded from the scope of the regulations under subsection (a).
 
 ### Statutory Notes
 
@@ -2661,9 +2664,9 @@ The Attorney General shall compile information regarding sex offender treatment 
 ## § 13962. Research agenda
 **(a) Request for contract** The Attorney General shall request the National Academy of Sciences, through its National Research Council, to enter into a contract to develop a research agenda to increase the understanding and control of violence against women, including rape and domestic violence. In furtherance of the contract, the National Academy shall convene a panel of nationally recognized experts on violence against women, in the fields of law, medicine, criminal justice, and direct services to victims and experts on domestic violence in diverse, ethnic, social, and language minority communities and the social sciences. In setting the agenda, the Academy shall focus primarily on preventive, educative, social, and legal strategies, including addressing the needs of underserved populations.
 
-**(b) Declination of request** If the National Academy of Sciences declines to conduct the study and develop a research agenda, it shall recommend a nonprofit private entity that is qualified to conduct such a study. In that case, the Attorney General shall carry out subsection (a) of this section through the nonprofit private entity recommended by the Academy. In either case, whether the study is conducted by the National Academy of Sciences or by the nonprofit group it recommends, the funds for the contract shall be made available from sums appropriated for the conduct of research by the National Institute of Justice.
+**(b) Declination of request** If the National Academy of Sciences declines to conduct the study and develop a research agenda, it shall recommend a nonprofit private entity that is qualified to conduct such a study. In that case, the Attorney General shall carry out subsection (a) through the nonprofit private entity recommended by the Academy. In either case, whether the study is conducted by the National Academy of Sciences or by the nonprofit group it recommends, the funds for the contract shall be made available from sums appropriated for the conduct of research by the National Institute of Justice.
 
-**(c) Report** The Attorney General shall ensure that no later than 1 year after September 13, 1994, the study required under subsection (a) of this section is completed and a report describing the findings made is submitted to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
+**(c) Report** The Attorney General shall ensure that no later than 1 year after September 13, 1994, the study required under subsection (a) is completed and a report describing the findings made is submitted to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
 
 ### Statutory Notes
 
@@ -2677,7 +2680,7 @@ Pub. L. 106–386, div. B, title IV, § 1404, Oct. 28, 2000, 114 Stat. 1514, pro
 
 **(b) Consultation** In conducting its study, the Attorney General shall consult persons expert in the collection of criminal justice data, State statistical administrators, law enforcement personnel, and nonprofit nongovernmental agencies that provide direct services to victims of domestic violence. The final report shall set forth the views of the persons consulted on the recommendations.
 
-**(c) Report** The Attorney General shall ensure that no later than 1 year after September 13, 1994, the study required under subsection (a) of this section is completed and a report describing the findings made is submitted to the Committees on the Judiciary of the Senate and the House of Representatives.
+**(c) Report** The Attorney General shall ensure that no later than 1 year after September 13, 1994, the study required under subsection (a) is completed and a report describing the findings made is submitted to the Committees on the Judiciary of the Senate and the House of Representatives.
 
 **(d) Authorization of appropriations** There are authorized to be appropriated to carry out this section $200,000 for fiscal year 1996.
 
@@ -2736,7 +2739,7 @@ Centers for Disease Control changed to Centers for Disease Control and Preventio
 
 (5) developing programs and strategies that focus on the specific needs of victims of domestic violence, dating violence, sexual assault, and stalking who reside in remote rural and geographically isolated areas, including addressing the challenges posed by the lack of access to shelters and victims services, and limited law enforcement resources and training, and providing training and resources to Community Health Aides involved in the delivery of Indian Health Service programs.
 
-**(c) Use of funds** Funds appropriated pursuant to this section shall be used only for specific programs and activities expressly described in subsection (a) of this section.
+**(c) Use of funds** Funds appropriated pursuant to this section shall be used only for specific programs and activities expressly described in subsection (a).
 
 **(d) Allotments and priorities**
 
@@ -2762,7 +2765,7 @@ Centers for Disease Control changed to Centers for Disease Control and Preventio
 
 (1) **In general** — There are authorized to be appropriated $50,000,000 for each of fiscal years 2014 through 2018 to carry out this section.
 
-(2) **Additional funding** — In addition to funds received through a grant under subsection (b) of this section, a law enforcement agency may use funds received through a grant under part Q of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796dd](./chapter-046-justice-system-improvement.md#section-3796dd) et seq.) to accomplish the objectives of this section.
+(2) **Additional funding** — In addition to funds received through a grant under subsection (b), a law enforcement agency may use funds received through a grant under part Q of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796dd](./chapter-046-justice-system-improvement.md#section-3796dd) et seq.) to accomplish the objectives of this section.
 
 ### Statutory Notes
 
@@ -2829,7 +2832,7 @@ Section, Pub. L. 103–322, title IV, § 40297, as added Pub. L. 109–162, titl
 
 (1) transitional housing, including funding for the operating expenses of newly developed or existing transitional housing.11 So in original. The period probably should be a semicolon.
 
-(2) short-term housing assistance, including rental or utilities payments assistance and assistance with related expenses such as payment of security deposits and other costs incidental to relocation to transitional housing for persons described in subsection (a) of this section; and
+(2) short-term housing assistance, including rental or utilities payments assistance and assistance with related expenses such as payment of security deposits and other costs incidental to relocation to transitional housing for persons described in subsection (a); and
 
 (3) support services designed to enable a minor, an adult, or a dependent of such minor or adult, who is fleeing a situation of domestic violence, dating violence, sexual assault, or stalking to—
 
@@ -2857,7 +2860,7 @@ Section, Pub. L. 103–322, title IV, § 40297, as added Pub. L. 109–162, titl
 
   (A) describe the activities for which assistance under this section is sought;
 
-  (B) provide assurances that any supportive services offered to participants in programs developed under subsection (b)(3) of this section are voluntary and that refusal to receive such services shall not be grounds for termination from the program or eviction from the victim’s housing; and
+  (B) provide assurances that any supportive services offered to participants in programs developed under subsection (b)(3) are voluntary and that refusal to receive such services shall not be grounds for termination from the program or eviction from the victim’s housing; and
 
   (C) provide such additional assurances as the Attorney General determines to be essential to ensure compliance with the requirements of this section.
 
@@ -2921,7 +2924,7 @@ Section, Pub. L. 103–322, title IV, § 40297, as added Pub. L. 109–162, titl
 
       (II) *Applicability of part.—* — 33 So in original. Probably should be “section.—”. The requirements of this section shall not apply to funds allocated for the program described in subclause (I).
 
-    (ii) Priority shall be given to projects developed under subsection (b) of this section that primarily serve underserved populations.
+    (ii) Priority shall be given to projects developed under subsection (b) that primarily serve underserved populations.
 
   (D) *Qualified application defined* — In this paragraph, the term “qualified application” means an application that—
 
@@ -3002,9 +3005,9 @@ Functions of Office on Women’s Health of the Public Health Service exercised p
 ## § 13991. Civil rights
 **(a) Purpose** Pursuant to the affirmative power of Congress to enact this part under section 5 of the Fourteenth Amendment to the Constitution, as well as under section 8 of Article I of the Constitution, it is the purpose of this part to protect the civil rights of victims of gender motivated violence and to promote public safety, health, and activities affecting interstate commerce by establishing a Federal civil rights cause of action for victims of crimes of violence motivated by gender.
 
-**(b) Right to be free from crimes of violence** All persons within the United States shall have the right to be free from crimes of violence motivated by gender (as defined in subsection (d) of this section).
+**(b) Right to be free from crimes of violence** All persons within the United States shall have the right to be free from crimes of violence motivated by gender (as defined in subsection (d)).
 
-**(c) Cause of action** A person (including a person who acts under color of any statute, ordinance, regulation, custom, or usage of any State) who commits a crime of violence motivated by gender and thus deprives another of the right declared in subsection (b) of this section shall be liable to the party injured, in an action for the recovery of compensatory and punitive damages, injunctive and declaratory relief, and such other relief as a court may deem appropriate.
+**(c) Cause of action** A person (including a person who acts under color of any statute, ordinance, regulation, custom, or usage of any State) who commits a crime of violence motivated by gender and thus deprives another of the right declared in subsection (b) shall be liable to the party injured, in an action for the recovery of compensatory and punitive damages, injunctive and declaratory relief, and such other relief as a court may deem appropriate.
 
 **(d) Definitions** For purposes of this section—
 
@@ -3018,9 +3021,9 @@ Functions of Office on Women’s Health of the Public Health Service exercised p
 
 **(e) Limitation and procedures**
 
-(1) **Limitation** — Nothing in this section entitles a person to a cause of action under subsection (c) of this section for random acts of violence unrelated to gender or for acts that cannot be demonstrated, by a preponderance of the evidence, to be motivated by gender (within the meaning of subsection (d) of this section).
+(1) **Limitation** — Nothing in this section entitles a person to a cause of action under subsection (c) for random acts of violence unrelated to gender or for acts that cannot be demonstrated, by a preponderance of the evidence, to be motivated by gender (within the meaning of subsection (d)).
 
-(2) **No prior criminal action** — Nothing in this section requires a prior criminal complaint, prosecution, or conviction to establish the elements of a cause of action under subsection (c) of this section.
+(2) **No prior criminal action** — Nothing in this section requires a prior criminal complaint, prosecution, or conviction to establish the elements of a cause of action under subsection (c).
 
 (3) **Concurrent jurisdiction** — The Federal and State courts shall have concurrent jurisdiction over actions brought pursuant to this part.
 
@@ -3154,7 +3157,7 @@ Subsec. (c). Pub. L. 106–386, § 1406(c)(3), added subsec. (c).
 ## § 14002. Authorization of circuit studies; education and training grants
 **(a) Studies** In order to gain a better understanding of the nature and the extent of gender bias in the Federal courts, the circuit judicial councils are encouraged to conduct studies of the instances, if any, of gender bias in their respective circuits and to implement recommended reforms.
 
-**(b) Matters for examination** The studies under subsection (a) of this section may include an examination of the effects of gender on—
+**(b) Matters for examination** The studies under subsection (a) may include an examination of the effects of gender on—
 
 (1) the treatment of litigants, witnesses, attorneys, jurors, and judges in the courts, including before magistrate and bankruptcy judges;
 
@@ -3180,7 +3183,7 @@ Subsec. (c). Pub. L. 106–386, § 1406(c)(3), added subsec. (c).
 
 (12) the aspects of the topics listed in [section 13992 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-13992) that pertain to issues within the jurisdiction of the Federal courts.
 
-**(c) Clearinghouse** The Administrative Office of the United States Courts shall act as a clearinghouse to disseminate any reports and materials issued by the gender bias task forces under subsection (a) of this section and to respond to requests for such reports and materials. The gender bias task forces shall provide the Administrative Office of the Courts of the United States 11 So in original. Probably should be “Administrative Office of the United States Courts”. with their reports and related material.
+**(c) Clearinghouse** The Administrative Office of the United States Courts shall act as a clearinghouse to disseminate any reports and materials issued by the gender bias task forces under subsection (a) and to respond to requests for such reports and materials. The gender bias task forces shall provide the Administrative Office of the Courts of the United States 11 So in original. Probably should be “Administrative Office of the United States Courts”. with their reports and related material.
 
 **(d) Continuing education and training programs** The Federal Judicial Center, in carrying out [section 620(b)(3) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section620/b/3&num=0&edition=prelim), shall include in the educational programs it prepares, including the training programs for newly appointed judges, information on the aspects of the topics listed in [section 13992 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-13992) that pertain to issues within the jurisdiction of the Federal courts, and shall prepare materials necessary to implement this subsection.
 
@@ -3213,7 +3216,7 @@ There are authorized to be appropriated—
 
 **(b) Limited testing of defendants**
 
-(1) **Court order** — The victim of an offense of the type referred to in subsection (a) 11 See Codification note below. of this section may obtain an order in the district court of the United States for the district in which charges are brought against the defendant charged with the offense, after notice to the defendant and an opportunity to be heard, requiring that the defendant be tested for the presence of the etiologic agent for acquired immune deficiency syndrome, and that the results of the test be communicated to the victim and the defendant. Any test result of the defendant given to the victim or the defendant must be accompanied by appropriate counseling.
+(1) **Court order** — The victim of an offense of the type referred to in subsection (a) 11 See Codification note below. may obtain an order in the district court of the United States for the district in which charges are brought against the defendant charged with the offense, after notice to the defendant and an opportunity to be heard, requiring that the defendant be tested for the presence of the etiologic agent for acquired immune deficiency syndrome, and that the results of the test be communicated to the victim and the defendant. Any test result of the defendant given to the victim or the defendant must be accompanied by appropriate counseling.
 
 (2) **Showing required** — To obtain an order under paragraph (1), the victim must demonstrate that—
 
@@ -3225,7 +3228,7 @@ There are authorized to be appropriated—
 
 (3) **Follow-up testing** — The court may order follow-up tests and counseling under paragraph (1) if the initial test was negative. Such follow-up tests and counseling shall be performed at the request of the victim on dates that occur six months and twelve months following the initial test.
 
-(4) **Termination of testing requirements** — An order for follow-up testing under paragraph (3) shall be terminated if the person obtains an acquittal on, or dismissal of, all charges of the type referred to in subsection (a) 1 of this section.
+(4) **Termination of testing requirements** — An order for follow-up testing under paragraph (3) shall be terminated if the person obtains an acquittal on, or dismissal of, all charges of the type referred to in subsection (a).1
 
 (5) **Confidentiality of test** — The results of any test ordered under this subsection shall be disclosed only to the victim or, where the court deems appropriate, to the parent or legal guardian of the victim, and to the person tested. The victim may disclose the test results only to any medical professional, counselor, family member or sexual partner(s) the victim may have had since the attack. Any such individual to whom the test results are disclosed by the victim shall maintain the confidentiality of such information.
 
@@ -3254,7 +3257,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 ## § 14013. National baseline study on campus sexual assault
 **(a) Study** The Attorney General, in consultation with the Secretary of Education, shall provide for a national baseline study to examine the scope of the problem of campus sexual assaults and the effectiveness of institutional and legal policies in addressing such crimes and protecting victims. The Attorney General may utilize the Bureau of Justice Statistics, the National Institute of Justice, and the Office for Victims of Crime in carrying out this section.
 
-**(b) Report** Based on the study required by subsection (a) of this section and data collected under the Student Right-To-Know and Campus Security Act ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) note; Public Law 101–542) and amendments made by that Act, the Attorney General shall prepare a report including an analysis of—
+**(b) Report** Based on the study required by subsection (a) and data collected under the Student Right-To-Know and Campus Security Act ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) note; Public Law 101–542) and amendments made by that Act, the Attorney General shall prepare a report including an analysis of—
 
 (1) the number of reported allegations and estimated number of unreported allegations of campus sexual assaults, and to whom the allegations are reported (including authorities of the educational institution, sexual assault victim service entities, and local criminal authorities);
 
@@ -3284,7 +3287,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 (7) any recommendations the Attorney General may have for reforms to address campus sexual assaults and protect victims more effectively, and any other matters that the Attorney General deems relevant to the subject of the study and report required by this section.
 
-**(c) Submission of report** The report required by subsection (b) of this section shall be submitted to the Congress no later than September 1, 1996.
+**(c) Submission of report** The report required by subsection (b) shall be submitted to the Congress no later than September 1, 1996.
 
 **(d) “Campus sexual assaults” defined** For purposes of this section, “campus sexual assaults” includes sexual assaults occurring at institutions of postsecondary education and sexual assaults committed against or by students or employees of such institutions.
 
@@ -3300,7 +3303,7 @@ The Student Right-To-Know and Campus Security Act, referred to in subsec. (b), i
 ## § 14014. Report on battered women’s syndrome
 **(a) Report** Not less than 1 year after September 13, 1994, the Attorney General and the Secretary of Health and Human Services shall transmit to the House Committee on Energy and Commerce, the Senate Committee on Labor and Human Resources, and the Committees on the Judiciary of the Senate and the House of Representatives a report on the medical and psychological basis of “battered women’s syndrome” and on the extent to which evidence of the syndrome has been considered in criminal trials.
 
-**(b) Components** The report under subsection (a) of this section shall include—
+**(b) Components** The report under subsection (a) shall include—
 
 (1) medical and psychological testimony on the validity of battered women’s syndrome as a psychological condition;
 
@@ -3359,7 +3362,7 @@ Section was enacted as part of the Personal Responsibility and Work Opportunity 
 ## § 14032. Grant program
 **(a) In general** The Attorney General is authorized to provide grants to States and units of local government to improve and implement processes for entering data regarding stalking and domestic violence into local, State, and national crime information databases.
 
-**(b) Eligibility** To be eligible to receive a grant under subsection (a) of this section, a State or unit of local government shall certify that it has or intends to establish a program that enters into the National Crime Information Center records of—
+**(b) Eligibility** To be eligible to receive a grant under subsection (a), a State or unit of local government shall certify that it has or intends to establish a program that enters into the National Crime Information Center records of—
 
 (1) warrants for the arrest of persons violating protection orders intended to protect victims from stalking or domestic violence;
 
@@ -3572,7 +3575,7 @@ Section 14041b, Pub. L. 103–322, title IV, § 40803, as added Pub. L. 106–38
 
 (3) identify gaps and duplication of efforts in domestic violence research and governmental expenditures on domestic violence issues.
 
-**(c) Report** The Task Force shall report to Congress annually on its work under subsection (b) of this section.
+**(c) Report** The Task Force shall report to Congress annually on its work under subsection (b).
 
 **(d) Definition** For purposes of this section, the term “domestic violence” has the meaning given such term by section 3796gg–2 11 See References in Text note below. of this title.
 
@@ -3955,7 +3958,7 @@ Congress finds that:
 
 (3) **Award basis** — The Attorney General shall award grants and contracts under this section on a competitive basis.
 
-(4) **Limitation** — Appropriated funds may only be used for the purposes described in subsection (f) of this section.
+(4) **Limitation** — Appropriated funds may only be used for the purposes described in subsection (f).
 
 **(c) Eligible grantees**
 
@@ -3981,7 +3984,7 @@ Congress finds that:
 
     (i) because that person is or is perceived to be, or has a family or household member who is or is perceived to be, a victim of such violence; or
 
-    (ii) because of the actions or threatened actions of the individual who the victim, as certified in subsection (e) of this section, states has committed or threatened to commit acts of such violence against the victim, or against the victim’s family or household member;
+    (ii) because of the actions or threatened actions of the individual who the victim, as certified in subsection (e), states has committed or threatened to commit acts of such violence against the victim, or against the victim’s family or household member;
 
   (D) plans are developed that establish meaningful consultation and coordination with local victim service providers, tenant organizations, linguistically and culturally specific service providers, State domestic violence and sexual assault coalitions, and, where they exist, tribal domestic violence and sexual assault coalitions; and
 
@@ -4011,7 +4014,7 @@ Congress finds that:
 
   (B) *Notification* — Public housing agencies must provide notice to tenants of their rights under this section, including their right to confidentiality and the limits thereof, and to owners and managers of their rights and obligations under this section.
 
-**(f) Use of funds** Grants and contracts awarded pursuant to subsection (a) of this section shall provide to eligible entities personnel, training, and technical assistance to develop and implement policies, practices, and procedures, making physical improvements or changes, and developing or enhancing collaborations for the purposes of—
+**(f) Use of funds** Grants and contracts awarded pursuant to subsection (a) shall provide to eligible entities personnel, training, and technical assistance to develop and implement policies, practices, and procedures, making physical improvements or changes, and developing or enhancing collaborations for the purposes of—
 
 (1) enabling victims of domestic violence, dating violence, sexual assault, and stalking with otherwise disqualifying rental, credit, or criminal histories to be eligible to obtain housing or housing assistance, if such victims would otherwise qualify for housing or housing assistance and can provide documented evidence that demonstrates the causal connection between such violence or abuse and the victims’ negative histories;
 
@@ -4035,7 +4038,7 @@ Congress finds that:
 
 **(g) Authorization of appropriations** There are authorized to be appropriated $4,000,000 for each of fiscal years 2014 through 2018 to carry out the provisions of this section.
 
-**(h) Technical assistance** Up to 12 percent of the amount appropriated under subsection (g) of this section for each fiscal year shall be used by the Attorney General for technical assistance costs under this section.
+**(h) Technical assistance** Up to 12 percent of the amount appropriated under subsection (g) for each fiscal year shall be used by the Attorney General for technical assistance costs under this section.
 
 ### Statutory Notes
 
@@ -4174,7 +4177,7 @@ The Native American Housing Assistance and Self-Determination Act of 1996, refer
 
 **(c) Application** Each eligible entity seeking funds under this section shall submit an application to the Secretary of Health and Human Services at such time, in such manner, and containing such information as the Secretary of Health and Human Services may require.
 
-**(d) Use of funds** Funds awarded to eligible entities under subsection (a) of this section shall be used to design or replicate and implement new activities, services, and programs to increase the stability and self-sufficiency of, and create partnerships to develop long-term housing options for adult and youth victims of domestic violence, dating violence, sexual assault, or stalking, and their dependents, who are currently homeless or at risk of becoming homeless. Such activities, services, or programs—
+**(d) Use of funds** Funds awarded to eligible entities under subsection (a) shall be used to design or replicate and implement new activities, services, and programs to increase the stability and self-sufficiency of, and create partnerships to develop long-term housing options for adult and youth victims of domestic violence, dating violence, sexual assault, or stalking, and their dependents, who are currently homeless or at risk of becoming homeless. Such activities, services, or programs—
 
 (1) shall develop sustainable long-term living solutions in the community by—
 
@@ -4196,7 +4199,7 @@ The Native American Housing Assistance and Self-Determination Act of 1996, refer
 
 (1) give priority to linguistically and culturally specific services;
 
-(2) give priority to applications from entities that include a sexual assault service provider as described in subsection (b)(3) of this section; and
+(2) give priority to applications from entities that include a sexual assault service provider as described in subsection (b)(3); and
 
 (3) award a minimum of 15 percent of the funds appropriated under this section in any fiscal year to tribal organizations.
 
@@ -4214,9 +4217,9 @@ The Native American Housing Assistance and Self-Determination Act of 1996, refer
 
 **(h) Evaluation, monitoring, administration, and technical assistance** For purposes of this section—
 
-(1) up to 5 percent of the funds appropriated under subsection (i) of this section for each fiscal year may be used by the Secretary of Health and Human Services for evaluation, monitoring, and administration costs under this section; and
+(1) up to 5 percent of the funds appropriated under subsection (i) for each fiscal year may be used by the Secretary of Health and Human Services for evaluation, monitoring, and administration costs under this section; and
 
-(2) up to 8 percent of the funds appropriated under subsection (i) of this section for each fiscal year may be used to provide technical assistance to grantees under this section.
+(2) up to 8 percent of the funds appropriated under subsection (i) for each fiscal year may be used to provide technical assistance to grantees under this section.
 
 **(i) Authorization of appropriations** There are authorized to be appropriated $4,000,000 for each of fiscal years 2014 through 2018 to carry out the provisions of this section.
 
@@ -4282,7 +4285,7 @@ Subsec. (d). Pub. L. 109–271, § 5(a)(2), struck out “(1) In general.—” 
 
     (i) *In general* — Notwithstanding subparagraph (A), a public housing agency or owner or manager of housing assisted under a covered housing program may bifurcate a lease for the housing in order to evict, remove, or terminate assistance to any individual who is a tenant or lawful occupant of the housing and who engages in criminal activity directly relating to domestic violence, dating violence, sexual assault, or stalking against an affiliated individual or other individual, without evicting, removing, terminating assistance to, or otherwise penalizing a victim of such criminal activity who is also a tenant or lawful occupant of the housing.
 
-    (ii) *Effect of eviction on other tenants* — If public housing agency or owner or manager of housing assisted under a covered housing program evicts, removes, or terminates assistance to an individual under clause (i), and the individual is the sole tenant eligible to receive assistance under a covered housing program, the public housing agency or owner or manager of housing assisted under the covered housing program shall provide any remaining tenant an opportunity to establish eligibility for the covered housing program. If a tenant described in the preceding sentence cannot establish eligibility, the public housing agency or owner or manager of the housing shall provide the tenant a reasonable time, as determined by the appropriate agency, to find new housing or to establish eligibility for housing under another covered housing program.
+    (ii) *Effect of eviction on other tenants* — If public housing agency or owner or manager of housing assisted under a covered housing program evicts, removes, or terminates assistance to an individual under clause (i), and the individual is the sole tenant eligible to receive assistance under a covered housing program, the public housing agency or owner or manager of housing assisted under the covered housing program shall provide any remaining tenant or resident an opportunity to establish eligibility for the covered housing program. If a tenant or resident described in the preceding sentence cannot establish eligibility, the public housing agency or owner or manager of the housing shall provide the tenant or resident a reasonable time, as determined by the appropriate agency, to find new housing or to establish eligibility for housing under another covered housing program.
 
   (C) *Rules of construction* — Nothing in subparagraph (A) shall be construed—
 
@@ -4395,6 +4398,9 @@ The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (a
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(3)(D), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle A of title IV of the Act is classified generally to part A (§ 11360 et seq.) of subchapter IV of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of this title](./chapter-119-homeless-assistance.md#section-11301) and Tables.
 
+#### Amendments
+2016—Subsec. (b)(3)(B)(ii). Pub. L. 114–324 inserted “or resident” after “any remaining tenant” in first sentence and “or resident” after “tenant” in two places in second sentence.
+
 
 <a id="section-14043g"></a>
 ## § 14043g. Grant for national resource center on workplace responses to assist victims of domestic and sexual violence
@@ -4404,13 +4410,13 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(3)(D), is
 
 (1) information that demonstrates that the entity or organization has nationally recognized expertise in the area of domestic or sexual violence;
 
-(2) a plan to maximize, to the extent practicable, outreach to employers (including private companies and public entities such as public institutions of higher education and State and local governments) and labor organizations described in subsection (a) of this section concerning developing and implementing workplace responses to assist victims of domestic or sexual violence; and
+(2) a plan to maximize, to the extent practicable, outreach to employers (including private companies and public entities such as public institutions of higher education and State and local governments) and labor organizations described in subsection (a) concerning developing and implementing workplace responses to assist victims of domestic or sexual violence; and
 
 (3) a plan for developing materials and training for materials for employers that address the needs of employees in cases of domestic violence, dating violence, sexual assault, and stalking impacting the workplace, including the needs of underserved communities.
 
 **(c) Use of grant amount**
 
-(1) **In general** — An entity or organization that receives a grant under this section may use the funds made available through the grant for staff salaries, travel expenses, equipment, printing, and other reasonable expenses necessary to develop, maintain, and disseminate to employers and labor organizations described in subsection (a) of this section, information and assistance concerning workplace responses to assist victims of domestic or sexual violence.
+(1) **In general** — An entity or organization that receives a grant under this section may use the funds made available through the grant for staff salaries, travel expenses, equipment, printing, and other reasonable expenses necessary to develop, maintain, and disseminate to employers and labor organizations described in subsection (a), information and assistance concerning workplace responses to assist victims of domestic or sexual violence.
 
 (2) **Responses** — Responses referred to in paragraph (1) may include—
 
@@ -4435,8 +4441,8 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(3)(D), is
 Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under [section 2261 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2261&num=0&edition=prelim), Crimes and Criminal Procedure.
 
 
-<a id="section-14043h"></a>
-## § 14043h. Sexual assault services program
+<a id="section-14043g-1"></a>
+## § 14043g–1. Sexual assault services program
 **(a) Purposes** The purposes of this section are—
 
 (1) to assist States, Indian tribes, and territories in providing intervention, advocacy, accompaniment, support services, and related assistance for—
@@ -4604,6 +4610,40 @@ Subsec. (f)(1). Pub. L. 113–4, § 201(b), substituted “$40,000,000 to remain
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under [section 2261 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2261&num=0&edition=prelim), Crimes and Criminal Procedure.
+
+
+<a id="section-14043h"></a>
+## § 14043h. Working Group
+**(a) In general** The Attorney General, in consultation with the Secretary of Health and Human Services (referred to in this section as the “Secretary”), shall establish a joint working group (referred to in this section as the “Working Group”) to develop, coordinate, and disseminate best practices regarding the care and treatment of sexual assault survivors and the preservation of forensic evidence.
+
+**(b) Consultation with stakeholders** The Working Group shall consult with—
+
+(1) stakeholders in law enforcement, prosecution, forensic laboratory, counseling, forensic examiner, medical facility, and medical provider communities; and
+
+(2) representatives of not less than 3 entities with demonstrated expertise in sexual assault prevention, sexual assault advocacy, or representation of sexual assault victims, of which not less than 1 representative shall be a sexual assault victim.
+
+**(c) Membership** The Working Group shall be composed of governmental or nongovernmental agency heads at the discretion of the Attorney General, in consultation with the Secretary.
+
+**(d) Duties** The Working Group shall—
+
+(1) develop recommendations for improving the coordination of the dissemination and implementation of best practices and protocols regarding the care and treatment of sexual assault survivors and the preservation of evidence to hospital administrators, physicians, forensic examiners, and other medical associations and leaders in the medical community;
+
+(2) encourage, where appropriate, the adoption and implementation of best practices and protocols regarding the care and treatment of sexual assault survivors and the preservation of evidence among hospital administrators, physicians, forensic examiners, and other medical associations and leaders in the medical community;
+
+(3) develop recommendations to promote the coordination of the dissemination and implementation of best practices regarding the care and treatment of sexual assault survivors and the preservation of evidence to State attorneys general, United States attorneys, heads of State law enforcement agencies, forensic laboratory directors and managers, and other leaders in the law enforcement community;
+
+(4) develop and implement, where practicable, incentives to encourage the adoption or implementation of best practices regarding the care and treatment of sexual assault survivors and the preservation of evidence among State attorneys general, United States attorneys, heads of State law enforcement agencies, forensic laboratory directors and managers, and other leaders in the law enforcement community;
+
+(5) collect feedback from stakeholders, practitioners, and leadership throughout the Federal and State law enforcement, victim services, forensic science practitioner, and health care communities to inform development of future best practices or clinical guidelines regarding the care and treatment of sexual assault survivors; and
+
+(6) perform other activities, such as activities relating to development, dissemination, outreach, engagement, or training associated with advancing victim-centered care for sexual assault survivors.
+
+**(e) Report** Not later than 2 years after October 7, 2016, the Working Group shall submit to the Attorney General, the Secretary, and Congress a report containing the findings and recommended actions of the Working Group.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Survivors’ Bill of Rights Act of 2016, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 
 
 <a id="section-14043h-1"></a>
@@ -4795,9 +4835,9 @@ Section was enacted as part of the Rape Survivor Child Custody Act and also as p
 
 **(c) Authorization of appropriations** There are authorized to be appropriated—
 
-(1) $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(i) of this section and $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(ii) of this section; and
+(1) $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(i) and $1,500,000 for each of the fiscal years 2008 through 2011 to carry out the activities described in subsection (a)(1)(B)(ii); and
 
-(2) $250,000 for each of the fiscal years 2014 through 2017 to carry out the activities described in subsection (a)(2) of this section.
+(2) $250,000 for each of the fiscal years 2014 through 2017 to carry out the activities described in subsection (a)(2).
 
 ### Statutory Notes
 
@@ -5132,7 +5172,7 @@ Pub. L. 113–4, title XII, § 1241(b), Mar. 7, 2013, 127 Stat. 153, provided th
 
 (2) the term “child advocacy center” means a center created under subtitle A of the Victims of Child Abuse Act of 1990 ([42 U.S.C. 13001](./chapter-132-victims-of-child-abuse.md#section-13001) et seq.);
 
-(3) the term “child human trafficking” means 1 or more severe forms of trafficking in persons (as defined in [section 7102 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7102&num=0&edition=prelim)) involving a victim who is a child; and
+(3) the term “child human trafficking” means 1 or more severe forms of trafficking in persons (as defined in [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim)) involving a victim who is a child; and
 
 (4) the term “eligible entity” means a State or unit of local government that—
 
@@ -5265,7 +5305,7 @@ Section was enacted as part of the Justice for Victims of Trafficking Act of 201
 
 (2) **Definition** — In this subsection, the term “related offenses” includes violations of tax laws, transacting in illegally derived proceeds, money laundering, racketeering, and other violations of criminal laws committed in connection with an act of sex trafficking or a severe form of trafficking in persons.
 
-**(b) Multi-disciplinary approach required** Grants under subsection (a) of this section may be made only for programs in which the State or local law enforcement agency works collaboratively with social service providers and relevant nongovernmental organizations, including organizations with experience in the delivery of services to persons who are the subject of trafficking in persons.
+**(b) Multi-disciplinary approach required** Grants under subsection (a) may be made only for programs in which the State or local law enforcement agency works collaboratively with social service providers and relevant nongovernmental organizations, including organizations with experience in the delivery of services to persons who are the subject of trafficking in persons.
 
 **(c) Limitation on Federal share** The Federal share of a grant made under this section may not exceed 75 percent of the total costs of the projects described in the application submitted.
 
@@ -5370,7 +5410,7 @@ Par. (3). Pub. L. 113–4, § 1212(b)(2)(C)(iii), substituted “section 7102(4)
 
 (1) **Administrative expenses** — An eligible entity that receives a grant under this section may use not more than 5 percent of the total amount of such grant for administrative expenses.
 
-(2) **Nonexclusivity** — Nothing in this section may be construed to restrict the ability of an eligible entity to apply for or obtain funding from any other source to carry out the training described in subsection (c) of this section.
+(2) **Nonexclusivity** — Nothing in this section may be construed to restrict the ability of an eligible entity to apply for or obtain funding from any other source to carry out the training described in subsection (c).
 
 **(e) Authorization of appropriations** There are authorized to be appropriated $10,000,000 for each of the fiscal years 2007 through 2011 to carry out the provisions of this section.
 
@@ -5457,7 +5497,7 @@ Pub. L. 114–22, title I, § 110, May 29, 2015, 129 Stat. 239, provided that: �
 
 
 <a id="section-14045"></a>
-## § 14045. Establishing a National Strategy to Combat Human Trafficking
+## § 14045. Establishing a national strategy to combat human trafficking
 **(a) In general** The Attorney General shall implement and maintain a National Strategy for Combating Human Trafficking (referred to in this section as the “National Strategy”) in accordance with this section.
 
 **(b) Required contents of National Strategy** The National Strategy shall include the following:
@@ -5690,7 +5730,7 @@ Section not effective until the beginning of fiscal year 2007, see section 4 of 
 
 (2) **Contents** — Each application submitted under paragraph (1) shall—
 
-  (A) describe the need for grant funds and the plan for implementation for any of the purposes described in subsection (b) of this section;
+  (A) describe the need for grant funds and the plan for implementation for any of the purposes described in subsection (b);
 
   (B) include proof that the institution of higher education collaborated with victim service providers, including domestic violence, dating violence, sexual assault, and stalking victim services programs in the community in which the institution is located;
 
@@ -5700,7 +5740,7 @@ Section not effective until the beginning of fiscal year 2007, see section 4 of 
 
   (E) provide measurable goals and expected results from the use of the grant funds;
 
-  (F) provide assurances that the Federal funds made available under this section shall be used to supplement and, to the extent practical, increase the level of funds that would, in the absence of Federal funds, be made available by the institution for the purposes described in subsection (b) of this section; and
+  (F) provide assurances that the Federal funds made available under this section shall be used to supplement and, to the extent practical, increase the level of funds that would, in the absence of Federal funds, be made available by the institution for the purposes described in subsection (b); and
 
   (G) include such other information and assurances as the Attorney General reasonably determines to be necessary.
 
@@ -5714,7 +5754,7 @@ Section not effective until the beginning of fiscal year 2007, see section 4 of 
 
   (A) *Annual report* — Each institution of higher education receiving a grant under this section shall submit a performance report to the Attorney General. The Attorney General shall suspend funding under this section for an institution of higher education if the institution fails to submit such a report.
 
-  (B) *Final report* — Upon completion of the grant period under this section, the institution shall file a performance report with the Attorney General and the Secretary of Education explaining the activities carried out under this section together with an assessment of the effectiveness of those activities in achieving the purposes described in subsection (b) of this section.
+  (B) *Final report* — Upon completion of the grant period under this section, the institution shall file a performance report with the Attorney General and the Secretary of Education explaining the activities carried out under this section together with an assessment of the effectiveness of those activities in achieving the purposes described in subsection (b).
 
 (3) **Grantee minimum requirements** — Each grantee shall comply with the following minimum requirements during the grant period:
 
@@ -5818,7 +5858,7 @@ Section is comprised of section 90102 of Pub. L. 103–322 which is also listed 
 
 (2) under [section 841(b) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section841/b&num=0&edition=prelim) involving the smuggling of a controlled substance into a Federal prison or other Federal detention facility or the distribution or intended distribution of a controlled substance within a Federal prison or other Federal detention facility.
 
-**(c) No probation** Notwithstanding any other law, the court shall not sentence a person convicted of an offense described in subsection (b) of this section to probation.
+**(c) No probation** Notwithstanding any other law, the court shall not sentence a person convicted of an offense described in subsection (b) to probation.
 
 ### Statutory Notes
 
@@ -5884,7 +5924,7 @@ This Act, referred to in text, is Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1
 
 **(b) Data collection** The Director of the Federal Bureau of Investigation shall acquire and collect information on incidents of gang violence for inclusion in an annual uniform crime report.
 
-**(c) Report** The Attorney General shall prepare a report on national gang violence outlining the strategy developed under subsection (a) of this section to be submitted to the President and Congress by January 1, 1996.
+**(c) Report** The Attorney General shall prepare a report on national gang violence outlining the strategy developed under subsection (a) to be submitted to the President and Congress by January 1, 1996.
 
 **(d) Authorization of appropriations** There are authorized to be appropriated to carry out this section $1,000,000 for fiscal year 1996.
 
@@ -5911,7 +5951,7 @@ Subtitle A of title XVII of Pub. L. 103–322, which was classified generally to
 ## § 14081. Rural Crime and Drug Enforcement Task Forces
 **(a) Establishment** The Attorney General, in consultation with the Governors, mayors, and chief executive officers of State and local law enforcement agencies, may establish a Rural Crime and Drug Enforcement Task Force in judicial districts that encompass significant rural lands. Assets seized as a result of investigations initiated by a Rural Crime and Drug Enforcement Task Force and forfeited under Federal law shall be used, consistent with the guidelines on equitable sharing established by the Attorney General and of the Secretary of the Treasury, primarily to enhance the operations of the task force and its participating State and local law enforcement agencies.
 
-**(b) Task force membership** The Task Forces 11 So in original. Probably should not be capitalized. established under subsection (a) of this section shall be carried out under policies and procedures established by the Attorney General. The Attorney General may deputize State and local law enforcement officers and may cross-designate up to 100 Federal law enforcement officers, when necessary to undertake investigations pursuant to [section 873(a) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section873/a&num=0&edition=prelim) or offenses punishable by a term of imprisonment of 10 years or more under title 18. The task forces—
+**(b) Task force membership** The Task Forces 11 So in original. Probably should not be capitalized. established under subsection (a) shall be carried out under policies and procedures established by the Attorney General. The Attorney General may deputize State and local law enforcement officers and may cross-designate up to 100 Federal law enforcement officers, when necessary to undertake investigations pursuant to [section 873(a) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section873/a&num=0&edition=prelim) or offenses punishable by a term of imprisonment of 10 years or more under title 18. The task forces—
 
 (1) shall include representatives from—
 
@@ -5926,7 +5966,7 @@ Subtitle A of title XVII of Pub. L. 103–322, which was classified generally to
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see [section 531(c) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section531/c&num=0&edition=prelim), Domestic Security, and [section 599A(c)(1) of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section599A/c/1&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
@@ -5938,7 +5978,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 ## § 14082. Rural drug enforcement training
 **(a) Specialized training for rural officers** The Director of the Federal Law Enforcement Training Center shall develop a specialized course of instruction devoted to training law enforcement officers from rural agencies in the investigation of drug trafficking and related crimes.
 
-**(b) Authorization of appropriations** There are authorized to be appropriated to carry out subsection (a) of this section—
+**(b) Authorization of appropriations** There are authorized to be appropriated to carry out subsection (a)—
 
 (1) $1,000,000 for fiscal year 1996;
 
@@ -6019,7 +6059,7 @@ There is established in the Department of Justice, under the general authority o
 ## § 14094. Designation of lead agency and submission of State plan
 **(a) Lead agency** A State that desires to participate in the Police Corps program under this part shall designate a lead agency that will be responsible for—
 
-(1) submitting to the Director a State plan described in subsection (b) of this section; and
+(1) submitting to the Director a State plan described in subsection (b); and
 
 (2) administering the program in the State.
 
@@ -6038,7 +6078,7 @@ There is established in the Department of Justice, under the general authority o
 ## § 14095. Scholarship assistance
 **(a) Scholarships authorized**
 
-(1) The Director may award scholarships to participants who agree to work in a State or local police force in accordance with agreements entered into pursuant to subsection (d) of this section.
+(1) The Director may award scholarships to participants who agree to work in a State or local police force in accordance with agreements entered into pursuant to subsection (d).
 
 (2)
 
@@ -6062,7 +6102,7 @@ There is established in the Department of Justice, under the general authority o
 
 **(b) Reimbursement authorized**
 
-(1) The Director may make payments to a participant to reimburse such participant for the costs of educational expenses if the student agrees to work in a State or local police force in accordance with the agreement entered into pursuant to subsection (d) of this section.
+(1) The Director may make payments to a participant to reimburse such participant for the costs of educational expenses if the student agrees to work in a State or local police force in accordance with the agreement entered into pursuant to subsection (d).
 
 (2)
 
@@ -6165,13 +6205,13 @@ shall be entitled to the scholarship assistance authorized in this section for a
 
   (B)
 
-    (i) The prior period of law enforcement of a participant selected pursuant to subparagraph (A) shall not be counted toward satisfaction of the participant’s 4-year service obligation under [section 14098 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14098), and such a participant shall be subject to the same benefits and obligations under this part as other participants, including those stated in section 11 So in original. Probably should be “subsection”. (b)(1)(E) and (F) of this section.
+    (i) The prior period of law enforcement of a participant selected pursuant to subparagraph (A) shall not be counted toward satisfaction of the participant’s 4-year service obligation under [section 14098 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14098), and such a participant shall be subject to the same benefits and obligations under this part as other participants, including those stated in section 11 So in original. Probably should be “subsection”. (b)(1)(E) and (F).
 
     (ii) Clause (i) shall not be construed to preclude counting a participant’s previous period of law enforcement experience for purposes other than satisfaction of the requirements of [section 14098 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14098), such as for purposes of determining such a participant’s pay and other benefits, rank, and tenure.
 
 (3) It is the intent of this part that there shall be no more than 20,000 participants in each graduating class. The Director shall approve State plans providing in the aggregate for such enrollment of applicants as shall assure, as nearly as possible, annual graduating classes of 20,000. In a year in which applications are received in a number greater than that which will produce, in the judgment of the Director, a graduating class of more than 20,000, the Director shall, in deciding which applications to grant, give preference to those who will be participating in State plans that provide law enforcement personnel to areas of greatest need.
 
-**(c) Recruitment of minorities** Each State participating in the Police Corps program shall make special efforts to seek and recruit applicants from among members of all racial, ethnic or gender groups. This subsection does not authorize an exception from the competitive standards for admission established pursuant to subsections (a) and (b) of this section.
+**(c) Recruitment of minorities** Each State participating in the Police Corps program shall make special efforts to seek and recruit applicants from among members of all racial, ethnic or gender groups. This subsection does not authorize an exception from the competitive standards for admission established pursuant to subsections (a) and (b).
 
 **(d) Enrollment of applicant**
 
@@ -6401,7 +6441,7 @@ From amounts appropriated under [section 14119 of this title](./chapter-136-viol
 ## § 14116. State application
 **(a) In general** Each State desiring an allotment under [section 14112 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14112) shall submit an application to the Director at such time, in such manner, and accompanied by such information as the Director may reasonably require.
 
-**(b) Contents** An application under subsection (a) of this section shall—
+**(b) Contents** An application under subsection (a) shall—
 
 (1) describe the scholarship program and the student employment program for which assistance under this part is sought;
 
@@ -6432,7 +6472,7 @@ From amounts appropriated under [section 14119 of this title](./chapter-136-viol
 ## § 14117. Local application
 **(a) In general** A person who desires a scholarship or employment under this part shall submit an application to the State at such time, in such manner, and accompanied by such information as the State may reasonably require.
 
-**(b) Contents** An application under subsection (a) of this section shall describe—
+**(b) Contents** An application under subsection (a) shall describe—
 
 (1) the academic courses for which a scholarship is sought; or
 
@@ -6444,21 +6484,21 @@ From amounts appropriated under [section 14119 of this title](./chapter-136-viol
 
 (2) pursuing an undergraduate degree; and
 
-(3) not receiving financial assistance under the Higher Education Act of 1965 [[20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq., [42 U.S.C. 2751](./chapter-034-economic-opportunity-program.md#section-2751) et seq.].
+(3) not receiving financial assistance under the Higher Education Act of 1965 [[20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq.].
 
 ### Statutory Notes
 
 #### References in Text
-The Higher Education Act of 1965, referred to in subsec. (c)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (c)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 
 <a id="section-14118"></a>
 ## § 14118. Scholarship agreement
 **(a) In general** A person who receives a scholarship under this part shall enter into an agreement with the Director.
 
-**(b) Contents** An agreement described in subsection (a) of this section shall—
+**(b) Contents** An agreement described in subsection (a) shall—
 
-(1) provide assurances that the scholarship recipient will work in a law enforcement position in the State that awarded the scholarship in accordance with the service obligation described in subsection (c) of this section after completion of the scholarship recipient’s academic courses leading to an associate, bachelor, or graduate degree;
+(1) provide assurances that the scholarship recipient will work in a law enforcement position in the State that awarded the scholarship in accordance with the service obligation described in subsection (c) after completion of the scholarship recipient’s academic courses leading to an associate, bachelor, or graduate degree;
 
 (2) provide assurances that the scholarship recipient will repay the entire scholarship in accordance with such terms and conditions as the Director shall prescribe if the requirements of the agreement are not complied with, unless the scholarship recipient—
 
@@ -6491,7 +6531,7 @@ The Higher Education Act of 1965, referred to in subsec. (c)(3), is Pub. L. 89�
 
 (5) $20,000,000 for fiscal year 2000.
 
-**(b) Uses of funds** Of the funds appropriated under subsection (a) of this section for a fiscal year—
+**(b) Uses of funds** Of the funds appropriated under subsection (a) for a fiscal year—
 
 (1) 80 percent shall be available to provide scholarships described in [section 14113(a)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14113/a/1/A&num=0&edition=prelim); and
 
@@ -6518,9 +6558,9 @@ The Higher Education Act of 1965, referred to in subsec. (c)(3), is Pub. L. 89�
 
 **(b) Administration of advisory board**
 
-(1) For administrative purposes, the advisory board appointed under subsection (a) of this section shall be considered an advisory board to the Director of the Federal Bureau of Investigation.
+(1) For administrative purposes, the advisory board appointed under subsection (a) shall be considered an advisory board to the Director of the Federal Bureau of Investigation.
 
-(2) Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the advisory board appointed under subsection (a) of this section.
+(2) Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the advisory board appointed under subsection (a).
 
 (3) The DNA advisory board established under this section shall be separate and distinct from any other advisory board administered by the FBI, and is to be administered separately.
 
@@ -6570,7 +6610,7 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 
 (4) analyses of DNA samples voluntarily contributed from relatives of missing persons.
 
-**(b) Information** The index described in subsection (a) of this section shall include only information on DNA identification records and DNA analyses that are—
+**(b) Information** The index described in subsection (a) shall include only information on DNA identification records and DNA analyses that are—
 
 (1) based on analyses performed by or on behalf of a criminal justice agency (or the Secretary of Defense in accordance with [section 1565 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1565&num=0&edition=prelim)) in accordance with publicly available standards that satisfy or exceed the guidelines for a quality assurance program for DNA analysis, issued by the Director of the Federal Bureau of Investigation under [section 14131 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14131);
 
@@ -6590,13 +6630,13 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 
   (D) if personally identifiable information is removed, for a population statistics database, for identification research and protocol development purposes, or for quality control purposes.
 
-**(c) Failure to comply** Access to the index established by this section is subject to cancellation if the quality control and privacy requirements described in subsection (b) of this section are not met.
+**(c) Failure to comply** Access to the index established by this section is subject to cancellation if the quality control and privacy requirements described in subsection (b) are not met.
 
 **(d) Expungement of records**
 
 (1) **By Director**
 
-  (A) The Director of the Federal Bureau of Investigation shall promptly expunge from the index described in subsection (a) of this section the DNA analysis of a person included in the index—
+  (A) The Director of the Federal Bureau of Investigation shall promptly expunge from the index described in subsection (a) the DNA analysis of a person included in the index—
 
     (i) on the basis of conviction for a qualifying Federal offense or a qualifying District of Columbia offense (as determined under sections 14135a and 14135b of this title, respectively), if the Director receives, for each conviction of the person of a qualifying offense, a certified copy of a final court order establishing that such conviction has been overturned; or
 
@@ -6614,7 +6654,7 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 
 (2) **By States**
 
-  (A) As a condition of access to the index described in subsection (a) of this section, a State shall promptly expunge from that index the DNA analysis of a person included in the index by that State if—
+  (A) As a condition of access to the index described in subsection (a), a State shall promptly expunge from that index the DNA analysis of a person included in the index by that State if—
 
     (i) the responsible agency or official of that State receives, for each conviction of the person of an offense on the basis of which that analysis was or could have been included in the index, a certified copy of a final court order establishing that such conviction has been overturned; or
 
@@ -6743,13 +6783,13 @@ There are authorized to be appropriated to the Federal Bureau of Investigation t
 
 (3) include a certification that the State or unit of local government has determined, by statute, rule, or regulation, those offenses under State law that shall be treated for purposes of this section as qualifying State offenses;
 
-(4) specify the allocation that the State or unit of local government shall make, in using grant amounts to carry out DNA analyses of samples, as between samples specified in subsection (a)(1) of this section and samples specified in subsection (a)(2) of this section;
+(4) specify the allocation that the State or unit of local government shall make, in using grant amounts to carry out DNA analyses of samples, as between samples specified in subsection (a)(1) and samples specified in subsection (a)(2);
 
-(5) specify that portion of grant amounts that the State or unit of local government shall use for the purpose specified in subsection (a)(3) of this section;
+(5) specify that portion of grant amounts that the State or unit of local government shall use for the purpose specified in subsection (a)(3);
 
 (6) if submitted by a unit of local government, certify that the unit of local government has taken, or is taking, all necessary steps to ensure that it is eligible to include, directly or through a State law enforcement agency, all analyses of samples for which it has requested funding in the Combined DNA Index System; and
 
-(7) specify that portion of grant amounts that the State or unit of local government shall use for the purpose specified in subsection (a)(4) of this section.
+(7) specify that portion of grant amounts that the State or unit of local government shall use for the purpose specified in subsection (a)(4).
 
 **(c) Formula for distribution of grants**
 
@@ -6767,9 +6807,9 @@ There are authorized to be appropriated to the Federal Bureau of Investigation t
 
 (2) **Minimum amount** — The Attorney General shall allocate to each State not less than 0.50 percent of the total amount appropriated in a fiscal year for grants under this section, except that the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands shall each be allocated 0.125 percent of the total appropriation.
 
-(3) **Limitation** — Grant amounts distributed under paragraph (1) shall be awarded to conduct DNA analyses of samples from casework or from victims of crime under subsection (a)(2) of this section in accordance with the following limitations:
+(3) **Limitation** — Grant amounts distributed under paragraph (1) shall be awarded to conduct DNA analyses of samples from casework or from victims of crime under subsection (a)(2) in accordance with the following limitations:
 
-  (A) For fiscal year 2009, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.
+  (A) For fiscal year 2009, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2).
 
   (B) For each of the fiscal years 2014 through 2019, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2).
 
@@ -6779,7 +6819,7 @@ There are authorized to be appropriated to the Federal Bureau of Investigation t
 
 **(d) Analysis of samples**
 
-(1) **In general** — A plan pursuant to subsection (b)(1) of this section shall require that, except as provided in paragraph (3), each DNA analysis be carried out in a laboratory that satisfies quality assurance standards and is—
+(1) **In general** — A plan pursuant to subsection (b)(1) shall require that, except as provided in paragraph (3), each DNA analysis be carried out in a laboratory that satisfies quality assurance standards and is—
 
   (A) operated by the State or a unit of local government; or
 
@@ -6793,11 +6833,11 @@ There are authorized to be appropriated to the Federal Bureau of Investigation t
 
 (3) **Use of vouchers or contracts for certain purposes**
 
-  (A) *In general* — A grant for the purposes specified in paragraph (1), (2), or (5) of subsection (a) of this section may be made in the form of a voucher or contract for laboratory services, even if the laboratory makes a reasonable profit for the services.
+  (A) *In general* — A grant for the purposes specified in paragraph (1), (2), or (5) of subsection (a) may be made in the form of a voucher or contract for laboratory services, even if the laboratory makes a reasonable profit for the services.
 
   (B) *Redemption* — A voucher or contract under subparagraph (A) may be redeemed at a laboratory operated on a nonprofit or for-profit basis, by a private entity that satisfies quality assurance standards and has been approved by the Attorney General.
 
-  (C) *Payments* — The Attorney General may use amounts authorized under subsection (j) of this section to make payments to a laboratory described under subparagraph (B).
+  (C) *Payments* — The Attorney General may use amounts authorized under subsection (j) to make payments to a laboratory described under subparagraph (B).
 
 **(e) Restrictions on use of funds**
 
@@ -6829,7 +6869,7 @@ There are authorized to be appropriated to the Federal Bureau of Investigation t
 
 **(j) Authorization of appropriations** There are authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2015 through 2019.
 
-**(k) Use of funds for accreditation and audits** The Attorney General may distribute not more than 1 percent of the grant amounts under subsection (j) of this section—
+**(k) Use of funds for accreditation and audits** The Attorney General may distribute not more than 1 percent of the grant amounts under subsection (j)—
 
 (1) to States or units of local government to defray the costs incurred by laboratories operated by each such State or unit of local government in preparing for accreditation or reaccreditation;
 
@@ -6847,7 +6887,7 @@ There are authorized to be appropriated to the Federal Bureau of Investigation t
 
 (1) certifies to the Attorney General that in such State or unit—
 
-  (A) all of the purposes set forth in subsection (a) of this section have been met;
+  (A) all of the purposes set forth in subsection (a) have been met;
 
   (B) a significant backlog of casework is not waiting for DNA analysis; and
 
@@ -7063,7 +7103,7 @@ Subsec. (b)(7). Pub. L. 108–405, § 202(b)(2), added par. (7).
 
 Subsec. (c). Pub. L. 108–405, § 202(b)(3), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “A State that proposes to allocate grant amounts under paragraph (4) or (5) of subsection (b) of this section for the purposes specified in paragraph (2) or (3) of subsection (a) of this section shall use such allocated amounts to conduct or facilitate DNA analyses of those samples that relate to crimes in connection with which there are no suspects.”
 
-Subsec. (d)(1). Pub. L. 108–405, § 202(a)(4)(A), substituted “A plan pursuant to subsection (b)(1) of this section” for “The plan” in introductory provisions and struck out “within the State” after “local government” in subpars. (A) and (B).
+Subsec. (d)(1). Pub. L. 108–405, § 202(a)(4)(A), substituted “A plan pursuant to subsection (b)(1)” for “The plan” in introductory provisions and struck out “within the State” after “local government” in subpars. (A) and (B).
 
 Subsec. (d)(2)(A). Pub. L. 108–405, § 202(a)(4)(B), inserted “and units of local government” after “States”.
 
@@ -7128,9 +7168,9 @@ Pub. L. 106–546, § 11, Dec. 19, 2000, 114 Stat. 2735, enacted provisions subs
 
   (A) The Attorney General may, as prescribed by the Attorney General in regulation, collect DNA samples from individuals who are arrested, facing charges, or convicted or from non-United States persons who are detained under the authority of the United States. The Attorney General may delegate this function within the Department of Justice as provided in [section 510 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section510&num=0&edition=prelim) and may also authorize and direct any other agency of the United States that arrests or detains individuals or supervises individuals facing charges to carry out any function and exercise any power of the Attorney General under this section.
 
-  (B) The Director of the Bureau of Prisons shall collect a DNA sample from each individual in the custody of the Bureau of Prisons who is, or has been, convicted of a qualifying Federal offense (as determined under subsection (d) of this section) or a qualifying military offense, as determined under [section 1565 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1565&num=0&edition=prelim).
+  (B) The Director of the Bureau of Prisons shall collect a DNA sample from each individual in the custody of the Bureau of Prisons who is, or has been, convicted of a qualifying Federal offense (as determined under subsection (d)) or a qualifying military offense, as determined under [section 1565 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1565&num=0&edition=prelim).
 
-(2) **From individuals on release, parole, or probation** — The probation office responsible for the supervision under Federal law of an individual on probation, parole, or supervised release shall collect a DNA sample from each such individual who is, or has been, convicted of a qualifying Federal offense (as determined under subsection (d) of this section) or a qualifying military offense, as determined under [section 1565 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1565&num=0&edition=prelim).
+(2) **From individuals on release, parole, or probation** — The probation office responsible for the supervision under Federal law of an individual on probation, parole, or supervised release shall collect a DNA sample from each such individual who is, or has been, convicted of a qualifying Federal offense (as determined under subsection (d)) or a qualifying military offense, as determined under [section 1565 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1565&num=0&edition=prelim).
 
 (3) **Individuals already in CODIS** — For each individual described in paragraph (1) or (2), if the Combined DNA Index System (in this section referred to as “CODIS”) of the Federal Bureau of Investigation contains a DNA analysis with respect to that individual, or if a DNA sample has been collected from that individual under [section 1565 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1565&num=0&edition=prelim), the Attorney General, the Director of the Bureau of Prisons, or the probation office responsible (as applicable) may (but need not) collect a DNA sample from that individual.
 
@@ -7146,7 +7186,7 @@ Pub. L. 106–546, § 11, Dec. 19, 2000, 114 Stat. 2735, enacted provisions subs
 
   (B) punished in accordance with title 18.
 
-**(b) Analysis and use of samples** The Attorney General, the Director of the Bureau of Prisons, or the probation office responsible (as applicable) shall furnish each DNA sample collected under subsection (a) of this section to the Director of the Federal Bureau of Investigation, who shall carry out a DNA analysis on each such DNA sample and include the results in CODIS.
+**(b) Analysis and use of samples** The Attorney General, the Director of the Bureau of Prisons, or the probation office responsible (as applicable) shall furnish each DNA sample collected under subsection (a) to the Director of the Federal Bureau of Investigation, who shall carry out a DNA analysis on each such DNA sample and include the results in CODIS.
 
 **(c) Definitions** In this section:
 
@@ -7170,7 +7210,7 @@ Pub. L. 106–546, § 11, Dec. 19, 2000, 114 Stat. 2735, enacted provisions subs
 
 (2) **Probation officers** — The Director of the Administrative Office of the United States Courts shall make available model procedures for the activities of probation officers in carrying out this section.
 
-**(f) Commencement of collection** Collection of DNA samples under subsection (a) of this section shall, subject to the availability of appropriations, commence not later than the date that is 180 days after December 19, 2000.
+**(f) Commencement of collection** Collection of DNA samples under subsection (a) shall, subject to the availability of appropriations, commence not later than the date that is 180 days after December 19, 2000.
 
 ### Statutory Notes
 
@@ -7195,9 +7235,9 @@ Subsec. (b). Pub. L. 109–162, § 1004(a)(2), substituted “Attorney General, 
 ## § 14135b. Collection and use of DNA identification information from certain District of Columbia offenders
 **(a) Collection of DNA samples**
 
-(1) **From individuals in custody** — The Director of the Bureau of Prisons shall collect a DNA sample from each individual in the custody of the Bureau of Prisons who is, or has been, convicted of a qualifying District of Columbia offense (as determined under subsection (d) of this section).
+(1) **From individuals in custody** — The Director of the Bureau of Prisons shall collect a DNA sample from each individual in the custody of the Bureau of Prisons who is, or has been, convicted of a qualifying District of Columbia offense (as determined under subsection (d)).
 
-(2) **From individuals on release, parole, or probation** — The Director of the Court Services and Offender Supervision Agency for the District of Columbia shall collect a DNA sample from each individual under the supervision of the Agency who is on supervised release, parole, or probation who is, or has been, convicted of a qualifying District of Columbia offense (as determined under subsection (d) of this section).
+(2) **From individuals on release, parole, or probation** — The Director of the Court Services and Offender Supervision Agency for the District of Columbia shall collect a DNA sample from each individual under the supervision of the Agency who is on supervised release, parole, or probation who is, or has been, convicted of a qualifying District of Columbia offense (as determined under subsection (d)).
 
 (3) **Individuals already in CODIS** — For each individual described in paragraph (1) or (2), if the Combined DNA Index System (in this section referred to as “CODIS”) of the Federal Bureau of Investigation contains a DNA analysis with respect to that individual, the Director of the Bureau of Prisons or Agency (as applicable) may (but need not) collect a DNA sample from that individual.
 
@@ -7213,7 +7253,7 @@ Subsec. (b). Pub. L. 109–162, § 1004(a)(2), substituted “Attorney General, 
 
   (B) punished in accordance with title 18.
 
-**(b) Analysis and use of samples** The Director of the Bureau of Prisons or Agency (as applicable) shall furnish each DNA sample collected under subsection (a) of this section to the Director of the Federal Bureau of Investigation, who shall carry out a DNA analysis on each such DNA sample and include the results in CODIS.
+**(b) Analysis and use of samples** The Director of the Bureau of Prisons or Agency (as applicable) shall furnish each DNA sample collected under subsection (a) to the Director of the Federal Bureau of Investigation, who shall carry out a DNA analysis on each such DNA sample and include the results in CODIS.
 
 **(c) Definitions** In this section:
 
@@ -7223,7 +7263,7 @@ Subsec. (b). Pub. L. 109–162, § 1004(a)(2), substituted “Attorney General, 
 
 **(d) Qualifying District of Columbia offenses** The government of the District of Columbia may determine those offenses under the District of Columbia Code that shall be treated for purposes of this section as qualifying District of Columbia offenses.
 
-**(e) Commencement of collection** Collection of DNA samples under subsection (a) of this section shall, subject to the availability of appropriations, commence not later than the date that is 180 days after December 19, 2000.
+**(e) Commencement of collection** Collection of DNA samples under subsection (a) shall, subject to the availability of appropriations, commence not later than the date that is 180 days after December 19, 2000.
 
 **(f) Authorization of appropriations** There are authorized to be appropriated to the Court Services and Offender Supervision Agency for the District of Columbia to carry out this section such sums as may be necessary for each of fiscal years 2001 through 2005.
 
@@ -7260,11 +7300,11 @@ Section was enacted as part of the DNA Analysis Backlog Elimination Act of 2000,
 
 <a id="section-14135e"></a>
 ## § 14135e. Privacy protection standards
-**(a) In general** Except as provided in subsection (b) of this section, any sample collected under, or any result of any analysis carried out under, section 14135, 14135a, or 14135b of this title may be used only for a purpose specified in such section.
+**(a) In general** Except as provided in subsection (b), any sample collected under, or any result of any analysis carried out under, section 14135, 14135a, or 14135b of this title may be used only for a purpose specified in such section.
 
-**(b) Permissive uses** A sample or result described in subsection (a) of this section may be disclosed under the circumstances under which disclosure of information included in the Combined DNA Index System is allowed, as specified in subparagraphs (A) through (D) of [section 14132(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14132/b/3&num=0&edition=prelim).
+**(b) Permissive uses** A sample or result described in subsection (a) may be disclosed under the circumstances under which disclosure of information included in the Combined DNA Index System is allowed, as specified in subparagraphs (A) through (D) of [section 14132(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14132/b/3&num=0&edition=prelim).
 
-**(c) Criminal penalty** A person who knowingly discloses a sample or result described in subsection (a) of this section in any manner to any person not authorized to receive it, or obtains or uses, without authorization, such sample or result, shall be fined not more than $250,000, or imprisoned for a period of not more than one year. Each instance of disclosure, obtaining, or use shall constitute a separate offense under this subsection.
+**(c) Criminal penalty** A person who knowingly discloses a sample or result described in subsection (a) in any manner to any person not authorized to receive it, or obtains or uses, without authorization, such sample or result, shall be fined not more than $250,000, or imprisoned for a period of not more than one year. Each instance of disclosure, obtaining, or use shall constitute a separate offense under this subsection.
 
 ### Statutory Notes
 
@@ -7308,7 +7348,7 @@ Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and al
 2008—Subsec. (b). Pub. L. 110–360 substituted “2009 through 2014” for “2005 through 2009”.
 
 #### Incentive Grants to States To Ensure Consideration of Claims of Actual Innocence
-Pub. L. 108–405, title IV, § 413, Oct. 30, 2004, 118 Stat. 2285, provided that: “For each of fiscal years 2005 through 2009, all funds appropriated to carry out sections 303, 305, 308, and 412 [sections 14136, 14136b, 14136d, and 14136e of this title] shall be reserved for grants to eligible entities that— “(1) meet the requirements under section 303, 305, 308, or 412, as appropriate; and “(2) demonstrate that the State in which the eligible entity operates—“(A) provides post-conviction DNA testing of specified evidence—“(i) under a State statute enacted before the date of enactment of this Act [Oct. 30, 2004] (or extended or renewed after such date), to persons convicted after trial and under a sentence of imprisonment or death for a State felony offense, in a manner that ensures a reasonable process for resolving claims of actual innocence; or “(ii) under a State statute enacted after the date of enactment of this Act, or under a State rule, regulation, or practice, to persons under a sentence of imprisonment or death for a State felony offense, in a manner comparable to [section 3600(a) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3600/a&num=0&edition=prelim), United States Code (provided that the State statute, rule, regulation, or practice may make post-conviction DNA testing available in cases in which such testing is not required by such section), and if the results of such testing exclude the applicant, permits the applicant to apply for post-conviction relief, notwithstanding any provision of law that would otherwise bar such application as untimely; and “(B) preserves biological evidence secured in relation to the investigation or prosecution of a State offense—“(i) under a State statute or a State or local rule, regulation, or practice, enacted or adopted before the date of enactment of this Act (or extended or renewed after such date), in a manner that ensures that reasonable measures are taken by all jurisdictions within the State to preserve such evidence; or “(ii) under a State statute or a State or local rule, regulation, or practice, enacted or adopted after the date of enactment of this Act, in a manner comparable to [section 3600A of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3600A&num=0&edition=prelim), United States Code, if— “(I) all jurisdictions within the State comply with this requirement; and “(II) such jurisdictions may preserve such evidence for longer than the period of time that such evidence would be required to be preserved under such section 3600A.”
+Pub. L. 108–405, title IV, § 413, Oct. 30, 2004, 118 Stat. 2285, as amended by Pub. L. 114–324, § 12(a), Dec. 16, 2016, 130 Stat. 1957, provided that: “For each of fiscal years 2017 through 2021, all funds appropriated to carry out sections 303, 305, 308, and 412 [sections 14136, 14136b, 14136d, and 14136e of this title] shall be reserved for grants to eligible entities that— “(1) meet the requirements under section 303, 305, 308, or 412, as appropriate; and “(2) for eligible entities that are a State or unit of local government, provide a certification by the chief legal officer of the State in which the eligible entity operates or the chief legal officer of the jurisdiction in which the funds will be used for the purposes of the grants, that the State or jurisdiction—“(A) provides DNA testing of specified evidence under a State statute or a State or local rule or regulation to persons sentenced to imprisonment or death for a State felony offense, in a manner intended to ensure a reasonable process for resolving claims of actual innocence that ensures post-conviction DNA testing in at least those cases that would be covered by [section 3600(a) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3600/a&num=0&edition=prelim), United States Code, had they been Federal cases and, if the results of the testing exclude the applicant as the source of the DNA, permits the applicant to apply for post-conviction relief, notwithstanding any provision of law that would otherwise bar the application as untimely; and “(B) preserves biological evidence, as defined in [section 3600A of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3600A&num=0&edition=prelim), United States Code, under a State statute or a State or local rule, regulation, or practice in a manner intended to ensure that reasonable measures are taken by the State or jurisdiction to preserve biological evidence secured in relation to the investigation or prosecution of, at a minimum, murder, nonnegligent manslaughter and sexual offenses.”
 
 
 <a id="section-14136a"></a>
@@ -7335,14 +7375,31 @@ Pub. L. 108–405, title IV, § 413, Oct. 30, 2004, 118 Stat. 2285, provided tha
 
   (F) victim service providers involved in treating victims of sexual assault.
 
-**(c) Authorization of appropriations** There are authorized to be appropriated $30,000,000 for each of fiscal years 2015 through 2019 to carry out this section.
+**(c) Preference**
+
+(1) **In general** — In reviewing applications submitted in accordance with a program authorized, in whole or in part, by this section, the Attorney General shall give preference to any eligible entity that certifies that the entity will use the grant funds to—
+
+  (A) improve forensic nurse examiner programs in a rural area or for an underserved population, as those terms are defined in section 13925 11 See References in Text note below. of this title;
+
+  (B) engage in activities that will assist in the employment of full-time forensic nurse examiners to conduct activities under subsection (a); or
+
+  (C) sustain or establish a training program for forensic nurse examiners.
+
+(2) **Directive to the Attorney General** — Not later than the beginning of fiscal year 2018, the Attorney General shall coordinate with the Secretary of Health and Human Services to inform Federally Qualified Health Centers, Community Health Centers, hospitals, colleges and universities, and other appropriate health-related entities about the role of forensic nurses and existing resources available within the Department of Justice and the Department of Health and Human Services to train or employ forensic nurses to address the needs of communities dealing with sexual assault, domestic violence, and elder abuse. The Attorney General shall collaborate on this effort with nongovernmental organizations representing forensic nurses.
+
+**(d) Authorization of appropriations** There are authorized to be appropriated $30,000,000 for each of fiscal years 2015 through 2019 to carry out this section.
 
 ### Statutory Notes
 
+#### References in Text
+[Section 13925 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-13925), referred to in subsec. (c)(1)(A), was in the original a reference to section “4002” of the Violence Against Women Act of 1994 and was translated as if it referred to section 40002 of that act to reflect the probable intent of Congress.
+
 #### Codification
-Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and also as part of the Justice for All Act of 2004, and not as part of Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and also as part of the Justice for All Act of 2004, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 
 #### Amendments
+2016—Subsecs. (c), (d). Pub. L. 114–324 added subsec. (c) and redesignated former subsec. (c) as (d).
+
 2014—Subsec. (c). Pub. L. 113–182 substituted “2015 through 2019” for “2009 through 2014”.
 
 2008—Subsec. (c). Pub. L. 110–360 substituted “2009 through 2014” for “2005 through 2009”.
@@ -7354,17 +7411,20 @@ Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and al
 
 **(b) Demonstration projects** The Attorney General shall make grants to appropriate entities under which research is carried out through demonstration projects involving coordinated training and commitment of resources to law enforcement agencies and key criminal justice participants to demonstrate and evaluate the use of forensic DNA technology in conjunction with other forensic tools. The demonstration projects shall include scientific evaluation of the public safety benefits, improvements to law enforcement operations, and cost-effectiveness of increased collection and use of DNA evidence.
 
-**(c) Authorization of appropriations** There are authorized to be appropriated $15,000,000 for each of fiscal years 2005 through 2009 to carry out this section.
+**(c) Authorization of appropriations** There are authorized to be appropriated $5,000,000 for each of fiscal years 2017 through 2021 to carry out this section.
 
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and also as part of the Justice for All Act of 2004, and not as part of Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and also as part of the Justice for All Act of 2004, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+#### Amendments
+2016—Subsec. (c). Pub. L. 114–324 substituted “$5,000,000 for each of fiscal years 2017 through 2021” for “$15,000,000 for each of fiscal years 2005 through 2009”.
 
 
 <a id="section-14136c"></a>
 ## § 14136c. National Forensic Science Commission
-**(a) Appointment** The Attorney General shall appoint a National Forensic Science Commission (in this section referred to as the “Commission”), composed of persons experienced in criminal justice issues, including persons from the forensic science and criminal justice communities, to carry out the responsibilities under subsection (b) of this section.
+**(a) Appointment** The Attorney General shall appoint a National Forensic Science Commission (in this section referred to as the “Commission”), composed of persons experienced in criminal justice issues, including persons from the forensic science and criminal justice communities, to carry out the responsibilities under subsection (b).
 
 **(b) Responsibilities** The Commission shall—
 
@@ -7407,7 +7467,7 @@ Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and al
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and also as part of the Justice for All Act of 2004, and not as part of Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and also as part of the Justice for All Act of 2004, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 
 
 <a id="section-14136d"></a>
@@ -7416,26 +7476,50 @@ Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and al
 
 **(b) Requirement** Each State or unit of local government that receives funding under this section shall be required to submit the DNA profiles of such missing persons and unidentified human remains to the National Missing Persons DNA Database of the Federal Bureau of Investigation.
 
-**(c) Authorization of appropriations** There are authorized to be appropriated $2,000,000 for each of fiscal years 2005 through 2009 to carry out this section.
+**(c) Authorization of appropriations** There are authorized to be appropriated $2,000,000 for each of fiscal years 2017 through 2021 to carry out this section.
 
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and also as part of the Justice for All Act of 2004, and not as part of Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and also as part of the Justice for All Act of 2004, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+#### Amendments
+2016—Subsec. (c). Pub. L. 114–324 substituted “fiscal years 2017 through 2021” for “fiscal years 2005 through 2009”.
 
 
 <a id="section-14136e"></a>
 ## § 14136e. Kirk Bloodsworth Post-Conviction DNA Testing Grant Program
 **(a) In general** The Attorney General shall establish the Kirk Bloodsworth Post-Conviction DNA Testing Grant Program to award grants to States to help defray the costs of post-conviction DNA testing.
 
-**(b) Authorization of appropriations** There are authorized to be appropriated $5,000,000 for each of fiscal years 2005 through 2009 to carry out this section.
+**(b) Authorization of appropriations** There are authorized to be appropriated $10,000,000 for each of fiscal years 2017 through 2021 to carry out this section.
 
 **(c) State defined** For purposes of this section, the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the Innocence Protection Act 2004 and also as part of the Justice for All Act of 2004, and not as part of Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+Section was enacted as part of the Innocence Protection Act 2004 and also as part of the Justice for All Act of 2004, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+#### Amendments
+2016—Subsec. (b). Pub. L. 114–324 substituted “$10,000,000 for each of fiscal years 2017 through 2021” for “$5,000,000 for each of fiscal years 2005 through 2009”.
+
+
+<a id="section-14136f"></a>
+## § 14136f. Establishment of best practices for evidence retention
+**(a) In general** The Director of the National Institute of Justice, in consultation with Federal, State, and local law enforcement agencies and government laboratories, shall—
+
+(1) establish best practices for evidence retention to focus on the preservation of forensic evidence; and
+
+(2) assist State, local, and tribal governments in adopting and implementing the best practices established under paragraph (1).
+
+**(b) Deadline** Not later than 1 year after December 16, 2016, the Director of the National Institute of Justice shall publish the best practices established under subsection (a)(1).
+
+**(c) Limitation** Nothing in this section shall be construed to require or obligate compliance with the best practices established under subsection (a)(1).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Innocence Protection Act 2004 and also as part of the Justice for All Act of 2004, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 
 
 <a id="section-14137"></a>
@@ -7564,7 +7648,7 @@ Section, Pub. L. 103–322, title XXI, § 210602, Sept. 13, 1994, 108 Stat. 2073
 
 **(b) Defined term** In this section, the term “legal representation” means legal counsel and investigative, expert, and other services necessary for competent representation.
 
-**(c) Use of funds** Grants awarded under subsection (a) of this section—
+**(c) Use of funds** Grants awarded under subsection (a)—
 
 (1) shall be used to establish, implement, or improve an effective system for providing competent legal representation to—
 
@@ -7578,15 +7662,15 @@ Section, Pub. L. 103–322, title XXI, § 210602, Sept. 13, 1994, 108 Stat. 2073
 
 **(d) Apportionment of funds**
 
-(1) **In general** — Of the funds awarded under subsection (a) of this section—
+(1) **In general** — Of the funds awarded under subsection (a)—
 
-  (A) not less than 75 percent shall be used to carry out the purpose described in subsection (c)(1)(A) of this section; and
+  (A) not less than 75 percent shall be used to carry out the purpose described in subsection (c)(1)(A); and
 
-  (B) not more than 25 percent shall be used to carry out the purpose described in subsection (c)(1)(B) of this section.
+  (B) not more than 25 percent shall be used to carry out the purpose described in subsection (c)(1)(B).
 
 (2) **Waiver** — The Attorney General may waive the requirement under this subsection for good cause shown.
 
-**(e) Effective system** As used in subsection (c)(1) of this section, an effective system for providing competent legal representation is a system that—
+**(e) Effective system** As used in subsection (c)(1), an effective system for providing competent legal representation is a system that—
 
 (1) invests the responsibility for appointing qualified attorneys to represent indigents in capital cases—
 
@@ -7644,7 +7728,7 @@ Section was enacted as part of the Innocence Protection Act 2004 and also as par
 
 **(b) Use of funds**
 
-(1) **Permitted uses** — Grants awarded under subsection (a) of this section shall be used for one or more of the following:
+(1) **Permitted uses** — Grants awarded under subsection (a) shall be used for one or more of the following:
 
   (A) To design and implement training programs for State and local prosecutors to ensure effective representation in State capital cases.
 
@@ -7658,7 +7742,7 @@ Section was enacted as part of the Innocence Protection Act 2004 and also as par
 
   (F) To provide support and assistance to the families of murder victims.
 
-(2) **Prohibited use** — Grants awarded under subsection (a) of this section shall not be used to fund, directly or indirectly, the prosecution of specific capital cases.
+(2) **Prohibited use** — Grants awarded under subsection (a) shall not be used to fund, directly or indirectly, the prosecution of specific capital cases.
 
 ### Statutory Notes
 
@@ -7708,7 +7792,7 @@ Section was enacted as part of the Innocence Protection Act 2004 and also as par
 
 (2) explains how each activity complies with the terms and conditions of the grant.
 
-**(b) Capital representation improvement grants** With respect to the funds provided under [section 14163 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14163), a report under subsection (a) of this section shall include—
+**(b) Capital representation improvement grants** With respect to the funds provided under [section 14163 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14163), a report under subsection (a) shall include—
 
 (1) an accounting of all amounts expended;
 
@@ -7742,7 +7826,7 @@ Section was enacted as part of the Innocence Protection Act 2004 and also as par
 
 (4) a statement confirming that the funds have not been used to fund representation in specific capital cases or to supplant non-Federal funds.
 
-**(c) Capital prosecution improvement grants** With respect to the funds provided under [section 14163a of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14163a), a report under subsection (a) of this section shall include—
+**(c) Capital prosecution improvement grants** With respect to the funds provided under [section 14163a of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14163a), a report under subsection (a) shall include—
 
 (1) an accounting of all amounts expended;
 
@@ -7788,13 +7872,13 @@ Section was enacted as part of the Innocence Protection Act 2004 and also as par
 
 **(b) Administrative review**
 
-(1) **Comment** — Upon the submission of a report under subsection (a)(1) of this section or a determination under subsection (a)(3) of this section, the Attorney General shall provide the State with an opportunity to comment regarding the findings and conclusions of the report or the determination.
+(1) **Comment** — Upon the submission of a report under subsection (a)(1) or a determination under subsection (a)(3), the Attorney General shall provide the State with an opportunity to comment regarding the findings and conclusions of the report or the determination.
 
-(2) **Corrective action plan** — If the Attorney General, after reviewing a report under subsection (a)(1) of this section or a determination under subsection (a)(3) of this section, determines that a State is not in compliance with the terms and conditions of the grant, the Attorney General shall consult with the appropriate State authorities to enter into a plan for corrective action. If the State does not agree to a plan for corrective action that has been approved by the Attorney General within 90 days after the submission of the report under subsection (a)(1) of this section or the determination under subsection (a)(3) of this section, the Attorney General shall, within 30 days, issue guidance to the State regarding corrective action to bring the State into compliance.
+(2) **Corrective action plan** — If the Attorney General, after reviewing a report under subsection (a)(1) or a determination under subsection (a)(3), determines that a State is not in compliance with the terms and conditions of the grant, the Attorney General shall consult with the appropriate State authorities to enter into a plan for corrective action. If the State does not agree to a plan for corrective action that has been approved by the Attorney General within 90 days after the submission of the report under subsection (a)(1) or the determination under subsection (a)(3), the Attorney General shall, within 30 days, issue guidance to the State regarding corrective action to bring the State into compliance.
 
 (3) **Report to Congress** — Not later than 90 days after the earlier of the implementation of a corrective action plan or the issuance of guidance under paragraph (2), the Attorney General shall submit a report to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate as to whether the State has taken corrective action and is in compliance with the terms and conditions of the grant.
 
-**(c) Penalties for noncompliance** If the State fails to take the prescribed corrective action under subsection (b) of this section and is not in compliance with the terms and conditions of the grant, the Attorney General shall discontinue all further funding under sections 14163 and 14163a of this title and require the State to return the funds granted under such sections for that fiscal year. Nothing in this paragraph shall prevent a State which has been subject to penalties for noncompliance from reapplying for a grant under this part in another fiscal year.
+**(c) Penalties for noncompliance** If the State fails to take the prescribed corrective action under subsection (b) and is not in compliance with the terms and conditions of the grant, the Attorney General shall discontinue all further funding under sections 14163 and 14163a of this title and require the State to return the funds granted under such sections for that fiscal year. Nothing in this paragraph shall prevent a State which has been subject to penalties for noncompliance from reapplying for a grant under this part in another fiscal year.
 
 **(d) Periodic reports** During the grant period, the Inspector General shall periodically review the compliance of each State with the terms and conditions of the grant.
 
@@ -7802,7 +7886,7 @@ Section was enacted as part of the Innocence Protection Act 2004 and also as par
 
 **(f) Special rule for “statutory procedure” States not in substantial compliance with statutory procedures**
 
-(1) **In general** — In the case of a State that employs a statutory procedure described in [section 14163(e)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14163/e/1/C&num=0&edition=prelim), if the Inspector General submits a determination under subsection (a)(3) of this section that the State is not in substantial compliance with the requirements of the applicable State statute, then for the period beginning with the date on which that determination was submitted and ending on the date on which the Inspector General determines that the State is in substantial compliance with the requirements of that statute, the funds awarded under this part shall be allocated solely for the uses described in [section 14163 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14163).
+(1) **In general** — In the case of a State that employs a statutory procedure described in [section 14163(e)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14163/e/1/C&num=0&edition=prelim), if the Inspector General submits a determination under subsection (a)(3) that the State is not in substantial compliance with the requirements of the applicable State statute, then for the period beginning with the date on which that determination was submitted and ending on the date on which the Inspector General determines that the State is in substantial compliance with the requirements of that statute, the funds awarded under this part shall be allocated solely for the uses described in [section 14163 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14163).
 
 (2) **Rule of construction** — The requirements of this subsection apply in addition to, and not instead of, the other requirements of this section.
 
@@ -7814,14 +7898,30 @@ Section was enacted as part of the Innocence Protection Act 2004 and also as par
 
 <a id="section-14163e"></a>
 ## § 14163e. Authorization of appropriations
-**(a) Authorization for grants** There are authorized to be appropriated $75,000,000 for each of fiscal years 2005 through 2009 to carry out this part.
+**(a) Authorization for grants** There are authorized to be appropriated 11 So in original. Probably should be followed by a dash.
 
-**(b) Restriction on use of funds to ensure equal allocation** Each State receiving a grant under this part shall allocate the funds equally between the uses described in [section 14163 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14163) and the uses described in [section 14163a of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14163a), except as provided in [section 14163d(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14163d/f&num=0&edition=prelim).
+(1) $2,500,000 for fiscal year 2017;
+
+(2) $7,500,000 for fiscal year 2018;
+
+(3) $12,500,000 for fiscal year 2019;
+
+(4) $17,500,000 for fiscal year 2020; and
+
+(5) $22,500,000 for fiscal year 2021.22 So in original.
+to carry out this part.
+
+**(b) Restriction on use of funds to ensure equal allocation** Each State receiving a grant under this part shall allocate the funds equally between the uses described in [section 14163 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14163) and the uses described in [section 14163a of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14163a), except as provided in [section 14163d(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14163d/f&num=0&edition=prelim), or upon a showing of good cause, and at the discretion of the Attorney General, the State may determine a fair allocation of funds across the uses described in sections 14163 and 14163a of this title.
 
 ### Statutory Notes
 
 #### Codification
 Section was enacted as part of the Innocence Protection Act 2004 and also as part of the Justice for All Act of 2004, and not as part of Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+#### Amendments
+2016—Subsec. (a). Pub. L. 114–324, § 10(1), which directed substitution of pars. (1) to (5) for “$75,000,000 for each of fiscal years 2005 through 2009”, was executed by making the substitution and setting out the remaining phrase “to carry out this part.”, which was not directed to be struck out, as concluding provisions.
+
+Subsec. (b). Pub. L. 114–324, § 10(2), inserted before period at end “, or upon a showing of good cause, and at the discretion of the Attorney General, the State may determine a fair allocation of funds across the uses described in sections 14163 and 14163a of this title”.
 
 
 <a id="section-14165"></a>
@@ -8086,9 +8186,9 @@ For short title of this subchapter as the “Motor Vehicle Theft Prevention Act�
 ## § 14181. Missing Alzheimer’s Disease Patient Alert Program
 **(a) Grant** The Attorney General shall, subject to the availability of appropriations, award a grant to an eligible organization to assist the organization in paying for the costs of planning, designing, establishing, and operating a Missing Alzheimer’s Disease Patient Alert Program, which shall be a locally based, proactive program to protect and locate missing patients with Alzheimer’s disease and related dementias.
 
-**(b) Application** To be eligible to receive a grant under subsection (a) of this section, an organization shall submit an application to the Attorney General at such time, in such manner, and containing such information as the Attorney General may require, including, at a minimum, an assurance that the organization will obtain and use assistance from private nonprofit organizations to support the program.
+**(b) Application** To be eligible to receive a grant under subsection (a), an organization shall submit an application to the Attorney General at such time, in such manner, and containing such information as the Attorney General may require, including, at a minimum, an assurance that the organization will obtain and use assistance from private nonprofit organizations to support the program.
 
-**(c) Eligible organization** The Attorney General shall award the grant described in subsection (a) of this section to a national voluntary organization that has a direct link to patients, and families of patients, with Alzheimer’s disease and related dementias.
+**(c) Eligible organization** The Attorney General shall award the grant described in subsection (a) to a national voluntary organization that has a direct link to patients, and families of patients, with Alzheimer’s disease and related dementias.
 
 **(d) Authorization of appropriations** There are authorized to be appropriated to carry out this section—
 
@@ -8158,7 +8258,7 @@ The purposes of the Commission are as follows:
 
 <a id="section-14194"></a>
 ## § 14194. Responsibilities of Commission
-**(a) In general** The responsibilities of the Commission shall include such study and consultation as may be necessary or appropriate to carry out the purposes set forth in [section 14193 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14193), including the specific measures described in subsections (b) through (e) of this section in relation to the subject areas addressed in those subsections.
+**(a) In general** The responsibilities of the Commission shall include such study and consultation as may be necessary or appropriate to carry out the purposes set forth in [section 14193 of this title](./chapter-136-violent-crime-control-and-law-enforcement.md#section-14193), including the specific measures described in subsections (b) through (e) in relation to the subject areas addressed in those subsections.
 
 **(b) Crime and violence generally** In addressing the subject of crime and violence generally, the activities of the Commission shall include the following:
 
@@ -8301,7 +8401,7 @@ There are authorized to be appropriated to carry out this subchapter—
 
 <a id="section-14211"></a>
 ## § 14211. Creation of Violent Crime Reduction Trust Fund
-**(a) Violent Crime Reduction Trust Fund** There is established a separate account in the Treasury, known as the “Violent Crime Reduction Trust Fund” (referred to in this section as the “Fund”) into which shall be transferred, in accordance with subsection (b) of this section, savings realized from implementation of section 5 of the Federal Workforce Restructuring Act of 1994 ([5 U.S.C. 3101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3101&num=0&edition=prelim) note; Public Law 103–226).
+**(a) Violent Crime Reduction Trust Fund** There is established a separate account in the Treasury, known as the “Violent Crime Reduction Trust Fund” (referred to in this section as the “Fund”) into which shall be transferred, in accordance with subsection (b), savings realized from implementation of section 5 of the Federal Workforce Restructuring Act of 1994 ([5 U.S.C. 3101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3101&num=0&edition=prelim) note; Public Law 103–226).
 
 **(b) Transfers into Fund** On the first day of the following fiscal years (or as soon thereafter as possible for fiscal year 1995), the following amounts shall be transferred from the general fund to the Fund—
 
@@ -8627,7 +8727,7 @@ Subsec. (d)(24). Pub. L. 111–320, § 202(e)(3), substituted “[section 10414 
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress.

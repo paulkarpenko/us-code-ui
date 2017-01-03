@@ -27,105 +27,11 @@ Section was enacted as part of the Duncan Hunter National Defense Authorization 
 
 
 <a id="section-2302"></a>
-## § 2302. Report on nuclear aspirations of non-state entities, nuclear weapons and related programs in non-nuclear-weapons states and countries not parties to the Nuclear Non-Proliferation Treaty, and certain foreign persons
-**(a) In general** The Director of National Intelligence shall biennially submit to the congressional defense committees, the Select Committee on Intelligence of the Senate, the Permanent Select Committee on Intelligence of the House of Representatives, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a report—
-
-(1) on the nuclear weapons programs and any related programs of countries that are non-nuclear-weapons state parties to the Treaty on Non-Proliferation of Nuclear Weapons, done at Washington, London, and Moscow July 1, 1968, and entered into force March 5, 1970 (commonly known as the “Nuclear Non-Proliferation Treaty”) and countries that are not parties to the Treaty;
-
-(2) on the nuclear weapons aspirations of such non-state entities as the Director considers appropriate to include in the report; and
-
-(3) that identifies each foreign person that, during the period covered by the report, made a material contribution to the research, development, production, or acquisition by a country of proliferation concern of—
-
-  (A) weapons of mass destruction (including nuclear weapons, chemical weapons, or biological weapons); or
-
-  (B) ballistic or cruise missile systems.
-
-**(b) Elements** The report required under subsection (a) shall include, with respect to each country described in subsection (a)(1) and each non-state entity referred to in subsection (a)(2), the following:
-
-(1) A statement of the number of nuclear weapons possessed by such country or non-state entity.
-
-(2) An estimate of the total number of nuclear weapons that such country or non-state entity seeks to obtain and, in the case of such non-state entity, an assessment of the extent to which such non-state entity is seeking to develop a nuclear weapon or device or radiological dispersion device.
-
-(3) A description of the technical characteristics of any nuclear weapons possessed by such country or non-state entity.
-
-(4) A description of nuclear weapons designs available to such country or non-state entity.
-
-(5) A description of any sources of assistance with respect to nuclear weapons design provided to or by such country or non-state entity and, in the case of assistance provided by such country or non-state entity, a description of to whom such assistance was provided.
-
-(6) An assessment of the annual capability of such country and non-state entity to produce new or newly designed nuclear weapons.
-
-(7) A description of the type of fissile materials used in any nuclear weapons possessed by such country or non-state entity.
-
-(8) An 11 So in original. Probably should be “A”. description of the location and production capability of any fissile materials production facilities in such country or controlled by such non-state entity, the current status of any such facilities, and any plans by such country or non-state entity to develop such facilities.
-
-(9) An identification of the source of any fissile materials used by such country or non-state entity, if such materials are not produced in facilities referred to in paragraph (8).
-
-(10) An assessment of the intentions of such country or non-state entity to leverage civilian nuclear capabilities for a nuclear weapons program.
-
-(11) A description of any delivery systems available to such country or non-state entity and an assessment of whether nuclear warheads have been mated, or there are plans for such warheads to be mated, to any such delivery system.
-
-(12) An assessment of the physical security of the storage facilities for nuclear weapons in such country or controlled by such non-state entity.
-
-(13) An assessment of whether such country is modernizing or otherwise improving the safety, security, and reliability of the nuclear weapons stockpile of such country.
-
-(14) An assessment of the industrial capability and capacity of such country or non-state entity to produce nuclear weapons.
-
-(15) In the case of a country, an assessment of the policy of such country on the employment and use of nuclear weapons.
-
-**(c) References to other reports** Each report submitted under subsection (a) shall include a copy of any other report that is incorporated by reference into the report submitted under subsection (a).
-
-**(d) Unclassified summary** Each report submitted under subsection (a) shall include an unclassified summary of such report.
-
-**(e) Submittal to Congress**
-
-(1) **In general** — Except as provided in paragraph (2), the Director of National Intelligence shall submit to the congressional defense committees, the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives the first report required under subsection (a) by not later than September 1, 2010.
-
-(2) **Notification of delay in submittal** — If the Director of National Intelligence determines that it will not be possible for the Director to submit the first report required under subsection (a) by September 1, 2010, the Director shall, not later than August 1, 2010, submit to the committees specified in paragraph (1) a notice—
-
-  (A) that such report will not be submitted by September 1, 2010; and
-
-  (B) setting forth the date by which the Director will submit such report.
-
-**(f) Omitted**
-
-**(g) Definitions** In this section:
-
-(1) **Foreign person** — The term “foreign person” means any of the following:
-
-  (A) A natural person who is not a citizen of the United States.
-
-  (B) A corporation, business association, partnership, society, trust, or other nongovernmental entity, organization, or group that is organized under the laws of a foreign country or has its principal place of business in a foreign country.
-
-  (C) Any foreign government or foreign governmental entity operating as a business enterprise or in any other capacity.
-
-  (D) Any successor, subunit, or subsidiary of any entity described in subparagraph (B) or (C).
-
-(2) **Country of proliferation concern** — The term “country of proliferation concern” means any country identified by the Director of Central Intelligence as having engaged in the acquisition of dual-use and other technology useful for the development or production of weapons of mass destruction (including nuclear weapons, chemical weapons, and biological weapons) or advanced conventional munitions—
-
-  (A) in the most recent report under section 2366 22 See References in Text note below. of this title; or
-
-  (B) in any successor report on the acquisition by foreign countries of dual-use and other technology useful for the development or production of weapons of mass destruction.
+## § 2302. Repealed. Pub. L. 114–113, div. M, title VII, § 701(d), Dec. 18, 2015, 129 Stat. 2930
 
 ### Statutory Notes
 
-#### References in Text
-[Section 2366 of this title](./chapter-040-defense-against-weapons-of-mass-destruction.md#section-2366), referred to in subsec. (g)(2)(A), was repealed by Pub. L. 112–239, div. A, title X, § 1065(c), Jan. 2, 2013, 126 Stat. 1943, and Pub. L. 112–277, title III, § 310(a)(1), Jan. 14, 2013, 126 Stat. 2474.
-
-#### Codification
-Section is comprised of section 1055 of Pub. L. 111–84. Subsec. (f) of section 1055 of Pub. L. 111–84 repealed [section 2369 of this title](./chapter-040-defense-against-weapons-of-mass-destruction.md#section-2369).
-
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2010, and not as part of the Defense Against Weapons of Mass Destruction Act of 1996 which comprises this chapter.
-
-#### Amendments
-2011—Subsec. (a). Pub. L. 112–81 substituted “the Permanent” for “and the Permanent” and inserted “, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives” before “a report” in introductory provisions.
-
-Subsec. (f). Pub. L. 111–383 made technical amendment to directory language of Pub. L. 111–84, § 1055(f). See Codification note above.
-
-#### Effective Date of 2011 Amendment
-Pub. L. 111–383, div. A, title X, § 1075(d), Jan. 7, 2011, 124 Stat. 4372, provided that the amendment by section 1075(d)(13) is effective as of Oct. 28, 2009, and as if included in Pub. L. 111–84 as enacted.
-
-#### “Congressional Defense Committees” Defined
-Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 111–84, 123 Stat. 2208. See note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
+Section, Pub. L. 111–84, div. A, title X, § 1055, Oct. 28, 2009, 123 Stat. 2461; Pub. L. 111–383, div. A, title X, § 1075(d)(13), Jan. 7, 2011, 124 Stat. 4373; Pub. L. 112–81, div. A, title X, § 1071, Dec. 31, 2011, 125 Stat. 1592, related to report on nuclear aspirations of non-state entities, nuclear weapons and related programs in non-nuclear-weapons states and countries not parties to the Nuclear Non-Proliferation Treaty, and certain foreign persons.
 
 
 <a id="section-2311"></a>
@@ -199,11 +105,17 @@ Pub. L. 107–228, div. B, title XIII, § 1331, Sept. 30, 2002, 116 Stat. 1448, 
 Pub. L. 109–364, div. C, title XXXI, § 3114, Oct. 17, 2006, 120 Stat. 2505, as amended by Pub. L. 110–417, div. C, title XXXI, § 3115, Oct. 14, 2008, 122 Stat. 4757, provided that: “(a) In General.—The Secretary of Energy may, with the concurrence of the Secretary of State, enter into one or more agreements with any person (including a foreign government, international organization, or multinational entity) that the Secretary of Energy considers appropriate under which the person contributes funds for purposes of the International Nuclear Materials Protection and Cooperation program or Russian Plutonium Disposition program of the National Nuclear Security Administration. “(b) Retention and Use of Amounts.—Notwithstanding [section 3302 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3302&num=0&edition=prelim), United States Code, the Secretary of Energy may retain and use amounts contributed under an agreement under subsection (a) for purposes of the International Nuclear Materials Protection and Cooperation program or Russian Plutonium Disposition program. Amounts so contributed shall be retained in a separate fund established in the Treasury for such purposes and shall be available for use without further appropriation and without fiscal year limitation. “(c) Return of Amounts Not Used Within 5 Years.—If an amount contributed under an agreement under subsection (a) is not used under this section within 5 years after it was contributed, the Secretary of Energy shall return that amount to the person who contributed it. “(d) Notice to Congressional Defense Committees.—Not later than 30 days after the receipt of an amount contributed under subsection (a), the Secretary of Energy shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a notice specifying the purpose and value of the contribution and identifying the person who contributed it. The Secretary may not use the amount until 15 days after the notice is submitted. “(e) Annual Report.—Not later than October 31 of each year, the Secretary of Energy shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the receipt and use of amounts under this section during the preceding fiscal year. Each report for a fiscal year shall set forth—“(1) a statement of any amounts received under this section, including, for each such amount, the value of the contribution and the person who contributed it; “(2) a statement of any amounts used under this section, including, for each such amount, the purposes for which the amount was used; and “(3) a statement of the amounts retained but not used under this section, including, for each such amount, the purposes (if known) for which the Secretary intends to use the amount. “(f) Expiration.—The authority to accept, retain, and use contributions under this section expires on December 31, 2015.”
 
 #### Commission to Assess the Threat to the United States From Electromagnetic Pulse (EMP) Attack
-Pub. L. 109–163, div. A, title X, § 1052(a)–(c), Jan. 6, 2006, 119 Stat. 3434, reestablished the Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack (see below) with the same membership that the Commission had as of the date the Commission’s report was submitted, provided that Commissioners could elect to terminate service, and defined “Commission charter”.
+Pub. L. 114–92, div. A, title X, § 1089(a), (b), Nov. 25, 2015, 129 Stat. 1015, 1016, provided that: “(a) Reestablishment.—The commission established pursuant to title XIV of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–345) [set out below], and reestablished pursuant to section 1052 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; [50 U.S.C. 2301](./chapter-040-defense-against-weapons-of-mass-destruction.md#section-2301) note), known as the Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack, is hereby reestablished. “(b) Membership.—Service on the Commission is voluntary, and Commissioners may elect to terminate their service on the Commission. If a Commissioner is unwilling or unable to serve on the Commission, the Secretary of Defense, in consultation with the chairmen and ranking members of the Committees on Armed Services of the House of Representatives and the Senate, shall appoint a new member to fill that vacancy.”
 
-Pub. L. 106–398, § 1 [[div. A], title XIV], Oct. 30, 2000, 114 Stat. 1654, 1654A–345, as amended by Pub. L. 109–163, div. A, title X, § 1052(d)–(j), Jan. 6, 2006, 119 Stat. 3434, 3435; Pub. L. 109–364, div. A, title X, § 1073, Oct. 17, 2006, 120 Stat. 2403; Pub. L. 110–181, div. A, title X, §§ 1063(e)(2), 1075(a), (b), Jan. 28, 2008, 122 Stat. 323, 333; Pub. L. 111–383, div. A, title X, § 1075(f)(8), Jan. 7, 2011, 124 Stat. 4376, established the Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack, directed the Commission to assess the vulnerability of electric-dependent military systems and other electric-dependent systems in the United States to an electromagnetic pulse attack, to coordinate such work with the Department of Homeland Security, and to submit to Congress, not later than Nov. 30, 2008, a final report on the assessment, and provided that the Commission terminate 30 days after submission of the report.
+Pub. L. 109–163, div. A, title X, § 1052(a)–(c), Jan. 6, 2006, 119 Stat. 3434, provided that: “(a) Reestablishment.—The commission established pursuant to title XIV of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–345) [set out below], known as the Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack, is hereby reestablished. “(b) Membership.—The Commission as reestablished shall have the same membership as the Commission had as of the date of the submission of the report of the Commission pursuant to section 1403(a) of such Act, as in effect before the date of the enactment of this Act [Jan. 6, 2006]. Service on the Commission is voluntary, and Commissioners may elect to terminate their service on the Commission. “(c) Commission Charter Defined.—In this section [enacting this note and amending title XIV of Pub. L. 106–398, set out below], the term ‘Commission charter’ means title XIV of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–345 et seq.).”
 
-[Pub. L. 111–383, div. A, title X, § 1075(f)(8), Jan. 7, 2011, 124 Stat. 4376, provided that the amendment made by section 1075(f)(8) to section 1075(a) of Pub. L. 110–181, amending Pub. L. 106–398, § 1403(a), paraphrased above, is effective as of Jan. 28, 2008, and as if included in Pub. L. 110–181 as enacted.]
+Pub. L. 106–398, § 1 [[div. A], title XIV], Oct. 30, 2000, 114 Stat. 1654, 1654A–345, as amended by Pub. L. 109–163, div. A, title X, § 1052(d)–(j), Jan. 6, 2006, 119 Stat. 3434, 3435; Pub. L. 109–364, div. A, title X, § 1073, Oct. 17, 2006, 120 Stat. 2403; Pub. L. 110–181, div. A, title X, §§ 1063(e)(2), 1075(a), (b), Jan. 28, 2008, 122 Stat. 323, 333; Pub. L. 111–383, div. A, title X, § 1075(f)(8), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 114–92, div. A, title X, § 1089(d)–(g), Nov. 25, 2015, 129 Stat. 1016, provided that: “SEC. 1401. ESTABLISHMENT OF COMMISSION.“(a) Establishment.—There is hereby established a commission to be known as the ‘Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack’ (hereafter in this title referred to as the ‘Commission’). “(b) Purpose.—The purpose of the Commission is to monitor, investigate, make recommendations, and report to Congress on the evolving threat to the United States from electromagnetic pulse (hereinafter in this title referred to as ‘EMP’) attack resulting from the detonation of a nuclear weapon or weapons at high altitude, from non-nuclear EMP weapons, from natural EMP generated by geomagnetic storms, and from proposed uses in the military doctrines of potential adversaries of using EMP weapons in combination with other attack vectors.. [sic] “(c) Composition.—The Commission shall be composed of nine members. In the event of a vacancy in the membership of the Commission, the Secretary of Defense shall appoint a new member. “(d) Qualifications.—Members of the Commission shall be appointed from among private United States citizens with knowledge and expertise in the scientific, technical, and military aspects of electromagnetic pulse effects referred to in subsection (b). “(e) Chairman of Commission.—The Secretary of Defense shall designate one of the members of the Commission to serve as chairman of the Commission. “(f) Security Clearances.—All members of the Commission shall hold appropriate security clearances. “SEC. 1402. DUTIES OF COMMISSION.“The Commission shall assess the following:“(1) The vulnerability of electric-dependent military systems in the United States to a manmade or natural EMP event, giving special attention to the progress made by the Department of Defense, other Government departments and agencies of the United States, and entities of the private sector in taking steps to protect such systems from such an event. “(2) The evolving current and future threat from state and non-state actors of a manmade EMP attack employing nuclear or non-nuclear weapons. “(3) New technologies, operational procedures, and contingency planning that can protect electronics and military systems from the effects a manmade or natural EMP event. “(4) Among the States, if State grids are protected against manmade or natural EMP, which States should receive highest priority for protecting critical defense assets. “(5) The degree to which vulnerabilities of critical infrastructure systems create cascading vulnerabilities for military systems. “SEC. 1403. REPORTS.“(a) Final Report.—Not later than June 30, 2017, the Commission shall submit to Congress a report on the Commission’s assessment of the matters specified in section 1402. That report shall include recommendations for any steps the Commission believes should be taken by the United States to better protect systems referred to in section 1402(1) from an EMP attack. “(b) Interim Reports.—Before the submission of its report under subsection (a), the Commission may submit to Congress interim reports at such times as the Commission considers appropriate. “SEC. 1404. POWERS.“(a) Hearings.—The Commission or, at its direction, any panel or member of the Commission, may, for the purpose of carrying out the provisions of this title, hold hearings, take testimony, receive evidence, and administer oaths to the extent that the Commission or any panel or member considers advisable. “(b) Information.—The Commission may secure directly from the Department of Defense, the Central Intelligence Agency, and any other Federal department or agency information that the Commission considers necessary to enable the Commission to carry out its responsibilities under this title. “(c) Coordination With Department of Homeland Security.—The Commission and the Secretary of Homeland Security shall jointly ensure that the work of the Commission with respect to electromagnetic pulse attack on electricity infrastructure, and protection against such attack, is coordinated with Department of Homeland Security efforts on such matters. “SEC. 1405. COMMISSION PROCEDURES.“(a) Meetings.—The Commission shall meet at the call of the Chairman. “(b) Quorum.—(1) Five members of the Commission shall constitute a quorum other than for the purpose of holding hearings. “(2) The Commission shall act by resolution agreed to by a majority of the members of the Commission. “(c) Panels.—The Commission may establish panels composed of less than full membership of the Commission for the purpose of carrying out the Commission’s duties. The actions of each such panel shall be subject to the review and control of the Commission. Any findings and determinations made by such a panel shall not be considered the findings and determinations of the Commission unless approved by the Commission. “(d) Authority of Individuals To Act for Commission.—Any agent or member of the Commission may, if authorized by the Commission, take any action which the Commission is authorized to take under this title. “SEC. 1406. PERSONNEL MATTERS.“(a) Pay of Members.—Members of the Commission shall serve without pay by reason of their work on the Commission. “(b) Travel Expenses.—The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission. “(c) Staff.—(1) The chairman of the Commission may, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, appoint a staff director and such additional personnel as may be necessary to enable the Commission to perform its duties. The appointment of a staff director shall be subject to the approval of the Commission. “(2) The chairman of the Commission may fix the pay of the staff director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay fixed under this paragraph for the staff director may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title and the rate of pay for other personnel may not exceed the maximum rate payable for senior level and scientific or professional positions. “(d) Detail of Government Employees.—Upon request of the chairman of the Commission, the head of any Federal department or agency may detail, on a nonreimbursable basis, any personnel of that department or agency to the Commission to assist it in carrying out its duties. “(e) Procurement of Temporary and Intermittent Services.—The chairman of the Commission may procure temporary and intermittent services under [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim), United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay payable for level V of the Executive Schedule under section 5316 of such title. “SEC. 1407. MISCELLANEOUS ADMINISTRATIVE PROVISIONS.“(a) Postal and Printing Services.—The Commission may use the United States mails and obtain printing and binding services in the same manner and under the same conditions as other departments and agencies of the Federal Government. “(b) Miscellaneous Administrative and Support Services.—The Secretary of Defense shall furnish the Commission, on a reimbursable basis, any administrative and support services requested by the Commission. “SEC. 1408. FUNDING.“Funds for activities of the Commission for any fiscal year shall be provided from amounts appropriated for the Department of Defense for operation and maintenance for Defense-wide activities for that fiscal year. Upon receipt of a written certification from the Chairman of the Commission specifying the funds required for the activities of the Commission, the Secretary of Defense shall promptly disburse to the Commission, from such amounts, the funds required by the Commission as stated in such certification. “SEC. 1409. TERMINATION OF THE COMMISSION.“The Commission shall terminate 30 days after the date of the submission of its report under section 1403(a), as amended by the National Defense Authorization Act for Fiscal Year 2016 [Pub. L. 114–92].”
+
+[Amendments by Pub. L. 114–92, div. A, title X, § 1089(f), (g), Nov. 25, 2015, 129 Stat. 1016, to title XIV of Pub. L. 106–398, set out above, were executed to reflect the probable intent of Congress. Section 1089(f), which directed substitution of “June 30, 2017” for “September 30, 2007” in section 1403, was executed by making the substitution for “November 30, 2008” following the amendment by Pub. L. 110–181, § 1075(a). Section 1089(g), which directed insertion of “, as amended by the National Defense Authorization Act for Fiscal Year 2016” before period at end of section “1049” of Pub. L. 106–398, was executed by making the insertion in section 1409.]
+
+[Pub. L. 111–383, div. A, title X, § 1075(f)(8), Jan. 7, 2011, 124 Stat. 4376, provided that the amendment made by section 1075(f)(8) to section 1075(a) of Pub. L. 110–181, amending Pub. L. 106–398, § 1403(a), set out above, is effective as of Jan. 28, 2008, and as if included in Pub. L. 110–181 as enacted.]
+
+[Pub. L. 109–163, div. A, title X, § 1052(i)(1), Jan. 6, 2006, 119 Stat. 3435, which directed amendment of section 1408 of Pub. L. 106–398, set out above, by inserting “for any fiscal year” after “activities of the Commission”, was executed by making the insertion after “activities of the Commission” the first place appearing, to reflect the probable intent of Congress.]
 
 #### Domestic Preparedness for Defense Against Weapons of Mass Destruction
 Pub. L. 105–261, div. A, title XIV, Oct. 17, 1998, 112 Stat. 2167, as amended by Pub. L. 106–65, div. A, title X, § 1064, Oct. 5, 1999, 113 Stat. 769, Pub. L. 106–398, § 1 [[div. A], title X, § 1087(d)(7)], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 107–107, div. A, title XV, § 1514(a), (b)(1), Dec. 28, 2001, 115 Stat. 1273; Pub. L. 107–296, title VIII, § 889(b)(2), Nov. 25, 2002, 116 Stat. 2251, provided that: “SEC. 1401. SHORT TITLE.“This title may be cited as the ‘Defense Against Weapons of Mass Destruction Act of 1998’. “SEC. 1402. DOMESTIC PREPAREDNESS FOR RESPONSE TO THREATS OF TERRORIST USE OF WEAPONS OF MASS DESTRUCTION.“(a) Enhanced Response Capability.—In light of the continuing potential for terrorist use of weapons of mass destruction against the United States and the need to develop a more fully coordinated response to that threat on the part of Federal, State, and local agencies, the President shall act to increase the effectiveness at the Federal, State, and local level of the domestic emergency preparedness program for response to terrorist incidents involving weapons of mass destruction by utilizing the President’s existing authorities to develop an integrated program that builds upon the program established under the Defense Against Weapons of Mass Destruction Act of 1996 (title XIV of Public Law 104–201; 110 Stat. 2714; [50 U.S.C. 2301](./chapter-040-defense-against-weapons-of-mass-destruction.md#section-2301) et seq.). “(b) Report.—Not later than January 31, 1999, the President shall submit to Congress a report containing information on the actions taken at the Federal, State, and local level to develop an integrated program to prevent and respond to terrorist incidents involving weapons of mass destruction. “SEC. 1403. REPORT ON DOMESTIC EMERGENCY PREPAREDNESS [Repealed. Pub. L. 107–296, title VIII, § 889(b)(2), Nov. 25, 2002, 116 Stat. 2251.] “SEC. 1404. THREAT AND RISK ASSESSMENTS.“(a) Threat and Risk Assessments.—Assistance to Federal, State, and local agencies provided under the program under section 1402 shall include the performance of assessments of the threat and risk of terrorist employment of weapons of mass destruction against cities and other local areas. Such assessments shall be used by Federal, State, and local agencies to determine the training and equipment requirements under this program and shall be performed as a collaborative effort with State and local agencies. “(b) Conduct of Assessments.—The Department of Justice, as lead Federal agency for domestic crisis management in response to terrorism involving weapons of mass destruction, shall—“(1) conduct any threat and risk assessment performed under subsection (a) in coordination with appropriate Federal, State, and local agencies; and “(2) develop procedures and guidance for conduct of the threat and risk assessment in consultation with officials from the intelligence community. “SEC. 1405. ADVISORY PANEL TO ASSESS DOMESTIC RESPONSE CAPABILITIES FOR TERRORISM INVOLVING WEAPONS OF MASS DESTRUCTION.“(a) Requirement for Panel.—The Secretary of Defense, in consultation with the Attorney General, the Secretary of Energy, the Secretary of Health and Human Services, and the Director of the Federal Emergency Management Agency, shall enter into a contract with a federally funded research and development center to establish a panel to assess the capabilities for domestic response to terrorism involving weapons of mass destruction. “(b) Composition of Panel; Selection.—(1) The panel shall be composed of members who shall be private citizens of the United States with knowledge and expertise in emergency response matters. “(2) Members of the panel shall be selected by the federally funded research and development center in accordance with the terms of the contract established pursuant to subsection (a). “(c) Procedures for Panel.—The federally funded research and development center shall be responsible for establishing appropriate procedures for the panel, including procedures for selection of a panel chairman. “(d) Duties of Panel.—The panel shall—“(1) assess Federal agency efforts to enhance domestic preparedness for incidents involving weapons of mass destruction; “(2) assess the progress of Federal training programs for local emergency responses to incidents involving weapons of mass destruction; “(3) assess deficiencies in programs for response to incidents involving weapons of mass destruction, including a review of unfunded communications, equipment, and planning requirements, and the needs of maritime regions; “(4) recommend strategies for ensuring effective coordination with respect to Federal agency weapons of mass destruction response efforts, and for ensuring fully effective local response capabilities for weapons of mass destruction incidents; and “(5) assess the appropriate roles of State and local government in funding effective local response capabilities. “(e) Deadline To Enter Into Contract.—The Secretary of Defense shall enter into the contract required under subsection (a) not later than 60 days after the date of the enactment of this Act [Oct. 17, 1998]. “(f) Deadline for Selection of Panel Members.—Selection of panel members shall be made not later than 30 days after the date on which the Secretary enters into the contract required by subsection (a). “(g) Initial Meeting of the Panel.—The panel shall conduct its first meeting not later than 30 days after the date that all the selections to the panel have been made. “(h) Reports.—(1) Not later than 6 months after the date of the first meeting of the panel, the panel shall submit to the President and to Congress an initial report setting forth its findings, conclusions, and recommendations for improving Federal, State, and local domestic emergency preparedness to respond to incidents involving weapons of mass destruction. “(2) Not later than December 15 of each year, beginning in 1999 and ending in 2003, the panel shall submit to the President and to the Congress a report setting forth its findings, conclusions, and recommendations for improving Federal, State, and local domestic emergency preparedness to respond to incidents involving weapons of mass destruction. “(i) Cooperation of Other Agencies.—(1) The panel may secure directly from the Department of Defense, the Department of Energy, the Department of Health and Human Services, the Department of Justice, and the Federal Emergency Management Agency, or any other Federal department or agency information that the panel considers necessary for the panel to carry out its duties. “(2) The Attorney General, the Secretary of Defense, the Secretary of Energy, the Secretary of Health and Human Services, the Director of the Federal Emergency Management Agency, and any other official of the United States shall provide the panel with full and timely cooperation in carrying out its duties under this section. “(j) Funding.—The Secretary of Defense shall provide the funds necessary for the panel to carry out its duties from the funds available to the Department of Defense for weapons of mass destruction preparedness initiatives. “(k) Compensation of Panel Members.—The provisions of paragraph (4) of section 591(c) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1999 (as contained in section 101(d) of division A of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (Public Law 105–277; 112 Stat. 2681–212)), shall apply to members of the panel in the same manner as to members of the National Commission on Terrorism under that paragraph. “(l) Termination of the Panel.—The panel shall terminate five years after the date of the appointment of the member selected as chairman of the panel. “(m) Definition.—In this section, the term ‘weapon of mass destruction’ has the meaning given that term in section 1403(1) of the Defense Against Weapons of Mass Destruction Act of 1996 ([50 U.S.C. 2302(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2302/1&num=0&edition=prelim)).”
@@ -274,9 +186,9 @@ Section, Pub. L. 104–201, div. A, title XIV, § 1412, Sept. 23, 1996, 110 Stat
 
 (1) the coordination of Department of Energy assistance to Federal, State, and local officials in responding to threats involving nuclear, chemical, and biological weapons or related materials or technologies, including assistance in identifying, neutralizing, dismantling, and disposing of nuclear weapons and related materials and technologies; and
 
-(2) the coordination of Department of Energy assistance to the Department of Defense in carrying out that department’s responsibilities under subsection (a) of this section.
+(2) the coordination of Department of Energy assistance to the Department of Defense in carrying out that department’s responsibilities under subsection (a).
 
-**(c) Funding** Of the total amount authorized to be appropriated under section 301,11 See References in Text note below. $15,000,000 is available for providing assistance described in subsection (a) of this section.
+**(c) Funding** Of the total amount authorized to be appropriated under section 301,11 See References in Text note below. $15,000,000 is available for providing assistance described in subsection (a).
 
 ### Statutory Notes
 
@@ -288,7 +200,7 @@ Section 301, referred to in subsec. (c), is section 301 of Pub. L. 104–201, di
 
 “(1) the coordination of Department of Defense assistance to Federal, State, and local officials in responding to threats involving biological or chemical weapons or related materials or technologies, including assistance in identifying, neutralizing, dismantling, and disposing of biological and chemical weapons and related materials and technologies; and
 
-“(2) the coordination of Department of Defense assistance to the Department of Energy in carrying out that department’s responsibilities under subsection (b) of this section.”
+“(2) the coordination of Department of Defense assistance to the Department of Energy in carrying out that department’s responsibilities under subsection (b).”
 
 #### Transfer of Technology Items and Equipment in Support of Homeland Security
 Pub. L. 107–314, div. A, title XIV, § 1401, Dec. 2, 2002, 116 Stat. 2674, provided that: “(a) Responsible Senior Official.—The Secretary of Defense shall designate a senior official of the Department of Defense to coordinate all Department of Defense efforts to identify, evaluate, deploy, and transfer to Federal, State, and local first responders technology items and equipment in support of homeland security. “(b) Duties.—The official designated pursuant to subsection (a) shall—“(1) identify technology items and equipment developed or being developed by Department of Defense components that have the potential to enhance public safety and improve homeland security; “(2) cooperate with appropriate Federal Government officials outside the Department of Defense to evaluate whether such technology items and equipment would be useful to first responders; “(3) facilitate the timely transfer, through identification of appropriate private sector manufacturers, of appropriate technology items and equipment to Federal, State, and local first responders, in coordination with appropriate Federal Government officials outside the Department of Defense; “(4) identify and eliminate redundant and unnecessary research efforts within the Department of Defense with respect to technologies to be deployed to first responders; “(5) expedite the advancement of high priority Department of Defense projects from research through implementation of initial manufacturing; and “(6) participate in outreach programs established by appropriate Federal Government officials outside the Department of Defense to communicate with first responders and to facilitate awareness of available technology items and equipment to support responses to crises. “(c) Support Agreement.—The official designated pursuant to subsection (a) shall enter into an appropriate agreement with a nongovernment entity for such entity to assist the official designated under subsection (a) in carrying out that official’s duties under this section. Any such agreement shall be entered into using competitive procedures in compliance with applicable requirements of law and regulation. “(d) Report.—Not later than 180 days after the date of the enactment of this Act [Dec. 2, 2002], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the actions taken to carry out this section. The report shall include the following:“(1) Identification of the senior official designated pursuant to subsection (a). “(2) A summary of the actions taken or planned to be taken to implement subsection (b), including a schedule for planned actions. “(3) An initial list of technology items and equipment identified pursuant to subsection (b)(1), together with a summary of any program schedule for the development, deployment, or transfer of such items and equipment. “(4) A description of any agreement entered into pursuant to subsection (c).”
@@ -298,9 +210,12 @@ Pub. L. 107–314, div. A, title XIV, § 1401, Dec. 2, 2002, 116 Stat. 2674, pro
 ## § 2316. Chemical, biological, radiological, nuclear, and high-yield explosives response team
 **(a) Department of Defense rapid response team** The Secretary of Defense shall develop and maintain at least one domestic terrorism rapid response team composed of members of the Armed Forces and employees of the Department of Defense who are capable of aiding Federal, State, and local officials in the detection, neutralization, containment, dismantlement, and disposal of weapons of mass destruction containing chemical, biological, radiological, nuclear, and high-yield explosives.
 
-**(b) Addition to Federal response plans** The Secretary of Homeland Security shall incorporate into the National Response Plan prepared pursuant to [section 312(6) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section312/6&num=0&edition=prelim), other existing Federal emergency response plans, and programs prepared under [section 5196(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5196/b&num=0&edition=prelim) guidance on the use and deployment of the rapid response teams established under this section to respond to emergencies involving weapons of mass destruction. The Secretary of Homeland Security shall carry out this subsection in coordination with the Secretary of Defense and the heads of other Federal agencies involved with the emergency response plans.
+**(b) Addition to Federal response plans** The Secretary of Homeland Security shall incorporate into the National Response Plan prepared pursuant to section 502(6) 11 See References in Text note below. of the Homeland Security Act of 2002 ([6 U.S.C. 312(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section312/6&num=0&edition=prelim)), other existing Federal emergency response plans, and programs prepared under [section 5196(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5196/b&num=0&edition=prelim) guidance on the use and deployment of the rapid response teams established under this section to respond to emergencies involving weapons of mass destruction. The Secretary of Homeland Security shall carry out this subsection in coordination with the Secretary of Defense and the heads of other Federal agencies involved with the emergency response plans.
 
 ### Statutory Notes
+
+#### References in Text
+Section 502(6) of the Homeland Security Act of 2002, referred to in subsec. (b), probably should be a reference to section 504(a)(6) of that Act, which is classified to [section 314(a)(6) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section314/a/6&num=0&edition=prelim), Domestic Security. Section 502 of the Act was renumbered section 504 and par. (6) of that section was redesignated subsec. (a)(6) by Pub. L. 109–295, title VI, § 611(8), (12)(B), Oct. 4, 2006, 120 Stat. 1395, 1398.
 
 #### Amendments
 2006—Pub. L. 109–163, § 1033(1), substituted “Chemical, biological, radiological, nuclear, and high-yield explosives response team” for “Chemical-biological emergency response team” in section catchline.
@@ -320,7 +235,7 @@ Subsec. (b). Pub. L. 109–163, § 1033(3), in heading, substituted “plans” 
 
 (3) In developing and carrying out the program, the Secretary shall coordinate with the Secretary of Defense, the Director of the Federal Bureau of Investigation, the Secretary of Energy, and the heads of any other Federal, State, and local government agencies that have an expertise or responsibilities relevant to emergencies described in paragraph (1).
 
-**(b) Annual revisions of programs** The Secretary of Homeland Security shall revise the program developed under subsection (a) of this section not later than June 1 in each fiscal year covered by the program. The revisions shall include adjustments that the Secretary determines necessary or appropriate on the basis of the lessons learned from the exercise or exercises carried out under the program in the fiscal year, including lessons learned regarding coordination problems and equipment deficiencies.
+**(b) Annual revisions of programs** The Secretary of Homeland Security shall revise the program developed under subsection (a) not later than June 1 in each fiscal year covered by the program. The revisions shall include adjustments that the Secretary determines necessary or appropriate on the basis of the lessons learned from the exercise or exercises carried out under the program in the fiscal year, including lessons learned regarding coordination problems and equipment deficiencies.
 
 ### Statutory Notes
 
@@ -333,7 +248,7 @@ Subsec. (a)(2). Pub. L. 109–163, § 1032(a)(3), substituted “in accordance w
 
 Subsec. (a)(3). Pub. L. 109–163, § 1032(a)(4), inserted “the Secretary of Defense,” before “the Director of the Federal Bureau of Investigation” and struck out “the Director of the Federal Emergency Management Agency,” before “the Secretary of Energy,”.
 
-Subsecs. (b), (c). Pub. L. 109–163, § 1032(b), (c), redesignated subsec. (c) as (b), substituted “The Secretary of Homeland Security shall revise the program developed under subsection (a) of this section” for “The official responsible for carrying out a program developed under subsection (a) or (b) of this section shall revise the program” in first sentence and “the Secretary” for “the official” in second sentence, and struck out heading and text of former subsec. (b) which related to emergencies involving nuclear and radiological weapons.
+Subsecs. (b), (c). Pub. L. 109–163, § 1032(b), (c), redesignated subsec. (c) as (b), substituted “The Secretary of Homeland Security shall revise the program developed under subsection (a)” for “The official responsible for carrying out a program developed under subsection (a) or (b) shall revise the program” in first sentence and “the Secretary” for “the official” in second sentence, and struck out heading and text of former subsec. (b) which related to emergencies involving nuclear and radiological weapons.
 
 Subsecs. (d), (e). Pub. L. 109–163, § 1032(d), struck out heading and text of subsecs. (d) and (e) which related to option to transfer responsibility for programs under this section and to funding, respectively.
 
@@ -359,29 +274,29 @@ Pub. L. 107–314, div. C, title XXXI, § 3154(b), Dec. 2, 2002, 116 Stat. 2738,
 
 (2) Not later than one year after September 23, 1996, a report describing—
 
-  (A) the actions planned to be taken to carry out subsection (d) of this section; and
+  (A) the actions planned to be taken to carry out subsection (d); and
 
   (B) the costs of such actions.
 
-(3) Not later than three years after September 23, 1996, a report updating the information provided in the reports submitted pursuant to paragraphs (1) and (2), including the measures taken pursuant to subsection (d) of this section.
+(3) Not later than three years after September 23, 1996, a report updating the information provided in the reports submitted pursuant to paragraphs (1) and (2), including the measures taken pursuant to subsection (d).
 
 ### Statutory Notes
 
 #### Codification
-Section is comprised of subsecs. (d) and (e) of section 1416 of Pub. L. 104–201. Subsecs. (a) to (c) of section 1416 enacted [section 382 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section382&num=0&edition=prelim), Armed Forces, and sections 175a and 2332d of Title 18, Crimes and Criminal Procedure, and amended [section 372 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section372&num=0&edition=prelim).
+Section is comprised of subsecs. (d) and (e) of section 1416 of Pub. L. 104–201. Subsecs. (a) to (c) of section 1416 enacted section 382 (now 282) of Title 10, Armed Forces, and sections 175a and 2332d of Title 18, Crimes and Criminal Procedure, and amended [section 372 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section372&num=0&edition=prelim).
 
 
 <a id="section-2332"></a>
 ## § 2332. Rapid response information system
 **(a) Inventory of rapid response assets**
 
-(1) The head of each Federal Response Plan agency shall develop and maintain an inventory of physical equipment and assets under the jurisdiction of that agency that could be made available to aid State and local officials in search and rescue and other disaster management and mitigation efforts associated with an emergency involving weapons of mass destruction. The agency head shall submit a copy of the inventory, and any updates of the inventory, to the Administrator of the Federal Emergency Management Agency for inclusion in the master inventory required under subsection (b) of this section.
+(1) The head of each Federal Response Plan agency shall develop and maintain an inventory of physical equipment and assets under the jurisdiction of that agency that could be made available to aid State and local officials in search and rescue and other disaster management and mitigation efforts associated with an emergency involving weapons of mass destruction. The agency head shall submit a copy of the inventory, and any updates of the inventory, to the Administrator of the Federal Emergency Management Agency for inclusion in the master inventory required under subsection (b).
 
 (2) Each inventory shall include a separate listing of any equipment that is excess to the needs of that agency and could be considered for disposal as excess or surplus property for use for response and training with regard to emergencies involving weapons of mass destruction.
 
-**(b) Master inventory** The Administrator of the Federal Emergency Management Agency shall compile and maintain a comprehensive listing of all inventories prepared under subsection (a) of this section. The first such master list shall be completed not later than December 31, 1997, and shall be updated annually thereafter.
+**(b) Master inventory** The Administrator of the Federal Emergency Management Agency shall compile and maintain a comprehensive listing of all inventories prepared under subsection (a). The first such master list shall be completed not later than December 31, 1997, and shall be updated annually thereafter.
 
-**(c) Addition to Federal response plan** Not later than December 31, 1997, the Administrator of the Federal Emergency Management Agency shall develop and incorporate into existing Federal emergency response plans and programs prepared under [section 5196(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5196/b&num=0&edition=prelim) guidance on accessing and using the physical equipment and assets included in the master list developed under subsection 11 So in original. Probably should be “subsection (b) of this section”. to respond to emergencies involving weapons of mass destruction.
+**(c) Addition to Federal response plan** Not later than December 31, 1997, the Administrator of the Federal Emergency Management Agency shall develop and incorporate into existing Federal emergency response plans and programs prepared under [section 5196(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5196/b&num=0&edition=prelim) guidance on accessing and using the physical equipment and assets included in the master list developed under subsection 11 So in original. Probably should be “subsection (b)”. to respond to emergencies involving weapons of mass destruction.
 
 **(d) Database on chemical and biological materials** The Administrator of the Federal Emergency Management Agency, in consultation with the Secretary of Defense, shall prepare a database on chemical and biological agents and munitions characteristics and safety precautions for civilian use. The initial design and compilation of the database shall be completed not later than December 31, 1997.
 
@@ -416,7 +331,7 @@ Section 301, referred to in text, is section 301 of Pub. L. 104–201, div. A, t
 
 **(b) Urging of revision to guidelines** Congress urges the United States Sentencing Commission to revise the relevant sentencing guidelines to provide for increased penalties for offenses relating to importation, attempted importation, exportation, and attempted exportation of nuclear, biological, or chemical weapons or related materials or technologies under the following provisions of law:
 
-(1) Section 2410 of the Appendix to this title.
+(1) [Section 4610 of this title](./chapter-056-export-administration.md#section-4610).
 
 (2) Sections 2778 and 2780 of title 22.
 
@@ -438,19 +353,22 @@ Section is comprised of section 1423 of Pub. L. 104–201 which also enacted pro
 
 <a id="section-2341"></a>
 ## § 2341. International border security
-**(a) Secretary of Defense responsibility** The Secretary of Defense, in consultation and cooperation with the Commissioner of Customs, shall carry out programs for assisting customs officials and border guard officials in the independent states of the former Soviet Union, the Baltic states, and other countries of Eastern Europe in preventing unauthorized transfer and transportation of nuclear, biological, and chemical weapons and related materials. Training, expert advice, maintenance of equipment, loan of equipment, and audits may be provided under or in connection with the programs.
+**(a) Secretary of Defense responsibility** The Secretary of Defense, in consultation and cooperation with the Commissioner of U.S. Customs and Border Protection, shall carry out programs for assisting customs officials and border guard officials in the independent states of the former Soviet Union, the Baltic states, and other countries of Eastern Europe in preventing unauthorized transfer and transportation of nuclear, biological, and chemical weapons and related materials. Training, expert advice, maintenance of equipment, loan of equipment, and audits may be provided under or in connection with the programs.
 
-**(b) Other countries** The Secretary of Defense may carry out programs under subsection (a) of this section in a country other than a country specified in that subsection if the Secretary determines that there exists in that country a significant threat of the unauthorized transfer and transportation of nuclear, biological, or chemical weapons or related materials.
+**(b) Other countries** The Secretary of Defense may carry out programs under subsection (a) in a country other than a country specified in that subsection if the Secretary determines that there exists in that country a significant threat of the unauthorized transfer and transportation of nuclear, biological, or chemical weapons or related materials.
 
-**(c) Assistance to states of former Soviet Union** Assistance under programs referred to in subsection (a) of this section may (notwithstanding any provision of law prohibiting the extension of foreign assistance to any of the newly independent states of the former Soviet Union) be extended to include an independent state of the former Soviet Union if the President certifies to Congress that it is in the national interest of the United States to extend assistance under this section to that state.
+**(c) Assistance to states of former Soviet Union** Assistance under programs referred to in subsection (a) may (notwithstanding any provision of law prohibiting the extension of foreign assistance to any of the newly independent states of the former Soviet Union) be extended to include an independent state of the former Soviet Union if the President certifies to Congress that it is in the national interest of the United States to extend assistance under this section to that state.
 
 ### Statutory Notes
 
 #### Amendments
-2004—Subsec. (b). Pub. L. 108–375 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Of the total amount authorized to be appropriated by section 301, $15,000,000 is available for carrying out the programs referred to in subsection (a) of this section.”
+2004—Subsec. (b). Pub. L. 108–375 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Of the total amount authorized to be appropriated by section 301, $15,000,000 is available for carrying out the programs referred to in subsection (a).”
+
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (a) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Delegation of Authority
 Memorandum of President of the United States, July 24, 1997, 62 F.R. 40727, provided:
@@ -498,7 +416,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 **(c) Submission of program plan to Congress** Not later than 180 days after September 23, 1996, the Secretary of Defense shall submit to Congress—
 
-(1) a plan for the program under subsection (a) of this section;
+(1) a plan for the program under subsection (a);
 
 (2) an estimate of the United States funding that is necessary for carrying out the activities under the program for each fiscal year covered by the program; and
 
@@ -509,7 +427,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 ## § 2344. Cooperative program on research, development, and demonstration of technology regarding nuclear or radiological terrorism
 **(a) Program required** The Administrator for Nuclear Security shall carry out with the Russian Federation a cooperative program on the research, development, and demonstration of technologies for protection from and response to nuclear or radiological terrorism.
 
-**(b) Program elements** In carrying out the program required by subsection (a) of this section, the Administrator shall—
+**(b) Program elements** In carrying out the program required by subsection (a), the Administrator shall—
 
 (1) conduct research and development of technology for protection from nuclear or radiological terrorism, including technology for the detection, identification, assessment, control, and disposition of radiological materials that could be used for nuclear terrorism; and
 
@@ -525,7 +443,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
   (E) in coordination with the Office of Environment, Safety, and Health of the Department of Energy, the demonstration of methodologies developed under the program to facilitate development of consistent criteria for screening international transfers of radiological materials.
 
-**(c) Consultation** In carrying out activities in accordance with subsection (b)(2) of this section, the Administrator shall consult with—
+**(c) Consultation** In carrying out activities in accordance with subsection (b)(2), the Administrator shall consult with—
 
 (1) the Secretary of Defense, Secretary of State, and Secretary of Commerce; and
 
@@ -624,7 +542,7 @@ Section was enacted as part of the Bob Stump National Defense Authorization Act 
 
 (3) taking such actions as are necessary to ensure that there is appropriate emphasis in, cooperation on, and coordination of, nonproliferation research efforts of the United States, including activities of Federal agencies as well as activities of contractors funded by the Federal Government.
 
-**(c) Allocation of funds** Of the total amount authorized to be appropriated under section 301,11 See References in Text note below. $2,000,000 is available to the Department of Defense for carrying out research referred to in subsection (b)(3) of this section.
+**(c) Allocation of funds** Of the total amount authorized to be appropriated under section 301,11 See References in Text note below. $2,000,000 is available to the Department of Defense for carrying out research referred to in subsection (b)(3).
 
 ### Statutory Notes
 
@@ -737,11 +655,11 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **(c) Report**
 
-(1) At the same time that the President submits the budget for fiscal year 1998 to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the President shall submit to Congress a report that sets forth the comprehensive program developed under subsection (a) of this section.
+(1) At the same time that the President submits the budget for fiscal year 1998 to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the President shall submit to Congress a report that sets forth the comprehensive program developed under subsection (a).
 
 (2) The report shall include the following:
 
-  (A) The specific plans for the program that are required under subsection (b) of this section.
+  (A) The specific plans for the program that are required under subsection (b).
 
   (B) Estimates of the funds necessary, by agency or department, for carrying out such plans in fiscal year 1998 and the following five fiscal years.
 
@@ -803,7 +721,7 @@ Committee on International Relations of House of Representatives changed to Comm
 ## § 2357d. Establishment of Committee on Nonproliferation Assistance
 **(a) In general** The President shall establish a mechanism to coordinate, with the maximum possible effectiveness and efficiency, the efforts of United States Government departments and agencies engaged in formulating policy and carrying out programs for achieving nonproliferation and threat reduction.
 
-**(b) Membership** The coordination mechanism established pursuant to subsection (a) of this section shall include—
+**(b) Membership** The coordination mechanism established pursuant to subsection (a) shall include—
 
 (1) representatives designated by—
 
@@ -821,9 +739,9 @@ Committee on International Relations of House of Representatives changed to Comm
 
 (2) such other executive branch officials as the President may select.
 
-**(c) Level of representation** To the maximum extent possible, each department 11 So in original. Probably should be “department’s”. or agency’s representative designated pursuant to subsection (b)(1) of this section shall be an official of that department or agency who has been appointed by the President with the advice and consent of the Senate.
+**(c) Level of representation** To the maximum extent possible, each department 11 So in original. Probably should be “department’s”. or agency’s representative designated pursuant to subsection (b)(1) shall be an official of that department or agency who has been appointed by the President with the advice and consent of the Senate.
 
-**(d) Chair** The President shall designate an official to direct the coordination mechanism established pursuant to subsection (a) of this section. The official so designated may invite the head of any other department or agency of the United States to designate a representative of that department or agency to participate from time to time in the activities of the Committee.
+**(d) Chair** The President shall designate an official to direct the coordination mechanism established pursuant to subsection (a). The official so designated may invite the head of any other department or agency of the United States to designate a representative of that department or agency to participate from time to time in the activities of the Committee.
 
 ### Statutory Notes
 
@@ -847,7 +765,7 @@ Pub. L. 107–228, div. B, title XIII, subtitle B, Sept. 30, 2002, 116 Stat. 144
 
   (B) coordinating the implementation of United States policy with respect to such efforts.
 
-**(b) Authority** In carrying out the responsibilities described in subsection (a) of this section, the coordination mechanism established pursuant to [section 2357b of this title](./chapter-040-defense-against-weapons-of-mass-destruction.md#section-2357b) should have, at a minimum, the authority to—
+**(b) Authority** In carrying out the responsibilities described in subsection (a), the coordination mechanism established pursuant to [section 2357b of this title](./chapter-040-defense-against-weapons-of-mass-destruction.md#section-2357b) should have, at a minimum, the authority to—
 
 (1) establish such subcommittees and working groups as it deems necessary;
 
@@ -905,9 +823,9 @@ It is the sense of Congress that the Secretary of Defense, the Secretary of Ener
 
 (1) contract directly with suppliers in independent states of the former Soviet Union when such action would—
 
-  (A) result in significant savings of the programs referred to in subchapter III of this chapter; and
+  (A) result in significant savings of the programs referred to in subchapter III; and
 
-  (B) substantially expedite completion of the programs referred to in subchapter III of this chapter; and
+  (B) substantially expedite completion of the programs referred to in subchapter III; and
 
 (2) seek means to use innovative contracting approaches to avoid delay and increase the effectiveness of such programs and of the exercise of such authorities.
 
@@ -1024,13 +942,21 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 #### Amendments
 2013—Pub. L. 112–239 amended section generally. Prior to amendment, section related to annual report on threat posed to United States by weapons of mass destruction, ballistic missiles, and cruise missiles.
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim), Armed Forces.
+
+#### Development of Strategy on Risks to Nonproliferation Caused by Additive Manufacturing
+Pub. L. 114–92, div. C, title XXXI, § 3139, Nov. 25, 2015, 129 Stat. 1215, as amended by Pub. L. 114–328, div. C, title XXXI, § 3137(d), Dec. 23, 2016, 130 Stat. 2772, provided that: “(a) Strategy.—The President shall develop and pursue a strategy to address the risks to the goals and policies of the United States regarding nuclear nonproliferation that are caused by the increased use of additive manufacture technology (commonly referred to as ‘3D printing’), including such technology that does not originate in the United States. “(b) Briefings.—“(1) In general.—Not later than March 31, 2016, and annually thereafter through 2019, the President shall provide to the appropriate congressional committees a briefing on the strategy developed under subsection (a). “(2) Interim briefings.—In addition to the briefings required by paragraph (1), the President shall provide to the appropriate congressional committees a notification or briefing if there is a development in additive manufacture technology, or increased use of additive manufacture technology, that could pose an increased risk to the United States from nuclear proliferation. “(c) Pursuit of Strategy.—The President shall pursue the strategy developed under subsection (a) at the Nuclear Security Summit in Chicago, Illinois, in 2016. “(d) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means the following:“(1) The congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]. “(2) The Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate. “(3) The Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.”
+
+[Memorandum of President of the United States, Mar. 18, 2016, 81 F.R. 15419, delegated to the Director of National Intelligence and the Under Secretary for Nuclear Security the functions and authorities vested in the President by section 3139(a) and (b) of Pub. L. 114–92, set out above.]
+
 #### Report on Iran’s Capability To Produce Nuclear Weapons
 Pub. L. 110–417, [div. A], title XII, § 1234, Oct. 14, 2008, 122 Stat. 4640, provided that: “(a) Report Required.—Not later than 180 days after the date of the enactment of this Act [Oct. 14, 2008], and annually thereafter, the Director of National Intelligence shall submit to Congress a report on Iran’s capability to produce nuclear weapons. The report required under this subsection may be submitted in classified form. “(b) Matters to Be Included.—The report required under subsection (a) shall include the following:“(1) The locations, types, and number of centrifuges and other specialized equipment necessary for the enrichment of uranium and any plans to acquire, manufacture, and operate such equipment in the future. “(2) An estimate of the amount, if any, of highly enriched uranium and weapons grade plutonium acquired or produced to date, an estimate of the amount of weapons grade plutonium that is likely to be produced or acquired in the near- and midterms and the amount of highly enriched uranium that is likely to be produced or acquired in the near- and midterms, and the number of nuclear weapons that could be produced with such materials. “(3) A evaluation of the extent to which security and safeguards at any nuclear site prevent, slow, verify, or help monitor the enrichment of uranium or the reprocessing of plutonium into weapons-grade materials. “(4) A description of any weaponization activities, such as the research, design, development, or testing of nuclear weapons or weapons-related components. “(5) A description of any programs to construct, acquire, test, or improve methods to deliver nuclear weapons, including an assessment of the likely progress of such programs in the near- and mid-terms. “(6) A summary of assessments made by allies of the United States of Iran’s nuclear weapons program and nuclear-capable delivery systems programs. “(c) Notification.—The President shall notify Congress, in writing, within 15 days of determining that—“(1) Iran has resumed a nuclear weapons program; “(2) Iran has met or surpassed any major milestone in its nuclear weapons program; or “(3) Iran has undertaken to accelerate, decelerate, or cease the development of any significant element within its nuclear weapons program.”
 
 
 <a id="section-2370"></a>
 ## § 2370. Annual reports on the proliferation of missiles and essential components of nuclear, biological, chemical, and radiological weapons
-**(a) Report** Not later than March 1, 2003, and annually thereafter, the President shall transmit to the designated congressional committees an annual report on the transfer by any country of weapons, technology, components, or materials that can be used to deliver, manufacture (including research and experimentation), or weaponize nuclear, biological, chemical or radiological weapons (in this section referred to as “NBC weapons”) to any country other than a country referred to in subsection (d) of this section that is seeking to possess or otherwise acquire such weapons, technology, or materials, or other system that the Secretary or the Secretary of Defense has reason to believe could be used to develop, acquire, or deliver NBC weapons.
+**(a) Report** Not later than March 1, 2003, and annually thereafter, the President shall transmit to the designated congressional committees an annual report on the transfer by any country of weapons, technology, components, or materials that can be used to deliver, manufacture (including research and experimentation), or weaponize nuclear, biological, chemical or radiological weapons (in this section referred to as “NBC weapons”) to any country other than a country referred to in subsection (d) that is seeking to possess or otherwise acquire such weapons, technology, or materials, or other system that the Secretary or the Secretary of Defense has reason to believe could be used to develop, acquire, or deliver NBC weapons.
 
 **(b) Matters to be included** Each such report shall include—
 
@@ -1062,13 +988,13 @@ Pub. L. 110–417, [div. A], title XII, § 1234, Oct. 14, 2008, 122 Stat. 4640, 
 
 (7) An analysis of the effectiveness of the regulatory and enforcement regimes of the United States and other countries that adhere to the MTCR and other arrangements affecting the acquisition and delivery of NBC weapons in controlling the export of MTCR and other NBC weapons and delivery system equipment or technology.
 
-(8) A summary of advisory opinions issued under section 2410b(b)(4) of the Appendix to this title and under [section 2797b(d) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2797b/d&num=0&edition=prelim).
+(8) A summary of advisory opinions issued under [section 4612(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4612/b/4&num=0&edition=prelim) and under [section 2797b(d) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2797b/d&num=0&edition=prelim).
 
 (9) An explanation of United States policy regarding the transfer of MTCR equipment or technology to foreign missile programs, including programs involving launches of space vehicles.
 
 (10) A description of each transfer by any person or government during the preceding 12-month period which is subject to sanctions under the Iran-Iraq Arms Non-Proliferation Act of 1992 (title XVI of Public Law 102–484).
 
-**(d) Exclusions** The countries excluded under subsection (a) of this section are Australia, Belgium, Canada, the Czech Republic, Denmark, France, Germany, Greece, Hungary, Iceland, Italy, Japan, Luxembourg, the Netherlands, New Zealand, Norway, Poland, Portugal, Spain, Turkey, the United Kingdom, and the United States.
+**(d) Exclusions** The countries excluded under subsection (a) are Australia, Belgium, Canada, the Czech Republic, Denmark, France, Germany, Greece, Hungary, Iceland, Italy, Japan, Luxembourg, the Netherlands, New Zealand, Norway, Poland, Portugal, Spain, Turkey, the United Kingdom, and the United States.
 
 **(e) Classification of report** The Secretary shall make every effort to submit all of the information required by this section in unclassified form. Whenever the Secretary submits any such information in classified form, the Secretary shall submit such classified information in an addendum and shall also submit concurrently a detailed summary, in unclassified form, of that classified information.
 
@@ -1111,4 +1037,4 @@ For definition of “Secretary” as used in this section, see section 3 of Pub.
 
 ### Statutory Notes
 
-Section, Pub. L. 104–293, title VII, § 722, as added Pub. L. 107–314, div. A, title XII, § 1209(a), Dec. 2, 2002, 116 Stat. 2668, related to semiannual report on contributions of foreign persons to weapons of mass destruction and delivery systems efforts of countries of proliferation concern. See [section 2371 of this title](./chapter-040-defense-against-weapons-of-mass-destruction.md#section-2371).
+Section, Pub. L. 104–293, title VII, § 722, as added Pub. L. 107–314, div. A, title XII, § 1209(a), Dec. 2, 2002, 116 Stat. 2668, related to semiannual report on contributions of foreign persons to weapons of mass destruction and delivery systems efforts of countries of proliferation concern.

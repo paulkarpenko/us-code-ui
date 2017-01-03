@@ -2,14 +2,14 @@
 title: 14
 chapter: '3'
 heading: COMPOSITION AND ORGANIZATION
-section_count: 20
+section_count: 21
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
 <a id="section-41"></a>
 ## § 41. Grades and ratings
 
-In the Coast Guard there shall be an admiral, vice admirals; rear admirals; rear admirals (lower half); captains; commanders; lieutenant commanders; lieutenants; lieutenants (junior grade); ensigns; chief warrant officers; cadets; warrant officers; and enlisted members. Enlisted members shall be distributed in ratings established by the Secretary.
+In the Coast Guard there shall be admirals (two); vice admirals; rear admirals; rear admirals (lower half); captains; commanders; lieutenant commanders; lieutenants; lieutenants (junior grade); ensigns; chief warrant officers; cadets; warrant officers; and enlisted members. Enlisted members shall be distributed in ratings established by the Secretary.
 
 ### Statutory Notes
 
@@ -28,6 +28,8 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 | 41 | 14:41. 34:135a(a) (less last sentence, as applicable to temporary appointments). | Aug. 4, 1949, ch. 393, § 1(41), 63 Stat. 497. May 29, 1954, ch. 249, § 3(a) (less 3d and last sentences, as applicable to temporary appointments), 68 Stat. 157. |
 
 #### Amendments
+2016—Pub. L. 114–120 substituted “admirals (two);” for “an admiral,”.
+
 1994—Pub. L. 103–337 substituted “chief warrant officers; cadets; warrant officers;” for “chief warrant officers, W–4; chief warrant officers, W–3; chief warrant officers, W–2; cadets; warrant officers, W–1;”.
 
 1985—Pub. L. 99–145 substituted “rear admirals (lower half)” for “commodores”.
@@ -207,7 +209,7 @@ Section, act Aug. 4, 1949, ch. 393, 63 Stat. 498, related to permanent grade of 
 
 <a id="section-46"></a>
 ## § 46. Retirement of Commandant
-**(a)** A Commandant who is not reappointed shall be retired with the grade of admiral at the expiration of the appointed term, except as provided in subsection 11 So in original. Probably should be “section”. 51(d) of this title.
+**(a)** A Commandant who is not reappointed shall be retired with the grade of admiral at the expiration of the appointed term, except as provided in [section 51(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section51/d&num=0&edition=prelim).
 
 **(b)** A Commandant who is retired for physical disability shall be placed on the retired list with the grade of admiral.
 
@@ -221,6 +223,8 @@ Based on title 14, U.S.C., 1946 ed., § 161 (Jan. 12, 1923, ch. 25, § 2, 42 Sta
 Provision is added for retirement of the Commandant with the grade and pay of vice admiral after 3 years service, in the discretion of the President, regardless of total length of service. Provision is also added for retirement with the grade and pay of vice admiral in case of physical disability. 81st Congress, House Report No. 557.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–120 substituted “section” for “subsection”.
+
 1993—Subsec. (a). Pub. L. 103–206 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any Commandant who is not reappointed shall, at the expiration of his term, be retired with the grade of admiral.”
 
 1986—Pub. L. 99–348 struck out “and retired pay computed at the highest rates of basic pay applicable to him while he served as Commandant” after “admiral” in subsecs. (a) to (c).
@@ -237,9 +241,9 @@ Subsec. (d). Pub. L. 89–444, § 1(5), repealed subsec. (d) which provided that
 
 
 <a id="section-47"></a>
-## § 47. Vice commandant; 11 So in original. Probably should be capitalized. appointment
+## § 47. Vice Commandant; appointment
 
-The President may appoint, by and with the advice and consent of the Senate, one Vice Commandant who shall rank next after the Commandant, shall perform such duties as the Commandant may prescribe and shall act as Commandant during the absence or disability of the Commandant or in the event that there is a vacancy in the office of Commandant. The Vice Commandant shall be selected from the officers on the active duty promotion list serving above the grade of captain. The Commandant shall make recommendation for such appointment. The Vice Commandant shall, while so serving, have the grade of vice admiral with pay and allowances of that grade. The appointment and grade of a Vice Commandant shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in [section 51(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section51/d&num=0&edition=prelim).
+The President may appoint, by and with the advice and consent of the Senate, one Vice Commandant who shall rank next after the Commandant, shall perform such duties as the Commandant may prescribe and shall act as Commandant during the absence or disability of the Commandant or in the event that there is a vacancy in the office of Commandant. The Vice Commandant shall be selected from the officers on the active duty promotion list serving above the grade of captain. The Commandant shall make recommendation for such appointment. The Vice Commandant shall, while so serving, have the grade of admiral with pay and allowances of that grade. The appointment and grade of a Vice Commandant shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in [section 51(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section51/d&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -251,6 +255,10 @@ Said sections have been divided. The provisions of the proviso of title 14, U.S.
 The provisions regarding appointment of the Assistant Commandant and Engineer in Chief are coordinated, inasmuch as these positions are about equal in the Coast Guard organization. The qualification that the Engineer in Chief be appointed from the active list of engineering officers is changed to the active list of officers who have qualified for engineering duty, because there is no longer any provision for a corps of engineering officers. 81st Congress, House Report No. 557.
 
 #### Amendments
+2016—Pub. L. 114–120, § 209(3), substituted “Commandant” for “commandant” in heading.
+
+Pub. L. 114–120, § 201(b), substituted “admiral” for “vice admiral”.
+
 2010—Pub. L. 111–281 substituted “Vice commandant; appointment” for “Vice Commandant; assignment” in section catchline and “section 51(d)” for “subsection 51(d)” in text.
 
 1993—Pub. L. 103–206 struck out “; retirement” after “assignment” in section catchline, struck out “(a)” before “The President may appoint”, substituted “The appointment and grade of a Vice Commandant shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in sub[section 51(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section51/d&num=0&edition=prelim).” for “The appointment of a Vice Commandant shall be effective on the date the officer assumes such duty, and shall terminate on the date he is detached from such duty.”, and struck out subsecs. (b) to (d) which read as follows:
@@ -304,17 +312,21 @@ Section 49, act Aug. 4, 1949, ch. 393, 63 Stat. 499, related to grade and retire
 ## § 50. Vice admirals
 **(a)**
 
-(1) The President may designate no more than 4 positions of importance and responsibility that shall be held by officers who—
+(1) The President may—
 
-  (A) while so serving, shall have the grade of vice admiral, with the pay and allowances of that grade; and
+  (A) designate, within the Coast Guard, no more than five positions of importance and responsibility that shall be held by officers who, while so serving—
 
-  (B) shall perform such duties as the Commandant may prescribe.
+    (i) shall have the grade of vice admiral, with the pay and allowances of that grade; and
+
+    (ii) shall perform such duties as the Commandant may prescribe, except that if the President designates five such positions, one position shall be the Chief of Staff of the Coast Guard; and
+
+  (B) designate, within the executive branch, other than within the Coast Guard or the National Oceanic and Atmospheric Administration, positions of importance and responsibility that shall be held by officers who, while so serving, shall have the grade of vice admiral, with the pay and allowances of that grade.
 
 (2) The President may appoint, by and with the advice and consent of the Senate, and reappoint, by and with the advice and consent of the Senate, to any such position an officer of the Coast Guard who is serving on active duty above the grade of captain. The Commandant shall make recommendations for such appointments.
 
 (3)
 
-  (A) Except as provided in subparagraph (B), one of the vice admirals designated under paragraph (1) must have at least 10 years experience in vessel inspection, marine casualty investigations, mariner licensing, or an equivalent technical expertise in the design and construction of commercial vessels, with at least 4 years of leadership experience at a staff or unit carrying out marine safety functions and shall serve as the principal advisor to the Commandant on these issues.
+  (A) Except as provided in subparagraph (B), one of the vice admirals designated under paragraph (1)(A) must have at least 10 years experience in vessel inspection, marine casualty investigations, mariner licensing, or an equivalent technical expertise in the design and construction of commercial vessels, with at least 4 years of leadership experience at a staff or unit carrying out marine safety functions and shall serve as the principal advisor to the Commandant on these issues.
 
   (B) The requirements of subparagraph (A) do not apply to such vice admiral if the subordinate officer serving in the grade of rear admiral with responsibilities for marine safety, security, and stewardship possesses that experience.
 
@@ -326,9 +338,11 @@ Section 49, act Aug. 4, 1949, ch. 393, 63 Stat. 499, related to grade and retire
 
   (A) while under orders transferring the officer to another position designated under subsection (a), beginning on the date the officer is detached from that duty and terminating on the date before the day the officer assumes the subsequent duty, but not for more than 60 days;
 
-  (B) while hospitalized, beginning on the day of the hospitalization and ending on the day the officer is discharged from the hospital, but not for more than 180 days; and
+  (B) while hospitalized, beginning on the day of the hospitalization and ending on the day the officer is discharged from the hospital, but not for more than 180 days;
 
-  (C) while awaiting retirement, beginning on the date the officer is detached from duty and ending on the day before the officer’s retirement, but not for more than 60 days.
+  (C) at the discretion of the Secretary, while awaiting orders after being relieved from the position, beginning on the day the officer is relieved from the position, but not for more than 60 days; and
+
+  (D) while awaiting retirement, beginning on the date the officer is detached from duty and ending on the day before the officer’s retirement, but not for more than 60 days.
 
 **(c)**
 
@@ -341,6 +355,16 @@ Section 49, act Aug. 4, 1949, ch. 393, 63 Stat. 499, related to grade and retire
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–120, § 202(1)(A), added par. (1) and struck out former par. (1) which read as follows: “The President may designate no more than 4 positions of importance and responsibility that shall be held by officers who—
+
+“(A) while so serving, shall have the grade of vice admiral, with the pay and allowances of that grade; and
+
+“(B) shall perform such duties as the Commandant may prescribe.”
+
+Subsec. (a)(3)(A). Pub. L. 114–120, § 202(1)(B), substituted “under paragraph (1)(A)” for “under paragraph (1)”.
+
+Subsec. (b)(2)(C), (D). Pub. L. 114–120, § 202(2), added subpar. (C) and redesignated former subpar. (C) as (D).
+
 2010—Pub. L. 111–281, § 511(a), as amended by Pub. L. 111–330, amended section generally. Prior to amendment, section provided for the appointment of a Commander, Atlantic Area, and a Commander, Pacific Area, each having the grade of vice admiral with pay and allowances of that grade.
 
 1993—Subsec. (b). Pub. L. 103–206 substituted “The appointment and grade of an area commander shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in sub[section 51(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section51/d&num=0&edition=prelim).” for “The appointment of an area commander is effective on the date the officer assumes that duty, and terminates on the date he is detached from that duty.”
@@ -365,11 +389,11 @@ Section, added Pub. L. 103–206, title II, § 205(b)(1), Dec. 20, 1993, 107 Sta
 
 <a id="section-51"></a>
 ## § 51. Retirement
-**(a)** An officer, other than the Commandant, who, while serving in the grade of vice admiral, is retired for physical disability shall be placed on the retired list with the highest grade in which that officer served.
+**(a)** An officer, other than the Commandant, who, while serving in the grade of admiral or vice admiral, is retired for physical disability shall be placed on the retired list with the highest grade in which that officer served.
 
-**(b)** An officer, other than the Commandant, who is retired while serving in the grade of vice admiral, or who, after serving at least 2½ years in the grade of vice admiral, is retired while serving in a lower grade, may in the discretion of the President, be retired with the highest grade in which that officer served.
+**(b)** An officer, other than the Commandant, who is retired while serving in the grade of admiral or vice admiral, or who, after serving at least 2½ years in the grade of admiral or vice admiral, is retired while serving in a lower grade, may in the discretion of the President, be retired with the highest grade in which that officer served.
 
-**(c)** An officer, other than the Commandant, who, after serving less than 2½ years in the grade of vice admiral, is retired while serving in a lower grade, shall be retired in his permanent grade.
+**(c)** An officer, other than the Commandant, who, after serving less than 2½ years in the grade of admiral or vice admiral, is retired while serving in a lower grade, shall be retired in his permanent grade.
 
 **(d)** An officer serving in the grade of admiral or vice admiral shall continue to hold that grade—
 
@@ -380,6 +404,8 @@ Section, added Pub. L. 103–206, title II, § 205(b)(1), Dec. 20, 1993, 107 Sta
 ### Statutory Notes
 
 #### Amendments
+2016—Subsecs. (a) to (c). Pub. L. 114–120 inserted “admiral or” before “vice admiral,” wherever appearing.
+
 2010—Subsecs. (a) to (c). Pub. L. 111–281, § 511(c)(1), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which read as follows:
 
 “(a) An officer who, while serving in the grade of vice admiral, is retired for physical disability shall be placed on the retired list with the grade of vice admiral.
@@ -500,11 +526,26 @@ Section, added Pub. L. 111–281, title II, § 214(a), Oct. 15, 2010, 124 Stat. 
 
 (7) assessing the requirements established for Coast Guard personnel regarding knowledge and skill in acquisition resources and management and the adequacy of such requirements for facilitating the achievement of the performance goals established for acquisition management;
 
-(8) developing strategies and specific plans for hiring, training, and professional development; and
+(8) developing strategies and specific plans for hiring, training, and professional development;
 
-(9) reporting to the Commandant, through the chain of command, on the progress made in improving acquisition management capability.
+(9) reporting to the Commandant, through the chain of command, on the progress made in improving acquisition management capability; and
+
+(10)
+
+  (A) keeping the Commandant informed of the progress of major acquisition programs (as that term is defined in section 581);
+
+  (B) informing the Commandant on a continuing basis of any developments on such programs that may require new or revisited trade-offs among cost, schedule, technical feasibility, and performance, including—
+
+    (i) significant cost growth or schedule slippage; and
+
+    (ii) requirements creep (as that term is defined in [section 2547(c)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2547/c/1&num=0&edition=prelim)); and
+
+  (C) ensuring that the views of the Commandant regarding such programs on cost, schedule, technical feasibility, and performance trade-offs are strongly considered by program managers and program executive officers in all phases of the acquisition process.
 
 ### Statutory Notes
+
+#### Amendments
+2016—Subsec. (c)(10). Pub. L. 114–328 added par. (10).
 
 #### Selection Deadline
 Pub. L. 111–281, title IV, § 401(c), Oct. 15, 2010, 124 Stat. 2930, provided that: “As soon as practicable after the date of enactment of this Act [Oct. 15, 2010], but no later than October 1, 2011, the Commandant of the Coast Guard shall select a Chief Acquisition Officer under [section 56 of title 14](./chapter-003-composition-and-organization.md#section-56), United States Code, as amended by this section.”
@@ -643,3 +684,53 @@ The Commandant shall, by policy, establish a program under which an officer, mem
 “(1) the number of officers, members, and employees of the Coast Guard assigned to private entities under this section; and
 
 “(2) the specific benefit that accrues to the Coast Guard for each assignment.”
+
+
+<a id="section-60"></a>
+## § 60. Training course on workings of Congress
+**(a) In General.—** Not later than 180 days after the date of the enactment of the Coast Guard Authorization Act of 2016, the Commandant, in consultation with the Superintendent of the Coast Guard Academy and such other individuals and organizations as the Commandant considers appropriate, shall develop a training course on the workings of the Congress and offer that training course at least once each year.
+
+**(b) Course Subject Matter.—** The training course required by this section shall provide an overview and introduction to the Congress and the Federal legislative process, including—
+
+(1) the history and structure of the Congress and the committee systems of the House of Representatives and the Senate, including the functions and responsibilities of the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate;
+
+(2) the documents produced by the Congress, including bills, resolutions, committee reports, and conference reports, and the purposes and functions of those documents;
+
+(3) the legislative processes and rules of the House of Representatives and the Senate, including similarities and differences between the two processes and rules, including—
+
+  (A) the congressional budget process;
+
+  (B) the congressional authorization and appropriation processes;
+
+  (C) the Senate advice and consent process for Presidential nominees;
+
+  (D) the Senate advice and consent process for treaty ratification;
+
+(4) the roles of Members of Congress and congressional staff in the legislative process; and
+
+(5) the concept and underlying purposes of congressional oversight within our governance framework of separation of powers.
+
+**(c) Lecturers and Panelists.—**
+
+(1) **Outside experts.—** — The Commandant shall ensure that not less than 60 percent of the lecturers, panelists, and other individuals providing education and instruction as part of the training course required by this section are experts on the Congress and the Federal legislative process who are not employed by the executive branch of the Federal Government.
+
+(2) **Authority to accept pro bono services.—** — In satisfying the requirement under paragraph (1), the Commandant shall seek, and may accept, educational and instructional services of lecturers, panelists, and other individuals and organizations provided to the Coast Guard on a pro bono basis.
+
+**(d) Completion of Required Training.—**
+
+(1) **Current flag officers and employees.—** — A Coast Guard flag officer appointed or assigned to a billet in the National Capital Region on the date of the enactment of this section, and a Coast Guard Senior Executive Service employee employed in the National Capital Region on the date of the enactment of this section, shall complete a training course that meets the requirements of this section within 60 days after the date on which the Commandant completes the development of the training course.
+
+(2) **New flag officers and employees.—** — A Coast Guard flag officer who is newly appointed or assigned to a billet in the National Capital Region, and a Coast Guard Senior Executive Service employee who is newly employed in the National Capital Region, shall complete a training course that meets the requirements of this section not later than 60 days after reporting for duty.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the Coast Guard Authorization Act of 2016, referred to in subsec. (a), is the date of enactment of Pub. L. 114–120, which was approved Feb. 8, 2016.
+
+The date of the enactment of this section, referred to in subsec. (d)(1), is the date of enactment of Pub. L. 114–120, which was approved Feb. 8, 2016.
+
+#### Amendments
+2016—Subsec. (a). Pub. L. 114–328 substituted “Coast Guard Authorization Act of 2016” for “Coast Guard Authorization Act of 2015”.
+
+#### Effective Date of 2017 Amendment
+Pub. L. 114–328, div. C, title XXXV, § 3503(e), Dec. 23, 2016, 130 Stat. 2775, provided that: “The amendments made by this section [amending this section, sections 429, 676a, and 2702 of this title, sections 3104, 4503, and 7510 of Title 46, Shipping, and provisions set out as a note under [section 1151 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1151&num=0&edition=prelim), Conservation] shall take effect as if included in the enactment of Public Law 114–120 [Feb. 8, 2016].”

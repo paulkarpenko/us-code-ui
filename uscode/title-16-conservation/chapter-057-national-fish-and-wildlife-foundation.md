@@ -65,7 +65,7 @@ Pub. L. 98–244, § 1, Mar. 26, 1984, 98 Stat. 107, provided that: “This Act 
 
 (2) **Appointments by the Secretary of the Interior**
 
-  (A) *In general* — Subject to subparagraph (B), after consulting with the Secretary of Commerce and considering the recommendations submitted by the Board, the Secretary of the Interior shall appoint 23 Directors who meet the criteria established by subsection (a) of this section, of whom—
+  (A) *In general* — Subject to subparagraph (B), after consulting with the Secretary of Commerce and considering the recommendations submitted by the Board, the Secretary of the Interior shall appoint 23 Directors who meet the criteria established by subsection (a), of whom—
 
     (i) at least six shall be educated or experienced in fish, wildlife, or other natural resource conservation;
 
@@ -107,7 +107,7 @@ Pub. L. 98–244, § 1, Mar. 26, 1984, 98 Stat. 107, provided that: “This Act 
 
 **(d) Quorum** A majority of the current membership of the Board shall constitute a quorum for the transaction of business.
 
-**(e) Meetings** The Board shall meet at the call of the Chairman at least once a year. If a Director misses three consecutive regularly scheduled meetings, that individual may be removed from the Board and that vacancy filled in accordance with subsection (b) of this section.
+**(e) Meetings** The Board shall meet at the call of the Chairman at least once a year. If a Director misses three consecutive regularly scheduled meetings, that individual may be removed from the Board and that vacancy filled in accordance with subsection (b).
 
 **(f) Reimbursement of expenses** Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Foundation.
 
@@ -180,7 +180,7 @@ The serving of notice to, or service of process upon, the agent required under p
 
 (1) to accept, receive, solicit, hold, administer and use any gift, devise, or bequest, either absolutely or in trust, of real or personal property or any income therefrom or other interest therein;
 
-(2) to acquire by purchase or exchange any real or personal property or interest therein, subject to subsection (e) of this section;
+(2) to acquire by purchase or exchange any real or personal property or interest therein, subject to subsection (e);
 
 (3) to invest any funds provided to the Foundation by the Federal Government in obligations of the United States or in obligations or securities that are guaranteed or insured by the United States;
 
@@ -241,7 +241,7 @@ For purposes of this chapter, an interest in real property shall be treated as i
 
 (2)
 
-  (A) In a manner consistent with subsection (c)(1) of this section, the Foundation may—
+  (A) In a manner consistent with subsection (c)(1), the Foundation may—
 
     (i) accept, receive, solicit, hold, administer, and use any gift, devise, or bequest made to the Foundation for the express purpose of supporting whale conservation; and
 
@@ -261,7 +261,7 @@ For purposes of this chapter, an interest in real property shall be treated as i
 
   (B) most warrant, and are most likely to benefit from, research management, or educational activities that may be funded with amounts made available from the fund.
 
-**(g) Consultation** In carrying out any action on the part of the Foundation under subsection (f) of this section, the Directors of the Board shall consult with the Administrator of the National Oceanic and Atmospheric Administration and the Marine Mammal Commission.
+**(g) Consultation** In carrying out any action on the part of the Foundation under subsection (f), the Directors of the Board shall consult with the Administrator of the National Oceanic and Atmospheric Administration and the Marine Mammal Commission.
 
 **(h) Expenditures for printing services or capital equipment** The Foundation shall not make any expenditure of Federal funds in connection with any one transaction for printing services or capital equipment that is greater than $10,000 unless the expenditure is approved by the Federal agency that administers the Federal program under which the funds were provided.
 
@@ -300,7 +300,7 @@ Subsec. (i). Pub. L. 106–408, § 206, added subsec. (i).
 
 1988—Subsec. (a)(2). Pub. L. 100–240, § 1(b), inserted “and abroad” after “United States”.
 
-Subsec. (c)(2). Pub. L. 100–240, § 2(b), inserted “, subject to subsection (e) of this section” after “therein”.
+Subsec. (c)(2). Pub. L. 100–240, § 2(b), inserted “, subject to subsection (e)” after “therein”.
 
 Subsec. (e). Pub. L. 100–240, § 2(a), added subsec. (e).
 
@@ -315,7 +315,7 @@ Pub. L. 102–440, title III, § 304, Oct. 23, 1992, 106 Stat. 2235, which provi
 ## § 3704. Administrative services and support
 **(a) Provision of services** The Secretary may provide personnel, facilities, and other administrative services to the Foundation, including reimbursement of expenses under [section 3702 of this title](./chapter-057-national-fish-and-wildlife-foundation.md#section-3702), not to exceed then current Federal Government per diem rates, for a period of up to five years from March 26, 1984.
 
-**(b) Reimbursement** The Foundation may reimburse the Secretary for any administrative service provided under subsection (a) of this section. The Secretary shall deposit any reimbursement received under this subsection into the Treasury to the credit of the appropriations then current and chargeable for the cost of providing such services. Notwithstanding any other provision of this section, the Secretary of the Interior is authorized to continue to provide facilities, and necessary support services for such facilities, to the National Fish and Wildlife Foundation after March 26, 1989, on a space available, reimbursable cost basis.
+**(b) Reimbursement** The Foundation may reimburse the Secretary for any administrative service provided under subsection (a). The Secretary shall deposit any reimbursement received under this subsection into the Treasury to the credit of the appropriations then current and chargeable for the cost of providing such services. Notwithstanding any other provision of this section, the Secretary of the Interior is authorized to continue to provide facilities, and necessary support services for such facilities, to the National Fish and Wildlife Foundation after March 26, 1989, on a space available, reimbursable cost basis.
 
 ### Statutory Notes
 
@@ -396,7 +396,7 @@ The Congress expressly reserves the right to repeal or amend this chapter at any
 
 **(b) Additional authorization**
 
-(1) **In general** — In addition to the amounts authorized to be appropriated under subsection (a) of this section, the Foundation may accept Federal funds from a Federal agency under any other Federal law for use by the Foundation to further the conservation and management of fish, wildlife, plants, and other natural resources in accordance with the requirements of this chapter.
+(1) **In general** — In addition to the amounts authorized to be appropriated under subsection (a), the Foundation may accept Federal funds from a Federal agency under any other Federal law for use by the Foundation to further the conservation and management of fish, wildlife, plants, and other natural resources in accordance with the requirements of this chapter.
 
 (2) **Use of funds accepted from Federal agencies** — Federal funds provided to the Foundation under paragraph (1) shall be used by the Foundation for matching, in whole or in part, contributions (whether in currency, services, or property) made to the Foundation by private persons and State and local government agencies.
 

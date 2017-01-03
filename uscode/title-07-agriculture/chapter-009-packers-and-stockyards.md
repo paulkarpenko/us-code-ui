@@ -13,6 +13,9 @@ This chapter may be cited as the “Packers and Stockyards Act, 1921.”
 
 ### Statutory Notes
 
+#### Short Title of 2016 Amendment
+Pub. L. 114–237, § 1, Oct. 7, 2016, 130 Stat. 970, provided that: “This Act [amending sections 201 and 228b of this title] may be cited as the ‘Clarification of Treatment of Electronic Sales of Livestock Act of 2016’.”
+
 #### Short Title of 1987 Amendment
 Pub. L. 100–173, § 1, Nov. 23, 1987, 101 Stat. 917, provided that: “This Act [enacting sections 197 and 228b–1 to 228b–4 of this title, amending sections 182, 192, 209, 221, 223, 227, and 228a of this title, repealing sections 218 to 218d of this title, and enacting provisions set out as notes under sections 182 and 227 of this title] may be cited as the ‘Poultry Producers Financial Protection Act of 1987’.”
 
@@ -145,7 +148,7 @@ Par. (c). Pub. L. 100–173, § 3(2), struck out reference to poultry handlers w
 1935—Act Aug. 15, 1921, title V, § 503, as added Aug. 14, 1935, inserted “or any live poultry dealer or handler” after “packer” wherever appearing.
 
 #### Termination Date of 1999 Amendment
-Amendment by Pub. L. 106–78 to terminate Sept. 30, 2015, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
+Amendment by Pub. L. 106–78 to terminate Sept. 30, 2020, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 #### Effective Date of 1987 Amendment
 Amendment by Pub. L. 100–173 effective 90 days after Nov. 23, 1987, see section 12 of Pub. L. 100–173, set out as a note under [section 182 of this title](./chapter-009-packers-and-stockyards.md#section-182).
@@ -387,7 +390,7 @@ Except as provided in [section 198b(a) of this title](https://uscode.house.gov/v
 For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 #### Termination Date
-Part to terminate Sept. 30, 2015, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
+Part to terminate Sept. 30, 2020, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 
 <a id="section-198a"></a>
@@ -468,19 +471,29 @@ The Agricultural Marketing Act of 1946, referred to in subsec. (b)(2), is title 
 <a id="section-201"></a>
 ## § 201. “Stockyard owner”; “stockyard services”; “market agency”; “dealer”; defined
 
-When used in this chapter—
+In this chapter:
 
-**(a)** The term “stockyard owner” means any person engaged in the business of conducting or operating a stockyard;
+**(a)** The term “stockyard owner” means any person engaged in the business of conducting or operating a stockyard.
 
-**(b)** The term “stockyard services” means services or facilities furnished at a stockyard in connection with the receiving, buying, or selling on a commission basis or otherwise, marketing, feeding, watering, holding, delivery, shipment, weighing, or handling in commerce, of livestock;
+**(b)** The term “stockyard services” means services or facilities furnished at a stockyard in connection with the receiving, buying, or selling on a commission basis or otherwise, marketing, feeding, watering, holding, delivery, shipment, weighing, or handling in commerce, of livestock.
 
-**(c)** The term “market agency” means any person engaged in the business of (1) buying or selling in commerce livestock on a commission basis or (2) furnishing stockyard services; and
+**(c)** The term “market agency” means any person engaged in the business of (1) buying or selling in commerce livestock on a commission basis or (2) furnishing stockyard services. Beginning on October 7, 2016, such term includes any person who engages in the business of buying or selling livestock, on a commission or other fee basis, through the use of online, video, or other electronic methods when handling or providing the means to handle receivables or proceeds from such buying or selling, so long as such person’s annual average of online, video, or electronic sales of livestock, on a commission or other fee basis, exceeds $250,000.
 
 **(d)** The term “dealer” means any person, not a market agency, engaged in the business of buying or selling in commerce livestock, either on his own account or as the employee or agent of the vendor or purchaser.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Pub. L. 114–237, § 2(b)(1), substituted “In this chapter:” for “When used in this chapter—” in introductory provisions.
+
+Subsec. (a). Pub. L. 114–237, § 2(b)(2), substituted period for semicolon at end.
+
+Subsec. (b). Pub. L. 114–237, § 2(b)(3)(B), substituted period for semicolon at end.
+
+Pub. L. 114–237, § 2(b)(3)(A), which directed amendment of subsec. (b) by substituting “weighing” for “weighting”, could not be executed because the word “weighing” already appeared in text.
+
+Subsec. (c). Pub. L. 114–237, § 2(a), substituted period for “; and” after “stockyard services” and inserted at end “Beginning on October 7, 2016, such term includes any person who engages in the business of buying or selling livestock, on a commission or other fee basis, through the use of online, video, or other electronic methods when handling or providing the means to handle receivables or proceeds from such buying or selling, so long as such person’s annual average of online, video, or electronic sales of livestock, on a commission or other fee basis, exceeds $250,000.”
+
 1976—Subsecs. (b) to (d). Pub. L. 94–410 substituted “livestock” for “live stock”.
 
 1958—Subsecs. (c), (d). Pub. L. 85–909 struck out “at a stockyard” after “livestock”.
@@ -761,7 +774,7 @@ For the purposes of this subchapter, the provisions of all laws relating to the 
 ### Statutory Notes
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 702 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section702&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim).
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1302&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim).
 
 
 <a id="section-217a"></a>
@@ -910,7 +923,7 @@ Nothing in this chapter shall affect the power or jurisdiction of the Interstate
 Section is comprised of subsec. (a) of section 406, of act Aug. 15, 1921. Subsecs. (b) to (e) of section 406, as amended, are classified to [section 227 of this title](./chapter-009-packers-and-stockyards.md#section-227).
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 702 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section702&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim).
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1302&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim).
 
 
 <a id="section-227"></a>
@@ -1032,11 +1045,16 @@ Amendment by Pub. L. 100–173 effective 90 days after Nov. 23, 1987, see sectio
 
 <a id="section-228b"></a>
 ## § 228b. Prompt payment for purchase of livestock
-**(a) Full amount of purchase price required; methods of payment** Each packer, market agency, or dealer purchasing livestock shall, before the close of the next business day following the purchase of livestock and transfer of possession thereof, deliver to the seller or his duly authorized representative the full amount of the purchase price: Provided, That each packer, market agency, or dealer purchasing livestock for slaughter shall, before the close of the next business day following purchase of livestock and transfer of possession thereof, actually deliver at the point of transfer of possession to the seller or his duly authorized representative a check or shall wire transfer funds to the seller’s account for the full amount of the purchase price; or, in the case of a purchase on a carcass or “grade and yield” basis, the purchaser shall make payment by check at the point of transfer of possession or shall wire transfer funds to the seller’s account for the full amount of the purchase price not later than the close of the first business day following determination of the purchase price: Provided further, That if the seller or his duly authorized representative is not present to receive payment at the point of transfer of possession, as herein provided, the packer, market agency or dealer shall wire transfer funds or place a check in the United States mail for the full amount of the purchase price, properly addressed to the seller, within the time limits specified in this subsection, such action being deemed compliance with the requirement for prompt payment.
+**(a) Full amount of purchase price required; methods of payment** Each packer, market agency, or dealer purchasing livestock shall, before the close of the next business day following the purchase of livestock and transfer of possession thereof, deliver to the seller or his duly authorized representative the full amount of the purchase price: Provided, That each packer, market agency, or dealer purchasing livestock for slaughter shall, before the close of the next business day following purchase of livestock and transfer of possession thereof, actually deliver at the point of transfer of possession to the seller or his duly authorized representative a check or shall transfer funds for the full amount of the purchase price to the account of the seller by wire, electronic funds transfer, or any other expeditious method determined appropriate by the Secretary for the full amount of the purchase price; or, in the case of a purchase on a carcass or “grade and yield” basis, the purchaser shall make payment by check at the point of transfer of possession or shall transfer funds for the full amount of the purchase price to the account of the seller by wire, electronic funds transfer, or any other expeditious method determined appropriate by the Secretary for the full amount of the purchase price not later than the close of the first business day following determination of the purchase price: Provided further, That if the seller or his duly authorized representative is not present to receive payment at the point of transfer of possession, as herein provided, the packer, market agency or dealer shall transfer funds for the full amount of the purchase price by wire, electronic funds transfer, or any other expeditious method determined appropriate by the Secretary or place a check in the United States mail for the full amount of the purchase price, properly addressed to the seller, within the time limits specified in this subsection, such action being deemed compliance with the requirement for prompt payment.
 
 **(b) Waiver of prompt payment by written agreement; disclosure requirements** Notwithstanding the provisions of subsection (a) of this section and subject to such terms and conditions as the Secretary may prescribe, the parties to the purchase and sale of livestock may expressly agree in writing, before such purchase or sale, to effect payment in a manner other than that required in subsection (a). Any such agreement shall be disclosed in the records of any market agency or dealer selling the livestock, and in the purchaser’s records and on the accounts or other documents issued by the purchaser relating to the transaction.
 
 **(c) Delay in payment or attempt to delay deemed unfair practice** Any delay or attempt to delay by a market agency, dealer, or packer purchasing livestock, the collection of funds as herein provided, or otherwise for the purpose of or resulting in extending the normal period of payment for such livestock shall be considered an “unfair practice” in violation of this chapter. Nothing in this section shall be deemed to limit the meaning of the term “unfair practice” as used in this chapter.
+
+### Statutory Notes
+
+#### Amendments
+2016—Subsec. (a). Pub. L. 114–237, § 3, substituted “shall transfer funds for the full amount of the purchase price to the account of the seller by wire, electronic funds transfer, or any other expeditious method determined appropriate by the Secretary” for “shall wire transfer funds to the seller’s account” in two places in first proviso and “or dealer shall transfer funds for the full amount of the purchase price by wire, electronic funds transfer, or any other expeditious method determined appropriate by the Secretary” for “or dealer shall wire transfer funds” in second proviso.
 
 
 <a id="section-228b-1"></a>
@@ -1172,7 +1190,7 @@ Section, act Aug. 15, 1921, ch. 64, title IV, § 416, as added Pub. L. 105–277
 For termination of repeal by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 #### Termination Date of Repeal
-Repeal by Pub. L. 106–78 to terminate Sept. 30, 2015, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
+Repeal by Pub. L. 106–78 to terminate Sept. 30, 2020, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 
 <a id="section-229b"></a>

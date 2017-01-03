@@ -102,7 +102,7 @@ For the purposes of this chapter—
 Section 4024(e) and section 4024(f), referred to in par. (6), are section 4024(e) and (f) of Pub. L. 99–509, and are set out as a note under [section 797 of this title](./chapter-016-regional-rail-reorganization.md#section-797).
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 702 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section702&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim).
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1302&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim).
 
 
 <a id="section-1311"></a>
@@ -150,13 +150,13 @@ Subsec. (d) of this section amended [section 726 of this title](./chapter-016-re
 
 **(d) Authority to require stock splits**
 
-(1) The Secretary of Transportation, in consultation with the co-lead managers and the Chairman of the Board of Directors of the Corporation, may, in connection with the initial public offering described in subsection (a) of this section, before the filing of the registration statement referred to in [section 1311(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section1311/c&num=0&edition=prelim), require the Corporation to declare a stock split or reverse stock split.
+(1) The Secretary of Transportation, in consultation with the co-lead managers and the Chairman of the Board of Directors of the Corporation, may, in connection with the initial public offering described in subsection (a), before the filing of the registration statement referred to in [section 1311(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section1311/c&num=0&edition=prelim), require the Corporation to declare a stock split or reverse stock split.
 
 (2) The Corporation shall take such action as may be necessary to comply with the Secretary’s requirements under this subsection.
 
 **(e) Cancellation of other securities held by United States**
 
-(1) In consideration for amounts transferred to the United States under [section 1311(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section1311/b&num=0&edition=prelim), the Secretary of Transportation shall, concurrent with the initial public offering described in subsection (a) of this section, deliver to the Corporation all preferred stock, 7.5 percent debentures, and contingent interest notes of the Corporation. The Corporation shall immediately cancel such debentures, preferred stock, and contingent interest notes, and any interest of the United States in such debentures, preferred stock, and contingent interest notes shall be thereby extinguished.
+(1) In consideration for amounts transferred to the United States under [section 1311(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section1311/b&num=0&edition=prelim), the Secretary of Transportation shall, concurrent with the initial public offering described in subsection (a), deliver to the Corporation all preferred stock, 7.5 percent debentures, and contingent interest notes of the Corporation. The Corporation shall immediately cancel such debentures, preferred stock, and contingent interest notes, and any interest of the United States in such debentures, preferred stock, and contingent interest notes shall be thereby extinguished.
 
 (2) For purposes of regulation by the Commission and State public utility regulation, the actions authorized by this subsection, the public offering, and the value of the consideration received therefor shall not change the value of the Corporation’s assets net of depreciation and shall not be used to alter the calculation of the Corporation’s stock or asset values, rate base, expenses, costs, returns, profits, or revenues, or otherwise affect or be the basis for a change in the regulation of any railroad service, rate, or practice provided or established by the Corporation, or any change in the financial reporting practice of the Corporation.
 
@@ -179,7 +179,7 @@ This subchapter, referred to in subsec. (f), was in the original “this part”
 2004—Subsec. (h). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and wherever appearing in text.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 702 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section702&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim).
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1302&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim).
 
 
 <a id="section-1313"></a>
@@ -222,7 +222,7 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 1989—Subsec. (a)(2). Pub. L. 101–213 struck out par. (2) which set forth circumstances under which Corporation could declare or pay a common or preferred stock dividend and defined terms “common stock dividend” and “preferred stock dividend”.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 702 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section702&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim).
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1302&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim).
 
 
 <a id="section-1322"></a>
@@ -237,7 +237,7 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 
   (B) to the Secretary of Transportation,
 
-  (C) to a railroad as described under subsection (b) of this section,
+  (C) to a railroad as described under subsection (b),
 
   (D) to underwriting syndicates holding shares for resale, or
 
@@ -257,7 +257,7 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 [Section 11344 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11344&num=0&edition=prelim), referred to in subsec. (b)(1), (2), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, § 102(a), Dec. 29, 1995, 109 Stat. 804. Provisions similar to those in section 11344 are contained in sections 11324 and 14303 of Title 49.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 702 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section702&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim).
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1302&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim).
 
 
 <a id="section-1323"></a>
@@ -363,7 +363,7 @@ Special court abolished and all jurisdiction and functions transferred to United
 
 (1) Any securities of the Corporation held by the United States Railway Association shall, upon 11 So in original. Probably should be “on”. October 21, 1986, be transferred to the Secretary of Transportation.
 
-(2) If, on the date the United States Railway Association is abolished under subsection (a) of this section, such association shall not have completed the termination of its affairs and the liquidation of its assets, the duty of completing such winding up of its affairs and liquidation shall be transferred to the Secretary of Transportation, who for such purposes shall succeed to all remaining powers, duties, rights, and obligations of such association.
+(2) If, on the date the United States Railway Association is abolished under subsection (a), such association shall not have completed the termination of its affairs and the liquidation of its assets, the duty of completing such winding up of its affairs and liquidation shall be transferred to the Secretary of Transportation, who for such purposes shall succeed to all remaining powers, duties, rights, and obligations of such association.
 
 **(c) Financing agreement**
 
@@ -408,7 +408,7 @@ The Corporation shall be a rail carrier as defined in [section 10102 of title 49
 1995—Pub. L. 104–88 substituted “section 10102” for “section 10102(19)”.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 
 <a id="section-1345"></a>

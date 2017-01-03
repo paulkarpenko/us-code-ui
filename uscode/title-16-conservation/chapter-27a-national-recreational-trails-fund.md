@@ -49,9 +49,9 @@ Pub. L. 102–240, title I, § 1301, Dec. 18, 1991, 105 Stat. 2064, provided tha
 
 (5) 1 member appointed by the Secretary from nominations submitted by hunting and fishing enthusiast organizations.
 
-**(c) Chairman** The Chair of the advisory committee shall be the government official referenced in subsection (b)(3) of this section, who shall serve as a non-voting member.
+**(c) Chairman** The Chair of the advisory committee shall be the government official referenced in subsection (b)(3), who shall serve as a non-voting member.
 
-**(d) Support for committee action** Any action, recommendation, or policy of the advisory committee must be supported by at least five of the members appointed under subsection (b)(1) of this section.
+**(d) Support for committee action** Any action, recommendation, or policy of the advisory committee must be supported by at least five of the members appointed under subsection (b)(1).
 
 **(e) Terms** Members of the advisory committee appointed by the Secretary shall be appointed for terms of three years, except that the members filling five of the eleven positions shall be initially appointed for terms of two years, with subsequent appointments to those positions extending for terms of three years.
 

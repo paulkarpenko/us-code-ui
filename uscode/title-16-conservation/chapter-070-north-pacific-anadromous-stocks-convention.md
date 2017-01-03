@@ -103,12 +103,20 @@ An individual is not eligible for appointment under paragraph (2) or (3) as a Co
 
 **(d) Compensation** United States Commissioners and Alternate United States Commissioners shall receive no compensation for their services as Commissioners and Alternate Commissioners.
 
+**(e) Travel expenses**
+
+(1) **In general** — The Secretary may pay the necessary travel expenses of the United States Commissioners and Alternate United States Commissioners in carrying out the duties of the Commission in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
+
+(2) **Reimbursement** — The Secretary of Commerce may reimburse the Secretary for amounts expended by the Secretary under this subparagraph.11 So in original. Probably should be “subsection”.
+
 ### Statutory Notes
 
 #### Codification
 Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted identical sections. Title VIII of Pub. L. 102–587 was repealed by Pub. L. 106–562.
 
 #### Amendments
+2016—Subsec. (e). Pub. L. 114–327 added subsec. (e).
+
 2000—Subsec. (a). Pub. L. 106–562, § 304(b), inserted after second sentence “Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.”
 
 
@@ -124,18 +132,27 @@ Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted identical sections
 
 (4) Eleven members (six of whom shall be residents of the State of Alaska and five of whom shall be residents of the State of Washington), appointed by the Secretary, in consultation with the Secretary of Commerce, from among a slate of 12 persons nominated by the Governor of Alaska and a slate of 10 persons nominated by the Governor of Washington.
 
-**(b) Qualifications** Persons appointed to the Advisory Panel shall be individuals who are knowledgeable or experienced concerning anadromous stocks and ecologically related species. In submitting a slate of nominees pursuant to subsection (a)(4) of this section, the Governors of Alaska and Washington shall seek to represent the broad range of parties interested in anadromous stocks and ecologically related species, and at a minimum shall include on each slate at least one representative of commercial salmon fishing interests and of environmental interests concerned with protection of living marine resources.
+**(b) Qualifications** Persons appointed to the Advisory Panel shall be individuals who are knowledgeable or experienced concerning anadromous stocks and ecologically related species. In submitting a slate of nominees pursuant to subsection (a)(4), the Governors of Alaska and Washington shall seek to represent the broad range of parties interested in anadromous stocks and ecologically related species, and at a minimum shall include on each slate at least one representative of commercial salmon fishing interests and of environmental interests concerned with protection of living marine resources.
 
-**(c) Limitation on service** Any person appointed to the Advisory Panel pursuant to subsection (a)(4) of this section shall serve for a term not to exceed 4 years, and may not serve more than two consecutive terms.
+**(c) Limitation on service** Any person appointed to the Advisory Panel pursuant to subsection (a)(4) shall serve for a term not to exceed 4 years, and may not serve more than two consecutive terms.
 
 **(d) Functions** The Advisory Panel shall be invited to all nonexecutive meetings of the United States Section and at such meetings shall be granted the opportunity to examine and to be heard on all proposed programs of study and investigation, reports, and recommendations of the United States Section.
 
-**(e) Compensation and expenses** The members of the Advisory Panel shall receive no compensation or travel expenses for their services as such members.
+**(e) Compensation** The members of the Advisory Panel shall receive no compensation for their service as such members.
+
+**(f) Travel expenses**
+
+(1) **In general** — The Secretary may pay the necessary travel expenses of the members of the Advisory Panel in carrying out their service as such members in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
+
+(2) **Reimbursement** — The Secretary of Commerce may reimburse the Secretary for amounts expended by the Secretary under this subparagraph.11 So in original. Probably should be “subsection”.
 
 ### Statutory Notes
 
 #### Codification
 Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted identical sections. Title VIII of Pub. L. 102–587 was repealed by Pub. L. 106–562.
+
+#### Amendments
+2016—Subsecs. (e), (f). Pub. L. 114–327 added subsecs. (e) and (f) and struck out former subsec. (e) which related to compensation and expenses.
 
 #### Termination of Advisory Panels
 Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law, see sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -234,9 +251,9 @@ It is unlawful for any person or fishing vessel subject to the jurisdiction of t
 
 (4) to ship, transport, offer for sale, sell, purchase, import, export, or have custody, control, or possession of, any anadromous fish taken or retained in violation of the Convention, this chapter, or any regulation issued under this chapter;
 
-(5) to refuse to permit any enforcement officer to board a fishing vessel subject to such person’s control for purposes of conducting any search or inspection in connection with the enforcement of the Convention, this chapter, or any regulation issued under this chapter;
+(5) to refuse to permit any enforcement officer to board a fishing vessel subject to such person’s control for purposes of conducting any search, investigation, or inspection in connection with the enforcement of the Convention, this chapter, or any regulation issued under this chapter;
 
-(6) to forcibly assault, resist, oppose, impede, intimidate, or interfere with any enforcement officer in the conduct of any search or inspection described in paragraph (5);
+(6) to forcibly assault, resist, oppose, impede, intimidate, or interfere with any enforcement officer in the conduct of any search, investigation, or inspection described in paragraph (5);
 
 (7) to resist a lawful arrest or detection for any act prohibited by this section;
 
@@ -249,61 +266,22 @@ It is unlawful for any person or fishing vessel subject to the jurisdiction of t
 #### Codification
 Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted substantially identical sections. Title VIII of Pub. L. 102–587 was repealed by Pub. L. 106–562.
 
+#### Amendments
+2015—Pars. (5), (6). Pub. L. 114–81 inserted “, investigation,” after “search”.
+
 
 <a id="section-5010"></a>
-## § 5010. Penalties
-**(a) Civil penalties**
+## § 5010. Additional prohibitions and enforcement
 
-(1) Any person who is found by the Secretary of Commerce, after notice and opportunity for a hearing in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim), to have committed an act prohibited by [section 5009 of this title](./chapter-070-north-pacific-anadromous-stocks-convention.md#section-5009) shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of such civil penalty shall be assessed by the Secretary of Commerce, or the Secretary’s designee, by written notice. In determining the amount of such penalty, the Secretary of Commerce shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violation, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require.
-
-(2) Any person against whom a civil penalty is assessed under paragraph (1) may obtain review thereof in the appropriate court of the United States by filing a complaint in such court within 30 days from the date of such order and by simultaneously serving a copy of such complaint by certified mail on the Secretary of Commerce, the Attorney General, and the appropriate United States Attorney. The Secretary of Commerce shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim). The findings and order of the Secretary of Commerce shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in [section 706(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706/2&num=0&edition=prelim).
-
-(3) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court has entered final judgment in favor of the Secretary of Commerce, the matter shall be referred to the Attorney General, who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
-
-(4) A fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used in the commission of an act prohibited by [section 5009 of this title](./chapter-070-north-pacific-anadromous-stocks-convention.md#section-5009) shall be liable in rem for any civil penalty assessed for such violation under paragraph (1) and may be proceeded against in any district court of the United States having jurisdiction thereof. Such penalty shall constitute a maritime lien on such vessel that may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.
-
-(5) The Secretary of Commerce may compromise, modify, or remit, with or without conditions, any civil penalty that is subject to imposition or that has been imposed under this section.
-
-(6) For the purposes of conducting any hearing under this section, the Secretary of Commerce may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contempt or refusal to obey a subpoena served upon any person pursuant to this paragraph, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Secretary of Commerce or to appear and produce documents before the Secretary of Commerce, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
-
-**(b) Offenses**
-
-(1) A person is guilty of an offense if the person commits any act prohibited by section 5009(5), (6), (7), or (8) of this title.
-
-(2) Any offense described in paragraph (1) is a class A misdemeanor punishable by a fine under title 18 or imprisonment for not more than 6 months, or both; except that if in the commission of any offense the person uses a dangerous weapon, engages in conduct that causes bodily injury to any enforcement officer, or places any such officer in fear of imminent bodily injury, the offense is a felony punishable by a fine under title 18 or imprisonment for not more than 10 years, or both.
-
-**(c) Forfeiture**
-
-(1) Any fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used, and any fish (or a fair market value thereof) taken or retained, in any manner, in connection with or as a result of the commission of any act prohibited by [section 5009 of this title](./chapter-070-north-pacific-anadromous-stocks-convention.md#section-5009) shall be subject to forfeiture to the United States. All or part of such vessel may, and all such fish shall, be forfeited to the United States pursuant to a civil proceeding under this section.
-
-(2) Any district court of the United States shall have jurisdiction, upon application of the Attorney General on behalf of the United States, to order any forfeiture authorized under paragraph (1) and any action provided for under paragraph (4).
-
-(3) If a judgment is entered for the United States in a civil forfeiture proceeding under this section, the Attorney General may seize any property or other interest declared forfeited to the United States, which has not previously been seized pursuant to this chapter or for which security has not previously been obtained. The provisions of the customs laws relating to—
-
-  (A) the seizure, forfeiture, and condemnation of property for violation of the customs law;
-
-  (B) the disposition of such property or the proceeds from the sale thereof; and
-
-  (C) the remission or mitigation of any such forfeiture;
-  shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, unless such provisions are inconsistent with the purposes, policy, and provisions of this chapter.
-
-(4)
-
-  (A) Any officer authorized to serve any process in rem that is issued by a court having jurisdiction under [section 5008(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5008/b&num=0&edition=prelim) shall—
-
-    (i) stay the execution of such process; or
-
-    (ii) discharge any fish seized pursuant to such process;
-    upon receipt of a satisfactory bond or other security from any person claiming such property. Such bond or other security shall be conditioned upon such person delivering such property to the appropriate court upon order thereof, without any impairment of its value, or paying the monetary value of such property pursuant to an order of such court. Judgment shall be recoverable on such bond or other security against both the principal and any sureties in the event that any condition thereof is breached, as determined by such court.
-
-  (B) Any fish seized pursuant to this chapter may be sold, subject to the approval and direction of the appropriate court, for not less than the fair market value thereof. The proceeds of any such sale shall be deposited with such court pending the disposition of the matter involved.
-
-(5) For purposes of this section, it shall be a rebuttable presumption that all fish found on board a fishing vessel and which is seized in connection with an act prohibited by [section 5009 of this title](./chapter-070-north-pacific-anadromous-stocks-convention.md#section-5009) were taken or retained in violation of the Convention and this chapter.
+For additional prohibitions relating to this chapter and enforcement of this chapter, see [section 1826g of this title](./chapter-038-fishery-conservation-and-management.md#section-1826g).
 
 ### Statutory Notes
 
 #### Codification
 Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted substantially identical sections. Title VIII of Pub. L. 102–587 was repealed by Pub. L. 106–562.
+
+#### Amendments
+2015—Pub. L. 114–81 amended section generally. Prior to amendment, section related to civil penalties, offenses, and forfeiture.
 
 
 <a id="section-5011"></a>

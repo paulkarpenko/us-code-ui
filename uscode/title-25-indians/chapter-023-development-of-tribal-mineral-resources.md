@@ -71,9 +71,9 @@ Within one hundred and eighty days of December 22, 1982, the Secretary of the In
 <a id="section-2108"></a>
 ## § 2108. Tribal right to develop mineral resources
 
-Nothing in this chapter shall impair any right of an Indian tribe organized under section 16 or 17 of the Act of June 18, 1934 (48 Stat. 987), as amended [[25 U.S.C. 476](./chapter-014-miscellaneous.md#section-476), 477], to develop their mineral resources as may be provided in any constitution or charter adopted by such tribe pursuant to that Act [[25 U.S.C. 461](./chapter-014-miscellaneous.md#section-461) et seq.].
+Nothing in this chapter shall impair any right of an Indian tribe organized under section 16 or 17 of the Act of June 18, 1934 (48 Stat. 987), as amended [[25 U.S.C. 5123](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5123), 5124], to develop their mineral resources as may be provided in any constitution or charter adopted by such tribe pursuant to that Act [[25 U.S.C. 5101](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5101) et seq.].
 
 ### Statutory Notes
 
 #### References in Text
-Act of June 18, 1934, referred to in text, popularly known as the Indian Reorganization Act, is classified generally to subchapter V (§ 461 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 461 of this title](./chapter-014-miscellaneous.md#section-461) and Tables.
+Act of June 18, 1934, referred to in text, popularly known as the Indian Reorganization Act, is classified generally to chapter 45 (§ 5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5101 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5101) and Tables.

@@ -510,7 +510,7 @@ No officer may receive a cash award under the provisions of this subchapter, if 
 ### Statutory Notes
 
 #### Effective Date
-Subchapter effective Oct. 1, 1981, see section 1703(c) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under [section 4501 of this title](./chapter-045-incentive-awards.md#section-4501).
+Section effective Oct. 1, 1981, see section 1703(c) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under [section 4501 of this title](./chapter-045-incentive-awards.md#section-4501).
 
 #### Authority To Make Awards
 Pub. L. 102–487, § 1(c), Oct. 24, 1992, 106 Stat. 3134, provided that: “Awards may be made under subchapter II of chapter 45 of title 5, United States Code, on and after the date of the enactment of this Act [Oct. 24, 1992].”
@@ -532,11 +532,19 @@ For purposes of paragraph (2), the Inspector General or other designated employe
 #### Amendments
 1985—Subsec. (c). Pub. L. 99–145 struck out subsec. (c) which provided that the Inspector General, or other employee designated under subsection (b), shall submit to the Comptroller General documentation substantiating any award made under this section and that the Comptroller General shall, from time to time, review awards made under this section and procedures used in making such awards to verify the cost savings for which the awards were made.
 
+#### Effective Date
+Section effective Oct. 1, 1981, see section 1703(c) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under [section 4501 of this title](./chapter-045-incentive-awards.md#section-4501).
+
 
 <a id="section-4513"></a>
 ## § 4513. Presidential awards for cost savings disclosures
 
 The President may pay a cash award in the amount of $20,000 to any employee whose disclosure of fraud, waste, or mismanagement has resulted in substantial cost savings for the Government. In evaluating the significance of a cost savings disclosure made by an employee for purposes of determining whether to make an award to such employee under this section, the President may take into account cost savings projected for subsequent fiscal years which will be attributable to the disclosure. During any fiscal year, the President may not make more than 50 awards under this section.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1981, see section 1703(c) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under [section 4501 of this title](./chapter-045-incentive-awards.md#section-4501).
 
 
 <a id="section-4514"></a>
@@ -583,6 +591,11 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 An award under this subchapter is in addition to the basic pay of the recipient.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1992, see section 529 [title IV, § 408(d)] of Pub. L. 101–509, set out as a note under [section 4521 of this title](./chapter-045-incentive-awards.md#section-4521).
+
 
 <a id="section-4523"></a>
 ## § 4523. Award authority
@@ -595,3 +608,8 @@ An award under this subchapter is in addition to the basic pay of the recipient.
 (2) criteria for the selection of individuals for recognition under this section; and
 
 (3) any other provisions which may be necessary to carry out the purposes of this subchapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1992, see section 529 [title IV, § 408(d)] of Pub. L. 101–509, set out as a note under [section 4521 of this title](./chapter-045-incentive-awards.md#section-4521).

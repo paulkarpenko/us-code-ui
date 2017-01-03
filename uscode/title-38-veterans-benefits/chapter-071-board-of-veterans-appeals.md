@@ -471,7 +471,21 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Depa
 
 **(d)**
 
-(1) An appellant may request that a hearing before the Board be held at its principal location or at a facility of the Department located within the area served by a regional office of the Department.
+(1)
+
+  (A)
+
+    (i) Upon request for a hearing, the Board shall determine, for purposes of scheduling the hearing for the earliest possible date, whether a hearing before the Board will be held at its principal location or at a facility of the Department or other appropriate Federal facility located within the area served by a regional office of the Department.
+
+    (ii) The Board shall also determine whether to provide a hearing through the use of the facilities and equipment described in subsection (e)(1) or by the appellant personally appearing before a Board member or panel.
+
+  (B)
+
+    (i) The Board shall notify the appellant of the determinations of the location and type of hearing made under subparagraph (A).
+
+    (ii) Upon notification, the appellant may request a different location or type of hearing as described in such subparagraph.
+
+    (iii) If so requested, the Board shall grant such request and ensure that the hearing is scheduled at the earliest possible date without any undue delay or other prejudice to the appellant.
 
 (2) A hearing to be held within an area served by a regional office of the Department shall (except as provided in paragraph (3)) be scheduled to be held in accordance with the place of the case on the docket under subsection (a) relative to other cases on the docket for which hearings are scheduled to be held within that area.
 
@@ -487,7 +501,7 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Depa
 
 (1) At the request of the Chairman, the Secretary may provide suitable facilities and equipment to the Board or other components of the Department to enable an appellant located at a facility within the area served by a regional office to participate, through voice transmission or through picture and voice transmission, by electronic or other means, in a hearing with a Board member or members sitting at the Board’s principal location.
 
-(2) When such facilities and equipment are available, the Chairman may afford the appellant an opportunity to participate in a hearing before the Board through the use of such facilities and equipment in lieu of a hearing held by personally appearing before a Board member or panel as provided in subsection (d). Any such hearing shall be conducted in the same manner as, and shall be considered the equivalent of, a personal hearing. If the appellant declines to participate in a hearing through the use of such facilities and equipment, the opportunity of the appellant to a hearing as provided in such subsection (d) shall not be affected.
+(2) Any hearing provided through the use of the facilities and equipment described in paragraph (1) shall be conducted in the same manner as, and shall be considered the equivalent of, a personal hearing.
 
 **(f)** Nothing in this section shall preclude the screening of cases for purposes of—
 
@@ -498,6 +512,10 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Depa
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (d)(1). Pub. L. 114–315, § 102(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “An appellant may request that a hearing before the Board be held at its principal location or at a facility of the Department located within the area served by a regional office of the Department.”
+
+Subsec. (e)(2). Pub. L. 114–315, § 102(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “When such facilities and equipment are available, the Chairman may afford the appellant an opportunity to participate in a hearing before the Board through the use of such facilities and equipment in lieu of a hearing held by personally appearing before a Board member or panel as provided in subsection (d). Any such hearing shall be conducted in the same manner as, and shall be considered the equivalent of, a personal hearing. If the appellant declines to participate in a hearing through the use of such facilities and equipment, the opportunity of the appellant to a hearing as provided in such subsection (d) shall not be affected.”
+
 1998—Subsec. (a)(1). Pub. L. 105–368, § 1003(a)(1), inserted “in paragraphs (2) and (3) and” after “Except as provided”.
 
 Subsec. (a)(2). Pub. L. 105–368, § 1003(a)(2), added second and third sentences and struck out former second sentence which read as follows: “Any such motion shall set forth succinctly the grounds upon which it is based and may not be granted unless the case involves interpretation of law of general application affecting other claims or for other sufficient cause shown.”

@@ -881,17 +881,17 @@ Any eligible veteran may pursue a program of apprenticeship or other on-job trai
 
 (4) For the purposes of this section, the term “qualifying work-study activity” means any of the following:
 
-  (A) The outreach services program under chapter 63 of this title as carried out under the supervision of a Department employee or, during the period preceding June 30, 2013, outreach services to servicemembers and veterans furnished by employees of a State approving agency.
+  (A) The outreach services program under chapter 63 of this title as carried out under the supervision of a Department employee or, during the period preceding June 30, 2013, or the period beginning on June 30, 2017, and ending on June 30, 2022, outreach services to servicemembers and veterans furnished by employees of a State approving agency.
 
   (B) The preparation and processing of necessary papers and other documents at educational institutions or regional offices or facilities of the Department.
 
-  (C) The provision of hospital and domiciliary care and medical treatment under chapter 17 of this title, including, during the period preceding June 30, 2013, the provision of such care to veterans in a State home for which payment is made under [section 1741 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1741).
+  (C) The provision of hospital and domiciliary care and medical treatment under chapter 17 of this title, including, during the period preceding June 30, 2013, or the period beginning on June 30, 2017, and ending on June 30, 2022, the provision of such care to veterans in a State home for which payment is made under [section 1741 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1741).
 
   (D) Any other activity of the Department as the Secretary determines appropriate.
 
   (E) In the case of an individual who is receiving educational assistance under chapter 1606 or 1607 of title 10, an activity relating to the administration of that chapter at Department of Defense, Coast Guard, or National Guard facilities.
 
-  (F) During the period preceding June 30, 2013, an activity relating to the administration of a national cemetery or a State veterans’ cemetery.
+  (F) During the period preceding June 30, 2013, or the period beginning on June 30, 2017, and ending on June 30, 2022, an activity relating to the administration of a national cemetery or a State veterans’ cemetery.
 
   (G) Any activity of a State veterans agency related to providing assistance to veterans in obtaining any benefit under the laws administered by the Secretary or the laws of the State.
 
@@ -949,6 +949,8 @@ The Higher Education Act of 1965, referred to in subsec. (a)(4)(H), is Pub. L. 8
 [Section 2135 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2135&num=0&edition=prelim), referred to in subsec. (e)(1), was renumbered [section 16135 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16135&num=0&edition=prelim), Armed Forces, by Pub. L. 103–337, div. A, title XVI, § 1663(b)(2), Oct. 5, 1994, 108 Stat. 3006.
 
 #### Amendments
+2016—Subsec. (a)(4)(A), (C), (F). Pub. L. 114–315 substituted “June 30, 2013, or the period beginning on June 30, 2017, and ending on June 30, 2022” for “June 30, 2013”.
+
 2010—Subsec. (a)(4)(A), (C), (F). Pub. L. 111–275, § 101(a), substituted “June 30, 2013” for “June 30, 2010”.
 
 Subsec. (a)(4)(G) to (J). Pub. L. 111–275, § 101(b), added subpars. (G) to (J).

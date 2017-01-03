@@ -105,19 +105,14 @@ Provisions of this section as not amended, modified or repealed by the Submerged
 
 
 <a id="section-701b-10"></a>
-## § 701b–10. Revolving fund; establishment; availability; reimbursement; transfer of funds; limitation
-
-There is established a revolving fund, to be available without fiscal year limitation, for expenses necessary for the maintenance and operation of the plant and equipment of the Corps of Engineers used in civil works functions, including acquisition of plant and equipment, maintenance, repair, and purchase, operation, and maintenance of not to exceed four aircraft at any one time, temporary financing of services finally chargeable to appropriations for civil works functions, and the furnishing of facilities and services for military functions of the Department of the Army and other Government agencies and private persons, as authorized by law, $100; and in addition, the Secretary of the Army is authorized to provide capital for the fund by capitalizing the present inventories, plant and equipment of the civil works functions of the Corps of Engineers. The fund shall be credited with reimbursements or advances for the cost of equipment, facilities, and services furnished, at rates which shall include charges for overhead and related expenses, depreciation of plant and equipment, and accrued leave: Provided, That on July 1, 1953, (1) the fund shall assume the assets, liabilities, and obligations of the Plant accounts, as carried on the records of the Corps of Engineers as of June 30, 1953, under the appropriations for “Maintenance and improvement of existing river and harbor works”, “Flood control, general”, and “Flood control, Mississippi River and tributaries”, and (2) there shall be transferred from said appropriations to the fund amounts equivalent to the unexpended cash balances of the Plant accounts on June 30, 1953: Provided further, That the total capital of said fund shall not exceed $140,000,000.
+## § 701b–10. Omitted
 
 ### Statutory Notes
 
 #### Codification
-Section is also set out as [section 576 of this title](./chapter-012-river-and-harbor-improvements-generally.md#section-576).
+Section, act July 27, 1953, ch. 245, § 101, 67 Stat. 199; Pub. L. 114–322, title I, § 1160, Dec. 16, 2016, 130 Stat. 1667, related to a revolving fund for expenses of the Corps of Engineers.
 
-Section was formerly classified to [section 190b of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section190b&num=0&edition=prelim) prior to the general revision and enactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, 70A Stat. 1.
-
-#### Retention of Three Operational Aircraft; Notice of Intended Use Outside United States
-For provision relating to retention, use, and disposal of three operational aircraft by Chief of Engineers, see section 101(d) [title I, § 110] of Pub. L. 100–202, set out as a note under [section 576 of this title](./chapter-012-river-and-harbor-improvements-generally.md#section-576).
+Section is set out as [section 576 of this title](./chapter-012-river-and-harbor-improvements-generally.md#section-576).
 
 
 <a id="section-701b-11"></a>
@@ -136,21 +131,21 @@ Pub. L. 104–303, title II, § 202(d), Oct. 12, 1996, 110 Stat. 3675, provided 
 ## § 701b–12. Floodplain management requirements
 **(a) Compliance with floodplain management and insurance programs** Before construction of any project for local flood protection, or any project for hurricane or storm damage reduction, that involves Federal assistance from the Secretary, the non-Federal interest shall agree to participate in and comply with applicable Federal floodplain management and flood insurance programs.
 
-**(b) Floodplain management plans** Within 1 year after the date of signing a project cooperation agreement for construction of a project to which subsection (a) of this section applies, the non-Federal interest shall prepare a floodplain management plan designed to reduce the impacts of future flood events in the project area. Such plan shall be implemented by the non-Federal interest not later than 1 year after completion of construction of the project.
+**(b) Floodplain management plans** Within 1 year after the date of signing a project cooperation agreement for construction of a project to which subsection (a) applies, the non-Federal interest shall prepare a floodplain management plan designed to reduce the impacts of future flood events in the project area. Such plan shall be implemented by the non-Federal interest not later than 1 year after completion of construction of the project.
 
 **(c) Guidelines**
 
-(1) **In general** — The Secretary shall develop guidelines for preparation of floodplain management plans by non-Federal interests under subsection (b) of this section.
+(1) **In general** — The Secretary shall develop guidelines for preparation of floodplain management plans by non-Federal interests under subsection (b).
 
 (2) **Required elements** — The guidelines developed under paragraph (1) shall—
 
   (A) address potential measures, practices, and policies to be undertaken by non-Federal interests to to 11 So in original. reduce loss of life, injuries, damages to property and facilities, public expenditures, and other adverse impacts associated with flooding and to preserve and enhance natural floodplain values; and
 
-  (B) address those measures to be undertaken by non-Federal interests to preserve the level of flood protection provided by a project to which subsection (a) of this section applies.
+  (B) address those measures to be undertaken by non-Federal interests to preserve the level of flood protection provided by a project to which subsection (a) applies.
 
 (3) **Limitation on statutory construction** — Nothing in this subsection shall be construed to confer any regulatory authority upon the Secretary or the Administrator of the Federal Emergency Management Agency.
 
-**(d) Technical support** The Secretary may provide technical support to a non-Federal interest for a project to which subsection (a) of this section applies for the development and implementation of plans prepared under subsection (b) of this section.
+**(d) Technical support** The Secretary may provide technical support to a non-Federal interest for a project to which subsection (a) applies for the development and implementation of plans prepared under subsection (b).
 
 ### Statutory Notes
 
@@ -593,7 +588,7 @@ Amendment by Pub. L. 99–662 not applicable to any project under contract for c
 
 
 <a id="section-701h"></a>
-## § 701h. Contributions by States and political subdivisions
+## § 701h. Contributions by States, political subdivisions, and other non-Federal interests
 
 The Secretary of the Army is authorized to receive from States and political subdivisions thereof and other non-Federal interests, such funds as may be contributed by them for work, which includes planning and design, to be expended in connection with funds appropriated by the United States for any authorized water resources development study or project, including a project for navigation on the inland waterways, whenever such work and expenditure may be considered by the Secretary of the Army, on recommendation of the Chief of Engineers, as advantageous in the public interest, and the plans for any reservoir project may, in the discretion of the Secretary of the Army, on recommendation of the Chief of Engineers, be modified to provide additional storage capacity for domestic water supply or other conservation storage, on condition that the cost of such increased storage capacity is contributed by local agencies and that the local agencies agree to utilize such additional storage capacity in a manner consistent with Federal uses and purposes: Provided, That the Secretary is authorized to receive and expend funds from a State or a political subdivision thereof, and other non-Federal interests or private entities, to operate a hurricane barrier project to support recreational activities at or in the vicinity of the project, at no cost to the Federal Government, if the Secretary determines that operation for such purpose is not inconsistent with the operation and maintenance of the project for the authorized purposes of the project: Provided further, That when contributions made by States and political subdivisions thereof and other non-Federal interests, are in excess of the actual cost of the work contemplated and properly chargeable to such contributions, such excess contributions may, with the approval of the Secretary of the Army, be returned to the proper representatives of the contributing interests: Provided further, That the term “States” means the several States, the District of Columbia, the commonwealths, territories, and possessions of the United States, and Federally recognized Indian tribes: Provided further, That the term “non-Federal interest” has the meaning given that term in [section 1962d–5b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–5b&num=0&edition=prelim).
 
@@ -705,6 +700,8 @@ In any case where the total authorization for a project heretofore or hereafter 
 
   (C) agricultural establishments, including the protection of crops.
 
+(3) **Nonstructural alternatives defined.—** — In this subsection, the term “nonstructural alternatives” includes efforts to restore or protect natural resources, including streams, rivers, floodplains, wetlands, or coasts, if those efforts will reduce flood risk.
+
 **(b) Emergency supplies of drinking water; drought; well construction and water transportation**
 
 (1) The Secretary, upon a written request for assistance under this paragraph made by any farmer, rancher, or political subdivision within a distressed area, and after a determination by the Secretary that (A) as a result of the drought such farmer, rancher, or political subdivision has an inadequate supply of water, (B) an adequate supply of water can be made available to such farmer, rancher, or political subdivision through the construction of a well, and (C) as a result of the drought such well could not be constructed by a private business, the Secretary, subject to paragraph (3) of this subsection, may enter into an agreement with such farmer, rancher, or political subdivision for the construction of such well.
@@ -753,12 +750,30 @@ In any case where the total authorization for a project heretofore or hereafter 
 
       (II) repair or rebuilding described in clause (i) if, in the normal course of usage, the structure becomes structurally unsound and is no longer fit to provide the level of protection for which the structure was designed.
 
+**(d) Increased level of protection** In conducting repair or restoration work under subsection (a), at the request of the non-Federal sponsor, the Chief of Engineers may increase the level of protection above the level to which the system was designed, or, if the repair or restoration includes repair or restoration of a pumping station, increase the capacity of a pump, if—
+
+(1) the Chief of Engineers determines the improvements are in the public interest, including consideration of whether—
+
+  (A) the authority under this section has been used more than once at the same location;
+
+  (B) there is an opportunity to decrease significantly the risk of loss of life and property damage; or
+
+  (C) there is an opportunity to decrease total life cycle rehabilitation costs for the project; and
+
+(2) the non-Federal sponsor agrees to pay the difference between the cost of repair or restoration to the original design level or original capacity and the cost of achieving the higher level of protection or capacity sought by the non-Federal sponsor.
+
+**(e) Notice** The Secretary shall notify and consult with the non-Federal sponsor regarding the opportunity to request implementation of nonstructural alternatives to the repair or restoration of a flood control work under subsection (a).
+
 ### Statutory Notes
 
 #### References in Text
 The Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2016—Subsec. (a)(3). Pub. L. 114–322, § 1176(1), added par. (3).
+
+Subsecs. (d), (e). Pub. L. 114–322, § 1176(2), added subsecs. (d) and (e).
+
 2014—Subsec. (a)(1). Pub. L. 113–121 inserted “and subject to the condition that the Chief of Engineers may include modifications to the structure or project” after “work for flood control” and substituted “structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to the design level of protection when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, subject to the condition that the Chief of Engineers may include modifications to the structure or project to address major deficiencies or implement nonstructural alternatives to the repair or restoration of the structure if requested by the non-Federal sponsor” for “structure damaged or destroyed by wind, wave, or water action of other than an ordinary nature when in the discretion of the Chief of Engineers such repair and restoration is warranted for the adequate functioning of the structure for hurricane or shore protection”.
 
 1996—Subsec. (a)(1). Pub. L. 104–303, § 202(e), in first sentence, inserted “, or in implementation of nonstructural alternatives to the repair or restoration of such flood control work if requested by the non-Federal sponsor”.
@@ -936,6 +951,9 @@ Pub. L. 97–140, § 2(b), Dec. 29, 1981, 95 Stat. 1717, provided that: “The a
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–587 not applicable to any project under contract for construction on Oct. 22, 1976, see section 133(c) of Pub. L. 94–587, set out as a note under [section 577 of this title](./chapter-012-river-and-harbor-improvements-generally.md#section-577).
 
+#### Ice Jam Prevention and Mitigation
+Pub. L. 114–322, title I, § 1150, Dec. 16, 2016, 130 Stat. 1661, provided that: “(a) In General.—The Secretary [of the Army] may carry out projects under section 205 of the Flood Control Act of 1948 ([33 U.S.C. 701s](./chapter-015-flood-control.md#section-701s)), including planning, design, construction, and monitoring of structural and nonstructural technologies and measures, for preventing and mitigating flood damages associated with ice jams. “(b) Inclusion.—The projects described in subsection (a) may include the development and demonstration of cost-effective technologies and designs developed in consultation with—“(1) the Cold Regions Research and Engineering Laboratory of the Corps of Engineers; “(2) universities; “(3) Federal, State, and local agencies; and “(4) private organizations. “(c) Pilot Program.—“(1) In general.—During fiscal years 2017 through 2022, the Secretary shall identify and carry out not fewer than 10 projects under this section to demonstrate technologies and designs developed in accordance with this section. “(2) Project selection.—The Secretary shall ensure that the projects are selected from all cold regions of the United States, including the Upper Missouri River Basin and the Northeast.”
+
 
 <a id="section-701t"></a>
 ## § 701t. Emergency fund for flood damage; amount; commitments to be fulfilled by local interests
@@ -962,6 +980,8 @@ In connection with the exercise of jurisdiction over the rivers of the Nation th
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–322 inserted “and shall be made publicly available” after “House or Senate document”.
+
 1996—Par. (a). Pub. L. 104–303 substituted “Within 30 days” for “Within ninety days” and “30-day period” for “ninety-day period”.
 
 #### Change of Name
@@ -1520,6 +1540,9 @@ For transfer of certain personal property and functions relating thereto, insofa
 
 #### Section as Unaffected by Submerged Lands Act
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1303&num=0&edition=prelim), Public Lands.
+
+#### Conversion of Surplus Water Agreements
+Pub. L. 114–322, title I, § 1174, Dec. 16, 2016, 130 Stat. 1673, provided that: “For the purposes of section 6 of the Act of December 22, 1944 (58 Stat. 890, chapter 665; [33 U.S.C. 708](./chapter-015-flood-control.md#section-708)), in any case in which a water supply agreement with a duration of 30 years or longer was predicated on water that was surplus to a purpose and provided for the complete payment of the actual investment costs of storage to be used, and that purpose is no longer authorized as of the date of enactment of this section [Dec. 16, 2016], the Secretary [of the Army] shall provide to the non-Federal entity an opportunity to convert the agreement to a permanent storage agreement in accordance with section 301 of the Water Supply Act of 1958 ([43 U.S.C. 390b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section390b&num=0&edition=prelim)), with the same payment terms incorporated in the agreement.”
 
 
 <a id="section-709"></a>

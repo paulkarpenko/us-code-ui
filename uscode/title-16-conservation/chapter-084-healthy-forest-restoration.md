@@ -207,9 +207,9 @@ Public Law 91–190, referred to in subsec. (a)(1), is Pub. L. 91–190, Jan. 1,
 #### References in Text
 The Act of June 9, 1930, referred to in subsecs. (e)(3)(B) and (g)(2)(A), is act June 9, 1930, ch. 416, 46 Stat. 527, popularly known as the Knutson-Vandenberg Act, which is classified generally to sections 576, 576a, and 576b of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 576 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-576) and Tables.
 
-[Section 490 of this title](./chapter-002-national-forests.md#section-490), referred to in subsec. (f)(1), was in the original “the Act of August 11, 1916 ([16 U.S.C. 490](./chapter-002-national-forests.md#section-490))”, and was translated as referring to the undesignated provisions appearing in act Aug. 11, 1916, ch. 313, 39 Stat. 462, which are classified to [section 490 of this title](./chapter-002-national-forests.md#section-490).
+[Section 490 of this title](./chapter-002-national-forests.md#section-490), referred to in subsec. (f)(1), was in the original “the Act of August 11, 1916 ([16 U.S.C. 490](./chapter-002-national-forests.md#section-490))”, and was translated as referring to the undesignated provisions appearing in act Aug. 11, 1916, ch. 313, 39 Stat. 462, as amended, which are classified to [section 490 of this title](./chapter-002-national-forests.md#section-490).
 
-[Section 498 of this title](./chapter-002-national-forests.md#section-498), referred to in subsec. (f)(2), was in the original “the Act of June 30, 1914 ([16 U.S.C. 498](./chapter-002-national-forests.md#section-498))”, and was translated as referring to the undesignated provisions appearing in act June 30, 1914, ch. 131, 38 Stat. 430, which are classified to [section 498 of this title](./chapter-002-national-forests.md#section-498).
+[Section 498 of this title](./chapter-002-national-forests.md#section-498), referred to in subsec. (f)(2), was in the original “the Act of June 30, 1914 ([16 U.S.C. 498](./chapter-002-national-forests.md#section-498))”, and was translated as referring to the undesignated provisions appearing in act June 30, 1914, ch. 131, 38 Stat. 430, as amended, which are classified to [section 498 of this title](./chapter-002-national-forests.md#section-498).
 
 
 <a id="section-6511"></a>
@@ -255,7 +255,7 @@ In this chapter:
 
   (B) public lands (as defined in [section 1702 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1702&num=0&edition=prelim)), the surface of which is administered by the Secretary of the Interior, acting through the Director of the Bureau of Land Management.
 
-(2) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim).
+(2) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -666,7 +666,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a)(1), is
 #### Forest Service Pre-Decisional Objection Process
 Pub. L. 113–79, title VIII, § 8006(b), Feb. 7, 2014, 128 Stat. 913, provided that: “Section 428 of division E of the Consolidated Appropriations Act, 2012 ([16 U.S.C. 6515](./chapter-084-healthy-forest-restoration.md#section-6515) note; Public Law 112–74) shall not apply to any project or activity implementing a land and resource management plan developed under section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1604](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1604)) that is categorically excluded from documentation in an environmental assessment or an environmental impact statement under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.).”
 
-Pub. L. 112–74, div. E, title IV, § 428, Dec. 23, 2011, 125 Stat. 1046, provided that: “Hereafter, upon issuance of final regulations, the Secretary of Agriculture, acting through the Chief of the Forest Service, shall apply section 105(a) of the Healthy Forests Restoration Act of 2003 ([16 U.S.C. 6515(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6515/a&num=0&edition=prelim)), providing for a pre-decisional objection process, to proposed actions of the Forest Service concerning projects and activities implementing land and resource management plans developed under the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1600](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) et seq.), and documented with a Record of Decision or Decision Notice, in lieu of subsections (c), (d), and (e) of [former] section 322 of Public Law 102–381 ([former] [16 U.S.C. 1612](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1612) note), providing for an administrative appeal process: Provided, That if the Chief of the Forest Service determines an emergency situation exists for which immediate implementation of a proposed action is necessary, the proposed action shall not be subject to the pre-decisional objection process, and implementation shall begin immediately after the Forest Service gives notice of the final decision for the proposed action: Provided further, That this section shall not apply to an authorized hazardous fuel reduction project under title I of the Healthy Forests Restoration Act of 2003 ([16 U.S.C. 6501](./chapter-084-healthy-forest-restoration.md#section-6501) et seq.) [probably should be [16 U.S.C. 6511](./chapter-084-healthy-forest-restoration.md#section-6511) et seq.].”
+Pub. L. 112–74, div. E, title IV, § 428, Dec. 23, 2011, 125 Stat. 1046, provided that: “Hereafter, upon issuance of final regulations, the Secretary of Agriculture, acting through the Chief of the Forest Service, shall apply section 105(a) of the Healthy Forests Restoration Act of 2003 ([16 U.S.C. 6515(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6515/a&num=0&edition=prelim)), providing for a pre-decisional objection process, to proposed actions of the Forest Service concerning projects and activities implementing land and resource management plans developed under the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1600](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) et seq.), and documented with a Record of Decision or Decision Notice, in lieu of subsections (c), (d), and (e) of section 322 of Public Law 102–381 ([former] [16 U.S.C. 1612](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1612) note), providing for an administrative appeal process: Provided, That if the Chief of the Forest Service determines an emergency situation exists for which immediate implementation of a proposed action is necessary, the proposed action shall not be subject to the pre-decisional objection process, and implementation shall begin immediately after the Forest Service gives notice of the final decision for the proposed action: Provided further, That this section shall not apply to an authorized hazardous fuel reduction project under title I of the Healthy Forests Restoration Act of 2003 ([16 U.S.C. 6501](./chapter-084-healthy-forest-restoration.md#section-6501) et seq.) [probably should be [16 U.S.C. 6511](./chapter-084-healthy-forest-restoration.md#section-6511) et seq.].”
 
 
 <a id="section-6518"></a>
@@ -722,35 +722,12 @@ There is authorized to be appropriated $760,000,000 for each fiscal year to carr
 
 
 <a id="section-6551"></a>
-## § 6551. Findings and purposes
-**(a) Findings** Congress finds that—
-
-(1) there has been a dramatic shift in public attitudes and perceptions about forest management, particularly in the understanding and practice of sustainable forest management;
-
-(2) it is commonly recognized that the proper stewardship of forest land is essential to sustaining and restoring the health of watersheds;
-
-(3) forests can provide essential ecological services in filtering pollutants, buffering important rivers and estuaries, and minimizing flooding, which makes forest restoration worthy of special focus; and
-
-(4) strengthened education, technical assistance, and financial assistance for nonindustrial private forest landowners and communities, relating to the protection of watershed health, is needed to realize the expectations of the general public.
-
-**(b) Purposes** The purposes of this subchapter are—
-
-(1) to improve landowner and public understanding of the connection between forest management and watershed health;
-
-(2) to encourage landowners to maintain tree cover on property and to use tree plantings and vegetative treatments as creative solutions to watershed problems associated with varying land uses;
-
-(3) to enhance and complement forest management and buffer use for watersheds, with an emphasis on community watersheds;
-
-(4) to establish new partnerships and collaborative watershed approaches to forest management, stewardship, and conservation;
-
-(5) to provide technical and financial assistance to States to deliver a coordinated program that enhances State forestry best-management practices programs, and conserves and improves forested land and potentially forested land, through technical, financial, and educational assistance to qualifying individuals and entities; and
-
-(6) to maximize the proper management and conservation of wetland forests and to assist in the restoration of those forests.
+## § 6551. Omitted
 
 ### Statutory Notes
 
-#### References in Text
-This subchapter, referred to in subsec. (b), was in the original “this title”, meaning title III of Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1902, which enacted this subchapter and former [section 2103b of this title](./chapter-041-cooperative-forestry-assistance.md#section-2103b). For complete classification of title III to the Code, see Tables.
+#### Codification
+Section, Pub. L. 108–148, title III, § 301, Dec. 3, 2003, 117 Stat. 1902, which provided congressional findings and purposes of title III of Pub. L. 108–148 (enacting this subchapter and [section 2103b of this title](./chapter-041-cooperative-forestry-assistance.md#section-2103b)), was omitted in view of the repeal of sections 2103b and 6542 of this title.
 
 
 <a id="section-6552"></a>
@@ -1057,7 +1034,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
     (iv) land that is held in fee title by an Indian tribe; or
 
-    (v) land that is owned by a native corporation formed under [section 477 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section477&num=0&edition=prelim) or [section 1607 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1607&num=0&edition=prelim); or
+    (v) land that is owned by a native corporation formed under [section 5124 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5124&num=0&edition=prelim) or [section 1607 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1607&num=0&edition=prelim); or
 
     (vi) a combination of 1 or more types of land described in clauses (i) through (v).
 

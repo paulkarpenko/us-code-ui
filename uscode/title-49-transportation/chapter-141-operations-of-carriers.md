@@ -22,7 +22,7 @@ source: >-
 Provisions similar to those in this section were contained in [section 11101 of this title](./chapter-111-operations.md#section-11101) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-14102"></a>
@@ -60,6 +60,9 @@ Act of March 23, 1932, commonly known as the Norris-LaGuardia Act, referred to i
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11109 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11109&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
+
+#### Collection of Data on Delays in Goods Movement
+Pub. L. 114–94, div. A, title V, § 5501(b), Dec. 4, 2015, 129 Stat. 1550, provided that: “Not later than 2 years after the date of enactment of this Act [Dec. 4, 2015], the Secretary [of Transportation] shall establish by regulation a process to collect data on delays experienced by operators of commercial motor vehicles before the loading and unloading of such vehicles and at other points in the pick-up and delivery process.”
 
 
 <a id="section-14104"></a>

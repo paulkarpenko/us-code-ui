@@ -190,7 +190,7 @@ Pub. L. 100–647, title VI, § 6110(b), Nov. 10, 1988, 102 Stat. 3713, provided
 Section effective Apr. 1, 1987, see section 1402(c) of Pub. L. 99–662, set out as a note under [section 4461 of this title](./chapter-036-certain-other-excise-taxes.md#section-4461).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-4471"></a>
@@ -275,7 +275,7 @@ A prior section 4472 was contained in subchapter C of this chapter prior to repe
 
 **(e) Electronic filing** Any taxpayer who files a return under this section with respect to 25 or more vehicles for any taxable period shall file such return electronically.
 
-**(f) Period tax in effect** The tax imposed by this section shall apply only to use before October 1, 2017.
+**(f) Period tax in effect** The tax imposed by this section shall apply only to use before October 1, 2023.
 
 ### Statutory Notes
 
@@ -283,6 +283,8 @@ A prior section 4472 was contained in subchapter C of this chapter prior to repe
 Section 6156, referred to in subsec. (d)(2), was repealed by Pub. L. 108–357, title VIII, § 867(b)(1), Oct. 22, 2004, 118 Stat. 1622.
 
 #### Amendments
+2015—Subsec. (f). Pub. L. 114–94 substituted “2023” for “2017”.
+
 2012—Subsec. (f). Pub. L. 112–141 substituted “2017” for “2013”.
 
 Pub. L. 112–102 substituted “2013” for “2012”.
@@ -349,6 +351,9 @@ Subsec. (c). Pub. L. 87–61, § 203(b)(2)(B), substituted “any taxable period
 Subsec. (d). Pub. L. 87–61, § 203(b)(2)(B), made conforming changes to refer to payment of tax for a taxable period instead of payment for a year, and inserted cross reference to section 6156.
 
 Subsec. (e). Pub. L. 87–61, § 203(b)(1), substituted “before October 1, 1972” for “after June 30, 1956, and before July 1, 1972”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
@@ -417,15 +422,17 @@ Taxable gross weight shall be determined under regulations prescribed by the Sec
 
 (3) **Use** — The term “use” means use in the United States on the public highways.
 
-(4) **Taxable period** — The term “taxable period” means any year beginning before July 1, 2017, and the period which begins on July 1, 2017, and ends at the close of September 30, 2017.
+(4) **Taxable period** — The term “taxable period” means any year beginning before July 1, 2023, and the period which begins on July 1, 2023, and ends at the close of September 30, 2023.
 
 (5) **Customary use** — A semitrailer or trailer shall be treated as customarily used in connection with a highway motor vehicle if such vehicle is equipped to tow such semitrailer or trailer.
 
-**(d) Special rule for taxable period in which termination date occurs** In the case of the taxable period which ends on September 30, 2017, the amount of the tax imposed by section 4481 with respect to any highway motor vehicle shall be determined by reducing each dollar amount in the table contained in section 4481(a) by 75 percent.
+**(d) Special rule for taxable period in which termination date occurs** In the case of the taxable period which ends on September 30, 2023, the amount of the tax imposed by section 4481 with respect to any highway motor vehicle shall be determined by reducing each dollar amount in the table contained in section 4481(a) by 75 percent.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsecs. (c)(4), (d). Pub. L. 114–94 substituted “2023” for “2017” wherever appearing.
+
 2012—Subsec. (c)(4). Pub. L. 112–141, § 40102(b)(2)(A), amended par. (4) generally. Prior to amendment, text read as follows: “The term ‘taxable period’ means any year beginning before July 1, 2013, and the period which begins on July 1, 2013, and ends at the close of September 30, 2013.”
 
 Pub. L. 112–140, §§ 1(c), 402(e), temporarily amended par. (4) generally, resulting in text identical to that after amendment by Pub. L. 112–102. See Amendment and Effective and Termination Dates of 2012 Amendment notes below.
@@ -469,6 +476,9 @@ Subsec. (c)(4). Pub. L. 94–280 substituted “1979” for “1977” wherever 
 1970—Subsec. (c)(4). Pub. L. 91–605 substituted “1977” for “1972” wherever appearing.
 
 1961—Subsec. (c)(4). Pub. L. 87–61 added par. (4).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective and Termination Dates of 2012 Amendment
 Pub. L. 112–141, div. D, title I, § 40102(b)(2)(B), July 6, 2012, 126 Stat. 845, provided that: “The amendment made by this paragraph [amending this section] shall take effect as if included in the amendments made by section 142 of the Surface Transportation Extension Act of 2011, Part II [Pub. L. 112–30].”
@@ -580,7 +590,7 @@ Amendment by section 513(c) of Pub. L. 97–424 effective July 1, 1984, in the c
 
 (4) **Qualified blood collector organization** — The term “qualified blood collector organization” has the meaning given such term by section 7701(a)(49).
 
-**(i) Termination of exemptions** Subsections (a) and (c) shall not apply on and after October 1, 2017.
+**(i) Termination of exemptions** Subsections (a) and (c) shall not apply on and after October 1, 2023.
 
 ### Statutory Notes
 
@@ -588,6 +598,8 @@ Amendment by section 513(c) of Pub. L. 97–424 effective July 1, 1984, in the c
 The date of the enactment of the Energy Tax Act of 1978, referred to in subsec. (c), is the date of enactment of Pub. L. 95–618, which was approved Nov. 9, 1978.
 
 #### Amendments
+2015—Subsec. (i). Pub. L. 114–94 substituted “October 1, 2023” for “October 1, 2017”.
+
 2012—Subsec. (i). Pub. L. 112–141 substituted “October 1, 2017” for “July 1, 2012”.
 
 Pub. L. 112–140, §§ 1(c), 402(c), temporarily substituted “July 7, 2012” for “July 1, 2012”. See Effective and Termination Dates of 2012 Amendment note below.
@@ -631,6 +643,9 @@ Subsec. (e). Pub. L. 97–424, § 516(b)(3), added subsec. (e).
 1976—Subsecs. (a), (c). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(B), inserted “of the Treasury” after “Secretary”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).
 
 #### Effective and Termination Dates of 2012 Amendment
 Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under [section 4041 of this title](./chapter-031-retail-excise-taxes.md#section-4041).

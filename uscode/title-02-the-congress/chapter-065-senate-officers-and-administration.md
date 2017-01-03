@@ -487,7 +487,7 @@ Secretary of the Senate to be considered as disabled for purposes of this sectio
 <a id="section-6533"></a>
 ## § 6533. Death, resignation, or disability of Secretary of Senate; Assistant Secretary of Senate to act as Secretary; written designation of absent status
 
-In the event of the death, resignation, or disability of the Secretary of the Senate, the Assistant Secretary of the Senate shall act as Secretary in carrying out the duties and responsibilities of that office in all matters until such time as a new Secretary shall have been elected and qualified or such disability shall have been ended. For purposes of this section and [section 6532 of this title](./chapter-065-senate-officers-and-administration.md#section-6532), the Secretary of the Senate shall be considered as disabled only during such period of time as the Majority and Minority Leaders and the President pro tempore of the Senate certify jointly to the Senate that the Secretary is unable to perform his duties. In the event that the Secretary of the Senate is absent or is to be absent for reasons other than disability (as provided in this paragraph), and makes a written designation that he is or will be so absent, the Assistant Secretary shall act during such absence as the Secretary in carrying out the duties and responsibilities of the office in all matters. The designation may be revoked in writing at any time by the Secretary, and is revoked whenever the Secretary making the designation dies, resigns, or is considered disabled in accordance with this paragraph.
+In the event of the death, resignation, or disability of the Secretary of the Senate, the Assistant Secretary of the Senate shall act as Secretary in carrying out the duties and responsibilities of that office in all matters until such time as a new Secretary shall have been elected and qualified or such disability shall have been ended. For purposes of this section and [section 6532 of this title](./chapter-065-senate-officers-and-administration.md#section-6532), the Secretary of the Senate shall be considered as disabled only during such period of time as the Majority and Minority Leaders and the President pro tempore of the Senate certify jointly to the Senate that the Secretary is unable to perform his duties. In the event that the Secretary of the Senate is absent or is to be absent for reasons other than disability (as provided in this section), and makes a written designation that he is or will be so absent, the Assistant Secretary shall act during such absence as the Secretary in carrying out the duties and responsibilities of the office in all matters. The designation may be revoked in writing at any time by the Secretary, and is revoked whenever the Secretary making the designation dies, resigns, or is considered disabled in accordance with this section.
 
 ### Statutory Notes
 
@@ -1565,7 +1565,7 @@ Section is from the Congressional Operations Appropriation Act, 1978, which is t
 
 **(d) Definitions** For the purposes of this section:
 
-(1) The term “public school” means a public elementary or secondary school as such terms are defined in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+(1) The term “public school” means a 22 So in original. Probably should be “an”. elementary school or secondary school, as such terms are defined in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
 
 (2) The term “educationally useful equipment” means computers and related peripheral tools, including printers, modems, routers, servers, computer keyboards, scanners, and other telecommunications and research equipment, that are appropriate for use in public school education.
 
@@ -1579,7 +1579,12 @@ Section was formerly classified to [section 117b–2 of this title](./chapter-00
 Section is from the Congressional Operations Appropriations Act, 1997, which is title I of the Legislative Branch Appropriations Act, 1997.
 
 #### Amendments
+2015—Subsec. (d)(1). Pub. L. 114–95 substituted “elementary school or secondary school, as such terms are defined in section 7801” for “public elementary or secondary school as such terms are defined in section 7801”.
+
 2002—Subsec. (d)(1). Pub. L. 107–110 substituted “7801” for “8801”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.

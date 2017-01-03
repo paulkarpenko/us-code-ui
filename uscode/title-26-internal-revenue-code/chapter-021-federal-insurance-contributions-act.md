@@ -341,6 +341,16 @@ Pub. L. 103–387, § 2(a)(4), Oct. 22, 1994, 108 Stat. 4072, provided that: “
 
   (B) the term “qualified veteran” has meaning 11 So in original. Probably should be preceded by “the”. given such term by section 51(d)(3).
 
+**(f) Credit for research expenditures of qualified small businesses**
+
+(1) **In general** — In the case of a taxpayer who has made an election under section 41(h) for a taxable year, there shall be allowed as a credit against the tax imposed by subsection (a) for the first calendar quarter which begins after the date on which the taxpayer files the return specified in section 41(h)(4)(A)(ii) an amount equal to the payroll tax credit portion determined under section 41(h)(2).
+
+(2) **Limitation** — The credit allowed by paragraph (1) shall not exceed the tax imposed by subsection (a) for any calendar quarter on the wages paid with respect to the employment of all individuals in the employ of the employer.
+
+(3) **Carryover of unused credit** — If the amount of the credit under paragraph (1) exceeds the limitation of paragraph (2) for any calendar quarter, such excess shall be carried to the succeeding calendar quarter and allowed as a credit under paragraph (1) for such quarter.
+
+(4) **Deduction allowed for credited amounts** — The credit allowed under paragraph (1) shall not be taken into account for purposes of determining the amount of any deduction allowed under chapter 1 for taxes imposed under subsection (a).
+
 ### Statutory Notes
 
 #### References in Text
@@ -351,6 +361,8 @@ The date of the enactment of this subsection, referred to in subsec. (d)(1), is 
 Section 101(b) of the Higher Education Act of 1965, referred to in subsec. (d)(2)(B), is classified to [section 1001(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/b&num=0&edition=prelim), Education.
 
 #### Amendments
+2015—Subsec. (f). Pub. L. 114–113 added subsec. (f).
+
 2014—Subsec. (a). Pub. L. 113–295, § 221(a)(99)(B)(i), substituted “6.2 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b)).” for “the following percentages of the wages (as defined in section 3121(a)) paid by him with respect to employment (as defined in section 3121(b))—” and table of rates.
 
 Subsec. (b). Pub. L. 113–295, § 221(a)(99)(B)(ii), substituted “1.45 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b)).” for “the following percentages of the wages (as defined in section 3121(a)) paid by him with respect to employment (as defined in section 3121(b))—
@@ -444,6 +456,9 @@ Subsec. (b). Pub. L. 89–97, § 111(c)(6), struck out “, but without regard t
 1956—Act Aug. 1, 1956, increased rate of tax with respect to wages paid during calendar years 1957 to 1959, and for all calendar years thereafter, by one-quarter percent.
 
 1954—Act Sept. 1, 1954, increased 3¼ percent rate of tax for calendar year 1970 and subsequent years to 3½ percent for calendar years 1970 to 1974 and 4 percent for 1975 and subsequent years.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–113 applicable to taxable years beginning after Dec. 31, 2015, see section 121(d)(3) of Pub. L. 114–113, set out as a note under [section 38 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-38).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -1177,7 +1192,7 @@ The Social Security Act, referred to in subsecs. (a)(1), (15), (b), (d)(4), (j)(
 
 Section 3(2)(B)(ii) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(5)(F), is classified to [section 1002(2)(B)(ii) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/2/B/ii&num=0&edition=prelim), Labor.
 
-Section 105(e)(2) of the Indian Self-Determination Act, referred to in subsec. (b)(5)(B)(i)(V), was renumbered section 104(e)(2) of that Act by Pub. L. 100–472, title II, § 203(a), Oct. 5, 1988, 102 Stat. 2290, without corresponding amendment to this section. Section 104(e)(2) of the Indian Self-Determination Act is classified to [section 450i(e)(2) of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450i/e/2&num=0&edition=prelim), Indians. Section 105 of that Act is classified to [section 450j of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450j&num=0&edition=prelim).
+Section 105(e)(2) of the Indian Self-Determination Act, referred to in subsec. (b)(5)(B)(i)(V), was renumbered section 104(e)(2) of that Act by Pub. L. 100–472, title II, § 203(a), Oct. 5, 1988, 102 Stat. 2290, without corresponding amendment to this section. Section 104(e)(2) of the Indian Self-Determination Act is classified to [section 5323(e)(2) of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5323/e/2&num=0&edition=prelim), Indians. Section 105 of that Act is classified to [section 5324 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5324&num=0&edition=prelim).
 
 Level V of the Executive Schedule, referred to in subsec. (b)(5)(D)(iii), is set out in [section 5316 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim), Government Organization and Employees.
 
@@ -1195,7 +1210,7 @@ The Peace Corps Act, referred to in subsecs. (i)(3), (p), is Pub. L. 87–293, t
 
 Chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (j)(4)(B), was comprised of sections 1400 to 1636 of former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1). See also [section 7851(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7851/a/3&num=0&edition=prelim) for applicability of chapter 9 of former Title 26. See also [section 7851(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7851/e&num=0&edition=prelim) for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
-The Military Selective Service Act, referred to in subsec. (n)(5)(B), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under [section 451 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section451&num=0&edition=prelim), Appendix, and Tables.
+The Military Selective Service Act, referred to in subsec. (n)(5)(B), is act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Constitutionality
 For information regarding constitutionality of certain provisions of section 3121 of act Aug. 16, 1954, as amended by section 101(b)(1) of Pub. L. 98–21, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.

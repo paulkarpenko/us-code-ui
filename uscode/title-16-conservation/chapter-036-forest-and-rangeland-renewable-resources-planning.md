@@ -176,7 +176,7 @@ As a part of the Assessment, the Secretary of Agriculture shall develop and main
 
 (1) provide for multiple use and sustained yield of the products and services obtained therefrom in accordance with the Multiple-Use Sustained-Yield Act of 1960 [[16 U.S.C. 528–531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section528–531&num=0&edition=prelim)], and, in particular, include coordination of outdoor recreation, range, timber, watershed, wildlife and fish, and wilderness; and
 
-(2) determine forest management systems, harvesting levels, and procedures in the light of all of the uses set forth in subsection (c)(1) of this section, the definition of the terms “multiple use” and “sustained yield” as provided in the Multiple-Use Sustained-Yield Act of 1960, and the availability of lands and their suitability for resource management.
+(2) determine forest management systems, harvesting levels, and procedures in the light of all of the uses set forth in subsection (c)(1), the definition of the terms “multiple use” and “sustained yield” as provided in the Multiple-Use Sustained-Yield Act of 1960, and the availability of lands and their suitability for resource management.
 
 **(f) Required provisions** Plans developed in accordance with this section shall—
 
@@ -276,9 +276,11 @@ Subsecs. (c) to (m). Pub. L. 94–588, § 6, added subsecs. (c) to (m).
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601).
 
 #### Revision of Forest Plans
-Pub. L. 113–235, div. F, title IV, § 408, Dec. 16, 2014, 128 Stat. 2445, provided that: “The Secretary of Agriculture shall not be considered to be in violation of subparagraph 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1604(f)(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1604/f/5/A&num=0&edition=prelim)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act ([16 U.S.C. 1600](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) et seq.) or any other law: Provided, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis.”
+Pub. L. 114–113, div. G, title IV, § 407, Dec. 18, 2015, 129 Stat. 2575, provided that: “The Secretary of Agriculture shall not be considered to be in violation of subparagraph 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1604(f)(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1604/f/5/A&num=0&edition=prelim)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act ([16 U.S.C. 1600](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) et seq.) or any other law: Provided, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. F, title IV, § 408, Dec. 16, 2014, 128 Stat. 2445.
 
 Pub. L. 113–76, div. G, title IV, § 407, Jan. 17, 2014, 128 Stat. 338.
 
@@ -363,7 +365,7 @@ Section 15, formerly section 12 of Pub. L. 95–313, renumbered § 15, Pub. L. 1
 
 <a id="section-1606a"></a>
 ## § 1606a. Reforestation Trust Fund
-**(a) Establishment; source of funds** There is established in the Treasury of the United States a trust fund, to be known as the Reforestation Trust Fund (hereinafter in this section referred to as the “Trust Fund”), consisting of such amounts as are transferred to the Trust Fund under subsection (b)(1) of this section and any interest earned on investment of amounts in the Trust Fund under subsection (c)(2) of this section.
+**(a) Establishment; source of funds** There is established in the Treasury of the United States a trust fund, to be known as the Reforestation Trust Fund (hereinafter in this section referred to as the “Trust Fund”), consisting of such amounts as are transferred to the Trust Fund under subsection (b)(1) and any interest earned on investment of amounts in the Trust Fund under subsection (c)(2).
 
 **(b) Transfer of certain tariff receipts to Trust Fund; fiscal year limitation; quarterly transfers; adjustment of estimates**
 
@@ -802,7 +804,7 @@ Pub. L. 100–521, § 2, Oct. 24, 1988, 102 Stat. 2601, provided that: “Congre
 
 **(c) Emphasis on certain high priority rangeland research** The Secretary may use up to 5 percent of the amounts made available for research under [section 1642 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1642) to make competitive grants regarding rangeland research in the high priority research areas identified under [section 1642(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1642/d&num=0&edition=prelim).
 
-**(d) Priorities** In making grants under subsections (b) and (c) of this section, the Secretary shall give priority to research proposals under which—
+**(d) Priorities** In making grants under subsections (b) and (c), the Secretary shall give priority to research proposals under which—
 
 (1) the proposed research will be collaborative research organized through a center of scientific excellence;
 
@@ -899,7 +901,7 @@ A prior section 9 of Pub. L. 95–307, June 30, 1978, 92 Stat. 357, provided the
 
 **(b) Student grants** Under the Program the Secretary shall provide assistance for the establishment of a competitive grant fellowship program to assist graduate, and undergraduate minority and female, students attending institutions having programs in forestry and natural resources.
 
-**(c) Eligibility** The Secretary shall ensure that students concentrating in the following studies shall be eligible for assistance under subsection (b) of this section:
+**(c) Eligibility** The Secretary shall ensure that students concentrating in the following studies shall be eligible for assistance under subsection (b):
 
 (1) Forestry.
 

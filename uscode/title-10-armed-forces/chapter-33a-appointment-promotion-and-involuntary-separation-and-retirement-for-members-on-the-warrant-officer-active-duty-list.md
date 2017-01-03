@@ -32,7 +32,7 @@ Provisions similar to those in this section were contained in [section 555 of th
 Pub. L. 103–337, div. A, title V, § 541(h), Oct. 5, 1994, 108 Stat. 2767, provided that: “This section [enacting [section 215 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section215&num=0&edition=prelim), Coast Guard, amending this section, sections 573 to 576, 580, 580a, 581, and 583 of this title, and sections 41, 214, 286a, and 334 of Title 14, repealing sections 212 and 213 of Title 14, enacting provisions set out as notes under this section, and repealing a provision set out as a note under former [section 555 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section555&num=0&edition=prelim)] and the amendments made by this section shall take effect on the first day of the fourth month beginning after the date of the enactment of this Act [Oct. 5, 1994].”
 
 #### Effective Date
-Chapter effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
+Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
 
 #### Short Title
 Pub. L. 102–190, div. A, title XI, § 1101, Dec. 5, 1991, 105 Stat. 1491, provided that: “This title [enacting this chapter and [section 742 of this title](./chapter-043-rank-and-command.md#section-742), amending sections 521, 522, 597, 598 [now 12242], 603, 628, 644, 741, 1166, 1174, 1305, 1406, 5414, 5457, 5458, 5501 to 5503, 5596, 5600, 5665, 6389, and 6391 of this title, sections 286a and 334 of Title 14, Coast Guard, and sections 201, 301, 301c, 305a, and 406 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 555 to 565, 602, and 745 of this title, and enacting provisions set out as notes under this section, sections 521 and 555 of this title, and [section 1009 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section1009&num=0&edition=prelim)] may be cited as the ‘Warrant Officer Management Act’.”
@@ -62,6 +62,9 @@ For the purposes of promotion, persons originally appointed in regular or reserv
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 556 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section556&num=0&edition=prelim) prior to repeal by Pub. L. 102–190, § 1112(a).
+
+#### Effective Date
+Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
 
 
 <a id="section-573"></a>
@@ -97,6 +100,9 @@ Subsec. (a)(2). Pub. L. 103–337, § 541(b)(1)(B), struck out “of the militar
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under [section 571 of this title](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-571).
 
+#### Effective Date
+Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
+
 
 <a id="section-574"></a>
 ## § 574. Warrant officer active-duty lists; competitive categories; number to be recommended for promotion; promotion zones
@@ -131,6 +137,9 @@ Amendment by Pub. L. 103–337 effective on the first day of the fourth month be
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under [section 571 of this title](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-571).
+
+#### Effective Date
+Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
 
 
 <a id="section-575"></a>
@@ -169,6 +178,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1994 Amendment
 Amendment by section 541(b)(3) of Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under [section 571 of this title](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-571).
+
+#### Effective Date
+Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
 
 
 <a id="section-576"></a>
@@ -212,6 +224,9 @@ Subsec. (f)(2). Pub. L. 103–337, § 541(b)(4)(C), struck out “of the militar
 #### Effective Date of 1994 Amendment
 Amendment by section 541(b)(4) of Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under [section 571 of this title](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-571).
 
+#### Effective Date
+Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
+
 
 <a id="section-577"></a>
 ## § 577. Promotions: effect of failure of selection for
@@ -222,6 +237,9 @@ A warrant officer who has been considered for promotion by a selection board con
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 561 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section561&num=0&edition=prelim) prior to repeal by Pub. L. 102–190, § 1112(a).
+
+#### Effective Date
+Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
 
 
 <a id="section-578"></a>
@@ -245,6 +263,9 @@ Provisions similar to those in this section were contained in [section 561 of th
 
 1992—Pub. L. 102–484 substituted “Promotions:” for “Promotions;” in section catchline.
 
+#### Effective Date
+Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
+
 
 <a id="section-579"></a>
 ## § 579. Removal from a promotion list
@@ -262,6 +283,9 @@ Provisions similar to those in this section were contained in [section 561 of th
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 562 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section562&num=0&edition=prelim) prior to repeal by Pub. L. 102–190, § 1112(a).
+
+#### Effective Date
+Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
 
 
 <a id="section-580"></a>
@@ -359,13 +383,16 @@ Amendment by Pub. L. 103–337 effective on the first day of the fourth month be
 #### Effective Date of 1993 Amendment
 Pub. L. 103–160, div. A, title V, § 505(b), Nov. 30, 1993, 107 Stat. 1646, provided that: “The amendments made by subsection (a) [amending this section] shall apply to warrant officers who have not been separated pursuant to [section 580(a)(4) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section580/a/4&num=0&edition=prelim), United States Code, before the date of enactment of this Act [Nov. 30, 1993].”
 
+#### Effective Date
+Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
+
 #### Retired and Retainer Pay of Members on Retired Lists or Receiving Retainer Pay
 Act Oct. 12, 1949, ch. 681, title V, § 511, 63 Stat. 829, as amended May 19, 1952, ch. 310, § 4, 66 Stat. 80; Apr. 23, 1956, ch. 208, § 1, 70 Stat. 114, set forth methods of computing retired pay, retirement pay, retainer pay, or equivalent pay on and after Oct. 1, 1949, for members of the uniformed services who had retired for reasons other than for physical disability before Oct. 1, 1949, members who had transferred to the Fleet Reserve or the Fleet Marine Corps Reserve before such date, and certain members of the Army Nurse Corps or the Navy Nurse Corps who had retired before such date, and provided that the amount of such pay would not exceed 75 percentum of the monthly basic pay upon which the computation had been based.
 
 
 <a id="section-580a"></a>
 ## § 580a. Enhanced authority for selective early discharges
-**(a)** The Secretary of Defense may authorize the Secretary of a military department, during the period beginning on November 30, 1993, and ending on October 1, 1999, to take the action set forth in subsection (b) with respect to regular warrant officers of an armed force under the jurisdiction of that Secretary.
+**(a)** The Secretary of Defense may authorize the Secretary of a military department, during the period beginning on October 1, 2015, and ending on October 1, 2019, to take the action set forth in subsection (b) with respect to regular warrant officers of an armed force under the jurisdiction of that Secretary.
 
 **(b)** The Secretary of a military department may, with respect to regular warrant officers of an armed force, when authorized to do so under subsection (a), convene selection boards under [section 573(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section573/c&num=0&edition=prelim) to consider for discharge regular warrant officers on the warrant officer active-duty list—
 
@@ -389,11 +416,9 @@ Act Oct. 12, 1949, ch. 681, title V, § 511, 63 Stat. 829, as amended May 19, 19
 
   (B) in each grade, year group, or specialty (or combination thereof) in each competitive category.
 
-(3) The total number of regular warrant officers described in subsection (b) from any of the armed forces (or from any of the armed forces in a particular grade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of warrant officers of that armed force (or the number of warrant officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year.
+(3) A warrant officer who is recommended for discharge by a selection board convened pursuant to subsection (b) and whose discharge is approved by the Secretary concerned shall be discharged on a date specified by the Secretary concerned.
 
-(4) A warrant officer who is recommended for discharge by a selection board convened pursuant to subsection (b) and whose discharge is approved by the Secretary concerned shall be discharged on a date specified by the Secretary concerned.
-
-(5) Selection of warrant officers for discharge under this subsection shall be based on the needs of the service.
+(4) Selection of warrant officers for discharge under this subsection shall be based on the needs of the service.
 
 **(d)** The discharge of any warrant officer pursuant to this section shall be considered involuntary for purposes of any other provision of law.
 
@@ -402,6 +427,10 @@ Act Oct. 12, 1949, ch. 681, title V, § 511, 63 Stat. 829, as amended May 19, 19
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–92, § 501(1), substituted “October 1, 2015, and ending on October 1, 2019” for “November 30, 1993, and ending on October 1, 1999”.
+
+Subsec. (c)(3) to (5). Pub. L. 114–92, § 501(2), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “The total number of regular warrant officers described in subsection (b) from any of the armed forces (or from any of the armed forces in a particular grade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of warrant officers of that armed force (or the number of warrant officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year.”
+
 2002—Subsec. (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1994—Subsec. (a). Pub. L. 103–337, § 1070(a)(3), substituted “November 30, 1993,” for “the date of the enactment of this section”.
@@ -457,6 +486,9 @@ Subsec. (e). Pub. L. 113–291, § 502(a), designated existing provisions as par
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under [section 571 of this title](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-571).
 
+#### Effective Date
+Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
+
 
 <a id="section-582"></a>
 ## § 582. Warrant officer active-duty list: exclusions
@@ -497,6 +529,9 @@ Par. (1)(D). Pub. L. 104–106 substituted “section 12304” for “section 67
 #### Effective Date of 1996 Amendment
 Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
+#### Effective Date
+Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
+
 
 <a id="section-583"></a>
 ## § 583. Definitions
@@ -534,3 +569,6 @@ In this chapter:
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under [section 571 of this title](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-571).
+
+#### Effective Date
+Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).

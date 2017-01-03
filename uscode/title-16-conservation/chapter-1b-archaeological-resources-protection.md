@@ -71,7 +71,7 @@ The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92�
 ## § 470cc. Excavation and removal
 **(a) Application for permit** Any person may apply to the Federal land manager for a permit to excavate or remove any archaeological resource located on public lands or Indian lands and to carry out activities associated with such excavation or removal. The application shall be required, under uniform regulations under this chapter, to contain such information as the Federal land manager deems necessary, including information concerning the time, scope, and location and specific purpose of the proposed work.
 
-**(b) Determinations by Federal land manager prerequisite to issuance of permit** A permit may be issued pursuant to an application under subsection (a) of this section if the Federal land manager determines, pursuant to uniform regulations under this chapter, that—
+**(b) Determinations by Federal land manager prerequisite to issuance of permit** A permit may be issued pursuant to an application under subsection (a) if the Federal land manager determines, pursuant to uniform regulations under this chapter, that—
 
 (1) the applicant is qualified, to carry out the permitted activity,
 
@@ -91,15 +91,15 @@ The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92�
 
 **(g) Excavation or removal by Indian tribes or tribe members; excavation or removal of resources located on Indian lands**
 
-(1) No permit shall be required under this section or under the Act of June 8, 1906,11 See References in Text note below. for the excavation or removal by any Indian tribe or member thereof of any archaeological resource located on Indian lands of such Indian tribe, except that in the absence of tribal law regulating the excavation or removal of archaeological resources on Indian lands, an individual tribal member shall be required to obtain a permit under this section.
+(1) No permit shall be required under this section or under the Act of June 8, 1906 ([16 U.S.C. 431](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-431)),11 See References in Text note below. for the excavation or removal by any Indian tribe or member thereof of any archaeological resource located on Indian lands of such Indian tribe, except that in the absence of tribal law regulating the excavation or removal of archaeological resources on Indian lands, an individual tribal member shall be required to obtain a permit under this section.
 
 (2) In the case of any permits for the excavation or removal of any archaelogical 22 So in original. Probably should be “archaeological”. resource located on Indian lands, the permit may be granted only after obtaining the consent of the Indian or Indian tribe owning or having jurisdiction over such lands. The permit shall include such terms and conditions as may be requested by such Indian or Indian tribe.
 
 **(h) Permits issued under chapter 3203 of title 54**
 
-(1) No permit or other permission shall be required under chapter 3203 of title 54,33 So in original. The comma probably should not appear. for any activity for which a permit is issued under this section.
+(1) No permit or other permission shall be required under chapter 3203 of title 54 for any activity for which a permit is issued under this section.
 
-(2) Any permit issued under chapter 3203 of title 54,3 shall remain in effect according to its terms and conditions following the enactment of this chapter. No permit under this chapter shall be required to carry out any activity under a permit issued under chapter 3203 of title 54,3 before October 31, 1979, which remains in effect as provided in this paragraph, and nothing in this chapter shall modify or affect any such permit.
+(2) Any permit issued under chapter 3203 of title 54 shall remain in effect according to its terms and conditions following the enactment of this chapter. No permit under this chapter shall be required to carry out any activity under a permit issued under chapter 3203 of title 54 before October 31, 1979, which remains in effect as provided in this paragraph, and nothing in this chapter shall modify or affect any such permit.
 
 **(i) Compliance with provisions relating to undertakings on property listed in the National Register not required** Issuance of a permit in accordance with this section and applicable regulations shall not require compliance with [section 306108 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section306108&num=0&edition=prelim).
 
@@ -113,9 +113,9 @@ The Act of June 8, 1906, referred to in subsec. (g)(1), is act June 8, 1906, ch.
 Following the enactment of this chapter, referred to in subsec. (h)(2), means following the enactment of Pub. L. 96–95, approved Oct. 31, 1979.
 
 #### Amendments
-2014—Subsec. (h)(1). Pub. L. 113–287, § 5(d)(6)(A)(i), substituted “chapter 3203 of title 54” for “the Act of June 8, 1906 ([16 U.S.C. 431–433](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section431–433&num=0&edition=prelim))”.
+2014—Subsec. (h)(1). Pub. L. 113–287, § 5(d)(6)(A)(i), substituted “chapter 3203 of title 54” for “the Act of June 8, 1906 ([16 U.S.C. 431–433](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section431–433&num=0&edition=prelim)),”.
 
-Subsec. (h)(2). Pub. L. 113–287, § 5(d)(6)(A)(ii), substituted “chapter 3203 of title 54” for “the Act of June 8, 1906” in two places.
+Subsec. (h)(2). Pub. L. 113–287, § 5(d)(6)(A)(ii), substituted “chapter 3203 of title 54” for “the Act of June 8, 1906,” in two places.
 
 Subsec. (i). Pub. L. 113–287, § 5(d)(6)(B), substituted “[section 306108 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section306108&num=0&edition=prelim)” for “[section 470f of this title](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-470f)”.
 
@@ -133,7 +133,7 @@ Any exchange or ultimate disposition under such regulation of archaeological res
 ### Statutory Notes
 
 #### Amendments
-2014—Par. (2). Pub. L. 113–287 “chapter 3125 or chapter 3203 of title 54” for “the Act of June 27, 1960 ([16 U.S.C. 469–469c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469–469c&num=0&edition=prelim)) or the Act of June 8, 1906 ([16 U.S.C. 431–433](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section431–433&num=0&edition=prelim))”.
+2014—Par. (2). Pub. L. 113–287 substituted “chapter 3125 or chapter 3203 of title 54” for “the Act of June 27, 1960 ([16 U.S.C. 469–469c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469–469c&num=0&edition=prelim)) or the Act of June 8, 1906 ([16 U.S.C. 431–433](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section431–433&num=0&edition=prelim))”.
 
 
 <a id="section-470ee"></a>
@@ -142,7 +142,7 @@ Any exchange or ultimate disposition under such regulation of archaeological res
 
 **(b) Trafficking in archaeological resources the excavation or removal of which was wrongful under Federal law** No person may sell, purchase, exchange, transport, receive, or offer to sell, purchase, or exchange any archaeological resource if such resource was excavated or removed from public lands or Indian lands in violation of—
 
-(1) the prohibition contained in subsection (a) of this section, or
+(1) the prohibition contained in subsection (a), or
 
 (2) any provision, rule, regulation, ordinance, or permit in effect under any other provision of Federal law.
 
@@ -181,7 +181,7 @@ Subsec. (d). Pub. L. 100–588, § 1(c), substituted “$500” for “$5,000”
 
 **(b) Judicial review of assessed penalties; collection of unpaid assessments**
 
-(1) Any person aggrieved by an order assessing a civil penalty under subsection (a) of this section may file a petition for judicial review of such order with the United States District Court for the District of Columbia or for any other district in which such a person resides or transacts business. Such a petition may only be filed within the 30-day period beginning on the date the order making such assessment was issued. The court shall hear such action on the record made before the Federal land manager and shall sustain his action if it is supported by substantial evidence on the record considered as a whole.
+(1) Any person aggrieved by an order assessing a civil penalty under subsection (a) may file a petition for judicial review of such order with the United States District Court for the District of Columbia or for any other district in which such a person resides or transacts business. Such a petition may only be filed within the 30-day period beginning on the date the order making such assessment was issued. The court shall hear such action on the record made before the Federal land manager and shall sustain his action if it is supported by substantial evidence on the record considered as a whole.
 
 (2) If any person fails to pay an assessment of a civil penalty—
 
@@ -190,7 +190,7 @@ Subsec. (d). Pub. L. 100–588, § 1(c), substituted “$500” for “$5,000”
   (B) after a court in an action brought under paragraph (1) has entered a final judgment upholding the assessment of a civil penalty,
   the Federal land managers may request the Attorney General to institute a civil action in a district court of the United States for any district in which such person is found, resides, or transacts business to collect the penalty and such court shall have jurisdiction to hear and decide any such action. In such action, the validity and amount of such penalty shall not be subject to review.
 
-**(c) Hearings** Hearings held during proceedings for the assessment of civil penalties authorized by subsection (a) of this section shall be conducted in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim). The Federal land manager may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpena served upon any person pursuant to this paragraph, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Federal land manager or to appear and produce documents before the Federal land manager, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+**(c) Hearings** Hearings held during proceedings for the assessment of civil penalties authorized by subsection (a) shall be conducted in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim). The Federal land manager may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpena served upon any person pursuant to this paragraph, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Federal land manager or to appear and produce documents before the Federal land manager, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 
 <a id="section-470gg"></a>
@@ -216,7 +216,7 @@ Subsec. (d). Pub. L. 100–588, § 1(c), substituted “$500” for “$5,000”
 
 (2) not create a risk of harm to such resources or to the site at which such resources are located.
 
-**(b) Request for disclosure by Governors** Notwithstanding the provisions of subsection (a) of this section, upon the written request of the Governor of any State, which request shall state—
+**(b) Request for disclosure by Governors** Notwithstanding the provisions of subsection (a), upon the written request of the Governor of any State, which request shall state—
 
 (1) the specific site or area for which information is sought,
 
@@ -235,7 +235,7 @@ the Federal land manager concerned shall provide to the Governor information con
 ## § 470ii. Rules and regulations; intergovernmental coordination
 **(a) Promulgation; effective date** The Secretaries of the Interior, Agriculture and Defense and the Chairman of the Board of the Tennessee Valley Authority, after consultation with other Federal land managers, Indian tribes, representatives of concerned State agencies, and after public notice and hearing, shall promulgate such uniform rules and regulations as may be appropriate to carry out the purposes of this chapter. Such rules and regulations may be promulgated only after consideration of the provisions of the American Indian Religious Freedom Act (92 Stat. 469; [42 U.S.C. 1996](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) [, 1996a]). Each uniform rule or regulation promulgated under this chapter shall be submitted on the same calendar day to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Natural Resources of the United States House of Representatives, and no such uniform rule or regulation may take effect before the expiration of a period of ninety calendar days following the date of its submission to such Committees.
 
-**(b) Federal land managers’ rules** Each Federal land manager shall promulgate such rules and regulations, consistent with the uniform rules and regulations under subsection (a) of this section, as may be appropriate for the carrying out of his functions and authorities under this chapter.
+**(b) Federal land managers’ rules** Each Federal land manager shall promulgate such rules and regulations, consistent with the uniform rules and regulations under subsection (a), as may be appropriate for the carrying out of his functions and authorities under this chapter.
 
 **(c) Federal land managers’ public awareness program of archaeological resources on public lands and Indian lands** Each Federal land manager shall establish a program to increase public awareness of the significance of the archaeological resources located on public lands and Indian lands and the need to protect such resources.
 
@@ -275,12 +275,12 @@ In carrying out this section, the Secretary shall, to the extent practicable and
 <a id="section-470ll"></a>
 ## § 470ll. Annual report to Congress
 
-As part of the annual report required to be submitted to the specified committees of the Congress pursuant to [section 469a–3(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469a–3/c&num=0&edition=prelim),11 See References in Text note below. the Secretary of the Interior shall comprehensively report as a separate component on the activities carried out under the provisions of this chapter, and he shall make such recommendations as he deems appropriate as to changes or improvements needed in the provisions of this chapter. Such report shall include a brief summary of the actions undertaken by the Secretary under [section 470jj of this title](./chapter-1b-archaeological-resources-protection.md#section-470jj), relating to cooperation with private individuals.
+As part of the annual report required to be submitted to the specified committees of the Congress pursuant to section 469a–3(c) 11 See References in Text note below. of this title, the Secretary of the Interior shall comprehensively report as a separate component on the activities carried out under the provisions of this chapter, and he shall make such recommendations as he deems appropriate as to changes or improvements needed in the provisions of this chapter. Such report shall include a brief summary of the actions undertaken by the Secretary under [section 470jj of this title](./chapter-1b-archaeological-resources-protection.md#section-470jj), relating to cooperation with private individuals.
 
 ### Statutory Notes
 
 #### References in Text
-[Section 469a–3 of this title](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-469a-3), referred to in text, was repealed by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272. Prior to the repeal of section 469a–3, language in subsec. (c) that required submission of an annual report was struck out by Pub. L. 104–333.
+[Section 469a–3 of this title](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-469a-3), referred to in text, was repealed and restated as [section 312504 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section312504&num=0&edition=prelim), National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. Prior to repeal of section 469a–3, language in subsec. (c) of that section that required submission of an annual report was struck out by Pub. L. 104–333.
 
 
 <a id="section-470mm"></a>

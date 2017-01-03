@@ -32,7 +32,7 @@ source: >-
 
   (G) military authority exercised in the field in time of war or in occupied territory; or
 
-  (H) functions conferred by sections 1738, 1739, 1743, and 1744 of title 12; subchapter II of chapter 471 of title 49; or sections 1884, 1891–1902, and former section 1641(b)(2), of title 50, appendix; and
+  (H) functions conferred by sections 1738, 1739, 1743, and 1744 of title 12; subchapter II of chapter 471 of title 49; or sections 1884, 1891–1902, and former section 1641(b)(2), of title 50, appendix; 11 See References in Text note below. and
 
 (2) “person”, “rule”, “order”, “license”, “sanction”, “relief”, and “agency action” have the meanings given them by [section 551 of this title](./chapter-005-administrative-procedure.md#section-551).
 
@@ -54,7 +54,7 @@ In subsection (b)(1)(H), the words “functions which by law expire on the termi
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### References in Text
-Sections 1891–1902 of title 50, appendix, referred to in subsec. (b)(1)(H), were omitted from the Code as executed.
+Sections 1884 and 1891–1902 of title 50, appendix, referred to in subsec. (b)(1)(H), were a part of the various Housing and Rent Acts which were classified to section 1881 et seq. of the former Appendix to Title 50, War and National Defense, and had been repealed or omitted from the Code as executed prior to the elimination of the Appendix to Title 50. See Elimination of Title 50, Appendix note preceding [section 1 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1&num=0&edition=prelim). [Section 1641 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1641&num=0&edition=prelim), appendix, referred to in subsec. (b)(1)(H), was repealed by Pub. L. 87–256, § 111(a)(1), Sept. 21, 1961, 75 Stat. 538.
 
 #### Amendments
 2011—Subsec. (b)(1)(H). Pub. L. 111–350 struck out “chapter 2 of title 41;” after “title 12;”.

@@ -52,19 +52,19 @@ As used in this subchapter—
 
 **(b) Appointments** Panel members shall be appointed as follows:
 
-(1) The Panel member described in subsection (a)(1) of this section shall be appointed by the Secretary of State.
+(1) The Panel member described in subsection (a)(1) shall be appointed by the Secretary of State.
 
-(2) The Panel member described in subsection (a)(2) of this section shall be appointed by the Governor of Alaska.
+(2) The Panel member described in subsection (a)(2) shall be appointed by the Governor of Alaska.
 
-(3) The Panel members described in subsection (a)(3) of this section shall be appointed by the Secretary of State from a list of at least 3 individuals nominated for each position by the Governor of Alaska. The Governor of Alaska may consider suggestions for nominations provided by organizations with expertise in Yukon River salmon fisheries. The Governor of Alaska may make appropriate nominations to allow for, and the Secretary of State shall appoint, at least one member under subsection (a)(3) of this section who is qualified to represent the interests of Lower Yukon River fishing districts, and at least one member who is qualified to represent the interests of Upper Yukon River fishing districts. At least one of the Panel members under subsection (a)(3) of this section shall be an Alaska Native.
+(3) The Panel members described in subsection (a)(3) shall be appointed by the Secretary of State from a list of at least 3 individuals nominated for each position by the Governor of Alaska. The Governor of Alaska may consider suggestions for nominations provided by organizations with expertise in Yukon River salmon fisheries. The Governor of Alaska may make appropriate nominations to allow for, and the Secretary of State shall appoint, at least one member under subsection (a)(3) who is qualified to represent the interests of Lower Yukon River fishing districts, and at least one member who is qualified to represent the interests of Upper Yukon River fishing districts. At least one of the Panel members under subsection (a)(3) shall be an Alaska Native.
 
-**(c) Alternates** The Secretary of State may designate an alternate Panel member for each Panel member the Secretary appoints under subsections 11 So in original. Probably should be “subsection”. (b)(1) and (3) of this section, who meets the same qualifications, to serve in the absence of the Panel member. The Governor of the State of Alaska may designate an alternative Panel member for the Panel member appointed under subsection (b)(2) of this section, who meets the same qualifications, to serve in the absence of that Panel member.
+**(c) Alternates** The Secretary of State may designate an alternate Panel member for each Panel member the Secretary appoints under subsections 11 So in original. Probably should be “subsection”. (b)(1) and (3), who meets the same qualifications, to serve in the absence of the Panel member. The Governor of the State of Alaska may designate an alternative Panel member for the Panel member appointed under subsection (b)(2), who meets the same qualifications, to serve in the absence of that Panel member.
 
 **(d) Term length** Panel members and alternate Panel members shall serve four-year terms. Any individual appointed to fill a vacancy occurring before the expiration of any term shall be appointed for the remainder of that term.
 
 **(e) Reappointment** Panel members and alternate Panel members shall be eligible for reappointment.
 
-**(f) Decisions** Decisions by the United States section of the Panel shall be made by the consensus of the Panel members appointed under paragraphs (2) and (3) of subsection (a) of this section.
+**(f) Decisions** Decisions by the United States section of the Panel shall be made by the consensus of the Panel members appointed under paragraphs (2) and (3) of subsection (a).
 
 **(g) Consultation** In carrying out their functions under the Agreement, Panel members may consult with such other interested parties as they consider appropriate.
 
@@ -95,7 +95,7 @@ The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oc
 ## § 5706. Authority and responsibility
 **(a) Responsible management entity** The State of Alaska Department of Fish and Game shall be the responsible management entity for the United States for the purposes of the Agreement.
 
-**(b) Effect of designation** The designation under subsection (a) of this section shall not be considered to expand, diminish, or change the management authority of the State of Alaska or the Federal Government with respect to fishery resources.
+**(b) Effect of designation** The designation under subsection (a) shall not be considered to expand, diminish, or change the management authority of the State of Alaska or the Federal Government with respect to fishery resources.
 
 **(c) Recommendations of Panel** In addition to recommendations made by the Panel to the responsible management entities in accordance with the Agreement, the Panel may make recommendations concerning the conservation and management of salmon originating in the Yukon River to the Department of the Interior, Department of Commerce, Department of State, North Pacific Fishery Management Council, and other Federal or State entities as appropriate. Recommendations by the Panel shall be advisory in nature.
 
@@ -112,7 +112,7 @@ In the event that the Treaty between Canada and the United States of America con
 
 **(b) Travel and other expenses** Travel and other necessary expenses shall be paid for all Panel members, alternate Panel members, United States members of the Joint Technical Committee, and members of the Advisory Committee when engaged in the actual performance of duties.
 
-**(c) Status as Federal employees** Except for officials of the United States Government, individuals described in subsection (b) of this section shall not be considered to be Federal employees while engaged in the actual performance of duties, except for the purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 71 11 So in original. Probably should be chapter “171”. of title 28.
+**(c) Status as Federal employees** Except for officials of the United States Government, individuals described in subsection (b) shall not be considered to be Federal employees while engaged in the actual performance of duties, except for the purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 71 11 So in original. Probably should be chapter “171”. of title 28.
 
 ### Statutory Notes
 
@@ -178,13 +178,13 @@ There are authorized to be appropriated $4,000,000 for each fiscal year for carr
 
   (A) The Secretary of State may designate an alternate Panel member for each Panel member the Secretary appoints under paragraphs (1)(A) and (C), who meets the same qualifications, to serve in the absence of the Panel member.
 
-  (B) The Governor of the State of Alaska may designate an alternative Panel member for the Panel member appointed under subsection (b)(1)(B) of this section, who meets the same qualifications, to serve in the absence of that Panel member.
+  (B) The Governor of the State of Alaska may designate an alternative Panel member for the Panel member appointed under subsection (b)(1)(B), who meets the same qualifications, to serve in the absence of that Panel member.
 
 **(c) Term length** Panel members and alternate Panel members shall serve 4-year terms. Any individual appointed to fill a vacancy occurring before the expiration of any term shall be appointed for the remainder of that term.
 
 **(d) Reappointment** Panel members and alternate Panel members shall be eligible for reappointment.
 
-**(e) Decisions** Decisions of the Panel shall be made by the consensus of the Panel members appointed under subparagraphs (B) and (C) of subsection (b)(1) of this section.
+**(e) Decisions** Decisions of the Panel shall be made by the consensus of the Panel members appointed under subparagraphs (B) and (C) of subsection (b)(1).
 
 **(f) Consultation** In carrying out their functions, Panel members may consult with such other interested parties as they consider appropriate.
 
@@ -223,7 +223,7 @@ The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oc
 ## § 5724. Authority and responsibility
 **(a) Responsible management entity** The State of Alaska Department of Fish and Game shall be the responsible management entity for the United States for the purposes of any agreement with Canada regarding management of salmon stocks originating from the Yukon River in Canada.
 
-**(b) Effect of designation** The designation under subsection (a) of this section shall not be considered to expand, diminish, or otherwise change the management authority of the State of Alaska or the Federal Government with respect to fishery resources.
+**(b) Effect of designation** The designation under subsection (a) shall not be considered to expand, diminish, or otherwise change the management authority of the State of Alaska or the Federal Government with respect to fishery resources.
 
 **(c) Recommendations of Panel** In addition to recommendations made by the Panel to the responsible management entities in accordance with any agreement with Canada regarding management of salmon stocks originating from the Yukon River in Canada, the Panel may make recommendations concerning the conservation and management of salmon originating in the Yukon River to the Department of the Interior, the Department of Commerce, the Department of State, the North Pacific Fishery Management Council, and other Federal or State entities as appropriate. Recommendations by the Panel shall be advisory in nature.
 

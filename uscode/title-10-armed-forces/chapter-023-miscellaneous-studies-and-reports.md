@@ -126,13 +126,16 @@ Pub. L. 103–337, div. A, title V, § 554(b), Oct. 5, 1994, 108 Stat. 2773, req
 
 ### Statutory Notes
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this section requiring submittal of report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
 #### Initial Survey
 Pub. L. 113–291, div. A, title X, § 1073(a)(3), Dec. 19, 2014, 128 Stat. 3518, provided that: “The Secretary of Defense shall carry out the first survey required by [section 481a of title 10](./chapter-023-miscellaneous-studies-and-reports.md#section-481a), United States Code (as added by this subsection), during fiscal year 2016.”
 
 
 <a id="section-482"></a>
 ## § 482. Quarterly reports: personnel and unit readiness
-**(a) Quarterly Reports Required.—** Not later than 45 days after the end of each calendar-year quarter, the Secretary of Defense shall submit to Congress a report regarding the military readiness of the active and reserve components. Each report shall contain the information required by subsections (b), (d), (e), (f), (g), (h), and (i).
+**(a) Quarterly Reports Required.—** Not later than 30 days after the end of each calendar-year quarter, the Secretary of Defense shall submit to Congress a report regarding the military readiness of the active and reserve components. Each report shall contain the information required by subsections (b), (d), (e), (f), and (g).
 
 **(b) Readiness Problems and Remedial Actions.—** Each report shall specifically describe—
 
@@ -154,23 +157,7 @@ Pub. L. 113–291, div. A, title X, § 1073(a)(3), Dec. 19, 2014, 128 Stat. 3518
 
 (3) as part of any regularly established process of periodic readiness reviews for the Department of Defense as a whole.
 
-**(d) Prepositioned Stocks.—** Each report shall also include a military department-level or agency-level assessment of the readiness of prepositioned stocks, including—
-
-(1) an assessment of the fill and materiel readiness of stocks by geographic location;
-
-(2) an overall assessment by military department or Defense Agency of the ability of the respective stocks to meet operation and contingency plans; and
-
-(3) a mitigation plan for any shortfalls or gaps identified under paragraph (1) or (2) and a timeline associated with corrective action.
-
-**(e) Readiness of National Guard to Perform Civil Support Missions.—**
-
-(1) Each report shall also include an assessment of the readiness of the National Guard to perform tasks required to support the National Response Framework for support to civil authorities.
-
-(2) Any information in an assessment under this subsection that is relevant to the National Guard of a particular State shall also be made available to the Governor of that State.
-
-(3) The Secretary shall ensure that each State Governor has an opportunity to provide to the Secretary an independent evaluation of that State’s National Guard, which the Secretary shall include with each assessment submitted under this subsection.
-
-**(f) Combatant Command Assigned Mission Assessments.—**
+**(d) Combatant Command Assigned Mission Assessments.—**
 
 (1) Each report shall also include an assessment by each commander of a geographic or functional combatant command of the ability of the command to successfully execute each of the assigned missions of the command. Each such assessment for a combatant command shall also include a list of the mission essential tasks for each assigned mission of the command and an assessment of the ability of the command to successfully complete each task within prescribed timeframes.
 
@@ -178,9 +165,9 @@ Pub. L. 113–291, div. A, title X, § 1073(a)(3), Dec. 19, 2014, 128 Stat. 3518
 
 (3) The assessment included in the report under paragraph (1) by the Commander of the United States Strategic Command shall include a separate assessment prepared by the Commander of United States Cyber Command relating to the readiness of United States Cyber Command and the readiness of the cyber force of each of the military departments.
 
-**(g) Risk Assessment of Dependence on Contractor Support.—** Each report shall also include an assessment by the Chairman of the Joint Chiefs of Staff of the level of risk incurred by using contract support in contingency operations as required under Department of Defense Instruction 1100.22, “Policies and Procedures for Determining Workforce Mix”.
+**(e) Risk Assessment of Dependence on Contractor Support.—** Each report shall also include an assessment by the Chairman of the Joint Chiefs of Staff of the level of risk incurred by using contract support in contingency operations as required under Department of Defense Instruction 1100.22, “Policies and Procedures for Determining Workforce Mix”.
 
-**(h) Combat Support and Related Agencies Assessment.—**
+**(f) Combat Support and Related Agencies Assessment.—**
 
 (1) Each report shall also include an assessment by the Secretary of Defense of the military readiness of the combat support and related agencies, including, for each such agency—
 
@@ -216,7 +203,7 @@ Pub. L. 113–291, div. A, title X, § 1073(a)(3), Dec. 19, 2014, 128 Stat. 3518
 
   (I) Any other Defense Agency designated as a combat support agency by the Secretary of Defense.
 
-**(i) Major Exercise Assessments.—**
+**(g) Major Exercise Assessments.—**
 
 (1) Each report under this section shall also include information on each major exercise conducted by a geographic or functional combatant command or military department, including—
 
@@ -228,11 +215,17 @@ Pub. L. 113–291, div. A, title X, § 1073(a)(3), Dec. 19, 2014, 128 Stat. 3518
 
 (2) In this subsection, the term “major exercise” means a named major training event, an integrated or joint exercise, or a unilateral major exercise.
 
-**(j) Classification of Reports.—** A report under this section shall be submitted in unclassified form. To the extent the Secretary of Defense determines necessary, the report may also be submitted in classified form.
+**(h) Cannibalization Rates.—** Each report under this section shall include a separate unclassified report containing the information collected pursuant to [section 117(c)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section117/c/7&num=0&edition=prelim).
+
+**(i) Classification of Reports.—** A report under this section shall be submitted in unclassified form. To the extent the Secretary of Defense determines necessary, the report may also be submitted in classified form.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328, § 331(a), (b)(1), substituted “Not later than 30 days after the end of each calendar-year quarter” for “Not later than 45 days after the end of each calendar-year quarter” and “subsections (b), (d), (e), (f), and (g)” for “subsections (b), (d), (e), (f), (g), (h), and (i)”.
+
+Subsecs. (d) to (j). Pub. L. 114–328, § 331(b)(2), (3), (c), added subsec. (h), redesignated subsecs. (f) to (j) as (d) to (g) and (i), respectively, and struck out former subsecs. (d) and (e), which related to prepositioned stocks and readiness of National Guard to perform civil support missions, respectively.
+
 2014—Subsec. (a). Pub. L. 113–291, § 321(1), substituted “the military readiness of the active and reserve components.” for “military readiness.” and “subsections (b), (d), (e), (f), (g), (h), and (i).” for “subsections (b), (d), (f), (g), (h), (i), (j), and (k), and the reports for the second and fourth quarters of a calendar year shall also contain the information required by subsection (e).”
 
 Subsec. (d). Pub. L. 113–291, § 321(2), (3), added subsec. (d) and struck out former subsec. (d) which related to comprehensive readiness indicators for active components.
@@ -321,6 +314,9 @@ Pub. L. 105–261, div. A, title III, § 373(d)(2), Oct. 17, 1998, 112 Stat. 199
 #### Effective Date
 Pub. L. 104–106, div. A, title III, § 361(b), Feb. 10, 1996, 110 Stat. 273, provided that: “Section 452 [now 482] of title 10, United States Code, as added by subsection (a), shall take effect with the calendar-year quarter during which this Act is enacted [enacted Feb. 10, 1996].”
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (a) of this section requiring submittal of quarterly reports to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
 #### Quarterly Reports on Personnel and Unit Readiness
 Pub. L. 110–181, div. A, title III, § 351(c)(2), Jan. 28, 2008, 122 Stat. 71, provided that: “The amendment made by subsection (b) [amending this section] shall apply with respect to the quarterly report required under [section 482 of title 10](./chapter-023-miscellaneous-studies-and-reports.md#section-482), United States Code, for the second quarter of fiscal year 2009 and each subsequent report required under that section.”
 
@@ -357,8 +353,8 @@ Pub. L. 112–239, div. A, title IX, § 939(b), Jan. 2, 2013, 126 Stat. 1888, pr
 
 
 <a id="section-485"></a>
-## § 485. Quarterly counterterrorism operations briefings
-**(a) Briefings Required.—** The Secretary of Defense shall provide to the congressional defense committees quarterly briefings outlining Department of Defense counterterrorism operations and related activities.
+## § 485. Monthly counterterrorism operations briefings
+**(a) Briefings Required.—** The Secretary of Defense shall provide to the congressional defense committees monthly briefings outlining Department of Defense counterterrorism operations and related activities.
 
 **(b) Elements.—** Each briefing under subsection (a) shall include each of the following:
 
@@ -374,6 +370,11 @@ Pub. L. 112–239, div. A, title IX, § 939(b), Jan. 2, 2013, 126 Stat. 1888, pr
 
 #### Prior Provisions
 A prior section 485, added Pub. L. 105–261, div. A, title IX, § 923(b)(1), Oct. 17, 1998, 112 Stat. 2105; amended Pub. L. 106–65, div. A, title IX, § 931, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 726, 774; Pub. L. 107–107, div. A, title IX, § 922, Dec. 28, 2001, 115 Stat. 1198; Pub. L. 110–417, [div. A], title II, § 241(a), Oct. 14, 2008, 122 Stat. 4395, related to biennial reports on joint and service concept development and experimentation, prior to repeal by Pub. L. 112–81, div. A, title X, § 1061(7)(A), Dec. 31, 2011, 125 Stat. 1583.
+
+#### Amendments
+2016—Pub. L. 114–328, § 1031(b), substituted “Monthly” for “Quarterly” in section catchline.
+
+Subsec. (a). Pub. L. 114–328, § 1031(a), substituted “monthly” for “quarterly”.
 
 
 <a id="section-486"></a>
@@ -393,32 +394,32 @@ Section, added Pub. L. 106–65, div. A, title IX, § 923(b)(1), Oct. 5, 1999, 1
 
 
 <a id="section-488"></a>
-## § 488. Management of electromagnetic spectrum
-**(a) Requirement for Strategic Plan.—** Every three years, the Secretary of Defense, in consultation with the Director of National Intelligence and the Secretary of Commerce, shall prepare a strategic plan for the management of the electromagnetic spectrum to ensure the accessibility and efficient use of that spectrum needed to support the national security of the United States. Each such strategic plan shall include each of the following:
+## § 488. Management and review of electromagnetic spectrum
+**(a) Organization.—** The Secretary of Defense shall—
 
-(1) An inventory of the uses of the electromagnetic spectrum for national security purposes and other purposes.
+(1) ensure the effective organization and management of the electromagnetic spectrum used by the Department of Defense; and
 
-(2) An estimate of the need for electromagnetic spectrum for national security and other purposes over each of the periods specified in subsection (b).
+(2) establish an enduring review and evaluation process that—
 
-(3) Any other matters that the Secretary of Defense, in consultation with the Director of National Intelligence and the Secretary of Commerce, considers appropriate for the strategic plan.
+  (A) considers all requirements relating to such spectrum; and
 
-**(b) Periods Covered by Strategic Plan.—** Each strategic plan prepared under subsection (a) shall cover each of the following periods (counting from the date of the issuance of the plan):
+  (B) ensures that all users of such spectrum, regardless of the classification of such uses, are involved in the decision-making process of the Department concerning the potential sharing, reassigning, or reallocating of such spectrum, or the relocation of the uses by the Department of such spectrum.
 
-(1) Zero to five years.
+**(b) Reports.—**
 
-(2) Five to ten years.
+(1) From time to time as the Secretary and the Chairman of the Joint Chiefs of Staff determine useful for the effective oversight of the access by the Department to electromagnetic spectrum, but not less frequently than every two years, the Secretary and the Chairman shall jointly submit to the congressional defense committees a report on national policy plans regarding implications for such access in bands identified for study for potential reallocation, or under consideration for potential reallocation, by the Policy and Plans Steering Group established by the National Telecommunications and Information Administration.
 
-(3) Ten to thirty years.
+(2) Each report under paragraph (1) shall address, with respect to the electromagnetic spectrum used by the Department that is covered by the report, the implications to the missions of the Department resulting from sharing, reassigning, or reallocating the spectrum, or relocating the uses by the Department of such spectrum, if the Secretary and the Chairman jointly determine that such sharing, reassigning, reallocating, or relocation—
 
-**(c) Submission of Plan to Congress.—**
+  (A) would potentially create a loss of essential military capability to the missions of the Department, as determined under feasibility assessments to ensure comparable capability; or
 
-(1) The Secretary of Defense shall submit to Congress the strategic plan most recently prepared under subsection (a) at the same time that the President submits to Congress the budget for an even-numbered fiscal year under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim).
-
-(2) Each strategic plan submitted under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+  (B) would not likely be possible within the 10-year period beginning on the date of the report.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Pub. L. 114–328 amended section generally. Prior to amendment, section required Secretary of Defense, in consultation with Director of National Intelligence and Secretary of Commerce, to prepare strategic plan for the management of the electromagnetic spectrum.
+
 2014—Subsec. (a). Pub. L. 113–291 inserted a comma after “Every three years” in introductory provisions.
 
 2013—Pub. L. 113–66, § 1072(b)(1), struck out “: biennial strategic plan” after “spectrum” in section catchline.
@@ -430,6 +431,9 @@ Subsec. (b). Pub. L. 113–66, § 1072(a)(2), added subsec. (b). Former subsec. 
 Subsec. (c). Pub. L. 113–66, § 1072(a)(3), designated existing provisions as par. (1) and added par. (2).
 
 Pub. L. 113–66, § 1072(a)(2), redesignated subsec. (b) as (c).
+
+#### Issuance of Instruction or Directive
+Pub. L. 114–328, div. A, title X, § 1065(b), Dec. 23, 2016, 130 Stat. 2410, provided that: “The Secretary of Defense shall— “(1) not later than 180 days after the date of the enactment of this Act [Dec. 23, 2016], issue a Department of Defense Instruction or a Department of Defense Directive to carry out [section 488(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section488/a&num=0&edition=prelim), United States Code, as amended by subsection (a); and “(2) upon the date of the issuance of the instruction or directive issued under paragraph (1), submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] such instruction or directive.”
 
 
 <a id="section-489"></a>

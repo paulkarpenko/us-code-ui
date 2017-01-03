@@ -228,9 +228,17 @@ Amendment by Pub. L. 103–337 applicable with regard to any acquisition or tran
 
 **(b)** Payment-in-kind or exchange entitlements accrued as a result of acquisitions and transfers of logistic support, supplies, and services under authority of this subchapter shall be satisfied within 12 months after the date of the delivery of the logistic support, supplies, or services.
 
+**(c)**
+
+(1) Any credits of the United States accrued as a result of the provision of logistic support, supplies, and services under the authority of this subchapter that remain unliquidated more than 18 months after the date of delivery of the logistic support, supplies, or services may, at the option of the Secretary of Defense, with the concurrence of the Secretary of State, be liquidated by offsetting the credits against any amount owed by the Department of Defense, pursuant to a transaction or transactions concluded under the authority of this subchapter, to the government or international organization to which the logistic support, supplies, or services were provided by the United States.
+
+(2) The amount of any credits offset pursuant to paragraph (1) shall be credited as specified in [section 2346 of this title](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2346) as if it were a receipt of the United States.
+
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (c). Pub. L. 114–328 added subsec. (c).
+
 1994—Subsec. (a). Pub. L. 103–337 substituted “12 months” for “three months”.
 
 1989—Subsecs. (a), (b). Pub. L. 101–189 substituted “this subchapter” for “this chapter”.
@@ -238,6 +246,9 @@ Amendment by Pub. L. 103–337 applicable with regard to any acquisition or tran
 1986—Pub. L. 99–661 designated existing provisions as subsec. (a) and added subsec. (b).
 
 1985—Pub. L. 99–145 renumbered [section 2325 of this title](./chapter-137-procurement-generally.md#section-2325) as this section.
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–328, div. A, title X, § 1083(b), Dec. 23, 2016, 130 Stat. 2420, provided that: “Subsection (c) of [section 2345 of title 10](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2345), United States Code, as added by subsection (a), shall apply with respect to credits accrued by the United States that— “(1) were accrued prior to, and remain unpaid as of, the date of the enactment of this Act [Dec. 23, 2016]; or “(2) are accrued after the date of the enactment of this Act.”
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–337 applicable with regard to any acquisition or transfer of logistic support, supplies, and services under authority of this subchapter that is initiated after Oct. 5, 1994, see section 1317(j) of Pub. L. 103–337, set out as a note under [section 2341 of this title](./chapter-138-cooperative-agreements-with-nato-allies-and-other-countries.md#section-2341).
@@ -464,19 +475,19 @@ Amendment by Pub. L. 103–337 applicable with regard to any acquisition or tran
 
 (2) A country or organization referred to in subsection (a)(2) may not use any military or economic assistance grant, loan, or other funds provided by the United States for the purpose of making the contribution of that country or organization to a cooperative research and development program entered into with the United States under this section.
 
-**(e) Cooperative Opportunities Document.—**
+**(e) Cooperative Opportunities.—**
 
-(1) In order to ensure that opportunities to conduct cooperative research and development projects are considered at an early point during the formal development review process of the Department of Defense in connection with any planned project of the Department, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall prepare a cooperative opportunities document before the first milestone or decision point with respect to that project for review by the Defense Acquisition Board at formal meetings of the Board.
+(1) In order to ensure that opportunities to conduct cooperative research and development projects are considered at an early point during the formal development review process of the Department of Defense in connection with any planned project of the Department, opportunities for such cooperative research and development shall be addressed in the acquisition strategy for the project.
 
-(2) A cooperative opportunities document referred to in paragraph (1) shall include the following:
+(2) A cooperative opportunities discussion referred to in paragraph (1) shall consider the following:
 
-  (A) A statement indicating whether or not a project similar to the one under consideration by the Department of Defense is in development or production by any country or organization referred to in subsection (a)(2) or NATO organizations.
+  (A) Whether or not a project similar to the one under consideration by the Department of Defense is in development or production by any country or organization referred to in subsection (a)(2) or NATO organizations.
 
-  (B) If a project similar to the one under consideration by the Department of Defense is in development or production by one or more countries and organizations referred to in subsection (a)(2), an assessment by the Under Secretary of Defense for Acquisition, Technology, and Logistics as to whether that project could satisfy, or could be modified in scope so as to satisfy, the military requirements of the project of the United States under consideration by the Department of Defense.
+  (B) If a project similar to the one under consideration by the Department of Defense is in development or production by one or more countries and organizations referred to in subsection (a)(2), an assessment as to whether that project could satisfy, or could be modified in scope so as to satisfy, the military requirements of the project.
 
   (C) An assessment of the advantages and disadvantages with regard to program timing, developmental and life cycle costs, technology sharing, and Rationalization, Standardization, and Interoperability (RSI) of seeking to structure a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
 
-  (D) The recommendation of the Under Secretary as to whether the Department of Defense should explore the feasibility and desirability of a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
+  (D) A recommendation to the milestone decision authority as to whether the Department of Defense should explore the feasibility and desirability of a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
 
 **(f)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(a)(17), Nov. 24, 2003, 117 Stat. 1597.]
 
@@ -489,6 +500,8 @@ Amendment by Pub. L. 103–337 applicable with regard to any acquisition or tran
   (B) that while the testing of nondevelopmental items and items in the late state of the development process are preferred, the testing of equipment, munitions, and technologies may be conducted to determine procurement alternatives.
 
 (2) The Secretary of Defense may acquire equipment, munitions, and technologies of the type described in paragraph (1) for the purpose of conducting the testing described in that paragraph.
+
+(3) The use of side-by-side testing under this subsection may be considered to be the use of competitive procedures for purposes of chapter 137 of this title, when procuring items within 5 years after an initial determination that the items have been successfully tested and found to satisfy United States military requirements or to correct operational deficiencies.
 
 **(h) Secretary To Encourage Similar Programs.—** The Secretary of Defense shall encourage member nations of the North Atlantic Treaty Organization, major non-NATO allies, and other friendly foreign countries to establish programs similar to the one provided for in this section.
 
@@ -512,6 +525,20 @@ Provisions relating to NATO countries were contained in Pub. L. 99–145, title 
 Provisions relating to major non-NATO allies were contained in [section 2767a of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2767a&num=0&edition=prelim), Foreign Relations and Intercourse, prior to repeal by Pub. L. 101–189, § 931(d)(2).
 
 #### Amendments
+2016—Subsec. (g)(3). Pub. L. 114–328 added par. (3).
+
+2015—Subsec. (e). Pub. L. 114–92, § 821(b)(1)(A), struck out “Document” after “Cooperative Opportunities” in heading.
+
+Subsec. (e)(1). Pub. L. 114–92, § 821(b)(1)(B), substituted “opportunities for such cooperative research and development shall be addressed in the acquisition strategy for the project” for “the Under Secretary of Defense for Acquisition, Technology, and Logistics shall prepare a cooperative opportunities document before the first milestone or decision point with respect to that project for review by the Defense Acquisition Board at formal meetings of the Board”.
+
+Subsec. (e)(2). Pub. L. 114–92, § 821(b)(1)(C)(i), substituted “discussion” for “document” and “consider” for “include” in introductory provisions.
+
+Subsec. (e)(2)(A). Pub. L. 114–92, § 821(b)(1)(C)(ii), substituted “Whether” for “A statement indicating whether”.
+
+Subsec. (e)(2)(B). Pub. L. 114–92, § 821(b)(1)(C)(iii), struck out “by the Under Secretary of Defense for Acquisition, Technology, and Logistics” after “an assessment” and “of the United States under consideration by the Department of Defense” after “of the project”.
+
+Subsec. (e)(2)(D). Pub. L. 114–92, § 821(b)(1)(C)(iv), substituted “A recommendation to the milestone decision authority” for “The recommendation of the Under Secretary”.
+
 2011—Subsec. (b)(2). Pub. L. 112–81, § 865, substituted “, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Assistant Secretary of Defense for Research and Engineering” for “and to one other official of the Department of Defense”.
 
 Subsec. (g)(3). Pub. L. 112–81, § 1061(14), struck out par. (3) which read as follows: “The Assistant Secretary of Defense for Research and Engineering shall notify the congressional defense committees of the intent to obligate funds made available to carry out this subsection not less than 7 days before such funds are obligated.”
@@ -1090,6 +1117,9 @@ Subsec. (g). Pub. L. 104–106, § 1331(c)(2), added subsec. (g).
 
 Subsec. (f). Pub. L. 103–337, § 1070(a)(10)(B), struck out “the” before “Congress” in introductory provisions.
 
+#### Temporary Authority for Acceptance and Use of Contributions for Certain Construction, Maintenance, and Repair Projects Mutually Beneficial to the Department of Defense and Kuwait Military Forces
+Pub. L. 114–92, div. B, title XXVIII, § 2804, Nov. 25, 2015, 129 Stat. 1170, as amended by Pub. L. 114–328, div. B, title XXVIII, § 2807, Dec. 23, 2016, 130 Stat. 2715, provided that: “(a) Authority To Accept Contributions.—The Secretary of Defense, after consultation with the Secretary of State, may accept cash contributions from the government of Kuwait for the purpose of paying for the costs of construction (including military construction not otherwise authorized by law), maintenance, and repair projects mutually beneficial to the Department of Defense and Kuwait military forces. “(b) Accounting.—Contributions accepted under subsection (a) shall be placed in an account established by the Secretary of Defense and shall remain available until expended as provided in such subsection. “(c) Prohibition on Use of Contributions To Offset Burden Sharing Contributions.—Contributions accepted under subsection (a) may not be used to offset any burden sharing contributions made by the government of Kuwait. “(d) Notice.—When a decision is made to carry out a project using contributions accepted under subsection (a) and the estimated cost of the project will exceed the thresholds prescribed by [section 2805 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2805), United States Code, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives written notice of decision, the justification for the project, and the estimated cost of the project. “(e) Mutually Beneficial Defined.—A project described in subsection (a) shall be considered to be ‘mutually beneficial’ if—“(1) the project is in support of a bilateral defense cooperation agreement between the United States and the government of Kuwait; or “(2) the Secretary of Defense determines that the United States may derive a benefit from the project, including—“(A) access to and use of facilities of the Kuwait military forces; “(B) ability or capacity for future force posture; and “(C) increased interoperability between the Department of Defense and Kuwait military forces. “(f) Expiration of Project Authority.—The authority to carry out projects under this section expires on September 30, 2030. The expiration of the authority does not prevent the continuation of any project commenced before that date.”
+
 
 <a id="section-2350k"></a>
 ## § 2350k. Relocation within host nation of elements of armed forces overseas
@@ -1170,65 +1200,4 @@ Pub. L. 104–106, div. A, title XIII, § 1332(b), Feb. 10, 1996, 110 Stat. 484,
 
 
 <a id="section-2350m"></a>
-## § 2350m. Participation in multinational military centers of excellence
-**(a) Participation Authorized.—** The Secretary of Defense may, with the concurrence of the Secretary of State, authorize the participation of members of the armed forces and Department of Defense civilian personnel in any multinational military center of excellence for purposes of—
-
-(1) enhancing the ability of military forces and civilian personnel of the nations participating in such center to engage in joint exercises or coalition or international military operations; or
-
-(2) improving interoperability between the armed forces and the military forces of friendly foreign nations.
-
-**(b) Memorandum of Understanding.—**
-
-(1) The participation of members of the armed forces or Department of Defense civilian personnel in a multinational military center of excellence under subsection (a) shall be in accordance with the terms of one or more memoranda of understanding entered into by the Secretary of Defense, with the concurrence of the Secretary of State, and the foreign nation or nations concerned.
-
-(2) If Department of Defense facilities, equipment, or funds are used to support a multinational military center of excellence under subsection (a), the memoranda of understanding under paragraph (1) with respect to that center shall provide details of any cost-sharing arrangement or other funding arrangement.
-
-**(c) Availability of Appropriated Funds.—**
-
-(1) Funds appropriated to the Department of Defense for operation and maintenance are available as follows:
-
-  (A) To pay the United States share of the operating expenses of any multinational military center of excellence in which the United States participates under this section.
-
-  (B) To pay the costs of the participation of members of the armed forces and Department of Defense civilian personnel in multinational military centers of excellence under this section, including the costs of expenses of such participants.
-
-(2) No funds may be used under this section to fund the pay or salaries of members of the armed forces and Department of Defense civilian personnel who participate in multinational military centers of excellence under this section.
-
-**(d) Use of Department of Defense Facilities and Equipment.—** Facilities and equipment of the Department of Defense may be used for purposes of the support of multinational military centers of excellence under this section that are hosted by the Department.
-
-**(e) Annual Reports on Use of Authority.—**
-
-(1) Not later than October 31 each year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the use of the authority in this section during the preceding fiscal year.
-
-(2) Each report required by paragraph (1) shall include, for the fiscal year covered by such report, the following:
-
-  (A) A detailed description of the participation of the Department of Defense, and of members of the armed forces and civilian personnel of the Department, in multinational military centers of excellence under the authority of this section.
-
-  (B) For each multinational military center of excellence in which the Department of Defense, or members of the armed forces or civilian personnel of the Department, so participated—
-
-    (i) a description of such multinational military center of excellence;
-
-    (ii) a description of the activities participated in by the Department, or by members of the armed forces or civilian personnel of the Department; and
-
-    (iii) a statement of the costs of the Department for such participation, including—
-
-      (I) a statement of the United States share of the expenses of such center and a statement of the percentage of the United States share of the expenses of such center to the total expenses of such center; and
-
-      (II) a statement of the amount of such costs (including a separate statement of the amount of costs paid for under the authority of this section by category of costs).
-
-**(f) Multinational Military Center of Excellence Defined.—** In this section, the term “multinational military center of excellence” means an entity sponsored by one or more nations that is accredited and approved by the Military Committee of the North Atlantic Treaty Organization (NATO) as offering recognized expertise and experience to personnel participating in the activities of such entity for the benefit of NATO by providing such personnel opportunities to—
-
-(1) enhance education and training;
-
-(2) improve interoperability and capabilities;
-
-(3) assist in the development of doctrine; and
-
-(4) validate concepts through experimentation.
-
-### Statutory Notes
-
-#### Amendments
-2013—Subsec. (e)(1). Pub. L. 112–239 substituted “Not later than October 31 each year” for “Not later than October 31, 2009, and annually thereafter”.
-
-#### Effective Date
-Pub. L. 110–417, [div. A], title XII, § 1232(c), Oct. 14, 2008, 122 Stat. 4639, provided that: “The amendments made by this section [enacting this section] shall take effect on October 1, 2008”.
+## § 2350m. Renumbered § 344]

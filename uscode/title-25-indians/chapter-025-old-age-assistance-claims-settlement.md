@@ -30,7 +30,7 @@ Pub. L. 98–500, § 1, Oct. 19, 1984, 98 Stat. 2317, provided: “That this Act
 ## § 2302. Payment of claims
 **(a) Authority of Secretary** The Secretary is authorized and directed to determine the portion of any unauthorized disbursement to which any individual under this chapter is entitled, and to pay to such individual the amount which the Secretary determines such individual to be entitled. Any payment under this provision shall include interest at a rate of 5 per centum per annum, simple interest, from the date on which such disbursement was made from the trust estate of the deceased Indian.
 
-**(b) Minimum amount for payment** No payment shall be made to a person under subsection (a) of this section with respect to any unauthorized disbursement from the trust estate of a deceased Indian if—
+**(b) Minimum amount for payment** No payment shall be made to a person under subsection (a) with respect to any unauthorized disbursement from the trust estate of a deceased Indian if—
 
 (1) the total amount of unauthorized disbursements from such trust estate was less than $50; or
 
@@ -39,7 +39,7 @@ Pub. L. 98–500, § 1, Oct. 19, 1984, 98 Stat. 2317, provided: “That this Act
 ### Statutory Notes
 
 #### Amendments
-1988—Subsec. (b). Pub. L. 100–581 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No payment shall be made under subsection (a) of this section with respect to any unauthorized disbursement from the trust estate of a deceased Indian if the total amount of unauthorized disbursement from such trust estate was less than $50.”
+1988—Subsec. (b). Pub. L. 100–581 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No payment shall be made under subsection (a) with respect to any unauthorized disbursement from the trust estate of a deceased Indian if the total amount of unauthorized disbursement from such trust estate was less than $50.”
 
 
 <a id="section-2303"></a>
@@ -59,7 +59,7 @@ Pub. L. 98–500, § 1, Oct. 19, 1984, 98 Stat. 2317, provided: “That this Act
 
 **(b) Payment without filing of claim** In any case in which the Secretary ascertains the name and location of any individual who is entitled to any portion of an unauthorized disbursement and determines the amount of such unauthorized disbursement to which such individual is entitled, the Secretary shall pay such amount, including interest thereon as provided in [section 2302 of this title](./chapter-025-old-age-assistance-claims-settlement.md#section-2302), to such individual immediately without requiring such individual to file a formal claim for payment.
 
-**(c) Notification** The Secretary shall use the best available means of notifying each individual who is identified in the search conducted under subsection (a) of this section of the right of such individual to receive payment under this chapter. The means of notification available to the Secretary shall include—
+**(c) Notification** The Secretary shall use the best available means of notifying each individual who is identified in the search conducted under subsection (a) of the right of such individual to receive payment under this chapter. The means of notification available to the Secretary shall include—
 
 (1) notice provided directly to such individual;
 

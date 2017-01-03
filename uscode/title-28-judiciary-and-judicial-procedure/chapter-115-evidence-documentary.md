@@ -325,7 +325,7 @@ Pub. L. 96–611, § 8(c), Dec. 28, 1980, 94 Stat. 3571, provided that: “In fu
 
 (2) reasonable notice and opportunity to be heard is given to the contestants.
 
-**(d) Continuing Jurisdiction.—** A court of a State that has made a child support order consistently with this section has continuing, exclusive jurisdiction over the order if the State is the child’s State or the residence of any individual contestant unless the court of another State, acting in accordance with subsections (e) and (f), has made a modification of the order.
+**(d) Continuing Jurisdiction.—** A court of a State that has made a child support order consistently with this section has continuing, exclusive jurisdiction over the order if the State is the child’s State or the residence of any individual contestant or the parties have consented in a record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order, unless the court of another State, acting in accordance with subsections (e) and (f), has made a modification of the order.
 
 **(e) Authority To Modify Orders.—** A court of a State may modify a child support order issued by a court of another State if—
 
@@ -333,7 +333,7 @@ Pub. L. 96–611, § 8(c), Dec. 28, 1980, 94 Stat. 3571, provided that: “In fu
 
 (2)
 
-  (A) the court of the other State no longer has continuing, exclusive jurisdiction of the child support order because that State no longer is the child’s State or the residence of any individual contestant; or
+  (A) the court of the other State no longer has continuing, exclusive jurisdiction of the child support order because that State no longer is the child’s State or the residence of any individual contestant and the parties have not consented in a record or open court that the tribunal of the other State may continue to exercise jurisdiction to modify its order; or
 
   (B) each individual contestant has filed written consent with the State of continuing, exclusive jurisdiction for a court of another State to modify the order and assume continuing, exclusive jurisdiction over the order.
 
@@ -362,15 +362,6 @@ Pub. L. 96–611, § 8(c), Dec. 28, 1980, 94 Stat. 3571, provided that: “In fu
 **(i) Registration for Modification.—** If there is no individual contestant or child residing in the issuing State, the party or support enforcement agency seeking to modify, or to modify and enforce, a child support order issued in another State shall register that order in a State with jurisdiction over the nonmovant for the purpose of modification.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 113–183, title III, § 301(f)(2)(A), (B), (3)(B)(i), Sept. 29, 2014, 128 Stat. 1944, 1945, provided that, effective on the date on which the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance enters into force for the United States, this section is amended as follows:
-
-(1) in subsection (d), by striking “individual contestant” and inserting “individual contestant or the parties have consented in a record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order,”; and
-
-(2) in subsection (e)(2)(A), by striking “individual contestant” and inserting “individual contestant and the parties have not consented in a record or open court that the tribunal of the other State may continue to exercise jurisdiction to modify its order”.
-
-See 2014 Amendment notes below.
 
 #### Amendments
 2014—Subsec. (b). Pub. L. 113–183, § 301(f)(2)(C), inserted designations for pars. (1) to (9) and “The term” after each designation.
@@ -412,7 +403,7 @@ Pub. L. 104–193, § 322(9), redesignated subsec. (g) as (h).
 Subsec. (i). Pub. L. 104–193, § 322(13), added subsec. (i).
 
 #### Effective Date of 2014 Amendment
-Pub. L. 113–183, title III, § 301(f)(3)(B), Sept. 29, 2014, 128 Stat. 1945, provided that: “(i) The amendments made by subparagraphs (A) and (B) of paragraph (2) [amending this section] shall take effect on the date on which the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance enters into force for the United States. “(ii) The amendments made by subparagraph (C) of paragraph (2) [amending this section] shall take effect on the date of the enactment of this Act [Sept. 29, 2014].”
+Pub. L. 113–183, title III, § 301(f)(3)(B), Sept. 29, 2014, 128 Stat. 1945, provided that: “(i) The amendments made by subparagraphs (A) and (B) of paragraph (2) [amending this section] shall take effect on the date on which the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance enters into force for the United States [The Convention entered into force for the United States Jan. 1, 2017]. “(ii) The amendments made by subparagraph (C) of paragraph (2) [amending this section] shall take effect on the date of the enactment of this Act [Sept. 29, 2014].”
 
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–33 effective as if included in enactment of title III of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5557 of Pub. L. 105–33, set out as a note under [section 608 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section608&num=0&edition=prelim), The Public Health and Welfare.

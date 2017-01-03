@@ -175,7 +175,7 @@ Par. (7). Pub. L. 105–36, § 3(a)(2), (5), redesignated par. (5) as (7) and in
 
 (2) **Design, development, and administration** — The cooperative geologic mapping program shall be—
 
-  (A) designed and administered to achieve the objectives set forth in subsection (c) of this section;
+  (A) designed and administered to achieve the objectives set forth in subsection (c);
 
   (B) developed in consultation with the advisory committee; and
 
@@ -201,7 +201,7 @@ Par. (7). Pub. L. 105–36, § 3(a)(2), (5), redesignated par. (5) as (7) and in
 
   (A) in cooperation with the Association, other Federal and State agencies, public and private sector organizations and academia, the geologic-map data base; and
 
-  (B) maps and mapping techniques which achieve the objectives specified in subsection (c) of this section.
+  (B) maps and mapping techniques which achieve the objectives specified in subsection (c).
 
 **(c) Program objectives** The objectives of the geologic mapping program shall include—
 
@@ -883,6 +883,8 @@ Section text is based on act July 31, 1953, ch. 298, title I, § 1, 67 Stat. 269
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. F, title I, Dec. 16, 2014, 128 Stat. 2404.
 
 Pub. L. 113–76, div. G, title I, Jan. 17, 2014, 128 Stat. 296.
 

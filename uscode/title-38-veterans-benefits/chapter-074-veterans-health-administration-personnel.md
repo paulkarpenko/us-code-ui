@@ -15,13 +15,13 @@ There may be appointed by the Secretary such personnel as the Secretary may find
 
 (2) Scientific and professional personnel, such as microbiologists, chemists, and biostatisticians.
 
-(3) Audiologists, speech pathologists, and audiologist-speech pathologists, biomedical engineers, certified or registered respiratory therapists, dietitians, licensed physical therapists, licensed practical or vocational nurses, nurse assistants, medical instrument technicians, medical records administrators or specialists, medical records technicians, medical technologists, dental hygienists, dental assistants, nuclear medicine technologists, occupational therapists, occupational therapy assistants, kinesiotherapists, orthotist-prosthetists, pharmacists, pharmacy technicians, physical therapy assistants, prosthetic representatives, psychologists, diagnostic radiologic technologists, therapeutic radiologic technologists, social workers, marriage and family therapists, licensed professional mental health counselors, blind rehabilitation specialists, blind rehabilitation outpatient specialists, and such other classes of health care occupations as the Secretary considers necessary for the recruitment and retention needs of the Department subject to the following requirements:
+(3) Audiologists, licensed hearing aid specialists, speech pathologists, and audiologist-speech pathologists, biomedical engineers, certified or registered respiratory therapists, dietitians, licensed physical therapists, licensed practical or vocational nurses, nurse assistants, medical instrument technicians, medical records administrators or specialists, medical records technicians, medical technologists, dental hygienists, dental assistants, nuclear medicine technologists, occupational therapists, occupational therapy assistants, kinesiotherapists, orthotist-prosthetists, pharmacists, pharmacy technicians, physical therapy assistants, prosthetic representatives, psychologists, diagnostic radiologic technologists, therapeutic radiologic technologists, social workers, marriage and family therapists, licensed professional mental health counselors, blind rehabilitation specialists, blind rehabilitation outpatient specialists, and such other classes of health care occupations as the Secretary considers necessary for the recruitment and retention needs of the Department subject to the following requirements:
 
   (A) Such other classes of health care occupations—
 
     (i) are not occupations relating to administrative, clerical, or physical plant maintenance and protective services;
 
-    (ii) that 11 So in original. The word “that” probably should not appear. would otherwise receive basic pay in accordance with the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim);
+    (ii) would otherwise receive basic pay in accordance with the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim);
 
     (iii) provide, as determined by the Secretary, direct patient care services or services incident to direct patient services; and
 
@@ -37,6 +37,10 @@ There may be appointed by the Secretary such personnel as the Secretary may find
 Provisions similar to those in this section were contained in [section 4104 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4104) prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+2016—Par. (3). Pub. L. 114–256 inserted “licensed hearing aid specialists,” after “Audiologists,” in introductory provisions.
+
+2015—Par. (3)(A)(ii). Pub. L. 114–58 struck out “that” before “would otherwise receive”.
+
 2010—Par. (3). Pub. L. 111–163 inserted “nurse assistants,” after “licensed practical or vocational nurses,”, substituted “blind rehabilitation outpatient specialists, and such other classes of health care occupations as the Secretary considers necessary for the recruitment and retention needs of the Department subject to the following requirements:” for “and blind rehabilitation outpatient specialists.”, and added subpars. (A) to (C).
 
 2006—Par. (3). Pub. L. 109–461 inserted “marriage and family therapists, licensed professional mental health counselors,” after “social workers,”.
@@ -55,6 +59,9 @@ Par. (3). Pub. L. 108–170, § 301(a)(1)(B), added par. (3) and struck out form
 
 #### Effective Date of 2003 Amendment
 Amendment by section 302(a) of Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under [section 7316 of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7316).
+
+#### Licensed Hearing Aid Specialists Appointment and Services
+Pub. L. 114–256, § 4(b), (c), Dec. 14, 2016, 130 Stat. 1347, 1348, provided that: “(b) Requirements.—With respect to appointing hearing aid specialists under sections 7401 and 7402 of title 38, United States Code, as amended by subsection (a), and providing services furnished by such specialists, the Secretary [of Veterans Affairs] shall ensure that—“(1) a hearing aid specialist may only perform hearing services consistent with the hearing aid specialist’s State license related to the practice of fitting and dispensing hearing aids without excluding other qualified professionals, including audiologists, from rendering services in overlapping practice areas; “(2) services provided to veterans by hearing aid specialists shall be provided as part of the non-medical treatment plan developed by an audiologist; and “(3) the medical facilities of the Department of Veterans Affairs provide to veterans access to the full range of professional services provided by an audiologist. “(c) Consultation.—In determining the qualifications required for hearing aid specialists and in carrying out subsection (b), the Secretary shall consult with veterans service organizations, audiologists, otolaryngologists, hearing aid specialists, and other stakeholder and industry groups as the Secretary determines appropriate.”
 
 #### Prior Appointments of Certain Personnel
 Pub. L. 108–170, title III, § 301(a)(2), Dec. 6, 2003, 117 Stat. 2055, provided that: “Personnel appointed to the Veterans Health Administration before the date of the enactment of this Act [Dec. 6, 2003] who are in an occupational category of employees specified in paragraph (3) of [section 7401 of title 38](./chapter-074-veterans-health-administration-personnel.md#section-7401), United States Code, by reason of the amendment made by paragraph (1)(B) of this subsection [amending this section] shall, as of such date, be deemed to have been appointed to the Administration under such paragraph (3).”
@@ -128,7 +135,7 @@ Pub. L. 108–170, title III, § 301(a)(2), Dec. 6, 2003, 117 Stat. 2055, provid
 
 (11) **Licensed Professional Mental Health Counselor.—** — To be eligible to be appointed to a licensed professional mental health counselor position, a person must—
 
-  (A) hold a master’s degree in mental health counseling, or a related field, from a college or university approved by the Secretary; and
+  (A) hold a master’s degree or doctoral degree in mental health counseling, or a related field, from a college or university approved by the Secretary; and
 
   (B) be licensed or certified to independently practice mental health counseling.
 
@@ -148,7 +155,7 @@ Pub. L. 108–170, title III, § 301(a)(2), Dec. 6, 2003, 117 Stat. 2055, provid
 
     (ii) a State as having satisfied relevant State requirements for a peer specialist position.
 
-(14) **Other Health-Care Positions.—** — To be appointed as a physician assistant, expanded-function dental auxiliary, certified or registered respiratory therapist, licensed physical therapist, licensed practical or vocational nurse, occupational therapist, dietitian, microbiologist, chemist, biostatistician, medical technologist, dental technologist, or other position, a person must have such medical, dental, scientific, or technical qualifications as the Secretary shall prescribe.
+(14) **Other Health-Care Positions.—** — To be appointed as a physician assistant, expanded-function dental auxiliary, certified or registered respiratory therapist, licensed physical therapist, licensed practical or vocational nurse, occupational therapist, dietitian, microbiologist, chemist, biostatistician, medical technologist, dental technologist, hearing aid specialist, or other position, a person must have such medical, dental, scientific, or technical qualifications as the Secretary shall prescribe.
 
 **(c)** Except as provided in [section 7407(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7407/a&num=0&edition=prelim), a person may not be appointed in the Administration to a position listed in [section 7401(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7401/1&num=0&edition=prelim) unless the person is a citizen of the United States.
 
@@ -178,6 +185,10 @@ Pub. L. 108–170, title III, § 301(a)(2), Dec. 6, 2003, 117 Stat. 2055, provid
 Provisions similar to those in this section were contained in sections 4105 and 4108(b) of this title prior to the repeal of those sections as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+2016—Subsec. (b)(11)(A). Pub. L. 114–315 inserted “or doctoral degree” after “master’s degree”.
+
+Subsec. (b)(14). Pub. L. 114–256 inserted “, hearing aid specialist” after “dental technologist”.
+
 2008—Subsec. (b)(11). Pub. L. 110–387, § 405(a)(1), redesignated par. (11) relating to other health care positions as (14).
 
 Subsec. (b)(13). Pub. L. 110–387, § 405(a)(2), added par. (13).
@@ -748,9 +759,12 @@ Pub. L. 102–40, title I, § 103(b), May 7, 1991, 105 Stat. 199, provided that:
 ## § 7412. Annual determination of staffing shortages; recruitment and appointment for needed occupations
 **(a) In General.—** Not later than September 30 of each year, the Inspector General of the Department shall determine, and the Secretary shall publish in the Federal Register, the five occupations of personnel of this title of the Department covered under [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401) for which there are the largest staffing shortages throughout the Department as calculated over the five-year period preceding the determination.
 
-**(b) Recruitment and Appointment.—** Notwithstanding sections 3304 and 3309 through 3318 of title 5, the Secretary may, upon a determination by the Inspector General under paragraph (1) 11 So in original. Probably means subsec. (a). that there is a staffing shortage throughout the Department with respect to a particular occupation, recruit and directly appoint, during the fiscal year after the fiscal year during which such determination is made, qualified personnel to serve in that particular occupation for the Department.
+**(b) Recruitment and Appointment.—** Notwithstanding sections 3304 and 3309 through 3318 of title 5, the Secretary may, upon a determination by the Inspector General under subsection (a) that there is a staffing shortage throughout the Department with respect to a particular occupation, recruit and directly appoint, during the fiscal year after the fiscal year during which such determination is made, qualified personnel to serve in that particular occupation for the Department.
 
 ### Statutory Notes
+
+#### Amendments
+2016—Subsec. (b). Pub. L. 114–315 substituted “under subsection (a)” for “under paragraph (1)”.
 
 #### Deadline for First Determination
 Pub. L. 113–146, title III, § 301(a)(3), Aug. 7, 2014, 128 Stat. 1784, provided that: “Notwithstanding the deadline under [section 7412 of title 38](./chapter-074-veterans-health-administration-personnel.md#section-7412), United States Code, as added by paragraph (1), for the annual determination of staffing shortages in the Veterans Health Administration, the Inspector General of the Department of Veterans Affairs shall make the first determination required under such section, and the Secretary of Veterans Affairs shall publish in the Federal Register such determination, by not later than the date that is 180 days after the date of the enactment of this Act [Aug. 7, 2014].”
@@ -812,7 +826,17 @@ Pub. L. 102–40, title II, § 205, May 7, 1991, 105 Stat. 207, provided that: �
 
 <a id="section-7423"></a>
 ## § 7423. Personnel administration: full-time employees
-**(a)** The hours of employment in carrying out responsibilities under this title of any employee who is appointed in the Administration under any provision of this chapter on a full-time basis in a position listed in [section 7421(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7421/b&num=0&edition=prelim) (other than an intern or resident appointed pursuant to [section 7406 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7406)) and who accepts responsibilities for carrying out professional services for remuneration other than those assigned under this title shall consist of not less than 80 hours in a biweekly pay period (as that term is used in [section 5504 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5504&num=0&edition=prelim)).
+**(a)**
+
+(1) Except as provided in paragraph (2), the hours of employment in carrying out responsibilities under this title of any employee who is appointed in the Administration under any provision of this chapter on a full-time basis in a position listed in [section 7421(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7421/b&num=0&edition=prelim) (other than an intern or resident appointed pursuant to [section 7406 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7406)) and who accepts responsibilities for carrying out professional services for remuneration other than those assigned under this title shall consist of not less than 80 hours in a biweekly pay period (as that term is used in [section 5504 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5504&num=0&edition=prelim)).
+
+(2)
+
+  (A) Upon the advance written request of a covered physician, the Secretary may modify the hours of employment for a physician appointed in the Administration under any provision of this chapter on a full-time basis to be more or less than 80 hours in a biweekly pay period, subject to the requirements in subparagraph (B). For the purpose of determining pay, such a physician shall be deemed to have a biweekly schedule of 80 hours of employment.
+
+  (B) A physician with an irregular work schedule established under subparagraph (A) shall be obligated to account for at least 2,080 hours of employment (through performance of work or use of leave or paid time off) in a calendar year.
+
+  (C) The Secretary may prescribe regulations to implement this paragraph, including regulations making adjustments to address the annual hours requirement for physicians who are covered by this paragraph for only a portion of a calendar year.
 
 **(b)** A person covered by subsection (a) may not do any of the following:
 
@@ -869,6 +893,8 @@ The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch
 Provisions similar to those in this section were contained in section 4108(a), (c), and (e) of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–315 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the hours” for “The hours”, and added par. (2).
+
 1996—Subsec. (b). Pub. L. 104–262, § 347(a), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: “Assume responsibility for the medical care of any patient other than a patient admitted for treatment at a Department facility, except in those cases where the person, upon request and with the approval of the Under Secretary for Health, assumes such responsibilities to assist communities or medical practice groups to meet medical needs which would not otherwise be available for a period not to exceed 180 calendar days, which may be extended by the Under Secretary for Health for additional periods not to exceed 180 calendar days each.”
 
 Subsec. (c). Pub. L. 104–262, § 347(b), substituted “subsection (b)(5)” for “subsection (b)(6)” in introductory provisions.
@@ -998,19 +1024,7 @@ Provisions similar to those in this section were contained in sections 4107(i) a
 
 (3) The annual amount of the market pay payable to a physician or dentist shall be determined by the Secretary on a case-by-case basis.
 
-(4)
-
-  (A) In determining the amount of market pay for physicians or dentists, the Secretary shall consult two or more national surveys of pay for physicians or dentists, as applicable, whether prepared by private, public, or quasi-public entities in order to make a general assessment of the range of pays payable to physicians or dentists, as applicable.
-
-  (B)
-
-    (i) In determining the amount of the market pay for a particular physician or dentist under this subsection, and in determining a tier (if any) to apply to a physician or dentist under subsection (e)(1)(B), the Secretary shall consult with and consider the recommendations of an appropriate panel or board composed of physicians or dentists (as applicable). The Secretary may exempt physicians and dentists occupying administrative or executive leadership positions from the requirements of the previous sentence.
-
-    (ii) A physician or dentist may not be a member of the panel or board that makes recommendations under clause (i) with respect to the market pay of such physician or dentist, as the case may be.
-
-    (iii) The Secretary should, to the extent practicable, ensure that a panel or board consulted under this subparagraph includes physicians or dentists (as applicable) who are practicing clinicians and who do not hold management positions in the medical facility of the Department at which the physician or dentist subject to the consultation is employed.
-
-(5) The determination of the amount of market pay of a physician or dentist shall take into account—
+(4) The determination of the amount of market pay of a physician or dentist shall take into account—
 
   (A) the level of experience of the physician or dentist in the specialty or assignment of the physician or dentist;
 
@@ -1024,9 +1038,9 @@ Provisions similar to those in this section were contained in sections 4107(i) a
 
   (F) such other considerations as the Secretary considers appropriate.
 
-(6) The amount of market pay of a physician or dentist shall be evaluated by the Secretary not less often than once every 24 months. The amount of market pay may be adjusted as the result of an evaluation under this paragraph. A physician or dentist whose market pay is evaluated under this paragraph shall receive written notice of the results of such evaluation in accordance with procedures prescribed under [section 7433 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7433).
+(5) The amount of market pay of a physician or dentist shall be evaluated by the Secretary not less often than once every 24 months. The amount of market pay may be adjusted as the result of an evaluation under this paragraph. A physician or dentist whose market pay is evaluated under this paragraph shall receive written notice of the results of such evaluation in accordance with procedures prescribed under [section 7433 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7433).
 
-(7) No adjustment of the amount of market pay of a physician or dentist under paragraph (6) may result in a reduction of the amount of market pay of the physician or dentist while in the same position or assignment at the medical facility of the Department concerned, unless there is a change in board certification or reduction of privileges.
+(6) No adjustment of the amount of market pay of a physician or dentist under paragraph (5) may result in a reduction of the amount of market pay of the physician or dentist while in the same position or assignment at the medical facility of the Department concerned, unless there is a change in board certification or reduction of privileges.
 
 **(d) Performance Pay.—**
 
@@ -1078,6 +1092,16 @@ Provisions similar to those in this section were contained in sections 4107(i) a
 A prior section 7431, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 188; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984, related to authority of Secretary to provide for special pay, prior to the general amendment of this subchapter by Pub. L. 108–445.
 
 #### Amendments
+2016—Subsec. (c)(4) to (7). Pub. L. 114–315 redesignated pars. (5) to (7) as (4) to (6), respectively, substituted “under paragraph (5)” for “under paragraph (6)” in par. (6), and struck out former par. (4) which read as follows:
+
+“(A) In determining the amount of market pay for physicians or dentists, the Secretary shall consult two or more national surveys of pay for physicians or dentists, as applicable, whether prepared by private, public, or quasi-public entities in order to make a general assessment of the range of pays payable to physicians or dentists, as applicable.
+
+“(B)(i) In determining the amount of the market pay for a particular physician or dentist under this subsection, and in determining a tier (if any) to apply to a physician or dentist under subsection (e)(1)(B), the Secretary shall consult with and consider the recommendations of an appropriate panel or board composed of physicians or dentists (as applicable). The Secretary may exempt physicians and dentists occupying administrative or executive leadership positions from the requirements of the previous sentence.
+
+“(ii) A physician or dentist may not be a member of the panel or board that makes recommendations under clause (i) with respect to the market pay of such physician or dentist, as the case may be.
+
+“(iii) The Secretary should, to the extent practicable, ensure that a panel or board consulted under this subparagraph includes physicians or dentists (as applicable) who are practicing clinicians and who do not hold management positions in the medical facility of the Department at which the physician or dentist subject to the consultation is employed.”
+
 2010—Subsec. (b)(5). Pub. L. 111–163, § 601(f)(1), added par. (5).
 
 Subsec. (c)(4)(B)(i). Pub. L. 111–163, § 601(f)(2), inserted at end “The Secretary may exempt physicians and dentists occupying administrative or executive leadership positions from the requirements of the previous sentence.”

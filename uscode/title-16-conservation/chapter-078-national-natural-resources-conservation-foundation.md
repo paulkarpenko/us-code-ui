@@ -27,7 +27,7 @@ Pub. L. 104–127, title III, § 351, Apr. 4, 1996, 110 Stat. 1010, provided tha
 
 <a id="section-5802"></a>
 ## § 5802. National Natural Resources Conservation Foundation
-**(a) Establishment** A National Natural Resources Conservation Foundation is established as a charitable and nonprofit corporation for charitable, scientific, and educational purposes specified in subsection (b) of this section. The Foundation is not an agency or instrumentality of the United States.
+**(a) Establishment** A National Natural Resources Conservation Foundation is established as a charitable and nonprofit corporation for charitable, scientific, and educational purposes specified in subsection (b). The Foundation is not an agency or instrumentality of the United States.
 
 **(b) Duties** The Foundation shall—
 
@@ -84,7 +84,7 @@ Pub. L. 104–127, title III, § 351, Apr. 4, 1996, 110 Stat. 1010, provided tha
 
 **(c) Membership**
 
-(1) **Initial members** — The Secretary shall appoint 9 persons who meet the criteria established under subsection (a) of this section as the initial members of the Board and designate 1 of the members as the initial chairperson for a 2-year term.
+(1) **Initial members** — The Secretary shall appoint 9 persons who meet the criteria established under subsection (a) as the initial members of the Board and designate 1 of the members as the initial chairperson for a 2-year term.
 
 (2) **Terms of office**
 
@@ -92,9 +92,9 @@ Pub. L. 104–127, title III, § 351, Apr. 4, 1996, 110 Stat. 1010, provided tha
 
   (B) *Limitation on terms* — No individual may serve more than 2 consecutive 3-year terms as a member of the Board.
 
-(3) **Subsequent members** — The initial members of the Board shall adopt procedures in the constitution of the Foundation for the nomination and selection of subsequent members of the Board. The procedures shall require that each member, at a minimum, meets the criteria established under subsection (a) of this section and shall provide for the selection of an individual, who is not a Federal officer or a member of the Board.
+(3) **Subsequent members** — The initial members of the Board shall adopt procedures in the constitution of the Foundation for the nomination and selection of subsequent members of the Board. The procedures shall require that each member, at a minimum, meets the criteria established under subsection (a) and shall provide for the selection of an individual, who is not a Federal officer or a member of the Board.
 
-**(d) Chairperson** After the appointment of an initial chairperson under subsection (c)(1) of this section, each succeeding chairperson of the Board shall be elected by the members of the Board for a 2-year term.
+**(d) Chairperson** After the appointment of an initial chairperson under subsection (c)(1), each succeeding chairperson of the Board shall be elected by the members of the Board for a 2-year term.
 
 **(e) Vacancies** A vacancy on the Board shall be filled by the Board not later than 60 days after the occurrence of the vacancy.
 

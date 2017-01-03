@@ -836,7 +836,7 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 
   (A) *In general.—* — The restrictions contained in this section shall not apply to acts done in carrying out official duties on behalf of the United States or the District of Columbia or as an elected official of a State or local government.
 
-  (B) *Tribal organizations and inter-tribal consortiums.—* — The restrictions contained in this section shall not apply to acts authorized by section 104(j) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450i(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450i/j&num=0&edition=prelim)).
+  (B) *Tribal organizations and inter-tribal consortiums.—* — The restrictions contained in this section shall not apply to acts authorized by section 104(j) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450i(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450i/j&num=0&edition=prelim)).1
 
 (2) **State and local governments and institutions, hospitals, and organizations.—** — The restrictions contained in subsections (c), (d), and (e) shall not apply to acts done in carrying out official duties as an employee of—
 
@@ -941,6 +941,8 @@ The Lobbying Disclosure Act of 1995, referred to in subsec. (e)(8), is Pub. L. 1
 Section 102(a) of the Ethics Reform Act of 1989, referred to in subsec. (e)(9)(L), (M), is section 102(a) of Pub. L. 101–194, which is set out below.
 
 Section 1(e) and (f) of the Foreign Agents Registration Act of 1938, referred to in subsec. (f)(3), is classified to section 611(e) and (f) of Title 22, Foreign Relations and Intercourse.
+
+Section 104(j) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450i(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450i/j&num=0&edition=prelim)), referred to in subsec. (j)(1)(B), was formerly classified to [section 450i(j) of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450i/j&num=0&edition=prelim), Indians, prior to editorial reclassification as [section 5323(j) of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5323/j&num=0&edition=prelim).
 
 Section 101 of the Higher Education Act of 1965, referred to in subsec. (j)(2)(B), is classified to [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
 
@@ -1145,7 +1147,7 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 Responsibility of Office of Government Ethics for promulgating regulations and interpreting this section, see section 201(c) of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under [section 7301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7301&num=0&edition=prelim), Government Organization and Employees.
 
 #### Construction of 2007 Amendment
-Pub. L. 110–81, title I, § 104(c), Sept. 14, 2007, 121 Stat. 740, provided that: “Except as expressly identified in this section [amending this section and [section 450i of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450i&num=0&edition=prelim), Indians] and in the amendments made by this section, nothing in this section or the amendments made by this section affects any other provision of law.”
+Pub. L. 110–81, title I, § 104(c), Sept. 14, 2007, 121 Stat. 740, provided that: “Except as expressly identified in this section [amending this section and [section 5323 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5323&num=0&edition=prelim), Indians] and in the amendments made by this section, nothing in this section or the amendments made by this section affects any other provision of law.”
 
 #### Transfer of Functions
 Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.

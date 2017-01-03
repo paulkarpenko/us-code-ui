@@ -1,13 +1,13 @@
 ---
 title: 10
-chapter: '13'
+chapter: '12'
 heading: THE MILITIA
 section_count: 2
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
-<a id="section-311"></a>
-## § 311. Militia: composition and classes
+<a id="section-246"></a>
+## § 246. Militia: composition and classes
 **(a)** The militia of the United States consists of all able-bodied males at least 17 years of age and, except as provided in [section 313 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section313&num=0&edition=prelim), under 45 years of age who are, or who have made a declaration of intention to become, citizens of the United States and of female citizens of the United States who are members of the National Guard.
 
 **(b)** The classes of the militia are—
@@ -36,13 +36,15 @@ In subsection (b), the words “The organized militia, which consists of the Nat
 The words “appointed as . . . under [section 4 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4&num=0&edition=prelim)” are omitted as surplusage.
 
 #### Amendments
+2016—Pub. L. 114–328 renumbered [section 311 of this title](./chapter-016-security-cooperation.md#section-311) as this section.
+
 1993—Subsec. (a). Pub. L. 103–160 substituted “members” for “commissioned officers”.
 
 1958—Subsec. (a). Pub. L. 85–861 included female citizens of the United States who are commissioned officers of the National Guard.
 
 
-<a id="section-312"></a>
-## § 312. Militia duty: exemptions
+<a id="section-247"></a>
+## § 247. Militia duty: exemptions
 **(a)** The following persons are exempt from militia duty:
 
 (1) The Vice President.
@@ -73,6 +75,8 @@ The words “appointed as . . . under [section 4 of this title](https://uscode.h
 In subsection (a), the words “Members of the armed forces” are substituted for the words “persons in the military or naval service”. The words “except members who are not on active duty” are inserted to reflect an opinion of the Judge Advocate General of the Army (JAGA 1952/4374, 9 July 1952). The word “artificers” is omitted as covered by the word “workmen”. The words “naval shipyards” are substituted for the words “navy yards” to reflect modern terminology. The words “on navigable waters” are inserted to preserve the original coverage of the word “pilots”. The words “actually” and “without regard to age” are omitted as surplusage.
 
 #### Amendments
+2016—Pub. L. 114–328 renumbered [section 312 of this title](./chapter-016-security-cooperation.md#section-312) as this section.
+
 2006—Subsec. (a)(2). Pub. L. 109–163 substituted “States, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “States and Territories, and Puerto Rico”.
 
 1988—Subsec. (a)(2). Pub. L. 100–456 substituted “and Puerto Rico” for “Puerto Rico, and the Canal Zone”.

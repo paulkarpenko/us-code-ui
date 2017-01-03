@@ -2,7 +2,7 @@
 title: 46
 chapter: '71'
 heading: LICENSES AND CERTIFICATES OF REGISTRY
-section_count: 15
+section_count: 16
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -402,3 +402,12 @@ Section 7114 allows the Secretary to prescribe reasonable fees for the issuance 
 
 #### First Meeting
 Pub. L. 111–281, title II, § 210(b), Oct. 15, 2010, 124 Stat. 2914, provided that: “No later than six months after the date of enactment of this Act [Oct. 15, 2010], the Merchant Mariner Medical Advisory Committee established by the amendment made by this section [enacting this section] shall hold its first meeting.”
+
+
+<a id="section-7116"></a>
+## § 7116. Examinations for merchant mariner credentials
+**(a) Requirement for Sample Exams.—** The Secretary shall develop a sample merchant mariner credential examination and outline of merchant mariner examination topics on an annual basis.
+
+**(b) Public Availability.—** Each sample examination and outline of topics developed under subsection (a) shall be readily available to the public.
+
+**(c) Merchant Mariner Credential Defined.—** In this section, the term “merchant mariner credential” has the meaning that term has in section 7510.

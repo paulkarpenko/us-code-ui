@@ -28,7 +28,7 @@ In this chapter:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 308901 | [16 U.S.C. 469](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469&num=0&edition=prelim)o(b) | Pub. L. 111–11, title VII, subtitle D, § 7303(b), Mar. 30, 2009, 123 Stat. 1216. |
+| 308901 | [16 U.S.C. 469](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469&num=0&edition=prelim)o(b). | Pub. L. 111–11, title VII, subtitle D, § 7303(b), Mar. 30, 2009, 123 Stat. 1216. |
 
 In paragraph (4), the words “in reference to a collection or historic property” are added for clarity.
 
@@ -44,7 +44,7 @@ In paragraph (4), the words “in reference to a collection or historic property
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 308902 | [16 U.S.C. 469](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469&num=0&edition=prelim)o(a), (c)(1) | Pub. L. 111–11, title VII, subtitle D, § 7303(a), (c)(1), Mar. 30, 2009, 123 Stat. 1216, 1217. |
+| 308902 | [16 U.S.C. 469](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469&num=0&edition=prelim)o(a), (c)(1). | Pub. L. 111–11, title VII, subtitle D, § 7303(a), (c)(1), Mar. 30, 2009, 123 Stat. 1216, 1217. |
 
 In subsection (a), the words “The purpose of this section is to authorize within the Department of the Interior the Save America’s Treasures Program” are omitted as unnecessary. The words “to be carried out by the Director of the National Park Service” are omitted because the definition of “Secretary” in section 308901 of the new title provides that the Secretary acts through the Director and because this is the only place in the chapter where the Director is mentioned.
 
@@ -114,7 +114,7 @@ In subsection (b), the words “subject to paragraph (6)(A)(ii)” are omitted a
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 308903 | [16 U.S.C. 469](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469&num=0&edition=prelim)o(c)(2) through (7) | Pub. L. 111–11, title VII, subtitle D, § 7303(c)(2) through (7), Mar. 30, 2009, 123 Stat. 1217. |
+| 308903 | [16 U.S.C. 469](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469&num=0&edition=prelim)o(c)(2) through (7). | Pub. L. 111–11, title VII, subtitle D, § 7303(c)(2) through (7), Mar. 30, 2009, 123 Stat. 1217. |
 
 In subsections (b) and (c), the word “competitive” is omitted for consistency in the chapter.
 
@@ -133,7 +133,7 @@ The Secretary shall develop any guidelines and prescribe any regulations that th
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 308904 | [16 U.S.C. 469](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469&num=0&edition=prelim)o(d) | Pub. L. 111–11, title VII, subtitle D, § 7303(d), Mar. 30, 2009, 123 Stat. 1218. |
+| 308904 | [16 U.S.C. 469](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469&num=0&edition=prelim)o(d). | Pub. L. 111–11, title VII, subtitle D, § 7303(d), Mar. 30, 2009, 123 Stat. 1218. |
 
 
 <a id="section-308905"></a>
@@ -146,4 +146,4 @@ There is authorized to be appropriated to carry out this chapter $50,000,000 for
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 308905 | [16 U.S.C. 469](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469&num=0&edition=prelim)o(e) | Pub. L. 111–11, title VII, subtitle D, § 7303(e), Mar. 30, 2009, 123 Stat. 1218. |
+| 308905 | [16 U.S.C. 469](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469&num=0&edition=prelim)o(e). | Pub. L. 111–11, title VII, subtitle D, § 7303(e), Mar. 30, 2009, 123 Stat. 1218. |

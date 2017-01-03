@@ -2,7 +2,7 @@
 title: 49
 chapter: '603'
 heading: USER FEES
-section_count: 1
+section_count: 2
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -52,3 +52,22 @@ For transfer of duties, powers, and authority of Research and Special Programs A
 
 #### Study and Report on User Fee Assessment Factors
 Pub. L. 104–304, § 17, Oct. 12, 1996, 110 Stat. 3803, provided that: “(a) In General.—Not later than 1 year after the date of the enactment of this Act [Oct. 12, 1996], the Secretary of Transportation shall transmit to the Congress a report analyzing the present assessment of pipeline safety user fees solely on the basis of mileage to determine whether—“(1) that measure of the resources of the Department of Transportation is the most appropriate measure of the resources used by the Department of Transportation in the regulation of pipeline transportation; or “(2) another basis of assessment would be a more appropriate measure of those resources. “(b) Considerations.—In making the report, the Secretary shall consider a wide range of assessment factors and suggestions and comments from the public.”
+
+
+<a id="section-60302"></a>
+## § 60302. User fees for underground natural gas storage facilities
+**(a) In General.—** A fee shall be imposed on an entity operating an underground natural gas storage facility subject to section 60141. Any such fee imposed shall be collected before the end of the fiscal year to which it applies.
+
+**(b) Means of Collection.—** The Secretary of Transportation shall prescribe procedures to collect fees under this section. The Secretary may use a department, agency, or instrumentality of the United States Government or of a State or local government to collect the fee and may reimburse the department, agency, or instrumentality a reasonable amount for its services.
+
+**(c) Use of Fees.—**
+
+(1) **Account.—** — There is established an Underground Natural Gas Storage Facility Safety Account in the Pipeline Safety Fund established in the Treasury of the United States under section 60301.
+
+(2) **Use of fees.—** — A fee collected under this section—
+
+  (A) shall be deposited in the Underground Natural Gas Storage Facility Safety Account; and
+
+  (B) if the fee is related to an underground natural gas storage facility subject to section 60141, the amount of the fee may be used only for an activity related to underground natural gas storage facility safety.
+
+(3) **Limitation.—** — No fee may be collected under this section, except to the extent that the expenditure of such fee to pay the costs of an activity related to underground natural gas storage facility safety for which such fee is imposed is provided in advance in an appropriations Act.

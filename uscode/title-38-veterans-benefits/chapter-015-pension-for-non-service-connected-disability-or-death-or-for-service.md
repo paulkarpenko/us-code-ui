@@ -147,11 +147,11 @@ Amendment by Pub. L. 88–664 effective Jan. 1, 1965, see section 11 of Pub. L. 
 
 (5) payments regarding reimbursements of any kind (including insurance settlement payments) for expenses related to the repayment, replacement, or repair of equipment, vehicles, items, money, or property resulting from—
 
-  (A) any accident (as defined by the Secretary), but the amount excluded under this subclause shall not exceed the greater of the fair market value or reasonable replacement value of the equipment or vehicle involved at the time immediately preceding the accident;
+  (A) any accident (as defined by the Secretary), but the amount excluded under this subparagraph shall not exceed the greater of the fair market value or reasonable replacement value of the equipment or vehicle involved at the time immediately preceding the accident;
 
-  (B) any theft or loss (as defined by the Secretary), but the amount excluded under this subclause shall not exceed the greater of the fair market value or reasonable replacement value of the item or the amount of the money (including legal tender of the United States or of a foreign country) involved at the time immediately preceding the theft or loss; or
+  (B) any theft or loss (as defined by the Secretary), but the amount excluded under this subparagraph shall not exceed the greater of the fair market value or reasonable replacement value of the item or the amount of the money (including legal tender of the United States or of a foreign country) involved at the time immediately preceding the theft or loss; or
 
-  (C) any casualty loss (as defined by the Secretary), but the amount excluded under this subclause shall not exceed the greater of the fair market value or reasonable replacement value of the property involved at the time immediately preceding the casualty loss;
+  (C) any casualty loss (as defined by the Secretary), but the amount excluded under this subparagraph shall not exceed the greater of the fair market value or reasonable replacement value of the property involved at the time immediately preceding the casualty loss;
 
 (6) profit realized from the disposition of real or personal property other than in the course of a business;
 
@@ -186,6 +186,8 @@ Another prior section 1503, added Pub. L. 89–138, § 1, Aug. 26, 1965, 79 Stat
 Another prior section 1503, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1171, was renumbered 1511 by Pub. L. 89–138, § 2(4), Aug. 26, 1965, 79 Stat. 578.
 
 #### Amendments
+2015—Subsec. (a)(5). Pub. L. 114–58 substituted “subparagraph” for “subclause” in subpars. (A) to (C).
+
 2012—Subsec. (a)(5). Pub. L. 112–154 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “reimbursements of any kind for any casualty loss (as defined in regulations which the Secretary shall prescribe), but the amount excluded under this clause may not exceed the greater of the fair market value or reasonable replacement value of the property involved at the time immediately preceding the loss;”.
 
 2010—Subsec. (a)(11), (12). Pub. L. 111–275 added par. (11) and redesignated former par. (11) as (12).

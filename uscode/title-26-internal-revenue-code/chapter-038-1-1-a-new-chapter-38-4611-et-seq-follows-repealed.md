@@ -642,7 +642,7 @@ Pub. L. 99–499, title V, § 515(d), Oct. 17, 1986, 100 Stat. 1769, provided th
 
   (A) the substance is contained in the list under paragraph (3), or
 
-  (B) the Secretary determines, in consultation with the Administrator of the Environmental Protection Agency and the Commissioner of Customs, that taxable chemicals constitute more than 50 percent of the weight (or more than 50 percent of the value) of the materials used to produce such substance (determined on the basis of the predominant method of production).
+  (B) the Secretary determines, in consultation with the Administrator of the Environmental Protection Agency and the Commissioner of U.S. Customs and Border Protection, that taxable chemicals constitute more than 50 percent of the weight (or more than 50 percent of the value) of the materials used to produce such substance (determined on the basis of the predominant method of production).
   If an importer or exporter of any substance requests that the Secretary determine whether such substance be listed as a taxable substance under paragraph (1) or be removed from such listing, the Secretary shall make such determination within 180 days after the date the request was filed.
 
 (3) **Initial list of taxable substances** — CumeneMethylene chloride StyrenePolypropylene Ammonium nitratePropylene glycol Nickel oxideFormaldehyde Isopropyl alcoholAcetone Ethylene glycolAcrylonitrile Vinyl chlorideMethanol Polyethylene resins, totalPropylene oxide PolybutadienePolypropylene resins Styrene-butadiene, latexEthylene oxide Styrene-butadiene, snpfEthylene dichloride Synthetic rubber, not containing fillersCyclohexane UreaIsophthalic acid FerronickelMaleic anhydride Ferrochromium nov 3 pctPhthalic anhydride Ferrochrome ov 3 pct. carbonEthyl methyl ketone Unwrought nickelChloroform Nickel waste and scrapCarbon tetrachloride Wrought nickel rods and wireChromic acid Nickel powdersHydrogen peroxide Phenolic resinsPolystyrene homo­polymer resins Polyvinylchloride resinsMelamine Polystyrene resins and copolymersAcrylic and methacrylic acid resins Ethyl alcohol for nonbeverage useVinyl resins EthylbenzeneVinyl resins, NSPF.
@@ -670,6 +670,9 @@ Subsec. (a)(4). Pub. L. 100–647, § 2001(b)(3), amended par. (4) generally. Pr
 
 “(B) Authority to add substances to list based on value.—The Secretary may, to the extent necessary to carry out the purposes of this subchapter, add any substance to the list under paragraph (3) if such substance would be described in paragraph (2)(B) if ‘value’ were substituted for ‘weight’ therein.”
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (a)(2)(B) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Superfund Revenue Act of 1986, Pub. L. 99–499, title V, to which it relates, see section 2001(e) of Pub. L. 100–647, set out as a note under [section 56 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-56).
 
@@ -677,7 +680,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 Section effective Jan. 1, 1989, see section 515(c) of Pub. L. 99–499, set out as a note under [section 4671 of this title](./chapter-038-1-1-a-new-chapter-38-4611-et-seq-follows-repealed.md#section-4671).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-4681"></a>

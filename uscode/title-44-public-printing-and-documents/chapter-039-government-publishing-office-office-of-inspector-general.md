@@ -70,4 +70,4 @@ Sections 4, 5, 6, and 7 of the Inspector General Act of 1978, referred to in sub
 2014—Subsec. (a). Pub. L. 113–235, § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer” in introductory provisions and par. (2).
 
 #### Change of Name
-“Government Publishing Office” substituted for “Government Printing Office” in subsecs. (a), (a)(1), and (b) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
+“Government Publishing Office” substituted for “Government Printing Office” wherever appearing in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).

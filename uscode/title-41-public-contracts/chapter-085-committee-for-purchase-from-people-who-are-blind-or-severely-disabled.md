@@ -180,7 +180,7 @@ In subsection (g)(1), the reference to chapter 33 of title 5 is substituted for 
 In subsection (j), the words “and to the Congress” are omitted pursuant to section 3003 of the Federal Reports Elimination and Sunset Act of 1995 ([31 U.S.C. 1113](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim) note). See, also, page 199 of House Document No. 103–7.
 
 #### Senate Revision Amendment
-In subsec. (f)(1), “for level IV of the Executive Schedule” substituted for “under [section 5376 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim)” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. S8442, Dec. 2, 2010 (daily ed.).
+In subsec. (f)(1), “for level IV of the Executive Schedule” substituted for “under [section 5376 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim)” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18683 (2010).
 
 
 <a id="section-8503"></a>

@@ -118,6 +118,9 @@ Pub. L. 98–498, title I, § 101, Oct. 19, 1984, 98 Stat. 2296, provided that: 
 #### Short Title
 Pub. L. 92–532, title III, § 317, formerly § 316, as added by Pub. L. 102–587, title II, § 2112, Nov. 4, 1992, 106 Stat. 5047; renumbered § 317 of title III, Pub. L. 104–283, §§ 6(a), 9(f), Oct. 11, 1996, 110 Stat. 3364, 3368; amended Pub. L. 106–562, title III, § 307(b), Dec. 23, 2000, 114 Stat. 2807, provided that: “This title [enacting this chapter] may be cited as the ‘National Marine Sanctuaries Act’.”
 
+#### Safe Vessel Operation in the Great Lakes
+Pub. L. 113–281, title VI, § 610, Dec. 18, 2014, 128 Stat. 3064, as amended by Pub. L. 114–120, title VI, § 602(1), Feb. 8, 2016, 130 Stat. 79, provided that: “The Secretary of the department in which the Coast Guard is operating and the Administrator of the Environmental Protection Agency may not prohibit a vessel operating within the boundaries of any national marine sanctuary that preserves shipwrecks or maritime heritage in the Great Lakes from taking up or discharging ballast water to allow for safe and efficient vessel operation if the uptake or discharge meets all Federal and State ballast water management requirements that would apply if the area were not a marine sanctuary, unless the designation documents for such sanctuary do not allow taking up or discharging ballast water in such sanctuary.”
+
 #### Congressional Findings, Policy, and Declaration of Purpose
 For statement of Congressional findings, policy, and declaration of purpose of Pub. L. 92–532 which enacted this chapter and chapter 27 of Title 33, Navigation and Navigable Waters, see [section 1401 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1401&num=0&edition=prelim).
 
@@ -133,7 +136,7 @@ Ex. Ord. No. 11752, Dec. 17, 1973, 38 F.R. 34793, set out as a note under [secti
 #### Ex. Ord. No. 13158. Marine Protected Areas
 Ex. Ord. No. 13158, May 26, 2000, 65 F.R. 34909, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America and in furtherance of the purposes of the National Marine Sanctuaries Act ([16 U.S.C. 1431](./chapter-032-marine-sanctuaries.md#section-1431) et seq.), National Wildlife Refuge System Administration Act of 1966 ([16 U.S.C. 668dd](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd)-ee) [[16 U.S.C. 668dd–668e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section668dd–668e&num=0&edition=prelim)e], National Park Service Organic Act ([former] [16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1) et seq.), National Historic Preservation Act ([16 U.S.C. 470](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-470) et seq.) [see [54 U.S.C. 300101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section300101&num=0&edition=prelim) et seq.], Wilderness Act ([16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131) et seq.), Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.), Coastal Zone Management Act [of 1972] ([16 U.S.C. 1451](./chapter-033-coastal-zone-management.md#section-1451) et seq.), Endangered Species Act of 1973 ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.), Marine Mammal Protection Act [of 1972] ([16 U.S.C. 1362](./chapter-031-marine-mammal-protection.md#section-1362) [1361] et seq.), Clean Water Act of 1977 ([33 U.S.C. 1251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) et seq.), National Environmental Policy Act [of 1969], as amended ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), Outer Continental Shelf Lands Act (42 [43] U.S.C. 1331 et seq.), and other pertinent statutes, it is ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America and in furtherance of the purposes of the National Marine Sanctuaries Act ([16 U.S.C. 1431](./chapter-032-marine-sanctuaries.md#section-1431) et seq.), National Wildlife Refuge System Administration Act of 1966 ([16 U.S.C. 668dd](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd)-ee) [[16 U.S.C. 668dd–668e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section668dd–668e&num=0&edition=prelim)e], National Park Service Organic Act ([former] [16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1) et seq.) [see [18 U.S.C. 1865(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), [54 U.S.C. 100101(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101/a&num=0&edition=prelim), 100301 et seq., 100751(a), 100752, 100753, 102101], National Historic Preservation Act ([former] [16 U.S.C. 470](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-470) et seq.) [see [54 U.S.C. 300101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section300101&num=0&edition=prelim) et seq.], Wilderness Act ([16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131) et seq.), Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.), Coastal Zone Management Act [of 1972] ([16 U.S.C. 1451](./chapter-033-coastal-zone-management.md#section-1451) et seq.), Endangered Species Act of 1973 ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.), Marine Mammal Protection Act [of 1972] ([16 U.S.C. 1362](./chapter-031-marine-mammal-protection.md#section-1362) [1361] et seq.), Clean Water Act of 1977 ([33 U.S.C. 1251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) et seq.), National Environmental Policy Act [of 1969], as amended ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), Outer Continental Shelf Lands Act (42 [43] U.S.C. 1331 et seq.), and other pertinent statutes, it is ordered as follows:
 
 Section 1. Purpose. This Executive Order will help protect the significant natural and cultural resources within the marine environment for the benefit of present and future generations by strengthening and expanding the Nation’s system of marine protected areas (MPAs). An expanded and strengthened comprehensive system of marine protected areas throughout the marine environment would enhance the conservation of our Nation’s natural and cultural marine heritage and the ecologically and economically sustainable use of the marine environment for future generations. To this end, the purpose of this order is to, consistent with domestic and international law: (a) strengthen the management, protection, and conservation of existing marine protected areas and establish new or expanded MPAs; (b) develop a scientifically based, comprehensive national system of MPAs representing diverse U.S. marine ecosystems, and the Nation’s natural and cultural resources; and (c) avoid causing harm to MPAs through federally conducted, approved, or funded activities.
 
@@ -186,6 +189,9 @@ Sec. 8. General. (a) Nothing in this order shall be construed as altering existi
 (c) This order does not create any right or benefit, substantive or procedural, enforceable in law or equity by a party against the United States, its agencies, its officers, or any person.
 
 William J. Clinton.
+
+#### Extension of Term of Marine Protected Areas Federal Advisory Committee
+Term of Marine Protected Areas Federal Advisory Committee extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-1432"></a>
@@ -308,7 +314,7 @@ Pub. L. 92–532, § 3, Oct. 23, 1972, 86 Stat. 1052, which is classified to [se
 
 **(b) Factors and consultations required in making determinations and findings**
 
-(1) **Factors** — For purposes of determining if an area of the marine environment meets the standards set forth in subsection (a) of this section, the Secretary shall consider—
+(1) **Factors** — For purposes of determining if an area of the marine environment meets the standards set forth in subsection (a), the Secretary shall consider—
 
   (A) the area’s natural resource and ecological qualities, including its contribution to biological productivity, maintenance of ecosystem structure, maintenance of ecologically or commercially important or threatened species or species assemblages, maintenance of critical habitat of endangered species, and the biogeographic representation of the site;
 
@@ -411,7 +417,7 @@ Pub. L. 106–555, title II, § 205(c), Dec. 21, 2000, 114 Stat. 2770, provided 
 | Flower Garden Banks National Marine Sanctuary.—56 F.R. 63634, Dec. 5, 1991; 60 F.R. 10312, Feb. 24, 1995; 15 C.F.R. part 922, subpart L; Pub. L. 100–627, title II, § 205(a)(2), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–251, title I, § 101, Mar. 9, 1992, 106 Stat. 60; Pub. L. 104–283, § 8, Oct. 11, 1996, 110 Stat. 3366. |
 | Gerry E. Studds Stellwagen Bank National Marine Sanctuary (former Stellwagen Bank National Marine Sanctuary).—58 F.R. 53865, Oct. 19, 1993; 59 F.R. 53348, Oct. 24, 1994; 15 C.F.R. 922, subpart N; Pub. L. 102–587, title II, § 2202, Nov. 4, 1992, 106 Stat. 5048; Pub. L. 104–283, §§ 9(g), 11, Oct. 11, 1996, 110 Stat. 3368, 3369. |
 | Gray’s Reef National Marine Sanctuary.—46 F.R. 7942, Jan. 26, 1981; 15 C.F.R. part 922, subpart I. |
-| Gulf of the Farallones National Marine Sanctuary (former Point Reyes-Farallon Islands National Marine Sanctuary).—46 F.R. 7936, Jan. 26, 1981; 15 C.F.R. part 922, subpart H; 62 F.R. 3788, Jan. 27, 1997. |
+| Greater Farallones National Marine Sanctuary (former Gulf of the Farallones National Marine Sanctuary; former Point Reyes-Farallon Islands National Marine Sanctuary).—46 F.R. 7936, Jan. 26, 1981; 15 C.F.R. part 922, subpart H; 62 F.R. 3788, Jan. 27, 1997; 80 F.R. 34047, June 15, 2015. |
 | Hawaiian Islands Humpback Whale National Marine Sanctuary.—15 C.F.R. part 922, subpart Q; Pub. L. 102–587, title II, subtitle C, §§ 2301–2308, Nov. 4, 1992, 106 Stat. 5055–5059; Pub. L. 104–283, § 7, Oct. 11, 1996, 110 Stat. 3365. |
 | MONITOR National Marine Sanctuary.—40 F.R. 5349, Feb. 5, 1975; 40 F.R. 21706, May 19, 1975; 15 C.F.R. part 922, subpart F. |
 | Monterey Bay National Marine Sanctuary.—57 F.R. 43310, Sept. 18, 1992; 15 C.F.R. part 922, subpart M; Pub. L. 100–627, title II, § 205(a)(3), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–368, title I, § 102, Sept. 23, 1992, 106 Stat. 1119; Pub. L. 102–587, title II, § 2203, Nov. 4, 1992, 106 Stat. 5048. |
@@ -474,15 +480,15 @@ Pub. L. 104–283, § 10, Oct. 11, 1996, 110 Stat. 3368, provided that: “No de
 
 (5) **Fishing regulations** — The Secretary shall provide the appropriate Regional Fishery Management Council with the opportunity to prepare draft regulations for fishing within the Exclusive Economic Zone as the Council may deem necessary to implement the proposed designation. Draft regulations prepared by the Council, or a Council determination that regulations are not necessary pursuant to this paragraph, shall be accepted and issued as proposed regulations by the Secretary unless the Secretary finds that the Council’s action fails to fulfill the purposes and policies of this chapter and the goals and objectives of the proposed designation. In preparing the draft regulations, a Regional Fishery Management Council shall use as guidance the national standards of section 301(a) of the Magnuson-Stevens Act ([16 U.S.C. 1851](./chapter-038-fishery-conservation-and-management.md#section-1851)) to the extent that the standards are consistent and compatible with the goals and objectives of the proposed designation. The Secretary shall prepare the fishing regulations, if the Council declines to make a determination with respect to the need for regulations, makes a determination which is rejected by the Secretary, or fails to prepare the draft regulations in a timely manner. Any amendments to the fishing regulations shall be drafted, approved, and issued in the same manner as the original regulations. The Secretary shall also cooperate with other appropriate fishery management authorities with rights or responsibilities within a proposed sanctuary at the earliest practicable stage in drafting any sanctuary fishing regulations.
 
-(6) **Committee action** — After receiving the documents under subsection (a)(1)(C) of this section, the Committee on Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate may each hold hearings on the proposed designation and on the matters set forth in the documents. If within the forty-five day period of continuous session of Congress beginning on the date of submission of the documents, either Committee issues a report concerning matters addressed in the documents, the Secretary shall consider this report before publishing a notice to designate the national marine sanctuary.
+(6) **Committee action** — After receiving the documents under subsection (a)(1)(C), the Committee on Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate may each hold hearings on the proposed designation and on the matters set forth in the documents. If within the forty-five day period of continuous session of Congress beginning on the date of submission of the documents, either Committee issues a report concerning matters addressed in the documents, the Secretary shall consider this report before publishing a notice to designate the national marine sanctuary.
 
 **(b) Taking effect of designations**
 
-(1) **Notice** — In designating a national marine sanctuary, the Secretary shall publish in the Federal Register notice of the designation together with final regulations to implement the designation and any other matters required by law, and submit such notice to the Congress. The Secretary shall advise the public of the availability of the final management plan and the final environmental impact statement with respect to such sanctuary. The Secretary shall issue a notice of designation with respect to a proposed national marine sanctuary site not later than 30 months after the date a notice declaring the site to be an active candidate for sanctuary designation is published in the Federal Register under regulations issued under this Act, or shall publish not later than such date in the Federal Register findings regarding why such notice has not been published. No notice of designation may occur until the expiration of the period for Committee action under subsection (a)(6) of this section. The designation (and any of its terms not disapproved under this subsection) and regulations shall take effect and become final after the close of a review period of forty-five days of continuous session of Congress beginning on the day on which such notice is published unless, in the case of a national marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect in the area of the sanctuary lying within the seaward boundary of the State.
+(1) **Notice** — In designating a national marine sanctuary, the Secretary shall publish in the Federal Register notice of the designation together with final regulations to implement the designation and any other matters required by law, and submit such notice to the Congress. The Secretary shall advise the public of the availability of the final management plan and the final environmental impact statement with respect to such sanctuary. The Secretary shall issue a notice of designation with respect to a proposed national marine sanctuary site not later than 30 months after the date a notice declaring the site to be an active candidate for sanctuary designation is published in the Federal Register under regulations issued under this Act, or shall publish not later than such date in the Federal Register findings regarding why such notice has not been published. No notice of designation may occur until the expiration of the period for Committee action under subsection (a)(6). The designation (and any of its terms not disapproved under this subsection) and regulations shall take effect and become final after the close of a review period of forty-five days of continuous session of Congress beginning on the day on which such notice is published unless, in the case of a national marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect in the area of the sanctuary lying within the seaward boundary of the State.
 
 (2) **Withdrawal of designation** — If the Secretary considers that actions taken under paragraph (1) will affect the designation of a national marine sanctuary in a manner that the goals and objectives of the sanctuary or System cannot be fulfilled, the Secretary may withdraw the entire designation. If the Secretary does not withdraw the designation, only those terms of the designation not certified under paragraph (1) shall take effect.
 
-(3) **Procedures** — In computing the forty-five-day periods of continuous session of Congress pursuant to subsection (a)(6) of this section and paragraph (1) of this subsection—
+(3) **Procedures** — In computing the forty-five-day periods of continuous session of Congress pursuant to subsection (a)(6) and paragraph (1) of this subsection—
 
   (A) continuity of session is broken only by an adjournment of Congress sine die; and
 
@@ -827,7 +833,7 @@ A prior section 308 of Pub. L. 92–532 was classified to [section 1438 of this 
 
 <a id="section-1440"></a>
 ## § 1440. Research, monitoring, and education
-**(a) In general** The Secretary shall conduct, support, or coordinate research, monitoring, evaluation, and education programs consistent with subsections (b) and (c) of this section and the purposes and policies of this chapter.
+**(a) In general** The Secretary shall conduct, support, or coordinate research, monitoring, evaluation, and education programs consistent with subsections (b) and (c) and the purposes and policies of this chapter.
 
 **(b) Research and monitoring**
 
@@ -853,7 +859,7 @@ A prior section 308 of Pub. L. 92–532 was classified to [section 1438 of this 
 
 (2) **Facility requirement** — Any facility developed under this subsection must emphasize the conservation goals and sustainable public uses of national marine sanctuaries by providing the public with information about the conservation, recreational, ecological, historical, cultural, archeological, scientific, educational, or esthetic qualities of the national marine sanctuary.
 
-**(e) Consultation and coordination** In conducting, supporting, and coordinating research, monitoring, evaluation, and education programs under subsection (a) of this section and developing interpretive facilities under subsection (d) of this section, the Secretary may consult or coordinate with Federal, interstate, or regional agencies, States or local governments.
+**(e) Consultation and coordination** In conducting, supporting, and coordinating research, monitoring, evaluation, and education programs under subsection (a) and developing interpretive facilities under subsection (d), the Secretary may consult or coordinate with Federal, interstate, or regional agencies, States or local governments.
 
 ### Statutory Notes
 
@@ -882,7 +888,7 @@ A prior section 309 of Pub. L. 92–532 was renumbered section 308 and is classi
 
 (2) to promote public use and understanding of a sanctuary resource.
 
-**(b) Public notice required** The Secretary shall provide appropriate public notice before identifying any category of activity subject to a special use permit under subsection (a) of this section.
+**(b) Public notice required** The Secretary shall provide appropriate public notice before identifying any category of activity subject to a special use permit under subsection (a).
 
 **(c) Permit terms** A permit issued under this section—
 
@@ -1011,7 +1017,7 @@ Section 2204 of title II of Pub. L. 102–587, which was formerly set out as a n
 
 **(c) Civil actions for response costs and damages**
 
-(1) The Attorney General, upon request of the Secretary, may commence a civil action against any person or vessel who may be liable under subsection (a) of this section for response costs and damages. The Secretary, acting as trustee for sanctuary resources for the United States, shall submit a request for such an action to the Attorney General whenever a person may be liable for such costs or damages.
+(1) The Attorney General, upon request of the Secretary, may commence a civil action against any person or vessel who may be liable under subsection (a) for response costs and damages. The Secretary, acting as trustee for sanctuary resources for the United States, shall submit a request for such an action to the Attorney General whenever a person may be liable for such costs or damages.
 
 (2) An action under this subsection may be brought in the United States district court for any district in which—
 
@@ -1039,7 +1045,7 @@ Section 2204 of title II of Pub. L. 102–587, which was formerly set out as a n
 
 (3) **Federal-State coordination** — Amounts recovered under this section with respect to sanctuary resources lying within the jurisdiction of a State shall be used under paragraphs (2)(A) and (B) in accordance with the court decree or settlement agreement and an agreement entered into by the Secretary and the Governor of that State.
 
-**(e) Statute of limitations** An action for response costs or damages under subsection (c) of this section shall be barred unless the complaint is filed within 3 years after the date on which the Secretary completes a damage assessment and restoration plan for the sanctuary resources to which the action relates.
+**(e) Statute of limitations** An action for response costs or damages under subsection (c) shall be barred unless the complaint is filed within 3 years after the date on which the Secretary completes a damage assessment and restoration plan for the sanctuary resources to which the action relates.
 
 ### Statutory Notes
 
@@ -1201,11 +1207,11 @@ Subsec. (e)(3). Pub. L. 104–283, § 5, inserted before period at end “, exce
 (8) the expenditure and use of any monetary and in-kind contributions, without appropriation, by the Secretary to designate and manage national marine sanctuaries.
 Monetary and in-kind contributions raised through the sale, marketing, or use of symbols and products related to an individual national marine sanctuary shall be used to support that sanctuary.
 
-**(b) Contract authority** The Secretary may contract with any person for the creation of symbols or the solicitation of official sponsors under subsection (a) of this section.
+**(b) Contract authority** The Secretary may contract with any person for the creation of symbols or the solicitation of official sponsors under subsection (a).
 
-**(c) Restrictions** The Secretary may restrict the use of the symbols published under subsection (a) of this section, and the designation of official sponsors of the national marine sanctuary program or of individual national marine sanctuaries to ensure compatibility with the goals of the national marine sanctuary program.
+**(c) Restrictions** The Secretary may restrict the use of the symbols published under subsection (a), and the designation of official sponsors of the national marine sanctuary program or of individual national marine sanctuaries to ensure compatibility with the goals of the national marine sanctuary program.
 
-**(d) Property of United States** Any symbol which is adopted by the Secretary and published in the Federal Register under subsection (a) of this section is deemed to be the property of the United States.
+**(d) Property of United States** Any symbol which is adopted by the Secretary and published in the Federal Register under subsection (a) is deemed to be the property of the United States.
 
 **(e) Prohibited activities** It is unlawful for any person—
 
@@ -1213,7 +1219,7 @@ Monetary and in-kind contributions raised through the sale, marketing, or use of
 
 (2) to represent himself or herself to be an official sponsor absent a designation by the Secretary;
 
-(3) to manufacture, reproduce, or otherwise use any symbol adopted by the Secretary under subsection (a)(1) of this section, including to sell any item bearing such a symbol, unless authorized by the Secretary under subsection (a)(4) of this section or subsection (f) of this section; or
+(3) to manufacture, reproduce, or otherwise use any symbol adopted by the Secretary under subsection (a)(1), including to sell any item bearing such a symbol, unless authorized by the Secretary under subsection (a)(4) or subsection (f); or
 
 (4) to violate any regulation promulgated by the Secretary under this section.
 

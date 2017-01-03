@@ -72,9 +72,14 @@ For the purposes of this chapter, the term—
 ### Statutory Notes
 
 #### Amendments
+2015—Par. (5). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
+
 2002—Par. (5). Pub. L. 107–110 substituted “7801” for “8801”.
 
 1994—Par. (5). Pub. L. 103–382 substituted “local educational agency” for “local education agency” and reference to [section 8801 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section8801&num=0&edition=prelim) for reference to section 198 of the Elementary and Secondary Education Act of 1965.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
@@ -259,7 +264,7 @@ Special emphasis should be placed on developing environmental education programs
 
 (4) The “Gifford Pinchot Award” to be given in recognition of an outstanding contribution to education and training concerning forestry and natural resource management, including multiple use and sustained yield land management.
 
-**(c) Nomination by Environmental Education Advisory Council** Recipients of education awards provided for in subsection (b) of this section shall be nominated by the Environmental Education Advisory Council provided for in [section 5508 of this title](./chapter-065-national-environmental-education.md#section-5508).
+**(c) Nomination by Environmental Education Advisory Council** Recipients of education awards provided for in subsection (b) shall be nominated by the Environmental Education Advisory Council provided for in [section 5508 of this title](./chapter-065-national-environmental-education.md#section-5508).
 
 **(d) President’s Environmental Youth Awards** The Administrator may provide for the “President’s Environmental Youth Awards” to be given to young people in grades kindergarten through twelfth for an outstanding project to promote local environmental awareness.
 
@@ -359,7 +364,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 (2) **Purposes** — The purposes of the Foundation are—
 
-  (A) subject to the limitation contained in the final sentence of subsection (d) of this section, to encourage, accept, leverage, and administer private gifts for the benefit of, or in connection with, the environmental education and training activities and services of the United States Environmental Protection Agency;
+  (A) subject to the limitation contained in the final sentence of subsection (d) herein, to encourage, accept, leverage, and administer private gifts for the benefit of, or in connection with, the environmental education and training activities and services of the United States Environmental Protection Agency;
 
   (B) to conduct such other environmental education activities as will further the development of an environmentally conscious and responsible public, a well-trained and environmentally literate workforce, and an environmentally advanced educational system;
 
@@ -452,7 +457,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
   (B) in the judgment of the Board carries with it an explicit or implied requirement on the part of the Foundation to do a specific act or make general representations which are to the benefit of the donor and which are not consistent with the environmental and education goals and policies of the Environmental Protection Agency and with the intents and purposes of this chapter.
 
-(3) No materials bearing “logos”, letterhead or other means of identification associated with a donor or third party may be transmitted by the Foundation, for use in environmental education and training except as required pursuant to subsection (f) of this section.
+(3) No materials bearing “logos”, letterhead or other means of identification associated with a donor or third party may be transmitted by the Foundation, for use in environmental education and training except as required pursuant to subsection (f).
 
 **(e) Administrative services and support** Subject to the requirements of this subsection, the Administrator may provide personnel, facilities, and other administrative services to the Foundation, including reimbursement of expenses under subsection (b)(6) of this section, not to exceed then current Federal Government per diem rates, for a period of up to 4 years from November 16, 1990, and may accept reimbursement therefor, to be deposited in the Treasury to the credit of the appropriations then current and chargeable for the costs of providing such services. With respect to personnel, the Administrator may provide no more than 1 full-time employee to serve the Foundation in a policy capacity, and may provide clerical and other support staff at a level equivalent to 2 full-time equivalent employees to the Foundation, for a period not to exceed 2 years from the date of initial assignment of any personnel for this purpose.
 

@@ -12,7 +12,7 @@ source: >-
 ### Statutory Notes
 
 #### Codification
-Sections, act Oct. 26, 1951, ch. 575, title I, §§ 101–105, 65 Stat. 645; H. Res. 163, Mar. 19, 1975, were superseded, effective October 1, 1979, by [section 2416(e) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2416/e&num=0&edition=prelim), Appendix, War and National Defense. See section 2401 et seq. of Title 50, Appendix.
+Sections, act Oct. 26, 1951, ch. 575, title I, §§ 101–105, 65 Stat. 645; H. Res. 163, Mar. 19, 1975, were superseded, effective October 1, 1979, by [section 4619(e) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4619/e&num=0&edition=prelim), War and National Defense. See chapter 56 (§ 4601 et seq.) of Title 50.
 
 Section 1611 set forth the Congressional declaration of policy.
 
@@ -25,7 +25,7 @@ Section 1611c related to resumption of assistance upon determination of complian
 Section 1611d defined “assistance” for purposes of this chapter.
 
 #### Short Title
-Act Oct. 26, 1951, ch. 575, § 1, 65 Stat. 645, which provided that this chapter be cited as the “Mutual Defense Assistance Control Act of 1951”, was superseded, effective October 1, 1979, by [section 2416(e) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2416/e&num=0&edition=prelim), Appendix, War and National Defense.
+Act Oct. 26, 1951, ch. 575, § 1, 65 Stat. 645, which provided that this chapter be cited as the “Mutual Defense Assistance Control Act of 1951”, was superseded, effective October 1, 1979, by [section 4619(e) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4619/e&num=0&edition=prelim), War and National Defense.
 
 
 <a id="section-1612-to-1612b"></a>
@@ -34,7 +34,7 @@ Act Oct. 26, 1951, ch. 575, § 1, 65 Stat. 645, which provided that this chapter
 ### Statutory Notes
 
 #### Codification
-Sections, act Oct. 26, 1951, ch. 575, title II, §§ 201–203, 65 Stat. 646, were superseded, effective October 1, 1979, by [section 2416(e) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2416/e&num=0&edition=prelim), Appendix, War and National Defense. See section 2401 et seq. of Title 50, Appendix.
+Sections, act Oct. 26, 1951, ch. 575, title II, §§ 201–203, 65 Stat. 646, were superseded, effective October 1, 1979, by [section 4619(e) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4619/e&num=0&edition=prelim), War and National Defense. See chapter 56 (§ 4601 et seq.) of Title 50.
 
 Section 1612 related to regulation of exports other than war materials.
 
@@ -49,7 +49,7 @@ Section 1612b related to termination of assistance upon determination by the Pre
 ### Statutory Notes
 
 #### Codification
-Sections, acts Oct. 26, 1951, ch. 575, title III, §§ 301–305, 65 Stat. 647; Sept. 4, 1961, Pub. L. 87–195, pt. IV, § 703(a), 75 Stat. 463; Oct. 19, 1980, Pub. L. 96–470, title I, § 111(a), 94 Stat. 2239, were superseded, effective October 1, 1979, by [section 2416(e) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2416/e&num=0&edition=prelim), Appendix, War and National Defense. See section 2401 et seq. of Title 50, Appendix.
+Sections, acts Oct. 26, 1951, ch. 575, title III, §§ 301–305, 65 Stat. 647; Sept. 4, 1961, Pub. L. 87–195, pt. IV, § 703(a), 75 Stat. 463; Oct. 19, 1980, Pub. L. 96–470, title I, § 111(a), 94 Stat. 2239, were superseded, effective October 1, 1979, by [section 4619(e) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4619/e&num=0&edition=prelim), War and National Defense. See chapter 56 (§ 4601 et seq.) of Title 50.
 
 Section 1613 set forth provisions relating to cooperation in the program by non-recipient countries.
 

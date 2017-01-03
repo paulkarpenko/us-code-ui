@@ -370,7 +370,7 @@ In this chapter:
 
 (1) **Farm** — The term “farm” means a farm, as defined by the Bureau of the Census.
 
-(2) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim).
+(2) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 (3) **Rural area** — Except as provided otherwise in this chapter, the term “rural area” means the farm and nonfarm population of—
 
@@ -1692,7 +1692,7 @@ Pub. L. 101–508, title I, § 1301, Nov. 5, 1990, 104 Stat. 1388–12, provided
 
 <a id="section-940e"></a>
 ## § 940e. Expansion of 911 access
-**(a) In general** Subject to subsection (c) and such terms and conditions as the Secretary may prescribe, the Secretary may make loans under this subchapter to entities eligible to borrow from the Rural Utilities Service, State or local governments, Indian tribes (as defined in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)), or other public entities for facilities and equipment to expand or improve in rural areas—
+**(a) In general** Subject to subsection (c) and such terms and conditions as the Secretary may prescribe, the Secretary may make loans under this subchapter to entities eligible to borrow from the Rural Utilities Service, State or local governments, Indian tribes (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)), or other public entities for facilities and equipment to expand or improve in rural areas—
 
 (1) 911 access;
 

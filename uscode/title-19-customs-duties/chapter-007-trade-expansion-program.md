@@ -29,7 +29,7 @@ Pub. L. 87–794, title I, § 101, Oct. 11, 1962, 76 Stat. 872, provided that: �
 The legal authority for the establishment and operation of the Office of the Special Representative for Trade Negotiations in the Executive Office of the President was changed by section 141 of the Trade Act of 1974, which is set out as [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171). For abolition of the Office as established under Ex. Ord. No. 11075 [see below], and for establishment of the Office pursuant instead to the Trade Act of 1974, with provision for the transfer of assets, liabilities, contracts, property, records, unexpended balances and funds, and personnel to the Office as established pursuant to statute rather than Ex. Ord. 11075, see [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171).
 
 #### President’s Export Council
-For provisions relating to establishment of President’s Export Council and the Council’s functions concerning export expansion, see Ex. Ord. No. 12131, May 4, 1979, 44 F.R. 26841, set out as a note under [section 2401 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2401&num=0&edition=prelim), Appendix, War and National Defense.
+For provisions relating to establishment of President’s Export Council and the Council’s functions concerning export expansion, see Ex. Ord. No. 12131, May 4, 1979, 44 F.R. 26841, set out as a note under [section 4601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim), War and National Defense.
 
 #### Executive Order No. 11075
 Ex. Ord. No. 11075, Jan. 15, 1963, 28 F.R. 473, as amended by Ex. Ord. No. 11106, Apr. 18, 1963, 28 F.R. 3911; Ex. Ord. No. 11113, June 15, 1963, 28 F.R. 6183, which related to the administration of the trade agreements program, was revoked by Ex. Ord. No. 11846, Mar. 27, 1975, 40 F.R. 14291, set out under [section 2111 of this title](./chapter-012-trade-act-of-1974.md#section-2111).
@@ -79,7 +79,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 (2) proclaim such modification or continuance of any existing duty or other import restriction, such continuance of existing duty-free or excise treatment, or such additional import restrictions, as he determines to be required or appropriate to carry out any such trade agreement.
 
-**(b) Restrictions on decrease or increase in rate of duty** Except as otherwise provided in this subchapter, no proclamation pursuant to subsection (a) of this section shall be made—
+**(b) Restrictions on decrease or increase in rate of duty** Except as otherwise provided in this subchapter, no proclamation pursuant to subsection (a) shall be made—
 
 (1) decreasing any rate of duty to a rate below 50 percent of the rate existing on July 1, 1962; or
 
@@ -194,7 +194,7 @@ Section, Pub. L. 87–794, title II, § 231, Oct. 11, 1962, 76 Stat. 876; Pub. L
 
 (1)
 
-  (A) Within 90 days after receiving a report submitted under subsection (b)(3)(A) of this section in which the Secretary finds that an article is being imported into the United States in such quantities or under such circumstances as to threaten to impair the national security, the President shall—
+  (A) Within 90 days after receiving a report submitted under subsection (b)(3)(A) in which the Secretary finds that an article is being imported into the United States in such quantities or under such circumstances as to threaten to impair the national security, the President shall—
 
     (i) determine whether the President concurs with the finding of the Secretary, and
 
@@ -202,7 +202,7 @@ Section, Pub. L. 87–794, title II, § 231, Oct. 11, 1962, 76 Stat. 876; Pub. L
 
   (B) If the President determines under subparagraph (A) to take action to adjust imports of an article and its derivatives, the President shall implement that action by no later than the date that is 15 days after the day on which the President determines to take action under subparagraph (A).
 
-(2) By no later than the date that is 30 days after the date on which the President makes any determinations under paragraph (1), the President shall submit to the Congress a written statement of the reasons why the President has decided to take action, or refused to take action, under paragraph (1). Such statement shall be included in the report published under subsection (e) of this section.
+(2) By no later than the date that is 30 days after the date on which the President makes any determinations under paragraph (1), the President shall submit to the Congress a written statement of the reasons why the President has decided to take action, or refused to take action, under paragraph (1). Such statement shall be included in the report published under subsection (e).
 
 (3)
 
@@ -228,13 +228,13 @@ Section, Pub. L. 87–794, title II, § 231, Oct. 11, 1962, 76 Stat. 876; Pub. L
 
 **(d) 1 Report by Secretary of Commerce**
 
-(1) Upon the disposition of each request, application, or motion under subsection (b) of this section, the Secretary shall submit to the Congress, and publish in the Federal Register, a report on such disposition.
+(1) Upon the disposition of each request, application, or motion under subsection (b), the Secretary shall submit to the Congress, and publish in the Federal Register, a report on such disposition.
 
 (2) Omitted.
 
 **(f) Congressional disapproval of Presidential adjustment of imports of petroleum or petroleum products; disapproval resolution**
 
-(1) An action taken by the President under subsection (c) of this section to adjust imports of petroleum or petroleum products shall cease to have force and effect upon the enactment of a disapproval resolution, provided for in paragraph (2), relating to that action.
+(1) An action taken by the President under subsection (c) to adjust imports of petroleum or petroleum products shall cease to have force and effect upon the enactment of a disapproval resolution, provided for in paragraph (2), relating to that action.
 
 (2)
 
@@ -367,7 +367,7 @@ Repeal of section applicable with respect to investigations initiated under [sec
 <a id="section-1864"></a>
 ## § 1864. Import sanctions for export violations
 
-Any person who violates any national security export control imposed under section 2404 of the Appendix to title 50 or any regulation, order, or license issued under that section, may be subject to such controls on the importing of goods or technology into the United States as the President may prescribe.
+Any person who violates any national security export control imposed under [section 4604 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4604&num=0&edition=prelim) or any regulation, order, or license issued under that section, may be subject to such controls on the importing of goods or technology into the United States as the President may prescribe.
 
 ### Statutory Notes
 
@@ -592,7 +592,7 @@ Repeal effective on 90th day following Jan. 3, 1975, see note set out under [sec
 
 (5) exercise all such other powers and take all such other acts as may be necessary or incidental to the carrying out of functions pursuant to [section 1914 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1914&num=0&edition=prelim).
 
-**(b) Mortgages** Any mortgage acquired as security under subsection (a) of this section shall be recorded under applicable State law.
+**(b) Mortgages** Any mortgage acquired as security under subsection (a) shall be recorded under applicable State law.
 
 ### Statutory Notes
 
@@ -751,7 +751,7 @@ Repeal effective on 90th day following Jan. 3, 1975, see note set out under [sec
 
 (4) The President may, within 60 days after the date on which he receives an affirmative finding of the United States International Trade Commission under section 1901(b) 1 of this title with respect to an industry, request additional information from the United States International Trade Commission. The United States International Trade Commission shall, as soon as practicable but in no event more than 120 days after the date on which it receives the President’s request, furnish additional information with respect to such industry in a supplemental report. For purposes of paragraph (2), the date on which the President receives such supplemental report shall be treated as the date on which the President received the affirmative finding of the United States International Trade Commission with respect to such industry.
 
-**(b) Maximum rate of increase** No proclamation pursuant to subsection (a) of this section shall be made—
+**(b) Maximum rate of increase** No proclamation pursuant to subsection (a) shall be made—
 
 (1) increasing any rate of duty to a rate more than 50 percent above the rate existing on July 1, 1934, or, if the article is dutiable but no rate existed on July 1, 1934, the rate existing at the time of the proclamation.
 
@@ -762,7 +762,7 @@ For purposes of paragraph (1), the term “existing on July 1, 1934” has the m
 
 (1) Any increase in, or imposition of, any duty or other import restriction proclaimed pursuant to this section or section 7 of the Trade Agreements Extension Act of 1951—
 
-  (A) may be reduced or terminated by the President when he determines, after taking into account the advice received from the United States International Trade Commission under subsection (d)(2) of this section and after seeking advice of the Secretary of Commerce and the Secretary of Labor, that such reduction or termination is in the national interest, and
+  (A) may be reduced or terminated by the President when he determines, after taking into account the advice received from the United States International Trade Commission under subsection (d)(2) and after seeking advice of the Secretary of Commerce and the Secretary of Labor, that such reduction or termination is in the national interest, and
 
   (B) unless extended under [section 2253 of this title](./chapter-012-trade-act-of-1974.md#section-2253), shall terminate not later than the close of the date which is 4 years (or, in the case of any such increase or imposition proclaimed pursuant to such section 7, 5 years) after the effective date of the initial proclamation or October 11, 1962, whichever date is the later.
 
@@ -820,7 +820,7 @@ Pub. L. 89–241, § 3, Oct. 7, 1965, 79 Stat. 933, provided that: “(a) For pu
 ## § 1982. Marketing agreements
 **(a) Negotiations** After receiving an affirmative finding of the United States International Trade Commission under section 1901(b) 11 See References in Text note below. of this title with respect to an industry, the President may, in lieu of exercising the authority contained in [section 1981(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1981/a/1&num=0&edition=prelim) but subject to the provisions of sections 1981(a)(2), (3), and (4) of this title, negotiate international agreements with foreign countries limiting the export from such countries and the import into the United States of the article causing or threatening to cause serious injury to such industry, whenever he determines that such action would be more appropriate to prevent or remedy serious injury to such industry than action under [section 1981(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1981/a/1&num=0&edition=prelim).
 
-**(b) Regulations governing entry or withdrawal from warehouse** In order to carry out an agreement concluded under subsection (a) of this section, the President is authorized to issue regulations governing the entry or withdrawal from warehouse of the article covered by such agreement. In addition, in order to carry out a multilateral agreement concluded under subsection (a) of this section among countries accounting for a significant part of world trade in the article covered by such agreement, the President is also authorized to issue regulations governing the entry or withdrawal from warehouse of the like article which is the product of countries not parties to such agreement.
+**(b) Regulations governing entry or withdrawal from warehouse** In order to carry out an agreement concluded under subsection (a), the President is authorized to issue regulations governing the entry or withdrawal from warehouse of the article covered by such agreement. In addition, in order to carry out a multilateral agreement concluded under subsection (a) among countries accounting for a significant part of world trade in the article covered by such agreement, the President is also authorized to issue regulations governing the entry or withdrawal from warehouse of the like article which is the product of countries not parties to such agreement.
 
 ### Statutory Notes
 

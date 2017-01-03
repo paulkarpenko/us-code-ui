@@ -51,7 +51,7 @@ Section 10101, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1337; Pub. L. 96–296,
 Section 10101a, added Pub. L. 96–448, title I, § 101(a), Oct. 14, 1980, 94 Stat. 1897, related to rail transportation policy.
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Short Title of 2008 Amendment
 Pub. L. 110–432, div. A, title VI, § 601, Oct. 16, 2008, 122 Stat. 4900, provided that: “This title [enacting sections 10908 to 10910 of this title and amending [section 10501 of this title](./chapter-105-jurisdiction.md#section-10501)] may be cited as the ‘Clean Railroads Act of 2008’.”

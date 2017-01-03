@@ -319,7 +319,7 @@ Section, Pub. L. 99–660, title IX, § 943, Nov. 14, 1986, 100 Stat. 3809, auth
 
 **(b) Preparation of plan; contents; revision** The Director of the National Institute of Mental Health shall—
 
-(1) ensure that the research conducted under subsection (a) of this section includes research concerning—
+(1) ensure that the research conducted under subsection (a) includes research concerning—
 
   (A) mental health services and treatment modalities relevant to the mental, behavioral, and psychological problems associated with Alzheimer’s disease and related dementias;
 
@@ -357,7 +357,7 @@ Subsec. (b). Pub. L. 102–507, § 7(a)(2), designated par. (1) as entire subsec
 
 Subsec. (b)(1). Pub. L. 102–507, § 7(a)(1)(C)(i), substituted “The Director of the National Institute of Mental Health shall” for “Within 6 months after November 14, 1986, the Director of the National Institute of Mental Health shall prepare and transmit to the Chairman of the Council a plan for the research to be conducted under subsection (a) of this section. The plan shall” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 102–507, § 7(a)(1)(C)(ii)(I), substituted “ensure that the research conducted under subsection (a) of this section includes” for “provide for” in introductory provisions.
+Subsec. (b)(1)(A). Pub. L. 102–507, § 7(a)(1)(C)(ii)(I), substituted “ensure that the research conducted under subsection (a) includes” for “provide for” in introductory provisions.
 
 Subsec. (b)(1)(A)(iii). Pub. L. 102–507, § 7(a)(1)(C)(ii)(II), added cl. (iii) and struck out former cl. (iii) which read as follows: “the optimal range and cost-effectiveness of community and institutional services for individuals with Alzheimer’s disease and related dementias and their families, particularly with respect to the design of such services, appropriate staffing for the provision of such services, the timing of such services during the progression of such disease or dementias, and the appropriate mix and coordination of such services;”.
 
@@ -398,7 +398,7 @@ There are authorized to be appropriated to carry out this part such sums as may 
 ## § 11272. Research program
 **(a) Grants for research** The Director of the Agency for Healthcare Research and Quality shall conduct, or make grants for the conduct of, research relevant to appropriate services for individuals with Alzheimer’s disease and related dementias and for their families.
 
-**(b) Research subjects** The Director of the Agency for Healthcare Research and Quality shall ensure that research conducted under subsection (a) of this section shall include research—
+**(b) Research subjects** The Director of the Agency for Healthcare Research and Quality shall ensure that research conducted under subsection (a) shall include research—
 
 (1) concerning improving the organization, delivery, and financing of services for individuals with Alzheimer’s disease and related dementias and for their families, including research on—
 
@@ -446,7 +446,7 @@ There are authorized to be appropriated to carry out this part such sums as may 
 
 **(b) Preparation of plan; contents; revision**
 
-(1) Within 6 months after November 14, 1986, the Administrator of the Centers for Medicare & Medicaid Services shall prepare and transmit to the Chairman of the Council a plan for research to be conducted under (a) 11 So in original. Probably should be preceded by “subsection”. of this section. The plan shall—
+(1) Within 6 months after November 14, 1986, the Administrator of the Centers for Medicare & Medicaid Services shall prepare and transmit to the Chairman of the Council a plan for research to be conducted under (a).11 So in original. Probably should be preceded by “subsection”. The plan shall—
 
   (A) provide for a determination of the types of services required by individuals with Alzheimer’s disease and related dementias and their families to allow such individuals to remain living at home or in a community-based setting;
 
@@ -458,7 +458,7 @@ There are authorized to be appropriated to carry out this part such sums as may 
 
 (2) Within one year after transmitting the plan required under paragraph (1), and annually thereafter, the Administrator of the Centers for Medicare & Medicaid Services shall prepare and transmit to the Chairman of the Council such revisions of such plan as the Administrator considers appropriate.
 
-**(c) Consultation for preparation and revision of plan** In preparing and revising the plan required by subsection (b) of this section, the Administrator of the Centers for Medicare & Medicaid Services shall consult with the Chairman of the Council and the heads of agencies within the Department.
+**(c) Consultation for preparation and revision of plan** In preparing and revising the plan required by subsection (b), the Administrator of the Centers for Medicare & Medicaid Services shall consult with the Chairman of the Council and the heads of agencies within the Department.
 
 ### Statutory Notes
 
@@ -474,7 +474,7 @@ Subsecs. (b)(2), (c). Pub. L. 108–173, § 900(e)(5)(B)(iii), (iv), substituted
 ## § 11291. Providing information for personnel of Social Security Administration
 **(a)** The Secretary shall develop a mechanism to ensure the prompt provision of the most current information concerning Alzheimer’s disease and related dementias to the Commissioner of Social Security, particularly information which will increase the understanding of personnel of the Social Security Administration concerning such disease and dementias.
 
-**(b)** The Commissioner of Social Security shall ensure that information received under subsection (a) of this section is provided to personnel of the Social Security Administration, particularly personnel involved in the process of determining, for purposes of titles II and XVI of the Social Security Act [[42 U.S.C. 401](./chapter-007-social-security.md#section-401) et seq., 1381 et seq.], whether an individual is under a disability.
+**(b)** The Commissioner of Social Security shall ensure that information received under subsection (a) is provided to personnel of the Social Security Administration, particularly personnel involved in the process of determining, for purposes of titles II and XVI of the Social Security Act [[42 U.S.C. 401](./chapter-007-social-security.md#section-401) et seq., 1381 et seq.], whether an individual is under a disability.
 
 ### Statutory Notes
 
@@ -526,7 +526,7 @@ The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 5
 
 (1) award the grants on the basis of merit;
 
-(2) award the grants in a manner that will ensure access to the programs described in subsections (a) and (b) of this section by rural, minority, and underserved populations throughout the country; and
+(2) award the grants in a manner that will ensure access to the programs described in subsections (a) and (b) by rural, minority, and underserved populations throughout the country; and
 
 (3) ensure that the grants are distributed among the principal geographic regions of the United States.
 

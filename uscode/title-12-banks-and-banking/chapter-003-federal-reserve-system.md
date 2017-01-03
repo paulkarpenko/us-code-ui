@@ -956,7 +956,7 @@ All insured banks designated for that purpose by the Secretary of the Treasury s
 ### Statutory Notes
 
 #### Codification
-Section was formerly classified to section 1110 of the Appendix to Title 50, War and National Defense.
+Section was formerly classified to section 1110 of the former Appendix to Title 50, War and National Defense.
 
 #### Amendments
 1954—Act Sept. 3, 1954, substituted “section 1813” for “section 264” in last sentence.
@@ -1084,11 +1084,27 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 
 (1) **Stockholder dividends**
 
-  (A) *In general* — After all necessary expenses of a Federal reserve bank have been paid or provided for, the stockholders of the bank shall be entitled to receive an annual dividend of 6 percent on paid-in capital stock.
+  (A) *Dividend amount* — After all necessary expenses of a Federal reserve bank have been paid or provided for, the stockholders of the bank shall be entitled to receive an annual dividend on paid-in capital stock of—
+
+    (i) in the case of a stockholder with total consolidated assets of more than $10,000,000,000, the smaller of—
+
+      (I) the rate equal to the high yield of the 10-year Treasury note auctioned at the last auction held prior to the payment of such dividend; and
+
+      (II) 6 percent; and
+
+    (ii) in the case of a stockholder with total consolidated assets of $10,000,000,000 or less, 6 percent.
 
   (B) *Dividend cumulative* — The entitlement to dividends under subparagraph (A) shall be cumulative.
 
+  (C) *Inflation adjustment* — The Board of Governors of the Federal Reserve System shall annually adjust the dollar amounts of total consolidated assets specified under subparagraph (A) to reflect the change in the Gross Domestic Product Price Index, published by the Bureau of Economic Analysis.
+
 (2) **Deposit of net earnings in surplus fund** — That portion of net earnings of each Federal reserve bank which remains after dividend claims under paragraph (1)(A) have been fully met shall be deposited in the surplus fund of the bank.
+
+(3) **Limitation on surplus funds**
+
+  (A) *In general* — The aggregate amount of the surplus funds of the Federal reserve banks may not exceed $10,000,000,000.
+
+  (B) *Transfer to the general fund* — Any amounts of the surplus funds of the Federal reserve banks that exceed, or would exceed, the limitation under subparagraph (A) shall be transferred to the Board of Governors of the Federal Reserve System for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury.
 
 **(b) 11 See Codification note below. Transfer for fiscal year 2000**
 
@@ -1104,6 +1120,12 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 Section is comprised of subsec. (a) [formerly first undesignated par.] of section 7 of act Dec. 23, 1913, and subsec. (b) [enacted by Pub. L. 106–113, div. B, § 1000(a)(5) [title III, § 302(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–304] of section 7. Another subsec. (b) of section 7 is classified to [section 290 of this title](./chapter-003-federal-reserve-system.md#section-290). Subsec. (c) of section 7 is classified to [section 531 of this title](./chapter-004-taxation.md#section-531).
 
 #### Amendments
+2015—Subsec. (a)(1)(A). Pub. L. 114–94, § 32203(a)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: “After all necessary expenses of a Federal reserve bank have been paid or provided for, the stockholders of the bank shall be entitled to receive an annual dividend of 6 percent on paid-in capital stock.”
+
+Subsec. (a)(1)(C). Pub. L. 114–94, § 32203(a)(2), added subpar. (C).
+
+Subsec. (a)(3). Pub. L. 114–94, § 32202, added par. (3).
+
 1999—Subsec. (a)(3). Pub. L. 106–113, § 1000(a)(5) [title III, § 302(1)], struck out heading and text of par. (3). Text read as follows: “During fiscal years 1997 and 1998, any amount in the surplus fund of any Federal reserve bank in excess of the amount equal to 3 percent of the total paid-in capital and surplus of the member banks of such bank shall be transferred to the Board for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury.”
 
 Subsec. (b). Pub. L. 106–113, § 1000(a)(5) [title III, § 302(2)], added subsec. (b).
@@ -1115,6 +1137,9 @@ Par. (2). Pub. L. 103–325, § 602(d)(2), substituted “paragraph (1)(A)” fo
 1993—Pub. L. 103–66 inserted section catchline and amended section generally. Prior to amendment, section read as follows: “After all necessary expenses of a Federal reserve bank shall have been paid or provided for, the stockholders shall be entitled to receive an annual dividend of 6 per centum on the paid-in capital stock, which dividend shall be cumulative. After the aforesaid dividend claims have been fully met, the net earnings shall be paid into the surplus fund of the Federal reserve bank.”
 
 1933—Act June 16, 1933, provided that net earnings shall be paid into surplus instead of to the United States as a franchise tax.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–94, div. C, title XXXII, § 32203(b), Dec. 4, 2015, 129 Stat. 1740, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 2016.”
 
 #### Effective Date of 1933 Amendment
 Act June 16, 1933, ch. 89, § 4, 48 Stat. 163, provided that the amendment made by that section is effective July 1, 1932.
@@ -2358,7 +2383,7 @@ Pub. L. 96–18, § 3(a), June 8, 1979, 93 Stat. 36, provided that: “Except fo
 Pub. L. 96–18, § 3(b), June 8, 1979, 93 Stat. 36, provided that the amendment made by that section is effective “Upon the expiration of the 2-year period which begins on the date of enactment of this Act [June 8, 1979]”.
 
 #### Expiration of 1942 Amendment
-Amendment of the proviso of this section by act Mar. 27, 1942, remained in force only until the date fixed by section 645 of Appendix to Title 50, War and National Defense, after which provisions in force before the amendment again became effective. Before the 1942 amendment, the proviso of this section read: “Provided, That any bonds, notes, or other obligations which are direct obligations of the United States or which are fully guaranteed by the United States as to principal and interest may be bought and sold without regard to maturities but only in the open market.”
+Amendment of the proviso of this section by act Mar. 27, 1942, remained in force only until the date fixed by section 645 of the former Appendix to Title 50, War and National Defense, after which provisions in force before the amendment again became effective. Before the 1942 amendment, the proviso of this section read: “Provided, That any bonds, notes, or other obligations which are direct obligations of the United States or which are fully guaranteed by the United States as to principal and interest may be bought and sold without regard to maturities but only in the open market.”
 
 
 <a id="section-356"></a>

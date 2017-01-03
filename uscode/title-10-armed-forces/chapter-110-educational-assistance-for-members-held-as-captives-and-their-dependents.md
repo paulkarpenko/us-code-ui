@@ -60,6 +60,9 @@ Pub. L. 99–399, title VIII, § 806(d)(3), Aug. 27, 1986, 100 Stat. 888, provid
 
 ### Statutory Notes
 
+#### Effective Date
+Section applicable with respect to persons whose captive status begins after Jan. 21, 1981, see section 806(d)(3) of Pub. L. 99–399, set out as a note under 2181 of this title.
+
 #### Delegation of Functions
 Functions of the President under this section delegated to the Secretary of Defense, see section 3 of Ex. Ord. No. 12598, June 17, 1987, 52 F.R. 23421, set out as a note under [section 5569 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5569&num=0&edition=prelim), Government Organization and Employees.
 
@@ -94,6 +97,11 @@ Functions of the President under this section delegated to the Secretary of Defe
 
 **(c)** Payments shall be available under this section only to the extent that such payments are not otherwise authorized by law.
 
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to persons whose captive status begins after Jan. 21, 1981, see section 806(d)(3) of Pub. L. 99–399, set out as a note under 2181 of this title.
+
 
 <a id="section-2184"></a>
 ## § 2184. Termination of assistance
@@ -109,6 +117,9 @@ Assistance under this chapter—
 #### Amendments
 1994—Par. (1). Pub. L. 103–337 substituted “3524” for “1724”.
 
+#### Effective Date
+Section applicable with respect to persons whose captive status begins after Jan. 21, 1981, see section 806(d)(3) of Pub. L. 99–399, set out as a note under 2181 of this title.
+
 
 <a id="section-2185"></a>
 ## § 2185. Programs to be consistent with programs administered by the Department of Veterans Affairs
@@ -119,3 +130,6 @@ Regulations prescribed to carry out this chapter shall provide that the programs
 
 #### Amendments
 1989—Pub. L. 101–189 substituted “the Department of Veterans Affairs” for “the Veterans’ Administration” in section catchline.
+
+#### Effective Date
+Section applicable with respect to persons whose captive status begins after Jan. 21, 1981, see section 806(d)(3) of Pub. L. 99–399, set out as a note under 2181 of this title.

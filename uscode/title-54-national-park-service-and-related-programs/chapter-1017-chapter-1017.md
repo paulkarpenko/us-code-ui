@@ -26,7 +26,7 @@ This section was derived from [section 1f of Title 16](https://uscode.house.gov/
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101701 | [16 U.S.C. 1f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1f&num=0&edition=prelim) | Pub. L. 104–333, div. I, title VIII, § 814(g), Nov. 12, 1996, 110 Stat. 4199. |
+| 101701 | [16 U.S.C. 1f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1f&num=0&edition=prelim). | Pub. L. 104–333, div. I, title VIII, § 814(g), Nov. 12, 1996, 110 Stat. 4199. |
 
 
 <a id="section-101702"></a>
@@ -92,12 +92,12 @@ This section was derived from [section 1f of Title 16](https://uscode.house.gov/
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101702(a) | [16 U.S.C. 1g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1g&num=0&edition=prelim) | Pub. L. 104–208, div. A, title I, § 101(d) [title I (3d undesignated par. under heading “administrative provisions” under heading “National Park Service”)], Sept. 30, 1996, 110 Stat. 3009–189. |
-| 101702(b) | [16 U.S.C. 1a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2&num=0&edition=prelim) (matter before (a)) | Pub. L. 91–383, § 3 (matter before (a)), Aug. 18, 1970, 84 Stat. 826. |
-|  | [16 U.S.C. 1a–2(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/j&num=0&edition=prelim) | Pub. L. 91–383, § 3(j), as added Pub. L. 104–333, div. I, title VIII, § 818, Nov. 12, 1996, 110 Stat. 4201; Pub. L. 106–176, title I, § 118(5), Mar. 10, 2000, 114 Stat. 28. |
-| 101702(c) | [16 U.S.C. 1a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2&num=0&edition=prelim) (matter before (a)) |  |
-|  | [16 U.S.C. 1a–2(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/g&num=0&edition=prelim) | Pub. L. 91–383, § 3(g), Aug. 18, 1970, 84 Stat. 827; Pub. L. 104–333, div. I, title VII, § 703, Nov. 12, 1996, 110 Stat. 4185; Pub. L. 106–176, title I, § 118(1), (2), Mar. 10, 2000, 114 Stat. 28. |
-| 101702(d) | [16 U.S.C. 1j(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1j/a&num=0&edition=prelim) through (c) | Pub. L. 110–229, title III, subtitle A, § 301(a) through (c), May 8, 2008, 122 Stat. 768. |
+| 101702(a) | [16 U.S.C. 1g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1g&num=0&edition=prelim). | Pub. L. 104–208, div. A, title I, § 101(d) [title I (3d undesignated par. under heading “administrative provisions” under heading “National Park Service”)], Sept. 30, 1996, 110 Stat. 3009–189. |
+| 101702(b) | [16 U.S.C. 1a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2&num=0&edition=prelim) (matter before (a)). | Pub. L. 91–383, § 3 (matter before (a)), Aug. 18, 1970, 84 Stat. 826. |
+|  | [16 U.S.C. 1a–2(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/j&num=0&edition=prelim). | Pub. L. 91–383, § 3(j), as added Pub. L. 104–333, div. I, title VIII, § 818, Nov. 12, 1996, 110 Stat. 4201; Pub. L. 106–176, title I, § 118(5), Mar. 10, 2000, 114 Stat. 28. |
+| 101702(c) | [16 U.S.C. 1a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2&num=0&edition=prelim) (matter before (a)). |  |
+|  | [16 U.S.C. 1a–2(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/g&num=0&edition=prelim). | Pub. L. 91–383, § 3(g), Aug. 18, 1970, 84 Stat. 827; Pub. L. 104–333, div. I, title VII, § 703, Nov. 12, 1996, 110 Stat. 4185; Pub. L. 106–176, title I, § 118(1), (2), Mar. 10, 2000, 114 Stat. 28. |
+| 101702(d) | [16 U.S.C. 1j(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1j/a&num=0&edition=prelim) through (c). | Pub. L. 110–229, title III, subtitle A, § 301(a) through (c), May 8, 2008, 122 Stat. 768. |
 
 In subsection (a), the word “Secretary” is substituted for “National Park Service” to reflect the transfer of functions of other officers, employees, and agencies of the Department of the Interior to the Secretary by sections 1 and 2 of Reorganization Plan No. 3 of 1950 (5 U.S.C. App.). The words “in fiscal year 1997 and thereafter” are omitted as obsolete. The words “for the public purpose of carrying out National Park Service programs” are omitted as unnecessary. The words “is a cooperative agreement properly entered into under [section 6305 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6305&num=0&edition=prelim)” are substituted for “pursuant to [section 6305 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6305&num=0&edition=prelim)” for clarity.
 
@@ -115,8 +115,8 @@ In subsection (a), the word “Secretary” is substituted for “National Park 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101703 | [16 U.S.C. 1a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2&num=0&edition=prelim) (matter before (a)) | Pub. L. 91–383, § 3 (matter before (a)), Aug. 18, 1970, 84 Stat. 826. |
-|  | [16 U.S.C. 1a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2&num=0&edition=prelim)(l) | Pub. L. 91–383, § 3(l), as added Pub. L. 105–391, title VIII, § 802(a), Nov. 13, 1998, 112 Stat. 3523. |
+| 101703 | [16 U.S.C. 1a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2&num=0&edition=prelim) (matter before (a)). | Pub. L. 91–383, § 3 (matter before (a)), Aug. 18, 1970, 84 Stat. 826. |
+|  | [16 U.S.C. 1a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2&num=0&edition=prelim)(l). | Pub. L. 91–383, § 3(l), as added Pub. L. 105–391, title VIII, § 802(a), Nov. 13, 1998, 112 Stat. 3523. |
 
 
 <a id="section-101704"></a>
@@ -134,6 +134,6 @@ In subsection (a), the word “Secretary” is substituted for “National Park 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101704 | [16 U.S.C. 1i](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1i&num=0&edition=prelim) | Pub. L. 108–7, div. F, title I (proviso in last undesignated par. under heading “administrative provisions” under heading “National Park Service”), Feb. 20, 2003, 117 Stat. 227. |
+| 101704 | [16 U.S.C. 1i](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1i&num=0&edition=prelim). | Pub. L. 108–7, div. F, title I (proviso in last undesignated par. under heading “administrative provisions” under heading “National Park Service”), Feb. 20, 2003, 117 Stat. 227. |
 
 The words “Heretofore and hereafter” and “[section 1341 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1341&num=0&edition=prelim) or” are omitted as unnecessary

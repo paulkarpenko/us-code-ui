@@ -114,6 +114,8 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 (12) a vessel of the working fleet of the Panama Canal Commission not on a foreign voyage.
 
+(13) a vessel of the United States on a domestic voyage that is within the Gulf of Mexico and operating not more than 15 nautical miles seaward of the base line from which the territorial sea of the United States is measured between Crystal Bay, Florida and Hudson Creek, Florida.
+
 **(c)** On application by the owner and after a survey under [section 5105 of this title](./chapter-051-load-lines.md#section-5105), the Secretary may assign load lines for a vessel excluded from the application of this chapter under subsection (b) of this section. A vessel assigned load lines under this subsection is subject to this chapter until the surrender of its load line certificate and the removal of its load line marks.
 
 **(d)** This chapter does not affect an international agreement to which the Government is a party that is not in conflict with the International Convention on Load Lines currently in force for the United States.
@@ -176,6 +178,8 @@ Section 5102(c) authorizes the Secretary to assign load lines for any vessel exe
 Section 5102(d) provides that this chapter shall not be construed as abrogating the provisions of other treaties and conventions to which the United States is a party, which are not in conflict with the International Convention on Load Lines.
 
 #### Amendments
+2016—Subsec. (b)(13). Pub. L. 114–120 added par. (13).
+
 2012—Subsec. (b)(3). Pub. L. 112–213 substituted “July 1, 2013.” for “July 1, 2012.”
 
 2010—Subsec. (b)(3). Pub. L. 111–281 inserted “, unless the vessel is built after July 1, 2012” after “vessel”.
@@ -474,7 +478,7 @@ Section 5114(b) requires the Secretary to consult with the Secretary of the Trea
 1990—Pub. L. 101–595 substituted “officers and employees” for “officers employees” in section catchline.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-5115"></a>

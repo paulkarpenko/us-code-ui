@@ -31,7 +31,7 @@ Pub. L. 102–550, title VI, § 606(k), Oct. 28, 1992, 106 Stat. 3811, provided 
 
 For purposes of this chapter:
 
-(1) The term “acquired immunodeficiency syndrome and related diseases” means the disease of acquired immunodeficiency syndrome or any conditions arising from the etiologic agent for acquired immunodeficiency syndrome.
+(1) The term “acquired immunodeficiency syndrome and related diseases” or “AIDS” means the disease of acquired immunodeficiency syndrome or any conditions arising from the etiologic agent for acquired immunodeficiency syndrome.
 
 (2) The term “applicant” means a State, a unit of general local government, or a nonprofit organization eligible to receive assistance under this chapter.
 
@@ -67,12 +67,24 @@ For purposes of this chapter:
 
 (14) The term “project sponsor” means a nonprofit organization or a housing agency of a State or unit of general local government that contracts with a grantee to receive assistance under this chapter.
 
+(15) The term “HIV” means infection with the human immunodeficiency virus.
+
+(16) The term “individuals living with HIV or AIDS” means, with respect to the counting of cases in a geographic area during a period of time, the sum of—
+
+  (A) the number of living non-AIDS cases of HIV in the area; and
+
+  (B) the number of living cases of AIDS in the area.
+
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in par. (7), was in the original “this title”, and was translated as reading “this subtitle”, meaning subtitle D (§§ 851–863) of title VIII of Pub. L. 101–625, to reflect the probable intent of Congress.
 
 #### Amendments
+2016—Par. (1). Pub. L. 114–201, § 701(b)(1), inserted “or ‘AIDS’ ” before “means”.
+
+Pars. (15), (16). Pub. L. 114–201, § 701(b)(2), added pars. (15) and (16).
+
 1992—Par. (2). Pub. L. 102–550, § 606(c)(1), substituted “organization eligible to receive assistance under this chapter” for “sponsor receiving assistance from a grantee”.
 
 Par. (5). Pub. L. 102–550, § 606(c)(2), substituted “term ‘metropolitan statistical area’ means” for “term ‘metropolitan area’ means”.
@@ -88,20 +100,43 @@ Pars. (11) to (14). Pub. L. 102–550, § 606(c)(3), added pars. (11) to (14).
 
 **(c) Allocation of resources**
 
-(1) **Formula allocation** — The Secretary shall allocate 90 percent of the amounts approved in appropriation Acts under [section 12912 of this title](./chapter-131-housing-opportunities-for-persons-with-aids.md#section-12912) among States and cities whose most recent comprehensive housing affordability strategy (or abbreviated strategy) has been approved by the Secretary under [section 12705 of this title](./chapter-130-national-affordable-housing.md#section-12705). Such amounts shall be allocated as follows:
+(1) **Allocation of resources**
 
-  (A) 75 percent among—
+  (A) *Allocation formula* — The Secretary shall allocate 90 percent of the amount approved in appropriations Acts under [section 12912 of this title](./chapter-131-housing-opportunities-for-persons-with-aids.md#section-12912) among States and metropolitan statistical areas as follows:
 
-    (i) cities that are the most populous unit of general local government in a metropolitan statistical area having a population greater than 500,000 and more than 1,500 cases of acquired immunodeficiency syndrome; and
+    (I) 11 So in original. Probably should be “(i)”. 75 percent of such amounts among— (I) cities that are the most populous unit of general local government in a metropolitan statistical area with a population greater than 500,000, as determined on the basis of the most recent census, and with more than 2,000 individuals living with HIV or AIDS, using the data specified in subparagraph (B); and (II) States with more than 2,000 individuals living with HIV or AIDS outside of metropolitan statistical areas.
 
-    (ii) States with more than 1,500 cases of acquired immunodeficiency syndrome outside of metropolitan statistical areas described in clause (i); and
+**(ii)** 25 percent of such amounts among States and metropolitan statistical areas based on the method described in subparagraph (C). (B) Source of dataFor purposes of allocating amounts under this paragraph for any fiscal year, the number of individuals living with HIV or AIDS shall be the number of such individuals as confirmed by the Director of the Centers for Disease Control and Prevention, as of December 31 of the most recent calendar year for which such data is available. (C) Allocation under subparagraph (A)(ii)For purposes of allocating amounts under subparagraph (A)(ii), the Secretary shall develop a method that accounts for—(I) 1 differences in housing costs among States and metropolitan statistical areas based on the fair market rental established pursuant to [section 1437f(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437f/c&num=0&edition=prelim) or another methodology established by the Secretary through regulation; and
 
-  (B) 25 percent among cities that (i) are the most populous unit of general local government in a metropolitan statistical area having a population greater than 500,000 and more than 1,500 cases of acquired immunodeficiency syndrome, and (ii) have a higher than average per capita incidence of acquired immunodeficiency syndrome.
-  A single city may receive assistance allocated under subparagraph (A) and subparagraph (B). For purposes of allocating amounts under this paragraph for any fiscal year, the number of cases of acquired immunodeficiency syndrome shall be the number of such cases reported to and confirmed by the Director of the Centers for Disease Control of the Public Health Service as of March 31 of the fiscal year immediately preceding the fiscal year for which the amounts are appropriated and to be allocated.
+**(ii)** differences in poverty rates among States and metropolitan statistical areas based on area poverty indexes or another methodology established by the Secretary through regulation. (2) Maintaining grants(A) Continued eligibility of fiscal year 2016 granteesA grantee that received an allocation in fiscal year 2016 shall continue to be eligible for allocations under paragraph (1) in subsequent fiscal years, subject to—(I) 1 the amounts available from appropriations Acts under [section 12912 of this title](./chapter-131-housing-opportunities-for-persons-with-aids.md#section-12912);
 
-(2) **Minimum grant** — Subject only to the availability of amounts pursuant to appropriations Acts under [section 12912 of this title](./chapter-131-housing-opportunities-for-persons-with-aids.md#section-12912), for each fiscal year each eligible grantee under paragraph (1) shall receive funding according to its proportionate share of the total, except that each entity shall receive a minimum allocation of $200,000 from subparagraphs (A) and (B) of paragraph (1) combined, and any increase this entails from the formula amount will be deducted from all other allocations exceeding $200,000 on a pro rata basis. If allocation under subparagraph (A) of paragraph (1) would allocate less than $200,000 for any State, the allocation for such State shall be $200,000 and the amount of the increase under this sentence shall be deducted on a pro rata basis from the allocations of the other States, except that a reduction under this subparagraph may not reduce the amount allocated to any eligible entity to less than $200,000.
+**(ii)** approval by the Secretary of the most recent comprehensive housing affordability strategy for the grantee approved under section 12705 of title; 22 See References in Text note below. and
 
-(3) **Nonformula allocation**
+**(iii)** the requirements of subparagraph (C). (B) AdjustmentsAllocations to grantees described in subparagraph (A) shall be adjusted annually based on the administrative provisions included in fiscal year 2016 appropriations Acts. (C) Redetermination of continued eligibilityThe Secretary shall redetermine the continued eligibility of a grantee that received an allocation in fiscal year 2016 at least once during the 10-year period following fiscal year 2016. (D) Adjustment to grantsFor each of fiscal years 2017, 2018, 2019, 2020, and 2021, the Secretary shall ensure that a grantee that received an allocation in the prior fiscal year does not receive an allocation that is 5 percent less than or 10 percent greater than the amount allocated to such grantee in the preceding fiscal year.
+
+(3) **Alternative grantees**
+
+  (A) *Requirements* — The Secretary may award funds reserved for a grantee eligible under paragraph (1) to an alternative grantee if—
+
+    (I) 1 the grantee submits to the Secretary a written agreement between the grantee and the alternative grantee that describes how the alternative grantee will take actions consistent with the applicable comprehensive housing affordability strategy approved under [section 12705 of this title](./chapter-130-national-affordable-housing.md#section-12705); 2
+
+    (ii) the Secretary approves the written agreement described in clause (I) and agrees to award funds to the alternative grantee; and
+
+**(iii)** the written agreement does not exceed a term of 10 years. (B) RenewalAn agreement approved pursuant to subparagraph (A) may be renewed by the parties with the approval of the Secretary. (C) DefinitionIn this paragraph, the term “alternative grantee” means a public housing agency (as defined in [section 1437a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437a/b&num=0&edition=prelim)), a unified funding agency (as defined in [section 11360 of this title](./chapter-119-homeless-assistance.md#section-11360)), a State, a unit of general local government, or an instrumentality of State or local government.
+
+(4) **Reallocations** — If a State or metropolitan statistical area declines an allocation under paragraph (1)(A), or the Secretary determines, in accordance with criteria specified in regulation, that a State or metropolitan statistical area that is eligible for an allocation under paragraph (1)(A) is unable to properly administer such allocation, the Secretary shall reallocate any funds reserved for such State or metropolitan statistical area as follows:
+
+  (A) For funds reserved for a State—
+
+    (I) 1 to eligible metropolitan statistical areas within the State on a pro rata basis; or
+
+    (ii) if there is no eligible metropolitan statistical areas within a State, to metropolitan cities and urban counties within the State that are eligible for grant under [section 5306 of this title](./chapter-069-community-development.md#section-5306), on a pro rata basis.
+
+  (B) For funds reserved for a metropolitan statistical area, to the State in which the metropolitan statistical area is located.
+
+  (C) If the Secretary is unable to make a reallocation under subparagraph (A) or (B), the Secretary shall make such funds available on a pro rata basis under the formula in paragraph (1)(A).
+
+(5) **Nonformula allocation**
 
   (A) *In general* — The Secretary shall allocate 10 percent of the amounts appropriated under [section 12912 of this title](./chapter-131-housing-opportunities-for-persons-with-aids.md#section-12912) among—
 
@@ -127,13 +162,18 @@ Pars. (11) to (14). Pub. L. 102–550, § 606(c)(3), added pars. (11) to (14).
 
 (6) such other information or certifications that the Secretary determines to be necessary to achieve the purposes of this section.
 
-**(e) Additional requirement for metropolitan areas** In addition to the other requirements of this section, to be eligible for a grant to a metropolitan area under this section, the major city, urban county, and any city with a population of 50,000 or more in that metropolitan area shall establish or designate a governmental agency or organization for receipt and use of amounts received from a grant under this section and shall submit to the Secretary, together with the application under subsection (d) of this section a proposal for the operation of such agency or organization.
+**(e) Additional requirement for metropolitan areas** In addition to the other requirements of this section, to be eligible for a grant to a metropolitan area under this section, the major city, urban county, and any city with a population of 50,000 or more in that metropolitan area shall establish or designate a governmental agency or organization for receipt and use of amounts received from a grant under this section and shall submit to the Secretary, together with the application under subsection (d) a proposal for the operation of such agency or organization.
 
-**(f) Additional requirement for city formula grantees** In addition to the other requirements of this section, to be eligible for a grant pursuant to subsection (c)(1) of this section, a city shall provide such assurances as the Secretary may require that any grant amounts received will be allocated among eligible activities in a manner that addresses the needs within the metropolitan statistical area in which the city is located, including areas not within the jurisdiction of the city. Any such city shall coordinate with other units of general local government located within the metropolitan statistical area to provide such assurances and comply with the assurances.
+**(f) Additional requirement for city formula grantees** In addition to the other requirements of this section, to be eligible for a grant pursuant to subsection (c)(1), a city shall provide such assurances as the Secretary may require that any grant amounts received will be allocated among eligible activities in a manner that addresses the needs within the metropolitan statistical area in which the city is located, including areas not within the jurisdiction of the city. Any such city shall coordinate with other units of general local government located within the metropolitan statistical area to provide such assurances and comply with the assurances.
 
 ### Statutory Notes
 
+#### References in Text
+[Section 12705 of this title](./chapter-130-national-affordable-housing.md#section-12705), referred to in subsec. (c)(2)(A)(ii) and (3)(A)(I), was in the original “section 105 of this Act”, meaning section 105 of the AIDS Housing Opportunity Act, and was translated as meaning section 105 of the Cranston-Gonzalez National Affordable Housing Act, to reflect the probable intent of Congress. The AIDS Housing Opportunity Act does not contain a section 105.
+
 #### Amendments
+2016—Subsec. (c). Pub. L. 114–201 added pars. (1) to (4), redesignated former par. (3) as (5), and struck out former pars. (1) and (2) which related to formula allocation and minimum grant, respectively.
+
 1992—Subsec. (a). Pub. L. 102–550, § 606(d)(1), substituted “, units of general local government, and nonprofit organizations” for “and units of general local government”.
 
 Subsec. (b). Pub. L. 102–550, § 606(d)(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “Eligibility.—A jurisdiction shall be eligible to receive a grant only if it has obtained an approved housing strategy (or an approved abbreviated housing strategy) in accordance with [section 12705 of this title](./chapter-130-national-affordable-housing.md#section-12705). A grantee shall carry out activities authorized under this chapter through contracts with project sponsors, except that a grantee that is a State shall obtain the approval of the unit of general local government for the locality in which a project is to be located prior to entering into such contracts.”
@@ -179,10 +219,13 @@ Grants allocated under this chapter shall be available only for approved activit
 
 (5) facilitate the development of community residences for eligible persons under [section 12910 of this title](./chapter-131-housing-opportunities-for-persons-with-aids.md#section-12910);
 
-(6) carry out other activities that the Secretary develops in cooperation with eligible States and localities, except that activities developed under this paragraph may be assisted only with amounts provided under [section 12903(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12903/c/3&num=0&edition=prelim).
+(6) carry out other activities that the Secretary develops in cooperation with eligible States and localities, except that activities developed under this paragraph may be assisted only with amounts provided under section 12903(c)(3) 11 See References in Text note below. of this title.
 The Secretary shall establish standards and guidelines for approved activities. The Secretary shall permit grantees to refine and adapt such standards and guidelines for individual projects, where such refinements and adaptations are made necessary by local circumstances.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 12903(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12903/c/3&num=0&edition=prelim), referred to in par. (6), was redesignated [section 12903(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12903/c/5&num=0&edition=prelim) by Pub. L. 114–201, title VII, § 701(a)(1), July 29, 2016, 130 Stat. 812.
 
 #### Amendments
 1992—Pub. L. 102–550, § 606(j)(3)(A), in introductory provisions, substituted “eligible persons” for “such persons with acquired immunodeficiency syndrome”.
@@ -268,7 +311,7 @@ Grants under this section may only be used for the following activities:
 
     (i) in the case of assistance involving substantial rehabilitation or acquisition of the building, for a period of not less than 10 years; and
 
-    (ii) in the case of assistance under paragraph (1), (3), or (4) of subsection (a) of this section, for a period of not less than 3 years.
+    (ii) in the case of assistance under paragraph (1), (3), or (4) of subsection (a), for a period of not less than 3 years.
 
   (B) *Waiver* — The Secretary may waive the requirement under subparagraph (A) with respect to any building or structure if the organization or agency that received the grant under which the building was assisted demonstrates, to the satisfaction of the Secretary, that—
 
@@ -391,7 +434,7 @@ Subsec. (c). Pub. L. 102–550, § 606(h)(1)(C), added subsec. (c).
 
     (ii) For any resident that is not a low-income resident, an amount based on a formula, which shall be determined by the Secretary, under which rent is determined by the income and resources of the resident.
 
-  (C) *Fees* — Fees may be charged for any services provided under subsection (c)(2) of this section to residents of a community residence, except that any fees charged shall be based on the income and resources of the resident and the provision of services to any resident of a community residence may not be withheld because of an inability of the resident to pay such fee.
+  (C) *Fees* — Fees may be charged for any services provided under subsection (c)(2) to residents of a community residence, except that any fees charged shall be based on the income and resources of the resident and the provision of services to any resident of a community residence may not be withheld because of an inability of the resident to pay such fee.
 
   (D) *Section 1437f assistance* — Assistance made available under section 8 of the United States Housing Act of 1937 ([42 U.S.C. 1437f](./chapter-008-low-income-housing.md#section-1437f)) may be used in conjunction with a community residence under this subsection for tenant-based assistance.
 
@@ -399,7 +442,7 @@ Subsec. (c). Pub. L. 102–550, § 606(h)(1)(C), added subsec. (c).
 
 **(c) Use of grants** Any amounts received from a grant under this section may be used only as follows:
 
-(1) **Community residences** — For providing assistance in connection with community residences under subsection (b)(1) of this section for the following activities:
+(1) **Community residences** — For providing assistance in connection with community residences under subsection (b)(1) for the following activities:
 
   (A) *Physical improvements* — Construction, acquisition, rehabilitation, conversion, retrofitting, and other physical improvements necessary to make a structure suitable for use as a community residence.
 
@@ -409,15 +452,15 @@ Subsec. (c). Pub. L. 102–550, § 606(h)(1)(C), added subsec. (c).
 
   (D) *In-house services* — Services appropriate for individuals residing in a community residence, which may include staff training and recruitment.
 
-(2) **Services** — For providing services under subsection (b)(2) of this section to any individuals assisted under this chapter.
+(2) **Services** — For providing services under subsection (b)(2) to any individuals assisted under this chapter.
 
 (3) **Administrative expenses** — For administrative expenses related to the planning and carrying out activities under this section (subject to the provisions of [section 12905(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12905/g&num=0&edition=prelim)).
 
 **(d) Limitations on use of grants**
 
-(1) **Community residences** — Any jurisdiction that receives a grant under this section may not use any amounts received under the grant for the purposes under subsection (c)(1) of this section, except for planning and other expenses preliminary to construction or other physical improvement under subsection (c)(1)(A) of this section, unless the jurisdiction certifies to the Secretary, as the Secretary shall require, the following:
+(1) **Community residences** — Any jurisdiction that receives a grant under this section may not use any amounts received under the grant for the purposes under subsection (c)(1), except for planning and other expenses preliminary to construction or other physical improvement under subsection (c)(1)(A), unless the jurisdiction certifies to the Secretary, as the Secretary shall require, the following:
 
-  (A) *Service agreement* — That the jurisdiction has entered into a written agreement with service providers qualified to deliver any services included in the proposal under subsection (c) of this section to provide such services to eligible persons assisted by the community residence.
+  (A) *Service agreement* — That the jurisdiction has entered into a written agreement with service providers qualified to deliver any services included in the proposal under subsection (c) to provide such services to eligible persons assisted by the community residence.
 
   (B) *Funding and capability* — That the jurisdiction will have sufficient funding for such services and the service providers are qualified to assist eligible persons.
 
@@ -425,7 +468,7 @@ Subsec. (c). Pub. L. 102–550, § 606(h)(1)(C), added subsec. (c).
 
   (D) *Intensive assistance* — That, for any individual with acquired immunodeficiency syndrome or related diseases who resides in a community residence assisted under the grant and who requires more intensive care than can be provided by the community residence, the jurisdiction will locate for and refer the individual to a service provider who can appropriately care for the individual.
 
-(2) **Services** — Any jurisdiction that receives a grant under this section may use any amounts received under the grant for the purposes under subsection (c)(2) of this section only for the provision of services by service providers qualified to provide such services to eligible persons.
+(2) **Services** — Any jurisdiction that receives a grant under this section may use any amounts received under the grant for the purposes under subsection (c)(2) only for the provision of services by service providers qualified to provide such services to eligible persons.
 
 ### Statutory Notes
 

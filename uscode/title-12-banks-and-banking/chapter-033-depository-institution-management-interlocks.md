@@ -50,7 +50,7 @@ Par. (4). Pub. L. 100–650, § 3, substituted “(including an advisory or hono
 Par. (6). Pub. L. 100–650, § 5(b)(1), added par. (6).
 
 #### Effective Date
-Chapter effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as an Effective Date note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
 
 #### Short Title of 1988 Amendment
 Pub. L. 100–650, § 1, Nov. 10, 1988, 102 Stat. 3819, provided that: “This Act [amending sections 3201, 3204, and 3205 of this title] may be referred to as the ‘Management Interlocks Revision Act of 1988’.”
@@ -75,6 +75,9 @@ A management official of a depository institution or a depository holding compan
 
 1983—Par. (1). Pub. L. 98–181 substituted “primary metropolitan statistical area, the same metropolitan statistical area, or the same consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas” for “standard metropolitan statistical area”.
 
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
+
 
 <a id="section-3203"></a>
 ## § 3203. Dual service of management official of $2,500,000,000 institution or holding company as management official of unaffiliated $1,500,000,000 institution or holding company prohibited
@@ -85,6 +88,9 @@ If a depository institution or a depository holding company has total assets exc
 
 #### Amendments
 1996—Pub. L. 104–208 substituted “$2,500,000,000” for “$1,000,000,000” and “$1,500,000,000” for “$500,000,000” and inserted at end “In order to allow for inflation or market changes, the appropriate Federal depository institutions regulatory agencies may, by regulation, adjust, as necessary, the amount of total assets required for depository institutions or depository holding companies under this section.”
+
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
 
 
 <a id="section-3204"></a>
@@ -156,6 +162,9 @@ Par. (8). Pub. L. 100–650, § 5(a), added par. (8).
 
 1982—Par. (2). Pub. L. 97–320 substituted “25(a)” for “25A”.
 
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
+
 
 <a id="section-3205"></a>
 ## § 3205. Management official in position prior to November 10, 1978
@@ -186,6 +195,9 @@ Pub. L. 100–650, § 6, substituted “15 years” for “ten years”.
 Subsec. (b). Pub. L. 100–650, § 6, substituted “15 years” for “ten years”.
 
 1981—Pub. L. 97–110 designated existing provisions as subsec. (a), inserted provision that a merger, acquisition, increase in total assets, establishment of one or more offices, or change in management responsibilities shall not constitute changes in circumstances which would make such service prohibited by section 3202 or 3203 of this title, and added subsec. (b).
+
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
 
 
 <a id="section-3206"></a>
@@ -228,6 +240,9 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 #### Effective Date of 2004 Amendment
 Amendment by Pub. L. 108–386 effective Oct. 30, 2004, and, except as otherwise provided, applicable with respect to fiscal year 2005 and each succeeding fiscal year, see sections 8(i) and 9 of Pub. L. 108–386, set out as notes under [section 321 of this title](./chapter-003-federal-reserve-system.md#section-321).
 
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
+
 
 <a id="section-3207"></a>
 ## § 3207. Rules and regulations
@@ -264,6 +279,9 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 #### Effective Date of 2004 Amendment
 Amendment by Pub. L. 108–386 effective Oct. 30, 2004, and, except as otherwise provided, applicable with respect to fiscal year 2005 and each succeeding fiscal year, see sections 8(i) and 9 of Pub. L. 108–386, set out as notes under [section 321 of this title](./chapter-003-federal-reserve-system.md#section-321).
+
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
 
 
 <a id="section-3208"></a>

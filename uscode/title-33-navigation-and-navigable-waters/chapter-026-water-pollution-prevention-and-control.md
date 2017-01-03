@@ -2,7 +2,7 @@
 title: 33
 chapter: '26'
 heading: WATER POLLUTION PREVENTION AND CONTROL
-section_count: 110
+section_count: 111
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
@@ -235,13 +235,13 @@ Section was not enacted as part of the Federal Water Pollution Control Act which
 
 **(b) Authorized activities of Administrator** In carrying out the provisions of subsection (a) of this section the Administrator is authorized to—
 
-(1) collect and make available, through publications and other appropriate means, the results of and other information, including appropriate recommendations by him in connection therewith, pertaining to such research and other activities referred to in paragraph (1) of subsection (a) of this section;
+(1) collect and make available, through publications and other appropriate means, the results of and other information, including appropriate recommendations by him in connection therewith, pertaining to such research and other activities referred to in paragraph (1) of subsection (a);
 
-(2) cooperate with other Federal departments and agencies, State water pollution control agencies, interstate agencies, other public and private agencies, institutions, organizations, industries involved, and individuals, in the preparation and conduct of such research and other activities referred to in paragraph (1) of subsection (a) of this section;
+(2) cooperate with other Federal departments and agencies, State water pollution control agencies, interstate agencies, other public and private agencies, institutions, organizations, industries involved, and individuals, in the preparation and conduct of such research and other activities referred to in paragraph (1) of subsection (a);
 
 (3) make grants to State water pollution control agencies, interstate agencies, other public or nonprofit private agencies, institutions, organizations, and individuals, for purposes stated in paragraph (1) of subsection (a) of this section;
 
-(4) contract with public or private agencies, institutions, organizations, and individuals, without regard to section 3324(a) and (b) of title 31 and [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim), referred to in paragraph (1) of subsection (a) of this section;
+(4) contract with public or private agencies, institutions, organizations, and individuals, without regard to section 3324(a) and (b) of title 31 and [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim), referred to in paragraph (1) of subsection (a);
 
 (5) establish and maintain research fellowships at public or nonprofit private educational institutions or research organizations;
 
@@ -340,7 +340,7 @@ In carrying out this subsection, the Administrator may enter into contracts with
 
 **(t) Thermal discharges** The Administrator shall, in cooperation with State and Federal agencies and public and private organizations, conduct continuing comprehensive studies of the effects and methods of control of thermal discharges. In evaluating alternative methods of control the studies shall consider (1) such data as are available on the latest available technology, economic feasibility including cost-effectiveness analysis, and (2) the total impact on the environment, considering not only water quality but also air quality, land use, and effective utilization and conservation of freshwater and other natural resources. Such studies shall consider methods of minimizing adverse effects and maximizing beneficial effects of thermal discharges. The results of these studies shall be reported by the Administrator as soon as practicable, but not later than 270 days after October 18, 1972, and shall be made available to the public and the States, and considered as they become available by the Administrator in carrying out [section 1326 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1326) and by the States in proposing thermal water quality standards.
 
-**(u) Authorization of appropriations** There is authorized to be appropriated (1) not to exceed $100,000,000 per fiscal year for the fiscal year ending June 30, 1973, the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975, not to exceed $14,039,000 for the fiscal year ending September 30, 1980, not to exceed $20,697,000 for the fiscal year ending September 30, 1981, not to exceed $22,770,000 for the fiscal year ending September 30, 1982, such sums as may be necessary for fiscal years 1983 through 1985, and not to exceed $22,770,000 per fiscal year for each of the fiscal years 1986 through 1990, for carrying out the provisions of this section, other than subsections (g)(1) and (2), (p), (r), and (t) of this section, except that such authorizations are not for any research, development, or demonstration activity pursuant to such provisions; (2) not to exceed $7,500,000 for fiscal years 1973, 1974, and 1975, $2,000,000 for fiscal year 1977, $3,000,000 for fiscal year 1978, $3,000,000 for fiscal year 1979, $3,000,000 for fiscal year 1980, $3,000,000 for fiscal year 1981, $3,000,000 for fiscal year 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $3,000,000 per fiscal year for each of the fiscal years 1986 through 1990, for carrying out the provisions of subsection (g)(1) of this section; (3) not to exceed $2,500,000 for fiscal years 1973, 1974, and 1975, $1,000,000 for fiscal year 1977, $1,500,000 for fiscal year 1978, $1,500,000 for fiscal year 1979, $1,500,000 for fiscal year 1980, $1,500,000 for fiscal year 1981, $1,500,000 for fiscal year 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $1,500,000 per fiscal year for each of the fiscal years 1986 through 1990, for carrying out the provisions of subsection (g)(2) of this section; (4) not to exceed $10,000,000 for each of the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for carrying out the provisions of subsection (p) of this section; (5) not to exceed $15,000,000 per fiscal year for the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for carrying out the provisions of subsection (r) of this section; and (6) not to exceed $10,000,000 per fiscal year for the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for carrying out the provisions of subsection (t) of this section.
+**(u) Authorization of appropriations** There is authorized to be appropriated (1) not to exceed $100,000,000 per fiscal year for the fiscal year ending June 30, 1973, the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975, not to exceed $14,039,000 for the fiscal year ending September 30, 1980, not to exceed $20,697,000 for the fiscal year ending September 30, 1981, not to exceed $22,770,000 for the fiscal year ending September 30, 1982, such sums as may be necessary for fiscal years 1983 through 1985, and not to exceed $22,770,000 per fiscal year for each of the fiscal years 1986 through 1990, for carrying out the provisions of this section, other than subsections (g)(1) and (2), (p), (r), and (t), except that such authorizations are not for any research, development, or demonstration activity pursuant to such provisions; (2) not to exceed $7,500,000 for fiscal years 1973, 1974, and 1975, $2,000,000 for fiscal year 1977, $3,000,000 for fiscal year 1978, $3,000,000 for fiscal year 1979, $3,000,000 for fiscal year 1980, $3,000,000 for fiscal year 1981, $3,000,000 for fiscal year 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $3,000,000 per fiscal year for each of the fiscal years 1986 through 1990, for carrying out the provisions of subsection (g)(1); (3) not to exceed $2,500,000 for fiscal years 1973, 1974, and 1975, $1,000,000 for fiscal year 1977, $1,500,000 for fiscal year 1978, $1,500,000 for fiscal year 1979, $1,500,000 for fiscal year 1980, $1,500,000 for fiscal year 1981, $1,500,000 for fiscal year 1982, such sums as may be necessary for fiscal years 1983 through 1985, and $1,500,000 per fiscal year for each of the fiscal years 1986 through 1990, for carrying out the provisions of subsection (g)(2); (4) not to exceed $10,000,000 for each of the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for carrying out the provisions of subsection (p); (5) not to exceed $15,000,000 per fiscal year for the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for carrying out the provisions of subsection (r); and (6) not to exceed $10,000,000 per fiscal year for the fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for carrying out the provisions of subsection (t).
 
 **(v) Studies concerning pathogen indicators in coastal recreation waters** Not later than 18 months after October 10, 2000, after consultation and in cooperation with appropriate Federal, State, tribal, and local officials (including local health officials), the Administrator shall initiate, and, not later than 3 years after October 10, 2000, shall complete, in cooperation with the heads of other Federal agencies, studies to provide additional information for use in developing—
 
@@ -461,11 +461,11 @@ and to include in such grants such amounts as are necessary for the purpose of r
 
 (2) No grant shall be made for any project in an amount exceeding 75 per centum of cost thereof as determined by the Administrator; and
 
-(3) No grant shall be made for any project unless the Administrator determines that such project will serve as a useful demonstration for the purpose set forth in clause (1) or (2) of subsection (a) of this section.
+(3) No grant shall be made for any project unless the Administrator determines that such project will serve as a useful demonstration for the purpose set forth in clause (1) or (2) of subsection (a).
 
 **(g) Maximum grants** Federal grants under subsections (c) and (d) of this section shall not exceed 75 per centum of the cost of the project.
 
-**(h) Authorization of appropriations** For the purpose of this section there is authorized to be appropriated $75,000,000 per fiscal year for the fiscal year ending June 30, 1973, the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975, and from such appropriations at least 10 per centum of the funds actually appropriated in each fiscal year shall be available only for the purposes of subsection (e) of this section.
+**(h) Authorization of appropriations** For the purpose of this section there is authorized to be appropriated $75,000,000 per fiscal year for the fiscal year ending June 30, 1973, the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975, and from such appropriations at least 10 per centum of the funds actually appropriated in each fiscal year shall be available only for the purposes of subsection (e).
 
 **(i) Assistance for research and demonstration projects** The Administrator is authorized to make grants to a municipality to assist in the costs of operating and maintaining a project which received a grant under this section, [section 1254 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1254), or [section 1263 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1263) prior to December 27, 1977, so as to reduce the operation and maintenance costs borne by the recipients of services from such project to costs comparable to those for projects assisted under subchapter II of this chapter.
 
@@ -495,7 +495,7 @@ for grants to States and to interstate agencies to assist them in administering 
 
 **(c) Maximum annual payments** The Administrator is authorized to pay to each State and interstate agency each fiscal year either—
 
-(1) the allotment of such State or agency for such fiscal year under subsection (b) of this section, or
+(1) the allotment of such State or agency for such fiscal year under subsection (b), or
 
 (2) the reasonable costs as determined by the Administrator of developing and carrying out a pollution program by such State or agency during such fiscal year,
 which ever amount is the lesser.
@@ -520,7 +520,7 @@ which ever amount is the lesser.
 
 (3) Such State (or interstate agency) submits within one hundred and twenty days after October 18, 1972, and before October 1 of each year thereafter for the Administrator’s approval of its program for the prevention, reduction, and elimination of pollution in accordance with purposes and provisions of this chapter in such form and content as the Administrator may prescribe.
 
-**(g) Reallotment of unpaid allotments** Any sums allotted under subsection (b) of this section in any fiscal year which are not paid shall be reallotted by the Administrator in accordance with regulations promulgated by him.
+**(g) Reallotment of unpaid allotments** Any sums allotted under subsection (b) in any fiscal year which are not paid shall be reallotted by the Administrator in accordance with regulations promulgated by him.
 
 ### Statutory Notes
 
@@ -718,7 +718,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 **(e) Study to develop comprehensive program for achieving sanitation services; report to Congress** The Administrator is authorized to coordinate with the Secretary of the Department of Health and Human Services, the Secretary of the Department of Housing and Urban Development, the Secretary of the Department of the Interior, the Secretary of the Department of Agriculture, and the heads of any other departments or agencies he may deem appropriate to conduct a joint study with representatives of the State of Alaska and the appropriate Native organizations (as defined in Public Law 92–203) to develop a comprehensive program for achieving adequate sanitation services in Alaska villages. This study shall be coordinated with the programs and projects authorized by sections 1254(q) and 1255(e)(2) of this title. The Administrator shall submit a report of the results of the study, together with appropriate supporting data and such recommendations as he deems desirable, to the Committee on Environment and Public Works of the Senate and to the Committee on Public Works and Transportation of the House of Representatives not later than December 31, 1979. The Administrator shall also submit recommended administrative actions, procedures, and any proposed legislation necessary to implement the recommendations of the study no later than June 30, 1980.
 
-**(f) Technical, financial, and management assistance** The Administrator is authorized to provide technical, financial and management assistance for operation and maintenance of the demonstration projects constructed under this section, until such time as the recommendations of subsection (e) of this section are implemented.
+**(f) Technical, financial, and management assistance** The Administrator is authorized to provide technical, financial and management assistance for operation and maintenance of the demonstration projects constructed under this section, until such time as the recommendations of subsection (e) are implemented.
 
 **(g) “Village” and “sanitation services” defined** For the purpose of this section, the term “village” shall mean an incorporated or unincorporated community with a population of ten to six hundred people living within a two-mile radius. The term “sanitation services” shall mean water supply, sewage disposal, solid waste disposal and other services necessary to maintain generally accepted standards of personal hygiene and public health.
 
@@ -752,11 +752,11 @@ Pub. L. 104–303, title IV, § 401, Oct. 12, 1996, 110 Stat. 3740, provided tha
 
 (2) training, technical assistance, and educational programs relating to the operation and management of sanitation services in rural and Native villages.
 
-**(b) Federal share** The Federal share of the cost of the activities described in subsection (a) of this section shall be 50 percent.
+**(b) Federal share** The Federal share of the cost of the activities described in subsection (a) shall be 50 percent.
 
-**(c) Administrative expenses** The State of Alaska may use an amount not to exceed 4 percent of any grant made available under this subsection 11 So in original. Probably should be “section”. for administrative expenses necessary to carry out the activities described in subsection (a) of this section.
+**(c) Administrative expenses** The State of Alaska may use an amount not to exceed 4 percent of any grant made available under this subsection 11 So in original. Probably should be “section”. for administrative expenses necessary to carry out the activities described in subsection (a).
 
-**(d) Consultation with State of Alaska** The Administrator shall consult with the State of Alaska on a method of prioritizing the allocation of grants under subsection (a) of this section according to the needs of, and relative health and sanitation conditions in, each eligible village.
+**(d) Consultation with State of Alaska** The Administrator shall consult with the State of Alaska on a method of prioritizing the allocation of grants under subsection (a) according to the needs of, and relative health and sanitation conditions in, each eligible village.
 
 **(e) Authorization of appropriations** There are authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2001 through 2005.
 
@@ -851,7 +851,7 @@ Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollut
 
   (A) *In general* — Except as provided in subparagraph (B), the Federal share of an assistance grant provided under paragraph (1) shall be determined by the Administrator in accordance with guidance issued by the Administrator.
 
-  (B) *Small watershed grants program* — The Federal share of an assistance grant provided under paragraph (1) to carry out an implementing activity under subsection (g)(2) of this section shall not exceed 75 percent of eligible project costs, as determined by the Administrator.
+  (B) *Small watershed grants program* — The Federal share of an assistance grant provided under paragraph (1) to carry out an implementing activity under subsection (g)(2) shall not exceed 75 percent of eligible project costs, as determined by the Administrator.
 
 (3) **Non-Federal share** — An assistance grant under paragraph (1) shall be provided on the condition that non-Federal sources provide the remainder of eligible project costs, as determined by the Administrator.
 
@@ -921,7 +921,7 @@ Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollut
 
   (A) establish a small watershed grants program as part of the Chesapeake Bay Program; and
 
-  (B) offer technical assistance and assistance grants under subsection (d) of this section to local governments and nonprofit organizations and individuals in the Chesapeake Bay region to implement—
+  (B) offer technical assistance and assistance grants under subsection (d) to local governments and nonprofit organizations and individuals in the Chesapeake Bay region to implement—
 
     (i) cooperative tributary basin strategies that address the water quality and living resource needs in the Chesapeake Bay ecosystem; and
 
@@ -957,6 +957,8 @@ Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollut
 
   (D) recommend management actions to optimize the return of a healthy and balanced ecosystem in response to improvements in the quality and character of the waters of the Chesapeake Bay.
 
+(3) **Annual survey** — The Administrator shall carry out an annual survey of sea grasses in the Chesapeake Bay.
+
 **(j) Authorization of appropriations** There is authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2001 through 2005. Such sums shall remain available until expended.
 
 ### Statutory Notes
@@ -965,6 +967,8 @@ Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollut
 November 7, 2000, referred to in subsecs. (h)(2)(C), (D), and (i)(1), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 106–457, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+2016—Subsec. (i)(3). Pub. L. 114–322 added par. (3).
+
 2000—Pub. L. 106–457 amended section generally, substituting subsecs. (a) to (j) for former subsecs. (a) to (d), which related to continuation of the Chesapeake Bay Program and establishment and maintenance in the Environmental Protection Agency of an office, division, or branch of Chesapeake Bay Programs, interstate development plan grants, progress reports from grant recipient States, and authorization of appropriations.
 
 #### Chesapeake Bay Accountability and Recovery
@@ -1155,7 +1159,7 @@ Barack Obama.
 
   (D) “Program Office” means the Great Lakes National Program Office established by this section;
 
-  (E) “Research Office” means the Great Lakes Research Office established by subsection (d) of this section;
+  (E) “Research Office” means the Great Lakes Research Office established by subsection (d);
 
   (F) “area of concern” means a geographic area located within the Great Lakes, in which beneficial uses are impaired and which has been officially designated as such under Annex 2 of the Great Lakes Water Quality Agreement;
 
@@ -1230,21 +1234,115 @@ Barack Obama.
 
 (6) **5-year plan and program** — The Program Office shall develop, in consultation with the States, a five-year plan and program for reducing the amount of nutrients introduced into the Great Lakes. Such program shall incorporate any management program for reducing nutrient runoff from nonpoint sources established under [section 1329 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1329) and shall include a program for monitoring nutrient runoff into, and ambient levels in, the Great Lakes.
 
-(7) **5-year study and demonstration projects**
+(7) **Great Lakes Restoration Initiative**
 
-  (A) The Program Office shall carry out a five-year study and demonstration projects relating to the control and removal of toxic pollutants in the Great Lakes, with emphasis on the removal of toxic pollutants from bottom sediments. In selecting locations for conducting demonstration projects under this paragraph, priority consideration shall be given to projects at the following locations: Saginaw Bay, Michigan; Sheboygan Harbor, Wisconsin; Grand Calumet River, Indiana; Ashtabula River, Ohio; and Buffalo River, New York.
+  (A) *Establishment* — There is established in the Agency a Great Lakes Restoration Initiative (referred to in this paragraph as the “Initiative”) to carry out programs and projects for Great Lakes protection and restoration.
 
-  (B) The Program Office shall—
+  (B) *Focus areas* — In carrying out the Initiative, the Administrator shall prioritize programs and projects, to be carried out in coordination with non-Federal partners, that address the priority areas described in the Initiative Action Plan, including—
 
-    (i) by December 31, 1990, complete chemical, physical, and biological assessments of the contaminated sediments at the locations selected for the study and demonstration projects;
+    (i) the remediation of toxic substances and areas of concern;
 
-    (ii) by December 31, 1990, announce the technologies that will be demonstrated at each location and the numerical standard of protection intended to be achieved at each location;
+    (ii) the prevention and control of invasive species and the impacts of invasive species;
 
-    (iii) by December 31, 1992, complete full or pilot scale demonstration projects on site at each location of promising technologies to remedy contaminated sediments; and
+    (iii) the protection and restoration of nearshore health and the prevention and mitigation of nonpoint source pollution;
 
-    (iv) by December 31, 1993, issue a final report to Congress on its findings.
+    (iv) habitat and wildlife protection and restoration, including wetlands restoration and preservation; and
 
-  (C) The Administrator, after providing for public review and comment, shall publish information concerning the public health and environmental consequences of contaminants in Great Lakes sediment. Information published pursuant to this subparagraph shall include specific numerical limits to protect health, aquatic life, and wildlife from the bioaccumulation of toxins. The Administrator shall, at a minimum, publish information pursuant to this subparagraph within 2 years of November 16, 1990.
+    (v) accountability, monitoring, evaluation, communication, and partnership activities.
+
+  (C) *Projects*
+
+    (i) *In general* — In carrying out the Initiative, the Administrator shall collaborate with other Federal partners, including the Great Lakes Interagency Task Force established by Executive Order No. 13340 (69 Fed. Reg. 29043), to select the best combination of programs and projects for Great Lakes protection and restoration using appropriate principles and criteria, including whether a program or project provides—
+
+      (I) the ability to achieve strategic and measurable environmental outcomes that implement the Initiative Action Plan and the Great Lakes Water Quality Agreement;
+
+      (II) the feasibility of—
+
+        (aa) prompt implementation;
+
+        (bb) timely achievement of results; and
+
+        (cc) resource leveraging; and
+
+      (III) the opportunity to improve interagency, intergovernmental, and interorganizational coordination and collaboration to reduce duplication and streamline efforts.
+
+    (ii) *Outreach* — In selecting the best combination of programs and projects for Great Lakes protection and restoration under clause (i), the Administrator shall consult with the Great Lakes States and Indian tribes and solicit input from other non-Federal stakeholders.
+
+    (iii) *Harmful algal bloom coordinator* — The Administrator shall designate a point person from an appropriate Federal partner to coordinate, with Federal partners and Great Lakes States, Indian tribes, and other non-Federal stakeholders, projects and activities under the Initiative involving harmful algal blooms in the Great Lakes.
+
+  (D) *Implementation of projects*
+
+    (i) *In general* — Subject to subparagraph (J)(ii), funds made available to carry out the Initiative shall be used to strategically implement—
+
+      (I) Federal projects;
+
+      (II) projects carried out in coordination with States, Indian tribes, municipalities, institutions of higher education, and other organizations; and
+
+      (III) operations and activities of the Program Office, including remediation of sediment contamination in areas of concern.
+
+    (ii) *Transfer of funds* — With amounts made available for the Initiative each fiscal year, the Administrator may—
+
+      (I) transfer not more than the total amount appropriated under subparagraph (J)(i) for the fiscal year to the head of any Federal department or agency, with the concurrence of the department or agency head, to carry out activities to support the Initiative and the Great Lakes Water Quality Agreement; and
+
+      (II) enter into an interagency agreement with the head of any Federal department or agency to carry out activities described in subclause (I).
+
+    (iii) *Agreements with non-Federal entities*
+
+      (I) *In general* — The Administrator, or the head of any other Federal department or agency receiving funds under clause (ii)(I), may make a grant to, or otherwise enter into an agreement with, a qualified non-Federal entity, as determined by the Administrator or the applicable head of the other Federal department or agency receiving funds, for planning, research, monitoring, outreach, or implementation of a project selected under subparagraph (C), to support the Initiative Action Plan or the Great Lakes Water Quality Agreement.
+
+      (II) *Qualified non-Federal entity* — For purposes of this clause, a qualified non-Federal entity may include a governmental entity, nonprofit organization, institution, or individual.
+
+  (E) *Scope*
+
+    (i) *In general* — Projects may be carried out under the Initiative on multiple levels, including—
+
+      (I) locally;
+
+      (II) Great Lakes-wide; or
+
+      (III) Great Lakes basin-wide.
+
+    (ii) *Limitation* — No funds made available to carry out the Initiative may be used for any water infrastructure activity (other than a green infrastructure project that improves habitat and other ecosystem functions in the Great Lakes) for which financial assistance is received—
+
+      (I) from a State water pollution control revolving fund established under subchapter VI;
+
+      (II) from a State drinking water revolving loan fund established under [section 300j–12 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300j–12&num=0&edition=prelim); or
+
+      (III) pursuant to the Water Infrastructure Finance and Innovation Act of 2014 ([33 U.S.C. 3901](./chapter-052-water-infrastructure-finance-and-innovation.md#section-3901) et seq.).
+
+  (F) *Activities by other Federal agencies* — Each relevant Federal department or agency shall, to the maximum extent practicable—
+
+    (i) maintain the base level of funding for the Great Lakes activities of that department or agency without regard to funding under the Initiative; and
+
+    (ii) identify new activities and projects to support the environmental goals of the Initiative.
+
+  (G) *Revision of Initiative Action Plan*
+
+    (i) *In general* — Not less often than once every 5 years, the Administrator, in conjunction with the Great Lakes Interagency Task Force, shall review, and revise as appropriate, the Initiative Action Plan to guide the activities of the Initiative in addressing the restoration and protection of the Great Lakes system.
+
+    (ii) *Outreach* — In reviewing and revising the Initiative Action Plan under clause (i), the Administrator shall consult with the Great Lakes States and Indian tribes and solicit input from other non-Federal stakeholders.
+
+  (H) *Monitoring and reporting* — The Administrator shall—
+
+    (i) establish and maintain a process for monitoring and periodically reporting to the public on the progress made in implementing the Initiative Action Plan;
+
+    (ii) make information about each project carried out under the Initiative Action Plan available on a public website; and
+
+    (iii) provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a yearly detailed description of the progress of the Initiative and amounts transferred to participating Federal departments and agencies under subparagraph (D)(ii).
+
+  (I) *Initiative Action Plan defined* — In this paragraph, the term “Initiative Action Plan” means the comprehensive, multiyear action plan for the restoration of the Great Lakes, first developed pursuant to the Joint Explanatory Statement of the Conference Report accompanying the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2010 (Public Law 111–88).
+
+  (J) *Funding*
+
+    (i) *In general* — There is authorized to be appropriated to carry out this paragraph $300,000,000 for each of fiscal years 2017 through 2021.
+
+    (ii) *Limitation* — Nothing in this paragraph creates, expands, or amends the authority of the Administrator to implement programs or projects under—
+
+      (I) this section;
+
+      (II) the Initiative Action Plan; or
+
+      (III) the Great Lakes Water Quality Agreement.
 
 (8) **Administrator’s responsibility** — The Administrator shall ensure that the Program Office enters into agreements with the various organizational elements of the Agency involved in Great Lakes activities and the appropriate State agencies specifically delineating—
 
@@ -1414,10 +1512,33 @@ Barack Obama.
 
 ### Statutory Notes
 
+#### References in Text
+Executive Order No. 13340, referred to in subsec. (c)(7)(C)(i), is Ex. Ord. No. 13340, May 18, 2004, 69 F.R. 29043, which is set out as a note under [section 1268 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1268).
+
+The Water Infrastructure Finance and Innovation Act of 2014, referred to in subsec. (c)(7)(E)(ii)(III), is subtitle C (§§ 5021–5035) of title V of Pub. L. 113–121, June 10, 2014, 128 Stat. 1332, which is classified generally to chapter 52 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-water-infrastructure-finance-and-innovation.md#section-3901) and Tables.
+
+The Department of the Interior, Environment, and Related Agencies Appropriations Act, 2010, referred to in subsec. (c)(7)(I), is Pub. L. 111–88, div. A, Oct. 30, 2009, 123 Stat. 2904. The Conference Report accompanying the Act (H.R. 2996) is H. Rept. No. 111–316, 111th Cong., 1st Sess.
+
 #### Codification
-November 16, 1990, referred to in subsec. (c)(3)(C), (7)(C), was in the original “the enactment of this Act”, and “the date of the enactment of this title” which were translated as meaning the date of enactment of Pub. L. 101–596, title I of which enacted subsec. (c)(3), (7)(C), to reflect the probable intent of Congress.
+November 16, 1990, referred to in subsec. (c)(3)(C), was in the original “the enactment of this Act”, and “the date of the enactment of this title” which were translated as meaning the date of enactment of Pub. L. 101–596, title I of which enacted subsec. (c)(3), to reflect the probable intent of Congress.
 
 #### Amendments
+2016—Subsec. (c)(7)(B), (C). Pub. L. 114–322, § 5005(1), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which related to focus areas in which the Initiative should prioritize programs and projects, and the selection of programs and projects for Great Lakes protection and restoration.
+
+Subsec. (c)(7)(D)(i). Pub. L. 114–322, § 5005(2)(A), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “Subject to subparagraph (G)(ii), funds made available to carry out the Initiative shall be used to strategically implement—
+
+“(I) Federal projects; and
+
+“(II) projects carried out in coordination with States, Indian tribes, municipalities, institutions of higher education, and other organizations.”
+
+Subsec. (c)(7)(D)(ii)(I). Pub. L. 114–322, § 5005(2)(B), substituted “(J)(i)” for “(G)(i)”.
+
+Subsec. (c)(7)(D)(iii). Pub. L. 114–322, § 5005(2)(C), added cl. (iii).
+
+Subsec. (c)(7)(E) to (J). Pub. L. 114–322, § 5005(3), added subpars. (E) to (J) and struck out former subpars. (E) to (G) which related to scope of projects, activities by other Federal agencies, and funding for fiscal year 2016.
+
+2015—Subsec. (c)(7). Pub. L. 114–113 added par. (7) and struck out former par. (7), which required a five-year study and demonstration projects relating to the control and removal of toxic pollutants in the Great Lakes.
+
 2014—Subsec. (c)(10) to (13). Pub. L. 113–188 redesignated pars. (11) to (13) as (10) to (12), respectively, and struck out former par. (10) which required submission of annual comprehensive reports.
 
 2008—Subsec. (a)(3)(K), (L). Pub. L. 110–365, § 2, added subpars. (K) and (L).
@@ -1470,6 +1591,9 @@ Subsec. (h). Pub. L. 101–596, § 105, substituted “and 1990, and $25,000,000
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Notification Requirements
+Pub. L. 114–113, div. G, title IV, § 425, Dec. 18, 2015, 129 Stat. 2580, provided that: “(a) Definitions.—In this section:“(1) Administrator.—The term ‘Administrator’ means the Administrator of the Environmental Protection Agency. “(2) Affected state.—The term ‘affected State’ means any of the Great Lakes States (as defined in section 118(a)(3) of the Federal Water Pollution Control Act ([33 U.S.C. 1268(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1268/a/3&num=0&edition=prelim))). “(3) Discharge.—The term ‘discharge’ means a discharge as defined in section 502 of the Federal Water Pollution Control Act ([33 U.S.C. 1362](./chapter-026-water-pollution-prevention-and-control.md#section-1362)). “(4) Great lakes.—The term ‘Great Lakes’ means any of the waters as defined in section 118(a)(3) of the Federal Water Pollution Control Act ([33 U.S.C. 1268(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1268/a/3&num=0&edition=prelim)). “(5) Treatment works.—The term ‘treatment works’ has the meaning given the term in section 212 of the Federal Water Pollution Control Act ([33 U.S.C. 1292](./chapter-026-water-pollution-prevention-and-control.md#section-1292)). “(b) Requirements.—“(1) In general.—The Administrator shall work with affected States having publicly owned treatment works that discharge to the Great Lakes to create public notice requirements for a combined sewer overflow discharge to the Great Lakes. “(2) Notice requirements.—The notice requirements referred to in paragraph (1) shall provide for—“(i) the method of the notice; “(ii) the contents of the notice, in accordance with paragraph (3); and “(iii) requirements for public availability of the notice. “(3) Minimum requirements.—“(A) In general.—The contents of the notice under paragraph (1) shall include—“(i) the dates and times of the applicable discharge; “(ii) the volume of the discharge; and “(iii) a description of any public access areas impacted by the discharge. “(B) Consistency.—The minimum requirements under this paragraph shall be consistent for all affected States. “(4) Additional requirements.—The Administrator shall work with the affected States to include—“(A) follow-up notice requirements that provide a description of—“(i) each applicable discharge; “(ii) the cause of the discharge; and “(iii) plans to prevent a reoccurrence of a combined sewer overflow discharge to the Great Lakes consistent with section 402 of the Federal Water Pollution Control Act ([33 U.S.C. 1342](./chapter-026-water-pollution-prevention-and-control.md#section-1342)) or an administrative order or consent decree under such Act; and “(B) annual publication requirements that list each treatment works from which the Administrator or the affected State receive a follow-up notice. “(5) Timing.—“(A) The notice and publication requirements described in this subsection shall be implemented by not later than 2 years after the date of enactment of this Act [Dec. 18, 2015]. “(B) The Administrator of the EPA may extend the implementation deadline for individual communities if the Administrator determines the community needs additional time to comply in order to avoid undue economic hardship. “(6) State action.—Nothing in this subsection prohibits an affected State from establishing a State notice requirement in the event of a discharge that is more stringent than the requirements described in this subsection.”
 
 #### Funds Contributed by a Non-Federal Sponsor
 Pub. L. 108–447, div. I, title III, Dec. 8, 2004, 118 Stat. 3332, provided in part that: “The Administrator [of the Environmental Protection Agency] may hereafter receive and use funds contributed by a non-Federal sponsor as its share of the cost of a project to carry out a project under paragraph (c)(12) [now (c)(11)] of section 118 of the Federal Water Pollution Control Act [[33 U.S.C. 1268(c)(11)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1268/c/11&num=0&edition=prelim)], as amended.”
@@ -1623,9 +1747,9 @@ Section was enacted as part of the Financial Services and General Government App
 
 **(f) Authorizations**
 
-(1) There is authorized to be appropriated to the Administrator for the implementation of this section, other than subsection (d) of this section, such sums as may be necessary for each of the fiscal years 2001 through 2010.
+(1) There is authorized to be appropriated to the Administrator for the implementation of this section, other than subsection (d), such sums as may be necessary for each of the fiscal years 2001 through 2010.
 
-(2) There is authorized to be appropriated to the Administrator for the implementation of subsection (d) of this section not to exceed $40,000,000 for each of fiscal years 2001 through 2010.
+(2) There is authorized to be appropriated to the Administrator for the implementation of subsection (d) not to exceed $40,000,000 for each of fiscal years 2001 through 2010.
 
 ### Statutory Notes
 
@@ -1723,7 +1847,7 @@ Pub. L. 109–359, Oct. 16, 2006, 120 Stat. 2049, provided that: “SECTION 1. S
 
 (2) **Lake Champlain drainage basin** — The term “Lake Champlain drainage basin” means all or part of Clinton, Franklin, Hamilton, Warren, Essex, and Washington counties in the State of New York and all or part of Franklin, Grand Isle, Chittenden, Addison, Rutland, Bennington, Lamoille, Orange, Washington, Orleans, and Caledonia counties in Vermont, that contain all of the streams, rivers, lakes, and other bodies of water, including wetlands, that drain into Lake Champlain.
 
-(3) **Plan** — The term “Plan” means the plan developed under subsection (e) of this section.
+(3) **Plan** — The term “Plan” means the plan developed under subsection (e).
 
 **(h) No effect on certain authority** Nothing in this section—
 
@@ -1806,7 +1930,7 @@ Section 304 of Pub. L. 101–596, as amended by Pub. L. 104–127, title III, §
 
   (G) establish a clearing house for information on technology, methods, and practices available for the remediation, decontamination, and control of sediment contamination.
 
-(2) **Report** — The Administrator shall submit to Congress a report on the findings of the monitoring under paragraph (1) on the date that is 2 years after the date specified in subsection (a)(2) of this section and biennially thereafter.
+(2) **Report** — The Administrator shall submit to Congress a report on the findings of the monitoring under paragraph (1) on the date that is 2 years after the date specified in subsection (a)(2) and biennially thereafter.
 
 ### Statutory Notes
 
@@ -1858,7 +1982,7 @@ Section was enacted as part of the Great Lakes Legacy Act of 2002, and also as p
 
 (2) **Maximum amount** — The Secretary may not expend more than $50,000,000 in a fiscal year to carry out this subsection.
 
-**(c) Joint plan requirement** The Secretary may only remove and remediate contaminated sediments under subsection (b) of this section in accordance with a joint plan developed by the Secretary and interested Federal, State, and local government officials. Such plan must include an opportunity for public comment, a description of the work to be undertaken, the method to be used for dredged material disposal, the roles and responsibilities of the Secretary and non-Federal sponsors, and identification of sources of funding.
+**(c) Joint plan requirement** The Secretary may only remove and remediate contaminated sediments under subsection (b) in accordance with a joint plan developed by the Secretary and interested Federal, State, and local government officials. Such plan must include an opportunity for public comment, a description of the work to be undertaken, the method to be used for dredged material disposal, the roles and responsibilities of the Secretary and non-Federal sponsors, and identification of sources of funding.
 
 **(d) Disposal costs** Costs of disposal of contaminated sediments removed under this section shall be a 11 So in original. The word “a” probably should not appear. shared as a cost of construction.
 
@@ -1948,13 +2072,13 @@ Subsec. (f). Pub. L. 104–303, § 205(3), added subsec. (f) and struck out head
 
 (1) **Basin** — The term “Basin” means the Lake Pontchartrain Basin, a 5,000 square mile watershed encompassing 16 parishes in the State of Louisiana and 4 counties in the State of Mississippi.
 
-(2) **Program** — The term “program” means the Lake Pontchartrain Basin Restoration Program established under subsection (a) of this section.
+(2) **Program** — The term “program” means the Lake Pontchartrain Basin Restoration Program established under subsection (a).
 
 **(f) Authorization of appropriations**
 
 (1) **In general** — There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2001 through 2012 and the amount appropriated for fiscal year 2009 for each of fiscal years 2013 through 2017. Such sums shall remain available until expended.
 
-(2) **Public education projects** — Not more than 15 percent of the amount appropriated pursuant to paragraph (1) in a fiscal year may be expended on grants for public education projects under subsection (d)(2) of this section.
+(2) **Public education projects** — Not more than 15 percent of the amount appropriated pursuant to paragraph (1) in a fiscal year may be expended on grants for public education projects under subsection (d)(2).
 
 ### Statutory Notes
 
@@ -2006,6 +2130,161 @@ Subsec. (a)(3) to (6). Pub. L. 113–121, § 5011(2)(C), added pars. (3) to (6).
 Subsecs. (c), (d). Pub. L. 113–121, § 5011(3)–(5), redesignated subsec. (d) as (c), substituted “October 1, 2015,” for “5 years after December 21, 2000,”, and struck out former subsec. (c) which authorized appropriations to carry out this section.
 
 
+<a id="section-1275"></a>
+## § 1275. Columbia River Basin Restoration
+**(a) Definitions** In this section, the following definitions apply:
+
+(1) **Columbia River Basin** — The term “Columbia River Basin” means the entire United States portion of the Columbia River watershed.
+
+(2) **Estuary Partnership** — The term “Estuary Partnership” means the Lower Columbia Estuary Partnership, an entity created by the States of Oregon and Washington and the Environmental Protection Agency under [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330).
+
+(3) **Estuary plan**
+
+  (A) *In general* — The term “Estuary Plan” means the Estuary Partnership Comprehensive Conservation and Management Plan adopted by the Environmental Protection Agency and the Governors of Oregon and Washington on October 20, 1999, under [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330).
+
+  (B) *Inclusion* — The term “Estuary Plan” includes any amendments to the plan.
+
+(4) **Lower Columbia River Estuary** — The term “Lower Columbia River Estuary” means the mainstem Columbia River from the Bonneville Dam to the Pacific Ocean and tidally influenced portions of tributaries to the Columbia River in that region.
+
+(5) **Middle and Upper Columbia River Basin** — The term “Middle and Upper Columbia River Basin” means the region consisting of the United States portion of the Columbia River Basin above Bonneville Dam.
+
+(6) **Program** — The term “Program” means the Columbia River Basin Restoration Program established under subsection (b)(1)(A).
+
+**(b) Columbia River Basin Restoration Program**
+
+(1) **Establishment**
+
+  (A) *In general* — The Administrator shall establish within the Environmental Protection Agency a Columbia River Basin Restoration Program.
+
+  (B) *Effect*
+
+    (i) The establishment of the Program does not modify any legal or regulatory authority or program in effect as of December 16, 2016, including the roles of Federal agencies in the Columbia River Basin.
+
+    (ii) This section does not create any new regulatory authority.
+
+(2) **Scope of Program** — The Program shall consist of a collaborative stakeholder-based program for environmental protection and restoration activities throughout the Columbia River Basin.
+
+(3) **Duties** — The Administrator shall—
+
+  (A) assess trends in water quality, including trends that affect uses of the water of the Columbia River Basin;
+
+  (B) collect, characterize, and assess data on water quality to identify possible causes of environmental problems; and
+
+  (C) provide grants in accordance with subsection (d) for projects that assist in—
+
+    (i) eliminating or reducing pollution;
+
+    (ii) cleaning up contaminated sites;
+
+    (iii) improving water quality;
+
+    (iv) monitoring to evaluate trends;
+
+    (v) reducing runoff;
+
+    (vi) protecting habitat; or
+
+    (vii) promoting citizen engagement or knowledge.
+
+**(c) Stakeholder Working Group**
+
+(1) **Establishment** — The Administrator shall establish a Columbia River Basin Restoration Working Group (referred to in this subsection as the “Working Group”).
+
+(2) **Membership**
+
+  (A) *In general* — Membership in the Working Group shall be on a voluntary basis and any person invited by the Administrator under this subsection may decline membership.
+
+  (B) *Invited representatives* — The Administrator shall invite, at a minimum, representatives of—
+
+    (i) each State located in whole or in part in the Columbia River Basin;
+
+    (ii) the Governors of each State located in whole or in part in the Columbia River Basin;
+
+    (iii) each federally recognized Indian tribe in the Columbia River Basin;
+
+    (iv) local governments in the Columbia River Basin;
+
+    (v) industries operating in the Columbia River Basin that affect or could affect water quality;
+
+    (vi) electric, water, and wastewater utilities operating in the Columba 11 So in original. Probably should be “Columbia”. River Basin;
+
+    (vii) private landowners in the Columbia River Basin;
+
+    (viii) soil and water conservation districts in the Columbia River Basin;
+
+    (ix) nongovernmental organizations that have a presence in the Columbia River Basin;
+
+    (x) the general public in the Columbia River Basin; and
+
+    (xi) the Estuary Partnership.
+
+(3) **Geographic representation** — The Working Group shall include representatives from—
+
+  (A) each State located in whole or in part in the Columbia River Basin; and
+
+  (B) each of the lower, middle, and upper basins of the Columbia River.
+
+(4) **Duties and responsibilities** — The Working Group shall—
+
+  (A) recommend and prioritize projects and actions; and
+
+  (B) review the progress and effectiveness of projects and actions implemented.
+
+(5) **Lower Columbia River Estuary**
+
+  (A) *Estuary partnership* — The Estuary Partnership shall perform the duties and fulfill the responsibilities of the Working Group described in paragraph (4) as those duties and responsibilities relate to the Lower Columbia River Estuary for such time as the Estuary Partnership is the management conference for the Lower Columbia River National Estuary Program under [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330).
+
+  (B) *Designation* — If the Estuary Partnership ceases to be the management conference for the Lower Columbia River National Estuary Program under [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330), the Administrator may designate the new management conference to assume the duties and responsibilities of the Working Group described in paragraph (4) as those duties and responsibilities relate to the Lower Columbia River Estuary.
+
+  (C) *Incorporation* — If the Estuary Partnership is removed from the National Estuary Program, the duties and responsibilities for the lower 146 miles of the Columbia River pursuant to this section shall be incorporated into the duties of the Working Group.
+
+**(d) Grants**
+
+(1) **In general** — The Administrator shall establish a voluntary, competitive Columbia River Basin program to provide grants to State governments, tribal governments, regional water pollution control agencies and entities, local government entities, nongovernmental entities, or soil and water conservation districts to develop or implement projects authorized under this section for the purpose of environmental protection and restoration activities throughout the Columbia River Basin.
+
+(2) **Federal share**
+
+  (A) *In general* — Except as provided in subparagraph (B), the Federal share of the cost of any project or activity carried out using funds from a grant provided to any person (including a State, tribal, or local government or interstate or regional agency) under this subsection for a fiscal year—
+
+    (i) shall not exceed 75 percent of the total cost of the project or activity; and
+
+    (ii) shall be made on condition that the non-Federal share of such total cost shall be provided from non-Federal sources.
+
+  (B) *Exceptions* — With respect to cost-sharing for a grant provided under this subsection—
+
+    (i) a tribal government may use Federal funds for the non-Federal share; and
+
+    (ii) the Administrator may increase the Federal share under such circumstances as the Administrator determines to be appropriate.
+
+(3) **Allocation** — In making grants using funds appropriated to carry out this section, the Administrator shall—
+
+  (A) provide not less than 25 percent of the funds to make grants for projects, programs, and studies in the Lower Columbia River Estuary;
+
+  (B) provide not less than 25 percent of the funds to make grants for projects, programs, and studies in the Middle and Upper Columbia River Basin, including the Snake River Basin; and
+
+  (C) retain not more than 5 percent of the funds for the Environmental Protection Agency for purposes of implementing this section.
+
+(4) **Reporting**
+
+  (A) *In general* — Each grant recipient under this subsection shall submit to the Administrator reports on progress being made in achieving the purposes of this section.
+
+  (B) *Requirements* — The Administrator shall establish requirements and timelines for recipients of grants under this subsection to report on progress made in achieving the purposes of this section.
+
+(5) **Relationship to other funding**
+
+  (A) *In general* — Nothing in this subsection limits the eligibility of the Estuary Partnership to receive funding under [section 1330(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1330/g&num=0&edition=prelim).
+
+  (B) *Limitation* — None of the funds made available under this subsection may be used for the administration of a management conference under [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330).
+
+**(e) Annual budget plan** The President, as part of the annual budget submission of the President to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), shall submit information regarding each Federal agency involved in protection and restoration of the Columbia River Basin, including an interagency crosscut budget that displays for each Federal agency—
+
+(1) the amounts obligated for the preceding fiscal year for protection and restoration projects, programs, and studies relating to the Columbia River Basin;
+
+(2) the estimated budget for the current fiscal year for protection and restoration projects, programs, and studies relating to the Columbia River Basin; and
+
+(3) the proposed budget for protection and restoration projects, programs, and studies relating to the Columbia River Basin.
+
+
 <a id="section-1281"></a>
 ## § 1281. Congressional declaration of purpose
 **(a) Development and implementation of waste treatment management plans and practices** It is the purpose of this subchapter to require and to assist the development and implementation of waste treatment management plans and practices which will achieve the goals of this chapter.
@@ -2048,7 +2327,7 @@ Subsecs. (c), (d). Pub. L. 113–121, § 5011(3)–(5), redesignated subsec. (d)
 
 **(h) Grants to construct privately owned treatment works** A grant may be made under this section to construct a privately owned treatment works serving one or more principal residences or small commercial establishments constructed prior to, and inhabited on, December 27, 1977, where the Administrator finds that—
 
-(1) a public body otherwise eligible for a grant under subsection (g) of this section has applied on behalf of a number of such units and certified that public ownership of such works is not feasible;
+(1) a public body otherwise eligible for a grant under subsection (g) has applied on behalf of a number of such units and certified that public ownership of such works is not feasible;
 
 (2) such public body has entered into an agreement with the Administrator which guarantees that such treatment works will be properly operated and maintained and will comply with all other requirements of [section 1284 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1284) and includes a system of charges to assure that each recipient of waste treatment services under such a grant will pay its proportionate share of the cost of operation and maintenance (including replacement); and
 
@@ -2420,7 +2699,7 @@ Pub. L. 95–217, § 75, Dec. 27, 1977, 91 Stat. 1609, as amended by Pub. L. 96�
 
 **(b) Availability and use of funds allotted for fiscal years during period June 30, 1972, and September 30, 1977; reallotment**
 
-(1) Any sums allotted to a State under subsection (a) of this section shall be available for obligation under [section 1283 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1283) on and after the date of such allotment. Such sums shall continue available for obligation in such State for a period of one year after the close of the fiscal year for which such sums are authorized. Any amounts so allotted which are not obligated by the end of such one-year period shall be immediately reallotted by the Administrator, in accordance with regulations promulgated by him, generally on the basis of the ratio used in making the last allotment of sums under this section. Such reallotted sums shall be added to the last allotments made to the States. Any sum made available to a State by reallotment under this subsection shall be in addition to any funds otherwise allotted to such State for grants under this subchapter during any fiscal year.
+(1) Any sums allotted to a State under subsection (a) shall be available for obligation under [section 1283 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1283) on and after the date of such allotment. Such sums shall continue available for obligation in such State for a period of one year after the close of the fiscal year for which such sums are authorized. Any amounts so allotted which are not obligated by the end of such one-year period shall be immediately reallotted by the Administrator, in accordance with regulations promulgated by him, generally on the basis of the ratio used in making the last allotment of sums under this section. Such reallotted sums shall be added to the last allotments made to the States. Any sum made available to a State by reallotment under this subsection shall be in addition to any funds otherwise allotted to such State for grants under this subchapter during any fiscal year.
 
 (2) Any sums which have been obligated under [section 1283 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1283) and which are released by the payment of the final voucher for the project shall be immediately credited to the State to which such sums were last allotted. Such released sums shall be added to the amounts last allotted to such State and shall be immediately available for obligation in the same manner and to the same extent as such last allotment.
 
@@ -2488,7 +2767,7 @@ Pub. L. 95–217, § 75, Dec. 27, 1977, 91 Stat. 1609, as amended by Pub. L. 96�
 
 **(m) Discretionary deposits into State water pollution control revolving funds**
 
-(1) **From construction grant allotments** — In addition to any amounts deposited in a water pollution control revolving fund established by a State under subchapter VI of this chapter, upon request of the Governor of such State, the Administrator shall make available to the State for deposit, as capitalization grants, in such fund in any fiscal year beginning after September 30, 1986, such portion of the amounts allotted to such State under this section for such fiscal year as the Governor considers appropriate; except that (A) in fiscal year 1987, such deposit may not exceed 50 percent of the amounts allotted to such State under this section for such fiscal year, and (B) in fiscal year 1988, such deposit may not exceed 75 percent of the amounts allotted to such State under this section for this fiscal year.
+(1) **From construction grant allotments** — In addition to any amounts deposited in a water pollution control revolving fund established by a State under subchapter VI, upon request of the Governor of such State, the Administrator shall make available to the State for deposit, as capitalization grants, in such fund in any fiscal year beginning after September 30, 1986, such portion of the amounts allotted to such State under this section for such fiscal year as the Governor considers appropriate; except that (A) in fiscal year 1987, such deposit may not exceed 50 percent of the amounts allotted to such State under this section for such fiscal year, and (B) in fiscal year 1988, such deposit may not exceed 75 percent of the amounts allotted to such State under this section for this fiscal year.
 
 (2) **Notice requirement** — The Governor of a State may make a request under paragraph (1) for a deposit into the water pollution control revolving fund of such State—
 
@@ -2655,7 +2934,7 @@ Pub. L. 94–369, title III, § 301, July 22, 1976, 90 Stat. 1011, provided for 
 
   (A) Not later than one year after the date of designation of any organization under subsection (a) of this section such organization shall have in operation a continuing areawide waste treatment management planning process consistent with [section 1281 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1281). Plans prepared in accordance with this process shall contain alternatives for waste treatment management, and be applicable to all wastes generated within the area involved. The initial plan prepared in accordance with such process shall be certified by the Governor and submitted to the Administrator not later than two years after the planning process is in operation.
 
-  (B) For any agency designated after 1975 under subsection (a) of this section and for all portions of a State for which the State is required to act as the planning agency in accordance with subsection (a)(6) of this section, the initial plan prepared in accordance with such process shall be certified by the Governor and submitted to the Administrator not later than three years after the receipt of the initial grant award authorized under subsection (f) of this section.
+  (B) For any agency designated after 1975 under subsection (a) of this section and for all portions of a State for which the State is required to act as the planning agency in accordance with subsection (a)(6), the initial plan prepared in accordance with such process shall be certified by the Governor and submitted to the Administrator not later than three years after the receipt of the initial grant award authorized under subsection (f) of this section.
 
 (2) Any plan prepared under such process shall include, but not be limited to—
 
@@ -2741,7 +3020,7 @@ Pub. L. 94–369, title III, § 301, July 22, 1976, 90 Stat. 1011, provided for 
 
   (I) to accept for treatment industrial wastes.
 
-**(d) Conformity of works with area plan** After a waste treatment management agency having the authority required by subsection (c) of this section has been designated under such subsection for an area and a plan for such area has been approved under subsection (b) of this section, the Administrator shall not make any grant for construction of a publicly owned treatment works under [section 1281(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1281/g/1&num=0&edition=prelim) within such area except to such designated agency and for works in conformity with such plan.
+**(d) Conformity of works with area plan** After a waste treatment management agency having the authority required by subsection (c) has been designated under such subsection for an area and a plan for such area has been approved under subsection (b) of this section, the Administrator shall not make any grant for construction of a publicly owned treatment works under [section 1281(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1281/g/1&num=0&edition=prelim) within such area except to such designated agency and for works in conformity with such plan.
 
 **(e) Permits not to conflict with approved plans** No permit under [section 1342 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1342) shall be issued for any point source which is in conflict with a plan approved pursuant to subsection (b) of this section.
 
@@ -2800,7 +3079,7 @@ Pub. L. 94–369, title III, § 301, July 22, 1976, 90 Stat. 1011, provided for 
 ### Statutory Notes
 
 #### References in Text
-Public Law 83–566, referred to in subsec. (j)(8), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, as amended, known as the Watershed Protection and Flood Prevention Act, which is classified generally to chapter 18 (§ 1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1001&num=0&edition=prelim) and Tables.
+Public Law 83–566, referred to in subsec. (j)(8), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, known as the Watershed Protection and Flood Prevention Act, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1987—Subsec. (f)(3). Pub. L. 100–4, § 101(d), struck out “and” after “1974,” and “1980,” and inserted “, and such sums as may be necessary for fiscal years 1983 through 1990” after “1982”.
@@ -2935,19 +3214,19 @@ Amendment by Pub. L. 96–483 effective Dec. 27, 1977, see section 2(g) of Pub. 
 
 <a id="section-1293a"></a>
 ## § 1293a. Contained spoil disposal facilities
-**(a) Construction, operation, and maintenance; period; conditions; requirements** The Secretary of the Army, acting through the Chief of Engineers, is authorized to construct, operate, and maintain, subject to the provisions of subsection (c) of this section, contained spoil disposal facilities of sufficient capacity for a period not to exceed ten years, to meet the requirements of this section. Before establishing each such facility, the Secretary of the Army shall obtain the concurrence of appropriate local governments and shall consider the views and recommendations of the Administrator of the Environmental Protection Agency and shall comply with requirements of [section 1171 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1171&num=0&edition=prelim), and of the National Environmental Policy Act of 1969 [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.]. [Section 401 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-401) shall not apply to any facility authorized by this section.
+**(a) Construction, operation, and maintenance; period; conditions; requirements** The Secretary of the Army, acting through the Chief of Engineers, is authorized to construct, operate, and maintain, subject to the provisions of subsection (c), contained spoil disposal facilities of sufficient capacity for a period not to exceed ten years, to meet the requirements of this section. Before establishing each such facility, the Secretary of the Army shall obtain the concurrence of appropriate local governments and shall consider the views and recommendations of the Administrator of the Environmental Protection Agency and shall comply with requirements of [section 1171 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1171&num=0&edition=prelim), and of the National Environmental Policy Act of 1969 [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.]. [Section 401 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-401) shall not apply to any facility authorized by this section.
 
-**(b) Time for establishment; consideration of area needs; requirements** The Secretary of the Army, acting through the Chief of Engineers, shall establish the contained spoil disposal facilities authorized in subsection (a) of this section at the earliest practicable date, taking into consideration the views and recommendations of the Administrator of the Environmental Protection Agency as to those areas which, in the Administrator’s judgment, are most urgently in need of such facilities and pursuant to the requirements of the National Environmental Policy Act of 1969 [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.] and the Federal Water Pollution Control Act [[33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.].
+**(b) Time for establishment; consideration of area needs; requirements** The Secretary of the Army, acting through the Chief of Engineers, shall establish the contained spoil disposal facilities authorized in subsection (a) at the earliest practicable date, taking into consideration the views and recommendations of the Administrator of the Environmental Protection Agency as to those areas which, in the Administrator’s judgment, are most urgently in need of such facilities and pursuant to the requirements of the National Environmental Policy Act of 1969 [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.] and the Federal Water Pollution Control Act [[33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.].
 
-**(c) Written agreement requirement; terms of agreement** Prior to construction of any such facility, the appropriate State or States, interstate agency, municipality, or other appropriate political subdivision of the State shall agree in writing to (1) furnish all lands, easements, and rights-of-way necessary for the construction, operation, and maintenance of the facility; (2) contribute to the United States 25 per centum of the construction costs, such amount to be payable either in cash prior to construction, in installments during construction, or in installments, with interest at a rate to be determined by the Secretary of the Treasury, as of the beginning of the fiscal year in which construction is initiated, on the basis of the computed average interest rate payable by the Treasury upon its outstanding marketable public obligations, which are neither due or callable for redemption for fifteen years from date of issue; (3) hold and save the United States free from damages due to construction, operation, and maintenance of the facility; and (4) except as provided in subsection (f) of this section, maintain the facility after completion of its use for disposal purposes in a manner satisfactory to the Secretary of the Army.
+**(c) Written agreement requirement; terms of agreement** Prior to construction of any such facility, the appropriate State or States, interstate agency, municipality, or other appropriate political subdivision of the State shall agree in writing to (1) furnish all lands, easements, and rights-of-way necessary for the construction, operation, and maintenance of the facility; (2) contribute to the United States 25 per centum of the construction costs, such amount to be payable either in cash prior to construction, in installments during construction, or in installments, with interest at a rate to be determined by the Secretary of the Treasury, as of the beginning of the fiscal year in which construction is initiated, on the basis of the computed average interest rate payable by the Treasury upon its outstanding marketable public obligations, which are neither due or callable for redemption for fifteen years from date of issue; (3) hold and save the United States free from damages due to construction, operation, and maintenance of the facility; and (4) except as provided in subsection (f), maintain the facility after completion of its use for disposal purposes in a manner satisfactory to the Secretary of the Army.
 
-**(d) Waiver of construction costs contribution from non-Federal interests; findings of participation in waste treatment facilities for general geographical area and compliance with water quality standards; waiver of payments in event of written agreement before occurrence of findings** The requirement for appropriate non-Federal interest or interests to furnish an agreement to contribute 25 per centum of the construction costs as set forth in subsection (c) of this section shall be waived by the Secretary of the Army upon a finding by the Administrator of the Environmental Protection Agency that for the area to which such construction applies, the State or States involved, interstate agency, municipality, and other appropriate political subdivision of the State and industrial concerns are participating in and in compliance with an approved plan for the general geographical area of the dredging activity for construction, modification, expansion, or rehabilitation of waste treatment facilities and the Administrator has found that applicable water quality standards are not being violated. In the event such findings occur after the appropriate non-Federal interest or interests have entered into the agreement required by subsection (c) of this section, any payments due after the date of such findings as part of the required local contribution of 25 per centum of the construction costs shall be waived by the Secretary of the Army.
+**(d) Waiver of construction costs contribution from non-Federal interests; findings of participation in waste treatment facilities for general geographical area and compliance with water quality standards; waiver of payments in event of written agreement before occurrence of findings** The requirement for appropriate non-Federal interest or interests to furnish an agreement to contribute 25 per centum of the construction costs as set forth in subsection (c) shall be waived by the Secretary of the Army upon a finding by the Administrator of the Environmental Protection Agency that for the area to which such construction applies, the State or States involved, interstate agency, municipality, and other appropriate political subdivision of the State and industrial concerns are participating in and in compliance with an approved plan for the general geographical area of the dredging activity for construction, modification, expansion, or rehabilitation of waste treatment facilities and the Administrator has found that applicable water quality standards are not being violated. In the event such findings occur after the appropriate non-Federal interest or interests have entered into the agreement required by subsection (c), any payments due after the date of such findings as part of the required local contribution of 25 per centum of the construction costs shall be waived by the Secretary of the Army.
 
 **(e) Federal payment of costs for disposal of dredged spoil from project** Notwithstanding any other provision of law, all costs of disposal of dredged spoil from the project for the Great Lakes connecting channels, Michigan, shall be borne by the United States.
 
-**(f) Title to lands, easements, and rights-of-way; retention by non-Federal interests; conveyance of facilities; agreement of transferee** The participating non-Federal interest or interests shall retain title to all lands, easements, and rights-of-way furnished by it pursuant to subsection (c) of this section. A spoil disposal facility owned by a non-Federal interest or interests may be conveyed to another party only after completion of the facility’s use for disposal purposes and after the transferee agrees in writing to use or maintain the facility in a manner which the Secretary of the Army determines to be satisfactory.
+**(f) Title to lands, easements, and rights-of-way; retention by non-Federal interests; conveyance of facilities; agreement of transferee** The participating non-Federal interest or interests shall retain title to all lands, easements, and rights-of-way furnished by it pursuant to subsection (c). A spoil disposal facility owned by a non-Federal interest or interests may be conveyed to another party only after completion of the facility’s use for disposal purposes and after the transferee agrees in writing to use or maintain the facility in a manner which the Secretary of the Army determines to be satisfactory.
 
-**(g) Federal licenses or permits; charges; remission of charge** Any spoil disposal facilities constructed under the provisions of this section shall be made available to Federal licensees or permittees upon payment of an appropriate charge for such use. Twenty-five per centum of such charge shall be remitted to the participating non-Federal interest or interests except for those excused from contributing to the construction costs under subsections (d) and (e) of this section.
+**(g) Federal licenses or permits; charges; remission of charge** Any spoil disposal facilities constructed under the provisions of this section shall be made available to Federal licensees or permittees upon payment of an appropriate charge for such use. Twenty-five per centum of such charge shall be remitted to the participating non-Federal interest or interests except for those excused from contributing to the construction costs under subsections (d) and (e).
 
 **(h) Provisions applicable to Great Lakes and their connecting channels** This section, other than subsection (i), shall be applicable only to the Great Lakes and their connecting channels.
 
@@ -3084,11 +3363,11 @@ The Reclamation Projects Authorization and Adjustment Act of 1992, referred to i
 
 (1) the Administrator may make grants to States for the purpose of providing grants to a municipality or municipal entity for planning, design, and construction of treatment works to intercept, transport, control, or treat municipal combined sewer overflows and sanitary sewer overflows; and
 
-(2) subject to subsection (g) of this section, the Administrator may make a direct grant to a municipality or municipal entity for the purposes described in paragraph (1).
+(2) subject to subsection (g), the Administrator may make a direct grant to a municipality or municipal entity for the purposes described in paragraph (1).
 
-**(b) Prioritization** In selecting from among municipalities applying for grants under subsection (a) of this section, a State or the Administrator shall give priority to an applicant that—
+**(b) Prioritization** In selecting from among municipalities applying for grants under subsection (a), a State or the Administrator shall give priority to an applicant that—
 
-(1) is a municipality that is a financially distressed community under subsection (c) of this section;
+(1) is a municipality that is a financially distressed community under subsection (c);
 
 (2) has implemented or is complying with an implementation schedule for the nine minimum controls specified in the CSO control policy referred to in [section 1342(q)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1342/q/1&num=0&edition=prelim) and has begun implementing a long-term municipal combined sewer overflow control plan or a separate sanitary sewer overflow control plan;
 
@@ -3098,33 +3377,33 @@ The Reclamation Projects Authorization and Adjustment Act of 1992, referred to i
 
 **(c) Financially distressed community**
 
-(1) **Definition** — In subsection (b) of this section, the term “financially distressed community” means a community that meets affordability criteria established by the State in which the community is located, if such criteria are developed after public review and comment.
+(1) **Definition** — In subsection (b), the term “financially distressed community” means a community that meets affordability criteria established by the State in which the community is located, if such criteria are developed after public review and comment.
 
-(2) **Consideration of impact on water and sewer rates** — In determining if a community is a distressed community for the purposes of subsection (b) of this section, the State shall consider, among other factors, the extent to which the rate of growth of a community’s tax base has been historically slow such that implementing a plan described in subsection (b)(2) of this section would result in a significant increase in any water or sewer rate charged by the community’s publicly owned wastewater treatment facility.
+(2) **Consideration of impact on water and sewer rates** — In determining if a community is a distressed community for the purposes of subsection (b), the State shall consider, among other factors, the extent to which the rate of growth of a community’s tax base has been historically slow such that implementing a plan described in subsection (b)(2) would result in a significant increase in any water or sewer rate charged by the community’s publicly owned wastewater treatment facility.
 
 (3) **Information to assist States** — The Administrator may publish information to assist States in establishing affordability criteria under paragraph (1).
 
-**(d) Cost-sharing** The Federal share of the cost of activities carried out using amounts from a grant made under subsection (a) of this section shall be not less than 55 percent of the cost. The non-Federal share of the cost may include, in any amount, public and private funds and in-kind services, and may include, notwithstanding [section 1383(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1383/h&num=0&edition=prelim), financial assistance, including loans, from a State water pollution control revolving fund.
+**(d) Cost-sharing** The Federal share of the cost of activities carried out using amounts from a grant made under subsection (a) shall be not less than 55 percent of the cost. The non-Federal share of the cost may include, in any amount, public and private funds and in-kind services, and may include, notwithstanding [section 1383(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1383/h&num=0&edition=prelim), financial assistance, including loans, from a State water pollution control revolving fund.
 
-**(e) Administrative reporting requirements** If a project receives grant assistance under subsection (a) of this section and loan assistance from a State water pollution control revolving fund and the loan assistance is for 15 percent or more of the cost of the project, the project may be administered in accordance with State water pollution control revolving fund administrative reporting requirements for the purposes of streamlining such requirements.
+**(e) Administrative reporting requirements** If a project receives grant assistance under subsection (a) and loan assistance from a State water pollution control revolving fund and the loan assistance is for 15 percent or more of the cost of the project, the project may be administered in accordance with State water pollution control revolving fund administrative reporting requirements for the purposes of streamlining such requirements.
 
 **(f) Authorization of appropriations** There is authorized to be appropriated to carry out this section $750,000,000 for each of fiscal years 2002 and 2003. Such sums shall remain available until expended.
 
 **(g) Allocation of funds**
 
-(1) **Fiscal year 2002** — Subject to subsection (h) of this section, the Administrator shall use the amounts appropriated to carry out this section for fiscal year 2002 for making grants to municipalities and municipal entities under subsection (a)(2) of this section, in accordance with the criteria set forth in subsection (b) of this section.
+(1) **Fiscal year 2002** — Subject to subsection (h), the Administrator shall use the amounts appropriated to carry out this section for fiscal year 2002 for making grants to municipalities and municipal entities under subsection (a)(2), in accordance with the criteria set forth in subsection (b).
 
-(2) **Fiscal year 2003** — Subject to subsection (h) of this section, the Administrator shall use the amounts appropriated to carry out this section for fiscal year 2003 as follows:
+(2) **Fiscal year 2003** — Subject to subsection (h), the Administrator shall use the amounts appropriated to carry out this section for fiscal year 2003 as follows:
 
-  (A) Not to exceed $250,000,000 for making grants to municipalities and municipal entities under subsection (a)(2) of this section, in accordance with the criteria set forth in subsection (b) of this section.
+  (A) Not to exceed $250,000,000 for making grants to municipalities and municipal entities under subsection (a)(2), in accordance with the criteria set forth in subsection (b).
 
-  (B) All remaining amounts for making grants to States under subsection (a)(1) of this section, in accordance with a formula to be established by the Administrator, after providing notice and an opportunity for public comment, that allocates to each State a proportional share of such amounts based on the total needs of the State for municipal combined sewer overflow controls and sanitary sewer overflow controls identified in the most recent survey conducted pursuant to [section 1375(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1375/b/1&num=0&edition=prelim).
+  (B) All remaining amounts for making grants to States under subsection (a)(1), in accordance with a formula to be established by the Administrator, after providing notice and an opportunity for public comment, that allocates to each State a proportional share of such amounts based on the total needs of the State for municipal combined sewer overflow controls and sanitary sewer overflow controls identified in the most recent survey conducted pursuant to [section 1375(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1375/b/1&num=0&edition=prelim).
 
 **(h) Administrative expenses** Of the amounts appropriated to carry out this section for each fiscal year—
 
 (1) the Administrator may retain an amount not to exceed 1 percent for the reasonable and necessary costs of administering this section; and
 
-(2) the Administrator, or a State, may retain an amount not to exceed 4 percent of any grant made to a municipality or municipal entity under subsection (a) of this section, for the reasonable and necessary costs of administering the grant.
+(2) the Administrator, or a State, may retain an amount not to exceed 4 percent of any grant made to a municipality or municipal entity under subsection (a), for the reasonable and necessary costs of administering the grant.
 
 **(i) Reports** Not later than December 31, 2003, and periodically thereafter, the Administrator shall transmit to Congress a report containing recommended funding levels for grants under this section. The recommended funding levels shall be sufficient to ensure the continued expeditious implementation of municipal combined sewer overflow and sanitary sewer overflow controls nationwide.
 
@@ -3178,7 +3457,7 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 112(d)], Dec. 21, 2000, 114 S
 
 **(g) Modifications for certain nonconventional pollutants**
 
-(1) **General authority** — The Administrator, with the concurrence of the State, may modify the requirements of subsection (b)(2)(A) of this section with respect to the discharge from any point source of ammonia, chlorine, color, iron, and total phenols (4AAP) (when determined by the Administrator to be a pollutant covered by subsection (b)(2)(F) of this section) and any other pollutant which the Administrator lists under paragraph (4) of this subsection.
+(1) **General authority** — The Administrator, with the concurrence of the State, may modify the requirements of subsection (b)(2)(A) of this section with respect to the discharge from any point source of ammonia, chlorine, color, iron, and total phenols (4AAP) (when determined by the Administrator to be a pollutant covered by subsection (b)(2)(F)) and any other pollutant which the Administrator lists under paragraph (4) of this subsection.
 
 (2) **Requirements for granting modifications** — A modification under this subsection shall be granted only upon a showing by the owner or operator of a point source satisfactory to the Administrator that—
 
@@ -3260,23 +3539,23 @@ For the purposes of this subsection the phrase “the discharge of any pollutant
 
 (1) Any application filed under this section for a modification of the provisions of—
 
-  (A) subsection (b)(1)(B) of this section under subsection (h) of this section shall be filed not later that 11 So in original. Probably should be “than”. the 365th day which begins after December 29, 1981, except that a publicly owned treatment works which prior to December 31, 1982, had a contractual arrangement to use a portion of the capacity of an ocean outfall operated by another publicly owned treatment works which has applied for or received modification under subsection (h) of this section, may apply for a modification of subsection (h) of this section in its own right not later than 30 days after February 4, 1987, and except as provided in paragraph (5);
+  (A) subsection (b)(1)(B) under subsection (h) of this section shall be filed not later that 11 So in original. Probably should be “than”. the 365th day which begins after December 29, 1981, except that a publicly owned treatment works which prior to December 31, 1982, had a contractual arrangement to use a portion of the capacity of an ocean outfall operated by another publicly owned treatment works which has applied for or received modification under subsection (h), may apply for a modification of subsection (h) in its own right not later than 30 days after February 4, 1987, and except as provided in paragraph (5);
 
-  (B) subsection (b)(2)(A) of this section as it applies to pollutants identified in subsection (b)(2)(F) of this section shall be filed not later than 270 days after the date of promulgation of an applicable effluent guideline under [section 1314 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1314) or not later than 270 days after December 27, 1977, whichever is later.
+  (B) subsection (b)(2)(A) as it applies to pollutants identified in subsection (b)(2)(F) shall be filed not later than 270 days after the date of promulgation of an applicable effluent guideline under [section 1314 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1314) or not later than 270 days after December 27, 1977, whichever is later.
 
 (2) Subject to paragraph (3) of this section, any application for a modification filed under subsection (g) of this section shall not operate to stay any requirement under this chapter, unless in the judgment of the Administrator such a stay or the modification sought will not result in the discharge of pollutants in quantities which may reasonably be anticipated to pose an unacceptable risk to human health or the environment because of bioaccumulation, persistency in the environment, acute toxicity, chronic toxicity (including carcinogenic­ity, mutagenicity, or teratogenicity), or synergistic propensities, and that there is a substantial likelihood that the applicant will succeed on the merits of such application. In the case of an application filed under subsection (g) of this section, the Administrator may condition any stay granted under this paragraph on requiring the filing of a bond or other appropriate security to assure timely compliance with the requirements from which a modification is sought.
 
 (3) **Compliance requirements under subsection (g).—**
 
-  (A) *Effect of filing.—* — An application for a modification under subsection (g) of this section and a petition for listing of a pollutant as a pollutant for which modifications are authorized under such subsection shall not stay the requirement that the person seeking such modification or listing comply with effluent limitations under this chapter for all pollutants not the subject of such application or petition.
+  (A) *Effect of filing.—* — An application for a modification under subsection (g) and a petition for listing of a pollutant as a pollutant for which modifications are authorized under such subsection shall not stay the requirement that the person seeking such modification or listing comply with effluent limitations under this chapter for all pollutants not the subject of such application or petition.
 
-  (B) *Effect of disapproval.—* — Disapproval of an application for a modification under subsection (g) of this section shall not stay the requirement that the person seeking such modification comply with all applicable effluent limitations under this chapter.
+  (B) *Effect of disapproval.—* — Disapproval of an application for a modification under subsection (g) shall not stay the requirement that the person seeking such modification comply with all applicable effluent limitations under this chapter.
 
-(4) **Deadline for subsection (g) decision.—** — An application for a modification with respect to a pollutant filed under subsection (g) of this section must be approved or disapproved not later than 365 days after the date of such filing; except that in any case in which a petition for listing such pollutant as a pollutant for which modifications are authorized under such subsection is approved, such application must be approved or disapproved not later than 365 days after the date of approval of such petition.
+(4) **Deadline for subsection (g) decision.—** — An application for a modification with respect to a pollutant filed under subsection (g) must be approved or disapproved not later than 365 days after the date of such filing; except that in any case in which a petition for listing such pollutant as a pollutant for which modifications are authorized under such subsection is approved, such application must be approved or disapproved not later than 365 days after the date of approval of such petition.
 
 (5) **Extension of application deadline.—**
 
-  (A) *In general.—* — In the 180-day period beginning on October 31, 1994, the city of San Diego, California, may apply for a modification pursuant to subsection (h) of this section of the requirements of subsection (b)(1)(B) of this section with respect to biological oxygen demand and total suspended solids in the effluent discharged into marine waters.
+  (A) *In general.—* — In the 180-day period beginning on October 31, 1994, the city of San Diego, California, may apply for a modification pursuant to subsection (h) of the requirements of subsection (b)(1)(B) with respect to biological oxygen demand and total suspended solids in the effluent discharged into marine waters.
 
   (B) *Application.—* — An application under this paragraph shall include a commitment by the applicant to implement a waste water reclamation program that, at a minimum, will—
 
@@ -3298,7 +3577,7 @@ For the purposes of this subsection the phrase “the discharge of any pollutant
 
   (A) the facility for which modification is sought is covered at the time of the enactment of this subsection by National Pollutant Discharge Elimination System permit number CA0005894 or CA0005282;
 
-  (B) the energy and environmental costs of meeting such requirements of subsections (b)(1)(A) and (b)(2)(E) of this section and [section 1343 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1343) exceed by an unreasonable amount the benefits to be obtained, including the objectives of this chapter;
+  (B) the energy and environmental costs of meeting such requirements of subsections (b)(1)(A) and (b)(2)(E) and [section 1343 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1343) exceed by an unreasonable amount the benefits to be obtained, including the objectives of this chapter;
 
   (C) the applicant has established a system for monitoring the impact of such discharges on a representative sample of aquatic biota;
 
@@ -3322,7 +3601,7 @@ For the purposes of this subsection the phrase “the discharge of any pollutant
 
 **(n) Fundamentally different factors**
 
-(1) **General rule** — The Administrator, with the concurrence of the State, may establish an alternative requirement under subsection (b)(2) of this section or [section 1317(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1317/b&num=0&edition=prelim) for a facility that modifies the requirements of national effluent limitation guidelines or categorical pretreatment standards that would otherwise be applicable to such facility, if the owner or operator of such facility demonstrates to the satisfaction of the Administrator that—
+(1) **General rule** — The Administrator, with the concurrence of the State, may establish an alternative requirement under subsection (b)(2) or [section 1317(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1317/b&num=0&edition=prelim) for a facility that modifies the requirements of national effluent limitation guidelines or categorical pretreatment standards that would otherwise be applicable to such facility, if the owner or operator of such facility demonstrates to the satisfaction of the Administrator that—
 
   (A) the facility is fundamentally different with respect to the factors (other than cost) specified in section 1314(b) or 1314(g) of this title and considered by the Administrator in establishing such national effluent limitation guidelines or categorical pretreatment standards;
 
@@ -3410,7 +3689,7 @@ Subsec. (h)(6) to (9). Pub. L. 100–4, § 303(c), (d)(1), added par. (6), redes
 
 Subsec. (i)(1). Pub. L. 100–4, § 304(a), substituted “February 4, 1987” for “December 27, 1977”.
 
-Subsec. (j)(1)(A). Pub. L. 100–4, § 303(f), inserted before semicolon at end “, except that a publicly owned treatment works which prior to December 31, 1982, had a contractual arrangement to use a portion of the capacity of an ocean outfall operated by another publicly owned treatment works which has applied for or received modification under subsection (h) of this section, may apply for a modification of subsection (h) of this section in its own right not later than 30 days after February 4, 1987”.
+Subsec. (j)(1)(A). Pub. L. 100–4, § 303(f), inserted before semicolon at end “, except that a publicly owned treatment works which prior to December 31, 1982, had a contractual arrangement to use a portion of the capacity of an ocean outfall operated by another publicly owned treatment works which has applied for or received modification under subsection (h), may apply for a modification of subsection (h) in its own right not later than 30 days after February 4, 1987”.
 
 Subsec. (j)(2). Pub. L. 100–4, § 302(c)(1), substituted “Subject to paragraph (3) of this section, any” for “Any”.
 
@@ -3618,9 +3897,9 @@ Subsec. (b). Pub. L. 100–4, § 308(e)(1), amended subsec. (b) generally. Prior
 
   (A) *In general* — If a State fails to adopt water quality criteria and standards in accordance with paragraph (1)(A) that are as protective of human health as the criteria for pathogens and pathogen indicators for coastal recreation waters published by the Administrator, the Administrator shall promptly propose regulations for the State setting forth revised or new water quality standards for pathogens and pathogen indicators described in paragraph (1)(A) for coastal recreation waters of the State.
 
-  (B) *Exception* — If the Administrator proposes regulations for a State described in subparagraph (A) under subsection (c)(4)(B) of this section, the Administrator shall publish any revised or new standard under this subsection not later than 42 months after October 10, 2000.
+  (B) *Exception* — If the Administrator proposes regulations for a State described in subparagraph (A) under subsection (c)(4)(B), the Administrator shall publish any revised or new standard under this subsection not later than 42 months after October 10, 2000.
 
-(3) **Applicability** — Except as expressly provided by this subsection, the requirements and procedures of subsection (c) of this section apply to this subsection, including the requirement in subsection (c)(2)(A) of this section that the criteria protect public health and welfare.
+(3) **Applicability** — Except as expressly provided by this subsection, the requirements and procedures of subsection (c) apply to this subsection, including the requirement in subsection (c)(2)(A) that the criteria protect public health and welfare.
 
 ### Statutory Notes
 
@@ -4247,17 +4526,17 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 (17) “otherwise subject to the jurisdiction of the United States” means subject to the jurisdiction of the United States by virtue of United States citizenship, United States vessel documentation or numbering, or as provided for by international agreement to which the United States is a party;
 
-(18) “Area Committee” means an Area Committee established under subsection (j) of this section;
+(18) “Area Committee” means an Area Committee established under subsection (j);
 
-(19) “Area Contingency Plan” means an Area Contingency Plan prepared under subsection (j) of this section;
+(19) “Area Contingency Plan” means an Area Contingency Plan prepared under subsection (j);
 
-(20) “Coast Guard District Response Group” means a Coast Guard District Response Group established under subsection (j) of this section;
+(20) “Coast Guard District Response Group” means a Coast Guard District Response Group established under subsection (j);
 
 (21) “Federal On-Scene Coordinator” means a Federal On-Scene Coordinator designated in the National Contingency Plan;
 
-(22) “National Contingency Plan” means the National Contingency Plan prepared and published under subsection (d) of this section;
+(22) “National Contingency Plan” means the National Contingency Plan prepared and published under subsection (d);
 
-(23) “National Response Unit” means the National Response Unit established under subsection (j) of this section;
+(23) “National Response Unit” means the National Response Unit established under subsection (j);
 
 (24) “worst case discharge” means—
 
@@ -4333,7 +4612,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
     (i) from which oil or a hazardous substance is discharged in violation of paragraph (3), or
 
-    (ii) who fails or refuses to comply with any regulation issued under subsection (j) of this section to which that owner, operator, or person in charge is subject,
+    (ii) who fails or refuses to comply with any regulation issued under subsection (j) to which that owner, operator, or person in charge is subject,
     may be assessed a class I or class II civil penalty by the Secretary of the department in which the Coast Guard is operating, the Secretary of Transportation, or the Administrator.
 
   (B) *Classes of penalties.—*
@@ -4383,12 +4662,12 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
   (B) *Failure to remove or comply.—* — Any person described in subparagraph (A) who, without sufficient cause—
 
-    (i) fails to properly carry out removal of the discharge under an order of the President pursuant to subsection (c) of this section; or
+    (i) fails to properly carry out removal of the discharge under an order of the President pursuant to subsection (c); or
 
-    (ii) fails to comply with an order pursuant to subsection (e)(1)(B) of this section;
+    (ii) fails to comply with an order pursuant to subsection (e)(1)(B);
     shall be subject to a civil penalty in an amount up to $25,000 per day of violation or an amount up to 3 times the costs incurred by the Oil Spill Liability Trust Fund as a result of such failure.
 
-  (C) *Failure to comply with regulation.—* — Any person who fails or refuses to comply with any regulation issued under subsection (j) of this section shall be subject to a civil penalty in an amount up to $25,000 per day of violation.
+  (C) *Failure to comply with regulation.—* — Any person who fails or refuses to comply with any regulation issued under subsection (j) shall be subject to a civil penalty in an amount up to $25,000 per day of violation.
 
   (D) *Gross negligence.—* — In any case in which a violation of paragraph (3) was the result of gross negligence or willful misconduct of a person described in subparagraph (A), the person shall be subject to a civil penalty of not less than $100,000, and not more than $3,000 per barrel of oil or unit of reportable quantity of hazardous substance discharged.
 
@@ -4449,7 +4728,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
   (A) Each Federal agency, State, owner or operator, or other person participating in efforts under this subsection shall act in accordance with the National Contingency Plan or as directed by the President.
 
-  (B) An owner or operator participating in efforts under this subsection shall act in accordance with the National Contingency Plan and the applicable response plan required under subsection (j) of this section, or as directed by the President, except that the owner or operator may deviate from the applicable response plan if the President or the Federal On-Scene Coordinator determines that deviation from the response plan would provide for a more expeditious or effective response to the spill or mitigation of its environmental effects.
+  (B) An owner or operator participating in efforts under this subsection shall act in accordance with the National Contingency Plan and the applicable response plan required under subsection (j), or as directed by the President, except that the owner or operator may deviate from the applicable response plan if the President or the Federal On-Scene Coordinator determines that deviation from the response plan would provide for a more expeditious or effective response to the spill or mitigation of its environmental effects.
 
 (4) **Exemption from liability**
 
@@ -4510,11 +4789,11 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
   (H) A system whereby the State or States affected by a discharge of oil or hazardous substance may act where necessary to remove such discharge and such State or States may be reimbursed in accordance with the Oil Pollution Act of 1990 [[33 U.S.C. 2701](./chapter-040-oil-pollution.md#section-2701) et seq.], in the case of any discharge of oil from a vessel or facility, for the reasonable costs incurred for that removal, from the Oil Spill Liability Trust Fund.
 
-  (I) Establishment of criteria and procedures to ensure immediate and effective Federal identification of, and response to, a discharge, or the threat of a discharge, that results in a substantial threat to the public health or welfare of the United States, as required under subsection (c)(2) of this section.
+  (I) Establishment of criteria and procedures to ensure immediate and effective Federal identification of, and response to, a discharge, or the threat of a discharge, that results in a substantial threat to the public health or welfare of the United States, as required under subsection (c)(2).
 
   (J) Establishment of procedures and standards for removing a worst case discharge of oil, and for mitigating or preventing a substantial threat of such a discharge.
 
-  (K) Designation of the Federal official who shall be the Federal On-Scene Coordinator for each area for which an Area Contingency Plan is required to be prepared under subsection (j) of this section.
+  (K) Designation of the Federal official who shall be the Federal On-Scene Coordinator for each area for which an Area Contingency Plan is required to be prepared under subsection (j).
 
   (L) Establishment of procedures for the coordination of activities of—
 
@@ -4522,9 +4801,9 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
     (ii) Federal On-Scene Coordinators designated under subparagraph (K);
 
-    (iii) District Response Groups established under subsection (j) of this section; and
+    (iii) District Response Groups established under subsection (j); and
 
-    (iv) Area Committees established under subsection (j) of this section.
+    (iv) Area Committees established under subsection (j).
 
   (M) A fish and wildlife response plan, developed in consultation with the United States Fish and Wildlife Service, the National Oceanic and Atmospheric Administration, and other interested parties (including State fish and wildlife conservation officials), for the immediate and effective protection, rescue, and rehabilitation of, and the minimization of risk of damage to, fish and wildlife resources and their habitat that are harmed or that may be jeopardized by a discharge.
 
@@ -4534,7 +4813,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 **(e) Civil enforcement**
 
-(1) **Orders protecting public health** — In addition to any action taken by a State or local government, when the President determines that there may be an imminent and substantial threat to the public health or welfare of the United States, including fish, shellfish, and wildlife, public and private property, shorelines, beaches, habitat, and other living and nonliving natural resources under the jurisdiction or control of the United States, because of an actual or threatened discharge of oil or a hazardous substance from a vessel or facility in violation of subsection (b) of this section, the President may—
+(1) **Orders protecting public health** — In addition to any action taken by a State or local government, when the President determines that there may be an imminent and substantial threat to the public health or welfare of the United States, including fish, shellfish, and wildlife, public and private property, shorelines, beaches, habitat, and other living and nonliving natural resources under the jurisdiction or control of the United States, because of an actual or threatened discharge of oil or a hazardous substance from a vessel or facility in violation of subsection (b), the President may—
 
   (A) require the Attorney General to secure any relief from any person, including the owner or operator of the vessel or facility, as may be necessary to abate such endangerment; or
 
@@ -4544,17 +4823,17 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 **(f) Liability for actual costs of removal**
 
-(1) Except where an owner or operator can prove that a discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of a third party without regard to whether any such act or omission was or was not negligent, or any combination of the foregoing clauses, such owner or operator of any vessel from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section shall, notwithstanding any other provision of law, be liable to the United States Government for the actual costs incurred under subsection (c) of this section for the removal of such oil or substance by the United States Government in an amount not to exceed, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater, except that where the United States can show that such discharge was the result of willful negligence or willful misconduct within the privity and knowledge of the owner, such owner or operator shall be liable to the United States Government for the full amount of such costs. Such costs shall constitute a maritime lien on such vessel which may be recovered in an action in rem in the district court of the United States for any district within which any vessel may be found. The United States may also bring an action against the owner or operator of such vessel in any court of competent jurisdiction to recover such costs.
+(1) Except where an owner or operator can prove that a discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of a third party without regard to whether any such act or omission was or was not negligent, or any combination of the foregoing clauses, such owner or operator of any vessel from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section shall, notwithstanding any other provision of law, be liable to the United States Government for the actual costs incurred under subsection (c) for the removal of such oil or substance by the United States Government in an amount not to exceed, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater, except that where the United States can show that such discharge was the result of willful negligence or willful misconduct within the privity and knowledge of the owner, such owner or operator shall be liable to the United States Government for the full amount of such costs. Such costs shall constitute a maritime lien on such vessel which may be recovered in an action in rem in the district court of the United States for any district within which any vessel may be found. The United States may also bring an action against the owner or operator of such vessel in any court of competent jurisdiction to recover such costs.
 
-(2) Except where an owner or operator of an onshore facility can prove that a discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of a third party without regard to whether any such act or omission was or was not negligent, or any combination of the foregoing clauses, such owner or operator of any such facility from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section shall be liable to the United States Government for the actual costs incurred under subsection (c) of this section for the removal of such oil or substance by the United States Government in an amount not to exceed $50,000,000, except that where the United States can show that such discharge was the result of willful negligence or willful misconduct within the privity and knowledge of the owner, such owner or operator shall be liable to the United States Government for the full amount of such costs. The United States may bring an action against the owner or operator of such facility in any court of competent jurisdiction to recover such costs. The Administrator is authorized, by regulation, after consultation with the Secretary of Commerce and the Small Business Administration, to establish reasonable and equitable classifications of those onshore facilities having a total fixed storage capacity of 1,000 barrels or less which he determines because of size, type, and location do not present a substantial risk of the discharge of oil or a hazardous substance in violation of subsection (b)(3) of this section, and apply with respect to such classifications differing limits of liability which may be less than the amount contained in this paragraph.
+(2) Except where an owner or operator of an onshore facility can prove that a discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of a third party without regard to whether any such act or omission was or was not negligent, or any combination of the foregoing clauses, such owner or operator of any such facility from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section shall be liable to the United States Government for the actual costs incurred under subsection (c) for the removal of such oil or substance by the United States Government in an amount not to exceed $50,000,000, except that where the United States can show that such discharge was the result of willful negligence or willful misconduct within the privity and knowledge of the owner, such owner or operator shall be liable to the United States Government for the full amount of such costs. The United States may bring an action against the owner or operator of such facility in any court of competent jurisdiction to recover such costs. The Administrator is authorized, by regulation, after consultation with the Secretary of Commerce and the Small Business Administration, to establish reasonable and equitable classifications of those onshore facilities having a total fixed storage capacity of 1,000 barrels or less which he determines because of size, type, and location do not present a substantial risk of the discharge of oil or a hazardous substance in violation of subsection (b)(3) of this section, and apply with respect to such classifications differing limits of liability which may be less than the amount contained in this paragraph.
 
-(3) Except where an owner or operator of an offshore facility can prove that a discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of a third party without regard to whether any such act or omission was or was not negligent, or any combination of the foregoing clauses, such owner or operator of any such facility from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section shall, notwithstanding any other provision of law, be liable to the United States Government for the actual costs incurred under subsection (c) of this section for the removal of such oil or substance by the United States Government in an amount not to exceed $50,000,000, except that where the United States can show that such discharge was the result of willful negligence or willful misconduct within the privity and knowledge of the owner, such owner or operator shall be liable to the United States Government for the full amount of such costs. The United States may bring an action against the owner or operator of such a facility in any court of competent jurisdiction to recover such costs.
+(3) Except where an owner or operator of an offshore facility can prove that a discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of a third party without regard to whether any such act or omission was or was not negligent, or any combination of the foregoing clauses, such owner or operator of any such facility from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section shall, notwithstanding any other provision of law, be liable to the United States Government for the actual costs incurred under subsection (c) for the removal of such oil or substance by the United States Government in an amount not to exceed $50,000,000, except that where the United States can show that such discharge was the result of willful negligence or willful misconduct within the privity and knowledge of the owner, such owner or operator shall be liable to the United States Government for the full amount of such costs. The United States may bring an action against the owner or operator of such a facility in any court of competent jurisdiction to recover such costs.
 
 (4) The costs of removal of oil or a hazardous substance for which the owner or operator of a vessel or onshore or offshore facility is liable under subsection (f) of this section shall include any costs or expenses incurred by the Federal Government or any State government in the restoration or replacement of natural resources damaged or destroyed as a result of a discharge of oil or a hazardous substance in violation of subsection (b) of this section.
 
 (5) The President, or the authorized representative of any State, shall act on behalf of the public as trustee of the natural resources to recover for the costs of replacing or restoring such resources. Sums recovered shall be used to restore, rehabilitate, or acquire the equivalent of such natural resources by the appropriate agencies of the Federal Government, or the State government.
 
-**(g) Third party liability** Where the owner or operator of a vessel (other than an inland oil barge) carrying oil or hazardous substances as cargo or an onshore or offshore facility which handles or stores oil or hazardous substances in bulk, from which oil or a hazardous substance is discharged in violation of subsection (b) of this section, alleges that such discharge was caused solely by an act or omission of a third party, such owner or operator shall pay to the United States Government the actual costs incurred under subsection (c) of this section for removal of such oil or substance and shall be entitled by subrogation to all rights of the United States Government to recover such costs from such third party under this subsection. In any case where an owner or operator of a vessel, of an onshore facility, or of an offshore facility, from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section, proves that such discharge of oil or hazardous substance was caused solely by an act or omission of a third party, or was caused solely by such an act or omission in combination with an act of God, an act of war, or negligence on the part of the United States Government, such third party shall, notwithstanding any other provision of law, be liable to the United States Government for the actual costs incurred under subsection (c) of this section for removal of such oil or substance by the United States Government, except where such third party can prove that such discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of another party without regard to whether such act or omission was or was not negligent, or any combination of the foregoing clauses. If such third party was the owner or operator of a vessel which caused the discharge of oil or a hazardous substance in violation of subsection (b)(3) of this section, the liability of such third party under this subsection shall not exceed, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater. In any other case the liability of such third party shall not exceed the limitation which would have been applicable to the owner or operator of the vessel or the onshore or offshore facility from which the discharge actually occurred if such owner or operator were liable. If the United States can show that the discharge of oil or a hazardous substance in violation of subsection (b)(3) of this section was the result of willful negligence or willful misconduct within the privity and knowledge of such third party, such third party shall be liable to the United States Government for the full amount of such removal costs. The United States may bring an action against the third party in any court of competent jurisdiction to recover such removal costs.
+**(g) Third party liability** Where the owner or operator of a vessel (other than an inland oil barge) carrying oil or hazardous substances as cargo or an onshore or offshore facility which handles or stores oil or hazardous substances in bulk, from which oil or a hazardous substance is discharged in violation of subsection (b) of this section, alleges that such discharge was caused solely by an act or omission of a third party, such owner or operator shall pay to the United States Government the actual costs incurred under subsection (c) for removal of such oil or substance and shall be entitled by subrogation to all rights of the United States Government to recover such costs from such third party under this subsection. In any case where an owner or operator of a vessel, of an onshore facility, or of an offshore facility, from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section, proves that such discharge of oil or hazardous substance was caused solely by an act or omission of a third party, or was caused solely by such an act or omission in combination with an act of God, an act of war, or negligence on the part of the United States Government, such third party shall, notwithstanding any other provision of law, be liable to the United States Government for the actual costs incurred under subsection (c) for removal of such oil or substance by the United States Government, except where such third party can prove that such discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of another party without regard to whether such act or omission was or was not negligent, or any combination of the foregoing clauses. If such third party was the owner or operator of a vessel which caused the discharge of oil or a hazardous substance in violation of subsection (b)(3) of this section, the liability of such third party under this subsection shall not exceed, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater. In any other case the liability of such third party shall not exceed the limitation which would have been applicable to the owner or operator of the vessel or the onshore or offshore facility from which the discharge actually occurred if such owner or operator were liable. If the United States can show that the discharge of oil or a hazardous substance in violation of subsection (b)(3) of this section was the result of willful negligence or willful misconduct within the privity and knowledge of such third party, such third party shall be liable to the United States Government for the full amount of such removal costs. The United States may bring an action against the third party in any court of competent jurisdiction to recover such removal costs.
 
 **(h) Rights against third parties who caused or contributed to discharge** The liabilities established by this section shall in no way affect any rights which (1) the owner or operator of a vessel or of an onshore facility or an offshore facility may have against any third party whose acts may in any way have caused or contributed to such discharge, or (2) The 33 So in original. Probably should not be capitalized. United States Government may have against any third party whose actions may in any way have caused or contributed to the discharge of oil or hazardous substance.
 
@@ -4744,7 +5023,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
   (D) *Public access* — Any records, reports, or information obtained under this paragraph shall be subject to the same public access and disclosure requirements which are applicable to records, reports, and information obtained pursuant to [section 1318 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1318).
 
-**(n) Jurisdiction** The several district courts of the United States are invested with jurisdiction for any actions, other than actions pursuant to subsection (i)(1) of this section, arising under this section. In the case of Guam and the Trust Territory of the Pacific Islands, such actions may be brought in the district court of Guam, and in the case of the Virgin Islands such actions may be brought in the district court of the Virgin Islands. In the case of American Samoa and the Trust Territory of the Pacific Islands, such actions may be brought in the District Court of the United States for the District of Hawaii and such court shall have jurisdiction of such actions. In the case of the Canal Zone, such actions may be brought in the United States District Court for the District of the Canal Zone.
+**(n) Jurisdiction** The several district courts of the United States are invested with jurisdiction for any actions, other than actions pursuant to subsection (i)(l),2 arising under this section. In the case of Guam and the Trust Territory of the Pacific Islands, such actions may be brought in the district court of Guam, and in the case of the Virgin Islands such actions may be brought in the district court of the Virgin Islands. In the case of American Samoa and the Trust Territory of the Pacific Islands, such actions may be brought in the District Court of the United States for the District of Hawaii and such court shall have jurisdiction of such actions. In the case of the Canal Zone, such actions may be brought in the United States District Court for the District of the Canal Zone.
 
 **(o) Obligation for damages unaffected; local authority not preempted; existing Federal authority not modified or affected**
 
@@ -4760,7 +5039,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 **(r) Liability limitations not to limit liability under other legislation** Nothing in this section shall be construed to impose, or authorize the imposition of, any limitation on liability under the Outer Continental Shelf Lands Act [[43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) et seq.] or the Deepwater Port Act of 1974 [[33 U.S.C. 1501](./chapter-029-deepwater-ports.md#section-1501) et seq.].
 
-**(s) Oil Spill Liability Trust Fund** The Oil Spill Liability Trust Fund established under [section 9509 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9509&num=0&edition=prelim) shall be available to carry out subsections (b), (c), (d), (j), and (l) of this section as those subsections apply to discharges, and substantial threats of discharges, of oil. Any amounts received by the United States under this section shall be deposited in the Oil Spill Liability Trust Fund except as provided in subsection (t).
+**(s) Oil Spill Liability Trust Fund** The Oil Spill Liability Trust Fund established under [section 9509 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9509&num=0&edition=prelim) shall be available to carry out subsections (b), (c), (d), (j), and (l) as those subsections apply to discharges, and substantial threats of discharges, of oil. Any amounts received by the United States under this section shall be deposited in the Oil Spill Liability Trust Fund except as provided in subsection (t).
 
 **(t) Gulf Coast restoration and recovery**
 
@@ -5211,6 +5490,8 @@ Subsection (c)(2) of this section, referred to in subsec. (j)(1), was generally 
 
 Par. (3) of [section 1901(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901/a&num=0&edition=prelim), referred to in subsec. (j)(5)(B), was redesignated par. (4) by Pub. L. 110–280, § 3(1), July 21, 2008, 122 Stat. 2611.
 
+Subsection (i)(l), referred to in subsec. (n), probably should be “subsection (i)(1)”. The par. (1) designation was struck out from subsec. (i) by Pub. L. 101–380, title II, §2002(b)(1), Aug. 18, 1990, 104 Stat. 507.
+
 The Federal Advisory Committee Act, referred to in subsec. (t)(2)(C)(viii), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
@@ -5323,7 +5604,7 @@ Subsec. (b)(6) to (11). Pub. L. 101–380, § 4301(b), added pars. (6) to (11) a
 
 Subsec. (c). Pub. L. 101–380, § 4201(a), amended subsec. (c) generally, substituting present provisions for provisions authorizing President to arrange for removal of discharge of oil or a hazardous substance into or upon the navigable waters of the U.S., unless he determined such removal would be properly conducted by owner or operator of the vessel causing discharge, and directed President to prepare and publish a National Contingency Plan within 60 days after October 18, 1972.
 
-Subsec. (d). Pub. L. 101–380, § 4201(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Whenever a marine disaster in or upon the navigable waters of the United States has created a substantial threat of a pollution hazard to the public health or welfare of the United States, including, but not limited to, fish, shellfish, and wildlife and the public and private shorelines and beaches of the United States, because of a discharge, or an imminent discharge, of large quantities of oil, or of a hazardous substance from a vessel the United States may (A) coordinate and direct all public and private efforts directed at the removal or elimination of such threat; and (B) summarily remove, and, if necessary, destroy such vessel by whatever means are available without regard to any provisions of law governing the employment of personnel or the expenditure of appropriated funds. Any expense incurred under this subsection or under the Intervention on the High Seas Act (or the convention defined in section 2(3) thereof) shall be a cost incurred by the United States Government for the purposes of subsection (f) of this section in the removal of oil or hazardous substance.”
+Subsec. (d). Pub. L. 101–380, § 4201(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Whenever a marine disaster in or upon the navigable waters of the United States has created a substantial threat of a pollution hazard to the public health or welfare of the United States, including, but not limited to, fish, shellfish, and wildlife and the public and private shorelines and beaches of the United States, because of a discharge, or an imminent discharge, of large quantities of oil, or of a hazardous substance from a vessel the United States may (A) coordinate and direct all public and private efforts directed at the removal or elimination of such threat; and (B) summarily remove, and, if necessary, destroy such vessel by whatever means are available without regard to any provisions of law governing the employment of personnel or the expenditure of appropriated funds. Any expense incurred under this subsection or under the Intervention on the High Seas Act (or the convention defined in section 2(3) thereof) shall be a cost incurred by the United States Government for the purposes of subsection (f) in the removal of oil or hazardous substance.”
 
 Subsec. (e). Pub. L. 101–380, § 4306, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “In addition to any other action taken by a State or local government, when the President determines there is an imminent and substantial threat to the public health or welfare of the United States, including, but not limited to, fish, shellfish, and wildlife and public and private property, shorelines, and beaches within the United States, because of an actual or threatened discharge of oil or hazardous substance into or upon the navigable waters of the United States from an onshore or offshore facility, the President may require the United States attorney of the district in which the threat occurs to secure such relief as may be necessary to abate such threat, and the district courts of the United States shall have jurisdiction to grant such relief as the public interest and the equities of the case may require.”
 
@@ -5331,9 +5612,9 @@ Subsec. (i). Pub. L. 101–380, § 2002(b)(1), struck out par. (1) designation b
 
 “(2) The provisions of this subsection shall not apply in any case where liability is established pursuant to the Outer Continental Shelf Lands Act, or the Deepwater Port Act of 1974.
 
-“(3) Any amount paid in accordance with a judgment of the United States Claims Court pursuant to this section shall be paid from the funds established pursuant to subsection (k) of this section.”
+“(3) Any amount paid in accordance with a judgment of the United States Claims Court pursuant to this section shall be paid from the funds established pursuant to subsection (k).”
 
-Subsec. (j). Pub. L. 101–380, § 4202(a), amended heading, inserted heading for par. (1) and realigned its margin, added pars. (2) to (8), and struck out former par. (2) which read as follows: “Any owner or operator of a vessel or an onshore facility or an offshore facility and any other person subject to any regulation issued under paragraph (1) of this subsection who fails or refuses to comply with the provisions of any such regulations, shall be liable to a civil penalty of not more than $5,000 for each such violation. This paragraph shall not apply to any owner or operator of any vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(ii) of subsection (b) of this section unless such owner, operator, or person in charge is otherwise subject to the jurisdiction of the United States. Each violation shall be a separate offense. The President may assess and compromise such penalty. No penalty shall be assessed until the owner, operator, or other person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the owner, operator, or other person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by the President.”
+Subsec. (j). Pub. L. 101–380, § 4202(a), amended heading, inserted heading for par. (1) and realigned its margin, added pars. (2) to (8), and struck out former par. (2) which read as follows: “Any owner or operator of a vessel or an onshore facility or an offshore facility and any other person subject to any regulation issued under paragraph (1) of this subsection who fails or refuses to comply with the provisions of any such regulations, shall be liable to a civil penalty of not more than $5,000 for each such violation. This paragraph shall not apply to any owner or operator of any vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(ii) of subsection (b) unless such owner, operator, or person in charge is otherwise subject to the jurisdiction of the United States. Each violation shall be a separate offense. The President may assess and compromise such penalty. No penalty shall be assessed until the owner, operator, or other person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the owner, operator, or other person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by the President.”
 
 Subsec. (k). Pub. L. 101–380, § 2002(b)(2), struck out subsec. (k) which authorized appropriations and supplemental appropriations to create and maintain a revolving fund to carry out subsecs. (c), (d), (i), and (l) of this section.
 
@@ -5792,7 +6073,7 @@ Section was enacted as part of the Coast Guard Authorization Act of 2010, and no
 
   (A) designed to receive, retain, treat, control, or discharge a discharge incidental to the normal operation of a vessel; and
 
-  (B) determined by the Administrator and the Secretary of Defense to be the most effective equipment or management practice to reduce the environmental impacts of the discharge consistent with the considerations set forth in subsection (n)(2)(B) of this section; and
+  (B) determined by the Administrator and the Secretary of Defense to be the most effective equipment or management practice to reduce the environmental impacts of the discharge consistent with the considerations set forth in subsection (n)(2)(B); and
 
 (14) “vessel of the Armed Forces” means—
 
@@ -5858,7 +6139,7 @@ Section was enacted as part of the Coast Guard Authorization Act of 2010, and no
 
 **(i) Jurisdiction to restrain violations; contempts** The district courts of the United States shall have jurisdictions to restrain violations of subsection (g)(1) of this section and subsections (h)(1) through (3) of this section. Actions to restrain such violations shall be brought by, and in, the name of the United States. In case of contumacy or refusal to obey a subpena served upon any person under this subsection, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony or to appear and produce documents, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
-**(j) Penalties** Any person who violates subsection (g)(1) of this section, clause (1) or (2) of subsection (h) of this section, or subsection (n)(8) of this section shall be liable to a civil penalty of not more than $5,000 for each violation. Any person who violates clause (4) of subsection (h) of this section or any regulation issued pursuant to this section shall be liable to a civil penalty of not more than $2,000 for each violation. Each violation shall be a separate offense. The Secretary of the department in which the Coast Guard is operating may assess and compromise any such penalty. No penalty shall be assessed until the person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by said Secretary.
+**(j) Penalties** Any person who violates subsection (g)(1), clause (1) or (2) of subsection (h), or subsection (n)(8) shall be liable to a civil penalty of not more than $5,000 for each violation. Any person who violates clause (4) of subsection (h) of this section or any regulation issued pursuant to this section shall be liable to a civil penalty of not more than $2,000 for each violation. Each violation shall be a separate offense. The Secretary of the department in which the Coast Guard is operating may assess and compromise any such penalty. No penalty shall be assessed until the person charged shall have been given notice and an opportunity for a hearing on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the gravity of the violation, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance, after notification of a violation, shall be considered by said Secretary.
 
 **(k) Enforcement authority** The provisions of this section shall be enforced by the Secretary of the department in which the Coast Guard is operating and he may utilize by agreement, with or without reimbursement, law enforcement officers or other personnel and facilities of the Administrator, other Federal agencies, or the States to carry out the provisions of this section. The provisions of this section may also be enforced by a State.
 
@@ -5980,7 +6261,7 @@ Section was enacted as part of the Coast Guard Authorization Act of 2010, and no
 
   (B) discharge overboard any discharge incidental to the normal operation of a vessel in waters with respect to which a prohibition on the discharge has been established under paragraph (7).
 
-(9) **Enforcement** — This subsection shall be enforceable, as provided in subsections (j) and (k) of this section, against any agency of the United States responsible for vessels of the Armed Forces notwithstanding any immunity asserted by the agency.
+(9) **Enforcement** — This subsection shall be enforceable, as provided in subsections (j) and (k), against any agency of the United States responsible for vessels of the Armed Forces notwithstanding any immunity asserted by the agency.
 
 **(o) Management practices for recreational vessels**
 
@@ -6078,7 +6359,7 @@ For definition of Canal Zone, referred to in subsecs. (a)(4) and (m), see [secti
 
 Subsec. (a)(12) to (14). Pub. L. 104–106, § 325(c)(1)(B), (C), added pars. (12) to (14).
 
-Subsec. (j). Pub. L. 104–106, § 325(c)(2), substituted “subsection (g)(1) of this section, clause (1) or (2) of subsection (h) of this section, or subsection (n)(8) of this section shall be liable” for “subsection (g)(1) of this section or clause (1) or (2) of subsection (h) of this section shall be liable”.
+Subsec. (j). Pub. L. 104–106, § 325(c)(2), substituted “subsection (g)(1), clause (1) or (2) of subsection (h), or subsection (n)(8) shall be liable” for “subsection (g)(1) of this section or clause (1) or (2) of subsection (h) of this section shall be liable”.
 
 Subsec. (n). Pub. L. 104–106, § 325(b), added subsec. (n).
 
@@ -6115,7 +6396,7 @@ Pub. L. 104–106, div. A, title III, § 325(a), Feb. 10, 1996, 110 Stat. 254, p
 Pub. L. 104–106, div. A, title III, § 325(d), Feb. 10, 1996, 110 Stat. 259, provided that: “The Administrator of the Environmental Protection Agency and the Secretary of Defense may, by mutual agreement, with or without reimbursement, provide for the use of information, reports, personnel, or other resources of the Environmental Protection Agency or the Department of Defense to carry out section 312(n) of the Federal Water Pollution Control Act [[33 U.S.C. 1322(n)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1322/n&num=0&edition=prelim)] (as added by subsection (b)), including the use of the resources— “(1) to determine—“(A) the nature and environmental effect of discharges incidental to the normal operation of a vessel of the Armed Forces; “(B) the practicability of using marine pollution control devices on vessels of the Armed Forces; and “(C) the effect that installation or use of marine pollution control devices on vessels of the Armed Forces would have on the operation or operational capability of the vessels; and “(2) to establish performance standards for marine pollution control devices on vessels of the Armed Forces.”
 
 #### Clean Vessels
-Pub. L. 102–587, title V, subtitle F, Nov. 4, 1992, 106 Stat. 5086, as amended by Pub. L. 109–59, title X, § 10131, Aug. 10, 2005, 119 Stat. 1931, provided that: “SEC. 5601. SHORT TITLE.“This subtitle may be cited as the ‘Clean Vessel Act of 1992’. “SEC. 5602. FINDINGS; PURPOSE.“(a) Findings.—The Congress finds the following:“(1) The discharge of untreated sewage by vessels is prohibited under Federal law in all areas within the navigable waters of the United States. “(2) The discharge of treated sewage by vessels is prohibited under either Federal or State law in many of the United States bodies of water where recreational boaters operate. “(3) There is currently an inadequate number of pumpout stations for type III marine sanitation devices where recreational vessels normally operate. “(4) Sewage discharged by recreational vessels because of an inadequate number of pumpout stations is a substantial contributor to localized degradation of water quality in the United States. “(b) Purpose.—The purpose of this subtitle is to provide funds to States for the construction, renovation, operation, and maintenance of pumpout stations and waste reception facilities. “SEC. 5603. DETERMINATION AND PLAN REGARDING STATE MARINE SANITATION DEVICE PUMPOUT STATION NEEDS.“(a) Survey.—Within 3 months after the notification under section 5605(b), each coastal State shall conduct a survey to determine—“(1) the number and location of all operational pumpout stations and waste reception facilities at public and private marinas, mooring areas, docks, and other boating access facilities within the coastal zone of the State; and “(2) the number of recreational vessels in the coastal waters of the State with type III marine sanitation devices or portable toilets, and the areas of those coastal waters where those vessels congregate. “(b) Plan.—Within 6 months after the notification under section 5605(b), and based on the survey conducted under subsection (a), each coastal State shall—“(1) develop and submit to the Secretary of the Interior a plan for any construction or renovation of pumpout stations and waste reception facilities that are necessary to ensure that, based on the guidance issued under section 5605(a), there are pumpout stations and waste reception facilities in the State that are adequate and reasonably available to meet the needs of recreational vessels using the coastal waters of the State; and “(2) submit to the Secretary of the Interior with that plan a list of all stations and facilities in the coastal zone of the State which are operational on the date of submittal. “(c) Plan Approval.—“(1) In general.—Not later than 60 days after a plan is submitted by a State under subsection (b), the Secretary of the Interior shall approve or disapprove the plan, based on—“(A) the adequacy of the survey conducted by the State under subsection (a); and “(B) the ability of the plan, based on the guidance issued under section 5605(a), to meet the construction and renovation needs of the recreational vessels identified in the survey. “(2) Notification of state; modification.—The Secretary of the Interior shall promptly notify the affected Governor of the approval or disapproval of a plan. If a plan is disapproved, the Secretary of the Interior shall recommend necessary modifications and return the plan to the affected Governor. “(3) Resubmittal.—Not later than 60 days after receiving a plan returned by the Secretary of the Interior, the Governor shall make the appropriate changes and resubmit the plan. “(d) Indication of Stations and Facilities on NOAA Charts.—“(1) In general.—The Under Secretary of Commerce for Oceans and Atmosphere shall indicate, on charts published by the National Oceanic and Atmospheric Administration for the use of operators of recreational vessels, the locations of pumpout stations and waste reception facilities. “(2) Notification of NOAA.—“(A) Lists of stations and facilities.—The Secretary of the Interior shall transmit to the Under Secretary of Commerce for Oceans and Atmosphere each list of operational stations and facilities submitted by a State under subsection (b)(2), by not later than 30 days after the date of receipt of that list. “(B) Completion of project.—The Director of the United States Fish and Wildlife Service shall notify the Under Secretary of the location of each station or facility at which a construction or renovation project is completed by a State with amounts made available under the Act of August 9, 1950 ([16 U.S.C. 777a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777a&num=0&edition=prelim) et seq. [[16 U.S.C. 777](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777&num=0&edition=prelim) et seq.]), as amended by this subtitle, by not later than 30 days after the date of notification by a State of the completion of the project. “SEC. 5604. FUNDING.“(a) Transfer.—[Amended [section 777c of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777c&num=0&edition=prelim), Conservation.] “(b) Access Increase.—[Amended [section 777g of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777g&num=0&edition=prelim), Conservation.] “(c) Grant Program.—“(1) Matching grants.—The Secretary of the Interior may obligate an amount not to exceed the amount made available under section 4(b)(2) of the Act of August 9, 1950 ([16 U.S.C. 777c(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777c/b/2&num=0&edition=prelim), as amended by this Act), to make grants to—“(A) coastal States to pay not more than 75 percent of the cost to a coastal State of—“(i) conducting a survey under section 5603(a); “(ii) developing and submitting a plan and accompanying list under section 5603(b); “(iii) constructing and renovating pumpout stations and waste reception facilities; and “(iv) conducting a program to educate recreational boaters about the problem of human body waste discharges from vessels and inform them of the location of pumpout stations and waste reception facilities. “(B) inland States, which can demonstrate to the Secretary of the Interior that there are an inadequate number of pumpout stations and waste reception facilities to meet the needs of recreational vessels in the waters of that State, to pay 75 percent of the cost to that State of—“(i) constructing and renovating pumpout stations and waste reception facilities in the inland State; and “(ii) conducting a program to educate recreational boaters about the problem of human body waste discharges from vessels and inform them of the location of pumpout stations and waste reception facilities. “(2) Priority.—In awarding grants under this subsection, the Secretary of the Interior shall give priority consideration to grant applications that—“(A) provide for public/private partnership efforts to develop and operate pumpout stations and waste reception facilities; and “(B) propose innovative ways to increase the availability and use of pumpout stations and waste reception facilities. “(d) Disclaimer.—Nothing in this subtitle shall be interpreted to preclude a State from carrying out the provisions of this subtitle with funds other than those described in this section. “SEC. 5605. GUIDANCE AND NOTIFICATION.“(a) Issuance of Guidance.—Not later than 3 months after the date of the enactment of this subtitle [Nov. 4, 1992], the Secretary of the Interior shall, after consulting with the Administrator of the Environmental Protection Agency, the Under Secretary of Commerce for Oceans and Atmosphere, and the Commandant of the Coast Guard, issue for public comment pumpout station and waste reception facility guidance. The Secretary of the Interior shall finalize the guidance not later than 6 months after the date of enactment of this subtitle. The guidance shall include—“(1) guidance regarding the types of pumpout stations and waste reception facilities that may be appropriate for construction, renovation, operation, or maintenance with amounts available under the Act of August 9, 1950 ([16 U.S.C. 777a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777a&num=0&edition=prelim) et seq. [[16 U.S.C. 777](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777&num=0&edition=prelim) et seq.]), as amended by this subtitle, and appropriate location of the stations and facilities within a marina or boatyard; “(2) guidance defining what constitutes adequate and reasonably available pumpout stations and waste reception facilities in boating areas; “(3) guidance on appropriate methods for disposal of vessel sewage from pumpout stations and waste reception facilities; “(4) guidance on appropriate connector fittings to facilitate the sanitary and expeditious discharge of sewage from vessels; “(5) guidance on the waters most likely to be affected by the discharge of sewage from vessels; and “(6) other information that is considered necessary to promote the establishment of pumpout facilities to reduce sewage discharges from vessels and to protect United States waters. “(b) Notification.—Not later than one month after the guidance issued under subsection (a) is finalized, the Secretary of the Interior shall provide notification in writing to the fish and wildlife, water pollution control, and coastal zone management authorities of each State, of—“(1) the availability of amounts under the Act of August 9, 1950 ([16 U.S.C. 777a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777a&num=0&edition=prelim) et seq. [[16 U.S.C. 777](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777&num=0&edition=prelim) et seq.]) to implement the Clean Vessel Act of 1992; and “(2) the guidance developed under subsection (a). “SEC. 5606. EFFECT ON STATE FUNDING ELIGIBILITY.“This subtitle shall not be construed or applied to jeopardize any funds available to a coastal State under the Act of August 9, 1950 ([16 U.S.C. 777a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777a&num=0&edition=prelim) et seq. [[16 U.S.C. 777](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777&num=0&edition=prelim) et seq.]), if the coastal State is, in good faith, pursuing a survey and plan designed to meet the purposes of this subtitle. “SEC. 5607. APPLICABILITY.“The requirements of section 5603 shall not apply to a coastal State if within six months after the date of enactment of this subtitle [Nov. 4, 1992] the Secretary of the Interior certifies that—“(1) the State has developed and is implementing a plan that will ensure that there will be pumpout stations and waste reception facilities adequate to meet the needs of recreational vessels in the coastal waters of the State; or “(2) existing pumpout stations and waste reception facilities in the coastal waters of the State are adequate to meet those needs. “SEC. 5608. DEFINITIONS.“For the purposes of this subtitle the term:“(1) ‘coastal State’—“(A) means a State of the United States in, or bordering on the Atlantic, Pacific, or Arctic Ocean; the Gulf of Mexico; Long Island Sound; or one or more of the Great Lakes; “(B) includes Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa; and “(C) does not include a State for which the ratio of the number of recreational vessels in the State numbered under chapter 123 of title 46, United States Code, to number of miles of shoreline (as that term is defined in section 926.2(d) of title 15, Code of Federal Regulations, as in effect on January 1, 1991), is less than one. “(2) ‘coastal waters’ means—“(A) in the Great Lakes area, the waters within the territorial jurisdiction of the United States consisting of the Great Lakes, their connecting waters, harbors, roadsteads, and estuary-type areas such as bays, shallows, and marshes; and “(B) in other areas, those waters, adjacent to the shorelines, which contain a measurable percentage of sea water, including sounds, bay, lagoons, bayous, ponds, and estuaries. “(3) ‘coastal zone’ has the same meaning that term has in section 304(1) of the Coastal Zone Management Act of 1972 ([16 U.S.C. 1453(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1453/1&num=0&edition=prelim)); “(4) ‘inland State’ means a State which is not a coastal state; “(5) ‘type III marine sanitation device’ means any equipment for installation on board a vessel which is specifically designed to receive, retain, and discharge human body wastes; “(6) ‘pumpout station’ means a facility that pumps or receives human body wastes out of type III marine sanitation devices installed on board vessels; “(7) ‘recreational vessel’ means a vessel—“(A) manufactured for operation, or operated, primarily for pleasure; or “(B) leased, rented, or chartered to another for the latter’s pleasure; and “(8) ‘waste reception facility’ means a facility specifically designed to receive wastes from portable toilets carried on vessels, and does not include lavatories.”
+Pub. L. 102–587, title V, subtitle F, Nov. 4, 1992, 106 Stat. 5086, as amended by Pub. L. 109–59, title X, § 10131, Aug. 10, 2005, 119 Stat. 1931, provided that: “SEC. 5601. SHORT TITLE.“This subtitle may be cited as the ‘Clean Vessel Act of 1992’. “SEC. 5602. FINDINGS; PURPOSE.“(a) Findings.—The Congress finds the following:“(1) The discharge of untreated sewage by vessels is prohibited under Federal law in all areas within the navigable waters of the United States. “(2) The discharge of treated sewage by vessels is prohibited under either Federal or State law in many of the United States bodies of water where recreational boaters operate. “(3) There is currently an inadequate number of pumpout stations for type III marine sanitation devices where recreational vessels normally operate. “(4) Sewage discharged by recreational vessels because of an inadequate number of pumpout stations is a substantial contributor to localized degradation of water quality in the United States. “(b) Purpose.—The purpose of this subtitle is to provide funds to States for the construction, renovation, operation, and maintenance of pumpout stations and waste reception facilities. “SEC. 5603. DETERMINATION AND PLAN REGARDING STATE MARINE SANITATION DEVICE PUMPOUT STATION NEEDS.“(a) Survey.—Within 3 months after the notification under section 5605(b), each coastal State shall conduct a survey to determine—“(1) the number and location of all operational pumpout stations and waste reception facilities at public and private marinas, mooring areas, docks, and other boating access facilities within the coastal zone of the State; and “(2) the number of recreational vessels in the coastal waters of the State with type III marine sanitation devices or portable toilets, and the areas of those coastal waters where those vessels congregate. “(b) Plan.—Within 6 months after the notification under section 5605(b), and based on the survey conducted under subsection (a), each coastal State shall—“(1) develop and submit to the Secretary of the Interior a plan for any construction or renovation of pumpout stations and waste reception facilities that are necessary to ensure that, based on the guidance issued under section 5605(a), there are pumpout stations and waste reception facilities in the State that are adequate and reasonably available to meet the needs of recreational vessels using the coastal waters of the State; and “(2) submit to the Secretary of the Interior with that plan a list of all stations and facilities in the coastal zone of the State which are operational on the date of submittal. “(c) Plan Approval.—“(1) In general.—Not later than 60 days after a plan is submitted by a State under subsection (b), the Secretary of the Interior shall approve or disapprove the plan, based on—“(A) the adequacy of the survey conducted by the State under subsection (a); and “(B) the ability of the plan, based on the guidance issued under section 5605(a), to meet the construction and renovation needs of the recreational vessels identified in the survey. “(2) Notification of state; modification.—The Secretary of the Interior shall promptly notify the affected Governor of the approval or disapproval of a plan. If a plan is disapproved, the Secretary of the Interior shall recommend necessary modifications and return the plan to the affected Governor. “(3) Resubmittal.—Not later than 60 days after receiving a plan returned by the Secretary of the Interior, the Governor shall make the appropriate changes and resubmit the plan. “(d) Indication of Stations and Facilities on NOAA Charts.—“(1) In general.—The Under Secretary of Commerce for Oceans and Atmosphere shall indicate, on charts published by the National Oceanic and Atmospheric Administration for the use of operators of recreational vessels, the locations of pumpout stations and waste reception facilities. “(2) Notification of NOAA.—“(A) Lists of stations and facilities.—The Secretary of the Interior shall transmit to the Under Secretary of Commerce for Oceans and Atmosphere each list of operational stations and facilities submitted by a State under subsection (b)(2), by not later than 30 days after the date of receipt of that list. “(B) Completion of project.—The Director of the United States Fish and Wildlife Service shall notify the Under Secretary of the location of each station or facility at which a construction or renovation project is completed by a State with amounts made available under the Act of August 9, 1950 ([16 U.S.C. 777a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777a&num=0&edition=prelim) et seq. [[16 U.S.C. 777](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777&num=0&edition=prelim) et seq.]), as amended by this subtitle, by not later than 30 days after the date of notification by a State of the completion of the project. “SEC. 5604. FUNDING.“(a) Transfer.—[Amended [section 777c of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777c&num=0&edition=prelim), Conservation.] “(b) Access Increase.—[Amended [section 777g of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777g&num=0&edition=prelim), Conservation.] “(c) Grant Program.—“(1) Matching grants.—The Secretary of the Interior may obligate an amount not to exceed the amount made available under section 4(b)(2) of the Act of August 9, 1950 ([16 U.S.C. 777c(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777c/b/2&num=0&edition=prelim) [now [16 U.S.C. 777c(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777c/b/3&num=0&edition=prelim)], as amended by this Act), to make grants to—“(A) coastal States to pay not more than 75 percent of the cost to a coastal State of—“(i) conducting a survey under section 5603(a); “(ii) developing and submitting a plan and accompanying list under section 5603(b); “(iii) constructing and renovating pumpout stations and waste reception facilities; and “(iv) conducting a program to educate recreational boaters about the problem of human body waste discharges from vessels and inform them of the location of pumpout stations and waste reception facilities. “(B) inland States, which can demonstrate to the Secretary of the Interior that there are an inadequate number of pumpout stations and waste reception facilities to meet the needs of recreational vessels in the waters of that State, to pay 75 percent of the cost to that State of—“(i) constructing and renovating pumpout stations and waste reception facilities in the inland State; and “(ii) conducting a program to educate recreational boaters about the problem of human body waste discharges from vessels and inform them of the location of pumpout stations and waste reception facilities. “(2) Priority.—In awarding grants under this subsection, the Secretary of the Interior shall give priority consideration to grant applications that—“(A) provide for public/private partnership efforts to develop and operate pumpout stations and waste reception facilities; and “(B) propose innovative ways to increase the availability and use of pumpout stations and waste reception facilities. “(d) Disclaimer.—Nothing in this subtitle shall be interpreted to preclude a State from carrying out the provisions of this subtitle with funds other than those described in this section. “SEC. 5605. GUIDANCE AND NOTIFICATION.“(a) Issuance of Guidance.—Not later than 3 months after the date of the enactment of this subtitle [Nov. 4, 1992], the Secretary of the Interior shall, after consulting with the Administrator of the Environmental Protection Agency, the Under Secretary of Commerce for Oceans and Atmosphere, and the Commandant of the Coast Guard, issue for public comment pumpout station and waste reception facility guidance. The Secretary of the Interior shall finalize the guidance not later than 6 months after the date of enactment of this subtitle. The guidance shall include—“(1) guidance regarding the types of pumpout stations and waste reception facilities that may be appropriate for construction, renovation, operation, or maintenance with amounts available under the Act of August 9, 1950 ([16 U.S.C. 777a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777a&num=0&edition=prelim) et seq. [[16 U.S.C. 777](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777&num=0&edition=prelim) et seq.]), as amended by this subtitle, and appropriate location of the stations and facilities within a marina or boatyard; “(2) guidance defining what constitutes adequate and reasonably available pumpout stations and waste reception facilities in boating areas; “(3) guidance on appropriate methods for disposal of vessel sewage from pumpout stations and waste reception facilities; “(4) guidance on appropriate connector fittings to facilitate the sanitary and expeditious discharge of sewage from vessels; “(5) guidance on the waters most likely to be affected by the discharge of sewage from vessels; and “(6) other information that is considered necessary to promote the establishment of pumpout facilities to reduce sewage discharges from vessels and to protect United States waters. “(b) Notification.—Not later than one month after the guidance issued under subsection (a) is finalized, the Secretary of the Interior shall provide notification in writing to the fish and wildlife, water pollution control, and coastal zone management authorities of each State, of—“(1) the availability of amounts under the Act of August 9, 1950 ([16 U.S.C. 777a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777a&num=0&edition=prelim) et seq. [[16 U.S.C. 777](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777&num=0&edition=prelim) et seq.]) to implement the Clean Vessel Act of 1992; and “(2) the guidance developed under subsection (a). “SEC. 5606. EFFECT ON STATE FUNDING ELIGIBILITY.“This subtitle shall not be construed or applied to jeopardize any funds available to a coastal State under the Act of August 9, 1950 ([16 U.S.C. 777a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777a&num=0&edition=prelim) et seq. [[16 U.S.C. 777](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777&num=0&edition=prelim) et seq.]), if the coastal State is, in good faith, pursuing a survey and plan designed to meet the purposes of this subtitle. “SEC. 5607. APPLICABILITY.“The requirements of section 5603 shall not apply to a coastal State if within six months after the date of enactment of this subtitle [Nov. 4, 1992] the Secretary of the Interior certifies that—“(1) the State has developed and is implementing a plan that will ensure that there will be pumpout stations and waste reception facilities adequate to meet the needs of recreational vessels in the coastal waters of the State; or “(2) existing pumpout stations and waste reception facilities in the coastal waters of the State are adequate to meet those needs. “SEC. 5608. DEFINITIONS.“For the purposes of this subtitle the term:“(1) ‘coastal State’—“(A) means a State of the United States in, or bordering on the Atlantic, Pacific, or Arctic Ocean; the Gulf of Mexico; Long Island Sound; or one or more of the Great Lakes; “(B) includes Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa; and “(C) does not include a State for which the ratio of the number of recreational vessels in the State numbered under chapter 123 of title 46, United States Code, to number of miles of shoreline (as that term is defined in section 926.2(d) of title 15, Code of Federal Regulations, as in effect on January 1, 1991), is less than one. “(2) ‘coastal waters’ means—“(A) in the Great Lakes area, the waters within the territorial jurisdiction of the United States consisting of the Great Lakes, their connecting waters, harbors, roadsteads, and estuary-type areas such as bays, shallows, and marshes; and “(B) in other areas, those waters, adjacent to the shorelines, which contain a measurable percentage of sea water, including sounds, bay, lagoons, bayous, ponds, and estuaries. “(3) ‘coastal zone’ has the same meaning that term has in section 304(1) of the Coastal Zone Management Act of 1972 ([16 U.S.C. 1453(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1453/1&num=0&edition=prelim)); “(4) ‘inland State’ means a State which is not a coastal state; “(5) ‘type III marine sanitation device’ means any equipment for installation on board a vessel which is specifically designed to receive, retain, and discharge human body wastes; “(6) ‘pumpout station’ means a facility that pumps or receives human body wastes out of type III marine sanitation devices installed on board vessels; “(7) ‘recreational vessel’ means a vessel—“(A) manufactured for operation, or operated, primarily for pleasure; or “(B) leased, rented, or chartered to another for the latter’s pleasure; and “(8) ‘waste reception facility’ means a facility specifically designed to receive wastes from portable toilets carried on vessels, and does not include lavatories.”
 
 #### Contiguous Zone of United States
 For extension of contiguous zone of United States, see Proc. No. 7219, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
@@ -6230,7 +6511,7 @@ Ex. Ord. No. 11288, July 2, 1966, 31 F.R. 9261, which provided for prevention, c
 
   (B) *Special authorizations*
 
-    (i) *Amount* — There is authorized to be appropriated to carry out subsection (b) of this section with respect to subsection (a)(1)(D) of this section not to exceed $25,000,000 for fiscal years beginning after September 30, 1986, to remain available until expended.
+    (i) *Amount* — There is authorized to be appropriated to carry out subsection (b) with respect to subsection (a)(1)(D) not to exceed $25,000,000 for fiscal years beginning after September 30, 1986, to remain available until expended.
 
     (ii) *Distribution of funds* — The Administrator shall provide for an equitable distribution of sums appropriated pursuant to this subparagraph among States carrying out approved methods and procedures. Such distribution shall be based on the relative needs of each such State for the mitigation of the harmful effects on lakes and other surface waters of high acidity that may reasonably be due to acid deposition or acid mine drainage.
 
@@ -6380,7 +6661,7 @@ Subsec. (c). Pub. L. 95–217 added subsec. (c).
 
   (C) describes the process, including intergovernmental coordination and public participation, for identifying best management practices and measures to control each category and subcategory of nonpoint sources and, where appropriate, particular nonpoint sources identified under subparagraph (B) and to reduce, to the maximum extent practicable, the level of pollution resulting from such category, subcategory, or source; and
 
-  (D) identifies and describes State and local programs for controlling pollution added from nonpoint sources to, and improving the quality of, each such portion of the navigable waters, including but not limited to those programs which are receiving Federal assistance under subsections (h) and (i) of this section.
+  (D) identifies and describes State and local programs for controlling pollution added from nonpoint sources to, and improving the quality of, each such portion of the navigable waters, including but not limited to those programs which are receiving Federal assistance under subsections (h) and (i).
 
 (2) **Information used in preparation** — In developing the report required by this section, the State (A) may rely upon information developed pursuant to sections 1288, 1313(e), 1314(f), 1315(b), and 1324 of this title, and other information as appropriate, and (B) may utilize appropriate elements of the waste treatment management plans developed pursuant to sections 1288(b) and 1313 of this title, to the extent such elements are consistent with and fulfill the requirements of this section.
 
@@ -6398,7 +6679,7 @@ Subsec. (c). Pub. L. 95–217 added subsec. (c).
 
   (D) A certification of the attorney general of the State or States (or the chief attorney of any State water pollution control agency which has independent legal counsel) that the laws of the State or States, as the case may be, provide adequate authority to implement such management program or, if there is not such adequate authority, a list of such additional authorities as will be necessary to implement such management program. A schedule and commitment by the State or States to seek such additional authorities as expeditiously as practicable.
 
-  (E) Sources of Federal and other assistance and funding (other than assistance provided under subsections (h) and (i) of this section) which will be available in each of such fiscal years for supporting implementation of such practices and measures and the purposes for which such assistance will be used in each of such fiscal years.
+  (E) Sources of Federal and other assistance and funding (other than assistance provided under subsections (h) and (i)) which will be available in each of such fiscal years for supporting implementation of such practices and measures and the purposes for which such assistance will be used in each of such fiscal years.
 
   (F) An identification of Federal financial assistance programs and Federal development projects for which the State will review individual assistance applications or development projects for their effect on water quality pursuant to the procedures set forth in Executive Order 12372 as in effect on September 17, 1983, to determine whether such assistance applications or development projects would be consistent with the program prepared under this subsection; for the purposes of this subparagraph, identification shall not be limited to the assistance programs or development projects subject to Executive Order 12372 but may include any programs listed in the most recent Catalog of Federal Domestic Assistance which may have an effect on the purposes and objectives of the State’s nonpoint source pollution management program.
 
@@ -6408,13 +6689,13 @@ Subsec. (c). Pub. L. 95–217 added subsec. (c).
 
 **(c) Administrative provisions**
 
-(1) **Cooperation requirement** — Any report required by subsection (a) of this section and any management program and report required by subsection (b) of this section shall be developed in cooperation with local, substate regional, and interstate entities which are actively planning for the implementation of nonpoint source pollution controls and have either been certified by the Administrator in accordance with [section 1288 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1288), have worked jointly with the State on water quality management planning under [section 1285(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1285/j&num=0&edition=prelim), or have been designated by the State legislative body or Governor as water quality management planning agencies for their geographic areas.
+(1) **Cooperation requirement** — Any report required by subsection (a) and any management program and report required by subsection (b) shall be developed in cooperation with local, substate regional, and interstate entities which are actively planning for the implementation of nonpoint source pollution controls and have either been certified by the Administrator in accordance with [section 1288 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1288), have worked jointly with the State on water quality management planning under [section 1285(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1285/j&num=0&edition=prelim), or have been designated by the State legislative body or Governor as water quality management planning agencies for their geographic areas.
 
 (2) **Time period for submission of reports and management programs** — Each report and management program shall be submitted to the Administrator during the 18-month period beginning on February 4, 1987.
 
 **(d) Approval or disapproval of reports and management programs**
 
-(1) **Deadline** — Subject to paragraph (2), not later than 180 days after the date of submission to the Administrator of any report or management program under this section (other than subsections (h), (i), and (k) of this section), the Administrator shall either approve or disapprove such report or management program, as the case may be. The Administrator may approve a portion of a management program under this subsection. If the Administrator does not disapprove a report, management program, or portion of a management program in such 180-day period, such report, management program, or portion shall be deemed approved for purposes of this section.
+(1) **Deadline** — Subject to paragraph (2), not later than 180 days after the date of submission to the Administrator of any report or management program under this section (other than subsections (h), (i), and (k)), the Administrator shall either approve or disapprove such report or management program, as the case may be. The Administrator may approve a portion of a management program under this subsection. If the Administrator does not disapprove a report, management program, or portion of a management program in such 180-day period, such report, management program, or portion shall be deemed approved for purposes of this section.
 
 (2) **Procedure for disapproval** — If, after notice and opportunity for public comment and consultation with appropriate Federal and State agencies and other interested persons, the Administrator determines that—
 
@@ -6427,11 +6708,11 @@ Subsec. (c). Pub. L. 95–217 added subsec. (c).
   (D) the practices and measures proposed in such program or portion are not adequate to reduce the level of pollution in navigable waters in the State resulting from nonpoint sources and to improve the quality of navigable waters in the State;
   the Administrator shall within 6 months of the receipt of the proposed program notify the State of any revisions or modifications necessary to obtain approval. The State shall thereupon have an additional 3 months to submit its revised management program and the Administrator shall approve or disapprove such revised program within three months of receipt.
 
-(3) **Failure of State to submit report** — If a Governor of a State does not submit the report required by subsection (a) of this section within the period specified by subsection (c)(2) of this section, the Administrator shall, within 30 months after February 4, 1987, prepare a report for such State which makes the identifications required by paragraphs (1)(A) and (1)(B) of subsection (a) of this section. Upon completion of the requirement of the preceding sentence and after notice and opportunity for comment, the Administrator shall report to Congress on his actions pursuant to this section.
+(3) **Failure of State to submit report** — If a Governor of a State does not submit the report required by subsection (a) within the period specified by subsection (c)(2), the Administrator shall, within 30 months after February 4, 1987, prepare a report for such State which makes the identifications required by paragraphs (1)(A) and (1)(B) of subsection (a). Upon completion of the requirement of the preceding sentence and after notice and opportunity for comment, the Administrator shall report to Congress on his actions pursuant to this section.
 
-**(e) Local management programs; technical assistance** If a State fails to submit a management program under subsection (b) of this section or the Administrator does not approve such a management program, a local public agency or organization which has expertise in, and authority to, control water pollution resulting from nonpoint sources in any area of such State which the Administrator determines is of sufficient geographic size may, with approval of such State, request the Administrator to provide, and the Administrator shall provide, technical assistance to such agency or organization in developing for such area a management program which is described in subsection (b) of this section and can be approved pursuant to subsection (d) of this section. After development of such management program, such agency or organization shall submit such management program to the Administrator for approval. If the Administrator approves such management program, such agency or organization shall be eligible to receive financial assistance under subsection (h) of this section for implementation of such management program as if such agency or organization were a State for which a report submitted under subsection (a) of this section and a management program submitted under subsection (b) of this section were approved under this section. Such financial assistance shall be subject to the same terms and conditions as assistance provided to a State under subsection (h) of this section.
+**(e) Local management programs; technical assistance** If a State fails to submit a management program under subsection (b) or the Administrator does not approve such a management program, a local public agency or organization which has expertise in, and authority to, control water pollution resulting from nonpoint sources in any area of such State which the Administrator determines is of sufficient geographic size may, with approval of such State, request the Administrator to provide, and the Administrator shall provide, technical assistance to such agency or organization in developing for such area a management program which is described in subsection (b) and can be approved pursuant to subsection (d). After development of such management program, such agency or organization shall submit such management program to the Administrator for approval. If the Administrator approves such management program, such agency or organization shall be eligible to receive financial assistance under subsection (h) for implementation of such management program as if such agency or organization were a State for which a report submitted under subsection (a) and a management program submitted under subsection (b) were approved under this section. Such financial assistance shall be subject to the same terms and conditions as assistance provided to a State under subsection (h).
 
-**(f) Technical assistance for States** Upon request of a State, the Administrator may provide technical assistance to such State in developing a management program approved under subsection (b) of this section for those portions of the navigable waters requested by such State.
+**(f) Technical assistance for States** Upon request of a State, the Administrator may provide technical assistance to such State in developing a management program approved under subsection (b) for those portions of the navigable waters requested by such State.
 
 **(g) Interstate management conference**
 
@@ -6441,7 +6722,7 @@ Subsec. (c). Pub. L. 95–217 added subsec. (c).
 
 **(h) Grant program**
 
-(1) **Grants for implementation of management programs** — Upon application of a State for which a report submitted under subsection (a) of this section and a management program submitted under subsection (b) of this section is approved under this section, the Administrator shall make grants, subject to such terms and conditions as the Administrator considers appropriate, under this subsection to such State for the purpose of assisting the State in implementing such management program. Funds reserved pursuant to [section 1285(j)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1285/j/5&num=0&edition=prelim) may be used to develop and implement such management program.
+(1) **Grants for implementation of management programs** — Upon application of a State for which a report submitted under subsection (a) and a management program submitted under subsection (b) is approved under this section, the Administrator shall make grants, subject to such terms and conditions as the Administrator considers appropriate, under this subsection to such State for the purpose of assisting the State in implementing such management program. Funds reserved pursuant to [section 1285(j)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1285/j/5&num=0&edition=prelim) may be used to develop and implement such management program.
 
 (2) **Applications** — An application for a grant under this subsection in any fiscal year shall be in such form and shall contain such other information as the Administrator may require, including an identification and description of the best management practices and measures which the State proposes to assist, encourage, or require in such year with the Federal assistance to be provided under the grant.
 
@@ -6463,7 +6744,7 @@ Subsec. (c). Pub. L. 95–217 added subsec. (c).
 
 (7) **Limitation on use of funds** — States may use funds from grants made pursuant to this section for financial assistance to persons only to the extent that such assistance is related to the costs of demonstration projects.
 
-(8) **Satisfactory progress** — No grant may be made under this subsection in any fiscal year to a State which in the preceding fiscal year received a grant under this subsection unless the Administrator determines that such State made satisfactory progress in such preceding fiscal year in meeting the schedule specified by such State under subsection (b)(2) of this section.
+(8) **Satisfactory progress** — No grant may be made under this subsection in any fiscal year to a State which in the preceding fiscal year received a grant under this subsection unless the Administrator determines that such State made satisfactory progress in such preceding fiscal year in meeting the schedule specified by such State under subsection (b)(2).
 
 (9) **Maintenance of effort** — No grant may be made to a State under this subsection in any fiscal year unless such State enters into such agreements with the Administrator as the Administrator may require to ensure that such State will maintain its aggregate expenditures from all other sources for programs for controlling pollution added to the navigable waters in such State from nonpoint sources and improving the quality of such waters at or above the average level of such expenditures in its two fiscal years preceding February 4, 1987.
 
@@ -6475,17 +6756,17 @@ Subsec. (c). Pub. L. 95–217 added subsec. (c).
 
 **(i) Grants for protecting groundwater quality**
 
-(1) **Eligible applicants and activities** — Upon application of a State for which a report submitted under subsection (a) of this section and a plan submitted under subsection (b) of this section is approved under this section, the Administrator shall make grants under this subsection to such State for the purpose of assisting such State in carrying out groundwater quality protection activities which the Administrator determines will advance the State toward implementation of a comprehensive nonpoint source pollution control program. Such activities shall include, but not be limited to, research, planning, groundwater assessments, demonstration programs, enforcement, technical assistance, education and training to protect the quality of groundwater and to prevent contamination of groundwater from nonpoint sources of pollution.
+(1) **Eligible applicants and activities** — Upon application of a State for which a report submitted under subsection (a) and a plan submitted under subsection (b) is approved under this section, the Administrator shall make grants under this subsection to such State for the purpose of assisting such State in carrying out groundwater quality protection activities which the Administrator determines will advance the State toward implementation of a comprehensive nonpoint source pollution control program. Such activities shall include, but not be limited to, research, planning, groundwater assessments, demonstration programs, enforcement, technical assistance, education and training to protect the quality of groundwater and to prevent contamination of groundwater from nonpoint sources of pollution.
 
 (2) **Applications** — An application for a grant under this subsection shall be in such form and shall contain such information as the Administrator may require.
 
 (3) **Federal share; maximum amount** — The Federal share of the cost of assisting a State in carrying out groundwater protection activities in any fiscal year under this subsection shall be 50 percent of the costs incurred by the State in carrying out such activities, except that the maximum amount of Federal assistance which any State may receive under this subsection in any fiscal year shall not exceed $150,000.
 
-(4) **Report** — The Administrator shall include in each report transmitted under subsection (m) of this section a report on the activities and programs implemented under this subsection during the preceding fiscal year.
+(4) **Report** — The Administrator shall include in each report transmitted under subsection (m) a report on the activities and programs implemented under this subsection during the preceding fiscal year.
 
-**(j) Authorization of appropriations** There is authorized to be appropriated to carry out subsections (h) and (i) of this section not to exceed $70,000,000 for fiscal year 1988, $100,000,000 per fiscal year for each of fiscal years 1989 and 1990, and $130,000,000 for fiscal year 1991; except that for each of such fiscal years not to exceed $7,500,000 may be made available to carry out subsection (i) of this section. Sums appropriated pursuant to this subsection shall remain available until expended.
+**(j) Authorization of appropriations** There is authorized to be appropriated to carry out subsections (h) and (i) not to exceed $70,000,000 for fiscal year 1988, $100,000,000 per fiscal year for each of fiscal years 1989 and 1990, and $130,000,000 for fiscal year 1991; except that for each of such fiscal years not to exceed $7,500,000 may be made available to carry out subsection (i). Sums appropriated pursuant to this subsection shall remain available until expended.
 
-**(k) Consistency of other programs and projects with management programs** The Administrator shall transmit to the Office of Management and Budget and the appropriate Federal departments and agencies a list of those assistance programs and development projects identified by each State under subsection (b)(2)(F) of this section for which individual assistance applications and projects will be reviewed pursuant to the procedures set forth in Executive Order 12372 as in effect on September 17, 1983. Beginning not later than sixty days after receiving notification by the Administrator, each Federal department and agency shall modify existing regulations to allow States to review individual development projects and assistance applications under the identified Federal assistance programs and shall accommodate, according to the requirements and definitions of Executive Order 12372, as in effect on September 17, 1983, the concerns of the State regarding the consistency of such applications or projects with the State nonpoint source pollution management program.
+**(k) Consistency of other programs and projects with management programs** The Administrator shall transmit to the Office of Management and Budget and the appropriate Federal departments and agencies a list of those assistance programs and development projects identified by each State under subsection (b)(2)(F) for which individual assistance applications and projects will be reviewed pursuant to the procedures set forth in Executive Order 12372 as in effect on September 17, 1983. Beginning not later than sixty days after receiving notification by the Administrator, each Federal department and agency shall modify existing regulations to allow States to review individual development projects and assistance applications under the identified Federal assistance programs and shall accommodate, according to the requirements and definitions of Executive Order 12372, as in effect on September 17, 1983, the concerns of the State regarding the consistency of such applications or projects with the State nonpoint source pollution management program.
 
 **(l) Collection of information** The Administrator shall collect and make available, through publications and other appropriate means, information pertaining to management practices and implementation methods, including, but not limited to, (1) information concerning the costs and relative efficiencies of best management practices for reducing nonpoint source pollution; and (2) available data concerning the relationship between water quality and implementation of various management practices to control nonpoint sources of pollution.
 
@@ -6509,7 +6790,7 @@ Subsec. (c). Pub. L. 95–217 added subsec. (c).
 
   (G) identify the activities and programs of departments, agencies, and instrumentalities of the United States which are inconsistent with the management programs submitted by the States and recommend modifications so that such activities and programs are consistent with and assist the States in implementation of such management programs.
 
-**(n) Set aside for administrative personnel** Not less than 5 percent of the funds appropriated pursuant to subsection (j) of this section for any fiscal year shall be available to the Administrator to maintain personnel levels at the Environmental Protection Agency at levels which are adequate to carry out this section in such year.
+**(n) Set aside for administrative personnel** Not less than 5 percent of the funds appropriated pursuant to subsection (j) for any fiscal year shall be available to the Administrator to maintain personnel levels at the Environmental Protection Agency at levels which are adequate to carry out this section in such year.
 
 ### Statutory Notes
 
@@ -6601,16 +6882,43 @@ For purposes of paragraph (7), such programs and projects shall not be limited t
 
   (B) shall be made on condition that the non-Federal share of the costs are provided from non-Federal sources.
 
-**(h) Grant reporting** Any person (including a State, interstate, or regional agency or entity) that receives a grant under subsection (g) of this section shall report to the Administrator not later than 18 months after receipt of such grant and biennially thereafter on the progress being made under this section.
+(4) **Competitive awards**
 
-**(i) Authorization of appropriations** There are authorized to be appropriated to the Administrator not to exceed $35,000,000 for each of fiscal years 2001 through 2010 for—
+  (A) *In general* — Using the amounts made available under subsection (i)(2)(B), the Administrator shall make competitive awards under this paragraph.
 
-(1) expenses related to the administration of management conferences under this section, not to exceed 10 percent of the amount appropriated under this subsection;
+  (B) *Application for awards* — The Administrator shall solicit applications for awards under this paragraph from State, interstate, and regional water pollution control agencies and entities, State coastal zone management agencies, interstate agencies, other public or nonprofit private agencies, institutions, organizations, and individuals.
 
-(2) making grants under subsection (g) of this section; and
+  (C) *Selection of recipients* — In selecting award recipients under this paragraph, the Administrator shall select recipients that are best able to address urgent and challenging issues that threaten the ecological and economic well-being of coastal areas. Such issues shall include—
 
-(3) monitoring the implementation of a conservation and management plan by the management conference or by the Administrator, in any case in which the conference has been terminated.
-The Administrator shall provide up to $5,000,000 per fiscal year of the sums authorized to be appropriated under this subsection to the Administrator of the National Oceanic and Atmospheric Administration to carry out subsection (j) of this section.
+    (i) extensive seagrass habitat losses resulting in significant impacts on fisheries and water quality;
+
+    (ii) recurring harmful algae blooms;
+
+    (iii) unusual marine mammal mortalities;
+
+    (iv) invasive exotic species that may threaten wastewater systems and cause other damage;
+
+    (v) jellyfish proliferation limiting community access to water during peak tourism seasons;
+
+    (vi) flooding that may be related to sea level rise or wetland degradation or loss; and
+
+    (vii) low dissolved oxygen conditions in estuarine waters and related nutrient management.
+
+**(h) Grant reporting** Any person (including a State, interstate, or regional agency or entity) that receives a grant under subsection (g) shall report to the Administrator not later than 18 months after receipt of such grant and biennially thereafter on the progress being made under this section.
+
+**(i) Authorization of appropriations**
+
+(1) **In general** — There is authorized to be appropriated to the Administrator $26,500,000 for each of fiscal years 2017 through 2021 for—
+
+  (A) expenses relating to the administration of grants or awards by the Administrator under this section, including the award and oversight of grants and awards, except that such expenses may not exceed 5 percent of the amount appropriated under this subsection for a fiscal year; and
+
+  (B) making grants and awards under subsection (g).
+
+(2) **Allocations**
+
+  (A) *Conservation and management plans* — Not less than 80 percent of the amount made available under this subsection for a fiscal year shall be used by the Administrator to provide grant assistance for the development, implementation, and monitoring of each of the conservation and management plans eligible for grant assistance under subsection (g)(2).
+
+  (B) *Competitive awards* — Not less than 15 percent of the amount made available under this subsection for a fiscal year shall be used by the Administrator for making competitive awards described in subsection (g)(4).
 
 **(j) Research**
 
@@ -6642,6 +6950,10 @@ The Administrator shall provide up to $5,000,000 per fiscal year of the sums aut
 Executive Order 12372, referred to in subsec. (b), is Ex. Ord. No. 12372, July 14, 1982, 47 F.R. 30959, as amended, which is set out under [section 6506 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6506&num=0&edition=prelim), Money and Finance.
 
 #### Amendments
+2016—Subsec. (g)(4). Pub. L. 114–162, § 1, added par. (4).
+
+Subsec. (i). Pub. L. 114–162, § 2, added subsec. (i) and struck out former subsec. (i) which related to authorization of appropriations for fiscal years 2001 through 2010.
+
 2004—Subsec. (i). Pub. L. 108–399 substituted “2010” for “2005” in introductory provisions.
 
 2002—Subsec. (k). Pub. L. 107–303 repealed Pub. L. 105–362, § 501(a)(2). See 1998 Amendment note below.
@@ -6766,9 +7078,9 @@ Pub. L. 100–4, title III, § 317(a), Feb. 4, 1987, 101 Stat. 61, provided that
 
 (4) **Limitations on partial permit program returns and withdrawals.—** — A State may return to the Administrator administration, and the Administrator may withdraw under paragraph (3) of this subsection approval, of—
 
-  (A) a State partial permit program approved under subsection (n)(3) of this section only if the entire permit program being administered by the State department or agency at the time is returned or withdrawn; and
+  (A) a State partial permit program approved under subsection (n)(3) only if the entire permit program being administered by the State department or agency at the time is returned or withdrawn; and
 
-  (B) a State partial permit program approved under subsection (n)(4) of this section only if an entire phased component of the permit program being administered by the State at the time is returned or withdrawn.
+  (B) a State partial permit program approved under subsection (n)(4) only if an entire phased component of the permit program being administered by the State at the time is returned or withdrawn.
 
 **(d) Notification of Administrator**
 
@@ -6814,19 +7126,19 @@ Pub. L. 100–4, title III, § 317(a), Feb. 4, 1987, 101 Stat. 61, provided that
 
 (1) **State submission** — The Governor of a State may submit under subsection (b) of this section a permit program for a portion of the discharges into the navigable waters in such State.
 
-(2) **Minimum coverage** — A partial permit program under this subsection shall cover, at a minimum, administration of a major category of the discharges into the navigable waters of the State or a major component of the permit program required by subsection (b) of this section.
+(2) **Minimum coverage** — A partial permit program under this subsection shall cover, at a minimum, administration of a major category of the discharges into the navigable waters of the State or a major component of the permit program required by subsection (b).
 
 (3) **Approval of major category partial permit programs** — The Administrator may approve a partial permit program covering administration of a major category of discharges under this subsection if—
 
   (A) such program represents a complete permit program and covers all of the discharges under the jurisdiction of a department or agency of the State; and
 
-  (B) the Administrator determines that the partial program represents a significant and identifiable part of the State program required by subsection (b) of this section.
+  (B) the Administrator determines that the partial program represents a significant and identifiable part of the State program required by subsection (b).
 
-(4) **Approval of major component partial permit programs** — The Administrator may approve under this subsection a partial and phased permit program covering administration of a major component (including discharge categories) of a State permit program required by subsection (b) of this section if—
+(4) **Approval of major component partial permit programs** — The Administrator may approve under this subsection a partial and phased permit program covering administration of a major component (including discharge categories) of a State permit program required by subsection (b) if—
 
-  (A) the Administrator determines that the partial program represents a significant and identifiable part of the State program required by subsection (b) of this section; and
+  (A) the Administrator determines that the partial program represents a significant and identifiable part of the State program required by subsection (b); and
 
-  (B) the State submits, and the Administrator approves, a plan for the State to assume administration by phases of the remainder of the State program required by subsection (b) of this section by a specified date not more than 5 years after submission of the partial program under this subsection and agrees to make all reasonable efforts to assume such administration by such date.
+  (B) the State submits, and the Administrator approves, a plan for the State to assume administration by phases of the remainder of the State program required by subsection (b) by a specified date not more than 5 years after submission of the partial program under this subsection and agrees to make all reasonable efforts to assume such administration by such date.
 
 **(o) Anti-backsliding**
 
@@ -6840,7 +7152,7 @@ Pub. L. 100–4, title III, § 317(a), Feb. 4, 1987, 101 Stat. 61, provided that
 
     (i) information is available which was not available at the time of permit issuance (other than revised regulations, guidance, or test methods) and which would have justified the application of a less stringent effluent limitation at the time of permit issuance; or
 
-    (ii) the Administrator determines that technical mistakes or mistaken interpretations of law were made in issuing the permit under subsection (a)(1)(B) of this section;
+    (ii) the Administrator determines that technical mistakes or mistaken interpretations of law were made in issuing the permit under subsection (a)(1)(B);
 
   (C) a less stringent effluent limitation is necessary because of events over which the permittee has no control and for which there is no reasonably available remedy;
 
@@ -7090,7 +7402,7 @@ For extension of territorial sea and contiguous zone of United States, see Proc.
 
 **(i) Withdrawal of approval** Whenever the Administrator determines after public hearing that a State is not administering a program approved under subsection (h)(2)(A) of this section, in accordance with this section, including, but not limited to, the guidelines established under subsection (b)(1) of this section, the Administrator shall so notify the State, and, if appropriate corrective action is not taken within a reasonable time, not to exceed ninety days after the date of the receipt of such notification, the Administrator shall (1) withdraw approval of such program until the Administrator determines such corrective action has been taken, and (2) notify the Secretary that the Secretary shall resume the program for the issuance of permits under subsections (a) and (e) of this section for activities with respect to which the State was issuing permits and that such authority of the Secretary shall continue in effect until such time as the Administrator makes the determination described in clause (1) of this subsection and such State again has an approved program.
 
-**(j) Copies of applications for State permits and proposed general permits to be transmitted to Administrator** Each State which is administering a permit program pursuant to this section shall transmit to the Administrator (1) a copy of each permit application received by such State and provide notice to the Administrator of every action related to the consideration of such permit application, including each permit proposed to be issued by such State, and (2) a copy of each proposed general permit which such State intends to issue. Not later than the tenth day after the date of the receipt of such permit application or such proposed general permit, the Administrator shall provide copies of such permit application or such proposed general permit to the Secretary and the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service. If the Administrator intends to provide written comments to such State with respect to such permit application or such proposed general permit, he shall so notify such State not later than the thirtieth day after the date of the receipt of such application or such proposed general permit and provide such written comments to such State, after consideration of any comments made in writing with respect to such application or such proposed general permit by the Secretary and the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, not later than the ninetieth day after the date of such receipt. If such State is so notified by the Administrator, it shall not issue the proposed permit until after the receipt of such comments from the Administrator, or after such ninetieth day, whichever first occurs. Such State shall not issue such proposed permit after such ninetieth day if it has received such written comments in which the Administrator objects (A) to the issuance of such proposed permit and such proposed permit is one that has been submitted to the Administrator pursuant to subsection (h)(1)(E) of this section, or (B) to the issuance of such proposed permit as being outside the requirements of this section, including, but not limited to, the guidelines developed under subsection (b)(1) of this section unless it modifies such proposed permit in accordance with such comments. Whenever the Administrator objects to the issuance of a permit under the preceding sentence such written objection shall contain a statement of the reasons for such objection and the conditions which such permit would include if it were issued by the Administrator. In any case where the Administrator objects to the issuance of a permit, on request of the State, a public hearing shall be held by the Administrator on such objection. If the State does not resubmit such permit revised to meet such objection within 30 days after completion of the hearing or, if no hearing is requested within 90 days after the date of such objection, the Secretary may issue the permit pursuant to subsection (a) or (e) of this section, as the case may be, for such source in accordance with the guidelines and requirements of this chapter.
+**(j) Copies of applications for State permits and proposed general permits to be transmitted to Administrator** Each State which is administering a permit program pursuant to this section shall transmit to the Administrator (1) a copy of each permit application received by such State and provide notice to the Administrator of every action related to the consideration of such permit application, including each permit proposed to be issued by such State, and (2) a copy of each proposed general permit which such State intends to issue. Not later than the tenth day after the date of the receipt of such permit application or such proposed general permit, the Administrator shall provide copies of such permit application or such proposed general permit to the Secretary and the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service. If the Administrator intends to provide written comments to such State with respect to such permit application or such proposed general permit, he shall so notify such State not later than the thirtieth day after the date of the receipt of such application or such proposed general permit and provide such written comments to such State, after consideration of any comments made in writing with respect to such application or such proposed general permit by the Secretary and the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, not later than the ninetieth day after the date of such receipt. If such State is so notified by the Administrator, it shall not issue the proposed permit until after the receipt of such comments from the Administrator, or after such ninetieth day, whichever first occurs. Such State shall not issue such proposed permit after such ninetieth day if it has received such written comments in which the Administrator objects (A) to the issuance of such proposed permit and such proposed permit is one that has been submitted to the Administrator pursuant to subsection (h)(1)(E), or (B) to the issuance of such proposed permit as being outside the requirements of this section, including, but not limited to, the guidelines developed under subsection (b)(1) of this section unless it modifies such proposed permit in accordance with such comments. Whenever the Administrator objects to the issuance of a permit under the preceding sentence such written objection shall contain a statement of the reasons for such objection and the conditions which such permit would include if it were issued by the Administrator. In any case where the Administrator objects to the issuance of a permit, on request of the State, a public hearing shall be held by the Administrator on such objection. If the State does not resubmit such permit revised to meet such objection within 30 days after completion of the hearing or, if no hearing is requested within 90 days after the date of such objection, the Secretary may issue the permit pursuant to subsection (a) or (e) of this section, as the case may be, for such source in accordance with the guidelines and requirements of this chapter.
 
 **(k) Waiver** In accordance with guidelines promulgated pursuant to subsection (i)(2) of [section 1314 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1314), the Administrator is authorized to waive the requirements of subsection (j) of this section at the time of the approval of a program pursuant to subsection (h)(2)(A) of this section for any category (including any class, type, or size within such category) of discharge within the State submitting such program.
 
@@ -7151,6 +7463,9 @@ Pub. L. 106–377, § 1(a)(2) [title I], Oct. 27, 2000, 114 Stat. 1441, 1441A–
 
 #### Authority To Delegate to State of Washington Functions of the Secretary Relating to Lake Chelan, Washington
 Pub. L. 95–217, § 76, Dec. 27, 1977, 91 Stat. 1610, provided that: “The Secretary of the Army, acting through the Chief of Engineers, is authorized to delegate to the State of Washington upon its request all or any part of those functions vested in such Secretary by section 404 of the Federal Water Pollution Control Act [this section] and by sections 9, 10, and 13 of the Act of March 3, 1899 [sections 401, 403, and 407 of this title], relating to Lake Chelan, Washington, if the Secretary determines (1) that such State has the authority, responsibility, and capability to carry out such functions, and (2) that such delegation is in the public interest. Such delegation shall be subject to such terms and conditions as the Secretary deems necessary, including, but not limited to, suspension and revocation for cause of such delegation.”
+
+#### Dredged Material Disposal
+Pub. L. 114–322, title I, § 1189, Dec. 16, 2016, 130 Stat. 1681, provided that: “Disposal of dredged material shall not be considered environmentally acceptable for the purposes of identifying the Federal standard (as defined in section 335.7 of title 33, Code of Federal Regulations (or successor regulations)) if the disposal violates applicable State water quality standards approved by the Administrator of the Environmental Protection Agency under section 303 of the Federal Water Pollution Control Act ([33 U.S.C. 1313](./chapter-026-water-pollution-prevention-and-control.md#section-1313)).”
 
 #### Contiguous Zone of United States
 For extension of contiguous zone of United States, see Proc. No. 7219, set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
@@ -7265,27 +7580,27 @@ Pub. L. 100–4, title IV, § 406(e), Feb. 4, 1987, 101 Stat. 73, provided that:
 
   (A) *In general* — The Administrator may award a grant to a State or a local government to implement a monitoring and notification program if—
 
-    (i) the program is consistent with the performance criteria published by the Administrator under subsection (a) of this section;
+    (i) the program is consistent with the performance criteria published by the Administrator under subsection (a);
 
     (ii) the State or local government prioritizes the use of grant funds for particular coastal recreation waters based on the use of the water and the risk to human health presented by pathogens or pathogen indicators;
 
     (iii) the State or local government makes available to the Administrator the factors used to prioritize the use of funds under clause (ii);
 
-    (iv) the State or local government provides a list of discrete areas of coastal recreation waters that are subject to the program for monitoring and notification for which the grant is provided that specifies any coastal recreation waters for which fiscal constraints will prevent consistency with the performance criteria under subsection (a) of this section; and
+    (iv) the State or local government provides a list of discrete areas of coastal recreation waters that are subject to the program for monitoring and notification for which the grant is provided that specifies any coastal recreation waters for which fiscal constraints will prevent consistency with the performance criteria under subsection (a); and
 
     (v) the public is provided an opportunity to review the program through a process that provides for public notice and an opportunity for comment.
 
-  (B) *Grants to local governments* — The Administrator may make a grant to a local government under this subsection for implementation of a monitoring and notification program only if, after the 1-year period beginning on the date of publication of performance criteria under subsection (a)(1) of this section, the Administrator determines that the State is not implementing a program that meets the requirements of this subsection, regardless of whether the State has received a grant under this subsection.
+  (B) *Grants to local governments* — The Administrator may make a grant to a local government under this subsection for implementation of a monitoring and notification program only if, after the 1-year period beginning on the date of publication of performance criteria under subsection (a)(1), the Administrator determines that the State is not implementing a program that meets the requirements of this subsection, regardless of whether the State has received a grant under this subsection.
 
 (3) **Other requirements**
 
   (A) *Report* — A State recipient of a grant under this subsection shall submit to the Administrator, in such format and at such intervals as the Administrator determines to be appropriate, a report that describes—
 
-    (i) data collected as part of the program for monitoring and notification as described in subsection (c) of this section; and
+    (i) data collected as part of the program for monitoring and notification as described in subsection (c); and
 
     (ii) actions taken to notify the public when water quality standards are exceeded.
 
-  (B) *Delegation* — A State recipient of a grant under this subsection shall identify each local government to which the State has delegated or intends to delegate responsibility for implementing a monitoring and notification program consistent with the performance criteria published under subsection (a) of this section (including any coastal recreation waters for which the authority to implement a monitoring and notification program would be subject to the delegation).
+  (B) *Delegation* — A State recipient of a grant under this subsection shall identify each local government to which the State has delegated or intends to delegate responsibility for implementing a monitoring and notification program consistent with the performance criteria published under subsection (a) (including any coastal recreation waters for which the authority to implement a monitoring and notification program would be subject to the delegation).
 
 (4) **Federal share**
 
@@ -7297,7 +7612,7 @@ Pub. L. 100–4, title IV, § 406(e), Feb. 4, 1987, 101 Stat. 73, provided that:
 
     (ii) provided in cash or in kind.
 
-**(c) Content of State and local government programs** As a condition of receipt of a grant under subsection (b) of this section, a State or local government program for monitoring and notification under this section shall identify—
+**(c) Content of State and local government programs** As a condition of receipt of a grant under subsection (b), a State or local government program for monitoring and notification under this section shall identify—
 
 (1) lists of coastal recreation waters in the State, including coastal recreation waters adjacent to beaches or similar points of access that are used by the public;
 
@@ -7333,15 +7648,15 @@ Pub. L. 100–4, title IV, § 406(e), Feb. 4, 1987, 101 Stat. 73, provided that:
 
 (1) protects the public health and safety;
 
-(2) is consistent with the performance criteria published under subsection (a) of this section;
+(2) is consistent with the performance criteria published under subsection (a);
 
-(3) includes a completed report on the information specified in subsection (b)(3)(A) of this section, to be submitted to the Administrator; and
+(3) includes a completed report on the information specified in subsection (b)(3)(A), to be submitted to the Administrator; and
 
-(4) addresses the matters specified in subsection (c) of this section.
+(4) addresses the matters specified in subsection (c).
 
 **(e) Database** The Administrator shall establish, maintain, and make available to the public by electronic and other means a national coastal recreation water pollution occurrence database that provides—
 
-(1) the data reported to the Administrator under subsections (b)(3)(A)(i) and (d)(3) of this section; and
+(1) the data reported to the Administrator under subsections (b)(3)(A)(i) and (d)(3); and
 
 (2) other information concerning pathogens and pathogen indicators in coastal recreation waters that—
 
@@ -7353,11 +7668,11 @@ Pub. L. 100–4, title IV, § 406(e), Feb. 4, 1987, 101 Stat. 73, provided that:
 
 **(g) List of waters**
 
-(1) **In general** — Beginning not later than 18 months after the date of publication of performance criteria under subsection (a) of this section, based on information made available to the Administrator, the Administrator shall identify, and maintain a list of, discrete coastal recreation waters adjacent to beaches or similar points of access that are used by the public that—
+(1) **In general** — Beginning not later than 18 months after the date of publication of performance criteria under subsection (a), based on information made available to the Administrator, the Administrator shall identify, and maintain a list of, discrete coastal recreation waters adjacent to beaches or similar points of access that are used by the public that—
 
-  (A) specifies any waters described in this paragraph that are subject to a monitoring and notification program consistent with the performance criteria established under subsection (a) of this section; and
+  (A) specifies any waters described in this paragraph that are subject to a monitoring and notification program consistent with the performance criteria established under subsection (a); and
 
-  (B) specifies any waters described in this paragraph for which there is no monitoring and notification program (including waters for which fiscal constraints will prevent the State or the Administrator from performing monitoring and notification consistent with the performance criteria established under subsection (a) of this section).
+  (B) specifies any waters described in this paragraph for which there is no monitoring and notification program (including waters for which fiscal constraints will prevent the State or the Administrator from performing monitoring and notification consistent with the performance criteria established under subsection (a)).
 
 (2) **Availability** — The Administrator shall make the list described in paragraph (1) available to the public through—
 
@@ -7367,13 +7682,13 @@ Pub. L. 100–4, title IV, § 406(e), Feb. 4, 1987, 101 Stat. 73, provided that:
 
 (3) **Updates** — The Administrator shall update the list described in paragraph (1) periodically as new information becomes available.
 
-**(h) EPA implementation** In the case of a State that has no program for monitoring and notification that is consistent with the performance criteria published under subsection (a) of this section after the last day of the 3-year period beginning on the date on which the Administrator lists waters in the State under subsection (g)(1)(B) of this section, the Administrator shall conduct a monitoring and notification program for the listed waters based on a priority ranking established by the Administrator using funds appropriated for grants under subsection (i) of this section—
+**(h) EPA implementation** In the case of a State that has no program for monitoring and notification that is consistent with the performance criteria published under subsection (a) after the last day of the 3-year period beginning on the date on which the Administrator lists waters in the State under subsection (g)(1)(B), the Administrator shall conduct a monitoring and notification program for the listed waters based on a priority ranking established by the Administrator using funds appropriated for grants under subsection (i)—
 
 (1) to conduct monitoring and notification; and
 
 (2) for related salaries, expenses, and travel.
 
-**(i) Authorization of appropriations** There is authorized to be appropriated for making grants under subsection (b) of this section, including implementation of monitoring and notification programs by the Administrator under subsection (h) of this section, $30,000,000 for each of fiscal years 2001 through 2005.
+**(i) Authorization of appropriations** There is authorized to be appropriated for making grants under subsection (b), including implementation of monitoring and notification programs by the Administrator under subsection (h), $30,000,000 for each of fiscal years 2001 through 2005.
 
 
 <a id="section-1361"></a>
@@ -7402,7 +7717,7 @@ Pub. L. 100–4, title IV, § 406(e), Feb. 4, 1987, 101 Stat. 73, provided that:
 1987—Subsec. (d). Pub. L. 100–4 inserted provision at end authorizing Administrator to enter into noncompetitive procurement contracts with independent State audit organizations, consistent with chapter 75 of title 31, but only to extent and in such amounts as provided in advance in appropriations Acts.
 
 #### Applicability of Spill Prevention, Control, and Countermeasure Rule
-Pub. L. 113–121, title I, § 1049, June 10, 2014, 128 Stat. 1257, provided that: “(a) Definitions.—In this section:“(1) Administrator.—The term ‘Administrator’ means the Administrator of the Environmental Protection Agency. “(2) Farm.—The term ‘farm’ has the meaning given the term in section 112.2 of title 40, Code of Federal Regulations (or successor regulations). “(3) Gallon.—The term ‘gallon’ means a United States gallon. “(4) Oil.—The term ‘oil’ has the meaning given the term in section 112.2 of title 40, Code of Federal Regulations (or successor regulations). “(5) Oil discharge.—The term ‘oil discharge’ has the meaning given the term ‘discharge’ in section 112.2 of title 40, Code of Federal Regulations (or successor regulations). “(6) Reportable oil discharge history.—“(A) In general.—Subject to subparagraph (B), the term ‘reportable oil discharge history’ means a single oil discharge, as described in section 112.1(b) of title 40, Code of Federal Regulations (including successor regulations), that exceeds 1,000 gallons or 2 oil discharges, as described in section 112.1(b) of title 40, Code of Federal Regulations (including successor regulations), that each exceed 42 gallons within any 12-month period—“(i) in the 3 years prior to the certification date of the Spill Prevention, Control, and Countermeasure plan (as described in section 112.3 of title 40, Code of Federal Regulations (including successor regulations); or “(ii) since becoming subject to part 112 of title 40, Code of Federal Regulations, if the facility has been in operation for less than 3 years. “(B) Exclusions.—The term ‘reportable oil discharge history’ does not include an oil discharge, as described in section 112.1(b) of title 40, Code of Federal Regulations (including successor regulations), that is the result of a natural disaster, an act of war, or terrorism. “(7) Spill prevention, control, and countermeasure rule.—The term ‘Spill Prevention, Control, and Countermeasure rule’ means the regulation, including amendments, promulgated by the Administrator under part 112 of title 40, Code of Federal Regulations (or successor regulations). “(b) Certification.—In implementing the Spill Prevention, Control, and Countermeasure rule with respect to any farm, the Administrator shall—“(1) require certification by a professional engineer for a farm with—“(A) an individual tank with an aboveground storage capacity greater than 10,000 gallons; “(B) an aggregate aboveground storage capacity greater than or equal to 20,000 gallons; or “(C) a reportable oil discharge history; or “(2) allow certification by the owner or operator of the farm (via self-certification) for a farm with—“(A) an aggregate aboveground storage capacity less than 20,000 gallons and greater than the lesser of—“(i) 6,000 gallons; and “(ii) the adjustment quantity established under subsection (d)(2); and “(B) no reportable oil discharge history; and “(3) not require compliance with the rule by any farm—“(A) with an aggregate aboveground storage capacity greater than 2,500 gallons and less than the lesser of—“(i) 6,000 gallons; and “(ii) the adjustment quantity established under subsection (d)(2); and “(B) no reportable oil discharge history; and “(4) not require compliance with the rule by any farm with an aggregate aboveground storage capacity of less than 2,500 gallons. “(c) Calculation of Aggregate Aboveground Storage Capacity.—For purposes of subsection (b), the aggregate aboveground storage capacity of a farm excludes—“(1) all containers on separate parcels that have a capacity that is 1,000 gallons or less; and “(2) all containers holding animal feed ingredients approved for use in livestock feed by the Commissioner of Food and Drugs. “(d) Study.—“(1) In general.—Not later than 1 year after the date of enactment of this Act [June 10, 2014], the Administrator, in consultation with the Secretary of Agriculture, shall conduct a study to determine the appropriate exemption under paragraphs (2) and (3) of subsection (b), which shall be not more than 6,000 gallons and not less than 2,500 gallons, based on a significant risk of discharge to water. “(2) Adjustment.—Not later than 18 months after the date on which the study described in paragraph (1) is complete, the Administrator, in consultation with the Secretary of Agriculture, shall promulgate a rule to adjust the exemption levels described in paragraphs (2) and (3) of subsection (b) in accordance with the study.”
+Pub. L. 113–121, title I, § 1049, June 10, 2014, 128 Stat. 1257, as amended by Pub. L. 114–322, title IV, § 5011, Dec. 16, 2016, 130 Stat. 1902, provided that: “(a) Definitions.—In this section:“(1) Administrator.—The term ‘Administrator’ means the Administrator of the Environmental Protection Agency. “(2) Farm.—The term ‘farm’ has the meaning given the term in section 112.2 of title 40, Code of Federal Regulations (or successor regulations). “(3) Gallon.—The term ‘gallon’ means a United States gallon. “(4) Oil.—The term ‘oil’ has the meaning given the term in section 112.2 of title 40, Code of Federal Regulations (or successor regulations). “(5) Oil discharge.—The term ‘oil discharge’ has the meaning given the term ‘discharge’ in section 112.2 of title 40, Code of Federal Regulations (or successor regulations). “(6) Reportable oil discharge history.—“(A) In general.—Subject to subparagraph (B), the term ‘reportable oil discharge history’ means a single oil discharge, as described in section 112.1(b) of title 40, Code of Federal Regulations (including successor regulations), that exceeds 1,000 gallons or 2 oil discharges, as described in section 112.1(b) of title 40, Code of Federal Regulations (including successor regulations), that each exceed 42 gallons within any 12-month period—“(i) in the 3 years prior to the certification date of the Spill Prevention, Control, and Countermeasure plan (as described in section 112.3 of title 40, Code of Federal Regulations (including successor regulations); or “(ii) since becoming subject to part 112 of title 40, Code of Federal Regulations, if the facility has been in operation for less than 3 years. “(B) Exclusions.—The term ‘reportable oil discharge history’ does not include an oil discharge, as described in section 112.1(b) of title 40, Code of Federal Regulations (including successor regulations), that is the result of a natural disaster, an act of war, or terrorism. “(7) Spill prevention, control, and countermeasure rule.—The term ‘Spill Prevention, Control, and Countermeasure rule’ means the regulation, including amendments, promulgated by the Administrator under part 112 of title 40, Code of Federal Regulations (or successor regulations). “(b) Certification.—In implementing the Spill Prevention, Control, and Countermeasure rule with respect to any farm, the Administrator shall—“(1) require certification by a professional engineer for a farm with—“(A) an individual tank with an aboveground storage capacity greater than 10,000 gallons; “(B) an aggregate aboveground storage capacity greater than or equal to 20,000 gallons; or “(C) a reportable oil discharge history; or “(2) allow certification by the owner or operator of the farm (via self-certification) for a farm with—“(A) an aggregate aboveground storage capacity less than 20,000 gallons and greater than the lesser of—“(i) 6,000 gallons; and “(ii) the adjustment quantity established under subsection (d)(2); and “(B) no reportable oil discharge history; and “(3) not require compliance with the rule by any farm—“(A) with an aggregate aboveground storage capacity greater than 2,500 gallons and less than the lesser of—“(i) 6,000 gallons; and “(ii) the adjustment quantity established under subsection (d)(2); and “(B) no reportable oil discharge history; and “(4) not require compliance with the rule by any farm with an aggregate aboveground storage capacity of less than 2,500 gallons. “(c) Regulation of Aboveground Storage at Farms.—“(1) Calculation of aggregate aboveground storage capacity.—For purposes of subsection (b), the aggregate aboveground storage capacity of a farm excludes—“(A) all containers on separate parcels that have a capacity that is 1,000 gallons or less; and “(B) all containers holding animal feed ingredients approved for use in livestock feed by the Commissioner of Food and Drugs. “(2) Certain farm containers.—Part 112 of title 40, Code of Federal Regulations (or successor regulations), shall not apply to the following containers located at a farm:“(A) Containers on a separate parcel that have—“(i) an individual capacity of not greater than 1,000 gallons; and “(ii) an aggregate capacity of not greater than 2,500 gallons. “(B) A container holding animal feed ingredients approved for use in livestock feed by the Food and Drug Administration. “(d) Study.—“(1) In general.—Not later than 1 year after the date of enactment of this Act [June 10, 2014], the Administrator, in consultation with the Secretary of Agriculture, shall conduct a study to determine the appropriate exemption under paragraphs (2) and (3) of subsection (b), which shall be not more than 6,000 gallons and not less than 2,500 gallons, based on a significant risk of discharge to water. “(2) Adjustment.—Not later than 18 months after the date on which the study described in paragraph (1) is complete, the Administrator, in consultation with the Secretary of Agriculture, shall promulgate a rule to adjust the exemption levels described in paragraphs (2) and (3) of subsection (b) in accordance with the study.”
 
 #### Environmental Court Feasibility Study
 Pub. L. 92–500, § 9, Oct. 18, 1972, 86 Stat. 899, authorized the President, acting through the Attorney General, to study the feasibility of establishing a separate court or court system with jurisdiction over environmental matters and required him to report the results of his study, together with his recommendations, to Congress not later than one year after Oct. 18, 1972.
@@ -7624,7 +7939,7 @@ except that such action may be brought immediately after such notification in th
 
 **(g) “Citizen” defined** For the purposes of this section the term “citizen” means a person or persons having an interest which is or may be adversely affected.
 
-**(h) Civil action by State Governors** A Governor of a State may commence a civil action under subsection (a) of this section, without regard to the limitations of subsection (b) of this section, against the Administrator where there is alleged a failure of the Administrator to enforce an effluent standard or limitation under this chapter the violation of which is occurring in another State and is causing an adverse effect on the public health or welfare in his State, or is causing a violation of any water quality requirement in his State.
+**(h) Civil action by State Governors** A Governor of a State may commence a civil action under subsection (a), without regard to the limitations of subsection (b) of this section, against the Administrator where there is alleged a failure of the Administrator to enforce an effluent standard or limitation under this chapter the violation of which is occurring in another State and is causing an adverse effect on the public health or welfare in his State, or is causing a violation of any water quality requirement in his State.
 
 ### Statutory Notes
 
@@ -7993,7 +8308,7 @@ Pub. L. 95–217, § 3, Dec. 27, 1977, 91 Stat. 1566, provided that funds approp
 (2) the functions to be exercised by the Indian tribe pertain to the management and protection of water resources which are held by an Indian tribe, held by the United States in trust for Indians, held by a member of an Indian tribe if such property interest is subject to a trust restriction on alienation, or otherwise within the borders of an Indian reservation; and
 
 (3) the Indian tribe is reasonably expected to be capable, in the Administrator’s judgment, of carrying out the functions to be exercised in a manner consistent with the terms and purposes of this chapter and of all applicable regulations.
-Such treatment as a State may include the direct provision of funds reserved under subsection (c) of this section to the governing bodies of Indian tribes, and the determination of priorities by Indian tribes, where not determined by the Administrator in cooperation with the Director of the Indian Health Service. The Administrator, in cooperation with the Director of the Indian Health Service, is authorized to make grants under subchapter II of this chapter in an amount not to exceed 100 percent of the cost of a project. Not later than 18 months after February 4, 1987, the Administrator shall, in consultation with Indian tribes, promulgate final regulations which specify how Indian tribes shall be treated as States for purposes of this chapter. The Administrator shall, in promulgating such regulations, consult affected States sharing common water bodies and provide a mechanism for the resolution of any unreasonable consequences that may arise as a result of differing water quality standards that may be set by States and Indian tribes located on common bodies of water. Such mechanism shall provide for explicit consideration of relevant factors including, but not limited to, the effects of differing water quality permit requirements on upstream and downstream dischargers, economic impacts, and present and historical uses and quality of the waters subject to such standards. Such mechanism should provide for the avoidance of such unreasonable consequences in a manner consistent with the objective of this chapter.
+Such treatment as a State may include the direct provision of funds reserved under subsection (c) to the governing bodies of Indian tribes, and the determination of priorities by Indian tribes, where not determined by the Administrator in cooperation with the Director of the Indian Health Service. The Administrator, in cooperation with the Director of the Indian Health Service, is authorized to make grants under subchapter II of this chapter in an amount not to exceed 100 percent of the cost of a project. Not later than 18 months after February 4, 1987, the Administrator shall, in consultation with Indian tribes, promulgate final regulations which specify how Indian tribes shall be treated as States for purposes of this chapter. The Administrator shall, in promulgating such regulations, consult affected States sharing common water bodies and provide a mechanism for the resolution of any unreasonable consequences that may arise as a result of differing water quality standards that may be set by States and Indian tribes located on common bodies of water. Such mechanism shall provide for explicit consideration of relevant factors including, but not limited to, the effects of differing water quality permit requirements on upstream and downstream dischargers, economic impacts, and present and historical uses and quality of the waters subject to such standards. Such mechanism should provide for the avoidance of such unreasonable consequences in a manner consistent with the objective of this chapter.
 
 **(f) Grants for nonpoint source programs** The Administrator shall make grants to an Indian tribe under [section 1329 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1329) as though such tribe was a State. Not more than one-third of one percent of the amount appropriated for any fiscal year under [section 1329 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1329) may be used to make grants under this subsection. In addition to the requirements of [section 1329 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1329), an Indian tribe shall be required to meet the requirements of paragraphs (1), (2), and (3) of subsection (d) 11 So in original. Probably should be subsection “(e)”. of this section in order to receive such a grant.
 
@@ -8014,7 +8329,7 @@ Such treatment as a State may include the direct provision of funds reserved und
 ### Statutory Notes
 
 #### References in Text
-Act of June 18, 1934 (48 Stat. 987), referred to in subsec. (g)(1), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended, popularly known as the Indian Reorganization Act, which enacted sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 461 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section461&num=0&edition=prelim) and Tables.
+Act of June 18, 1934 (48 Stat. 987), referred to in subsec. (g)(1), is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to chapter 45 (§ 5101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 5101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5101&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 518 of act June 30, 1948, was renumbered section 519 and is set out as a note under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251).
@@ -8022,11 +8337,11 @@ A prior section 518 of act June 30, 1948, was renumbered section 519 and is set 
 #### Amendments
 2014—Subsec. (c). Pub. L. 113–121, § 5013(1), (3), designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
 
-Subsec. (c)(1). Pub. L. 113–121, § 5013(2), substituted “each of fiscal years 1987 through 2014,” for “each fiscal year beginning after September 30, 1986,” and struck out at end “Sums reserved under this subsection shall be available only for grants for the development of waste treatment management plans and for the construction of sewage treatment works to serve Indian tribes, as defined in subsection (h) of this section and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in Public Law 92–203.”
+Subsec. (c)(1). Pub. L. 113–121, § 5013(2), substituted “each of fiscal years 1987 through 2014,” for “each fiscal year beginning after September 30, 1986,” and struck out at end “Sums reserved under this subsection shall be available only for grants for the development of waste treatment management plans and for the construction of sewage treatment works to serve Indian tribes, as defined in subsection (h) and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in Public Law 92–203.”
 
 2000—Subsec. (e). Pub. L. 106–284 substituted “1344, and 1346 of this title” for “and 1344 of this title” in introductory provisions.
 
-1988—Subsec. (c). Pub. L. 100–581 inserted “, as defined in subsection (h) of this section and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in Public Law 92–203” before period at end.
+1988—Subsec. (c). Pub. L. 100–581 inserted “, as defined in subsection (h) and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in Public Law 92–203” before period at end.
 
 #### Grants for Construction of Water Facilities and for Water Quality Protection
 Pub. L. 109–54, title II, Aug. 2, 2005, 119 Stat. 530, provided in part: “That, notwithstanding this or any other appropriations Act, heretofore and hereafter, after consultation with the House and Senate Committees on Appropriations and for the purpose of making technical corrections, the Administrator is authorized to award grants under this heading [State and Tribal Assistance Grants] to entities and for purposes other than those listed in the joint explanatory statements of the managers accompanying the Agency’s appropriations Acts for the construction of drinking water, wastewater and stormwater infrastructure and for water quality protection.”
@@ -8203,15 +8518,15 @@ Amendment by Pub. L. 113–121 effective Oct. 1, 2014, see section 5006 of Pub. 
 
 **(f) Consistency with planning requirements** A State may provide financial assistance from its water pollution control revolving fund only with respect to a project which is consistent with plans, if any, developed under sections 1285(j), 1288, 1313(e), 1329, and 1330 of this title.
 
-**(g) Priority list requirement** The State may provide financial assistance from its water pollution control revolving fund only with respect to a project for construction of a treatment works described in subsection (c)(1) of this section if such project is on the State’s priority list under [section 1296 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1296). Such assistance may be provided regardless of the rank of such project on such list.
+**(g) Priority list requirement** The State may provide financial assistance from its water pollution control revolving fund only with respect to a project for construction of a treatment works described in subsection (c)(1) if such project is on the State’s priority list under [section 1296 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1296). Such assistance may be provided regardless of the rank of such project on such list.
 
 **(h) Eligibility of non-Federal share of construction grant projects** A State water pollution control revolving fund may provide assistance (other than under subsection (d)(1) of this section) to a municipality or intermunicipal or interstate agency with respect to the non-Federal share of the costs of a treatment works project for which such municipality or agency is receiving assistance from the Administrator under any other authority only if such assistance is necessary to allow such project to proceed.
 
 **(i) Additional subsidization**
 
-(1) **In general** — In any case in which a State provides assistance to a municipality or intermunicipal, interstate, or State agency under subsection (d), the State may provide additional subsidization, including forgiveness of principal and negative interest loans—
+(1) **In general** — In any case in which a State provides assistance to an eligible recipient under subsection (d), the State may provide additional subsidization, including forgiveness of principal and negative interest loans—
 
-  (A) to benefit a municipality that—
+  (A) in assistance to a municipality or intermunicipal, interstate, or State agency to benefit a municipality that—
 
     (i) meets the affordability criteria of the State established under paragraph (2); or
 
@@ -8247,7 +8562,7 @@ Amendment by Pub. L. 113–121 effective Oct. 1, 2014, see section 5006 of Pub. 
 
     (ii) those criteria shall be treated as affordability criteria established under this paragraph.
 
-  (C) *Information to assist states* — The Administrator may publish information to assist States in establishing affordability criteria under subparagraph (A).
+  (C) *Information to assist States* — The Administrator may publish information to assist States in establishing affordability criteria under subparagraph (A).
 
 (3) **Limitations**
 
@@ -8266,6 +8581,10 @@ Amendment by Pub. L. 113–121 effective Oct. 1, 2014, see section 5006 of Pub. 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (i)(1). Pub. L. 114–322, § 5012(1), substituted “to an eligible recipient” for “to a municipality or intermunicipal, interstate, or State agency” in introductory provisions.
+
+Subsec. (i)(1)(A). Pub. L. 114–322, § 5012(2), inserted “in assistance to a municipality or intermunicipal, interstate, or State agency” before “to benefit” in introductory provisions.
+
 2014—Subsec. (c). Pub. L. 113–121, § 5003(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The amounts of funds available to each State water pollution control revolving fund shall be used only for providing financial assistance (1) to any municipality, intermunicipal, interstate, or State agency for construction of publicly owned treatment works (as defined in [section 1292 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1292)), (2) for the implementation of a management program established under [section 1329 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1329), and (3) for development and implementation of a conservation and management plan under [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330). The fund shall be established, maintained, and credited with repayments, and the fund balance shall be available in perpetuity for providing such financial assistance.”
 
 Subsec. (d)(1)(A). Pub. L. 113–121, § 5003(2)(A)(i), substituted “the lesser of 30 years and the projected useful life (as determined by the State) of the project to be financed with the proceeds of the loan” for “20 years”.
@@ -8304,9 +8623,9 @@ Pub. L. 101–144, title III, Nov. 9, 1989, 103 Stat. 858, as amended by Pub. L.
 ## § 1385. Corrective action
 **(a) Notification of noncompliance** If the Administrator determines that a State has not complied with its agreement with the Administrator under [section 1382 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1382) or any other requirement of this subchapter, the Administrator shall notify the State of such noncompliance and the necessary corrective action.
 
-**(b) Withholding of payments** If a State does not take corrective action within 60 days after the date a State receives notification of such action under subsection (a) of this section, the Administrator shall withhold additional payments to the State until the Administrator is satisfied that the State has taken the necessary corrective action.
+**(b) Withholding of payments** If a State does not take corrective action within 60 days after the date a State receives notification of such action under subsection (a), the Administrator shall withhold additional payments to the State until the Administrator is satisfied that the State has taken the necessary corrective action.
 
-**(c) Reallotment of withheld payments** If the Administrator is not satisfied that adequate corrective actions have been taken by the State within 12 months after the State is notified of such actions under subsection (a) of this section, the payments withheld from the State by the Administrator under subsection (b) of this section shall be made available for reallotment in accordance with the most recent formula for allotment of funds under this subchapter.
+**(c) Reallotment of withheld payments** If the Administrator is not satisfied that adequate corrective actions have been taken by the State within 12 months after the State is notified of such actions under subsection (a), the payments withheld from the State by the Administrator under subsection (b) shall be made available for reallotment in accordance with the most recent formula for allotment of funds under this subchapter.
 
 
 <a id="section-1386"></a>
@@ -8333,11 +8652,11 @@ Pub. L. 101–144, title III, Nov. 9, 1989, 103 Stat. 858, as amended by Pub. L.
 
 (5) the criteria and method established for the distribution of funds.
 
-**(d) Annual report** Beginning the first fiscal year after the receipt of payments under this subchapter, the State shall provide an annual report to the Administrator describing how the State has met the goals and objectives for the previous fiscal year as identified in the plan prepared for the previous fiscal year pursuant to subsection (c) of this section, including identification of loan recipients, loan amounts, and loan terms and similar details on other forms of financial assistance provided from the water pollution control revolving fund.
+**(d) Annual report** Beginning the first fiscal year after the receipt of payments under this subchapter, the State shall provide an annual report to the Administrator describing how the State has met the goals and objectives for the previous fiscal year as identified in the plan prepared for the previous fiscal year pursuant to subsection (c), including identification of loan recipients, loan amounts, and loan terms and similar details on other forms of financial assistance provided from the water pollution control revolving fund.
 
-**(e) Annual Federal oversight review** The Administrator shall conduct an annual oversight review of each State plan prepared under subsection (c) of this section, each State report prepared under subsection (d) of this section, and other such materials as are considered necessary and appropriate in carrying out the purposes of this subchapter. After reasonable notice by the Administrator to the State or the recipient of a loan from a water pollution control revolving fund, the State or loan recipient shall make available to the Administrator such records as the Administrator reasonably requires to review and determine compliance with this subchapter.
+**(e) Annual Federal oversight review** The Administrator shall conduct an annual oversight review of each State plan prepared under subsection (c), each State report prepared under subsection (d), and other such materials as are considered necessary and appropriate in carrying out the purposes of this subchapter. After reasonable notice by the Administrator to the State or the recipient of a loan from a water pollution control revolving fund, the State or loan recipient shall make available to the Administrator such records as the Administrator reasonably requires to review and determine compliance with this subchapter.
 
-**(f) Applicability of subchapter II provisions** Except to the extent provided in this subchapter, the provisions of subchapter II of this chapter shall not apply to grants under this subchapter.
+**(f) Applicability of subchapter II provisions** Except to the extent provided in this subchapter, the provisions of subchapter II shall not apply to grants under this subchapter.
 
 ### Statutory Notes
 

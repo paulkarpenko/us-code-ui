@@ -10,7 +10,7 @@ source: >-
 ## § 7201. Disclosure of audit committee financial expert
 **(a) Rules defining “financial expert”** The Commission shall issue rules, as necessary or appropriate in the public interest and consistent with the protection of investors, to require each issuer, together with periodic reports required pursuant to sections 78m(a) and 78o(d) of this title, to disclose whether or not, and if not, the reasons therefor, the audit committee of that issuer is comprised of at least 1 member who is a financial expert, as such term is defined by the Commission.
 
-**(b) Considerations** In defining the term “financial expert” for purposes of subsection (a) of this section, the Commission shall consider whether a person has, through education and experience as a public accountant or auditor or a principal financial officer, comptroller, or principal accounting officer of an issuer, or from a position involving the performance of similar functions—
+**(b) Considerations** In defining the term “financial expert” for purposes of subsection (a), the Commission shall consider whether a person has, through education and experience as a public accountant or auditor or a principal financial officer, comptroller, or principal accounting officer of an issuer, or from a position involving the performance of similar functions—
 
 (1) an understanding of generally accepted accounting principles and financial statements;
 
@@ -35,7 +35,7 @@ source: >-
 ## § 7202. Enhanced review of periodic disclosures by issuers
 **(a) Regular and systematic review** The Commission shall review disclosures made by issuers reporting under [section 78m(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m/a&num=0&edition=prelim) (including reports filed on Form 10–K), and which have a class of securities listed on a national securities exchange or traded on an automated quotation facility of a national securities association, on a regular and systematic basis for the protection of investors. Such review shall include a review of an issuer’s financial statement.
 
-**(b) Review criteria** For purposes of scheduling the reviews required by subsection (a) of this section, the Commission shall consider, among other factors—
+**(b) Review criteria** For purposes of scheduling the reviews required by subsection (a), the Commission shall consider, among other factors—
 
 (1) issuers that have issued material restatements of financial results;
 
@@ -331,7 +331,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 (2) **Treatment** — A written notice of disapproval of a completed application under paragraph (1) for registration shall be treated as a disciplinary sanction for purposes of sections 7215(d) and 7217(c) of this title.
 
-**(d) Periodic reports** Each registered public accounting firm shall submit an annual report to the Board, and may be required to report more frequently, as necessary to update the information contained in its application for registration under this section, and to provide to the Board such additional information as the Board or the Commission may specify, in accordance with subsection (b)(2) of this section.
+**(d) Periodic reports** Each registered public accounting firm shall submit an annual report to the Board, and may be required to report more frequently, as necessary to update the information contained in its application for registration under this section, and to provide to the Board such additional information as the Board or the Commission may specify, in accordance with subsection (b)(2).
 
 **(e) Public availability** Registration applications and annual reports required by this subsection, or such portions of such applications or reports as may be designated under rules of the Board, shall be made available for public inspection, subject to rules of the Board or the Commission, and to applicable laws relating to the confidentiality of proprietary, personal, or other information contained in such applications or reports, provided that, in all events, the Board shall protect from public disclosure information reasonably identified by the subject accounting firm as proprietary information.
 
@@ -390,7 +390,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
     (vi) internal inspection; and
 
-    (vii) such other requirements as the Board may prescribe, subject to subsection (a)(1) of this section.
+    (vii) such other requirements as the Board may prescribe, subject to subsection (a)(1).
 
 (3) **Authority to adopt other standards**
 
@@ -410,11 +410,11 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **(c) Cooperation with designated professional groups of accountants and advisory groups**
 
-(1) **In general** — The Board shall cooperate on an ongoing basis with professional groups of accountants designated under subsection (a)(3)(A) of this section and advisory groups convened under subsection (a)(4) of this section in the examination of the need for changes in any standards subject to its authority under subsection (a) of this section, recommend issues for inclusion on the agendas of such designated professional groups of accountants or advisory groups, and take such other steps as it deems appropriate to increase the effectiveness of the standard setting process.
+(1) **In general** — The Board shall cooperate on an ongoing basis with professional groups of accountants designated under subsection (a)(3)(A) and advisory groups convened under subsection (a)(4) in the examination of the need for changes in any standards subject to its authority under subsection (a), recommend issues for inclusion on the agendas of such designated professional groups of accountants or advisory groups, and take such other steps as it deems appropriate to increase the effectiveness of the standard setting process.
 
 (2) **Board responses** — The Board shall respond in a timely fashion to requests from designated professional groups of accountants and advisory groups referred to in paragraph (1) for any changes in standards over which the Board has authority.
 
-**(d) Evaluation of standard setting process** The Board shall include in the annual report required by [section 7211(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7211/h&num=0&edition=prelim) the results of its standard setting responsibilities during the period to which the report relates, including a discussion of the work of the Board with any designated professional groups of accountants and advisory groups described in paragraphs (3)(A) and (4) of subsection (a) of this section, and its pending issues agenda for future standard setting projects.
+**(d) Evaluation of standard setting process** The Board shall include in the annual report required by [section 7211(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7211/h&num=0&edition=prelim) the results of its standard setting responsibilities during the period to which the report relates, including a discussion of the work of the Board with any designated professional groups of accountants and advisory groups described in paragraphs (3)(A) and (4) of subsection (a), and its pending issues agenda for future standard setting projects.
 
 ### Statutory Notes
 
@@ -482,7 +482,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **(f) Procedures for review** The rules of the Board shall provide a procedure for the review of and response to a draft inspection report by the registered public accounting firm under inspection. The Board shall take such action with respect to such response as it considers appropriate (including revising the draft report or continuing or supplementing its inspection activities before issuing a final report), but the text of any such response, appropriately redacted to protect information reasonably identified by the accounting firm as confidential, shall be attached to and made part of the inspection report.
 
-**(g) Report** A written report of the findings of the Board for each inspection under this section, subject to subsection (h) of this section, shall be—
+**(g) Report** A written report of the findings of the Board for each inspection under this section, subject to subsection (h), shall be—
 
 (1) transmitted, in appropriate detail, to the Commission and each appropriate State regulatory authority, accompanied by any letter or comments by the Board or the inspector, and any letter of response from the registered public accounting firm; and
 
@@ -492,9 +492,9 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 (1) **Reviewable matters** — A registered public accounting firm may seek review by the Commission, pursuant to such rules as the Commission shall promulgate, if the firm—
 
-  (A) has provided the Board with a response, pursuant to rules issued by the Board under subsection (f) of this section, to the substance of particular items in a draft inspection report, and disagrees with the assessments contained in any final report prepared by the Board following such response; or
+  (A) has provided the Board with a response, pursuant to rules issued by the Board under subsection (f), to the substance of particular items in a draft inspection report, and disagrees with the assessments contained in any final report prepared by the Board following such response; or
 
-  (B) disagrees with the determination of the Board that criticisms or defects identified in an inspection report have not been addressed to the satisfaction of the Board within 12 months of the date of the inspection report, for purposes of subsection (g)(2) of this section.
+  (B) disagrees with the determination of the Board that criticisms or defects identified in an inspection report have not been addressed to the satisfaction of the Board within 12 months of the date of the inspection report, for purposes of subsection (g)(2).
 
 (2) **Treatment of review** — Any decision of the Commission with respect to a review under paragraph (1) shall not be reviewable under [section 78y of this title](./chapter-2b-securities-exchanges.md#section-78y), or deemed to be “final agency action” for purposes of [section 704 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section704&num=0&edition=prelim).
 
@@ -564,7 +564,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 (5) **Use of documents**
 
-  (A) *Confidentiality* — Except as provided in subparagraphs (B) and (C), all documents and information prepared or received by or specifically for the Board, and deliberations of the Board and its employees and agents, in connection with an inspection under [section 7214 of this title](./chapter-098-public-company-accounting-reform-and-corporate-responsibility.md#section-7214) or with an investigation under this section, shall be confidential and privileged as an evidentiary matter (and shall not be subject to civil discovery or other legal process) in any proceeding in any Federal or State court or administrative agency, and shall be exempt from disclosure, in the hands of an agency or establishment of the Federal Government, under the Freedom of Information Act ([5 U.S.C. 552a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim)),11 See References in Text note below. or otherwise, unless and until presented in connection with a public proceeding or released in accordance with subsection (c) of this section.
+  (A) *Confidentiality* — Except as provided in subparagraphs (B) and (C), all documents and information prepared or received by or specifically for the Board, and deliberations of the Board and its employees and agents, in connection with an inspection under [section 7214 of this title](./chapter-098-public-company-accounting-reform-and-corporate-responsibility.md#section-7214) or with an investigation under this section, shall be confidential and privileged as an evidentiary matter (and shall not be subject to civil discovery or other legal process) in any proceeding in any Federal or State court or administrative agency, and shall be exempt from disclosure, in the hands of an agency or establishment of the Federal Government, under the Freedom of Information Act ([5 U.S.C. 552a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim)),11 See References in Text note below. or otherwise, unless and until presented in connection with a public proceeding or released in accordance with subsection (c).
 
   (B) *Availability to Government agencies* — Without the loss of its status as confidential and privileged in the hands of the Board, all information referred to in subparagraph (A) may—
 
@@ -885,31 +885,31 @@ Section is comprised of section 108 of Pub. L. 107–204. Subsec. (a) of section
 ## § 7231. Funding
 **(a) In general** The Board, and the standard setting body designated pursuant to [section 77s(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77s/b&num=0&edition=prelim), shall be funded as provided in this section.
 
-**(b) Annual budgets** The Board and the standard setting body referred to in subsection (a) of this section shall each establish a budget for each fiscal year, which shall be reviewed and approved according to their respective internal procedures not less than 1 month prior to the commencement of the fiscal year to which the budget pertains (or at the beginning of the Board’s first fiscal year, which may be a short fiscal year). The budget of the Board shall be subject to approval by the Commission. The budget for the first fiscal year of the Board shall be prepared and approved promptly following the appointment of the initial five Board members, to permit action by the Board of the organizational tasks contemplated by [section 7211(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7211/d&num=0&edition=prelim).
+**(b) Annual budgets** The Board and the standard setting body referred to in subsection (a) shall each establish a budget for each fiscal year, which shall be reviewed and approved according to their respective internal procedures not less than 1 month prior to the commencement of the fiscal year to which the budget pertains (or at the beginning of the Board’s first fiscal year, which may be a short fiscal year). The budget of the Board shall be subject to approval by the Commission. The budget for the first fiscal year of the Board shall be prepared and approved promptly following the appointment of the initial five Board members, to permit action by the Board of the organizational tasks contemplated by [section 7211(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7211/d&num=0&edition=prelim).
 
 **(c) Sources and uses of funds**
 
-(1) **Recoverable budget expenses** — The budget of the Board (reduced by any registration or annual fees received under [section 7212(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7212/e&num=0&edition=prelim) for the year preceding the year for which the budget is being computed), and all of the budget of the standard setting body referred to in subsection (a) of this section, for each fiscal year of each of those 2 entities, shall be payable from annual accounting support fees, in accordance with subsections (d) and (e) of this section. Accounting support fees and other receipts of the Board and of such standard-setting body shall not be considered public monies of the United States.
+(1) **Recoverable budget expenses** — The budget of the Board (reduced by any registration or annual fees received under [section 7212(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7212/e&num=0&edition=prelim) for the year preceding the year for which the budget is being computed), and all of the budget of the standard setting body referred to in subsection (a), for each fiscal year of each of those 2 entities, shall be payable from annual accounting support fees, in accordance with subsections (d) and (e). Accounting support fees and other receipts of the Board and of such standard-setting body shall not be considered public monies of the United States.
 
-(2) **Funds generated from the collection of monetary penalties** — Subject to the availability in advance in an appropriations Act, and notwithstanding subsection (j) of this section, all funds collected by the Board as a result of the assessment of monetary penalties shall be used to fund a merit scholarship program for undergraduate and graduate students enrolled in accredited accounting degree programs, which program is to be administered by the Board or by an entity or agent identified by the Board.
+(2) **Funds generated from the collection of monetary penalties** — Subject to the availability in advance in an appropriations Act, and notwithstanding subsection (j), all funds collected by the Board as a result of the assessment of monetary penalties shall be used to fund a merit scholarship program for undergraduate and graduate students enrolled in accredited accounting degree programs, which program is to be administered by the Board or by an entity or agent identified by the Board.
 
 **(d) Annual accounting support fee for the Board**
 
 (1) **Establishment of fee** — The Board shall establish, with the approval of the Commission, a reasonable annual accounting support fee (or a formula for the computation thereof), as may be necessary or appropriate to establish and maintain the Board. Such fee may also cover costs incurred in the Board’s first fiscal year (which may be a short fiscal year), or may be levied separately with respect to such short fiscal year.
 
-(2) **Assessments** — The rules of the Board under paragraph (1) shall provide for the equitable allocation, assessment, and collection by the Board (or an agent appointed by the Board) of the fee established under paragraph (1), among issuers, in accordance with subsection (g) of this section, and among brokers and dealers, in accordance with subsection (h), and allowing for differentiation among classes of issuers, brokers and dealers, as appropriate.
+(2) **Assessments** — The rules of the Board under paragraph (1) shall provide for the equitable allocation, assessment, and collection by the Board (or an agent appointed by the Board) of the fee established under paragraph (1), among issuers, in accordance with subsection (g), and among brokers and dealers, in accordance with subsection (h), and allowing for differentiation among classes of issuers, brokers and dealers, as appropriate.
 
 (3) **Brokers and dealers** — The Board shall begin the allocation, assessment, and collection of fees under paragraph (2) with respect to brokers and dealers with the payment of support fees to fund the first full fiscal year beginning after July 21, 2010.
 
-**(e) Annual accounting support fee for standard setting body** The annual accounting support fee for the standard setting body referred to in subsection (a) of this section—
+**(e) Annual accounting support fee for standard setting body** The annual accounting support fee for the standard setting body referred to in subsection (a)—
 
-(1) shall be allocated in accordance with subsection (g) of this section, and assessed and collected against each issuer, on behalf of the standard setting body, by 1 or more appropriate designated collection agents, as may be necessary or appropriate to pay for the budget and provide for the expenses of that standard setting body, and to provide for an independent, stable source of funding for such body, subject to review by the Commission; and
+(1) shall be allocated in accordance with subsection (g), and assessed and collected against each issuer, on behalf of the standard setting body, by 1 or more appropriate designated collection agents, as may be necessary or appropriate to pay for the budget and provide for the expenses of that standard setting body, and to provide for an independent, stable source of funding for such body, subject to review by the Commission; and
 
 (2) may differentiate among different classes of issuers.
 
-**(f) Limitation on fee** The amount of fees collected under this section for a fiscal year on behalf of the Board or the standards setting body, as the case may be, shall not exceed the recoverable budget expenses of the Board or body, respectively (which may include operating, capital, and accrued items), referred to in subsection (c)(1) of this section.
+**(f) Limitation on fee** The amount of fees collected under this section for a fiscal year on behalf of the Board or the standards setting body, as the case may be, shall not exceed the recoverable budget expenses of the Board or body, respectively (which may include operating, capital, and accrued items), referred to in subsection (c)(1).
 
-**(g) Allocation of accounting support fees among issuers** Any amount due from issuers (or a particular class of issuers) under this section to fund the budget of the Board or the standard setting body referred to in subsection (a) of this section shall be allocated among and payable by each issuer (or each issuer in a particular class, as applicable) in an amount equal to the total of such amount, multiplied by a fraction—
+**(g) Allocation of accounting support fees among issuers** Any amount due from issuers (or a particular class of issuers) under this section to fund the budget of the Board or the standard setting body referred to in subsection (a) shall be allocated among and payable by each issuer (or each issuer in a particular class, as applicable) in an amount equal to the total of such amount, multiplied by a fraction—
 
 (1) the numerator of which is the average monthly equity market capitalization of the issuer for the 12-month period immediately preceding the beginning of the fiscal year to which such budget relates; and
 
@@ -925,7 +925,7 @@ Section is comprised of section 108 of Pub. L. 107–204. Subsec. (a) of section
 
 **(i) Omitted**
 
-**(j) Rule of construction** Nothing in this section shall be construed to render either the Board, the standard setting body referred to in subsection (a) of this section, or both, subject to procedures in Congress to authorize or appropriate public funds, or to prevent such organization from utilizing additional sources of revenue for its activities, such as earnings from publication sales, provided that each additional source of revenue shall not jeopardize, in the judgment of the Commission, the actual and perceived independence of such organization.
+**(j) Rule of construction** Nothing in this section shall be construed to render either the Board, the standard setting body referred to in subsection (a), or both, subject to procedures in Congress to authorize or appropriate public funds, or to prevent such organization from utilizing additional sources of revenue for its activities, such as earnings from publication sales, provided that each additional source of revenue shall not jeopardize, in the judgment of the Commission, the actual and perceived independence of such organization.
 
 **(k) Start-up expenses of the Board** From the unexpended balances of the appropriations to the Commission for fiscal year 2003, the Secretary of the Treasury is authorized to advance to the Board not to exceed the amount necessary to cover the expenses of the Board during its first fiscal year (which may be a short fiscal year).
 
@@ -1058,7 +1058,7 @@ This Act, referred to in text, is Pub. L. 107–204, July 30, 2002, 116 Stat. 74
 
 **(b) Foreign reincorporations have no effect** Nothing in this section shall be interpreted or applied in any way to allow any issuer to lessen the legal force of the statement required under this section, by an issuer having reincorporated or having engaged in any other transaction that resulted in the transfer of the corporate domicile or offices of the issuer from inside the United States to outside of the United States.
 
-**(c) Deadline** The rules required by subsection (a) of this section shall be effective not later than 30 days after July 30, 2002.
+**(c) Deadline** The rules required by subsection (a) shall be effective not later than 30 days after July 30, 2002.
 
 
 <a id="section-7244"></a>
@@ -1067,7 +1067,7 @@ This Act, referred to in text, is Pub. L. 107–204, July 30, 2002, 116 Stat. 74
 
 **(b) Enforcement** In any civil proceeding, the Commission shall have exclusive authority to enforce this section and any rule or regulation issued under this section.
 
-**(c) No preemption of other law** The provisions of subsection (a) of this section shall be in addition to, and shall not supersede or preempt, any other provision of law or any rule or regulation issued thereunder.
+**(c) No preemption of other law** The provisions of subsection (a) shall be in addition to, and shall not supersede or preempt, any other provision of law or any rule or regulation issued thereunder.
 
 **(d) Deadline for rulemaking** The Commission shall—
 
@@ -1084,7 +1084,7 @@ This Act, referred to in text, is Pub. L. 107–204, July 30, 2002, 116 Stat. 74
 
 (2) any profits realized from the sale of securities of the issuer during that 12-month period.
 
-**(b) Commission exemption authority** The Commission may exempt any person from the application of subsection (a) of this section, as it deems necessary and appropriate.
+**(b) Commission exemption authority** The Commission may exempt any person from the application of subsection (a), as it deems necessary and appropriate.
 
 
 <a id="section-7246"></a>
@@ -1156,7 +1156,7 @@ Not later than 180 days after July 30, 2002, the Commission shall issue rules, i
 ## § 7262. Fair funds for investors
 **(a) Civil penalties to be used for the relief of victims** If, in any judicial or administrative action brought by the Commission under the securities laws, the Commission obtains a civil penalty against any person for a violation of such laws, or such person agrees, in settlement of any such action, to such civil penalty, the amount of such civil penalty shall, on the motion or at the direction of the Commission, be added to and become part of a disgorgement fund or other fund established for the benefit of the victims of such violation.
 
-**(b) Acceptance of additional donations** The Commission is authorized to accept, hold, administer, and utilize gifts, bequests and devises of property, both real and personal, to the United States for a disgorgement fund or other fund described in subsection (a) of this section. Such gifts, bequests, and devises of money and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in such fund and shall be available for allocation in accordance with subsection (a) of this section.
+**(b) Acceptance of additional donations** The Commission is authorized to accept, hold, administer, and utilize gifts, bequests and devises of property, both real and personal, to the United States for a disgorgement fund or other fund described in subsection (a). Such gifts, bequests, and devises of money and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in such fund and shall be available for allocation in accordance with subsection (a).
 
 **(c) Study required**
 
@@ -1228,7 +1228,7 @@ Section is comprised of section 401 of Pub. L. 107–204. Subsec. (a) of section
 
 (2) contain an assessment, as of the end of the most recent fiscal year of the issuer, of the effectiveness of the internal control structure and procedures of the issuer for financial reporting.
 
-**(b) Internal control evaluation and reporting** With respect to the internal control assessment required by subsection (a) of this section, each registered public accounting firm that prepares or issues the audit report for the issuer, other than an issuer that is an emerging growth company (as defined in [section 78c of this title](./chapter-2b-securities-exchanges.md#section-78c)), shall attest to, and report on, the assessment made by the management of the issuer. An attestation made under this subsection shall be made in accordance with standards for attestation engagements issued or adopted by the Board. Any such attestation shall not be the subject of a separate engagement.
+**(b) Internal control evaluation and reporting** With respect to the internal control assessment required by subsection (a), each registered public accounting firm that prepares or issues the audit report for the issuer, other than an issuer that is an emerging growth company (as defined in [section 78c of this title](./chapter-2b-securities-exchanges.md#section-78c)), shall attest to, and report on, the assessment made by the management of the issuer. An attestation made under this subsection shall be made in accordance with standards for attestation engagements issued or adopted by the Board. Any such attestation shall not be the subject of a separate engagement.
 
 **(c) Exemption for smaller issuers** Subsection (b) shall not apply with respect to any audit report prepared for an issuer that is neither a “large accelerated filer” nor an “accelerated filer” as those terms are defined in Rule 12b–2 of the Commission (17 C.F.R. 240.12b–2).
 

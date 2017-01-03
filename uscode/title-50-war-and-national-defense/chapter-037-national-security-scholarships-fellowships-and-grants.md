@@ -56,17 +56,17 @@ source: >-
 
     (i) are United States citizens in order to enable such students to study, for at least one academic semester or equivalent term, in foreign countries that are critical countries (as determined under [section 1903(d)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1903/d/4/A&num=0&edition=prelim)) in those languages and study areas where deficiencies exist (as identified in the assessments undertaken pursuant to [section 1906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1906/d&num=0&edition=prelim)); and
 
-    (ii) pursuant to subsection (b)(2)(A) of this section, enter into an agreement to work in a national security position or work in the field of higher education in the area of study for which the scholarship was awarded;
+    (ii) pursuant to subsection (b)(2)(A), enter into an agreement to work in a national security position or work in the field of higher education in the area of study for which the scholarship was awarded;
 
   (B) awarding fellowships to graduate students who—
 
     (i) are United States citizens to enable such students to pursue education as part of a graduate degree program of a United States institution of higher education in the disciplines of foreign languages, area studies, counterproliferation studies, and other international fields relating to the national security interests of the United States that are critical areas of those disciplines (as determined under [section 1903(d)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1903/d/4/B&num=0&edition=prelim)) and in which deficiencies exist (as identified in the assessments undertaken pursuant to [section 1906(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1906/d&num=0&edition=prelim)); and
 
-    (ii) pursuant to subsection (b)(2)(B) of this section, enter into an agreement to work in a national security position or work in the field of education in the area of study for which the fellowship was awarded;
+    (ii) pursuant to subsection (b)(2)(B), enter into an agreement to work in a national security position or work in the field of education in the area of study for which the fellowship was awarded;
 
   (C) awarding grants to institutions of higher education to enable such institutions to establish, operate, or improve programs in foreign languages, area studies, counterproliferation studies, and other international fields that are critical areas of those disciplines (as determined under [section 1903(d)(4)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1903/d/4/C&num=0&edition=prelim));
 
-  (D) awarding grants to institutions of higher education to carry out activities under the National Flagship Language Initiative (described in subsection (i) of this section); and
+  (D) awarding grants to institutions of higher education to carry out activities under the National Flagship Language Initiative (described in subsection (i)); and
 
   (E) awarding scholarships to students who—
 
@@ -77,7 +77,7 @@ source: >-
       (II) are not proficient at a professional level in the English language with respect to reading, writing, and other skills required to carry out the national security interests of the United States, as determined by the Secretary,
     to enable such students to pursue English language studies at an institution of higher education of the United States to attain proficiency in those skills; and
 
-    (ii) enter into an agreement to work in a position in a similar manner (as determined by the Secretary) as agreements entered into pursuant to subsection (b)(2)(A) of this section.
+    (ii) enter into an agreement to work in a position in a similar manner (as determined by the Secretary) as agreements entered into pursuant to subsection (b)(2)(A).
 
 (2) **Funding allocations** — Of the amount available for obligation out of the National Security Education Trust Fund or from a transfer under [section 1910(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1910/c&num=0&edition=prelim) for any fiscal year for the purposes stated in paragraph (1), the Secretary shall have a goal of allocating—
 
@@ -86,15 +86,15 @@ source: >-
   (B) ⅓ of such amount for the awarding of fellowships pursuant to paragraph (1)(B); and
 
   (C) ⅓ of such amount for the awarding of grants pursuant to paragraph (1)(C).
-  The funding allocation under this paragraph shall not apply to grants under paragraph (1)(D) for the National Flagship Language Initiative described in subsection (i) of this section or for the scholarship program under paragraph (1)(E). For the authorization of appropriations for the National Flagship Language Initiative, see [section 1911 of this title](./chapter-037-national-security-scholarships-fellowships-and-grants.md#section-1911). For the authorization of appropriations for the scholarship program under paragraph (1)(E), see [section 1912 of this title](./chapter-037-national-security-scholarships-fellowships-and-grants.md#section-1912).
+  The funding allocation under this paragraph shall not apply to grants under paragraph (1)(D) for the National Flagship Language Initiative described in subsection (i) or for the scholarship program under paragraph (1)(E). For the authorization of appropriations for the National Flagship Language Initiative, see [section 1911 of this title](./chapter-037-national-security-scholarships-fellowships-and-grants.md#section-1911). For the authorization of appropriations for the scholarship program under paragraph (1)(E), see [section 1912 of this title](./chapter-037-national-security-scholarships-fellowships-and-grants.md#section-1912).
 
 (3) **Consultation with National Security Education Board** — The program required under this chapter shall be carried out in consultation with the National Security Education Board established under [section 1903 of this title](./chapter-037-national-security-scholarships-fellowships-and-grants.md#section-1903).
 
 (4) **Contract authority** — The Secretary may enter into one or more contracts, with private national organizations having an expertise in foreign languages, area studies, counterproliferation studies, and other international fields, for the awarding of the scholarships, fellowships, and grants described in paragraph (1) in accordance with the provisions of this chapter. The Secretary may enter into such contracts without regard to [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim) or any other provision of law that requires the use of competitive procedures. In addition, the Secretary may enter into personal service contracts for periods up to one year for program administration, except that not more than 10 such contracts may be in effect at any one time.
 
-**(b) Service agreement** In awarding a scholarship or fellowship under the program, the Secretary or contract organization referred to in subsection (a)(4) of this section, as the case may be, shall require a recipient of any fellowship or any scholarship to enter into an agreement that, in return for such assistance, the recipient—
+**(b) Service agreement** In awarding a scholarship or fellowship under the program, the Secretary or contract organization referred to in subsection (a)(4), as the case may be, shall require a recipient of any fellowship or any scholarship to enter into an agreement that, in return for such assistance, the recipient—
 
-(1) will maintain satisfactory academic progress, as determined in accordance with regulations issued by the Secretary, and agrees that failure to maintain such progress shall constitute grounds upon which the Secretary or contract organization referred to in subsection (a)(4) of this section may terminate such assistance;
+(1) will maintain satisfactory academic progress, as determined in accordance with regulations issued by the Secretary, and agrees that failure to maintain such progress shall constitute grounds upon which the Secretary or contract organization referred to in subsection (a)(4) may terminate such assistance;
 
 (2)
 
@@ -118,7 +118,7 @@ source: >-
 
 **(c) Evaluation of progress in language skills** The Secretary shall, through the National Security Education Program office, administer a test of the foreign language skills of each recipient of a scholarship or fellowship under this chapter before the commencement of the study or education for which the scholarship or fellowship is awarded and after the completion of such study or education. The purpose of these tests is to evaluate the progress made by recipients of scholarships and fellowships in developing foreign language skills as a result of assistance under this chapter.
 
-**(d) Distribution of assistance** In selecting the recipients for awards of scholarships, fellowships, or grants pursuant to this chapter, the Secretary or a contract organization referred to in subsection (a)(4) of this section, as the case may be, shall take into consideration (1) the extent to which the selections will result in there being an equitable geographic distribution of such scholarships, fellowships, or grants (as the case may be) among the various regions of the United States, and (2) the extent to which the distribution of scholarships and fellowships to individuals reflects the cultural, racial, and ethnic diversity of the population of the United States.
+**(d) Distribution of assistance** In selecting the recipients for awards of scholarships, fellowships, or grants pursuant to this chapter, the Secretary or a contract organization referred to in subsection (a)(4), as the case may be, shall take into consideration (1) the extent to which the selections will result in there being an equitable geographic distribution of such scholarships, fellowships, or grants (as the case may be) among the various regions of the United States, and (2) the extent to which the distribution of scholarships and fellowships to individuals reflects the cultural, racial, and ethnic diversity of the population of the United States.
 
 **(e) Merit review** The Secretary shall award scholarships, fellowships, and grants under the program based upon a merit review process.
 
@@ -146,7 +146,7 @@ source: >-
 
 (2) Except as the Secretary determines necessary, an award recipient who receives instruction at the Center shall be subject to the same regulations with respect to attendance, discipline, discharge, and dismissal as apply to other persons attending the Center.
 
-(3) In this subsection, the term “award recipient” means an undergraduate student who has been awarded a scholarship under subsection (a)(1)(A) of this section or a graduate student who has been awarded a fellowship under subsection (a)(1)(B) of this section who—
+(3) In this subsection, the term “award recipient” means an undergraduate student who has been awarded a scholarship under subsection (a)(1)(A) or a graduate student who has been awarded a fellowship under subsection (a)(1)(B) who—
 
   (A) is in good standing;
 
@@ -158,13 +158,13 @@ source: >-
 
 (1) Under the National Flagship Language Initiative, institutions of higher education shall establish, operate, or improve activities designed to train students in programs in a range of disciplines to achieve advanced levels of proficiency in those foreign languages that the Secretary identifies as being the most critical in the interests of the national security of the United States.
 
-(2) An undergraduate student who has been awarded a scholarship under subsection (a)(1)(A) of this section or a graduate student who has been awarded a fellowship under subsection (a)(1)(B) of this section may participate in the activities carried out under the National Flagship Language Initiative.
+(2) An undergraduate student who has been awarded a scholarship under subsection (a)(1)(A) or a graduate student who has been awarded a fellowship under subsection (a)(1)(B) may participate in the activities carried out under the National Flagship Language Initiative.
 
-(3) An institution of higher education that receives a grant pursuant to subsection (a)(1)(D) of this section shall give special consideration to applicants who are employees of the Federal Government.
+(3) An institution of higher education that receives a grant pursuant to subsection (a)(1)(D) shall give special consideration to applicants who are employees of the Federal Government.
 
 (4) For purposes of this subsection, the Foreign Language Center of the Defense Language Institute and any other educational institution that provides training in foreign languages operated by the Department of Defense or an agency in the intelligence community is deemed to be an institution of higher education, and may carry out the types of activities permitted under the National Flagship Language Initiative.
 
-(5) An undergraduate or graduate student who participates in training in a program under paragraph (1) and has not already entered into a service agreement under subsection (b) of this section shall enter into a service agreement under subsection (b) of this section applicable to an undergraduate or graduate student, as the case may be, with respect to participation in such training in a program under paragraph (1).
+(5) An undergraduate or graduate student who participates in training in a program under paragraph (1) and has not already entered into a service agreement under subsection (b) shall enter into a service agreement under subsection (b) applicable to an undergraduate or graduate student, as the case may be, with respect to participation in such training in a program under paragraph (1).
 
 (6)
 
@@ -242,7 +242,7 @@ Subsecs. (h) to (j). Pub. L. 109–364, § 945(b), added subsec. (h) and redesig
 
 2004—Subsec. (a)(1)(E). Pub. L. 108–487, § 603(a)(1), added subpar. (E).
 
-Subsec. (a)(2). Pub. L. 108–487, § 603(a)(2), which directed the amendment of the matter following par. (2) by inserting in the first sentence “or for the scholarship program under paragraph (1)(E)” after “under paragraph (1)(D) for the National Flagship Language Initiative described in subsection (i) of this section” and by inserting at end “For the authorization of appropriations for the scholarship program under paragraph (1)(E), see [section 1912 of this title](./chapter-037-national-security-scholarships-fellowships-and-grants.md#section-1912).”, was executed to the concluding provisions of par. (2) to reflect the probable intent of Congress.
+Subsec. (a)(2). Pub. L. 108–487, § 603(a)(2), which directed the amendment of the matter following par. (2) by inserting in the first sentence “or for the scholarship program under paragraph (1)(E)” after “under paragraph (1)(D) for the National Flagship Language Initiative described in subsection (i)” and by inserting at end “For the authorization of appropriations for the scholarship program under paragraph (1)(E), see [section 1912 of this title](./chapter-037-national-security-scholarships-fellowships-and-grants.md#section-1912).”, was executed to the concluding provisions of par. (2) to reflect the probable intent of Congress.
 
 Pub. L. 108–487, § 601(b), in introductory provisions, inserted “or from a transfer under [section 1910(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1910/c&num=0&edition=prelim)” after “National Security Education Trust Fund”.
 
@@ -252,7 +252,7 @@ Subsecs. (i)(5), (6). Pub. L. 108–487, § 602(a)(1), added pars. (5) and (6).
 
 2002—Subsec. (a)(1)(D). Pub. L. 107–306, § 333(a)(1), added subpar. (D).
 
-Subsec. (a)(2). Pub. L. 107–306, § 333(a)(3), inserted at end “The funding allocation under this paragraph shall not apply to grants under paragraph (1)(D) for the National Flagship Language Initiative described in subsection (i) of this section. For the authorization of appropriations for the National Flagship Language Initiative, see [section 1911 of this title](./chapter-037-national-security-scholarships-fellowships-and-grants.md#section-1911).”
+Subsec. (a)(2). Pub. L. 107–306, § 333(a)(3), inserted at end “The funding allocation under this paragraph shall not apply to grants under paragraph (1)(D) for the National Flagship Language Initiative described in subsection (i). For the authorization of appropriations for the National Flagship Language Initiative, see [section 1911 of this title](./chapter-037-national-security-scholarships-fellowships-and-grants.md#section-1911).”
 
 Subsec. (b)(2)(A)(ii). Pub. L. 107–296, § 1332(b)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “if the recipient demonstrates to the Secretary (in accordance with such regulations) that no national security position is available, work in the field of higher education in a discipline relating to the foreign country, foreign language, area study, counterproliferation study, or international field of study for which the scholarship was awarded, for a period specified by the Secretary, which period shall be determined in accordance with clause (i); or”.
 
@@ -339,7 +339,7 @@ Pub. L. 108–487, title VI, § 602(d), Dec. 23, 2004, 118 Stat. 3953, provided 
 
 (9) Six individuals appointed by the President, who shall be experts in the fields of international, language, area, and counterproliferation studies education and who may not be officers or employees of the Federal Government.
 
-**(c) Term of appointees** Each individual appointed to the Board pursuant to subsection (b)(7) of this section shall be appointed for a period specified by the President at the time of the appointment, but not to exceed four years. Such individuals shall receive no compensation for service on the Board but may receive reimbursement for travel and other necessary expenses.
+**(c) Term of appointees** Each individual appointed to the Board pursuant to subsection (b)(7) shall be appointed for a period specified by the President at the time of the appointment, but not to exceed four years. Such individuals shall receive no compensation for service on the Board but may receive reimbursement for travel and other necessary expenses.
 
 **(d) Functions** The Board shall perform the following functions:
 
@@ -439,7 +439,7 @@ Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of 
 
 <a id="section-1904"></a>
 ## § 1904. National Security Education Trust Fund
-**(a) Establishment of Fund** There is established in the Treasury of the United States a trust fund to be known as the “National Security Education Trust Fund”. The assets of the Fund consist of amounts appropriated to the Fund and amounts credited to the Fund under subsection (e) of this section.
+**(a) Establishment of Fund** There is established in the Treasury of the United States a trust fund to be known as the “National Security Education Trust Fund”. The assets of the Fund consist of amounts appropriated to the Fund and amounts credited to the Fund under subsection (e).
 
 **(b) Availability of sums in Fund** Sums in the Fund shall, to the extent provided in appropriations Acts, be available—
 
@@ -518,7 +518,7 @@ Subsec. (e)(3). Pub. L. 103–160, § 375(a), added par. (3).
 
 **(c) Submission of initial report** The first report under this section shall be submitted at the time the budget for fiscal year 1994 is submitted to Congress.
 
-**(d) Consultation** During the preparation of each report required by subsection (a) of this section, the Secretary shall consult with the members of the Board specified in paragraphs (1) through (7) of section 1903(b) 11 See References in Text note below. of this title. Each such member shall submit to the Secretary an assessment of their hiring needs in the areas of language and area studies and a projection of the deficiencies in such areas. The Secretary shall include all assessments in the report required by subsection (a) of this section.
+**(d) Consultation** During the preparation of each report required by subsection (a), the Secretary shall consult with the members of the Board specified in paragraphs (1) through (7) of section 1903(b) 11 See References in Text note below. of this title. Each such member shall submit to the Secretary an assessment of their hiring needs in the areas of language and area studies and a projection of the deficiencies in such areas. The Secretary shall include all assessments in the report required by subsection (a).
 
 ### Statutory Notes
 
@@ -614,7 +614,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 ### Statutory Notes
 
 #### Amendments
-2004—Subsecs. (b), (c). Pub. L. 108–487 added subsecs. (b) and (c) and struck out heading and text of former subsec. (b). Text read as follows: “Amounts appropriated pursuant to the authorization of appropriations under subsection (a) of this section shall remain available until expended.”
+2004—Subsecs. (b), (c). Pub. L. 108–487 added subsecs. (b) and (c) and struck out heading and text of former subsec. (b). Text read as follows: “Amounts appropriated pursuant to the authorization of appropriations under subsection (a) shall remain available until expended.”
 
 #### Effective Date
 Section effective on the date the Secretary of Defense submits the report required under section 334 of Pub. L. 107–306 and notifies the appropriate committees of Congress that the programs carried out under this chapter are being managed in a fiscally and programmatically sound manner, see section 333(c) of Pub. L. 107–306, set out as an Effective Date of 2002 Amendment note under [section 1902 of this title](./chapter-037-national-security-scholarships-fellowships-and-grants.md#section-1902).
@@ -624,7 +624,7 @@ Section effective on the date the Secretary of Defense submits the report requir
 ## § 1912. Funding for scholarship program for advanced English language studies by heritage community citizens
 **(a) Funding from Intelligence Community Management Account** In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, the Director of National Intelligence shall transfer to the Secretary from amounts appropriated for the Intelligence Community Management Account for each fiscal year, beginning with fiscal year 2005, $2,000,000 to carry out the scholarship programs for English language studies by certain heritage community citizens under [section 1902(a)(1)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1902/a/1/E&num=0&edition=prelim).
 
-**(b) Availability of funds** Amounts made available under subsection (a) of this section shall remain available until expended.
+**(b) Availability of funds** Amounts made available under subsection (a) shall remain available until expended.
 
 
 <a id="section-1913"></a>

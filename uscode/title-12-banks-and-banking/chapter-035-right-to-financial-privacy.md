@@ -84,7 +84,7 @@ Par. (8). Pub. L. 101–73, § 941(1), redesignated par. (7) as (8).
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date
-Chapter (except for [section 3415 of this title](./chapter-035-right-to-financial-privacy.md#section-3415)) effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
 
 #### Short Title
 Pub. L. 95–630, title XI, § 1100, Nov. 10, 1978, 92 Stat. 3697, provided that: “This title [enacting this chapter] may be cited as the ‘Right to Financial Privacy Act of 1978’.”
@@ -104,6 +104,11 @@ Except as provided by section 3403(c) or (d), 3413, or 3414 of this title, no Go
 (4) such financial records are disclosed in response to a judicial subpena which meets the requirements of [section 3407 of this title](./chapter-035-right-to-financial-privacy.md#section-3407); or
 
 (5) such financial records are disclosed in response to a formal written request which meets the requirements of [section 3408 of this title](./chapter-035-right-to-financial-privacy.md#section-3408).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
 
 
 <a id="section-3403"></a>
@@ -126,6 +131,9 @@ Except as provided by section 3403(c) or (d), 3413, or 3414 of this title, no Go
 1988—Subsec. (c). Pub. L. 100–690 inserted “, corporation,” after “individual”.
 
 1986—Subsec. (c). Pub. L. 99–570 inserted provisions that the disclosure of only the name or other identifying information concerning any individual or account involved in and the nature of any suspected illegal activity is permitted notwithstanding any constitution, law, or regulation of any State or political subdivision thereof to the contrary, and any financial institutions, officers, agents, or employees thereof making such disclosure shall not be liable to the customer under any State constitution or any Federal, State, or local law or regulation for such disclosure or failure to notify the customer thereof.
+
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
 
 
 <a id="section-3404"></a>
@@ -151,6 +159,9 @@ Except as provided by section 3403(c) or (d), 3413, or 3414 of this title, no Go
 #### Amendments
 1979—Subsec. (d). Pub. L. 96–3 struck out subsec. (d) which had directed that all financial institutions promptly notify all of their customers of their rights under this chapter, that the Board of Governors of the Federal Reserve System prepare a statement of customers’ rights under this chapter, and that the supplying of such a statement to their customers by the financial institutions be deemed compliance with the notification requirement.
 
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
+
 
 <a id="section-3405"></a>
 ## § 3405. Administrative subpena and summons
@@ -168,6 +179,9 @@ A Government authority may obtain financial records under [section 3402(2) of th
 #### References in Text
 The Right to Financial Privacy Act of 1978, referred to in par. (2), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to this chapter (§ 3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of this title](./chapter-035-right-to-financial-privacy.md#section-3401) and Tables.
 
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
+
 
 <a id="section-3406"></a>
 ## § 3406. Search warrants
@@ -183,6 +197,9 @@ The Right to Financial Privacy Act of 1978, referred to in par. (2), is title XI
 The Federal Rules of Criminal Procedure, referred to in subsec. (a), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 The Right to Financial Privacy Act of 1978, referred to in subsecs. (b) and (c), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to this chapter (§ 3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of this title](./chapter-035-right-to-financial-privacy.md#section-3401) and Tables.
+
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
 
 
 <a id="section-3407"></a>
@@ -200,6 +217,9 @@ A Government authority may obtain financial records under [section 3402(4) of th
 
 #### References in Text
 The Right to Financial Privacy Act of 1978, referred to in par. (2), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to this chapter (§ 3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of this title](./chapter-035-right-to-financial-privacy.md#section-3401) and Tables.
+
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
 
 
 <a id="section-3408"></a>
@@ -224,6 +244,9 @@ A Government authority may request financial records under [section 3402(5) of t
 #### References in Text
 The Right to Financial Privacy Act of 1978, referred to in par. (4), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to this chapter (§ 3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of this title](./chapter-035-right-to-financial-privacy.md#section-3401) and Tables.
 
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
+
 
 <a id="section-3409"></a>
 ## § 3409. Delayed notice
@@ -246,9 +269,9 @@ The Right to Financial Privacy Act of 1978, referred to in par. (4), is title XI
   (E) otherwise seriously jeopardizing an investigation or official proceeding or unduly delaying a trial or ongoing official proceeding to the same extent as the circumstances in the preceeding 11 So in original. Probably should be “preceding”. subparagraphs.
 An application for delay must be made with reasonable specificity.
 
-**(b) Grant of delay order; duration and specifications; extensions; copy of request and notice to cus­tomer**
+**(b) Grant of delay order; duration and specifications; extensions; copy of request and notice to customer**
 
-(1) If the court makes the findings required in paragraphs (1), (2), and (3) of subsection (a), it shall enter an ex parte order granting the requested delay for a period not to exceed ninety days and an order prohibiting the financial institution from disclosing that records have been obtained or that a request for records has been made, except that, if the rec­ords have been sought by a Government authority exercising financial controls over foreign accounts in the United States under section 5(b) of the Trading with the Enemy Act [[12 U.S.C. 95a](./chapter-002-national-banks.md#section-95a), 50 U.S.C. App. 5(b)], the International Emergency Economic Powers Act (title II, Public Law 95–223) [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.], or [section 287c of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section287c&num=0&edition=prelim), and the court finds that there is reason to believe that such notice may endanger the lives or physical safety of a customer or group of customers, or any person or group of persons associated with a customer, the court may specify that the delay be indefinite.
+(1) If the court makes the findings required in paragraphs (1), (2), and (3) of subsection (a), it shall enter an ex parte order granting the requested delay for a period not to exceed ninety days and an order prohibiting the financial institution from disclosing that records have been obtained or that a request for records has been made, except that, if the records have been sought by a Government authority exercising financial controls over foreign accounts in the United States under [section 4305(b) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4305/b&num=0&edition=prelim), the International Emergency Economic Powers Act (title II, Public Law 95–223) [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.], or [section 287c of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section287c&num=0&edition=prelim), and the court finds that there is reason to believe that such notice may endanger the lives or physical safety of a customer or group of customers, or any person or group of persons associated with a customer, the court may specify that the delay be indefinite.
 
 (2) Extensions of the delay of notice provided in paragraph (1) of up to ninety days each may be granted by the court upon application, but only in accordance with this subsection.
 
@@ -267,6 +290,9 @@ The Right to Financial Privacy Act of 1978, referred to in subsecs. (b)(3) and (
 
 #### Change of Name
 In subsec. (a), “magistrate judge” substituted for “magistrate” pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
+
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
 
 
 <a id="section-3410"></a>
@@ -293,11 +319,19 @@ Service shall be made under this section upon a Government authority by deliveri
 #### References in Text
 Rule 5(b) of the Federal Rules of Civil Procedure, referred to in subsec. (a), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
+
 
 <a id="section-3411"></a>
 ## § 3411. Duty of financial institutions
 
 Upon receipt of a request for financial rec­ords made by a Government authority under section 3405 or 3407 of this title, the financial institution shall, unless otherwise provided by law, proceed to assemble the records requested and must be prepared to deliver the records to the Government authority upon receipt of the certificate required under [section 3403(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3403/b&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
 
 
 <a id="section-3412"></a>
@@ -373,6 +407,9 @@ Amendment by Pub. L. 107–56 applicable with respect to reports filed or record
 #### Effective Date of 1992 Amendment
 Amendment by section 1606(b) of Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under [section 191 of this title](./chapter-002-national-banks.md#section-191).
 
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
+
 
 <a id="section-3413"></a>
 ## § 3413. Exceptions
@@ -388,7 +425,7 @@ Amendment by section 1606(b) of Pub. L. 102–550 effective as if included in th
 
 **(f) Disclosure pursuant to administrative subpena issued by administrative law judge** Nothing in this chapter shall apply when financial records are sought by a Government authority pursuant to an administrative subpena issued by an administrative law judge in an adjudicatory proceeding subject to [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim) and to which the Government authority and the customer are parties.
 
-**(g) Disclosure pursuant to legitimate law enforcement inquiry respecting name, address, account number, and type of account of particular customers** The notice requirements of this chapter and sections 3410 and 3412 of this title shall not apply when a Government authority by a means described in [section 3402 of this title](./chapter-035-right-to-financial-privacy.md#section-3402) and for a legitimate law enforcement inquiry is seeking only the name, address, account number, and type of account of any customer or ascertainable group of customers associated (1) with a financial transaction or class of financial transactions, or (2) with a foreign country or subdivision thereof in the case of a Government authority exercising financial controls over foreign accounts in the United States under section 5(b) of the Trading with the Enemy Act [[12 U.S.C. 95a](./chapter-002-national-banks.md#section-95a), 50 U.S.C. App. 5(b)]; the International Emergency Economic Powers Act (title II, Public Law 95–223) [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.]; or [section 287c of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section287c&num=0&edition=prelim).
+**(g) Disclosure pursuant to legitimate law enforcement inquiry respecting name, address, account number, and type of account of particular customers** The notice requirements of this chapter and sections 3410 and 3412 of this title shall not apply when a Government authority by a means described in [section 3402 of this title](./chapter-035-right-to-financial-privacy.md#section-3402) and for a legitimate law enforcement inquiry is seeking only the name, address, account number, and type of account of any customer or ascertainable group of customers associated (1) with a financial transaction or class of financial transactions, or (2) with a foreign country or subdivision thereof in the case of a Government authority exercising financial controls over foreign accounts in the United States under [section 4305(b) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4305/b&num=0&edition=prelim); the International Emergency Economic Powers Act (title II, Public Law 95–223) [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.]; or [section 287c of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section287c&num=0&edition=prelim).
 
 **(h) Disclosure pursuant to lawful proceeding, investigation, etc., directed at financial institution or legal entity or consideration or administration respecting Government loans, loan guarantees, etc.**
 
@@ -513,6 +550,9 @@ Amendment by Pub. L. 105–264 effective Oct. 1, 1983, and applicable to any rec
 
 #### Effective Date of 1983 Amendment
 Amendment by Pub. L. 98–21 applicable to benefits received after Dec. 31, 1983, in taxable years ending after such date, except for any portion of a lump-sum payment of social security benefits received after Dec. 31, 1983, if the generally applicable payment date for such portion was before Jan. 1, 1984, see section 121(g) of Pub. L. 98–21, set out as an Effective Date note under [section 86 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section86&num=0&edition=prelim), Internal Revenue Code.
+
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
 
 
 <a id="section-3414"></a>
@@ -649,6 +689,9 @@ Pub. L. 109–178, Mar. 9, 2006, 120 Stat. 282, provided in part that: “This A
 #### Effective Date of 2001 Amendment
 Amendment by section 358(f)(2) of Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under [section 1829b of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1829b).
 
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
+
 #### Transfer of Functions
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -671,6 +714,11 @@ Pub. L. 95–630, title XI, § 1115(b), Nov. 10, 1978, 92 Stat. 3708, provided t
 ## § 3416. Jurisdiction
 
 An action to enforce any provision of this chapter may be brought in any appropriate United States district court without regard to the amount in controversy within three years from the date on which the violation occurs or the date of discovery of such violation, whichever is later.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
 
 
 <a id="section-3417"></a>
@@ -696,6 +744,9 @@ An action to enforce any provision of this chapter may be brought in any appropr
 #### Amendments
 1988—Subsec. (c). Pub. L. 100–690 inserted “or pursuant to the provisions of section 3413(l) of this title” after “Government authority” and “under this chapter, the constitution of any State, or any law or regulation of any State or any political subdivision of any State” after “such disclosure”.
 
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
+
 #### Transfer of Functions
 “Director of the Office of Personnel Management” and “Director” substituted in subsec. (b) for “Civil Service Commission” and “Commission” pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
 
@@ -705,11 +756,21 @@ An action to enforce any provision of this chapter may be brought in any appropr
 
 In addition to any other remedy contained in this chapter, injunctive relief shall be available to require that the procedures of this chapter are complied with. In the event of any successful action, costs together with reasonable attorney’s fees as determined by the court may be recovered.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
+
 
 <a id="section-3419"></a>
 ## § 3419. Suspension of limitations
 
 If any individual files a motion or application under this chapter which has the effect of delaying the access of a Government authority to financial records pertaining to such individual, any applicable statute of limitations shall be deemed to be tolled for the period extending from the date such motion or application was filed until the date upon which the motion or application is decided.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
 
 
 <a id="section-3420"></a>
@@ -756,6 +817,9 @@ The Controlled Substances Import and Export Act, referred to in subsec. (b)(1)(A
 #### Effective Date of 2001 Amendment
 Amendment by Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under [section 1829b of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1829b).
 
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
+
 
 <a id="section-3421"></a>
 ## § 3421. Repealed. Pub. L. 104–66, title III, § 3001(d), Dec. 21, 1995, 109 Stat. 734
@@ -780,3 +844,6 @@ The Securities Exchange Act of 1934, referred to in text, is act June 6, 1934, c
 
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–433 effective Nov. 10, 1980, see section 5(b) of Pub. L. 96–433, set out as a note under [section 78u of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78u&num=0&edition=prelim), Commerce and Trade.
+
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).

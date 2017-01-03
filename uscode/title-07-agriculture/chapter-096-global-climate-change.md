@@ -294,6 +294,8 @@ This chapter, referred to in text, was in the original “this title”, meaning
 ### Statutory Notes
 
 #### Codification
+Another section 9009 of Pub. L. 107–171 is classified to [section 8109 of this title](./chapter-107-renewable-energy-research-and-development.md#section-8109).
+
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Agricultural Risk Protection Act of 2000, and not as part of the Global Climate Change Prevention Act of 1990 which comprises this chapter.

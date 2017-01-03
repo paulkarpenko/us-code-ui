@@ -400,7 +400,7 @@ For purposes of this title,11 See References in Text note below. the following d
 
 (1) **Administrator** — The term “Administrator” means the Administrator of the Federal Emergency Management Agency.
 
-(2) **National flood insurance program** — The term “National Flood Insurance Program” means the program established under the National Flood Insurance Act of 1968 ([42 U.S.C. 4001](./chapter-050-national-flood-insurance.md#section-4001) et seq.).
+(2) **National Flood Insurance Program** — The term “National Flood Insurance Program” means the program established under the National Flood Insurance Act of 1968 ([42 U.S.C. 4001](./chapter-050-national-flood-insurance.md#section-4001) et seq.).
 
 ### Statutory Notes
 
@@ -441,7 +441,7 @@ The Administrator shall impose a surcharge on each insured of not more than $75 
 (1) appropriate financial participation and risk sharing in the program by insurance companies and other insurers, and
 
 (2) other appropriate participation, on other than a risk-sharing basis, by insurance companies and other insurers, insurance agents and brokers, and insurance adjustment organizations,
-in accordance with the provisions of subchapter II of this chapter.
+in accordance with the provisions of subchapter II.
 
 ### Statutory Notes
 
@@ -643,7 +643,41 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **(d) Escrow of flood insurance payments**
 
-(1) **Regulated lending institutions** — Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 [[42 U.S.C. 4001](./chapter-050-national-flood-insurance.md#section-4001) et seq.] for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed.
+(1) **Regulated lending institutions**
+
+  (A) *Federal entities responsible for lending regulations* — Each Federal entity for lending regulation (after consultation and coordination with the Federal Financial Institutions Examination Council) shall, by regulation, direct that all premiums and fees for flood insurance under the National Flood Insurance Act of 1968, for residential improved real estate or a mobile home, shall be paid to the regulated lending institution or servicer for any loan secured by the residential improved real estate or mobile home, with the same frequency as payments on the loan are made, for the duration of the loan. Except as provided in subparagraph (B), upon receipt of any premiums or fees, the regulated lending institution or servicer shall deposit such premiums and fees in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the flood insurance that insurance premiums are due, the premiums deposited in the escrow account shall be paid to the provider of the flood insurance.
+
+  (B) *Limitation* — Except as may be required under applicable State law, a Federal entity for lending regulation may not direct or require a regulated lending institution to deposit premiums or fees for flood insurance under the National Flood Insurance Act of 1968 in an escrow account on behalf of a borrower under subparagraph (A)—
+
+    (i) if—
+
+      (I) the regulated lending institution has total assets of less than $1,000,000,000; and
+
+      (II) on or before July 6, 2012, the regulated lending institution—
+
+        (aa) in the case of a loan secured by residential improved real estate or a mobile home, was not required under Federal or State law to deposit taxes, insurance premiums, fees, or any other charges in an escrow account for the entire term of the loan; and
+
+        (bb) did not have a policy of consistently and uniformly requiring the deposit of taxes, insurance premiums, fees, or any other charges in an escrow account for loans secured by residential improved real estate or a mobile home; or
+
+    (ii) in the case of a loan that—
+
+      (I) is in a junior or subordinate position to a senior lien secured by the same residential improved real estate or mobile home for which flood insurance is being provided at the time of the origination of the loan;
+
+      (II) is secured by residential improved real estate or a mobile home that is part of a condominium, cooperative, or other project development, if the residential improved real estate or mobile home is covered by a flood insurance policy that—
+
+        (aa) meets the requirements that the regulated lending institution is required to enforce under subsection (b)(1);
+
+        (bb) is provided by the condominium association, cooperative, homeowners association, or other applicable group; and
+
+        (cc) the premium for which is paid by the condominium association, cooperative, homeowners association, or other applicable group as a common expense;
+
+      (III) is secured by residential improved real estate or a mobile home that is used as collateral for a business purpose;
+
+      (IV) is a home equity line of credit;
+
+      (V) is a nonperforming loan; or
+
+      (VI) has a term of not longer than 12 months.
 
 (2) **Federal agency lenders** — Each Federal agency lender shall by regulation require and provide for escrow and payment of any flood insurance premiums and fees relating to residential improved real estate and mobile homes securing loans made by the Federal agency lender under the circumstances and in the manner provided under paragraph (1). Any regulations issued under this paragraph shall be consistent with and substantially identical to the regulations issued under paragraph (1).
 
@@ -736,51 +770,6 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 (2) **Purchaser or transferee fee** — The purchaser or transferee of such a loan may be charged the fee in the case of sale or transfer of the loan.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (d)(1)
-Pub. L. 112–141, div. F, title II, § 100209(a), July 6, 2012, 126 Stat. 920; Pub. L. 112–281, § 1, Jan. 14, 2013, 126 Stat. 2485; Pub. L. 113–89, § 25(a), (b)(1), Mar. 21, 2014, 128 Stat. 1030, provided that, applicable to any loan that is originated, refinanced, increased, extended, or renewed on or after Jan. 1, 2016, with provision for optional applicability, subsection (d)(1) of this section is amended to read as follows:
-
-(1) Regulated lending institutions
-
-(A) Federal entities responsible for lending regulations
-
-Each Federal entity for lending regulation (after consultation and coordination with the Federal Financial Institutions Examination Council) shall, by regulation, direct that all premiums and fees for flood insurance under the National Flood Insurance Act of 1968, for residential improved real estate or a mobile home, shall be paid to the regulated lending institution or servicer for any loan secured by the residential improved real estate or mobile home, with the same frequency as payments on the loan are made, for the duration of the loan. Except as provided in subparagraph (B), upon receipt of any premiums or fees, the regulated lending institution or servicer shall deposit such premiums and fees in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the flood insurance that insurance premiums are due, the premiums deposited in the escrow account shall be paid to the provider of the flood insurance.
-
-(B) Limitation
-
-Except as may be required under applicable State law, a Federal entity for lending regulation may not direct or require a regulated lending institution to deposit premiums or fees for flood insurance under the National Flood Insurance Act of 1968 in an escrow account on behalf of a borrower under subparagraph (A)—
-
-(i) if—
-
-(I) the regulated lending institution has total assets of less than $1,000,000,000; and
-
-(II) on or before July 6, 2012, the regulated lending institution—
-
-(aa) in the case of a loan secured by residential improved real estate or a mobile home, was not required under Federal or State law to deposit taxes, insurance premiums, fees, or any other charges in an escrow account for the entire term of the loan; and
-
-(bb) did not have a policy of consistently and uniformly requiring the deposit of taxes, insurance premiums, fees, or any other charges in an escrow account for loans secured by residential improved real estate or a mobile home; or
-
-(ii) in the case of a loan that—
-
-(I) is in a junior or subordinate position to a senior lien secured by the same residential improved real estate or mobile home for which flood insurance is being provided at the time of the origination of the loan;
-
-(II) is secured by residential improved real estate or a mobile home that is part of a condominium, cooperative, or other project development, if the residential improved real estate or mobile home is covered by a flood insurance policy that—
-
-(aa) meets the requirements that the regulated lending institution is required to enforce under subsection (b)(1);
-
-(bb) is provided by the condominium association, cooperative, homeowners association, or other applicable group; and
-
-(cc) the premium for which is paid by the condominium association, cooperative, homeowners association, or other applicable group as a common expense;
-
-(III) is secured by residential improved real estate or a mobile home that is used as collateral for a business purpose;
-
-(IV) is a home equity line of credit;
-
-(V) is a nonperforming loan; or
-
-(VI) has a term of not longer than 12 months.
-
-See 2012, 2013, and 2014 Amendment notes below.
 
 #### References in Text
 The National Flood Insurance Act of 1968, referred to in subsecs. (a), (b), (d)(1), and (e)(1), and the Act, referred to in subsec. (b), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to this chapter (§ 4001 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
@@ -1722,7 +1711,7 @@ Subsec. (e). Pub. L. 113–89, § 20, inserted “, on a calendar quarterly basi
 (1) a current schedule of operating costs applicable both to risk-sharing insurance companies and other insurers and to insurance companies and other insurers, insurance agents and brokers, and insurance adjustment organizations participating on other than a risk-sharing basis, and
 
 (2) a current schedule of operating allowances applicable to risk-sharing insurance companies and other insurers,
-which may be payable in accordance with the provisions of subchapter II of this chapter, and such schedules shall from time to time be prescribed in regulations.
+which may be payable in accordance with the provisions of subchapter II, and such schedules shall from time to time be prescribed in regulations.
 
 **(b)** For purposes of subsection (a) of this section—
 
@@ -2306,7 +2295,7 @@ Pub. L. 97–35, title III, § 341(d)(2), Aug. 13, 1981, 95 Stat. 419, relating 
 
 <a id="section-4041"></a>
 ## § 4041. Federal operation of program; determination by Administrator; fiscal agents; report to Congress
-**(a)** If at any time, after consultation with representatives of the insurance industry, the Administrator determines that operation of the flood insurance program as provided under part A cannot be carried out, or that such operation, in itself, would be assisted materially by the Federal Government’s assumption, in whole or in part, of the operational responsibility for flood insurance under this chapter (on a temporary or other basis) he shall promptly undertake any necessary arrangements to carry out the program of flood insurance authorized under subchapter I of this chapter through the facilities of the Federal Government, utilizing, for purposes of providing flood insurance coverage, either—
+**(a)** If at any time, after consultation with representatives of the insurance industry, the Administrator determines that operation of the flood insurance program as provided under part A cannot be carried out, or that such operation, in itself, would be assisted materially by the Federal Government’s assumption, in whole or in part, of the operational responsibility for flood insurance under this chapter (on a temporary or other basis) he shall promptly undertake any necessary arrangements to carry out the program of flood insurance authorized under subchapter I through the facilities of the Federal Government, utilizing, for purposes of providing flood insurance coverage, either—
 
 (1) insurance companies and other insurers, insurance agents and brokers, and insurance adjustment organizations, as fiscal agents of the United States,
 
@@ -2323,7 +2312,7 @@ Pub. L. 97–35, title III, § 341(d)(2), Aug. 13, 1981, 95 Stat. 419, relating 
 (3) indicate the extent to which it is anticipated that the insurance industry will be utilized in providing flood insurance coverage under the program, and
 
 (4) contain such recommendations as the Administrator deems advisable.
-The Administrator shall not implement the program of flood insurance authorized under subchapter I of this chapter through the facilities of the Federal Government until 9 months after the date of submission of the report under this subsection unless it would be impossible to continue to effectively carry out the National Flood Insurance Program operations during this time.
+The Administrator shall not implement the program of flood insurance authorized under subchapter I through the facilities of the Federal Government until 9 months after the date of submission of the report under this subsection unless it would be impossible to continue to effectively carry out the National Flood Insurance Program operations during this time.
 
 ### Statutory Notes
 
@@ -2457,7 +2446,7 @@ For definitions of terms used in this section, see [section 4005 of this title](
 <a id="section-4056"></a>
 ## § 4056. Implementation of program
 
-Following such consultation with representatives of the insurance industry as may be necessary, the Administrator shall implement the flood insurance program authorized under subchapter I of this chapter in accordance with the provisions of part A of this subchapter and, if a determination is made by him under [section 4071 of this title](./chapter-050-national-flood-insurance.md#section-4071), under part B of this subchapter.
+Following such consultation with representatives of the insurance industry as may be necessary, the Administrator shall implement the flood insurance program authorized under subchapter I in accordance with the provisions of part A of this subchapter and, if a determination is made by him under [section 4071 of this title](./chapter-050-national-flood-insurance.md#section-4071), under part B of this subchapter.
 
 ### Statutory Notes
 
@@ -2476,7 +2465,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 ## § 4057. Industry flood insurance pool; requirements for participation
 **(a)** The Administrator is authorized to encourage and otherwise assist any insurance companies and other insurers which meet the requirements prescribed under subsection (b) of this section to form, associate, or otherwise join together in a pool—
 
-(1) in order to provide the flood insurance coverage authorized under subchapter I of this chapter; and
+(1) in order to provide the flood insurance coverage authorized under subchapter I; and
 
 (2) for the purpose of assuming, including as reinsurance of coverage provided by the flood insurance program, on such terms and conditions as may be agreed upon, such financial responsibility as will enable such companies and other insurers, with the Federal financial and other assistance available under this chapter, to assume a reasonable proportion of responsibility for the adjustment and payment of claims for losses under the flood insurance program.
 
@@ -2613,7 +2602,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 <a id="section-4083"></a>
 ## § 4083. Emergency implementation of flood insurance program; applicability of other provisions of law
-**(a)** Notwithstanding any other provisions of this chapter, for the purpose of providing flood insurance coverage at the earliest possible time, the Administrator shall carry out the flood insurance program authorized under subchapter I of this chapter during the period ending on the date specified in [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026), in accordance with the provisions of this part and the other provisions of this chapter insofar as they relate to this part but subject to the modifications made by or under subsection (b) of this section.
+**(a)** Notwithstanding any other provisions of this chapter, for the purpose of providing flood insurance coverage at the earliest possible time, the Administrator shall carry out the flood insurance program authorized under subchapter I during the period ending on the date specified in [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026), in accordance with the provisions of this part and the other provisions of this chapter insofar as they relate to this part but subject to the modifications made by or under subsection (b) of this section.
 
 **(b)** In carrying out the flood insurance program pursuant to subsection (a) of this section, the Administrator—
 

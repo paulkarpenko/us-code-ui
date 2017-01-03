@@ -49,7 +49,7 @@ Pub. L. 102–530, § 1, Oct. 27, 1992, 106 Stat. 3465, provided that: “This A
 
 <a id="section-2503"></a>
 ## § 2503. Technical assistance
-**(a) In general** With funds appropriated to carry out this section, the Secretary shall make grants to community-based organizations to provide technical assistance to employers and labor unions selected under subsection (b) of this section. Such technical assistance may include—
+**(a) In general** With funds appropriated to carry out this section, the Secretary shall make grants to community-based organizations to provide technical assistance to employers and labor unions selected under subsection (b). Such technical assistance may include—
 
 (1) developing outreach and orientation sessions to recruit women into the employers’ apprenticeable occupations and nontraditional occupations;
 
@@ -65,7 +65,7 @@ Pub. L. 102–530, § 1, Oct. 27, 1992, 106 Stat. 3465, provided that: “This A
 
 (7) conducting exit interviews with tradeswomen to evaluate their on-the-job experience and to assess the effectiveness of the program.
 
-**(b) Selection of employer and labor unions** The Secretary shall select a total of 50 employers or labor unions to receive technical assistance provided with grants made under subsection (a) of this section.
+**(b) Selection of employer and labor unions** The Secretary shall select a total of 50 employers or labor unions to receive technical assistance provided with grants made under subsection (a).
 
 
 <a id="section-2504"></a>
@@ -125,7 +125,7 @@ The Department of Labor shall serve as a liaison among employers, labor unions, 
 
 (6) other relevant issues affecting the participation of women in apprenticeable occupations and nontraditional occupations.
 
-**(b) Report** Not later than 2 years after October 27, 1992, the Secretary shall submit to the Congress a report containing a summary of the results of the study described in subsection (a) of this section and such recommendations as the Secretary determines to be appropriate.
+**(b) Report** Not later than 2 years after October 27, 1992, the Secretary shall submit to the Congress a report containing a summary of the results of the study described in subsection (a) and such recommendations as the Secretary determines to be appropriate.
 
 
 <a id="section-2508"></a>
@@ -142,7 +142,7 @@ For purposes of this chapter:
 ### Statutory Notes
 
 #### References in Text
-Section 4(5) of the Job Training Partnership Act ([29 U.S.C. 1501(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1501/5&num=0&edition=prelim)), referred to in par. (1), was classified to [section 1503(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1503/5&num=0&edition=prelim) and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former [section 2940(b) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2940/b&num=0&edition=prelim), references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
+Section 4(5) of the Job Training Partnership Act ([29 U.S.C. 1501(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1501/5&num=0&edition=prelim)), referred to in par. (1), was classified to [section 1503(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1503/5&num=0&edition=prelim) and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former [section 2940(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2940/b&num=0&edition=prelim), references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to [section 3361(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
 
 <a id="section-2509"></a>

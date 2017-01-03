@@ -232,7 +232,7 @@ Pub. L. 100–579, § 1, Oct. 31, 1988, 102 Stat. 2916, and Pub. L. 100–690, t
 
 (40) Reduce significant visual impairment to a prevalence of no more than 30 per 1,000.
 
-**(c) Report** The Secretary shall submit to the President, for inclusion in each report required to be transmitted to the Congress under [section 11710 of this title](./chapter-122-native-hawaiian-health-care.md#section-11710), a report on the progress made in each area toward meeting each of the objectives described in subsection (b) of this section.
+**(c) Report** The Secretary shall submit to the President, for inclusion in each report required to be transmitted to the Congress under [section 11710 of this title](./chapter-122-native-hawaiian-health-care.md#section-11710), a report on the progress made in each area toward meeting each of the objectives described in subsection (b).
 
 ### Statutory Notes
 
@@ -249,7 +249,7 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections. The text of 
 ## § 11703. Comprehensive health care master plan for Native Hawaiians
 **(a) Development** The Secretary may make a grant to, or enter into a contract with, Papa Ola Lokahi for the purpose of coordinating, implementing and updating a Native Hawaiian comprehensive health care master plan designed to promote comprehensive health promotion and disease prevention services and to maintain and improve the health status of Native Hawaiians. The master plan shall be based upon an assessment of the health care status and health care needs of Native Hawaiians. To the extent practicable, assessments made as of the date of such grant or contract shall be used by Papa Ola Lokahi, except that any such assessment shall be updated as appropriate.
 
-**(b) Authorization of appropriations** There are authorized to be appropriated such sums as may be necessary to carry out subsection (a) of this section.
+**(b) Authorization of appropriations** There are authorized to be appropriated such sums as may be necessary to carry out subsection (a).
 
 ### Statutory Notes
 
@@ -317,11 +317,11 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted substantially identical sections
 
 (2) In addition to paragraph (1), the Secretary may make a grant to, or enter into a contract with, Papa Ola Lokahi for the purpose of planning Native Hawaiian health care systems to serve the health needs of Native Hawaiian communities on each of the islands of O’ahu, Moloka’i, Maui, Hawai’i, Lana’i, Kaua’i, and Ni’ihau in the State of Hawaii.
 
-**(b) Qualified entity** An entity is a qualified entity for purposes of subsection (a)(1) of this section if the entity is a Native Hawaiian health care system.
+**(b) Qualified entity** An entity is a qualified entity for purposes of subsection (a)(1) if the entity is a Native Hawaiian health care system.
 
 **(c) Services to be provided**
 
-(1) Each recipient of funds under subsection (a)(1) of this section shall provide the following services:
+(1) Each recipient of funds under subsection (a)(1) shall provide the following services:
 
   (A) outreach services to inform Native Hawaiians of the availability of health services;
 
@@ -337,7 +337,7 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted substantially identical sections
 
   (G) improvement of nutrition.
 
-(2) In addition to the mandatory services under paragraph (1), the following services may be provided pursuant to subsection (a)(1) of this section:
+(2) In addition to the mandatory services under paragraph (1), the following services may be provided pursuant to subsection (a)(1):
 
   (A) identification, treatment, control, and reduction of the incidence of preventable illnesses and conditions endemic to Native Hawaiians;
 
@@ -345,15 +345,15 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted substantially identical sections
 
   (C) services within the meaning of the terms “health promotion”, “disease prevention”, and “primary health services”, as such terms are defined in [section 11711 of this title](./chapter-122-native-hawaiian-health-care.md#section-11711), which are not specifically referred to in paragraph (1) of this subsection.
 
-(3) The health care services referred to in paragraphs (1) and (2) which are provided under grants or contracts under subsection (a)(1) of this section may be provided by traditional Native Hawaiian healers.
+(3) The health care services referred to in paragraphs (1) and (2) which are provided under grants or contracts under subsection (a)(1) may be provided by traditional Native Hawaiian healers.
 
-(4) **Health and education.—** — In order to enable privately funded organizations to continue to supplement public efforts to provide educational programs designed to improve the health, capability, and well-being of Native Hawaiians and to continue to provide health services to Native Hawaiians, notwithstanding any other provision of Federal or State law, it shall be lawful for the private educational organization identified in [section 7512(16) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7512/16&num=0&edition=prelim) to continue to offer its educational programs and services to Native Hawaiians (as defined in [section 7517 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7517&num=0&edition=prelim)) first and to others only after the need for such programs and services by Native Hawaiians has been met.
+(4) **Health and education.—** — In order to enable privately funded organizations to continue to supplement public efforts to provide educational programs designed to improve the health, capability, and well-being of Native Hawaiians and to continue to provide health services to Native Hawaiians, notwithstanding any other provision of Federal or State law, it shall be lawful for the private educational organization identified in [section 7512(16) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7512/16&num=0&edition=prelim) (as such section was in effect on the day before December 10, 2015) to continue to offer its educational programs and services to Native Hawaiians (as defined in [section 7517 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7517&num=0&edition=prelim)) first and to others only after the need for such programs and services by Native Hawaiians has been met.
 
 **(d) Limitation of number of entities** During a fiscal year, the Secretary under this chapter may make a grant to, or hold a contract with, not more than 5 Native Hawaiian health care systems.
 
 **(e) Matching funds**
 
-(1) The Secretary may not make a grant or provide funds pursuant to a contract under subsection (a)(1) of this section to a Native Hawaiian health care system—
+(1) The Secretary may not make a grant or provide funds pursuant to a contract under subsection (a)(1) to a Native Hawaiian health care system—
 
   (A) in an amount exceeding 83.3 percent of the costs of providing health services under the grant or contract; and
 
@@ -363,13 +363,13 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted substantially identical sections
 
 (3) The Secretary may waive the requirement established in paragraph (1) if—
 
-  (A) the Native Hawaiian health care system involved is a nonprofit private entity described in subsection (b) of this section; and
+  (A) the Native Hawaiian health care system involved is a nonprofit private entity described in subsection (b); and
 
   (B) the Secretary, in consultation with Papa Ola Lokahi, determines that it is not feasible for the Native Hawaiian health care system to comply with such requirement.
 
-**(f) Restriction on use of grant and contract funds** The Secretary may not make a grant to, or enter into a contract with, any entity under subsection (a)(1) of this section unless the entity agrees that, amounts received pursuant to such subsection will not, directly or through contract, be expended—
+**(f) Restriction on use of grant and contract funds** The Secretary may not make a grant to, or enter into a contract with, any entity under subsection (a)(1) unless the entity agrees that, amounts received pursuant to such subsection will not, directly or through contract, be expended—
 
-(1) for any purpose other than the purposes described in subsection (c) of this section;
+(1) for any purpose other than the purposes described in subsection (c);
 
 (2) to provide inpatient services;
 
@@ -377,7 +377,7 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted substantially identical sections
 
 (4) to purchase or improve real property (other than minor remodeling of existing improvements to real property) or to purchase major medical equipment.
 
-**(g) Limitation on charges for services** The Secretary may not make a grant, or enter into a contract with, any entity under subsection (a)(1) of this section unless the entity agrees that, whether health services are provided directly or through contract—
+**(g) Limitation on charges for services** The Secretary may not make a grant, or enter into a contract with, any entity under subsection (a)(1) unless the entity agrees that, whether health services are provided directly or through contract—
 
 (1) health services under the grant or contract will be provided without regard to ability to pay for the health services; and
 
@@ -389,11 +389,14 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted substantially identical sections
 
 **(h) Authorization of appropriations**
 
-(1) There are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 2019 to carry out subsection (a)(1) of this section.
+(1) There are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 2019 to carry out subsection (a)(1).
 
-(2) There are authorized to be appropriated such sums as may be necessary to carry out subsection (a)(2) of this section.
+(2) There are authorized to be appropriated such sums as may be necessary to carry out subsection (a)(2).
 
 ### Statutory Notes
+
+#### References in Text
+[Section 7512(16) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7512/16&num=0&edition=prelim) (as such section was in effect on the day before December 10, 2015), referred to in subsec. (c)(4), means [section 7512(16) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7512/16&num=0&edition=prelim) prior to amendment by Pub. L. 114–95, title VI, §§ 6001(a), (b)(1), 6003(a), Dec. 10, 2015, 129 Stat. 2046, 2063.
 
 #### Codification
 Amendments by Pub. L. 111–148 are based on section 202(a), (b)(1), of title II of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -403,11 +406,16 @@ The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress
 Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections. The text of this section is based on section 6 of Pub. L. 100–579, as subsequently amended.
 
 #### Amendments
+2015—Subsec. (c)(4). Pub. L. 114–95 substituted “private educational organization identified in [section 7512(16) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7512/16&num=0&edition=prelim) (as such section was in effect on the day before December 10, 2015) to continue to offer its educational programs and services to Native Hawaiians (as defined in [section 7517 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7517&num=0&edition=prelim)) first and to others” for “private educational organization identified in [section 7512(16) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7512/16&num=0&edition=prelim) to continue to offer its educational programs and services to Native Hawaiians (as defined in [section 7517 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7517&num=0&edition=prelim)) first and to others”.
+
 2010—Subsec. (c)(4). Pub. L. 111–148, which directed the amendment of section 6(c) of the Native Hawaiian Health Care Act of 1988 by adding par. (4), was executed by making the amendment to this section, which is section 6 of the Native Hawaiian Health Care Improvement Act, to reflect the probable intent of Congress.
 
 Subsec. (h)(1). Pub. L. 111–148, which directed the amendment of section 6(h)(1) of the Native Hawaiian Health Care Act of 1988 by substituting “2019” for “2001”, was executed by making the amendment to this section, which is section 6 of the Native Hawaiian Health Care Improvement Act, to reflect the probable intent of Congress.
 
 1992—Pub. L. 102–396 amended section generally. Prior to amendment, section related to administration of grants and contracts.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date of 2010 Amendment
 Section 202(b)(2) of title II of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935, provided that: “The amendment made by paragraph (1) [amending this section] takes effect on December 5, 2006.”
@@ -437,7 +445,7 @@ Section 202(b)(2) of title II of S. 1790, One Hundred Eleventh Congress, as repo
 
 (7) the administration of special project funds.
 
-**(b) Authorization of appropriations** There are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 2019 to carry out subsection (a) of this section.
+**(b) Authorization of appropriations** There are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 2019 to carry out subsection (a).
 
 ### Statutory Notes
 
@@ -534,7 +542,7 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted substantially identical sections
 ## § 11708. Assignment of personnel
 **(a) In general** The Secretary is authorized to enter into an agreement with any entity under which the Secretary is authorized to assign personnel of the Department of Health and Human Services with expertise identified by such entity to such entity on detail for the purposes of providing comprehensive health promotion and disease prevention services to Native Hawaiians.
 
-**(b) Applicable Federal personnel provisions** Any assignment of personnel made by the Secretary under any agreement entered into under the authority of subsection (a) of this section shall be treated as an assignment of Federal personnel to a local government that is made in accordance with subchapter VI of chapter 33 of title 5.
+**(b) Applicable Federal personnel provisions** Any assignment of personnel made by the Secretary under any agreement entered into under the authority of subsection (a) shall be treated as an assignment of Federal personnel to a local government that is made in accordance with subchapter VI of chapter 33 of title 5.
 
 ### Statutory Notes
 

@@ -29,7 +29,7 @@ Therefore, labor organizations and collective bargaining in the civil service ar
 A prior section 7101, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523; Pub. L. 91–375, § 6(c)(19), Aug. 12, 1970, 84 Stat. 776, related to right of postal employees to organize, prior to the general amendment of this chapter by Pub. L. 94–454.
 
 #### Effective Date
-Chapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 #### Short Title
 This chapter is popularly known as the “Federal Service Labor-Management Relations Act”.
@@ -493,9 +493,16 @@ Sec. 5. General Provisions.
 Barack Obama.
 
 #### Extension of Term of National Council on Federal Labor-Management Relations
-Term of National Council on Federal Labor-Management Relations extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of National Council on Federal Labor-Management Relations extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of National Council on Federal Labor-Management Relations extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Previous extensions of term of National Council on Federal Labor-Management Relations were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
+
+Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 2013.
+
+#### Extension of Term of U.S. General Services Administration Labor-Management Relations Council
+Term of U.S. General Services Administration Labor-Management Relations Council extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 
 <a id="section-7102"></a>
@@ -511,6 +518,9 @@ Each employee shall have the right to form, join, or assist any labor organizati
 
 #### Prior Provisions
 A prior section 7102, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523, related to right of employees to petition Congress, prior to the general amendment of this chapter by Pub. L. 95–454. See [section 7211 of this title](./chapter-072-antidiscrimination-right-to-petition-congress.md#section-7211).
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 #### Partial Suspension of Federal Service Labor-Management Relations
 Par. (2) of this section suspended with respect to any matter proposed for bargaining which would substantially impair the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(b) of Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under [section 7103 of this title](./chapter-071-labor-management-relations.md#section-7103).
@@ -675,6 +685,9 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1635 of Pub. 
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim), Foreign Relations and Intercourse.
 
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
 #### Transfer of Functions
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -682,7 +695,7 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
 #### Ex. Ord. No. 12171. Exclusions From Coverage of Program
-Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, § 5(b), June 27, 2005, 70 F.R. 37955; Ex. Ord. No. 13467, § 3(d), June 30, 2008, 73 F.R. 38107; Ex. Ord. No. 13480, §§ 2–6, Nov. 26, 2008, 73 F.R. 73991, 73992, provided:
+Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, § 5(b), June 27, 2005, 70 F.R. 37955; Ex. Ord. No. 13467, § 3(d), June 30, 2008, 73 F.R. 38107; Ex. Ord. No. 13480, §§ 2–6, Nov. 26, 2008, 73 F.R. 73991, 73992; Ex. Ord. No. 13741, § 3, Sept. 29, 2016, 81 F.R. 68291, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including [Section 7103(b) of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7103/b&num=0&edition=prelim) of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
@@ -938,10 +951,20 @@ b. The Office of Special Operations, the Threat Analysis Group, the Enforcement 
 
 1–215. The Defense Mapping Agency Reston Center, Department of Defense.
 
-1–216. The Federal Investigative Services Division., [sic] Office of Personnel Management.
+1–216. Agencies or subdivisions of the Office of Personnel Management:
+
+(a) The Federal Investigative Services.
+
+(b) The National Background Investigations Bureau.
+
+(c) Units with a primary Suitability Executive Agent mission, including adjudicating suitability investigations and conducting related policy, advisory services, operations support, and agency oversight.
+
+(d) Units with a primary mission of engineering, information technology, and cybersecurity support for personnel background investigations and adjudications.
 
 #### 1–3. Units Outside the 50 States and the District of Columbia
 1–301. The Drug Enforcement Administration, Department of Justice.
+
+[Ex. Ord. No. 13741, § 3, which directed amendment of section 1–216 of Ex. Ord. No. 12171, set out above, by substituting “Agencies or subdivisions of the Office of Personnel Management:” and subsections (a) to (d) for “The Federal Investigative Services Division”, was executed by making the substitution for “The Federal Investigative Services Division., Office of Personnel Management.”]
 
 #### Ex. Ord. No. 12391. Partial Suspension of Federal Service Labor-Management Relations
 Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, provided:
@@ -1038,6 +1061,9 @@ George W. Bush.
 
 Subsec. (c). Pub. L. 98–224, § 3(b), substituted provision that a member of Authority be appointed for a term of 5 years and an individual chosen to fill a vacancy be appointed for unexpired term of member replaced for provision that one original member of Authority be appointed for a term of 1 year, one for a term of 3 years, and Chairman for a term of 5 years, and thereafter each member be appointed for a term of 5 years.
 
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsection (e) of this section relating to transmittal to Congress of an annual report on cases heard and decisions rendered, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 171 of House Document No. 103–7.
 
@@ -1120,6 +1146,9 @@ the action shall become the action of the Authority at the end of such 60-day pe
 
 ### Statutory Notes
 
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
 #### Partial Suspension of Federal Service Labor-Management Relations
 Subsec. (a)(2)(D), (E), (G), and (H) of this section suspended with respect to any matter which substantially impairs the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(a) of Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under [section 7103 of this title](./chapter-071-labor-management-relations.md#section-7103).
 
@@ -1151,6 +1180,11 @@ Subsec. (a)(2)(D), (E), (G), and (H) of this section suspended with respect to a
 (2) procedures which management officials of the agency will observe in exercising any authority under this section; or
 
 (3) appropriate arrangements for employees adversely affected by the exercise of any authority under this section by such management officials.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 
 <a id="section-7111"></a>
@@ -1202,6 +1236,11 @@ In any election in which no choice on the ballot receives a majority of the vote
 
 **(g)** Nothing in this section shall be construed to prohibit the waiving of hearings by stipulation for the purpose of a consent election in conformity with regulations and rules or decisions of the Authority.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
 
 <a id="section-7112"></a>
 ## § 7112. Determination of appropriate units for labor organization representation
@@ -1236,6 +1275,9 @@ In any election in which no choice on the ballot receives a majority of the vote
 #### Amendments
 1992—Subsec. (a). Pub. L. 102–378 struck out “(1)” after subsec. (a) designation.
 
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
 
 <a id="section-7113"></a>
 ## § 7113. National consultation rights
@@ -1261,6 +1303,9 @@ In any election in which no choice on the ballot receives a majority of the vote
 
 #### Amendments
 1992—Subsec. (a). Pub. L. 102–378 struck out “(1)” after subsec. (a) designation.
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 
 <a id="section-7114"></a>
@@ -1320,6 +1365,9 @@ In any election in which no choice on the ballot receives a majority of the vote
 
 ### Statutory Notes
 
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
 #### Partial Suspension of Federal Service Labor-Management Relations
 Subsec. (a)(1) and (4) of this section suspended with respect to any matter proposed for bargaining which would substantially impair the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(b) of Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under [section 7103 of this title](./chapter-071-labor-management-relations.md#section-7103).
 
@@ -1343,6 +1391,11 @@ Subsec. (a)(1) and (4) of this section suspended with respect to any matter prop
   (A) The provisions of paragraph (1) of this subsection shall not apply in the case of any appropriate unit for which there is an exclusive representative.
 
   (B) Any agreement under paragraph (1) of this subsection between a labor organization and an agency with respect to an appropriate unit shall be null and void upon the certification of an exclusive representative of the unit.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 
 <a id="section-7116"></a>
@@ -1407,6 +1460,9 @@ This subsection does not preclude any labor organization from enforcing discipli
 shall not, if the expression contains no threat of reprisal or force or promise of benefit or was not made under coercive conditions, (A) constitute an unfair labor practice under any provision of this chapter, or (B) constitute grounds for the setting aside of any election conducted under any provisions of this chapter.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 #### Partial Suspension of Federal Service Labor-Management Relations
 Subsec. (a)(5) of this section suspended with respect to any matter proposed for bargaining which would substantially impair the implementation by the United States Forces, and subsec. (a)(7) of this section suspended with regard to any regulation governing the implementation by the United States Forces, of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(b), (c) of Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under [section 7103 of this title](./chapter-071-labor-management-relations.md#section-7103).
@@ -1480,6 +1536,9 @@ Subsec. (a)(5) of this section suspended with respect to any matter proposed for
 
 ### Statutory Notes
 
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
 #### Partial Suspension of Federal Service Labor-Management Relations
 Subsec. (b) of this section suspended with regard to any regulation governing the implementation by the United States Forces, and subsec. (c) of this section suspended with respect to any matter proposed for bargaining which would substantially impair the implementation by the United States Forces, of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(b), (c) of Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under [section 7103 of this title](./chapter-071-labor-management-relations.md#section-7103).
 
@@ -1530,6 +1589,11 @@ Subsec. (b) of this section suspended with regard to any regulation governing th
 
 **(b)** In connection with any matter before the Authority in any proceeding under this section, the Authority may request, in accordance with the provisions of [section 7105(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7105/i&num=0&edition=prelim), from the Director of the Office of Personnel Management an advisory opinion concerning the proper interpretation of rules, regulations, or other policy directives issued by the Office of Personnel Management.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
 
 <a id="section-7119"></a>
 ## § 7119. Negotiation impasses; Federal Service Impasses Panel
@@ -1574,6 +1638,9 @@ Subsec. (b) of this section suspended with regard to any regulation governing th
 #### References in Text
 The General Schedule, referred to in subsec. (c)(4), is set out under [section 5332 of this title](./chapter-053-pay-rates-and-systems.md#section-5332).
 
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
 
 <a id="section-7120"></a>
 ## § 7120. Standards of conduct for labor organizations
@@ -1604,6 +1671,11 @@ The General Schedule, referred to in subsec. (c)(4), is set out under [section 5
 (1) revoke the exclusive recognition status of the labor organization, which shall then immediately cease to be legally entitled and obligated to represent employees in the unit; or
 
 (2) take any other appropriate disciplinary action.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 
 <a id="section-7121"></a>
@@ -1697,6 +1769,9 @@ Subsec. (b). Pub. L. 103–424, § 9(a), designated existing provisions as par. 
 
 Subsec. (g). Pub. L. 103–424, § 9(b), added subsec. (g).
 
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
 #### Partial Suspension of Federal Service Labor-Management Relations
 Subsec. (b)(3)(C) of this section suspended with respect to any grievance involving the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(d) of Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under [section 7103 of this title](./chapter-071-labor-management-relations.md#section-7103).
 
@@ -1717,6 +1792,9 @@ the Authority may take such action and make such recommendations concerning the 
 #### Amendments
 1984—Subsec. (b). Pub. L. 98–224 amended subsec. (b) generally, substituting “beginning on the date the award is served on the party” for “beginning on the date of such award”.
 
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
 
 <a id="section-7123"></a>
 ## § 7123. Judicial review; enforcement
@@ -1734,6 +1812,9 @@ may, during the 60-day period beginning on the date on which the order was issue
 **(d)** The Authority may, upon issuance of a complaint as provided in [section 7118 of this title](./chapter-071-labor-management-relations.md#section-7118) charging that any person has engaged in or is engaging in an unfair labor practice, petition any United States district court within any district in which the unfair labor practice in question is alleged to have occurred or in which such person resides or transacts business for appropriate temporary relief (including a restraining order). Upon the filing of the petition, the court shall cause notice thereof to be served upon the person, and thereupon shall have jurisdiction to grant any temporary relief (including a temporary restraining order) it considers just and proper. A court shall not grant any temporary relief under this section if it would interfere with the ability of the agency to carry out its essential functions or if the Authority fails to establish probable cause that an unfair labor practice is being committed.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 #### Partial Suspension of Federal Service Labor-Management Relations
 Subsec. (b) of this section suspended with respect to any matter which substantially impairs the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation, see section 1(a) of Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, set out as a note under [section 7103 of this title](./chapter-071-labor-management-relations.md#section-7103).
@@ -1754,6 +1835,11 @@ Subsec. (b) of this section suspended with respect to any matter which substanti
 (2) in connection with any other matter covered by this chapter, any employee in an appropriate unit represented by an exclusive representative,
 shall be granted official time in any amount the agency and the exclusive representative involved agree to be reasonable, necessary, and in the public interest.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
 
 <a id="section-7132"></a>
 ## § 7132. Subpenas
@@ -1768,6 +1854,11 @@ No subpena shall be issued under this section which requires the disclosure of i
 
 **(c)** Witnesses (whether appearing voluntarily or under subpena) shall be paid the same fee and mileage allowances which are paid subpenaed witnesses in the courts of the United States.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
 
 <a id="section-7133"></a>
 ## § 7133. Compilation and publication of data
@@ -1775,11 +1866,21 @@ No subpena shall be issued under this section which requires the disclosure of i
 
 **(b)** All files maintained under subsection (a) of this section shall be open to inspection and reproduction in accordance with the provisions of sections 552 and 552a of this title.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
 
 <a id="section-7134"></a>
 ## § 7134. Regulations
 
 The Authority, the General Counsel, the Federal Mediation and Conciliation Service, the Assistant Secretary of Labor for Labor Management Relations, and the Panel shall each prescribe rules and regulations to carry out the provisions of this chapter applicable to each of them, respectively. Provisions of subchapter II of chapter 5 of this title shall be applicable to the issuance, revision, or repeal of any such rule or regulation.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 
 <a id="section-7135"></a>
@@ -1800,6 +1901,9 @@ For the effective date of this chapter, referred to in text, as 90 days after th
 Executive Orders 11491, 11616, 11636, and 11838, referred to in subsec. (b), are set out as notes under [section 7101 of this title](./chapter-071-labor-management-relations.md#section-7101).
 
 Executive Order 11787, referred to in subsec. (b), which was set out as a note under [section 7701 of this title](./chapter-077-appeals.md#section-7701), was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 
 <a id="section-7151-to-7154"></a>

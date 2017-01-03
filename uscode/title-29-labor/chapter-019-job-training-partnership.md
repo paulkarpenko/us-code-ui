@@ -50,7 +50,7 @@ Section 1504, Pub. L. 97–300, title VI, § 604, formerly title V, § 504, Oct.
 Section 1505, Pub. L. 97–300, title VI, § 605, formerly title V, § 505, as added Pub. L. 100–418, title VI, § 6307(a), Aug. 23, 1988, 102 Stat. 1541; renumbered title VI, § 505, Pub. L. 100–628, title VII, § 712(a)(1), Nov. 7, 1988, 102 Stat. 3248; renumbered § 605, Pub. L. 102–367, title VII, § 702(a)(20), Sept. 7, 1992, 106 Stat. 1113, related to State job bank systems.
 
 #### Effective Date of Repeal
-Pub. L. 105–220, title I, § 199(c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, which provided that the repeal made by subsection (b)(2) [repealing this chapter and provisions set out as a note under [section 801 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section801&num=0&edition=prelim)] would take effect on July 1, 2000, was repealed by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705.
+Pub. L. 105–220, title I, § 199(c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, which provided that the repeal made by subsection (b)(2) (repealing this chapter and provisions set out as a note under [section 801 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section801&num=0&edition=prelim)) would take effect on July 1, 2000, was repealed by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705.
 
 #### Short Title of 1992 Amendment
 Pub. L. 102–367, § 1, Sept. 7, 1992, 106 Stat. 1021, provided that: “This Act [enacting sections 1519, 1601 to 1606, 1630 to 1635, 1641 to 1646, 1673, 1734, 1735, 1782 to 1784b, and 1792 to 1792b of this title, amending sections 1501 to 1503, 1505, 1511, 1512, 1514 to 1518, 1531 to 1535, 1551 to 1554, 1571, 1572, 1574 to 1577, 1580, 1583, 1652, 1661, 1661c, 1661d, 1662a, 1662c, 1662e, 1671, 1672, 1693, 1696 to 1698, 1703, 1703a, 1706, 1707, 1731 to 1733, 1737, 1752 to 1754, 1772, 1773, 1781, and 1791 to 1791h of this title, [section 2014 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2014&num=0&edition=prelim), Agriculture, and sections 1205a and 2322 of Title 20, Education, repealing sections 1591, 1601 to 1605, 1630 to 1634, and 1734 to 1736 of this title, omitting sections 1791i and 1791j of this title, and enacting provisions set out as notes under sections 1501, 1602, and 1642 of this title] may be cited as the ‘Job Training Reform Amendments of 1992’.”
@@ -76,7 +76,7 @@ Pub. L. 97–300, § 1, Oct. 13, 1982, 96 Stat. 1322, which provided that Pub. L
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 101–649, title VIII, § 801, Nov. 29, 1990, 104 Stat. 5087, which related to educational assistance and training, was transferred to [section 2920 of this title](./chapter-030-workforce-investment-systems.md#section-2920), prior to transfer to [section 3293 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3293).
+Section, Pub. L. 101–649, title VIII, § 801, Nov. 29, 1990, 104 Stat. 5087, which related to educational assistance and training, was transferred to [section 2920 of this title](./chapter-030-workforce-investment-systems.md#section-2920), and subsequently transferred to [section 3293 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3293).
 
 
 <a id="section-1551-to-1555"></a>

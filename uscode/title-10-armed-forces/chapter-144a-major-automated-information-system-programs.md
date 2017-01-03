@@ -38,6 +38,9 @@ source: >-
 
 ### Statutory Notes
 
+#### Repeal of Section
+For repeal of section by section 846 of Pub. L. 114–328, see Effective Date of Repeal note below.
+
 #### Amendments
 2013—Subsec. (g). Pub. L. 113–66 added subsec. (g).
 
@@ -49,8 +52,14 @@ Subsec. (a). Pub. L. 110–417, § 812(a)(1)(A), substituted “Major Automated 
 
 Subsec. (d). Pub. L. 110–417, § 812(a)(1)(B), added subsec. (d).
 
+#### Effective Date of Repeal
+Pub. L. 114–328, div. A, title VIII, § 846, Dec. 23, 2016, 130 Stat. 2292, provided in part that, effective Sept. 30, 2017, this section is repealed.
+
 #### Effective Date
 Pub. L. 109–364, div. A, title VIII, § 816(c), Oct. 17, 2006, 120 Stat. 2326, provided that: “(1) In general.—The amendments made by subsection (a) [enacting this chapter] shall take effect on January 1, 2008, and shall apply with respect to any major automated information system program for which amounts are requested in the budget of the President (as submitted to Congress under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code) for a fiscal year after fiscal year 2008, regardless of whether the acquisition of the automated information system to be acquired under the program was initiated before, on, or after January 1, 2008. “(2) Report requirement.—Subsection (b) [120 Stat. 2326] shall take effect on the date of the enactment of this Act [Oct. 17, 2006].”
+
+#### Science and Technology Activities To Support Business Systems Information Technology Acquisition Programs
+Pub. L. 114–92, div. A, title II, § 217, Nov. 25, 2015, 129 Stat. 770, provided that: “(a) In General.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Deputy Chief Management Officer, and the Chief Information Officer, shall establish a set of science, technology, and innovation activities to improve the acquisition outcomes of major automated information systems through improved performance and reduced developmental and life cycle costs. “(b) Execution of Activities.—The activities established under subsection (a) shall be carried out by such military departments and Defense Agencies as the Under Secretary and the Deputy Chief Management Officer consider appropriate. “(c) Activities.—“(1) In general.—The set of activities established under subsection (a) may include the following:“(A) Development of capabilities in Department of Defense laboratories, test centers, and federally funded research and development centers to provide technical support for acquisition program management and business process re-engineering activities. “(B) Funding of intramural and extramural research and development activities as described in subsection (e). “(2) Current activities.—The Secretary shall identify the current activities described in subparagraphs (A) and (B) of paragraph (1) that are being carried out as of the date of the enactment of this Act [Nov. 25, 2015]. The Secretary shall consider such current activities in determining the set of activities to establish pursuant to subsection (a). “(d) Gap Analysis.—In establishing the set of activities under subsection (a), not later than 270 days after the date of the enactment of this Act [Nov. 25, 2015], the Secretary, in coordination with the Secretaries of the military departments and the heads of the Defense Agencies, shall conduct a gap analysis to identify activities that are not, as of such date, being pursued in the current science and technology program of the Department. The Secretary shall use such analysis in determining—“(1) the set of activities to establish pursuant to subsection (a) that carry out the purposes specified in subsection (c)(1); and “(2) the proposed funding requirements and timelines. “(e) Funding of Intramural and Extramural Research and Development.—“(1) In general.—In carrying out the set of activities required by subsection (a), the Secretary may award grants or contracts to eligible entities to carry out intramural or extramural research and development in areas of interest described in paragraph (3). “(2) Eligible entities.—For purposes of this subsection, an eligible entity includes the following:“(A) Entities in the defense industry. “(B) Institutions of higher education. “(C) Small businesses. “(D) Nontraditional defense contractors (as defined in [section 2302 of title 10](./chapter-137-procurement-generally.md#section-2302), United States Code). “(E) Federally funded research and development centers, primarily for the purpose of improving technical expertise to support acquisition efforts. “(F) Nonprofit research institutions. “(G) Government laboratories and test centers, primarily for the purpose of improving technical expertise to support acquisition efforts. “(3) Areas of interest.—The areas of interest described in this paragraph are the following:“(A) Management innovation, including personnel and financial management policy innovation. “(B) Business process re-engineering. “(C) Systems engineering of information technology business systems. “(D) Cloud computing to support business systems and business processes. “(E) Software development, including systems and techniques to limit unique interfaces and simplify processes to customize commercial software to meet the needs of the Department of Defense. “(F) Hardware development, including systems and techniques to limit unique interfaces and simplify processes to customize commercial hardware to meet the needs of the Department of Defense. “(G) Development of methodologies and tools to support development and operational test of large and complex business systems. “(H) Analysis tools to allow decision-makers to make tradeoffs between requirements, costs, technical risks, and schedule in major automated information system acquisition programs. “(I) Information security in major automated information system systems. “(J) Innovative acquisition policies and practices to streamline acquisition of information technology systems. “(K) Such other areas as the Secretary considers appropriate. “(f) Priorities.—“(1) In general.—In carrying out the set of activities required by subsection (a), the Secretary shall give priority to—“(A) projects that—“(i) address the innovation and technology needs of the Department of Defense; and “(ii) support activities of initiatives, programs, and offices identified by the Under Secretary and Deputy Chief Management Officer; and “(B) the projects and programs identified in paragraph (2). “(2) Projects and programs identified.—The projects and programs identified in this paragraph are the following:“(A) Major automated information system programs. “(B) Projects and programs under the oversight of the Deputy Chief Management Officer. “(C) Projects and programs relating to defense procurement acquisition policy. “(D) Projects and programs of the agencies and field activities of the Office of the Secretary of Defense that support business missions such as finance, human resources, security, management, logistics, and contract management. “(E) Military and civilian personnel policy development for information technology workforce.”
 
 
 <a id="section-2445b"></a>
@@ -91,11 +100,18 @@ Pub. L. 109–364, div. A, title VIII, § 816(c), Oct. 17, 2006, 120 Stat. 2326,
 
 (3) In the event of an adjustment or revision to the original estimate or information originally submitted on a program under paragraph (2), the Secretary of Defense shall include in the next budget justification documents submitted under subsection (a) after such adjustment or revision a notification to the congressional defense committees of such adjustment or revision, together with the reasons for such adjustment or revision.
 
-**(d) Elements Regarding Other Major Information Technology Investment Programs.—** With respect to each other major information technology investment program, the information required by subsection (a) may be provided in the format that is most appropriate to the current status of the program.
+**(d) Time-certain Development.—** If an adjustment or revision under subsection (c) for a major automated information system that is not a national security system provides for a period in excess of five years from the time of program initiation to the time of a full deployment decision, the documents submitted under subsection (a) shall include a written determination by the senior Department of Defense official responsible for the program justifying the need for the longer period.
+
+**(e) Elements Regarding Other Major Information Technology Investment Programs.—** With respect to each other major information technology investment program, the information required by subsection (a) may be provided in the format that is most appropriate to the current status of the program.
 
 ### Statutory Notes
 
+#### Repeal of Section
+For repeal of section by section 846 of Pub. L. 114–328, see Effective Date of Repeal note below.
+
 #### Amendments
+2015—Subsecs. (d), (e). Pub. L. 114–92 added subsec. (d) and redesignated former subsec. (d) as (e).
+
 2013—Subsec. (b)(3). Pub. L. 113–66 substituted “total acquisition costs” for “development costs”.
 
 2011—Subsec. (b)(5), (6). Pub. L. 111–383 added pars. (5) and (6).
@@ -107,6 +123,12 @@ Pub. L. 109–364, div. A, title VIII, § 816(c), Oct. 17, 2006, 120 Stat. 2326,
 Subsec. (b). Pub. L. 110–417, § 812(b)(2), inserted “Regarding Major Automated Information System Programs” after “Elements” in heading.
 
 Subsec. (d). Pub. L. 110–417, § 812(b)(3), added subsec. (d).
+
+#### Effective Date of Repeal
+Pub. L. 114–328, div. A, title VIII, § 846, Dec. 23, 2016, 130 Stat. 2292, provided in part that, effective Sept. 30, 2017, this section is repealed.
+
+#### Effective Date
+Section effective Jan. 1, 2008, and applicable with respect to any major automated information system program for which amounts are requested in the budget of the President for a fiscal year after fiscal year 2008, see section 816(c) of Pub. L. 109–364, set out as a note under [section 2445a of this title](./chapter-144a-major-automated-information-system-programs.md#section-2445a).
 
 
 <a id="section-2445c"></a>
@@ -127,11 +149,9 @@ Subsec. (d). Pub. L. 110–417, § 812(b)(3), added subsec. (d).
 
   (A) there has been a schedule change that will cause a delay of more than six months but less than a year in any program schedule milestone or significant event from the schedule originally submitted to Congress under paragraph (1) or (2) of [section 2445b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/b&num=0&edition=prelim);
 
-  (B) the estimated total acquisition cost or full life-cycle cost for the program has increased by at least 15 percent, but less than 25 percent, over the original estimate submitted to Congress under paragraph (3) of [section 2445b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/b&num=0&edition=prelim);
+  (B) the estimated total acquisition cost or full life-cycle cost for the program has increased by at least 15 percent, but less than 25 percent, over the original estimate submitted to Congress under paragraph (3) of [section 2445b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/b&num=0&edition=prelim); or
 
-  (C) there has been a significant, adverse change in the expected performance of the major automated information system to be acquired under the program from the parameters originally submitted to Congress under paragraph (4) of [section 2445b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/b&num=0&edition=prelim); or
-
-  (D) the automated information system or information technology investment failed to achieve a full deployment decision within five years after the Milestone A decision for the program or, if there was no Milestone A decision, the date when the preferred alternative is selected for the program (excluding any time during which program activity is delayed as a result of a bid protest).
+  (C) there has been a significant, adverse change in the expected performance of the major automated information system to be acquired under the program from the parameters originally submitted to Congress under paragraph (4) of [section 2445b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445b/b&num=0&edition=prelim).
 
 **(d) Report on Critical Changes in Program.—**
 
@@ -177,7 +197,12 @@ Subsec. (d). Pub. L. 110–417, § 812(b)(3), added subsec. (d).
 
 ### Statutory Notes
 
+#### Repeal of Section
+For repeal of section by section 846 of Pub. L. 114–328, see Effective Date of Repeal note below.
+
 #### Amendments
+2015—Subsec. (c)(2)(B) to (D). Pub. L. 114–92 substituted “; or” for semicolon at end of subpar. (B) and period for “; or” at end of subpar. (C) and struck out subpar. (D) which read as follows: “the automated information system or information technology investment failed to achieve a full deployment decision within five years after the Milestone A decision for the program or, if there was no Milestone A decision, the date when the preferred alternative is selected for the program (excluding any time during which program activity is delayed as a result of a bid protest).”
+
 2014—Subsec. (c)(2)(D). Pub. L. 113–291, § 802(a), added subpar. (D).
 
 Subsec. (d)(2). Pub. L. 113–291, § 802(c), substituted “are primarily due to an extension of a program and involve” for “(A) is primarily due to an extension of a program, and (B) involves”.
@@ -224,6 +249,12 @@ Subsec. (f)(2). Pub. L. 110–417, § 812(c)(5)(C), inserted “or information t
 
 Subsec. (f)(3). Pub. L. 110–417, § 812(c)(5)(D), inserted “or information technology investment, as applicable,” after “the program and system”.
 
+#### Effective Date of Repeal
+Pub. L. 114–328, div. A, title VIII, § 846, Dec. 23, 2016, 130 Stat. 2292, provided in part that, effective Sept. 30, 2017, this section is repealed.
+
+#### Effective Date
+Section effective Jan. 1, 2008, and applicable with respect to any major automated information system program for which amounts are requested in the budget of the President for a fiscal year after fiscal year 2008, see section 816(c) of Pub. L. 109–364, set out as a note under [section 2445a of this title](./chapter-144a-major-automated-information-system-programs.md#section-2445a).
+
 
 <a id="section-2445d"></a>
 ## § 2445d. Construction with other reporting requirements
@@ -232,8 +263,17 @@ In the case of a major automated information system program covered by this chap
 
 ### Statutory Notes
 
+#### Repeal of Section
+For repeal of section by section 846 of Pub. L. 114–328, see Effective Date of Repeal note below.
+
 #### Amendments
 2009—Pub. L. 111–84 substituted “of this title, the Secretary may designate the program to be treated only as a major automated information system program covered by this chapter or to be treated only as a major defense acquisition program covered by such chapter 144.” for “of this title, no reports on the program are required under such chapter if the requirements of this chapter with respect to the program are met.”
+
+#### Effective Date of Repeal
+Pub. L. 114–328, div. A, title VIII, § 846, Dec. 23, 2016, 130 Stat. 2292, provided in part that, effective Sept. 30, 2017, this section is repealed.
+
+#### Effective Date
+Section effective Jan. 1, 2008, and applicable with respect to any major automated information system program for which amounts are requested in the budget of the President for a fiscal year after fiscal year 2008, see section 816(c) of Pub. L. 109–364, set out as a note under [section 2445a of this title](./chapter-144a-major-automated-information-system-programs.md#section-2445a).
 
 #### Guidance Required
 Pub. L. 111–84, div. A, title VIII, § 817(b), Oct. 28, 2009, 123 Stat. 2408, provided that: “Not later than 180 days after the date of the enactment of this Act [Oct. 28, 2009], the Secretary of Defense shall issue guidance on the implementation of [section 2445d of title 10](./chapter-144a-major-automated-information-system-programs.md#section-2445d), United States Code (as amended by subsection (a)). The guidance shall provide that, as a general rule— “(1) a program covered by such section that requires the development of customized hardware shall be treated only as a major defense acquisition program under chapter 144 of title 10, United States Code; and “(2) a program covered by such section that does not require the development of customized hardware shall be treated only as a major automated information system program under chapter 144A of title 10, United States Code.”

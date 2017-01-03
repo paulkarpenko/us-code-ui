@@ -93,7 +93,7 @@ source: >-
 
   (A) has been provisionally accepted for that duty; or
 
-  (B) has been selected, under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), for service in that armed force.
+  (B) has been selected, under the Military Selective Service Act ([50 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) et seq.), for service in that armed force.
 
 **(b)** This section does not apply to the survivors of persons who were temporary members of the Coast Guard Reserve at the time of their death.
 
@@ -109,9 +109,11 @@ source: >-
 In subsection (a), the word “receiving” is inserted for clarity. Clause (1) is substituted for 38:1101(2) (1st sentence, and clauses (A)–(C) of 2d sentence); 38:1101(4)(A), (C), and (D); and 38:1101(5)(A), (C), and (D). Clause (2) is based on the words “inactive duty training”, in 38:1131(a). Clause (3) (less words in parentheses) is substituted for 38:1101(6)(B) (1st sentence, less last 32 words). 38:1101(6)(A) (1st sentence) is omitted as covered by [section 101(31) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/31&num=0&edition=prelim). The words in parentheses in clause (3) are substituted for 38:1101(6)(A) (2d sentence, less clause (3)). Clause (4) is substituted for 38:1101(2) (clause (D) of 2d sentence) and (5)(C). Clause (5) is substituted for 38:1101(2)(E), (11)(E) (less last 27 words). The words “active duty for training”, in 38:1131(a), are omitted as covered by the definition of “active duty” in [section 101(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/22&num=0&edition=prelim).
 
 #### References in Text
-The Military Selective Service Act, referred to in subsec. (a)(5)(B), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under [section 451 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section451&num=0&edition=prelim), Appendix, and Tables.
+The Military Selective Service Act, referred to in subsec. (a)(5)(B), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under [section 3801 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2016—Subsec. (a)(5)(B). Pub. L. 114–328 substituted “([50 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) et seq.)” for “(50 U.S.C. App. 451 et seq.)”.
+
 2011—Subsec. (a)(3). Pub. L. 112–81 inserted “or while staying at the Reserve’s residence, when so authorized by proper authority, during the period of such inactive duty training or between successive days of inactive duty training” before the semicolon at the end.
 
 1986—Subsec. (a)(3). Pub. L. 99–661 struck out “from an injury incurred by him after December 31, 1956,” before “while traveling directly to or from”.

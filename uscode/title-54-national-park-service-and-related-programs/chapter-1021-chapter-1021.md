@@ -23,7 +23,7 @@ source: >-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 102101 | [16 U.S.C. 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3&num=0&edition=prelim) (last sentence) | Aug. 25, 1916, ch. 408, § 3 (last sentence), 39 Stat. 535; Mar. 7, 1928, ch. 137, § 1 (matter relating to section 3 of the Act of August 25, 1916, in 12th undesignated par. under heading “NATIONAL PARK SERVICE”), 45 Stat. 235; Pub. L. 85–434, May 29, 1958, 72 Stat. 152; Pub. L. 105–391, title IV, § 415(b)(1), Nov. 13, 1998, 112 Stat. 3515. |
+| 102101 | [16 U.S.C. 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3&num=0&edition=prelim) (last sentence). | Aug. 25, 1916, ch. 408, § 3 (last sentence), 39 Stat. 535; Mar. 7, 1928, ch. 137, § 1 (matter relating to section 3 of the Act of August 25, 1916, in 12th undesignated par. under heading “NATIONAL PARK SERVICE”), 45 Stat. 235; Pub. L. 85–434, May 29, 1958, 72 Stat. 152; Pub. L. 105–391, title IV, § 415(b)(1), Nov. 13, 1998, 112 Stat. 3515. |
 
 In subsection (a)(1), the word “rented” is omitted as included in “leases”.
 
@@ -79,8 +79,8 @@ In subsection (c), the word “lessee” is substituted for “permittees” for
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 102102(a) | [16 U.S.C. 1a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2&num=0&edition=prelim) (matter before (a) | Pub. L. 91–383, § 3 (matter before (a)), Aug. 18, 1970, 84 Stat. 826. |
-|  | [16 U.S.C. 1a–2(k)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/k/1&num=0&edition=prelim) | Pub. L. 91–383, § 3(k), as added Pub. L. 105–391, title VIII, § 802(a), Nov. 13, 1998, 112 Stat. 3522. |
-| 102102(b) through (d) | [16 U.S.C. 1a–2(k)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/k/2&num=0&edition=prelim) through (4)(B) |  |
-| 102102(e) | [16 U.S.C. 1a–2(k)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/k/5&num=0&edition=prelim) |  |
-| 102102(f) | [16 U.S.C. 1a–2(k)(4)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/k/4/C&num=0&edition=prelim) |  |
+| 102102(a) | [16 U.S.C. 1a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2&num=0&edition=prelim) (matter before (a)). | Pub. L. 91–383, § 3 (matter before (a)), Aug. 18, 1970, 84 Stat. 826. |
+|  | [16 U.S.C. 1a–2(k)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/k/1&num=0&edition=prelim). | Pub. L. 91–383, § 3(k), as added Pub. L. 105–391, title VIII, § 802(a), Nov. 13, 1998, 112 Stat. 3522. |
+| 102102(b) through (d) | [16 U.S.C. 1a–2(k)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/k/2&num=0&edition=prelim) through (4)(B). |  |
+| 102102(e) | [16 U.S.C. 1a–2(k)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/k/5&num=0&edition=prelim). |  |
+| 102102(f) | [16 U.S.C. 1a–2(k)(4)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/k/4/C&num=0&edition=prelim). |  |

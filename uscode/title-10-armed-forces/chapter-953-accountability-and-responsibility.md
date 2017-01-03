@@ -58,7 +58,7 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 594, prohibited unauthorized dis
 
 <a id="section-9837"></a>
 ## § 9837. Settlement of accounts: remission or cancellation of indebtedness of members
-**(a) In General.—** The Secretary of the Air Force may have remitted or cancelled any part of the indebtedness of a person to the United States or any instrumentality of the United States incurred while the person was serving on active duty as a member of the Air Force, but only if the Secretary considers such action to be in the best interest of the United States.
+**(a) In General.—** The Secretary of the Air Force may have remitted or cancelled any part of the indebtedness of a person to the United States or any instrumentality of the United States incurred while the person was serving as a member of the Air Force, whether as a regular or a reserve in active status, but only if the Secretary considers such action to be in the best interest of the United States.
 
 **(b) Retroactive Applicability to Certain Debts.—** The authority in subsection (a) may be exercised with respect to any debt covered by that subsection that is incurred on or after October 7, 2001.
 
@@ -97,6 +97,8 @@ The change [in subsec. (b)] reflects the opinion of the Judge Advocate General o
 The change [in subsec. (f)] reflects the opinion of the Assistant General Counsel (Fiscal Matters), Department of Defense (July 19, 1957), that section 1304, Revised Statutes (formerly [10 U.S.C. 872](./chapter-047-uniform-code-of-military-justice.md#section-872)), the source law for this section, applied to warrant officers as well as to commissioned officers.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328 substituted “as a member of the Air Force, whether as a regular or a reserve in active status” for “on active duty as a member of the Air Force”.
+
 2008—Subsec. (a). Pub. L. 110–181 made technical correction to directory language of Pub. L. 109–364, § 673(c)(1). See 2006 Amendment note below.
 
 2006—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text read as follows: “If he considers it in the best interest of the United States, the Secretary may have remitted or cancelled any part of an enlisted member’s indebtedness to the United States or any of its instrumentalities remaining unpaid before, or at the time of, that member’s honorable discharge.”
@@ -120,6 +122,9 @@ Subsecs. (b) to (d). Pub. L. 109–364, § 673(c)(2), redesignated subsecs. (c) 
 1958—Subsec. (b). Pub. L. 85–861, § 33(a)(45)(A), substituted “his pay for that month” for “his basic pay for that month”.
 
 Subsec. (f). Pub. L. 85–861, § 33(a)(45)(B), substituted “an officer” for “a commissioned officer” in two places.
+
+#### Effective Date of 2016 Amendment
+Amendment by Pub. L. 114–328 effective Dec. 23, 2016, and applicable with respect to debt incurred on or after Oct. 7, 2001, see section 671(b)(5) of Pub. L. 114–328, set out as a note under [section 4837 of this title](./chapter-453-accountability-and-responsibility.md#section-4837).
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–181, div. A, title X, § 1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(7)(C) is effective as of Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, Pub. L. 109–364, as enacted.

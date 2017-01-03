@@ -50,7 +50,7 @@ Par. (3)(A). Pub. L. 104–88, § 308(k)(2), substituted “13501” for “1052
 Par. (1). Pub. L. 103–429 substituted “section 3(f)” for “section 203(f)”.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under [section 321 of this title](./chapter-003-general-duties-and-powers.md#section-321).
@@ -106,6 +106,30 @@ For provisions relating to exemptions from certain requirements of this chapter 
 
   (B) *Utility service vehicle.—* — The term “utility service vehicle” has the meaning that term has under section 345(e)(6) 1 of the National Highway System Designation Act of 1995 ([49 U.S.C. 31136](./chapter-311-commercial-motor-vehicle-safety.md#section-31136) note; 109 Stat 22 So in original. Probably should be followed by a period. 614–615).
 
+**(f) Ready Mixed Concrete Delivery Vehicles.—**
+
+(1) **In general.—** — Notwithstanding any other provision of law, regulations issued under this section or section 31136 (including section 395.1(e)(1)(ii) of title 49, Code of Federal Regulations) regarding reporting, recordkeeping, or documentation of duty status shall not apply to any driver of a ready mixed concrete delivery vehicle if—
+
+  (A) the driver operates within a 100 air-mile radius of the normal work reporting location;
+
+  (B) the driver returns to the work reporting location and is released from work within 14 consecutive hours;
+
+  (C) the driver has at least 10 consecutive hours off duty following each 14 hours on duty;
+
+  (D) the driver does not exceed 11 hours maximum driving time following 10 consecutive hours off duty; and
+
+  (E) the motor carrier that employs the driver maintains and retains for a period of 6 months accurate and true time records that show—
+
+    (i) the time the driver reports for duty each day;
+
+    (ii) the total number of hours the driver is on duty each day;
+
+    (iii) the time the driver is released from duty each day; and
+
+    (iv) the total time for the preceding driving week the driver is used for the first time or intermittently.
+
+(2) **Definition.—** — In this section, the term “driver of a ready mixed concrete delivery vehicle” means a driver of a vehicle designed to deliver ready mixed concrete on a daily basis and is equipped with a mechanism under which the vehicle’s propulsion engine provides the power to operate a mixer drum to agitate and mix the product en route to the delivery site.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -134,6 +158,8 @@ In subsection (c), the word “prescribe” is substituted for “establish” f
 Section 345 of the National Highway System Designation Act of 1995, referred to in subsec. (e)(4), is section 345 of Pub. L. 104–59, which was set out as a note under [section 31136 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31136), prior to repeal by Pub. L. 109–59, title IV, § 4115(d), Aug. 10, 2005, 119 Stat. 1726. The text of section 345 of Pub. L. 104–59 was inserted as part of section 229 of Pub. L. 106–159, as added by section 4115(a) of Pub. L. 109–59, and is set out as a note under [section 31136 of this title](./chapter-311-commercial-motor-vehicle-safety.md#section-31136).
 
 #### Amendments
+2015—Subsec. (f). Pub. L. 114–94 added subsec. (f).
+
 2005—Subsec. (e)(2). Pub. L. 109–59, § 4145(b)(1), substituted “Field Administrator of the Federal Motor Carrier Safety Administration” for “Regional Director of the Federal Highway Administration”.
 
 Subsec. (e)(3). Pub. L. 109–59, § 4145(b)(2), substituted “Field Administrator” for “Regional Director” in introductory provisions.
@@ -146,8 +172,11 @@ Subsec. (e)(3). Pub. L. 109–59, § 4145(b)(2), substituted “Field Administra
 
 1984—Subsec. (d). Pub. L. 98–554 added subsec. (d).
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Savings Provision
 Pub. L. 100–690, title IX, § 9102(c), Nov. 18, 1988, 102 Stat. 4529, provided that: “The amendment made by subsection (a) [amending section 2505 of former Title 49, Transportation] shall not be construed as having any effect on the enactment of subsection (d) of section 3102 [now 31502] of title 49, United States Code, which subsection (d) was added to such section by section 206(h) of the Motor Carrier Safety Act of 1984 [Pub. L. 98–554] on October 30, 1984.”
@@ -188,7 +217,7 @@ In subsection (b), the words “In carrying out this chapter” are substituted 
 1994—Pub. L. 103–272 renumbered [section 3103 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section3103&num=0&edition=prelim) as this section and amended it generally, restating it without substantive change.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-31504"></a>

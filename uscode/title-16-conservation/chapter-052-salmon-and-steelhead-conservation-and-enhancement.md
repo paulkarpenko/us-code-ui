@@ -145,19 +145,19 @@ The Pacific Fishery Management Council, referred to in par. (4)(B)(i), was estab
 
 **(d) Unanimous vote required** No report or revision thereto may be submitted by the Commission to the Secretary for approval under this section unless the report or revision is approved by all of the voting members of the Commission.
 
-**(e) Secretarial action on report** Within 4 months after the date of the submission of the comprehensive report, or any revision thereto, under subsection (c) of this section, the Secretary, in consultation with the Secretary of the Interior, shall review the report and, if he finds that the management structure recommended in the report would, if implemented, meet the objectives and standards specified in this section and be consistent with this chapter, approve the report. If the Secretary, in consultation with the Secretary of the Interior, finds that such structure is not in conformity with the standards and objectives set forth in this section, the provisions of this chapter, or other applicable law, he shall return the report to the Commission together with a written statement of the reasons for not approving the report. If the Commission submits a revised report to the Secretary within 2 months after the date of return, the Secretary shall approve the report if he finds that the objections on which the prior disapproval was based are overcome.
+**(e) Secretarial action on report** Within 4 months after the date of the submission of the comprehensive report, or any revision thereto, under subsection (c), the Secretary, in consultation with the Secretary of the Interior, shall review the report and, if he finds that the management structure recommended in the report would, if implemented, meet the objectives and standards specified in this section and be consistent with this chapter, approve the report. If the Secretary, in consultation with the Secretary of the Interior, finds that such structure is not in conformity with the standards and objectives set forth in this section, the provisions of this chapter, or other applicable law, he shall return the report to the Commission together with a written statement of the reasons for not approving the report. If the Commission submits a revised report to the Secretary within 2 months after the date of return, the Secretary shall approve the report if he finds that the objections on which the prior disapproval was based are overcome.
 
 **(f) Per diem and travel allowances** The members of the Commission (other than those who are full-time employees of the Federal or a State government), while away from their homes or regular places of business for purposes of carrying out their duties as members, shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons intermittently employed in Government service.
 
 **(g) Administrative support** The Secretary shall provide such clerical and technical support as may be necessary to enable the Commission to carry out its functions.
 
-**(h) Termination of Commission** Unless otherwise agreed to by the voting members of the Commission and approved by the Secretary, the Commission shall terminate upon the Secretary’s approval of the Commission’s report pursuant to subsection (e) of this section.
+**(h) Termination of Commission** Unless otherwise agreed to by the voting members of the Commission and approved by the Secretary, the Commission shall terminate upon the Secretary’s approval of the Commission’s report pursuant to subsection (e).
 
 
 <a id="section-3312"></a>
 ## § 3312. Eligibility for financial assistance under approved enhancement plans
 
-Upon approval by the Secretary of the Commission’s report under [section 3311 of this title](./chapter-052-salmon-and-steelhead-conservation-and-enhancement.md#section-3311), a State represented by a voting member on the Commission and any treaty tribe represented by a tribal coordinating body shall be eligible for financial assistance under subchapter III of this chapter if the State or treaty tribe enters into an agreement with the Secretary under which that State or treaty tribe obligates itself—
+Upon approval by the Secretary of the Commission’s report under [section 3311 of this title](./chapter-052-salmon-and-steelhead-conservation-and-enhancement.md#section-3311), a State represented by a voting member on the Commission and any treaty tribe represented by a tribal coordinating body shall be eligible for financial assistance under subchapter III if the State or treaty tribe enters into an agreement with the Secretary under which that State or treaty tribe obligates itself—
 
 (1) to implement and enforce the provisions of the report and revisions thereto, through laws, regulations, ordinances, or other appropriate means, within such geographical areas and with respect to such persons as may be subject to its jurisdiction and to the extent of its enforcement power; and
 
@@ -167,7 +167,7 @@ Upon approval by the Secretary of the Commission’s report under [section 3311 
 <a id="section-3313"></a>
 ## § 3313. Grants for reports and plans for coordinated research, enforcement, etc.
 
-The Secretary, in consultation with the Secretary of the Interior, is authorized to establish a program to provide grants to prepare reports and plans provided for in this subchapter and subchapter III of this chapter in order to promote coordinated research, enforcement, enhancement, and management of the salmon and steelhead resources within the Washington and Columbia River conservation areas consistent with the purposes of this chapter. Such grants shall be available for use by the State of Washington, the State of Oregon, appropriate tribal coordinating bodies, or any joint governmental entity established for undertaking research, or providing advice on or mechanisms for coordinating management or enforcement, or preparing the reports and plans described in this subchapter and subchapter III of this chapter.
+The Secretary, in consultation with the Secretary of the Interior, is authorized to establish a program to provide grants to prepare reports and plans provided for in this subchapter and subchapter III in order to promote coordinated research, enforcement, enhancement, and management of the salmon and steelhead resources within the Washington and Columbia River conservation areas consistent with the purposes of this chapter. Such grants shall be available for use by the State of Washington, the State of Oregon, appropriate tribal coordinating bodies, or any joint governmental entity established for undertaking research, or providing advice on or mechanisms for coordinating management or enforcement, or preparing the reports and plans described in this subchapter and subchapter III.
 
 
 <a id="section-3314"></a>
@@ -270,9 +270,9 @@ The Secretary, in cooperation with the Secretary of Commerce, shall establish, i
 ## § 3325. Authorization of appropriations
 **(a) Salmon enhancement** For purposes of carrying out the provisions of this subchapter for salmon enhancement (including, but not limited to, the operation and maintenance of enhancement facilities) there are authorized to be appropriated not to exceed $45,000,000 for the ten-year period beginning on October 1, 1982, for the Washington conservation area, and not to exceed $25,000,000 for the ten-year period beginning on such date for the Columbia River conservation area.
 
-**(b) Steelhead enhancement** In addition to the amounts authorized under subsection (a) of this section, there are authorized to be appropriated to carry out steelhead enhancement projects under this subchapter (including, but not limited to, operation and maintenance of enhancement facilities) not to exceed $7,000,000 for the ten-year period beginning on October 1, 1982, for the Washington conservation area; and not to exceed $7,000,000 for the ten-year period beginning on such date for the Columbia River conservation area.
+**(b) Steelhead enhancement** In addition to the amounts authorized under subsection (a), there are authorized to be appropriated to carry out steelhead enhancement projects under this subchapter (including, but not limited to, operation and maintenance of enhancement facilities) not to exceed $7,000,000 for the ten-year period beginning on October 1, 1982, for the Washington conservation area; and not to exceed $7,000,000 for the ten-year period beginning on such date for the Columbia River conservation area.
 
-**(c) Limitation** No moneys appropriated pursuant to subsection (a) or (b) of this section may be used for the operation and maintenance of enhancement programs and related facilities as they existed on or before the date of the approval by the Secretary under [section 3321 of this title](./chapter-052-salmon-and-steelhead-conservation-and-enhancement.md#section-3321) of the enhancement plan for the conservation area concerned.
+**(c) Limitation** No moneys appropriated pursuant to subsection (a) or (b) may be used for the operation and maintenance of enhancement programs and related facilities as they existed on or before the date of the approval by the Secretary under [section 3321 of this title](./chapter-052-salmon-and-steelhead-conservation-and-enhancement.md#section-3321) of the enhancement plan for the conservation area concerned.
 
 
 <a id="section-3331"></a>
@@ -364,19 +364,19 @@ The Secretary of Commerce and the Secretary of the Interior may each promulgate 
 ## § 3342. Annual status reports on programs; monitoring
 **(a) Reports** The State of Washington, the State of Oregon, and the appropriate tribal coordinating bodies shall submit to the appropriate Secretary an annual report on the status of the programs authorized by this chapter or any other relevant report requested by such Secretary.
 
-**(b) Monitoring** After the 18-month period after approval of the report of the Salmon and Steelhead Advisory Commission under subchapter II of this chapter, the Secretary of Commerce shall establish a system to monitor and evaluate on a continuing basis whether the management program set forth in the report is being effectively implemented. If at any time after the monitoring system is established, the Secretary finds that—
+**(b) Monitoring** After the 18-month period after approval of the report of the Salmon and Steelhead Advisory Commission under subchapter II, the Secretary of Commerce shall establish a system to monitor and evaluate on a continuing basis whether the management program set forth in the report is being effectively implemented. If at any time after the monitoring system is established, the Secretary finds that—
 
 (1) the number of parties referred to in [section 3314 of this title](./chapter-052-salmon-and-steelhead-conservation-and-enhancement.md#section-3314) has been reduced to the extent that such program cannot be implemented effectively; or
 
 (2) the general implementation of the program is ineffective;
-the Secretary shall immediately discontinue any further funding under subchapter III of this chapter.
+the Secretary shall immediately discontinue any further funding under subchapter III.
 
 
 <a id="section-3343"></a>
 ## § 3343. Construction with fishery conservation and management provisions
-**(a) Consistency** Nothing in this chapter shall be construed as affecting the provisions of title III of the Magnuson-Stevens Fishery Conservation and Management Act [[16 U.S.C. 1851](./chapter-038-fishery-conservation-and-management.md#section-1851) et seq.] as it applies with respect to fishery management plans and their application to any fishery, except that the Pacific Fishery Management Council shall ensure that existing and future fishery management plans are consistent with any recommended program approved under [section 3311 of this title](./chapter-052-salmon-and-steelhead-conservation-and-enhancement.md#section-3311) and any enhancement plan under subchapter III of this chapter.
+**(a) Consistency** Nothing in this chapter shall be construed as affecting the provisions of title III of the Magnuson-Stevens Fishery Conservation and Management Act [[16 U.S.C. 1851](./chapter-038-fishery-conservation-and-management.md#section-1851) et seq.] as it applies with respect to fishery management plans and their application to any fishery, except that the Pacific Fishery Management Council shall ensure that existing and future fishery management plans are consistent with any recommended program approved under [section 3311 of this title](./chapter-052-salmon-and-steelhead-conservation-and-enhancement.md#section-3311) and any enhancement plan under subchapter III.
 
-**(b) Fleet mobility** The Secretary of Commerce in coordination with the Pacific Fishery Management Council in its salmon management plan shall ensure that the fishing effort reduction that results from the fleet adjustment program of subchapter IV of this chapter and the license moratorium of the State of Washington is not replaced by new fishing effort from outside such State.
+**(b) Fleet mobility** The Secretary of Commerce in coordination with the Pacific Fishery Management Council in its salmon management plan shall ensure that the fishing effort reduction that results from the fleet adjustment program of subchapter IV and the license moratorium of the State of Washington is not replaced by new fishing effort from outside such State.
 
 ### Statutory Notes
 

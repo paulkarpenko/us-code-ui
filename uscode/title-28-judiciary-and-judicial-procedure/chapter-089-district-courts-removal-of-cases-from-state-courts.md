@@ -276,7 +276,7 @@ Pub. L. 95–473 substituted “[section 11707 of title 49](https://uscode.house
 Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under [section 5303 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5303&num=0&edition=prelim), Transportation.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 #### Effective Date of 1958 Amendment
 Amendment by Pub. L. 85–554 applicable only in the case of actions commenced after July 25, 1958, see section 3 of Pub. L. 85–554, set out as a note under [section 1331 of this title](./chapter-085-district-courts-jurisdiction.md#section-1331).

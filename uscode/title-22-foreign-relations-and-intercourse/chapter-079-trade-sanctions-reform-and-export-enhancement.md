@@ -110,14 +110,14 @@ Pub. L. 106–387, § 1(a) [title VII, § 775], Oct. 28, 2000, 114 Stat. 1549, 1
 
   (A) controlled on the United States Munitions List established under [section 2778 of this title](./chapter-039-arms-export-control.md#section-2778);
 
-  (B) controlled on any control list established under the Export Administration Act of 1979 or any successor statute (50 U.S.C. App. 2401 et seq.); or
+  (B) controlled on any control list established under the Export Administration Act of 1979 or any successor statute (50 U.S.C. App. 2401 et seq.); 11 See References in Text note below. or
 
   (C) used to facilitate the design, development, or production of chemical or biological weapons, missiles, or weapons of mass destruction.
 
 ### Statutory Notes
 
 #### References in Text
-The Export Administration Act of 1979, referred to in par. (2)(B), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2401 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2401&num=0&edition=prelim), Appendix, and Tables.
+The Export Administration Act of 1979, referred to in par. (2)(B), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2001—Par. (2)(C). Pub. L. 107–56 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “used to facilitate the development or production of a chemical or biological weapon or weapon of mass destruction.”
@@ -141,7 +141,7 @@ Any unilateral agricultural sanction or unilateral medical sanction that is impo
 ## § 7205. State sponsors of international terrorism
 **(a) Requirement**
 
-(1) **In general** — Notwithstanding any other provision of this chapter (other than [section 7203 of this title](./chapter-079-trade-sanctions-reform-and-export-enhancement.md#section-7203)), the export of agricultural commodities, medicine, or medical devices to Cuba, the Taliban or the territory of Afghanistan controlled by the Taliban, or to the government of a country that has been determined by the Secretary of State to have repeatedly provided support for acts of international terrorism under [section 2371 of this title](./chapter-032-foreign-assistance.md#section-2371), [section 2405(j)(1) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2405/j/1&num=0&edition=prelim), Appendix, or [section 2780(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780/d&num=0&edition=prelim), or to any other entity in such a country, shall only be made pursuant to 1-year licenses issued by the United States Government for contracts entered into during the 1-year period of the license and shipped within the 12-month period beginning on the date of the signing of the contract, except that the requirements of such 1-year licenses shall be no more restrictive than license exceptions administered by the Department of Commerce or general licenses administered by the Department of the Treasury, except that procedures shall be in place to deny licenses for exports to any entity within such country, or in the territory of Afghanistan controlled by the Taliban, promoting international terrorism.
+(1) **In general** — Notwithstanding any other provision of this chapter (other than [section 7203 of this title](./chapter-079-trade-sanctions-reform-and-export-enhancement.md#section-7203)), the export of agricultural commodities, medicine, or medical devices to Cuba, the Taliban or the territory of Afghanistan controlled by the Taliban, or to the government of a country that has been determined by the Secretary of State to have repeatedly provided support for acts of international terrorism under [section 2371 of this title](./chapter-032-foreign-assistance.md#section-2371), [section 4605(j)(1) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1&num=0&edition=prelim), or [section 2780(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780/d&num=0&edition=prelim), or to any other entity in such a country, shall only be made pursuant to 1-year licenses issued by the United States Government for contracts entered into during the 1-year period of the license and shipped within the 12-month period beginning on the date of the signing of the contract, except that the requirements of such 1-year licenses shall be no more restrictive than license exceptions administered by the Department of Commerce or general licenses administered by the Department of the Treasury, except that procedures shall be in place to deny licenses for exports to any entity within such country, or in the territory of Afghanistan controlled by the Taliban, promoting international terrorism.
 
 (2) **Exception** — Paragraph (1) shall not apply with respect to the export of agricultural commodities, medicine, or medical devices to the Government of Syria or to the Government of North Korea, or to any other entity in Syria or North Korea.
 
@@ -202,9 +202,9 @@ Committee on International Relations of House of Representatives changed to Comm
   (B) Financing by third country financial institutions (excluding United States persons or Government of Cuba entities), except that such financing may be confirmed or advised by a United States financial institution.
   Nothing in this paragraph authorizes payment terms or trade financing involving a debit or credit to an account of a person located in Cuba or of the Government of Cuba maintained on the books of a United States depository institution.
 
-(2) **Penalties** — Any private person or entity that violates paragraph (1) shall be subject to the penalties provided in the Trading With the Enemy Act [50 U.S.C. App. 1 et seq.] for violations under that Act.
+(2) **Penalties** — Any private person or entity that violates paragraph (1) shall be subject to the penalties provided in the Trading With the Enemy Act [[50 U.S.C. 4301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4301&num=0&edition=prelim) et seq.] for violations under that Act.
 
-(3) **Administration and enforcement** — The President shall issue such regulations as are necessary to carry out this section, except that the President, in lieu of issuing new regulations, may apply any regulations in effect on October 28, 2000, pursuant to the Trading With the Enemy Act [50 U.S.C. App. 1 et seq.], with respect to the conduct prohibited in paragraph (1).
+(3) **Administration and enforcement** — The President shall issue such regulations as are necessary to carry out this section, except that the President, in lieu of issuing new regulations, may apply any regulations in effect on October 28, 2000, pursuant to the Trading With the Enemy Act [[50 U.S.C. 4301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4301&num=0&edition=prelim) et seq.], with respect to the conduct prohibited in paragraph (1).
 
 (4) **Definitions** — In this subsection—
 
@@ -217,7 +217,7 @@ Committee on International Relations of House of Representatives changed to Comm
 ### Statutory Notes
 
 #### References in Text
-The Trading With the Enemy Act, referred to in subsec. (b)(2), (3), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act, referred to in subsec. (b)(2), (3), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified to chapter 53 (§ 4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Determination and Waiver of Application of Section 908(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000 With Respect to Libya
 Determination of President of the United States, No. 2004–49, Sept. 20, 2004, 69 F.R. 58035, provided:

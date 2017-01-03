@@ -107,7 +107,7 @@ It is the policy of the United States to further assist the Government of Ukrain
 
 (3) **Arms export prohibition** — The President may prohibit the exportation or provision by sale, lease or loan, grant, or other means, directly or indirectly, of any defense article or defense service to the foreign person and the issuance of any license or other approval to the foreign person under [section 2778 of this title](./chapter-039-arms-export-control.md#section-2778).
 
-(4) **Dual-use export prohibition** — The President may prohibit the issuance of any license and suspend any license for the transfer to the foreign person of any item the export of which is controlled under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) (as in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.)) or the Export Administration Regulations under subchapter C of chapter VII of title 15, Code of Federal Regulations.
+(4) **Dual-use export prohibition** — The President may prohibit the issuance of any license and suspend any license for the transfer to the foreign person of any item the export of which is controlled under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) 11 See References in Text note below. (as in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.)) or the Export Administration Regulations under subchapter C of chapter VII of title 15, Code of Federal Regulations.
 
 (5) **Property transactions** — The President may, pursuant to such regulations as the President may prescribe, prohibit any person from—
 
@@ -139,7 +139,7 @@ It is the policy of the United States to further assist the Government of Ukrain
 
   (A) *In general* — The authority to block and prohibit all transactions in all property and interests in property under subsection (c)(5) shall not include the authority to impose sanctions on the importation of goods.
 
-  (B) *Good defined* — In this paragraph, the term “good” has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.)).
+  (B) *Good defined* — In this paragraph, the term “good” has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) 1 (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.)).
 
 (2) **Additional exceptions** — The President shall not be required to apply or maintain the sanctions under subsection (a) or (b)—
 
@@ -197,7 +197,7 @@ It is the policy of the United States to further assist the Government of Ukrain
 
 (2) **Form of report** — The report required by paragraph (1)(B) shall be submitted in unclassified form, but may include a classified annex.
 
-**(g) Implementation; Penalties**
+**(g) Implementation; penalties**
 
 (1) **Implementation** — The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act ([50 U.S.C. 1702](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1702&num=0&edition=prelim) and 1704) to carry out the purposes of this section.
 
@@ -215,7 +215,7 @@ It is the policy of the United States to further assist the Government of Ukrain
 For termination of section, see subsection (h) of this section.
 
 #### References in Text
-The Export Administration Act of 1979, referred to in subsec. (c)(4), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2401 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2401&num=0&edition=prelim), Appendix, and Tables.
+The Export Administration Act of 1979, referred to in subsec. (c)(4), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50. Section 16 of the Act is now classified to [section 4618 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4618&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
 The International Emergency Economic Powers Act, referred to in subsecs. (c)(4) and (d)(1)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
@@ -287,6 +287,19 @@ Executive Order No. 13662, referred to in subsec. (b)(2), is Ex. Ord. No. 13662,
 The Arms Export Control Act, referred to in subsec.(a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+
+#### Delegation of Authority Under the Ukraine Freedom Support Act of 2014
+Memorandum of President of the United States, Feb. 19, 2015, 80 F.R. 12071, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby order as follows:
+
+I hereby delegate to the Secretary of State the authority to prepare and submit to the Congress the reports and strategies required by subsections 6(b), 7(d), 9(c), and 10(c) of the Ukraine Freedom Support Act of 2014 (Public Law 113–272) (the “Act”).
+
+Any reference in this memorandum to the Act shall be deemed to be a reference to any future Act that is the same or substantially the same as such provision.
+
+Barack Obama.
 
 
 <a id="section-8926"></a>
@@ -407,6 +420,11 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–
 
 (4) **Transparency requirements** — Any assistance provided pursuant to this subsection shall be conducted in as transparent of a manner as possible, consistent with the nature and goals of this subsection. The President shall provide a briefing on the activities funded by this subsection at the request of the committees specified in paragraph (2).
 
+### Statutory Notes
+
+#### Delegation of Functions
+Functions of President under subsec. (d) of this section delegated to Secretary of State by Memorandum of President of the United States, Feb. 19, 2015, 80 F.R. 12071, set out as a note under [section 8925 of this title](./chapter-96a-ukraine-freedom-support.md#section-8925).
+
 
 <a id="section-8927"></a>
 ## § 8927. Expanded broadcasting in countries of the former Soviet Union
@@ -451,6 +469,11 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–
 
 **(d) Transparency requirements** Any assistance provided pursuant to this section shall be conducted in as transparent of a manner as possible, consistent with the nature and goals of this section. The President shall provide a briefing on the activities funded by this section at the request of the committees specified in subsection (c).
 
+### Statutory Notes
+
+#### Delegation of Functions
+Functions of President under subsec. (c) of this section delegated to Secretary of State by Memorandum of President of the United States, Feb. 19, 2015, 80 F.R. 12071, set out as a note under [section 8925 of this title](./chapter-96a-ukraine-freedom-support.md#section-8925).
+
 
 <a id="section-8929"></a>
 ## § 8929. Report on non-compliance by the Russian Federation of its obligations under the INF Treaty
@@ -485,6 +508,11 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–
 (1) the Committee on Foreign Relations, the Committee on Armed Services, and the Select Committee on Intelligence of the Senate; and
 
 (2) the Committee on Foreign Affairs, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+### Statutory Notes
+
+#### Delegation of Functions
+Functions of President under subsec. (c) of this section delegated to Secretary of State by Memorandum of President of the United States, Feb. 19, 2015, 80 F.R. 12071, set out as a note under [section 8925 of this title](./chapter-96a-ukraine-freedom-support.md#section-8925).
 
 
 <a id="section-8930"></a>

@@ -103,7 +103,7 @@ The National Aeronautics and Space Administration shall utilize existing program
 ## § 5207. Department of Defense
 **(a) Focus of research** In conformance with the Superconductivity Action Plan, the Secretary of Defense, in the superconductivity research and development activities of the Department of Defense, shall give emphasis to fundamental research, materials processing, and applications of new superconducting materials.
 
-**(b) Additional activities** In conducting research under subsection (a) of this section, the Secretary of Defense shall—
+**(b) Additional activities** In conducting research under subsection (a), the Secretary of Defense shall—
 
 (1) systematically define the engineering parameters for high-temperature superconducting materials; and
 

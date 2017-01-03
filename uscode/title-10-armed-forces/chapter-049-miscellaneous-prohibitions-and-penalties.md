@@ -382,13 +382,34 @@ Pub. L. 95–610, § 1, Nov. 8, 1978, 92 Stat. 3085, provided that: “(a) The C
 
 
 <a id="section-977"></a>
-## § 977. Repealed. Pub. L. 108–375, div. A, title VI, § 651(e)(1), Oct. 28, 2004, 118 Stat. 1972]
+## § 977. Conversion of military medical and dental positions to civilian medical and dental positions: limitation
+**(a) Process.—** The Secretary of Defense, in collaboration with the Secretaries of the military departments, shall establish a process to define the military medical and dental personnel requirements necessary to meet operational medical force readiness requirements.
+
+**(b) Requirements Relating to Conversion.—** A military medical or dental position within the Department of Defense may be converted to a civilian medical or dental position if the Secretary determines that the position is not necessary to meet operational medical force readiness requirements, as determined pursuant to subsection (a).
+
+**(c) Grade or Level Converted.—** In carrying out a conversion under subsection (b), the Secretary of Defense—
+
+(1) shall convert the applicable military position to a civilian position with a level of compensation commensurate with the skills and experience necessary to carry out the duties of such civilian position; and
+
+(2) may not place any limitation on the grade or level to which the military position is so converted.
+
+**(d) Definitions.—** In this section:
+
+(1) The term “military medical or dental position” means a position for the performance of health care functions within the armed forces held by a member of the armed forces.
+
+(2) The term “civilian medical or dental position” means a position for the performance of health care functions within the Department of Defense held by an employee of the Department or of a contractor of the Department.
+
+(3) The term “conversion”, with respect to a military medical or dental position, means a change of the position to a civilian medical or dental position, effective as of the date of the manning authorization document of the military department making the change (through a change in designation from military to civilian in the document, the elimination of the listing of the position as a military position in the document, or through any other means indicating the change in the document or otherwise).
 
 ### Statutory Notes
 
-Section, added Pub. L. 103–160, div. A, title III, § 351(a), Nov. 30, 1993, 107 Stat. 1626; amended Pub. L. 105–85, div. A, title X, § 1073(a)(16), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 106–65, div. A, title X, § 1066(a)(6), Oct. 5, 1999, 113 Stat. 770, related to prohibition of assignment of active duty members to operation of commissary stores.
+#### Effective Date
+Pub. L. 114–328, div. A, title VII, § 721(a)(3), Dec. 23, 2016, 130 Stat. 2228, provided that: “The Secretary of Defense may not carry out [section 977(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section977/b&num=0&edition=prelim), United States Code, as added by paragraph (1), until the date that is 180 days after the date on which the Secretary submits the report under subsection (b).”
 
-A prior section, added Pub. L. 96–342, title X, § 1002(a), Sept. 8, 1980, 94 Stat. 1119; amended Pub. L. 97–22, § 11(a)(1), July 10, 1981, 95 Stat. 137, provided that no one who originally enlisted after Sept. 7, 1980, in a regular armed services component and failed to serve at least 24 months of such enlistment would be eligible for Federal benefits otherwise receivable because of active service under such enlistment, except that such exclusion was not applicable to one discharged under section 1173 of chapter 61 of this title or to one later proved to be suffering from a disability resulting from an injury or disease incurred during enlistment, prior to repeal by Pub. L. 97–306, title IV, § 408(c)(1), Oct. 14, 1982, 96 Stat. 1446. See [section 5303A of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5303A&num=0&edition=prelim), Veterans’ Benefits, and provisions set out as notes under that section.
+#### Prior Provisions
+A prior section, added Pub. L. 103–160, div. A, title III, § 351(a), Nov. 30, 1993, 107 Stat. 1626; amended Pub. L. 105–85, div. A, title X, § 1073(a)(16), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 106–65, div. A, title X, § 1066(a)(6), Oct. 5, 1999, 113 Stat. 770, related to prohibition of assignment of active duty members to operation of commissary stores, prior to repeal by Pub. L. 108–375, div. A, title VI, § 651(e)(1), Oct. 28, 2004, 118 Stat. 1972.
+
+Another prior section, added Pub. L. 96–342, title X, § 1002(a), Sept. 8, 1980, 94 Stat. 1119; amended Pub. L. 97–22, § 11(a)(1), July 10, 1981, 95 Stat. 137, provided that no one who originally enlisted after Sept. 7, 1980, in a regular armed services component and failed to serve at least 24 months of such enlistment would be eligible for Federal benefits otherwise receivable because of active service under such enlistment, except that such exclusion was not applicable to one discharged under section 1173 of chapter 61 of this title or to one later proved to be suffering from a disability resulting from an injury or disease incurred during enlistment, prior to repeal by Pub. L. 97–306, title IV, § 408(c)(1), Oct. 14, 1982, 96 Stat. 1446. See [section 5303A of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5303A&num=0&edition=prelim), Veterans’ Benefits, and provisions set out as notes under that section.
 
 
 <a id="section-978"></a>
@@ -632,6 +653,9 @@ Pub. L. 93–437, title VIII, § 848, Oct. 8, 1974, 88 Stat. 1232.
 #### Effective Date
 Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under [section 520b of this title](./chapter-031-enlistments.md#section-520b).
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -851,7 +875,7 @@ Pub. L. 110–181, div. A, title X, § 1072(b)(3), Jan. 28, 2008, 122 Stat. 330,
 
 (1) the creditor rolls over, renews, repays, refinances, or consolidates any consumer credit extended to the borrower by the same creditor with the proceeds of other credit extended to the same covered member or a dependent;
 
-(2) the borrower is required to waive the borrower’s right to legal recourse under any otherwise applicable provision of State or Federal law, including any provision of the Servicemembers Civil Relief Act;
+(2) the borrower is required to waive the borrower’s right to legal recourse under any otherwise applicable provision of State or Federal law, including any provision of the Servicemembers Civil Relief Act ([50 U.S.C. 3901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3901&num=0&edition=prelim) et seq.);
 
 (3) the creditor requires the borrower to submit to arbitration or imposes onerous legal notice provisions in the case of a dispute;
 
@@ -899,7 +923,7 @@ Pub. L. 110–181, div. A, title X, § 1072(b)(3), Jan. 28, 2008, 122 Stat. 330,
 
 (6) **Administrative enforcement.—** — The provisions of this section (other than paragraph (1) of this subsection) shall be enforced by the agencies specified in section 108 of the Truth in Lending Act ([15 U.S.C. 1607](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1607&num=0&edition=prelim)) in the manner set forth in that section or under any other applicable authorities available to such agencies by law.
 
-**(g) Servicemembers Civil Relief Act Protections Unaffected.—** Nothing in this section may be construed to limit or otherwise affect the applicability of section 207 of the Servicemembers Civil Relief Act (50 U.S.C. App. 527).
+**(g) Servicemembers Civil Relief Act Protections Unaffected.—** Nothing in this section may be construed to limit or otherwise affect the applicability of section 207 of the Servicemembers Civil Relief Act ([50 U.S.C. 3937](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3937&num=0&edition=prelim)).
 
 **(h) Regulations.—**
 
@@ -964,9 +988,13 @@ Pub. L. 110–181, div. A, title X, § 1072(b)(3), Jan. 28, 2008, 122 Stat. 330,
 #### References in Text
 The Truth in Lending Act, referred to in subsec. (c)(1)(B), (2), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
-The Servicemembers Civil Relief Act, referred to in subsecs. (e)(2) and (g), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see [section 501 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section501&num=0&edition=prelim), Appendix, and Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (e)(2), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified generally to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 3901 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3901&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2016—Subsec. (e)(2). Pub. L. 114–328, § 1081(b)(2)(A)(i), inserted “([50 U.S.C. 3901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3901&num=0&edition=prelim) et seq.)” before semicolon at end.
+
+Subsec. (g). Pub. L. 114–328, § 1081(b)(2)(A)(ii), substituted “([50 U.S.C. 3937](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3937&num=0&edition=prelim))” for “(50 U.S.C. App. 527)”.
+
 2013—Subsec. (d)(2)(A). Pub. L. 112–239, § 661(a)(1), inserted “any consumer credit or” before “loans”.
 
 Subsec. (d)(2)(B). Pub. L. 112–239, § 661(a)(2), inserted “covering consumer credit” after “State consumer lending protections”.
@@ -986,6 +1014,9 @@ Pub. L. 112–239, div. A, title VI, § 662(c), Jan. 2, 2013, 126 Stat. 1786, pr
 
 #### Effective Date
 Pub. L. 109–364, div. A, title VI, § 670(c), Oct. 17, 2006, 120 Stat. 2269, provided that: “(1) In general.—Except as provided in paragraph (2), [section 987 of title 10](./chapter-049-miscellaneous-prohibitions-and-penalties.md#section-987), United States Code, as added by subsection (a), shall take effect on October 1, 2007, or on such earlier date as may be prescribed by the Secretary of Defense, and shall apply with respect to extensions of consumer credit on or after such effective date. “(2) Authority to prescribe regulations.—Subsection (h) of such section shall take effect on the date of the enactment of this Act [Oct. 17, 2006]. “(3) Publication of earlier effective date.—If the Secretary of Defense prescribes an effective date for [section 987 of title 10](./chapter-049-miscellaneous-prohibitions-and-penalties.md#section-987), United States Code, as added by subsection (a), earlier than October 1, 2007, the Secretary shall publish that date in the Federal Register. Such publication shall be made not less than 90 days before that earlier effective date.”
+
+#### Meetings With Private Sector Users of Systems
+Pub. L. 114–92, div. A, title V, § 594(b)(3), Nov. 25, 2015, 129 Stat. 834, provided that: “The Director of the Defense Manpower Data Center shall meet regularly with private sector users of Defense Manpower Data Center systems used to identify covered borrowers and covered policyholders under military consumer protection laws to learn about issues facing such users and to develop ways of addressing such issues. The first meeting pursuant to this requirement shall take place with [within] three months after the date of the enactment of this Act [Nov. 25, 2015].”
 
 #### Interim Regulations
 Pub. L. 109–364, div. A, title VI, § 670(d), Oct. 17, 2006, 120 Stat. 2269, provided that: “The Secretary of Defense may prescribe interim regulations as necessary to carry out such section [this section]. For the purpose of prescribing such interim regulations, the Secretary is excepted from compliance with the notice-and-comment requirements of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code. All interim rules prescribed under the authority of this subsection that are not earlier superseded by final rules shall expire no later than 270 days after the effective date of [section 987 of title 10](./chapter-049-miscellaneous-prohibitions-and-penalties.md#section-987), United States Code [see Effective Date note above], as added by this section.”

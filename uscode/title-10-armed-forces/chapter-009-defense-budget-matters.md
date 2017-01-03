@@ -2,7 +2,7 @@
 title: 10
 chapter: '9'
 heading: DEFENSE BUDGET MATTERS
-section_count: 20
+section_count: 22
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -38,6 +38,8 @@ Subsecs. (b)(2)(A), (c). Pub. L. 101–510, § 1402(a)(2)(A), substituted “mul
 
 #### Reporting of Balances Carried Forward by the Department of Defense at the End of Each Fiscal Year
 Pub. L. 113–291, div. A, title X, § 1003, Dec. 19, 2014, 128 Stat. 3482, provided that: “Not later March 1 of each year, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], and make publicly available on the Internet website of the Department of Defense, the following information: “(1) The total dollar amount, by account, of all balances carried forward by the Department of Defense at the end of the fiscal year preceding the fiscal year during which such information is submitted. “(2) The total dollar amount, by account, of all unobligated balances carried forward by the Department of Defense at the end of the fiscal year preceding the fiscal year during which such information is submitted. “(3) The total dollar amount, by account, of any balances (both obligated and unobligated) that have been carried forward by the Department of Defense for five years or more as of the end of the fiscal year preceding the fiscal year during which such information is submitted.”
+
+[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 1003 of Pub. L. 113–291, set out above, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).]
 
 #### Budget Documentation Requirement
 Pub. L. 113–66, div. A, title II, § 213(c), Dec. 26, 2013, 127 Stat. 704, provided that: “In the budget materials submitted to the President by the Secretary of Defense in connection with the submission to Congress, pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, of the budget for fiscal year 2015, and each subsequent fiscal year, the Secretary shall include individual project lines for each program segment of the unmanned carrier-launched surveillance and strike system, within program element 0604404N, that articulate all costs, contractual actions, and other information associated with technology development for each such program segment.”
@@ -125,7 +127,7 @@ Pub. L. 109–364, div. A, title X, § 1008, Oct. 17, 2006, 120 Stat. 2374, prov
 Pub. L. 109–163, div. A, title II, § 214, Jan. 6, 2006, 119 Stat. 3168, provided that: “(a) Program Elements Specified.—Effective for the budget of the President submitted to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, for fiscal year 2008 and each fiscal year thereafter, the Secretary of Defense shall ensure that a separate, dedicated program element is assigned to each of the following systems development and demonstration projects of the Armored Systems Modernization program:“(1) Manned Ground Vehicles. “(2) Systems of Systems Engineering and Program Management. “(3) Future Combat Systems Reconnaissance Platforms and Sensors. “(4) Future Combat Systems Unmanned Ground Vehicles. “(5) Unattended Sensors. “(6) Sustainment. “(b) Early Commencement of Display in Budget Justification Materials.—As part of the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2007, as submitted with the budget of the President under such section 1105(a), the Secretary of the Army shall set forth the budget justification material for the systems development and demonstration projects of the Armored Systems Modernization program identified in subsection (a) as if the projects were already separate program elements. “(c) Technology Insertion to Current Force.—“(1) Report on establishment of additional program element.—Not later than June 1, 2006, the Secretary of the Army shall submit a report to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] describing the manner in which the costs of integrating Future Combat Systems capabilities into current force programs could be assigned to a separate, dedicated program element and any management issues that would be raised as a result of establishing such a program element. “(2) Display in budget justification materials.—As part of the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2007 and each fiscal year thereafter, as submitted with the budget of the President under such section 1105(a), the Secretary of the Army shall set forth the budget justification material for technology insertion to the current force under the Armored Systems Modernization program.”
 
 #### Annual Submission of Information Regarding Information Technology Capital Assets
-Pub. L. 107–314, div. A, title III, § 351, Dec. 2, 2002, 116 Stat. 2516, as amended by Pub. L. 110–417, [div. A], title X, § 1051, Oct. 14, 2008, 122 Stat. 4604; Pub. L. 113–66, div. A, title III, § 333, Dec. 26, 2013, 127 Stat. 739, provided that: “(a) Requirement To Submit Information.—Not later than 30 days after the date on which the President submits the budget for a fiscal year to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, the Secretary of Defense shall submit to Congress information on the following information technology capital assets, including information technology capital assets that are a national security system, of the Department of Defense:“(1) Information technology capital assets that have an estimated total cost for the fiscal year for which the budget is submitted (as computed in fiscal year 2000 constant dollars) in excess of $32,000,000 or an estimated total cost for the future-years defense program for which the budget is submitted (as computed in fiscal year 2000 constant dollars) in excess of $378,000,000, for all expenditures, for all increments, regardless of the appropriation and fund source, directly related to the assets definition, design, development, deployment, sustainment, and disposal. “(2) Information technology capital assets not covered by paragraph (1) that have been determined by the Chief Information Officer of the Department of Defense to be significant investments. “(b) Required Information For High-Threshold Assets.—With respect to each information technology capital asset described in subsection (a)(1), the Secretary of Defense shall include the following information:“(1) The name and identifying acronym of the information technology capital asset. “(2) The date of initiation of the asset. “(3) A summary of performance measurements and metrics. “(4) The total amount of funds, by appropriation account, appropriated and obligated for prior fiscal years, with a specific breakout of such information for the two preceding fiscal years. “(5) The funds, by appropriation account, requested for the next fiscal year. “(6) The name of each prime contractor and the work to be performed. “(7) Program management and management oversight information. “(8) The original baseline cost and most current baseline information. “(9) Information regarding compliance with the provisions of law enacted or amended by the Government Performance Results Act of 1993 (Public Law 103–62; 107 Stat. 285) [see Short Title of 1993 Amendment note under [31 U.S.C. 1101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1101&num=0&edition=prelim)] and the Clinger–Cohen Act of 1996 (divisions D and E of Public Law 104–106; 110 Stat. 642) [§§ 5001–5703 and §§ 4001–4402, see Tables for classification]. “(c) Required Information for Significant Investments.—With respect to each information technology capital asset not covered by paragraph (1) of subsection (a), but covered by paragraph (2) of that subsection, the Secretary of Defense shall include such information in a format that is appropriate to the current status of such asset. “(d) Total Cost Determinations.—In estimating the total cost for a fiscal year or total cost of an information technology capital asset, the Secretary of Defense shall consider research and development costs, procurement costs, and operation and maintenance costs related to the information technology capital asset. “(e) Definitions.—In this section:“(1) The term ‘information technology’ has the meaning given that term in [section 11101 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11101&num=0&edition=prelim), United States Code. “(2) The term ‘capital asset’ has the meaning given that term in Office of Management and Budget Circular A–11. “(3) The term ‘national security system’ has the meaning given that term in [section 11103 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11103&num=0&edition=prelim), United States Code.”
+Pub. L. 107–314, div. A, title III, § 351, Dec. 2, 2002, 116 Stat. 2516, as amended by Pub. L. 110–417, [div. A], title X, § 1051, Oct. 14, 2008, 122 Stat. 4604; Pub. L. 113–66, div. A, title III, § 333, Dec. 26, 2013, 127 Stat. 739, which related to annual submission of information regarding information technology capital assets, was repealed by Pub. L. 114–92, div. A, title X, § 1079(h), Nov. 25, 2015, 129 Stat. 1000.
 
 #### Department of Defense Requests for Funds for Environmental Restoration at BRAC Sites in Future Fiscal Years
 Pub. L. 107–249, § 131, Oct. 23, 2002, 116 Stat. 1586, provided that: “(a) Requests for Funds for Environmental Restoration at BRAC Sites in Future Fiscal Years.—In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year after fiscal year 2003, the amount requested for environmental restoration, waste management, and environmental compliance activities in such fiscal year with respect to military installations approved for closure or realignment under the base closure laws shall accurately reflect the anticipated cost of such activities in such fiscal year. “(b) Base Closure Laws Defined.—In this section, the term ‘base closure laws’ means the following:“(1) [Section 2687 of title 10](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687), United States Code. “(2) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; [10 U.S.C. 2687](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687) note). “(3) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; [10 U.S.C. 2687](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687) note).”
@@ -138,6 +140,8 @@ Pub. L. 107–64, § 131, Nov. 5, 2001, 115 Stat. 482.
 Pub. L. 107–248, title VIII, § 8132, Oct. 23, 2002, 116 Stat. 1568, provided that: “The budget of the President for fiscal year 2004 submitted to the Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, and each annual budget request thereafter, shall include separate budget justification documents for costs of United States Armed Forces’ participation in contingency operations for the Military Personnel accounts, the Overseas Contingency Operations Transfer Fund, the Operation and Maintenance accounts, and the Procurement accounts: Provided, That these budget justification documents shall include a description of the funding requested for each anticipated contingency operation, for each military service, to include active duty and Guard and Reserve components, and for each appropriation account: Provided further, That these documents shall include estimated costs for each element of expense or object class, a reconciliation of increases and decreases for ongoing contingency operations, and programmatic data including, but not limited to troop strength for each active duty and Guard and Reserve component, and estimates of the major weapons systems deployed in support of each contingency: Provided further, That these documents shall include budget exhibits OP–5 and OP–32, as defined in the Department of Defense Financial Management Regulation, for the Overseas Contingency Operations Transfer Fund for fiscal years 2002 and 2003.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 114–113, div. C, title VIII, § 8075, Dec. 18, 2015, 129 Stat. 2370.
 
 Pub. L. 113–235, div. C, title VIII, § 8078, Dec. 16, 2014, 128 Stat. 2272.
 
@@ -236,11 +240,14 @@ Pub. L. 101–510, div. A, title XIV, § 1404, Nov. 5, 1990, 104 Stat. 1675, dir
 ## § 222. Future-years mission budget
 **(a) Future-Years Mission Budget.—** The Secretary of Defense shall submit to Congress for each fiscal year a future-years mission budget for the military programs of the Department of Defense. That budget shall be submitted for any fiscal year with the future-years defense program submitted under [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221).
 
-**(b) Consistency With Future-Years Defense Program.—** The future-years mission budget shall be consistent with the future-years defense program required under [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221). In the future-years mission budget, the military programs of the Department of Defense shall be organized on the basis of both major force programs and the core mission areas identified under the most recent quadrennial roles and missions review pursuant to [section 118b of this title](./chapter-002-department-of-defense.md#section-118b).
+**(b) Consistency With Future-Years Defense Program.—** The future-years mission budget shall be consistent with the future-years defense program required under [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221). In the future-years mission budget, the military programs of the Department of Defense shall be organized on the basis of both major force programs and the core mission areas identified under the most recent quadrennial roles and missions review pursuant to section 118b 11 See References in Text note below. of this title.
 
 **(c) Relationship to Other Defense Budget Formats.—** The requirement in subsection (a) is in addition to the requirements in any other provision of law regarding the format for the presentation regarding military programs of the Department of Defense in the budget submitted pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) for any fiscal year.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 118b of this title](./chapter-002-department-of-defense.md#section-118b), referred in subsec. (b), was repealed by Pub. L. 113–291, div. A, title X, § 1072(b)(1), Dec. 19, 2014, 128 Stat. 3516.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in Pub. L. 101–510, div. A, title XIV, § 1404, Nov. 5, 1990, 104 Stat. 1675, which was set out as a note under section 114a [now 221] of this title, prior to repeal by Pub. L. 102–484, § 1002(b).
@@ -254,6 +261,53 @@ Subsec. (b). Pub. L. 110–181, § 944(b), substituted “on the basis of both m
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–181, div. A, title IX, § 944(c), Jan. 28, 2008, 122 Stat. 290, provided that: “The amendments made by this section [amending this section] shall apply with respect to the future-years mission budget for fiscal year 2010 and each fiscal year thereafter.”
+
+
+<a id="section-222a"></a>
+## § 222a. Unfunded priorities of the armed forces and combatant commands: annual report
+**(a) Annual Report.—** Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), each officer specified in subsection (b) shall submit to the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, and to the congressional defense committees, a report on the unfunded priorities of the armed force or forces or combatant command under the jurisdiction or command of such officer.
+
+**(b) Officers.—** The officers specified in this subsection are the following:
+
+(1) The Chief of Staff of the Army.
+
+(2) The Chief of Naval Operations.
+
+(3) The Chief of Staff of the Air Force.
+
+(4) The Commandant of the Marine Corps.
+
+(5) The commanders of the combatant commands established under [section 161 of this title](./chapter-006-combatant-commands.md#section-161).
+
+**(c) Elements.—**
+
+(1) **In general.—** — Each report under this subsection shall specify, for each unfunded priority covered by such report, the following:
+
+  (A) A summary description of such priority, including the objectives to be achieved if such priority is funded (whether in whole or in part).
+
+  (B) The additional amount of funds recommended in connection with the objectives under subparagraph (A).
+
+  (C) Account information with respect to such priority, including the following (as applicable):
+
+    (i) Line Item Number (LIN) for applicable procurement accounts.
+
+    (ii) Program Element (PE) number for applicable research, development, test, and evaluation accounts.
+
+    (iii) Sub-activity group (SAG) for applicable operation and maintenance accounts.
+
+(2) **Prioritization of priorities.—** — Each report shall present the unfunded priorities covered by such report in order of urgency of priority.
+
+**(d) Unfunded Priority Defined.—** In this section, the term “unfunded priority”, in the case of a fiscal year, means a program, activity, or mission requirement that—
+
+(1) is not funded in the budget of the President for the fiscal year as submitted to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim);
+
+(2) is necessary to fulfill a requirement associated with an operational or contingency plan of a combatant command or other validated requirement; and
+
+(3) would have been recommended for funding through the budget referred to in paragraph (1) by the officer submitting the report required by subsection (a) in connection with the budget if—
+
+  (A) additional resources been available for the budget to fund the program, activity, or mission requirement; or
+
+  (B) the program, activity, or mission requirement has emerged since the budget was formulated.
 
 
 <a id="section-223"></a>
@@ -359,6 +413,9 @@ Pub. L. 105–85, div. A, title II, § 233, Nov. 18, 1997, 111 Stat. 1663, as am
 
 #### Amendments
 2014—Subsec. (d). Pub. L. 113–291 struck out subsec. (d). Text read as follows: “The Director of Operational Test and Evaluation shall make available for review by the congressional defense committees the developmental and operational test plans established to assess the effectiveness of the ballistic missile defense system and its elements with respect to the performance criteria described in subsection (c).”
+
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (a) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
 #### Implementation of Requirement for Availability of Test Plans
 Pub. L. 108–136, div. A, title II, § 223(b), Nov. 24, 2003, 117 Stat. 1420, directed that subsec. (d) of this section was to be implemented not later than Mar. 1, 2004.
@@ -507,6 +564,9 @@ Subsecs. (b) to (f). Pub. L. 107–107, § 231(a)(2), added subsecs. (b) to (f) 
 #### Amendments
 2013—Subsec. (e). Pub. L. 113–66 added subsec. (e).
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
 #### Improvement to Operations and Sustainment Cost Estimates
 Pub. L. 113–66, div. A, title II, § 231(a), Dec. 26, 2013, 127 Stat. 710, provided that: “In preparing the acquisition accountability reports on the ballistic missile defense system required by [section 225 of title 10](./chapter-009-defense-budget-matters.md#section-225), United States Code, the Director of the Missile Defense Agency shall improve the quality of cost estimates relating to operations and sustainment that are included in such reports under subsection (b)(3)(A) of such section, including with respect to the confidence levels of such cost estimates.”
 
@@ -531,52 +591,11 @@ Section, added Pub. L. 103–160, div. A, title III, § 374(a), Nov. 30, 1993, 1
 
 
 <a id="section-228"></a>
-## § 228. Biannual reports on allocation of funds within operation and maintenance budget subactivities
-**(a) Biannual Report.—** The Secretary of Defense shall submit to the congressional defense committees a biannual report on the allocation of appropriations to O&M budget activities and to the subactivities of those budget activities. Each such report shall be submitted not later than 60 days after the end of the two fiscal-year quarters to which the report pertains.
-
-**(b) Matters To Be Included.—** Each such report shall set forth the following for each subactivity of the O&M budget activities:
-
-(1) The amount of budget authority appropriated for that subactivity in the most recent regular Department of Defense Appropriations Act.
-
-(2) The amount of budget authority actually made available for that subactivity, taking into consideration supplemental appropriations, rescissions, and other adjustments required by law or made pursuant to law.
-
-(3) The amount programmed to be expended from such subactivity.
-
-**(c) Identification of Certain Fluctuations.—** If, in the report under this section for the second two fiscal-year quarters of a fiscal year, an amount shown under subsection (b) for a subactivity is different by more than $15,000,000 from the corresponding amount for that subactivity in the report for the first two fiscal-year quarters of that fiscal year, the Secretary shall include in the report notice of that difference.
-
-**(d) Report on Fluctuations.—** If a report under this section includes a notice under subsection (c), the Secretary shall include in the report with each such notice the following:
-
-(1) The reasons for the reallocations of funds resulting in the inclusion of that notice in the report.
-
-(2) Each budget subactivity involved in those reallocations.
-
-(3) The effect of those reallocations on the operation and maintenance activities funded through the subactivity with respect to which the notice is included in the report.
-
-**(e) O&M Budget Activity Defined.—** In this section, the term “O&M budget activity” means a budget activity within an operation and maintenance appropriation of the Department of Defense for a fiscal year.
+## § 228. Repealed. Pub. L. 114–92, div. A, title X, § 1073(a)(1), Nov. 25, 2015, 129 Stat. 995]
 
 ### Statutory Notes
 
-#### Amendments
-2011—Pub. L. 112–81, § 1064(4)(B)(i), amended section catchline generally, substituting “Biannual reports on allocation of funds within operation and maintenance budget subactivities” for “Quarterly reports on allocation of funds within operation and maintenance budget subactivities”.
-
-Subsec. (a). Pub. L. 112–81, § 1064(4)(A)(i), substituted “Biannual Report” for “Quarterly Report” in heading and “a biannual report” for “a quarterly report” and “two fiscal-year quarters” for “fiscal-year quarter” in text.
-
-Subsec. (c). Pub. L. 112–81, § 1064(4)(A)(ii), struck out par. (1) designation before “If, in the report”, substituted “the second two fiscal-year quarters of a fiscal year” for “a quarter of a fiscal year after the first quarter of that fiscal year” and “the first two fiscal-year quarters of that fiscal year” for “the first quarter of that fiscal year”, and struck out par. (2) which read as follows: “If, in the report under this section for a quarter of a fiscal year after a quarter for which the report under this section includes a notice under paragraph (1), an amount shown under subsection (b) for a subactivity is different by more than $15,000,000 from the corresponding amount for that subactivity in the most recent report that includes a notice under paragraph (1) or this paragraph, the Secretary shall include in the report notice of that difference.”
-
-2003—Pub. L. 108–136, § 1031(a)(6)(B)(i), substituted “Quarterly” for “Monthly” in section catchline.
-
-Subsec. (a). Pub. L. 108–136, § 1031(a)(6)(A)(i), substituted “Quarterly” for “Monthly” in heading, “quarterly” for “monthly” in first sentence, and “fiscal-year quarter” for “month” in second sentence.
-
-Subsec. (c). Pub. L. 108–136, § 1031(a)(6)(A)(ii), substituted “quarter” for “month” wherever appearing.
-
-Subsec. (e). Pub. L. 108–136, § 1043(b)(5), substituted “O&M Budget Activity Defined” for “Definitions” in heading and a comma for a colon after “section”, struck out par. (1) designation before “The term”, and struck out par. (2) which read as follows: “The term ‘congressional defense committees’ means the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
-
-2002—Subsec. (a). Pub. L. 107–314, § 361(a), substituted “to the congressional defense committees” for “to Congress”.
-
-Subsec. (e). Pub. L. 107–314, § 361(b), substituted “Definitions” for “O&M Budget Activity Defined” in heading, inserted introductory provisions, designated existing provisions as par. (1) and substituted “The” for “For purposes of this section, the”, and added par. (2).
-
-#### First Report
-Pub. L. 105–85, div. A, title III, § 321(b), Nov. 18, 1997, 111 Stat. 1673, directed that the first report under this section was to be for Dec. 1997.
+Section, added Pub. L. 105–85, div. A, title III, § 321(a)(1), Nov. 18, 1997, 111 Stat. 1672; amended Pub. L. 107–314, div. A, title III, § 361, Dec. 2, 2002, 116 Stat. 2519; Pub. L. 108–136, div. A, title X, §§ 1031(a)(6)(A), (B)(i), 1043(b)(5), Nov. 24, 2003, 117 Stat. 1596, 1611; Pub. L. 112–81, div. A, title X, § 1064(4)(A), (B)(i), Dec. 31, 2011, 125 Stat. 1587, related to biannual reports on allocation of funds within operation and maintenance budget subactivities.
 
 
 <a id="section-229"></a>
@@ -595,9 +614,7 @@ Pub. L. 105–85, div. A, title III, § 321(b), Nov. 18, 1997, 111 Stat. 1673, d
 
 (2) any inconsistencies between (A) the execution, during the previous fiscal year and the current fiscal year, of programs and activities of the Department of Defense combating terrorism program, and (B) the funding and specification for such programs and activities for those fiscal years in the manner provided by Congress (both in statutes and in relevant legislative history).
 
-**(d) Semiannual Reports on Obligations and Expenditures.—** The Secretary shall submit to the congressional defense committees a semiannual report on the obligation and expenditure of funds for the Department of Defense combating terrorism program. Such reports shall be submitted not later than April 15 each year, with respect to the first half of a fiscal year, and not later than November 15 each year, with respect to the second half of a fiscal year. Each such report shall compare the amounts of those obligations and expenditures to the amounts authorized and appropriated for the Department of Defense combating terrorism program for that fiscal year, by budget activity, sub-budget activity, and program element or line item. The second report for a fiscal year shall show such information for the second half of the fiscal year and cumulatively for the whole fiscal year. The report shall be submitted in unclassified form, but may have a classified annex.
-
-**(e) Department of Defense Combating Terrorism Program.—** In this section, the term “Department of Defense combating terrorism program” means the programs, projects, and activities of the Department of Defense related to combating terrorism inside and outside the United States.
+**(d) Department of Defense Combating Terrorism Program.—** In this section, the term “Department of Defense combating terrorism program” means the programs, projects, and activities of the Department of Defense related to combating terrorism inside and outside the United States.
 
 ### Statutory Notes
 
@@ -605,11 +622,16 @@ Pub. L. 105–85, div. A, title III, § 321(b), Nov. 18, 1997, 111 Stat. 1673, d
 Section 1051(b) of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (c)(1), is section 1051(b) of Pub. L. 105–85, which is set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance.
 
 #### Amendments
+2015—Subsecs. (d), (e). Pub. L. 114–92 redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “The Secretary shall submit to the congressional defense committees a semiannual report on the obligation and expenditure of funds for the Department of Defense combating terrorism program. Such reports shall be submitted not later than April 15 each year, with respect to the first half of a fiscal year, and not later than November 15 each year, with respect to the second half of a fiscal year. Each such report shall compare the amounts of those obligations and expenditures to the amounts authorized and appropriated for the Department of Defense combating terrorism program for that fiscal year, by budget activity, sub-budget activity, and program element or line item. The second report for a fiscal year shall show such information for the second half of the fiscal year and cumulatively for the whole fiscal year. The report shall be submitted in unclassified form, but may have a classified annex.”
+
 2003—Subsec. (f). Pub. L. 108–136 struck out heading and text of subsec. (f). Text read as follows: “In this section, the term ‘congressional defense committees’ means—
 
 “(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 
 “(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
+
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
 #### Prioritization of Funds for Equipment Readiness and Strategic Capability
 Pub. L. 109–364, div. A, title III, § 323, Oct. 17, 2006, 120 Stat. 2146, as amended by Pub. L. 110–181, div. A, title III, § 353, Jan. 28, 2008, 122 Stat. 72; Pub. L. 111–383, div. A, title III, § 332(a)–(f), Jan. 7, 2011, 124 Stat. 4185, 4187; Pub. L. 113–66, div. A, title III, § 332, Dec. 26, 2013, 127 Stat. 739, provided that: “(a) Prioritization of Funds.—The Secretary of Defense shall take such steps as may be necessary through the planning, programming, budgeting, and execution systems of the Department of Defense to ensure that financial resources are provided for each fiscal year as necessary to enable—“(1) the Secretary of each military department to meet the requirements of that military department for that fiscal year for the repair, recapitalization, and replacement of equipment used in overseas contingency operations; and “(2) the Secretary of the Army to meet the requirements of the Army, and the Secretary of the Navy to meet the requirements of the Marine Corps, for that fiscal year, in addition to the requirements under paragraph (1), for the reconstitution of equipment and materiel in prepositioned stocks in accordance with requirements under the policy or strategy implemented under the guidelines in [section 2229 of title 10](./chapter-131-planning-and-coordination.md#section-2229), United States Code. “(b) Submission of Budget Information.—“(1) Submission of information.—As part of the budget justification materials submitted to Congress in support of the President’s budget for a fiscal year or a request for supplemental appropriations, the Secretary of Defense shall include the following:“(A) The information described in paragraph (2) for the fiscal year for which the budget justification materials are submitted, the fiscal year during which the materials are submitted, and the preceding fiscal year. “(B) The information described in paragraph (2) for each of the fiscal years covered by the future-years defense program for the fiscal year in which the report is submitted based on estimates of any amounts required to meet each of the requirements under subsection (a) that are not met for that fiscal year and are deferred to the future-years defense program. “(C) A consolidated budget justification summary of the information submitted under subparagraphs (A) and (B). “(2) Information described.—The information described in this paragraph is information that clearly and separately identifies, by appropriations account, budget activity, activity group, sub-activity group, and program element or line item, the amounts requested for the programs, projects, and activities of—“(A) each of the military departments for the repair, recapitalization, or replacement of equipment used in overseas contingency operations; and “(B) the Army and the Marine Corps for the reconstitution of equipment and materiel in prepositioned stocks. “(c) Contingency Operation Defined.—In this section, the term ‘contingency operation’ has the meaning given that term in [section 101(a)(13) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/13&num=0&edition=prelim), United States Code.”
@@ -644,7 +666,7 @@ Section, added Pub. L. 106–65, div. A, title X, § 1041(a)(1), Oct. 5, 1999, 1
 
   (B) A description of the necessary naval vessel force structure and capabilities to meet the requirements of the national security strategy of the United States or the most recent quadrennial defense review, whichever is applicable under paragraph (1).
 
-  (C) The estimated levels of annual funding necessary to carry out the program, together with a discussion of the procurement strategies on which such estimated levels of annual funding are based.
+  (C) The estimated levels of annual funding by ship class in both graphical and tabular form necessary to carry out the program, together with a discussion of the procurement strategies on which such estimated levels of annual funding are based.
 
   (D) The estimated total cost of construction for each vessel used to determine estimated levels of annual funding under subparagraph (C).
 
@@ -664,13 +686,18 @@ Section, added Pub. L. 106–65, div. A, title X, § 1041(a)(1), Oct. 5, 1999, 1
 
 (2) The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
 
-(3) The term “quadrennial defense review” means the review of the defense programs and policies of the United States that is carried out every four years under [section 118 of this title](./chapter-002-department-of-defense.md#section-118).
+(3) The term “quadrennial defense review” means the review of the defense programs and policies of the United States that is carried out every four years under section 118 11 See References in Text note below. of this title.
 
 (4) The term “combatant and support vessel” means any commissioned ship built or armed for naval combat or any naval ship designed to provide support to combatant ships and other naval operations. Such term does not include patrol coastal ships, non-commissioned combatant craft specifically designed for combat roles, or ships that are designated for potential mobilization.
 
 ### Statutory Notes
 
+#### References in Text
+[Section 118 of this title](./chapter-002-department-of-defense.md#section-118), referred to in subsec. (f)(3), was repealed by Pub. L. 114–328, div. A, title IX, § 941(b)(1), Dec. 23, 2016, 130 Stat. 2367. For provisions related to national defense strategy similar to those contained in former section 118, see [section 113(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g&num=0&edition=prelim).
+
 #### Amendments
+2015—Subsec. (b)(2)(C). Pub. L. 114–92 inserted “by ship class in both graphical and tabular form” after “The estimated levels of annual funding”.
+
 2014—Subsec. (b)(1). Pub. L. 113–291, § 1071(c)(2), substituted “([50 U.S.C. 3043](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3043&num=0&edition=prelim))” for “([50 U.S.C. 404a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section404a&num=0&edition=prelim))”.
 
 Subsec. (f)(4). Pub. L. 113–291, § 1021, added par. (4).
@@ -688,6 +715,9 @@ Subsecs. (e), (f). Pub. L. 112–239 added subsec. (e) and redesignated former s
 2011—Pub. L. 112–81 amended section generally. Prior to amendment, section related to submission of a long-range plan for construction of combatant and support naval vessels that supports the force structure recommendations of a quadrennial defense review.
 
 Pub. L. 111–383 amended section generally. Prior to amendment, section related to submission of an annual plan for construction of naval vessels and certification that the budget for the current fiscal year and the future-years defense program is sufficient for procurement of vessels provided for in the plan.
+
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
 
 <a id="section-231a"></a>
@@ -752,49 +782,20 @@ Pub. L. 111–383 amended section generally. Prior to amendment, section related
 
 **(d) Assessment When Aircraft Procurement Budget Is Insufficient To Meet Applicable Requirements.—** If the budget for a fiscal year provides for funding of the procurement of aircraft for either the Department of the Navy, the Department of the Army, or the Department of the Air Force at a level that is not sufficient to sustain the aviation force structure specified in the aircraft procurement plan for such Department for that fiscal year under subsection (a), the Secretary shall include with the defense budget materials for that fiscal year an assessment that describes and discusses the risks associated with the reduced force structure of aircraft that will result from funding aircraft procurement at such level. Such assessment shall be coordinated in advance with the commanders of the combatant commands.
 
-**(e) Annual Report on Aircraft Inventory.—**
-
-(1) As part of the annual plan and certification required to be submitted under this section, the Secretary shall include a report on the aircraft in the inventory of the Department of Defense. Each such report shall include the following, for the year covered by the report:
-
-  (A) The total number of aircraft in the inventory.
-
-  (B) The total number of the aircraft in the inventory that are active, stated in the following categories (with appropriate subcategories for mission aircraft, training aircraft, dedicated test aircraft, and other aircraft):
-
-    (i) Primary aircraft.
-
-    (ii) Backup aircraft.
-
-    (iii) Attrition and reconstitution reserve aircraft.
-
-  (C) The total number of the aircraft in the inventory that are inactive, stated in the following categories:
-
-    (i) Bailment aircraft.
-
-    (ii) Drone aircraft.
-
-    (iii) Aircraft for sale or other transfer to foreign governments.
-
-    (iv) Leased or loaned aircraft.
-
-    (v) Aircraft for maintenance training.
-
-    (vi) Aircraft for reclamation.
-
-    (vii) Aircraft in storage.
-
-  (D) The aircraft inventory requirements approved by the Joint Chiefs of Staff.
-
-(2) Each report submitted under this subsection shall set forth each item described in paragraph (1) separately for the regular component of each armed force and for each reserve component of each armed force and, for each such component, shall set forth each type, model, and series of aircraft provided for in the future-years defense program that covers the fiscal year for which the budget accompanying the plan, certification and report is submitted.
-
-**(f) Definitions.—** In this section:
+**(e) Definitions.—** In this section:
 
 (1) The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim).
 
-(2) The term “Quadrennial Defense Review” means the review of the defense programs and policies of the United States that is carried out every 4 years under [section 118 of this title](./chapter-002-department-of-defense.md#section-118).
+(2) The term “Quadrennial Defense Review” means the review of the defense programs and policies of the United States that is carried out every 4 years under section 118 11 See References in Text note below. of this title.
 
 ### Statutory Notes
 
+#### References in Text
+[Section 118 of this title](./chapter-002-department-of-defense.md#section-118), referred to in subsec. (e)(2), was repealed by Pub. L. 114–328, div. A, title IX, § 941(b)(1), Dec. 23, 2016, 130 Stat. 2367. For provisions related to national defense strategy similar to those contained in former section 118 prior to repeal, see [section 113(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g&num=0&edition=prelim).
+
 #### Amendments
+2016—Subsecs. (e), (f). Pub. L. 114–328 redesignated subsec. (f) as (e) and struck out former subsec. (e), which required the Secretary of Defense to include a report on the aircraft in the inventory of the Department of Defense as part of the annual plan and certification required to be submitted under this section.
+
 2014—Subsec. (c)(1). Pub. L. 113–291 substituted “([50 U.S.C. 3043](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3043&num=0&edition=prelim))” for “([50 U.S.C. 404a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section404a&num=0&edition=prelim))”.
 
 2013—Subsec. (a). Pub. L. 113–66 substituted “fiscal year, the Secretary of Defense” for “fiscal year of Defense” in introductory provisions.
@@ -828,6 +829,9 @@ Subsec. (d). Pub. L. 112–81, § 1069(a)(4), inserted “, the Department of th
 Subsec. (e). Pub. L. 112–81, § 1069(a)(6), added subsec. (e). Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 112–81, § 1069(a)(5), (7), redesignated subsec. (e) as (f), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “The term ‘defense budget materials’, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.”
+
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
 
 <a id="section-232"></a>
@@ -966,3 +970,42 @@ The Secretary of Defense shall submit to Congress, as a part of the documentatio
 (1) determines the Secretary is unable to comply with such requirement for fiscal year 2017; and
 
 (2) establishes a plan to implement the requirement for fiscal year 2018.
+
+### Statutory Notes
+
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
+
+<a id="section-239"></a>
+## § 239. National security space programs: major force program and budget assessment
+**(a) Establishment of Major Force Program.—** The Secretary of Defense shall establish a unified major force program for national security space programs pursuant to [section 222(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section222/b&num=0&edition=prelim) to prioritize national security space activities in accordance with the requirements of the Department of Defense and national security.
+
+**(b) Budget Assessment.—**
+
+(1) The Secretary shall include with the defense budget materials for each of fiscal years 2017 through 2020 a report on the budget for national security space programs of the Department of Defense.
+
+(2) Each report on the budget for national security space programs of the Department of Defense under paragraph (1) shall include the following:
+
+  (A) An overview of the budget, including—
+
+    (i) a comparison between that budget, the previous budget, the most recent and prior future-years defense program submitted to Congress under [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221), and the amounts appropriated for such programs during the previous fiscal year; and
+
+    (ii) the specific identification, as a budgetary line item, for the funding under such programs.
+
+  (B) An assessment of the budget, including significant changes, priorities, challenges, and risks.
+
+  (C) Any additional matters the Secretary determines appropriate.
+
+(3) Each report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+
+**(c) Definitions.—** In this section:
+
+(1) The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim).
+
+(2) The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
+
+### Statutory Notes
+
+#### Plan To Carry Out Unified Major Force Program Designation
+Pub. L. 114–92, div. A, title XVI, § 1601(b), Nov. 25, 2015, 129 Stat. 1096, provided that: “Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan to carry out the unified major force program designation required by [section 239(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section239/a&num=0&edition=prelim), United States Code, as added by subsection (a)(1), including any recommendations for legislative action the Secretary determines appropriate.”

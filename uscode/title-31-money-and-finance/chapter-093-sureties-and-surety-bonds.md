@@ -2,7 +2,7 @@
 title: 31
 chapter: '93'
 heading: SURETIES AND SURETY BONDS
-section_count: 9
+section_count: 10
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31&num=0&edition=prelim
 ---
@@ -354,3 +354,18 @@ When a person required to provide a surety bond given to the United States Gover
 | 9309 | 31:193. | R.S. § 3468. |
 
 In the section, before clause (1), the words “person required to provide a surety bond” are substituted for “principal in any bond” for clarity and consistency. The words “dies having assets insufficient to pay debts” are substituted for “whenever, such principal being deceased, his estate and effects which come to the hands of his executor, administrator, or assignee, are insufficient for the payment of his debts” to eliminate unnecessary words. The words “and, in either of such cases”, “on the bond”, and “such surety, his executor, administrator, or assignee” are omitted as unnecessary. Clause (1) is substituted for “shall have the like priority for the recovery and receipt of the moneys out of the estate and effects of such insolvent or deceased principal as is secured to the United States” to eliminate unnecessary words and for clarity. In clause (2), the words “and maintain” are omitted as surplus. The words “civil action” are substituted for “suit” for consistency. The words “in law or equity” are omitted as surplus.
+
+
+<a id="section-9310"></a>
+## § 9310. Individual sureties
+
+If another applicable Federal law or regulation permits the acceptance of a bond from a surety that is not subject to sections 9305 and 9306 and is based on a pledge of assets by the surety, the assets pledged by such surety shall—
+
+(1) consist of eligible obligations described under section 9303(a); and
+
+(2) be submitted to the official of the Government required to approve or accept the bond, who shall deposit the obligations as described under section 9303(b).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 1 year after Nov. 25, 2015, see section 874(c) of Pub. L. 114–92, set out as an Effective Date of 2015 Amendment note under [section 694b of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section694b&num=0&edition=prelim), Commerce and Trade.

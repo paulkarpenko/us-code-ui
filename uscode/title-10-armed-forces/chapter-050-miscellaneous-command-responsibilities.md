@@ -164,7 +164,7 @@ Pub. L. 106–65, div. A, title V, § 586(e), Oct. 5, 1999, 113 Stat. 639, provi
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 #### Family Care Plans and Deferment of Deployment of Single Parent or Dual Military Couples With Minor Dependents
-Pub. L. 110–181, div. A, title V, § 586, Jan. 28, 2008, 122 Stat. 132, provided that: “The Secretary of Defense shall establish appropriate procedures to ensure that an adequate family care plan is in place for a member of the Armed Forces with minor dependents who is a single parent or whose spouse is also a member of the Armed Forces when the member may be deployed in an area for which imminent danger pay is authorized under [section 310 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section310&num=0&edition=prelim), United States Code. Such procedures should allow the member to request a deferment of deployment due to unforeseen circumstances, and the request for such a deferment should be considered and responded to promptly.”
+Pub. L. 110–181, div. A, title V, § 586, Jan. 28, 2008, 122 Stat. 132, as amended by Pub. L. 114–328, div. A, title VI, § 618(a), Dec. 23, 2016, 130 Stat. 2160, provided that: “The Secretary of Defense shall establish appropriate procedures to ensure that an adequate family care plan is in place for a member of the Armed Forces with minor dependents who is a single parent or whose spouse is also a member of the Armed Forces when the member may be deployed in an area for which imminent danger pay is authorized under section 310 or 351 of title 37, United States Code. Such procedures should allow the member to request a deferment of deployment due to unforeseen circumstances, and the request for such a deferment should be considered and responded to promptly.”
 
 #### Policy on Concurrent Deployment to Combat Zones of Both Military Spouses of Military Families With Minor Children
 Pub. L. 108–136, div. A, title V, § 585, Nov. 24, 2003, 117 Stat. 1492, provided that: “(a) Publication of Policy.—Not later than 180 days after the date of the enactment of this Act [Nov. 24, 2003], the Secretary of Defense shall—“(1) prescribe the policy of the Department of Defense on concurrent deployment to a combat zone of both spouses of a dual-military family with one or more minor children; and “(2) transmit the policy to the Committees on Armed Services of the Senate and the House of Representatives. “(b) Dual-Military Family Defined.—In this section, the term ‘dual-military family’ means a family in which both spouses are members of the Armed Forces.”
@@ -174,10 +174,10 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 574(d)], Oct. 30, 2000, 114 Stat.
 
 
 <a id="section-992"></a>
-## § 992. Consumer education: financial services
-**(a) Requirement for Consumer Education Program for Members.—**
+## § 992. Financial literacy training: financial services
+**(a) Requirement for Financial Literacy Training Program for Members.—**
 
-(1) The Secretary concerned shall carry out a program to provide comprehensive education to members of the armed forces under the jurisdiction of the Secretary on—
+(1) The Secretary concerned shall carry out a program to provide comprehensive financial literacy training to members of the armed forces under the jurisdiction of the Secretary on—
 
   (A) financial services that are available under law to members;
 
@@ -189,13 +189,47 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 574(d)], Oct. 30, 2000, 114 Stat.
 
   (E) such other financial practices as the Secretary considers appropriate.
 
-(2) Training under this subsection shall be provided to members as—
+(2) Training under this subsection shall be provided to a member of the armed forces—
 
-  (A) a component of members initial entry orientation training; and
+  (A) as a component of the initial entry training of the member;
 
-  (B) a component of periodically recurring required training that is provided for the members at military installations.
+  (B) upon arrival at the first duty station of the member;
 
-(3) The training provided at a military installation under paragraph (2)(B) shall include information on any financial services marketing practices that are particularly prevalent at that military installation and in the vicinity.
+  (C) upon arrival at each subsequent duty station, in the case of a member in pay grade E–4 or below or in pay grade O–3 or below;
+
+  (D) on the date of promotion of the member, in the case of a member in pay grade E–5 or below or in pay grade O–4 or below;
+
+  (E) when the member vests in the Thrift Savings Plan (TSP) under [section 8432(g)(2)(C) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8432/g/2/C&num=0&edition=prelim);
+
+  (F) when the member becomes entitled to receive continuation pay under [section 356 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section356&num=0&edition=prelim), at which time the training shall include, at a minimum, information on options available to the member regarding the use of continuation pay;
+
+  (G) at each major life event during the service of the member, such as—
+
+    (i) marriage;
+
+    (ii) divorce;
+
+    (iii) birth of first child; or
+
+    (iv) disabling sickness or condition;
+
+  (H) during leadership training;
+
+  (I) during pre-deployment training and during post-deployment training;
+
+  (J) at transition points in the service of the member, such as—
+
+    (i) transition from a regular component to a reserve component;
+
+    (ii) separation from service; or
+
+    (iii) retirement; and
+
+  (K) as a component of periodically recurring required training that is provided to the member at a military installation.
+
+(3) The training provided at a military installation under paragraph (2)(J) shall include information on any financial services marketing practices that are particularly prevalent at that military installation and in the vicinity.
+
+(4) The Secretary concerned shall prescribe regulations setting forth any other events and circumstances (in addition to the events and circumstances described in paragraph (2)) upon which the training required by this subsection shall be provided.
 
 **(b) Counseling for Members and Spouses.—**
 
@@ -223,7 +257,17 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 574(d)], Oct. 30, 2000, 114 Stat.
 
 **(c) Life Insurance.—** In counseling a member of the armed forces, or spouse of a member of the armed forces, under this section regarding life insurance offered by a private sector source, a financial services counselor under subsection (b)(2)(A)(i), or another individual providing counseling on financial services under subsection (b)(2), shall furnish the member or spouse, as the case may be, with information on the availability of Servicemembers’ Group Life Insurance under subchapter III of chapter 19 of title 38, including information on the amounts of coverage available and the procedures for electing coverage and the amount of coverage.
 
-**(d) Financial Services Defined.—** In this section, the term “financial services” includes the following:
+**(d) Financial Literacy and Preparedness Survey.—**
+
+(1) The Director of the Defense Manpower Data Center shall annually include in the status of forces survey a survey of the status of the financial literacy and preparedness of members of the armed forces.
+
+(2) The results of the annual financial literacy and preparedness survey—
+
+  (A) shall be used by each of the Secretaries concerned as a benchmark to evaluate and update training provided under this section; and
+
+  (B) shall be submitted to the Committees on Armed Services of the Senate and the House of Representatives.
+
+**(e) Financial Services Defined.—** In this section, the term “financial services” includes the following:
 
 (1) Life insurance, casualty insurance, and other insurance.
 
@@ -231,13 +275,40 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 574(d)], Oct. 30, 2000, 114 Stat.
 
 (3) Banking, credit, loans, deferred payment plans, and mortgages.
 
+(4) Health insurance, budget management, Thrift Savings Plan (TSP), retirement lump sum payments (including rollover options and tax consequences), and Survivor Benefit Plan (SBP).
+
 ### Statutory Notes
 
 #### Amendments
+2015—Pub. L. 114–92, § 661(e)(1), substituted “Financial literacy training: financial services” for “Consumer education: financial services” in section catchline.
+
+Subsec. (a). Pub. L. 114–92, § 661(b)(1), substituted “Financial Literacy Training” for “Consumer Education” in heading.
+
+Subsec. (a)(1). Pub. L. 114–92, § 661(b)(2), substituted “financial literacy training” for “education” in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 114–92, § 661(b)(3), added par. (2) and struck out former par. (2) which read as follows: “Training under this subsection shall be provided to members as—
+
+“(A) a component of members initial entry orientation training; and
+
+“(B) a component of periodically recurring required training that is provided for the members at military installations.”
+
+Subsec. (a)(3). Pub. L. 114–92, § 661(b)(4), substituted “paragraph (2)(J)” for “paragraph (2)(B)”.
+
+Subsec. (a)(4). Pub. L. 114–92, § 661(b)(5), added par. (4).
+
+Subsec. (d). Pub. L. 114–92, § 661(c)(2), added subsec. (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 114–92, § 661(c)(1), redesignated subsec. (d) as (e).
+
+Subsec. (e)(4). Pub. L. 114–92, § 661(d), added par. (4).
+
 2009—Subsec. (b)(4). Pub. L. 111–84 struck out period after “under this section”.
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–163, div. A, title V, § 578(b), Jan. 6, 2006, 119 Stat. 3276, provided that: “The amendments made by this section [enacting this section] shall take effect on the first day of the first month that begins more than 120 days after the date of the enactment of this Act [Jan. 6, 2006].”
+
+#### Implementations
+Pub. L. 114–92, div. A, title VI, § 661(f), Nov. 25, 2015, 129 Stat. 859, provided that: “Not later than six months after the date of the enactment of this Act [Nov. 25, 2015], the Secretary of the military department concerned and the Secretary of the Department in which the Coast Guard is operating shall commence providing financial literacy training under [section 992 of title 10](./chapter-050-miscellaneous-command-responsibilities.md#section-992), United States Code, as amended by subsections (b), (c), and (d) of this section, to members of the Armed Forces.”
 
 #### Counseling on Mortgage Foreclosures for Members of the Armed Forces Returning From Service Abroad
 Pub. L. 110–289, div. B, title II, § 2202, July 30, 2008, 122 Stat. 2849, provided that: “(a) In General.—The Secretary of Defense shall develop and implement a program to advise members of the Armed Forces (including members of the National Guard and Reserve) who are returning from service on active duty abroad (including service in Operation Iraqi Freedom and Operation Enduring Freedom) on actions to be taken by such members to prevent or forestall mortgage foreclosures. “(b) Elements.—The program required by subsection (a) shall include the following:“(1) Credit counseling. “(2) Home mortgage counseling. “(3) Such other counseling and information as the Secretary considers appropriate for purposes of the program. “(c) Timing of Provision of Counseling.—Counseling and other information under the program required by subsection (a) shall be provided to a member of the Armed Forces covered by the program as soon as practicable after the return of the member from service as described in subsection (a).”

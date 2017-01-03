@@ -169,7 +169,7 @@ It is the policy of the United States—
 
 (6) any other information the Secretary considers to be necessary or appropriate for evaluating the eligibility of the project for funding under this chapter.
 
-**(c) Project review and approval** The Secretary shall review each project proposal to determine if it meets the criteria set forth in subsection (d) of this section and otherwise merits assistance under this chapter. Not later than six months after receiving a project proposal, and subject to the availability of funds, the Secretary shall approve or disapprove the proposal and provide written notification to the person who submitted the proposal.
+**(c) Project review and approval** The Secretary shall review each project proposal to determine if it meets the criteria set forth in subsection (d) and otherwise merits assistance under this chapter. Not later than six months after receiving a project proposal, and subject to the availability of funds, the Secretary shall approve or disapprove the proposal and provide written notification to the person who submitted the proposal.
 
 **(d) Criteria for approval** The Secretary may approve a project under this section if the project will enhance programs for African elephant research, conservation, management, or protection by—
 

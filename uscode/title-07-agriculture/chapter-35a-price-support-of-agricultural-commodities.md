@@ -76,7 +76,7 @@ Pub. L. 101–508, title I, § 1001(a), Nov. 5, 1990, 104 Stat. 1388, provided t
 #### Short Title of 1989 Amendments
 Pub. L. 101–239, title I, § 1001(a), Dec. 19, 1989, 103 Stat. 2106, provided that: “This title [enacting [section 1433d of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1433d), amending sections 1444e, 1445b–2, 1446, 1464, and 1736s of this title, enacting provisions set out as notes under sections 1433d, 1444e, 1445b–2, 1446, and 1464 of this title and [section 2278b–9 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2278b–9&num=0&edition=prelim), Banks and Banking, and amending provisions set out as a note under this section] may be cited as the ‘Agricultural Reconciliation Act of 1989’.”
 
-Pub. L. 101–82, § 1(a), Aug. 14, 1989, 103 Stat. 564, provided that: “This Act [enacting sections 1508a and 1926a of this title and [section 493 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section493&num=0&edition=prelim), Indians, amending sections 1359, 1464, 1471d, and 1471e of this title and [section 2202 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2202&num=0&edition=prelim), Conservation, enacting provisions set out as notes under this section and sections 1359, 1464, 1926a, 1929a, 1941, and 1961 of this title and sections 2202 and 2203 of Title 16, and amending provisions set out as a note under this section] may be cited as the ‘Disaster Assistance Act of 1989’.”
+Pub. L. 101–82, § 1(a), Aug. 14, 1989, 103 Stat. 564, provided that: “This Act [enacting sections 1508a and 1926a of this title and [section 5142 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5142&num=0&edition=prelim), Indians, amending sections 1359, 1464, 1471d, and 1471e of this title and [section 2202 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2202&num=0&edition=prelim), Conservation, enacting provisions set out as notes under this section and sections 1359, 1464, 1926a, 1929a, 1941, and 1961 of this title and sections 2202 and 2203 of Title 16, and amending provisions set out as a note under this section] may be cited as the ‘Disaster Assistance Act of 1989’.”
 
 #### Short Title of 1988 Amendments
 Pub. L. 100–418, title II, § 2221, Aug. 23, 1988, 102 Stat. 1336, provided that: “This part [part II (§§ 2221–2227) of subtitle B of title II of Pub. L. 100–418, which amended [section 1431 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1431) and enacted provisions set out as notes under [section 1431 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1431)] may be cited as the ‘American Aid to Poland Act of 1988’.”
@@ -4155,11 +4155,11 @@ As used in this subchapter:
 
   (B) Any 11 So in original. Probably should not be capitalized. of the following entities that is actively engaged in livestock production or husbandry, or dairy production—
 
-    (i) any Indian tribe (as defined in [section 450b(b) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/b&num=0&edition=prelim)); 22 See References in Text note below.
+    (i) any Indian tribe (as defined in [section 5304(b) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/b&num=0&edition=prelim)); 22 See References in Text note below.
 
-    (ii) any Indian organization or entity chartered under the Act of June 18, 1934 (48 Stat. 984, chapter 576; [25 U.S.C. 461](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section461&num=0&edition=prelim) et seq.), commonly known as the “Indian Reorganization Act”;
+    (ii) any Indian organization or entity chartered under the Act of June 18, 1934 (48 Stat. 984, chapter 576; [25 U.S.C. 461](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section461&num=0&edition=prelim) et seq.),2 commonly known as the “Indian Reorganization Act”;
 
-    (iii) any tribal organization (as defined in [section 450b(c) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/c&num=0&edition=prelim)); 2 or
+    (iii) any tribal organization (as defined in [section 5304(c) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/c&num=0&edition=prelim)); 2 or
 
     (iv) any economic enterprise (as defined in [section 1452(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1452/e&num=0&edition=prelim));
 
@@ -4182,9 +4182,9 @@ As used in this subchapter:
 ### Statutory Notes
 
 #### References in Text
-[Section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim), referred to in par. (1)(B)(i), (iii), has been amended, and subsecs. (b) and (c) of section 450b no longer define the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in that section.
+[Section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim), referred to in par. (1)(B)(i), (iii), has been amended, and subsecs. (b) and (c) of section 5304 no longer define the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in that section.
 
-Act of June 18, 1934, referred to in par. (1)(B)(ii), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended, popularly known as the Indian Reorganization Act, which enacted sections 461, 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 461 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section461&num=0&edition=prelim) and Tables.
+Act of June 18, 1934, referred to in par. (1)(B)(ii), is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which was classified generally to subchapter V (§ 461 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 45 (§ 5101 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 5101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5101&num=0&edition=prelim) and Tables.
 
 [Section 1985(e)(1)(D)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1985/e/1/D/ii&num=0&edition=prelim), referred to in par. (5), was redesignated [section 1985(e)(1)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1985/e/1/A/ii&num=0&edition=prelim) by Pub. L. 104–127, title VI, § 638(3)(A)(ii), Apr. 4, 1996, 110 Stat. 1096.
 

@@ -244,17 +244,17 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 <a id="section-2702"></a>
 ## § 2702. Elements of liability
-**(a) In general** Notwithstanding any other provision or rule of law, and subject to the provisions of this Act, each responsible party for a vessel or a facility from which oil is discharged, or which poses the substantial threat of a discharge of oil, into or upon the navigable waters or adjoining shorelines or the exclusive economic zone is liable for the removal costs and damages specified in subsection (b) of this section that result from such incident.
+**(a) In general** Notwithstanding any other provision or rule of law, and subject to the provisions of this Act, each responsible party for a vessel or a facility from which oil is discharged, or which poses the substantial threat of a discharge of oil, into or upon the navigable waters or adjoining shorelines or the exclusive economic zone is liable for the removal costs and damages specified in subsection (b) that result from such incident.
 
 **(b) Covered removal costs and damages**
 
-(1) **Removal costs** — The removal costs referred to in subsection (a) of this section are—
+(1) **Removal costs** — The removal costs referred to in subsection (a) are—
 
   (A) all removal costs incurred by the United States, a State, or an Indian tribe under subsection (c), (d), (e), or (l) of [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321), under the Intervention on the High Seas Act ([33 U.S.C. 1471](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1471) et seq.), or under State law; and
 
   (B) any removal costs incurred by any person for acts taken by the person which are consistent with the National Contingency Plan.
 
-(2) **Damages** — The damages referred to in subsection (a) of this section are the following:
+(2) **Damages** — The damages referred to in subsection (a) are the following:
 
   (A) *Natural resources* — Damages for injury to, destruction of, loss of, or loss of use of, natural resources, including the reasonable costs of assessing the damage, which shall be recoverable by a United States trustee, a State trustee, an Indian tribe trustee, or a foreign trustee.
 
@@ -322,7 +322,7 @@ The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (c)(3), is t
 
 **(b) Defenses as to particular claimants** A responsible party is not liable under [section 2702 of this title](./chapter-040-oil-pollution.md#section-2702) to a claimant, to the extent that the incident is caused by the gross negligence or willful misconduct of the claimant.
 
-**(c) Limitation on complete defense** Subsection (a) of this section does not apply with respect to a responsible party who fails or refuses—
+**(c) Limitation on complete defense** Subsection (a) does not apply with respect to a responsible party who fails or refuses—
 
 (1) to report the incident as required by law if the responsible party knows or has reason to know of the incident;
 
@@ -332,7 +332,7 @@ The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (c)(3), is t
 
 **(d) Definition of contractual relationship**
 
-(1) **In general** — For purposes of subsection (a)(3) of this section the term “contractual relationship” includes, but is not limited to, land contracts, deeds, easements, leases, or other instruments transferring title or possession, unless—
+(1) **In general** — For purposes of subsection (a)(3) the term “contractual relationship” includes, but is not limited to, land contracts, deeds, easements, leases, or other instruments transferring title or possession, unless—
 
   (A) the real property on which the facility concerned is located was acquired by the responsible party after the placement of the oil on, in, or at the real property on which the facility concerned is located;
 
@@ -356,7 +356,7 @@ The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (c)(3), is t
 
 (3) **Additional requirements** — For purposes of paragraph (1)(C), the responsible party must establish by a preponderance of the evidence that the responsible party—
 
-  (A) has satisfied the requirements of subsection (a)(3)(A) and (B) of this section;
+  (A) has satisfied the requirements of subsection (a)(3)(A) and (B);
 
   (B) has provided full cooperation, assistance, and facility access to the persons that are authorized to conduct removal actions, including the cooperation and access necessary for the installation, integrity, operation, and maintenance of any complete or partial removal action;
 
@@ -420,7 +420,7 @@ The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (c)(3), is t
 
   (E) *Site inspection and title search* — In the case of real property for residential use or other similar use purchased by a nongovernmental or noncommercial entity, inspection and title search of the facility and the real property on which the facility is located that reveal no basis for further investigation shall be considered to satisfy the requirements of this paragraph.
 
-(5) **Previous owner or operator** — Nothing in this paragraph or in subsection (a)(3) of this section shall diminish the liability of any previous owner or operator of such facility who would otherwise be liable under this Act. Notwithstanding this paragraph, if a responsible party obtained actual knowledge of the discharge or substantial threat of discharge of oil at such facility when the responsible party owned the facility and then subsequently transferred ownership of the facility or the real property on which the facility is located to another person without disclosing such knowledge, the responsible party shall be treated as liable under 2702(a) 11 So in original. Probably should be preceded by “section”. of this title and no defense under subsection (a) of this section shall be available to such responsible party.
+(5) **Previous owner or operator** — Nothing in this paragraph or in subsection (a)(3) shall diminish the liability of any previous owner or operator of such facility who would otherwise be liable under this Act. Notwithstanding this paragraph, if a responsible party obtained actual knowledge of the discharge or substantial threat of discharge of oil at such facility when the responsible party owned the facility and then subsequently transferred ownership of the facility or the real property on which the facility is located to another person without disclosing such knowledge, the responsible party shall be treated as liable under 2702(a) 11 So in original. Probably should be preceded by “section”. of this title and no defense under subsection (a) shall be available to such responsible party.
 
 (6) **Limitation on defense** — Nothing in this paragraph shall affect the liability under this Act of a responsible party who, by any act or omission, caused or contributed to the discharge or substantial threat of discharge of oil which is the subject of the action relating to the facility.
 
@@ -469,18 +469,18 @@ This Act, referred to in subsec. (d)(5), (6), is Pub. L. 101–380, Aug. 18, 199
 
 (1) **Treated first as tank vessel** — For purposes of determining the responsible party and applying this Act and except as provided in paragraph (2), a mobile offshore drilling unit which is being used as an offshore facility is deemed to be a tank vessel with respect to the discharge, or the substantial threat of a discharge, of oil on or above the surface of the water.
 
-(2) **Treated as facility for excess liability** — To the extent that removal costs and damages from any incident described in paragraph (1) exceed the amount for which a responsible party is liable (as that amount may be limited under subsection (a)(1) of this section), the mobile offshore drilling unit is deemed to be an offshore facility. For purposes of applying subsection (a)(3) of this section, the amount specified in that subsection shall be reduced by the amount for which the responsible party is liable under paragraph (1).
+(2) **Treated as facility for excess liability** — To the extent that removal costs and damages from any incident described in paragraph (1) exceed the amount for which a responsible party is liable (as that amount may be limited under subsection (a)(1)), the mobile offshore drilling unit is deemed to be an offshore facility. For purposes of applying subsection (a)(3), the amount specified in that subsection shall be reduced by the amount for which the responsible party is liable under paragraph (1).
 
 **(c) Exceptions**
 
-(1) **Acts of responsible party** — Subsection (a) of this section does not apply if the incident was proximately caused by—
+(1) **Acts of responsible party** — Subsection (a) does not apply if the incident was proximately caused by—
 
   (A) gross negligence or willful misconduct of, or
 
   (B) the violation of an applicable Federal safety, construction, or operating regulation by,
   the responsible party, an agent or employee of the responsible party, or a person acting pursuant to a contractual relationship with the responsible party (except where the sole contractual arrangement arises in connection with carriage by a common carrier by rail).
 
-(2) **Failure or refusal of responsible party** — Subsection (a) of this section does not apply if the responsible party fails or refuses—
+(2) **Failure or refusal of responsible party** — Subsection (a) does not apply if the responsible party fails or refuses—
 
   (A) to report the incident as required by law and the responsible party knows or has reason to know of the incident;
 
@@ -488,9 +488,9 @@ This Act, referred to in subsec. (d)(5), (6), is Pub. L. 101–380, Aug. 18, 199
 
   (C) without sufficient cause, to comply with an order issued under subsection (c) or (e) of [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321) or the Intervention on the High Seas Act ([33 U.S.C. 1471](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1471) et seq.).
 
-(3) **OCS facility or vessel** — Notwithstanding the limitations established under subsection (a) of this section and the defenses of [section 2703 of this title](./chapter-040-oil-pollution.md#section-2703), all removal costs incurred by the United States Government or any State or local official or agency in connection with a discharge or substantial threat of a discharge of oil from any Outer Continental Shelf facility or a vessel carrying oil as cargo from such a facility shall be borne by the owner or operator of such facility or vessel.
+(3) **OCS facility or vessel** — Notwithstanding the limitations established under subsection (a) and the defenses of [section 2703 of this title](./chapter-040-oil-pollution.md#section-2703), all removal costs incurred by the United States Government or any State or local official or agency in connection with a discharge or substantial threat of a discharge of oil from any Outer Continental Shelf facility or a vessel carrying oil as cargo from such a facility shall be borne by the owner or operator of such facility or vessel.
 
-(4) **Certain tank vessels** — Subsection (a)(1) of this section shall not apply to—
+(4) **Certain tank vessels** — Subsection (a)(1) shall not apply to—
 
   (A) a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in [section 2720 of this title](./chapter-040-oil-pollution.md#section-2720); and
 
@@ -508,7 +508,7 @@ This Act, referred to in subsec. (d)(5), (6), is Pub. L. 101–380, Aug. 18, 199
 
   (C) *Rulemaking proceeding* — If the Secretary determines, based on the results of the study conducted under this 22 So in original. The word “this” probably should not appear. subparagraph (A), that the use of deepwater ports in connection with the transportation of oil by vessel results in a lower operational or environmental risk than the use of other ports, the Secretary shall initiate, not later than the 180th day following the date of submission of the report to the Congress under subparagraph (B), a rulemaking proceeding to lower the limits of liability under this section for deepwater ports as the Secretary determines appropriate. The Secretary may establish a limit of liability of less than $350,000,000, but not less than $50,000,000, in accordance with paragraph (1).
 
-(3) **Periodic reports** — The President shall, within 6 months after August 18, 1990, and from time to time thereafter, report to the Congress on the desirability of adjusting the limits of liability specified in subsection (a) of this section.
+(3) **Periodic reports** — The President shall, within 6 months after August 18, 1990, and from time to time thereafter, report to the Congress on the desirability of adjusting the limits of liability specified in subsection (a).
 
 (4) **Adjustment to reflect Consumer Price Index** — The President, by regulations issued not later than 3 years after July 11, 2006, and not less than every 3 years thereafter, shall adjust the limits on liability specified in subsection (a) to reflect significant increases in the Consumer Price Index.
 
@@ -534,7 +534,7 @@ Pub. L. 111–281, § 903(a)(2), made technical amendment to directory language 
 
 Subsec. (a)(2). Pub. L. 109–241, § 603(a)(2), as amended by Pub. L. 111–281, § 903(a)(2), substituted “$950 per gross ton” for “$600 per gross ton” and “$800,000,” for “$500,000”.
 
-Subsec. (d)(4). Pub. L. 109–241, § 603(b), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “The President shall, by regulations issued not less often than every 3 years, adjust the limits of liability specified in subsection (a) of this section to reflect significant increases in the Consumer Price Index.”
+Subsec. (d)(4). Pub. L. 109–241, § 603(b), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “The President shall, by regulations issued not less often than every 3 years, adjust the limits of liability specified in subsection (a) to reflect significant increases in the Consumer Price Index.”
 
 1998—Subsec. (a)(1). Pub. L. 105–383, § 406(1), substituted comma for “(except a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in [section 2720 of this title](./chapter-040-oil-pollution.md#section-2720))” after “tank vessel”.
 
@@ -552,12 +552,12 @@ Pub. L. 109–241, title VI, § 603(a)(3), July 11, 2006, 120 Stat. 554, provide
 For delegation of functions of President under subsec. (d) of this section, see section 4 of Ex. Ord. No. 12777, set out as a note under [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321).
 
 #### Report
-Pub. L. 109–241, title VI, § 603(c), July 11, 2006, 120 Stat. 554, provided that: “(1) Initial report.—Not later than 45 days after the date of enactment of this Act [July 11, 2006], the Secretary of the department in which the Coast Guard is operating shall submit a report on liability limits described in paragraph (2) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. “(2) Contents.—The report shall include, at a minimum, the following:“(A) An analysis of the extent to which oil discharges from vessels and nonvessel sources have or are likely to result in removal costs and damages (as defined in section 1001 of the Oil Pollution Act of 1990 ([33 U.S.C. 2701](./chapter-040-oil-pollution.md#section-2701))) for which no defense to liability exists under section 1003 of such Act [[33 U.S.C. 2703](./chapter-040-oil-pollution.md#section-2703)] and that exceed the liability limits established in section 1004 of such Act [[33 U.S.C. 2704](./chapter-040-oil-pollution.md#section-2704)], as amended by this section. “(B) An analysis of the impacts that claims against the Oil Spill Liability Trust Fund for amounts exceeding such liability limits will have on the Fund. “(C) Based on analyses under this paragraph and taking into account other factors impacting the Fund, recommendations on whether the liability limits need to be adjusted in order to prevent the principal of the Fund from declining to levels that are likely to be insufficient to cover expected claims. “(3) Annual updates.—The Secretary shall provide an update of the report to the Committees referred to in paragraph (1) on an annual basis.”
+Pub. L. 109–241, title VI, § 603(c), July 11, 2006, 120 Stat. 554, as amended by Pub. L. 114–120, title VI, § 601(b), Feb. 8, 2016, 130 Stat. 79, provided that: “(1) Initial report.—Not later than 45 days after the date of enactment of this Act [July 11, 2006], the Secretary of the department in which the Coast Guard is operating shall submit a report on liability limits described in paragraph (2) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. “(2) Contents.—The report shall include, at a minimum, the following:“(A) An analysis of the extent to which oil discharges from vessels and nonvessel sources have or are likely to result in removal costs and damages (as defined in section 1001 of the Oil Pollution Act of 1990 ([33 U.S.C. 2701](./chapter-040-oil-pollution.md#section-2701))) for which no defense to liability exists under section 1003 of such Act [[33 U.S.C. 2703](./chapter-040-oil-pollution.md#section-2703)] and that exceed the liability limits established in section 1004 of such Act [[33 U.S.C. 2704](./chapter-040-oil-pollution.md#section-2704)], as amended by this section. “(B) An analysis of the impacts that claims against the Oil Spill Liability Trust Fund for amounts exceeding such liability limits will have on the Fund. “(C) Based on analyses under this paragraph and taking into account other factors impacting the Fund, recommendations on whether the liability limits need to be adjusted in order to prevent the principal of the Fund from declining to levels that are likely to be insufficient to cover expected claims. “(3) Annual updates.—The Secretary shall provide an update of the report to the Committees referred to in paragraph (1) not later than January 30 of the year following each year in which occurs an oil discharge from a vessel or nonvessel source that results or is likely to result in removal costs and damages (as those terms are defined in section 1001 of the Oil Pollution Act of 1990 ([33 U.S.C. 2701](./chapter-040-oil-pollution.md#section-2701))) that exceed liability limits established under section 1004 of the Oil Pollution Act of 1990 ([33 U.S.C. 2704](./chapter-040-oil-pollution.md#section-2704)).”
 
 
 <a id="section-2705"></a>
 ## § 2705. Interest; partial payment of claims
-**(a) General rule** The responsible party or the responsible party’s guarantor is liable to a claimant for interest on the amount paid in satisfaction of a claim under this Act for the period described in subsection (b) of this section. The responsible party shall establish a procedure for the payment or settlement of claims for interim, short-term damages. Payment or settlement of a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled shall not preclude recovery by the claimant for damages not reflected in the paid or settled partial claim.
+**(a) General rule** The responsible party or the responsible party’s guarantor is liable to a claimant for interest on the amount paid in satisfaction of a claim under this Act for the period described in subsection (b). The responsible party shall establish a procedure for the payment or settlement of claims for interim, short-term damages. Payment or settlement of a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled shall not preclude recovery by the claimant for damages not reflected in the paid or settled partial claim.
 
 **(b) Period**
 
@@ -612,7 +612,7 @@ Subsec. (a). Pub. L. 104–324, § 1142(a)(2), inserted at end “The responsibl
 
 **(c) Functions of trustees**
 
-(1) **Federal trustees** — The Federal officials designated under subsection (b)(2) of this section—
+(1) **Federal trustees** — The Federal officials designated under subsection (b)(2)—
 
   (A) shall assess natural resource damages under [section 2702(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2702/b/2/A&num=0&edition=prelim) for the natural resources under their trusteeship;
 
@@ -620,19 +620,19 @@ Subsec. (a). Pub. L. 104–324, § 1142(a)(2), inserted at end “The responsibl
 
   (C) shall develop and implement a plan for the restoration, rehabilitation, replacement, or acquisition of the equivalent, of the natural resources under their trusteeship.
 
-(2) **State trustees** — The State and local officials designated under subsection (b)(3) of this section—
+(2) **State trustees** — The State and local officials designated under subsection (b)(3)—
 
   (A) shall assess natural resource damages under [section 2702(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2702/b/2/A&num=0&edition=prelim) for the purposes of this Act for the natural resources under their trusteeship; and
 
   (B) shall develop and implement a plan for the restoration, rehabilitation, replacement, or acquisition of the equivalent, of the natural resources under their trusteeship.
 
-(3) **Indian tribe trustees** — The tribal officials designated under subsection (b)(4) of this section—
+(3) **Indian tribe trustees** — The tribal officials designated under subsection (b)(4)—
 
   (A) shall assess natural resource damages under [section 2702(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2702/b/2/A&num=0&edition=prelim) for the purposes of this Act for the natural resources under their trusteeship; and
 
   (B) shall develop and implement a plan for the restoration, rehabilitation, replacement, or acquisition of the equivalent, of the natural resources under their trusteeship.
 
-(4) **Foreign trustees** — The trustees designated under subsection (b)(5) of this section—
+(4) **Foreign trustees** — The trustees designated under subsection (b)(5)—
 
   (A) shall assess natural resource damages under [section 2702(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2702/b/2/A&num=0&edition=prelim) for the purposes of this Act for the natural resources under their trusteeship; and
 
@@ -650,7 +650,7 @@ Subsec. (a). Pub. L. 104–324, § 1142(a)(2), inserted at end “The responsibl
 
   (C) the reasonable cost of assessing those damages.
 
-(2) **Determine costs with respect to plans** — Costs shall be determined under paragraph (1) with respect to plans adopted under subsection (c) of this section.
+(2) **Determine costs with respect to plans** — Costs shall be determined under paragraph (1) with respect to plans adopted under subsection (c).
 
 (3) **No double recovery** — There shall be no double recovery under this Act for natural resource damages, including with respect to the costs of damage assessment or restoration, rehabilitation, replacement, or acquisition for the same incident and natural resource.
 
@@ -658,9 +658,9 @@ Subsec. (a). Pub. L. 104–324, § 1142(a)(2), inserted at end “The responsibl
 
 (1) **Regulations** — The President, acting through the Under Secretary of Commerce for Oceans and Atmosphere and in consultation with the Administrator of the Environmental Protection Agency, the Director of the United States Fish and Wildlife Service, and the heads of other affected agencies, not later than 2 years after August 18, 1990, shall promulgate regulations for the assessment of natural resource damages under [section 2702(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2702/b/2/A&num=0&edition=prelim) resulting from a discharge of oil for the purpose of this Act.
 
-(2) **Rebuttable presumption** — Any determination or assessment of damages to natural resources for the purposes of this Act made under subsection (d) of this section by a Federal, State, or Indian trustee in accordance with the regulations promulgated under paragraph (1) shall have the force and effect of a rebuttable presumption on behalf of the trustee in any administrative or judicial proceeding under this Act.
+(2) **Rebuttable presumption** — Any determination or assessment of damages to natural resources for the purposes of this Act made under subsection (d) by a Federal, State, or Indian trustee in accordance with the regulations promulgated under paragraph (1) shall have the force and effect of a rebuttable presumption on behalf of the trustee in any administrative or judicial proceeding under this Act.
 
-**(f) Use of recovered sums** Sums recovered under this Act by a Federal, State, Indian, or foreign trustee for natural resource damages under [section 2702(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2702/b/2/A&num=0&edition=prelim) shall be retained by the trustee in a revolving trust account, without further appropriation, for use only to reimburse or pay costs incurred by the trustee under subsection (c) of this section with respect to the damaged natural resources. Any amounts in excess of those required for these reimbursements and costs shall be deposited in the Fund.
+**(f) Use of recovered sums** Sums recovered under this Act by a Federal, State, Indian, or foreign trustee for natural resource damages under [section 2702(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2702/b/2/A&num=0&edition=prelim) shall be retained by the trustee in a revolving trust account, without further appropriation, for use only to reimburse or pay costs incurred by the trustee under subsection (c) with respect to the damaged natural resources. Any amounts in excess of those required for these reimbursements and costs shall be deposited in the Fund.
 
 **(g) Compliance** Review of actions by any Federal official where there is alleged to be a failure of that official to perform a duty under this section that is not discretionary with that official may be had by any person in the district court in which the person resides or in which the alleged damage to natural resources occurred. The court may award costs of litigation (including reasonable attorney and expert witness fees) to any prevailing or substantially prevailing party. Nothing in this subsection shall restrict any right which any person may have to seek relief under any other provision of law.
 
@@ -689,7 +689,7 @@ Pub. L. 101–515, title I, Nov. 5, 1990, 104 Stat. 2105, provided that: “For 
 
   (B) recovery is authorized by a treaty or executive agreement between the United States and the claimant’s country, or the Secretary of State, in consultation with the Attorney General and other appropriate officials, has certified that the claimant’s country provides a comparable remedy for United States claimants.
 
-(2) **Exceptions** — Paragraph (1)(B) shall not apply with respect to recovery by a resident of Canada in the case of an incident described in subsection (b)(4) of this section.
+(2) **Exceptions** — Paragraph (1)(B) shall not apply with respect to recovery by a resident of Canada in the case of an incident described in subsection (b)(4).
 
 **(b) Discharges in foreign countries** A foreign claimant may make a claim for removal costs and damages resulting from a discharge, or substantial threat of a discharge, of oil in or on the territorial sea, internal waters, or adjacent shoreline of a foreign country, only if the discharge is from—
 
@@ -745,7 +745,7 @@ This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 48
 
 **(b) Liability not transferred** No indemnification, hold harmless, or similar agreement or conveyance shall be effective to transfer liability imposed under this Act from a responsible party or from any person who may be liable for an incident under this Act to any other person.
 
-**(c) Relationship to other causes of action** Nothing in this Act, including the provisions of subsection (b) of this section, bars a cause of action that a responsible party subject to liability under this Act, or a guarantor, has or would have, by reason of subrogation or otherwise, against any person.
+**(c) Relationship to other causes of action** Nothing in this Act, including the provisions of subsection (b), bars a cause of action that a responsible party subject to liability under this Act, or a guarantor, has or would have, by reason of subrogation or otherwise, against any person.
 
 ### Statutory Notes
 
@@ -772,7 +772,7 @@ Functions of President under this section delegated to Administrator of Environm
 
   (A) by Federal authorities; or
 
-  (B) by a Governor or designated State official under subsection (d) of this section;
+  (B) by a Governor or designated State official under subsection (d);
 
 (2) the payment of costs incurred by Federal, State, or Indian tribe trustees in carrying out their functions under [section 2706 of this title](./chapter-040-oil-pollution.md#section-2706) for assessing natural resource damages and for developing and implementing plans for the restoration, rehabilitation, replacement, or acquisition of the equivalent of damaged resources determined by the President to be consistent with the National Contingency Plan;
 
@@ -794,7 +794,7 @@ Functions of President under this section delegated to Administrator of Environm
 
 **(b) Defense to liability for Fund** The Fund shall not be available to pay any claim for removal costs or damages to a particular claimant, to the extent that the incident, removal costs, or damages are caused by the gross negligence or willful misconduct of that claimant.
 
-**(c) Obligation of Fund by Federal officials** The President may promulgate regulations designating one or more Federal officials who may obligate money in accordance with subsection (a) of this section.
+**(c) Obligation of Fund by Federal officials** The President may promulgate regulations designating one or more Federal officials who may obligate money in accordance with subsection (a).
 
 **(d) Access to Fund by State officials**
 
@@ -854,7 +854,7 @@ Functions of President under this section delegated to Administrator of Environm
 
   (B) against an incompetent person until the earlier of the date on which such incompetent’s incompetency ends or the date on which a legal representative is duly appointed for the incompetent.
 
-**(i) Limitation on payment for same costs** In any case in which the President has paid an amount from the Fund for any removal costs or damages specified under subsection (a) of this section, no other claim may be paid from the Fund for the same removal costs or damages.
+**(i) Limitation on payment for same costs** In any case in which the President has paid an amount from the Fund for any removal costs or damages specified under subsection (a), no other claim may be paid from the Fund for the same removal costs or damages.
 
 **(j) Obligation in accordance with plan**
 
@@ -920,7 +920,7 @@ Pub. L. 112–74, div. D, title V, § 563, Dec. 23, 2011, 125 Stat. 981, provide
 
 <a id="section-2713"></a>
 ## § 2713. Claims procedure
-**(a) Presentation** Except as provided in subsection (b) of this section, all claims for removal costs or damages shall be presented first to the responsible party or guarantor of the source designated under [section 2714(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2714/a&num=0&edition=prelim).
+**(a) Presentation** Except as provided in subsection (b), all claims for removal costs or damages shall be presented first to the responsible party or guarantor of the source designated under [section 2714(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2714/a&num=0&edition=prelim).
 
 **(b) Presentation to Fund**
 
@@ -936,7 +936,7 @@ Pub. L. 112–74, div. D, title V, § 563, Dec. 23, 2011, 125 Stat. 981, provide
 
 (2) **Limitation on presenting claim** — No claim of a person against the Fund may be approved or certified during the pendency of an action by the person in court to recover costs which are the subject of the claim.
 
-**(c) Election** If a claim is presented in accordance with subsection (a) of this section and—
+**(c) Election** If a claim is presented in accordance with subsection (a) and—
 
 (1) each person to whom the claim is presented denies all liability for the claim, or
 
@@ -991,17 +991,17 @@ Functions of President under subsec. (e) of this section delegated to Secretary 
 
 **(b) Advertisement by responsible party or guarantor**
 
-(1) If a responsible party or guarantor fails to inform the President, within 5 days after receiving notification of a designation under subsection (a) of this section, of the party’s or the guarantor’s denial of the designation, such party or guarantor shall advertise the designation and the procedures by which claims may be presented, in accordance with regulations promulgated by the President. Advertisement under the preceding sentence shall begin no later than 15 days after the date of the designation made under subsection (a) of this section. If advertisement is not otherwise made in accordance with this subsection, the President shall promptly and at the expense of the responsible party or the guarantor involved, advertise the designation and the procedures by which claims may be presented to the responsible party or guarantor. Advertisement under this subsection shall continue for a period of no less than 30 days.
+(1) If a responsible party or guarantor fails to inform the President, within 5 days after receiving notification of a designation under subsection (a), of the party’s or the guarantor’s denial of the designation, such party or guarantor shall advertise the designation and the procedures by which claims may be presented, in accordance with regulations promulgated by the President. Advertisement under the preceding sentence shall begin no later than 15 days after the date of the designation made under subsection (a). If advertisement is not otherwise made in accordance with this subsection, the President shall promptly and at the expense of the responsible party or the guarantor involved, advertise the designation and the procedures by which claims may be presented to the responsible party or guarantor. Advertisement under this subsection shall continue for a period of no less than 30 days.
 
 (2) An advertisement under paragraph (1) shall state that a claimant may present a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled and that payment of such a claim shall not preclude recovery for damages not reflected in the paid or settled partial claim.
 
 **(c) Advertisement by President** If—
 
-(1) the responsible party and the guarantor both deny a designation within 5 days after receiving notification of a designation under subsection (a) of this section,
+(1) the responsible party and the guarantor both deny a designation within 5 days after receiving notification of a designation under subsection (a),
 
 (2) the source of the discharge or threat was a public vessel, or
 
-(3) the President is unable to designate the source or sources of the discharge or threat under subsection (a) of this section,
+(3) the President is unable to designate the source or sources of the discharge or threat under subsection (a),
 the President shall advertise or otherwise notify potential claimants of the procedures by which claims may be presented to the Fund.
 
 ### Statutory Notes
@@ -1019,7 +1019,7 @@ Functions of President under this section delegated to Secretary of Department i
 
 **(b) Interim damages**
 
-(1) **In general** — If a responsible party, a guarantor, or the Fund has made payment to a claimant for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled, subrogation under subsection (a) of this section shall apply only with respect to the portion of the claim reflected in the paid interim claim.
+(1) **In general** — If a responsible party, a guarantor, or the Fund has made payment to a claimant for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled, subrogation under subsection (a) shall apply only with respect to the portion of the claim reflected in the paid interim claim.
 
 (2) **Final damages** — Payment of such a claim shall not foreclose a claimant’s right to recovery of all damages to which the claimant otherwise is entitled under this Act or under any other law.
 
@@ -1101,12 +1101,12 @@ shall establish and maintain, in accordance with regulations promulgated by the 
 
   (A) all rights and defenses which would be available to the responsible party under this Act;
 
-  (B) any defense authorized under subsection (e) of this section; and
+  (B) any defense authorized under subsection (e); and
 
   (C) the defense that the incident was caused by the willful misconduct of the responsible party.
   The guarantor may not invoke any other defense that might be available in proceedings brought by the responsible party against the guarantor.
 
-(2) **Further requirement** — A claim may be asserted pursuant to paragraph (1) directly against a guarantor providing evidence of financial responsibility under subsection (c)(1) of this section with respect to an offshore facility only if—
+(2) **Further requirement** — A claim may be asserted pursuant to paragraph (1) directly against a guarantor providing evidence of financial responsibility under subsection (c)(1) with respect to an offshore facility only if—
 
   (A) the responsible party for whom evidence of financial responsibility has been provided has denied or failed to pay a claim under this Act on the basis of being insolvent, as defined under [section 101(32) of title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section101/32&num=0&edition=prelim), and applying generally accepted accounting principles;
 
@@ -1137,7 +1137,7 @@ In subsec. (b)(1), “[section 60105 of title 46](https://uscode.house.gov/view.
 
 1996—Subsec. (c)(1). Pub. L. 104–324, § 1125(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), each responsible party with respect to an offshore facility shall establish and maintain evidence of financial responsibility of $150,000,000 to meet the amount of liability to which the responsible party could be subjected under [section 2704(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2704/a&num=0&edition=prelim) in a case in which the responsible party would be entitled to limit liability under that section. In a case in which a person is the responsible party for more than one facility subject to this subsection, evidence of financial responsibility need be established only to meet the maximum liability applicable to the facility having the greatest maximum liability.”
 
-Subsec. (f). Pub. L. 104–324, § 1125(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any claim for which liability may be established under [section 2702 of this title](./chapter-040-oil-pollution.md#section-2702) may be asserted directly against any guarantor providing evidence of financial responsibility for a responsible party liable under that section for removal costs and damages to which the claim pertains. In defending against such a claim, the guarantor may invoke (1) all rights and defenses which would be available to the responsible party under this Act, (2) any defense authorized under subsection (e) of this section, and (3) the defense that the incident was caused by the willful misconduct of the responsible party. The guarantor may not invoke any other defense that might be available in proceedings brought by the responsible party against the guarantor.”
+Subsec. (f). Pub. L. 104–324, § 1125(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any claim for which liability may be established under [section 2702 of this title](./chapter-040-oil-pollution.md#section-2702) may be asserted directly against any guarantor providing evidence of financial responsibility for a responsible party liable under that section for removal costs and damages to which the claim pertains. In defending against such a claim, the guarantor may invoke (1) all rights and defenses which would be available to the responsible party under this Act, (2) any defense authorized under subsection (e), and (3) the defense that the incident was caused by the willful misconduct of the responsible party. The guarantor may not invoke any other defense that might be available in proceedings brought by the responsible party against the guarantor.”
 
 Subsec. (g). Pub. L. 104–324, § 1125(a)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Nothing in this Act shall impose liability with respect to an incident on any guarantor for damages or removal costs which exceed, in the aggregate, the amount of financial responsibility required under this Act which that guarantor has provided for a responsible party.”
 
@@ -1154,7 +1154,7 @@ Specific functions of President under subsec. (e) of this section delegated to S
 ## § 2716a. Financial responsibility civil penalties
 **(a) Administrative** Any person who, after notice and an opportunity for a hearing, is found to have failed to comply with the requirements of [section 2716 of this title](./chapter-040-oil-pollution.md#section-2716) or the regulations issued under that section, or with a denial or detention order issued under subsection (c)(2) 11 So in original. Probably should be “subsection (b)(2)”. of that section, shall be liable to the United States for a civil penalty, not to exceed $25,000 per day of violation. The amount of the civil penalty shall be assessed by the President by written notice. In determining the amount of the penalty, the President shall take into account the nature, circumstances, extent, and gravity of the violation, the degree of culpability, any history of prior violation, ability to pay, and such other matters as justice may require. The President may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which had been imposed under this paragraph. If any person fails to pay an assessed civil penalty after it has become final, the President may refer the matter to the Attorney General for collection.
 
-**(b) Judicial** In addition to, or in lieu of, assessing a penalty under subsection (a) of this section, the President may request the Attorney General to secure such relief as necessary to compel compliance with this 22 So in original. The word “this” probably should not appear. [section 2716 of this title](./chapter-040-oil-pollution.md#section-2716), including a judicial order terminating operations. The district courts of the United States shall have jurisdiction to grant any relief as the public interest and the equities of the case may require.
+**(b) Judicial** In addition to, or in lieu of, assessing a penalty under subsection (a), the President may request the Attorney General to secure such relief as necessary to compel compliance with this 22 So in original. The word “this” probably should not appear. [section 2716 of this title](./chapter-040-oil-pollution.md#section-2716), including a judicial order terminating operations. The district courts of the United States shall have jurisdiction to grant any relief as the public interest and the equities of the case may require.
 
 ### Statutory Notes
 
@@ -1169,11 +1169,11 @@ Specific functions of President under this section delegated to Secretary of Dep
 ## § 2717. Litigation, jurisdiction, and venue
 **(a) Review of regulations** Review of any regulation promulgated under this Act may be had upon application by any interested person only in the Circuit Court of Appeals of the United States for the District of Columbia. Any such application shall be made within 90 days from the date of promulgation of such regulations. Any matter with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement or to obtain damages or recovery of response costs.
 
-**(b) Jurisdiction** Except as provided in subsections (a) and (c) of this section, the United States district courts shall have exclusive original jurisdiction over all controversies arising under this Act, without regard to the citizenship of the parties or the amount in controversy. Venue shall lie in any district in which the discharge or injury or damages occurred, or in which the defendant resides, may be found, has its principal office, or has appointed an agent for service of process. For the purposes of this section, the Fund shall reside in the District of Columbia.
+**(b) Jurisdiction** Except as provided in subsections (a) and (c), the United States district courts shall have exclusive original jurisdiction over all controversies arising under this Act, without regard to the citizenship of the parties or the amount in controversy. Venue shall lie in any district in which the discharge or injury or damages occurred, or in which the defendant resides, may be found, has its principal office, or has appointed an agent for service of process. For the purposes of this section, the Fund shall reside in the District of Columbia.
 
 **(c) State court jurisdiction** A State trial court of competent jurisdiction over claims for removal costs or damages, as defined under this Act, may consider claims under this Act or State law and any final judgment of such court (when no longer subject to ordinary forms of review) shall be recognized, valid, and enforceable for all purposes of this Act.
 
-**(d) Assessment and collection of tax** The provisions of subsections (a), (b), and (c) of this section shall not apply to any controversy or other matter resulting from the assessment or collection of any tax, or to the review of any regulation promulgated under title 26.
+**(d) Assessment and collection of tax** The provisions of subsections (a), (b), and (c) shall not apply to any controversy or other matter resulting from the assessment or collection of any tax, or to the review of any regulation promulgated under title 26.
 
 **(e) Savings provision** Nothing in this subchapter shall apply to any cause of action or right of recovery arising from any incident which occurred prior to August 18, 1990. Such claims shall be adjudicated pursuant to the law applicable on the date of the incident.
 
@@ -1255,7 +1255,7 @@ A State may enforce, on the navigable waters of the State, the requirements for 
 
 <a id="section-2720"></a>
 ## § 2720. Differentiation among fats, oils, and greases
-**(a) In general** Except as provided in subsection (c) of this section, in issuing or enforcing any regulation or establishing any interpretation or guideline relating to the transportation, storage, discharge, release, emission, or disposal of a fat, oil, or grease under any Federal law, the head of that Federal agency shall—
+**(a) In general** Except as provided in subsection (c), in issuing or enforcing any regulation or establishing any interpretation or guideline relating to the transportation, storage, discharge, release, emission, or disposal of a fat, oil, or grease under any Federal law, the head of that Federal agency shall—
 
 (1) differentiate between and establish separate classes for—
 
@@ -1263,9 +1263,9 @@ A State may enforce, on the navigable waters of the State, the requirements for 
 
   (B) other oils and greases, including petroleum; and
 
-(2) apply standards to different classes of fats and oils based on considerations in subsection (b) of this section.
+(2) apply standards to different classes of fats and oils based on considerations in subsection (b).
 
-**(b) Considerations** In differentiating between the class of fats, oils, and greases described in subsection (a)(1)(A) of this section and the class of oils and greases described in subsection (a)(1)(B) of this section, the head of the Federal agency shall consider differences in the physical, chemical, biological, and other properties, and in the environmental effects, of the classes.
+**(b) Considerations** In differentiating between the class of fats, oils, and greases described in subsection (a)(1)(A) and the class of oils and greases described in subsection (a)(1)(B), the head of the Federal agency shall consider differences in the physical, chemical, biological, and other properties, and in the environmental effects, of the classes.
 
 **(c) Exception** The requirements of this Act shall not apply to the Food and Drug Administration and the Food Safety and Inspection Service.
 
@@ -1342,7 +1342,7 @@ Pub. L. 104–324, title XI, § 1130, Oct. 19, 1996, 110 Stat. 3985, as amended 
 
 **(i) Termination** The authorization in [section 2736(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2736/b&num=0&edition=prelim) providing funding for the Institute shall terminate 1 year after the date on which the Secretary, in consultation with the Secretary of the Interior, determines that oil and gas exploration, development, and production in the State of Alaska have ceased.
 
-**(j) Use of funds** No funds made available to carry out this section may be used to initiate litigation. No funds made available to carry out this section may be used for the acquisition of real property (including buildings) or construction of any building. No more than 20 percent of funds made available to carry out this section may be used to lease necessary facilities and to administer the Institute. The Advisory Board may compensate its Federal representatives for their reasonable travel costs. None of the funds authorized by this section shall be used for any purpose other than the functions specified in subsection (b) of this section.
+**(j) Use of funds** No funds made available to carry out this section may be used to initiate litigation. No funds made available to carry out this section may be used for the acquisition of real property (including buildings) or construction of any building. No more than 20 percent of funds made available to carry out this section may be used to lease necessary facilities and to administer the Institute. The Advisory Board may compensate its Federal representatives for their reasonable travel costs. None of the funds authorized by this section shall be used for any purpose other than the functions specified in subsection (b).
 
 **(k) Research** The Institute shall publish and make available to any person upon request the results of all research, educational, and demonstration projects conducted by the Institute. The Administrator shall provide a copy of all research, educational, and demonstration projects conducted by the Institute to the National Oceanic and Atmospheric Administration.
 
@@ -1433,7 +1433,7 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 **(c) Oil Terminal Facilities and Oil Tanker Operations Association**
 
-(1) **Establishment** — There is established an Oil Terminal Facilities and Oil Tanker Operations Association (hereinafter in this section referred to as the “Association”) for each of the Programs established under subsection (b) of this section.
+(1) **Establishment** — There is established an Oil Terminal Facilities and Oil Tanker Operations Association (hereinafter in this section referred to as the “Association”) for each of the Programs established under subsection (b).
 
 (2) **Membership** — Each Association shall be comprised of 4 individuals as follows:
 
@@ -1451,7 +1451,7 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 **(d) Regional Citizens’ Advisory Councils**
 
-(1) **Membership** — There is established a Regional Citizens’ Advisory Council (hereinafter in this section referred to as the “Council”) for each of the programs established by subsection (b) of this section.
+(1) **Membership** — There is established a Regional Citizens’ Advisory Council (hereinafter in this section referred to as the “Council”) for each of the programs established by subsection (b).
 
 (2) **Membership** — Each Council shall be composed of voting members and nonvoting members, as follows:
 
@@ -1505,9 +1505,9 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
     (i) For the appointments by the Governor of the State of Alaska, one-third shall serve for 3 years, one-third shall serve for 2 years, and one-third shall serve for one year.
 
-    (ii) For the representatives of municipalities required by subsection (d)(2)(A)(vii) of this section, a drawing of lots among the appointees shall determine that one-third of that group serves for 3 years, one-third serves for 2 years, and the remainder serves for 1 year.
+    (ii) For the representatives of municipalities required by subsection (d)(2)(A)(vii), a drawing of lots among the appointees shall determine that one-third of that group serves for 3 years, one-third serves for 2 years, and the remainder serves for 1 year.
 
-(4) **Self-governing** — Each Council shall elect its own chairperson, select its own staff, and make policies with regard to its internal operating procedures. After the initial organizational meeting called by the Secretary under subsection (i) of this section, each Council shall be self-governing.
+(4) **Self-governing** — Each Council shall elect its own chairperson, select its own staff, and make policies with regard to its internal operating procedures. After the initial organizational meeting called by the Secretary under subsection (i), each Council shall be self-governing.
 
 (5) **Dual membership and conflicts of interest prohibited**
 
@@ -1519,11 +1519,11 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
   (A) provide advice and recommendations to the Association on policies, permits, and site-specific regulations relating to the operation and maintenance of terminal facilities and crude oil tankers which affect or may affect the environment in the vicinity of the terminal facilities;
 
-  (B) monitor through the committee established under subsection (e) of this section, the environmental impacts of the operation of the terminal facilities and crude oil tankers;
+  (B) monitor through the committee established under subsection (e), the environmental impacts of the operation of the terminal facilities and crude oil tankers;
 
   (C) monitor those aspects of terminal facilities’ and crude oil tankers’ operations and maintenance which affect or may affect the environment in the vicinity of the terminal facilities;
 
-  (D) review through the committee established under subsection (f) of this section, the adequacy of oil spill prevention and contingency plans for the terminal facilities and the adequacy of oil spill prevention and contingency plans for crude oil tankers, operating in Prince William Sound or in Cook Inlet;
+  (D) review through the committee established under subsection (f), the adequacy of oil spill prevention and contingency plans for the terminal facilities and the adequacy of oil spill prevention and contingency plans for crude oil tankers, operating in Prince William Sound or in Cook Inlet;
 
   (E) provide advice and recommendations to the Association on port operations, policies and practices;
 
@@ -1585,7 +1585,7 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 **(g) Agency cooperation** On and after the expiration of the 180-day period following August 18, 1990, each Federal department, agency, or other instrumentality shall, with respect to all permits, site-specific regulations, and other matters governing the activities and actions of the terminal facilities which affect or may affect the vicinity of the terminal facilities, consult with the appropriate Council prior to taking substantive action with respect to the permit, site-specific regulation, or other matter. This consultation shall be carried out with a view to enabling the appropriate Association and Council to review the permit, site-specific regulation, or other matters and make appropriate recommendations regarding operations, policy or agency actions. Prior consultation shall not be required if an authorized Federal agency representative reasonably believes that an emergency exists requiring action without delay.
 
-**(h) Recommendations of Council** In the event that the Association does not adopt, or significantly modifies before adoption, any recommendation of the Council made pursuant to the authority granted to the Council in subsection (d) of this section, the Association shall provide to the Council, in writing, within 5 days of its decision, notice of its decision and a written statement of reasons for its rejection or significant modification of the recommendation.
+**(h) Recommendations of Council** In the event that the Association does not adopt, or significantly modifies before adoption, any recommendation of the Council made pursuant to the authority granted to the Council in subsection (d), the Association shall provide to the Council, in writing, within 5 days of its decision, notice of its decision and a written statement of reasons for its rejection or significant modification of the recommendation.
 
 **(i) Administrative actions** Appointments, designations, and selections of individuals to serve as members of the Associations and Councils under this section shall be submitted to the Secretary prior to the expiration of the 120-day period following August 18, 1990. On or before the expiration of the 180-day period following August 18, 1990, the Secretary shall call an initial meeting of each Association and Council for organizational purposes.
 
@@ -1593,7 +1593,7 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 (1) **Location** — Each Association and Council established by this section shall be located in the State of Alaska.
 
-(2) **Compensation** — No member of an Association or Council shall be compensated for the member’s services as a member of the Association or Council, but shall be allowed travel expenses, including per diem in lieu of subsistence, at a rate established by the Association or Council not to exceed the rates authorized for employees of agencies under sections 5702 and 5703 of title 5. However, each Council may enter into contracts to provide compensation and expenses to members of the committees created under subsections (d), (e), and (f) of this section.
+(2) **Compensation** — No member of an Association or Council shall be compensated for the member’s services as a member of the Association or Council, but shall be allowed travel expenses, including per diem in lieu of subsistence, at a rate established by the Association or Council not to exceed the rates authorized for employees of agencies under sections 5702 and 5703 of title 5. However, each Council may enter into contracts to provide compensation and expenses to members of the committees created under subsections (d), (e), and (f).
 
 **(k) Funding**
 
@@ -1649,9 +1649,9 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 (2) **Recommendations** — This subsection is not intended to prevent the Association or Council from recommending to appropriate authorities that existing legal requirements should be modified or that new legal requirements should be adopted.
 
-**(o) Alternative voluntary advisory group in lieu of Council** The requirements of subsections (c) through (l) of this section, as such subsections apply respectively to the Prince William Sound Program and the Cook Inlet Program, are deemed to have been satisfied so long as the following conditions are met:
+**(o) Alternative voluntary advisory group in lieu of Council** The requirements of subsections (c) through (l), as such subsections apply respectively to the Prince William Sound Program and the Cook Inlet Program, are deemed to have been satisfied so long as the following conditions are met:
 
-(1) **Prince William Sound** — With respect to the Prince William Sound Program, the Alyeska Pipeline Service Company or any of its owner companies enters into a contract for the duration of the operation of the Trans-Alaska Pipeline System with the Alyeska Citizens Advisory Committee in existence on August 18, 1990, or a successor organization, to fund that Committee or organization on an annual basis in the amount provided for by subsection (k)(2)(A) of this section and the President annually certifies that the Committee or organization fosters the general goals and purposes of this section and is broadly representative of the communities and interests in the vicinity of the terminal facilities and Prince William Sound.
+(1) **Prince William Sound** — With respect to the Prince William Sound Program, the Alyeska Pipeline Service Company or any of its owner companies enters into a contract for the duration of the operation of the Trans-Alaska Pipeline System with the Alyeska Citizens Advisory Committee in existence on August 18, 1990, or a successor organization, to fund that Committee or organization on an annual basis in the amount provided for by subsection (k)(2)(A) and the President annually certifies that the Committee or organization fosters the general goals and purposes of this section and is broadly representative of the communities and interests in the vicinity of the terminal facilities and Prince William Sound.
 
 (2) **Cook Inlet** — With respect to the Cook Inlet Program, the terminal facilities, offshore facilities, or crude oil tanker owners and operators enter into a contract with a voluntary advisory organization to fund that organization on an annual basis and the President annually certifies that the organization fosters the general goals and purposes of this section and is broadly representative of the communities and interests in the vicinity of the terminal facilities and Cook Inlet.
 
@@ -1754,7 +1754,7 @@ The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (a), is titl
 
 <a id="section-2736"></a>
 ## § 2736. Funding
-**(a) Sections 2731, 2733, and 2734** Amounts in the Fund shall be available, without further appropriations and without fiscal year limitation, to carry out [section 2731 of this title](./chapter-040-oil-pollution.md#section-2731) in the amount as determined in subsection (b) of this section, and to carry out sections 2733 and 2734 of this title, in an amount not to exceed $5,000,000.
+**(a) Sections 2731, 2733, and 2734** Amounts in the Fund shall be available, without further appropriations and without fiscal year limitation, to carry out [section 2731 of this title](./chapter-040-oil-pollution.md#section-2731) in the amount as determined in subsection (b), and to carry out sections 2733 and 2734 of this title, in an amount not to exceed $5,000,000.
 
 **(b) Use of interest only** The amount of funding to be made available annually to carry out [section 2731 of this title](./chapter-040-oil-pollution.md#section-2731) shall be the interest produced by the Fund’s investment of the $22,500,000 remaining funding authorized for the Prince William Sound Oil Spill Recovery Institute and currently deposited in the Fund and invested by the Secretary of the Treasury in income producing securities along with other funds comprising the Fund. The National Pollution Funds Center shall transfer all such accrued interest, including the interest earned from the date funds in the Trans-Alaska Liability Pipeline Fund were transferred into the Oil Spill Liability Trust Fund pursuant to section 8102(a)(2)(B)(ii), to the Prince William Sound Oil Spill Recovery Institute annually, beginning 60 days after October 19, 1996.
 
@@ -1782,7 +1782,7 @@ Subsec. (d). Pub. L. 109–59, which directed insertion of “annual” before �
 
 Pub. L. 106–246 added subsec. (c) relating to section 2738.
 
-1996—Subsec. (a). Pub. L. 104–324, § 1102(b)(1)–(3), redesignated subsec. (b) as (a), substituted “2731, 2733,” for “2733” in heading, inserted “to carry out [section 2731 of this title](./chapter-040-oil-pollution.md#section-2731) in the amount as determined in subsection (b) of this section, and” after “limitation,”, and struck out heading and text of former subsec. (a). Text read as follows: “Amounts in the Fund shall be available, subject to appropriations, and shall remain available until expended, to carry out [section 2731 of this title](./chapter-040-oil-pollution.md#section-2731) as follows:
+1996—Subsec. (a). Pub. L. 104–324, § 1102(b)(1)–(3), redesignated subsec. (b) as (a), substituted “2731, 2733,” for “2733” in heading, inserted “to carry out [section 2731 of this title](./chapter-040-oil-pollution.md#section-2731) in the amount as determined in subsection (b), and” after “limitation,”, and struck out heading and text of former subsec. (a). Text read as follows: “Amounts in the Fund shall be available, subject to appropriations, and shall remain available until expended, to carry out [section 2731 of this title](./chapter-040-oil-pollution.md#section-2731) as follows:
 
 “(1) $5,000,000 shall be available for the first fiscal year beginning after August 18, 1990.
 
@@ -1814,7 +1814,7 @@ Notwithstanding any other law, tank vessels that have spilled more than 1,000,00
 
 **(d) Status of employees** Employees of the Institute shall not, by reason of such employment, be considered to be employees of the Federal Government for any purpose.
 
-**(e) Use of funds** No funds made available to carry out this section may be used to initiate litigation, or for the acquisition of real property (other than facilities leased at the Alaska SeaLife Center). No more than 10 percent of the funds made available to carry out subsection (b)(1) of this section may be used to administer the Institute. The administrative funds of the Institute and the administrative funds of the North Pacific Research Board created under Public Law 105–83 may be used to jointly administer such programs at the discretion of the North Pacific Research Board.
+**(e) Use of funds** No funds made available to carry out this section may be used to initiate litigation, or for the acquisition of real property (other than facilities leased at the Alaska SeaLife Center). No more than 10 percent of the funds made available to carry out subsection (b)(1) may be used to administer the Institute. The administrative funds of the Institute and the administrative funds of the North Pacific Research Board created under Public Law 105–83 may be used to jointly administer such programs at the discretion of the North Pacific Research Board.
 
 **(f) Availability of research** The Institute shall publish and make available to any person on request the results of all research, educational, and demonstration projects conducted by the Institute. The Institute shall provide a copy of all research, educational, and demonstration projects conducted by the Institute to the National Park Service, the United States Fish and Wildlife Service, and the National Oceanic and Atmospheric Administration.
 
@@ -1855,9 +1855,9 @@ This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 48
 
 <a id="section-2752"></a>
 ## § 2752. Annual appropriations
-**(a) Required** Except as provided in subsection (b) of this section, amounts in the Fund shall be available only as provided in annual appropriation Acts.
+**(a) Required** Except as provided in subsection (b), amounts in the Fund shall be available only as provided in annual appropriation Acts.
 
-**(b) Exceptions** Subsection (a) of this section shall not apply to sections 11 So in original. Probably should be “section”. 2706(f), 2712(a)(4), or 2736 of this title, and shall not apply to an amount not to exceed $50,000,000 in any fiscal year which the President may make available from the Fund to carry out [section 1321(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/c&num=0&edition=prelim) and to initiate the assessment of natural resources damages required under [section 2706 of this title](./chapter-040-oil-pollution.md#section-2706). To the extent that such amount is not adequate, the Coast Guard (1) may obtain an advance from the Fund of such sums as may be necessary, up to a maximum of $100,000,000, and within 30 days shall notify Congress of the amount advanced and the facts and circumstances necessitating the advance and (2) in the case of the discharge of oil that began in 2010 in connection with the explosion on, and sinking of, the mobile offshore drilling unit Deepwater Horizon, may, without further appropriation, obtain 1 or more advances from the Fund as needed, up to a maximum of $100,000,000 for each advance, with the total amount of all advances not to exceed the amounts available under [section 9509(c)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9509/c/2&num=0&edition=prelim), and within 7 days of each advance, shall notify Congress of the amount advanced and the facts and circumstances necessitating the advance. Amounts advanced shall be repaid to the Fund when, and to the extent that, removal costs are recovered by the Coast Guard from responsible parties for the discharge or substantial threat of discharge. Sums to which this subsection applies shall remain available until expended .
+**(b) Exceptions** Subsection (a) shall not apply to sections 11 So in original. Probably should be “section”. 2706(f), 2712(a)(4), or 2736 of this title, and shall not apply to an amount not to exceed $50,000,000 in any fiscal year which the President may make available from the Fund to carry out [section 1321(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/c&num=0&edition=prelim) and to initiate the assessment of natural resources damages required under [section 2706 of this title](./chapter-040-oil-pollution.md#section-2706). To the extent that such amount is not adequate, the Coast Guard (1) may obtain an advance from the Fund of such sums as may be necessary, up to a maximum of $100,000,000, and within 30 days shall notify Congress of the amount advanced and the facts and circumstances necessitating the advance and (2) in the case of the discharge of oil that began in 2010 in connection with the explosion on, and sinking of, the mobile offshore drilling unit Deepwater Horizon, may, without further appropriation, obtain 1 or more advances from the Fund as needed, up to a maximum of $100,000,000 for each advance, with the total amount of all advances not to exceed the amounts available under [section 9509(c)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9509/c/2&num=0&edition=prelim), and within 7 days of each advance, shall notify Congress of the amount advanced and the facts and circumstances necessitating the advance. Amounts advanced shall be repaid to the Fund when, and to the extent that, removal costs are recovered by the Coast Guard from responsible parties for the discharge or substantial threat of discharge. Sums to which this subsection applies shall remain available until expended.
 
 ### Statutory Notes
 
@@ -1893,13 +1893,13 @@ Section, Pub. L. 101–380, title VI, § 6003, Aug. 18, 1990, 104 Stat. 555, rel
 
 (2) **Purposes** — The Interagency Committee shall coordinate a comprehensive program of oil pollution research, technology development, and demonstration among the Federal agencies, in cooperation and coordination with industry, universities, research institutions, State governments, and other nations, as appropriate, and shall foster cost-effective research mechanisms, including the joint funding of research.
 
-(3) **Membership** — The Interagency Committee shall include representatives from the Coast Guard, the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the Maritime Administration and the Pipeline and Hazardous Materials Safety Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Department of Homeland Security (including the United States Fire Administration in the Federal Emergency Management Agency), the Environmental Protection Agency, the National Aeronautics and Space Administration, and such other Federal agencies the President may designate.
+(3) **Membership** — The Interagency Committee shall include representatives from the Coast Guard, the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Bureau of Safety and Environmental Enforcement, the Bureau of Ocean Energy Management, and the United States Fish and Wildlife Service), the Department of Transportation (including the Maritime Administration and the Pipeline and Hazardous Materials Safety Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Department of Homeland Security (including the United States Fire Administration in the Federal Emergency Management Agency), the Environmental Protection Agency, the National Aeronautics and Space Administration, the United States Arctic Research Commission, and such other Federal agencies the President may designate.
 
 (4) **Chairman** — A representative of the Coast Guard shall serve as Chairman.
 
 **(b) Oil pollution research and technology plan**
 
-(1) **Implementation plan** — Within 180 days after August 18, 1990, the Interagency Committee shall submit to Congress a plan for the implementation of the oil pollution research, development, and demonstration program established pursuant to subsection (c) of this section. The research plan shall—
+(1) **Implementation plan** — Within 180 days after August 18, 1990, the Interagency Committee shall submit to Congress a plan for the implementation of the oil pollution research, development, and demonstration program established pursuant to subsection (c). The research plan shall—
 
   (A) identify agency roles and responsibilities;
 
@@ -1909,11 +1909,11 @@ Section, Pub. L. 101–380, title VI, § 6003, Aug. 18, 1990, 104 Stat. 555, rel
 
   (D) establish research priorities and goals for oil pollution technology development related to prevention, response, mitigation, and environmental effects;
 
-  (E) estimate the resources needed to conduct the oil pollution research and development program established pursuant to subsection (c) of this section, and timetables for completing research tasks; and
+  (E) estimate the resources needed to conduct the oil pollution research and development program established pursuant to subsection (c), and timetables for completing research tasks; and
 
   (F) identify, in consultation with the States, regional oil pollution research needs and priorities for a coordinated, multidisciplinary program of research at the regional level.
 
-(2) **Advice and guidance** — The Chairman, through the Department of Transportation, shall contract with the National Academy of Sciences to—
+(2) **Advice and guidance** — The Chairman, through the department in which the Coast Guard is operating, shall contract with the National Academy of Sciences to—
 
   (A) provide advice and guidance in the preparation and development of the research plan; and
 
@@ -1993,7 +1993,7 @@ Section, Pub. L. 101–380, title VI, § 6003, Aug. 18, 1990, 104 Stat. 555, rel
 
 (8) **Regional research program**
 
-  (A) Consistent with the research plan in subsection (b) of this section, the Interagency Committee shall coordinate a program of competitive grants to universities or other research institutions, or groups of universities or research institutions, for the purposes of conducting a coordinated research program related to the regional aspects of oil pollution, such as prevention, removal, mitigation, and the effects of discharged oil on regional environments. For the purposes of this paragraph, a region means a Coast Guard district as set out in part 3 of title 33, Code of Federal Regulations (1989).
+  (A) Consistent with the research plan in subsection (b), the Interagency Committee shall coordinate a program of competitive grants to universities or other research institutions, or groups of universities or research institutions, for the purposes of conducting a coordinated research program related to the regional aspects of oil pollution, such as prevention, removal, mitigation, and the effects of discharged oil on regional environments. For the purposes of this paragraph, a region means a Coast Guard district as set out in part 3 of title 33, Code of Federal Regulations (2010).
 
   (B) The Interagency Committee shall coordinate the publication by the agencies represented on the Interagency Committee of a solicitation for grants under this subsection. The application shall be in such form and contain such information as may be required in the published solicitation. The applications shall be reviewed by the Interagency Committee, which shall make recommendations to the appropriate granting agency represented on the Interagency Committee for awarding the grant. The granting agency shall award the grants recommended by the Interagency Committee unless the agency decides not to award the grant due to budgetary or other compelling considerations and publishes its reasons for such a determination in the Federal Register. No grants may be made by any agency from any funds authorized for this paragraph unless such grant award has first been recommended by the Interagency Committee.
 
@@ -2005,7 +2005,7 @@ Section, Pub. L. 101–380, title VI, § 6003, Aug. 18, 1990, 104 Stat. 555, rel
 
     (ii) The applicant demonstrates the capability of making a significant contribution to regional research needs.
 
-    (iii) The projects which the applicant proposes to carry out under the grant are consistent with the research plan under subsection (b)(1)(F) of this section and would further the objectives of the research and development program established in this section.
+    (iii) The projects which the applicant proposes to carry out under the grant are consistent with the research plan under subsection (b)(1)(F) and would further the objectives of the research and development program established in this section.
 
   (E) Grants provided under this paragraph shall be for a period up to 3 years, subject to annual review by the granting agency, and provide not more than 80 percent of the costs of the research activities carried out in connection with the grant.
 
@@ -2015,20 +2015,20 @@ Section, Pub. L. 101–380, title VI, § 6003, Aug. 18, 1990, 104 Stat. 555, rel
 
 (9) **Funding** — For each of the fiscal years 1991, 1992, 1993, 1994, and 1995, $6,000,000 of amounts in the Fund shall be available to carry out the regional research program in paragraph (8), such amounts to be available in equal amounts for the regional research program in each region; except that if the agencies represented on the Interagency Committee determine that regional research needs exist which cannot be addressed within such funding limits, such agencies may use their authority under paragraph (10) to make additional grants to meet such needs. For the purposes of this paragraph, the research program carried out by the Prince William Sound Oil Spill Recovery Institute established under [section 2731 of this title](./chapter-040-oil-pollution.md#section-2731), shall not be eligible to receive grants under this paragraph until the authorization for funding under [section 2736(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2736/b&num=0&edition=prelim) expires.
 
-(10) **Grants** — In carrying out the research and development program established under this subsection, the agencies represented on the Interagency Committee may enter into contracts and cooperative agreements and make grants to universities, research institutions, and other persons. Such contracts, cooperative agreements, and grants shall address research and technology priorities set forth in the oil pollution research plan under subsection (b) of this section.
+(10) **Grants** — In carrying out the research and development program established under this subsection, the agencies represented on the Interagency Committee may enter into contracts and cooperative agreements and make grants to universities, research institutions, and other persons. Such contracts, cooperative agreements, and grants shall address research and technology priorities set forth in the oil pollution research plan under subsection (b).
 
 (11) **Utilization of resources** — In carrying out research under this section, the Department of Transportation shall continue to utilize the resources of the Pipeline and Hazardous Materials Safety Administration of the Department of Transportation, to the maximum extent practicable.
 
-**(d) International cooperation** In accordance with the research plan submitted under subsection (b) of this section, the Interagency Committee shall coordinate and cooperate with other nations and foreign research entities in conducting oil pollution research, development, and demonstration activities, including controlled field tests of oil discharges.
+**(d) International cooperation** In accordance with the research plan submitted under subsection (b), the Interagency Committee shall coordinate and cooperate with other nations and foreign research entities in conducting oil pollution research, development, and demonstration activities, including controlled field tests of oil discharges.
 
 **(e) Biennial reports** The Chairman of the Interagency Committee shall submit to Congress every 2 years on October 30 a report on the activities carried out under this section in the preceding 2 fiscal years, and on activities proposed to be carried out under this section in the current 2 fiscal year period.
 
-**(f) Funding** Not to exceed $22,000,000 of amounts in the Fund shall be available annually to carry out this section except for subsection (c)(8) of this section. Of such sums—
+**(f) Funding** Not to exceed $22,000,000 of amounts in the Fund shall be available annually to carry out this section except for subsection (c)(8). Of such sums—
 
-(1) funds authorized to be appropriated to carry out the activities under subsection (c)(4) of this section shall not exceed $5,000,000 for fiscal year 1991 or $3,500,000 for any subsequent fiscal year; and
+(1) funds authorized to be appropriated to carry out the activities under subsection (c)(4) shall not exceed $5,000,000 for fiscal year 1991 or $3,500,000 for any subsequent fiscal year; and
 
-(2) not less than $3,000,000 shall be available for carrying out the activities in subsection (c)(6) of this section for fiscal years 1992, 1993, 1994, and 1995.
-All activities authorized in this section, including subsection (c)(8) of this section, are subject to appropriations.
+(2) not less than $3,000,000 shall be available for carrying out the activities in subsection (c)(6) for fiscal years 1992, 1993, 1994, and 1995.
+All activities authorized in this section, including subsection (c)(8), are subject to appropriations.
 
 ### Statutory Notes
 
@@ -2036,6 +2036,12 @@ All activities authorized in this section, including subsection (c)(8) of this s
 This Act, referred to in subsec. (c)(8)(G), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
 #### Amendments
+2016—Subsec. (a)(3). Pub. L. 114–120, § 319(a), substituted “Bureau of Safety and Environmental Enforcement, the Bureau of Ocean Energy Management,” for “Minerals Management Service” and inserted “the United States Arctic Research Commission,” after “National Aeronautics and Space Administration,”.
+
+Subsec. (b)(2). Pub. L. 114–120, § 319(b)(1), substituted “department in which the Coast Guard is operating” for “Department of Transportation” in introductory provisions.
+
+Subsec. (c)(8)(A). Pub. L. 114–120, § 319(b)(2), substituted “(2010)” for “(1989)”.
+
 2006—Subsec. (a). Pub. L. 109–241, § 902(l)(3), added pars. (3) and (4) and struck out former par. (3) and concluding provisions which read as follows:
 
 “Membership.—The Interagency Committee shall include representatives from the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the United States Coast Guard, the Maritime Administration, and the Pipeline and Hazardous Materials Safety Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Environmental Protection Agency, the National Aeronautics and Space Administration, and the United States Fire Administration in the Federal Emergency Management Agency, as well as such other Federal agencies as the President may designate.

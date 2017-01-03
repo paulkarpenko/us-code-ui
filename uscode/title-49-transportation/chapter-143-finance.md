@@ -32,7 +32,7 @@ source: >-
 Provisions similar to those in this section were contained in [section 11304 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11304&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-14302"></a>
@@ -97,7 +97,7 @@ Subsec. (h)(1). Pub. L. 104–287, § 5(37)(C), substituted “December 31, 1995
 Subsec. (h)(2). Pub. L. 104–287, § 5(37)(D), substituted “December 31, 1995” for “the day before such effective date”.
 
 #### Abolition of Interstate Commerce Commission
-Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-14303"></a>

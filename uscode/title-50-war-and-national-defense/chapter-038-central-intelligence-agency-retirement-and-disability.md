@@ -29,7 +29,7 @@ When used in this chapter:
 
   (B) the sum of—
 
-    (i) the present value of deductions to be withheld from the future basic pay of participants subject to subchapter II of this chapter and of future Agency contributions to be made on the behalf of such participants;
+    (i) the present value of deductions to be withheld from the future basic pay of participants subject to subchapter II and of future Agency contributions to be made on the behalf of such participants;
 
     (ii) the present value of Government payments to the fund under sections 2091(c) and 2091(d) of this title; and
 
@@ -158,7 +158,7 @@ Ex. Ord. No. 12684, July 27, 1989, 54 F.R. 31643, conformed Central Intelligence
 
 <a id="section-2002"></a>
 ## § 2002. Definitions relating to participants and annuitants
-**(a) General definitions** When used in subchapter II of this chapter:
+**(a) General definitions** When used in subchapter II:
 
 (1) **Former participant** — The term “former participant” means a person who—
 
@@ -232,7 +232,7 @@ Ex. Ord. No. 12684, July 27, 1989, 54 F.R. 31643, conformed Central Intelligence
 
   (B) *Treatment of interim period between school years* — A child who is a student is deemed not to have ceased to be a student during an interim between school years if the interim does not exceed 5 months and if the child shows to the satisfaction of the Director that the child has a bona fide intention of continuing to pursue a course of study or training in the same or different school during the school semester (or other period into which the school year is divided) immediately following the interim.
 
-(3) **“Dependent” defined** — For purposes of this subsection, the term “dependent”, with respect to the child of a participant or retired participant, means that the participant or retired participant was, at the time of the death of the participant or retired participant, either living with or contributing to the support of the child, as determined in accordance with regulations prescribed under subchapter II of this chapter.
+(3) **“Dependent” defined** — For purposes of this subsection, the term “dependent”, with respect to the child of a participant or retired participant, means that the participant or retired participant was, at the time of the death of the participant or retired participant, either living with or contributing to the support of the child, as determined in accordance with regulations prescribed under subchapter II.
 
 (4) **Exclusion of stepchildren from lump-sum payment** — For purposes of [section 2071(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2071/c&num=0&edition=prelim), the term “child” includes an adopted child and a natural child, but does not include a stepchild.
 
@@ -398,7 +398,7 @@ A prior section 204 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1044;
 
 (2) **Reduction in contribution** — The amount deducted and withheld from the basic pay of a participant during any pay period pursuant to paragraph (1) shall be the excess of—
 
-  (A) the amount determined by multiplying the percent applicable to the participant under subsection (a) of this section by the basic pay payable to the participant for that pay period, over
+  (A) the amount determined by multiplying the percent applicable to the participant under subsection (a) by the basic pay payable to the participant for that pay period, over
 
   (B) the amount of the taxes deducted and withheld from such basic pay under [section 3101(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3101/a&num=0&edition=prelim) (relating to old-age, survivors, and disability insurance) for that pay period.
 
@@ -470,7 +470,7 @@ Pub. L. 105–33, title VII, § 7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as
 
 (3) **Amount of surviving spouse annuity**
 
-  (A) *In general* — If a retired participant receiving a reduced annuity under this subsection dies and is survived by a spouse, a survivor annuity shall be paid to the surviving spouse. The amount of the annuity shall be equal to 55 percent of (i) the full amount of the participant’s annuity computed under subsection (a) of this section, or (ii) any lesser amount elected as the base for the survivor annuity under paragraph (1)(B).
+  (A) *In general* — If a retired participant receiving a reduced annuity under this subsection dies and is survived by a spouse, a survivor annuity shall be paid to the surviving spouse. The amount of the annuity shall be equal to 55 percent of (i) the full amount of the participant’s annuity computed under subsection (a), or (ii) any lesser amount elected as the base for the survivor annuity under paragraph (1)(B).
 
   (B) *Limitation* — Notwithstanding subparagraph (A), the amount of the annuity calculated under subparagraph (A) for a surviving spouse in any case in which there is also a surviving former spouse of the retired participant who qualifies for an annuity under [section 2032(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2032/b&num=0&edition=prelim) may not exceed 55 percent of the portion (if any) of the base for survivor annuities which remains available under [section 2032(b)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2032/b/4/B&num=0&edition=prelim).
 
@@ -484,14 +484,14 @@ Pub. L. 105–33, title VII, § 7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as
 
     (i) is married at the time of retirement; and
 
-    (ii) elects at that time (in accordance with subsection (b) of this section) to waive a survivor annuity for the spouse,
-    may, during the 18-month period beginning on the date of the retirement of the participant, elect to have a reduction under subsection (b) of this section made in the annuity of the participant (or in such portion thereof as the participant may designate) in order to provide a survivor annuity for the participant’s spouse.
+    (ii) elects at that time (in accordance with subsection (b)) to waive a survivor annuity for the spouse,
+    may, during the 18-month period beginning on the date of the retirement of the participant, elect to have a reduction under subsection (b) made in the annuity of the participant (or in such portion thereof as the participant may designate) in order to provide a survivor annuity for the participant’s spouse.
 
   (B) *Election when reduced spouse annuity elected* — A participant or former participant who retires after March 31, 1992, and—
 
     (i) who, at the time of retirement, is married, and
 
-    (ii) who, at that time designates (in accordance with subsection (b) of this section) that a portion of the annuity of such participant is to be used as the base for a survivor annuity,
+    (ii) who, at that time designates (in accordance with subsection (b)) that a portion of the annuity of such participant is to be used as the base for a survivor annuity,
     may, during the 18-month period beginning on the date of the retirement of such participant, elect to have a greater portion of the annuity of such participant so used.
 
 (2) **Deposit required**
@@ -500,7 +500,7 @@ Pub. L. 105–33, title VII, § 7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as
 
   (B) *Amount of deposit* — The amount to be deposited with respect to an election under this subsection is the amount equal to the sum of the following:
 
-    (i) *Additional cost to system* — The additional cost to the system that is associated with providing a survivor annuity under subsection (b) of this section and that results from such election, taking into account—
+    (i) *Additional cost to system* — The additional cost to the system that is associated with providing a survivor annuity under subsection (b) and that results from such election, taking into account—
 
       (I) the difference (for the period between the date on which the annuity of the participant or former participant commences and the date of the election) between the amount paid to such participant or former participant under this subchapter and the amount which would have been paid if such election had been made at the time the participant or former participant applied for the annuity; and
 
@@ -508,7 +508,7 @@ Pub. L. 105–33, title VII, § 7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as
 
     (ii) *Interest* — Interest on the additional cost determined under clause (i), computed using the interest rate specified or determined under [section 8334(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8334/e&num=0&edition=prelim) for the calendar year in which the amount to be deposited is determined.
 
-(3) **Voiding of previous elections** — An election by a participant or former participant under this subsection voids prospectively any election previously made in the case of such participant under subsection (b) of this section.
+(3) **Voiding of previous elections** — An election by a participant or former participant under this subsection voids prospectively any election previously made in the case of such participant under subsection (b).
 
 (4) **Reductions in annuity** — An annuity that is reduced in connection with an election under this subsection shall be reduced by the same percentage reductions as were in effect at the time of the retirement of the participant or former participant whose annuity is so reduced.
 
@@ -532,7 +532,7 @@ Pub. L. 105–33, title VII, § 7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as
 
   (A) The annual amount of an annuity for the surviving child of a participant covered by paragraph (1)(A) or (2)(A) of this subsection (or covered by paragraph (1)(A) or (2)(A) of [section 2052(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2052/c&num=0&edition=prelim)) is the smallest of the following:
 
-    (i) 60 percent of the participant’s high-3 average pay, as determined under subsection (a)(4) of this section, divided by the number of children.
+    (i) 60 percent of the participant’s high-3 average pay, as determined under subsection (a)(4), divided by the number of children.
 
     (ii) $900, as adjusted under [section 2131 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2131).
 
@@ -540,7 +540,7 @@ Pub. L. 105–33, title VII, § 7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as
 
   (B) The amount of an annuity for the surviving child of a participant covered by paragraph (1)(B) or (2)(B) of this subsection (or covered by paragraph (1)(B) or (2)(B) of [section 2052(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2052/c&num=0&edition=prelim)) is the smallest of the following:
 
-    (i) 75 percent of the participant’s high-3 average pay, as determined under subsection (a)(4) of this section, divided by the number of children.
+    (i) 75 percent of the participant’s high-3 average pay, as determined under subsection (a)(4), divided by the number of children.
 
     (ii) $1,080, as adjusted under [section 2131 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2131).
 
@@ -556,7 +556,7 @@ Pub. L. 105–33, title VII, § 7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as
 
 **(e) Commencement and termination of child annuities**
 
-(1) **Commencement** — An annuity payable to a child under subsection (d) of this section, or under [section 2052(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2052/c&num=0&edition=prelim), shall begin on the day after the date on which the participant or retired participant dies or, in the case of an individual over the age of 18 who is not a child within the meaning of [section 2002(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2002/b&num=0&edition=prelim), shall begin or resume on the first day of the month in which the individual later becomes or again becomes a student as described in [section 2002(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2002/b&num=0&edition=prelim). Such annuity may not commence until any lump-sum that has been paid is returned to the fund.
+(1) **Commencement** — An annuity payable to a child under subsection (d), or under [section 2052(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2052/c&num=0&edition=prelim), shall begin on the day after the date on which the participant or retired participant dies or, in the case of an individual over the age of 18 who is not a child within the meaning of [section 2002(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2002/b&num=0&edition=prelim), shall begin or resume on the first day of the month in which the individual later becomes or again becomes a student as described in [section 2002(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2002/b&num=0&edition=prelim). Such annuity may not commence until any lump-sum that has been paid is returned to the fund.
 
 (2) **Termination** — Such an annuity shall terminate on the last day of the month before the month in which the recipient of the annuity dies or no longer qualifies as a child (as defined in [section 2002(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2002/b&num=0&edition=prelim)).
 
@@ -566,13 +566,13 @@ Pub. L. 105–33, title VII, § 7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as
 
   (A) *Authority to make designation* — Subject to the rights of former spouses under subsection (b) of this section and [section 2032 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2032), at the time of retirement an unmarried participant found by the Director to be in good health may elect to receive an annuity reduced in accordance with subparagraph (B) and designate in writing an individual having an insurable interest in the participant to receive an annuity under the system after the participant’s death. The amount of such an annuity shall be equal to 55 percent of the participant’s reduced annuity.
 
-  (B) *Reduction in participant’s annuity* — The annuity payable to the participant making such election shall be reduced by 10 percent of an annuity computed under subsection (a) of this section and by an additional 5 percent for each full 5 years the designated individual is younger than the participant. The total reduction under this subparagraph may not exceed 40 percent.
+  (B) *Reduction in participant’s annuity* — The annuity payable to the participant making such election shall be reduced by 10 percent of an annuity computed under subsection (a) and by an additional 5 percent for each full 5 years the designated individual is younger than the participant. The total reduction under this subparagraph may not exceed 40 percent.
 
   (C) *Commencement of survivor annuity* — The annuity payable to the designated individual shall begin on the day after the retired participant dies and terminate on the last day of the month before the designated individual dies.
 
   (D) *Recomputation of participant’s annuity on death of designated individual* — An annuity which is reduced under this paragraph shall, effective the first day of the month following the death of the designated individual, be recomputed and paid as if the annuity had not been so reduced.
 
-(2) **Election of survivor annuity upon subsequent marriage** — A participant who is unmarried at the time of retirement and who later marries may irrevocably elect, in a signed writing received by the Director within one year after the marriage, to receive a reduced annuity as provided in subsection (b) of this section. Such election and reduction shall be effective on the first day of the month beginning 9 months after the date of marriage. The election voids prospectively any election previously made under paragraph (1).
+(2) **Election of survivor annuity upon subsequent marriage** — A participant who is unmarried at the time of retirement and who later marries may irrevocably elect, in a signed writing received by the Director within one year after the marriage, to receive a reduced annuity as provided in subsection (b). Such election and reduction shall be effective on the first day of the month beginning 9 months after the date of marriage. The election voids prospectively any election previously made under paragraph (1).
 
 **(g) Effect of divorce after retirement**
 
@@ -596,11 +596,11 @@ Pub. L. 105–33, title VII, § 7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as
 
       (IV) The deposit required by this subparagraph may be made by the surviving spouse of the retired participant.
 
-  (C) *Effects of election* — An election under this paragraph and the reduction in the participant’s annuity shall be effective on the first day of the month beginning 9 months after the date of remarriage. A survivor annuity elected under this paragraph shall be treated in all respects as a survivor annuity under subsection (b) of this section.
+  (C) *Effects of election* — An election under this paragraph and the reduction in the participant’s annuity shall be effective on the first day of the month beginning 9 months after the date of remarriage. A survivor annuity elected under this paragraph shall be treated in all respects as a survivor annuity under subsection (b).
 
 **(h) Coordination of annuities**
 
-(1) **Surviving spouse** — A surviving spouse whose survivor annuity was terminated because of remarriage before attaining age 55 shall not be entitled under subsection (b)(3)(C) of this section to the restoration of that survivor annuity payable from the fund unless the surviving spouse elects to receive it instead of any other survivor annuity to which the surviving spouse may be entitled under the system or any other retirement system for Government employees by reason of the remarriage.
+(1) **Surviving spouse** — A surviving spouse whose survivor annuity was terminated because of remarriage before attaining age 55 shall not be entitled under subsection (b)(3)(C) to the restoration of that survivor annuity payable from the fund unless the surviving spouse elects to receive it instead of any other survivor annuity to which the surviving spouse may be entitled under the system or any other retirement system for Government employees by reason of the remarriage.
 
 (2) **Former spouse** — A surviving former spouse of a participant or retired participant shall not become entitled under section 2032(b) or 2034 of this title to a survivor annuity or to the restoration of a survivor annuity payable from the fund unless the surviving former spouse elects to receive it instead of any other survivor annuity to which the surviving former spouse may be entitled under this or any other retirement system for Government employees on the basis of a marriage to someone other than the participant.
 
@@ -632,7 +632,7 @@ Pub. L. 105–33, title VII, § 7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, as
 
 **(l) Information on rights under system** The Director shall, on an annual basis—
 
-(1) inform each retired participant of the participant’s right of election under subsections (c), (f)(2), and (g) of this section; and
+(1) inform each retired participant of the participant’s right of election under subsections (c), (f)(2), and (g); and
 
 (2) to the maximum extent practicable, inform spouses and former spouses of participants, former participants, and retired participants of their rights under this chapter.
 
@@ -680,7 +680,7 @@ Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub
 
     (i) the survivor annuity for any spouse, former spouse, or other survivor under this subchapter; and
 
-    (ii) any reduction in the annuity of the participant to provide survivor benefits under subsection (b) of this section or under [section 2031(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2031/b&num=0&edition=prelim).
+    (ii) any reduction in the annuity of the participant to provide survivor benefits under subsection (b) or under [section 2031(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2031/b&num=0&edition=prelim).
 
   (B) *Treatment when annuitant returns to service* — If an annuitant whose annuity is reduced under subparagraph (A) is recalled to service under [section 2111 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2111), or reinstated or reappointed, in the case of a recovered disability annuitant, or if any annuitant is reemployed as provided for under sections 2112 and 2113 of this title, the pay of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the fund.
 
@@ -722,7 +722,7 @@ Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub
 
 **(c) Optional additional survivor annuities for other former spouse or surviving spouse**
 
-(1) **In general** — In the case of any participant providing a survivor annuity under subsection (b) of this section for a former spouse—
+(1) **In general** — In the case of any participant providing a survivor annuity under subsection (b) for a former spouse—
 
   (A) such participant may elect, or
 
@@ -796,9 +796,9 @@ Pub. L. 103–178, title II, § 203, Dec. 3, 1993, 107 Stat. 2027, provided that
 
 (2) **Effective date of reduction** — Such reduction shall be effective as of—
 
-  (A) the commencing date of the participant’s annuity, in the case of an election under subsection (b)(1) of this section; or
+  (A) the commencing date of the participant’s annuity, in the case of an election under subsection (b)(1); or
 
-  (B) November 15, 1982, in the case of an election under subsection (b)(2) of this section.
+  (B) November 15, 1982, in the case of an election under subsection (b)(2).
 
 ### Statutory Notes
 
@@ -810,7 +810,7 @@ A prior section 223 of Pub. L. 88–643, as added Pub. L. 97–269, title VI, §
 ## § 2034. Survivor annuity for certain other former spouses
 **(a) Survivor annuity**
 
-(1) **In general** — An individual who was a former spouse of a participant or retired participant on November 15, 1982, shall be entitled, except to the extent such former spouse is disqualified under subsection (b) of this section, to a survivor annuity equal to 55 percent of the greater of—
+(1) **In general** — An individual who was a former spouse of a participant or retired participant on November 15, 1982, shall be entitled, except to the extent such former spouse is disqualified under subsection (b), to a survivor annuity equal to 55 percent of the greater of—
 
   (A) the unreduced amount of the participant’s or retired participant’s annuity, as computed under [section 2031(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2031/a&num=0&edition=prelim); or
 
@@ -850,7 +850,7 @@ A prior section 223 of Pub. L. 88–643, as added Pub. L. 97–269, title VI, §
 
 (2) **Retroactive benefits** — Upon approval of an application provided under paragraph (1), the appropriate survivor annuity shall be payable to the former spouse with respect to all periods before such approval during which the former spouse was entitled to such annuity under this section, but in no event shall a survivor annuity be payable under this section with respect to any period before October 1, 1986.
 
-**(e) Restoration of annuity** Notwithstanding subsection (d)(1) of this section, the deadline by which an application for a survivor annuity must be submitted shall not apply in cases in which a former spouse’s entitlement to such a survivor annuity is restored under subsection (b)(1) or (c)(2) of this section.
+**(e) Restoration of annuity** Notwithstanding subsection (d)(1), the deadline by which an application for a survivor annuity must be submitted shall not apply in cases in which a former spouse’s entitlement to such a survivor annuity is restored under subsection (b)(1) or (c)(2).
 
 ### Statutory Notes
 
@@ -866,7 +866,7 @@ Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub
 
 <a id="section-2035"></a>
 ## § 2035. Retirement annuity for certain former spouses
-**(a) Retirement annuity** An individual who was a former spouse of a participant, former participant, or retired participant on November 15, 1982, and any former spouse divorced after November 15, 1982, from a participant or former participant who retired before November 15, 1982, shall be entitled, except to the extent such former spouse is disqualified under subsection (b) of this section, to an annuity—
+**(a) Retirement annuity** An individual who was a former spouse of a participant, former participant, or retired participant on November 15, 1982, and any former spouse divorced after November 15, 1982, from a participant or former participant who retired before November 15, 1982, shall be entitled, except to the extent such former spouse is disqualified under subsection (b), to an annuity—
 
 (1) if married to the participant throughout the creditable service of the participant, equal to 50 percent of the annuity of the participant; or
 
@@ -910,7 +910,7 @@ Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub
 
   (B) *Retroactive benefits* — Upon approval of an application under subparagraph (A), the appropriate annuity shall be payable to the former spouse with respect to all periods before such approval during which the former spouse was entitled to an annuity under this section, but in no event shall an annuity be payable under this section with respect to any period before December 2, 1987.
 
-**(d) Restoration of annuities** Notwithstanding subsection (c)(4)(A) of this section, the deadline by which an application for a retirement annuity must be submitted shall not apply in cases in which a former spouse’s entitlement to such annuity is restored under subsection (b)(1) or (c)(1)(B) of this section.
+**(d) Restoration of annuities** Notwithstanding subsection (c)(4)(A), the deadline by which an application for a retirement annuity must be submitted shall not apply in cases in which a former spouse’s entitlement to such annuity is restored under subsection (b)(1) or (c)(1)(B).
 
 **(e) Savings provision** Nothing in this section shall be construed to impair, reduce, or otherwise affect the annuity or the entitlement to an annuity of a participant or former participant under this subchapter.
 
@@ -946,7 +946,7 @@ A prior section 226 of Pub. L. 88–643, as added Pub. L. 100–453, title III, 
 ## § 2051. Retirement for disability or incapacity; medical examination; recovery
 **(a) Disability retirement**
 
-(1) **Eligibility** — A participant who has become disabled shall, upon the participant’s own application or upon order of the Director, be retired on an annuity computed under subsection (b) of this section.
+(1) **Eligibility** — A participant who has become disabled shall, upon the participant’s own application or upon order of the Director, be retired on an annuity computed under subsection (b).
 
 (2) **Standard for disability determination** — A participant shall be considered to be disabled only if the participant—
 
@@ -962,7 +962,7 @@ A prior section 226 of Pub. L. 88–643, as added Pub. L. 100–453, title III, 
 
 **(b) Computation of disability annuity**
 
-(1) **In general** — Except as provided in paragraph (2), an annuity payable under subsection (a) of this section shall be computed under [section 2031(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2031/a&num=0&edition=prelim). However, if the disabled or incapacitated participant has less than 20 years of service credit toward retirement under the system at the time of retirement, the annuity shall be computed on the assumption that the participant has had 20 years of service, but the additional service credit that may accrue to a participant under this paragraph may not exceed the difference between the participant’s age at the time of retirement and age 60.
+(1) **In general** — Except as provided in paragraph (2), an annuity payable under subsection (a) shall be computed under [section 2031(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2031/a&num=0&edition=prelim). However, if the disabled or incapacitated participant has less than 20 years of service credit toward retirement under the system at the time of retirement, the annuity shall be computed on the assumption that the participant has had 20 years of service, but the additional service credit that may accrue to a participant under this paragraph may not exceed the difference between the participant’s age at the time of retirement and age 60.
 
 (2) **Coordination with military retired pay and veterans’ compensation and pension** — If a participant retiring under this section is receiving retired pay or retainer pay for military service (except that specified in [section 2082(e)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2082/e/3&num=0&edition=prelim)) or Department of Veterans Affairs compensation or pension in lieu of such retired or retainer pay, the annuity of that participant shall be computed under [section 2031(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2031/a&num=0&edition=prelim), excluding credit for such military service from that computation. If the amount of the annuity so computed, plus the retired or retainer pay which is received, or which would be received but for the application of the limitation in section 5532 11 See References in Text note below. of title 5, or the Department of Veterans Affairs compensation or pension in lieu of such retired or retainer pay, is less than the annuity that would be payable under this section in the absence of the previous sentence, an amount equal to the difference shall be added to the annuity payable under [section 2031(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2031/a&num=0&edition=prelim).
 
@@ -1094,7 +1094,7 @@ A prior section 233 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1048,
 
 (2) except in a case in which the Director determines that separation was based in whole or in part on the ground of disloyalty to the United States, to leave the contributions in the fund and receive an annuity, computed as prescribed in [section 2031 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2031), commencing at age 62.
 
-**(b) Refund of contributions if former participant dies before age 62** If a participant who qualifies under subsection (a) of this section to receive a deferred annuity commencing at age 62 dies before reaching age 62, the participant’s contributions to the fund, with interest, shall be paid in accordance with the provisions of [section 2071 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2071).
+**(b) Refund of contributions if former participant dies before age 62** If a participant who qualifies under subsection (a) to receive a deferred annuity commencing at age 62 dies before reaching age 62, the participant’s contributions to the fund, with interest, shall be paid in accordance with the provisions of [section 2071 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2071).
 
 ### Statutory Notes
 
@@ -1147,9 +1147,9 @@ A prior section 235 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1049;
 ## § 2056. Eligibility for annuity
 **(a) One-out-of-two requirement** A participant must complete, within the last two years before any separation from service (except a separation because of death or disability) at least one year of creditable civilian service during which the participant is subject to this subchapter and in a pay status before the participant or the participant’s survivors are eligible for an annuity under this subchapter based on that separation.
 
-**(b) Refund of contributions for time not allowed for credit** If a participant (other than a participant separated from the service because of death or disability) fails to meet the service and pay status requirement of subsection (a) of this section, any amounts deducted from the participant’s pay during the period for which no eligibility is established based on the separation shall be returned to the participant on the separation.
+**(b) Refund of contributions for time not allowed for credit** If a participant (other than a participant separated from the service because of death or disability) fails to meet the service and pay status requirement of subsection (a), any amounts deducted from the participant’s pay during the period for which no eligibility is established based on the separation shall be returned to the participant on the separation.
 
-**(c) Exception** Failure to meet the service and pay status requirement of subsection (a) of this section shall not deprive the participant or the participant’s survivors of any annuity to which they may be entitled under this subchapter based on a previous separation.
+**(c) Exception** Failure to meet the service and pay status requirement of subsection (a) shall not deprive the participant or the participant’s survivors of any annuity to which they may be entitled under this subchapter based on a previous separation.
 
 ### Statutory Notes
 
@@ -1174,7 +1174,7 @@ is entitled to be paid the lump-sum credit. Receipt of the payment of the lump-s
 
 **(b) Conditions for payment of lump-sum credit**
 
-(1) **In general** — Whenever a former participant becomes entitled to receive payment of the lump-sum credit under subsection (a) of this section, such lump-sum credit shall be paid to the former participant and to any former spouse or former wife or husband of the former participant in accordance with paragraphs (2) through (4). The former participant’s lump-sum credit shall be reduced by the amount of the lump-sum credit payable to any former spouse or former wife or husband.
+(1) **In general** — Whenever a former participant becomes entitled to receive payment of the lump-sum credit under subsection (a), such lump-sum credit shall be paid to the former participant and to any former spouse or former wife or husband of the former participant in accordance with paragraphs (2) through (4). The former participant’s lump-sum credit shall be reduced by the amount of the lump-sum credit payable to any former spouse or former wife or husband.
 
 (2) **Pro rata share for former spouse** — Unless otherwise expressly provided by any spousal agreement or court order under [section 2094(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2094/b&num=0&edition=prelim), a former spouse of the former participant shall be entitled to receive a share of such participant’s lump-sum credit—
 
@@ -1211,13 +1211,13 @@ is entitled to be paid the lump-sum credit. Receipt of the payment of the lump-s
 
 **(d) Death of former participant before retirement**
 
-(1) **In general** — Except as provided in paragraph (2), if a former participant eligible for a deferred annuity under [section 2054 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2054) dies before reaching age 62, such former participant’s lump-sum credit shall be paid in accordance with subsection (c) of this section.
+(1) **In general** — Except as provided in paragraph (2), if a former participant eligible for a deferred annuity under [section 2054 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2054) dies before reaching age 62, such former participant’s lump-sum credit shall be paid in accordance with subsection (c).
 
-(2) **Limitation** — In any case where there is a surviving former spouse or surviving former wife or husband of such participant who is entitled to a share of such participant’s lump-sum credit under paragraphs (2) and (3) of subsection (b) of this section, the lump-sum credit payable under paragraph (1) shall be reduced by the lump-sum credit payable to such former spouse or former wife or husband.
+(2) **Limitation** — In any case where there is a surviving former spouse or surviving former wife or husband of such participant who is entitled to a share of such participant’s lump-sum credit under paragraphs (2) and (3) of subsection (b), the lump-sum credit payable under paragraph (1) shall be reduced by the lump-sum credit payable to such former spouse or former wife or husband.
 
-**(e) Termination of all annuity rights** If all annuity rights under this subchapter based on the service of a deceased participant or annuitant terminate before the total annuity paid equals the lump-sum credit, the difference shall be paid in accordance with subsection (c) of this section.
+**(e) Termination of all annuity rights** If all annuity rights under this subchapter based on the service of a deceased participant or annuitant terminate before the total annuity paid equals the lump-sum credit, the difference shall be paid in accordance with subsection (c).
 
-**(f) Payment of accrued and unpaid annuity when retired participant dies** If a retired participant dies, any annuity accrued and unpaid shall be paid in accordance with subsection (c) of this section.
+**(f) Payment of accrued and unpaid annuity when retired participant dies** If a retired participant dies, any annuity accrued and unpaid shall be paid in accordance with subsection (c).
 
 **(g) Termination of survivor annuity** An annuity accrued and unpaid on the termination, except by death, of the annuity of a survivor annuitant shall be paid to that individual. An annuity accrued and unpaid on the death of a survivor annuitant shall be paid in the following order of precedence, and the payment bars recovery by any other individual:
 
@@ -1279,7 +1279,7 @@ A prior section 251 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1050;
 
   (B) any period of service for which a refund of contributions has been made, or
 
-  (C) any period of service for which contributions were not transferred pursuant to subsection (c)(1) of this section;
+  (C) any period of service for which contributions were not transferred pursuant to subsection (c)(1);
   unless the participant makes a deposit to the fund in an amount equal to the percentages of basic pay received for such service as specified in the table contained in [section 8334(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8334/c&num=0&edition=prelim), together with interest computed in accordance with section 8334(e) of such title. The deposit may be made in one or more installments (including by allotment from pay), as determined by the Director.
 
 (2) **Effect of retirement deductions not made** — If a participant has not paid a deposit for civilian service performed before October 1, 1982, for which retirement deductions were not made, such participant’s annuity shall be reduced by 10 percent of the deposit described in paragraph (1) remaining unpaid, unless the participant elects to eliminate the service involved for the purpose of the annuity computation.
@@ -1293,7 +1293,7 @@ A prior section 251 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1050;
   (C) does not make the deposit required to receive credit for the service covered by the refund;
   shall be entitled to an annuity actuarially reduced in accordance with [section 8334(d)(2)(B) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8334/d/2/B&num=0&edition=prelim).
 
-(4) **Entitlement under another system** — Credit toward retirement under the system shall not be allowed for any period of civilian service on the basis of which the participant is receiving (or will in the future be entitled to receive) an annuity under another retirement system for Government employees, unless the right to such annuity is waived and a deposit is made under paragraph (1) covering that period of service, or a transfer is made pursuant to subsection (c) of this section.
+(4) **Entitlement under another system** — Credit toward retirement under the system shall not be allowed for any period of civilian service on the basis of which the participant is receiving (or will in the future be entitled to receive) an annuity under another retirement system for Government employees, unless the right to such annuity is waived and a deposit is made under paragraph (1) covering that period of service, or a transfer is made pursuant to subsection (c).
 
 **(c) Transfer from other Government retirement systems**
 
@@ -1311,17 +1311,17 @@ A prior section 251 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1050;
 
 **(e) Prior military service credit**
 
-(1) **Application to obtain credit** — If a deposit required to obtain credit for prior military service described in subsection (a)(2) of this section was not made to another Government retirement fund and transferred under subsection (c)(1) of this section, the participant may obtain credit for such military service, subject to the provisions of this subsection and subsections (f) through (h) of this section, by applying for it to the Director before retirement or separation from the Agency.
+(1) **Application to obtain credit** — If a deposit required to obtain credit for prior military service described in subsection (a)(2) was not made to another Government retirement fund and transferred under subsection (c)(1), the participant may obtain credit for such military service, subject to the provisions of this subsection and subsections (f) through (h), by applying for it to the Director before retirement or separation from the Agency.
 
 (2) **Employment starting before, on, or after October 1, 1982** — Except as provided in paragraph (3)—
 
-  (A) the service of a participant who first became a Federal employee before October 1, 1982, shall include credit for each period of military service performed before the date of separation on which entitlement to an annuity under this subchapter is based, subject to subsection (f) of this section; and
+  (A) the service of a participant who first became a Federal employee before October 1, 1982, shall include credit for each period of military service performed before the date of separation on which entitlement to an annuity under this subchapter is based, subject to subsection (f); and
 
   (B) the service of a participant who first becomes a Federal employee on or after October 1, 1982, shall include credit for—
 
     (i) each period of military service performed before January 1, 1957, and
 
-    (ii) each period of military service performed after December 31, 1956, and before the separation on which entitlement to an annuity under this subchapter is based, only if a deposit (with interest, if any) is made with respect to that period, as provided in subsection (h) of this section.
+    (ii) each period of military service performed after December 31, 1956, and before the separation on which entitlement to an annuity under this subchapter is based, only if a deposit (with interest, if any) is made with respect to that period, as provided in subsection (h).
 
 (3) **Effect of receipt of military retired pay** — In the case of a participant who is entitled to retired pay based on a period of military service, the participant’s service may not include credit for such period of military service unless the retired pay is paid—
 
@@ -1346,9 +1346,9 @@ A prior section 251 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1050;
 
 (2) **Limitation** — The provisions of paragraph (1) relating to credit for military service do not apply to—
 
-  (A) any period of military service of a participant with respect to which the participant has made a deposit with interest, if any, under subsection (h) of this section; or
+  (A) any period of military service of a participant with respect to which the participant has made a deposit with interest, if any, under subsection (h); or
 
-  (B) the military service of any participant described in subsection (e)(2)(B) of this section.
+  (B) the military service of any participant described in subsection (e)(2)(B).
 
 (3) **Effect of entitlement before September 8, 1982**
 
@@ -1362,7 +1362,7 @@ A prior section 251 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1050;
 
     (ii) October 1982, in the case of any participant entitled to such benefits for that month.
 
-**(g) Deposits paid by survivors** For the purpose of survivor annuities, deposits authorized by subsections (b) and (h) of this section may also be made by the survivor of a participant.
+**(g) Deposits paid by survivors** For the purpose of survivor annuities, deposits authorized by subsections (b) and (h) may also be made by the survivor of a participant.
 
 **(h) Deposits for periods of military service**
 
@@ -1511,7 +1511,7 @@ A prior section 263 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1052;
 
 <a id="section-2094"></a>
 ## § 2094. Attachment of moneys
-**(a) Exemption from legal process** Except as provided in subsections (b), (c), and (e) of this section, none of the moneys mentioned in this subchapter shall be assignable either in law or equity, or be subject to execution, levy, attachment, garnishment, or other legal process, except as otherwise may be provided by Federal laws.
+**(a) Exemption from legal process** Except as provided in subsections (b), (c), and (e), none of the moneys mentioned in this subchapter shall be assignable either in law or equity, or be subject to execution, levy, attachment, garnishment, or other legal process, except as otherwise may be provided by Federal laws.
 
 **(b) Payment to former spouses under court order or spousal agreement** In the case of any participant, former participant, or retired participant who has a former spouse who is covered by a court order or who is a party to a spousal agreement—
 
@@ -1526,9 +1526,9 @@ shall be determined in accordance with that spousal agreement or court order, if
 
 **(d) Prospective payments; bar to recovery**
 
-(1) Subsections (b) and (c) of this section apply only to payments made under this subchapter for periods beginning after the date of receipt by the Director of written notice of such decree, order, or agreement and such additional information and documentation as the Director may require.
+(1) Subsections (b) and (c) apply only to payments made under this subchapter for periods beginning after the date of receipt by the Director of written notice of such decree, order, or agreement and such additional information and documentation as the Director may require.
 
-(2) Any payment under subsection (b) or (c) of this section to an individual bars recovery by any other individual.
+(2) Any payment under subsection (b) or (c) to an individual bars recovery by any other individual.
 
 **(e) Allotments** An individual entitled to an annuity from the fund may make allotments or assignments of amounts from such annuity for such purposes as the Director considers appropriate.
 
@@ -1566,7 +1566,7 @@ Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub
 ## § 2111. Recall
 **(a) Authority to recall** The Director may, with the consent of a retired participant, recall that participant to service in the Agency whenever the Director determines that such recall is in the public interest.
 
-**(b) Pay of retired participant while serving** A retired participant recalled to duty in the Agency under subsection (a) of this section or reinstated or reappointed in accordance with section 2051(b) 11 So in original. Probably should be section “2051(c)”. of this title shall, while so serving, be entitled, in lieu of the retired participant’s annuity, to the full basic pay of the grade in which the retired participant is serving. During such service, the retired participant shall make contributions to the fund in accordance with [section 2021 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2021).
+**(b) Pay of retired participant while serving** A retired participant recalled to duty in the Agency under subsection (a) or reinstated or reappointed in accordance with section 2051(b) 11 So in original. Probably should be section “2051(c)”. of this title shall, while so serving, be entitled, in lieu of the retired participant’s annuity, to the full basic pay of the grade in which the retired participant is serving. During such service, the retired participant shall make contributions to the fund in accordance with [section 2021 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2021).
 
 **(c) Recomputation of annuity** When the retired participant reverts to retired status, the annuity of the retired participant shall be redetermined in accordance with [section 2031 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2031).
 
@@ -1618,7 +1618,7 @@ For waiver of application of the dual compensation reduction provisions of this 
   (A) for periods before January 1, 1985, at 3 percent a year; and
 
   (B) for periods on or after January 1, 1985, at the rate computed under [section 8334(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8334/e&num=0&edition=prelim),
-  compounded annually to the date of election under subsection (b) of this section or the date of payment under subsection (d) of this section.
+  compounded annually to the date of election under subsection (b) or the date of payment under subsection (d).
 
 **(b) Treatment of voluntary contributions** Effective on the date of retirement and at the election of the participant, the participant’s account shall be—
 
@@ -1631,7 +1631,7 @@ For waiver of application of the dual compensation reduction provisions of this 
 (4) used to purchase an additional life annuity for the participant and a life annuity commencing on the participant’s death payable to a beneficiary, with a guaranteed return to the beneficiary or the beneficiary’s legal representative of an amount equal to the cash payment referred to in paragraph (3).
 In the case of a benefit provided under paragraph (3) or (4), the participant shall notify the Director in writing of the name of the beneficiary of the cash payment or life annuity to be paid upon the participant’s death.
 
-**(c) Value of benefits** The benefits provided by subsection (b)(2), (3), or (4) of this section shall be actuarially equivalent in value to the payment provided for in subsection (b)(1) of this section and shall be calculated upon such tables of mortality as may be from time to time prescribed for this purpose by the Director.
+**(c) Value of benefits** The benefits provided by subsection (b)(2), (3), or (4) shall be actuarially equivalent in value to the payment provided for in subsection (b)(1) and shall be calculated upon such tables of mortality as may be from time to time prescribed for this purpose by the Director.
 
 **(d) Lump-sum payment** A voluntary contribution account shall be paid in a lump sum at such time as the participant dies or separates from the Agency without entitlement to an annuity. In the case of death, the account shall be paid in the order of precedence specified in [section 2071(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2071/c&num=0&edition=prelim).
 
@@ -1649,13 +1649,13 @@ A prior section 281 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1053;
 
 (1) Each cost-of-living annuity increase under this section shall be identical to the corresponding percentage increase under [section 8340(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8340/b&num=0&edition=prelim).
 
-(2) A cost-of-living increase made under paragraph (1) shall become effective under this section on the effective date of each such increase under [section 8340(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8340/b&num=0&edition=prelim). Except as provided in subsection (b) of this section, each such increase shall be applied to each annuity payable from the fund which has a commencing date not later than the effective date of the increase.
+(2) A cost-of-living increase made under paragraph (1) shall become effective under this section on the effective date of each such increase under [section 8340(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8340/b&num=0&edition=prelim). Except as provided in subsection (b), each such increase shall be applied to each annuity payable from the fund which has a commencing date not later than the effective date of the increase.
 
 **(b) Eligibility** Eligibility for an annuity increase under this section shall be governed by the commencing date of each annuity payable from the fund as of the effective date of an increase, except as follows:
 
-(1) The first cost-of-living increase (if any) made under subsection (a) of this section to an annuity which is payable from the fund to a participant who retires, to the surviving spouse, former spouse, or previous spouse of a participant who dies in service, or to the surviving spouse, former spouse, previous spouse, or insurable interest designee of a deceased annuitant whose annuity has not been increased under this subsection or subsection (a) of this section, shall be equal to the product (adjusted to the nearest ⅒ of one percent) of—
+(1) The first cost-of-living increase (if any) made under subsection (a) to an annuity which is payable from the fund to a participant who retires, to the surviving spouse, former spouse, or previous spouse of a participant who dies in service, or to the surviving spouse, former spouse, previous spouse, or insurable interest designee of a deceased annuitant whose annuity has not been increased under this subsection or subsection (a), shall be equal to the product (adjusted to the nearest ⅒ of one percent) of—
 
-  (A) 1⁄12 of the applicable percent change computed under subsection (a) of this section, multiplied by
+  (A) 1⁄12 of the applicable percent change computed under subsection (a), multiplied by
 
   (B) the number of months (not to exceed 12 months, counting any portion of a month as a month)—
 
@@ -1766,9 +1766,9 @@ A prior section 293 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 
 
 **(b) Basis for alternative forms of annuity** The regulations and alternative forms of annuity shall, to the maximum extent practicable, meet the requirements prescribed in [section 8343a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8343a&num=0&edition=prelim).
 
-**(c) Lump-sum credit** Any lump-sum credit provided pursuant to an election under subsection (a) of this section shall not preclude an individual from receiving other benefits provided under that subsection.
+**(c) Lump-sum credit** Any lump-sum credit provided pursuant to an election under subsection (a) shall not preclude an individual from receiving other benefits provided under that subsection.
 
-**(d) Submission of regulations to congressional intelligence committees** The Director shall submit the regulations prescribed under subsection (a) of this section to the congressional intelligence committees before the regulations take effect.
+**(d) Submission of regulations to congressional intelligence committees** The Director shall submit the regulations prescribed under subsection (a) to the congressional intelligence committees before the regulations take effect.
 
 ### Statutory Notes
 
@@ -1795,7 +1795,7 @@ A prior section 295 of Pub. L. 88–643, as added Pub. L. 101–193, title III, 
 
 <a id="section-2151"></a>
 ## § 2151. Application of Federal Employees’ Retirement System to Agency employees
-**(a) General rule** Except as provided in subsections (b) and (c) of this section, all employees of the Agency, any of whose service after December 31, 1983, is employment for the purpose of title II of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.] and chapter 21 of title 26, shall be subject to chapter 84 of title 5.
+**(a) General rule** Except as provided in subsections (b) and (c), all employees of the Agency, any of whose service after December 31, 1983, is employment for the purpose of title II of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.] and chapter 21 of title 26, shall be subject to chapter 84 of title 5.
 
 **(b) Exception for pre-1984 employees** Participants in the Central Intelligence Agency Retirement and Disability System who were participants in such system on or before December 31, 1983, and who have not had a break in service in excess of one year since that date, are not subject to chapter 84 of title 5 without regard to whether they are subject to title II of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.].
 
@@ -1819,7 +1819,7 @@ A prior section 295 of Pub. L. 88–643, as added Pub. L. 101–193, title III, 
 
 (3) shall be irrevocable.
 
-**(e) Special rules** The application of the provisions of chapter 84 of title 5 to an employee referred to in subsection (a) of this section shall be subject to the exceptions and special rules provided in this subchapter. Any provision of that chapter which is inconsistent with a special rule provided in this subchapter shall not apply to such employees.
+**(e) Special rules** The application of the provisions of chapter 84 of title 5 to an employee referred to in subsection (a) shall be subject to the exceptions and special rules provided in this subchapter. Any provision of that chapter which is inconsistent with a special rule provided in this subchapter shall not apply to such employees.
 
 ### Statutory Notes
 
@@ -1834,11 +1834,11 @@ A prior section 301 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 
 ## § 2152. Special rules relating to section 2013 criteria employees
 **(a) In general** Except as otherwise provided in this section, in the application of chapter 84 of title 5 to an employee of the Agency who is subject to such chapter and is designated by the Director under the criteria prescribed in [section 2013 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2013), such employee shall be treated for purposes of determining such employee’s retirement benefits and obligations under such chapter as if the employee were a law enforcement officer (as defined in [section 8401(17) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8401/17&num=0&edition=prelim)).
 
-**(b) Voluntary and mandatory retirement** The provisions of sections 2053 and 2055 of this title shall apply to employees referred to in subsection (a) of this section, except that the retirement benefits shall be determined under chapter 84 of title 5.
+**(b) Voluntary and mandatory retirement** The provisions of sections 2053 and 2055 of this title shall apply to employees referred to in subsection (a), except that the retirement benefits shall be determined under chapter 84 of title 5.
 
 **(c) Recall**
 
-(1) Except as provided in paragraph (2), [section 2111 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2111) shall apply to an employee referred to in subsection (a) of this section.
+(1) Except as provided in paragraph (2), [section 2111 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2111) shall apply to an employee referred to in subsection (a).
 
 (2) Contributions during recall service shall be made as provided in [section 8422 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8422&num=0&edition=prelim).
 
@@ -1852,7 +1852,7 @@ A prior section 302 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 
 
 <a id="section-2153"></a>
 ## § 2153. Special rules for other employees for service abroad
-**(a) Special computation rule** Notwithstanding any provision of chapter 84 of title 5, the annuity under subchapter II of such chapter of a retired employee of the Agency who is not designated under [section 2152(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2152/a&num=0&edition=prelim) and who has served abroad as an employee of the Agency after December 31, 1986, shall be computed as provided in subsection (b) of this section.
+**(a) Special computation rule** Notwithstanding any provision of chapter 84 of title 5, the annuity under subchapter II of such chapter of a retired employee of the Agency who is not designated under [section 2152(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2152/a&num=0&edition=prelim) and who has served abroad as an employee of the Agency after December 31, 1986, shall be computed as provided in subsection (b).
 
 **(b) Computation**
 
@@ -1987,7 +1987,7 @@ A prior section 303 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 
 
     (i) 50 percent of the employee’s annuity under chapter 84 of title 5 or [section 2152(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2152/a&num=0&edition=prelim) (computed in accordance with section 302(a) of the Federal Employees’ Retirement System Act of 1986 or [section 2157 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2157)), plus
 
-    (ii) the survivor benefits referred to in subsection (d)(2)(A) of this section,
+    (ii) the survivor benefits referred to in subsection (d)(2)(A),
     multiplied by the proportion that the number of days of marriage during the period of the employee’s creditable service on and after the effective date of the election to transfer bears to the employee’s total creditable service after such effective date.
 
 **(e) Qualified former spouse Thrift Savings Plan benefit**
@@ -2018,11 +2018,11 @@ A prior section 303 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 
 
 **(h) Payment to qualified former spouses under court order or spousal agreement** In the case of any employee or retired employee who has a qualified former spouse who is covered by a court order or who is a party to a spousal agreement—
 
-(1) any right of the qualified former spouse to any retirement benefits under subsection (c) of this section and to any survivor benefits under subsection (d) of this section, and the amount of any such benefits;
+(1) any right of the qualified former spouse to any retirement benefits under subsection (c) and to any survivor benefits under subsection (d), and the amount of any such benefits;
 
-(2) any right of the qualified former spouse to any Thrift Savings Plan benefit under subsection (e) of this section, and the amount of any such benefit; and
+(2) any right of the qualified former spouse to any Thrift Savings Plan benefit under subsection (e), and the amount of any such benefit; and
 
-(3) any right of the qualified former spouse to any payment of a lump-sum credit under subsection (g) of this section, and the amount of any such payment;
+(3) any right of the qualified former spouse to any payment of a lump-sum credit under subsection (g), and the amount of any such payment;
 shall be determined in accordance with that spousal agreement or court order, if and to the extent expressly provided for in the terms of the spousal agreement or court order that are not inconsistent with the requirements of this section.
 
 **(i) Applicability of CIARDS former spouse benefits**
@@ -2031,7 +2031,7 @@ shall be determined in accordance with that spousal agreement or court order, if
 
 (2) For the purposes of computing such former spouse’s benefits under sections 2034 and 2035 of this title—
 
-  (A) the retirement benefits shall be equal to the amount determined under subsection (c)(7)(A) of this section; and
+  (A) the retirement benefits shall be equal to the amount determined under subsection (c)(7)(A); and
 
   (B) the survivor benefits shall be equal to 55 percent of the full amount of the employee’s annuity computed in accordance with section 302(a) of the Federal Employees’ Retirement System Act of 1986 or regulations prescribed under [section 2157 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2157).
 
@@ -2056,7 +2056,7 @@ Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub
 ## § 2155. Administrative provisions
 **(a) Finality of decisions of Director** [Section 2011(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2011/c&num=0&edition=prelim) shall apply in the administration of chapter 84 of title 5 with respect to employees of the Agency.
 
-**(b) Exception** Notwithstanding subsection (a) of this section, [section 8461(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8461/e&num=0&edition=prelim) shall apply with respect to employees of the Agency who are not participants in the Central Intelligence Agency Retirement and Disability System and are not designated under [section 2152(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2152/a&num=0&edition=prelim).
+**(b) Exception** Notwithstanding subsection (a), [section 8461(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8461/e&num=0&edition=prelim) shall apply with respect to employees of the Agency who are not participants in the Central Intelligence Agency Retirement and Disability System and are not designated under [section 2152(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2152/a&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -2068,7 +2068,7 @@ A prior section 305 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 
 ## § 2156. Regulations
 **(a) Requirement** The Director shall prescribe in regulations appropriate procedures to carry out this subchapter. Such regulations shall be prescribed in consultation with the Director of the Office of Personnel Management and the Executive Director of the Federal Retirement Thrift Investment Board.
 
-**(b) Congressional review** The Director shall submit regulations prescribed under subsection (a) of this section to the congressional intelligence committees before they take effect.
+**(b) Congressional review** The Director shall submit regulations prescribed under subsection (a) to the congressional intelligence committees before they take effect.
 
 ### Statutory Notes
 
@@ -2080,7 +2080,7 @@ A prior section 306 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 
 ## § 2157. Transition regulations
 **(a) Regulations** The Director shall prescribe regulations providing for the transition from the Central Intelligence Agency Retirement and Disability System to the Federal Employees’ Retirement System provided in chapter 84 of title 5 in a manner consistent with sections 301 through 304 of the Federal Employees’ Retirement System Act of 1986.
 
-**(b) Congressional review** The Director shall submit regulations prescribed under subsection (a) of this section to the congressional intelligence committees before they take effect.
+**(b) Congressional review** The Director shall submit regulations prescribed under subsection (a) to the congressional intelligence committees before they take effect.
 
 ### Statutory Notes
 

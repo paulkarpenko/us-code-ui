@@ -49,7 +49,7 @@ For the purposes of this chapter—
 
 **(i)** The term “corrosive” means any substance which in contact with living tissue will cause destruction of tissue by chemical action; but shall not refer to action on inanimate surfaces.
 
-**(j)** The term “irritant” means any substance not corrosive within the meaning of subparagraph (i) of this section which on immediate, prolonged, or repeated contact with normal living tissue will induce a local inflammatory reaction.
+**(j)** The term “irritant” means any substance not corrosive within the meaning of subparagraph (i) which on immediate, prolonged, or repeated contact with normal living tissue will induce a local inflammatory reaction.
 
 **(k)** The term “strong sensitizer” means a substance which will cause on normal living tissue through an allergic or photodynamic process a hypersensitivity which becomes evident on reapplication of the same substance and which is designated as such by the Commission. Before designating any substance as a strong sensitizer, the Commission, upon consideration of the frequency of occurrence and severity of the reaction, shall find that the substance has a significant potential for causing hypersensitivity.
 
@@ -71,7 +71,7 @@ For the purposes of this chapter—
 
 **(p)** The term “misbranded hazardous substance” means a hazardous substance (including a toy, or other article intended for use by children, which is a hazardous substance, or which bears or contains a hazardous substance in such manner as to be susceptible of access by a child to whom such toy or other article is entrusted) intended, or packaged in a form suitable, for use in the household or by children, if the packaging or labeling of such substance is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title or if such substance, except as otherwise provided by or pursuant to [section 1262 of this title](./chapter-030-hazardous-substances.md#section-1262), fails to bear a label—
 
-(1) which states conspicuously (A) the name and place of business of the manufacturer, packer, distributor or seller; (B) the common or usual name or the chemical name (if there be no common or usual name) of the hazardous substance or of each component which contributes substantially to its hazard, unless the Commission by regulation permits or requires the use of a recognized generic name; (C) the signal word “DANGER” on substances which are extremely flammable, corrosive, or highly toxic; (D) the signal word “WARNING” or “CAUTION” on all other hazardous substances; (E) an affirmative statement of the principal hazard or hazards, such as “Flammable”, “Combustible”, “Vapor Harmful”, “Causes Burns”, “Absorbed Through Skin”, or similar wording descriptive of the hazard; (F) precautionary measures describing the action to be followed or avoided, except when modified by regulation of the Commission pursuant to [section 1262 of this title](./chapter-030-hazardous-substances.md#section-1262); (G) instruction, when necessary or appropriate, for first-aid treatment; (H) the word “poison” for any hazardous substance which is defined as “highly toxic” by subsection (h) of this section; (I) instructions for handling and storage of packages which require special care in handling or storage; and (J) the statement (i) “Keep out of the reach of children” or its practical equivalent, or, (ii) if the article is intended for use by children and is not a banned hazardous substance, adequate directions for the protection of children from the hazard, and
+(1) which states conspicuously (A) the name and place of business of the manufacturer, packer, distributor or seller; (B) the common or usual name or the chemical name (if there be no common or usual name) of the hazardous substance or of each component which contributes substantially to its hazard, unless the Commission by regulation permits or requires the use of a recognized generic name; (C) the signal word “DANGER” on substances which are extremely flammable, corrosive, or highly toxic; (D) the signal word “WARNING” or “CAUTION” on all other hazardous substances; (E) an affirmative statement of the principal hazard or hazards, such as “Flammable”, “Combustible”, “Vapor Harmful”, “Causes Burns”, “Absorbed Through Skin”, or similar wording descriptive of the hazard; (F) precautionary measures describing the action to be followed or avoided, except when modified by regulation of the Commission pursuant to [section 1262 of this title](./chapter-030-hazardous-substances.md#section-1262); (G) instruction, when necessary or appropriate, for first-aid treatment; (H) the word “poison” for any hazardous substance which is defined as “highly toxic” by subsection (h); (I) instructions for handling and storage of packages which require special care in handling or storage; and (J) the statement (i) “Keep out of the reach of children” or its practical equivalent, or, (ii) if the article is intended for use by children and is not a banned hazardous substance, adequate directions for the protection of children from the hazard, and
 
 (2) on which any statements required under subparagraph (1) of this paragraph are located prominently and are in the English language in conspicuous and legible type in contrast by typography, layout, or color with other printed matter on the label.
 The term “misbranded hazardous substance” also includes a household substance as defined in section 1471(2)(D) 11 See References in Text note below. of this title if it is a substance described in paragraph (1) of subsection (f) of this section and its packaging or labeling is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title.
@@ -238,11 +238,11 @@ The Commission shall transmit such notice within 10 calendar days to the Committ
 
 **(g) Publication of standard; termination of proceeding for promulgation of regulation; monitoring of compliance**
 
-(1) If the Commission determines that any standard submitted to it in response to an invitation in a notice published under subsection (f)(5) of this section if promulgated (in whole, in part, or in combination with any other standard submitted to the Commission or any part of such a standard) as a regulation under [section 1261(q)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1261/q/1&num=0&edition=prelim) or subsection (e) of this section, as the case may be, would eliminate or adequately reduce the risk of injury identified in a notice provided under subsection (f)(1) of this section, the Commission may publish such standard, in whole, in part, or in such combination and with nonmaterial modifications, as a proposed regulation under such section or subsection.
+(1) If the Commission determines that any standard submitted to it in response to an invitation in a notice published under subsection (f)(5) if promulgated (in whole, in part, or in combination with any other standard submitted to the Commission or any part of such a standard) as a regulation under [section 1261(q)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1261/q/1&num=0&edition=prelim) or subsection (e) of this section, as the case may be, would eliminate or adequately reduce the risk of injury identified in a notice provided under subsection (f)(1), the Commission may publish such standard, in whole, in part, or in such combination and with nonmaterial modifications, as a proposed regulation under such section or subsection.
 
 (2) If the Commission determines that—
 
-  (A) compliance with any standard submitted to it in response to an invitation in a notice published under subsection (f)(6) of this section is likely to result in the elimination or adequate reduction of the risk of injury identified in the notice, and
+  (A) compliance with any standard submitted to it in response to an invitation in a notice published under subsection (f)(6) is likely to result in the elimination or adequate reduction of the risk of injury identified in the notice, and
 
   (B) it is likely that there will be substantial compliance with such standard,
   the Commission shall terminate any proceeding to promulgate a regulation under [section 1261(q)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1261/q/1&num=0&edition=prelim) or subsection (e) of this section, respecting such risk of injury and shall publish in the Federal Register a notice which includes the determination of the Commission and which notifies the public that the Commission will rely on the voluntary standard to eliminate or reduce the risk of injury, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.
@@ -259,9 +259,9 @@ The Commission shall transmit such notice within 10 calendar days to the Committ
 
 (1) a preliminary description of the potential benefits and potential costs of the proposed regulation, including any benefits or costs that cannot be quantified in monetary terms, and an identification of those likely to receive the benefits and bear the costs;
 
-(2) a discussion of the reasons any standard or portion of a standard submitted to the Commission under subsection (f)(5) of this section was not published by the Commission as the proposed regulation or part of the proposed regulation;
+(2) a discussion of the reasons any standard or portion of a standard submitted to the Commission under subsection (f)(5) was not published by the Commission as the proposed regulation or part of the proposed regulation;
 
-(3) a discussion of the reasons for the Commission’s preliminary determination that efforts proposed under subsection (f)(6) of this section and assisted by the Commission as required by [section 2054(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2054/a/3&num=0&edition=prelim) would not, within a reasonable period of time, be likely to result in the development of a voluntary standard that would eliminate or adequately reduce the risk of injury identified in the notice provided under subsection (f)(1) of this section; and
+(3) a discussion of the reasons for the Commission’s preliminary determination that efforts proposed under subsection (f)(6) and assisted by the Commission as required by [section 2054(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2054/a/3&num=0&edition=prelim) would not, within a reasonable period of time, be likely to result in the development of a voluntary standard that would eliminate or adequately reduce the risk of injury identified in the notice provided under subsection (f)(1); and
 
 (4) a description of any reasonable alternatives to the proposed regulation, together with a summary description of their potential costs and benefits, and a brief explanation of why such alternatives should not be published as a proposed regulation.
 The Commission shall transmit such notice within 10 calendar days to the appropriate Congressional committees. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed regulation.
@@ -291,7 +291,7 @@ The Commission shall transmit such notice within 10 calendar days to the appropr
 
 (3)
 
-  (A) Any regulatory analysis prepared under subsection (h) of this section or paragraph (1) shall not be subject to independent judicial review, except that when an action for judicial review of a regulation is instituted, the contents of any such regulatory analysis shall constitute part of the whole rulemaking record of agency action in connection with such review.
+  (A) Any regulatory analysis prepared under subsection (h) or paragraph (1) shall not be subject to independent judicial review, except that when an action for judicial review of a regulation is instituted, the contents of any such regulatory analysis shall constitute part of the whole rulemaking record of agency action in connection with such review.
 
   (B) The provisions of subparagraph (A) shall not be construed to alter the substantive or procedural standards otherwise applicable to judicial review of any action by the Commission.
 
@@ -491,7 +491,7 @@ The Consumer Product Safety Commission to issue a final regulation providing its
 
 **(d) Costs and fees** When a decree of condemnation is entered against the hazardous substance, court costs and fees, and storage and other proper expenses, shall be awarded against the person, if any, intervening as claimant of the hazardous substance.
 
-**(e) Removal of case for trial** In the case of removal for trial of any case as provided by subsection (b) of this section—
+**(e) Removal of case for trial** In the case of removal for trial of any case as provided by subsection (b)—
 
 (1) the clerk of the court from which removal is made shall promptly transmit to the court in which the case is to be tried all rec­ords in the case necessary in order that such court may exercise jurisdiction;
 
@@ -642,7 +642,7 @@ An order under this subsection shall specify the form and content of any notice 
 
 (3) To refund the purchase price of the article or substance (less a reasonable allowance for use, if the article or substance has been in the possession of the consumer for one year or more—
 
-  (A) at the time of public notice under subsection (a) of this section, or
+  (A) at the time of public notice under subsection (a), or
 
   (B) at the time the consumer receives actual notice that the article or substance is a banned hazardous substance,
   whichever first occurs).
@@ -670,11 +670,11 @@ An order under this subsection may also require the person to whom it applies to
 
 **(d) Charge for remedy; reimbursement for expenses**
 
-(1) No charge shall be made to any person (other than a manufacturer, distributor, or dealer) who avails himself of any remedy provided under an order issued under subsection (b) or (c) of this section, and the person subject to the order shall reimburse each person (other than a manufacturer, distributor, or dealer) who is entitled to such a remedy for any reasonable and foreseeable expenses incurred by such person in availing himself of such remedy.
+(1) No charge shall be made to any person (other than a manufacturer, distributor, or dealer) who avails himself of any remedy provided under an order issued under subsection (b) or (c), and the person subject to the order shall reimburse each person (other than a manufacturer, distributor, or dealer) who is entitled to such a remedy for any reasonable and foreseeable expenses incurred by such person in availing himself of such remedy.
 
-(2) An order issued under subsection (a), (b), or (c) of this section with respect to a toy, article or substance may require any person who is a manufacturer, distributor, or dealer of the toy, article or substance to reimburse any other person who is a manufacturer, distributor, or dealer of such toy, article or substance for such other person’s expenses in connection with carrying out the order, if the Commission determines such reimbursement to be in the public interest.
+(2) An order issued under subsection (a), (b), or (c) with respect to a toy, article or substance may require any person who is a manufacturer, distributor, or dealer of the toy, article or substance to reimburse any other person who is a manufacturer, distributor, or dealer of such toy, article or substance for such other person’s expenses in connection with carrying out the order, if the Commission determines such reimbursement to be in the public interest.
 
-**(e) Hearing; representative of class** An order under subsection (a), (b), or (c) of this section may be issued only after an opportunity for a hearing in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim), except that, if the Commission determines that any person who wishes to participate in such hearing is a part of a class of participants who share an identity of interest, the Commission may limit such person’s participation in such hearing to participation through a single representative designated by such class (or by the Commission if such class fails to designate such a representative).
+**(e) Hearing; representative of class** An order under subsection (a), (b), or (c) may be issued only after an opportunity for a hearing in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim), except that, if the Commission determines that any person who wishes to participate in such hearing is a part of a class of participants who share an identity of interest, the Commission may limit such person’s participation in such hearing to participation through a single representative designated by such class (or by the Commission if such class fails to designate such a representative).
 
 **(f) “Manufacturer” defined** For purposes of this section (1) the term “manufacturer” includes an importer for resale, and (2) a dealer who sells at wholesale an article or substance shall with respect to that sale be considered the distributor of that article or substance.
 
@@ -722,7 +722,7 @@ Section effective on sixtieth day following Nov. 6, 1969, see section 5 of Pub. 
 ## § 1275. Toxicological Advisory Board
 **(a) Establishment; functions; review and recommendations**
 
-(1) Within 180 days after November 10, 1978, the Commission shall establish, in accordance with subsection (b) of this section, a Toxicological Advisory Board (hereinafter in this section referred to as the “Board”) to advise the Commission on precautionary labeling for hazardous substances. The Board shall provide scientific and technical advice to the Commission concerning—
+(1) Within 180 days after November 10, 1978, the Commission shall establish, in accordance with subsection (b), a Toxicological Advisory Board (hereinafter in this section referred to as the “Board”) to advise the Commission on precautionary labeling for hazardous substances. The Board shall provide scientific and technical advice to the Commission concerning—
 
   (A) proper labeling under sections 1261(p)(1) and 1262(b) of this title, with special attention to—
 
@@ -766,7 +766,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 ## § 1276. Congressional veto of hazardous substances regulations
 **(a) Transmission to Congress** The Commission shall transmit to the Secretary of the Senate and the Clerk of the House of Representatives a copy of any regulation promulgated by the Commission under [section 1261(q)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1261/q/1&num=0&edition=prelim) or subsection (e) of [section 1262 of this title](./chapter-030-hazardous-substances.md#section-1262).
 
-**(b) Disapproval by concurrent resolution** Any regulation specified in subsection (a) of this section shall not take effect if—
+**(b) Disapproval by concurrent resolution** Any regulation specified in subsection (a) shall not take effect if—
 
 (1) within the ninety calendar days of continuous session of the Congress which occur after the date of the promulgation of such regulation, both Houses of the Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows (with the blank spaces appropriately filled): “That the Congress disapproves the regulation which was promulgated under the Federal Hazardous Substances Act by the Consumer Product Safety Commission with respect to and which was transmitted to the Congress on and disapproves the regulation for the following reasons: .”; or
 
@@ -778,7 +778,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 (1) continuity of session is broken only by an adjournment of the Congress sine die; and
 
-(2) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the periods of continuous session of the Congress specified in subsection (b) of this section.
+(2) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the periods of continuous session of the Congress specified in subsection (b).
 
 ### Statutory Notes
 
@@ -794,13 +794,13 @@ Section applicable with respect to consumer product safety rules under chapter 4
 
 <a id="section-1277"></a>
 ## § 1277. Labeling of art materials
-**(a) Regulation status of standard D–4236 of American Society for Testing and Materials** On and after the last day of the 2-year period beginning on November 18, 1988, the requirements for the labeling of art materials set forth in the version of the standard of the American Society for Testing and Materials designated D–4236 that is in effect on November 18, 1988, and as modified by subsection (b) of this section shall be deemed to be a regulation issued by the Commission under [section 1262(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1262/b&num=0&edition=prelim).
+**(a) Regulation status of standard D–4236 of American Society for Testing and Materials** On and after the last day of the 2-year period beginning on November 18, 1988, the requirements for the labeling of art materials set forth in the version of the standard of the American Society for Testing and Materials designated D–4236 that is in effect on November 18, 1988, and as modified by subsection (b) shall be deemed to be a regulation issued by the Commission under [section 1262(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1262/b&num=0&edition=prelim).
 
-**(b) Requirements applicable to standard D–4236** The following shall apply with respect to the standard of the American Society for Testing and Materials referred to in subsection (a) of this section:
+**(b) Requirements applicable to standard D–4236** The following shall apply with respect to the standard of the American Society for Testing and Materials referred to in subsection (a):
 
 (1) The term “art material or art material product” shall mean any substance marketed or represented by the producer or repackager as suitable for use in any phase of the creation of any work of visual or graphic art of any medium. The term does not include economic poisons subject to the Federal Insecticide, Fungicide, and Rodenticide Act [[7 U.S.C. 136](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim) et seq.] or drugs, devices, or cosmetics subject to the Federal Food, Drug, and Cosmetics Act [[21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.].
 
-(2) The standard referred to in subsection (a) of this section as modified by this subsection applies to art materials intended for users of any age.
+(2) The standard referred to in subsection (a) as modified by this subsection applies to art materials intended for users of any age.
 
 (3) Each producer or repackager of art materials shall describe in writing the criteria used to determine whether an art material has the potential for producing chronic adverse health effects. Each producer or repackager shall be responsible for submitting to the Commission these criteria and a list of art materials that require hazard warning labels under this section.
 
@@ -808,13 +808,13 @@ Section applicable with respect to consumer product safety rules under chapter 4
 
 (5) All art materials that require chronic hazard labeling pursuant to this section must include on the label the name and address of the producer or repackager of the art materials and an appropriate telephone number and a statement signifying that such art materials are inappropriate for use by children.
 
-(6) If an art material producer or repackager becomes newly aware of any significant information regarding the hazards of an art material or ways to protect against the hazard, this new information must be incorporated into the labels of such art materials that are manufactured after 12 months from the date of discovery. If a producer or repackager reformulates an art material, the new formulation must be evaluated and labeled in accordance with the standard referred to in subsection (a) of this section as modified by this subsection.
+(6) If an art material producer or repackager becomes newly aware of any significant information regarding the hazards of an art material or ways to protect against the hazard, this new information must be incorporated into the labels of such art materials that are manufactured after 12 months from the date of discovery. If a producer or repackager reformulates an art material, the new formulation must be evaluated and labeled in accordance with the standard referred to in subsection (a) as modified by this subsection.
 
-(7) If the Commission determines that an art material in a container equal to or smaller than one fluid ounce (30 ml) (if the product is sold by volume) or one ounce net weight (28 g) (if the product is sold by weight) has the potential for producing chronic adverse health effects with customary or reasonably foreseeable use despite its small size, the Commission may require the art material to carry a label which conveys all the information required under the standard referred to in subsection (a) of this section as modified by this subsection for art materials in a container greater than one fluid ounce or one ounce net weight. If the information cannot fit on the package label, the Commission shall require the art material to have a package insert which conveys all this information. If the art material has a package insert, the label on the product shall include a signal word in conformance with paragraph 5 of the standard referred to in subsection (a) of this section, a list of potentially harmful or sensitizing components, and the statement “see package insert before use”. For purposes of this subsection, the term “package insert” means a display of written, printed, or graphic matter upon a leaflet or suitable material accompanying the art material. This requirement is in addition to, and is not meant to supersede, the requirement of paragraph 5.8 of the standard designated D–4236.
+(7) If the Commission determines that an art material in a container equal to or smaller than one fluid ounce (30 ml) (if the product is sold by volume) or one ounce net weight (28 g) (if the product is sold by weight) has the potential for producing chronic adverse health effects with customary or reasonably foreseeable use despite its small size, the Commission may require the art material to carry a label which conveys all the information required under the standard referred to in subsection (a) as modified by this subsection for art materials in a container greater than one fluid ounce or one ounce net weight. If the information cannot fit on the package label, the Commission shall require the art material to have a package insert which conveys all this information. If the art material has a package insert, the label on the product shall include a signal word in conformance with paragraph 5 of the standard referred to in subsection (a), a list of potentially harmful or sensitizing components, and the statement “see package insert before use”. For purposes of this subsection, the term “package insert” means a display of written, printed, or graphic matter upon a leaflet or suitable material accompanying the art material. This requirement is in addition to, and is not meant to supersede, the requirement of paragraph 5.8 of the standard designated D–4236.
 
 (8) In determining whether an art material has the potential for producing chronic adverse health effects, including carcinogenicity and potential carcinogenicity, a toxicologist shall take into account opinions of various regulatory agencies and scientific bodies.
 
-**(c) Revisions incorporated into standard D–4236; notice and hearing; amendment; opportunity for comment; transcript of proceedings** If the Commission determines that a revision proposed by the American Society for Testing and Materials is in the public interest, it shall incorporate the revision into the standard referred to in subsection (a) of this section as modified by subsection (b) of this section after providing notice and an opportunity for comment. If at any time the Commission finds that the standard referred to in subsection (a) of this section as modified by subsection (b) of this section is inadequate for the protection of the public interest, it shall promulgate an amendment to the standard which will adequately protect the public interest. Such final standard shall be promulgated pursuant to [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), except that the Commission shall give interested persons an opportunity for the oral presentation of data, views, or arguments, in addition to an opportunity to make written submissions. A transcript shall be kept of any oral presentation.
+**(c) Revisions incorporated into standard D–4236; notice and hearing; amendment; opportunity for comment; transcript of proceedings** If the Commission determines that a revision proposed by the American Society for Testing and Materials is in the public interest, it shall incorporate the revision into the standard referred to in subsection (a) as modified by subsection (b) after providing notice and an opportunity for comment. If at any time the Commission finds that the standard referred to in subsection (a) as modified by subsection (b) is inadequate for the protection of the public interest, it shall promulgate an amendment to the standard which will adequately protect the public interest. Such final standard shall be promulgated pursuant to [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), except that the Commission shall give interested persons an opportunity for the oral presentation of data, views, or arguments, in addition to an opportunity to make written submissions. A transcript shall be kept of any oral presentation.
 
 **(d) Guidelines for determining chronically hazardous art materials; issuance; public hearing; scope of criteria; review; amendment**
 
@@ -919,7 +919,7 @@ Pub. L. 100–695 enacted section 23 of Pub. L. 86–613, classified to this sec
 
 **(d) General labeling requirements**
 
-(1) **In general** — Except as provided in paragraphs (2) and (3), any cautionary statement required under subsection (a) or (b) of this section shall be—
+(1) **In general** — Except as provided in paragraphs (2) and (3), any cautionary statement required under subsection (a) or (b) shall be—
 
   (A) displayed in its entirety on the principal display panel of the product’s package, and on any descriptive material which accompanies the product, and, in the case of bulk sales of such product when unpackaged, on the bin, container for retail display of the product, and any vending machine from which the unpackaged product is dispensed, and
 
@@ -929,17 +929,17 @@ Pub. L. 100–695 enacted section 23 of Pub. L. 86–613, classified to this sec
 
 (3) **Special rules for certain packages**
 
-  (A) A cautionary statement required by subsection (a) or (b) of this section may, in lieu of display on the principal display panel of the product’s package, be displayed on another panel of the package if—
+  (A) A cautionary statement required by subsection (a) or (b) may, in lieu of display on the principal display panel of the product’s package, be displayed on another panel of the package if—
 
     (i) the package has a principal display panel of 15 square inches or less and the required statement is displayed in three or more languages; and
 
-    (ii) the statement specified in subparagraph (B) is displayed on the principal display panel and is accompanied by an arrow or other indicator pointing toward the place on the package where the statement required by subsection (a) or (b) of this section appears.
+    (ii) the statement specified in subparagraph (B) is displayed on the principal display panel and is accompanied by an arrow or other indicator pointing toward the place on the package where the statement required by subsection (a) or (b) appears.
 
   (B)
 
-    (i) In the case of a product to which subsection (a) of this section, subsection (b)(2)(B) of this section, subsection (b)(2)(C) of this section, or subsection (b)(2)(D) of this section applies, the statement specified by this subparagraph is as follows:
+    (i) In the case of a product to which subsection (a), subsection (b)(2)(B), subsection (b)(2)(C), or subsection (b)(2)(D) applies, the statement specified by this subparagraph is as follows:
 
-    (ii) In the case of a product to which subsection (b)(2)(A) of this section applies, the statement specified by this subparagraph is as follows:
+    (ii) In the case of a product to which subsection (b)(2)(A) applies, the statement specified by this subparagraph is as follows:
 
 **(e) Treatment as misbranded hazardous substance** A balloon, ball, marble, toy, or game, that is not in compliance with the requirements of this subsection 11 So in original. Probably should be “this section”. shall be considered a misbranded hazardous substance under [section 1261(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1261/p&num=0&edition=prelim).
 

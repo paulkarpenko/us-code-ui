@@ -2,7 +2,7 @@
 title: 42
 chapter: '112'
 heading: VICTIM COMPENSATION AND ASSISTANCE
-section_count: 13
+section_count: 15
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -10,7 +10,7 @@ source: >-
 ## § 10601. Crime Victims Fund
 **(a) Establishment** There is created in the Treasury a separate account to be known as the Crime Victims Fund (hereinafter in this chapter referred to as the “Fund”).
 
-**(b) Fines deposited in Fund; penalties; forfeited appearance bonds** Except as limited by subsection (c) of this section, there shall be deposited in the Fund—
+**(b) Fines deposited in Fund; penalties; forfeited appearance bonds** Except as limited by subsection (c), there shall be deposited in the Fund—
 
 (1) all fines that are collected from persons convicted of offenses against the United States except—
 
@@ -42,7 +42,7 @@ source: >-
 
   (B) is conditioned upon or would require the expenditure of appropriated funds that are not available to the Office for Victims of Crime.
 
-**(c) Retention of sums in Fund; availability for expenditure without fiscal year limitation** Sums deposited in the Fund shall remain in the Fund and be available for expenditure under this chapter for grants under this chapter without fiscal year limitation. Notwithstanding subsection (d)(5) of this section, all sums deposited in the Fund in any fiscal year that are not made available for obligation by Congress in the subsequent fiscal year shall remain in the Fund for obligation in future fiscal years, without fiscal year limitation.
+**(c) Retention of sums in Fund; availability for expenditure without fiscal year limitation** Sums deposited in the Fund shall remain in the Fund and be available for expenditure under this chapter for grants under this chapter without fiscal year limitation. Notwithstanding subsection (d)(5), all sums deposited in the Fund in any fiscal year that are not made available for obligation by Congress in the subsequent fiscal year shall remain in the Fund for obligation in future fiscal years, without fiscal year limitation.
 
 **(d) Availability for judicial branch administrative costs; grant program percentages** The Fund shall be available as follows:
 
@@ -62,7 +62,7 @@ source: >-
 
   (A) Of the sums remaining in the Fund in any particular fiscal year after compliance with paragraph (2), such sums as may be necessary shall be available only for—
 
-    (i) the United States Attorneys Offices and the Federal Bureau of Investigation to provide and improve services for the benefit of crime victims in the Federal criminal justice system (as described in [section 3771 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3771&num=0&edition=prelim) and [section 10607 of this title](./chapter-112-victim-compensation-and-assistance.md#section-10607)) through victim coordinators, victims’ specialists, and advocates, including for the administrative support of victim coordinators and advocates providing such services; and
+    (i) the United States Attorneys Offices and the Federal Bureau of Investigation to provide and improve services for the benefit of crime victims in the Federal criminal justice system (as described in section 3771 or section 3772, as it relates to direct services, of title 18 and [section 10607 of this title](./chapter-112-victim-compensation-and-assistance.md#section-10607)) through victim coordinators, victims’ specialists, and advocates, including for the administrative support of victim coordinators and advocates providing such services; and
 
     (ii) a Victim Notification System.
 
@@ -82,9 +82,9 @@ source: >-
 
   (B) The antiterrorism emergency reserve referred to in subparagraph (A) may be used for supplemental grants under [section 10603b of this title](./chapter-112-victim-compensation-and-assistance.md#section-10603b) and to provide compensation to victims of international terrorism under [section 10603c of this title](./chapter-112-victim-compensation-and-assistance.md#section-10603c).
 
-  (C) Amounts in the antiterrorism emergency reserve established pursuant to subparagraph (A) may be carried over from fiscal year to fiscal year. Notwithstanding subsection (c) of this section and section 619 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 (and any similar limitation on Fund obligations in any future Act, unless the same should expressly refer to this section), any such amounts carried over shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund.
+  (C) Amounts in the antiterrorism emergency reserve established pursuant to subparagraph (A) may be carried over from fiscal year to fiscal year. Notwithstanding subsection (c) and section 619 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 (and any similar limitation on Fund obligations in any future Act, unless the same should expressly refer to this section), any such amounts carried over shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund.
 
-**(e) Amounts awarded and unspent** Any amount awarded as part of a grant under this chapter that remains unspent at the end of a fiscal year in which the grant is made may be expended for the purpose for which the grant is made at any time during the 3 succeeding fiscal years, at the end of which period, any remaining unobligated sums shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) of this section at the discretion of the Director. Any remaining unobligated sums shall be returned to the Fund.
+**(e) Amounts awarded and unspent** Any amount awarded as part of a grant under this chapter that remains unspent at the end of a fiscal year in which the grant is made may be expended for the purpose for which the grant is made at any time during the 3 succeeding fiscal years, at the end of which period, any remaining unobligated sums shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) at the discretion of the Director. Any remaining unobligated sums shall be returned to the Fund.
 
 **(f) “Offenses against the United States” as excluding** As used in this section, the term “offenses against the United States” does not include—
 
@@ -96,15 +96,15 @@ source: >-
 
 **(g) Grants for Indian tribes; child abuse cases**
 
-(1) The Attorney General shall use 15 percent of the funds available under subsection (d)(2) of this section to make grants for the purpose of assisting Native American Indian tribes in developing, establishing, and operating programs designed to improve—
+(1) The Attorney General shall use 15 percent of the funds available under subsection (d)(2) to make grants for the purpose of assisting Native American Indian tribes in developing, establishing, and operating programs designed to improve—
 
   (A) the handling of child abuse cases, particularly cases of child sexual abuse, in a manner which limits additional trauma to the child victim; and
 
   (B) the investigation and prosecution of cases of child abuse, particularly child sexual abuse.
 
-(2) The Attorney General may use 5 percent of the funds available under subsection (d)(2) of this section (prior to distribution) for grants to Indian tribes to establish child victim assistance programs, as appropriate.
+(2) The Attorney General may use 5 percent of the funds available under subsection (d)(2) (prior to distribution) for grants to Indian tribes to establish child victim assistance programs, as appropriate.
 
-(3) As used in this subsection, the term “tribe” 22 So in original. Probably should be “ ‘Indian tribe’ ”. has the meaning given that term in section 450b(b) 1 of title 25.
+(3) As used in this subsection, the term “tribe” 22 So in original. Probably should be “ ‘Indian tribe’ ”. has the meaning given that term in section 5304(b) 1 of title 25.
 
 ### Statutory Notes
 
@@ -119,9 +119,11 @@ Section 619 of the Departments of Commerce, Justice, and State, the Judiciary, a
 
 The Uniform Code of Military Justice, referred to in subsec. (f)(1), is classified generally to chapter 47 (§ 801 et seq.) of Title 10, Armed Forces.
 
-[Section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim), referred to in subsec. (g)(3), has been amended, and subsec. (b) of section 450b no longer defines the term “Indian tribe”. However, such term is defined elsewhere in that section.
+[Section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim), referred to in subsec. (g)(3), has been amended, and subsec. (b) of section 5304 no longer defines the term “Indian tribe”. However, such term is defined elsewhere in that section.
 
 #### Amendments
+2016—Subsec. (d)(3)(A)(i). Pub. L. 114–236 inserted “or section 3772, as it relates to direct services,” after “section 3771”.
+
 2015—Subsec. (d)(3)(A)(i). Pub. L. 114–22 inserted “section” before “3771”.
 
 2014—Subsec. (d)(3). Pub. L. 113–163 designated existing provisions as subpar. (A), substituted “available only for—” for “available for the United States Attorneys Offices and the Federal Bureau of Investigation to improve services for the benefit of crime victims in the Federal criminal justice system, and for a Victim Notification System.”, added cls. (i) and (ii) of subpar. (A), and added subpar. (B).
@@ -156,7 +158,7 @@ Subsec. (d)(5). Pub. L. 107–56, § 621(d), amended par. (5) generally. Prior t
 
 “(B) The emergency reserve referred to in subparagraph (A) may be used for supplemental grants under [section 10603b of this title](./chapter-112-victim-compensation-and-assistance.md#section-10603b), to provide compensation to victims of international terrorism under the program under [section 10603c of this title](./chapter-112-victim-compensation-and-assistance.md#section-10603c), and to supplement the funds available to provide grants to States for compensation and assistance in accordance with sections 10602 and 10603 of this title in years in which supplemental grants are needed.”
 
-2000—Subsec. (c). Pub. L. 106–386, § 2003(d), which directed insertion of “Notwithstanding subsection (d)(5) of this section, all sums deposited in the Fund in any fiscal year that are not made available for obligation by Congress in the subsequent fiscal year shall remain in the Fund for obligation in future fiscal years, without fiscal year limitation.” at the end of section 1402(c) of the Victims of Crime Act 1984, was executed by making the insertion at the end of subsec. (c) of this section, which is section 1402 of the Victims of Crime Act of 1984, to reflect the probable intent of Congress.
+2000—Subsec. (c). Pub. L. 106–386, § 2003(d), which directed insertion of “Notwithstanding subsection (d)(5), all sums deposited in the Fund in any fiscal year that are not made available for obligation by Congress in the subsequent fiscal year shall remain in the Fund for obligation in future fiscal years, without fiscal year limitation.” at the end of section 1402(c) of the Victims of Crime Act 1984, was executed by making the insertion at the end of subsec. (c) of this section, which is section 1402 of the Victims of Crime Act of 1984, to reflect the probable intent of Congress.
 
 Subsec. (d)(2). Pub. L. 106–177 designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the first $10,000,000” for “The first $10,000,000”, and added subpar. (B).
 
@@ -166,7 +168,7 @@ Subsec. (d)(5)(A). Pub. L. 106–386, § 2003(b)(1), substituted “$100,000,000
 
 Subsec. (d)(5)(B). Pub. L. 106–386, § 2003(c)(2), inserted “, to provide compensation to victims of international terrorism under the program under [section 10603c of this title](./chapter-112-victim-compensation-and-assistance.md#section-10603c),” after “[section 10603b of this title](./chapter-112-victim-compensation-and-assistance.md#section-10603b)”.
 
-Subsec. (e). Pub. L. 106–386, § 2003(b)(2), substituted “shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) of this section at the discretion of the Director. Any remaining unobligated sums” for “in excess of $500,000 shall be returned to the Treasury. Any remaining unobligated sums in an amount less than $500,000”.
+Subsec. (e). Pub. L. 106–386, § 2003(b)(2), substituted “shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) at the discretion of the Director. Any remaining unobligated sums” for “in excess of $500,000 shall be returned to the Treasury. Any remaining unobligated sums in an amount less than $500,000”.
 
 1999—Subsec. (d)(3) to (5). Pub. L. 106–113 added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (5) which read as follows: “The Director may set aside up to $500,000 of the reserve fund described in paragraph (4) to make supplemental grants to United States Attorneys Offices to provide necessary assistance to victims of the bombing of the Alfred P. Murrah Federal Building in Oklahoma City, to facilitate observation of and/or participation by such victims in trial proceedings arising therefrom, including, without limitation, provision of lodging and travel assistance, and to pay such other, related expenses determined to be necessary by the Director.”
 
@@ -304,9 +306,11 @@ Pub. L. 98–473, title II, § 1401, Oct. 12, 1984, 98 Stat. 2170, provided that
 Pub. L. 107–56, title VI, § 621(e), Oct. 26, 2001, 115 Stat. 371, provided that: “Amounts transferred to the Crime Victims Fund for use in responding to the airplane hijackings and terrorist acts (including any related search, rescue, relief, assistance, or other similar activities) that occurred on September 11, 2001, shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund, notwithstanding— “(1) section 619 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 [section 1(a)(2) [title VI, § 619] of Pub. L. 106–553, formerly set out as a note below], and any similar limitation on Fund obligations in such Act for Fiscal Year 2002 [see Pub. L. 107–77, title VI, § 619, Nov. 28, 2001, 115 Stat. 802, set out as a note below]; and “(2) subsections (c) and (d) of section 1402 of the Victims of Crime Act of 1984 ([42 U.S.C. 10601](./chapter-112-victim-compensation-and-assistance.md#section-10601)).”
 
 #### Limitation on Amounts Available for Obligation
-Pub. L. 113–235, div. B, title V, § 510, Dec. 16, 2014, 128 Stat. 2210, provided that: “Notwithstanding any other provision of law, amounts deposited or available in the Fund established by section 1402 of chapter XIV of title II of Public Law 98–473 ([42 U.S.C. 10601](./chapter-112-victim-compensation-and-assistance.md#section-10601)) in any fiscal year in excess of $2,361,000,000 shall not be available for obligation until the following fiscal year.”
+Pub. L. 114–113, div. B, title V, § 510, Dec. 18, 2015, 129 Stat. 2324, provided that: “Notwithstanding any other provision of law, amounts deposited or available in the Fund established by section 1402 of chapter XIV of title II of Public Law 98–473 ([42 U.S.C. 10601](./chapter-112-victim-compensation-and-assistance.md#section-10601)) in any fiscal year in excess of $3,042,000,000 shall not be available for obligation until the following fiscal year.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. B, title V, § 510, Dec. 16, 2014, 128 Stat. 2210.
 
 Pub. L. 113–76, div. B, title V, § 510, Jan. 17, 2014, 128 Stat. 79.
 
@@ -504,7 +508,7 @@ Pub. L. 104–132, title II, § 234(a)(2), Apr. 24, 1996, 110 Stat. 1245, provid
 
   (B) for the territories of the Northern Mariana Islands, Guam, American Samoa, and the Republic of Palau, $200,000, with the Republic of Palau’s share governed by the Compact of Free Association between the United States and the Republic of Palau.
 
-(6) An agency of the Federal Government performing local law enforcement functions in and on behalf of the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, or any other territory or possession of the United States may qualify as an eligible crime victim assistance program for the purpose of grants under this subsection, or for the purpose of grants under subsection (c)(1) of this section.
+(6) An agency of the Federal Government performing local law enforcement functions in and on behalf of the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, or any other territory or possession of the United States may qualify as an eligible crime victim assistance program for the purpose of grants under this subsection, or for the purpose of grants under subsection (c)(1).
 
 **(b) Eligibility of program; factors; limitation on expending of sums**
 
@@ -526,15 +530,15 @@ Pub. L. 104–132, title II, § 234(a)(2), Apr. 24, 1996, 110 Stat. 1245, provid
 
   (F) does not discriminate against victims because they disagree with the way the State is prosecuting the criminal case.
 
-(2) Except as provided in paragraph (3), an eligible crime victim assistance program shall expend sums received under subsection (a) of this section only for providing services to victims of crime.
+(2) Except as provided in paragraph (3), an eligible crime victim assistance program shall expend sums received under subsection (a) only for providing services to victims of crime.
 
-(3) Not more than 5 percent of sums received under subsection (a) of this section may be used for training purposes and the administration of the State crime victim assistance program receiving such sums.
+(3) Not more than 5 percent of sums received under subsection (a) may be used for training purposes and the administration of the State crime victim assistance program receiving such sums.
 
 **(c) Grants: purposes; distribution; duties of Director; reimbursement by Director**
 
 (1) The Director shall make grants—
 
-  (A) for demonstration projects, program evaluation, compliance efforts, and training and technical assistance services to eligible crime victim assistance programs;
+  (A) for victim services, demonstration projects, program evaluation, compliance efforts, and training and technical assistance services to eligible crime victim assistance programs;
 
   (B) for the financial support of services to victims of Federal crime by eligible crime victim assistance programs; and
 
@@ -604,6 +608,8 @@ Pub. L. 104–132, title II, § 234(a)(2), Apr. 24, 1996, 110 Stat. 1245, provid
 This title, referred to in subsec. (c)(3)(D), means title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1976, known as the Comprehensive Crime Control Act of 1984. For complete classification of title II to the Code, see Short Title of 1984 Amendment note set out under [section 1 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1&num=0&edition=prelim), Crimes and Criminal Procedure, and Tables.
 
 #### Amendments
+2016—Subsec. (c)(1)(A). Pub. L. 114–324 inserted “victim services,” before “demonstration projects”.
+
 2009—Subsec. (c)(3)(E)(i). Pub. L. 111–8 inserted “and for grants under subparagraphs (1)(A) and (B), pursuant to rules or guidelines that generally establish a publicly-announced, competitive process” after “internships”.
 
 2006—Subsec. (b)(3). Pub. L. 109–162, § 1133(b), inserted “training purposes and” after “may be used for”.
@@ -814,6 +820,37 @@ For applicability of amendments by Pub. L. 110–181 to pending cases, see secti
 **(d) False Claims Act** Notwithstanding any other provision of law, amounts collected pursuant to sections 3729 through 3731 of title 31 (commonly known as the “False Claims Act”) may be used for grants under this section, subject to appropriation.
 
 
+<a id="section-10603f"></a>
+## § 10603f. Sexual assault survivors’ notification grants
+**(a) In general** The Attorney General may make grants as provided in [section 10603(c)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10603/c/1/A&num=0&edition=prelim) to States to develop and disseminate to entities described in subsection (c)(1) of this section written notice of applicable rights and policies for sexual assault survivors.
+
+**(b) Notification of rights** Each recipient of a grant awarded under subsection (a) shall make its best effort to ensure that each entity described in subsection (c)(1) provides individuals who identify as a survivor of a sexual assault, and who consent to receiving such information, with written notice of applicable rights and policies regarding—
+
+(1) the right not to be charged fees for or otherwise prevented from pursuing a sexual assault evidence collection kit;
+
+(2) the right to have a sexual assault medical forensic examination regardless of whether the survivor reports to or cooperates with law enforcement;
+
+(3) the availability of a sexual assault advocate;
+
+(4) the availability of protective orders and policies related to their enforcement;
+
+(5) policies regarding the storage, preservation, and disposal of sexual assault evidence collection kits;
+
+(6) the process, if any, to request preservation of sexual assault evidence collection kits or the probative evidence from such kits; and
+
+(7) the availability of victim compensation and restitution.
+
+**(c) Dissemination of written notice** Each recipient of a grant awarded under subsection (a) shall—
+
+(1) provide the written notice described in subsection (b) to medical centers, hospitals, forensic examiners, sexual assault service providers, State and local law enforcement agencies, and any other State agency or department reasonably likely to serve sexual assault survivors; and
+
+(2) make the written notice described in subsection (b) publicly available on the Internet website of the attorney general of the State.
+
+**(d) Provision to promote compliance** The Attorney General may provide such technical assistance and guidance as necessary to help recipients meet the requirements of this section.
+
+**(e) Integration of systems** Any system developed and implemented under this section may be integrated with an existing case management system operated by the recipient of the grant if the system meets the requirements listed in this section.
+
+
 <a id="section-10604"></a>
 ## § 10604. Administrative provisions
 **(a) Authority of Director to establish rules and regulations** The Director may establish such rules, regulations, guidelines, and procedures as are necessary to carry out any function of the Director under this chapter.
@@ -915,15 +952,15 @@ Section, Pub. L. 101–647, title V, § 502, Nov. 29, 1990, 104 Stat. 4820, rela
 
 <a id="section-10607"></a>
 ## § 10607. Services to victims
-**(a) Designation of responsible officials** The head of each department and agency of the United States engaged in the detection, investigation, or prosecution of crime shall designate by names and office titles the persons who will be responsible for identifying the victims of crime and performing the services described in subsection (c) of this section at each stage of a criminal case.
+**(a) Designation of responsible officials** The head of each department and agency of the United States engaged in the detection, investigation, or prosecution of crime shall designate by names and office titles the persons who will be responsible for identifying the victims of crime and performing the services described in subsection (c) at each stage of a criminal case.
 
 **(b) Identification of victims** At the earliest opportunity after the detection of a crime at which it may be done without interfering with an investigation, a responsible official shall—
 
 (1) identify the victim or victims of a crime;
 
-(2) inform the victims of their right to receive, on request, the services described in subsection (c) of this section; and
+(2) inform the victims of their right to receive, on request, the services described in subsection (c); and
 
-(3) inform each victim of the name, title, and business address and telephone number of the responsible official to whom the victim should address a request for each of the services described in subsection (c) of this section.
+(3) inform each victim of the name, title, and business address and telephone number of the responsible official to whom the victim should address a request for each of the services described in subsection (c).
 
 **(c) Description of services**
 
@@ -971,11 +1008,11 @@ Section, Pub. L. 101–647, title V, § 502, Nov. 29, 1990, 104 Stat. 4820, rela
 
 (8) A responsible official shall provide the victim with general information regarding the corrections process, including information about work release, furlough, probation, and eligibility for each.
 
-**(d) No cause of action or defense** This section does not create a cause of action or defense in favor of any person arising out of the failure of a responsible person to provide information as required by subsection (b) or (c) of this section.
+**(d) No cause of action or defense** This section does not create a cause of action or defense in favor of any person arising out of the failure of a responsible person to provide information as required by subsection (b) or (c).
 
 **(e) Definitions** For the purposes of this section—
 
-(1) the term “responsible official” means a person designated pursuant to subsection (a) of this section to perform the functions of a responsible official under that section; and
+(1) the term “responsible official” means a person designated pursuant to subsection (a) to perform the functions of a responsible official under that section; and
 
 (2) the term “victim” means a person that has suffered direct physical, emotional, or pecuniary harm as a result of the commission of a crime, including—
 
@@ -1026,13 +1063,13 @@ the trial court shall order closed circuit televising of the proceedings to that
 
 **(c) Restrictions**
 
-(1) The signal transmitted pursuant to subsection (a) of this section shall be under the control of the court at all times and shall only be transmitted subject to the terms and conditions imposed by the court.
+(1) The signal transmitted pursuant to subsection (a) shall be under the control of the court at all times and shall only be transmitted subject to the terms and conditions imposed by the court.
 
-(2) No public broadcast or dissemination shall be made of the signal transmitted pursuant to subsection (a) of this section. In the event any tapes are produced in carrying out subsection (a) of this section, such tapes shall be the property of the court and kept under seal.
+(2) No public broadcast or dissemination shall be made of the signal transmitted pursuant to subsection (a). In the event any tapes are produced in carrying out subsection (a), such tapes shall be the property of the court and kept under seal.
 
 (3) Any violations of this subsection, or any rule or order made pursuant to this section, shall be punishable as contempt of court as described in [section 402 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section402&num=0&edition=prelim).
 
-**(d) Donations** The Administrative Office of the United States Courts may accept donations to enable the courts to carry out subsection (a) of this section.
+**(d) Donations** The Administrative Office of the United States Courts may accept donations to enable the courts to carry out subsection (a).
 
 **(e) Construction**
 
@@ -1055,3 +1092,246 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (a), are set out
 
 #### Codification
 This section was enacted as part of the Justice for Victims of Terrorism Act of 1996, and also as part of the Antiterrorism and Effective Death Penalty Act of 1996, and not as part of the Victims of Crime Act of 1984 which comprises this chapter.
+
+
+<a id="section-10609"></a>
+## § 10609. Justice for United States victims of state sponsored terrorism
+**(a) Short title** This section may be cited as the “Justice for United States Victims of State Sponsored Terrorism Act”.
+
+**(b) Administration of the United States Victims of State Sponsored Terrorism Fund**
+
+(1) **Administration of the Fund**
+
+  (A) *Appointment and terms of Special Master*
+
+    (i) *Initial appointment* — Not later than 60 days after December 18, 2015, the Attorney General shall appoint a Special Master. The initial term for the Special Master shall be 18 months.
+
+    (ii) *Additional terms* — Thereafter, each time there exists funds in excess of $100,000,000 in the Fund, the Attorney General shall appoint or reappoint a Special Master for such period as is appropriate, not to exceed 1 year. In addition, if there exists in the Fund funds that are less than $100,000,000, the Attorney General may appoint or reappoint a Special Master each time the Attorney General determines there are sufficient funds available in the Fund to compensate eligible claimants, for such period as is appropriate, not to exceed 1 year.
+
+    (iii) *Special Master to administer compensation from the Fund* — The Special Master shall administer the compensation program described in this section for United States persons who are victims of state sponsored terrorism.
+
+  (B) *Administrative costs and use of Department of Justice personnel* — The Special Master may utilize, as necessary, no more than 5 full-time equivalent Department of Justice personnel to assist in carrying out the duties of the Special Master under this section. Any costs associated with the use of such personnel, and any other administrative costs of carrying out this section, shall be paid from the Fund.
+
+  (C) *Compensation of Special Master* — The Special Master shall be compensated from the Fund at a rate not to exceed the annual rate of basic pay for level IV of the Executive Schedule, as prescribed by [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim).
+
+(2) **Publication of regulations and procedures**
+
+  (A) *In general* — Not later than 60 days after the date of the initial appointment of the Special Master, the Special Master shall publish in the Federal Register and on a website maintained by the Department of Justice a notice specifying the procedures necessary for United States persons to apply and establish eligibility for payment, including procedures by which eligible United States persons may apply by and through their attorney. Such notice is not subject to the requirements of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim).
+
+  (B) *Information regarding other sources of compensation* — As part of the procedures for United States persons to apply and establish eligibility for payment, the Special Master shall require applicants to provide the Special Master with information regarding compensation from any source other than this Fund that the claimant (or, in the case of a personal representative, the victim’s beneficiaries) has received or is entitled or scheduled to receive as a result of the act of international terrorism that gave rise to a claimant’s final judgment, including information identifying the amount, nature, and source of such compensation.
+
+(3) **Decisions of the Special Master** — All decisions made by the Special Master with regard to compensation from the Fund shall be—
+
+  (A) in writing and provided to the Attorney General, each claimant and, if applicable, the attorney for each claimant; and
+
+  (B) final and, except as provided in paragraph (4), not subject to administrative or judicial review.
+
+(4) **Review hearing**
+
+  (A) Not later than 30 days after receipt of a written decision by the Special Master, a claimant whose claim is denied in whole or in part by the Special Master may request a hearing before the Special Master pursuant to procedures established by the Special Master.
+
+  (B) Not later than 90 days after any such hearing, the Special Master shall issue a final written decision affirming or amending the original decision. The written decision is final and nonreviewable.
+
+**(c) Eligible claims**
+
+(1) **In general** — For the purposes of this section, a claim is an eligible claim if the Special Master determines that—
+
+  (A) the judgment holder, or claimant, is a United States person;
+
+  (B) the claim is described in paragraph (2); and
+
+  (C) the requirements of paragraph (3) are met.
+
+(2) **Certain claims** — The claims referred to in paragraph (1) are claims for—
+
+  (A) compensatory damages awarded to a United States person in a final judgment—
+
+    (i) issued by a United States district court under State or Federal law against a state sponsor of terrorism; and
+
+    (ii) arising from acts of international terrorism, for which the foreign state was determined not to be immune from the jurisdiction of the courts of the United States under section 1605A, or section 1605(a)(7) (as such section was in effect on January 27, 2008), of title 28;
+
+  (B) the sum total of $10,000 per day for each day that a United States person was taken and held hostage from the United States embassy in Tehran, Iran, during the period beginning November 4, 1979, and ending January 20, 1981, if such person is identified as a member of the proposed class in case number 1:00-CV-03110 (EGS) of the United States District Court for the District of Columbia; or
+
+  (C) damages for the spouses and children of the former hostages described in subparagraph (B), if such spouse or child is identified as a member of the proposed class in case number 1:00-CV-03110 (EGS) of the United States Court for the District of Columbia, in the following amounts:
+
+    (i) For each spouse of a former hostage identified as a member of the proposed class described in this subparagraph, a $600,000 lump sum.
+
+    (ii) For each child of a former hostage identified as a member of the proposed class described in this subparagraph, a $600,000 lump sum.
+
+(3) **Deadline for application submission**
+
+  (A) *In general* — The deadline for submitting an application for a payment under this subsection is as follows:
+
+    (i) Not later than 90 days after the date of the publication required under subsection (b)(2)(A), with regard to an application based on—
+
+      (I) a final judgment described in paragraph (2)(A) obtained before that date of publication; or
+
+      (II) a claim described in paragraph (2)(B) or (2)(C).
+
+    (ii) Not later than 90 days after the date of obtaining a final judgment, with regard to a final judgment obtained on or after the date of that publication.
+
+  (B) *Good cause* — For good cause shown, the Special Master may grant a claimant a reasonable extension of a deadline under this paragraph.
+
+**(d) Payments**
+
+(1) **To whom made** — The Special Master shall order payment from the Fund for each eligible claim of a United States person to that person or, if that person is deceased, to the personal representative of the estate of that person.
+
+(2) **Timing of initial payments** — The Special Master shall authorize all initial payments to satisfy eligible claims under this section not later than 1 year after December 18, 2015.
+
+(3) **Payments to be made pro rata**
+
+  (A) *In general*
+
+    (i) *Pro rata basis* — Except as provided in subparagraph (B) and subject to the limitations described in clause (ii), the Special Master shall carry out paragraph (1), by dividing all available funds on a pro rata basis, based on the amounts outstanding and unpaid on eligible claims, until all such amounts have been paid in full.
+
+    (ii) *Limitations* — The limitations described in this clause are as follows:
+
+      (I) In the event that a United States person has an eligible claim that exceeds $20,000,000, the Special Master shall treat that claim as if it were for $20,000,000 for purposes of this section.
+
+      (II) In the event that a United States person and the immediate family members of such person, have claims that if aggregated would exceed $35,000,000, the Special Master shall, for purposes of this section, reduce such claims on a pro rata basis such that in the aggregate such claims do not exceed $35,000,000.
+
+      (III) In the event that a United States person, or the immediate family member of such person, has an eligible claim under this section and has received an award or an award determination under section 405 of the Air Transportation Safety and System Stabilization Act ([49 U.S.C. 40101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim) note), the amount of compensation to which such person, or the immediate family member of such person, was determined to be entitled under section 405 of the Air Transportation Safety and System Stabilization Act ([49 U.S.C. 40101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim) note) shall be considered controlling for the purposes of this section, notwithstanding any compensatory damages amounts such person, or immediate family member of such person, is deemed eligible for or entitled to pursuant to a final judgment described in subsection (c)(2)(A).
+
+  (B) *Minimum payments*
+
+    (i) Any applicant with an eligible claim described in subsection (c)(2) who has received, or is entitled or scheduled to receive, any payment that is equal to, or in excess of, 30 percent of the total compensatory damages owed to such applicant on the applicant’s claim from any source other than this Fund shall not receive any payment from the Fund until such time as all other eligible applicants have received from the Fund an amount equal to 30 percent of the compensatory damages awarded to those applicants pursuant to their final judgments or to claims under subsection (c)(2)(B) or (c)(2)(C). For purposes of calculating the pro rata amounts for these payments, the Special Master shall not include the total compensatory damages for applicants excluded from payment by this subparagraph.
+
+    (ii) To the extent that an applicant with an eligible claim has received less than 30 percent of the compensatory damages owed that applicant under a final judgment or claim described in subsection (c)(2) from any source other than this Fund, such applicant may apply to the Special Master for the difference between the percentage of compensatory damages the applicant has received from other sources and the percentage of compensatory damages to be awarded other eligible applicants from the Fund.
+
+(4) **Additional payments** — On January 1 of the second calendar year that begins after the date of the initial payments described in paragraph (1) if funds are available in the Fund, the Special Master shall authorize additional payments on a pro rata basis to those claimants with eligible claims under subsection (c)(2) and shall authorize additional payments for eligible claims annually thereafter if funds are available in the Fund.
+
+(5) **Subrogation and retention of rights**
+
+  (A) *United States subrogated to creditor rights to the extent of payment* — The United States shall be subrogated to the rights of any person who applies for and receives payments under this section, but only to the extent and in the amount of such payments made under this section. The President shall pursue these subrogated rights as claims or offsets of the United States in appropriate ways, including any negotiation process that precedes the normalization of relations between the foreign state designated as a state sponsor of terrorism and the United States or the lifting of sanctions against such foreign state.
+
+  (B) *Rights retained* — To the extent amounts of damages remain unpaid and outstanding following any payments made under this subsection, each applicant shall retain that applicant’s creditor rights in any unpaid and outstanding amounts of the judgment, including any prejudgment or post-judgment interest, or punitive damages, awarded by the United States district court pursuant to a judgment.
+
+**(e) United States Victims of State Sponsored Terrorism Fund**
+
+(1) **Establishment of United States Victims of State Sponsored Terrorism Fund** — There is established in the Treasury a fund, to be designated as the United States Victims of State Sponsored Terrorism Fund.
+
+(2) **Deposit and transfer** — Beginning on December 18, 2015, the following shall be deposited or transferred into the Fund for distribution under this section:
+
+  (A) *Forfeited funds and property*
+
+    (i) *Criminal funds and property* — All funds, and the net proceeds from the sale of property, forfeited or paid to the United States after December 18, 2015, as a criminal penalty or fine arising from a violation of any license, order, regulation, or prohibition issued under the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.) or the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.),11 See References in Text note below. or any related criminal conspiracy, scheme, or other Federal offense arising from the actions of, or doing business with or acting on behalf of, a state sponsor of terrorism.
+
+    (ii) *Civil funds and property* — One-half of all funds, and one-half of the net proceeds from the sale of property, forfeited or paid to the United States after December 18, 2015, as a civil penalty or fine arising from a violation of any license, order, regulation, or prohibition issued under the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.) or the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.) [now [50 U.S.C. 4301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4301&num=0&edition=prelim) et seq.], or any related conspiracy, scheme, or other Federal offense arising from the actions of, or doing business with or acting on behalf of, a state sponsor of terrorism.
+
+  (B) *Transfer into Fund of certain assigned assets of Iran and election to participate in Fund*
+
+    (i) *Deposit into Fund of assigned proceeds from sale of properties and related assets identified in In Re 650 Fifth Avenue & Related Properties*
+
+      (I) *In general* — Except as provided in subclause (II), if the United States receives a final judgment forfeiting the properties and related assets identified in the proceedings captioned as In Re 650 Fifth Avenue & Related Properties, No. 08 Civ. 10934 (S.D.N.Y. filed Dec. 17, 2008), the net proceeds (not including the litigation expenses and sales costs incurred by the United States) resulting from the sale of such properties and related assets by the United States shall be deposited into the Fund.
+
+      (II) *Limitation* — The following proceeds resulting from any sale of the properties and related assets identified in subclause (I) shall not be transferred into the Fund:
+
+        (aa) The percentage of proceeds attributable to any party identified as a Settling Judgment Creditor in the order dated April 16, 2014, in such proceedings, who does not make an election (described in clause (iii)) to participate in the Fund.
+
+        (bb) The percentage of proceeds attributable to the parties identified as the Hegna Judgment Creditors in such proceedings, unless and until a final judgment is entered denying the claims of such creditors.
+
+    (ii) *Deposit into Fund of assigned assets identified in Peterson v. Islamic Republic of Iran* — If a final judgment is entered in Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y.), awarding the assets at issue in that case to the judgment creditors identified in the order dated July 9, 2013, those assets shall be deposited into the Fund, but only to the extent, and in such percentage, that the rights, title, and interest to such assets were assigned through elections made pursuant to clause (iii).
+
+    (iii) *Election to participate in the Fund* — Upon written notice to the Attorney General, the Special Master, and the chief judge of the United States District Court for the Southern District of New York within 60 days after the date of the publication required under subsection (b)(2)(A) a United States person, who is a judgment creditor in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y.), or a Settling Judgment Creditor as identified in the order dated May 27, 2014, in the proceedings captioned In Re 650 Fifth Avenue & Related Properties, No. 08 Civ. 10934 (S.D.N.Y. filed Dec. 17, 2008), shall have the right to elect to participate in the Fund and, to the extent any such person exercises such right, shall irrevocably assign to the Fund all rights, title, and interest to such person’s claims to the assets at issue in such proceedings. To the extent that a United States person is both a judgment creditor in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y.) and a Settling Judgment Creditor in In Re 650 Fifth Avenue & Related Properties, No. 08 Civ. 10934 (S.D.N.Y. filed Dec. 17, 2008), any election by such person to participate in the Fund pursuant to this paragraph shall operate as an election to assign any and all rights, title, and interest in the assets in both actions for the purposes of participating in the Fund. The Attorney General is authorized to pursue any such assigned rights, title, and interest in those claims for the benefit of the Fund.
+
+    (iv) *Application for conditional payment* — A United States person who is a judgment creditor or a Settling Judgment Creditor in the proceedings identified in clause (iii) and who does not elect to participate in the Fund may, notwithstanding such failure to elect, submit an application for conditional payment from the Fund, subject to the following limitations:
+
+      (I) *In general* — Notwithstanding any such claimant’s eligibility for payment and the initial deadline for initial payments set forth in subsection (d)(2), the Special Master shall allocate but withhold payment to an eligible claimant who applies for a conditional payment under this paragraph until such time as an adverse final judgment is entered in both of the proceedings identified in clause (iii).
+
+      (II) *Exception*
+
+        (aa) In the event that an adverse final judgment is entered in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y), prior to a final judgment being entered in the proceedings captioned In Re 650 Fifth Avenue & Related Properties, No. 08 Civ. 10934 (S.D.N.Y. filed Dec. 17, 2008), the Special Master shall release a portion of an eligible claimant’s conditional payment to such eligible claimant if the Special Master anticipates that such claimant will receive less than the amount of the conditional payment from any proceeds from a final judgment that is entered in favor of the plaintiffs in In Re 650 Fifth Avenue & Related Properties. Such portion shall not exceed the difference between the amount of the conditional payment and the amount the Special Master anticipates such claimant will receive from the proceeds of In Re 650 Fifth Avenue & Related Properties.
+
+        (bb) In the event that a final judgment is entered in favor of the plaintiffs in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y) and funds are distributed, the payments allocated to claimants who applied for a conditional payment under this subparagraph shall be considered void, and any funds previously allocated to such conditional payments shall be made available and distributed to all other eligible claimants pursuant to subsection (d).
+
+(3) **Expenditures from Fund** — Amounts in the Fund shall be available, without further appropriation, for the payment of eligible claims and compensation of the Special Master in accordance with this section.
+
+(4) **Management of Fund** — The Fund shall be managed and invested in the same manner as a trust fund is managed and invested under [section 9602 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9602&num=0&edition=prelim).
+
+(5) **Funding** — There is appropriated to the Fund, out of any money in the Treasury not otherwise appropriated, $1,025,000,000 for fiscal year 2017, to remain available until expended.
+
+(6) **Termination**
+
+  (A) *In general* — Amounts in the Fund may not be obligated on or after January 2, 2026.
+
+  (B) *Closing of Fund* — Effective on the day after all amounts authorized to be paid from the Fund under this section that were obligated before January 2, 2026 are expended, any unobligated balances in the Fund shall be transferred, as appropriate, to either the Department of the Treasury Forfeiture Fund established under [section 9705 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9705&num=0&edition=prelim) or to the Department of Justice Assets Forfeiture Fund established under [section 524(c)(1) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section524/c/1&num=0&edition=prelim).
+
+**(f) Attorneys’ fees and costs**
+
+(1) **In general** — No attorney shall charge, receive, or collect, and the Special Master shall not approve, any payment of fees and costs that in the aggregate exceeds 25 percent of any payment made under this section.
+
+(2) **Penalty** — Any attorney who violates paragraph (1) shall be fined under title 18, imprisoned for not more than 1 year, or both.
+
+**(g) Award of compensation to informers**
+
+(1) **In general** — Any United States person who holds a final judgment described in subsection (c)(2)(A) or a claim under subsection (c)(2)(B) or (c)(2)(C) and who meets the requirements set forth in paragraph (2) is entitled to receive an award of 10 percent of the funds deposited in the Fund under subsection (e)(2) attributable to information such person furnished to the Attorney General that leads to a forfeiture described in subsection (e)(2)(A), which is made after December 18, 2015, pursuant to a proceeding resulting in forfeiture that was initiated after December 18, 2015.
+
+(2) **Person described** — A person meets the requirements of this paragraph if—
+
+  (A) the person identifies and notifies the Attorney General of funds or property—
+
+    (i) of a state sponsor of terrorism, or held by a third party on behalf of or subject to the control of that state sponsor of terrorism;
+
+    (ii) that were not previously identified or known by the United States Government; and
+
+    (iii) that are subsequently forfeited directly or in the form of substitute assets to the United States; and
+
+  (B) the Attorney General finds that the identification and notification under subparagraph (A) by that person substantially contributed to the forfeiture to the United States.
+
+**(h) Special exclusion from compensation** In no event shall an individual who is criminally culpable for an act of international terrorism receive any compensation under this section, either directly or on behalf of a victim.
+
+**(i) Report to Congress** Within 30 days after authorizing the payment of compensation of eligible claims pursuant to subsection (d), the Special Master shall submit to the chairman and ranking minority member of the Committee on the Judiciary of the House of Representatives and the chairman and ranking minority member of the Committee on the Judiciary of the Senate a report on the payment of eligible claims, which shall include—
+
+(1) an explanation of the procedures for filing and processing of applications for compensation; and
+
+(2) an analysis of the payments made to United States persons from the Fund and the amount of outstanding eligible claims, including—
+
+  (A) the number of applications for compensation submitted;
+
+  (B) the number of applications approved and the amount of each award;
+
+  (C) the number of applications denied and the reasons for the denial;
+
+  (D) the number of applications for compensation that are pending for which compensatory damages have not been paid in full; and
+
+  (E) the total amount of compensatory damages from eligible claims that have been paid and that remain unpaid.
+
+**(j) Definitions** In this section the following definitions apply:
+
+(1) **Act of international terrorism** — The term “act of international terrorism” includes—
+
+  (A) an act of torture, extrajudicial killing, aircraft sabotage, or hostage taking as those terms are defined in [section 1605A(h) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605A/h&num=0&edition=prelim); and
+
+  (B) providing material support or resources, as defined in [section 2339A of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2339A&num=0&edition=prelim), for an act described in subparagraph (A).
+
+(2) **Adverse final judgment** — The term “adverse final judgment” means a final judgment in favor of the defendant, or defendants, in the proceedings identified in subsection (e)(2)(B)(iii), or which does not order any payment from, or award any interest in, the assets at issue in such proceedings to the plaintiffs, judgment creditors, or Settling Judgment Creditors in such proceedings.
+
+(3) **Compensatory damages** — The term “compensatory damages” does not include pre-judgment or post-judgment interest or punitive damages.
+
+(4) **Final judgment** — The term “final judgment” means an enforceable final judgment, decree or order on liability and damages entered by a United States district court that is not subject to further appellate review, but does not include a judgment, decree, or order that has been waived, relinquished, satisfied, espoused by the United States, or subject to a bilateral claims settlement agreement between the United States and a foreign state. In the case of a default judgment, such judgment shall not be considered a final judgment until such time as service of process has been completed pursuant to [section 1608(e) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1608/e&num=0&edition=prelim).
+
+(5) **Fund** — The term “Fund” means the United States Victims of State Sponsored Terrorism Fund established by this section.
+
+(6) **Source other than this Fund** — The term “source other than this Fund” means all collateral sources, including life insurance, pension funds, death benefit programs, payments by Federal, State, or local governments (including payments from the September 11th Victim Compensation Fund ([49 U.S.C. 40101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim) note)), and court awarded compensation related to the act of international terrorism that gave rise to a claimant’s final judgment. The term “entitled or scheduled to receive” in subsection (d)(3)(B)(i) includes any potential recovery where that person or their representative is a party to any civil or administrative action pending in any court or agency of competent jurisdiction in which the party seeks to enforce the judgment giving rise to the application to the Fund.
+
+(7) **State sponsor of terrorism** — The term “state sponsor of terrorism” means a country the government of which the Secretary of State has determined, for purposes of [section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), [section 2371 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371&num=0&edition=prelim), [section 2780 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780&num=0&edition=prelim), or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
+
+(8) **United States person** — The term “United States person” means a natural person who has suffered an injury arising from the actions of a foreign state for which the foreign state has been determined not to be immune from the jurisdiction of the courts of the United States under section 1605A or section 1605(a)(7) (as such section was in effect on January 27, 2008) of title 28 or is eligible to make a claim under subsection (c)(2)(B) or subsection (c)(2)(C).
+
+**(k) Severability** The provisions of this section are severable. If any provision of this section, or any application thereof, is found unconstitutional, that finding shall not affect any provision or application of this section not so adjudicated.
+
+### Statutory Notes
+
+#### References in Text
+[Section 1605(a)(7) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605/a/7&num=0&edition=prelim) (as such section was in effect on January 27, 2008), referred to in subsecs. (c)(2)(A)(ii) and (j)(8), refers to subsec. (a)(7) of [section 1605 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605&num=0&edition=prelim) as it existed prior to being struck out by Pub. L. 110–181, § 1083(b)(1)(A). See 2008 Amendment note under that section.
+
+Section 405 of the Air Transportation Safety and System Stabilization Act, referred to in subsec. (d)(3)(A)(ii)(III), is section 405 of Pub. L. 107–42, which is set out in a note under [section 40101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim), Transportation.
+
+The International Emergency Economic Powers Act, referred to in subsec. (e)(2)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+
+The Trading with the Enemy Act, referred to in subsec. (e)(2)(A), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified generally to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+
+The September 11th Victim Compensation Fund, referred to in subsec. (j)(6), probably means the September 11th Victim Compensation Fund of 2001, title IV of Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 237, which is set out in a note under [section 40101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim), Transportation.
+
+#### Codification
+Section was enacted as part of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act, and also as part of the Consolidated Appropriations Act, 2016, and not as part of the Victims of Crime Act of 1984 which comprises this chapter.

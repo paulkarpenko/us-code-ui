@@ -42,7 +42,7 @@ source: >-
 Provisions similar to those in this section were contained in [section 10321 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10321&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13302"></a>

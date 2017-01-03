@@ -34,7 +34,7 @@ source: >-
 A prior section 11901, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1455; Pub. L. 96–454, § 8(a), Oct. 15, 1980, 94 Stat. 2019; Pub. L. 96–510, title III, § 306(c), Dec. 11, 1980, 94 Stat. 2810; Pub. L. 97–261, § 23, Sept. 20, 1982, 96 Stat. 1124; Pub. L. 98–554, title II, §§ 226(c)(6), 227(a)(1), Oct. 30, 1984, 98 Stat. 2852; Pub. L. 103–180, §§ 6(b), 7(c), Dec. 3, 1993, 107 Stat. 2051, 2052, related to general civil penalties, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See sections 11901, 14901, and 16101 of this title.
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-11902"></a>

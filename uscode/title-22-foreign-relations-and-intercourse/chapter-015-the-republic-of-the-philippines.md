@@ -436,7 +436,7 @@ The Trading With the Enemy Act of October 6, 1917 (40 Stat. 411), as amended, sh
 ### Statutory Notes
 
 #### References in Text
-The Trading With the Enemy Act of October 6, 1917, as amended, referred to in text, is act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act of October 6, 1917, as amended, referred to in text, is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified generally to chapter 53 (§ 4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1950—Act Dec. 21, 1950, required that 90 days after Dec. 21, 1950, all suits against the Philippine Alien Property Administration be brought in United States courts instead of in Philippine courts.
@@ -465,14 +465,11 @@ Ex. Ord. No. 10254, June 15, 1951, 16 F.R. 5829, provided:
 
 3. All personnel, records, files, furniture, funds, authorizations, equipment, and supplies of the Philippine Alien Property Administration are hereby transferred to the Department of Justice.
 
-4. All necessary expenses incurred in the administration or operation of the functions, duties, authority, rights, privileges, and powers hereby vested in or transferred or delegated to the Attorney General shall be paid, to the extent permitted and in the manner prescribed by law, from funds or property or interests vested in or transferred to the Attorney General by or pursuant to the authority contained in this order, so as to prevent diminution of funds otherwise available for the War Claims Fund under section 39 of the Trading with the Enemy Act, as amended by section 12 of the act of July 3, 1948, 62 Stat. 1246 [[section 39 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section39&num=0&edition=prelim), Appendix, War and National Defense].
+4. All necessary expenses incurred in the administration or operation of the functions, duties, authority, rights, privileges, and powers hereby vested in or transferred or delegated to the Attorney General shall be paid, to the extent permitted and in the manner prescribed by law, from funds or property or interests vested in or transferred to the Attorney General by or pursuant to the authority contained in this order, so as to prevent diminution of funds otherwise available for the War Claims Fund under section 39 of the Trading with the Enemy Act, as amended by section 12 of the act of July 3, 1948, 62 Stat. 1246 [[50 U.S.C. 4336](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4336&num=0&edition=prelim)].
 
 This order shall become effective at the close of business in Washington, D.C., on June 29, 1951, and shall at that time supersede all prior Executive orders to the extent that they are in conflict with this order.
 
 Harry S Truman.
-
-#### Transfer of Alien Property Custodian Functions
-Functions of Alien Property Custodian and Office of Alien Property Custodian, except those relating to property or interests in Philippines, vested in Attorney General. See notes set out under [section 6 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section6&num=0&edition=prelim), Appendix, War and National Defense.
 
 
 <a id="section-1383"></a>
@@ -487,21 +484,18 @@ Ex. Ord. No. 9937, Mar. 20, 1948, 13 F.R. 1503 as amended by act June 30, 1949, 
 
 By virtue of the authority vested in me by the Constitution and the statutes, and as President of the United States, it is hereby ordered as follows:
 
-The Commissioner of Public Roads of the Department of Commerce, the Chief of Engineers of the United States Army, the Philippine War Damage Commission, the Surgeon General of the Public Health Service of the Federal Security Agency [now the Department of Health and Human Services], the Maritime Administration, the Director of the Fish and Wildlife Service [now the United States Fish and Wildlife Service] of the Department of the Interior, and the Administrator of Civil Aeronautics, the Chief of the Weather Bureau [now the National Weather Service], and the Director of the Coast and Geodetic Survey [now the National Ocean Survey] of the Department of Commerce are hereby authorized, as to their respective agencies, to exercise the authority vested in the President by section 4 of the Philippine Property Act of 1946 (60 Stat. 419) [this section]: Provided, that this authority shall be exercised only with respect to property located in the Philippines in the possession and control of the respective agencies and utilized in carrying out the provisions of Title III of the Philippine Rehabilitation Act of 1946 (60 Stat. 135) [sections 1781 to 1789 of Title 50, Appendix, War and National Defense].
+The Commissioner of Public Roads of the Department of Commerce, the Chief of Engineers of the United States Army, the Philippine War Damage Commission, the Surgeon General of the Public Health Service of the Federal Security Agency [now the Department of Health and Human Services], the Maritime Administration, the Director of the Fish and Wildlife Service [now the United States Fish and Wildlife Service] of the Department of the Interior, and the Administrator of Civil Aeronautics, the Chief of the Weather Bureau [now the National Weather Service], and the Director of the Coast and Geodetic Survey [now the National Ocean Survey] of the Department of Commerce are hereby authorized, as to their respective agencies, to exercise the authority vested in the President by section 4 of the Philippine Property Act of 1946 (60 Stat. 419) [this section]: Provided, that this authority shall be exercised only with respect to property located in the Philippines in the possession and control of the respective agencies and utilized in carrying out the provisions of Title III of the Philippine Rehabilitation Act of 1946 (60 Stat. 135) [sections 1781 to 1789 of the former Appendix to Title 50, War and National Defense].
 
 
 <a id="section-1384"></a>
 ## § 1384. Transfer of shares of corporations owning agricultural lands; consideration; indemnification
 
-Immediately upon passage of this subchapter the Alien Property Custodian of the United States shall enter into an agreement with the President of the Philippines to transfer to the Philippine Government for a nominal cash consideration all shares now vested or hereafter vested by the Alien Property Custodian of corporations owning in fee, leasing, or otherwise operating or controlling agricultural lands in the Philippines, other agricultural lands in the Philippines, vested or hereafter vested by the Alien Property Custodian not included in the foregoing, and improved property in Manila vested or hereafter vested by the Alien Property Custodian which in his judgment is urgently needed for the operation of an administrative agency of the Philippine Government: Provided, That in respect to property transferred under this section to the Philippine Government, it shall be made a part of the agreement that the Philippine Government shall fully indemnify the United States for all claims payable under the Trading With the Enemy Act, as amended, and for all such costs and expenses of administration as may by law be charged against such property or proceeds thereof.
+Immediately upon passage of this subchapter the Alien Property Custodian of the United States shall enter into an agreement with the President of the Philippines to transfer to the Philippine Government for a nominal cash consideration all shares now vested or hereafter vested by the Alien Property Custodian of corporations owning in fee, leasing, or otherwise operating or controlling agricultural lands in the Philippines, other agricultural lands in the Philippines, vested or hereafter vested by the Alien Property Custodian not included in the foregoing, and improved property in Manila vested or hereafter vested by the Alien Property Custodian which in his judgment is urgently needed for the operation of an administrative agency of the Philippine Government: Provided, That in respect to property transferred under this section to the Philippine Government, it shall be made a part of the agreement that the Philippine Government shall fully indemnify the United States for all claims payable under the Trading With the Enemy Act, as amended [[50 U.S.C. 4301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4301&num=0&edition=prelim) et seq.], and for all such costs and expenses of administration as may by law be charged against such property or proceeds thereof.
 
 ### Statutory Notes
 
 #### References in Text
-The Trading With the Enemy Act, as amended, referred to in text, is act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
-
-#### Transfer of Alien Property Custodian Functions
-Functions of Alien Property Custodian and Office of Alien Property Custodian, except those relating to property or interests in Philippines, vested in Attorney General. See notes set out under [section 6 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section6&num=0&edition=prelim), Appendix, War and National Defense.
+The Trading With the Enemy Act, as amended, referred to in text, is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified generally to chapter 53 (§ 4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-1385"></a>

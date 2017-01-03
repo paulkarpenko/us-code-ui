@@ -64,7 +64,7 @@ The Director shall replicate and implement undergraduate degree programs under t
 
 (5) require that master teachers employed by the institution will supervise field experiences of students in the program;
 
-(6) require that the program complies with State certification or licensing requirements and the requirements under [section 7801(23) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801/23&num=0&edition=prelim) for highly qualified teachers;
+(6) require that the program complies with State certification or licensing requirements and the requirements under section 9101(23) 11 See References in Text note below. of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801(23)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801/23&num=0&edition=prelim)) for highly qualified teachers;
 
 (7) develop during the course of the grant a plan for long-term support and assessment of its graduates, which shall include—
 
@@ -101,6 +101,11 @@ The Director shall replicate and implement undergraduate degree programs under t
 (3) 75 percent of the amount of the grant for the fourth and fifth fiscal years of the grant.
 
 **(g) Guidance** Within 90 days after January 4, 2011, the Director shall initiate a proceeding to promulgate guidance for the administration of the grant program established under subsection (a).
+
+### Statutory Notes
+
+#### References in Text
+Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(6), was amended by Pub. L. 114–95 and, as so amended, is now section 8101 of the Act and no longer relates to highly qualified teachers. A reference in this section to “highly qualified”, as defined in section 9101 of the Act, with respect to a teacher, means that the teacher meets applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification. See section 9214(a)(2) of Pub. L. 114–95, set out as a Use of the Term “Highly Qualified” in Other Laws note under [section 1070g–2 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070g-2).
 
 
 <a id="section-9904"></a>

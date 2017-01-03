@@ -2,7 +2,7 @@
 title: 5
 chapter: '33'
 heading: 'EXAMINATION, SELECTION, AND PLACEMENT'
-section_count: 77
+section_count: 78
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5&num=0&edition=prelim
 ---
@@ -683,6 +683,119 @@ Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impa
 
 Barack Obama.
 
+#### Ex. Ord. No. 13704. Presidential Innovation Fellows Program
+Ex. Ord. No. 13704, Aug. 17, 2015, 80 F.R. 50751, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. It is in the national interest for the Federal Government to attract the brightest minds skilled in technology or innovative practices to serve in the Federal Government to work on some of the Nation’s biggest and most pressing challenges. This order establishes a program to encourage successful entrepreneurs, executives, and innovators to join the Federal Government and work in close cooperation with Federal Government leaders, to create meaningful solutions that can help save lives and taxpayer money, fuel job creation, and significantly improve how the Federal Government serves the American people.
+
+Sec. 2. Establishment and Administration. (a) The Administrator of General Services (Administrator) shall establish the Presidential Innovation Fellows Program (Program) to enable exceptional individuals with proven track records to serve time-limited appointments in executive branch departments and agencies (agencies) to address some of the Nation’s most significant challenges and improve existing Government efforts that would particularly benefit from expertise using innovative techniques and technology. Individuals selected for the Program shall be known as Presidential Innovation Fellows (Fellows).
+
+(b) The Program shall be administered by a Director, appointed by the Administrator under authorities of the General Services Administration (GSA). GSA shall provide necessary staff, resources and administrative support for the Program to the extent permitted by law and within existing appropriations.
+
+(c) GSA shall appoint the Fellows and, in cooperation with agencies, shall facilitate placement of the Fellows to participate in projects that have the potential for significant positive effects and are consistent with the President’s goals.
+
+Sec. 3. Advisory Board. (a) The Administrator shall establish an Advisory Board to advise the Director by recommending such priorities and standards as may be beneficial to fulfill the mission of the Program and assist in identifying potential projects and placements for Fellows. The Advisory Board will not participate in the Fellows’ selection process.
+
+(b) The Administrator will designate a representative to serve as the Chair of the Advisory Board. In addition to the Chair, the membership of the Advisory Board shall include the Deputy Director for Management of the Office of Management and Budget, the Director of the Office of Personnel Management, the Office of Management and Budget’s Administrator of the Office of Electronic Government, and the Assistant to the President and Chief Technology Officer, or their designees and such other persons as may be designated by the Administrator. Consistent with law, the Advisory Board may consult with industry, academia, or non-profits to ensure the Program is continually identifying opportunities to apply advanced skillsets and innovative practices in effective ways to address the Nation’s most significant challenges.
+
+Sec. 4. Application Process. (a) The Director, in accordance with applicable law, shall prescribe the process for applications and nominations of individuals to the Program.
+
+(b) Following publication of these processes, the Director may accept for consideration applications from individuals. The Director shall establish, administer, review, and revise, if appropriate, a Government-wide cap on the number of Fellows.
+
+The Director shall establish and publish salary ranges, benefits, and standards for the Program.
+
+Sec. 5. Selection, Appointment, and Assignment of Fellows. (a) The Director, in accordance with applicable law, shall prescribe appropriate procedures for the selection, appointment, and assignment of Fellows.
+
+(b) Prior to the selection of Fellows, the Director will consult with agencies and executive branch departments, regarding potential projects and how best to meet those needs. Following such consultation, the Director shall select and appoint individuals to serve as Fellows.
+
+(c) The Fellows shall serve under short-term, time-limited appointments. As a general matter, they shall be appointed for no less than 6 months and no longer than 2 years in the Program. The Director shall facilitate the process of placing Fellows at requesting agencies and executive branch departments.
+
+Sec. 6. Responsibilities of Agencies. Each executive branch department or agency, as defined in [section 105 of title 5](./chapter-001-organization.md#section-105), United States Code, is encouraged to work with the Director and Advisory Board to attempt to maximize the Program’s benefits to the department or agency and the Federal Government, including by identifying initiatives that will have a meaningful effect on the people served and that will benefit from involvement by one or more Fellows. Departments and agencies also are encouraged to ensure that each Fellow will work closely with responsible senior officials for the duration of the assignment.
+
+Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to a department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.
+
+#### Ex. Ord. No. 13749. Providing for the Appointment in the Competitive Service of Certain Employees of the Foreign Service
+Ex. Ord. No. 13749, Nov. 29, 2016, 81 F.R. 87391, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
+
+Section 1. Policy. The Federal Government benefits from a workforce that can be recruited from the broadest and deepest pools of qualified candidates for our highly competitive, merit-based positions. The recruitment and retention of workforce participants who serve in the Foreign Service of the Department of State under a Limited Non-Career Appointment under section 309 of the Foreign Service Act of 1980, Public Law 96–465 ([22 U.S.C. 3949](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3949&num=0&edition=prelim)), as amended, are critical to our ability to meet consular staffing levels (now in substantial deficit) and thereby enhance our capacity to meet high national security standards and efficiently process visas in accordance with our policy of “open doors, safe borders.” Program participants undergo a rigorous merit-based evaluation process, which includes a written test and an oral assessment and to which a veteran preference applies, and develop advanced- to superior-level skills in languages and in cultural competence in particular regions, skills that are essential for mission-critical positions throughout the entire Federal workforce.
+
+Executive Order 13597 of January 19, 2012, sought to ensure that 80 percent of nonimmigrant visa applicants be interviewed within three weeks of receiving an application. The Department of State’s ability to maintain this 80 percent benchmark will come under increasing pressure in the future given current and projected staffing shortfalls through 2023. These staffing gaps could adversely affect the Department of State’s ability to sustain border security and immigration control at peak efficiency and effectiveness, which will have effects on tourism, job creation, and U.S. economic growth. Use of the Limited Non-Career Appointment hiring authority will provide flexibility to address, for the foreseeable future, both this increased demand and recurring institutional and national needs across the Federal Government.
+
+Accordingly, pursuant to my authority under [5 U.S.C. 3302(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3302/1&num=0&edition=prelim), and in order to achieve a workforce that represents all segments of society as provided in [5 U.S.C. 2301(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2301/b/1&num=0&edition=prelim), I find that conditions of good administration make necessary an exception to the competitive hiring rules for certain positions in the Federal civil service.
+
+Sec. 2. The head of any agency in the executive branch may appoint in the competitive service an individual who served for at least 48 months of continuous service in the Foreign Service of the Department of State under a Limited Non-Career Appointment under section 309 of the Foreign Service Act of 1980, and who passes such examination as the Office of Personnel Management (OPM) may prescribe.
+
+Sec. 3. In order to be eligible for noncompetitive appointment to positions under section 2 of this order, such an individual must:
+
+(a) have received a satisfactory or better performance rating (or equivalent) for service under the qualifying Limited Non-Career Appointment; and
+
+(b) exercise the eligibility for noncompetitive appointment within a period of 1 year after completion of the qualifying Limited Non-Career Appointment. Such period may be extended to not more than 3 years in the case of persons who, following such service, are engaged in military service, in the pursuit of studies at an institution of higher learning, or in other activities that, in the view of the appointing authority, warrant an extension of such period. Such period may also be extended to permit the adjudication of a background investigation.
+
+Sec. 4. A person appointed under section 2 of this order shall become a career conditional employee.
+
+Sec. 5. Any law, Executive Order, or regulation that would disqualify an applicant for appointment in the competitive service shall also disqualify a person for appointment under section 2 of this order. Examples of disqualifying criteria include restrictions on employing persons who are not U.S. citizens or nationals, who have violated the anti-nepotism provisions of the Civil Service Reform Act [of 1978], [5 U.S.C. 2302(b)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/b/7&num=0&edition=prelim), 3110, who have knowingly and willfully failed to register for Selective Service when required to do so, [5 U.S.C. 3328(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3328/a/2&num=0&edition=prelim), who do not meet occupational qualifying standards prescribed by OPM, or who do not meet suitability factors prescribed by OPM.
+
+Sec. 6. The Office of Personnel Management is authorized to issue such additional regulations as may be necessary to implement this order. Any individual who meets the terms of this order, however, is eligible for noncompetitive eligibility with or without additional regulations.
+
+Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof, or the status of that department or agency within the Federal Government; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.
+
+#### Ex. Ord. No. 13750. Providing for the Appointment of Alumni of the Fulbright U.S. Student Program, the Benjamin A. Gilman International Scholarship Program, and the Critical Language Scholarship Program to the Competitive Service
+Ex. Ord. No. 13750, Nov. 29, 2016, 81 F.R. 87393, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
+
+Section 1. Policy. The Federal Government benefits from a workforce that can be recruited from the broadest and deepest pools of qualified candidates for our highly competitive, merit-based positions. The issuance of an order granting Non-Competitive Eligibility (NCE) to certain alumni of the Fulbright U.S. Student Program, the Benjamin A. Gilman International Scholarship Program, and the Critical Language Scholarship (CLS) Program, all of which are academic exchange programs carried out under the authorities of the Mutual Educational and Cultural Exchange Act of 1961, Public Law 87–256, as amended, also known as the Fulbright-Hays Act, and the International Academic Opportunity Act of 2000, title III of Public Law 106–309, would be in the best interest of the Federal Government. Participants in these programs develop advanced- to superior-level skills in languages and cultural competence in regions that are strategically, diplomatically, and economically important to the United States. It is in the interest of the Federal Government to retain the services of these highly skilled individuals, particularly given that the Federal Government aided them in the acquisition of their skills. Participants in the Fulbright, Gilman, and CLS programs are drawn from highly competitive, merit-based national selection processes to which a veterans’ preference applies to ensure that the most qualified individuals are selected.
+
+Accordingly, pursuant to my authority under [5 U.S.C. 3302(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3302/1&num=0&edition=prelim), and in order to achieve a workforce that is drawn from all segments of society as provided in [5 U.S.C. 2301(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2301/b/1&num=0&edition=prelim), I find that conditions of good administration make necessary an exception to the competitive hiring rules for certain positions in the Federal civil service.
+
+Sec. 2. Establishment. The head of any agency in the executive branch may appoint in the competitive service any person who is certified by the Secretary of State or designee as having participated successfully in the Fulbright, Gilman, or CLS international exchange programs, and who passes such examination as the Office of Personnel Management (OPM) may prescribe.
+
+Sec. 3. The Secretary of State or designee shall issue certificates, upon request, to persons whom the Department of State determines have completed the requirements of a program described in section 1 of this order.
+
+Sec. 4. Any appointment under this order shall be effected within a period of 1 year after completion of the appointee’s participation in the programs described in section 1. Such period may be extended to not more than 3 years for persons who, following participation in the programs described in section 1, are engaged in military service, in the pursuit of studies at an institution of higher learning, or in other activities which, in the view of the appointing authority, warrant an extension of such period. Such period may also be extended to permit the adjudication of a background investigation.
+
+Sec. 5. A person appointed under section 2 of this order becomes a career conditional employee.
+
+Sec. 6. Any law, Executive Order, or regulation that would disqualify an applicant for appointment in the competitive service shall also disqualify an applicant for appointment under this order. Examples of disqualifying criteria include restrictions on employing persons who are not U.S. citizens or nationals, who have violated the anti-nepotism provisions of the Civil Service Reform Act [of 1978], [5 U.S.C. 2302(b)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/b/7&num=0&edition=prelim), 3110, who have knowingly and willfully failed to register for Selective Service when required to do so, [5 U.S.C. 3328(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3328/a/2&num=0&edition=prelim), who do not meet occupational qualifying standards prescribed by OPM, or who do not meet suitability factors prescribed by OPM.
+
+Sec. 7. The Office of Personnel Management is authorized to issue such additional regulations as may be necessary to implement this order. Any individual who meets the terms of this order, however, is eligible for noncompetitive hiring with or without additional regulations.
+
+Sec. 8. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof, or the status of that department or agency within the Federal Government; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.
+
 #### Improving the Federal Recruitment and Hiring Process
 Memorandum of President of the United States, May 11, 2010, 75 F.R. 27157, provided:
 
@@ -1054,6 +1167,9 @@ Pub. L. 104–65, § 17(b), Dec. 19, 1995, 109 Stat. 703, provided that: “The 
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
+#### Direct Hiring for Federal Wage Schedule Employees
+Pub. L. 114–328, div. A, title XI, § 1139, Dec. 23, 2016, 130 Stat. 2470, provided that: “The Director of the Office of Personnel Management shall permit an agency with delegated examining authority under 1104(a)(2) of title 5, United States Code, to use direct-hire authority under section 3304(a)(3) of such title for a permanent or non-permanent position or group of positions in the competitive services at GS–15 (or equivalent) and below, or for prevailing rate employees, if the Director determines that there is either a severe shortage of candidates or a critical hiring need for such positions.”
 
 
 <a id="section-3304a"></a>
@@ -1496,7 +1612,33 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 ## § 3318. Competitive service; selection from certificates
 **(a)** The nominating or appointing authority shall select for appointment to each vacancy from the highest three eligibles available for appointment on the certificate furnished under [section 3317(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3317/a&num=0&edition=prelim), unless objection to one or more of the individuals certified is made to, and sustained by, the Office of Personnel Management for proper and adequate reason under regulations prescribed by the Office.
 
-**(b)**
+**(b) Other Appointing Authorities.—**
+
+(1) **In general.—** — During the 240-day period beginning on the date of issuance of a certificate of eligibles under section 3317(a), an appointing authority other than the appointing authority requesting the certificate (in this subsection referred to as the “other appointing authority”) may select an individual from that certificate in accordance with this subsection for an appointment to a position that is—
+
+  (A) in the same occupational series as the position for which the certification of eligibles was issued (in this subsection referred to as the “original position”); and
+
+  (B) at a similar grade level as the original position.
+
+(2) **Applicability.—** — An appointing authority requesting a certificate of eligibles may share the certificate with another appointing authority only if the announcement of the original position provided notice that the resulting list of eligible candidates may be used by another appointing authority.
+
+(3) **Requirements.—** — The selection of an individual under paragraph (1)—
+
+  (A) shall be made in accordance with subsection (a); and
+
+  (B) subject to paragraph (4), may be made without any additional posting under section 3327.
+
+(4) **Internal notice.—** — Before selecting an individual under paragraph (1), and subject to the requirements of any collective bargaining obligation of the other appointing authority, the other appointing authority shall—
+
+  (A) provide notice of the available position to employees of the other appointing authority;
+
+  (B) provide up to 10 business days for employees of the other appointing authority to apply for the position; and
+
+  (C) review the qualifications of employees submitting an application.
+
+(5) **Collective bargaining obligations.—** — Nothing in this subsection limits any collective bargaining obligation of an agency under chapter 71.
+
+**(c)**
 
 (1) If an appointing authority proposes to pass over a preference eligible on a certificate in order to select an individual who is not a preference eligible, such authority shall file written reasons with the Office for passing over the preference eligible. The Office shall make the reasons presented by the appointing authority part of the record of the preference eligible and may require the submission of more detailed information from the appointing authority in support of the passing over of the preference eligible. The Office shall determine the sufficiency or insufficiency of the reasons submitted by the appointing authority, taking into account any response received from the preference eligible under paragraph (2) of this subsection. When the Office has completed its review of the proposed passover, it shall send its findings to the appointing authority and to the preference eligible. The appointing authority shall comply with the findings of the Office.
 
@@ -1510,7 +1652,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 (4) In the case of a preference eligible described in paragraph (2) of this subsection, the functions of the Office under this subsection may not be delegated.
 
-**(c)** When three or more names of preference eligibles are on a reemployment list appropriate for the position to be filled, a nominating or appointing authority may appoint from a register of eligibles established after examination only an individual who qualifies as a preference eligible under section 2108(3)(C)–(G) of this title.
+**(d)** When three or more names of preference eligibles are on a reemployment list appropriate for the position to be filled, a nominating or appointing authority may appoint from a register of eligibles established after examination only an individual who qualifies as a preference eligible under section 2108(3)(C)–(G) of this title.
 
 ### Statutory Notes
 
@@ -1530,6 +1672,8 @@ In subsection (c), the prohibition in former section 864 is restated in positive
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+2016—Subsecs. (b) to (d). Pub. L. 114–137 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+
 1978—Subsec. (a). Pub. L. 95–454, § 906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
 Subsec. (b). Pub. L. 95–454, § 307(d), designated existing provisions as par. (1), substituted provisions respecting authority of the Office with respect to the selection procedures applicable, for provisions respecting authority of the Commission with respect to the selection procedures applicable, and added pars. (2) to (4).
@@ -1539,6 +1683,9 @@ Subsec. (b). Pub. L. 95–454, § 307(d), designated existing provisions as par.
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
+#### Regulations
+Pub. L. 114–137, § 2(d), Mar. 18, 2016, 130 Stat. 312, provided that: “Not later than 1 year after the date of enactment of this Act [Mar. 18, 2016], the Director of the Office of Personnel Management shall issue an interim final rule with comment to carry out the amendments made by this section [amending this section and sections 3319 and 9510 of this title].”
+
 
 <a id="section-3319"></a>
 ## § 3319. Alternative ranking and selection procedures
@@ -1546,11 +1693,35 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **(b)** Within each quality category established under subsection (a), preference-eligibles shall be listed ahead of individuals who are not preference eligibles. For other than scientific and professional positions at GS–9 of the General Schedule (equivalent or higher), qualified preference-eligibles who have a compensable service-connected disability of 10 percent or more shall be listed in the highest quality category.
 
-**(c)**
+**(c) Selection.—**
 
-(1) An appointing official may select any applicant in the highest quality category or, if fewer than 3 candidates have been assigned to the highest quality category, in a merged category consisting of the highest and the second highest quality categories.
+(1) **In general.—** — An appointing official may select any applicant in the highest quality category or, if fewer than 3 candidates have been assigned to the highest quality category, in a merged category consisting of the highest and the second highest quality categories.
 
-(2) Notwithstanding paragraph (1), the appointing official may not pass over a preference-eligible in the same category from which selection is made, unless the requirements of section 3317(b) or 3318(b), as applicable, are satisfied.
+(2) **Use by other appointing officials.—** — Under regulations prescribed by the Office of Personnel Management, appointing officials other than the appointing official described in paragraph (1) (in this subsection referred to as the “other appointing official”) may select an applicant for an appointment to a position that is—
+
+  (A) in the same occupational series as the position for which the certification of eligibles was issued (in this subsection referred to as the “original position”); and
+
+  (B) at a similar grade level as the original position.
+
+(3) **Applicability.—** — An appointing authority requesting a certificate of eligibles may share the certificate with another appointing authority only if the announcement of the original position provided notice that the resulting list of eligible candidates may be used by another appointing authority.
+
+(4) **Requirements.—** — The selection of an individual under paragraph (2)—
+
+  (A) shall be made in accordance with this subsection; and
+
+  (B) subject to paragraph (5), may be made without any additional posting under section 3327.
+
+(5) **Internal notice.—** — Before selecting an individual under paragraph (2), and subject to the requirements of any collective bargaining obligation of the other appointing authority (within the meaning given that term in section 3318(b)(1)), the other appointing official shall—
+
+  (A) provide notice of the available position to employees of the appointing authority employing the other appointing official;
+
+  (B) provide up to 10 business days for employees of the other appointing authority to apply for the position; and
+
+  (C) review the qualifications of employees submitting an application.
+
+(6) **Collective bargaining obligations.—** — Nothing in this subsection limits any collective bargaining obligation of an agency under chapter 71.
+
+(7) **Preference eligibles.—** — Notwithstanding paragraphs (1) and (2), an appointing official may not pass over a preference eligible in the same category from which selection is made, unless the requirements of section 3317(b) and 3318(c), as applicable, are satisfied.
 
 **(d)** Each agency that establishes a category rating system under this section shall submit in each of the 3 years following that establishment, a report to Congress on that system including information on—
 
@@ -1569,6 +1740,13 @@ The General Schedule, referred to in subsec. (b), is set out under [section 5332
 
 #### Prior Provisions
 A prior section 3319, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 421, related to prohibitions on employment of members of same family in the competitive service, prior to repeal by Pub. L. 95–454, title III, § 307(h)(1), title IX, § 907, Oct. 13, 1978, 92 Stat. 1149, 1227, effective 90 days after Oct. 13, 1978.
+
+#### Amendments
+2016—Subsec. (c). Pub. L. 114–137 added subsec. (c) and struck out former subsec. (c) which read as follows:
+
+“(1) An appointing official may select any applicant in the highest quality category or, if fewer than 3 candidates have been assigned to the highest quality category, in a merged category consisting of the highest and the second highest quality categories.
+
+“(2) Notwithstanding paragraph (1), the appointing official may not pass over a preference-eligible in the same category from which selection is made, unless the requirements of section 3317(b) or 3318(b), as applicable, are satisfied.”
 
 #### Effective Date
 Section effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as a note under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security.
@@ -1612,7 +1790,7 @@ Pub. L. 93–198, title VII, § 734, Dec. 24, 1973, 87 Stat. 823, authorized the
 (2) who does not satisfactorily complete the probationary period under subsection (a)(2) of this section,
 shall be returned to a position of no lower grade and pay than the position from which the individual was transferred, assigned, or promoted. Nothing in this section prohibits an agency from taking an action against an individual serving a probationary period under subsection (a)(2) of this section for cause unrelated to supervisory or managerial performance.
 
-**(c)** Subsections (a) and (b) of this section shall not apply with respect to appointments in the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
+**(c)** Subsections (a) and (b) of this section shall not apply with respect to appointments in the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, or any individual covered by [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -1626,6 +1804,8 @@ The authority of the President to prescribe rules is added on authority of forme
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+2015—Subsec. (c). Pub. L. 114–92 inserted “, or any individual covered by [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim)” before period at end.
+
 1988—Subsec. (c). Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
 
 1978—Pub. L. 95–454 substituted “probationary period” for “probation; period of” in section catchline, designated existing provisions as subsec. (a), substituted provisions authorizing the President to take necessary action, for provisions authorizing the President to prescribe rules, and added subsecs. (b) and (c).
@@ -1635,14 +1815,40 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 
 <a id="section-3322"></a>
-## § 3322. Repealed. Pub. L. 95–256, § 5(b)(1), Apr. 6, 1978, 92 Stat. 191]
+## § 3322. Voluntary separation before resolution of personnel investigation
+**(a)** With respect to any employee occupying a position in the competitive service or the excepted service who is the subject of a personnel investigation and resigns from Government employment prior to the resolution of such investigation, the head of the agency from which such employee so resigns shall, if an adverse finding was made with respect to such employee pursuant to such investigation, make a permanent notation in the employee’s official personnel record file. The head shall make such notation not later than 40 days after the date of the resolution of such investigation.
+
+**(b)** Prior to making a permanent notation in an employee’s official personnel record file under subsection (a), the head of the agency shall—
+
+(1) notify the employee in writing within 5 days of the resolution of the investigation and provide such employee a copy of the adverse finding and any supporting documentation;
+
+(2) provide the employee with a reasonable time, but not less than 30 days, to respond in writing and to furnish affidavits and other documentary evidence to show why the adverse finding was unfounded (a summary of which shall be included in any notation made to the employee’s personnel file under subsection (d)); and
+
+(3) provide a written decision and the specific reasons therefore to the employee at the earliest practicable date.
+
+**(c)** An employee is entitled to appeal the decision of the head of the agency to make a permanent notation under subsection (a) to the Merit Systems Protection Board under section 7701.
+
+**(d)**
+
+(1) If an employee files an appeal with the Merit Systems Protection Board pursuant to subsection (c), the agency head shall make a notation in the employee’s official personnel record file indicating that an appeal disputing the notation is pending not later than 2 weeks after the date on which such appeal was filed.
+
+(2) If the head of the agency is the prevailing party on appeal, not later than 2 weeks after the date that the Board issues the appeal decision, the head of the agency shall remove the notation made under paragraph (1) from the employee’s official personnel record file.
+
+(3) If the employee is the prevailing party on appeal, not later than 2 weeks after the date that the Board issues the appeal decision, the head of the agency shall remove the notation made under paragraph (1) and the notation of an adverse finding made under subsection (a) from the employee’s official personnel record file.
+
+**(e)** In this section, the term “personnel investigation” includes—
+
+(1) an investigation by an Inspector General; and
+
+(2) an adverse personnel action as a result of performance, misconduct, or for such cause as will promote the efficiency of the service under chapter 43 or chapter 75.
 
 ### Statutory Notes
 
-Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 422, related to temporary appointments after age 70 in the competitive service.
+#### Prior Provisions
+A prior section 3322, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 422, related to temporary appointments after age 70 in the competitive service, prior to repeal by Pub. L. 95–256, § 5(b)(1), Apr. 6, 1978, 92 Stat. 191.
 
-#### Effective Date of Repeal
-Repeal effective Sept. 30, 1978, see section 5(f) of Pub. L. 95–256, set out as an Effective Date of 1978 Amendment note under [section 633a of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section633a&num=0&edition=prelim), Labor.
+#### Effective Date
+Pub. L. 114–328, div. A, title XI, § 1140(b), Dec. 23, 2016, 130 Stat. 2471, provided that: “The amendment made by subsection (a) [enacting this section] shall apply to any employee described in [section 3322 of title 5](./chapter-033-examination-selection-and-placement.md#section-3322), United States Code, (as added by such subsection) who leaves the service after the date of enactment of this Act [Dec. 23, 2016].”
 
 
 <a id="section-3323"></a>
@@ -1815,11 +2021,9 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **(b)** A retired member of the armed forces may be appointed to a position in the civil service in or under the Department of Defense (including a nonappropriated fund instrumentality under the jurisdiction of the armed forces) during the period of 180 days immediately after his retirement only if—
 
-(1) the proposed appointment is authorized by the Secretary concerned or his designee for the purpose, and, if the position is in the competitive service, after approval by the Office of Personnel Management;
+(1) the proposed appointment is authorized by the Secretary concerned or his designee for the purpose, and, if the position is in the competitive service, after approval by the Office of Personnel Management; or
 
-(2) the minimum rate of basic pay for the position has been increased under [section 5305 of this title](./chapter-053-pay-rates-and-systems.md#section-5305); or
-
-(3) a state of national emergency exists.
+(2) the minimum rate of basic pay for the position has been increased under [section 5305 of this title](./chapter-053-pay-rates-and-systems.md#section-5305).
 
 **(c)** A request by appropriate authority for the authorization, or the authorization and approval, as the case may be, required by subsection (b)(1) of this section shall be accompanied by a statement which shows the actions taken to assure that—
 
@@ -1846,6 +2050,8 @@ In subsection (b), the words “position in the civil service” are substituted
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+2016—Subsec. (b)(3). Pub. L. 114–328 struck out par. (3) which read as follows: “a state of national emergency exists.”
+
 1990—Subsec. (b)(2). Pub. L. 101–509 substituted “5305” for “5303”.
 
 1979—Subsec. (b)(1). Pub. L. 96–54 substituted “Office of Personnel Management” for “Civil Service Commission”.
@@ -1884,7 +2090,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 ## § 3328. Selective Service registration
 **(a)** An individual—
 
-(1) who was born after December 31, 1959, and is or was required to register under section 3 of the Military Selective Service Act (50 U.S.C. App. 453); and
+(1) who was born after December 31, 1959, and is or was required to register under section 3 of the Military Selective Service Act (50 U.S.C. App. 453); 11 See References in Text note below. and
 
 (2) who is not so registered or knowingly and willfully did not so register before the requirement terminated or became inapplicable to the individual,
 shall be ineligible for appointment to a position in an Executive agency.
@@ -1892,6 +2098,9 @@ shall be ineligible for appointment to a position in an Executive agency.
 **(b)** The Office of Personnel Management, in consultation with the Director of the Selective Service System, shall prescribe regulations to carry out this section. Such regulations shall include provisions prescribing procedures for the adjudication of determinations of whether a failure to register was knowing and willful. Such procedures shall require that such a determination may not be made if the individual concerned shows by a preponderance of the evidence that the failure to register was neither knowing nor willful. Such procedures may provide that determinations of eligibility under the requirements of this section shall be adjudicated by the Executive agency making the appointment for which the eligibility is determined.
 
 ### Statutory Notes
+
+#### References in Text
+Section 3 of the Military Selective Service Act, referred to in subsec. (a)(1), was classified to section 453 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 3802 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3802&num=0&edition=prelim).
 
 #### Amendments
 1987—Subsec. (b). Pub. L. 100–180 struck out “within the Office” after “for the adjudication” in second sentence and inserted at end “Such procedures may provide that determinations of eligibility under the requirements of this section shall be adjudicated by the Executive agency making the appointment for which the eligibility is determined.”
@@ -2136,6 +2345,8 @@ Subsec. (f). Pub. L. 104–52, § 4(1)(B), added subsec. (f).
 
 (2) **Single permanent appointment per duty station.—** — A relocating spouse of a member of the Armed Forces may not receive more than 1 permanent appointment under this section for each time the spouse relocates as described in subparagraphs (B) and (C) of subsection (a)(5).
 
+(3) **No time limitation on appointment.—** — A relocating spouse of a member of the Armed Forces remains eligible for noncompetitive appointment under this section for the duration of the spouse’s relocation to the permanent duty station of the member.
+
 **(d) Special Rules Regarding Spouse of a Disabled or Deceased Member of the Armed Forces.—**
 
 (1) **In general.—** — An appointment of an eligible spouse as described in subparagraph (A) or (B) of subsection (a)(6) is not restricted to a geographical area.
@@ -2144,8 +2355,25 @@ Subsec. (f). Pub. L. 104–52, § 4(1)(B), added subsec. (f).
 
 ### Statutory Notes
 
+#### Amendments
+2016—Subsec. (c)(3). Pub. L. 114–328 added par. (3).
+
 #### Regulations
 Pub. L. 112–239, div. A, title V, § 566(b), Jan. 2, 2013, 126 Stat. 1751, provided that: “Not later than 180 after the date of the enactment of this Act [Jan. 2, 2013], the Director of the Office of Personnel Management shall amend section 315.612 of title 5, Code of Federal Regulations (relating to noncompetitive appointment of certain military spouses), in accordance with the amendment made by subsection (a) [enacting this section] and promulgate or amend any other regulations necessary to carry out the amendment made by subsection (a).”
+
+
+<a id="section-3330e"></a>
+## § 3330e. Review of official personnel file of former Federal employees before rehiring
+**(a)** If a former Government employee is a candidate for a position within the competitive service or the excepted service, prior to making any determination with respect to the appointment or reinstatement of such employee to such position, the appointing authority shall review and consider merit-based information relating to such employee’s former period or periods of service such as official personnel actions, employee performance ratings, and disciplinary actions, if any, in such employee’s official personnel record file.
+
+**(b)** In subsection (a), the term “former Government employee” means an individual whose most recent position with the Government prior to becoming a candidate as described under subsection (a) was within the competitive service or the excepted service.
+
+**(c)** The Office of Personnel Management shall prescribe regulations to carry out the purpose of this section. Such regulations may not contain provisions that would increase the time required for agency hiring actions.
+
+### Statutory Notes
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–328, div. A, title XI, § 1136(b), Dec. 23, 2016, 130 Stat. 2460, provided that: “The amendment made by subsection (a) [enacting this section] shall apply to any former Government employee (as described in [section 3330e of title 5](./chapter-033-examination-selection-and-placement.md#section-3330e), United States Code, as added by such subsection) appointed or reinstated on or after the date that is 180 days after the date of enactment of this Act [Dec. 23, 2016].”
 
 
 <a id="section-3331"></a>
@@ -2432,7 +2660,9 @@ George W. Bush.
 Provisions relating to the exercise of Presidential authorities to designate an order of succession for executive agencies and offices are contained in the following:
 
 #### Council on Environmental Quality
-Memorandum of President of the United States, Sept. 18, 2008, 73 F.R. 54487.
+Memorandum of President of the United States, Mar. 13, 2015, 80 F.R. 14289.
+
+Memorandum of President of the United States, Sept. 18, 2008, 73 F.R. 54487, revoked by Memorandum of President of the United States, § 3, Mar. 13, 2015, 80 F.R. 14289.
 
 #### Department of Agriculture
 Ex. Ord. No. 13612, May 21, 2012, 77 F.R. 31153.
@@ -2502,7 +2732,9 @@ Ex. Ord. No. 11487, Oct. 6, 1969, 34 F.R. 15593, as amended by Pub. L. 101–509
 Ex. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929.
 
 #### Department of the Treasury
-Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, as amended by Ex. Ord. No. 13261, § 4(f), Mar. 19, 2002, 67 F.R. 13244.
+Ex. Ord. No. 13735, Aug. 12, 2016, 81 F.R. 54709.
+
+Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, as amended by Ex. Ord. No. 13261, § 4(f), Mar. 19, 2002, 67 F.R. 13244, revoked by Ex. Ord. No. 13735, § 4, Aug. 12, 2016, 81 F.R. 54709.
 
 Ex. Ord. No. 11822, Dec. 10, 1974, 39 F.R. 43275, revoked by Ex. Ord. No. 13246, § 4, Dec. 18, 2001, 66 F.R. 66270.
 
@@ -2510,14 +2742,18 @@ Ex. Ord. No. 11822, Dec. 10, 1974, 39 F.R. 43275, revoked by Ex. Ord. No. 13246,
 Ex. Ord. No. 13485, Jan. 9, 2009, 74 F.R. 2287.
 
 #### Department of Veterans Affairs
-Ex. Ord. No. 13247, Dec. 18, 2001, 66 F.R. 66271, as amended by Ex. Ord. No. 13261, § 4(g), Mar. 19, 2002, 67 F.R. 13244.
+Ex. Ord. No. 13736, Aug. 12, 2016, 81 F.R. 54711.
 
-Memorandum of President of the United States, Feb. 12, 2003, 68 F.R. 10141.
+Ex. Ord. No. 13247, Dec. 18, 2001, 66 F.R. 66271, as amended by Ex. Ord. No. 13261, § 4(g), Mar. 19, 2002, 67 F.R. 13244, revoked by Ex. Ord. No. 13736, § 3(a), (b), Aug. 12, 2016, 81 F.R. 54711.
+
+Memorandum of President of the United States, Feb. 12, 2003, 68 F.R. 10141, revoked by Ex. Ord. No. 13736, § 3(d), Aug. 12, 2016, 81 F.R. 54711.
 
 #### Environmental Protection Agency
-Ex. Ord. No. 13614, May 21, 2012, 77 F.R. 31157.
+Ex. Ord. No. 13737, Aug. 12, 2016, 81 F.R. 54713.
 
-Ex. Ord. No. 13261, Mar. 19, 2002, 67 F.R. 13243, as amended by Ex. Ord. No. 13344, July 7, 2004, 69 F.R. 41747, revoked by Ex. Ord. No. 13614, § 3, May 21, 2012, 77 F.R. 31157.
+Ex. Ord. No. 13614, May 21, 2012, 77 F.R. 31157, revoked by Ex. Ord. No. 13737, § 3, Aug. 12, 2016, 81 F.R. 54714.
+
+Ex. Ord. No. 13261, Mar. 19, 2002, 67 F.R. 13243, as amended by Ex. Ord. No. 13344, July 7, 2004, 69 F.R. 41747, revoked by Ex. Ord. No. 13614, § 3, May 21, 2012, 77 F.R. 31157, amended by Ex. Ord. No. 13736, § 3(b), Aug. 12, 2016, 81 F.R. 54711.
 
 #### Federal Bureau of Investigation
 Memorandum of President of the United States, Feb. 9, 2007, 72 F.R. 7343.
@@ -2526,6 +2762,8 @@ Memorandum of President of the United States, Feb. 9, 2007, 72 F.R. 7343.
 Memorandum of President of the United States, Nov. 26, 2002, 67 F.R. 79513, terminated upon the transfer of the authorities, functions, personnel, and assets of the Federal Emergency Management Agency to the Department of Homeland Security.
 
 #### Federal Mediation and Conciliation Service
+Memorandum of President of the United States, Dec. 23, 2016, 81 F.R. 96333.
+
 Memorandum of President of the United States, Oct. 17, 2014, 79 F.R. 63803.
 
 #### General Services Administration
@@ -2538,7 +2776,15 @@ Memorandum of President of the United States, May 21, 2012, 77 F.R. 31161.
 Memorandum of President of the United States, Jan. 16, 2009, 74 F.R. 4099.
 
 #### National Archives and Records Administration
-Memorandum of President of the United States, May 21, 2012, 77 F.R. 31163.
+Memorandum of President of the United States, Dec. 23, 2016, 81 F.R. 96331.
+
+Memorandum of President of the United States, May 21, 2012, 77 F.R. 31163, revoked by Memorandum of President of the United States, § 3, Dec. 23, 2016, 81 F.R. 96331.
+
+#### National Endowment for the Arts
+Memorandum of President of the United States, Dec. 23, 2016, 81 F.R. 96335.
+
+#### National Endowment for the Humanities
+Memorandum of President of the United States, Aug. 12, 2016, 81 F.R. 54717.
 
 #### Office of Management and Budget
 Ex. Ord. No. 13615, May 21, 2012, 77 F.R. 31159.
@@ -2546,7 +2792,9 @@ Ex. Ord. No. 13615, May 21, 2012, 77 F.R. 31159.
 Ex. Ord. No. 13370, Jan. 13, 2005, 70 F.R. 3137, revoked by Ex. Ord. No. 13615, § 3, May 21, 2012, 77 F.R. 31159.
 
 #### Office of Personnel Management
-Memorandum of President of the United States, May 21, 2012, 77 F.R. 31165.
+Memorandum of President of the United States, Aug. 12, 2016, 81 F.R. 54715.
+
+Memorandum of President of the United States, May 21, 2012, 77 F.R. 31165, revoked by Memorandum of President of the United States, § 3, Aug. 12, 2016, 81 F.R. 54715.
 
 Memorandum of President of the United States, May 5, 2005, 70 F.R. 28773, superseded by Memorandum of President of the United States, May 21, 2012, 77 F.R. 31165.
 
@@ -2578,7 +2826,9 @@ Memorandum of President of the United States, Feb. 1, 2013, 78 F.R. 8953.
 Memorandum of President of the United States, Dec. 9, 2008, 73 F.R. 75533, superseded by Memorandum of President of the United States, § 3, Feb. 1, 2013, 78 F.R. 8953.
 
 #### Social Security Administration
-Memorandum of President of the United States, Oct. 17, 2014, 79 F.R. 63805.
+Memorandum of President of the United States, Dec. 23, 2016, 81 F.R. 96337.
+
+Memorandum of President of the United States, Oct. 17, 2014, 79 F.R. 63805, revoked by Memorandum of President of the United States, § 3, Dec. 23, 2016, 81 F.R. 96337.
 
 Memorandum of President of the United States, Oct. 17, 2008, 73 F.R. 62845, revoked by Memorandum of President of the United States, § 3, Oct. 17, 2014, 79 F.R. 63805.
 
@@ -2995,7 +3245,7 @@ For the purpose of this subchapter—
 #### References in Text
 The Alaska Native Claims Settlement Act, referred to in par. (2)(C), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
-Section 4 of the Indian Self-Determination and Education Assistance Act, referred to in par. (2)(C), is classified to [section 450b of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim), Indians.
+Section 4 of the Indian Self-Determination and Education Assistance Act, referred to in par. (2)(C), is classified to [section 5304 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim), Indians.
 
 #### Amendments
 2006—Par. (3). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
@@ -3091,6 +3341,9 @@ Pub. L. 103–89, § 3(c), Sept. 30, 1993, 107 Stat. 983, provided that: “The 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
+#### Effective Date
+Section effective sixty days after Jan. 5, 1971, see section 404 of Pub. L. 91–648, set out as a note under [section 3371 of this title](./chapter-033-examination-selection-and-placement.md#section-3371).
+
 
 <a id="section-3373"></a>
 ## § 3373. Assignment of employees to State or local governments
@@ -3144,6 +3397,9 @@ Subsec. (c). Pub. L. 95–454, §§ 603(b), 906(a)(2), substituted “Federal ag
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
+#### Effective Date
+Section effective sixty days after Jan. 5, 1971, see section 404 of Pub. L. 91–648, set out as a note under [section 3371 of this title](./chapter-033-examination-selection-and-placement.md#section-3371).
 
 
 <a id="section-3374"></a>
@@ -3203,6 +3459,9 @@ Subsec. (e). Pub. L. 95–454, § 603(b), substituted “a Federal” for “an 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
+#### Effective Date
+Section effective sixty days after Jan. 5, 1971, see section 404 of Pub. L. 91–648, set out as a note under [section 3371 of this title](./chapter-033-examination-selection-and-placement.md#section-3371).
+
 
 <a id="section-3375"></a>
 ## § 3375. Travel expenses
@@ -3251,6 +3510,9 @@ Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see sect
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
+#### Effective Date
+Section effective sixty days after Jan. 5, 1971, see section 404 of Pub. L. 91–648, set out as a note under [section 3371 of this title](./chapter-033-examination-selection-and-placement.md#section-3371).
+
 
 <a id="section-3376"></a>
 ## § 3376. Regulations
@@ -3258,6 +3520,9 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 The President may prescribe regulations for the administration of this subchapter.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective sixty days after Jan. 5, 1971, see section 404 of Pub. L. 91–648, set out as a note under [section 3371 of this title](./chapter-033-examination-selection-and-placement.md#section-3371).
 
 #### Ex. Ord. No. 11589. Delegation of Functions to Office of Personnel Management
 Ex. Ord. No. 11589, Apr. 1, 1971, 36 F.R. 6343, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
@@ -3268,9 +3533,9 @@ Section 1. The Office of Personnel Management is hereby designated and empowered
 
 (a) The authority of the President under [section 3376 of title 5](./chapter-033-examination-selection-and-placement.md#section-3376) of the United States Code [this section] to prescribe regulations for the administration of subchapter VI, “Assignments to and from States,” of chapter 33 of that title [this chapter].
 
-(b) The authority of the President under section 205 (a)(4) of the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2286(a)(4)), and as affected by Reorganization Plan No. 1 of 1958 (72 Stat. 1799) [set out in the Appendix to this title], relating to the establishment and maintenance of personnel standards on the merit basis.
+(b) The authority of the President under section 205 (a)(4) of the Federal Civil Defense Act of 1950, as amended ([former] 50 U.S.C. App. 2286(a)(4)), and as affected by Reorganization Plan No. 1 of 1958 (72 Stat. 1799) [set out in the Appendix to this title], relating to the establishment and maintenance of personnel standards on the merit basis.
 
-Sec. 2. To the extent that section 1(b) of this order is inconsistent with the provisions of Executive Order No. 10952 of July 20, 1961, as amended [formerly set out as a note under [section 2271 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2271&num=0&edition=prelim), Appendix, War and National Defense], section 1(b) shall control.
+Sec. 2. To the extent that section 1(b) of this order is inconsistent with the provisions of Executive Order No. 10952 of July 20, 1961, as amended, section 1(b) shall control.
 
 
 <a id="section-3381"></a>
@@ -3454,7 +3719,7 @@ For the purpose of this subchapter, “agency”, “Senior Executive Service po
 A prior section 3391, added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1056, which related to definitions for part-time career employment opportunities, was renumbered as [section 3401 of this title](./chapter-034-part-time-career-employment-opportunities.md#section-3401) by Pub. L. 95–454, title IX, § 906(c)(1)(B), Oct. 13, 1978, 92 Stat. 1226.
 
 #### Effective Date
-Subchapter effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b) of Pub. L. 95–454, set out as an Effective Date note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b) of Pub. L. 95–454, set out as an Effective Date note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
 
 
 <a id="section-3392"></a>
@@ -3498,6 +3763,9 @@ A prior section 3392, added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1
 #### Effective Date of 1990 Amendment
 Pub. L. 101–335, § 7(b)(1), July 17, 1990, 104 Stat. 325, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of this Act [July 17, 1990].”
 
+#### Effective Date
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b) of Pub. L. 95–454, set out as an Effective Date note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
+
 #### Election by Persons Previously Appointed; Retroactive Performance Awards
 Pub. L. 101–335, § 7(b)(2), (3), July 17, 1990, 104 Stat. 325, as amended by Pub. L. 102–378, § 7(a), Oct. 2, 1992, 106 Stat. 1359, provided that: “(2) Election by persons previously appointed.—The Office of Personnel Management shall prescribe regulations (including procedures and deadlines) under which an election under [section 3392(c)(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3392/c/2&num=0&edition=prelim), United States Code (as amended by this section) may be made by any individual who—“(A) on the date of enactment of this Act [July 17, 1990], is serving in a civilian position in the executive branch which—“(i) is not in the Senior Executive Service; and “(ii) satisfies section 3392(c)(2)(B) of such title 5 (as so amended); “(B) was appointed to that position on or after November 1, 1986, and has served continuously in such position since then; “(C) was a career appointee (within the meaning of section 3132(a)(4) of such title 5) immediately before having been so appointed; and “(D) was not, based on such individual’s appointment to the position described in subparagraph (A), eligible to make an election under section 3392(c) of such title 5 (as then in effect). An election under this paragraph shall be effective as of the date of appointment to the position described in subparagraph (A). “(3) Retroactive performance awards.—If an individual elects under paragraph (2) to continue to be subject to performance awards, the head of the agency in which such individual is serving shall determine whether to grant retroactive performance awards for any fiscal years prior to fiscal year 1991 to such individual, and the amount of any such awards, without regard to the provisions of subsection (b) of [section 5383 of title 5](./chapter-053-pay-rates-and-systems.md#section-5383), United States Code, and subsections (b) and (c) of section 5384 of such title. Before granting an award, the head of the agency shall make a written determination that the individual’s performance during the fiscal year for which the award is given was at least fully successful, and shall consider the recommendation of the agency’s performance review board with respect to the award. No such award for performance during any fiscal year may be less than 5 percent nor more than 15 percent of the individual’s rate of basic pay as of the end of such fiscal year.”
 
@@ -3530,13 +3798,13 @@ Pub. L. 101–335, § 7(b)(2), (3), July 17, 1990, 104 Stat. 325, as amended by 
 
   (C) sufficient flexibility to allow for the appointment of individuals who have special or unique qualities which indicate a likelihood of executive success and who would not otherwise be eligible for appointment.
 
-**(d)** An individual’s initial appointment as a career appointee shall become final only after the individual has served a 1-year probationary period as a career appointee.
+**(d)** An individual’s initial appointment as a career appointee shall become final only after the individual has served a 1-year probationary period as a career appointee. The preceding sentence shall not apply to any individual covered by [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim).
 
 **(e)** Each career appointee shall meet the executive qualifications of the position to which appointed, as determined in writing by the appointing authority.
 
 **(f)** The title of each career reserved position shall be published in the Federal Register.
 
-**(g)** A career appointee may not be removed from the Senior Executive Service or civil service except in accordance with the applicable provisions of sections 1215,, 11 So in original. 3592, 3595, 7532, or 7543 of this title.
+**(g)** A career appointee may not be removed from the Senior Executive Service or civil service except in accordance with the applicable provisions of sections 1215,,11 So in original. 3592, 3595, 7532, or 7543 of this title.
 
 ### Statutory Notes
 
@@ -3544,6 +3812,8 @@ Pub. L. 101–335, § 7(b)(2), (3), July 17, 1990, 104 Stat. 325, as amended by 
 A prior section 3393, added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1057, which related to limitations concerning part-time career employment opportunities, was renumbered as [section 3403 of this title](./chapter-034-part-time-career-employment-opportunities.md#section-3403) by Pub. L. 95–454, title IX, § 906(c)(1)(B), Oct. 13, 1978, 92 Stat. 1226.
 
 #### Amendments
+2015—Subsec. (d). Pub. L. 114–92 inserted at end “The preceding sentence shall not apply to any individual covered by [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim).”
+
 2002—Subsec. (g). Pub. L. 107–296 struck out “3393a” after “1215,”.
 
 1990—Subsec. (g). Pub. L. 101–280 made technical correction to directory language of Pub. L. 101–194, see 1989 Amendment below.
@@ -3570,6 +3840,9 @@ Pub. L. 98–615, title III, § 307, Nov. 8, 1984, 98 Stat. 3220, provided that:
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 effective June 1, 1981, with certain exceptions and conditions, see section 1704(e) of Pub. L. 97–35, set out as an Effective Date note under [section 3595 of this title](./chapter-035-retention-preference-voluntary-separation-incentive-payments-restoration-and-reemployment.md#section-3595).
 
+#### Effective Date
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b) of Pub. L. 95–454, set out as an Effective Date note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
+
 
 <a id="section-3393a"></a>
 ## § 3393a. Repealed. Pub. L. 107–296, title XIII, § 1321(a)(1)(B), Nov. 25, 2002, 116 Stat. 2296]
@@ -3592,6 +3865,9 @@ Repeal effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296
 
 #### Prior Provisions
 A prior section 3394, added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1057, which related to personnel ceilings, was renumbered as [section 3404 of this title](./chapter-034-part-time-career-employment-opportunities.md#section-3404) by Pub. L. 95–454, title IX, § 906(c)(1)(B), Oct. 13, 1978, 92 Stat. 1226.
+
+#### Effective Date
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b) of Pub. L. 95–454, set out as an Effective Date note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
 
 
 <a id="section-3395"></a>
@@ -3667,6 +3943,9 @@ Subsec. (e)(3). Pub. L. 102–175, § 3(2), added par. (3).
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–615 effective Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under [section 3393 of this title](./chapter-033-examination-selection-and-placement.md#section-3393).
 
+#### Effective Date
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b) of Pub. L. 95–454, set out as an Effective Date note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
+
 
 <a id="section-3396"></a>
 ## § 3396. Development for and within the Senior Executive Service
@@ -3719,6 +3998,9 @@ A prior section 3396, added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1
 #### Amendments
 1991—Subsec. (d). Pub. L. 102–175 designated existing provisions as par. (1) and added par. (2).
 
+#### Effective Date
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b) of Pub. L. 95–454, set out as an Effective Date note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
+
 #### Federal Procurement Training
 Pub. L. 112–239, div. A, title XVI, § 1633(a), Jan. 2, 2013, 126 Stat. 2076, provided that: “Programs established for the development of senior executives under [section 3396(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3396/a&num=0&edition=prelim), United States Code, shall include training with respect to Federal procurement requirements, including contracting requirements under the Small Business Act ([15 U.S.C. 631](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) et seq.).”
 
@@ -3734,3 +4016,6 @@ The Office of Personnel Management shall prescribe regulations to carry out the 
 A prior section 3397, added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1058, which related to reports, was renumbered as [section 3407 of this title](./chapter-034-part-time-career-employment-opportunities.md#section-3407) by Pub. L. 95–454, title IX, § 906(c)(1)(B), Oct. 13, 1978, 92 Stat. 1226.
 
 A prior section 3398, added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1058, which related to representation by employee organizations of employees employed on a part-time career employment basis, was renumbered as [section 3408 of this title](./chapter-034-part-time-career-employment-opportunities.md#section-3408) by Pub. L. 95–454, title IX, § 906(c)(1)(B), Oct. 13, 1978, 92 Stat. 1226.
+
+#### Effective Date
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b) of Pub. L. 95–454, set out as an Effective Date note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).

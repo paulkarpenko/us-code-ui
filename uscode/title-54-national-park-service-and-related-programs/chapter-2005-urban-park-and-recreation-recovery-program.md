@@ -70,14 +70,14 @@ In this chapter:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200501 | [16 U.S.C. 2503](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2503&num=0&edition=prelim) | Pub. L. 95–625, title X, § 1004, Nov. 10, 1978, 92 Stat. 3539; Pub. L. 103–322, title III, § 31502, Sept. 13, 1994, 108 Stat. 1888. |
+| 200501 | [16 U.S.C. 2503](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2503&num=0&edition=prelim). | Pub. L. 95–625, title X, § 1004, Nov. 10, 1978, 92 Stat. 3539; Pub. L. 103–322, title III, § 31502, Sept. 13, 1994, 108 Stat. 1888. |
 
 In paragraph (1)(C), the words “that serves as an at-risk youth recreation grant” are substituted for “referred to in paragraph (1) of this subsection” for clarity.
 
 In paragraph (2), the word “parish” is omitted because of [1 U.S.C. 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section2&num=0&edition=prelim).
 
 #### Congressional Statement of Purpose; Complementary Program Authorization; Terms and Conditions
-Pub. L. 95–625, title X, § 1003, Nov. 10, 1978, 92 Stat. 3539; Pub. L. 103–322, title III, §§ 31501, 31505(b), Sept. 13, 1994, 108 Stat. 1888, 1890, provided that: “The purpose of this title [now chapter 2005 of Title 54, National Park Service and Related Programs] is to authorize the Secretary [of the Interior] to establish an urban park and recreation recovery program which would provide Federal grants to economically hard-pressed communities specifically for the rehabilitation of critically needed recreation areas, facilities, and development of improved recreation programs. This program is intended to complement existing Federal programs such as the Land and Water Conservation Fund and Community Development Grant Programs by encouraging and stimulating local governments to revitalize their park and recreation systems and to make long-term commitments to continuing maintenance of these systems. Such assistance shall be subject to such terms and conditions as the Secretary considers appropriate and in the public interest to carry out the purposes of this title. It is further the purpose of this title to improve recreation facilities and expand recreation services in urban areas with a high incidence of crime and to help deter crime through the expansion of recreation opportunities for at-risk youth. It is the further purpose of this section [probably means title] to increase the security of urban parks and to promote collaboration between local agencies involved in parks and recreation, law enforcement, youth social services, and juvenile justice system.”
+Pub. L. 95–625, title X, § 1003, Nov. 10, 1978, 92 Stat. 3539; Pub. L. 103–322, title III, §§ 31501, 31505(b), Sept. 13, 1994, 108 Stat. 1888, 1890, provided that: “The purpose of this title [now [54 U.S.C. 200501](./chapter-2005-urban-park-and-recreation-recovery-program.md#section-200501) et seq.] is to authorize the Secretary [of the Interior] to establish an urban park and recreation recovery program which would provide Federal grants to economically hard-pressed communities specifically for the rehabilitation of critically needed recreation areas, facilities, and development of improved recreation programs. This program is intended to complement existing Federal programs such as the Land and Water Conservation Fund and Community Development Grant Programs by encouraging and stimulating local governments to revitalize their park and recreation systems and to make long-term commitments to continuing maintenance of these systems. Such assistance shall be subject to such terms and conditions as the Secretary considers appropriate and in the public interest to carry out the purposes of this title. It is further the purpose of this title to improve recreation facilities and expand recreation services in urban areas with a high incidence of crime and to help deter crime through the expansion of recreation opportunities for at-risk youth. It is the further purpose of this section [probably means title] to increase the security of urban parks and to promote collaboration between local agencies involved in parks and recreation, law enforcement, youth social services, and juvenile justice system.”
 
 
 <a id="section-200502"></a>
@@ -133,14 +133,14 @@ Pub. L. 95–625, title X, § 1003, Nov. 10, 1978, 92 Stat. 3539; Pub. L. 103–
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200502 | [16 U.S.C. 2504](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2504&num=0&edition=prelim) | Pub. L. 95–625, title X, § 1005, Nov. 10, 1978, 92 Stat. 3540; Pub. L. 103–322, title III, § 31503, Sept. 13, 1994, 108 Stat. 1889. |
+| 200502 | [16 U.S.C. 2504](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2504&num=0&edition=prelim). | Pub. L. 95–625, title X, § 1005, Nov. 10, 1978, 92 Stat. 3540; Pub. L. 103–322, title III, § 31503, Sept. 13, 1994, 108 Stat. 1889. |
 
 In subsection (a), the words “Within one hundred and twenty days after November 10, 1978” are omitted as obsolete.
 
 In subsection (b), the word “standard” is omitted as obsolete. The words “the Director of the Office of Management and Budget” are substituted for “census”. See [31 U.S.C. 1104(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1104/d&num=0&edition=prelim), Executive Order No. 10253 ([31 U.S.C. 1104](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1104&num=0&edition=prelim) note), and [44 U.S.C. 3504(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3504/e/3&num=0&edition=prelim).
 
 #### References in Text
-The Urban Park and Recreation Recovery Act of 1978 (Public Law 95–625, 92 Stat. 3538), referred to in subsec. (b), is title X of Pub. L. 95–625, Nov. 10, 1978, 92 Stat. 3538, which enacted sections 2501 to 2514 of Title 16, Conservation. The Act was repealed and restated as this chapter by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3180, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of Title 16, see Disposition Table preceding [section 100101 of this title](./chapter-1001-chapter-1001.md#section-100101).
+The Urban Park and Recreation Recovery Act of 1978 (Public Law 95–625, 92 Stat. 3538), referred to in subsec. (b), is title X of Pub. L. 95–625, Nov. 10, 1978, 92 Stat. 3538, which was classified generally to chapter 45 (§ 2501 et seq.) of Title 16, Conservation. The Act was substantially repealed and restated as this chapter by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3180, 3272. The findings and purposes of the Act are contained in sections 1002 and 1003 of the Act. Section 1002 was classified to [section 2501 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2501&num=0&edition=prelim) and was omitted from the Code. Section 1003 is set out as a note under [section 200501 of this title](./chapter-2005-urban-park-and-recreation-recovery-program.md#section-200501). For complete classification of this Act to the Code, see Tables. For disposition of former sections of Title 16, see Disposition Table preceding [section 100101 of this title](./chapter-1001-chapter-1001.md#section-100101).
 
 
 <a id="section-200503"></a>
@@ -160,7 +160,7 @@ The Urban Park and Recreation Recovery Act of 1978 (Public Law 95–625, 92 Stat
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200503 | [16 U.S.C. 2505](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2505&num=0&edition=prelim) | Pub. L. 95–625, title X, § 1006, Nov. 10, 1978, 92 Stat. 3541. |
+| 200503 | [16 U.S.C. 2505](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2505&num=0&edition=prelim). | Pub. L. 95–625, title X, § 1006, Nov. 10, 1978, 92 Stat. 3541. |
 
 In subsection (a), the words “chief executive officials” are substituted for “chief executives” for consistency in the new title.
 
@@ -218,7 +218,7 @@ In subsection (c), the words “At the discretion of such applicants” are omit
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200504 | [16 U.S.C. 2506](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2506&num=0&edition=prelim) | Pub. L. 95–625, title X, § 1007, Nov. 10, 1978, 92 Stat. 3541; Pub. L. 103–322, title III, §§ 31504, Sept. 13, 1994, 108 Stat. 1889. |
+| 200504 | [16 U.S.C. 2506](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2506&num=0&edition=prelim). | Pub. L. 95–625, title X, § 1007, Nov. 10, 1978, 92 Stat. 3541; Pub. L. 103–322, title III, §§ 31504, Sept. 13, 1994, 108 Stat. 1889. |
 
 In subsection (c)(1), the word “areas” is substituted for “sites” for consistency with the defined term and with the new chapter.
 
@@ -238,7 +238,7 @@ In subsection (c)(1), the word “areas” is substituted for “sites” for co
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200505 | [16 U.S.C. 2507](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2507&num=0&edition=prelim) | Pub. L. 95–625, title X, § 1008, Nov. 10, 1978, 92 Stat. 3542. |
+| 200505 | [16 U.S.C. 2507](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2507&num=0&edition=prelim). | Pub. L. 95–625, title X, § 1008, Nov. 10, 1978, 92 Stat. 3542. |
 
 In subsection (a), the words “rehabilitation grants or innovation grants” are substituted for “Federal implementation grants” for clarity. See 36 CFR 72.32(c).
 
@@ -258,7 +258,7 @@ In subsection (a), the words “rehabilitation grants or innovation grants” ar
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200506 | [16 U.S.C. 2508](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2508&num=0&edition=prelim) | Pub. L. 95–625, title X, § 1009, Nov. 10, 1978, 92 Stat. 3543. |
+| 200506 | [16 U.S.C. 2508](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2508&num=0&edition=prelim). | Pub. L. 95–625, title X, § 1009, Nov. 10, 1978, 92 Stat. 3543. |
 
 In subsection (a), the word “recovery” is added after “Reasonable local costs of”, and the words “a recovery action program grant” are substituted for “program development grants”, for clarity. See 36 CFR 72.32(a).
 
@@ -273,7 +273,7 @@ No property improved or developed with assistance under this chapter shall, with
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200507 | [16 U.S.C. 2509](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2509&num=0&edition=prelim) | Pub. L. 95–625, title X, § 1010, Nov. 10, 1978, 92 Stat. 3543. |
+| 200507 | [16 U.S.C. 2509](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2509&num=0&edition=prelim). | Pub. L. 95–625, title X, § 1010, Nov. 10, 1978, 92 Stat. 3543. |
 
 The words “then current” are substituted for “current” for clarity.
 
@@ -294,7 +294,7 @@ The Secretary shall—
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200508 | [16 U.S.C. 2510](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2510&num=0&edition=prelim) | Pub. L. 95–625, title X, § 1011, Nov. 10, 1978, 92 Stat. 3543. |
+| 200508 | [16 U.S.C. 2510](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2510&num=0&edition=prelim). | Pub. L. 95–625, title X, § 1011, Nov. 10, 1978, 92 Stat. 3543. |
 
 In subsection (a)(1), the word “departments” is omitted as being included in “agency”.
 
@@ -318,7 +318,7 @@ In subsection (a)(1), the word “departments” is omitted as being included in
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200509 | [16 U.S.C. 2511](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2511&num=0&edition=prelim) | Pub. L. 95–625, title X, § 1012, Nov. 10, 1978, 92 Stat. 3543. |
+| 200509 | [16 U.S.C. 2511](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2511&num=0&edition=prelim). | Pub. L. 95–625, title X, § 1012, Nov. 10, 1978, 92 Stat. 3543. |
 
 In subsection (a)(1), the word “fully” is omitted as unnecessary.
 
@@ -335,7 +335,7 @@ Amounts authorized for Guam, American Samoa, the Virgin Islands, and the Norther
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200510 | [16 U.S.C. 2512(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2512/a&num=0&edition=prelim) (last paragraph) | Pub. L. 95–625, title X, § 1013(a) (last paragraph), Nov. 10, 1978, 92 Stat. 3544; Pub. L. 98–454, title VI, § 601(a), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 103–322, title III, § 31505(a), Sept. 13, 1994, 108 Stat. 1889. |
+| 200510 | [16 U.S.C. 2512(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2512/a&num=0&edition=prelim) (last paragraph). | Pub. L. 95–625, title X, § 1013(a) (last paragraph), Nov. 10, 1978, 92 Stat. 3544; Pub. L. 98–454, title VI, § 601(a), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 103–322, title III, § 31505(a), Sept. 13, 1994, 108 Stat. 1889. |
 
 The text of [16 U.S.C. 2512(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2512/a&num=0&edition=prelim) (last paragraph 1st sentence) is omitted as obsolete.
 
@@ -357,10 +357,10 @@ The text of [16 U.S.C. 2512(a)](https://uscode.house.gov/view.xhtml?req=granulei
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200511(a) | [16 U.S.C. 2512(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2512/a&num=0&edition=prelim) (1st paragraph 1st, 3d, last sentences) | Pub. L. 95–625, title X, § 1013(a) (1st paragraph), Nov. 10, 1978, 92 Stat. 3544; Pub. L. 98–454, title VI, § 601(a), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 103–322, title III, § 31505(a), Sept. 13, 1994, 108 Stat. 1889. |
-| 200511(b), (c) | [16 U.S.C. 2512(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2512/a&num=0&edition=prelim) (1st paragraph 2d sentence) |  |
-| 200511(d) | [16 U.S.C. 2512(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2512/b&num=0&edition=prelim) | Pub. L. 95–625, title X, § 1013(b), as added Pub. L. 103–322, title III, § 31505(a), Sept. 13, 1994, 108 Stat. 1890. |
-| 200511(e) | [16 U.S.C. 2513](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2513&num=0&edition=prelim) | Pub. L. 95–625, title X, § 1014, Nov. 10, 1978, 92 Stat. 3544. |
+| 200511(a) | [16 U.S.C. 2512(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2512/a&num=0&edition=prelim) (1st paragraph 1st, 3d, last sentences). | Pub. L. 95–625, title X, § 1013(a) (1st paragraph), Nov. 10, 1978, 92 Stat. 3544; Pub. L. 98–454, title VI, § 601(a), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 103–322, title III, § 31505(a), Sept. 13, 1994, 108 Stat. 1889. |
+| 200511(b), (c) | [16 U.S.C. 2512(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2512/a&num=0&edition=prelim) (1st paragraph 2d sentence). |  |
+| 200511(d) | [16 U.S.C. 2512(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2512/b&num=0&edition=prelim). | Pub. L. 95–625, title X, § 1013(b), as added Pub. L. 103–322, title III, § 31505(a), Sept. 13, 1994, 108 Stat. 1890. |
+| 200511(e) | [16 U.S.C. 2513](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2513&num=0&edition=prelim). | Pub. L. 95–625, title X, § 1014, Nov. 10, 1978, 92 Stat. 3544. |
 
 In subsection (a), the text of [16 U.S.C. 2512(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2512/a&num=0&edition=prelim) (1st paragraph 1st and last sentences) is omitted as obsolete. The words “in the aggregate” are omitted as unnecessary. The words “amount made available for grants to all of the States” are substituted for “aggregate amount of funds authorized to be appropriated” for clarity and for consistency in the section.
 

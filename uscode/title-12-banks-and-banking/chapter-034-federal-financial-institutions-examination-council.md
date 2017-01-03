@@ -14,7 +14,7 @@ It is the purpose of this chapter to establish a Financial Institutions Examinat
 ### Statutory Notes
 
 #### Effective Date
-Chapter effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
 
 #### Short Title
 Pub. L. 95–630, title X, § 1001, Nov. 10, 1978, 92 Stat. 3694, provided that: “This title [enacting this chapter and amending section 67 of former Title 31, Money and Finance] may be cited as the ‘Federal Financial Institutions Examination Council Act of 1978’.”
@@ -40,6 +40,9 @@ As used in this chapter—
 1989—Par. (1). Pub. L. 101–73, § 744(a)(1)(A), substituted “Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
 
 Par. (3). Pub. L. 101–73, § 744(a)(1)(B), substituted “savings association” for “savings and loan association”.
+
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
 
 
 <a id="section-3303"></a>
@@ -80,11 +83,19 @@ Subsec. (a)(6). Pub. L. 109–351, § 714(a)(2), (3), added par. (6).
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
 
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
+
 
 <a id="section-3304"></a>
 ## § 3304. Costs and expenses of Council
 
 One-fifth of the costs and expenses of the Council, including the salaries of its employees, shall be paid by each of the Federal financial institutions regulatory agencies. Annual assessments for such share shall be levied by the Council based upon its projected budget for the year, and additional assessments may be made during the year if necessary.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
 
 
 <a id="section-3305"></a>
@@ -116,6 +127,9 @@ One-fifth of the costs and expenses of the Council, including the salaries of it
 
 1982—Subsec. (b)(2). Pub. L. 97–320 substituted “unacceptable” for “unaccepted”.
 
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
+
 #### Report on Consistent Use of Financial Terminology
 Pub. L. 103–325, title II, § 210, Sept. 23, 1994, 108 Stat. 2203, provided that: “Not later than 2 years after the date of enactment of this Act [Sept. 23, 1994], the Financial Institutions Examination Council shall report to the Congress on its recommendations for the use of consistent financial terminology by depository institutions for small business loans or leases of personal property which are sold for the creation of small business related securities (as defined in section 3(a)(53)(A) of the Securities Exchange Act of 1934 [[15 U.S.C. 78c(a)(53)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a/53/A&num=0&edition=prelim)]).”
 
@@ -142,6 +156,9 @@ To encourage the application of uniform examination principles and standards by 
 #### Amendments
 2006—Pub. L. 109–351 inserted at end “Members of the Liaison Committee shall elect a chairperson from among the members serving on the committee.”
 
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
+
 
 <a id="section-3307"></a>
 ## § 3307. Administration
@@ -164,11 +181,19 @@ The provisions of title 5 relating to classification, referred to in subsec. (c)
 
 The provisions of title 5 relating to General Schedule pay rates, referred to in subsec. (c), are set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).
 
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
+
 
 <a id="section-3308"></a>
 ## § 3308. Access to books, accounts, records, etc., by Council
 
 For the purpose of carrying out this chapter, the Council shall have access to all books, accounts, records, reports, files, memorandums, papers, things, and property belonging to or in use by Federal financial institutions regulatory agencies, including reports of examination of financial institutions or their holding companies from whatever source, together with workpapers and correspondence files related to such reports, whether or not a part of the report, and all without any deletions.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under [section 375b of this title](./chapter-003-federal-reserve-system.md#section-375b).
 
 
 <a id="section-3309"></a>

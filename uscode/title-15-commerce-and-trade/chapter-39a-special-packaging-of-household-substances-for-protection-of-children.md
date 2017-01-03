@@ -2,7 +2,7 @@
 title: 15
 chapter: 39A
 heading: SPECIAL PACKAGING OF HOUSEHOLD SUBSTANCES FOR PROTECTION OF CHILDREN
-section_count: 7
+section_count: 8
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -46,6 +46,9 @@ For effective date of amendment by Pub. L. 92–516, see section 4 of Pub. L. 92
 
 #### Effective Date
 Pub. L. 91–601, § 8, formerly § 9, Dec. 30, 1970, 84 Stat. 1674, as amended by Pub. L. 92–573, § 30(a), Oct. 27, 1972, 86 Stat. 1231, and renumbered by Pub. L. 97–35, title XII, § 1205(c), Aug. 13, 1981, 95 Stat. 716, provided that: “This Act [see Short Title note set out below] shall take effect on the date of its enactment [Dec. 30, 1970]. Each regulation establishing a special packaging standard shall specify the date such standard is to take effect which date shall not be sooner than one hundred and eighty days or later than one year from the date such regulation is final, unless the Commission, for good cause found, determines that an earlier effective date is in the public interest and publishes in the Federal Register his reason for such finding, in which case such earlier date shall apply. No such standard shall be effective as to household substances subject to this Act packaged prior to the effective date of such final regulation.”
+
+#### Short Title of 2016 Amendment
+Pub. L. 114–116, § 1, Jan. 28, 2016, 130 Stat. 3, provided that: “This Act [enacting [section 1472a of this title](./chapter-39a-special-packaging-of-household-substances-for-protection-of-children.md#section-1472a) and provisions set out as a note under 1472a of this title] may be cited as the ‘Child Nicotine Poisoning Prevention Act of 2015’.”
 
 #### Short Title
 Pub. L. 91–601, § 1, Dec. 30, 1970, 84 Stat. 1670, provided that: “This Act [enacting this chapter, [section 135(z)(2)(i) of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section135/z/2/i&num=0&edition=prelim), Agriculture, and sections 343(n), 352(p), and 362(f) of Title 21, Food and Drugs, amending [section 1261(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1261/p&num=0&edition=prelim) and [section 353(b)(2) of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/b/2&num=0&edition=prelim), and enacting provisions set out as a note under this section] may be cited as the ‘Poison Prevention Packaging Act of 1970’.”
@@ -92,6 +95,54 @@ For classification to the Code of “this Act”, referred to in text, see Refer
 “Commission” substituted for “Secretary”, “it” substituted for “he”, and “its” substituted for “his” wherever appearing in subsecs. (a) to (d) pursuant to section 30(a) of Pub. L. 92–573, which is classified to [section 2079(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2079/a&num=0&edition=prelim) and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
 
 
+<a id="section-1472a"></a>
+## § 1472a. Special packaging for liquid nicotine containers
+**(a) Requirement** Notwithstanding [section 1261(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1261/f/2&num=0&edition=prelim) and [section 2052(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2052/a/5&num=0&edition=prelim), any nicotine provided in a liquid nicotine container sold, offered for sale, manufactured for sale, distributed in commerce, or imported into the United States shall be packaged in accordance with the standards provided in section 1700.15 of title 16, Code of Federal Regulations, as determined through testing in accordance with the method described in section 1700.20 of title 16, Code of Federal Regulations, and any subsequent changes to such sections adopted by the Commission.
+
+**(b) Savings Clause**
+
+(1) **In general** — Nothing in this section shall be construed to limit or otherwise affect the authority of the Secretary of Health and Human Services to regulate, issue guidance, or take action regarding the manufacture, marketing, sale, distribution, importation, or packaging, including child-resistant packaging, of nicotine, liquid nicotine, liquid nicotine containers, electronic cigarettes, electronic nicotine delivery systems or other similar products that contain or dispense liquid nicotine, or any other nicotine-related products, including—
+
+  (A) authority under the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.) and the Family Smoking Prevention and Tobacco Control Act (Public Law 111–31) and the amendments made by such Act; and
+
+  (B) authority for the rulemaking entitled “Deeming Tobacco Products to Be Subject to the Federal Food, Drug, and Cosmetic Act, as Amended by the Family Smoking Prevention and Tobacco Control Act; regulations on the Sale and Distribution of Tobacco Products and the Required Warning Statements for Tobacco Products” (April 2014) (FDA–2014–N–0189), the rulemaking entitled “Nicotine Exposure Warnings and Child-Resistant Packaging for Liquid Nicotine, Nicotine-Containing E-Liquid(s), and Other Tobacco Products” (June 2015) (FDA–2015–N–1514), and subsequent actions by the Secretary regarding packaging of liquid nicotine containers.
+
+(2) **Consultation** — If the Secretary of Health and Human Services adopts, maintains, enforces, or imposes or continues in effect any packaging requirement for liquid nicotine containers, including a child-resistant packaging requirement, the Secretary shall consult with the Commission, taking into consideration the expertise of the Commission in implementing and enforcing this section and the Poison Prevention Packaging Act of 1970 ([15 U.S.C. 1471](./chapter-39a-special-packaging-of-household-substances-for-protection-of-children.md#section-1471) et seq.).
+
+**(c) Applicability** Notwithstanding [section 2052(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2052/a/5&num=0&edition=prelim) and [section 1261(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1261/f/2&num=0&edition=prelim), the requirement of subsection (a) shall be treated as a standard for the special packaging of a household substance established under section 3(a) of the Poison Prevention Packaging Act of 1970 ([15 U.S.C. 1472(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1472/a&num=0&edition=prelim)).
+
+**(d) Definitions** In this section:
+
+(1) **Commission** — The term “Commission” means the Consumer Product Safety Commission.
+
+(2) **Liquid nicotine container**
+
+  (A) *In general* — Notwithstanding section 1261(f)(2) of this ttile and [section 2052(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2052/a/5&num=0&edition=prelim), the term “liquid nicotine container” means a package (as defined in section 2 of the Poison Prevention Packaging Act of 1970 ([15 U.S.C. 1471](./chapter-39a-special-packaging-of-household-substances-for-protection-of-children.md#section-1471)))
+
+    (i) from which nicotine in a solution or other form is accessible through normal and foreseeable use by a consumer; and
+
+    (ii) that is used to hold soluble nicotine in any concentration.
+
+  (B) *Exclusion* — The term “liquid nicotine container” does not include a sealed, pre-filled, and disposable container of nicotine in a solution or other form in which such container is inserted directly into an electronic cigarette, electronic nicotine delivery system, or other similar product, if the nicotine in the container is inaccessible through customary or reasonably foreseeable handling or use, including reasonably foreseeable ingestion or other contact by children.
+
+(3) **Nicotine** — The term “nicotine” means any form of the chemical nicotine, including any salt or complex, regardless of whether the chemical is naturally or synthetically derived.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+
+The Family Smoking Prevention and Tobacco Control Act, referred to in (b)(1), is div. A of Pub. L. 111–31, June 22, 2009, 123 Stat. 1776. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim), Food and Drugs, and Tables.
+
+The Poison Prevention Packaging Act of 1970, referred to in (b)(2), is Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1471 of this title](./chapter-39a-special-packaging-of-household-substances-for-protection-of-children.md#section-1471) and Tables.
+
+#### Codification
+Section was enacted as part of the Child Nicotine Poisoning Prevention Act of 2015, and not as part of the Poison Prevention Packaging Act of 1970 which comprises this chapter.
+
+#### Effective Date
+Pub. L. 114–116, § 3, Jan. 28, 2016, 130 Stat. 5, provided that: “This Act [see Short Title of 2016 Amendment set out under [section 1471 of this title](./chapter-39a-special-packaging-of-household-substances-for-protection-of-children.md#section-1471)] shall take effect on the date that is 180 days after the date of the enactment of this Act [Jan. 28, 2016].”
+
+
 <a id="section-1473"></a>
 ## § 1473. Conventional packages, marketing
 **(a) Noncomplying packages for elderly or handicapped persons; labeling statements** For the purpose of making any household substance which is subject to a standard established under [section 1472 of this title](./chapter-39a-special-packaging-of-household-substances-for-protection-of-children.md#section-1472) readily available to elderly or handicapped persons unable to use such substance when packaged in compliance with such standard, the manufacturer or packer, as the case may be, may package any household substance, subject to such a standard, in packaging of a single size which does not comply with such standard if—
@@ -102,7 +153,7 @@ For classification to the Code of “this Act”, referred to in text, see Refer
 
 **(b) Noncomplying packages for substances dispensed pursuant to orders of medical practitioners** In the case of a household substance which is subject to such a standard and which is dispensed pursuant to an order of physician, dentist, or other licensed medical practitioner authorized to prescribe, such substance may be dispensed in noncomplying packages only when directed in such order or when requested by the purchaser.
 
-**(c) Exclusive use of special packaging; necessary circumstances** In the case of a household substance subject to such a standard which is packaged under subsection (a) of this section in a noncomplying package, if the Commission determines that such substance is not also being supplied by a manufacturer (or packer) in popular size packages which comply with such standard, it may, after giving the manufacturer (or packer) an opportunity to comply with the purposes of this Act, by order require such substance to be packaged by such manufacturer (or packer) exclusively in special packaging complying with such standard if it finds, after opportunity for hearing, that such exclusive use of special packaging is necessary to accomplish the purposes of this Act.
+**(c) Exclusive use of special packaging; necessary circumstances** In the case of a household substance subject to such a standard which is packaged under subsection (a) in a noncomplying package, if the Commission determines that such substance is not also being supplied by a manufacturer (or packer) in popular size packages which comply with such standard, it may, after giving the manufacturer (or packer) an opportunity to comply with the purposes of this Act, by order require such substance to be packaged by such manufacturer (or packer) exclusively in special packaging complying with such standard if it finds, after opportunity for hearing, that such exclusive use of special packaging is necessary to accomplish the purposes of this Act.
 
 ### Statutory Notes
 
@@ -148,13 +199,13 @@ Repeal effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as 
 
 <a id="section-1476"></a>
 ## § 1476. Preemption of Federal standards
-**(a) Exception for identical State standards** Except as provided in subsections (b) and (c) of this section, whenever a standard established by the Commission under this Act applicable to a household substance is in effect, no State or political subdivision thereof shall have any authority either to establish or continue in effect, with respect to such household substance, any standard for special packaging (and any exemption therefrom and requirement related thereto) which is not identical to the standard established under [section 1472 of this title](./chapter-39a-special-packaging-of-household-substances-for-protection-of-children.md#section-1472) (and any exemption therefrom and requirement related thereto) of this Act.
+**(a) Exception for identical State standards** Except as provided in subsections (b) and (c), whenever a standard established by the Commission under this Act applicable to a household substance is in effect, no State or political subdivision thereof shall have any authority either to establish or continue in effect, with respect to such household substance, any standard for special packaging (and any exemption therefrom and requirement related thereto) which is not identical to the standard established under [section 1472 of this title](./chapter-39a-special-packaging-of-household-substances-for-protection-of-children.md#section-1472) (and any exemption therefrom and requirement related thereto) of this Act.
 
 **(b) Federal or State standards which afford a higher degree of protection** The Federal Government and the government of any State or political subdivision of a State may establish and continue in effect, with respect to a household substance for its own use, a standard for special packaging or related requirement which is designed to protect against a risk of illness or injury with respect to which a standard for special packaging or related requirement is in effect under this Act and which is not identical to such standard or requirement if the Federal, State, or political subdivision standard or requirement provides a higher degree of protection from such risk of illness or injury than the standard or requirement in effect under this Act.
 
 **(c) Exemption for State standards; requirements; determination of burden on interstate commerce; notice and hearing**
 
-(1) Upon application of a State or political subdivision of a State, the Commission may, by regulation promulgated in accordance with paragraph (2), exempt from subsection (a) of this section, under such conditions as may be prescribed in such regulation, any standard for special packaging or related requirement of such State or political subdivision applicable to a household substance subject to a standard or requirement in effect under this Act if—
+(1) Upon application of a State or political subdivision of a State, the Commission may, by regulation promulgated in accordance with paragraph (2), exempt from subsection (a), under such conditions as may be prescribed in such regulation, any standard for special packaging or related requirement of such State or political subdivision applicable to a household substance subject to a standard or requirement in effect under this Act if—
 
   (A) compliance with the State or political subdivision standard or requirement would not cause the household substance to be in violation of the standard or requirement in effect under this Act, and
 
@@ -169,7 +220,7 @@ Repeal effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as 
 For classification to the Code of “this Act”, referred to in text, see References in Text note set out under [section 1471 of this title](./chapter-39a-special-packaging-of-household-substances-for-protection-of-children.md#section-1471).
 
 #### Amendments
-1976—Pub. L. 94–284 substituted “(a) Except as provided in subsections (b) and (c) of this section, whenever” for “Whenever” in existing provision, and added subsecs. (b) and (c).
+1976—Pub. L. 94–284 substituted “(a) Except as provided in subsections (b) and (c), whenever” for “Whenever” in existing provision, and added subsecs. (b) and (c).
 
 #### Transfer of Functions
 “Commission” substituted for “Secretary” in subsec. (a) pursuant to section 30(a) of Pub. L. 92–573, which is classified to [section 2079(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2079/a&num=0&edition=prelim) and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.

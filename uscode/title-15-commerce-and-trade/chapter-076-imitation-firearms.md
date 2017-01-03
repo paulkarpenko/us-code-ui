@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-5001"></a>
 ## § 5001. Penalties for entering into commerce of imitation firearms
-**(a) Acts prohibited** It shall be unlawful for any person to manufacture, enter into commerce, ship, transport, or receive any toy, look-alike, or imitation firearm unless such firearm contains, or has affixed to it, a marking approved by the Secretary of Commerce, as provided in subsection (b) of this section.
+**(a) Acts prohibited** It shall be unlawful for any person to manufacture, enter into commerce, ship, transport, or receive any toy, look-alike, or imitation firearm unless such firearm contains, or has affixed to it, a marking approved by the Secretary of Commerce, as provided in subsection (b).
 
 **(b) Distinctive marking or device; exception; waiver; adjustments and changes**
 
@@ -22,7 +22,7 @@ source: >-
 
 **(d) Study and report** The Director of the Bureau of Justice Statistics is authorized and directed to conduct a study of the criminal misuse of toy, look-alike and imitation firearms, including studying police reports of such incidences and shall report on such incidences relative to marked and unmarked firearms.
 
-**(c) 11 So in original. Probably should be “(e)”. Technical evaluation of marking systems** The Director of 22 So in original. Probably should be “of the”. National Institute of Justice is authorized and directed to conduct a technical evaluation of the marking systems provided for in subsection (b) of this section to determine their effectiveness in police combat situations. The Director shall begin the study within 3 months after November 5, 1988, and such study shall be completed within 9 months after November 5, 1988.
+**(c) 11 So in original. Probably should be “(e)”. Technical evaluation of marking systems** The Director of 22 So in original. Probably should be “of the”. National Institute of Justice is authorized and directed to conduct a technical evaluation of the marking systems provided for in subsection (b) to determine their effectiveness in police combat situations. The Director shall begin the study within 3 months after November 5, 1988, and such study shall be completed within 9 months after November 5, 1988.
 
 **(f) Effective date** This section shall become effective on the date 6 months after November 5, 1988, and shall apply to toy, look-alike, and imitation firearms manufactured or entered into commerce after November 5, 1988.
 

@@ -248,7 +248,7 @@ The Community Economic Development Act of 1981, referred to in subsec. (a)(6), i
 
 The National and Community Service Act of 1990, referred to in subsecs. (b)(2)(A) and (c)(1)(F), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§ 12501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of this title](./chapter-129-national-and-community-service.md#section-12501) and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (c)(1)(E), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B and E of title IV of the Higher Education Act of 1965 are classified to parts B (§ 1071 et seq.) and D (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (c)(1)(E), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B and E of title IV of the Higher Education Act of 1965 are classified to parts B (§ 1071 et seq.) and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2014—Subsec. (d). Pub. L. 113–128 substituted “employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce development board established under [section 3122 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3122&num=0&edition=prelim).” for “employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce investment board established under [section 2832 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2832&num=0&edition=prelim).”.
@@ -540,7 +540,7 @@ To the maximum extent practicable, the people of the communities to be served by
 <a id="section-4958"></a>
 ## § 4958. Participation of younger and older persons
 
-In carrying out this part and part C of this subchapter, the Director shall take necessary steps, including the development of special projects, where appropriate, to encourage the fullest participation of individuals 18 through 27 years of age, and individuals 55 years of age and older, in the various programs and activities authorized under such parts.
+In carrying out this part and part C, the Director shall take necessary steps, including the development of special projects, where appropriate, to encourage the fullest participation of individuals 18 through 27 years of age, and individuals 55 years of age and older, in the various programs and activities authorized under such parts.
 
 ### Statutory Notes
 
@@ -726,7 +726,7 @@ Repeal effective Oct. 1, 1993, see section 392 of Pub. L. 103–82, set out as a
 
 <a id="section-5000"></a>
 ## § 5000. Authority of Director
-**(a) In general** The Director is authorized to make grants to or enter into contracts with public or nonprofit organizations, including organizations funded under part A, B, or C of this subchapter, for the purposes of demonstrating innovative activities involving older Americans as volunteers. The Director may support under this part both volunteers receiving stipends and volunteers not receiving stipends.
+**(a) In general** The Director is authorized to make grants to or enter into contracts with public or nonprofit organizations, including organizations funded under part A, B, or C, for the purposes of demonstrating innovative activities involving older Americans as volunteers. The Director may support under this part both volunteers receiving stipends and volunteers not receiving stipends.
 
 **(b) Activities** An organization that receives a grant or enters into a contract under subsection (a) of this section may use funds made available through the grant or contract for activities such as—
 
@@ -1164,9 +1164,9 @@ Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provid
 
 **(b)**
 
-(1) In carrying out this subchapter, the Director shall encourage and facilitate the efforts of private organizations to promote the programs established in parts A, B, and C of this subchapter and the involvement of older individuals as volunteers in such programs.
+(1) In carrying out this subchapter, the Director shall encourage and facilitate the efforts of private organizations to promote the programs established in parts A, B, and C and the involvement of older individuals as volunteers in such programs.
 
-(2) The Director shall take appropriate actions to ensure that special efforts are made to publicize the programs established in parts A, B, and C of this subchapter, in order to facilitate recruitment efforts, to encourage greater participation of volunteers of all ages and backgrounds, living in urban or rural communities, and to emphasize the value of volunteering to the health and well-being of volunteers and the communities of such volunteers. Such actions shall include informing recipients of grants and contracts under this subchapter of all informational materials available from the Director.
+(2) The Director shall take appropriate actions to ensure that special efforts are made to publicize the programs established in parts A, B, and C, in order to facilitate recruitment efforts, to encourage greater participation of volunteers of all ages and backgrounds, living in urban or rural communities, and to emphasize the value of volunteering to the health and well-being of volunteers and the communities of such volunteers. Such actions shall include informing recipients of grants and contracts under this subchapter of all informational materials available from the Director.
 
 (3) From funds appropriated under [section 5082 of this title](./chapter-066-domestic-volunteer-services.md#section-5082), the Director shall expend not less than $375,000 in each fiscal year to carry out paragraph (2).
 
@@ -1260,7 +1260,7 @@ Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provid
 
 (2) An applicant for a grant under paragraph (1) shall determine whether the program to be supported by the grant is a program under part A, B, or C, and shall submit an application as required for such program.
 
-(3) Each program for which a grant is received under this subsection shall be carried out in accordance with the requirements applicable to the program under part A, B, or C of this subchapter under which the program supported by such grant is to be carried out.
+(3) Each program for which a grant is received under this subsection shall be carried out in accordance with the requirements applicable to the program under part A, B, or C under which the program supported by such grant is to be carried out.
 
 (4) To the maximum extent practicable, the Director shall ensure that not less than 25 percent of the funds appropriated under this section are used to award grants—
 
@@ -1421,13 +1421,13 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 392 of Pub. L.
 ## § 5028. Multiyear grants or contracts
 **(a) Maximum period; compliance requirements where period exceeds 1 year; pro rata reductions where funding below prior fiscal year amounts**
 
-(1) Subject to paragraph (2) and the availability of funds, the Director may make a grant or enter into a contract under part A, B, or C of this subchapter for a period not to exceed 3 years. Each applicant who receives a grant, or enters into a contract, under such part for a period exceeding 1 year shall comply with such regulations as the Director may issue to require such applicant—
+(1) Subject to paragraph (2) and the availability of funds, the Director may make a grant or enter into a contract under part A, B, or C for a period not to exceed 3 years. Each applicant who receives a grant, or enters into a contract, under such part for a period exceeding 1 year shall comply with such regulations as the Director may issue to require such applicant—
 
   (A) to demonstrate that such applicant is in compliance with such part and with the terms and conditions of such grant or contract; and
 
   (B) to provide information to update the application submitted to obtain such grant or contract.
 
-(2) If the amount appropriated for any fiscal year to carry out part A, B, or C of this subchapter in a period during which multiyear grants or contracts are in effect under such part is less than the amount appropriated to carry out such part in the first fiscal year in such period, then the amounts payable under all such grants and contracts in effect in such period under such part shall be reduced pro rata.
+(2) If the amount appropriated for any fiscal year to carry out part A, B, or C in a period during which multiyear grants or contracts are in effect under such part is less than the amount appropriated to carry out such part in the first fiscal year in such period, then the amounts payable under all such grants and contracts in effect in such period under such part shall be reduced pro rata.
 
 **(b) Documentation, etc., by applicant of meaningful administrative savings from multiyear grant or contract** The Director shall require each applicant for a multiyear grant or contract under this section, to document or describe in the application any meaningful administrative savings that will result from such multiyear grant or contract.
 
@@ -1754,7 +1754,7 @@ Pub. L. 96–143, § 16, Dec. 13, 1979, 93 Stat. 1082, provided that not later t
 ## § 5056. Application of Federal law
 **(a) General rule** Except as provided in subsections (b), (c), (d), and (e) of this section, volunteers under this chapter shall not be deemed Federal employees and shall not be subject to the provisions of laws relating to Federal officers and employees and Federal employment.
 
-**(b) Specific Federal legislation** Individuals enrolled as volunteers for periods of full-time service, or, as the Director deems appropriate in accordance with regulations, for periods of part-time service of not less than 20 hours per week for not less than 26 consecutive weeks, under subchapter I of this chapter shall, with respect to such service or training, (1) for the purposes of subchapter III of chapter 73 of title 5, be deemed persons employed in the executive branch of the Federal Government, (2) for the purposes of the Internal Revenue Code of 1986 ([26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.) and title II of the Social Security Act ([42 U.S.C. 401](./chapter-007-social-security.md#section-401) et seq.), be deemed employees of the United States, and any service performed by an individual as a volunteer (including training) shall be deemed to be performed in the employ of the United States, (3) for the purposes of the Federal Tort Claims provisions of title 28, be deemed employees of the United States, (4) for the purposes of subchapter I of chapter 81 of title 5 (relative to compensation to Federal employees for work injuries), shall be deemed civil employees of the United States within the meaning of the term “employee” as defined in [section 8101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8101&num=0&edition=prelim), and the provisions of that subchapter shall apply except as follows: (A) in computing compensation benefits for disability or death, the annual rate of pay of a volunteer enrolled for a period of full-time service under such subchapter I of this chapter shall be deemed to be that received under the entrance salary for an employee at grade GS–5 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), and the annual rate of pay of a volunteer enrolled for a period of part-time service under such subchapter I of this chapter shall be deemed to be such entry salary or an appropriate portion thereof as determined by the Director, and subsections (a) and (b) of [section 8113 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8113&num=0&edition=prelim) shall apply, and (B) compensation for disability shall not begin to accrue until the day following the date on which the injured volunteer is terminated, and (5) be deemed employees of the United States for the purposes of [section 5584 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5584&num=0&edition=prelim) (and stipends and allowances paid under this chapter shall be considered as pay for such purposes).
+**(b) Specific Federal legislation** Individuals enrolled as volunteers for periods of full-time service, or, as the Director deems appropriate in accordance with regulations, for periods of part-time service of not less than 20 hours per week for not less than 26 consecutive weeks, under subchapter I of this chapter shall, with respect to such service or training, (1) for the purposes of subchapter III of chapter 73 of title 5, be deemed persons employed in the executive branch of the Federal Government, (2) for the purposes of the Internal Revenue Code of 1986 ([26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.) and title II of the Social Security Act ([42 U.S.C. 401](./chapter-007-social-security.md#section-401) et seq.), be deemed employees of the United States, and any service performed by an individual as a volunteer (including training) shall be deemed to be performed in the employ of the United States, (3) for the purposes of the Federal Tort Claims provisions of title 28, be deemed employees of the United States, (4) for the purposes of subchapter I of chapter 81 of title 5 (relative to compensation to Federal employees for work injuries), shall be deemed civil employees of the United States within the meaning of the term “employee” as defined in [section 8101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8101&num=0&edition=prelim), and the provisions of that subchapter shall apply except as follows: (A) in computing compensation benefits for disability or death, the annual rate of pay of a volunteer enrolled for a period of full-time service under such subchapter I shall be deemed to be that received under the entrance salary for an employee at grade GS–5 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), and the annual rate of pay of a volunteer enrolled for a period of part-time service under such subchapter I shall be deemed to be such entry salary or an appropriate portion thereof as determined by the Director, and subsections (a) and (b) of [section 8113 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8113&num=0&edition=prelim) shall apply, and (B) compensation for disability shall not begin to accrue until the day following the date on which the injured volunteer is terminated, and (5) be deemed employees of the United States for the purposes of [section 5584 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5584&num=0&edition=prelim) (and stipends and allowances paid under this chapter shall be considered as pay for such purposes).
 
 **(c) Subsequent Government employment** Any period of service of a volunteer enrolled in a program for a period of service of at least one year under part A of subchapter I of this chapter, and any period of full-time service of a volunteer enrolled in a program for a period of service of at least one year under part B (as such part was in effect on the day before April 21, 2009) or C of subchapter I of this chapter, shall be credited in connection with subsequent employment in the same manner as a like period of civilian employment by the United States Government—
 
@@ -1809,7 +1809,7 @@ Subsec. (d). Pub. L. 99–551 substituted “the Director” for “he” before
 
 Subsec. (c)(2). Pub. L. 96–465, § 2206(h)(2), substituted “Foreign Service Act of 1980” for “Foreign Service Act of 1946”.
 
-1979—Subsec. (b). Pub. L. 96–143, § 11(a), substituted in provisions preceding cl. (1) “as volunteers for periods of full-time service, or, as the Director deems appropriate in accordance with regulations, for periods of part-time service of not less than 20 hours per week for not less than 26 consecutive weeks, under subchapter I of this chapter” for “in programs under subchapter I of this chapter for periods of service of at least one year” and in cl. (4)(A) “the annual rate of pay of a volunteer enrolled for a period of full-time service under such subchapter I of this chapter shall be deemed to be that received under the entrance salary for a grade GS–7 employee, and the annual rate of pay of a volunteer enrolled for a period of part-time service under such subchapter I of this chapter shall be deemed to be such entry salary or an appropriate portion thereof as determined by the Director” for “the monthly pay of a volunteer shall be deemed that received under the entrance salary for a grade GS–7 employee” and added cl. (5).
+1979—Subsec. (b). Pub. L. 96–143, § 11(a), substituted in provisions preceding cl. (1) “as volunteers for periods of full-time service, or, as the Director deems appropriate in accordance with regulations, for periods of part-time service of not less than 20 hours per week for not less than 26 consecutive weeks, under subchapter I of this chapter” for “in programs under subchapter I of this chapter for periods of service of at least one year” and in cl. (4)(A) “the annual rate of pay of a volunteer enrolled for a period of full-time service under such subchapter I shall be deemed to be that received under the entrance salary for a grade GS–7 employee, and the annual rate of pay of a volunteer enrolled for a period of part-time service under such subchapter I shall be deemed to be such entry salary or an appropriate portion thereof as determined by the Director” for “the monthly pay of a volunteer shall be deemed that received under the entrance salary for a grade GS–7 employee” and added cl. (5).
 
 Subsec. (c)(2). Pub. L. 96–143, § 18(c)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
@@ -1847,7 +1847,7 @@ By virtue of the authority vested in me by [section 301 of title 3](https://usco
 
 **(f) Evaluation of programs that relate to services that assist families caring for frail and disabled adult family members; evaluation of impact by volunteers on such programs; report to committees of Congress** Not later than December 31, 1988, the Director shall—
 
-(1) evaluate the impact of Corporation programs carried out under subchapter II of this chapter that relate to services that assist families caring for frail and disabled adult family members and shall include in such evaluation information on—
+(1) evaluate the impact of Corporation programs carried out under subchapter II that relate to services that assist families caring for frail and disabled adult family members and shall include in such evaluation information on—
 
   (A) the range and extent of service needs of, and the services provided to, family caregivers assisted by volunteers;
 
@@ -1857,7 +1857,7 @@ By virtue of the authority vested in me by [section 301 of title 3](https://usco
 
   (D) such other issues as may be relevant to provide services to assist family caregivers;
 
-(2) evaluate the impact that volunteers who participate in programs under parts B and C of subchapter II of this chapter without receiving a stipend have on such programs and shall include in such evaluation—
+(2) evaluate the impact that volunteers who participate in programs under parts B and C of subchapter II without receiving a stipend have on such programs and shall include in such evaluation—
 
   (A) information on adminstrative 22 So in original. Probably should be “administrative”. costs associated with such volunteers;
 
@@ -2009,7 +2009,7 @@ For the purposes of this chapter—
 
 (8) the term “foster grandparent” means a volunteer in the Foster Grandparent Program;
 
-(9) the term “Foster Grandparent Program” means the program established under part B of subchapter II of this chapter;
+(9) the term “Foster Grandparent Program” means the program established under part B of subchapter II;
 
 (10) except as provided in [section 5057 of this title](./chapter-066-domestic-volunteer-services.md#section-5057), the term “individual with a disability” has the meaning given the term in [section 705(20)(B) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section705/20/B&num=0&edition=prelim);
 
@@ -2017,17 +2017,17 @@ For the purposes of this chapter—
 
 (12) the term “national senior volunteer” means a volunteer in the National Senior Service Corps;
 
-(13) the term “National Senior Service Corps” means the programs established under parts A, B, C, and E of subchapter II of this chapter;
+(13) the term “National Senior Service Corps” means the programs established under parts A, B, C, and E of subchapter II;
 
-(14) the term “Retired and Senior Volunteer Program” means the program established under part A of subchapter II of this chapter;
+(14) the term “Retired and Senior Volunteer Program” means the program established under part A of subchapter II;
 
 (15) the term “retired or senior volunteer” means a volunteer in the Retired and Senior Volunteer Program;
 
 (16) the term “senior companion” means a volunteer in the Senior Companion Program;
 
-(17) the term “Senior Companion Program” means the program established under part C of subchapter II of this chapter;
+(17) the term “Senior Companion Program” means the program established under part C of subchapter II;
 
-(18) the terms “VISTA” and “Volunteers in Service to America” mean the program established under part A of subchapter I of this chapter;
+(18) the terms “VISTA” and “Volunteers in Service to America” mean the program established under part A of subchapter I;
 
 (19) the term “VISTA volunteer” means a volunteer in VISTA; and
 
@@ -2357,7 +2357,7 @@ Repeal effective Oct. 1, 1979, see section 105 of Pub. L. 95–510, set out as a
 
 <a id="section-5085"></a>
 ## § 5085. Administration and coordination
-**(a) In general** For each of the fiscal years 2010 through 2014, there are authorized to be appropriated for the administration of this chapter as provided for in subchapter IV of this chapter, 18 percent of the total amount appropriated under sections 5081 and 5082 of this title with respect to such year.
+**(a) In general** For each of the fiscal years 2010 through 2014, there are authorized to be appropriated for the administration of this chapter as provided for in subchapter IV, 18 percent of the total amount appropriated under sections 5081 and 5082 of this title with respect to such year.
 
 **(b) Evaluation** For each of the fiscal years 2010 through 2014, the Director is authorized to expend not less than 2½ percent, and not more than 5 percent, of the amount appropriated under subsection (a) of this section, for the purposes prescribed in [section 5056 of this title](./chapter-066-domestic-volunteer-services.md#section-5056).
 

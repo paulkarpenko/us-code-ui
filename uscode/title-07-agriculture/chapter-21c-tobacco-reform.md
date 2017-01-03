@@ -104,6 +104,9 @@ Sections 611 and 612, referred to in subsec. (a), are sections 611 and 612 of Pu
 
 Part I of subtitle B of title III of the Agricultural Adjustment Act of 1938, referred to in subsec. (c)(2), was classified to subpart I (§ 1311 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
+#### Effective Date
+Section applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as a note under [section 518 of this title](./chapter-21c-tobacco-reform.md#section-518).
+
 
 <a id="section-518b"></a>
 ## § 518b. Contract payments for producers of quota tobacco
@@ -154,6 +157,9 @@ Sections 611 and 612, referred to in subsec. (a), are sections 611 and 612 of Pu
 
 Part I of subtitle B of title III of the Agricultural Adjustment Act of 1938, referred to in subsec. (c)(2), was classified to subpart I (§ 1311 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
+#### Effective Date
+Section applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as a note under [section 518 of this title](./chapter-21c-tobacco-reform.md#section-518).
+
 
 <a id="section-518c"></a>
 ## § 518c. Administration
@@ -173,6 +179,9 @@ Part I of subtitle B of title III of the Agricultural Adjustment Act of 1938, re
 The Department of Agriculture Reorganization Act of 1994, referred to in subsec. (c), is title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209. Subtitle H of the Act is classified principally to subchapter VIII (§ 6991 et seq.) of chapter 98 of this title. For complete classification of this Act to the Code, see Tables.
 
 This title, referred to in subsec. (d), means title VI of Pub. L. 108–357, which enacted this chapter, amended sections 609, 1282, 1301, 1303, 1314h, 1361, 1371, 1373, 1375, 1378, 1379, 1428, 1433c–1, and 1441 of this title and [section 714c of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714c&num=0&edition=prelim), Commerce and Trade, repealed sections 511r, 515 to 515k, 625, 1311 to 1314, 1314–1, 1314b, 1314b–1, 1314b–2, 1314c to 1314j, 1315, 1316, 1445, 1445–1, and 1445–2 of this title, enacted provisions set out as notes under sections 515 and 518 of this title, and repealed provisions set out as a note under [section 1314c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1314c&num=0&edition=prelim). For complete classification of title VI to the Code, see Short Title note set out under [section 518 of this title](./chapter-21c-tobacco-reform.md#section-518) and Tables.
+
+#### Effective Date
+Section applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as a note under [section 518 of this title](./chapter-21c-tobacco-reform.md#section-518).
 
 
 <a id="section-518d"></a>
@@ -314,6 +323,9 @@ This title, referred to in subsec. (d), means title VI of Pub. L. 108–357, whi
 #### References in Text
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(2)(B), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1202&num=0&edition=prelim), Customs Duties.
 
+#### Effective Date
+Section applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as a note under [section 518 of this title](./chapter-21c-tobacco-reform.md#section-518).
+
 
 <a id="section-518e"></a>
 ## § 518e. Tobacco Trust Fund
@@ -360,11 +372,19 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(
 #### References in Text
 This title, referred to in subsec. (b)(2), means title VI of Pub. L. 108–357, which enacted this chapter, amended sections 609, 1282, 1301, 1303, 1314h, 1361, 1371, 1373, 1375, 1378, 1379, 1428, 1433c–1, and 1441 of this title and [section 714c of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714c&num=0&edition=prelim), Commerce and Trade, repealed sections 511r, 515 to 515k, 625, 1311 to 1314, 1314–1, 1314b, 1314b–1, 1314b–2, 1314c to 1314j, 1315, 1316, 1445, 1445–1, and 1445–2 of this title, enacted provisions set out as notes under sections 515 and 518 of this title, and repealed provisions set out as a note under [section 1314c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1314c&num=0&edition=prelim). For complete classification of title VI to the Code, see Short Title note set out under [section 518 of this title](./chapter-21c-tobacco-reform.md#section-518) and Tables.
 
+#### Effective Date
+Section applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as a note under [section 518 of this title](./chapter-21c-tobacco-reform.md#section-518).
+
 
 <a id="section-518f"></a>
 ## § 518f. Limitation on total expenditures
 
 The total amount expended by the Secretary from the Tobacco Trust Fund to make payments under sections 518a and 518b of this title and for the other authorized purposes of the Fund shall not exceed $10,140,000,000.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as a note under [section 518 of this title](./chapter-21c-tobacco-reform.md#section-518).
 
 
 <a id="section-519"></a>
@@ -390,6 +410,9 @@ The total amount expended by the Secretary from the Tobacco Trust Fund to make p
 #### References in Text
 Sections 106A and 106B of the Agricultural Act of 1949, referred to in text, were classified to sections 1445–1 and 1445–2, respectively, of this title prior to repeal by Pub. L. 108–357, title VI, § 612(a), Oct. 22, 2004, 118 Stat. 1523.
 
+#### Effective Date
+Section applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as a note under [section 518 of this title](./chapter-21c-tobacco-reform.md#section-518).
+
 
 <a id="section-519a"></a>
 ## § 519a. Regulations
@@ -409,3 +432,6 @@ Sections 106A and 106B of the Agricultural Act of 1949, referred to in text, wer
 
 #### References in Text
 This title, referred to in subsecs. (a) and (b), means title VI of Pub. L. 108–357, which enacted this chapter, amended sections 609, 1282, 1301, 1303, 1314h, 1361, 1371, 1373, 1375, 1378, 1379, 1428, 1433c–1, and 1441 of this title and [section 714c of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714c&num=0&edition=prelim), Commerce and Trade, repealed sections 511r, 515 to 515k, 625, 1311 to 1314, 1314–1, 1314b, 1314b–1, 1314b–2, 1314c to 1314j, 1315, 1316, 1445, 1445–1, and 1445–2 of this title, enacted provisions set out as notes under sections 515 and 518 of this title, and repealed provisions set out as a note under [section 1314c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1314c&num=0&edition=prelim). For complete classification of title VI to the Code, see Short Title note set out under [section 518 of this title](./chapter-21c-tobacco-reform.md#section-518) and Tables.
+
+#### Effective Date
+Section applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as a note under [section 518 of this title](./chapter-21c-tobacco-reform.md#section-518).

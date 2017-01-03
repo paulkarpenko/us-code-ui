@@ -2,7 +2,7 @@
 title: 40
 chapter: '5'
 heading: PROPERTY MANAGEMENT
-section_count: 62
+section_count: 66
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40&num=0&edition=prelim
 ---
@@ -102,7 +102,7 @@ In subsection (b)(2)(B), the words “subject to regulations” are substituted 
 
     (ii) any Alaska Native regional or village corporation established pursuant to the Alaska Native Claims Settlement Act ([43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.).
 
-  (C) The term “local educational agency” has the meaning given that term in section 8013 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7713](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7713&num=0&edition=prelim)).
+  (C) The term “local educational agency” has the meaning given that term in section 7013 of the Elementary and Secondary Education Act of 1965.
 
   (D) The term “institution of higher education” has the meaning given that term in section 101(a) of the Higher Education Act of 1965 ([20 U.S.C. 1001(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim)).
 
@@ -139,9 +139,13 @@ In subsection (b)(2), the words “the authority of” in 40:481(b)(2)(B) are om
 #### References in Text
 The Alaska Native Claims Settlement Act, referred to in subsec. (c)(3)(B)(ii), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
+Section 7013 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(3)(C), is classified to [section 7713 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7713&num=0&edition=prelim), Education.
+
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (c)(3)(C). Pub. L. 114–95 substituted “section 7013 of the Elementary and Secondary Education Act of 1965” for “section 8013 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7713](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7713&num=0&edition=prelim))”.
+
 2011—Subsec. (b)(1)(A)(i). Pub. L. 111–350, § 5(l)(7)(A), substituted “[section 8501(7) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section8501/7&num=0&edition=prelim)” for “section 5(3) of the Javits-Wagner-O’Day Act ([41 U.S.C. 48b(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section48b/3&num=0&edition=prelim))”.
 
 Subsec. (b)(1)(A)(ii). Pub. L. 111–350, § 5(l)(7)(B), substituted “disabled (as defined in [section 8501(6) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section8501/6&num=0&edition=prelim))” for “handicapped (as defined in section 5(4) of the Javits-Wagner-O’Day Act ([41 U.S.C. 48b(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section48b/4&num=0&edition=prelim)))”.
@@ -161,6 +165,9 @@ Subsec. (f). Pub. L. 111–263, § 3, added subsec. (f).
 2006—Subsec. (d). Pub. L. 109–364 added subsec. (d).
 
 2002—Subsec. (c). Pub. L. 107–347 added subsec. (c).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under [section 3601 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3601&num=0&edition=prelim), Public Printing and Documents.
@@ -391,9 +398,53 @@ Subsec. (b). Pub. L. 109–284, § 6(2), substituted “at” for “At” in he
 
 (3) promptly report excess property to the Administrator of General Services;
 
-(4) perform the care and handling of excess property; and
+(4) perform the care and handling of excess property;
 
-(5) transfer or dispose of excess property as promptly as possible in accordance with authority delegated and regulations prescribed by the Administrator.
+(5) transfer or dispose of excess property as promptly as possible in accordance with authority delegated and regulations prescribed by the Administrator;
+
+(6) develop current and future workforce projections so as to have the capacity to assess the needs of the Federal workforce regarding the use of real property;
+
+(7) establish goals and policies that will lead the executive agency to reduce excess property and underutilized property in the inventory of the executive agency;
+
+(8) submit to the Federal Real Property Council an annual report on all excess property that is real property and underutilized property in the inventory of the executive agency, including—
+
+  (A) whether underutilized property can be better utilized, including through collocation with other executive agencies or consolidation with other facilities; and
+
+  (B) the extent to which the executive agency believes that retention of the underutilized property serves the needs of the executive agency;
+
+(9) adopt workplace practices, configurations, and management techniques that can achieve increased levels of productivity and decrease the need for real property assets;
+
+(10) assess leased space to identify space that is not fully used or occupied;
+
+(11) on an annual basis and subject to the guidance of the Federal Real Property Council—
+
+  (A) conduct an inventory of real property under control of the executive agency; and
+
+  (B) make an assessment of each property, which shall include—
+
+    (i) the age and condition of the property;
+
+    (ii) the size of the property in square footage and acreage;
+
+    (iii) the geographical location of the property, including an address and description;
+
+    (iv) the extent to which the property is being utilized;
+
+    (v) the actual annual operating costs associated with the property;
+
+    (vi) the total cost of capital expenditures incurred by the Federal Government associated with the property;
+
+    (vii) sustainability metrics associated with the property;
+
+    (viii) the number of Federal employees and contractor employees and functions housed at the property;
+
+    (ix) the extent to which the mission of the executive agency is dependent on the property;
+
+    (x) the estimated amount of capital expenditures projected to maintain and operate the property during the 5-year period beginning on the date of enactment of this paragraph; and
+
+    (xi) any additional information required by the Administrator of General Services to carry out section 623; and
+
+(12) provide to the Federal Real Property Council and the Administrator of General Services the information described in paragraph (11)(B) to be used for the establishment and maintenance of the database described in section 21 of the Federal Assets Sale and Transfer Act of 2016.
 
 **(b) Required as Far as Practicable.—** Each executive agency, as far as practicable, shall—
 
@@ -402,6 +453,8 @@ Subsec. (b). Pub. L. 109–284, § 6(2), substituted “at” for “At” in he
 (2) transfer excess property under its control to other federal agencies and to organizations specified in [section 321(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section321/c/2&num=0&edition=prelim); and
 
 (3) obtain excess property from other federal agencies.
+
+**(c) Definition of Executive Agency.—** For the purpose of paragraphs (6) through (12) of subsection (a), the term “executive agency” shall have the meaning given the term “Federal agency” in section 621.
 
 ### Statutory Notes
 
@@ -414,6 +467,16 @@ Subsec. (b). Pub. L. 109–284, § 6(2), substituted “at” for “At” in he
 In clause (a)(2), the word “identify” is substituted for “determine which is” to eliminate unnecessary words.
 
 In clause (b)(1), the words “determined to be” are omitted as unnecessary.
+
+#### References in Text
+The date of enactment of this paragraph, referred to in subsec. (a)(11)(B)(x), is the date of enactment of Pub. L. 114–318, which was approved Dec. 16, 2016.
+
+Section 21 of the Federal Assets Sale and Transfer Act of 2016, referred to in subsec. (a)(12), is section 21 of Pub. L. 114–287, which is set out in a note under [section 1303 of this title](./chapter-013-public-property.md#section-1303).
+
+#### Amendments
+2016—Subsec. (a)(6) to (12). Pub. L. 114–318, § 6(a), added pars. (6) to (12).
+
+Subsec. (c). Pub. L. 114–318, § 6(b), added subsec. (c).
 
 #### OMB Report
 Pub. L. 109–396, title IV, § 408, Dec. 15, 2006, 120 Stat. 2720, provided that: “(a) OMB Report on Surplus and Excess Property.—Not later than 6 months after the date of enactment of this Act [Dec. 15, 2006], the Director of the Office of Management and Budget shall submit a report on surplus and excess government property to Congress including—“(1) the total value and amount of surplus and excess government property, provided in the aggregate, as well as totaled by agency; and “(2) a list of the 100 most eligible surplus government properties for sale and how much they are worth. “(b) Data Sharing Among Federal Agencies.—Not later than 6 months after the date of enactment of this Act [Dec. 15, 2006], the Director of the Office of Management and Budget shall—“(1) develop and implement procedures requiring Federal agencies to share data on surplus and excess Federal real property under the jurisdiction of each agency; and “(2) report to Congress on the development and implementation of such procedures.”
@@ -716,6 +779,9 @@ In subsection (e)(3), the words “A report” are substituted for “the annual
 #### Amendments
 2011—Subsec. (f). Pub. L. 111–350 substituted “Section 6101(b)–(d) of title 41” for “Section 3709 of the Revised Statutes ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))”.
 
+#### Disposal of Surplus Property to Local Governments and Nonprofit Institutions
+Act Oct. 3, 1944, ch. 479, § 13, 58 Stat. 770; Sept. 18, 1945, ch. 368, § 2, 59 Stat. 533; May 3, 1946, ch. 248, § 5, 60 Stat. 169; 1947 Reorg. Plan No. 1, § 501, eff. July 1, 1947, 12 F.R. 4535, 61 Stat. 952; July 30, 1947, ch. 404, 61 Stat. 678; June 10, 1948, ch. 433, §§ 1, 2, 62 Stat. 350; June 29, 1948, ch. 727, 62 Stat. 1103; June 30, 1949, ch. 288, title I, § 105, title VI, § 602(a)(1), formerly title V, § 502(a)(1), 63 Stat. 381, 399, renumbered Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583; amended Oct. 1, 1949, ch. 589, §§ 1, 5, 63 Stat. 701; Pub. L. 85–726, title XIV, § 1402(c), Aug. 23, 1958, 72 Stat. 807; Pub. L. 87–90, July 20, 1961, 75 Stat. 211; Pub. L. 91–258, title I, § 52(b)(6), May 21, 1970, 84 Stat. 235; Pub. L. 91–485, § 5, Oct. 22, 1970, 84 Stat. 1085; Pub. L. 92–362, § 2, Aug. 4, 1972, 86 Stat. 504; Pub. L. 97–248, title V, § 524(c), Sept. 3, 1982, 96 Stat. 696; Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, provided that: “(a) to (c) [Repealed. June 30, 1949, ch. 288, title VI, § 602(a)(1), formerly title V, § 502(a)(1), 63 Stat. 399, renumbered Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583.] “(d) Whenever any State or political subdivision thereof, or any State or Government agency or instrumentality certifies to the Administrator of General Services that any power transmission line determined to be surplus property under the provisions of this Act [former 50 U.S.C. App. 1611 et seq.] is needful for or adaptable to the requirements of any public or cooperative power project, such line and the right-of-way acquired for its construction shall not be sold, leased for more than one year, or otherwise disposed of, except as provided in section 12 [former 50 U.S.C. App. 1621] or this section, unless specifically authorized by Act of Congress. “(e), (f) [Repealed. June 30, 1949, ch. 288, title VI, § 602(a)(1), formerly title V, § 502(a)(1), 63 Stat. 399, renumbered Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583.] “(g) [Repealed. Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379.]”
+
 
 <a id="section-546"></a>
 ## § 546. Contractor inventories
@@ -825,7 +891,7 @@ The Maritime Administration shall dispose of surplus vessels of 1,500 gross tons
 
     (vi) a radio or television station licensed by the Federal Communications Commission as an educational radio or educational television station;
 
-    (vii) a museum attended by the public;
+    (vii) a museum attended by the public, and, for purposes of determining whether a museum is attended by the public, the Administrator shall consider a museum to be public if the nonprofit educational or public health institution or organization, at minimum, accedes to any request submitted for access during business hours;
 
     (viii) a library serving free all residents of a community, district, State, or region; or
 
@@ -950,6 +1016,8 @@ In subsection (e)(2)(B), the words “In the event that a State legislature has 
 In subsection (f)(1)(B)–(D) and (4)(B), the words “Secretary of Education” and “Secretary of Health and Human Services” are substituted for “Secretary of Health, Education, and Welfare” because of sections 301(a)(2)(P) and (b), 507, and 509(b) of the Department of Education Organization Act (20:3441(a)(2)(P) and (b), 3507, and 3508(b)).
 
 #### Amendments
+2016—Subsec. (c)(3)(B)(vii). Pub. L. 114–287 amended cl. (vii) generally. Prior to amendment, cl. (vii) read as follows: “a museum attended by the public;”.
+
 2014—Subsec. (c)(3)(B)(ix). Pub. L. 113–287 substituted “[section 305101(4) of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section305101/4&num=0&edition=prelim)” for “section 308(e)(2) of the National Historic Preservation Act ([16 U.S.C. 470w–7(e)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–7/e/2&num=0&edition=prelim))” and “[section 305103 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section305103&num=0&edition=prelim)” for “subsection (b) of that section”.
 
 2013—Subsec. (c)(3)(B)(viii), (x). Pub. L. 113–26, § 2(2), inserted “or” at end of cl. (viii) and struck out cl. (x) which read as follows: “an organization whose—
@@ -1476,6 +1544,31 @@ The Federal Trade Commission Act, referred to in subsec. (a)(3), is act Sept. 26
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 114–287, § 20, Dec. 16, 2016, 130 Stat. 1477, which Act is set out as a note under [section 1303 of this title](./chapter-013-public-property.md#section-1303), provided that, effective upon the termination of the Public Buildings Reform Board pursuant to section 10 of Pub. L. 114–287 and not applicable to proceeds from transactions conducted under section 14 of Pub. L. 114–287, this section is amended by striking subsections (a) and (b) and inserting the following:
+
+(a) Proceeds From Transfer or Sale of Real Property.—
+
+(1) Deposit of net proceeds.—Net proceeds described in subsection (c) shall be deposited into the appropriate real property account of the agency that had custody and accountability for the real property at the time the real property is determined to be excess.
+
+(2) Expenditure of net proceeds.—The net proceeds deposited pursuant to paragraph (1) may only be expended, as authorized in annual appropriations Acts, for activities described in sections 543 and 545, including paying costs incurred by the General Services Administration for any disposal-related activity authorized by this chapter.
+
+(3) Deficit reduction.—Any net proceeds described in subsection (c) from the sale, lease, or other disposition of surplus real property that are not expended under paragraph (2) shall be used for deficit reduction. Any net proceeds not obligated within 3 years after the date of deposit and not expended within 5 years after such date shall be deposited as miscellaneous receipts in the Treasury.
+
+(b) Effect on Other Sections.—Nothing in this section is intended to affect section 572(b), 573, or 574.
+
+(c) Net Proceeds.—The net proceeds described in this subsection are proceeds under this chapter, less expenses of the transfer or disposition as provided in section 572(a), from a—
+
+(1) transfer of excess real property to a Federal agency for agency use; or
+
+(2) sale, lease, or other disposition of surplus real property.
+
+Pub. L. 114–318, § 7(c), Dec. 16, 2016, 130 Stat. 1616, provided that, effective as if enacted as part of Pub. L. 114–287, this section is amended by adding at the end the following:
+
+(d) Savings Provision.—Nothing in this section modifies, alters, or repeals any other provision of Federal law directing the use of retained proceeds relating to the sale of property of an agency.
+
+See 2016 Amendment notes below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -1483,6 +1576,18 @@ The Federal Trade Commission Act, referred to in subsec. (a)(3), is act Sept. 26
 | 571(b) | 40:485a. | June 8, 1896, ch. 373, 29 Stat. 268; Oct. 31, 1951, ch. 654, § 2(20), 65 Stat. 707; Pub. L. 104–316, title I, § 120(a), Oct. 19, 1996, 110 Stat. 3836. |
 
 In subsection (b), the words “whether proceeds are deposited as miscellaneous receipts or to the credit of an appropriation as authorized by law” are substituted for “either as miscellaneous receipts on account of ‘proceeds of Government property’ or to the credit of the appropriations to which such proceeds are by law authorized to be made . . . either as miscellaneous receipts or to the credit of such appropriations, as the case may be” to eliminate unnecessary words.
+
+#### Amendments
+2016—Pub. L. 114–287 added subsecs. (a) to (c) and struck out former subsecs. (a) and (b) which related to deposit in the Treasury as miscellaneous receipts of net proceeds from transfer or other disposition of surplus property and payment of expenses of sale before deposit.
+
+Subsec. (d). Pub. L. 114–318 added subsec. (d).
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–318, § 7(c)(2), Dec. 16, 2016, 130 Stat. 1617, provided that: “The amendments made by this subsection [amending this section] shall take effect as if enacted as part of the applicable Act [Pub. L. 114–287].”
+
+Pub. L. 114–318, § 7(e), Dec. 16, 2016, 130 Stat. 1617, provided that: “Except as provided in subsection (c)(2) [set out above], this section [amending this section and provisions set out as a note under [section 1303 of this title](./chapter-013-public-property.md#section-1303)] and the amendments made by this section shall take effect immediately after the enactment of the applicable Act [Pub. L. 114–287].”
+
+Amendment by Pub. L. 114–287 effective upon the termination of the Public Buildings Reform Board pursuant to section 10 of Pub. L. 114–287 and not applicable to proceeds from transactions conducted under section 14 of Pub. L. 114–287, see section 20(b) of Pub. L. 114–287, set out in a note under [section 1303 of this title](./chapter-013-public-property.md#section-1303).
 
 
 <a id="section-572"></a>
@@ -2709,3 +2814,243 @@ The words “section 1343, 1344, or 1349(b) of title 31” are substituted for �
 
 #### Amendments
 2006—Pub. L. 109–284 inserted “of title 31” after “under section 1343, 1344, or 1349(b)” and “of title 18” after “under section 641”.
+
+
+<a id="section-621"></a>
+## § 621. Definitions
+
+In this subchapter:
+
+(1) **Administrator.—** — The term “Administrator” means the Administrator of General Services.
+
+(2) **Council.—** — The term “Council” means the Federal Real Property Council established by section 623(a).
+
+(3) **Director.—** — The term “Director” means the Director of the Office of Management and Budget.
+
+(4) **Federal agency.—** — The term “Federal agency” means—
+
+  (A) an executive department or independent establishment in the executive branch of the Government; or
+
+  (B) a wholly owned Government corporation (other than the United States Postal Service).
+
+(5) **Field office.—** — The term “field office” means any office of a Federal agency that is not the headquarters office location for the Federal agency.
+
+(6) **Postal property.—** — The term “postal property” means any property owned or leased by the United States Postal Service.
+
+(7) **Public-private partnership.—** — The term “public-private partnership” means any partnership or working relationship between a Federal agency and a corporation, individual, or nonprofit organization for the purpose of financing, constructing, operating, managing, or maintaining one or more Federal real property assets.
+
+(8) **Underutilized property.—** — The term “underutilized property” means a portion or the entirety of any real property, including any improvements, that is used—
+
+  (A) irregularly or intermittently by the accountable Federal agency for program purposes of the Federal agency; or
+
+  (B) for program purposes that can be satisfied only with a portion of the property.
+
+### Statutory Notes
+
+#### Purpose
+Pub. L. 114–318, § 2, Dec. 16, 2016, 130 Stat. 1608, provided that: “The purpose of this Act [see section 1 of Pub. L. 114–318, set out as a Short Title of 2016 Amendment note under [section 101 of this title](./chapter-1-1-another-chapter-1-is-set-out-in-subtitle-v-of-this-title-chapter-1-chapter-1-1-another-chapter-1-is-set-out-in-subtitle-v-of-this-title-chapter-1.md#section-101)] is to increase the efficiency and effectiveness of the Federal Government in managing property of the Federal Government by— “(1) requiring the United States Postal Service to take appropriate measures to better manage and account for property; “(2) providing for increased collocation with Postal Service facilities and guidance on Postal Service leasing practices; and “(3) establishing a Federal Real Property Council to develop guidance on and ensure the implementation of strategies for better managing Federal property.”
+
+
+<a id="section-622"></a>
+## § 622. Collocation among United States Postal Service properties
+**(a) Identification of Postal Property.—** Each year, the Postmaster General shall—
+
+(1) identify a list of postal properties with space available for use by Federal agencies; and
+
+(2) not later than September 30, submit the list to—
+
+  (A) the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+  (B) the Committee on Oversight and Government Reform of the House of Representatives.
+
+**(b) Voluntary Identification of Postal Property.—** Each year, the Postmaster General may submit the list under subsection (a) to the Council.
+
+**(c) Submission of List of Postal Properties to Federal Agencies.—**
+
+(1) **In general.—** — Not later than 30 days after the completion of a list under subsection (a), the Council shall provide the list to each Federal agency.
+
+(2) **Review by federal agencies.—** — Not later than 90 days after the receipt of the list submitted under paragraph (1), each Federal agency shall—
+
+  (A) review the list;
+
+  (B) review properties under the control of the Federal agency; and
+
+  (C) recommend collocations if appropriate.
+
+**(d) Terms of Collocation.—** On approval of the recommendations under subsection (c) by the Postmaster General and the applicable agency head, the Federal agency or appropriate landholding entity may work with the Postmaster General to establish appropriate terms of a lease for each postal property.
+
+**(e) Rule of Construction.—** Nothing in this section exceeds, modifies, or supplants any other Federal law relating to any competitive bidding process governing the leasing of postal property.
+
+
+<a id="section-623"></a>
+## § 623. Establishment of a Federal Real Property Council
+**(a) Establishment.—** There is established a Federal Real Property Council.
+
+**(b) Purpose.—** The purpose of the Council shall be—
+
+(1) to develop guidance and ensure implementation of an efficient and effective real property management strategy;
+
+(2) to identify opportunities for the Federal Government to better manage property and assets of the Federal Government; and
+
+(3) to reduce the costs of managing property of the Federal Government, including operations, maintenance, and security associated with Federal property.
+
+**(c) Composition.—**
+
+(1) **In general.—** — The Council shall be composed exclusively of—
+
+  (A) the senior real property officers of each Federal agency;
+
+  (B) the Deputy Director for Management of the Office of Management and Budget;
+
+  (C) the Controller of the Office of Management and Budget;
+
+  (D) the Administrator; and
+
+  (E) any other full-time or permanent part-time Federal officials or employees, as the Chairperson determines to be necessary.
+
+(2) **Chairperson.—** — The Deputy Director for Management of the Office of Management and Budget shall serve as Chairperson of the Council.
+
+(3) **Executive director.—**
+
+  (A) *In general.—* — The Chairperson shall designate an Executive Director to assist in carrying out the duties of the Council.
+
+  (B) *Qualifications.—* — The Executive Director shall—
+
+    (i) be appointed from among individuals who have substantial experience in the areas of commercial real estate and development, real property management, and Federal operations and management; and
+
+    (ii) hold no outside employment that may conflict with duties inherent to the position.
+
+**(d) Meetings.—**
+
+(1) **In general.—** — The Council shall meet subject to the call of the Chairperson.
+
+(2) **Minimum.—** — The Council shall meet not fewer than 4 times each year.
+
+**(e) Duties.—** The Council, in consultation with the Director and the Administrator, shall—
+
+(1) not later than 1 year after the date of enactment of this subchapter, establish a real property management plan template, to be updated annually, which shall include performance measures, specific milestones, measurable savings, strategies, and Government-wide goals based on the goals established under section 524(a)(7) to reduce surplus property or to achieve better utilization of underutilized property, and evaluation criteria to determine the effectiveness of real property management that are designed—
+
+  (A) to enable Congress and heads of Federal agencies to track progress in the achievement of property management objectives on a Government-wide basis;
+
+  (B) to improve the management of real property; and
+
+  (C) to allow for comparison of the performance of Federal agencies against industry and other public sector agencies;
+
+(2) develop utilization rates consistent throughout each category of space, considering the diverse nature of the Federal portfolio and consistent with nongovernmental space use rates;
+
+(3) develop a strategy to reduce the reliance of Federal agencies on leased space for long-term needs if ownership would be less costly;
+
+(4) provide guidance on eliminating inefficiencies in the Federal leasing process;
+
+(5) compile a list of field offices that are suitable for collocation with other property assets;
+
+(6) research best practices regarding the use of public-private partnerships to manage properties and develop guidelines for the use of those partnerships in the management of Federal property; and
+
+(7) not later than 1 year after the date of enactment of this subchapter and annually during the 4-year period beginning on the date that is 1 year after the date of enactment of this subchapter and ending on the date that is 5 years after the date of enactment of this subchapter, the Council shall submit to the Director a report that contains—
+
+  (A) a list of the remaining excess property that is real property, surplus property that is real property, and underutilized property of each Federal agency;
+
+  (B) the progress of the Council toward developing guidance for Federal agencies to ensure that the assessment required under section 524(a)(11)(B) is carried out in a uniform manner;
+
+  (C) the progress of Federal agencies toward achieving the goals established under section 524(a)(7);
+
+  (D) if necessary, recommendations for legislation or statutory reforms that would further the goals of the Council, including streamlining the disposal of excess or underutilized real property; and
+
+  (E) a list of entities that are consulted under subsection (f).
+
+**(f) Consultation.—** In carrying out the duties described in subsection (e), the Council shall also consult with representatives of—
+
+(1) State, local, and tribal authorities, as appropriate, and other affected communities; and
+
+(2) appropriate private sector entities and nongovernmental organizations that have expertise in areas of—
+
+  (A) commercial real estate and development;
+
+  (B) government management and operations;
+
+  (C) space planning;
+
+  (D) community development, including transportation and planning;
+
+  (E) historic preservation; and
+
+  (F) providing housing to the homeless population.
+
+**(g) Council Resources.—** The Director and the Administrator shall provide staffing, and administrative support for the Council, as appropriate.
+
+**(h) Access to Report.—** The Council shall provide, on an annual basis, the real property management plan template required under subsection (e)(1) and the reports required under subsection (e)(7) to—
+
+(1) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+(2) the Committee on Environment and Public Works of the Senate;
+
+(3) the Committee on Oversight and Government Reform of the House of Representatives;
+
+(4) the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+(5) the Comptroller General of the United States.
+
+**(i) Exclusions.—** In this section, surplus property shall not include—
+
+(1) any military installation (as defined in section 2910 of the Defense Base Closure and Realignment Act of 1990 ([10 U.S.C. 2687](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim) note; Public Law 101–510));
+
+(2) any property that is excepted from the definition of the term “property” under section 102;
+
+(3) Indian and native Eskimo property held in trust by the Federal Government as described in section 3301(a)(5)(C)(iii);
+
+(4) real property operated and maintained by the Tennessee Valley Authority pursuant to the Tennessee Valley Authority Act of 1933 ([16 U.S.C. 831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section831&num=0&edition=prelim) et seq.);
+
+(5) any real property the Director excludes for reasons of national security;
+
+(6) any public lands (as defined in section 203 of the Public Lands Corps Act of 1993 ([16 U.S.C. 1722](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1722&num=0&edition=prelim))) administered by—
+
+  (A) the Secretary of the Interior, acting through—
+
+    (i) the Director of the Bureau of Land Management;
+
+    (ii) the Director of the National Park Service;
+
+    (iii) the Commissioner of Reclamation; or
+
+    (iv) the Director of the United States Fish and Wildlife Service; or
+
+  (B) the Secretary of Agriculture, acting through the Chief of the Forest Service; or
+
+(7) any property operated and maintained by the United States Postal Service.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this subchapter, referred to in subsec. (e)(1), (7), is the date of enactment of Pub. L. 114–318, which was approved Dec. 16, 2016.
+
+The Tennessee Valley Authority Act of 1933, referred to in subsec. (i)(4), is act May 18, 1933, ch. 32, 48 Stat. 58, which is classified generally to chapter 12A (§ 831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 831 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section831&num=0&edition=prelim) and Tables.
+
+
+<a id="section-624"></a>
+## § 624. Information on certain leasing authorities
+**(a) In General.—** Except as provided in subsection (b), not later than December 31 of each year following the date of enactment of this subchapter, a Federal agency with independent leasing authority shall submit to the Council a list of all leases, including operating leases, in effect on the date of enactment of this subchapter that includes—
+
+(1) the date on which each lease was executed;
+
+(2) the date on which each lease will expire;
+
+(3) a description of the size of the space;
+
+(4) the location of the property;
+
+(5) the tenant agency;
+
+(6) the total annual rental payment; and
+
+(7) the amount of the net present value of the total estimated legal obligations of the Federal Government over the life of the contract.
+
+**(b) Exception.—** Subsection (a) shall not apply to—
+
+(1) the United States Postal Service; or
+
+(2) any other property the Director excludes from subsection (a) for reasons of national security.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this subchapter, referred to in subsec. (a), is the date of enactment of Pub. L. 114–318, which was approved Dec. 16, 2016.

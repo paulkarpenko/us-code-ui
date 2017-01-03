@@ -2,7 +2,7 @@
 title: 50
 chapter: '32'
 heading: CHEMICAL AND BIOLOGICAL WARFARE PROGRAM
-section_count: 20
+section_count: 22
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -206,7 +206,7 @@ Section, Pub. L. 95–79, title VIII, § 808, July 30, 1977, 91 Stat. 334; Pub. 
 
 (2) any other testing of a chemical agent or biological agent on human subjects.
 
-**(b) Exceptions** Subject to subsections (c), (d), and (e) of this section, the prohibition in subsection (a) of this section does not apply to a test or experiment carried out for any of the following purposes:
+**(b) Exceptions** Subject to subsections (c), (d), and (e), the prohibition in subsection (a) does not apply to a test or experiment carried out for any of the following purposes:
 
 (1) Any peaceful purpose that is related to a medical, therapeutic, pharmaceutical, agricultural, industrial, or research activity.
 
@@ -214,7 +214,7 @@ Section, Pub. L. 95–79, title VIII, § 808, July 30, 1977, 91 Stat. 334; Pub. 
 
 (3) Any law enforcement purpose, including any purpose related to riot control.
 
-**(c) Informed consent required** The Secretary of Defense may conduct a test or experiment described in subsection (b) of this section only if informed consent to the testing was obtained from each human subject in advance of the testing on that subject.
+**(c) Informed consent required** The Secretary of Defense may conduct a test or experiment described in subsection (b) only if informed consent to the testing was obtained from each human subject in advance of the testing on that subject.
 
 **(d) Prior notice to Congress** Not later than 30 days after the date of final approval within the Department of Defense of plans for any experiment or study to be conducted by the Department of Defense (whether directly or under contract) involving the use of human subjects for the testing of a chemical agent or a biological agent, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report setting forth a full accounting of those plans, and the experiment or study may then be conducted only after the end of the 30-day period beginning on the date such report is received by those committees.
 
@@ -247,7 +247,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 (2) If the Secretary of Defense determines at any time that there will be a delay in meeting the requirement in paragraph (1) for the completion of the destruction of chemical weapons by the stockpile elimination deadline, the Secretary shall immediately notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of that projected delay.
 
-(3) For purposes of this section, the term “stockpile elimination deadline” means the deadline established by the Chemical Weapons Convention, but not later than December 31, 2017.
+(3) For purposes of this section, the term “stockpile elimination deadline” means the deadline established by the Chemical Weapons Convention, but not later than December 31, 2023.
 
 **(c) Initiation of demilitarization operations** The Secretary of Defense may not initiate destruction of the chemical munitions stockpile stored at a site until the following support measures are in place:
 
@@ -281,7 +281,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
   (B) Additionally, the Secretary may provide funds through cooperative agreements with State and local governments, and with tribal organizations, for the purpose of assisting them in processing, approving, and overseeing permits and licenses necessary for the construction and operation of facilities to carry out this section. The Secretary shall ensure that funds provided through such a cooperative agreement are used only for the purpose set forth in the preceding sentence.
 
-  (C) In this paragraph, the term “tribal organization” has the meaning given that term in [section 450b(l) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/l&num=0&edition=prelim).
+  (C) In this paragraph, the term “tribal organization” has the meaning given that term in section 5304(l) of title 25.
 
 (2)
 
@@ -510,6 +510,8 @@ Pub. L. 109–163, § 921, which directed amendment of subsec. (c)(4) of this se
 Section was enacted as part of the Department of Defense Authorization Act, 1986, and not as part of Pub. L. 91–121, title IV, § 409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 
 #### Amendments
+2015—Subsec. (b)(3). Pub. L. 114–92 substituted “December 31, 2023” for “December 31, 2017”.
+
 2013—Subsec. (i)(2)(E). Pub. L. 112–239, § 1421(a)(1), added subpar. (E).
 
 Subsec. (j)(2)(E). Pub. L. 112–239, § 1421(a)(2), added subpar. (E).
@@ -625,6 +627,9 @@ Subsec. (k). Pub. L. 100–456, § 118(b), amended subsec. (k) generally. Prior 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–163, div. A, title IX, § 921(b), Jan. 6, 2006, 119 Stat. 3410, provided that: “The amendments made by subsection (a) [amending this section]— “(1) take effect as of December 5, 1991; and “(2) apply with respect to any cooperative agreement entered into on or after that date.”
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsecs. (i) and (j) of this section requiring submittal of annual and semiannual reports to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim), Armed Forces.
+
 #### Sense of Congress on Completion of Destruction of United States Chemical Weapons Stockpile
 Pub. L. 110–181, div. A, title IX, § 922, Jan. 28, 2008, 122 Stat. 282, as amended by Pub. L. 111–383, div. A, title XIV, § 1421(b)(10), Jan. 7, 2011, 124 Stat. 4420, provided that: “(a) Findings.—Congress makes the following findings:“(1) The Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, done at Paris on January 13, 1993 (commonly referred to as the ‘Chemical Weapons Convention’), requires that destruction of the entire United States chemical weapons stockpile be completed by not later than April 29, 2007. “(2) In 2006, under the terms of the Chemical Weapons Convention, the United States requested and received a one-time, 5-year extension of its chemical weapons destruction deadline to April 29, 2012. “(3) On April 10, 2006, the Secretary of Defense notified Congress that the United States would not meet even the extended deadline under the Chemical Weapons Convention for destruction of the United States chemical weapons stockpile, but would ‘continue working diligently to minimize the time to complete destruction without sacrificing safety and security’ and would also ‘continue requesting resources needed to complete destruction as close to April 2012 as practicable’. “(4) The United States chemical demilitarization program has met its one percent, 20 percent, and extended 45 percent destruction deadlines under the Chemical Weapons Convention. “(5) Destroying the remaining stockpile of United States chemical weapons is imperative for public safety and homeland security, and doing so by April 2012, in accordance with the current destruction deadline provided under the Chemical Weapons Convention, is required by United States law. “(6) The elimination of chemical weapons anywhere they exist in the world, and the prevention of their proliferation, is of utmost importance to the national security of the United States. “(7) Section 921(b)(3) of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2359) contained a sense of Congress urging the Secretary of Defense to ensure the elimination of the United States chemical weapons stockpile in the shortest time possible, consistent with the requirement to protect public health, safety, and the environment. “(8) Section 921(b)(4) of that Act contained a sense of Congress urging the Secretary of Defense to propose a credible treatment and disposal process with the support of affected communities. In this regard, any such process should provide for sufficient communication and consultation between representatives of the Department of Defense and representatives of affected States and communities. “(b) Sense of Congress.—It is the sense of Congress that—“(1) the United States is, and must remain, committed to making every effort to safely dispose of its entire chemical weapons stockpile by April 2012, the current destruction deadline provided under the Chemical Weapons Convention, or as soon thereafter as possible, and must carry out all of its other obligations under the Convention; and “(2) the Secretary of Defense should make every effort to plan for, and to request in the annual budget of the President submitted to Congress adequate funding to complete, the elimination of the United States chemical weapons stockpile in accordance with United States obligations under the Chemical Weapons Convention and in a manner that will protect public health, safety, and the environment, as required by law. “[(c) Repealed. Pub. L. 111–383, div. A, title XIV, § 1421(b)(10), Jan. 7, 2011, 124 Stat. 4420.]”
 
@@ -702,11 +707,11 @@ Congressional defense committees means the Committees on Armed Services and Appr
 
 (1) The budget for the Department of Defense for each fiscal year after fiscal year 1994 shall reflect a coordinated and integrated chemical and biological defense program for the Department of Defense.
 
-(2) Funding requests for the program (other than for activities under the program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2) of this section) shall be set forth in the budget of the Department of Defense for each fiscal year as a separate account, with a single program element for each of the categories of research, development, test, and evaluation, acquisition, and military construction. Amounts for military construction projects may be set forth in the annual military construction budget. Funds for military construction for the program in the military construction budget shall be set forth separately from other funds for military construction projects. Funding requests for the program may not be included in the budget accounts of the military departments.
+(2) Funding requests for the program (other than for activities under the program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2)) shall be set forth in the budget of the Department of Defense for each fiscal year as a separate account, with a single program element for each of the categories of research, development, test, and evaluation, acquisition, and military construction. Amounts for military construction projects may be set forth in the annual military construction budget. Funds for military construction for the program in the military construction budget shall be set forth separately from other funds for military construction projects. Funding requests for the program may not be included in the budget accounts of the military departments.
 
-(3) The program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2) of this section shall be set forth as a separate program element in the budget of that agency.
+(3) The program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2) shall be set forth as a separate program element in the budget of that agency.
 
-(4) All funding requirements for the chemical and biological defense program shall be reviewed by the Secretary of the Army as executive agent pursuant to subsection (c) of this section.
+(4) All funding requirements for the chemical and biological defense program shall be reviewed by the Secretary of the Army as executive agent pursuant to subsection (c).
 
 **(e) Management review and report**
 
@@ -740,7 +745,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 Subsec. (d)(1). Pub. L. 104–201, § 228(b)(1), substituted “program for the Department of Defense” for “program for the military departments”.
 
-Subsec. (d)(2). Pub. L. 104–201, § 228(b)(2), in first sentence, inserted “(other than for activities under the program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2) of this section)” after “requests for the program”.
+Subsec. (d)(2). Pub. L. 104–201, § 228(b)(2), in first sentence, inserted “(other than for activities under the program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2))” after “requests for the program”.
 
 Subsec. (d)(3), (4). Pub. L. 104–201, § 228(b)(3), (4), added par. (3) and redesignated former par. (3) as (4).
 
@@ -814,12 +819,15 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 1997—Subsec. (b)(9). Pub. L. 105–85 added par. (9).
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim), Armed Forces.
+
 
 <a id="section-1524"></a>
 ## § 1524. Agreements to provide support to vaccination programs of Department of Health and Human Services
 **(a) Agreements authorized** The Secretary of Defense may enter into agreements with the Secretary of Health and Human Services to provide support for vaccination programs of the Secretary of Health and Human Services in the United States through use of the excess peacetime biological weapons defense capability of the Department of Defense.
 
-**(b) Report** Not later than February 1, 1994, the Secretary of Defense shall submit to the congressional defense committees a report on the feasibility of providing Department of Defense support for vaccination programs under subsection (a) of this section and shall identify resource requirements that are not within the Department’s capability.
+**(b) Report** Not later than February 1, 1994, the Secretary of Defense shall submit to the congressional defense committees a report on the feasibility of providing Department of Defense support for vaccination programs under subsection (a) and shall identify resource requirements that are not within the Department’s capability.
 
 ### Statutory Notes
 
@@ -834,7 +842,7 @@ Congressional defense committees means the Committees on Armed Services and the 
 ## § 1525. Assistance for facilities subject to inspection under Chemical Weapons Convention
 **(a) Assistance authorized** Upon the request of the owner or operator of a facility that is subject to a routine inspection or a challenge inspection under the Chemical Weapons Convention, the Secretary of Defense may provide technical assistance to that owner or operator related to compliance of that facility with the Convention. Any such assistance shall be provided through the On-Site Inspection Agency of the Department of Defense.
 
-**(b) Reimbursement requirement** The Secretary may provide assistance under subsection (a) of this section only to the extent that the Secretary determines that the Department of Defense will be reimbursed for costs incurred in providing the assistance. The United States National Authority may provide such reimbursement from amounts available to it. Any such reimbursement shall be credited to amounts available for the On-Site Inspection Agency.
+**(b) Reimbursement requirement** The Secretary may provide assistance under subsection (a) only to the extent that the Secretary determines that the Department of Defense will be reimbursed for costs incurred in providing the assistance. The United States National Authority may provide such reimbursement from amounts available to it. Any such reimbursement shall be credited to amounts available for the On-Site Inspection Agency.
 
 **(c) Definitions** In this section:
 
@@ -854,9 +862,9 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 <a id="section-1526"></a>
 ## § 1526. Effective use of resources for nonproliferation programs
-**(a) Prohibition** Except as provided in subsection (b) of this section, no assistance may be provided by the United States Government to any person who is involved in the research, development, design, testing, or evaluation of chemical or biological weapons for offensive purposes.
+**(a) Prohibition** Except as provided in subsection (b), no assistance may be provided by the United States Government to any person who is involved in the research, development, design, testing, or evaluation of chemical or biological weapons for offensive purposes.
 
-**(b) Exception** The prohibition contained in subsection (a) of this section shall not apply to any activity conducted pursuant to title V of the National Security Act of 1947 [[50 U.S.C. 3091](./chapter-044-national-security.md#section-3091) et seq.].
+**(b) Exception** The prohibition contained in subsection (a) shall not apply to any activity conducted pursuant to title V of the National Security Act of 1947 [[50 U.S.C. 3091](./chapter-044-national-security.md#section-3091) et seq.].
 
 ### Statutory Notes
 
@@ -865,3 +873,95 @@ The National Security Act of 1947, referred to in subsec. (b), is act July 26, 1
 
 #### Codification
 Section was enacted as part of the Arms Control and Nonproliferation Act of 1999, and also as part of the Arms Control, Nonproliferation, and Security Assistance Act of 1999, and the Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years, 2000 and 2001, and not as part of Pub. L. 91–121, title IV, § 409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
+
+
+<a id="section-1527"></a>
+## § 1527. Improved biosafety for handling of select agents and toxins
+**(a) Quality Control and Quality Assurance Program** The Secretary of Defense, acting through the executive agent for the biological select agent and toxin biosafety program of the Department of Defense, shall carry out a program to implement certain quality control and quality assurance measures at each covered facility.
+
+**(b) Quality control and quality assurance measures** Subject to subsection (c), the quality control and quality assurance measures implemented at each covered facility under subsection (a) shall include the following:
+
+(1) Designation of an external manager to oversee quality assurance and quality control.
+
+(2) Environmental sampling and inspection.
+
+(3) Production procedures that prohibit operations where live biological select agents and toxins are used in the same laboratory where viability testing is conducted.
+
+(4) Production procedures that prohibit work on multiple organisms or multiple strains of one organism within the same biosafety cabinet.
+
+(5) A video surveillance program that uses video monitoring as a tool to improve laboratory practices in accordance with regulatory requirements.
+
+(6) Formal, recurring data reviews of production in an effort to identify data trends and nonconformance issues before such issues affect end products.
+
+(7) Validated protocols for production processes to ensure that process deviations are adequately vetted prior to implementation.
+
+(8) Maintenance and calibration procedures and schedules for all tools, equipment, and irradiators.
+
+**(c) Waiver** In carrying out the program under subsection (a), the Secretary may waive any of the quality control and quality assurance measures required under subsection (b) in the interest of national defense.
+
+**(d) Study and report required**
+
+(1) **Study** — The Secretary of Defense shall carry out a study to evaluate—
+
+  (A) the feasibility of consolidating covered facilities within a unified command to minimize risk;
+
+  (B) opportunities to partner with industry for the production of biological select agents and toxins and related services in lieu of maintaining such capabilities within the Department of the Army; and
+
+  (C) whether operations under the biological select agent and toxin production program should be transferred to another government or commercial laboratory that may be better suited to execute production for non-Department of Defense customers.
+
+(2) **Report** — Not later than February 1, 2017, the Secretary shall submit to the congressional defense committees a report on the results of the study under paragraph (1).
+
+**(e) Comptroller General review** Not later than September 1, 2017, the Comptroller General of the United States shall submit to the congressional defense committees a report that includes the following:
+
+(1) A review of—
+
+  (A) the actions taken by the Department of Defense to address the findings and recommendations of the report of the Department of the Army titled “Individual and Institutional Accountability for the Shipment of Viable Bacillus Anthracis from Dugway Proving Grounds”, dated December 15, 2015, including any actions taken to address the culture of complacency in the biological select agent and toxin production program identified in such report; and
+
+  (B) the progress of the Secretary in carrying out the program under subsection (a).
+
+(2) An analysis of the study and report under subsection (d).
+
+**(f) Definitions** In this section:
+
+(1) The term “biological select agent and toxin” means any agent or toxin identified under—
+
+  (A) section 331.3 of title 7, Code of Federal Regulations;
+
+  (B) section 121.3 or section 121.4 of title 9, Code of Federal Regulations; or
+
+  (C) section 73.3 or section 73.4 of title 42, Code of Federal Regulations.
+
+(2) The term “covered facility” means any facility of the Department of Defense that produces biological select agents and toxins.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2017, and not as part of Pub. L. 91–121, title IV, § 409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
+
+#### “Congressional Defense Committees” Defined
+Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 114–328, 130 Stat. 2025. See note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
+
+
+<a id="section-1528"></a>
+## § 1528. Congressional notification of biological select agent and toxin theft, loss, or release involving the Department of Defense
+**(a) Notification requirement** Not later than 15 days after notice of any theft, loss, or release of a biological select agent or toxin involving the Department of Defense is provided to the Centers for Disease Control and Prevention or the Animal and Plant Health Inspection Service, as specified by section 331.19 of part 11 So in original. Probably should be “title”. 7 of the Code of Federal Regulations, the Secretary of Defense shall provide to the congressional defense committees notice of such theft, loss, or release.
+
+**(b) Elements** Notice of a theft, loss, or release of a biological select agent or toxin under subsection (a) shall include each of the following:
+
+(1) The name of the agent or toxin and any identifying information, including the strain or other relevant characterization information.
+
+(2) An estimate of the quantity of the agent or toxin stolen, lost, or released.
+
+(3) The location or facility from which the theft, loss, or release occurred.
+
+(4) In the case of a release, any hazards posed by the release and the number of individuals potentially exposed to the agent or toxin.
+
+(5) Actions taken to respond to the theft, loss, or release.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2017, and not as part of Pub. L. 91–121, title IV, § 409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
+
+#### “Congressional Defense Committees” Defined
+Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 114–328, 130 Stat. 2025. See note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.

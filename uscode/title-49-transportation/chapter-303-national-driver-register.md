@@ -252,6 +252,8 @@ In subsection (c), before clause (1), the words “required to be transmitted by
 
 (12) The head of a Federal department or agency authorized to receive information regarding an individual from the Register under this section may request and receive such information from the Secretary.
 
+(13) The Administrator of the Federal Motor Carrier Safety Administration may request the chief driver licensing official of a State to provide information under subsection (a) of this section about an individual in connection with a safety investigation under the Administrator’s jurisdiction.
+
 **(c) Relationship to Other Laws.—** A request for, or receipt of, information from the Register is subject to sections 552 and 552a of title 5, and other applicable laws of the United States or a State, except that—
 
 (1) the Secretary of Transportation may not relay or otherwise provide information specified in section 30304(b)(1)(A) or (C) of this title to a person not authorized by this section to receive the information;
@@ -290,6 +292,8 @@ Executive Order No. 10450, referred to in subsec. (b)(9), is set out as a note u
 Act of July 14, 1960, referred to in subsec. (d), is set out as a note under [section 30302 of this title](./chapter-303-national-driver-register.md#section-30302).
 
 #### Amendments
+2015—Subsec. (b)(13). Pub. L. 114–94 added par. (13).
+
 2004—Subsec. (b)(9) to (12). Pub. L. 108–375 added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively.
 
 1998—Subsec. (b)(2). Pub. L. 105–178, § 2006(b)(1)(A), inserted before period at end “, unless the information is about a revocation or suspension still in effect on the date of the request”.
@@ -321,6 +325,9 @@ Pub. L. 104–264, § 502(b), added par. (7). Former par. (7), relating to reque
 Subsec. (b)(8). Pub. L. 104–324, § 207(b), redesignated par. (7), relating to individual seeking employment as pilot, as (8).
 
 Pub. L. 104–264, § 502(b), redesignated par. (7), relating to request, as (8).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 1996 Amendment
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under [section 106 of this title](./chapter-001-organization.md#section-106).

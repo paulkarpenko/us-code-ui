@@ -32,6 +32,8 @@ source: >-
 
 (3) consult with the heads of appropriate Federal agencies with applicable technical and functional expertise, including the Office of Information and Regulatory Affairs, the National Institute of Standards and Technology, the General Services Administration, and the Department of Defense.
 
+**(f) Inapplicability to Department of Defense.—** In this section, the term “executive agency” does not include the Department of Defense.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -48,6 +50,9 @@ In this section, the text of 41:426(e) is omitted as obsolete because the last r
 In subsection (c), the word “executive” is added for clarity and for consistency in the revised section.
 
 In subsection (e)(2), the words “with respect to the agency systems, technologies, procedures, and processes established pursuant to this section” are omitted as unnecessary.
+
+#### Amendments
+2016—Subsec. (f). Pub. L. 114–328 added subsec. (f).
 
 #### Streamlining Procurement Through Electronic Commerce
 Memorandum of President of the United States, Oct. 28, 1993, 58 F.R. 58095, provided:
@@ -331,6 +336,9 @@ The Administrator and personnel in the Office of Federal Procurement Policy shal
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 2307 | 41:412(a). | Pub. L. 93–400, § 14(a), Aug. 30, 1974, 88 Stat. 800. |
+
+#### Senate Revision Amendment
+In text, “representatives of the Comptroller General” substituted for “his representatives” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
 
 
 <a id="section-2308"></a>

@@ -62,7 +62,7 @@ Pub. L. 105–19, § 1, June 18, 1997, 111 Stat. 218, provided that: “This Act
 
 <a id="section-14503"></a>
 ## § 14503. Limitation on liability for volunteers
-**(a) Liability protection for volunteers** Except as provided in subsections (b) and (d) of this section, no volunteer of a nonprofit organization or governmental entity shall be liable for harm caused by an act or omission of the volunteer on behalf of the organization or entity if—
+**(a) Liability protection for volunteers** Except as provided in subsections (b) and (d), no volunteer of a nonprofit organization or governmental entity shall be liable for harm caused by an act or omission of the volunteer on behalf of the organization or entity if—
 
 (1) the volunteer was acting within the scope of the volunteer’s responsibilities in the nonprofit organization or governmental entity at the time of the act or omission;
 
@@ -110,7 +110,7 @@ Pub. L. 105–19, § 1, June 18, 1997, 111 Stat. 218, provided that: “This Act
 
   (E) where the defendant was under the influence (as determined pursuant to applicable State law) of intoxicating alcohol or any drug at the time of the misconduct.
 
-(2) **Rule of construction** — Nothing in this subsection shall be construed to effect subsection (a)(3) or (e) of this section.
+(2) **Rule of construction** — Nothing in this subsection shall be construed to effect subsection (a)(3) or (e).
 
 ### Statutory Notes
 
@@ -120,7 +120,7 @@ The Hate Crime Statistics Act, referred to in subsec. (f)(1)(B), is Pub. L. 101�
 
 <a id="section-14504"></a>
 ## § 14504. Liability for noneconomic loss
-**(a) General rule** In any civil action against a volunteer, based on an action of a volunteer acting within the scope of the volunteer’s responsibilities to a nonprofit organization or governmental entity, the liability of the volunteer for noneconomic loss shall be determined in accordance with subsection (b) of this section.
+**(a) General rule** In any civil action against a volunteer, based on an action of a volunteer acting within the scope of the volunteer’s responsibilities to a nonprofit organization or governmental entity, the liability of the volunteer for noneconomic loss shall be determined in accordance with subsection (b).
 
 **(b) Amount of liability**
 

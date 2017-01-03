@@ -421,13 +421,13 @@ Pub. L. 90–448, title V, § 501(c), Aug. 1, 1968, 82 Stat. 520, provided that 
 
   (B) For purposes of this subchapter, the term “income” does not include dividends received from the Alaska Permanent Fund by a person who was under the age of 18 years when that person qualified for the dividend.
 
-(6) For the purposes of this subchapter, the term “Indian tribe” means any Indian tribe, band, group, and nation, including Alaska Indians, Aleuts, and Eskimos, and any Alaskan Native Village, of the United States, which is considered an eligible recipient under the Indian Self-Determination and Education Assistance Act (Public Law 93–638) [[25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.] or was considered an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter.
+(6) For the purposes of this subchapter, the term “Indian tribe” means any Indian tribe, band, group, and nation, including Alaska Indians, Aleuts, and Eskimos, and any Alaskan Native Village, of the United States, which is considered an eligible recipient under the Indian Self-Determination and Education Assistance Act (Public Law 93–638) [[25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) et seq.] or was considered an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter.
 
 (7) For the purposes of this subchapter, the term “rural resident” shall include a family or a person who is a renter of a dwelling unit in a rural area.
 
 (8) For the purposes of this subchapter, the term “adequate dwelling” means a decent, safe, and sanitary dwelling unit.
 
-**(c) Conditions of eligibility** In order to be eligible for the assistance authorized by subsection (a) of this section, the applicant must show (1) that he is the owner of a farm which is without a decent, safe, and sanitary dwelling for himself and his family and necessary resident farm labor, or for the family of the operating tenant, lessee, or sharecropper, or without other farm buildings adequate for the type of farming in which he engages or desires to engage, or that he is the owner of other real estate in a rural area or a rural resident without an adequate dwelling or related facilities for his own use or buildings adequate for his farming operations, or that the applicant is an elderly or handicapped person or family in a rural area without an adequate dwelling or related facility for its own use, or that he is the owner of a farm or other real estate in a rural area who needs refinancing of indebtedness described in clause (4) of subsection (a) of this section; (2) that he is without sufficient resources to provide the necessary housing and buildings on his own account; and (3) that he is unable to secure the credit necessary for such housing and buildings from other sources upon terms and conditions which he could reasonably be expected to fulfill. If an applicant is a State or local public agency or Indian tribe—
+**(c) Conditions of eligibility** In order to be eligible for the assistance authorized by subsection (a), the applicant must show (1) that he is the owner of a farm which is without a decent, safe, and sanitary dwelling for himself and his family and necessary resident farm labor, or for the family of the operating tenant, lessee, or sharecropper, or without other farm buildings adequate for the type of farming in which he engages or desires to engage, or that he is the owner of other real estate in a rural area or a rural resident without an adequate dwelling or related facilities for his own use or buildings adequate for his farming operations, or that the applicant is an elderly or handicapped person or family in a rural area without an adequate dwelling or related facility for its own use, or that he is the owner of a farm or other real estate in a rural area who needs refinancing of indebtedness described in clause (4) of subsection (a); (2) that he is without sufficient resources to provide the necessary housing and buildings on his own account; and (3) that he is unable to secure the credit necessary for such housing and buildings from other sources upon terms and conditions which he could reasonably be expected to fulfill. If an applicant is a State or local public agency or Indian tribe—
 
 (A) the provisions of clause (3) shall not apply to its application; and
 
@@ -452,7 +452,7 @@ Pub. L. 90–448, title V, § 501(c), Aug. 1, 1968, 82 Stat. 520, provided that 
 #### References in Text
 The United States Housing Act of 1937, referred to in subsec. (a)(4), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437) and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b)(6), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b)(6), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
 Chapter 67 of title 31, referred to in subsec. (b)(6), was repealed by Pub. L. 99–272, title XIV, § 14001(a)(1), Apr. 7, 1986, 100 Stat. 327, effective Oct. 18, 1986.
 
@@ -605,7 +605,7 @@ Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 326
 
 (1) provide for security upon the applicant’s equity in the farm or such other security or collateral, if any, as may be found necessary by the Secretary reasonably to assure repayment of the indebtedness;
 
-(2) provide for the repayment of principal and interest in accordance with schedules and repayment plans prescribed by the Secretary, except that any prepayment of a loan made or insured under section 1484 or 1485 of this title shall be subject to the provisions of subsection (c) of this section;
+(2) provide for the repayment of principal and interest in accordance with schedules and repayment plans prescribed by the Secretary, except that any prepayment of a loan made or insured under section 1484 or 1485 of this title shall be subject to the provisions of subsection (c);
 
 (3) except for guaranteed loans, contain the agreement of the borrower that he will, at the request of the Secretary, proceed with diligence to refinance the balance of the indebtedness through cooperative or other responsible private credit sources whenever the Secretary determines, in the light of the borrower’s circumstances, including his earning capacity and the income from the farm, that he is able to do so upon reasonable terms and conditions;
 
@@ -615,14 +615,14 @@ Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 326
 
 (1)
 
-  (A) The Secretary may not accept an offer to prepay, or request refinancing in accordance with subsection (b)(3) of this section of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into after December 21, 1979, but before December 15, 1989, unless the Secretary takes appropriate action which will obligate the borrower (and successors in interest thereof) to utilize the assisted housing and related facilities for the purposes specified in section 1484 or 1485 of this title, as the case may be, for a period of—
+  (A) The Secretary may not accept an offer to prepay, or request refinancing in accordance with subsection (b)(3) of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into after December 21, 1979, but before December 15, 1989, unless the Secretary takes appropriate action which will obligate the borrower (and successors in interest thereof) to utilize the assisted housing and related facilities for the purposes specified in section 1484 or 1485 of this title, as the case may be, for a period of—
 
     (i) fifteen years from the date on which the loan was made in the case of a loan made or insured pursuant to a contract entered into after December 21, 1979, but before December 15, 1989, and utilized for housing and related facilities which have not received assistance under section 1490a(a)(1)(B), (a)(2), or (5) of this title or [section 1437f of this title](./chapter-008-low-income-housing.md#section-1437f); or
 
     (ii) twenty years from the date on which the loan was made in the case of any other such loan;
     or until the Secretary determines (prior to the end of such period) that there is no longer a need for such housing and related facilities to be so utilized or that Federal or other financial assistance provided to the residents of such housing will no longer be provided.
 
-  (B) The Secretary may not accept an offer to prepay, or request refinancing in accordance with subsection (b)(3) of this section of, any initial loan made or insured under [section 1485 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1485) pursuant to a contract entered into on or after December 15, 1989.
+  (B) The Secretary may not accept an offer to prepay, or request refinancing in accordance with subsection (b)(3) of, any initial loan made or insured under [section 1485 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1485) pursuant to a contract entered into on or after December 15, 1989.
 
 (2) If any loan which was made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, is prepaid or refinanced on or after October 8, 1980, and tenants of the housing and related facilities financed with such loan are displaced due to a change in the use of the housing, or to an increase in rental or other charges, as a result of such prepayment or refinancing, the Secretary shall provide such tenants a priority for relocation in alternative housing assisted pursuant to this subchapter.
 
@@ -630,7 +630,7 @@ Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 326
 
 (4)
 
-  (A) *Agreement by borrower to extend low income use.—* — Before accepting any offer to prepay, or requesting refinancing in accordance with subsection (b)(3) of this section of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, the Secretary shall make reasonable efforts to enter into an agreement with the borrower under which the borrower will make a binding commitment to extend the low income use of the assisted housing and related facilities involved for not less than the 20-year period beginning on the date on which the agreement is executed.
+  (A) *Agreement by borrower to extend low income use.—* — Before accepting any offer to prepay, or requesting refinancing in accordance with subsection (b)(3) of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, the Secretary shall make reasonable efforts to enter into an agreement with the borrower under which the borrower will make a binding commitment to extend the low income use of the assisted housing and related facilities involved for not less than the 20-year period beginning on the date on which the agreement is executed.
 
   (B) *Assistance available to borrower to extend low income use.—* — To the extent of amounts provided in appropriation Acts, the agreement under subparagraph (A) may provide for 1 or more of the following forms of assistance that the Secretary, after taking into account local market conditions, determines to be necessary to extend the low income use of the housing and related facilities involved:
 
@@ -658,7 +658,7 @@ Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 326
 
     (i) *In general.—* — If the Secretary determines after a reasonable period that an agreement will not be entered into with a borrower under paragraph (4), the Secretary shall require the borrower (except as provided in subparagraph (G)) to offer to sell the assisted housing and related facilities involved to any qualified nonprofit organization or public agency at a fair market value determined by 2 independent appraisers, one of whom shall be selected by the Secretary and one of whom shall be selected by the borrower. If the 2 appraisers fail to agree on the fair market value, the Secretary and the borrower shall jointly select a third appraiser, whose appraisal shall be binding on the Secretary and the borrower.
 
-    (ii) *Period for which requirement applicable.—* — If, upon the expiration of 180 days after an offer is made to sell housing and related facilities under clause (i), no qualified nonprofit organization or public agency has made a bona fide offer to purchase, the Secretary may accept the offer to prepay, or may request refinancing in accordance with subsection (b)(3) of this section of, the loan. This clause shall apply only when funds are available for purposes of carrying out a transfer under this paragraph.
+    (ii) *Period for which requirement applicable.—* — If, upon the expiration of 180 days after an offer is made to sell housing and related facilities under clause (i), no qualified nonprofit organization or public agency has made a bona fide offer to purchase, the Secretary may accept the offer to prepay, or may request refinancing in accordance with subsection (b)(3) of, the loan. This clause shall apply only when funds are available for purposes of carrying out a transfer under this paragraph.
 
   (B) *Qualified nonprofit organizations and public agencies.—*
 
@@ -690,9 +690,9 @@ Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 326
 
     (ii) there is no longer a need for such housing and related facilities by low income families or persons.
 
-  (F) *General restriction on prepayments and refinancings.—* — Following the transfer of the maximum number of dwelling units set forth in subparagraph (H)(i) in any fiscal year or the maximum number of dwelling units for which budget authority is available in any fiscal year, the Secretary may not accept in such fiscal year any offer to prepay, or request refinancing in accordance with subsection (b)(3) of this section of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, except in accordance with subparagraph (G). The limitation established in this subparagraph shall not apply to an offer to prepay, or request to refinance, if, following the date on which such offer or request is made (or following February 5, 1988, whichever occurs later) a 15-month period expires during which no budget authority is available to carry out this paragraph. For purposes of this subparagraph, the Secretary shall allocate budget authority under this paragraph in the order in which offers to prepay, or request to refinance, are made.
+  (F) *General restriction on prepayments and refinancings.—* — Following the transfer of the maximum number of dwelling units set forth in subparagraph (H)(i) in any fiscal year or the maximum number of dwelling units for which budget authority is available in any fiscal year, the Secretary may not accept in such fiscal year any offer to prepay, or request refinancing in accordance with subsection (b)(3) of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, except in accordance with subparagraph (G). The limitation established in this subparagraph shall not apply to an offer to prepay, or request to refinance, if, following the date on which such offer or request is made (or following February 5, 1988, whichever occurs later) a 15-month period expires during which no budget authority is available to carry out this paragraph. For purposes of this subparagraph, the Secretary shall allocate budget authority under this paragraph in the order in which offers to prepay, or request to refinance, are made.
 
-  (G) *Exception.—* — This paragraph shall not apply to any offer to prepay, or any request to refinance in accordance with subsection (b)(3) of this section, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, if—
+  (G) *Exception.—* — This paragraph shall not apply to any offer to prepay, or any request to refinance in accordance with subsection (b)(3), any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, if—
 
     (i) the borrower enters into an agreement with the Secretary that obligates the borrower (and successors in interest thereof)—
 
@@ -762,7 +762,7 @@ Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 326
 
 **(g) Deferred mortgage demonstration**
 
-(1) **Authority** — With respect to families or persons otherwise eligible for assistance under subsection (d) of this section but having incomes below the amount determined to qualify for a loan under this section, the Secretary may defer mortgage payments beyond the amount affordable at 1 percent interest, taking into consideration income, taxes and insurance. Deferred mortgage payments shall be converted to payment status when the ability of the borrower to repay improves. Deferred amounts shall not exceed 25 percent of the amount of the payment due at 1 percent interest and shall be subject to recapture.
+(1) **Authority** — With respect to families or persons otherwise eligible for assistance under subsection (d) but having incomes below the amount determined to qualify for a loan under this section, the Secretary may defer mortgage payments beyond the amount affordable at 1 percent interest, taking into consideration income, taxes and insurance. Deferred mortgage payments shall be converted to payment status when the ability of the borrower to repay improves. Deferred amounts shall not exceed 25 percent of the amount of the payment due at 1 percent interest and shall be subject to recapture.
 
 (2) **Interest** — Interest on principal deferred shall be set at 1 percent and any interest payments deferred under this subsection shall not be treated as principal in calculating indebtedness.
 
@@ -800,9 +800,9 @@ Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 326
 
   (C) involve a principal obligation (including initial service charges, appraisal, inspection, and other fees as the Secretary may approve)—
 
-    (i) for a first-time homebuyer, in any amount not in excess of 100 percent of the appraised value of the property as of the date the loan is accepted or the acquisition cost of the property, whichever is less, plus the guarantee fee as authorized by subsection (h)(7) 22 So in original. Probably should be subsection “(h)(8)”. of this section; and
+    (i) for a first-time homebuyer, in any amount not in excess of 100 percent of the appraised value of the property as of the date the loan is accepted or the acquisition cost of the property, whichever is less, plus the guarantee fee as authorized by subsection (h)(7);22 So in original. Probably should be subsection “(h)(8)”. and
 
-    (ii) for any borrower other than a first-time homebuyer, in an amount not in excess of the percentage of the property or the acquisition cost of the property that the Secretary shall determine, such percentage or cost in any event not to exceed 100 percent of the appraised value of the property as of the date the loan is accepted or the acquisition cost of the property, whichever is less, plus the guarantee fee as authorized by subsection (h)(7) 2 of this section.
+    (ii) for any borrower other than a first-time homebuyer, in an amount not in excess of the percentage of the property or the acquisition cost of the property that the Secretary shall determine, such percentage or cost in any event not to exceed 100 percent of the appraised value of the property as of the date the loan is accepted or the acquisition cost of the property, whichever is less, plus the guarantee fee as authorized by subsection (h)(7).2
 
 (8) **Fees** — Notwithstanding paragraph (14)(D), with respect to a guaranteed loan issued or modified under this subsection, the Secretary may collect from the lender—
 
@@ -908,6 +908,14 @@ Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 326
 
   (F) *Authority to establish limitation* — The Secretary may establish limitations on the number of loans guaranteed under this paragraph, which shall be based on market conditions and other factors as the Secretary considers appropriate.
 
+(18) **Delegation of approval** — The Secretary may delegate, in part or in full, the Secretary’s authority to approve and execute binding Rural Housing Service loan guarantees pursuant to this subsection to certain preferred lenders, in accordance with standards established by the Secretary.
+
+**(i) Guaranteed underwriting user fee**
+
+(1) **Authority; maximum amount** — The Secretary may assess and collect a fee for a lender to access the automated underwriting systems of the Department in connection with such lender’s participation in the single family loan program under this section and only in an amount necessary to cover the costs of information technology enhancements, improvements, maintenance, and development for automated underwriting systems used in connection with the single family loan program under this section, except that such fee shall not exceed $50 per loan.
+
+(2) **Crediting; availability** — Any amounts collected from such fees shall be credited to the Rural Development Expense Account as offsetting collections and shall remain available until expended, in the amounts provided in appropriation Acts, solely for expenses described in paragraph (1).
+
 ### Statutory Notes
 
 #### References in Text
@@ -922,6 +930,10 @@ Section 502, referred to in subsec. (h), means section 502 of act July 15, 1949,
 This chapter, referred to in subsec. (h)(15)(A), appearing in the original is unidentifiable because title V of act July 15, 1949, does not contain chapters.
 
 #### Amendments
+2016—Subsec. (h)(18). Pub. L. 114–201, § 201, added par. (18).
+
+Subsec. (i). Pub. L. 114–201, § 202, added subsec. (i).
+
 2010—Subsec. (h)(8). Pub. L. 111–212 amended par. (8) generally. Prior to amendment, text read as follows: “With respect to a guaranteed loan under this subsection, the Secretary may collect from the lender at the time of issuance of the guarantee a fee equal to not more than 1 percent of the principal obligation of the loan.”
 
 2009—Subsec. (h)(5)(A). Pub. L. 111–22, § 101(b)(1), substituted “(as defined in paragraph (17))” for “(as defined in paragraph (13))”.
@@ -944,7 +956,7 @@ Subsec. (h)(6). Pub. L. 108–285, § 3(b)(1), redesignated par. (5) as (6). For
 
 Subsec. (h)(7). Pub. L. 108–285, § 3(b)(1), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-Subsec. (h)(7)(C). Pub. L. 108–447, which directed insertion of “, plus the guarantee fee as authorized by subsection (h)(7) of this section” after “whichever is less” in pars. (i) and (ii) of subsec. (h)(6)(C), was executed by making the insertion in cls. (i) and (ii) of par. (7)(C), to reflect the probable intent of Congress and the amendment by Pub. L. 108–285, § 3(b)(1). See above.
+Subsec. (h)(7)(C). Pub. L. 108–447, which directed insertion of “, plus the guarantee fee as authorized by subsection (h)(7)” after “whichever is less” in pars. (i) and (ii) of subsec. (h)(6)(C), was executed by making the insertion in cls. (i) and (ii) of par. (7)(C), to reflect the probable intent of Congress and the amendment by Pub. L. 108–285, § 3(b)(1). See above.
 
 Subsec. (h)(8) to (13). Pub. L. 108–285, § 3(b)(1), redesignated pars. (7) to (12) as (8) to (13), respectively. Former par. (13) redesignated (14).
 
@@ -998,7 +1010,7 @@ Subsec. (g). Pub. L. 101–625, § 705(a), added subsec. (g).
 
 Subsec. (h). Pub. L. 101–625, § 706(b), added subsec. (h).
 
-1989—Subsec. (c)(1). Pub. L. 101–235, § 206, designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, inserted “but before December 15, 1989,” after “December 21, 1979,” in introductory provisions and cl. (i), and added subpar. (B).
+1989—Subsec. (c)(1). Pub. L. 101–235 designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, inserted “but before December 15, 1989,” after “December 21, 1979,” in introductory provisions and cl. (i), and added subpar. (B).
 
 1988—Subsec. (c)(3). Pub. L. 100–242, § 241, added par. (3).
 
@@ -1291,7 +1303,7 @@ As between eligible applicants seeking assistance under sections 1471 to 1474, i
 Proc. No. 3080, Jan. 5, 1955, 20 F.R. 173, fixed Jan. 31, 1955, as the date ending the period during which persons must have served in the military forces in order that such persons come within the meaning of the terms “veteran” and “deceased servicemen”, contained in this section, by reason of service during the period beginning June 27, 1950.
 
 #### Continuation of Provisions
-Joint Res. July 3, 1952, ch. 570, § 1(a)(20), 66 Stat. 332, as amended by Joint Res. Mar. 31, 1953, ch. 13, § 1, 67 Stat. 18, provided that qualification period should continue in force until six months after the termination of the national emergency proclaimed by the President on Dec. 16, 1950 by 1950 Proc. No. 2914, 15 F.R. 9029, set out as a note preceding section 1 of Appendix to Title 50, War and National Defense, or such earlier date or dates as may be provided for by Congress, but in no event beyond July 1, 1953. Section 7 of Joint Res. July 3, 1952, provided that it should become effective June 16, 1952.
+Joint Res. July 3, 1952, ch. 570, § 1(a)(20), 66 Stat. 332, as amended by Joint Res. Mar. 31, 1953, ch. 13, § 1, 67 Stat. 18, provided that qualification period should continue in force until six months after the termination of the national emergency proclaimed by the President on Dec. 16, 1950 by 1950 Proc. No. 2914, 15 F.R. 9029, set out as a note preceding [section 1 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1&num=0&edition=prelim), War and National Defense, or such earlier date or dates as may be provided for by Congress, but in no event beyond July 1, 1953. Section 7 of Joint Res. July 3, 1952, provided that it should become effective June 16, 1952.
 
 #### Repeal of Prior Acts Continuing Section
 Section 6 of Joint Res. July 3, 1952, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54, as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96; Joint Res. June 14, 1952, ch. 437, 66 Stat. 137; Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions until July 3, 1952. This repeal took effect as of June 16, 1952, by section 7 of Joint Res. July 3, 1952.
@@ -1793,7 +1805,7 @@ Amendment by act Aug. 7, 1956, effective July 1, 1956, see section 606(d) of act
 
 (4) the insurance contracts and agreements with respect to any loan may contain provisions for servicing the loan by the Secretary or by the lender, and for the purchase by the Secretary of the loan if it is not in default, on such terms and conditions as the Secretary may prescribe; and
 
-(5) the Secretary may take mortgages creating a lien running to the United States for the benefit of the insurance fund referred to in subsection (b) of this section notwithstanding the fact that the note may be held by the lender or his assignee.
+(5) the Secretary may take mortgages creating a lien running to the United States for the benefit of the insurance fund referred to in subsection (b) notwithstanding the fact that the note may be held by the lender or his assignee.
 
 **(b) Utilization of farm tenant mortgage insurance fund; additions to and deposits in fund; deposits in Treasury** The Secretary shall utilize the insurance fund created by [section 1005a of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1005a&num=0&edition=prelim) 11 See References in Text note below. and the provisions of section 1005c(a), (b), and (c) of title 7 1 to discharge obligations under insurance contracts made pursuant to this section, and
 
@@ -1829,7 +1841,7 @@ Amendment by act Aug. 7, 1956, effective July 1, 1956, see section 606(d) of act
 
     (iii) to other retired or disabled farm laborers (and their families).
 
-**(g) Waiver of interest rate limitations** The Secretary may waive the interest rate limitation contained in subsection (a)(2) of this section and the requirement of [section 1471(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1471/c/3&num=0&edition=prelim) in any case in which the Secretary determines that qualified public or private nonprofit sponsors are not currently available and are not likely to become available within a reasonable period of time and such waiver is necessary to permit farmers to provide housing and related facilities for migrant domestic farm laborers, except that the benefits resulting from such waiver shall accrue to the tenants, and the interest rate on a loan insured under this section and for which the Secretary permits such waiver shall be no less than one-eighth of 1 per centum above the average interest rate on notes or other obligations which are issued under [section 1481 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1481) and have maturities comparable to such a loan.
+**(g) Waiver of interest rate limitations** The Secretary may waive the interest rate limitation contained in subsection (a)(2) and the requirement of [section 1471(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1471/c/3&num=0&edition=prelim) in any case in which the Secretary determines that qualified public or private nonprofit sponsors are not currently available and are not likely to become available within a reasonable period of time and such waiver is necessary to permit farmers to provide housing and related facilities for migrant domestic farm laborers, except that the benefits resulting from such waiver shall accrue to the tenants, and the interest rate on a loan insured under this section and for which the Secretary permits such waiver shall be no less than one-eighth of 1 per centum above the average interest rate on notes or other obligations which are issued under [section 1481 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1481) and have maturities comparable to such a loan.
 
 **(h) Determination of need for assistance** In making available assistance in any area under this section or [section 1486 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1486), the Secretary shall—
 
@@ -1933,7 +1945,7 @@ There is authorized to be appropriated not to exceed $50,000,000, which shall co
 
     (ii) any other criteria established by the Secretary has been met.
 
-**(c) Equity recapture loans and loans to nonprofit organizations and public agencies** With respect to a loan made or insured under subsection (a) or (b) of this section, the Secretary is authorized to—
+**(c) Equity recapture loans and loans to nonprofit organizations and public agencies** With respect to a loan made or insured under subsection (a) or (b), the Secretary is authorized to—
 
 (1) make or insure an equity loan in the form of a supplemental loan for the purpose of equity takeout to the owner of housing financed with a loan made or insured under this section pursuant to a contract entered into before December 15, 1989, for the purpose of extending the affordability of the housing for low income families or persons and very low-income families or persons for not less than 20 years, except that such loan may not exceed 90 percent of the value of the equity in the project as determined by the Secretary;
 
@@ -1941,7 +1953,7 @@ There is authorized to be appropriated not to exceed $50,000,000, which shall co
 
 (3) make or insure a loan to enable a nonprofit organization or public agency to make a purchase described in [section 1472(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1472/c/5&num=0&edition=prelim).
 
-**(d) Construction requirements; detached units for cooperative housing** No loan shall be made or insured under subsection (a) or (b) of this section unless the Secretary finds that the construction involved will be undertaken in an economical manner and will not be of elaborate or extravagant design or materials. However, specifically designed equipment required by elderly or handicapped persons or families shall not be considered elaborate or extravagant. A loan may be made or insured under subsection (a) or (b) of this section with respect to detached units, including those on scattered sites, for cooperative housing.
+**(d) Construction requirements; detached units for cooperative housing** No loan shall be made or insured under subsection (a) or (b) unless the Secretary finds that the construction involved will be undertaken in an economical manner and will not be of elaborate or extravagant design or materials. However, specifically designed equipment required by elderly or handicapped persons or families shall not be considered elaborate or extravagant. A loan may be made or insured under subsection (a) or (b) with respect to detached units, including those on scattered sites, for cooperative housing.
 
 **(e) Definitions** As used in this section—
 
@@ -2020,13 +2032,13 @@ After August 6, 1996, the ownership or control of a project for which a loan is 
 
 (2) The Secretary may adjust the amount of equity contribution to ensure that assistance provided is not more than is necessary to provide affordable housing after taking account of assistance from all Federal, State, and local sources.
 
-(3) Not later than 60 days after August 6, 1996, the Secretary shall issue regulations to implement subsection (r)(2) of this section in accordance with the negotiated rulemaking procedures set forth in subchapter III of chapter 5 of title 5: Provided, That if the negotiated rulemaking is not completed within the designated time, the Secretary shall proceed to promulgate regulations under the rulemaking authority contained in [section 557 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section557&num=0&edition=prelim).
+(3) Not later than 60 days after August 6, 1996, the Secretary shall issue regulations to implement subsection (r)(2) in accordance with the negotiated rulemaking procedures set forth in subchapter III of chapter 5 of title 5: Provided, That if the negotiated rulemaking is not completed within the designated time, the Secretary shall proceed to promulgate regulations under the rulemaking authority contained in [section 557 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section557&num=0&edition=prelim).
 
 **(s) Limitation of fees on loans** No fee other than a late fee may be imposed by or for the Secretary or any other Federal agency on or with respect to a loan made or insured under this section.
 
 **(t) Equity takeout loans**
 
-(1) **Authority** — The Secretary is authorized to guarantee an equity loan (in the form of a supplemental loan) to an owner of housing financed with a loan made or insured under subsection (b) of this section, only if the Secretary determines, after taking into account local market conditions, that there is reasonable likelihood that the housing will continue as decent, safe, and sanitary housing for the remaining life of the original loan on the project made or insured under subsection (b) of this section and that such an equity loan is—
+(1) **Authority** — The Secretary is authorized to guarantee an equity loan (in the form of a supplemental loan) to an owner of housing financed with a loan made or insured under subsection (b), only if the Secretary determines, after taking into account local market conditions, that there is reasonable likelihood that the housing will continue as decent, safe, and sanitary housing for the remaining life of the original loan on the project made or insured under subsection (b) and that such an equity loan is—
 
   (A) necessary to provide a fair return on the owner’s investment in the housing;
 
@@ -2037,7 +2049,7 @@ After August 6, 1996, the ownership or control of a project for which a loan is 
 
 (2) **Timing** — The Secretary is authorized to guarantee an equity loan under this subsection after the expiration of the 20-year period beginning on the date that an existing loan under subsection (b) of this section was made or insured. Not more than one equity loan under this subsection may be provided for any project.
 
-(3) **Amount of the takeout** — The amount of an equity loan under this subsection shall not exceed the difference between the outstanding principal on debt secured by the project and 90 percent of the appraised value of the project. The appraised value of the project shall be determined by 2 independent appraisers, 1 of whom shall be selected by the Secretary and 1 of whom shall be selected by the owner. If the 2 appraisers fail to agree on the value of the project, the Secretary and the owner shall jointly select a third appraiser whose appraisal shall be binding on the Secretary and the owner. The amount of the equity loan shall not exceed 30 percent of the amount of the original appraised value of the project made or insured under subsection (b) of this section.
+(3) **Amount of the takeout** — The amount of an equity loan under this subsection shall not exceed the difference between the outstanding principal on debt secured by the project and 90 percent of the appraised value of the project. The appraised value of the project shall be determined by 2 independent appraisers, 1 of whom shall be selected by the Secretary and 1 of whom shall be selected by the owner. If the 2 appraisers fail to agree on the value of the project, the Secretary and the owner shall jointly select a third appraiser whose appraisal shall be binding on the Secretary and the owner. The amount of the equity loan shall not exceed 30 percent of the amount of the original appraised value of the project made or insured under subsection (b).
 
 (4) **Submission of plan** — An owner requesting an equity loan under this subsection shall submit a plan acceptable to the Secretary to ensure that the cost of amortizing an equity loan under paragraph (1) does not result in the displacement of very-low-income tenants or substantially alter the income mix of the tenants in the project.
 
@@ -2254,9 +2266,9 @@ Subsec. (u). Pub. L. 101–235, § 402, added subsec. (u).
 
 1988—Subsec. (b)(4). Pub. L. 100–242, § 301(e), substituted “September 30, 1989” for “March 15, 1988”.
 
-Subsec. (c). Pub. L. 100–242, § 242, added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 100–242, § 242(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsecs. (d) to (g). Pub. L. 100–242, § 242(1), redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
+Subsecs. (d) to (g). Pub. L. 100–242, § 242(1), redesignated subsecs. (c) to (f) as (d) to (g), respectively.
 
 Subsec. (h). Pub. L. 100–628 struck out subsec. (h) which read as follows: “The Secretary shall limit increases in rents on or after November 30, 1983, for newly constructed or substantially rehabilitated projects assisted under this section to the lesser of the actual operating cost increases incurred or the amount of operating cost increases incurred with respect to comparable rental dwelling units of various sizes and types in the same market area which are suitable for occupancy by families and persons assisted under this section. Where no comparable dwelling units exist in the same market area, the Secretary shall have authority to approve such increases in accordance with the best available data regarding operating cost increases in rental dwelling units.”
 
@@ -2425,7 +2437,7 @@ Section 707(f)(2) of Pub. L. 102–550 provided that: “The Secretary of Agricu
 
 **(d) Payments; contracts to specify uses of housing** The Secretary may make payments pursuant to any contract for financial assistance under this section at such times and in such manner, as may be specified in the contract. In each contract, the Secretary shall include such covenants, conditions, or provisions as he deems necessary to insure that the housing and related facilities, for which financial assistance is made available, be used only in conformity with the provisions of this section.
 
-**(e) Regulations for prevention of waste** The Secretary shall prescribe regulations to insure that Federal funds expended under this section are not wasted or dissipated. The Secretary shall not give priority for funding under this section to any one of the groups listed in subsection (a) of this section over any of the others so listed.
+**(e) Regulations for prevention of waste** The Secretary shall prescribe regulations to insure that Federal funds expended under this section are not wasted or dissipated. The Secretary shall not give priority for funding under this section to any one of the groups listed in subsection (a) over any of the others so listed.
 
 **(f) Wages; labor standards; waiver; authority and functions of Secretary** All laborers and mechanics employed by contractors or subcontractors on projects assisted by the Secretary which are undertaken by approved applicants under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary shall not extend any financial assistance under this section for any project without first obtaining adequate assurance that these labor standards will be maintained on the construction work; except that compliance with such standards may be waived by the Secretary in cases or classes of cases where laborers or mechanics, not otherwise employed at any time on the project, voluntarily donate their services without compensation for the purpose of lowering the costs of construction and the Secretary determines that any amounts thereby saved are fully credited to the person, corporation, association, organization, or other entity, undertaking the project. The Secretary of Labor shall have, with respect to the labor standards specified in this section, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267), and [section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim).
 
@@ -2439,7 +2451,7 @@ Section 707(f)(2) of Pub. L. 102–550 provided that: “The Secretary of Agricu
 
 (4) the term “domestic farm labor” has the meaning given such term in [section 1484(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1484/f/3&num=0&edition=prelim).
 
-**(h) Migrant farmworker housing** Notwithstanding the provisions of subsection (a)(3) of this section, the Secretary may, upon a finding of persistent need for migrant farmworker housing in any area, provide assistance to eligible applicants for 90 per centum of the development costs of such housing in such area to be used solely by migrant farmworkers while they are away from their residence. Such housing shall be constructed in such a manner as to be safe and weatherproof for the time it is to be occupied, be equipped with potable water and modern sanitation facilities (including a kitchen sink, toilet, and bathing facilities), and meet such other requirements as the Secretary may prescribe.
+**(h) Migrant farmworker housing** Notwithstanding the provisions of subsection (a)(3), the Secretary may, upon a finding of persistent need for migrant farmworker housing in any area, provide assistance to eligible applicants for 90 per centum of the development costs of such housing in such area to be used solely by migrant farmworkers while they are away from their residence. Such housing shall be constructed in such a manner as to be safe and weatherproof for the time it is to be occupied, be equipped with potable water and modern sanitation facilities (including a kitchen sink, toilet, and bathing facilities), and meet such other requirements as the Secretary may prescribe.
 
 **(i) Farm labor housing** The Secretary shall utilize not more than 10 per centum of the amounts available for any fiscal year for purposes of this section for financial assistance to eligible private and public nonprofit agencies to encourage the development of domestic and migrant farm labor housing projects under this subchapter.
 
@@ -2558,7 +2570,7 @@ Subsec. (j). Pub. L. 100–628 added subsec. (j).
 
 1979—Subsec. (h). Pub. L. 96–153 added subsec. (h).
 
-1978—Subsec. (e). Pub. L. 95–557 inserted “The Secretary shall not give priority for funding under this section to any one of the groups listed in subsection (a) of this section over any of the others so listed”.
+1978—Subsec. (e). Pub. L. 95–557 inserted “The Secretary shall not give priority for funding under this section to any one of the groups listed in subsection (a) over any of the others so listed”.
 
 1970—Subsec. (a). Pub. L. 91–609, § 801(d)(1), authorized financial assistance for broad-based nonprofit organizations incorporated within the State and nonprofit organizations of farmworkers incorporated within the State and provided for low-rent housing and related facilities “(which may be located within the State)”.
 
@@ -2581,7 +2593,7 @@ Subsec. (g)(1). Pub. L. 91–609, § 801(c), substituted “structures (includin
 
 **(d) Authority to insure payment of interest and principal; liens; assignability of notes evidencing loans; interest subsidy on insured and guaranteed loans offered for sale to public; protection of borrowers under loans sold to public**
 
-(1) The Secretary may, in conformity with subsections (a), (b), and (m) of this section, insure the payment of principal and interest on loans made by lenders other than the United States, and on loans made from or otherwise acquired by the Rural Housing Insurance Fund which are sold by the Secretary. Any contract of insurance executed by the Secretary hereunder shall be an obligation supported by the full faith and credit of the United States, and shall be incontestable except for fraud or material misrepresentation of which the holder has actual knowledge. In connection with loans insured under this section, the Secretary may take liens running to the United States notwithstanding the fact that the notes evidencing such loans may be held by lenders other than the United States. Notes evidencing such loans shall be freely assignable, but the Secretary shall not be bound by any such assignment until notice thereof is given to and acknowledged by him.
+(1) The Secretary may, in conformity with subsections (a), (b), and (m), insure the payment of principal and interest on loans made by lenders other than the United States, and on loans made from or otherwise acquired by the Rural Housing Insurance Fund which are sold by the Secretary. Any contract of insurance executed by the Secretary hereunder shall be an obligation supported by the full faith and credit of the United States, and shall be incontestable except for fraud or material misrepresentation of which the holder has actual knowledge. In connection with loans insured under this section, the Secretary may take liens running to the United States notwithstanding the fact that the notes evidencing such loans may be held by lenders other than the United States. Notes evidencing such loans shall be freely assignable, but the Secretary shall not be bound by any such assignment until notice thereof is given to and acknowledged by him.
 
 (2) Each loan made by the Secretary or other lenders under this subchapter that is insured or guaranteed in accordance with this subsection shall, when offered for sale to the public, be accompanied by an agreement by the Secretary to pay to the holder of such loan (through an agreement to purchase such loan or through such other means as the Secretary determines to be appropriate) the difference between the rate of interest paid by the borrower of such loan and the market rate of interest (as determined by the Secretary) on obligations having comparable periods to maturity on the date of such sale.
 
@@ -2617,11 +2629,11 @@ Subsec. (g)(1). Pub. L. 91–609, § 801(c), substituted “structures (includin
 
 (5) after October 1, 1977, and as approved in appropriations Acts, to make advances authorized by [section 1471(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1471/e&num=0&edition=prelim);
 
-(6) to make payments and take other actions in accordance with agreements entered into under paragraphs (2) and (3) of subsection (d) of this section; and
+(6) to make payments and take other actions in accordance with agreements entered into under paragraphs (2) and (3) of subsection (d); and
 
 (7) to provide advances and assistance required to carry out paragraphs (4) and (5) of [section 1472(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1472/c&num=0&edition=prelim).
 
-**(k) Sale of loans as sale of assets** Any sale by the Secretary of loans individually or in blocks, pursuant to subsections (c) and (g) of this section, shall be treated as a sale of assets for the purposes of chapter 11 of title 31, notwithstanding the fact that the Secretary, under an agreement with the purchaser, holds the debt instruments evidencing the loans and holds or reinvests payments thereon as trustee and custodian for the purchaser.
+**(k) Sale of loans as sale of assets** Any sale by the Secretary of loans individually or in blocks, pursuant to subsections (c) and (g), shall be treated as a sale of assets for the purposes of chapter 11 of title 31, notwithstanding the fact that the Secretary, under an agreement with the purchaser, holds the debt instruments evidencing the loans and holds or reinvests payments thereon as trustee and custodian for the purchaser.
 
 **(l) Commitments to make or insure loans to lenders, builders, or sellers; terms and conditions** The Secretary may also, upon the application of lenders, builders, or sellers and upon compliance with requirements specified by him, make commitments upon such terms and conditions as he shall prescribe to make or insure loans under this section to eligible applicants.
 
@@ -2895,13 +2907,13 @@ Pub. L. 101–625, title VII, § 715(b), Nov. 28, 1990, 104 Stat. 4296, provided
 
       (III) maintaining adequate reserve funds for the project.
 
-**(b) Location in rural areas; inclusion of qualified nonrural residents who will become rural residents** Housing and related facilities provided with loans described in subsection (a) of this section shall be located in rural areas; and applicants eligible for such loans under section 1472, 1487(a)(1),22 See References in Text note below. or 1490f(a) of this title, or for occupancy of housing provided with such loans under section 1485 or 1490f(c) of this title, shall include otherwise qualified nonrural residents who will become rural residents.
+**(b) Location in rural areas; inclusion of qualified nonrural residents who will become rural residents** Housing and related facilities provided with loans described in subsection (a) shall be located in rural areas; and applicants eligible for such loans under section 1472, 1487(a)(1),22 See References in Text note below. or 1490f(a) of this title, or for occupancy of housing provided with such loans under section 1485 or 1490f(c) of this title, shall include otherwise qualified nonrural residents who will become rural residents.
 
-**(c) Reimbursement of Rural Housing Insurance Fund** There shall be reimbursed to the Rural Housing Insurance Fund by annual appropriations (1) the amounts by which nonprincipal payments made from the fund during each fiscal year to the holders of insured loans described in subsection (a)(1) of this section exceed interest due from the borrowers during each year, and (2) the amount of assistance payments described in subsections (a)(2) and (a)(5) of this section. There are authorized to be appropriated to the Rural Housing Insurance Fund such sums as may be necessary to reimburse such fund for the amount of assistance payments described in subsection (a)(1)(C) of this section. The Secretary may from time to time issue notes to the Secretary of the Treasury under section 1487(h) and of this title and [section 1490f of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1490f) to obtain amounts equal to such unreimbursed payments, pending the annual reimbursement by appropriation.
+**(c) Reimbursement of Rural Housing Insurance Fund** There shall be reimbursed to the Rural Housing Insurance Fund by annual appropriations (1) the amounts by which nonprincipal payments made from the fund during each fiscal year to the holders of insured loans described in subsection (a)(1) exceed interest due from the borrowers during each year, and (2) the amount of assistance payments described in subsections (a)(2) and (a)(5). There are authorized to be appropriated to the Rural Housing Insurance Fund such sums as may be necessary to reimburse such fund for the amount of assistance payments described in subsection (a)(1)(C). The Secretary may from time to time issue notes to the Secretary of the Treasury under section 1487(h) and of this title and [section 1490f of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1490f) to obtain amounts equal to such unreimbursed payments, pending the annual reimbursement by appropriation.
 
 **(d) Rental assistance contract authority; preconditions, limitations, etc.**
 
-(1) In utilizing the rental assistance payments authority pursuant to subsection (a)(2) of this section—
+(1) In utilizing the rental assistance payments authority pursuant to subsection (a)(2)—
 
   (A) the Secretary shall make such assistance available in existing projects for units occupied by low income families or persons to extend expiring contracts or to provide additional assistance when necessary to provide the full amount authorized pursuant to existing contracts;
 
@@ -2911,7 +2923,7 @@ Pub. L. 101–625, title VII, § 715(b), Nov. 28, 1990, 104 Stat. 4296, provided
 
 (2) The Secretary shall transfer rental assistance contract authority under this section from projects where such authority is unused after initial rentup and not needed because of a lack of eligible tenants in the area to projects where such authority is needed.
 
-**(e) Increases in rent or contribution of any recipient** Any rent or contribution of any recipient or any tenant in a project assisted under subsection (a)(5) of this section shall not increase as a result of this section, any amendment thereto, or any other provision of Federal law or regulation by more than 10 per centum during any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to this subsection or other law or regulation.
+**(e) Increases in rent or contribution of any recipient** Any rent or contribution of any recipient or any tenant in a project assisted under subsection (a)(5) shall not increase as a result of this section, any amendment thereto, or any other provision of Federal law or regulation by more than 10 per centum during any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to this subsection or other law or regulation.
 
 ### Statutory Notes
 
@@ -2933,7 +2945,7 @@ Subsec. (a)(5). Pub. L. 105–276, § 599C(e)(1), added par. (5).
 
 Subsec. (c)(2). Pub. L. 105–276, § 599C(e)(2)(E), substituted “subsections (a)(2) and (a)(5)” for “subsection (a)(2)”.
 
-Subsec. (e). Pub. L. 105–276, § 599C(e)(2)(F), inserted “or any tenant in a project assisted under subsection (a)(5) of this section” after “recipient”.
+Subsec. (e). Pub. L. 105–276, § 599C(e)(2)(F), inserted “or any tenant in a project assisted under subsection (a)(5)” after “recipient”.
 
 1992—Subsec. (a)(1)(D). Pub. L. 102–550 designated existing provisions as cl. (i) and added cl. (ii).
 
@@ -3010,13 +3022,13 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 **(b) Quality of housing and related facilities; design and location** Housing and related facilities assisted under this section shall be safe and sanitary, constructed in the most economical manner, and of modest design, giving due consideration to the purposes to be served and the needs of the occupants, and may, in the discretion of the Secretary, include mobile family quarters. Design and location shall be such as to facilitate, as feasible, the use of such housing and related facilities for other purposes when no longer needed for the primary purpose.
 
-**(c) Contribution of land by applicant** The applicant shall contribute the necessary land, or funds to acquire such land, from its own resources, including land acquired by donation or from funds repayable under subsection (e) of this section or borrowed from other sources.
+**(c) Contribution of land by applicant** The applicant shall contribute the necessary land, or funds to acquire such land, from its own resources, including land acquired by donation or from funds repayable under subsection (e) or borrowed from other sources.
 
 **(d) Conditions precedent to grant of financial assistance** No financial assistance shall be made available under this section unless, to the extent and for the periods required by the Secretary, the applicant agrees that—
 
 (1) such housing will be maintained at all times in a safe and sanitary condition in accordance with standards prescribed by State or local law, or, in the absence of such standards, with requirements prescribed by the Secretary;
 
-(2) priority shall be given at all times, in granting occupancy of such housing and facilities, to the trainees and their families described in subsection (a) of this section; and
+(2) priority shall be given at all times, in granting occupancy of such housing and facilities, to the trainees and their families described in subsection (a); and
 
 (3) rentals charged them shall not exceed amounts approved by the Secretary after considering the portion of the actual total family income which the family can afford to pay for rent while meeting its other immediate needs during occupancy.
 
@@ -3069,7 +3081,7 @@ Pub. L. 93–644, § 9(a), Jan. 4, 1975, 88 Stat. 2310 [[42 U.S.C. 2941](https:/
 
   (E) the loan is repayable within not more than thirty-three years.
 
-**(c) Considerations for financial assistance** In determining whether to extend financial assistance under paragraph (1) or (2) of subsection (b) of this section, the Secretary shall take into consideration, among other factors, the suitability of the area within which construction will be carried out to the type of dwelling which can be provided under mutual or self-help housing programs, the extent to which the assistance will facilitate the provision of more decent, safe, and sanitary housing conditions than presently exist in the area, the extent to which the assistance will be utilized efficiently and expeditiously, the extent to which the assistance will effect an increase in the standard of living of low-income individuals participating in the mutual or self-help housing program, and whether the assistance will fulfill a need in the area which is not otherwise being met through other programs, including those carried out by other Federal, State, or local agencies.
+**(c) Considerations for financial assistance** In determining whether to extend financial assistance under paragraph (1) or (2) of subsection (b), the Secretary shall take into consideration, among other factors, the suitability of the area within which construction will be carried out to the type of dwelling which can be provided under mutual or self-help housing programs, the extent to which the assistance will facilitate the provision of more decent, safe, and sanitary housing conditions than presently exist in the area, the extent to which the assistance will be utilized efficiently and expeditiously, the extent to which the assistance will effect an increase in the standard of living of low-income individuals participating in the mutual or self-help housing program, and whether the assistance will fulfill a need in the area which is not otherwise being met through other programs, including those carried out by other Federal, State, or local agencies.
 
 **(d) “Construction” defined** As used in this section, the term “construction” includes the erection of new dwellings, and the rehabilitation, alteration, conversion, or improvement of existing structures.
 
@@ -3077,7 +3089,7 @@ Pub. L. 93–644, § 9(a), Jan. 4, 1975, 88 Stat. 2310 [[42 U.S.C. 2941](https:/
 
 **(f) Repealed. Pub. L. 102–550, title VII, § 710(2), Oct. 28, 1992, 106 Stat. 3840**
 
-**(g) Deposit in Self-Help Fund; availability of amounts; assets** Amounts appropriated under this subsection, together with principal collections from loans made under appropriations in any previous fiscal years, shall be deposited in the Self-Help Housing Land Development Fund, which shall be available, to the extent approved in appropriation Acts, as a revolving fund for making loans under subsection (b)(1)(B) of this section; except that not more than $5,000,000 may be made available during fiscal year 1985. Instruments and property acquired by the Secretary in or as a result of making such loans shall be assets of the Self-Help Housing Land Development Fund.
+**(g) Deposit in Self-Help Fund; availability of amounts; assets** Amounts appropriated under this subsection, together with principal collections from loans made under appropriations in any previous fiscal years, shall be deposited in the Self-Help Housing Land Development Fund, which shall be available, to the extent approved in appropriation Acts, as a revolving fund for making loans under subsection (b)(1)(B); except that not more than $5,000,000 may be made available during fiscal year 1985. Instruments and property acquired by the Secretary in or as a result of making such loans shall be assets of the Self-Help Housing Land Development Fund.
 
 **(h) Rules and regulations** The Secretary shall issue rules and regulations for the orderly processing and review of applications under this section and rules and regulations protecting the rights of grantees under this section in the event he determines to end grant assistance prior to the termination date of any grant agreement.
 
@@ -3208,7 +3220,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 **(c) Repealed. Pub. L. 98–181, title I [title V, § 518(b)], Nov. 30, 1983, 97 Stat. 1249**
 
-**(d) Deposit of appropriated funds into low-income sponsor fund; availability; administration of fund as revolving fund; deposit of repayments** All funds appropriated for the purpose of subsection (b) of this section shall be deposited in a fund which shall be known as the low-income sponsor fund, and which shall be available without fiscal year limitation and be administered by the Secretary as a revolving fund for carrying out the purposes of that subsection. Sums received in repayment of loans made under subsection (b) of this section shall be deposited in such fund.
+**(d) Deposit of appropriated funds into low-income sponsor fund; availability; administration of fund as revolving fund; deposit of repayments** All funds appropriated for the purpose of subsection (b) shall be deposited in a fund which shall be known as the low-income sponsor fund, and which shall be available without fiscal year limitation and be administered by the Secretary as a revolving fund for carrying out the purposes of that subsection. Sums received in repayment of loans made under subsection (b) shall be deposited in such fund.
 
 ### Statutory Notes
 
@@ -3231,9 +3243,9 @@ Pub. L. 110–234, title VI, subtitle D, May 22, 2008, 122 Stat. 1210, and Pub. 
 ## § 1490f. Loans and insurance of loans for condominium housing in rural areas
 **(a) Individual loans and insurance of loans to low or moderate income persons or families for purchase of units; terms and conditions** The Secretary is authorized, upon such terms and conditions (substantially identical insofar as may be feasible with those specified in [section 1472 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1472)) as he may prescribe, to make loans to persons and families of low or moderate income, and to insure and make commitments to insure loans made to persons and families of low or moderate income, to assist them in purchasing dwelling units in condominiums located in rural areas.
 
-**(b) Scope of individual loans and insurance of loans; condominium requirements** Any loan made or insured under subsection (a) of this section shall cover a one-family dwelling unit in a condominium, and shall be subject to such provisions as the Secretary determines to be necessary for the maintenance of the common areas and facilities of the condominium project and to such additional requirements as the Secretary deems appropriate for the protection of the consumer.
+**(b) Scope of individual loans and insurance of loans; condominium requirements** Any loan made or insured under subsection (a) shall cover a one-family dwelling unit in a condominium, and shall be subject to such provisions as the Secretary determines to be necessary for the maintenance of the common areas and facilities of the condominium project and to such additional requirements as the Secretary deems appropriate for the protection of the consumer.
 
-**(c) Blanket loans and insurance of loans; terms and conditions; certification by borrower of future ownership of multifamily project; maximum amount of principal obligation** In addition to individual loans made or insured under subsection (a) of this section the Secretary is authorized, upon such terms and conditions (substantially identical insofar as may be feasible with those specified in [section 1485 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1485)) as he may prescribe, to make or insure blanket loans to a borrower who shall certify to the Secretary, as a condition of obtaining such loan or insurance, that upon completion of the multifamily project the ownership of the project will be committed to a plan of family unit ownership under which (1) each family unit will be eligible for a loan or insurance under subsection (a) of this section, and (2) the individual dwelling units in the project will be sold only on a condominium basis and only to purchasers eligible for a loan or insurance under subsection (a) of this section. The principal obligation of any blanket loan made or insured under this subsection shall in no case exceed the sum of the individual amounts of the loans which could be made or insured with respect to the individual dwelling units in the project under subsection (a) of this section.
+**(c) Blanket loans and insurance of loans; terms and conditions; certification by borrower of future ownership of multifamily project; maximum amount of principal obligation** In addition to individual loans made or insured under subsection (a) the Secretary is authorized, upon such terms and conditions (substantially identical insofar as may be feasible with those specified in [section 1485 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1485)) as he may prescribe, to make or insure blanket loans to a borrower who shall certify to the Secretary, as a condition of obtaining such loan or insurance, that upon completion of the multifamily project the ownership of the project will be committed to a plan of family unit ownership under which (1) each family unit will be eligible for a loan or insurance under subsection (a), and (2) the individual dwelling units in the project will be sold only on a condominium basis and only to purchasers eligible for a loan or insurance under subsection (a). The principal obligation of any blanket loan made or insured under this subsection shall in no case exceed the sum of the individual amounts of the loans which could be made or insured with respect to the individual dwelling units in the project under subsection (a).
 
 **(d) “Condominium” defined** As used in this section, the term “condominium” means a multi-unit housing project which is subject to a plan of family unit ownership acceptable to the Secretary under which each dwelling unit is individually owned and each such owner holds an undivided interest in the common areas and facilities which serve the project.
 
@@ -3308,7 +3320,7 @@ The Secretary is authorized to act as an agent of the Secretary of Housing and U
 
 <a id="section-1490l"></a>
 ## § 1490l. Processing of applications
-**(a) Priority** Except as otherwise provided in subsection (c) of this section, the Secretary shall, in making assistance available under this subchapter, give a priority to applications submitted by—
+**(a) Priority** Except as otherwise provided in subsection (c), the Secretary shall, in making assistance available under this subchapter, give a priority to applications submitted by—
 
 (1) persons and families that have the greatest housing assistance needs because of their low income and their residing in inadequate dwellings;
 
@@ -3341,7 +3353,7 @@ The Secretary is authorized to act as an agent of the Secretary of Housing and U
 ### Statutory Notes
 
 #### Amendments
-1996—Subsec. (a). Pub. L. 104–180, § 734(f)(1), substituted “Except as otherwise provided in subsection (c) of this section, the Secretary” for “The Secretary” in introductory provisions.
+1996—Subsec. (a). Pub. L. 104–180, § 734(f)(1), substituted “Except as otherwise provided in subsection (c), the Secretary” for “The Secretary” in introductory provisions.
 
 Subsec. (c). Pub. L. 104–180, § 734(f)(2), added subsec. (c).
 
@@ -3406,7 +3418,7 @@ The Secretary may also provide tenant-based assistance as provided under [sectio
 
   (G) to which the program would minimize the use of grant funds for administrative purposes; and
 
-  (H) to which the owner agrees to meet the requirement of subsection (e)(1)(B)(iv) of this section for a period longer than 5 years;
+  (H) to which the owner agrees to meet the requirement of subsection (e)(1)(B)(iv) for a period longer than 5 years;
   and shall assess the demonstrated capacity of the grantee to carry out the program as well as the financial feasibility of the program.
 
 (4) The amount of assistance provided under this section with respect to any housing shall be the least amount that the Secretary determines is necessary to provide, through the repair and rehabilitation, or replacement, of such housing, decent housing of modest design that is affordable for persons of low income.
@@ -3458,7 +3470,7 @@ The Secretary may also provide tenant-based assistance as provided under [sectio
 
 (1) The Secretary is authorized to prescribe such rules and regulations and make such delegations of authority as he deems necessary to carry out this section within 90 days after November 30, 1983.
 
-(2) The Secretary shall, not later than the expiration of the 30-day period following February 5, 1988, issue regulations to carry out the program of grants under subsection (a)(2) of this section.
+(2) The Secretary shall, not later than the expiration of the 30-day period following February 5, 1988, issue regulations to carry out the program of grants under subsection (a)(2).
 
 **(i) National historic preservation objectives affected by rehabilitation activities; establishment of procedures for determining consonant purposes and measures** The Secretary shall establish procedures which support national historic preservation objectives and which assure that, if any rehabilitation proposed to be assisted under this section would affect property that is included or is eligible for inclusion on the National Register of Historic Places, such activity shall not be undertaken unless (1) it will reasonably meet the standards for rehabilitation issued by the Secretary of the Interior and the appropriate State historic preservation officer is afforded the opportunity to comment on the specific rehabilitation plan, or (2) the Advisory Council on Historic Preservation is afforded an opportunity to comment on cases for which the recipient of assistance, in consultation with the State historic preservation officer, determines that the proposed rehabilitation activity cannot reasonably meet such standards or would adversely affect historic property as defined therein.
 
@@ -3529,7 +3541,7 @@ Pub. L. 100–242, title III, § 311, Feb. 5, 1988, 101 Stat. 1896, as amended b
 ## § 1490n. Review of rules and regulations
 **(a) Publication for public comment in Federal Register** Notwithstanding any other provision of law, no rule or regulation pursuant to this subchapter may become effective unless it has first been published for public comment in the Federal Register for at least 60 days, and published in final form for at least 30 days.
 
-**(b) Transmittal to Congressional committee members prior to publication in Federal Register** The Secretary shall transmit to the chairman and ranking Member of the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House, all rules and regulations at least 15 days before they are sent to the Federal Register for purposes of subsection (a) of this section.
+**(b) Transmittal to Congressional committee members prior to publication in Federal Register** The Secretary shall transmit to the chairman and ranking Member of the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House, all rules and regulations at least 15 days before they are sent to the Federal Register for purposes of subsection (a).
 
 **(c) Rules and regulations issued on emergency basis** The provisions of this section shall not apply to a rule or regulation which the Secretary certifies is issued on an emergency basis.
 
@@ -3548,9 +3560,9 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 ## § 1490o. Reciprocity in approval of housing subdivisions among Federal agencies
 **(a) Administrative approval of housing subdivisions** The Secretary of Agriculture, the Secretary of Housing and Urban Development, and the Secretary of Veterans Affairs shall each accept an administrative approval of any housing subdivision made by any of the others so that not later than January 1, 1984, there is total reciprocity for housing subdivision approvals among the agencies which they head.
 
-**(b) Certificates of reasonable value for one or more properties as constituting administrative approval of subdivision** For purposes of complying with subsection (a) of this section, the Secretary of Housing and Urban Development shall consider the issuance by the Secretary of Veterans Affairs of a certificate of reasonable value for 1 or more properties in a subdivision to be an administrative approval for the entire subdivision. This subsection shall not apply after September 30, 1994.
+**(b) Certificates of reasonable value for one or more properties as constituting administrative approval of subdivision** For purposes of complying with subsection (a), the Secretary of Housing and Urban Development shall consider the issuance by the Secretary of Veterans Affairs of a certificate of reasonable value for 1 or more properties in a subdivision to be an administrative approval for the entire subdivision. This subsection shall not apply after September 30, 1994.
 
-**(c) Report to Congress** Before the expiration of the period referred to in subsection (b) of this section, the Secretary of Housing and Urban Development shall report to the Congress on housing subdivision approval policies and practices, if any, of the Departments of Housing and Urban Development and Agriculture and the Department of Veterans Affairs. The report shall focus on the administration of environmental laws in connection with any such policies and practices, and shall recommend any statutory, regulatory, and administrative changes needed to achieve total reciprocity for such housing subdivision approvals. The Secretary of Housing and Urban Development shall consult with the foregoing agencies, and such other agencies as the Secretary selects, in preparing the report.
+**(c) Report to Congress** Before the expiration of the period referred to in subsection (b), the Secretary of Housing and Urban Development shall report to the Congress on housing subdivision approval policies and practices, if any, of the Departments of Housing and Urban Development and Agriculture and the Department of Veterans Affairs. The report shall focus on the administration of environmental laws in connection with any such policies and practices, and shall recommend any statutory, regulatory, and administrative changes needed to achieve total reciprocity for such housing subdivision approvals. The Secretary of Housing and Urban Development shall consult with the foregoing agencies, and such other agencies as the Secretary selects, in preparing the report.
 
 **(d) Approval by local, county, or State agencies** For loans made under this subchapter, the Secretary may accept subdivisions that have been approved by local, county, or State agencies.
 
@@ -3646,7 +3658,7 @@ Pub. L. 101–625, title VII, § 718(b), Nov. 28, 1990, 104 Stat. 4297, provided
 
 (4) **Nonexclusiveness of remedies** — This subsection may not be construed to limit the applicability of any requirements, sanctions, penalties, or remedies established under any other law. The Secretary shall not be relieved of any obligation to carry out the requirements of this section because such other requirements, sanctions, penalties, or remedies apply.
 
-**(f) Limitation of assistance** The Secretary shall certify that assistance provided by the Secretary to any housing project shall not be more than is necessary to provide affordable housing after taking account of assistance from all Federal, State, and local sources. The Secretary shall adjust the amount of assistance provided to an applicant to compensate for any changes reported under subsection (c) of this section.
+**(f) Limitation of assistance** The Secretary shall certify that assistance provided by the Secretary to any housing project shall not be more than is necessary to provide affordable housing after taking account of assistance from all Federal, State, and local sources. The Secretary shall adjust the amount of assistance provided to an applicant to compensate for any changes reported under subsection (c).
 
 **(g) Regulations** Not less than 180 days following December 15, 1989, the Secretary shall promulgate regulations to implement this section.
 
@@ -3753,23 +3765,23 @@ The Housing Act of 1949, referred to in subsec. (b)(4), is act July 15, 1949, ch
 
 (1) **Notice of default** — In the event of default by the borrower on a loan guaranteed under this section, the holder of the guarantee certificate for the loan shall provide written notice of the default to the Secretary.
 
-(2) **Foreclosure** — After receiving notice under paragraph (1) and providing written notice of action under this paragraph to the Secretary, the holder of the guarantee certificate for the loan may initiate foreclosure proceedings for the loan in a court of competent jurisdiction, in accordance with regulations issued by the Secretary, to obtain possession of the security property. After the court issues a final order authorizing foreclosure on the property, the holder of the certificate shall be entitled to payment by the Secretary under the guarantee (in the amount provided under subsection (b) of this section) upon (A) submission to the Secretary of a claim for payment under the guarantee, and (B) assignment to the Secretary of all the claims of the holder of the guarantee against the borrower or others arising out of the loan transaction or foreclosure proceedings, except claims released with the consent of the Secretary.
+(2) **Foreclosure** — After receiving notice under paragraph (1) and providing written notice of action under this paragraph to the Secretary, the holder of the guarantee certificate for the loan may initiate foreclosure proceedings for the loan in a court of competent jurisdiction, in accordance with regulations issued by the Secretary, to obtain possession of the security property. After the court issues a final order authorizing foreclosure on the property, the holder of the certificate shall be entitled to payment by the Secretary under the guarantee (in the amount provided under subsection (b)) upon (A) submission to the Secretary of a claim for payment under the guarantee, and (B) assignment to the Secretary of all the claims of the holder of the guarantee against the borrower or others arising out of the loan transaction or foreclosure proceedings, except claims released with the consent of the Secretary.
 
-(3) **Assignment by Secretary** — After receiving notice under paragraph (1), the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Assignment of a loan under this paragraph shall include conveyance to the Secretary of title to the security property, assignment to the Secretary of all rights and interests arising under the loan, and assignment to the Secretary of all claims against the borrower or others arising out of the loan transaction. Upon assignment of a loan under this paragraph, the holder of a guarantee certificate for the loan shall be entitled to payment by the Secretary under the guarantee (in the amount provided under subsection (b) of this section).
+(3) **Assignment by Secretary** — After receiving notice under paragraph (1), the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Assignment of a loan under this paragraph shall include conveyance to the Secretary of title to the security property, assignment to the Secretary of all rights and interests arising under the loan, and assignment to the Secretary of all claims against the borrower or others arising out of the loan transaction. Upon assignment of a loan under this paragraph, the holder of a guarantee certificate for the loan shall be entitled to payment by the Secretary under the guarantee (in the amount provided under subsection (b)).
 
 (4) **Requirements** — Before any payment under a guarantee is made under paragraph (2) or (3), the holder of the guarantee certificate shall exhaust all reasonable possibilities of collection on the loan guaranteed. Upon payment, in whole or in part, to the holder, the note or judgment evidencing the debt shall be assigned to the United States and the holder shall have no further claim against the borrower or the United States. The Secretary shall then take such action to collect as the Secretary determines appropriate.
 
 **(j) Violation of guarantee requirements by lenders issuing guarantees**
 
-(1) **Indemnification** — If the Secretary determines that a loan guaranteed by an eligible lender pursuant to delegation of authority under subsection (h) of this section was not originated in accordance with the requirements under this section and the Secretary pays a claim under the guarantee for the loan, the Secretary may require the eligible lender authorized under subsection (h) of this section to issue the guarantee certificate for the loan—
+(1) **Indemnification** — If the Secretary determines that a loan guaranteed by an eligible lender pursuant to delegation of authority under subsection (h) was not originated in accordance with the requirements under this section and the Secretary pays a claim under the guarantee for the loan, the Secretary may require the eligible lender authorized under subsection (h) to issue the guarantee certificate for the loan—
 
   (A) to indemnify the Secretary for the loss, if the payment under the guarantee was made within a reasonable period specified by the Secretary; or
 
   (B) to indemnify the Secretary for the loss regardless of when payment under the guarantee was made, if the Secretary determines that fraud or misrepresentation was involved in connection with the origination of the loan.
 
-(2) **Termination of authority to issue guarantees** — The Secretary may cancel a delegation of authority under subsection (h) of this section to an eligible lender if the Secretary determines that the lender has violated the requirements and procedures for guaranteed loans under this section or for other good cause. Any such cancellation shall be made by giving notice to the eligible lender and shall take effect upon receipt of the notice by the mortgagee or at a later date, as the Secretary may provide. A decision by the Secretary to cancel a delegation shall be final and conclusive and shall not be subject to judicial review.
+(2) **Termination of authority to issue guarantees** — The Secretary may cancel a delegation of authority under subsection (h) to an eligible lender if the Secretary determines that the lender has violated the requirements and procedures for guaranteed loans under this section or for other good cause. Any such cancellation shall be made by giving notice to the eligible lender and shall take effect upon receipt of the notice by the mortgagee or at a later date, as the Secretary may provide. A decision by the Secretary to cancel a delegation shall be final and conclusive and shall not be subject to judicial review.
 
-**(k) Refinancing** Any loan guaranteed under this section may be refinanced and extended in accordance with terms and conditions that the Secretary shall prescribe, but in no event for an additional amount or term that exceeds the limitations under subsection (f) of this section.
+**(k) Refinancing** Any loan guaranteed under this section may be refinanced and extended in accordance with terms and conditions that the Secretary shall prescribe, but in no event for an additional amount or term that exceeds the limitations under subsection (f).
 
 **(l) Geographical targeting**
 
@@ -3807,13 +3819,13 @@ The Housing Act of 1949, referred to in subsec. (b)(4), is act July 15, 1949, ch
 
 (1) The term “development cost” has the meaning given the term in [section 1485(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1485/e&num=0&edition=prelim).
 
-(2) The term “eligible lender” means a lender determined by the Secretary to meet the requirements of subparagraph (A), (B), (C), or (D) of subsection (e)(1) of this section.
+(2) The term “eligible lender” means a lender determined by the Secretary to meet the requirements of subparagraph (A), (B), (C), or (D) of subsection (e)(1).
 
 (3) The terms “housing” and “related facilities” have the meanings given such terms in [section 1485(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1485/e&num=0&edition=prelim).
 
 (4) **Indian tribe.—** — The term “Indian tribe” means—
 
-  (A) any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation, as defined by or established pursuant to the Alaska Native Claims Settlement Act ([43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.); or
+  (A) any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation, as defined by or established pursuant to the Alaska Native Claims Settlement Act ([43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.); 2 or
 
   (B) any entity established by the governing body of an Indian tribe described in subparagraph (A) for the purpose of financing economic development.
 
@@ -3823,7 +3835,7 @@ The Housing Act of 1949, referred to in subsec. (b)(4), is act July 15, 1949, ch
 
 **(u) Fee authority** Any amounts collected by the Secretary pursuant to the fees charged to lenders for loan guarantees issued under this section shall be used to offset costs (as defined by [section 661a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim)) of loan guarantees made under this section.
 
-**(v) Defaults of loans secured by reservation lands** In the event of a default involving a loan to an Indian tribe or tribal corporation made under this section which is secured by an interest in land within such tribe’s reservation (as determined by the Secretary of the Interior), including a community in Alaska incorporated by the Secretary of the Interior pursuant to the Indian Reorganization Act ([25 U.S.C. 461](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section461&num=0&edition=prelim) et seq.), the lender shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe. If the lender subsequently proceeds to liquidate the account, the lender shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.
+**(v) Defaults of loans secured by reservation lands** In the event of a default involving a loan to an Indian tribe or tribal corporation made under this section which is secured by an interest in land within such tribe’s reservation (as determined by the Secretary of the Interior), including a community in Alaska incorporated by the Secretary of the Interior pursuant to the Indian Reorganization Act ([25 U.S.C. 461](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section461&num=0&edition=prelim) et seq.),2 the lender shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe. If the lender subsequently proceeds to liquidate the account, the lender shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.
 
 ### Statutory Notes
 
@@ -3834,9 +3846,9 @@ Subpar. (D) of [section 42(i)(2) of title 26](https://uscode.house.gov/view.xhtm
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (r)(4)(A), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
-The Indian Self-Determination and Education Assistance Act of 1975, referred to in subsec. (r)(4)(A), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) and Tables.
+The Indian Self-Determination and Education Assistance Act of 1975 ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.), referred to in subsec. (r)(4)(A), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
-The Indian Reorganization Act, referred to in subsec. (v), is act June 18, 1934, ch. 576, 48 Stat. 984, as amended, which is classified generally to subchapter V (§ 461 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 461 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section461&num=0&edition=prelim) and Tables.
+The Indian Reorganization Act ([25 U.S.C. 461](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section461&num=0&edition=prelim) et seq.), referred to in subsec. (v), is act June 18, 1934, ch. 576, 48 Stat. 984, which was classified generally to subchapter V (§ 461 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 45 (§ 5101 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 5101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5101&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section is based on section 5(a) of H.R. 1691, One Hundred Fourth Congress, as passed by the House of Representatives on Oct. 30, 1995, which was enacted into law by Pub. L. 104–120.
@@ -3888,17 +3900,17 @@ Section to be construed to have become effective Oct. 1, 1995, see section 13(a)
 
 (2) **Amount** — Subject to the availability of amounts pursuant to appropriations Acts, assistance under paragraph (1) shall be made in an amount equal to the product of—
 
-  (A) the sum of the official State estimate of the number of dwelling units in the counties described in paragraph (1) within the eligible service area of the Farmers Home Administration (or otherwise if the Secretary provides for a waiver under subsection (d) of this section) that are destroyed or seriously damaged; and
+  (A) the sum of the official State estimate of the number of dwelling units in the counties described in paragraph (1) within the eligible service area of the Farmers Home Administration (or otherwise if the Secretary provides for a waiver under subsection (d)) that are destroyed or seriously damaged; and
 
   (B) 20 percent of the average cost of all dwelling units assisted by the Secretary in the State during the previous 3 years.
 
-**(b) Use** The assistance made available under this section may be used for the housing purposes authorized under this subchapter, and the Secretary shall issue such regulations as may be necessary to carry out this section to assure the prompt and expeditious use of such funds for the restoration of decent, safe, and sanitary housing within the areas described in subsection (a)(1) of this section. In implementing this section, the Secretary shall evaluate the natural hazards to which any permanent replacement housing is exposed and shall take appropriate action to mitigate such hazards.
+**(b) Use** The assistance made available under this section may be used for the housing purposes authorized under this subchapter, and the Secretary shall issue such regulations as may be necessary to carry out this section to assure the prompt and expeditious use of such funds for the restoration of decent, safe, and sanitary housing within the areas described in subsection (a)(1). In implementing this section, the Secretary shall evaluate the natural hazards to which any permanent replacement housing is exposed and shall take appropriate action to mitigate such hazards.
 
 **(c) Eligibility** Notwithstanding any other provision of this subchapter, assistance allocated under this section shall be available to units of general local government and their agencies and to local nonprofit organizations, agencies, and corporations for the construction or rehabilitation of housing for agricultural employees and their families.
 
 **(d) Waiver of rural area requirements** The Secretary may waive the application of the provisions of [section 1490 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1490) with respect to assistance under this section, as the Secretary considers appropriate.
 
-**(e) Rural Housing Insurance Fund** The Secretary is authorized to advance from the Rural Housing Insurance Fund such sums as may be necessary to meet the requirements of subsection (a)(1) of this section, subject to limits previously approved in appropriations Acts.
+**(e) Rural Housing Insurance Fund** The Secretary is authorized to advance from the Rural Housing Insurance Fund such sums as may be necessary to meet the requirements of subsection (a)(1), subject to limits previously approved in appropriations Acts.
 
 ### Statutory Notes
 

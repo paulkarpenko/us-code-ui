@@ -98,9 +98,9 @@ Pub. L. 105–277, div. C, title XIII, § 1301, Oct. 21, 1998, 112 Stat. 2681–
 ## § 6502. Regulation of unfair and deceptive acts and practices in connection with collection and use of personal information from and about children on the Internet
 **(a) Acts prohibited**
 
-(1) **In general** — It is unlawful for an operator of a website or online service directed to children, or any operator that has actual knowledge that it is collecting personal information from a child, to collect personal information from a child in a manner that violates the regulations prescribed under subsection (b) of this section.
+(1) **In general** — It is unlawful for an operator of a website or online service directed to children, or any operator that has actual knowledge that it is collecting personal information from a child, to collect personal information from a child in a manner that violates the regulations prescribed under subsection (b).
 
-(2) **Disclosure to parent protected** — Notwithstanding paragraph (1), neither an operator of such a website or online service nor the operator’s agent shall be held to be liable under any Federal or State law for any disclosure made in good faith and following reasonable procedures in responding to a request for disclosure of personal information under subsection (b)(1)(B)(iii) of this section to the parent of a child.
+(2) **Disclosure to parent protected** — Notwithstanding paragraph (1), neither an operator of such a website or online service nor the operator’s agent shall be held to be liable under any Federal or State law for any disclosure made in good faith and following reasonable procedures in responding to a request for disclosure of personal information under subsection (b)(1)(B)(iii) to the parent of a child.
 
 **(b) Regulations**
 
@@ -157,7 +157,7 @@ Pub. L. 105–277, div. C, title XIII, § 1301, Oct. 21, 1998, 112 Stat. 2681–
 
 (3) **Termination of service** — The regulations shall permit the operator of a website or an online service to terminate service provided to a child whose parent has refused, under the regulations prescribed under paragraph (1)(B)(ii), to permit the operator’s further use or maintenance in retrievable form, or future online collection, of personal information from that child.
 
-**(c) Enforcement** Subject to sections 6503 and 6505 of this title, a violation of a regulation prescribed under subsection (a) of this section shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under [section 57a(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a/a/1/B&num=0&edition=prelim).
+**(c) Enforcement** Subject to sections 6503 and 6505 of this title, a violation of a regulation prescribed under subsection (a) shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under [section 57a(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a/a/1/B&num=0&edition=prelim).
 
 **(d) Inconsistent State law** No State or local government may impose any liability for commercial activities or actions by operators in interstate or foreign commerce in connection with an activity or action described in this chapter that is inconsistent with the treatment of those activities or actions under this section.
 
@@ -169,7 +169,7 @@ For effective date of subsec. (a) of this section, see section 1308 of Pub. L. 1
 
 <a id="section-6503"></a>
 ## § 6503. Safe harbors
-**(a) Guidelines** An operator may satisfy the requirements of regulations issued under [section 6502(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6502/b&num=0&edition=prelim) by following a set of self-regulatory guidelines, issued by representatives of the marketing or online industries, or by other persons, approved under subsection (b) of this section.
+**(a) Guidelines** An operator may satisfy the requirements of regulations issued under [section 6502(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6502/b&num=0&edition=prelim) by following a set of self-regulatory guidelines, issued by representatives of the marketing or online industries, or by other persons, approved under subsection (b).
 
 **(b) Incentives**
 
@@ -179,7 +179,7 @@ For effective date of subsec. (a) of this section, see section 1308 of Pub. L. 1
 
 (3) **Expedited response to requests** — The Commission shall act upon requests for safe harbor treatment within 180 days of the filing of the request, and shall set forth in writing its conclusions with regard to such requests.
 
-**(c) Appeals** Final action by the Commission on a request for approval of guidelines, or the failure to act within 180 days on a request for approval of guidelines, submitted under subsection (b) of this section may be appealed to a district court of the United States of appropriate jurisdiction as provided for in [section 706 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706&num=0&edition=prelim).
+**(c) Appeals** Final action by the Commission on a request for approval of guidelines, or the failure to act within 180 days on a request for approval of guidelines, submitted under subsection (b) may be appealed to a district court of the United States of appropriate jurisdiction as provided for in [section 706 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706&num=0&edition=prelim).
 
 
 <a id="section-6504"></a>
@@ -212,9 +212,9 @@ For effective date of subsec. (a) of this section, see section 1308 of Pub. L. 1
 
 **(b) Intervention**
 
-(1) **In general** — On receiving notice under subsection (a)(2) of this section, the Commission shall have the right to intervene in the action that is the subject of the notice.
+(1) **In general** — On receiving notice under subsection (a)(2), the Commission shall have the right to intervene in the action that is the subject of the notice.
 
-(2) **Effect of intervention** — If the Commission intervenes in an action under subsection (a) of this section, it shall have the right—
+(2) **Effect of intervention** — If the Commission intervenes in an action under subsection (a), it shall have the right—
 
   (A) to be heard with respect to any matter that arises in that action; and
 
@@ -222,7 +222,7 @@ For effective date of subsec. (a) of this section, see section 1308 of Pub. L. 1
 
 (3) **Amicus curiae** — Upon application to the court, a person whose self-regulatory guidelines have been approved by the Commission and are relied upon as a defense by any defendant to a proceeding under this section may file amicus curiae in that proceeding.
 
-**(c) Construction** For purposes of bringing any civil action under subsection (a) of this section, nothing in this chapter shall be construed to prevent an attorney general of a State from exercising the powers conferred on the attorney general by the laws of that State to—
+**(c) Construction** For purposes of bringing any civil action under subsection (a), nothing in this chapter shall be construed to prevent an attorney general of a State from exercising the powers conferred on the attorney general by the laws of that State to—
 
 (1) conduct investigations;
 
@@ -230,13 +230,13 @@ For effective date of subsec. (a) of this section, see section 1308 of Pub. L. 1
 
 (3) compel the attendance of witnesses or the production of documentary and other evidence.
 
-**(d) Actions by Commission** In any case in which an action is instituted by or on behalf of the Commission for violation of any regulation prescribed under [section 6502 of this title](./chapter-091-childrens-online-privacy-protection.md#section-6502), no State may, during the pendency of that action, institute an action under subsection (a) of this section against any defendant named in the complaint in that action for violation of that regulation.
+**(d) Actions by Commission** In any case in which an action is instituted by or on behalf of the Commission for violation of any regulation prescribed under [section 6502 of this title](./chapter-091-childrens-online-privacy-protection.md#section-6502), no State may, during the pendency of that action, institute an action under subsection (a) against any defendant named in the complaint in that action for violation of that regulation.
 
 **(e) Venue; service of process**
 
-(1) **Venue** — Any action brought under subsection (a) of this section may be brought in the district court of the United States that meets applicable requirements relating to venue under [section 1391 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391&num=0&edition=prelim).
+(1) **Venue** — Any action brought under subsection (a) may be brought in the district court of the United States that meets applicable requirements relating to venue under [section 1391 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391&num=0&edition=prelim).
 
-(2) **Service of process** — In an action brought under subsection (a) of this section, process may be served in any district in which the defendant—
+(2) **Service of process** — In an action brought under subsection (a), process may be served in any district in which the defendant—
 
   (A) is an inhabitant; or
 
@@ -272,7 +272,7 @@ For effective date of section, see section 1308 of Pub. L. 105–277, set out as
 
 (6) the Farm Credit Act of 1971 ([12 U.S.C. 2001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2001&num=0&edition=prelim) et seq.) by the Farm Credit Administration with respect to any Federal land bank, Federal land bank association, Federal intermediate credit bank, or production credit association.
 
-**(c) Exercise of certain powers** For the purpose of the exercise by any agency referred to in subsection (a) 22 So in original. Probably should be subsection “(b)”. of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a) 2 of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
+**(c) Exercise of certain powers** For the purpose of the exercise by any agency referred to in subsection (a) 22 So in original. Probably should be subsection “(b)”. of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a),2 each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
 
 **(d) Actions by Commission** The Commission shall prevent any person from violating a rule of the Commission under [section 6502 of this title](./chapter-091-childrens-online-privacy-protection.md#section-6502) in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act ([15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.) were incorporated into and made a part of this chapter. Any entity that violates such rule shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this chapter.
 

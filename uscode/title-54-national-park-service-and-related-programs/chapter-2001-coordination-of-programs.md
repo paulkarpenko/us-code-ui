@@ -20,7 +20,7 @@ Congress finds and declares it is desirable—
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200101 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l | Pub. L. 88–29, § 1, May 28, 1963, 77 Stat. 49. |
+| 200101 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l. | Pub. L. 88–29, § 1, May 28, 1963, 77 Stat. 49. |
 
 #### A 21st Century Strategy for America’s Great Outdoors
 Memorandum of President of the United States, Apr. 16, 2010, 75 F.R. 20767, provided:
@@ -124,7 +124,7 @@ As used in this chapter:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200102 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–3 | Pub. L. 88–29, § 4, May 28, 1963, 77 Stat. 50; Pub. L. 96–205, title VI, § 608(c), Mar. 12, 1980, 94 Stat. 92. |
+| 200102 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–3. | Pub. L. 88–29, § 4, May 28, 1963, 77 Stat. 50; Pub. L. 96–205, title VI, § 608(c), Mar. 12, 1980, 94 Stat. 92. |
 
 The words “the Trust Territory of the Pacific Islands” are omitted as obsolete. See note at 48 U.S.C. prec. 1681. For continued application of certain laws of the United States in certain cases, see the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America ([48 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1801&num=0&edition=prelim) note), the Compact of Free Association between the Government of the United States of America and the Governments of the Marshall Islands and the Federated States of Micronesia ([48 U.S.C. 1901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1901&num=0&edition=prelim) note), and the Compact of Free Association between the Government of the United States of America and the Government of Palau ([48 U.S.C. 1931](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1931&num=0&edition=prelim) note). The words “as determined by the Secretary” are added to make it clear that it is the Secretary who determines if it is practicable to include the stated entities.
 
@@ -168,7 +168,7 @@ The words “the Trust Territory of the Pacific Islands” are omitted as obsole
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200103 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–1 | Pub. L. 88–29, § 2, May 28, 1963, 77 Stat. 49; Pub. L. 91–375, § 6(h), Aug. 12, 1970, 84 Stat. 776. |
+| 200103 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–1. | Pub. L. 88–29, § 2, May 28, 1963, 77 Stat. 49; Pub. L. 91–375, § 6(h), Aug. 12, 1970, 84 Stat. 776. |
 
 In subsection (d), the words “which shall be prepared as soon as practicable within 5 years on and after May 28, 1963” and “Future” are omitted as obsolete.
 
@@ -189,6 +189,6 @@ To carry out the policy declared in [section 200101 of this title](./chapter-200
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200104 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–2 | Pub. L. 88–29, § 3, May 28, 1963, 77 Stat. 50. |
+| 200104 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–2. | Pub. L. 88–29, § 3, May 28, 1963, 77 Stat. 50. |
 
 The word “department” is omitted as being included in “agency”. The word “independent” is omitted as unnecessary.

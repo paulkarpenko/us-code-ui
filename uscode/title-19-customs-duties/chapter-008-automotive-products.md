@@ -28,7 +28,7 @@ Pub. L. 89–283, title I, § 101, Oct. 21, 1965, 79 Stat. 1016, provided that: 
 ## § 2011. Implementation of the Agreement
 **(a) Modification of Harmonized Tariff Schedule** The President is authorized to proclaim the modifications of the Harmonized Tariff Schedule of the United States provided for in title IV of this Act.
 
-**(b) Duty-free treatment of Canadian motor-vehicle equipment** At any time after the issuance of the proclamation authorized by subsection (a) of this section, the President is authorized to proclaim further modifications of the Harmonized Tariff Schedule of the United States to provide for the duty-free treatment of any Canadian article which is original motor-vehicle equipment (as defined by such Schedules as modified pursuant to subsection (a) of this section) if he determines that the importation of such article is actually or potentially of commercial significance and that such duty-free treatment is required to carry out the Agreement.
+**(b) Duty-free treatment of Canadian motor-vehicle equipment** At any time after the issuance of the proclamation authorized by subsection (a), the President is authorized to proclaim further modifications of the Harmonized Tariff Schedule of the United States to provide for the duty-free treatment of any Canadian article which is original motor-vehicle equipment (as defined by such Schedules as modified pursuant to subsection (a)) if he determines that the importation of such article is actually or potentially of commercial significance and that such duty-free treatment is required to carry out the Agreement.
 
 ### Statutory Notes
 
@@ -105,9 +105,9 @@ Section, Pub. L. 89–283, title II, § 202, Oct. 21, 1965, 79 Stat. 1016, which
 
 <a id="section-2013"></a>
 ## § 2013. Effective date of proclamations
-**(a) Retroactive effect; authority of President** Subject to subsection (b) of this section, the President is authorized, notwithstanding [section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514) or any other provision of law, to give retroactive effect to any proclamation issued pursuant to [section 2011 of this title](./chapter-008-automotive-products.md#section-2011) as of the earliest date after January 17, 1965, which he determines to be practicable.
+**(a) Retroactive effect; authority of President** Subject to subsection (b), the President is authorized, notwithstanding [section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514) or any other provision of law, to give retroactive effect to any proclamation issued pursuant to [section 2011 of this title](./chapter-008-automotive-products.md#section-2011) as of the earliest date after January 17, 1965, which he determines to be practicable.
 
-**(b) Filing of request with customs officer** In the case of liquidated customs entries, the retroactive effect pursuant to subsection (a) of this section of any proclamation shall apply only upon request therefor filed with the customs officer concerned on or before the 90th day after the date of such proclamation and subject to such other conditions as the President may specify.
+**(b) Filing of request with customs officer** In the case of liquidated customs entries, the retroactive effect pursuant to subsection (a) of any proclamation shall apply only upon request therefor filed with the customs officer concerned on or before the 90th day after the date of such proclamation and subject to such other conditions as the President may specify.
 
 
 <a id="section-2014"></a>

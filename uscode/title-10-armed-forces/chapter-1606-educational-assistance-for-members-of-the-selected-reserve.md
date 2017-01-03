@@ -44,7 +44,7 @@ source: >-
 
   (B) The payment of the educational assistance allowance referred to in subparagraph (A) of this paragraph is the payment of such an allowance to the individual for pursuit of a course or courses under this chapter if the Secretary of Veterans Affairs finds that the individual—
 
-    (i) had to discontinue such course pursuit as a result of being ordered to serve on active duty under section 12301(a), 12301(d), 12301(g), 12302, or 12304 of this title; and
+    (i) had to discontinue such course pursuit as a result of being ordered to serve on active duty under section 12301(a), 12301(d), 12301(g), 12302, 12304, 12304a, or 12304b of this title; and
 
     (ii) failed to receive credit or training time toward completion of the individual’s approved educational, professional, or vocational objective as a result of having to discontinue, as described in clause (i), the individual’s course pursuit.
 
@@ -151,6 +151,8 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (c)(3)(B)(i). Pub. L. 114–315 substituted “12304, 12304a, or 12304b” for “or 12304”.
+
 2006—Subsec. (j). Pub. L. 109–163 added subsec. (j).
 
 2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
@@ -547,7 +549,7 @@ Subsec. (i)(2). Pub. L. 111–383, § 1075(b)(55)(B), struck out “whose” aft
 
 (3) The provisions of [section 3031(d) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3031/d&num=0&edition=prelim) shall apply to the period of entitlement prescribed by subsection (a) in the case of a disability incurred in or aggravated by service in the Selected Reserve.
 
-(4) In the case of a member of the Selected Reserve of the Ready Reserve who serves on active duty pursuant to an order to active duty issued under section 12301(a), 12301(d), 12301(g), 12302, or 12304 of this title—
+(4) In the case of a member of the Selected Reserve of the Ready Reserve who serves on active duty pursuant to an order to active duty issued under section 12301(a), 12301(d), 12301(g), 12302, 12304, 12304a, or 12304b of this title—
 
   (A) the period of such active duty service plus four months shall not be considered in determining the expiration date applicable to such member under subsection (a); and
 
@@ -556,6 +558,8 @@ Subsec. (i)(2). Pub. L. 111–383, § 1075(b)(55)(B), struck out “whose” aft
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (b)(4). Pub. L. 114–315 substituted “12304, 12304a, or 12304b” for “or 12304” in introductory provisions.
+
 2008—Subsec. (a). Pub. L. 110–252 substituted “on the date the person is separated from the Selected Reserve.” for “(1) at the end of the 14-year period beginning on the date on which such person becomes entitled to such assistance, or (2) on the date the person is separated from the Selected Reserve, whichever occurs first.”
 
 Subsec. (b)(1)(B). Pub. L. 110–181 inserted “or the period beginning on October 1, 2007, and ending on September 30, 2014,” after “December 31, 2001,”.

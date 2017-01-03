@@ -125,23 +125,44 @@ It is unlawful for any person—
 
 (2) to violate any regulation promulgated under this chapter;
 
-(3) to ship, transport, offer for sale, sell, purchase, import, export, or have custody, control or possession of, any Antarctic marine living resource (or part or product thereof) which he knows, or reasonably should have known, was harvested in violation of a conservation measure in force with respect to the United States pursuant to article IX of the Convention or in violation of any regulation promulgated under this chapter, without regard to the citizenship of the person that harvested, or vessel that was used in the harvesting of, the Antarctic marine living resource (or part or product thereof);
+(3) to ship, transport, offer for sale, sell, purchase, import, export, or have custody, control or possession of, any Antarctic marine living resource (or part or product thereof) harvested in violation of a conservation measure in force with respect to the United States pursuant to article IX of the Convention or in violation of any regulation promulgated under this chapter, without regard to the citizenship of the person that harvested, or vessel that was used in the harvesting of, the Antarctic marine living resource (or part or product thereof);
 
-(4) to refuse to permit any authorized officer or employee of the United States to board a vessel of the United States or a vessel subject to the jurisdiction of the United States for purposes of conducting any search or inspection in connection with the enforcement of the Convention, this chapter, or any regulations promulgated under this chapter;
+(4) to refuse to permit any authorized officer or employee of the United States to board a vessel of the United States or a vessel subject to the jurisdiction of the United States for purposes of conducting any search, investigation, or inspection in connection with the enforcement of the Convention, this chapter, or any regulations promulgated under this chapter;
 
-(5) to assault, resist, oppose, impede, intimidate, or interfere with any authorized officer or employee of the United States in the conduct of any search or inspection described in paragraph (4);
+(5) to assault, resist, oppose, impede, intimidate, or interfere with any authorized officer or employee of the United States in the conduct of any search, investigation, or inspection described in paragraph (4);
 
 (6) to resist a lawful arrest or detention for any act prohibited by this section; or
 
 (7) to interfere with, delay, or prevent, by any means, the apprehension, arrest, or detention of another person, knowing that such other person has committed any act prohibited by this section.
 
+### Statutory Notes
+
+#### Amendments
+2015—Par. (3). Pub. L. 114–81, § 106(1)(A), struck out “which he knows, or reasonably should have known, was” before “harvested in violation”.
+
+Pars. (4), (5). Pub. L. 114–81, § 106(1)(B), (C), inserted “, investigation,” after “search”.
+
 
 <a id="section-2436"></a>
 ## § 2436. Regulations
+**(a) In general** The Secretary of Commerce, after consultation with the Secretary of State, the Secretary of the department in which the Coast Guard is operating, and the heads of other appropriate departments or agencies of the United States, shall promulgate such regulations as are necessary and appropriate to implement the provisions of this chapter.
 
-The Secretary of Commerce, after consultation with the Secretary of State, the Secretary of the department in which the Coast Guard is operating, and the heads of other appropriate departments or agencies of the United States, shall promulgate such regulations as are necessary and appropriate to implement the provisions of this chapter.
+**(b) Regulations to implement conservation measures**
+
+(1) **In general** — Notwithstanding subsections (b), (c), and (d) of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), the Secretary of Commerce may publish in the Federal Register a final regulation to implement any conservation measure for which the Secretary of State notifies the Commission under [section 2434(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2434/a/1&num=0&edition=prelim)—
+
+  (A) that has been in effect for 12 months or less;
+
+  (B) that is adopted by the Commission; and
+
+  (C) with respect to which the Secretary of State,11 So in original. The comma probably should not appear. does not notify Commission 22 So in original. Probably should be preceded by “the”. in accordance with [section 2434(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2434/a/1&num=0&edition=prelim) within the time period allotted for objections under Article IX of the Convention.
+
+(2) **Entering into force** — Upon publication of such regulation in the Federal Register, such conservation measure shall enter into force with respect to the United States.
 
 ### Statutory Notes
+
+#### Amendments
+2015—Pub. L. 114–81 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -149,35 +170,36 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 <a id="section-2437"></a>
 ## § 2437. Civil penalties
-**(a) Assessment of penalties**
+**(a) In general** Any person who commits an act that is unlawful under [section 2435 of this title](./chapter-44a-antarctic-marine-living-resources-convention.md#section-2435) shall be liable to the United States for a civil penalty, and may be subject to a permit sanction, under [section 1858 of this title](./chapter-038-fishery-conservation-and-management.md#section-1858).
 
-(1) Any person who is found by the Secretary of Commerce, after notice and opportunity for a hearing in accordance with subsection (b) of this section, to have committed any act prohibited by [section 2435 of this title](./chapter-44a-antarctic-marine-living-resources-convention.md#section-2435) shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $5,000 for each violation unless the prohibited act was knowingly committed, in which case the amount of the civil penalty shall not exceed $10,000 for each violation. Each day of a continuing violation shall constitute a separate violation for purposes of this subsection. The amount of any civil penalty shall be assessed by the Secretary of Commerce by written notice. In determining the amount of such penalty, the Secretary of Commerce shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed, and, with respect to the person committing the violation, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require, to the extent that such information is reasonably available to the Secretary.
-
-(2) The Secretary of Commerce may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section, until such time as the matter is referred to the Attorney General under subsection (c) of this section.
-
-**(b) Hearings** Hearings for the assessment of civil penalties under subsection (a) of this section shall be conducted in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim). For the purposes of conducting any such hearing, the Secretary of Commerce may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpoena served upon any person pursuant to this subsection, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the Attorney General of the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Secretary of Commerce or to appear and produce documents before the Secretary of Commerce, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+**(b) Hearings** Hearings for the assessment of civil penalties under subsection (a) shall be conducted in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim). For the purposes of conducting any such hearing, the Secretary of Commerce may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpoena served upon any person pursuant to this subsection, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the Attorney General of the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Secretary of Commerce or to appear and produce documents before the Secretary of Commerce, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 **(c) Review of civil penalty** Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the appropriate district court of the United States by filing a notice of appeal in such court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary of Commerce, the Attorney General, and the appropriate United States Attorney. The Secretary of Commerce shall promptly refer the matter to the Attorney General of the United States, who shall file in such court a certified copy of the record upon which the violation was found or such penalty imposed, as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim). The court shall set aside the findings and order of the Secretary if the findings and order are found to be unsupported by substantial evidence, as provided in [section 706(2)(E) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706/2/E&num=0&edition=prelim).
 
 **(d) Recovery of civil penalties** The Attorney General of the United States may seek to recover in any appropriate district court of the United States (1) any civil penalty imposed under this section that has become a final and unappealable order and has been referred to the Attorney General by the Secretary of Commerce or (2) any final judgment rendered under this section in favor of the United States by an appropriate Court.
 
-**(e) Penalties under other laws** The assessment of a civil penalty under subsection (a) of this section for any act shall not be deemed to preclude the assessment of a civil penalty for such act under any other law.
+**(e) Penalties under other laws** The assessment of a civil penalty under subsection (a) for any act shall not be deemed to preclude the assessment of a civil penalty for such act under any other law.
+
+### Statutory Notes
+
+#### Amendments
+2015—Pub. L. 114–81 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to assessment of penalties.
 
 
 <a id="section-2438"></a>
 ## § 2438. Criminal offenses
 **(a) Offenses** A person is guilty of an offense if that person commits any act prohibited by paragraph (4), (5), (6), or (7) of [section 2435 of this title](./chapter-44a-antarctic-marine-living-resources-convention.md#section-2435).
 
-**(b) Punishment** Any offense described in subsection (a) of this section is punishable by a fine of $50,000, or imprisonment for not more than ten years, or both.
+**(b) Punishment** Any offense described in subsection (a) is punishable by a fine of $50,000, or imprisonment for not more than ten years, or both.
 
-**(c) Offenses under other laws** A conviction under subsection (a) of this section for any act shall not be deemed to preclude a conviction for such act under any other law.
+**(c) Offenses under other laws** A conviction under subsection (a) for any act shall not be deemed to preclude a conviction for such act under any other law.
 
 
 <a id="section-2439"></a>
 ## § 2439. Enforcement
 **(a) Responsibility** The provisions of this chapter shall be enforced by the Secretary of Commerce and the Secretary of the department in which the Coast Guard is operating. Such Secretaries may utilize by agreement, on a reimbursable basis or otherwise, the personnel, services, and facilities of any other department or agency of the United States in the performance of such duties.
 
-**(b) Powers of authorized officers and employees** Any officer or employee of the United States who is authorized (by the Secretary of Commerce, the Secretary of the department in which the Coast Guard is operating, or the head of any department or agency of the United States which has entered into an agreement with either Secretary under subsection (a) of this section) to enforce the provisions of this chapter and of any regulation promulgated under this chapter may, in enforcing such provisions—
+**(b) Powers of authorized officers and employees** Any officer or employee of the United States who is authorized (by the Secretary of Commerce, the Secretary of the department in which the Coast Guard is operating, or the head of any department or agency of the United States which has entered into an agreement with either Secretary under subsection (a)) to enforce the provisions of this chapter and of any regulation promulgated under this chapter may, in enforcing such provisions—
 
 (1) secure, execute, and serve any order, warrant, subpoena, or other process, which is issued under the authority of the United States;
 
@@ -207,7 +229,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (10) exercise any other authority which such officer or employee is permitted by law to exercise.
 
-**(c) Seizure** Subject to the succeeding provisions of this subsection, any property or item seized pursuant to subsection (b) of this section shall be held by any officer or employee of the United States, who is authorized by the Secretary of Commerce or the Secretary of the department in which the Coast Guard is operating, pending the disposition of civil or criminal proceedings concerning the violation relating to the property or item, or the institution of an action in rem for the forfeiture of such property or item. Such authorized officer or employee may, upon the order of a court of competent jurisdiction, either release such seized property or item to the wild or destroy such property or item, when the cost of maintenance of the property or item pending the disposition of the case is greater than the legitimate market value of the property or item. Such authorized officer or employee and all officers or employees acting by or under his or her direction shall be indemnified from any penalties or actions for damages for so releasing or destroying such property or item. Such authorized officer or employee may, in lieu of holding such property or item, permit the owner or consignee thereof to post a bond or other satisfactory surety.
+**(c) Seizure** Subject to the succeeding provisions of this subsection, any property or item seized pursuant to subsection (b) shall be held by any officer or employee of the United States, who is authorized by the Secretary of Commerce or the Secretary of the department in which the Coast Guard is operating, pending the disposition of civil or criminal proceedings concerning the violation relating to the property or item, or the institution of an action in rem for the forfeiture of such property or item. Such authorized officer or employee may, upon the order of a court of competent jurisdiction, either release such seized property or item to the wild or destroy such property or item, when the cost of maintenance of the property or item pending the disposition of the case is greater than the legitimate market value of the property or item. Such authorized officer or employee and all officers or employees acting by or under his or her direction shall be indemnified from any penalties or actions for damages for so releasing or destroying such property or item. Such authorized officer or employee may, in lieu of holding such property or item, permit the owner or consignee thereof to post a bond or other satisfactory surety.
 
 **(d) Forfeiture**
 
@@ -222,7 +244,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-2440"></a>
@@ -271,7 +293,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 ## § 2442. Relationship to existing treaties and statutes
 **(a) In general** Nothing in this chapter 11 See Codification note below. shall be construed as contravening or superseding (1) the provisions of any international treaty, convention, or agreement, if such treaty, convention or agreement is in force with respect to the United States on Nov. 8, 1984, or (2) the provisions of any statute which implements any such treaty, convention, or agreement. Nothing in this chapter shall be construed as contravening or superseding the provisions of any statute enacted before Nov. 8, 1984, which may otherwise apply to Antarctic marine living resources.
 
-**(b) Application of more restrictive provisions** Nothing in this section shall be construed to prevent the application of provisions of the Convention, conservation measures adopted by the Commission pursuant to article IX of the Convention, or regulations promulgated under this chapter, which are more restrictive than the provisions of, measures adopted under, or regulations promulgated under, the treaties or statutes described in subsection (a) of this section.
+**(b) Application of more restrictive provisions** Nothing in this section shall be construed to prevent the application of provisions of the Convention, conservation measures adopted by the Commission pursuant to article IX of the Convention, or regulations promulgated under this chapter, which are more restrictive than the provisions of, measures adopted under, or regulations promulgated under, the treaties or statutes described in subsection (a).
 
 ### Statutory Notes
 

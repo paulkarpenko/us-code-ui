@@ -289,9 +289,9 @@ Section was classified to section 207d of former Title 40, prior to the enactmen
 ## § 1905. Deposit and use of reimbursements for law enforcement assistance
 **(a)**
 
-(1) Any funds received by the Capitol Police as reimbursement for law enforcement assistance from any Federal, State, or local government agency (including any agency of the District of Columbia) shall be deposited in the United States Treasury for credit to the appropriation for “general expenses” under the heading “United States Capitol Police”, or “security enhancements” under the heading “United States Capitol Police”.
+(1) Any funds received by the Capitol Police as reimbursement for law enforcement assistance from any Federal, State, or local government agency (including any agency of the District of Columbia), and from any other source in the case of assistance provided in connection with an activity that was not sponsored by Congress shall be deposited in the United States Treasury for credit to the appropriation for “general expenses” under the heading “United States Capitol Police”, or “security enhancements” under the heading “United States Capitol Police”.
 
-(2) Funds deposited under this subsection may be expended by the Chief of the United States Capitol Police for any authorized purpose, including overtime pay expenditures relating to law enforcement assistance to any Federal, State, or local government agency (including any agency of the District of Columbia), and shall remain available until expended.
+(2) Funds deposited under this subsection may be expended by the Chief of the United States Capitol Police for any authorized purpose, including overtime pay expenditures relating to any law enforcement assistance for which reimbursement described in paragraph (1) is made, and shall remain available until expended.
 
 **(b)** This section shall take effect on July 24, 2001, and shall apply to fiscal year 2001 and each fiscal year thereafter.
 
@@ -300,10 +300,19 @@ Section was classified to section 207d of former Title 40, prior to the enactmen
 #### Codification
 Section was classified to section 207e of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
+Section is from the Supplemental Appropriations Act, 2001.
+
 #### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–113, § 1001(a), substituted “District of Columbia), and from any other source in the case of assistance provided in connection with an activity that was not sponsored by Congress” for “District of Columbia)”.
+
+Subsec. (a)(2). Pub. L. 114–113, § 1001(b), substituted “any law enforcement assistance for which reimbursement described in paragraph (1) is made” for “law enforcement assistance to any Federal, State, or local government agency (including any agency of the District of Columbia)”.
+
 2010—Subsec. (a)(1). Pub. L. 111–145, § 2(b)(1)(A), substituted “United States Capitol Police” for “Capitol Police Board” in two places.
 
 Subsec. (a)(2). Pub. L. 111–145, § 2(b)(1)(B), substituted “Chief of the United States Capitol Police” for “Capitol Police Board”.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. I, title I, § 1001(c), Dec. 18, 2015, 129 Stat. 2663, provided that: “The amendments made by this section [amending this section] shall only apply with respect to any reimbursement received before, on, or after the date of the enactment of the Act [Dec. 18, 2015].”
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–145, § 2(b)(2), Mar. 4, 2010, 124 Stat. 51, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect as if included in the enactment of the Supplemental Appropriations Act, 2001 [Pub. L. 107–20].”
@@ -412,7 +421,7 @@ Section is comprised of section 1018 of div. H of Pub. L. 108–7. Subsec. (h) o
 Section is from the Legislative Branch Appropriations Act, 2003, which is div. H of Pub. L. 108–7.
 
 #### Amendments
-2014—Pub. L. 113–76 struck out subsec. (f), which established a worker’s compensation account for the Capitol Police.
+2014—Pub. L. 113–76 struck out subsec. (f) which established a worker’s compensation account for the Capitol Police.
 
 2010—Subsec. (e)(1). Pub. L. 111–145 added par. (1) and struck out former par. (1) which authorized the Chief of the Capitol Police to appoint, hire, discharge, and set the terms, conditions, and privileges of employment of employees of the Capitol Police, subject to review and approval.
 

@@ -33,9 +33,9 @@ For the purposes of this chapter, the following definitions apply:
 
 (1) **Federal agency** — The term “federal 11 So in original. Probably should be capitalized. agency” has the same meaning given the term “agency” in [section 551(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551/1&num=0&edition=prelim).
 
-(2) **Indian tribe** — The terms “Indian tribe” and “tribe” shall have the meaning given the term “Indian tribe” in [section 450b(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim).
+(2) **Indian tribe** — The terms “Indian tribe” and “tribe” shall have the meaning given the term “Indian tribe” in [section 5304(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim).
 
-(3) **Indian** — The term “Indian” shall have the meaning given such term in [section 450b(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/d&num=0&edition=prelim).
+(3) **Indian** — The term “Indian” shall have the meaning given such term in [section 5304(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/d&num=0&edition=prelim).
 
 (4) **Secretary** — Except where otherwise provided, the term “Secretary” means the Secretary of the Interior.
 
@@ -120,7 +120,7 @@ Within 90 days after the receipt of a tribal government’s plan by the Secretar
 
   (B) 10 percent.
 
-**(c) Limitation** The funds used for an expenditure described in subsection (a) of this section may only include funds made available to the Indian tribe by a Federal agency under a statutory or administrative formula.
+**(c) Limitation** The funds used for an expenditure described in subsection (a) may only include funds made available to the Indian tribe by a Federal agency under a statutory or administrative formula.
 
 ### Statutory Notes
 

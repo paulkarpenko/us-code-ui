@@ -189,7 +189,7 @@ As used in this chapter:
 
   (C) an organization of State or local elected or appointed officials other than officials of an entity described in clause (i), (ii), (iii), (iv), or (v) of subparagraph (A);
 
-  (D) an Indian tribe (as defined in [section 450b(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim); 11 So in original. A closing parenthesis probably should precede the semicolon.
+  (D) an Indian tribe (as defined in [section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim); 11 So in original. A closing parenthesis probably should precede the semicolon.
 
   (E) a national or State political party or any organizational unit thereof; or
 
@@ -229,6 +229,9 @@ Par. (15)(F). Pub. L. 105–166, § 3(b), inserted before period at end “, or 
 
 #### Effective Date of 2007 Amendment
 Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under [section 30104 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30104&num=0&edition=prelim), Voting and Elections.
+
+#### Effective Date
+Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under [section 1601 of this title](./chapter-026-disclosure-of-lobbying-activities.md#section-1601).
 
 
 <a id="section-1603"></a>
@@ -324,6 +327,9 @@ Subsec. (b)(6). Pub. L. 110–81, § 208, substituted “in the 20 years before 
 
 #### Effective Date of 2007 Amendment
 Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under [section 30104 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30104&num=0&edition=prelim), Voting and Elections.
+
+#### Effective Date
+Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under [section 1601 of this title](./chapter-026-disclosure-of-lobbying-activities.md#section-1601).
 
 
 <a id="section-1604"></a>
@@ -426,6 +432,9 @@ Pub. L. 110–81, title II, § 203(b), Sept. 14, 2007, 121 Stat. 744, provided t
 
 Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under [section 30104 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30104&num=0&edition=prelim), Voting and Elections.
 
+#### Effective Date
+Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under [section 1601 of this title](./chapter-026-disclosure-of-lobbying-activities.md#section-1601).
+
 
 <a id="section-1605"></a>
 ## § 1605. Disclosure and enforcement
@@ -486,6 +495,9 @@ Pars. (9), (10). Pub. L. 110–81, § 209(a), added pars. (9) and (10).
 #### Effective Date of 2007 Amendment
 Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under [section 30104 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30104&num=0&edition=prelim), Voting and Elections.
 
+#### Effective Date
+Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under [section 1601 of this title](./chapter-026-disclosure-of-lobbying-activities.md#section-1601).
+
 
 <a id="section-1606"></a>
 ## § 1606. Penalties
@@ -509,6 +521,9 @@ This chapter, referred to in text, was in the original “this Act” meaning Pu
 #### Effective Date of 2007 Amendment
 Pub. L. 110–81, title II, § 211(b), Sept. 14, 2007, 121 Stat. 749, provided that: “The amendments made by subsection (a) [amending this section] shall apply to any violation committed on or after the date of the enactment of this Act [Sept. 14, 2007].”
 
+#### Effective Date
+Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under [section 1601 of this title](./chapter-026-disclosure-of-lobbying-activities.md#section-1601).
+
 
 <a id="section-1607"></a>
 ## § 1607. Rules of construction
@@ -530,6 +545,9 @@ protected by the first amendment to the Constitution.
 #### References in Text
 This chapter, referred to in text, was in the original “this Act” meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-026-disclosure-of-lobbying-activities.md#section-1601) and Tables.
 
+#### Effective Date
+Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under [section 1601 of this title](./chapter-026-disclosure-of-lobbying-activities.md#section-1601).
+
 
 <a id="section-1608"></a>
 ## § 1608. Severability
@@ -540,6 +558,9 @@ If any provision of this chapter, or the application thereof, is held invalid, t
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act” meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-026-disclosure-of-lobbying-activities.md#section-1601) and Tables.
+
+#### Effective Date
+Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under [section 1601 of this title](./chapter-026-disclosure-of-lobbying-activities.md#section-1601).
 
 
 <a id="section-1609"></a>
@@ -562,6 +583,9 @@ This chapter, referred to in text, was in the original “this Act” meaning Pu
 
 #### References in Text
 This chapter, referred to in subsecs. (a)(1) and (b), was in the original “this Act” meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-026-disclosure-of-lobbying-activities.md#section-1601) and Tables.
+
+#### Effective Date
+Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under [section 1601 of this title](./chapter-026-disclosure-of-lobbying-activities.md#section-1601).
 
 
 <a id="section-1610"></a>
@@ -619,6 +643,9 @@ Subsec. (b)(2). Pub. L. 105–166, § 4(b)(2), amended par. (2) generally. Prior
 #### Effective Date of 2007 Amendment
 Except as otherwise provided, amendment by Pub. L. 110–81 applicable with respect to registrations under the Lobbying Disclosure Act of 1995 (this chapter) having an effective date of Jan. 1, 2008, or later and with respect to quarterly reports under that Act covering calendar quarters beginning on or after Jan. 1, 2008, see section 215 of Pub. L. 110–81, set out as a note under [section 30104 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30104&num=0&edition=prelim), Voting and Elections.
 
+#### Effective Date
+Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under [section 1601 of this title](./chapter-026-disclosure-of-lobbying-activities.md#section-1601).
+
 
 <a id="section-1611"></a>
 ## § 1611. Exempt organizations
@@ -635,12 +662,20 @@ Pub. L. 104–99, title I, § 129(b), Jan. 26, 1996, 110 Stat. 34, provided that
 
 [For provision that notwithstanding section 106 of Pub. L. 104–99 [110 Stat. 27], section 129 of Pub. L. 104–99 [see above] to remain in effect as if enacted as part of Pub. L. 104–134, see section 21103 of Pub. L. 104–134, set out as a note following note captioned 501 First Street SE., District of Columbia; Disposal of Real Property, under [section 2001 of this title](./chapter-030-operation-and-maintenance-of-capitol-complex.md#section-2001)].
 
+#### Effective Date
+Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under [section 1601 of this title](./chapter-026-disclosure-of-lobbying-activities.md#section-1601).
+
 
 <a id="section-1612"></a>
 ## § 1612. Sense of Senate that lobbying expenses should remain nondeductible
 **(a) Findings** The Senate finds that ordinary Americans generally are not allowed to deduct the costs of communicating with their elected representatives.
 
 **(b) Sense of Senate** It is the sense of the Senate that lobbying expenses should not be tax deductible.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as a note under [section 1601 of this title](./chapter-026-disclosure-of-lobbying-activities.md#section-1601).
 
 
 <a id="section-1613"></a>

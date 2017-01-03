@@ -209,13 +209,13 @@ Sec. 2–101. Countertrade and Barter.
 
 Sec. 2–201. Sanctions Against Toshiba and Kongsberg.
 
-(1) Procurement Sanctions. Pursuant to section 2443 of the Omnibus Trade Act [50 U.S.C. App. 2410a note] and subject to the exceptions referred to in paragraph (3), departments, agencies and instrumentalities of the United States Government shall not for the three-year period beginning on the date this Order takes effect, contract with or procure products and services from Toshiba Machine Company, Kongsberg Trading Company, Toshiba Corporation or Kongsberg Vaapenfabrikk. The head of each department, agency or instrumentality is hereby directed and authorized to implement this procurement sanction in accordance with paragraph (3).
+(1) Procurement Sanctions. Pursuant to section 2443 of the Omnibus Trade Act [former 50 U.S.C. App. 2410a note] and subject to the exceptions referred to in paragraph (3), departments, agencies and instrumentalities of the United States Government shall not for the three-year period beginning on the date this Order takes effect, contract with or procure products and services from Toshiba Machine Company, Kongsberg Trading Company, Toshiba Corporation or Kongsberg Vaapenfabrikk. The head of each department, agency or instrumentality is hereby directed and authorized to implement this procurement sanction in accordance with paragraph (3).
 
 (2) Import Sanctions. Pursuant to section 2443 of the Omnibus Trade Act and subject to the exceptions referred to in paragraph (3), importation into the United States, its territories and possessions, of products produced by Toshiba Machine Company or Kongsberg Trading Company is prohibited for three years from the effective date of this Order. The Secretary of the Treasury is hereby directed and authorized to implement this import sanction in accordance with paragraph (3).
 
 (3) Exceptions. Authority to make determinations as to exceptions to sanctions and to implement exceptions by regulation or otherwise is delegated (i) to the Secretary of Defense with respect to determinations under section 2443(c)(1) regarding the procurement of defense articles or defense services, (ii) to the Secretary of the Treasury with respect to exceptions under section 2443(c)(2) regarding importation prohibited by section 2443(a)(2), and (iii) to the head of each Federal department, agency or instrumentality with respect to exceptions under section 2443(c)(2) affecting their respective contracting and procurement. All regulations implementing these exceptions provisions shall be consistent with any guidelines provided by the Office of Federal Procurement Policy, Office of Management and Budget.
 
-(4) Annual Report. The annual report required by section 2445 [50 U.S.C. App. 2413], concerning estimated increases in defense expenditures arising from illegal technology transfers, shall be prepared by the Secretary of Defense, in consultation with the Secretaries of State and Commerce, for submission to the Congress by the President.
+(4) Annual Report. The annual report required by section 2445 [adding [50 U.S.C. 4616(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4616/f&num=0&edition=prelim)], concerning estimated increases in defense expenditures arising from illegal technology transfers, shall be prepared by the Secretary of Defense, in consultation with the Secretaries of State and Commerce, for submission to the Congress by the President.
 
 #### PART III—FOREIGN CORRUPT PRACTICES AMENDMENTS; INVESTMENT; AND TECHNOLOGY
 Sec. 3–101. Foreign Corrupt Practices Act Amendments.
@@ -224,7 +224,7 @@ The functions conferred upon the President by section 5003(d)(1) (“Internation
 
 Sec. 3–201. Authority to Review Certain Mergers, Acquisitions, and Takeovers.
 
-(1) Executive Order No. 11858, as amended [50 U.S.C. App. 2170 note], regarding the Committee on Foreign Investment in the United States (the “Committee”) is further amended as follows:
+(1) Executive Order No. 11858, as amended [[50 U.S.C. 4565](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4565&num=0&edition=prelim) note], regarding the Committee on Foreign Investment in the United States (the “Committee”) is further amended as follows:
 
 (A) By adding new Sections 7 and 8 as follows:
 
@@ -238,7 +238,7 @@ Sec. 3–201. Authority to Review Certain Mergers, Acquisitions, and Takeovers.
 
 (C) By deleting, from the third sentence in Section 1(a), the phrase “representative of the”.
 
-(D) By deleting “and” at the end of subparagraph (3) of Section 1(b), by substituting “; and” for the period at the end of subparagraph (4) of that Section, and by adding a new subparagraph (5) as follows: “(5) coordinate the views of the Executive Branch and discharge the responsibilities with respect to Section 721(a) and (e) of the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 et seq.) (“Defense Production Act”).”
+(D) By deleting “and” at the end of subparagraph (3) of Section 1(b), by substituting “; and” for the period at the end of subparagraph (4) of that Section, and by adding a new subparagraph (5) as follows: “(5) coordinate the views of the Executive Branch and discharge the responsibilities with respect to Section 721(a) and (e) of the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 et seq.) [now [50 U.S.C. 4501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4501&num=0&edition=prelim) et seq.] (“Defense Production Act”).”
 
 (E) By adding the following sentence at the end of Section 5: “Information or documentary material filed pursuant to Section 1(b)(5) or Section 7 of this Order shall be treated in accordance with paragraph (b) of Section 721 of the Defense Production Act.”
 
@@ -278,7 +278,7 @@ Sec. 5–101. Executive Oversight.
 
 Any actions or determinations taken or made by an officer or agency under the Omnibus Trade Act or this Order shall be subject to the Executive oversight and direction of the President, and such actions or determinations shall be undertaken after appropriate inter-agency consultation as established by the President.
 
-Sec. 5–102. Regulatory Review. Notwithstanding the provisions of section 1(a)(2) of Executive Order No. 12291 of February 17, 1981 [formerly [5 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim) note], the Director of the Office of Management and Budget shall, with regard to regulations, rules, or agency statements of general applicability and future effect designed to implement, interpret, or prescribe law or policy or describing the procedure or practice requirements of an agency relative to the administration of the Export Administration Act [50 U.S.C. App. 2401 et seq.], determine whether such regulations, rules, or agency statements are exempted from review under that Order, pursuant to the provisions of section 8(b) thereof [50 U.S.C. App. 2407(b)].
+Sec. 5–102. Regulatory Review. Notwithstanding the provisions of section 1(a)(2) of Executive Order No. 12291 of February 17, 1981 [formerly [5 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim) note], the Director of the Office of Management and Budget shall, with regard to regulations, rules, or agency statements of general applicability and future effect designed to implement, interpret, or prescribe law or policy or describing the procedure or practice requirements of an agency relative to the administration of the Export Administration Act [[50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.], determine whether such regulations, rules, or agency statements are exempted from review under that Order, pursuant to the provisions of section 8(b) thereof [[50 U.S.C. 4607(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4607/b&num=0&edition=prelim)].
 
 Sec. 5–201. Offsets. The negotiating functions under section 825(c) of the Defense Authorization Act [[10 U.S.C. 2532](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2532&num=0&edition=prelim) note], as may be ordered by the President, are hereby jointly delegated to the Secretary of Defense and the United States Trade Representative. These functions shall be coordinated with the Secretary of State and conducted in consultation with the Secretaries of Commerce, Labor and the Treasury.
 
@@ -308,7 +308,7 @@ Sec. 5–501. Effective Date. This Order shall take effect at 12:01 a.m. on Wedn
     (iii) such additional duties;
     as he determines to be required or appropriate to carry out any such trade agreement.
 
-(2) No proclamation may be made under subsection (a) of this section that—
+(2) No proclamation may be made under subsection (a) that—
 
   (A) reduces any rate of duty (other than a rate of duty that does not exceed 5 percent ad valorem on August 23, 1988) to a rate which is less than 50 percent of the rate of such duty that applies on August 23, 1988; or
 
@@ -326,7 +326,7 @@ Sec. 5–501. Effective Date. This Order shall take effect at 12:01 a.m. on Wedn
 
   (B) one-half of 1 percent ad valorem.
 
-(5) No reduction in a rate of duty under a trade agreement entered into under subsection (a) of this section on any article may take effect more than 10 years after the effective date of the first reduction under paragraph (1) that is proclaimed to carry out the trade agreement with respect to such article.
+(5) No reduction in a rate of duty under a trade agreement entered into under subsection (a) on any article may take effect more than 10 years after the effective date of the first reduction under paragraph (1) that is proclaimed to carry out the trade agreement with respect to such article.
 
 (6) A rate of duty reduction or increase that may not be proclaimed by reason of paragraph (2) may take effect only if a provision authorizing such reduction or increase is included within an implementing bill provided for under [section 2903 of this title](./chapter-017-negotiation-and-implementation-of-trade-agreements.md#section-2903) and that bill is enacted into law.
 
@@ -369,7 +369,7 @@ Sec. 5–501. Effective Date. This Order shall take effect at 12:01 a.m. on Wedn
 
 **(d) Consultation with Congress before agreements entered into**
 
-(1) Before the President enters into any trade agreement under subsection (b) or (c) of this section, the President shall consult with—
+(1) Before the President enters into any trade agreement under subsection (b) or (c), the President shall consult with—
 
   (A) the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate; and
 
@@ -387,11 +387,11 @@ Sec. 5–501. Effective Date. This Order shall take effect at 12:01 a.m. on Wedn
 
 **(e) Special provisions regarding Uruguay Round trade negotiations**
 
-(1) **In general** — Notwithstanding the time limitations in subsections (a) and (b) of this section, if the Uruguay Round of multilateral trade negotiations under the auspices of the General Agreement on Tariffs and Trade has not resulted in trade agreements by May 31, 1993, the President may, during the period after May 31, 1993, and before April 16, 1994, enter into, under subsections (a) and (b) of this section, trade agreements resulting from such negotiations.
+(1) **In general** — Notwithstanding the time limitations in subsections (a) and (b), if the Uruguay Round of multilateral trade negotiations under the auspices of the General Agreement on Tariffs and Trade has not resulted in trade agreements by May 31, 1993, the President may, during the period after May 31, 1993, and before April 16, 1994, enter into, under subsections (a) and (b) of this section, trade agreements resulting from such negotiations.
 
-(2) **Application of tariff proclamation authority** — No proclamation under subsection (a) of this section to carry out the provisions regarding tariff barriers of a trade agreement that is entered into pursuant to paragraph (1) may take effect before the effective date of a bill that implements the provisions regarding nontariff barriers of a trade agreement that is entered into under such paragraph.
+(2) **Application of tariff proclamation authority** — No proclamation under subsection (a) to carry out the provisions regarding tariff barriers of a trade agreement that is entered into pursuant to paragraph (1) may take effect before the effective date of a bill that implements the provisions regarding nontariff barriers of a trade agreement that is entered into under such paragraph.
 
-(3) **Application of implementing and “fast track” procedures** — [Section 2903 of this title](./chapter-017-negotiation-and-implementation-of-trade-agreements.md#section-2903) applies to any trade agreement negotiated under subsection (b) of this section pursuant to paragraph (1), except that—
+(3) **Application of implementing and “fast track” procedures** — [Section 2903 of this title](./chapter-017-negotiation-and-implementation-of-trade-agreements.md#section-2903) applies to any trade agreement negotiated under subsection (b) pursuant to paragraph (1), except that—
 
   (A) in applying subsection (a)(1)(A) of [section 2903 of this title](./chapter-017-negotiation-and-implementation-of-trade-agreements.md#section-2903) to any such agreement, the phrase “at least 120 calendar days before the day on which he enters into the trade agreement (but not later than December 15, 1993),” shall be substituted for the phrase “at least 90 calendar days before the day on which he enters into the trade agreement,”; and
 
@@ -458,7 +458,7 @@ This Act, referred to in subsec. (c)(5), is Pub. L. 100–418, Aug. 23, 1988, 10
 
 **(b) Application of Congressional “fast track” procedures to implementing bills**
 
-(1) Except as provided in subsection (c) of this section—
+(1) Except as provided in subsection (c)—
 
   (A) the provisions of [section 2191 of this title](./chapter-012-trade-act-of-1974.md#section-2191) (hereinafter in this section referred to as “fast track procedures”) apply to implementing bills submitted with respect to trade agreements entered into under section 2902(b) or (c) of this title before June 1, 1991; and
 
@@ -534,7 +534,7 @@ This Act, referred to in subsec. (c)(5), is Pub. L. 100–418, Aug. 23, 1988, 10
 
   (B) the Committee on Finance of the Senate or the Committee on Ways and Means of the House of Representatives disapproves of the negotiation of such agreement before the close of the 60-day period which begins on the date notice is provided under [section 2902(c)(3)(C)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2902/c/3/C/i&num=0&edition=prelim) with respect to the negotiation of such agreement.
 
-**(d) Rules of House of Representatives and Senate** Subsections (b) and (c) of this section are enacted by the Congress—
+**(d) Rules of House of Representatives and Senate** Subsections (b) and (c) are enacted by the Congress—
 
 (1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such is deemed a part of the rules of each House, respectively, and such procedures supersede other rules only to the extent that they are inconsistent with such other rules; and
 
@@ -593,7 +593,7 @@ Section 151 of the Trade Act of 1974, referred to in subsecs. (b)(5)(A) and (c)(
 
   (B) are likely to result in such a burden, restriction, or effect.
 
-**(b) Effects of affirmative determination** If both of the determinations made under paragraphs (1) and (2) of subsection (a) of this section with respect to a major foreign country are affirmative—
+**(b) Effects of affirmative determination** If both of the determinations made under paragraphs (1) and (2) of subsection (a) with respect to a major foreign country are affirmative—
 
 (1) the President shall reserve the right of the United States to withhold extension of the application of the GATT 1947 or the WTO Agreement, between the United States and such major foreign country, and
 
@@ -610,7 +610,7 @@ Section 151 of the Trade Act of 1974, referred to in subsecs. (b)(5)(A) and (c)(
 
     (ii) will afford United States business firms adequate opportunity, in accordance with customary practice, to compete for participation in such purchases or sales; or
 
-  (B) a bill submitted under subsection (c) of this section which approves of the extension of the application of the GATT 1947 or the WTO Agreement between the United States and such major foreign country is enacted into law.
+  (B) a bill submitted under subsection (c) which approves of the extension of the application of the GATT 1947 or the WTO Agreement between the United States and such major foreign country is enacted into law.
 
 **(c) Expedited consideration of bill to approve extension**
 
@@ -622,7 +622,7 @@ Section 151 of the Trade Act of 1974, referred to in subsecs. (b)(5)(A) and (c)(
 
   (B) shall be treated as an implementing bill for purposes of subsections (d), (e), (f), and (g) of [section 2191 of this title](./chapter-012-trade-act-of-1974.md#section-2191).
 
-**(d) Publication** The President shall publish in the Federal Register each determination made under subsection (a) of this section.
+**(d) Publication** The President shall publish in the Federal Register each determination made under subsection (a).
 
 **(e) Definitions** For purposes of this section:
 

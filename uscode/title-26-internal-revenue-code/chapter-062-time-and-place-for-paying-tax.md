@@ -894,7 +894,7 @@ Repeal applicable to estates of decedents dying after Dec. 31, 1981, see section
 (1) a corporation has a recovery of a foreign expropriation loss to which section 1351 applies, and
 
 (2) the portion of the recovery received in money is less than 25 percent of the amount of such recovery (as defined in section 1351(c)) and is not greater than the tax attributable to such recovery,
-the tax attributable to such recovery shall, at the election of the taxpayer, be payable in 10 equal installments on the 15th day of the third month of each of the taxable years following the taxable year of the recovery. Such election shall be made at such time and in such manner as the Secretary may prescribe by regulations. If an election is made under this subsection, the provisions of this subtitle shall apply as though the Secretary were extending the time for payment of such tax.
+the tax attributable to such recovery shall, at the election of the taxpayer, be payable in 10 equal installments on the 15th day of the fourth month of each of the taxable years following the taxable year of the recovery. Such election shall be made at such time and in such manner as the Secretary may prescribe by regulations. If an election is made under this subsection, the provisions of this subtitle shall apply as though the Secretary were extending the time for payment of such tax.
 
 **(b) Extension permitted by Secretary** If a corporation has a recovery of a foreign expropriation loss to which section 1351 applies and if an election is not made under subsection (a), the Secretary may, upon finding that the payment of the tax attributable to such recovery at the time otherwise provided in this subtitle would result in undue hardship, extend the time for payment of such tax for a reasonable period or periods not in excess of 9 years from the date on which such tax is otherwise payable.
 
@@ -914,7 +914,7 @@ the tax attributable to such recovery shall, at the election of the taxpayer, be
 
   (B) received on previous sales or exchanges described in subparagraphs (A) and (B) of paragraph (2) (as so reduced),
   exceeds the amount of money which may be received under subsection (a)(2),
-an amount of the tax attributable to such recovery equal to such excess shall be payable on the 15th day of the third month of the taxable year following the taxable year in which such sale or exchange occurs. The amount of such tax so paid shall be treated, for purposes of this section, as a payment of the first unpaid installment or installments (or portion thereof) which become payable under subsection (a) following such taxable year.
+an amount of the tax attributable to such recovery equal to such excess shall be payable on the 15th day of the fourth month of the taxable year following the taxable year in which such sale or exchange occurs. The amount of such tax so paid shall be treated, for purposes of this section, as a payment of the first unpaid installment or installments (or portion thereof) which become payable under subsection (a) following such taxable year.
 
 **(d) Proration of deficiency to installments** If an election is made under subsection (a), and a deficiency attributable to the recovery of a foreign expropriation loss has been assessed, the deficiency shall be prorated to such installments. The part of the deficiency so prorated to any installment the date for payment of which has not arrived shall be collected at the same time as, and as part of, such installment. The part of the deficiency so prorated to any installment the date for payment of which has arrived shall be paid upon notice and demand from the Secretary. This subsection shall not apply if the deficiency is due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax.
 
@@ -937,6 +937,8 @@ an amount of the tax attributable to such recovery equal to such excess shall be
 ### Statutory Notes
 
 #### Amendments
+2015—Subsecs. (a), (c). Pub. L. 114–41 substituted “fourth month” for “third month” in concluding provisions.
+
 1976—Subsecs. (a), (b), (d), (e), (g). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (h). Pub. L. 94–455, §§ 1902(b)(2)(B), 1906(b)(13)(A), substituted “section 6503(e)” for “section 6503(f)”, and struck out “or his delegate” after “Secretary”.
@@ -944,6 +946,9 @@ Subsec. (h). Pub. L. 94–455, §§ 1902(b)(2)(B), 1906(b)(13)(A), substituted �
 1975—Subsec. (e). Pub. L. 93–625, § 7(d)(2), struck out provision that in applying section 6601(j) (relating to the application of the 4-percent interest rate in the case of recoveries of foreign expropriation losses to which this section applies) in the case of a deficiency, the entire amount which was prorated to installments under this section shall be treated as an amount of tax the payment of which was extended under this section.
 
 Subsec. (h). Pub. L. 93–625, § 7(d)(3), struck out par. (1) providing a cross reference for payment of interest at 4 percent per annum for period of an extension under [section 6601(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6601/j&num=0&edition=prelim), and redesignated pars. (2) and (3) as (1) and (2), respectively.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–41 applicable to returns for taxable years beginning after Dec. 31, 2015, with special rule for certain C corporations, see section 2006(a)(3) of Pub. L. 114–41, set out as a note under [section 170 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-170).
 
 #### Effective Date of 1976 Amendment
 Amendment by section 1902(b)(2)(B) of Pub. L. 94–455 applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under [section 2012 of this title](./chapter-011-estate-tax.md#section-2012).

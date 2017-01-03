@@ -2,7 +2,7 @@
 title: 42
 chapter: '68'
 heading: DISASTER RELIEF
-section_count: 101
+section_count: 103
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -39,6 +39,14 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Effective Date
 Pub. L. 93–288, title VI, § 605, May 22, 1974, 88 Stat. 164, provided that Pub. L. 93–288 was effective Apr. 1, 1974, with the exception of [section 5178 of this title](./chapter-068-disaster-relief.md#section-5178), prior to repeal by Pub. L. 100–707, title I, § 108(b), Nov. 23, 1988, 102 Stat. 4708.
+
+#### Short Title of 2016 Amendment
+Pub. L. 114–326, § 1, Dec. 16, 2016, 130 Stat. 1968, provided that: “This Act [enacting [section 5165f of this title](./chapter-068-disaster-relief.md#section-5165f), amending sections 8101 of Title 5, Government Organization and Employees, and [section 4303 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4303&num=0&edition=prelim), Veterans’ Benefits, and enacting and amending provisions set out as notes under [section 3791 of this title](./chapter-046-justice-system-improvement.md#section-3791)] may be cited as the ‘National Urban Search and Rescue Response System Act of 2016’.”
+
+Pub. L. 114–132, § 1, Feb. 29, 2016, 130 Stat. 293, provided that: “This Act [enacting [section 5165e of this title](./chapter-068-disaster-relief.md#section-5165e) and provisions set out as notes under [section 5165e of this title](./chapter-068-disaster-relief.md#section-5165e)] may be cited as the ‘Directing Dollars to Disaster Relief Act of 2015’.”
+
+#### Short Title of 2015 Amendment
+Pub. L. 114–111, § 1, Dec. 18, 2015, 129 Stat. 2240, provided that: “This Act [amending sections 5122 and 5172 of this title] may be cited as the ‘Emergency Information Improvement Act of 2015’.”
 
 #### Short Title of 2013 Amendment
 Pub. L. 113–2, div. B, § 1101(a), Jan. 29, 2013, 127 Stat. 39, provided that: “This division [enacting sections 5123, 5189f, and 5189g of this title, amending sections 5122, 5170, 5170b, 5170c, 5174, 5189, 5189e, and 5191 of this title, and enacting provisions set out as notes under sections 5122, 5170, 5170c, and 5189a of this title] may be cited as the ‘Sandy Recovery Improvement Act of 2013’.”
@@ -136,7 +144,7 @@ As used in this chapter—
 
 (5) “Governor” means the chief executive of any State.
 
-(6) **Indian tribal government.—** — The term “Indian tribal government” means the governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe under the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 479a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section479a&num=0&edition=prelim) et seq.).
+(6) **Indian tribal government.—** — The term “Indian tribal government” means the governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe under the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 479a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section479a&num=0&edition=prelim) et seq.).11 See References in Text note below.
 
 (7) **Individual with a disability.—** — The term “individual with a disability” means an individual with a disability as defined in [section 12102(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12102/2&num=0&edition=prelim).
 
@@ -164,7 +172,7 @@ As used in this chapter—
 
   (A) *In general.—* — The term “private nonprofit facility” means private nonprofit educational, utility, irrigation, emergency, medical, rehabilitational, and temporary or permanent custodial care facilities (including those for the aged and disabled) and facilities on Indian reservations, as defined by the President.
 
-  (B) *Additional facilities.—* — In addition to the facilities described in subparagraph (A), the term “private nonprofit facility” includes any private nonprofit facility that provides essential services of a governmental nature to the general public (including museums, zoos, performing arts facilities, community arts centers, libraries, homeless shelters, senior citizen centers, rehabilitation facilities, shelter workshops, and facilities that provide health and safety services of a governmental nature), as defined by the President.
+  (B) *Additional facilities.—* — In addition to the facilities described in subparagraph (A), the term “private nonprofit facility” includes any private nonprofit facility that provides essential services of a governmental nature to the general public (including museums, zoos, performing arts facilities, community arts centers, libraries, homeless shelters, senior citizen centers, rehabilitation facilities, shelter workshops, broadcasting facilities, and facilities that provide health and safety services of a governmental nature), as defined by the President.
 
 (12) **Chief executive.—** — The term “Chief Executive” means the person who is the Chief, Chairman, Governor, President, or similar executive official of an Indian tribal government.
 
@@ -173,10 +181,12 @@ As used in this chapter—
 #### References in Text
 This chapter, referred to in introductory provisions and par. (2), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
-The Federally Recognized Indian Tribe List Act of 1994, referred to in par. (6), is title I of Pub. L. 103–454, Nov. 2, 1994, 108 Stat. 4791. For complete classification of this Act to the Code, see Short Title note set out under [section 479a of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section479a&num=0&edition=prelim), Indians, and Tables.
+The Federally Recognized Indian Tribe List Act of 1994, referred to in par. (6), is title I of Pub. L. 103–454, Nov. 2, 1994, 108 Stat. 4791, which was classified principally to section 479a et seq. of Title 25, Indians, prior to editorial reclassification as section 5130 et seq. of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 5101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5101&num=0&edition=prelim) and Tables.
 
 #### Amendments
-Par. (6). Pub. L. 113–2, § 1110(c)(3), added par. (6). Former par. (6) redesignated (7).
+2015—Par. (11)(B). Pub. L. 114–111 inserted “broadcasting facilities,” after “workshops,”.
+
+2013—Par. (6). Pub. L. 113–2, § 1110(c)(3), added par. (6). Former par. (6) redesignated (7).
 
 Par. (7). Pub. L. 113–2, § 1110(c)(2), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
@@ -1131,6 +1141,160 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 Pub. L. 109–295, title VI, § 689g(c), Oct. 4, 2006, 120 Stat. 1453, provided that: “Nothing in this section [enacting this section] or the amendments made by this section shall be construed to authorize major disaster or emergency assistance that is not authorized as of the date of enactment of this Act [Oct. 4, 2006].”
 
 
+<a id="section-5165e"></a>
+## § 5165e. Integrated plan for administrative cost reduction
+**(a) In general** Not later than 365 days after February 29, 2016, the Administrator shall—
+
+(1) develop and implement an integrated plan to control and reduce administrative costs for major disasters, which shall include—
+
+  (A) steps the Agency will take to reduce administrative costs;
+
+  (B) milestones needed for accomplishing the reduction of administrative costs;
+
+  (C) strategic goals for the average annual percentage of administrative costs of major disasters for each fiscal year;
+
+  (D) the assignment of clear roles and responsibilities, including the designation of officials responsible for monitoring and measuring performance; and
+
+  (E) a timetable for implementation;
+
+(2) compare the costs and benefits of tracking the administrative cost data for major disasters by the public assistance, individual assistance, hazard mitigation, and mission assignment programs, and if feasible, track this information; and
+
+(3) clarify Agency guidance and minimum documentation requirements for a direct administrative cost claimed by a grantee or subgrantee of a public assistance grant program.
+
+**(b) Congressional update** Not later than 90 days after February 29, 2016, the Administrator shall brief the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the plan required to be developed under subsection (a)(1).
+
+**(c) Updates** If the Administrator modifies the plan or the timetable under subsection (a), the Administrator shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report notifying Congress of the modification, which shall include the details of the modification.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Directing Dollars to Disaster Relief Act of 2015, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
+
+#### Reporting Requirement
+Pub. L. 114–132, § 4, Feb. 29, 2016, 130 Stat. 294, provided that: “(a) Annual Report.—Not later than November 30 of each year for 7 years beginning on the date of enactment of this Act [Feb. 29, 2016], the Administrator shall submit to Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the development and implementation of the integrated plan required under section 3 [[42 U.S.C. 5165e](./chapter-068-disaster-relief.md#section-5165e)] for the previous fiscal year. “(b) Report Updates.—“(1) Three year update.—Not later than 3 years after the date on which the Administrator submits a report under subsection (a), the Administrator shall submit an updated report for the previous 3-fiscal-year period. “(2) Five year update.—Not later than 5 years after the date on which the Administrator submits a report under subsection (a), the Administrator shall submit an updated report for the previous 5-fiscal-year period. “(c) Contents of Reports.—Each report required under subsections (a) and (b) shall contain, at a minimum—“(1) the total amount spent on administrative costs for the fiscal year period for which the report is being submitted; “(2) the average annual percentage of administrative costs for the fiscal year period for which the report is being submitted; “(3) an assessment of the effectiveness of the plan developed under section 3(a)(1) [[42 U.S.C. 5165e(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5165e/a/1&num=0&edition=prelim)]; “(4) an analysis of—“(A) whether the Agency is achieving the strategic goals established under section 3(a)(1)(C) [[42 U.S.C. 5165e(a)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5165e/a/1/C&num=0&edition=prelim)]; and “(B) in the case of the Agency not achieving such strategic goals, what is preventing the Agency from doing so; “(5) any actions the Agency has identified as useful in improving upon and reaching the goals for administrative costs established under section 3(a)(1)(C); and “(6) any data described in section 3(a)(2) [[42 U.S.C. 5165e(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5165e/a/2&num=0&edition=prelim)], if the Agency determines it is feasible to track such data. “(d) Public Availability.—Not later than 30 days after the date on which the Administrator submits a report to Congress under this section, the Administrator shall make the report publicly available on the website of the Agency.”
+
+#### Definitions
+Pub. L. 114–132, § 2, Feb. 29, 2016, 130 Stat. 293, provided that: “In this Act [see Short Title of 2016 Amendment note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121)]— “(1) the term ‘administrative cost’—“(A) means a cost incurred by the Agency in support of the delivery of disaster assistance for a major disaster; and “(B) does not include a cost incurred by a grantee or subgrantee; “(2) the term ‘Administrator’ means the Administrator of the Agency; “(3) the term ‘Agency’ means the Federal Emergency Management Agency; “(4) the term ‘direct administrative cost’ means a cost incurred by a grantee or subgrantee of a program authorized by the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](./chapter-068-disaster-relief.md#section-5121) et seq.) that can be identified separately and assigned to a specific project; “(5) the term ‘hazard mitigation program’ means the hazard mitigation grant program authorized under section 404 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170c](./chapter-068-disaster-relief.md#section-5170c)); “(6) the term ‘individual assistance program’ means the individual assistance grant program authorized under sections 408, 410, 415, 416, 426, and 502(a) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5174](./chapter-068-disaster-relief.md#section-5174), 5177, 5182, 5183, 5189d, and 5192(a)); “(7) the term ‘major disaster’ means a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](./chapter-068-disaster-relief.md#section-5170)); “(8) the term ‘mission assignment’ has the meaning given the term in section 641 of the Post-Katrina Emergency Management Reform Act of 2006 ([6 U.S.C. 741](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section741&num=0&edition=prelim)); and “(9) the term ‘public assistance program’ means the public assistance grant program authorized under sections 403(a)(3), 406, 418, 419, 428, and 502(a) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170b(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5170b/a/3&num=0&edition=prelim), 5172, 5185, 5186, 5189f, and 5192(a)).”
+
+
+<a id="section-5165f"></a>
+## § 5165f. National Urban Search and Rescue Response System
+**(a) Definitions** In this section, the following definitions shall apply:
+
+(1) **Administrator** — The term “Administrator” means the Administrator of the Federal Emergency Management Agency.
+
+(2) **Agency** — The term “Agency” means the Federal Emergency Management Agency.
+
+(3) **Hazard** — The term “hazard” has the meaning given the term in [section 5195a of this title](./chapter-068-disaster-relief.md#section-5195a).
+
+(4) **Nonemployee System member** — The term “nonemployee System member” means a System member not employed by a sponsoring agency or participating agency.
+
+(5) **Participating agency** — The term “participating agency” means a State or local government, nonprofit organization, or private organization that has executed an agreement with a sponsoring agency to participate in the System.
+
+(6) **Sponsoring agency** — The term “sponsoring agency” means a State or local government that is the sponsor of a task force designated by the Administrator to participate in the System.
+
+(7) **System** — The term “System” means the National Urban Search and Rescue Response System to be administered under this section.
+
+(8) **System member** — The term “System member” means an individual who is not a full-time employee of the Federal Government and who serves on a task force or on a System management or other technical team.
+
+(9) **Task force** — The term “task force” means an urban search and rescue team designated by the Administrator to participate in the System.
+
+**(b) General authoritySubject to the requirements of this section, the Administrator shall continue to administer the emergency response system known as the National Urban Search and Rescue Response System.**
+
+**(c) Functions** In administering the System, the Administrator shall provide for a national network of standardized search and rescue resources to assist States and local governments in responding to hazards.
+
+**(d) Task forces**
+
+(1) **Designation** — The Administrator shall designate task forces to participate in the System. The Administration shall determine the criteria for such participation.
+
+(2) **Sponsoring agencies** — Each task force shall have a sponsoring agency. The Administrator shall enter into an agreement with the sponsoring agency with respect to the participation of each task force in the System.
+
+(3) **Composition**
+
+  (A) *Participating agencies* — A task force may include, at the discretion of the sponsoring agency, one or more participating agencies. The sponsoring agency shall enter into an agreement with each participating agency with respect to the participation of the participating agency on the task force.
+
+  (B) *Other individuals* — A task force may also include, at the discretion of the sponsoring agency, other individuals not otherwise associated with the sponsoring agency or a participating agency. The sponsoring agency of a task force may enter into a separate agreement with each such individual with respect to the participation of the individual on the task force.
+
+**(e) Management and technical teams** The Administrator shall maintain such management teams and other technical teams as the Administrator determines are necessary to administer the System.
+
+**(f) Appointment of System members into Federal service**
+
+(1) **In general** — The Administrator may appoint a System member into Federal service for a period of service to provide for the participation of the System member in exercises, preincident staging, major disaster and emergency response activities, and training events sponsored or sanctioned by the Administrator.
+
+(2) **Nonapplicability of certain civil service laws** — The Administrator may make appointments under paragraph (1) without regard to the provisions of title 5 governing appointments in the competitive service.
+
+(3) **Relationship to other authorities** — The authority of the Administrator to make appointments under this subsection shall not affect any other authority of the Administrator under this chapter.
+
+(4) **Limitation** — A System member who is appointed into Federal service under paragraph (1) shall not be considered an employee of the United States for purposes other than those specifically set forth in this section.
+
+**(g) Compensation**
+
+(1) **Pay of System members** — Subject to such terms and conditions as the Administrator may impose by regulation, the Administrator shall make payments to the sponsoring agency of a task force—
+
+  (A) to reimburse each employer of a System member on the task force for compensation paid by the employer to the System member for any period during which the System member is appointed into Federal service under subsection (f)(1); and
+
+  (B) to make payments directly to a nonemployee System member on the task force for any period during which the nonemployee System member is appointed into Federal service under subsection (f)(1).
+
+(2) **Reimbursement for employees filling positions of System members**
+
+  (A) *In general* — Subject to such terms and conditions as the Administrator may impose by regulation, the Administrator shall make payments to the sponsoring agency of a task force to be used to reimburse each employer of a System member on the task force for compensation paid by the employer to an employee filling a position normally filled by the System member for any period during which the System member is appointed into Federal service under subsection (f)(1).
+
+  (B) *Limitation* — Costs incurred by an employer shall be eligible for reimbursement under subparagraph (A) only to the extent that the costs are in excess of the costs that would have been incurred by the employer had the System member not been appointed into Federal service under subsection (f)(1).
+
+(3) **Method of payment** — A System member shall not be entitled to pay directly from the Agency for a period during which the System member is appointed into Federal Service under subsection (f)(1).
+
+**(h) Personal injury, illness, disability, or death**
+
+(1) **In general** — A System member who is appointed into Federal service under subsection (f)(1) and who suffers personal injury, illness, disability, or death as a result of a personal injury sustained while acting in the scope of such appointment, shall, for the purposes of subchapter I of chapter 81 of title 5, be treated as though the member were an employee (as defined by section 8101 of that title) who had sustained the injury in the performance of duty.
+
+(2) **Election of benefits**
+
+  (A) *In general* — A System member (or, in the case of the death of the System member, the System member’s dependent) who is entitled under paragraph (1) to receive benefits under subchapter I of chapter 81 of title 5 by reason of personal injury, illness, disability, or death, and to receive benefits from a State or local government by reason of the same personal injury, illness, disability or death shall elect to—
+
+    (i) receive benefits under such subchapter; or
+
+    (ii) receive benefits from the State or local government.
+
+  (B) *Deadline* — A System member or dependent shall make an election of benefits under subparagraph (A) not later than 1 year after the date of the personal injury, illness, disability, or death that is the reason for the benefits, or until such later date as the Secretary of Labor may allow for reasonable cause shown.
+
+  (C) *Effect of election* — An election of benefits made under this paragraph is irrevocable unless otherwise provided by law.
+
+(3) **Reimbursement for State or local benefits** — Subject to such terms and conditions as the Administrator may impose by regulation, if a System member or dependent elects to receive benefits from a State or local government under paragraph (2)(A), the Administrator shall reimburse the State or local government for the value of the benefits.
+
+(4) **Public safety officer claims** — Nothing in this subsection shall be construed to bar any claim by, or with respect to, any System member who is a public safety officer, as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796b](./chapter-046-justice-system-improvement.md#section-3796b)), for any benefits authorized under part L of title I of that Act ([42 U.S.C. 3796](./chapter-046-justice-system-improvement.md#section-3796) et seq.).
+
+**(i) Liability** A System member appointed into Federal service under subsection (f)(1), while acting within the scope of the appointment, shall be considered to be an employee of the Federal Government under [section 1346(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1346/b&num=0&edition=prelim) and chapter 171 of that title, relating to tort claims procedure.
+
+**(j) Employment and reemployment rights** With respect to a System member who is not a regular full-time employee of a sponsoring agency or participating agency, the following terms and conditions apply:
+
+(1) **Service** — Service as a System member shall be considered to be “service in the uniformed services” for purposes of chapter 43 of title 38 relating to employment and reemployment rights of individuals who have performed service in the uniformed services (regardless of whether the individual receives compensation for such participation). All rights and obligations of such persons and procedures for assistance, enforcement, and investigation shall be as provided for in such chapter.
+
+(2) **Preclusion** — Preclusion of giving notice of service by necessity of appointment under this section shall be considered to be preclusion by “military necessity” for purposes of [section 4312(b) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4312/b&num=0&edition=prelim) pertaining to giving notice of absence from a position of employment. A determination of such necessity shall be made by the Administrator and shall not be subject to judicial review.
+
+**(k) Licenses and permits** If a System member holds a valid license, certificate, or other permit issued by any State or other governmental jurisdiction evidencing the member’s qualifications in any professional, mechanical, or other skill or type of assistance required by the System, the System member is deemed to be performing a Federal activity when rendering aid involving such skill or assistance during a period of appointment into Federal service under subsection (f)(1).
+
+**(l) Preparedness cooperative agreements** Subject to the availability of appropriations for such purpose, the Administrator shall enter into an annual preparedness cooperative agreement with each sponsoring agency. Amounts made available to a sponsoring agency under such a preparedness cooperative agreement shall be for the following purposes:
+
+(1) Training and exercises, including training and exercises with other Federal, State, and local government response entities.
+
+(2) Acquisition and maintenance of equipment, including interoperable communications and personal protective equipment.
+
+(3) Medical monitoring required for responder safety and health in anticipation of and following a major disaster, emergency, or other hazard, as determined by the Administrator.
+
+**(m) Response cooperative agreements** The Administrator shall enter into a response cooperative agreement with each sponsoring agency, as appropriate, under which the Administrator agrees to reimburse the sponsoring agency for costs incurred by the sponsoring agency in responding to a major disaster or emergency.
+
+**(n) Obligations** The Administrator may incur all necessary obligations consistent with this section in order to ensure the effectiveness of the System.
+
+**(o) Equipment maintenance and replacement** Not later than 180 days after December 16, 2016, the Administrator shall submit to the appropriate congressional committees (as defined in [section 101 of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim)) a report on the development of a plan, including implementation steps and timeframes, to finance, maintain, and replace System equipment.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (f)(3), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
+
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (h)(4), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part L of title I of the Act is classified generally to part A (§ 3796 et seq.) of subchapter XII of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3711 of this title](./chapter-046-justice-system-improvement.md#section-3711) and Tables.
+
+
 <a id="section-5170"></a>
 ## § 5170. Procedure for declaration
 **(a) In general** All requests for a declaration by the President that a major disaster exists shall be made by the Governor of the affected State. Such a request shall be based on a finding that the disaster is of such severity and magnitude that effective response is beyond the capabilities of the State and the affected local governments and that Federal assistance is necessary. As part of such request, and as a prerequisite to major disaster assistance under this chapter, the Governor shall take appropriate response action under State law and direct execution of the State’s emergency plan. The Governor shall furnish information on the nature and amount of State and local resources which have been or will be committed to alleviating the results of the disaster, and shall certify that, for the current disaster, State and local government obligations and expenditures (of which State commitments must be a significant proportion) will comply with all applicable cost-sharing requirements of this chapter. Based on the request of a Governor under this section, the President may declare under this chapter that a major disaster or emergency exists.
@@ -1373,7 +1537,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 The National Environmental Policy Act of 1969, referred to in subsec. (d)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
-The National Historic Preservation Act, referred to in subsec. (d)(1), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of Title 16, Conservation, prior to the enactment of Title 54, National Park Service and Related Programs. See [54 U.S.C. 300101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section300101&num=0&edition=prelim) et seq.
+The National Historic Preservation Act, referred to in subsec. (d)(1), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of Title 16, Conservation. The Act, except for section 1, was repealed and restated in division A (§ 300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of Title 16, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
 #### Prior Provisions
 A prior section 404 of Pub. L. 93–288 was classified to [section 5174 of this title](./chapter-068-disaster-relief.md#section-5174) prior to repeal by Pub. L. 100–707.
@@ -1455,7 +1619,7 @@ A prior section 405 of Pub. L. 93–288 was classified to [section 5175 of this 
 
         (bb) has obtained such a loan in the maximum amount for which the Small Business Administration determines the facility is eligible.
 
-  (B) *Definition of critical services* — In this paragraph, the term “critical services” includes power, water (including water provided by an irrigation organization or facility), sewer, wastewater treatment, communications, education, and emergency medical care.
+  (B) *Definition of critical services* — In this paragraph, the term “critical services” includes power, water (including water provided by an irrigation organization or facility), sewer, wastewater treatment, communications (including broadcast and telecommunications), education, and emergency medical care.
 
 (4) **Notification to Congress** — Before making any contribution under this section in an amount greater than $20,000,000, the President shall notify—
 
@@ -1594,6 +1758,8 @@ A prior section 5172, Pub. L. 93–288, title IV, § 402, May 22, 1974, 88 Stat.
 A prior section 406 of Pub. L. 93–288 was renumbered section 409 by Pub. L. 100–707 and is classified to [section 5176 of this title](./chapter-068-disaster-relief.md#section-5176).
 
 #### Amendments
+2015—Subsec. (a)(3)(B). Pub. L. 114–111 substituted “communications (including broadcast and telecommunications),” for “communications,”.
+
 2011—Subsecs. (c)(1)(C)(ii), (2)(C)(ii), (d)(1), (e)(3)(A). Pub. L. 111–351 substituted “Administrator” for “Director”.
 
 2006—Subsec. (a)(3)(B). Pub. L. 109–295 inserted “education,” after “communications,”.
@@ -2188,7 +2354,7 @@ Subsec. (b). Pub. L. 113–2, § 1107(4), added subsec. (b).
 ### Statutory Notes
 
 #### Dispute Resolution Pilot Program
-Pub. L. 113–2, div. B, § 1105, Jan. 29, 2013, 127 Stat. 43, provided that: “(a) Definitions.—In this section, the following definitions apply:“(1) Administrator.—The term ‘Administrator’ means the Administrator of the Federal Emergency Management Agency. “(2) Eligible assistance.—The term ‘eligible assistance’ means assistance—“(A) under section 403, 406, or 407 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170b](./chapter-068-disaster-relief.md#section-5170b), 5172, 5173); “(B) for which the legitimate amount in dispute is not less than $1,000,000, which sum the Administrator shall adjust annually to reflect changes in the Consumer Price Index for all Urban Consumers published by the Department of Labor; “(C) for which the applicant has a non-Federal share; and “(D) for which the applicant has received a decision on a first appeal. “(b) Procedures.—“(1) In general.—Not later than 180 days after the date of enactment of this section [Jan. 29, 2013], and in order to facilitate an efficient recovery from major disasters, the Administrator shall establish procedures under which an applicant may request the use of alternative dispute resolution, including arbitration by an independent review panel, to resolve disputes relating to eligible assistance. “(2) Binding effect.—A decision by an independent review panel under this section shall be binding upon the parties to the dispute. “(3) Considerations.—The procedures established under this section shall—“(A) allow a party of a dispute relating to eligible assistance to request an independent review panel for the review; “(B) require a party requesting an independent review panel as described in subparagraph (A) to agree to forgo rights to any further appeal of the dispute relating to any eligible assistance; “(C) require that the sponsor of an independent review panel for any alternative dispute resolution under this section be—“(i) an individual or entity unaffiliated with the dispute (which may include a Federal agency, an administrative law judge, or a reemployed annuitant who was an employee of the Federal Government) selected by the Administrator; and “(ii) responsible for identifying and maintaining an adequate number of independent experts qualified to review and resolve disputes under this section; “(D) require an independent review panel to—“(i) resolve any remaining disputed issue in accordance with all applicable laws, regulations, and Agency interpretations of those laws through its published policies and guidance; “(ii) consider only evidence contained in the administrative record, as it existed at the time at which the Agency made its initial decision; “(iii) only set aside a decision of the Agency found to be arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law; and “(iv) in the case of a finding of material fact adverse to the claimant made on first appeal, only set aside or reverse such finding if the finding is clearly erroneous; “(E) require an independent review panel to expeditiously issue a written decision for any alternative dispute resolution under this section; and “(F) direct that if an independent review panel for any alternative dispute resolution under this section determines that the basis upon which a party submits a request for alternative dispute resolution is frivolous, the independent review panel shall direct the party to pay the reasonable costs to the Federal Emergency Management Agency relating to the review by the independent review panel. Any funds received by the Federal Emergency Management Agency under the authority of this section shall be deposited to the credit of the appropriation or appropriations available for the eligible assistance in dispute on the date on which the funds are received. “(c) Sunset.—A request for review by an independent review panel under this section may not be made after December 31, 2015. “(d) Report.—“(1) In general.—Not later than 270 days after the termination of authority under this section under subsection (c), the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report analyzing the effectiveness of the program under this section. “(2) Contents.—The report submitted under paragraph (1) shall include—“(A) a determination of the availability of data required to complete the report; “(B) an assessment of the effectiveness of the program under this section, including an assessment of whether the program expedited or delayed the disaster recovery process; “(C) an assessment of whether the program increased or decreased costs to administer section 403, 406, or 407 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act [[42 U.S.C. 5170b](./chapter-068-disaster-relief.md#section-5170b), 5172, 5173]; “(D) an assessment of the procedures and safeguards that the independent review panels established to ensure objectivity and accuracy, and the extent to which they followed those procedures and safeguards; “(E) a recommendation as to whether any aspect of the program under this section should be made a permanent authority; and “(F) recommendations for any modifications to the authority or the administration of the authority under this section in order to improve the disaster recovery process.”
+Pub. L. 113–2, div. B, § 1105, Jan. 29, 2013, 127 Stat. 43, as amended by Pub. L. 114–301, § 2(c), Dec. 16, 2016, 130 Stat. 1514, provided that: “(a) Definitions.—In this section, the following definitions apply:“(1) Administrator.—The term ‘Administrator’ means the Administrator of the Federal Emergency Management Agency. “(2) Eligible assistance.—The term ‘eligible assistance’ means assistance—“(A) under section 403, 406, or 407 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170b](./chapter-068-disaster-relief.md#section-5170b), 5172, 5173); “(B) for which the legitimate amount in dispute is not less than $1,000,000, which sum the Administrator shall adjust annually to reflect changes in the Consumer Price Index for all Urban Consumers published by the Department of Labor; “(C) for which the applicant has a non-Federal share; and “(D) for which the applicant has received a decision on a first appeal. “(b) Procedures.—“(1) In general.—Not later than 180 days after the date of enactment of this section [Jan. 29, 2013], and in order to facilitate an efficient recovery from major disasters, the Administrator shall establish procedures under which an applicant may request the use of alternative dispute resolution, including arbitration by an independent review panel, to resolve disputes relating to eligible assistance. “(2) Binding effect.—A decision by an independent review panel under this section shall be binding upon the parties to the dispute. “(3) Considerations.—The procedures established under this section shall—“(A) allow a party of a dispute relating to eligible assistance to request an independent review panel for the review; “(B) require a party requesting an independent review panel as described in subparagraph (A) to agree to forgo rights to any further appeal of the dispute relating to any eligible assistance; “(C) require that the sponsor of an independent review panel for any alternative dispute resolution under this section be—“(i) an individual or entity unaffiliated with the dispute (which may include a Federal agency, an administrative law judge, or a reemployed annuitant who was an employee of the Federal Government) selected by the Administrator; and “(ii) responsible for identifying and maintaining an adequate number of independent experts qualified to review and resolve disputes under this section; “(D) require an independent review panel to—“(i) resolve any remaining disputed issue in accordance with all applicable laws, regulations, and Agency interpretations of those laws through its published policies and guidance; “(ii) consider only evidence contained in the administrative record, as it existed at the time at which the Agency made its initial decision; “(iii) only set aside a decision of the Agency found to be arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law; and “(iv) in the case of a finding of material fact adverse to the claimant made on first appeal, only set aside or reverse such finding if the finding is clearly erroneous; “(E) require an independent review panel to expeditiously issue a written decision for any alternative dispute resolution under this section; and “(F) direct that if an independent review panel for any alternative dispute resolution under this section determines that the basis upon which a party submits a request for alternative dispute resolution is frivolous, the independent review panel shall direct the party to pay the reasonable costs to the Federal Emergency Management Agency relating to the review by the independent review panel. Any funds received by the Federal Emergency Management Agency under the authority of this section shall be deposited to the credit of the appropriation or appropriations available for the eligible assistance in dispute on the date on which the funds are received. “(c) Sunset.—A request for review by an independent review panel under this section may not be made after December 31, 2015.”
 
 
 <a id="section-5189b"></a>
@@ -2469,7 +2635,7 @@ Amendment by Pub. L. 106–390 effective 18 months after Oct. 30, 2000, see sect
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 2260 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2260&num=0&edition=prelim), Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
+Provisions similar to those in this section were contained in section 2260 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
 
 
 <a id="section-5195a"></a>
@@ -2483,7 +2649,7 @@ Nothing in this subchapter shall be construed to alter or modify the provisions 
 The Atomic Energy Act of 1954, referred to in text, is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 2262 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2262&num=0&edition=prelim), Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
+Provisions similar to those in this section were contained in section 2262 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
 
 
 <a id="section-5195b"></a>
@@ -2494,7 +2660,7 @@ Nothing in this subchapter shall be construed to authorize investigations of esp
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 2263 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2263&num=0&edition=prelim), Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
+Provisions similar to those in this section were contained in section 2263 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
 
 
 <a id="section-5195c"></a>
@@ -2545,7 +2711,7 @@ The purpose of this subchapter is to provide a system of emergency preparedness 
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 2251 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2251&num=0&edition=prelim), Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
+Provisions similar to those in this section were contained in section 2251 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
 
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
@@ -2581,7 +2747,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 [The Civil Defense Advisory Council, together with its functions, was abolished by Reorg. Plan No. 1 of 1973, § 3(a)(3), eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089, set out below.]
 
 #### Sec. 6. Abolitions
-The offices of Federal Civil Defense Administrator and Deputy Administrator provided for in section 101 of the Federal Civil Defense Act (50 U.S.C. App. 2271) and the offices of the Director of the Office of Defense Mobilization and Deputy Director of the Office of Defense Mobilization provided for in section 1 of Reorganization Plan Numbered 3 of 1953 (67 Stat. 634) are hereby abolished. The Director of the Office of Emergency Preparedness shall make such provisions as may be necessary in order to wind up any outstanding affairs of the offices abolished by this section which are not otherwise provided for in this reorganization plan. [As amended Pub. L. 90–608, ch. IV, § 402, Oct. 21, 1968, 82 Stat. 1194.]
+The offices of Federal Civil Defense Administrator and Deputy Administrator provided for in section 101 of the Federal Civil Defense Act ([former] 50 U.S.C. App. 2271) and the offices of the Director of the Office of Defense Mobilization and Deputy Director of the Office of Defense Mobilization provided for in section 1 of Reorganization Plan Numbered 3 of 1953 (67 Stat. 634) are hereby abolished. The Director of the Office of Emergency Preparedness shall make such provisions as may be necessary in order to wind up any outstanding affairs of the offices abolished by this section which are not otherwise provided for in this reorganization plan. [As amended Pub. L. 90–608, ch. IV, § 402, Oct. 21, 1968, 82 Stat. 1194.]
 
 #### Sec. 7. Records, Property, Personnel, and Funds
 (a) The records, property, personnel, and unexpended balances, available or to be made available, of appropriations, allocations, and other funds of the Office of Defense Mobilization and of the Federal Civil Defense Administration shall, upon the taking effect of the provisions of this reorganization plan, become records, property, personnel, and unexpended balances of the Office of Emergency Preparedness.
@@ -2644,7 +2810,7 @@ Sec. 2. [Repealed. Pub. L. 94–282, title V, § 502, May 11, 1976, 90 Stat. 472
 
 (2) The functions of the Director of the Office of Emergency Preparedness with respect to being a member of the National Security Council.
 
-(3) The Civil Defense Advisory Council, created by section 102(a) of the Federal Civil Defense Act of 1950 (50 U.S.C. App. 2272(a)), together with its functions.
+(3) The Civil Defense Advisory Council, created by section 102(a) of the Federal Civil Defense Act of 1950 ([former] 50 U.S.C. App. 2272(a)), together with its functions.
 
 (4) The National Aeronautics and Space Council, created by section 201 of the National Aeronautics and Space Act of 1958 ([42 U.S.C. 2471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2471&num=0&edition=prelim)), including the office of Executive Secretary of the Council, together with its functions.
 
@@ -2720,7 +2886,7 @@ The functions which would be abolished by this plan, and the statutory authoriti
 
 (1) the functions of the Director of the Office of Emergency Preparedness with respect to being a member of the National Security Council (Sec. 101, National Security Act of 1947, as amended, [50 U.S.C. 402](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section402&num=0&edition=prelim) [now [50 U.S.C. 3021](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim)]; and Sec. 4, Reorganization Plan No. 1 of 1958);
 
-(2) the functions of the Civil Defense Advisory Council (Sec. 102(a) Federal Civil Defense Act of 1950; 50 U.S.C. App. 2272(a)); and
+(2) the functions of the Civil Defense Advisory Council (Sec. 102(a) Federal Civil Defense Act of 1950; [former] 50 U.S.C. App. 2272(a)); and
 
 (3) the functions of the National Aeronautics and Space Council (Sec. 201, National Aeronautics and Space Act of 1958; [42 U.S.C. 2471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2471&num=0&edition=prelim)).
 
@@ -2736,7 +2902,7 @@ The White House, January 26, 1973.
 Ex. Ord. No. 10186, Dec. 1, 1950, 15 F.R. 8557, established the Federal Civil Defense Administration in the Office for Emergency Management of the Executive Office of the President, provided for the appointment of an Administrator and a Deputy Administrator, and delineated the purposes, functions, and authority of the Administration and the Administrator.
 
 #### Executive Order No. 10222
-Ex. Ord. No. 10222, Mar. 8, 1951, 16 F.R. 2247, which transferred to Federal Civil Defense Administration functions of Health Resources Office of National Security Resources Board, was revoked by section 904(a)(2) of Ex. Ord. No. 12919, June 3, 1994, 59 F.R. 29533, formerly set out as a note under [section 2153 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2153&num=0&edition=prelim), Appendix, War and National Defense.
+Ex. Ord. No. 10222, Mar. 8, 1951, 16 F.R. 2247, which transferred to Federal Civil Defense Administration functions of Health Resources Office of National Security Resources Board, was revoked by section 904(a)(2) of Ex. Ord. No. 12919, June 3, 1994, 59 F.R. 29533, formerly set out as a note under section 2153 of the Appendix to Title 50, War and National Defense.
 
 #### Executive Order No. 10346
 Ex. Ord. No. 10346, Apr. 17, 1952, 17 F.R. 3477, as amended by Ex. Ord. No. 10438, Mar. 13, 1953, 18 F.R. 1491; Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 6, 1958, 23 F.R. 6971; Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683, which related to the preparation by Federal agencies of civil defense emergency plans, was revoked by Ex. Ord. No. 11490, Oct. 28, 1969, 34 F.R. 17567, see below.
@@ -2834,7 +3000,7 @@ Ex. Ord. No. 11746, Nov. 7, 1973, 38 F.R. 30991, which related to the assignment
 #### Ex. Ord. No. 12148. Federal Emergency Management
 Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, as amended by Ex. Ord. No. 12155, Sept. 10, 1979, 44 F.R. 53071; Ex. Ord. No. 12156, Sept. 10, 1979, 44 F.R. 53073; Ex. Ord. No. 12381, Sept. 8, 1982, 47 F.R. 39795; Ex. Ord. No. 12673, Mar. 23, 1989, 54 F.R. 12571; Ex. Ord. No. 12919, § 904(a)(8), June 3, 1994, 59 F.R. 29533; Ex. Ord. No. 13286, § 52, Feb. 28, 2003, 68 F.R. 10628, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2251 et seq.), the Disaster Relief Act of 1970, as amended (42 U.S.C. Chapter 58 note), the Disaster Relief Act of 1974 (88 Stat. 143; [42 U.S.C. 5121](./chapter-068-disaster-relief.md#section-5121) et seq.), the Earthquake Hazards Reduction Act of 1977 ([42 U.S.C. 7701](./chapter-086-earthquake-hazards-reduction.md#section-7701) et seq.), Section 4 of Public Law 92–385 (86 Stat. 556), Section 43 of the Act of August 10, 1956, as amended (50 U.S.C. App. 2285), the National Security Act of 1947, as amended [see Tables for classification], the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 et seq.), Reorganization Plan No. 1 of 1958 [set out above], Reorganization Plan No. 1 of 1973 [set out above], the Strategic and Critical Materials Stock Piling Act, as amended ([50 U.S.C. 98](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98&num=0&edition=prelim) et seq.), Section 202 of the Budget and Accounting Procedures Act of 1950 ([31 U.S.C. 581c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section581c&num=0&edition=prelim)) [[31 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1531&num=0&edition=prelim)], and [Section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code, and in order to transfer emergency functions to the Department of Homeland Security, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Civil Defense Act of 1950, as amended ([former] 50 U.S.C. App. 2251 et seq.), the Disaster Relief Act of 1970, as amended (42 U.S.C. Chapter 58 note), the Disaster Relief Act of 1974 (88 Stat. 143; [42 U.S.C. 5121](./chapter-068-disaster-relief.md#section-5121) et seq.), the Earthquake Hazards Reduction Act of 1977 ([42 U.S.C. 7701](./chapter-086-earthquake-hazards-reduction.md#section-7701) et seq.), Section 4 of Public Law 92–385 (86 Stat. 556), Section 43 of the Act of August 10, 1956, as amended (50 U.S.C. App. 2285) [now [6 U.S.C. 765](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section765&num=0&edition=prelim)], the National Security Act of 1947, as amended [see Tables for classification], the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 et seq.) [now [50 U.S.C. 4501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4501&num=0&edition=prelim) et seq.], Reorganization Plan No. 1 of 1958 [set out above], Reorganization Plan No. 1 of 1973 [set out above], the Strategic and Critical Materials Stock Piling Act, as amended ([50 U.S.C. 98](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98&num=0&edition=prelim) et seq.), Section 202 of the Budget and Accounting Procedures Act of 1950 ([31 U.S.C. 581c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section581c&num=0&edition=prelim)) [[31 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1531&num=0&edition=prelim)], and [Section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code, and in order to transfer emergency functions to the Department of Homeland Security, it is hereby ordered as follows:
 
 #### Section 1. Transfers or Reassignments
 1–1. Transfer or Reassignment of Existing Functions.
@@ -2900,15 +3066,15 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 4–101. [Revoked by Ex. Ord. No. 12155, Sept. 10, 1979, 44 F.R. 53071.]
 
-4–102. The functions vested in the Director of the Office of Defense Mobilization by Sections 103 and 303 of the National Security Act of 1947, as amended by Sections 8 and 50 of the Act of September 3, 1954 (Public Law 779; 68 Stat. 1228 and 1244) ([50 U.S.C. 404](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section404&num=0&edition=prelim) and 405) [now [50 U.S.C. 3042](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3042&num=0&edition=prelim) and 3073], were transferred to the President by Section 1(a) of Reorganization Plan No. 1 of 1958, as amended (50 U.S.C. App. 2271 note) [now set out above], and they are hereby delegated to the Secretary of Homeland Security.
+4–102. The functions vested in the Director of the Office of Defense Mobilization by Sections 103 and 303 of the National Security Act of 1947, as amended by Sections 8 and 50 of the Act of September 3, 1954 (Public Law 779; 68 Stat. 1228 and 1244) ([50 U.S.C. 404](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section404&num=0&edition=prelim) and 405) [now [50 U.S.C. 3042](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3042&num=0&edition=prelim) and 3073], were transferred to the President by Section 1(a) of Reorganization Plan No. 1 of 1958, as amended ([former] 50 U.S.C. App. 2271 note) [now set out above], and they are hereby delegated to the Secretary of Homeland Security.
 
-4–103. (a) The functions vested in the Federal Civil Defense Administration or its Administrator by the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2251 et seq.), were transferred to the President by Reorganization Plan No. 1 of 1958, and they are hereby delegated to the Secretary of Homeland Security.
+4–103. (a) The functions vested in the Federal Civil Defense Administration or its Administrator by the Federal Civil Defense Act of 1950, as amended ([former] 50 U.S.C. App. 2251 et seq.), were transferred to the President by Reorganization Plan No. 1 of 1958, and they are hereby delegated to the Secretary of Homeland Security.
 
-(b) Excluded from the delegation in subsection (a) is the function under Section 205(a)(4) of the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2286(a)(4)), relating to the establishment and maintenance of personnel standards on the merit basis that was delegated to the Director of the Office of Personnel Management by Section 1(b) of Executive Order No. 11589, as amended (Section 2–101(b) of Executive Order No. 12107) [[5 U.S.C. 3376](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3376&num=0&edition=prelim) note].
+(b) Excluded from the delegation in subsection (a) is the function under Section 205(a)(4) of the Federal Civil Defense Act of 1950, as amended ([former] 50 U.S.C. App. 2286(a)(4)), relating to the establishment and maintenance of personnel standards on the merit basis that was delegated to the Director of the Office of Personnel Management by Section 1(b) of Executive Order No. 11589, as amended (Section 2–101(b) of Executive Order No. 12107) [[5 U.S.C. 3376](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3376&num=0&edition=prelim) note].
 
 4–104. The Secretary of Homeland Security is authorized to redelegate, in accord with the provisions of Section 1(b) of Reorganization Plan No. 1 of 1958 (50 U.S.C. App. 2271 note) [now set out above], any of the functions delegated by Sections 4–101, 4–102, and 4–103 of this Order.
 
-4–105. The functions vested in the Administrator of the Federal Civil Defense Administration by Section 43 of the Act of August 10, 1956 (70A Stat. 636) [50 U.S.C. App. 2285], were transferred to the President by Reorganization Plan No. 1 of 1958, as amended (50 U.S.C. App. 2271 note) [now set out above], were subsequently revested in the Director of the Office of Civil and Defense Mobilization by Section 512 of Public Law 86–500 (50 U.S.C. App. 2285) [the office was changed to Office of Emergency Planning by Public Law 87–296 (75 Stat. 630) and then to the Office of Emergency Preparedness by Section 402 of Public Law 90–608 (82 Stat. 1194)], were again transferred to the President by Section 1 of Reorganization Plan No. 1 of 1973 (50 U.S.C. App. 2271 note) [now set out above], and they are hereby delegated to the Secretary of Homeland Security.
+4–105. The functions vested in the Administrator of the Federal Civil Defense Administration by Section 43 of the Act of August 10, 1956 (70A Stat. 636) [former 50 U.S.C. App. 2285], were transferred to the President by Reorganization Plan No. 1 of 1958, as amended ([former] 50 U.S.C. App. 2271 note) [now set out above], were subsequently revested in the Director of the Office of Civil and Defense Mobilization by Section 512 of Public Law 86–500 (50 U.S.C. App. 2285) [the office was changed to Office of Emergency Planning by Public Law 87–296 (75 Stat. 630) and then to the Office of Emergency Preparedness by Section 402 of Public Law 90–608 (82 Stat. 1194)], were again transferred to the President by Section 1 of Reorganization Plan No. 1 of 1973 ([former] 50 U.S.C. App. 2271 note) [now set out above], and they are hereby delegated to the Secretary of Homeland Security.
 
 4–106. The functions vested in the Director of the Office of Emergency Preparedness by Section 16 of the Act of September 23, 1950, as amended ([20 U.S.C. 646](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section646&num=0&edition=prelim)), and by Section 7 of the Act of September 30, 1950, as amended ([20 U.S.C. 241–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section241–1&num=0&edition=prelim)), were transferred to the President by Section 1 of Reorganization Plan No. 1 of 1973 (50 U.S.C. App. 2271 note) [now set out above], and they are hereby delegated to the Secretary of Homeland Security.
 
@@ -2928,7 +3094,7 @@ Section [sic] 4–203. The functions vested in the President by the Robert T. St
 
 4–206. Effective July 30, 1979, the functions vested in the President by Section 204(f) of the Federal Property and Administrative Services Act of 1949, as amended ([40 U.S.C. 485(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section485/f&num=0&edition=prelim)) [now [40 U.S.C. 574(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section574/d&num=0&edition=prelim)], are hereby delegated to the Secretary of Homeland Security.
 
-4–207. The functions vested in the President by Section 502 of the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2302), are delegated to the Secretary of Homeland Security.
+4–207. The functions vested in the President by Section 502 of the Federal Civil Defense Act of 1950, as amended ([former] 50 U.S.C. App. 2302), are delegated to the Secretary of Homeland Security.
 
 #### Sec. 5. Other Executive Orders
 5–1. Revocations.
@@ -2963,13 +3129,13 @@ Section [sic] 4–203. The functions vested in the President by the Robert T. St
 
 5–201. Executive Order No. 10421, as amended, relating to physical security of defense facilities [formerly set out under [50 U.S.C. 404](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section404&num=0&edition=prelim), which was reclassified and renumbered as [50 U.S.C. 3042](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3042&num=0&edition=prelim)] is further amended by (a) substituting the “Director of the Federal Emergency Management Agency” for “Director of the Office of Emergency Planning” in Sections 1(a), 1(c), and 6(b); and, (b) substituting “Federal Emergency Management Agency” for “Office of Emergency Planning” in Sections 6(b) and 7(b).
 
-5–202. Executive Order No. 10480, as amended [50 U.S.C. App. 2153 note], is further amended by (a) substituting “Director of the Federal Emergency Management Agency” for “Director of the Office of Emergency Planning” in Sections 101(a), 101(b), 201(a), 201(b), 301, 304, 307, 308, 310(b), 311(b), 312, 313, 401(b), 401(e), and 605; and, (b) substituting “Director of the Federal Emergency Management Agency” for “Administrator of General Services” in Sections 305, 501, and 610.
+5–202. Executive Order No. 10480, as amended [former 50 U.S.C. App. 2153 note], is further amended by (a) substituting “Director of the Federal Emergency Management Agency” for “Director of the Office of Emergency Planning” in Sections 101(a), 101(b), 201(a), 201(b), 301, 304, 307, 308, 310(b), 311(b), 312, 313, 401(b), 401(e), and 605; and, (b) substituting “Director of the Federal Emergency Management Agency” for “Administrator of General Services” in Sections 305, 501, and 610.
 
 5–203. Section 3(d) of Executive Order No. 10582, as amended [[41 U.S.C. 8303](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section8303&num=0&edition=prelim) note], which relates to determinations under the Buy American Act is amended by deleting “Director of the Office of Emergency Planning” and substituting therefor “Director of the Federal Emergency Management Agency”.
 
 5–204. Paragraph 21 of Executive Order No. 10789, as amended [[50 U.S.C. 1431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1431&num=0&edition=prelim) note], is further amended by adding “The Federal Emergency Management Agency” after “Government Printing Office”.
 
-5–205. Executive Order No. 11179, as amended, concerning the National Defense Executive Reserve [50 U.S.C. App. 2153 note], is further amended by deleting “Director of the Office of Emergency Planning” in Section 2 and substituting therefor “Director of the Federal Emergency Management Agency”.
+5–205. Executive Order No. 11179, as amended, concerning the National Defense Executive Reserve [former 50 U.S.C. App. 2153 note], is further amended by deleting “Director of the Office of Emergency Planning” in Section 2 and substituting therefor “Director of the Federal Emergency Management Agency”.
 
 5–206. Section 7 of Executive Order No. 11912, as amended, concerning energy policy and conservation [[42 U.S.C. 6201](./chapter-077-energy-conservation.md#section-6201) note], is further amended by deleting “Administrator of General Services” and substituting therefor “Director of the Federal Emergency Management Agency”.
 
@@ -3024,7 +3190,7 @@ WHEREAS effective national preparedness planning requires the identification of 
 
 WHEREAS the Congress has directed the development of such national security emergency preparedness plans and has provided funds for the accomplishment thereof;
 
-NOW, THEREFORE, by virtue of the authority vested in me as President by the Constitution and laws of the United States of America, and pursuant to Reorganization Plan No. 1 of 1958 (72 Stat. 1799) [set out above], the National Security Act of 1947, as amended [[50 U.S.C. 3001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim) et seq.], the Defense Production Act of 1950, as amended [see 50 U.S.C. App. 2061], and the Federal Civil Defense Act, as amended, it is hereby ordered that the responsibilities of the Federal departments and agencies in national security emergencies shall be as follows:
+NOW, THEREFORE, by virtue of the authority vested in me as President by the Constitution and laws of the United States of America, and pursuant to Reorganization Plan No. 1 of 1958 (72 Stat. 1799) [set out above], the National Security Act of 1947, as amended [[50 U.S.C. 3001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim) et seq.], the Defense Production Act of 1950, as amended [see [50 U.S.C. 4501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4501&num=0&edition=prelim)], and the Federal Civil Defense Act, as amended, it is hereby ordered that the responsibilities of the Federal departments and agencies in national security emergencies shall be as follows:
 
 #### PART 1—Preamble
 Section 101. National Security Emergency Preparedness Policy.
@@ -3726,7 +3892,7 @@ Sec. 2901. Executive Order Nos. 10421 and 11490, as amended, are hereby revoked.
 #### Ex. Ord. No. 12657. Department of Homeland Security Assistance in Emergency Preparedness Planning at Commercial Nuclear Power Plants
 Ex. Ord. No. 12657, Nov. 18, 1988, 53 F.R. 47513, as amended by Ex. Ord. No. 13286, § 41, Feb. 28, 2003, 68 F.R. 10626, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2251 et seq.), the Disaster Relief Act of 1974, as amended ([42 U.S.C. 5121](./chapter-068-disaster-relief.md#section-5121) et seq.), the Atomic Energy Act of 1954, as amended ([42 U.S.C. 2011](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) et seq.), Reorganization Plan No. 1 of 1958 [set out above], Reorganization Plan No. 1 of 1973 [set out above], and [Section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code, and in order to ensure that plans and procedures are in place to respond to radiological emergencies at commercial nuclear power plants in operation or under construction, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Civil Defense Act of 1950, as amended ([former] 50 U.S.C. App. 2251 et seq.), the Disaster Relief Act of 1974, as amended ([42 U.S.C. 5121](./chapter-068-disaster-relief.md#section-5121) et seq.), the Atomic Energy Act of 1954, as amended ([42 U.S.C. 2011](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) et seq.), Reorganization Plan No. 1 of 1958 [set out above], Reorganization Plan No. 1 of 1973 [set out above], and [Section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code, and in order to ensure that plans and procedures are in place to respond to radiological emergencies at commercial nuclear power plants in operation or under construction, it is hereby ordered as follows:
 
 Section 1. Scope. (a) This Order applies whenever State or local governments, either individually or together, decline or fail to prepare commercial nuclear power plant radiological emergency preparedness plans that are sufficient to satisfy Nuclear Regulatory Commission (“NRC”) licensing requirements or to participate adequately in the preparation, demonstration, testing, exercise, or use of such plans.
 
@@ -4269,15 +4435,15 @@ Barack Obama.
 
 (10) **State** — The term “State” includes interstate emergency preparedness authorities established under [section 5196(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5196/h&num=0&edition=prelim).
 
-**(b) Cross reference** The terms “national defense” and “defense”, as used in the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.), includes 1 emergency preparedness activities conducted pursuant to this subchapter.
+**(b) Cross reference** The terms “national defense” and “defense,” 22 So in original. The comma probably should follow the closing quotation marks. as used in the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.),33 See References in Text note below. includes 1 emergency preparedness activities conducted pursuant to this subchapter.
 
 ### Statutory Notes
 
 #### References in Text
-The Defense Production Act of 1950, referred to in subsec. (b), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, as amended, which is classified to section 2061 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see [section 2061 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2061&num=0&edition=prelim), Appendix, and Tables.
+The Defense Production Act of 1950, referred to in subsec. (b), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which was classified to section 2061 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 55 (§ 4501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in sections 2252 and 2282 of Title 50, Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
+Provisions similar to those in this section were contained in sections 2252 and 2282 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
 
 #### Amendments
 2011—Subsec. (a)(4). Pub. L. 111–351, § 3(c)(2), substituted “Administrator” for “Director”.
@@ -4468,7 +4634,7 @@ In subsec. (i)(2), “sections 3111 and 3112 of title 40” substituted for “s
 In subsec. (k), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section471&num=0&edition=prelim) et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 2281 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2281&num=0&edition=prelim), Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
+Provisions similar to those in this section were contained in section 2281 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
 
 #### Amendments
 2011—Pub. L. 111–351 substituted “Administrator” for “Director” wherever appearing.
@@ -4501,7 +4667,7 @@ The Administrator shall give all practicable assistance to States in arranging, 
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 2283 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2283&num=0&edition=prelim), Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
+Provisions similar to those in this section were contained in section 2283 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
 
 #### Amendments
 2011—Pub. L. 111–351 substituted “Administrator” for “Director”.
@@ -4560,7 +4726,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 Section 631(2) of Pub. L. 109–295, which directed amendment of this section “by redesignating subsections (c) through (g) and subsections (d) through (h), respectively”, was executed by redesignating subsecs. (c) to (g) as (d) to (h), respectively, to reflect the probable intent of Congress.
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 2286 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2286&num=0&edition=prelim), Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
+Provisions similar to those in this section were contained in section 2286 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
 
 #### Amendments
 2011—Pub. L. 111–351 substituted “Administrator” for “Director” wherever appearing.
@@ -4594,7 +4760,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 2288 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2288&num=0&edition=prelim), Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
+Provisions similar to those in this section were contained in section 2288 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
 
 #### Amendments
 2007—Pub. L. 110–53 amended section generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of this subchapter, funds appropriated to carry out this subchapter may not be used for the purpose of constructing emergency operating centers (or similar facilities) in any State unless such State matches in an equal amount the amount made available to such State under this subchapter for such purpose.”
@@ -4611,7 +4777,7 @@ Funds made available to the States under this subchapter may be used by the Stat
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 2289 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2289&num=0&edition=prelim), Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
+Provisions similar to those in this section were contained in section 2289 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
 
 
 <a id="section-5197b"></a>
@@ -4697,7 +4863,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 2253 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2253&num=0&edition=prelim), Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
+Provisions similar to those in this section were contained in section 2253 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
 
 #### Amendments
 2011—Pub. L. 111–351 substituted “Administrator” for “Director” wherever appearing.
@@ -4724,7 +4890,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 2255 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2255&num=0&edition=prelim), Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
+Provisions similar to those in this section were contained in section 2255 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
 
 #### Amendments
 2011—Subsec. (a). Pub. L. 111–351 substituted “Administrator” for “Director” in two places.
@@ -4753,7 +4919,7 @@ In performing duties under this subchapter, the Administrator—
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 2257 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2257&num=0&edition=prelim), Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
+Provisions similar to those in this section were contained in section 2257 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
 
 #### Amendments
 2011—Pub. L. 111–351 substituted “Administrator” for “Director” in introductory provisions and in par. (3).
@@ -4772,7 +4938,7 @@ The Administrator shall annually submit a written report to the President and Co
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 2258 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2258&num=0&edition=prelim), Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
+Provisions similar to those in this section were contained in section 2258 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
 
 #### Amendments
 2011—Pub. L. 111–351 substituted “Administrator” for “Director” in two places.
@@ -4791,7 +4957,7 @@ The provisions of this subchapter shall be applicable to the United States, its 
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 2259 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2259&num=0&edition=prelim), Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
+Provisions similar to those in this section were contained in section 2259 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
 
 
 <a id="section-5201"></a>

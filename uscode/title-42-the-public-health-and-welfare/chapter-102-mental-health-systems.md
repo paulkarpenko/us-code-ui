@@ -354,13 +354,13 @@ Repeal effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as
 
 (5) Assistance to qualified public and nonprofit private entities in conducting research and demonstration projects concerning the prevention and control of sex offense, including projects (A) for the planning, development, implementation, and evaluation of alternative methods used in the prevention and control of sex offense, the treatment and counseling of the victims of sex offense and their families, and the rehabilitation of offenders; (B) for the application of such alternative methods; and (C) for the promotion of community awareness of the specific locations in which, and the specific social and other conditions under which sexual attacks are most likely to occur.
 
-**(b) Advisory committee; functions, membership, etc.** The Secretary shall appoint an advisory committee to advise, consult with, and make recommendations to the Secretary on the implementation of subsection (a) of this section. The recommendations of the committee shall be submitted directly to the Secretary without review or revision by any person without the consent of the committee. The Secretary shall appoint to such committee persons who are particularly qualified to assist in carrying out the functions of the committee. A majority of the members of the committee shall be women. Members of the advisory committee shall receive compensation at rates, not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule, for each day (including traveltime) they are engaged in the performance of their duties as members of the advisory committee and, while so serving away from their homes or regular places of business, each member shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim) for persons in Government service employed intermittently.
+**(b) Advisory committee; functions, membership, etc.** The Secretary shall appoint an advisory committee to advise, consult with, and make recommendations to the Secretary on the implementation of subsection (a). The recommendations of the committee shall be submitted directly to the Secretary without review or revision by any person without the consent of the committee. The Secretary shall appoint to such committee persons who are particularly qualified to assist in carrying out the functions of the committee. A majority of the members of the committee shall be women. Members of the advisory committee shall receive compensation at rates, not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule, for each day (including traveltime) they are engaged in the performance of their duties as members of the advisory committee and, while so serving away from their homes or regular places of business, each member shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim) for persons in Government service employed intermittently.
 
-**(c) Submission and approval of application; form, manner and contents** No grant may be made under subsection (a) of this section unless an application therefor is submitted to and approved by the Secretary. The application shall be submitted in such form and manner and contain such information as the Secretary may prescribe.
+**(c) Submission and approval of application; form, manner and contents** No grant may be made under subsection (a) unless an application therefor is submitted to and approved by the Secretary. The application shall be submitted in such form and manner and contain such information as the Secretary may prescribe.
 
-**(d) Authorization of appropriations** For the purpose of carrying out subsection (a) of this section, there are authorized to be appropriated $6,000,000 for the fiscal year ending September 30, 1981, $1,500,000 for the fiscal year ending September 30, 1982, $1,500,000 for the fiscal year ending September 30, 1983.
+**(d) Authorization of appropriations** For the purpose of carrying out subsection (a), there are authorized to be appropriated $6,000,000 for the fiscal year ending September 30, 1981, $1,500,000 for the fiscal year ending September 30, 1982, $1,500,000 for the fiscal year ending September 30, 1983.
 
-**(e) “Sex offense” defined** For purposes of subsection (a) of this section, the term “sex offense” includes statutory and attempted rape and any other criminal sexual assault (whether homosexual or heterosexual) which involves force or the threat of force.
+**(e) “Sex offense” defined** For purposes of subsection (a), the term “sex offense” includes statutory and attempted rape and any other criminal sexual assault (whether homosexual or heterosexual) which involves force or the threat of force.
 
 ### Statutory Notes
 
@@ -412,7 +412,7 @@ Repeal effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as
 ## § 9523. Report on shelter and basic living needs of chronically mentally ill individuals
 **(a) Submission to Congressional committees by Secretaries of Health and Human Services and Housing and Urban Development** The Secretary of Health and Human Services and the Secretary of Housing and Urban Development shall jointly submit a report to the Committees on Labor and Human Resources and Banking, Housing, and Urban Affairs of the Senate, and the Committees on Energy and Commerce and Banking, Finance, and Urban Affairs of the House of Representatives, relating to Federal efforts to respond to the shelter and basic living needs of chronically mentally ill individuals.
 
-**(b) Contents** The report required by subsection (a) of this section shall include—
+**(b) Contents** The report required by subsection (a) shall include—
 
 (1) an analysis of the extent to which chronically mentally ill individuals remain inappropriately housed in institutional facilities or have otherwise inadequate or inappropriate housing arrangements;
 
@@ -432,7 +432,7 @@ Repeal effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as
 
 (6) any other recommendations for Federal initiatives which, in the judgment of the Secretary of Health and Human Services and the Secretary of Housing and Urban Development, will lead to improved shelter and basic living services for chronically mentally ill individuals.
 
-**(c) Submission date** The report required by subsection (a) of this section shall be submitted to the committees referred to in subsection (a) of this section no later than January 1, 1981.
+**(c) Submission date** The report required by subsection (a) shall be submitted to the committees referred to in subsection (a) no later than January 1, 1981.
 
 ### Statutory Notes
 

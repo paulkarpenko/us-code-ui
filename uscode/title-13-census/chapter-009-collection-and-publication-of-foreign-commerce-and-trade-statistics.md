@@ -191,7 +191,7 @@ Subsecs. (b), (c). Pub. L. 107–228, § 1404(e)(2), (3), added subsec. (b) and 
 
 (1) **By the secretary of commerce.—** — The Secretary of Commerce may designate officers or employees of the Office of Export Enforcement to conduct investigations pursuant to this chapter. In conducting such investigations, those officers or employees may, to the extent necessary or appropriate to the enforcement of this chapter, exercise such authorities as are conferred upon them by other laws of the United States, subject to policies and procedures approved by the Attorney General.
 
-(2) **By the commissioner of customs.—** — The Commissioner of Customs may designate officers or employees of the Customs Service to enforce the provisions of this chapter, or to conduct investigations pursuant to this chapter.
+(2) **By the commissioner of u.s. customs and border protection.—** — The Commissioner of U.S. Customs and Border Protection may designate officers or employees of the Customs Service to enforce the provisions of this chapter, or to conduct investigations pursuant to this chapter.
 
 **(e) Regulations.—** The Secretary of Commerce shall promulgate regulations for the implementation and enforcement of this section.
 
@@ -201,6 +201,9 @@ Subsecs. (b), (c). Pub. L. 107–228, § 1404(e)(2), (3), added subsec. (b) and 
 
 #### Amendments
 2002—Pub. L. 107–228 substituted “Penalties for unlawful export information activities” for “Violations, penalties” in section catchline and amended text generally. Prior to amendment, text read as follows: “Any person, including the owners or operators of carriers, violating the provisions of this chapter, or any rule, regulation, or order issued thereunder, except as provided in section 304 above, shall be liable to a penalty not to exceed $1,000 in addition to any other penalty imposed by law. The amount of any such penalty shall be payable into the Treasury of the United States and shall be recoverable in a civil suit in the name of the United States.”
+
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in heading and text of subsec. (d)(2) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).

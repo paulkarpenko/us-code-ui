@@ -589,7 +589,7 @@ Pub. L. 107–56, title III, § 361(b), Oct. 26, 2001, 115 Stat. 332, provided t
 
 (2) it is important to have the most feasible current and complete information on the kind and source of capital flows, including transactions by large United States businesses and their foreign affiliates; and
 
-(3) additional authority should be provided to collect information on capital flows under section 5(b) of the Trading With the Enemy Act (50 App. U.S.C. 5(b)) and section 8 of the Bretton Woods Agreement Act ([22 U.S.C. 286f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section286f&num=0&edition=prelim)).
+(3) additional authority should be provided to collect information on capital flows under section 5(b) of the Trading With the Enemy Act (50 App. U.S.C. 5(b)) 11 See References in Text note below. and section 8 of the Bretton Woods Agreement Act ([22 U.S.C. 286f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section286f&num=0&edition=prelim)).
 
 **(b)** In this section, “United States person” and “foreign person controlled by a United States person” have the same meanings given those terms in section 7(f)(2)(A) and (C), respectively, of the Securities and Exchange Act of 1934 ([15 U.S.C. 78g(f)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78g/f/2/A&num=0&edition=prelim), (C)).
 
@@ -608,7 +608,7 @@ In subsection (a)(3), the words “it is desirable to emphasize this objective .
 In subsection (c), the words “(hereafter referred to as the ‘Secretary’)” are omitted because of the restatement. The words “under the authority of this subchapter and any other authority conferred by law” are omitted as surplus. The word “prescribe” is substituted for “supplement” for clarity. The words “the statement of findings under” and “the submission of” are omitted as surplus. The words “Reports required under this subchapter shall cover foreign currency transactions” are omitted because of the restatement. The words “such terms are” and “the policy of” are omitted as surplus.
 
 #### References in Text
-Section 5(b) of the Trading With the Enemy Act, referred to in subsec. (a)(3), is also classified to [section 95a of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section95a&num=0&edition=prelim), Banks and Banking.
+Section 5(b) of the Trading With the Enemy Act (50 App. U.S.C. 5(b)), referred to in subsec. (a)(3), is section 5(b) of act Oct. 6, 1917, ch. 106, 40 Stat. 415, which was editorially transferred and is now classified to [section 4305(b) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4305/b&num=0&edition=prelim), War and National Defense.
 
 
 <a id="section-5316"></a>

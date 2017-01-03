@@ -37,7 +37,7 @@ source: >-
 
   (B) does not apply to the intrastate transportation of household goods; and
 
-  (C) does not apply to the authority of a State or a political subdivision of a State to enact or enforce a law, regulation, or other provision relating to the price of for-hire motor vehicle transportation by a tow truck, if such transportation is performed without the prior consent or authorization of the owner or operator of the motor vehicle.
+  (C) does not apply to the authority of a State or a political subdivision of a State to enact or enforce a law, regulation, or other provision relating to the regulation of tow truck operations performed without the prior consent or authorization of the owner or operator of the motor vehicle.
 
 (3) **State standard transportation practices.—**
 
@@ -99,6 +99,8 @@ The Surface Freight Forwarder Deregulation Act of 1986, referred to in subsec. (
 Provisions similar to those in this section were contained in [section 11501 of this title](./chapter-115-federal-state-relations.md#section-11501) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Amendments
+2015—Subsec. (c)(2)(C). Pub. L. 114–94 substituted “the regulation of tow truck operations” for “the price of for-hire motor vehicle transportation by a tow truck, if such transportation is”.
+
 2005—Subsec. (c)(2)(B). Pub. L. 109–59, § 4206(a), inserted “intrastate” before “transportation”.
 
 Subsec. (c)(5). Pub. L. 109–59, § 4105(a), added par. (5).
@@ -109,8 +111,11 @@ Subsec. (c)(5). Pub. L. 109–59, § 4105(a), added par. (5).
 
 Subsec. (a)(1). Pub. L. 105–277 substituted “operations, or to intrastate bus transportation of any nature in the State of Hawaii” for “operations” in concluding provisions.
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-14502"></a>

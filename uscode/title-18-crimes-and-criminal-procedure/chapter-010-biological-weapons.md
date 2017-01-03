@@ -37,7 +37,12 @@ Pub. L. 101–298, § 2, May 22, 1990, 104 Stat. 201, provided that: “(a) Purp
 <a id="section-175a"></a>
 ## § 175a. Requests for military assistance to enforce prohibition in certain emergencies
 
-The Attorney General may request the Secretary of Defense to provide assistance under [section 382 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section382&num=0&edition=prelim) in support of Department of Justice activities relating to the enforcement of [section 175 of this title](./chapter-010-biological-weapons.md#section-175) in an emergency situation involving a biological weapon of mass destruction. The authority to make such a request may be exercised by another official of the Department of Justice in accordance with [section 382(f)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section382/f/2&num=0&edition=prelim).
+The Attorney General may request the Secretary of Defense to provide assistance under [section 382 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section382&num=0&edition=prelim) 11 See References in Text note below. in support of Department of Justice activities relating to the enforcement of [section 175 of this title](./chapter-010-biological-weapons.md#section-175) in an emergency situation involving a biological weapon of mass destruction. The authority to make such a request may be exercised by another official of the Department of Justice in accordance with [section 382(f)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section382/f/2&num=0&edition=prelim).1
+
+### Statutory Notes
+
+#### References in Text
+[Section 382 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section382&num=0&edition=prelim), referred to in text, was renumbered [section 282 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section282&num=0&edition=prelim), Armed Forces, by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
 
 <a id="section-175b"></a>
@@ -80,7 +85,7 @@ The Attorney General may request the Secretary of Defense to provide assistance 
 
   (G)
 
-    (i) is an alien (other than an alien lawfully admitted for permanent residence) who is a national of a country as to which the Secretary of State, pursuant to section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), section 620A of chapter 1 of part M of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371&num=0&edition=prelim)), or section 40(d) of chapter 3 of the Arms Export Control Act ([22 U.S.C. 2780(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780/d&num=0&edition=prelim)), has made a determination (that remains in effect) that such country has repeatedly provided support for acts of international terrorism, or (ii) acts for or on behalf of, or operates subject to the direction or control of, a government or official of a country described in this subparagraph;
+    (i) is an alien (other than an alien lawfully admitted for permanent residence) who is a national of a country as to which the Secretary of State, pursuant to section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)),11 See References in Text note below. section 620A of chapter 1 of part M of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371&num=0&edition=prelim)), or section 40(d) of chapter 3 of the Arms Export Control Act ([22 U.S.C. 2780(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780/d&num=0&edition=prelim)), has made a determination (that remains in effect) that such country has repeatedly provided support for acts of international terrorism, or (ii) acts for or on behalf of, or operates subject to the direction or control of, a government or official of a country described in this subparagraph;
 
   (H) has been discharged from the Armed Services of the United States under dishonorable conditions; or
 
@@ -96,6 +101,8 @@ The Attorney General may request the Secretary of Defense to provide assistance 
 Section 351A of the Public Health Service Act, referred to in subsecs. (a)(1), (b)(1), and (c)(1), is classified to [section 262a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262a&num=0&edition=prelim), The Public Health and Welfare.
 
 Section 212 of the Agricultural Bioterrorism Protection Act of 2002, referred to in subsecs. (b)(2) and (c)(2), is classified to [section 8401 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8401&num=0&edition=prelim), Agriculture.
+
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (d)(2)(G)(i), was classified to section 2405(j) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as [section 4605(j) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim).
 
 #### Amendments
 2004—Subsec. (a)(1). Pub. L. 108–458, § 6802(d)(1), substituted “as a non-overlap or overlap select biological agent or toxin in sections 73.4 and 73.5 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not excluded under sections 73.4 and 73.5 or exempted under section 73.6 of title 42, Code of Federal Regulations” for “as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations”.

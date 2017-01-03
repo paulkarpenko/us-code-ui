@@ -106,9 +106,13 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
   (N) mitigation and rapid recovery methods;
 
-  (O) security of wireless networks and mobile devices; and
+  (O) security of wireless networks and mobile devices;
 
-  (P) security of cloud infrastructure and services.
+  (P) security of cloud infrastructure and services;
+
+  (Q) security of election-dedicated voting system software and hardware; and
+
+  (R) role of the human factor in cybersecurity and the interplay of computers and humans and the physical world.
 
 (2) **Merit review; competition** — Grants shall be awarded under this section on a merit-reviewed competitive basis.
 
@@ -130,7 +134,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 (2) **Merit review; competition** — Grants shall be awarded under this subsection on a merit-reviewed competitive basis.
 
-(3) **Purpose** — The purpose of the Centers shall be to generate innovative approaches to computer and network security by conducting cutting-edge, multidisciplinary research in computer and network security, including improving the security and resiliency of information technology, reducing cyber vulnerabilities, and anticipating and mitigating consequences of cyber attacks on critical infrastructure, by conducting research in the areas described in subsection (a)(1) of this section.
+(3) **Purpose** — The purpose of the Centers shall be to generate innovative approaches to computer and network security by conducting cutting-edge, multidisciplinary research in computer and network security, including improving the security and resiliency of information technology, reducing cyber vulnerabilities, and anticipating and mitigating consequences of cyber attacks on critical infrastructure, by conducting research in the areas described in subsection (a)(1).
 
 (4) **Applications** — An institution of higher education, nonprofit research institution, or consortia thereof seeking funding under this subsection shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum, a description of—
 
@@ -164,7 +168,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
   (J) the capability of the applicant to conduct interdisciplinary cybersecurity research, basic and applied, such as in law, economics, or behavioral sciences; and
 
-  (K) the capability of the applicant to conduct research in areas such as systems security, wireless security, networking and protocols, formal methods and high-performance computing, nanotechnology, or industrial control systems.
+  (K) the capability of the applicant to conduct research in areas such as systems security, wireless security, networking and protocols, formal methods and networking and information technology, nanotechnology, or industrial control systems.
 
 (6) **Annual meeting** — The Director shall convene an annual meeting of the Centers in order to foster collaboration and communication between Center participants.
 
@@ -183,6 +187,10 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 ### Statutory Notes
 
 #### Amendments
+2017—Subsec. (a)(1)(Q), (R). Pub. L. 114–329, § 104(a), added subpars. (Q) and (R).
+
+Subsec. (b)(5)(K). Pub. L. 114–329, § 105(r), substituted “networking and information technology” for “high-performance computing”.
+
 2014—Subsec. (a)(1)(J) to (P). Pub. L. 113–274, § 201(e), added subpars. (J) to (P).
 
 Subsec. (b)(3). Pub. L. 113–274, § 202(1), substituted “improving the security and resiliency of information technology, reducing cyber vulnerabilities, and anticipating and mitigating consequences of cyber attacks on critical infrastructure, by conducting research in the areas” for “the research areas”.
@@ -472,7 +480,7 @@ There are authorized to be appropriated to the Secretary of Commerce for the Nat
 
 (3) review any and all other essential elements of computer and network security, including security of industrial process controls, to be determined in the conduct of the study.
 
-**(b) Report** The Director of the National Institute of Standards and Technology shall transmit a report containing the results of the study and recommendations required by subsection (a) of this section to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science not later than 21 months after November 27, 2002.
+**(b) Report** The Director of the National Institute of Standards and Technology shall transmit a report containing the results of the study and recommendations required by subsection (a) to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science not later than 21 months after November 27, 2002.
 
 **(c) Security** The Director of the National Institute of Standards and Technology shall ensure that no information that is classified is included in any publicly released version of the report required by this section.
 

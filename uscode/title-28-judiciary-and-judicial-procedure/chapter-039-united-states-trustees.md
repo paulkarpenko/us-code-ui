@@ -410,7 +410,7 @@ The United States trustee may employ staff and other employees on approval of th
 Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of this section and the deletion of any references to United States Trustees in this title at a prospective date, was repealed by section 307(b) of Pub. L. 99–554. See note set out preceding [section 581 of this title](./chapter-039-united-states-trustees.md#section-581).
 
 #### Temporary Suspension of Limitation on Appointments
-Pub. L. 99–554, title I, § 114(b), Oct. 27, 1986, 100 Stat. 3093, provided that: “During the period beginning on the effective date of this Act [see section 302 of Pub. L. 99–554, set out as an Effective Date note under [section 581 of this title](./chapter-039-united-states-trustees.md#section-581)] and ending on October 1, 1989, the provisions of title 5 of the United States Code governing appointments in the competitive service shall not apply with respect to appointments under [section 589 of title 28](./chapter-039-united-states-trustees.md#section-589), United States Code.”
+Pub. L. 99–554, title I, § 114(b), Oct. 27, 1986, 100 Stat. 3093, provided that: “During the period beginning on the effective date of this Act [see section 302 of Pub. L. 99–554, set out in an Effective Date of 1986 Amendment; Transition and Administrative Provisions note under [section 581 of this title](./chapter-039-united-states-trustees.md#section-581)] and ending on October 1, 1989, the provisions of title 5 of the United States Code governing appointments in the competitive service shall not apply with respect to appointments under [section 589 of title 28](./chapter-039-united-states-trustees.md#section-589), United States Code.”
 
 
 <a id="section-589a"></a>

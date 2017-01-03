@@ -80,6 +80,9 @@ The Federal Regulation of Lobbying Act, referred to in par. (2)(B), is title III
 
 1985—Par. (3). Pub. L. 99–190 inserted “and with respect to fiscal year 1987” at end of first sentence.
 
+#### Effective Date
+Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under [section 3110 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3110&num=0&edition=prelim), Government Organization and Employees.
+
 
 <a id="section-353"></a>
 ## § 353. Executive Director; additional personnel; detail of personnel of other agencies
@@ -96,6 +99,9 @@ The Federal Regulation of Lobbying Act, referred to in par. (2)(B), is title III
 #### Amendments
 1989—Pub. L. 101–194 substituted “subparagraphs (A) and (B) of [section 352(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section352/8&num=0&edition=prelim)” for “section 352(2) and (3) of this title” in pars. (1) and (2).
 
+#### Effective Date
+Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under [section 3110 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3110&num=0&edition=prelim), Government Organization and Employees.
+
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
 
@@ -105,11 +111,21 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 The Commission may use the United States mails in the same manner and upon the same conditions as other departments and agencies of the United States.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under [section 3110 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3110&num=0&edition=prelim), Government Organization and Employees.
+
 
 <a id="section-355"></a>
 ## § 355. Administrative support services
 
 The Administrator of General Services shall provide administrative support services for the Commission on a reimbursable basis.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under [section 3110 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3110&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-356"></a>
@@ -172,6 +188,9 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 #### Effective Date of 1970 Amendment
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding [section 101 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section101&num=0&edition=prelim), Postal Service.
 
+#### Effective Date
+Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under [section 3110 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3110&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Rates of Pay Pending Changes in Rates Pursuant to Federal Salary Act of 1967
 Pub. L. 94–82, title II, § 206(b), Aug. 9, 1975, 89 Stat. 423, provided that: “Until such time as a change in the rate of pay of the offices referred to in the amendment made by subsection (a) of this section [amending par. (A) of this section] occurs under the provisions of the Federal Salary Act of 1967 ([2 U.S.C. 351–361](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section351–361&num=0&edition=prelim)), as amended by subsection (a) of this section, such rates of pay shall be the rates of pay in effect immediately prior to the date of enactment of this Act [Aug. 9, 1975], as adjusted under sections 203 and 204 of this title [amending sections 60a note, 136a, 136a–1, and 4501 of this title, [section 104 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim), The President, sections 42a and 51a of former Title 31, Money and Finance, sections 162a and 166b of former Title 40, Public Buildings, Property, and Works, and [section 303 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section303&num=0&edition=prelim), Public Printing and Documents].”
 
@@ -197,6 +216,9 @@ The Commission shall submit to the President a report of the results of each rev
 
 1985—Pub. L. 99–190 substituted “December 15” for “January 1 next following the close”.
 
+#### Effective Date
+Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under [section 3110 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3110&num=0&edition=prelim), Government Organization and Employees.
+
 #### 1985 Fiscal Year Recommendations on Pay Rates of Offices and Positions
 Pub. L. 99–190, § 135(g), Dec. 19, 1985, 99 Stat. 1323, provided that: “Notwithstanding section 225(g) of such Act ([2 U.S.C. 357](./chapter-011-citizens-commission-on-public-service-and-compensation.md#section-357)), the Commission on Executive, Legislative, and Judicial Salaries shall not make recommendations on the rates of pay of offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of section 225(f) of such Act ([2 U.S.C. 356](./chapter-011-citizens-commission-on-public-service-and-compensation.md#section-356)) in connection with the review of rates of pay of such offices and positions conducted by the Commission in fiscal year 1985.”
 
@@ -213,6 +235,9 @@ Pub. L. 99–190, § 135(g), Dec. 19, 1985, 99 Stat. 1323, provided that: “Not
 1989—Pub. L. 101–194 amended section generally. Prior to amendment, section read as follows: “The President shall include, in the budget next transmitted under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim) by him to the Congress after the date of the submission of the report and recommendations of the Commission under [section 357 of this title](./chapter-011-citizens-commission-on-public-service-and-compensation.md#section-357), his recommendations with respect to the exact rates of pay which he deems advisable, for those offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of [section 356 of this title](./chapter-011-citizens-commission-on-public-service-and-compensation.md#section-356).”
 
 1985—Pub. L. 99–190 inserted reference to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), and struck out last sentence defining “budget”.
+
+#### Effective Date
+Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under [section 3110 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3110&num=0&edition=prelim), Government Organization and Employees.
 
 #### Commission’s First Report After July 30, 1983, To Include Recommendation for Appropriate Salary for Members of Congress; Prohibition on Receipt of Honoraria
 Pub. L. 98–63, title I, § 908(e), July 30, 1983, 97 Stat. 338, which directed Commission on Executive, Legislative, and Judicial Salaries to include in first report required to be submitted by it after July 30, 1983, a recommendation for an appropriate salary for Members, which recommendation was to assume a prohibition on receipt of honoraria by Members, was repealed by Pub. L. 102–90, title I, § 6(c), Aug. 14, 1991, 105 Stat. 451.
@@ -329,6 +354,9 @@ Par. (2). Pub. L. 99–190 amended par. (2) generally, substituting provisions r
 
 Par. (2). Pub. L. 95–19 reenacted par. (2) without change.
 
+#### Effective Date
+Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under [section 3110 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3110&num=0&edition=prelim), Government Organization and Employees.
+
 
 <a id="section-360"></a>
 ## § 360. Effect of recommendations on existing law and prior recommendations
@@ -348,11 +376,19 @@ The recommendations of the President taking effect as provided in [section 359 o
 
 1977—Pub. L. 95–19 inserted “, if approved by the Congress as provided in [section 359 of this title](./chapter-011-citizens-commission-on-public-service-and-compensation.md#section-359),”.
 
+#### Effective Date
+Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under [section 3110 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3110&num=0&edition=prelim), Government Organization and Employees.
+
 
 <a id="section-361"></a>
 ## § 361. Publication of recommendations
 
 The recommendations of the President which take effect shall be printed in the Statutes at Large in the same volume as public laws and shall be printed in the Federal Register and included in the Code of Federal Regulations.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under [section 3110 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3110&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-362"></a>

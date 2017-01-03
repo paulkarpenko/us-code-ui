@@ -24,7 +24,7 @@ It shall be the policy of the Federal Government, in partnership with the States
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 308701 | [16 U.S.C. 5402](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5402&num=0&edition=prelim) | Pub. L. 103–451, § 3, Nov. 2, 1994, 108 Stat. 4770. |
+| 308701 | [16 U.S.C. 5402](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5402&num=0&edition=prelim). | Pub. L. 103–451, § 3, Nov. 2, 1994, 108 Stat. 4770. |
 
 
 <a id="section-308702"></a>
@@ -45,7 +45,7 @@ In this chapter:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 308702 | [16 U.S.C. 5406](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5406&num=0&edition=prelim) | Pub. L. 103–451, § 7, Nov. 2, 1994, 108 Stat. 4777. |
+| 308702 | [16 U.S.C. 5406](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5406&num=0&edition=prelim). | Pub. L. 103–451, § 7, Nov. 2, 1994, 108 Stat. 4777. |
 
 The definition of “Committee” is omitted as obsolete.
 
@@ -96,7 +96,7 @@ The definition of “Committee” is omitted as obsolete.
 
 **(c) Grants for Maritime Heritage Preservation Projects.—**
 
-(1) **Grants to state historic preservation officers.—** — The Secretary, acting through the National Maritime Initiative of the Service and subject to paragraph (2), and the availability of amounts for that purpose under [section 308704(b)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section308704/b/1/B&num=0&edition=prelim), shall make grants to State Historic Preservation Officers for maritime heritage preservation projects.
+(1) **Grants to state historic preservation officers.—** — The Secretary, acting through the National Maritime Initiative of the Service and subject to paragraph (2), and the availability of amounts for that purpose under [section 308704(b)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section308704/b/1/A&num=0&edition=prelim), shall make grants to State Historic Preservation Officers for maritime heritage preservation projects.
 
 (2) **Use of grants.—** — Amounts received by a State Historic Preservation Officer as a grant under this subsection shall be used by the Officer to carry out, or to make subgrants to local governments and private nonprofit organizations to carry out, projects that have been approved by the Secretary under subsection (f) for the preservation of historic maritime resources through—
 
@@ -176,20 +176,22 @@ The definition of “Committee” is omitted as obsolete.
 
 **(i) Assistance of Maritime Preservation Organizations.—** The Secretary, the National Trust, and the State Historic Preservation Officers may, individually or jointly, enter into cooperative agreements with any private nonprofit organization with appropriate expertise in maritime preservation issues, or other qualified maritime preservation organizations, to assist in the administration of the Program.
 
-**(j) Report to Congress.—** The Secretary shall submit to Congress an annual report on the Program, including—
+**(j) Report to Congress.—** The Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Energy and Natural Resources of the Senate, the Committee on Natural Resources of the House of Representatives, the Committee on Armed Services of the House of Representatives, and the Committee on Transportation and Infrastructure of the House of Representatives an annual report on the Program, including—
 
-(1) a description of each project funded under the Program in the period covered by the report;
+(1) the total number of grant applications submitted and approved under the Program in the period covered by the report;
 
-(2) the results or accomplishments of each such project; and
+(2) a detailed description of each project funded under the Program in the period covered by the report;
 
-(3) recommended priorities for achieving the policy set forth in [section 308701 of this title](./chapter-3087-chapter-3087.md#section-308701).
+(3) the results or accomplishments of each such project; and
+
+(4) recommended priorities for achieving the policy set forth in [section 308701 of this title](./chapter-3087-chapter-3087.md#section-308701).
 
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 308703 | [16 U.S.C. 5403](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5403&num=0&edition=prelim) | Pub. L. 103–451, § 4, Nov. 2, 1994, 108 Stat. 4770. |
+| 308703 | [16 U.S.C. 5403](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5403&num=0&edition=prelim). | Pub. L. 103–451, § 4, Nov. 2, 1994, 108 Stat. 4770. |
 
 The text of [16 U.S.C. 5403(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5403/j&num=0&edition=prelim) is omitted as obsolete.
 
@@ -205,6 +207,17 @@ In subsection (g), the text of [16 U.S.C. 5403(g)(2)](https://uscode.house.gov/v
 
 In subsection (h)(2), the text of [16 U.S.C. 5403(h)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5403/h/5&num=0&edition=prelim) and (6) is omitted as obsolete.
 
+#### Amendments
+2016—Subsec. (c)(1). Pub. L. 114–328, § 3507(b), substituted “under section 308704(b)(1)(A)” for “under section 308704(b)(1)(B)”.
+
+Subsec. (j). Pub. L. 114–328, § 3507(c)(1), in introductory provisions, substituted “the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Energy and Natural Resources of the Senate, the Committee on Natural Resources of the House of Representatives, the Committee on Armed Services of the House of Representatives, and the Committee on Transportation and Infrastructure of the House of Representatives” for “Congress”.
+
+Subsec. (j)(1). Pub. L. 114–328, § 3507(c)(3), added par. (1). Former par. (1) redesignated (2).
+
+Subsec. (j)(2). Pub. L. 114–328, § 3507(c)(2), (4) redesignated par. (1) as (2) and inserted “detailed” before “description”. Former par. (2) redesignated (3).
+
+Subsec. (j)(3), (4). Pub. L. 114–328, § 3507(c)(2), redesignated pars. (2) and (3) as (3) and (4), respectively.
+
 
 <a id="section-308704"></a>
 ## § 308704. Funding
@@ -216,21 +229,25 @@ In subsection (h)(2), the text of [16 U.S.C. 5403(h)(5)](https://uscode.house.go
 
   (B) Twenty five percent shall be available to the Administrator of the Maritime Administration for the payment or reimbursement of expenses incurred by or on behalf of State maritime academies or the United States Merchant Marine Academy for facility and training ship maintenance, repair, and modernization, and for the purchase of simulators and fuel.
 
-  (C) The remainder shall be available—
-
-    (i) to the Secretary to carry out the Program, as provided in subsection (b); or
-
-    (ii) if otherwise determined by the Administrator of the Maritime Administration, for use in the preservation and presentation to the public of maritime heritage property of the Maritime Administration.
-
-(2) **Applicability.—** — Paragraph (1) does not apply to amounts credited to the Vessel Operations Revolving Fund before July 1, 1994.
+  (C) The remainder shall be available to the Secretary to carry out the Program, as provided in subsection (b).
 
 **(b) Use of Amounts for Program.—**
 
-(1) **In general.—** — Except as provided in paragraph (2), of amounts available each fiscal year for the Program under subsection (a)(1)(C)—
+(1) **Allocation.—**
 
-  (A) one half shall be used for grants under [section 308703(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section308703/b&num=0&edition=prelim); and
+  (A) *In general.—* — Except as provided in subparagraph (B) and paragraph (2), of the amounts available each fiscal year for the Program under subsection (a)(1)(C)—
 
-  (B) one half shall be used for grants under [section 308703(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section308703/c&num=0&edition=prelim).
+    (i) 50 percent shall be used for grants under section 308703(b); and
+
+    (ii) 50 percent shall be used for grants under section 308703(c).
+
+  (B) *Set aside.—*
+
+    (i) *In general.—* — Not less than 25 percent of the amounts available each fiscal year for the Program under subsection (a)(1)(C) shall be used for the preservation and presentation to the public of the maritime heritage property of the Maritime Administration.
+
+    (ii) *Direct transfers.—* — The Secretary may provide amounts used for the preservation and presentation to the public of the maritime heritage property of the Maritime Administration through direct transfers to the Maritime Administration.
+
+    (iii) *Waiver.—* — The Maritime Administrator may waive the application of clause (i) for any fiscal year.
 
 (2) **Administrative expenses.—**
 
@@ -269,17 +286,22 @@ In subsection (h)(2), the text of [16 U.S.C. 5403(h)(5)](https://uscode.house.go
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 308704 | [16 U.S.C. 5405](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5405&num=0&edition=prelim) | Pub. L. 103–451, § 6, Nov. 2, 1994, 108 Stat. 4776; Pub. L. 105–85, div. A, title X, § 1026(c), Nov. 18, 1997, 111 Stat. 1878; Pub. L. 106–398, § 1 [div. C, title XXXV, § 3502(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–490; Pub. L. 110–181, div. C, title XXXV, § 3514, Jan. 28, 2008, 122 Stat. 594; Pub. L. 111–84, div. C, title XXXV, § 3509, Oct. 28, 2009, 123 Stat. 2721; Pub. L. 111–383, div. A, title X, § 1075(n), Jan. 7, 2011, 124 Stat. 4378. |
+| 308704 | [16 U.S.C. 5405](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5405&num=0&edition=prelim). | Pub. L. 103–451, § 6, Nov. 2, 1994, 108 Stat. 4776; Pub. L. 105–85, div. A, title X, § 1026(c), Nov. 18, 1997, 111 Stat. 1878; Pub. L. 106–398, § 1 [div. C, title XXXV, § 3502(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–490; Pub. L. 110–181, div. C, title XXXV, § 3514, Jan. 28, 2008, 122 Stat. 594; Pub. L. 111–84, div. C, title XXXV, § 3509, Oct. 28, 2009, 123 Stat. 2721; Pub. L. 111–383, div. A, title X, § 1075(n), Jan. 7, 2011, 124 Stat. 4378. |
 
 The text of [16 U.S.C. 5405(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5405/b/2&num=0&edition=prelim) is omitted as obsolete.
 
 In subsection (a)(1)(C), before subparagraph (i), the words “whether collected before or after October 28, 2009” are omitted as obsolete.
 
+#### Amendments
+2016—Subsec. (a)(1)(C). Pub. L. 114–328, § 3507(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) related to availability of remainder of funds.
+
+Subsec. (b)(1). Pub. L. 114–328, § 3507(a)(2), amended par. (1) generally. Prior to amendment, par. (1) related to use of amounts for certain projects under the National Maritime Heritage Grants Program.
+
 #### Pilot Program on Export of Obsolete Vessels for Dismantlement and Recycling
-Pub. L. 107–314, div. C, title XXXV, § 3504(c), (d), Dec. 2, 2002, 116 Stat. 2755, 2756, provided that: “(c) Pilot Program on Export of Obsolete Vessels for Dismantlement and Recycling.—(1)(A) The Secretary of Transportation, Secretary of State, and Administrator of the Environmental Protection Agency shall jointly carry out one or more pilot programs through the Maritime Administration to explore the feasibility and advisability of various alternatives for exporting obsolete vessels in the National Defense Reserve Fleet for purposes of the dismantlement and recycling of such vessels. “(B) The pilot programs shall be carried out in accordance with applicable provisions of law and regulations. “(2)(A) The pilot programs under paragraph (1) shall be carried out during fiscal year 2003. “(B) The pilot programs shall include a total of not more than four vessels. “(C) The authority provided by this subsection is in addition to any other authority available to Maritime Administration for exporting obsolete vessels in the National Defense Reserve Fleet. “(3) Activities under the pilot programs under paragraph (1) shall include the following:“(A) Exploration of the feasibility and advisability of a variety of alternatives (developed for purposes of the pilot programs) for exporting obsolete vessels in the National Defense Reserve Fleet for purposes of the dismantlement and recycling of such vessels. “(B) Response by the Maritime Administration to proposals from the international ship recycling industry for innovative and cost-effective disposal solutions for obsolete vessels in the National Defense Reserve Fleet, including an evaluation of the feasibility and advisability of such proposals. “(C) Demonstration of the extent to which the cost-effective dismantlement or recycling of obsolete vessels in the National Defense Reserve Fleet can be accomplished abroad in [a] manner that appropriately addresses concerns regarding worker health and safety and the environment. “(D) Opportunities to transfer abroad processes, methodologies, and technologies for ship dismantlement and recycling in order to support the pilot programs and to improve international practices and standards for ship dismantlement and recycling. “(E) Exploration of cooperative efforts with foreign governments (under a global action program on ship recycling or other program) in order to foster economically and environmentally sound ship recycling abroad. “(4) The Secretary of Transportation shall submit to Congress a report on the pilot programs under paragraph (1) through the existing ship disposal reporting requirements in section 3502 of Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 [section 1 [div. C, title XXXV, § 3502] of Pub. L. 106–398, which amended this section and enacted provisions set out below]. The report shall include a description of the activities under the pilot programs, and such recommendations for further legislative or administrative action as the Secretary considers appropriate. “(d) Construction.—Nothing in this section shall be construed to establish a preference for the reefing or export of obsolete vessels in the National Defense Reserve Fleet over other alternatives available to the Secretary for the scrapping of such vessels under section 3502(d)(3) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001.”
+Pub. L. 107–314, div. C, title XXXV, § 3504(c), (d), Dec. 2, 2002, 116 Stat. 2755, 2756, provided that: “(c) Pilot Program on Export of Obsolete Vessels for Dismantlement and Recycling.—(1)(A) The Secretary of Transportation, Secretary of State, and Administrator of the Environmental Protection Agency shall jointly carry out one or more pilot programs through the Maritime Administration to explore the feasibility and advisability of various alternatives for exporting obsolete vessels in the National Defense Reserve Fleet for purposes of the dismantlement and recycling of such vessels. “(B) The pilot programs shall be carried out in accordance with applicable provisions of law and regulations. “(2)(A) The pilot programs under paragraph (1) shall be carried out during fiscal year 2003. “(B) The pilot programs shall include a total of not more than four vessels. “(C) The authority provided by this subsection is in addition to any other authority available to Maritime Administration for exporting obsolete vessels in the National Defense Reserve Fleet. “(3) Activities under the pilot programs under paragraph (1) shall include the following:“(A) Exploration of the feasibility and advisability of a variety of alternatives (developed for purposes of the pilot programs) for exporting obsolete vessels in the National Defense Reserve Fleet for purposes of the dismantlement and recycling of such vessels. “(B) Response by the Maritime Administration to proposals from the international ship recycling industry for innovative and cost-effective disposal solutions for obsolete vessels in the National Defense Reserve Fleet, including an evaluation of the feasibility and advisability of such proposals. “(C) Demonstration of the extent to which the cost-effective dismantlement or recycling of obsolete vessels in the National Defense Reserve Fleet can be accomplished abroad in [a] manner that appropriately addresses concerns regarding worker health and safety and the environment. “(D) Opportunities to transfer abroad processes, methodologies, and technologies for ship dismantlement and recycling in order to support the pilot programs and to improve international practices and standards for ship dismantlement and recycling. “(E) Exploration of cooperative efforts with foreign governments (under a global action program on ship recycling or other program) in order to foster economically and environmentally sound ship recycling abroad. “(4) The Secretary of Transportation shall submit to Congress a report on the pilot programs under paragraph (1) through the existing ship disposal reporting requirements in section 3502 of Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 [section 1 [div. C, title XXXV, § 3502] of Pub. L. 106–398, which amended former [section 5405 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5405&num=0&edition=prelim), Conservation, and enacted provisions set out below]. The report shall include a description of the activities under the pilot programs, and such recommendations for further legislative or administrative action as the Secretary considers appropriate. “(d) Construction.—Nothing in this section shall be construed to establish a preference for the reefing or export of obsolete vessels in the National Defense Reserve Fleet over other alternatives available to the Secretary for the scrapping of such vessels under section 3502(d)(3) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001.”
 
 #### Scrapping of National Defense Reserve Fleet Vessels
-Pub. L. 106–398, § 1 [div. C, title XXXV, § 3502(b)–(f)], Oct. 30, 2000, 114 Stat. 1654, 1654A–490 to 1654A–492, as amended by Pub. L. 109–163, div. C, title XXXV, § 3505(a), Jan. 6, 2006, 119 Stat. 3551; Pub. L. 112–81, div. C, title XXXV, § 3504, Dec. 31, 2011, 125 Stat. 1717; Pub. L. 112–239, div. C, title XXXV, § 3502, Jan. 2, 2013, 126 Stat. 2222, provided that: “(b) Selection of Scrapping Facilities.—The Secretary of Transportation may scrap obsolete vessels pursuant to section 6(c)(1) of the National Maritime Heritage Act of 1994 ([16 U.S.C. 5405(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5405/c/1&num=0&edition=prelim)) [see [54 U.S.C. 308704(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section308704/c/1&num=0&edition=prelim)] through qualified scrapping facilities, using the most expeditious scrapping methodology and location practicable. Scrapping facilities shall be selected under that section on a best value basis consistent with the Federal Acquisition Regulation, as in effect on the date of contract award, without any predisposition toward foreign or domestic facilities taking into consideration, among other things, the ability of facilities to scrap vessels—“(1) at least cost to the Government; “(2) in a timely manner; “(3) giving consideration to worker safety and the environment; and “(4) in a manner that minimizes the geographic distance that a vessel must be towed when towing a vessel poses a serious threat to the environment. “(c) Comprehensive Management Plan.—“(1) Requirement to develop plan.—The Secretary of Transportation shall prepare, publish, and submit to the Congress by not later than 180 days after the date of the enactment of this Act [probably should be “this subsection”, Jan. 6, 2006] a comprehensive plan for management of the vessel disposal program of the Maritime Administration in accordance with the recommendations made in the Government Accountability Office in report number GAO–05–264, dated March 2005. “(2) Contents of plan.—The plan shall—“(A) include a strategy and implementation plan for disposal of obsolete National Defense Reserve Fleet vessels (including vessels added to the fleet after the enactment of this paragraph) in a timely manner, maximizing the use of all available disposal methods, including dismantling, use for artificial reefs, donation, and Navy training exercises; “(B) identify and describe the funding and other resources necessary to implement the plan, and specific milestones for disposal of vessels under the plan; “(C) establish performance measures to track progress toward achieving the goals of the program, including the expeditious disposal of ships commencing upon the date of the enactment of this paragraph; “(D) develop a formal decisionmaking framework for the program; and “(E) identify external factors that could impede successful implementation of the plan, and describe steps to be taken to mitigate the effects of such factors. “(d) Implementation of Management Plan.—“(1) Requirement to implement.—Subject to the availability of appropriations, the Secretary shall implement the vessel disposal program of the Maritime Administration in accordance with—“(A) the management plan submitted under subsection (c); and “(B) the requirements set forth in paragraph (2). “(2) Utilization of domestic sources.—In the procurement of services under the vessel disposal program of the Maritime Administration, the Secretary shall—“(A) use full and open competition; and “(B) utilize domestic sources to the maximum extent practicable. “(e) Failure to Submit Plan.—“(1) Private management contract for disposal of Maritime Administration vessels.—The Secretary of Transportation, subject to the availability of appropriations, shall promptly award a contract using full and open competition to expeditiously implement all aspects of disposal of obsolete National Defense Reserve Fleet vessels. “(2) Application.—This subsection shall apply beginning 180 days after the date of the enactment of this subsection [Jan. 6, 2006], unless the Secretary of Transportation has submitted to the Congress the comprehensive plan required under subsection (c). “(f) Briefings.—The Maritime Administrator shall, upon request, provide briefings to the Committee on Transportation and Infrastructure, the Committee on Natural Resources, and the Committee on Armed Services of the House of Representatives, and the Committee on Commerce, Science, and Transportation and the Committee on Armed Services of the Senate, on the progress made in recycling vessels, problems encountered with recycling vessels, issues relating to vessel recycling, and other issues relating to vessel recycling and disposal.”
+Pub. L. 106–398, § 1 [div. C, title XXXV, § 3502(b)–(f)], Oct. 30, 2000, 114 Stat. 1654, 1654A–490 to 1654A–492, as amended by Pub. L. 109–163, div. C, title XXXV, § 3505(a), Jan. 6, 2006, 119 Stat. 3551; Pub. L. 112–81, div. C, title XXXV, § 3504, Dec. 31, 2011, 125 Stat. 1717; Pub. L. 112–239, div. C, title XXXV, § 3502, Jan. 2, 2013, 126 Stat. 2222, provided that: “(b) Selection of Scrapping Facilities.—The Secretary of Transportation may scrap obsolete vessels pursuant to section 6(c)(1) of the National Maritime Heritage Act of 1994 ([former] [16 U.S.C. 5405(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5405/c/1&num=0&edition=prelim)) [see [54 U.S.C. 308704(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section308704/c/1&num=0&edition=prelim)] through qualified scrapping facilities, using the most expeditious scrapping methodology and location practicable. Scrapping facilities shall be selected under that section on a best value basis consistent with the Federal Acquisition Regulation, as in effect on the date of contract award, without any predisposition toward foreign or domestic facilities taking into consideration, among other things, the ability of facilities to scrap vessels—“(1) at least cost to the Government; “(2) in a timely manner; “(3) giving consideration to worker safety and the environment; and “(4) in a manner that minimizes the geographic distance that a vessel must be towed when towing a vessel poses a serious threat to the environment. “(c) Comprehensive Management Plan.—“(1) Requirement to develop plan.—The Secretary of Transportation shall prepare, publish, and submit to the Congress by not later than 180 days after the date of the enactment of this Act [probably should be “this subsection”, Jan. 6, 2006] a comprehensive plan for management of the vessel disposal program of the Maritime Administration in accordance with the recommendations made in the Government Accountability Office in report number GAO–05–264, dated March 2005. “(2) Contents of plan.—The plan shall—“(A) include a strategy and implementation plan for disposal of obsolete National Defense Reserve Fleet vessels (including vessels added to the fleet after the enactment of this paragraph) in a timely manner, maximizing the use of all available disposal methods, including dismantling, use for artificial reefs, donation, and Navy training exercises; “(B) identify and describe the funding and other resources necessary to implement the plan, and specific milestones for disposal of vessels under the plan; “(C) establish performance measures to track progress toward achieving the goals of the program, including the expeditious disposal of ships commencing upon the date of the enactment of this paragraph; “(D) develop a formal decisionmaking framework for the program; and “(E) identify external factors that could impede successful implementation of the plan, and describe steps to be taken to mitigate the effects of such factors. “(d) Implementation of Management Plan.—“(1) Requirement to implement.—Subject to the availability of appropriations, the Secretary shall implement the vessel disposal program of the Maritime Administration in accordance with—“(A) the management plan submitted under subsection (c); and “(B) the requirements set forth in paragraph (2). “(2) Utilization of domestic sources.—In the procurement of services under the vessel disposal program of the Maritime Administration, the Secretary shall—“(A) use full and open competition; and “(B) utilize domestic sources to the maximum extent practicable. “(e) Failure to Submit Plan.—“(1) Private management contract for disposal of maritime administration vessels.—The Secretary of Transportation, subject to the availability of appropriations, shall promptly award a contract using full and open competition to expeditiously implement all aspects of disposal of obsolete National Defense Reserve Fleet vessels. “(2) Application.—This subsection shall apply beginning 180 days after the date of the enactment of this subsection [Jan. 6, 2006], unless the Secretary of Transportation has submitted to the Congress the comprehensive plan required under subsection (c). “(f) Briefings.—The Maritime Administrator shall, upon request, provide briefings to the Committee on Transportation and Infrastructure, the Committee on Natural Resources, and the Committee on Armed Services of the House of Representatives, and the Committee on Commerce, Science, and Transportation and the Committee on Armed Services of the Senate, on the progress made in recycling vessels, problems encountered with recycling vessels, issues relating to vessel recycling, and other issues relating to vessel recycling and disposal.”
 
 
 <a id="section-308705"></a>
@@ -305,7 +327,7 @@ Pub. L. 106–398, § 1 [div. C, title XXXV, § 3502(b)–(f)], Oct. 30, 2000, 1
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 308705 | [16 U.S.C. 5409](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5409&num=0&edition=prelim) | Pub. L. 105–261, div. A, title X, § 1068, Oct. 17, 1998, 112 Stat. 2135. |
+| 308705 | [16 U.S.C. 5409](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5409&num=0&edition=prelim). | Pub. L. 105–261, div. A, title X, § 1068, Oct. 17, 1998, 112 Stat. 2135. |
 
 
 <a id="section-308706"></a>
@@ -318,7 +340,7 @@ The Secretary, after consultation with the National Trust, the National Conferen
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 308706 | [16 U.S.C. 5407](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5407&num=0&edition=prelim) | Pub. L. 103–451, § 8, Nov. 2, 1994, 108 Stat. 4778. |
+| 308706 | [16 U.S.C. 5407](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5407&num=0&edition=prelim). | Pub. L. 103–451, § 8, Nov. 2, 1994, 108 Stat. 4778. |
 
 The words “within 1 year after November 2, 1994” are omitted as obsolete.
 
@@ -333,4 +355,4 @@ The authorities contained in this chapter shall be in addition to, and shall not
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 308707 | [16 U.S.C. 5408](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5408&num=0&edition=prelim) | Pub. L. 103–451, § 9, Nov. 2, 1994, 108 Stat. 4778. |
+| 308707 | [16 U.S.C. 5408](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5408&num=0&edition=prelim). | Pub. L. 103–451, § 9, Nov. 2, 1994, 108 Stat. 4778. |

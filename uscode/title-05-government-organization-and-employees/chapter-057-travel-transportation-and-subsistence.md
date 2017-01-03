@@ -2052,7 +2052,7 @@ Section effective 9 months after Oct. 13, 1978, and congressional review of prov
 
 (2) A bonus may not be paid under this section to an individual who is appointed to or who holds—
 
-  (A) a position to which an individual is appointed by the President, by and with the advice and consent of the Senate;
+  (A) a position to which an individual is appointed by the President, by and with the advice and consent of the Senate, excluding members of the Foreign Service other than chiefs of mission and ambassadors at large;
 
   (B) a position in the Senior Executive Service as a noncareer appointee (as such term is defined under section 3132(a)); or
 
@@ -2131,6 +2131,9 @@ The General Schedule, referred to in subsec. (a)(1)(A), is set out under [sectio
 #### Prior Provisions
 A prior section 5753, added Pub. L. 101–509, title V, § 529 [title II, § 208(a)], Nov. 5, 1990, 104 Stat. 1427, 1458, which related to recruitment and relocation bonuses, was repealed by Pub. L. 108–411, title I, § 101(a)(1), Oct. 30, 2004, 118 Stat. 2305.
 
+#### Amendments
+2016—Subsec. (a)(2)(A). Pub. L. 114–323 inserted “, excluding members of the Foreign Service other than chiefs of mission and ambassadors at large” before semicolon at end.
+
 #### Effective Date
 Pub. L. 108–411, title I, § 101(d), Oct. 30, 2004, 118 Stat. 2310, provided that: “(1) Effective date.—Except as provided under paragraphs (2) and (3), this section [enacting this section and [section 5754 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5754), repealing former sections 5753 and 5754 of this title, and amending provisions set out as a note under [section 5305 of this title](./chapter-053-pay-rates-and-systems.md#section-5305)] shall take effect on the first day of the first applicable pay period beginning on or after the 180th day after the date of the enactment of this Act [Oct. 30, 2004]. “(2) Application to agreements.—A recruitment or relocation bonus service agreement that was authorized under [section 5753 of title 5](./chapter-057-travel-transportation-and-subsistence.md#section-5753), United States Code, before the effective date under paragraph (1) shall continue, until its expiration, to be subject to such section as in effect on the day before such effective date. “(3) Application to allowances.—Payment of a retention allowance that was authorized under [section 5754 of title 5](./chapter-057-travel-transportation-and-subsistence.md#section-5754), United States Code, before the effective date under paragraph (1) shall continue, subject to such section as in effect on the day before such effective date, until the retention allowance is reauthorized or terminated (but no longer than 1 year after such effective date).”
 
@@ -2147,7 +2150,7 @@ Pub. L. 108–411, title I, § 101(d), Oct. 30, 2004, 118 Stat. 2310, provided t
 
 (2) A bonus may not be paid under this section to an individual who is appointed to or who holds—
 
-  (A) a position to which an individual is appointed by the President, by and with the advice and consent of the Senate;
+  (A) a position to which an individual is appointed by the President, by and with the advice and consent of the Senate, excluding members of the Foreign Service other than chiefs of mission and ambassadors at large;
 
   (B) a position in the Senior Executive Service as a noncareer appointee (as such term is defined under section 3132(a)); or
 
@@ -2230,6 +2233,9 @@ The General Schedule, referred to in subsec. (a)(1)(A), is set out under [sectio
 
 #### Prior Provisions
 A prior section 5754, added Pub. L. 101–509, title V, § 529 [title II, § 208(a)], Nov. 5, 1990, 104 Stat. 1427, 1459, which related to retention allowances, was repealed by Pub. L. 108–411, title I, § 101(a)(1), Oct. 30, 2004, 118 Stat. 2305.
+
+#### Amendments
+2016—Subsec. (a)(2)(A). Pub. L. 114–323 inserted “, excluding members of the Foreign Service other than chiefs of mission and ambassadors at large” before semicolon at end.
 
 #### Effective Date
 Section effective on the first day of the first applicable pay period beginning on or after the 180th day after Oct. 30, 2004, with exception for payment of certain retention allowances, see section 101(d) of Pub. L. 108–411, set out as a note under [section 5753 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5753).

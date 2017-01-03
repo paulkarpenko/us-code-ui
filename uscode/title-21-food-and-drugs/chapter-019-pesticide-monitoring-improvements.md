@@ -20,11 +20,11 @@ source: >-
 
   (D) focus its testing resources for monitoring pesticide residues in food on detecting those residues which pose a public health concern,
 
-  (E) prepare summaries of the information listed in subsection (b) of this section, and
+  (E) prepare summaries of the information listed in subsection (b), and
 
   (F) provide information to assist the Environmental Protection Agency in carrying out its responsibilities under the Federal Insecticide, Fungicide, and Rodenticide Act [[7 U.S.C. 136](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim) et seq.] and the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 301](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) et seq.].
 
-(2) As soon as practicable, the Secretary of Health and Human Services shall develop a means to enable the computerized data management systems placed into effect under paragraph (1) to make the summary described in subsection (c) of this section.
+(2) As soon as practicable, the Secretary of Health and Human Services shall develop a means to enable the computerized data management systems placed into effect under paragraph (1) to make the summary described in subsection (c).
 
 (3)
 
@@ -37,7 +37,7 @@ source: >-
 
   (B) In placing into effect the computerized data management systems under paragraph (1) and in carrying out paragraph (2), the Secretary shall comply with applicable regulations governing computer system design and procurement.
 
-**(b) Information** The Food and Drug Administration shall use the computerized data management systems placed into effect under subsection (a)(1) of this section to prepare a summary of—
+**(b) Information** The Food and Drug Administration shall use the computerized data management systems placed into effect under subsection (a)(1) to prepare a summary of—
 
 (1) information on—
 
@@ -59,9 +59,9 @@ source: >-
 
   (B) the United States district of entry for each such imported food product.
 
-**(c) Volume data** The Food and Drug Administration shall use the computerized data management systems placed into effect under subsection (a)(1) of this section to summarize the volume of each type of food product subject to the requirements of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 301](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) et seq.] which is imported into the United States and which has an entry value which exceeds an amount established by the Secretary of Health and Human Services. The summary shall be made by country of origin and district of entry. Information with respect to volumes of food products to be included in the summary shall, to the extent feasible, be obtained from data bases of other Federal agencies.
+**(c) Volume data** The Food and Drug Administration shall use the computerized data management systems placed into effect under subsection (a)(1) to summarize the volume of each type of food product subject to the requirements of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 301](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) et seq.] which is imported into the United States and which has an entry value which exceeds an amount established by the Secretary of Health and Human Services. The summary shall be made by country of origin and district of entry. Information with respect to volumes of food products to be included in the summary shall, to the extent feasible, be obtained from data bases of other Federal agencies.
 
-**(d) Compilation** Not later than 90 days after the expiration of 1 year after the data management systems are placed into effect under subsection (a) of this section and annually thereafter, the Secretary of Health and Human Services shall compile a summary of the information described in subsection (b) of this section with respect to the previous year. When the Food and Drug Administration is able to make summaries under subsection (c) of this section, the Secretary shall include in the compilation under the preceding sentence a compilation of the information described in subsection (c) of this section. Compilations under this subsection shall be made available to Federal and State agencies and other interested persons.
+**(d) Compilation** Not later than 90 days after the expiration of 1 year after the data management systems are placed into effect under subsection (a) and annually thereafter, the Secretary of Health and Human Services shall compile a summary of the information described in subsection (b) with respect to the previous year. When the Food and Drug Administration is able to make summaries under subsection (c), the Secretary shall include in the compilation under the preceding sentence a compilation of the information described in subsection (c). Compilations under this subsection shall be made available to Federal and State agencies and other interested persons.
 
 ### Statutory Notes
 
@@ -83,9 +83,9 @@ Pub. L. 100–418, title IV, § 4506, Aug. 23, 1988, 102 Stat. 1404, provided th
 
 **(b) Information activities**
 
-(1) The cooperative agreements entered into under subsection (a) of this section with governments of foreign countries shall specify the action to be taken by the parties to the agreements to accomplish the purpose described in subsection (a) of this section, including the means by which the governments of the foreign countries will provide to the Secretary of Health and Human Services current information identifying each of the pesticides used in the production, transportation, and storage of food products imported from production regions of such countries into the United States.
+(1) The cooperative agreements entered into under subsection (a) with governments of foreign countries shall specify the action to be taken by the parties to the agreements to accomplish the purpose described in subsection (a), including the means by which the governments of the foreign countries will provide to the Secretary of Health and Human Services current information identifying each of the pesticides used in the production, transportation, and storage of food products imported from production regions of such countries into the United States.
 
-(2) In the case of a foreign country with which the Secretary is unable to enter into an agreement under subsection (a) of this section or for which the information provided under paragraph (1) is insufficient to assure an effective pesticide monitoring program, the Secretary shall, to the extent practicable, obtain the information described in paragraph (1) with respect to such country from other Federal or international agencies or private sources.
+(2) In the case of a foreign country with which the Secretary is unable to enter into an agreement under subsection (a) or for which the information provided under paragraph (1) is insufficient to assure an effective pesticide monitoring program, the Secretary shall, to the extent practicable, obtain the information described in paragraph (1) with respect to such country from other Federal or international agencies or private sources.
 
 (3) The Secretary of Health and Human Services shall assure that appropriate offices of the Food and Drug Administration which are engaged in the monitoring of imported food for pesticide residues receive the information obtained under paragraph (1) or (2).
 
@@ -93,7 +93,7 @@ Pub. L. 100–418, title IV, § 4506, Aug. 23, 1988, 102 Stat. 1404, provided th
 
 **(c) Coordination with other agencies** The Secretary of Health and Human Services shall—
 
-(1) notify in writing the Department of Agriculture, the Environmental Protection Agency, and the Department of State at the initiation of negotiations with a foreign country to develop a cooperative agreement under subsection (a) of this section; and
+(1) notify in writing the Department of Agriculture, the Environmental Protection Agency, and the Department of State at the initiation of negotiations with a foreign country to develop a cooperative agreement under subsection (a); and
 
 (2) coordinate the activities of the Department of Health and Human Services with the activities of those departments and agencies, as appropriate, during the course of such negotiations.
 

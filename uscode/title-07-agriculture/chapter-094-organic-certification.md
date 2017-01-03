@@ -2,7 +2,7 @@
 title: 7
 chapter: '94'
 heading: ORGANIC CERTIFICATION
-section_count: 23
+section_count: 24
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -888,3 +888,17 @@ Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of P
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+
+<a id="section-6524"></a>
+## § 6524. Organically produced food
+
+In the case of a food certified under the national organic program established under the Organic Foods Production Act of 1990 ([7 U.S.C. 6501](./chapter-094-organic-certification.md#section-6501) et seq.), the certification shall be considered sufficient to make a claim regarding the absence of bioengineering in the food, such as “not bioengineered”, “non-GMO”, or another similar claim.
+
+### Statutory Notes
+
+#### References in Text
+The Organic Foods Production Act of 1990, referred to in text, is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6501 of this title](./chapter-094-organic-certification.md#section-6501) and Tables.
+
+#### Codification
+Section was enacted as part of Pub. L. 114–216, and not as part of the Organic Foods Production Act of 1990 which comprises this chapter.

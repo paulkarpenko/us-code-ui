@@ -19,9 +19,9 @@ source: >-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302901(a) | [16 U.S.C. 470b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470b/a&num=0&edition=prelim) (1st sentence paragraph (1)) | Pub. L. 89–665, title I, § 102(a) (1st sentence paragraph (1)), Oct. 15, 1966, 80 Stat. 916; Pub. L. 94–422, title II, § 201(1), Sept. 28, 1976, 90 Stat. 1319. |
-| 302901(b) | [16 U.S.C. 470b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470b/a&num=0&edition=prelim) (last sentence) | Pub. L. 89–665, title I, § 102(a) (last sentence), as added Pub. L. 96–515, title II, § 202(b), Dec. 12, 1980, 94 Stat. 2993; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. |
-| 302901(c) | [16 U.S.C. 470b(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470b/d&num=0&edition=prelim) (relating to availability) | Pub. L. 89–665, title I, § 102(d) (relating to availability), as added Pub. L. 102–575, title XL, § 4009(3), Oct. 30, 1992, 106 Stat. 4759. |
+| 302901(a) | [16 U.S.C. 470b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470b/a&num=0&edition=prelim) (1st sentence paragraph (1)). | Pub. L. 89–665, title I, § 102(a) (1st sentence paragraph (1)), Oct. 15, 1966, 80 Stat. 916; Pub. L. 94–422, title II, § 201(1), Sept. 28, 1976, 90 Stat. 1319. |
+| 302901(b) | [16 U.S.C. 470b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470b/a&num=0&edition=prelim) (last sentence). | Pub. L. 89–665, title I, § 102(a) (last sentence), as added Pub. L. 96–515, title II, § 202(b), Dec. 12, 1980, 94 Stat. 2993; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. |
+| 302901(c) | [16 U.S.C. 470b(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470b/d&num=0&edition=prelim) (relating to availability). | Pub. L. 89–665, title I, § 102(d) (relating to availability), as added Pub. L. 102–575, title XL, § 4009(3), Oct. 30, 1992, 106 Stat. 4759. |
 
 In subsection (b), the words “Notwithstanding any other provision of law” are omitted as unnecessary.
 
@@ -32,7 +32,7 @@ In subsection (b), the words “Notwithstanding any other provision of law” ar
 
 **(b) Conditions.—**
 
-(1) **In general.—** — No grant may be made under this division—
+(1) **In general 11 So in original. Probably should be “In general”..—** — No grant may be made under this division—
 
   (A) unless the application is in accordance with the comprehensive statewide historic preservation plan that has been approved by the Secretary after considering its relationship to the comprehensive statewide outdoor recreation plan prepared pursuant to chapter 2003 of this title;
 
@@ -75,14 +75,14 @@ In subsection (b), the words “Notwithstanding any other provision of law” ar
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302902(a) | [16 U.S.C. 470a(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/e/1&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(e)(1), formerly § 101(d)(1), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2992; redesignated as § 101(e)(1) and amended, Pub. L. 102–575, title XL, §§ 4006(a)(1), 4007(1), Oct. 30, 1992, 106 Stat. 4755, 4758. |
-| 302902(b)(1) | [16 U.S.C. 470b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470b/a&num=0&edition=prelim) (1st sentence paragraphs (2), (4) through (6)) | Pub. L. 89–665, title I, § 102(a) (1st sentence paragraphs (2), (4) through (6), (d) (relating to remaining cost of project)), Oct. 15, 1966, 80 Stat. 916; Pub. L. 94–422, title II, § 201(1), Sept. 28, 1976, 90 Stat. 1319. |
-| 302902(b)(2) | [16 U.S.C. 470b(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470b/b&num=0&edition=prelim) | Pub. L. 89–665, title I, § 102(b), Oct. 15, 1966, 80 Stat. 916; Pub. L. 94–422, title II, § 201(1), Sept. 28, 1976, 90 Stat. 1319; Pub. L. 102–575, title XL, § 4009(2), Oct. 30, 1992, 106 Stat. 4759. |
-| 302902(b) (3)(A) | [16 U.S.C. 470b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470b/a&num=0&edition=prelim) (1st sentence paragraph (3)) | Pub. L. 89–665, title I, § 102(a) (1st sentence paragraph (3)), Oct. 15, 1966, 80 Stat. 916; Pub. L. 94–422, title II, § 201(1), Sept. 28, 1976, 90 Stat. 1319; Pub. L. 96–515, title II, § 202(a), Dec. 12, 1980, 94 Stat. 2993; Pub. L. 102–575, title XL, § 4009(1), Oct. 30, 1992, 106 Stat. 4759; Pub. L. 106–208, § 5(a)(5), May 26, 2000, 114 Stat. 318. |
-| 302902(b) (3)(B) | [16 U.S.C. 470b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470b/a&num=0&edition=prelim) (2d sentence) | Pub. L. 89–665, title I, § 102(a) (2d sentence), as added Pub. L. 96–515, title II, § 202(b), Dec. 12, 1980, 94 Stat. 2993. |
-| 302902(b)(4) | [16 U.S.C. 470b(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470b/d&num=0&edition=prelim) (relating to remaining cost of project) |  |
-| 302902(c) | [16 U.S.C. 470c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470c&num=0&edition=prelim) | Pub. L. 89–665, title I, § 103, Oct. 15, 1966, 80 Stat. 916; Pub. L. 94–422, title II, § 201(2), Sept. 28, 1976, 90 Stat. 1319; Pub. L. 96–515, title II, § 203, Dec. 12, 1980, 94 Stat. 2993; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–575, title XL, § 4010, Oct. 30, 1992, 106 Stat. 4759; Pub. L. 106–208, § 5(a)(6), May 26, 2000, 114 Stat. 318. |
-| 302902(d) | [16 U.S.C. 470b(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470b/e&num=0&edition=prelim) | Pub. L. 89–665, title I, § 102(e), as added Pub. L. 102–575, title XL, § 4009(3), Oct. 30, 1992, 106 Stat. 4759. |
+| 302902(a) | [16 U.S.C. 470a(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/e/1&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(e)(1), formerly § 101(d)(1), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2992; redesignated as § 101(e)(1) and amended, Pub. L. 102–575, title XL, §§ 4006(a)(1), 4007(1), Oct. 30, 1992, 106 Stat. 4755, 4758. |
+| 302902(b)(1) | [16 U.S.C. 470b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470b/a&num=0&edition=prelim) (1st sentence paragraphs (2), (4) through (6)). | Pub. L. 89–665, title I, § 102(a) (1st sentence paragraphs (2), (4) through (6), (d) (relating to remaining cost of project)), Oct. 15, 1966, 80 Stat. 916; Pub. L. 94–422, title II, § 201(1), Sept. 28, 1976, 90 Stat. 1319. |
+| 302902(b)(2) | [16 U.S.C. 470b(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470b/b&num=0&edition=prelim). | Pub. L. 89–665, title I, § 102(b), Oct. 15, 1966, 80 Stat. 916; Pub. L. 94–422, title II, § 201(1), Sept. 28, 1976, 90 Stat. 1319; Pub. L. 102–575, title XL, § 4009(2), Oct. 30, 1992, 106 Stat. 4759. |
+| 302902(b) (3)(A) | [16 U.S.C. 470b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470b/a&num=0&edition=prelim) (1st sentence paragraph (3)). | Pub. L. 89–665, title I, § 102(a) (1st sentence paragraph (3)), Oct. 15, 1966, 80 Stat. 916; Pub. L. 94–422, title II, § 201(1), Sept. 28, 1976, 90 Stat. 1319; Pub. L. 96–515, title II, § 202(a), Dec. 12, 1980, 94 Stat. 2993; Pub. L. 102–575, title XL, § 4009(1), Oct. 30, 1992, 106 Stat. 4759; Pub. L. 106–208, § 5(a)(5), May 26, 2000, 114 Stat. 318. |
+| 302902(b) (3)(B) | [16 U.S.C. 470b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470b/a&num=0&edition=prelim) (2d sentence). | Pub. L. 89–665, title I, § 102(a) (2d sentence), as added Pub. L. 96–515, title II, § 202(b), Dec. 12, 1980, 94 Stat. 2993. |
+| 302902(b)(4) | [16 U.S.C. 470b(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470b/d&num=0&edition=prelim) (relating to remaining cost of project). |  |
+| 302902(c) | [16 U.S.C. 470c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470c&num=0&edition=prelim). | Pub. L. 89–665, title I, § 103, Oct. 15, 1966, 80 Stat. 916; Pub. L. 94–422, title II, § 201(2), Sept. 28, 1976, 90 Stat. 1319; Pub. L. 96–515, title II, § 203, Dec. 12, 1980, 94 Stat. 2993; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–575, title XL, § 4010, Oct. 30, 1992, 106 Stat. 4759; Pub. L. 106–208, § 5(a)(6), May 26, 2000, 114 Stat. 318. |
+| 302902(d) | [16 U.S.C. 470b(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470b/e&num=0&edition=prelim). | Pub. L. 89–665, title I, § 102(e), as added Pub. L. 102–575, title XL, § 4009(3), Oct. 30, 1992, 106 Stat. 4759. |
 
 In subsection (b)(4), the words “non-Federal share of the” are substituted for “remaining” for clarity.
 
@@ -98,8 +98,8 @@ In subsection (b)(4), the words “non-Federal share of the” are substituted f
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302903(a) | [16 U.S.C. 470a(e)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/e/2&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(e)(2), formerly § 101(d)(2), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2992; redesignated as § 101(e)(2), Pub. L. 102–575, title XL, § 4006(a)(1), Oct. 30, 1992, 106 Stat. 4755; Pub. L. 106–208, § 5(a)(2), May 26, 2002, 114 Stat. 318. |
-| 302903(b) | [16 U.S.C. 470b–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470b–1&num=0&edition=prelim) | Pub. L. 89–754, title VI, § 603, Nov. 3, 1980, 80 Stat. 1278. |
+| 302903(a) | [16 U.S.C. 470a(e)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/e/2&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(e)(2), formerly § 101(d)(2), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2992; redesignated as § 101(e)(2), Pub. L. 102–575, title XL, § 4006(a)(1), Oct. 30, 1992, 106 Stat. 4755; Pub. L. 106–208, § 5(a)(2), May 26, 2002, 114 Stat. 318. |
+| 302903(b) | [16 U.S.C. 470b–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470b–1&num=0&edition=prelim). | Pub. L. 89–754, title VI, § 603, Nov. 3, 1980, 80 Stat. 1278. |
 
 In subsection (a), the words “chartered by sections 468 to 468d of this title” are omitted as unnecessary.
 
@@ -135,8 +135,8 @@ In subsection (b), the text of [16 U.S.C. 470b–1(b)](https://uscode.house.gov/
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302904(a) through (c)(1) | [16 U.S.C. 470a(e)(3)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/e/3/A&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(e)(3)(A), (C), formerly § 101(d)(3)(A), (C), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2992; redesignated as § 101(e)(3)(A), (C), Pub. L. 102–575, title XL, § 4006(a)(1), Oct. 30, 1992, 106 Stat. 4755; Pub. L. 106–208, § 5(a)(3), May 26, 2002, 114 Stat. 318. |
-| 302904(c)(2) | [16 U.S.C. 470a(e)(3)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/e/3/C&num=0&edition=prelim) |  |
+| 302904(a) through (c)(1) | [16 U.S.C. 470a(e)(3)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/e/3/A&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(e)(3)(A), (C), formerly § 101(d)(3)(A), (C), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2992; redesignated as § 101(e)(3)(A), (C), Pub. L. 102–575, title XL, § 4006(a)(1), Oct. 30, 1992, 106 Stat. 4755; Pub. L. 106–208, § 5(a)(3), May 26, 2002, 114 Stat. 318. |
+| 302904(c)(2) | [16 U.S.C. 470a(e)(3)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/e/3/C&num=0&edition=prelim). |  |
 
 In subsection (a), the words “In addition to the programs under paragraphs (1) and (2)” are omitted as unnecessary.
 
@@ -160,7 +160,7 @@ In subsection (c)(1)(D), the word “individuals” is substituted for “person
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302905 | [16 U.S.C. 470a(e)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/e/4&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(e)(4), as added Pub. L. 102–575, title XL, § 4007(2), Oct. 30, 1992, 106 Stat. 4758. |
+| 302905 | [16 U.S.C. 470a(e)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/e/4&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(e)(4), as added Pub. L. 102–575, title XL, § 4007(2), Oct. 30, 1992, 106 Stat. 4758. |
 
 
 <a id="section-302906"></a>
@@ -173,7 +173,7 @@ The Secretary may, in consultation with the appropriate State Historic Preservat
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302906 | [16 U.S.C. 470a(e)(3)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/e/3/B&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(e)(3)(B), formerly § 101(d)(3)(B), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2992; redesignated as § 101(e)(3)(B), Pub. L. 102–575, title XL, § 4006(a)(1), Oct. 30, 1992, 106 Stat. 4755; Pub. L. 106–208, § 5(a)(3), May 26, 2002, 114 Stat. 318. |
+| 302906 | [16 U.S.C. 470a(e)(3)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/e/3/B&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(e)(3)(B), formerly § 101(d)(3)(B), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2992; redesignated as § 101(e)(3)(B), Pub. L. 102–575, title XL, § 4006(a)(1), Oct. 30, 1992, 106 Stat. 4755; Pub. L. 106–208, § 5(a)(3), May 26, 2002, 114 Stat. 318. |
 
 
 <a id="section-302907"></a>
@@ -186,12 +186,12 @@ The Secretary shall administer a program of direct grants to Indian tribes and N
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302907 | [16 U.S.C. 470a(e)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/e/5&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(e)(5), as added Pub. L. 102–575, title XL, § 4007(2), Oct. 30, 1992, 106 Stat. 4758. |
+| 302907 | [16 U.S.C. 470a(e)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/e/5&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(e)(5), as added Pub. L. 102–575, title XL, § 4007(2), Oct. 30, 1992, 106 Stat. 4758. |
 
 
 <a id="section-302908"></a>
 ## § 302908. Grants to the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau
-**(a) In General.—** As part of the program of matching grant assistance from the Historic Preservation Fund to States, the Secretary shall administer a program of direct grants to the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau in furtherance of the Compact of Free Association between the United States and the Federated States of Micronesia and the Marshall Islands, approved by the Compact of Free Association Act of 1985 ([48 U.S.C. 1901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1901&num=0&edition=prelim) et seq., 2001 et seq.), and the Compact of Free Association between the United States and Palau, approved by the Joint Resolution entitled “Joint Resolution to approve the ‘Compact of Free Association’ between the United States and Government of Palau, and for other purposes” ([48 U.S.C. 1931](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1931&num=0&edition=prelim) et seq.) or any successor enactment.
+**(a) In General.—** As part of the program of matching grant assistance from the Historic Preservation Fund to States, the Secretary shall administer a program of direct grants to the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau in furtherance of the Compact of Free Association between the United States and the Federated States of Micronesia and the Marshall Islands, approved by the Compact of Free Association Act of 1985 ([48 U.S.C. 1901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1901&num=0&edition=prelim) et seq., 2001 et seq.), and the Compact of Free Association between the United States and Palau, approved by the Joint Resolution entitled “Joint Resolution to approve the ‘Compact of Free Association’ between the United States and Government 11 So in original. Probably should be preceded by “the”. of Palau, and for other purposes” ([48 U.S.C. 1931](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1931&num=0&edition=prelim) et seq.) or any successor enactment.
 
 **(b) Goal of Program.—** The goal of the program shall be to establish historic and cultural preservation programs that meet the unique needs of each of those nations so that at the termination of the compacts the programs shall be firmly established.
 
@@ -204,14 +204,14 @@ The Secretary shall administer a program of direct grants to Indian tribes and N
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302908 | [16 U.S.C. 470a(e)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/e/6&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(e)(6), as added Pub. L. 102–575, title XL, § 4007(2), Oct. 30, 1992, 106 Stat. 4758. |
+| 302908 | [16 U.S.C. 470a(e)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/e/6&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(e)(6), as added Pub. L. 102–575, title XL, § 4007(2), Oct. 30, 1992, 106 Stat. 4758. |
 
 In subsection (a), the words “the Trust Territory of the Pacific Islands, and upon termination of the Trusteeship Agreement for the Trust Territory of the Pacific Islands” are omitted as obsolete. See note at 48 U.S.C. prec. 1681. For continued application of certain laws of the United States in certain cases, see the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America ([48 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1801&num=0&edition=prelim) note), the Compact of Free Association between the Government of the United States of America and the Governments of the Marshall Islands and the Federated States of Micronesia ([48 U.S.C. 1901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1901&num=0&edition=prelim) note), and the Compact of Free Association between the Government of the United States of America and the Government of Palau ([48 U.S.C. 1931](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1931&num=0&edition=prelim) note). The words “or any successor enactment” are added for clarity.
 
 #### References in Text
 The Compact of Free Association Act of 1985, referred to in subsec. (a), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, which is classified principally to part A of subchapter I (§ 1901 et seq.) of chapter 18 and chapter 19 (§ 2001 et seq.) of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1901&num=0&edition=prelim) and Tables.
 
-Joint Resolution entitled “Joint Resolution to approve the ‘Compact of Free Association’ between the United States and Government of Palau, and for other purposes”, referred to in subsec. (a), is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672, which is classified generally to part A (§ 1931 et seq.) of subchapter II of chapter 18 of Title 48. For complete classification of this Act to the Code, see Tables.
+The Joint Resolution entitled “Joint Resolution to approve the ‘Compact of Free Association’ between the United States and the Government of Palau, and for other purposes”, referred to in subsec. (a), is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672, which is classified generally to part A (§ 1931 et seq.) of subchapter II of chapter 18 of Title 48. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-302909"></a>
@@ -224,7 +224,7 @@ No part of any grant made under this subdivision shall be used to compensate any
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302909 | [16 U.S.C. 470a(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/f&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(f), formerly § 101(e), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2992; redesignated as § 101(f), Pub. L. 102–575, title XL, § 4006(a)(1), Oct. 30, 1992, 106 Stat. 4758. |
+| 302909 | [16 U.S.C. 470a(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/f&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(f), formerly § 101(e), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2992; redesignated as § 101(f), Pub. L. 102–575, title XL, § 4006(a)(1), Oct. 30, 1992, 106 Stat. 4758. |
 
 
 <a id="section-302910"></a>
@@ -247,6 +247,6 @@ A recipient of assistance under this division shall keep—
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302910 | [16 U.S.C. 470e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470e&num=0&edition=prelim) | Pub. L. 89–665, title I, § 105, Oct. 15, 1966, 80 Stat. 917. |
+| 302910 | [16 U.S.C. 470e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470e&num=0&edition=prelim). | Pub. L. 89–665, title I, § 105, Oct. 15, 1966, 80 Stat. 917. |
 
 The word “recipient” is substituted for “beneficiary” for clarity.

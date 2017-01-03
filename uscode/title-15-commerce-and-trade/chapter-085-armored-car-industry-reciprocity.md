@@ -47,20 +47,20 @@ Pub. L. 103–55, § 1, July 28, 1993, 107 Stat. 276, provided that: “This Act
 ## § 5902. State reciprocity of weapons licenses issued to armored car company crew members
 **(a) In general** If an armored car crew member employed by an armored car company—
 
-(1) has in effect a license issued by the appropriate State agency (in the State in which such member is primarily employed by such company) to carry a weapon while acting in the services of such company in that State, and such State agency meets the minimum requirements under subsection (b) of this section; and
+(1) has in effect a license issued by the appropriate State agency (in the State in which such member is primarily employed by such company) to carry a weapon while acting in the services of such company in that State, and such State agency meets the minimum requirements under subsection (b); and
 
 (2) has met all other applicable requirements to act as an armored car crew member in the State in which such member is primarily employed by such company,
 then such crew member shall be entitled to lawfully carry any weapon to which such license relates and function as an armored car crew member in any State while such member is acting in the service of such company.
 
 **(b) Minimum State requirements** A State agency meets the minimum State requirements of this subsection if—
 
-(1) in issuing an initial weapons license to an armored car crew member described in subsection (a) of this section, the agency determines to its satisfaction that—
+(1) in issuing an initial weapons license to an armored car crew member described in subsection (a), the agency determines to its satisfaction that—
 
   (A) the crew member has received classroom and range training in weapons safety and marksmanship during the current year from a qualified instructor for each weapon that the crew member will be licensed to carry; and
 
   (B) the receipt or possession of a weapon by the crew member would not violate Federal law, determined on the basis of a criminal record background check conducted during the current year;
 
-(2) in issuing a renewal of a weapons license to an armored car crew member described in subsection (a) of this section, the agency determines to its satisfaction that—
+(2) in issuing a renewal of a weapons license to an armored car crew member described in subsection (a), the agency determines to its satisfaction that—
 
   (A) the crew member has received continuing training in weapons safety and marksmanship from a qualified instructor for each weapon that the crew member is licensed to carry; and
 
@@ -124,4 +124,4 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 Amendment by section 4002(b)(1)(E), (2)(L) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under [section 1161 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1161&num=0&edition=prelim), The Congress.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.

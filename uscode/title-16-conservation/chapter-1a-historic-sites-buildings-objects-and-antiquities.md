@@ -27,7 +27,7 @@ Section, act Aug. 21, 1935, ch. 593, § 2, 49 Stat. 666; Pub. L. 89–249, § 8,
 
 ### Statutory Notes
 
-Section, act Aug. 21, 1935, ch. 593, § 3, 49 Stat. 667; Pub. L. 91–383, § 9, Aug. 18, 1970, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1940; amended Pub. L. 95–625, title VI, § 604(2), Nov. 10, 1978, 92 Stat. 3518; Pub. L. 101–628, title XII, §§ 1211, 1212, Nov. 28, 1990, 104 Stat. 4507; Pub. L. 104–333, div. I, title VIII, § 814(f)(1), Nov. 12, 1996, 110 Stat. 4197; Pub. L. 109–156, § 5, Dec. 30, 2005, 119 Stat. 2948; Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2107; Pub. L. 111–8, div. E, title I, Mar. 11, 2009, 123 Stat. 710, established the National Park System Advisory Board and the National Park Service Advisory Council. See sections 102303(b) to (i) and 102304(a)(2) to (d) of Title 54, National Park Service and Related Programs.
+Section, act Aug. 21, 1935, ch. 593, § 3, 49 Stat. 667; Pub. L. 91–383, § 9, Aug. 18, 1970, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1940; amended Pub. L. 95–625, title VI, § 604(2), Nov. 10, 1978, 92 Stat. 3518; Pub. L. 101–628, title XII, §§ 1211, 1212, Nov. 28, 1990, 104 Stat. 4507; Pub. L. 104–333, div. I, title VIII, § 814(f)(1), Nov. 12, 1996, 110 Stat. 4197; Pub. L. 109–156, § 5, Dec. 30, 2005, 119 Stat. 2948; Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2107; Pub. L. 111–8, div. E, title I, Mar. 11, 2009, 123 Stat. 710, established the National Park System Advisory Board and the National Park Service Advisory Council. See sections 102303 and 102304 of Title 54, National Park Service and Related Programs.
 
 
 <a id="section-464"></a>
@@ -165,7 +165,9 @@ Section, Pub. L. 86–523, § 2, formerly § 2(a), June 27, 1960, 74 Stat. 220, 
 
 ### Statutory Notes
 
-Section, Pub. L. 86–523, § 3, as added Pub. L. 93–291, § 1(3), May 24, 1974, 88 Stat. 174, related to giving notice to Secretary of the Interior regarding the threat of irreparable loss or destruction of significant scientific, prehistorical, historical, or archeological data by Federal construction projects. See [section 312502 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section312502&num=0&edition=prelim), National Park Service and Related Programs.
+Section, Pub. L. 86–523, § 3, as added Pub. L. 93–291, § 1(3), May 24, 1974, 88 Stat. 174, related to threats of irreparable loss or destruction of significant scientific, prehistorical, historical, or archeological data by Federal construction projects. See [section 312502 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section312502&num=0&edition=prelim), National Park Service and Related Programs.
+
+A prior section 3 of Pub. L. 86–523 was renumbered section 6 and was classified to [section 469b of this title](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-469b) prior to repeal by Pub. L. 113–287.
 
 
 <a id="section-469a-2"></a>
@@ -174,6 +176,8 @@ Section, Pub. L. 86–523, § 3, as added Pub. L. 93–291, § 1(3), May 24, 197
 ### Statutory Notes
 
 Section, Pub. L. 86–523, § 4, as added Pub. L. 93–291, § 1(3), May 24, 1974, 88 Stat. 174, related to survey by Secretary of the Interior for preservation of data. See [section 312503 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section312503&num=0&edition=prelim), National Park Service and Related Programs.
+
+A prior section 4 of Pub. L. 86–523 was renumbered section 7 and was classified to [section 469c of this title](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-469c) prior to repeal by Pub. L. 113–287.
 
 
 <a id="section-469a-3"></a>
@@ -262,7 +266,7 @@ The comprehensive plan presented by the Secretary to the President of the Senate
 ## § 469h. Comprehensive plan for Reserve Development
 **(a) Technical assistance** The Secretary is authorized to provide technical assistance to the State of Wisconsin for planning and development of the reserve in accordance with the comprehensive plan.
 
-**(b) Additional grants** In addition to grants made pursuant to the Land and Water Conservation Fund Act of 1965,11 See References in Text note below. the Secretary is authorized to make grants of not to exceed 25 per centum of the actual cost of each development project within the reserve in accordance with the comprehensive plan: Provided, That the maximum amount of such grants for all proj­ects shall not exceed $2,500,000.
+**(b) Additional grants** In addition to grants made pursuant to the Land and Water Conservation Fund Act of 1965,11 See References in Text note below. the Secretary is authorized to make grants of not to exceed 25 per centum of the actual cost of each development project within the reserve in accordance with the comprehensive plan: Provided, That the maximum amount of such grants for all projects shall not exceed $2,500,000.
 
 **(c) Costs of maintenance** The Secretary, pursuant to an agreement with the State of Wisconsin, may pay up to 50 per centum of the annual cost of management, protection, maintenance, and rehabilitation of the reserve.
 
@@ -271,7 +275,7 @@ The comprehensive plan presented by the Secretary to the President of the Senate
 ### Statutory Notes
 
 #### References in Text
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which was classified principally to former part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. Sections 2, 3, 4(i)(1)(C), (j) to (n), 5 to 13, and 201 of the Act were repealed and restated as sections 100506(c) and 100904 and chapter 2003 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
+The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which was classified principally to part B (§ 460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. Sections 2, 3, 4(i)(1)(C), (j) to (n), 5 to 10, and 201 of the Act were repealed and restated as sections 100506(c) and 100904 and chapter 2003 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
 #### Amendments
 1980—Subsec. (b). Pub. L. 96–199 substituted “$2,500,000” for “$425,000”.
@@ -300,7 +304,7 @@ Section, Pub. L. 99–83, title XIII, § 1303, Aug. 8, 1985, 99 Stat. 280; Pub. 
 
 ### Statutory Notes
 
-Section, Pub. L. 104–333, div. I, title VI, § 604, Nov. 12, 1996, 110 Stat. 4173; Pub. L. 107–359, § 3, Dec. 17, 2002, 116 Stat. 3016, known as the American Battlefield Protection Act of 1996, established the American Battlefield Protection Program. See sections 308101 to 308103 of Title 54, National Park Service and Related Programs.
+Section, Pub. L. 104–333, div. I, title VI, § 604, Nov. 12, 1996, 110 Stat. 4173; Pub. L. 107–359, § 3, Dec. 17, 2002, 116 Stat. 3016, known as the American Battlefield Protection Act of 1996, established the American Battlefield Protection Program.
 
 #### Short Title of 2002 Amendment
 Pub. L. 107–359, § 1, Dec. 17, 2002, 116 Stat. 3016, provided that: “This Act [amending this section and enacting provisions set out as a note under this section], may be cited as the ‘Civil War Battlefield Preservation Act of 2002’.”
@@ -312,7 +316,7 @@ Pub. L. 107–359, § 1, Dec. 17, 2002, 116 Stat. 3016, provided that: “This A
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 111–11, title VII, § 7301, Mar. 30, 2009, 123 Stat. 1213; Pub. L. 113–76, div. G, title IV, § 429, Jan. 17, 2014, 128 Stat. 345, which related to the American Battlefield Protection Program, was transferred in part and repealed in part. Subsec. (a) was transferred and is set out as a note under [section 308101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section308101&num=0&edition=prelim), National Park Service and Related Programs. Subsecs. (b) and (c) were repealed and restated in sections 308101 to 308103 of Title 54.
+Section, Pub. L. 111–11, title VII, § 7301, Mar. 30, 2009, 123 Stat. 1213; Pub. L. 113–76, div. G, title IV, § 429, Jan. 17, 2014, 128 Stat. 345; Pub. L. 113–235, div. F, title IV, § 421, Dec. 16, 2014, 128 Stat. 2449, which related to the American Battlefield Protection Program, was transferred in part and repealed in part. Subsec. (a) was transferred and is set out as a note under [section 308101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section308101&num=0&edition=prelim), National Park Service and Related Programs. Subsecs. (b) and (c) were repealed and restated in sections 308101 to 308103 of Title 54 by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272, which act enacted Title 54.
 
 
 <a id="section-469l"></a>
@@ -321,7 +325,7 @@ Section, Pub. L. 111–11, title VII, § 7301, Mar. 30, 2009, 123 Stat. 1213; Pu
 ### Statutory Notes
 
 #### Codification
-Subsec. (a) of this section, Pub. L. 105–203, § 2(a), July 21, 1998, 112 Stat. 678, which provided congressional findings regarding commemoration of the Underground Railroad, was omitted from the Code following the enactment of Title 54, National Park Service and Related Programs, by Pub. L. 113–287. Subsec. (b) of this section, Pub. L. 105–203, § 2(b), July 21, 1998, 112 Stat. 679, which stated the purposes of Pub. L. 105–203, was transferred and is set out as a note under [section 308301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section308301&num=0&edition=prelim).
+Section, Pub. L. 105–203, § 2, July 21, 1998, 112 Stat. 678, which provided congressional findings and purposes regarding commemoration of the Underground Railroad, was omitted in part and transferred in part. Subsec. (a), which provided congressional findings, was omitted from the Code following the enactment of Title 54, National Park Service and Related Programs, by Pub. L. 113–287. Subsec. (b), which provided purposes of former sections 469l to 469l–2 of this title, was transferred and is set out as a note under [section 308301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section308301&num=0&edition=prelim).
 
 
 <a id="section-469l-1"></a>
@@ -354,7 +358,7 @@ Section, Pub. L. 105–203, § 5, as added Pub. L. 110–229, title III, § 361(
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 111–11, title VII, § 7111, Mar. 30, 2009, 123 Stat. 1199, which related to Women’s Rights National Historical Park, was repealed in part and omitted in part. Subsec. (a), which enacted section 410ll–1 of this title, was omitted from the Code. Subsecs. (b) and (c) were repealed and restated in sections 308501 and 308502 of Title 54, National Park Service and Related Programs.
+Section, Pub. L. 111–11, title VII, § 7111, Mar. 30, 2009, 123 Stat. 1199, which related to Women’s Rights National Historical Park, was repealed in part and omitted in part. Subsec. (a), which enacted section 410ll–1 of this title, was omitted from the Code. Subsecs. (b) and (c) were repealed and restated in sections 308501 and 308502 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272, which act enacted Title 54.
 
 
 <a id="section-469n"></a>
@@ -397,7 +401,7 @@ Section, Pub. L. 89–665, title IV, § 406, as added Pub. L. 102–575, title X
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 89–665, § 1, Oct. 15, 1966, 80 Stat. 915; Pub. L. 96–515, title I, § 101(a), Dec. 12, 1980, 94 Stat. 2987, provided the short title, findings, and policy of the National Historic Preservation Act. Subsec. (a), which provided that this subchapter could be cited as the “National Historic Preservation Act”, was transferred and is set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Subsec. (b), which related to findings and declaration of policy, was omitted from the Code following the enactment of Title 54 by Pub. L. 113–287.
+Section, Pub. L. 89–665, § 1, Oct. 15, 1966, 80 Stat. 915; Pub. L. 96–515, title I, § 101(a), Dec. 12, 1980, 94 Stat. 2987, which provided the short title, findings, and policy of the National Historic Preservation Act, was transferred in part and omitted in part. Subsec. (a), which provided that this subchapter could be cited as the “National Historic Preservation Act”, was transferred and is set out as a Short Title of 1966 Act note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Subsec. (b), which related to findings and declaration of policy, was omitted from the Code following the enactment of Title 54 by Pub. L. 113–287.
 
 
 <a id="section-470a-1"></a>
@@ -413,7 +417,7 @@ Section, Pub. L. 89–665, § 2, as added Pub. L. 96–515, title I, § 101(a), 
 
 ### Statutory Notes
 
-Section, Pub. L. 89–665, title I, § 101, Oct. 15, 1966, 80 Stat. 915; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; amended Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2988; Pub. L. 102–575, title XL, §§ 4003–4006(a), 4007, 4008, Oct. 30, 1992, 106 Stat. 4753–4755, 4758; Pub. L. 103–437, § 6(d)(29), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, § 814(d)(2)(F), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3007], Nov. 29, 1999, 113 Stat. 1536, 1501A–551; Pub. L. 106–208, § 5(a)(1)–(4), May 26, 2000, 114 Stat. 318, related to historic preservation program. Subsec. (b)(5), which related to limited effectiveness of State historic preservation programs, was repealed as obsolete. Provisions of remainder of section were repealed and restated in numerous sections in division A (§ 300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs. For disposition of section, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
+Section, Pub. L. 89–665, title I, § 101, Oct. 15, 1966, 80 Stat. 915; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; amended Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2988; Pub. L. 102–575, title XL, §§ 4003–4006(a), 4007, 4008, Oct. 30, 1992, 106 Stat. 4753–4755, 4758; Pub. L. 103–437, § 6(d)(29), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, § 814(d)(2)(F), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3007], Nov. 29, 1999, 113 Stat. 1536, 1501A–551; Pub. L. 106–208, § 5(a)(1)–(4), May 26, 2000, 114 Stat. 318, related to historic preservation program. Subsec. (b)(5), which related to status of State historic preservation programs in effect under prior authority, was repealed as obsolete. Provisions of remainder of section were repealed and restated in numerous sections in division A (§ 300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs. For disposition of section, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
 
 <a id="section-470b"></a>
@@ -437,7 +441,7 @@ Section, Pub. L. 96–515, title IV, § 402, Dec. 12, 1980, 94 Stat. 3000, relat
 
 ### Statutory Notes
 
-Section, Pub. L. 89–665, title I, § 102, Oct. 15, 1966, 80 Stat. 916; Pub. L. 94–422, title II, § 201(1), Sept. 28, 1976, 90 Stat. 1319; Pub. L. 96–515, title IV, § 202, Dec. 12, 1980, 94 Stat. 2993; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–575, title XL, § 4009, Oct. 30, 1992, 106 Stat. 4759; Pub. L. 106–208, § 5(a)(5), May 26, 2000, 114 Stat. 318, related to requirements for awarding of grant funds. Subsecs. (a), (b), (d), and (e) were repealed and restated in sections 302901 and 302902 of Title 54, National Park Service and Related Programs. Subsec. (c), which provided for a limited waiver of certain grant amounts, had been previously repealed by Pub. L. 96–515.
+Section, Pub. L. 89–665, title I, § 102, Oct. 15, 1966, 80 Stat. 916; Pub. L. 94–422, title II, § 201(1), Sept. 28, 1976, 90 Stat. 1319; Pub. L. 96–515, title IV, § 202, Dec. 12, 1980, 94 Stat. 2993; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–575, title XL, § 4009, Oct. 30, 1992, 106 Stat. 4759; Pub. L. 106–208, § 5(a)(5), May 26, 2000, 114 Stat. 318, related to requirements for awarding of grant funds. See sections 302901 and 302902 of Title 54, National Park Service and Related Programs.
 
 
 <a id="section-470d"></a>
@@ -509,7 +513,7 @@ Section, Pub. L. 89–665, title I, § 109, as added Pub. L. 96–244, § 1, May
 
 ### Statutory Notes
 
-Section, Pub. L. 89–665, title I, § 110, as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2996; amended Pub. L. 102–575, title XL, §§ 4006(b), 4012, Oct. 30, 1992, 106 Stat. 4757, 4760; Pub. L. 106–208, §§ 4, 5(a)(8), May 26, 2000, 114 Stat. 318, 319; Pub. L. 108–352, § 13, Oct. 21, 2004, 118 Stat. 1397, related to historic properties owned or controlled by Federal agencies. See sections 306101 to 306107 and 306108 to 306114 of Title 54, National Park Service and Related Programs.
+Section, Pub. L. 89–665, title I, § 110, as added Pub. L. 96–515, title II, § 206, Dec. 12, 1980, 94 Stat. 2996; amended Pub. L. 102–575, title XL, §§ 4006(b), 4012, Oct. 30, 1992, 106 Stat. 4757, 4760; Pub. L. 106–208, §§ 4, 5(a)(8), May 26, 2000, 114 Stat. 318, 319; Pub. L. 108–352, § 13, Oct. 21, 2004, 118 Stat. 1397, related to historic properties owned or controlled by Federal agencies. See sections 306101 to 306107 and 306109 to 306114 of Title 54, National Park Service and Related Programs.
 
 
 <a id="section-470h-5"></a>
@@ -605,7 +609,7 @@ Section, Pub. L. 89–665, title II, § 208, as added Pub. L. 94–422, title II
 
 ### Statutory Notes
 
-Section, Pub. L. 89–665, title II, § 209, as added Pub. L. 94–422, title II, § 201(9), Sept. 28, 1976, 90 Stat. 1322, related to operations of Council and exemption. See section 304105(i), (j) of Title 54, National Park Service and Related Programs.
+Section, Pub. L. 89–665, title II, § 209, as added Pub. L. 94–422, title II, § 201(9), Sept. 28, 1976, 90 Stat. 1322, related to exemption of Council from certain laws. See section 304105(i), (j) of Title 54, National Park Service and Related Programs.
 
 
 <a id="section-470t"></a>
@@ -621,7 +625,7 @@ Section, Pub. L. 89–665, title II, § 210, as added Pub. L. 94–422, title II
 
 ### Statutory Notes
 
-Section, Pub. L. 89–665, title II, § 211, as added Pub. L. 94–422, title II, § 201(9), Sept. 28, 1976, 90 Stat. 1322; amended Pub. L. 96–515, title III, § 301(l), Dec. 12, 1980, 94 Stat. 2999; Pub. L. 102–575, title XL, § 4018, Oct. 30, 1992, 106 Stat. 4763, related to rules and regulations; participation by local governments. See section 304108(a), (b) of Title 54, National Park Service and Related Programs.
+Section, Pub. L. 89–665, title II, § 211, as added Pub. L. 94–422, title II, § 201(9), Sept. 28, 1976, 90 Stat. 1322; amended Pub. L. 96–515, title III, § 301(l), Dec. 12, 1980, 94 Stat. 2999; Pub. L. 102–575, title XL, § 4018, Oct. 30, 1992, 106 Stat. 4763, related to rules and regulations and participation by local governments in proceedings. See section 304108(a), (b) of Title 54, National Park Service and Related Programs.
 
 
 <a id="section-470v"></a>

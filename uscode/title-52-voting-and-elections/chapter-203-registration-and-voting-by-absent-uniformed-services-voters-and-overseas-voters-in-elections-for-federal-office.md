@@ -579,6 +579,9 @@ This Act, referred to in subsec. (a)(2)(C), is Pub. L. 99–410, Aug. 28, 1986, 
 #### Codification
 Section was formerly classified to [section 1973ff–4a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973ff–4a&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (b) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim), Armed Forces.
+
 
 <a id="section-20309"></a>
 ## § 20309. Effect on certain other laws

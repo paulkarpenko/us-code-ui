@@ -3132,6 +3132,12 @@ then there is hereby imposed on the employer an assessable payment equal to the 
 
   (E) *Full-time equivalents treated as full-time employees* — Solely for purposes of determining whether an employer is an applicable large employer under this paragraph, an employer shall, in addition to the number of full-time employees for any month otherwise determined, include for such month a number of full-time employees determined by dividing the aggregate number of hours of service of employees who are not full-time employees for the month by 120.
 
+  (F) *Exemption for health coverage under TRICARE or the Veterans Administration* — Solely for purposes of determining whether an employer is an applicable large employer under this paragraph for any month, an individual shall not be taken into account as an employee for such month if such individual has medical coverage for such month under—
+
+    (i) chapter 55 of title 10, United States Code, including coverage under the TRICARE program, or
+
+    (ii) under a health care program under chapter 17 or 18 of title 38, United States Code, as determined by the Secretary of Veterans Affairs, in coordination with the Secretary of Health and Human Services and the Secretary.
+
 (3) **Applicable premium tax credit and cost-sharing reduction** — The term “applicable premium tax credit and cost-sharing reduction” means—
 
   (A) any premium tax credit allowed under section 36B,
@@ -3174,6 +3180,8 @@ then there is hereby imposed on the employer an assessable payment equal to the 
 The Patient Protection and Affordable Care Act, referred to in subsecs. (a)(2), (b)(1)(B), and (c)(3)(B), (C), (5)(A)(ii), (6), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Sections 1302(c)(4), 1402, 1411, and 1412 of the Act are classified to sections 18022(c)(4), 18071, 18081, and 18082, respectively, of Title 42, The Public Health and Welfare. Section 10108 of the Act enacted former [section 139D of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-139d) and [section 18101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18101&num=0&edition=prelim), amended sections 36B, 162, 4980H, 6056, and 6724 of this title and [section 218b of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section218b&num=0&edition=prelim), Labor, and enacted provisions set out as notes under sections 36B, 162, 4980H, and 6056 of this title and former [section 139D of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-139d). For complete classification of this Act to the Code, see Short Title note set out under [section 18001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (c)(2)(F). Pub. L. 114–41 added subpar. (F).
+
 2011—Subsec. (b)(3). Pub. L. 112–10 struck out par. (3). Text read as follows: “No assessable payment shall be imposed under paragraph (1) for any month with respect to any employee to whom the employer provides a free choice voucher under section 10108 of the Patient Protection and Affordable Care Act for such month.”
 
 2010—Subsec. (b). Pub. L. 111–152, § 1003(d), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to large employers with enrollment waiting periods exceeding 60 days.
@@ -3205,6 +3213,9 @@ Subsec. (d)(4)(A). Pub. L. 111–148, § 10106(f)(1), inserted “, with respect
 Subsec. (d)(5)(A). Pub. L. 111–152, § 1003(b)(3), substituted “subsection (b) and paragraph (1)” for “subsection (b)(2) and (d)(1)” in introductory provisions.
 
 Subsec. (e). Pub. L. 111–152, § 1003(d), redesignated subsec. (e) as (d).
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–41, title IV, § 4007(a)(2), July 31, 2015, 129 Stat. 466, provided that: “The amendment made by this subsection [amending this section] shall apply to months beginning after December 31, 2013.”
 
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 112–10 effective as if included in the provisions of, and the amendments made by, the provisions of Pub. L. 111–148 to which it relates, see section 1858(d) of Pub. L. 112–10, set out as a note under [section 36B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-36b).
@@ -3277,9 +3288,9 @@ there is hereby imposed a tax equal to 40 percent of the excess benefit.
 
       (II) the dollar amount in clause (i)(II) shall be increased by $3,450,11 So in original. The comma probably should be a period.
 
-    (v) *Subsequent years* — In the case of any calendar year after 2018, each of the dollar amounts under clauses (i) (after the application of clause (ii)) and (iv) shall be increased to the amount equal to such amount as in effect for the calendar year preceding such year, increased by an amount equal to the product of—
+    (v) *Subsequent years* — In the case of any calendar year after 2018, each of the dollar amounts under clauses (i) (after the application of clause (ii)) and (iv) shall be increased to the amount equal to such amount as determined for for the calendar year preceding such year, increased by an amount equal to the product of—
 
-      (I) such amount as so in effect, multiplied by
+      (I) such amount as so determined, multiplied by
 
       (II) the cost-of-living adjustment determined under section 1(f)(3) for such year (determined by substituting the calendar year that is 2 years before such year for “1992” in subparagraph (B) thereof), increased by 1 percentage point in the case of determinations for calendar years beginning before 2020.
     If any amount determined under this clause is not a multiple of $50, such amount shall be rounded to the nearest multiple of $50.
@@ -3344,7 +3355,9 @@ there is hereby imposed a tax equal to 40 percent of the excess benefit.
 
   (C) *Archer MSAs and HSAs* — In the case of applicable employer-sponsored coverage consisting of coverage under an arrangement under which the employer makes contributions described in subsection (b) or (d) of section 106, the cost of the coverage shall be equal to the amount of employer contributions under the arrangement.
 
-  (D) *Allocation on a monthly basis* — If cost is determined on other than a monthly basis, the cost shall be allocated to months in a taxable period on such basis as the Secretary may prescribe.
+  (D) *Qualified small employer health reimbursement arrangements* — In the case of applicable employer-sponsored coverage consisting of coverage under any qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2)), the cost of coverage shall be equal to the amount described in section 6051(a)(15).
+
+  (E) *Allocation on a monthly basis* — If cost is determined on other than a monthly basis, the cost shall be allocated to months in a taxable period on such basis as the Secretary may prescribe.
 
 (3) **Employee** — The term “employee” includes any former employee, surviving spouse, or other primary insured individual.
 
@@ -3386,7 +3399,7 @@ there is hereby imposed a tax equal to 40 percent of the excess benefit.
 
 (3) **Employees engaged in high-risk profession** — The term “employees engaged in a high-risk profession” means law enforcement officers (as such term is defined in section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968), employees in fire protection activities (as such term is defined in section 3(y) of the Fair Labor Standards Act of 1938), individuals who provide out-of-hospital emergency medical care (including emergency medical technicians, paramedics, and first-responders), individuals whose primary work is longshore work (as defined in section 258(b) of the Immigration and Nationality Act ([8 U.S.C. 1288(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1288/b&num=0&edition=prelim)), determined without regard to paragraph (2) thereof), and individuals engaged in the construction, mining, agriculture (not including food processing), forestry, and fishing industries. Such term includes an employee who is retired from a high-risk profession described in the preceding sentence, if such employee satisfied the requirements of such sentence for a period of not less than 20 years during the employee’s employment.
 
-(4) **Group health plan** — The term “group health plan” has the meaning given such term by section 5000(b)(1).
+(4) **Group health plan** — The term “group health plan” has the meaning given such term by section 5000(b)(1). Section 9831(d)(1) shall not apply for purposes of this section.
 
 (5) **Health insurance coverage; health insurance issuer**
 
@@ -3402,7 +3415,7 @@ there is hereby imposed a tax equal to 40 percent of the excess benefit.
 
 (9) **Aggregation rules** — All employers treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as a single employer.
 
-(10) **Denial of deduction** — For denial of a deduction for the tax imposed by this section, see section 275(a)(6).
+(10) **Deductibility of tax** — Section 275(a)(6) shall not apply to the tax imposed by subsection (a).
 
 **(g) Regulations** The Secretary shall prescribe such regulations as may be necessary to carry out this section.
 
@@ -3418,6 +3431,14 @@ Section 3(y) of the Fair Labor Standards Act of 1938, referred to in subsec. (f)
 Section 3(16)(B) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(7), is classified to [section 1002(16)(B) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/16/B&num=0&edition=prelim), Labor.
 
 #### Amendments
+2016—Subsec. (d)(2)(D), (E). Pub. L. 114–255, § 18001(a)(4)(B), added subpar. (D) and redesignated former subpar. (D) as (E).
+
+Subsec. (f)(4). Pub. L. 114–255, § 18001(a)(4)(A), inserted at end “Section 9831(d)(1) shall not apply for purposes of this section.”.
+
+2015—Subsec. (b)(3)(C)(v). Pub. L. 114–113, § 101(b), substituted “as determined for” for “as in effect” in introductory provisions and “as so determined” for “as so in effect” in subcl. (I).
+
+Subsec. (f)(10). Pub. L. 114–113, § 102, amended par. (10) generally. Prior to amendment, text read as follows: “For denial of a deduction for the tax imposed by this section, see section 275(a)(6).”
+
 2010—Subsec. (b)(3)(B). Pub. L. 111–152, § 1401(a)(1), designated existing provisions as cl. (i), inserted heading, substituted “Except as provided in clause (ii), the annual” for “The annual”, and added cl. (ii).
 
 Subsec. (b)(3)(C). Pub. L. 111–152, § 1401(a)(2)(A), struck out introductory provisions which read: “Except as provided in subparagraph (D)—”.
@@ -3454,8 +3475,11 @@ Subsec. (d)(3). Pub. L. 111–152, § 1401(a)(5), added par. (3).
 
 Subsec. (f)(3). Pub. L. 111–148, § 10901(a), inserted “individuals whose primary work is longshore work (as defined in section 258(b) of the Immigration and Nationality Act ([8 U.S.C. 1288(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1288/b&num=0&edition=prelim)), determined without regard to paragraph (2) thereof),” before “and individuals engaged in the construction, mining”.
 
+#### Effective Date of 2016 Amendment
+Amendment by Pub. L. 114–255 applicable to years beginning after Dec. 31, 2016, see section 18001(a)(7) of Pub. L. 114–255, set out as a note under [section 36B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-36b).
+
 #### Effective Date of 2010 Amendment
-Pub. L. 111–148, title X, § 10901(c), Mar. 23, 2010, 124 Stat. 1016, as amended by Pub. L. 111–152, title I, § 1401(b)(2), Mar. 30, 2010, 124 Stat. 1060, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
+Pub. L. 111–148, title X, § 10901(c), Mar. 23, 2010, 124 Stat. 1016, as amended by Pub. L. 111–152, title I, § 1401(b)(2), Mar. 30, 2010, 124 Stat. 1060; Pub. L. 114–113, div. P, title I, § 101(a), Dec. 18, 2015, 129 Stat. 3037, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2019.”
 
 #### Effective Date
-Pub. L. 111–148, title IX, § 9001(c), Mar. 23, 2010, 124 Stat. 853, as amended by Pub. L. 111–152, title I, § 1401(b)(1), Mar. 30, 2010, 124 Stat. 1060, provided that: “The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 2017.”
+Pub. L. 111–148, title IX, § 9001(c), Mar. 23, 2010, 124 Stat. 853, as amended by Pub. L. 111–152, title I, § 1401(b)(1), Mar. 30, 2010, 124 Stat. 1060; Pub. L. 114–113, div. P, title I, § 101(a), Dec. 18, 2015, 129 Stat. 3037, provided that: “The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 2019.”

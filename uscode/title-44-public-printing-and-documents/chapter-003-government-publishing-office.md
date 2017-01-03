@@ -26,8 +26,6 @@ Pub. L. 113–235, § 1301(c), substituted “Director of the Government Publish
 1972—Pub. L. 92–310 struck out “; bond” in section catchline, and provisions from text which required the Public Printer to give a bond in the sum of $25,000.
 
 #### Change of Name
-“Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding this section.
-
 Pub. L. 113–235, div. H, title I, § 1301(d), Dec. 16, 2014, 128 Stat. 2537, provided that: “Any reference in any law other than in title 44, United States Code, or in any rule, regulation, certificate, directive, instruction, or other official paper in force on the date of enactment of this Act [Dec. 16, 2014] to the Public Printer shall be considered to refer and apply to the Director of the Government Publishing Office.”
 
 
@@ -46,11 +44,11 @@ Phraseology is changed to conform with section 301 of this revision.
 #### Amendments
 2014—Pub. L. 113–235, § 1301(h), in first sentence, struck out “, who must be a practical printer and versed in the art of bookbinding,” after “suitable person” and, in second sentence, substituted “The Deputy Director of the Government Publishing Office” for “He” and “and perform” for “, and perform” and struck out “perform the duties formerly required of the chief clerk,” after “shall” and “of him” after “required”.
 
-Pub. L. 113–235, § 1301(e), substituted “Deputy Director of the Government Publishing Office” for “Deputy Public Printer” in section catchline and text.
+Pub. L. 113–235, § 1301(e), substituted “Deputy Director of the Government Publishing Office” for “Deputy Public Printer” in section catchline and the first place appearing in text.
 
 Pub. L. 113–235, § 1301(c)(2), which directed amendment of this section by substituting “Director of the Government Publishing Office” for “Public Printer” in section catchline, was not executed to reflect the probable intent of Congress and the subsequent amendment by section 1301(e)(2) of Pub. L. 113–235. See 2014 Amendment note above.
 
-Pub. L. 113–235, § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer” the first and third places appearing in text.
+Pub. L. 113–235, § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer” in two places in text.
 
 #### Change of Name
 “Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
@@ -108,7 +106,7 @@ Based on 44 U.S. Code, 1964 ed., § 32 (Jan. 12, 1895, ch. 23, § 36, 28 Stat. 6
 
 Pub. L. 113–235, § 1301(e)(1), substituted “Deputy Director of the Government Publishing Office” for “Deputy Public Printer”.
 
-Pub. L. 113–235, § 1301(c), substituted “Director of the Government Publishing Office” for “Public Printer” in section catchline and text.
+Pub. L. 113–235, § 1301(c), substituted “Director of the Government Publishing Office” for “Public Printer” in section catchline and wherever appearing in text.
 
 
 <a id="section-305"></a>
@@ -274,7 +272,7 @@ Based on 44 U.S. Code, 1964 ed., § 63, 63a (Aug. 1, 1953, ch. 304, title I, § 
 
 Pub. L. 113–235, § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer” in concluding provisions.
 
-Subsecs. (c), (d), (e), (e)(1). Pub. L. 113–235, § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer”.
+Subsecs. (c) to (e). Pub. L. 113–235, § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer”.
 
 Subsec. (f). Pub. L. 113–235, § 1301(i)(5)(B), substituted “the discretion of the Comptroller General” for “his or her discretion”.
 
@@ -324,7 +322,7 @@ Based on 44 U.S. Code, 1964 ed., § 230 (Aug. 1, 1953, ch. 304, title I, § 101,
 #### Amendments
 2014—Pub. L. 113–235, § 1301(i)(6), substituted “the written request of the Director” for “his written request”.
 
-Pub. L. 113–235, § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer” in three places.
+Pub. L. 113–235, § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer” wherever appearing.
 
 #### Change of Name
 “Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
@@ -367,7 +365,7 @@ Subsec. (c). Pub. L. 106–57, § 210(a), added subsec. (c).
 Pub. L. 99–151, § 305(a), designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Change of Name
-“Government Publishing Office” substituted for “Government Printing Office” in subsecs. (a), (b), and (c) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
+“Government Publishing Office” substituted for “Government Printing Office” wherever appearing in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
 
 
 <a id="section-312"></a>
@@ -400,7 +398,7 @@ The Deputy Director of the Government Publishing Office, the superintendent of p
 Based on U.S. Code, 1964 ed., § 49 (Jan. 12, 1895, ch. 23, § 20, 28 Stat. 603; May 27, 1908, ch. 200, § 1, 35 Stat. 382; June 7, 1924, ch. 303, § 1, 43 Stat. 509).
 
 #### Amendments
-2014—Pub. L. 113–235, § 1301(e)(1), substituted “Deputy Director of the Government Publishing Office” for “Deputy Public Printer” in three places.
+2014—Pub. L. 113–235, § 1301(e)(1), substituted “Deputy Director of the Government Publishing Office” for “Deputy Public Printer” wherever appearing.
 
 Pub. L. 113–235, § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer”.
 
@@ -460,7 +458,7 @@ The Director of the Government Publishing Office or a delegate of the Director m
 #### Amendments
 2014—Pub. L. 113–235, § 1301(i)(9), substituted “a delegate of the Director” for “his delegate”.
 
-Pub. L. 113–235, § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer” in three places.
+Pub. L. 113–235, § 1301(c)(1), substituted “Director of the Government Publishing Office” for “Public Printer” wherever appearing.
 
 #### Change of Name
 “Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).

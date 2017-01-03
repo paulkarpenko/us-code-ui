@@ -168,7 +168,7 @@ For the purposes of this chapter, the term—
 
 <a id="section-3104"></a>
 ## § 3104. Management of Indian forest land
-**(a) Management activities** The Secretary shall undertake forest land management activities on Indian forest land, either directly or through contracts, cooperative agreements, or grants under the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.].
+**(a) Management activities** The Secretary shall undertake forest land management activities on Indian forest land, either directly or through contracts, cooperative agreements, or grants under the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.].
 
 **(b) Management objectives** Indian forest land management activities undertaken by the Secretary shall be designed to achieve the following objectives—
 
@@ -197,14 +197,14 @@ For the purposes of this chapter, the term—
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 
 <a id="section-3105"></a>
 ## § 3105. Forest management deduction
 **(a) Withholding of deduction** Pursuant to the authority of [section 413 of this title](./chapter-012-lease-sale-or-surrender-of-allotted-or-unallotted-lands.md#section-413), the Secretary shall withhold a reasonable deduction from the gross proceeds of sales of forest products harvested from Indian forest land under a timber sale contract, permit, or other harvest sale document, which has been approved by the Secretary, to cover in whole or part the cost of managing and protecting such Indian forest land.
 
-**(b) Amount of deduction** Deductions made pursuant to subsection (a) of this section shall not exceed the lesser amount of—
+**(b) Amount of deduction** Deductions made pursuant to subsection (a) shall not exceed the lesser amount of—
 
 (1) 10 percent of gross proceeds, or
 
@@ -242,7 +242,7 @@ unless the appropriate Indian tribe consents to an increase in the deductions.
 
 **(b) Treatment of proceeds** The proceeds of civil penalties collected under this section shall be treated as proceeds from the sale of forest products from the Indian forest lands upon which such trespass occurred.
 
-**(c) Concurrent jurisdiction** Indian tribes which adopt the regulations promulgated by the Secretary pursuant to subsection (a) of this section shall have concurrent civil jurisdiction to enforce the provisions of this section and the regulation promulgated thereunder. The Bureau of Indian Affairs and other agencies of the Federal Government shall, at the request of the tribe, defer to tribal prosecutions of forest trespass cases. Tribal court judgments regarding forest trespass shall be entitled to full faith and credit in Federal and State courts to the same extent as a Federal court judgment obtained under this section.
+**(c) Concurrent jurisdiction** Indian tribes which adopt the regulations promulgated by the Secretary pursuant to subsection (a) shall have concurrent civil jurisdiction to enforce the provisions of this section and the regulation promulgated thereunder. The Bureau of Indian Affairs and other agencies of the Federal Government shall, at the request of the tribe, defer to tribal prosecutions of forest trespass cases. Tribal court judgments regarding forest trespass shall be entitled to full faith and credit in Federal and State courts to the same extent as a Federal court judgment obtained under this section.
 
 
 <a id="section-3107"></a>
@@ -270,7 +270,7 @@ Subject to the Secretary’s responsibilities as reflected in sections 3101(2) a
 
 **(b) Deposits and expenditures**
 
-(1) The Secretary may deposit into the Indian forest land assistance account established pursuant to subsection (a) of this section any funds received by the Secretary or in the Secretary’s possession from—
+(1) The Secretary may deposit into the Indian forest land assistance account established pursuant to subsection (a) any funds received by the Secretary or in the Secretary’s possession from—
 
   (A) non-Federal sources, if such funds are related to activities on or for the Indian forest lands of such tribe’s reservation,
 
@@ -298,7 +298,7 @@ Subject to the Secretary’s responsibilities as reflected in sections 3101(2) a
 
   (B) for the provision of levels of assistance for the forestry programs of such tribes, and
 
-  (C) the allocation of base support funds to such tribes under the program established pursuant to subsection (a) of this section.
+  (C) the allocation of base support funds to such tribes under the program established pursuant to subsection (a).
 
 (2) The formula established pursuant to this subsection shall provide funding necessary to support—
 
@@ -337,7 +337,7 @@ Subject to the Secretary’s responsibilities as reflected in sections 3101(2) a
 
 (4) The initial assessment required by this subsection shall be completed no later than 36 months following November 28, 1990. Upon completion, the assessment shall be submitted to the Committee on Natural Resources of the United States House of Representatives and the Committee on Indian Affairs of the United States Senate and shall be made available to Indian tribes.
 
-**(b) Periodic assessments** On each 10-year anniversary of November 28, 1990, the Secretary shall provide for an independent assessment of Indian forest lands and Indian forest land management practices under the criteria established in subsection (a) of this section which shall include analyses measured against findings in previous assessments.
+**(b) Periodic assessments** On each 10-year anniversary of November 28, 1990, the Secretary shall provide for an independent assessment of Indian forest lands and Indian forest land management practices under the criteria established in subsection (a) which shall include analyses measured against findings in previous assessments.
 
 **(c) Status report to Congress** The Secretary shall submit, within 1 year of the first full fiscal year after November 28, 1990, and within 6 months of the end of each succeeding fiscal year, a report to the Committee on Natural Resources of the United States House of Representatives, the Committee on Indian Affairs of the United States Senate, and to the affected Indian tribes a report on the status of Indian forest lands with respect to standards, goals and objectives set forth in approved forest management plans for each Indian tribe with Indian forest lands. The report shall identify the amount of Indian forest land in need of forestation or other silviculture treatment and the quantity of timber available for sale, offered for sale, and sold for each Indian tribe.
 
@@ -355,14 +355,14 @@ Subsec. (c). Pub. L. 103–437, inserted “the” after “report to” and sub
 ## § 3112. Alaska Native technical assistance program
 **(a) Establishment** The Secretary, in consultation with the village and regional corporations established pursuant to the Alaska Native Claims Settlement Act ([43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.), shall establish a program of technical assistance for such corporations to promote the sustained yield management of their forest resources. Such technical assistance shall also be available to promote local processing and other value-added activities with such forest resources.
 
-**(b) Indian Self-Determination Act** The technical assistance to be provided by the Secretary pursuant to subsection (a) of this section shall be made available through contracts, grants or agreements entered into in accordance with, and made available to entities eligible for, such contracts, grants, or agreements under the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.].
+**(b) Indian Self-Determination Act** The technical assistance to be provided by the Secretary pursuant to subsection (a) shall be made available through contracts, grants or agreements entered into in accordance with, and made available to entities eligible for, such contracts, grants, or agreements under the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.].
 
 ### Statutory Notes
 
 #### References in Text
 The Alaska Native Claims Settlement Act, referred to in subsec. (a), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
-The Indian Self-Determination Act, referred to in subsec. (b), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in subsec. (b), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 
 <a id="section-3113"></a>
@@ -407,7 +407,7 @@ The Indian Self-Determination Act, referred to in subsec. (b), is title I of Pub
 
   (A) the Bureau of Indian Affairs;
 
-  (B) a forestry program conducted under a contract, grant, or cooperative agreement entered into under the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.];
+  (B) a forestry program conducted under a contract, grant, or cooperative agreement entered into under the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.];
 
   (C) an Indian enterprise engaged in a forestry or forestry-related business; or
 
@@ -422,7 +422,7 @@ The Indian Self-Determination Act, referred to in subsec. (b), is title I of Pub
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in subsec. (c)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in subsec. (c)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 
 <a id="section-3114"></a>
@@ -498,7 +498,7 @@ The Indian Self-Determination Act, referred to in subsec. (c)(2)(B), is title I 
 
     (ii) formerly had a forest cover or vegetative cover that is capable of restoration.
 
-(3) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 450b of this title](./chapter-014-miscellaneous.md#section-450b).
+(3) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 5304 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5304).
 
 (4) **Secretary** — The term “Secretary” means—
 
@@ -508,7 +508,7 @@ The Indian Self-Determination Act, referred to in subsec. (c)(2)(B), is title I 
 
 **(b) Authority to protect Indian forest land or rangeland**
 
-(1) **In general** — Not later than 120 days after the date on which an Indian tribe submits to the Secretary a request to enter into an agreement or contract to carry out a project to protect Indian forest land or rangeland (including a project to restore Federal land that borders on or is adjacent to Indian forest land or rangeland) that meets the criteria described in subsection (c) of this section, the Secretary may issue public notice of initiation of any necessary environmental review or of the potential of entering into an agreement or contract with the Indian tribe pursuant to section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 ([16 U.S.C. 2104](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2104&num=0&edition=prelim) note; Public Law 105–277) (as amended by section 323 of the Department of the Interior and Related Agencies Appropriations Act, 2003 (117 Stat. 275)), or such other authority as appropriate, under which the Indian tribe would carry out activities described in paragraph (3).
+(1) **In general** — Not later than 120 days after the date on which an Indian tribe submits to the Secretary a request to enter into an agreement or contract to carry out a project to protect Indian forest land or rangeland (including a project to restore Federal land that borders on or is adjacent to Indian forest land or rangeland) that meets the criteria described in subsection (c), the Secretary may issue public notice of initiation of any necessary environmental review or of the potential of entering into an agreement or contract with the Indian tribe pursuant to section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 ([16 U.S.C. 2104](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2104&num=0&edition=prelim) note; Public Law 105–277) (as amended by section 323 of the Department of the Interior and Related Agencies Appropriations Act, 2003 (117 Stat. 275)), or such other authority as appropriate, under which the Indian tribe would carry out activities described in paragraph (3).
 
 (2) **Environmental analysis** — Following completion of any necessary environmental analysis, the Secretary may enter into an agreement or contract with the Indian tribe as described in paragraph (1).
 
@@ -518,7 +518,7 @@ The Indian Self-Determination Act, referred to in subsec. (c)(2)(B), is title I 
 
   (B) bordering or adjacent to the Indian forest land or rangeland under the jurisdiction of the Indian tribe.
 
-**(c) Selection criteria** The criteria referred to in subsection (b) of this section, with respect to an Indian tribe, are whether—
+**(c) Selection criteria** The criteria referred to in subsection (b), with respect to an Indian tribe, are whether—
 
 (1) the Indian forest land or rangeland under the jurisdiction of the Indian tribe borders on or is adjacent to land under the jurisdiction of the Forest Service or the Bureau of Land Management;
 
@@ -536,7 +536,7 @@ The Indian Self-Determination Act, referred to in subsec. (c)(2)(B), is title I 
 
 (4) the Forest Service or Bureau of Land Management land described in the application of the Indian tribe presents or involves a feature or circumstance unique to that Indian tribe (including treaty rights or biological, archaeological, historical, or cultural circumstances).
 
-**(d) Notice of denial** If the Secretary denies a tribal request under subsection (b)(1) of this section, the Secretary may issue a notice of denial to the Indian tribe, which—
+**(d) Notice of denial** If the Secretary denies a tribal request under subsection (b)(1), the Secretary may issue a notice of denial to the Indian tribe, which—
 
 (1) identifies the specific factors that caused, and explains the reasons that support, the denial;
 
@@ -544,7 +544,7 @@ The Indian Self-Determination Act, referred to in subsec. (c)(2)(B), is title I 
 
 (3) proposes a schedule of consultation with the Indian tribe for the purpose of developing a strategy for protecting the Indian forest land or rangeland of the Indian tribe and interests of the Indian tribe in Federal land.
 
-**(e) Proposal evaluation and determination factors** In entering into an agreement or contract in response to a request of an Indian tribe under subsection (b)(1) of this section, the Secretary may—
+**(e) Proposal evaluation and determination factors** In entering into an agreement or contract in response to a request of an Indian tribe under subsection (b)(1), the Secretary may—
 
 (1) use a best-value basis; and
 

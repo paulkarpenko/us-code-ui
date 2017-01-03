@@ -1679,6 +1679,9 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 #### Effective Date
 Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
 
+#### Inclusion of Information on Common Grounds for Sustaining Bid Protests in Annual Government Accountability Office Reports to Congress
+Pub. L. 114–328, div. A, title VIII, § 889, Dec. 23, 2016, 130 Stat. 2323, provided that: “The Comptroller General of the United States shall include in the annual report to Congress on the Government Accountability Office each year a list of the most common grounds for sustaining protests relating to bids for contracts during such year.”
+
 #### Prompt Payment of Costs Under Prior Law
 Pub. L. 103–355, title I, § 1403(b)(4), Oct. 13, 1994, 108 Stat. 3290, provided that: “Costs to which the Comptroller General declared an interested party to be entitled under [section 3554 of title 31](./chapter-035-accounting-and-collection.md#section-3554), United States Code, as in effect immediately before the enactment of this Act [Oct. 13, 1994], shall, if not paid or otherwise satisfied by the Federal agency concerned before the date of the enactment of this Act, be paid promptly.”
 

@@ -1716,9 +1716,19 @@ Section effective on the later of 360 days after July 21, 2010, or, to the exten
 
   (D) *Treatment of affiliates*
 
-    (i) *In general* — An affiliate of a person that qualifies for an exception under subparagraph (A) (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate, acting on behalf of the person and as an agent, uses the swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity.
+    (i) *In general* — An affiliate of a person that qualifies for an exception under subparagraph (A) (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate—
 
-    (ii) *Prohibition relating to certain affiliates* — The exception in clause (i) shall not apply if the affiliate is—
+      (I) enters into the swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity, and the commercial risk that the affiliate is hedging or mitigating has been transferred to the affiliate;
+
+      (II) is directly and wholly-owned by another affiliate qualified for the exception under this subparagraph or an entity that is not a financial entity;
+
+      (III) is not indirectly majority-owned by a financial entity;
+
+      (IV) is not ultimately owned by a parent company that is a financial entity; and
+
+      (V) does not provide any services, financial or otherwise, to any affiliate that is a nonbank financial company supervised by the Board of Governors (as defined under [section 5311 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5311&num=0&edition=prelim)).
+
+    (ii) *Limitation on qualifying affiliates* — The exception in clause (i) shall not apply if the affiliate is—
 
       (I) a swap dealer;
 
@@ -1728,13 +1738,43 @@ Section effective on the later of 360 days after July 21, 2010, or, to the exten
 
       (IV) a major security-based swap participant;
 
-      (V) an issuer that would be an investment company, as defined in section 3 of the Investment Company Act of 1940 ([15 U.S.C. 80a–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–3&num=0&edition=prelim)), but for paragraph (1) or (7) of subsection (c) of that Act 88 So in original. Probably should be “section”. ([15 U.S.C. 80a–3(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–3/c&num=0&edition=prelim));
+      (V) a commodity pool;
 
-      (VI) a commodity pool; or
+      (VI) a bank holding company;
 
-      (VII) a bank holding company with over $50,000,000,000 in consolidated assets.
+      (VII) a private fund, as defined in [section 80b–2(a) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–2/a&num=0&edition=prelim);
 
-    (iii) *Transition rule for affiliates* — An affiliate, subsidiary, or a wholly owned entity of a person that qualifies for an exception under subparagraph (A) and is predominantly engaged in providing financing for the purchase or lease of merchandise or manufactured goods of the person shall be exempt from the margin requirement described in [section 6s(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6s/e&num=0&edition=prelim) and the clearing requirement described in paragraph (1) with regard to swaps entered into to mitigate the risk of the financing activities for not less than a 2-year period beginning on July 21, 2010.
+      (VIII) an employee benefit plan or government 88 So in original. Probably should be “governmental”. plan, as defined in paragraphs (3) and (32) of [section 1002 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002&num=0&edition=prelim);
+
+      (IX) an insured depository institution;
+
+      (X) a farm credit system institution;
+
+      (XI) a credit union;
+
+      (XII) a nonbank financial company supervised by the Board of Governors (as defined under [section 5311 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5311&num=0&edition=prelim)); or
+
+      (XIII) an entity engaged in the business of insurance and subject to capital requirements established by an insurance governmental authority of a State, a territory of the United States, the District of Columbia, a country other than the United States, or a political subdivision of a country other than the United States that is engaged in the supervision of insurance companies under insurance law.
+
+    (iii) *Limitation on affiliates’ affiliates* — Unless the Commission determines, by order, rule, or regulation, that it is in the public interest, the exception in clause (i) shall not apply with respect to an affiliate if the affiliate is itself affiliated with—
+
+      (I) a major security-based swap participant;
+
+      (II) a security-based swap dealer;
+
+      (III) a major swap participant; or
+
+      (IV) a swap dealer.
+
+    (iv) *Conditions on transactions* — With respect to an affiliate that qualifies for the exception in clause (i)—
+
+      (I) the affiliate may not enter into any swap other than for the purpose of hedging or mitigating commercial risk; and
+
+      (II) neither the affiliate nor any person affiliated with the affiliate that is not a financial entity may enter into a swap with or on behalf of any affiliate that is a financial entity or otherwise assume, net, combine, or consolidate the risk of swaps entered into by any such financial entity, except one that is an affiliate that qualifies for the exception under clause (i).
+
+    (v) *Transition rule for affiliates* — An affiliate, subsidiary, or a wholly owned entity of a person that qualifies for an exception under subparagraph (A) and is predominantly engaged in providing financing for the purchase or lease of merchandise or manufactured goods of the person shall be exempt from the margin requirement described in [section 6s(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6s/e&num=0&edition=prelim) and the clearing requirement described in paragraph (1) with regard to swaps entered into to mitigate the risk of the financing activities for not less than a 2-year period beginning on July 21, 2010.
+
+    (vi) *Risk management program* — Any swap entered into by an affiliate that qualifies for the exception in clause (i) shall be subject to a centralized risk management program of the affiliate, which is reasonably designed both to monitor and manage the risks associated with the swap and to identify each of the affiliates on whose behalf a swap was entered into.
 
   (E) *Election of counterparty*
 
@@ -1793,6 +1833,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Subsec. (a)(1)(B) of this section was formerly classified to [section 4 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section4&num=0&edition=prelim). Subsec. (a)(1)(C) of this section was formerly classified to [section 2a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2a&num=0&edition=prelim). Subsec. (a)(2) to (11) of this section was formerly classified to [section 4a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section4a&num=0&edition=prelim). Subsec. (b) of this section was formerly classified to [section 3 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3&num=0&edition=prelim).
 
 #### Amendments
+2015—Subsec. (h)(7)(D). Pub. L. 114–113 added cls. (i) to (iv) and (vi), redesignated former cl. (iii) as (v), and struck out former cls. (i) and (ii) which related to application of exception to affiliates and prohibition relating to certain affiliates, respectively.
+
 2010—Subsec. (a)(1)(A). Pub. L. 111–203, § 734(b)(1)(A), which directed amendment of subpar. (A) by striking “or 7a”, could not be executed because of prior amendment by Pub. L. 111–203, § 722(a)(1). See below.
 
 Pub. L. 111–203, § 722(a)(1), inserted “the Wall Street Transparency and Accountability Act of 2010 (including an amendment made by that Act) and” after “otherwise provided in” and substituted “(C), (D), and (I)” for “(C) and (D)”, “(c) and (f)” for “(c) through (i) of this section”, “swaps or contracts of sale” for “contracts of sale”, and “pursuant to [section 7 of this title](./chapter-001-commodity-exchanges.md#section-7) or a swap execution facility pursuant to [section 7b–3 of this title](./chapter-001-commodity-exchanges.md#section-7b-3)” for “or derivatives transaction execution facility registered pursuant to section 7 or 7a of this title”.
@@ -4593,11 +4635,7 @@ Repeal effective on the later of 360 days after July 21, 2010, or, to the extent
 
     (iii) foreign ministries.
 
-(5) **Confidentiality and indemnification agreement** — Before the Commission may share information with any entity described in paragraph (4)—
-
-  (A) the Commission shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in [section 12 of this title](./chapter-001-commodity-exchanges.md#section-12) relating to the information on swap transactions that is provided; and
-
-  (B) each entity shall agree to indemnify the Commission for any expenses arising from litigation relating to the information provided under [section 12 of this title](./chapter-001-commodity-exchanges.md#section-12).
+(5) **Confidentiality agreement** — Before the Commission may share information with any entity described in paragraph (4), the Commission shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in [section 12 of this title](./chapter-001-commodity-exchanges.md#section-12) relating to the information on swap transactions that is provided.
 
 (6) **Public information** — Each derivatives clearing organization that clears swaps shall provide to the Commission (including any designee of the Commission) information under paragraph (2) in such form and at such frequency as is required by the Commission to comply with the public reporting requirements contained in [section 2(a)(13) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2/a/13&num=0&edition=prelim).
 
@@ -4610,6 +4648,12 @@ The Securities Exchange Act of 1934, referred to in subsecs. (a)(1)(A)(ii) and (
 A prior section 5b of act Sept. 21, 1922, was renumbered section 5e, and is classified to [section 7b of this title](./chapter-001-commodity-exchanges.md#section-7b).
 
 #### Amendments
+2015—Subsec. (k)(5). Pub. L. 114–94 amended par. (5) generally. Prior to amendment, text read as follows: “Before the Commission may share information with any entity described in paragraph (4)—
+
+“(A) the Commission shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in [section 12 of this title](./chapter-001-commodity-exchanges.md#section-12) relating to the information on swap transactions that is provided; and
+
+“(B) each entity shall agree to indemnify the Commission for any expenses arising from litigation relating to the information provided under [section 12 of this title](./chapter-001-commodity-exchanges.md#section-12).”
+
 2010—Subsec. (a). Pub. L. 111–203, § 725(a), added subsec. (a) and struck out former subsec. (a) which related to registration requirement of derivatives clearing organizations.
 
 Pub. L. 111–203, § 721(e)(6), substituted “section 1a” for “section 1a(9)” in introductory provisions.
@@ -4623,6 +4667,9 @@ Subsec. (f)(1). Pub. L. 111–203, § 725(h), inserted at end “In order to min
 Subsecs. (g) to (i). Pub. L. 111–203, § 725(b), added subsecs. (g) to (i).
 
 Subsec. (k). Pub. L. 111–203, § 725(e), added subsec. (k).
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–94, div. G, title LXXXVI, § 86001(d), Dec. 4, 2015, 129 Stat. 1798, provided that: “The amendments made by this section [amending this section, [section 24a of this title](./chapter-001-commodity-exchanges.md#section-24a), and [section 78m of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m&num=0&edition=prelim), Commerce and Trade] shall take effect as if enacted as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203).”
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under [section 1a of this title](./chapter-001-commodity-exchanges.md#section-1a).
@@ -7215,7 +7262,7 @@ Section effective Nov. 6, 1978, see section 402(d) of Pub. L. 95–598, set out 
 
 (6) maintain the privacy of any and all swap transaction information that the swap data repository receives from a swap dealer, counterparty, or any other registered entity; and
 
-(7) on a confidential basis pursuant to [section 12 of this title](./chapter-001-commodity-exchanges.md#section-12), upon request, and after notifying the Commission of the request, make available all data obtained by the swap data repository, including individual counterparty trade and position data, to—
+(7) on a confidential basis pursuant to [section 12 of this title](./chapter-001-commodity-exchanges.md#section-12), upon request, and after notifying the Commission of the request, make available swap data obtained by the swap data repository, including individual counterparty trade and position data, to—
 
   (A) each appropriate prudential regulator;
 
@@ -7229,17 +7276,15 @@ Section effective Nov. 6, 1978, see section 402(d) of Pub. L. 95–598, set out 
 
     (i) foreign financial supervisors (including foreign futures authorities);
 
-    (ii) foreign central banks; and
+    (ii) foreign central banks;
 
     (iii) foreign ministries; and
 
+    (iv) other foreign authorities; and
+
 (8) establish and maintain emergency procedures, backup facilities, and a plan for disaster recovery that allows for the timely recovery and resumption of operations and the fulfillment of the responsibilities and obligations of the organization.
 
-**(d) Confidentiality and indemnification agreement** Before the swap data repository may share information with any entity described in subsection (c)(7)—
-
-(1) the swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in [section 12 of this title](./chapter-001-commodity-exchanges.md#section-12) relating to the information on swap transactions that is provided; and
-
-(2) each entity shall agree to indemnify the swap data repository and the Commission for any expenses arising from litigation relating to the information provided under [section 12 of this title](./chapter-001-commodity-exchanges.md#section-12).
+**(d) Confidentiality agreement** Before the swap data repository may share information with any entity described in subsection (c)(7), the swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in [section 12 of this title](./chapter-001-commodity-exchanges.md#section-12) relating to the information on swap transactions that is provided.
 
 **(e) Designation of chief compliance officer**
 
@@ -7321,6 +7366,16 @@ Section effective Nov. 6, 1978, see section 402(d) of Pub. L. 95–598, set out 
 
 #### Prior Provisions
 A prior section 21 of act Sept. 21, 1922, ch. 369, as added by Pub. L. 96–276, § 7, June 17, 1980, 94 Stat. 542, related to silver markets activity and was set out as a note under [section 4a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section4a&num=0&edition=prelim) prior to repeal by Pub. L. 102–546, title IV, § 402(13), Oct. 28, 1992, 106 Stat. 3625.
+
+#### Amendments
+2015—Subsec. (c)(7). Pub. L. 114–94, § 86001(b)(1)(A), substituted “swap” for “all” in introductory provisions.
+
+Subsec. (c)(7)(E)(iv). Pub. L. 114–94, § 86001(b)(1)(B), added cl. (iv).
+
+Subsec. (d). Pub. L. 114–94, § 86001(b)(2), added subsec. (d) and struck out former subsec. (d) which related to confidentiality and indemnification agreement.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective as if enacted as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. 111–203, see section 86001(d) of Pub. L. 114–94, set out as a note under [section 7a–1 of this title](./chapter-001-commodity-exchanges.md#section-7a-1).
 
 #### Effective Date
 Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under [section 1a of this title](./chapter-001-commodity-exchanges.md#section-1a).

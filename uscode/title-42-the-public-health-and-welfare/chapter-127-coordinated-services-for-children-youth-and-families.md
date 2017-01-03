@@ -20,7 +20,7 @@ For purposes of this subchapter—
 ## § 12302. Authorization of appropriations
 **(a) Authorization** There are authorized to be appropriated such sums as may be necessary, for each of the fiscal years 1993 and 1994, to carry out this subchapter. Sums appropriated under this subsection shall remain available until the expiration of the 1-year period beginning on the date the Conference is adjourned. New spending authority or authority to enter into contracts as provided in this subchapter shall be effective only to the extent and in such amounts as are provided in advance in appropriations Acts.
 
-**(b) Return of unexpended funds** Any funds remaining upon the expiration of the 1-year period referred to in subsection (a) of this section shall be returned to the Treasury of the United States and credited as miscellaneous receipts.
+**(b) Return of unexpended funds** Any funds remaining upon the expiration of the 1-year period referred to in subsection (a) shall be returned to the Treasury of the United States and credited as miscellaneous receipts.
 
 
 <a id="section-12311"></a>
@@ -181,7 +181,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 (1) **Establishment**
 
-  (A) *In general* — The Administration on Children, Youth, and Families, as established under subsection (a) of this section, shall be headed by a Commissioner on Children, Youth, and Families.
+  (A) *In general* — The Administration on Children, Youth, and Families, as established under subsection (a), shall be headed by a Commissioner on Children, Youth, and Families.
 
   (B) *Omitted*
 
@@ -296,7 +296,7 @@ Section, Pub. L. 101–501, title IX, § 918, Nov. 3, 1990, 104 Stat. 1265; Pub.
 
 **(b) Utilization of services and facilities**
 
-(1) **In general** — Subject to agreements made between the Commissioner and the head of such agency or organization, in carrying out the duties referred to in subsection (a) of this section the Commissioner may utilize the services and facilities of any agency of the Federal Government and of any other public or nonprofit agency or organizations.11 So in original. Probably should be “organization.”
+(1) **In general** — Subject to agreements made between the Commissioner and the head of such agency or organization, in carrying out the duties referred to in subsection (a) the Commissioner may utilize the services and facilities of any agency of the Federal Government and of any other public or nonprofit agency or organizations.11 So in original. Probably should be “organization.”
 
 (2) **Payment** — The Commissioner may pay for such services and facilities, in advance or by way of reimbursement, as may be provided in such agreement.
 
@@ -410,7 +410,7 @@ The Commissioner shall make grants—
 ## § 12337. State plan
 **(a) Submission of plan** The chief executive officer of a State, in order to be eligible for grants from an allotment under section 12337, 12338, or 12339 11 See References in Text note below. of this title for any fiscal year, shall prepare and submit to the Commissioner a State plan for a 3-year period.
 
-**(b) Revisions of plan** Each chief executive officer of a State may make annual revisions of the State plan referred to in subsection (a) of this section.
+**(b) Revisions of plan** Each chief executive officer of a State may make annual revisions of the State plan referred to in subsection (a).
 
 **(c) Content of plan** The chief executive officer of a State shall include within the State plan of that State assurances as required under sections 22 So in original. Probably should be “section”. 12337, 12338, or 12339 1 of this title, and a description of the proposed multi-year plans of the State for program development and implementation.
 
@@ -483,7 +483,7 @@ In the case of each category, the State application and plan shall comply only w
 
     (iii) demonstrate an ability to develop systematic collaboration among service providers on behalf of children, youth and families, including joint planning, joint financing, joint service delivery, common intake and assessment, and other arrangements that promote more effective service systems for such individuals.
 
-**(b) Existing entity** The Commissioner may approve a State plan in which the chief executive officer of the State designates as the independent State body an existing State entity that is comprised of the parties described in subsection (a) of this section and that is authorized to conduct the same range of interagency planning and coordination activities.
+**(b) Existing entity** The Commissioner may approve a State plan in which the chief executive officer of the State designates as the independent State body an existing State entity that is comprised of the parties described in subsection (a) and that is authorized to conduct the same range of interagency planning and coordination activities.
 
 
 <a id="section-12339"></a>
@@ -564,7 +564,7 @@ In the case of each category, the State application and plan shall comply only w
 ## § 12340. Supportive services
 **(a) Authority** The Commissioner shall carry out a program for making grants to a State, that has designated an independent State body under [section 12336 of this title](./chapter-127-coordinated-services-for-children-youth-and-families.md#section-12336) and provided for coordinated services under [section 12337 of this title](./chapter-127-coordinated-services-for-children-youth-and-families.md#section-12337), for distribution by the chief executive officer under a State plan approved under [section 12337 of this title](./chapter-127-coordinated-services-for-children-youth-and-families.md#section-12337) to demonstrate successful program approaches to fill service gaps identified through State planning and advocacy efforts for any of the areas specified in paragraph (2).
 
-**(b) Eligible services** The services eligible to be provided under subsection (a) of this section are services—
+**(b) Eligible services** The services eligible to be provided under subsection (a) are services—
 
 (1) that are designed to facilitate the provision of comprehensive community based services that are efficient, coordinated, and readily available through such activities as case planning, case management, intake and assessment, and information and referral; and
 
@@ -636,7 +636,7 @@ the Commissioner shall make such allotment available for carrying out such purpo
 
 **(e) Limitation** A State shall not use in excess of 10 percent of a grant awarded under section 12338 or 12339 11 See References in Text note below. of this title for administrative activities at the State level.
 
-**(f) Grants for Indians** The Commissioner shall use 1 percent of the amount appropriated under this section for each fiscal year to make allotments to Indian tribes and tribal organizations (such terms having the same meaning given to such terms in section 450b(b) and (c) 1 of title 25) that submit to the Commissioner a plan that meets criteria consistent with the provisions of this part and that comply with other requirements established by the Commissioner.
+**(f) Grants for Indians** The Commissioner shall use 1 percent of the amount appropriated under this section for each fiscal year to make allotments to Indian tribes and tribal organizations (such terms having the same meaning given to such terms in section 5304(b) and (c) 1 of title 25) that submit to the Commissioner a plan that meets criteria consistent with the provisions of this part and that comply with other requirements established by the Commissioner.
 
 **(g) Limitation** Grants made under this subchapter may be used to pay not more than 80 percent of the cost of—
 
@@ -652,7 +652,7 @@ The remaining 20 percent of such cost shall be paid by the State with funds from
 #### References in Text
 [Section 12339 of this title](./chapter-127-coordinated-services-for-children-youth-and-families.md#section-12339), referred to in subsecs. (e) and (g)(3), was repealed by Pub. L. 103–252, title IV, § 401(b)(1), May 18, 1994, 108 Stat. 672.
 
-[Section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim), referred to in subsec. (f), has been amended, and subsecs. (b) and (c) of section 450b no longer define the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in that section.
+[Section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim), referred to in subsec. (f), has been amended, and subsecs. (b) and (c) of section 5304 no longer define the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in that section.
 
 #### Amendments
 1994—Subsec. (a)(1). Pub. L. 103–252, § 402(b)(1), amended par. (1) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out sections 12315, 12337, and 12338 of this title, $30,000,000 for fiscal year 1991 and such sums as may be necessary for fiscal years 1992, 1993, and 1994. Funds appropriated under this paragraph shall remain available for expenditure in the fiscal year succeeding the fiscal year for which such funds are appropriated.”
@@ -709,7 +709,7 @@ As used in this part, the term “family resource and support programs” means 
 ## § 12355. Establishment of National Center on Family Resource and Support Programs
 **(a) Establishment** The Commissioner shall establish, through grant or contract, a national center for the collection and provision of programmatic information and technical assistance that relates to all types of family resource and support programs, to be known as the “National Center on Family Resource and Support Programs”.
 
-**(b) Functions** The national center established under subsection (a) of this section shall serve as a national information and data clearinghouse, training, technical assistance, and material development source for family resource and support programs. Such center shall—
+**(b) Functions** The national center established under subsection (a) shall serve as a national information and data clearinghouse, training, technical assistance, and material development source for family resource and support programs. Such center shall—
 
 (1) develop and maintain a system for disseminating information on all types of family resource and support programs and on the state of family resource and support program development, including information concerning the most effective model programs;
 
@@ -826,7 +826,7 @@ Subsec. (b). Pub. L. 103–252, § 403(b)(2), substituted “$1,000,000 for fisc
 
 (2) furnish all reasonable assistance to State agencies administering programs related to children, youth and families, and to other appropriate organizations, to enable them to organize and conduct conferences in conjunction with the Conference;
 
-(3) prepare and make available for public comment a proposed agenda for the Conference which reflects, to the greatest extent possible, the major issues facing children, youth, and families consistent with subsection (a) of this section;
+(3) prepare and make available for public comment a proposed agenda for the Conference which reflects, to the greatest extent possible, the major issues facing children, youth, and families consistent with subsection (a);
 
 (4) prepare and make available background materials which the Secretary deems necessary for the use of delegates to the Conference; and
 
@@ -834,13 +834,13 @@ Subsec. (b). Pub. L. 103–252, § 403(b)(2), substituted “$1,000,000 for fisc
 
 **(b) Duties** The Secretary shall, in carrying out the Secretary’s responsibilities and functions under this section, ensure that—
 
-(1) the conferences under subsection (a)(2) of this section will be conducted so as to ensure broad participation of young individuals;
+(1) the conferences under subsection (a)(2) will be conducted so as to ensure broad participation of young individuals;
 
-(2) the proposed agenda for the Conference under subsection (a)(3) of this section is published in the Federal Register not less than 180 days before the beginning of the Conference and the proposed agenda is open for public comment for a period of not less than 60 days;
+(2) the proposed agenda for the Conference under subsection (a)(3) is published in the Federal Register not less than 180 days before the beginning of the Conference and the proposed agenda is open for public comment for a period of not less than 60 days;
 
 (3) the final agenda for the Conference, taking into consideration the comments received under paragraph (2), is published in the Federal Register and transmitted to the chief executive officers of the States not later than 30 days after the close of the public comment period provided for under paragraph (2);
 
-(4) the personnel engaged under subsection (a)(5) of this section shall be fairly balanced in terms of points of views represented and shall be appointed without regard to political affiliation or previous partisan activities;
+(4) the personnel engaged under subsection (a)(5) shall be fairly balanced in terms of points of views represented and shall be appointed without regard to political affiliation or previous partisan activities;
 
 (5) the recommendations of the Conference are not inappropriately influenced by any appointing authority or by any special interest, but will instead be the result of the independent judgment of the Conference; and
 

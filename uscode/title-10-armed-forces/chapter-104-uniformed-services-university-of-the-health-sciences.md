@@ -8,7 +8,13 @@ source: >-
 ---
 <a id="section-2112"></a>
 ## § 2112. Establishment
-**(a)** There is hereby authorized to be established within 25 miles of the District of Columbia a Uniformed Services University of the Health Sciences (hereinafter in this chapter referred to as the “University”), at a site or sites to be selected by the Secretary of Defense, with authority to grant appropriate advanced degrees. It shall be so organized as to graduate not less than 100 medical students annually.
+**(a)**
+
+(1) There is established a Uniformed Services University of the Health Sciences (in this chapter referred to as the “University”) with authority to grant appropriate certificates, certifications, undergraduate degrees, and advanced degrees.
+
+(2) The University shall be so organized as to graduate not fewer than 100 medical students annually.
+
+(3) The headquarters of the University shall be at a site or sites selected by the Secretary of Defense within 25 miles of the District of Columbia.
 
 **(b)** Except as provided in subsection (a), the numbers of persons to be graduated from the University shall be prescribed by the Secretary of Defense. In so prescribing the number of persons to be graduated from the University, the Secretary of Defense shall institute actions necessary to ensure the maximum number of first-year enrollments in the University consistent with the academic capacity of the University and the needs of the uniformed services for medical personnel.
 
@@ -17,6 +23,8 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is hereby authorized to be established within 25 miles of the District of Columbia a Uniformed Services University of the Health Sciences (hereinafter in this chapter referred to as the ‘University’), at a site or sites to be selected by the Secretary of Defense, with authority to grant appropriate advanced degrees. It shall be so organized as to graduate not less than 100 medical students annually.”
+
 2001—Subsec. (a). Pub. L. 107–107 struck out “, with the first class graduating not later than September 21, 1982” before period at end.
 
 1996—Subsec. (b). Pub. L. 104–106 struck out “, upon recommendation of the Board of Regents,” before “institute actions necessary”.
@@ -35,11 +43,11 @@ Pub. L. 92–426, § 1, Sept. 21, 1972, 86 Stat. 713, provided: “That this Act
 For transfer of authority of Board of Regents of Uniformed Services University of the Health Sciences to Secretary of Defense, see section 8091 of Pub. L. 101–511, set out as a note under [section 2113 of this title](./chapter-104-uniformed-services-university-of-the-health-sciences.md#section-2113).
 
 #### Continuation of Uniformed Services University of the Health Sciences
-Pub. L. 104–106, div. A, title X, § 1071, Feb. 10, 1996, 110 Stat. 445, as amended by Pub. L. 104–201, div. A, title IX, § 907(b)(2), Sept. 23, 1996, 110 Stat. 2620, provided that: “(a) Policy.—Congress reaffirms—“(1) the prohibition set forth in subsection (a) of section 922 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2829; [10 U.S.C. 2112](./chapter-104-uniformed-services-university-of-the-health-sciences.md#section-2112) note) regarding closure of the Uniformed Services University of the Health Sciences; and “(2) the expression of the sense of Congress set forth in subsection (b) of such section regarding the budgetary commitment to continuation of the University. “[(b) Repealed. Pub. L. 104–201, div. A, title IX, § 907(b)(2), Sept. 23, 1996, 110 Stat. 2620. See [section 2112a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2112a/b&num=0&edition=prelim).] “(c) Budgetary Commitment to Continuation.—It is the sense of Congress that the Secretary of Defense should budget for the operation of the Uniformed Services University of the Health Sciences during fiscal year 1997 at a level at least equal to the level of operations conducted at the University during fiscal year 1995.”
+Pub. L. 104–106, div. A, title X, § 1071, Feb. 10, 1996, 110 Stat. 445, as amended by Pub. L. 104–201, div. A, title IX, § 907(b)(2), Sept. 23, 1996, 110 Stat. 2620, provided that: “(a) Policy.—Congress reaffirms—“(1) the prohibition set forth in subsection (a) of section 922 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2829; [10 U.S.C. 2112](./chapter-104-uniformed-services-university-of-the-health-sciences.md#section-2112) note) regarding closure of the Uniformed Services University of the Health Sciences; and “(2) the expression of the sense of Congress set forth in subsection (b) of such section regarding the budgetary commitment to continuation of the University. “[(b) Repealed. Pub. L. 104–201, div. A, title IX, § 907(b)(2), Sept. 23, 1996, 110 Stat. 2620.] “(c) Budgetary Commitment to Continuation.—It is the sense of Congress that the Secretary of Defense should budget for the operation of the Uniformed Services University of the Health Sciences during fiscal year 1997 at a level at least equal to the level of operations conducted at the University during fiscal year 1995.”
 
 Pub. L. 103–337, div. A, title IX, § 922, Oct. 5, 1994, 108 Stat. 2829, as amended by Pub. L. 104–201, div. A, title IX, § 907(b)(1), Sept. 23, 1996, 110 Stat. 2620, provided that:
 
-[(a) Repealed. Pub. L. 104–201, div. A, title IX, § 907(b)(1), Sept. 23, 1996, 110 Stat. 2620. See [section 2112a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2112a/a&num=0&edition=prelim).]
+[(a) Repealed. Pub. L. 104–201, div. A, title IX, § 907(b)(1), Sept. 23, 1996, 110 Stat. 2620. See [section 2112a of this title](./chapter-104-uniformed-services-university-of-the-health-sciences.md#section-2112a).]
 
 “(b) Budgetary Commitment to Continuation.—It is the sense of Congress that the Secretary of Defense should budget for the ongoing operation of the Uniformed Services University of the Health Sciences as an institution of professional education that is vital to the education and training each year of significant numbers of personnel of the uniformed services for careers as uniformed services health care providers.
 
@@ -63,9 +71,8 @@ Pub. L. 98–94, title XII, § 1265, Sept. 24, 1983, 97 Stat. 704, provided that
 
 <a id="section-2112a"></a>
 ## § 2112a. Continued operation of University
-**(a) Closure Prohibited.—** The University may not be closed.
 
-**(b) Personnel Strength.—** During the five-year period beginning on October 1, 1996, the personnel staffing levels for the University may not be reduced below the personnel staffing levels for the University as of October 1, 1993.
+The University may not be closed.
 
 ### Statutory Notes
 
@@ -73,6 +80,9 @@ Pub. L. 98–94, title XII, § 1265, Sept. 24, 1983, 97 Stat. 704, provided that
 Provisions similar to those in subsec. (a) of this section were contained in Pub. L. 103–337, div. A, title IX, § 922(a), Oct. 5, 1994, 108 Stat. 2829, which was set out as a note under [section 2112 of this title](./chapter-104-uniformed-services-university-of-the-health-sciences.md#section-2112) prior to repeal by Pub. L. 104–201, § 907(b)(1).
 
 Provisions similar to those in subsec. (b) of this section were contained in Pub. L. 104–106, div. A, title X, § 1071(b), Feb. 10, 1996, 110 Stat. 445, which was set out as a note under [section 2112 of this title](./chapter-104-uniformed-services-university-of-the-health-sciences.md#section-2112) prior to repeal by Pub. L. 104–201, § 907(b)(2).
+
+#### Amendments
+2016—Pub. L. 114–328, § 724(c), struck out “(a) Closure Prohibited.—” before “The University” and struck out subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “During the five-year period beginning on October 1, 1996, the personnel staffing levels for the University may not be reduced below the personnel staffing levels for the University as of October 1, 1993.”
 
 
 <a id="section-2113"></a>
@@ -91,7 +101,7 @@ Provisions similar to those in subsec. (b) of this section were contained in Pub
 
 (4) The limitations in sections 5307 and 5373 of title 5 do not apply to the authority of the Secretary under paragraph (1) to prescribe salary schedules and other related benefits. In no event may the total amount of compensation paid to an employee under paragraph (1) in any year (including salary, allowances, differentials, bonuses, awards, and other similar cash payments) exceed the total amount of annual compensation (excluding expenses) specified in [section 102 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim).
 
-**(d)** The Secretary may negotiate agreements with agencies of the Federal Government to utilize on a reimbursable basis appropriate existing Federal medical resources located in or near the District of Columbia. Under such agreements the facilities concerned will retain their identities and basic missions. The Secretary may negotiate affiliation agreements with an accredited university or universities in or near the District of Columbia. Such agreements may include provisions for payments for educational services provided students participating in Department of Defense educational programs. The Secretary may enter into an agreement under which the University would become part of a national university of health sciences should such an institution be established in the vicinity of the District of Columbia.
+**(d)** The Secretary may negotiate agreements with agencies of the Federal Government to utilize on a reimbursable basis appropriate existing Federal medical resources. Under such agreements the facilities concerned will retain their identities and basic missions. The Secretary may negotiate affiliation agreements with an accredited university or universities. Such agreements may include provisions for payments for educational services provided students participating in Department of Defense educational programs.
 
 **(e)** The Secretary of Defense may establish the following educational programs at the University:
 
@@ -99,7 +109,7 @@ Provisions similar to those in subsec. (b) of this section were contained in Pub
 
 (2) A graduate school of nursing.
 
-(3) Other schools or programs that the Secretary determines necessary in order to operate the University in a cost-effective manner.
+(3) Other schools or programs, including certificate, certification, and undergraduate degree programs, that the Secretary determines necessary in order to operate the University in a cost-effective manner.
 
 **(f)** The Secretary shall also establish programs in continuing medical education for military members of the health professions to the end that high standards of health care may be maintained within the military medical services.
 
@@ -128,6 +138,10 @@ Provisions similar to those in subsec. (b) of this section were contained in Pub
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (d). Pub. L. 114–328, § 724(b)(1), struck out “located in or near the District of Columbia” after “Federal medical resources”, “in or near the District of Columbia” after “university or universities”, and “The Secretary may enter into an agreement under which the University would become part of a national university of health sciences should such an institution be established in the vicinity of the District of Columbia.” after “educational programs.”
+
+Subsec. (e)(3). Pub. L. 114–328, § 724(b)(2), inserted “, including certificate, certification, and undergraduate degree programs,” after “or programs”.
+
 2013—Subsec. (g)(1)(B). Pub. L. 113–66, § 711(1), inserted “, or any other nonprofit entity” after “Military Medicine” and “, or nonprofit entity,” after “such Foundation”.
 
 Subsec. (g)(1)(C). Pub. L. 113–66, § 711(2), inserted “, or any other nonprofit entity,” after “Military Medicine” and “, or nonprofit entity,” after “such foundation”.

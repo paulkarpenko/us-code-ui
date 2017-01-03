@@ -11,7 +11,7 @@ source: >-
 
 For the purpose of this subchapter—
 
-(1) “employee” means an individual in the competitive service who is not serving a probationary or trial period under an initial appointment or who has completed 1 year of current continuous employment in the same or similar positions under other than a temporary appointment limited to 1 year or less; and
+(1) “employee” means an individual in the competitive service who is not serving a probationary or trial period under an initial appointment or, except as provided in [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), who has completed 1 year of current continuous employment in the same or similar positions under other than a temporary appointment limited to 1 year or less; and
 
 (2) “suspension” means the placing of an employee, for disciplinary reasons, in a temporary status without duties and pay.
 
@@ -20,8 +20,11 @@ For the purpose of this subchapter—
 #### Prior Provisions
 A prior section 7501, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 527, related to removal or suspension without pay of an individual in the competitive service and procedures applicable to such removal or suspension, prior to repeal by Pub. L. 95–454, § 204(a).
 
+#### Amendments
+2015—Par. (1). Pub. L. 114–92 substituted “or, except as provided in [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), who” for “or who”.
+
 #### Effective Date
-Subchapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 #### Short Title of 1990 Amendment
 Pub. L. 101–376, § 1, Aug. 17, 1990, 104 Stat. 461, provided that: “This Act [amending sections 4303, 7511, and 7701 of this title and enacting provisions set out as notes under [section 4303 of this title](./chapter-043-performance-appraisal.md#section-4303)] may be cited as the ‘Civil Service Due Process Amendments’.”
@@ -40,6 +43,9 @@ This subchapter applies to a suspension for 14 days or less, but does not apply 
 #### Effective Date of 1989 Amendment
 Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 101–12, set out as a note under [section 1201 of this title](./chapter-012-merit-systems-protection-board-office-of-special-counsel-and-employee-right-of-action.md#section-1201).
 
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
 
 <a id="section-7503"></a>
 ## § 7503. Cause and procedure
@@ -57,11 +63,21 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 **(c)** Copies of the notice of proposed action, the answer of the employee if written, a summary thereof if made orally, the notice of decision and reasons therefor, and any order effecting 11 So in original. Probably should be “affecting”. the suspension, together with any supporting material, shall be maintained by the agency and shall be furnished to the Merit Systems Protection Board upon its request and to the employee affected upon the employee’s request.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
 
 <a id="section-7504"></a>
 ## § 7504. Regulations
 
 The Office of Personnel Management may prescribe regulations to carry out the purpose of this subchapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 
 <a id="section-7511"></a>
@@ -74,7 +90,7 @@ The Office of Personnel Management may prescribe regulations to carry out the pu
 
     (i) who is not serving a probationary or trial period under an initial appointment; or
 
-    (ii) who has completed 1 year of current continuous service under other than a temporary appointment limited to 1 year or less;
+    (ii) except as provided in [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), who has completed 1 year of current continuous service under other than a temporary appointment limited to 1 year or less;
 
   (B) a preference eligible in the excepted service who has completed 1 year of current continuous service in the same or similar positions—
 
@@ -112,7 +128,7 @@ The Office of Personnel Management may prescribe regulations to carry out the pu
 
 (4) who is receiving an annuity from the Civil Service Retirement and Disability Fund, or the Foreign Service Retirement and Disability Fund, based on the service of such employee;
 
-(5) who is described in section 8337(h)(1), relating to technicians in the National Guard;
+(5) Repealed. Pub. L. 114–328, div. A, title V, § 512(c), Dec. 23, 2016, 130 Stat. 2112.]
 
 (6) who is a member of the Foreign Service, as described in section 103 of the Foreign Service Act of 1980;
 
@@ -135,6 +151,10 @@ Section 103 of the Foreign Service Act of 1980, referred to in subsec. (b)(6), i
 A prior section 7511, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528; Pub. L. 94–183, § 2(30), Dec. 31, 1975, 89 Stat. 1058, defined “preference eligible employee” and “adverse action” for purposes of this subchapter, prior to repeal by Pub. L. 95–454, § 204(a).
 
 #### Amendments
+2016—Subsec. (b)(5). Pub. L. 114–328 struck out par. (5) which read as follows: “who is described in section 8337(h)(1), relating to technicians in the National Guard;”.
+
+2015—Subsec. (a)(1)(A)(ii). Pub. L. 114–92 inserted “except as provided in [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim),” before “who”.
+
 2006—Subsec. (a)(1)(B)(ii). Pub. L. 109–435, § 604(b), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 Subsec. (b)(8). Pub. L. 109–435, § 604(f), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
@@ -189,7 +209,7 @@ Pub. L. 102–378, § 6(b), Oct. 2, 1992, 106 Stat. 1359, provided that: “(1) 
 Amendment by Pub. L. 101–376 applicable with respect to any personnel action taking effect on or after Aug. 17, 1990, see section 2(c) of Pub. L. 101–376, set out as a note under [section 4303 of this title](./chapter-043-performance-appraisal.md#section-4303).
 
 #### Effective Date
-Subchapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 
 <a id="section-7512"></a>
@@ -214,9 +234,11 @@ but does not apply to—
 
 (C) the reduction in grade of a supervisor or manager who has not completed the probationary period under [section 3321(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3321/a/2&num=0&edition=prelim) if such reduction is to the grade held immediately before becoming such a supervisor or manager,
 
-(D) a reduction in grade or removal under [section 4303 of this title](./chapter-043-performance-appraisal.md#section-4303), or
+(D) a reduction in grade or removal under [section 4303 of this title](./chapter-043-performance-appraisal.md#section-4303),
 
-(E) an action initiated under section 1215 or 7521 of this title.
+(E) an action initiated under section 1215 or 7521 of this title, or
+
+(F) a suitability action taken by the Office under regulations prescribed by the Office, subject to the rules prescribed by the President under this title for the administration of the competitive service.
 
 ### Statutory Notes
 
@@ -224,10 +246,15 @@ but does not apply to—
 A prior section 7512, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528, related to adverse action against a preference eligible employee and procedures applicable to such adverse action, prior to repeal by Pub. L. 95–454, § 204(a).
 
 #### Amendments
+2015—Par. (F). Pub. L. 114–92 added par. (F).
+
 1989—Par. (E). Pub. L. 101–12 substituted “1215” for “1206”.
 
 #### Effective Date of 1989 Amendment
 Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 101–12, set out as a note under [section 1201 of this title](./chapter-012-merit-systems-protection-board-office-of-special-counsel-and-employee-right-of-action.md#section-1201).
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 
 <a id="section-7513"></a>
@@ -250,11 +277,21 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 **(e)** Copies of the notice of proposed action, the answer of the employee when written, a summary thereof when made orally, the notice of decision and reasons therefor, and any order effecting an action covered by this subchapter, together with any supporting material, shall be maintained by the agency and shall be furnished to the Board upon its request and to the employee affected upon the employee’s request.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
 
 <a id="section-7514"></a>
 ## § 7514. Regulations
 
 The Office of Personnel Management may prescribe regulations to carry out the purpose of this subchapter, except as it concerns any matter with respect to which the Merit Systems Protection Board may prescribe regulations.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 
 <a id="section-7521"></a>
@@ -424,7 +461,7 @@ For the purpose of this subchapter—
 
 (1) “employee” means a career appointee in the Senior Executive Service who—
 
-  (A) has completed the probationary period prescribed under [section 3393(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3393/d&num=0&edition=prelim); or
+  (A) has completed the probationary period prescribed under [section 3393(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3393/d&num=0&edition=prelim) or [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim); or
 
   (B) was covered by the provisions of subchapter II of this chapter immediately before appointment to the Senior Executive Service; and
 
@@ -432,8 +469,11 @@ For the purpose of this subchapter—
 
 ### Statutory Notes
 
+#### Amendments
+2015—Par. (1)(A). Pub. L. 114–92 inserted “or [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim)” after “this title”.
+
 #### Effective Date
-Subchapter effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as a note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as a note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
 
 
 <a id="section-7542"></a>
@@ -453,6 +493,9 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 effective June 1, 1981, with certain exceptions and conditions, see section 1704(e) of Pub. L. 97–35, set out as an Effective Date note under [section 3595 of this title](./chapter-035-retention-preference-voluntary-separation-incentive-payments-restoration-and-reemployment.md#section-3595).
+
+#### Effective Date
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as a note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
 
 
 <a id="section-7543"></a>
@@ -487,3 +530,6 @@ Amendment by Pub. L. 98–615 effective Nov. 8, 1984, see section 307 of Pub. L.
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 effective June 1, 1981, with certain exceptions and conditions, see section 1704(e) of Pub. L. 97–35, set out as an Effective Date note under [section 3595 of this title](./chapter-035-retention-preference-voluntary-separation-incentive-payments-restoration-and-reemployment.md#section-3595).
+
+#### Effective Date
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as a note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).

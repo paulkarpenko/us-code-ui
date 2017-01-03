@@ -97,7 +97,7 @@ Pub. L. 90–448, title XIV, § 1401, Aug. 1, 1968, 82 Stat. 590, provided that:
 
 **(b) Sale or lease of lots subject to other statutory registration and disclosure requirements** Unless the method of disposition is adopted for the purpose of evasion of this chapter, the provisions requiring registration and disclosure (as specified in [section 1703(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1703/a/1&num=0&edition=prelim) and sections 1704 through 1707 of this title) shall not apply to—
 
-(1) the sale or lease of lots in a subdivision containing fewer than one hundred lots which are not exempt under subsection (a) of this section;
+(1) the sale or lease of lots in a subdivision containing fewer than one hundred lots which are not exempt under subsection (a);
 
 (2) the sale or lease of lots in a subdivision if, within the twelve-month period commencing on the date of the first sale or lease of a lot in such subdivision after the effective date of this subsection, or on such other date within that twelve-month period as the Director may prescribe, not more than twelve lots are sold or leased, and the sale or lease of the first twelve lots in such subdivision in any subsequent twelve-month period, if not more than twelve lots have been sold or leased in any preceding twelve-month period after the effective date of this subsection;
 
@@ -149,7 +149,7 @@ Pub. L. 90–448, title XIV, § 1401, Aug. 1, 1968, 82 Stat. 590, provided that:
 
     (ii) receipt of such statement has been acknowledged in writing by the purchaser or lessee.
 
-  (C) For the purpose of this paragraph, a sales operation is “intrastate in nature” if the developer is subject to the laws of the State in which the land is located, and each lot in the subdivision, other than those which are exempt under subsection (a), (b)(6), or (b)(8) of this section, is sold or leased to residents of the State in which the land is located;
+  (C) For the purpose of this paragraph, a sales operation is “intrastate in nature” if the developer is subject to the laws of the State in which the land is located, and each lot in the subdivision, other than those which are exempt under subsection (a), (b)(6), or (b)(8), is sold or leased to residents of the State in which the land is located;
 
 (8) the sale or lease of a lot in a subdivision containing fewer than three hundred lots if—
 
@@ -214,6 +214,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–153 effective on effective date of regulations implementing such amendment, but in no case later than six months following Dec. 21, 1979, except that subsec. (b)(7) shall be effective on Dec. 21, 1979, see section 410 of Pub. L. 96–153, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
 
+#### Effective Date
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
+
 
 <a id="section-1703"></a>
 ## § 1703. Requirements respecting sale or lease of lots
@@ -252,7 +255,7 @@ Amendment by Pub. L. 96–153 effective on effective date of regulations impleme
 (3) that, if the purchaser or lessee loses rights and interest in the lot as a result of a default or breach of the contract or agreement which occurs after the purchaser or lessee has paid 15 per centum of the purchase price of the lot, excluding any interest owed under the contract or agreement, the seller or lessor (or successor thereof) shall refund to such purchaser or lessee any amount which remains after subtracting (A) 15 per centum of the purchase price of the lot, excluding any interest owed under the contract or agreement, or the amount of damages incurred by the seller or lessor (or successor thereof) as a result of such breach, whichever is greater, from (B) the amount paid by the purchaser or lessee with respect to the purchase price of the lot, excluding any interest paid under the contract or agreement,
 may be revoked at the option of the purchaser or lessee for two years from the date of the signing of such contract or agreement. This subsection shall not apply to the sale of a lot for which, within one hundred and eighty days after the signing of the sales contract, the purchaser receives a warranty deed (or, where such deed is not commonly used in the jurisdiction where the lot is located, a deed or grant that warrants at least that the grantor has not conveyed the lot to another person and that the lot is free from encumbrances made by the grantor or any other person claiming by, through, or under him or her).
 
-**(e) Repayment of purchaser or lessee upon revocation of all money paid under contract or agreement to seller or lessor** If a contract or agreement is revoked pursuant to subsection (b), (c), or (d) of this section, if the purchaser or lessee tenders to the seller or lessor (or successor thereof) an instrument conveying his or her rights and interests in the lot, and if the rights and interests and the lot are in a condition which is substantially similar to the condition in which they were conveyed or purported to be conveyed to the purchaser or lessee, such purchaser or lessee shall be entitled to all money paid by him or her under such contract or agreement.
+**(e) Repayment of purchaser or lessee upon revocation of all money paid under contract or agreement to seller or lessor** If a contract or agreement is revoked pursuant to subsection (b), (c), or (d), if the purchaser or lessee tenders to the seller or lessor (or successor thereof) an instrument conveying his or her rights and interests in the lot, and if the rights and interests and the lot are in a condition which is substantially similar to the condition in which they were conveyed or purported to be conveyed to the purchaser or lessee, such purchaser or lessee shall be entitled to all money paid by him or her under such contract or agreement.
 
 ### Statutory Notes
 
@@ -271,6 +274,9 @@ Amendment by Pub. L. 96–153 effective on effective date of regulations impleme
 #### Effective Date of 1974 Amendment
 Pub. L. 93–383, title VIII, § 812(c)(2), Aug. 22, 1974, 88 Stat. 737, provided that: “The amendments made by paragraph (1) [amending this section] shall be effective sixty days after the date of the enactment of this Act [Aug. 22, 1974].”
 
+#### Effective Date
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
+
 
 <a id="section-1704"></a>
 ## § 1704. Registration of subdivisions
@@ -278,7 +284,7 @@ Pub. L. 93–383, title VIII, § 812(c)(2), Aug. 22, 1974, 88 Stat. 737, provide
 
 **(b) Payment of fees; use by Director** At the time of filing a statement of record, or any amendment thereto, the developer shall pay to the Director a fee, not in excess of $1,000, in accordance with a schedule to be fixed by the regulations of the Director, which fees may be used by the Director to cover all or part of the cost of rendering services under this chapter, and such expenses as are paid from such fees shall be considered nonadministrative.
 
-**(c) Filing deemed to have taken place upon receipt of statement of record accompanied by fee** The filing with the Director of a statement of record, or of an amendment thereto, shall be deemed to have taken place upon the receipt thereof, accompanied by payment of the fee required by subsection (b) of this section.
+**(c) Filing deemed to have taken place upon receipt of statement of record accompanied by fee** The filing with the Director of a statement of record, or of an amendment thereto, shall be deemed to have taken place upon the receipt thereof, accompanied by payment of the fee required by subsection (b).
 
 **(d) Availability of information to public** The information contained in or filed with any statement of record shall be made available to the public under such regulations as the Director may prescribe and copies thereof shall be furnished to every applicant at such reasonable charge as the Director may prescribe.
 
@@ -289,6 +295,9 @@ Pub. L. 93–383, title VIII, § 812(c)(2), Aug. 22, 1974, 88 Stat. 737, provide
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
+
+#### Effective Date
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
 
 
 <a id="section-1705"></a>
@@ -332,6 +341,9 @@ The statement of record shall contain the information and be accompanied by the 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
 
+#### Effective Date
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
+
 
 <a id="section-1706"></a>
 ## § 1706. Effective date of statements of record and amendments thereto
@@ -343,7 +355,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **(d) Suspension of statement of record containing untrue statement or omission to state material fact; notice and hearing; termination of order of suspension** If it appears to the Director at any time that a statement of record, which is in effect, includes any untrue statement of a material fact or omits to state any material fact required to be stated therein or necessary to make the statements therein not misleading, the Director may, after notice, and after opportunity for hearing (at a time fixed by the Director) within fifteen days after such notice, issue an order suspending the statement of record. When such statement has been amended in accordance with such order, the Director shall so declare and thereupon the order shall cease to be effective.
 
-**(e) Examination to determine issuance of order; access to records; order suspending statement of record upon failure to cooperate** The Director is hereby empowered to make an examination in any case to determine whether an order should issue under subsection (d) of this section. In making such examination, the Director or anyone designated by him shall have access to and may demand the production of any books and papers of, and may administer oaths and affirmations to and examine, the developer, any agents or any other person, in respect of any matter relevant to the examination. If the developer or any agents shall fail to cooperate, or shall obstruct or refuse to permit the making of an examination, such conduct shall be proper ground for the issuance of an order suspending the statement of record.
+**(e) Examination to determine issuance of order; access to records; order suspending statement of record upon failure to cooperate** The Director is hereby empowered to make an examination in any case to determine whether an order should issue under subsection (d). In making such examination, the Director or anyone designated by him shall have access to and may demand the production of any books and papers of, and may administer oaths and affirmations to and examine, the developer, any agents or any other person, in respect of any matter relevant to the examination. If the developer or any agents shall fail to cooperate, or shall obstruct or refuse to permit the making of an examination, such conduct shall be proper ground for the issuance of an order suspending the statement of record.
 
 **(f) Service of notices** Any notice required under this section shall be sent to or served on the developer or his authorized agent.
 
@@ -354,6 +366,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
+
+#### Effective Date
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
 
 
 <a id="section-1707"></a>
@@ -369,6 +384,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
+
+#### Effective Date
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
 
 
 <a id="section-1708"></a>
@@ -389,11 +407,11 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 (3) Any State requesting certification must agree to accept a property report covering land located in another certified State but offered for sale or lease in the State requesting certification if the property report has been approved by the other certified State. Such property report shall be the only property report required by the State with respect to the sale or lease of such land.
 
-**(b) Filing of State disclosure materials and related documentation for purposes of Federal statement of record and property report requirements; acceptance by Director** After the Director has certified a State under subsection (a) of this section, the Director shall accept for filing under sections 1704 through 1707 of this title (and declare effective as the Federal statement of record and property report which shall be used in all States in which the lots are offered for sale or lease) disclosure materials found acceptable, and any related documentation required, by State authorities in connection with the sale or lease of lots located within the State. The Director may accept for such filing, and declare effective as the Federal statement of record and property report, such materials and documentation found acceptable by the State in connection with the sale or lease of lots located outside that State. Nothing in this subsection shall preclude the Director from exercising the authority conferred by subsections (d) and (e) of [section 1706 of this title](./chapter-042-interstate-land-sales.md#section-1706).
+**(b) Filing of State disclosure materials and related documentation for purposes of Federal statement of record and property report requirements; acceptance by Director** After the Director has certified a State under subsection (a), the Director shall accept for filing under sections 1704 through 1707 of this title (and declare effective as the Federal statement of record and property report which shall be used in all States in which the lots are offered for sale or lease) disclosure materials found acceptable, and any related documentation required, by State authorities in connection with the sale or lease of lots located within the State. The Director may accept for such filing, and declare effective as the Federal statement of record and property report, such materials and documentation found acceptable by the State in connection with the sale or lease of lots located outside that State. Nothing in this subsection shall preclude the Director from exercising the authority conferred by subsections (d) and (e) of [section 1706 of this title](./chapter-042-interstate-land-sales.md#section-1706).
 
-**(c) Notice to State upon failure to meet requirements and remedial action necessary for certification** If a State fails to meet the standards for certification pursuant to subsection (a) of this section, the Director shall notify the State in writing of the changes in State law, regulation, or administration that are needed in order to obtain certification.
+**(c) Notice to State upon failure to meet requirements and remedial action necessary for certification** If a State fails to meet the standards for certification pursuant to subsection (a), the Director shall notify the State in writing of the changes in State law, regulation, or administration that are needed in order to obtain certification.
 
-**(d) Periodic review of certified States’ laws, regulations, and administration; withdrawal of certification** The Director shall periodically review the laws and regulations, and the administration thereof, of States certified under subsection (a) of this section, and may withdraw such certification upon a determination that such laws, regulations, and the administration thereof, taken as a whole, no longer meet the requirements of subsection (a) of this section.
+**(d) Periodic review of certified States’ laws, regulations, and administration; withdrawal of certification** The Director shall periodically review the laws and regulations, and the administration thereof, of States certified under subsection (a), and may withdraw such certification upon a determination that such laws, regulations, and the administration thereof, taken as a whole, no longer meet the requirements of subsection (a).
 
 **(e) State and local governmental authorities affected; cooperation with State authorities** Nothing in this chapter may be construed to prevent or limit the authority of any State or local government to enact and enforce with regard to the sale of land any law, ordinance, or code not in conflict with this chapter. In administering this chapter, the Director shall cooperate with State authorities charged with the responsibility of regulating the sale or lease of lots which are subject to this chapter.
 
@@ -414,6 +432,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–153 effective on effective date of regulations implementing such amendment, but in no case later than six months following Dec. 21, 1979, see section 410 of Pub. L. 96–153, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
 
+#### Effective Date
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
+
 
 <a id="section-1709"></a>
 ## § 1709. Civil liabilities
@@ -421,7 +442,7 @@ Amendment by Pub. L. 96–153 effective on effective date of regulations impleme
 
 **(b) Enforcement of rights by purchaser or lessee** A purchaser or lessee may bring an action at law or in equity against the seller or lessor (or successor thereof) to enforce any right under subsection (b), (c), (d), or (e) of [section 1703 of this title](./chapter-042-interstate-land-sales.md#section-1703).
 
-**(c) Amounts recoverable** The amount recoverable in a suit authorized by this section may include, in addition to matters specified in subsections (a) and (b) of this section, interest, court costs, and reasonable amounts for attorneys’ fees, independent appraisers’ fees, and travel to and from the lot.
+**(c) Amounts recoverable** The amount recoverable in a suit authorized by this section may include, in addition to matters specified in subsections (a) and (b), interest, court costs, and reasonable amounts for attorneys’ fees, independent appraisers’ fees, and travel to and from the lot.
 
 **(d) Contributions** Every person who becomes liable to make any payment under this section may recover contribution as in cases of contract from any person who, if sued separately, would have been liable to make the same payment.
 
@@ -441,12 +462,15 @@ Subsec. (e). Pub. L. 96–153 struck out subsec. (e) which set forth limitation 
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–153 effective on effective date of regulations implementing such amendment, but in no case later than six months following Dec. 21, 1979, see section 410 of Pub. L. 96–153, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
 
+#### Effective Date
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
+
 
 <a id="section-1710"></a>
 ## § 1710. Court review of orders
 **(a) Petition; jurisdiction; findings of Director; additional evidence; finality** Any person, aggrieved by an order or determination of the Director issued after a hearing, may obtain a review of such order or determination in the court of appeals of the United States, within any circuit wherein such person resides or has his principal place of business, or in the United States Court of Appeals for the District of Columbia, by filing in such court, within sixty days after the entry of such order or determination, a written petition praying that the order or determination of the Director be modified or be set aside in whole or in part. A copy of such petition shall be forthwith transmitted by the clerk of the court to the Director, and thereupon the Director shall file in the court the record upon which the order or determination complained of was entered, as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim). No objection to an order or determination of the Director shall be considered by the court unless such objection shall have been urged before the Director. The finding of the Director as to the facts, if supported by substantial evidence, shall be conclusive. If either party shall apply to the court for leave to adduce additional evidence, and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for failure to adduce such evidence in the hearing before the Director, the court may order such additional evidence to be taken before the Director and to be adduced upon a hearing in such manner and upon such terms and conditions as to the court may seem proper. The Director may modify his findings as to the facts by reason of the additional evidence so taken, and shall file such modified or new findings, which, if supported by substantial evidence, shall be conclusive, and his recommendation, if any, for the modification or setting aside of the original order. Upon the filing of such petition, the jurisdiction of the court shall be exclusive and its judgment and decree, affirming, modifying, or setting aside, in whole or in part, any order of the Director, shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in [section 1254 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1254&num=0&edition=prelim).
 
-**(b) Stay of order** The commencement of proceedings under subsection (a) of this section shall not, unless specifically ordered by the court, operate as a stay of the Secretary’s 11 So in original. Probably should be “Director’s”. order.
+**(b) Stay of order** The commencement of proceedings under subsection (a) shall not, unless specifically ordered by the court, operate as a stay of the Secretary’s 11 So in original. Probably should be “Director’s”. order.
 
 ### Statutory Notes
 
@@ -455,6 +479,9 @@ Amendment by Pub. L. 96–153 effective on effective date of regulations impleme
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
+
+#### Effective Date
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
 
 
 <a id="section-1711"></a>
@@ -475,6 +502,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–153 effective on effective date of regulations implementing such amendment, but in no case later than six months following Dec. 21, 1979, see section 410 of Pub. L. 96–153, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
 
+#### Effective Date
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
+
 
 <a id="section-1712"></a>
 ## § 1712. Contrary stipulations void
@@ -489,11 +519,19 @@ Any condition, stipulation, or provision binding any person acquiring any lot in
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
 
+#### Effective Date
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
+
 
 <a id="section-1713"></a>
 ## § 1713. Additional remedies
 
 The rights and remedies provided by this chapter shall be in addition to any and all other rights and remedies that may exist at law or in equity.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
 
 
 <a id="section-1714"></a>
@@ -518,6 +556,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 1970 Amendment
 For effective date of amendment by Pub. L. 91–452, and for amendment not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under [section 6001 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section6001&num=0&edition=prelim), Crimes and Criminal Procedure.
+
+#### Effective Date
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
 
 
 <a id="section-1715"></a>
@@ -556,6 +597,9 @@ Amendment by Pub. L. 96–153 effective on effective date of regulations impleme
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as a note under [section 5361 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5361&num=0&edition=prelim), Government Organization and Employees.
 
+#### Effective Date
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
+
 
 <a id="section-1716"></a>
 ## § 1716. Unlawful representations
@@ -569,6 +613,9 @@ The fact that a statement of record with respect to a subdivision has been filed
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
+
+#### Effective Date
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
 
 
 <a id="section-1717"></a>
@@ -584,6 +631,9 @@ Any person who willfully violates any of the provisions of this chapter, or the 
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–153 effective on effective date of regulations implementing such amendment, but in no case later than six months following Dec. 21, 1979, see section 410 of Pub. L. 96–153, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
 
+#### Effective Date
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
+
 
 <a id="section-1717a"></a>
 ## § 1717a. Civil money penalties
@@ -595,7 +645,7 @@ Amendment by Pub. L. 96–153 effective on effective date of regulations impleme
 
 **(b) Agency procedures**
 
-(1) **Establishment** — The Director shall establish standards and procedures governing the imposition of civil money penalties under subsection (a) of this section. The standards and procedures—
+(1) **Establishment** — The Director shall establish standards and procedures governing the imposition of civil money penalties under subsection (a). The standards and procedures—
 
   (A) shall provide for the imposition of a penalty only after a person has been given an opportunity for a hearing on the record; and
 
@@ -603,17 +653,17 @@ Amendment by Pub. L. 96–153 effective on effective date of regulations impleme
 
 (2) **Final orders** — If no hearing is requested within 15 days of receipt of the notice of opportunity for hearing, the imposition of the penalty shall constitute a final and unappealable determination. If the Director reviews the determination or order, the Director may affirm, modify, or reverse that determination or order. If the Director does not review the determination or order within 90 days of the issuance of the determination or order, the determination or order shall be final.
 
-(3) **Factors in determining amount of penalty** — In determining the amount of a penalty under subsection (a) of this section, consideration shall be given to such factors as the gravity of the offense, any history of prior offenses (including offenses occurring before December 15, 1989), ability to pay the penalty, injury to the public, benefits received, deterrence of future violations, and such other factors as the Director may determine in regulations to be appropriate.
+(3) **Factors in determining amount of penalty** — In determining the amount of a penalty under subsection (a), consideration shall be given to such factors as the gravity of the offense, any history of prior offenses (including offenses occurring before December 15, 1989), ability to pay the penalty, injury to the public, benefits received, deterrence of future violations, and such other factors as the Director may determine in regulations to be appropriate.
 
-(4) **Reviewability of imposition of penalty** — The Secretary’s 11 So in original. Probably should be “Director’s”. determination or order imposing a penalty under subsection (a) of this section shall not be subject to review, except as provided in subsection (c) of this section.
+(4) **Reviewability of imposition of penalty** — The Secretary’s 11 So in original. Probably should be “Director’s”. determination or order imposing a penalty under subsection (a) shall not be subject to review, except as provided in subsection (c).
 
 **(c) Judicial review of agency determination**
 
-(1) **In general** — After exhausting all administrative remedies established by the Director under subsection (b)(1) of this section, a person aggrieved by a final order of the Director assessing a penalty under this section may seek judicial review pursuant to [section 1710 of this title](./chapter-042-interstate-land-sales.md#section-1710).
+(1) **In general** — After exhausting all administrative remedies established by the Director under subsection (b)(1), a person aggrieved by a final order of the Director assessing a penalty under this section may seek judicial review pursuant to [section 1710 of this title](./chapter-042-interstate-land-sales.md#section-1710).
 
 (2) **Order to pay penalty** — Notwithstanding any other provision of law, in any such review, the court shall have the power to order payment of the penalty imposed by the Director.
 
-**(d) Action to collect penalty** If any person fails to comply with the determination or order of the Director imposing a civil money penalty under subsection (a) of this section, after the determination or order is no longer subject to review as provided by subsections (b) and (c) of this section, the Director may request the Attorney General of the United States to bring an action in any appropriate United States district court to obtain a monetary judgment against the person and such other relief as may be available. The monetary judgment may, in the discretion of the court, include any attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary’s 1 determination or order imposing the penalty shall not be subject to review.
+**(d) Action to collect penalty** If any person fails to comply with the determination or order of the Director imposing a civil money penalty under subsection (a), after the determination or order is no longer subject to review as provided by subsections (b) and (c), the Director may request the Attorney General of the United States to bring an action in any appropriate United States district court to obtain a monetary judgment against the person and such other relief as may be available. The monetary judgment may, in the discretion of the court, include any attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary’s 1 determination or order imposing the penalty shall not be subject to review.
 
 **(e) Settlement by Director** The Director may compromise, modify, or remit any civil money penalty which may be, or has been, imposed under this section.
 
@@ -648,6 +698,9 @@ The Director shall have authority from time to time to make, issue, amend, and r
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
 
+#### Effective Date
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
+
 
 <a id="section-1719"></a>
 ## § 1719. Jurisdiction of offenses and suits
@@ -664,6 +717,9 @@ The district courts of the United States, the United States courts of any territ
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
 
+#### Effective Date
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).
+
 
 <a id="section-1719a"></a>
 ## § 1719a. Repealed. Pub. L. 104–66, title I, § 1071(c), Dec. 21, 1995, 109 Stat. 720
@@ -677,3 +733,8 @@ Section, Pub. L. 90–448, title XIV, § 1421, as added Pub. L. 96–153, title 
 ## § 1720. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out this chapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under [section 1701 of this title](./chapter-042-interstate-land-sales.md#section-1701).

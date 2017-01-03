@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-28101"></a>
 ## § 28101. Rail police officers
-**(a) In General.—** Under regulations prescribed by the Secretary of Transportation, a rail police officer who is employed by a rail carrier and certified or commissioned as a police officer under the laws of a State may enforce the laws of any jurisdiction in which the rail carrier owns property, to the extent of the authority of a police officer certified or commissioned under the laws of that jurisdiction, to protect—
+**(a) In General.—** Under regulations prescribed by the Secretary of Transportation, a rail police officer who is directly employed by or contracted by a rail carrier and certified or commissioned as a police officer under the laws of a State may enforce the laws of any jurisdiction in which the rail carrier owns property, to the extent of the authority of a police officer certified or commissioned under the laws of that jurisdiction, to protect—
 
 (1) employees, passengers, or patrons of the rail carrier;
 
@@ -18,7 +18,19 @@ source: >-
 
 (4) personnel, equipment, and material moving by rail that are vital to the national defense.
 
-**(b) Assignment.—** A railroad police officer employed by a railroad carrier and certified or commissioned as a police officer under the laws of a State may be temporarily assigned to assist a second railroad carrier in carrying out law enforcement duties upon the request of the second railroad carrier, at which time the police officer shall be considered to be an employee of the second railroad carrier and shall have authority to enforce the laws of any jurisdiction in which the second railroad carrier owns property to the same extent as provided in subsection (a).
+**(b) Assignment.—** A railroad police officer directly employed by or contracted by a railroad carrier and certified or commissioned as a police officer under the laws of a State may be temporarily assigned to assist a second railroad carrier in carrying out law enforcement duties upon the request of the second railroad carrier, at which time the police officer shall be considered to be an employee or agent, as applicable, of the second railroad carrier and shall have authority to enforce the laws of any jurisdiction in which the second railroad carrier owns property to the same extent as provided in subsection (a).
+
+**(c) Transfers.—**
+
+(1) **In general.—** — If a railroad police officer directly employed by or contracted by a rail carrier and certified or commissioned as a police officer under the laws of a State transfers primary employment or residence from the certifying or commissioning State to another State or jurisdiction, the railroad police officer, not later than 1 year after the date of transfer, shall apply to be certified or commissioned as a police office 11 So in original. Probably should be “officer”. under the laws of the State of new primary employment or residence.
+
+(2) **Interim period.—** — During the period beginning on the date of transfer and ending 1 year after the date of transfer, a railroad police officer directly employed by or contracted by a rail carrier and certified or commissioned as a police officer under the laws of a State may enforce the laws of the new jurisdiction in which the railroad police officer resides, to the same extent as provided in subsection (a).
+
+**(d) Training.—**
+
+(1) **In general.—** — A State may recognize as meeting that State’s basic police officer certification or commissioning requirements for qualification as a rail police officer under this section any individual who successfully completes a program at a State-recognized police training academy in another State or at a Federal law enforcement training center and who is certified or commissioned as a police officer by that other State.
+
+(2) **Rule of construction.—** — Nothing in this subsection shall be construed as superseding or affecting any State training requirements related to criminal law, criminal procedure, motor vehicle code, any other State law, or State-mandated comparative or annual in-service training academy or Federal law enforcement training center.
 
 ### Statutory Notes
 
@@ -30,9 +42,21 @@ source: >-
 The words “to the extent of the authority of a police officer certified or commissioned under the laws of that jurisdiction” are placed before clause (1) rather than at the end of clause (4), as in the source provision, to reflect the probable intent of Congress.
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–94, § 11412(a)(1), substituted “directly employed by or contracted by” for “employed by” in introductory provisions.
+
+Subsec. (b). Pub. L. 114–94, § 11412(a)(1), (2), substituted “directly employed by or contracted by” for “employed by” and inserted “or agent, as applicable,” after “an employee”.
+
+Subsecs. (c), (d). Pub. L. 114–94, § 11412(a)(3), added subsecs. (c) and (d).
+
 2007—Pub. L. 110–53 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 1994—Pub. L. 103–440 renumbered [section 26101 of this title](./chapter-261-high-speed-rail-assistance.md#section-26101) as this section.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+#### Regulations
+Pub. L. 114–94, div. A, title XI, § 11412(b), Dec. 4, 2015, 129 Stat. 1688, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 4, 2015], the Secretary [of Transportation] shall revise the regulations in part 207 of title 49, Code of Federal Regulations (relating to railroad police officers), to permit a railroad to designate an individual, who is commissioned in the individual’s State of legal residence or State of primary employment and directly employed by or contracted by a railroad to enforce State laws for the protection of railroad property, personnel, passengers, and cargo, to serve in the States in which the railroad owns property.”
 
 
 <a id="section-28102"></a>
@@ -90,3 +114,6 @@ In subsection (c), the words “an indemnification contract” are substituted f
 
 #### References in Text
 The Federal Employers’ Liability Act, referred to in subsec. (d), is act Apr. 22, 1908, ch. 149, 35 Stat. 65, as amended, which is classified generally to chapter 2 (§ 51 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under [section 51 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section51&num=0&edition=prelim) and Tables.
+
+#### Adjustment Based on Consumer Price Index
+Pub. L. 114–94, div. A, title XI, § 11415(b), Dec. 4, 2015, 129 Stat. 1689, provided that: “The liability cap under [section 28103(a)(2) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section28103/a/2&num=0&edition=prelim), United States Code, shall be adjusted on the date of enactment of this Act [Dec. 4, 2015] to reflect the change in the Consumer Price Index-All Urban Consumers between such date and December 2, 1997, and the Secretary [of Transportation] shall provide appropriate public notice of such adjustment. The adjustment of the liability cap shall be effective 30 days after such notice. Every fifth year after the date of enactment of this Act, the Secretary shall adjust such liability cap to reflect the change in the Consumer Price Index-All Urban Consumers since the last adjustment. The Secretary shall provide appropriate public notice of each such adjustment, and the adjustment shall become effective 30 days after such notice.”

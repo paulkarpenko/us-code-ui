@@ -55,7 +55,7 @@ In this chapter:
 
   (A) *Eligible entity* — The term “eligible entity” means an entity—
 
-    (i) that is an eligible entity described in paragraph (1) of this section (as in effect on the day before October 27, 1998) as of the day before October 27, 1998, or is designated by the process described in [section 9909 of this title](./chapter-106-community-services-block-grant-program.md#section-9909) (including an organization serving migrant or seasonal farmworkers that is so described or designated); and
+    (i) that is an eligible entity described in paragraph (1) (as in effect on the day before October 27, 1998) as of the day before October 27, 1998, or is designated by the process described in [section 9909 of this title](./chapter-106-community-services-block-grant-program.md#section-9909) (including an organization serving migrant or seasonal farmworkers that is so described or designated); and
 
     (ii) that has a tripartite board or other mechanism described in subsection (a) or (b), as appropriate, of [section 9910 of this title](./chapter-106-community-services-block-grant-program.md#section-9910).
 
@@ -79,7 +79,7 @@ A prior section 9902, Pub. L. 97–35, title VI, § 673, Aug. 13, 1981, 95 Stat.
 ## § 9903. Authorization of appropriations
 **(a) In general** There are authorized to be appropriated such sums as may be necessary for each of fiscal years 1999 through 2003 to carry out the provisions of this chapter (other than sections 9922 and 9923 of this title).
 
-**(b) Reservations** Of the amounts appropriated under subsection (a) of this section for each fiscal year, the Secretary shall reserve—
+**(b) Reservations** Of the amounts appropriated under subsection (a) for each fiscal year, the Secretary shall reserve—
 
 (1) ½ of 1 percent for carrying out [section 9905 of this title](./chapter-106-community-services-block-grant-program.md#section-9905) (relating to payments for territories);
 
@@ -112,7 +112,7 @@ A prior section 9904, Pub. L. 97–35, title VI, § 675, Aug. 13, 1981, 95 Stat.
 ## § 9905. Distribution to territories
 **(a) Apportionment** The Secretary shall apportion the amount reserved under [section 9903(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9903/b/1&num=0&edition=prelim) for each fiscal year on the basis of need among Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
-**(b) Application** Each jurisdiction to which subsection (a) of this section applies may receive a grant under this section for the amount apportioned under subsection (a) of this section on submitting to the Secretary, and obtaining approval of, an application, containing provisions that describe the programs for which assistance is sought under this section, that is prepared in accordance with, and contains the information described in, [section 9908 of this title](./chapter-106-community-services-block-grant-program.md#section-9908).
+**(b) Application** Each jurisdiction to which subsection (a) applies may receive a grant under this section for the amount apportioned under subsection (a) on submitting to the Secretary, and obtaining approval of, an application, containing provisions that describe the programs for which assistance is sought under this section, that is prepared in accordance with, and contains the information described in, [section 9908 of this title](./chapter-106-community-services-block-grant-program.md#section-9908).
 
 ### Statutory Notes
 
@@ -130,17 +130,17 @@ Section 9905a, Pub. L. 97–35, title VI, § 676A, as added Pub. L. 98–558, ti
 
 (1) that no State shall receive less than ¼ of 1 percent of the amount appropriated under [section 9903(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9903/a&num=0&edition=prelim) for such fiscal year; and
 
-(2) as provided in subsection (b) of this section.
+(2) as provided in subsection (b).
 
 **(b) Allotments in years with greater available funds**
 
 (1) **Minimum allotments** — Subject to paragraphs (2) and (3), if the amount appropriated under [section 9903(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9903/a&num=0&edition=prelim) for a fiscal year that remains after the Secretary makes the reservations required in [section 9903(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9903/b&num=0&edition=prelim) exceeds $345,000,000, the Secretary shall allot to each State not less than ½ of 1 percent of the amount appropriated under [section 9903(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9903/a&num=0&edition=prelim) for such fiscal year.
 
-(2) **Maintenance of fiscal year 1990 levels** — Paragraph (1) shall not apply with respect to a fiscal year if the amount allotted under subsection (a) of this section to any State for that year is less than the amount allotted under [section 9903(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9903/a/1&num=0&edition=prelim) (as in effect on September 30, 1989) to such State for fiscal year 1990.
+(2) **Maintenance of fiscal year 1990 levels** — Paragraph (1) shall not apply with respect to a fiscal year if the amount allotted under subsection (a) to any State for that year is less than the amount allotted under [section 9903(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9903/a/1&num=0&edition=prelim) (as in effect on September 30, 1989) to such State for fiscal year 1990.
 
-(3) **Maximum allotments** — The amount allotted under paragraph (1) to a State for a fiscal year shall be reduced, if necessary, so that the aggregate amount allotted to such State under such paragraph and subsection (a) of this section does not exceed 140 percent of the aggregate amount allotted to such State under the corresponding provisions of this chapter for the preceding fiscal year.
+(3) **Maximum allotments** — The amount allotted under paragraph (1) to a State for a fiscal year shall be reduced, if necessary, so that the aggregate amount allotted to such State under such paragraph and subsection (a) does not exceed 140 percent of the aggregate amount allotted to such State under the corresponding provisions of this chapter for the preceding fiscal year.
 
-**(c) Payments** The Secretary shall make grants to eligible States for the allotments described in subsections (a) and (b) of this section. The Secretary shall make payments for the grants in accordance with [section 6503(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6503/a&num=0&edition=prelim).
+**(c) Payments** The Secretary shall make grants to eligible States for the allotments described in subsections (a) and (b). The Secretary shall make payments for the grants in accordance with [section 6503(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6503/a&num=0&edition=prelim).
 
 **(d) Definition** In this section, the term “State” does not include Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
@@ -169,7 +169,7 @@ A prior section 9906, Pub. L. 97–35, title VI, § 677, Aug. 13, 1981, 95 Stat.
 
 **(b) Statewide activities**
 
-(1) **Use of remainder** — If a State uses less than 100 percent of the grant or allotment received under section 9905 or 9906 of this title to make grants under subsection (a) of this section, the State shall use the remainder of the grant or allotment under section 9905 or 9906 of this title (subject to paragraph (2)) for activities that may include—
+(1) **Use of remainder** — If a State uses less than 100 percent of the grant or allotment received under section 9905 or 9906 of this title to make grants under subsection (a), the State shall use the remainder of the grant or allotment under section 9905 or 9906 of this title (subject to paragraph (2)) for activities that may include—
 
   (A) providing training and technical assistance to those entities in need of such training and assistance;
 
@@ -183,15 +183,15 @@ A prior section 9906, Pub. L. 97–35, title VI, § 677, Aug. 13, 1981, 95 Stat.
 
   (F) supporting innovative programs and activities conducted by community action agencies or other neighborhood-based organizations to eliminate poverty, promote self-sufficiency, and promote community revitalization;
 
-  (G) supporting State charity tax credits as described in subsection (c) of this section; and
+  (G) supporting State charity tax credits as described in subsection (c); and
 
   (H) supporting other activities, consistent with the purposes of this chapter.
 
-(2) **Administrative cap** — No State may spend more than the greater of $55,000, or 5 percent, of the grant received under [section 9905 of this title](./chapter-106-community-services-block-grant-program.md#section-9905) or State allotment received under [section 9906 of this title](./chapter-106-community-services-block-grant-program.md#section-9906) for administrative expenses, including monitoring activities. Funds to be spent for such expenses shall be taken from the portion of the grant under [section 9905 of this title](./chapter-106-community-services-block-grant-program.md#section-9905) or State allotment that remains after the State makes grants to eligible entities under subsection (a) of this section. The cost of activities conducted under paragraph (1)(A) shall not be considered to be administrative expenses. The startup cost and cost of administrative activities conducted under subsection (c) of this section shall be considered to be administrative expenses.
+(2) **Administrative cap** — No State may spend more than the greater of $55,000, or 5 percent, of the grant received under [section 9905 of this title](./chapter-106-community-services-block-grant-program.md#section-9905) or State allotment received under [section 9906 of this title](./chapter-106-community-services-block-grant-program.md#section-9906) for administrative expenses, including monitoring activities. Funds to be spent for such expenses shall be taken from the portion of the grant under [section 9905 of this title](./chapter-106-community-services-block-grant-program.md#section-9905) or State allotment that remains after the State makes grants to eligible entities under subsection (a). The cost of activities conducted under paragraph (1)(A) shall not be considered to be administrative expenses. The startup cost and cost of administrative activities conducted under subsection (c) shall be considered to be administrative expenses.
 
 **(c) Charity tax credit**
 
-(1) **In general** — Subject to paragraph (2), if there is in effect under State law a charity tax credit, the State may use for any purpose the amount of the allotment that is available for expenditure under subsection (b) of this section.
+(1) **In general** — Subject to paragraph (2), if there is in effect under State law a charity tax credit, the State may use for any purpose the amount of the allotment that is available for expenditure under subsection (b).
 
 (2) **Limit** — The aggregate amount a State may use under paragraph (1) during a fiscal year shall not exceed 100 percent of the revenue loss of the State during the fiscal year that is attributable to the charity tax credit, as determined by the Secretary of the Treasury without regard to any such revenue loss occurring before January 1, 1999.
 
@@ -273,7 +273,7 @@ A prior section 9906, Pub. L. 97–35, title VI, § 677, Aug. 13, 1981, 95 Stat.
         (bb) no generally available exemptions or deductions to individuals;
     the requirement of paragraph (2) shall be treated as met if the amount of the credit described in paragraph (2) is limited to a uniform percentage (but not greater than 25 percent) of State personal income tax liability (determined without regard to credits).
 
-(4) **Limitation on use of funds for startup and administrative activities** — Except to the extent provided in subsection (b)(2) of this section, no part of the aggregate amount a State uses under paragraph (1) may be used to pay for the cost of the startup and administrative activities conducted under this subsection.
+(4) **Limitation on use of funds for startup and administrative activities** — Except to the extent provided in subsection (b)(2), no part of the aggregate amount a State uses under paragraph (1) may be used to pay for the cost of the startup and administrative activities conducted under this subsection.
 
 (5) **Prohibition on use of funds for legal services or tuition assistance** — No part of the aggregate amount a State uses under paragraph (1) may be used to provide legal services or to provide tuition assistance related to compulsory education requirements (not including tuition assistance for tutoring, camps, skills development, or other supplemental services or training).
 
@@ -289,13 +289,13 @@ A prior section 9907, Pub. L. 97–35, title VI, § 678, Aug. 13, 1981, 95 Stat.
 ## § 9908. Application and plan
 **(a) Designation of lead agency**
 
-(1) **Designation** — The chief executive officer of a State desiring to receive a grant or allotment under section 9905 or 9906 of this title shall designate, in an application submitted to the Secretary under subsection (b) of this section, an appropriate State agency that complies with the requirements of paragraph (2) to act as a lead agency for purposes of carrying out State activities under this chapter.
+(1) **Designation** — The chief executive officer of a State desiring to receive a grant or allotment under section 9905 or 9906 of this title shall designate, in an application submitted to the Secretary under subsection (b), an appropriate State agency that complies with the requirements of paragraph (2) to act as a lead agency for purposes of carrying out State activities under this chapter.
 
 (2) **Duties** — The lead agency shall—
 
-  (A) develop the State plan to be submitted to the Secretary under subsection (b) of this section;
+  (A) develop the State plan to be submitted to the Secretary under subsection (b);
 
-  (B) in conjunction with the development of the State plan as required under subsection (b) of this section, hold at least one hearing in the State with sufficient time and statewide distribution of notice of such hearing, to provide to the public an opportunity to comment on the proposed use and distribution of funds to be provided through the grant or allotment under section 9905 or 9906 of this title for the period covered by the State plan; and
+  (B) in conjunction with the development of the State plan as required under subsection (b), hold at least one hearing in the State with sufficient time and statewide distribution of notice of such hearing, to provide to the public an opportunity to comment on the proposed use and distribution of funds to be provided through the grant or allotment under section 9905 or 9906 of this title for the period covered by the State plan; and
 
   (C) conduct reviews of eligible entities under [section 9914 of this title](./chapter-106-community-services-block-grant-program.md#section-9914).
 
@@ -365,7 +365,7 @@ A prior section 9907, Pub. L. 97–35, title VI, § 678, Aug. 13, 1981, 95 Stat.
 
 (13) information describing how the State will carry out the assurances described in this subsection.
 
-**(c) Funding termination or reductions** For purposes of making a determination in accordance with subsection (b)(8) of this section with respect to—
+**(c) Funding termination or reductions** For purposes of making a determination in accordance with subsection (b)(8) with respect to—
 
 (1) a funding reduction, the term “cause” includes—
 
@@ -389,7 +389,7 @@ A prior section 9907, Pub. L. 97–35, title VI, § 678, Aug. 13, 1981, 95 Stat.
 
 (2) **Public inspection** — Each plan or revised plan prepared under this section shall be made available for public inspection within the State in such a manner as will facilitate review of, and comment on, the plan.
 
-**(f) Transition** For fiscal year 2000, to be eligible to receive a grant or allotment under section 9905 or 9906 of this title, a State shall prepare and submit to the Secretary an application and State plan in accordance with the provisions of this chapter (as in effect on the day before October 27, 1998), rather than the provisions of subsections (a) through (c) of this section relating to applications and plans.
+**(f) Transition** For fiscal year 2000, to be eligible to receive a grant or allotment under section 9905 or 9906 of this title, a State shall prepare and submit to the Secretary an application and State plan in accordance with the provisions of this chapter (as in effect on the day before October 27, 1998), rather than the provisions of subsections (a) through (c) relating to applications and plans.
 
 ### Statutory Notes
 
@@ -428,9 +428,9 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
   (B) in the category described in [section 9910(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9910/a/2/B&num=0&edition=prelim), by members that reside in the neighborhood to be served.
 
-**(b) Special consideration** In designating an eligible entity under subsection (a) of this section, the chief executive officer shall grant the designation to an organization of demonstrated effectiveness in meeting the goals and purposes of this chapter and may give priority, in granting the designation, to eligible entities that are providing related services in the unserved area, consistent with the needs identified by a community-needs assessment.
+**(b) Special consideration** In designating an eligible entity under subsection (a), the chief executive officer shall grant the designation to an organization of demonstrated effectiveness in meeting the goals and purposes of this chapter and may give priority, in granting the designation, to eligible entities that are providing related services in the unserved area, consistent with the needs identified by a community-needs assessment.
 
-**(c) No qualified organization in or near area** If no private, nonprofit organization is identified or determined to be qualified under subsection (a) of this section to serve the unserved area as an eligible entity the chief executive officer may designate an appropriate political subdivision of the State to serve as an eligible entity for the area. In order to serve as the eligible entity for that area, the political subdivision shall have a board or other mechanism as required in [section 9910(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9910/b&num=0&edition=prelim).
+**(c) No qualified organization in or near area** If no private, nonprofit organization is identified or determined to be qualified under subsection (a) to serve the unserved area as an eligible entity the chief executive officer may designate an appropriate political subdivision of the State to serve as an eligible entity for the area. In order to serve as the eligible entity for that area, the political subdivision shall have a board or other mechanism as required in [section 9910(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9910/b&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -493,11 +493,11 @@ A prior section 9910d, Pub. L. 100–485, title V, § 505, Oct. 13, 1988, 102 St
 (1) receives a request from the governing body of an Indian tribe or tribal organization within the State that assistance under this chapter be made directly to such tribe or organization; and
 
 (2) determines that the members of such tribe or tribal organization would be better served by means of grants made directly to provide benefits under this chapter,
-the Secretary shall reserve from amounts that would otherwise be allotted to such State under [section 9906 of this title](./chapter-106-community-services-block-grant-program.md#section-9906) for the fiscal year the amount determined under subsection (b) of this section.
+the Secretary shall reserve from amounts that would otherwise be allotted to such State under [section 9906 of this title](./chapter-106-community-services-block-grant-program.md#section-9906) for the fiscal year the amount determined under subsection (b).
 
-**(b) Determination of reserved amount** The Secretary shall reserve for the purpose of subsection (a) of this section from amounts that would otherwise be allotted to such State, not less than 100 percent of an amount that bears the same ratio to the State allotment for the fiscal year involved as the population of all eligible Indians for whom a determination has been made under subsection (a) of this section bears to the population of all individuals eligible for assistance through a community services block grant made under this chapter in such State.
+**(b) Determination of reserved amount** The Secretary shall reserve for the purpose of subsection (a) from amounts that would otherwise be allotted to such State, not less than 100 percent of an amount that bears the same ratio to the State allotment for the fiscal year involved as the population of all eligible Indians for whom a determination has been made under subsection (a) bears to the population of all individuals eligible for assistance through a community services block grant made under this chapter in such State.
 
-**(c) Awards** The sums reserved by the Secretary on the basis of a determination made under subsection (a) of this section shall be made available by grant to the Indian tribe or tribal organization serving the individuals for whom such a determination has been made.
+**(c) Awards** The sums reserved by the Secretary on the basis of a determination made under subsection (a) shall be made available by grant to the Indian tribe or tribal organization serving the individuals for whom such a determination has been made.
 
 **(d) Plan** In order for an Indian tribe or tribal organization to be eligible for a grant award for a fiscal year under this section, the tribe or organization shall submit to the Secretary a plan for such fiscal year that meets such criteria as the Secretary may prescribe by regulation.
 
@@ -539,7 +539,7 @@ A prior section 678 of Pub. L. 97–35 was classified to [section 9907 of this t
 
   (A) for training, technical assistance, planning, evaluation, and performance measurement, to assist States in carrying out corrective action activities and monitoring (to correct programmatic deficiencies of eligible entities), and for reporting and data collection activities, related to programs carried out under this chapter; and
 
-  (B) to distribute amounts in accordance with subsection (c) of this section.
+  (B) to distribute amounts in accordance with subsection (c).
 
 (2) **Grants, contracts, and cooperative agreements** — The activities described in paragraph (1)(A) may be carried out by the Secretary through grants, contracts, or cooperative agreements with appropriate entities.
 
@@ -602,7 +602,7 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 **(b) Review** A determination to terminate the designation or reduce the funding of an eligible entity is reviewable by the Secretary. The Secretary shall, upon request, review such a determination. The review shall be completed not later than 90 days after the Secretary receives from the State all necessary documentation relating to the determination to terminate the designation or reduce the funding. If the review is not completed within 90 days, the determination of the State shall become final at the end of the 90th day.
 
-**(c) Direct assistance** Whenever a State violates the assurances contained in [section 9908(b)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9908/b/8&num=0&edition=prelim) and terminates or reduces the funding of an eligible entity prior to the completion of the State hearing described in that section and the Secretary’s review as required in subsection (b) of this section, the Secretary is authorized to provide financial assistance under this chapter to the eligible entity affected until the violation is corrected. In such a case, the grant or allotment for the State under section 9905 or 9906 of this title for the earliest appropriate fiscal year shall be reduced by an amount equal to the funds provided under this subsection to such eligible entity.
+**(c) Direct assistance** Whenever a State violates the assurances contained in [section 9908(b)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9908/b/8&num=0&edition=prelim) and terminates or reduces the funding of an eligible entity prior to the completion of the State hearing described in that section and the Secretary’s review as required in subsection (b), the Secretary is authorized to provide financial assistance under this chapter to the eligible entity affected until the violation is corrected. In such a case, the grant or allotment for the State under section 9905 or 9906 of this title for the earliest appropriate fiscal year shall be reduced by an amount equal to the funds provided under this subsection to such eligible entity.
 
 
 <a id="section-9916"></a>
@@ -621,7 +621,7 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 (2) **Audits**
 
-  (A) *In general* — Subject to subparagraph (B), each audit required by subsection (a)(1)(C) of this section shall be conducted by an entity independent of any agency administering activities or services carried out under this chapter and shall be conducted in accordance with generally accepted accounting principles.
+  (A) *In general* — Subject to subparagraph (B), each audit required by subsection (a)(1)(C) shall be conducted by an entity independent of any agency administering activities or services carried out under this chapter and shall be conducted in accordance with generally accepted accounting principles.
 
   (B) *Single audit requirements* — Audits shall be conducted under this paragraph in the manner and to the extent provided in chapter 75 of title 31 (commonly known as the “Single Audit Act Amendments of 1996”).
 
@@ -644,7 +644,7 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 (1) **Performance measurement**
 
-  (A) *In general* — By October 1, 2001, each State that receives funds under this chapter shall participate, and shall ensure that all eligible entities in the State participate, in a performance measurement system, which may be a performance measurement system for which the Secretary facilitated development pursuant to subsection (b) of this section, or an alternative system that the Secretary is satisfied meets the requirements of subsection (b) of this section.
+  (A) *In general* — By October 1, 2001, each State that receives funds under this chapter shall participate, and shall ensure that all eligible entities in the State participate, in a performance measurement system, which may be a performance measurement system for which the Secretary facilitated development pursuant to subsection (b), or an alternative system that the Secretary is satisfied meets the requirements of subsection (b).
 
   (B) *Local agencies* — The State may elect to have local agencies that are subcontractors of the eligible entities under this chapter participate in the performance measurement system. If the State makes that election, references in this section to eligible entities shall be considered to include the local agencies.
 
@@ -664,7 +664,7 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
   (D) a comparison of the planned uses of funds for each State and the actual uses of the funds;
 
-  (E) a summary of each State’s performance results, and the results for the eligible entities, as collected and submitted by the States in accordance with subsection (a)(2) of this section; and
+  (E) a summary of each State’s performance results, and the results for the eligible entities, as collected and submitted by the States in accordance with subsection (a)(2); and
 
   (F) any additional information that the Secretary considers to be appropriate to carry out this chapter, if the Secretary informs the States of the need for such additional information and allows a reasonable period of time for the States to collect and provide the information.
 
@@ -747,26 +747,26 @@ The Civil Rights Act of 1964, referred to in subsec. (c)(2)(B), is Pub. L. 88–
 
 **(b) Religious character and independence**
 
-(1) **In general** — A religious organization that provides assistance under a program described in subsection (a) of this section shall retain its religious character and control over the definition, development, practice, and expression of its religious beliefs.
+(1) **In general** — A religious organization that provides assistance under a program described in subsection (a) shall retain its religious character and control over the definition, development, practice, and expression of its religious beliefs.
 
 (2) **Additional safeguards** — Neither the Federal Government nor a State or local government shall require a religious organization—
 
   (A) to alter its form of internal governance, except (for purposes of administration of the community services block grant program) as provided in [section 9910 of this title](./chapter-106-community-services-block-grant-program.md#section-9910); or
 
   (B) to remove religious art, icons, scripture, or other symbols;
-  in order to be eligible to provide assistance under a program described in subsection (a) of this section.
+  in order to be eligible to provide assistance under a program described in subsection (a).
 
-(3) **Employment practices** — A religious organization’s exemption provided under [section 2000e–1 of this title](./chapter-021-civil-rights.md#section-2000e-1) regarding employment practices shall not be affected by its participation in, or receipt of funds from, programs described in subsection (a) of this section.
+(3) **Employment practices** — A religious organization’s exemption provided under [section 2000e–1 of this title](./chapter-021-civil-rights.md#section-2000e-1) regarding employment practices shall not be affected by its participation in, or receipt of funds from, programs described in subsection (a).
 
-**(c) Limitations on use of funds for certain purposes** No funds provided directly to a religious organization to provide assistance under any program described in subsection (a) of this section shall be expended for sectarian worship, instruction, or proselytization.
+**(c) Limitations on use of funds for certain purposes** No funds provided directly to a religious organization to provide assistance under any program described in subsection (a) shall be expended for sectarian worship, instruction, or proselytization.
 
 **(d) Fiscal accountability**
 
-(1) **In general** — Except as provided in paragraph (2), any religious organization providing assistance under any program described in subsection (a) of this section shall be subject to the same regulations as other nongovernmental organizations to account in accord with generally accepted accounting principles for the use of such funds provided under such program.
+(1) **In general** — Except as provided in paragraph (2), any religious organization providing assistance under any program described in subsection (a) shall be subject to the same regulations as other nongovernmental organizations to account in accord with generally accepted accounting principles for the use of such funds provided under such program.
 
 (2) **Limited audit** — Such organization shall segregate government funds provided under such program into a separate account. Only the government funds shall be subject to audit by the government.
 
-**(e) Treatment of eligible entities and other intermediate organizations** If an eligible entity or other organization (referred to in this subsection as an “intermediate organization”), acting under a contract, or grant or other agreement, with the Federal Government or a State or local government, is given the authority under the contract or agreement to select nongovernmental organizations to provide assistance under the programs described in subsection (a) of this section, the intermediate organization shall have the same duties under this section as the government.
+**(e) Treatment of eligible entities and other intermediate organizations** If an eligible entity or other organization (referred to in this subsection as an “intermediate organization”), acting under a contract, or grant or other agreement, with the Federal Government or a State or local government, is given the authority under the contract or agreement to select nongovernmental organizations to provide assistance under the programs described in subsection (a), the intermediate organization shall have the same duties under this section as the government.
 
 ### Statutory Notes
 
@@ -802,7 +802,7 @@ A prior section 679 of Pub. L. 97–35 was classified to [section 9908 of this t
 
 **(b) Evaluation** The Secretary shall require all activities receiving assistance under this section to be evaluated for their effectiveness. Funding for such evaluations shall be provided as a stated percentage of the assistance or through a separate grant awarded by the Secretary specifically for the purpose of evaluation of a particular activity or group of activities.
 
-**(c) Annual report** The Secretary shall compile an annual report containing a summary of the evaluations required in subsection (b) of this section and a listing of all activities assisted under this section. The Secretary shall annually submit the report to the Chairperson of the Committee on Education and the Workforce of the House of Representatives and the Chairperson of the Committee on Labor and Human Resources of the Senate.
+**(c) Annual report** The Secretary shall compile an annual report containing a summary of the evaluations required in subsection (b) and a listing of all activities assisted under this section. The Secretary shall annually submit the report to the Chairperson of the Committee on Education and the Workforce of the House of Representatives and the Chairperson of the Committee on Labor and Human Resources of the Senate.
 
 ### Statutory Notes
 
@@ -813,9 +813,11 @@ A prior section 680 of Pub. L. 97–35 was classified to [section 9909 of this t
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Procedures To Permit Grant Funds or Intangible Property Acquired by Grant Funds To Become Sole Property of Grantees
-Pub. L. 113–235, div. G, title II, Dec. 16, 2014, 128 Stat. 2481, provided in part: “That the Secretary [of Health and Human Services] shall establish procedures regarding the disposition of intangible assets and program income that permit such assets acquired with, and program income derived from, grant funds authorized under section 680 of the CSBG Act [Community Services Block Grant Act, [42 U.S.C. 9921](./chapter-106-community-services-block-grant-program.md#section-9921)] to become the sole property of such grantees after a period of not more than 12 years after the end of the grant period for any activity consistent with section 680(a)(2)(A) of the CSBG Act [[42 U.S.C. 9921(a)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9921/a/2/A&num=0&edition=prelim)]: Provided further, That intangible assets in the form of loans, equity investments and other debt instruments, and program income may be used by grantees for any eligible purpose consistent with section 680(a)(2)(A) of the CSBG Act: Provided further, That these procedures shall apply to such grant funds made available after November 29, 1999”.
+Pub. L. 114–113, div. H, title II, Dec. 18, 2015, 129 Stat. 2614, provided in part: “That the Secretary [of Health and Human Services] shall establish procedures regarding the disposition of intangible assets and program income that permit such assets acquired with, and program income derived from, grant funds authorized under section 680 of the CSBG Act [Community Services Block Grant Act, [42 U.S.C. 9921](./chapter-106-community-services-block-grant-program.md#section-9921)] to become the sole property of such grantees after a period of not more than 12 years after the end of the grant period for any activity consistent with section 680(a)(2)(A) of the CSBG Act [[42 U.S.C. 9921(a)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9921/a/2/A&num=0&edition=prelim)]: Provided further, That intangible assets in the form of loans, equity investments and other debt instruments, and program income may be used by grantees for any eligible purpose consistent with section 680(a)(2)(A) of the CSBG Act: Provided further, That these procedures shall apply to such grant funds made available after November 29, 1999”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. G, title II, Dec. 16, 2014, 128 Stat. 2481.
 
 Pub. L. 113–76, div. H, title II, Jan. 17, 2014, 128 Stat. 378.
 
@@ -854,7 +856,7 @@ Pub. L. 106–113, div. B, § 1000(a)(4) [title II], Nov. 29, 1999, 113 Stat. 15
 
 **(b) Allotments and distribution of funds**
 
-(1) **Not to exceed $6,000,000 in appropriations** — Of the amount appropriated for a fiscal year to carry out this section (but not to exceed $6,000,000), the Secretary shall distribute funds for grants under subsection (a) of this section as follows:
+(1) **Not to exceed $6,000,000 in appropriations** — Of the amount appropriated for a fiscal year to carry out this section (but not to exceed $6,000,000), the Secretary shall distribute funds for grants under subsection (a) as follows:
 
   (A) *Allotments* — From a portion equal to 60 percent of such amount (but not to exceed $3,600,000), the Secretary shall allot for grants to eligible agencies for statewide programs in each State the amount that bears the same ratio to such portion as the low-income and unemployed population of such State bears to the low-income and unemployed population of all the States.
 
@@ -862,11 +864,11 @@ Pub. L. 106–113, div. B, § 1000(a)(4) [title II], Nov. 29, 1999, 113 Stat. 15
 
 (2) **Greater available appropriations** — Any amounts appropriated for a fiscal year to carry out this section in excess of $6,000,000 shall be allotted as follows:
 
-  (A) *Allotments* — The Secretary shall use 40 percent of such excess to allot for grants under subsection (a) of this section to eligible agencies for statewide programs in each State an amount that bears the same ratio to 40 percent of such excess as the low-income and unemployed population of such State bears to the low-income and unemployed population of all the States.
+  (A) *Allotments* — The Secretary shall use 40 percent of such excess to allot for grants under subsection (a) to eligible agencies for statewide programs in each State an amount that bears the same ratio to 40 percent of such excess as the low-income and unemployed population of such State bears to the low-income and unemployed population of all the States.
 
-  (B) *Competitive grants for local and statewide programs* — The Secretary shall use 40 percent of such excess to make grants under subsection (a) of this section on a competitive basis to eligible agencies for local and statewide programs.
+  (B) *Competitive grants for local and statewide programs* — The Secretary shall use 40 percent of such excess to make grants under subsection (a) on a competitive basis to eligible agencies for local and statewide programs.
 
-  (C) *Competitive grants for nationwide programs* — The Secretary shall use the remaining 20 percent of such excess to make grants under subsection (a) of this section on a competitive basis to eligible agencies for nationwide programs, including programs benefiting Indians, as defined in [section 9911 of this title](./chapter-106-community-services-block-grant-program.md#section-9911), and migrant or seasonal farmworkers.
+  (C) *Competitive grants for nationwide programs* — The Secretary shall use the remaining 20 percent of such excess to make grants under subsection (a) on a competitive basis to eligible agencies for nationwide programs, including programs benefiting Indians, as defined in [section 9911 of this title](./chapter-106-community-services-block-grant-program.md#section-9911), and migrant or seasonal farmworkers.
 
 (3) **Eligibility for allotments for statewide programs** — To be eligible to receive an allotment under paragraph (1)(A) or (2)(A), an eligible agency shall demonstrate that the proposed program is statewide in scope and represents a comprehensive and coordinated effort to alleviate hunger within the State.
 
@@ -882,7 +884,7 @@ Pub. L. 106–113, div. B, § 1000(a)(4) [title II], Nov. 29, 1999, 113 Stat. 15
 
   (B) *Definition* — In this paragraph, the term “State” does not include Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
-(5) **Maximum grants** — From funds made available under paragraphs (1)(B) and (2)(B) for any fiscal year, the Secretary may not make grants under subsection (a) of this section to an eligible agency in an aggregate amount exceeding $50,000. From funds made available under paragraph (2)(C) for any fiscal year, the Secretary may not make grants under subsection (a) of this section to an eligible agency in an aggregate amount exceeding $300,000.
+(5) **Maximum grants** — From funds made available under paragraphs (1)(B) and (2)(B) for any fiscal year, the Secretary may not make grants under subsection (a) to an eligible agency in an aggregate amount exceeding $50,000. From funds made available under paragraph (2)(C) for any fiscal year, the Secretary may not make grants under subsection (a) to an eligible agency in an aggregate amount exceeding $300,000.
 
 **(c) Report** For each fiscal year, the Secretary shall prepare and submit, to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, a report concerning the grants made under this section. Such report shall include—
 
@@ -890,7 +892,7 @@ Pub. L. 106–113, div. B, § 1000(a)(4) [title II], Nov. 29, 1999, 113 Stat. 15
 
 (2) information on the amount of funding awarded to each grant recipient; and
 
-(3) a summary of the activities performed by the grant recipients with funding awarded under this section and a description of the manner in which such activities meet the objectives described in subsection (a) of this section.
+(3) a summary of the activities performed by the grant recipients with funding awarded under this section and a description of the manner in which such activities meet the objectives described in subsection (a).
 
 **(d) Authorization of appropriations** There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 1999 through 2003.
 
@@ -958,7 +960,12 @@ Another prior section 682 of Pub. L. 97–35 was renumbered section 683 and was 
 Another prior section 682 of Pub. L. 97–35 was classified to [section 9911 of this title](./chapter-106-community-services-block-grant-program.md#section-9911), prior to repeal by Pub. L. 101–501.
 
 #### Amendments
+2015—Subsec. (b)(4). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
 2002—Subsec. (b)(4). Pub. L. 107–110 substituted “7801” for “8801”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
@@ -984,7 +991,7 @@ Another prior section 683 of Pub. L. 97–35 was renumbered section 684, and was
 ## § 9925. Demonstration partnership agreements addressing needs of poor
 **(a) General authority**
 
-(1) In order to stimulate the development of new approaches to provide for greater self-sufficiency of the poor, to test and evaluate such new approaches, to disseminate project results and evaluation findings so that such approaches can be replicated, and to strengthen the integration, coordination, and redirection of activities to promote maximum self-sufficiency among the poor, the Secretary may make grants from funds appropriated under subsection (e) of this section to eligible entities for the development and implementation of new and innovative approaches to deal with particularly critical needs or problems of the poor which are common to a number of communities. Grants may be made only with respect to applications which—
+(1) In order to stimulate the development of new approaches to provide for greater self-sufficiency of the poor, to test and evaluate such new approaches, to disseminate project results and evaluation findings so that such approaches can be replicated, and to strengthen the integration, coordination, and redirection of activities to promote maximum self-sufficiency among the poor, the Secretary may make grants from funds appropriated under subsection (e) to eligible entities for the development and implementation of new and innovative approaches to deal with particularly critical needs or problems of the poor which are common to a number of communities. Grants may be made only with respect to applications which—
 
   (A) involve activities which can be incorporated into or be closely coordinated with eligible entities’ ongoing programs;
 
@@ -1018,7 +1025,7 @@ Another prior section 683 of Pub. L. 97–35 was renumbered section 684, and was
 
 **(c) Programs directed to special populations**
 
-(1) In addition to the grant programs described in subsection (a) of this section, the Secretary may make grants to community action agencies for the purpose of enabling such agencies to demonstrate new approaches to dealing with the problems caused by entrenched, chronic unemployment and lack of economic opportunities for urban youth. Demonstrations shall include such activities as peer counseling, mentoring, development of job skills, assistance with social skills, community services, family literacy, parenting skills, opportunities for employment or entrepreneurship, and other services designed to assist such at-risk youth to continue their education, to secure meaningful employment, to perform community service, or to pursue other productive alternatives within the community.
+(1) In addition to the grant programs described in subsection (a), the Secretary may make grants to community action agencies for the purpose of enabling such agencies to demonstrate new approaches to dealing with the problems caused by entrenched, chronic unemployment and lack of economic opportunities for urban youth. Demonstrations shall include such activities as peer counseling, mentoring, development of job skills, assistance with social skills, community services, family literacy, parenting skills, opportunities for employment or entrepreneurship, and other services designed to assist such at-risk youth to continue their education, to secure meaningful employment, to perform community service, or to pursue other productive alternatives within the community.
 
 (2) Such grants may be made only with respect to applications that—
 
@@ -1030,11 +1037,11 @@ Another prior section 683 of Pub. L. 97–35 was renumbered section 684, and was
 
   (D) contain assurances that the grantee will report on the progress and results of the demonstration at such times and in such manner as the Secretary shall require.
 
-(3) Notwithstanding subsection (b) of this section, such grants shall not exceed 80 percent of the cost of such programs.
+(3) Notwithstanding subsection (b), such grants shall not exceed 80 percent of the cost of such programs.
 
 (4) Such grants made under this subsection on a competitive basis shall be based on an annual competition determined by the Secretary. Grants made under this subsection shall not exceed $500,000.
 
-**(d) Dissemination of results** As soon as practicable, but not later than 180 days after the end of the fiscal year in which a recipient of a grant under this section completes the expenditure of such grant, the Secretary shall prepare and make available to each State and each eligible entity a description of the program carried out with such grant, any relevant information developed and results achieved, and a summary of the evaluation of such program received under subsection (a)(1)(D) of this section so as to provide a model of innovative programs for other eligible entities.
+**(d) Dissemination of results** As soon as practicable, but not later than 180 days after the end of the fiscal year in which a recipient of a grant under this section completes the expenditure of such grant, the Secretary shall prepare and make available to each State and each eligible entity a description of the program carried out with such grant, any relevant information developed and results achieved, and a summary of the evaluation of such program received under subsection (a)(1)(D) so as to provide a model of innovative programs for other eligible entities.
 
 **(e) Replication of programs**
 
@@ -1054,9 +1061,9 @@ Another prior section 683 of Pub. L. 97–35 was renumbered section 684, and was
 
 (1) There are authorized to be appropriated $30,000,000 for fiscal year 1995, and such sums as may be necessary for fiscal years 1996, 1997, and 1998, to carry out this section.
 
-(2) Of the amounts appropriated for this section, not less than 30 percent and not more than 40 percent shall be used to carry out the programs authorized under subsection (c) of this section.
+(2) Of the amounts appropriated for this section, not less than 30 percent and not more than 40 percent shall be used to carry out the programs authorized under subsection (c).
 
-(3) In addition to sums which are required to carry out the evaluation, reporting, and dissemination of results under subsections (a), (c), (d), and (f) 11 See References in Text note below. of this section, the Secretary is authorized to reserve up to 2 percent of the amounts appropriated pursuant to subparagraphs (1) and (2) for administration of the program as well as for planning and technical assistance.
+(3) In addition to sums which are required to carry out the evaluation, reporting, and dissemination of results under subsections (a), (c), (d), and (f),11 See References in Text note below. the Secretary is authorized to reserve up to 2 percent of the amounts appropriated pursuant to subparagraphs (1) and (2) for administration of the program as well as for planning and technical assistance.
 
 ### Statutory Notes
 
@@ -1123,7 +1130,7 @@ Section effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as
 
 <a id="section-9926"></a>
 ## § 9926. Projects to expand the number of job opportunities available to certain low-income individuals
-**(a) In general** The Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall enter into agreements with nonprofit organizations (including community development corporations) submitting applications under this section for the purpose of conducting projects in accordance with subsection (b) of this section to create employment opportunities for certain low-income individuals.
+**(a) In general** The Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall enter into agreements with nonprofit organizations (including community development corporations) submitting applications under this section for the purpose of conducting projects in accordance with subsection (b) to create employment opportunities for certain low-income individuals.
 
 **(b) Nature of project**
 
@@ -1141,7 +1148,7 @@ Section effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as
 
   (B) the geographic area to be served by the project;
 
-  (C) the percentage of low-income individuals (as described in subsection (b) of this section) and individuals receiving assistance under a State program funded under part A of title IV of the Social Security Act [[42 U.S.C. 601](./chapter-007-social-security.md#section-601) et seq.] in the area to be served by the project; and
+  (C) the percentage of low-income individuals (as described in subsection (b)) and individuals receiving assistance under a State program funded under part A of title IV of the Social Security Act [[42 U.S.C. 601](./chapter-007-social-security.md#section-601) et seq.] in the area to be served by the project; and
 
   (D) unemployment rates in the geographic areas to be served and (to the extent practicable) the jobs available and skills necessary to fill those vacancies in such areas.
 

@@ -27,7 +27,7 @@ source: >-
   (C) the carrier’s mix of rail traffic to determine whether one commodity is paying an unreasonable share of the carrier’s overall revenues,
   recognizing the policy of this part that rail carriers shall earn adequate revenues, as established by the Board under [section 10704(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10704/a/2&num=0&edition=prelim).
 
-(3) The Board shall, within one year after January 1, 1996, complete the pending Interstate Commerce Commission non-coal rate guidelines proceeding to establish a simplified and expedited method for determining the reasonableness of challenged rail rates in those cases in which a full stand-alone cost presentation is too costly, given the value of the case.
+(3) The Board shall maintain 1 or more simplified and expedited methods for determining the reasonableness of challenged rates in those cases in which a full stand-alone cost presentation is too costly, given the value of the case.
 
 ### Statutory Notes
 
@@ -39,13 +39,15 @@ Section 10701, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1371; Pub. L. 96–296,
 Section 10701a, added Pub. L. 96–448, title II, § 201(a), Oct. 14, 1980, 94 Stat. 1898; amended Pub. L. 103–272, § 4(j)(19), July 5, 1994, 108 Stat. 1369, related to standards for rates for rail carriers. See [section 10701 of this title](./chapter-107-rates.md#section-10701).
 
 #### Amendments
+2015—Subsec. (d)(3). Pub. L. 114–110 amended par. (3) generally. Prior to amendment, text read as follows: “The Board shall, within one year after January 1, 1996, complete the pending Interstate Commerce Commission non-coal rate guidelines proceeding to establish a simplified and expedited method for determining the reasonableness of challenged rail rates in those cases in which a full stand-alone cost presentation is too costly, given the value of the case.”
+
 1996—Subsec. (d)(3). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this paragraph”.
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Abolition of Interstate Commerce Commission
-Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-10702"></a>
@@ -84,7 +86,7 @@ A prior section 10703, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1372; Pub. L. 9
 
 (1) When the Board, after a full hearing, decides that a rate charged or collected by a rail carrier for transportation subject to the jurisdiction of the Board under this part, or that a classification, rule, or practice of that carrier, does or will violate this part, the Board may prescribe the maximum rate, classification, rule, or practice to be followed. The Board may order the carrier to stop the violation. When a rate, classification, rule, or practice is prescribed under this subsection, the affected carrier may not publish, charge, or collect a different rate and shall adopt the classification and observe the rule or practice prescribed by the Board.
 
-(2) The Board shall maintain and revise as necessary standards and procedures for establishing revenue levels for rail carriers providing transportation subject to its jurisdiction under this part that are adequate, under honest, economical, and efficient management, to cover total operating expenses, including depreciation and obsolescence, plus a reasonable and economic profit or return (or both) on capital employed in the business. The Board shall make an adequate and continuing effort to assist those carriers in attaining revenue levels prescribed under this paragraph. Revenue levels established under this paragraph should—
+(2) The Board shall maintain and revise as necessary standards and procedures for establishing revenue levels for rail carriers providing transportation subject to its jurisdiction under this part that are adequate, under honest, economical, and efficient management, for the infrastructure and investment needed to meet the present and future demand for rail services and to cover total operating expenses, including depreciation and obsolescence, plus a reasonable and economic profit or return (or both) on capital employed in the business. The Board shall make an adequate and continuing effort to assist those carriers in attaining revenue levels prescribed under this paragraph. Revenue levels established under this paragraph should—
 
   (A) provide a flow of net income plus depreciation adequate to support prudent capital outlays, assure the repayment of a reasonable level of debt, permit the raising of needed equity capital, and cover the effects of inflation; and
 
@@ -100,7 +102,23 @@ A prior section 10703, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1372; Pub. L. 9
 
 (2) within 6 months after the close of the administrative record if the determination is based upon the methodology adopted by the Board pursuant to section 10701(d)(3).
 
-**(d)** Within 9 months after January 1, 1996, the Board shall establish procedures to ensure expeditious handling of challenges to the reasonableness of railroad rates. The procedures shall include appropriate measures for avoiding delay in the discovery and evidentiary phases of such proceedings and exemption or revocation proceedings, including appropriate sanctions for such delay, and for ensuring prompt disposition of motions and interlocutory administrative appeals.
+**(d)**
+
+(1) The Board shall maintain procedures to ensure the expeditious handling of challenges to the reasonableness of railroad rates. The procedures shall include appropriate measures for avoiding delay in the discovery and evidentiary phases of such proceedings and exemption or revocation proceedings, including appropriate sanctions for such delay, and for ensuring prompt disposition of motions and interlocutory administrative appeals.
+
+(2)
+
+  (A) Except as provided under subparagraph (B), in a stand-alone cost rate challenge, the Board shall comply with the following timeline:
+
+    (i) Discovery shall be completed not later than 150 days after the date on which the challenge is initiated.
+
+    (ii) The development of the evidentiary record shall be completed not later than 155 days after the date on which discovery is completed under clause (i).
+
+    (iii) The closing brief shall be submitted not later than 60 days after the date on which the development of the evidentiary record is completed under clause (ii).
+
+    (iv) A final Board decision shall be issued not later than 180 days after the date on which the evidentiary record is completed under clause (ii).
+
+  (B) The Board may extend a timeline under subparagraph (A) after a request from any party or in the interest of due process.
 
 ### Statutory Notes
 
@@ -108,6 +126,10 @@ A prior section 10703, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1372; Pub. L. 9
 A prior section 10704, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1373; Pub. L. 96–296, § 13(b), July 1, 1980, 94 Stat. 803; Pub. L. 96–448, title II, § 205(b), Oct. 14, 1980, 94 Stat. 1906; Pub. L. 97–261, § 9(b), Sept. 20, 1982, 96 Stat. 1109; Pub. L. 99–521, § 7(b), Oct. 22, 1986, 100 Stat. 2994, related to authority and criteria for rates, classifications, rules, and practices prescribed by Interstate Commerce Commission, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a). See sections 10704, 13701, and 15503 of this title.
 
 #### Amendments
+2015—Subsec. (a)(2). Pub. L. 114–110, § 16, inserted “for the infrastructure and investment needed to meet the present and future demand for rail services and” after “management,” in introductory provisions.
+
+Subsec. (d). Pub. L. 114–110, § 11(b), designated existing provisions as par. (1), substituted “The Board shall maintain procedures to ensure the expeditious handling of challenges to the reasonableness of railroad rates.” for “Within 9 months after January 1, 1996, the Board shall establish procedures to ensure expeditious handling of challenges to the reasonableness of railroad rates.”, and added par. (2).
+
 1996—Subsec. (d). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of the ICC Termination Act of 1995”.
 
 
@@ -343,18 +365,6 @@ A prior section 10708, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1382; Pub. L. 9
 
   (B) If the Board determines, on the basis of a complaint filed under paragraph (2)(B)(i) of this subsection, that the grounds for a complaint described in such paragraph have been established with respect to a rail carrier, the Board shall, subject to the provisions of this section, order such rail carrier to provide rates and service substantially similar to the contract at issue with such differentials in terms and conditions as are justified by the evidence.
 
-**(h)**
-
-(1) Any rail carrier may, in accordance with the terms of this section, enter into contracts for the transportation of agricultural commodities (including forest products, but not including wood pulp, wood chips, pulpwood or paper) involving the utilization of carrier owned or leased equipment not in excess of 40 percent of the capacity of such carrier’s owned or leased equipment by major car type (plain boxcars, covered hopper cars, gondolas and open top hoppers, coal cars, bulkhead flatcars, pulpwood rackcars, and flatbed equipment, including TOFC/COFC).
-
-(2) The Board may, on request of a rail carrier or other party or on its own initiative, grant such relief from the limitations of paragraph (1) of this subsection as the Board considers appropriate, if it appears that additional equipment may be made available without impairing the rail carrier’s ability to meet its common carrier obligations under [section 11101 of this title](./chapter-111-operations.md#section-11101).
-
-(3)
-
-  (A) This subsection shall cease to be effective after September 30, 1998.
-
-  (B) Before October 1, 1997, the National Grain Car Council and the Railroad-Shipper Transportation Advisory Council shall make recommendations to Congress on whether to extend the effectiveness of or otherwise modify this subsection.
-
 ### Statutory Notes
 
 #### Prior Provisions
@@ -373,6 +383,8 @@ Section 10712, added Pub. L. 96–448, title II, § 206(a), Oct. 14, 1980, 94 St
 Section 10713, added Pub. L. 96–448, title II, § 208(a), Oct. 14, 1980, 94 Stat. 1908; amended Pub. L. 97–468, title V, § 502, Jan. 14, 1983, 96 Stat. 2552; Pub. L. 99–509, title IV, § 4051, Oct. 21, 1986, 100 Stat. 1910, related to contracts between rail carriers and purchasers of rail services. See [section 10709 of this title](./chapter-107-rates.md#section-10709).
 
 #### Amendments
+2015—Subsec. (h). Pub. L. 114–110 struck out subsec. (h) which related to certain contracts for the transportation of agricultural commodities.
+
 1996—Subsec. (e). Pub. L. 104–287 substituted “October 1, 1980,” for “the effective date of the Staggers Rail Act of 1980”.
 
 

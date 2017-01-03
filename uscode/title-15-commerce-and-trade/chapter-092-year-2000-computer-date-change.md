@@ -218,7 +218,7 @@ The Year 2000 Information and Readiness Disclosure Act, referred to in subsec. (
 
 **(b) Caps on punitive damages**
 
-(1) **In general** — Subject to the evidentiary standard established by subsection (a) of this section, punitive damages permitted under applicable law against a defendant described in paragraph (2) in a Y2K action may not exceed the lesser of—
+(1) **In general** — Subject to the evidentiary standard established by subsection (a), punitive damages permitted under applicable law against a defendant described in paragraph (2) in a Y2K action may not exceed the lesser of—
 
   (A) three times the amount awarded for compensatory damages; or
 
@@ -256,7 +256,7 @@ The Year 2000 Information and Readiness Disclosure Act, referred to in subsec. (
 
 <a id="section-6605"></a>
 ## § 6605. Proportionate liability
-**(a) In general** Except in a Y2K action that is a contract action, and except as provided in subsections (b) through (g) of this section, a person against whom a final judgment is entered in a Y2K action shall be liable solely for the portion of the judgment that corresponds to the relative and proportionate responsibility of that person. In determining the percentage of responsibility of any defendant, the trier of fact shall determine that percentage as a percentage of the total fault of all persons, including the plaintiff, who caused or contributed to the total loss incurred by the plaintiff.
+**(a) In general** Except in a Y2K action that is a contract action, and except as provided in subsections (b) through (g), a person against whom a final judgment is entered in a Y2K action shall be liable solely for the portion of the judgment that corresponds to the relative and proportionate responsibility of that person. In determining the percentage of responsibility of any defendant, the trier of fact shall determine that percentage as a percentage of the total fault of all persons, including the plaintiff, who caused or contributed to the total loss incurred by the plaintiff.
 
 **(b) Proportionate liability**
 
@@ -280,7 +280,7 @@ The Year 2000 Information and Readiness Disclosure Act, referred to in subsec. (
 
 **(c) Joint liability for specific intent or fraud**
 
-(1) **In general** — Notwithstanding subsection (a) of this section, the liability of a defendant in a Y2K action that is not a contract action is joint and several if the trier of fact specifically determines that the defendant—
+(1) **In general** — Notwithstanding subsection (a), the liability of a defendant in a Y2K action that is not a contract action is joint and several if the trier of fact specifically determines that the defendant—
 
   (A) acted with specific intent to injure the plaintiff; or
 
@@ -288,7 +288,7 @@ The Year 2000 Information and Readiness Disclosure Act, referred to in subsec. (
 
 (2) **Fraud; recklessness**
 
-  (A) *Knowing commission of fraud described* — For purposes of subsection (b)(1)(B)(ii) of this section and paragraph (1)(B) of this subsection, a defendant knowingly committed fraud if the defendant—
+  (A) *Knowing commission of fraud described* — For purposes of subsection (b)(1)(B)(ii) and paragraph (1)(B) of this subsection, a defendant knowingly committed fraud if the defendant—
 
     (i) made an untrue statement of a material fact, with actual knowledge that the statement was false;
 
@@ -296,15 +296,15 @@ The Year 2000 Information and Readiness Disclosure Act, referred to in subsec. (
 
     (iii) knew that the plaintiff was reasonably likely to rely on the false statement.
 
-  (B) *Recklessness* — For purposes of subsection (b)(1)(B) of this section and paragraph (1) of this subsection, reckless conduct by the defendant does not constitute either a specific intent to injure, or the knowing commission of fraud, by the defendant.
+  (B) *Recklessness* — For purposes of subsection (b)(1)(B) and paragraph (1) of this subsection, reckless conduct by the defendant does not constitute either a specific intent to injure, or the knowing commission of fraud, by the defendant.
 
-(3) **Right to contribution not affected** — Nothing in this section affects the right, under any other law, of a defendant to contribution with respect to another defendant found under subsection (b)(1)(B) of this section, or determined under paragraph (1)(B) of this subsection, to have acted with specific intent to injure the plaintiff or to have knowingly committed fraud.
+(3) **Right to contribution not affected** — Nothing in this section affects the right, under any other law, of a defendant to contribution with respect to another defendant found under subsection (b)(1)(B), or determined under paragraph (1)(B) of this subsection, to have acted with specific intent to injure the plaintiff or to have knowingly committed fraud.
 
 **(d) Special rules**
 
 (1) **Uncollectible share**
 
-  (A) *In general* — Notwithstanding subsection (a) of this section, if, upon motion made not later than 6 months after a final judgment is entered in any Y2K action that is not a contract action, the court determines that all or part of the share of the judgment against a defendant for compensatory damages is not collectible against that defendant, then each other defendant in the action is liable for the uncollectible share as follows:
+  (A) *In general* — Notwithstanding subsection (a), if, upon motion made not later than 6 months after a final judgment is entered in any Y2K action that is not a contract action, the court determines that all or part of the share of the judgment against a defendant for compensatory damages is not collectible against that defendant, then each other defendant in the action is liable for the uncollectible share as follows:
 
     (i) *Percentage of net worth* — The other defendants are jointly and severally liable for the uncollectible share if the plaintiff establishes that—
 
@@ -350,7 +350,7 @@ The Year 2000 Information and Readiness Disclosure Act, referred to in subsec. (
 
   (D) from any other person responsible for the conduct giving rise to the payment that would have been liable to make the same payment.
 
-(3) **Nondisclosure to jury** — The standard for allocation of damages under subsection (a) of this section and subsection (b)(1) of this section, and the procedure for reallocation of uncollectible shares under paragraph (1) of this subsection, shall not be disclosed to members of the jury.
+(3) **Nondisclosure to jury** — The standard for allocation of damages under subsection (a) and subsection (b)(1), and the procedure for reallocation of uncollectible shares under paragraph (1) of this subsection, shall not be disclosed to members of the jury.
 
 **(e) Settlement discharge**
 
@@ -370,7 +370,7 @@ The Year 2000 Information and Readiness Disclosure Act, referred to in subsec. (
 
 (1) **In general** — A defendant who is jointly and severally liable for damages in any Y2K action that is not a contract action may recover contribution from any other person who, if joined in the original action, would have been liable for the same damages. A claim for contribution shall be determined based on the percentage of responsibility of the claimant and of each person against whom a claim for contribution is made.
 
-(2) **Statute of limitations for contribution** — An action for contribution in connection with a Y2K action that is not a contract action shall be brought not later than 6 months after the entry of a final, nonappealable judgment in the Y2K action, except that an action for contribution brought by a defendant who was required to make an additional payment under subsection (d)(1) of this section may be brought not later than 6 months after the date on which such payment was made.
+(2) **Statute of limitations for contribution** — An action for contribution in connection with a Y2K action that is not a contract action shall be brought not later than 6 months after the entry of a final, nonappealable judgment in the Y2K action, except that an action for contribution brought by a defendant who was required to make an additional payment under subsection (d)(1) may be brought not later than 6 months after the date on which such payment was made.
 
 **(g) More protective State law not preempted** Nothing in this section preempts or supersedes any provision of State law that—
 
@@ -393,7 +393,7 @@ The Year 2000 Information and Readiness Disclosure Act, referred to in subsec. (
 
 (5) the name, title, address, and telephone number of any individual who has authority to negotiate a resolution of the dispute on behalf of the prospective plaintiff.
 
-**(b) Person to whom notice to be sent** The notice required by subsection (a) of this section shall be sent—
+**(b) Person to whom notice to be sent** The notice required by subsection (a) shall be sent—
 
 (1) to the registered agent of the prospective defendant for service of legal process;
 
@@ -403,19 +403,19 @@ The Year 2000 Information and Readiness Disclosure Act, referred to in subsec. (
 
 **(c) Response to notice**
 
-(1) **In general** — Within 30 days after receipt of the notice specified in subsection (a) of this section, each prospective defendant shall send by certified mail with return receipt requested to each prospective plaintiff a written statement acknowledging receipt of the notice, and describing the actions it has taken or will take to address the problem identified by the prospective plaintiff.
+(1) **In general** — Within 30 days after receipt of the notice specified in subsection (a), each prospective defendant shall send by certified mail with return receipt requested to each prospective plaintiff a written statement acknowledging receipt of the notice, and describing the actions it has taken or will take to address the problem identified by the prospective plaintiff.
 
 (2) **Willingness to engage in ADR** — The written statement shall state whether the prospective defendant is willing to engage in alternative dispute resolution.
 
 (3) **Inadmissibility** — A written statement required by this subsection is not admissible in evidence, under Rule 408 of the Federal Rules of Evidence or any analogous rule of evidence in any State, in any proceeding to prove liability for, or the invalidity of, a claim or its amount, or otherwise as evidence of conduct or statements made in compromise negotiations.
 
-(4) **Presumptive time of receipt** — For purposes of paragraph (1), a notice under subsection (a) of this section is presumed to be received 7 days after it was sent.
+(4) **Presumptive time of receipt** — For purposes of paragraph (1), a notice under subsection (a) is presumed to be received 7 days after it was sent.
 
 (5) **Priority** — A prospective defendant receiving more than one notice under this section may give priority to notices with respect to a product or service that involves a health or safety related Y2K failure.
 
 **(d) Failure to respond** If a prospective defendant—
 
-(1) fails to respond to a notice provided pursuant to subsection (a) of this section within the 30 days specified in subsection (c)(1) of this section; or
+(1) fails to respond to a notice provided pursuant to subsection (a) within the 30 days specified in subsection (c)(1); or
 
 (2) does not describe the action, if any, the prospective defendant has taken, or will take, to address the problem identified by the prospective plaintiff,
 the prospective plaintiff may immediately commence a legal action against that prospective defendant.
@@ -430,13 +430,13 @@ the prospective plaintiff may immediately commence a legal action against that p
 
 (4) **Statutes of limitation, etc., tolled** — Any applicable statute of limitations or doctrine of laches in a Y2K action to which paragraph (1) applies shall be tolled during the notice and remediation period under that paragraph.
 
-**(f) Failure to provide notice** If a defendant determines that a plaintiff has filed a Y2K action without providing the notice specified in subsection (a) of this section or without awaiting the expiration of the appropriate waiting period specified in subsection (c) of this section, the defendant may treat the plaintiff’s complaint as such a notice by so informing the court and the plaintiff in its initial response to the plaintiff. If any defendant elects to treat the complaint as such a notice—
+**(f) Failure to provide notice** If a defendant determines that a plaintiff has filed a Y2K action without providing the notice specified in subsection (a) or without awaiting the expiration of the appropriate waiting period specified in subsection (c), the defendant may treat the plaintiff’s complaint as such a notice by so informing the court and the plaintiff in its initial response to the plaintiff. If any defendant elects to treat the complaint as such a notice—
 
 (1) the court shall stay all discovery and all other proceedings in the action for the appropriate period after filing of the complaint; and
 
 (2) the time for filing answers and all other pleadings shall be tolled during the appropriate period.
 
-**(g) Effect of contractual or statutory waiting periods** In cases in which a contract, or a statute enacted before January 1, 1999, requires notice of nonperformance and provides for a period of delay prior to the initiation of suit for breach or repudiation of contract, the period of delay provided by contract or the statute is controlling over the waiting period specified in subsections (c) and (d) of this section.
+**(g) Effect of contractual or statutory waiting periods** In cases in which a contract, or a statute enacted before January 1, 1999, requires notice of nonperformance and provides for a period of delay prior to the initiation of suit for breach or repudiation of contract, the period of delay provided by contract or the statute is controlling over the waiting period specified in subsections (c) and (d).
 
 **(h) State law controls alternative methods** Nothing in this section supersedes or otherwise preempts any State law or rule of civil procedure with respect to the use of alternative dispute resolution for Y2K actions.
 
@@ -476,7 +476,7 @@ Rules of Federal civil procedure, referred to in subsec. (a), are contained in t
 
 **(b) Preservation of existing law** The duty imposed by this section is in addition to any duty to mitigate imposed by State law.
 
-**(c) Exception for intentional fraud** Subsection (a) of this section does not apply to damages suffered by reason of the plaintiff’s justifiable reliance upon an affirmative material misrepresentation by the defendant, made by the defendant with actual knowledge of its falsity, concerning the potential for Y2K failure of the device or system used or sold by the defendant that experienced the Y2K failure alleged to have caused the plaintiff’s harm.
+**(c) Exception for intentional fraud** Subsection (a) does not apply to damages suffered by reason of the plaintiff’s justifiable reliance upon an affirmative material misrepresentation by the defendant, made by the defendant with actual knowledge of its falsity, concerning the potential for Y2K failure of the device or system used or sold by the defendant that experienced the Y2K failure alleged to have caused the plaintiff’s harm.
 
 
 <a id="section-6609"></a>
@@ -653,7 +653,7 @@ Rule 704 of the Federal Rules of Evidence, referred to in text, is set out in th
 
 (2) publish the name and phone number of the point of contact for the agency in the Federal Register.
 
-**(c) General rule** Subject to subsections (d) and (e) of this section, no agency shall impose any civil money penalty on a small business concern for a first-time violation.
+**(c) General rule** Subject to subsections (d) and (e), no agency shall impose any civil money penalty on a small business concern for a first-time violation.
 
 **(d) Standards for waiver** An agency shall provide a waiver of civil money penalties for a first-time violation, provided that a small business concern demonstrates, and the agency determines, that—
 

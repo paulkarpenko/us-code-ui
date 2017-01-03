@@ -133,7 +133,7 @@ Another prior section 1400, Pub. L. 91–230, title VI, § 601, Apr. 13, 1970, 8
 2010—Subsec. (c)(12)(C). Pub. L. 111–256 substituted “having intellectual disabilities” for “having mental retardation”.
 
 #### Effective Date
-Pub. L. 108–446, title III, § 302(a), (b), Dec. 3, 2004, 118 Stat. 2803, provided that: “(a) Parts A, B, and C, and subpart 1 of part D.—“(1) In general.—Except as provided in paragraph (2), parts A, B, and C, and subpart 1 of part D, of the Individuals with Disabilities Education Act [subchapters I, II, and III and part A of subchapter IV of this chapter], as amended by title I, shall take effect on July 1, 2005. “(2) Highly qualified definition.—Subparagraph (A), and subparagraphs (C) through (F), of section 602(10) of the Individuals with Disabilities Education Act [[20 U.S.C. 1401(10)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1401/10&num=0&edition=prelim)], as amended by title I, shall take effect on the date of enactment of this Act [Dec. 3, 2004] for purposes of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.]. “(b) Subparts 2, 3, and 4 of part D.—Subparts 2, 3, and 4 of part D of the Individuals with Disabilities Education Act [parts B, C, and D of subchapter IV of this chapter], as amended by title I, shall take effect on the date of enactment of this Act [Dec. 3, 2004].”
+Pub. L. 108–446, title III, § 302(a), (b), Dec. 3, 2004, 118 Stat. 2803, as amended by Pub. L. 114–95, title IX, § 9214(e), Dec. 10, 2015, 129 Stat. 2166, provided that: “(a) Parts A, B, and C, and subpart 1 of Part D.—Parts A, B, and C, and subpart 1 of part D, of the Individuals with Disabilities Education Act [subchapters I, II, and III and part A of subchapter IV of this chapter], as amended by title I, shall take effect on July 1, 2005. “(b) Subparts 2, 3, and 4 of part D.—Subparts 2, 3, and 4 of part D of the Individuals with Disabilities Education Act [parts B, C, and D of subchapter IV of this chapter], as amended by title I, shall take effect on the date of enactment of this Act [Dec. 3, 2004].”
 
 #### Short Title of 2010 Amendment
 Pub. L. 111–256, § 1, Oct. 5, 2010, 124 Stat. 2643, provided that: “This Act [amending this section, sections 1140, 1401, and 7512 of this title, sections 705, 764, and 791 of Title 29, Labor, and sections 217a–1, 247b–4, 285g, 285g–2, 291k, 294c, and 300d–52 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, and amending provisions set out as notes under sections 280f, 285g, 300b–1, and 2000ff of Title 42] may be cited as ‘Rosa’s Law’.”
@@ -225,7 +225,7 @@ Except as otherwise provided, in this chapter:
 
     (ii) who, by reason thereof, needs special education and related services.
 
-(4) **Core academic subjects** — The term “core academic subjects” has the meaning given the term in section 9101 of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7801](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)].
+(4) **Repealed. Pub. L. 114–95, title IX, § 9215(ss)(1)(A), Dec. 10, 2015, 129 Stat. 2181**
 
 (5) **Educational service agency** — The term “educational service agency”—
 
@@ -253,7 +253,7 @@ Except as otherwise provided, in this chapter:
 
     (ii) under part A of title I of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6311](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6311) et seq.]; and
 
-    (iii) under parts A and B of title III of that Act [[20 U.S.C. 6811](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6811) et seq., 6891 et seq.]; and
+    (iii) under part A of title III of that Act [[20 U.S.C. 6811](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6811) et seq.]; and
 
   (B) any State or local funds expended for programs that would qualify for assistance under any of those parts.
 
@@ -267,39 +267,7 @@ Except as otherwise provided, in this chapter:
 
   (D) are provided in conformity with the individualized education program required under [section 1414(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1414/d&num=0&edition=prelim).
 
-(10) **Highly qualified**
-
-  (A) *In general* — For any special education teacher, the term “highly qualified” has the meaning given the term in section 9101 of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7801](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)], except that such term also—
-
-    (i) includes the requirements described in subparagraph (B); and
-
-    (ii) includes the option for teachers to meet the requirements of section 9101 of such Act by meeting the requirements of subparagraph (C) or (D).
-
-  (B) *Requirements for special education teachers* — When used with respect to any public elementary school or secondary school special education teacher teaching in a State, such term means that—
-
-    (i) the teacher has obtained full State certification as a special education teacher (including certification obtained through alternative routes to certification), or passed the State special education teacher licensing examination, and holds a license to teach in the State as a special education teacher, except that when used with respect to any teacher teaching in a public charter school, the term means that the teacher meets the requirements set forth in the State’s public charter school law;
-
-    (ii) the teacher has not had special education certification or licensure requirements waived on an emergency, temporary, or provisional basis; and
-
-    (iii) the teacher holds at least a bachelor’s degree.
-
-  (C) *Special education teachers teaching to alternate achievement standards* — When used with respect to a special education teacher who teaches core academic subjects exclusively to children who are assessed against alternate achievement standards established under the regulations promulgated under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6311(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1&num=0&edition=prelim)], such term means the teacher, whether new or not new to the profession, may either—
-
-    (i) meet the applicable requirements of section 9101 of such Act [[20 U.S.C. 7801](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)] for any elementary, middle, or secondary school teacher who is new or not new to the profession; or
-
-    (ii) meet the requirements of subparagraph (B) or (C) of section 9101(23) of such Act as applied to an elementary school teacher, or, in the case of instruction above the elementary level, has subject matter knowledge appropriate to the level of instruction being provided, as determined by the State, needed to effectively teach to those standards.
-
-  (D) *Special education teachers teaching multiple subjects* — When used with respect to a special education teacher who teaches 2 or more core academic subjects exclusively to children with disabilities, such term means that the teacher may either—
-
-    (i) meet the applicable requirements of section 9101 of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7801](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)] for any elementary, middle, or secondary school teacher who is new or not new to the profession;
-
-    (ii) in the case of a teacher who is not new to the profession, demonstrate competence in all the core academic subjects in which the teacher teaches in the same manner as is required for an elementary, middle, or secondary school teacher who is not new to the profession under section 9101(23)(C)(ii) of such Act, which may include a single, high objective uniform State standard of evaluation covering multiple subjects; or
-
-    (iii) in the case of a new special education teacher who teaches multiple subjects and who is highly qualified in mathematics, language arts, or science, demonstrate competence in the other core academic subjects in which the teacher teaches in the same manner as is required for an elementary, middle, or secondary school teacher under section 9101(23)(C)(ii) of such Act, which may include a single, high objective uniform State standard of evaluation covering multiple subjects, not later than 2 years after the date of employment.
-
-  (E) *Rule of construction* — Notwithstanding any other individual right of action that a parent or student may maintain under this subchapter, nothing in this section or subchapter shall be construed to create a right of action on behalf of an individual student or class of students for the failure of a particular State educational agency or local educational agency employee to be highly qualified.
-
-  (F) *Definition for purposes of the ESEA* — A teacher who is highly qualified under this paragraph shall be considered highly qualified for purposes of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.].
+(10) **Repealed. Pub. L. 114–95, title IX, § 9214(d)(1), Dec. 10, 2015, 129 Stat. 2164**
 
 (11) **Homeless children** — The term “homeless children” has the meaning given the term “homeless children and youths” in [section 11434a of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11434a&num=0&edition=prelim).
 
@@ -319,7 +287,7 @@ Except as otherwise provided, in this chapter:
 
   (B) also includes any college or university receiving funding from the Secretary of the Interior under the Tribally Controlled Colleges and Universities Assistance Act of 1978 [[25 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1801&num=0&edition=prelim) et seq.].
 
-(18) **Limited English proficient** — The term “limited English proficient” has the meaning given the term in section 9101 of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7801](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)].
+(18) **Limited English proficient** — The term “limited English proficient” has the meaning given the term “English learner” in section 8101 of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7801](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)].
 
 (19) **Local educational agency**
 
@@ -402,7 +370,7 @@ Except as otherwise provided, in this chapter:
 ### Statutory Notes
 
 #### References in Text
-The Elementary and Secondary Education Act of 1965, referred to in pars. (8)(A)(ii), (iii) and (10)(F), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of this title. Parts A and B of title III of the Act are classified generally to parts A (§ 6811 et seq.) and B (§ 6891 et seq.), respectively, of subchapter III of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in par. (8)(A)(ii), (iii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of this title. Part A of title III of the Act is classified generally to part A (§ 6811 et seq.) of subchapter III of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in par. (13), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
@@ -414,14 +382,25 @@ A prior section 1401, Pub. L. 91–230, title VI, § 602, as added Pub. L. 105�
 Another prior section 1401, Pub. L. 91–230, title VI, § 602, Apr. 13, 1970, 84 Stat. 175; Pub. L. 94–142, § 4(a), Nov. 29, 1975, 89 Stat. 775; Pub. L. 98–199, §§ 2, 3(b), Dec. 2, 1983, 97 Stat. 1357, 1358; Pub. L. 99–457, title IV, § 402, Oct. 8, 1986, 100 Stat. 1172; Pub. L. 100–630, title I, § 101(a), Nov. 7, 1988, 102 Stat. 3289; Pub. L. 101–476, title I, § 101, title IX, § 901(b)(10)–(20), Oct. 30, 1990, 104 Stat. 1103, 1142, 1143; Pub. L. 102–73, title VIII, § 802(d)(1), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§ 3, 25(a)(1), (b), Oct. 7, 1991, 105 Stat. 587, 605, 607; Pub. L. 103–382, title III, § 391(f)(1), Oct. 20, 1994, 108 Stat. 4023, related to definitions of terms used in this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 #### Amendments
+2015—Par. (4). Pub. L. 114–95, § 9215(ss)(1)(A), struck out par. (4). Text read as follows: “The term ‘core academic subjects’ has the meaning given the term in section 9101 of the Elementary and Secondary Education Act of 1965.”
+
+Par. (8)(A)(iii). Pub. L. 114–95, § 9215(ss)(1)(B), which directed substitution of “under part A of title III of that Act” for “under parts A and B of title III of that Act” in “paragraph (8)(a)(3)”, was executed to par. (8)(A)(iii) to reflect the probable intent of Congress.
+
+Par. (10). Pub. L. 114–95, § 9214(d)(1), struck out par. (10) which related to definition of highly qualified.
+
+Par. (18). Pub. L. 114–95, § 9215(ss)(1)(C), added par. (18) and struck out former par. (18). Prior to amendment, text read as follows: “The term ‘limited English proficient’ has the meaning given the term in section 9101 of the Elementary and Secondary Education Act of 1965.”
+
 2010—Par. (3)(A)(i). Pub. L. 111–256, § 2(b)(2)(A), substituted “with intellectual disabilities” for “with mental retardation”.
 
 Par. (30)(C). Pub. L. 111–256, § 2(b)(2)(B), substituted “of intellectual disabilities” for “of mental retardation”.
 
 2008—Par. (17)(B). Pub. L. 110–315 substituted “college or university” for “community college” and “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
+
 #### Effective Date
-Section effective July 1, 2005, except that subparagraphs (C) through (F) of par. (10) of this section are effective Dec. 3, 2004, for purposes of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.), see section 302(a) of Pub. L. 108–446, set out as a note under [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400).
+Section effective July 1, 2005, see section 302(a) of Pub. L. 108–446, set out as a note under [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400).
 
 #### Definitions
 For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400).
@@ -806,9 +785,9 @@ A prior section 1409, Pub. L. 91–230, title VI, § 610, as added Pub. L. 101�
 
     (ix) Alternative programming for children with disabilities who have been expelled from school, and services for children with disabilities in correctional facilities, children enrolled in State-operated or State-supported schools, and children with disabilities in charter schools.
 
-    (x) To support the development and provision of appropriate accommodations for children with disabilities, or the development and provision of alternate assessments that are valid and reliable for assessing the performance of children with disabilities, in accordance with sections 6311(b) and 7301 of this title.
+    (x) To support the development and provision of appropriate accommodations for children with disabilities, or the development and provision of alternate assessments that are valid and reliable for assessing the performance of children with disabilities, in accordance with sections 6311(b) and 6361 of this title.
 
-    (xi) To provide technical assistance to schools and local educational agencies, and direct services, including supplemental educational services as defined in 6316(e) of this title to children with disabilities, in schools or local educational agencies identified for improvement under [section 6316 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6316) on the sole basis of the assessment results of the disaggregated subgroup of children with disabilities, including providing professional development to special and regular education teachers, who teach children with disabilities, based on scientifically based research to improve educational instruction, in order to improve academic achievement to meet or exceed the objectives established by the State under [section 6311(b)(2)(G) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/G&num=0&edition=prelim).
+    (xi) To provide technical assistance to schools and local educational agencies, and direct services, including direct student services described in [section 6303b(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6303b/c/3&num=0&edition=prelim) to children with disabilities, to schools or local educational agencies implementing comprehensive support and improvement activities or targeted support and improvement activities under [section 6311(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/d&num=0&edition=prelim) on the basis of consistent underperformance of the disaggregated subgroup of children with disabilities, including providing professional development to special and regular education teachers, who teach children with disabilities, based on scientifically based research to improve educational instruction, in order to improve academic achievement based on the challenging academic standards described in [section 6311(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1&num=0&edition=prelim).
 
 (3) **Local educational agency risk pool**
 
@@ -948,7 +927,7 @@ A prior section 1409, Pub. L. 91–230, title VI, § 610, as added Pub. L. 101�
 
 (4) **Payments for education and services for Indian children with disabilities aged 3 through 5**
 
-  (A) *In general* — With funds appropriated under subsection (i), the Secretary of Education shall make payments to the Secretary of the Interior to be distributed to tribes or tribal organizations (as defined under [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)) or consortia of tribes or tribal organizations to provide for the coordination of assistance for special education and related services for children with disabilities aged 3 through 5 on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payments under subparagraph (B) for any fiscal year shall be equal to 20 percent of the amount allotted under subsection (b)(2).
+  (A) *In general* — With funds appropriated under subsection (i), the Secretary of Education shall make payments to the Secretary of the Interior to be distributed to tribes or tribal organizations (as defined under [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)) or consortia of tribes or tribal organizations to provide for the coordination of assistance for special education and related services for children with disabilities aged 3 through 5 on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payments under subparagraph (B) for any fiscal year shall be equal to 20 percent of the amount allotted under subsection (b)(2).
 
   (B) *Distribution of funds* — The Secretary of the Interior shall distribute the total amount of the payment under subparagraph (A) by allocating to each tribe, tribal organization, or consortium an amount based on the number of children with disabilities aged 3 through 5 residing on reservations as reported annually, divided by the total of those children served by all tribes or tribal organizations.
 
@@ -1010,15 +989,27 @@ A prior section 1411, Pub. L. 91–230, title VI, § 611, as added Pub. L. 105�
 
 Another prior section 1411, Pub. L. 91–230, title VI, § 611, Apr. 13, 1970, 84 Stat. 178; Pub. L. 93–380, title VI, § 614(a), (e)(1), (2), Aug. 21, 1974, 88 Stat. 580, 582; Pub. L. 94–142, §§ 2(a)(1)–(3), 5(a), (c), Nov. 29, 1975, 89 Stat. 773, 776, 794; Pub. L. 95–561, title XIII, § 1341(a), Nov. 1, 1978, 92 Stat. 2364; Pub. L. 96–270, § 13, June 14, 1980, 94 Stat. 498; Pub. L. 98–199, §§ 3(b), 15, Dec. 2, 1983, 97 Stat. 1358, 1374; Pub. L. 99–159, title VI, § 601, Nov. 22, 1985, 99 Stat. 904; Pub. L. 99–362, § 2, July 9, 1986, 100 Stat. 769; Pub. L. 99–457, title II, § 201(b), title IV, §§ 403, 404, Oct. 8, 1986, 100 Stat. 1158, 1173; Pub. L. 100–630, title I, § 102(a), Nov. 7, 1988, 102 Stat. 3290; Pub. L. 101–476, title II, § 201, title IX, § 901(b)(25)–(32), Oct. 30, 1990, 104 Stat. 1111, 1143; Pub. L. 102–73, title VIII, § 802(d)(2), (3), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§ 4, 25(a)(4), (19), (b), Oct. 7, 1991, 105 Stat. 587, 606, 607; Pub. L. 103–382, title III, § 311, Oct. 20, 1994, 108 Stat. 3931, related to entitlements and allocations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
+#### Amendments
+2015—Subsec. (e)(2)(C)(x). Pub. L. 114–95, § 9215(ss)(2)(A)(i), substituted “6361 of this title” for “7301 of this title”.
+
+Subsec. (e)(2)(C)(xi). Pub. L. 114–95, § 9215(ss)(2)(A)(ii), substituted “including direct student services described in [section 6303b(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6303b/c/3&num=0&edition=prelim) to children with disabilities, to schools or local educational agencies implementing comprehensive support and improvement activities or targeted support and improvement activities under [section 6311(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/d&num=0&edition=prelim) on the basis of consistent underperformance of the disaggregated subgroup of children with disabilities” for “including supplemental educational services as defined in 6316(e) of this title to children with disabilities, in schools or local educational agencies identified for improvement under [section 6316 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6316&num=0&edition=prelim) on the sole basis of the assessment results of the disaggregated subgroup of children with disabilities” and “based on the challenging academic standards described in [section 6311(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1&num=0&edition=prelim)” for “to meet or exceed the objectives established by the State under [section 6311(b)(2)(G) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/G&num=0&edition=prelim)”.
+
+Subsec. (e)(3)(C)(ii)(I)(bb). Pub. L. 114–95, § 9215(ss)(2)(B), made technical amendment to reference in original act which appears in text as reference to [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
+
 #### Effective Date
 Subchapter effective July 1, 2005, see section 302(a) of Pub. L. 108–446, set out as a note under [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400).
 
 #### Effect of Reduction
-Pub. L. 113–235, div. G, title III, Dec. 16, 2014, 128 Stat. 2499, provided in part: “That the Secretary may, in any fiscal year in which a State’s allocation under section 611 [[20 U.S.C. 1411](./chapter-033-education-of-individuals-with-disabilities.md#section-1411)] is reduced in accordance with section 612(a)(18)(B) [[20 U.S.C. 1412(a)(18)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/18/B&num=0&edition=prelim)], reduce the amount a State may reserve under section 611(e)(1) [[20 U.S.C. 1411(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/e/1&num=0&edition=prelim)] by an amount that bears the same relation to the maximum amount described in that paragraph as the reduction under section 612(a)(18)(B) bears to the total allocation the State would have received in that fiscal year under section 611(d) [[20 U.S.C. 1411(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/d&num=0&edition=prelim)] in the absence of the reduction: Provided further, That the Secretary shall either reduce the allocation of funds under section 611 for any fiscal year following the fiscal year for which the State fails to comply with the requirement of section 612(a)(18)(A) [[20 U.S.C. 1412(a)(18)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/18/A&num=0&edition=prelim)] as authorized by section 612(a)(18)(B), or seek to recover funds under section 452 of the General Education Provisions Act ([20 U.S.C. 1234a](./chapter-031-general-provisions-concerning-education.md#section-1234a))”.
+Pub. L. 114–113, div. H, title III, Dec. 18, 2015, 129 Stat. 2633, provided in part: “That the Secretary [of Education] may, in any fiscal year in which a State’s allocation under section 611 [[20 U.S.C. 1411](./chapter-033-education-of-individuals-with-disabilities.md#section-1411)] is reduced in accordance with section 612(a)(18)(B) [[20 U.S.C. 1412(a)(18)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/18/B&num=0&edition=prelim)], reduce the amount a State may reserve under section 611(e)(1) [[20 U.S.C. 1411(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/e/1&num=0&edition=prelim)] by an amount that bears the same relation to the maximum amount described in that paragraph as the reduction under section 612(a)(18)(B) bears to the total allocation the State would have received in that fiscal year under section 611(d) [[20 U.S.C. 1411(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/d&num=0&edition=prelim)] in the absence of the reduction: Provided further, That the Secretary shall either reduce the allocation of funds under section 611 for any fiscal year following the fiscal year for which the State fails to comply with the requirement of section 612(a)(18)(A) [[20 U.S.C. 1412(a)(18)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/18/A&num=0&edition=prelim)] as authorized by section 612(a)(18)(B), or seek to recover funds under section 452 of the General Education Provisions Act ([20 U.S.C. 1234a](./chapter-031-general-provisions-concerning-education.md#section-1234a))”.
 
-Pub. L. 113–235, div. G, title III, Dec. 16, 2014, 128 Stat. 2499, provided in part: “That the amount by which a State’s allocation under section 611(d) of the IDEA [Individuals with Disabilities Education Act, [20 U.S.C. 1411(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/d&num=0&edition=prelim)] is reduced under section 612(a)(18)(B) [[20 U.S.C. 1412(a)(18)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/18/B&num=0&edition=prelim)] and the amounts distributed to States under the previous provisos in fiscal year 2012 or any subsequent year shall not be considered in calculating the awards under section 611(d) for fiscal year 2013 or for any subsequent fiscal years”.
+Pub. L. 114–113, div. H, title III, Dec. 18, 2015, 129 Stat. 2633, provided in part: “That the amount by which a State’s allocation under section 611(d) of the IDEA [Individuals with Disabilities Education Act, [20 U.S.C. 1411(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/d&num=0&edition=prelim)] is reduced under section 612(a)(18)(B) [[20 U.S.C. 1412(a)(18)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/18/B&num=0&edition=prelim)] and the amounts distributed to States under the previous provisos in fiscal year 2012 or any subsequent year shall not be considered in calculating the awards under section 611(d) for fiscal year 2013 or for any subsequent fiscal years”.
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. G, title III, Dec. 16, 2014, 128 Stat. 2499.
 
 Pub. L. 113–76, div. H, title III, Jan. 17, 2014, 128 Stat. 394.
 
@@ -1233,11 +1224,17 @@ Pub. L. 113–76, div. H, title III, Jan. 17, 2014, 128 Stat. 394.
 
     (iii) allow paraprofessionals and assistants who are appropriately trained and supervised, in accordance with State law, regulation, or written policy, in meeting the requirements of this subchapter to be used to assist in the provision of special education and related services under this subchapter to children with disabilities.
 
-  (C) *Qualifications for special education teachers* — The qualifications described in subparagraph (A) shall ensure that each person employed as a special education teacher in the State who teaches elementary school, middle school, or secondary school is highly qualified by the deadline established in [section 6319(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6319/a/2&num=0&edition=prelim).
+  (C) *Qualifications for special education teachers* — The qualifications described in subparagraph (A) shall ensure that each person employed as a special education teacher in the State who teaches elementary school, middle school, or secondary school—
 
-  (D) *Policy* — In implementing this section, a State shall adopt a policy that includes a requirement that local educational agencies in the State take measurable steps to recruit, hire, train, and retain highly qualified personnel to provide special education and related services under this subchapter to children with disabilities.
+    (i) has obtained full State certification as a special education teacher (including participating in an alternate route to certification as a special educator, if such alternate route meets minimum requirements described in section 2005.56(a)(2)(ii) of title 34, Code of Federal Regulations, as such section was in effect on November 28, 2008), or passed the State special education teacher licensing examination, and holds a license to teach in the State as a special education teacher, except with respect to any teacher teaching in a public charter school who shall meet the requirements set forth in the State’s public charter school law;
 
-  (E) *Rule of construction* — Notwithstanding any other individual right of action that a parent or student may maintain under this subchapter, nothing in this paragraph shall be construed to create a right of action on behalf of an individual student for the failure of a particular State educational agency or local educational agency staff person to be highly qualified, or to prevent a parent from filing a complaint about staff qualifications with the State educational agency as provided for under this subchapter.
+    (ii) has not had special education certification or licensure requirements waived on an emergency, temporary, or provisional basis; and
+
+    (iii) holds at least a bachelor’s degree..11 So in original.
+
+  (D) *Policy* — In implementing this section, a State shall adopt a policy that includes a requirement that local educational agencies in the State take measurable steps to recruit, hire, train, and retain personnel who meet the applicable requirements described in this paragraph to provide special education and related services under this subchapter to children with disabilities.
+
+  (E) *Rule of construction* — Notwithstanding any other individual right of action that a parent or student may maintain under this subchapter, nothing in this paragraph shall be construed to create a right of action on behalf of an individual student for the failure of a particular State educational agency or local educational agency staff person to meet the applicable requirements described in this paragraph, or to prevent a parent from filing a complaint about staff qualifications with the State educational agency as provided for under this subchapter.
 
 (15) **Performance goals and indicators** — The State—
 
@@ -1245,13 +1242,13 @@ Pub. L. 113–76, div. H, title III, Jan. 17, 2014, 128 Stat. 394.
 
     (i) promote the purposes of this chapter, as stated in [section 1400(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400/d&num=0&edition=prelim);
 
-    (ii) are the same as the State’s definition of adequate yearly progress, including the State’s objectives for progress by children with disabilities, under [section 6311(b)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/C&num=0&edition=prelim);
+    (ii) are the same as the State’s long-term goals and measurements of interim progress for children with disabilities under [section 6311(c)(4)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/c/4/A/i&num=0&edition=prelim);
 
     (iii) address graduation rates and dropout rates, as well as such other factors as the State may determine; and
 
     (iv) are consistent, to the extent appropriate, with any other goals and standards for children established by the State;
 
-  (B) has established performance indicators the State will use to assess progress toward achieving the goals described in subparagraph (A), including measurable annual objectives for progress by children with disabilities under [section 6311(b)(2)(C)(v)(II)(cc) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/C/v/II/cc&num=0&edition=prelim); and
+  (B) has established performance indicators the State will use to assess progress toward achieving the goals described in subparagraph (A), including measurements of interim progress for children with disabilities under [section 6311(c)(4)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/c/4/A/i&num=0&edition=prelim); and
 
   (C) will annually report to the Secretary and the public on the progress of the State, and of children with disabilities in the State, toward meeting the goals established under subparagraph (A), which may include elements of the reports required under [section 6311(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/h&num=0&edition=prelim).
 
@@ -1267,9 +1264,9 @@ Pub. L. 113–76, div. H, title III, Jan. 17, 2014, 128 Stat. 394.
 
     (ii) *Requirements for alternate assessments* — The guidelines under clause (i) shall provide for alternate assessments that—
 
-      (I) are aligned with the State’s challenging academic content standards and challenging student academic achievement standards; and
+      (I) are aligned with the challenging State academic content standards under [section 6311(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1&num=0&edition=prelim) and alternate academic achievement standards under [section 6311(b)(1)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1/E&num=0&edition=prelim); and
 
-      (II) if the State has adopted alternate academic achievement standards permitted under the regulations promulgated to carry out [section 6311(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1&num=0&edition=prelim), measure the achievement of children with disabilities against those standards.
+      (II) if the State has adopted alternate academic achievement standards permitted under [section 6311(b)(1)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1/E&num=0&edition=prelim), measure the achievement of children with disabilities against those standards.
 
     (iii) *Conduct of alternate assessments* — The State conducts the alternate assessments described in this subparagraph.
 
@@ -1461,6 +1458,24 @@ A prior section 1412, Pub. L. 91–230, title VI, § 612, as added Pub. L. 105�
 
 Another prior section 1412, Pub. L. 91–230, title VI, § 612, Apr. 13, 1970, 84 Stat. 178; Pub. L. 92–318, title IV, § 421(b)(1)(C), June 23, 1972, 86 Stat. 341; Pub. L. 93–380, title VI, §§ 614(b), (f)(1), 615(a), title VIII, § 843(b), Aug. 21, 1974, 88 Stat. 581, 582, 611; Pub. L. 94–142, §§ 2(a)(4), (c), (d), 5(a), Nov. 29, 1975, 89 Stat. 773, 774, 780; Pub. L. 98–199, § 3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 99–457, title II, § 203(a), Oct. 8, 1986, 100 Stat. 1158; Pub. L. 100–630, title I, § 102(b), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, title IX, § 901(b)(33)–(46), (c), Oct. 30, 1990, 104 Stat. 1143, 1144, 1151; Pub. L. 102–119, § 25(a)(5), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to eligibility requirements, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
+#### Amendments
+2015—Subsec. (a)(14)(C). Pub. L. 114–95, § 9214(d)(2)(A), substituted “secondary school—” for “secondary school is highly qualified by the deadline established in [section 6319(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6319/a/2&num=0&edition=prelim)” and added cls. (i) to (iii).
+
+Subsec. (a)(14)(D). Pub. L. 114–95, § 9214(d)(2)(B), substituted “personnel who meet the applicable requirements described in this paragraph” for “highly qualified personnel”.
+
+Subsec. (a)(14)(E). Pub. L. 114–95, § 9214(d)(2)(C), substituted “staff person to meet the applicable requirements described in this paragraph” for “staff person to be highly qualified”.
+
+Subsec. (a)(15)(A)(ii). Pub. L. 114–95, § 9215(ss)(3)(A)(i), added cl. (ii) and struck out former cl. (ii) which read as follows: “are the same as the State’s definition of adequate yearly progress, including the State’s objectives for progress by children with disabilities, under [section 6311(b)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/C&num=0&edition=prelim);”.
+
+Subsec. (a)(15)(B). Pub. L. 114–95, § 9215(ss)(3)(A)(ii), which directed substitution of “including measurements of interim progress for children with disabilities under section 6311(c)(4)(A)(i)” for “including measurable annual objectives for progress by children with disabilities under section 6311(b)(2)(C)(v)(II)”, was executed by making the substitution for “including measurable annual objectives for progress by children with disabilities under section 6311(b)(2)(C)(v)(II)(cc)”, to reflect the probable intent of Congress.
+
+Subsec. (a)(16)(C)(ii)(I). Pub. L. 114–95, § 9215(ss)(3)(B)(i), substituted “challenging State academic content standards under [section 6311(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1&num=0&edition=prelim) and alternate academic achievement standards under [section 6311(b)(1)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1/E&num=0&edition=prelim)” for “State’s challenging academic content standards and challenging student academic achievement standards”.
+
+Subsec. (a)(16)(C)(ii)(II). Pub. L. 114–95, § 9215(ss)(3)(B)(ii), substituted “[section 6311(b)(1)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1/E&num=0&edition=prelim),” for “the regulations promulgated to carry out [section 6311(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1&num=0&edition=prelim),”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
+
 
 <a id="section-1413"></a>
 ## § 1413. Local educational agency eligibility
@@ -1514,7 +1529,7 @@ Another prior section 1412, Pub. L. 91–230, title VI, § 612, Apr. 13, 1970, 8
 
       (II) the number of children with disabilities in the jurisdiction of that agency.
 
-(3) **Personnel development** — The local educational agency shall ensure that all personnel necessary to carry out this subchapter are appropriately and adequately prepared, subject to the requirements of [section 1412(a)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14&num=0&edition=prelim) and section 2122 of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6622](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6622)].
+(3) **Personnel development** — The local educational agency shall ensure that all personnel necessary to carry out this subchapter are appropriately and adequately prepared, subject to the requirements of [section 1412(a)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14&num=0&edition=prelim) and section 2102(b) of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6612(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6612/b&num=0&edition=prelim)].
 
 (4) **Permissive use of funds**
 
@@ -1660,6 +1675,12 @@ A prior section 1413, Pub. L. 91–230, title VI, § 613, as added Pub. L. 105�
 
 Another prior section 1413, Pub. L. 91–230, title VI, § 613, Apr. 13, 1970, 84 Stat. 179; Pub. L. 93–380, title VI, §§ 614(c), (d), 615(b), (c), title VIII, § 843(b)(2), Aug. 21, 1974, 88 Stat. 581, 583, 611; Pub. L. 94–142, § 5(a), Nov. 29, 1975, 89 Stat. 782; Pub. L. 98–199, §§ 3(b), 7, Dec. 2, 1983, 97 Stat. 1358, 1359; Pub. L. 99–457, title II, § 203(b), title IV, § 405, Oct. 8, 1986, 100 Stat. 1159, 1174; Pub. L. 100–630, title I, § 102(c), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, title II, § 202, title IX, § 901(b)(47)–(58), Oct. 30, 1990, 104 Stat. 1111, 1144; Pub. L. 102–119, §§ 5, 25(a)(6), (b), Oct. 7, 1991, 105 Stat. 591, 606, 607; Pub. L. 103–382, title III, § 391(f)(2), Oct. 20, 1994, 108 Stat. 4023, related to requisite features of a State plan, approval of State plan by Secretary, and participation of children with disabilities enrolled in private schools, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
+#### Amendments
+2015—Subsec. (a)(3). Pub. L. 114–95 substituted “subject to the requirements of [section 1412(a)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14&num=0&edition=prelim) and section 2102(b) of the Elementary and Secondary Education Act of 1965” for “subject to the requirements of [section 1412(a)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14&num=0&edition=prelim) and section 2122 of the Elementary and Secondary Education Act of 1965”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
+
 
 <a id="section-1414"></a>
 ## § 1414. Evaluations, eligibility determinations, individualized education programs, and educational placements
@@ -1777,7 +1798,7 @@ Another prior section 1413, Pub. L. 91–230, title VI, § 613, Apr. 13, 1970, 8
 
 (5) **Special rule for eligibility determination** — In making a determination of eligibility under paragraph (4)(A), a child shall not be determined to be a child with a disability if the determinant factor for such determination is—
 
-  (A) lack of appropriate instruction in reading, including in the essential components of reading instruction (as defined in [section 6368(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6368/3&num=0&edition=prelim));
+  (A) lack of appropriate instruction in reading, including in the essential components of reading instruction (as defined in [section 6368(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6368/3&num=0&edition=prelim), as such section was in effect on the day before December 10, 2015);
 
   (B) lack of instruction in math; or
 
@@ -2077,12 +2098,21 @@ Another prior section 1413, Pub. L. 91–230, title VI, § 613, Apr. 13, 1970, 8
 
 ### Statutory Notes
 
+#### References in Text
+[Section 6368(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6368/3&num=0&edition=prelim), as such section was in effect on the day before December 10, 2015, referred to in subsec. (b)(5)(A), means [section 6368(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6368/3&num=0&edition=prelim) prior to being omitted in the general amendment of part B of subchapter I of chapter 70 of this title by Pub. L. 114–95, title I, § 1201, Dec. 10, 2015, 129 Stat. 1879.
+
 #### Prior Provisions
 A prior section 1414, Pub. L. 91–230, title VI, § 614, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 81, related to evaluations, eligibility determinations, individualized education programs, and educational placements, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1414, Pub. L. 91–230, title VI, § 614, Apr. 13, 1970, 84 Stat. 181; Pub. L. 94–142, § 5(a), Nov. 29, 1975, 89 Stat. 784; Pub. L. 98–199, § 3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 100–630, title I, § 102(d), Nov. 7, 1988, 102 Stat. 3293; Pub. L. 101–476, title IX, § 901(b)(59)–(70), Oct. 30, 1990, 104 Stat. 1144, 1145; Pub. L. 102–119, §§ 6, 25(b), Oct. 7, 1991, 105 Stat. 591, 607, related to requisite features of an application, approval of application by State educational agency, consolidated applications of local educational agencies, and provision of special education and related services directly to children with disabilities in areas not served by local educational agency, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 A prior section 1414a, Pub. L. 91–230, title VI, § 614A, as added Pub. L. 103–382, title III, § 312, Oct. 20, 1994, 108 Stat. 3934, which related to treatment of State agencies that received funds for fiscal year 1994 under subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (as in existence on the day preceding Oct. 20, 1994), was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+
+#### Amendments
+2015—Subsec. (b)(5)(A). Pub. L. 114–95 inserted “, as such section was in effect on the day before December 10, 2015” after “of this title”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 
 <a id="section-1415"></a>
@@ -3715,7 +3745,7 @@ Another prior section 1442, Pub. L. 91–230, title VI, § 642, Apr. 13, 1970, 8
 
 **(b) Payments to Indians**
 
-(1) **In general** — The Secretary shall, subject to this subsection, make payments to the Secretary of the Interior to be distributed to tribes, tribal organizations (as defined under [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)), or consortia of the above entities for the coordination of assistance in the provision of early intervention services by the States to infants and toddlers with disabilities and their families on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payment for any fiscal year shall be 1.25 percent of the aggregate of the amount available to all States under this subchapter for such fiscal year.
+(1) **In general** — The Secretary shall, subject to this subsection, make payments to the Secretary of the Interior to be distributed to tribes, tribal organizations (as defined under [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)), or consortia of the above entities for the coordination of assistance in the provision of early intervention services by the States to infants and toddlers with disabilities and their families on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payment for any fiscal year shall be 1.25 percent of the aggregate of the amount available to all States under this subchapter for such fiscal year.
 
 (2) **Allocation** — For each fiscal year, the Secretary of the Interior shall distribute the entire payment received under paragraph (1) by providing to each tribe, tribal organization, or consortium an amount based on the number of infants and toddlers residing on the reservation, as determined annually, divided by the total of such children served by all tribes, tribal organizations, or consortia.
 
@@ -4029,7 +4059,7 @@ Pub. L. 105–17, title II, § 202, June 4, 1997, 111 Stat. 156, provided that: 
 
   (D) the alignment of proposed activities with [section 1412(a)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14&num=0&edition=prelim);
 
-  (E) the alignment of proposed activities with the State plans and applications submitted under sections 6311 and 6612, respectively, of this title; and
+  (E) the alignment of proposed activities with the State plans and applications submitted under sections 6311 and 6611(d) 11 So in original. Probably should be followed by a comma. respectively, of this title; and
 
   (F) the use, as appropriate, of scientifically based research activities.
 
@@ -4063,6 +4093,12 @@ Pub. L. 105–17, title II, § 202, June 4, 1997, 111 Stat. 156, provided that: 
 A prior section 1451, Pub. L. 91–230, title VI, § 651, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 123, related to the findings and purposes of part A of former subchapter IV of this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1451, Pub. L. 91–230, title VI, § 651, Apr. 13, 1970, 84 Stat. 186; Pub. L. 100–630, title I, § 106(b), Nov. 7, 1988, 102 Stat. 3300; Pub. L. 101–476, title VI, § 601, title IX, § 901(b)(150), Oct. 30, 1990, 104 Stat. 1138, 1149; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to the purposes of former subchapter VI of this chapter, which included promoting general welfare of deaf and hard of hearing individuals and visually impaired individuals and educational advancement of individuals with disabilities, prior to repeal by Pub. L. 105–17, title II, § 203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
+
+#### Amendments
+2015—Subsec. (c)(5)(E). Pub. L. 114–95 substituted “and 6611(d)” for “and 6612,”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Effective Date
 Part effective July 1, 2005, see section 302(a) of Pub. L. 108–446, set out as a note under [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400).
@@ -4140,7 +4176,7 @@ Another prior section 1452, Pub. L. 91–230, title VI, § 652, Apr. 13, 1970, 8
 
     (ii) the number of preservice and inservice programs; and
 
-  (C) is integrated and aligned, to the maximum extent possible, with State plans and activities under the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.], the Rehabilitation Act of 1973 [[29 U.S.C. 701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) et seq.], and the Higher Education Act of 1965 [[20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq., [42 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751&num=0&edition=prelim) et seq.].
+  (C) is integrated and aligned, to the maximum extent possible, with State plans and activities under the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.], the Rehabilitation Act of 1973 [[29 U.S.C. 701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) et seq.], and the Higher Education Act of 1965 [[20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.].
 
 (3) **Requirement** — The State application shall contain an assurance that the State educational agency will carry out each of the strategies described in subsection (b)(4).
 
@@ -4154,7 +4190,7 @@ Another prior section 1452, Pub. L. 91–230, title VI, § 652, Apr. 13, 1970, 8
 
 (2) describe how the strategies and activities described in paragraph (4) will be coordinated with activities supported with other public resources (including part B [subchapter II] and part C [subchapter III] funds retained for use at the State level for personnel and professional development purposes) and private resources;
 
-(3) describe how the State educational agency will align its personnel development plan under this part with the plan and application submitted under sections 1111 and 2112, respectively, of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6311](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6311), 6612];
+(3) describe how the State educational agency will align its personnel development plan under this part with the plan and application submitted under sections 1111 and 2101(d), respectively, of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6311](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6311), 6611(d)];
 
 (4) describe those strategies the State educational agency will use to address the professional development and personnel needs identified under subsection (a)(2) and how such strategies will be implemented, including—
 
@@ -4166,9 +4202,9 @@ Another prior section 1452, Pub. L. 91–230, title VI, § 652, Apr. 13, 1970, 8
 
 (6) provide an assurance that the State educational agency will provide technical assistance to entities that provide services to infants and toddlers with disabilities to improve the quality of professional development available to meet the needs of personnel serving such children;
 
-(7) describe how the State educational agency will recruit and retain highly qualified teachers and other qualified personnel in geographic areas of greatest need;
+(7) describe how the State educational agency will recruit and retain teachers who meet the qualifications described in [section 1412(a)(14)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14/C&num=0&edition=prelim) and other qualified personnel in geographic areas of greatest need;
 
-(8) describe the steps the State educational agency will take to ensure that poor and minority children are not taught at higher rates by teachers who are not highly qualified; and
+(8) describe the steps the State educational agency will take to ensure that poor and minority children are not taught at higher rates by teachers who do not meet the qualifications described in [section 1412(a)(14)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14/C&num=0&edition=prelim); and
 
 (9) describe how the State educational agency will assess, on a regular basis, the extent to which the strategies implemented under this part have been effective in meeting the performance goals described in [section 1412(a)(15) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/15&num=0&edition=prelim).
 
@@ -4195,12 +4231,22 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2
 
 The Rehabilitation Act of 1973, referred to in subsec. (a)(2)(C), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (a)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
 
 #### Prior Provisions
 A prior section 1453, Pub. L. 91–230, title VI, § 653, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 125, related to grant applications, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1453, Pub. L. 91–230, title VI, § 653, Apr. 13, 1970, 84 Stat. 187; Pub. L. 94–142, § 6(b), Nov. 29, 1975, 89 Stat. 795; Pub. L. 99–386, title II, § 204, Aug. 22, 1986, 100 Stat. 823, related to establishment and operation of centers on educational media and materials for handicapped, prior to repeal by Pub. L. 99–457, title III, § 316, Oct. 8, 1986, 100 Stat. 1171.
+
+#### Amendments
+2015—Subsec. (b)(3). Pub. L. 114–95, § 9215(ss)(7), substituted “and 2101(d),” for “and 2112,”.
+
+Subsec. (b)(7). Pub. L. 114–95, § 9214(d)(3)(A), substituted “teachers who meet the qualifications described in [section 1412(a)(14)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14/C&num=0&edition=prelim)” for “highly qualified teachers”.
+
+Subsec. (b)(8). Pub. L. 114–95, § 9214(d)(3)(B), substituted “teachers who do not meet the qualifications described in [section 1412(a)(14)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14/C&num=0&edition=prelim)” for “teachers who are not highly qualified”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 
 <a id="section-1455"></a>
@@ -4211,7 +4257,7 @@ Another prior section 1453, Pub. L. 91–230, title VI, § 653, Apr. 13, 1970, 8
 
   (A) provide teacher mentoring, team teaching, reduced class schedules and case loads, and intensive professional development;
 
-  (B) use standards or assessments for guiding beginning teachers that are consistent with challenging State student academic achievement and functional standards and with the requirements for professional development, as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801); and
+  (B) use standards or assessments for guiding beginning teachers that are consistent with challenging State academic achievement standards and with the requirements for professional development, as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801); and
 
   (C) encourage collaborative and consultative models of providing early intervention, special education, and related services.
 
@@ -4261,7 +4307,7 @@ Another prior section 1453, Pub. L. 91–230, title VI, § 653, Apr. 13, 1970, 8
 
   (D) train early intervention, preschool, and related services providers, and other relevant school personnel, in conducting effective individualized family service plan (IFSP) meetings.
 
-(4) Developing and implementing initiatives to promote the recruitment and retention of highly qualified special education teachers, particularly initiatives that have been proven effective in recruiting and retaining highly qualified teachers, including programs that provide—
+(4) Developing and implementing initiatives to promote the recruitment and retention of special education teachers who meet the qualifications described in [section 1412(a)(14)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14/C&num=0&edition=prelim), particularly initiatives that have been proven effective in recruiting and retaining teachers, including programs that provide—
 
   (A) teacher mentoring from exemplary special education teachers, principals, or superintendents;
 
@@ -4297,11 +4343,11 @@ Another prior section 1453, Pub. L. 91–230, title VI, § 653, Apr. 13, 1970, 8
 
   (C) special education and regular education teachers have the subject matter knowledge and teaching skills, including technology literacy, necessary to help students with disabilities meet challenging State student academic achievement and functional standards.
 
-(2) Programs that establish, expand, or improve alternative routes for State certification of special education teachers for highly qualified individuals with a baccalaureate or master’s degree, including mid-career professionals from other occupations, paraprofessionals, and recent college or university graduates with records of academic distinction who demonstrate the potential to become highly effective special education teachers.
+(2) Programs that establish, expand, or improve alternative routes for State certification of special education teachers for individuals with a baccalaureate or master’s degree who meet the qualifications described in [section 1412(a)(14)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14/C&num=0&edition=prelim), including mid-career professionals from other occupations, paraprofessionals, and recent college or university graduates with records of academic distinction who demonstrate the potential to become highly effective special education teachers.
 
 (3) Teacher advancement initiatives for special education teachers that promote professional growth and emphasize multiple career paths (such as paths to becoming a career teacher, mentor teacher, or exemplary teacher) and pay differentiation.
 
-(4) Developing and implementing mechanisms to assist local educational agencies and schools in effectively recruiting and retaining highly qualified special education teachers.
+(4) Developing and implementing mechanisms to assist local educational agencies and schools in effectively recruiting and retaining special education teachers who meet the qualifications described in [section 1412(a)(14)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14/C&num=0&edition=prelim).
 
 (5) Reforming tenure systems, implementing teacher testing for subject matter knowledge, and implementing teacher testing for State certification or licensing, consistent with title II of the Higher Education Act of 1965 [[20 U.S.C. 1021](./chapter-028-higher-education-resources-and-student-assistance.md#section-1021) et seq.].
 
@@ -4313,7 +4359,7 @@ Another prior section 1453, Pub. L. 91–230, title VI, § 653, Apr. 13, 1970, 8
 
 (9) Supporting activities that ensure that teachers are able to use challenging State academic content standards and student academic achievement and functional standards, and State assessments for all children with disabilities, to improve instructional practices and improve the academic achievement of children with disabilities.
 
-(10) When applicable, coordinating with, and expanding centers established under, [section 6613(c)(18) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6613/c/18&num=0&edition=prelim) to benefit special education teachers.
+(10) When applicable, coordinating with, and expanding centers established under, [section 6613(c)(18) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6613/c/18&num=0&edition=prelim) (as such section was in effect on the day before December 10, 2015) to benefit special education teachers.
 
 **(c) Contracts and subgrants** A State educational agency that receives a grant under this part—
 
@@ -4332,7 +4378,11 @@ Another prior section 1453, Pub. L. 91–230, title VI, § 653, Apr. 13, 1970, 8
 ### Statutory Notes
 
 #### References in Text
+[Section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801), referred to in subsec. (a)(1)(B), was in the original “section 8101 of such Act”, which was translated as meaning section 8101 of the Elementary and Secondary Education Act of 1965, to reflect the probable intent of Congress.
+
 The Higher Education Act of 1965, referred to in subsec. (b)(5), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title II of the Act is classified generally to subchapter II (§ 1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
+
+[Section 6613(c)(18) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6613/c/18&num=0&edition=prelim) (as such section was in effect on the day before December 10, 2015), referred to in subsec. (b)(10), means [section 6613(c)(18) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6613/c/18&num=0&edition=prelim) prior to repeal by Pub. L. 114–95, title II, § 2002, Dec. 10, 2015, 129 Stat. 1913. Section 2002 of Pub. L. 114–95 enacted a new [section 6613 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6613).
 
 Public Law 95–134, referred to in subsec. (e), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended. Provisions relating to consolidation of grants to the outlying areas are contained in section 501 of Pub. L. 95–134 which is classified to [section 1469a of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1469a&num=0&edition=prelim), Territories and Insular Possessions.
 
@@ -4340,6 +4390,22 @@ Public Law 95–134, referred to in subsec. (e), is Pub. L. 95–134, Oct. 15, 1
 A prior section 1454, Pub. L. 91–230, title VI, § 654, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 128, related to use of funds, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1454, Pub. L. 91–230, title VI, § 653, formerly § 654, Apr. 13, 1970, 84 Stat. 187; Pub. L. 93–380, title VI, § 620(2), Aug. 21, 1974, 88 Stat. 585; Pub. L. 95–49, § 6, June 17, 1977, 91 Stat. 231; Pub. L. 98–199, § 13, Dec. 2, 1983, 97 Stat. 1374; renumbered § 653 and amended Pub. L. 99–457, title III, § 316, Oct. 8, 1986, 100 Stat. 1171; Pub. L. 101–476, title VI, § 603, Oct. 30, 1990, 104 Stat. 1140, authorized appropriations, prior to repeal by Pub. L. 105–17, title II, § 203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
+
+#### Amendments
+2015—Subsec. (a)(1)(B). Pub. L. 114–95, § 9215(ss)(8)(A)(i), substituted “challenging State academic achievement standards and with the requirements for professional development, as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)” for “challenging State student academic achievement and functional standards and with the requirements for professional development, as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)”.
+
+Subsec. (a)(4). Pub. L. 114–95, § 9214(d)(4)(A), substituted “special education teachers who meet the qualifications described in [section 1412(a)(14)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14/C&num=0&edition=prelim), particularly initiatives that have been proven effective in recruiting and retaining teachers” for “highly qualified special education teachers, particularly initiatives that have been proven effective in recruiting and retaining highly qualified teachers” in introductory provisions.
+
+Subsec. (a)(5)(A). Pub. L. 114–95, § 9215(ss)(8)(A)(ii), made technical amendment to reference in original act which appears in text as reference to [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
+
+Subsec. (b)(2). Pub. L. 114–95, § 9214(d)(4)(B)(i), substituted “certification of special education teachers for individuals with a baccalaureate or master’s degree who meet the qualifications described in [section 1412(a)(14)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14/C&num=0&edition=prelim)” for “certification of special education teachers for highly qualified individuals with a baccalaureate or master’s degree”.
+
+Subsec. (b)(4). Pub. L. 114–95, § 9214(d)(4)(B)(ii), substituted “special education teachers who meet the qualifications described in [section 1412(a)(14)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14/C&num=0&edition=prelim)” for “highly qualified special education teachers”.
+
+Subsec. (b)(10). Pub. L. 114–95, § 9215(ss)(8)(B), inserted “(as such section was in effect on the day before December 10, 2015)” after “of this title”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 
 <a id="section-1461"></a>
@@ -4381,7 +4447,7 @@ A prior section 1456, Pub. L. 91–230, title VI, § 656, as added Pub. L. 105�
 
   (G) an outlying area;
 
-  (H) an Indian tribe or a tribal organization (as defined under [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)); or
+  (H) an Indian tribe or a tribal organization (as defined under [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)); or
 
   (I) a for-profit organization, if the Secretary finds it appropriate in light of the purposes of a particular competition for a grant, contract, or cooperative agreement under this part.
 
@@ -4401,7 +4467,7 @@ Another prior section 1461, Pub. L. 91–230, title VI, § 661, Apr. 13, 1970, 8
 ## § 1463. Personnel development to improve services and results for children with disabilities
 **(a) In general** The Secretary, on a competitive basis, shall award grants to, or enter into contracts or cooperative agreements with, eligible entities to carry out 1 or more of the following objectives:
 
-(1) To help address the needs identified in the State plan described in [section 1453(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1453/a/2&num=0&edition=prelim) for highly qualified personnel, as defined in [section 1451(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1451/b&num=0&edition=prelim), to work with infants or toddlers with disabilities, or children with disabilities, consistent with the qualifications described in [section 1412(a)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14&num=0&edition=prelim).
+(1) To help address the needs identified in the State plan described in [section 1453(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1453/a/2&num=0&edition=prelim) for personnel, as defined in [section 1451(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1451/b&num=0&edition=prelim), who meet the applicable requirements described in [section 1412(a)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14&num=0&edition=prelim), to work with infants or toddlers with disabilities, or children with disabilities, consistent with the qualifications described in [section 1412(a)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14&num=0&edition=prelim).
 
 (2) To ensure that those personnel have the necessary skills and knowledge, derived from practices that have been determined, through scientifically based research, to be successful in serving those children.
 
@@ -4409,7 +4475,7 @@ Another prior section 1461, Pub. L. 91–230, title VI, § 661, Apr. 13, 1970, 8
 
 (4) To ensure that regular education teachers have the necessary skills and knowledge to provide instruction to students with disabilities in the regular education classroom.
 
-(5) To ensure that all special education teachers are highly qualified.
+(5) To ensure that all special education teachers meet the qualifications described in [section 1412(a)(14)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14/C&num=0&edition=prelim).
 
 (6) To ensure that preservice and in-service personnel preparation programs include training in—
 
@@ -4463,9 +4529,9 @@ Another prior section 1461, Pub. L. 91–230, title VI, § 661, Apr. 13, 1970, 8
 
     (vii) preparing children with disabilities to participate in statewide assessments (with or without accommodations) and alternate assessments, as appropriate, and to ensure that all children with disabilities are a part of all accountability systems under the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.]; and
 
-    (viii) working in high need elementary schools and secondary schools, including urban schools, rural schools, and schools operated by an entity described in section 7113(d)(1)(A)(ii) of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7423(d)(1)(A)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7423/d/1/A/ii&num=0&edition=prelim)], and schools that serve high numbers or percentages of limited English proficient children.
+    (viii) working in high need elementary schools and secondary schools, including urban schools, rural schools, and schools operated by an entity described in section 6113(d)(1)(A)(ii) of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7423(d)(1)(A)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7423/d/1/A/ii&num=0&edition=prelim)], and schools that serve high numbers or percentages of limited English proficient children.
 
-  (B) Developing, evaluating, and disseminating innovative models for the recruitment, induction, retention, and assessment of new, highly qualified teachers to reduce teacher shortages, especially from groups that are underrepresented in the teaching profession, including individuals with disabilities.
+  (B) Developing, evaluating, and disseminating innovative models for the recruitment, induction, retention, and assessment of new, special education teachers who meet the qualifications described in [section 1412(a)(14)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14/C&num=0&edition=prelim) to reduce teacher shortages, especially from groups that are underrepresented in the teaching profession, including individuals with disabilities.
 
   (C) Providing continuous personnel preparation, training, and professional development designed to provide support and ensure retention of special education and general education teachers and personnel who teach and provide related services to children with disabilities.
 
@@ -4541,7 +4607,7 @@ Another prior section 1461, Pub. L. 91–230, title VI, § 661, Apr. 13, 1970, 8
 
   (A) A proposal to prepare personnel in more than 1 low incidence disability, such as deafness and blindness.
 
-  (B) A demonstration of an effective collaboration between an eligible entity and a local educational agency that promotes recruitment and subsequent retention of highly qualified personnel to serve children with low incidence disabilities.
+  (B) A demonstration of an effective collaboration between an eligible entity and a local educational agency that promotes recruitment and subsequent retention of personnel who meet the applicable requirements described in [section 1412(a)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14&num=0&edition=prelim) to serve children with low incidence disabilities.
 
 (5) **Preparation in use of braille** — The Secretary shall ensure that all recipients of awards under this subsection who will use that assistance to prepare personnel to provide services to visually impaired or blind children that can appropriately be provided in Braille, will prepare those individuals to provide those services in Braille.
 
@@ -4607,6 +4673,20 @@ A prior section 1462, Pub. L. 91–230, title VI, § 662, as added Pub. L. 99–
 
 A prior section 662 of Pub. L. 91–230, title VI, Apr. 13, 1970, 84 Stat. 188, eff. July 1, 1971, repealed sections 611 to 618, 621 to 624, and 871 to 880a of this title, and sections 2491 to 2494 and 2698 to 2698b of Title 42, The Public Health and Welfare, and amended [section 676 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section676&num=0&edition=prelim), prior to repeal by Pub. L. 98–199, § 14, Dec. 2, 1983, 97 Stat. 1374.
 
+#### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–95, § 9214(d)(4)(C)(i)(I), substituted “personnel, as defined in [section 1451(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1451/b&num=0&edition=prelim), who meet the applicable requirements described in [section 1412(a)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14&num=0&edition=prelim)” for “highly qualified personnel, as defined in [section 1451(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1451/b&num=0&edition=prelim)”.
+
+Subsec. (a)(5). Pub. L. 114–95, § 9214(d)(4)(C)(i)(II), substituted “special education teachers meet the qualifications described in [section 1412(a)(14)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14/C&num=0&edition=prelim)” for “special education teachers are highly qualified”.
+
+Subsec. (b)(2)(A)(viii). Pub. L. 114–95, § 9215(ss)(9), substituted “section 6113(d)(1)(A)(ii)” for “section 7113(d)(1)(A)(ii)”.
+
+Subsec. (b)(2)(B). Pub. L. 114–95, § 9214(d)(4)(C)(ii), substituted “special education teachers who meet the qualifications described in [section 1412(a)(14)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14/C&num=0&edition=prelim)” for “highly qualified teachers”.
+
+Subsec. (c)(4)(B). Pub. L. 114–95, § 9214(d)(4)(C)(iii), substituted “personnel who meet the applicable requirements described in [section 1412(a)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14&num=0&edition=prelim)” for “highly qualified personnel”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
+
 
 <a id="section-1464"></a>
 ## § 1464. Technical assistance, demonstration projects, dissemination of information, and implementation of scientifically based research
@@ -4616,7 +4696,7 @@ A prior section 662 of Pub. L. 91–230, title VI, Apr. 13, 1970, 84 Stat. 188, 
 
 (1) implementing effective strategies for addressing inappropriate behavior of students with disabilities in schools, including strategies to prevent children with emotional and behavioral problems from developing emotional disturbances that require the provision of special education and related services;
 
-(2) improving the alignment, compatibility, and development of valid and reliable assessments and alternate assessments for assessing adequate yearly progress, as described under [section 6311(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/B&num=0&edition=prelim);
+(2) improving the alignment, compatibility, and development of valid and reliable assessments and alternate assessments for assessing student academic achievement, as described under [section 6311(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2&num=0&edition=prelim);
 
 (3) providing training for both regular education teachers and special education teachers to address the needs of students with different learning styles;
 
@@ -4674,6 +4754,12 @@ A prior section 662 of Pub. L. 91–230, title VI, Apr. 13, 1970, 84 Stat. 188, 
 
 #### References in Text
 The Education Sciences Reform Act of 2002, referred to in subsec. (e), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, as amended. Part D of the Act is classified generally to part D (§ 9561 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9501 of this title](./chapter-076-education-research-statistics-evaluation-information-and-dissemination.md#section-9501) and Tables.
+
+#### Amendments
+2015—Subsec. (b)(2). Pub. L. 114–95, which directed amendment of subsec. (b)(2) by “striking and inserting the following:” followed by the text of a new par. (2), was executed by subtituting the new par. (2) for the existing par. (2) to reflect the probable intent of Congress. Prior to amendment, par. (2) read as follows: “improving the alignment, compatibility, and development of valid and reliable assessments and alternate assessments for assessing adequate yearly progress, as described under [section 6311(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/B&num=0&edition=prelim);”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 
 <a id="section-1465"></a>
@@ -5262,7 +5348,7 @@ Section 1480, Pub. L. 91–230, title VI, § 680, as added Pub. L. 99–457, tit
 
   (J) children who are gifted and talented; or
 
-  (K) children with disabilities served by local educational agencies that receive payments under title VIII of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7701](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7701) et seq.];
+  (K) children with disabilities served by local educational agencies that receive payments under title VII of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7701](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7701) et seq.];
 
 (4) projects to reduce inappropriate identification of children as children with disabilities, particularly among minority children;
 
@@ -5279,9 +5365,15 @@ Section 1480, Pub. L. 91–230, title VI, § 680, as added Pub. L. 99–457, tit
 #### References in Text
 [Section 9567b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9567b/c&num=0&edition=prelim), referred to in subsec. (a)(1), was in the original “section 178(c) of the Education Sciences Reform Act of 2002”, meaning section 178(c) of Pub. L. 107–279, which was translated as reading section 177(c) of Pub. L. 107–279, to reflect the probable intent of Congress, because Pub. L. 107–279 does not contain a section 178 and section 177(c) of that Act requires development of a plan.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(3)(K), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title VIII of the Act is classified generally to subchapter VIII (§ 7701 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(3)(K), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title VII of the Act is classified generally to subchapter VII (§ 7701 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
 #### Prior Provisions
 A prior section 1481, Pub. L. 91–230, title VI, § 681, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 146, related to congressional findings and purposes for subpart 2 of part B of former subchapter IV of this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1481, Pub. L. 91–230, title VI, § 681, as added Pub. L. 99–457, title I, § 101(a), Oct. 8, 1986, 100 Stat. 1152; amended Pub. L. 100–630, title I, § 108(j), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, § 901(b)(181), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to nonsubstitution of funds to pay for services which would have been paid for from another source and construction of such provisions so as not to reduce other benefits, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
+
+#### Amendments
+2015—Subsec. (d)(3)(K). Pub. L. 114–95 substituted “payments under title VII of the Elementary and Secondary Education Act of 1965;” for “payments under title VIII of the Elementary and Secondary Education Act of 1965;”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).

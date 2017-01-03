@@ -161,36 +161,39 @@ Any agency of the Federal Government is authorized upon request of the Commissio
 
 It is unlawful—
 
-**(a)** for any person subject to the jurisdiction of the United States—
+(1) for any person subject to the jurisdiction of the United States—
 
-(1) to violate any provision of the Convention, this subchapter or any regulation adopted under this subchapter;
+  (A) to violate any provision of the Convention, this subchapter or any regulation adopted under this subchapter;
 
-(2) to refuse to permit any enforcement officer to board a fishing vessel subject to such person’s control for purposes of conducting any search or inspection in connection with the enforcement of the Convention, this subchapter or any regulation adopted under this subchapter;
+  (B) to refuse to permit any enforcement officer to board a fishing vessel subject to such person’s control for purposes of conducting any search, investigation, or inspection in connection with the enforcement of the Convention, this subchapter or any regulation adopted under this subchapter;
 
-(3) to forcibly assault, resist, oppose, impede, intimidate or interfere with any enforcement officer in the conduct of any search or inspection described in paragraph (2);
+  (C) to forcibly assault, resist, oppose, impede, intimidate or interfere with any enforcement officer in the conduct of any search, investigation, or inspection described in paragraph (2);
 
-(4) to resist a lawful arrest or detention for any act prohibited by this section;
+  (D) to resist a lawful arrest or detention for any act prohibited by this section;
 
-(5) to ship, transport, offer for sale, sell, purchase, import, export or have custody, control or possession of, any fish taken or retained in violation of the Convention, this subchapter, or any regulation adopted under this subchapter; or
+  (E) to ship, transport, offer for sale, sell, purchase, import, export or have custody, control or possession of, any fish taken or retained in violation of the Convention, this subchapter, or any regulation adopted under this subchapter;
 
-(6) to interfere with, delay or prevent, by any means, the apprehension, arrest or detention of another person, knowing that such person has committed any act prohibited by this section.
+  (F) to interfere with, delay or prevent, by any means, the apprehension, arrest or detention of another person, knowing that such person has committed any act prohibited by this section; or
 
-**(b)** for any foreign fishing vessel, and for the owner or operator of any foreign fishing vessel, to engage in fishing for halibut in the fishery conservation zone, unless such fishing is authorized by, and conducted in accordance with the Convention, this subchapter and regulations adopted under this subchapter.
+(2) for any foreign fishing vessel, and for the owner or operator of any foreign fishing vessel, to engage in fishing for halibut in the fishery conservation zone, unless such fishing is authorized by, and conducted in accordance with the Convention, this subchapter and regulations adopted under this subchapter.
 
 ### Statutory Notes
 
-#### Amendment of Subsection (b)
-Pub. L. 102–251, title III, §§ 302(b), 308, Mar. 9, 1992, 106 Stat. 65, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b) is amended by substituting “exclusive economic zone or special areas” for “fishery conservation zone”.
+#### Amendment of Paragraph (2)
+Pub. L. 102–251, title III, §§ 302(b), 308, Mar. 9, 1992, 106 Stat. 65, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, paragraph (2), formerly subsection (b), of this section is amended by substituting “exclusive economic zone or special areas” for “fishery conservation zone”.
 
 #### Effective Date of 1992 Amendment
 Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under [section 773 of this title](./chapter-010-northern-pacific-halibut-fishing.md#section-773).
+
+#### Amendments
+2015—Pub. L. 114–81 redesignated subsecs. (a) and (b) as pars. (1) and (2), respectively, and former pars. (1) to (6) of subsec. (a) as subpars. (A) to (F), respectively, of par. (1), inserted “, investigation,” before “or inspection” in par. (1)(B) and (C), struck out “or” after the semicolon in par. (1)(E), and substituted “section; or” for “section.” in par. (1)(F).
 
 
 <a id="section-773f"></a>
 ## § 773f. Civil penalties
 **(a) Liability; continuing violations; notice; determination of amount** Any person who is found by the Secretary, after notice and opportunity for a hearing in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim), to have committed an act prohibited by [section 773e of this title](./chapter-010-northern-pacific-halibut-fishing.md#section-773e) shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $200,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of such civil penalty shall be assessed by the Secretary, or his designee, by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, and such other matters as justice may require. In assessing such penalty, the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay if the information is provided to the Secretary at least 30 days prior to an administrative hearing.
 
-**(b) Judicial review** Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the appropriate court of the United States by filing a notice of appeal in such court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary and the Attorney General. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, in accordance with rules prescribed pursuant to [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim). The findings and order of the Secretary shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in [section 706(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706/2&num=0&edition=prelim).
+**(b) Judicial review** Any person against whom a civil penalty is assessed under subsection (a) may obtain review thereof in the appropriate court of the United States by filing a notice of appeal in such court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary and the Attorney General. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, in accordance with rules prescribed pursuant to [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim). The findings and order of the Secretary shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in [section 706(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706/2&num=0&edition=prelim).
 
 **(c) Recovery of assessed penalties by Attorney Gen­eral** If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General of the United States, who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
@@ -240,13 +243,18 @@ Subsec. (e). Pub. L. 109–479, § 301(b), added subsec. (e).
 
 <a id="section-773g"></a>
 ## § 773g. Crimes and criminal penalties
-**(a) Offenses** A person is guilty of any 11 So in original. Probably should be “an”. offense if he commits an act prohibited by section 773e(a)(2), (3), (4), or (6) of this title; or [section 773e(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section773e/b&num=0&edition=prelim).
+**(a) Offenses** A person is guilty of any 11 So in original. Probably should be “an”. offense if he commits an act prohibited by section 773e(a)(2), (3), (4), or (6) 22See References in Text note below. of this title; or section 773e(b) 2 of this title.
 
-**(b) Fines; imprisonment** Any offense described in subsection (a) of this section is punishable by a fine of not more than $200,000 or imprisonment for not more than 6 months, or both; except that if in the commission of any offense the person uses a dangerous weapon, engages in conduct that causes bodily injury to any officer authorized to enforce the provisions of this subchapter, or places any such officer in fear of imminent bodily injury the offense is punishable by a fine of not more than $400,000, or imprisonment for not more than 10 years or both.
+**(b) Fines; imprisonment** Any offense described in subsection (a) is punishable by a fine of not more than $200,000 or imprisonment for not more than 6 months, or both; except that if in the commission of any offense the person uses a dangerous weapon, engages in conduct that causes bodily injury to any officer authorized to enforce the provisions of this subchapter, or places any such officer in fear of imminent bodily injury the offense is punishable by a fine of not more than $400,000, or imprisonment for not more than 10 years or both.
 
 **(c) Federal jurisdiction** There is Federal jurisdiction over any offense described in this section.
 
 ### Statutory Notes
+
+#### References in Text
+Subsec. (a) and pars. (2), (3), (4), and (6) of subsec. (a) of [section 773e of this title](./chapter-010-northern-pacific-halibut-fishing.md#section-773e), referred to in subsec. (a), were renumbered par. (1) and subpars. (B), (C), (D), and (F), respectively, of par. (1) of [section 773e of this title](./chapter-010-northern-pacific-halibut-fishing.md#section-773e) by Pub. L. 114–81, title I, § 110(1), (2), Nov. 5, 2015, 129 Stat. 659.
+
+Subsec. (b) of [section 773e of this title](./chapter-010-northern-pacific-halibut-fishing.md#section-773e), referred to in subsec. (a), was renumbered par. (2) of [section 773e of this title](./chapter-010-northern-pacific-halibut-fishing.md#section-773e) by Pub. L. 114–81, title I, § 110(2), Nov. 5, 2015, 129 Stat. 659.
 
 #### Amendments
 2007—Subsec. (b). Pub. L. 109–479 substituted “$200,000” for “$50,000” and “$400,000,” for “$100,000,”.
@@ -256,9 +264,9 @@ Subsec. (e). Pub. L. 109–479, § 301(b), added subsec. (e).
 ## § 773h. Forfeitures
 **(a) Civil forfeiture proceeding** Any fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used, and any fish taken or retained, in any manner, in connection with or as a result of the commission of any act prohibited by [section 773e of this title](./chapter-010-northern-pacific-halibut-fishing.md#section-773e) shall be subject to forfeiture to the United States. All or part of such vessel may, and all such fish shall, be forfeited to the United States pursuant to a civil proceeding under this section.
 
-**(b) United States district court jurisdiction** Any district court of the United States shall have jurisdiction, upon application by the Attorney General on behalf of the United States, to order any forfeiture authorized under subsection (a) of this section and any action provided for under subsection (d) of this section.
+**(b) United States district court jurisdiction** Any district court of the United States shall have jurisdiction, upon application by the Attorney General on behalf of the United States, to order any forfeiture authorized under subsection (a) and any action provided for under subsection (d).
 
-**(c) Seizure of forfeited property** If a judgment is entered for the United States in a civil forfeiture proceeding under this section, the Attorney General may seize any property or other interest declared forfeited to the United States, which has not previously been seized pursuant to this subchapter or for which security has not previously been obtained under subsection (d) of this section. The provisions of the customs laws relating to—
+**(c) Seizure of forfeited property** If a judgment is entered for the United States in a civil forfeiture proceeding under this section, the Attorney General may seize any property or other interest declared forfeited to the United States, which has not previously been seized pursuant to this subchapter or for which security has not previously been obtained under subsection (d). The provisions of the customs laws relating to—
 
 (1) the disposition of forfeited property;
 
@@ -267,7 +275,7 @@ Subsec. (e). Pub. L. 109–479, § 301(b), added subsec. (e).
 (3) the remission or mitigation of forfeitures; and
 
 (4) the compromise of claims;
-shall apply to any forfeiture ordered, and to any case in which forfeiture is alleged to be authorized, under this section, unless such provisions are inconsistent with the purposes, policy, and provisions of this subchapter. The duties and powers imposed upon the Commissioner of Customs or other persons under such provisions shall, with respect to this subchapter, be performed by officers or other persons designated for such purpose by the Secretary.
+shall apply to any forfeiture ordered, and to any case in which forfeiture is alleged to be authorized, under this section, unless such provisions are inconsistent with the purposes, policy, and provisions of this subchapter. The duties and powers imposed upon the Commissioner of U.S. Customs and Border Protection or other persons under such provisions shall, with respect to this subchapter, be performed by officers or other persons designated for such purpose by the Secretary.
 
 **(d) Bond or other security; disposal of seized fish**
 
@@ -284,8 +292,11 @@ shall apply to any forfeiture ordered, and to any case in which forfeiture is al
 
 ### Statutory Notes
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (c) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -294,7 +305,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 ## § 773i. Administration and enforcement
 **(a) Secretary of Commerce and Secretary of department in which Coast Guard is operating** The Convention, this subchapter, and any regulation adopted under this subchapter, shall be enforced by the Secretary and the Secretary of the department in which the Coast Guard is operating. Such Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal agency, and of any State agency, in the performance of such duties.
 
-**(b) Arrest, search and inspection, seizure; execution of warrants or other process** Any officer who is authorized by the Secretary, the Secretary of the department in which the Coast Guard is operating, or the head of any Federal or State agency which has entered into an agreement with such Secretaries under subsection (a) of this section to enforce the Convention, this subchapter or any regulation adopted under this subchapter may—
+**(b) Arrest, search and inspection, seizure; execution of warrants or other process** Any officer who is authorized by the Secretary, the Secretary of the department in which the Coast Guard is operating, or the head of any Federal or State agency which has entered into an agreement with such Secretaries under subsection (a) to enforce the Convention, this subchapter or any regulation adopted under this subchapter may—
 
 (1) with or without a warrant or other process—
 
@@ -314,7 +325,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (3) exercise any other lawful authority.
 
-**(c) Citation of owner or operator of offending vessel** If any officer authorized to enforce this subchapter (as provided for in this section) finds that a fishing vessel is operating or has been operated in the commission of an act prohibited by [section 773e of this title](./chapter-010-northern-pacific-halibut-fishing.md#section-773e), such officer may, in accordance with regulations issued jointly by the Secretary and the Secretary of the department in which the Coast Guard is operating, issue a citation to the owner or operator of such vessel in lieu of proceeding under subsection (b) of this section. If a permit has been issued pursuant to this subchapter for such vessel, such officer shall note the issuance of any citation under this subsection, including the date thereof and the reason therefor, on the permit. The Secretary shall maintain a record of all citations issued pursuant to this subsection.
+**(c) Citation of owner or operator of offending vessel** If any officer authorized to enforce this subchapter (as provided for in this section) finds that a fishing vessel is operating or has been operated in the commission of an act prohibited by [section 773e of this title](./chapter-010-northern-pacific-halibut-fishing.md#section-773e), such officer may, in accordance with regulations issued jointly by the Secretary and the Secretary of the department in which the Coast Guard is operating, issue a citation to the owner or operator of such vessel in lieu of proceeding under subsection (b). If a permit has been issued pursuant to this subchapter for such vessel, such officer shall note the issuance of any citation under this subsection, including the date thereof and the reason therefor, on the permit. The Secretary shall maintain a record of all citations issued pursuant to this subsection.
 
 **(d) United States district court jurisdiction** The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under this subchapter. Any such court may, at any time—
 

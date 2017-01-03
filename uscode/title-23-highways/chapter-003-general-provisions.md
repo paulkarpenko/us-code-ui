@@ -2,7 +2,7 @@
 title: 23
 chapter: '3'
 heading: GENERAL PROVISIONS
-section_count: 29
+section_count: 30
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23&num=0&edition=prelim
 ---
@@ -159,7 +159,7 @@ In order to assure that adequate consideration is given to civil defense aspects
 1973—Pub. L. 93–87 substituted “Secretary of Transportation” for “Secretary of Commerce”.
 
 #### Transfer of Functions
-Office of Federal Civil Defense Administrator, referred to in text, abolished and functions thereof transferred to President by Reorg. Plan No. 1 of 1958, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare. The Plan also established a new agency in the Executive Office of the President, known as the Office of Defense and Civilian Mobilization to be headed by a Director. Office redesignated as the Office of Civil and Defense Mobilization by act Aug. 26, 1958 (72 Stat. 861; [42 U.S.C. 5195](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim) note). Civil defense functions transferred to Secretary of Defense by Executive Order No. 10952 of July 20, 1961, formerly set out as a note under [section 2271 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2271&num=0&edition=prelim), Appendix, War and National Defense, and remaining functions redesignated Office of Emergency Planning by act Sept. 22, 1961 (75 Stat. 630; [42 U.S.C. 5195](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim) note). Office redesignated Office of Emergency Preparedness by act Oct. 21, 1968 (82 Stat. 1194; [42 U.S.C. 5195](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim) note). Office of Emergency Preparedness including office of Director abolished and functions thereof transferred to President by Reorg. Plan No. 1 of 1973, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim).
+Office of Federal Civil Defense Administrator, referred to in text, abolished and functions thereof transferred to President by Reorg. Plan No. 1 of 1958, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare. The Plan also established a new agency in the Executive Office of the President, known as the Office of Defense and Civilian Mobilization to be headed by a Director. Office redesignated as the Office of Civil and Defense Mobilization by act Aug. 26, 1958 (72 Stat. 861; [42 U.S.C. 5195](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim) note). Civil defense functions transferred to Secretary of Defense by Executive Order No. 10952 of July 20, 1961, formerly set out as a note under section 2271 of the former Appendix to Title 50, War and National Defense, and remaining functions redesignated Office of Emergency Planning by act Sept. 22, 1961 (75 Stat. 630; [42 U.S.C. 5195](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim) note). Office redesignated Office of Emergency Preparedness by act Oct. 21, 1968 (82 Stat. 1194; [42 U.S.C. 5195](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim) note). Office of Emergency Preparedness including office of Director abolished and functions thereof transferred to President by Reorg. Plan No. 1 of 1973, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim).
 
 
 <a id="section-311"></a>
@@ -246,9 +246,11 @@ Subsec. (e) to (g). Pub. L. 109–59, § 1903(c)(4), (5), which directed amendme
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 #### Buy America Waiver Notification and Annual Reports
-Pub. L. 113–235, div. K, title I, § 122, Dec. 16, 2014, 128 Stat. 2708, provided that: “Not less than 15 days prior to waiving, under his or her statutory authority, any Buy America requirement for Federal-aid Highways projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: Provided, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements.”
+Pub. L. 114–113, div. L, title I, § 122, Dec. 18, 2015, 129 Stat. 2847, provided that: “Not less than 15 days prior to waiving, under his or her statutory authority, any Buy America requirement for Federal-aid highways projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: Provided, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. K, title I, § 122, Dec. 16, 2014, 128 Stat. 2708.
 
 Pub. L. 113–76, div. L, title I, § 122, Jan. 17, 2014, 128 Stat. 586.
 
@@ -337,7 +339,7 @@ Federal highway funds shall not be used for the reconstruction or relocation of 
 
 <a id="section-319"></a>
 ## § 319. Landscaping and scenic enhancement
-**(a) Landscape and Roadside Development.—** The Secretary may approve as a part of the construction of Federal-aid highways the costs of landscape and roadside development, including acquisition and development of publicly owned and controlled rest and recreation areas and sanitary and other facilities reasonably necessary to accommodate the traveling public, and for acquisition of interests in and improvement of strips of land necessary for the restoration, preservation, and enhancement of scenic beauty adjacent to such highways.
+**(a) Landscape and Roadside Development.—** The Secretary may approve as a part of the construction of Federal-aid highways the costs of landscape and roadside development, including acquisition and development of publicly owned and controlled rest and recreation areas and sanitary and other facilities reasonably necessary to accommodate the traveling public, and for acquisition of interests in and improvement of strips of land necessary for the restoration, preservation, and enhancement of scenic beauty (including the enhancement of habitat and forage for pollinators) adjacent to such highways.
 
 **(b) Planting of Wildflowers.—**
 
@@ -347,9 +349,19 @@ Federal highway funds shall not be used for the reconstruction or relocation of 
 
 (3) **Gifts.—** — Nothing in this subsection shall be construed to prohibit the acceptance of native wildflower seeds or seedlings donated by civic organizations or other organizations and individuals to be used in landscaping projects.
 
+**(c) Encouragement of Pollinator Habitat and Forage Development and Protection on Transportation Rights-of-way.—** In carrying out any program administered by the Secretary under this title, the Secretary shall, in conjunction with willing States, as appropriate—
+
+(1) encourage integrated vegetation management practices on roadsides and other transportation rights-of-way, including reduced mowing; and
+
+(2) encourage the development of habitat and forage for Monarch butterflies, other native pollinators, and honey bees through plantings of native forbs and grasses, including noninvasive, native milkweed species that can serve as migratory way stations for butterflies and facilitate migrations of other pollinators.
+
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–94, § 1415(a)(1), inserted “(including the enhancement of habitat and forage for pollinators)” before “adjacent”.
+
+Subsec. (c). Pub. L. 114–94, § 1415(a)(2), added subsec. (c).
+
 1987—Pub. L. 100–17 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 1976—Pub. L. 94–280, in revising section, struck out subsec. (a) designation for existing text; incorporated as part of the section provision of former subsec. (b) for acquisition of interests in and improvement of strips of land necessary for the restoration, preservation, and enhancement of scenic beauty adjacent to Federal-aid highways; and struck out subsec. (b) designation and other subsec. (b) provisions relating to: allocation to a State out of appropriated funds an amount equivalent to 3 per centum of funds apportioned to a State for Federal-aid highways for landscape and roadside development use within the highway right-of-way, including acquisition and development of publicly owned and controlled rest and recreation areas and sanitary and other facilities within or adjacent to the highway right-of-way without being matched by the State; authorization of Secretary to except a State from the requirement upon a showing that amount is in excess of the State needs for the purposes; lapse of unused funds; appropriations authorization of $120,000,000 for fiscal years ending June 30, 1966, and 1967, and $20,000,000 for fiscal year ending June 30, 1970; and provision making chapter 1 respecting obligation, period of availability, and expenditure of Federal-aid primary highway funds applicable to funds authorized to be appropriated to carry out subsec. (b) after June 30, 1967.
@@ -359,6 +371,9 @@ Federal highway funds shall not be used for the reconstruction or relocation of 
 1966—Subsec. (b). Pub. L. 89–574 substituted provisions making applicable to the funds authorized to be appropriated to carry out this subsection after June 30, 1967, the provisions of chapter 1 of this title relating to the obligations, period of availability, and expenditure of Federal-aid primary highway funds for provisions prohibiting the use of any part of the Highway Trust Fund in carrying out this subsection.
 
 1965—Pub. L. 89–285 rearranged section structurally, made provision for apportionment of an amount, in addition to the state’s annual apportionment, equivalent to 3 per centum of the fund annually apportioned to the state for federal-aid highways to acquire interests and improvements for restoration, preservation, and enhancement of scenic beauty adjacent to Federal-aid highways, authorized appropriations of $120,000,000 for fiscal year ending June 30, 1966, and $120,000,000 for fiscal year ending June 30, 1967, and prohibited use of Highway Trust Fund moneys in carrying out the scenic enhancement provisions.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–495 effective August 23, 1968, see section 37 of Pub. L. 90–495, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
@@ -537,7 +552,7 @@ A prior section 321, added Pub. L. 91–605, title I, § 115(a), Dec. 31, 1970, 
 
 (2) **Availability of funds.—** — Funds made available under paragraph (1) shall remain available until expended.
 
-(3) **Other federal funds.—** — Notwithstanding any other provision of law, funds made available to a State to carry out the surface transportation program under section 133 and the congestion mitigation and air quality improvement program under section 149 may be used by the State to pay a portion of the full project costs of an eligible project selected under this section, without requirement for non-Federal funds.
+(3) **Other federal funds.—** — Notwithstanding any other provision of law, funds made available to a State to carry out the surface transportation block grant program under section 133 and the congestion mitigation and air quality improvement program under section 149 may be used by the State to pay a portion of the full project costs of an eligible project selected under this section, without requirement for non-Federal funds.
 
 (4) **Other assistance.—** — Notwithstanding any other provision of law, an eligible project selected under this section shall be eligible for other forms of financial assistance provided under this title and the Transportation Equity Act for the 21st Century, including loans, loan guarantees, and lines of credit.
 
@@ -568,6 +583,8 @@ The Transportation Equity Act for the 21st Century, referred to in subsec. (h)(4
 A prior section 322, added Pub. L. 91–605, title II, § 205(a), Dec. 31, 1970, 84 Stat. 1742; amended Pub. L. 93–643, § 117, Jan. 4, 1975, 88 Stat. 2288; Pub. L. 97–449, § 5(d)(3), Jan. 12, 1983, 96 Stat. 2442, related to demonstration projects for elimination or protection of certain ground-level rail-highway crossings and required study of problem of providing increased highway safety at public and private ground-level rail-highway crossings on nationwide basis through elimination of such crossings or otherwise, and report to Congress on such study not later than July 1, 1972, prior to repeal by Pub. L. 100–17, title I, § 133(e)(1), Apr. 2, 1987, 101 Stat. 173.
 
 #### Amendments
+2015—Subsec. (h)(3). Pub. L. 114–94 substituted “surface transportation block grant program” for “surface transportation program”.
+
 1998—Subsec. (a)(3). Pub. L. 105–178, § 1218(c)(1), as added by Pub. L. 105–206, § 9003(i), struck out “or under 50 miles per hour” before period at end.
 
 Subsec. (d)(1). Pub. L. 105–178, § 1218(c)(2)(A), as added by Pub. L. 105–206, § 9003(i), struck out “or low-speed” after “high-speed”.
@@ -580,10 +597,15 @@ Subsec. (h)(1)(B)(i). Pub. L. 105–178, § 1218(c)(3), as added by Pub. L. 105�
 
 Subsec. (i). Pub. L. 105–178, § 1218(c)(4), as added by Pub. L. 105–206, § 9003(i), added subsec. (i).
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 1998 Amendment
 Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 #### Deployment of Magnetic Levitation Transportation Projects
+Pub. L. 114–94, div. A, title XI, § 11315(c), Dec. 4, 2015, 129 Stat. 1675, provided that: “A project described in 1307(a)(3) of SAFETEA–LU (Public Law 109–59) [set out below] may be eligible for the Railroad Rehabilitation and Improvement Financing program if the Secretary [of Transportation] determines such project meets the requirements of sections 502 and 503 of the Railroad Revitalization and Regulatory Reform Act of 1976 [[45 U.S.C. 822](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section822&num=0&edition=prelim), 823].”
+
 Pub. L. 109–59, title I, § 1307, Aug. 10, 2005, 119 Stat. 1217, as amended by Pub. L. 110–244, title I, § 102(b), (c), June 6, 2008, 122 Stat. 1577, provided that: “(a) Definitions.—In this section, the following definitions apply:“(1) Eligible project costs.—The term ‘eligible project costs’—“(A) means the capital cost of the fixed guideway infrastructure of a MAGLEV project, including land, piers, guideways, propulsion equipment and other components attached to guideways, power distribution facilities (including substations), control and communications facilities, access roads, and storage, repair, and maintenance facilities, but not including costs incurred for a new station; and “(B) includes the costs of preconstruction planning activities. “(2) Full project costs.—The term ‘full project costs’ means the total capital costs of a MAGLEV project, including eligible project costs and the costs of stations, vehicles, and equipment. “(3) MAGLEV.—The term ‘MAGLEV’ means transportation systems employing magnetic levitation that would be capable of safe use by the public at a speed in excess of 240 miles per hour. “(4) State.—The term ‘State’ has the meaning such term has under [section 101(a) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101/a&num=0&edition=prelim), United States Code. “(b) In General.—“(1) Assistance for eligible projects.—The Secretary [of Transportation] shall make available financial assistance to pay the Federal share of full project costs of eligible projects authorized by this section. “(2) Use of assistance.—Financial assistance provided under paragraph (1) shall be used only to pay eligible project costs of projects authorized by this section. “(3) Applicability of other laws.—Financial assistance made available under this section, and projects assisted with such assistance, shall be subject to [section 5333(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5333/a&num=0&edition=prelim), United States Code. “(c) Project Eligibility.—To be eligible to receive financial assistance under subsection (b), a project shall—“(1) involve a segment or segments of a high-speed ground transportation corridor; “(2) result in an operating transportation facility that provides a revenue producing service; and “(3) be approved by the Secretary [of Transportation] based on an application submitted to the Secretary by a State or authority designated by one or more States. “(d) Allocation.—Of the amounts made available to carry out this section for a fiscal year, the Secretary [of Transportation] shall allocate—“(1) 50 percent to the Nevada department of transportation who shall cooperate with the California-Nevada Super Speed Train Commission for the MAGLEV project between Las Vegas and Primm, Nevada, as a segment of the high-speed MAGLEV system between Las Vegas, Nevada, and Anaheim, California; and “(2) 50 percent for existing MAGLEV projects located east of the Mississippi River using such criteria as the Secretary deems appropriate. “(e) Contract Authority.—Funds authorized under section 1101(a)(18) [119 Stat. 1155] shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code; except that the funds shall not be transferable and shall remain available until expended, and the Federal share of the cost of a project to be carried out with such funds shall be 80 percent.”
 
 [Pub. L. 110–244, title I, § 102(d), June 6, 2008, 122 Stat. 1578, provided that: “The amendments made by this section [amending section 1307 of Pub. L. 109–59, set out above] take effect on October 1, 2007.” ]
@@ -704,7 +726,7 @@ The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 
 
 (2) **Scope of program.—** — Under the pilot program, the Secretary may assign, and a State may assume, any of the Secretary’s responsibilities (other than responsibilities relating to federally recognized Indian tribes) for environmental reviews, consultation, or decisionmaking or other actions required under any Federal law as such requirements apply to the following projects:
 
-  (A) Projects funded under section 104(h).11 See References in Text note below.
+  (A) Projects funded under section 104(h).
 
   (B) Transportation enhancement activities under section 133, as such term is defined in section 101(a)(35).1
 
@@ -757,8 +779,6 @@ The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 
 #### References in Text
 The date of enactment of the SAFETEA–LU, referred to in subsec. (a)(1)(B), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
-Section 104, referred to in subsec. (a)(2)(A), was amended generally by Pub. L. 112–141 and no longer contains a subsec. (h).
-
 Section 101(a)(35), referred to in subsec. (a)(2)(B), was redesignated section 101(a)(29) and subsequently amended by Pub. L. 112–141 and no longer defines transportation enhancement activities.
 
 #### Prior Provisions
@@ -787,15 +807,23 @@ A prior section 325, added Pub. L. 102–240, title VI, § 6003[(a)], Dec. 18, 1
 
 (1) **In general.—** — The Secretary and the State, after providing public notice and opportunity for comment, shall enter into a memorandum of understanding setting forth the responsibilities to be assigned under this section and the terms and conditions under which the assignments are made, including establishment of the circumstances under which the Secretary would reassume responsibility for categorical exclusion determinations.
 
-(2) **Term.—** — A memorandum of understanding—
+(2) **Assistance to states.—** — On request of a Governor of a State, the Secretary shall provide to the State technical assistance, training, or other support relating to—
+
+  (A) assuming responsibility under subsection (a);
+
+  (B) developing a memorandum of understanding under this subsection; or
+
+  (C) addressing a responsibility in need of corrective action under subsection (d)(1)(B).
+
+(3) **Term.—** — A memorandum of understanding—
 
   (A) shall have a term of not more than 3 years; and
 
   (B) shall be renewable.
 
-(3) **Acceptance of jurisdiction.—** — In a memorandum of understanding, the State shall consent to accept the jurisdiction of the Federal courts for the compliance, discharge, and enforcement of any responsibility of the Secretary that the State assumes.
+(4) **Acceptance of jurisdiction.—** — In a memorandum of understanding, the State shall consent to accept the jurisdiction of the Federal courts for the compliance, discharge, and enforcement of any responsibility of the Secretary that the State assumes.
 
-(4) **Monitoring.—** — The Secretary shall—
+(5) **Monitoring.—** — The Secretary shall—
 
   (A) monitor compliance by the State with the memorandum of understanding and the provision by the State of financial resources to carry out the memorandum of understanding; and
 
@@ -803,7 +831,19 @@ A prior section 325, added Pub. L. 102–240, title VI, § 6003[(a)], Dec. 18, 1
 
 **(d) Termination.—**
 
-(1) **Termination by the secretary.—** — The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.
+(1) **Termination by secretary.—** — The Secretary may terminate the participation of any State in the program if—
+
+  (A) the Secretary determines that the State is not adequately carrying out the responsibilities assigned to the State;
+
+  (B) the Secretary provides to the State—
+
+    (i) a notification of the determination of noncompliance;
+
+    (ii) a period of not less than 120 days to take such corrective action as the Secretary determines to be necessary to comply with the applicable agreement; and
+
+    (iii) on request of the Governor of the State, a detailed description of each responsibility in need of corrective action regarding an inadequacy identified under subparagraph (A); and
+
+  (C) the State, after the notification and period described in clauses (i) and (ii) of subparagraph (B), fails to take satisfactory corrective action, as determined by the Secretary.
 
 (2) **Termination by the state.—** — The State may terminate the participation of the State in the program at any time by providing to the Secretary a notice not later than the date that is 90 days before the date of termination, and subject to such terms and conditions as the Secretary may provide.
 
@@ -820,11 +860,18 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a)(3), is
 A prior section 326, added Pub. L. 102–240, title VI, § 6004(a), Dec. 18, 1991, 105 Stat. 2169; amended Pub. L. 105–130, § 5(e)(4), Dec. 1, 1997, 111 Stat. 2558, related to education and training program, prior to repeal by Pub. L. 105–178, title V, § 5119(b), June 9, 1998, 112 Stat. 452.
 
 #### Amendments
+2015—Subsec. (c)(2) to (5). Pub. L. 114–94, § 1307(1), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+
+Subsec. (d)(1). Pub. L. 114–94, § 1307(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.”
+
 2012—Subsec. (a)(4). Pub. L. 112–141, § 1312(1), added par. (4).
 
 Subsec. (d). Pub. L. 112–141, § 1312(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.”
 
 Subsec. (f). Pub. L. 112–141, § 1312(3), added subsec. (f).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
@@ -846,7 +893,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
     (ii) at the request of the State, the Secretary may also assign to the State, and the State may assume, the responsibilities of the Secretary with respect to 1 or more railroad, public transportation, or multimodal projects within the State under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.);
 
-    (iii) in a State that has assumed the responsibilities of the Secretary under clause (ii), a recipient of assistance under chapter 53 of title 49 may request that the Secretary maintain the responsibilities of the Secretary with respect to 1 or more public transportation projects within the State under the National Environmental Policy Act of 1969 ([42 U.S.C. 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13&num=0&edition=prelim) 11 So in original. 4321 et seq.); but
+    (iii) in a State that has assumed the responsibilities of the Secretary under clause (ii), a recipient of assistance under chapter 53 of title 49 may request that the Secretary maintain the responsibilities of the Secretary with respect to 1 or more public transportation projects within the State under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.); but
 
     (iv) the Secretary may not assign—
 
@@ -912,7 +959,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
   (D) agrees to maintain the financial resources necessary to carry out the responsibilities being assumed;
 
-(4) require the State to provide to the Secretary any information the Secretary considers necessary to ensure that the State is adequately carrying out the responsibilities assigned to the State;
+(4) require the State to provide to the Secretary any information the Secretary reasonably considers necessary to ensure that the State is adequately carrying out the responsibilities assigned to the State;
 
 (5) have a term of not more than 5 years; and
 
@@ -926,17 +973,19 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 (3) **Intervention.—** — The Secretary shall have the right to intervene in any action described in paragraph (1).
 
-**(e) Effect of Assumption of Responsibility.—** A State that assumes responsibility under subsection (a)(2) shall be solely responsible and solely liable for carrying out, in lieu of the Secretary, the responsibilities assumed under subsection (a)(2), until the program is terminated as provided in subsection (j).
+**(e) Effect of Assumption of Responsibility.—** A State that assumes responsibility under subsection (a)(2) shall be solely responsible and solely liable for carrying out, in lieu of and without further approval of the Secretary, the responsibilities assumed under subsection (a)(2), until the program is terminated as provided in subsection (j).
 
 **(f) Limitations on Agreements.—** Nothing in this section permits a State to assume any rulemaking authority of the Secretary under any Federal law.
 
 **(g) Audits.—**
 
-(1) **In general.—** — To ensure compliance by a State with any agreement of the State under subsection (c) (including compliance by the State with all Federal laws for which responsibility is assumed under subsection (a)(2)), for each State participating in the program under this section, the Secretary shall conduct—
+(1) **In general.—** — To ensure compliance by a State with any agreement of the State under subsection (c) (including compliance by the State with all Federal laws for which responsibility is assumed under subsection (a)(2)), for each State participating in the program under this section, the Secretary shall—
 
-  (A) semiannual audits during each of the first 2 years of State participation; and
+  (A) not later than 180 days after the date of execution of the agreement, meet with the State to review implementation of the agreement and discuss plans for the first annual audit;
 
-  (B) annual audits during each of the third and fourth years of State participation.
+  (B) conduct annual audits during each of the first 4 years of State participation; and
+
+  (C) ensure that the time period for completing an annual audit, from initiation to completion (including public comment and responses to those comments), does not exceed 180 days.
 
 (2) **Public availability and comment.—**
 
@@ -944,35 +993,85 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
   (B) *Response.—* — Not later than 60 days after the date on which the period for public comment ends, the Secretary shall respond to public comments received under subparagraph (A).
 
+(3) **Audit team.—**
+
+  (A) *In general.—* — An audit conducted under paragraph (1) shall be carried out by an audit team determined by the Secretary, in consultation with the State, in accordance with subparagraph (B).
+
+  (B) *Consultation.—* — Consultation with the State under subparagraph (A) shall include a reasonable opportunity for the State to review and provide comments on the proposed members of the audit team.
+
 **(h) Monitoring.—** After the fourth year of the participation of a State in the program, the Secretary shall monitor compliance by the State with the written agreement, including the provision by the State of financial resources to carry out the written agreement.
 
 **(i) Report to Congress.—** The Secretary shall submit to Congress an annual report that describes the administration of the program.
 
 **(j) Termination.—**
 
-(1) **Termination by the secretary.—** — The Secretary may terminate the participation of any State in the program if—
+(1) **Termination by secretary.—** — The Secretary may terminate the participation of any State in the program if—
 
   (A) the Secretary determines that the State is not adequately carrying out the responsibilities assigned to the State;
 
   (B) the Secretary provides to the State—
 
-    (i) notification of the determination of noncompliance; and
+    (i) a notification of the determination of noncompliance;
 
-    (ii) a period of at least 30 days during which to take such corrective action as the Secretary determines is necessary to comply with the applicable agreement; and
+    (ii) a period of not less than 120 days to take such corrective action as the Secretary determines to be necessary to comply with the applicable agreement; and
+
+    (iii) on request of the Governor of the State, a detailed description of each responsibility in need of corrective action regarding an inadequacy identified under subparagraph (A); and
 
   (C) the State, after the notification and period provided under subparagraph (B), fails to take satisfactory corrective action, as determined by the Secretary.
 
 (2) **Termination by the state.—** — The State may terminate the participation of the State in the program at any time by providing to the Secretary a notice by not later than the date that is 90 days before the date of termination, and subject to such terms and conditions as the Secretary may provide.
 
+**(k) Capacity Building.—** The Secretary, in cooperation with representatives of State officials, may carry out education, training, peer-exchange, and other initiatives as appropriate—
+
+(1) to assist States in developing the capacity to participate in the assignment program under this section; and
+
+(2) to promote information sharing and collaboration among States that are participating in the assignment program under this section.
+
+**(l) Relationship to Locally Administered Projects.—** A State granted authority under this section may, as appropriate and at the request of a local government—
+
+(1) exercise such authority on behalf of the local government for a locally administered project; or
+
+(2) provide guidance and training on consolidating and minimizing the documentation and environmental analyses necessary for sponsors of a locally administered project to comply with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) and any comparable requirements under State law.
+
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(2)(A), (B)(ii), (iii), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(2)(A), (B)(ii), (iii) and (l)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 The date on which amendments to this section by the MAP-21 take effect, referred to in subsec. (b)(2), is Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 #### Amendments
-2012—Pub. L. 112–141, § 1313(a)(1), struck out “pilot” before “program” in section catchline.
+2015—Pub. L. 114–94, § 1446(d)(3), amended directory language of Pub. L. 112–141, § 1313(a)(1). See 2012 Amendment note below.
+
+Subsec. (a)(2)(B)(iii). Pub. L. 114–94, § 1308(1), substituted “([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.)” for “([42 U.S.C. 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13&num=0&edition=prelim) 4321 et seq.)”.
+
+Subsec. (c)(4). Pub. L. 114–94, § 1308(2), inserted “reasonably” before “considers necessary”.
+
+Subsec. (e). Pub. L. 114–94, § 1308(3), inserted “and without further approval of” after “in lieu of”.
+
+Subsec. (g)(1). Pub. L. 114–94, § 1308(4)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “To ensure compliance by a State with any agreement of the State under subsection (c) (including compliance by the State with all Federal laws for which responsibility is assumed under subsection (a)(2)), for each State participating in the program under this section, the Secretary shall conduct—
+
+“(A) semiannual audits during each of the first 2 years of State participation; and
+
+“(B) annual audits during each of the third and fourth years of State participation.”
+
+Subsec. (g)(3). Pub. L. 114–94, § 1308(4)(B), added par. (3).
+
+Subsec. (j)(1). Pub. L. 114–94, § 1308(5), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary may terminate the participation of any State in the program if—
+
+“(A) the Secretary determines that the State is not adequately carrying out the responsibilities assigned to the State;
+
+“(B) the Secretary provides to the State—
+
+“(i) notification of the determination of noncompliance; and
+
+“(ii) a period of at least 30 days during which to take such corrective action as the Secretary determines is necessary to comply with the applicable agreement; and
+
+“(C) the State, after the notification and period provided under subparagraph (B), fails to take satisfactory corrective action, as determined by the Secretary.”
+
+Subsecs. (k), (l). Pub. L. 114–94, § 1308(6), added subsecs. (k) and (l).
+
+2012—Pub. L. 112–141, § 1313(a)(1), as amended by Pub. L. 114–94, § 1446(d)(3), struck out “pilot” before “program” in section catchline.
 
 Subsec. (a)(1). Pub. L. 112–141, § 1313(a)(2), struck out “pilot” before “program (referred to”.
 
@@ -1006,6 +1105,11 @@ Pub. L. 112–141, § 1313(g)(1), redesignated subsec. (i) as (j).
 
 2010—Subsec. (i)(1). Pub. L. 111–322 substituted “7 years after” for “6 years after”.
 
+#### Effective Date of 2015 Amendment
+Except as otherwise provided, amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+Pub. L. 114–94, div. A, title I, § 1446(d), Dec. 4, 2015, 129 Stat. 1438, provided that the amendment made by section 1446(d)(3) is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
@@ -1023,7 +1127,7 @@ Pub. L. 112–140, title I, § 101(e)(2), June 29, 2012, 126 Stat. 392, provided
 ## § 329. Eligibility for control of noxious weeds and aquatic noxious weeds and establishment of native species
 **(a) In General.—** In accordance with all applicable Federal law (including regulations), funds made available to carry out this section may be used for the following activities if such activities are related to transportation projects funded under this title:
 
-(1) Establishment of plants selected by State and local transportation authorities to perform one or more of the following functions: abatement of stormwater runoff, stabilization of soil, and aesthetic enhancement.
+(1) Establishment of plants selected by State and local transportation authorities to perform one or more of the following functions: abatement of stormwater runoff, stabilization of soil, provision of habitat, forage, and migratory way stations for Monarch butterflies, other native pollinators, and honey bees, and aesthetic enhancement.
 
 (2) Management of plants which impair or impede the establishment, maintenance, or safe use of a transportation system.
 
@@ -1049,3 +1153,202 @@ Pub. L. 112–140, title I, § 101(e)(2), June 29, 2012, 126 Stat. 392, provided
 
 #### References in Text
 The Plant Protection Act, referred to in subsec. (b)(1), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, as amended, which is classified principally to chapter 104 (§ 7701 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7701&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–94 inserted “provision of habitat, forage, and migratory way stations for Monarch butterflies, other native pollinators, and honey bees,” before “and aesthetic enhancement”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-330"></a>
+## § 330. Program for eliminating duplication of environmental reviews
+**(a) Establishment.—**
+
+(1) **In general.—** — The Secretary shall establish a pilot program to authorize States that have assumed responsibilities of the Secretary under section 327 and are approved to participate in the program under this section to conduct environmental reviews and make approvals for projects under State environmental laws and regulations instead of the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), consistent with the requirements of this section.
+
+(2) **Participating states.—** — The Secretary may select not more than 5 States to participate in the program.
+
+(3) **Alternative environmental review and approval procedures defined.—** — In this section, the term “alternative environmental review and approval procedures” means—
+
+  (A) substitution of 1 or more State environmental laws for—
+
+    (i) the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.);
+
+    (ii) any provisions of section 139 establishing procedures for the implementation of the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) that are under the authority of the Secretary, as the Secretary, in consultation with the State, considers appropriate; and
+
+    (iii) related regulations and Executive orders; and
+
+  (B) substitution of 1 or more State environmental regulations for—
+
+    (i) the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.);
+
+    (ii) any provisions of section 139 establishing procedures for the implementation of the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) that are under the authority of the Secretary, as the Secretary, in consultation with the State, considers appropriate; and
+
+    (iii) related regulations and Executive orders.
+
+**(b) Application.—** To be eligible to participate in the program, a State shall submit to the Secretary an application containing such information as the Secretary may require, including—
+
+(1) a full and complete description of the proposed alternative environmental review and approval procedures of the State, including—
+
+  (A) the procedures the State uses to engage the public and consider alternatives to the proposed action; and
+
+  (B) the extent to which the State considers environmental consequences or impacts on resources potentially impacted by the proposed action (such as air, water, or species);
+
+(2) each Federal requirement described in subsection (a)(3) that the State is seeking to substitute;
+
+(3) each State law or regulation that the State intends to substitute for such Federal requirement;
+
+(4) an explanation of the basis for concluding that the State law or regulation is at least as stringent as the Federal requirement described in subsection (a)(3);
+
+(5) a description of the projects or classes of projects for which the State anticipates exercising the authority that may be granted under the program;
+
+(6) verification that the State has the financial resources necessary to carry out the authority that may be granted under the program;
+
+(7) evidence of having sought, received, and addressed comments on the proposed application from the public; and
+
+(8) any such additional information as the Secretary, or, with respect to section (d)(1)(A), the Secretary in consultation with the Chair, may require.
+
+**(c) Review of Application.—** In accordance with subsection (d), the Secretary shall—
+
+(1) review and accept public comments on an application submitted under subsection (b);
+
+(2) approve or disapprove the application not later than 120 days after the date of receipt of an application that the Secretary determines is complete; and
+
+(3) transmit to the State notice of the approval or disapproval, together with a statement of the reasons for the approval or disapproval.
+
+**(d) Approval of Application.—**
+
+(1) **In general.—** — The Secretary shall approve an application submitted under subsection (b) only if—
+
+  (A) the Secretary, with the concurrence of the Chair and after considering any public comments received pursuant to subsection (c), determines that the laws and regulations of the State described in the application are at least as stringent as the Federal requirements described in subsection (a)(3);
+
+  (B) the Secretary, after considering any public comments received pursuant to subsection (c), determines that the State has the capacity, including financial and personnel, to assume the responsibility;
+
+  (C) the State has executed an agreement with the Secretary in accordance with section 327; and
+
+  (D) the State has executed an agreement with the Secretary under this section that—
+
+    (i) has been executed by the Governor or the top-ranking transportation official in the State who is charged with responsibility for highway construction;
+
+    (ii) is in such form as the Secretary may prescribe;
+
+    (iii) provides that the State—
+
+      (I) agrees to assume the responsibilities, as identified by the Secretary, under this section;
+
+      (II) expressly consents, on behalf of the State, to accept the jurisdiction of the Federal courts under subsection (e)(1) for the compliance, discharge, and enforcement of any responsibility under this section;
+
+      (III) certifies that State laws (including regulations) are in effect that—
+
+        (aa) authorize the State to take the actions necessary to carry out the responsibilities being assumed; and
+
+        (bb) are comparable to [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), including providing that any decision regarding the public availability of a document under those State laws is reviewable by a court of competent jurisdiction; and
+
+      (IV) agrees to maintain the financial resources necessary to carry out the responsibilities being assumed;
+
+    (iv) requires the State to provide to the Secretary any information the Secretary reasonably considers necessary to ensure that the State is adequately carrying out the responsibilities assigned to the State;
+
+    (v) has a term of not more than 5 years; and
+
+    (vi) is renewable.
+
+(2) **Exclusion.—** — The National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) shall not apply to a decision by the Secretary to approve or disapprove an application submitted under this section.
+
+**(e) Judicial Review.—**
+
+(1) **In general.—** — The United States district courts shall have exclusive jurisdiction over any civil action against a State relating to the failure of the State—
+
+  (A) to meet the requirements of this section; or
+
+  (B) to follow the alternative environmental review and approval procedures approved pursuant to this section.
+
+(2) **Limitation on review.—**
+
+  (A) *In general.—* — Notwithstanding any other provision of law, a claim seeking judicial review of a permit, license, or approval issued by a State under this section shall be barred unless the claim is filed not later than 2 years after the date of publication in the Federal Register by the Secretary of a notice that the permit, license, or approval is final pursuant to the law under which the action is taken.
+
+  (B) *Deadlines.—*
+
+    (i) *Notification.—* — The State shall notify the Secretary of the final action of the State not later than 10 days after the final action is taken.
+
+    (ii) *Publication.—* — The Secretary shall publish the notice of final action in the Federal Register not later than 30 days after the date of receipt of the notice under clause (i).
+
+  (C) *Savings provision.—* — Nothing in this subsection creates a right to judicial review or places any limit on filing a claim that a person has violated the terms of a permit, license, or approval.
+
+(3) **New information.—**
+
+  (A) *In general.—* — A State shall consider new information received after the close of a comment period if the information satisfies the requirements for a supplemental environmental impact statement under section 771.130 of title 23, Code of Federal Regulations (or successor regulations).
+
+  (B) *Treatment of final agency action.—*
+
+    (i) *In general.—* — The final agency action that follows preparation of a supplemental environmental impact statement, if required, shall be considered a separate final agency action, and the deadline for filing a claim for judicial review of the action shall be 2 years after the date of publication in the Federal Register by the Secretary of a notice announcing such action.
+
+    (ii) *Deadlines.—*
+
+      (I) *Notification.—* — The State shall notify the Secretary of the final action of the State not later than 10 days after the final action is taken.
+
+      (II) *Publication.—* — The Secretary shall publish the notice of final action in the Federal Register not later than 30 days after the date of receipt of the notice under subclause (I).
+
+**(f) Election.—** A State participating in the programs under this section and section 327, at the discretion of the State, may elect to apply the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) instead of the alternative environmental review and approval procedures of the State.
+
+**(g) Adoption or Incorporation by Reference of Documents.—** To the maximum extent practicable and consistent with Federal law, other Federal agencies with authority over a project subject to this section shall adopt or incorporate by reference documents produced by a participating State under this section to satisfy the requirements of the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.).
+
+**(h) Relationship to Locally Administered Projects.—**
+
+(1) **In general.—** — A State with an approved program under this section, at the request of a local government, may exercise authority under that program on behalf of up to 25 local governments for locally administered projects.
+
+(2) **Scope.—** — For up to 25 local governments selected by a State with an approved program under this section, the State shall be responsible for ensuring that any environmental review, consultation, or other action required under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) or the State program, or both, meets the requirements of such Act or program.
+
+**(i) Review and Termination.—**
+
+(1) **In general.—** — A State program approved under this section shall at all times be in accordance with the requirements of this section.
+
+(2) **Review.—** — The Secretary shall review each State program approved under this section not less than once every 5 years.
+
+(3) **Public notice and comment.—** — In conducting the review process under paragraph (2), the Secretary shall provide notice and an opportunity for public comment.
+
+(4) **Withdrawal of approval.—** — If the Secretary, in consultation with the Chair, determines at any time that a State is not administering a State program approved under this section in accordance with the requirements of this section, the Secretary shall so notify the State, and if appropriate corrective action is not taken within a reasonable time, not to exceed 90 days, the Secretary shall withdraw approval of the State program.
+
+(5) **Extensions and terminations.—** — At the conclusion of the review process under paragraph (2), the Secretary may extend for an additional 5-year period or terminate the authority of a State under this section to substitute the laws and regulations of the State for the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.).
+
+**(j) Report to Congress.—** Not later than 2 years after the date of enactment of this section, and annually thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that describes the administration of the program, including—
+
+(1) the number of States participating in the program;
+
+(2) the number and types of projects for which each State participating in the program has used alternative environmental review and approval procedures;
+
+(3) a description and assessment of whether implementation of the program has resulted in more efficient review of projects; and
+
+(4) any recommendations for modifications to the program.
+
+**(k) Sunset.—** The program shall terminate 12 years after the date of enactment of this section.
+
+**(l) Definitions.—** In this section, the following definitions apply:
+
+(1) **Chair.—** — The term “Chair” means the Chair of the Council on Environmental Quality.
+
+(2) **Multimodal project.—** — The term “multimodal project” has the meaning given that term in section 139(a).
+
+(3) **Program.—** — The term “program” means the pilot program established under this section.
+
+(4) **Project.—** — The term “project” means—
+
+  (A) a project requiring approval under this title, chapter 53 of subtitle III of title 49, or subtitle V of title 49; and
+
+  (B) a multimodal project.
+
+### Statutory Notes
+
+#### References in Text
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (3)(A)(i), (ii), (B)(i), (ii), (d)(2), (f), (g), (h)(2), and (i)(5), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+The date of enactment of this section, referred to in subsecs. (j) and (k), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+#### Effective Date
+Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+#### Purpose
+Pub. L. 114–94, div. A, title I, § 1309(a), Dec. 4, 2015, 129 Stat. 1392, provided that: “The purpose of this section [enacting this section and provisions set out as a note under this section] is to eliminate duplication of environmental reviews and approvals under State laws and the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.).”
+
+#### Rulemaking
+Pub. L. 114–94, div. A, title I, § 1309(c), Dec. 4, 2015, 129 Stat. 1396, provided that: “(1) In general.—Not later than 270 days after the date of enactment of this Act [Dec. 4, 2015], the Secretary [of Transportation], in consultation with the Chair of the Council on Environmental Quality, shall promulgate regulations to implement the requirements of [section 330 of title 23](./chapter-003-general-provisions.md#section-330), United States Code, as added by this section. “(2) Determination of stringency.—As part of the rulemaking required under this subsection, the Chair shall—“(A) establish the criteria necessary to determine that a State law or regulation is at least as stringent as a Federal requirement described in [section 330(a)(3) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section330/a/3&num=0&edition=prelim), United States Code; and “(B) ensure that the criteria, at a minimum—“(i) provide for protection of the environment; “(ii) provide opportunity for public participation and comment, including access to the documentation necessary to review the potential impact of a project; and “(iii) ensure a consistent review of projects that would otherwise have been covered under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.).”

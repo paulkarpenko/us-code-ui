@@ -17,7 +17,7 @@ The purpose of this chapter is to enable the Government of the United States to 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
-Pub. L. 87–256, § 1, Sept. 21, 1961, 75 Stat. 527, provided: “That this Act [enacting this chapter, amending sections 1101, 1182 and 1258 of Title 8, Aliens and Nationality, sections 117, 871, 872, 1441, 3121, 3306, 3401 and 3402 of Title 26, Internal Revenue Code, and [section 410 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section410&num=0&edition=prelim), The Public Health and Welfare, repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468 and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and [section 1641(b)(2) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1641/b/2&num=0&edition=prelim), Appendix, War and National Defense, and enacting provisions set out as notes under this section and under sections 117, 1441, 3121 and 3401 of Title 26] may be cited as the ‘Mutual Educational and Cultural Exchange Act of 1961’.”
+Pub. L. 87–256, § 1, Sept. 21, 1961, 75 Stat. 527, provided: “That this Act [enacting this chapter, amending sections 1101, 1182 and 1258 of Title 8, Aliens and Nationality, sections 117, 871, 872, 1441, 3121, 3306, 3401 and 3402 of Title 26, Internal Revenue Code, and [section 410 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section410&num=0&edition=prelim), The Public Health and Welfare, repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468 and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and former section 1641(b)(2) of the former Appendix to Title 50, War and National Defense, and enacting provisions set out as notes under this section and under sections 117, 1441, 3121 and 3401 of Title 26] may be cited as the ‘Mutual Educational and Cultural Exchange Act of 1961’.”
 
 Pub. L. 87–256 is also popularly known as the “Fulbright-Hays Act”.
 
@@ -33,10 +33,10 @@ Pub. L. 107–228, div. A, title II, § 224, Sept. 30, 2002, 116 Stat. 1368, pro
 [For definitions of “Secretary” and “Department” as used in section 224 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).]
 
 #### Continuation of Certain Executive Orders, Agreements, Determinations, Regulations, Contracts, Appointments, and Other Actions
-Pub. L. 87–256, § 111(b), Sept. 21, 1961, 75 Stat. 538, provided that: “All Executive orders, agreements, determinations, regulations, contracts, appointments, and other actions issued, concluded, or taken under authority of any provisions of law repealed by subsection (a) of this section [repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468, and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and [section 1641(b)(2) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1641/b/2&num=0&edition=prelim), Appendix, War and National Defense] shall continue in full force and effect, and shall be applicable to the appropriate provisions of this Act [this chapter] until modified or superseded by appropriate authority.”
+Pub. L. 87–256, § 111(b), Sept. 21, 1961, 75 Stat. 538, provided that: “All Executive orders, agreements, determinations, regulations, contracts, appointments, and other actions issued, concluded, or taken under authority of any provisions of law repealed by subsection (a) of this section [repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468, and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and former section 1641(b)(2) of the former Appendix to Title 50, War and National Defense] shall continue in full force and effect, and shall be applicable to the appropriate provisions of this Act [this chapter] until modified or superseded by appropriate authority.”
 
 #### References in Other Laws to Repealed Provisions
-Pub. L. 87–256, § 111(c), Sept. 21, 1961, 75 Stat. 538, provided that: “Any reference in any other Act to the provisions of law listed in subsection (a) [repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468, and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and [section 1641(b)(2) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1641/b/2&num=0&edition=prelim), Appendix, War and National Defense] shall hereafter be considered to be references to the appropriate provisions of this Act [this chapter].”
+Pub. L. 87–256, § 111(c), Sept. 21, 1961, 75 Stat. 538, provided that: “Any reference in any other Act to the provisions of law listed in subsection (a) [repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468, and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and former section 1641(b)(2) of the former Appendix to Title 50, War and National Defense] shall hereafter be considered to be references to the appropriate provisions of this Act [this chapter].”
 
 
 <a id="section-2451a"></a>
@@ -1043,7 +1043,7 @@ In subsec. (a), independent states of the former Soviet Union and independent st
 
 (2) has been accepted for up to one academic year of study on a program of study abroad approved for credit by the student’s home institution;
 
-(3) is receiving any need-based student assistance under title IV of the Higher Education Act of 1965 [[20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq., [42 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751&num=0&edition=prelim) et seq.]; and
+(3) is receiving any need-based student assistance under title IV of the Higher Education Act of 1965 [[20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.]; and
 
 (4) is a citizen or national of the United States.
 
@@ -1055,7 +1055,7 @@ In subsec. (a), independent states of the former Soviet Union and independent st
 
   (A) consideration of financial need shall include the increased costs of study abroad; and
 
-  (B) priority consideration shall be given to applicants who are receiving Federal Pell Grants under title IV of the Higher Education Act of 1965 [[20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq., [42 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751&num=0&edition=prelim) et seq.].
+  (B) priority consideration shall be given to applicants who are receiving Federal Pell Grants under title IV of the Higher Education Act of 1965 [[20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.].
 
 ### Statutory Notes
 
@@ -1064,7 +1064,7 @@ The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec.
 
 This Act, referred to in subsec. (a), probably means title III of Pub. L. 106–309, Oct. 17, 2000, 114 Stat. 1094, known as the International Academic Opportunity Act of 2000, which enacted this section and provisions set out as notes under this section. For complete classification of this Act to the Code, see Tables.
 
-The Higher Education Act of 1965, referred to in subsecs. (b)(3) and (c)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (b)(3) and (c)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was enacted as part of the International Academic Opportunity Act of 2000, and also as part of the Microenterprise for Self-Reliance and International Anti-Corruption Act of 2000, and not as part of the Mutual Educational and Cultural Exchange Act of 1961 which comprises this chapter.

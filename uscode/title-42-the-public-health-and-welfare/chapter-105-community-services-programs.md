@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-9801"></a>
 ## § 9801. Evaluation of programs; implementation and funding, etc.; research and demonstration projects; implementation and purposes
-**(a)** Each program for which grants are made under this subchapter shall provide for a thorough evaluation of the effectiveness of the program in achieving its purposes, which evaluation shall be conducted by such public or private organizations as the Secretary in consultation with existing grantees familiar with programs carried out under the Community Services Block Grant Act [[42 U.S.C. 9901](./chapter-106-community-services-block-grant-program.md#section-9901) et seq.] may designate, and all or part of the costs of evaluation may be paid from funds appropriated to carry out this part. In evaluating the performance of any community development corporation funded under part A of this subchapter, the criteria for evaluation shall be based upon such program objectives, goals, and priorities as are consistent with the purposes of this subchapter and were set forth by such community development corporation in its proposal for funding as approved and agreed upon by or as subsequently modified from time to time by mutual agreement between the Secretary and such community development corporation.
+**(a)** Each program for which grants are made under this subchapter shall provide for a thorough evaluation of the effectiveness of the program in achieving its purposes, which evaluation shall be conducted by such public or private organizations as the Secretary in consultation with existing grantees familiar with programs carried out under the Community Services Block Grant Act [[42 U.S.C. 9901](./chapter-106-community-services-block-grant-program.md#section-9901) et seq.] may designate, and all or part of the costs of evaluation may be paid from funds appropriated to carry out this part. In evaluating the performance of any community development corporation funded under part A, the criteria for evaluation shall be based upon such program objectives, goals, and priorities as are consistent with the purposes of this subchapter and were set forth by such community development corporation in its proposal for funding as approved and agreed upon by or as subsequently modified from time to time by mutual agreement between the Secretary and such community development corporation.
 
 **(b)** The Secretary shall conduct, either directly or through grants or other arrangements, research and demonstration projects designed to suggest new programs and policies to achieve the purposes of this subchapter in such ways as to provide opportunities for employment, ownership, and a better quality of life for low-income residents.
 
@@ -116,7 +116,7 @@ Pub. L. 97–35, title VI, § 601, Aug. 13, 1981, 95 Stat. 483, provided that: �
 <a id="section-9806"></a>
 ## § 9806. “Community development corporation” defined
 
-For purposes of this subchapter, the term “community development corporation” means a nonprofit organization responsible to residents of the area it serves which is receiving financial assistance under part A of this subchapter and any organization more than 50 percent of which is owned by such an organization, or otherwise controlled by such an organization, or designated by such an organization for the purpose of this subchapter.
+For purposes of this subchapter, the term “community development corporation” means a nonprofit organization responsible to residents of the area it serves which is receiving financial assistance under part A and any organization more than 50 percent of which is owned by such an organization, or otherwise controlled by such an organization, or designated by such an organization for the purpose of this subchapter.
 
 
 <a id="section-9807"></a>
@@ -470,6 +470,12 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 #### Short Title
 For short title of this subchapter as the “Head Start Act”, see section 635 of Pub. L. 97–35, set out as a note under [section 9801 of this title](./chapter-105-community-services-programs.md#section-9801).
 
+#### Preschool Development Grants
+Pub. L. 114–95, title IX, § 9212, Dec. 10, 2015, 129 Stat. 2152, provided that: “(a) Purposes.—The purposes of this section are—“(1) to assist States to develop, update, or implement a strategic plan that facilitates collaboration and coordination among existing programs of early childhood care and education in a mixed delivery system across the State designed to prepare low-income and disadvantaged children to enter kindergarten and to improve transitions from such system into the local educational agency or elementary school that enrolls such children, by—“(A) more efficiently using existing Federal, State, local, and non-governmental resources to align and strengthen the delivery of existing programs; “(B) coordinating the delivery models and funding streams existing in the State’s mixed delivery system; and “(C) developing recommendations to better use existing resources in order to improve—“(i) the overall participation of children in a mixed delivery system of Federal, State, and local early childhood education programs; “(ii) program quality while maintaining availability of services; “(iii) parental choice among existing programs; and “(iv) school readiness for children from low-income and disadvantaged families, including during such children’s transition into elementary school; “(2) to encourage partnerships among Head Start providers, State and local governments, Indian tribes and tribal organizations, private entities (including faith- and community-based entities), and local educational agencies, to improve coordination, program quality, and delivery of services; and “(3) to maximize parental choice among a mixed delivery system of early childhood education program providers. “(b) Definitions.—In this section:“(1) ESEA definitions.—The terms ‘elementary school’, ‘local educational agency’, and ‘State’ have the meanings given the terms in section 8101 of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)]. “(2) Center of excellence in early childhood.—The term ‘Center of Excellence in Early Childhood’ means a Center of Excellence in Early Childhood designated under section 657B(b) of the Head Start Act ([42 U.S.C. 9852b(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9852b/b&num=0&edition=prelim)). “(3) Early childhood education program.—The term ‘early childhood education program’ has the meaning given the term in section 103 of the Higher Education Act of 1965 ([20 U.S.C. 1003](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1003&num=0&edition=prelim)). “(4) Existing program.—The term ‘existing program’ means a Federal, State, local, or privately-funded early childhood education program that—“(A) was operating in the State on the day before the date of enactment of this Act [Dec. 10, 2015]; or “(B) began operating in the State at any time on or after the date of enactment of this Act through funds that were not provided by a grant under this section. “(5) Mixed delivery system.—The term ‘mixed delivery system’ means a system—“(A) of early childhood education services that are delivered through a combination of programs, providers, and settings (such as Head Start, licensed family and center-based child care programs, public schools, and community-based organizations); and “(B) that is supported with a combination of public funds and private funds. “(6) Secretary.—The term ‘Secretary’ means the Secretary of Health and Human Services. “(7) State advisory council.—The term ‘State Advisory Council’ means a State Advisory Council on Early Childhood Education and Care designated or established under section 642B(b)(1)(A) of the Head Start Act ([42 U.S.C. 9837b(b)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9837b/b/1/A&num=0&edition=prelim)). “(c) Grants Authorized.—“(1) In general.—From amounts made available under subsection (k), the Secretary, jointly with the Secretary of Education, shall award grants to States to enable the States to carry out the activities described in subsection (f). “(2) Award basis.—Grants under this subsection shall be awarded—“(A) on a competitive basis; and “(B) with priority for States that meet the requirements of subsection (e)(3). “(3) Duration of grants.—A grant awarded under paragraph (1) shall be for a period of not more than 1 year and may be renewed by the Secretary, jointly with the Secretary of Education, under subsection (g). “(4) Matching requirement.—Each State that receives a grant under this section shall provide funds from non-Federal sources (which may be provided in cash or in kind) to carry out the activities supported by the grant, in an amount equal to not less than 30 percent of the amount of such grant. “(d) Initial Application.—A State desiring a grant under subsection (c)(1) shall submit an application at such time and in such manner as the Secretary may reasonably require. The application shall contain—“(1) an identification of the State entity that the Governor of the State has appointed to be responsible for duties under this section; “(2) a description of how such State entity proposes to accomplish the activities described in subsection (f) and meet the purposes of this section described in subsection (a), including—“(A) a timeline for strategic planning activities; and “(B) a description of how the strategic planning activities and the proposed activities described in subsection (f) will increase participation of children from low-income and disadvantaged families in high-quality early childhood education and preschool programs as a result of the grant; “(3) a description of the Federal, State, and local existing programs in the State for which such State entity proposes to facilitate activities described in subsection (f), including—“(A) programs carried out under the Head Start Act ([42 U.S.C. 9801](./chapter-105-community-services-programs.md#section-9801) et seq.) [[42 U.S.C. 9831](./chapter-105-community-services-programs.md#section-9831) et seq.], including the Early Head Start programs carried out under such Act; “(B) child care programs carried out under the Child Care and Development Block Grant Act of 1990 ([42 U.S.C. 9858](./chapter-105-community-services-programs.md#section-9858) et seq.) [[42 U.S.C. 9857](./chapter-105-community-services-programs.md#section-9857) et seq.] or section 418 of the Social Security Act ([42 U.S.C. 618](./chapter-007-social-security.md#section-618)); and “(C) other Federal, State, and local programs of early learning and development, early childhood education, and child care, operating in the State (including programs operated by Indian tribes and tribal organizations and private entities, including faith- and community-based entities), as of the date of the application for the grant; “(4) a description of how the State entity, in collaboration with Centers of Excellence in Early Childhood, if appropriate, will provide technical assistance and disseminate best practices; “(5) a description of how the State plans to sustain the activities described in, and carried out in accordance with, subsection (f) with non-Federal sources after grant funds under this section are no longer available, if the State plans to continue such activities after such time; and “(6) a description of how the State entity will work with the State Advisory Council and Head Start collaboration offices. “(e) Review Process.—The Secretary shall review the applications submitted under subsection (d) to—“(1) determine which applications satisfy the requirements of such subsection; “(2) confirm that each State submitting an application has, as of the date of the application, a mixed delivery system in place; and “(3) determine if a priority is merited in accordance with subsection (c)(2)(B) because the State has never received—“(A) a grant under subsection (c); or “(B) a preschool development grant for development or expansion under such program as it existed on the day before the date of enactment of this Act. “(f) Use of Funds.—A State, acting through the State entity appointed under subsection (d)(1), that receives a grant under subsection (c)(1) shall use the grant funds for all of the following activities:“(1) Conducting a periodic statewide needs assessment of—“(A) the availability and quality of existing programs in the State, including such programs serving the most vulnerable or underserved populations and children in rural areas; “(B) to the extent practicable, the unduplicated number of children being served in existing programs; and “(C) to the extent practicable, the unduplicated number of children awaiting service in such programs. “(2) Developing a strategic plan that recommends collaboration, coordination, and quality improvement activities (including activities to improve children’s transition from early childhood education programs into elementary schools) among existing programs in the State and local educational agencies. Such plan shall include information that—“(A) identifies opportunities for, and barriers to, collaboration and coordination among existing programs in the State, including among State, local, and tribal (if applicable) agencies responsible for administering such programs; “(B) recommends partnership opportunities among Head Start providers, local educational agencies, State and local governments, Indian tribes and tribal organizations, and private entities (including faith- and community-based entities) that would improve coordination, program quality, and delivery of services; “(C) builds on existing plans and goals with respect to early childhood education programs, including improving coordination and collaboration among such programs, of the State Advisory Council while incorporating new or updated Federal, State, and local statutory requirements, including—“(i) the requirements of the Child Care and Development Block Grant Act of 1990 ([42 U.S.C. 9858](./chapter-105-community-services-programs.md#section-9858) et seq.) [[42 U.S.C. 9857](./chapter-105-community-services-programs.md#section-9857) et seq.]; and “(ii) when appropriate, information found in the report required under section 13 of the Child Care and Development Block Grant Act of 2014 (Public Law 113–186; 128 Stat. 2002); and “(D) describes how accomplishing the activities described in subparagraphs (A) through (C) will better serve children and families in existing programs and how such activities will increase the overall participation of children in the State. “(3) Maximizing parental choice and knowledge about the State’s mixed delivery system of existing programs and providers by—“(A) ensuring that parents are provided information about the variety of early childhood education programs for children from birth to kindergarten entry in the State’s mixed delivery system; and “(B) promoting and increasing involvement by parents and family members, including families of low-income and disadvantaged children, in the development of their children and the transition of such children from an early childhood education program into an elementary school. “(4) Sharing best practices among early childhood education program providers in the State to increase collaboration and efficiency of services, including to improve transitions from such programs to elementary school. “(5) After activities described in paragraphs (1) and (2) have been completed, improving the overall quality of early childhood education programs in the State, including by developing and implementing evidence-based practices that meet the requirements of section 8101(21)(A)(i) of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7801(21)(A)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801/21/A/i&num=0&edition=prelim)], to improve professional development for early childhood education providers and educational opportunities for children. “(g) Renewal Grants.—“(1) In general.—The Secretary, jointly with the Secretary of Education, may use funds available under subsection (k) to award renewal grants to States described in paragraph (2) to enable such States to continue activities described in subsection (f) and to carry out additional activities described in paragraph (6). “(2) Eligible states.—A State shall be eligible for a grant under paragraph (1) if—“(A) the State has received a grant under subsection (c)(1) and the grant period has concluded; or “(B)(i) the State has received a preschool development grant for development or expansion under such program as it existed on the day before the date of enactment of this Act, and the grant period for such grant has concluded; and “(ii) the Secretary allows such State to apply directly for a renewal grant under this subsection, rather than an initial grant under subsection (c)(1), and the State submits with its application the needs assessment completed under the preschool development grant (updated as necessary to reflect the needs of the State as of the time of the application) in place of the activity described in subsection (f)(1). “(3) Duration of grants.—A grant awarded under this subsection shall be for a period of not more than 3 years and shall not be renewed. “(4) Matching requirement.—Each State that receives a grant under this subsection shall provide funds from non-Federal sources (which may be provided in cash or in kind) to carry out the activities supported by the grant, in an amount equal to not less than 30 percent of the amount of the grant. “(5) Application.—A State described in paragraph (2) that desires a grant under this subsection shall submit an application for renewal at such time and in such manner as the Secretary may reasonably require. The application shall contain—“(A) applicable information required in the application described in subsection (d), and in the case of a State described in paragraph (2)(A), updated as the State determines necessary; “(B) in the case of a State described in paragraph (2)(A), a description of how funds were used for the activities described in subsection (f) in the initial grant period and the extent to which such activities will continue to be supported in the renewal period; “(C) in the case of a State described in paragraph (2)(B), how a needs assessment completed prior to the date of the application, such as the needs assessment completed under the preschool development grant program (as such program existed prior to the date of enactment of this Act), and updated as necessary in accordance with paragraph (2)(B)(ii), will be sufficient information to inform the use of funds under this subsection, and a copy of such needs assessment; “(D) a description of how funds will be used for the activities described in paragraph (6) during the renewal grant period, if the State proposes to use grant funds for such activities; and “(E) in the case of a State that proposes to carry out activities described in paragraph (6) and to continue such activities after grant funds under this subsection are no longer available, a description of how such activities will be sustained with non-Federal sources after such time. “(6) Additional activities.—“(A) In general.—Each State that receives a grant under this subsection may use grant funds to award subgrants to programs in a mixed delivery system across the State designed to benefit low-income and disadvantaged children prior to entering kindergarten, to—“(i)(I) enable programs to implement activities addressing areas in need of improvement as determined by the State, through the use of funds for the activities described in paragraph (5)(C) or subsection (f), as applicable; and “(II) as determined through the activities described in paragraph (5)(C) or subsection (f), as applicable, expand access to such existing programs; or “(ii) develop new programs to address the needs of children and families eligible for, but not served by, such programs, if the State ensures that— “(I) the distribution of subgrants under this subparagraph supports a mixed delivery system; and “(II) funds made available under this subparagraph will be used to supplement, and not supplant, any other Federal, State, or local funds that would otherwise be available to carry out the activities assisted under this section. “(B) Priority.—In awarding subgrants under subparagraph (A), a State shall prioritize activities to improve areas in which there are State-identified needs that would improve services for low-income and disadvantaged children living in rural areas. “(C) Special rule.—A State receiving a renewal grant under this subsection that elects to award subgrants under subparagraph (A) shall not—“(i) for the first year of the renewal grant, use more than 60 percent of the grant funds available for such year to award such subgrants; and “(ii) for each of the second and third years of the renewal grant, use more than 75 percent of the grant funds available for such year to award such subgrants. “(h) State Reporting.—“(1) Initial grants.—A State that receives an initial grant under subsection (c)(1) shall submit a final report to the Secretary not later than 6 months after the end of the grant period. The report shall include a description of—“(A) how, and to what extent, the grant funds were utilized for activities described in subsection (f), and any other activities through which funds were used to meet the purposes of this section, as described in subsection (a); “(B) strategies undertaken at the State level and, if applicable, local or program level, to implement recommendations in the strategic plan developed under subsection (f)(2); “(C)(i) any new partnerships among Head Start providers, State and local governments, Indian tribes and tribal organizations, and private entities (including faith- and community-based entities); and “(ii) how these partnerships improve coordination and delivery of services; “(D) if applicable, the degree to which the State used information from the report required under section 13 of the Child Care and Development Block Grant Act of 2014 to inform activities under this section, and how this information was useful in coordinating, and collaborating among, programs and funding sources; “(E) the extent to which activities funded by the initial grant led to the blending or braiding of other public and private funding; “(F) how information about available existing programs for children from birth to kindergarten entry was disseminated to parents and families, and how involvement by parents and family was improved; and “(G) other State-determined and voluntarily provided information to share best practices regarding early childhood education programs and the coordination of such programs. “(2) Renewal grants.—A State receiving a renewal grant under subsection (g) shall submit a follow-up report to the Secretary not later than 6 months after the end of the grant period that includes—“(A) information described in subparagraphs (A) through (G) of paragraph (1), as applicable and updated for the period covered by the renewal grant; and “(B) if applicable, information on how the State was better able to serve children through the distribution of funds in accordance with subsection (g)(5), through—“(i) a description of the activities conducted through the use of subgrant funds, including, where appropriate, measurable areas of program improvement and better use of existing resources; and “(ii) best practices from the use of subgrant funds, including how to better serve the most vulnerable, underserved, and rural populations. “(i) Rules of Construction.—“(1) Limitations on federal interference.—Nothing in this section shall be construed to authorize the Secretary or the Secretary of Education to establish any criterion for grants made under this section that specifies, defines, or prescribes—“(A) early learning and development guidelines, standards, or specific assessments, including the standards or measures that States use to develop, implement, or improve such guidelines, standards, or assessments; “(B) specific measures or indicators of quality early learning and care, including—“(i) the systems that States use to assess the quality of early childhood education programs and providers, school readiness, and achievement; and “(ii) the term ‘high-quality’ as it relates to early learning, development, or care; “(C) early learning or preschool curriculum, programs of instruction, or instructional content; “(D) teacher and staff qualifications and salaries; “(E) class sizes and ratios of children to instructional staff; “(F) any new requirement that an early childhood education program is required to meet that is not explicitly authorized in this section; “(G) the scope of programs, including length of program day and length of program year; and “(H) any aspect or parameter of a teacher, principal, other school leader, or staff evaluation system within a State, local educational agency, or early childhood education program. “(2) Limitation on governmental requirements.—Nothing in this section shall be construed to authorize the Secretary, Secretary of Education, the State, or any other governmental agency to alter requirements for existing programs for which coordination and alignment activities are recommended under this section, or to force programs to adhere to any recommendations developed through this program. The Secretary, Secretary of Education, State, or other governmental agency may only take an action described in the preceding sentence as otherwise authorized under Federal, State, or local law. “(3) Secretary of education.—Nothing in this section shall be construed to authorize the Secretary of Education to have sole decision-making or regulatory authority in carrying out the program authorized under this section. “(j) Planning and Transition.—“(1) In general.—The recipient of an award for a preschool development grant for development or expansion under such program as it existed on the day before the date of enactment of this Act may continue to receive funds in accordance with the terms of such existing award. “(2) Transition.—The Secretary, jointly with the Secretary of Education, shall take such steps as are necessary to ensure an orderly transition to, and implementation of, the program under this section from the preschool development grants for development or expansion program as such program was operating prior to the date of enactment of this Act, in accordance with subsection (k). “(k) Authorization of Appropriations.—There are authorized to be appropriated to the Secretary of Health and Human Services to carry out this section $250,000,000 for each of fiscal years 2017 through 2020.”
+
+#### Review of Federal Early Childhood Education Programs
+Pub. L. 114–95, title IX, § 9213, Dec. 10, 2015, 129 Stat. 2160, provided that: “(a) In General.—The Secretary of Health and Human Services, in consultation with the heads of all Federal agencies that administer Federal early childhood education programs, shall conduct an interdepartmental review of all early childhood education programs for children less than 6 years of age in order to—“(1) develop a plan for the elimination of overlapping programs, as identified by the Government Accountability Office’s 2012 annual report (GAO–12–342SP); “(2) determine if the activities conducted by States using grant funds from preschool development grants under section 9212 [set out above] have led to better utilization of resources; and “(3) make recommendations to Congress for streamlining all such programs. “(b) Report and Updates.—The Secretary of Health and Human Services, in consultation with the heads of all Federal agencies that administer Federal early childhood education programs, shall—“(1) not later than 2 years after the date of enactment of this Act [Dec. 10, 2015], prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives a detailed report that—“(A) outlines the efficiencies that can be achieved by, and specific recommendations for, eliminating overlap and fragmentation among all Federal early childhood education programs; “(B) explains how the use by States of preschool development grant funds under section 9212 has led to the better utilization of resources; and “(C) builds upon the review of Federal early learning and care programs required under section 13 of the Child Care and Development Block Grant Act of 2014 (Public Law 113–186; 128 Stat. 2002); and “(2) annually prepare and submit to such Committees a detailed update of the report described in paragraph (1).”
+
 
 <a id="section-9832"></a>
 ## § 9832. Definitions
@@ -502,7 +508,7 @@ For purposes of this subchapter:
 
   (C) an unresolved area of noncompliance.
 
-(3) The term “delegate agency” means a public, private nonprofit (including a community-based organization, as defined in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim))), or for-profit organization or agency to which a grantee has delegated all or part of the responsibility of the grantee for operating a Head Start program.
+(3) The term “delegate agency” means a public, private nonprofit (including a community-based organization, as defined in section 8101 of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)]), or for-profit organization or agency to which a grantee has delegated all or part of the responsibility of the grantee for operating a Head Start program.
 
 (4) The term “family literacy services” means services that are of sufficient intensity in terms of hours, and of sufficient duration, to make sustainable changes in a family, and that integrate all of the following activities:
 
@@ -542,7 +548,7 @@ For purposes of this subchapter:
 
     (ii)
 
-      (I) who is a Native American (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim))), an Alaska Native, or a native resident of an outlying area (as defined in such section 9101); and
+      (I) who is a Native American (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)]), an Alaska Native, or a native resident of an outlying area (as defined in such section 8101); and
 
       (II) who comes from an environment where a language other than English has had a significant impact on the child’s level of English language proficiency; or
 
@@ -658,6 +664,10 @@ The Alaska Native Claims Settlement Act, referred to in par. (12), is Pub. L. 92
 The Elementary and Secondary Education Act of 1965, referred to in par. (16), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Par. (3). Pub. L. 114–95, § 9215(nn)(1)(A), substituted “section 8101 of the Elementary and Secondary Education Act of 1965” for “section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim))”.
+
+Par. (15)(A)(ii)(I). Pub. L. 114–95, § 9215(nn)(1)(B), substituted “(as defined in section 8101 of the Elementary and Secondary Education Act of 1965), an Alaska Native, or a native resident of an outlying area (as defined in such section 8101);” for “(as defined in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim))), an Alaska Native, or a native resident of an outlying area (as defined in such section 9101);”.
+
 2007—Pub. L. 110–134, § 3(b)(2), rearranged pars. into numerical order.
 
 Pub. L. 110–134, § 3(b)(1), which directed amendment of this section by redesignating pars. (1) to (23) as (1), (3), (4), (5), (6), (7), (8), (9), (10), (12), (16), (17), (18), (19), (22), (24), (25), (2), (11), (13), (14), (15), (20), (21), (23), and (26), respectively, was executed by redesignating pars. (1) to (26) as (1), (3), (4), (5), (6), (7), (8), (9), (10), (12), (16), (17), (18), (19), (22), (24), (25), (2), (11), (13), (14), (15), (20), (21), (23), and (26), respectively, to reflect the probable intent of Congress.
@@ -729,6 +739,9 @@ Par. (9). Pub. L. 101–501, § 121(b), added par. (9).
 Pars. (10), (11). Pub. L. 101–501, § 123(a), added pars. (10) and (11).
 
 1984—Par. (2). Pub. L. 98–558 inserted “the Commonwealth of” before “the Northern Mariana Islands”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date of 1994 Amendment
 Pub. L. 103–252, title I, § 127, May 18, 1994, 108 Stat. 651, provided that: “(a) Effective Date.—This title [see Short Title of 1994 Amendment note set out under [section 9801 of this title](./chapter-105-community-services-programs.md#section-9801)], and the amendments made by this title, shall take effect on the date of enactment of this title [May 18, 1994]. “(b) Application.—The requirements of this title and the amendments made by this title shall not apply to Head Start agencies and other recipients of financial assistance under the Head Start Act [[42 U.S.C. 9831](./chapter-105-community-services-programs.md#section-9831) et seq.] until October 1, 1994.”
@@ -1529,19 +1542,17 @@ Repeal effective May 18, 1994, but not applicable to Head Start agencies and oth
 
   (H) the plan of such applicant to coordinate and collaborate with other public or private entities providing early childhood education and development programs and services for young children in the community involved, including—
 
-    (i) programs implementing grant agreements under the Early Reading First and Even Start programs under subparts 2 and 3 of part B of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6371&num=0&edition=prelim) et seq., 6381 et seq.);
+    (i) preschool programs under title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) et seq.);
 
-    (ii) other preschool programs under title I of that Act ([20 U.S.C. 6301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) et seq.);
+    (ii) programs under section 619 and part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1419](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1419&num=0&edition=prelim), 1431 et seq.);
 
-    (iii) programs under section 619 and part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1419](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1419&num=0&edition=prelim), 1431 et seq.);
+    (iii) State prekindergarten programs;
 
-    (iv) State prekindergarten programs;
+    (iv) child care programs;
 
-    (v) child care programs;
+    (v) the educational programs that the children in the Head Start program involved will enter at the age of compulsory school attendance; and
 
-    (vi) the educational programs that the children in the Head Start program involved will enter at the age of compulsory school attendance; and
-
-    (vii) local entities, such as a public or school library, for—
+    (vi) local entities, such as a public or school library, for—
 
       (I) conducting reading readiness programs;
 
@@ -1559,7 +1570,7 @@ Repeal effective May 18, 1994, but not applicable to Head Start agencies and oth
 
     (ii) to afford such parents the opportunity to participate in the development and overall conduct of the program at the local level, including transportation assistance, as appropriate;
 
-    (iii) to offer (directly or through referral to local entities, such as entities carrying out Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6381&num=0&edition=prelim) et seq.), public and school libraries, and entities carrying out family support programs) to such parents—
+    (iii) to offer (directly or through referral to local entities, public and school libraries, and entities carrying out family support programs) to such parents—
 
       (I) family literacy services; and
 
@@ -1618,11 +1629,17 @@ Repeal effective May 18, 1994, but not applicable to Head Start agencies and oth
 ### Statutory Notes
 
 #### References in Text
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2)(H)(i), (ii), (J)(iii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. Subparts 2 and 3 of part B of title I of the Act are classified generally to subparts 2 (§ 6371 et seq.) and 3 (§ 6381 et seq.), respectively, of part B of subchapter I of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2)(H)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (d)(2)(H)(iii), (N), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to [section 1419 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1419&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (d)(2)(H)(ii), (N), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to [section 1419 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1419&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
 #### Amendments
+Subsec. (d)(2)(H)(i). Pub. L. 114–95, § 9215(nn)(2)(A), redesignated cl. (ii) as (i), struck out “other” before “preschool programs” and substituted “the Elementary and Secondary Education Act of 1965” for “that Act”, and struck out former cl. (i) which read as follows: “programs implementing grant agreements under the Early Reading First and Even Start programs under subparts 2 and 3 of part B of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6371&num=0&edition=prelim) et seq., 6381 et seq.);”.
+
+Subsec. (d)(2)(H)(ii) to (vii). Pub. L. 114–95, § 9215(nn)(2)(A)(ii), redesignated cls. (iii) to (vii) as (ii) to (vi), respectively. Former cl. (ii) redesignated (i).
+
+Subsec. (d)(2)(J)(iii). Pub. L. 114–95, § 9215(nn)(2)(B), struck out “, such as entities carrying out Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6381&num=0&edition=prelim) et seq.)” after “local entities” in introductory provisions.
+
 2007—Pub. L. 110–134 amended section generally. Prior to amendment, section related to authorization of and prerequisites for designation of Head Start agencies in subsec. (a), definition of community in subsec. (b), priority in administration of section provisions in subsec. (c), designation in community without entity entitled to priority and qualified applicants in subsec. (d), designation on interim basis in subsec. (e), involvement of parents and area residents in selection of agencies in subsec. (f), and priority for nonprofit agencies and applicants with demonstrated capacity in subsec. (g).
 
 2004—Subsec. (d)(3). Pub. L. 108–446 substituted “U.S.C. 1431–1444” for “U.S.C 1431–1445”.
@@ -1731,6 +1748,9 @@ Subsecs. (d) to (f). Pub. L. 98–558, § 104(c), added subsecs. (d) and (e) and
 
 #### Change of Name
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act ([42 U.S.C. 9831](./chapter-105-community-services-programs.md#section-9831) et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as a note under [section 9832 of this title](./chapter-105-community-services-programs.md#section-9832).
@@ -2204,7 +2224,7 @@ Section effective May 18, 1994, but not applicable to Head Start agencies and ot
 
   (B) to afford such parents the opportunity to participate in the development and overall conduct of the program at the local level, including transportation assistance as appropriate.
 
-(4) Offer (directly or through referral to local entities, such as entities carrying out Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6381&num=0&edition=prelim) et seq.), public and school libraries, and entities carrying out family support programs) to such parents—
+(4) Offer (directly or through referral to local entities, public and school libraries, and entities carrying out family support programs) to such parents—
 
   (A) family literacy services; and
 
@@ -2446,7 +2466,7 @@ Section effective May 18, 1994, but not applicable to Head Start agencies and ot
 
     (iii) ensure a smooth transition to school for such children.
 
-(3) Coordinate activities and collaborate with programs under the Child Care and Development Block Grant Act of 1990 [[42 U.S.C. 9857](./chapter-105-community-services-programs.md#section-9857) et seq.], the agencies responsible for administering [section 5106a of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5106a) and parts B and E of title IV of the Social Security Act [[42 U.S.C. 620](./chapter-007-social-security.md#section-620) et seq., 670 et seq.], programs under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11431](./chapter-119-homeless-assistance.md#section-11431) et seq.), Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6381&num=0&edition=prelim) et seq.), programs under section 619 and part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1419](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1419&num=0&edition=prelim), 1431 et seq.), and other entities providing early childhood education and development programs or services, serving the children and families served by the Head Start agency.
+(3) Coordinate activities and collaborate with programs under the Child Care and Development Block Grant Act of 1990 [[42 U.S.C. 9857](./chapter-105-community-services-programs.md#section-9857) et seq.], the agencies responsible for administering [section 5106a of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5106a) and parts B and E of title IV of the Social Security Act [[42 U.S.C. 620](./chapter-007-social-security.md#section-620) et seq., 670 et seq.], programs under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11431](./chapter-119-homeless-assistance.md#section-11431) et seq.), programs under section 619 and part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1419](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1419&num=0&edition=prelim), 1431 et seq.), and other entities providing early childhood education and development programs or services, serving the children and families served by the Head Start agency.
 
 (4) Take steps to coordinate activities with the local educational agency serving the community involved and with schools in which children participating in the Head Start program will enroll following the program, including—
 
@@ -2533,8 +2553,6 @@ Section effective May 18, 1994, but not applicable to Head Start agencies and ot
 ### Statutory Notes
 
 #### References in Text
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(4) and (e)(3), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Subpart 3 of part B of title I of the Act is classified generally to subpart 3 (§ 6381 et seq.) of part B of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
-
 The Individuals with Disabilities Education Act, referred to in subsecs. (b)(14), (15), and (e)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to [section 1419 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1419&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
 The Child Care and Development Block Grant Act of 1990, referred to in subsec. (e)(3), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see [section 9857(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9857/a&num=0&edition=prelim) and Tables.
@@ -2544,6 +2562,10 @@ The Social Security Act, referred to in subsec. (e)(3), is act Aug. 14, 1935, ch
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (e)(3), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle B of title VII of the Act is classified generally to part B (§ 11431 et seq.) of subchapter VI of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of this title](./chapter-119-homeless-assistance.md#section-11301) and Tables.
 
 #### Amendments
+2015—Subsec. (b)(4). Pub. L. 114–95, § 9215(nn)(3)(A), struck out “, such as entities carrying out Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6381&num=0&edition=prelim) et seq.)” after “local entities” in introductory provisions.
+
+Subsec. (e)(3). Pub. L. 114–95, § 9215(nn)(3)(B), struck out “Even Start programs under subpart 3 of part B of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6381&num=0&edition=prelim) et seq.),” before “programs under section 619”.
+
 2007—Pub. L. 110–134 amended section generally. Prior to amendment, section related to, in subsec. (a), receipt, administration, and transfer of funds, sponsorship of projects, and delegation of authority, in subsec. (b), participation of parents in decisionmaking and implementation of programs, in subsec. (c), coordination with other agencies, in subsec. (d), transition coordination with schools, and, in subsec. (e), assessment when hiring or evaluating classroom teachers.
 
 2004—Subsec. (c). Pub. L. 108–446 substituted “1431–1444” for “1431–1445”.
@@ -2598,6 +2620,9 @@ Subsec. (c). Pub. L. 101–501, § 109(2), substituted “with schools that will
 
 1986—Subsec. (c). Pub. L. 99–425 inserted “State and local” before “programs”.
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act ([42 U.S.C. 9831](./chapter-105-community-services-programs.md#section-9831) et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as a note under [section 9832 of this title](./chapter-105-community-services-programs.md#section-9832).
 
@@ -2631,9 +2656,9 @@ Amendment by Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L
 
   (A) the instructional and other services provided by the school in which such child will enroll after participation in Head Start; and
 
-  (B) as appropriate, the information provided to parents of limited English proficient children under section 3302 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7012&num=0&edition=prelim));
+  (B) as appropriate, the information provided to parents of English learners under section 1112(e)(3) of the Elementary and Secondary Education Act of the 11 So in original. 1965 [[20 U.S.C. 6312(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6312/e/3&num=0&edition=prelim)];
 
-(8) developing and implementing a family outreach and support program, in cooperation with entities carrying out parental involvement efforts under title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) et seq.), and family outreach and support efforts under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11431](./chapter-119-homeless-assistance.md#section-11431) et seq.), taking into consideration the language needs of parents of limited English proficient children;
+(8) developing and implementing a family outreach and support program, in cooperation with entities carrying out parent and family engagement efforts under title I of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) et seq.], and family outreach and support efforts under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11431](./chapter-119-homeless-assistance.md#section-11431) et seq.), taking into consideration the language needs of parents of limited English proficient children;
 
 (9) assisting families, administrators, and teachers in enhancing educational and developmental continuity and continuity of parental involvement in activities between Head Start services and elementary school classes;
 
@@ -2667,7 +2692,14 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(8
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(8), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle B of title VII of the Act is classified generally to part B (§ 11431 et seq.) of subchapter VI of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of this title](./chapter-119-homeless-assistance.md#section-11301) and Tables.
 
 #### Amendments
+2015—Subsec. (a)(7)(B). Pub. L. 114–95, § 9215(nn)(4)(A), substituted “the information provided to parents of English learners under section 1112(e)(3) of the Elementary and Secondary Education Act of the 1965” for “the information provided to parents of limited English proficient children under section 3302 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7012&num=0&edition=prelim))”.
+
+Subsec. (a)(8). Pub. L. 114–95, § 9215(nn)(4)(B), substituted “parent and family engagement efforts under title I of the Elementary and Secondary Education Act of 1965” for “parental involvement efforts under title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) et seq.)”.
+
 2007—Pub. L. 110–134 amended section generally. Prior to amendment, section related to requirements for Head Start agencies to coordinate with local educational agencies and schools to assist in transition from Head Start to school.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 
 <a id="section-9837b"></a>
@@ -2898,9 +2930,9 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 
   (D) define employee duties in an appropriate manner that will in any case preclude employees from participating, in connection with the performance of their duties, in any form of picketing, protest, or other direct action that is in violation of law.
 
-**(b) Development and administrative costs of programs** Except as provided in subsection (f) of this section, no financial assistance shall be extended under this subchapter in any case in which the Secretary determines that the costs of developing and administering a program assisted under this subchapter exceed 15 percent of the total costs, including the required non-Federal contributions to such costs, of such program. The Secretary shall establish by regulation, criteria for determining (1) the costs of developing and administering such program; and (2) the total costs of such program. In any case in which the Secretary determines that the cost of administering such program does not exceed 15 percent of such total costs but is, in the judgment of the Secretary, excessive, the Secretary shall forthwith require the recipient of such financial assistance to take such steps prescribed by the Secretary as will eliminate such excessive administrative cost, including the sharing by one or more Head Start agencies of a common director and other administrative personnel. The Secretary may waive the limitation prescribed by this subsection for specific periods of time not to exceed 12 months whenever the Secretary determines that such a waiver is necessary in order to carry out the purposes of this subchapter.
+**(b) Development and administrative costs of programs** Except as provided in subsection (f), no financial assistance shall be extended under this subchapter in any case in which the Secretary determines that the costs of developing and administering a program assisted under this subchapter exceed 15 percent of the total costs, including the required non-Federal contributions to such costs, of such program. The Secretary shall establish by regulation, criteria for determining (1) the costs of developing and administering such program; and (2) the total costs of such program. In any case in which the Secretary determines that the cost of administering such program does not exceed 15 percent of such total costs but is, in the judgment of the Secretary, excessive, the Secretary shall forthwith require the recipient of such financial assistance to take such steps prescribed by the Secretary as will eliminate such excessive administrative cost, including the sharing by one or more Head Start agencies of a common director and other administrative personnel. The Secretary may waive the limitation prescribed by this subsection for specific periods of time not to exceed 12 months whenever the Secretary determines that such a waiver is necessary in order to carry out the purposes of this subchapter.
 
-**(c) Rules and regulations; special or simplified requirements for small agencies; common or joint use of facilities** The Secretary shall prescribe rules or regulations to supplement subsections (a) and (f) of this section, which shall be binding on all agencies carrying on Head Start program activities with financial assistance under this subchapter. The Secretary may, where appropriate, establish special or simplified requirements for smaller agencies or agencies operating in rural areas. Policies and procedures shall be established to ensure that indirect costs attributable to the common or joint use of facilities and services by programs assisted under this subchapter and other programs shall be fairly allocated among the various programs which utilize such facilities and services.
+**(c) Rules and regulations; special or simplified requirements for small agencies; common or joint use of facilities** The Secretary shall prescribe rules or regulations to supplement subsections (a) and (f), which shall be binding on all agencies carrying on Head Start program activities with financial assistance under this subchapter. The Secretary may, where appropriate, establish special or simplified requirements for smaller agencies or agencies operating in rural areas. Policies and procedures shall be established to ensure that indirect costs attributable to the common or joint use of facilities and services by programs assisted under this subchapter and other programs shall be fairly allocated among the various programs which utilize such facilities and services.
 
 **(d) Publication and notification of proposed rules, etc.** At least 30 days prior to their effective date, all rules, regulations, and application forms shall be published in the Federal Register and shall be sent to each grantee with the notification that each such grantee has the right to submit comments pertaining thereto to the Secretary prior to the final adoption thereof.
 
@@ -2978,9 +3010,9 @@ Subsec. (f)(3). Pub. L. 103–252, § 110(2)(B), added par. (3).
 
 Subsecs. (g), (h). Pub. L. 103–252, § 110(3), added subsecs. (g) and (h).
 
-1992—Subsec. (b). Pub. L. 102–401, § 2(j)(1), substituted “Except as provided in subsection (f) of this section, no” for “No”.
+1992—Subsec. (b). Pub. L. 102–401, § 2(j)(1), substituted “Except as provided in subsection (f), no” for “No”.
 
-Subsec. (c). Pub. L. 102–401, § 2(j)(2), substituted “subsections (a) and (f) of this section” for “subsection (a) of this section”.
+Subsec. (c). Pub. L. 102–401, § 2(j)(2), substituted “subsections (a) and (f)” for “subsection (a)”.
 
 Subsec. (f). Pub. L. 102–401, § 2(j)(3), added subsec. (f).
 
@@ -3068,7 +3100,7 @@ Pub. L. 103–252, title I, § 120, May 18, 1994, 108 Stat. 648, provided that: 
 
   (B) The following amounts of pay and allowance of a member of the uniformed services shall not be considered to be income for purposes of determining the eligibility of a dependent of such member for programs funded under this subchapter:
 
-    (i) The amount of any special pay payable under [section 310 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section310&num=0&edition=prelim), relating to duty subject to hostile fire or imminent danger.
+    (i) The amount of any special pay payable under section 310 or 351 of title 37, relating to duty subject to hostile fire or imminent danger.
 
     (ii) The amount of basic allowance payable under section 403 of such title, including any such amount that is provided on behalf of the member for housing that is acquired or constructed under the alternative authority for the acquisition and improvement of military housing under subchapter IV of chapter 169 of title 10 or any other related provision of law.
 
@@ -3110,7 +3142,7 @@ Pub. L. 103–252, title I, § 120, May 18, 1994, 108 Stat. 648, provided that: 
 
   (A) operates a Head Start program;
 
-  (B) enrolls as participants in the program all children in the community served by the tribe (including a community that is an off-reservation area, designated by an appropriate tribal government, in consultation with the Secretary) from families that meet the low-income criteria prescribed under subsection (a)(1)(A) of this section; and
+  (B) enrolls as participants in the program all children in the community served by the tribe (including a community that is an off-reservation area, designated by an appropriate tribal government, in consultation with the Secretary) from families that meet the low-income criteria prescribed under subsection (a)(1)(A); and
 
   (C) has the resources to enroll additional children in the community who do not meet the low-income criteria;
   may enroll such additional children in a Head Start program, in accordance with this subsection, if the program predominantly serves children who meet the low-income criteria.
@@ -3127,6 +3159,8 @@ Pub. L. 103–252, title I, § 120, May 18, 1994, 108 Stat. 648, provided that: 
 This Act, referred to in subsec. (d)(3), is Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, known as the Omnibus Budget Reconciliation Act of 1981. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2016—Subsec. (a)(3)(B)(i). Pub. L. 114–328 inserted “or 351” after “section 310”.
+
 2007—Subsec. (a). Pub. L. 110–134, § 14(1)(A), added par. (a)(1) and struck out former par. (1) which related to criteria for eligibility for participation in Head Start programs assisted under this subchapter.
 
 Subsec. (a)(3) to (5). Pub. L. 110–134, § 14(1)(B), added pars. (3) to (5).
@@ -3173,7 +3207,7 @@ Amendment by Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L
 ## § 9840a. Early Head Start programs
 **(a) In general** The Secretary shall make grants to entities (referred to in this subchapter as “Early Head Start agencies”) in accordance with this section for programs (referred to in this subchapter as “Early Head Start programs”) providing family-centered services for low-income families with very young children designed to promote the development of the children, and to enable their parents to fulfill their roles as parents and to move toward self-sufficiency.
 
-**(b) Scope and design of programs** In carrying out a program described in subsection (a) of this section, an entity receiving assistance under this section shall—
+**(b) Scope and design of programs** In carrying out a program described in subsection (a), an entity receiving assistance under this section shall—
 
 (1) provide, either directly or through referral, early, continuous, intensive, and comprehensive child development and family support services that will enhance the physical, social, emotional, and intellectual development of participating children;
 
@@ -3197,9 +3231,9 @@ Amendment by Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L
 
 (11) ensure formal linkages with providers of early intervention services for infants and toddlers with disabilities under the Individuals with Disabilities Education Act ([20 U.S.C. 1400](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) et seq.), with the State interagency coordinating council, as established in part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1431&num=0&edition=prelim) et seq.), and with the agency responsible for administering [section 5106a of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5106a);
 
-(12) meet such other requirements concerning design and operation of the program described in subsection (a) of this section as the Secretary may establish.
+(12) meet such other requirements concerning design and operation of the program described in subsection (a) as the Secretary may establish.
 
-**(c) Persons eligible to participate** Persons who may participate in programs described in subsection (a) of this section include—
+**(c) Persons eligible to participate** Persons who may participate in programs described in subsection (a) include—
 
 (1) pregnant women; and
 
@@ -3214,7 +3248,7 @@ who meet the eligibility criteria specified in [section 9840(a)(1) of this title
 
 (3) other public entities, and nonprofit or for-profit private entities, including community-based and faith-based organizations, capable of providing child and family services that meet the standards for participation in programs under this subchapter and meet such other appropriate requirements relating to the activities under this section as the Secretary may establish.
 
-**(e) Selection of grant recipients** The Secretary shall award grants under this section on a competitive basis to applicants meeting the criteria specified in subsection (d) of this section (giving priority to entities with a record of providing early, continuous, and comprehensive childhood development and family services).
+**(e) Selection of grant recipients** The Secretary shall award grants under this section on a competitive basis to applicants meeting the criteria specified in subsection (d) (giving priority to entities with a record of providing early, continuous, and comprehensive childhood development and family services).
 
 **(f) Distribution** In awarding grants to eligible applicants under this section, the Secretary shall—
 
@@ -3334,7 +3368,7 @@ Subsec. (b)(7). Pub. L. 105–285, § 113(3)(B), struck out “and” at end.
 
 Subsec. (b)(8), (9). Pub. L. 105–285, § 113(3)(C), (D), added par. (8) and redesignated former par. (8) as (9).
 
-Subsec. (c). Pub. L. 105–285, § 113(4)(A), substituted “subsection (a) of this section” for “subsection (a)(1) of this section” in introductory provisions.
+Subsec. (c). Pub. L. 105–285, § 113(4)(A), substituted “subsection (a)” for “subsection (a)(1)” in introductory provisions.
 
 Subsec. (c)(2). Pub. L. 105–285, § 113(4)(B), substituted “3;” for “3 (or under age 5, in the case of children served by an entity specified in subsection (e)(3) of this section);”.
 
@@ -3390,9 +3424,9 @@ Section effective May 18, 1994, but not applicable to Head Start agencies and ot
 
 (6) procedures to assure that in cases where a Head Start agency prevails in a decision under paragraph (4), the Secretary may determine and provide a reimbursement to the Head Start agency for fees deemed reasonable and customary.
 
-**(b) Notification of conflict by Head Start agency to regional office** In prescribing procedures for the mediation described in subsection (a)(4) of this section, the Secretary shall specify—
+**(b) Notification of conflict by Head Start agency to regional office** In prescribing procedures for the mediation described in subsection (a)(4), the Secretary shall specify—
 
-(1) the date by which a Head Start agency engaged in a conflict described in subsection (a)(4) of this section will notify the appropriate regional office of the Department of the conflict; and
+(1) the date by which a Head Start agency engaged in a conflict described in subsection (a)(4) will notify the appropriate regional office of the Department of the conflict; and
 
 (2) a reasonable period for the mediation.
 
@@ -3421,7 +3455,7 @@ Section effective May 18, 1994, but not applicable to Head Start agencies and ot
     (i) relates to the performance standards or financial management standards described in [section 9836a(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9836a/a/1&num=0&edition=prelim); and
 
     (ii) was the basis for the termination of financial assistance described in paragraph (1)(A);
-    as determined by the Secretary after providing the notice and opportunity described in subsection (a)(3) of this section.
+    as determined by the Secretary after providing the notice and opportunity described in subsection (a)(3).
 
 ### Statutory Notes
 
@@ -3499,7 +3533,7 @@ Amendment by section 115(1), (2) of Pub. L. 101–501 effective Oct. 1, 1990, an
 
     (ii) assisting Head Start agencies in ensuring the school readiness of children; and
 
-    (iii) activities that supplement those funded with amounts provided under [section 9835(a)(5)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9835/a/5/B&num=0&edition=prelim) to address the training and career development needs of classroom staff (including instruction for providing services to children with disabilities, and for activities described in [section 6372(d) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6372/d&num=0&edition=prelim)), and non-classroom staff, including home visitors and other staff working directly with families, including training relating to increasing parent involvement and services designed to increase family literacy and improve parenting skills; and
+    (iii) activities that supplement those funded with amounts provided under [section 9835(a)(5)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9835/a/5/B&num=0&edition=prelim) to address the training and career development needs of classroom staff (including instruction for providing services to children with disabilities 11 So in original. Probably should be followed by a closing parenthesis. and non-classroom staff, including home visitors and other staff working directly with families, including training relating to increasing parent involvement and services designed to increase family literacy and improve parenting skills; and
 
   (B) to the maximum extent practicable—
 
@@ -3681,6 +3715,8 @@ Amendment by section 115(1), (2) of Pub. L. 101–501 effective Oct. 1, 1990, an
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (a)(3)(A)(iii). Pub. L. 114–95 struck out “, and for activities described in [section 6372(d) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6372/d&num=0&edition=prelim)),” after “children with disabilities”.
+
 2007—Pub. L. 110–134 amended section generally. Prior to amendment, section related to, in subsec. (a), technical assistance and personnel training, in subsec. (b), consideration of local needs, in subsec. (c), prioritization of resource allocation, in subsec. (d), training in performing and visual arts and electronic media, and, in subsec. (e), child development and assessment program.
 
 1998—Subsec. (b)(3). Pub. L. 105–285, § 114(a)(1), added par. (3).
@@ -3735,6 +3771,9 @@ Subsecs. (c), (d). Pub. L. 102–586, § 7(b)(2), added subsecs. (c) and (d).
 
 #### Change of Name
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act ([42 U.S.C. 9831](./chapter-105-community-services-programs.md#section-9831) et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as a note under [section 9832 of this title](./chapter-105-community-services-programs.md#section-9832).
@@ -4600,15 +4639,13 @@ A prior section 9852a, Pub. L. 97–35, title VI, § 657A, as added Pub. L. 103�
 
       (II) the Early Head Start programs carried out under [section 9840a of this title](./chapter-105-community-services-programs.md#section-9840a);
 
-      (III) Early Reading First and Even Start programs carried out under subparts 2 and 3 of part B of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6371&num=0&edition=prelim) et seq., 6381 et seq.);
+      (III) preschool programs carried out under title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) et seq.);
 
-      (IV) other preschool programs carried out under title I of that Act ([20 U.S.C. 6301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) et seq.);
+      (IV) programs carried out under section 619 and part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1419](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1419&num=0&edition=prelim), 1431 et seq.);
 
-      (V) programs carried out under section 619 and part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1419](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1419&num=0&edition=prelim), 1431 et seq.);
+      (V) State prekindergarten programs; and
 
-      (VI) State prekindergarten programs; and
-
-      (VII) other programs of early childhood education and development.
+      (VI) other programs of early childhood education and development.
 
 (2) **Selection** — In selecting agencies to designate as centers of excellence under subsection (b), the Secretary shall designate not less than 1 from each of the 50 States, the District of Columbia, an Indian Head Start program, a migrant or seasonal Head Start program, and the Commonwealth of Puerto Rico.
 
@@ -4661,9 +4698,15 @@ A prior section 9852a, Pub. L. 97–35, title VI, § 657A, as added Pub. L. 103�
 ### Statutory Notes
 
 #### References in Text
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(B)(vi)(III), (IV), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. Subparts 2 and 3 of part B of title I of the Act are classified generally to subparts 2 (§ 6371 et seq.) and 3 (§ 6381 et seq.), respectively, of part B of subchapter I of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(B)(vi)(III), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (c)(1)(B)(vi)(V), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to [section 1419 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1419&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (c)(1)(B)(vi)(IV), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to [section 1419 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1419&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2015—Subsec. (c)(1)(B)(vi)(III) to (VII). Pub. L. 114–95 redesignated subcls. (IV) to (VII) as (III) to (VI), respectively, in subcl. (III) as redesignated, struck out “other” before “preschool programs” and substituted “the Elementary and Secondary Education Act of 1965” for “that Act”, and struck out former subcl. (III) which read as follows: “Early Reading First and Even Start programs carried out under subparts 2 and 3 of part B of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6371&num=0&edition=prelim) et seq., 6381 et seq.);”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 
 <a id="section-9852c"></a>
@@ -4824,9 +4867,9 @@ Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L
 
 (1) an assurance that the State will comply with the requirements of this subchapter; and
 
-(2) a State plan that meets the requirements of subsection (c) of this section.
+(2) a State plan that meets the requirements of subsection (c).
 
-**(b) Period covered by plan** The State plan contained in the application under subsection (a) of this section shall be designed to be implemented during a 3-year period.
+**(b) Period covered by plan** The State plan contained in the application under subsection (a) shall be designed to be implemented during a 3-year period.
 
 **(c) Requirements of a plan**
 
@@ -4905,7 +4948,7 @@ Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L
 
         (cc) children with disabilities; and
 
-        (dd) Native Americans, including Indians, as the term is defined in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim) (including Alaska Natives within the meaning of that term), and Native Hawaiians (as defined in [section 7517 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7517&num=0&edition=prelim)).
+        (dd) Native Americans, including Indians, as the term is defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim) (including Alaska Natives within the meaning of that term), and Native Hawaiians (as defined in [section 7517 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7517&num=0&edition=prelim)).
 
     (iii) *Information* — The plan shall include the number of hours of training required for eligible providers and caregivers to engage in annually, as determined by the State.
 
@@ -5023,7 +5066,7 @@ Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L
 
       (I) be research-based, developmentally appropriate, and aligned with entry to kindergarten;
 
-      (II) be implemented in consultation with the state educational agency and the State Advisory Council on Early Childhood Education and Care (designated or established pursuant to section 642B(b)(I)(A)(i) 55 So in original. Probably should be “642B(b)(1)(A)(i)”. of the Head Start Act ([42 U.S.C. 9837b(b)(1)(A)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9837b/b/1/A/i&num=0&edition=prelim)); and
+      (II) be implemented in consultation with the state 55 So in original. Probably should be capitalized. educational agency and the State Advisory Council on Early Childhood Education and Care (designated or established pursuant to section 642B(b)(I)(A)(i) 66 So in original. Probably should be “642B(b)(1)(A)(i)”. of the Head Start Act ([42 U.S.C. 9837b(b)(1)(A)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9837b/b/1/A/i&num=0&edition=prelim)); 77 So in original. Another closing parenthesis probably should precede the semicolon. and
 
       (III) be updated as determined by the State.
 
@@ -5115,7 +5158,7 @@ Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L
 
   (C) *Limitation on administrative costs* — Not more than 5 percent of the aggregate amount of funds available to the State to carry out this subchapter by a State in each fiscal year may be expended for administrative costs incurred by such State to carry out all of its functions and duties under this subchapter. As used in the preceding sentence, the term “administrative costs” shall not include the costs of providing direct services.
 
-  (D) *Assistance for certain families* — A State shall ensure that a substantial portion of the amounts available (after the State has complied with the requirement of section 418(b)(2) of the Social Security Act [[42 U.S.C. 618(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section618/b/2&num=0&edition=prelim)] with respect to each of the fiscal years 2015 through 2020 66 So in original. A closing parenthesis probably should appear. to the State to carry out activities under this subchapter in each fiscal year is used to provide assistance to low-income working families including or in addition to families with children described in clause (i), (ii), (iii), or (iv) of paragraph (2)(M).
+  (D) *Assistance for certain families* — A State shall ensure that a substantial portion of the amounts available (after the State has complied with the requirement of section 418(b)(2) of the Social Security Act [[42 U.S.C. 618(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section618/b/2&num=0&edition=prelim)] with respect to each of the fiscal years 2015 through 2020 88 So in original. A closing parenthesis probably should appear. to the State to carry out activities under this subchapter in each fiscal year is used to provide assistance to low-income working families including or in addition to families with children described in clause (i), (ii), (iii), or (iv) of paragraph (2)(M).
 
   (E) *Direct services* — From amounts provided to a State for a fiscal year to carry out this subchapter, the State shall—
 
@@ -5139,7 +5182,7 @@ Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L
 
       (II) taking into consideration the cost of providing higher quality child care services than were provided under this subchapter before November 19, 2014; and
 
-      (III) without, to the extent practicable, reducing the number of families in the State receiving such assistance to carry out this subchapter, relative to the number of such families on Novebmer 19, 2014; and
+      (III) without, to the extent practicable, reducing the number of families in the State receiving such assistance to carry out this subchapter, relative to the number of such families on November 19, 2014; and
 
     (iv) describe how the State will provide for timely payment for child care services provided under this subchapter.
 
@@ -5175,6 +5218,8 @@ The Food and Nutrition Act of 2008, referred to in subsec. (c)(2)(E)(i)(IV), is 
 The Individuals with Disabilities Education Act, referred to in subsec. (c)(2)(E)(i)(V), (ii)(I), (3)(B)(iii)(II)(cc), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (c)(2)(G)(ii)(V)(dd). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7517 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7517&num=0&edition=prelim).
+
 2014—Subsec. (b). Pub. L. 113–186, § 5(a), substituted “3-year” for “2-year”.
 
 Subsec. (c)(1). Pub. L. 113–186, § 5(b)(1), inserted “or established” after “designated”.
@@ -5241,6 +5286,9 @@ Subsec. (c)(4)(A). Pub. L. 104–193, § 605(2)(C), substituted “State plan sh
 
 1992—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, § 5082(2), which added this section.
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–33 effective as if included in the enactment of title VI of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5603 of Pub. L. 105–33, set out as a note under [section 618 of this title](./chapter-007-social-security.md#section-618).
 
@@ -5305,7 +5353,7 @@ Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L
 
   (C) including effective behavior management strategies and training, including positive behavior interventions and support models, that promote positive social and emotional development and reduce challenging behaviors, including reducing expulsions of preschool-aged children for such behaviors;
 
-  (E) providing training and outreach on engaging parents and families in culturally and linguistically appropriate ways to expand their knowledge, skills, and capacity to become meaningful partners in supporting their children’s positive development;
+  (E) 11 So in original. No subpar. (D) has been enacted. providing training and outreach on engaging parents and families in culturally and linguistically appropriate ways to expand their knowledge, skills, and capacity to become meaningful partners in supporting their children’s positive development;
 
   (F) providing training corresponding to the nutritional and physical activity needs of children to promote healthy development;
 
@@ -5670,7 +5718,7 @@ Pub. L. 102–586, § 8(d), Nov. 4, 1992, 106 Stat. 5036, provided that: “(1) 
 
   (A) *In general* — A State that receives funds to carry out this subchapter shall collect the information described in subparagraph (B) on a monthly basis.
 
-  (B) *Required information* — The information required under this subparagraph shall include, with respect to a family unit receiving assistance under this subchapter 11 So in original. Probably should be followed by a a comma. information concerning—
+  (B) *Required information* — The information required under this subparagraph shall include, with respect to a family unit receiving assistance under this subchapter 11 So in original. Probably should be followed by a comma. information concerning—
 
     (i) family income;
 
@@ -5731,7 +5779,7 @@ Pub. L. 102–586, § 8(d), Nov. 4, 1992, 106 Stat. 5036, provided that: “(1) 
 
   (E) the total number (without duplication) of children and families served under this subchapter; and
 
-  (F) the number of child fatalities occurring among children while in the care and facility of child care providers receiving assistance under this subchapter, listed by type of child care provider and indicating whether the providers (excluding child care providers described in [section 9858n(6)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9858n/6/B&num=0&edition=prelim)) are licensed or license-exempt.33 So in original. The period should probably be a semicolon.
+  (F) the number of child fatalities occurring among children while in the care and facility of child care providers receiving assistance under this subchapter, listed by type of child care provider and indicating whether the providers (excluding child care providers described in [section 9858n(6)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9858n/6/B&num=0&edition=prelim)) are licensed or license-exempt.33 So in original. The period probably should be a semicolon.
   during the period for which such report is required to be submitted.
 
 **(b) Audits**
@@ -5921,7 +5969,7 @@ Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L
 
 (2) **Indians 11 So in original. Probably should be “Indian”. tribes**
 
-  (A) *In general* — The Secretary shall reserve not less than 2 percent of the amount appropriated under [section 9858 of this title](./chapter-105-community-services-programs.md#section-9858) in each fiscal year for payments to Indian tribes and tribal organizations with applications approved under subsection (c) of this section.
+  (A) *In general* — The Secretary shall reserve not less than 2 percent of the amount appropriated under [section 9858 of this title](./chapter-105-community-services-programs.md#section-9858) in each fiscal year for payments to Indian tribes and tribal organizations with applications approved under subsection (c).
 
   (B) *Limitations* — Notwithstanding subparagraph (A), the Secretary shall only reserve an amount that is greater than 2 percent of the amount appropriated under [section 9858 of this title](./chapter-105-community-services-programs.md#section-9858), for payments described in subparagraph (A), for a fiscal year (referred to in this subparagraph as the “reservation year”) if—
 
@@ -5937,7 +5985,7 @@ Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L
 
 **(b) State allotment**
 
-(1) **General rule** — From the amounts appropriated under [section 9858 of this title](./chapter-105-community-services-programs.md#section-9858) for each fiscal year remaining after reservations under subsection (a) of this section, the Secretary shall allot to each State an amount equal to the sum of—
+(1) **General rule** — From the amounts appropriated under [section 9858 of this title](./chapter-105-community-services-programs.md#section-9858) for each fiscal year remaining after reservations under subsection (a), the Secretary shall allot to each State an amount equal to the sum of—
 
   (A) an amount that bears the same ratio to 50 percent of such remainder as the product of the young child factor of the State and the allotment percentage of the State bears to the sum of the corresponding products for all States; and
 
@@ -5967,7 +6015,7 @@ Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L
 
 **(c) Payments for benefit of Indian children**
 
-(1) **General authority** — From amounts reserved under subsection (a)(2) of this section, the Secretary may make grants to or enter into contracts with Indian tribes or tribal organizations that submit applications under this section, for the planning and carrying out of programs or activities consistent with the purposes of this subchapter.
+(1) **General authority** — From amounts reserved under subsection (a)(2), the Secretary may make grants to or enter into contracts with Indian tribes or tribal organizations that submit applications under this section, for the planning and carrying out of programs or activities consistent with the purposes of this subchapter.
 
 (2) **Applications and requirements** — An application for a grant or contract under this section shall provide that:
 
@@ -6011,11 +6059,11 @@ Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L
 
   (D) *Uniform procedures* — The Secretary shall develop and implement uniform procedures for the solicitation and consideration of requests under this paragraph.
 
-**(d) Data and information** The Secretary shall obtain from each appropriate Federal agency, the most recent data and information necessary to determine the allotments provided for in subsection (b) of this section.
+**(d) Data and information** The Secretary shall obtain from each appropriate Federal agency, the most recent data and information necessary to determine the allotments provided for in subsection (b).
 
 **(e) Reallotments**
 
-(1) **In general** — Any portion of the allotment under subsection (b) of this section to a State that the Secretary determines is not required to carry out a State plan approved under [section 9858c(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9858c/d&num=0&edition=prelim), in the period for which the allotment is made available, shall be reallotted by the Secretary to other States in proportion to the original allotments to the other States.
+(1) **In general** — Any portion of the allotment under subsection (b) to a State that the Secretary determines is not required to carry out a State plan approved under [section 9858c(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9858c/d&num=0&edition=prelim), in the period for which the allotment is made available, shall be reallotted by the Secretary to other States in proportion to the original allotments to the other States.
 
 (2) **Limitations**
 
@@ -6023,9 +6071,9 @@ Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L
 
   (B) *Reallotments* — The amount of such reduction shall be similarly reallotted among States for which no reduction in an allotment or reallotment is required by this subsection.
 
-(3) **Amounts reallotted** — For purposes of any other section of this subchapter, any amount reallotted to a State under this subsection shall be considered to be part of the allotment made under subsection (b) of this section to the State.
+(3) **Amounts reallotted** — For purposes of any other section of this subchapter, any amount reallotted to a State under this subsection shall be considered to be part of the allotment made under subsection (b) to the State.
 
-(4) **Indian tribes or tribal organizations** — Any portion of a grant or contract made to an Indian tribe or tribal organization under subsection (c) of this section that the Secretary determines is not being used in a manner consistent with the provision of this subchapter in the period for which the grant or contract is made available, shall be allotted by the Secretary to other tribes or organizations that have submitted applications under subsection (c) of this section in accordance with their respective needs.
+(4) **Indian tribes or tribal organizations** — Any portion of a grant or contract made to an Indian tribe or tribal organization under subsection (c) that the Secretary determines is not being used in a manner consistent with the provision of this subchapter in the period for which the grant or contract is made available, shall be allotted by the Secretary to other tribes or organizations that have submitted applications under subsection (c) in accordance with their respective needs.
 
 **(f) “State” defined** For the purposes of this section, the term “State” includes only the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
@@ -6097,7 +6145,7 @@ As used in this subchapter:
 
     (ii) is receiving, or needs to receive, protective services and resides with a parent or parents not described in clause (i).
 
-(5) **English learner** — The term “English learner” means an individual who is limited English proficient, as defined in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim) or [section 9832 of this title](./chapter-105-community-services-programs.md#section-9832).
+(5) **English learner** — The term “English learner” means an individual who is an English learner, as defined in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim), or who is limited English proficient, as defined in [section 9832 of this title](./chapter-105-community-services-programs.md#section-9832).
 
 (6) **Eligible child care provider** — The term “eligible child care provider” means—
 
@@ -6112,7 +6160,7 @@ As used in this subchapter:
 
 (7) **Family child care provider** — The term “family child care provider” means one individual who provides child care services for fewer than 24 hours per day, as the sole caregiver, and in a private residence.
 
-(8) **Indian tribe** — The term “Indian tribe” has the meaning given it in [section 450b(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim).
+(8) **Indian tribe** — The term “Indian tribe” has the meaning given it in [section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim).
 
 (9) **Lead agency** — The term “lead agency” means the agency designated or established under [section 9858b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9858b/a&num=0&edition=prelim).
 
@@ -6128,7 +6176,7 @@ As used in this subchapter:
 
 (15) **Tribal organization**
 
-  (A) *In general* — The term “tribal organization” has the meaning given it in section 450b(l) of title 25.
+  (A) *In general* — The term “tribal organization” has the meaning given it in section 5304(l) of title 25.
 
   (B) *Other organizations* — Such term includes a Native Hawaiian Organization, as defined in section 4909(4) 11 See References in Text note below. of title 20 and a private nonprofit organization established for the purpose of serving youth who are Indians or Native Hawaiians.
 
@@ -6140,6 +6188,8 @@ The Individuals with Disabilities Education Act, referred to in par. (3)(B), is 
 [Section 4909 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section4909&num=0&edition=prelim), referred to in par. (15)(B), was repealed by Pub. L. 103–382, title III, § 363, Oct. 20, 1994, 108 Stat. 3975.
 
 #### Amendments
+2015—Par. (5). Pub. L. 114–95 substituted “an individual who is an English learner, as defined in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim), or who is limited English proficient, as defined in [section 9832 of this title](./chapter-105-community-services-programs.md#section-9832)” for “an individual who is limited English proficient, as defined in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim) or [section 9832 of this title](./chapter-105-community-services-programs.md#section-9832)”.
+
 2014—Pars. (3), (4). Pub. L. 113–186, § 10(1), added pars. (3) and (4) and struck out former par. (4) which defined “eligible child”.
 
 Par. (5). Pub. L. 113–186, § 10(3), added par. (5). Former par. (5) redesignated (6).
@@ -6174,13 +6224,16 @@ Par. (14). Pub. L. 104–193, § 614(7), designated existing text as subpar. (A)
 
 1992—Pub. L. 102–401, § 3(a), and Pub. L. 102–586, § 8(c)(1), made identical technical corrections to directory language of Pub. L. 101–508, § 5082(2), which added this section.
 
-Par. (7). Pub. L. 102–586, § 8(c)(2)(A), as amended by Pub. L. 103–171, which directed the amendment of par. (7) by substituting “[section 450b(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim)” for “[section 450b(b) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/b&num=0&edition=prelim)”, could not be executed because the words “[section 450b(b) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/b&num=0&edition=prelim)” did not appear subsequent to execution of the amendment by Pub. L. 102–401, § 3(b)(1). See below.
+Par. (7). Pub. L. 102–586, § 8(c)(2)(A), as amended by Pub. L. 103–171, which directed the amendment of par. (7) by substituting “[section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim)” for “[section 5304(b) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/b&num=0&edition=prelim)”, could not be executed because the words “[section 5304(b) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/b&num=0&edition=prelim)” did not appear subsequent to execution of the amendment by Pub. L. 102–401, § 3(b)(1). See below.
 
-Pub. L. 102–401, § 3(b)(1), substituted “[section 450b(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim)” for “[section 450b(b) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/b&num=0&edition=prelim)”.
+Pub. L. 102–401, § 3(b)(1), substituted “[section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim)” for “[section 5304(b) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/b&num=0&edition=prelim)”.
 
-Par. (14). Pub. L. 102–586, § 8(c)(2)(B), as amended by Pub. L. 103–171, which directed the amendment of par. (14) by substituting “section 450b(l) of title 25” for “[section 450b(c) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/c&num=0&edition=prelim)”, could not be executed because the words “[section 450b(c) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/c&num=0&edition=prelim)” did not appear subsequent to execution of the amendment by Pub. L. 102–401, § 3(b)(2). See below.
+Par. (14). Pub. L. 102–586, § 8(c)(2)(B), as amended by Pub. L. 103–171, which directed the amendment of par. (14) by substituting “section 5304(l) of title 25” for “[section 5304(c) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/c&num=0&edition=prelim)”, could not be executed because the words “[section 5304(c) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/c&num=0&edition=prelim)” did not appear subsequent to execution of the amendment by Pub. L. 102–401, § 3(b)(2). See below.
 
-Pub. L. 102–401, § 3(b)(2), substituted “section 450b(l) of title 25” for “[section 450b(c) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/c&num=0&edition=prelim)”.
+Pub. L. 102–401, § 3(b)(2), substituted “section 5304(l) of title 25” for “[section 5304(c) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/c&num=0&edition=prelim)”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–33 effective as if included in the enactment of title VI of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5603 of Pub. L. 105–33, set out as a note under [section 618 of this title](./chapter-007-social-security.md#section-618).
@@ -6301,7 +6354,7 @@ The Secretary shall make allotments to eligible States under [section 9859c of t
 
 **(b) State allotments**
 
-(1) **General rule** — From the amounts appropriated under [section 9859a of this title](./chapter-105-community-services-programs.md#section-9859a) for each fiscal year and remaining after reservations are made under subsection (a) of this section, the Secretary shall allot to each State an amount equal to the sum of—
+(1) **General rule** — From the amounts appropriated under [section 9859a of this title](./chapter-105-community-services-programs.md#section-9859a) for each fiscal year and remaining after reservations are made under subsection (a), the Secretary shall allot to each State an amount equal to the sum of—
 
   (A) an amount that bears the same ratio to 50 percent of such remainder as the product of the young child factor of the State and the allotment percentage of the State bears to the sum of the corresponding products for all States; and
 
@@ -6329,7 +6382,7 @@ The Secretary shall make allotments to eligible States under [section 9859c of t
 
     (iii) equal to the average of the annual per capita incomes for the most recent period of 3 consecutive years for which satisfactory data are available from the Department of Commerce on the date such determination is made.
 
-**(c) Data and information** The Secretary shall obtain from each appropriate Federal agency, the most recent data and information necessary to determine the allotments provided for in subsection (b) of this section.
+**(c) Data and information** The Secretary shall obtain from each appropriate Federal agency, the most recent data and information necessary to determine the allotments provided for in subsection (b).
 
 **(d) Definition** In this section, the term “State” includes only the several States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
@@ -6459,7 +6512,7 @@ For short title of this subchapter as the “State Dependent Care Development Gr
 ## § 9872. Allotments
 **(a)** From the amounts appropriated under [section 9871 of this title](./chapter-105-community-services-programs.md#section-9871) for each fiscal year, the Secretary shall allot to each State an amount which bears the same ratio to the total amount appropriated under such section for such fiscal year as the population of the State bears to the population of all States, except that no State may receive less than $50,000 in each fiscal year.
 
-**(b)** For the purpose of the exception contained in subsection (a) of this section, the term “State” does not include Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
+**(b)** For the purpose of the exception contained in subsection (a), the term “State” does not include Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 
 ### Statutory Notes
 
@@ -6477,7 +6530,7 @@ The Secretary shall make payments, as provided by [section 6503(a) of title 31](
 ## § 9874. Use of allotments
 **(a) Referral systems; information; contents**
 
-(1) Subject to the provisions of subsections (c) and (d) of this section, amounts paid to a State under [section 9873 of this title](./chapter-105-community-services-programs.md#section-9873) from its allotment under [section 9872 of this title](./chapter-105-community-services-programs.md#section-9872) may be used for the planning, development, establishment, operation, expansion, or improvement by the States, directly or by grant or contract with public or private entities, of State and local resource and referral systems to provide information concerning the availability, types, costs, and locations of dependent care services. The information provided by any such system may include—
+(1) Subject to the provisions of subsections (c) and (d), amounts paid to a State under [section 9873 of this title](./chapter-105-community-services-programs.md#section-9873) from its allotment under [section 9872 of this title](./chapter-105-community-services-programs.md#section-9872) may be used for the planning, development, establishment, operation, expansion, or improvement by the States, directly or by grant or contract with public or private entities, of State and local resource and referral systems to provide information concerning the availability, types, costs, and locations of dependent care services. The information provided by any such system may include—
 
   (A) the types of dependent care services available, including services provided by individual homes, religious organizations, community organizations, employers, private industry, and public and private institutions;
 
@@ -6501,7 +6554,7 @@ The Secretary shall make payments, as provided by [section 6503(a) of title 31](
 
 **(b) School-age child care services; assurances; estimates**
 
-(1) Subject to the provisions of subsections (c) and (d) of this section, amounts paid to a State under [section 9873 of this title](./chapter-105-community-services-programs.md#section-9873) from its allotment under [section 9872 of this title](./chapter-105-community-services-programs.md#section-9872) may be used for the planning, development, establishment, operation, expansion, or improvement by the States, directly, or by grant or contract, with public agencies or private nonprofit organizations of programs to furnish school-age child care services before and after school. Amounts so paid to a State and used for the operation of such child care services shall be designed to enable children, whose families lack adequate financial resources, to participate in before or after school child care programs.
+(1) Subject to the provisions of subsections (c) and (d), amounts paid to a State under [section 9873 of this title](./chapter-105-community-services-programs.md#section-9873) from its allotment under [section 9872 of this title](./chapter-105-community-services-programs.md#section-9872) may be used for the planning, development, establishment, operation, expansion, or improvement by the States, directly, or by grant or contract, with public agencies or private nonprofit organizations of programs to furnish school-age child care services before and after school. Amounts so paid to a State and used for the operation of such child care services shall be designed to enable children, whose families lack adequate financial resources, to participate in before or after school child care programs.
 
 (2) The State, with respect to the uses of funds described in paragraph (1) of this subsection shall—
 
@@ -6527,9 +6580,9 @@ The Secretary shall make payments, as provided by [section 6503(a) of title 31](
 
 (1) Except as provided in paragraph (2), of the allotment to each State in each fiscal year—
 
-  (A) 40 percent shall be available for the activities described in subsection (a) of this section;
+  (A) 40 percent shall be available for the activities described in subsection (a);
 
-  (B) 60 percent shall be available for the activities described in subsection (b) of this section.
+  (B) 60 percent shall be available for the activities described in subsection (b).
 
 (2) For any fiscal year the Secretary may waive the percentage requirements specified in paragraph (1) on the request of a State if such State demonstrates to the satisfaction of the Secretary—
 
@@ -6602,9 +6655,9 @@ Amendment by Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L
 
 (1) In order to receive an allotment under [section 9872 of this title](./chapter-105-community-services-programs.md#section-9872), each State shall submit an application to the Secretary. Each such application shall be in such form and submitted by such date as the Secretary shall require.
 
-(2) Each application required under paragraph (1) for an allotment under [section 9872 of this title](./chapter-105-community-services-programs.md#section-9872) shall contain assurances that the State will meet the requirements of subsection (b) of this section.
+(2) Each application required under paragraph (1) for an allotment under [section 9872 of this title](./chapter-105-community-services-programs.md#section-9872) shall contain assurances that the State will meet the requirements of subsection (b).
 
-**(b) Certifications** As part of the annual application required by subsection (a) of this section, the chief executive officer of each State shall—
+**(b) Certifications** As part of the annual application required by subsection (a), the chief executive officer of each State shall—
 
 (1) certify that the State agrees to use the funds allotted to it under [section 9872 of this title](./chapter-105-community-services-programs.md#section-9872) in accordance with the requirements of this subchapter; and
 
@@ -6613,7 +6666,7 @@ The Secretary may not prescribe for a State the manner of compliance with the re
 
 **(c) Description; intended use of payments; comments; revision**
 
-(1) The chief executive officer of a State shall, as part of the application required by subsection (a) of this section, also prepare and furnish the Secretary (in accordance with such form as the Secretary shall provide) with a description of the intended use of the payments the State will receive under [section 9873 of this title](./chapter-105-community-services-programs.md#section-9873), including information on the programs and activities to be supported. The description shall be made public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during development of the description and after its transmittal. The description shall be revised (consistent with this section) until September 30, 1991, as may be necessary to reflect substantial changes in the programs and activities assisted by the State under this subchapter, and any revision shall be subject to the requirements of the preceding sentence.
+(1) The chief executive officer of a State shall, as part of the application required by subsection (a), also prepare and furnish the Secretary (in accordance with such form as the Secretary shall provide) with a description of the intended use of the payments the State will receive under [section 9873 of this title](./chapter-105-community-services-programs.md#section-9873), including information on the programs and activities to be supported. The description shall be made public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during development of the description and after its transmittal. The description shall be revised (consistent with this section) until September 30, 1991, as may be necessary to reflect substantial changes in the programs and activities assisted by the State under this subchapter, and any revision shall be subject to the requirements of the preceding sentence.
 
 (2) The chief executive officer of each State shall include in such a description of—
 
@@ -6685,14 +6738,18 @@ For purposes of this subchapter—
 
 (10) the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, Palau, and the Commonwealth of the Northern Mariana Islands; and
 
-(11) the term “State educational agency” has the meaning given that term under [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+(11) the term “State educational agency” has the meaning given that term under section 7801 11 See References in Text note below. of title 20.
 
 ### Statutory Notes
 
 #### References in Text
 Section 198 of the Elementary and Secondary Education Act of 1965, referred to in par. (4), is section 198 of Pub. L. 89–10, title I, as added Pub. L. 95–561, title I, § 101(a), Nov. 1, 1978, 92 Stat. 2198, as amended, which was classified to [section 2854 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2854&num=0&edition=prelim), Education, prior to the general revision of Pub. L. 89–10 by Pub. L. 100–297, title I, § 1001, Apr. 28, 1988, 102 Stat. 140.
 
+[Section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim), referred to in par. (11), was in the original a reference to section 9101 of Pub. L. 89–10, which was renumbered section 8101 by Pub. L. 114–95, title VIII, § 8001(a)(1), Dec. 10, 2015, 129 Stat. 2089.
+
 #### Amendments
+2015—Par. (6). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
 2002—Pars. (6), (11). Pub. L. 107–110 substituted “7801” for “8801”.
 
 2000—Par. (3). Pub. L. 106–402 substituted “[section 15002 of this title](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15002)” for “[section 6001(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6001/7&num=0&edition=prelim)”.
@@ -6710,6 +6767,9 @@ Par. (7). Pub. L. 101–501, § 305(c)(2), inserted “in” after first referen
 Par. (10). Pub. L. 101–501, § 305(c)(3), substituted “Federated States of Micronesia, the Republic of the Marshall Islands, Palau” for “Trust Territory of the Pacific Islands”.
 
 1986—Par. (7). Pub. L. 99–425 inserted “, except that in any State which by State law children at an earlier age are provided free public education, the age provided in State law shall be substituted for age five”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.

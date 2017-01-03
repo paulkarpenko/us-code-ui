@@ -4918,6 +4918,9 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 #### Amendments
 1980—Pub. L. 96–221, § 309(b)(2), substituted “title” for “subchapter”, which for purposes of codification has been editorially translated as “subchapter”, thereby requiring no further change in text.
 
+#### Effective Date
+Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under [section 1795 of this title](./chapter-014-federal-credit-unions.md#section-1795).
+
 
 <a id="section-1795d"></a>
 ## § 1795d. National Credit Union Administration Central Liquidity Facility; establishment; management; jurisdiction
@@ -4941,6 +4944,9 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1979, see section 2813(c) of Pub
 
 #### Effective Date of 1978 Amendment
 Amendment effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under [section 1752 of this title](./chapter-014-federal-credit-unions.md#section-1752).
+
+#### Effective Date
+Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under [section 1795 of this title](./chapter-014-federal-credit-unions.md#section-1795).
 
 
 <a id="section-1795e"></a>
@@ -4990,6 +4996,9 @@ Subsecs. (d), (e). Pub. L. 96–221, § 309(a)(4), (b)(2), substituted “Board�
 #### Effective Date of 1978 Amendment
 Amendment effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630 set out as a note under [section 1752 of this title](./chapter-014-federal-credit-unions.md#section-1752).
 
+#### Effective Date
+Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under [section 1795 of this title](./chapter-014-federal-credit-unions.md#section-1795).
+
 
 <a id="section-1795f"></a>
 ## § 1795f. Capital stock
@@ -5028,6 +5037,9 @@ Subsecs. (c) to (e). Pub. L. 96–221, § 309(a)(4), substituted “Board” for
 #### Effective Date of 1978 Amendment
 Amendment effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under [section 1752 of this title](./chapter-014-federal-credit-unions.md#section-1752).
 
+#### Effective Date
+Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under [section 1795 of this title](./chapter-014-federal-credit-unions.md#section-1795).
+
 
 <a id="section-1795g"></a>
 ## § 1795g. Extensions of credit
@@ -5053,6 +5065,9 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 #### Effective Date of 1978 Amendment
 Amendment effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under [section 1752 of this title](./chapter-014-federal-credit-unions.md#section-1752).
+
+#### Effective Date
+Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under [section 1795 of this title](./chapter-014-federal-credit-unions.md#section-1795).
 
 
 <a id="section-1795h"></a>
@@ -5122,6 +5137,9 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 #### Effective Date of 1978 Amendment
 Amendment effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under [section 1752 of this title](./chapter-014-federal-credit-unions.md#section-1752).
 
+#### Effective Date
+Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under [section 1795 of this title](./chapter-014-federal-credit-unions.md#section-1795).
+
 
 <a id="section-1795i"></a>
 ## § 1795i. Depositories, custodians, and fiscal agents
@@ -5141,6 +5159,9 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 #### Effective Date of 1978 Amendment
 Amendment effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under [section 1752 of this title](./chapter-014-federal-credit-unions.md#section-1752).
 
+#### Effective Date
+Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under [section 1795 of this title](./chapter-014-federal-credit-unions.md#section-1795).
+
 
 <a id="section-1795j"></a>
 ## § 1795j. Audit of financial transactions
@@ -5151,6 +5172,9 @@ The Comptroller General of the United States shall audit the Central Liquidity F
 
 #### Codification
 Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of act June 26, 1934, ch. 750, cited as a credit to this section.
+
+#### Effective Date
+Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under [section 1795 of this title](./chapter-014-federal-credit-unions.md#section-1795).
 
 
 <a id="section-1795k"></a>
@@ -5165,3 +5189,6 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 #### Amendments
 2006—Pub. L. 109–351 substituted “section 1752a(d)” for “section 1752a(e)”.
+
+#### Effective Date
+Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under [section 1795 of this title](./chapter-014-federal-credit-unions.md#section-1795).

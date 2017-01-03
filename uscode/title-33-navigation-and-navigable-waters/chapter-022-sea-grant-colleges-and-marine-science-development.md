@@ -396,7 +396,7 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 (2) Subject to the supervision of the Secretary, the Director shall administer the national sea grant college program and oversee the operation of the national sea grant office. In addition to any other duty prescribed by law or assigned by the Secretary, the Director shall—
 
-  (A) facilitate and coordinate the development of a strategic plan under subsection (c)(1) of this section;
+  (A) facilitate and coordinate the development of a strategic plan under subsection (c)(1);
 
   (B) advise the Secretary with respect to the expertise and capabilities which are available within or through the national sea grant college program and encourage the use of such expertise and capabilities, on a cooperative or other basis, by other offices and activities within the Administration, and other Federal departments and agencies;
 
@@ -406,7 +406,7 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 (3) With respect to sea grant colleges and sea grant institutes, the Director shall—
 
-  (A) evaluate and assess the performance of the programs of sea grant colleges and sea grant institutes, using the priorities, guidelines, and qualifications established by the Secretary under subsection (c) of this section, and determine which of the programs are the best managed and carry out the highest quality research, education, extension, and training activities;
+  (A) evaluate and assess the performance of the programs of sea grant colleges and sea grant institutes, using the priorities, guidelines, and qualifications established by the Secretary under subsection (c), and determine which of the programs are the best managed and carry out the highest quality research, education, extension, and training activities;
 
   (B) subject to the availability of appropriations, allocate funding among sea grant colleges and sea grant institutes so as to—
 
@@ -422,7 +422,7 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
     (vi) encourage cooperation with Minority Serving Institutions to enhance collaborative research opportunities and increase the number of such students graduating in NOAA science areas; and
 
-  (C) ensure compliance with the guidelines for merit review under subsection (c)(2) of this section.
+  (C) ensure compliance with the guidelines for merit review under subsection (c)(2).
 
 ### Statutory Notes
 
@@ -531,11 +531,11 @@ The total amount paid pursuant to any such grant or contract may equal 66⅔ per
 
 **(b) Special grants; maximum amount; prerequisites** The Secretary may make special grants under this subsection to implement the objective set forth in [section 1121(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1121/b&num=0&edition=prelim). The amount of any such grant may equal 100 percent, or any lesser percent, of the total cost of the project involved. No grant may be made under this subsection unless the Secretary finds that—
 
-(1) no reasonable means is available through which the applicant can meet the matching requirement for a grant under subsection (a) of this section;
+(1) no reasonable means is available through which the applicant can meet the matching requirement for a grant under subsection (a);
 
 (2) the probable benefit of such project outweighs the public interest in such matching requirement; and
 
-(3) the same or equivalent benefit cannot be obtained through the award of a contract or grant under subsection (a) of this section.
+(3) the same or equivalent benefit cannot be obtained through the award of a contract or grant under subsection (a).
 The total amount that may be provided for grants under this subsection during any fiscal year shall not exceed an amount equal to 5 percent of the total funds appropriated for such year under [section 1131 of this title](./chapter-022-sea-grant-colleges-and-marine-science-development.md#section-1131).
 
 **(c) Eligibility and procedure** Any person may apply to the Secretary for a grant or contract under this section. Application shall be made in such form and manner, and with such content and other submissions, as the Secretary shall by regulation prescribe. The Secretary shall act upon each such application within 6 months after the date on which all required information is received.
@@ -623,9 +623,9 @@ Section, Pub. L. 89–454, title II, § 206, as added Pub. L. 94–461, § 2, Oc
 
   (B) maintains a program which includes, at a minimum, research and extension services.
 
-**(b) Existing designees** Any institution, or association or alliance of two or more such institutions, designated as a sea grant college or awarded institutional program status by the Director prior to March 6, 1998, shall not have to reapply for designation as a sea grant college or sea grant institute, respectively, after March 6, 1998, if the Director determines that the institution, or association or alliance of institutions, meets the qualifications in subsection (a) of this section.
+**(b) Existing designees** Any institution, or association or alliance of two or more such institutions, designated as a sea grant college or awarded institutional program status by the Director prior to March 6, 1998, shall not have to reapply for designation as a sea grant college or sea grant institute, respectively, after March 6, 1998, if the Director determines that the institution, or association or alliance of institutions, meets the qualifications in subsection (a).
 
-**(c) Suspension or termination of designation** The Secretary may, for cause and after an opportunity for hearing, suspend or terminate any designation under subsection (a) of this section.
+**(c) Suspension or termination of designation** The Secretary may, for cause and after an opportunity for hearing, suspend or terminate any designation under subsection (a).
 
 **(d) Duties** Subject to any regulations prescribed or guidelines established by the Secretary, it shall be the responsibility of each sea grant college and sea grant institute—
 
@@ -745,7 +745,7 @@ Pub. L. 100–66, § 4, July 10, 1987, 101 Stat. 385, provided that: “The amen
 
 (6) The Board shall meet on a biannual basis and, at any other time, at the call of the Chairman or upon the request of a majority of the voting members or of the Director.
 
-(7) The Board may exercise such powers as are reasonably necessary in order to carry out its duties under subsection (b) of this section.
+(7) The Board may exercise such powers as are reasonably necessary in order to carry out its duties under subsection (b).
 
 (8) The Board may establish such subcommittees as are reasonably necessary to carry out its duties under subsection (b). Such subcommittees may include individuals who are not Board members.
 
@@ -859,9 +859,9 @@ Section, Pub. L. 89–454, title II, § 211, as added Pub. L. 94–461, § 2, Oc
 
   (B) the amount appropriated under this subchapter for the fiscal year.
 
-(2) **Use for other offices or programs** — Sums appropriated under the authority of subsection (a)(2) of this section shall not be available for administration of this subchapter by the National Sea Grant Office, for any other Administration or department program, or for any other administrative expenses.
+(2) **Use for other offices or programs** — Sums appropriated under the authority of subsection (a)(2) shall not be available for administration of this subchapter by the National Sea Grant Office, for any other Administration or department program, or for any other administrative expenses.
 
-**(c) Distribution of funds** In any fiscal year in which the appropriations made under subsection (a)(1) of this section exceed the amounts appropriated for fiscal year 2003 for the purposes described in such subsection, the Secretary shall distribute any excess amounts (except amounts used for the administration of the sea grant program) to any combination of the following:
+**(c) Distribution of funds** In any fiscal year in which the appropriations made under subsection (a)(1) exceed the amounts appropriated for fiscal year 2003 for the purposes described in such subsection, the Secretary shall distribute any excess amounts (except amounts used for the administration of the sea grant program) to any combination of the following:
 
 (1) sea grant programs, according to their performance assessments;
 

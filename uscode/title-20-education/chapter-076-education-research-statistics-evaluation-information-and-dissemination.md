@@ -10,7 +10,7 @@ source: >-
 ## § 9501. Authorization of appropriations
 **(a) In general** There are authorized to be appropriated to administer and carry out this subchapter (except [section 9564 of this title](./chapter-076-education-research-statistics-evaluation-information-and-dissemination.md#section-9564)) $400,000,000 for fiscal year 2003 and such sums as may be necessary for each of the 5 succeeding fiscal years, of which—
 
-(1) not less than the amount provided to the National Center for Education Statistics (as such Center was in existence on the day before November 5, 2002) for fiscal year 2002 shall be provided to the National Center for Education Statistics, as authorized under part C of this subchapter; and
+(1) not less than the amount provided to the National Center for Education Statistics (as such Center was in existence on the day before November 5, 2002) for fiscal year 2002 shall be provided to the National Center for Education Statistics, as authorized under part C; and
 
 (2) not more than the lesser of 2 percent of such funds or $1,000,000 shall be made available to carry out [section 9516 of this title](./chapter-076-education-research-statistics-evaluation-information-and-dissemination.md#section-9516) (relating to the National Board for Education Sciences).
 
@@ -24,7 +24,13 @@ source: >-
 
 In this subchapter:
 
-(1) **In general** — The terms “elementary school”, “secondary school”, “local educational agency”, and “State educational agency” have the meanings given those terms in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801) and the terms “freely associated states” and “outlying area” have the meanings given those terms in [section 6331(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6331/c&num=0&edition=prelim).
+(1)
+
+  (A) *In general* — The terms “elementary school”, “secondary school”, “local educational agency”, and “State educational agency” have the meanings given those terms in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
+
+  (B) *Outlying areas* — The term “outlying areas” has the meaning given such term in [section 6331(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6331/c&num=0&edition=prelim).
+
+  (C) *Freely associated states* — The term “freely associated states” means the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
 (2) **Applied research** — The term “applied research” means research—
 
@@ -135,6 +141,12 @@ In this subchapter:
 #### References in Text
 The Head Start Act, referred to in par. (17)(B), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of this Title](./chapter-078-science-technology-engineering-mathematics-and-critical-foreign-language-education.md#section-9801) 42 and Tables.
 
+#### Amendments
+2015—Par. (1). Pub. L. 114–95 amended par. (1) generally. Prior to amendment, text read as follows: “The terms ‘elementary school’, ‘secondary school’, ‘local educational agency’, and ‘State educational agency’ have the meanings given those terms in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801) and the terms ‘freely associated states’ and ‘outlying area’ have the meanings given those terms in [section 6331(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6331/c&num=0&edition=prelim).”
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
+
 #### Short Title
 Pub. L. 107–279, title I, § 101, Nov. 5, 2002, 116 Stat. 1941, provided that: “This title [enacting this subchapter] may be cited as the ‘Education Sciences Reform Act of 2002’.”
 
@@ -143,7 +155,7 @@ Pub. L. 107–279, title II, § 201, Nov. 5, 2002, 116 Stat. 1975, provided that
 Pub. L. 107–279, title III, § 301, Nov. 5, 2002, 116 Stat. 1982, provided that: “This title [enacting subchapter III of this chapter] may be referred to as the ‘National Assessment of Educational Progress Authorization Act’.”
 
 #### Orderly Transition
-Pub. L. 107–279, title IV, § 405, Nov. 5, 2002, 116 Stat. 1986, provided that: “The Secretary of Education shall take such steps as are necessary to provide for the orderly transition to, and implementation of, the offices, boards, committees, and centers (and their various functions and responsibilities) established or authorized by this Act [enacting this chapter and [section 3419 of this title](./chapter-048-department-of-education.md#section-3419), amending sections 1232j, 3412, 3461, 6194, 6311, 6312, 6317, 6491, 6932, 7013, 7253c, 7283b, 7283d, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 of this title and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, transferring sections 9010 and 9011 of this title to sections 9622 and 9621 of this title, respectively, repealing sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacting provisions set out as notes under this section and [section 7703 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7703), and repealing provisions set out as notes under sections 1221e and 9001 of this title], and by the amendments made by this Act, from those established or authorized by the Educational Research, Development, Dissemination, and Improvement Act of 1994 ([20 U.S.C. 6001](./chapter-068-national-education-reform.md#section-6001) et seq.) and the National Education Statistics Act of 1994 ([20 U.S.C. 9001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9001&num=0&edition=prelim) et seq.).”
+Pub. L. 107–279, title IV, § 405, Nov. 5, 2002, 116 Stat. 1986, provided that: “The Secretary of Education shall take such steps as are necessary to provide for the orderly transition to, and implementation of, the offices, boards, committees, and centers (and their various functions and responsibilities) established or authorized by this Act [enacting this chapter and [section 3419 of this title](./chapter-048-department-of-education.md#section-3419), amending sections 1232j, 3412, 3461, 6194, 6311, 6312, 7013, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 and former sections 6317, 6491, 6932, 7253c, 7283b, and 7283d of this title and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, transferring sections 9010 and 9011 of this title to sections 9622 and 9621 of this title, respectively, repealing sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacting provisions set out as notes under this section and [section 7703 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7703), and repealing provisions set out as notes under sections 1221e and 9001 of this title], and by the amendments made by this Act, from those established or authorized by the Educational Research, Development, Dissemination, and Improvement Act of 1994 ([20 U.S.C. 6001](./chapter-068-national-education-reform.md#section-6001) et seq.) and the National Education Statistics Act of 1994 ([20 U.S.C. 9001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9001&num=0&edition=prelim) et seq.).”
 
 
 <a id="section-9512"></a>
@@ -174,13 +186,13 @@ Pub. L. 107–279, title IV, § 405, Nov. 5, 2002, 116 Stat. 1986, provided that
 
 (3) The National Education Centers, which include—
 
-  (A) the National Center for Education Research (as described in part B of this subchapter);
+  (A) the National Center for Education Research (as described in part B);
 
-  (B) the National Center for Education Statistics (as described in part C of this subchapter);
+  (B) the National Center for Education Statistics (as described in part C);
 
-  (C) the National Center for Education Evaluation and Regional Assistance (as described in part D of this subchapter); and
+  (C) the National Center for Education Evaluation and Regional Assistance (as described in part D); and
 
-  (D) the National Center for Special Education Research (as described in part E of this subchapter).
+  (D) the National Center for Special Education Research (as described in part E).
 
 ### Statutory Notes
 
@@ -233,12 +245,12 @@ From funds appropriated under [section 9584 of this title](./chapter-076-educati
 #### References in Text
 The National Education Statistics Act of 1994, referred to in subsec. (a)(1), is title IV of Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 4029, as amended, which was classified generally to chapter 71 (§ 9001 et seq.) of this title, prior to repeal by Pub. L. 107–279, title IV, § 403(1), Nov. 5, 2002, 116 Stat. 1985. Provisions relating to education statistics are now contained in part C (§ 9541 et seq.) of this subchapter.
 
-This Act, referred to in subsec. (a)(3), means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1940, which enacted this chapter and [section 3419 of this title](./chapter-048-department-of-education.md#section-3419), amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 6317, 6491, 6932, 7013, 7253c, 7283b, 7283d, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 of this title and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a)(3), means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1940, which enacted this chapter and [section 3419 of this title](./chapter-048-department-of-education.md#section-3419), amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 7013, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 and former sections 6317, 6491, 6932, 7253c, 7283b, and 7283d of this title and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-9515"></a>
 ## § 9515. Office of the Director
-**(a) Appointment** Except as provided in subsection (b)(2) of this section, the President, by and with the advice and consent of the Senate, shall appoint the Director of the Institute.
+**(a) Appointment** Except as provided in subsection (b)(2), the President, by and with the advice and consent of the Senate, shall appoint the Director of the Institute.
 
 **(b) Term**
 
@@ -246,7 +258,7 @@ This Act, referred to in subsec. (a)(3), means Pub. L. 107–279, Nov. 5, 2002, 
 
 (2) **First Director** — The President, without the advice and consent of the Senate, may appoint the Assistant Secretary for the Office of Educational Research and Improvement (as such office existed on the day before November 5, 2002) to serve as the first Director of the Institute.
 
-(3) **Subsequent Directors** — The Board may make recommendations to the President with respect to the appointment of a Director under subsection (a) of this section, other than a Director appointed under paragraph (2).
+(3) **Subsequent Directors** — The Board may make recommendations to the President with respect to the appointment of a Director under subsection (a), other than a Director appointed under paragraph (2).
 
 **(c) Pay** The Director shall receive the rate of basic pay for level II of the Executive Schedule.
 
@@ -298,7 +310,7 @@ The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–
 
 <a id="section-9516"></a>
 ## § 9516. Priorities
-**(a) Proposal** The Director shall propose to the Board priorities for the Institute (taking into consideration long-term research and development on core issues conducted through the national research and development centers). The Director shall identify topics that may require long-term research and topics that are focused on understanding and solving particular education problems and issues, including those associated with the goals and requirements of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.), the Individuals with Disabilities Education Act ([20 U.S.C. 1400](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) et seq.), and the Higher Education Act of 1965 ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.) [and [42 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751&num=0&edition=prelim) et seq.], such as—
+**(a) Proposal** The Director shall propose to the Board priorities for the Institute (taking into consideration long-term research and development on core issues conducted through the national research and development centers). The Director shall identify topics that may require long-term research and topics that are focused on understanding and solving particular education problems and issues, including those associated with the goals and requirements of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.), the Individuals with Disabilities Education Act ([20 U.S.C. 1400](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) et seq.), and the Higher Education Act of 1965 ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.), such as—
 
 (1) closing the achievement gap between high-performing and low-performing children, especially achievement gaps between minority and nonminority children and between disadvantaged children and such children’s more advantaged peers; and
 
@@ -327,7 +339,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), 
 
 The Individuals with Disabilities Education Act, referred to in subsec. (a), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
 
 #### Amendments
 2004—Subsec. (a). Pub. L. 108–446, in introductory provisions, substituted “including those associated with the goals and requirements of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.), the Individuals with Disabilities Education Act ([20 U.S.C. 1400](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) et seq.), and the Higher Education Act of 1965 ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.), such as” for “including those associated with the goals and requirements established in the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.) and the Higher Education Act of 1965 ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.), such as”.
@@ -468,7 +480,7 @@ The Higher Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–32
 #### References in Text
 The Ethics in Government Act of 1978, referred to in subsec. (c)(4)(D), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
 
-This Act, referred to in subsec. (c)(8)(C), means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1940, which enacted this chapter and [section 3419 of this title](./chapter-048-department-of-education.md#section-3419), amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 6317, 6491, 6932, 7013, 7253c, 7283b, 7283d, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 of this title and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (c)(8)(C), means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1940, which enacted this chapter and [section 3419 of this title](./chapter-048-department-of-education.md#section-3419), amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 7013, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 and former sections 6317, 6491, 6932, 7253c, 7283b, and 7283d of this title and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2012—Subsec. (c)(1). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
@@ -488,15 +500,15 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 ## § 9518. Commissioners of the National Education Centers
 **(a) Appointment of Commissioners**
 
-(1) **In general** — Except as provided in subsection (b) of this section, each of the National Education Centers shall be headed by a Commissioner appointed by the Director. In appointing Commissioners, the Director shall seek to promote continuity in leadership of the National Education Centers and shall consider individuals recommended by the Board. The Director may appoint a Commissioner to carry out the functions of a National Education Center without regard to the provisions of title 5 governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+(1) **In general** — Except as provided in subsection (b), each of the National Education Centers shall be headed by a Commissioner appointed by the Director. In appointing Commissioners, the Director shall seek to promote continuity in leadership of the National Education Centers and shall consider individuals recommended by the Board. The Director may appoint a Commissioner to carry out the functions of a National Education Center without regard to the provisions of title 5 governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
-(2) **Pay and qualifications** — Except as provided in subsection (b) of this section, each Commissioner shall—
+(2) **Pay and qualifications** — Except as provided in subsection (b), each Commissioner shall—
 
   (A) receive the rate of basic pay for level IV of the Executive Schedule; and
 
   (B) be highly qualified in the field of education research or evaluation.
 
-(3) **Service** — Except as provided in subsection (b) of this section, each Commissioner shall report to the Director. A Commissioner shall serve for a period of not more than 6 years, except that a Commissioner—
+(3) **Service** — Except as provided in subsection (b), each Commissioner shall report to the Director. A Commissioner shall serve for a period of not more than 6 years, except that a Commissioner—
 
   (A) may be reappointed by the Director; and
 
@@ -559,7 +571,7 @@ Activities carried out under this Act through grants, contracts, or cooperative 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1940, which enacted this chapter and [section 3419 of this title](./chapter-048-department-of-education.md#section-3419), amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 6317, 6491, 6932, 7013, 7253c, 7283b, 7283d, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 of this title and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1940, which enacted this chapter and [section 3419 of this title](./chapter-048-department-of-education.md#section-3419), amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 7013, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 and former sections 6317, 6491, 6932, 7253c, 7283b, and 7283d of this title and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-9532"></a>
@@ -635,11 +647,11 @@ The Research Center shall be headed by a Commissioner for Education Research (in
 
 (11) carry out research that is rigorous, peer-reviewed, and large scale to determine which methods of mathematics and science teaching are most effective, cost efficient, and able to be applied, duplicated, and scaled up for use in elementary and secondary classrooms, including in low-performing schools, to improve the teaching of, and student achievement in, mathematics and science as required under the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.).
 
-**(b) Eligibility** Research carried out under subsection (a) of this section through contracts, grants, or cooperative agreements shall be carried out only by recipients with the ability and capacity to conduct scientifically valid research.
+**(b) Eligibility** Research carried out under subsection (a) through contracts, grants, or cooperative agreements shall be carried out only by recipients with the ability and capacity to conduct scientifically valid research.
 
 **(c) National research and development centers**
 
-(1) **Support** — In carrying out activities under subsection (a)(3) of this section, the Research Commissioner shall support not less than 8 national research and development centers. The Research Commissioner shall assign each of the 8 national research and development centers not less than 1 of the topics described in paragraph (2). In addition, the Research Commissioner may assign each of the 8 national research and development centers additional topics of research consistent with the mission and priorities of the Institute and the mission of the Research Center.
+(1) **Support** — In carrying out activities under subsection (a)(3), the Research Commissioner shall support not less than 8 national research and development centers. The Research Commissioner shall assign each of the 8 national research and development centers not less than 1 of the topics described in paragraph (2). In addition, the Research Commissioner may assign each of the 8 national research and development centers additional topics of research consistent with the mission and priorities of the Institute and the mission of the Research Center.
 
 (2) **Topics of research** — The Research Commissioner shall support the following topics of research, through national research and development centers or through other means:
 
@@ -712,7 +724,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (b)(1), means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1940, which enacted this chapter and [section 3419 of this title](./chapter-048-department-of-education.md#section-3419), amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 6317, 6491, 6932, 7013, 7253c, 7283b, 7283d, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 of this title and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (b)(1), means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1940, which enacted this chapter and [section 3419 of this title](./chapter-048-department-of-education.md#section-3419), amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 7013, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 and former sections 6317, 6491, 6932, 7253c, 7283b, and 7283d of this title and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-9542"></a>
@@ -758,7 +770,7 @@ The Statistics Center shall be headed by a Commissioner for Education Statistics
 
     (i) data on in-service professional development, including a comparison of courses taken in the core academic areas of reading, mathematics, and science with courses in noncore academic areas, including technology courses; and
 
-    (ii) the percentage of teachers who are highly qualified (as such term is defined in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801))) in each State and, where feasible, in each local educational agency and school;
+    (ii) the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14/C&num=0&edition=prelim).11 So in original. The period probably should not appear. in each State and, where feasible, in each local educational agency and school;
 
   (G) instruction, the conditions of the education workplace, and the supply of, and demand for, teachers;
 
@@ -805,7 +817,13 @@ The Statistics Center shall be headed by a Commissioner for Education Statistics
 ### Statutory Notes
 
 #### References in Text
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(5), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(5), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+
+#### Amendments
+2015—Subsec. (a)(1)(F)(ii). Pub. L. 114–95 substituted “teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/14/C&num=0&edition=prelim).” for “teachers who are highly qualified (as such term is defined in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)))”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Study by National Center for Education Statistics Respecting Condition of Education for Hispanic Americans
 Pub. L. 98–211, § 24(b), Dec. 8, 1983, 97 Stat. 1419, provided that: “The National Center for Education Statistics shall not terminate the study of the condition of education for Hispanic Americans unless specifically required or authorized to do so by law.”
@@ -865,7 +883,7 @@ Pub. L. 98–211, § 24(b), Dec. 8, 1983, 97 Stat. 1419, provided that: “The N
 
 **(d) Fees**
 
-(1) **In general** — Statistical compilations and surveys under this section, other than those carried out pursuant to subsections (b) and (c) of this section, may be made subject to the payment of the actual or estimated cost of such work.
+(1) **In general** — Statistical compilations and surveys under this section, other than those carried out pursuant to subsections (b) and (c), may be made subject to the payment of the actual or estimated cost of such work.
 
 (2) **Funds received** — All funds received in payment for work or services described in this subsection may be used to pay directly the costs of such work or services, to repay appropriations that initially bore all or part of such costs, or to refund excess sums when necessary.
 
@@ -927,13 +945,13 @@ In this part, the term “State” means each of the 50 States, the District of 
 
 (4) support the regional educational laboratories in conducting applied research, the development and dissemination of educational research, products and processes, the provision of technical assistance, and other activities to serve the educational needs of such laboratories’ regions;
 
-(5) manage the National Library of Education described in subsection (d) of this section, and other sources of digital information on education research;
+(5) manage the National Library of Education described in subsection (d), and other sources of digital information on education research;
 
 (6) assist the Director in the preparation of a biennial report, described in [section 9519 of this title](./chapter-076-education-research-statistics-evaluation-information-and-dissemination.md#section-9519); and
 
 (7) award a contract for a prekindergarten through grade 12 mathematics and science teacher clearinghouse.
 
-**(b) Additional duties** In carrying out subsection (a) of this section, the Evaluation and Regional Assistance Commissioner shall—
+**(b) Additional duties** In carrying out subsection (a), the Evaluation and Regional Assistance Commissioner shall—
 
 (1) ensure that information disseminated under this section is provided in a cost-effective, nonduplicative manner that includes the most current research findings, which may include through the continuation of individual clearinghouses authorized under the Educational Research, Development, Dissemination, and Improvement Act of 1994 (title IX of the Goals 2000: Educate America Act; [20 U.S.C. 6001](./chapter-068-national-education-reform.md#section-6001) et seq.) (as such Act existed on the day before November 5, 2002);
 
@@ -1009,12 +1027,18 @@ The Educational Research, Development, Dissemination, and Improvement Act of 199
 
   (B) be subject to rigorous peer-review.
 
-**(b) Administration of evaluations under title I of the Elementary and Secondary Education Act of 1965** The Evaluation and Regional Assistance Commissioner, consistent with the mission of the National Center for Education Evaluation and Regional Assistance under [section 9561(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9561/b&num=0&edition=prelim), shall administer all operations and contracts associated with evaluations authorized by part E of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6491](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6491) et seq.) and administered by the Department as of November 5, 2002.
+**(b) Administration of evaluations under the Elementary and Secondary Education Act of 1965** The Evaluation and Regional Assistance Commissioner, consistent with the mission of the National Center for Education Evaluation and Regional Assistance under [section 9561(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9561/b&num=0&edition=prelim), shall administer all operations and contracts associated with evaluations authorized by section 8601 of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7981](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7981)] and administered by the Department as of November 5, 2002.
 
 ### Statutory Notes
 
 #### References in Text
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(1)(B) and (b), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of this title. Part E of title I of the Act is classified generally to part E (§ 6491 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+
+#### Amendments
+2015—Subsec. (b). Pub. L. 114–95 substituted “section 8601 of the Elementary and Secondary Education Act of 1965” for “part E of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6491](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6491) et seq.)”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 
 <a id="section-9567"></a>
@@ -1209,7 +1233,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1
 
 (3) to evaluate the implementation and effectiveness of the Individuals with Disabilities Education Act in coordination with the National Center for Education Evaluation and Regional Assistance.
 
-**(c) Applicability of this subchapter** Parts A and F of this subchapter, and the standards for peer review of applications and for the conduct and evaluation of research under sections 9533(a) and 9534 of this title, respectively, shall apply to the Secretary, the Director, and the Commissioner in carrying out this part.
+**(c) Applicability of this subchapter** Parts A and F, and the standards for peer review of applications and for the conduct and evaluation of research under sections 9533(a) and 9534 of this title, respectively, shall apply to the Secretary, the Director, and the Commissioner in carrying out this part.
 
 ### Statutory Notes
 
@@ -1330,7 +1354,7 @@ The Secretary, in consultation with the Director, shall ensure that the Departme
 
 (1) **In general** — Subject to paragraph (2), no funds provided under this subchapter to the Secretary or to the recipient of any award may be used to develop, pilot test, field test, implement, administer, or distribute any federally sponsored national test in reading, mathematics, or any other subject, unless specifically and explicitly authorized by law.
 
-(2) **Exceptions** — Subsection (a) of this section shall not apply to international comparative assessments developed under the authority of [section 9543(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9543/a/6&num=0&edition=prelim) or [section 9003(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9003/a/6&num=0&edition=prelim) (as such section was in effect on the day before November 5, 2002) and administered to only a representative sample of pupils in the United States and in foreign nations.
+(2) **Exceptions** — Subsection (a) shall not apply to international comparative assessments developed under the authority of [section 9543(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9543/a/6&num=0&edition=prelim) or [section 9003(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9003/a/6&num=0&edition=prelim) (as such section was in effect on the day before November 5, 2002) and administered to only a representative sample of pupils in the United States and in foreign nations.
 
 ### Statutory Notes
 
@@ -1370,7 +1394,7 @@ The Secretary, in consultation with the Director, shall ensure that the Departme
 
   (C) *Application* — This paragraph does not apply to requests for individually identifiable information submitted by or on behalf of the individual identified in the information.
 
-(2) **Employee or staff violations** — Whoever, being or having been an employee or staff member of the Department, having taken or subscribed the oath of office, or having sworn to observe the limitations imposed by subsection (c)(2) of this section, knowingly publishes or communicates any individually identifiable information (as defined in paragraph (5)(A)), the disclosure of which is prohibited by subsection (c)(2) of this section, and that comes into such employee or staff’s possession by reason of employment (or otherwise providing services) under this subchapter, shall be found guilty of a class E felony and imprisoned for not more than five years, or fined as specified in [section 3571 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3571&num=0&edition=prelim), or both.
+(2) **Employee or staff violations** — Whoever, being or having been an employee or staff member of the Department, having taken or subscribed the oath of office, or having sworn to observe the limitations imposed by subsection (c)(2), knowingly publishes or communicates any individually identifiable information (as defined in paragraph (5)(A)), the disclosure of which is prohibited by subsection (c)(2), and that comes into such employee or staff’s possession by reason of employment (or otherwise providing services) under this subchapter, shall be found guilty of a class E felony and imprisoned for not more than five years, or fined as specified in [section 3571 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3571&num=0&edition=prelim), or both.
 
 (3) **Temporary staff** — The Director may utilize temporary staff, including employees of Federal, State, or local agencies or instrumentalities (including local educational agencies), and employees of private organizations to assist the Director in performing the Director’s responsibilities, but only if such temporary staff are sworn to observe the limitations imposed by this section.
 
@@ -1382,13 +1406,13 @@ The Secretary, in consultation with the Director, shall ensure that the Departme
 
   (B) the term “report” means a response provided by or about an individual to an inquiry from the Director and does not include a statistical aggregation from which individually identifiable information cannot be revealed.
 
-(6) **Violations** — Any person who uses any data provided by the Director, in conjunction with any other information or technique, to identify any individual student, teacher, administrator, or other individual and who knowingly discloses, publishes, or uses such data for a purpose other than a statistical purpose, or who otherwise violates subparagraph (A) or (B) of subsection (c)(2) of this section, shall be found guilty of a class E felony and imprisoned for not more than five years, or fined as specified in [section 3571 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3571&num=0&edition=prelim), or both.
+(6) **Violations** — Any person who uses any data provided by the Director, in conjunction with any other information or technique, to identify any individual student, teacher, administrator, or other individual and who knowingly discloses, publishes, or uses such data for a purpose other than a statistical purpose, or who otherwise violates subparagraph (A) or (B) of subsection (c)(2), shall be found guilty of a class E felony and imprisoned for not more than five years, or fined as specified in [section 3571 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3571&num=0&edition=prelim), or both.
 
 (7) **Access to reports or records** — Nothing in this section shall restrict the right of the Secretary, the Comptroller General of the United States, the Director of the Congressional Budget Office, and the Librarian of Congress, to gain access to any reports or other records, including information identifying individuals, in the Director’s possession, except that the same restrictions on disclosure that apply under paragraphs (1) and (6) shall apply to such individuals.
 
 **(e) Investigation and prosecution of terrorism**
 
-(1) **In general** — Notwithstanding subsections (a) and (b) of this section, the Attorney General (or any Federal officer or employee, in a position not lower than an Assistant Attorney General, designated by the Attorney General) may submit a written application to a court of competent jurisdiction for an ex parte order requiring the Secretary to permit the Attorney General (or his designee) to—
+(1) **In general** — Notwithstanding subsections (a) and (b), the Attorney General (or any Federal officer or employee, in a position not lower than an Assistant Attorney General, designated by the Attorney General) may submit a written application to a court of competent jurisdiction for an ex parte order requiring the Secretary to permit the Attorney General (or his designee) to—
 
   (A) collect reports, records, and information (including individually identifiable information) in the possession of the Director that are relevant to an authorized investigation or prosecution of an offense listed in [section 2332b(g)(5)(B) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2332b/g/5/B&num=0&edition=prelim) or an act of domestic or international terrorism as defined in section 2331 of that title; and
 
@@ -1400,7 +1424,7 @@ The Secretary, in consultation with the Director, shall ensure that the Departme
 
   (B) The court shall issue an order described in paragraph (1) if the court finds that the application for the order includes the certification described in subparagraph (A).
 
-(3) **Protection** — An officer or employee of the Department who, in good faith, produces information in accordance with an order issued under this subsection does not violate subsection (b)(2) 11 So in original. Probably means subsection (d)(2). of this section and shall not be liable to any person for that production.
+(3) **Protection** — An officer or employee of the Department who, in good faith, produces information in accordance with an order issued under this subsection does not violate subsection (b)(2) 11 So in original. Probably means subsection (d)(2). and shall not be liable to any person for that production.
 
 ### Statutory Notes
 
@@ -1437,13 +1461,13 @@ The Director shall ensure that all activities conducted or supported by the Inst
 
 <a id="section-9577"></a>
 ## § 9577. Authority to publish
-**(a) Publication** The Director may prepare and publish (including through oral presentation) such research, statistics (consistent with part C of this subchapter), and evaluation information and reports from any office, board, committee, and center of the Institute, as needed to carry out the priorities and mission of the Institute without the approval of the Secretary or any other office of the Department.
+**(a) Publication** The Director may prepare and publish (including through oral presentation) such research, statistics (consistent with part C), and evaluation information and reports from any office, board, committee, and center of the Institute, as needed to carry out the priorities and mission of the Institute without the approval of the Secretary or any other office of the Department.
 
 **(b) Advance copies** The Director shall provide the Secretary and other relevant offices with an advance copy of any information to be published under this section before publication.
 
 **(c) Peer review** All research, statistics, and evaluation reports conducted by, or supported through, the Institute shall be subjected to rigorous peer review before being published or otherwise made available to the public.
 
-**(d) Items not covered** Nothing in subsections 11 So in original. Probably should be “subsection”. (a), (b), or (c) of this section shall be construed to apply to—
+**(d) Items not covered** Nothing in subsections 11 So in original. Probably should be “subsection”. (a), (b), or (c) shall be construed to apply to—
 
 (1) information on current or proposed budgets, appropriations, or legislation;
 
@@ -1470,7 +1494,7 @@ Any member appointed to fill a vacancy on the Board occurring before the expirat
 
 (4) the total number of such employees does not exceed 40 individuals or ⅕ of the number of full-time, regular scientific or professional employees of the Institute, whichever is greater.
 
-**(b) Duties of employees** All employees described in subsection (a) of this section shall work on activities of the Institute or the office, board, committee, or center, and shall not be reassigned to other duties outside the Institute or the office, board, committee, or center during their term.
+**(b) Duties of employees** All employees described in subsection (a) shall work on activities of the Institute or the office, board, committee, or center, and shall not be reassigned to other duties outside the Institute or the office, board, committee, or center during their term.
 
 ### Statutory Notes
 
@@ -1509,7 +1533,7 @@ Nothing in this Act shall be construed to affect the rights, remedies, limitatio
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1940, which enacted this chapter and [section 3419 of this title](./chapter-048-department-of-education.md#section-3419), amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 6317, 6491, 6932, 7013, 7253c, 7283b, 7283d, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 of this title and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1940, which enacted this chapter and [section 3419 of this title](./chapter-048-department-of-education.md#section-3419), amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 7013, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 and former sections 6317, 6491, 6932, 7253c, 7283b, and 7283d of this title and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-9584"></a>
@@ -1530,6 +1554,12 @@ In this subchapter:
 
 ### Statutory Notes
 
+#### Amendments
+2015—Par. (1). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
+
 #### Short Title
 This subchapter known as the “Educational Technical Assistance Act of 2002”, see Short Title note set out under [section 9501 of this title](./chapter-076-education-research-statistics-evaluation-information-and-dissemination.md#section-9501).
 
@@ -1544,11 +1574,11 @@ This subchapter known as the “Educational Technical Assistance Act of 2002”,
 
   (A) shall ensure that not less than 1 comprehensive center is established in each of the 10 geographic regions served by the regional educational laboratories established under section 941(h) of the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such provision existed on the day before November 5, 2002); and
 
-  (B) after meeting the requirements of subparagraph (A), shall consider, in awarding the remainder of the grants, the school-age population, proportion of economically disadvantaged students, the increased cost burdens of service delivery in areas of sparse population, and the number of schools identified for school improvement (as described in section 1116(b) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6316(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6316/b&num=0&edition=prelim)) 11 So in original. Probably should be followed by a third closing parenthesis. in the population served by the local entity or consortium of such entities.
+  (B) after meeting the requirements of subparagraph (A), shall consider, in awarding the remainder of the grants, the school-age population, proportion of economically disadvantaged students, the increased cost burdens of service delivery in areas of sparse population, and the number of schools implementing comprehensive support and improvement activities and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6311(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/d&num=0&edition=prelim)] in the population served by the local entity or consortium of such entities.
 
 **(b) Eligible applicants**
 
-(1) **In general** — Grants under this section may be made with research organizations, institutions, agencies, institutions of higher education, or partnerships among such entities, or individuals, with the demonstrated ability or capacity to carry out the activities described in subsection (f) of this section, including regional entities that carried out activities under the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002) and title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002).
+(1) **In general** — Grants under this section may be made with research organizations, institutions, agencies, institutions of higher education, or partnerships among such entities, or individuals, with the demonstrated ability or capacity to carry out the activities described in subsection (f), including regional entities that carried out activities under the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002) and title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002).
 
 (2) **Outreach** — In conducting competitions for grants under this section, the Secretary shall actively encourage potential applicants to compete for such awards by making widely available information and technical assistance relating to the competition.
 
@@ -1568,7 +1598,7 @@ This subchapter known as the “Educational Technical Assistance Act of 2002”,
 
 (2) local educational agencies in the region in which high percentages or numbers of school-age children are from low-income families, as determined under section 1124(c)(1)(A) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6333(c)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6333/c/1/A&num=0&edition=prelim)), including such local educational agencies in rural and urban areas; and
 
-(3) schools in the region that have been identified for school improvement under section 1116(b) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6316(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6316/b&num=0&edition=prelim)).
+(3) schools in the region that are implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6311(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/d&num=0&edition=prelim)].
 
 **(f) Activities**
 
@@ -1588,7 +1618,7 @@ This subchapter known as the “Educational Technical Assistance Act of 2002”,
 
     (iii) the facilitation of communication between education experts, school officials, teachers, parents, and librarians, as appropriate; and
 
-  (B) disseminating and providing information, reports, and publications that are usable for improving academic achievement, closing achievement gaps, and encouraging and sustaining school improvement (as described in section 1116(b) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6316(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6316/b&num=0&edition=prelim))), to schools, educators, parents, and policymakers within the region in which the center is located; and
+  (B) disseminating and providing information, reports, and publications that are usable for improving academic achievement, closing achievement gaps,, 11 So in original. and particularly assisting those schools implementing comprehensive support and improvement and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6311(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/d&num=0&edition=prelim)],, 1 to schools, educators, parents, and policymakers within the region in which the center is located; and
 
   (C) developing teacher and school leader inservice and preservice training models that illustrate best practices in the use of technology in different content areas.
 
@@ -1600,7 +1630,7 @@ This subchapter known as the “Educational Technical Assistance Act of 2002”,
 
 (2) **Duties** — Each advisory board established under paragraph (1) shall advise the comprehensive center—
 
-  (A) concerning the activities described in subsection (d) of this section;
+  (A) concerning the activities described in subsection (d);
 
   (B) on strategies for monitoring and addressing the educational needs of the region, on an ongoing basis;
 
@@ -1643,7 +1673,17 @@ The Educational Research, Development, Dissemination, and Improvement Act of 199
 
 Title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002), referred to in subsec. (b)(1), means title XIII of Pub. L. 89–10, as added by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3876, which was classified generally to subchapter XIII (§ 8601 et seq.) of chapter 70 of this title, prior to amendment by Pub. L. 107–110. Parts A to D of title XIII of Pub. L. 89–10, were classified to parts A (§ 8621 et seq.), B (§ 8651 et seq.), C (§ 8671 et seq.), and D (§ 8701 et seq.), respectively, of subchapter XIII of chapter 70 of this title, and were redesignated as parts K to N of title IX of Pub. L. 103–227, by Pub. L. 107–110, title X, §§ 1021(a), 1022(a), 1023(a), 1024(a), Jan. 8, 2002, 115 Stat. 1987, transferred to parts G (§ 6053 et seq.), H (§ 6054 et seq.), I (§ 6055 et seq.), and J (§ 6056 et seq.), respectively, of subchapter IX of chapter 68 of this title, and subsequently repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (e)(1) and (f)(1)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (e)(1) and (f)(1)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+
+#### Amendments
+2015—Subsec. (a)(2)(B). Pub. L. 114–95, § 9215(gg)(2)(A), substituted “the number of schools implementing comprehensive support and improvement activities and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965” for “the number of schools identified for school improvement (as described in section 1116(b) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6316(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6316/b&num=0&edition=prelim))”.
+
+Subsec. (e)(3). Pub. L. 114–95, § 9215(gg)(2)(B), substituted “schools in the region that are implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965” for “schools in the region that have been identified for school improvement under section 1116(b) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6316(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6316/b&num=0&edition=prelim))”.
+
+Subsec. (f)(1)(B). Pub. L. 114–95, § 9215(gg)(2)(C), substituted “, and particularly assisting those schools implementing comprehensive support and improvement and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965,” for “and encouraging and sustaining school improvement (as described in section 1116(b) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6316(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6316/b&num=0&edition=prelim)))”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Termination of Advisory Boards
 Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -1702,13 +1742,13 @@ Section 3141 of the Elementary and Secondary Education Act of 1965 (as such sect
 
   (A) *Total number* — The total number of members on each committee who are selected under subparagraphs (A), (C), and (D) of paragraph (2), collectively, shall exceed the total number of members who are selected under paragraph (1)(C) and subparagraphs (B), (E), and (F) of paragraph (2), collectively.
 
-  (B) *Dissolution* — Each regional advisory committee shall be dissolved by the Secretary after submission of such committee’s report described in subsection (c)(2) of this section to the Secretary, but each such committee may be reconvened at the discretion of the Secretary.
+  (B) *Dissolution* — Each regional advisory committee shall be dissolved by the Secretary after submission of such committee’s report described in subsection (c)(2) to the Secretary, but each such committee may be reconvened at the discretion of the Secretary.
 
 **(c) Duties** Each regional advisory committee shall advise the Secretary on the following:
 
-(1) An educational needs assessment of its region (using the results of the assessment conducted under subsection (d) of this section), in order to assist in making decisions regarding the regional educational priorities.
+(1) An educational needs assessment of its region (using the results of the assessment conducted under subsection (d)), in order to assist in making decisions regarding the regional educational priorities.
 
-(2) Not later than 6 months after the committee is first convened, a report based on the assessment conducted under subsection (d) of this section.
+(2) Not later than 6 months after the committee is first convened, a report based on the assessment conducted under subsection (d).
 
 **(d) Regional assessments** Each regional advisory committee shall—
 
@@ -1819,7 +1859,7 @@ There are authorized to be appropriated to carry out this subchapter $80,000,000
 
 (2) **Service limitation** — Members of the Assessment Board may serve not more than two terms.
 
-(3) **Change of status** — A member of the Assessment Board who changes status under subsection (b) of this section during the term of the appointment of the member may continue to serve as a member until the expiration of such term.
+(3) **Change of status** — A member of the Assessment Board who changes status under subsection (b) during the term of the appointment of the member may continue to serve as a member until the expiration of such term.
 
 (4) **Conforming provision** — Members of the Assessment Board previously granted 3 year terms, whose terms are in effect on December 21, 2000, shall have their terms extended by 1 year.
 
@@ -1827,11 +1867,11 @@ There are authorized to be appropriated to carry out this subchapter $80,000,000
 
 (1) **In general**
 
-  (A) *Organizations* — The Secretary shall appoint new members to fill vacancies on the Assessment Board from among individuals who are nominated by organizations representing the type of individuals described in subsection (b)(1) of this section with respect to which the vacancy exists.
+  (A) *Organizations* — The Secretary shall appoint new members to fill vacancies on the Assessment Board from among individuals who are nominated by organizations representing the type of individuals described in subsection (b)(1) with respect to which the vacancy exists.
 
   (B) *Nominations* — Each organization submitting nominations to the Secretary with respect to a particular vacancy shall nominate for such vacancy six individuals who are qualified by experience or training to fill the particular Assessment Board vacancy.
 
-  (C) *Maintenance of Assessment Board* — The Secretary’s appointments shall maintain the composition, diversity, and balance of the Assessment Board required under subsection (b) of this section.
+  (C) *Maintenance of Assessment Board* — The Secretary’s appointments shall maintain the composition, diversity, and balance of the Assessment Board required under subsection (b).
 
 (2) **Additional nominations** — The Secretary may request that each organization described in paragraph (1)(A) submit additional nominations if the Secretary determines that none of the individuals nominated by such organization have appropriate knowledge or expertise.
 
@@ -1952,7 +1992,7 @@ Subsec. (c)(4). Pub. L. 106–554, § 1(a)(1) [title III, § 307(2)], added par.
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Short Title
-This subchapter known as the “National Assessment of Educational Progress Authorization Act”, see Short Title note set out under [section 9501 of this title](./chapter-076-education-research-statistics-evaluation-information-and-dissemination.md#section-9501).
+This subchapter is known as the “National Assessment of Educational Progress Authorization Act”, see Short Title note set out under [section 9501 of this title](./chapter-076-education-research-statistics-evaluation-information-and-dissemination.md#section-9501).
 
 
 <a id="section-9622"></a>
@@ -1991,11 +2031,11 @@ This subchapter known as the “National Assessment of Educational Progress Auth
 
     (iii) may conduct State academic assessments of student achievement in grades 4, 8, and 12 as described in paragraph (2)(D); and
 
-    (iv) shall conduct each such State assessment, in each subject area and at each grade level, on a developmental basis until the Commissioner for Education Statistics determines, as the result of an evaluation required by subsection (f) of this section, that such assessment produces high quality data that are valid and reliable.
+    (iv) shall conduct each such State assessment, in each subject area and at each grade level, on a developmental basis until the Commissioner for Education Statistics determines, as the result of an evaluation required by subsection (f), that such assessment produces high quality data that are valid and reliable.
 
   (B) *Agreement*
 
-    (i) *In general* — States participating in State assessments shall enter into an agreement with the Secretary pursuant to subsection (d)(3) of this section.
+    (i) *In general* — States participating in State assessments shall enter into an agreement with the Secretary pursuant to subsection (d)(3).
 
     (ii) *Content* — Such agreement shall contain information sufficient to give States full information about the process for decision-making (which shall include the consensus process used), on objectives to be tested, and the standards for random sampling, test administration, test security, data collection, validation, and reporting.
 
@@ -2015,7 +2055,7 @@ This subchapter known as the “National Assessment of Educational Progress Auth
 
   (D) *Applicability to home schools* — Nothing in this section shall be construed to affect home schools, whether or not a home school is treated as a home school or a private school under State law, nor shall any home schooled student be required to participate in any assessment referenced or authorized under this section.
 
-(5) **Requirement** — In carrying out any assessment authorized under this section, the Commissioner for Education Statistics, in a manner consistent with subsection (c)(3) of this section, shall—
+(5) **Requirement** — In carrying out any assessment authorized under this section, the Commissioner for Education Statistics, in a manner consistent with subsection (c)(3), shall—
 
   (A) use widely accepted professional testing standards, objectively measure academic achievement, knowledge, and skills, and ensure that any academic assessment authorized under this section be tests that do not evaluate or assess personal or family beliefs and attitudes or publicly disclose personally identifiable information;
 
@@ -2071,11 +2111,11 @@ This subchapter known as the “National Assessment of Educational Progress Auth
 
   (B) *Agreement* — For reading and mathematics assessments in grades 4 and 8, the Secretary shall enter into an agreement with any State carrying out an assessment for the State under this section. Each such agreement shall contain provisions designed to ensure that the State will participate in the assessment.
 
-(4) **Review** — Representatives of State educational agencies and local educational agencies or the chief State school officer shall have the right to review any assessment item or procedure of any authorized assessment upon request in a manner consistent with subsection (c) of this section, except the review described in subparagraph (2)(C) of subsection (c) of this section shall take place in consultation with the representatives described in this paragraph.
+(4) **Review** — Representatives of State educational agencies and local educational agencies or the chief State school officer shall have the right to review any assessment item or procedure of any authorized assessment upon request in a manner consistent with subsection (c), except the review described in subparagraph (2)(C) of subsection (c) shall take place in consultation with the representatives described in this paragraph.
 
 **(e) Student achievement levels**
 
-(1) **Achievement levels** — The Assessment Board shall develop appropriate student achievement levels for each grade or age in each subject area to be tested under assessments authorized under this section, except the trend assessment described in subsection (b)(2)(F) of this section.
+(1) **Achievement levels** — The Assessment Board shall develop appropriate student achievement levels for each grade or age in each subject area to be tested under assessments authorized under this section, except the trend assessment described in subsection (b)(2)(F).
 
 (2) **Determination of levels**
 
@@ -2089,15 +2129,15 @@ This subchapter known as the “National Assessment of Educational Progress Auth
 
   (B) *National consensus approach* — After the determinations described in subparagraph (A), devising a national consensus approach.
 
-  (C) *Trial basis* — The achievement levels shall be used on a trial basis until the Commissioner for Education Statistics determines, as a result of an evaluation under subsection (f) of this section, that such levels are reasonable, valid, and informative to the public.
+  (C) *Trial basis* — The achievement levels shall be used on a trial basis until the Commissioner for Education Statistics determines, as a result of an evaluation under subsection (f), that such levels are reasonable, valid, and informative to the public.
 
   (D) *Status* — The Commissioner for Education Statistics and the Board shall ensure that reports using such levels on a trial basis do so in a manner that makes clear the status of such levels.
 
   (E) *Updates* — Such levels shall be updated as appropriate by the Assessment Board in consultation with the Commissioner for Education Statistics.
 
-(3) **Reporting** — After determining that such levels are reasonable, valid, and informative to the public, as the result of an evaluation under subsection (f) of this section, the Commissioner for Education Statistics shall use such levels or other methods or indicators for reporting results of the National Assessment and State assessments.
+(3) **Reporting** — After determining that such levels are reasonable, valid, and informative to the public, as the result of an evaluation under subsection (f), the Commissioner for Education Statistics shall use such levels or other methods or indicators for reporting results of the National Assessment and State assessments.
 
-(4) **Review** — The Assessment Board shall provide for a review of any trial student achievement levels under development by representatives of State educational agencies or the chief State school officer in a manner consistent with subsection (c) of this section, except the review described in paragraph (2)(C) of such subsection shall take place in consultation with the representatives described in this paragraph.
+(4) **Review** — The Assessment Board shall provide for a review of any trial student achievement levels under development by representatives of State educational agencies or the chief State school officer in a manner consistent with subsection (c), except the review described in paragraph (2)(C) of such subsection shall take place in consultation with the representatives described in this paragraph.
 
 **(f) Review of National and State assessments**
 

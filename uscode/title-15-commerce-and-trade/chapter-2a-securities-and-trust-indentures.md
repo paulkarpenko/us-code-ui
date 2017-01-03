@@ -627,7 +627,7 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 <a id="section-77d"></a>
 ## § 77d. Exempted transactions
-**(a)** The provisions of [section 77e of this title](./chapter-2a-securities-and-trust-indentures.md#section-77e) shall not apply to—
+**(a) In general** The provisions of [section 77e of this title](./chapter-2a-securities-and-trust-indentures.md#section-77e) shall not apply to—
 
 (1) transactions by any person other than an issuer, underwriter, or dealer.
 
@@ -660,11 +660,13 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
   (D) the issuer complies with the requirements of [section 77d–1(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77d–1/b&num=0&edition=prelim).
 
-**(b)** 11 So in original. Two subsecs. (b) have been enacted. Offers and sales exempt under section 230.506 of title 17, Code of Federal Regulations (as revised pursuant to section 201 of the Jumpstart Our Business Startups Act) shall not be deemed public offerings under the Federal securities laws as a result of general advertising or general solicitation.
+(7) transactions meeting the requirements of subsection (d).
 
-**(b)**
+**(b) Offers and sales exempt under 17 CFR 230.506** Offers and sales exempt under section 230.506 of title 17, Code of Federal Regulations (as revised pursuant to section 201 of the Jumpstart Our Business Startups Act) shall not be deemed public offerings under the Federal securities laws as a result of general advertising or general solicitation.
 
-(1) 1 With respect to securities offered and sold in compliance with Rule 506 of Regulation D under this subchapter, no person who meets the conditions set forth in paragraph (2) shall be subject to registration as a broker or dealer pursuant to section 78o(a)(1) of this title,22 See References in Text note below. solely because—
+**(c) Securities offered and sold in compliance with Rule 506 of Regulation D**
+
+(1) With respect to securities offered and sold in compliance with Rule 506 of Regulation D under this subchapter, no person who meets the conditions set forth in paragraph (2) shall be subject to registration as a broker or dealer pursuant to section 78o(a)(1) of this title,11 See References in Text note below. solely because—
 
   (A) that person maintains a platform or mechanism that permits the offer, sale, purchase, or negotiation of or with respect to securities, or permits general solicitations, general advertisements, or similar or related activities by issuers of such securities, whether online, in person, or through any other means;
 
@@ -678,7 +680,7 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
   (B) such person and each person associated with that person does not have possession of customer funds or securities in connection with the purchase or sale of such security; and
 
-  (C) such person is not subject to a statutory disqualification as defined in [section 78c(a)(39) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a/39&num=0&edition=prelim) 2 and does not have any person associated with that person subject to such a statutory disqualification.
+  (C) such person is not subject to a statutory disqualification as defined in [section 78c(a)(39) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a/39&num=0&edition=prelim) 1 and does not have any person associated with that person subject to such a statutory disqualification.
 
 (3) For the purposes of this subsection, the term “ancillary services” means—
 
@@ -686,16 +688,86 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
   (B) the provision of standardized documents to the issuers and investors, so long as such person or entity does not negotiate the terms of the issuance for and on behalf of third parties and issuers are not required to use the standardized documents as a condition of using the service.
 
+**(d) Certain accredited investor transactions** The transactions referred to in subsection (a)(7) are transactions meeting the following requirements:
+
+(1) **Accredited investor requirement.—** — Each purchaser is an accredited investor, as that term is defined in section 230.501(a) of title 17, Code of Federal Regulations (or any successor regulation).
+
+(2) **Prohibition on general solicitation or advertising.—** — Neither the seller, nor any person acting on the seller’s behalf, offers or sells securities by any form of general solicitation or general advertising.
+
+(3) **Information requirement.—** — In the case of a transaction involving the securities of an issuer that is neither subject to section 78m or 78o(d) of this title, nor exempt from reporting pursuant to section 240.12g3–2(b) of title 17, Code of Federal Regulations, nor a foreign government (as defined in section 230.405 of title 17, Code of Federal Regulations) eligible to register securities under Schedule B, the seller and a prospective purchaser designated by the seller obtain from the issuer, upon request of the seller, and the seller in all cases makes available to a prospective purchaser, the following information (which shall be reasonably current in relation to the date of resale under this section):
+
+  (A) The exact name of the issuer and the issuer’s predecessor (if any).
+
+  (B) The address of the issuer’s principal executive offices.
+
+  (C) The exact title and class of the security.
+
+  (D) The par or stated value of the security.
+
+  (E) The number of shares or total amount of the securities outstanding as of the end of the issuer’s most recent fiscal year.
+
+  (F) The name and address of the transfer agent, corporate secretary, or other person responsible for transferring shares and stock certificates.
+
+  (G) A statement of the nature of the business of the issuer and the products and services it offers, which shall be presumed reasonably current if the statement is as of 12 months before the transaction date.
+
+  (H) The names of the officers and directors of the issuer.
+
+  (I) The names of any persons registered as a broker, dealer, or agent that shall be paid or given, directly or indirectly, any commission or remuneration for such person’s participation in the offer or sale of the securities.
+
+  (J) The issuer’s most recent balance sheet and profit and loss statement and similar financial statements, which shall—
+
+    (i) be for such part of the 2 preceding fiscal years as the issuer has been in operation;
+
+    (ii) be prepared in accordance with generally accepted accounting principles or, in the case of a foreign private issuer, be prepared in accordance with generally accepted accounting principles or the International Financial Reporting Standards issued by the International Accounting Standards Board;
+
+    (iii) be presumed reasonably current if—
+
+      (I) with respect to the balance sheet, the balance sheet is as of a date less than 16 months before the transaction date; and
+
+      (II) with respect to the profit and loss statement, such statement is for the 12 months preceding the date of the issuer’s balance sheet; and
+
+    (iv) if the balance sheet is not as of a date less than 6 months before the transaction date, be accompanied by additional statements of profit and loss for the period from the date of such balance sheet to a date less than 6 months before the transaction date.
+
+  (K) To the extent that the seller is a control person with respect to the issuer, a brief statement regarding the nature of the affiliation, and a statement certified by such seller that they have no reasonable grounds to believe that the issuer is in violation of the securities laws or regulations.
+
+(4) **Issuers disqualified.—** — The transaction is not for the sale of a security where the seller is an issuer or a subsidiary, either directly or indirectly, of the issuer.
+
+(5) **Bad actor prohibition.—** — Neither the seller, nor any person that has been or will be paid (directly or indirectly) remuneration or a commission for their participation in the offer or sale of the securities, including solicitation of purchasers for the seller is subject to an event that would disqualify an issuer or other covered person under Rule 506(d)(1) of Regulation D (17 CFR 230.506(d)(1)) or is subject to a statutory disqualification described under [section 78c(a)(39) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a/39&num=0&edition=prelim).
+
+(6) **Business requirement.—** — The issuer is engaged in business, is not in the organizational stage or in bankruptcy or receivership, and is not a blank check, blind pool, or shell company that has no specific business plan or purpose or has indicated that the issuer’s primary business plan is to engage in a merger or combination of the business with, or an acquisition of, an unidentified person.
+
+(7) **Underwriter prohibition.—** — The transaction is not with respect to a security that constitutes the whole or part of an unsold allotment to, or a subscription or participation by, a broker or dealer as an underwriter of the security or a redistribution.
+
+(8) **Outstanding class requirement.—** — The transaction is with respect to a security of a class that has been authorized and outstanding for at least 90 days prior to the date of the transaction.
+
+**(e) Additional requirements**
+
+(1) **In general.—** — With respect to an exempted transaction described under subsection (a)(7):
+
+  (A) Securities acquired in such transaction shall be deemed to have been acquired in a transaction not involving any public offering.
+
+  (B) Such transaction shall be deemed not to be a distribution for purposes of [section 77b(a)(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77b/a/11&num=0&edition=prelim).
+
+  (C) Securities involved in such transaction shall be deemed to be restricted securities within the meaning of Rule 144 (17 CFR 230.144).
+
+(2) **Rule of construction.—** — The exemption provided by subsection (a)(7) shall not be the exclusive means for establishing an exemption from the registration requirements of [section 77e of this title](./chapter-2a-securities-and-trust-indentures.md#section-77e).
+
 ### Statutory Notes
 
 #### References in Text
 Section 201 of the Jumpstart Our Business Startups Act, referred to in subsec. (b), is section 201 of Pub. L. 112–106, which amended this section and enacted provisions set out as a note under this section.
 
-Section 78o(a)(1) of this title, referred to in subsec. (b)(1), was in the original “[section 15(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section15/a/1&num=0&edition=prelim)” and was translated as meaning section 15(a)(1) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
+Section 78o(a)(1) of this title, referred to in subsec. (c)(1), was in the original “[section 15(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section15/a/1&num=0&edition=prelim)” and was translated as meaning section 15(a)(1) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
 
-[Section 78c(a)(39) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a/39&num=0&edition=prelim), referrred to in subsec. (b)(2)(C), was in the original “[section 3(a)(39) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3/a/39&num=0&edition=prelim)” and was translated as meaning section 3(a)(39) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
+[Section 78c(a)(39) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a/39&num=0&edition=prelim), referrred to in subsec. (c)(2)(C), was in the original “[section 3(a)(39) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3/a/39&num=0&edition=prelim)” and was translated as meaning section 3(a)(39) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
 
 #### Amendments
+2015—Subsec. (a)(7). Pub. L. 114–94, § 76001(a)(1), added par. (7).
+
+Subsec. (c). Pub. L. 114–94, § 76001(a)(2), redesignated subsec. (b) relating to securities offered and sold in compliance with Rule 506 of Regulation D as (c).
+
+Subsecs. (d), (e). Pub. L. 114–94, § 76001(a)(3), added subsecs. (d) and (e).
+
 2012—Pub. L. 112–106, § 201(b)(1), (c)(1), made identical amendments, designating existing provisions as subsec. (a).
 
 Subsec. (a)(5). Pub. L. 112–106, § 401(c), which directed amendment of this section by substituting “section 77c(b)(1)” for “section 77c(b)” in par. (5), was executed by making the substitution in subsec. (a)(5) to reflect the probable intent of Congress and the amendment by Pub. L. 112–106, § 201(b)(1), (c)(1). See above.
@@ -1143,7 +1215,7 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 **(e) Emerging growth companies**
 
-(1) **In general** — Any emerging growth company, prior to its initial public offering date, may confidentially submit to the Commission a draft registration statement, for confidential nonpublic review by the staff of the Commission prior to public filing, provided that the initial confidential submission and all amendments thereto shall be publicly filed with the Commission not later than 21 days before the date on which the issuer conducts a road show, as such term is defined in section 230.433(h)(4) of title 17, Code of Federal Regulations, or any successor thereto.
+(1) **In general** — Any emerging growth company, prior to its initial public offering date, may confidentially submit to the Commission a draft registration statement, for confidential nonpublic review by the staff of the Commission prior to public filing, provided that the initial confidential submission and all amendments thereto shall be publicly filed with the Commission not later than 15 days before the date on which the issuer conducts a road show, as such term is defined in section 230.433(h)(4) of title 17, Code of Federal Regulations, or any successor thereto. An issuer that was an emerging growth company at the time it submitted a confidential registration statement or, in lieu thereof, a publicly filed registration statement for review under this subsection but ceases to be an emerging growth company thereafter shall continue to be treated as an emerging market growth company for the purposes of this subsection through the earlier of the date on which the issuer consummates its initial public offering pursuant to such registrations statement or the end of the 1-year period beginning on the date the company ceases to be an emerging growth company.
 
 (2) **Confidentiality** — Notwithstanding any other provision of this subchapter, the Commission shall not be compelled to disclose any information provided to or obtained by the Commission pursuant to this subsection. For purposes of [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. Information described in or obtained pursuant to this subsection shall be deemed to constitute confidential information for purposes of [section 78x(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78x/b/2&num=0&edition=prelim).
 
@@ -1153,6 +1225,8 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 Sections 78m(e) and 78n(g) of this title, referred to in subsec. (b)(5), were in the original, “sections 13(e) and 14(g)” and were translated as meaning sections 13(e) and 14(g) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
 
 #### Amendments
+2015—Subsec. (e)(1). Pub. L. 114–94 substituted “15 days” for “21 days” and inserted at end “An issuer that was an emerging growth company at the time it submitted a confidential registration statement or, in lieu thereof, a publicly filed registration statement for review under this subsection but ceases to be an emerging growth company thereafter shall continue to be treated as an emerging market growth company for the purposes of this subsection through the earlier of the date on which the issuer consummates its initial public offering pursuant to such registrations statement or the end of the 1-year period beginning on the date the company ceases to be an emerging growth company.”
+
 2012—Subsec. (e). Pub. L. 112–106 added subsec. (e).
 
 2010—Subsec. (b). Pub. L. 111–203, § 991(b)(1)(A)–(G), in par. (5), substituted “target fee” for “target offsetting” and, in par. (11)(A), substituted “Target fee” for “Target offsetting” in heading and table and “target fee” for “target offsetting” in introductory provisions, redesignated pars. (2), (5), (7), (10), and (11) as (1), (2), (3), (5), and (6), respectively, and struck out former pars. (1), (3), (4), (6), (8), and (9) which related to recovery of cost of services, offsetting collections, prohibition of treatment of fees as general revenues, final rate adjustment, review and effective date of rates, and rate during lapse of appropriation, respectively.
@@ -1329,8 +1403,17 @@ Pub. L. 101–429, § 1(c), Oct. 15, 1990, 104 Stat. 931, provided that: “(1) 
 #### Transfer of Functions
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
 
+#### Improvement of Regulation S–K
+Pub. L. 114–94, div. G, title LXXII, § 72002, Dec. 4, 2015, 129 Stat. 1784, provided that: “Not later than the end of the 180-day period beginning on the date of the enactment of this Act [Dec. 4, 2015], the Securities and Exchange Commission shall take all such actions to revise regulation S–K (17 CFR 229.10 et seq.)— “(1) to further scale or eliminate requirements of regulation S–K, in order to reduce the burden on emerging growth companies, accelerated filers, smaller reporting companies, and other smaller issuers, while still providing all material information to investors; “(2) to eliminate provisions of regulation S–K, required for all issuers, that are duplicative, overlapping, outdated, or unnecessary; and “(3) for which the Commission determines that no further study under section 72203 [probably means section 72003 of Pub. L. 114–94, set out as a note under [section 77s of this title](./chapter-2a-securities-and-trust-indentures.md#section-77s)] is necessary to determine the efficacy of such revisions to regulation S–K.”
+
+#### Forward Incorporation by Reference for Form S–1
+Pub. L. 114–94, div. G, title LXXXIV, § 84001, Dec. 4, 2015, 129 Stat. 1797, provided that: “Not later than 45 days after the date of the enactment of this Act [Dec. 4, 2015], the Securities and Exchange Commission shall revise Form S–1 so as to permit a smaller reporting company (as defined in section 230.405 of title 17, Code of Federal Regulations) to incorporate by reference in a registration statement filed on such form any documents that such company files with the Commission after the effective date of such registration statement.”
+
 #### Other Disclosures
 Pub. L. 112–106, title I, § 102(c), Apr. 5, 2012, 126 Stat. 310, provided that: “An emerging growth company may comply with section 229.303(a) of title 17, Code of Federal Regulations, or any successor thereto, by providing information required by such section with respect to the financial statements of the emerging growth company for each period presented pursuant to section 7(a) of the Securities Act of 1933 ([15 U.S.C. 77g(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77g/a&num=0&edition=prelim)). An emerging growth company may comply with section 229.402 of title 17, Code of Federal Regulations, or any successor thereto, by disclosing the same information as any issuer with a market value of outstanding voting and nonvoting common equity held by non-affiliates of less than $75,000,000.”
+
+#### Simplified Disclosure Requirements
+Pub. L. 112–106, title I, § 102(d), as added by Pub. L. 114–94, div. G, title LXXI, § 71003, Dec. 4, 2015, 129 Stat. 1783, provided that: “With respect to an emerging growth company (as such term is defined under section 2 of the Securities Act of 1933 [[15 U.S.C. 77b](./chapter-2a-securities-and-trust-indentures.md#section-77b)]): “(1) Requirement to include notice on forms s–1 and f–1.—Not later than 30 days after the date of enactment of this subsection [Dec. 4, 2015], the Securities and Exchange Commission shall revise its general instructions on Forms S–1 and F–1 to indicate that a registration statement filed (or submitted for confidential review) by an issuer prior to an initial public offering may omit financial information for historical periods otherwise required by regulation S–X (17 CFR 210.1–01 et seq.) as of the time of filing (or confidential submission) of such registration statement, provided that—“(A) the omitted financial information relates to a historical period that the issuer reasonably believes will not be required to be included in the Form S–1 or F–1 at the time of the contemplated offering; and “(B) prior to the issuer distributing a preliminary prospectus to investors, such registration statement is amended to include all financial information required by such regulation S–X at the date of such amendment. “(2) Reliance by issuers.—Effective 30 days after the date of enactment of this subsection, an issuer filing a registration statement (or submitting the statement for confidential review) on Form S–1 or Form F–1 may omit financial information for historical periods otherwise required by regulation S–X (17 CFR 210.1–01 et seq.) as of the time of filing (or confidential submission) of such registration statement, provided that—“(A) the omitted financial information relates to a historical period that the issuer reasonably believes will not be required to be included in the Form S–1 or Form F–1 at the time of the contemplated offering; and “(B) prior to the issuer distributing a preliminary prospectus to investors, such registration statement is amended to include all financial information required by such regulation S–X at the date of such amendment.”
 
 
 <a id="section-77gg"></a>
@@ -2312,19 +2395,21 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
   (C) section 77d(6) 1 of this title;
 
-  (D) 22 So in original. There are two subpars. (D). a rule or regulation adopted pursuant to [section 77c(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77c/b/2&num=0&edition=prelim) and such security is—
+  (D) a rule or regulation adopted pursuant to [section 77c(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77c/b/2&num=0&edition=prelim) and such security is—
 
     (i) offered or sold on a national securities exchange; or
 
     (ii) offered or sold to a qualified purchaser, as defined by the Commission pursuant to paragraph (3) with respect to that purchase or sale;
 
-  (D) 2 [section 77c(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77c/a&num=0&edition=prelim), other than the offer or sale of a security that is exempt from such registration pursuant to paragraph (4), (10), or (11) of such section, except that a municipal security that is exempt from such registration pursuant to paragraph (2) of such section is not a covered security with respect to the offer or sale of such security in the State in which the issuer of such security is located; or
+  (E) [section 77c(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77c/a&num=0&edition=prelim), other than the offer or sale of a security that is exempt from such registration pursuant to paragraph (4), (10), or (11) of such section, except that a municipal security that is exempt from such registration pursuant to paragraph (2) of such section is not a covered security with respect to the offer or sale of such security in the State in which the issuer of such security is located;
 
-  (E) Commission rules or regulations issued under section 77d(2) 1 of this title, except that this subparagraph does not prohibit a State from imposing notice filing requirements that are substantially similar to those required by rule or regulation under section 77d(2) 1 of this title that are in effect on September 1, 1996.
+  (F) Commission rules or regulations issued under section 77d(2) 1 of this title, except that this subparagraph does not prohibit a State from imposing notice filing requirements that are substantially similar to those required by rule or regulation under section 77d(2) 1 of this title that are in effect on September 1, 1996; or
+
+  (G) [section 77d(a)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77d/a/7&num=0&edition=prelim).
 
 **(c) Preservation of authority**
 
-(1) **Fraud authority** — Consistent with this section, the securities commission (or any agency or office performing like functions) of any State shall retain jurisdiction under the laws of such State to investigate and bring enforcement actions, in connection with securities or securities transactions 33 So in original. The words “in connection with securities or securities transactions” probably should be part of subpar. (A).
+(1) **Fraud authority** — Consistent with this section, the securities commission (or any agency or office performing like functions) of any State shall retain jurisdiction under the laws of such State to investigate and bring enforcement actions, in connection with securities or securities transactions 22 So in original. The comma after “enforcement actions” probably should be a hyphen and the words “in connection with securities or securities transactions” probably should be part of subpar. (A).
 
   (A) with respect to—
 
@@ -2332,7 +2417,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
     (ii) unlawful conduct by a broker, dealer, or funding portal; and
 
-  (B) in connection to 44 So in original. Probably should be “with”. a transaction described under section 77d(6) 1 of this title, with respect to—
+  (B) in connection to 33 So in original. Probably should be “with”. a transaction described under section 77d(6) 1 of this title, with respect to—
 
     (i) fraud or deceit; or
 
@@ -2356,7 +2441,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
   (D) *Fees not permitted on listed securities* — Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(1), or will be such a covered security upon completion of the transaction, or is a security of the same issuer that is equal in seniority or that is a senior security to a security that is a covered security pursuant to subsection (b)(1).
 
-  (F) *55 So in original. No subpar. (E) has been enacted. Fees not permitted on crowdfunded securities* — Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(4)(B), or will be such a covered security upon completion of the transaction, except for the securities commission (or any agency or office performing like functions) of the State of the principal place of business of the issuer, or any State in which purchasers of 50 percent or greater of the aggregate amount of the issue are residents, provided that for purposes of this subparagraph, the term “State” includes the District of Columbia and the territories of the United States.
+  (F) *44 So in original. No subpar. (E) has been enacted. Fees not permitted on crowdfunded securities* — Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(4)(B), or will be such a covered security upon completion of the transaction, except for the securities commission (or any agency or office performing like functions) of the State of the principal place of business of the issuer, or any State in which purchasers of 50 percent or greater of the aggregate amount of the issue are residents, provided that for purposes of this subparagraph, the term “State” includes the District of Columbia and the territories of the United States.
 
 (3) **Enforcement of requirements** — Nothing in this section shall prohibit the securities commission (or any agency or office performing like functions) of any State from suspending the offer or sale of securities within such State as a result of the failure to submit any filing or fee required under law and permitted under this section.
 
@@ -2382,6 +2467,12 @@ The Investment Company Act of 1940, referred to in subsec. (b)(2), is title I of
 Section 77d(1), (2), (3), (4), and (6) of this title, referred to in subsecs. (b)(4)(A) to (C), (E) and (c)(1)(B), were redesignated section 77d(a)(1), (2), (3), (4), and (6), respectively, of this title by Pub. L. 112–106, title II, § 201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
 
 #### Amendments
+2015—Subsec. (b)(4)(E). Pub. L. 114–94, § 76001(b)(1), which directed amendment of subsec. (b)(4) by redesignating “the second subparagraph (D)” as (E), was executed by making the redesignation for the subpar. (D) relating to [section 77c(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77c/a&num=0&edition=prelim) to reflect the probable intent of Congress. Former subpar. (E) redesignated (F).
+
+Subsec. (b)(4)(F). Pub. L. 114–94, § 76001(b)(1), redesignated subpar. (E) as (F).
+
+Subsec. (b)(4)(G). Pub. L. 114–94, § 76001(b)(2)–(4), added subpar. (G).
+
 2012—Subsec. (b)(4)(C). Pub. L. 112–106, § 305(a)(2), added subpar. (C). Former subpar. (C) redesignated (D).
 
 Subsec. (b)(4)(D). Pub. L. 112–106, § 401(b), added subpar. (D) relating to [section 77c(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77c/b/2&num=0&edition=prelim).
@@ -2627,6 +2718,9 @@ Amendment by Pub. L. 94–210 effective on 60th day after Feb. 5, 1976, but not 
 
 #### Transfer of Functions
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
+
+#### Study on Modernization and Simplification of Regulation S–K
+Pub. L. 114–94, div. G, title LXXII, § 72003, Dec. 4, 2015, 129 Stat. 1785, provided that: “(a) Study.—The Securities and Exchange Commission shall carry out a study of the requirements contained in regulation S–K (17 CFR 229.10 et seq.). Such study shall—“(1) determine how best to modernize and simplify such requirements in a manner that reduces the costs and burdens on issuers while still providing all material information; “(2) emphasize a company by company approach that allows relevant and material information to be disseminated to investors without boilerplate language or static requirements while preserving completeness and comparability of information across registrants; and “(3) evaluate methods of information delivery and presentation and explore methods for discouraging repetition and the disclosure of immaterial information. “(b) Consultation.—In conducting the study required under subsection (a), the Commission shall consult with the Investor Advisory Committee and the Advisory Committee on Small and Emerging Companies. “(c) Report.—Not later than the end of the 360-day period beginning on the date of enactment of this Act [Dec. 4, 2015], the Commission shall issue a report to the Congress containing—“(1) all findings and determinations made in carrying out the study required under subsection (a); “(2) specific and detailed recommendations on modernizing and simplifying the requirements in regulation S–K in a manner that reduces the costs and burdens on companies while still providing all material information; and “(3) specific and detailed recommendations on ways to improve the readability and navigability of disclosure documents and to discourage repetition and the disclosure of immaterial information. “(d) Rulemaking.—Not later than the end of the 360-day period beginning on the date that the report is issued to the Congress under subsection (c), the Commission shall issue a proposed rule to implement the recommendations of the report issued under subsection (c). “(e) Rule of Construction.—Revisions made to regulation S–K by the Commission under section 202 [probably means section 72002 of Pub. L. 114–94, set out as a note under [section 77g of this title](./chapter-2a-securities-and-trust-indentures.md#section-77g)] shall not be construed as satisfying the rulemaking requirements under this section.”
 
 
 <a id="section-77sss"></a>

@@ -2,7 +2,7 @@
 title: 42
 chapter: '84'
 heading: DEPARTMENT OF ENERGY
-section_count: 231
+section_count: 232
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -172,6 +172,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the Department of Energy, including the functions of the Secretary of Energy relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 121(g)(4), 183(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Emergency Preparedness for Energy Supply Disruptions
+Pub. L. 114–94, div. F, § 61001, Dec. 4, 2015, 129 Stat. 1771, provided that: “(a) Finding.—Congress finds that recent natural disasters have underscored the importance of having resilient oil and natural gas infrastructure and effective ways for industry and government to communicate to address energy supply disruptions. “(b) Authorization for Activities to Enhance Emergency Preparedness for Natural Disasters.—The Secretary of Energy shall develop and adopt procedures to—“(1) improve communication and coordination between the Department of Energy’s energy response team, Federal partners, and industry; “(2) leverage the Energy Information Administration’s subject matter expertise within the Department’s energy response team to improve supply chain situation assessments; “(3) establish company liaisons and direct communication with the Department’s energy response team to improve situation assessments; “(4) streamline and enhance processes for obtaining temporary regulatory relief to speed up emergency response and recovery; “(5) facilitate and increase engagement among States, the oil and natural gas industry, and the Department in developing State and local energy assurance plans; “(6) establish routine education and training programs for key government emergency response positions with the Department and States; and “(7) involve States and the oil and natural gas industry in comprehensive drill and exercise programs. “(c) Cooperation.—The activities carried out under subsection (b) shall include collaborative efforts with State and local government officials and the private sector. “(d) Report.—Not later than 180 days after the date of enactment of this Act [Dec. 4, 2015], the Secretary of Energy shall submit to Congress a report describing the effectiveness of the activities authorized under this section.”
 
 
 <a id="section-7133"></a>
@@ -531,7 +534,7 @@ Section was enacted as part of the Department of Energy Act of 1978—Civilian A
 ## § 7137. Economic Regulatory Administration; appointment of Administrator; compensation; qualifications; functions
 **(a)** There shall be within the Department an Economic Regulatory Administration to be headed by an Administrator, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at a rate provided for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim). Such Administrator shall be, by demonstrated ability, background, training, or experience, an individual who is specially qualified to assess fairly the needs and concerns of all interests affected by Federal energy policy. The Secretary shall by rule provide for a separation of regulatory and enforcement functions assigned to, or vested in, the Administration.
 
-**(b)** Consistent with the provisions of subchapter IV of this chapter, the Secretary shall utilize the Economic Regulatory Administration to administer such functions as he may consider appropriate.
+**(b)** Consistent with the provisions of subchapter IV, the Secretary shall utilize the Economic Regulatory Administration to administer such functions as he may consider appropriate.
 
 
 <a id="section-7138"></a>
@@ -622,13 +625,18 @@ There is established a Leasing Liaison Committee which shall be composed of an e
 
 **(f) Definitions** As used in this section, the term—
 
-(1) “minority” means any individual who is a citizen of the United States and who is a Negro, Puerto Rican, American Indian, Eskimo, Oriental, or Aleut or is a Spanish speaking individual of Spanish descent;
+(1) “minority” means any individual who is a citizen of the United States and who is Asian American, Native Hawaiian, a Pacific Islander, African American, Hispanic, Puerto Rican, Native American, or an Alaska Native;
 
 (2) “minority business enterprise” means a firm, corporation, association, or partnership which is at least 50 percent owned or controlled by a minority or group of minorities; and
 
 (3) “minority educational institution” means an educational institution with an enrollment in which a substantial proportion (as determined by the Secretary) of the students are minorities.
 
 **(g) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out the functions of the Office not to exceed $3,000,000 for fiscal year 1979, not to exceed $5,000,000 for fiscal year 1980, and not to exceed $6,000,000 for fiscal year 1981. Of the amounts so appropriated each fiscal year, not less than 50 percent shall be available for purposes of financial assistance under subsection (e) of this section.
+
+### Statutory Notes
+
+#### Amendments
+2016—Subsec. (f)(1). Pub. L. 114–157 substituted “Asian American, Native Hawaiian, a Pacific Islander, African American, Hispanic, Puerto Rican, Native American, or an Alaska Native” for “a Negro, Puerto Rican, American Indian, Eskimo, Oriental, or Aleut or is a Spanish speaking individual of Spanish descent”.
 
 
 <a id="section-7142a"></a>
@@ -974,7 +982,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 ## § 7151a. General transfers
 **(a)** Except as otherwise provided in this chapter, there are transferred to, and vested in, the Secretary all of the functions vested by law in the Administrator of the Federal Energy Administration or the Federal Energy Administration, the Administrator of the Energy Research and Development Administration or the Energy Research and Development Administration; and the functions vested by law in the officers and components of either such Administration.
 
-**(b)** Except as provided in subchapter IV of this chapter, there are transferred to, and vested in, the Secretary the function of the Federal Power Commission, or of the members, officers, or components thereof. The Secretary may exercise any power described in [section 7172(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7172/a/2&num=0&edition=prelim) to the extent the Secretary determines such power to be necessary to the exercise of any function within his jurisdiction pursuant to the preceding sentence.
+**(b)** Except as provided in subchapter IV, there are transferred to, and vested in, the Secretary the function of the Federal Power Commission, or of the members, officers, or components thereof. The Secretary may exercise any power described in [section 7172(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7172/a/2&num=0&edition=prelim) to the extent the Secretary determines such power to be necessary to the exercise of any function within his jurisdiction pursuant to the preceding sentence.
 
 ### Statutory Notes
 
@@ -1037,7 +1045,7 @@ Sec. 4. Functions of the Atomic Energy Commission and the Energy Research and De
 
 Sec. 5. Special Provisions Relating to Emergency Preparedness and Mobilization Functions.
 
-(a) Executive Order No. 10480, as amended [formerly set out as a note under 50 U.S.C. App. 2153], is further amended by adding thereto the following new Sections:
+(a) Executive Order No. 10480, as amended [formerly set out as a note under former 50 U.S.C. App. 2153], is further amended by adding thereto the following new Sections:
 
 “Sec. 609. Effective October 1, 1977, the Secretary of Energy shall exercise all authority and discharge all responsibility herein delegated to or conferred upon (a) the Atomic Energy Commission, and (b) with respect to petroleum, gas, solid fuels and electric power, upon the Secretary of the Interior.
 
@@ -1120,7 +1128,7 @@ Bureau of Mines redesignated United States Bureau of Mines by section 10(b) of P
 For effective date of amendment by Pub. L. 104–58, see section 104(h) of Pub. L. 104–58, set out below.
 
 #### Alaska Power Administration Asset Sale and Termination
-Pub. L. 104–58, title I, Nov. 28, 1995, 109 Stat. 557, provided that: “SEC. 101. SHORT TITLE.“This title may be cited as the ‘Alaska Power Administration Asset Sale and Termination Act’. “SEC. 102. DEFINITIONS.“For purposes of this title:“(1) The term ‘Eklutna’ means the Eklutna Hydroelectric Project and related assets as described in section 4 and Exhibit A of the Eklutna Purchase Agreement. “(2) The term ‘Eklutna Purchase Agreement’ means the August 2, 1989, Eklutna Purchase Agreement between the Alaska Power Administration of the Department of Energy and the Eklutna Purchasers, together with any amendments thereto adopted before the enactment of this section [Nov. 28, 1995]. “(3) The term ‘Eklutna Purchasers’ means the Municipality of Anchorage doing business as Municipal Light and Power, the Chugach Electric Association, Inc. and the Matanuska Electric Association, Inc. “(4) The term ‘Snettisham’ means the Snettisham Hydroelectric Project and related assets as described in section 4 and Exhibit A of the Snettisham Purchase Agreement. “(5) The term ‘Snettisham Purchase Agreement’ means the February 10, 1989, Snettisham Purchase Agreement between the Alaska Power Administration of the Department of Energy and the Alaska Power Authority and its successors in interest, together with any amendments thereto adopted before the enactment of this section. “(6) The term ‘Snettisham Purchaser’ means the Alaska Industrial Development and Export Authority or a successor State agency or authority. “SEC. 103. SALE OF EKLUTNA AND SNETTISHAM HYDROELECTRIC PROJECTS.“(a) Sale of Eklutna.—The Secretary of Energy is authorized and directed to sell Eklutna to the Eklutna Purchasers in accordance with the terms of this Act and the Eklutna Purchase Agreement. “(b) Sale of Snettisham.—The Secretary of Energy is authorized and directed to sell Snettisham to the Snettisham Purchaser in accordance with the terms of this Act and the Snettisham Purchase Agreement. “(c) Cooperation of Other Agencies.—The heads of other Federal departments, agencies, and instrumentalities of the United States shall assist the Secretary of Energy in implementing the sales and conveyances authorized and directed by this title. “(d) Proceeds.—Proceeds from the sales required by this title shall be deposited in the Treasury of the United States to the credit of miscellaneous receipts. “(e) Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to prepare, survey, and acquire Eklutna and Snettisham for sale and conveyance. Such preparations and acquisitions shall provide sufficient title to ensure the beneficial use, enjoyment, and occupancy by the purchasers. “(f) Contributed Funds.—Notwithstanding any other provision of law, the Alaska Power Administration is authorized to receive, administer, and expend such contributed funds as may be provided by the Eklutna Purchasers or customers or the Snettisham Purchaser or customers for the purposes of upgrading, improving, maintaining, or administering Eklutna or Snettisham. Upon the termination of the Alaska Power Administration under section 104(f), the Secretary of Energy shall administer and expend any remaining balances of such contributed funds for the purposes intended by the contributors. “SEC. 104. EXEMPTION AND OTHER PROVISIONS.“(a) Federal Power Act.—(1) After the sales authorized by this Act occur, Eklutna and Snettisham, including future modifications, shall continue to be exempt from the requirements of Part I of the Federal Power Act ([16 U.S.C. 791a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) et seq.), except as provided in subsection (b). “(2) The exemption provided by paragraph (1) shall not affect the Memorandum of Agreement entered into among the State of Alaska, the Eklutna Purchasers, the Alaska Energy Authority, and Federal fish and wildlife agencies regarding the protection, mitigation of, damages to, and enhancement of fish and wildlife, dated August 7, 1991, which remains in full force and effect. “(3) Nothing in this title or the Federal Power Act preempts the State of Alaska from carrying out the responsibilities and authorities of the Memorandum of Agreement. “(b) Subsequent Transfers.—Except for subsequent assignment of interest in Eklutna by the Eklutna Purchasers to the Alaska Electric Generation and Transmission Cooperative Inc. pursuant to section 19 of the Eklutna Purchase Agreement, upon any subsequent sale or transfer of any portion of Eklutna or Snettisham from the Eklutna Purchasers or the Snettisham Purchaser to any other person, the exemption set forth in paragraph (1) of subsection (a) of this section shall cease to apply to such portion. “(c) Review.—(1) The United States District Court for the District of Alaska shall have jurisdiction to review decisions made under the Memorandum of Agreement and to enforce the provisions of the Memorandum of Agreement, including the remedy of specific performance. “(2) An action seeking review of a Fish and Wildlife Program (‘Program’) of the Governor of Alaska under the Memorandum of Agreement or challenging actions of any of the parties to the Memorandum of Agreement prior to the adoption of the Program shall be brought not later than 90 days after the date on which the Program is adopted by the Governor of Alaska, or be barred. “(3) An action seeking review of implementation of the Program shall be brought not later than 90 days after the challenged act implementing the Program, or be barred. “(d) Eklutna Lands.—With respect to Eklutna lands described in Exhibit A of the Eklutna Purchase Agreement:“(1) The Secretary of the Interior shall issue rights-of-way to the Alaska Power Administration for subsequent reassignment to the Eklutna Purchasers—“(A) at no cost to the Eklutna Purchasers; “(B) to remain effective for a period equal to the life of Eklutna as extended by improvements, repairs, renewals, or replacements; and “(C) sufficient for the operation of, maintenance of, repair to, and replacement of, and access to, Eklutna facilities located on military lands and lands managed by the Bureau of Land Management, including lands selected by the State of Alaska. “(2) Fee title to lands at Anchorage Substation shall be transferred to Eklutna Purchasers at no additional cost if the Secretary of the Interior determines that pending claims to, and selections of, those lands are invalid or relinquished. “(3) With respect to the Eklutna lands identified in paragraph 1 of Exhibit A of the Eklutna Purchase Agreement, the State of Alaska may select, and the Secretary of the Interior shall convey to the State, improved lands under the selection entitlements in section 6 of the Act of July 7, 1958 (commonly referred to as the Alaska Statehood Act, Public Law 85–508; 72 Stat. 339) [set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions], and the North Anchorage Land Agreement dated January 31, 1983. This conveyance shall be subject to the rights-of-way provided to the Eklutna Purchasers under paragraph (1). “(e) Snettisham Lands.—With respect to the Snettisham lands identified in paragraph 1 of Exhibit A of the Snettisham Purchase Agreement and Public Land Order No. 5108, the State of Alaska may select, and the Secretary of the Interior shall convey to the State of Alaska, improved lands under the selection entitlements in section 6 of the Act of July 7, 1958 (commonly referred to as the Alaska Statehood Act, Public Law 85–508; 72 Stat. 339). “(f) Termination of Alaska Power Administration.—Not later than one year after both of the sales authorized in section 103 have occurred, as measured by the Transaction Dates stipulated in the Purchase Agreements, the Secretary of Energy shall—“(1) complete the business of, and close out, the Alaska Power Administration; “(2) submit to Congress a report documenting the sales; and “(3) return unobligated balances of funds appropriated for the Alaska Power Administration to the Treasury of the United States. “(g) Repeals.—(1) The Act of July 31, 1950 (64 Stat. 382) [enacting sections 312 to 312d of Title 48, Territories and Insular Possessions, and provisions formerly set out as a note under [section 312 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section312&num=0&edition=prelim)] is repealed effective on the date that Eklutna is conveyed to the Eklutna Purchasers [ownership of Eklutna project transferred Oct. 2, 1997]. “(2) Section 204 of the Flood Control Act of 1962 (76 Stat. 1193) is repealed effective on the date that Snettisham is conveyed to the Snettisham Purchaser [purchase of Snettisham project completed Aug. 19, 1998]. “(3) The Act of August 9, 1955 [enacting sections 1962d–12 to 1962d–14 of this title], concerning water resources investigation in Alaska (69 Stat. 618), is repealed. “(h) DOE Organization Act.—As of the later of the two dates determined in paragraphs (1) and (2) of subsection (g), section 302(a) of the Department of Energy Organization Act ([42 U.S.C. 7152(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7152/a&num=0&edition=prelim)) is amended—“(1) in paragraph (1)—“(A) by striking subparagraph (C); and “(B) by redesignating subparagraphs (D), (E), and (F) as subparagraphs (C), (D), and (E) respectively; and “(2) in paragraph (2) by striking out ‘and the Alaska Power Administration’ and by inserting ‘and’ after ‘Southwestern Power Administration,’. “(i) Disposal.—The sales of Eklutna and Snettisham under this title are not considered disposal of Federal surplus property under the Federal Property and Administrative Services Act of 1949 [see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts] ([40 U.S.C. 484](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section484&num=0&edition=prelim)) [now [40 U.S.C. 541–555](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section541–555&num=0&edition=prelim)] or the Act of October 3, 1944, popularly referred to as the ‘Surplus Property Act of 1944’ (50 U.S.C. App. 1622). “SEC. 105. OTHER FEDERAL HYDROELECTRIC PROJECTS.“The provisions of this title regarding the sale of the Alaska Power Administration’s hydroelectric projects under section 103 and the exemption of these projects from Part I of the Federal Power Act [[16 U.S.C. 791a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) et seq.] under section 104 do not apply to other Federal hydroelectric projects.”
+Pub. L. 104–58, title I, Nov. 28, 1995, 109 Stat. 557, provided that: “SEC. 101. SHORT TITLE.“This title may be cited as the ‘Alaska Power Administration Asset Sale and Termination Act’. “SEC. 102. DEFINITIONS.“For purposes of this title:“(1) The term ‘Eklutna’ means the Eklutna Hydroelectric Project and related assets as described in section 4 and Exhibit A of the Eklutna Purchase Agreement. “(2) The term ‘Eklutna Purchase Agreement’ means the August 2, 1989, Eklutna Purchase Agreement between the Alaska Power Administration of the Department of Energy and the Eklutna Purchasers, together with any amendments thereto adopted before the enactment of this section [Nov. 28, 1995]. “(3) The term ‘Eklutna Purchasers’ means the Municipality of Anchorage doing business as Municipal Light and Power, the Chugach Electric Association, Inc. and the Matanuska Electric Association, Inc. “(4) The term ‘Snettisham’ means the Snettisham Hydroelectric Project and related assets as described in section 4 and Exhibit A of the Snettisham Purchase Agreement. “(5) The term ‘Snettisham Purchase Agreement’ means the February 10, 1989, Snettisham Purchase Agreement between the Alaska Power Administration of the Department of Energy and the Alaska Power Authority and its successors in interest, together with any amendments thereto adopted before the enactment of this section. “(6) The term ‘Snettisham Purchaser’ means the Alaska Industrial Development and Export Authority or a successor State agency or authority. “SEC. 103. SALE OF EKLUTNA AND SNETTISHAM HYDROELECTRIC PROJECTS.“(a) Sale of Eklutna.—The Secretary of Energy is authorized and directed to sell Eklutna to the Eklutna Purchasers in accordance with the terms of this Act and the Eklutna Purchase Agreement. “(b) Sale of Snettisham.—The Secretary of Energy is authorized and directed to sell Snettisham to the Snettisham Purchaser in accordance with the terms of this Act and the Snettisham Purchase Agreement. “(c) Cooperation of Other Agencies.—The heads of other Federal departments, agencies, and instrumentalities of the United States shall assist the Secretary of Energy in implementing the sales and conveyances authorized and directed by this title. “(d) Proceeds.—Proceeds from the sales required by this title shall be deposited in the Treasury of the United States to the credit of miscellaneous receipts. “(e) Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to prepare, survey, and acquire Eklutna and Snettisham for sale and conveyance. Such preparations and acquisitions shall provide sufficient title to ensure the beneficial use, enjoyment, and occupancy by the purchasers. “(f) Contributed Funds.—Notwithstanding any other provision of law, the Alaska Power Administration is authorized to receive, administer, and expend such contributed funds as may be provided by the Eklutna Purchasers or customers or the Snettisham Purchaser or customers for the purposes of upgrading, improving, maintaining, or administering Eklutna or Snettisham. Upon the termination of the Alaska Power Administration under section 104(f), the Secretary of Energy shall administer and expend any remaining balances of such contributed funds for the purposes intended by the contributors. “SEC. 104. EXEMPTION AND OTHER PROVISIONS.“(a) Federal Power Act.—(1) After the sales authorized by this Act occur, Eklutna and Snettisham, including future modifications, shall continue to be exempt from the requirements of Part I of the Federal Power Act ([16 U.S.C. 791a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) et seq.), except as provided in subsection (b). “(2) The exemption provided by paragraph (1) shall not affect the Memorandum of Agreement entered into among the State of Alaska, the Eklutna Purchasers, the Alaska Energy Authority, and Federal fish and wildlife agencies regarding the protection, mitigation of, damages to, and enhancement of fish and wildlife, dated August 7, 1991, which remains in full force and effect. “(3) Nothing in this title or the Federal Power Act preempts the State of Alaska from carrying out the responsibilities and authorities of the Memorandum of Agreement. “(b) Subsequent Transfers.—Except for subsequent assignment of interest in Eklutna by the Eklutna Purchasers to the Alaska Electric Generation and Transmission Cooperative Inc. pursuant to section 19 of the Eklutna Purchase Agreement, upon any subsequent sale or transfer of any portion of Eklutna or Snettisham from the Eklutna Purchasers or the Snettisham Purchaser to any other person, the exemption set forth in paragraph (1) of subsection (a) of this section shall cease to apply to such portion. “(c) Review.—(1) The United States District Court for the District of Alaska shall have jurisdiction to review decisions made under the Memorandum of Agreement and to enforce the provisions of the Memorandum of Agreement, including the remedy of specific performance. “(2) An action seeking review of a Fish and Wildlife Program (‘Program’) of the Governor of Alaska under the Memorandum of Agreement or challenging actions of any of the parties to the Memorandum of Agreement prior to the adoption of the Program shall be brought not later than 90 days after the date on which the Program is adopted by the Governor of Alaska, or be barred. “(3) An action seeking review of implementation of the Program shall be brought not later than 90 days after the challenged act implementing the Program, or be barred. “(d) Eklutna Lands.—With respect to Eklutna lands described in Exhibit A of the Eklutna Purchase Agreement:“(1) The Secretary of the Interior shall issue rights-of-way to the Alaska Power Administration for subsequent reassignment to the Eklutna Purchasers—“(A) at no cost to the Eklutna Purchasers; “(B) to remain effective for a period equal to the life of Eklutna as extended by improvements, repairs, renewals, or replacements; and “(C) sufficient for the operation of, maintenance of, repair to, and replacement of, and access to, Eklutna facilities located on military lands and lands managed by the Bureau of Land Management, including lands selected by the State of Alaska. “(2) Fee title to lands at Anchorage Substation shall be transferred to Eklutna Purchasers at no additional cost if the Secretary of the Interior determines that pending claims to, and selections of, those lands are invalid or relinquished. “(3) With respect to the Eklutna lands identified in paragraph 1 of Exhibit A of the Eklutna Purchase Agreement, the State of Alaska may select, and the Secretary of the Interior shall convey to the State, improved lands under the selection entitlements in section 6 of the Act of July 7, 1958 (commonly referred to as the Alaska Statehood Act, Public Law 85–508; 72 Stat. 339) [set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions], and the North Anchorage Land Agreement dated January 31, 1983. This conveyance shall be subject to the rights-of-way provided to the Eklutna Purchasers under paragraph (1). “(e) Snettisham Lands.—With respect to the Snettisham lands identified in paragraph 1 of Exhibit A of the Snettisham Purchase Agreement and Public Land Order No. 5108, the State of Alaska may select, and the Secretary of the Interior shall convey to the State of Alaska, improved lands under the selection entitlements in section 6 of the Act of July 7, 1958 (commonly referred to as the Alaska Statehood Act, Public Law 85–508; 72 Stat. 339). “(f) Termination of Alaska Power Administration.—Not later than one year after both of the sales authorized in section 103 have occurred, as measured by the Transaction Dates stipulated in the Purchase Agreements, the Secretary of Energy shall—“(1) complete the business of, and close out, the Alaska Power Administration; “(2) submit to Congress a report documenting the sales; and “(3) return unobligated balances of funds appropriated for the Alaska Power Administration to the Treasury of the United States. “(g) Repeals.—(1) The Act of July 31, 1950 (64 Stat. 382) [enacting sections 312 to 312d of Title 48, Territories and Insular Possessions, and provisions formerly set out as a note under [section 312 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section312&num=0&edition=prelim)] is repealed effective on the date that Eklutna is conveyed to the Eklutna Purchasers [ownership of Eklutna project transferred Oct. 2, 1997]. “(2) Section 204 of the Flood Control Act of 1962 (76 Stat. 1193) is repealed effective on the date that Snettisham is conveyed to the Snettisham Purchaser [purchase of Snettisham project completed Aug. 19, 1998]. “(3) The Act of August 9, 1955 [enacting sections 1962d–12 to 1962d–14 of this title], concerning water resources investigation in Alaska (69 Stat. 618), is repealed. “(h) DOE Organization Act.—As of the later of the two dates determined in paragraphs (1) and (2) of subsection (g), section 302(a) of the Department of Energy Organization Act ([42 U.S.C. 7152(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7152/a&num=0&edition=prelim)) is amended—“(1) in paragraph (1)—“(A) by striking subparagraph (C); and “(B) by redesignating subparagraphs (D), (E), and (F) as subparagraphs (C), (D), and (E) respectively; and “(2) in paragraph (2) by striking out ‘and the Alaska Power Administration’ and by inserting ‘and’ after ‘Southwestern Power Administration,’. “(i) Disposal.—The sales of Eklutna and Snettisham under this title are not considered disposal of Federal surplus property under the Federal Property and Administrative Services Act of 1949 [see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts] ([40 U.S.C. 484](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section484&num=0&edition=prelim)) [now [40 U.S.C. 541–555](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section541–555&num=0&edition=prelim)] or the Act of October 3, 1944, popularly referred to as the ‘Surplus Property Act of 1944’ (50 U.S.C. App. 1622) [now [40 U.S.C. 545](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section545&num=0&edition=prelim) note]. “SEC. 105. OTHER FEDERAL HYDROELECTRIC PROJECTS.“The provisions of this title regarding the sale of the Alaska Power Administration’s hydroelectric projects under section 103 and the exemption of these projects from Part I of the Federal Power Act [[16 U.S.C. 791a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) et seq.] under section 104 do not apply to other Federal hydroelectric projects.”
 
 #### Use of Funds To Study Noncost-Based Methods of Pricing Hydroelectric Power
 Pub. L. 102–377, title V, § 505, Oct. 2, 1992, 106 Stat. 1343, provided that: “Notwithstanding any other provision of this Act, subsequent Energy and Water Development Appropriations Acts or any other provision of law hereafter, none of the funds made available under this Act, subsequent Energy and Water Development Appropriations Acts or any other law hereafter shall be used for the purposes of conducting any studies relating or leading to the possibility of changing from the currently required ‘at cost’ to a ‘market rate’ or any other noncost-based method for the pricing of hydroelectric power by the six Federal public power authorities, or other agencies or authorities of the Federal Government, except as may be specifically authorized by Act of Congress hereafter enacted.”
@@ -1279,6 +1287,8 @@ Pub. L. 101–549, title VIII, § 808, Nov. 15, 1990, 104 Stat. 2690, provided t
 Pub. L. 99–500, § 101(e) [title III], Oct. 18, 1986, 100 Stat. 1783–194, 1783–208, and Pub. L. 99–591, § 101(e) [title III], Oct. 30, 1986, 100 Stat. 3341–194, 3341–208, provided in part: “That hereafter and notwithstanding any other provision of law revenues from licensing fees, inspection services, and other services and collections, estimated at $78,754,000 in fiscal year 1987, may be retained and used for necessary expenses in this account, and may remain available until expended: Provided further, That the sum herein appropriated shall be reduced as revenues are received during fiscal year 1987, so as to result in a final fiscal year 1987 appropriation estimated at not more than $20,325,000.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 114–113, div. D, title III, Dec. 18, 2015, 129 Stat. 2415.
 
 Pub. L. 113–235, div. D, title III, Dec. 16, 2014, 128 Stat. 2322.
 
@@ -1997,7 +2007,7 @@ The Natural Gas Policy Act of 1978, referred to in text, is Pub. L. 95–621, No
 
 (8)
 
-  (A) In this paragraph, the term “nontraditional Government contractor” has the meaning given the term “nontraditional defense contractor” in section 845(f) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; [10 U.S.C. 2371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim) note).
+  (A) In this paragraph, the term “nontraditional Government contractor” has the meaning given the term “nontraditional defense contractor” in section 845(f) 1 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; [10 U.S.C. 2371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim) note).
 
   (B) Not later than 1 year after the date on which the final guidelines are published under paragraph (6), the Comptroller General of the United States shall submit to Congress a report describing—
 
@@ -2013,6 +2023,8 @@ The Natural Gas Policy Act of 1978, referred to in text, is Pub. L. 95–621, No
 
 #### References in Text
 [Section 2371(h) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371/h&num=0&edition=prelim), referred to in subsec. (g)(7), was repealed by Pub. L. 113–291, div. A, title X, § 1071(f)(20), Dec. 19, 2014, 128 Stat. 3511.
+
+Section 845(f) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; [10 U.S.C. 2371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim) note), referred to in subsec. (g)(8)(A), was repealed by Pub. L. 114–92, div. A, title VIII, § 815(c), Nov. 25, 2015, 129 Stat. 896. See [section 2371b(e) of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371b/e&num=0&edition=prelim), Armed Forces.
 
 #### Amendments
 2013—Subsec. (g)(10). Pub. L. 113–66 substituted “September 30, 2020” for “September 30, 2015”.
@@ -2632,7 +2644,7 @@ Section 7274d, Pub. L. 102–190, div. C, title XXXI, § 3131, Dec. 5, 1991, 105
 
 **(e) Preference for cooperative education students** In evaluating applicants for award of scholarships and fellowships under the program, the Secretary of Energy may give a preference to an individual who is enrolled in, or accepted for enrollment in, an educational institution that has a cooperative education program with the Department of Energy.
 
-**(f) Coordination of benefits** A scholarship or fellowship awarded under this section shall be taken into account in determining the eligibility of the student for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq. [and [42 U.S.C. 2751](./chapter-034-economic-opportunity-program.md#section-2751) et seq.]).
+**(f) Coordination of benefits** A scholarship or fellowship awarded under this section shall be taken into account in determining the eligibility of the student for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.).
 
 **(g) Award of scholarships and fellowships**
 
@@ -2647,7 +2659,7 @@ Section 7274d, Pub. L. 102–190, div. C, title XXXI, § 3131, Dec. 5, 1991, 105
 ### Statutory Notes
 
 #### References in Text
-The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 Section 3101(9)(B), referred to in subsec. (i), is section 3101(9)(B) of Pub. L. 102–190, div. C, title XXXI, Dec. 5, 1991, 105 Stat. 1564, which is not classified to the Code.
 
@@ -3011,7 +3023,7 @@ Notwithstanding [section 3302 of title 31](https://uscode.house.gov/view.xhtml?r
 #### Codification
 Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2010, and not as part of the Department of Energy Organization Act which comprises this chapter.
 
-#### Purchase power and wheeling expenses
+#### Purchase Power and Wheeling Expenses
 Pub. L. 113–76, div. D, title III, Jan. 17, 2014, 128 Stat. 171, provided: “That for purposes of this appropriation in this [Act] [div. D of Pub. L. 113–76, see Tables for classification] and subsequent Acts, purchase power and wheeling expenses includes the cost of voluntary purchases of power allowances in compliance with state greenhouse gas programs existing at the time of enactment of this Act [Jan. 17, 2014].”
 
 
@@ -3064,8 +3076,8 @@ For termination, effective May 15, 2000, of provisions in this section requiring
 Pub. L. 99–58, title II, § 203, July 2, 1985, 99 Stat. 108, provided that: “(a) In General.—The Secretary of Energy shall, through the Energy Information Administration, conduct a comprehensive analysis of the coal import market in the United States and report the findings of such analysis to the Committee on Energy and Natural Resources of the Senate and the appropriate committees of the House of Representatives, within nine months of the date of enactment of this Act [July 2, 1985]. “(b) Contents.—The report required by this section shall—“(1) contain a detailed analysis of potential domestic markets for foreign coals, by producing nation, between 1985 and 1995; “(2) identify potential domestic consuming sectors of imported coal and evaluate the magnitude of any potential economic disruptions for each impacted State, including analysis of direct and indirect employment impact in the domestic coal industry and resulting income loss to each State; “(3) identify domestically produced coal that potentially could be replaced by imported coal; “(4) identify contractual commitments of domestic utilities expiring between 1985 and 1995 and describe spot buying practices of domestic utilities, fuel cost patterns, plant modification costs required to burn foreign coals, proximity of navigable waters to utilities, demand for compliance coal, availability of less expensive purchased power from Canada, and State and local considerations; “(5) evaluate increased coal consumption by domestic electric utilities resulting from increased power sales and analyze the potential coal import market represented by this increased coal consumption, including consumption by existing coal-fired plants, new coal-fired plants projected up to the year 1995, and plants planning to convert to coal by 1995; “(6) identify existing authorities available to the Federal Government relating to coal imports, assess the potential impact of exercising each of these authorities, and describe executive branch plans and strategies to address coal imports; “(7) identify and characterize the coal export policies of all major coal exporting nations, including the United States, Australia, Canada, Colombia, Poland, and South Africa, with specific analysis of—“(A) direct or indirect Government subsidies to coal exporters; “(B) health, safety, and environmental regulations imposed on each coal producer; and “(C) trade policies relating to coal exports; “(8) evaluate the excess capacity of foreign producers, potential development of new export-oriented coal mines in foreign nations, operating costs of foreign coal mines, capacity of ocean vessels to transport foreign coal, and constraints on importing coal into the United States because of port and harbor availability; “(9) identify specifically the participation of all United States corporations involved in mining and exporting coal from foreign nations; and “(10) identify the policies governing coal imports of all coal-importing industrialized nations (including the United States, Japan, and European nations) by considering such factors as import duties or tariffs, import quotas, and other governmental restrictions or trade policies impacting coal imports.”
 
 
-<a id="section-7279"></a>
-## § 7279. Availability of appropriations for Department of Energy for transportation, uniforms, security, and price support and loan guarantee programs; transfer of funds; acceptance of contributions
+<a id="section-7278a"></a>
+## § 7278a. Availability of appropriations for Department of Energy for transportation, uniforms, security, and price support and loan guarantee programs; transfer of funds; acceptance of contributions
 
 Appropriations for the Department of Energy under this title 11 See References in Text note below. in this and subsequent Energy and Water Development Appropriations Acts, on and after October 2, 1992, shall be available for hire of passenger motor vehicles; hire, maintenance and operation of aircraft; purchase, repair and cleaning of uniforms; and reimbursement to the General Services Administration for security guard services. From these appropriations, transfers of sums may on and after October 2, 1992, be made to other agencies of the United States Government for the performance of work for which this appropriation is made. None of the funds made available to the Department of Energy under this Act or subsequent Energy and Water Development Appropriations Acts shall be used to implement or finance authorized price support or loan guarantee programs unless specific provision is made for such programs in an appropriation Act. The Secretary is authorized on and after October 2, 1992, to accept lands, buildings, equipment, and other contributions from public and private sources and to prosecute projects in cooperation with other agencies, Federal, State, private, or foreign.
 
@@ -3076,6 +3088,20 @@ This title, referred to in text, is title III of Pub. L. 102–377, Oct. 2, 1992
 
 #### Codification
 Section was enacted as part of the Energy and Water Development Appropriations Act, 1993, and not as part of the Department of Energy Organization Act which comprises this chapter.
+
+
+<a id="section-7279"></a>
+## § 7279. Availability of funds for energy and water development for multiyear contracts, grants, or cooperative agreements of $1,000,000 or less
+
+Notwithstanding section 301(c) of this Act, none of the funds made available under the heading “Department of Energy—Energy Programs—Science” in this or any subsequent Energy and Water Development and Related Agencies appropriations Act for any fiscal year may be used for a multiyear contract, grant, cooperative agreement, or Other Transaction Agreement of $1,000,000 or less unless the contract, grant, cooperative agreement, or Other Transaction Agreement is funded for the full period of performance as anticipated at the time of award.
+
+### Statutory Notes
+
+#### References in Text
+Section 301(c) of this Act, referred to in text, means section 301(c) of Pub. L. 114–113, div. D, title III, Dec. 18, 2015, 129 Stat. 2416, which is not classified to the Code.
+
+#### Codification
+Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2016, and also as part of the Consolidated Appropriations Act, 2016, and not as part of the Department of Energy Organization Act which comprises this chapter.
 
 
 <a id="section-7279a"></a>
@@ -3235,7 +3261,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 <a id="section-7299"></a>
 ## § 7299. Presidential authority
 
-Except as provided in subchapter IV of this chapter, nothing contained in this chapter shall be construed to limit, curtail, abolish, or terminate any function of, or authority available to, the President which he had immediately before October 1, 1977; or to limit, curtail, abolish, or terminate his authority to delegate, redelegate, or terminate any delegation of functions.
+Except as provided in subchapter IV, nothing contained in this chapter shall be construed to limit, curtail, abolish, or terminate any function of, or authority available to, the President which he had immediately before October 1, 1977; or to limit, curtail, abolish, or terminate his authority to delegate, redelegate, or terminate any delegation of functions.
 
 ### Statutory Notes
 
@@ -4006,7 +4032,7 @@ Section, Pub. L. 101–510, div. C, title XXXI, § 3175, as added Pub. L. 110–
 ## § 7381r. National Laboratories Centers of Excellence in Science, Technology, Engineering, and Mathematics education
 **(a) Definition of high-need public secondary school** In this section, the term “high-need public secondary school” means a secondary school—
 
-(1) with a high concentration of low-income individuals (as defined in [section 6537 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6537&num=0&edition=prelim)); or
+(1) in which 40 percent or more of the students attending the school are children from low-income families; or
 
 (2) designated with a school locale code of 41, 42, or 43, as determined by the Secretary of Education.
 
@@ -4049,6 +4075,14 @@ Section, Pub. L. 101–510, div. C, title XXXI, § 3175, as added Pub. L. 110–
 (2) disseminate information obtained from those measurements.
 
 **(j) No effect on similar programs** Nothing in this section displaces or otherwise affects any similar program being carried out as of August 9, 2007, at any National Laboratory under any other provision of law.
+
+### Statutory Notes
+
+#### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–95 substituted “in which 40 percent or more of the students attending the school are children from low-income families” for “with a high concentration of low-income individuals (as defined in [section 6537 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6537&num=0&edition=prelim))”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 
 <a id="section-7382"></a>
@@ -4114,7 +4148,12 @@ As used in this subchapter—
 ### Statutory Notes
 
 #### Amendments
+2015—Par. (1) to (3). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
 2002—Pars. (1) to (3). Pub. L. 107–110 substituted “7801” for “8801”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
@@ -4364,14 +4403,11 @@ Section 7383d, Pub. L. 106–65, div. C, title XXXI, § 3150, Oct. 5, 1999, 113 
 
 
 <a id="section-7383f-to-7383h-1"></a>
-## § 7383f to 7383h–1. Annual report by the President on espionage by the People’s Republic of China
-**(a) Annual report required** The President shall transmit to Congress an annual report on the steps being taken by the Department of Energy, the Department of Defense, the Federal Bureau of Investigation, the Central Intelligence Agency, and all other relevant executive departments and agencies to respond to espionage and other intelligence activities by the People’s Republic of China, particularly with respect to—
+## § 7383f to 7383h–1. Repealed. Pub. L. 114–113, div. M, title VII, § 701(e), Dec. 18, 2015, 129 Stat. 2930
 
-(1) the theft of sophisticated United States nuclear weapons design information; and
+### Statutory Notes
 
-(2) the targeting by the People’s Republic of China of United States nuclear weapons codes and other national security information of strategic concern.
-
-**(b) Initial report** The first report under this section shall be transmitted not later than March 1, 2000.
+Section, Pub. L. 106–65, div. C, title XXXI, § 3151, Oct. 5, 1999, 113 Stat. 939, related to annual report by the President on espionage by the People’s Republic of China.
 
 
 <a id="section-7383i"></a>
@@ -4382,7 +4418,7 @@ Section 7383d, Pub. L. 106–65, div. C, title XXXI, § 3150, Oct. 5, 1999, 113 
 #### Codification
 Section 7383f, Pub. L. 106–65, div. C, title XXXI, § 3152, Oct. 5, 1999, 113 Stat. 940, which related to the submission of annual reports on counterintelligence and security practices at national laboratories, was renumbered section 4507 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, § 3141(h)(8)(A)–(C), Nov. 24, 2003, 117 Stat. 1773, and was classified to [section 2658 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2658&num=0&edition=prelim), War and National Defense, prior to repeal by Pub. L. 113–66, div. C, title XXXI, § 3132(a)(1), Dec. 26, 2013, 127 Stat. 1068.
 
-Section 7383g, Pub. L. 106–65, div. C, title XXXI, § 3153, Oct. 5, 1999, 113 Stat. 940, which related to the submission of annual reports on security vulnerabilities of national laboratory computers, was renumbered section 4508 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, § 3141(h)(9)(A)–(C), Nov. 24, 2003, 117 Stat. 1774, and is classified to [section 2659 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2659&num=0&edition=prelim), War and National Defense.
+Section 7383g, Pub. L. 106–65, div. C, title XXXI, § 3153, Oct. 5, 1999, 113 Stat. 940, which related to the submission of annual reports on security vulnerabilities of national laboratory computers, was renumbered section 4508 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, § 3141(h)(9)(A)–(C), Nov. 24, 2003, 117 Stat. 1774, and was classified to [section 2659 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2659&num=0&edition=prelim), War and National Defense, prior to repeal by Pub. L. 114–113, div. M, title VII, § 701(f), Dec. 18, 2015, 129 Stat. 2930.
 
 Section 7383h, Pub. L. 106–65, div. C, title XXXI, § 3154, Oct. 5, 1999, 113 Stat. 941; Pub. L. 106–398, § 1 [div. C, title XXXI, § 3135], Oct. 30, 2000, 114 Stat. 1654, 1654A–456, which related to a counterintelligence polygraph program for defense-related activities of the Department of Energy, was renumbered section 4504A of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, § 3141(h)(5)(B)(i)–(iii), Nov. 24, 2003, 117 Stat. 1773, and is classified to [section 2655 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2655&num=0&edition=prelim), War and National Defense.
 
@@ -4645,6 +4681,9 @@ Sec. 6. Administration and Judicial Review. (a) This Executive Order shall be ca
 (b) This Executive Order does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers or employees, or any other person.
 
 William J. Clinton.
+
+#### Extension of Term of Advisory Board on Radiation and Worker Health
+Term of Advisory Board on Radiation and Worker Health extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-7384f"></a>
@@ -5789,7 +5828,7 @@ The Radiation Exposure Compensation Act, referred to in subsec. (b), is Pub. L. 
 
 
 <a id="section-7386-to-7386k"></a>
-## § 7386 to 7386k. Advisory Board on toxic substances and worker health
+## § 7386 to 7386k. Advisory Board on Toxic Substances and Worker Health
 **(a) Establishment**
 
 (1) Not later than 120 days after December 19, 2014, the President shall establish and appoint an Advisory Board on Toxic Substances and Worker Health (in this section referred to as the “Board”).
@@ -5850,3 +5889,46 @@ The Radiation Exposure Compensation Act, referred to in subsec. (b), is Pub. L. 
 
 #### References in Text
 Section 151 of title I of division B of Appendix D of the Consolidated Appropriations Act, 2001, referred to in subsec. (h)(2)(A), (B), is Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 151], Dec. 21, 2000, 114 Stat. 2763, 2763A–251, which is not classified to the Code.
+
+#### Ex. Ord. No. 13699. Establishing the Advisory Board on Toxic Substances and Worker Health
+Ex. Ord. No. 13699, June 26, 2015, 80 F.R. 37529, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291), and to allocate the responsibilities imposed by that Act, it is hereby ordered as follows:
+
+Section 1. Establishment. There is established within the Department of Labor the Advisory Board on Toxic Substances and Worker Health (Advisory Board).
+
+Sec. 2. Membership. (a) The Advisory Board shall reflect a proper balance of perspectives from the scientific, medical, and claimant communities.
+
+(b) The Advisory Board shall consist of no more than 15 members to be appointed by the Secretary of Labor in consultation with organizations with expertise on worker health issues. Members shall serve without compensation as Special Government Employees, but shall be allowed travel and meal expenses, including per diem in lieu of subsistence, to the extent permitted by law for persons serving intermittently in the Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7).
+
+(c) The Secretary of Labor shall designate a Chair of the Board from among its members.
+
+Sec. 3. Functions. (a) The Advisory Board shall advise the Secretary of Labor with respect to:
+
+(i) the site exposure matrices of the Department of Labor;
+
+(ii) medical guidance for claims examiners for claims under subtitle E of the Energy Employees Occupational Illness Compensation Program Act of 2000 (EEOICPA) with respect to the weighing of the medical evidence of claimants;
+
+(iii) evidentiary requirements for claims under EEOICPA subtitle B related to lung disease; and
+
+(iv) the work of industrial hygienists, staff physicians, and consulting physicians of the Department of Labor and reports of such hygienists and physicians to ensure quality, objectivity, and consistency.
+
+(b) To the extent necessary, the Advisory Board also shall coordinate exchanges of data and findings with the Advisory Board on Radiation and Worker Health, which was authorized by EEOICPA and established by Executive Order 13179 of December 7, 2000.
+
+Sec. 4. Administration. (a) The Secretary of Labor shall provide the Advisory Board with funding and administrative support, including the appointment of staff and, as the Secretary determines appropriate, authorization for the detail of Federal employees from within the Department of Labor and employment of outside contractors and specialists, to the extent permitted by law and within existing appropriations. The Secretary also shall perform the administrative functions of the President under the Federal Advisory Committee Act, as amended (5 U.S.C. App. 2), with respect to the Advisory Board.
+
+(b) The Secretary of Labor shall designate a senior officer of the Department of Labor to serve as the Director of the staff of the Advisory Board.
+
+Sec. 5. Termination. The Advisory Board shall terminate on the date that is 5 years after the enactment of the National Defense Authorization Act for Fiscal Year 2015.
+
+Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.

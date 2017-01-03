@@ -37,8 +37,6 @@ Section 4085d, Pub. L. 98–377, title IX, § 910, as added Pub. L. 102–103, t
 
 Section 4086, Pub. L. 98–377, title IX, § 911, formerly § 907, as added Pub. L. 100–297, title II, § 2302, Apr. 28, 1988, 102 Stat. 324; amended Pub. L. 102–73, title VIII, § 802(c), July 25, 1991, 105 Stat. 361; renumbered § 911, Pub. L. 102–103, title III, § 305(1), Aug. 17, 1991, 105 Stat. 502, defined terms used in this subchapter.
 
-For similar provisions, see section 6891 et seq. of this title.
-
 #### Short Title
 Section 901 of title IX of Pub. L. 98–377, as added by Pub. L. 100–297, title II, § 2302, Apr. 28, 1988, 102 Stat. 320, provided that title IX of Pub. L. 98–377 [enacting this subchapter] could be cited as the “Star Schools Program Assistance Act”, prior to repeal by Pub. L. 103–382, title III, § 364, Oct. 20, 1994, 108 Stat. 3975.
 
@@ -84,24 +82,28 @@ For the purpose of this chapter—
 
 (7) The term “local educational agency” has the same meaning given that term under [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
 
-(8) The term “secondary school” has the same meaning given that term under section 198(a)(7) 11 See References in Text note below. of the Elementary and Secondary Education Act of 1965.
+(8) The term “secondary school” has the same meaning given that term under [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
 
 (9) The term “Secretary” means the Secretary of Education.
 
 (10) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Northern Mariana Islands.
 
-(11) The term “State agency for higher education” means the State board of higher education or other agency or officer primarily responsible for the State supervision of higher education, or, if there is no such officer or agency, an officer or agency designated for the purpose of this chapter 1 by the Governor or by State law.
+(11) The term “State agency for higher education” means the State board of higher education or other agency or officer primarily responsible for the State supervision of higher education, or, if there is no such officer or agency, an officer or agency designated for the purpose of this chapter 11 See References in Text note below. by the Governor or by State law.
 
 (12) The term “State educational agency” has the meaning given that term under [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
 
 ### Statutory Notes
 
 #### References in Text
-Section 198 of the Elementary and Secondary Education Act of 1965, referred to in par. (8), is section 198 of Pub. L. 89–10, title I, as added by Pub. L. 95–561, title I, § 101(a), Nov. 1, 1978, 92 Stat. 2198, which was classified to [section 2854 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2854&num=0&edition=prelim) prior to the general amendment of Pub. L. 89–10 by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 140. For definition of “secondary school”, see [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
-
 This chapter, referred to in par. (11), was in the original “this title” and has been translated as if the reference was to “this Act” to reflect the probable intent of Congress inasmuch as this section is not part of a title of Pub. L. 98–377.
 
 #### Amendments
+2015—Pars. (3), (7). Pub. L. 114–95, § 9215(dd)(1)(A), (B), made technical amendment to reference in original act which appears in text as reference to [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
+
+Par. (8). Pub. L. 114–95, § 9215(dd)(1)(C), substituted “[section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)” for “section 198(a)(7) of the Elementary and Secondary Education Act of 1965”.
+
+Par. (12). Pub. L. 114–95, § 9215(dd)(1)(D), made technical amendment to reference in original act which appears in text as reference to [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
+
 2006—Par. (1). Pub. L. 109–270 substituted “area career and technical education school” for “area vocational education school” and “[section 2302(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2302/3&num=0&edition=prelim).” for “[section 2471(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2471/3&num=0&edition=prelim)..”
 
 2002—Par. (3). Pub. L. 107–110, § 1076(l)(1)(A), substituted “7801 of this title” for “198(a)(7) of the Elementary and Secondary Education Act of 1965”.
@@ -113,6 +115,9 @@ Par. (12). Pub. L. 107–110, § 1076(l)(1)(C), substituted “7801 of this titl
 1998—Par. (6). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
 1985—Par. (1). Pub. L. 99–159 substituted reference to [section 2471(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2471/3&num=0&edition=prelim) for reference to section 195(2) of the Vocational Education Act of 1965.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
@@ -205,7 +210,7 @@ A prior section 3913, Pub. L. 98–377, title I, § 113, Aug., 11, 1984, 98 Stat
 
 (3) for research on methods of instruction and educational programs in mathematics, science, engineering, and critical foreign languages.
 
-**(b) Scope of studies** Studies conducted under subsection (a)(3) of this section may include—
+**(b) Scope of studies** Studies conducted under subsection (a)(3) may include—
 
 (1) teaching and learning research and its application to local and private sector instructional materials development and to improved teacher training programs;
 
@@ -217,7 +222,7 @@ A prior section 3913, Pub. L. 98–377, title I, § 113, Aug., 11, 1984, 98 Stat
 
 **(c) Matching grant requirements** Funds awarded for such competitive grants shall be expended through a system requiring matching of the grant. The minimum amount required as a match shall be equal to a percentage of the grant that is determined by the Foundation. Funds made available for matching purposes may include in-kind services or other resources.
 
-**(d) Materials or methods research application requirements** In making grant applications for materials or methods research for the purposes described in subsections (a)(1) and (a)(3) of this section, the Foundation shall assure the involvement of appropriate State or local education agencies in the case of applications submitted by other entities described in subsection (a) of this section, or that one or more of such other entities will be consulted in the case of applications submitted by State or local education agencies.
+**(d) Materials or methods research application requirements** In making grant applications for materials or methods research for the purposes described in subsections (a)(1) and (a)(3), the Foundation shall assure the involvement of appropriate State or local education agencies in the case of applications submitted by other entities described in subsection (a), or that one or more of such other entities will be consulted in the case of applications submitted by State or local education agencies.
 
 ### Statutory Notes
 
@@ -647,7 +652,7 @@ Section 209, referred to in subsec. (a)(1), is section 209 of Pub. L. 98–377, 
 
 (2) assurances that not more than 5 percent of the amount received by the applicant in any fiscal year shall be expended on administrative expenses;
 
-(3) if the funds are to be used for improvement of elementary and secondary resources as described in subsection (b)(1) of this section—
+(3) if the funds are to be used for improvement of elementary and secondary resources as described in subsection (b)(1)—
 
   (A) an estimate of the amount to be spent on equipment, facilities improvement, library resources, and classroom instructional material;
 
@@ -655,7 +660,7 @@ Section 209, referred to in subsec. (a)(1), is section 209 of Pub. L. 98–377, 
 
   (C) assurances that—
 
-    (i) except as provided in subsection (c) of this section, a minimum of 25 percent of the funds for each project will be supplied by business concerns within the community;
+    (i) except as provided in subsection (c), a minimum of 25 percent of the funds for each project will be supplied by business concerns within the community;
 
     (ii) no stipend shall be paid directly to employees of a profitmaking business concern;
 
@@ -663,15 +668,15 @@ Section 209, referred to in subsec. (a)(1), is section 209 of Pub. L. 98–377, 
 
     (iv) consideration will be given to programs and activities designed to meet the needs of educationally disadvantaged and other traditionally underserved populations; and
 
-(4) if the funds are to be used for advanced placement programs as described in subsection (b)(2) of this section, a commitment as to the percentage of funds received from the State on a per student basis that shall be used by the local educational agency to defray costs of the advanced placement program.
+(4) if the funds are to be used for advanced placement programs as described in subsection (b)(2), a commitment as to the percentage of funds received from the State on a per student basis that shall be used by the local educational agency to defray costs of the advanced placement program.
 
-**(c) Waiver** The State may waive or reduce the amount of matching funds required under subsection (b)(3)(C)(i) of this section if the State determines that—
+**(c) Waiver** The State may waive or reduce the amount of matching funds required under subsection (b)(3)(C)(i) if the State determines that—
 
 (1) substantial need exists in the area served by the applicant for a grant under this part; and
 
 (2) the required amount of matching funds cannot be made available.
 
-**(d) Joint applications** A regional consortium of applicants in 2 or more local school districts may file a joint application under subsection (a) of this section.
+**(d) Joint applications** A regional consortium of applicants in 2 or more local school districts may file a joint application under subsection (a).
 
 ### Statutory Notes
 
@@ -721,13 +726,13 @@ This part, referred to in text, was in the original “this chapter” and was t
 
 (3) **Non-Federal share** — The non-Federal share of payments under this part may be in cash or in kind, fairly evaluated, including plant, equipment, or services.
 
-**(b) Payments to States** Except as provided in subsection (c) of this section, each State shall receive under this part the greater of—
+**(b) Payments to States** Except as provided in subsection (c), each State shall receive under this part the greater of—
 
 (1) an amount equal to its share of funds appropriated under chapter 1 of the Education Consolidation and Improvement Act; or
 
 (2) $225,000.
 
-**(c) Reduction for insufficient funding** If sums appropriated to carry out this part are not sufficient to permit the Secretary to pay in full the grants which States may receive under subsection (b) of this section, the amount of such grants shall be ratably reduced.
+**(c) Reduction for insufficient funding** If sums appropriated to carry out this part are not sufficient to permit the Secretary to pay in full the grants which States may receive under subsection (b), the amount of such grants shall be ratably reduced.
 
 ### Statutory Notes
 
@@ -909,7 +914,7 @@ Subsec. (c). Pub. L. 101–637, § 5(d), struck out subsec. (c) which read as fo
 
 (1) Applications for financial assistance shall be submitted by a local educational agency to the Governor, or the Governor’s designee, who shall establish a priority list based on the criteria of [section 4013(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section4013/b/2&num=0&edition=prelim).
 
-(2) Pursuant to [section 4013 of this title](./chapter-052-education-for-economic-security.md#section-4013), the Governor shall submit applications, together with the Governor’s report and priority list, to the Administrator who shall review and rank such applications pursuant to subsection (c)(2) of this section and propose financing pursuant to the criteria of [section 4013(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section4013/b/4&num=0&edition=prelim). The Administrator shall approve or disapprove applications for financial assistance no later than April 30 of each year.
+(2) Pursuant to [section 4013 of this title](./chapter-052-education-for-economic-security.md#section-4013), the Governor shall submit applications, together with the Governor’s report and priority list, to the Administrator who shall review and rank such applications pursuant to subsection (c)(2) and propose financing pursuant to the criteria of [section 4013(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section4013/b/4&num=0&edition=prelim). The Administrator shall approve or disapprove applications for financial assistance no later than April 30 of each year.
 
 **(c) Review of application**
 
@@ -987,7 +992,7 @@ Subsec. (c). Pub. L. 101–637, § 5(d), struck out subsec. (c) which read as fo
 
   (C) the application contains assurances that the local educational agency will furnish such information as is necessary for the Administrator to make the report required by [section 4016 of this title](./chapter-052-education-for-economic-security.md#section-4016).
 
-(3) No financial assistance may be provided by the Administrator under this section for projects described in subsection (a)(2) of this section on which abatement action was completed prior to January 1, 1984.
+(3) No financial assistance may be provided by the Administrator under this section for projects described in subsection (a)(2) on which abatement action was completed prior to January 1, 1984.
 
 (4) Except as provided in [section 4021(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section4021/b/1&num=0&edition=prelim), in approving applications the Administrator shall provide assistance to the local educational agencies having the highest priority among applications being considered in order of ranking until the appropriated funds are expended.
 
@@ -1228,7 +1233,7 @@ For purposes of this subchapter:
 
 (5) The term “nonprofit elementary or secondary school” means—
 
-  (A) any elementary or secondary school as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801) owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual; and
+  (A) any elementary school or secondary school as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801) owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual; and
 
   (B) any school of any agency of the United States.
 
@@ -1251,6 +1256,10 @@ For purposes of this subchapter:
 ### Statutory Notes
 
 #### Amendments
+2015—Par. (4)(A). Pub. L. 114–95, § 9215(dd)(2)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “any local educational agency as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801); and”.
+
+Par. (5)(A). Pub. L. 114–95, § 9215(dd)(2)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “any elementary or secondary school as defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801) owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual; and”.
+
 2002—Par. (4)(A). Pub. L. 107–110, § 1076(l)(2)(A), which directed amendment of subpar. (A) by substituting in the original “9101” for “198(a)(10)”, was executed by substituting “[section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)” for “[section 8801 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section8801&num=0&edition=prelim)”, to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, § 394(c)(1), which had substituted “14101” for “198(a)(10)” in the original. See 1994 Amendment note below.
 
 Par. (5)(A). Pub. L. 107–110, § 1076(l)(2)(B), which directed amendment of subpar. (A) by substituting in the original “9101” for “198(a)(7)”, was executed by substituting “[section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801)” for “[section 8801 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section8801&num=0&edition=prelim)”, to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, § 394(c)(2), which had substituted “14101” for “198(a)(7)” in the original. See 1994 Amendment note below.
@@ -1276,6 +1285,9 @@ Pars. (6), (7). Pub. L. 101–637, § 14(c)(6)(B), (C), substituted “The” fo
 Par. (8). Pub. L. 101–637, § 14(c)(6)(B), substituted “The” for “the” at beginning.
 
 Par. (9). Pub. L. 101–637, § 10(2), added par. (9).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
@@ -1455,8 +1467,6 @@ Section 4060, Pub. L. 98–377, title VII, § 710, Aug. 11, 1984, 98 Stat. 1301,
 Section 4061, Pub. L. 98–377, title VII, § 711, Aug. 11, 1984, 98 Stat. 1301; Pub. L. 98–558, title VII, § 702, Oct. 30, 1984, 98 Stat. 2900, related to payments.
 
 Section 4062, Pub. L. 98–377, title VII, § 712, Aug. 11, 1984, 98 Stat. 1302, related to withholding.
-
-For similar provisions, see section 7201 et seq. of this title.
 
 #### Effective Date of Repeal
 Repeal effective July 1, 1988, see section 6303 of Pub. L. 100–297, set out as an Effective Date of 1988 Amendment note under [section 1071 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1071).

@@ -72,6 +72,9 @@ Increases in compensation for Senate officers and employees under authority of F
 #### References in Text
 This chapter, referred to in subsec. (b), was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, [section 5504 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5504), and [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
 
+#### Effective Date
+Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under [section 288 of this title](./chapter-9d-office-of-senate-legal-counsel.md#section-288).
+
 
 <a id="section-288b"></a>
 ## § 288b. Requirements for authorizing representation activity
@@ -89,6 +92,11 @@ This chapter, referred to in subsec. (b), was in the original “this title”, 
 
 **(e) Resolution recommendations** The Office shall make no recommendation with respect to the consideration of a resolution under this section.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under [section 288 of this title](./chapter-9d-office-of-senate-legal-counsel.md#section-288).
+
 
 <a id="section-288c"></a>
 ## § 288c. Defending the Senate, committee, subcommittee, member, officer, or employee of Senate
@@ -99,6 +107,11 @@ This chapter, referred to in subsec. (b), was in the original “this title”, 
 (2) defend the Senate or a committee, subcommittee, Member, officer, or employee of the Senate in any proceeding with respect to any subpena or order directed to the Senate or such committee, subcommittee, Member, officer, or employee in its or his official or representative capacity.
 
 **(b)** Representation of a Member, officer, or employee under subsection (a) shall be undertaken by the Counsel only upon the consent of such Member, officer, or employee.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under [section 288 of this title](./chapter-9d-office-of-senate-legal-counsel.md#section-288).
 
 
 <a id="section-288d"></a>
@@ -145,6 +158,9 @@ Subsec. (f) of this section amended title 28 by adding section 1364 and by addin
 #### Amendments
 1986—Subsec. (a). Pub. L. 99–336 substituted “[section 1365 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1365&num=0&edition=prelim)” for “[section 1364 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim)”.
 
+#### Effective Date
+Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under [section 288 of this title](./chapter-9d-office-of-senate-legal-counsel.md#section-288).
+
 
 <a id="section-288e"></a>
 ## § 288e. Intervention or appearance
@@ -154,11 +170,21 @@ Subsec. (f) of this section amended title 28 by adding section 1364 and by addin
 
 **(c) Powers and responsibilities of Congress** The Counsel shall limit any intervention or appearance as amicus curiae in an action or proceeding to issues relating to the powers and responsibilities of Congress.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under [section 288 of this title](./chapter-9d-office-of-senate-legal-counsel.md#section-288).
+
 
 <a id="section-288f"></a>
 ## § 288f. Immunity proceedings
 
 When directed to do so pursuant to [section 288b(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section288b/d&num=0&edition=prelim), the Counsel shall serve as the duly authorized representative of the Senate or a committee or subcommittee of the Senate in requesting a United States district court to issue an order granting immunity pursuant to [section 6005 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section6005&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under [section 288 of this title](./chapter-9d-office-of-senate-legal-counsel.md#section-288).
 
 
 <a id="section-288g"></a>
@@ -189,6 +215,9 @@ This chapter, referred to in subsecs. (a)(3) and (c), was in the original “thi
 #### Amendments
 2004—Subsec. (a)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
+#### Effective Date
+Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under [section 288 of this title](./chapter-9d-office-of-senate-legal-counsel.md#section-288).
+
 
 <a id="section-288h"></a>
 ## § 288h. Defense of certain constitutional powers
@@ -214,6 +243,9 @@ In performing any function under this chapter, the Counsel shall defend vigorous
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, [section 5504 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5504), and [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
 
+#### Effective Date
+Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under [section 288 of this title](./chapter-9d-office-of-senate-legal-counsel.md#section-288).
+
 
 <a id="section-288i"></a>
 ## § 288i. Representation conflict or inconsistency
@@ -233,6 +265,9 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, [section 5504 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5504), and [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
+
+#### Effective Date
+Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under [section 288 of this title](./chapter-9d-office-of-senate-legal-counsel.md#section-288).
 
 
 <a id="section-288j"></a>
@@ -262,6 +297,9 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 #### References in Text
 This chapter, referred to in subsec. (b), was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, [section 5504 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5504), and [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
 
+#### Effective Date
+Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under [section 288 of this title](./chapter-9d-office-of-senate-legal-counsel.md#section-288).
+
 
 <a id="section-288k"></a>
 ## § 288k. Attorney General relieved of responsibility
@@ -285,6 +323,9 @@ This chapter, referred to in subsec. (b), was in the original “this title”, 
 #### Effective Date of 2003 Amendment
 Amendment by Pub. L. 108–7 effective as if included in the enactment of the 21st Century Department of Justice Appropriations Authorization Act, Pub. L. 107–273, see section 110(c) of Pub. L. 108–7, set out as a note under [section 5571 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5571).
 
+#### Effective Date
+Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under [section 288 of this title](./chapter-9d-office-of-senate-legal-counsel.md#section-288).
+
 
 <a id="section-288l"></a>
 ## § 288l. Procedural provisions
@@ -299,11 +340,19 @@ Amendment by Pub. L. 108–7 effective as if included in the enactment of the 21
 #### References in Text
 This chapter, referred to in subsecs. (b) and (c), was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, [section 5504 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5504), and [section 1364 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1364&num=0&edition=prelim), Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
 
+#### Effective Date
+Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under [section 288 of this title](./chapter-9d-office-of-senate-legal-counsel.md#section-288).
+
 
 <a id="section-288m"></a>
 ## § 288m. Contingent fund
 
 The expenses of the Office shall be paid from the contingent fund of the Senate in accordance with [section 6503 of this title](./chapter-065-senate-officers-and-administration.md#section-6503), and upon vouchers approved by the Counsel.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under [section 288 of this title](./chapter-9d-office-of-senate-legal-counsel.md#section-288).
 
 
 <a id="section-288n"></a>

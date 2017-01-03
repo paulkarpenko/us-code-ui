@@ -143,24 +143,11 @@ Repeal effective Dec. 1, 1994, except as otherwise provided, see section 1691 of
 
 
 <a id="section-3543"></a>
-## § 3543. Aides: detail; number authorized
-**(a)** Each major general of the Army is entitled to three aides selected by him from commissioned officers of the Army in any grade below major.
-
-**(b)** Each brigadier general of the Army is entitled to two aides selected by him from commissioned officers of the Army in any grade below captain.
+## § 3543. Repealed. Pub. L. 114–328, div. A, title V, § 502(s)(1), Dec. 23, 2016, 130 Stat. 2104]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised section | Source (U.S. Code) | Source (Statutes at Large) |
-| 3543(a) | 10:498 (1st 20 words). | R.S. 1098. |
-| 3543(b) | 10:498 (less 1st 20 words). |  |
-
-In subsection (a), the words “commissioned officers * * * in any grade below major” are substituted for the words “captains or lieutenants”.
-
-In subsections (a) and (b), the words “is entitled to” are substituted for the words “shall have”.
-
-In subsection (b), the words “commissioned officers in any grade below captain” are substituted for the word “lieutenants”.
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 202, related to number of authorized aides.
 
 
 <a id="section-3544-3545"></a>

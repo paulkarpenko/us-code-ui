@@ -16,7 +16,7 @@ Recognizing the ever increasing societal pressures being placed upon America’s
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100701 | [16 U.S.C. 5911](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5911&num=0&edition=prelim) | Pub. L. 105–391, title I, § 101, Nov. 13, 1998, 112 Stat. 3498. |
+| 100701 | [16 U.S.C. 5911](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5911&num=0&edition=prelim). | Pub. L. 105–391, title I, § 101, Nov. 13, 1998, 112 Stat. 3498. |
 
 
 <a id="section-100702"></a>
@@ -29,7 +29,7 @@ The Secretary shall ensure that management of System units is enhanced by the av
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100702 | [16 U.S.C. 5932](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5932&num=0&edition=prelim) | Pub. L. 105–391, title II, § 202, Nov. 13, 1998, 112 Stat. 3499. |
+| 100702 | [16 U.S.C. 5932](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5932&num=0&edition=prelim). | Pub. L. 105–391, title II, § 202, Nov. 13, 1998, 112 Stat. 3499. |
 
 
 <a id="section-100703"></a>
@@ -42,7 +42,7 @@ The Secretary shall enter into cooperative agreements with colleges and universi
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100703 | [16 U.S.C. 5933(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5933/a&num=0&edition=prelim) | Pub. L. 105–391, title II, § 203(a), Nov. 13, 1998, 112 Stat. 3500. |
+| 100703 | [16 U.S.C. 5933(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5933/a&num=0&edition=prelim). | Pub. L. 105–391, title II, § 203(a), Nov. 13, 1998, 112 Stat. 3500. |
 
 
 <a id="section-100704"></a>
@@ -55,7 +55,7 @@ The Secretary shall undertake a program of inventory and monitoring of System re
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100704 | [16 U.S.C. 5934](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5934&num=0&edition=prelim) | Pub. L. 105–391, title II, § 204, Nov. 13, 1998, 112 Stat. 3500. |
+| 100704 | [16 U.S.C. 5934](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5934&num=0&edition=prelim). | Pub. L. 105–391, title II, § 204, Nov. 13, 1998, 112 Stat. 3500. |
 
 
 <a id="section-100705"></a>
@@ -77,7 +77,7 @@ The Secretary shall undertake a program of inventory and monitoring of System re
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100705 | [16 U.S.C. 5935](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5935&num=0&edition=prelim) | Pub. L. 105–391, title II, § 205, Nov. 13, 1998, 112 Stat. 3500. |
+| 100705 | [16 U.S.C. 5935](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5935&num=0&edition=prelim). | Pub. L. 105–391, title II, § 205, Nov. 13, 1998, 112 Stat. 3500. |
 
 
 <a id="section-100706"></a>
@@ -90,7 +90,7 @@ The Secretary shall take such measures as are necessary to ensure the full and p
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100706 | [16 U.S.C. 5936](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5936&num=0&edition=prelim) | Pub. L. 105–391, title II, § 206, Nov. 13, 1998, 112 Stat. 3500. |
+| 100706 | [16 U.S.C. 5936](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5936&num=0&edition=prelim). | Pub. L. 105–391, title II, § 206, Nov. 13, 1998, 112 Stat. 3500. |
 
 
 <a id="section-100707"></a>
@@ -107,7 +107,7 @@ Information concerning the nature and specific location of a System resource tha
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100707 | [16 U.S.C. 5937](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5937&num=0&edition=prelim) | Pub. L. 105–391, title II, § 207, Nov. 13, 1998, 112 Stat. 3501. |
+| 100707 | [16 U.S.C. 5937](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5937&num=0&edition=prelim). | Pub. L. 105–391, title II, § 207, Nov. 13, 1998, 112 Stat. 3501. |
 
 
 <a id="section-100721"></a>
@@ -148,7 +148,7 @@ In this subchapter:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100721 | [16 U.S.C. 19jj](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section19jj&num=0&edition=prelim) | Pub. L. 101–337, § 1, July 27, 1990, 104 Stat. 379; Pub. L. 104–333, div. I, title VIII, § 814(h)(1), (2), Nov. 12, 1996, 110 Stat. 4199. |
+| 100721 | [16 U.S.C. 19jj](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section19jj&num=0&edition=prelim). | Pub. L. 101–337, § 1, July 27, 1990, 104 Stat. 379; Pub. L. 104–333, div. I, title VIII, § 814(h)(1), (2), Nov. 12, 1996, 110 Stat. 4199. |
 
 In this section, the text of [16 U.S.C. 19jj(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section19jj/a&num=0&edition=prelim) is omitted as unnecessary. The text of [16 U.S.C. 19jj(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section19jj/e&num=0&edition=prelim) is omitted because the term “regimen” is not used in the revised title. The text of [16 U.S.C. 19jj(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section19jj/g&num=0&edition=prelim) is omitted because a marine or aquatic park system resource is a kind of park system resource.
 
@@ -174,7 +174,7 @@ In this section, the text of [16 U.S.C. 19jj(a)](https://uscode.house.gov/view.x
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100722 | [16 U.S.C. 19jj–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section19jj–1&num=0&edition=prelim) | Pub. L. 101–337, § 2, July 27, 1990, 104 Stat. 379; Pub. L. 104–333, div. I, title VIII, § 814(h)(3), Nov. 12, 1996, 110 Stat. 4199; Pub. L. 106–176, title I, § 120(c), Mar. 10, 2000, 114 Stat. 29. |
+| 100722 | [16 U.S.C. 19jj–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section19jj–1&num=0&edition=prelim). | Pub. L. 101–337, § 2, July 27, 1990, 104 Stat. 379; Pub. L. 104–333, div. I, title VIII, § 814(h)(3), Nov. 12, 1996, 110 Stat. 4199; Pub. L. 106–176, title I, § 120(c), Mar. 10, 2000, 114 Stat. 29. |
 
 
 <a id="section-100723"></a>
@@ -196,7 +196,7 @@ In this section, the text of [16 U.S.C. 19jj(a)](https://uscode.house.gov/view.x
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100723 | [16 U.S.C. 19jj–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section19jj–2&num=0&edition=prelim) | Pub. L. 101–337, § 3, July 27, 1990, 104 Stat. 380. |
+| 100723 | [16 U.S.C. 19jj–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section19jj–2&num=0&edition=prelim). | Pub. L. 101–337, § 3, July 27, 1990, 104 Stat. 380. |
 
 In this section, the words “destruction, loss, or injury” are substituted for “damage” in subsection (a) and for “damages” in subsection (b) for consistency in the new chapter and to distinguish destruction, loss, or injury from damages recovered in a civil action.
 
@@ -218,7 +218,7 @@ In subsection (a), the words “response action” are substituted for “respon
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100724 | [16 U.S.C. 19jj–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section19jj–3&num=0&edition=prelim) | Pub. L. 101–337, § 4, July 27, 1990, 104 Stat. 380; Pub. L. 103–437, § 6(d)(3), Nov. 12, 1994, 108 Stat. 4583. |
+| 100724 | [16 U.S.C. 19jj–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section19jj–3&num=0&edition=prelim). | Pub. L. 101–337, § 4, July 27, 1990, 104 Stat. 380; Pub. L. 103–437, § 6(d)(3), Nov. 12, 1994, 108 Stat. 4583. |
 
 Section 4(d) of the Act of July 27, 1990 (Public Law 101–337, 104 Stat. 380), is omitted as obsolete. See section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (Public Land 104–66, [31 U.S.C. 1113](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim) note) and page 111 of House Document No. 103–7.
 
@@ -237,7 +237,7 @@ The Secretary may accept donations of money or services for expenditure or emplo
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100725 | [16 U.S.C. 19jj–4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section19jj–4&num=0&edition=prelim) | Pub. L. 101–337, § 5, July 27, 1990, 104 Stat. 381. |
+| 100725 | [16 U.S.C. 19jj–4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section19jj–4&num=0&edition=prelim). | Pub. L. 101–337, § 5, July 27, 1990, 104 Stat. 381. |
 
 
 <a id="section-100731"></a>
@@ -254,7 +254,7 @@ Congress finds and declares that—
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100731 | [16 U.S.C. 1901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1901&num=0&edition=prelim) | Pub. L. 94–429, § 1, Sept. 28, 1976, 90 Stat. 1342. |
+| 100731 | [16 U.S.C. 1901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1901&num=0&edition=prelim). | Pub. L. 94–429, § 1, Sept. 28, 1976, 90 Stat. 1342. |
 
 In paragraph (1), the words “in recent years” are omitted as obsolete.
 
@@ -271,7 +271,7 @@ To preserve for the benefit of present and future generations the pristine beaut
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100732 | [16 U.S.C. 1902](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1902&num=0&edition=prelim) | Pub. L. 94–429, § 2, Sept. 28, 1976, 90 Stat. 1342. |
+| 100732 | [16 U.S.C. 1902](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1902&num=0&edition=prelim). | Pub. L. 94–429, § 2, Sept. 28, 1976, 90 Stat. 1342. |
 
 The word “valid” is omitted for clarity because regulations apply to the exercise of mining claim rights before they are determined to be valid. The word “existing” is omitted as obsolete.
 
@@ -286,7 +286,7 @@ All mining claims under the Mining Law of 1872 (30 U.S.C. chapter 2, sections 16
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100733 | [16 U.S.C. 1907](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1907&num=0&edition=prelim) | Pub. L. 94–429, § 8, Sept. 28, 1976, 90 Stat. 1343. |
+| 100733 | [16 U.S.C. 1907](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1907&num=0&edition=prelim). | Pub. L. 94–429, § 8, Sept. 28, 1976, 90 Stat. 1343. |
 
 The section is substituted for the source provision to eliminate obsolete words. The words “in existence on September 28, 1976” are added for clarity to show that the provision applies only to System units that were part of the System on that date.
 
@@ -304,7 +304,7 @@ When the Secretary finds on the Secretary’s own motion or on being notified in
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100734 | [16 U.S.C. 1908(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1908/a&num=0&edition=prelim) | Pub. L. 94–429, § 9(a), Sept. 28, 1976, 90 Stat. 1343. |
+| 100734 | [16 U.S.C. 1908(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1908/a&num=0&edition=prelim). | Pub. L. 94–429, § 9(a), Sept. 28, 1976, 90 Stat. 1343. |
 
 
 <a id="section-100735"></a>
@@ -317,7 +317,7 @@ The holder of any patented or unpatented mining claim subject to this subchapter
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100735 | [16 U.S.C. 1910](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1910&num=0&edition=prelim) | Pub. L. 94–429, § 11, Sept. 28, 1976, 90 Stat. 1344; Pub. L. 98–620, title IV, § 402(21), 98 Stat. 3358. |
+| 100735 | [16 U.S.C. 1910](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1910&num=0&edition=prelim). | Pub. L. 94–429, § 11, Sept. 28, 1976, 90 Stat. 1344; Pub. L. 98–620, title IV, § 402(21), 98 Stat. 3358. |
 
 
 <a id="section-100736"></a>
@@ -330,7 +330,7 @@ Nothing in this subchapter shall be construed to limit the authority of the Secr
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100736 | [16 U.S.C. 1911](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1911&num=0&edition=prelim) | Pub. L. 94–429, § 12, Sept. 28, 1976, 90 Stat. 1344. |
+| 100736 | [16 U.S.C. 1911](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1911&num=0&edition=prelim). | Pub. L. 94–429, § 12, Sept. 28, 1976, 90 Stat. 1344. |
 
 
 <a id="section-100737"></a>
@@ -363,8 +363,8 @@ shall annually file with the Secretary a written statement concerning all such i
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100737(a) through (c) | [16 U.S.C. 1912(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1912/a&num=0&edition=prelim) through (c) | Pub. L. 94–429, § 13(a) through (c), Sept. 28, 1976, 90 Stat. 1344. |
-| 100737(d) | no source |  |
+| 100737(a) through (c) | [16 U.S.C. 1912(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1912/a&num=0&edition=prelim) through (c). | Pub. L. 94–429, § 13(a) through (c), Sept. 28, 1976, 90 Stat. 1344. |
+| 100737(d) | no source. |  |
 
 In subsection (a), the words “beginning on February 1, 1977” are omitted as obsolete.
 
@@ -391,10 +391,10 @@ The Mining in the Parks Act, referred to in subsec. (a)(1), (2)(A), is Pub. L. 9
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100751(a) | [16 U.S.C. 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3&num=0&edition=prelim) (1st sentence words before “and any violation”) | Aug. 25, 1916, ch. 408, § 3 (1st sentence words before “and any violation”), 39 Stat. 535. |
-| 100751(b) | [16 U.S.C. 1a–2(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/a&num=0&edition=prelim) (matter before (a)) | Pub. L. 91–383, § 3 (matter before (a)), Aug. 18, 1970, 84 Stat. 826. |
-|  | [16 U.S.C. 1a–2(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/h&num=0&edition=prelim) | Pub. L. 91–383, § 3(h), as added Pub. L. 94–458, § 1(2), Oct. 7, 1976, 90 Stat. 1939; Pub. L. 106–176, title I, § 118(2), (3), Mar. 10, 2000, 114 Stat. 28. |
-| 100751(c) | no source |  |
+| 100751(a) | [16 U.S.C. 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3&num=0&edition=prelim) (1st sentence words before “and any violation”). | Aug. 25, 1916, ch. 408, § 3 (1st sentence words before “and any violation”), 39 Stat. 535. |
+| 100751(b) | [16 U.S.C. 1a–2(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/a&num=0&edition=prelim) (matter before (a)). | Pub. L. 91–383, § 3 (matter before (a)), Aug. 18, 1970, 84 Stat. 826. |
+|  | [16 U.S.C. 1a–2(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/h&num=0&edition=prelim). | Pub. L. 91–383, § 3(h), as added Pub. L. 94–458, § 1(2), Oct. 7, 1976, 90 Stat. 1939; Pub. L. 106–176, title I, § 118(2), (3), Mar. 10, 2000, 114 Stat. 28. |
+| 100751(c) | no source. |  |
 
 In subsection (b), the words “In order to facilitate the administration of the national park system” and “and enforce” are omitted as unnecessary. The words “under subsection (a)” are added for clarity to show that a regulation under subsection (b) is a special type of regulation under subsection (a) so that a violation of a regulation under subsection (b) is subject to a criminal penalty under [18 U.S.C. 1865](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865&num=0&edition=prelim).
 
@@ -411,7 +411,7 @@ The Secretary may provide for the destruction of such animals and plant life as 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100752 | [16 U.S.C. 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3&num=0&edition=prelim) (3d sentence) | Aug. 25, 1916, ch. 408, § 3 (3d sentence), 39 Stat. 535. |
+| 100752 | [16 U.S.C. 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3&num=0&edition=prelim) (3d sentence). | Aug. 25, 1916, ch. 408, § 3 (3d sentence), 39 Stat. 535. |
 
 
 <a id="section-100753"></a>
@@ -424,7 +424,7 @@ The Secretary, on terms and conditions to be fixed by the Secretary, may sell or
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100753 | [16 U.S.C. 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3&num=0&edition=prelim) (2d sentence) | Aug. 25, 1916, ch. 408, § 3 (2d sentence), 39 Stat. 535. |
+| 100753 | [16 U.S.C. 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3&num=0&edition=prelim) (2d sentence). | Aug. 25, 1916, ch. 408, § 3 (2d sentence), 39 Stat. 535. |
 
 
 <a id="section-100754"></a>
@@ -444,7 +444,7 @@ The Secretary, on terms and conditions to be fixed by the Secretary, may sell or
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100754 | [16 U.S.C. 1a–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–3&num=0&edition=prelim) | Pub. L. 91–383, § 6, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1939; Pub. L. 103–437, § 6(a)(1), Nov. 2, 1994, 108 Stat. 4583. |
+| 100754 | [16 U.S.C. 1a–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–3&num=0&edition=prelim). | Pub. L. 91–383, § 6, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1939; Pub. L. 103–437, § 6(a)(1), Nov. 2, 1994, 108 Stat. 4583. |
 
 In this section, the words “territory (including a possession)” are substituted for “territory, or possession” the 1st time the words appear for clarity, because a possession is a category of territory, that is, one that has very little local autonomy. In subsequent instances, the word “territory” is used in an equivalent sense. The word “Commonwealth” is omitted as being included in “territory (including a possession)”.
 
@@ -466,7 +466,7 @@ In this section, the words “territory (including a possession)” are substitu
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 100755 | [16 U.S.C. 1c(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1c/b&num=0&edition=prelim) | Aug. 8, 1953, ch. 384, § 2(b), 67 Stat. 496; Pub. L. 91–383, § 2(b), Aug. 18, 1970, 84 Stat. 826. |
+| 100755 | [16 U.S.C. 1c(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1c/b&num=0&edition=prelim). | Aug. 8, 1953, ch. 384, § 2(b), 67 Stat. 496; Pub. L. 91–383, § 2(b), Aug. 18, 1970, 84 Stat. 826. |
 
 In subsection (a), the words “reference in such Act” are interpreted to mean “reference in such Acts” for clarity.
 

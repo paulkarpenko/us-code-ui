@@ -2,7 +2,7 @@
 title: 40
 chapter: '33'
 heading: 'ACQUISITION, CONSTRUCTION, AND ALTERATION'
-section_count: 16
+section_count: 17
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40&num=0&edition=prelim
 ---
@@ -346,9 +346,11 @@ William J. Clinton.
 
 (5) a statement by the Administrator of the economic and other justifications for not acquiring a building identified to the Administrator under [section 3303(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3303/c&num=0&edition=prelim) as suitable for the public building needs of the Government;
 
-(6) a statement of rents and other housing costs currently being paid by the Government for federal agencies to be housed in the building to be constructed, altered, or acquired, or the space to be leased; and
+(6) a statement of rents and other housing costs currently being paid by the Government for federal agencies to be housed in the building to be constructed, altered, or acquired, or the space to be leased;
 
-(7) with respect to any prospectus for the construction, alteration, or acquisition of any building or space to be leased, an estimate of the future energy performance of the building or space and a specific description of the use of energy efficient and renewable energy systems, including photovoltaic systems, in carrying out the project.
+(7) with respect to any prospectus for the construction, alteration, or acquisition of any building or space to be leased, an estimate of the future energy performance of the building or space and a specific description of the use of energy efficient and renewable energy systems, including photovoltaic systems, in carrying out the project; and
+
+(8) a statement of how the proposed project is consistent with the standards and criteria developed under section 11(b) of the Federal Assets Sale and Transfer Act of 2016.
 
 **(c) Increase of Estimated Maximum Cost.—** The estimated maximum cost of any project approved under this section as set forth in any prospectus may be increased by an amount equal to any percentage increase, as determined by the Administrator, in construction or alteration costs from the date the prospectus is transmitted to Congress. The increase authorized by this subsection may not exceed 10 percent of the estimated maximum cost.
 
@@ -397,7 +399,12 @@ In subsection (d), the words “at any time thereafter” are omitted as unneces
 
 In subsection (f)(2)(A), the word “first” is omitted as unnecessary.
 
+#### References in Text
+Section 11(b) of the Federal Assets Sale and Transfer Act of 2016, referred to in subsec. (b)(8), is section 11(b) of Pub. L. 114–287, which is set out in a note under [section 1303 of this title](./chapter-013-public-property.md#section-1303).
+
 #### Amendments
+2016—Subsec. (b)(8). Pub. L. 114–287 added par. (8).
+
 2007—Subsec. (b)(7). Pub. L. 110–140, § 323(a), added par. (7).
 
 Subsecs. (f) to (h). Pub. L. 110–140, § 323(b), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
@@ -563,6 +570,67 @@ The words “Notwithstanding any other provision of law” and “commonwealth�
 | 3312(f) | 40:619(e). |  |
 | 3312(g) | 40:619(f). |  |
 
+#### Ex. Ord. No. 13728. Wildland-Urban Interface Federal Risk Mitigation
+Ex. Ord. No. 13728, May 18, 2016, 81 F.R. 32223, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to improve the Nation’s resilience to wildfire, I hereby direct the following:
+
+Section 1. Policy. It is the policy of the United States to strengthen the security and resilience of the Nation against the impacts of wildfire. The annual estimates on structure loss due to wildfire have increased dramatically over the past six decades as a result of multi-year drought conditions in combination with accumulated fuel loads, growing populations residing in the wildland-urban interface, and associated increases in the exposure of built environments. As such, we must continue to ensure our Nation is resilient to wildfire in order to promote public safety, economic strength, and national security.
+
+The Federal Government must continue to take proactive steps to enhance the resilience of buildings that are owned by the Federal Government and are located on Federal land. Each executive department and agency (agency) responsible for implementing this order shall seek to enhance the resilience of its buildings when making investment decisions to ensure continued performance of essential functions and to reduce risks to its buildings’ occupants in the event of a wildfire.
+
+Sec. 2. Codes and Concurrent Requirements. (a) Commencing within 90 days of the completion of the implementing guidelines as described in section 3(b)(i) of this order, each agency shall ensure that every new Federal building above 5,000 gross square feet on Federal land within the wildland-urban interface at moderate or greater wildfire risk for which the agency has not completed design is in compliance with the 2015 edition of the International Wildland-Urban Interface Code (IWUIC) promulgated by the International Code Council (ICC), or an equivalent code, consistent with the provisions of and to the extent required by [40 U.S.C. 3312](./chapter-033-acquisition-construction-and-alteration.md#section-3312). When the ICC releases a new version of the IWUIC, a determination shall be made whether the new version is a nationally recognized code for the purposes of [40 U.S.C. 3312(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3312/b&num=0&edition=prelim), as expeditiously as practicable, but not later than 2 years after the release of the new version. If a determination is made that a new version is a nationally recognized code, agencies shall ensure that any Federal building covered by this section for which the agency has not completed design is in compliance with that new version, or an equivalent code, consistent with the provisions of and to the extent required by [40 U.S.C. 3312](./chapter-033-acquisition-construction-and-alteration.md#section-3312).
+
+(b) Commencing within 90 days of the completion of the implementing guidelines as described in section 3(b)(i) of this order, each agency responsible for the alteration of an existing Federal building above 5,000 gross square feet on Federal land within the wildland-urban interface at moderate or greater wildfire risk for which the agency has not completed design shall ensure that the alteration is effectuated in compliance with the IWUIC, or an equivalent code, consistent with the provisions of and to the extent required by [40 U.S.C. 3312](./chapter-033-acquisition-construction-and-alteration.md#section-3312). When the ICC releases a new version of the IWUIC, a determination shall be made whether the new version is a nationally recognized code for the purposes of [40 U.S.C. 3312(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3312/b&num=0&edition=prelim), as expeditiously as practicable, but not later than 2 years after the release of the new version. If a determination is made that a new version is a nationally recognized code, agencies shall ensure that any Federal building covered by this section for which the agency has not completed design is in compliance with that new version, or an equivalent code, consistent with the provisions of and to the extent required by [40 U.S.C. 3312](./chapter-033-acquisition-construction-and-alteration.md#section-3312).
+
+(c) Each agency that owns an existing Federal building above 5,000 gross square feet on Federal land within the wildland-urban interface at moderate or greater wildfire risk is strongly encouraged to ensure that such existing buildings are in compliance with the IWUIC, or an equivalent code.
+
+(d) The heads of agencies whose activities are covered by sections 2(a) and 2(b) of this order shall complete a wildfire risk assessment of their existing Federal buildings above 5,000 gross square feet within the wildland-urban interface and are strongly encouraged to consider creating and maintaining a defensible space in compliance with the IWUIC, or an equivalent code, for each of those buildings they determine to be at highest risk.
+
+(e) Each agency that leases space in a building to be constructed for the predominant use of an agency above 5,000 rentable square feet in the wildland-urban interface in an area of greater than moderate wildfire risk is strongly encouraged to ensure that the building is designed and constructed in accord with the IWUIC, or an equivalent code.
+
+(f) Each agency assisting in the financing, through Federal grants or loans, or guaranteeing the financing, through loan or mortgage insurance premiums, of a newly constructed building or of an alteration of an existing building above 5,000 gross square feet within the wildland-urban interface at moderate or greater wildfire risk shall consider updating its procedures for providing the assistance to be consistent with sections 2(a) and 2(b) of this order, to ensure appropriate consideration of wildfire-resistant design and construction.
+
+(g) To the extent permitted by law, the heads of all agencies may:
+
+(i) require higher performance levels than exist in the codes described in section 2(a) of this order;
+
+(ii) apply the requirements within section 2(a) of this order to new buildings less than 5,000 gross square feet on Federal land within the wildland-urban interface at moderate or greater wildfire risk; and
+
+(iii) apply the requirements within section 2(b) of this order to existing buildings less than 5,000 gross square feet on Federal land within the wildland-urban interface at moderate or greater wildfire risk.
+
+(h) When calculating whether a building is at moderate or greater wildfire risk, agencies should act in accordance with the methods described in the 2015 edition of the IWUIC, or any subsequent version that is determined to be a nationally recognized code for the purposes of [40 U.S.C. 3312(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3312/b&num=0&edition=prelim), or an equivalent code, or in accordance with an equivalent method.
+
+(i) Each building constructed or altered in accordance with section 2(a) or (b) of this order shall comply with the IWUIC, or an equivalent code, only to the maximum extent feasible as determined by the head of an agency.
+
+Sec. 3. Agency Responsibilities. (a) The heads of all agencies that own Federal buildings above 5,000 gross square feet on Federal land within the wildland-urban interface at moderate or greater wildfire risk shall determine the appropriate process within their respective agencies to ensure compliance with this order.
+
+(b) The Mitigation Framework Leadership Group (MitFLG) shall:
+
+(i) create implementing guidelines to advise and assist agency compliance with the code requirements within 240 days of the date of this order;
+
+(ii) provide assistance to the agencies in interpreting the implementing guidelines.
+
+(c) When determining whether buildings are located within the wildland-urban interface, agencies shall use the U.S. Department of Agriculture Forest Service’s, “The 2010 Wildland-Urban Interface of the Conterminous United States,” or an equivalent tool. The Secretary of Agriculture shall provide assistance to the agencies in determining whether buildings are located within the wildland-urban interface.
+
+(d) The heads of agencies whose activities are covered by sections 2(a) and 2(b) of this order shall submit a report once every 2 years to the Chair of the MitFLG on their progress in implementing the order, commencing 2 years from the date of this order.
+
+Sec. 4. Definition. As used in this order, “building” means a constructed asset that is enclosed with walls and a roof that provides space for agencies to perform activities or store materials as well as provides spaces for people to live or work.
+
+Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law, including the National Historic Preservation Act of 1966, and subject to the availability of appropriations.
+
+(c) This order applies only to buildings within the United States and its territories and possessions.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.
+
 
 <a id="section-3313"></a>
 ## § 3313. Use of energy efficient lighting fixtures and bulbs
@@ -606,14 +674,46 @@ The Buy American Act, referred to in subsec. (g), is title III of act Mar. 3, 19
 The date of enactment of this subsection, referred to in subsec. (h), is the date of enactment of Pub. L. 110–140, which was approved Dec. 19, 2007.
 
 #### Prior Provisions
-A prior section 3313 was renumbered [section 3314 of this title](./chapter-033-acquisition-construction-and-alteration.md#section-3314).
+A prior section 3313 was renumbered [section 3315 of this title](./chapter-033-acquisition-construction-and-alteration.md#section-3315).
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-3314"></a>
-## § 3314. Delegation
+## § 3314. Baby changing facilities in restrooms
+**(a) Additional Requirement for the Construction, Alteration, and Acquisition of Public Buildings.—** Except as provided in subsection (b) and subject to any reasonable accommodations that may be made for individuals in accordance with the Americans with Disabilities Act ([42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.) restrooms in a public building shall be equipped with baby changing facilities that the Administrator determines are physically safe, sanitary, and appropriate.
+
+**(b) Exceptions.—** The requirement under subsection (a) shall not apply—
+
+(1) to a restroom in a public building that is not available or accessible for public use;
+
+(2) to a restroom in a public building that contains clear and conspicuous signage indicating where a restroom with a baby changing table is located on the same floor of such public building;
+
+(3) if new construction would be required to install a baby changing facility in the public building and the cost of such construction is unfeasible; or
+
+(4) to a building not subject to an alteration as set forth in section 3307.
+
+**(c) Definitions.—** In this section:
+
+(1) **Baby changing facility.—** — The term “baby changing facility” means a table or other device suitable for changing the diaper of a child age 3 or under.
+
+(2) **Pubic building.—** — The term “public building” means a public building as defined in section 3301 and controlled by the Public Building Service of the General Services Administration.
+
+### Statutory Notes
+
+#### References in Text
+The Americans with Disabilities Act, referred to in subsec. (a), probably means the Americans with Disabilities Act of 1990, Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
+
+#### Prior Provisions
+A prior section 3314 was renumbered [section 3315 of this title](./chapter-033-acquisition-construction-and-alteration.md#section-3315).
+
+#### Applicability
+Pub. L. 114–235, § 2(c), Oct. 7, 2016, 130 Stat. 965, provided that: “The requirement under [section 3314(a) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3314/a&num=0&edition=prelim), United States Code, shall apply in the case of a public building constructed, altered, or acquired by the Administrator of General Services on or after the date that is 1 year after the date of the enactment of this Act [Oct. 7, 2016], beginning on that date.”
+
+
+<a id="section-3315"></a>
+## § 3315. Delegation
 **(a) When Allowed.—** The carrying out of the duties and powers of the Administrator of General Services under this chapter, in accordance with standards the Administrator prescribes—
 
 (1) shall, except for the authority contained in [section 3305(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3305/b&num=0&edition=prelim), be delegated on request to the appropriate executive agency when the estimated cost of the project does not exceed $100,000; and
@@ -633,9 +733,11 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 In subsection (a), before clause (1), the words “duties and powers” are substituted for “responsibilities and authorities” for consistency in the revised title and with other titles of the United States Code.
 
 #### Prior Provisions
-A prior section 3314 was renumbered [section 3315 of this title](./chapter-033-acquisition-construction-and-alteration.md#section-3315).
+A prior section 3315 was renumbered [section 3316 of this title](./chapter-033-acquisition-construction-and-alteration.md#section-3316).
 
 #### Amendments
+2016—Pub. L. 114–235 renumbered [section 3314 of this title](./chapter-033-acquisition-construction-and-alteration.md#section-3314) as this section.
+
 2007—Pub. L. 110–140 renumbered [section 3313 of this title](./chapter-033-acquisition-construction-and-alteration.md#section-3313) as this section.
 
 2006—Subsec. (a). Pub. L. 109–304 substituted “The” for “Except for the authority contained in [section 3305(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3305/b&num=0&edition=prelim), the” in introductory provisions and “shall, except for the authority contained in [section 3305(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3305/b&num=0&edition=prelim),” for “shall” in par. (1).
@@ -644,8 +746,8 @@ A prior section 3314 was renumbered [section 3315 of this title](./chapter-033-a
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-3315"></a>
-## § 3315. Report to Congress
+<a id="section-3316"></a>
+## § 3316. Report to Congress
 **(a) Request by Either House of Congress or Any Committee.—** Within a reasonable time after a request of either House of Congress or any committee of Congress, the Administrator of General Services shall submit a report showing the location, space, cost, and status of each public building the construction, alteration, or acquisition of which—
 
 (1) is to be under authority of this chapter; and
@@ -665,17 +767,19 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 In subsection (b), the words “United States Postal Service” are substituted for “Postmaster General” in section 11(b) of the Public Buildings Act of 1959 (Public Law 86–249, 73 Stat. 481) because of section 4(a) of the Postal Reorganization Act (Public Law 91–375, 84 Stat. 773). The words “Transportation and Infrastructure” are substituted for “Public Works and Transportation” in section 11(b) because of section 1(a)(9) of the Act of June 3, 1995 (Public Law 104–14, 2:21 note prec.).
 
 #### Prior Provisions
-A prior section 3315 was renumbered [section 3316 of this title](./chapter-033-acquisition-construction-and-alteration.md#section-3316).
+A prior section 3316 was renumbered [section 3317 of this title](./chapter-033-acquisition-construction-and-alteration.md#section-3317).
 
 #### Amendments
+2016—Pub. L. 114–235 renumbered [section 3315 of this title](./chapter-033-acquisition-construction-and-alteration.md#section-3315) as this section.
+
 2007—Pub. L. 110–140 renumbered [section 3314 of this title](./chapter-033-acquisition-construction-and-alteration.md#section-3314) as this section.
 
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-3316"></a>
-## § 3316. Certain authority not affected
+<a id="section-3317"></a>
+## § 3317. Certain authority not affected
 
 This chapter does not limit or repeal the authority conferred by law on the United States Postal Service.
 
@@ -689,6 +793,8 @@ This chapter does not limit or repeal the authority conferred by law on the Unit
 The text of 40:615(1) is omitted as obsolete.
 
 #### Amendments
+2016—Pub. L. 114–235 renumbered [section 3316 of this title](./chapter-033-acquisition-construction-and-alteration.md#section-3316) as this section.
+
 2007—Pub. L. 110–140 renumbered [section 3315 of this title](./chapter-033-acquisition-construction-and-alteration.md#section-3315) as this section.
 
 #### Effective Date of 2007 Amendment

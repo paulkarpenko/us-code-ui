@@ -889,7 +889,7 @@ The Secretary of the Interior is authorized to use earning 11 So in original. Pr
 
 **(c) Investment of tribal trust funds in public debt obligations**
 
-(1) Notwithstanding subsection (a) of this section, the Secretary of the Interior, at the request of any Indian tribe, in the case of trust funds of such tribe, or any individual Indian, in the case of trust funds of such individual, is authorized to invest such funds, or any part thereof, in guaranteed or public debt obligations of the United States or in a mutual fund, otherwise known as an open-ended diversified investment management company if—
+(1) Notwithstanding subsection (a), the Secretary of the Interior, at the request of any Indian tribe, in the case of trust funds of such tribe, or any individual Indian, in the case of trust funds of such individual, is authorized to invest such funds, or any part thereof, in guaranteed or public debt obligations of the United States or in a mutual fund, otherwise known as an open-ended diversified investment management company if—
 
   (A) the portfolio of such mutual fund consists entirely of public-debt obligations of the United States, or bonds, notes, or other obligations which are unconditionally guaranteed as to both interest and principal by the United States, or a combination thereof;
 
@@ -901,7 +901,7 @@ The Secretary of the Interior is authorized to use earning 11 So in original. Pr
 
 (2) The Secretary, as a condition to complying with a request pursuant to paragraph (1) of this subsection, is authorized to require such tribe or individual Indian, as the case may be, to enter into an agreement with the Secretary for the purpose of relieving the United States of any liability in connection with the interest, or amount thereof, payable in connection with such trust funds so invested during the period of that investment.
 
-(3) Investments pursuant to paragraph (1) of this subsection shall be deemed to be the same as cash or a bank deposit for purposes of [section 955 of this title](./chapter-014-miscellaneous.md#section-955).
+(3) Investments pursuant to paragraph (1) of this subsection shall be deemed to be the same as cash or a bank deposit for purposes of [section 955 of this title](./chapter-014-miscellaneous.md#section-955).22 See References in Text note below.
 
 **(d) Trust responsibilities of Secretary of the Interior** The Secretary’s proper discharge of the trust responsibilities of the United States shall include (but are not limited to) the following:
 
@@ -925,6 +925,8 @@ The Secretary of the Interior is authorized to use earning 11 So in original. Pr
 
 #### References in Text
 Section 12B of the Federal Reserve Act, referred to in subsec. (a), formerly classified to [section 264 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section264&num=0&edition=prelim), Banks and Banking, has been withdrawn from the Federal Reserve Act and incorporated in the Federal Deposit Insurance Act which is classified to chapter 16 (§ 1811 et seq.) of Title 12.
+
+[Section 955 of this title](./chapter-014-miscellaneous.md#section-955), referred to in subsec. (c)(3), which related to tax exemptions for equalization allotments and cash payments received in lieu thereof by members of the Agua Caliente Band, was omitted from the Code as being of special and not general application.
 
 #### Amendments
 1994—Subsec. (a). Pub. L. 103–412, § 103(b), inserted “to withdraw from the United States Treasury and” after “prescribe,” in second sentence.

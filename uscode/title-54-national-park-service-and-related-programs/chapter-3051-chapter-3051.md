@@ -36,7 +36,7 @@ In this chapter:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 305101 | [16 U.S.C. 470w–7(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–7/e&num=0&edition=prelim) | Pub. L. 89–665, title III, § 308(e), as added Pub. L. 106–355, § 2, Oct. 24, 2000, 114 Stat. 1388. |
+| 305101 | [16 U.S.C. 470w–7(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–7/e&num=0&edition=prelim). | Pub. L. 89–665, title III, § 308(e), as added Pub. L. 106–355, § 2, Oct. 24, 2000, 114 Stat. 1388. |
 
 The text of [16 U.S.C. 470w–7(e)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–7/e/5&num=0&edition=prelim) is omitted as unnecessary.
 
@@ -63,7 +63,7 @@ To provide a national historic light station program, the Secretary shall—
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 305102 | [16 U.S.C. 470w–7(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–7/a&num=0&edition=prelim) | Pub. L. 89–665, title III, § 308(a), as added Pub. L. 106–355, § 2, Oct. 24, 2000, 114 Stat. 1385. |
+| 305102 | [16 U.S.C. 470w–7(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–7/a&num=0&edition=prelim). | Pub. L. 89–665, title III, § 308(a), as added Pub. L. 106–355, § 2, Oct. 24, 2000, 114 Stat. 1385. |
 
 
 <a id="section-305103"></a>
@@ -99,7 +99,7 @@ To provide a national historic light station program, the Secretary shall—
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 305103 | [16 U.S.C. 470w–7(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–7/b&num=0&edition=prelim) | Pub. L. 89–665, title III, § 308(b), as added Pub. L. 106–355, § 2, Oct. 24, 2000, 114 Stat. 1385; Pub. L. 106–400, § 2, Oct. 30, 2000, 114 Stat. 1675. |
+| 305103 | [16 U.S.C. 470w–7(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–7/b&num=0&edition=prelim). | Pub. L. 89–665, title III, § 308(b), as added Pub. L. 106–355, § 2, Oct. 24, 2000, 114 Stat. 1385; Pub. L. 106–400, § 2, Oct. 30, 2000, 114 Stat. 1675. |
 
 #### References in Text
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (c)(1), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, which is classified principally to chapter 119 (§ 11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11301&num=0&edition=prelim) and Tables.
@@ -152,8 +152,8 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (c)(1), is Pu
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 305104 | [16 U.S.C. 470w–7(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–7/c/1&num=0&edition=prelim) through (3) | Pub. L. 89–665, title III, § 308(c)(1) through (3), as added Pub. L. 106–355, § 2, Oct. 24, 2000, 114 Stat. 1386. |
-|  | [16 U.S.C. 470w–7(c)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–7/c/4&num=0&edition=prelim) | Pub. L. 89–665, title III, § 308(c)(4), as added Pub. L. 108–293, title VI, § 627, Aug. 9, 2004, 118 Stat. 1066. |
+| 305104 | [16 U.S.C. 470w–7(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–7/c/1&num=0&edition=prelim) through (3). | Pub. L. 89–665, title III, § 308(c)(1) through (3), as added Pub. L. 106–355, § 2, Oct. 24, 2000, 114 Stat. 1386. |
+|  | [16 U.S.C. 470w–7(c)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–7/c/4&num=0&edition=prelim). | Pub. L. 89–665, title III, § 308(c)(4), as added Pub. L. 108–293, title VI, § 627, Aug. 9, 2004, 118 Stat. 1066. |
 
 
 <a id="section-305105"></a>
@@ -171,7 +171,7 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (c)(1), is Pu
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 305105 | [16 U.S.C. 470w–7(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–7/d&num=0&edition=prelim) | Pub. L. 89–665, title III, § 308(d), as added Pub. L. 106–355, § 2, Oct. 24, 2000, 114 Stat. 1388. |
+| 305105 | [16 U.S.C. 470w–7(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–7/d&num=0&edition=prelim). | Pub. L. 89–665, title III, § 308(d), as added Pub. L. 106–355, § 2, Oct. 24, 2000, 114 Stat. 1388. |
 
 In subsection (a), the words “Secretary of Homeland Security” are substituted for “Commandant, United States Coast Guard” because of [6 U.S.C. 112(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section112/a/2&num=0&edition=prelim), 468(b) and (h), 551(d), and 552(d) and the Department of Homeland Security Reorganization Plan of November 25, 2002 (H. Doc. No. 108–16, 108th Cong., 1st Sess. ([6 U.S.C. 542](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim) note)).
 
@@ -209,6 +209,6 @@ In subsection (a), the words “Secretary of Homeland Security” are substitute
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 305106 | [16 U.S.C. 470w–8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–8&num=0&edition=prelim) | Pub. L. 89–665, title III, § 309, as added Pub. L. 106–355, § 3, Oct. 24, 2000, 114 Stat. 1389. |
+| 305106 | [16 U.S.C. 470w–8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–8&num=0&edition=prelim). | Pub. L. 89–665, title III, § 309, as added Pub. L. 106–355, § 3, Oct. 24, 2000, 114 Stat. 1389. |
 
 In subsection (b)(1)(B), the words “Secretary of Homeland Security” are substituted for “Coast Guard” because of [6 U.S.C. 112(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section112/a/2&num=0&edition=prelim), 468(b) and (h), 551(d), and 552(d) and the Department of Homeland Security Reorganization Plan of November 25, 2002 (H. Doc. No. 108–16, 108th Cong., 1st Sess. ([6 U.S.C. 542](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim) note)).

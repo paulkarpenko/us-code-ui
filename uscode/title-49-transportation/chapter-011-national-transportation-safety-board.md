@@ -25,6 +25,9 @@ This section is included to ensure that the identical definitions that are relev
 #### Amendments
 2000—Pub. L. 106–424 amended section catchline and text generally. Prior to amendment, text read as follows: “[Section 40102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim) applies to this chapter.”
 
+#### Short Title of 2015 Amendment
+Pub. L. 114–110, § 1(a), Dec. 18, 2015, 129 Stat. 2228, provided that: “This Act [see Tables for classification] may be cited as the ‘Surface Transportation Board Reauthorization Act of 2015’.”
+
 #### Short Title of 2006 Amendment
 Pub. L. 109–443, § 1(a), Dec. 21, 2006, 120 Stat. 3297, provided that: “This Act [enacting [section 1138 of this title](./chapter-011-national-transportation-safety-board.md#section-1138), amending sections 1111, 1113, 1117, 1118, 1131, 1135, and 1137 of this title, enacting provisions set out as notes under sections 1111 and 1118 of this title, and amending provisions set out as a note under [section 1113 of this title](./chapter-011-national-transportation-safety-board.md#section-1113)] may be cited as the ‘National Transportation Safety Board Reauthorization Act of 2006’.”
 
@@ -1135,9 +1138,9 @@ Section 6 of the Inspector General Act of 1978, referred to in subsec. (c), is s
 ## § 1139. Assistance to families of passengers involved in rail passenger accidents
 **(a) In General.—** As soon as practicable after being notified of a rail passenger accident within the United States involving a rail passenger carrier and resulting in a major loss of life, the Chairman of the National Transportation Safety Board shall—
 
-(1) designate and publicize the name and phone number of a director of family support services who shall be an employee of the Board and shall be responsible for acting as a point of contact within the Federal Government for the families of passengers involved in the accident and a liaison between the rail passenger carrier and the families; and
+(1) designate and publicize the name and telephone number of a director of family support services who shall be an employee of the Board and shall be responsible for acting as a point of contact within the Federal Government for the families of passengers involved in the accident and a liaison between the rail passenger carrier and the families; and
 
-(2) designate an independent nonprofit organization, with experience in disasters and post trauma 11 So in original. Probably should be “post-trauma”. communication with families, which shall have primary responsibility for coordinating the emotional care and support of the families of passengers involved in the accident.
+(2) designate an independent nonprofit organization, with experience in disasters and post-trauma communication with families, which shall have primary responsibility for coordinating the emotional care and support of the families of passengers involved in the accident.
 
 **(b) Responsibilities of the Board.—** The Board shall have primary Federal responsibility for—
 
@@ -1215,13 +1218,23 @@ Section 6 of the Inspector General Act of 1978, referred to in subsec. (c), is s
 
 **(j) Relinquishment of Investigative Priority.—**
 
-(1) **General rule.—** — This section (other than subsection (g)) shall not apply to a railroad passenger accident if the Board has relinquished investigative priority under section 1131(a)(2)(B) and the Federal agency to which the Board relinquished investigative priority is willing and able to provide assistance to the victims and families of the passengers involved in the accident.
+(1) **General rule.—** — This section (other than subsection (g)) shall not apply to a rail passenger accident if the Board has relinquished investigative priority under section 1131(a)(2)(B) and the Federal agency to which the Board relinquished investigative priority is willing and able to provide assistance to the victims and families of the passengers involved in the accident.
 
-(2) **Board assistance.—** — If this section does not apply to a railroad passenger accident because the Board has relinquished investigative priority with respect to the accident, the Board shall assist, to the maximum extent possible, the agency to which the Board has relinquished investigative priority in assisting families with respect to the accident.
+(2) **Board assistance.—** — If this section does not apply to a rail passenger accident because the Board has relinquished investigative priority with respect to the accident, the Board shall assist, to the maximum extent possible, the agency to which the Board has relinquished investigative priority in assisting families with respect to the accident.
 
 **(k) Savings Clause.—** Nothing in this section shall be construed to abridge the authority of the Board or the Secretary of Transportation to investigate the causes or circumstances of any rail accident, including development of information regarding the nature of injuries sustained and the manner in which they were sustained for the purposes of determining compliance with existing laws and regulations or for identifying means of preventing similar injuries in the future, or both.
 
 ### Statutory Notes
+
+#### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–94, § 11316(a)(1), substituted “telephone number” for “phone number”.
+
+Subsec. (a)(2). Pub. L. 114–94, § 11316(a)(2), substituted “post-trauma communication with families” for “post trauma communication with families”.
+
+Subsec. (j). Pub. L. 114–94, § 11316(a)(3), substituted “rail passenger accident” for “railroad passenger accident” in pars. (1) and (2).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Establishment of Task Force
 Pub. L. 110–432, div. A, title V, § 503, Oct. 16, 2008, 122 Stat. 4899, provided that: “(a) Establishment.—The Secretary [of Transportation], in cooperation with the National Transportation Safety Board, organizations potentially designated under [section 1139(a)(2) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1139/a/2&num=0&edition=prelim), United States Code, rail passenger carriers (as defined in [section 1139(h)(2) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1139/h/2&num=0&edition=prelim), United States Code), and families which have been involved in rail accidents, shall establish a task force consisting of representatives of such entities and families, representatives of rail passenger carrier employees, and representatives of such other entities as the Secretary considers appropriate. “(b) Model Plan and Recommendations.—The task force established pursuant to subsection (a) shall develop—“(1) a model plan to assist rail passenger carriers in responding to passenger rail accidents; “(2) recommendations on methods to improve the timeliness of the notification provided by passenger rail carriers to the families of passengers involved in a passenger rail accident; “(3) recommendations on methods to ensure that the families of passengers involved in a passenger rail accident who are not citizens of the United States receive appropriate assistance; and “(4) recommendations on methods to ensure that emergency services personnel have as immediate and accurate a count of the number of passengers onboard the train as possible. “(c) Report.—Not later than 1 year after the date of the enactment of this Act [Oct. 16, 2008], the Secretary shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure and the Senate Committee on Commerce, Science, and Transportation containing the model plan and recommendations developed by the task force under subsection (b).”

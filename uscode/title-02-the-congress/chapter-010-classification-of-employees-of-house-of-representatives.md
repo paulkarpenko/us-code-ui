@@ -57,6 +57,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 #### Amendments
 1995—Par. (1). Pub. L. 104–53 substituted “Chief Administrative Officer, and the Inspector General” for “Doorkeeper, and the Postmaster,”.
 
+#### Effective Date
+Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291).
+
 
 <a id="section-293"></a>
 ## § 293. Compensation schedules
@@ -93,6 +96,9 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date of 2004 Amendment
 Amendment by Pub. L. 108–447 applicable with respect to fiscal year 2005 and each succeeding fiscal year, see [section 2168(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section2168/f&num=0&edition=prelim).
+
+#### Effective Date
+Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291).
 
 #### Increases in Compensation
 Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206), Federal Pay Comparability Act of 1970 (Pub. L. 91–656), and Legislative Branch Appropriations Act, 1988 (Pub. L. 100–202), see sections 4531 and 4532 of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
@@ -171,6 +177,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Subsec. (c). Pub. L. 104–53 substituted “Chief Administrative Officer, and the Inspector General” for “Doorkeeper, and the Postmaster,”.
 
+#### Effective Date
+Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291).
+
 #### Transfer of Functions
 Certain functions of Recording Studio and Officers of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
@@ -184,6 +193,9 @@ The committee shall place each position (in existence on, or established after, 
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291) and Tables.
+
+#### Effective Date
+Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291).
 
 
 <a id="section-296"></a>
@@ -212,6 +224,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 (3) the benefit of successive step increases under such system of step increases shall be preserved, under regulations prescribed by the committee, for employees whose continuous service is interrupted by service in the Armed Forces of the United States.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291).
+
 
 <a id="section-297"></a>
 ## § 297. Appointments and reclassifications to higher compensation levels
@@ -225,11 +242,21 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **(b)** The committee may provide by regulations for the payment of compensation, at an appropriate compensation step determined in accordance with such regulations, to each employee subject to the House Wage Schedule (HWS) who is appointed to a position in a higher compensation level of such schedule or whose position is placed in a higher compensation level of such schedule pursuant to a reclassification of such position.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291).
+
 
 <a id="section-298"></a>
 ## § 298. Reductions in compensation level
 
 Each employee in a position of a compensation level of the House Employees Schedule (HS) or the House Wage Schedule (HWS), whose employment in such position and level is terminated and who is reemployed, with or without break in service, in a position in a lower compensation level (HS level or HWS level) of such schedule, or whose position is placed in a lower compensation level of such schedule pursuant to a reclassification of such position, shall be placed by the committee in such step of such lower compensation level as the committee deems appropriate.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291).
 
 
 <a id="section-299"></a>
@@ -256,6 +283,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 #### Amendments
 1996—Pub. L. 104–186 substituted “applicable accounts” for “contingent fund”.
 
+#### Effective Date
+Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291).
+
 
 <a id="section-301"></a>
 ## § 301. Preservation of existing appointing authorities
@@ -271,6 +301,9 @@ This chapter shall not be held or considered to change or otherwise affect—
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291) and Tables.
 
+#### Effective Date
+Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291).
+
 
 <a id="section-302"></a>
 ## § 302. Regulations
@@ -282,8 +315,16 @@ The committee is authorized to prescribe such regulations as may be necessary to
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291) and Tables.
 
+#### Effective Date
+Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291).
+
 
 <a id="section-303"></a>
 ## § 303. Dual compensation
 
 For the purposes of applicable law relating to the payment to any employee subject to the House Employees Schedule or the House Wage Schedule of compensation from more than one civilian office or position, the rate of basic compensation of each employee subject to any such schedule shall be held and considered to be that rate which, when increased by additional compensation then currently authorized by law for House employees generally, equals or most nearly equals the per annum rate of compensation of such employee under such schedule.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under [section 291 of this title](./chapter-010-classification-of-employees-of-house-of-representatives.md#section-291).

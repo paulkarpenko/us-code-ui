@@ -242,7 +242,21 @@ In subsection (b), the text of 15:1987(b)(1) is omitted as surplus.
 
 (2) If a State requests, the Secretary shall assist the State in revising its laws to comply with subsection (b) of this section. If a State requires time beyond April 28, 1989, to revise its laws to achieve compliance, the Secretary, on request of the State, may grant additional time that the Secretary considers reasonable by publishing a notice in the Federal Register. The notice shall include the reasons for granting the additional time. In granting additional time, the Secretary shall ensure that the State is making reasonable efforts to achieve compliance.
 
-**(g) Electronic Disclosures.—** Not later than 18 months after the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, in carrying out this section, the Secretary shall prescribe regulations permitting any written disclosures or notices and related matters to be provided electronically.
+**(g) Electronic Disclosures.—**
+
+(1) Not later than 18 months after the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, in carrying out this section, the Secretary shall prescribe regulations permitting any written disclosures or notices and related matters to be provided electronically.
+
+(2) Notwithstanding paragraph (1) and subject to paragraph (3), a State, without approval from the Secretary under subsection (d), may allow for written disclosures or notices and related matters to be provided electronically if—
+
+  (A) in compliance with—
+
+    (i) the requirements of subchapter 1 of chapter 96 of title 15; 11 See References in Text note below. or
+
+    (ii) the requirements of a State law under [section 7002(a) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7002/a&num=0&edition=prelim); 1 and
+
+  (B) the disclosures or notices otherwise meet the requirements under this section, including appropriate authentication and security measures.
+
+(3) Paragraph (2) ceases to be effective on the date the regulations under paragraph (1) become effective.
 
 ### Statutory Notes
 
@@ -281,9 +295,13 @@ This amends 49:32705(c)(2)(A) to clarify the restatement of 15:1988(e)(2)(A) by 
 This amends 49:32702(8) and 32705 to clarify the restatement of 15:1982(5) and 1988 by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1049).
 
 #### References in Text
-The date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, referred to in subsec. (g), is the date of enactment of title I of div. C of Pub. L. 112–141, which was approved July 6, 2012.
+The date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, referred to in subsec. (g)(1), is the date of enactment of title I of div. C of Pub. L. 112–141, which was approved July 6, 2012.
+
+Subchapter 1 of chapter 96 of title 15 and [section 7002(a) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7002/a&num=0&edition=prelim), referred to in subsec. (g)(2)(A), probably should be references to title I and section 102(a), respectively, of the Electronic Signatures in Global and National Commerce Act, Pub. L. 106–229, which are classified, respectively, to subchapter I (§ 7001 et seq.) of chapter 96 and [section 7002(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7002/a&num=0&edition=prelim), Commerce and Trade.
 
 #### Amendments
+2015—Subsec. (g). Pub. L. 114–94 designated existing provisions as par. (1) and added pars. (2) and (3).
+
 2012—Subsec. (g). Pub. L. 112–141 added subsec. (g).
 
 1998—Subsec. (a)(4), (5). Pub. L. 105–178 added pars. (4) and (5).

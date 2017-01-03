@@ -2,7 +2,7 @@
 title: 19
 chapter: '4'
 heading: TARIFF ACT OF 1930
-section_count: 304
+section_count: 306
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19&num=0&edition=prelim
 ---
@@ -12,7 +12,7 @@ source: >-
 ### Statutory Notes
 
 #### Publication of Harmonized Tariff Schedule
-The Harmonized Tariff Schedule of the United States is not published in the Code. A current version of the Harmonized Tariff Schedule is maintained and published periodically by the United States International Trade Commission and is available at http://www.usitc.gov/tata/hts/index.htm and for sale by the Superintendent of Documents, U.S. Government Publishing Office, Washington, D.C. 20402.
+The Harmonized Tariff Schedule of the United States is not published in the Code. A current version of the Harmonized Tariff Schedule is maintained and published periodically by the United States International Trade Commission and is available at their website and for sale by the Superintendent of Documents, U.S. Government Publishing Office, Washington, D.C. 20402.
 
 #### Reference to Tariff Schedules To Be Treated as Reference to Harmonized Tariff Schedule
 Reference in any law to “Tariff Schedules of the United States”, “the Tariff Schedules”, “such Schedules”, and any other general reference to the old Schedules to be treated as reference to Harmonized Tariff Schedule, see [section 3012 of this title](./chapter-018-implementation-of-harmonized-tariff-schedule.md#section-3012).
@@ -97,29 +97,29 @@ References to section 1303 in chapter 4 of this title defined to mean section 13
 
   (K) Such article cannot be marked after importation except at any expense which is economically prohibitive, and the failure to mark the article before importation was not due to any purpose of the importer, producer, seller, or shipper to avoid compliance with this section.
 
-**(b) Marking of containers** Whenever an article is excepted under subdivision (3) of subsection (a) of this section from the requirements of marking, the immediate container, if any, of such article, or such other container or containers of such article as may be prescribed by the Secretary of the Treasury, shall be marked in such manner as to indicate to an ultimate purchaser in the United States the English name of the country of origin of such article, subject to all provisions of this section, including the same exceptions as are applicable to articles under subdivision (3) of subsection (a) of this section. If articles are excepted from marking requirements under clause (F), (G), or (H) of subdivision (3) of subsection (a) of this section, their usual containers shall not be subject to the marking requirements of this section. Usual containers in use as such at the time of importation shall in no case be required to be marked to show the country of their own origin.
+**(b) Marking of containers** Whenever an article is excepted under subdivision (3) of subsection (a) of this section from the requirements of marking, the immediate container, if any, of such article, or such other container or containers of such article as may be prescribed by the Secretary of the Treasury, shall be marked in such manner as to indicate to an ultimate purchaser in the United States the English name of the country of origin of such article, subject to all provisions of this section, including the same exceptions as are applicable to articles under subdivision (3) of subsection (a). If articles are excepted from marking requirements under clause (F), (G), or (H) of subdivision (3) of subsection (a) of this section, their usual containers shall not be subject to the marking requirements of this section. Usual containers in use as such at the time of importation shall in no case be required to be marked to show the country of their own origin.
 
 **(c) Marking of certain pipe and fittings**
 
-(1) Except as provided in paragraph (2), no exception may be made under subsection (a)(3) of this section with respect to pipes of iron, steel, or stainless steel, to pipe fittings of steel, stainless steel, chrome-moly steel, or cast and malleable iron each of which shall be marked with the English name of the country of origin by means of die stamping, cast-in-mold lettering, etching, engraving, or continuous paint stenciling.
+(1) Except as provided in paragraph (2), no exception may be made under subsection (a)(3) with respect to pipes of iron, steel, or stainless steel, to pipe fittings of steel, stainless steel, chrome-moly steel, or cast and malleable iron each of which shall be marked with the English name of the country of origin by means of die stamping, cast-in-mold lettering, etching, engraving, or continuous paint stenciling.
 
 (2) If, because of the nature of an article, it is technically or commercially infeasible to mark it by one of the five methods specified in paragraph (1), the article may be marked by an equally permanent method of marking or, in the case of small diameter pipe, tube, and fittings, by tagging the containers or bundles.
 
-**(d) Marking of compressed gas cylinders** No exception may be made under subsection (a)(3) of this section with respect to compressed gas cylinders designed to be used for the transport and storage of compressed gases whether or not certified prior to exportation to have been made in accordance with the safety requirements of sections 178.36 through 178.68 of title 49, Code of Federal Regulations, each of which shall be marked with the English name of the country of origin by means of die stamping, molding, etching, raised lettering, or an equally permanent method of marking.
+**(d) Marking of compressed gas cylinders** No exception may be made under subsection (a)(3) with respect to compressed gas cylinders designed to be used for the transport and storage of compressed gases whether or not certified prior to exportation to have been made in accordance with the safety requirements of sections 178.36 through 178.68 of title 49, Code of Federal Regulations, each of which shall be marked with the English name of the country of origin by means of die stamping, molding, etching, raised lettering, or an equally permanent method of marking.
 
-**(e) Marking of certain manhole rings or frames, covers, and assemblies thereof** No exception may be made under subsection (a)(3) of this section with respect to manhole rings or frames, covers, and assemblies thereof each of which shall be marked on the top surface with the English name of the country of origin by means of die stamping, cast-in-mold lettering, etching, engraving, or an equally permanent method of marking.
+**(e) Marking of certain castings** No exception may be made under subsection (a)(3) with respect to inlet frames, tree and trench grates, lampposts, lamppost bases, cast utility poles, bollards, hydrants, utility boxes, manhole rings or frames, covers, and assemblies thereof each of which shall be marked on the top surface with the English name of the country of origin by means of die stamping, cast-in-mold lettering, etching, engraving, or an equally permanent method of marking in a location such that it will remain visible after installation.
 
-**(f) Marking of certain coffee and tea products** The marking requirements of subsections (a) and (b) of this section shall not apply to articles described in subheadings 0901.21, 0901.22, 0902.10, 0902.20, 0902.30, 0902.40, 2101.10, and 2101.20 of the Harmonized Tariff Schedule of the United States, as in effect on January 1, 1995.
+**(f) Marking of certain coffee and tea products** The marking requirements of subsections (a) and (b) shall not apply to articles described in subheadings 0901.21, 0901.22, 0902.10, 0902.20, 0902.30, 0902.40, 2101.10, and 2101.20 of the Harmonized Tariff Schedule of the United States, as in effect on January 1, 1995.
 
-**(g) Marking of spices** The marking requirements of subsections (a) and (b) of this section shall not apply to articles provided for under subheadings 0904.11, 0904.12, 0904.20, 0905.00, 0906.10, 0906.20, 0907.00, 0908.10, 0908.20, 0908.30, 0909.10, 0909.20, 0909.30, 0909.40, 0909.50, 0910.10, 0910.20, 0910.30, 0910.40, 0910.50, 0910.91, 0910.99, 1106.20, 1207.40, 1207.50, 1207.91, 1404.90, and 3302.10, and items classifiable in categories 0712.90.60, 0712.90.8080, 1209.91.2000, 1211.90.2000, 1211.90.8040, 1211.90.8050, 1211.90.8090, 2006.00.3000, 2918.13.2000, 3203.00.8000, 3301.90.1010, 3301.90.1020, and 3301.90.1050 of the Harmonized Tariff Schedule of the United States, as in effect on January 1, 1995.
+**(g) Marking of spices** The marking requirements of subsections (a) and (b) shall not apply to articles provided for under subheadings 0904.11, 0904.12, 0904.20, 0905.00, 0906.10, 0906.20, 0907.00, 0908.10, 0908.20, 0908.30, 0909.10, 0909.20, 0909.30, 0909.40, 0909.50, 0910.10, 0910.20, 0910.30, 0910.40, 0910.50, 0910.91, 0910.99, 1106.20, 1207.40, 1207.50, 1207.91, 1404.90, and 3302.10, and items classifiable in categories 0712.90.60, 0712.90.8080, 1209.91.2000, 1211.90.2000, 1211.90.8040, 1211.90.8050, 1211.90.8090, 2006.00.3000, 2918.13.2000, 3203.00.8000, 3301.90.1010, 3301.90.1020, and 3301.90.1050 of the Harmonized Tariff Schedule of the United States, as in effect on January 1, 1995.
 
-**(h) Marking of certain silk products** The marking requirements of subsections (a) and (b) of this section shall not apply either to—
+**(h) Marking of certain silk products** The marking requirements of subsections (a) and (b) shall not apply either to—
 
 (1) articles provided for in subheading 6214.10.10 of the Harmonized Tariff Schedule of the United States, as in effect on January 1, 1997; or
 
 (2) articles provided for in heading 5007 of the Harmonized Tariff Schedule of the United States as in effect on January 1, 1997.
 
-**(i) Additional duties for failure to mark** If at the time of importation any article (or its container, as provided in subsection (b) of this section) is not marked in accordance with the requirements of this section, and if such article is not exported or destroyed or the article (or its container, as provided in subsection (b) of this section) marked after importation in accordance with the requirements of this section (such exportation, destruction, or marking to be accomplished under customs supervision prior to the liquidation of the entry covering the article, and to be allowed whether or not the article has remained in continuous customs custody), there shall be levied, collected, and paid upon such article a duty of 10 per centum ad valorem, which shall be deemed to have accrued at the time of importation, shall not be construed to be penal, and shall not be remitted wholly or in part nor shall payment thereof be avoidable for any cause. Such duty shall be levied, collected, and paid in addition to any other duty imposed by law and whether or not the article is exempt from the payment of ordinary customs duties. The compensation and expenses of customs officers and employees assigned to supervise the exportation, destruction, or marking to exempt articles from the application of the duty provided for in this subsection shall be reimbursed to the Government by the importer.
+**(i) Additional duties for failure to mark** If at the time of importation any article (or its container, as provided in subsection (b) hereof) is not marked in accordance with the requirements of this section, and if such article is not exported or destroyed or the article (or its container, as provided in subsection (b) hereof) marked after importation in accordance with the requirements of this section (such exportation, destruction, or marking to be accomplished under customs supervision prior to the liquidation of the entry covering the article, and to be allowed whether or not the article has remained in continuous customs custody), there shall be levied, collected, and paid upon such article a duty of 10 per centum ad valorem, which shall be deemed to have accrued at the time of importation, shall not be construed to be penal, and shall not be remitted wholly or in part nor shall payment thereof be avoidable for any cause. Such duty shall be levied, collected, and paid in addition to any other duty imposed by law and whether or not the article is exempt from the payment of ordinary customs duties. The compensation and expenses of customs officers and employees assigned to supervise the exportation, destruction, or marking to exempt articles from the application of the duty provided for in this subsection shall be reimbursed to the Government by the importer.
 
 **(j) Delivery withheld until marked** No imported article held in customs custody for inspection, examination, or appraisement shall be delivered until such article and every other article of the importation (or their containers), whether or not released from customs custody, shall have been marked in accordance with the requirements of this section or until the amount of duty estimated to be payable under subsection (i) of this section has been deposited. Nothing in this section shall be construed as excepting any article (or its container) from the particular requirements of marking provided for in any other provision of law.
 
@@ -127,15 +127,15 @@ References to section 1303 in chapter 4 of this title defined to mean section 13
 
 (1) **Application of section** — In applying this section to an article that qualifies as a good of a NAFTA country (as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim)) under the regulations issued by the Secretary to implement Annex 311 of the North American Free Trade Agreement—
 
-  (A) the exemption under subsection (a)(3)(H) of this section shall be applied by substituting “reasonably know” for “necessarily know”;
+  (A) the exemption under subsection (a)(3)(H) shall be applied by substituting “reasonably know” for “necessarily know”;
 
-  (B) the Secretary shall exempt the good from the requirements for marking under subsection (a) of this section if the good—
+  (B) the Secretary shall exempt the good from the requirements for marking under subsection (a) if the good—
 
     (i) is an original work of art, or
 
     (ii) is provided for under subheading 6904.10, heading 8541, or heading 8542 of the Harmonized Tariff Schedule of the United States; and
 
-  (C) subsection (b) of this section does not apply to the usual container of any good described in subsection (a)(3)(E) or (I) of this section or subparagraph (B)(i) or (ii) of this paragraph.
+  (C) subsection (b) does not apply to the usual container of any good described in subsection (a)(3)(E) or (I) or subparagraph (B)(i) or (ii) of this paragraph.
 
 (2) **Petition rights of NAFTA exporters and producers regarding marking determinations**
 
@@ -178,6 +178,12 @@ The Harmonized Tariff Schedule of the United States, referred to in subsecs. (f)
 Provisions dealing with the subject matter of this section and former [section 133 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section133&num=0&edition=prelim) were contained in act Oct. 3, 1913, ch. 16, § IV, F, subsecs. 1 and 2, 38 Stat. 194, superseding similar provisions of previous tariff acts. Those subsections were superseded by act Sept. 21, 1922, ch. 356, title III, § 304(a), 42 Stat. 947, and repealed by § 321 of that act. Section 304(a) of the act of 1922 was superseded by section 304 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
+2016—Subsec. (e). Pub. L. 114–125, § 917(a)(3), inserted before period at end “in a location such that it will remain visible after installation”.
+
+Pub. L. 114–125, § 917(a)(2), which directed insertion of “inlet frames, tree and trench grates, lampposts, lamppost bases, cast utility poles, bollards, hydrants, utility boxes,” before “manhole rings,”, was executed by making the insertion before “manhole rings or frames,” to reflect the probable intent of Congress.
+
+Pub. L. 114–125, § 917(a)(1), substituted “castings” for “manhole rings or frames, covers, and assemblies thereof” in heading.
+
 1999—Subsecs. (h), (i). Pub. L. 106–36, § 2423(a), added subsec. (h) and redesignated former subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
 Subsec. (j). Pub. L. 106–36, § 2423(a)(1), (b), redesignated subsec. (i) as (j) and substituted “subsection (i)” for “subsection (h)”. Former subsec. (j) redesignated (k).
@@ -208,6 +214,9 @@ Subsecs. (h), (i). Pub. L. 103–182, § 207(a)(4), (5), added subsec. (h) and r
 
 1938—Act June 25, 1938, amended section generally.
 
+#### Effective Date of 2016 Amendment
+Pub. L. 114–125, title IX, § 917(b), Feb. 24, 2016, 130 Stat. 279, provided that: “The amendments made by subsection (a) [amending this section] take effect on the date of the enactment of this Act [Feb. 24, 2016] and apply with respect to the importation of castings described in such amendments on or after the date that is 180 days after such date of enactment.”
+
 #### Effective Date of 1999 Amendment
 Pub. L. 106–36, title II, § 2423(c), June 25, 1999, 113 Stat. 180, provided that: “The amendments made by this section [amending this section] apply to goods entered, or withdrawn from warehouse for consumption, on or after the date of the enactment of this Act [June 25, 1999].”
 
@@ -235,7 +244,7 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 Act Aug. 8, 1953, ch. 397, § 23, 67 Stat. 521, provided: “Except as may be otherwise provided for in this Act [see Short Title of 1953 Amendment note set out under [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654)], the repeal of existing law or modifications thereof embraced in this Act shall not affect any act done, or any right accruing or accrued, or any suit or proceeding had or commenced in any civil or criminal case prior to such repeal or modification, but all liabilities under such laws shall continue, except as otherwise specifically provided in this Act, and may be enforced in the same manner as if such repeal or modification had not been made.”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers and employees, referred to in text, were under Department of the Treasury.
 
@@ -247,7 +256,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 
 <a id="section-1304a"></a>
-## § 1304a. Technical assistance to CBP
+## § 1304a. Technical assistance to U.S. Customs and Border Protection
 
 The Secretary of Agriculture shall make available to U.S. Customs and Border Protection technical assistance related to the identification of produce represented as grown in the United States when it is not in fact grown in the United States.
 
@@ -269,13 +278,13 @@ Section was enacted as part of the Agricultural Act of 2014, and not as part of 
 and the United States attorney shall institute proceedings in the district court for the forfeiture, confiscation, and destruction of the book or matter seized. Upon the adjudication that such book or matter thus seized is of the character the entry of which is by this section prohibited, it shall be ordered destroyed and shall be destroyed. Upon adjudication that such book or matter thus seized is not of the character the entry of which is by this section prohibited, it shall not be excluded from entry under the provisions of this section.
 In any such proceeding any party in interest may upon demand have the facts at issue determined by a jury and any party may have an appeal or the right of review as in the case of ordinary actions or suits.
 
-**(c) 1 Institution of forfeiture proceedings** Notwithstanding the provisions of subsections (a) and (b) of this section, whenever a customs officer discovers any obscene material after such material has been imported or brought into the United States, or attempted to be imported or brought into the United States, he may refer the matter to the United States attorney for the institution of forfeiture proceedings under this section. Such proceedings shall begin no more than 30 days after the time the material is seized; except that no seizure or forfeiture shall be invalidated for delay if the claimant is responsible for extending the action beyond the allowable time limits or if proceedings are postponed pending the consideration of constitutional issues.
+**(c) 1 Institution of forfeiture proceedings** Notwithstanding the provisions of subsections (a) and (b), whenever a customs officer discovers any obscene material after such material has been imported or brought into the United States, or attempted to be imported or brought into the United States, he may refer the matter to the United States attorney for the institution of forfeiture proceedings under this section. Such proceedings shall begin no more than 30 days after the time the material is seized; except that no seizure or forfeiture shall be invalidated for delay if the claimant is responsible for extending the action beyond the allowable time limits or if proceedings are postponed pending the consideration of constitutional issues.
 
 **(d) Stay of forfeiture proceedings** Upon motion of the United States, a court shall stay such civil forfeiture proceedings commenced under this section pending the completion of any related criminal matter.
 
 **(b) 1 Coordination of forfeiture proceedings with criminal proceedings**
 
-(1) Notwithstanding subsection (a) of this section, whenever the Customs Service is of the opinion that criminal prosecution would be appropriate or that further criminal investigation is warranted in connection with allegedly obscene material seized at the time of entry, the appropriate customs officer shall immediately transmit information concerning such seizure to the United States Attorney 22 So in original. Probably should not be capitalized. of the district of the addressee’s residence. No notice to the addressee or consignee concerning the seizure is required at the time of such transmittal.
+(1) Notwithstanding subsection (a), whenever the Customs Service is of the opinion that criminal prosecution would be appropriate or that further criminal investigation is warranted in connection with allegedly obscene material seized at the time of entry, the appropriate customs officer shall immediately transmit information concerning such seizure to the United States Attorney 22 So in original. Probably should not be capitalized. of the district of the addressee’s residence. No notice to the addressee or consignee concerning the seizure is required at the time of such transmittal.
 
 (2) Upon receipt of such information, such United States attorney shall promptly determine whether in such attorney’s opinion the referral of the matter for forfeiture under this section would materially affect the Government’s ability to conduct a criminal investigation with respect to such seizure.
 
@@ -342,7 +351,7 @@ Amendment by Pub. L. 91–662 effective Jan. 9, 1971, see section 7 of Pub. L. 9
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers, referred to in text, were under Department of the Treasury.
 
@@ -373,7 +382,7 @@ Section, June 17, 1930, ch. 497, title III, § 306, 46 Stat. 689; Pub. L. 85–8
 <a id="section-1307"></a>
 ## § 1307. Convict-made goods; importation prohibited
 
-All goods, wares, articles, and merchandise mined, produced, or manufactured wholly or in part in any foreign country by convict labor or/and forced labor or/and indentured labor under penal sanctions shall not be entitled to entry at any of the ports of the United States, and the importation thereof is hereby prohibited, and the Secretary of the Treasury is authorized and directed to prescribe such regulations as may be necessary for the enforcement of this provision. The provisions of this section relating to goods, wares, articles, and merchandise mined, produced, or manufactured by forced labor or/and indentured labor, shall take effect on January 1, 1932; but in no case shall such provisions be applicable to goods, wares, articles, or merchandise so mined, produced, or manufactured which are not mined, produced, or manufactured in such quantities in the United States as to meet the consumptive demands of the United States.
+All goods, wares, articles, and merchandise mined, produced, or manufactured wholly or in part in any foreign country by convict labor or/and forced labor or/and indentured labor under penal sanctions shall not be entitled to entry at any of the ports of the United States, and the importation thereof is hereby prohibited, and the Secretary of the Treasury is authorized and directed to prescribe such regulations as may be necessary for the enforcement of this provision.
 
 ### Statutory Notes
 
@@ -381,7 +390,12 @@ All goods, wares, articles, and merchandise mined, produced, or manufactured who
 Provisions in the same language as the provisions in this section were made by act Oct. 3, 1913, ch. 16, § IV, I, 38 Stat. 195, superseding similar provisions of previous tariff acts. That subdivision was superseded by act Sept. 21, 1922, ch. 356, title III, § 307, 42 Stat. 937, and repealed by section 321 of that act. Section 307 of act Sept. 21, 1922, was superseded by section 307 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
+2016—Pub. L. 114–125 struck out “The provisions of this section relating to goods, wares, articles, and merchandise mined, produced, or manufactured by forced labor or/and indentured labor, shall take effect on January 1, 1932; but in no case shall such provisions be applicable to goods, wares, articles, or merchandise so mined, produced, or manufactured which are not mined, produced, or manufactured in such quantities in the United States as to meet the consumptive demands of the United States.” after “enforcement of this provision.”
+
 2000—Pub. L. 106–200 inserted at end “For purposes of this section, the term ‘forced labor or/and indentured labor’ includes forced or indentured child labor.”
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–125, title IX, § 910(a)(2), Feb. 24, 2016, 130 Stat. 239, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the date that is 15 days after the date of the enactment of this Act [Feb. 24, 2016].”
 
 #### Effective Date of 2000 Amendment
 Pub. L. 106–200, title IV, § 411(b), May 18, 2000, 114 Stat. 298, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [May 18, 2000].”
@@ -409,7 +423,7 @@ Pub. L. 100–418, title I, § 1906, Aug. 23, 1988, 102 Stat. 1313, related to C
 
 (3) **Customs laws** — The term “customs laws of the United States” means any other law or regulation enforced or administered by the United States Customs Service.
 
-(4) **Designated authority** — The term “designated authority” means the Secretary of the Treasury, with respect to the prohibitions under subsection (b)(1)(A) of this section, and the President (or the President’s designee), with respect to the prohibitions under subsection (b)(1)(B) of this section.
+(4) **Designated authority** — The term “designated authority” means the Secretary of the Treasury, with respect to the prohibitions under subsection (b)(1)(A), and the President (or the President’s designee), with respect to the prohibitions under subsection (b)(1)(B).
 
 (5) **Dog fur** — The term “dog fur” means the pelt or skin of any animal of the species Canis familiaris.
 
@@ -449,9 +463,9 @@ Pub. L. 100–418, title I, § 1906, Aug. 23, 1988, 102 Stat. 1313, related to C
 
 (2) **Forfeiture** — Any dog or cat fur product manufactured, taken, possessed, sold, purchased, offered for sale or purchase, transported, delivered, received, carried, shipped, imported, or exported contrary to the provisions of this section or any regulation issued under this section shall be subject to forfeiture to the United States.
 
-(3) **Enforcement** — The Secretary of the Treasury shall enforce the provisions of this section with respect to the prohibitions under subsection (b)(1)(A) of this section, and the President shall enforce the provisions of this section with respect to the prohibitions under subsection (b)(1)(B) of this section.
+(3) **Enforcement** — The Secretary of the Treasury shall enforce the provisions of this section with respect to the prohibitions under subsection (b)(1)(A), and the President shall enforce the provisions of this section with respect to the prohibitions under subsection (b)(1)(B).
 
-(4) **Regulations** — Not later than 270 days after November 9, 2000, the designated authorities shall, after notice and opportunity for comment, issue regulations to carry out the provisions of this section. The regulations of the Secretary of the Treasury shall provide for a process by which testing laboratories, whether domestic or foreign, can qualify for certification by the United States Customs Service by demonstrating the reliability of the procedures used for determining the type of fur contained in articles intended for sale or consumption in interstate commerce. Use of a laboratory certified by the United States Customs Service to determine the nature of fur contained in an item to which subsection (b) of this section applies is not required to avoid liability under this section but may, in a case in which a person can establish that the goods imported were tested by such a laboratory and that the item was not found to be a dog or cat fur product, prove dispositive in determining whether that person exercised reasonable care for purposes of paragraph (6).
+(4) **Regulations** — Not later than 270 days after November 9, 2000, the designated authorities shall, after notice and opportunity for comment, issue regulations to carry out the provisions of this section. The regulations of the Secretary of the Treasury shall provide for a process by which testing laboratories, whether domestic or foreign, can qualify for certification by the United States Customs Service by demonstrating the reliability of the procedures used for determining the type of fur contained in articles intended for sale or consumption in interstate commerce. Use of a laboratory certified by the United States Customs Service to determine the nature of fur contained in an item to which subsection (b) applies is not required to avoid liability under this section but may, in a case in which a person can establish that the goods imported were tested by such a laboratory and that the item was not found to be a dog or cat fur product, prove dispositive in determining whether that person exercised reasonable care for purposes of paragraph (6).
 
 (5) **Reward** — The designated authority shall pay a reward of not less than $500 to any person who furnishes information that establishes or leads to a civil penalty assessment, debarment, or forfeiture of property for any violation of this section or any regulation issued under this section.
 
@@ -480,7 +494,7 @@ A prior section 1308, acts June 17, 1930, ch. 497, title III, § 308, 46 Stat. 6
 Pub. L. 106–476, title I, § 1443(c), Nov. 9, 2000, 114 Stat. 2167, provided that: “The amendments made by this section [enacting this section and amending [section 69 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section69&num=0&edition=prelim), Commerce and Trade] shall take effect on the date of the enactment of this Act [Nov. 9, 2000].”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Findings and Purposes
 Pub. L. 106–476, title I, § 1442, Nov. 9, 2000, 114 Stat. 2163, provided that: “(a) Findings.—Congress makes the following findings:“(1) An estimated 2,000,000 dogs and cats are slaughtered and sold annually as part of the international fur trade. Internationally, dog and cat fur is used in a wide variety of products, including fur coats and jackets, fur trimmed garments, hats, gloves, decorative accessories, stuffed animals, and other toys. “(2) The United States represents one of the largest markets for the sale of fur and fur products in the world. Market demand for fur products in the United States has led to the introduction of dog and cat fur products into United States commerce, frequently based on deceptive or fraudulent labeling of the products to disguise the true nature of the fur and mislead United States wholesalers, retailers, and consumers. “(3) Dog and cat fur, when dyed, is not easily distinguishable to persons who are not experts from other furs such as fox, rabbit, coyote, wolf, and mink, and synthetic materials made to resemble real fur. Dog and cat fur is generally less expensive than other types of fur and may be used as a substitute for more expensive types of furs, which provides an incentive to engage in unfair or fraudulent trade practices in the importation, exportation, distribution, or sale of fur products, including deceptive labeling and other practices designed to disguise the true contents or origin of the product. “(4) Forensic texts have documented that dog and cat fur products are being imported into the United States subject to deceptive labels or other practices designed to conceal the use of dog or cat fur in the production of wearing apparel, toys, and other products. “(5) Publicly available evidence reflects ongoing significant use of dogs and cats bred expressly for their fur by foreign fur producers for manufacture into wearing apparel, toys, and other products that have been introduced into United States commerce. The evidence indicates that foreign fur producers also rely on the use of stray dogs and cats and stolen pets for the manufacture of fur products destined for the world and United States markets. “(6) The methods of housing, transporting, and slaughtering dogs and cats for fur production are generally unregulated and inhumane. “(7) The trade of dog and cat fur products is ethically and aesthetically abhorrent to United States citizens. Consumers in the United States have a right to know if products offered for sale contain dog or cat fur and to ensure that they are not unwitting participants in this gruesome trade. “(8) Persons who engage in the sale of dog or cat fur products, including the fraudulent trade practices identified above, gain an unfair competitive advantage over persons who engage in legitimate trade in apparel, toys, and other products, and derive an unfair benefit from consumers who buy their products. “(9) The imposition of a ban on the sale, manufacture, offer for sale, transportation, and distribution of dog and cat fur products, regardless of their source, is consistent with the international obligations of the United States because it applies equally to domestic and foreign producers and avoids any discrimination among foreign sources of competing products. Such a ban is also consistent with provisions of international agreements to which the United States is a party that expressly allow for measures designed to protect the health and welfare of animals and to enjoin the use of deceptive trade practices in international or domestic commerce. “(b) Purposes.—The purposes of this chapter [chapter 3 (§§ 1441–1443) of subtitle B of title I of Pub. L. 106–476, see Short Title of 2000 Amendment note set out under [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654)] are to—“(1) prohibit imports, exports, sale, manufacture, offer for sale, transportation, and distribution in the United States of dog and cat fur products, in order to ensure that United States market demand does not provide an incentive to slaughter dogs or cats for their fur; “(2) require accurate labeling of fur species so that consumers in the United States can make informed choices and ensure that they are not unwitting contributors to this gruesome trade; and “(3) ensure that the customs laws of the United States are not undermined by illicit international traffic in dog and cat fur products.”
@@ -614,7 +628,7 @@ Pub. L. 96–39, title VIII, § 856(a), July 26, 1979, 93 Stat. 295, as amended 
 
 **(b) Cancellation of charges against bond** The several charges against such bond may be canceled in whole or in part—
 
-(1) upon the exportation from the bonded warehouses which treated the metal-bearing materials, or from any other bonded smelting or refining warehouse, of a quantity of the same kind of metal contained in any product of smelting or refining of metal-bearing materials equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c) of this section; except that—
+(1) upon the exportation from the bonded warehouses which treated the metal-bearing materials, or from any other bonded smelting or refining warehouse, of a quantity of the same kind of metal contained in any product of smelting or refining of metal-bearing materials equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c); except that—
 
   (A) in the case of a withdrawal for exportation of such a product to a NAFTA country, as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim), if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in [section 3333(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3333/a&num=0&edition=prelim), the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the duties on the materials may be waived or reduced (subject to [section 1508(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/2/B&num=0&edition=prelim)) in an amount that does not exceed the lesser of—
 
@@ -634,9 +648,9 @@ Pub. L. 96–39, title VIII, § 856(a), July 26, 1979, 93 Stat. 295, as amended 
 
 (2) upon payment of duties on the dutiable quantity of metal contained in the imported metal-bearing materials, or
 
-(3) upon the transfer of the bond charges to another bonded smelting or refining warehouse by physical shipment of a quantity of the same kind of metal contained in any product of smelting or refining of metal-bearing materials equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c) of this section, or
+(3) upon the transfer of the bond charges to another bonded smelting or refining warehouse by physical shipment of a quantity of the same kind of metal contained in any product of smelting or refining of metal-bearing materials equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c), or
 
-(4) upon the transfer of the bond charges to a bonded customs warehouse other than a bonded smelting or refining warehouse by physical shipment of a quantity of the same kind of metal contained in any product of smelting or refining equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c) of this section, and upon withdrawal from such other warehouse for exportation or domestic consumption the provisions of this section shall apply; except that—
+(4) upon the transfer of the bond charges to a bonded customs warehouse other than a bonded smelting or refining warehouse by physical shipment of a quantity of the same kind of metal contained in any product of smelting or refining equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c), and upon withdrawal from such other warehouse for exportation or domestic consumption the provisions of this section shall apply; except that—
 
   (A) in the case of a withdrawal for exportation of such a product to a NAFTA country, as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim), if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in [section 3333(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3333/a&num=0&edition=prelim), the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the duties on the materials may be waived or reduced (subject to [section 1508(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/2/B&num=0&edition=prelim)) in an amount that does not exceed the lesser of—
 
@@ -654,10 +668,10 @@ Pub. L. 96–39, title VIII, § 856(a), July 26, 1979, 93 Stat. 295, as amended 
 
     (iv) 25 percent during the 1-year period beginning on January 1, 2014, or
 
-(5) upon the transfer to another bonded smelting or refining warehouse without physical shipment of metal of bond charges representing a quantity of dutiable metal contained in imported metal-bearing materials less wastage provided for in subsection (c) of this section of the plant of initial treatment of such materials provided there is on hand at the warehouse to which the transfer is made sufficient like metal in any form to satisfy the transferred bond charges.
+(5) upon the transfer to another bonded smelting or refining warehouse without physical shipment of metal of bond charges representing a quantity of dutiable metal contained in imported metal-bearing materials less wastage provided for in subsection (c) of the plant of initial treatment of such materials provided there is on hand at the warehouse to which the transfer is made sufficient like metal in any form to satisfy the transferred bond charges.
 If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no charges against such bond may be canceled in whole or part upon an exportation to Canada under paragraph (1) or (4) during the period such Agreement is in operation except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of the United States-Canada Free-Trade Agreement Implementation Act of 1988.
 
-**(c) Allowance on bond for wastage of metals** For purposes of paragraphs (1), (3), (4), and (5) of subsection (b) of this section, due allowances shall be made for wastage of metals other than copper, lead, and zinc, as ascertained from time to time by the Secretary of the Treasury.
+**(c) Allowance on bond for wastage of metals** For purposes of paragraphs (1), (3), (4), and (5) of subsection (b), due allowances shall be made for wastage of metals other than copper, lead, and zinc, as ascertained from time to time by the Secretary of the Treasury.
 
 **(d) Credit for exportation of product other than refined metal** Upon the exportation of a product of smelting or refining other than refined metal the bond shall be credited with a quantity of metal equivalent to the quantity of metal contained in the product exported less the proportionate part of the deductions allowed for losses in determination of the bond charge being cancelled that would not ordinarily be sustained in production of the specific product exported as ascertained from time to time by the Secretary of the Treasury; except that—
 
@@ -777,9 +791,35 @@ Amendment by Pub. L. 87–456 effective with respect to articles entered, or wit
 
 <a id="section-1313"></a>
 ## § 1313. Drawback and refunds
-**(a) Articles made from imported merchandise** Upon the exportation or destruction under customs supervision of articles manufactured or produced in the United States with the use of imported merchandise, provided that those articles have not been used prior to such exportation or destruction, the full amount of the duties paid upon the merchandise so used shall be refunded as drawback, less 1 per centum of such duties, except that such duties shall not be so refunded upon the exportation or destruction of flour or by-products produced from imported wheat. Where two or more products result from the manipulation of imported merchandise, the drawback shall be distributed to the several products in accordance with their relative values at the time of separation.
+**(a) Articles made from imported merchandise** Upon the exportation or destruction under customs supervision of articles manufactured or produced in the United States with the use of imported merchandise, provided that those articles have not been used prior to such exportation or destruction, an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l) shall be refunded as drawback, except that duties shall not be so refunded upon the exportation or destruction of flour or by-products produced from imported wheat. Where two or more products result from the manipulation of imported merchandise, the drawback shall be distributed to the several products in accordance with their relative values at the time of separation.
 
-**(b) Substitution for drawback purposes** If imported duty-paid merchandise and any other merchandise (whether imported or domestic) of the same kind and quality are used in the manufacture or production of articles within a period not to exceed three years from the receipt of such imported merchandise by the manufacturer or producer of such articles, there shall be allowed upon the exportation, or destruction under customs supervision, of any such articles, notwithstanding the fact that none of the imported merchandise may actually have been used in the manufacture or production of the exported or destroyed articles, an amount of drawback equal to that which would have been allowable had the merchandise used therein been imported, but only if those articles have not been used prior to such exportation or destruction; but the total amount of drawback allowed upon the exportation or destruction under customs supervision of such articles, together with the total amount of drawback allowed in respect of such imported merchandise under any other provision of law, shall not exceed 99 per centum of the duty paid on such imported merchandise.
+**(b) Substitution for drawback purposes**
+
+(1) **In general** — If imported duty-paid merchandise or merchandise classifiable under the same 8-digit HTS subheading number as such imported merchandise is used in the manufacture or production of articles within a period not to exceed 5 years from the date of importation of such imported merchandise, there shall be allowed upon the exportation, or destruction under customs supervision, of any such articles, notwithstanding the fact that none of the imported merchandise may actually have been used in the manufacture or production of the exported or destroyed articles, an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l), but only if those articles have not been used prior to such exportation or destruction.
+
+(2) **Requirements relating to transfer of merchandise**
+
+  (A) *Manufacturers and producers* — Drawback shall be allowed under paragraph (1) with respect to an article manufactured or produced using imported merchandise or other merchandise classifiable under the same 8-digit HTS subheading number as such imported merchandise only if the manufacturer or producer of the article received such imported merchandise or such other merchandise, directly or indirectly, from the importer.
+
+  (B) *Exporters and destroyers* — Drawback shall be allowed under paragraph (1) with respect to a manufactured or produced article that is exported or destroyed only if the exporter or destroyer received that article, directly or indirectly, from the manufacturer or producer.
+
+  (C) *Evidence of transfer* — Transfers of merchandise under subparagraph (A) and transfers of articles under subparagraph (B) may be evidenced by business records kept in the normal course of business and no additional certificates of transfer or manufacture shall be required.
+
+(3) **Submission of bill of materials or formula**
+
+  (A) *In general* — Drawback shall be allowed under paragraph (1) with respect to an article manufactured or produced using imported merchandise or other merchandise classifiable under the same 8-digit HTS subheading number as such imported merchandise only if the person making the drawback claim submits with the claim a bill of materials or formula identifying the merchandise and article by the 8-digit HTS subheading number and the quantity of the merchandise.
+
+  (B) *Bill of materials and formula defined* — In this paragraph, the terms “bill of materials” and “formula” mean records kept in the normal course of business that identify each component incorporated into a manufactured or produced article or that identify the quantity of each element, material, chemical, mixture, or other substance incorporated into a manufactured article.
+
+(4) **Special rule for sought chemical elements**
+
+  (A) *In general* — For purposes of paragraph (1), a sought chemical element may be—
+
+    (i) considered imported merchandise, or merchandise classifiable under the same 8-digit HTS subheading number as such imported merchandise, used in the manufacture or production of an article as described in paragraph (1); and
+
+    (ii) substituted for source material containing that sought chemical element, without regard to whether the sought chemical element and the source material are classifiable under the same 8-digit HTS subheading number, and apportioned quantitatively, as appropriate.
+
+  (B) *Sought chemical element defined* — In this paragraph, the term “sought chemical element” means an element listed in the Periodic Table of Elements that is imported into the United States or a chemical compound consisting of those elements, either separately in elemental form or contained in source material.
 
 **(c) Merchandise not conforming to sample or specifications**
 
@@ -793,14 +833,14 @@ Amendment by Pub. L. 87–456 effective with respect to articles entered, or wit
 
     (i) not conforming to sample or specifications, shipped without the consent of the consignee, or determined to be defective as of the time of importation, or
 
-    (ii) ultimately sold at retail by the importer, or the person who received the merchandise from the importer under a certificate of delivery, and for any reason returned to and accepted by the importer, or the person who received the merchandise from the importer under a certificate of delivery, and
+    (ii) ultimately sold at retail by the importer, or the person who received the merchandise from the importer, and for any reason returned to and accepted by the importer, or the person who received the merchandise from the importer, and
 
-  (D) which, within 3 years after the date of importation or withdrawal, as applicable, has been exported or destroyed under the supervision of the Customs Service,
-  the full amount of the duties paid upon such merchandise, less 1 percent, shall be refunded as drawback.
+  (D) which, within 5 years after the date of importation or withdrawal, as applicable, has been exported or destroyed under the supervision of U.S. Customs and Border Protection,
+  an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l) shall be refunded as drawback.
 
-(2) **Designation of import entries** — For purposes of paragraph (1)(C)(ii), drawback may be claimed by designating an entry of merchandise that was imported within 1 year before the date of exportation or destruction of the merchandise described in paragraph (1)(A) and (B) under the supervision of the Customs Service. The merchandise designated for drawback must be identified in the import documentation with the same eight-digit classification number and specific product identifier (such as part number, SKU, or product code) as the returned merchandise.
+(2) **Designation of import entries** — For purposes of paragraph (1)(C)(ii), drawback may be claimed by designating an entry of merchandise that was imported within 1 year before the date of exportation or destruction of the merchandise described in paragraph (1)(A) and (B) under the supervision of U.S. Customs and Border Protection. The merchandise designated for drawback must be identified in the import documentation with the same eight-digit classification number and specific product identifier (such as part number, SKU, or product code) as the returned merchandise.
 
-(3) **When drawback certificates not required** — For purposes of this subsection, drawback certificates are not required if the drawback claimant and the importer are the same party, or if the drawback claimant is a drawback successor to the importer as defined in subsection (s)(3) of this section.
+(3) **Evidence of transfers** — Transfers of merchandise under paragraph (1) may be evidenced by business records kept in the normal course of business and no additional certificates of transfer shall be required.
 
 **(d) Flavoring extracts; medicinal or toilet preparations; bottled distilled spirits and wines** Upon the exportation of flavoring extracts, medicinal or toilet preparations (including perfumery) manufactured or produced in the United States in part from domestic alcohol on which an internal-revenue tax has been paid, there shall be allowed a drawback equal in amount to the tax found to have been paid on the alcohol so used. Upon the exportation of bottled distilled spirits and wines manufactured or produced in the United States on which an internal-revenue tax has been paid or determined, there shall be allowed, under regulations to be prescribed by the Commissioner of Internal Revenue, with the approval of the Secretary of the Treasury, a drawback equal in amount to the tax found to have been paid or determined on such bottled distilled spirits and wines. In the case of distilled spirits, the preceding sentence shall not apply unless the claim for drawback is filed by the bottler or packager of the spirits and unless such spirits have been stamped or restamped, and marked, especially for export, under regulations prescribed by the Commissioner of Internal Revenue, with the approval of the Secretary of the Treasury.
 
@@ -812,26 +852,30 @@ Amendment by Pub. L. 87–456 effective with respect to articles entered, or wit
 
 **(h) Jet aircraft engines** Upon the exportation of jet aircraft engines manufactured or produced abroad that have been overhauled, repaired, rebuilt, or reconditioned in the United States with the use of imported merchandise, including parts, there shall be refunded, upon satisfactory proof that such imported merchandise has been so used, the duties which have been paid thereon, in amounts not less than $100.
 
-**(i) Time limitation on exportation** Unless otherwise provided for in this section, no drawback shall be allowed under the provisions of this section unless the completed article is exported, or destroyed under the supervision of the Customs Service, within five years after importation of the imported merchandise.
+**(i) Proof of exportation** A person claiming drawback under this section based on the exportation of an article shall provide proof of the exportation of the article. Such proof of exportation—
+
+(1) shall establish fully the date and fact of exportation and the identity of the exporter; and
+
+(2) may be established through the use of records kept in the normal course of business or through an electronic export system of the United States Government, as determined by the Commissioner of U.S. Customs and Border Protection.
 
 **(j) Unused merchandise drawback**
 
 (1) If imported merchandise, on which was paid any duty, tax, or fee imposed under Federal law upon entry or importation—
 
-  (A) is, before the close of the 3-year period beginning on the date of importation—
+  (A) is, before the close of the 5-year period beginning on the date of importation and before the drawback claim is filed—
 
     (i) exported, or
 
     (ii) destroyed under customs supervision; and
 
   (B) is not used within the United States before such exportation or destruction;
-  then upon such exportation or destruction 99 percent of the amount of each duty, tax, or fee so paid shall be refunded as drawback. The exporter (or destroyer) has the right to claim drawback under this paragraph, but may endorse such right to the importer or any intermediate party.
+  then upon such exportation or destruction an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l) shall be refunded as drawback. The exporter (or destroyer) has the right to claim drawback under this paragraph, but may endorse such right to the importer or any intermediate party.
 
-(2) Subject to paragraph (4), if there is, with respect to imported merchandise on which was paid any duty, tax, or fee imposed under Federal law upon entry or importation, any other merchandise (whether imported or domestic), that—
+(2) Subject to paragraphs (4), (5), and (6), if there is, with respect to imported merchandise on which was paid any duty, tax, or fee imposed under Federal law upon entry or importation, any other merchandise (whether imported or domestic), that—
 
-  (A) is commercially interchangeable with such imported merchandise;
+  (A) is classifiable under the same 8-digit HTS subheading number as such imported merchandise;
 
-  (B) is, before the close of the 3-year period beginning on the date of importation of the imported merchandise, either exported or destroyed under customs supervision; and
+  (B) is, before the close of the 5-year period beginning on the date of importation of the imported merchandise and before the drawback claim is filed, either exported or destroyed under customs supervision; and
 
   (C) before such exportation or destruction—
 
@@ -841,14 +885,14 @@ Amendment by Pub. L. 87–456 effective with respect to articles entered, or wit
 
       (I) is the importer of the imported merchandise, or
 
-      (II) received from the person who imported and paid any duty due on the imported merchandise a certificate of delivery transferring to the party the imported merchandise, commercially interchangeable merchandise, or any combination of imported and commercially interchangeable merchandise (and any such transferred merchandise, regardless of its origin, will be treated as the imported merchandise and any retained merchandise will be treated as domestic merchandise);
-  then, notwithstanding any other provision of law, upon the exportation or destruction of such other merchandise the amount of each such duty, tax, and fee paid regarding the imported merchandise shall be refunded as drawback under this subsection, but in no case may the total drawback on the imported merchandise, whether available under this paragraph or any other provision of law or any combination thereof, exceed 99 percent of that duty, tax, or fee. For purposes of subparagraph (A) of this paragraph, wine of the same color having a price variation not to exceed 50 percent between the imported wine and the exported wine shall be deemed to be commercially interchangeable.
+      (II) received the imported merchandise, other merchandise classifiable under the same 8-digit HTS subheading number as such imported merchandise, or any combination of such imported merchandise and such other merchandise, directly or indirectly from the person who imported and paid any duties, taxes, and fees imposed under Federal law upon importation or entry and due on the imported merchandise (and any such transferred merchandise, regardless of its origin, will be treated as the imported merchandise and any retained merchandise will be treated as domestic merchandise);
+  then, notwithstanding any other provision of law, upon the exportation or destruction of such other merchandise an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l) shall be refunded as drawback. Notwithstanding subparagraph (A), drawback shall be allowed under this paragraph with respect to wine if the imported wine and the exported wine are of the same color and the price variation between the imported wine and the exported wine does not exceed 50 percent. Transfers of merchandise may be evidenced by business records kept in the normal course of business and no additional certificates of transfer shall be required.
 
 (3) The performing of any operation or combination of operations (including, but not limited to, testing, cleaning, repacking, inspecting, sorting, refurbishing, freezing, blending, repairing, reworking, cutting, slitting, adjusting, replacing components, relabeling, disassembling, and unpacking), not amounting to manufacture or production for drawback purposes under the preceding provisions of this section on—
 
   (A) the imported merchandise itself in cases to which paragraph (1) applies, or
 
-  (B) the commercially interchangeable merchandise in cases to which paragraph (2) applies,
+  (B) merchandise classifiable under the same 8-digit HTS subheading number as such imported merchandise in cases to which paragraph (2) applies,
   shall not be treated as a use of that merchandise for purposes of applying paragraph (1)(B) or (2)(C).
 
 (4)
@@ -857,39 +901,111 @@ Amendment by Pub. L. 87–456 effective with respect to articles entered, or wit
 
   (B) Beginning on January 1, 2015, the exportation to Chile of merchandise that is fungible with and substituted for imported merchandise, other than merchandise described in paragraphs (1) through (5) of section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, shall not constitute an exportation for purposes of paragraph (2). The preceding sentence shall not be construed to permit the substitution of unused drawback under paragraph (2) of this subsection with respect to merchandise described in paragraph (2) of section 203(a) of the United States-Chile Free Trade Agreement Implementation Act.
 
-**(k) Use of domestic merchandise acquired in exchange for imported merchandise of same kind and quality**
+(5)
 
-(1) For purposes of subsections (a) and (b) of this section, the use of any domestic merchandise acquired in exchange for imported merchandise of the same kind and quality shall be treated as the use of such imported merchandise if no certificate of delivery is issued with respect to such imported merchandise.
+  (A) For purposes of paragraph (2) and except as provided in subparagraph (B), merchandise may not be substituted for imported merchandise for drawback purposes based on the 8-digit HTS subheading number if the article description for the 8-digit HTS subheading number under which the imported merchandise is classified begins with the term “other”.
 
-(2) For purposes of subsections (a) and (b) of this section, the use of any domestic merchandise acquired in exchange for a drawback product of the same kind and quality shall be treated as the use of such drawback product if no certificate of delivery or certificate of manufacture and delivery pertaining to such drawback product is issued, other than that which documents the product’s manufacture and delivery. As used in this paragraph, the term “drawback product” means any domestically produced product, manufactured with imported merchandise or any other merchandise (whether imported or domestic) of the same kind and quality, that is subject to drawback.
+  (B) In cases described in subparagraph (A), merchandise may be substituted for imported merchandise for drawback purposes if—
 
-**(l) Regulations** Allowance of the privileges provided for in this section shall be subject to compliance with such rules and regulations as the Secretary of the Treasury shall prescribe, which may include, but need not be limited to, the authority for the electronic submission of drawback entries and the designation of the person to whom any refund or payment of drawback shall be made.
+    (i) the other merchandise and such imported merchandise are classifiable under the same 10-digit HTS statistical reporting number; and
+
+    (ii) the article description for that 10-digit HTS statistical reporting number does not begin with the term “other”.
+
+(6)
+
+  (A) For purposes of paragraph (2), a drawback claimant may use the first 8 digits of the 10-digit Schedule B number for merchandise or an article to determine if the merchandise or article is classifiable under the same 8-digit HTS subheading number as the imported merchandise, without regard to whether the Schedule B number corresponds to more than one 8-digit HTS subheading number.
+
+  (B) In this paragraph, the term “Schedule B” means the Department of Commerce Schedule B, Statistical Classification of Domestic and Foreign Commodities Exported from the United States.
+
+**(k) Liability for drawback claims**
+
+(1) **In general** — Any person making a claim for drawback under this section shall be liable for the full amount of the drawback claimed.
+
+(2) **Liability of importers** — An importer shall be liable for any drawback claim made by another person with respect to merchandise imported by the importer in an amount equal to the lesser of—
+
+  (A) the amount of duties, taxes, and fees that the person claimed with respect to the imported merchandise; or
+
+  (B) the amount of duties, taxes, and fees that the importer authorized the other person to claim with respect to the imported merchandise.
+
+(3) **Joint and several liability** — Persons described in paragraphs (1) and (2) shall be jointly and severally liable for the amount described in paragraph (2).
+
+**(l) Regulations**
+
+(1) **In general** — Allowance of the privileges provided for in this section shall be subject to compliance with such rules and regulations as the Secretary of the Treasury shall prescribe.
+
+(2) **Calculation of drawback**
+
+  (A) *In general* — Not later than the date that is 2 years after February 24, 2016, the Secretary shall prescribe regulations for determining the calculation of amounts refunded as drawback under this section.
+
+  (B) *Claims with respect to unused merchandise* — The regulations required by subparagraph (A) for determining the calculation of amounts refunded as drawback under this section shall provide for a refund of equal to 99 percent of the duties, taxes, and fees paid on the imported merchandise, which were imposed under Federal law upon entry or importation of the imported merchandise, and may require the claim to be based upon the average per unit duties, taxes, and fees as reported on the entry summary line item or, if not reported on the entry summary line item, as otherwise allocated by U.S. Customs and Border Protection, except that where there is substitution of the merchandise, then—
+
+    (i) in the case of an article that is exported, the amount of the refund shall be equal to 99 percent of the lesser of—
+
+      (I) the amount of duties, taxes, and fees paid with respect to the imported merchandise; or
+
+      (II) the amount of duties, taxes, and fees that would apply to the exported article if the exported article were imported; and
+
+    (ii) in the case of an article that is destroyed, the amount of the refund shall be an amount that is—
+
+      (I) equal to 99 percent of the lesser of—
+
+        (aa) the amount of duties, taxes, and fees paid with respect to the imported merchandise; and
+
+        (bb) the amount of duties, taxes, and fees that would apply to the destroyed article if the destroyed article were imported; and
+
+      (II) reduced by the value of materials recovered during destruction as provided in subsection (x).
+
+  (C) *Claims with respect to manufactured articles into which imported or substitute merchandise is incorporated* — The regulations required by subparagraph (A) for determining the calculation of amounts refunded as drawback under this section shall provide for a refund of equal to 99 percent of the duties, taxes, and fees paid on the imported merchandise incorporated into an article that is exported or destroyed, which were imposed under Federal law upon entry or importation of the imported merchandise incorporated into an article that is exported or destroyed, and may require the claim to be based upon the average per unit duties, taxes, and fees as reported on the entry summary line item, or if not reported on the entry summary line item, as otherwise allocated by U.S. Customs and Border Protection, except that where there is substitution of the imported merchandise, then—
+
+    (i) in the case of an article that is exported, the amount of the refund shall be equal to 99 percent of the lesser of—
+
+      (I) the amount of duties, taxes, and fees paid with respect to the imported merchandise; or
+
+      (II) the amount of duties, taxes, and fees that would apply to the substituted merchandise if the substituted merchandise were imported; and
+
+    (ii) in the case of an article that is destroyed, the amount of the refund shall be an amount that is—
+
+      (I) equal to 99 percent of the lesser of—
+
+        (aa) the amount of duties, taxes, and fees paid with respect to the imported merchandise; and
+
+        (bb) the amount of duties, taxes, and fees that would apply to the substituted merchandise if the substituted merchandise were imported; and
+
+      (II) reduced by the value of materials recovered during destruction as provided in subsection (x).
+
+  (D) *Exceptions* — The calculations set forth in subparagraphs (B) and (C) shall not apply to claims for wine based on subsection (j)(2) and claims based on subsection (p) and instead—
+
+    (i) for any drawback claim for wine based on subsection (j)(2), the amount of the refund shall be equal to 99 percent of the duties, taxes, and fees paid with respect to the imported merchandise, without regard to the limitations in subparagraphs (B)(i) and (B)(ii); and
+
+    (ii) for any drawback claim based on subsection (p), the amount of the refund shall be subject to the limitations set out in paragraph (4) of that subsection and without regard to subparagraph (B)(i), (B)(ii), (C)(i), or (C)(ii).
+
+(3) **Status reports on regulations** — Not later than the date that is one year after February 24, 2016, and annually thereafter until the regulations required by paragraph (2) are final, the Secretary shall submit to Congress a report on the status of those regulations.
 
 **(m) Source of payment** Any drawback of duties that may be authorized under the provisions of this chapter shall be paid from the customs receipts of Puerto Rico, if the duties were originally paid into the Treasury of Puerto Rico.
 
 **(n) Refunds, waivers, or reductions under certain free trade agreements**
 
-(1) For purposes of this subsection and subsection (o) of this section—
+(1) For purposes of this subsection and subsection (o)—
 
   (A) the term “NAFTA Act” means the North American Free Trade Agreement Implementation Act [[19 U.S.C. 3301](./chapter-021-north-american-free-trade.md#section-3301) et seq.];
 
   (B) the terms “NAFTA country” and “good subject to NAFTA drawback” have the same respective meanings that are given such terms in sections 2(4) and 203(a) of the NAFTA Act [[19 U.S.C. 3301(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim), 3333(a)];
 
-  (C) a refund, waiver, or reduction of duty under paragraph (2) of this subsection or paragraph (1) of subsection (o) of this section is subject to [section 1508(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/2/B&num=0&edition=prelim); and
+  (C) a refund, waiver, or reduction of duty under paragraph (2) of this subsection or paragraph (1) of subsection (o) is subject to [section 1508(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/2/B&num=0&edition=prelim); and
 
   (D) the term “good subject to Chile FTA drawback” has the meaning given that term in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act.
 
-(2) For purposes of subsections (a), (b), (f), (h), (p), and (q) of this section, if an article that is exported to a NAFTA country is a good subject to NAFTA drawback, no customs duties on the good may be refunded, waived, or reduced in an amount that exceeds the lesser of—
+(2) For purposes of subsections (a), (b), (f), (h), (p), and (q), if an article that is exported to a NAFTA country is a good subject to NAFTA drawback, no customs duties on the good may be refunded, waived, or reduced in an amount that exceeds the lesser of—
 
   (A) the total amount of customs duties paid or owed on the good on importation into the United States, or
 
   (B) the total amount of customs duties paid on the good to the NAFTA country.
 
-(3) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsections (a), (b), (f), (h), (j)(2), and (q) of this section, the shipment to Canada during the period such Agreement is in operation of an article made from or substituted for, as appropriate, a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988 does not constitute an exportation.
+(3) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsections (a), (b), (f), (h), (j)(2), and (q), the shipment to Canada during the period such Agreement is in operation of an article made from or substituted for, as appropriate, a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988 does not constitute an exportation.
 
 (4)
 
-  (A) For purposes of subsections (a), (b), (f), (h), (j)(2), (p), and (q) of this section, if an article that is exported to Chile is a good subject to Chile FTA drawback, no customs duties on the good may be refunded, waived, or reduced, except as provided in subparagraph (B).
+  (A) For purposes of subsections (a), (b), (f), (h), (j)(2), (p), and (q), if an article that is exported to Chile is a good subject to Chile FTA drawback, no customs duties on the good may be refunded, waived, or reduced, except as provided in subparagraph (B).
 
   (B) The customs duties referred to in subparagraph (A) may be refunded, waived, or reduced by—
 
@@ -903,16 +1019,16 @@ Amendment by Pub. L. 87–456 effective with respect to articles entered, or wit
 
 **(o) Special rules for certain vessels and imported materials**
 
-(1) For purposes of subsection (g) of this section, if—
+(1) For purposes of subsection (g), if—
 
   (A) a vessel is built for the account and ownership of a resident of a NAFTA country or the government of a NAFTA country, and
 
   (B) imported materials that are used in the construction and equipment of the vessel are goods subject to NAFTA drawback,
   the amount of customs duties refunded, waived, or reduced on such materials may not exceed the lesser of the total amount of customs duties paid or owed on the materials on importation into the United States or the total amount of customs duties paid on the vessel to the NAFTA country.
 
-(2) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsection (g) of this section, vessels built for Canadian account and ownership, or for the Government of Canada, may not be considered to be built for any foreign account and ownership, or for the government of any foreign country, except to the extent that the materials in such vessels are drawback eligible goods under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988.
+(2) If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, then for purposes of subsection (g), vessels built for Canadian account and ownership, or for the Government of Canada, may not be considered to be built for any foreign account and ownership, or for the government of any foreign country, except to the extent that the materials in such vessels are drawback eligible goods under section 204(a) of the United States-Canada Free-Trade Implementation Act of 1988.
 
-(3) For purposes of subsection (g) of this section, if—
+(3) For purposes of subsection (g), if—
 
   (A) a vessel is built for the account and ownership of a resident of Chile or the Government of Chile, and
 
@@ -946,7 +1062,7 @@ Amendment by Pub. L. 87–456 effective with respect to articles entered, or wit
 
     (i) manufactured or produced a qualified article in a quantity equal to or greater than the quantity of the exported article,
 
-    (ii) purchased or exchanged, directly or indirectly, a qualified article from a manufacturer or producer described in subsection (a) or (b) of this section in a quantity equal to or greater than the quantity of the exported article,
+    (ii) purchased or exchanged, directly or indirectly, a qualified article from a manufacturer or producer described in subsection (a) or (b) in a quantity equal to or greater than the quantity of the exported article,
 
     (iii) imported a qualified article in a quantity equal to or greater than the quantity of the exported article, or
 
@@ -970,73 +1086,75 @@ Amendment by Pub. L. 87–456 effective with respect to articles entered, or wit
 
     (i) described in—
 
-      (I) headings 2707, 2708, 2709.00, 2710, 2711, 2712, 2713, 2714, 2715, 2901, and 2902, and subheadings 2903.21.00, 2909.19.14, 2917.36, 2917.39.04, 2917.39.15, 2926.10.00, 3811.21.00, and 3811.90.00 of the Harmonized Tariff Schedule of the United States, or
+      (I) headings 2707, 2708, 2709.00, 2710, 2711, 2712, 2713, 2714, 2715, 2901, and 2902, and subheadings 2903.21.00, 2909.19.14, 2917.36, 2917.39.04, 2917.39.15, 2926.10.00, 3811.21.00, and 3811.90.00 of the HTS, or
 
-      (II) headings 3901 through 3914 of such Schedule (as such headings apply to the primary forms provided under Note 6 to chapter 39 of the Harmonized Tariff Schedule of the United States), and
+      (II) headings 3901 through 3914 of such Schedule (as such headings apply to the primary forms provided under Note 6 to chapter 39 of the HTS), and
 
     (ii) which is—
 
-      (I) manufactured or produced as described in subsection (a) or (b) of this section from crude petroleum or a petroleum derivative,
+      (I) manufactured or produced as described in subsection (a) or (b) from crude petroleum or a petroleum derivative,
 
       (II) imported duty-paid, or
 
-      (III) an article of the same kind and quality as described in subparagraph (B), or any combination thereof, that is transferred, as so certified in a certificate of delivery or certificate of manufacture and delivery in a quantity not greater than the quantity of articles purchased or exchanged.
-    The transferred merchandise described in subclause (III), regardless of its origin, so designated on the certificate of delivery or certificate of manufacture and delivery shall be the qualified article for purposes of this section. A party who issues a certificate of delivery, or certificate of manufacture and delivery, shall also certify to the Commissioner of Customs that it has not, and will not, issue such certificates for a quantity greater than the amount eligible for drawback and that appropriate records will be maintained to demonstrate that fact.
+      (III) an article of the same kind and quality as described in subparagraph (B), or any combination thereof, that is transferred in a quantity not greater than the quantity of articles purchased or exchanged.
+    The transferred merchandise described in subclause (III), regardless of its origin shall be the qualified article for purposes of this section. The party transferring the merchandise shall maintain records kept in the normal course of business to demonstrate the transfer.
 
-  (B) An article, including an imported, manufactured, substituted, or exported article, is of the same kind and quality as the qualified article for which it is substituted under this subsection if it is a product that is commercially interchangeable with or referred to under the same eight-digit classification of the Harmonized Tariff Schedule of the United States as the qualified article. If an article is referred to under the same eight-digit classification of the Harmonized Tariff Schedule of the United States as the qualified article on January 1, 2000, then whether or not the article has been reclassified under another eight-digit classification after January 1, 2000, the article shall be deemed to be an article that is referred to under the same eight-digit classification of such Schedule as the qualified article for purposes of the preceding sentence.
+  (B) An article, including an imported, manufactured, substituted, or exported article, is of the same kind and quality as the qualified article for which it is substituted under this subsection if it is a product that is commercially interchangeable with or referred to under the same eight-digit classification of the HTS as the qualified article. If an article is referred to under the same eight-digit classification of the HTS as the qualified article on January 1, 2000, then whether or not the article has been reclassified under another eight-digit classification after January 1, 2000, the article shall be deemed to be an article that is referred to under the same eight-digit classification of such Schedule as the qualified article for purposes of the preceding sentence.
 
   (C) The term “drawback claimant” means the exporter of the exported article or the refiner, producer, or importer of either the qualified article or the exported article. Any person eligible to file a drawback claim under this subparagraph may designate another person to file such claim.
 
 (4) **Limitation on drawback** — The amount of drawback payable under this subsection shall not exceed the amount of drawback that would be attributable to the article—
 
-  (A) manufactured or produced under subsection (a) or (b) of this section by the manufacturer or producer described in clause (i) or (ii) of paragraph (2)(A), or
+  (A) manufactured or produced under subsection (a) or (b) by the manufacturer or producer described in clause (i) or (ii) of paragraph (2)(A), or
 
-  (B) imported under clause (iii) or (iv) of paragraph (2)(A) had the claim qualified for drawback under subsection (j) of this section.
+  (B) imported under clause (iii) or (iv) of paragraph (2)(A) had the claim qualified for drawback under subsection (j).
 
-(5) **Special rules for ethyl alcohol** — For purposes of this subsection, any duty paid under subheading 9901.00.50 of the Harmonized Tariff Schedule of the United States on imports of ethyl alcohol or a mixture of ethyl alcohol may not be refunded if the exported article upon which a drawback claim is based does not contain ethyl alcohol or a mixture of ethyl alcohol.
+(5) **Special rules for ethyl alcohol** — For purposes of this subsection, any duty paid under subheading 9901.00.50 of the HTS on imports of ethyl alcohol or a mixture of ethyl alcohol may not be refunded if the exported article upon which a drawback claim is based does not contain ethyl alcohol or a mixture of ethyl alcohol.
 
 **(q) Packaging material**
 
-(1) **Packaging material under subsections (c) and (j)** — Packaging material, whether imported and duty paid, and claimed for drawback under either subsection (c) or (j)(1) of this section, or imported and duty paid, or substituted, and claimed for drawback under subsection (j)(2) of this section, shall be eligible for drawback, upon exportation, of 99 percent of any duty, tax, or fee imposed under Federal law on such imported material.
+(1) **Packaging material under subsections (c) and (j)** — Packaging material, whether imported and duty paid, and claimed for drawback under either subsection (c) or (j)(1), or imported and duty paid, or substituted, and claimed for drawback under subsection (j)(2), shall be eligible for drawback, upon exportation, in an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l).
 
-(2) **Packaging material under subsections (a) and (b)** — Packaging material that is manufactured or produced under subsection (a) or (b) of this section shall be eligible for drawback, upon exportation, of 99 percent of any duty, tax, or fee imposed under Federal law on the imported or substituted merchandise used to manufacture or produce such material.
+(2) **Packaging material under subsections (a) and (b)** — Packaging material that is manufactured or produced under subsection (a) or (b) shall be eligible for drawback, upon exportation, in an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l).
 
-(3) **Contents** — Packaging material described in paragraphs (1) and (2) shall be eligible for drawback whether or not they contain articles or merchandise, and whether or not any articles or merchandise they contain are eligible for drawback.
+(3) **Contents** — Packaging material described in paragraphs (1) and (2) shall be eligible for drawback whether or not it contains articles or merchandise, and whether or not any articles or merchandise it contains are eligible for drawback.
 
-(4) **Employing packaging material for its intended purpose prior to exportation** — The use of any packaging material for its intended purpose prior to exportation shall not be treated as a use of such material prior to exportation for purposes of applying subsection (a), (b), or (c) of this section, or paragraph (1)(B) or (2)(C)(i) of subsection (j) of this section.
+(4) **Employing packaging material for its intended purpose prior to exportation** — The use of any packaging material for its intended purpose prior to exportation shall not be treated as a use of such material prior to exportation for purposes of applying subsection (a), (b), or (c), or paragraph (1)(B) or (2)(C)(i) of subsection (j).
 
 **(r) Filing drawback claims**
 
-(1) A drawback entry and all documents necessary to complete a drawback claim, including those issued by the Customs Service, shall be filed or applied for, as applicable, within 3 years after the date of exportation or destruction of the articles on which drawback is claimed, except that any landing certificate required by regulation shall be filed within the time limit prescribed in such regulation. Claims not completed within the 3-year period shall be considered abandoned. No extension will be granted unless it is established that the Customs Service was responsible for the untimely filing.
+(1) A drawback entry shall be filed or applied for, as applicable, not later than 5 years after the date on which merchandise on which drawback is claimed was imported. Claims not completed within the 5-year period shall be considered abandoned. No extension will be granted unless it is established that U.S. Customs and Border Protection was responsible for the untimely filing.
 
 (2) A drawback entry for refund filed pursuant to any subsection of this section shall be deemed filed pursuant to any other subsection of this section should it be determined that drawback is not allowable under the entry as originally filed but is allowable under such other subsection.
 
 (3)
 
-  (A) The Customs Service may, notwithstanding the limitation set forth in paragraph (1), extend the time for filing a drawback claim for a period not to exceed 18 months, if—
+  (A) U.S. Customs and Border Protection may, notwithstanding the limitation set forth in paragraph (1), extend the time for filing a drawback claim for a period not to exceed 18 months, if—
 
-    (i) the claimant establishes to the satisfaction of the Customs Service that the claimant was unable to file the drawback claim because of an event declared by the President to be a major disaster on or after January 1, 1994; and
+    (i) the claimant establishes to the satisfaction of U.S. Customs and Border Protection that the claimant was unable to file the drawback claim because of an event declared by the President to be a major disaster on or after January 1, 1994; and
 
-    (ii) the claimant files a request for such extension with the Customs Service—
+    (ii) the claimant files a request for such extension with U.S. Customs and Border Protection—
 
-      (I) within 1 year from the last day of the 3-year period referred to in paragraph (1), or
+      (I) within 1 year from the last day of the 5-year period referred to in paragraph (1), or
 
       (II) within 1 year after October 11, 1996,
       whichever is later.
 
-  (B) If an extension is granted with respect to a request filed under this paragraph, the periods of time for retaining records set forth in subsection (t) of this section and [section 1508(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/c/3&num=0&edition=prelim) shall be extended for an additional 18 months or, in a case to which subparagraph (A)(ii) applies, for a period not to exceed 1 year from the date the claim is filed.
+  (B) If an extension is granted with respect to a request filed under this paragraph, the period of time for retaining records set forth in [section 1508(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/c/3&num=0&edition=prelim) shall be extended for an additional 18 months or, in a case to which subparagraph (A)(ii) applies, for a period not to exceed 1 year from the date the claim is filed.
 
   (C) For purposes of this paragraph, the term “major disaster” has the meaning given that term in [section 5122(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5122/2&num=0&edition=prelim).
 
+(4) All drawback claims filed on and after the date that is 2 years after February 24, 2016, shall be filed electronically.
+
 **(s) Designation of merchandise by successor**
 
-(1) For purposes of subsection (b) of this section, a drawback successor may designate imported merchandise used by the predecessor before the date of succession as the basis for drawback on articles manufactured by the drawback successor after the date of succession.
+(1) For purposes of subsection (b), a drawback successor may designate imported merchandise used by the predecessor before the date of succession as the basis for drawback on articles manufactured by the drawback successor after the date of succession.
 
-(2) For purposes of subsection (j)(2) of this section, a drawback successor may designate—
+(2) For purposes of subsection (j)(2), a drawback successor may designate—
 
   (A) imported merchandise which the predecessor, before the date of succession, imported; or
 
-  (B) imported merchandise, commercially interchangeable merchandise, or any combination of imported and commercially interchangeable merchandise for which the predecessor received, before the date of succession, from the person who imported and paid any duty due on the imported merchandise a certificate of delivery transferring to the predecessor such merchandise;
+  (B) subject to paragraphs (5) and (6) of subsection (j), imported merchandise, other merchandise classifiable under the same 8-digit HTS subheading number as such imported merchandise, or any combination of such imported merchandise and such other merchandise, that the predecessor received, before the date of succession, from the person who imported and paid any duties, taxes, and fees due on the imported merchandise;
   as the basis for drawback on merchandise possessed by the drawback successor after the date of succession.
 
 (3) For purposes of this subsection, the term “drawback successor” means an entity to which another entity (in this subsection referred to as the “predecessor”) has transferred by written agreement, merger, or corporate resolution—
@@ -1045,13 +1163,9 @@ Amendment by Pub. L. 87–456 effective with respect to articles entered, or wit
 
   (B) the assets and other business interests of a division, plant, or other business unit of such predecessor, but only if in such transfer the value of the transferred realty, personalty, and intangibles (other than drawback rights, inchoate or otherwise) exceeds the value of all transferred drawback rights, inchoate or otherwise.
 
-(4) No drawback shall be paid under this subsection until either the predecessor or the drawback successor (who shall also certify that it has the predecessor’s records) certifies that—
+(4) No drawback shall be paid under this subsection until either the predecessor or the drawback successor (who shall also certify that it has the predecessor’s records) certifies that the transferred merchandise was not and will not be claimed by the predecessor.
 
-  (A) the transferred merchandise was not and will not be claimed by the predecessor, and
-
-  (B) the predecessor did not and will not issue any certificate to any other person that would enable that person to claim drawback.
-
-**(t) Drawback certificates** Any person who issues a certificate which would enable another person to claim drawback shall be subject to the recordkeeping provisions of this chapter, with the retention period beginning on the date that such certificate is issued.
+**(t) Repealed. Pub. L. 114–125, title IX, § 906(l), Feb. 24, 2016, 130 Stat. 233**
 
 **(u) Eligibility of entered or withdrawn merchandise** Imported merchandise that has not been regularly entered or withdrawn for consumption shall not satisfy any requirement for use, exportation, or destruction under this section.
 
@@ -1059,13 +1173,21 @@ Amendment by Pub. L. 87–456 effective with respect to articles entered, or wit
 
 **(w) Limited applicability for certain agricultural products**
 
-(1) **In general** — No drawback shall be available with respect to an agricultural product subject to the over-quota rate of duty established under a tariff-rate quota, except pursuant to subsection (j)(1) of this section.
+(1) **In general** — No drawback shall be available with respect to an agricultural product subject to the over-quota rate of duty established under a tariff-rate quota, except pursuant to subsection (j)(1).
 
-(2) **Application to tobacco** — Notwithstanding paragraph (1), drawback shall also be available pursuant to subsection (a) of this section with respect to any tobacco subject to the over-quota rate of duty established under a tariff-rate quota.
+(2) **Application to tobacco** — Notwithstanding paragraph (1), drawback shall also be available pursuant to subsection (a) with respect to any tobacco subject to the over-quota rate of duty established under a tariff-rate quota.
 
-**(x) Drawbacks for recovered materials** For purposes of subsections (a), (b), and (c) of this section, the term “destruction” includes a process by which materials are recovered from imported merchandise or from an article manufactured from imported merchandise. In determining the amount of duties to be refunded as drawback to a claimant under this subsection, the value of recovered materials (including the value of any tax benefit or royalty payment) that accrues to the drawback claimant shall be deducted from the value of the imported merchandise that is destroyed, or from the value of the merchandise used, or designated as used, in the manufacture of the article.
+**(x) Drawbacks for recovered materials** For purposes of subsections (a), (b), (c), and (j), the term “destruction” includes a process by which materials are recovered from imported merchandise or from an article manufactured from imported merchandise. In determining the amount of duties to be refunded as drawback to a claimant under this subsection, the value of recovered materials (including the value of any tax benefit or royalty payment) that accrues to the drawback claimant shall be deducted from the value of the imported merchandise that is destroyed, or from the value of the merchandise used, or designated as used, in the manufacture of the article.
 
-**(y) Articles shipped to the United States insular possessions** Articles described in subsection (j)(1) of this section shall be eligible for drawback under this section if duty was paid on the merchandise upon importation into the United States and the person claiming the drawback demonstrates that the merchandise has entered the customs territory of the United States Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Guam, Canton Island, Enderbury Island, Johnston Island, or Palmyra Island.
+**(y) Articles shipped to the United States insular possessions** Articles described in subsection (j)(1) shall be eligible for drawback under this section if duty was paid on the merchandise upon importation into the United States and the person claiming the drawback demonstrates that the merchandise has entered the customs territory of the United States Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Guam, Canton Island, Enderbury Island, Johnston Island, or Palmyra Island.
+
+**(z) Definitions** In this section:
+
+(1) **Directly** — The term “directly” means a transfer of merchandise or an article from one person to another person without any intermediate transfer.
+
+(2) **HTS** — The term “HTS” means the Harmonized Tariff Schedule of the United States.
+
+(3) **Indirectly** — The term “indirectly” means a transfer of merchandise or an article from one person to another person with one or more intermediate transfers.
 
 ### Statutory Notes
 
@@ -1081,7 +1203,7 @@ The North American Free Trade Agreement Implementation Act, referred to in subse
 
 Section 204 of the United States-Canada Free-Trade Agreement Implementation Act of 1988, referred to in subsecs. (n)(3) and (o)(2), is section 204 of Pub. L. 100–449, which is set out in a note under [section 2112 of this title](./chapter-012-trade-act-of-1974.md#section-2112).
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (p)(3)(A)(i), (B), (5), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (z)(2), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -1102,6 +1224,86 @@ R.S. § 3048, which was not repealed, read as follows: “So much money as may b
 Permanent appropriations to pay debentures and other charges arising from duties, drawbacks, bounties, and allowances were also contained in R.S. § 3689, incorporated in section 711 of former Title 31, Money and Finance, prior to repeal effective July 1, 1935, by act June 26, 1934, ch. 756, §§ 1, 2, 48 Stat. 1225.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–125, § 906(a), substituted “an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l) shall be refunded as drawback, except that” for “the full amount of the duties paid upon the merchandise so used shall be refunded as drawback, less 1 per centum of such duties, except that such”.
+
+Subsec. (b). Pub. L. 114–125, § 906(b)(1), (6), designated existing provisions as par. (1), inserted heading, and added pars. (2) to (4).
+
+Subsec. (b)(1). Pub. L. 114–125, § 906(b)(2)–(5), substituted “or merchandise classifiable under the same 8-digit HTS subheading number as such imported merchandise is” for “and any other merchandise (whether imported or domestic) of the same kind and quality are”, “5 years from the date of importation of such imported merchandise” for “three years from the receipt of such imported merchandise by the manufacturer or producer of such articles”, and “an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l), but only if those articles have not been used prior to such exportation or destruction.” for “an amount of drawback equal tothat which would have been allowable had the merchandise used therein been imported, but only if those articles have not been used prior to such exportation or destruction; but the total amount of drawback allowed upon the exportation or destruction under customs supervision of such articles, together with the total amount of drawback allowed in respect of such imported merchandise under any other provision of law, shall not exceed 99 per centum of the duty paid on such imported merchandise.”
+
+Subsec. (c)(1). Pub. L. 114–125, § 906(c)(1)(C), substituted “an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l)” for “the full amount of the duties paid upon such merchandise, less 1 percent,” in concluding provisions.
+
+Subsec. (c)(1)(C)(ii). Pub. L. 114–125, § 906(c)(1)(A), struck out “under a certificate of delivery” after “from the importer” in two places.
+
+Subsec. (c)(1)(D). Pub. L. 114–125, § 906(c)(1)(B), substituted “5 years” for “3 years” and “U.S. Customs and Border Protection” for “the Customs Service”.
+
+Subsec. (c)(2). Pub. L. 114–125, § 906(c)(2), substituted “U.S. Customs and Border Protection” for “the Customs Service”.
+
+Subsec. (c)(3). Pub. L. 114–125, § 906(c)(3), amended par. (3) generally. Prior to amendment, text read as follows: “For purposes of this subsection, drawback certificates are not required if the drawback claimant and the importer are the same party, or if the drawback claimant is a drawback successor to the importer as defined in subsection (s)(3).”
+
+Subsec. (i). Pub. L. 114–125, § 906(d), amended subsec. (i) generally. Prior to amendment, text read as follows: “Unless otherwise provided for in this section, no drawback shall be allowed under the provisions of this section unless the completed article is exported, or destroyed under the supervision of the Customs Service, within five years after importation of the imported merchandise.”
+
+Subsec. (j)(1). Pub. L. 114–125, § 906(e)(1)(B), substituted “an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l)” for “99 percent of the amount of each duty, tax, or fee so paid” in concluding provisions.
+
+Subsec. (j)(1)(A). Pub. L. 114–125, § 906(e)(1)(A), in introductory provisions, substituted “5-year” for “3-year” and inserted “and before the drawback claim is filed” after “the date of importation”.
+
+Subsec. (j)(2). Pub. L. 114–125, § 906(e)(2)(E), in concluding provisions, substituted “an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l) shall be refunded as drawback” for “the amount of each such duty, tax, and fee paid regarding the imported merchandise shall be refunded as drawback under this subsection, but in no case may the total drawback on the imported merchandise, whether available under this paragraph or any other provision of law or any combination thereof, exceed 99 percent of that duty, tax, or fee” and “Notwithstanding subparagraph (A), drawback shall be allowed under this paragraph with respect to wine if the imported wine and the exported wine are of the same color and the price variation between the imported wine and the exported wine does not exceed 50 percent. Transfers of merchandise may be evidenced by business records kept in the normal course of business and no additional certificates of transfer shall be required.” for “For purposes of subparagraph (A) of this paragraph, wine of the same color having a price variation not to exceed 50 percent between the imported wine and the exported wine shall be deemed to be commercially interchangeable.”
+
+Pub. L. 114–125, § 906(e)(2)(A), substituted “paragraphs (4), (5), and (6)” for “paragraph (4)” in introductory provisions.
+
+Subsec. (j)(2)(A). Pub. L. 114–125, § 906(e)(2)(B), substituted “classifiable under the same 8-digit HTS subheading number as” for “commercially interchangeable with”.
+
+Subsec. (j)(2)(B). Pub. L. 114–125, § 906(e)(2)(C), substituted “5-year” for “3-year” and inserted “and before the drawback claim is filed” after “the imported merchandise”.
+
+Subsec. (j)(2)(C)(ii)(II). Pub. L. 114–125, § 906(e)(2)(D), added subcl. (II) and struck out former subcl. (II) which read as follows: “received from the person who imported and paid any duty due on the imported merchandise a certificate of delivery transferring to the party the imported merchandise, commercially interchangeable merchandise, or any combination of imported and commercially interchangeable merchandise (and any such transferred merchandise, regardless of its origin, will be treated as the imported merchandise and any retained merchandise will be treated as domestic merchandise);”.
+
+Subsec. (j)(3)(B). Pub. L. 114–125, § 906(e)(3), substituted “merchandise classifiable under the same 8-digit HTS subheading number as such imported merchandise” for “the commercially interchangeable merchandise”.
+
+Subsec. (j)(5), (6). Pub. L. 114–125, § 906(e)(4), added pars. (5) and (6).
+
+Subsec. (k). Pub. L. 114–125, § 906(f), amended subsec. (k) generally. Prior to amendment, text read as follows:
+
+“(1) For purposes of subsections (a) and (b), the use of any domestic merchandise acquired in exchange for imported merchandise of the same kind and quality shall be treated as the use of such imported merchandise if no certificate of delivery is issued with respect to such imported merchandise.
+
+“(2) For purposes of subsections (a) and (b), the use of any domestic merchandise acquired in exchange for a drawback product of the same kind and quality shall be treated as the use of such drawback product if no certificate of delivery or certificate of manufacture and delivery pertaining to such drawback product is issued, other than that which documents the product’s manufacture and delivery. As used in this paragraph, the term “drawback product” means any domestically produced product, manufactured with imported merchandise or any other merchandise (whether imported or domestic) of the same kind and quality, that is subject to drawback.”
+
+Subsec. (l). Pub. L. 114–125, § 906(g), amended subsec. (l) generally. Prior to amendment, text read as follows: “Allowance of the privileges provided for in this section shall be subject to compliance with such rules and regulations as the Secretary of the Treasury shall prescribe, which may include, but need not be limited to, the authority for the electronic submission of drawback entries and the designation of the person to whom any refund or payment of drawback shall be made.”
+
+Subsec. (p). Pub. L. 114–125, § 906(h)(1), substituted “HTS” for “Harmonized Tariff Schedule of the United States” wherever appearing.
+
+Subsec. (p)(3)(A). Pub. L. 114–125, § 906(h)(2)(B), in concluding provisions, struck out “, so designated on the certificate of delivery or certificate of manufacture and delivery” after “origin” and substituted “The party transferring the merchandise shall maintain records kept in the normal course of business to demonstrate the transfer.” for “A party who issues a certificate of delivery, or certificate of manufacture and delivery, shall also certify to the Commissioner of Customs that it has not, and will not, issue such certificates for a quantity greater than the amount eligible for drawback and that appropriate records will be maintained to demonstrate that fact.”
+
+Subsec. (p)(3)(A)(ii)(III). Pub. L. 114–125, § 906(h)(2)(A), struck out “, as so certified in a certificate of delivery or certificate of manufacture and delivery” after “transferred”.
+
+Subsec. (q)(1). Pub. L. 114–125, § 906(i)(1), substituted “in an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l)” for “of 99 percent of any duty, tax, or fee imposed under Federal law on such imported material”.
+
+Subsec. (q)(2). Pub. L. 114–125, § 906(i)(2), substituted “in an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l)” for “of 99 percent of any duty, tax, or fee imposed under Federal law on the imported or substituted merchandise used to manufacture or produce such material”.
+
+Subsec. (q)(3). Pub. L. 114–125, § 906(i)(3), substituted “it contains” for “they contain” in two places.
+
+Subsec. (r)(1). Pub. L. 114–125, § 906(j)(1), substituted “A drawback entry shall be filed or applied for, as applicable, not later than 5 years after the date on which merchandise on which drawback is claimed was imported.” for “A drawback entry and all documents necessary to complete a drawback claim, including those issued by the Customs Service, shall be filed or applied for, as applicable, within 3 years after the date of exportation or destruction of the articles on which drawback is claimed, except that any landing certificate required by regulation shall be filed within the time limit prescribed in such regulation.”, “5-year” for “3-year”, and “U.S. Customs and Border Protection” for “the Customs Service”.
+
+Subsec. (r)(3)(A). Pub. L. 114–125, § 906(j)(2)(A)(i), (ii), substituted “U.S. Customs and Border Protection” for “The Customs Service” in introductory provisions and “U.S. Customs and Border Protection” for “the Customs Service” in cls. (i) and (ii).
+
+Subsec. (r)(3)(A)(ii)(I). Pub. L. 114–125, § 906(j)(2)(A)(iii), substituted “5-year” for “3-year”.
+
+Subsec. (r)(3)(B). Pub. L. 114–125, § 906(j)(2)(B), substituted “the period of time for retaining records set forth in” for “the periods of time for retaining records set forth in subsection (t) of this section and”.
+
+Subsec. (r)(4). Pub. L. 114–125, § 906(j)(3), added par. (4).
+
+Subsec. (s)(2)(B). Pub. L. 114–125, § 906(k)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “imported merchandise, commercially interchangeable merchandise, or any combination of imported and commercially interchangeable merchandise for which the predecessor received, before the date of succession, from the person who imported and paid any duty due on the imported merchandise a certificate of delivery transferring to the predecessor such merchandise;”.
+
+Subsec. (s)(4). Pub. L. 114–125, § 906(k)(2), substituted “certifies that the transferred merchandise was not and will not be claimed by the predecessor.” for “certifies that—
+
+“(A) the transferred merchandise was not and will not be claimed by the predecessor, and
+
+“(B) the predecessor did not and will not issue any certificate to any other person that would enable that person to claim drawback.”
+
+Subsec. (t). Pub. L. 114–125, § 906(l), struck out subsec. (t). Text read as follows: “Any person who issues a certificate which would enable another person to claim drawback shall be subject to the recordkeeping provisions of this chapter, with the retention period beginning on the date that such certificate is issued.”
+
+Subsec. (x). Pub. L. 114–125, § 906(m), substituted “(c), and (j)” for “and (c)”.
+
+Subsec. (z). Pub. L. 114–125, § 906(n), added subsec. (z).
+
 2008—Subsec. (j)(2). Pub. L. 110–246, § 15421(a), inserted at end of concluding provisions “For purposes of subparagraph (A) of this paragraph, wine of the same color having a price variation not to exceed 50 percent between the imported wine and the exported wine shall be deemed to be commercially interchangeable.”
 
 Subsec. (p)(5). Pub. L. 110–246, § 15334(a), added par. (5).
@@ -1168,7 +1370,7 @@ Subsec. (p)(3)(B). Pub. L. 106–36, § 2420(c)(2), substituted “article, incl
 
 Subsec. (p)(3)(C). Pub. L. 106–36, § 2420(c)(3), substituted “either the qualified article or the exported article.” for “such article.”
 
-Subsec. (p)(4)(B). Pub. L. 106–36, § 2420(d), inserted “had the claim qualified for drawback under subsection (j) of this section” before period at end.
+Subsec. (p)(4)(B). Pub. L. 106–36, § 2420(d), inserted “had the claim qualified for drawback under subsection (j)” before period at end.
 
 Subsec. (q). Pub. L. 106–36, § 2404(a), designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
 
@@ -1242,6 +1444,11 @@ Subsec. (i). Act Aug. 8, 1953, § 12(c), broadened the authority of the Secretar
 
 #### Change of Name
 “Puerto Rico” substituted in subsec. (j) for “Porto Rico” pursuant to act May 17, 1932, which is classified to [section 731a of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section731a&num=0&edition=prelim), Territories and Insular Possessions.
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–125, title IX, § 906(q), Feb. 24, 2016, 130 Stat. 233, provided that: “(1) In general.—The amendments made by this section [amending this section and [section 1508 of this title](./chapter-004-tariff-act-of-1930.md#section-1508)] shall—“(A) take effect on the date of the enactment of this Act [Feb. 24, 2016]; and “(B) except as provided in paragraph (3), apply to drawback claims filed on or after the date that is 2 years after such date of enactment. “(2) Reporting of operability of automated commercial environment computer system.—Not later than one year after the date of the enactment of this Act [Feb. 24, 2016], and not later than 2 years after such date of enactment, the Secretary of the Treasury shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report on—“(A) the date on which the Automated Commercial Environment will be ready to process drawback claims; and “(B) the date on which the Automated Export System will be ready to accept proof of exportation under subsection (i) of section 313 of the Tariff Act of 1930 [[19 U.S.C. 1313](./chapter-004-tariff-act-of-1930.md#section-1313)], as amended by subsection (d) of this section. “(3) Transition rule.—During the one-year period beginning on the date that is 2 years after the date of the enactment of this Act [Feb. 24, 2016], a person may elect to file a claim for drawback under—“(A) section 313 of the Tariff Act of 1930 [[19 U.S.C. 1313](./chapter-004-tariff-act-of-1930.md#section-1313)], as amended by this section; or “(B) section 313 of the Tariff Act of 1930, as in effect on the day before the date of the enactment of this Act.”
+
+[For definition of “Automated Commercial Environment” as used in section 906(q) of Pub. L. 114–125, set out above, see [section 4301 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4301).]
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
@@ -1320,7 +1527,7 @@ Amendment by act Aug. 8, 1953, effective on and after thirtieth day following Au
 Amendment by section 203(c) of Pub. L. 103–182 to be made after amendment by section 632(a) of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
 
@@ -1414,7 +1621,7 @@ Amendment by act Aug. 8, 1953, effective on and after thirtieth day following Au
 Amendment by act June 25, 1938, effective on thirtieth day following June 25, 1938, except as otherwise specifically provided, see section 37 of act June 25, 1938, set out as a note under [section 1401 of this title](./chapter-004-tariff-act-of-1930.md#section-1401).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers, referred to in text, were under Department of the Treasury.
 
@@ -1471,9 +1678,9 @@ Insofar as subsec. (a) of this section related exclusively to Internal Revenue i
 
   (C) Take any other action that may be necessary to respond directly to the national emergency or specific threat.
 
-(2) Notwithstanding any other provision of law, the Commissioner of Customs, when necessary to respond to a specific threat to human life or national interests, is authorized to close temporarily any Customs office or port of entry or take any other lesser action that may be necessary to respond to the specific threat.
+(2) Notwithstanding any other provision of law, the Commissioner of U.S. Customs and Border Protection, when necessary to respond to a specific threat to human life or national interests, is authorized to close temporarily any Customs office or port of entry or take any other lesser action that may be necessary to respond to the specific threat.
 
-(3) The Secretary of the Treasury or the Commissioner of Customs, as the case may be, shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than 72 hours after taking any action under paragraph (1) or (2).
+(3) The Secretary of the Treasury or the Commissioner of U.S. Customs and Border Protection, as the case may be, shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than 72 hours after taking any action under paragraph (1) or (2).
 
 ### Statutory Notes
 
@@ -1486,11 +1693,14 @@ Provisions similar to those in subsec. (a) of this section were contained in act
 #### Amendments
 2002—Pub. L. 107–210 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (b)(2) and (3) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of this title on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding [section 2271 of this title](./chapter-012-trade-act-of-1974.md#section-2271).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Functions of Secretary of the Treasury under this section with respect to functions transferred to Secretary of Commerce in sections 1303 and 1671 et seq. of this title by section 5(a)(1)(C) of Reorg. Plan No. 3 of 1979 transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, § 5(a)(1)(E), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171), to be exercised in consultation with Secretary of the Treasury.
 
@@ -1564,12 +1774,12 @@ Repeal effective on and after thirtieth day following Aug. 8, 1953, and savings 
 
   (B) $200 in the case of articles accompanying, and for the personal or household use of, persons arriving in the United States who are not entitled to any exemption from duty under subheading 9804.00.30, 9804.00.65, or 9804.00.70 of title I of this Act,11 See References in Text note below. or
 
-  (C) $200 in any other case.
+  (C) $800 in any other case.
   The privilege of this subdivision (2) shall not be granted in any case in which merchandise covered by a single order or contract is forwarded in separate lots to secure the benefit of this subdivision (2); and
 
 (3) waive the collection of duties, fees, taxes, and interest due on entered merchandise when such duties, fees, taxes, or interest are less than $20 or such greater amount as may be specified by the Secretary by regulation.
 
-**(b) Reduction or modification of exemption** The Secretary of the Treasury is authorized by regulations to prescribe exceptions to any exemption provided for in subsection (a) of this section whenever he finds that such action is consistent with the purpose of subsection (a) of this section or is necessary for any reason to protect the revenue or to prevent unlawful importations.
+**(b) Reduction or modification of exemption** The Secretary of the Treasury is authorized by regulations to prescribe exceptions to any exemption provided for in subsection (a) whenever he finds that such action is consistent with the purpose of subsection (a) or is necessary for any reason to protect the revenue or to prevent unlawful importations.
 
 ### Statutory Notes
 
@@ -1577,6 +1787,8 @@ Repeal effective on and after thirtieth day following Aug. 8, 1953, and savings 
 Title I of this Act, referred to in subsec. (a)(2)(B), means title I of act June 17, 1930, as amended, which contained the Tariff Schedules of the United States and which formerly were set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202). The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
 
 #### Amendments
+2016—Subsec. (a)(2)(C). Pub. L. 114–125 substituted “$800” for “$200”.
+
 1996—Subsec. (a)(1). Pub. L. 104–295, § 3(a)(12)(A), substituted “duties, fees, taxes, and interest actually accruing” for “duties, fees, and taxes actually accruing”.
 
 Subsec. (a)(2)(B). Pub. L. 104–295, § 3(a)(8), inserted “, 9804.00.65,” after “9804.00.30”.
@@ -1589,7 +1801,7 @@ Subsec. (a)(2). Pub. L. 103–182, § 651(2), substituted “shall not exceed an
 
 Subsec. (a)(3). Pub. L. 103–182, § 651(3), added par. (3).
 
-Subsec. (b). Pub. L. 103–182, § 651(4), struck out “to diminish any dollar amount specified in subsection (a) of this section and” after “authorized by regulations” and substituted “subsection (a) of this section” for “such subsection” in two places.
+Subsec. (b). Pub. L. 103–182, § 651(4), struck out “to diminish any dollar amount specified in subsection (a) and” after “authorized by regulations” and substituted “subsection (a)” for “such subsection” in two places.
 
 1988—Subsec. (a)(2)(B). Pub. L. 100–418 substituted “subheading 9804.00.30 or 9804.00.70” for “item 812.25 or 813.31”.
 
@@ -1606,6 +1818,9 @@ Subsec. (a)(2). Pub. L. 95–410, § 205(b)(1)–(3), substituted in: subpar. (A
 1961—Subsec. (a). Pub. L. 87–261 inserted “(b)(2) or” after “paragraph 1798”.
 
 1953—Act Aug. 8, 1953, (1) divided section into subsections; (2) increased from $1 to $3 the difference between deposited or assessed duties and actual duties which may be disregarded by the collector; (3) permitted free entry of bona fide gifts from persons outside the United States up to $10; (4) allowed persons to bring with them articles up to $10 in value for their personal use; (5) continued to allow free entry up to $1 in other cases; and (6) enabled the Secretary of the Treasury to reduce these amounts if he found such action necessary to protect the revenue.
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–125, title IX, § 901(d), Feb. 24, 2016, 130 Stat. 223, provided that: “The amendment made by subsection (c) [amending this section] shall apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act [Feb. 24, 2016].”
 
 #### Effective Date of 1996 Amendment
 Pub. L. 104–295, § 3(b), Oct. 11, 1996, 110 Stat. 3516, provided that: “The amendments made by this section [amending this section and sections 1401, 1431, 1504, 1508, 1509, 1515, 1592, and 1631 of this title and repealing [section 1707 of this title](./chapter-005-smuggling.md#section-1707)] shall apply as of December 8, 1993.”
@@ -1961,7 +2176,7 @@ Pub. L. 95–106, § 3(c), Aug. 17, 1977, 91 Stat. 869, provided that: “The am
 
 (6) Ascertain all other facts which will show the differences in or which affect competition between articles of the United States and imported articles in the principal markets of the United States.
 
-**(e) Definitions** When used in this subdivision and in subdivision (d) of this section—
+**(e) Definitions** When used in this subdivision and in subdivision (d)—
 
 (1) The term “article” includes any commodity, whether grown, produced, fabricated, manipulated, or manufactured;
 
@@ -2008,6 +2223,9 @@ For termination, effective May 15, 2000, of provisions in subsec. (g) relating t
 
 #### Delegation of Functions
 Functions of President under subsec. (g) of this section regarding reports by United States International Trade Commission to President delegated to United States Trade Representative, see section 5–301 of Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, set out as a note under [section 2901 of this title](./chapter-017-negotiation-and-implementation-of-trade-agreements.md#section-2901).
+
+#### American Manufacturing Competitiveness
+Pub. L. 114–159, May 20, 2016, 130 Stat. 396, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘American Manufacturing Competitiveness Act of 2016’. “SEC. 2. SENSE OF CONGRESS ON THE NEED FOR A MISCELLANEOUS TARIFF BILL.“(a) Findings.—Congress makes the following findings:“(1) As of the date of the enactment of this Act [May 20, 2016], the Harmonized Tariff Schedule of the United States [see Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202)] imposes duties on imported goods for which there is no domestic availability or insufficient domestic availability. “(2) The imposition of duties on such goods creates artificial distortions in the economy of the United States that negatively affect United States manufacturers and consumers. “(3) The manufacturing competitiveness of the United States around the world will be enhanced if Congress regularly and predictably updates the Harmonized Tariff Schedule to suspend or reduce duties on such goods. “(4) Creating and maintaining an open and transparent process for consideration of petitions for duty suspensions and reductions builds confidence that the process is fair, open to all, and free of abuse. “(5) Complying with the Rules of the House of Representatives and the Senate, in particular with clause 9 of rule XXI of the Rules of the House of Representatives and rule XLIV of the Standing Rules of the Senate, is essential to fostering and maintaining confidence in the process for considering a miscellaneous tariff bill. “(6) A miscellaneous tariff bill developed under this process will not contain any—“(A) congressional earmarks or limited tax benefits within the meaning of clause 9 of rule XXI of the Rules of the House of Representatives; or “(B) congressionally directed spending items or limited tax benefits within the meaning of rule XLIV of the Standing Rules of the Senate. “(7) Because any limited tariff benefits contained in any miscellaneous tariff bill following the process set forth by this Act will not have been the subject of legislation introduced by an individual Member of Congress and will be fully vetted through a transparent and fair process free of abuse, it is appropriate for Congress to consider limited tariff benefits as part of that miscellaneous tariff bill as long as—“(A) in the case of a miscellaneous tariff bill considered in the House of Representatives, consistent with the Rules of the House of Representatives, a list of such limited tariff benefits is published in the reports of the Committee on Ways and Means of the House of Representatives accompanying the miscellaneous tariff bill, or in the Congressional Record; and “(B) in the case of a miscellaneous tariff bill considered in the Senate, consistent with the Standing Rules of the Senate—“(i) such limited tariff benefits have been identified through lists, charts, or other similar means; and “(ii) the information identified in clause (i) has been available on a publicly accessible congressional website in a searchable format at least 48 hours before the vote on the motion to proceed to the miscellaneous tariff bill or the vote on the adoption of a report of a committee of conference in connection with the miscellaneous tariff bill, as the case may be. “(8) When the process set forth under paragraph (7) is followed, it is consistent with the letter and intent of the Rules of the House of Representatives and the Senate and other related guidance. “(b) Sense of Congress.—It is the sense of Congress that, to remove the competitive disadvantage to United States manufacturers and consumers and to promote the competitiveness of United States manufacturers, Congress should, not later than 90 days after the United States International Trade Commission issues a final report on petitions for duty suspensions and reductions under section 3(b)(3)(E), consider a miscellaneous tariff bill. “SEC. 3. PROCESS FOR CONSIDERATION OF PETITIONS FOR DUTY SUSPENSIONS AND REDUCTIONS.“(a) Purpose.—It is the purpose of this section to establish a process for the submission and consideration of petitions for duty suspensions and reductions. “(b) Requirements of Commission.—“(1) Initiation.—Not later than October 15, 2016, and October 15, 2019, the Commission shall publish in the Federal Register and on a publicly available Internet website of the Commission a notice requesting members of the public who can demonstrate that they are likely beneficiaries of duty suspensions or reductions to submit to the Commission during the 60-day period beginning on the date of such publication—“(A) petitions for duty suspensions and reductions; and “(B) Commission disclosure forms with respect to such duty suspensions and reductions. “(2) Content of petitions.—Each petition for a duty suspension or reduction under paragraph (1)(A) shall include the following information:“(A) The name and address of the petitioner. “(B) A statement as to whether the petition provides for an extension of an existing duty suspension or reduction or provides for a new duty suspension or reduction. “(C) A certification that the petitioner is a likely beneficiary of the proposed duty suspension or reduction. “(D) An article description for the proposed duty suspension or reduction to be included in the amendment to subchapter II of chapter 99 of the Harmonized Tariff Schedule of the United States. “(E) To the extent available—“(i) a classification of the article for purposes of the amendment to subchapter II of chapter 99 of the Harmonized Tariff Schedule of the United States; “(ii) a classification ruling of U.S. Customs and Border Protection with respect to the article; and “(iii) a copy of a U.S. Customs and Border Protection entry summary indicating where the article is classified in the Harmonized Tariff Schedule of the United States. “(F) A brief and general description of the article. “(G) A brief description of the industry in the United States that uses the article. “(H) An estimate of the total value, in United States dollars, of imports of the article for each of the 5 calendar years after the calendar year in which the petition is filed, including an estimate of the total value of such imports by the person who submits the petition and by any other importers, if available. “(I) The name of each person that imports the article, if available. “(J) A description of any domestic production of the article, if available. “(K) Such other information as the Commission may require. “(3) Review.—“(A) Commission publication and public availability.—As soon as practicable after the expiration of the 60-day period specified in paragraph (1), but in any case not later than 30 days after the expiration of such 60-day period, the Commission shall publish on a publicly available Internet website of the Commission—“(i) the petitions for duty suspensions and reductions submitted under paragraph (1)(A) that contain the information required under paragraph (2); and “(ii) the Commission disclosure forms with respect to such duty suspensions and reductions submitted under paragraph (1)(B). “(B) Public comment.—“(i) In general.—The Commission shall publish in the Federal Register and on a publicly available Internet website of the Commission a notice requesting members of the public to submit to the Commission during the 45-day period beginning on the date of publication described in subparagraph (A) comments on— “(I) the petitions for duty suspensions and reductions published by the Commission under subparagraph (A)(i); and “(II) the Commission disclosure forms with respect to such duty suspensions and reductions published by the Commission under subparagraph (A)(ii). “(ii) Publication of comments.—The Commission shall publish a notice in the Federal Register directing members of the public to a publicly available Internet website of the Commission to view the comments of the members of the public received under clause (i). “(C) Preliminary report.—“(i) In general.—As soon as practicable after the expiration of the 120-day period beginning on the date of publication described in subparagraph (A), but in any case not later than 30 days after the expiration of such 120-day period, the Commission shall submit to the appropriate congressional committees a preliminary report on the petitions for duty suspensions and reductions submitted under paragraph (1)(A). The preliminary report shall contain the following information with respect to each petition for a duty suspension or reduction: “(I) The heading or subheading of the Harmonized Tariff Schedule of the United States in which each article that is the subject of the petition for the duty suspension or reduction is classified, as identified by documentation supplied to the Commission, and any supporting information obtained by the Commission. “(II) A determination of whether or not domestic production of the article that is the subject of the petition for the duty suspension or reduction exists, taking into account the report of the Secretary of Commerce under subsection (c)(1), and, if such production exists, whether or not a domestic producer of the article objects to the duty suspension or reduction. “(III) Any technical changes to the article description of the article that is the subject of the petition for the duty suspension or reduction that are necessary for purposes of administration when the article is presented for importation, taking into account the report of the Secretary of Commerce under subsection (c)(2). “(IV) An estimate of the amount of loss in revenue to the United States that would no longer be collected if the duty suspension or reduction takes effect. “(V) A determination of whether or not the duty suspension or reduction is available to any person that imports the article that is the subject of the duty suspension or reduction. “(VI) The likely beneficiaries of each duty suspension or reduction, including whether the petitioner is a likely beneficiary. “(ii) Categories of information.—The preliminary report submitted under clause (i) shall also contain the following information: “(I) A list of petitions for duty suspensions and reductions that meet the requirements of this Act without modifications. “(II) A list of petitions for duty suspensions and reductions for which the Commission recommends technical corrections in order to meet the requirements of this Act, with the correction specified. “(III) A list of petitions for duty suspensions and reductions for which the Commission recommends modifications to the amount of the duty suspension or reduction that is the subject of the petition to comply with the requirements of this Act, with the modification specified. “(IV) A list of petitions for duty suspensions and reductions for which the Commission recommends modifications to the scope of the articles that are the subject of such petitions to address objections by domestic producers to such petitions, with the modifications specified. “(V) A list of the following:“(aa) Petitions for duty suspensions and reductions that the Commission has determined do not contain the information required under paragraph (2). “(bb) Petitions for duty suspensions and reductions with respect to which the Commission has determined the petitioner is not a likely beneficiary. “(VI) A list of petitions for duty suspensions and reductions that the Commission does not recommend for inclusion in a miscellaneous tariff bill, other than petitions specified in subclause (V). “(D) Additional information.—The Commission shall consider any information submitted by the appropriate congressional committees to the Commission relating to moving a petition that is contained in the list referred to in subclause (VI) of subparagraph (C)(ii) of the preliminary report submitted under subparagraph (C) to a list referred to in subclause (I), (II), (III), or (IV) of subparagraph (C)(ii). “(E) Final report.—Not later than 60 days after the date on which the preliminary report is submitted under subparagraph (C), the Commission shall submit to the appropriate congressional committees a final report on each petition for a duty suspension or reduction specified in the preliminary report. The final report shall contain with respect to each such petition—“(i) the information required under clauses (i) and (ii) of subparagraph (C) and updated as appropriate under subparagraph (D); and “(ii) a determination of the Commission whether— “(I) the duty suspension or reduction can likely be administered by U.S. Customs and Border Protection; “(II) the estimated loss in revenue to the United States from the duty suspension or reduction does not exceed $500,000 in a calendar year during which the duty suspension or reduction would be in effect; and “(III) the duty suspension or reduction is available to any person importing the article that is the subject of the duty suspension or reduction. “(F) Exclusions.—The appropriate congressional committees may exclude from a miscellaneous tariff bill any petition for a duty suspension or reduction that—“(i) is contained in any list referred to in subclause (I), (II), (III), or (IV) of subparagraph (C)(ii), as updated as appropriate under subparagraph (E)(i); “(ii) is the subject of an objection from a Member of Congress; or “(iii) is for an article for which there is domestic production. “(G) Estimates by the congressional budget office.—For purposes of reflecting the estimate of the Congressional Budget Office, the appropriate congressional committees shall adjust the amount of a duty suspension or reduction in a miscellaneous tariff bill only to assure that the estimated loss in revenue to the United States from that duty suspension or reduction, as estimated by the Congressional Budget Office, does not exceed $500,000 in a calendar year during which the duty suspension or reduction would be in effect. “(H) Prohibitions.—Any petitions for duty suspensions or reductions that are contained in any list referred to in subclause (V) or (VI) of subparagraph (C)(ii), as updated as appropriate under subparagraph (E)(i), or have not otherwise undergone the processes required by this Act shall not be included in a miscellaneous tariff bill. “(4) Confidential business information.—The procedures concerning the release of confidential business information set forth in section 332(g) of the Tariff Act of 1930 ([19 U.S.C. 1332(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1332/g&num=0&edition=prelim)) shall apply with respect to information received by the Commission in posting petitions on a publicly available website of the Commission and in preparing reports under this subsection. “(5) Procedures.—The Commission shall prescribe and publish in the Federal Register and on a publicly available Internet website of the Commission procedures to be complied with by members of the public submitting petitions for duty suspensions and reductions under subsection (b)(1)(A). “(c) Department of Commerce Report.—Not later than the end of the 90-day period beginning on the date of publication of the petitions for duty suspensions and reductions under subsection (b)(3)(A), the Secretary of Commerce, in consultation with U.S. Customs and Border Protection and other relevant Federal agencies, shall submit to the Commission and the appropriate congressional committees a report on each petition for a duty suspension or reduction submitted under subsection (b)(1)(A) that includes the following information:“(1) A determination of whether or not domestic production of the article that is the subject of the petition for the duty suspension or reduction exists and, if such production exists, whether or not a domestic producer of the article objects to the petition for the duty suspension or reduction. “(2) Any technical changes to the article description that are necessary for purposes of administration when articles are presented for importation. “SEC. 4. REPORT ON EFFECTS OF DUTY SUSPENSIONS AND REDUCTIONS ON UNITED STATES ECONOMY.“(a) In General.—Not later than 12 months after the date of the enactment of a miscellaneous tariff bill, the Commission shall submit to the appropriate congressional committees a report on the effects on the United States economy of duty suspensions and reductions enacted pursuant to this Act, including a broad assessment of the economic effects of such duty suspensions and reductions on producers, purchasers, and consumers in the United States, using case studies describing such effects on selected industries or by type of article as available data permit. “(b) Recommendations.—The Commission shall also solicit and append to the report required under subsection (a) recommendations with respect to those domestic industry sectors or specific domestic industries that might benefit from permanent duty suspensions and reductions, either through a unilateral action of the United States or though [sic] negotiations for reciprocal tariff agreements, with a particular focus on inequities created by tariff inversions. “(c) Form of Report.—Each report required by this section shall be submitted in unclassified form, but may include a classified annex. “SEC. 5. PUBLICATION OF LIMITED TARIFF BENEFITS IN THE HOUSE OF REPRESENTATIVES AND THE SENATE.“(a) House of Representatives.—“(1) In general.—The chair of the Committee on Ways and Means of the House of Representatives shall include a list of limited tariff benefits contained in a miscellaneous tariff bill in the report to accompany such a bill or, in a case where a miscellaneous tariff bill is not reported by the committee, shall cause such a list to be printed in the appropriate section of the Congressional Record. “(2) Limited tariff benefit defined.—For purposes of this subsection and consistent with clause 9 of rule XXI of the Rules of the House of Representatives, as in effect during the One Hundred Fourteenth Congress, the term ‘limited tariff benefit’ means a provision modifying the Harmonized Tariff Schedule of the United States [see Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202)] in a manner that benefits 10 or fewer entities. “(b) Senate.—“(1) In general.—The chairman of the Committee on Finance of the Senate, the Majority Leader of the Senate, or the designee of the Majority Leader of the Senate, shall provide for the publication in the Congressional Record of a certification that—“(A) each limited tariff benefit contained in a miscellaneous tariff bill considered in the Senate has been identified through lists, charts, or other similar means; and “(B) the information identified in subparagraph (A) has been available on a publicly accessible congressional website in a searchable format at least 48 hours before the vote on the motion to proceed to the miscellaneous tariff bill or the vote on the adoption of a report of a committee of conference in connection with the miscellaneous tariff bill, as the case may be. “(2) Satisfaction of senate rules.—Publication of a certification in the Congressional Record under paragraph (1) satisfies the certification requirements of paragraphs 1(a), 2(a), and 3(a) of rule XLIV of the Standing Rules of the Senate. “(3) Limited tariff benefit defined.—For purposes of this subsection and consistent with rule XLIV of the Standing Rules of the Senate, as in effect during the One Hundred Fourteenth Congress, the term ‘limited tariff benefit’ means a provision modifying the Harmonized Tariff Schedule of the United States in a manner that benefits 10 or fewer entities. “(c) Enactment as Exercise of Rulemaking Power of House of Representatives and Senate.—This section is enacted by Congress—“(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such are deemed a part of the rules of each House, respectively, and such procedures supersede other rules only to the extent that they are inconsistent with such other rules; and “(2) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House. “SEC. 6. JUDICIAL REVIEW PRECLUDED.“The exercise of functions under this Act shall not be subject to judicial review. “SEC. 7. DEFINITIONS.“In this Act:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate. “(2) Commission.—The term ‘Commission’ means the United States International Trade Commission. “(3) Commission disclosure form.—The term ‘Commission disclosure form’ means, with respect to a petition for a duty suspension or reduction, a document submitted by a petitioner to the Commission that contains the following:“(A) The contact information for any known importers of the article to which the proposed duty suspension or reduction would apply. “(B) A certification by the petitioner that the proposed duty suspension or reduction is available to any person importing the article to which the proposed duty suspension or reduction would apply. “(C) A certification that the petitioner is a likely beneficiary of the proposed duty suspension or reduction. “(4) Domestic producer.—The term ‘domestic producer’ means a person that demonstrates production, or imminent production, in the United States of an article that is identical to, or like or directly competitive with, an article to which a petition for a duty suspension or reduction would apply. “(5) Domestic production.—The term ‘domestic production’ means the production of an article that is identical to, or like or directly competitive with, an article to which a petition for a duty suspension or reduction would apply, for which a domestic producer has demonstrated production, or imminent production, in the United States. “(6) Duty suspension or reduction.—The term ‘duty suspension or reduction’ refers to an amendment to subchapter II of chapter 99 of the Harmonized Tariff Schedule of the United States for a period not to exceed 3 years that—“(A) extends an existing temporary duty suspension or reduction on an article under that subchapter; or “(B) provides for a new temporary duty suspension or reduction on an article under that subchapter. “(7) Likely beneficiary.—The term ‘likely beneficiary’ means an individual or entity likely to utilize, or benefit directly from the utilization of, an article that is the subject of a petition for a duty suspension or reduction. “(8) Member of congress.—The term ‘Member of Congress’ means a Senator or Representative in, or Delegate or Resident Commissioner to, Congress. “(9) Miscellaneous tariff bill.—The term ‘miscellaneous tariff bill’ means a bill of either House of Congress that contains only duty suspensions and reductions and related technical corrections that—“(A) are included in the final report of the Commission submitted to the appropriate congressional committees under section 3(b)(3)(E), except for—“(i) petitions for duty suspensions or reductions that the Commission has determined do not contain the information required under section 3(b)(2); “(ii) petitions for duty suspensions and reductions with respect to which the Commission has determined the petitioner is not a likely beneficiary; and “(iii) petitions for duty suspensions and reductions that the Commission does not recommend for inclusion in the miscellaneous tariff bill; “(B) are not excluded under section 3(b)(3)(F); and “(C) otherwise meet the applicable requirements of this Act.”
 
 #### Continuation of Reports With Respect to Synthetic Organic Chemicals
 Pub. L. 95–106, § 5, Aug. 17, 1977, 91 Stat. 869, directed International Trade Commission to make, for each calendar year ending before Jan. 1, 1981, reports with respect to synthetic organic chemicals similar in scope to reports made with respect to such chemicals for calendar year 1976.
@@ -2222,7 +2440,7 @@ Amendment by act Aug. 2, 1956, effective only as to articles entered, or withdra
 
 (3) Whenever, in the course of an investigation under this section, the Commission has reason to believe, based on information before it, that a matter, in whole or in part, may come within the purview of part II of subtitle IV of this chapter, it shall promptly notify the Secretary of Commerce so that such action may be taken as is otherwise authorized by such part II. If the Commission has reason to believe that the matter before it (A) is based solely on alleged acts and effects which are within the purview of section 1671 or 1673 of this title, or (B) relates to an alleged copyright infringement with respect to which action is prohibited by [section 1008 of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section1008&num=0&edition=prelim), the Commission shall terminate, or not institute, any investigation into the matter. If the Commission has reason to believe the matter before it is based in part on alleged acts and effects which are within the purview of section 1671 or 1673 of this title, and in part on alleged acts and effects which may, independently from or in conjunction with those within the purview of such section, establish a basis for relief under this section, then it may institute or continue an investigation into the matter. If the Commission notifies the Secretary or the administering authority (as defined in [section 1677(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/1&num=0&edition=prelim)) with respect to a matter under this paragraph, the Commission may suspend its investigation during the time the matter is before the Secretary or administering authority for final decision. Any final decision by the administering authority under section 1671 or 1673 of this title with respect to the matter within such section 1671 or 1673 of this title of which the Commission has notified the Secretary or administering authority shall be conclusive upon the Commission with respect to the issue of less-than-fair-value sales or subsidization and the matters necessary for such decision.
 
-**(c) Determinations; review** The Commission shall determine, with respect to each investigation conducted by it under this section, whether or not there is a violation of this section, except that the Commission may, by issuing a consent order or on the basis of an agreement between the private parties to the investigation, including an agreement to present the matter for arbitration, terminate any such investigation, in whole or in part, without making such a determination. Each determination under subsection (d) or (e) of this section shall be made on the record after notice and opportunity for a hearing in conformity with the provisions of subchapter II of chapter 5 of title 5. All legal and equitable defenses may be presented in all cases. A respondent may raise any counterclaim in a manner prescribed by the Commission. Immediately after a counterclaim is received by the Commission, the respondent raising such counterclaim shall file a notice of removal with a United States district court in which venue for any of the counterclaims raised by the party would exist under [section 1391 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391&num=0&edition=prelim). Any counterclaim raised pursuant to this section shall relate back to the date of the original complaint in the proceeding before the Commission. Action on such counterclaim shall not delay or affect the proceeding under this section, including the legal and equitable defenses that may be raised under this subsection. Any person adversely affected by a final determination of the Commission under subsection (d), (e), (f), or (g) of this section may appeal such determination, within 60 days after the determination becomes final, to the United States Court of Appeals for the Federal Circuit for review in accordance with chapter 7 of title 5. Notwithstanding the foregoing provisions of this subsection, Commission determinations under subsections (d), (e), (f), and (g) of this section with respect to its findings on the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, the amount and nature of bond, or the appropriate remedy shall be reviewable in accordance with [section 706 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706&num=0&edition=prelim). Determinations by the Commission under subsections (e), (f), and (j) of this section with respect to forfeiture of bonds and under subsection (h) of this section with respect to the imposition of sanctions for abuse of discovery or abuse of process shall also be reviewable in accordance with [section 706 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706&num=0&edition=prelim).
+**(c) Determinations; review** The Commission shall determine, with respect to each investigation conducted by it under this section, whether or not there is a violation of this section, except that the Commission may, by issuing a consent order or on the basis of an agreement between the private parties to the investigation, including an agreement to present the matter for arbitration, terminate any such investigation, in whole or in part, without making such a determination. Each determination under subsection (d) or (e) shall be made on the record after notice and opportunity for a hearing in conformity with the provisions of subchapter II of chapter 5 of title 5. All legal and equitable defenses may be presented in all cases. A respondent may raise any counterclaim in a manner prescribed by the Commission. Immediately after a counterclaim is received by the Commission, the respondent raising such counterclaim shall file a notice of removal with a United States district court in which venue for any of the counterclaims raised by the party would exist under [section 1391 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391&num=0&edition=prelim). Any counterclaim raised pursuant to this section shall relate back to the date of the original complaint in the proceeding before the Commission. Action on such counterclaim shall not delay or affect the proceeding under this section, including the legal and equitable defenses that may be raised under this subsection. Any person adversely affected by a final determination of the Commission under subsection (d), (e), (f), or (g) may appeal such determination, within 60 days after the determination becomes final, to the United States Court of Appeals for the Federal Circuit for review in accordance with chapter 7 of title 5. Notwithstanding the foregoing provisions of this subsection, Commission determinations under subsections (d), (e), (f), and (g) with respect to its findings on the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, the amount and nature of bond, or the appropriate remedy shall be reviewable in accordance with [section 706 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706&num=0&edition=prelim). Determinations by the Commission under subsections (e), (f), and (j) with respect to forfeiture of bonds and under subsection (h) with respect to the imposition of sanctions for abuse of discovery or abuse of process shall also be reviewable in accordance with [section 706 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706&num=0&edition=prelim).
 
 **(d) Exclusion of articles from entry**
 
@@ -2240,13 +2458,13 @@ Amendment by act Aug. 2, 1956, effective only as to articles entered, or withdra
 
 (2) A complainant may petition the Commission for the issuance of an order under this subsection. The Commission shall make a determination with regard to such petition by no later than the 90th day after the date on which the Commission’s notice of investigation is published in the Federal Register. The Commission may extend the 90-day period for an additional 60 days in a case it designates as a more complicated case. The Commission shall publish in the Federal Register its reasons why it designated the case as being more complicated. The Commission may require the complainant to post a bond as a prerequisite to the issuance of an order under this subsection. If the Commission later determines that the respondent has not violated the provisions of this section, the bond may be forfeited to the respondent.
 
-(3) The Commission may grant preliminary relief under this subsection or subsection (f) of this section to the same extent as preliminary injunctions and temporary restraining orders may be granted under the Federal Rules of Civil Procedure.
+(3) The Commission may grant preliminary relief under this subsection or subsection (f) to the same extent as preliminary injunctions and temporary restraining orders may be granted under the Federal Rules of Civil Procedure.
 
 (4) The Commission shall prescribe the terms and conditions under which bonds may be forfeited under paragraphs (1) and (2).
 
 **(f) Cease and desist orders; civil penalty for violation of orders**
 
-(1) In addition to, or in lieu of, taking action under subsection (d) or (e) of this section, the Commission may issue and cause to be served on any person violating this section, or believed to be violating this section, as the case may be, an order directing such person to cease and desist from engaging in the unfair methods or acts involved, unless after considering the effect of such order upon the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, it finds that such order should not be issued. The Commission may at any time, upon such notice and in such manner as it deems proper, modify or revoke any such order, and, in the case of a revocation, may take action under subsection (d) or (e) of this section, as the case may be. If a temporary cease and desist order is issued in addition to, or in lieu of, an exclusion order under subsection (e) of this section, the Commission may require the complainant to post a bond, in an amount determined by the Commission to be sufficient to protect the respondent from any injury, as a prerequisite to the issuance of an order under this subsection. If the Commission later determines that the respondent has not violated the provisions of this section, the bond may be forfeited to the respondent. The Commission shall prescribe the terms and conditions under which the bonds may be forfeited under this paragraph.
+(1) In addition to, or in lieu of, taking action under subsection (d) or (e), the Commission may issue and cause to be served on any person violating this section, or believed to be violating this section, as the case may be, an order directing such person to cease and desist from engaging in the unfair methods or acts involved, unless after considering the effect of such order upon the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, it finds that such order should not be issued. The Commission may at any time, upon such notice and in such manner as it deems proper, modify or revoke any such order, and, in the case of a revocation, may take action under subsection (d) or (e), as the case may be. If a temporary cease and desist order is issued in addition to, or in lieu of, an exclusion order under subsection (e), the Commission may require the complainant to post a bond, in an amount determined by the Commission to be sufficient to protect the respondent from any injury, as a prerequisite to the issuance of an order under this subsection. If the Commission later determines that the respondent has not violated the provisions of this section, the bond may be forfeited to the respondent. The Commission shall prescribe the terms and conditions under which the bonds may be forfeited under this paragraph.
 
 (2) Any person who violates an order issued by the Commission under paragraph (1) after it has become final shall forfeit and pay to the United States a civil penalty for each day on which an importation of articles, or their sale, occurs in violation of the order of not more than the greater of $100,000 or twice the domestic value of the articles entered or sold on such day in violation of the order. Such penalty shall accrue to the United States and may be recovered for the United States in a civil action brought by the Commission in the Federal District Court for the District of Columbia or for the district in which the violation occurs. In such actions, the United States district courts may issue mandatory injunctions incorporating the relief sought by the Commission as they deem appropriate in the enforcement of such final orders of the Commission.
 
@@ -2271,17 +2489,17 @@ Amendment by act Aug. 2, 1956, effective only as to articles entered, or withdra
 
   (B) such a violation is established by substantial, reliable, and probative evidence, and
 
-  (C) the requirements of subsection (d)(2) of this section are met.
+  (C) the requirements of subsection (d)(2) are met.
 
 **(h) Sanctions for abuse of discovery and abuse of process** The Commission may by rule prescribe sanctions for abuse of discovery and abuse of process to the extent authorized by Rule 11 and Rule 37 of the Federal Rules of Civil Procedure.
 
 **(i) Forfeiture**
 
-(1) In addition to taking action under subsection (d) of this section, the Commission may issue an order providing that any article imported in violation of the provisions of this section be seized and forfeited to the United States if—
+(1) In addition to taking action under subsection (d), the Commission may issue an order providing that any article imported in violation of the provisions of this section be seized and forfeited to the United States if—
 
   (A) the owner, importer, or consignee of the article previously attempted to import the article into the United States;
 
-  (B) the article was previously denied entry into the United States by reason of an order issued under subsection (d) of this section; and
+  (B) the article was previously denied entry into the United States by reason of an order issued under subsection (d); and
 
   (C) upon such previous denial of entry, the Secretary of the Treasury provided the owner, importer, or consignee of the article written notice of—
 
@@ -2295,29 +2513,29 @@ Amendment by act Aug. 2, 1956, effective only as to articles entered, or withdra
 
 (4) The Secretary of the Treasury shall provide—
 
-  (A) the written notice described in paragraph (1)(C) to the owner, importer, or consignee of any article that is denied entry into the United States by reason of an order issued under subsection (d) of this section; and
+  (A) the written notice described in paragraph (1)(C) to the owner, importer, or consignee of any article that is denied entry into the United States by reason of an order issued under subsection (d); and
 
   (B) a copy of such written notice to the Commission.
 
 **(j) Referral to President**
 
-(1) If the Commission determines that there is a violation of this section, or that, for purposes of subsection (e) of this section, there is reason to believe that there is such a violation, it shall—
+(1) If the Commission determines that there is a violation of this section, or that, for purposes of subsection (e), there is reason to believe that there is such a violation, it shall—
 
   (A) publish such determination in the Federal Register, and
 
-  (B) transmit to the President a copy of such determination and the action taken under subsection (d), (e), (f), (g), or (i) of this section, with respect thereto, together with the record upon which such determination is based.
+  (B) transmit to the President a copy of such determination and the action taken under subsection (d), (e), (f), (g), or (i), with respect thereto, together with the record upon which such determination is based.
 
-(2) If, before the close of the 60-day period beginning on the day after the day on which he receives a copy of such determination, the President, for policy reasons, disapproves such determination and notifies the Commission of his disapproval, then, effective on the date of such notice, such determination and the action taken under subsection (d), (e), (f), (g), or (i) of this section with respect thereto shall have no force or effect.
+(2) If, before the close of the 60-day period beginning on the day after the day on which he receives a copy of such determination, the President, for policy reasons, disapproves such determination and notifies the Commission of his disapproval, then, effective on the date of such notice, such determination and the action taken under subsection (d), (e), (f), (g), or (i) with respect thereto shall have no force or effect.
 
-(3) Subject to the provisions of paragraph (2), such determination shall, except for purposes of subsection (c) of this section, be effective upon publication thereof in the Federal Register, and the action taken under subsection (d), (e), (f), (g), or (i) of this section, with respect thereto shall be effective as provided in such subsections, except that articles directed to be excluded from entry under subsection (d) of this section or subject to a cease and desist order under subsection (f) of this section shall, until such determination becomes final, be entitled to entry under bond prescribed by the Secretary in an amount determined by the Commission to be sufficient to protect the complainant from any injury. If the determination becomes final, the bond may be forfeited to the complainant. The Commission shall prescribe the terms and conditions under which bonds may be forfeited under this paragraph.
+(3) Subject to the provisions of paragraph (2), such determination shall, except for purposes of subsection (c), be effective upon publication thereof in the Federal Register, and the action taken under subsection (d), (e), (f), (g), or (i), with respect thereto shall be effective as provided in such subsections, except that articles directed to be excluded from entry under subsection (d) or subject to a cease and desist order under subsection (f) shall, until such determination becomes final, be entitled to entry under bond prescribed by the Secretary in an amount determined by the Commission to be sufficient to protect the complainant from any injury. If the determination becomes final, the bond may be forfeited to the complainant. The Commission shall prescribe the terms and conditions under which bonds may be forfeited under this paragraph.
 
-(4) If the President does not disapprove such determination within such 60-day period, or if he notifies the Commission before the close of such period that he approves such determination, then, for purposes of paragraph (3) and subsection (c) of this section such determination shall become final on the day after the close of such period or the day on which the President notifies the Commission of his approval, as the case may be.
+(4) If the President does not disapprove such determination within such 60-day period, or if he notifies the Commission before the close of such period that he approves such determination, then, for purposes of paragraph (3) and subsection (c) such determination shall become final on the day after the close of such period or the day on which the President notifies the Commission of his approval, as the case may be.
 
 **(k) Period of effectiveness; termination of violation or modification or rescission of exclusion or order**
 
-(1) Except as provided in subsections (f) and (j) of this section, any exclusion from entry or order under this section shall continue in effect until the Commission finds, and in the case of exclusion from entry notifies the Secretary of the Treasury, that the conditions which led to such exclusion from entry or order no longer exist.
+(1) Except as provided in subsections (f) and (j), any exclusion from entry or order under this section shall continue in effect until the Commission finds, and in the case of exclusion from entry notifies the Secretary of the Treasury, that the conditions which led to such exclusion from entry or order no longer exist.
 
-(2) If any person who has previously been found by the Commission to be in violation of this section petitions the Commission for a determination that the petitioner is no longer in violation of this section or for a modification or rescission of an exclusion from entry or order under subsection (d), (e), (f), (g), or (i) of this section—
+(2) If any person who has previously been found by the Commission to be in violation of this section petitions the Commission for a determination that the petitioner is no longer in violation of this section or for a modification or rescission of an exclusion from entry or order under subsection (d), (e), (f), (g), or (i)—
 
   (A) the burden of proof in any proceeding before the Commission regarding such petition shall be on the petitioner; and
 
@@ -2327,7 +2545,7 @@ Amendment by act Aug. 2, 1956, effective only as to articles entered, or withdra
 
     (ii) on grounds which would permit relief from a judgment or order under the Federal Rules of Civil Procedure.
 
-**(l) Importation by or for United States** Any exclusion from entry or order under subsection (d), (e), (f), (g), or (i) of this section, in cases based on a proceeding involving a patent, copyright, mask work, or design under subsection (a)(1) of this section, shall not apply to any articles imported by and for the use of the United States, or imported for, and to be used for, the United States with the authorization or consent of the Government. Whenever any article would have been excluded from entry or would not have been entered pursuant to the provisions of such subsections but for the operation of this subsection, an owner of the patent, copyright, mask work, or design adversely affected shall be entitled to reasonable and entire compensation in an action before the United States Court of Federal Claims pursuant to the procedures of [section 1498 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1498&num=0&edition=prelim).
+**(l) Importation by or for United States** Any exclusion from entry or order under subsection (d), (e), (f), (g), or (i), in cases based on a proceeding involving a patent, copyright, mask work, or design under subsection (a)(1), shall not apply to any articles imported by and for the use of the United States, or imported for, and to be used for, the United States with the authorization or consent of the Government. Whenever any article would have been excluded from entry or would not have been entered pursuant to the provisions of such subsections but for the operation of this subsection, an owner of the patent, copyright, mask work, or design adversely affected shall be entitled to reasonable and entire compensation in an action before the United States Court of Federal Claims pursuant to the procedures of [section 1498 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1498&num=0&edition=prelim).
 
 **(m) “United States” defined** For purposes of this section and sections 1338 and 1340 11 See References in Text note below. of this title, the term “United States” means the customs territory of the United States as defined in general note 2 of the Harmonized Tariff Schedule of the United States.
 
@@ -2341,17 +2559,17 @@ Amendment by act Aug. 2, 1956, effective only as to articles entered, or withdra
 
     (i) carrying out the investigation or related proceeding in connection with which the information is submitted,
 
-    (ii) the administration of a bond posted pursuant to subsection (e), (f), or (j) of this section,
+    (ii) the administration of a bond posted pursuant to subsection (e), (f), or (j),
 
-    (iii) the administration or enforcement of an exclusion order issued pursuant to subsection (d), (e), or (g) of this section, a cease and desist order issued pursuant to subsection (f) of this section, or a consent order issued pursuant to subsection (c) of this section,
+    (iii) the administration or enforcement of an exclusion order issued pursuant to subsection (d), (e), or (g), a cease and desist order issued pursuant to subsection (f), or a consent order issued pursuant to subsection (c),
 
-    (iv) proceedings for the modification or rescission of a temporary or permanent order issued under subsection (d), (e), (f), (g), or (i) of this section, or a consent order issued under this section, or
+    (iv) proceedings for the modification or rescission of a temporary or permanent order issued under subsection (d), (e), (f), (g), or (i), or a consent order issued under this section, or
 
     (v) maintaining the administrative record of the investigation or related proceeding,
 
-  (B) an officer or employee of the United States Government who is directly involved in the review under subsection (j) of this section, or
+  (B) an officer or employee of the United States Government who is directly involved in the review under subsection (j), or
 
-  (C) an officer or employee of the United States Customs Service who is directly involved in administering an exclusion from entry under subsection (d), (e), or (g) of this section resulting from the investigation or related proceeding in connection with which the information is submitted.
+  (C) an officer or employee of the United States Customs Service who is directly involved in administering an exclusion from entry under subsection (d), (e), or (g) resulting from the investigation or related proceeding in connection with which the information is submitted.
 
 ### Statutory Notes
 
@@ -2401,7 +2619,7 @@ Pub. L. 103–465, § 261(d)(1)(B)(ii)(II)–(V), in second sentence, struck out
 
 Pub. L. 103–465, § 261(d)(1)(B)(ii)(I), as amended by Pub. L. 104–295, § 20(b)(11), in first sentence, struck out reference to [section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303) after “within the purview” and made technical amendment to reference to part II of subtitle IV of this chapter by substituting in the original “of subtitle B of title VII of this Act” for “of section 303 or of subtitle B of title VII of the Tariff Act of 1930”.
 
-Subsec. (c). Pub. L. 103–465, § 321(a)(2), in first sentence, substituted “an agreement between the private parties to the investigation, including an agreement to present the matter for arbitration” for “a settlement agreement”, inserted after third sentence “A respondent may raise any counterclaim in a manner prescribed by the Commission. Immediately after a counterclaim is received by the Commission, the respondent raising such counterclaim shall file a notice of removal with a United States district court in which venue for any of the counterclaims raised by the party would exist under [section 1391 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391&num=0&edition=prelim). Any counterclaim raised pursuant to this section shall relate back to the date of the original complaint in the proceeding before the Commission. Action on such counterclaim shall not delay or affect the proceeding under this section, including the legal and equitable defenses that may be raised under this subsection.”, and inserted at end “Determinations by the Commission under subsections (e), (f), and (j) of this section with respect to forfeiture of bonds and under subsection (h) of this section with respect to the imposition of sanctions for abuse of discovery or abuse of process shall also be reviewable in accordance with [section 706 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706&num=0&edition=prelim).”
+Subsec. (c). Pub. L. 103–465, § 321(a)(2), in first sentence, substituted “an agreement between the private parties to the investigation, including an agreement to present the matter for arbitration” for “a settlement agreement”, inserted after third sentence “A respondent may raise any counterclaim in a manner prescribed by the Commission. Immediately after a counterclaim is received by the Commission, the respondent raising such counterclaim shall file a notice of removal with a United States district court in which venue for any of the counterclaims raised by the party would exist under [section 1391 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391&num=0&edition=prelim). Any counterclaim raised pursuant to this section shall relate back to the date of the original complaint in the proceeding before the Commission. Action on such counterclaim shall not delay or affect the proceeding under this section, including the legal and equitable defenses that may be raised under this subsection.”, and inserted at end “Determinations by the Commission under subsections (e), (f), and (j) with respect to forfeiture of bonds and under subsection (h) with respect to the imposition of sanctions for abuse of discovery or abuse of process shall also be reviewable in accordance with [section 706 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706&num=0&edition=prelim).”
 
 Subsec. (d). Pub. L. 103–465, § 321(a)(5)(A), designated existing provisions as par. (1), substituted “there is a violation” for “there is violation” in first sentence, and added par. (2).
 
@@ -2411,7 +2629,7 @@ Subsec. (e)(2). Pub. L. 103–465, § 321(a)(3)(B), inserted at end “If the Co
 
 Subsec. (e)(4). Pub. L. 103–465, § 321(a)(3)(C), added par. (4).
 
-Subsec. (f)(1). Pub. L. 103–465, § 321(a)(4), inserted at end “If a temporary cease and desist order is issued in addition to, or in lieu of, an exclusion order under subsection (e) of this section, the Commission may require the complainant to post a bond, in an amount determined by the Commission to be sufficient to protect the respondent from any injury, as a prerequisite to the issuance of an order under this subsection. If the Commission later determines that the respondent has not violated the provisions of this section, the bond may be forfeited to the respondent. The Commission shall prescribe the terms and conditions under which the bonds may be forfeited under this paragraph.”
+Subsec. (f)(1). Pub. L. 103–465, § 321(a)(4), inserted at end “If a temporary cease and desist order is issued in addition to, or in lieu of, an exclusion order under subsection (e), the Commission may require the complainant to post a bond, in an amount determined by the Commission to be sufficient to protect the respondent from any injury, as a prerequisite to the issuance of an order under this subsection. If the Commission later determines that the respondent has not violated the provisions of this section, the bond may be forfeited to the respondent. The Commission shall prescribe the terms and conditions under which the bonds may be forfeited under this paragraph.”
 
 Subsec. (g)(2)(C). Pub. L. 103–465, § 321(a)(5)(B), added subpar. (C).
 
@@ -2479,7 +2697,7 @@ Subsec. (i). Pub. L. 97–164, § 160(a)(5), substituted “United States Claims
 
 Pub. L. 96–39, § 106(b)(1), substituted “part II of subtitle IV of this chapter” for “the Antidumping Act, 1921”.
 
-Subsec. (c). Pub. L. 96–39, § 1105(c), substituted “Any person adversely affected by a final determination of the Commission under subsection (d), (e), or (f) of this section” for “Any person adversely affected by a final determination of the Commission under subsection (d) or (e) of this section”.
+Subsec. (c). Pub. L. 96–39, § 1105(c), substituted “Any person adversely affected by a final determination of the Commission under subsection (d), (e), or (f)” for “Any person adversely affected by a final determination of the Commission under subsection (d) or (e)”.
 
 Subsec. (f). Pub. L. 96–39, § 1105(b), designated existing provisions as par. (1) and added par. (2).
 
@@ -2532,7 +2750,7 @@ Amendment by section 1105 of Pub. L. 96–39 effective July 26, 1979, see sectio
 Pub. L. 93–618, title III, § 341(c), Jan. 3, 1975, 88 Stat. 2056, provided that: “The amendments made by this section [amending this section and [section 1337 of this title](./chapter-004-tariff-act-of-1930.md#section-1337)] shall take effect on the 90th day after the date of the enactment of this Act [Jan. 3, 1975], except that, for purposes of issuing regulations under section 337 of the Tariff Act of 1930 [this section], such amendments shall take effect on the date of the enactment of this Act [Jan. 3, 1975]. For purposes of applying section 337(b) of the Tariff Act of 1930 [subsec. (b) of this section] (as amended by subsection (a) [as amended by section 341(a) of Pub. L. 93–618]) with respect to investigations being conducted by the International Trade Commission under section 337 of the Tariff Act [this section] on the day prior to the 90th day after the date of the enactment of this Act [Jan. 3, 1975], such investigations shall be considered as having been commenced on such 90th day.”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Congressional Findings and Purposes Respecting Part 3 of Pub. L. 100–418
 Pub. L. 100–418, title I, § 1341, Aug. 23, 1988, 102 Stat. 1211, provided that: “(a) Findings.—The Congress finds that—“(1) United States persons that rely on protection of intellectual property rights are among the most advanced and competitive in the world; and “(2) the existing protection under section 337 of the Tariff Act of 1930 [this section] against unfair trade practices is cumbersome and costly and has not provided United States owners of intellectual property rights with adequate protection against foreign companies violating such rights. “(b) Purpose.—The purpose of this part [part 3 (§§ 1341, 1342) of subtitle C of title I of Pub. L. 100–418, amending this section, repealing [section 1337a of this title](./chapter-004-tariff-act-of-1930.md#section-1337a), and enacting provisions set out as a note above] is to amend section 337 of the Tariff Act of 1930 to make it a more effective remedy for the protection of United States intellectual property rights.”
@@ -2606,7 +2824,7 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 
 **(c) Definitions** For purposes of this section—
 
-(1) The term “eligible small business” means any business concern which, in the agency’s judgment, due to its small size, has neither adequate internal resources nor financial ability to obtain qualified outside assistance in preparing and filing petitions and applications for remedies and benefits under trade laws. In determining whether a business concern is an “eligible small business”, the agency may consult with the Small Business Administration, and shall consult with any other agency that has provided assistance under subsection (b) of this section to that business concern. An agency decision regarding whether a business concern is an eligible small business for purposes of this section is not reviewable by any other agency or by any court.
+(1) The term “eligible small business” means any business concern which, in the agency’s judgment, due to its small size, has neither adequate internal resources nor financial ability to obtain qualified outside assistance in preparing and filing petitions and applications for remedies and benefits under trade laws. In determining whether a business concern is an “eligible small business”, the agency may consult with the Small Business Administration, and shall consult with any other agency that has provided assistance under subsection (b) to that business concern. An agency decision regarding whether a business concern is an eligible small business for purposes of this section is not reviewable by any other agency or by any court.
 
 (2) The term “trade laws” means—
 
@@ -2738,7 +2956,7 @@ Section, act June 17, 1930, ch. 497, title III, § 340, 46 Stat. 706, related to
 
 (1) In order to carry out a foreign trade agreement entered into by the President before June 12, 1955, by more than 50 per centum of the rate of duty existing on January 1, 1945, with respect to products of Cuba.
 
-(2) In order to carry out a foreign trade agreement entered into by the President on or after June 12, 1955, and before July 1, 1962, below the applicable alternative specified in subsection (a)(2)(C) or (D) or (4)(A) of this section (subject to the applicable provisions of subsection (a)(3)(B), (C), and (D) and (4)(B) and (C) of this section), each such alternative to be read for the purposes of this paragraph as relating to the rate of duty applicable to products of Cuba. With respect to products of Cuba, the limitation of subsection (a)(2)(D)(ii) or (4)(A)(iii) of this section may be exceeded to such extent as may be required to maintain an absolute margin of preference to which such products are entitled.
+(2) In order to carry out a foreign trade agreement entered into by the President on or after June 12, 1955, and before July 1, 1962, below the applicable alternative specified in subsection (a)(2)(C) or (D) or (4)(A) (subject to the applicable provisions of subsection (a)(3)(B), (C), and (D) and (4)(B) and (C)), each such alternative to be read for the purposes of this paragraph as relating to the rate of duty applicable to products of Cuba. With respect to products of Cuba, the limitation of subsection (a)(2)(D)(ii) or (4)(A)(iii) may be exceeded to such extent as may be required to maintain an absolute margin of preference to which such products are entitled.
 
 (3) In order to carry out a foreign trade agreement entered into after June 30, 1962, and before July 1, 1967, below the lowest rate permissible by applying title II of the Trade Expansion Act of 1962 [[19 U.S.C. 1821](./chapter-007-trade-expansion-program.md#section-1821) et seq.] to the rate of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) existing on July 1, 1962, with respect to such product.
 
@@ -2748,7 +2966,7 @@ Section, act June 17, 1930, ch. 497, title III, § 340, 46 Stat. 706, related to
 
 (2) For purposes of this section—
 
-  (A) Except as provided in subsection (d) of this section, the terms “existing on July 1, 1934”, “existing on January 1, 1945”, “existing on January 1, 1955”, and “existing on July 1, 1958” refer to rates of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) existing on the date specified, except rates in effect by reason of action taken pursuant to [section 1362 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1362&num=0&edition=prelim).
+  (A) Except as provided in subsection (d), the terms “existing on July 1, 1934”, “existing on January 1, 1945”, “existing on January 1, 1955”, and “existing on July 1, 1958” refer to rates of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) existing on the date specified, except rates in effect by reason of action taken pursuant to [section 1362 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1362&num=0&edition=prelim).
 
   (B) The term “existing” without the specification of any date, when used with respect to any matter relating to the conclusion of, or proclamation to carry out, a foreign trade agreement, means existing on the day on which that trade agreement is entered into.
 
@@ -3164,7 +3382,7 @@ Repeal effective with respect to articles entered, or withdrawn from warehouse, 
 <a id="section-1401"></a>
 ## § 1401. Miscellaneous
 
-When used in this subtitle or in part I of subtitle II of this chapter—
+When used in this subtitle or in part I of subtitle II—
 
 **(a) Vessel** The word “vessel” includes every description of water craft or other contrivance used, or capable of being used, as a means of transportation in water, but does not include aircraft.
 
@@ -3208,7 +3426,7 @@ When used in this subtitle or in part I of subtitle II of this chapter—
 
 (2) entry summary information required for the classification and appraisement of the merchandise, the verification of statistical information, and the determination of compliance with applicable law.
 
-**(p) Electronic data interchange system** The term “electronic data interchange system” means any established mechanism approved by the Commissioner of Customs through which information can be transferred electronically.
+**(p) Electronic data interchange system** The term “electronic data interchange system” means any established mechanism approved by the Commissioner of U.S. Customs and Border Protection through which information can be transferred electronically.
 
 **(q) National Customs Automation Program** The term “National Customs Automation Program” means the program established under [section 1411 of this title](./chapter-004-tariff-act-of-1930.md#section-1411).
 
@@ -3291,6 +3509,8 @@ Subsecs. (m), (n). Pub. L. 91–271, § 301(c)(2), redesignated subsecs. (m) and
 1935—Subsecs. (l) to (n). Act Aug. 5, 1935, added subsecs. (l) to (n).
 
 #### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (p) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 United States Customs Service substituted for Bureau of Customs in subsec. (i) pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, [section 308 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section308&num=0&edition=prelim), Money and Finance.
 
 #### Effective Date of 2004 Amendment
@@ -3311,7 +3531,7 @@ Act June 30, 1955, ch. 258, § 2(d), 69 Stat. 242, provided that: “The amendme
 Act June 25, 1938, ch. 679, § 37, 52 Stat. 1094, provided that: “Sections 31 and 34 of this Act [amending [section 1001 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1001&num=0&edition=prelim)] shall take effect on the date of enactment of this Act [June 25, 1938]. Except as otherwise specially provided in this Act, the remainder of this Act [amending this section and sections 1001, 1201, 1304, 1308, 1309, 1315, 1317, 1402, 1451, 1459, 1460, 1484, 1485, 1491, 1499, 1501, 1516, 1520, 1524, 1553, 1557, 1558, 1559, 1562, 1563, 1603, 1607, 1609, 1613, 1623, and 1709 of this title, enacting sections 1321, 1467, and 1528 of this title, and amending section 331 of former Title 46, Shipping] shall take effect on the thirtieth day following the date of its enactment.”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -3324,17 +3544,17 @@ Functions of all officers of Department of the Treasury and functions of all age
 
 (1) Except as otherwise specifically provided for in this chapter, imported merchandise shall be appraised, for the purposes of this chapter, on the basis of the following:
 
-  (A) The transaction value provided for under subsection (b) of this section.
+  (A) The transaction value provided for under subsection (b).
 
-  (B) The transaction value of identical merchandise provided for under subsection (c) of this section, if the value referred to in subparagraph (A) cannot be determined, or can be determined but cannot be used by reason of subsection (b)(2) of this section.
+  (B) The transaction value of identical merchandise provided for under subsection (c), if the value referred to in subparagraph (A) cannot be determined, or can be determined but cannot be used by reason of subsection (b)(2).
 
-  (C) The transaction value of similar merchandise provided for under subsection (c) of this section, if the value referred to in subparagraph (B) cannot be determined.
+  (C) The transaction value of similar merchandise provided for under subsection (c), if the value referred to in subparagraph (B) cannot be determined.
 
-  (D) The deductive value provided for under subsection (d) of this section, if the value referred to in subparagraph (C) cannot be determined and if the importer does not request alternative valuation under paragraph (2).
+  (D) The deductive value provided for under subsection (d), if the value referred to in subparagraph (C) cannot be determined and if the importer does not request alternative valuation under paragraph (2).
 
-  (E) The computed value provided for under subsection (e) of this section, if the value referred to in subparagraph (D) cannot be determined.
+  (E) The computed value provided for under subsection (e), if the value referred to in subparagraph (D) cannot be determined.
 
-  (F) The value provided for under subsection (f) of this section, if the value referred to in subparagraph (E) cannot be determined.
+  (F) The value provided for under subsection (f), if the value referred to in subparagraph (E) cannot be determined.
 
 (2) If the value referred to in paragraph (1)(C) cannot be determined with respect to imported merchandise, the merchandise shall be appraised on the basis of the computed value provided for under paragraph (1)(E), rather than the deductive value provided for under paragraph (1)(D), if the importer makes a request to that effect to the customs officer concerned within such time as the Secretary shall prescribe. If the computed value of the merchandise cannot subsequently be determined, the merchandise may not be appraised on the basis of the value referred to in paragraph (1)(F) unless the deductive value of the merchandise cannot be determined under paragraph (1)(D).
 
@@ -3408,7 +3628,7 @@ Functions of all officers of Department of the Treasury and functions of all age
 
 **(c) Transaction value of identical merchandise and similar merchandise**
 
-(1) The transaction value of identical merchandise, or of similar merchandise, is the transaction value (acceptable as the appraised value for purposes of this chapter under subsection (b) of this section but adjusted under paragraph (2) of this subsection) of imported merchandise that is—
+(1) The transaction value of identical merchandise, or of similar merchandise, is the transaction value (acceptable as the appraised value for purposes of this chapter under subsection (b) but adjusted under paragraph (2) of this subsection) of imported merchandise that is—
 
   (A) with respect to the merchandise being appraised, either identical merchandise or similar merchandise, as the case may be; and
 
@@ -3476,7 +3696,7 @@ Functions of all officers of Department of the Treasury and functions of all age
 
 **(f) Value if other values cannot be determined or used**
 
-(1) If the value of imported merchandise cannot be determined, or otherwise used for the purposes of this chapter, under subsections (b) through (e) of this section, the merchandise shall be appraised for the purposes of this chapter on the basis of a value that is derived from the methods set forth in such subsections, with such methods being reasonably adjusted to the extent necessary to arrive at a value.
+(1) If the value of imported merchandise cannot be determined, or otherwise used for the purposes of this chapter, under subsections (b) through (e), the merchandise shall be appraised for the purposes of this chapter on the basis of a value that is derived from the methods set forth in such subsections, with such methods being reasonably adjusted to the extent necessary to arrive at a value.
 
 (2) Imported merchandise may not be appraised, for the purposes of this chapter, on the basis of—
 
@@ -3486,7 +3706,7 @@ Functions of all officers of Department of the Treasury and functions of all age
 
   (C) the price of merchandise in the domestic market of the country of exportation;
 
-  (D) a cost of production, other than a value determined under subsection (e) of this section for merchandise that is identical merchandise or similar merchandise to the merchandise being appraised;
+  (D) a cost of production, other than a value determined under subsection (e) for merchandise that is identical merchandise or similar merchandise to the merchandise being appraised;
 
   (E) the price of merchandise for export to a country other than the United States;
 
@@ -3560,7 +3780,7 @@ Functions of all officers of Department of the Treasury and functions of all age
 
   (A) merchandise that is identical in all respects to, and was produced in the same country and by the same person as, the merchandise being appraised; or
 
-  (B) if merchandise meeting the requirements under subparagraph (A) cannot be found (or for purposes of applying subsection (b)(2)(B)(i) of this section, regardless of whether merchandise meeting such requirements can be found), merchandise that is identical in all respects to, and was produced in the same country as, but not produced by the same person as, the merchandise being appraised.
+  (B) if merchandise meeting the requirements under subparagraph (A) cannot be found (or for purposes of applying subsection (b)(2)(B)(i), regardless of whether merchandise meeting such requirements can be found), merchandise that is identical in all respects to, and was produced in the same country as, but not produced by the same person as, the merchandise being appraised.
 
   (I) was supplied free or at reduced cost by the buyer of the merchandise for use in connection with the production or the sale for export to the United States of the merchandise; and
 
@@ -3578,7 +3798,7 @@ Functions of all officers of Department of the Treasury and functions of all age
 
     (iii) is commercially interchangeable with the merchandise being appraised; or
 
-  (B) if merchandise meeting the requirements under subparagraph (A) cannot be found (or for purposes of applying subsection (b)(2)(B)(i) of this section, regardless of whether merchandise meeting such requirements can be found), merchandise that—
+  (B) if merchandise meeting the requirements under subparagraph (A) cannot be found (or for purposes of applying subsection (b)(2)(B)(i), regardless of whether merchandise meeting such requirements can be found), merchandise that—
 
     (i) was produced in the same country as, but not produced by the same person as, the merchandise being appraised, and
 
@@ -3593,15 +3813,15 @@ Functions of all officers of Department of the Treasury and functions of all age
 
   (A) any amount—
 
-    (i) added under subsection (b)(1) of this section to the price actually paid or payable,
+    (i) added under subsection (b)(1) to the price actually paid or payable,
 
-    (ii) deducted under subsection (d)(3) of this section as profit or general expense or value from further processing, or
+    (ii) deducted under subsection (d)(3) as profit or general expense or value from further processing, or
 
-    (iii) added under subsection (e)(2) of this section as profit or general expense;
+    (iii) added under subsection (e)(2) as profit or general expense;
 
-  (B) any difference taken into account for purposes of subsection (b)(2)(C) of this section; or
+  (B) any difference taken into account for purposes of subsection (b)(2)(C); or
 
-  (C) any adjustment made under subsection (c)(2) of this section;
+  (C) any adjustment made under subsection (c)(2);
   means information that establishes the accuracy of such amount, difference, or adjustment.
 
 ### Statutory Notes
@@ -3694,7 +3914,7 @@ Repeal effective July 1, 1980, see section 204(a)(2) of Pub. L. 96–39, set out
 
   (G) Any other component initiated by the Customs Service to carry out the goals of this subpart.
 
-**(b) Participation in Program** The Secretary shall by regulation prescribe the eligibility criteria for participation in the Program. The Secretary may, by regulation, require the electronic submission of information described in subsection (a) of this section or any other information required to be submitted to the Customs Service separately pursuant to this subpart.
+**(b) Participation in Program** The Secretary shall by regulation prescribe the eligibility criteria for participation in the Program. The Secretary may, by regulation, require the electronic submission of information described in subsection (a) or any other information required to be submitted to the Customs Service separately pursuant to this subpart.
 
 **(c) Foreign-trade zones** Not later than January 1, 2000, the Secretary shall provide for the inclusion of commercial importation data from foreign-trade zones under the Program.
 
@@ -3724,7 +3944,21 @@ Repeal effective July 1, 1980, see section 204(a)(2) of Pub. L. 96–39, set out
 
 (3) **Interagency Steering Committee** — There is established an Interagency Steering Committee (in this section, referred to as the “Committee”). The members of the Committee shall include the Secretary (who shall serve as the chairperson of the Committee), the Director of the Office of Management and Budget, and the head of each agency participating in the ITDS. The Committee shall assist the Secretary in overseeing the implementation of, and participation in, the ITDS.
 
-(4) **Report** — The President shall submit a report before the end of each fiscal year to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives. Each report shall include information on—
+(4) **Information technology infrastructure**
+
+  (A) *In general* — The Secretary shall work with the head of each agency participating in the ITDS and the Interagency Steering Committee to ensure that each agency—
+
+    (i) develops and maintains the necessary information technology infrastructure to support the operation of the ITDS and to submit all data to the ITDS electronically;
+
+    (ii) enters into a memorandum of understanding, or takes such other action as is necessary, to provide for the information sharing between the agency and U.S. Customs and Border Protection necessary for the operation and maintenance of the ITDS;
+
+    (iii) not later than June 30, 2016, identifies and transmits to the Commissioner of U.S. Customs and Border Protection the admissibility criteria and data elements required by the agency to authorize the release of cargo by U.S. Customs and Border Protection for incorporation into the operational functionality of the Automated Commercial Environment computer system authorized under [section 58c(f)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section58c/f/4&num=0&edition=prelim); and
+
+    (iv) not later than December 31, 2016, utilizes the ITDS as the primary means of receiving from users the standard set of data and other relevant documentation, exclusive of applications for permits, licenses, or certifications required for the release of imported cargo and clearance of cargo for export.
+
+  (B) *Rule of construction* — Nothing in this paragraph shall be construed to require any action to be taken that would compromise an ongoing law enforcement investigation or would compromise national security.
+
+(5) **Report** — The President shall submit a report before the end of each fiscal year to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives. Each report shall include information on—
 
   (A) the status of the ITDS implementation;
 
@@ -3738,18 +3972,17 @@ Repeal effective July 1, 1980, see section 204(a)(2) of Pub. L. 96–39, set out
 
   (F) the status of the development, implementation, and management of the Automated Commercial Environment within the United States Customs and Border Protection.
 
-(5) **Sense of Congress** — It is the sense of Congress that agency participation in the ITDS is an important priority of the Federal Government and that the Secretary shall coordinate the operation of the ITDS closely among the participating agencies and the office within the United States Customs and Border Protection that is responsible for maintaining the ITDS.
+(6) **Sense of Congress** — It is the sense of Congress that agency participation in the ITDS is an important priority of the Federal Government and that the Secretary shall coordinate the operation of the ITDS closely among the participating agencies and the office within the United States Customs and Border Protection that is responsible for maintaining the ITDS.
 
-(6) **Construction** — Nothing in this section shall be construed as amending or modifying subsection (g) of [section 301 of title 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section301&num=0&edition=prelim).
+(7) **Construction** — Nothing in this section shall be construed as amending or modifying subsection (g) of [section 301 of title 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section301&num=0&edition=prelim).
 
-(7) **Definition** — The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ([19 U.S.C. 2071](./chapter-010-customs-service.md#section-2071) note) or any successor committee.
+(8) **Definition** — The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to [section 4316 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4316) or any successor committee.
 
 ### Statutory Notes
 
-#### References in Text
-Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in subsec. (d)(7), is section 9503(c) of Pub. L. 100–203, which is set out as a note under [section 2071 of this title](./chapter-010-customs-service.md#section-2071).
-
 #### Amendments
+2016—Subsec. (d)(4) to (8). Pub. L. 114–125 added par. (4), redesignated former pars. (4) to (7) as (5) to (8), and, in par. (8), substituted “[section 4316 of this title](./chapter-028-trade-facilitation-and-trade-enforcement-act-of-2015.md#section-4316)” for “section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ([19 U.S.C. 2071](./chapter-010-customs-service.md#section-2071) note)”.
+
 2006—Subsec. (d). Pub. L. 109–347 added subsec. (d).
 
 2002—Subsec. (b). Pub. L. 107–210 inserted second sentence and struck out former second sentence which read as follows: “Participation in the Program is voluntary.”
@@ -3760,7 +3993,7 @@ Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in
 Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of this title on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding [section 2271 of this title](./chapter-012-trade-act-of-1974.md#section-2271).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Ex. Ord. No. 13659. Streamlining the Export/Import Process for America’s Businesses
 Ex. Ord. No. 13659, Feb. 19, 2014, 79 F.R. 10657, provided:
@@ -3835,6 +4068,17 @@ Sec. 8. General Provisions. (a) Nothing in this order shall be construed to impa
 
 Barack Obama.
 
+#### Delegation of Authority for Drafting and Submission of the International Trade Data System Annual Report to the Congress
+Memorandum of President of the United States, Oct. 20, 2015, 80 F.R. 64305, provided:
+
+Memorandum for the Secretary of Homeland Security
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby delegate to you the reporting function conferred upon the President by section 405 of the SAFE Port Act of 2006, Public Law 109–347.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.
+
 
 <a id="section-1412"></a>
 ## § 1412. Program goals
@@ -3850,7 +4094,7 @@ The goals of the Program are to ensure that all regulations and rulings that are
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1413"></a>
@@ -3921,7 +4165,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 1996—Subsec. (a)(1). Pub. L. 104–295 made technical amendment to reference in original act which appears in text as reference to December 8, 1993.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1414"></a>
@@ -3956,11 +4200,11 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
   (ii) fails to adhere to all applicable laws and regulations.
 
-(4) **Alternative filing** — Any Program participant that is eligible to file entry information electronically from a remote location but chooses not to do so in the case of any entry must file any paper documentation for the entry at the designated location referred to in subsection (d) of this section.
+(4) **Alternative filing** — Any Program participant that is eligible to file entry information electronically from a remote location but chooses not to do so in the case of any entry must file any paper documentation for the entry at the designated location referred to in subsection (d).
 
 **(b) Additional entry information**
 
-(1) **In general** — A Program participant that is eligible under subsection (a) of this section to file entry information from a remote location may, if the Customs Service is satisfied that the participant meets the requirements under paragraph (2), also electronically file from the remote location additional information that is required by the Customs Service to be presented before the acceptance of entry summary information and at the time of acceptance of entry summary information.
+(1) **In general** — A Program participant that is eligible under subsection (a) to file entry information from a remote location may, if the Customs Service is satisfied that the participant meets the requirements under paragraph (2), also electronically file from the remote location additional information that is required by the Customs Service to be presented before the acceptance of entry summary information and at the time of acceptance of entry summary information.
 
 (2) **Requirements** — The Secretary shall publish, and periodically update, a list of those capabilities within the existing and planned components of the Program that a Program participant must have for purposes of this subsection.
 
@@ -3982,7 +4226,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
   (D) *Other* — A Program participant that is eligible under paragraph (1) to file additional information electronically from a remote location but chooses not to do so must file the paper documentation with respect to the information at a designated location.
 
-**(c) Post-entry summary information** A Program participant that is eligible to file electronically entry information under subsection (a) of this section and additional information under subsection (b) of this section from a remote location may file at any remote location designated by the Customs Service any information required by the Customs Service after entry summary.
+**(c) Post-entry summary information** A Program participant that is eligible to file electronically entry information under subsection (a) and additional information under subsection (b) from a remote location may file at any remote location designated by the Customs Service any information required by the Customs Service after entry summary.
 
 **(d) Definitions** As used in this section:
 
@@ -3993,14 +4237,14 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1431"></a>
 ## § 1431. Manifests
-**(a) In general** Every vessel required to make entry under [section 1434 of this title](./chapter-004-tariff-act-of-1930.md#section-1434) or obtain clearance under [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim) shall have a manifest that complies with the requirements prescribed under subsection (d) of this section.
+**(a) In general** Every vessel required to make entry under [section 1434 of this title](./chapter-004-tariff-act-of-1930.md#section-1434) or obtain clearance under [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim) shall have a manifest that complies with the requirements prescribed under subsection (d).
 
-**(b) Production of manifest** Any manifest required by the Customs Service shall be signed, produced, delivered or electronically transmitted by the master or person in charge of the vessel, aircraft, or vehicle, or by any other authorized agent of the owner or operator of the vessel, aircraft, or vehicle in accordance with the requirements prescribed under subsection (d) of this section. A manifest may be supplemented by bill of lading data supplied by the issuer of such bill. If any irregularity of omission or commission occurs in any way in respect to any manifest or bill of lading data, the owner or operator of the vessel, aircraft or vehicle, or any party responsible for such irregularity, shall be liable for any fine or penalty prescribed by law with respect to such irregularity. The Customs Service may take appropriate action against any of the parties.
+**(b) Production of manifest** Any manifest required by the Customs Service shall be signed, produced, delivered or electronically transmitted by the master or person in charge of the vessel, aircraft, or vehicle, or by any other authorized agent of the owner or operator of the vessel, aircraft, or vehicle in accordance with the requirements prescribed under subsection (d). A manifest may be supplemented by bill of lading data supplied by the issuer of such bill. If any irregularity of omission or commission occurs in any way in respect to any manifest or bill of lading data, the owner or operator of the vessel, aircraft or vehicle, or any party responsible for such irregularity, shall be liable for any fine or penalty prescribed by law with respect to such irregularity. The Customs Service may take appropriate action against any of the parties.
 
 **(c) Public disclosure of certain manifest information**
 
@@ -4034,13 +4278,13 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 (1) **In general** — The Secretary shall by regulation—
 
-  (A) specify the form for, and the information and data that must be contained in, the manifest required by subsection (a) of this section;
+  (A) specify the form for, and the information and data that must be contained in, the manifest required by subsection (a);
 
   (B) allow, at the option of the individual producing the manifest and subject to paragraph (2), letters and documents shipments to be accounted for by summary manifesting procedures;
 
-  (C) prescribe the manner of production for, and the delivery for electronic transmittal of, the manifest required by subsection (a) of this section; and
+  (C) prescribe the manner of production for, and the delivery for electronic transmittal of, the manifest required by subsection (a); and
 
-  (D) prescribe the manner for supplementing manifests with bill of lading data under subsection (b) of this section.
+  (D) prescribe the manner for supplementing manifests with bill of lading data under subsection (b).
 
 (2) **Letters and documents shipments** — For purposes of paragraph (1)(B)—
 
@@ -4103,7 +4347,7 @@ Amendment to this section effective on and after thirtieth day following Aug. 8,
 Pub. L. 104–153, § 14, July 2, 1996, 110 Stat. 1390, provided that: “Not later than 6 months after the date of the enactment of this Act [July 2, 1996], the Secretary of the Treasury shall prescribe such regulations or amendments to existing regulations that may be necessary to carry out the amendments made by sections 9, 10, 11, 12, and 13 of this Act [amending this section, sections 1484 and 1526 of this title, and [section 80302 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section80302&num=0&edition=prelim), Transportation].”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1431a"></a>
@@ -4136,7 +4380,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 (2) **Sharing arrangements** — For vessel carriers that are members of vessel sharing agreements (or any other arrangement whereby a carrier moves cargo on another carrier’s vessel), the vessel carrier accepting the booking shall be responsible for reporting undocumented cargo, without regard to whether it operates the vessel on which the transportation is to be made.
 
-(3) **Reassignment to another vessel** — For purposes of this subsection and subsection (f) of this section, if merchandise has been tendered to a marine terminal operator and subsequently reassigned for carriage on another vessel, the merchandise shall be considered properly documented if the information provided reflects carriage on the previously assigned vessel and otherwise meets the requirements of subsection (b) of this section. Notwithstanding the preceding sentence, it shall be the responsibility of the vessel carrier to notify the Customs Service promptly of any reassignment of merchandise for carriage on a vessel other than the vessel on which the merchandise was originally assigned.
+(3) **Reassignment to another vessel** — For purposes of this subsection and subsection (f), if merchandise has been tendered to a marine terminal operator and subsequently reassigned for carriage on another vessel, the merchandise shall be considered properly documented if the information provided reflects carriage on the previously assigned vessel and otherwise meets the requirements of subsection (b). Notwithstanding the preceding sentence, it shall be the responsibility of the vessel carrier to notify the Customs Service promptly of any reassignment of merchandise for carriage on a vessel other than the vessel on which the merchandise was originally assigned.
 
 (4) **Multiple containers** — If a single shipment is comprised of multiple containers, the 48-hour period described in paragraph (1) shall begin to run from the time the last container of the shipment is delivered to the marine terminal operator. It shall be the responsibility of the person tendering the cargo to inform the carrier that the shipment consists of multiple containers that will be delivered to the marine terminal operator at different times as part of a single shipment.
 
@@ -4162,7 +4406,7 @@ In subsec. (b)(1), “(as defined in [section 40102(16) of title 46](https://usc
 Section applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of this title on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as an Effective Date of 2002 Amendment note preceding [section 2271 of this title](./chapter-012-trade-act-of-1974.md#section-2271).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1432-1432a"></a>
@@ -4247,12 +4491,12 @@ only in accordance with regulations prescribed by the Secretary.”
 Amendment by Pub. L. 106–476, except as otherwise provided, applicable with respect to goods entered, or withdrawn from warehouse, for consumption, on or after the 15th day after Nov. 9, 2000, see section 1471 of Pub. L. 106–476, set out as a note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1434"></a>
 ## § 1434. Entry; vessels
-**(a) Formal entry** Within 24 hours (or such other period of time as may be provided under subsection (c)(2) of this section) after the arrival at any port or place in the United States of—
+**(a) Formal entry** Within 24 hours (or such other period of time as may be provided under subsection (c)(2)) after the arrival at any port or place in the United States of—
 
 (1) any vessel from a foreign port or place;
 
@@ -4267,7 +4511,7 @@ the master of the vessel shall, unless otherwise provided by law, make formal en
 
 **(c) Regulations** The Secretary may by regulation—
 
-(1) prescribe the manner and format in which entry under subsection (a) of this section or subsection (b) of this section, or both, must be made, and such regulations may provide that any such entry may be made electronically pursuant to an electronic data interchange system;
+(1) prescribe the manner and format in which entry under subsection (a) or subsection (b), or both, must be made, and such regulations may provide that any such entry may be made electronically pursuant to an electronic data interchange system;
 
 (2) provide that—
 
@@ -4308,7 +4552,7 @@ Amendment by Pub. L. 106–476, except as otherwise provided, applicable with re
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1435"></a>
@@ -4348,9 +4592,9 @@ Section, acts June 16, 1937, ch. 362, 50 Stat. 303; 1946 Reorg. Plan No. 3, §§
 
 (4) to fail to comply with, or violate, any regulation prescribed under any section referred to in any of paragraphs (1) through (3).
 
-**(b) Civil penalty** Any master, person in charge of a vehicle, or aircraft pilot who commits any violation listed in subsection (a) of this section is liable for a civil penalty of $5,000 for the first violation, and $10,000 for each subsequent violation, and any conveyance used in connection with any such violation is subject to seizure and forfeiture.
+**(b) Civil penalty** Any master, person in charge of a vehicle, or aircraft pilot who commits any violation listed in subsection (a) is liable for a civil penalty of $5,000 for the first violation, and $10,000 for each subsequent violation, and any conveyance used in connection with any such violation is subject to seizure and forfeiture.
 
-**(c) Criminal penalty** In addition to being liable for a civil penalty under subsection (b) of this section, any master, person in charge of a vehicle, or aircraft pilot who intentionally commits any violation listed in subsection (a) of this section is, upon conviction, liable for a fine of not more than $2,000 or imprisonment for 1 year, or both; except that if the conveyance has, or is discovered to have had, on board any merchandise (other than sea stores or the equivalent for conveyances other than vessels) the importation of which into the United States is prohibited, such individual is liable for an additional fine of not more than $10,000 or imprisonment for not more than 5 years, or both.
+**(c) Criminal penalty** In addition to being liable for a civil penalty under subsection (b), any master, person in charge of a vehicle, or aircraft pilot who intentionally commits any violation listed in subsection (a) is, upon conviction, liable for a fine of not more than $2,000 or imprisonment for 1 year, or both; except that if the conveyance has, or is discovered to have had, on board any merchandise (other than sea stores or the equivalent for conveyances other than vessels) the importation of which into the United States is prohibited, such individual is liable for an additional fine of not more than $10,000 or imprisonment for not more than 5 years, or both.
 
 **(d) Additional civil penalty** If any merchandise (other than sea stores or the equivalent for conveyances other than a vessel) is imported or brought into the United States in or aboard a conveyance which was not properly reported or entered, the master, person in charge of a vehicle, or aircraft pilot shall be liable for a civil penalty equal to the value of the merchandise and the merchandise may be seized and forfeited unless properly entered by the importer or consignee. If the merchandise consists of any controlled substance listed in [section 1584 of this title](./chapter-004-tariff-act-of-1930.md#section-1584), the master, individual in charge of a vehicle, or pilot shall be liable to the penalties prescribed in that section.
 
@@ -4384,7 +4628,7 @@ Subsec. (a)(2), (3). Pub. L. 103–182, § 611(1)(B), (C), amended pars. (2) and
 1935—Act Aug. 5, 1935, inserted provisions relating to additional penalty for vessel carrying nonimportable merchandise or liquor and added second par.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1437"></a>
@@ -4414,7 +4658,7 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1439-1440"></a>
@@ -4502,7 +4746,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 Act Aug. 14, 1937, ch. 620, § 2, 50 Stat. 638, provided that: “The amendment made by this Act [amending this section] shall take effect on the day following the date of its enactment [Aug. 14, 1937].”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -4556,7 +4800,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 <a id="section-1447"></a>
 ## § 1447. Place of entry and unlading
 
-It shall be unlawful to make entry of any vessel or to unlade the cargo or any part thereof of any vessel elsewhere than at a port of entry: Provided, That upon good cause therefor being shown, the Commissioner of Customs may permit entry of any vessel to be made at a place other than a port of entry designated by him, under such conditions as he shall prescribe: And provided further, That any vessel laden with merchandise in bulk may proceed after entry of such vessel to any place designated by the Secretary of the Treasury for the purpose of unlading such cargo, under the supervision of customs officers if the Customs Service considers the same necessary, and in such case the compensation and expenses of such officers shall be reimbursed to the Government by the party in interest.
+It shall be unlawful to make entry of any vessel or to unlade the cargo or any part thereof of any vessel elsewhere than at a port of entry: Provided, That upon good cause therefor being shown, the Commissioner of U.S. Customs and Border Protection may permit entry of any vessel to be made at a place other than a port of entry designated by him, under such conditions as he shall prescribe: And provided further, That any vessel laden with merchandise in bulk may proceed after entry of such vessel to any place designated by the Secretary of the Treasury for the purpose of unlading such cargo, under the supervision of customs officers if the Customs Service considers the same necessary, and in such case the compensation and expenses of such officers shall be reimbursed to the Government by the party in interest.
 
 ### Statutory Notes
 
@@ -4574,11 +4818,14 @@ R.S. § 2897 authorized Secretary of the Treasury, under regulations by him pres
 
 1970—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in text on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Effective Date of 1970 Amendment
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs personnel, referred to in text, were under Department of the Treasury.
 
@@ -4611,7 +4858,7 @@ Provisions as to the removal of merchandise brought in any vessel from a foreign
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1449"></a>
@@ -4635,7 +4882,7 @@ Provisions concerning protests and reports by vessels compelled by distress of w
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1450"></a>
@@ -4960,7 +5207,7 @@ Section, act June 17, 1930, ch. 497, title IV, § 465, 46 Stat. 718, required ma
 
 (5) inform such person that he shall have a reasonable opportunity to make representations, both oral and written, as to why such penalty claim should not be issued.
 
-**(c) Violation** After considering representations, if any, made by the person concerned pursuant to the notice issued under subsection (b) of this section, the appropriate customs officer shall determine whether any violation of subsection (a) of this section, as alleged in the notice, has occurred. If such officer determines that there was no violation, he shall promptly notify, in writing, the person to whom the notice was sent. If such officer determines that there was a violation, he shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under paragraphs (1) through (4) of subsection (b) of this section.
+**(c) Violation** After considering representations, if any, made by the person concerned pursuant to the notice issued under subsection (b), the appropriate customs officer shall determine whether any violation of subsection (a), as alleged in the notice, has occurred. If such officer determines that there was no violation, he shall promptly notify, in writing, the person to whom the notice was sent. If such officer determines that there was a violation, he shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under paragraphs (1) through (4) of subsection (b).
 
 **(d) Remission for necessary repairs** If the owner or master of such vessel furnishes good and sufficient evidence that—
 
@@ -4973,7 +5220,7 @@ then the Secretary of the Treasury is authorized to remit or refund such duties,
 
 **(e) Exclusions for arrivals two or more years after last departure**
 
-(1) In the case of any vessel referred to in subsection (a) of this section that arrives in a port of the United States two years or more after its last departure from a port in the United States, the duties imposed by this section shall apply only with respect to—
+(1) In the case of any vessel referred to in subsection (a) that arrives in a port of the United States two years or more after its last departure from a port in the United States, the duties imposed by this section shall apply only with respect to—
 
   (A) fish nets and netting, and
 
@@ -4981,9 +5228,9 @@ then the Secretary of the Treasury is authorized to remit or refund such duties,
 
 (2) If such vessel is designed and used primarily for transporting passengers or property, paragraph (1) shall not apply if the vessel departed from the United States for the sole purpose of obtaining such equipments, parts, materials, or repairs.
 
-**(f) Civil aircraft exception** The duty imposed under subsection (a) of this section shall not apply to the cost of equipments, or any part thereof, purchased, of repair parts or materials used, or of repairs made in a foreign country with respect to a United States civil aircraft, within the meaning of general note 3(c)(iv) of the Harmonized Tariff Schedule of the United States.
+**(f) Civil aircraft exception** The duty imposed under subsection (a) shall not apply to the cost of equipments, or any part thereof, purchased, of repair parts or materials used, or of repairs made in a foreign country with respect to a United States civil aircraft, within the meaning of general note 3(c)(iv) of the Harmonized Tariff Schedule of the United States.
 
-**(g) Fish net and netting purchases and repairs** The duty imposed by subsection (a) of this section shall not apply to entries on and after October 1, 1979, and before January 1, 1982, of—
+**(g) Fish net and netting purchases and repairs** The duty imposed by subsection (a) shall not apply to entries on and after October 1, 1979, and before January 1, 1982, of—
 
 (1) tuna purse seine nets and netting which are equipments or parts thereof,
 
@@ -5084,7 +5331,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 This section effective on the thirtieth day following June 25, 1938, except as otherwise specifically provided, see section 37 of act June 25, 1938, set out as an Effective Date of 1938 Amendment note under [section 1401 of this title](./chapter-004-tariff-act-of-1930.md#section-1401).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -5189,7 +5436,7 @@ Repeal effective with respect to merchandise entered on and after 30th day after
 
 **(b) Reconciliation**
 
-(1) **In general** — A party may elect to file a reconciliation with regard to such entry elements as are identified by the party pursuant to regulations prescribed by the Secretary. If the party so elects, the party shall declare that a reconciliation will be filed. The declaration shall be made in such manner as the Secretary shall prescribe and at the time the documentation or information required by subsection (a)(1)(B) of this section or the import activity summary statement is filed with, or transmitted to, the Customs Service, or at such later time as the Customs Service may, in its discretion, permit. The reconciliation shall be filed by the importer of record at such time and in such manner as the Secretary prescribes but not later than 21 months after the date the importer declares his intent to file the reconciliation. In the case of reconciling issues relating to the assessment of antidumping and countervailing duties, the reconciliation shall be filed not later than 90 days after the date the Customs Service advises the importer that the period of review for antidumping or countervailing duty purposes has been completed. Before filing a reconciliation, an importer of record shall post bond or other security pursuant to such regulations as the Secretary may prescribe.
+(1) **In general** — A party may elect to file a reconciliation with regard to such entry elements as are identified by the party pursuant to regulations prescribed by the Secretary. If the party so elects, the party shall declare that a reconciliation will be filed. The declaration shall be made in such manner as the Secretary shall prescribe and at the time the documentation or information required by subsection (a)(1)(B) or the import activity summary statement is filed with, or transmitted to, the Customs Service, or at such later time as the Customs Service may, in its discretion, permit. The reconciliation shall be filed by the importer of record at such time and in such manner as the Secretary prescribes but not later than 21 months after the date the importer declares his intent to file the reconciliation. In the case of reconciling issues relating to the assessment of antidumping and countervailing duties, the reconciliation shall be filed not later than 90 days after the date the Customs Service advises the importer that the period of review for antidumping or countervailing duty purposes has been completed. Before filing a reconciliation, an importer of record shall post bond or other security pursuant to such regulations as the Secretary may prescribe.
 
 (2) **Regulations regarding AD/CV duties** — The Secretary shall prescribe, in consultation with the Secretary of Commerce, such regulations as are necessary to adapt the reconciliation process for use in the collection of antidumping and countervailing duties.
 
@@ -5354,7 +5601,7 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 Pub. L. 106–476, title I, § 1460(b), Nov. 9, 2000, 114 Stat. 2171, provided that: “Not later than 6 months after the date of the enactment of this Act [Nov. 9, 2000], the Secretary of the Treasury shall issue regulations to carry out section 484(j) of the Tariff Act of 1930 [[19 U.S.C. 1484(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1484/j&num=0&edition=prelim)], as added by subsection (a).”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Requirements Relating to Determination of Transaction Value of Imported Merchandise
 Pub. L. 110–234, title XV, § 15422, May 22, 2008, 122 Stat. 1547, and Pub. L. 110–246, § 4(a), title XV, § 15422, June 18, 2008, 122 Stat. 1664, 2309, provided that: “(a) Requirement on Importers.—“(1) In general.—Pursuant to sections 484 and 485 of the Tariff Act of 1930 ([19 U.S.C. 1484](./chapter-004-tariff-act-of-1930.md#section-1484) and 1485), the Commissioner responsible for U.S. Customs and Border Protection shall require each importer of merchandise to provide to U.S. Customs and Border Protection at the time of entry of the merchandise the information described in paragraph (2). “(2) Information required.—The information referred to in paragraph (1) is a declaration as to whether the transaction value of the imported merchandise is determined on the basis of the price paid by the buyer in the first or earlier sale occurring prior to introduction of the merchandise into the United States. “(3) Effective date.—The requirement to provide information under this subsection shall be effective for the 1-year period beginning 90 days after the date of the enactment of this Act [June 18, 2008]. “(b) Report to International Trade Commission.—“(1) In general.—The Commissioner responsible for U.S. Customs and Border Protection shall submit to the United States International Trade Commission on a monthly basis for the 1-year period specified in subsection (a)(3) a report on the information provided by importers under subsection (a)(2) during the preceding month. The report required under this paragraph shall be submitted in a form agreed upon between U.S. Customs and Border Protection and the United States International Trade Commission. “(2) Matters to be included.—The report required under paragraph (1) shall include—“(A) the number of importers that declare the transaction value of the imported merchandise is determined on the basis of the method described in subsection (a)(2); “(B) the tariff classification of such imported merchandise under the Harmonized Tariff Schedule of the United States; and “(C) the transaction value of such imported merchandise. “(c) Report to Congress.—“(1) In general.—Not later than 90 days after the submission of the final report under subsection (b), the United States International Trade Commission shall submit to the appropriate congressional committees a report on the information contained in all reports submitted under subsection (b). “(2) Matters to be included.—The report required under paragraph (1) shall include—“(A) the aggregate number of importers that declare the transaction value of the imported merchandise is determined on the basis of the method described in subsection (a)(2), including a description of the frequency of the use of such method; “(B) the tariff classification of such imported merchandise under the Harmonized Tariff Schedule of the United States on an aggregate basis, including an analysis of the tariff classification of such imported merchandise on a sectoral basis; “(C) the aggregate transaction value of such imported merchandise, including an analysis of the transaction value of such imported merchandise on a sectoral basis; and “(D) the aggregate transaction value of all merchandise imported into the United States during the 1-year period specified in subsection (a)(3). “(d) Sense of Congress Regarding Prohibition on Proposed Interpretation of the Term ‘Sold for Exportation to the United States’.—“(1) In general.—It is the sense of Congress that the Commissioner responsible for U.S. Customs and Border Protection should not implement a change to U.S. Customs and Border Protection’s interpretation (as such interpretation is in effect on the date of the enactment of this Act [June 18, 2008]) of the term ‘sold for exportation to the United States’, as described in section 402(b) of the Tariff Act of 1930 ([19 U.S.C. 1401a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1401a/b&num=0&edition=prelim)), for purposes of applying the transaction value of the imported merchandise in a series of sales, before January 1, 2011. “(2) Exception.—It is the sense of Congress that beginning on January 1, 2011, the Commissioner responsible for U.S. Customs and Border Protection may propose to change or change U.S. Customs and Border Protection’s interpretation of the term ‘sold for exportation to the United States’, as described in paragraph (1), only if U.S. Customs and Border Protection—“(A) consults with, and provides notice to, the appropriate congressional committees—“(i) not less than 180 days prior to proposing a change; and “(ii) not less than 90 days prior to publishing a change; “(B) consults with, provides notice to, and takes into consideration views expressed by, the Commercial Operations Advisory Committee—“(i) not less than 120 days prior to proposing a change; and “(ii) not less than 60 days prior to publishing a change; and “(C) receives the explicit approval of the Secretary of the Treasury prior to publishing a change. “(3) Consideration of international trade commission report.—It is the sense of Congress that prior to publishing a change to U.S. Customs and Border Protection’s interpretation (as such interpretation is in effect on the date of the enactment of this Act [June 18, 2008]) of the term ‘sold for exportation to the United States’, as described in section 402(b) of the Tariff Act of 1930 ([19 U.S.C. 1401a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1401a/b&num=0&edition=prelim)), for purposes of applying the transaction value of the imported merchandise in a series of sales, the Commissioner responsible for U.S. Customs and Border Protection should take into consideration the matters included in the report prepared by the United States International Trade Commission under subsection (c). “(e) Definitions.—In this section:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate. “(2) Commercial operations advisory committee.—The term ‘Commercial Operations Advisory Committee’ means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 [Pub. L. 100–203] ([19 U.S.C. 2071](./chapter-010-customs-service.md#section-2071) note) or any successor committee. “(3) Importer.—The term ‘importer’ means one of the parties qualifying as an ‘importer of record’ under section 484(a)(2)(B) in the Tariff Act of 1930 ([19 U.S.C. 1484(a)(2)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1484/a/2/B&num=0&edition=prelim)). “(4) Transaction value of the imported merchandise.—The term ‘transaction value of the imported merchandise’ has the meaning described in section 402(b) of the Tariff Act of 1930 ([19 U.S.C. 1401a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1401a/b&num=0&edition=prelim)).”
@@ -5400,7 +5647,7 @@ Section applicable with respect to articles launched into space from the customs
 
 <a id="section-1484b"></a>
 ## § 1484b. Deferral of duty on large yachts imported for sale at United States boat shows
-**(a) In general** Notwithstanding any other provision of law, any vessel meeting the definition of a large yacht as provided in subsection (b) of this section and which is otherwise dutiable may be imported without the payment of duty if imported with the intention to offer for sale at a boat show in the United States. Payment of duty shall be deferred, in accordance with this section, until such large yacht is sold.
+**(a) In general** Notwithstanding any other provision of law, any vessel meeting the definition of a large yacht as provided in subsection (b) and which is otherwise dutiable may be imported without the payment of duty if imported with the intention to offer for sale at a boat show in the United States. Payment of duty shall be deferred, in accordance with this section, until such large yacht is sold.
 
 **(b) Definition** As used in this section, the term “large yacht” means a vessel that exceeds 79 feet in length, is used primarily for recreation or pleasure, and has been previously sold by a manufacturer or dealer to a retail consumer.
 
@@ -5416,7 +5663,7 @@ Section applicable with respect to articles launched into space from the customs
 
   (A) entry shall be completed and duty (calculated at the applicable rates provided for under subheading 8903.91.00 or 8903.92.00 of the Harmonized Tariff Schedule of the United States and based upon the value of the large yacht at the time of importation) shall be deposited with the Customs Service; and
 
-  (B) the bond posted as required by subsection (c)(2) of this section shall be returned to the importer.
+  (B) the bond posted as required by subsection (c)(2) shall be returned to the importer.
 
 **(e) Procedures upon expiration of bond period**
 
@@ -5424,7 +5671,7 @@ Section applicable with respect to articles launched into space from the customs
 
   (A) entry shall be completed and duty (calculated at the applicable rates provided for under subheading 8903.91.00 or 8903.92.00 of the Harmonized Tariff Schedule of the United States and based upon the value of the large yacht at the time of importation) shall be deposited with the Customs Service; and
 
-  (B) the bond posted as required by subsection (c)(2) of this section shall be returned to the importer.
+  (B) the bond posted as required by subsection (c)(2) shall be returned to the importer.
 
 (2) **Additional requirements** — No extensions of the bond period shall be allowed. Any large yacht exported in compliance with the bond period may not be reentered for purposes of sale at a boat show in the United States (in order to receive duty deferral benefits) for a period of 3 months after such exportation.
 
@@ -5439,7 +5686,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsecs. (c)
 Pub. L. 106–36, title II, § 2406(b), June 25, 1999, 113 Stat. 171, provided that: “The amendment made by subsection (a) [enacting this section] shall apply with respect to any large yacht imported into the United States after the date that is 15 days after the date of the enactment of this Act [June 25, 1999].”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1485"></a>
@@ -5524,7 +5771,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 Amendment by act June 25, 1938, effective on thirtieth day following June 25, 1938, except as otherwise specifically provided, see section 37 of act June 25, 1938, set out as a note under [section 1401 of this title](./chapter-004-tariff-act-of-1930.md#section-1401).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1486"></a>
@@ -5549,7 +5796,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 Amendment by act Aug. 8, 1953, effective on and after thirtieth day following Aug. 8, 1953, and savings provision, see notes set out under [section 1304 of this title](./chapter-004-tariff-act-of-1930.md#section-1304).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -5613,7 +5860,7 @@ For effective date of repeal, see section 501(a) of Pub. L. 87–456, set out as
   (C) in the opinion of the Customs Service, the entry of imported merchandise cannot be made for want of proper documents or other cause; or
 
   (D) the Customs Service believes that any merchandise is not correctly and legally invoiced;
-  the carrier (unless subject to subsection (c) of this section) shall notify the bonded warehouse of such unentered merchandise.
+  the carrier (unless subject to subsection (c)) shall notify the bonded warehouse of such unentered merchandise.
 
 (2) After notification under paragraph (1), the bonded warehouse shall arrange for the transportation and storage of the merchandise at the risk and expense of the consignee. The merchandise shall remain in the bonded warehouse until—
 
@@ -5627,7 +5874,7 @@ For effective date of repeal, see section 501(a) of Pub. L. 87–456, set out as
 
 **(c) Government merchandise** Any imported merchandise that—
 
-(1) is described in any of subparagraphs (A) through (D) of subsection (a)(1) of this section; and
+(1) is described in any of subparagraphs (A) through (D) of subsection (a)(1); and
 
 (2) is consigned to, or owned by, the United States Government;
 shall be stored and disposed of in accordance with such rules and procedures as the Secretary shall by regulation prescribe.
@@ -5670,22 +5917,22 @@ Subsec. (c). Pub. L. 103–182, § 658(3), added subsec. (c).
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1491"></a>
 ## § 1491. Unclaimed merchandise; disposition of forfeited distilled spirits, wines and malt liquor
 **(a) Appraisal and sale of unclaimed merchandise** Any entered or unentered merchandise (except merchandise entered under [section 1557 of this title](./chapter-004-tariff-act-of-1930.md#section-1557), but including merchandise entered for transportation in bond or for exportation) which shall remain in a bonded warehouse pursuant to [section 1490 of this title](./chapter-004-tariff-act-of-1930.md#section-1490) for 6 months from the date of importation thereof, without all estimated duties, taxes, fees, interest, storage, or other charges thereon having been paid, shall be considered unclaimed and abandoned to the Government and shall be appraised and sold by the Customs Service at public auction under such regulations as the Secretary of the Treasury shall prescribe. All gunpowder and other explosive substances and merchandise liable to depreciation in value by damage, leakage, or other cause to such extent that the proceeds of sale thereof may be insufficient to pay the duties, taxes, fees, interest, storage, and other charges, if permitted to remain in 11 So in original. The word “in” probably should not appear. pursuant to [section 1490 of this title](./chapter-004-tariff-act-of-1930.md#section-1490) in a bonded warehouse for 6 months, may be sold forthwith, under such regulations as the Secretary of the Treasury may prescribe. Merchandise subject to sale hereunder or under [section 1559 of this title](./chapter-004-tariff-act-of-1930.md#section-1559) may be entered or withdrawn for consumption at any time prior to such sale upon payment of all duties, taxes, fees, interest, storage, and other charges, and expenses that may have accrued thereon, but such merchandise after becoming subject to sale may not be exported prior to sale without the payment of such duties, taxes, fees, interest, charges, and expenses nor may it be entered for warehouse. The computation of duties, taxes, interest, and fees for the purposes of this section and sections 1493 and 1559 of this title shall be at the rate or rates applicable at the time the merchandise becomes subject to sale.
 
-**(b) Notice of title vesting in United States** At the end of the 6-month period referred to in subsection (a) of this section, the Customs Service may, in lieu of sale of the merchandise, provide notice to all known interested parties that the title to such merchandise shall be considered to vest in the United States free and clear of any liens or encumbrances, on the 30th day after the date of the notice unless, before such 30th day—
+**(b) Notice of title vesting in United States** At the end of the 6-month period referred to in subsection (a), the Customs Service may, in lieu of sale of the merchandise, provide notice to all known interested parties that the title to such merchandise shall be considered to vest in the United States free and clear of any liens or encumbrances, on the 30th day after the date of the notice unless, before such 30th day—
 
 (1) the subject merchandise is entered or withdrawn for consumption; and
 
 (2) payment is made of all duties, taxes, fees, transfer and storage charges, and other expenses that may have accrued thereon.
 
-**(c) Retention, transfer, destruction, or other disposition** If title to any merchandise vests in the United States by operation of subsection (b) of this section, such merchandise may be retained by the Customs Service for official use, transferred to any other Federal agency or to any State or local agency, destroyed, or otherwise disposed of in accordance with such regulations as the Secretary shall prescribe. All transfer and storage charges or expenses accruing on retained or transferred merchandise shall be paid by the receiving agency.
+**(c) Retention, transfer, destruction, or other disposition** If title to any merchandise vests in the United States by operation of subsection (b), such merchandise may be retained by the Customs Service for official use, transferred to any other Federal agency or to any State or local agency, destroyed, or otherwise disposed of in accordance with such regulations as the Secretary shall prescribe. All transfer and storage charges or expenses accruing on retained or transferred merchandise shall be paid by the receiving agency.
 
-**(d) Petition** Whenever any party, having lost a substantial interest in merchandise by virtue of title vesting in the United States under subsection (b) of this section, can establish such title or interest to the satisfaction of the Secretary within 30 days after the day on which title vests in the United States under subsection (b) of this section, or can establish to the satisfaction of the Secretary that the party did not receive notice under subsection (b) of this section, the Secretary may, upon receipt of a timely and proper petition and upon finding that the facts and circumstances warrant, pay such party out of the Treasury of the United States the amount the Secretary believes the party would have received under [section 1493 of this title](./chapter-004-tariff-act-of-1930.md#section-1493) had the merchandise been sold and a proper claim filed. The decision of the Secretary with respect to any such petition is final and conclusive on all parties.
+**(d) Petition** Whenever any party, having lost a substantial interest in merchandise by virtue of title vesting in the United States under subsection (b), can establish such title or interest to the satisfaction of the Secretary within 30 days after the day on which title vests in the United States under subsection (b), or can establish to the satisfaction of the Secretary that the party did not receive notice under subsection (b), the Secretary may, upon receipt of a timely and proper petition and upon finding that the facts and circumstances warrant, pay such party out of the Treasury of the United States the amount the Secretary believes the party would have received under [section 1493 of this title](./chapter-004-tariff-act-of-1930.md#section-1493) had the merchandise been sold and a proper claim filed. The decision of the Secretary with respect to any such petition is final and conclusive on all parties.
 
 **(e) Appraisal and sale or other disposition of forfeited distilled spirits, wines, and malt liquor** All distilled spirits, wines, and malt liquor forfeited to the Government summarily or by order of court, under any provision of law administered by the United States Customs Service, shall be appraised and disposed of by—
 
@@ -5724,7 +5971,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 Amendment by act June 25, 1938, effective on thirtieth day following June 25, 1938, except as otherwise specifically provided, see section 37 of act June 25, 1938, set out as a note under [section 1401 of this title](./chapter-004-tariff-act-of-1930.md#section-1401).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Extension of One-Year Period
 For extension of one year period prescribed in this section, see Proc. No. 2948, Oct. 12, 1951, 16 F.R. 10589, 65 Stat. c41, set out as a note under [section 1318 of this title](./chapter-004-tariff-act-of-1930.md#section-1318).
@@ -5758,7 +6005,7 @@ Prior to its incorporation into the Code, this section read: “Except as provid
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1493"></a>
@@ -5780,7 +6027,7 @@ Provisions substantially similar in most respects to those in this section, with
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Appropriations
 Act June 26, 1934, ch. 756, § 2, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Refunding proceeds of unclaimed merchandise (Customs) (2x326)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
@@ -6114,7 +6361,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 Amendment by act June 25, 1938, effective on thirtieth day following June 25, 1938, except as otherwise specifically provided, see section 37 of act June 25, 1938, set out as a note under [section 1401 of this title](./chapter-004-tariff-act-of-1930.md#section-1401).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -6188,15 +6435,15 @@ Amendment by Pub. L. 96–39 effective July 1, 1980, see section 204(a) of Pub. 
 Pub. L. 91–271, title II, § 203, June 2, 1970, 84 Stat. 283, provided that: “Titles II and III of this Act [see Short Title of 1970 Amendment note set out under [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654)] shall take effect with respect to articles entered, or withdrawn, from warehouse for consumption, on or after October 1, 1970, and such other articles entered or withdrawn from warehouse for consumption prior to such date, the appraisement of which has not become final before October 1, 1970, and for which an appeal for reappraisement has not been timely filed with the Bureau of Customs [now the United States Customs Service] before October 1, 1970, or with respect to which a protest has not been disallowed in whole or in part before October 1, 1970.”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-1501"></a>
-## § 1501. Voluntary reliquidations by Customs Service
+## § 1501. Voluntary reliquidations by U.S. Customs and Border Protection
 
-A liquidation made in accordance with section 1500 or 1504 of this title or any reliquidation thereof made in accordance with this section may be reliquidated in any respect by the Customs Service, notwithstanding the filing of a protest, within ninety days from the date on which notice of the original liquidation is given or transmitted to the importer, his consignee or agent. Notice of such reliquidation shall be given or transmitted in the manner prescribed with respect to original liquidations under [section 1500(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1500/e&num=0&edition=prelim).
+A liquidation made in accordance with section 1500 or 1504 of this title or any reliquidation thereof made in accordance with this section may be reliquidated in any respect by U.S. Customs and Border Protection, notwithstanding the filing of a protest, within ninety days from the date of the original liquidation. Notice of such reliquidation shall be given or transmitted in the manner prescribed with respect to original liquidations under [section 1500(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1500/e&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -6212,11 +6459,13 @@ Provisions similar to some extent to those in section 13 of the Customs Administ
 R.S. § 2950 provided that the certificate of the appraiser should be deemed to be the appraisement. It was superseded by the provisions relating to appraisers made by the Customs Administrative Act of June 10, 1890, ch. 407, § 13, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, § 28, and the Underwood Tariff Act of Oct. 3, 1913, ch. 16, § III, M, 38 Stat. 186, and was repealed by act Sept. 21, 1922, ch. 356, title IV, § 642, 42 Stat. 989.
 
 #### Amendments
+2016—Pub. L. 114–125, in section catchline, substituted “U.S. Customs and Border Protection” for “the Customs Service” and, in text, substituted “U.S. Customs and Border Protection” for “the Customs Service” and “of the original liquidation” for “on which notice of the original liquidation is given or transmitted to the importer, his consignee or agent”.
+
 2004—Pub. L. 108–429 inserted “or 1504” after “section 1500” in first sentence.
 
-1993—Pub. L. 103–182 amended section catchline generally, substituting “Customs Service” for “appropriate customs officer; notice”, and in text substituted “the Customs Service” for “the appropriate customs officer on his own initiative” and inserted “or transmitted” after “given” in two places.
+1993—Pub. L. 103–182, in section catchline, inserted “by the Customs Service” after “reliquidations” and, in text, substituted “the Customs Service” for “the appropriate customs officer on his own initiative” and inserted “or transmitted” after “given” in two places.
 
-1970—Pub. L. 91–271 struck out “(a)” preceding first sentence and, in such provisions, as so redesignated, substituted provisions authorizing a reliquidation in any respect by the appropriate customs officer on his own initiative for a liquidation made in accordance with [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500) or any reliquidation thereof made in accordance with this section for provisions setting forth the procedure for an appeal for a reappraisement by the collector or the consignee.
+1970—Pub. L. 91–271 amended section generally, substituting provisions authorizing a reliquidation in any respect by the appropriate customs officer on his own initiative for a liquidation made in accordance with [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500) or any reliquidation thereof made in accordance with this section for provisions setting forth the procedure for an appeal for a reappraisement by the collector or the consignee.
 
 1953—Subsec. (a). Act. Aug. 8, 1953, inserted cl. (3) and “including all determinations entering into the same,” in second sentence, and struck out third sentence which provided that “No such appeal filed by the consignee or his agent shall be deemed valid, unless he has complied with all the provisions of this chapter relating to the entry and appraisement of such merchandise”.
 
@@ -6242,7 +6491,7 @@ Act June 25, 1948, ch. 646, § 38, 62 Stat. 992, provided that the amendment mad
 Amendment by act June 25, 1938, effective on thirtieth day following June 25, 1938, except as otherwise specially provided, see section 37 of act June 25, 1938, set out as a note under [section 1401 of this title](./chapter-004-tariff-act-of-1930.md#section-1401).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -6371,7 +6620,7 @@ Repeal effective on and after thirtieth day following Aug. 8, 1953, and savings 
 
 (2) **Entries or claims for drawback**
 
-  (A) *In general* — Except as provided in subparagraph (B) or (C), unless an entry or claim for drawback is extended under subsection (b) of this section or suspended as required by statute or court order, an entry or claim for drawback not liquidated within 1 year from the date of entry or claim shall be deemed liquidated at the drawback amount asserted by the claimant or claim. Notwithstanding [section 1500(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1500/e&num=0&edition=prelim), notice of liquidation need not be given of an entry deemed liquidated.
+  (A) *In general* — Except as provided in subparagraph (B) or (C), unless an entry or claim for drawback is extended under subsection (b) or suspended as required by statute or court order, an entry or claim for drawback not liquidated within 1 year from the date of entry or claim shall be deemed liquidated at the drawback amount asserted by the claimant or claim. Notwithstanding [section 1500(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1500/e&num=0&edition=prelim), notice of liquidation need not be given of an entry deemed liquidated.
 
   (B) *Unliquidated imports* — An entry or claim for drawback whose designated or identified import entries have not been liquidated and become final within the 1-year period described in subparagraph (A), or within the 1-year period described in subparagraph (C), shall be deemed liquidated upon the deposit of estimated duties on the unliquidated imported merchandise, and upon the filing with the Customs Service of a written request for the liquidation of the drawback entry or claim. Such a request must include a waiver of any right to payment or refund under other provisions of law. The Secretary of the Treasury shall prescribe any necessary regulations for the purpose of administering this subparagraph.
 
@@ -6384,11 +6633,11 @@ Repeal effective on and after thirtieth day following Aug. 8, 1953, and savings 
 (1) the information needed for the proper appraisement or classification of the imported or withdrawn merchandise, or for determining the correct drawback amount, or for ensuring compliance with applicable law, is not available to the Customs Service; or
 
 (2) the importer of record or drawback claimant, as the case may be, requests such extension and shows good cause therefor.
-The Secretary shall give notice of an extension under this subsection to the importer of record or drawback claimant, as the case may be, and the surety of such importer of record or drawback claimant. Notice shall be in such form and manner (which may include electronic transmittal) as the Secretary shall by regulation prescribe. Any entry the liquidation of which is extended under this subsection shall be treated as having been liquidated at the rate of duty, value, quantity, and amount of duty asserted by the importer of record, or the drawback amount asserted by the drawback claimant, at the expiration of 4 years from the applicable date specified in subsection (a) of this section.
+The Secretary shall give notice of an extension under this subsection to the importer of record or drawback claimant, as the case may be, and the surety of such importer of record or drawback claimant. Notice shall be in such form and manner (which may include electronic transmittal) as the Secretary shall by regulation prescribe. Any entry the liquidation of which is extended under this subsection shall be treated as having been liquidated at the rate of duty, value, quantity, and amount of duty asserted by the importer of record, or the drawback amount asserted by the drawback claimant, at the expiration of 4 years from the applicable date specified in subsection (a).
 
 **(c) Notice of suspension** If the liquidation of any entry is suspended, the Secretary shall by regulation require that notice of the suspension be provided, in such manner as the Secretary considers appropriate, to the importer of record or drawback claimant, as the case may be, and to any authorized agent and surety of such importer of record or drawback claimant.
 
-**(d) Removal of suspension** Except as provided in [section 1675(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1675/a/3&num=0&edition=prelim), when a suspension required by statute or court order is removed, the Customs Service shall liquidate the entry, unless liquidation is extended under subsection (b) of this section, within 6 months after receiving notice of the removal from the Department of Commerce, other agency, or a court with jurisdiction over the entry. Any entry (other than an entry with respect to which liquidation has been extended under subsection (b) of this section) not liquidated by the Customs Service within 6 months after receiving such notice shall be treated as having been liquidated at the rate of duty, value, quantity, and amount of duty asserted by the importer of record or (in the case of a drawback entry or claim) at the drawback amount asserted by the drawback claimant.
+**(d) Removal of suspension** Except as provided in [section 1675(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1675/a/3&num=0&edition=prelim), when a suspension required by statute or court order is removed, the Customs Service shall liquidate the entry, unless liquidation is extended under subsection (b), within 6 months after receiving notice of the removal from the Department of Commerce, other agency, or a court with jurisdiction over the entry. Any entry (other than an entry with respect to which liquidation has been extended under subsection (b)) not liquidated by the Customs Service within 6 months after receiving such notice shall be treated as having been liquidated at the rate of duty, value, quantity, and amount of duty asserted by the importer of record or (in the case of a drawback entry or claim) at the drawback amount asserted by the drawback claimant.
 
 ### Statutory Notes
 
@@ -6424,7 +6673,7 @@ Subsec. (c). Pub. L. 108–429, § 1563(e)(2), inserted “or drawback claimant,
 
 Subsec. (d). Pub. L. 108–429, § 1563(e)(3), inserted “or (in the case of a drawback entry or claim) at the drawback amount asserted at the time of entry by the drawback claimant” before period at end.
 
-1996—Subsec. (d). Pub. L. 104–295 inserted “, unless liquidation is extended under subsection (b) of this section,” after “shall liquidate the entry” in first sentence, and “(other than an entry with respect to which liquidation has been extended under subsection (b) of this section)” after “Any entry” in second sentence.
+1996—Subsec. (d). Pub. L. 104–295 inserted “, unless liquidation is extended under subsection (b),” after “shall liquidate the entry” in first sentence, and “(other than an entry with respect to which liquidation has been extended under subsection (b))” after “Any entry” in second sentence.
 
 1994—Subsec. (a). Pub. L. 103–465, § 220(c)(1), inserted “except as provided in [section 1675(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1675/a/3&num=0&edition=prelim),” before “an entry of merchandise not liquidated” in introductory provisions.
 
@@ -6472,7 +6721,7 @@ Amendment by Pub. L. 98–573 applicable with respect to articles entered on or 
 Pub. L. 95–410, title II, § 209(b), Oct. 3, 1978, 92 Stat. 903, provided that: “The amendment made by this section [enacting this section] applies to the entry or withdrawal of merchandise for consumption on or after 180 days after the enactment of this Act [Oct. 3, 1978].”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1505"></a>
@@ -6483,7 +6732,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **(c) Interest** Interest assessed due to an underpayment of duties, fees, or interest shall accrue, at a rate determined by the Secretary, from the date the importer of record is required to deposit estimated duties, fees, and interest to the date of liquidation or reliquidation of the applicable entry or reconciliation. Interest on excess moneys deposited shall accrue, at a rate determined by the Secretary, from the date the importer of record deposits estimated duties, fees, and interest or, in a case in which a claim is made under [section 1520(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1520/d&num=0&edition=prelim), from the date on which such claim is made, to the date of liquidation or reliquidation of the applicable entry or reconciliation. The Secretary may prescribe an alternative mid-point interest accounting methodology, which may be employed by the importer, based upon aggregate data in lieu of accounting for such interest from each deposit data provided in this subsection.
 
-**(d) Delinquency** If duties, fees, and interest determined to be due or refunded are not paid in full within the 30-day period specified in subsection (b) of this section, any unpaid balance shall be considered delinquent and bear interest by 30-day periods, at a rate determined by the Secretary, from the date of liquidation or reliquidation until the full balance is paid. No interest shall accrue during the 30-day period in which payment is actually made.
+**(d) Delinquency** If duties, fees, and interest determined to be due or refunded are not paid in full within the 30-day period specified in subsection (b), any unpaid balance shall be considered delinquent and bear interest by 30-day periods, at a rate determined by the Secretary, from the date of liquidation or reliquidation until the full balance is paid. No interest shall accrue during the 30-day period in which payment is actually made.
 
 ### Statutory Notes
 
@@ -6535,7 +6784,7 @@ Amendment by Pub. L. 97–446 applicable with respect to merchandise entered on 
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1506"></a>
@@ -6569,7 +6818,7 @@ Par. (2). Pub. L. 91–271, § 301(m)(2), substituted reference to appropriate c
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1507"></a>
@@ -6652,13 +6901,13 @@ shall make, keep, and render for examination and inspection records (which for p
 
 (3) **Exports under the Canadian agreement** — Any person who exports, or who knowingly causes to be exported, any merchandise to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada shall make, keep, and render for examination and inspection such records (including certifications of origin or copies thereof) which pertain to the exportations.
 
-**(c) Period of time** The records required by subsections (a) and (b) of this section shall be kept for such periods of time as the Secretary shall prescribe; except that—
+**(c) Period of time** The records required by subsections (a) and (b) shall be kept for such periods of time as the Secretary shall prescribe; except that—
 
-(1) no period of time for the retention of the records required under subsection (a) or (b)(3) of this section may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
+(1) no period of time for the retention of the records required under subsection (a) or (b)(3) may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
 
 (2) the period of time for the retention of the records required under subsection (b)(2) of this section shall be at least 5 years from the date of signature of the NAFTA Certificate of Origin; and
 
-(3) records for any drawback claim shall be kept until the 3rd anniversary of the date of payment of the claim.
+(3) records for any drawback claim shall be kept until the 3rd anniversary of the date of liquidation of the claim.
 
 **(d) Limitation** For the purposes of this section and [section 1509 of this title](./chapter-004-tariff-act-of-1930.md#section-1509), a person ordering merchandise from an importer in a domestic transaction does not knowingly cause merchandise to be imported unless—
 
@@ -6668,14 +6917,14 @@ shall make, keep, and render for examination and inspection records (which for p
 
 **(e) Subsection (b) penalties**
 
-(1) **Relating to NAFTA exports** — Any person who fails to retain records required by paragraph (2) of subsection (b) of this section or the regulations issued to implement that paragraph shall be liable for—
+(1) **Relating to NAFTA exports** — Any person who fails to retain records required by paragraph (2) of subsection (b) or the regulations issued to implement that paragraph shall be liable for—
 
   (A) a civil penalty not to exceed $10,000; or
 
   (B) the general recordkeeping penalty that applies under the customs laws;
   whichever penalty is higher.
 
-(2) **Relating to Canadian agreement exports** — Any person who fails to retain the records required by paragraph (3) of subsection (b) of this section or the regulations issued to implement that paragraph shall be liable for a civil penalty not to exceed $10,000.
+(2) **Relating to Canadian agreement exports** — Any person who fails to retain the records required by paragraph (3) of subsection (b) or the regulations issued to implement that paragraph shall be liable for a civil penalty not to exceed $10,000.
 
 **(f) Certificates of Origin for goods exported under the United States-Chile Free Trade Agreement**
 
@@ -6785,7 +7034,7 @@ shall make, keep, and render for examination and inspection records (which for p
 
 (3) **Retention period** — The person who issues a Panama TPA certification of origin shall keep the records and supporting documents relating to that certification of origin for a period of at least 5 years after the date on which the certification is issued.
 
-**(l) Penalties** Any person who fails to retain records and supporting documents required by subsection (f), (g), (h), (i), (j), or (k) of this section or the regulations issued to implement any such subsection shall be liable for the greater of—
+**(l) Penalties** Any person who fails to retain records and supporting documents required by subsection (f), (g), (h), (i), (j), or (k) or the regulations issued to implement any such subsection shall be liable for the greater of—
 
 (1) a civil penalty not to exceed $10,000; or
 
@@ -6812,6 +7061,8 @@ For termination of amendment by section 501(c) of Pub. L. 100–449, see Effecti
 A prior section 1508, acts June 17, 1930, ch. 497, title IV, § 508, 46 Stat. 732; Aug. 8, 1953, ch. 397, § 19, 67 Stat. 518, related to commingling of goods, prior to repeal by Pub. L. 87–456, title III, § 301(a), May 24, 1962, 76 Stat. 75, effective, pursuant to section 501(a) of Pub. L. 87–456, with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
 
 #### Amendments
+2016—Subsec. (c)(3). Pub. L. 114–125 substituted “liquidation” for “payment”.
+
 2011—Subsec. (i). Pub. L. 112–41, §§ 107(c), 206(2), temporarily added subsec. (i). Former subsec. (i) redesignated (j). See Effective and Termination Dates of 2011 Amendment note below.
 
 Subsec. (j). Pub. L. 112–42, §§ 107(c), 207(2), temporarily added subsec. (j). Former subsec. (j) redesignated (k). See Effective and Termination Dates of 2011 Amendment note below.
@@ -6856,6 +7107,9 @@ Subsec. (e). Pub. L. 103–182, § 205(a)(3), amended subsec. (e) generally. Pri
 
 1988—Subsecs. (b) to (e). Pub. L. 100–449 temporarily added subsec. (b), redesignated former subsec. (b) as (c) and inserted “and (b)” after “subsection (a)”, redesignated former subsec. (c) as (d), and added subsec. (e). See Effective and Termination Dates of 1988 Amendment note below.
 
+#### Effective Date of 2016 Amendment
+Amendment by Pub. L. 114–125 effective Feb. 24, 2016, and, except as otherwise provided, applicable to drawback claims filed on or after the date that is 2 years after such date, see section 906(q) of Pub. L. 114–125, set out as a note under [section 1313 of this title](./chapter-004-tariff-act-of-1930.md#section-1313).
+
 #### Effective and Termination Dates of 2011 Amendment
 Amendment by Pub. L. 112–43 effective Oct. 21, 2011, applicable with respect to Panama on the date the United States–Panama Trade Promotion Agreement enters into force (Oct. 31, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–43, set out in a note under [section 3805 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3805).
 
@@ -6885,7 +7139,7 @@ Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade
 Amendment by section 205(a) of Pub. L. 103–182 to be made after amendment by section 614 of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1509"></a>
@@ -6896,7 +7150,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
   (A) if such record is required by law or regulation for the entry of the merchandise (whether or not the Customs Service required its presentation at the time of entry) it shall be provided to the Customs Service within a reasonable time after demand for its production is made, taking into consideration the number, type, and age of the item demanded; and
 
-  (B) if a person of whom demand is made under subparagraph (A) fails to comply with the demand, the person may be subject to penalty under subsection (g) of this section;
+  (B) if a person of whom demand is made under subparagraph (A) fails to comply with the demand, the person may be subject to penalty under subsection (g);
 
 (2) summon, upon reasonable notice—
 
@@ -6915,7 +7169,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
   (C) any person having possession, custody or care of records relating to the importation or other activity described in subparagraph (A); or
 
   (D) any other person he may deem proper;
-  to appear before the appropriate customs officer at the time and place within the customs territory of the United States specified in the summons (except that no witness may be required to appear at any place more than one hundred miles distant from the place where he was served with the summons), to produce records, as defined in subsection (d)(1)(A) of this section, and to give such testimony, under oath, as may be relevant to such investigation or inquiry; and
+  to appear before the appropriate customs officer at the time and place within the customs territory of the United States specified in the summons (except that no witness may be required to appear at any place more than one hundred miles distant from the place where he was served with the summons), to produce records, as defined in subsection (d)(1)(A), and to give such testimony, under oath, as may be relevant to such investigation or inquiry; and
 
 (3) take, or cause to be taken, such testimony of the person concerned, under oath, as may be relevant to such investigation or inquiry.
 
@@ -6992,7 +7246,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 (7) The provisions of paragraphs (2) and (5) of this subsection shall not apply with respect to any summons if, upon petition by the Secretary, the court determines, on the basis of the facts and circumstances alleged, that there is reasonable cause to believe the giving of notice may lead to attempts to conceal, destroy, or alter records relevant to the examination, to prevent the communication of information from other persons through intimidation, bribery, or collusion, or to flee to avoid prosecution, testifying, or production of records.
 
-**(e) List of records and information** The Customs Service shall identify and publish a list of the records or entry information that is required to be maintained and produced under subsection (a)(1)(A) of this section.
+**(e) List of records and information** The Customs Service shall identify and publish a list of the records or entry information that is required to be maintained and produced under subsection (a)(1)(A).
 
 **(f) Recordkeeping compliance program**
 
@@ -7014,9 +7268,9 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **(g) Penalties**
 
-(1) **“Information” defined** — For purposes of this subsection, the term “information” means any record, statement, declaration, document, or electronically stored or transmitted information or data referred to in subsection (a)(1)(A) of this section.
+(1) **“Information” defined** — For purposes of this subsection, the term “information” means any record, statement, declaration, document, or electronically stored or transmitted information or data referred to in subsection (a)(1)(A).
 
-(2) **Effects of failure to comply with demand** — Except as provided in paragraph (4), if a person fails to comply with a lawful demand for information under subsection (a)(1)(A) of this section the following provisions apply:
+(2) **Effects of failure to comply with demand** — Except as provided in paragraph (4), if a person fails to comply with a lawful demand for information under subsection (a)(1)(A) the following provisions apply:
 
   (A) If the failure to comply is a result of the willful failure of the person to maintain, store, or retrieve the demanded information, such person shall be subject to a penalty, for each release of merchandise, not to exceed $100,000, or an amount equal to 75 percent of the appraised value of the merchandise, whichever amount is less.
 
@@ -7051,7 +7305,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
   (A) *In general* — When a recordkeeper who—
 
-    (i) has been certified as a participant in the recordkeeping compliance program under subsection (f) of this section; and
+    (i) has been certified as a participant in the recordkeeping compliance program under subsection (f); and
 
     (ii) is generally in compliance with the appropriate procedures and requirements of the program;
     does not produce a demanded record or information for a specific release or provide the information by acceptable alternative means, the Customs Service, in the absence of willfulness or repeated violations, shall issue a written notice of the violation to the recordkeeper in lieu of a monetary penalty. Repeated violations by the recordkeeper may result in the issuance of penalties and removal of certification under the program until corrective action, satisfactory to the Customs Service, is taken.
@@ -7117,7 +7371,7 @@ Subsec. (d)(4)(B). Pub. L. 103–182, § 615(4)(C), (D), substituted “the tran
 
 Subsecs. (e) to (g). Pub. L. 103–182, § 615(5), added subsecs. (e) to (g).
 
-1986—Subsec. (a)(2). Pub. L. 99–570, § 3117(1), substituted “as defined in subsection (c)(1)(A) of this section” for “required to be kept under [section 1508 of this title](./chapter-004-tariff-act-of-1930.md#section-1508)” in concluding provisions.
+1986—Subsec. (a)(2). Pub. L. 99–570, § 3117(1), substituted “as defined in subsection (c)(1)(A)” for “required to be kept under [section 1508 of this title](./chapter-004-tariff-act-of-1930.md#section-1508)” in concluding provisions.
 
 Subsec. (c)(1)(A). Pub. L. 99–570, § 3117(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The term ‘records’ includes statements, declarations, or documents required to be kept under [section 1508 of this title](./chapter-004-tariff-act-of-1930.md#section-1508).”
 
@@ -7146,7 +7400,7 @@ Act June 25, 1948, ch. 646, § 38, 62 Stat. 992, provided that the amendment mad
 Amendment by section 205(b) of Pub. L. 103–182 to be made after amendment by section 615 of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1510"></a>
@@ -7260,18 +7514,18 @@ shall be final and conclusive upon all persons (including the United States and 
 
 **(c) Form, number, and amendment of protest; filing of protest**
 
-(1) A protest of a decision made under subsection (a) of this section shall be filed in writing, or transmitted electronically pursuant to an electronic data interchange system, in accordance with regulations prescribed by the Secretary. A protest must set forth distinctly and specifically—
+(1) A protest of a decision made under subsection (a) shall be filed in writing, or transmitted electronically pursuant to an electronic data interchange system, in accordance with regulations prescribed by the Secretary. A protest must set forth distinctly and specifically—
 
-  (A) each decision described in subsection (a) of this section as to which protest is made;
+  (A) each decision described in subsection (a) as to which protest is made;
 
   (B) each category of merchandise affected by each decision set forth under paragraph (1);
 
   (C) the nature of each objection and the reasons therefor; and
 
   (D) any other matter required by the Secretary by regulation.
-  Only one protest may be filed for each entry of merchandise, except that where the entry covers merchandise of different categories, a separate protest may be filed for each category. In addition, separate protests filed by different authorized persons with respect to any one category of merchandise, or with respect to a determination of origin under [section 3332 of this title](./chapter-021-north-american-free-trade.md#section-3332), that is the subject of a protest are deemed to be part of a single protest. Unless a request for accelerated disposition is filed under [section 1515(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1515/b&num=0&edition=prelim), a protest may be amended, under regulations prescribed by the Secretary, to set forth objections as to a decision or decisions described in subsection (a) of this section which were not the subject of the original protest, in the form and manner prescribed for a protest, any time prior to the expiration of the time in which such protest could have been filed under this section. New grounds in support of objections raised by a valid protest or amendment thereto may be presented for consideration in connection with the review of such protest pursuant to [section 1515 of this title](./chapter-004-tariff-act-of-1930.md#section-1515) at any time prior to the disposition of the protest in accordance with that section.
+  Only one protest may be filed for each entry of merchandise, except that where the entry covers merchandise of different categories, a separate protest may be filed for each category. In addition, separate protests filed by different authorized persons with respect to any one category of merchandise, or with respect to a determination of origin under [section 3332 of this title](./chapter-021-north-american-free-trade.md#section-3332), that is the subject of a protest are deemed to be part of a single protest. Unless a request for accelerated disposition is filed under [section 1515(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1515/b&num=0&edition=prelim), a protest may be amended, under regulations prescribed by the Secretary, to set forth objections as to a decision or decisions described in subsection (a) which were not the subject of the original protest, in the form and manner prescribed for a protest, any time prior to the expiration of the time in which such protest could have been filed under this section. New grounds in support of objections raised by a valid protest or amendment thereto may be presented for consideration in connection with the review of such protest pursuant to [section 1515 of this title](./chapter-004-tariff-act-of-1930.md#section-1515) at any time prior to the disposition of the protest in accordance with that section.
 
-(2) Except as provided in sections 1485(d) and 1557(b) of this title, protests may be filed with respect to merchandise which is the subject of a decision specified in subsection (a) of this section by—
+(2) Except as provided in sections 1485(d) and 1557(b) of this title, protests may be filed with respect to merchandise which is the subject of a decision specified in subsection (a) by—
 
   (A) the importers or consignees shown on the entry papers, or their sureties;
 
@@ -7285,7 +7539,7 @@ shall be final and conclusive upon all persons (including the United States and 
 
   (F) any authorized agent of any of the persons described in clauses (A) through (E).
 
-(3) A protest of a decision, order, or finding described in subsection (a) of this section shall be filed with the Customs Service within 180 days after but not before—
+(3) A protest of a decision, order, or finding described in subsection (a) shall be filed with the Customs Service within 180 days after but not before—
 
   (A) date of liquidation or reliquidation, or
 
@@ -7294,13 +7548,13 @@ shall be final and conclusive upon all persons (including the United States and 
 
 **(d) Limitation on protest of reliquidation** The reliquidation of an entry shall not open such entry so that a protest may be filed against the decision of the Customs Service upon any question not involved in such reliquidation.
 
-**(e) Advance notice of certain determinations** Except as provided in subsection (f) of this section, an exporter or producer referred to in subsection (c)(2)(E) of this section shall be provided notice in advance of an adverse determination of origin under [section 3332 of this title](./chapter-021-north-american-free-trade.md#section-3332). The Secretary may, by regulations, prescribe the time period in which such advance notice shall be issued and authorize the Customs Service to provide in the notice the entry number and any other entry information considered necessary to allow the exporter or producer to exercise the rights provided by this section.
+**(e) Advance notice of certain determinations** Except as provided in subsection (f), an exporter or producer referred to in subsection (c)(2)(E) shall be provided notice in advance of an adverse determination of origin under [section 3332 of this title](./chapter-021-north-american-free-trade.md#section-3332). The Secretary may, by regulations, prescribe the time period in which such advance notice shall be issued and authorize the Customs Service to provide in the notice the entry number and any other entry information considered necessary to allow the exporter or producer to exercise the rights provided by this section.
 
 **(f) Denial of preferential treatment** If the Customs Service finds indications of a pattern of conduct by an exporter or producer of false or unsupported representations that goods qualify under the rules of origin set out in [section 3332 of this title](./chapter-021-north-american-free-trade.md#section-3332)—
 
 (1) the Customs Service, in accordance with regulations issued by the Secretary, may deny preferential tariff treatment to entries of identical goods exported or produced by that person; and
 
-(2) the advance notice requirement in subsection (e) of this section shall not apply to that person;
+(2) the advance notice requirement in subsection (e) shall not apply to that person;
 until the person establishes to the satisfaction of the Customs Service that its representations are in conformity with [section 3332 of this title](./chapter-021-north-american-free-trade.md#section-3332).
 
 **(g) Denial of preferential tariff treatment under United States-Chile Free Trade Agreement** If the Bureau of Customs and Border Protection or the Bureau of Immigration and Customs Enforcement finds indications of a pattern of conduct by an importer of false or unsupported representations that goods qualify under the rules of origin set out in section 202 of the United States-Chile Free Trade Agreement Implementation Act, the Bureau of Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may deny preferential tariff treatment under the United States-Chile Free Trade Agreement to entries of identical goods imported by that person until the person establishes to the satisfaction of the Bureau of Customs and Border Protection that representations of that person are in conformity with such section 202.
@@ -7486,7 +7740,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 Amendment by section 208 of Pub. L. 103–182 to be made after amendment by section 645 of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Functions of Secretary of the Treasury under this section insofar as they relate to any protest, petition, or notice of desire to contest described in section 1002(b)(1) of the Trade Agreements Act of 1979, set out as a note under [section 1516a of this title](./chapter-004-tariff-act-of-1930.md#section-1516a), transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, § 5(a)(1)(D), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171).
 
@@ -7506,7 +7760,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 **(b) Request for accelerated disposition of protest** A request for accelerated disposition of a protest filed in accordance with [section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514) may be mailed by certified or registered mail to the appropriate customs officer any time concurrent with or following the filing of such protest. For purposes of [section 1581 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1581&num=0&edition=prelim), a protest which has not been allowed or denied in whole or in part within thirty days following the date of mailing by certified or registered mail of a request for accelerated disposition shall be deemed denied on the thirtieth day following mailing of such request.
 
-**(c) Request for set aside of denial of further review** If a protesting party believes that an application for further review was erroneously or improperly denied or was denied without authority for such action, it may file with the Commissioner of Customs a written request that the denial of the application for further review be set aside. Such request must be filed within 60 days after the date of the notice of the denial. The Commissioner of Customs may review such request and, based solely on the information before the Customs Service at the time the application for further review was denied, may set aside the denial of the application for further review and void the denial of protest, if appropriate. If the Commissioner of Customs fails to act within 60 days after the date of the request, the request shall be considered denied. All denials of protests are effective from the date of original denial for purposes of [section 2636 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2636&num=0&edition=prelim). If an action is commenced in the Court of International Trade that arises out of a protest or an application for further review, all administrative action pertaining to such protest or application shall terminate and any administrative action taken subsequent to the commencement of the action is null and void.
+**(c) Request for set aside of denial of further review** If a protesting party believes that an application for further review was erroneously or improperly denied or was denied without authority for such action, it may file with the Commissioner of U.S. Customs and Border Protection a written request that the denial of the application for further review be set aside. Such request must be filed within 60 days after the date of the notice of the denial. The Commissioner of U.S. Customs and Border Protection may review such request and, based solely on the information before the Customs Service at the time the application for further review was denied, may set aside the denial of the application for further review and void the denial of protest, if appropriate. If the Commissioner of U.S. Customs and Border Protection fails to act within 60 days after the date of the request, the request shall be considered denied. All denials of protests are effective from the date of original denial for purposes of [section 2636 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2636&num=0&edition=prelim). If an action is commenced in the Court of International Trade that arises out of a protest or an application for further review, all administrative action pertaining to such protest or application shall terminate and any administrative action taken subsequent to the commencement of the action is null and void.
 
 **(d) Voiding denial of protest** If a protest is timely and properly filed, but is denied contrary to proper instructions, the Customs Service may on its own initiative, or pursuant to a written request by the protesting party filed with the appropriate port director within 90 days after the date of the protest denial, void the denial of the protest.
 
@@ -7532,6 +7786,9 @@ Provisions for transmission of the invoice, papers, and exhibits to the board of
 
 1970—Pub. L. 91–271 designating existing provisions as subsec. (a), substituted provisions authorizing review by appropriate customs officer for provisions authorizing review by collector and revised such review procedures, and added subsec. (b).
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” wherever appearing in subsec. (c) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Effective Date of 2004 Amendment
 Amendment by Pub. L. 108–429 applicable to merchandise entered, or withdrawn from warehouse for consumption, on or after the 15th day after Dec. 3, 2004, see section 2108 of Pub. L. 108–429, set out as a note under [section 1401 of this title](./chapter-004-tariff-act-of-1930.md#section-1401).
 
@@ -7548,7 +7805,7 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see sections 1002 and 107 o
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Functions of Secretary of the Treasury under this section insofar as they relate to any protest, petition, or notice of desire to contest described in section 1002(b)(1) of the Trade Agreements Act of 1979, set out as a note under [section 1516a of this title](./chapter-004-tariff-act-of-1930.md#section-1516a), transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, § 5(a)(1)(D), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171).
 
@@ -7721,17 +7978,17 @@ Act June 25, 1938, ch. 679, § 17(b), (c), 52 Stat. 1086, as amended by act June
 
 (4) **Procedures and fees** — The procedures and fees set forth in chapter 169 of title 28 apply to an action under this section.
 
-(5) **Time limits in cases involving merchandise from free trade area countries** — Notwithstanding any other provision of this subsection, in the case of a determination to which the provisions of subsection (g) of this section apply, an action under this subsection may not be commenced, and the time limits for commencing an action under this subsection shall not begin to run, until the day specified in whichever of the following subparagraphs applies:
+(5) **Time limits in cases involving merchandise from free trade area countries** — Notwithstanding any other provision of this subsection, in the case of a determination to which the provisions of subsection (g) apply, an action under this subsection may not be commenced, and the time limits for commencing an action under this subsection shall not begin to run, until the day specified in whichever of the following subparagraphs applies:
 
   (A) For a determination described in paragraph (1)(B) or clause (i), (ii) or (iii) of paragraph (2)(B), the 31st day after the date on which notice of the determination is published in the Federal Register.
 
   (B) For a determination described in clause (vi) of paragraph (2)(B), the 31st day after the date on which the government of the relevant FTA country receives notice of the determination.
 
-  (C) For a determination with respect to which binational panel review has commenced in accordance with subsection (g)(8) of this section, the day after the date as of which—
+  (C) For a determination with respect to which binational panel review has commenced in accordance with subsection (g)(8), the day after the date as of which—
 
     (i) the binational panel has dismissed binational panel review of the determination for lack of jurisdiction, and
 
-    (ii) any interested party seeking review of the determination under paragraph (1), (2), or (3) of this subsection has provided timely notice under subsection (g)(3)(B) of this section.
+    (ii) any interested party seeking review of the determination under paragraph (1), (2), or (3) of this subsection has provided timely notice under subsection (g)(3)(B).
     If such an interested party files a summons and complaint under this subsection after dismissal by the binational panel, and if a request for an extraordinary challenge committee is made with respect to the decision by the binational panel to dismiss—
 
     (I) judicial review under this subsection shall be stayed during consideration by the committee of the request, and
@@ -7740,9 +7997,9 @@ Act June 25, 1938, ch. 679, § 17(b), (c), 52 Stat. 1086, as amended by act June
 
   (D) For a determination for which review by the United States Court of International Trade is provided for—
 
-    (i) under subsection (g)(12)(B) of this section, the day after the date of publication in the Federal Register of notice that article 1904 of the NAFTA has been suspended, or
+    (i) under subsection (g)(12)(B), the day after the date of publication in the Federal Register of notice that article 1904 of the NAFTA has been suspended, or
 
-    (ii) under subsection (g)(12)(D) of this section, the day after the date that notice of settlement is published in the Federal Register.
+    (ii) under subsection (g)(12)(D), the day after the date that notice of settlement is published in the Federal Register.
 
   (E) For a determination described in clause (vii) of paragraph (2)(B), the 31st day after the date on which notice of the implementation of the determination is published in the Federal Register.
 
@@ -7750,13 +8007,13 @@ Act June 25, 1938, ch. 679, § 17(b), (c), 52 Stat. 1086, as amended by act June
 
 (1) **Remedy** — The court shall hold unlawful any determination, finding, or conclusion found—
 
-  (A) in an action brought under subparagraph (A), (B), or (C) of subsection (a)(1) of this section, to be arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law, or
+  (A) in an action brought under subparagraph (A), (B), or (C) of subsection (a)(1), to be arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law, or
 
   (B)
 
-    (i) in an action brought under paragraph (2) of subsection (a) of this section, to be unsupported by substantial evidence on the record, or otherwise not in accordance with law, or
+    (i) in an action brought under paragraph (2) of subsection (a), to be unsupported by substantial evidence on the record, or otherwise not in accordance with law, or
 
-    (ii) in an action brought under paragraph (1)(D) of subsection (a) of this section, to be arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
+    (ii) in an action brought under paragraph (1)(D) of subsection (a), to be arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
 
 (2) **Record for review**
 
@@ -7768,13 +8025,13 @@ Act June 25, 1938, ch. 679, § 17(b), (c), 52 Stat. 1086, as amended by act June
 
   (B) *Confidential or privileged material* — The confidential or privileged status accorded to any documents, comments, or information shall be preserved in any action under this section. Notwithstanding the preceding sentence, the court may examine, in camera, the confidential or privileged material, and may disclose such material under such terms and conditions as it may order.
 
-(3) **Effect of decisions by NAFTA or United States-Canada binational panels** — In making a decision in any action brought under subsection (a) of this section, a court of the United States is not bound by, but may take into consideration, a final decision of a binational panel or extraordinary challenge committee convened pursuant to article 1904 of the NAFTA or of the Agreement.
+(3) **Effect of decisions by NAFTA or United States-Canada binational panels** — In making a decision in any action brought under subsection (a), a court of the United States is not bound by, but may take into consideration, a final decision of a binational panel or extraordinary challenge committee convened pursuant to article 1904 of the NAFTA or of the Agreement.
 
 **(c) Liquidation of entries**
 
-(1) **Liquidation in accordance with determination** — Unless such liquidation is enjoined by the court under paragraph (2) of this subsection, entries of merchandise of the character covered by a determination of the Secretary, the administering authority, or the Commission contested under subsection (a) of this section shall be liquidated in accordance with the determination of the Secretary, the administering authority, or the Commission, if they are entered, or withdrawn from warehouse, for consumption on or before the date of publication in the Federal Register by the Secretary or the administering authority of a notice of a decision of the United States Court of International Trade, or of the United States Court of Appeals for the Federal Circuit, not in harmony with that determination. Such notice of a decision shall be published within ten days from the date of the issuance of the court decision.
+(1) **Liquidation in accordance with determination** — Unless such liquidation is enjoined by the court under paragraph (2) of this subsection, entries of merchandise of the character covered by a determination of the Secretary, the administering authority, or the Commission contested under subsection (a) shall be liquidated in accordance with the determination of the Secretary, the administering authority, or the Commission, if they are entered, or withdrawn from warehouse, for consumption on or before the date of publication in the Federal Register by the Secretary or the administering authority of a notice of a decision of the United States Court of International Trade, or of the United States Court of Appeals for the Federal Circuit, not in harmony with that determination. Such notice of a decision shall be published within ten days from the date of the issuance of the court decision.
 
-(2) **Injunctive relief** — In the case of a determination described in paragraph (2) of subsection (a) of this section by the Secretary, the administering authority, or the Commission, the United States Court of International Trade may enjoin the liquidation of some or all entries of merchandise covered by a determination of the Secretary, the administering authority, or the Commission, upon a request by an interested party for such relief and a proper showing that the requested relief should be granted under the circumstances.
+(2) **Injunctive relief** — In the case of a determination described in paragraph (2) of subsection (a) by the Secretary, the administering authority, or the Commission, the United States Court of International Trade may enjoin the liquidation of some or all entries of merchandise covered by a determination of the Secretary, the administering authority, or the Commission, upon a request by an interested party for such relief and a proper showing that the requested relief should be granted under the circumstances.
 
 (3) **Remand for final disposition** — If the final disposition of an action brought under this section is not in harmony with the published determination of the Secretary, the administering authority, or the Commission, the matter shall be remanded to the Secretary, the administering authority, or the Commission, as appropriate, for disposition consistent with the final disposition of the court.
 
@@ -7784,7 +8041,7 @@ Act June 25, 1938, ch. 679, § 17(b), (c), 52 Stat. 1086, as amended by act June
 
 (1) entries of merchandise of the character covered by the published determination of the Secretary, the administering authority, or the Commission, which is entered, or withdrawn from warehouse, for consumption after the date of publication in the Federal Register by the Secretary or the administering authority of a notice of the court decision, and
 
-(2) entries, the liquidation of which was enjoined under subsection (c)(2) of this section,
+(2) entries, the liquidation of which was enjoined under subsection (c)(2),
 shall be liquidated in accordance with the final court decision in the action. Such notice of the court decision shall be published within ten days from the date of the issuance of the court decision.
 
 **(f) Definitions** For purposes of this section—
@@ -7832,26 +8089,26 @@ shall be liquidated in accordance with the final court decision in the action. S
 
 (1) **“Determination” defined** — For purposes of this subsection, the term “determination” means a determination described in—
 
-  (A) paragraph (1)(B) of subsection (a) of this section, or
+  (A) paragraph (1)(B) of subsection (a), or
 
-  (B) clause (i), (ii), (iii), (vi), or (vii) of paragraph (2)(B) of subsection (a) of this section,
+  (B) clause (i), (ii), (iii), (vi), or (vii) of paragraph (2)(B) of subsection (a),
   if made in connection with a proceeding regarding a class or kind of free trade area country merchandise, as determined by the administering authority.
 
 (2) **Exclusive review of determination by binational panels** — If binational panel review of a determination is requested pursuant to article 1904 of the NAFTA or of the Agreement, then, except as provided in paragraphs (3) and (4)—
 
-  (A) the determination is not reviewable under subsection (a) of this section, and
+  (A) the determination is not reviewable under subsection (a), and
 
   (B) no court of the United States has power or jurisdiction to review the determination on any question of law or fact by an action in the nature of mandamus or otherwise.
 
 (3) **Exception to exclusive binational panel review**
 
-  (A) *In general* — A determination is reviewable under subsection (a) of this section if the determination sought to be reviewed is—
+  (A) *In general* — A determination is reviewable under subsection (a) if the determination sought to be reviewed is—
 
     (i) a determination as to which neither the United States nor the relevant FTA country requested review by a binational panel pursuant to article 1904 of the NAFTA or of the Agreement,
 
-    (ii) a revised determination issued as a direct result of judicial review, commenced pursuant to subsection (a) of this section, if neither the United States nor the relevant FTA country requested review of the original determination,
+    (ii) a revised determination issued as a direct result of judicial review, commenced pursuant to subsection (a), if neither the United States nor the relevant FTA country requested review of the original determination,
 
-    (iii) a determination issued as a direct result of judicial review that was commenced pursuant to subsection (a) of this section prior to the entry into force of the NAFTA or of the Agreement,
+    (iii) a determination issued as a direct result of judicial review that was commenced pursuant to subsection (a) prior to the entry into force of the NAFTA or of the Agreement,
 
     (iv) a determination which a binational panel has determined is not reviewable by the binational panel,
 
@@ -7859,22 +8116,22 @@ shall be liquidated in accordance with the final court decision in the action. S
 
     (vi) a determination as to which extraordinary challenge committee review has terminated pursuant to paragraph 12 of article 1905 of the NAFTA.
 
-  (B) *Special rule* — A determination described in subparagraph (A)(i) or (iv) is reviewable under subsection (a) of this section only if the party seeking to commence review has provided timely notice of its intent to commence such review to—
+  (B) *Special rule* — A determination described in subparagraph (A)(i) or (iv) is reviewable under subsection (a) only if the party seeking to commence review has provided timely notice of its intent to commence such review to—
 
     (i) the United States Secretary and the relevant FTA Secretary;
 
     (ii) all interested parties who were parties to the proceeding in connection with which the matter arises; and
 
     (iii) the administering authority or the Commission, as appropriate.
-    Such notice is timely provided if the notice is delivered no later than the date that is 20 days after the date described in subparagraph (A) or (B) of subsection (a)(5) of this section that is applicable to such determination, except that, if the time for requesting binational panel review is suspended under paragraph (8)(A)(ii) of this subsection, any unexpired time for providing notice of intent to commence judicial review shall, during the pendency of any such suspension, also be suspended. Such notice shall contain such information, and be in such form, manner, and style, as the administering authority, in consultation with the Commission, shall prescribe by regulations.
+    Such notice is timely provided if the notice is delivered no later than the date that is 20 days after the date described in subparagraph (A) or (B) of subsection (a)(5) that is applicable to such determination, except that, if the time for requesting binational panel review is suspended under paragraph (8)(A)(ii) of this subsection, any unexpired time for providing notice of intent to commence judicial review shall, during the pendency of any such suspension, also be suspended. Such notice shall contain such information, and be in such form, manner, and style, as the administering authority, in consultation with the Commission, shall prescribe by regulations.
 
 (4) **Exception to exclusive binational panel review for constitutional issues**
 
   (A) *Constitutionality of binational panel review system* — An action for declaratory judgment or injunctive relief, or both, regarding a determination on the grounds that any provision of, or amendment made by, the North American Free Trade Agreement Implementation Act implementing the binational dispute settlement system under chapter 19 of the NAFTA, or the United States-Canada Free-Trade Agreement Implementation Act of 1988 implementing the binational panel dispute settlement system under chapter 19 of the Agreement, violates the Constitution may be brought only in the United States Court of Appeals for the District of Columbia Circuit, which shall have jurisdiction of such action.
 
-  (B) *Other constitutional review* — Review is available under subsection (a) of this section with respect to a determination solely concerning a constitutional issue (other than an issue to which subparagraph (A) applies) arising under any law of the United States as enacted or applied. An action for review under this subparagraph shall be assigned to a 3-judge panel of the United States Court of International Trade.
+  (B) *Other constitutional review* — Review is available under subsection (a) with respect to a determination solely concerning a constitutional issue (other than an issue to which subparagraph (A) applies) arising under any law of the United States as enacted or applied. An action for review under this subparagraph shall be assigned to a 3-judge panel of the United States Court of International Trade.
 
-  (C) *Commencement of review* — Notwithstanding the time limits in subsection (a) of this section, within 30 days after the date of publication in the Federal Register of notice that binational panel review has been completed, an interested party who is a party to the proceeding in connection with which the matter arises may commence an action under subparagraph (A) or (B) by filing an action in accordance with the rules of the court.
+  (C) *Commencement of review* — Notwithstanding the time limits in subsection (a), within 30 days after the date of publication in the Federal Register of notice that binational panel review has been completed, an interested party who is a party to the proceeding in connection with which the matter arises may commence an action under subparagraph (A) or (B) by filing an action in accordance with the rules of the court.
 
   (D) *Transfer of actions to appropriate court* — Whenever an action is filed in a court under subparagraph (A) or (B) and that court finds that the action should have been filed in the other court, the court in which the action was filed shall transfer the action to the other court and the action shall proceed as if it had been filed in the court to which it is transferred on the date upon which it was actually filed in the court from which it is transferred.
 
@@ -7892,13 +8149,13 @@ shall be liquidated in accordance with the final court decision in the action. S
 
 (5) **Liquidation of entries**
 
-  (A) *Application* — In the case of a determination for which binational panel review is requested pursuant to article 1904 of the NAFTA or of the Agreement, the rules provided in this paragraph shall apply, notwithstanding the provisions of subsection (c) of this section.
+  (A) *Application* — In the case of a determination for which binational panel review is requested pursuant to article 1904 of the NAFTA or of the Agreement, the rules provided in this paragraph shall apply, notwithstanding the provisions of subsection (c).
 
   (B) *General rule* — In the case of a determination for which binational panel review is requested pursuant to article 1904 of the NAFTA or of the Agreement, entries of merchandise covered by such determination shall be liquidated in accordance with the determination of the administering authority or the Commission, if they are entered, or withdrawn from warehouse, for consumption on or before the date of publication in the Federal Register by the administering authority of notice of a final decision of a binational panel, or of an extraordinary challenge committee, not in harmony with that determination. Such notice of a decision shall be published within 10 days of the date of the issuance of the panel or committee decision.
 
   (C) *Suspension of liquidation*
 
-    (i) *In general* — Notwithstanding the provisions of subparagraph (B), in the case of a determination described in clause (iii) or (vi) of subsection (a)(2)(B) of this section for which binational panel review is requested pursuant to article 1904 of the NAFTA or of the Agreement, the administering authority, upon request of an interested party who was a party to the proceeding in connection with which the matter arises and who is a participant in the binational panel review, shall order the continued suspension of liquidation of those entries of merchandise covered by the determination that are involved in the review pending the final disposition of the review.
+    (i) *In general* — Notwithstanding the provisions of subparagraph (B), in the case of a determination described in clause (iii) or (vi) of subsection (a)(2)(B) for which binational panel review is requested pursuant to article 1904 of the NAFTA or of the Agreement, the administering authority, upon request of an interested party who was a party to the proceeding in connection with which the matter arises and who is a participant in the binational panel review, shall order the continued suspension of liquidation of those entries of merchandise covered by the determination that are involved in the review pending the final disposition of the review.
 
     (ii) *Notice* — At the same time as the interested party makes its request to the administering authority under clause (i), that party shall serve a copy of its request on the United States Secretary, the relevant FTA Secretary, and all interested parties who were parties to the proceeding in connection with which the matter arises.
 
@@ -7906,7 +8163,7 @@ shall be liquidated in accordance with the final court decision in the action. S
 
     (iv) *Judicial review* — Any action taken by the administering authority or the United States Customs Service under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
 
-(6) **Injunctive relief** — Except for cases under paragraph (4)(B), in the case of a determination for which binational panel review is requested pursuant to article 1904 of the NAFTA or of the Agreement, the provisions of subsection (c)(2) of this section shall not apply.
+(6) **Injunctive relief** — Except for cases under paragraph (4)(B), in the case of a determination for which binational panel review is requested pursuant to article 1904 of the NAFTA or of the Agreement, the provisions of subsection (c)(2) shall not apply.
 
 (7) **Implementation of international obligations under article 1904 of the NAFTA or the Agreement**
 
@@ -7918,7 +8175,7 @@ shall be liquidated in accordance with the final court decision in the action. S
 
   (A) *Interested party requests for binational panel review*
 
-    (i) *General rule* — An interested party who was a party to the proceeding in which a determination is made may request binational panel review of such determination by filing a request with the United States Secretary by no later than the date that is 30 days after the date described in subparagraph (A), (B), or (E) of subsection (a)(5) of this section that is applicable to such determination. Receipt of such request by the United States Secretary shall be deemed to be a request for binational panel review within the meaning of article 1904(4) of the NAFTA or of the Agreement. Such request shall contain such information and be in such form, manner, and style as the administering authority, in consultation with the Commission, shall prescribe by regulations.
+    (i) *General rule* — An interested party who was a party to the proceeding in which a determination is made may request binational panel review of such determination by filing a request with the United States Secretary by no later than the date that is 30 days after the date described in subparagraph (A), (B), or (E) of subsection (a)(5) that is applicable to such determination. Receipt of such request by the United States Secretary shall be deemed to be a request for binational panel review within the meaning of article 1904(4) of the NAFTA or of the Agreement. Such request shall contain such information and be in such form, manner, and style as the administering authority, in consultation with the Commission, shall prescribe by regulations.
 
     (ii) *Suspension of time to request binational panel review under the NAFTA* — Notwithstanding clause (i), the time for requesting binational panel review shall be suspended during the pendency of any stay of binational panel review that is issued pursuant to paragraph 11(a) of article 1905 of the NAFTA.
 
@@ -7932,7 +8189,7 @@ shall be liquidated in accordance with the final court decision in the action. S
 
 (9) **Representation in panel proceedings** — In the case of binational panel proceedings convened under chapter 19 of the NAFTA or of the Agreement, the administering authority and the Commission shall be represented by attorneys who are employees of the administering authority or the Commission, respectively. Interested parties who were parties to the proceeding in connection with which the matter arises shall have the right to appear and be represented by counsel before the binational panel.
 
-(10) **Notification of class or kind rulings** — In the case of a determination which is described in paragraph (2)(B)(vi) of subsection (a) of this section and which is subject to the provisions of paragraph (2), the administering authority, upon request, shall inform any interested person of the date on which the Government of the relevant FTA country received notice of the determination under paragraph 4 of article 1904 of the NAFTA or the Agreement.
+(10) **Notification of class or kind rulings** — In the case of a determination which is described in paragraph (2)(B)(vi) of subsection (a) and which is subject to the provisions of paragraph (2), the administering authority, upon request, shall inform any interested person of the date on which the Government of the relevant FTA country received notice of the determination under paragraph 4 of article 1904 of the NAFTA or the Agreement.
 
 (11) **Suspension and termination of suspension of article 1904 of the NAFTA**
 
@@ -7944,32 +8201,32 @@ shall be liquidated in accordance with the final court decision in the action. S
 
   (A) *Notice of suspension or termination of suspension of article 1904*
 
-    (i) Upon notification by the Trade Representative or the Government of a country described in subsection (f)(10)(A) or (B) of this section that the operation of article 1904 of the NAFTA has been suspended in accordance with paragraph 8(a) or 9 of article 1905 of the NAFTA, the United States Secretary shall publish in the Federal Register a notice of suspension of article 1904 of the NAFTA.
+    (i) Upon notification by the Trade Representative or the Government of a country described in subsection (f)(10)(A) or (B) that the operation of article 1904 of the NAFTA has been suspended in accordance with paragraph 8(a) or 9 of article 1905 of the NAFTA, the United States Secretary shall publish in the Federal Register a notice of suspension of article 1904 of the NAFTA.
 
-    (ii) Upon notification by the Trade Representative or the Government of a country described in subsection (f)(10)(A) or (B) of this section that the suspension of the operation of article 1904 of the NAFTA is terminated in accordance with paragraph 10 of article 1905 of the NAFTA, the United States Secretary shall publish in the Federal Register a notice of termination of suspension of article 1904 of the NAFTA.
+    (ii) Upon notification by the Trade Representative or the Government of a country described in subsection (f)(10)(A) or (B) that the suspension of the operation of article 1904 of the NAFTA is terminated in accordance with paragraph 10 of article 1905 of the NAFTA, the United States Secretary shall publish in the Federal Register a notice of termination of suspension of article 1904 of the NAFTA.
 
   (B) *Transfer of final determinations for judicial review upon suspension of article 1904* — If the operation of article 1904 of the NAFTA is suspended in accordance with paragraph 8(a) or 9 of article 1905 of the NAFTA—
 
-    (i) upon the request of an authorized person described in subparagraph (C), any final determination that is the subject of a binational panel review or an extraordinary challenge committee review shall be transferred to the United States Court of International Trade (in accordance with rules issued by the Court) for review under subsection (a) of this section; or
+    (i) upon the request of an authorized person described in subparagraph (C), any final determination that is the subject of a binational panel review or an extraordinary challenge committee review shall be transferred to the United States Court of International Trade (in accordance with rules issued by the Court) for review under subsection (a); or
 
     (ii) in a case in which—
 
       (I) a binational panel review was completed fewer than 30 days before the suspension, and
 
       (II) extraordinary challenge committee review has not been requested,
-    upon the request of an authorized person described in subparagraph (C) which is made within 60 days after the completion of the binational panel review, the final determination that was the subject of the binational panel review shall be transferred to the United States Court of International Trade (in accordance with rules issued by the Court) for review under subsection (a) of this section.
+    upon the request of an authorized person described in subparagraph (C) which is made within 60 days after the completion of the binational panel review, the final determination that was the subject of the binational panel review shall be transferred to the United States Court of International Trade (in accordance with rules issued by the Court) for review under subsection (a).
 
   (C) *Persons authorized to request transfer of final determinations for judicial review* — A request that a final determination be transferred to the Court of International Trade under subparagraph (B) may be made by—
 
     (i) if the United States made an allegation under paragraph 1 of article 1905 of the NAFTA and the operation of article 1904 of the NAFTA was suspended pursuant to paragraph 8(a) of article 1905 of the NAFTA—
 
-      (I) the government of the relevant country described in subsection (f)(10)(A) or (B) of this section,
+      (I) the government of the relevant country described in subsection (f)(10)(A) or (B),
 
       (II) an interested party that was a party to the panel or committee review, or
 
       (III) an interested party that was a party to the proceeding in connection with which panel review was requested, but only if the time period for filing notices of appearance in the panel review has not expired, or
 
-    (ii) if a country described in subsection (f)(10)(A) or (B) of this section made an allegation under paragraph 1 of article 1905 of the NAFTA and the operation of article 1904 of the NAFTA was suspended pursuant to paragraph 9 of article 1905 of the NAFTA—
+    (ii) if a country described in subsection (f)(10)(A) or (B) made an allegation under paragraph 1 of article 1905 of the NAFTA and the operation of article 1904 of the NAFTA was suspended pursuant to paragraph 9 of article 1905 of the NAFTA—
 
       (I) the government of that country,
 
@@ -7979,7 +8236,7 @@ shall be liquidated in accordance with the final court decision in the action. S
 
   (D) *Transfer for judicial review upon settlement*
 
-    (i) If the Trade Representative achieves a settlement with the government of a country described in subsection (f)(10)(A) or (B) of this section pursuant to paragraph 7 of article 1905 of the NAFTA, and referral for judicial review is among the terms of such settlement, any final determination that is the subject of a binational panel review or an extraordinary challenge committee review shall, upon a request described in clause (ii), be transferred to the United States Court of International Trade (in accordance with rules issued by the Court) for review under subsection (a) of this section.
+    (i) If the Trade Representative achieves a settlement with the government of a country described in subsection (f)(10)(A) or (B) pursuant to paragraph 7 of article 1905 of the NAFTA, and referral for judicial review is among the terms of such settlement, any final determination that is the subject of a binational panel review or an extraordinary challenge committee review shall, upon a request described in clause (ii), be transferred to the United States Court of International Trade (in accordance with rules issued by the Court) for review under subsection (a).
 
     (ii) A request referred to in clause (i) is a request made by—
 
@@ -8031,7 +8288,7 @@ Subsec. (a)(2)(B)(viii). Pub. L. 103–465, § 271(b)(2), added cl. (viii).
 
 Subsec. (a)(5)(E). Pub. L. 103–465, § 129(e)(2), added subpar. (E).
 
-Subsec. (b)(1)(A). Pub. L. 103–465, § 220(b)(2)(A), substituted “under subparagraph (A), (B), or (C) of subsection (a)(1) of this section” for “under paragraph (1) of subsection (a) of this section”.
+Subsec. (b)(1)(A). Pub. L. 103–465, § 220(b)(2)(A), substituted “under subparagraph (A), (B), or (C) of subsection (a)(1)” for “under paragraph (1) of subsection (a)”.
 
 Subsec. (b)(1)(B). Pub. L. 103–465, § 220(b)(2)(B), designated existing provisions as cl. (i), substituted “, or” for period at end, and added cl. (ii).
 
@@ -8157,7 +8414,7 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 Section 1002 of title X of Pub. L. 96–39 provided that: “(a) Effective Date.—The amendments made by this title [enacting this section and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure] shall take effect on that date (hereinafter in this section referred to as the ‘effective date’) on which title VII of the Tariff Act of 1930 [subtitle IV of this chapter] (as added by title I of this Act) takes effect [Jan. 1, 1980]; and section 515(a) of such Act of 1930 [[section 1515(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1515/a&num=0&edition=prelim)] (as amended by section 1001(b)(2)) shall apply with respect to any denial, in whole or in part, of a protest filed under section 514 of such Act of 1930 [[section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514)] on or after the effective date. “(b) Transitional Rules.—“(1) Certain protests, petitions, actions, etc.—The amendments made by this title [enacting this section and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure] shall not apply with respect to—“(A) any protest, petition, or notice of desire to contest filed before the effective date [Jan. 1, 1980] under section 514, 516(a), or 516(d), respectively, of the Tariff Act of 1930 [section 1514, 1516(a), or 1516(d) of this title]; “(B) any civil action commenced before the effective date [Jan. 1, 1980] under [section 2632 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2632&num=0&edition=prelim) of the United States Code; or “(C) any civil action commenced after the effective date [Jan. 1, 1980] under such section 2632 if the protest, petition, or notice of desire to contest (under section 514, 516(a), or 516(d), respectively, of the Tariff Act of 1930) on which such action is based was filed before such effective date. “(2) Law to be applied for purposes of such actions.—Notwithstanding the repeal of the Antidumping Act, 1921 [sections 160 to 171 of this title], by section 106(a) of this Act, and the amendment of section 303 of the Tariff Act of 1930 [[section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303)] by section 103 of this Act, the law in effect on the date of any finding or determination contested in a civil action described in subparagraph (A), (B), or (C) of paragraph (1) shall be applied for purposes of that action. “(3) Certain countervailing and antidumping duty assessments.—The amendments made by this title [enacting this section and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure] shall apply with respect to the review of the assessment of, or failure to assess, any countervailing duty or antidumping duty on entries subject to a countervailing duty order or antidumping finding if the assessment is made after the effective date. If no assessment of such duty had been made before the effective date that could serve the party seeking review as the basis of a review of the underlying determination, made by the Secretary of the Treasury or the International Trade Commission before the effective date, on which such order, finding, or lack thereof is based, then the underlying determination shall be subject to review in accordance with the law in effect on the day before the effective date. “(4) Certain countervailing and antidumping duty determinations.—With respect to any preliminary determination or final determination of the Secretary of the Treasury under section 303 of the Tariff Act of 1930 [[section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303)] or the Antidumping Act, 1921 [sections 160 to 171 of this title], which is treated under section 102 of this Act [set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671)] as if made under section 703(b), 705(a), 733(b), or 735(a) of the Tariff Act of 1930 [section 1671b(b), 1671d(a), 1673b(b), or 1673d(a) of this title] (as added by title I of this Act) such determinations shall be subject to judicial review in the same manner and to the same extent as if made on the day before the effective date.”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Effect of Termination of NAFTA Country Status
 For provisions relating to effect of termination of NAFTA country status on the provisions of sections 401 to 416 of Pub. L. 103–182, see [section 3451 of this title](./chapter-021-north-american-free-trade.md#section-3451).
@@ -8171,12 +8428,247 @@ For acceptance by President of decisions of binational panels and extraordinary 
 For provision that in the event that subsec. (g)(7)(B) of this section takes effect, the President accepts, as a whole, all decisions of binational panels and extraordinary challenge committees, see section 3 of Ex. Ord. No. 12662, Dec. 31, 1988, 54 F.R. 785, set out as a note under [section 2112 of this title](./chapter-012-trade-act-of-1974.md#section-2112).
 
 
-<a id="section-1517-to-1519"></a>
-## § 1517 to 1519. Repealed. June 25, 1948, ch. 646, § 39, 62 Stat. 992, eff. Sept. 1, 1948
+<a id="section-1517"></a>
+## § 1517. Procedures for investigating claims of evasion of antidumping and countervailing duty orders
+**(a) Definitions** In this section:
+
+(1) **Administering authority** — The term “administering authority” has the meaning given that term in [section 1677(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/1&num=0&edition=prelim).
+
+(2) **Commissioner** — The term “Commissioner” means the Commissioner of U.S. Customs and Border Protection.
+
+(3) **Covered merchandise** — The term “covered merchandise” means merchandise that is subject to—
+
+  (A) an antidumping duty order issued under [section 1673e of this title](./chapter-004-tariff-act-of-1930.md#section-1673e); or
+
+  (B) a countervailing duty order issued under [section 1671e of this title](./chapter-004-tariff-act-of-1930.md#section-1671e).
+
+(4) **Enter; entry** — The terms “enter” and “entry” refer to the entry, or withdrawal from warehouse for consumption, of merchandise into the customs territory of the United States.
+
+(5) **Evasion**
+
+  (A) *In general* — Except as provided in subparagraph (B), the term “evasion” refers to entering covered merchandise into the customs territory of the United States by means of any document or electronically transmitted data or information, written or oral statement, or act that is material and false, or any omission that is material, and that results in any cash deposit or other security or any amount of applicable antidumping or countervailing duties being reduced or not being applied with respect to the merchandise.
+
+  (B) *Exception for clerical error*
+
+    (i) *In general* — Except as provided in clause (ii), the term “evasion” does not include entering covered merchandise into the customs territory of the United States by means of—
+
+      (I) a document or electronically transmitted data or information, written or oral statement, or act that is false as a result of a clerical error; or
+
+      (II) an omission that results from a clerical error.
+
+    (ii) *Patterns of negligent conduct* — If the Commissioner determines that a person has entered covered merchandise into the customs territory of the United States by means of a clerical error referred to in subclause (I) or (II) of clause (i) and that the clerical error is part of a pattern of negligent conduct on the part of that person, the Commissioner may determine, notwithstanding clause (i), that the person has entered such covered merchandise into the customs territory of the United States through evasion.
+
+    (iii) *Electronic repetition of errors* — For purposes of clause (ii), the mere nonintentional repetition by an electronic system of an initial clerical error does not constitute a pattern of negligent conduct.
+
+    (iv) *Rule of construction* — A determination by the Commissioner that a person has entered covered merchandise into the customs territory of the United States by means of a clerical error referred to in subclause (I) or (II) of clause (i) rather than through evasion shall not be construed to excuse that person from the payment of any duties applicable to the merchandise.
+
+(6) **Interested party**
+
+  (A) *In general* — The term “interested party” means—
+
+    (i) a foreign manufacturer, producer, or exporter, or the United States importer, of covered merchandise or a trade or business association a majority of the members of which are producers, exporters, or importers of such merchandise;
+
+    (ii) a manufacturer, producer, or wholesaler in the United States of a domestic like product;
+
+    (iii) a certified union or recognized union or group of workers that is representative of an industry engaged in the manufacture, production, or wholesale in the United States of a domestic like product;
+
+    (iv) a trade or business association a majority of the members of which manufacture, produce, or wholesale a domestic like product in the United States;
+
+    (v) an association a majority of the members of which is composed of interested parties described in clause (ii), (iii), or (iv) with respect to a domestic like product; and
+
+    (vi) if the covered merchandise is a processed agricultural product, as defined in section 1677(4)(E), a coalition or trade association that is representative of either—
+
+      (I) processors;
+
+      (II) processors and producers; or
+
+      (III) processors and growers.
+
+  (B) *Domestic like product* — For purposes of subparagraph (A), the term “domestic like product” means a product that is like, or in the absence of like, most similar in characteristics and uses with, covered merchandise.
+
+**(b) Investigations**
+
+(1) **In general** — Not later than 15 business days after receiving an allegation described in paragraph (2) or a referral described in paragraph (3), the Commissioner shall initiate an investigation if the Commissioner determines that the information provided in the allegation or the referral, as the case may be, reasonably suggests that covered merchandise has been entered into the customs territory of the United States through evasion.
+
+(2) **Allegation described** — An allegation described in this paragraph is an allegation that a person has entered covered merchandise into the customs territory of the United States through evasion that is—
+
+  (A) filed with the Commissioner by an interested party; and
+
+  (B) accompanied by information reasonably available to the party that filed the allegation.
+
+(3) **Referral described** — A referral described in this paragraph is information submitted to the Commissioner by any other Federal agency, including the Department of Commerce or the United States International Trade Commission, that reasonably suggests that a person has entered covered merchandise into the customs territory of the United States through evasion.
+
+(4) **Consideration by administering authority**
+
+  (A) *In general* — If the Commissioner receives an allegation under paragraph (2) and is unable to determine whether the merchandise at issue is covered merchandise, the Commissioner shall—
+
+    (i) refer the matter to the administering authority to determine whether the merchandise is covered merchandise pursuant to the authority of the administering authority under subtitle IV of this chapter; and
+
+    (ii) notify the party that filed the allegation, and any other interested party participating in the investigation, of the referral.
+
+  (B) *Determination; transmission to Commissioner* — After receiving a referral under subparagraph (A)(i) with respect to merchandise, the administering authority shall determine whether the merchandise is covered merchandise and promptly transmit that determination to the Commissioner.
+
+  (C) *Stay of deadlines* — The period required for any referral and determination under this paragraph shall not be counted in calculating any deadline under this section.
+
+  (D) *Rule of construction* — Nothing in this paragraph shall be construed to affect the authority of an interested party to commence an action in the United States Court of International Trade under [section 1516a(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a/2&num=0&edition=prelim) with respect to a determination of the administering authority under this paragraph.
+
+(5) **Consolidation of allegations and referrals**
+
+  (A) *In general* — The Commissioner may consolidate multiple allegations described in paragraph (2) and referrals described in paragraph (3) into a single investigation if the Commissioner determines it is appropriate to do so.
+
+  (B) *Effect on timing requirements* — If the Commissioner consolidates multiple allegations or referrals into a single investigation under subparagraph (A), the date on which the Commissioner receives the first such allegation or referral shall be used for purposes of the requirement under paragraph (1) with respect to the timing of the initiation of the investigation.
+
+(6) **Information-sharing to protect health and safety** — If, during the course of conducting an investigation under paragraph (1) with respect to covered merchandise, the Commissioner has reason to suspect that such covered merchandise may pose a health or safety risk to consumers, the Commissioner shall provide, as appropriate, information to the appropriate Federal agencies for purposes of mitigating the risk.
+
+(7) **Technical assistance and advice**
+
+  (A) *In general* — Upon request, the Commissioner shall provide technical assistance and advice to eligible small businesses to enable such businesses to prepare and submit allegations described in paragraph (2), except that the Commissioner may deny technical assistance if the Commissioner concludes that the allegation, if submitted, would not lead to the initiation of an investigation under this subsection or any other action to address the allegation.
+
+  (B) *Eligible small business defined*
+
+    (i) *In general* — In this paragraph, the term “eligible small business” means any business concern that the Commissioner determines, due to its small size, has neither adequate internal resources nor the financial ability to obtain qualified outside assistance in preparing and filing allegations described in paragraph (2).
+
+    (ii) *Non-reviewability* — The determination of the Commissioner regarding whether a business concern is an eligible small business for purposes of this paragraph is not reviewable by any other agency or by any court.
+
+**(c) Determinations**
+
+(1) **Determination of evasion**
+
+  (A) *In general* — Except as provided in subparagraph (B), not later than 300 calendar days after the date on which the Commissioner initiates an investigation under subsection (b) with respect to covered merchandise, the Commissioner shall make a determination, based on substantial evidence, with respect to whether such covered merchandise was entered into the customs territory of the United States through evasion.
+
+  (B) *Additional time* — The Commissioner may extend the time to make a determination under subparagraph (A) by not more than 60 calendar days if the Commissioner determines that—
+
+    (i) the investigation is extraordinarily complicated because of—
+
+      (I) the number and complexity of the transactions to be investigated;
+
+      (II) the novelty of the issues presented; or
+
+      (III) the number of entities to be investigated; and
+
+    (ii) additional time is necessary to make the determination under subparagraph (A).
+
+(2) **Authority to collect and verify additional information** — In making a determination under paragraph (1) with respect to covered merchandise, the Commissioner may collect such additional information as is necessary to make the determination through such methods as the Commissioner considers appropriate, including by—
+
+  (A) issuing a questionnaire with respect to such covered merchandise to—
+
+    (i) an interested party that filed an allegation under paragraph (2) of subsection (b) that resulted in the initiation of an investigation under paragraph (1) of that subsection with respect to such covered merchandise;
+
+    (ii) a person alleged to have entered such covered merchandise into the customs territory of the United States through evasion;
+
+    (iii) a person that is a foreign producer or exporter of such covered merchandise; or
+
+    (iv) the government of a country from which such covered merchandise was exported; and
+
+  (B) conducting verifications, including on-site verifications, of any relevant information.
+
+(3) **Adverse inference**
+
+  (A) *In general* — If the Commissioner finds that a party or person described in clause (i), (ii), or (iii) of paragraph (2)(A) has failed to cooperate by not acting to the best of the party or person’s ability to comply with a request for information, the Commissioner may, in making a determination under paragraph (1), use an inference that is adverse to the interests of that party or person in selecting from among the facts otherwise available to make the determination.
+
+  (B) *Application* — An inference described in subparagraph (A) may be used under that subparagraph with respect to a person described in clause (ii) or (iii) of paragraph (2)(A) without regard to whether another person involved in the same transaction or transactions under examination has provided the information sought by the Commissioner, such as import or export documentation.
+
+  (C) *Adverse inference described* — An adverse inference used under subparagraph (A) may include reliance on information derived from—
+
+    (i) the allegation of evasion of the trade remedy laws, if any, submitted to U.S. Customs and Border Protection;
+
+    (ii) a determination by the Commissioner in another investigation, proceeding, or other action regarding evasion of the unfair trade laws; or
+
+    (iii) any other available information.
+
+(4) **Notification** — Not later than 5 business days after making a determination under paragraph (1) with respect to covered merchandise, the Commissioner—
+
+  (A) shall provide to each interested party that filed an allegation under paragraph (2) of subsection (b) that resulted in the initiation of an investigation under paragraph (1) of that subsection with respect to such covered merchandise a notification of the determination and may, in addition, include an explanation of the basis for the determination; and
+
+  (B) may provide to importers, in such manner as the Commissioner determines appropriate, information discovered in the investigation that the Commissioner determines will help educate importers with respect to importing merchandise into the customs territory of the United States in accordance with all applicable laws and regulations.
+
+**(d) Effect of determinations**
+
+(1) **In general** — If the Commissioner makes a determination under subsection (c) that covered merchandise was entered into the customs territory of the United States through evasion, the Commissioner shall—
+
+  (A)
+
+    (i) suspend the liquidation of unliquidated entries of such covered merchandise that are subject to the determination and that enter on or after the date of the initiation of the investigation under subsection (b) with respect to such covered merchandise and on or before the date of the determination; or
+
+    (ii) if the Commissioner has already suspended the liquidation of such entries pursuant to subsection (e)(1), continue to suspend the liquidation of such entries;
+
+  (B) pursuant to the Commissioner’s authority under [section 1504(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1504/b&num=0&edition=prelim)—
+
+    (i) extend the period for liquidating unliquidated entries of such covered merchandise that are subject to the determination and that entered before the date of the initiation of the investigation; or
+
+    (ii) if the Commissioner has already extended the period for liquidating such entries pursuant to subsection (e)(1), continue to extend the period for liquidating such entries;
+
+  (C) notify the administering authority of the determination and request that the administering authority—
+
+    (i) identify the applicable antidumping or countervailing duty assessment rates for entries described in subparagraphs (A) and (B); or
+
+    (ii) if no such assessment rate for such an entry is available at the time, identify the applicable cash deposit rate to be applied to the entry, with the applicable antidumping or countervailing duty assessment rate to be provided as soon as that rate becomes available;
+
+  (D) require the posting of cash deposits and assess duties on entries described in subparagraphs (A) and (B) in accordance with the instructions received from the administering authority under paragraph (2); and
+
+  (E) take such additional enforcement measures as the Commissioner determines appropriate, such as—
+
+    (i) initiating proceedings under section 1592 or 1595a of this title;
+
+    (ii) implementing, in consultation with the relevant Federal agencies, rule sets or modifications to rule sets for identifying, particularly through the Automated Targeting System and the Automated Commercial Environment authorized under [section 58c(f)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section58c/f/4&num=0&edition=prelim), importers, other parties, and merchandise that may be associated with evasion;
+
+    (iii) requiring, with respect to merchandise for which the importer has repeatedly provided incomplete or erroneous entry summary information in connection with determinations of evasion, the importer to deposit estimated duties at the time of entry; and
+
+    (iv) referring the record in whole or in part to U.S. Immigration and Customs Enforcement for civil or criminal investigation.
+
+(2) **Cooperation of administering authority**
+
+  (A) *In general* — Upon receiving a notification from the Commissioner under paragraph (1)(C), the administering authority shall promptly provide to the Commissioner the applicable cash deposit rates and antidumping or countervailing duty assessment rates and any necessary liquidation instructions.
+
+  (B) *Special rule for cases in which the producer or exporter is unknown* — If the Commissioner and the administering authority are unable to determine the producer or exporter of the merchandise with respect to which a notification is made under paragraph (1)(C), the administering authority shall identify, as the applicable cash deposit rate or antidumping or countervailing duty assessment rate, the cash deposit or duty (as the case may be) in the highest amount applicable to any producer or exporter, including the “all-others” rate of the merchandise subject to an antidumping order or countervailing duty order under [section 1673e of this title](./chapter-004-tariff-act-of-1930.md#section-1673e) or 1671e of this title, respectively, or a finding issued under the Antidumping Act, 1921, or any administrative review conducted under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675).
+
+**(e) Interim measures** Not later than 90 calendar days after initiating an investigation under subsection (b) with respect to covered merchandise, the Commissioner shall decide based on the investigation if there is a reasonable suspicion that such covered merchandise was entered into the customs territory of the United States through evasion and, if the Commissioner decides there is such a reasonable suspicion, the Commissioner shall—
+
+(1) suspend the liquidation of each unliquidated entry of such covered merchandise that entered on or after the date of the initiation of the investigation;
+
+(2) pursuant to the Commissioner’s authority under [section 1504(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1504/b&num=0&edition=prelim), extend the period for liquidating each unliquidated entry of such covered merchandise that entered before the date of the initiation of the investigation; and
+
+(3) pursuant to the Commissioner’s authority under [section 1623 of this title](./chapter-004-tariff-act-of-1930.md#section-1623), take such additional measures as the Commissioner determines necessary to protect the revenue of the United States, including requiring a single transaction bond or additional security or the posting of a cash deposit with respect to such covered merchandise.
+
+**(f) Administrative review**
+
+(1) **In general** — Not later than 30 business days after the Commissioner makes a determination under subsection (c) with respect to whether covered merchandise was entered into the customs territory of the United States through evasion, a person determined to have entered such covered merchandise through evasion or an interested party that filed an allegation under paragraph (2) of subsection (b) that resulted in the initiation of an investigation under paragraph (1) of that subsection with respect to such covered merchandise may file an appeal with the Commissioner for de novo review of the determination.
+
+(2) **Timeline for review** — Not later than 60 business days after an appeal of a determination is filed under paragraph (1), the Commissioner shall complete the review of the determination.
+
+**(g) Judicial review**
+
+(1) **In general** — Not later than 30 business days after the Commissioner completes a review under subsection (f) of a determination under subsection (c) with respect to whether covered merchandise was entered into the customs territory of the United States through evasion, a person determined to have entered such covered merchandise through evasion or an interested party that filed an allegation under paragraph (2) of subsection (b) that resulted in the initiation of an investigation under paragraph (1) of that subsection with respect to such covered merchandise may seek judicial review of the determination under subsection (c) and the review under subsection (f) in the United States Court of International Trade to determine whether the determination and review is conducted in accordance with subsections (c) and (f).
+
+(2) **Standard of review** — In determining whether a determination under subsection (c) or review under subsection (f) is conducted in accordance with those subsections, the United States Court of International Trade shall examine—
+
+  (A) whether the Commissioner fully complied with all procedures under subsections (c) and (f); and
+
+  (B) whether any determination, finding, or conclusion is arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
+
+(3) **Rule of construction** — Nothing in this subsection shall affect the availability of judicial review to an interested party under any other provision of law.
+
+**(h) Rule of construction with respect to other civil and criminal proceedings and investigations** No determination under subsection (c), review under subsection (f), or action taken by the Commissioner pursuant to this section shall preclude any individual or entity from proceeding, or otherwise affect or limit the authority of any individual or entity to proceed, with any civil, criminal, or administrative investigation or proceeding pursuant to any other provision of Federal or State law, including sections 1592 of this title and 1595a of this title.
 
 ### Statutory Notes
 
-Section 1517, act June 17, 1930, ch. 497, title IV, § 517, 46 Stat. 737, related to frivolous protest or appeal. See [section 2641 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2641&num=0&edition=prelim), Judiciary and Judicial Procedure.
+#### References in Text
+The Antidumping Act, 1921, referred to in subsec. (d)(2)(B), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, § 106(a), July 26, 1979, 93 Stat. 193.
+
+#### Prior Provisions
+A prior section 1517, act June 17, 1930, ch. 497, title IV, § 517, 46 Stat. 737, related to frivolous protest or appeal, prior to repeal by act June 25, 1948, ch. 646, § 39, 62 Stat. 992, eff. Sept. 1, 1948. See [section 2641 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2641&num=0&edition=prelim), Judiciary and Judicial Procedure.
+
+#### Effective Date
+Pub. L. 114–125, title IV, § 421(c), Feb. 24, 2016, 130 Stat. 168, provided that: “The amendments made by this section [enacting this section, amending [section 1581 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1581&num=0&edition=prelim), Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Feb. 24, 2016].”
+
+#### Regulations
+Pub. L. 114–125, title IV, § 421(d), Feb. 24, 2016, 130 Stat. 169, provided that: “Not later than the date that is 180 days after the date of the enactment of this Act [Feb. 24, 2016], the Secretary [of the Treasury] shall prescribe such regulations as may be necessary to implement the amendments made by this section [see section 421(c) of Pub. L. 114–125, set out as an Effective Date note above].”
+
+
+<a id="section-1518-1519"></a>
+## § 1518, 1519. Repealed. June 25, 1948, ch. 646, § 39, 62 Stat. 992, eff. Sept. 1, 1948
+
+### Statutory Notes
 
 Section 1518, acts June 10, 1890, ch. 407, § 12, 26 Stat. 136; May 27, 1908, ch. 205, § 3, 35 Stat. 406; Aug. 5, 1909, ch. 6, § 28, 36 Stat. 98; May 28, 1926, ch. 411, § 1, 44 Stat. 669; June 17, 1930, ch. 497, title IV, § 518, 46 Stat. 737, related to the judges of the United States Customs Court: their appointment, salary, retirement, vacancies, and powers; the control of the fiscal affairs and of the clerical force of the court; and the division of the court. See sections 251 to 254, 456, 1581, 2071, 2639, and 2640 of Title 28, Judiciary and Judicial Procedure. Last sentence of section, relating to the transfer of unexpended appropriations for salaries to be available for expenditures for the same purposes, was omitted as executed.
 
@@ -8352,7 +8844,7 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 Amendment by section 206 of Pub. L. 103–182 to be made after amendment by section 642(b) of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Plan Amendments Not Required Until January 1, 1989
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1801–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
@@ -8457,7 +8949,7 @@ Section, act June 17, 1930, ch. 497, title IV, § 525, 46 Stat. 741, authorized 
 
 **(f) Civil penalties**
 
-(1) Any person who directs, assists financially or otherwise, or aids and abets the importation of merchandise for sale or public distribution that is seized under subsection (e) of this section shall be subject to a civil fine.
+(1) Any person who directs, assists financially or otherwise, or aids and abets the importation of merchandise for sale or public distribution that is seized under subsection (e) shall be subject to a civil fine.
 
 (2) For the first such seizure, the fine shall be not more than the value that the merchandise would have had if it were genuine, according to the manufacturer’s suggested retail price, determined under regulations promulgated by the Secretary.
 
@@ -8492,7 +8984,7 @@ Subsec. (e). Pub. L. 95–410, § 211(c), added subsec. (e).
 “Patent and Trademark Office” substituted for “Patent Office” in subsec. (a) pursuant to Pub. L. 93–596, § 3, Jan. 2, 1975, 88 Stat. 1949, set out as a note under [section 1 of Title 35](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section1&num=0&edition=prelim), Patents.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1527"></a>
@@ -8545,7 +9037,7 @@ The Customs Service shall be reimbursed from the fees collected for the cost and
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1551"></a>
@@ -8609,7 +9101,7 @@ R.S. § 2581, relative to the transshipment of merchandise transported in bond t
 ## § 1553. Entry for transportation and exportation; lottery material from Canada
 **(a)** Any merchandise, other than explosives and merchandise the importation of which is prohibited, shown by the manifest, bill of lading, shipping receipt, or other document to be destined to a foreign country, may be entered for transportation in bond through the United States by a bonded carrier without appraisement or the payment of duties and exported under such regulations as the Secretary of the Treasury shall prescribe; and any baggage or personal effects not containing merchandise the importation of which is prohibited arriving in the United States destined to a foreign country may, upon the request of the owner or carrier having the same in possession for transportation, be entered for transportation in bond through the United States by a bonded carrier without appraisement or the payment of duty, under such regulations as the Secretary of the Treasury may prescribe. In places where no bonded common-carrier facilities are reasonably available, such merchandise may be so transported otherwise than by a bonded common carrier under such regulations as the Secretary of the Treasury shall prescribe.
 
-**(b)** Notwithstanding subsection (a) of this section, the entry for transportation in bond through the United States of any lottery ticket, printed paper that may be used as a lottery ticket, or any advertisement of any lottery, that is printed in Canada, shall be permitted without appraisement or the payment of duties under such regulations as the Secretary of the Treasury may prescribe, except that such regulations shall not permit the transportation of lottery materials in the personal baggage of a traveler.
+**(b)** Notwithstanding subsection (a), the entry for transportation in bond through the United States of any lottery ticket, printed paper that may be used as a lottery ticket, or any advertisement of any lottery, that is printed in Canada, shall be permitted without appraisement or the payment of duties under such regulations as the Secretary of the Treasury may prescribe, except that such regulations shall not permit the transportation of lottery materials in the personal baggage of a traveler.
 
 ### Statutory Notes
 
@@ -8647,7 +9139,7 @@ Merchandise in Customs 11 So in original. Probably should not be capitalized. cu
 Another section 553A of act June 17, 1930, is classified to [section 1553–1 of this title](./chapter-004-tariff-act-of-1930.md#section-1553-1).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1553-1"></a>
@@ -8699,7 +9191,7 @@ Prior provisions the same in effect as those in this section, except that they d
 
 <a id="section-1555"></a>
 ## § 1555. Bonded warehouses
-**(a) Designation; preconditions; bonding requirements; supervision** Subject to subsection (b) of this section, buildings or parts of buildings and other enclosures may be designated by the Secretary of the Treasury as bonded warehouses for the storage of imported merchandise entered for warehousing, or taken possession of by the appropriate customs officer, or under seizure, or for the manufacture of merchandise in bond, or for the repacking, sorting, or cleaning of imported merchandise. Such warehouses may be bonded for the storing of such merchandise only as shall belong or be consigned to the owners or proprietors thereof and be known as private bonded warehouses, or for the storage of imported merchandise generally and be known as public bonded warehouses. Before any imported merchandise not finally released from customs custody shall be stored in any such premises, the owner or lessee thereof shall give a bond in such sum and with such sureties as may be approved by the Secretary of the Treasury to secure the Government against any loss or expense connected with or arising from the deposit, storage, or manipulation of merchandise in such warehouse. Except as otherwise provided in this chapter, bonded warehouses shall be used solely for the storage of imported merchandise and shall be placed in charge of a proper officer of the customs, who, together with the proprietor thereof, shall have joint custody of all merchandise stored in the warehouse; and all labor on the merchandise so stored shall be performed by the owner or proprietor of the warehouse, under supervision of the officer of the customs in charge of the same, at the expense of the owner or proprietor. The compensation of such officer of the customs and other customs employees appointed to supervise the receipt of merchandise into any such warehouse and deliveries therefrom shall be reimbursed to the Government by the proprietor of such warehouse.
+**(a) Designation; preconditions; bonding requirements; supervision** Subject to subsection (b), buildings or parts of buildings and other enclosures may be designated by the Secretary of the Treasury as bonded warehouses for the storage of imported merchandise entered for warehousing, or taken possession of by the appropriate customs officer, or under seizure, or for the manufacture of merchandise in bond, or for the repacking, sorting, or cleaning of imported merchandise. Such warehouses may be bonded for the storing of such merchandise only as shall belong or be consigned to the owners or proprietors thereof and be known as private bonded warehouses, or for the storage of imported merchandise generally and be known as public bonded warehouses. Before any imported merchandise not finally released from customs custody shall be stored in any such premises, the owner or lessee thereof shall give a bond in such sum and with such sureties as may be approved by the Secretary of the Treasury to secure the Government against any loss or expense connected with or arising from the deposit, storage, or manipulation of merchandise in such warehouse. Except as otherwise provided in this chapter, bonded warehouses shall be used solely for the storage of imported merchandise and shall be placed in charge of a proper officer of the customs, who, together with the proprietor thereof, shall have joint custody of all merchandise stored in the warehouse; and all labor on the merchandise so stored shall be performed by the owner or proprietor of the warehouse, under supervision of the officer of the customs in charge of the same, at the expense of the owner or proprietor. The compensation of such officer of the customs and other customs employees appointed to supervise the receipt of merchandise into any such warehouse and deliveries therefrom shall be reimbursed to the Government by the proprietor of such warehouse.
 
 **(b) Duty-free sales enterprises**
 
@@ -8828,7 +9320,7 @@ Prior provisions dealing with the subject matter of this section were contained 
 
 1988—Subsec. (b). Pub. L. 100–418 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If a State or local governmental authority, incident to its jurisdiction over any airport, seaport, or other exit point facility, requires that a concession or other form of approval be obtained from that authority with respect to the operation of a duty-free sales enterprise under which merchandise is delivered to such facility for exportation, merchandise incident to such operation may not be withdrawn from a bonded warehouse and transferred to such facility unless the operator of the duty-free sales enterprise demonstrates to the Secretary of the Treasury that the concession or approval required for the enterprise has been obtained. For purposes of this subsection, the term ‘duty-free sales enterprise’ means an entity that sells, in less than wholesale quantities, duty-free or tax-free merchandise that is delivered from a bonded warehouse to an airport, seaport, or point of exit from the United States for exportation by, or on behalf of, individuals departing from the United States.”
 
-1984—Pub. L. 98–573 designated existing provisions as subsec. (a), substituted “Subject to subsection (b) of this section, buildings” for “Buildings”, and added subsec. (b).
+1984—Pub. L. 98–573 designated existing provisions as subsec. (a), substituted “Subject to subsection (b), buildings” for “Buildings”, and added subsec. (b).
 
 1970—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
 
@@ -9258,7 +9750,7 @@ Act June 22, 1874, ch. 391, § 25, 18 Stat. 191, required cartage of merchandise
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1581"></a>
@@ -9325,7 +9817,7 @@ Provisions similar to those in this section were contained in R.S. § 3064, whic
 
   (C) [Section 953 of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section953&num=0&edition=prelim) (relating to exportation of controlled substances).
 
-  (D) The Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.).
+  (D) The Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.).11 See References in Text note below.
 
   (E) [Section 2778 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2778&num=0&edition=prelim).
 
@@ -9339,7 +9831,7 @@ Provisions similar to those in this section were contained in R.S. § 3064, whic
 
   (A) Monetary instruments, as defined in [section 1956 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1956&num=0&edition=prelim).
 
-  (B) A weapon of mass destruction, as defined in section 2332a(b) 11 See References in Text note below. of title 18.
+  (B) A weapon of mass destruction, as defined in section 2332a(b) 1 of title 18.
 
   (C) A drug or other substance listed in schedule I, II, III, or IV in [section 812 of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812&num=0&edition=prelim).
 
@@ -9349,13 +9841,13 @@ Provisions similar to those in this section were contained in R.S. § 3064, whic
 
   (F) Merchandise mailed in violation of any provision of chapter 71 (relating to obscenity) or chapter 110 (relating to sexual exploitation and other abuse of children) of title 18.
 
-  (G) Merchandise mailed in violation of the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.).
+  (G) Merchandise mailed in violation of the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.).1
 
   (H) Merchandise mailed in violation of [section 2778 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2778&num=0&edition=prelim).
 
   (I) Merchandise mailed in violation of the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.).
 
-  (J) Merchandise mailed in violation of the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.).
+  (J) Merchandise mailed in violation of the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.).1
 
   (K) Merchandise subject to any other law enforced by the Customs Service.
 
@@ -9365,20 +9857,18 @@ Provisions similar to those in this section were contained in R.S. § 3064, whic
 
   (B) the sender or addressee has given written authorization for such reading.
 
-**(d) Search of mail sealed against inspection weighing 16 ounces or less** Notwithstanding any other provision of this section, subsection (a)(1) of this section shall not apply to mail weighing 16 ounces or less sealed against inspection under the postal laws and regulations of the United States.
+**(d) Search of mail sealed against inspection weighing 16 ounces or less** Notwithstanding any other provision of this section, subsection (a)(1) shall not apply to mail weighing 16 ounces or less sealed against inspection under the postal laws and regulations of the United States.
 
 ### Statutory Notes
 
 #### References in Text
-The Customs laws of the United States, referred to in subsec. (a)(1), are classified generally to this title.
-
-The Export Administration Act of 1979, referred to in subsecs. (a)(2)(D) and (c)(1)(G), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2401 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2401&num=0&edition=prelim), Appendix, and Tables.
+The Export Administration Act of 1979, referred to in subsecs. (a)(2)(D) and (c)(1)(G), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The International Emergency Economic Powers Act, referred to in subsecs. (a)(2)(F) and (c)(1)(I), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
 [Section 2332a(b) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2332a/b&num=0&edition=prelim), referred to in subsec. (c)(1)(B), does not define the term “weapon of mass destruction”. However, that term is defined elsewhere in that section.
 
-The Trading with the Enemy Act, referred to in subsec. (c)(1)(J), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading with the Enemy Act, referred to in subsec. (c)(1)(J), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 Rule 41 of the Federal Rules of Criminal Procedure, referred to in subsec. (c)(2)(A), is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
@@ -9392,7 +9882,7 @@ A prior section 1583, acts June 17, 1930, ch. 497, title IV, § 583, 46 Stat. 74
 Pub. L. 107–210, div. A, title III, § 344(c), Aug. 6, 2002, 116 Stat. 987, provided that: “(1) In general.—Except as provided in paragraph (2), this section [enacting this section and provisions set out as a note under this section] and the amendments made by this section shall take effect on the date of enactment of this Act [Aug. 6, 2002]. “(2) Certification with respect to foreign mail.—The provisions of section 583 of the Tariff Act of 1930 [this section] relating to foreign mail transiting the United States that is imported or exported by the United States Postal Service shall not take effect until the Secretary of State certifies to Congress, pursuant to subsection (b) [set out as a note below], that the application of such section 583 is consistent with international law and any international obligation of the United States.”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Certification by Secretary
 Pub. L. 107–210, div. A, title III, § 344(b), Aug. 6, 2002, 116 Stat. 987, provided that: “Not later than 3 months after the date of enactment of this section [Aug. 6, 2002], the Secretary of State shall determine whether the application of section 583 of the Tariff Act of 1930 [this section] to foreign mail transiting the United States that is imported or exported by the United States Postal Service is being handled in a manner consistent with international law and any international obligation of the United States. Section 583 of such Act shall not apply to such foreign mail unless the Secretary certifies to Congress that the application of such section 583 is consistent with international law and any international obligation of the United States.”
@@ -9410,7 +9900,7 @@ Pub. L. 107–210, div. A, title III, § 344(b), Aug. 6, 2002, 116 Stat. 987, pr
 
 **(b) Procedures**
 
-(1) If the Customs Service has reasonable cause to believe that there has been a violation of subsection (a)(1) of this section and determines that further proceedings are warranted, the Customs Service shall issue or electronically transmit to the person concerned a notice of intent to issue or electronically transmit a claim for a monetary penalty. Such notice shall—
+(1) If the Customs Service has reasonable cause to believe that there has been a violation of subsection (a)(1) and determines that further proceedings are warranted, the Customs Service shall issue or electronically transmit to the person concerned a notice of intent to issue or electronically transmit a claim for a monetary penalty. Such notice shall—
 
   (A) describe the merchandise;
 
@@ -9423,9 +9913,9 @@ Pub. L. 107–210, div. A, title III, § 344(b), Aug. 6, 2002, 116 Stat. 987, pr
   (E) state the estimated loss of lawful duties, if any, and, taking into account all of the circumstances, the amount of the proposed monetary penalty; and
 
   (F) inform such person that he will have a reasonable opportunity to make representations, both oral and written, as to why such penalty claim should not be issued.
-  No notice is required under this subsection for any violation of subsection (a)(1) of this section for which the proposed penalty is $1,000 or less.
+  No notice is required under this subsection for any violation of subsection (a)(1) for which the proposed penalty is $1,000 or less.
 
-(2) After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a)(1) of this section, as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, the Customs Service shall promptly issue or electronically transmit a statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, the Customs Service shall issue or electronically transmit a penalty claim to such person. The penalty claim shall specify all changes in the information provided under subparagraphs (A) through (E) of paragraph (1).
+(2) After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a)(1), as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, the Customs Service shall promptly issue or electronically transmit a statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, the Customs Service shall issue or electronically transmit a penalty claim to such person. The penalty claim shall specify all changes in the information provided under subparagraphs (A) through (E) of paragraph (1).
 
 ### Statutory Notes
 
@@ -9480,7 +9970,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 Prosecutions for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedings commenced, prior to the effective date of amendment of this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103 of Pub. L. 91–513, set out as a note under [section 171 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section171&num=0&edition=prelim), Food and Drugs.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -9538,7 +10028,7 @@ Pub. L. 99–570, § 3119(2)(B), which directed that “15 years” be substitut
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1587"></a>
@@ -9623,7 +10113,7 @@ Section effective Oct. 15, 1984, see section 214(e) of Pub. L. 98–573, set out
 
 **(c) Civil penalties** Any person who violates any provision of this section is liable for a civil penalty equal to twice the value of the merchandise involved in the violation, but not less than $10,000. The value of any controlled substance included in the merchandise shall be determined in accordance with [section 1497(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1497/b&num=0&edition=prelim).
 
-**(d) Criminal penalties** In addition to being liable for a civil penalty under subsection (c) of this section, any person who intentionally commits, or attempts or conspires to commit, a violation of any provision of this section is, upon conviction—
+**(d) Criminal penalties** In addition to being liable for a civil penalty under subsection (c), any person who intentionally commits, or attempts or conspires to commit, a violation of any provision of this section is, upon conviction—
 
 (1) liable for a fine of not more than $10,000 or imprisonment for not more than 5 years, or both, if none of the merchandise involved was a controlled substance; or
 
@@ -9643,7 +10133,7 @@ Section effective Oct. 15, 1984, see section 214(e) of Pub. L. 98–573, set out
 
 (2) includes a vehicle described in section 103.1 of title 14, Code of Federal Regulations.
 
-**(h) Intent of transfer of merchandise** For purposes of imposing civil penalties under this section, any of the following acts, when performed within 250 miles of the territorial sea of the United States, shall be prima facie evidence that the transportation or possession of merchandise was unlawful and shall be presumed to constitute circumstances indicating that the purpose of the transfer is to make it possible for such merchandise, or any part thereof, to be introduced into the United States unlawfully, and for purposes of subsection (e) of this section or [section 1595a of this title](./chapter-004-tariff-act-of-1930.md#section-1595a), shall be prima facie evidence that an aircraft or vessel was used in connection with, or to aid or facilitate, a violation of this section:
+**(h) Intent of transfer of merchandise** For purposes of imposing civil penalties under this section, any of the following acts, when performed within 250 miles of the territorial sea of the United States, shall be prima facie evidence that the transportation or possession of merchandise was unlawful and shall be presumed to constitute circumstances indicating that the purpose of the transfer is to make it possible for such merchandise, or any part thereof, to be introduced into the United States unlawfully, and for purposes of subsection (e) or [section 1595a of this title](./chapter-004-tariff-act-of-1930.md#section-1595a), shall be prima facie evidence that an aircraft or vessel was used in connection with, or to aid or facilitate, a violation of this section:
 
 (1) The operation of an aircraft or a vessel without lights during such times as lights are required to be displayed under applicable law.
 
@@ -9711,7 +10201,7 @@ Section, acts June 17, 1930, ch. 497, title IV, § 591, 46 Stat. 750; Aug. 5, 19
 
 (1) **Pre-penalty notice**
 
-  (A) *In general* — If the Customs Service has reasonable cause to believe that there has been a violation of subsection (a) of this section and determines that further proceedings are warranted, it shall issue to the person concerned a written notice of its intention to issue a claim for a monetary penalty. Such notice shall—
+  (A) *In general* — If the Customs Service has reasonable cause to believe that there has been a violation of subsection (a) and determines that further proceedings are warranted, it shall issue to the person concerned a written notice of its intention to issue a claim for a monetary penalty. Such notice shall—
 
     (i) describe the merchandise;
 
@@ -9729,17 +10219,17 @@ Section, acts June 17, 1930, ch. 497, title IV, § 591, 46 Stat. 750; Aug. 5, 19
 
   (B) *Exceptions* — The preceding subparagraph shall not apply if—
 
-    (i) the importation with respect to which the violation of subsection (a) of this section occurs is noncommercial in nature, or
+    (i) the importation with respect to which the violation of subsection (a) occurs is noncommercial in nature, or
 
     (ii) the amount of the penalty in the penalty claim issued under paragraph (2) is $1,000 or less.
 
-(2) **Penalty claim** — After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a) of this section, as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, it shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, it shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vi) of paragraph (1)(A). Such person shall have a reasonable opportunity under [section 1618 of this title](./chapter-004-tariff-act-of-1930.md#section-1618) to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under such section 1618, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
+(2) **Penalty claim** — After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a), as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, it shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, it shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vi) of paragraph (1)(A). Such person shall have a reasonable opportunity under [section 1618 of this title](./chapter-004-tariff-act-of-1930.md#section-1618) to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under such section 1618, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
 
 **(c) Maximum penalties**
 
-(1) **Fraud** — A fraudulent violation of subsection (a) of this section is punishable by a civil penalty in an amount not to exceed the domestic value of the merchandise.
+(1) **Fraud** — A fraudulent violation of subsection (a) is punishable by a civil penalty in an amount not to exceed the domestic value of the merchandise.
 
-(2) **Gross negligence** — A grossly negligent violation of subsection (a) of this section is punishable by a civil penalty in an amount not to exceed—
+(2) **Gross negligence** — A grossly negligent violation of subsection (a) is punishable by a civil penalty in an amount not to exceed—
 
   (A) the lesser of—
 
@@ -9749,7 +10239,7 @@ Section, acts June 17, 1930, ch. 497, title IV, § 591, 46 Stat. 750; Aug. 5, 19
 
   (B) if the violation did not affect the assessment of duties, 40 percent of the dutiable value of the merchandise.
 
-(3) **Negligence** — A negligent violation of subsection (a) of this section is punishable by a civil penalty in an amount not to exceed—
+(3) **Negligence** — A negligent violation of subsection (a) is punishable by a civil penalty in an amount not to exceed—
 
   (A) the lesser of—
 
@@ -9759,7 +10249,7 @@ Section, acts June 17, 1930, ch. 497, title IV, § 591, 46 Stat. 750; Aug. 5, 19
 
   (B) if the violation did not affect the assessment of duties, 20 percent of the dutiable value of the merchandise.
 
-(4) **Prior disclosure** — If the person concerned discloses the circumstances of a violation of subsection (a) of this section before, or without knowledge of, the commencement of a formal investigation of such violation, with respect to such violation, merchandise shall not be seized and any monetary penalty to be assessed under subsection (c) of this section shall not exceed—
+(4) **Prior disclosure** — If the person concerned discloses the circumstances of a violation of subsection (a) before, or without knowledge of, the commencement of a formal investigation of such violation, with respect to such violation, merchandise shall not be seized and any monetary penalty to be assessed under subsection (c) shall not exceed—
 
   (A) if the violation resulted from fraud—
 
@@ -9768,29 +10258,29 @@ Section, acts June 17, 1930, ch. 497, title IV, § 591, 46 Stat. 750; Aug. 5, 19
     (ii) if such violation did not affect the assessment of duties, 10 percent of the dutiable value; or
 
   (B) if such violation resulted from negligence or gross negligence, the interest (computed from the date of liquidation at the prevailing rate of interest applied under [section 6621 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6621&num=0&edition=prelim)) on the amount of lawful duties, taxes, and fees of which the United States is or may be deprived so long as such person tenders the unpaid amount of the lawful duties, taxes, and fees at the time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its calculation of such unpaid amount.
-  The person asserting lack of knowledge of the commencement of a formal investigation has the burden of proof in establishing such lack of knowledge. For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) of this section existed.
+  The person asserting lack of knowledge of the commencement of a formal investigation has the burden of proof in establishing such lack of knowledge. For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) existed.
 
-(5) **Prior disclosure regarding NAFTA claims** — An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim for preferential tariff treatment under [section 3332 of this title](./chapter-021-north-american-free-trade.md#section-3332) if the importer—
+(5) **Prior disclosure regarding NAFTA claims** — An importer shall not be subject to penalties under subsection (a) for making an incorrect claim for preferential tariff treatment under [section 3332 of this title](./chapter-021-north-american-free-trade.md#section-3332) if the importer—
 
   (A) has reason to believe that the NAFTA Certificate of Origin (as defined in [section 1508(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/1&num=0&edition=prelim)) on which the claim was based contains incorrect information; and
 
   (B) in accordance with regulations issued by the Secretary, voluntarily and promptly makes a corrected declaration and pays any duties owing.
 
-(6) **Prior disclosure regarding claims under the United States-Chile Free Trade Agreement** — An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim that a good qualifies as an originating good under section 202 of the United States-Chile Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily makes a corrected declaration and pays any duties owing.
+(6) **Prior disclosure regarding claims under the United States-Chile Free Trade Agreement** — An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 202 of the United States-Chile Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily makes a corrected declaration and pays any duties owing.
 
 (7) **Prior disclosure regarding claims under the United States-Singapore Free Trade Agreement**
 
-  (A) An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim that a good qualifies as an originating good under section 202 of the United States-Singapore Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily and promptly makes a corrected declaration and pays any duties owing.
+  (A) An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 202 of the United States-Singapore Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily and promptly makes a corrected declaration and pays any duties owing.
 
   (B) In the regulations referred to in subparagraph (A), the Secretary of the Treasury is authorized to prescribe time periods for making a corrected declaration and paying duties owing under subparagraph (A), if such periods are not shorter than 1 year following the date on which the importer makes the incorrect claim that a good qualifies as an originating good.
 
 (8) **Prior disclosure regarding claims under the United States-Australia free trade agreement**
 
-  (A) *In general* — An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim that a good qualifies as an originating good under section 203 of the United States-Australia Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily and promptly makes a corrected declaration and pays any duties owing.
+  (A) *In general* — An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 203 of the United States-Australia Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily and promptly makes a corrected declaration and pays any duties owing.
 
   (B) *Time periods for making corrections* — In the regulations referred to in subparagraph (A), the Secretary of the Treasury is authorized to prescribe time periods for making a corrected declaration and paying duties owing under subparagraph (A), if such periods are not shorter than 1 year following the date on which the importer makes the incorrect claim.
 
-(9) **Prior disclosure regarding claims under the Dominican Republic-Central America-United States Free Trade Agreement** — An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim that a good qualifies as an originating good under [section 4033 of this title](./chapter-026-dominican-republic-central-america-free-trade.md#section-4033) if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing.
+(9) **Prior disclosure regarding claims under the Dominican Republic-Central America-United States Free Trade Agreement** — An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under [section 4033 of this title](./chapter-026-dominican-republic-central-america-free-trade.md#section-4033) if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing.
 
 (10) **Prior disclosure regarding claims under the United States-Peru Trade Promotion Agreement** — An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 203 of the United States-Peru Trade Promotion Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing with respect to that good.
 
@@ -9800,9 +10290,9 @@ Section, acts June 17, 1930, ch. 497, title IV, § 591, 46 Stat. 750; Aug. 5, 19
 
 (13) **Prior disclosure regarding claims under the United States–Panama Trade Promotion Agreement** — An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 203 of the United States–Panama Trade Promotion Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, promptly and voluntarily makes a corrected declaration and pays any duties owing with respect to that good.
 
-(14) **Seizure** — If the Secretary has reasonable cause to believe that a person has violated the provisions of subsection (a) of this section and that such person is insolvent or beyond the jurisdiction of the United States or that seizure is otherwise essential to protect the revenue of the United States or to prevent the introduction of prohibited or restricted merchandise into the customs territory of the United States, then such merchandise may be seized and, upon assessment of a monetary penalty, forfeited unless the monetary penalty is paid within the time specified by law. Within a reasonable time after any such seizure is made, the Secretary shall issue to the person concerned a written statement containing the reasons for the seizure. After seizure of merchandise under this subsection, the Secretary may, in the case of restricted merchandise, and shall, in the case of any other merchandise (other than prohibited merchandise), return such merchandise upon the deposit of security not to exceed the maximum monetary penalty which may be assessed under subsection (c) of this section.
+(14) **Seizure** — If the Secretary has reasonable cause to believe that a person has violated the provisions of subsection (a) and that such person is insolvent or beyond the jurisdiction of the United States or that seizure is otherwise essential to protect the revenue of the United States or to prevent the introduction of prohibited or restricted merchandise into the customs territory of the United States, then such merchandise may be seized and, upon assessment of a monetary penalty, forfeited unless the monetary penalty is paid within the time specified by law. Within a reasonable time after any such seizure is made, the Secretary shall issue to the person concerned a written statement containing the reasons for the seizure. After seizure of merchandise under this subsection, the Secretary may, in the case of restricted merchandise, and shall, in the case of any other merchandise (other than prohibited merchandise), return such merchandise upon the deposit of security not to exceed the maximum monetary penalty which may be assessed under subsection (c).
 
-**(d) Deprivation of lawful duties, taxes, or fees** Notwithstanding [section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514), if the United States has been deprived of lawful duties, taxes, or fees as a result of a violation of subsection (a) of this section, the Customs Service shall require that such lawful duties, taxes, and fees be restored, whether or not a monetary penalty is assessed.
+**(d) Deprivation of lawful duties, taxes, or fees** Notwithstanding [section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514), if the United States has been deprived of lawful duties, taxes, or fees as a result of a violation of subsection (a), the Customs Service shall require that such lawful duties, taxes, and fees be restored, whether or not a monetary penalty is assessed.
 
 **(e) Court of International Trade proceedings** Notwithstanding any other provision of law, in any proceeding commenced by the United States in the Court of International Trade for the recovery of any monetary penalty claimed under this section—
 
@@ -9818,11 +10308,11 @@ Section, acts June 17, 1930, ch. 497, title IV, § 591, 46 Stat. 750; Aug. 5, 19
 
 (1) **In general** — Subject to paragraph (3), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a NAFTA Certificate of Origin (as defined in [section 1508(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/b/1&num=0&edition=prelim)) that a good to be exported to a NAFTA country (as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim)) qualifies under the rules of origin set out in [section 3332 of this title](./chapter-021-north-american-free-trade.md#section-3332).
 
-(2) **Applicable provisions** — The procedures and penalties of this section that apply to a violation of subsection (a) of this section also apply to a violation of paragraph (1), except that—
+(2) **Applicable provisions** — The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of paragraph (1), except that—
 
-  (A) subsection (d) of this section does not apply, and
+  (A) subsection (d) does not apply, and
 
-  (B) subsection (c)(5) of this section applies only if the person voluntarily and promptly provides, to all persons to whom the person provided the NAFTA Certificate of Origin, written notice of the falsity of the Certificate.
+  (B) subsection (c)(5) applies only if the person voluntarily and promptly provides, to all persons to whom the person provided the NAFTA Certificate of Origin, written notice of the falsity of the Certificate.
 
 (3) **Exception** — A person may not be considered to have violated paragraph (1) if—
 
@@ -9832,7 +10322,7 @@ Section, acts June 17, 1930, ch. 497, title IV, § 591, 46 Stat. 750; Aug. 5, 19
 
 **(g) False certifications of origin under the United States-Chile Free Trade Agreement**
 
-(1) **In general** — Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a Chile FTA Certificate of Origin (as defined in [section 1508(f)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/f/1/B&num=0&edition=prelim) 11 So in original. Probably should be followed by a closing parenthesis. that a good exported from the United States qualifies as an originating good under the rules of origin set out in section 202 of the United States-Chile Free Trade Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) of this section also apply to a violation of this subsection.
+(1) **In general** — Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a Chile FTA Certificate of Origin (as defined in [section 1508(f)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/f/1/B&num=0&edition=prelim) 11 So in original. Probably should be followed by a closing parenthesis. that a good exported from the United States qualifies as an originating good under the rules of origin set out in section 202 of the United States-Chile Free Trade Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
 
 (2) **Immediate and voluntary disclosure of incorrect information** — No penalty shall be imposed under this subsection if, immediately after an exporter or producer that issued a Chile FTA Certificate of Origin has reason to believe that such certificate contains or is based on incorrect information, the exporter or producer voluntarily provides written notice of such incorrect information to every person to whom the certificate was issued.
 
@@ -9844,7 +10334,7 @@ Section, acts June 17, 1930, ch. 497, title IV, § 591, 46 Stat. 750; Aug. 5, 19
 
 **(h) False certifications of origin under the Dominican Republic-Central America-United States Free Trade Agreement**
 
-(1) **In general** — Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a CAFTA–DR certification of origin (as defined in [section 1508(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/g/1/B&num=0&edition=prelim)) that a good exported from the United States qualifies as an originating good under the rules of origin set out in [section 4033 of this title](./chapter-026-dominican-republic-central-america-free-trade.md#section-4033). The procedures and penalties of this section that apply to a violation of subsection (a) of this section also apply to a violation of this subsection.
+(1) **In general** — Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a CAFTA–DR certification of origin (as defined in [section 1508(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1508/g/1/B&num=0&edition=prelim)) that a good exported from the United States qualifies as an originating good under the rules of origin set out in [section 4033 of this title](./chapter-026-dominican-republic-central-america-free-trade.md#section-4033). The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
 
 (2) **Prompt and voluntary disclosure of incorrect information** — No penalty shall be imposed under this subsection if, promptly after an exporter or producer that issued a CAFTA–DR certification of origin has reason to believe that such certification contains or is based on incorrect information, the exporter or producer voluntarily provides written notice of such incorrect information to every person to whom the certification was issued.
 
@@ -10008,7 +10498,7 @@ Subsec. (b)(1)(A). Pub. L. 103–182, § 621(3)(A), substituted “the Customs S
 
 Subsec. (b)(2). Pub. L. 103–182, § 621(3)(B), substituted “the Customs Service shall determine” for “the appropriate customs officer shall determine”, “the Customs Service determines” for “such officer determines” in two places, “it shall” for “he shall” in two places, and “the Customs Service shall provide” for “the appropriate customs officer shall provide”.
 
-Subsec. (c)(4). Pub. L. 103–182, § 621(4)(B), inserted at end “For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) of this section existed.”
+Subsec. (c)(4). Pub. L. 103–182, § 621(4)(B), inserted at end “For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) existed.”
 
 Subsec. (c)(4)(A)(i). Pub. L. 103–182, § 621(4)(A), as amended by Pub. L. 104–295, § 21(e)(12); Pub. L. 106–36, § 1001(b)(8), substituted “time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its” for “time of disclosure or within thirty days, or such longer period as the appropriate customs officer may provide, after notice by the appropriate customs officer of his”.
 
@@ -10062,7 +10552,7 @@ Amendment by Pub. L. 96–417 applicable with respect to civil actions commenced
 Pub. L. 95–410, title I, § 110(f), Oct. 3, 1978, 92 Stat. 897, provided that: “(1)(A) Except as provided in subparagraphs (B) and (C), subsections (a), (b), and (c) (other than new subsection (e) of section 592 of the Tariff Act of 1930 as added by subsection (a)) [subsec. (a), (b), and (c), not including (e) of this section] shall be effective with respect to proceedings commenced after the 89th day after the date of enactment of this Act [Oct. 3, 1978]. “(B) Except as provided in subparagraph (C), section 592 of the Tariff Act of 1930 [this section] (as such section existed on the day before the date of enactment of this Act) [Oct. 3, 1978] shall apply to any alleged intentional violation thereof involving television receivers that are the product of Japan and that were or are the subject of antidumping proceedings if the alleged intentional violation—“(i) occurred before the date of enactment of this Act, and “(ii) was the subject of an investigation by the Customs Service which was begun before the date of enactment of this Act. “(C) Except as provided in the next sentence, subsection (e) of section 592 of the Tariff Act of 1930 (as added by subsection (a)) [subsec. (e) of this section] shall be effective on the date of enactment of this Act [Oct. 3, 1978]. Notwithstanding any provision of law, in any proceeding in a United States district court commenced by the United States pursuant to section 604 of the Tariff Act of 1930 [[section 1604 of this title](./chapter-004-tariff-act-of-1930.md#section-1604)] for the recovery of any monetary penalty claimed under section 592 of such Act [this section] for an alleged intentional violation described in subparagraph (B)—“(i) all issues, including the amount of the penalty, shall be tried de novo; and “(ii) the United States shall have the burden of proof to establish such violation by a preponderance of the evidence. “(2)(A) The amendment made by subsection (e) [to [section 1621 of this title](./chapter-004-tariff-act-of-1930.md#section-1621)] shall apply with respect to alleged violations of section 592 of the Tariff Act of 1930 [this section] resulting from gross negligence or negligence which are committed on or after the date of the enactment of this Act [Oct. 3, 1978]. “(B) In the case of any alleged violation of such section 592 [this section] resulting from gross negligence or negligence which was committed before the date of the enactment of this Act [Oct. 3, 1978] and for which no suit or action for recovery was commenced before such date of enactment, no suit or action for recovery with respect to such alleged violation shall be instituted after—“(i) the closing date of the 5-year period beginning on the date on which the alleged violation was committed, or “(ii) the closing date of the 2-year period beginning on such date of enactment, whichever date later occurs, except that no such suit or action may be instituted after the date on which such suit or action would have been barred under section 621 of the Tariff Act of 1930 [[section 1621 of this title](./chapter-004-tariff-act-of-1930.md#section-1621)] (as in effect on the day before such date of enactment).”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1592a"></a>
@@ -10115,7 +10605,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 Section effective on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], see section 335 of Pub. L. 103–465, set out as a note under [section 3591 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3591).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1593"></a>
@@ -10146,7 +10636,7 @@ Section, act June 17, 1930, ch. 497, title IV, § 593, 46 Stat. 751, related to 
 
 (1) **Prepenalty notice**
 
-  (A) *In general* — If the Customs Service has reasonable cause to believe that there has been a violation of subsection (a) of this section and determines that further proceedings are warranted, the Customs Service shall issue to the person concerned a written notice of intent to issue a claim for a monetary penalty. Such notice shall—
+  (A) *In general* — If the Customs Service has reasonable cause to believe that there has been a violation of subsection (a) and determines that further proceedings are warranted, the Customs Service shall issue to the person concerned a written notice of intent to issue a claim for a monetary penalty. Such notice shall—
 
     (i) identify the drawback claim;
 
@@ -10166,7 +10656,7 @@ Section, act June 17, 1930, ch. 497, title IV, § 593, 46 Stat. 751, related to 
 
   (C) *Prior approval* — No prepenalty notice in which the alleged violation occurred as a result of fraud shall be issued without the prior approval of Customs Headquarters.
 
-(2) **Penalty claim** — After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a) of this section, as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, the Customs Service shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, Customs shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vii) of paragraph (1)(A). Such person shall have a reasonable opportunity under [section 1618 of this title](./chapter-004-tariff-act-of-1930.md#section-1618) to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under [section 1618 of this title](./chapter-004-tariff-act-of-1930.md#section-1618), the Customs Service shall provide to the person concerned a written statement which sets forth the final determination, and the findings of fact and conclusions of law on which such determination is based.
+(2) **Penalty claim** — After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a), as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, the Customs Service shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, Customs shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vii) of paragraph (1)(A). Such person shall have a reasonable opportunity under [section 1618 of this title](./chapter-004-tariff-act-of-1930.md#section-1618) to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under [section 1618 of this title](./chapter-004-tariff-act-of-1930.md#section-1618), the Customs Service shall provide to the person concerned a written statement which sets forth the final determination, and the findings of fact and conclusions of law on which such determination is based.
 
 **(c) Maximum penalties**
 
@@ -10174,13 +10664,13 @@ Section, act June 17, 1930, ch. 497, title IV, § 593, 46 Stat. 751, related to 
 
 (2) **Negligence**
 
-  (A) *In general* — A negligent violation of subsection (a) of this section is punishable by a civil penalty in an amount not to exceed 20 percent of the actual or potential loss of revenue for the 1st violation.
+  (A) *In general* — A negligent violation of subsection (a) is punishable by a civil penalty in an amount not to exceed 20 percent of the actual or potential loss of revenue for the 1st violation.
 
   (B) *Repetitive violations* — If the Customs Service determines that a repeat negligent violation occurs relating to the same issue, the penalty amount for the 2d violation shall be in an amount not to exceed 50 percent of the total actual or potential loss of revenue. The penalty amount for each succeeding repetitive negligent violation shall be in an amount not to exceed the actual or potential loss of revenue. If the same party commits a nonrepetitive violation, that violation shall be subject to a penalty not to exceed 20 percent of the actual or potential loss of revenue.
 
 (3) **Prior disclosure**
 
-  (A) *In general* — Subject to subparagraph (B), if the person concerned discloses the circumstances of a violation of subsection (a) of this section before, or without knowledge of the commencement of, a formal investigation of such violation, the monetary penalty assessed under this subsection may not exceed—
+  (A) *In general* — Subject to subparagraph (B), if the person concerned discloses the circumstances of a violation of subsection (a) before, or without knowledge of the commencement of, a formal investigation of such violation, the monetary penalty assessed under this subsection may not exceed—
 
     (i) if the violation resulted from fraud, an amount equal to the actual or potential revenue of which the United States is or may be deprived as a result of overpayment of the claim; or
 
@@ -10194,11 +10684,11 @@ Section, act June 17, 1930, ch. 497, title IV, § 593, 46 Stat. 751, related to 
 
   (C) *Burden of proof* — The person asserting lack of knowledge of the commencement of a formal investigation has the burden of proof in establishing such lack of knowledge.
 
-(4) **Commencement of investigation** — For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) of this section existed.
+(4) **Commencement of investigation** — For purposes of this section, a formal investigation of a violation is considered to be commenced with regard to the disclosing party and the disclosed information on the date recorded in writing by the Customs Service as the date on which facts and circumstances were discovered or information was received which caused the Customs Service to believe that a possibility of a violation of subsection (a) existed.
 
-(5) **Exclusivity** — Penalty claims under this section shall be the exclusive civil remedy for any drawback related violation of subsection (a) of this section.
+(5) **Exclusivity** — Penalty claims under this section shall be the exclusive civil remedy for any drawback related violation of subsection (a).
 
-**(d) Deprivation of lawful revenue** Notwithstanding [section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514), if the United States has been deprived of lawful duties and taxes resulting from a violation of subsection (a) of this section, the Customs Service shall require that such duties and taxes be restored whether or not a monetary penalty is assessed.
+**(d) Deprivation of lawful revenue** Notwithstanding [section 1514 of this title](./chapter-004-tariff-act-of-1930.md#section-1514), if the United States has been deprived of lawful duties and taxes resulting from a violation of subsection (a), the Customs Service shall require that such duties and taxes be restored whether or not a monetary penalty is assessed.
 
 **(e) Drawback compliance program**
 
@@ -10222,24 +10712,24 @@ Section, act June 17, 1930, ch. 497, title IV, § 593, 46 Stat. 751, related to 
 
 (1) **In general** — When a party that—
 
-  (A) has been certified as a participant in the drawback compliance program under subsection (e) of this section; and
+  (A) has been certified as a participant in the drawback compliance program under subsection (e); and
 
   (B) is generally in compliance with the appropriate procedures and requirements of the program;
-  commits a violation of subsection (a) of this section, the Customs Service, shall, in the absence of fraud or repeated violations, and in lieu of a monetary penalty, issue a written notice of the violation to the party. Repeated violations by a party may result in the issuance of penalties and removal of certification under the program until corrective action, satisfactory to the Customs Service, is taken.
+  commits a violation of subsection (a), the Customs Service, shall, in the absence of fraud or repeated violations, and in lieu of a monetary penalty, issue a written notice of the violation to the party. Repeated violations by a party may result in the issuance of penalties and removal of certification under the program until corrective action, satisfactory to the Customs Service, is taken.
 
 (2) **Contents of notice** — A notice of violation issued under paragraph (1) shall—
 
-  (A) state that the party has violated subsection (a) of this section;
+  (A) state that the party has violated subsection (a);
 
   (B) explain the nature of the violation; and
 
-  (C) warn the party that future violations of subsection (a) of this section may result in the imposition of monetary penalties.
+  (C) warn the party that future violations of subsection (a) may result in the imposition of monetary penalties.
 
 (3) **Response to notice** — Within a reasonable time after receiving written notice under paragraph (1), the party shall notify the Customs Service of the steps it has taken to prevent a recurrence of the violation.
 
 **(g) Repetitive violations**
 
-(1) A party who has been issued a written notice under subsection (f)(1) of this section and subsequently commits a repeat negligent violation involving the same issue is subject to the following monetary penalties:
+(1) A party who has been issued a written notice under subsection (f)(1) and subsequently commits a repeat negligent violation involving the same issue is subject to the following monetary penalties:
 
   (A) *2d violation* — An amount not to exceed 20 percent of the loss of revenue.
 
@@ -10247,9 +10737,9 @@ Section, act June 17, 1930, ch. 497, title IV, § 593, 46 Stat. 751, related to 
 
   (C) *4th and subsequent violations* — An amount not to exceed 100 percent of the loss of revenue.
 
-(2) If a party that has been certified as a participant in the drawback compliance program under subsection (e) of this section commits an alleged violation which was not repetitive, the party shall be issued a “warning letter”, and, for any subsequent violation, shall be subject to the same maximum penalty amounts stated in paragraph (1).
+(2) If a party that has been certified as a participant in the drawback compliance program under subsection (e) commits an alleged violation which was not repetitive, the party shall be issued a “warning letter”, and, for any subsequent violation, shall be subject to the same maximum penalty amounts stated in paragraph (1).
 
-**(h) Regulation** The Secretary shall promulgate regulations and guidelines to implement this section. Such regulations shall specify that for purposes of subsections (c) and (g) of this section, a repeat negligent violation involving the same issue shall be treated as a repetitive violation for a maximum period of 3 years.
+**(h) Regulation** The Secretary shall promulgate regulations and guidelines to implement this section. Such regulations shall specify that for purposes of subsections (c) and (g), a repeat negligent violation involving the same issue shall be treated as a repetitive violation for a maximum period of 3 years.
 
 **(i) Court of International Trade proceedings** Notwithstanding any other provision of law, in any proceeding commenced by the United States in the Court of International Trade for the recovery of any monetary penalty claimed under this section—
 
@@ -10271,7 +10761,7 @@ Amendment by Pub. L. 108–429 effective Dec. 3, 2004, and applicable to drawbac
 Pub. L. 103–182, title VI, § 622(b), Dec. 8, 1993, 107 Stat. 2186, provided that: “The amendment made by subsection (a) [enacting this section] applies to drawback claims filed on and after the nationwide operational implementation of an automated drawback selectivity program by the Customs Service. The Customs Service shall publish notice of this date in the Customs Bulletin.”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1594"></a>
@@ -10294,7 +10784,7 @@ is subject to a penalty for violation of the customs laws, the conveyance involv
   (C) in the cargo of the conveyance if the cargo is listed on the manifest and marks, numbers, weights and quantities of the outer packages or containers agree with the manifest;
   unless the owner or operator, or the master, pilot, conductor, driver or other person in charge participated in, or had knowledge of, the violation, or was grossly negligent in preventing or discovering the violation.
 
-(2) Except as provided in paragraph (1) or subsection (c) of this section, no vessel, vehicle, or aircraft is subject to forfeiture to the extent of an interest of an owner for a drug-related offense established by that owner to have been committed or omitted without the knowledge, consent, or willful blindness of the owner.
+(2) Except as provided in paragraph (1) or subsection (c), no vessel, vehicle, or aircraft is subject to forfeiture to the extent of an interest of an owner for a drug-related offense established by that owner to have been committed or omitted without the knowledge, consent, or willful blindness of the owner.
 
 **(c) Prohibited merchandise on conveyance** If any merchandise the importation of which is prohibited is found to be, or to have been—
 
@@ -10325,7 +10815,7 @@ the conveyance may be seized, and after investigation, forfeited unless it is es
 
 (2) The term “master” and similar terms relating to the person in charge of a conveyance includes the purser or other person on the conveyance who is responsible for maintaining records relating to the cargo transported in the conveyance.
 
-**(e) Costs and expenses of seizure** When a common carrier has been seized in accordance with the provisions of subsection (c) of this section and it is subsequently determined that a violation of such subsection occurred but that the vessel will be released, the conveyance is liable for the costs and expenses of the seizure and detention.
+**(e) Costs and expenses of seizure** When a common carrier has been seized in accordance with the provisions of subsection (c) and it is subsequently determined that a violation of such subsection occurred but that the vessel will be released, the conveyance is liable for the costs and expenses of the seizure and detention.
 
 ### Statutory Notes
 
@@ -10382,7 +10872,7 @@ The provisions of act July 18, 1866, § 39, and of act Mar. 2, 1867, § 2, which
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1595a"></a>
@@ -10413,9 +10903,11 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
   (D) it is trade dress merchandise involved in the violation of a court order citing [section 1125 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1125&num=0&edition=prelim);
 
-  (E) it is merchandise which is marked intentionally in violation of [section 1304 of this title](./chapter-004-tariff-act-of-1930.md#section-1304); or
+  (E) it is merchandise which is marked intentionally in violation of [section 1304 of this title](./chapter-004-tariff-act-of-1930.md#section-1304);
 
-  (F) it is merchandise for which the importer has received written notices that previous importations of identical merchandise from the same supplier were found to have been marked in violation of [section 1304 of this title](./chapter-004-tariff-act-of-1930.md#section-1304).
+  (F) it is merchandise for which the importer has received written notices that previous importations of identical merchandise from the same supplier were found to have been marked in violation of [section 1304 of this title](./chapter-004-tariff-act-of-1930.md#section-1304); or
+
+  (G) U.S. Customs and Border Protection determines it is a technology, product, service, device, component, or part thereof the importation of which is prohibited under subsection (a)(2) or (b)(1) of [section 1201 of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section1201&num=0&edition=prelim).
 
 (3) If the importation or entry of the merchandise is subject to quantitative restrictions requiring a visa, permit, license, or other similar document, or stamp from the United States Government or from a foreign government or issuing authority pursuant to a bilateral or multilateral agreement, the merchandise shall be subject to detention in accordance with [section 1499 of this title](./chapter-004-tariff-act-of-1930.md#section-1499) unless the appropriate visa, license, permit, or similar document or stamp is presented to the Customs Service; but if the visa, permit, license, or similar document or stamp which is presented in connection with the importation or entry of the merchandise is counterfeit, the merchandise may be seized and forfeited.
 
@@ -10438,6 +10930,8 @@ The Controlled Substances Act, referred to in subsec. (c)(1)(B), is title II of 
 In subsec. (c)(1)(C), “[section 80302 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section80302&num=0&edition=prelim)” substituted for “section 1 of the Act of August 9, 1939 (49 U.S.C. App. 781)” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
+2016—Subsec. (c)(2)(G). Pub. L. 114–125 added subpar. (G).
+
 2008—Subsec. (c)(2)(C). Pub. L. 110–403, which directed amendment of section 596(c)(2)(c) of the Tariff Act of 1950 by striking out “or 509”, was executed by striking out “or 509” after “506” in subsec. (c)(2)(C) of this section, which is section 596 of the Tariff Act of 1930, to reflect the probable intent of Congress.
 
 2006—Subsec. (d). Pub. L. 109–177 added subsec. (d).
@@ -10454,7 +10948,7 @@ Subsec. (c). Pub. L. 99–570, § 3123(3), added subsec. (c).
 Amendment by Pub. L. 104–132 effective 1 year after Apr. 24, 1996, see section 607 of Pub. L. 104–132, set out as a note under [section 841 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section841&num=0&edition=prelim), Crimes and Criminal Procedure.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1596-to-1598"></a>
@@ -10494,7 +10988,7 @@ The procedures set forth in sections 1602 through 1619 of this title shall apply
 A prior section 600 of act June 17, 1930, ch. 497, title IV, 46 Stat. 753, related to gratuities, prior to repeal by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1601-1601a"></a>
@@ -10657,7 +11151,7 @@ the appropriate customs officer shall cause a notice of the seizure of such arti
 
 **(b) “Controlled substance” and “listed chemical” defined** As used in this section, the terms “controlled substance” and “listed chemical” have the meaning given such terms in [section 802 of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802&num=0&edition=prelim).
 
-**(c) Report to Congress** The Commissioner of Customs shall submit to the Congress, by no later than February 1 of each fiscal year, a report on the total dollar value of uncontested seizures of monetary instruments having a value of over $100,000 which, or the proceeds of which, have not been deposited into the Customs Forfeiture Fund under [section 1613b of this title](./chapter-004-tariff-act-of-1930.md#section-1613b) within 120 days of seizure, as of the end of the previous fiscal year.
+**(c) Report to Congress** The Commissioner of U.S. Customs and Border Protection shall submit to the Congress, by no later than February 1 of each fiscal year, a report on the total dollar value of uncontested seizures of monetary instruments having a value of over $100,000 which, or the proceeds of which, have not been deposited into the Customs Forfeiture Fund under [section 1613b of this title](./chapter-004-tariff-act-of-1930.md#section-1613b) within 120 days of seizure, as of the end of the previous fiscal year.
 
 ### Statutory Notes
 
@@ -10691,6 +11185,9 @@ Pub. L. 98–473 amended section generally in manner substantially identical to 
 
 1938—Act June 25, 1938, substituted “forfeit and sell or otherwise dispose of the same according to law” for “forfeit and sell the same”.
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (c) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–573 effective Oct. 15, 1984, see section 214(e) of Pub. L. 98–573, set out as a note under [section 1304 of this title](./chapter-004-tariff-act-of-1930.md#section-1304).
 
@@ -10701,7 +11198,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 Amendment by act June 25, 1938, effective on thirtieth day following June 25, 1938, except as otherwise specifically provided, see section 37 of act June 25, 1938, set out as a note under [section 1401 of this title](./chapter-004-tariff-act-of-1930.md#section-1401).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1608"></a>
@@ -10866,12 +11363,12 @@ Amendment by Pub. L. 98–573 effective Oct. 15, 1984, see section 214(e) of Pub
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1613"></a>
 ## § 1613. Disposition of proceeds of forfeited property
-**(a) Application for remission of forfeiture and restoration of proceeds of sale; disposition of proceeds when no application has been made** Except as provided in subsection (b) of this section, any person claiming any vessel, vehicle, aircraft, merchandise, or baggage, or any interest therein, which has been forfeited and sold under the provisions of this chapter, may at any time within three months after the date of sale apply to the Secretary of the Treasury if the forfeiture and sale was under the customs laws, or to the Commandant of the Coast Guard or the Commissioner of Customs, as the case may be, if the forfeiture and sale was under the navigation laws, for a remission of the forfeiture and restoration of the proceeds of such sale, or such part thereof as may be claimed by him. Upon the production of satisfactory proof that the applicant did not know of the seizure prior to the declaration or condemnation of forfeiture, and was in such circumstances as prevented him from knowing of the same, and that such forfeiture was incurred without any willful negligence or intention to defraud on the part of the applicant, the Secretary of the Treasury, the Commandant of the Coast Guard, or the Commissioner of Customs may order the proceeds of the sale, or any part thereof, restored to the applicant, after deducting the cost of seizure and of sale, the duties, if any, accruing on the merchandise or baggage, and any sum due on a lien for freight, charges, or contribution in general average that may have been filed. If no application for such remission or restoration is made within three months after such sale, or if the application be denied by the Secretary of the Treasury, the Commandant of the Coast Guard, or the Commissioner of Customs, the proceeds of sale shall be disposed of as follows:
+**(a) Application for remission of forfeiture and restoration of proceeds of sale; disposition of proceeds when no application has been made** Except as provided in subsection (b) of this section, any person claiming any vessel, vehicle, aircraft, merchandise, or baggage, or any interest therein, which has been forfeited and sold under the provisions of this chapter, may at any time within three months after the date of sale apply to the Secretary of the Treasury if the forfeiture and sale was under the customs laws, or to the Commandant of the Coast Guard or the Commissioner of U.S. Customs and Border Protection, as the case may be, if the forfeiture and sale was under the navigation laws, for a remission of the forfeiture and restoration of the proceeds of such sale, or such part thereof as may be claimed by him. Upon the production of satisfactory proof that the applicant did not know of the seizure prior to the declaration or condemnation of forfeiture, and was in such circumstances as prevented him from knowing of the same, and that such forfeiture was incurred without any willful negligence or intention to defraud on the part of the applicant, the Secretary of the Treasury, the Commandant of the Coast Guard, or the Commissioner of U.S. Customs and Border Protection may order the proceeds of the sale, or any part thereof, restored to the applicant, after deducting the cost of seizure and of sale, the duties, if any, accruing on the merchandise or baggage, and any sum due on a lien for freight, charges, or contribution in general average that may have been filed. If no application for such remission or restoration is made within three months after such sale, or if the application be denied by the Secretary of the Treasury, the Commandant of the Coast Guard, or the Commissioner of U.S. Customs and Border Protection, the proceeds of sale shall be disposed of as follows:
 
 (1) For the payment of all proper expenses of the proceedings of forfeiture and sale, including expenses of seizure, maintaining the custody of the property, advertising and sale, and if condemned by a decree of a district court and a bond for such costs was not given, the costs as taxed by the court;
 
@@ -10911,6 +11408,9 @@ Subsec. (b). Pub. L. 95–410, § 110(c)(2), added subsec. (b).
 
 1938—Act June 25, 1938, inserted “and” at end of subd. (2), struck out subd. (3), and redesignated subd. (4) as (3).
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” wherever appearing in subsec. (a) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–573 effective Oct. 15, 1984, see section 214(e) of Pub. L. 98–573, set out as a note under [section 1304 of this title](./chapter-004-tariff-act-of-1930.md#section-1304).
 
@@ -10923,7 +11423,7 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3&num=0&edition=prelim). See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
@@ -10991,7 +11491,7 @@ Section 1152(b)(1) of Pub. L. 99–570, which amended this section subsequently 
 
   (F) payment of overtime salaries, travel, fuel, training, equipment, and other similar costs of State and local law enforcement officers that are incurred in joint law enforcement operations with the United States Customs Service.
 
-**(b) United States Coast Guard** The Commissioner of Customs shall make available to the United States Coast Guard, from funds appropriated under subsection (f)(2) of this section in excess of $10,000,000 for a fiscal year, proceeds in the Fund derived from seizures by the Coast Guard. Funds made available under this subsection may be used for—
+**(b) United States Coast Guard** The Commissioner of U.S. Customs and Border Protection shall make available to the United States Coast Guard, from funds appropriated under subsection (f)(2) in excess of $10,000,000 for a fiscal year, proceeds in the Fund derived from seizures by the Coast Guard. Funds made available under this subsection may be used for—
 
 (1) equipment for any vessel, vehicle, or aircraft available for official use by the United States Coast Guard to enable the vessel, vehicle, or aircraft to assist in law enforcement functions;
 
@@ -11001,13 +11501,13 @@ Section 1152(b)(1) of Pub. L. 99–570, which amended this section subsequently 
 
 (4) expenses incurred in bringing vessels into compliance with applicable environmental laws prior to disposal by sinking.
 
-**(c) Deposits** There shall be deposited into the Fund all forfeited currency and proceeds from forfeiture under any law enforced or administered by the United States Customs Service or the United States Coast Guard and all income from investments made under subsection (d) of this section.
+**(c) Deposits** There shall be deposited into the Fund all forfeited currency and proceeds from forfeiture under any law enforced or administered by the United States Customs Service or the United States Coast Guard and all income from investments made under subsection (d).
 
 **(d) Investment** Amounts in the Fund which are not currently needed for the purposes of this section shall be invested in obligations of, or guaranteed by, the United States.
 
 **(e) Annual reports; audits**
 
-(1) The Commissioner of Customs shall transmit to the Congress, by no later than February 1 of each fiscal year the following detailed reports:
+(1) The Commissioner of U.S. Customs and Border Protection shall transmit to the Congress, by no later than February 1 of each fiscal year the following detailed reports:
 
   (A) a report on—
 
@@ -11041,13 +11541,13 @@ Section 1152(b)(1) of Pub. L. 99–570, which amended this section subsequently 
 
 **(f) Authorization of appropriations**
 
-(1) There are hereby appropriated from the Fund such sums as may be necessary to carry out the purposes set forth in subsection (a)(1) of this section.
+(1) There are hereby appropriated from the Fund such sums as may be necessary to carry out the purposes set forth in subsection (a)(1).
 
 (2)
 
-  (A) Subject to subparagraph (B), there are authorized to be appropriated from the Fund not to exceed $20,000,000 for each fiscal year to carry out the purposes set forth in subsections (a)(3) and (b) of this section for such fiscal year.
+  (A) Subject to subparagraph (B), there are authorized to be appropriated from the Fund not to exceed $20,000,000 for each fiscal year to carry out the purposes set forth in subsections (a)(3) and (b) for such fiscal year.
 
-  (B) Of the amount authorized to be appropriated under subparagraph (A), not to exceed the following, shall be available to carry out the purposes set forth in subsection (a)(3) of this section:
+  (B) Of the amount authorized to be appropriated under subparagraph (A), not to exceed the following, shall be available to carry out the purposes set forth in subsection (a)(3):
 
     (i) $14,855,000 for fiscal year 1991.
 
@@ -11111,6 +11611,9 @@ Subsec. (f). Pub. L. 99–570, § 3142(a)(2), amended subsec. (f) generally. Pri
 
 “(2) At the end of each of the first three of such four fiscal years, any amount in the fund in excess of $10,000,000 shall be deposited in the general fund of the Treasury. At the end of the last of such four fiscal years, any amount in the fund shall be deposited in the general fund of the Treasury, and the fund shall cease to exist.”
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsecs. (b) and (e)(1) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Effective Date of 1990 Amendment
 Pub. L. 101–508, title X, § 10012(c), Nov. 5, 1990, 104 Stat. 1388–390, provided that: “The provisions of this section [amending this section] take effect August 21, 1990.”
 
@@ -11127,7 +11630,7 @@ Pub. L. 101–508, title X, § 10012(a)(1), Nov. 5, 1990, 104 Stat. 1388–390, 
 Pub. L. 99–570, title I, § 1152(b)(2), Oct. 27, 1986, 100 Stat. 3207–12, which had directed the repeal of this section, was repealed by section 101 of Pub. L. 100–71, which also provided in part that section 1152(b) of Pub. L. 99–570 be treated as though it had never been enacted.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -11135,7 +11638,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 <a id="section-1614"></a>
 ## § 1614. Release of seized property
 
-If any person claiming an interest in any vessel, vehicle, aircraft, merchandise, or baggage seized under the provisions of this chapter offers to pay the value of such vessel, vehicle, aircraft, merchandise, or baggage, as determined under [section 1606 of this title](./chapter-004-tariff-act-of-1930.md#section-1606), and it appears that such person has in fact a substantial interest therein, the appropriate customs officer may, subject to the approval of the Secretary of the Treasury if under the customs laws, or the Commandant of the Coast Guard or the Commissioner of Customs, as the case may be, if under the navigation laws, accept such offer and release the vessel, vehicle, aircraft, merchandise, or baggage seized upon the payment of such value thereof, which shall be distributed in the order provided in [section 1613 of this title](./chapter-004-tariff-act-of-1930.md#section-1613).
+If any person claiming an interest in any vessel, vehicle, aircraft, merchandise, or baggage seized under the provisions of this chapter offers to pay the value of such vessel, vehicle, aircraft, merchandise, or baggage, as determined under [section 1606 of this title](./chapter-004-tariff-act-of-1930.md#section-1606), and it appears that such person has in fact a substantial interest therein, the appropriate customs officer may, subject to the approval of the Secretary of the Treasury if under the customs laws, or the Commandant of the Coast Guard or the Commissioner of U.S. Customs and Border Protection, as the case may be, if under the navigation laws, accept such offer and release the vessel, vehicle, aircraft, merchandise, or baggage seized upon the payment of such value thereof, which shall be distributed in the order provided in [section 1613 of this title](./chapter-004-tariff-act-of-1930.md#section-1613).
 
 ### Statutory Notes
 
@@ -11149,6 +11652,9 @@ A prior provision authorizing collectors, subject to the approval of the Secreta
 
 1970—Pub. L. 91–271 substituted reference to the appropriate customs officer for reference to the collector.
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in text on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–573 effective Oct. 15, 1984, see section 214(e) of Pub. L. 98–573, set out as a note under [section 1304 of this title](./chapter-004-tariff-act-of-1930.md#section-1304).
 
@@ -11158,7 +11664,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Substitution in text of reference to Commandant of the Coast Guard or Commissioner of Customs for “the Secretary of Commerce” under the authority of Reorg. Plan No. 3 of 1946, see Transfer of Functions note set out under [section 1613 of this title](./chapter-004-tariff-act-of-1930.md#section-1613).
 
@@ -11293,7 +11799,7 @@ Act May 10, 1934, ch. 277, § 512(b), 48 Stat. 759, abolished offices of General
 <a id="section-1618"></a>
 ## § 1618. Remission or mitigation of penalties
 
-Whenever any person interested in any vessel, vehicle, aircraft, merchandise, or baggage seized under the provisions of this chapter, or who has incurred, or is alleged to have incurred, any fine or penalty thereunder, files with the Secretary of the Treasury if under the customs laws, and with the Commandant of the Coast Guard or the Commissioner of Customs, as the case may be, if under the navigation laws, before the sale of such vessel, vehicle, aircraft, merchandise, or baggage a petition for the remission or mitigation of such fine, penalty, or forfeiture, the Secretary of the Treasury, the Commandant of the Coast Guard, or the Commissioner of Customs, if he finds that such fine, penalty, or forfeiture was incurred without willful negligence or without any intention on the part of the petitioner to defraud the revenue or to violate the law, or finds the existence of such mitigating circumstances as to justify the remission or mitigation of such fine, penalty, or forfeiture, may remit or mitigate the same upon such terms and conditions as he deems reasonable and just, or order discontinuance of any prosecution relating thereto. In order to enable him to ascertain the facts, the Secretary of the Treasury may issue a commission to any customs officer to take testimony upon such petition: Provided, That nothing in this section shall be construed to deprive any person of an award of compensation made before the filing of such petition.
+Whenever any person interested in any vessel, vehicle, aircraft, merchandise, or baggage seized under the provisions of this chapter, or who has incurred, or is alleged to have incurred, any fine or penalty thereunder, files with the Secretary of the Treasury if under the customs laws, and with the Commandant of the Coast Guard or the Commissioner of U.S. Customs and Border Protection, as the case may be, if under the navigation laws, before the sale of such vessel, vehicle, aircraft, merchandise, or baggage a petition for the remission or mitigation of such fine, penalty, or forfeiture, the Secretary of the Treasury, the Commandant of the Coast Guard, or the Commissioner of U.S. Customs and Border Protection, if he finds that such fine, penalty, or forfeiture was incurred without willful negligence or without any intention on the part of the petitioner to defraud the revenue or to violate the law, or finds the existence of such mitigating circumstances as to justify the remission or mitigation of such fine, penalty, or forfeiture, may remit or mitigate the same upon such terms and conditions as he deems reasonable and just, or order discontinuance of any prosecution relating thereto. In order to enable him to ascertain the facts, the Secretary of the Treasury may issue a commission to any customs officer to take testimony upon such petition: Provided, That nothing in this section shall be construed to deprive any person of an award of compensation made before the filing of such petition.
 
 ### Statutory Notes
 
@@ -11307,6 +11813,9 @@ Provisions for a petition to the judge of the district, a summary investigation 
 
 1970—Pub. L. 91–271 substituted “customs officer” for “customs agent, collector, judge of the United States Customs Court, or United States commissioner”.
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in two places in text on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–573 effective Oct. 15, 1984, see section 214(e) of Pub. L. 98–573, set out as a note under [section 1304 of this title](./chapter-004-tariff-act-of-1930.md#section-1304).
 
@@ -11316,7 +11825,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Substitution in text of references to Commandant of the Coast Guard and Commissioner of Customs for “the Secretary of Commerce” under the authority of Reorg. Plan No. 3 of 1946, see note set out under [section 1613 of this title](./chapter-004-tariff-act-of-1930.md#section-1613).
 
@@ -11350,7 +11859,7 @@ the Secretary may award and pay such person an amount that does not exceed 25 pe
 
   (B) delivered to any governmental agency for official use, and
 
-(2) any person would be eligible to receive an award under subsection (a) of this section but for the lack of sale of such forfeited property,
+(2) any person would be eligible to receive an award under subsection (a) but for the lack of sale of such forfeited property,
 the Secretary may award and pay such person an amount that does not exceed 25 percent of the appraised value of such forfeited property.
 
 **(c) Dollar limitation** The amount awarded and paid to any person under this section may not exceed $250,000 for any case.
@@ -11487,7 +11996,7 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 Amendment by act June 25, 1938, effective on thirtieth day following June 25, 1938, except as otherwise specifically provided, see section 37 of act June 25, 1938, set out as a note under [section 1401 of this title](./chapter-004-tariff-act-of-1930.md#section-1401).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs Service was under Department of the Treasury.
 
@@ -11528,7 +12037,7 @@ shall be published in the Customs Bulletin. The Secretary shall give interested 
 1993—Pub. L. 103–182 amended section generally. Prior to amendment, section read as follows: “Within 120 days after issuing any precedential decision (including any ruling letter, internal advice memorandum, or protest review decision) under this chapter with respect to any customs transaction, the Secretary shall have such decision published in the Customs Bulletin or shall otherwise make such decision available for public inspection.”
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Study and Report Relating to Timeliness of Prospective Rulings
 Pub. L. 107–210, div. A, title III, § 335, Aug. 6, 2002, 116 Stat. 978, required the Comptroller General, not later than 1 year after Aug. 6, 2002, to conduct a study and report to committees of Congress on the extent to which the Office of Regulations and Rulings of the Customs Service had made improvements to decrease the time between requests for, and issuance of, prospective rulings relating to the proper classification, valuation, or marking of goods proposed to be imported into the United States.
@@ -11603,9 +12112,9 @@ Section effective on 15th day after Oct. 30, 1984, see section 214(a), (b) of Pu
 
 **(b) Nondisclosure and uses of information provided**
 
-(1) Information may be provided to foreign customs and law enforcement agencies under subsection (a) of this section only if the Secretary obtains assurances from such agencies that such information will be held in confidence and used only for the law enforcement purposes for which such information is provided to such agencies by the Secretary.
+(1) Information may be provided to foreign customs and law enforcement agencies under subsection (a) only if the Secretary obtains assurances from such agencies that such information will be held in confidence and used only for the law enforcement purposes for which such information is provided to such agencies by the Secretary.
 
-(2) No information may be provided under subsection (a) of this section to any foreign customs or law enforcement agency that has violated any assurances described in paragraph (1).
+(2) No information may be provided under subsection (a) to any foreign customs or law enforcement agency that has violated any assurances described in paragraph (1).
 
 **(c) Government agency of NAFTA country** The Secretary may authorize the Customs Service to exchange information with any government agency of a NAFTA country, as defined in [section 3301(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/4&num=0&edition=prelim), if the Secretary—
 
@@ -11622,14 +12131,37 @@ Section effective on 15th day after Oct. 30, 1984, see section 214(a), (b) of Pu
 Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under [section 3331 of this title](./chapter-021-north-american-free-trade.md#section-3331).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
+
+
+<a id="section-1628a"></a>
+## § 1628a. Exchange of information related to trade enforcement
+**(a) In general** Subject to subsections (c) and (d), if the Commissioner of U.S. Customs and Border Protection suspects that merchandise is being imported into the United States in violation of [section 1526 of this title](./chapter-004-tariff-act-of-1930.md#section-1526) or section 602, 1201(a)(2), or 1201(b)(1) of title 17 and determines that the examination or testing of the merchandise by a person described in subsection (b) would assist the Commissioner in determining if the merchandise is being imported in violation of that section, the Commissioner, to permit the person to conduct the examination and testing—
+
+(1) shall provide to the person information that appears on the merchandise and its packaging and labels, including unredacted images of the merchandise and its packaging and labels; and
+
+(2) may, subject to any applicable bonding requirements, provide to the person unredacted samples of the merchandise.
+
+**(b) Person described** A person described in this subsection is—
+
+(1) in the case of merchandise suspected of being imported in violation of [section 1526 of this title](./chapter-004-tariff-act-of-1930.md#section-1526), the owner of the trademark suspected of being copied or simulated by the merchandise;
+
+(2) in the case of merchandise suspected of being imported in violation of [section 602 of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section602&num=0&edition=prelim), the owner of the copyright suspected of being infringed by the merchandise;
+
+(3) in the case of merchandise suspected of being primarily designed or produced for the purpose of circumventing a technological measure that effectively controls access to a work protected under that title, and being imported in violation of section 1201(a)(2) of that title, the owner of a copyright in the work; and
+
+(4) in the case of merchandise suspected of being primarily designed or produced for the purpose of circumventing protection afforded by a technological measure that effectively protects a right of an owner of a copyright in a work or a portion of a work, and being imported in violation of section 1201(b)(1) of that title, the owner of the copyright.
+
+**(c) Limitation** Subsection (a) applies only with respect to merchandise suspected of infringing a trademark or copyright that is recorded with U.S. Customs and Border Protection.
+
+**(d) Exception** The Commissioner may not provide under subsection (a) information, photographs, or samples to a person described in subsection (b) if providing such information, photographs, or samples would compromise an ongoing law enforcement investigation or national security.
 
 
 <a id="section-1629"></a>
 ## § 1629. Inspections and preclearance in foreign countries
 **(a) In general** When authorized by treaty or executive agreement, the Secretary may station customs officers in foreign countries for the purpose of examining persons and merchandise prior to their arrival in, or subsequent to their exit from, the United States.
 
-**(b) Functions and duties** Customs officers stationed in a foreign country under subsection (a) of this section may exercise such functions and perform such duties (including inspections, searches, seizures and arrests) as may be permitted by the treaty, agreement or law of the country in which they are stationed.
+**(b) Functions and duties** Customs officers stationed in a foreign country under subsection (a) may exercise such functions and perform such duties (including inspections, searches, seizures and arrests) as may be permitted by the treaty, agreement or law of the country in which they are stationed.
 
 **(c) Compliance** The Secretary may by regulation require compliance with the customs laws of the United States in a foreign country and, in such a case the customs laws and other civil and criminal laws of the United States relating to the importation or exportation of merchandise, filing of false statements, and the unlawful removal of merchandise from customs custody shall apply in the same manner as if the foreign station is a port of entry or exit within the customs territory of the United States.
 
@@ -11637,7 +12169,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **(e) Stationing of foreign customs and agriculture inspection officers in the United States** The Secretary of State, in coordination with the Secretary and the Secretary of Agriculture, may enter into agreements with any foreign country authorizing the stationing in the United States of customs and agriculture inspection officials of that country (if similar privileges are extended by that country to United States officials) for the purpose of ensuring that persons and merchandise going directly to that country from the United States, or that have gone directly from that country to the United States, comply with the customs and other laws of that country governing the importation or exportation of merchandise. Any foreign customs or agriculture inspection official stationed in the United States under this subsection may exercise such functions, perform such duties, and enjoy such privileges and immunities as United States officials may be authorized to perform or are afforded in that foreign country by treaty, agreement, or law.
 
-**(f) Application of certain laws** When customs officials of a foreign country are stationed in the United States in accordance with subsection (e) of this section, and if similar provisions are applied to United States officials stationed in that country—
+**(f) Application of certain laws** When customs officials of a foreign country are stationed in the United States in accordance with subsection (e), and if similar provisions are applied to United States officials stationed in that country—
 
 (1) sections 111 and 1114 of title 18 shall apply as if the officials were designated in those sections; and
 
@@ -11714,7 +12246,7 @@ Subsec. (g). Pub. L. 108–7, § 127(c)(4), which directed addition of subsec. (
 Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under [section 58c of this title](./chapter-001-collection-districts-ports-and-officers.md#section-58c).
 
 #### Authority for the Establishment of Integrated Border Inspection Areas at the United States-Canada Border
-Pub. L. 108–429, title I, § 1560, Dec. 3, 2004, 118 Stat. 2580, provided that: “(a) Findings.—Congress makes the following findings:“(1) The increased security and safety concerns that developed in the aftermath of the terrorist attacks in the United States on September 11, 2001, need to be addressed. “(2) One concern that has come to light is the vulnerability of the international bridges and tunnels along the United States borders. “(3) It is necessary to ensure that potentially dangerous vehicles are inspected prior to crossing these bridges and tunnels; however, currently these vehicles are not inspected until after they have crossed into the United States. “(4) Establishing Integrated Border Inspection Areas (IBIAs) would address these concerns by inspecting vehicles before they gained access to the infrastructure of international bridges and tunnels joining the United States and Canada. “(b) Creation of Integrated Border Inspection Areas.—“(1) In general.—The Commissioner of the Customs Service [Bureau of Customs and Border Protection], in consultation with the Canadian Customs and Revenue Agency (CCRA), shall seek to establish Integrated Border Inspection Areas (IBIAs), such as areas on either side of the United States-Canada border, in which United States Customs officers can inspect vehicles entering the United States from Canada before they enter the United States, or Canadian Customs officers can inspect vehicles entering Canada from the United States before they enter Canada. Such inspections may include, where appropriate, employment of reverse inspection techniques. “(2) Additional requirement.—The Commissioner of Customs, in consultation with the Administrator of the General Services Administration when appropriate, shall seek to carry out paragraph (1) in a manner that minimizes adverse impacts on the surrounding community. “(3) Elements of the program.—Using the authority granted by this section and under section 629 of the Tariff Act of 1930 [[19 U.S.C. 1629](./chapter-004-tariff-act-of-1930.md#section-1629)], the Commissioner of Customs, in consultation with the Canadian Customs and Revenue Agency, shall seek to—“(A) locate Integrated Border Inspection Areas in areas with bridges or tunnels with high traffic volume, significant commercial activity, and that have experienced backups and delays since September 11, 2001; “(B) ensure that United States Customs officers stationed in any such IBIA on the Canadian side of the border are vested with the maximum authority to carry out their duties and enforce United States law; “(C) ensure that United States Customs officers stationed in any such IBIA on the Canadian side of the border shall possess the same immunity that they would possess if they were stationed in the United States; and “(D) encourage appropriate officials of the United States to enter into an agreement with Canada permitting Canadian Customs officers stationed in any such IBIA on the United States side of the border to enjoy such immunities as permitted in Canada.”
+Pub. L. 108–429, title I, § 1560, Dec. 3, 2004, 118 Stat. 2580, as amended by Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210, provided that: “(a) Findings.—Congress makes the following findings:“(1) The increased security and safety concerns that developed in the aftermath of the terrorist attacks in the United States on September 11, 2001, need to be addressed. “(2) One concern that has come to light is the vulnerability of the international bridges and tunnels along the United States borders. “(3) It is necessary to ensure that potentially dangerous vehicles are inspected prior to crossing these bridges and tunnels; however, currently these vehicles are not inspected until after they have crossed into the United States. “(4) Establishing Integrated Border Inspection Areas (IBIAs) would address these concerns by inspecting vehicles before they gained access to the infrastructure of international bridges and tunnels joining the United States and Canada. “(b) Creation of Integrated Border Inspection Areas.—“(1) In general.—The Commissioner of U.S. Customs and Border Protection, in consultation with the Canadian Customs and Revenue Agency (CCRA), shall seek to establish Integrated Border Inspection Areas (IBIAs), such as areas on either side of the United States-Canada border, in which United States Customs officers can inspect vehicles entering the United States from Canada before they enter the United States, or Canadian Customs officers can inspect vehicles entering Canada from the United States before they enter Canada. Such inspections may include, where appropriate, employment of reverse inspection techniques. “(2) Additional requirement.—The Commissioner of U.S. Customs and Border Protection, in consultation with the Administrator of the General Services Administration when appropriate, shall seek to carry out paragraph (1) in a manner that minimizes adverse impacts on the surrounding community. “(3) Elements of the program.—Using the authority granted by this section and under section 629 of the Tariff Act of 1930 [[19 U.S.C. 1629](./chapter-004-tariff-act-of-1930.md#section-1629)], the Commissioner of U.S. Customs and Border Protection, in consultation with the Canadian Customs and Revenue Agency, shall seek to—“(A) locate Integrated Border Inspection Areas in areas with bridges or tunnels with high traffic volume, significant commercial activity, and that have experienced backups and delays since September 11, 2001; “(B) ensure that United States Customs officers stationed in any such IBIA on the Canadian side of the border are vested with the maximum authority to carry out their duties and enforce United States law; “(C) ensure that United States Customs officers stationed in any such IBIA on the Canadian side of the border shall possess the same immunity that they would possess if they were stationed in the United States; and “(D) encourage appropriate officials of the United States to enter into an agreement with Canada permitting Canadian Customs officers stationed in any such IBIA on the United States side of the border to enjoy such immunities as permitted in Canada.”
 
 #### Creation of Integrated Border Inspection Areas
 Pub. L. 108–7, div. J, title I, § 127(a), Feb. 20, 2003, 117 Stat. 440, which related to the creation of integrated border inspection areas on either side of the United States–Canada border, was repealed by Pub. L. 108–429, title I, § 1561(c), Dec. 3, 2004, 118 Stat. 2582.
@@ -11737,14 +12269,14 @@ Pub. L. 108–7, div. J, title I, § 127(a), Feb. 20, 2003, 117 Stat. 440, which
 ### Statutory Notes
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1631"></a>
 ## § 1631. Use of private collection agencies
 **(a) In general** Notwithstanding any other provision of law, the Secretary, under such terms and conditions as the Secretary considers appropriate, shall enter into contracts and incur obligations with one or more persons for collection services to recover indebtedness arising under the customs laws and owed the United States Government, but only after the Customs Service has exhausted all administrative efforts, including all claims against applicable surety bonds, to collect the indebtedness.
 
-**(b) Contract requirements** Any contract entered into under subsection (a) of this section shall provide that—
+**(b) Contract requirements** Any contract entered into under subsection (a) shall provide that—
 
 (1) the Secretary retains the authority to resolve a dispute, compromise a claim, end collection action, and refer a matter to the Attorney General to bring a civil action; and
 
@@ -11767,16 +12299,16 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 Amendment by Pub. L. 104–295 applicable as of Dec. 8, 1993, see section 3(b) of Pub. L. 104–295, set out as a note under [section 1321 of this title](./chapter-004-tariff-act-of-1930.md#section-1321).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1641"></a>
 ## § 1641. Customs brokers
 **(a) Definitions** As used in this section:
 
-(1) The term “customs broker” means any person granted a customs broker’s license by the Secretary under subsection (b) of this section.
+(1) The term “customs broker” means any person granted a customs broker’s license by the Secretary under subsection (b).
 
-(2) The term “customs business” means those activities involving transactions with the Customs Service concerning the entry and admissibility of merchandise, its classification and valuation, the payment of duties, taxes, or other charges assessed or collected by the Customs Service upon merchandise by reason of its importation, or the refund, rebate, or drawback thereof. It also includes the preparation of documents or forms in any format and the electronic transmission of documents, invoices, bills, or parts thereof, intended to be filed with the Customs Service in furtherance of such activities, whether or not signed or filed by the preparer, or activities relating to such preparation, but does not include the mere electronic transmission of data received for transmission to Customs.
+(2) The term “customs business” means those activities involving transactions with U.S. Customs and Border Protection concerning the entry and admissibility of merchandise, its classification and valuation, the payment of duties, taxes, or other charges assessed or collected by U.S. Customs and Border Protection upon merchandise by reason of its importation, or the refund, rebate, or drawback thereof. It also includes the preparation of documents or forms in any format and the electronic transmission of documents, invoices, bills, or parts thereof, intended to be filed with U.S. Customs and Border Protection in furtherance of such activities, whether or not signed or filed by the preparer, or activities relating to such preparation, but does not include the mere electronic transmission of data received for transmission to Customs.
 
 (3) The term “Secretary” means the Secretary of the Treasury.
 
@@ -11792,34 +12324,34 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 (5) **Lapse of license** — The failure of a customs broker that is licensed as a corporation, association, or partnership under paragraph (3) to have, for any continuous period of 120 days, at least one officer of the corporation or association, or at least one member of the partnership, validly licensed under paragraph (2) shall, in addition to causing the broker to be subject to any other sanction under this section (including paragraph (6)), result in the revocation by operation of law of its license.
 
-(6) **Prohibited acts** — Any person who intentionally transacts customs business, other than solely on the behalf of that person, without holding a valid customs broker’s license granted to that person under this subsection shall be liable to the United States for a monetary penalty not to exceed $10,000 for each such transaction as well as for each violation of any other provision of this section. This penalty shall be assessed in the same manner and under the same procedures as the monetary penalties provided for in subsection (d)(2)(A) of this section.
+(6) **Prohibited acts** — Any person who intentionally transacts customs business, other than solely on the behalf of that person, without holding a valid customs broker’s license granted to that person under this subsection shall be liable to the United States for a monetary penalty not to exceed $10,000 for each such transaction as well as for each violation of any other provision of this section. This penalty shall be assessed in the same manner and under the same procedures as the monetary penalties provided for in subsection (d)(2)(A).
 
 **(c) Customs broker’s permits**
 
-(1) **In general** — Each person granted a customs broker’s license under subsection (b) of this section shall be issued, in accordance with such regulations as the Secretary shall prescribe, either or both of the following:
+(1) **In general** — Each person granted a customs broker’s license under subsection (b) shall be issued, in accordance with such regulations as the Secretary shall prescribe, either or both of the following:
 
   (A) A national permit for the conduct of such customs business as the Secretary prescribes by regulation.
 
-  (B) A permit for each customs district in which that person conducts customs business and, except as provided in paragraph (2), regularly employs at least 1 individual who is licensed under subsection (b)(2) of this section to exercise responsible supervision and control over the customs business conducted by that person in that district.
+  (B) A permit for each customs district in which that person conducts customs business and, except as provided in paragraph (2), regularly employs at least 1 individual who is licensed under subsection (b)(2) to exercise responsible supervision and control over the customs business conducted by that person in that district.
 
-(2) **Exception** — If a person granted a customs broker’s license under subsection (b) of this section can demonstrate to the satisfaction of the Secretary that—
+(2) **Exception** — If a person granted a customs broker’s license under subsection (b) can demonstrate to the satisfaction of the Secretary that—
 
-  (A) he regularly employs in the region in which that district is located at least one individual who is licensed under subsection (b)(2) of this section, and
+  (A) he regularly employs in the region in which that district is located at least one individual who is licensed under subsection (b)(2), and
 
   (B) that sufficient procedures exist within the company for the person employed in that region to exercise responsible supervision and control over the customs business conducted by that person in that district,
   the Secretary may waive the requirement in paragraph (1)(B).
 
-(3) **Lapse of permit** — The failure of a customs broker granted a permit under paragraph (1) to employ, for any continuous period of 180 days, at least one individual who is licensed under subsection (b)(2) of this section within the district or region (if paragraph (2) applies) for which a permit was issued shall, in addition to causing the broker to be subject to any other sanction under this section (including any in subsection (d) of this section), result in the revocation by operation of law of the permit.
+(3) **Lapse of permit** — The failure of a customs broker granted a permit under paragraph (1) to employ, for any continuous period of 180 days, at least one individual who is licensed under subsection (b)(2) within the district or region (if paragraph (2) applies) for which a permit was issued shall, in addition to causing the broker to be subject to any other sanction under this section (including any in subsection (d)), result in the revocation by operation of law of the permit.
 
-(4) **Appointment of subagents** — Notwithstanding subsection (c)(1) of this section, upon the implementation by the Secretary under [section 1413(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1413/b/2&num=0&edition=prelim) of the component of the National Customs Automation Program referred to in [section 1411(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1411/a/2/B&num=0&edition=prelim), a licensed broker may appoint another licensed broker holding a permit in a customs district to act on its behalf as its subagent in that district if such activity relates to the filing of information that is permitted by law or regulation to be filed electronically. A licensed broker appointing a subagent pursuant to this paragraph shall remain liable for any and all obligations arising under bond and any and all duties, taxes, and fees, as well as any other liabilities imposed by law, and shall be precluded from delegating to a subagent such liability.
+(4) **Appointment of subagents** — Notwithstanding subsection (c)(1), upon the implementation by the Secretary under [section 1413(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1413/b/2&num=0&edition=prelim) of the component of the National Customs Automation Program referred to in [section 1411(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1411/a/2/B&num=0&edition=prelim), a licensed broker may appoint another licensed broker holding a permit in a customs district to act on its behalf as its subagent in that district if such activity relates to the filing of information that is permitted by law or regulation to be filed electronically. A licensed broker appointing a subagent pursuant to this paragraph shall remain liable for any and all obligations arising under bond and any and all duties, taxes, and fees, as well as any other liabilities imposed by law, and shall be precluded from delegating to a subagent such liability.
 
 **(d) Disciplinary proceedings**
 
 (1) **General rule** — The Secretary may impose a monetary penalty in all cases with the exception of the infractions described in clause (iii) of subparagraph (B) of this subsection, or revoke or suspend a license or permit of any customs broker, if it is shown that the broker—
 
-  (A) has made or caused to be made in any application for any license or permit under this section, or report filed with the Customs Service, any statement which was, at the time and in light of the circumstances under which it was made, false or misleading with respect to any material fact, or has omitted to state in any such application or report any material fact which was required to be stated therein;
+  (A) has made or caused to be made in any application for any license or permit under this section, or report filed with U.S. Customs and Border Protection, any statement which was, at the time and in light of the circumstances under which it was made, false or misleading with respect to any material fact, or has omitted to state in any such application or report any material fact which was required to be stated therein;
 
-  (B) has been convicted at any time after the filing of an application for license under subsection (b) of this section of any felony or misdemeanor which the Secretary finds—
+  (B) has been convicted at any time after the filing of an application for license under subsection (b) of any felony or misdemeanor which the Secretary finds—
 
     (i) involved the importation or exportation of merchandise;
 
@@ -11827,27 +12359,29 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
     (iii) involved larceny, theft, robbery, extortion, forgery, counterfeiting, fraudulent concealment, embezzlement, fraudulent conversion, or misappropriation of funds;
 
-  (C) has violated any provision of any law enforced by the Customs Service or the rules or regulations issued under any such provision;
+  (C) has violated any provision of any law enforced by U.S. Customs and Border Protection or the rules or regulations issued under any such provision;
 
-  (D) has counseled, commanded, induced, procured, or knowingly aided or abetted the violations by any other person of any provision of any law enforced by the Customs Service, or the rules or regulations issued under any such provision;
+  (D) has counseled, commanded, induced, procured, or knowingly aided or abetted the violations by any other person of any provision of any law enforced by U.S. Customs and Border Protection, or the rules or regulations issued under any such provision;
 
-  (E) has knowingly employed, or continues to employ, any person who has been convicted of a felony, without written approval of such employment from the Secretary; or
+  (E) has knowingly employed, or continues to employ, any person who has been convicted of a felony, without written approval of such employment from the Secretary;
 
-  (F) has, in the course of its customs business, with intent to defraud, in any manner willfully and knowingly deceived, misled or threatened any client or prospective client.
+  (F) has, in the course of its customs business, with intent to defraud, in any manner willfully and knowingly deceived, misled or threatened any client or prospective client; or
+
+  (G) has been convicted of committing or conspiring to commit an act of terrorism described in [section 2332b of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2332b&num=0&edition=prelim).
 
 (2) **Procedures**
 
   (A) *Monetary penalty* — Unless action has been taken under subparagraph (B), the appropriate customs officer shall serve notice in writing upon any customs broker to show cause why the broker should not be subject to a monetary penalty not to exceed $30,000 in total for a violation or violations of this section. The notice shall advise the customs broker of the allegations or complaints against him and shall explain that the broker has a right to respond to the allegations or complaints in writing within 30 days of the date of the notice. Before imposing a monetary penalty, the customs officer shall consider the allegations or complaints and any timely response made by the customs broker and issue a written decision. A customs broker against whom a monetary penalty has been issued under this section shall have a reasonable opportunity under [section 1618 of this title](./chapter-004-tariff-act-of-1930.md#section-1618) to make representations seeking remission or mitigation of the monetary penalty. Following the conclusion of any proceeding under [section 1618 of this title](./chapter-004-tariff-act-of-1930.md#section-1618), the appropriate customs officer shall provide to the customs broker a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
 
-  (B) *Revocation or suspension* — The Customs Service may, for good and sufficient reason, serve notice in writing upon any customs broker to show cause why a license or permit issued under this section should not be revoked or suspended. The notice shall be in the form of a statement specifically setting forth the grounds of the complaint, and shall allow the customs broker 30 days to respond. If no response is filed, or the Customs Service determines that the revocation or suspension is still warranted, it shall notify the customs broker in writing of a hearing to be held within 30 days, or at a later date if the broker requests an extension and shows good cause therefor, before an administrative law judge appointed pursuant to [section 3105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3105&num=0&edition=prelim) who shall serve as the hearing officer. If the customs broker waives the hearing, or the broker or his designated representative fails to appear at the appointed time and place, the hearing officer shall make findings and recommendations based on the record submitted by the parties. At the hearing, the customs broker may be represented by counsel, and all proceedings, including the proof of the charges and the response thereto shall be presented with testimony taken under oath and the right of cross-examination accorded to both parties. A transcript of the hearing shall be made and a copy will be provided to the Customs Service and the customs broker; which shall thereafter be provided reasonable opportunity to file a post-hearing brief. Following the conclusion of the hearing, the hearing officer shall transmit promptly the record of the hearing along with the findings of fact and recommendations to the Secretary for decision. The Secretary will issue a written decision, based solely on the record, setting forth the findings of fact and the reasons for the decision. Such decision may provide for the sanction contained in the notice to show cause or any lesser sanction authorized by this subsection, including a monetary penalty not to exceed $30,000, than was contained in the notice to show cause.
+  (B) *Revocation or suspension* — U.S. Customs and Border Protection may, for good and sufficient reason, serve notice in writing upon any customs broker to show cause why a license or permit issued under this section should not be revoked or suspended. The notice shall be in the form of a statement specifically setting forth the grounds of the complaint, and shall allow the customs broker 30 days to respond. If no response is filed, or U.S. Customs and Border Protection determines that the revocation or suspension is still warranted, it shall notify the customs broker in writing of a hearing to be held within 30 days, or at a later date if the broker requests an extension and shows good cause therefor, before an administrative law judge appointed pursuant to [section 3105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3105&num=0&edition=prelim) who shall serve as the hearing officer. If the customs broker waives the hearing, or the broker or his designated representative fails to appear at the appointed time and place, the hearing officer shall make findings and recommendations based on the record submitted by the parties. At the hearing, the customs broker may be represented by counsel, and all proceedings, including the proof of the charges and the response thereto shall be presented with testimony taken under oath and the right of cross-examination accorded to both parties. A transcript of the hearing shall be made and a copy will be provided to U.S. Customs and Border Protection and the customs broker; which shall thereafter be provided reasonable opportunity to file a post-hearing brief. Following the conclusion of the hearing, the hearing officer shall transmit promptly the record of the hearing along with the findings of fact and recommendations to the Secretary for decision. The Secretary will issue a written decision, based solely on the record, setting forth the findings of fact and the reasons for the decision. Such decision may provide for the sanction contained in the notice to show cause or any lesser sanction authorized by this subsection, including a monetary penalty not to exceed $30,000, than was contained in the notice to show cause.
 
 (3) **Settlement and compromise** — The Secretary may settle and compromise any disciplinary proceeding which has been instituted under this subsection according to the terms and conditions agreed to by the parties, including but not limited to the reduction of any proposed suspension or revocation to a monetary penalty.
 
-(4) **Limitation of actions** — Notwithstanding [section 1621 of this title](./chapter-004-tariff-act-of-1930.md#section-1621), no proceeding under this subsection or subsection (b)(6) of this section shall be commenced unless such proceeding is instituted by the appropriate service of written notice within 5 years from the date the alleged violation was committed; except that if the alleged violation consists of fraud, the 5-year period of limitation shall commence running from the time such alleged violation was discovered.
+(4) **Limitation of actions** — Notwithstanding [section 1621 of this title](./chapter-004-tariff-act-of-1930.md#section-1621), no proceeding under this subsection or subsection (b)(6) shall be commenced unless such proceeding is instituted by the appropriate service of written notice within 5 years from the date the alleged violation was committed; except that if the alleged violation consists of fraud, the 5-year period of limitation shall commence running from the time such alleged violation was discovered.
 
 **(e) Judicial appeal**
 
-(1) **In general** — A customs broker, applicant, or other person directly affected may appeal any decision of the Secretary denying or revoking a license or permit under subsection (b) or (c) of this section, or revoking or suspending a license or permit or imposing a monetary penalty in lieu thereof under subsection (d)(2)(B) of this section, by filing in the Court of International Trade, within 60 days after the issuance of the decision or order, a written petition requesting that the decision or order be modified or set aside in whole or in part. A copy of the petition shall be transmitted promptly by the clerk of the court to the Secretary or his designee. In cases involving revocation or suspension of a license or permit or imposition of a monetary penalty in lieu thereof under subsection (d)(2)(B) of this section, after receipt of the petition, the Secretary shall file in court the record upon which the decision or order complained of was entered, as provided in [section 2635(d) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2635/d&num=0&edition=prelim).
+(1) **In general** — A customs broker, applicant, or other person directly affected may appeal any decision of the Secretary denying or revoking a license or permit under subsection (b) or (c), or revoking or suspending a license or permit or imposing a monetary penalty in lieu thereof under subsection (d)(2)(B), by filing in the Court of International Trade, within 60 days after the issuance of the decision or order, a written petition requesting that the decision or order be modified or set aside in whole or in part. A copy of the petition shall be transmitted promptly by the clerk of the court to the Secretary or his designee. In cases involving revocation or suspension of a license or permit or imposition of a monetary penalty in lieu thereof under subsection (d)(2)(B), after receipt of the petition, the Secretary shall file in court the record upon which the decision or order complained of was entered, as provided in [section 2635(d) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2635/d&num=0&edition=prelim).
 
 (2) **Consideration of objections** — The court shall not consider any objection to the decision or order of the Secretary, or to the introduction of evidence or testimony, unless that objection was raised before the hearing officer in suspension or revocation proceedings unless there were reasonable grounds for failure to do so.
 
@@ -11857,29 +12391,56 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 (5) **Effect of proceedings** — The commencement of proceedings under this subsection shall, unless specifically ordered by the court, operate as a stay of the decision of the Secretary except in the case of a denial of a license or permit.
 
-(6) **Failure to appeal** — If an appeal is not filed within the time limits specified in this section, the decision by the Secretary shall be final and conclusive. In the case of a monetary penalty imposed under subsection (d)(2)(B) of this section, if the amount is not tendered within 60 days after the decision becomes final, the license shall automatically be suspended until payment is made to the Customs Service.
+(6) **Failure to appeal** — If an appeal is not filed within the time limits specified in this section, the decision by the Secretary shall be final and conclusive. In the case of a monetary penalty imposed under subsection (d)(2)(B) of this section, if the amount is not tendered within 60 days after the decision becomes final, the license shall automatically be suspended until payment is made to U.S. Customs and Border Protection.
 
-**(f) Regulations by the Secretary** The Secretary may prescribe such rules and regulations relating to the customs business of customs brokers as the Secretary considers necessary to protect importers and the revenue of the United States, and to carry out the provisions of this section, including rules and regulations governing the licensing of or issuance of permits to customs brokers, the keeping of books, accounts, and records by customs brokers, and documents and correspondence, and the furnishing by customs brokers of any other information relating to their customs business to any duly accredited officer or employee of the Customs Service. The Secretary may not prohibit customs brokers from limiting their liability to other persons in the conduct of customs business. For purposes of this subsection or any other provision of this chapter pertaining to recordkeeping, all data required to be retained by a customs broker may be kept on microfilm, optical disc, magnetic tapes, disks or drums, video files or any other electrically generated medium. Pursuant to such regulations as the Secretary shall prescribe, the conversion of data to such storage medium may be accomplished at any time subsequent to the relevant customs transaction and the data may be retained in a centralized basis according to such broker’s business system.
+**(f) Regulations by the Secretary** The Secretary may prescribe such rules and regulations relating to the customs business of customs brokers as the Secretary considers necessary to protect importers and the revenue of the United States, and to carry out the provisions of this section, including rules and regulations governing the licensing of or issuance of permits to customs brokers, the keeping of books, accounts, and records by customs brokers, and documents and correspondence, and the furnishing by customs brokers of any other information relating to their customs business to any duly accredited officer or employee of U.S. Customs and Border Protection. The Secretary may not prohibit customs brokers from limiting their liability to other persons in the conduct of customs business. For purposes of this subsection or any other provision of this chapter pertaining to recordkeeping, all data required to be retained by a customs broker may be kept on microfilm, optical disc, magnetic tapes, disks or drums, video files or any other electrically generated medium. Pursuant to such regulations as the Secretary shall prescribe, the conversion of data to such storage medium may be accomplished at any time subsequent to the relevant customs transaction and the data may be retained in a centralized basis according to such broker’s business system.
 
 **(g) Triennial reports by customs brokers**
 
-(1) **In general** — On February 1, 1985, and on February 1 of each third year thereafter, each person who is licensed under subsection (b) of this section shall file with the Secretary of the Treasury a report as to—
+(1) **In general** — On February 1, 1985, and on February 1 of each third year thereafter, each person who is licensed under subsection (b) shall file with the Secretary of the Treasury a report as to—
 
   (A) whether such person is actively engaged in business as a customs broker; and
 
   (B) the name under, and the address at, which such business is being transacted.
 
-(2) **Suspension and revocation** — If a person licensed under subsection (b) of this section fails to file the required report by March 1 of the reporting year, the license is suspended, and may be thereafter revoked subject to the following procedures:
+(2) **Suspension and revocation** — If a person licensed under subsection (b) fails to file the required report by March 1 of the reporting year, the license is suspended, and may be thereafter revoked subject to the following procedures:
 
   (A) The Secretary shall transmit written notice of suspension to the licensee no later than March 31 of the reporting year.
 
-  (B) If the licensee files the required report within 60 days of receipt of the Secretary’s notice, the license shall be reinstated.
+  (B) If the licensee files the required report within 60 days of receipt of the notice under subparagraph (A), the license shall be reinstated.
 
   (C) In the event the required report is not filed within the 60-day period, the license shall be revoked without prejudice to the filing of an application for a new license.
 
-**(h) Fees and charges** The Secretary may prescribe reasonable fees and charges to defray the costs of the Customs Service in carrying out the provisions of this section, including, but not limited to, a fee for licenses issued under subsection (b) of this section and fees for any test administered by him or under his direction; except that no separate fees shall be imposed to defray the costs of an individual audit or of individual disciplinary proceedings of any nature.
+**(h) Fees and charges** The Secretary may prescribe reasonable fees and charges to defray the costs of U.S. Customs and Border Protection in carrying out the provisions of this section, including, but not limited to, a fee for licenses issued under subsection (b) and fees for any test administered by him or under his direction; except that no separate fees shall be imposed to defray the costs of an individual audit or of individual disciplinary proceedings of any nature.
+
+**(i) Identification of importers**
+
+(1) **In general** — The Secretary shall prescribe regulations setting forth the minimum standards for customs brokers and importers, including nonresident importers, regarding the identity of the importer that shall apply in connection with the importation of merchandise into the United States.
+
+(2) **Minimum requirements** — The regulations required under paragraph (1) shall, at a minimum—
+
+  (A) identify the information that an importer, including a nonresident importer, is required to submit to a broker and that a broker is required to collect in order to verify the identity of the importer;
+
+  (B) identify reasonable procedures that a broker is required to follow in order to verify the authenticity of information collected from an importer; and
+
+  (C) require a broker to maintain records of the information collected by the broker to verify the identity of an importer.
+
+(3) **Penalties** — Any customs broker who fails to collect information required under the regulations prescribed under this subsection shall be liable to the United States, at the discretion of the Secretary, for a monetary penalty not to exceed $10,000 for each violation of those regulations and shall be subject to revocation or suspension of a license or permit of the customs broker pursuant to the procedures set forth in subsection (d). This penalty shall be assessed in the same manner and under the same procedures as the monetary penalties provided for in subsection (d)(2)(A).
+
+(4) **Definitions** — In this subsection:
+
+  (A) *Importer* — The term “importer” means one of the parties qualifying as an importer of record under [section 1484(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1484/a/2/B&num=0&edition=prelim).
+
+  (B) *Nonresident importer* — The term “nonresident importer” means an importer who is—
+
+    (i) an individual who is not a citizen of the United States or an alien lawfully admitted for permanent residence in the United States; or
+
+    (ii) a partnership, corporation, or other commercial entity that is not organized under the laws of a jurisdiction within the customs territory of the United States (as such term is defined in General Note 2 of the Harmonized Tariff Schedule of the United States) or in the Virgin Islands of the United States.
 
 ### Statutory Notes
+
+#### References in Text
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (i)(4)(B), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
 
 #### Prior Provisions
 This section relates to the same subject matter as act June 10, 1910, ch. 283, §§ 1–5, 36 Stat. 464, 465 (incorporated into the Code as former sections 415 to 419 of this title); and those sections were expressly repealed by paragraph (e) of this section which read as follows: “(e) Licenses under Act of June 10, 1910.—The Act entitled ‘An Act to license customhouse brokers,’ approved June 10, 1910, is hereby repealed, except that any license issued under such Act shall continue in force and effect, subject to suspension and revocation in the same manner and upon the same conditions as licenses issued pursuant to subdivision (a) of this section.”
@@ -11889,6 +12450,16 @@ Act June 10, 1910, ch. 283, § 1, 36 Stat. 464, prior to its incorporation into 
 Act June 10, 1910, ch. 283, § 3, 36 Stat. 465, prior to its incorporation into the Code, referred to the United States Circuit Court instead of the District Court. Section 291 of the act of Mar. 3, 1911, provided that any reference, in any law not embraced in that act, to the Circuit Courts, or any power or duty conferred upon them, should be deemed to refer to, and to confer such power and duty upon, the District Courts.
 
 #### Amendments
+2016—Pub. L. 114–125, § 903(b)(1), substituted “U.S. Customs and Border Protection” for “the Customs Service” wherever appearing.
+
+Subsec. (d)(1)(G). Pub. L. 114–125, § 903(a), added subpar. (G).
+
+Subsec. (d)(2)(B). Pub. L. 114–125, § 903(b)(2), substituted “U.S. Customs and Border Protection” for “The Customs Service”.
+
+Subsec. (g)(2)(B). Pub. L. 114–125, § 903(b)(3), substituted “notice under subparagraph (A)” for “Secretary’s notice”.
+
+Subsec. (i). Pub. L. 114–125, § 116(a), added subsec. (i).
+
 1998—Subsec. (i). Pub. L. 105–258 struck out subsec. (i) which prohibited conference or group of two or more ocean common carriers from denying any member the right to take independent action on any level of compensation paid to an ocean freight forwarder who was also a customs broker, and from agreeing to limit payment to such a forwarder to less than 1.25 percent of aggregate of tariff rates and charges, and set out provisions relating to administration of provisions, remedies for violations, and definitions.
 
 1996—Subsec. (d)(2)(B). Pub. L. 104–295 substituted “the findings of fact” for “his findings of fact” in penultimate sentence.
@@ -11938,7 +12509,7 @@ Amendment by Pub. L. 96–417 applicable with respect to civil actions commenced
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Plan Amendments Not Required Until January 1, 1989
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1801–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
@@ -12046,7 +12617,7 @@ Section was not enacted as part of the Tariff Act of 1930 which comprises this c
 Section is based on sections 1474 and 1509(b)–(e) of former Title 49, Transportation, which were repealed and restated as this section by Pub. L. 103–272, §§ 2, 7(b), July 5, 1994, 108 Stat. 1358, 1379.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1645"></a>
@@ -12070,7 +12641,7 @@ Section is comprised of subsecs. (a) and (c) of section 645 of act June 17, 1930
 Bureau of Customs redesignated United States Customs Service by Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, [section 308 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section308&num=0&edition=prelim), Money and Finance.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by Reorg. Plan No. 26, of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Bureau of Customs and Customs Service, referred to in text, were under Department of the Treasury.
 
@@ -12097,12 +12668,15 @@ Section effective on and after thirtieth day following Aug. 8, 1953, see Effecti
 <a id="section-1646b"></a>
 ## § 1646b. Random customs inspections for stolen automobiles being exported
 
-The Commissioner of Customs shall direct customs officers to conduct at random inspections of automobiles, and of shipping containers that may contain automobiles that are being exported, for purposes of determining whether such automobiles were stolen.
+The Commissioner of U.S. Customs and Border Protection shall direct customs officers to conduct at random inspections of automobiles, and of shipping containers that may contain automobiles that are being exported, for purposes of determining whether such automobiles were stolen.
 
 ### Statutory Notes
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in text on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Pilot Study Authorizing Utility of Nondestructive Examination System
 Pub. L. 102–519, title IV, § 402, Oct. 25, 1992, 106 Stat. 3401, provided that: “The Secretary of the Treasury, acting through the Commissioner of Customs, shall conduct a pilot study of the utility of a nondestructive examination system to be used for inspection of containers that may contain automobiles leaving the country for the purpose of determining whether such automobiles have been stolen.”
@@ -12111,12 +12685,15 @@ Pub. L. 102–519, title IV, § 402, Oct. 25, 1992, 106 Stat. 3401, provided tha
 <a id="section-1646c"></a>
 ## § 1646c. Export reporting requirement
 
-The Commissioner of Customs shall require all persons or entities exporting used automobiles, including automobiles exported for personal use, by air or ship to provide to the Customs Service, at least 72 hours before the export, the vehicle identification number of each such automobile and proof of ownership of such automobile. The Commissioner shall establish specific criteria for randomly selecting used automobiles scheduled to be exported, consistent with the risk of stolen automobiles being exported and shall check the vehicle identification number of each automobile selected pursuant to such criteria against the information in the National Crime Information Center to determine whether such automobile has been reported stolen. At the request of the Director of the Federal Bureau of Investigation, the Commissioner shall make available to the Director all vehicle identification numbers obtained under this section.
+The Commissioner of U.S. Customs and Border Protection shall require all persons or entities exporting used automobiles, including automobiles exported for personal use, by air or ship to provide to the Customs Service, at least 72 hours before the export, the vehicle identification number of each such automobile and proof of ownership of such automobile. The Commissioner shall establish specific criteria for randomly selecting used automobiles scheduled to be exported, consistent with the risk of stolen automobiles being exported and shall check the vehicle identification number of each automobile selected pursuant to such criteria against the information in the National Crime Information Center to determine whether such automobile has been reported stolen. At the request of the Director of the Federal Bureau of Investigation, the Commissioner shall make available to the Director all vehicle identification numbers obtained under this section.
 
 ### Statutory Notes
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in text on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1647"></a>
@@ -12158,7 +12735,7 @@ Section, act June 17, 1930, ch. 497, title IV, § 650, 46 Stat. 762, is set out 
 
 <a id="section-1651"></a>
 ## § 1651. Repeals
-**(a) Specific repeals** The following Acts and parts of Acts are repealed, subject to the limitations provided in subdivision (c) of this section:
+**(a) Specific repeals** The following Acts and parts of Acts are repealed, subject to the limitations provided in subdivision (c):
 
 (1) The Tariff Act of 1922, except that the repeal of sections 304 and 482 (relating to marking of imported articles and to certified invoices, respectively) shall take effect sixty days after the enactment of this chapter;
 
@@ -12245,6 +12822,9 @@ Section was not part of Tariff Act of 1930 which constitutes this chapter.
 This chapter may be cited as the “Tariff Act of 1930.”
 
 ### Statutory Notes
+
+#### Short Title of 2015 Amendment
+Pub. L. 114–27, title V, § 501, June 29, 2015, 129 Stat. 383, provided that: “This title [amending sections 1677, 1677b, 1677e, and 1677m of this title and enacting provisions set out as a note under [section 3438 of this title](./chapter-021-north-american-free-trade.md#section-3438)] may be cited as the ‘American Trade Enforcement Effectiveness Act’.”
 
 #### Short Title of 2012 Amendment
 Pub. L. 112–93, § 1, Feb. 10, 2012, 126 Stat. 8, provided that: “This Act [amending [section 1590 of this title](./chapter-004-tariff-act-of-1930.md#section-1590) and enacting provisions set out as a note under [section 1590 of this title](./chapter-004-tariff-act-of-1930.md#section-1590)] may cited as the ‘Ultralight Aircraft Smuggling Prevention Act of 2012’.”
@@ -12470,7 +13050,7 @@ Pub. L. 96–39, title I, § 104, July 26, 1979, 93 Stat. 190, as amended by Pub
 
 (2) **Simultaneous filing with Commission** — The petitioner shall file a copy of the petition with the Commission on the same day as it is filed with the administering authority.
 
-(3) **Petition based upon a derogation of an international undertaking on official export credits** — If the sole basis of a petition filed under paragraph (1) is the derogation of an international undertaking on official export credits, the Administering Authority shall immediately notify the Secretary of the Treasury who shall, in consultation with the Administering Authority, within 5 days after the date on which the administering authority initiates an investigation under subsection (c) of this section, determine the existence and estimated value of the derogation, if any, and shall publish such determination in the Federal Register.
+(3) **Petition based upon a derogation of an international undertaking on official export credits** — If the sole basis of a petition filed under paragraph (1) is the derogation of an international undertaking on official export credits, the Administering Authority shall immediately notify the Secretary of the Treasury who shall, in consultation with the Administering Authority, within 5 days after the date on which the administering authority initiates an investigation under subsection (c), determine the existence and estimated value of the derogation, if any, and shall publish such determination in the Federal Register.
 
 (4) **Action with respect to petitions**
 
@@ -12480,7 +13060,7 @@ Pub. L. 96–39, title I, § 104, July 26, 1979, 93 Stat. 190, as amended by Pub
 
     (ii) provide the government of any exporting country named in the petition that is a Subsidies Agreement country an opportunity for consultations with respect to the petition.
 
-  (B) *Acceptance of communications* — The administering authority shall not accept any unsolicited oral or written communication from any person other than an interested party described in section 1677(9)(C), (D), (E), (F), or (G) of this title before the administering authority makes its decision whether to initiate an investigation, except as provided in subparagraph (A)(ii) and subsection (c)(4)(D) of this section, and except for inquiries regarding the status of the administering authority’s consideration of the petition.
+  (B) *Acceptance of communications* — The administering authority shall not accept any unsolicited oral or written communication from any person other than an interested party described in section 1677(9)(C), (D), (E), (F), or (G) of this title before the administering authority makes its decision whether to initiate an investigation, except as provided in subparagraph (A)(ii) and subsection (c)(4)(D), and except for inquiries regarding the status of the administering authority’s consideration of the petition.
 
   (C) *Nondisclosure of certain information* — The administering authority and the Commission shall not disclose information with regard to any draft petition submitted for review and comment before it is filed under paragraph (1).
 
@@ -12488,7 +13068,7 @@ Pub. L. 96–39, title I, § 104, July 26, 1979, 93 Stat. 190, as amended by Pub
 
 (1) **In general**
 
-  (A) *Time for initial determination* — Except as provided in subparagraph (B), within 20 days after the date on which a petition is filed under subsection (b) of this section, the administering authority shall—
+  (A) *Time for initial determination* — Except as provided in subparagraph (B), within 20 days after the date on which a petition is filed under subsection (b), the administering authority shall—
 
     (i) after examining, on the basis of sources readily available to the administering authority, the accuracy and adequacy of the evidence provided in the petition, determine whether the petition alleges the elements necessary for the imposition of a duty under [section 1671(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671/a&num=0&edition=prelim) and contains information reasonably available to the petitioner supporting the allegations, and
 
@@ -12531,7 +13111,7 @@ Pub. L. 96–39, title I, § 104, July 26, 1979, 93 Stat. 190, as amended by Pub
 
   (E) *Comments by interested parties* — Before the administering authority makes a determination with respect to initiating an investigation, any person who would qualify as an interested party under [section 1677(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/9&num=0&edition=prelim) if an investigation were initiated, may submit comments or information on the issue of industry support. After the administering authority makes a determination with respect to initiating an investigation, the determination regarding industry support shall not be reconsidered.
 
-(5) **“Domestic producers or workers” defined** — For purposes of this subsection, the term “domestic producers or workers” means those interested parties who are eligible to file a petition under subsection (b)(1) of this section.
+(5) **“Domestic producers or workers” defined** — For purposes of this subsection, the term “domestic producers or workers” means those interested parties who are eligible to file a petition under subsection (b)(1).
 
 **(d) Notification to Commission of determination** The administering authority shall—
 
@@ -12539,7 +13119,7 @@ Pub. L. 96–39, title I, § 104, July 26, 1979, 93 Stat. 190, as amended by Pub
 
 (2) if the determination is affirmative, make available to the Commission such information as it may have relating to the matter under investigation, under such procedures as the administering authority and the Commission may establish to prevent disclosure, other than with the consent of the party providing it or under protective order, of any information to which confidential treatment has been given by the administering authority.
 
-**(e) Information regarding critical circumstances** If, at any time after the initiation of an investigation under this part, the administering authority finds a reasonable basis to suspect that the alleged countervailable subsidy is inconsistent with the Subsidies Agreement, the administering authority may request the Commissioner of Customs to compile information on an expedited basis regarding entries of the subject merchandise. Upon receiving such request, the Commissioner of Customs shall collect information regarding the volume and value of entries of the subject merchandise and shall transmit such information to the administering authority at such times as the administering authority shall direct (at least once every 30 days), until a final determination is made under [section 1671d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671d/a&num=0&edition=prelim), the investigation is terminated, or the administering authority withdraws the request.
+**(e) Information regarding critical circumstances** If, at any time after the initiation of an investigation under this part, the administering authority finds a reasonable basis to suspect that the alleged countervailable subsidy is inconsistent with the Subsidies Agreement, the administering authority may request the Commissioner of U.S. Customs and Border Protection to compile information on an expedited basis regarding entries of the subject merchandise. Upon receiving such request, the Commissioner of U.S. Customs and Border Protection shall collect information regarding the volume and value of entries of the subject merchandise and shall transmit such information to the administering authority at such times as the administering authority shall direct (at least once every 30 days), until a final determination is made under [section 1671d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671d/a&num=0&edition=prelim), the investigation is terminated, or the administering authority withdraws the request.
 
 ### Statutory Notes
 
@@ -12548,7 +13128,7 @@ Pub. L. 96–39, title I, § 104, July 26, 1979, 93 Stat. 190, as amended by Pub
 
 1994—Subsecs. (a), (b)(1). Pub. L. 103–465, § 233(a)(6)(A)(i), (ii), substituted “initiated” for “commenced”.
 
-Subsec. (b)(3). Pub. L. 103–465, §§ 211(a)(1), 212(b)(1)(E), substituted “paragraph (1)” for “subsection (b)(1) of this section” and “5 days after the date on which the administering authority initiates an investigation under subsection (c) of this section,” for “twenty days”.
+Subsec. (b)(3). Pub. L. 103–465, §§ 211(a)(1), 212(b)(1)(E), substituted “paragraph (1)” for “subsection (b)(1) of this section” and “5 days after the date on which the administering authority initiates an investigation under subsection (c),” for “twenty days”.
 
 Subsec. (b)(4). Pub. L. 103–465, § 211(a)(2), added par. (4).
 
@@ -12572,6 +13152,9 @@ Subsec. (e). Pub. L. 100–418, § 1324(a)(1), added subsec. (e).
 
 1983—Subsec. (b)(3). Pub. L. 98–181 added par. (3).
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in two places in subsec. (e) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
@@ -12579,7 +13162,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 Amendment by section 1324(a)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and amendment by section 1326(d)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b), (c) of Pub. L. 100–418, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Plan Amendments Not Required Until January 1, 1989
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1801–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
@@ -12647,7 +13230,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 (1) **In general** — If—
 
-  (A) the petitioner makes a timely request for an extension of the period within which the determination must be made under subsection (b) of this section, or
+  (A) the petitioner makes a timely request for an extension of the period within which the determination must be made under subsection (b), or
 
   (B) the administering authority concludes that the parties concerned are cooperating and determines that—
 
@@ -12662,11 +13245,11 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
       (IV) the number of firms whose activities must be investigated; and
 
     (ii) additional time is necessary to make the preliminary determination,
-  then the administering authority may postpone making the preliminary determination under subsection (b) of this section until not later than the 130th day after the date on which the administering authority initiates an investigation under [section 1671a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671a/c&num=0&edition=prelim), or an investigation is initiated under [section 1671a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671a/a&num=0&edition=prelim).
+  then the administering authority may postpone making the preliminary determination under subsection (b) until not later than the 130th day after the date on which the administering authority initiates an investigation under [section 1671a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671a/c&num=0&edition=prelim), or an investigation is initiated under [section 1671a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671a/a&num=0&edition=prelim).
 
-(2) **Notice of postponement** — The administering authority shall notify the parties to the investigation, not later than 20 days before the date on which the preliminary determination would otherwise be required under subsection (b) of this section, if it intends to postpone making the preliminary determination under paragraph (1). The notification shall include an explanation of the reasons for the postponement. Notice of the postponement shall be published in the Federal Register.
+(2) **Notice of postponement** — The administering authority shall notify the parties to the investigation, not later than 20 days before the date on which the preliminary determination would otherwise be required under subsection (b), if it intends to postpone making the preliminary determination under paragraph (1). The notification shall include an explanation of the reasons for the postponement. Notice of the postponement shall be published in the Federal Register.
 
-**(d) Effect of determination by the administering authority** If the preliminary determination of the administering authority under subsection (b) of this section is affirmative, the administering authority—
+**(d) Effect of determination by the administering authority** If the preliminary determination of the administering authority under subsection (b) is affirmative, the administering authority—
 
 (1)
 
@@ -12695,19 +13278,19 @@ The instructions of the administering authority under paragraphs (1) and (2) may
 
   (B) there have been massive imports of the subject merchandise over a relatively short period.
 
-(2) **Suspension of liquidation** — If the determination of the administering authority under paragraph (1) is affirmative, then any suspension of liquidation ordered under subsection (d)(2) of this section shall apply, or, if notice of such suspension of liquidation is already published, be amended to apply, to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the later of—
+(2) **Suspension of liquidation** — If the determination of the administering authority under paragraph (1) is affirmative, then any suspension of liquidation ordered under subsection (d)(2) shall apply, or, if notice of such suspension of liquidation is already published, be amended to apply, to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the later of—
 
   (A) the date which is 90 days before the date on which the suspension of liquidation was first ordered, or
 
   (B) the date on which notice of the determination to initiate the investigation is published in the Federal Register.
 
-**(f) Notice of determination** Whenever the Commission or the administering authority makes a determination under this section, the Commission or the administering authority, as the case may be, shall notify the petitioner, and other parties to the investigation, and the Commission or the administering authority (whichever is appropriate) of its determination. The administering authority shall include with such notification the facts and conclusions on which its determination is based. Not later than 5 days after the date on which the determination is required to be made under subsection (a)(2) of this section, the Commission shall transmit to the administering authority the facts and conclusions on which its determination is based.
+**(f) Notice of determination** Whenever the Commission or the administering authority makes a determination under this section, the Commission or the administering authority, as the case may be, shall notify the petitioner, and other parties to the investigation, and the Commission or the administering authority (whichever is appropriate) of its determination. The administering authority shall include with such notification the facts and conclusions on which its determination is based. Not later than 5 days after the date on which the determination is required to be made under subsection (a)(2), the Commission shall transmit to the administering authority the facts and conclusions on which its determination is based.
 
 **(g) Time period where upstream subsidization is involved**
 
-(1) **In general** — Whenever the administering authority concludes prior to a preliminary determination under subsection (b) of this section, that there is a reasonable basis to believe or suspect that an upstream subsidy is being bestowed, the time period within which a preliminary determination must be made shall be extended to 250 days after the filing of a petition under [section 1671a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671a/b&num=0&edition=prelim) or initiation of an investigation under [section 1671a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671a/a&num=0&edition=prelim) (310 days in cases declared extraordinarily complicated under subsection (c) of this section), if the administering authority concludes that such additional time is necessary to make the required determination concerning upstream subsidization.
+(1) **In general** — Whenever the administering authority concludes prior to a preliminary determination under subsection (b), that there is a reasonable basis to believe or suspect that an upstream subsidy is being bestowed, the time period within which a preliminary determination must be made shall be extended to 250 days after the filing of a petition under [section 1671a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671a/b&num=0&edition=prelim) or initiation of an investigation under [section 1671a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671a/a&num=0&edition=prelim) (310 days in cases declared extraordinarily complicated under subsection (c)), if the administering authority concludes that such additional time is necessary to make the required determination concerning upstream subsidization.
 
-(2) **Exceptions** — Whenever the administering authority concludes, after a preliminary determination under subsection (b) of this section, that there is a reasonable basis to believe or suspect that an upstream subsidy is being bestowed—
+(2) **Exceptions** — Whenever the administering authority concludes, after a preliminary determination under subsection (b), that there is a reasonable basis to believe or suspect that an upstream subsidy is being bestowed—
 
   (A) in cases in which the preliminary determination was negative, the time period within which a final determination must be made shall be extended to 165 or 225 days, as appropriate, under [section 1671d(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671d/a/1&num=0&edition=prelim); or
 
@@ -12843,7 +13426,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 **(c) Agreements eliminating injurious effect**
 
-(1) **General rule** — If the administering authority determines that extraordinary circumstances are present in a case, it may suspend an investigation upon the acceptance of an agreement from a government described in subsection (b) of this section, or from exporters described in subsection (b) of this section, if the agreement will eliminate completely the injurious effect of exports to the United States of the subject merchandise.
+(1) **General rule** — If the administering authority determines that extraordinary circumstances are present in a case, it may suspend an investigation upon the acceptance of an agreement from a government described in subsection (b), or from exporters described in subsection (b), if the agreement will eliminate completely the injurious effect of exports to the United States of the subject merchandise.
 
 (2) **Certain additional requirements** — Except in the case of an agreement by a foreign government to restrict the volume of imports of the subject merchandise into the United States, the administering authority may not accept an agreement under this subsection unless—
 
@@ -12871,28 +13454,28 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 **(d) Additional rules and conditions**
 
-(1) **Public interest; monitoring** — The administering authority shall not accept an agreement under subsection (b) or (c) of this section unless—
+(1) **Public interest; monitoring** — The administering authority shall not accept an agreement under subsection (b) or (c) unless—
 
   (A) it is satisfied that suspension of the investigation is in the public interest, and
 
   (B) effective monitoring of the agreement by the United States is practicable.
-  Where practicable, the administering authority shall provide to the exporters who would have been subject to the agreement the reasons for not accepting the agreement and, to the extent possible, an opportunity to submit comments thereon. In applying subparagraph (A) with respect to any quantitative restriction agreement under subsection (c) of this section, the administering authority shall take into account, in addition to such other factors as are considered necessary or appropriate, the factors set forth in subsection (a)(2)(B)(i), (ii), and (iii) of this section as they apply to the proposed suspension and agreement, after consulting with the appropriate consuming industries, producers, and workers referred to in subsection (a)(2)(C)(i) and (ii) of this section.
+  Where practicable, the administering authority shall provide to the exporters who would have been subject to the agreement the reasons for not accepting the agreement and, to the extent possible, an opportunity to submit comments thereon. In applying subparagraph (A) with respect to any quantitative restriction agreement under subsection (c), the administering authority shall take into account, in addition to such other factors as are considered necessary or appropriate, the factors set forth in subsection (a)(2)(B)(i), (ii), and (iii) as they apply to the proposed suspension and agreement, after consulting with the appropriate consuming industries, producers, and workers referred to in subsection (a)(2)(C)(i) and (ii).
 
-(2) **Exports of merchandise to United States not to increase during interim period** — The administering authority may not accept any agreement under subsection (b) of this section unless that agreement provides a means of ensuring that the quantity of the merchandise covered by that agreement exported to the United States during the period provided for elimination or offset of the countervailable subsidy or cessation of exports does not exceed the quantity of such merchandise exported to the United States during the most recent representative period determined by the administering authority.
+(2) **Exports of merchandise to United States not to increase during interim period** — The administering authority may not accept any agreement under subsection (b) unless that agreement provides a means of ensuring that the quantity of the merchandise covered by that agreement exported to the United States during the period provided for elimination or offset of the countervailable subsidy or cessation of exports does not exceed the quantity of such merchandise exported to the United States during the most recent representative period determined by the administering authority.
 
-(3) **Regulations governing entry or withdrawals** — In order to carry out an agreement concluded under subsection (b) or (c) of this section, the administering authority is authorized to prescribe regulations governing the entry, or withdrawal from warehouse, for consumption of subject merchandise.
+(3) **Regulations governing entry or withdrawals** — In order to carry out an agreement concluded under subsection (b) or (c), the administering authority is authorized to prescribe regulations governing the entry, or withdrawal from warehouse, for consumption of subject merchandise.
 
-**(e) Suspension of investigation procedure** Before an investigation may be suspended under subsection (b) or (c) of this section the administering authority shall—
+**(e) Suspension of investigation procedure** Before an investigation may be suspended under subsection (b) or (c) the administering authority shall—
 
 (1) notify the petitioner of, and consult with the petitioner concerning, its intention to suspend the investigation, and notify other parties to the investigation and the Commission not less than 30 days before the date on which it suspends the investigation,
 
-(2) provide a copy of the proposed agreement to the petitioner at the time of the notification, together with an explanation of how the agreement will be carried out and enforced (including any action required of foreign governments), and of how the agreement will meet the requirements of subsections (b) and (d) or (c) and (d) of this section, and
+(2) provide a copy of the proposed agreement to the petitioner at the time of the notification, together with an explanation of how the agreement will be carried out and enforced (including any action required of foreign governments), and of how the agreement will meet the requirements of subsections (b) and (d) or (c) and (d), and
 
-(3) permit all interested parties described in [section 1677(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/9&num=0&edition=prelim) to submit comments and information for the record before the date on which notice of suspension of the investigation is published under subsection (f)(1)(A) of this section.
+(3) permit all interested parties described in [section 1677(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/9&num=0&edition=prelim) to submit comments and information for the record before the date on which notice of suspension of the investigation is published under subsection (f)(1)(A).
 
 **(f) Effects of suspension of investigation**
 
-(1) **In general** — If the administering authority determines to suspend an investigation upon acceptance of an agreement described in subsection (b) or (c) of this section, then—
+(1) **In general** — If the administering authority determines to suspend an investigation upon acceptance of an agreement described in subsection (b) or (c), then—
 
   (A) it shall suspend the investigation, publish notice of suspension of the investigation, and issue an affirmative preliminary determination under [section 1671b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/b&num=0&edition=prelim) with respect to the subject merchandise, unless it has previously issued such a determination in the same investigation,
 
@@ -12902,7 +13485,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 (2) **Liquidation of entries**
 
-  (A) *Cessation of exports; complete elimination of net countervailable subsidy* — If the agreement accepted by the administering authority is an agreement described in subsection (b) of this section, then—
+  (A) *Cessation of exports; complete elimination of net countervailable subsidy* — If the agreement accepted by the administering authority is an agreement described in subsection (b), then—
 
     (i) notwithstanding the affirmative preliminary determination required under paragraph (1)(A), the liquidation of entries of subject merchandise shall not be suspended under [section 1671b(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/d/2&num=0&edition=prelim),
 
@@ -12910,9 +13493,9 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
     (iii) the administering authority shall refund any cash deposit and release any bond or other security deposited under [section 1671b(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/d/1/B&num=0&edition=prelim).
 
-  (B) *Other agreements* — If the agreement accepted by the administering authority is an agreement described in subsection (c) of this section, then the liquidation of entries of the subject merchandise shall be suspended under [section 1671b(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/d/2&num=0&edition=prelim), or, if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determination in the same case, that suspension of liquidation shall continue in effect, subject to subsection (h)(3) of this section, but the security required under [section 1671b(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/d/1/B&num=0&edition=prelim) may be adjusted to reflect the effect of the agreement.
+  (B) *Other agreements* — If the agreement accepted by the administering authority is an agreement described in subsection (c), then the liquidation of entries of the subject merchandise shall be suspended under [section 1671b(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/d/2&num=0&edition=prelim), or, if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determination in the same case, that suspension of liquidation shall continue in effect, subject to subsection (h)(3), but the security required under [section 1671b(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/d/1/B&num=0&edition=prelim) may be adjusted to reflect the effect of the agreement.
 
-(3) **Where investigation is continued** — If, pursuant to subsection (g) of this section, the administering authority and the Commission continue an investigation in which an agreement has been accepted under subsection (b) or (c) of this section, then—
+(3) **Where investigation is continued** — If, pursuant to subsection (g), the administering authority and the Commission continue an investigation in which an agreement has been accepted under subsection (b) or (c), then—
 
   (A) if the final determination by the administering authority or the Commission under [section 1671d of this title](./chapter-004-tariff-act-of-1930.md#section-1671d) is negative, the agreement shall have no force or effect and the investigation shall be terminated, or
 
@@ -12920,7 +13503,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
     (i) the agreement remains in force,
 
-    (ii) the agreement continues to meet the requirements of subsections (b) and (d) or (c) and (d) of this section, and
+    (ii) the agreement continues to meet the requirements of subsections (b) and (d) or (c) and (d), and
 
     (iii) the parties to the agreement carry out their obligations under the agreement in accordance with its terms.
 
@@ -12933,7 +13516,7 @@ then the administering authority and the Commission shall continue the investiga
 
 **(h) Review of suspension**
 
-(1) **In general** — Within 20 days after the suspension of an investigation under subsection (c) of this section, an interested party which is a party to the investigation and which is described in subparagraph (C), (D), (E), (F), or (G) of [section 1677(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/9&num=0&edition=prelim) may, by petition filed with the Commission and with notice to the administering authority, ask for a review of the suspension.
+(1) **In general** — Within 20 days after the suspension of an investigation under subsection (c), an interested party which is a party to the investigation and which is described in subparagraph (C), (D), (E), (F), or (G) of [section 1677(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/9&num=0&edition=prelim) may, by petition filed with the Commission and with notice to the administering authority, ask for a review of the suspension.
 
 (2) **Commission investigation** — Upon receipt of a review petition under paragraph (1), the Commission shall, within 75 days after the date on which the petition is filed with it, determine whether the injurious effect of imports of the subject merchandise is eliminated completely by the agreement. If the Commission’s determination under this subsection is negative, the investigation shall be resumed on the date of publication of notice of such determination as if the affirmative preliminary determination under [section 1671b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/b&num=0&edition=prelim) had been made on that date.
 
@@ -12945,33 +13528,33 @@ then the administering authority and the Commission shall continue the investiga
 
 **(i) Violation of agreement**
 
-(1) **In general** — If the administering authority determines that an agreement accepted under subsection (b) or (c) of this section is being, or has been, violated, or no longer meets the requirements of such subsection (other than the requirement, under subsection (c)(1) of this section, of elimination of injury) and subsection (d) of this section, then, on the date of publication of its determination, it shall—
+(1) **In general** — If the administering authority determines that an agreement accepted under subsection (b) or (c) is being, or has been, violated, or no longer meets the requirements of such subsection (other than the requirement, under subsection (c)(1), of elimination of injury) and subsection (d), then, on the date of publication of its determination, it shall—
 
   (A) suspend liquidation under [section 1671b(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/d/2&num=0&edition=prelim) of unliquidated entries of the merchandise made on or after the later of—
 
     (i) the date which is 90 days before the date of publication of the notice of suspension of liquidation, or
 
-    (ii) the date on which the merchandise, the sale or export to the United States of which was in violation of the agreement, or under an agreement which no longer meets the requirements of subsections (b) and (d) or (c) and (d) of this section, was first entered, or withdrawn from warehouse, for consumption,
+    (ii) the date on which the merchandise, the sale or export to the United States of which was in violation of the agreement, or under an agreement which no longer meets the requirements of subsections (b) and (d) or (c) and (d), was first entered, or withdrawn from warehouse, for consumption,
 
   (B) if the investigation was not completed, resume the investigation as if its affirmative preliminary determination under [section 1671b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/b&num=0&edition=prelim) were made on the date of its determination under this paragraph,
 
-  (C) if the investigation was completed under subsection (g) of this section, issue a countervailing duty order under [section 1671e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671e/a&num=0&edition=prelim) effective with respect to entries of merchandise the liquidation of which was suspended,
+  (C) if the investigation was completed under subsection (g), issue a countervailing duty order under [section 1671e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671e/a&num=0&edition=prelim) effective with respect to entries of merchandise the liquidation of which was suspended,
 
-  (D) if it considers the violation to be intentional, notify the Commissioner of Customs who shall take appropriate action under paragraph (2), and
+  (D) if it considers the violation to be intentional, notify the Commissioner of U.S. Customs and Border Protection who shall take appropriate action under paragraph (2), and
 
   (E) notify the petitioner, interested parties who are or were parties to the investigation, and the Commission of its action under this paragraph.
 
-(2) **Intentional violation to be punished by civil penalty** — Any person who intentionally violates an agreement accepted by the administering authority under subsection (b) or (c) of this section shall be subject to a civil penalty assessed in the same amount, in the same manner, and under the same procedure, as the penalty imposed for a fraudulent violation of [section 1592(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1592/a&num=0&edition=prelim).
+(2) **Intentional violation to be punished by civil penalty** — Any person who intentionally violates an agreement accepted by the administering authority under subsection (b) or (c) shall be subject to a civil penalty assessed in the same amount, in the same manner, and under the same procedure, as the penalty imposed for a fraudulent violation of [section 1592(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1592/a&num=0&edition=prelim).
 
-**(j) Determination not to take agreement into account** In making a final determination under [section 1671d of this title](./chapter-004-tariff-act-of-1930.md#section-1671d), or in conducting a review under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675), in a case in which the administering authority has terminated a suspension of investigation under subsection (i)(1) of this section, or continued an investigation under subsection (g) of this section, the Commission and the administering authority shall consider all of the subject merchandise, without regard to the effect of any agreement under subsection (b) or (c) of this section.
+**(j) Determination not to take agreement into account** In making a final determination under [section 1671d of this title](./chapter-004-tariff-act-of-1930.md#section-1671d), or in conducting a review under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675), in a case in which the administering authority has terminated a suspension of investigation under subsection (i)(1), or continued an investigation under subsection (g), the Commission and the administering authority shall consider all of the subject merchandise, without regard to the effect of any agreement under subsection (b) or (c).
 
 **(k) Termination of investigations initiated by administering authority** The administering authority may terminate any investigation initiated by the administering authority under [section 1671a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671a/a&num=0&edition=prelim) after providing notice of such termination to all parties to the investigation.
 
 **(l) Special rule for regional industry investigations**
 
-(1) **Suspension agreements** — If the Commission makes a regional industry determination under [section 1677(4)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/4/C&num=0&edition=prelim), the administering authority shall offer exporters of the subject merchandise who account for substantially all exports of that merchandise for sale in the region concerned the opportunity to enter into an agreement described in subsection (b) or (c) of this section.
+(1) **Suspension agreements** — If the Commission makes a regional industry determination under [section 1677(4)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/4/C&num=0&edition=prelim), the administering authority shall offer exporters of the subject merchandise who account for substantially all exports of that merchandise for sale in the region concerned the opportunity to enter into an agreement described in subsection (b) or (c).
 
-(2) **Requirements for suspension agreements** — Any agreement described in paragraph (1) shall be subject to all the requirements imposed under this section for other agreements under subsection (b) or (c) of this section, except that if the Commission makes a regional industry determination described in paragraph (1) in the final affirmative determination under [section 1671d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671d/b&num=0&edition=prelim) but not in the preliminary affirmative determination under [section 1671b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/a&num=0&edition=prelim), any agreement described in paragraph (1) may be accepted within 60 days after the countervailing duty order is published under [section 1671e of this title](./chapter-004-tariff-act-of-1930.md#section-1671e).
+(2) **Requirements for suspension agreements** — Any agreement described in paragraph (1) shall be subject to all the requirements imposed under this section for other agreements under subsection (b) or (c), except that if the Commission makes a regional industry determination described in paragraph (1) in the final affirmative determination under [section 1671d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671d/b&num=0&edition=prelim) but not in the preliminary affirmative determination under [section 1671b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/a&num=0&edition=prelim), any agreement described in paragraph (1) may be accepted within 60 days after the countervailing duty order is published under [section 1671e of this title](./chapter-004-tariff-act-of-1930.md#section-1671e).
 
 (3) **Effect of suspension agreement on countervailing duty order** — If an agreement described in paragraph (1) is accepted after the countervailing duty order is published, the administering authority shall rescind the order, refund any cash deposit and release any bond or other security deposited under [section 1671b(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/d/1/B&num=0&edition=prelim), and instruct the Customs Service that entries of the subject merchandise that were made during the period that the order was in effect shall be liquidated without regard to countervailing duties.
 
@@ -13042,6 +13625,9 @@ Subsec. (i)(1)(D), (E). Pub. L. 98–573, § 604(a)(4)(A)–(C), added subpar. (
 
 Subsec. (k). Pub. L. 98–573, § 604(a)(5), added subsec. (k).
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (i)(1)(D) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
@@ -13052,7 +13638,7 @@ Amendment by Pub. L. 100–418 applicable with respect to investigations initiat
 Amendment by section 604(a) of Pub. L. 98–573 effective Oct. 30, 1984, and amendment by section 612(b)(2) of Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675), on or after Oct. 30, 1984, see section 626(a), (b)(1) of Pub. L. 98–573, as amended, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Plan Amendments Not Required Until January 1, 1989
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1801–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
@@ -13084,21 +13670,21 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
     (ii) is threatened with material injury, or
 
   (B) the establishment of an industry in the United States is materially retarded,
-  by reason of imports, or sales (or the likelihood of sales) for importation, of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a) of this section. If the Commission determines that imports of the subject merchandise are negligible, the investigation shall be terminated.
+  by reason of imports, or sales (or the likelihood of sales) for importation, of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a). If the Commission determines that imports of the subject merchandise are negligible, the investigation shall be terminated.
 
 (2) **Period for injury determination following affirmative preliminary determination by administering authority** — If the preliminary determination by the administering authority under [section 1671b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/b&num=0&edition=prelim) is affirmative, then the Commission shall make the determination required by paragraph (1) before the later of—
 
   (A) the 120th day after the day on which the administering authority makes its affirmative preliminary determination under [section 1671b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/b&num=0&edition=prelim), or
 
-  (B) the 45th day after the day on which the administering authority makes its affirmative final determination under subsection (a) of this section.
+  (B) the 45th day after the day on which the administering authority makes its affirmative final determination under subsection (a).
 
-(3) **Period for injury determination following negative preliminary determination by administering authority** — If the preliminary determination by the administering authority under [section 1671b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/b&num=0&edition=prelim) is negative, and its final determination under subsection (a) of this section is affirmative, then the final determination by the Commission under this subsection shall be made within 75 days after the date of that affirmative final determination.
+(3) **Period for injury determination following negative preliminary determination by administering authority** — If the preliminary determination by the administering authority under [section 1671b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/b&num=0&edition=prelim) is negative, and its final determination under subsection (a) is affirmative, then the final determination by the Commission under this subsection shall be made within 75 days after the date of that affirmative final determination.
 
 (4) **Certain additional findings**
 
   (A) *Commission standard for retroactive application.—*
 
-    (i) *In general.—* — If the finding of the administering authority under subsection (a)(2) of this section is affirmative, then the final determination of the Commission shall include a finding as to whether the imports subject to the affirmative determination under subsection (a)(2) of this section are likely to undermine seriously the remedial effect of the countervailing duty order to be issued under [section 1671e of this title](./chapter-004-tariff-act-of-1930.md#section-1671e).
+    (i) *In general.—* — If the finding of the administering authority under subsection (a)(2) is affirmative, then the final determination of the Commission shall include a finding as to whether the imports subject to the affirmative determination under subsection (a)(2) are likely to undermine seriously the remedial effect of the countervailing duty order to be issued under [section 1671e of this title](./chapter-004-tariff-act-of-1930.md#section-1671e).
 
     (ii) *Factors to consider.—* — In making the evaluation under clause (i), the Commission shall consider, among other factors it considers relevant—
 
@@ -13108,11 +13694,11 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
       (III) any other circumstances indicating that the remedial effect of the countervailing duty order will be seriously undermined.
 
-  (B) If the final determination of the Commission is that there is no material injury but that there is threat of material injury, then its determination shall also include a finding as to whether material injury by reason of imports of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a) of this section would have been found but for any suspension of liquidation of entries of that merchandise.
+  (B) If the final determination of the Commission is that there is no material injury but that there is threat of material injury, then its determination shall also include a finding as to whether material injury by reason of imports of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a) would have been found but for any suspension of liquidation of entries of that merchandise.
 
 **(c) Effect of final determinations**
 
-(1) **Effect of affirmative determination by the administering authority** — If the determination of the administering authority under subsection (a) of this section is affirmative, then—
+(1) **Effect of affirmative determination by the administering authority** — If the determination of the administering authority under subsection (a) is affirmative, then—
 
   (A) the administering authority shall make available to the Commission all information upon which such determination was based and which the Commission considers relevant to its determination, under such procedures as the administering authority and the Commission may establish to prevent disclosure, other than with the consent of the party providing it or under protective order, of any information to which confidential treatment has been given by the administering authority,
 
@@ -13128,25 +13714,25 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
   (C) in cases where the preliminary determination by the administering authority under [section 1671b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/b&num=0&edition=prelim) was negative, the administering authority shall order the suspension of liquidation under paragraph (2) of [section 1671b(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/d&num=0&edition=prelim).
 
-(2) **Issuance of order; effect of negative determination** — If the determinations of the administering authority and the Commission under subsections (a)(1) and (b)(1) of this section are affirmative, then the administering authority shall issue a countervailing duty order under [section 1671e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671e/a&num=0&edition=prelim). If either of such determinations is negative, the investigation shall be terminated upon the publication of notice of that negative determination and the administering authority shall—
+(2) **Issuance of order; effect of negative determination** — If the determinations of the administering authority and the Commission under subsections (a)(1) and (b)(1) are affirmative, then the administering authority shall issue a countervailing duty order under [section 1671e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671e/a&num=0&edition=prelim). If either of such determinations is negative, the investigation shall be terminated upon the publication of notice of that negative determination and the administering authority shall—
 
   (A) terminate the suspension of liquidation under [section 1671b(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/d/2&num=0&edition=prelim), and
 
   (B) release any bond or other security and refund any cash deposit required under [section 1671b(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/d/1/B&num=0&edition=prelim).
 
-(3) **Effect of negative determinations under subsections (a)(2) and (b)(4)(A) of this section** — If the determination of the administering authority or the Commission under subsection (a)(2) and (b)(4)(A) of this section, respectively, is negative, then the administering authority shall—
+(3) **Effect of negative determinations under subsections (a)(2) and (b)(4)(A)** — If the determination of the administering authority or the Commission under subsection (a)(2) and (b)(4)(A), respectively, is negative, then the administering authority shall—
 
   (A) terminate any retroactive suspension of liquidation required under paragraph (4) or [section 1671b(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/e/2&num=0&edition=prelim), and
 
   (B) release any bond or other security, and refund any cash deposit required, under [section 1671b(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/d/1/B&num=0&edition=prelim) with respect to entries of the merchandise the liquidation of which was suspended retroactively under [section 1671b(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/e/2&num=0&edition=prelim).
 
-(4) **Effect of affirmative determination under subsection (a)(2) of this section** — If the determination of the administering authority under subsection (a)(2) of this section is affirmative, then the administering authority shall—
+(4) **Effect of affirmative determination under subsection (a)(2)** — If the determination of the administering authority under subsection (a)(2) is affirmative, then the administering authority shall—
 
   (A) in cases where the preliminary determinations by the administering authority under sections 1671b(b) and 1671b(e)(1) of this title were both affirmative, continue the retroactive suspension of liquidation and the posting of a cash deposit, bond, or other security previously ordered under [section 1671b(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/e/2&num=0&edition=prelim);
 
   (B) in cases where the preliminary determination by the administering authority under [section 1671b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/b&num=0&edition=prelim) was affirmative, but the preliminary determination under [section 1671b(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/e/1&num=0&edition=prelim) was negative, shall modify any suspension of liquidation and security requirement previously ordered under [section 1671b(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/d&num=0&edition=prelim) to apply to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the date on which suspension of liquidation was first ordered; or
 
-  (C) in cases where the preliminary determination by the administering authority under [section 1671b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/b&num=0&edition=prelim) was negative, shall apply any suspension of liquidation and security requirement ordered under subsection (c)(1)(B) of this section to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the date on which suspension of liquidation is first ordered.
+  (C) in cases where the preliminary determination by the administering authority under [section 1671b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671b/b&num=0&edition=prelim) was negative, shall apply any suspension of liquidation and security requirement ordered under subsection (c)(1)(B) to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the date on which suspension of liquidation is first ordered.
 
 (5) **Method for determining the all-others rate and the country-wide subsidy rate**
 
@@ -13315,7 +13901,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 <a id="section-1671h"></a>
 ## § 1671h. Conditional payment of countervailing duties
-**(a) In general** For all entries, or withdrawals from warehouse, for consumption of merchandise subject to a countervailing duty order on or after the date of publication of such order, no customs officer may deliver merchandise of that class or kind to the person by whom or for whose account it was imported unless that person complies with the requirement of subsection (b) of this section and deposits with the appropriate customs officer an estimated countervailing duty in an amount determined by the administering authority.
+**(a) In general** For all entries, or withdrawals from warehouse, for consumption of merchandise subject to a countervailing duty order on or after the date of publication of such order, no customs officer may deliver merchandise of that class or kind to the person by whom or for whose account it was imported unless that person complies with the requirement of subsection (b) and deposits with the appropriate customs officer an estimated countervailing duty in an amount determined by the administering authority.
 
 **(b) Importer requirements** In order to meet the requirements of this subsection, a person shall—
 
@@ -13399,7 +13985,7 @@ Part effective Jan. 1, 1980, see section 107 of Pub. L. 96–39, set out as a no
 
   (A) *Notification of governments* — Upon receipt of a petition filed under paragraph (1), the administering authority shall notify the government of any exporting country named in the petition by delivering a public version of the petition to an appropriate representative of such country.
 
-  (B) *Acceptance of communications* — The administering authority shall not accept any unsolicited oral or written communication from any person other than an interested party described in section 1677(9)(C), (D), (E), (F), or (G) of this title before the administering authority makes its decision whether to initiate an investigation, except as provided in subsection (c)(4)(D) of this section, and except for inquiries regarding the status of the administering authority’s consideration of the petition.
+  (B) *Acceptance of communications* — The administering authority shall not accept any unsolicited oral or written communication from any person other than an interested party described in section 1677(9)(C), (D), (E), (F), or (G) of this title before the administering authority makes its decision whether to initiate an investigation, except as provided in subsection (c)(4)(D), and except for inquiries regarding the status of the administering authority’s consideration of the petition.
 
   (C) *Nondisclosure of certain information* — The administering authority and the Commission shall not disclose information with regard to any draft petition submitted for review and comment before it is filed under paragraph (1).
 
@@ -13407,7 +13993,7 @@ Part effective Jan. 1, 1980, see section 107 of Pub. L. 96–39, set out as a no
 
 (1) **In general**
 
-  (A) *Time for initial determination* — Except as provided in subparagraph (B), within 20 days after the date on which a petition is filed under subsection (b) of this section, the administering authority shall—
+  (A) *Time for initial determination* — Except as provided in subparagraph (B), within 20 days after the date on which a petition is filed under subsection (b), the administering authority shall—
 
     (i) after examining, on the basis of sources readily available to the administering authority, the accuracy and adequacy of the evidence provided in the petition, determine whether the petition alleges the elements necessary for the imposition of a duty under [section 1673 of this title](./chapter-004-tariff-act-of-1930.md#section-1673) and contains information reasonably available to the petitioner supporting the allegations, and
 
@@ -13450,11 +14036,11 @@ Part effective Jan. 1, 1980, see section 107 of Pub. L. 96–39, set out as a no
 
   (E) *Comments by interested parties* — Before the administering authority makes a determination with respect to initiating an investigation, any person who would qualify as an interested party under [section 1677(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/9&num=0&edition=prelim) if an investigation were initiated, may submit comments or information on the issue of industry support. After the administering authority makes a determination with respect to initiating an investigation, the determination regarding industry support shall not be reconsidered.
 
-(5) **“Domestic producers or workers” defined** — For purposes of this subsection, the term “domestic producers or workers” means those interested parties who are eligible to file a petition under subsection (b)(1) of this section.
+(5) **“Domestic producers or workers” defined** — For purposes of this subsection, the term “domestic producers or workers” means those interested parties who are eligible to file a petition under subsection (b)(1).
 
 **(d) Notification to Commission of determination** The administering authority shall—
 
-(1) notify the Commission immediately of any determination it makes under subsection (a) or (c) of this section, and
+(1) notify the Commission immediately of any determination it makes under subsection (a) or (c), and
 
 (2) if the determination is affirmative, make available to the Commission such information as it may have relating to the matter under investigation, under such procedures as the administering authority and the Commission may establish to prevent disclosure, other than with the consent of the party providing it or under protective order, of any information to which confidential treatment has been given by the administering authority.
 
@@ -13463,7 +14049,7 @@ Part effective Jan. 1, 1980, see section 107 of Pub. L. 96–39, set out as a no
 (1) there is a history of dumping in the United States or elsewhere of the subject merchandise, or
 
 (2) the person by whom, or for whose account, the merchandise was imported knew, or should have known, that the exporter was selling the subject merchandise at less than its fair value,
-the administering authority may request the Commissioner of Customs to compile information on an expedited basis regarding entries of the subject merchandise. Upon receiving such request, the Commissioner of Customs shall collect information regarding the volume and value of entries of the subject merchandise and shall transmit such information to the administering authority at such times as the administering authority shall direct (at least once every 30 days), until a final determination is made under [section 1673d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673d/a&num=0&edition=prelim), the investigation is terminated, or the administering authority withdraws the request.
+the administering authority may request the Commissioner of U.S. Customs and Border Protection to compile information on an expedited basis regarding entries of the subject merchandise. Upon receiving such request, the Commissioner of U.S. Customs and Border Protection shall collect information regarding the volume and value of entries of the subject merchandise and shall transmit such information to the administering authority at such times as the administering authority shall direct (at least once every 30 days), until a final determination is made under [section 1673d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673d/a&num=0&edition=prelim), the investigation is terminated, or the administering authority withdraws the request.
 
 ### Statutory Notes
 
@@ -13506,6 +14092,9 @@ Subsec. (e). Pub. L. 100–418, § 1324(b)(1), added subsec. (e).
 
 1984—Subsec. (a). Pub. L. 98–573 designated existing provisions as par. (1) and added par. (2).
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in two places in subsec. (e) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
@@ -13516,7 +14105,7 @@ Amendment by section 1324(b)(1) of Pub. L. 100–418 applicable with respect to 
 Amendment by Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675), on or after Oct. 30, 1984, see section 626(b)(1) of Pub. L. 98–573, as amended, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Plan Amendments Not Required Until January 1, 1989
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1801–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
@@ -13581,7 +14170,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 (1) **In general** — If—
 
-  (A) the petitioner makes a timely request for an extension of the period within which the determination must be made under subsection (b)(1) of this section, or
+  (A) the petitioner makes a timely request for an extension of the period within which the determination must be made under subsection (b)(1), or
 
   (B) the administering authority concludes that the parties concerned are cooperating and determines that—
 
@@ -13594,9 +14183,9 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
       (III) the number of firms whose activities must be investigated, and
 
     (ii) additional time is necessary to make the preliminary determination,
-  then the administering authority may postpone making the preliminary determination under subsection (b)(1) of this section until not later than the 190th day after the date on which the administering authority initiates an investigation under [section 1673a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673a/c&num=0&edition=prelim), or an investigation is initiated under [section 1673a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673a/a&num=0&edition=prelim). No extension of a determination date may be made under this paragraph for any investigation in which a determination date provided for in subsection (b)(1)(B) of this section applies unless the petitioner submits written notice to the administering authority of its consent to the extension.
+  then the administering authority may postpone making the preliminary determination under subsection (b)(1) until not later than the 190th day after the date on which the administering authority initiates an investigation under [section 1673a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673a/c&num=0&edition=prelim), or an investigation is initiated under [section 1673a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673a/a&num=0&edition=prelim). No extension of a determination date may be made under this paragraph for any investigation in which a determination date provided for in subsection (b)(1)(B) applies unless the petitioner submits written notice to the administering authority of its consent to the extension.
 
-(2) **Notice of postponement** — The administering authority shall notify the parties to the investigation, not later than 20 days before the date on which the preliminary determination would otherwise be required under subsection (b)(1) of this section, if it intends to postpone making the preliminary determination under paragraph (1). The notification shall include an explanation of the reasons for the postponement, and notice of the postponement shall be published in the Federal Register.
+(2) **Notice of postponement** — The administering authority shall notify the parties to the investigation, not later than 20 days before the date on which the preliminary determination would otherwise be required under subsection (b)(1), if it intends to postpone making the preliminary determination under paragraph (1). The notification shall include an explanation of the reasons for the postponement, and notice of the postponement shall be published in the Federal Register.
 
 **(d) Effect of determination by the administering authority** If the preliminary determination of the administering authority under subsection (b) of this section is affirmative, the administering authority—
 
@@ -13630,15 +14219,15 @@ The instructions of the administering authority under paragraphs (1) and (2) may
     (ii) the person by whom, or for whose account, the merchandise was imported knew or should have known that the exporter was selling the subject merchandise at less than its fair value and that there was likely to be material injury by reason of such sales, and
 
   (B) there have been massive imports of the subject merchandise over a relatively short period.
-  The administering authority shall be treated as having made an affirmative determination under subparagraph (A) in any investigation to which subsection (b)(1)(B) of this section is applied.
+  The administering authority shall be treated as having made an affirmative determination under subparagraph (A) in any investigation to which subsection (b)(1)(B) is applied.
 
-(2) **Suspension of liquidation** — If the determination of the administering authority under paragraph (1) is affirmative, then any suspension of liquidation ordered under subsection (d)(2) of this section shall apply, or, if notice of such suspension of liquidation is already published, be amended to apply, to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the later of—
+(2) **Suspension of liquidation** — If the determination of the administering authority under paragraph (1) is affirmative, then any suspension of liquidation ordered under subsection (d)(2) shall apply, or, if notice of such suspension of liquidation is already published, be amended to apply, to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the later of—
 
   (A) the date which is 90 days before the date on which the suspension of liquidation was first ordered, or
 
   (B) the date on which notice of the determination to initiate the investigation is published in the Federal Register.
 
-**(f) Notice of determination** Whenever the Commission or the administering authority makes a determination under this section, the Commission or the administering authority, as the case may be, shall notify the petitioner, and other parties to the investigation, and the Commission or the administering authority (whichever is appropriate) of its determination. The administering authority shall include with such notification the facts and conclusions on which its determination is based. Not later than 5 days after the date on which the determination is required to be made under subsection (a)(2) of this section, the Commission shall transmit to the administering authority the facts and conclusions on which its determination is based.
+**(f) Notice of determination** Whenever the Commission or the administering authority makes a determination under this section, the Commission or the administering authority, as the case may be, shall notify the petitioner, and other parties to the investigation, and the Commission or the administering authority (whichever is appropriate) of its determination. The administering authority shall include with such notification the facts and conclusions on which its determination is based. Not later than 5 days after the date on which the determination is required to be made under subsection (a)(2), the Commission shall transmit to the administering authority the facts and conclusions on which its determination is based.
 
 ### Statutory Notes
 
@@ -13769,24 +14358,24 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
     (iii) the number of firms involved is large.
 
-**(d) Additional rules and conditions** The administering authority may not accept an agreement under subsection (b) or (c) of this section unless—
+**(d) Additional rules and conditions** The administering authority may not accept an agreement under subsection (b) or (c) unless—
 
 (1) it is satisfied that suspension of the investigation is in the public interest, and
 
 (2) effective monitoring of the agreement by the United States is practicable.
 Where practicable, the administering authority shall provide to the exporters who would have been subject to the agreement the reasons for not accepting the agreement and, to the extent possible, an opportunity to submit comments thereon.
 
-**(e) Suspension of investigation procedure** Before an investigation may be suspended under subsection (b) or (c) of this section the administering authority shall—
+**(e) Suspension of investigation procedure** Before an investigation may be suspended under subsection (b) or (c) the administering authority shall—
 
 (1) notify the petitioner of, and consult with the petitioner concerning, its intention to suspend the investigation, and notify other parties to the investigation and the Commission not less than 30 days before the date on which it suspends the investigation,
 
-(2) provide a copy of the proposed agreement to the petitioner at the time of the notification, together with an explanation of how the agreement will be carried out and enforced, and of how the agreement will meet the requirements of subsections (b) and (d) or (c) and (d) of this section, and
+(2) provide a copy of the proposed agreement to the petitioner at the time of the notification, together with an explanation of how the agreement will be carried out and enforced, and of how the agreement will meet the requirements of subsections (b) and (d) or (c) and (d), and
 
-(3) permit all interested parties described in [section 1677(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/9&num=0&edition=prelim) to submit comments and information for the record before the date on which notice of suspension of the investigation is published under subsection (f)(1)(A) of this section.
+(3) permit all interested parties described in [section 1677(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/9&num=0&edition=prelim) to submit comments and information for the record before the date on which notice of suspension of the investigation is published under subsection (f)(1)(A).
 
 **(f) Effects of suspension of investigation**
 
-(1) **In general** — If the administering authority determines to suspend an investigation upon acceptance of an agreement described in subsection (b) or (c) of this section, then—
+(1) **In general** — If the administering authority determines to suspend an investigation upon acceptance of an agreement described in subsection (b) or (c), then—
 
   (A) it shall suspend the investigation, publish notice of suspension of the investigation, and issue an affirmative preliminary determination under [section 1673b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/b&num=0&edition=prelim) with respect to the subject merchandise, unless it has previously issued such a determination in the same investigation,
 
@@ -13796,7 +14385,7 @@ Where practicable, the administering authority shall provide to the exporters wh
 
 (2) **Liquidation of entries**
 
-  (A) *Cessation of exports; complete elimination of dumping margin* — If the agreement accepted by the administering authority is an agreement described in subsection (b) of this section, then—
+  (A) *Cessation of exports; complete elimination of dumping margin* — If the agreement accepted by the administering authority is an agreement described in subsection (b), then—
 
     (i) notwithstanding the affirmative preliminary determination required under paragraph (1)(A), the liquidation of entries of subject merchandise shall not be suspended under [section 1673b(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/d/2&num=0&edition=prelim),
 
@@ -13804,9 +14393,9 @@ Where practicable, the administering authority shall provide to the exporters wh
 
     (iii) the administering authority shall refund any cash deposit and release any bond or other security deposited under [section 1673b(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/d/1/B&num=0&edition=prelim).
 
-  (B) *Other agreements* — If the agreement accepted by the administering authority is an agreement described in subsection (c) of this section, the liquidation of entries of the subject merchandise shall be suspended under [section 1673b(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/d/2&num=0&edition=prelim), or, if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determination in the same case, that suspension of liquidation shall continue in effect, subject to subsection (h)(3) of this section, but the security required under [section 1673b(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/d/1/B&num=0&edition=prelim) may be adjusted to reflect the effect of the agreement.
+  (B) *Other agreements* — If the agreement accepted by the administering authority is an agreement described in subsection (c), the liquidation of entries of the subject merchandise shall be suspended under [section 1673b(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/d/2&num=0&edition=prelim), or, if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determination in the same case, that suspension of liquidation shall continue in effect, subject to subsection (h)(3), but the security required under [section 1673b(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/d/1/B&num=0&edition=prelim) may be adjusted to reflect the effect of the agreement.
 
-(3) **Where investigation is continued** — If, pursuant to subsection (g) of this section, the administering authority and the Commission continue an investigation in which an agreement has been accepted under subsection (b) or (c) of this section, then—
+(3) **Where investigation is continued** — If, pursuant to subsection (g), the administering authority and the Commission continue an investigation in which an agreement has been accepted under subsection (b) or (c), then—
 
   (A) if the final determination by the administering authority or the Commission under [section 1673d of this title](./chapter-004-tariff-act-of-1930.md#section-1673d) is negative, the agreement shall have no force or effect and the investigation shall be terminated, or
 
@@ -13814,7 +14403,7 @@ Where practicable, the administering authority shall provide to the exporters wh
 
     (i) the agreement remains in force,
 
-    (ii) the agreement continues to meet the requirements of subsections (b) and (d), or (c) and (d) of this section, and
+    (ii) the agreement continues to meet the requirements of subsections (b) and (d), or (c) and (d), and
 
     (iii) the parties to the agreement carry out their obligations under the agreement in accordance with its terms.
 
@@ -13827,7 +14416,7 @@ then the administering authority and the Commission shall continue the investiga
 
 **(h) Review of suspension**
 
-(1) **In general** — Within 20 days after the suspension of an investigation under subsection (c) of this section, an interested party which is a party to the investigation and which is described in subparagraph (C), (D), (E), (F), or (G) of [section 1677(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/9&num=0&edition=prelim) may, by petition filed with the Commission and with notice to the administering authority, ask for a review of the suspension.
+(1) **In general** — Within 20 days after the suspension of an investigation under subsection (c), an interested party which is a party to the investigation and which is described in subparagraph (C), (D), (E), (F), or (G) of [section 1677(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/9&num=0&edition=prelim) may, by petition filed with the Commission and with notice to the administering authority, ask for a review of the suspension.
 
 (2) **Commission investigation** — Upon receipt of a review petition under paragraph (1), the Commission shall, within 75 days after the date on which the petition is filed with it, determine whether the injurious effect of imports of the subject merchandise is eliminated completely by the agreement. If the Commission’s determination under this subsection is negative, the investigation shall be resumed on the date of publication of notice of such determination as if the affirmative preliminary determination under [section 1673b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/b&num=0&edition=prelim) had been made on that date.
 
@@ -13839,25 +14428,25 @@ then the administering authority and the Commission shall continue the investiga
 
 **(i) Violation of agreement**
 
-(1) **In general** — If the administering authority determines that an agreement accepted under subsection (b) or (c) of this section is being, or has been, violated, or no longer meets the requirements of such subsection (other than the requirement, under subsection (c)(1) of this section, of elimination of injury) and subsection (d) of this section, then, on the date of publication of its determination, it shall—
+(1) **In general** — If the administering authority determines that an agreement accepted under subsection (b) or (c) is being, or has been, violated, or no longer meets the requirements of such subsection (other than the requirement, under subsection (c)(1), of elimination of injury) and subsection (d), then, on the date of publication of its determination, it shall—
 
   (A) suspend liquidation under [section 1673b(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/d/2&num=0&edition=prelim) of unliquidated entries of the merchandise made on the later of—
 
     (i) the date which is 90 days before the date of publication of the notice of suspension of liquidation, or
 
-    (ii) the date on which the merchandise, the sale or export to the United States of which was in violation of the agreement, or under an agreement which no longer meets the requirements of subsections (b) and (d), or (c) and (d) of this section, was first entered, or withdrawn from warehouse, for consumption,
+    (ii) the date on which the merchandise, the sale or export to the United States of which was in violation of the agreement, or under an agreement which no longer meets the requirements of subsections (b) and (d), or (c) and (d), was first entered, or withdrawn from warehouse, for consumption,
 
   (B) if the investigation was not completed, resume the investigation as if its affirmative preliminary determination were made on the date of its determination under this paragraph,
 
-  (C) if the investigation was completed under subsection (g) of this section, issue an antidumping duty order under [section 1673e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673e/a&num=0&edition=prelim) effective with respect to entries of merchandise liquidation of which was suspended,
+  (C) if the investigation was completed under subsection (g), issue an antidumping duty order under [section 1673e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673e/a&num=0&edition=prelim) effective with respect to entries of merchandise liquidation of which was suspended,
 
-  (D) if it considers the violation to be intentional, notify the Commissioner of Customs who shall take appropriate action under paragraph (2), and
+  (D) if it considers the violation to be intentional, notify the Commissioner of U.S. Customs and Border Protection who shall take appropriate action under paragraph (2), and
 
   (E) notify the petitioner, interested parties who are or were parties to the investigation, and the Commission of its action under this paragraph.
 
-(2) **Intentional violation to be punished by civil penalty** — Any person who intentionally violates an agreement accepted by the administering authority under subsection (b) or (c) of this section shall be subject to a civil penalty assessed in the same amount, in the same manner, and under the same procedures, as the penalty imposed for a fraudulent violation of [section 1592(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1592/a&num=0&edition=prelim).
+(2) **Intentional violation to be punished by civil penalty** — Any person who intentionally violates an agreement accepted by the administering authority under subsection (b) or (c) shall be subject to a civil penalty assessed in the same amount, in the same manner, and under the same procedures, as the penalty imposed for a fraudulent violation of [section 1592(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1592/a&num=0&edition=prelim).
 
-**(j) Determination not to take agreement into account** In making a final determination under [section 1673d of this title](./chapter-004-tariff-act-of-1930.md#section-1673d), or in conducting a review under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675), in a case in which the administering authority has terminated a suspension of investigation under subsection (i)(1) of this section, or continued an investigation under subsection (g) of this section, the Commission and the administering authority shall consider all of the subject merchandise without regard to the effect of any agreement under subsection (b) or (c) of this section.
+**(j) Determination not to take agreement into account** In making a final determination under [section 1673d of this title](./chapter-004-tariff-act-of-1930.md#section-1673d), or in conducting a review under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675), in a case in which the administering authority has terminated a suspension of investigation under subsection (i)(1), or continued an investigation under subsection (g), the Commission and the administering authority shall consider all of the subject merchandise without regard to the effect of any agreement under subsection (b) or (c).
 
 **(k) Termination of investigation initiated by administering authority** The administering authority may terminate any investigation initiated by the administering authority under [section 1673a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673a/a&num=0&edition=prelim) after providing notice of such termination to all parties to the investigation.
 
@@ -13865,17 +14454,17 @@ then the administering authority and the Commission shall continue the investiga
 
 (1) **In general** — The administering authority may suspend an investigation under this part upon acceptance of an agreement with a nonmarket economy country to restrict the volume of imports into the United States of the merchandise under investigation only if the administering authority determines that—
 
-  (A) such agreement satisfies the requirements of subsection (d) of this section, and
+  (A) such agreement satisfies the requirements of subsection (d), and
 
   (B) will prevent the suppression or undercutting of price levels of domestic products by imports of the merchandise under investigation.
 
-(2) **Failure of agreements** — If the administering authority determines that an agreement accepted under this subsection no longer prevents the suppression or undercutting of domestic prices of merchandise manufactured in the United States, the provisions of subsection (i) of this section shall apply.
+(2) **Failure of agreements** — If the administering authority determines that an agreement accepted under this subsection no longer prevents the suppression or undercutting of domestic prices of merchandise manufactured in the United States, the provisions of subsection (i) shall apply.
 
 **(m) Special rule for regional industry investigations**
 
-(1) **Suspension agreements** — If the Commission makes a regional industry determination under [section 1677(4)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/4/C&num=0&edition=prelim), the administering authority shall offer exporters of the subject merchandise who account for substantially all exports of that merchandise for sale in the region concerned the opportunity to enter into an agreement described in subsection (b), (c), or (l) of this section.
+(1) **Suspension agreements** — If the Commission makes a regional industry determination under [section 1677(4)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/4/C&num=0&edition=prelim), the administering authority shall offer exporters of the subject merchandise who account for substantially all exports of that merchandise for sale in the region concerned the opportunity to enter into an agreement described in subsection (b), (c), or (l).
 
-(2) **Requirements for suspension agreements** — Any agreement described in paragraph (1) shall be subject to all the requirements imposed under this section for other agreements under subsection (b), (c), or (l) of this section, except that if the Commission makes a regional industry determination described in paragraph (1) in the final affirmative determination under [section 1673d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673d/b&num=0&edition=prelim) but not in the preliminary affirmative determination under [section 1673b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/a&num=0&edition=prelim), any agreement described in paragraph (1) may be accepted within 60 days after the antidumping order is published under [section 1673e of this title](./chapter-004-tariff-act-of-1930.md#section-1673e).
+(2) **Requirements for suspension agreements** — Any agreement described in paragraph (1) shall be subject to all the requirements imposed under this section for other agreements under subsection (b), (c), or (l), except that if the Commission makes a regional industry determination described in paragraph (1) in the final affirmative determination under [section 1673d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673d/b&num=0&edition=prelim) but not in the preliminary affirmative determination under [section 1673b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/a&num=0&edition=prelim), any agreement described in paragraph (1) may be accepted within 60 days after the antidumping order is published under [section 1673e of this title](./chapter-004-tariff-act-of-1930.md#section-1673e).
 
 (3) **Effect of suspension agreement on antidumping duty order** — If an agreement described in paragraph (1) is accepted after the antidumping duty order is published, the administering authority shall rescind the order, refund any cash deposit and release any bond or other security deposited under [section 1673b(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/d/1/B&num=0&edition=prelim), and instruct the Customs Service that entries of the subject merchandise that were made during the period that the order was in effect shall be liquidated without regard to antidumping duties.
 
@@ -13930,6 +14519,9 @@ Subsec. (i)(1)(D), (E). Pub. L. 98–573, § 604(b)(4), added subpar. (D) and re
 
 Subsec. (k). Pub. L. 98–573, § 604(b)(5), added subsec. (k).
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (i)(1)(D) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
@@ -13940,7 +14532,7 @@ Amendment by Pub. L. 100–418 applicable with respect to investigations initiat
 Amendment by section 604(b) of Pub. L. 98–573 effective Oct. 30, 1984, and amendment by section 612(b)(2) of Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675), on or after Oct. 30, 1984, see section 626(a), (b)(1) of Pub. L. 98–573, as amended, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1673d"></a>
@@ -13979,21 +14571,21 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
     (ii) is threatened with material injury, or
 
   (B) the establishment of an industry in the United States is materially retarded,
-  by reason of imports, or sales (or the likelihood of sales) for importation, of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a)(1) of this section. If the Commission determines that imports of the subject merchandise are negligible, the investigation shall be terminated.
+  by reason of imports, or sales (or the likelihood of sales) for importation, of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a)(1). If the Commission determines that imports of the subject merchandise are negligible, the investigation shall be terminated.
 
 (2) **Period for injury determination following affirmative preliminary determination by administering authority** — If the preliminary determination by the administering authority under [section 1673b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/b&num=0&edition=prelim) is affirmative, then the Commission shall make the determination required by paragraph (1) before the later of—
 
   (A) the 120th day after the day on which the administering authority makes its affirmative preliminary determination under [section 1673b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/b&num=0&edition=prelim), or
 
-  (B) the 45th day after the day on which the administering authority makes its affirmative final determination under subsection (a) of this section.
+  (B) the 45th day after the day on which the administering authority makes its affirmative final determination under subsection (a).
 
-(3) **Period for injury determination following negative preliminary determination by administering authority** — If the preliminary determination by the administering authority under [section 1673b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/b&num=0&edition=prelim) is negative, and its final determination under subsection (a) of this section is affirmative, then the final determination by the Commission under this subsection shall be made within 75 days after the date of that affirmative final determination.
+(3) **Period for injury determination following negative preliminary determination by administering authority** — If the preliminary determination by the administering authority under [section 1673b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/b&num=0&edition=prelim) is negative, and its final determination under subsection (a) is affirmative, then the final determination by the Commission under this subsection shall be made within 75 days after the date of that affirmative final determination.
 
 (4) **Certain additional findings**
 
   (A) *Commission standard for retroactive application.—*
 
-    (i) *In general.—* — If the finding of the administering authority under subsection (a)(3) of this section is affirmative, then the final determination of the Commission shall include a finding as to whether the imports subject to the affirmative determination under subsection (a)(3) of this section are likely to undermine seriously the remedial effect of the antidumping duty order to be issued under [section 1673e of this title](./chapter-004-tariff-act-of-1930.md#section-1673e).
+    (i) *In general.—* — If the finding of the administering authority under subsection (a)(3) is affirmative, then the final determination of the Commission shall include a finding as to whether the imports subject to the affirmative determination under subsection (a)(3) are likely to undermine seriously the remedial effect of the antidumping duty order to be issued under [section 1673e of this title](./chapter-004-tariff-act-of-1930.md#section-1673e).
 
     (ii) *Factors to consider.—* — In making the evaluation under clause (i), the Commission shall consider, among other factors it considers relevant—
 
@@ -14003,11 +14595,11 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
       (III) any other circumstances indicating that the remedial effect of the antidumping order will be seriously undermined.
 
-  (B) If the final determination of the Commission is that there is no material injury but that there is threat of material injury, then its determination shall also include a finding as to whether material injury by reason of the imports of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a) of this section would have been found but for any suspension of liquidation of entries of the merchandise.
+  (B) If the final determination of the Commission is that there is no material injury but that there is threat of material injury, then its determination shall also include a finding as to whether material injury by reason of the imports of the merchandise with respect to which the administering authority has made an affirmative determination under subsection (a) would have been found but for any suspension of liquidation of entries of the merchandise.
 
 **(c) Effect of final determinations**
 
-(1) **Effect of affirmative determination by the administering authority** — If the determination of the administering authority under subsection (a) of this section is affirmative, then—
+(1) **Effect of affirmative determination by the administering authority** — If the determination of the administering authority under subsection (a) is affirmative, then—
 
   (A) the administering authority shall make available to the Commission all information upon which such determination was based and which the Commission considers relevant to its determination, under such procedures as the administering authority and the Commission may establish to prevent disclosure, other than with the consent of the party providing it or under protective order, of any information as to which confidential treatment has been given by the administering authority,
 
@@ -14023,25 +14615,25 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
   (C) in cases where the preliminary determination by the administering authority under [section 1673b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/b&num=0&edition=prelim) was negative, the administering authority shall order the suspension of liquidation under [section 1673b(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/d/2&num=0&edition=prelim).
 
-(2) **Issuance of order; effect of negative determination** — If the determinations of the administering authority and the Commission under subsections (a)(1) and (b)(1) of this section are affirmative, then the administering authority shall issue an antidumping duty order under [section 1673e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673e/a&num=0&edition=prelim). If either of such determinations is negative, the investigation shall be terminated upon the publication of notice of that negative determination and the administering authority shall—
+(2) **Issuance of order; effect of negative determination** — If the determinations of the administering authority and the Commission under subsections (a)(1) and (b)(1) are affirmative, then the administering authority shall issue an antidumping duty order under [section 1673e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673e/a&num=0&edition=prelim). If either of such determinations is negative, the investigation shall be terminated upon the publication of notice of that negative determination and the administering authority shall—
 
   (A) terminate the suspension of liquidation under [section 1673b(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/d/2&num=0&edition=prelim), and
 
   (B) release any bond or other security, and refund any cash deposit, required under [section 1673b(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/d/1/B&num=0&edition=prelim).
 
-(3) **Effect of negative determinations under subsections (a)(3) and (b)(4)(A) of this section** — If the determination of the administering authority or the Commission under subsection (a)(3) or (b)(4)(A) of this section, respectively, is negative, then the administering authority shall—
+(3) **Effect of negative determinations under subsections (a)(3) and (b)(4)(A)** — If the determination of the administering authority or the Commission under subsection (a)(3) or (b)(4)(A), respectively, is negative, then the administering authority shall—
 
   (A) terminate any retroactive suspension of liquidation required under paragraph (4) or [section 1673b(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/e/2&num=0&edition=prelim), and
 
   (B) release any bond or other security, and refund any cash deposit required, under [section 1673b(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/d/1/B&num=0&edition=prelim) with respect to entries of the merchandise the liquidation of which was suspended retroactively under [section 1673b(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/e/2&num=0&edition=prelim).
 
-(4) **Effect of affirmative determination under subsection (a)(3) of this section** — If the determination of the administering authority under subsection (a)(3) of this section is affirmative, then the administering authority shall—
+(4) **Effect of affirmative determination under subsection (a)(3)** — If the determination of the administering authority under subsection (a)(3) is affirmative, then the administering authority shall—
 
   (A) in cases where the preliminary determinations by the administering authority under sections 1673b(b) and 1673b(e)(1) of this title were both affirmative, continue the retroactive suspension of liquidation and the posting of a cash deposit, bond, or other security previously ordered under [section 1673b(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/e/2&num=0&edition=prelim);
 
   (B) in cases where the preliminary determination by the administering authority under [section 1673b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/b&num=0&edition=prelim) was affirmative, but the preliminary determination under [section 1673b(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/e/1&num=0&edition=prelim) was negative, shall modify any suspension of liquidation and security requirement previously ordered under [section 1673b(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/d&num=0&edition=prelim) to apply to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the date on which suspension of liquidation was first ordered; or
 
-  (C) in cases where the preliminary determination by the administering authority under [section 1673b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/b&num=0&edition=prelim) was negative, shall apply any suspension of liquidation and security requirement ordered under subsection (c)(1)(B) of this section to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the date on which suspension of liquidation is first ordered.
+  (C) in cases where the preliminary determination by the administering authority under [section 1673b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/b&num=0&edition=prelim) was negative, shall apply any suspension of liquidation and security requirement ordered under subsection (c)(1)(B) to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the date on which suspension of liquidation is first ordered.
 
 (5) **Method for determining estimated all-others rate**
 
@@ -14126,7 +14718,7 @@ Amendment by section 602(c) of Pub. L. 98–573 applicable with respect to inves
 
 **(c) Security in lieu of estimated duty pending early determination of duty**
 
-(1) **Conditions for waiver of deposit of estimated duties** — The administering authority may permit, for not more than 90 days after the date of publication of an order under subsection (a) of this section, the posting of a bond or other security in lieu of the deposit of estimated antidumping duties required under subsection (a)(3) of this section if—
+(1) **Conditions for waiver of deposit of estimated duties** — The administering authority may permit, for not more than 90 days after the date of publication of an order under subsection (a), the posting of a bond or other security in lieu of the deposit of estimated antidumping duties required under subsection (a)(3) if—
 
   (A) the investigation has not been designated as extraordinarily complicated by reason of—
 
@@ -14138,14 +14730,14 @@ Amendment by section 602(c) of Pub. L. 98–573 applicable with respect to inves
 
   (B) the final determination in the investigation has not been postponed under [section 1673d(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673d/a/2/A&num=0&edition=prelim);
 
-  (C) on the basis of information presented to the administering authority by any manufacturer, producer, or exporter in such form and within such time as the administering authority may require, the administering authority is satisfied that a determination will be made, within 90 days after the date of publication of an order under subsection (a) of this section, of the normal value and the export price (or the constructed export price) for all merchandise of such manufacturer, producer, or exporter described in that order which was entered, or withdrawn from warehouse, for consumption on or after the date of publication of—
+  (C) on the basis of information presented to the administering authority by any manufacturer, producer, or exporter in such form and within such time as the administering authority may require, the administering authority is satisfied that a determination will be made, within 90 days after the date of publication of an order under subsection (a), of the normal value and the export price (or the constructed export price) for all merchandise of such manufacturer, producer, or exporter described in that order which was entered, or withdrawn from warehouse, for consumption on or after the date of publication of—
 
     (i) an affirmative preliminary determination by the administering authority under [section 1673b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/b&num=0&edition=prelim), or
 
     (ii) if its determination under [section 1673b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673b/b&num=0&edition=prelim) was negative, an affirmative final determination by the administering authority under [section 1673d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673d/a&num=0&edition=prelim),
     and before the date of publication of the affirmative final determination by the Commission under [section 1673d(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673d/b&num=0&edition=prelim);
 
-  (D) the party described in subparagraph (C) provides credible evidence that the amount by which the normal value of the merchandise exceeds the export price (or the constructed export price) of the merchandise is significantly less than the amount of such excess specified in the antidumping duty order published under subsection (a) of this section; and
+  (D) the party described in subparagraph (C) provides credible evidence that the amount by which the normal value of the merchandise exceeds the export price (or the constructed export price) of the merchandise is significantly less than the amount of such excess specified in the antidumping duty order published under subsection (a); and
 
   (E) the data concerning the normal value and the export price (or the constructed export price) apply to sales in the usual commercial quantities and in the ordinary course of trade and the number of such sales are sufficient to form an adequate basis for comparison.
 
@@ -14155,7 +14747,7 @@ Amendment by section 602(c) of Pub. L. 98–573 applicable with respect to inves
 
   (B) upon the request of any interested party, hold a hearing in accordance with [section 1677c of this title](./chapter-004-tariff-act-of-1930.md#section-1677c) before determining the normal value and the export price (or the constructed export price) of the merchandise.
 
-(3) **Determinations to be basis of antidumping duty** — The administering authority shall publish notice in the Federal Register of the results of its determination of normal value and export price (or the constructed export price), and that determination shall be the basis for the assessment of antidumping duties on entries of merchandise to which the notice under this subsection applies and also shall be the basis for the deposit of estimated antidumping duties on future entries of merchandise of manufacturers, producers, or exporters described in paragraph (1) to which the order issued under subsection (a) of this section applies.
+(3) **Determinations to be basis of antidumping duty** — The administering authority shall publish notice in the Federal Register of the results of its determination of normal value and export price (or the constructed export price), and that determination shall be the basis for the assessment of antidumping duties on entries of merchandise to which the notice under this subsection applies and also shall be the basis for the deposit of estimated antidumping duties on future entries of merchandise of manufacturers, producers, or exporters described in paragraph (1) to which the order issued under subsection (a) applies.
 
 (4) **Provision of business proprietary information; written comments** — Before determining whether to permit the posting of bond or other security under paragraph (1) in lieu of the deposit of estimated antidumping duties, the administering authority shall—
 
@@ -14232,7 +14824,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 <a id="section-1673g"></a>
 ## § 1673g. Conditional payment of antidumping duty
-**(a) General rule** For all entries, or withdrawals from warehouse, for consumption of merchandise subject to an antidumping duty order on or after the date of publication of such order, no customs officer may deliver merchandise of that class or kind to the person by whom or for whose account it was imported unless that person complies with the requirements of subsection (b) of this section and deposits with the appropriate customs officer an estimated antidumping duty in an amount determined by the administering authority.
+**(a) General rule** For all entries, or withdrawals from warehouse, for consumption of merchandise subject to an antidumping duty order on or after the date of publication of such order, no customs officer may deliver merchandise of that class or kind to the person by whom or for whose account it was imported unless that person complies with the requirements of subsection (b) and deposits with the appropriate customs officer an estimated antidumping duty in an amount determined by the administering authority.
 
 **(b) Importer requirements** In order to meet the requirements of this subsection, a person shall—
 
@@ -14339,13 +14931,13 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 **(c) Transitional rules**
 
-(1) For purposes of this section and section 1673b(b)(1)(B) and (C) of this title, all affirmative dumping determinations described in subsection (b)(2)(A) of this section that were made after December 31, 1980, and before August 23, 1988, and all affirmative dumping determinations described in subsection (b)(2)(B) of this section that were made after December 31, 1984, and before August 23, 1988, with respect to each category of short life cycle merchandise of the same manufacturer shall be treated as one affirmative dumping determination with respect to that category for that manufacturer which was made on the date on which the latest of such determinations was made.
+(1) For purposes of this section and section 1673b(b)(1)(B) and (C) of this title, all affirmative dumping determinations described in subsection (b)(2)(A) that were made after December 31, 1980, and before August 23, 1988, and all affirmative dumping determinations described in subsection (b)(2)(B) that were made after December 31, 1984, and before August 23, 1988, with respect to each category of short life cycle merchandise of the same manufacturer shall be treated as one affirmative dumping determination with respect to that category for that manufacturer which was made on the date on which the latest of such determinations was made.
 
 (2) No affirmative dumping determination that—
 
-  (A) is described in subsection (b)(2)(A) of this section and was made before January 1, 1981, or
+  (A) is described in subsection (b)(2)(A) and was made before January 1, 1981, or
 
-  (B) is described in subsection (b)(2)(B) of this section and was made before January 1, 1985,
+  (B) is described in subsection (b)(2)(B) and was made before January 1, 1985,
   may be taken into account under this section or section 1673b(b)(1)(B) and (C) of this title.
 
 ### Statutory Notes
@@ -14413,9 +15005,23 @@ Section repealed effective Oct. 30, 1984, see section 626(a) of Pub. L. 98–573
       (II) the end of any 6-month period occurring thereafter,
     if the request for the review is made during that 6-month period.
 
-    (iii) *Posting bond or security* — The administering authority shall, at the time a review under this subparagraph is initiated, direct the Customs Service to allow, at the option of the importer, the posting, until the completion of the review, of a bond or security in lieu of a cash deposit for each entry of the subject merchandise.
+    (iii) *Time limits* — The administering authority shall make a preliminary determination in a review conducted under this subparagraph within 180 days after the date on which the review is initiated, and a final determination within 90 days after the date the preliminary determination is issued, except that if the administering authority concludes that the case is extraordinarily complicated, it may extend the 180-day period to 300 days and may extend the 90-day period to 150 days.
 
-    (iv) *Time limits* — The administering authority shall make a preliminary determination in a review conducted under this subparagraph within 180 days after the date on which the review is initiated, and a final determination within 90 days after the date the preliminary determination is issued, except that if the administering authority concludes that the case is extraordinarily complicated, it may extend the 180-day period to 300 days and may extend the 90-day period to 150 days.
+    (iv) *Determinations based on bona fide sales* — Any weighted average dumping margin or individual countervailing duty rate determined for an exporter or producer in a review conducted under clause (i) shall be based solely on the bona fide United States sales of an exporter or producer, as the case may be, made during the period covered by the review. In determining whether the United States sales of an exporter or producer made during the period covered by the review were bona fide, the administering authority shall consider, depending on the circumstances surrounding such sales—
+
+      (I) the prices of such sales;
+
+      (II) whether such sales were made in commercial quantities;
+
+      (III) the timing of such sales;
+
+      (IV) the expenses arising from such sales;
+
+      (V) whether the subject merchandise involved in such sales was resold in the United States at a profit;
+
+      (VI) whether such sales were made on an arms-length basis; and
+
+      (VII) any other factor the administering authority determines to be relevant as to whether such sales are, or are not, likely to be typical of those the exporter or producer will make after completion of the review.
 
   (C) *Results of determinations* — The determination under this paragraph shall be the basis for the assessment of countervailing or antidumping duties on entries of merchandise covered by the determination and for deposits of estimated duties.
 
@@ -14427,7 +15033,7 @@ Section repealed effective Oct. 30, 1984, see section 626(a) of Pub. L. 98–573
 
   (C) *Effect of pending review under section 1516a* — In a case in which a final determination under paragraph (1) is under review under [section 1516a of this title](./chapter-004-tariff-act-of-1930.md#section-1516a) and a liquidation of entries covered by the determination is enjoined under [section 1516a(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/c/2&num=0&edition=prelim) or suspended under [section 1516a(g)(5)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/g/5/C&num=0&edition=prelim), the administering authority shall, within 10 days after the final disposition of the review under [section 1516a of this title](./chapter-004-tariff-act-of-1930.md#section-1516a), transmit to the Federal Register for publication the final disposition and issue instructions to the Customs Service with respect to the liquidation of entries pursuant to the review. In such a case, the 90-day period referred to in subparagraph (B) shall begin on the day on which the administering authority issues such instructions.
 
-(4) **Absorption of antidumping duties** — During any review under this subsection initiated 2 years or 4 years after the publication of an antidumping duty order under [section 1673e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673e/a&num=0&edition=prelim), the administering authority, if requested, shall determine whether antidumping duties have been absorbed by a foreign producer or exporter subject to the order if the subject merchandise is sold in the United States through an importer who is affiliated with such foreign producer or exporter. The administering authority shall notify the Commission of its findings regarding such duty absorption for the Commission to consider in conducting a review under subsection (c) of this section.
+(4) **Absorption of antidumping duties** — During any review under this subsection initiated 2 years or 4 years after the publication of an antidumping duty order under [section 1673e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1673e/a&num=0&edition=prelim), the administering authority, if requested, shall determine whether antidumping duties have been absorbed by a foreign producer or exporter subject to the order if the subject merchandise is sold in the United States through an importer who is affiliated with such foreign producer or exporter. The administering authority shall notify the Commission of its findings regarding such duty absorption for the Commission to consider in conducting a review under subsection (c).
 
 **(b) Reviews based on changed circumstances**
 
@@ -14463,9 +15069,9 @@ Section repealed effective Oct. 30, 1984, see section 626(a) of Pub. L. 98–573
 
 **(c) Five-year review**
 
-(1) **In general** — Notwithstanding subsection (b) of this section and except in the case of a transition order defined in paragraph (6), 5 years after the date of publication of—
+(1) **In general** — Notwithstanding subsection (b) and except in the case of a transition order defined in paragraph (6), 5 years after the date of publication of—
 
-  (A) a countervailing duty order (other than a countervailing duty order to which subparagraph (B) applies or which was issued without an affirmative determination of injury by the Commission under section 1303 1 of this title), an antidumping duty order, or a notice of suspension of an investigation, described in subsection (a)(1) of this section,
+  (A) a countervailing duty order (other than a countervailing duty order to which subparagraph (B) applies or which was issued without an affirmative determination of injury by the Commission under section 1303 1 of this title), an antidumping duty order, or a notice of suspension of an investigation, described in subsection (a)(1),
 
   (B) a notice of injury determination under [section 1675b of this title](./chapter-004-tariff-act-of-1930.md#section-1675b) with respect to a countervailing duty order, or
 
@@ -14545,9 +15151,9 @@ Section repealed effective Oct. 30, 1984, see section 626(a) of Pub. L. 98–573
 
 **(d) Revocation of order or finding; termination of suspended investigation**
 
-(1) **In general** — The administering authority may revoke, in whole or in part, a countervailing duty order or an antidumping duty order or finding, or terminate a suspended investigation, after review under subsection (a) or (b) of this section. The administering authority shall not revoke, in whole or in part, a countervailing duty order or terminate a suspended investigation on the basis of any export taxes, duties, or other charges levied on the export of the subject merchandise to the United States which are specifically intended to offset the countervailable subsidy received.
+(1) **In general** — The administering authority may revoke, in whole or in part, a countervailing duty order or an antidumping duty order or finding, or terminate a suspended investigation, after review under subsection (a) or (b). The administering authority shall not revoke, in whole or in part, a countervailing duty order or terminate a suspended investigation on the basis of any export taxes, duties, or other charges levied on the export of the subject merchandise to the United States which are specifically intended to offset the countervailable subsidy received.
 
-(2) **Five-year reviews** — In the case of a review conducted under subsection (c) of this section, the administering authority shall revoke a countervailing duty order or an antidumping duty order or finding, or terminate a suspended investigation, unless—
+(2) **Five-year reviews** — In the case of a review conducted under subsection (c), the administering authority shall revoke a countervailing duty order or an antidumping duty order or finding, or terminate a suspended investigation, unless—
 
   (A) the administering authority makes a determination that dumping or a countervailable subsidy, as the case may be, would be likely to continue or recur, and
 
@@ -14557,7 +15163,7 @@ Section repealed effective Oct. 30, 1984, see section 626(a) of Pub. L. 98–573
 
 **(e) Hearings** Whenever the administering authority or the Commission conducts a review under this section, it shall, upon the request of an interested party, hold a hearing in accordance with [section 1677c(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677c/b&num=0&edition=prelim) in connection with that review.
 
-**(f) Determination that basis for suspension no longer exists** If the determination of the Commission under subsection (b)(2)(B) of this section is negative, the suspension agreement shall be treated as not accepted, beginning on the date of publication of the Commission’s determination, and the administering authority and the Commission shall proceed, under section 1671c(i) or 1673c(i) of this title, as if the suspension agreement had been violated on that date, except that no duty under any order subsequently issued shall be assessed on merchandise entered, or withdrawn from warehouse, for consumption before that date.
+**(f) Determination that basis for suspension no longer exists** If the determination of the Commission under subsection (b)(2)(B) is negative, the suspension agreement shall be treated as not accepted, beginning on the date of publication of the Commission’s determination, and the administering authority and the Commission shall proceed, under section 1671c(i) or 1673c(i) of this title, as if the suspension agreement had been violated on that date, except that no duty under any order subsequently issued shall be assessed on merchandise entered, or withdrawn from warehouse, for consumption before that date.
 
 **(g) Reviews to implement results of subsidies enforcement proceeding**
 
@@ -14567,7 +15173,7 @@ Section repealed effective Oct. 30, 1984, see section 626(a) of Pub. L. 98–573
 
   (B) the administering authority has reason to believe that merchandise subject to an existing countervailing duty order or suspended investigation is benefiting from the subsidy or subsidy program found to have been in violation of Article 8 of the Subsidies Agreement, and
 
-  (C) no review pursuant to subsection (a)(1) of this section is in progress,
+  (C) no review pursuant to subsection (a)(1) is in progress,
   the administering authority shall conduct a review of the order or suspended investigation to determine whether the subject merchandise benefits from the subsidy or subsidy program found to have been in violation of Article 8 of the Subsidies Agreement. If the administering authority determines that the subject merchandise is benefiting from the subsidy or subsidy program, it shall make appropriate adjustments in the estimated duty to be deposited or appropriate revisions to the terms of the suspension agreement.
 
 (2) **Withdrawal of subsidy or imposition of countermeasures** — If the Trade Representative notifies the administering authority that, pursuant to Article 4 or Article 7 of the Subsidies Agreement—
@@ -14595,6 +15201,8 @@ The Antidumping Act, 1921, referred to in subsecs. (a)(1), (b)(1)(A), and (c)(6)
 The International Emergency Economic Powers Act, referred to in subsec. (c)(7)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2016—Subsec. (a)(2)(B)(iii), (iv). Pub. L. 114–125 added cl. (iv), redesignated former cl. (iv) as (iii), and struck out former cl. (iii). Prior to amendment, text of cl. (iii) read as follows: “The administering authority shall, at the time a review under this subparagraph is initiated, direct the Customs Service to allow, at the option of the importer, the posting, until the completion of the review, of a bond or security in lieu of a cash deposit for each entry of the subject merchandise.”
+
 1999—Subsec. (c)(7). Pub. L. 106–36 added par. (7).
 
 1994—Pub. L. 103–465, § 283(c), added subsec. (g) and redesignated former subsec. (g) as (h).
@@ -14621,7 +15229,7 @@ Amendment by Pub. L. 98–573 applicable with respect to investigations initiate
 Part effective Jan. 1, 1980, see section 107 of Pub. L. 96–39, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Suspension of the Availability of Bonds to New Shippers
 Pub. L. 109–280, title XIV, § 1632(a), Aug. 17, 2006, 120 Stat. 1165, provided that: “Clause (iii) of section 751(a)(2)(B) of the Tariff Act of 1930 ([19 U.S.C. 1675(a)(2)(B)(iii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1675/a/2/B/iii&num=0&edition=prelim)) shall not be effective during the period beginning on April 1, 2006, and ending on June 30, 2009.”
@@ -14766,7 +15374,7 @@ Section effective, except as otherwise provided, on the date on which the WTO Ag
 
   (A) *In general* — Except as otherwise provided in this section, the provisions of this subtitle regarding evidence in and procedures for investigations conducted under part I of this subtitle shall apply to investigations conducted by the Commission under this section.
 
-  (B) *Time for Commission determination* — Except as otherwise provided in subparagraph (C), the Commission shall issue its determination under subsection (a)(1) of this section, to the extent possible, not later than 1 year after the date on which the investigation is initiated under this section.
+  (B) *Time for Commission determination* — Except as otherwise provided in subparagraph (C), the Commission shall issue its determination under subsection (a)(1), to the extent possible, not later than 1 year after the date on which the investigation is initiated under this section.
 
   (C) *Special rule to permit administrative flexibility* — In the case of requests for investigations received under this section within 1 year after the date on which the WTO Agreement enters into force with respect to the United States, the Commission may, after consulting with the administering authority, initiate its investigations in a manner that results in determinations being made in all such investigations during the 4-year period beginning on such date.
 
@@ -14778,20 +15386,20 @@ Section effective, except as otherwise provided, on the date on which the WTO Ag
 
 (3) **Effect of Commission determination**
 
-  (A) *Affirmative determination* — Upon being notified by the Commission that it has made an affirmative determination under subsection (a)(1) of this section—
+  (A) *Affirmative determination* — Upon being notified by the Commission that it has made an affirmative determination under subsection (a)(1)—
 
-    (i) the administering authority shall order the termination of the suspension of liquidation required pursuant to subsection (a)(4) of this section, and
+    (i) the administering authority shall order the termination of the suspension of liquidation required pursuant to subsection (a)(4), and
 
     (ii) the countervailing duty order shall remain in effect until revoked, in whole or in part, under [section 1675(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1675/d&num=0&edition=prelim).
     For purposes of [section 1675(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1675/c&num=0&edition=prelim), a countervailing duty order described in this section shall be treated as issued on the date of publication of the Commission’s determination under this subsection.
 
   (B) *Negative determination*
 
-    (i) *In general* — Upon being notified by the Commission that it has made a negative determination under subsection (a)(1) of this section, the administering authority shall revoke the countervailing duty order, and shall refund, with interest, any estimated countervailing duties collected during the period liquidation was suspended pursuant to subsection (a)(4) of this section.
+    (i) *In general* — Upon being notified by the Commission that it has made a negative determination under subsection (a)(1), the administering authority shall revoke the countervailing duty order, and shall refund, with interest, any estimated countervailing duties collected during the period liquidation was suspended pursuant to subsection (a)(4).
 
     (ii) *Limitation on negative determination* — A determination by the Commission that revocation of the order is not likely to result in material injury to an industry by reason of imports of the subject merchandise shall not be based, in whole or in part, on any export taxes, duties, or other charges levied on the export of the subject merchandise to the United States that were specifically intended to offset the countervailable subsidy received.
 
-(4) **Countervailing duty orders with respect to which no request for injury investigation is made** — If, with respect to a countervailing duty order described in subsection (a) of this section, a request for an investigation is not made within the time required by subsection (a)(3) of this section, the Commission shall notify the administering authority that a negative determination has been made under subsection (a) of this section and the provisions of paragraph (3)(B) shall apply with respect to the order.
+(4) **Countervailing duty orders with respect to which no request for injury investigation is made** — If, with respect to a countervailing duty order described in subsection (a), a request for an investigation is not made within the time required by subsection (a)(3), the Commission shall notify the administering authority that a negative determination has been made under subsection (a) and the provisions of paragraph (3)(B) shall apply with respect to the order.
 
 **(c) Pending and suspended countervailing duty investigations** If, on the date on which a country becomes a Subsidies Agreement country, there is a countervailing duty investigation in progress or suspended under section 1303 22 See References in Text note below. of this title or [section 1671(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671/c&num=0&edition=prelim) that applies to merchandise which is a product of that country and with respect to which the requirement of an affirmative determination of material injury was not applicable at the time the investigation was initiated, the Commission shall—
 
@@ -14801,9 +15409,9 @@ Section effective, except as otherwise provided, on the date on which the WTO Ag
 
 (3) in the case of a suspended investigation to which [section 1671c(i)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671c/i/1/C&num=0&edition=prelim) applies, treat the countervailing duty order issued pursuant to such section as if it were—
 
-  (A) an order issued under subsection (a)(1)(B)(ii) of this section for purposes of subsection (a)(3) of this section; and
+  (A) an order issued under subsection (a)(1)(B)(ii) for purposes of subsection (a)(3); and
 
-  (B) an order issued under subsection (a)(1)(B)(i) of this section for purposes of subsection (a)(4) of this section.
+  (B) an order issued under subsection (a)(1)(B)(i) for purposes of subsection (a)(4).
 
 **(d) Publication in Federal Register** The administering authority or the Commission, as the case may be, shall publish in the Federal Register a notice of the initiation of any investigation, and a notice of any determination or revocation, made pursuant to this section.
 
@@ -14811,7 +15419,7 @@ Section effective, except as otherwise provided, on the date on which the WTO Ag
 
 (1) **General rule**
 
-  (A) *Requests for reviews* — Notwithstanding [section 1675(c)(6)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1675/c/6/A&num=0&edition=prelim) and except as provided in subparagraph (B), an interested party may request a review of an order under [section 1675(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1675/c&num=0&edition=prelim) at the same time the party requests an investigation under subsection (a) of this section, if the order involves the same or comparable subject merchandise. Upon receipt of such request, the administering authority, after consulting with the Commission, shall initiate a review of the order under [section 1675(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1675/c&num=0&edition=prelim). The Commission shall combine such review with the investigation under this section.
+  (A) *Requests for reviews* — Notwithstanding [section 1675(c)(6)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1675/c/6/A&num=0&edition=prelim) and except as provided in subparagraph (B), an interested party may request a review of an order under [section 1675(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1675/c&num=0&edition=prelim) at the same time the party requests an investigation under subsection (a), if the order involves the same or comparable subject merchandise. Upon receipt of such request, the administering authority, after consulting with the Commission, shall initiate a review of the order under [section 1675(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1675/c&num=0&edition=prelim). The Commission shall combine such review with the investigation under this section.
 
   (B) *Exception* — If the administering authority determines that the interested party who requested an investigation under this section is a related party or an importer within the meaning of [section 1677(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/4/B&num=0&edition=prelim), the administering authority may decline a request by such party to initiate a review of an order under [section 1675(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1675/c&num=0&edition=prelim) which involves the same or comparable subject merchandise.
 
@@ -14865,7 +15473,7 @@ Pub. L. 109–171, title VII, § 7601(b), Feb. 8, 2006, 120 Stat. 154, provided 
 
 (2) reducing the net countervailable subsidy to a level that eliminates completely the injurious effect of exports to the United States of the merchandise.
 
-**(b) Modification of agreements on basis of consultations** At the direction of the President, the administering authority shall modify a quantitative restriction agreement as a result of consultations entered into under subsection (a) of this section.
+**(b) Modification of agreements on basis of consultations** At the direction of the President, the administering authority shall modify a quantitative restriction agreement as a result of consultations entered into under subsection (a).
 
 **(c) Special rule regarding agreements under [section 1671c(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671c/c/3&num=0&edition=prelim)** This chapter shall cease to apply to a quantitative restriction agreement described in [section 1671c(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671c/c/3&num=0&edition=prelim) at such time as that agreement ceases to have force and effect under [section 1671c(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671c/f&num=0&edition=prelim) or violation is found under [section 1671c(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671c/i&num=0&edition=prelim).
 
@@ -14891,13 +15499,13 @@ Section applicable with respect to investigations initiated by petition or by th
 
 (2) if the administering authority initiates a proceeding under paragraph (1), the Commission shall determine whether imports of the merchandise of the kind subject to the agreement will, upon termination of the agreement, materially injure, or threaten with material injury, an industry in the United States or materially retard the establishment of such an industry.
 
-**(b) Determinations** The determinations required to be made by the administering authority and the Commission under subsection (a) of this section shall be made under such procedures as the administering authority and the Commission, respectively, shall by regulation prescribe, and shall be treated as final determinations made under [section 1671d of this title](./chapter-004-tariff-act-of-1930.md#section-1671d) for purposes of judicial review under [section 1516a of this title](./chapter-004-tariff-act-of-1930.md#section-1516a). If the determinations by each are affirmative, the administering authority shall—
+**(b) Determinations** The determinations required to be made by the administering authority and the Commission under subsection (a) shall be made under such procedures as the administering authority and the Commission, respectively, shall by regulation prescribe, and shall be treated as final determinations made under [section 1671d of this title](./chapter-004-tariff-act-of-1930.md#section-1671d) for purposes of judicial review under [section 1516a of this title](./chapter-004-tariff-act-of-1930.md#section-1516a). If the determinations by each are affirmative, the administering authority shall—
 
 (1) issue a countervailing duty order under [section 1671e of this title](./chapter-004-tariff-act-of-1930.md#section-1671e) effective with respect to merchandise entered on and after the date on which the agreement terminates; and
 
 (2) order the suspension of liquidation of all entries of subject merchandise which are entered, or withdrawn from warehouse for consumption, on or after the date of publication of the order in the Federal Register.
 
-**(c) Hearings** The determination proceedings required to be prescribed under subsection (b) of this section shall provide that the administering authority and the Commission must, upon the request of any interested party, hold a hearing in accordance with [section 1677c of this title](./chapter-004-tariff-act-of-1930.md#section-1677c) on the issues involved.
+**(c) Hearings** The determination proceedings required to be prescribed under subsection (b) shall provide that the administering authority and the Commission must, upon the request of any interested party, hold a hearing in accordance with [section 1677c of this title](./chapter-004-tariff-act-of-1930.md#section-1677c) on the issues involved.
 
 ### Statutory Notes
 
@@ -15171,7 +15779,7 @@ For purposes of this subtitle—
 
     (iii) *Impact on affected domestic industry* — In examining the impact required to be considered under subparagraph (B)(i)(III), the Commission shall evaluate all relevant economic factors which have a bearing on the state of the industry in the United States, including, but not limited to—
 
-      (I) actual and potential decline in output, sales, market share, profits, productivity, return on investments, and utilization of capacity,
+      (I) actual and potential decline in output, sales, market share, gross profits, operating profits, net profits, ability to service debt, productivity, return on investments, return on assets, and utilization of capacity,
 
       (II) factors affecting domestic prices,
 
@@ -15184,11 +15792,9 @@ For purposes of this subtitle—
 
     (iv) *Captive production* — If domestic producers internally transfer significant production of the domestic like product for the production of a downstream article and sell significant production of the domestic like product in the merchant market, and the Commission finds that—
 
-      (I) the domestic like product produced that is internally transferred for processing into that downstream article does not enter the merchant market for the domestic like product,
+      (I) the domestic like product produced that is internally transferred for processing into that downstream article does not enter the merchant market for the domestic like product, and
 
-      (II) the domestic like product is the predominant material input in the production of that downstream article, and
-
-      (III) the production of the domestic like product sold in the merchant market is not generally used in the production of that downstream article,
+      (II) the domestic like product is the predominant material input in the production of that downstream article,
     then the Commission, in determining market share and the factors affecting financial performance set forth in clause (iii), shall focus primarily on the merchant market for the domestic like product.
 
   (D) *Special rules for agricultural products*
@@ -15270,6 +15876,8 @@ For purposes of this subtitle—
 
   (I) *Consideration of post-petition information* — The Commission shall consider whether any change in the volume, price effects, or impact of imports of the subject merchandise since the filing of the petition in an investigation under part I or II of this subtitle is related to the pendency of the investigation and, if so, the Commission may reduce the weight accorded to the data for the period after the filing of the petition in making its determination of material injury, threat of material injury, or material retardation of the establishment of an industry in the United States.
 
+  (J) *Effect of profitability* — The Commission may not determine that there is no material injury or threat of material injury to an industry in the United States merely because that industry is profitable or because the performance of that industry has recently improved.
+
 (8) **Subsidies Agreement; Agreement on Agriculture**
 
   (A) *Subsidies Agreement* — The term “Subsidies Agreement” means the Agreement on Subsidies and Countervailing Measures referred to in [section 3511(d)(12) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d/12&num=0&edition=prelim).
@@ -15327,6 +15935,8 @@ For purposes of this subtitle—
 
   (B) Transactions disregarded under [section 1677b(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677b/f/2&num=0&edition=prelim).
 
+  (C) Situations in which the administering authority determines that the particular market situation prevents a proper comparison with the export price or constructed export price.
+
 (16) **Foreign like product** — The term “foreign like product” means merchandise in the first of the following categories in respect of which a determination for the purposes of part II of this subtitle can be satisfactorily made:
 
   (A) The subject merchandise and other merchandise which is identical in physical characteristics with, and was produced in the same country by the same person as, that merchandise.
@@ -15375,7 +15985,7 @@ For purposes of this subtitle—
 
   (D) *Determinations not in issue* — Notwithstanding any other provision of law, any determination made by the administering authority under subparagraph (A) shall not be subject to judicial review in any investigation conducted under part II of this subtitle.
 
-  (E) *Collection of information* — Upon request by the administering authority, the Commissioner of Customs shall provide the administering authority a copy of all public and proprietary information submitted to, or obtained by, the Commissioner of Customs that the administering authority considers relevant to proceedings involving merchandise from nonmarket economy countries. The administering authority shall protect proprietary information obtained under this section from public disclosure in accordance with [section 1677f of this title](./chapter-004-tariff-act-of-1930.md#section-1677f).
+  (E) *Collection of information* — Upon request by the administering authority, the Commissioner of U.S. Customs and Border Protection shall provide the administering authority a copy of all public and proprietary information submitted to, or obtained by, the Commissioner of U.S. Customs and Border Protection that the administering authority considers relevant to proceedings involving merchandise from nonmarket economy countries. The administering authority shall protect proprietary information obtained under this section from public disclosure in accordance with [section 1677f of this title](./chapter-004-tariff-act-of-1930.md#section-1677f).
 
 (19) **Equivalency of leases to sales** — In determining whether a lease is equivalent to a sale for purposes of this subtitle, the administering authority shall consider—
 
@@ -15521,6 +16131,14 @@ The Antidumping Act, 1921, referred to in par. (25), is act May 27, 1921, ch. 14
 For the effective date of title II of the Uruguay Round Agreements Act, referred to in par. (26), as Jan. 1, 1995, see Effective Date of 1994 Amendment note set out under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Amendments
+2015—Par. (7)(C)(iii)(I). Pub. L. 114–27, § 503(b), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “actual and potential decline in output, sales, market share, profits, productivity, return on investments, and utilization of capacity,”.
+
+Par. (7)(C)(iv)(I) to (III). Pub. L. 114–27, § 503(c), inserted “and” at end of subcl. (I), struck out “and” after comma at end of subcl. (II), and struck out subcl. (III) which read as follows: “the production of the domestic like product sold in the merchant market is not generally used in the production of that downstream article,”.
+
+Par. (7)(J). Pub. L. 114–27, § 503(a), added subpar. (J).
+
+Par. (15)(C). Pub. L. 114–27, § 504(a), added subpar. (C).
+
 1996—Par. (16)(C)(i). Pub. L. 104–295, § 20(b)(7), which directed substitution of “subject merchandise” for “merchandise which is the subject of the investigation” in subpar. (B)(i), was executed by making the substitution in subpar. (C)(i) to reflect the probable intent of Congress.
 
 Par. (30). Pub. L. 104–295, § 20(b)(14), substituted “Agreement” for “agreement” after “applies the WTO”.
@@ -15705,6 +16323,9 @@ Par. (14)(A), (B). Pub. L. 98–573, § 612(a)(4), substituted “in commercial 
 
 Par. (17). Pub. L. 98–573, § 612(a)(5), substituted “commercial quantities” for “wholesale quantities”.
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in two places in par. (18)(E) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
@@ -15732,7 +16353,7 @@ Amendment by Pub. L. 98–573 applicable with respect to investigations initiate
 Part effective Jan. 1, 1980, see section 107 of Pub. L. 96–39, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 All functions of the Secretary of the Treasury under this subtitle were transferred to the Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, § 5(a)(1)(C), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171), except that the Customs Service of the Department of the Treasury was to accept such deposits, bonds, or other security as deemed appropriate by the Secretary of Commerce, assess and collect such duties as directed by the Secretary of Commerce, and furnish such of its important records or copies thereof as requested by the Secretary incident to the functions transferred.
 
@@ -15748,9 +16369,9 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 <a id="section-1677a"></a>
 ## § 1677a. Export price and constructed export price
-**(a) Export price** The term “export price” means the price at which the subject merchandise is first sold (or agreed to be sold) before the date of importation by the producer or exporter of the subject merchandise outside of the United States to an unaffiliated purchaser in the United States or to an unaffiliated purchaser for exportation to the United States, as adjusted under subsection (c) of this section.
+**(a) Export price** The term “export price” means the price at which the subject merchandise is first sold (or agreed to be sold) before the date of importation by the producer or exporter of the subject merchandise outside of the United States to an unaffiliated purchaser in the United States or to an unaffiliated purchaser for exportation to the United States, as adjusted under subsection (c).
 
-**(b) Constructed export price** The term “constructed export price” means the price at which the subject merchandise is first sold (or agreed to be sold) in the United States before or after the date of importation by or for the account of the producer or exporter of such merchandise or by a seller affiliated with the producer or exporter, to a purchaser not affiliated with the producer or exporter, as adjusted under subsections (c) and (d) of this section.
+**(b) Constructed export price** The term “constructed export price” means the price at which the subject merchandise is first sold (or agreed to be sold) in the United States before or after the date of importation by or for the account of the producer or exporter of such merchandise or by a seller affiliated with the producer or exporter, to a purchaser not affiliated with the producer or exporter, as adjusted under subsections (c) and (d).
 
 **(c) Adjustments for export price and constructed export price** The price used to establish export price and constructed export price shall be—
 
@@ -15780,7 +16401,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
   (D) any selling expenses not deducted under subparagraph (A), (B), or (C);
 
-(2) the cost of any further manufacture or assembly (including additional material and labor), except in circumstances described in subsection (e) of this section; and
+(2) the cost of any further manufacture or assembly (including additional material and labor), except in circumstances described in subsection (e); and
 
 (3) the profit allocated to the expenses described in paragraphs (1) and (2).
 
@@ -15793,13 +16414,13 @@ If there is not a sufficient quantity of sales to provide a reasonable basis for
 
 **(f) Special rule for determining profit**
 
-(1) **In general** — For purposes of subsection (d)(3) of this section, profit shall be an amount determined by multiplying the total actual profit by the applicable percentage.
+(1) **In general** — For purposes of subsection (d)(3), profit shall be an amount determined by multiplying the total actual profit by the applicable percentage.
 
 (2) **Definitions** — For purposes of this subsection:
 
   (A) *Applicable percentage* — The term “applicable percentage” means the percentage determined by dividing the total United States expenses by the total expenses.
 
-  (B) *Total United States expenses* — The term “total United States expenses” means the total expenses described in subsection (d)(1) and (2) of this section.
+  (B) *Total United States expenses* — The term “total United States expenses” means the total expenses described in subsection (d)(1) and (2).
 
   (C) *Total expenses* — The term “total expenses” means all expenses in the first of the following categories which applies and which are incurred by or on behalf of the foreign producer and foreign exporter of the subject merchandise and by or on behalf of the United States seller affiliated with the producer or exporter with respect to the production and sale of such merchandise:
 
@@ -15843,7 +16464,7 @@ Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub
 
       (II) the aggregate quantity (or, if quantity is not appropriate, value) of the foreign like product sold by the exporter or producer in such other country is 5 percent or more of the aggregate quantity (or value) of the subject merchandise sold in the United States or for export to the United States, and
 
-      (III) the administering authority does not determine that the particular market situation in such other country prevents a proper comparison with the export price or constructed export price.
+      (III) the administering authority does not determine that the particular market situation prevents a proper comparison with the export price or constructed export price.
 
   (C) *Third country sales* — This subparagraph applies when—
 
@@ -15866,7 +16487,7 @@ Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub
 
   (D) the foreign like product is not produced in the intermediate country.
 
-(4) **Use of constructed value** — If the administering authority determines that the normal value of the subject merchandise cannot be determined under paragraph (1)(B)(i), then, notwithstanding paragraph (1)(B)(ii), the normal value of the subject merchandise may be the constructed value of that merchandise, as determined under subsection (e) of this section.
+(4) **Use of constructed value** — If the administering authority determines that the normal value of the subject merchandise cannot be determined under paragraph (1)(B)(i), then, notwithstanding paragraph (1)(B)(ii), the normal value of the subject merchandise may be the constructed value of that merchandise, as determined under subsection (e).
 
 (5) **Indirect sales or offers for sale** — If the foreign like product is sold or, in the absence of sales, offered for sale through an affiliated party, the prices at which the foreign like product is sold (or offered for sale) by such affiliated party may be used in determining normal value.
 
@@ -15901,7 +16522,7 @@ Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub
 
   (B) *Constructed export price offset* — When normal value is established at a level of trade which constitutes a more advanced stage of distribution than the level of trade of the constructed export price, but the data available do not provide an appropriate basis to determine under subparagraph (A)(ii) a level of trade adjustment, normal value shall be reduced by the amount of indirect selling expenses incurred in the country in which normal value is determined on sales of the foreign like product but not more than the amount of such expenses for which a deduction is made under [section 1677a(d)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677a/d/1/D&num=0&edition=prelim).
 
-(8) **Adjustments to constructed value** — Constructed value as determined under subsection (e) of this section, may be adjusted, as appropriate, pursuant to this subsection.
+(8) **Adjustments to constructed value** — Constructed value as determined under subsection (e), may be adjusted, as appropriate, pursuant to this subsection.
 
 **(b) Sales at less than cost of production**
 
@@ -15914,11 +16535,11 @@ Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub
 
 (2) **Definitions and special rules** — For purposes of this subsection—
 
-  (A) *Reasonable grounds to believe or suspect* — There are reasonable grounds to believe or suspect that sales of the foreign like product were made at prices that are less than the cost of production of the product, if—
+  (A) *Reasonable grounds to believe or suspect*
 
-    (i) in an investigation initiated under [section 1673a of this title](./chapter-004-tariff-act-of-1930.md#section-1673a) or a review conducted under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675), an interested party described in subparagraph (C), (D), (E), (F), or (G) of [section 1677(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/9&num=0&edition=prelim) provides information, based upon observed prices or constructed prices or costs, that sales of the foreign like product under consideration for the determination of normal value have been made at prices which represent less than the cost of production of the product; or
+    (i) *Review* — In a review conducted under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675) involving a specific exporter, there are reasonable grounds to believe or suspect that sales of the foreign like product have been made at prices that are less than the cost of production of the product if the administering authority disregarded some or all of the exporter’s sales pursuant to paragraph (1) in the investigation or, if a review has been completed, in the most recently completed review.
 
-    (ii) in a review conducted under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675) involving a specific exporter, the administering authority disregarded some or all of the exporter’s sales pursuant to paragraph (1) in the investigation or if a review has been completed, in the most recently completed review.
+    (ii) *Requests for information* — In an investigation initiated under [section 1673a of this title](./chapter-004-tariff-act-of-1930.md#section-1673a) or a review conducted under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675), the administering authority shall request information necessary to calculate the constructed value and cost of production under subsections (e) and (f) to determine whether there are reasonable grounds to believe or suspect that sales of the foreign like product have been made at prices that represent less than the cost of production of the product.
 
   (B) *Extended period of time* — The term “extended period of time” means a period that is normally 1 year, but not less than 6 months.
 
@@ -15945,7 +16566,7 @@ Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub
 
   (A) the subject merchandise is exported from a nonmarket economy country, and
 
-  (B) the administering authority finds that available information does not permit the normal value of the subject merchandise to be determined under subsection (a) of this section,
+  (B) the administering authority finds that available information does not permit the normal value of the subject merchandise to be determined under subsection (a),
   the administering authority shall determine the normal value of the subject merchandise on the basis of the value of the factors of production utilized in producing the merchandise and to which shall be added an amount for general expenses and profit plus the cost of containers, coverings, and other expenses. Except as provided in paragraph (2), the valuation of the factors of production shall be based on the best available information regarding the values of such factors in a market economy country or countries considered to be appropriate by the administering authority.
 
 (2) **Exception** — If the administering authority finds that the available information is inadequate for purposes of determining the normal value of subject merchandise under paragraph (1), the administering authority shall determine the normal value on the basis of the price at which merchandise that is—
@@ -15971,18 +16592,20 @@ Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub
 
   (B) significant producers of comparable merchandise.
 
+(5) **Discretion to disregard certain price or cost values** — In valuing the factors of production under paragraph (1) for the subject merchandise, the administering authority may disregard price or cost values without further investigation if the administering authority has determined that broadly available export subsidies existed or particular instances of subsidization occurred with respect to those price or cost values or if those price or cost values were subject to an antidumping order.
+
 **(d) Special rule for certain multinational corporations** Whenever, in the course of an investigation under this subtitle, the administering authority determines that—
 
 (1) subject merchandise exported to the United States is being produced in facilities which are owned or controlled, directly or indirectly, by a person, firm, or corporation which also owns or controls, directly or indirectly, other facilities for the production of the foreign like product which are located in another country or countries,
 
-(2) subsection (a)(1)(C) of this section applies, and
+(2) subsection (a)(1)(C) applies, and
 
 (3) the normal value of the foreign like product produced in one or more of the facilities outside the exporting country is higher than the normal value of the foreign like product produced in the facilities located in the exporting country,
-it shall determine the normal value of the subject merchandise by reference to the normal value at which the foreign like product is sold in substantial quantities from one or more facilities outside the exporting country. The administering authority, in making any determination under this paragraph, shall make adjustments for the difference between the cost of production (including taxes, labor, materials, and overhead) of the foreign like product produced in facilities outside the exporting country and costs of production of the foreign like product produced in facilities in the exporting country, if such differences are demonstrated to its satisfaction. For purposes of this subsection, in determining the normal value of the foreign like product produced in a country outside of the exporting country, the administering authority shall determine its price at the time of exportation from the exporting country and shall make any adjustments required by subsection (a) of this section for the cost of all containers and coverings and all other costs, charges, and expenses incident to placing the merchandise in condition packed ready for shipment to the United States by reference to such costs in the exporting country.
+it shall determine the normal value of the subject merchandise by reference to the normal value at which the foreign like product is sold in substantial quantities from one or more facilities outside the exporting country. The administering authority, in making any determination under this paragraph, shall make adjustments for the difference between the cost of production (including taxes, labor, materials, and overhead) of the foreign like product produced in facilities outside the exporting country and costs of production of the foreign like product produced in facilities in the exporting country, if such differences are demonstrated to its satisfaction. For purposes of this subsection, in determining the normal value of the foreign like product produced in a country outside of the exporting country, the administering authority shall determine its price at the time of exportation from the exporting country and shall make any adjustments required by subsection (a) for the cost of all containers and coverings and all other costs, charges, and expenses incident to placing the merchandise in condition packed ready for shipment to the United States by reference to such costs in the exporting country.
 
 **(e) Constructed value** For purposes of this subtitle, the constructed value of imported merchandise shall be an amount equal to the sum of—
 
-(1) the cost of materials and fabrication or other processing of any kind employed in producing the merchandise, during a period which would ordinarily permit the production of the merchandise in the ordinary course of business;
+(1) the cost of materials and fabrication or other processing of any kind employed in producing the merchandise, during a period which would ordinarily permit the production of the merchandise in the ordinary course of trade;
 
 (2)
 
@@ -15997,9 +16620,9 @@ it shall determine the normal value of the subject merchandise by reference to t
     (iii) the amounts incurred and realized for selling, general, and administrative expenses, and for profits, based on any other reasonable method, except that the amount allowed for profit may not exceed the amount normally realized by exporters or producers (other than the exporter or producer described in clause (i)) in connection with the sale, for consumption in the foreign country, of merchandise that is in the same general category of products as the subject merchandise; and
 
 (3) the cost of all containers and coverings of whatever nature, and all other expenses incidental to placing the subject merchandise in condition packed ready for shipment to the United States.
-For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition which are remitted or refunded upon exportation of the subject merchandise produced from such materials.
+For purposes of paragraph (1), if a particular market situation exists such that the cost of materials and fabrication or other processing of any kind does not accurately reflect the cost of production in the ordinary course of trade, the administering authority may use another calculation methodology under this part or any other calculation methodology. For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition that is remitted or refunded upon exportation of the subject merchandise produced from such materials.
 
-**(f) Special rules for calculation of cost of production and for calculation of constructed value** For purposes of subsections (b) and (e) of this section.—
+**(f) Special rules for calculation of cost of production and for calculation of constructed value** For purposes of subsections (b) and (e).— 11 So in original. The period preceding the dash probably should not appear.
 
 (1) **Costs**
 
@@ -16027,6 +16650,20 @@ For purposes of paragraph (1), the cost of materials shall be determined without
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (a)(1)(B)(ii)(III). Pub. L. 114–27, § 504(b), which directed amendment of subcl. (III) by striking out “in such other country.”, was executed by striking out “in such other country” after “particular market situation” to reflect the probable intent of Congress.
+
+Subsec. (b)(2)(A). Pub. L. 114–27, § 505(a), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “There are reasonable grounds to believe or suspect that sales of the foreign like product were made at prices that are less than the cost of production of the product, if—
+
+“(i) in an investigation initiated under [section 1673a of this title](./chapter-004-tariff-act-of-1930.md#section-1673a) or a review conducted under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675), an interested party described in subparagraph (C), (D), (E), (F), or (G) of [section 1677(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/9&num=0&edition=prelim) provides information, based upon observed prices or constructed prices or costs, that sales of the foreign like product under consideration for the determination of normal value have been made at prices which represent less than the cost of production of the product; or
+
+“(ii) in a review conducted under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675) involving a specific exporter, the administering authority disregarded some or all of the exporter’s sales pursuant to paragraph (1) in the investigation or if a review has been completed, in the most recently completed review.”
+
+Subsec. (c)(5). Pub. L. 114–27, § 505(b), added par. (5).
+
+Subsec. (e). Pub. L. 114–27, § 504(c)(2), in concluding provisions, substituted “For purposes of paragraph (1), if a particular market situation exists such that the cost of materials and fabrication or other processing of any kind does not accurately reflect the cost of production in the ordinary course of trade, the administering authority may use another calculation methodology under this part or any other calculation methodology. For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition that is remitted or refunded upon exportation of the subject merchandise produced from such materials.” for “For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition which are remitted or refunded upon exportation of the subject merchandise produced from such materials.”
+
+Subsec. (e)(1). Pub. L. 114–27, § 504(c)(1), substituted “trade” for “business”.
+
 1994—Pub. L. 103–465 amended section generally, substituting present provisions for provisions relating to foreign market value, which provided for determination of value in subsec. (a), sales at less than cost of production in subsec. (b), treatment of merchandise from nonmarket economy countries in subsec. (c), special rule for certain multinational corporations in subsec. (d), determination of constructed value in subsec. (e), and exportation from an intermediate country in subsec. (f).
 
 1988—Subsec. (a)(5). Pub. L. 100–418, § 1319, added par. (5).
@@ -16138,21 +16775,59 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
   (D) provides such information but the information cannot be verified as provided in [section 1677m(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677m/i&num=0&edition=prelim),
 the administering authority and the Commission shall, subject to [section 1677m(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677m/d&num=0&edition=prelim), use the facts otherwise available in reaching the applicable determination under this subtitle.
 
-**(b) Adverse inferences** If the administering authority or the Commission (as the case may be) finds that an interested party has failed to cooperate by not acting to the best of its ability to comply with a request for information from the administering authority or the Commission, the administering authority or the Commission (as the case may be), in reaching the applicable determination under this subtitle, may use an inference that is adverse to the interests of that party in selecting from among the facts otherwise available. Such adverse inference may include reliance on information derived from—
+**(b) Adverse inferences**
 
-(1) the petition,
+(1) **In general** — If the administering authority or the Commission (as the case may be) finds that an interested party has failed to cooperate by not acting to the best of its ability to comply with a request for information from the administering authority or the Commission, the administering authority or the Commission (as the case may be), in reaching the applicable determination under this subtitle—
 
-(2) a final determination in the investigation under this subtitle,
+  (A) may use an inference that is adverse to the interests of that party in selecting from among the facts otherwise available; and
 
-(3) any previous review under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675) or determination under [section 1675b of this title](./chapter-004-tariff-act-of-1930.md#section-1675b), or
+  (B) is not required to determine, or make any adjustments to, a countervailable subsidy rate or weighted average dumping margin based on any assumptions about information the interested party would have provided if the interested party had complied with the request for information.
 
-(4) any other information placed on the record.
+(2) **Potential sources of information for adverse inferences** — An adverse inference under paragraph (1)(A) may include reliance on information derived from—
 
-**(c) Corroboration of secondary information** When the administering authority or the Commission relies on secondary information rather than on information obtained in the course of an investigation or review, the administering authority or the Commission, as the case may be, shall, to the extent practicable, corroborate that information from independent sources that are reasonably at their disposal.
+  (A) the petition,
+
+  (B) a final determination in the investigation under this subtitle,
+
+  (C) any previous review under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675) or determination under [section 1675b of this title](./chapter-004-tariff-act-of-1930.md#section-1675b), or
+
+  (D) any other information placed on the record.
+
+**(c) Corroboration of secondary information**
+
+(1) **In general** — Except as provided in paragraph (2), when the administering authority or the Commission relies on secondary information rather than on information obtained in the course of an investigation or review, the administering authority or the Commission, as the case may be, shall, to the extent practicable, corroborate that information from independent sources that are reasonably at their disposal.
+
+(2) **Exception** — The administrative authority and the Commission shall not be required to corroborate any dumping margin or countervailing duty applied in a separate segment of the same proceeding.
+
+**(d) Subsidy rates and dumping margins in adverse inference determinations**
+
+(1) **In general** — If the administering authority uses an inference that is adverse to the interests of a party under subsection (b)(1)(A) in selecting among the facts otherwise available, the administering authority may—
+
+  (A) in the case of a countervailing duty proceeding—
+
+    (i) use a countervailable subsidy rate applied for the same or similar program in a countervailing duty proceeding involving the same country; or
+
+    (ii) if there is no same or similar program, use a countervailable subsidy rate for a subsidy program from a proceeding that the administering authority considers reasonable to use; and
+
+  (B) in the case of an antidumping duty proceeding, use any dumping margin from any segment of the proceeding under the applicable antidumping order.
+
+(2) **Discretion to apply highest rate** — In carrying out paragraph (1), the administering authority may apply any of the countervailable subsidy rates or dumping margins specified under that paragraph, including the highest such rate or margin, based on the evaluation by the administering authority of the situation that resulted in the administering authority using an adverse inference in selecting among the facts otherwise available.
+
+(3) **No obligation to make certain estimates or address certain claims** — If the administering authority uses an adverse inference under subsection (b)(1)(A) in selecting among the facts otherwise available, the administering authority is not required, for purposes of subsection (c) or for any other purpose—
+
+  (A) to estimate what the countervailable subsidy rate or dumping margin would have been if the interested party found to have failed to cooperate under subsection (b)(1) had cooperated; or
+
+  (B) to demonstrate that the countervailable subsidy rate or dumping margin used by the administering authority reflects an alleged commercial reality of the interested party.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (b). Pub. L. 114–27, § 502(1), inserted par. (1) designation and heading before “If the administering”, substituted “under this subtitle—” for “under this subtitle, may use”, inserted “(A) may use” before “an inference that is adverse”, substituted “facts otherwise available; and” for “facts otherwise available. Such adverse inference may include”, added subpar. (B), inserted par. (2) designation, heading, and “An adverse inference under paragraph (1)(A) may include” before “reliance on information”, and redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (2) and realigned margins.
+
+Subsec. (c). Pub. L. 114–27, § 502(2), designated existing provisions as par. (1) and inserted heading, substituted “Except as provided in paragraph (2), when the” for “When the”, and added par. (2).
+
+Subsec. (d). Pub. L. 114–27, § 502(3), added subsec. (d).
+
 1994—Pub. L. 103–465 amended section generally, substituting present provisions for provisions relating to verification of information, certification of submissions, and determinations required to be made on best information available.
 
 1988—Subsec. (a). Pub. L. 100–418, § 1331(1), (3), added subsec. (a). Former subsec. (a) redesignated (b).
@@ -16200,11 +16875,11 @@ Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub
 
 (1) **Proprietary status maintained**
 
-  (A) *In general* — Except as provided in subsection (a)(4)(A) of this section and subsection (c) of this section, information submitted to the administering authority or the Commission which is designated as proprietary by the person submitting the information shall not be disclosed to any person without the consent of the person submitting the information, other than—
+  (A) *In general* — Except as provided in subsection (a)(4)(A) and subsection (c), information submitted to the administering authority or the Commission which is designated as proprietary by the person submitting the information shall not be disclosed to any person without the consent of the person submitting the information, other than—
 
     (i) to an officer or employee of the administering authority or the Commission who is directly concerned with carrying out the investigation in connection with which the information is submitted or any review under this subtitle covering the same subject merchandise, or
 
-    (ii) to an officer or employee of the United States Customs Service who is directly involved in conducting an investigation regarding fraud under this subtitle.
+    (ii) to an officer or employee of the United States Customs Service who is directly involved in conducting an investigation regarding negligence, gross negligence, or fraud under this subtitle.
 
   (B) *Additional requirements* — The administering authority and the Commission shall require that information for which proprietary treatment is requested be accompanied by—
 
@@ -16216,7 +16891,7 @@ Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub
 
     (ii) either—
 
-      (I) a statement which permits the administering authority or the Commission to release under administrative protective order, in accordance with subsection (c) of this section, the information submitted in confidence, or
+      (I) a statement which permits the administering authority or the Commission to release under administrative protective order, in accordance with subsection (c), the information submitted in confidence, or
 
       (II) a statement to the administering authority or the Commission that the business proprietary information is of a type that should not be released under administrative protective order.
 
@@ -16247,13 +16922,13 @@ Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub
 
     (i) the business proprietary information submitted to the administering authority or the Commission on or before the date of the determination shall be made available, subject to the terms and conditions of the protective order, on such date; and
 
-    (ii) the business proprietary information submitted to the administering authority or the Commission after the date of the determination shall be served as required by subsection (d) of this section.
+    (ii) the business proprietary information submitted to the administering authority or the Commission after the date of the determination shall be served as required by subsection (d).
 
   (E) *Failure to disclose* — If a person submitting information to the administering authority refuses to disclose business proprietary information which the administering authority determines should be released under a protective order described in subparagraph (B), the administering authority shall return the information, and any nonconfidential summary thereof, to the person submitting the information and summary and shall not consider either.
 
 (2) **Disclosure under court order** — If the administering authority denies a request for information under paragraph (1), then application may be made to the United States Customs Court for an order directing the administering authority or the Commission to make the information available. After notification of all parties to the investigation and after an opportunity for a hearing on the record, the court may issue an order, under such conditions as the court deems appropriate, which shall not have the effect of stopping or suspending the investigation, directing the administering authority or the Commission to make all or a portion of the requested information described in the preceding sentence available under a protective order and setting forth sanctions for violation of such order if the court finds that, under the standards applicable in proceedings of the court, such an order is warranted, and that—
 
-  (A) the administering authority or the Commission has denied access to the information under subsection (b)(1) of this section,
+  (A) the administering authority or the Commission has denied access to the information under subsection (b)(1),
 
   (B) the person on whose behalf the information is requested is an interested party who is a party to the investigation in connection with which the information was obtained or developed, and
 
@@ -16310,7 +16985,7 @@ Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub
 
   (E) *Fees and mileage of witnesses* — Witnesses summoned before the administering authority or the Commission shall be paid the same fees and mileage that are paid witnesses in the courts of the United States.
 
-**(g) Information relating to violations of protective orders and sanctions** The administering authority and the Commission may withhold from disclosure any correspondence, private letters of reprimand, settlement agreements, and documents and files compiled in relation to investigations and actions involving a violation or possible violation of a protective order issued under subsection (c) or (d) of this section, and such information shall be treated as information described in [section 552(b)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/3&num=0&edition=prelim).
+**(g) Information relating to violations of protective orders and sanctions** The administering authority and the Commission may withhold from disclosure any correspondence, private letters of reprimand, settlement agreements, and documents and files compiled in relation to investigations and actions involving a violation or possible violation of a protective order issued under subsection (c) or (d), and such information shall be treated as information described in [section 552(b)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/3&num=0&edition=prelim).
 
 **(h) Opportunity for comment by consumers and industrial users** The administering authority and the Commission shall provide an opportunity for industrial users of the subject merchandise and, if the merchandise is sold at the retail level, for representative consumer organizations, to submit relevant information to the administering authority concerning dumping or a countervailable subsidy, and to the Commission concerning material injury by reason of dumped or subsidized imports.
 
@@ -16352,6 +17027,8 @@ Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub
 For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.
 
 #### Amendments
+2016—Subsec. (b)(1)(A)(ii). Pub. L. 114–125 inserted “negligence, gross negligence, or” after “regarding”.
+
 1994—Subsec. (a)(4). Pub. L. 103–465, § 231(b), substituted “shall disclose” for “may disclose” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 103–465, § 226(a)(1), amended par. (1) generally, designating first sentence as subpar. (A), rearranging provisions for clarity, and inserting provisions in cl. (i) relating to reviews under this subtitle covering same subject merchandise, and designating second sentence as subpar. (B) with corresponding redesignations of former subpars. as cls. and cls. as subcls.
@@ -16443,7 +17120,7 @@ Amendment by Pub. L. 100–418 applicable with respect to investigations initiat
 Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub. L. 98–573, set out as a note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Effect of Termination of NAFTA Country Status
 For provisions relating to effect of termination of NAFTA country status on the provisions of sections 401 to 416 of Pub. L. 103–182, see [section 3451 of this title](./chapter-021-north-american-free-trade.md#section-3451).
@@ -16547,7 +17224,7 @@ Section applicable with respect to investigations initiated by petition or by th
 
 (2) the date of a finding under the Antidumping Act, 1921.
 
-**(b) Rate** The rate of interest payable under subsection (a) of this section for any period of time is the rate of interest established under [section 6621 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6621&num=0&edition=prelim) for such period.
+**(b) Rate** The rate of interest payable under subsection (a) for any period of time is the rate of interest established under [section 6621 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6621&num=0&edition=prelim) for such period.
 
 ### Statutory Notes
 
@@ -16588,7 +17265,7 @@ Section effective Oct. 30, 1984, see section 626(a) of Pub. L. 98–573, set out
 ## § 1677i. Downstream product monitoring
 **(a) Petition requesting monitoring**
 
-(1) **In general** — A domestic producer of an article that is like a component part or a downstream product may petition the administering authority to designate a downstream product for monitoring under subsection (b) of this section. The petition shall specify—
+(1) **In general** — A domestic producer of an article that is like a component part or a downstream product may petition the administering authority to designate a downstream product for monitoring under subsection (b). The petition shall specify—
 
   (A) the downstream product,
 
@@ -16622,11 +17299,11 @@ Section effective Oct. 30, 1984, see section 626(a) of Pub. L. 98–573, set out
 
 **(b) Monitoring by Commission**
 
-(1) **In general** — If the determination made under subsection (a)(2)(A) of this section and a determination made under any clause of subsection (a)(2)(B) of this section with respect to a petition are affirmative, the Commission shall immediately commence monitoring of trade in the downstream product that is the subject of the determination made under subsection (a)(2)(A) of this section. If the Commission finds that imports of a downstream product being monitored increased during any calendar quarter by 5 percent or more over the preceding quarter, the Commission shall analyze that increase in the context of overall economic conditions in the product sector.
+(1) **In general** — If the determination made under subsection (a)(2)(A) and a determination made under any clause of subsection (a)(2)(B) with respect to a petition are affirmative, the Commission shall immediately commence monitoring of trade in the downstream product that is the subject of the determination made under subsection (a)(2)(A). If the Commission finds that imports of a downstream product being monitored increased during any calendar quarter by 5 percent or more over the preceding quarter, the Commission shall analyze that increase in the context of overall economic conditions in the product sector.
 
 (2) **Reports** — The Commission shall make quarterly reports to the administering authority regarding the monitoring and analyses conducted under paragraph (1). The Commission shall make the reports available to the public.
 
-**(c) Action on basis of monitoring reports** The administering authority shall review the information in the reports submitted by the Commission under subsection (b)(2) of this section and shall—
+**(c) Action on basis of monitoring reports** The administering authority shall review the information in the reports submitted by the Commission under subsection (b)(2) and shall—
 
 (1) consider the information in determining whether to initiate an investigation under section 1671a(a) or 1673a(a) of this title regarding any downstream product, and
 
@@ -16636,7 +17313,7 @@ Section effective Oct. 30, 1984, see section 626(a) of Pub. L. 98–573, set out
 
 (1) The term “component part” means any imported article that—
 
-  (A) during the 5-year period ending on the date on which the petition is filed under subsection (a) of this section, has been subject to—
+  (A) during the 5-year period ending on the date on which the petition is filed under subsection (a), has been subject to—
 
     (i) a countervailing or antidumping duty order issued under this subtitle or section 1303 1 of this title that requires the deposit of estimated countervailing or antidumping duties imposed at a rate of at least 15 percent ad valorem, or
 
@@ -16689,7 +17366,7 @@ Amendment by section 261(d)(1)(B)(iv) of Pub. L. 103–465 effective on the effe
   (C) the process of assembly or completion in the United States is minor or insignificant, and
 
   (D) the value of the parts or components referred to in subparagraph (B) is a significant portion of the total value of the merchandise,
-  the administering authority, after taking into account any advice provided by the Commission under subsection (e) of this section, may include within the scope of such order or finding the imported parts or components referred to in subparagraph (B) that are used in the completion or assembly of the merchandise in the United States at any time such order or finding is in effect.
+  the administering authority, after taking into account any advice provided by the Commission under subsection (e), may include within the scope of such order or finding the imported parts or components referred to in subparagraph (B) that are used in the completion or assembly of the merchandise in the United States at any time such order or finding is in effect.
 
 (2) **Determination of whether process is minor or insignificant** — In determining whether the process of assembly or completion is minor or insignificant under paragraph (1)(C), the administering authority shall take into account—
 
@@ -16734,7 +17411,7 @@ Amendment by section 261(d)(1)(B)(iv) of Pub. L. 103–465 effective on the effe
   (D) the value of the merchandise produced in the foreign country to which the antidumping duty order applies is a significant portion of the total value of the merchandise exported to the United States, and
 
   (E) the administering authority determines that action is appropriate under this paragraph to prevent evasion of such order or finding,
-  the administering authority, after taking into account any advice provided by the Commission under subsection (e) of this section, may include such imported merchandise within the scope of such order or finding at any time such order or finding is in effect.
+  the administering authority, after taking into account any advice provided by the Commission under subsection (e), may include such imported merchandise within the scope of such order or finding at any time such order or finding is in effect.
 
 (2) **Determination of whether process is minor or insignificant** — In determining whether the process of assembly or completion is minor or insignificant under paragraph (1)(C), the administering authority shall take into account—
 
@@ -16784,7 +17461,7 @@ Amendment by section 261(d)(1)(B)(iv) of Pub. L. 103–465 effective on the effe
   (D) the later-developed merchandise is sold through the same channels of trade as the earlier product, and
 
   (E) the later-developed merchandise is advertised and displayed in a manner similar to the earlier product.
-  The administering authority shall take into account any advice provided by the Commission under subsection (e) of this section before making a determination under this subparagraph.
+  The administering authority shall take into account any advice provided by the Commission under subsection (e) before making a determination under this subparagraph.
 
 (2) **Exclusion from orders** — The administering authority may not exclude a later-developed merchandise from a countervailing or antidumping duty order merely because the merchandise—
 
@@ -16796,11 +17473,11 @@ Amendment by section 261(d)(1)(B)(iv) of Pub. L. 103–465 effective on the effe
 
 (1) **Notification to Commission of proposed action** — Before making a determination—
 
-  (A) under subsection (a) of this section with respect to merchandise completed or assembled in the United States (other than minor completion or assembly),
+  (A) under subsection (a) with respect to merchandise completed or assembled in the United States (other than minor completion or assembly),
 
-  (B) under subsection (b) of this section with respect to merchandise completed or assembled in other foreign countries, or
+  (B) under subsection (b) with respect to merchandise completed or assembled in other foreign countries, or
 
-  (C) under subsection (d) of this section with respect to any later-developed merchandise which incorporates a significant technological advance or significant alteration of an earlier product,
+  (C) under subsection (d) with respect to any later-developed merchandise which incorporates a significant technological advance or significant alteration of an earlier product,
   with respect to an antidumping or countervailing duty order or finding as to which the Commission has made an affirmative injury determination, the administering authority shall notify the Commission of the proposed inclusion of such merchandise in such countervailing or antidumping order or finding. Notwithstanding any other provision of law, a decision by the administering authority regarding whether any merchandise is within a category for which notice is required under this paragraph is not subject to judicial review.
 
 (2) **Request for consultation** — After receiving notice under paragraph (1), the Commission may request consultations with the administering authority regarding the inclusion. Upon the request of the Commission, the administering authority shall consult with the Commission and any such consultation shall be completed within 15 days after the date of the request.
@@ -16849,7 +17526,7 @@ Section applicable with respect to articles entered, or withdrawn from warehouse
   (A) such merchandise is being dumped in an Agreement country; and
 
   (B) such domestic industry is being materially injured, or threatened with material injury, by reason of such dumping;
-  submit a petition to the Trade Representative that alleges the elements referred to in subparagraphs (A) and (B) and requests the Trade Representative to take action under subsection (c) of this section on behalf of the domestic industry.
+  submit a petition to the Trade Representative that alleges the elements referred to in subparagraphs (A) and (B) and requests the Trade Representative to take action under subsection (c) on behalf of the domestic industry.
 
 (2) A petition submitted under paragraph (1) shall contain such detailed information as the Trade Representative may require in support of the allegations in the petition.
 
@@ -16859,9 +17536,9 @@ Section applicable with respect to articles entered, or withdrawn from warehouse
 
 (2) At the request of the Trade Representative, the appropriate officers of the Department of Commerce and the United States International Trade Commission shall assist the Trade Representative in preparing the application under paragraph (1).
 
-**(d) Consultation after submission of application** After submitting an application under subsection (c)(1) of this section, the Trade Representative shall seek consultations with the appropriate authority of the Agreement country regarding the request for antidumping action.
+**(d) Consultation after submission of application** After submitting an application under subsection (c)(1), the Trade Representative shall seek consultations with the appropriate authority of the Agreement country regarding the request for antidumping action.
 
-**(e) Action upon refusal of Agreement country to act** If the appropriate authority of an Agreement country refuses to undertake antidumping measures in response to a request made therefor by the Trade Representative under subsection (c) of this section, the Trade Representative shall promptly consult with the domestic industry on whether action under any other law of the United States is appropriate.
+**(e) Action upon refusal of Agreement country to act** If the appropriate authority of an Agreement country refuses to undertake antidumping measures in response to a request made therefor by the Trade Representative under subsection (c), the Trade Representative shall promptly consult with the domestic industry on whether action under any other law of the United States is appropriate.
 
 ### Statutory Notes
 
@@ -16878,28 +17555,43 @@ Pub. L. 103–465, title VI, § 621(b), Dec. 8, 1994, 108 Stat. 4993, provided t
 <a id="section-1677l"></a>
 ## § 1677l. Antidumping and countervailing duty collections
 
-The Commissioner of Customs shall before the 60th day of each fiscal year after fiscal year 1994 submit to Congress a report regarding the collection during the preceding fiscal year of duties imposed under the antidumping and countervailing duty laws.
+The Commissioner of U.S. Customs and Border Protection shall before the 60th day of each fiscal year after fiscal year 1994 submit to Congress a report regarding the collection during the preceding fiscal year of duties imposed under the antidumping and countervailing duty laws.
 
 ### Statutory Notes
 
 #### Codification
 Section was enacted as part of the North American Free Trade Agreement Implementation Act, and not as part of the Tariff Act of 1930 which comprises this chapter.
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in text on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-1677m"></a>
 ## § 1677m. Conduct of investigations and administrative reviews
-**(a) Treatment of voluntary responses in countervailing or antidumping duty investigations and reviews** In any investigation under part I or II of this subtitle or a review under [section 1675(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1675/a&num=0&edition=prelim) in which the administering authority has, under [section 1677f–1(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677f–1/c/2&num=0&edition=prelim) or [section 1677f–1(e)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677f–1/e/2/A&num=0&edition=prelim) (whichever is applicable), limited the number of exporters or producers examined, or determined a single country-wide rate, the administering authority shall establish an individual countervailable subsidy rate or an individual weighted average dumping margin for any exporter or producer not initially selected for individual examination under such sections who submits to the administering authority the information requested from exporters or producers selected for examination, if—
+**(a) Treatment of voluntary responses in countervailing or antidumping duty investigations and reviews**
 
-(1) such information is so submitted by the date specified—
+(1) **In general** — In any investigation under part I or II of this subtitle or a review under [section 1675(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1675/a&num=0&edition=prelim) in which the administering authority has, under [section 1677f–1(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677f–1/c/2&num=0&edition=prelim) or [section 1677f–1(e)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677f–1/e/2/A&num=0&edition=prelim) (whichever is applicable), limited the number of exporters or producers examined, or determined a single country-wide rate, the administering authority shall establish an individual countervailable subsidy rate or an individual weighted average dumping margin for any exporter or producer not initially selected for individual examination under such sections who submits to the administering authority the information requested from exporters or producers selected for examination, if—
 
-  (A) for exporters and producers that were initially selected for examination, or
+  (A) such information is so submitted by the date specified—
 
-  (B) for the foreign government, in a countervailing duty case where the administering authority has determined a single country-wide rate; and
+    (i) for exporters and producers that were initially selected for examination, or
 
-(2) the number of exporters or producers who have submitted such information is not so large that individual examination of such exporters or producers would be unduly burdensome and inhibit the timely completion of the investigation.
+    (ii) for the foreign government, in a countervailing duty case where the administering authority has determined a single country-wide rate; and
+
+  (B) the number of exporters or producers subject to the investigation or review is not so large that any additional individual examination of such exporters or producers would be unduly burdensome to the administering authority and inhibit the timely completion of the investigation or review.
+
+(2) **Determination of unduly burdensome** — In determining if an individual examination under paragraph (1)(B) would be unduly burdensome, the administering authority may consider the following:
+
+  (A) The complexity of the issues or information presented in the proceeding, including questionnaires and any responses thereto.
+
+  (B) Any prior experience of the administering authority in the same or similar proceeding.
+
+  (C) The total number of investigations under part I or II and reviews under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675) being conducted by the administering authority as of the date of the determination.
+
+  (D) Such other factors relating to the timely completion of each such investigation and review as the administering authority considers appropriate.
 
 **(b) Certification of submissions** Any person providing factual information to the administering authority or the Commission in connection with a proceeding under this subtitle on behalf of the petitioner or any other interested party shall certify that such information is accurate and complete to the best of that person’s knowledge.
 
@@ -16914,7 +17606,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 (1) the administering authority or the Commission (as the case may be) finds that such response is not satisfactory, or
 
 (2) such response is not submitted within the applicable time limits,
-then the administering authority or the Commission (as the case may be) may, subject to subsection (e) of this section, disregard all or part of the original and subsequent responses.
+then the administering authority or the Commission (as the case may be) may, subject to subsection (e), disregard all or part of the original and subsequent responses.
 
 **(e) Use of certain information** In reaching a determination under section 1671b, 1671d, 1673b, 1673d, 1675, or 1675b of this title the administering authority and the Commission shall not decline to consider information that is submitted by an interested party and is necessary to the determination but does not meet all the applicable requirements established by the administering authority or the Commission, if—
 
@@ -16952,6 +17644,9 @@ then the administering authority or the Commission (as the case may be) may, sub
 
 ### Statutory Notes
 
+#### Amendments
+2015—Subsec. (a). Pub. L. 114–27 designated existing provisions as par. (1) and inserted heading, redesignated former par. (1) and subpars. (A) and (B) as subpar. (A) and cls. (i) and (ii), respectively, added par. (2), and redesignated former par. (2) as subpar. (B) of par. (1) and amended it generally. Prior to amendment, subpar. (B) of par. (1) read as follows: “the number of exporters or producers who have submitted such information is not so large that individual examination of such exporters or producers would be unduly burdensome and inhibit the timely completion of the investigation.”
+
 #### Effective Date
 Section effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
@@ -16964,7 +17659,7 @@ Section effective, except as otherwise provided, on the date on which the WTO Ag
 
 (2) an industry in the petitioning country is materially injured by reason of those imports.
 
-**(b) Initiation** The Trade Representative, after consultation with the administering authority and the Commission and obtaining the approval of the WTO Council for Trade in Goods, shall determine whether to initiate an investigation described in subsection (a) of this section.
+**(b) Initiation** The Trade Representative, after consultation with the administering authority and the Commission and obtaining the approval of the WTO Council for Trade in Goods, shall determine whether to initiate an investigation described in subsection (a).
 
 **(c) Determinations** Upon initiation of an investigation under this section, the Trade Representative shall request the following determinations be made according to substantive and procedural requirements specified by the Trade Representative, notwithstanding any other provision of this subtitle:
 
@@ -16974,13 +17669,13 @@ Section effective, except as otherwise provided, on the date on which the WTO Ag
 
 **(d) Public comment** An opportunity for public comment shall be provided, as appropriate—
 
-(1) by the Trade Representative, in making the determination required by subsection (b) of this section, and
+(1) by the Trade Representative, in making the determination required by subsection (b), and
 
-(2) by the administering authority and the Commission, in making the determination required by subsection (c) of this section.
+(2) by the administering authority and the Commission, in making the determination required by subsection (c).
 
-**(e) Issuance of order** If the administering authority makes an affirmative determination under paragraph (1) of subsection (c) of this section, and the Commission makes an affirmative determination under paragraph (2) of subsection (c) of this section, the administering authority shall issue an antidumping duty order in accordance with [section 1673e of this title](./chapter-004-tariff-act-of-1930.md#section-1673e) and take such other actions as are required by [section 1673e of this title](./chapter-004-tariff-act-of-1930.md#section-1673e).
+**(e) Issuance of order** If the administering authority makes an affirmative determination under paragraph (1) of subsection (c), and the Commission makes an affirmative determination under paragraph (2) of subsection (c), the administering authority shall issue an antidumping duty order in accordance with [section 1673e of this title](./chapter-004-tariff-act-of-1930.md#section-1673e) and take such other actions as are required by [section 1673e of this title](./chapter-004-tariff-act-of-1930.md#section-1673e).
 
-**(f) Reviews of determinations** For purposes of review under [section 1516a of this title](./chapter-004-tariff-act-of-1930.md#section-1516a) or review under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675), if an order is issued under subsection (e) of this section, the final determinations of the administering authority and the Commission under this section shall be treated as final determinations made under [section 1673d of this title](./chapter-004-tariff-act-of-1930.md#section-1673d).
+**(f) Reviews of determinations** For purposes of review under [section 1516a of this title](./chapter-004-tariff-act-of-1930.md#section-1516a) or review under [section 1675 of this title](./chapter-004-tariff-act-of-1930.md#section-1675), if an order is issued under subsection (e), the final determinations of the administering authority and the Commission under this section shall be treated as final determinations made under [section 1673d of this title](./chapter-004-tariff-act-of-1930.md#section-1673d).
 
 **(g) Access to information** [Section 1677f of this title](./chapter-004-tariff-act-of-1930.md#section-1677f) shall apply to investigations under this section, to the extent specified by the Trade Representative, after consultation with the administering authority and the Commission.
 
@@ -17006,7 +17701,7 @@ In applying this subsection, an association of two or more foreign countries, po
 
 **(b) Determination of competitive benefit**
 
-(1) **In general** — Except as provided in paragraph (2), the administering authority shall decide that a competitive benefit has been bestowed when the price for the input product referred to in subsection (a)(1) of this section for such use is lower than the price that the manufacturer or producer of merchandise which is the subject of a countervailing duty proceeding would otherwise pay for the product in obtaining it from another seller in an arms-length transaction.
+(1) **In general** — Except as provided in paragraph (2), the administering authority shall decide that a competitive benefit has been bestowed when the price for the input product referred to in subsection (a)(1) for such use is lower than the price that the manufacturer or producer of merchandise which is the subject of a countervailing duty proceeding would otherwise pay for the product in obtaining it from another seller in an arms-length transaction.
 
 (2) **Adjustments** — If the administering authority has determined in a previous proceeding that a countervailable subsidy is paid or bestowed on the input product that is used for comparison under paragraph (1), the administering authority may (A) where appropriate, adjust the price that the manufacturer or producer of merchandise which is the subject of such proceeding would otherwise pay for the product to reflect the effects of the countervailable subsidy, or (B) select in lieu of that price a price from another source.
 
@@ -17094,7 +17789,7 @@ Pub. L. 106–476, title IV, § 4004(b), Nov. 9, 2000, 114 Stat. 2181, provided 
 
 <a id="section-1681a"></a>
 ## § 1681a. Requirements for entry of certain cigarettes and smokeless tobacco products
-**(a) General rule** Except as provided in subsection (b) of this section, cigarettes or smokeless tobacco products may be imported into the United States only if—
+**(a) General rule** Except as provided in subsection (b), cigarettes or smokeless tobacco products may be imported into the United States only if—
 
 (1) the original manufacturer of those cigarettes or smokeless tobacco products has timely submitted, or has certified that it will timely submit, to the Secretary of Health and Human Services the lists of the ingredients added to the tobacco in the manufacture of such cigarettes or smokeless tobacco products as described in [section 1335a of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1335a&num=0&edition=prelim) or [section 4403 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4403&num=0&edition=prelim), as the case may be;
 
@@ -17108,9 +17803,9 @@ Pub. L. 106–476, title IV, § 4004(b), Nov. 9, 2000, 114 Stat. 2181, provided 
 
 (4) if such cigarettes or smokeless tobacco products bear a United States trademark registered for such cigarettes or smokeless tobacco products, the owner of such United States trademark registration for cigarettes or smokeless tobacco products (or a person authorized to act on behalf of such owner) has consented to the importation of such cigarettes or smokeless tobacco products into the United States; and
 
-(5) the importer has submitted at the time of entry all of the certificates described in subsection (c) of this section.
+(5) the importer has submitted at the time of entry all of the certificates described in subsection (c).
 
-**(b) Exemptions** Cigarettes or smokeless tobacco products satisfying the conditions of any of the following paragraphs shall not be subject to the requirements of subsection (a) of this section:
+**(b) Exemptions** Cigarettes or smokeless tobacco products satisfying the conditions of any of the following paragraphs shall not be subject to the requirements of subsection (a):
 
 (1) **Personal-use cigarettes or smokeless tobacco products** — Cigarettes or smokeless tobacco products that are imported into the United States in personal use quantities that are allowed entry free of tax and duty under subchapter IV of chapter 98 of the Harmonized Tariff Schedule of the United States. The preceding sentence shall not apply to any cigarettes or smokeless tobacco products sold in connection with a delivery sale.
 
@@ -17120,10 +17815,10 @@ Pub. L. 106–476, title IV, § 4004(b), Nov. 9, 2000, 114 Stat. 2181, provided 
 
   (A) for which the owner of such United States trademark registration for cigarettes or smokeless tobacco products (or a person authorized to act on behalf of such owner) has consented to the importation of such cigarettes or smokeless tobacco products into the United States; and
 
-  (B) for which the importer submits a certificate signed by the manufacturer or export warehouse (or a person authorized by such manufacturer or export warehouse) to which such cigarettes or smokeless tobacco products are to be delivered (as provided in subparagraph (A)) stating, under penalties of perjury, with respect to those cigarettes or smokeless tobacco products, that it will not distribute those cigarettes or smokeless tobacco products into domestic commerce unless prior to such distribution all steps have been taken to comply with paragraphs (1), (2), and (3) of subsection (a) of this section, and, to the extent applicable, section 5754(a)(1)(B) and (C) of title 26.
+  (B) for which the importer submits a certificate signed by the manufacturer or export warehouse (or a person authorized by such manufacturer or export warehouse) to which such cigarettes or smokeless tobacco products are to be delivered (as provided in subparagraph (A)) stating, under penalties of perjury, with respect to those cigarettes or smokeless tobacco products, that it will not distribute those cigarettes or smokeless tobacco products into domestic commerce unless prior to such distribution all steps have been taken to comply with paragraphs (1), (2), and (3) of subsection (a), and, to the extent applicable, section 5754(a)(1)(B) and (C) of title 26.
 For purposes of this section, a trademark is registered in the United States if it is registered in the United States Patent and Trademark Office under the provisions of title I of the Act of July 5, 1946 [[15 U.S.C. 1051](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051&num=0&edition=prelim) et seq.] (popularly known as the “Trademark Act of 1946”), and a copy of the certificate of registration of such mark has been filed with the Secretary. The Secretary shall make available to interested parties a current list of the marks so filed.
 
-**(c) Customs certifications required for cigarette or smokeless tobacco product imports** The certificates that must be submitted by the importer of cigarettes or smokeless tobacco products at the time of entry in order to comply with subsection (a)(5) of this section are—
+**(c) Customs certifications required for cigarette or smokeless tobacco product imports** The certificates that must be submitted by the importer of cigarettes or smokeless tobacco products at the time of entry in order to comply with subsection (a)(5) are—
 
 (1) a certificate signed by the manufacturer of such cigarettes or smokeless tobacco products or an authorized official of such manufacturer stating under penalties of perjury, with respect to those cigarettes or smokeless tobacco products, that such manufacturer has timely submitted, and will continue to submit timely, to the Secretary of Health and Human Services the ingredient reporting information required by [section 1335a of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1335a&num=0&edition=prelim) or [section 4403 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4403&num=0&edition=prelim), as the case may be;
 

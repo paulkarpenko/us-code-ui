@@ -283,12 +283,12 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 <a id="section-4407"></a>
 ## § 4407. National emergencies
 
-The provisions of this chapter may not be construed to limit the authority of the President under the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.) or the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.).
+The provisions of this chapter may not be construed to limit the authority of the President under the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.) [now [50 U.S.C. 4301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4301&num=0&edition=prelim) et seq.] or the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.).
 
 ### Statutory Notes
 
 #### References in Text
-The Trading With the Enemy Act, referred to in text, is act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act, referred to in text, is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified to sections 1 to 6, 7 to 39 and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The International Emergency Economic Powers Act, referred to in text, is Pub. L. 95–223, title II, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 

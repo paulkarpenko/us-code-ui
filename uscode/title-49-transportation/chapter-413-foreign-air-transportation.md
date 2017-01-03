@@ -338,7 +338,7 @@ This amends 49:41309(b)(2)(B) for consistency in the subsection.
 1995—Subsec. (b)(2)(A). Pub. L. 104–88 substituted “a carrier” for “a common carrier”.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Air Transportation Arrangements in Certain States
 Pub. L. 107–71, title I, § 116, Nov. 19, 2001, 115 Stat. 624, which related to air transportation arrangements for flights that both originate and terminate at points within the same State, was repealed by Pub. L. 107–273, div. C, title IV, § 14102(g), Nov. 2, 2002, 116 Stat. 1922.

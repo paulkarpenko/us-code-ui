@@ -853,7 +853,7 @@ Subsec. (d). Pub. L. 101–73, § 205(3), added subsec. (d).
 1982—Subsec. (c). Pub. L. 97–320 added subsec. (c).
 
 #### Effective Date of 1992 Amendment
-Amendment by Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under [section 2062 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2062&num=0&edition=prelim), Appendix, War and National Defense.
+Amendment by Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under [section 4502 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4502&num=0&edition=prelim), War and National Defense.
 
 
 <a id="section-1815"></a>
@@ -1141,7 +1141,7 @@ Amendment by Pub. L. 109–171 effective no later than the first day of the firs
 Amendment by section 2704(d)(14)(B)–(E) of Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under [section 1821 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1821).
 
 #### Effective Date of 1992 Amendments
-Amendment by section 303(b)(6)(B) of Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under [section 2062 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2062&num=0&edition=prelim), Appendix, War and National Defense.
+Amendment by section 303(b)(6)(B) of Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under [section 4502 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4502&num=0&edition=prelim), War and National Defense.
 
 Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, except that where amendment is to any provision of law added or amended by Pub. L. 102–242 effective after Dec. 19, 1992, then amendment by Pub. L. 102–550 effective on effective date of amendment by Pub. L. 102–242, see section 1609 of Pub. L. 102–550, set out as a note under [section 191 of this title](./chapter-002-national-banks.md#section-191).
 
@@ -1153,10 +1153,8 @@ Pub. L. 102–242, title V, § 501(b), Dec. 19, 1991, 105 Stat. 2391, provided t
 #### Repeal of Duplicative Provisions
 Pub. L. 102–558, title III, § 305, Oct. 28, 1992, 106 Stat. 4226, provided that: “In the event of the enactment of H.R. 5334 (An Act to amend and extend certain laws relating to housing and community development, and for other purposes) [enacted as Pub. L. 102–550], the following provisions of that Act, and the amendments made by such provisions, are repealed, effective on the date of enactment of this Act [Oct. 28, 1992]: “(1) Section 1603(a)(3) of such Act [amending [section 1817 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1817) and enacting provisions set out as a note under [section 1817 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1817)]. “(2) Section 1604(a)(11) of such Act [amending [section 3104 of this title](./chapter-032-foreign-bank-participation-in-domestic-markets.md#section-3104)]. “(3) Paragraphs (1), (2), and (3) of section 1604(b) of such Act [amending sections 1817, 1834, and 1834a of this title]. “(3) [sic] Paragraphs (2) through (7) of section 1605(a) of such Act [amending sections 1815, 1817, 1818, 1820, 1834, and 1834a of this title and enacting provisions set out as notes under sections 1817, 1834, and 1834a of this title].”
 
-#### Moratorium on Treatment of Credit Card Banks, Industrial Loan Companies, and Certain Other Companies Under the Bank Holding Company Act of 1956.
-Pub. L. 111–203, title VI, § 603(a), July 21, 2010, 124 Stat. 1597, provided that: “(1) Definitions.—In this subsection—“(A) the term ‘credit card bank’ means an institution described in section 2(c)(2)(F) of the Bank Holding Company Act of 1956 ([12 U.S.C. 1841(c)(2)(F)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1841/c/2/F&num=0&edition=prelim)); “(B) the term ‘industrial bank’ means an institution described in section 2(c)(2)(H) of the Bank Holding Company Act of 1956 ([12 U.S.C. 1841(c)(2)(H)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1841/c/2/H&num=0&edition=prelim)); and “(C) the term ‘trust bank’ means an institution described in section 2(c)(2)(D) of the Bank Holding Company Act of 1956 ([12 U.S.C. 1841(c)(2)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1841/c/2/D&num=0&edition=prelim)). “(2) Moratorium on provision of deposit insurance.—The Corporation may not approve an application for deposit insurance under section 5 of the Federal Deposit Insurance Act ([12 U.S.C. 1815](./chapter-016-federal-deposit-insurance-corporation.md#section-1815)) that is received after November 23, 2009, for an industrial bank, a credit card bank, or a trust bank that is directly or indirectly owned or controlled by a commercial firm. “(3) Change in control.—“(A) In general.—Except as provided in subparagraph (B), the appropriate Federal banking agency shall disapprove a change in control, as provided in section 7(j) of the Federal Deposit Insurance Act ([12 U.S.C. 1817(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1817/j&num=0&edition=prelim)), of an industrial bank, a credit card bank, or a trust bank if the change in control would result in direct or indirect control of the industrial bank, credit card bank, or trust bank by a commercial firm. “(B) Exceptions.—Subparagraph (A) shall not apply to a change in control of an industrial bank, credit card bank, or trust bank—“(i) that—“(I) is in danger of default, as determined by the appropriate Federal banking agency; “(II) results from the merger or whole acquisition of a commercial firm that directly or indirectly controls the industrial bank, credit card bank, or trust bank in a bona fide merger with or acquisition by another commercial firm, as determined by the appropriate Federal banking agency; or “(III) results from an acquisition of voting shares of a publicly traded company that controls an industrial bank, credit card bank, or trust bank, if, after the acquisition, the acquiring shareholder (or group of shareholders acting in concert) holds less than 25 percent of any class of the voting shares of the company; and “(ii) that has obtained all regulatory approvals otherwise required for such change of control under any applicable Federal or State law, including section 7(j) of the Federal Deposit Insurance Act ([12 U.S.C. 1817(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1817/j&num=0&edition=prelim)). “(4) Sunset.—This subsection shall cease to have effect 3 years after the date of enactment of this Act [July 21, 2010].”
-
-[For definitions of terms used in section 603(a) of Pub. L. 111–203, set out above, see [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).]
+#### Moratorium on Treatment of Credit Card Banks, Industrial Loan Companies, and Certain Other Companies Under the Bank Holding Company Act of 1956
+Pub. L. 111–203, title VI, § 603(a), July 21, 2010, 124 Stat. 1597, provided that, effective until 3 years after July 21, 2010, the Federal Deposit Insurance Corporation would not approve an application for deposit insurance received after Nov. 23, 2009, for an industrial bank, a credit card bank, or a trust bank owned by a commercial firm and would disapprove, with certain exceptions, a change in control of such a bank that would result in control of the industrial bank, credit card bank, or trust bank by a commercial firm.
 
 #### Deposit of Funds Into Deposit Insurance Fund
 Pub. L. 109–173, § 8(a)(4), Feb. 15, 2006, 119 Stat. 3610, provided in part that: “any funds resulting from the application of such paragraph (2) [of subsec. (d) of this section] prior to its repeal [see 2006 Amendment note above] shall be deposited into the general fund of the Deposit Insurance Fund”.
@@ -2347,7 +2345,7 @@ Pub. L. 102–558, title III, § 303(b)(7), Oct. 28, 1992, 106 Stat. 4225, provi
 
 Pub. L. 102–558, title III, § 303(b)(8), Oct. 28, 1992, 106 Stat. 4225, provided that the amendment made by that section is effective on the effective date of the amendment made by section 302(e)(4) of Pub. L. 102–242. See Effective Date of 1991 Amendment note below.
 
-Amendment by section 303(a), (b)(1), (3), (6)(A) of Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under [section 2062 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2062&num=0&edition=prelim), Appendix, War and National Defense.
+Amendment by section 303(a), (b)(1), (3), (6)(A) of Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under [section 4502 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4502&num=0&edition=prelim), War and National Defense.
 
 Pub. L. 102–550, title XVI, §§ 1603(a)(3), 1605(a)(6), Oct. 28, 1992, 106 Stat. 4078, 4085, which provided effective date provisions for the amendments made by those sections, were repealed, effective Oct. 28, 1992, by section 305 of Pub. L. 102–558, set out as a Repeal of Duplicative Provisions note under [section 1815 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1815).
 
@@ -3463,7 +3461,7 @@ Amendment by section 3(a)(6), (7) of Pub. L. 109–173 effective Jan. 1, 2007, s
 Amendment by section 8(a)(10) of Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813).
 
 #### Effective Date of 1992 Amendments
-Amendment by section 303(b)(6)(A) of Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under [section 2062 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2062&num=0&edition=prelim), Appendix, War and National Defense.
+Amendment by section 303(b)(6)(A) of Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under [section 4502 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4502&num=0&edition=prelim), War and National Defense.
 
 Amendment by sections 1603(d)(2)–(4) and 1605(a)(5)(A), (11) of Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, except that where amendment is to any provision of law added or amended by Pub. L. 102–242 effective after Dec. 19, 1992, then amendment by Pub. L. 102–550 effective on effective date of amendment by Pub. L. 102–242, see section 1609 of Pub. L. 102–550, set out as a note under [section 191 of this title](./chapter-002-national-banks.md#section-191).
 
@@ -3628,7 +3626,7 @@ Nothing contained in section 205 of Pub. L. 89–695 amending subsec. Fourth of 
 
 (4) **18-month rule for certain small institutions** — Paragraphs (1), (2), and (3) shall apply with “18-month” substituted for “12-month” if—
 
-  (A) the insured depository institution has total assets of less than $500,000,000;
+  (A) the insured depository institution has total assets of less than $1,000,000,000;
 
   (B) the institution is well capitalized, as defined in section 1831o of this title;
 
@@ -3636,7 +3634,7 @@ Nothing contained in section 205 of Pub. L. 89–695 amending subsec. Fourth of 
 
     (i) was found to be outstanding; or
 
-    (ii) was found to be outstanding or good, in the case of an insured depository institution that has total assets of not more than $100,000,000;
+    (ii) was found to be outstanding or good, in the case of an insured depository institution that has total assets of not more than $200,000,000;
 
   (D) the insured institution is not currently subject to a formal enforcement proceeding or order by the Corporation or the appropriate Federal banking agency; and
 
@@ -3672,7 +3670,7 @@ Nothing contained in section 205 of Pub. L. 89–695 amending subsec. Fourth of 
 
 (9) **Standards for determining adequacy of State examinations** — The Federal Financial Institutions Examination Council shall issue guidelines establishing standards to be used at the discretion of the appropriate Federal banking agency for purposes of making a determination under paragraph (3).
 
-(10) **Agencies authorized to increase maximum asset amount of institutions for certain purposes** — At any time after the end of the 2-year period beginning on September 23, 1994, the appropriate Federal banking agency, in the agency’s discretion, may increase the maximum amount limitation contained in paragraph (4)(C)(ii), by regulation, from $100,000,000 to an amount not to exceed $500,000,000 for purposes of such paragraph, if the agency determines that the greater amount would be consistent with the principles of safety and soundness for insured depository institutions.
+(10) **Agencies authorized to increase maximum asset amount of institutions for certain purposes** — At any time after the end of the 2-year period beginning on September 23, 1994, the appropriate Federal banking agency, in the agency’s discretion, may increase the maximum amount limitation contained in paragraph (4)(C)(ii), by regulation, from $200,000,000 to an amount not to exceed $1,000,000,000 for purposes of such paragraph, if the agency determines that the greater amount would be consistent with the principles of safety and soundness for insured depository institutions.
 
 **(e) Examination fees**
 
@@ -3865,6 +3863,12 @@ Title II of that Act, referred to in subsec. (b)(3)(A), probably means title II 
 Subsecs. (a), (b), [former] (e), and [former] (f) are derived from subsec. (k) of former [section 264 of this title](./chapter-003-federal-reserve-system.md#section-264). See Codification note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811).
 
 #### Amendments
+2015—Subsec. (d)(4)(A). Pub. L. 114–94, § 83001(1)(A), substituted “$1,000,000,000” for “$500,000,000”.
+
+Subsec. (d)(4)(C)(ii). Pub. L. 114–94, § 83001(1)(B), substituted “$200,000,000” for “$100,000,000”.
+
+Subsec. (d)(10). Pub. L. 114–94, § 83001(2), substituted “$200,000,000” for “$100,000,000” and “$1,000,000,000” for “$500,000,000”.
+
 2010—Subsec. (b)(3). Pub. L. 111–203, § 172(a)(2), which directed substitution of “or nonbank financial company supervised by the Board of Governors or a bank holding company described in section 165(a) of the Financial Stability Act of 2010, whenever the Board of Directors determines that a special examination of any such depository institution is necessary to determine the condition of such depository institution for insurance purposes, or of such nonbank financial company supervised by the Board of Governors or bank holding company described in section 165(a) of the Financial Stability Act of 2010, for the purpose of implementing its authority to provide for orderly liquidation of any such company under title II of that Act, provided that such authority may not be used with respect to any such company that is in a generally sound condition.
 
 “(B) Limitation.—Before conducting a special examination of a nonbank financial company supervised by the Board of Governors or a bank holding company described in section 165(a) of the Financial Stability Act of 2010, the Corporation shall review any available and acceptable resolution plan that the company has submitted in accordance with section 165(d) of that Act, consistent with the nonbinding effect of such plan, and available reports of examination, and shall coordinate to the maximum extent practicable with the Board of Governors, in order to minimize duplicative or conflicting examinations.”
@@ -4001,7 +4005,7 @@ Amendment by Pub. L. 108–458 effective at the end of the 12-month period begin
 Amendment by Pub. L. 108–386 effective Oct. 30, 2004, and, except as otherwise provided, applicable with respect to fiscal year 2005 and each succeeding fiscal year, see sections 8(i) and 9 of Pub. L. 108–386, set out as notes under [section 321 of this title](./chapter-003-federal-reserve-system.md#section-321).
 
 #### Effective Date of 1992 Amendments
-Amendment by section 303(b)(5) of Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under [section 2062 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2062&num=0&edition=prelim), Appendix, War and National Defense.
+Amendment by section 303(b)(5) of Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under [section 4502 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4502&num=0&edition=prelim), War and National Defense.
 
 Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, except that where amendment is to any provision of law added or amended by Pub. L. 102–242 effective after Dec. 19, 1992, then amendment by Pub. L. 102–550 effective on effective date of amendment by Pub. L. 102–242, see section 1609 of Pub. L. 102–550, set out as a note under [section 191 of this title](./chapter-002-national-banks.md#section-191).
 
@@ -10993,17 +10997,26 @@ Pub. L. 102–242, title I, § 131(e), Dec. 19, 1991, 105 Stat. 2267, provided t
 
 **(b) Other companies** If an insured depository institution is not the subsidiary of a bank holding company or savings and loan holding company, the appropriate Federal banking agency for the insured depository institution shall require any company that directly or indirectly controls the insured depository institution to serve as a source of financial strength for such institution.
 
-**(c) Reports** The appropriate Federal banking agency for an insured depository institution described in subsection (b) may, from time to time, require the company, or a company that directly or indirectly controls the insured depository institution, to submit a report, under oath, for the purposes of—
+**(c) Authority of State insurance regulator**
+
+(1) **In general** — The provisions of [section 1844(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1844/g&num=0&edition=prelim) shall apply to a savings and loan holding company that is an insurance company, an affiliate of an insured depository institution that is an insurance company, and to any other company that is an insurance company and that directly or indirectly controls an insured depository institution, to the same extent as the provisions of that section apply to a bank holding company that is an insurance company.
+
+(2) **Rule of construction** — Requiring a bank holding company that is an insurance company, a savings and loan holding company that is an insurance company, an affiliate of an insured depository institution that is an insurance company, or any other company that is an insurance company and that directly or indirectly controls an insured depository institution to serve as a source of financial strength under this section shall be deemed an action of the Board that requires a bank holding company to provide funds or other assets to a subsidiary depository institution for purposes of [section 1844(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1844/g&num=0&edition=prelim).
+
+**(d) Reports** The appropriate Federal banking agency for an insured depository institution described in subsection (b) may, from time to time, require the company, or a company that directly or indirectly controls the insured depository institution, to submit a report, under oath, for the purposes of—
 
 (1) assessing the ability of such company to comply with the requirement under subsection (b); and
 
 (2) enforcing the compliance of such company with the requirement under subsection (b).
 
-**(d) Rules** Not later than 1 year after the transfer date, as defined in [section 5411 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5411), the appropriate Federal banking agencies shall jointly issue final rules to carry out this section.
+**(e) Rules** Not later than 1 year after the transfer date, as defined in [section 5411 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5411), the appropriate Federal banking agencies shall jointly issue final rules to carry out this section.
 
-**(e) Definition** In this section, the term “source of financial strength” means the ability of a company that directly or indirectly owns or controls an insured depository institution to provide financial assistance to such insured depository institution in the event of the financial distress of the insured depository institution.
+**(f) Definition** In this section, the term “source of financial strength” means the ability of a company that directly or indirectly owns or controls an insured depository institution to provide financial assistance to such insured depository institution in the event of the financial distress of the insured depository institution.
 
 ### Statutory Notes
+
+#### Amendments
+2015—Subsecs. (c) to (f). Pub. L. 114–113 added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
 #### Effective Date
 Section effective on the transfer date, see section 616(e) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under [section 1467a of this title](./chapter-012-savings-associations.md#section-1467a).
@@ -11585,9 +11598,7 @@ Subsec. (p)(7)(B). Pub. L. 102–550 amended subpar. (B) generally. Prior to ame
 Pub. L. 102–389 added subpar. (B) and struck out former subpar. (B) which read as follows: “that has an appraised value that does not exceed the applicable dollar amount set forth in the first sentence of section 203(b)(2) of the National Housing Act (which may, in the discretion of the Corporation, take into consideration any increase of such amount for high-cost areas).”
 
 #### Affordable Housing Advisory Board
-Pub. L. 103–204, § 14(b), Dec. 17, 1993, 107 Stat. 2393, as amended by Pub. L. 105–216, § 14(e), (f), July 29, 1998, 112 Stat. 910, provided that: “(1) Establishment.—There is hereby established the Affordable Housing Advisory Board (in this subsection referred to as the ‘Advisory Board’) to advise the Thrift Depositor Protection Oversight Board and the Board of Directors of the Federal Deposit Insurance Corporation on policies and programs related to the provision of affordable housing, including the operation of the affordable programs. “(2) Membership.—The Advisory Board shall consist of—“(A) the Secretary of Housing and Urban Development; “(B) the Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation (or the Chairperson’s delegate), who shall be a nonvoting member; “(C) 4 persons appointed by the Secretary of Housing and Urban Development not later than the expiration of the 90-day period beginning on the date of the enactment of this Act [Dec. 17, 1993], who represent the interests of individuals and organizations involved in using the affordable housing programs (including nonprofit organizations, public agencies, and for-profit organizations that purchase properties under the affordable housing programs, organizations that provide technical assistance regarding the affordable housing programs, and organizations that represent the interest of low- and moderate-income families); and “(D) 2 persons who are members of the National Housing Advisory Board pursuant to section 21A(d)(2)(B)(ii) of the Federal Home Loan Bank Act [[12 U.S.C. 1441a(d)(2)(B)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1441a/d/2/B/ii&num=0&edition=prelim)] (as in effect before the effective date of the repeal under subsection (c)(2) [90 days after Dec. 17, 1993]), who shall be appointed by such Board before such effective date. “(3) Terms.—Each member shall be appointed for a term of 4 years, except as provided in paragraphs (4) and (5). “(4) Terms of initial appointees.—“(A) Permanent positions.—As designated by the Secretary of Housing and Urban Development at the time of appointment, of the members first appointed under paragraph (2)(D)—“(i) 1 shall be appointed for a term of 1 year; “(ii) 1 shall be appointed for a term of 2 years; “(iii) 1 shall be appointed for a term of 3 years; and “(iv) 1 shall be appointed for a term of 4 years. “(B) Interim members.—The members of the Advisory Board under paragraph (2)(E) shall be appointed for a single term of 4 years, which shall begin upon the earlier of (i) the expiration of the 90-day period beginning on the date of the enactment of this Act [Dec. 17, 1993], or (ii) the first meeting of the Advisory Board. “(5) Vacancies.—Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member’s term until a successor has taken office. A vacancy in the Commission shall be filled in the manner in which the original appointment was made. “(6) Meetings.—“(A) Timing.—The Advisory Board shall meet 2 times a year or at the request of the Board of Directors of the Federal Deposit Insurance Corporation. The first meeting of the Advisory Board shall take place not later than the expiration of the 90-day period beginning on the date of the enactment of this Act [Dec. 17, 1993]. “(B) Advice.—The Advisory Board shall submit information and advice resulting from each meeting, in such form as the Board considers appropriate, to the Thrift Depositor Protection Oversight Board and the Board of Directors of the Federal Deposit Insurance Corporation. “(7) Annual reports.—For each year, the Advisory Board shall submit a report containing its findings and recommendations to the Committee on Banking, Housing, and Urban affairs [sic] of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, the Federal Deposit Insurance Corporation, and the Resolution Trust Corporation. The first such report shall be made not later than the expiration of the 6-month period beginning on the date of the enactment of this Act [Dec. 17, 1993]. “(8) Definition.—For purposes of this subsection, the term ‘affordable housing programs’ means the program under [former] section 21A(c) of the Federal Home Loan Bank Act [[12 U.S.C. 1441a(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1441a/c&num=0&edition=prelim)] and the program under section 40 of the Federal Deposit Insurance Act [[12 U.S.C. 1831q](./chapter-016-federal-deposit-insurance-corporation.md#section-1831q)]. “(9) Sunset.—The Advisory Board established under this subsection shall terminate on September 30, 1998.”
-
-[Pub. L. 105–216, § 14(e), July 29, 1998, 112 Stat. 910, provided that the amendment made by section 14(e) to section 14(b)(2) of Pub. L. 103–204, set out above, is effective July 29, 1998.]
+Pub. L. 103–204, § 14(b), Dec. 17, 1993, 107 Stat. 2393, as amended by Pub. L. 105–216, § 14(e), (f), July 29, 1998, 112 Stat. 910, established the Affordable Housing Advisory Board to advise the Thrift Depositor Protection Oversight Board and the Federal Deposit Insurance Corporation Board of Directors on policies and programs related to the provision of affordable housing and provided that the Advisory Board would terminate on Sept. 30, 1998.
 
 #### Coordination and Consultation Between Federal Deposit Insurance Corporation and Resolution Trust Corporation Under Affordable Housing Programs
 Pub. L. 102–242, title II, § 241(b), Dec. 19, 1991, 105 Stat. 2331, as amended by Pub. L. 102–550, title XVI, § 1604(c)(1), Oct. 28, 1992, 106 Stat. 4083, provided that: “The Federal Deposit Insurance Corporation and the Resolution Trust Corporation shall consult and coordinate with each other in carrying out their respective responsibilities under the affordable housing programs under section 40 of the Federal Deposit Insurance Act [[12 U.S.C. 1831q](./chapter-016-federal-deposit-insurance-corporation.md#section-1831q)] and [former] section 21A(c) of the Federal Home Loan Bank Act [[12 U.S.C. 1441a(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1441a/c&num=0&edition=prelim)]. Such corporations shall develop any procedures, and may enter into any agreements, necessary to provide for the coordinated, efficient, and effective operation of such programs.”
@@ -11713,9 +11724,11 @@ Section, act Sept. 21, 1950, ch. 967, § 2[39], as added Dec. 19, 1991, Pub. L. 
 
   (A) *Private deposit insurer* — The private deposit insurer shall provide a copy of the audit report—
 
-    (i) to each depository institution the deposits of which are insured by the private deposit insurer, not later than 14 days after the audit is completed; and
+    (i) to each depository institution the deposits of which are insured by the private deposit insurer, not later than 14 days after the audit is completed;
 
-    (ii) to the appropriate supervisory agency of each State in which such an institution receives deposits, not later than 7 days after the audit is completed.
+    (ii) to the appropriate supervisory agency of each State in which such an institution receives deposits, not later than 7 days after the audit is completed; and
+
+    (iii) in the case of depository institutions described in subsection (e)(2)(A) the deposits of which are insured by the private insurer which are members of a Federal home loan bank, to the Federal Housing Finance Agency, not later than 7 days after the audit is completed.
 
   (B) *Depository institution* — Any depository institution the deposits of which are insured by the private deposit insurer shall provide a copy of the audit report, upon request, to any current or prospective customer of the institution.
 
@@ -11825,6 +11838,8 @@ The Consumer Financial Protection Act of 2010, referred to in subsec. (f)(1), is
 The Federal Trade Commission Act, referred to in subsec. (f)(1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (a)(2)(A)(iii). Pub. L. 114–94 added cl. (iii).
+
 2010—Subsecs. (c), (d), (e)(2)(B). Pub. L. 111–203, § 1090(2)(A)–(C)(i), substituted “Bureau” for “Federal Trade Commission”.
 
 Subsec. (e)(5). Pub. L. 111–203, § 1090(2)(C)(ii), added par. (5).
@@ -13129,7 +13144,7 @@ Subsec. (b)(4). Pub. L. 102–550, § 931(e), amended par. (4) generally. Prior 
 Subsec. (e)(2). Pub. L. 102–558, § 303(b)(9)(C), substituted “of the semiannual assessment to which such credit is applicable” for “made for purposes of the notification required under [section 1817(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1817/d/1/B&num=0&edition=prelim)”. Pub. L. 102–550, § 1605(a)(7)(C), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, § 305, set out as a Repeal of Duplicative Provisions note under [section 1815 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1815).
 
 #### Effective Date of 1992 Amendment
-Amendment by section 303(b)(2) of Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under [section 2062 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2062&num=0&edition=prelim), Appendix, War and National Defense.
+Amendment by section 303(b)(2) of Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under [section 4502 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4502&num=0&edition=prelim), War and National Defense.
 
 Pub. L. 102–558, title III, § 303(b)(9), Oct. 28, 1992, 106 Stat. 4226, provided that the amendment made by that section is effective on the effective date of the amendment made by section 302(e)(4) of Pub. L. 102–242 [see section 302(g) of Pub. L. 102–242, set out as a note under [section 1817 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1817)].
 

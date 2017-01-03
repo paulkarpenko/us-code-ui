@@ -67,7 +67,7 @@ Pub. L. 97–290, title I, § 101, Oct. 8, 1982, 96 Stat. 1233, provided that: �
 
 (7) the term “antitrust laws” means the antitrust laws as defined in [section 12(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12/a&num=0&edition=prelim), [section 45 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-45) to the extent that [section 45 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-45) applies to unfair methods of competition, and any State antitrust or unfair competition law.
 
-**(b)** The Secretary of Commerce may by regulation further define any term defined in subsection (a) of this section, in order to carry out this subchapter.
+**(b)** The Secretary of Commerce may by regulation further define any term defined in subsection (a), in order to carry out this subchapter.
 
 ### Statutory Notes
 
@@ -113,9 +113,9 @@ Pub. L. 99–83, title XIII, § 1304, Aug. 8, 1985, 99 Stat. 282, provided for e
 
 **(b) Publication of notice of application; transmittal to Attorney General**
 
-(1) Within ten days after an application submitted under subsection (a) of this section is received by the Secretary, the Secretary shall publish in the Federal Register a notice that announces that an application for a certificate of review has been submitted, identifies each person submitting the application, and describes the conduct for which the application is submitted.
+(1) Within ten days after an application submitted under subsection (a) is received by the Secretary, the Secretary shall publish in the Federal Register a notice that announces that an application for a certificate of review has been submitted, identifies each person submitting the application, and describes the conduct for which the application is submitted.
 
-(2) Not later than seven days after an application submitted under subsection (a) of this section is received by the Secretary, the Secretary shall transmit to the Attorney General—
+(2) Not later than seven days after an application submitted under subsection (a) is received by the Secretary, the Secretary shall transmit to the Attorney General—
 
   (A) a copy of the application,
 
@@ -141,13 +141,13 @@ Section effective 90 days after effective date of rules and regulations first pr
 
 (4) not include any act that may reasonably be expected to result in the sale for consumption or resale within the United States of the goods, wares, merchandise, or services exported by the applicant.
 
-**(b) Time for determination; specification in certificate** Within ninety days after the Secretary receives an application for a certificate of review, the Secretary shall determine whether the applicant’s export trade, export trade activities, and methods of operation meet the standards of subsection (a) of this section. If the Secretary, with the concurrence of the Attorney General, determines that such standards are met, the Secretary shall issue to the applicant a certificate of review. The certificate of review shall specify—
+**(b) Time for determination; specification in certificate** Within ninety days after the Secretary receives an application for a certificate of review, the Secretary shall determine whether the applicant’s export trade, export trade activities, and methods of operation meet the standards of subsection (a). If the Secretary, with the concurrence of the Attorney General, determines that such standards are met, the Secretary shall issue to the applicant a certificate of review. The certificate of review shall specify—
 
 (1) the export trade, export trade activities, and methods of operation to which the certificate applies,
 
 (2) the person to whom the certificate of review is issued, and
 
-(3) any terms and conditions the Secretary or the Attorney General deems necessary to assure compliance with the standards of subsection (a) of this section.
+(3) any terms and conditions the Secretary or the Attorney General deems necessary to assure compliance with the standards of subsection (a).
 
 **(c) Expedited action** If the applicant indicates a special need for prompt disposition, the Secretary and the Attorney General may expedite action on the application, except that no certificate of review may be issued within thirty days of publication of notice in the Federal Register under [section 4012(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4012/b/1&num=0&edition=prelim).
 
@@ -197,7 +197,7 @@ Section effective Oct. 8, 1982, see section 312 of Pub. L. 97–290, set out as 
 ## § 4015. Judicial review; admissibility
 **(a) District court review of grants or denials; erroneous determination** If the Secretary grants or denies, in whole or in part, an application for a certificate of review or for an amendment to a certificate, or revokes or modifies a certificate pursuant to [section 4014(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4014/b&num=0&edition=prelim), any person aggrieved by such determination may, within 30 days of the determination, bring an action in any appropriate district court of the United States to set aside the determination on the ground that such determination is erroneous.
 
-**(b) Exclusive provision for review** Except as provided in subsection (a) of this section, no action by the Secretary or the Attorney General pursuant to this subchapter shall be subject to judicial review.
+**(b) Exclusive provision for review** Except as provided in subsection (a), no action by the Secretary or the Attorney General pursuant to this subchapter shall be subject to judicial review.
 
 **(c) Inadmissibility in antitrust proceedings** If the Secretary denies, in whole or in part, an application for a certificate of review or for an amendment to a certificate, or revokes or amends a certificate, neither the negative determination nor the statement of reasons therefor shall be admissible in evidence, in any administrative or judicial proceeding, in support of any claim under the antitrust laws.
 
@@ -209,7 +209,7 @@ Section effective Oct. 8, 1982, see section 312 of Pub. L. 97–290, set out as 
 
 <a id="section-4016"></a>
 ## § 4016. Protection conferred by certificate of review
-**(a) Protection from civil or criminal antitrust actions** Except as provided in subsection (b) of this section, no criminal or civil action may be brought under the antitrust laws against a person to whom a certificate of review is issued which is based on conduct which is specified in, and complies with the terms of, a certificate issued under [section 4013 of this title](./chapter-066-promotion-of-export-trade.md#section-4013) which certificate was in effect when the conduct occurred.
+**(a) Protection from civil or criminal antitrust actions** Except as provided in subsection (b), no criminal or civil action may be brought under the antitrust laws against a person to whom a certificate of review is issued which is based on conduct which is specified in, and complies with the terms of, a certificate issued under [section 4013 of this title](./chapter-066-promotion-of-export-trade.md#section-4013) which certificate was in effect when the conduct occurred.
 
 **(b) Special restraint of trade civil actions; time limitations; certificate governed conduct presumed in compliance; award of costs to successful defendant; suit by Attorney General**
 
@@ -237,7 +237,7 @@ Section effective Oct. 8, 1982, see section 312 of Pub. L. 97–290, set out as 
 
 (2) summarizing the factual and legal bases in support of the determinations.
 
-**(b) Administrative rulemaking requirements not applicable** [Section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) shall not apply to the issuance of guidelines under subsection (a) of this section.
+**(b) Administrative rulemaking requirements not applicable** [Section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) shall not apply to the issuance of guidelines under subsection (a).
 
 ### Statutory Notes
 
@@ -339,7 +339,7 @@ Section effective Oct. 8, 1982, see section 312 of Pub. L. 97–290, set out as 
 
 (2) the amount of all such obligations and expenditures does not exceed an amount previously prescribed by law enacted on or after such date.
 
-**(b) Exception for later legislation authorizing obligations or expenditures** To the extent that legislation enacted after the making of an appropriation to carry out any export promotion program authorizes the obligation or expenditure thereof, the limitation contained in subsection (a) of this section shall have no effect.
+**(b) Exception for later legislation authorizing obligations or expenditures** To the extent that legislation enacted after the making of an appropriation to carry out any export promotion program authorizes the obligation or expenditure thereof, the limitation contained in subsection (a) shall have no effect.
 
 **(c) Provisions must be specifically superseded** The provisions of this section shall not be superseded except by a provision of law enacted after July 12, 1985, which specifically repeals, modifies, or supersedes the provisions of this section.
 
@@ -414,9 +414,9 @@ Section was enacted as part of the Export Administration Amendments Act of 1985,
 
 (2) to purchase petroleum and petroleum products, and other materials vital to the national interest, which are produced abroad and acquired by persons in the United States through barter for agricultural commodities produced in and exported from the United States through normal commercial trade channels.
 
-**(c) Other provisions of law not affected** In the case of any petroleum, petroleum products, or other materials vital to the national interest, which are acquired under subsection (b) of this section, nothing in this section shall be construed to render inapplicable the provisions of any law then in effect which apply to the storage, distribution, or use of such petroleum, petroleum products, or other materials vital to the national interest.
+**(c) Other provisions of law not affected** In the case of any petroleum, petroleum products, or other materials vital to the national interest, which are acquired under subsection (b), nothing in this section shall be construed to render inapplicable the provisions of any law then in effect which apply to the storage, distribution, or use of such petroleum, petroleum products, or other materials vital to the national interest.
 
-**(d) Conventional markets not to be displaced by barters** The President shall take steps to ensure that, in making any barter described in subsection (a) or (b)(1) of this section or any purchase authorized by subsection (b)(2) of this section, existing export markets for agricultural commodities operating on conventional business terms are safeguarded from displacement by the barter described in subsection (a), (b)(1), or (b)(2) of this section, as the case may be. In addition, the President shall ensure that any such barter is consistent with the international obligations of the United States, including the General Agreement on Tariffs and Trade.
+**(d) Conventional markets not to be displaced by barters** The President shall take steps to ensure that, in making any barter described in subsection (a) or (b)(1) or any purchase authorized by subsection (b)(2), existing export markets for agricultural commodities operating on conventional business terms are safeguarded from displacement by the barter described in subsection (a), (b)(1), or (b)(2), as the case may be. In addition, the President shall ensure that any such barter is consistent with the international obligations of the United States, including the General Agreement on Tariffs and Trade.
 
 **(e) Report to Congress** The Secretary of Energy shall report to the Congress on the effect on energy security and on domestic energy supplies of any action taken under this section which results in the acquisition by the Government of petroleum or petroleum products. Such report shall be submitted to the Congress not later than 90 days after such acquisition.
 

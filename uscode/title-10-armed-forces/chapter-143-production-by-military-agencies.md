@@ -16,6 +16,8 @@ source: >-
 
 **(d)** A plantation or farm covered by subsection (a) shall be operated, maintained, and improved by a private contractor or lessee, so far as practicable. Before using members of the Army, Navy, Air Force, or Marine Corps, as the case may be, the Secretary concerned must make a reasonable effort to make a contract or lease with a person in civil life for his services for that operation, maintenance, or improvement, on terms advantageous to the United States. A determination by the Secretary as to the reasonableness of effort to make a contract or lease, and as to the advantageous nature of its terms, is final.
 
+**(e) Sunset.—** The authority under this section shall terminate on September 30, 2018.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -36,6 +38,9 @@ In subsection (b), the words “of the United States” are omitted as surplusag
 In subsection (c), the words “nationals of the United States” are substituted for the words “American nationals”. The words “civil-service laws and other * * * of the United States” and “rights * * * or obligations” are omitted as surplusage.
 
 In subsection (d), the words “after the termination of the present war” are omitted as executed. The word “by” is substituted for the words “through the instrumentality of”. The words “partnership, association” are omitted as covered by the definition of “person” in [section 1 of title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section1&num=0&edition=prelim). The words “United States” are substituted for the word “Government”. The words “management”, “for that purpose”, and “or agreement” are omitted as surplusage.
+
+#### Amendments
+2016—Subsec. (e). Pub. L. 114–328 added subsec. (e).
 
 
 <a id="section-2422"></a>

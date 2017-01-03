@@ -292,6 +292,9 @@ Amendment by section 711 of Pub. L. 107–107 effective as if included in the en
 #### Effective Date
 Section effective Oct. 1, 2002, see section 1 [[div. A], title VII, § 713(b)(1)] of Pub. L. 106–398, set out as a note under [section 1113 of this title](./chapter-056-department-of-defense-medicare-eligible-retiree-health-care-fund.md#section-1113).
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (d) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
 #### Inapplicability to Indian Health Service
 Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in part: “That heretofore and hereafter the provisions of [10 U.S.C. 1116](./chapter-056-department-of-defense-medicare-eligible-retiree-health-care-fund.md#section-1116) shall not apply to the Indian Health Service”.
 

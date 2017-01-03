@@ -2,7 +2,7 @@
 title: 10
 chapter: '71'
 heading: COMPUTATION OF RETIRED PAY
-section_count: 18
+section_count: 19
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -13,6 +13,17 @@ source: >-
 **(b) Use of Most Favorable Formula.—** If a person would otherwise be entitled to retired pay computed under more than one formula of the table in subsection (a) or of any other provision of law, the person is entitled to be paid under the applicable formula that is most favorable to him.
 
 ### Statutory Notes
+
+#### Amendment of Subsection (a)
+Pub. L. 114–92, div. A, title VI, §§ 631(c)(1)(A), 635, Nov. 25, 2015, 129 Stat. 843, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, the table in subsection (a) of this section is amended as follows:
+
+(1) in paragraph (1) in column 2 of formula number 1, by striking “2½% of years of service credited to him under section 1208” and inserting “the retired pay multiplier determined for the member under [section 1409 of this title](./chapter-071-computation-of-retired-pay.md#section-1409)”;
+
+(2) in paragraph (1) in column 2 of formula number 2, by striking “2½% of years of service credited to him under section 1208” and inserting “the retired pay multiplier determined for the member under [section 1409 of this title](./chapter-071-computation-of-retired-pay.md#section-1409)”; and
+
+(3) in column 2 of each of formula number 4 and formula number 5, by striking “section 1409(a)” and inserting “section 1409”.
+
+See 2015 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -39,6 +50,8 @@ Footnotes 1 and 2 reflect the long-standing construction of those provisions dea
 In footnote 3, the words “and disregard a part of a year that is less than six months” are made applicable to formulas Nos. 1 and 2. The legislative history of the Career Compensation Act of 1949 (Hearings before the Committee on Armed Services of the Senate on H.R. 5007, 81st Congress, First Session, page 313, July 6, 1949) indicates that the provisions, upon which formulas Nos. 1 and 2 are based, should be construed to require that a fraction of less than one-half of a year be disregarded. It also indicates that other retirement laws that are also silent on this point should be similarly construed.
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–92, in column 2 of table, substituted “the retired pay multiplier determined for the member under [section 1409 of this title](./chapter-071-computation-of-retired-pay.md#section-1409)” for “2½% of years of service credited to him under section 1208” in formula numbers 1 and 2 and “section 1409” for “section 1409(a)” in formula numbers 4 and 5.
+
 2013—Subsec. (a). Pub. L. 112–239 substituted “columns 1, 2, and 3,” for “columns 1, 2, 3, and 4,” in introductory provisions.
 
 2011—Subsec. (a). Pub. L. 111–383 in column 2 of table inserted “, not to exceed 75%,” after “percentage of disability” in two places and struck out column 4 of table which directed subtraction of excess over 75 percent of retired pay base upon which computation is based in formulas 1 and 2.
@@ -90,6 +103,9 @@ Pub. L. 96–342 in heading for column 1 of table inserted provisions respecting
 Pub. L. 85–422, § 11(a)(2), substituted “under [section 1405 of this title](./chapter-071-computation-of-retired-pay.md#section-1405)” for “in computing basic pay” in column 2 of formula 4.
 
 Pub. L. 85–422, § 6(7)(B), added footnote 4.
+
+#### Effective Date of 2015 Amendment; Implementation
+Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under [section 8432 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8432&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2011 Amendment
 Pub. L. 111–383, div. A, title VI, § 631(d), Jan. 7, 2011, 124 Stat. 4240, provided that: “The tables in sections 1401(a), 1402(d), and 1402a(d) of title 10, United States Code, as in effect on the day before the date of the enactment of this Act [Jan. 7, 2011], shall continue to apply to the computation or recomputation of retired or retainer pay for persons who first became entitled to retired or retainer pay under subtitle A of such title on or before the date of the enactment of this Act. The amendments made by this section [amending this section and sections 1402 and 1402a of this title] shall apply only with respect to persons who first become entitled to retired or retainer pay under such subtitle after that date.”
@@ -251,72 +267,34 @@ If in any case the percent described in paragraph (2) exceeds the percent determ
 
 ### Statutory Notes
 
-#### Amendment of Subsections (b) and (f)
-Pub. L. 113–67, div. A, title IV, § 403(a), (c), Dec. 26, 2013, 127 Stat. 1186, provided that, effective Dec. 1, 2015, subsection (b) of this section is amended:
+#### Amendment of Subsection (b)
+Pub. L. 114–92, div. A, title VI, §§ 631(c)(1)(B), 635, Nov. 25, 2015, 129 Stat. 844, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (b) of this section is amended by redesignating paragraph (5) as paragraph (6) and by inserting after paragraph (4) the following new paragraph (5):
 
-(1) in paragraph (1), by striking “paragraphs (2) and (3)” and inserting “paragraph (2), (3), or (4)”;
+(5) Adjustments for participants in modernized retirement system.—Notwithstanding paragraph (3), if a member or former member participates in the modernized retirement system by reason of [section 1409(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1409/b/4&num=0&edition=prelim) (including pursuant to an election under subparagraph (B) of that section), the Secretary shall increase the retired pay of such member in accordance with paragraph (2).
 
-(2) by redesignating paragraphs (4) and (5) as paragraphs (5) and (6), respectively; and
-
-(3) by adding the following new paragraph (4):
-
-(4) Reduced percentage for retired members under age 62.—
-
-(A) In general.—Effective on December 1 of each year, the retired pay of each member and former member under 62 years of age entitled to that pay shall be adjusted in accordance with this paragraph instead of paragraph (2) or (3).
-
-(B) CPI minus one.—If the percent determined under paragraph (2) is greater than 1 percent, the Secretary shall increase the retired pay of each member and former member by the difference between—
-
-(i) the percent determined under paragraph (2); and
-
-(ii) 1 percent.
-
-(C) No negative adjustment.—If the percent determined under paragraph (2) is equal to or less than 1 percent, the Secretary shall not increase the retired pay of members and former members under this paragraph.
-
-(D) Revised adjustment upon reaching age 62.—When a member or former member whose retired pay has been subject to adjustment under this paragraph becomes 62 years of age, the Secretary of Defense shall recompute the retired pay of the member or former member, to be effective on the date of the next adjustment of retired pay under this subsection, so as to be the amount equal to the amount of retired pay to which the member or former member would be entitled on that date if increases in the retired pay of the member or former member had been computed as provided in paragraph (2) or as specified in [section 1410 of this title](./chapter-071-computation-of-retired-pay.md#section-1410), as applicable, rather than this paragraph.
-
-(E) Inapplicability of catch-up rule.—Paragraph (5) shall not apply in the case of adjustments made, or not made, as a result of application of this paragraph.
-
-See 2013 Amendment notes below.
-
-Pub. L. 113–76, div. C, title X, § 10001(a), (b)(3), (c), Jan. 17, 2014, 128 Stat. 151, provided that, effective Dec. 1, 2015, immediately after the coming into effect of section 403 of Pub. L. 113–67 and the amendments made by that section, this section is amended:
-
-(1) in subsection (b)(4), as added by section 403(a) of Pub. L. 113–67 (see above):
-
-(A) in subparagraph (A), by inserting after “age” the following: “(other than a member or former member retired under chapter 61 of this title)”; and
-
-(B) by adding at the end the following new subparagraph:
-
-“(F) Inapplicability to amount of retired pay used in computation of sbp annuity for survivors.—In the computation pursuant to subsection (d) or (f) of [section 1448 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1448) of an annuity for survivors of a member or person who dies while subject to the application of this paragraph, the amount of the retired pay of such member or person for purposes of such computation shall be the amount of retired pay that would have been payable to such member or person at the time of death without regard to the application of this paragraph.”; and
-
-(2) in subsection (f)(2), by inserting “or subsection (b)(4)” after “subsection (b)(2)”.
-
-See 2014 Amendment notes below.
-
-Pub. L. 113–82, § 2, Feb. 15, 2014, 128 Stat. 1009, provided that, effective Dec. 1, 2015, immediately after the coming into effect of section 403 of Pub. L. 113–67 and the amendments made by that section, subsection (b)(4) of this section, as added by section 403(a) of Pub. L. 113–67 (see above), is amended by adding at the end the following new subparagraph:
-
-(G) Members covered.—This paragraph applies to a member or former member of an armed force who first became a member of a uniformed service on or after January 1, 2014.
-
-See 2014 Amendment note below.
-
-Pub. L. 113–291, div. A, title VI, § 623, Dec. 19, 2014, 128 Stat. 3403, provided that, effective Dec. 1, 2015, pursuant to section 403(a) of Pub. L. 113–67, as amended, subsection (b)(4)(G) of this section is amended by striking “January 1, 2014” and inserting “January 1, 2016”. See 2014 Amendment note below.
+See 2015 Amendment note below.
 
 #### References in Text
 [Section 322 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section322&num=0&edition=prelim) (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008), referred to in subsec. (b)(3), and [section 322 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section322&num=0&edition=prelim) (as in effect before January 28, 2008), referred to in subsecs. (d) and (e), mean [section 322 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section322&num=0&edition=prelim) as in effect before enactment of Pub. L. 110–181 on January 28, 2008. [Section 322 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section322&num=0&edition=prelim) was renumbered as [section 354 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section354&num=0&edition=prelim) and amended by Pub. L. 110–181, div. A, title VI, § 661(b)(1), (2), Jan. 28, 2008, 122 Stat. 178.
 
 #### Amendments
-2014—Subsec. (b)(4)(A). Pub. L. 113–76, § 10001(a)(1), inserted “(other than a member or former member retired under chapter 61 of this title)” after “age”.
+2015—Pub. L. 114–92, § 631(d), which was approved Nov. 25, 2015, provided that the amendments made by Pub. L. 113–67, § 403(a)—as amended by Pub. L. 113–76, § 10001(a), Pub. L. 113–82, § 2(a), and Pub. L. 113–291, § 623—and the amendments made by Pub. L. 113–76, § 10001(b)(3), which were effective Dec. 1, 2015, would not take effect. See 2013 and 2014 Amendment and Repeal of Reduced Cost-of-living Adjustments for Members Under the Age of 62 notes below.
 
-Subsec. (b)(4)(F). Pub. L. 113–76, § 10001(a)(2), added subpar. (F).
+Subsec. (b)(5), (6). Pub. L. 114–92, § 631(c)(1)(B), added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (b)(4)(G). Pub. L. 113–291 substituted “January 1, 2016” for “January 1, 2014”.
+2014—Subsec. (b)(4)(A). Pub. L. 113–76, § 10001(a)(1), which directed insertion of “(other than a member or former member retired under chapter 61 of this title)” after “age”, did not take effect pursuant to Pub. L. 114–92, § 631(d). See 2015 Amendment note above.
 
-Pub. L. 113–82 added subpar. (G).
+Subsec. (b)(4)(F). Pub. L. 113–76, § 10001(a)(2), which directed addition of subpar. (F) related to inapplicability to amount of retired pay used in computation of SBP annuity for survivors, did not take effect pursuant to Pub. L. 114–92, § 631(d). See 2015 Amendment note above.
 
-Subsec. (f)(3). Pub. L. 113–76, § 10001(b)(3), which directed the insertion of “or subsection (b)(4)” after “subsection (b)(2)” in par. (2), was executed by making the insertion in par. (3) to reflect the probable intent of Congress.
+Subsec. (b)(4)(G). Pub. L. 113–291, § 623, which directed substitution of “January 1, 2016” for “January 1, 2014”, did not take effect pursuant to Pub. L. 114–92, § 631(d). See 2015 Amendment note above.
 
-2013—Subsec. (b)(1). Pub. L. 113–67, § 403(a)(1), substituted “paragraph (2), (3), or (4)” for “paragraphs (2) and (3)”.
+Pub. L. 113–82, § 2(a), which directed addition of subpar. (G) related to applicability of subsec. (b)(4) to certain members and former members, did not take effect pursuant to Pub. L. 114–92, § 631(d). See 2015 Amendment note above.
 
-Subsec. (b)(4) to (6). Pub. L. 113–67, § 403(a)(2), (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+Subsec. (f)(3). Pub. L. 113–76, § 10001(b)(3), which directed insertion of “or subsection (b)(4)” after “subsection (b)(2)” in par. (2) (probably intending par. (3)), did not take effect pursuant to Pub. L. 114–92, § 631(d). See 2015 Amendment note above.
+
+2013—Subsec. (b)(1). Pub. L. 113–67, § 403(a)(1), which directed substitution of “paragraph (2), (3), or (4)” for “paragraphs (2) and (3)”, did not take effect pursuant to Pub. L. 114–92, § 631(d). See 2015 Amendment note above.
+
+Subsec. (b)(4) to (6). Pub. L. 113–67, § 403(a)(2), (3), which directed addition of par. (4) related to a reduced percentage for retired members under age 62 and redesignation of pars. (4) and (5) as (5) and (6), respectively, did not take effect pursuant to Pub. L. 114–92, § 631(d). See 2015 Amendment note above.
 
 Subsec. (c)(1), (2). Pub. L. 113–66, § 631(b), substituted “subsection (f)(3)” for “subsection (f)(2)” in introductory provisions.
 
@@ -470,13 +448,22 @@ Subsecs. (c) to (e). Pub. L. 90–207 added subsecs. (c) to (e).
 
 1965—Subsec. (b). Pub. L. 89–132 substituted provisions requiring the Secretary of Defense to determine the per centum for each calendar month that the Consumer Price Index has increased over the base Consumer Price Index, and if the index has shown an increase of at least 3 per centum over the base index for three consecutive calendar months to increase the retired or retainer pay by the highest per centum of increase in the index, for provisions which required a determination of the increase over the preceding calendar year and permitted an increase in the retired or retainer pay if the index advanced 3 per centum or more for a full calendar year.
 
+#### Effective Date of 2015 Amendment; Implementation
+Amendment by section 631(c)(1)(B) of Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under [section 8432 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8432&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 2014 Amendment
 Pub. L. 113–82, § 2(b), Feb. 15, 2014, 128 Stat. 1009, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on December 1, 2015, immediately after the coming into effect of section 403 of the Bipartisan Budget Act of 2013 [section 403 of Pub. L. 113–67, amending this section and [section 1410 of this title](./chapter-071-computation-of-retired-pay.md#section-1410) and enacting provisions set out as a note under this section] and the amendments made by that section.”
 
+[Amendment made by Pub. L. 113–82, § 2(a), did not take effect pursuant to Pub. L. 114–92, § 631(d), set out below.]
+
 Pub. L. 113–76, div. C, title X, § 10001(c), Jan. 17, 2014, 128 Stat. 151, provided that: “The amendments made by subsections (a) and (b) [amending this section and sections 1413a and 1414 of this title] shall take effect on December 1, 2015, immediately after the coming into effect of section 403 of the Bipartisan Budget Act of 2013 [section 403 of Pub. L. 113–67, amending this section and [section 1410 of this title](./chapter-071-computation-of-retired-pay.md#section-1410) and enacting provisions set out as a note under this section] and the amendments made by that section.”
+
+[Amendments made by Pub. L. 113–76, § 10001(a), (b), did not take effect pursuant to Pub. L. 114–92, § 631(d), set out below.]
 
 #### Effective Date of 2013 Amendment
 Pub. L. 113–67, div. A, title IV, § 403(c), Dec. 26, 2013, 127 Stat. 1186, provided that: “The amendments made by subsections (a) and (b) [amending this section and [section 1410 of this title](./chapter-071-computation-of-retired-pay.md#section-1410)] shall take effect on December 1, 2015.”
+
+[Amendments made by Pub. L. 113–67, § 403(a), (b), did not take effect pursuant to Pub. L. 114–92, § 631(d), set out below.]
 
 Pub. L. 113–66, div. A, title VI, § 631(c), Dec. 26, 2013, 127 Stat. 785, provided that: “Paragraph (2) of [section 1401a(f) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401a/f&num=0&edition=prelim), United States Code, as added by the amendment made by subsection (a)(3), applies to the computation of retired pay or retainer pay of any person who first became a member of a uniformed service on or after September 8, 1980, regardless of when the member first becomes entitled to retired or retainer pay.”
 
@@ -514,6 +501,9 @@ Amendment by Pub. L. 89–132 effective Sept. 1, 1965, see section 10 of Pub. L.
 
 #### Effective Date
 Section effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as an Effective Date of 1963 Amendment note under [section 201 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section201&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
+
+#### Repeal of Reduced Cost-of-living Adjustments for Members Under the Age of 62
+Pub. L. 114–92, div. A, title VI, § 631(d), Nov. 25, 2015, 129 Stat. 845, provided that: “The following amendments shall not take effect: “(1) The amendments to be made by section 403 of the Bipartisan Budget Act of 2013 (Public Law 113–67; 127 Stat. 1186) [amending this section and [section 1410 of this title](./chapter-071-computation-of-retired-pay.md#section-1410)], as amended by section 10001(a) of the Department of Defense Appropriations Act, 2014 (division C of Public Law 113–76; 128 Stat. 151), section 2 of Public Law 113–82 (128 Stat. 1009), and section 623 of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 128 Stat. 3403). “(2) The amendments to be made by section 10001(b) of the Department of Defense Appropriations Act, 2014 [div. C of Pub. L. 113–76, amending this section and sections 1413a and 1414 of this title].”
 
 #### Contingent Alternative Date for Fiscal Year 1998
 Pub. L. 104–106, div. A, title VI, § 631(b), Feb. 10, 1996, 110 Stat. 364, provided that if a civil service retiree COLA that becomes effective during fiscal year 1998 becomes effective on a date other than the date on which a military retiree COLA during that fiscal year is specified to become effective under subsec. (b)(2)(B) of this section, then the increase in military retired and retainer pay would become payable as part of such retired and retainer pay effective on the same date on which such civil service retiree COLA was to become effective, prior to repeal by Pub. L. 104–201, div. A, title VI, § 631(b), Sept. 23, 1996, 110 Stat. 2549.
@@ -966,7 +956,7 @@ A prior section 1406 was renumbered [section 12738 of this title](./chapter-1223
 #### Amendments
 2014—Subsec. (i). Pub. L. 113–291, § 603(d)(1), inserted “Chief of the National Guard Bureau,” after “Chiefs of Service,” in heading.
 
-Subsec. (i)(1). Pub. L. 113–291, § 603(d)(2), inserted “as Chief of the National Guard Bureau,” after “Chief of Service,” and “or the senior enlisted advisor to the Chairman of the Joint Chiefs of Staff or the Chief of the National Guard Bureau” after“of an armed force”.
+Subsec. (i)(1). Pub. L. 113–291, § 603(d)(2), inserted “as Chief of the National Guard Bureau,” after “Chief of Service,” and “or the senior enlisted advisor to the Chairman of the Joint Chiefs of Staff or the Chief of the National Guard Bureau” after “of an armed force”.
 
 Subsec. (i)(3)(B)(vi). Pub. L. 113–291, § 603(d)(3), struck out cl. (vi) which read as follows: “Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.”
 
@@ -1007,7 +997,7 @@ Subsec. (e)(1). Pub. L. 105–85, § 1073(a)(23)(B), substituted “8962” for 
 Subsec. (i). Pub. L. 100–180, § 1314(b)(6), inserted “and Vice Chairmen” after “Chairmen” in heading and inserted “or Vice Chairman” after “Chairman” in par. (1).
 
 #### Effective Date of 2014 Amendment
-Pub. L. 113–291, div. A, title VI, § 603(e), Dec. 19, 2014, 128 Stat. 3398, provided that: “This section [amending this section and sections 210 and 414 of Title 37, Pay and Allowances of Uniformed Services, enacting provision set out as a note under [section 203 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203&num=0&edition=prelim), and amending provisions set out as a note under [section 205 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section205&num=0&edition=prelim)] and the amendments made by this section shall take effect on the date of the enactment of this Act [Dec. 19, 2014], and shall apply with respect to months of service that begin on or after that date.
+Pub. L. 113–291, div. A, title VI, § 603(e), Dec. 19, 2014, 128 Stat. 3398, provided that: “This section [amending this section and sections 210 and 414 of Title 37, Pay and Allowances of the Uniformed Services, enacting provisions set out as a note under [section 203 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203&num=0&edition=prelim), and amending provisions set out as a note under [section 205 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section205&num=0&edition=prelim)] and the amendments made by this section shall take effect on the date of the enactment of this Act [Dec. 19, 2014], and shall apply with respect to months of service that begin on or after that date.”
 
 #### Effective Date of 2003 Amendment
 Pub. L. 108–136, div. A, title VI, § 643(c), Nov. 24, 2003, 117 Stat. 1517, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Nov. 24, 2003] and shall apply with respect to officers who first become entitled to retired pay under title 10, United States Code, on or after such date.”
@@ -1186,15 +1176,23 @@ Pub. L. 113–291, div. A, title VI, § 622(b), Dec. 19, 2014, 128 Stat. 3403, p
 
 (3) The term “final decree” means a decree from which no appeal may be taken or from which no appeal has been taken within the time allowed for taking such appeals under the laws applicable to such appeals, or a decree from which timely appeal has been taken and such appeal has been finally decided under the laws applicable to such appeals.
 
-(4) The term “disposable retired pay” means the total monthly retired pay to which a member is entitled less amounts which—
+(4)
 
-  (A) are owed by that member to the United States for previous overpayments of retired pay and for recoupments required by law resulting from entitlement to retired pay;
+  (A) The term “disposable retired pay” means the total monthly retired pay to which a member is entitled (as determined pursuant to subparagraph (B) 11 So in original. Probably should be followed by a second closing parenthesis. less amounts which—
 
-  (B) are deducted from the retired pay of such member as a result of forfeitures of retired pay ordered by a court-martial or as a result of a waiver of retired pay required by law in order to receive compensation under title 5 or title 38;
+    (i) are owed by that member to the United States for previous overpayments of retired pay and for recoupments required by law resulting from entitlement to retired pay;
 
-  (C) in the case of a member entitled to retired pay under chapter 61 of this title, are equal to the amount of retired pay of the member under that chapter computed using the percentage of the member’s disability on the date when the member was retired (or the date on which the member’s name was placed on the temporary disability retired list); or
+    (ii) are deducted from the retired pay of such member as a result of forfeitures of retired pay ordered by a court-martial or as a result of a waiver of retired pay required by law in order to receive compensation under title 5 or title 38;
 
-  (D) are deducted because of an election under chapter 73 of this title to provide an annuity to a spouse or former spouse to whom payment of a portion of such member’s retired pay is being made pursuant to a court order under this section.
+    (iii) in the case of a member entitled to retired pay under chapter 61 of this title, are equal to the amount of retired pay of the member under that chapter computed using the percentage of the member’s disability on the date when the member was retired (or the date on which the member’s name was placed on the temporary disability retired list); or
+
+    (iv) are deducted because of an election under chapter 73 of this title to provide an annuity to a spouse or former spouse to whom payment of a portion of such member’s retired pay is being made pursuant to a court order under this section.
+
+  (B) For purposes of subparagraph (A), the total monthly retired pay to which a member is entitled shall be—
+
+    (i) the amount of basic pay payable to the member for the member’s pay grade and years of service at the time of the court order, as increased by
+
+    (ii) each cost-of-living adjustment that occurs under [section 1401a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401a/b&num=0&edition=prelim) between the time of the court order and the time of the member’s retirement using the adjustment provisions under that section applicable to the member upon retirement.
 
 (5) The term “member” includes a former member entitled to retired pay under [section 12731 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12731).
 
@@ -1212,7 +1210,7 @@ Pub. L. 113–291, div. A, title VI, § 622(b), Dec. 19, 2014, 128 Stat. 3403, p
 
   (C) the court order or other documents served with the court order identify the member concerned and include, if possible, the social security number of such member; and
 
-  (D) the court order or other documents served with the court order certify that the rights of the member under the Servicemembers Civil Relief Act (50 U.S.C. App. 501 et seq.) were observed; and
+  (D) the court order or other documents served with the court order certify that the rights of the member under the Servicemembers Civil Relief Act ([50 U.S.C. 3901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3901&num=0&edition=prelim) et seq.) were observed; and
 
 (2) a court order is regular on its face if the order—
 
@@ -1234,7 +1232,7 @@ Pub. L. 113–291, div. A, title VI, § 622(b), Dec. 19, 2014, 128 Stat. 3403, p
 
 **(d) Payments by Secretary Concerned to (or for Benefit of) Spouse or Former Spouse.—**
 
-(1) After effective service on the Secretary concerned of a court order providing for the payment of child support or alimony or, with respect to a division of property, specifically providing for the payment of an amount of the disposable retired pay from a member to the spouse or a former spouse of the member, the Secretary shall make payments (subject to the limitations of this section) from the disposable retired pay of the member to the spouse or former spouse (or for the benefit of such spouse or former spouse to a State disbursement unit established pursuant to section 454B of the Social Security Act or other public payee designated by a State, in accordance with part D of title IV of the Social Security Act, as directed by court order, or as otherwise directed in accordance with such part D) in an amount sufficient to satisfy the amount of child support and alimony set forth in the court order and, with respect to a division of property, in the amount of disposable retired pay specifically provided for in the court order. In the case of a spouse or former spouse who, pursuant to section 408(a)(3) of the Social Security Act ([42 U.S.C. 608(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section608/a/4&num=0&edition=prelim)),11 See References in Text note below. assigns to a State the rights of the spouse or former spouse to receive support, the Secretary concerned may make the child support payments referred to in the preceding sentence to that State in amounts consistent with that assignment of rights. In the case of a member entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date of effective service. In the case of a member not entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date on which the member first becomes entitled to receive retired pay.
+(1) After effective service on the Secretary concerned of a court order providing for the payment of child support or alimony or, with respect to a division of property, specifically providing for the payment of an amount of the disposable retired pay from a member to the spouse or a former spouse of the member, the Secretary shall make payments (subject to the limitations of this section) from the disposable retired pay of the member to the spouse or former spouse (or for the benefit of such spouse or former spouse to a State disbursement unit established pursuant to section 454B of the Social Security Act or other public payee designated by a State, in accordance with part D of title IV of the Social Security Act, as directed by court order, or as otherwise directed in accordance with such part D) in an amount sufficient to satisfy the amount of child support and alimony set forth in the court order and, with respect to a division of property, in the amount of disposable retired pay specifically provided for in the court order. In the case of a spouse or former spouse who, pursuant to section 408(a)(3) of the Social Security Act ([42 U.S.C. 608(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section608/a/4&num=0&edition=prelim)),22 See References in Text note below. assigns to a State the rights of the spouse or former spouse to receive support, the Secretary concerned may make the child support payments referred to in the preceding sentence to that State in amounts consistent with that assignment of rights. In the case of a member entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date of effective service. In the case of a member not entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date on which the member first becomes entitled to receive retired pay.
 
 (2) If the spouse or former spouse to whom payments are to be made under this section was not married to the member for a period of 10 years or more during which the member performed at least 10 years of service creditable in determining the member’s eligibility for retired pay, payments may not be made under this section to the extent that they include an amount resulting from the treatment by the court under subsection (c) of disposable retired pay of the member as property of the member or property of the member and his spouse.
 
@@ -1373,9 +1371,13 @@ Pub. L. 113–291, div. A, title VI, § 622(b), Dec. 19, 2014, 128 Stat. 3403, p
 #### References in Text
 The Social Security Act, referred to in subsecs. (a)(1)(D) and (d)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part D of title IV of the Act is classified generally to part D (§ 651 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Section 454B of the Act is classified to [section 654b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section654b&num=0&edition=prelim). Section 408(a)(3) of the Act is classified to [section 608(a)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section608/a/3&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-The Servicemembers Civil Relief Act, referred to in subsec. (b)(1)(D), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see [section 501 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section501&num=0&edition=prelim), Appendix and Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (b)(1)(D), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified generally to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 3901 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3901&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2016—Subsec. (a)(4). Pub. L. 114–328, § 641(a), designated existing provisions as subpar. (A), inserted “(as determined pursuant to subparagraph (B)” after “member is entitled” in introductory provisions, redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A), and added subpar. (B).
+
+Subsec. (b)(1)(D). Pub. L. 114–328, § 1081(b)(2)(B), substituted “([50 U.S.C. 3901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3901&num=0&edition=prelim) et seq.)” for “(50 U.S.C. App. 501 et seq.)”.
+
 2009—Subsec. (h)(2)(A). Pub. L. 111–84 struck out “and” at end.
 
 2006—Subsec. (h)(1). Pub. L. 109–163, § 665(a)(1), designated existing provisions as subpar. (A) and added subpar. (B).
@@ -1542,6 +1544,9 @@ Subsec. (e)(4)(A). Pub. L. 98–525, § 643(d)(3), struck out “the retired or 
 
 Subsec. (e)(5). Pub. L. 98–525, § 643(d)(4), struck out “of disposable retired or retainer pay” after “payment of an amount” in two places and substituted “disposable retired or retainer pay” for “such pay” before “available for payment”.
 
+#### Effective Date of 2016 Amendment
+Pub. L. 114–328, div. A, title VI, § 641(b), Dec. 23, 2016, 130 Stat. 2164, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to any division of property as part of a final decree of divorce, dissolution, annulment, or legal separation involving a member of the Armed Forces to which [section 1408 of title 10](./chapter-071-computation-of-retired-pay.md#section-1408), United States Code, applies that becomes final after the date of the enactment of this Act [Dec. 23, 2016].”
+
 #### Effective Date of 2006 Amendment
 Pub. L. 109–163, div. A, title VI, § 665(b), Jan. 6, 2006, 119 Stat. 3318, provided that: “A court order authorized by the amendments made by this section [amending this section] may not provide for a payment attributable to any period before the date of the enactment of this Act [Jan. 6, 2006], or the date of the court order, whichever is later.”
 
@@ -1637,10 +1642,66 @@ the retired pay multiplier (or retainer pay multiplier) is the percentage determ
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)(4)(C)
+Pub. L. 114–328, div. A, title VI, § 631, Dec. 23, 2016, 130 Stat. 2162, provided that, effective Jan. 1, 2018, immediately after the coming into effect of the amendments made by section 631(a) of Pub. L. 114–92 (see below), subsection (b)(4)(C) is amended:
+
+(1) in clause (i), by striking “and (iii)” and inserting “, (iii), (iv), and (v)”; and
+
+(2) by adding at the end the following new clauses:
+
+(iv) Cadets and midshipmen, etc.—A member of a uniformed service who serves as a cadet, midshipman, or member of the Senior Reserve Officers’ Training Corps during the election period specified in clause (i) shall make the election described in subparagraph (B)—
+
+(I) on or after the date on which such cadet, midshipman, or member of the Senior Reserve Officers’ Training Corps is appointed as a commissioned officer or otherwise begins to receive basic pay; and
+
+(II) not later than 30 days after such date or the end of such election period, whichever is later.
+
+(v) Inactive reserves.—A member of a reserve component who is not in an active status during the election period specified in clause (i) shall make the election described in subparagraph (B)—
+
+(I) on or after the date on which such member is transferred from an inactive status to an active status or active duty; and
+
+(II) not later than 30 days after such date or the end of such election period, whichever is later.
+
+See 2016 Amendment note below.
+
+#### Amendment of Subsection (b)
+Pub. L. 114–92, div. A, title VI, §§ 631(a), 635, Nov. 25, 2015, 129 Stat. 842, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (b) of this section is amended by adding at the end the following new paragraph:
+
+(4) Modernized retirement system.—
+
+(A) Reduced multiplier for full tsp members.—Notwithstanding paragraphs (1), (2), and (3), in the case of a member who first becomes a member of the uniformed services on or after January 1, 2018, or a member who makes the election described in subparagraph (B) (referred to as a “full TSP member”)—
+
+(i) paragraph (1)(A) shall be applied by substituting “2” for “2½”;
+
+(ii) clause (i) of paragraph (3)(B) shall be applied by substituting “60 percent” for “75 percent”; and
+
+(iii) clause (ii)(I) of such paragraph shall be applied by substituting “2” for “2½”.
+
+(B) Election to participate in modernized retirement system.—Pursuant to subparagraph (C), a member of a uniformed service serving on December 31, 2017, who has served in the uniformed services for fewer than 12 years as of December 31, 2017, may elect, in exchange for the reduced multipliers described in subparagraph (A) for purposes of calculating the retired pay of the member, to receive Thrift Savings Plan contributions pursuant to [section 8440e(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8440e/e&num=0&edition=prelim).
+
+(C) Election period.—
+
+(i) In general.—Except as provided in clauses (ii) and (iii), a member of a uniformed service described in subparagraph (B) may make the election authorized by that subparagraph only during the period that begins on January 1, 2018, and ends on December 31, 2018.
+
+(ii) Hardship extension.—The Secretary concerned may extend the election period described in clause (i) for a member who experiences a hardship as determined by the Secretary concerned.
+
+(iii) Effect of break in service.—A member of a uniformed service who returns to service after a break in service that occurs during the election period specified in clause (i) shall make the election described in subparagraph (B) within 30 days after the date of the reentry into service of the member.
+
+(D) No retroactive contributions pursuant to election.—Thrift Savings Plan contributions may not be made for a member making an election pursuant to subparagraph (B) for any period beginning before the date of the member’s election under that subparagraph by reason of the member’s election.
+
+(E) Regulations.—The Secretary concerned shall prescribe regulations to implement this paragraph.
+
+See 2015 Amendment note below.
+
 #### References in Text
 [Section 322 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section322&num=0&edition=prelim) (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008), referred to in subsec. (b)(2), means [section 322 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section322&num=0&edition=prelim) as in effect before enactment of Pub. L. 110–181. [Section 322 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section322&num=0&edition=prelim) was renumbered as [section 354 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section354&num=0&edition=prelim) and amended by Pub. L. 110–181, div. A, title VI, § 661(b)(1), (2), Jan. 28, 2008, 122 Stat. 178.
 
 #### Amendments
+2016—Subsec. (b)(4)(C)(i). Pub. L. 114–328, § 631(a)(1), substituted “, (iii), (iv), and (v)” for “and (iii)”.
+
+Subsec. (b)(4)(C)(iv), (v). Pub. L. 114–328, § 631(a)(2), added cls. (iv) and (v).
+
+2015—Subsec. (b)(4). Pub. L. 114–92 added par. (4).
+
 2008—Subsec. (b)(2). Pub. L. 110–181, in introductory provisions, substituted “section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354” for “section 322”.
 
 2006—Subsec. (b)(3). Pub. L. 109–364 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In the case of a member with more than 30 years of creditable service, the percentage to be used under subsection (a) is 75 percent.”
@@ -1650,6 +1711,12 @@ the retired pay multiplier (or retainer pay multiplier) is the percentage determ
 1994—Subsec. (a)(1)(B). Pub. L. 103–337 substituted “chapter 1223” for “chapter 67”.
 
 1989—Subsec. (a)(1). Pub. L. 101–189 substituted “who is entitled to that pay” for “who is retired” in introductory provisions.
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–328, div. A, title VI, § 631(b), Dec. 23, 2016, 130 Stat. 2162, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 2018, immediately after the coming into effect of the amendments made by section 631(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 842) [amending this section], to which the amendments made by subsection (a) relate.”
+
+#### Effective Date of 2015 Amendment; Implementation
+Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under [section 8432 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8432&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 1999 Amendment
 Amendment by Pub. L. 106–65 effective Oct. 1, 1999, see section 644 of Pub. L. 106–65, set out as a note under [section 1401a of this title](./chapter-071-computation-of-retired-pay.md#section-1401a).
@@ -1669,14 +1736,13 @@ In the case of a member or former member who first became a member of a uniforme
 
 ### Statutory Notes
 
-#### Amendment of Paragraph (1)
-Pub. L. 113–67, div. A, title IV, § 403(b), (c), Dec. 26, 2013, 127 Stat. 1186, provided that, effective Dec. 1, 2015, paragraph (1) of this section is amended by striking “paragraph (3)” and inserting “paragraph (3) or (4)”. See 2013 Amendment note below.
-
 #### References in Text
 [Section 322 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section322&num=0&edition=prelim) (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008), referred to in text, means [section 322 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section322&num=0&edition=prelim) as in effect before enactment of Pub. L. 110–181. [Section 322 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section322&num=0&edition=prelim) was renumbered as [section 354 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section354&num=0&edition=prelim) and amended by Pub. L. 110–181, div. A, title VI, § 661(b)(1), (2), Jan. 28, 2008, 122 Stat. 178.
 
 #### Amendments
-2013—Par. (1). Pub. L. 113–67 substituted “paragraph (3) or (4)” for “paragraph (3)”.
+2015—Par. (1). Pub. L. 114–92, § 631(d)(1), which was approved Nov. 25, 2015, provided that the amendment made by Pub. L. 113–67, § 403(b), which was effective Dec. 1, 2015, would not take effect. See 2013 Amendment note below.
+
+2013—Par. (1). Pub. L. 113–67, § 403(b), which directed substitution of “paragraph (3) or (4)” for “paragraph (3)”, did not take effect pursuant to Pub. L. 114–92, § 631(d)(1). See 2015 Amendment note above.
 
 2008—Pub. L. 110–181, in introductory provisions, substituted “section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354” for “section 322”.
 
@@ -1687,7 +1753,7 @@ Pub. L. 113–67, div. A, title IV, § 403(b), (c), Dec. 26, 2013, 127 Stat. 118
 1987—Pub. L. 100–224 struck out heading “(a) General rule”, substituted provisions that the amount equal to the amount of retired pay to which the member would be entitled on that date if (1) increases in the member’s retired pay under [section 1401a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401a/b&num=0&edition=prelim) had been computed as provided in paragraph (2) of that section (rather than under paragraph (3) of that section); and (2) in the case of a member whose retired pay was subject to [section 1409(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1409/b/2&num=0&edition=prelim), no reduction in the member’s retired pay had been made under that section, for provisions that the amount equal to (1) the amount of the member’s initial unreduced retired pay, increased by (2) the percent (adjusted to the nearest one-tenth of 1 percent) by which (A) the price index for the most recent base quarter ending more than 31 days before the date the member attains 62 years of age, exceeds (B) the price index for the calendar quarter immediately before the date the member first became entitled to retired pay, and struck out subsec. (b) which had directed that, in this section, the term “initial unreduced retired pay” meant the amount of retired pay (A) to which the member was entitled when the member first became entitled to retired pay; or (B) in the case of a member whose retired pay was subject to [section 1409(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1409/b/2&num=0&edition=prelim), to which the member would have been entitled on the date of the member’s retirement without regard to that section, and that the definitions in subsection (g), and the provisions of subsection (h), of [section 1401a of this title](./chapter-071-computation-of-retired-pay.md#section-1401a) applied to this section.
 
 #### Effective Date of 2013 Amendment
-Amendment by Pub. L. 113–67 effective Dec. 1, 2015, see section 403(c) of Pub. L. 113–67, set out as a note under [section 1401a of this title](./chapter-071-computation-of-retired-pay.md#section-1401a).
+Amendment by Pub. L. 113–67 effective Dec. 1, 2015, see section 403(c) of Pub. L. 113–67, set out as a note under [section 1401a of this title](./chapter-071-computation-of-retired-pay.md#section-1401a). Amendment did not take effect pursuant to section 631(d)(1) of Pub. L. 114–92, set out as a Repeal of Reduced Cost-of-living Adjustments for Members Under the Age of 62 note under [section 1401a of this title](./chapter-071-computation-of-retired-pay.md#section-1401a).
 
 #### Effective Date of 1999 Amendment
 Amendment by Pub. L. 106–65 effective Oct. 1, 1999, see section 644 of Pub. L. 106–65, set out as a note under [section 1401a of this title](./chapter-071-computation-of-retired-pay.md#section-1401a).
@@ -1780,19 +1846,17 @@ Repeal effective Jan. 1, 2004, and applicable to payments for months beginning o
 
 ### Statutory Notes
 
-#### Amendment of Subsection (b)(3)
-Pub. L. 113–76, div. C, title X, § 10001(b)(1), (c), Jan. 17, 2014, 128 Stat. 151, provided that, effective Dec. 1, 2015, immediately after the coming into effect of section 403 of Pub. L. 113–67 and the amendments made by that section, subsection (b)(3) of this section is amended—
-
-(1) in subparagraph (A), by inserting “, with adjustment under paragraph (2) of [section 1401a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401a/b&num=0&edition=prelim) to which the member would have been entitled (but without the application of paragraph (4) of such section),” after “under any other provision of law”; and
-
-(2) in subparagraph (B), by striking “whichever is applicable to the member.” and inserting “with adjustment under paragraph (2) of [section 1401a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401a/b&num=0&edition=prelim) to which the member would have been entitled (but without the application of paragraph (4) of such section), whichever is applicable to the member.”.
-
-See 2014 Amendment notes below.
+#### Amendment of Subsection (b)(3)(B)
+Pub. L. 114–328, div. A, title VI, § 634, Dec. 23, 2016, 130 Stat. 2163, provided that, effective Jan. 1, 2018, immediately after the coming into effect of the amendments made by part I (§§ 631–635) of subtitle D of title VI of Pub. L. 114–92, subsec. (b)(3)(B) is amended by striking “2½ percent” and inserting “the retired pay percentage (determined for the member under [section 1409(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1409/b&num=0&edition=prelim))”. See 2016 Amendment note below.
 
 #### Amendments
-2014—Subsec. (b)(3)(A). Pub. L. 113–76, § 10001(b)(1)(A), inserted “, with adjustment under paragraph (2) of [section 1401a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401a/b&num=0&edition=prelim) to which the member would have been entitled (but without the application of paragraph (4) of such section),” after “under any other provision of law”.
+2016—Subsec. (b)(3)(B). Pub. L. 114–328 substituted “the retired pay percentage (determined for the member under [section 1409(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1409/b&num=0&edition=prelim))” for “2½ percent”.
 
-Subsec. (b)(3)(B). Pub. L. 113–76, § 10001(b)(1)(B), substituted “with adjustment under paragraph (2) of [section 1401a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401a/b&num=0&edition=prelim) to which the member would have been entitled (but without the application of paragraph (4) of such section), whichever is applicable to the member.” for “whichever is applicable to the member.”
+2015—Subsec. (b)(3). Pub. L. 114–92, § 631(d)(2), which was approved Nov. 25, 2015, provided that the amendments made by Pub. L. 113–76, § 10001(b)(1), which were effective Dec. 1, 2015, would not take effect. See 2014 Amendment notes below.
+
+2014—Subsec. (b)(3)(A). Pub. L. 113–76, § 10001(b)(1)(A), which directed insertion of “, with adjustment under paragraph (2) of [section 1401a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401a/b&num=0&edition=prelim) to which the member would have been entitled (but without the application of paragraph (4) of such section),” after “under any other provision of law”, did not take effect pursuant to Pub. L. 114–92, § 631(d)(2). See 2015 Amendment note above.
+
+Subsec. (b)(3)(B). Pub. L. 113–76, § 10001(b)(1)(B), which directed substitution of “with adjustment under paragraph (2) of [section 1401a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401a/b&num=0&edition=prelim) to which the member would have been entitled (but without the application of paragraph (4) of such section), whichever is applicable to the member.” for “whichever is applicable to the member.”, did not take effect pursuant to Pub. L. 114–92, § 631(d)(2). See 2015 Amendment note above.
 
 2013—Subsec. (b)(3). Pub. L. 112–239 substituted “may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed” for “shall be reduced by the amount (if any) by which the amount of the member’s retired pay under chapter 61 of this title exceeds” in subpars. (A) and (B).
 
@@ -1824,8 +1888,11 @@ Subsec. (f). Pub. L. 108–136, § 642(d), amended heading and text of subsec. (
 
 Subsec. (h). Pub. L. 108–136, § 641(c)(1), inserted first sentence and inserted “for any other member” before “for any fiscal year”.
 
+#### Effective Date of 2016 Amendment
+Pub. L. 114–328, div. A, title VI, § 634(b), Dec. 23, 2016, 130 Stat. 2164, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2018, immediately after the coming into effect of the amendments made by part I of subtitle D of title VI of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 842) [§§ 631–635, enacting [section 1415 of this title](./chapter-071-computation-of-retired-pay.md#section-1415) and [section 356 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section356&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, and amending sections 1401, 1401a, 1409, 1410, 1413a, 1414, 1463, and 12739 of this title, sections 8432, 8432b, 8438, and 8440e of Title 5, Government Organization and Employees, [section 3045 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3045&num=0&edition=prelim), Navigation and Navigable Waters, sections 211 and 354 of Title 37, [section 5304 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5304&num=0&edition=prelim), Veterans’ Benefits, and [section 212 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section212&num=0&edition=prelim), The Public Health and Welfare], to which the amendment made by subsection (a) relates.”
+
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–76 effective Dec. 1, 2015, immediately after the coming into effect of section 403 of Pub. L. 113–67 and the amendments made by that section, see section 10001(c) of div. C of Pub. L. 113–76, set out as a note under [section 1401a of this title](./chapter-071-computation-of-retired-pay.md#section-1401a).
+Amendment by Pub. L. 113–76 effective Dec. 1, 2015, immediately after the coming into effect of section 403 of Pub. L. 113–67 and the amendments made by that section, see section 10001(c) of Pub. L. 113–76, set out as a note under [section 1401a of this title](./chapter-071-computation-of-retired-pay.md#section-1401a). Amendment did not take effect pursuant to section 631(d)(2) of Pub. L. 114–92, set out as a Repeal of Reduced Cost-of-living Adjustments for Members Under the Age of 62 note under [section 1401a of this title](./chapter-071-computation-of-retired-pay.md#section-1401a).
 
 #### Effective Date of 2013 Amendment
 Pub. L. 112–239, div. A, title VI, § 643(b), Jan. 2, 2013, 126 Stat. 1783, provided that: “The amendment made by this section [amending this section] shall take effect as of January 1, 2013, and shall apply to payments for months beginning on or after that date.”
@@ -1840,6 +1907,9 @@ Pub. L. 108–136, div. A, title VI, § 642(f), Nov. 24, 2003, 117 Stat. 1517, p
 
 #### Effective Date
 Pub. L. 107–314, div. A, title VI, § 636(a)(2), Dec. 2, 2002, 116 Stat. 2576, provided that: “[Section 1413a of title 10](./chapter-071-computation-of-retired-pay.md#section-1413a), United States Code, as added by paragraph (1), shall take effect not later than 180 days after the date of the enactment of this Act [Dec. 2, 2002].”
+
+#### Clarification of Eligibility of Members of the Coast Guard for Combat-Related Special Compensation
+Pub. L. 114–120, title II, § 221, Feb. 8, 2016, 130 Stat. 48, provided that: “(a) Consideration of Eligibility.—“(1) In general.—Not later than 90 days after the date of the enactment of this Act [Feb. 8, 2016], the Secretary of the department is [sic] which the Coast Guard is operating shall issue procedures and criteria to use in determining whether the disability of a member of the Coast Guard is a combat-related disability for purposes of the eligibility of such member for combat-related special compensation under [section 1413a of title 10](./chapter-071-computation-of-retired-pay.md#section-1413a), United States Code. Such procedures and criteria shall include the procedures and criteria prescribed by the Secretary of Defense pursuant to subsection (e)(2) of such section. Such procedures and criteria shall apply in determining whether the disability of a member of the Coast Guard is a combat-related disability for purposes of determining the eligibility of such member for combat-related special compensation under such section. “(2) Disability for which a determination is made.—For the purposes of this section, and in the case of a member of the Coast Guard, a disability under [section 1413a(e)(2)(B) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1413a/e/2/B&num=0&edition=prelim), United States Code, includes a disability incurred during aviation duty, diving duty, rescue swimmer or similar duty, and hazardous service duty onboard a small vessel (such as duty as a surfman)—“(A) in the performance of duties for which special or incentive pay was paid pursuant to section 301, 301a, 304, 307, 334, or 351 of title 37, United States Code; “(B) in the performance of duties related to a statutory mission of the Coast Guard under paragraph (1) or paragraph (2) of section 888(a) of the Homeland Security Act of 2002 ([6 U.S.C. 468(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section468/a&num=0&edition=prelim)), including—“(i) law enforcement, including drug or migrant interdiction; “(ii) defense readiness; or “(iii) search and rescue; or “(C) while engaged in a training exercise for the performance of a duty described in subparagraphs (A) and (B). “(b) Applicability of Procedures and Criteria.—The procedures and criteria issued pursuant to subsection (a) shall apply to disabilities described in that subsection that are incurred on or after the effective date provided in section 636(a)(2) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; 116 Stat. 2574; [10 U.S.C. 1413a](./chapter-071-computation-of-retired-pay.md#section-1413a) note) [See Effective Date note above]. “(c) Reapplication for Compensation.—Any member of the Coast Guard who was denied combat-related special compensation under [section 1413a of title 10](./chapter-071-computation-of-retired-pay.md#section-1413a), United States Code, during the period beginning on the effective date specified in subsection (b) and ending on the date of the issuance of the procedures and criteria required by subsection (a) may reapply for combat-related special compensation under such section on the basis of such procedures and criteria in accordance with such procedures as the Secretary of the department in which the Coast Guard is operating shall specify.”
 
 
 <a id="section-1414"></a>
@@ -1962,11 +2032,10 @@ Pub. L. 107–314, div. A, title VI, § 636(a)(2), Dec. 2, 2002, 116 Stat. 2576,
 
 ### Statutory Notes
 
-#### Amendment of Subsection (b)(1)
-Pub. L. 113–76, div. C, title X, § 10001(b)(2), (c), Jan. 17, 2014, 128 Stat. 151, provided that, effective Dec. 1, 2015, immediately after the coming into effect of section 403 of Pub. L. 113–67 and the amendments made by that section, subsection (b)(1) of this section is amended by inserting “(but without the application of [section 1401a(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401a/b/4&num=0&edition=prelim))” after “under any other provision of law”. See 2014 Amendment note below.
-
 #### Amendments
-2014—Subsec. (b)(1). Pub. L. 113–76 inserted “(but without the application of [section 1401a(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401a/b/4&num=0&edition=prelim))” after “under any other provision of law”.
+2015—Subsec. (b)(1). Pub. L. 114–92, § 631(d)(2), which was approved Nov. 25, 2015, provided that the amendment made by Pub. L. 113–76, § 10001(b)(2), which was effective Dec. 1, 2015, would not take effect. See 2014 Amendment note below.
+
+2014—Subsec. (b)(1). Pub. L. 113–76, § 10001(b)(2), which directed insertion of “(but without the application of [section 1401a(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1401a/b/4&num=0&edition=prelim))” after “under any other provision of law”, did not take effect pursuant to Pub. L. 114–92, § 631(d)(2). See 2015 Amendment note above.
 
 2008—Subsec. (a)(1). Pub. L. 110–181 substituted “except that payment of retired pay is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on December 31, 2004, in the case of the following:” for “except that in the case of a qualified retiree receiving veterans’ disability compensation for a disability rated as 100 percent, payment of retired pay to such veteran is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on December 31, 2004, and in the case of a qualified retiree receiving veterans’ disability compensation at the rate payable for a 100 percent disability by reason of a determination of individual unemployability, payment of retired pay to such veteran is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on September 30, 2009.” and added subpars. (A) and (B).
 
@@ -1979,7 +2048,7 @@ Subsec. (c). Pub. L. 108–375, § 642(b), inserted “that pursuant to the seco
 2003—Pub. L. 108–136 amended section generally. Prior to amendment, section related to members eligible for retired pay who had service-connected disabilities: payment of retired pay and veterans’ disability compensation; and contingent effectiveness based on enactment of offsetting legislation.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–76 effective Dec. 1, 2015, immediately after the coming into effect of section 403 of Pub. L. 113–67 and the amendments made by that section, see section 10001(c) of div. C of Pub. L. 113–76, set out as a note under [section 1401a of this title](./chapter-071-computation-of-retired-pay.md#section-1401a).
+Amendment by Pub. L. 113–76 effective Dec. 1, 2015, immediately after the coming into effect of section 403 of Pub. L. 113–67 and the amendments made by that section, see section 10001(c) of Pub. L. 113–76, set out as a note under [section 1401a of this title](./chapter-071-computation-of-retired-pay.md#section-1401a). Amendment did not take effect pursuant to section 631(d)(2) of Pub. L. 114–92, set out as a Repeal of Reduced Cost-of-living Adjustments for Members Under the Age of 62 note under [section 1401a of this title](./chapter-071-computation-of-retired-pay.md#section-1401a).
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–181, div. A, title VI, § 642(b), Jan. 28, 2008, 122 Stat. 157, provided that: “(1) In general.—Subject to paragraph (2), the amendment made by subsection (a) [amending this section] shall take effect as of December 31, 2004. “(2) Timing of payment of retroactive benefits.—Any amount payable for a period before October 1, 2008, by reason of the amendment made by subsection (a) shall not be paid until after that date.”
@@ -1989,3 +2058,95 @@ Pub. L. 108–136, div. A, title VI, § 641(e), Nov. 24, 2003, 117 Stat. 1516, p
 
 #### Prohibition of Retroactive Benefits
 Pub. L. 107–107, div. A, title VI, § 641(d), Dec. 28, 2001, 115 Stat. 1150, provided that: “If the provisions of subsection (a) of [section 1414 of title 10](./chapter-071-computation-of-retired-pay.md#section-1414), United States Code, becomes [sic] effective in accordance with subsection (f) of that section, no benefit may be paid to any person by reason of those provisions for any period before the effective date specified in subsection (e) of that section.”
+
+
+<a id="section-1415"></a>
+## § 1415. Lump sum payment of certain retired pay
+**(a) Definitions.—** In this section:
+
+(1) **Covered retired pay.—** — The term “covered retired pay” means retired pay under—
+
+  (A) this title;
+
+  (B) title 14;
+
+  (C) the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 ([33 U.S.C. 3001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3001&num=0&edition=prelim) et seq.); or
+
+  (D) the Public Health Service Act ([42 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) et seq.).
+
+(2) **Eligible person.—** — The term “eligible person” means a person who—
+
+  (A)
+
+    (i) first becomes a member of a uniformed service on or after January 1, 2018; or
+
+    (ii) makes the election described in section 1409(b)(4)(B) or 12739(f)(2) of this title; and
+
+  (B) does not retire or separate under chapter 61 of this title.
+
+(3) **Retirement age.—** — The term “retirement age” has the meaning given the term in section 216(l) of the Social Security Act ([42 U.S.C. 416](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section416&num=0&edition=prelim)(l)).
+
+**(b) Election of Lump Sum Payment of Certain Retired Pay.—**
+
+(1) **In general.—** — An eligible person entitled to covered retired pay (including an eligible person who is entitled to such pay by reason of an election described in subsection (a)(2)(A)(ii)) may elect to receive—
+
+  (A) a lump sum payment of the discounted present value at the time of the election of an amount of the covered retired pay that the eligible person is otherwise entitled to receive for the period beginning on the date of retirement and ending on the date the eligible person attains the eligible person’s retirement age equal to—
+
+    (i) 50 percent of the amount of such covered retired pay during such period; or
+
+    (ii) 25 percent of the amount of such covered retired pay during such period; and
+
+  (B) a monthly amount during the period described in subparagraph (A) equal to—
+
+    (i) in the case of an eligible person electing to receive an amount described in subparagraph (A)(i), 50 percent of the amount of monthly covered retired pay the eligible person is otherwise entitled to receive during such period; and
+
+    (ii) in the case of an eligible person electing to receive an amount described in subparagraph (A)(ii), 75 percent of the amount of monthly covered retired pay the eligible person is otherwise entitled to receive during such period.
+
+(2) **Discounted present value.—** — The Secretary of Defense shall compute the discounted present value of amounts of covered retired pay that an eligible person is otherwise entitled to receive for a period for purposes of paragraph (1)(A) by—
+
+  (A) estimating the aggregate amount of retired pay the person would receive for the period, taking into account cost-of-living adjustments under [section 1401a of this title](./chapter-071-computation-of-retired-pay.md#section-1401a) projected by the Secretary at the time the person separates from service and would otherwise begin receiving covered retired pay; and
+
+  (B) reducing the aggregate amount estimated pursuant to subparagraph (A) by an appropriate percentage determined by the Secretary—
+
+    (i) using average personal discount rates (as defined and calculated by the Secretary taking into consideration applicable and reputable studies of personal discount rates for military personnel and past actuarial experience in the calculation of personal discount rates under this paragraph); and
+
+    (ii) in accordance with generally accepted actuarial principles and practices.
+
+(3) **Timing of election.—** — An eligible person shall make the election under this subsection not later than 90 days before the date of the retirement of the eligible person from the uniformed services.
+
+(4) **Single payment or combination of payments.—** — An eligible person may elect to receive a lump sum payment under this subsection in a single payment or in a combination of payments.
+
+(5) **Commencement of payment.—** — An eligible person who makes an election under this subsection shall receive the lump sum payment, or the first installment of a combination of payments of the lump sum payment if elected under paragraph (4), as follows:
+
+  (A) Not later than 60 days after the date of the retirement of the eligible person from the uniformed services.
+
+  (B) In the case of an eligible person who is a member of a reserve component, not later than 60 days after the earlier of—
+
+    (i) the date on which the eligible person attains 60 years of age; or
+
+    (ii) the date on which the eligible person first becomes entitled to covered retired pay.
+
+(6) **No subsequent adjustment.—** — An eligible person who accepts payment of a lump sum under this subsection may not seek the review of or otherwise challenge the amount of the lump sum in light of any variation in cost-of-living adjustments under [section 1401a of this title](./chapter-071-computation-of-retired-pay.md#section-1401a), actuarial assumptions, or other factors used by the Secretary in calculating the amount of the lump sum that occur after the Secretary pays the lump sum.
+
+**(c) Resumption of Monthly Annuity.—**
+
+(1) **General rule.—** — Subject to paragraph (2), an eligible person who makes an election described in subsection (b)(1) shall be entitled to receive the eligible person’s monthly covered retired pay calculated in accordance with paragraph (2) after the eligible person attains the eligible person’s retirement age.
+
+(2) **Restoration of full retirement amount at retirement age.—** — The retired pay of an eligible person who makes an election described in subsection (a) shall be recomputed, effective on the first day of the first month beginning after the person attains the eligible person’s retirement age, so as to be an amount equal to the amount of covered retired pay to which the eligible person would otherwise be entitled on that date if the annual increases, in the retired pay of the eligible person made to reflect changes in the Consumer Price Index, had been made in accordance with [section 1401a of this title](./chapter-071-computation-of-retired-pay.md#section-1401a).
+
+**(d) Payment of Retired Pay to Persons Not Making Election.—** An eligible person who does not make the election described in subsection (b)(1) shall be paid the retired pay to which the eligible person is otherwise entitled under the applicable provisions of law referred to in subsection (a)(1).
+
+**(e) Regulations.—** The Secretary of Defense concerned 11 So in original. shall prescribe regulations to carry out the provisions of this section.
+
+### Statutory Notes
+
+#### References in Text
+The National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002, referred to in subsec. (a)(1)(C), is title II of Pub. L. 107–372, Dec. 19, 2002, 116 Stat. 3082, which is classified principally to chapter 43 (§ 3001 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3001&num=0&edition=prelim) and Tables.
+
+The Public Health Service Act, referred to in subsec. (a)(1)(D), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2016—Subsec. (b)(1)(B)(ii). Pub. L. 114–328 inserted period at end.
+
+#### Effective Date; Implementation
+Section effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as an Effective Date of 2015 Amendment; Implementation note under [section 8432 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8432&num=0&edition=prelim), Government Organization and Employees.

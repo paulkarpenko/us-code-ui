@@ -156,7 +156,7 @@ Pub. L. 99–563, § 10, Oct. 27, 1986, 100 Stat. 3176, provided that: “(a) In
 
 (4) otherwise, discriminate against a risk retention group or any of its members, except that nothing in this section shall be construed to affect the applicability of State laws generally applicable to persons or corporations.
 
-**(b) Scope of exemptions** The exemptions specified in subsection (a) of this section apply to laws governing the insurance business pertaining to—
+**(b) Scope of exemptions** The exemptions specified in subsection (a) apply to laws governing the insurance business pertaining to—
 
 (1) liability insurance coverage provided by a risk retention group for—
 
@@ -205,9 +205,9 @@ Pub. L. 99–563, § 10, Oct. 27, 1986, 100 Stat. 3176, provided that: “(a) In
 
 **(f) State powers to enforce State laws**
 
-(1) Subject to the provisions of subsection (a)(1)(G) of this section (relating to injunctions) and paragraph (2), nothing in this chapter shall be construed to affect the authority of any State to make use of any of its powers to enforce the laws of such State with respect to which a risk retention group is not exempt under this chapter.
+(1) Subject to the provisions of subsection (a)(1)(G) (relating to injunctions) and paragraph (2), nothing in this chapter shall be construed to affect the authority of any State to make use of any of its powers to enforce the laws of such State with respect to which a risk retention group is not exempt under this chapter.
 
-(2) If a State seeks an injunction regarding the conduct described in paragraphs (1) and (2) of subsection (e) of this section, such injunction must be obtained from a Federal or State court of competent jurisdiction.
+(2) If a State seeks an injunction regarding the conduct described in paragraphs (1) and (2) of subsection (e), such injunction must be obtained from a Federal or State court of competent jurisdiction.
 
 **(g) States’ authority to sue** Nothing in this chapter shall affect the authority of any State to bring an action in any Federal or State court.
 
@@ -264,7 +264,7 @@ The provisions of subsec. (d) of this section, relating to the submission of a f
 
 (8) otherwise discriminate against a purchasing group or any of its members.
 
-**(b) Scope of exemptions** The exemptions specified in subsection (a) of this section apply to—
+**(b) Scope of exemptions** The exemptions specified in subsection (a) apply to—
 
 (1) liability insurance provided to—
 

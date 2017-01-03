@@ -45,7 +45,7 @@ Subsec. (d). Pub. L. 110–181, § 931(a)(10), and Pub. L. 110–417, § 932(a)(
 Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 #### Effective Date
-Subchapter effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under [section 193 of this title](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-193).
+Section effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under [section 193 of this title](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-193).
 
 #### Short Title of 1996 Amendment
 Pub. L. 104–201, div. A, title XI, § 1101, Sept. 23, 1996, 110 Stat. 2676, provided that: “This title [enacting this chapter, [section 424 of this title](./chapter-021-department-of-defense-intelligence-matters.md#section-424), and sections 404e and 404f of Title 50, War and National Defense, amending sections 193, 201, and 451 to 456 of this title, sections 2302, 3132, 4301, 4701, 5102, 5342, 6339, and 7323 of Title 5, Government Organization and Employees, section 105 of the Ethics in Government Act of 1978, set out in the Appendix to Title 5, [section 82 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section82&num=0&edition=prelim), Coast Guard, [section 2006 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2006&num=0&edition=prelim), Labor, [section 1336 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section1336&num=0&edition=prelim), Public Printing and Documents, and sections 401a and 403–5 of Title 50, renumbering chapter 22 and sections 451, 452, 2792 to 2796, and 2798 of this title as chapter 23 and sections 481, 482, 451 to 455, and 456 of this title, respectively, repealing sections 424, 425, 2791, and 2797 of this title, enacting provisions set out as notes under this section and [section 193 of this title](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-193), and amending provisions set out as a note under [section 501 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim)] may be cited as the ‘National Imagery and Mapping Agency Act of 1996’.”
@@ -123,6 +123,9 @@ Subsec. (d). Pub. L. 108–136, § 921(d)(2)(A), (f), substituted “National Ge
 
 Subsec. (e). Pub. L. 108–136, § 921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in introductory provisions.
 
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under [section 193 of this title](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-193).
+
 
 <a id="section-443"></a>
 ## § 443. Imagery intelligence and geospatial information: support for foreign countries, regional organizations, and security alliances
@@ -157,6 +160,9 @@ Subsec. (a). Pub. L. 112–239, § 921(a), substituted “foreign countries, reg
 
 #### Effective Date of 2009 Amendment
 Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under [section 193 of this title](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-193).
 
 
 <a id="section-444"></a>
@@ -203,6 +209,9 @@ Subsec. (e)(2)(B). Pub. L. 113–291, § 1071(c)(7)(B), substituted “([50 U.S.
 
 #### Effective Date of 2009 Amendment
 Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under [section 193 of this title](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-193).
 
 
 <a id="section-445"></a>

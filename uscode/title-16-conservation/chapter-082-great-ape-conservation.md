@@ -131,7 +131,7 @@ Title I of the Department of the Interior and Related Agencies Appropriations Ac
 
   (A) not later than 30 days after receiving a project proposal, provide a copy of the proposal to other appropriate Federal officials; and
 
-  (B) review each project proposal in a timely manner to determine if the proposal meets the criteria specified in subsection (d) of this section.
+  (B) review each project proposal in a timely manner to determine if the proposal meets the criteria specified in subsection (d).
 
 (2) **Consultation; approval or disapproval** — Not later than 180 days after receiving a project proposal, and subject to the availability of funds, the Secretary, after consulting with other appropriate Federal officials, shall—
 
@@ -198,11 +198,11 @@ Subsec. (i). Pub. L. 109–363, § 701(2), designated existing provisions as par
 ## § 6304. Great Ape Conservation Fund
 **(a) Establishment** There is established in the Multinational Species Conservation Fund a separate account to be known as the “Great Ape Conservation Fund”, consisting of—
 
-(1) amounts transferred to the Secretary of the Treasury for deposit into the Fund under subsection (e) of this section;
+(1) amounts transferred to the Secretary of the Treasury for deposit into the Fund under subsection (e);
 
 (2) amounts appropriated to the Fund under [section 6305 of this title](./chapter-082-great-ape-conservation.md#section-6305); and
 
-(3) any interest earned on investment of amounts in the Fund under subsection (c) of this section.
+(3) any interest earned on investment of amounts in the Fund under subsection (c).
 
 **(b) Expenditures from Fund**
 

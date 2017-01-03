@@ -2,7 +2,7 @@
 title: 2
 chapter: '5'
 heading: LIBRARY OF CONGRESS
-section_count: 116
+section_count: 117
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -145,7 +145,7 @@ R.S. § 84 derived from act July 14, 1832, ch. 221, § 4, 4 Stat. 579.
 <a id="section-135a"></a>
 ## § 135a. Books and sound-reproduction records for blind and other physically handicapped residents; annual appropriations; purchases
 
-There is authorized to be appropriated annually to the Library of Congress, in addition to appropriations otherwise made to said Library, such sums for expenditure under the direction of the Librarian of Congress as may be necessary to provide books published either in raised characters, on sound-reproduction recordings or in any other form, and for purchase, maintenance, and replacement of reproducers for such sound-reproduction recordings, for the use of the blind and for other physically handicapped residents of the United States, including the several States, Territories, insular possessions, and the District of Columbia, all of which books, recordings, and reproducers will remain the property of the Library of Congress but will be loaned to blind and to other physically handicapped readers certified by competent authority as unable to read normal printed material as a result of physical limitations, under regulations prescribed by the Librarian of Congress for this service. In the purchase of books in either raised characters or in sound-reproduction recordings the Librarian of Congress, without reference to the provisions of [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim), shall give preference to nonprofit-making institutions or agencies whose activities are primarily concerned with the blind and with other physically handicapped persons, in all cases where the prices or bids submitted by such institutions or agencies are, by said Librarian, under all the circumstances and needs involved, determined to be fair and reasonable.
+There is authorized to be appropriated annually to the Library of Congress, in addition to appropriations otherwise made to said Library, such sums for expenditure under the direction of the Librarian of Congress as may be necessary to provide books published either in raised characters, on sound-reproduction recordings or in any other form, and for purchase, maintenance, and replacement of reproducers for any such forms, for the use of the blind and for other physically handicapped residents of the United States, including the several States, Territories, insular possessions, and the District of Columbia, all of which books, recordings, and reproducers will remain the property of the Library of Congress but will be loaned to blind and to other physically handicapped readers certified by competent authority as unable to read normal printed material as a result of physical limitations, under regulations prescribed by the Librarian of Congress for this service. In the purchase of books in either raised characters or in sound-reproduction recordings the Librarian of Congress, without reference to the provisions of [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim), shall give preference to nonprofit-making institutions or agencies whose activities are primarily concerned with the blind and with other physically handicapped persons, in all cases where the prices or bids submitted by such institutions or agencies are, by said Librarian, under all the circumstances and needs involved, determined to be fair and reasonable.
 
 ### Statutory Notes
 
@@ -153,6 +153,8 @@ There is authorized to be appropriated annually to the Library of Congress, in a
 In text, “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2016—Pub. L. 114–219 substituted “and for purchase, maintenance, and replacement of reproducers for any such forms” for “and for purchase, maintenance, and replacement of reproducers for such sound-reproduction recordings” in first sentence.
+
 1966—Pub. L. 89–522 amended section generally, extending availability of books and materials under this section by authorizing their loan to other physically handicapped residents, in addition to blind persons, certified by competent authority as unable to read normal printed material as a result of physical limitations.
 
 1957—Pub. L. 85–308 authorized annual appropriation of necessary sums in lieu of provisions which limited annual appropriation to $1,125,000, and struck out limitation of $200,000 on amount of appropriated funds to be expended annually for books in raised characters.
@@ -216,9 +218,9 @@ Act Apr. 23, 1937, ch. 125, § 2, 50 Stat. 72, provided that: “This Act [amend
 
 
 <a id="section-136"></a>
-## § 136. Librarian of Congress; appointment; rules and regulations
+## § 136. Librarian of Congress; rules and regulations
 
-The Librarian of Congress shall be appointed by the President, by and with the advice and consent of the Senate. He shall make rules and regulations for the government of the Library.
+The Librarian of Congress shall make rules and regulations for the government of the Library.
 
 ### Statutory Notes
 
@@ -226,7 +228,12 @@ The Librarian of Congress shall be appointed by the President, by and with the a
 R.S. §§ 88, 89, 4950, which were repealed by acts Feb. 28, 1933, ch. 131, § 1, 47 Stat. 1349; Mar. 3, 1933, ch. 202, § 1, 47 Stat. 1428, 1431.
 
 #### Amendments
+2015—Pub. L. 114–86 struck out provisions relating to appointment of Librarian of Congress.
+
 1972—Pub. L. 92–310 struck out provisions which required the Librarian of Congress to give a bond in the sum of $20,000.
+
+#### Short Title of 2015 Amendment
+Pub. L. 114–86, § 1, Nov. 5, 2015, 129 Stat. 675, provided that: “This Act [enacting [section 136–1 of this title](./chapter-005-library-of-congress.md#section-136-1) and amending this section] may be cited as the ‘Librarian of Congress Succession Modernization Act of 2015’.”
 
 
 <a id="section-136a-136a-1"></a>
@@ -298,6 +305,17 @@ From and after October 1, 1983, appropriations in this Act available to the Libr
 
 #### References in Text
 This Act, referred to in text, is Pub. L. 98–51, July 14, 1983, 97 Stat. 263, known as the Legislative Branch Appropriations Act, 1984. See page 36 of Senate Report 98–161, 98th Congress, 1st Session, to accompany H.R. 3135, which became Pub. L. 98–51. For complete classification of this Act to the Code, see Tables.
+
+
+<a id="section-136-1"></a>
+## § 136–1. Appointment and term of service of Librarian of Congress
+**(a) In general** The President shall appoint the Librarian of Congress, by and with the advice and consent of the Senate.
+
+**(b) Term of service** The Librarian of Congress shall be appointed for a term of 10 years.
+
+**(c) Reappointment** An individual appointed to the position of Librarian of Congress, by and with the advice and consent of the Senate, may be reappointed to that position in accordance with subsections (a) and (b).
+
+**(d) Effective date** This section shall apply with respect to appointments made on or after November 5, 2015.
 
 
 <a id="section-137"></a>
@@ -1827,6 +1845,9 @@ The National Film Preservation Act of 1992, referred to in text, is title II of 
 #### Prior Provisions
 Prior provisions similar to sections 179l to 179w of this title were contained in former section 179 et seq. of this title.
 
+#### Short Title of 2016 Amendment
+Pub. L. 114–217, § 1, July 29, 2016, 130 Stat. 840, provided that: “This Act [amending sections 179v and 1743 of this title and sections 151711, 152403, and 152411 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations] may be cited as the ‘Library of Congress Sound Recording and Film Preservation Programs Reauthorization Act of 2016’.”
+
 #### Short Title of 2008 Amendment
 Pub. L. 110–336, § 1, Oct. 2, 2008, 122 Stat. 3726, provided that: “This Act [amending sections 179m, 179n, 179v, 179w, 1722, and 1743 of this title and sections 151702, 151703, 151711, 152403, 152405, 152406, and 152411 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and enacting provisions set out as notes under sections 179v and 1743 of this title and [section 152411 of Title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section152411&num=0&edition=prelim)] may be cited as the ‘Library of Congress Sound Recording and Film Preservation Programs Reauthorization Act of 2008’.”
 
@@ -2079,11 +2100,13 @@ As used in sections 179l to 179w of this title—
 <a id="section-179v"></a>
 ## § 179v. Authorization of appropriations
 
-There are authorized to be appropriated to the Librarian for the first fiscal year beginning on or after October 11, 1996, and each succeeding fiscal year through fiscal year 2016 such sums as may be necessary to carry out the purposes of sections 179l to 179w of this title, but in no fiscal year shall such sum exceed $250,000.
+There are authorized to be appropriated to the Librarian for the first fiscal year beginning on or after October 11, 1996, and each succeeding fiscal year through fiscal year 2026 such sums as may be necessary to carry out the purposes of sections 179l to 179w of this title, but in no fiscal year shall such sum exceed $250,000.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Pub. L. 114–217 substituted “through fiscal year 2026” for “through fiscal year 2016”.
+
 2008—Pub. L. 110–336 inserted “for the first fiscal year beginning on or after October 11, 1996, and each succeeding fiscal year through fiscal year 2016” after “the Librarian”.
 
 #### Effective Date of 2008 Amendment

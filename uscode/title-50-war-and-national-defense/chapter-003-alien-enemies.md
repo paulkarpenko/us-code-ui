@@ -9,7 +9,7 @@ source: >-
 <a id="section-21"></a>
 ## § 21. Restraint, regulation, and removal
 
-Whenever there is a declared war between the United States and any foreign nation or government, or any invasion or predatory incursion is perpetrated, attempted or threatened against the territory of the United States by any foreign nation or government, and the President makes public proclamation of the event, all natives, citizens, denizens, or subjects of the hostile nation or government, being of the age of fourteen years and upward, who shall be within the United States and not actually naturalized, shall be liable to be apprehended, restrained, secured, and removed as alien enemies. The President is authorized in any such event, by his proclamation thereof, or other public act, to direct the conduct to be observed on the part of the United States, toward the aliens who become so liable; the manner and degree of the restraint to which they shall be subject and in what cases, and upon what security their residence shall be permitted, and to provide for the removal of those who, not being permitted to reside within the United States, refuse or neglect to depart therefrom; and to establish any other regulations which are found necessary in the premises and for the public safety.
+Whenever there is a declared war between the United States and any foreign nation or government, or any invasion or predatory incursion is perpetrated, attempted, or threatened against the territory of the United States by any foreign nation or government, and the President makes public proclamation of the event, all natives, citizens, denizens, or subjects of the hostile nation or government, being of the age of fourteen years and upward, who shall be within the United States and not actually naturalized, shall be liable to be apprehended, restrained, secured, and removed as alien enemies. The President is authorized in any such event, by his proclamation thereof, or other public act, to direct the conduct to be observed on the part of the United States, toward the aliens who become so liable; the manner and degree of the restraint to which they shall be subject and in what cases, and upon what security their residence shall be permitted, and to provide for the removal of those who, not being permitted to reside within the United States, refuse or neglect to depart therefrom; and to establish any other regulations which are found necessary in the premises and for the public safety.
 
 ### Statutory Notes
 
@@ -38,7 +38,7 @@ Proc. No. 2655, July 14, 1945, 10 F.R. 8947, 59 Stat. Pt. 2, 870.
 
 Proc. No. 2674, Dec. 7, 1945, 10 F.R. 14945, 59 Stat. Pt. 2, 889.
 
-Proc. No. 2685, Apr. 11, 1946, 11 F.R. 4079, 60 Stat. Pt. 2, 1342, set out as a note preceding section 1 of Appendix to this title.
+Proc. No. 2685, Apr. 11, 1946, 11 F.R. 4079, 60 Stat. Pt. 2, 1342, set out as a note preceding [section 1 of this title](./chapter-001-council-of-national-defense.md#section-1).
 
 #### World War I Proclamations
 Proclamations issued under this chapter during the years 1917 and 1918 will be found in 40 Stat. 1651, 1716, 1730, and 1772.

@@ -295,7 +295,7 @@ Sec. 6. Judicial Review. This order is not intended to, and does not, create any
 
 George W. Bush.
 
-#### Expanding National Service Through Partnerships to Advance Government Priorities
+#### Expanding National Service Through Partnerships To Advance Government Priorities
 Memorandum of President of the United States, July 15, 2013, 78 F.R. 43747, provided:
 
 Memorandum for the Heads of Executive Departments and Agencies
@@ -472,7 +472,7 @@ For purposes of this subchapter:
 
   (A) an Indian tribe, band, nation, or other organized group or community, including—
 
-    (i) any Native village, as defined in [section 1602(c) of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602/c&num=0&edition=prelim), whether organized traditionally or pursuant to the Act of June 18, 1934 (commonly known as the “Indian Reorganization Act”; 48 Stat. 984, chapter 576; 25 U.S.C 461 et seq.); and
+    (i) any Native village, as defined in [section 1602(c) of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602/c&num=0&edition=prelim), whether organized traditionally or pursuant to the Act of June 18, 1934 (commonly known as the “Indian Reorganization Act”; 48 Stat. 984, chapter 576; 25 U.S.C 461 et seq.); 11 See References in Text note below. and
 
     (ii) any Regional Corporation or Village Corporation, as defined in subsection (g) or (j), respectively, of [section 1602 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602&num=0&edition=prelim),
     that is recognized as eligible for the special programs and services provided by the United States under Federal law to Indians because of their status as Indians; and
@@ -505,7 +505,7 @@ For purposes of this subchapter:
 
   (A) *In general* — The term “participant” means—
 
-    (i) for purposes of division C of this subchapter, an individual in an approved national service position; and
+    (i) for purposes of division C, an individual in an approved national service position; and
 
     (ii) for purposes of any other provision of this chapter, an individual enrolled in a program that receives assistance under this subchapter.
 
@@ -537,7 +537,7 @@ For purposes of this subchapter:
 
     (vii) consistency of findings across multiple studies or sites to support the generality of results and conclusions.
 
-(34) **Program** — The term “program”, unless the context otherwise requires, and except when used as part of the term “academic program”, means a program described in [section 12523(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12523/a&num=0&edition=prelim) (other than a program referred to in paragraph (3)(B) of such section), 12561a, or 12561(b)(1), or subsection (a), (b), or (c) of [section 12572 of this title](./chapter-129-national-and-community-service.md#section-12572), or in paragraph (1) or (2) of [section 12612(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12612/b&num=0&edition=prelim), [section 12653b of this title](./chapter-129-national-and-community-service.md#section-12653b), 12653c of this title, 198G,11 See References in Text note below. 12653h of this title, or 12653k of this title, or an activity that could be funded under section 12639a, 12653, 12653o, 12653p, or 12657 of this title.
+(34) **Program** — The term “program”, unless the context otherwise requires, and except when used as part of the term “academic program”, means a program described in [section 12523(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12523/a&num=0&edition=prelim) (other than a program referred to in paragraph (3)(B) of such section), 12561a, or 12561(b)(1), or subsection (a), (b), or (c) of [section 12572 of this title](./chapter-129-national-and-community-service.md#section-12572), or in paragraph (1) or (2) of [section 12612(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12612/b&num=0&edition=prelim), [section 12653b of this title](./chapter-129-national-and-community-service.md#section-12653b), 12653c of this title, 198G,1 12653h of this title, or 12653k of this title, or an activity that could be funded under section 12639a, 12653, 12653o, 12653p, or 12657 of this title.
 
 (35) **Project** — The term “project” means an activity, carried out through a program that receives assistance under this subchapter, that results in a specific identifiable service or improvement that otherwise would not be done with existing funds, and that does not duplicate the routine services or functions of the employer to whom participants are assigned.
 
@@ -590,7 +590,7 @@ For purposes of this subchapter:
 ### Statutory Notes
 
 #### References in Text
-Act of June 18, 1934, referred to in par. (21)(A)(i), is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to subchapter V (§ 461 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 461 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section461&num=0&edition=prelim) and Tables.
+Act of June 18, 1934 (commonly known as the “Indian Reorganization Act”; 48 Stat. 984, chapter 576; 25 U.S.C 461 et seq.), referred to in par. (21)(A)(i), is act June 18, 1934, ch. 576, 48 Stat. 984, which was classified generally to subchapter V (§ 461 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 45 (§ 5101 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 5101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5101&num=0&edition=prelim) and Tables.
 
 This chapter, referred to in pars. (26) and (30)(A)(ii), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of this title](./chapter-129-national-and-community-service.md#section-12501) and Tables.
 
@@ -601,6 +601,8 @@ Section 198G, referred to in par. (34), is unidentifiable in the original, since
 The Individuals with Disabilities Education Act, referred to in par. (37)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Pars. (15), (24), (39), (45). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
 2009—Pub. L. 111–13, § 1102(b), redesignated pars. (1) to (49) as (1), (3), (8), (9), (10), (12), (14), (15), (19), (20), (21), (22), (23), (24), (26), (29), (30), (31), (34), (35), (37), (39), (40), (41), (42), (43), (44), (45), (46), (2), (4), (5), (6), (7), (11), (13), (16), (17), (18), (25), (27), (28), (32), (33), (36), (38), (47), (48), and (49), respectively, and rearranged pars. in numerical order.
 
 Par. (3). Pub. L. 111–13, § 1102(a)(1), struck out “described in [section 12572 of this title](./chapter-129-national-and-community-service.md#section-12572)” after “service program”.
@@ -663,6 +665,9 @@ Par. (30). Pub. L. 102–10, § 3(2), (7), redesignated par. (29) as (30) and in
 
 #### Change of Name
 Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
@@ -784,7 +789,7 @@ Another prior section 12522, Pub. L. 101–610, title I, § 112, Nov. 16, 1990, 
 
   (E) establishing effective outreach and dissemination of information to ensure the broadest possible involvement of community-based entities with demonstrated effectiveness in working with school-age youth in their communities; and
 
-  (F) establishing effective outreach and dissemination of information to ensure the broadest possible participation of schools throughout the State, throughout the territory, or serving the Indian tribe involved with particular attention to schools not making adequate yearly progress for two or more consecutive years under [section 6311 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311&num=0&edition=prelim);
+  (F) establishing effective outreach and dissemination of information to ensure the broadest possible participation of schools throughout the State, throughout the territory, or serving the Indian tribe involved with particular attention to schools implementing comprehensive support and improvement activities or targeted support and improvement activities under [section 6311(d) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/d&num=0&edition=prelim);
 
 (2) implementing, operating, or expanding school-based service-learning programs, which may include paying for the cost of the recruitment, training, supervision, placement, salaries, and benefits of service-learning coordinators, through distribution by State educational agencies, territories, and Indian tribes of Federal funds made available under this part to projects operated by local partnerships among—
 
@@ -863,10 +868,15 @@ A prior section 112 of Pub. L. 101–610 was classified to section 12524 prior t
 Another prior section 112 of Pub. L. 101–610 was classified to [section 12522 of this title](./chapter-129-national-and-community-service.md#section-12522) prior to repeal by Pub. L. 103–82.
 
 #### Amendments
+2015—Subsec. (a)(1)(F). Pub. L. 114–95 substituted “implementing comprehensive support and improvement activities or targeted support and improvement activities under [section 6311(d) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/d&num=0&edition=prelim)” for “not making adequate yearly progress for two or more consecutive years under [section 6311 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311&num=0&edition=prelim)”.
+
 2014—Subsec. (a)(3)(B). Pub. L. 113–128 substituted “or who may participate in a Youthbuild program under [section 3226 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3226&num=0&edition=prelim)” for “or who may participate in a Youthbuild program under [section 2918a of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918a&num=0&edition=prelim)”.
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-12525"></a>
@@ -1122,7 +1132,7 @@ A prior section 12556, Pub. L. 101–610, title I, § 136, Nov. 16, 1990, 104 St
 
 (4) facilitating the integration of community service carried out under the program into academic curricula, including integration of clinical programs into the curriculum for students in professional schools, so that students can obtain credit for their community service projects;
 
-(5) supplementing the funds available to carry out work-study programs under part C of title IV of the Higher Education Act of 1965 ([42 U.S.C. 2751](./chapter-034-economic-opportunity-program.md#section-2751) et seq.) to support service-learning and community service through the community service program;
+(5) supplementing the funds available to carry out work-study programs under part C of title IV of the Higher Education Act of 1965 ([42 U.S.C. 2751](./chapter-034-economic-opportunity-program.md#section-2751) et seq.) 11 See References in Text note below. to support service-learning and community service through the community service program;
 
 (6) strengthening the service infrastructure within institutions of higher education in the United States through the program; and
 
@@ -1216,16 +1226,16 @@ A prior section 12556, Pub. L. 101–610, title I, § 136, Nov. 16, 1990, 104 St
 
 (10) describe the needs that the proposed projects are designed to address, such as housing, economic development, infrastructure, health care, job training, education, crime prevention, urban planning, transportation, information technology, or child welfare.
 
-**(g) Federal work-study** To be eligible for assistance under this part, an institution of higher education shall demonstrate that it meets the minimum requirements under section 443(b)(2)(A) of the Higher Education Act of 1965 ([42 U.S.C. 2753(b)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2753/b/2/A&num=0&edition=prelim)) relating to the participation of students employed under part C of title IV of the Higher Education Act of 1965 ([42 U.S.C. 2751](./chapter-034-economic-opportunity-program.md#section-2751) et seq.) (relating to Federal Work-Study 11 So in original. Probably should not be capitalized. programs) in community service activities, or has received a waiver of those requirements from the Secretary of Education.
+**(g) Federal work-study** To be eligible for assistance under this part, an institution of higher education shall demonstrate that it meets the minimum requirements under section 443(b)(2)(A) of the Higher Education Act of 1965 ([42 U.S.C. 2753(b)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2753/b/2/A&num=0&edition=prelim)) 1 relating to the participation of students employed under part C of title IV of the Higher Education Act of 1965 ([42 U.S.C. 2751](./chapter-034-economic-opportunity-program.md#section-2751) et seq.) 1 (relating to Federal Work-Study 22 So in original. Probably should not be capitalized. programs) in community service activities, or has received a waiver of those requirements from the Secretary of Education.
 
 **(h) Definition** Notwithstanding [section 12511 of this title](./chapter-129-national-and-community-service.md#section-12511), as used in this part, the term “student” means an individual who is enrolled in an institution of higher education on a full- or part-time basis.
 
-**(i) National service educational award** A participant in a program funded under this part shall be eligible for the national service educational award described in division D of this subchapter, if the participant served in an approved national service position.
+**(i) National service educational award** A participant in a program funded under this part shall be eligible for the national service educational award described in division D, if the participant served in an approved national service position.
 
 ### Statutory Notes
 
 #### References in Text
-The Higher Education Act of 1965, referred to in subsecs. (b)(5) and (g), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part C of title IV of the Act is classified generally to part C (§ 2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education, and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (b)(5) and (g), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part C of title IV of the Act was formerly classified generally to part C (§ 2751 et seq.) of subchapter I of chapter 34 of this title prior to transfer to part C (§ 1087–51 et seq.) of subchapter IV of chapter 28 of Title 20, Education. Section 443 of the Act was transferred from [section 2753 of this title](./chapter-034-economic-opportunity-program.md#section-2753) to [section 1087–53 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087–53&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 118 of Pub. L. 101–610 was classified to [section 12551 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12551&num=0&edition=prelim) prior to the general amendment of part I of this division by Pub. L. 111–13.
@@ -1270,9 +1280,9 @@ Part effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an 
 
     (ii) the number and percentage of undergraduate students and, if applicable, the number and percentage of graduate students at such institution who were enrolled in the corresponding courses described in clause (i), for such preceding academic year;
 
-  (B) the percentage of undergraduate students engaging in and, if applicable, the percentage of graduate students engaging in activities providing community services, as defined in section 441(c) of the Higher Education Act of 1965 ([42 U.S.C. 2751(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751/c&num=0&edition=prelim)), during such preceding academic year, the quality of such activities, and the average amount of time spent, per student, engaged in such activities;
+  (B) the percentage of undergraduate students engaging in and, if applicable, the percentage of graduate students engaging in activities providing community services, as defined in section 441(c) of the Higher Education Act of 1965 ([42 U.S.C. 2751(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751/c&num=0&edition=prelim)),11 See References in Text note below. during such preceding academic year, the quality of such activities, and the average amount of time spent, per student, engaged in such activities;
 
-  (C) for such preceding academic year, the percentage of Federal work-study funds made available to the institution under part C of title IV of the Higher Education Act of 1965 ([42 U.S.C. 2751](./chapter-034-economic-opportunity-program.md#section-2751) et seq.) that is used to compensate students employed in providing community services, as so defined, and a description of the efforts the institution undertakes to make available to students opportunities to provide such community services and be compensated through such work-study funds;
+  (C) for such preceding academic year, the percentage of Federal work-study funds made available to the institution under part C of title IV of the Higher Education Act of 1965 ([42 U.S.C. 2751](./chapter-034-economic-opportunity-program.md#section-2751) et seq.) 1 that is used to compensate students employed in providing community services, as so defined, and a description of the efforts the institution undertakes to make available to students opportunities to provide such community services and be compensated through such work-study funds;
 
   (D) at the discretion of the institution, information demonstrating the degree to which recent graduates of the institution, and all graduates of the institution, have obtained full-time public service employment in the nonprofit sector or government, with a private nonprofit organization or a Federal, State, or local public agency; and
 
@@ -1305,7 +1315,7 @@ Part effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an 
 ### Statutory Notes
 
 #### References in Text
-The Higher Education Act of 1965, referred to in subsec. (b)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part C of title IV of the Act is classified generally to part C (§ 2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education, and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part C of title IV of the Act was formerly classified generally to part C (§ 2751 et seq.) of subchapter I of chapter 34 of this title prior to transfer to part C (§ 1087–51 et seq.) of subchapter IV of chapter 28 of Title 20, Education. Section 441 of the Act was transferred from [section 2751 of this title](./chapter-034-economic-opportunity-program.md#section-2751) to [section 1087–51 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087–51&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Effective Date
 Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
@@ -1327,7 +1337,7 @@ Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out
 
       (I) a high number or percentage, as determined by the Corporation, of the students served by the agency are economically disadvantaged students; and
 
-      (II) the graduation rate (as defined in [section 6311(b)(2)(C)(vi) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/C/vi&num=0&edition=prelim) and as clarified in applicable regulations promulgated by the Department of Education 11 So in original. Probably should be followed by a closing parenthesis. for the secondary school students served by the agency is less than 70 percent; and
+      (II) the four-year adjusted cohort graduation rate (as defined in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)) for the secondary school students served by the agency is less than 70 percent; and
 
   (B) may also include—
 
@@ -1339,7 +1349,7 @@ Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out
 
     (iv) a State Commission or State educational agency; or
 
-    (v) more than 1 local educational agency described in subclause (I).22 So in original. Clause (v) does not contain subclauses.
+    (v) more than 1 local educational agency described in subclause (I).11 So in original. Clause (v) does not contain subclauses.
 
 (3) **Youth engagement zone** — The term “youth engagement zone” means the area in which a youth engagement zone program is carried out.
 
@@ -1387,7 +1397,7 @@ Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out
 
     (ii) that may include the extension of academic year service-learning programs into the summer months; and
 
-    (iii) under which a student who completes 100 hours of service as described in [section 12602(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12602/b/2&num=0&edition=prelim),33 So in original. Comma probably should not appear. shall be eligible for a summer of service educational award of $500 or $750 as described in sections 12602(a)(2)(C) and 12603(d) of this title;
+    (iii) under which a student who completes 100 hours of service as described in [section 12602(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12602/b/2&num=0&edition=prelim),22 So in original. Comma probably should not appear. shall be eligible for a summer of service educational award of $500 or $750 as described in sections 12602(a)(2)(C) and 12603(d) of this title;
 
 (9) establish or implement youth engagement zone programs in youth engagement zones, for students in secondary schools served by local educational agencies for which a majority of such students do not participate in service-learning activities that are—
 
@@ -1441,6 +1451,12 @@ For the effective date of the Serve America Act, referred to in subsec. (f)(3), 
 #### Prior Provisions
 A prior section 119 of Pub. L. 101–610 was renumbered section 118 and is classified to [section 12561 of this title](./chapter-129-national-and-community-service.md#section-12561).
 
+#### Amendments
+2015—Subsec. (a)(2)(A)(ii)(II). Pub. L. 114–95 substituted “the four-year adjusted cohort graduation rate (as defined in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim))” for “the graduation rate (as defined in [section 6311(b)(2)(C)(vi) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/C/vi&num=0&edition=prelim) and as clarified in applicable regulations promulgated by the Department of Education”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 #### Effective Date
 Part effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 
@@ -1475,7 +1491,7 @@ Section, Pub. L. 101–610, title I, § 120, as added Pub. L. 111–13, title I,
 
 **(c) Provision of approved national service positions** As part of the provision of assistance under subsection (a), and in providing approved national service positions under subsection (b), the Corporation shall—
 
-(1) approve the provision of national service educational awards described in division D of this subchapter for the participants who serve in national service programs carried out using such assistance; and
+(1) approve the provision of national service educational awards described in division D for the participants who serve in national service programs carried out using such assistance; and
 
 (2) deposit in the National Service Trust established in [section 12601(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12601/a&num=0&edition=prelim) an amount equal to the product of—
 
@@ -1503,7 +1519,7 @@ Section, Pub. L. 101–610, title I, § 120, as added Pub. L. 111–13, title I,
 
 **(e) Matching funds requirements**
 
-(1) **Requirements** — Except as provided in [section 12594 of this title](./chapter-129-national-and-community-service.md#section-12594), the Corporation share of the cost (including the costs of member living allowances, employment-related taxes, health care coverage, and workers’ compensation and other necessary operation costs) of carrying out a national service program that receives the assistance under subsection (a) of this section, whether the assistance is provided directly or as a subgrant from the original recipient of the assistance, may not exceed 75 percent of such cost.
+(1) **Requirements** — Except as provided in [section 12594 of this title](./chapter-129-national-and-community-service.md#section-12594), the Corporation share of the cost (including the costs of member living allowances, employment-related taxes, health care coverage, and workers’ compensation and other necessary operation costs) of carrying out a national service program that receives the assistance under subsection (a), whether the assistance is provided directly or as a subgrant from the original recipient of the assistance, may not exceed 75 percent of such cost.
 
 (2) **Calculation** — In providing for the remaining share of the cost of carrying out a national service program, the program—
 
@@ -1595,9 +1611,11 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 Division effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
 
 #### Overall Minimum Share Requirement
-Pub. L. 113–235, div. G, title IV, § 402, Dec. 16, 2014, 128 Stat. 2508, provided that: “AmeriCorps programs receiving grants under the National Service Trust program shall meet an overall minimum share requirement of 24 percent for the first 3 years that they receive AmeriCorps funding, and thereafter shall meet the overall minimum share requirement as provided in section 2521.60 of title 45, Code of Federal Regulations, without regard to the operating costs match requirement in section 121(e) [[42 U.S.C. 12571(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12571/e&num=0&edition=prelim)] or the member support Federal share limitations in section 140 of the 1990 Act [National and Community Service Act of 1990, [42 U.S.C. 12594](./chapter-129-national-and-community-service.md#section-12594)], and subject to partial waiver consistent with section 2521.70 of title 45, Code of Federal Regulations.”
+Pub. L. 114–113, div. H, title IV, § 404, Dec. 18, 2015, 129 Stat. 2642, provided that: “AmeriCorps programs receiving grants under the National Service Trust program shall meet an overall minimum share requirement of 24 percent for the first 3 years that they receive AmeriCorps funding, and thereafter shall meet the overall minimum share requirement as provided in section 2521.60 of title 45, Code of Federal Regulations, without regard to the operating costs match requirement in section 121(e) [[42 U.S.C. 12571(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12571/e&num=0&edition=prelim)] or the member support Federal share limitations in section 140 of the 1990 Act [National and Community Service Act of 1990, [42 U.S.C. 12594](./chapter-129-national-and-community-service.md#section-12594)], and subject to partial waiver consistent with section 2521.70 of title 45, Code of Federal Regulations.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. G, title IV, § 402, Dec. 16, 2014, 128 Stat. 2508.
 
 Pub. L. 113–76, div. H, title IV, § 402, Jan. 17, 2014, 128 Stat. 402.
 
@@ -1656,7 +1674,7 @@ Pub. L. 110–161, div. G, title IV, § 407, Dec. 26, 2007, 121 Stat. 2202.
 
     (ii) student academic achievement;
 
-    (iii) secondary school graduation rates as defined in [section 6311(b)(2)(C)(vi) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/C/vi&num=0&edition=prelim) and as clarified in applicable regulations promulgated by the Department of Education;
+    (iii) four-year adjusted cohort graduation rate (as defined in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim));
 
     (iv) rate of college enrollment and continued college enrollment for recipients of a high school diploma;
 
@@ -1930,7 +1948,7 @@ Pub. L. 110–161, div. G, title IV, § 407, Dec. 26, 2007, 121 Stat. 2202.
 
   (C) A campus-based program that is designed to provide substantial service in a community during the school term and during summer or other vacation periods through the use of—
 
-    (i) students who are attending an institution of higher education, including students participating in a work-study program assisted under part C of title IV of the Higher Education Act of 1965 ([42 U.S.C. 2751](./chapter-034-economic-opportunity-program.md#section-2751) et seq.);
+    (i) students who are attending an institution of higher education, including students participating in a work-study program assisted under part C of title IV of the Higher Education Act of 1965 ([42 U.S.C. 2751](./chapter-034-economic-opportunity-program.md#section-2751) et seq.); 11 See References in Text note below.
 
     (ii) teams composed of students described in clause (i); or
 
@@ -2033,7 +2051,7 @@ Pub. L. 110–161, div. G, title IV, § 407, Dec. 26, 2007, 121 Stat. 2202.
 #### References in Text
 This chapter, referred to in subsecs. (b)(2)(F)(ii) and (f)(1)(A), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of this title](./chapter-129-national-and-community-service.md#section-12501) and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (c)(1)(C)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part C of title IV of the Act is classified generally to part C (§ 2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education, and Tables.
+The Higher Education Act of 1965, referred to in subsec. (c)(1)(C)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part C of title IV of the Act was formerly classified generally to part C (§ 2751 et seq.) of subchapter I of chapter 34 of this title prior to transfer to part C (§ 1087–51 et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (k)(4)(B), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Part A of title I of the Act is classified generally to part A (§ 4951 et seq.) of subchapter I of chapter 66 of this title. Parts A and B of title II of the Act are classified generally to parts A (§ 5001) and B (§ 5011 et seq.), respectively, of subchapter II of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950) and Tables.
 
@@ -2043,7 +2061,12 @@ A prior section 12572, Pub. L. 101–610, title I, § 142, Nov. 16, 1990, 104 St
 A prior section 122 of Pub. L. 101–610 was renumbered section 199B, and is classified to [section 12655a of this title](./chapter-129-national-and-community-service.md#section-12655a).
 
 #### Amendments
+2015—Subsec. (a)(1)(C)(iii). Pub. L. 114–95 substituted “four-year adjusted cohort graduation rate (as defined in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim))” for “secondary school graduation rates as defined in [section 6311(b)(2)(C)(vi) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/C/vi&num=0&edition=prelim) and as clarified in applicable regulations promulgated by the Department of Education”.
+
 2009—Pub. L. 111–13 substituted “National” for “Types of national” in section catchline and amended text generally. Prior to amendment, section enumerated eligible types of national service programs, set forth qualification criteria to determine eligibility, and required establishment of priorities regarding national service programs.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
@@ -2052,7 +2075,7 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 <a id="section-12574"></a>
 ## § 12574. Types of national service positions eligible for approval for national service educational awards
 
-The Corporation may approve of any of the following service positions as an approved national service position that includes the national service educational award described in division D of this subchapter as one of the benefits to be provided for successful service in the position:
+The Corporation may approve of any of the following service positions as an approved national service position that includes the national service educational award described in division D as one of the benefits to be provided for successful service in the position:
 
 (1) A position for a participant in a national service program described in subsection (a), (b), or (c) of [section 12572 of this title](./chapter-129-national-and-community-service.md#section-12572) that receives assistance under subsection (a) of [section 12571 of this title](./chapter-129-national-and-community-service.md#section-12571).
 
@@ -2064,9 +2087,9 @@ The Corporation may approve of any of the following service positions as an appr
 
 (3) A position involving service as a VISTA volunteer under title I of the Domestic Volunteer Service Act of 1973 ([42 U.S.C. 4951](./chapter-066-domestic-volunteer-services.md#section-4951) et seq.).
 
-(4) A position facilitating service-learning in a program described in [section 12572(a)(1)(B)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12572/a/1/B/vi&num=0&edition=prelim) that is eligible for assistance under part I of division B of this subchapter.
+(4) A position facilitating service-learning in a program described in [section 12572(a)(1)(B)(vi) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12572/a/1/B/vi&num=0&edition=prelim) that is eligible for assistance under part I of division B.
 
-(5) A position for a participant in the National Civilian Community Corps under division E of this subchapter.
+(5) A position for a participant in the National Civilian Community Corps under division E.
 
 (6) A position involving service as a crew leader in a youth corps program or a similar position supporting a national service program that receives an approved national service position.
 
@@ -2349,7 +2372,7 @@ Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out
 ## § 12583. Application for assistance and approved national service positions
 **(a) Time, manner, and content of application** To be eligible to receive assistance under [section 12571(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12571/a&num=0&edition=prelim) or approved national service positions for participants who serve in the national service programs to be carried out using the assistance, a State, territory, subdivision of a State, Indian tribe, public or private nonprofit organization, or institution of higher education shall prepare and submit to the Corporation an application at such time, in such manner, and containing such information as the Corporation may reasonably require.
 
-**(b) Types of permissible application information** In order to have adequate information upon which to consider an application under [section 12585 of this title](./chapter-129-national-and-community-service.md#section-12585), the Corporation may require the following information to be provided in an application submitted under subsection (a) of this section:
+**(b) Types of permissible application information** In order to have adequate information upon which to consider an application under [section 12585 of this title](./chapter-129-national-and-community-service.md#section-12585), the Corporation may require the following information to be provided in an application submitted under subsection (a):
 
 (1) A description of the national service programs proposed to be carried out directly by the applicant using assistance provided under [section 12571 of this title](./chapter-129-national-and-community-service.md#section-12571).
 
@@ -2379,13 +2402,13 @@ Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out
 
 (10) A description of the past experience of the applicant in operating a comparable program or in conducting a grant program in support of other comparable service programs.
 
-(11) A description of the type and number of proposed service positions in which participants will receive the national service educational award described in division D of this subchapter and a description of the manner in which approved national service positions will be apportioned by the applicant.
+(11) A description of the type and number of proposed service positions in which participants will receive the national service educational award described in division D and a description of the manner in which approved national service positions will be apportioned by the applicant.
 
 (12) A description of the manner and extent to which participants, representatives of the community served, community-based agencies with a demonstrated record of experience in providing services, municipalities and governments of counties in which such a community is located, and labor organizations contributed to the development of the national service programs referred to in paragraphs (1) and (2), including the identity of the individual representing each appropriate labor organization (if any) who was consulted and the nature of the consultation.
 
 (13) Such other information as the Corporation may reasonably require.
 
-**(c) Required application information** An application submitted under subsection (a) of this section shall contain the following information:
+**(c) Required application information** An application submitted under subsection (a) shall contain the following information:
 
 (1) A description of the proposed positions into which participants will be placed using the assistance provided under [section 12571 of this title](./chapter-129-national-and-community-service.md#section-12571).
 
@@ -2556,7 +2579,7 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 <a id="section-12584a"></a>
 ## § 12584a. Ineligible service categories
-**(a) In general** Except as provided in subsection (b) of this section, an application submitted to the Corporation under [section 12582 of this title](./chapter-129-national-and-community-service.md#section-12582) shall include an assurance by the applicant that any national service program carried out using assistance provided under [section 12571 of this title](./chapter-129-national-and-community-service.md#section-12571) and any approved national service position provided to an applicant will not be used to perform service that provides a direct benefit to any—
+**(a) In general** Except as provided in subsection (b), an application submitted to the Corporation under [section 12582 of this title](./chapter-129-national-and-community-service.md#section-12582) shall include an assurance by the applicant that any national service program carried out using assistance provided under [section 12571 of this title](./chapter-129-national-and-community-service.md#section-12571) and any approved national service position provided to an applicant will not be used to perform service that provides a direct benefit to any—
 
 (1) business organized for profit;
 
@@ -2578,7 +2601,7 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 (5) nonprofit organization that fails to comply with the restrictions contained in [section 501(c) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c&num=0&edition=prelim), except that nothing in this section shall be construed to prevent participants from engaging in advocacy activities undertaken at their own initiative.
 
-**(b) Regional Corporation** The requirement of subsection (a) of this section relating to an assurance regarding direct benefits to businesses organized for profit shall not apply with respect to a Regional Corporation, as defined in section 3(g) of the Alaska Native Claims Settlement Act ([43 U.S.C. 1602(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602/g&num=0&edition=prelim)), that is established in accordance with such Act [[43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.] as a for-profit corporation but that is engaging in nonprofit activities.
+**(b) Regional Corporation** The requirement of subsection (a) relating to an assurance regarding direct benefits to businesses organized for profit shall not apply with respect to a Regional Corporation, as defined in section 3(g) of the Alaska Native Claims Settlement Act ([43 U.S.C. 1602(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602/g&num=0&edition=prelim)), that is established in accordance with such Act [[43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) et seq.] as a for-profit corporation but that is engaging in nonprofit activities.
 
 ### Statutory Notes
 
@@ -2637,15 +2660,15 @@ Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out
 
 <a id="section-12591"></a>
 ## § 12591. Consideration of applications
-**(a) Corporation consideration of certain criteria** The Corporation shall apply the criteria described in subsections (c) and (d) of this section in determining whether—
+**(a) Corporation consideration of certain criteria** The Corporation shall apply the criteria described in subsections (c) and (d) in determining whether—
 
 (1) to approve an application submitted under [section 12582 of this title](./chapter-129-national-and-community-service.md#section-12582) and provide assistance under [section 12571 of this title](./chapter-129-national-and-community-service.md#section-12571) to the applicant; and
 
-(2) to approve service positions described in the application as national service positions that include the national service educational award described in division D of this subchapter and provide such approved national service positions to the applicant.
+(2) to approve service positions described in the application as national service positions that include the national service educational award described in division D and provide such approved national service positions to the applicant.
 
 **(b) Application to subgrants**
 
-(1) **In general** — A State or other entity that uses assistance provided under [section 12571(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12571/a&num=0&edition=prelim) to support national service programs selected on a competitive basis to receive a share of the assistance shall use the criteria described in subsections (c) and (d) of this section when considering an application submitted by a national service program to receive a portion of such assistance or an approved national service position.
+(1) **In general** — A State or other entity that uses assistance provided under [section 12571(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12571/a&num=0&edition=prelim) to support national service programs selected on a competitive basis to receive a share of the assistance shall use the criteria described in subsections (c) and (d) when considering an application submitted by a national service program to receive a portion of such assistance or an approved national service position.
 
 (2) **Contents** — The application of the State or other entity under [section 12582 of this title](./chapter-129-national-and-community-service.md#section-12582) shall contain—
 
@@ -2720,7 +2743,7 @@ Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out
 
 **(e) Emphasis on areas most in need** In making assistance available under [section 12571 of this title](./chapter-129-national-and-community-service.md#section-12571) and in providing approved national service positions under [section 12573 of this title](./chapter-129-national-and-community-service.md#section-12573), the Corporation shall ensure that not less than 50 percent of the total amount of assistance to be distributed to States under subsections (d) and (e) of [section 12581 of this title](./chapter-129-national-and-community-service.md#section-12581) for a fiscal year is provided to carry out or support national service programs and projects that—
 
-(1) are conducted in any of the areas described in subsection (c)(6) of this section or on Federal or other public lands, to address unmet human, educational, environmental, or public safety needs in such areas or on such lands; and
+(1) are conducted in any of the areas described in subsection (c)(6) or on Federal or other public lands, to address unmet human, educational, environmental, or public safety needs in such areas or on such lands; and
 
 (2) place a priority on the recruitment of participants who are residents of any of such areas or Federal or other public lands.
 
@@ -2778,11 +2801,11 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 **(b) Special rules for certain youth programs** An individual shall be considered to be a participant in a youth corps program described in [section 12572(a)(3)(B)(x) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12572/a/3/B/x&num=0&edition=prelim) that is carried out with assistance provided under [section 12571(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12571/a&num=0&edition=prelim) if the individual—
 
-(1) satisfies the requirements specified in subsection (a) of this section, except paragraph (3) of such subsection; and
+(1) satisfies the requirements specified in subsection (a), except paragraph (3) of such subsection; and
 
 (2) is between the ages of 16 and 25, inclusive, at the time the individual begins the term of service.
 
-**(c) Waiver** The Corporation may waive the requirements of subsection (a)(4) of this section with respect to an individual if the program in which the individual seeks to become a participant conducts an independent evaluation demonstrating that the individual is incapable of obtaining a high school diploma or its equivalent.
+**(c) Waiver** The Corporation may waive the requirements of subsection (a)(4) with respect to an individual if the program in which the individual seeks to become a participant conducts an independent evaluation demonstrating that the individual is incapable of obtaining a high school diploma or its equivalent.
 
 ### Statutory Notes
 
@@ -2806,7 +2829,7 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 <a id="section-12593"></a>
 ## § 12593. Selection of national service participants
-**(a) Selection process** Subject to subsections (b) and (c) of this section and [section 12583(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12583/f&num=0&edition=prelim), the actual recruitment and selection of an individual to serve in a national service program receiving assistance under [section 12571 of this title](./chapter-129-national-and-community-service.md#section-12571) or to fill an approved national service position shall be conducted by the entity to which the assistance and approved national service positions are provided.
+**(a) Selection process** Subject to subsections (b) and (c) and [section 12583(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12583/f&num=0&edition=prelim), the actual recruitment and selection of an individual to serve in a national service program receiving assistance under [section 12571 of this title](./chapter-129-national-and-community-service.md#section-12571) or to fill an approved national service position shall be conducted by the entity to which the assistance and approved national service positions are provided.
 
 **(b) Nondiscrimination and nonpolitical selection of participants** The recruitment and selection of individuals to serve in national service programs receiving assistance under [section 12571 of this title](./chapter-129-national-and-community-service.md#section-12571) or to fill approved national service positions shall be consistent with the requirements of [section 12635 of this title](./chapter-129-national-and-community-service.md#section-12635).
 
@@ -2816,7 +2839,7 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 **(e) National leadership pool**
 
-(1) **Selection and training** — From among individuals recruited under subsection (d) of this section, the Corporation may select individuals with significant leadership potential, as determined by the Corporation, to receive special training to enhance their leadership ability. The leadership training shall be provided by the Corporation directly or through a grant or contract.
+(1) **Selection and training** — From among individuals recruited under subsection (d), the Corporation may select individuals with significant leadership potential, as determined by the Corporation, to receive special training to enhance their leadership ability. The leadership training shall be provided by the Corporation directly or through a grant or contract.
 
 (2) **Emphasis on certain individuals** — In selecting individuals to receive leadership training under this subsection, the Corporation shall make special efforts to select individuals who have served—
 
@@ -2854,7 +2877,7 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 <a id="section-12594"></a>
 ## § 12594. Terms of service
-**(a) In general** As a condition of receiving a national service education award under division D of this subchapter, a participant in an approved national service position shall be required to perform full- or part-time national service for at least one term of service specified in subsection (b) of this section.
+**(a) In general** As a condition of receiving a national service education award under division D, a participant in an approved national service position shall be required to perform full- or part-time national service for at least one term of service specified in subsection (b).
 
 **(b) Term of service**
 
@@ -2862,7 +2885,7 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 (2) **Part-time service** — Except as provided in paragraph (3), an individual performing part-time national service in an approved national service position shall agree to participate in the program sponsoring the position for not less than 900 hours during a period of not more than 2 years.
 
-(3) **Reduction in hours of part-time service** — The Corporation may reduce the number of hours required to be served to successfully complete part-time national service to a level determined by the Corporation, except that any reduction in the required term of service shall include a corresponding reduction in the amount of any national service educational award that may be available under division D of this subchapter with regard to that service.
+(3) **Reduction in hours of part-time service** — The Corporation may reduce the number of hours required to be served to successfully complete part-time national service to a level determined by the Corporation, except that any reduction in the required term of service shall include a corresponding reduction in the amount of any national service educational award that may be available under division D with regard to that service.
 
 (4) **Extension of term for disaster purposes**
 
@@ -2917,9 +2940,9 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 (1) **Living allowance required** — Subject to paragraphs (2) and (3), a national service program carried out using assistance provided under [section 12571 of this title](./chapter-129-national-and-community-service.md#section-12571) shall provide to each participant who participates on a full-time basis in the program a living allowance in an amount equal to or greater than the average annual subsistence allowance provided to VISTA volunteers under [section 4955 of this title](./chapter-066-domestic-volunteer-services.md#section-4955).
 
-(2) **Maximum living allowance** — Except as provided in subsection (c) of this section, the total amount of an annual living allowance that may be provided to a participant in a national service program shall not exceed 200 percent of the average annual subsistence allowance provided to VISTA volunteers under [section 4955 of this title](./chapter-066-domestic-volunteer-services.md#section-4955).
+(2) **Maximum living allowance** — Except as provided in subsection (c), the total amount of an annual living allowance that may be provided to a participant in a national service program shall not exceed 200 percent of the average annual subsistence allowance provided to VISTA volunteers under [section 4955 of this title](./chapter-066-domestic-volunteer-services.md#section-4955).
 
-(3) **Federal work-study students** — The living allowance that may be provided under paragraph (1) to an individual whose term of service includes hours for which the individual receives a Federal work-study award under part C of title IV of the Higher Education Act of 1965 ([42 U.S.C. 2751](./chapter-034-economic-opportunity-program.md#section-2751) et seq.) shall be reduced by the amount of the individual’s Federal work study award.
+(3) **Federal work-study students** — The living allowance that may be provided under paragraph (1) to an individual whose term of service includes hours for which the individual receives a Federal work-study award under part C of title IV of the Higher Education Act of 1965 ([42 U.S.C. 2751](./chapter-034-economic-opportunity-program.md#section-2751) et seq.) 11 See References in Text note below. shall be reduced by the amount of the individual’s Federal work study award.
 
 (4) **Proration of living allowance** — The amount provided as a living allowance under this subsection shall be prorated in the case of a participant who is authorized to serve a term of service that is less than 12 months.
 
@@ -2955,12 +2978,12 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 (2) **Guidelines** — The Corporation shall establish guidelines regarding the circumstances under which child care shall be made available under this subsection and the value of any allowance to be provided.
 
-**(f) Individualized support services** A State or other recipient of assistance under [section 12571 of this title](./chapter-129-national-and-community-service.md#section-12571) shall provide reasonable accommodation, including auxiliary aids and services (as defined in section 12102(1) 11 See References in Text note below. of this title), based on the individualized need of a participant who is a qualified individual with a disability (as defined in [section 12111(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12111/8&num=0&edition=prelim)).
+**(f) Individualized support services** A State or other recipient of assistance under [section 12571 of this title](./chapter-129-national-and-community-service.md#section-12571) shall provide reasonable accommodation, including auxiliary aids and services (as defined in section 12102(1) 1 of this title), based on the individualized need of a participant who is a qualified individual with a disability (as defined in [section 12111(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12111/8&num=0&edition=prelim)).
 
 ### Statutory Notes
 
 #### References in Text
-The Higher Education Act of 1965, referred to in subsec. (a)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part C of title IV of the Act is classified generally to part C (§ 2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education, and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part C of title IV of the Act was formerly classified generally to part C (§ 2751 et seq.) of subchapter I of chapter 34 of this title prior to transfer to part C (§ 1087–51 et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 [Section 12102 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12102), referred to in subsec. (f), was amended generally by Pub. L. 110–325, § 4(a), Sept. 25, 2008, 122 Stat. 3555, and, as so amended, no longer defines “auxiliary aids and services”. However, such term is defined in [section 12103(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12103/1&num=0&edition=prelim).
 
@@ -2994,7 +3017,7 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 <a id="section-12601"></a>
 ## § 12601. National service educational awards
-**(a) Eligibility generally** A participant in a national service program carried out using assistance provided to an applicant under [section 12571 of this title](./chapter-129-national-and-community-service.md#section-12571) shall be eligible for the national service educational award described in division D of this subchapter if the participant—
+**(a) Eligibility generally** A participant in a national service program carried out using assistance provided to an applicant under [section 12571 of this title](./chapter-129-national-and-community-service.md#section-12571) shall be eligible for the national service educational award described in division D if the participant—
 
 (1) serves in an approved national service position; and
 
@@ -3034,7 +3057,7 @@ A prior section 141 of Pub. L. 101–610 was classified to [section 12571 of thi
 
 **(d) Reports to the authorizing committees on receipts and expenditures** Not later than March 1 of each year, the Corporation shall submit a report to the authorizing committees on the financial status of the Trust during the preceding fiscal year. Such report shall—
 
-(1) specify the amount deposited to the Trust from the most recent appropriation to the Corporation, the amount received by the Corporation as gifts, bequests, devises, or otherwise pursuant to [section 12651g(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12651g/a/2&num=0&edition=prelim) during the period covered by the report, and any amounts obtained by the Trust pursuant to subsection (a)(3) of this section;
+(1) specify the amount deposited to the Trust from the most recent appropriation to the Corporation, the amount received by the Corporation as gifts, bequests, devises, or otherwise pursuant to [section 12651g(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12651g/a/2&num=0&edition=prelim) during the period covered by the report, and any amounts obtained by the Trust pursuant to subsection (a)(3);
 
 (2) identify the number of individuals who are currently performing service to qualify, or have qualified, for national service educational awards, summer of service educational awards, or silver scholar awards;
 
@@ -3226,7 +3249,7 @@ Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out
 ## § 12604. Determination of the amount of the educational award
 **(a) Amount for full-time national service** Except as provided in subsection (c), an individual described in [section 12602(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12602/a&num=0&edition=prelim) who successfully completes a required term of full-time national service in an approved national service position shall receive a national service educational award having a value equal to the maximum amount of a Federal Pell Grant under [section 1070a of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a&num=0&edition=prelim) that a student eligible for such Grant may receive in the aggregate (without regard to whether the funds are provided through discretionary or mandatory appropriations), for the award year for which the national service position is approved by the Corporation.
 
-**(b) Amount for part-time national service** Except as provided in subsection (c) of this section, an individual described in [section 12602(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12602/a&num=0&edition=prelim) who successfully completes a required term of part-time national service in an approved national service position shall receive a national service educational award having a value equal to 50 percent of value of the national service educational award determined under subsection (a) of this section.
+**(b) Amount for part-time national service** Except as provided in subsection (c), an individual described in [section 12602(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12602/a&num=0&edition=prelim) who successfully completes a required term of part-time national service in an approved national service position shall receive a national service educational award having a value equal to 50 percent of value of the national service educational award determined under subsection (a).
 
 **(c) Award for partial completion of service** If an individual serving in an approved national service position is released in accordance with [section 12593(c)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12593/c/1/A&num=0&edition=prelim) from completing the full-time or part-time term of service agreed to by the individual, the Corporation may provide the individual with that portion of the national service educational award approved for the individual that corresponds to the quantity of the term of service actually completed by the individual.
 
@@ -3260,15 +3283,15 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 ## § 12605. Disbursement of educational awards
 **(a) In general** Amounts in the Trust shall be available—
 
-(1) to repay student loans in accordance with subsection (b) of this section;
+(1) to repay student loans in accordance with subsection (b);
 
-(2) to pay all or part of the cost of attendance or other educational expenses at an institution of higher education in accordance with subsection (c) of this section;
+(2) to pay all or part of the cost of attendance or other educational expenses at an institution of higher education in accordance with subsection (c);
 
-(3) to pay expenses incurred in participating in an approved school-to-work program in accordance with subsection (d) of this section;
+(3) to pay expenses incurred in participating in an approved school-to-work program in accordance with subsection (d);
 
 (4) to pay expenses incurred in enrolling in an educational institution or training establishment that is approved under chapter 36 of title 38, or other applicable provisions of law, for offering programs of education, apprenticeship, or on-job training for which educational assistance may be provided by the Secretary of Veterans Affairs; and
 
-(5) to pay interest expenses in accordance with regulations prescribed pursuant to subsection (e) of this section.
+(5) to pay interest expenses in accordance with regulations prescribed pursuant to subsection (e).
 
 **(b) Use of educational award to repay outstanding student loans**
 
@@ -3294,7 +3317,7 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 (7) **“Qualified student loans” defined** — As used in this subsection, the term “qualified student loans” means—
 
-  (A) any loan made, insured, or guaranteed pursuant to title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq. [and [42 U.S.C. 2751](./chapter-034-economic-opportunity-program.md#section-2751) et seq.]), other than a loan to a parent of a student pursuant to section 428B of such Act ([20 U.S.C. 1078–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078–2&num=0&edition=prelim));
+  (A) any loan made, insured, or guaranteed pursuant to title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.), other than a loan to a parent of a student pursuant to section 428B of such Act ([20 U.S.C. 1078–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078–2&num=0&edition=prelim));
 
   (B) any loan made pursuant to title VII or VIII of the Public Health Service Act [[42 U.S.C. 292](./chapter-6a-public-health-service.md#section-292) et seq., 296 et seq.]; and
 
@@ -3324,7 +3347,7 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
     (i) the institution of higher education has in effect a program participation agreement under section 487 of the Higher Education Act of 1965 ([20 U.S.C. 1094](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1094&num=0&edition=prelim));
 
-    (ii) the institution’s eligibility to participate in any of the programs under title IV of such Act ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq. [and [42 U.S.C. 2751](./chapter-034-economic-opportunity-program.md#section-2751) et seq.]) has not been limited, suspended, or terminated; and
+    (ii) the institution’s eligibility to participate in any of the programs under title IV of such Act ([20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.) has not been limited, suspended, or terminated; and
 
     (iii) individuals using national service educational awards, summer of service educational awards, or silver scholar educational awards, as applicable, received under this division to pay for educational costs do not comprise more than 15 percent of the total student population of the institution; and
 
@@ -3389,7 +3412,7 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 ### Statutory Notes
 
 #### References in Text
-The Higher Education Act of 1965, referred to in subsecs. (b)(7)(A), (C)(ii) and (c)(2)(C)(ii), (6)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of this title. Parts A and D of title IV of the Act are classified generally to parts A (§ 1070 et seq.) and C (§ 1087a et seq.), respectively, of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (b)(7)(A), (C)(ii) and (c)(2)(C)(ii), (6)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. Parts A and D of title IV of the Act are classified generally to parts A (§ 1070 et seq.) and D (§ 1087a et seq.), respectively, of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 The Public Health Service Act, referred to in subsec. (b)(7)(B), is act July 1, 1944, ch. 373, 58 Stat. 682. Titles VII and VIII of the Act are classified generally to subchapters V (§ 292 et seq.) and VI (§ 296 et seq.), respectively, of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
@@ -3551,7 +3574,7 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 ## § 12613. Establishment of National Civilian Community Corps Program
 **(a) In general** The Corporation may establish the National Civilian Community Corps Program to carry out the purpose of this division.
 
-**(b) Program components** Under the National Civilian Community Corps Program authorized by subsection (a) of this section, the members of a National Civilian Community Corps shall receive training and perform service in at least one of the following two program components:
+**(b) Program components** Under the National Civilian Community Corps Program authorized by subsection (a), the members of a National Civilian Community Corps shall receive training and perform service in at least one of the following two program components:
 
 (1) A national service program.
 
@@ -3835,7 +3858,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 
 **(c) Project selection, organization, and performance**
 
-(1) **Selection** — The campus director of a Corps campus shall select the projects to be performed by the members of the Corps assigned to the units in that campus. The campus director shall select projects from among the projects proposed or identified pursuant to subsection (b) of this section.
+(1) **Selection** — The campus director of a Corps campus shall select the projects to be performed by the members of the Corps assigned to the units in that campus. The campus director shall select projects from among the projects proposed or identified pursuant to subsection (b).
 
 (2) **Innovative local arrangements for project performance** — The Director shall encourage campus directors to negotiate with representatives of local communities, to the extent practicable, innovative arrangements for the performance of projects. The arrangements may provide for cost-sharing and the provision by the communities of in-kind support and other support.
 
@@ -3901,15 +3924,15 @@ Amendment by section 402(b)(2) of Pub. L. 103–82 effective Oct. 1, 1993, see s
 
 **(d) Supportive services** As the Director determines appropriate, the Director may provide each member of the Corps with health care services, child care services, counseling services, and other supportive services.
 
-**(e) Post-service benefits** Upon completion of the agreed period of service with the Corps, a member shall elect to receive the educational assistance under subsection (f) of this section or the cash benefit under subsection (g) of this section.
+**(e) Post-service benefits** Upon completion of the agreed period of service with the Corps, a member shall elect to receive the educational assistance under subsection (f) or the cash benefit under subsection (g).
 
-**(f) National service educational awards** A Corps member who successfully completes a period of agreed service in the Corps may receive the national service educational award described in division D of this subchapter if the Corps member—
+**(f) National service educational awards** A Corps member who successfully completes a period of agreed service in the Corps may receive the national service educational award described in division D if the Corps member—
 
 (1) serves in an approved national service position; and
 
 (2) satisfies the eligibility requirements specified in [section 12602 of this title](./chapter-129-national-and-community-service.md#section-12602) with respect to service in that approved national service position.
 
-**(g) Alternative benefit** If a Corps member who successfully completes a period of agreed service in the Corps is ineligible for the national service educational award described in division D of this subchapter, the Director may provide for the provision of a suitable alternative benefit for the Corps member.
+**(g) Alternative benefit** If a Corps member who successfully completes a period of agreed service in the Corps is ineligible for the national service educational award described in division D, the Director may provide for the provision of a suitable alternative benefit for the Corps member.
 
 ### Statutory Notes
 
@@ -4464,7 +4487,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 
 (1) **In general** — Not later than 120 days after the end of each fiscal year, the Corporation shall prepare and submit, to the authorizing committees, the Committee on Appropriations of the House of Representatives, and the Committee on Appropriations of the Senate, a report concerning the programs that receive assistance under the national service laws.
 
-(2) **Content** — Reports submitted under paragraph (1) shall contain a summary of the information contained in the State reports submitted under subsection (a) of this section, and shall reflect the findings and actions taken as a result of any evaluation conducted by the Corporation.
+(2) **Content** — Reports submitted under paragraph (1) shall contain a summary of the information contained in the State reports submitted under subsection (a), and shall reflect the findings and actions taken as a result of any evaluation conducted by the Corporation.
 
 ### Statutory Notes
 
@@ -4509,7 +4532,7 @@ Amendment by section 402(b)(1) of Pub. L. 103–82 effective Oct. 1, 1993, see s
 ## § 12634. Supplementation
 **(a) In general** Assistance provided under this subchapter shall be used to supplement the level of State and local public funds expended for services of the type assisted under this subchapter in the previous fiscal year.
 
-**(b) Aggregate expenditure** Subsection (a) of this section shall be satisfied, with respect to a particular program, if the aggregate expenditure for such program for the fiscal year in which services are to be provided will not be less than the aggregate expenditure for such program in the previous fiscal year, excluding the amount of Federal assistance provided and any other amounts used to pay the remainder of the costs of programs assisted under this subchapter.
+**(b) Aggregate expenditure** Subsection (a) shall be satisfied, with respect to a particular program, if the aggregate expenditure for such program for the fiscal year in which services are to be provided will not be less than the aggregate expenditure for such program in the previous fiscal year, excluding the amount of Federal assistance provided and any other amounts used to pay the remainder of the costs of programs assisted under this subchapter.
 
 
 <a id="section-12635"></a>
@@ -4686,7 +4709,7 @@ Amendment by section 402(b)(1) of Pub. L. 103–82 effective Oct. 1, 1993, see s
 
 (1) **In general** — Assistance provided under the national service laws shall be used only for a program that does not duplicate, and is in addition to, an activity otherwise available in the locality of such program.
 
-(2) **Private nonprofit entity** — Assistance made available under the national service laws shall not be provided to a private nonprofit entity to conduct activities that are the same or substantially equivalent to activities provided by a State or local government agency that such entity resides in, unless the requirements of subsection (b) of this section are met.
+(2) **Private nonprofit entity** — Assistance made available under the national service laws shall not be provided to a private nonprofit entity to conduct activities that are the same or substantially equivalent to activities provided by a State or local government agency that such entity resides in, unless the requirements of subsection (b) are met.
 
 **(b) Nondisplacement**
 
@@ -4767,11 +4790,11 @@ Amendment by section 402(b)(1) of Pub. L. 103–82 effective Oct. 1, 1993, see s
 ## § 12639. State Commissions on National and Community Service
 **(a) Existence required**
 
-(1) **State Commission** — Except as provided in paragraph (2), to be eligible to receive a grant or allotment under division B or C of this subchapter or to receive a distribution of approved national service positions under division C of this subchapter, a State shall maintain a State Commission on National and Community Service that satisfies the requirements of this section.
+(1) **State Commission** — Except as provided in paragraph (2), to be eligible to receive a grant or allotment under division B or C or to receive a distribution of approved national service positions under division C, a State shall maintain a State Commission on National and Community Service that satisfies the requirements of this section.
 
-(2) **Alternative administrative entity** — The chief executive officer of a State may apply to the Corporation for approval to use an alternative administrative entity to carry out the duties otherwise entrusted to a State Commission under this chapter. The chief executive officer shall ensure that any alternative administrative entity used in lieu of a State Commission provides for the individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) of this section to play a significant policymaking role in carrying out the duties otherwise entrusted to a State Commission, including the submission of applications on behalf of the State under [section 12582 of this title](./chapter-129-national-and-community-service.md#section-12582).
+(2) **Alternative administrative entity** — The chief executive officer of a State may apply to the Corporation for approval to use an alternative administrative entity to carry out the duties otherwise entrusted to a State Commission under this chapter. The chief executive officer shall ensure that any alternative administrative entity used in lieu of a State Commission provides for the individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) to play a significant policymaking role in carrying out the duties otherwise entrusted to a State Commission, including the submission of applications on behalf of the State under [section 12582 of this title](./chapter-129-national-and-community-service.md#section-12582).
 
-**(b) Appointment and size** Except as provided in subsection (c)(3) of this section, the members of a State Commission for a State shall be appointed by the chief executive officer of the State. A State Commission shall consist of not fewer than 15, and not more than 25, voting members, and any ex officio nonvoting members, as described in paragraph (3) or (4) of subsection (c) of this section.
+**(b) Appointment and size** Except as provided in subsection (c)(3), the members of a State Commission for a State shall be appointed by the chief executive officer of the State. A State Commission shall consist of not fewer than 15, and not more than 25, voting members, and any ex officio nonvoting members, as described in paragraph (3) or (4) of subsection (c).
 
 **(c) Composition and membership**
 
@@ -4829,7 +4852,7 @@ Amendment by section 402(b)(1) of Pub. L. 103–82 effective Oct. 1, 1993, see s
 
 (6) **Limitation on member participation**
 
-  (A) *General limitation* — Except as provided in subparagraph (B), a voting member of the State Commission (or of an alternative administrative entity) shall not participate in the administration of the grant program (including any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or such positions, to any program or entity) described in subsection (e)(9) of this section if—
+  (A) *General limitation* — Except as provided in subparagraph (B), a voting member of the State Commission (or of an alternative administrative entity) shall not participate in the administration of the grant program (including any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or such positions, to any program or entity) described in subsection (e)(9) if—
 
     (i) a grant application relating to such program is pending before the Commission (or such entity); and
 
@@ -4873,7 +4896,7 @@ Amendment by section 402(b)(1) of Pub. L. 103–82 effective Oct. 1, 1993, see s
 
 (3) Assistance in the preparation of the application of the State educational agency for assistance under [section 12525 of this title](./chapter-129-national-and-community-service.md#section-12525).
 
-(4) Preparation of the application of the State under [section 12582 of this title](./chapter-129-national-and-community-service.md#section-12582) for the approval of service positions that include the national service educational award described in division D of this subchapter.
+(4) Preparation of the application of the State under [section 12582 of this title](./chapter-129-national-and-community-service.md#section-12582) for the approval of service positions that include the national service educational award described in division D.
 
 (5) Make recommendations to the Corporation with respect to priorities for programs receiving assistance under the Domestic Volunteer Service Act of 1973 ([42 U.S.C. 4950](./chapter-066-domestic-volunteer-services.md#section-4950) et seq.).
 
@@ -4947,9 +4970,9 @@ Amendment by section 402(b)(1) of Pub. L. 103–82 effective Oct. 1, 1993, see s
 
   (B) the authority of the State Commission or alternative administrative entity regarding national service activities carried out by the State.
 
-(2) **Approval of alternative administrative entity** — Any designation of a State Commission or use of an alternative administrative entity to carry out the duties of a State Commission shall be subject to the approval of the Corporation, which shall not be unreasonably withheld. The Corporation shall approve an alternative administrative entity if such entity provides for individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) of this section to play a significant policymaking role in carrying out the duties otherwise entrusted to a State Commission, including the duties described in paragraphs (1) through (4) of subsection (e) of this section.
+(2) **Approval of alternative administrative entity** — Any designation of a State Commission or use of an alternative administrative entity to carry out the duties of a State Commission shall be subject to the approval of the Corporation, which shall not be unreasonably withheld. The Corporation shall approve an alternative administrative entity if such entity provides for individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) to play a significant policymaking role in carrying out the duties otherwise entrusted to a State Commission, including the duties described in paragraphs (1) through (4) of subsection (e).
 
-(3) **Rejection** — The Corporation may reject a State Commission if the Corporation determines that the composition, membership, or duties of the State Commission do not comply with the requirements of this section. The Corporation may reject a request to use an alternative administrative entity in lieu of a State Commission if the Corporation determines that the entity does not provide for the individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) of this section to play a significant policymaking role as described in paragraph (2). If the Corporation rejects a State Commission or alternative administrative entity under this paragraph, the Corporation shall promptly notify the State of the reasons for the rejection.
+(3) **Rejection** — The Corporation may reject a State Commission if the Corporation determines that the composition, membership, or duties of the State Commission do not comply with the requirements of this section. The Corporation may reject a request to use an alternative administrative entity in lieu of a State Commission if the Corporation determines that the entity does not provide for the individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) to play a significant policymaking role as described in paragraph (2). If the Corporation rejects a State Commission or alternative administrative entity under this paragraph, the Corporation shall promptly notify the State of the reasons for the rejection.
 
 (4) **Resubmission and reconsideration** — The Corporation shall provide a State notified under paragraph (3) with a reasonable opportunity to revise the rejected State Commission or alternative administrative entity. At the request of the State, the Corporation shall provide technical assistance to the State as part of the revision process. The Corporation shall promptly reconsider any resubmission of a notification under paragraph (1) or application to use an alternative administrative entity under paragraph (2).
 
@@ -5051,17 +5074,17 @@ Pub. L. 103–82, title II, § 201(d), Sept. 21, 1993, 107 Stat. 873, provided t
 
 (2) the effectiveness of the structure and mechanisms for delivery of services, such as the effective utilization of the participants’ time, the management of the participants, and the ease with which recipients were able to receive services, to maximize the cost effectiveness and the impact of such programs.
 
-**(b) Comparisons** The Corporation shall provide for inclusion in the evaluations required under subsection (a) of this section, where appropriate, comparisons of participants in such programs with individuals who have not participated in such programs.
+**(b) Comparisons** The Corporation shall provide for inclusion in the evaluations required under subsection (a), where appropriate, comparisons of participants in such programs with individuals who have not participated in such programs.
 
-**(c) Conducting evaluations** Evaluations of programs under subsection (a) of this section shall be conducted by individuals who are not directly involved in the administration of such program.
+**(c) Conducting evaluations** Evaluations of programs under subsection (a) shall be conducted by individuals who are not directly involved in the administration of such program.
 
 **(d) Standards** The Corporation shall develop and publish general standards for the evaluation of program effectiveness in achieving the objectives of the national service laws.
 
 **(e) Community participation** In evaluating a program receiving assistance under the national service laws, the Corporation shall consider the opinions of participants and members of the communities where services are delivered concerning the strengths and weaknesses of such program.
 
-**(f) Comparison of program models** The Corporation shall evaluate and compare the effectiveness of different program models in meeting the program objectives described in subsection (g) of this section including full- and part-time programs, programs involving different types of national service, programs using different recruitment methods, programs offering alternative voucher or post-service benefit options, and programs utilizing individual placements and teams.
+**(f) Comparison of program models** The Corporation shall evaluate and compare the effectiveness of different program models in meeting the program objectives described in subsection (g) including full- and part-time programs, programs involving different types of national service, programs using different recruitment methods, programs offering alternative voucher or post-service benefit options, and programs utilizing individual placements and teams.
 
-**(g) Program objectives** The Corporation shall ensure that programs that receive assistance under division C of this subchapter are evaluated to determine their effectiveness in—
+**(g) Program objectives** The Corporation shall ensure that programs that receive assistance under division C are evaluated to determine their effectiveness in—
 
 (1) recruiting and enrolling diverse participants in such programs, consistent with the requirements of section 12575 11 See References in Text note below. of this title, based on economic background, race, ethnicity, age, marital status, education levels, and disability;
 
@@ -5099,7 +5122,7 @@ Pub. L. 103–82, title II, § 201(d), Sept. 21, 1993, 107 Stat. 873, provided t
 
 (1) **Independent evaluation**
 
-  (A) *In general* — The Corporation shall, on an annual basis, arrange for an independent evaluation of the programs assisted under division C of this subchapter.
+  (A) *In general* — The Corporation shall, on an annual basis, arrange for an independent evaluation of the programs assisted under division C.
 
   (B) *Participants*
 
@@ -5221,7 +5244,7 @@ Subsec. (f). Pub. L. 103–82, § 402(b)(1), substituted “Corporation” for �
 
 Subsec. (g). Pub. L. 103–82, § 402(b)(1), substituted “Corporation” for “Commission” in introductory provisions.
 
-Pub. L. 103–82, § 118(2)(A), substituted “division C of this subchapter” for “part D of this subchapter” in introductory provisions.
+Pub. L. 103–82, § 118(2)(A), substituted “division C” for “part D” in introductory provisions.
 
 Subsec. (g)(3), (9). Pub. L. 103–82, § 118(2)(B), substituted “National Senior Volunteer Corps programs” for “older American volunteer programs”.
 
@@ -5956,7 +5979,7 @@ Section effective Sept. 21, 1993, see section 202(i)(2) of Pub. L. 103–82, set
 
 **(i) Limitation on participation** All employees and officers of the Corporation shall recuse themselves from decisions that would constitute conflicts of interest.
 
-**(j) Coordination with other Federal activities** As part of the agenda of meetings of the Board under subsection (a) of this section, the Board shall review projects and programs conducted or funded by the Corporation under the national service laws to improve the coordination between such projects and programs, and the activities of other Federal agencies that deal with the individuals and communities participating in or benefiting from such projects and programs. The ex officio members of the Board specified in [section 12651a(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12651a/a/3&num=0&edition=prelim) shall jointly plan, implement, and fund activities in connection with projects and programs conducted under the national service laws to ensure that Federal efforts attempt to address the total needs of participants in such programs and projects, their communities, and the persons and communities the participants serve.
+**(j) Coordination with other Federal activities** As part of the agenda of meetings of the Board under subsection (a), the Board shall review projects and programs conducted or funded by the Corporation under the national service laws to improve the coordination between such projects and programs, and the activities of other Federal agencies that deal with the individuals and communities participating in or benefiting from such projects and programs. The ex officio members of the Board specified in [section 12651a(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12651a/a/3&num=0&edition=prelim) shall jointly plan, implement, and fund activities in connection with projects and programs conducted under the national service laws to ensure that Federal efforts attempt to address the total needs of participants in such programs and projects, their communities, and the persons and communities the participants serve.
 
 ### Statutory Notes
 
@@ -6090,7 +6113,7 @@ Pub. L. 111–13, title VI, § 6101(b), Apr. 21, 2009, 123 Stat. 1600, provided 
 
   (C) information on the results achieved by the programs funded under the national service laws during the year preceding the year in which the report is prepared;
 
-(11) provide for studies (including the evaluations described in subsection (f) of this section) and demonstrations that evaluate, and prepare and submit to the Board periodically, a report containing recommendations regarding, issues related to—
+(11) provide for studies (including the evaluations described in subsection (f)) and demonstrations that evaluate, and prepare and submit to the Board periodically, a report containing recommendations regarding, issues related to—
 
   (A) the administration and organization of programs authorized under the national service laws or under Public Law 91–378 [[16 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim) et seq.] (referred to in this subparagraph as “service programs”), including—
 
@@ -6112,7 +6135,7 @@ Pub. L. 111–13, title VI, § 6101(b), Apr. 21, 2009, 123 Stat. 1600, provided 
 
     (vii) other issues that the Director determines to be relevant to the administration and organization of the service programs; and
 
-  (B) the number, potential consolidation, and future organization of national service or domestic volunteer service programs that are authorized under Federal law, including VISTA, service corps assisted under division C of this subchapter and other programs authorized by this chapter, programs administered by the Public Health Service, the Department of Defense, or other Federal agencies, programs regarding teacher corps, and programs regarding work-study and higher education loan forgiveness or forbearance programs authorized by the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq.) [and [42 U.S.C. 2751](./chapter-034-economic-opportunity-program.md#section-2751) et seq.] related to community service;
+  (B) the number, potential consolidation, and future organization of national service or domestic volunteer service programs that are authorized under Federal law, including VISTA, service corps assisted under division C and other programs authorized by this chapter, programs administered by the Public Health Service, the Department of Defense, or other Federal agencies, programs regarding teacher corps, and programs regarding work-study and higher education loan forgiveness or forbearance programs authorized by the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq.) related to community service;
 
 (12) for purposes of [section 12638(d)(6)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12638/d/6/B&num=0&edition=prelim), issue regulations to waive the disqualification of members of the Board and members of the State Commissions selectively in a random, nondiscretionary manner and only to the extent necessary to establish the quorum involved, including rules that forbid each member of the Board and each voting member of a State Commission to participate in any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or such positions, to any program or entity of which such member of the Board or such member of the State Commission is, or in the 1-year period before the submission of the application referred to in such section was, an officer, director, trustee, full-time volunteer, or employee;
 
@@ -6192,7 +6215,7 @@ Pub. L. 111–13, title VI, § 6101(b), Apr. 21, 2009, 123 Stat. 1600, provided 
 
 (3) **Function of Board** — The Chief Executive Officer may not delegate a function of the Board without the permission of the Board.
 
-**(e) Actions** In an action described in subsection (c)(7) of this section—
+**(e) Actions** In an action described in subsection (c)(7)—
 
 (1) a district court referred to in such subsection shall have jurisdiction of such a civil action without regard to the amount in controversy;
 
@@ -6204,11 +6227,11 @@ Pub. L. 111–13, title VI, § 6101(b), Apr. 21, 2009, 123 Stat. 1600, provided 
 
 **(f) Evaluations**
 
-(1) **Evaluation of living allowance** — The Corporation shall arrange for an independent evaluation to determine the levels of living allowances paid in all programs under divisions C and I of this subchapter, individually, by State, and by region. Such evaluation shall determine the effects that such living allowances have had on the ability of individuals to participate in such programs.
+(1) **Evaluation of living allowance** — The Corporation shall arrange for an independent evaluation to determine the levels of living allowances paid in all programs under divisions C and I, individually, by State, and by region. Such evaluation shall determine the effects that such living allowances have had on the ability of individuals to participate in such programs.
 
 (2) **Evaluation of success of investment in national service**
 
-  (A) *Evaluation required* — The Corporation shall arrange for the independent evaluation of the operation of division C of this subchapter to determine the levels of participation of economically disadvantaged individuals in national service programs carried out or supported using assistance provided under [section 12571 of this title](./chapter-129-national-and-community-service.md#section-12571).
+  (A) *Evaluation required* — The Corporation shall arrange for the independent evaluation of the operation of division C to determine the levels of participation of economically disadvantaged individuals in national service programs carried out or supported using assistance provided under [section 12571 of this title](./chapter-129-national-and-community-service.md#section-12571).
 
   (B) *Period covered by evaluation* — The evaluation required by this paragraph shall cover the period beginning on the date the Corporation first makes a grant under [section 12571 of this title](./chapter-129-national-and-community-service.md#section-12571), and ending on a date that is as close as is practicable to the the 33 So in original. first date that a report is submitted under subsection (b)(11) after the effective date of the Serve America Act.
 
@@ -6243,7 +6266,7 @@ Public Law 91–378, referred to in subsec. (b)(11)(A), is Pub. L. 91–378, Aug
 
 This chapter, referred to in subsecs. (b)(11)(A)(i), (B), (c)(7), and (e)(4), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of this title](./chapter-129-national-and-community-service.md#section-12501) and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (b)(11)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(11)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 The Domestic Volunteer Service Act of 1973, referred to in subsecs. (b)(17) and (g)(1), (2), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified principally to chapter 66 (§ 4950 et seq.) of this title. Title II of the Act is classified generally to subchapter II (§ 5000 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950) and Tables.
 
@@ -6333,7 +6356,7 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 
 **(d) Assistant Directors for VISTA and National Senior Service Corps**
 
-(1) **Appointment** — One of the Managing Directors appointed under subsection (a) of this section shall, in accordance with applicable provisions of title 5, appoint 4 Assistant Directors who shall report directly to such Managing Director, of which—
+(1) **Appointment** — One of the Managing Directors appointed under subsection (a) shall, in accordance with applicable provisions of title 5, appoint 4 Assistant Directors who shall report directly to such Managing Director, of which—
 
   (A) 1 Assistant Director shall be responsible for programs carried out under parts A [[42 U.S.C. 4951](./chapter-066-domestic-volunteer-services.md#section-4951) et seq.] and B 11 See References in Text note below. of title I of the Domestic Volunteer Service Act of 1973 (the Volunteers in Service to America (VISTA) program) and other antipoverty programs under title I of that Act [[42 U.S.C. 4951](./chapter-066-domestic-volunteer-services.md#section-4951) et seq.];
 
@@ -6377,7 +6400,7 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 
 <a id="section-12651g"></a>
 ## § 12651g. Employees, consultants, and other personnel
-**(a) Employees** Except as provided in subsection (b) of this section, [section 12651e(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12651e/d&num=0&edition=prelim), and section 8E 11 See References in Text note below. of the Inspector General Act of 1978, the Chief Executive Officer shall, in accordance with applicable provisions of title 5, appoint and determine the compensation of such employees as the Chief Executive Officer determines to be necessary to carry out the duties of the Corporation.
+**(a) Employees** Except as provided in subsection (b), [section 12651e(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12651e/d&num=0&edition=prelim), and section 8E 11 See References in Text note below. of the Inspector General Act of 1978, the Chief Executive Officer shall, in accordance with applicable provisions of title 5, appoint and determine the compensation of such employees as the Chief Executive Officer determines to be necessary to carry out the duties of the Corporation.
 
 **(b) Alternative personnel system**
 
@@ -6413,7 +6436,7 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 
 (3) **Nonvoting member of State Commission** — The representative designated under this subsection for a State or group of States shall also serve as a nonvoting member of the State Commission established in the State or States, as described in [section 12638(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12638/c/3&num=0&edition=prelim).
 
-(4) **Compensation** — If the employee designated under paragraph (1) is an employee whose appointment was made pursuant to subsection (b) of this section, the rate of compensation for such employee may not exceed the maximum rate of basic pay payable for GS–13 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).
+(4) **Compensation** — If the employee designated under paragraph (1) is an employee whose appointment was made pursuant to subsection (b), the rate of compensation for such employee may not exceed the maximum rate of basic pay payable for GS–13 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).
 
 **(d) Consultants** The Chief Executive Officer may procure the temporary and intermittent services of experts and consultants and compensate the experts and consultants in accordance with [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim).
 
@@ -6549,9 +6572,9 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 
 <a id="section-12651i"></a>
 ## § 12651i. Corporation State offices
-**(a) In general** The Chief Executive Officer shall establish and maintain a decentralized field structure that provides for an office of the Corporation for each State. The office for a State shall be located in, or in reasonable proximity to, such State. Only one such office may carry out the duties described in subsection (b) of this section with respect to a State at any particular time. Such State office may be directed by the representative designated under [section 12651f(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12651f/c&num=0&edition=prelim).
+**(a) In general** The Chief Executive Officer shall establish and maintain a decentralized field structure that provides for an office of the Corporation for each State. The office for a State shall be located in, or in reasonable proximity to, such State. Only one such office may carry out the duties described in subsection (b) with respect to a State at any particular time. Such State office may be directed by the representative designated under [section 12651f(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12651f/c&num=0&edition=prelim).
 
-**(b) Duties** Each State office established pursuant to subsection (a) of this section shall—
+**(b) Duties** Each State office established pursuant to subsection (a) shall—
 
 (1) provide to the State Commissions established under [section 12638 of this title](./chapter-129-national-and-community-service.md#section-12638) technical and other assistance for the development and implementation of national service plans under [section 12638(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12638/e/1&num=0&edition=prelim);
 
@@ -6639,7 +6662,7 @@ Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out
 
 **(b) Innovation and quality improvement** The Corporation may undertake activities to address emergent needs through summer programs and other activities, and to support service-learning programs and national service programs, including—
 
-(1) programs, including programs for rural youth, under division B or C of this subchapter;
+(1) programs, including programs for rural youth, under division B or C;
 
 (2) employer-based retiree programs;
 
@@ -6733,50 +6756,8 @@ Amendment by section 405(p)(2) of Pub. L. 103–82 effective Apr. 4, 1994, see s
 #### Effective Date
 Division effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
 
-#### Ex. Ord. No. 13560. White House Council for Community Solutions
-Ex. Ord. No. 13560, Dec. 14, 2010, 75 F.R. 78875, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to encourage the growth and maximize the impact of innovative community solutions and civic participation by all Americans, it is hereby ordered as follows:
-
-Section 1. Establishment. There is established the White House Council for Community Solutions (Council) within the Corporation for National and Community Service (CNCS) to support the social innovation and civic participation agenda of the Domestic Policy Council.
-
-Sec. 2. Mission and Functions of the Council. The Council shall support the nationwide “Call To Service” campaign authorized in the Serve America Act (Public Law 111–13) by:
-
-(a) identifying the key attributes of effective community-developed solutions to our national problems;
-
-(b) identifying specific policy areas in which the Federal Government is investing significant resources that lend themselves to cross-sector collaboration and providing recommendations for such collaborations;
-
-(c) highlighting examples of best practices, tools, and models that are making a demonstrable positive impact in communities and fostering increased cross-sector collaboration and civic participation;
-
-(d) making recommendations to the President on how to engage individuals, State and local governments, institutions of higher education, non-profit and philanthropic organizations, community groups, and businesses to support innovative community-developed solutions that have a significant impact in solving our Nation’s most serious problems; and
-
-(e) honoring and highlighting the work of leaders in service and social innovation who are making a significant impact in their communities.
-
-Sec. 3. Membership. (a) The Council shall be composed of not more than 30 members from outside the Federal Government appointed by the President. The Chair of the Board of Directors of the CNCS shall also serve on the Council. Appointed members of the Council may include individuals with relevant experience or subject matter expertise that the President deems appropriate, as well as individuals who may serve as representatives of a variety of sectors, including, among others, State and local governments, institutions of higher education, non-profit and philanthropic organizations, community groups, and businesses.
-
-(b) The President shall designate one of the members of the Council to serve as Chair. The Chair shall convene and preside at meetings of the Council.
-
-(c) The term of office of members appointed by the President shall be 2 years, and members shall be eligible for reappointment. Members may continue to serve after the expiration of their terms until the President appoints a successor. A member appointed to fill a vacancy shall serve only for the unexpired term of such vacancy.
-
-Sec. 4. Administration. (a) The CNCS shall provide funding and administrative support for the Council to the extent permitted by law and within existing appropriations.
-
-(b) The heads of executive departments and agencies shall assist and provide information to the Council, consistent with applicable law and subject to the availability of appropriations, as may be necessary to carry out the functions of the Council.
-
-(c) The members of the Council shall serve without compensation for their work on the Council. Members of the Council may, however, receive travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7).
-
-(d) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the “Act”), may apply to the administration of the Council, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Chief Executive Officer of the CNCS in accordance with the guidelines issued by the Administrator of General Services.
-
-Sec. 5. Termination. The Council shall terminate 2 years from the date of this order, unless renewed by the President.
-
-Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) authority granted by law to an executive department, agency, or the head thereof; or
-
-(ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Barack Obama.
+#### Executive Order No. 13560
+Ex. Ord. No. 13560, Dec. 14, 2010, 75 F.R. 78875, which established the White House Council for Community Solutions, was superseded and revoked by Ex. Ord. No. 13748, § 5, Nov. 16, 2016, 81 F.R. 83621, set out as a note under [section 601 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-12653b"></a>
@@ -7723,7 +7704,7 @@ Part effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as
 <a id="section-12655a"></a>
 ## § 12655a. General authority
 
-The Corporation may make grants to States or local applicants and may transfer funds to the Secretary of Agriculture or to the Secretary of the Interior for the creation or expansion of full-time, part-time, year-round, or summer, youth corps programs 11 So in original. Probably should be followed by a period. To the extent practicable, the Corporation shall apply the provisions of division C of this subchapter in making grants under this section.
+The Corporation may make grants to States or local applicants and may transfer funds to the Secretary of Agriculture or to the Secretary of the Interior for the creation or expansion of full-time, part-time, year-round, or summer, youth corps programs 11 So in original. Probably should be followed by a period. To the extent practicable, the Corporation shall apply the provisions of division C in making grants under this section.
 
 ### Statutory Notes
 
@@ -7731,7 +7712,7 @@ The Corporation may make grants to States or local applicants and may transfer f
 Section was formerly classified to [section 12541 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12541&num=0&edition=prelim) prior to renumbering by Pub. L. 103–82, § 101(a).
 
 #### Amendments
-1993—Pub. L. 103–82, § 101(e)(1), (2), substituted “Corporation” for “Commission”, substituted “or to the Secretary of the Interior” for “, to the Secretary of the Interior, or to the Director of ACTION”, struck out “under [section 12512 of this title](./chapter-129-national-and-community-service.md#section-12512)” after “may make grants”, and inserted at end “To the extent practicable, the Corporation shall apply the provisions of division C of this subchapter in making grants under this section.”
+1993—Pub. L. 103–82, § 101(e)(1), (2), substituted “Corporation” for “Commission”, substituted “or to the Secretary of the Interior” for “, to the Secretary of the Interior, or to the Director of ACTION”, struck out “under [section 12512 of this title](./chapter-129-national-and-community-service.md#section-12512)” after “may make grants”, and inserted at end “To the extent practicable, the Corporation shall apply the provisions of division C in making grants under this section.”
 
 1992—Pub. L. 102–384 amended section generally. Prior to amendment, section read as follows: “The Commission may make grants under [section 12512 of this title](./chapter-129-national-and-community-service.md#section-12512) to States or local applicants, to the Secretary of Agriculture, to the Secretary of the Interior, or to the Director of ACTION for the creation or expansion of full-time or summer youth corps programs.”
 
@@ -7765,7 +7746,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 ## § 12655c. State application
 **(a) Submission** To be eligible to receive a grant under this division, a State or Indian tribe (or a local applicant if [section 12655 of this title](./chapter-129-national-and-community-service.md#section-12655) applies) shall prepare and submit to the Corporation, an application at such time, in such manner, and containing such information as the Corporation may reasonably require.
 
-**(b) General content** An application submitted under subsection (a) of this section shall describe—
+**(b) General content** An application submitted under subsection (a) shall describe—
 
 (1) any youth corps program proposed to be conducted directly by such applicant with assistance provided under this division; and
 
@@ -7924,7 +7905,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 
 **(d) Standards and procedures**
 
-(1) **Consistency with State and local requirements** — Appropriate State and local officials shall certify that standards and procedures with respect to the awarding of academic credit and the certification of educational attainment in programs conducted under subsection (c) of this section are consistent with the requirements of applicable State and local law and regulations.
+(1) **Consistency with State and local requirements** — Appropriate State and local officials shall certify that standards and procedures with respect to the awarding of academic credit and the certification of educational attainment in programs conducted under subsection (c) are consistent with the requirements of applicable State and local law and regulations.
 
 (2) **Academic standards** — The standards and procedures described in paragraph (1) shall provide that an individual serving in a program that receives assistance under this division—
 
@@ -7992,11 +7973,11 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 
 **(b) Participation of disadvantaged youth** Programs that receive assistance under this division shall ensure that educationally and economically disadvantaged youth, including youth in foster care who are becoming too old for foster care, youth with disabilities, youth with limited English proficiency, youth with limited basic skills or learning disabilities and homeless youth, are offered opportunities to enroll.
 
-**(c) Special corps members** Notwithstanding subsection (a)(1) of this section, program agencies may enroll a limited number of special corps members over age 25 so that the corps may draw on their special skills to fulfill the purposes of this chapter. Programs are encouraged to consider senior citizens as special corps members.
+**(c) Special corps members** Notwithstanding subsection (a)(1), program agencies may enroll a limited number of special corps members over age 25 so that the corps may draw on their special skills to fulfill the purposes of this chapter. Programs are encouraged to consider senior citizens as special corps members.
 
 **(d) Joint projects with senior citizens organizations** Program agencies shall use not more than 2 percent of amounts received under this division to conduct joint projects with senior citizens organizations to enable senior citizens to serve as mentors for youth participants.
 
-**(e) Construction** Nothing in subsection (a) of this section shall be construed to prohibit any program agency from limiting enrollment to any age subgroup within the range specified in subsection (a)(1) of this section.
+**(e) Construction** Nothing in subsection (a) shall be construed to prohibit any program agency from limiting enrollment to any age subgroup within the range specified in subsection (a)(1).
 
 ### Statutory Notes
 
@@ -8056,11 +8037,11 @@ Repeal effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a
 
 (2) **Fair Labor Standards Act of 1938** — For purposes of the Fair Labor Standards Act of 1938 [[29 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) et seq.], residential youth corps programs under this division will be considered an organized camp.
 
-**(c) Health insurance** In addition to the living allowance provided under subsection (a) of this section, program agencies are encouraged to provide health insurance to each participant in a full-time youth corps program who does not otherwise have access to health insurance.
+**(c) Health insurance** In addition to the living allowance provided under subsection (a), program agencies are encouraged to provide health insurance to each participant in a full-time youth corps program who does not otherwise have access to health insurance.
 
 **(d) Facilities, services, and supplies**
 
-(1) **In general** — The program agency may deduct, from amounts provided under subsection (a) of this section to a participant, a reasonable portion of the costs of the rates for any room and board that is provided for such participant at a residential facility. Such deducted funds shall be deposited into rollover accounts that shall be used solely to defray the costs of room and board for participants.
+(1) **In general** — The program agency may deduct, from amounts provided under subsection (a) to a participant, a reasonable portion of the costs of the rates for any room and board that is provided for such participant at a residential facility. Such deducted funds shall be deposited into rollover accounts that shall be used solely to defray the costs of room and board for participants.
 
 (2) **Evaluation** — The program agency shall establish the amount of the deductions and rates under paragraph (1) after evaluating the costs of providing such room and board to the participant.
 
@@ -8101,7 +8082,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 ## § 12655n. Joint programs
 **(a) Development** The Corporation may develop, in cooperation with the heads of other Federal agencies, regulations designed to permit, where appropriate, joint programs in which activities supported with assistance made available under this division are coordinated with activities supported with assistance made available under programs administered by the heads of such agencies (including title I of the Workforce Innovation and Opportunity Act [[29 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim) et seq.]).
 
-**(b) Standards** Regulations promulgated under subsection (a) of this section shall establish standards for the approval of joint programs that meet both the purposes of this subchapter and the purposes of such statutes under which assistance is made available to support such projects.
+**(b) Standards** Regulations promulgated under subsection (a) shall establish standards for the approval of joint programs that meet both the purposes of this subchapter and the purposes of such statutes under which assistance is made available to support such projects.
 
 **(c) Operation of management agreements** Program agencies may enter into contracts and other appropriate arrangements with local government agencies and nonprofit organizations for the operation or management of any projects or facilities under the program.
 
@@ -8128,7 +8109,7 @@ Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(42)(C)], substituted “the 
 1993—Subsecs. (a), (d). Pub. L. 103–82, § 101(e)(1), substituted “Corporation” for “Commission”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 1998 Amendment
 Amendment by section 101(f) [title VIII, § 405(d)(42)(C)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(33)(B)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under [section 3502 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3502&num=0&edition=prelim), Government Organization and Employees.
@@ -8206,7 +8187,7 @@ For transfer of functions of Director of ACTION Agency (including all related fu
 
 (1) **Appropriate service project** — The term “appropriate service project” means any project for the rehabilitation, reclamation, or beautification of urban public housing and public works and transportation resources or facilities.
 
-(2) **Corps and Urban Youth Corps** — The term “Corps” and “Urban Youth Corps” mean the Urban Youth Corps established under subsection (d)(1) of this section.
+(2) **Corps and Urban Youth Corps** — The term “Corps” and “Urban Youth Corps” mean the Urban Youth Corps established under subsection (d)(1).
 
 (3) **Qualified urban youth corps** — The term “qualified urban youth corps” means any program established by a State or local government or by a nonprofit organization that—
 
@@ -8361,7 +8342,7 @@ Repeal effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out 
 
   (B) compile a list that specifies, for each individual that the administrative organization determines to be such a victim, the name of the victim and the State in which the victim resided.
 
-(2) **Identified projects** — The administrative organization may identify approximately the estimated number of community-based national and community service projects that meet the requirements of subsection (d) of this section. The administrative organization may name projects in honor of victims described in subsection (b)(1)(A) of this section, after obtaining the permission of an appropriate member of the victim’s family and the entity carrying out the project.
+(2) **Identified projects** — The administrative organization may identify approximately the estimated number of community-based national and community service projects that meet the requirements of subsection (d). The administrative organization may name projects in honor of victims described in subsection (b)(1)(A), after obtaining the permission of an appropriate member of the victim’s family and the entity carrying out the project.
 
 **(c) Eligible entities** To be eligible to have a project named under this section, the entity carrying out the project shall be a political subdivision of a State, a business, a nonprofit organization (which may be a religious organization), an Indian tribe, or an institution of higher education.
 

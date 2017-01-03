@@ -20,7 +20,7 @@ In this chapter:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 305501 | [16 U.S.C. 470w–5(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–5/f&num=0&edition=prelim) | Pub. L. 89–665, title III, § 306(f), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3003. |
+| 305501 | [16 U.S.C. 470w–5(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–5/f&num=0&edition=prelim). | Pub. L. 89–665, title III, § 306(f), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3003. |
 
 
 <a id="section-305502"></a>
@@ -39,7 +39,7 @@ To provide a national center to commemorate and encourage the building arts and 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 305502 | [16 U.S.C. 470w–5(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–5/a&num=0&edition=prelim) (1st sentence), (b) | Pub. L. 89–665, title III, § 306(a) (1st sentence), (b), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3002, 3003. |
+| 305502 | [16 U.S.C. 470w–5(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–5/a&num=0&edition=prelim) (1st sentence), (b). | Pub. L. 89–665, title III, § 306(a) (1st sentence), (b), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3002, 3003. |
 
 The words “Administrator of General Services” are substituted for “Administrator of the General Services Administration” to use the correct title of the Administrator.
 
@@ -64,7 +64,7 @@ The National Building Museum shall—
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 305503 | [16 U.S.C. 470w–5(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–5/a&num=0&edition=prelim) (last sentence) | Pub. L. 89–665, title III, § 306(a) (last sentence), (b), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3003. |
+| 305503 | [16 U.S.C. 470w–5(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–5/a&num=0&edition=prelim) (last sentence). | Pub. L. 89–665, title III, § 306(a) (last sentence), (b), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3003. |
 
 
 <a id="section-305504"></a>
@@ -77,7 +77,7 @@ The Secretary shall provide matching grants to the Committee for its programs re
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 305504 | [16 U.S.C. 470w–5(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–5/c&num=0&edition=prelim) | Pub. L. 89–665, title III, § 306(c), Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3003. |
+| 305504 | [16 U.S.C. 470w–5(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–5/c&num=0&edition=prelim). | Pub. L. 89–665, title III, § 306(c), Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3003. |
 
 The word “grant” is substituted for “grants-in-aid” for clarity and consistency in the revised division. See page 48 of H. Rept. 96–1457 (96th Cong., 2d Sess., 1980).
 
@@ -92,4 +92,4 @@ The Committee shall submit an annual report to the Secretary and the Administrat
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 305505 | [16 U.S.C. 470w–5(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–5/e&num=0&edition=prelim) | Pub. L. 89–665, title III, § 306(e), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3003. |
+| 305505 | [16 U.S.C. 470w–5(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470w–5/e&num=0&edition=prelim). | Pub. L. 89–665, title III, § 306(e), as added Pub. L. 96–515, title V, § 501, Dec. 12, 1980, 94 Stat. 3003. |

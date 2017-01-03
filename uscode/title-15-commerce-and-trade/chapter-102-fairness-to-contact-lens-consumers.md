@@ -36,6 +36,11 @@ Pub. L. 108–164, § 1, Dec. 6, 2003, 117 Stat. 2024, provided that: “This Ac
 
 A prescriber may require payment of fees for an eye examination, fitting, and evaluation before the release of a contact lens prescription, but only if the prescriber requires immediate payment in the case of an examination that reveals no requirement for ophthalmic goods. For purposes of the preceding sentence, presentation of proof of insurance coverage for that service shall be deemed to be a payment.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–164, set out as a note under [section 7601 of this title](./chapter-102-fairness-to-contact-lens-consumers.md#section-7601).
+
 
 <a id="section-7603"></a>
 ## § 7603. Prescriber verification
@@ -75,6 +80,11 @@ A prescriber may require payment of fees for an eye examination, fitting, and ev
 
 **(g) Direct communication** As used in this section, the term “direct communication” includes communication by telephone, facsimile, or electronic mail.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–164, set out as a note under [section 7601 of this title](./chapter-102-fairness-to-contact-lens-consumers.md#section-7601).
+
 
 <a id="section-7604"></a>
 ## § 7604. Expiration of contact lens prescriptions
@@ -90,17 +100,32 @@ A prescriber may require payment of fees for an eye examination, fitting, and ev
 
 **(c) Definition** As used in this section, the term “issue date” means the date on which the patient receives a copy of the prescription.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–164, set out as a note under [section 7601 of this title](./chapter-102-fairness-to-contact-lens-consumers.md#section-7601).
+
 
 <a id="section-7605"></a>
 ## § 7605. Content of advertisements and other representations
 
 Any person that engages in the manufacture, processing, assembly, sale, offering for sale, or distribution of contact lenses may not represent, by advertisement, sales presentation, or otherwise, that contact lenses may be obtained without a prescription.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–164, set out as a note under [section 7601 of this title](./chapter-102-fairness-to-contact-lens-consumers.md#section-7601).
+
 
 <a id="section-7606"></a>
 ## § 7606. Prohibition of certain waivers
 
 A prescriber may not place on the prescription, or require the patient to sign, or deliver to the patient a form or notice waiving or disclaiming the liability or responsibility of the prescriber for the accuracy of the eye examination. The preceding sentence does not impose liability on a prescriber for the ophthalmic goods and services dispensed by another seller pursuant to the prescriber’s correctly verified prescription.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–164, set out as a note under [section 7601 of this title](./chapter-102-fairness-to-contact-lens-consumers.md#section-7601).
 
 
 <a id="section-7607"></a>
@@ -115,6 +140,9 @@ The Magnuson-Moss Warranty—Federal Trade Commission Improvement Act, referred 
 
 For effective date of this chapter, referred to in text, see section 12 of Pub. L. 108–164, set out as an Effective Date note under [section 7601 of this title](./chapter-102-fairness-to-contact-lens-consumers.md#section-7601).
 
+#### Effective Date
+Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–164, set out as a note under [section 7601 of this title](./chapter-102-fairness-to-contact-lens-consumers.md#section-7601).
+
 
 <a id="section-7608"></a>
 ## § 7608. Violations
@@ -126,6 +154,9 @@ For effective date of this chapter, referred to in text, see section 12 of Pub. 
 
 #### References in Text
 The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+
+#### Effective Date
+Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–164, set out as a note under [section 7601 of this title](./chapter-102-fairness-to-contact-lens-consumers.md#section-7601).
 
 
 <a id="section-7609"></a>
@@ -148,6 +179,9 @@ The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1
 
 #### References in Text
 For effective date of this chapter, referred to in subsec. (b), see section 12 of Pub. L. 108–164, set out as an Effective Date note under [section 7601 of this title](./chapter-102-fairness-to-contact-lens-consumers.md#section-7601).
+
+#### Effective Date
+Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–164, set out as a note under [section 7601 of this title](./chapter-102-fairness-to-contact-lens-consumers.md#section-7601).
 
 
 <a id="section-7610"></a>
@@ -182,3 +216,8 @@ As used in this chapter:
   (G) Diameter, when appropriate.
 
   (H) In the case of a private label contact lens, name of manufacturer, trade name of private label brand, and, if applicable, trade name of equivalent brand name.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–164, set out as a note under [section 7601 of this title](./chapter-102-fairness-to-contact-lens-consumers.md#section-7601).

@@ -2,7 +2,7 @@
 title: 10
 chapter: '403'
 heading: UNITED STATES MILITARY ACADEMY
-section_count: 34
+section_count: 33
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -467,15 +467,15 @@ Pub. L. 97–60, title II, § 203(d), Oct. 14, 1981, 95 Stat. 1007, provided tha
 
 (5) Five cadets from the District of Columbia, nominated by the Delegate to the House of Representatives from the District of Columbia.
 
-(6) Three cadets from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands.
+(6) Four cadets from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands.
 
 (7) Six cadets from Puerto Rico, five of whom are nominated by the Resident Commissioner from Puerto Rico and one who is a native of Puerto Rico nominated by the Governor of Puerto Rico.
 
-(8) Three cadets from Guam, nominated by the Delegate in Congress from Guam.
+(8) Four cadets from Guam, nominated by the Delegate in Congress from Guam.
 
-(9) Two cadets from American Samoa, nominated by the Delegate in Congress from American Samoa.
+(9) Three cadets from American Samoa, nominated by the Delegate in Congress from American Samoa.
 
-(10) Two cadets from the Commonwealth of the Northern Mariana Islands, nominated by the Delegate in Congress from the commonwealth.
+(10) Three cadets from the Commonwealth of the Northern Mariana Islands, nominated by the Delegate in Congress from the commonwealth.
 Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 10 persons for each vacancy that is available to him under this section. Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter.
 
 **(b)** In addition, there may be appointed each year at the Academy cadets as follows:
@@ -547,6 +547,9 @@ Each Senator, Representative, and Delegate in Congress, including the Resident C
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)
+Pub. L. 114–328, div. A, title V, § 566(a), (e), Dec. 23, 2016, 130 Stat. 2138, 2139, provided that, applicable with respect to the appointment of cadets and midshipmen to the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the United States Merchant Marine Academy for classes entering these service academies after Jan. 1, 2018, subsection (a) of this section is amended by inserting at end of concluding provisions “When a nominee of a Senator, Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.” See 2016 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -578,6 +581,16 @@ In subsection (g), the words “(National Guard of the United States, the Air Na
 In subsection (h), the words “or shall hereafter be” are omitted as surplusage.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328 inserted at end of concluding provisions “When a nominee of a Senator, Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.”
+
+2015—Subsec. (a)(6). Pub. L. 114–92, § 556(a)(1), substituted “Four” for “Three”.
+
+Subsec. (a)(8). Pub. L. 114–92, § 556(a)(2), substituted “Four” for “Three”.
+
+Subsec. (a)(9). Pub. L. 114–92, § 556(a)(3), substituted “Three” for “Two”.
+
+Subsec. (a)(10). Pub. L. 114–92, § 556(a)(4), substituted “Three” for “Two”.
+
 2013—Subsec. (b)(1). Pub. L. 112–239, § 1076(f)(38)(A)(i), substituted “paragraph” for “clause” in two places in concluding provisions.
 
 Subsecs. (b)(5), (d), (f). Pub. L. 112–239, § 1076(f)(38)(A)(ii)–(C), substituted “paragraphs” for “clauses”.
@@ -676,6 +689,12 @@ Subsec. (c). Pub. L. 87–633, § 1(2), inserted references to American Samoa, G
 
 1958—Subsec. (c). Pub. L. 85–861 inserted a comma after “district”.
 
+#### Effective Date of 2016 Amendment
+Pub. L. 114–328, div. A, title V, § 566(e), Dec. 23, 2016, 130 Stat. 2139, provided that: “The amendments made by this section [amending this section, sections 6954 and 9342 of this title, and [section 51302 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section51302&num=0&edition=prelim), Shipping] shall apply with respect to the appointment of cadets and midshipmen to the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the United States Merchant Marine Academy for classes entering these service academies after January 1, 2018.”
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–92, div. A, title V, § 556(d), Nov. 25, 2015, 129 Stat. 825, provided that: “The amendments made by this section [amending this section and sections 6954 and 9342 of this title] shall apply with respect to the nomination of candidates for appointment to the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy for classes entering these military service academies after the date of the enactment of this Act [Nov. 25, 2015].”
+
 #### Effective Date of 2009 Amendment
 Pub. L. 111–84, div. A, title V, § 527(d), Oct. 28, 2009, 123 Stat. 2288, provided that: “The amendments made by this section [amending this section and sections 6954 and 9342 of this title] shall apply with respect to appointments to the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy beginning with the first class of candidates nominated for appointment to these military service academies after the date of the enactment of this Act [Oct. 28, 2009].”
 
@@ -753,158 +772,21 @@ Effective date of amendment by Pub. L. 93–171, see section 4 of Pub. L. 93–1
 Pub. L. 89–650, § 2, Oct. 13, 1966, 80 Stat. 896, provided that: “Notwithstanding any other provision of law, none of the additional appointments authorized in sections 4342(b)(1), 6954(b)(1) and 9342(b)(1) of this title as provided by this Act shall serve to reduce or diminish the number of qualified alternates from congressional sources who would otherwise be appointed by the appropriate service Secretary under the authority contained in sections 4343, 6956, and 9343 of title 10, United States Code.”
 
 
-<a id="section-4344"></a>
-## § 4344. Selection of persons from foreign countries
-**(a)**
-
-(1) The Secretary of the Army may permit not more than 60 persons at any one time from foreign countries to receive instruction at the Academy. Such persons shall be in addition to the authorized strength of the Corps of the Cadets of the Academy under [section 4342 of this title](./chapter-403-united-states-military-academy.md#section-4342).
-
-(2) The Secretary of the Army, upon approval by the Secretary of Defense, shall determine the countries from which persons may be selected for appointment under this section and the number of persons that may be selected from each country. The Secretary of the Army may establish entrance qualifications and methods of competition for selection among individual applicants under this section and shall select those persons who will be permitted to receive instruction at the Academy under this section.
-
-(3) In selecting persons to receive instruction under this section from among applicants from the countries approved under paragraph (2), the Secretary of the Army shall give a priority to persons who have a national service obligation to their countries upon graduation from the Academy.
-
-**(b)**
-
-(1) A person receiving instruction under this section is entitled to the pay, allowances, and emoluments of a cadet appointed from the United States, and from the same appropriations.
-
-(2) Each foreign country from which a cadet is permitted to receive instruction at the Academy under this section shall reimburse the United States for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1). The Secretary of the Army shall prescribe the rates for reimbursement under this paragraph, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a cadet appointed from the United States.
-
-(3) The Secretary of Defense may waive, in whole or in part, the requirement for reimbursement of the cost of instruction for a cadet under paragraph (2). In the case of a partial waiver, the Secretary shall establish the amount waived.
-
-**(c)**
-
-(1) Except as the Secretary of the Army determines, a person receiving instruction under this section is subject to the same regulations governing admission, attendance, discipline, resignation, discharge, dismissal, and graduation as a cadet at the Academy appointed from the United States. The Secretary may prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a cadet at the Academy appointed from the United States.
-
-(2) A person receiving instruction under this section is not entitled to an appointment in an armed force of the United States by reason of graduation from the Academy.
-
-**(d)** A person receiving instruction under this section is not subject to [section 4346(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4346/d&num=0&edition=prelim).
+<a id="section-4344-to-4345a"></a>
+## § 4344 to 4345a. Repealed. Pub. L. 114–328, div. A, title XII, § 1248(b)(1), Dec. 23, 2016, 130 Stat. 2525]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised section | Source (U.S. Code) | Source (Statutes at Large) |
-| 4344(a) 4344(b) 4344(c) | 10:1093c (less 3d and last sentences). 10:1093c (3d sentence). 10:1093c (last sentence, less proviso). | June 26, 1946, ch. 493, § 1, 60 Stat. 311; June 1, 1948, ch. 357, § 2, 62 Stat. 280. |
-| 4344(d) | 10:1093c (proviso of last sentence). |  |
+Section 4344, act Aug. 10, 1956, ch. 1041, 70A Stat. 242; Pub. L. 98–94, title X, § 1004(a)(1), Sept. 24, 1983, 97 Stat. 657; Pub. L. 105–85, div. A, title V, § 543(a), Nov. 18, 1997, 111 Stat. 1743; Pub. L. 106–65, div. A, title V, § 534(a), Oct. 5, 1999, 113 Stat. 605; Pub. L. 106–398, § 1 [[div. A], title V, § 532(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–110; Pub. L. 107–107, div. A, title V, § 533(a)(1), (2), Dec. 28, 2001, 115 Stat. 1105, related to selection of persons from foreign countries to receive instruction at the United States Military Academy. See [section 347 of this title](./chapter-016-security-cooperation.md#section-347).
 
-In subsection (a), the words “at West Point, New York” are omitted as surplusage.
+Section 4345, added Pub. L. 105–85, div. A, title V, § 542(a)(1), Nov. 18, 1997, 111 Stat. 1740; amended Pub. L. 106–65, div. A, title V, § 535(a), Oct. 5, 1999, 113 Stat. 605; Pub. L. 109–364, div. A, title V, § 531(a), Oct. 17, 2006, 120 Stat. 2198, related to an exchange program with foreign military academies.
 
-In subsection (b), the words “is entitled to” are substituted for the words “shall receive”. The words “performed in proceeding” are omitted as surplusage. The words “continental limits” are omitted, since [section 101(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/1&num=0&edition=prelim) defines the United States to include only the States and the District of Columbia.
+A prior section 4345, act Aug. 10, 1956, ch. 1041, 70A Stat. 242, related to selection of Filipinos for instruction at the Military Academy, prior to repeal by Pub. L. 98–94, title X, § 1004(a)(2), (d), Sept. 24, 1983, 97 Stat. 658, 660, effective one year after Sept. 24, 1983.
 
-In subsection (c), the words “to any office or position” are omitted as surplusage.
-
-In subsection (d), the words “and 1101” are omitted, since section 1321 of the Revised Statutes, previously codified in 10:1101, was repealed by section 6(b) of the Act of June 30, 1950, ch. 421, 64 Stat. 305.
-
-#### Amendments
-2001—Subsec. (a)(1). Pub. L. 107–107, § 533(a)(1), substituted “60” for “40”.
-
-Subsec. (b)(2). Pub. L. 107–107, § 533(a)(2)(A), struck out “unless a written waiver of reimbursement is granted by the Secretary of Defense” before period at end of first sentence.
-
-Subsec. (b)(3). Pub. L. 107–107, § 533(a)(2)(B), added par. (3) and struck out former par. (3) which read as follows: “The amount of reimbursement waived under paragraph (2) may not exceed 50 percent of the per-person reimbursement amount otherwise required to be paid by a foreign country under such paragraph, except in the case of not more than 20 persons receiving instruction at the Academy under this section at any one time.”
-
-2000—Subsec. (a)(3). Pub. L. 106–398 added par. (3).
-
-1999—Subsec. (b)(3). Pub. L. 106–65 substituted “50 percent” for “35 percent” and “20 persons” for “five persons”.
-
-1997—Subsec. (b)(2). Pub. L. 105–85, § 543(a)(1), inserted before period at end “, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a cadet appointed from the United States”.
-
-Subsec. (b)(3). Pub. L. 105–85, § 543(a)(2), added par. (3).
-
-1983—Pub. L. 98–94 substituted “persons from foreign countries” for “persons from Canada and American Republics” in section catchline.
-
-Subsec. (a)(1). Pub. L. 98–94 substituted “The Secretary of the Army may permit not more than 40 persons at any one time from foreign countries to receive instruction at the Academy” for “Upon designation by the President, the Secretary of the Army may permit not more than 20 persons at any one time from Canada and the American Republics, other than the United States, to receive instruction at the Academy” as the first sentence of existing subsec. (a), redesignated that first sentence as par. (1), and in par. (1) as so redesignated inserted second sentence providing that such persons shall be in addition to the authorized strength of the Corps of the Cadets of the Academy under [section 4342 of this title](./chapter-403-united-states-military-academy.md#section-4342).
-
-Subsec. (a)(2). Pub. L. 98–94 substituted “The Secretary of the Army, upon approval by the Secretary of Defense, shall determine the countries from which persons may be selected for appointment under this section and the number of persons that may be selected from each country” for “However, not more than three persons from any one of those republics or from Canada may receive instruction under this section at any one time” as the second sentence of existing subsec. (a), redesignated that second sentence as par. (2), and in par. (2) as so redesignated inserted second sentence providing that the Secretary of the Army may establish entrance qualifications and methods of competition for selection among individual applicants under this section and shall select those persons who will be permitted to receive instruction at the Academy under this section.
-
-Subsec. (b)(1). Pub. L. 98–94 redesignated first sentence of existing subsec. (b) as par. (1) thereof.
-
-Subsec. (b)(2). Pub. L. 98–94 substituted “Each foreign country from which a cadet is permitted to receive instruction at the Academy under this section shall reimburse the United States for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1) unless a written waiver of reimbursement is granted by the Secretary of Defense” for “However, the mileage allowance payable to that person for travel to the Academy for initial admission is not limited to mileage for travel within the United States” as second sentence of existing subsec. (b), redesignated that second sentence as par. (2) and inserted second sentence providing that the Secretary of the Army shall prescribe the rates for reimbursement under this paragraph.
-
-Subsec. (c)(1). Pub. L. 98–94 redesignated first sentence of existing subsec. (c) as par. (1) and inserted second sentence providing that the Secretary may prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a cadet at the Academy appointed from the United States.
-
-Subsec. (c)(2). Pub. L. 98–94 redesignated second sentence of existing subsec. (c) as par. (2) and substituted “appointment in an armed force of the United States” for “appointment in the United States Army”.
-
-Subsec. (d). Pub. L. 98–94 reenacted subsec. (d) without change.
-
-#### Effective Date of 2001 Amendment
-Pub. L. 107–107, div. A, title V, § 533(a)(3), Dec. 28, 2001, 115 Stat. 1105, provided that: “The amendments made by paragraph (2) [amending this section] shall not apply with respect to any person who entered the United States Military Academy to receive instruction under [section 4344 of title 10](./chapter-403-united-states-military-academy.md#section-4344), United States Code, before the date of the enactment of this Act [Dec. 28, 2001].”
-
-Pub. L. 107–107, div. A, title V, § 533(d), Dec. 28, 2001, 115 Stat. 1106, provided that: “The amendments made by this section [amending this section and sections 6957 and 9344 of this title] shall not apply with respect to any academic year that began before the date of the enactment of this Act [Dec. 28, 2001].”
-
-#### Effective Date of 2000 Amendment
-Pub. L. 106–398, § 1 [[div. A], title V, § 532(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–110, provided that: “The amendments made by this section [amending this section and sections 6957 and 9344 of this title] shall apply with respect to academic years that begin after October 1, 2000.”
-
-#### Effective Date of 1999 Amendment
-Pub. L. 106–65, div. A, title V, § 534(d), Oct. 5, 1999, 113 Stat. 605, provided that: “The amendments made by this section [amending this section and sections 6957 and 9344 of this title] apply with respect to students from a foreign country entering the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy on or after May 1, 1999.”
-
-#### Effective Date of 1997 Amendment
-Pub. L. 105–85, div. A, title V, § 543(d), Nov. 18, 1997, 111 Stat. 1744, provided that: “The amendments made by this section [amending this section and sections 6957 and 9344 of this title] apply with respect to students from a foreign country entering the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy on or after May 1, 1998.”
-
-#### Effective Date of 1983 Amendment
-Pub. L. 98–94, title X, § 1004(d), Sept. 24, 1983, 97 Stat. 660, provided that: “Sections 4344(b)(2), 6957(b)(2), and 9344(b)(2) of title 10, United States Code, as added by this section, do not apply to the cost of providing instruction to a person who, before the effective date of this section, entered the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy under section 4344, 4345, 6957, 9344, or 9345 of such title, as in effect on the day before such date. Any such person shall be counted against the maximum of 40 persons who may attend the Academy concerned at any time under any of those sections. “The amendments made by subsections (a), (b), and (c) [amending this section and sections 6957 and 9344 of this title and repealing sections 4345 and 9345 of this title] shall take effect one year after the date of the enactment of this Act [Sept. 24, 1983] and shall apply to each person entering the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy after that effective date.”
+Section 4345a, added Pub. L. 110–417, [div. A], title V, § 541(a)(1), Oct. 14, 2008, 122 Stat. 4454; amended Pub. L. 113–291, div. A, title V, § 553(a), Dec. 19, 2014, 128 Stat. 3377, related to foreign and cultural exchange activities.
 
 #### Persons From Countries Assisting U.S. in Vietnam: Service Academy Instruction; Benefits, Limitations, Restrictions, and Regulations; Oath of Trainees
-Pub. L. 89–802, Nov. 9, 1966, 80 Stat. 1518, provided that: “(a) Notwithstanding any other provision of law, upon designation by the President, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force, respectively, may permit persons from foreign countries to receive instruction at the Military Academy, the Naval Academy, and the Air Force Academy. “(b) A person may not be admitted to an Academy for instruction under this Act unless his country at the time of his admission is assisting the United States in Vietnam by the provision of manpower or bases. “(c) Not more than four persons may receive instruction under this Act at any one Academy at any one time. “(d) No person may be admitted to an Academy under this Act after October 1, 1970. “(e) A person receiving instruction under this Act is entitled to the pay, allowances, and emoluments of a cadet or midshipman appointed from the United States and from the same appropriations. “(f) Except as the Secretary determines, a person receiving instruction under this Act is subject to the same regulations governing admission, attendance, discipline, resignation, discharge, dismissal and graduation as a cadet or midshipman appointed from the United States. However, a person receiving instruction under this Act is not entitled to an appointment in the Armed Forces of the United States by reason of his graduation from an Academy. “(g) A person receiving instruction under this Act is not subject to [section 4346(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4346/d&num=0&edition=prelim), United States Code.”
-
-
-<a id="section-4345"></a>
-## § 4345. Exchange program with foreign military academies
-**(a) Exchange Program Authorized.—** The Secretary of the Army may permit a student enrolled at a military academy of a foreign country to receive instruction at the Academy in exchange for a cadet receiving instruction at that foreign military academy pursuant to an exchange agreement entered into between the Secretary and appropriate officials of the foreign country. Students receiving instruction at the Academy under the exchange program shall be in addition to persons receiving instruction at the Academy under [section 4344 of this title](./chapter-403-united-states-military-academy.md#section-4344).
-
-**(b) Limitations on Number and Duration of Exchanges.—** An exchange agreement under this section between the Secretary and a foreign country shall provide for the exchange of students on a one-for-one basis each fiscal year. Not more than 100 cadets and a comparable number of students from all foreign military academies participating in the exchange program may be exchanged during any fiscal year. The duration of an exchange may not exceed the equivalent of one academic semester at the Academy.
-
-**(c) Costs and Expenses.—**
-
-(1) A student from a military academy of a foreign country is not entitled to the pay, allowances, and emoluments of a cadet by reason of attendance at the Academy under the exchange program, and the Department of Defense may not incur any cost of international travel required for transportation of such a student to and from the sponsoring foreign country.
-
-(2) The Secretary may provide a student from a foreign country under the exchange program, during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreign country provides comparable support and services to the exchanged cadet in that foreign country.
-
-(3) The Academy shall bear all costs of the exchange program from funds appropriated for the Academy and such additional funds as may be available to the Academy from a source other than appropriated funds to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.
-
-(4) Expenditures in support of the exchange program from funds appropriated for the Academy may not exceed $1,000,000 during any fiscal year.
-
-**(d) Application of Other Laws.—** Subsections (c) and (d) of [section 4344 of this title](./chapter-403-united-states-military-academy.md#section-4344) shall apply with respect to a student enrolled at a military academy of a foreign country while attending the Academy under the exchange program.
-
-**(e) Regulations.—** The Secretary shall prescribe regulations to implement this section. Such regulations may include qualification criteria and methods of selection for students of foreign military academies to participate in the exchange program.
-
-### Statutory Notes
-
-#### Prior Provisions
-A prior section 4345, act Aug. 10, 1956, ch. 1041, 70A Stat. 242, related to selection of Filipinos for instruction at the Military Academy, prior to repeal by Pub. L. 98–94, title X, § 1004(a)(2), (d), Sept. 24, 1983, 97 Stat. 658, 660, effective one year after Sept. 24, 1983. See [section 4344 of this title](./chapter-403-united-states-military-academy.md#section-4344).
-
-#### Amendments
-2006—Subsec. (b). Pub. L. 109–364, § 531(a)(1), substituted “100” for “24”.
-
-Subsec. (c)(3). Pub. L. 109–364, § 531(a)(2)(A), inserted “and such additional funds as may be available to the Academy from a source other than appropriated funds to support cultural immersion, regional awareness, or foreign language training activities in connection with the exchange program.” after “for the Academy” and struck out at end “Expenditures in support of the exchange program may not exceed $120,000 during any fiscal year.”
-
-Subsec. (c)(4). Pub. L. 109–364, § 531(a)(2)(B), added par. (4).
-
-1999—Subsec. (b). Pub. L. 106–65, § 535(a)(1), substituted “24 cadets” for “10 cadets”.
-
-Subsec. (c)(3). Pub. L. 106–65, § 535(a)(2), substituted “$120,000” for “$50,000”.
-
-#### Effective Date of 2006 Amendment
-Pub. L. 109–364, div. A, title V, § 531(d), Oct. 17, 2006, 120 Stat. 2199, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Oct. 17, 2006]. The amendments made by subsections (b) and (c) [amending sections 6957a and 9345 of this title] shall take effect on October 1, 2008.”
-
-
-<a id="section-4345a"></a>
-## § 4345a. Foreign and cultural exchange activities
-**(a) Attendance Authorized.—** The Secretary of the Army may authorize the Academy to permit students, officers, and other representatives of a foreign country to attend the Academy for periods of not more than four weeks if the Secretary determines that the attendance of such persons contributes significantly to the development of foreign language, cross cultural interactions and understanding, and cultural immersion of cadets.
-
-**(b) Costs and Expenses.—** The Secretary may pay the travel, subsistence, and similar personal expenses of persons incurred to attend the Academy under subsection (a).
-
-**(c) Effect of Attendance.—** Persons attending the Academy under subsection (a) are not considered to be students enrolled at the Academy and are in addition to persons receiving instruction at the Academy under section 4344 or 4345 of this title.
-
-**(d) Source of Funds; Limitation.—**
-
-(1) The Academy shall bear the costs of the attendance of persons under subsection (a) from funds appropriated for the Academy and from such additional funds as may be available to the Academy from a source, other than appropriated funds, to support cultural immersion, regional awareness, or foreign language training activities in connection with their attendance.
-
-(2) Expenditures from appropriated funds in support of activities under this section may not exceed $40,000 during any fiscal year.
-
-### Statutory Notes
-
-#### Amendments
-2014—Subsec. (a). Pub. L. 113–291 substituted “four weeks” for “two weeks”.
+Pub. L. 89–802, Nov. 9, 1966, 80 Stat. 1518, provided that persons from countries assisting the United States in Vietnam were permitted to receive instruction at the Military Academy, the Naval Academy, and the Air Force Academy and that each person receiving such instruction was entitled to the pay, allowances, and emoluments of a cadet or midshipman at such Academies.
 
 
 <a id="section-4346"></a>
@@ -938,13 +820,13 @@ In subsection (d), the word “county” is omitted as surplusage. The words “
 1996—Subsec. (a). Pub. L. 104–201 substituted “twenty-third birthday” for “twenty-second birthday”.
 
 #### Temporary Authority To Waive Maximum Age Limitation on Admission to the Military Service Academies
-Pub. L. 112–81, div. A, title V, § 553, Dec. 31, 2011, 125 Stat. 1413, provided that: “(a) Waiver for Certain Enlisted Members.—The Secretary of the military department concerned may waive the maximum age limitation specified in section 4346(a), 6958(a)(1), or 9346(a) of title 10, United States Code, for the admission of an enlisted member of the Armed Forces to the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy if the member—“(1) satisfies the eligibility requirements for admission to that academy (other than the maximum age limitation); and “(2) was or is prevented from being admitted to a military service academy before the member reached the maximum age specified in such sections as a result of service on active duty in a theater of operations for Operation Iraqi Freedom, Operation Enduring Freedom, or Operation New Dawn. “(b) Maximum Age for Receipt of Waiver.—A waiver may not be granted under this section if the candidate would pass the candidate’s twenty-sixth birthday by July 1 of the year in which the candidate would enter the military service academy pursuant to the waiver. “(c) Limitation on Number Admitted Using Waiver.—Not more than five candidates may be admitted to each of the military service academies for an academic year pursuant to a waiver granted under this section. “(d) Record Keeping Requirement.—The Secretary of each military department shall maintain records on the number of graduates of the military service academy under the jurisdiction of the Secretary who are admitted pursuant to a waiver granted under this section and who remain in the Armed Forces beyond the active duty service obligation assumed upon graduation. The Secretary shall compare their retention rate to the retention rate of graduates of that academy generally. “(e) Reports.—Not later than April 1, 2016, the Secretary of each military department shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report specifying—“(1) the number of applications for waivers received by the Secretary under this section; “(2) the number of waivers granted by the Secretary under this section; “(3) the number of candidates actually admitted to the military service academy under the jurisdiction of the Secretary pursuant to a waiver granted by the Secretary under this section; and “(4) beginning with the class of 2009, the number of graduates of the military service academy under the jurisdiction of the Secretary who, before admission to that academy, were enlisted members of the Armed Forces and who remain in the Armed Forces beyond the active duty service obligation assumed upon graduation. “(f) Duration of Waiver Authority.—The authority to grant a waiver under this section expires on September 30, 2016.”
+Pub. L. 112–81, div. A, title V, § 553, Dec. 31, 2011, 125 Stat. 1413, as amended by Pub. L. 114–92, div. A, title X, § 1072(b), Nov. 25, 2015, 129 Stat. 995, provided that: “(a) Waiver for Certain Enlisted Members.—The Secretary of the military department concerned may waive the maximum age limitation specified in section 4346(a), 6958(a)(1), or 9346(a) of title 10, United States Code, for the admission of an enlisted member of the Armed Forces to the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy if the member—“(1) satisfies the eligibility requirements for admission to that academy (other than the maximum age limitation); and “(2) was or is prevented from being admitted to a military service academy before the member reached the maximum age specified in such sections as a result of service on active duty in a theater of operations for Operation Iraqi Freedom, Operation Enduring Freedom, or Operation New Dawn. “(b) Maximum Age for Receipt of Waiver.—A waiver may not be granted under this section if the candidate would pass the candidate’s twenty-sixth birthday by July 1 of the year in which the candidate would enter the military service academy pursuant to the waiver. “(c) Limitation on Number Admitted Using Waiver.—Not more than five candidates may be admitted to each of the military service academies for an academic year pursuant to a waiver granted under this section. “(d) Record Keeping Requirement.—The Secretary of each military department shall maintain records on the number of graduates of the military service academy under the jurisdiction of the Secretary who are admitted pursuant to a waiver granted under this section and who remain in the Armed Forces beyond the active duty service obligation assumed upon graduation. The Secretary shall compare their retention rate to the retention rate of graduates of that academy generally. “(e) Duration of Waiver Authority.—The authority to grant a waiver under this section expires on September 30, 2016.”
 
 #### Authority To Waive Maximum Age Limitation on Admission to Service Academies for Certain Enlisted Members Who Served During Persian Gulf War
 Pub. L. 102–190, div. A, title V, § 514, Dec. 5, 1991, 105 Stat. 1361, provided that: “(a) Waiver Authority.—The Secretary of the military department concerned may waive the maximum age limitation in section 4346(a), 6958(a)(1), or 9346(a) of title 10, United States Code, in the case of any enlisted member of the Armed Forces who—“(1) becomes 22 years of age while serving on active duty in the Persian Gulf area of operations in connection with Operation Desert Storm during the Persian Gulf War; or “(2) was a candidate for admission to the service academy under the jurisdiction of such Secretary in 1990, was prevented from being admitted to the academy during that year by reason of the service of such person on active duty in the Persian Gulf area of operations in connection with Operation Desert Storm, and became 22 years of age after July 1, 1990, and before the end of such service in that area of operations. “(b) Definitions.—For purposes of this section:“(1) The term ‘Operation Desert Storm’ has the meaning given such term in section 3(1) of the Persian Gulf Conflict Supplemental Authorization and Personnel Benefits Act of 1991 (Public Law 102–25; 105 Stat. 77; [10 U.S.C. 101](./chapter-001-definitions.md#section-101) note). “(2) The term ‘Persian Gulf War’ has the meaning given such term in [section 101(33) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/33&num=0&edition=prelim), United States Code.”
 
 #### Persons From Countries Assisting U.S. in Vietnam; Service Academy Instruction: Oath of Trainees
-Exemption from oath requirement of subsec. (d) of this section of appointees to the Military Academy, the Naval Academy, and the Air Force Academy from countries assisting U.S. in Vietnam, see Pub. L. 89–802, § 1(g), Nov. 9, 1966, 80 Stat. 1519, set out as a note under [section 4344 of this title](./chapter-403-united-states-military-academy.md#section-4344).
+Exemption from oath requirement of subsec. (d) of this section of appointees to the Military Academy, the Naval Academy, and the Air Force Academy from countries assisting U.S. in Vietnam, see Pub. L. 89–802, § 1(g), Nov. 9, 1966, 80 Stat. 1519, formerly set out as a note under [section 4344 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4344&num=0&edition=prelim).
 
 
 <a id="section-4347"></a>
@@ -1485,6 +1367,9 @@ Pub. L. 108–375, div. A, title V, § 544(d), Oct. 28, 2004, 118 Stat. 1907, pr
 
 ### Statutory Notes
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (d)(4)(B) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
 #### Applicability of Sexual Assault Prevention and Response and Related Military Justice Enhancements to Military Service Academies
 Pub. L. 113–291, div. A, title V, § 552(a), Dec. 19, 2014, 128 Stat. 3377, provided that: “The Secretary of the military department concerned shall ensure that the provisions of title XVII of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 950) [see Tables for classification], including amendments made by that title, and the provisions of subtitle D [subtitle D (§§ 531–547) of title V of div. A of Pub. L. 113–291, see Tables for classification], including amendments made by such subtitle, apply to the United States Military Academy, the Naval Academy, and the Air Force Academy, as applicable.”
 
@@ -1493,3 +1378,73 @@ Pub. L. 113–66, div. A, title XVII, § 1746, Dec. 26, 2013, 127 Stat. 983, pro
 
 #### Further Information From Cadets and Midshipmen at the Service Academies on Sexual Assault and Sexual Harassment Issues
 Pub. L. 109–364, div. A, title V, § 532(b), Oct. 17, 2006, 120 Stat. 2205, provided that: “(1) Use of focus groups for years when survey not required.—In any year in which the Secretary of a military department is not required by law to conduct a survey at the service academy under the Secretary’s jurisdiction on matters relating to sexual assault and sexual harassment issues at that Academy, the Secretary shall provide for focus groups to be conducted at that Academy for the purposes of ascertaining information relating to sexual assault and sexual harassment issues at that Academy. “(2) Inclusion in report.—Information ascertained from a focus group conducted pursuant to paragraph (1) shall be included in the Secretary’s annual report to Congress on sexual harassment and sexual violence at the service academies. “(3) Service academies.—For purposes of this subsection, the term ‘service academy’ means the following:“(A) The United States Military Academy. “(B) The United States Naval Academy. “(C) The United States Air Force Academy.”
+
+
+<a id="section-4362"></a>
+## § 4362. Support of athletic programs
+**(a) Authority.—**
+
+(1) **Contracts and cooperative agreements.—** — The Secretary of the Army may enter into contracts and cooperative agreements with the Army West Point Athletic Association for the purpose of supporting the athletic programs of the Academy. Notwithstanding [section 2304(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/k&num=0&edition=prelim), the Secretary may enter such contracts or cooperative agreements on a sole source basis pursuant to [section 2304(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304/c/5&num=0&edition=prelim). Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the Academy.
+
+(2) **Financial controls.—**
+
+  (A) Before entering into a contract or cooperative agreement under paragraph (1), the Secretary shall ensure that such contract or agreement includes appropriate financial controls to account for Academy and Association resources in accordance with accepted accounting principles.
+
+  (B) Any such contract or cooperative agreement shall contain a provision that allows the Secretary, at the Secretary’s discretion, to review the financial accounts of the Association to determine whether the operations of the Association—
+
+    (i) are consistent with the terms of the contract or cooperative agreement; and
+
+    (ii) will not compromise the integrity or appearance of integrity of any program of the Department of the Army.
+
+(3) **Leases.—** — [Section 2667(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2667/h&num=0&edition=prelim) shall not apply to any leases the Secretary may enter into with the Association for the purpose of supporting the athletic programs of the Academy.
+
+**(b) Support Services.—**
+
+(1) **Authority.—** — To the extent required by a contract or cooperative agreement under subsection (a), the Secretary may provide support services to the Association while the Association conducts its support activities at the Academy. The Secretary may provide support services described in paragraph (2) only if the Secretary determines that the provision of such services is essential for the support of the athletic programs of the Academy.
+
+(2) **Support services defined.—**
+
+  (A) In this subsection, the term “support services” includes utilities, office furnishings and equipment, communications services, records staging and archiving, audio and video support, and security systems in conjunction with the leasing or licensing of property.
+
+  (B) Such term includes—
+
+    (i) housing for Association personnel on United States Army Garrison, West Point, New York; and
+
+    (ii) enrollment of dependents of Association personnel in elementary and secondary schools under the same criteria applied to dependents of Federal employees under [section 2164(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2164/a&num=0&edition=prelim), except that educational services provided pursuant to this clause shall be provided on a reimbursable basis.
+
+(3) **No liability of the united states.—** — Any such support services may only be provided without any liability of the United States to the Association.
+
+**(c) Acceptance of Support.—**
+
+(1) **Support received from the association.—** — Notwithstanding [section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim), the Secretary may accept from the Association funds, supplies, and services for the support of the athletic programs of the Academy. For the purposes of this section, employees or personnel of the Association may not be considered to be employees of the United States.
+
+(2) **Funds received from ncaa.—** — The Secretary may accept funds from the National Collegiate Athletic Association to support the athletic programs of the Academy.
+
+(3) **Limitation.—** — The Secretary shall ensure that contributions under this subsection and expenditure of funds pursuant to subsection (e) do not reflect unfavorably on the ability of the Department of the Army, any of its employees, or any member of the armed forces to carry out any responsibility or duty in a fair and objective manner, or compromise the integrity or appearance of integrity of any program of the Department of the Army, or any individual involved in such a program.
+
+**(d) Trademarks and Service Marks.—**
+
+(1) **Licensing, marketing, and sponsorship agreements.—** — An agreement under subsection (a) may, consistent with [section 2260 of this title](./chapter-134-miscellaneous-administrative-provisions.md#section-2260) (other than subsection (d) of such section), authorize the Association to enter into licensing, marketing, and sponsorship agreements relating to trademarks and service marks identifying the Academy, subject to the approval of the Secretary of the Army.
+
+(2) **Limitations.—** — No licensing, marketing, or sponsorship agreement may be entered into under paragraph (1) if—
+
+  (A) such agreement would reflect unfavorably on the ability of the Department of the Army, any of its employees, or any member of the armed forces to carry out any responsibility or duty in a fair and objective manner; or
+
+  (B) the Secretary determines that the use of the trademark or service mark would compromise the integrity or appearance of integrity of any program of the Department of the Army, or any individual involved in such a program.
+
+**(e) Retention and Use of Funds.—** Any funds received by the Secretary under this section may be retained for use in support of the athletic programs of the Academy and shall remain available until expended.
+
+**(f) Service on Association Board of Directors.—** The Association is a designated entity for which authorization under sections 1033(a) and 1589(a) of this title may be provided.
+
+**(g) Conditions.—** The authority provided in this section with respect to the Association is available only so long as the Association continues—
+
+(1) to qualify as a nonprofit organization under section 501(c)(3) of the Internal Revenue Code of 1986 and operates in accordance with this section, the law of the State of New York, and the constitution and bylaws of the Association; and
+
+(2) to operate exclusively to support the athletic programs of the Academy.
+
+**(h) Association Defined.—** In this section, the term “Association” means the Army West Point Athletic Association.
+
+### Statutory Notes
+
+#### References in Text
+Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (g)(1), is classified to [section 501(c)(3) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim), Internal Revenue Code.

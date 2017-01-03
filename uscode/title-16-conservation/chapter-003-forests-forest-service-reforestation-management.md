@@ -2,7 +2,7 @@
 title: 16
 chapter: '3'
 heading: FORESTS; FOREST SERVICE; REFORESTATION; MANAGEMENT
-section_count: 163
+section_count: 170
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -29,6 +29,9 @@ Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 St
 
 #### Change of Name
 “United States magistrate judge” substituted for “United States magistrate” in text pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure. Previously, “United States magistrate” substituted for “United States commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
+
+#### Short Title of 2016 Amendment
+Pub. L. 114–275, § 1, Dec. 14, 2016, 130 Stat. 1405, provided that: “This Act [enacting [section 551c–1 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-551c-1) and provisions set out as a note under [section 551c–1 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-551c-1)] may be cited as the ‘Prescribed Burn Approval Act of 2016’.”
 
 #### Short Title of 1990 Amendment
 Pub. L. 101–286, § 1, May 9, 1990, 104 Stat. 171, provided that: “This Act [enacting sections 551b and 551c of this title, amending sections 18i and 558c of this title and [section 1737 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1737&num=0&edition=prelim), Public Lands, and enacting provisions set out as notes under this section and [section 551b of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-551b)] may be cited as the ‘Wildfire Disaster Recovery Act of 1989’.”
@@ -90,6 +93,24 @@ Pub. L. 113–79, title VIII, § 8305, Feb. 7, 2014, 128 Stat. 925, provided tha
 
 #### Forest Firefighting Planning and Cooperation; Findings
 Pub. L. 101–286, title II, § 201, May 9, 1990, 104 Stat. 174, provided that: “The Congress finds that— “(1) it is in the best interest of the Nation to take swift action to rehabilitate burned forests, and an assessment of the situation is necessary to accomplish this; and “(2) volunteers should be trained to assist where possible.”
+
+
+<a id="section-551c-1"></a>
+## § 551c–1. Limitations on prescribed burns
+**(a) In general** Except as provided in subsection (b), the Secretary shall not authorize a prescribed burn on Forest Service land if, for the county or contiguous county in which the land is located, the national fire danger rating system indicates an extreme fire danger level.
+
+**(b) Exception** The Secretary may authorize a prescribed burn under a condition described in subsection (a) if the Secretary coordinates with the applicable State government and local fire officials.
+
+**(c) Report** At the end of each fiscal year, the Secretary shall submit to Congress a report describing—
+
+(1) the number and locations of prescribed burns during that fiscal year; and
+
+(2) each prescribed burn during that fiscal year that was authorized by the Secretary pursuant to subsection (b).
+
+### Statutory Notes
+
+#### Definitions
+Pub. L. 114–275, § 2, Dec. 14, 2016, 130 Stat. 1405, provided that: “In this Act [enacting this section and provisions set out as a note under [section 551 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-551)]: “(1) National fire danger rating system.—The term ‘national fire danger rating system’ means the national system used to provide a measure of fire danger according to a range of low to moderate to high to very high to extreme. “(2) Prescribed burn.—The term ‘prescribed burn’ means a planned fire intentionally ignited. “(3) Secretary.—The term ‘Secretary’ means the Secretary of Agriculture, acting through the Chief of the Forest Service.”
 
 
 <a id="section-551d"></a>
@@ -429,12 +450,12 @@ None of the funds made available to the Forest Service in this Act or any other 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 113–235, div. F, Dec. 16, 2014, 128 Stat. 2396, known as the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2015. For complete classification of this Act to the Code, see Tables.
-
 [Section 8316(b) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8316/b&num=0&edition=prelim), referred to in text, was in the original “section 10417(b) of Public Law 107–107 ([7 U.S.C. 8316(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8316/b&num=0&edition=prelim))” which was translated as meaning section 10417(b) of Pub. L. 107–171 to reflect the probable intent of Congress.
 
 #### Similar Provisions
 Provisions similar to this section were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. F, title III, Dec. 16, 2014, 128 Stat. 2432.
 
 Pub. L. 113–76, div. G, title III, Jan. 17, 2014, 128 Stat. 326.
 
@@ -514,9 +535,23 @@ The Secretary is authorized to provide for incidental expenses, such as transpor
 
 **(d) Compensation for losses and damages** For the purposes of claims relating to damage to, or loss of, personal property of a volunteer incident to volunteer service, a volunteer under sections 558a to 558d of this title shall be considered a Federal employee, and the provisions of [section 3721 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3721&num=0&edition=prelim) shall apply.
 
+**(e) Volunteers recruited and supervised by cooperators** For the purposes of subsections (b), (c), and (d), the term “volunteer” includes a person providing volunteer services to the Secretary who—
+
+(1) is recruited, trained, and supported by a cooperator under a mutual benefit agreement with the Secretary; and
+
+(2) performs such volunteer services under the supervision of the cooperator as directed by the Secretary in the mutual benefit agreement, including direction that specifies—
+
+  (A) the volunteer services to be performed by the volunteers and the supervision to be provided by the cooperator;
+
+  (B) the applicable project safety standards and protocols to be adhered to by the volunteers and enforced by the cooperator; and
+
+  (C) the on-site visits to be made by the Secretary, when feasible, to verify that volunteers are performing the volunteer services and the cooperator is providing the supervision agreed upon.
+
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (e). Pub. L. 114–245 added subsec. (e).
+
 1990—Subsec. (d). Pub. L. 101–286 added subsec. (d).
 
 
@@ -1107,7 +1142,7 @@ Notwithstanding the provisions of existing law and without regard to sections 31
 ## § 572. Cooperation between Secretary of Agriculture and public or private agencies in working land under State or private ownership
 **(a) Payment of expenses by interested parties; work contemplated** The Secretary of Agriculture is authorized, where the public interest justifies, to cooperate with or assist public and private agencies, organizations, institutions, and persons in performing work on land in State, county, municipal, or private ownership, situated within or near a national forest, for which the administering agency, owner, or other interested party deposits in one or more payments a sufficient sum to cover the total estimated cost of the work to be done for the benefit of the depositor, for administration, protection, improvement, reforestation, and such other kinds of work as the Forest Service is authorized to do on lands of the United States: Provided, That the United States shall not be liable to the depositor or land-owner for any damage incident to the performance of such work.
 
-**(b) Cooperation where national forests or lands are used by permittees** Cooperation and assistance on the same basis as that authorized in subsection (a) of this section is authorized also in the performance of any such kinds of work in connection with the occupancy or use of the national forests or other lands administered by the Forest Service.
+**(b) Cooperation where national forests or lands are used by permittees** Cooperation and assistance on the same basis as that authorized in subsection (a) is authorized also in the performance of any such kinds of work in connection with the occupancy or use of the national forests or other lands administered by the Forest Service.
 
 **(c) Disposition and availability of moneys; advancements; adjustments** Moneys deposited under this section shall be covered into the Treasury and shall constitute a special fund, which is made available until expended for payment of the cost of work performed by the Forest Service and for refunds to depositors of amounts deposited by them in excess of their share of said cost: Provided, That when deposits are received for a number of similar types of work on adjacent or overlapping areas, or on areas which in the aggregate are determined to cover a single work unit, they may be expended on such combined areas for the purposes for which deposited, in which event refunds to the depositors of the total amount of the excess deposits involved will be made on a proportionate basis: Provided further, That when so provided by written agreement payment for work undertaken pursuant to this section may be made from any Forest Service appropriation available for similar types of work, and reimbursement received from said agencies, organizations, institutions, or persons covering their proportionate share of the cost and the funds received as reimbursement shall be deposited to the credit of the Forest Service appropriation from which initially paid or to appropriations for similar purposes currently available at the time of deposit: Provided further, That when by the terms of a written agreement either party thereto furnishes materials, supplies, equipment, or services for fire emergencies in excess of its proportionate share, adjustment may be made by reimbursement or by replacement in kind of supplies, materials, and equipment consumed or destroyed in excess of the furnishing party’s proportionate share.
 
@@ -1180,7 +1215,7 @@ There is authorized to be appropriated for each fiscal year after year ending Ju
 ## § 576b. Purchasers of national-forest timber; deposits of money in addition to payments for timber; use of deposits; seedlings and young trees for burned-over areas in national parks
 **(a)** The Secretary of Agriculture may, when in his or her judgment such action will be in the public interest, require any purchaser of national-forest timber to make deposits of money in addition to the payments for the timber, to cover the cost to the United States of (1) planting (including the production or purchase of young trees), (2) sowing with tree seeds (including the collection or purchase of such seeds), (3) cutting, destroying, or otherwise removing undesirable trees or other growth, on the national-forest land cut over by the purchaser, in order to improve the future stand of timber, (4) protecting and improving the future productivity of the renewable resources of the forest land on such sale area, including sale area improvement operations, maintenance and construction, reforestation and wildlife habitat management, or (5) watershed restoration, wildlife habitat improvement, control of insects, disease and noxious weeds, community protection activities, and the maintenance of forest roads, within the Forest Service region in which the timber sale occurred: Provided, That such activities may be performed through the use of contracts, forest product sales, and cooperative agreements. Such deposits shall be covered into the Treasury and shall constitute a special fund, which is appropriated and made available until expended, to cover the cost to the United States of such tree planting, seed sowing, and forest improvement work, as the Secretary of Agriculture may direct. The Secretary of Agriculture is authorized, upon application of the Secretary of the Interior, to furnish seedlings and/or young trees for replanting of burned-over areas in any national park.
 
-**(c)** 11 See 2004 Amendment notes below. Any portion of the balance at the end of a fiscal year in the special fund established pursuant to this section that the Secretary of Agriculture determines to be in excess of the cost of doing work described in subsection (a) of this section (as well as any portion of the balance in the special fund that the Secretary determined, before October 1, 2004, to be excess of the cost of doing work described in subsection (a) of this section, but which has not been transferred by that date) shall be transferred to miscellaneous receipts, National Forest Fund, as a National Forest receipt, but only if the Secretary also determines that—
+**(c)** 11 See 2004 Amendment notes below. Any portion of the balance at the end of a fiscal year in the special fund established pursuant to this section that the Secretary of Agriculture determines to be in excess of the cost of doing work described in subsection (a) (as well as any portion of the balance in the special fund that the Secretary determined, before October 1, 2004, to be excess of the cost of doing work described in subsection (a), but which has not been transferred by that date) shall be transferred to miscellaneous receipts, National Forest Fund, as a National Forest receipt, but only if the Secretary also determines that—
 
 (1) the excess amounts will not be needed for emergency wildfire suppression during the fiscal year in which the transfer would be made; and
 
@@ -1193,7 +1228,7 @@ There is authorized to be appropriated for each fiscal year after year ending Ju
 
 2004—Pub. L. 108–447, § 318(1), which directed the amendment of this section “by striking ‘The Secretary of Agriculture may, when in his’ and inserting ‘(a) The Secretary of Agriculture may, when in his or her’;
 
-‘(b) Amounts deposited under subsection (a) of this section’ ”,
+‘(b) Amounts deposited under subsection (a)’ ”,
 
 was partially executed by designating existing text as subsec. (a) and substituting “The Secretary of Agriculture may, when in his or her” for “The Secretary of Agriculture may, when in his”. However, the provisions relating to subsec. (b) were not inserted, because of missing directory language.
 
@@ -2020,15 +2055,15 @@ Amendment by Pub. L. 92–318 effective after June 30, 1970, see section 506(n) 
 
 <a id="section-582a-8"></a>
 ## § 582a–8. Competitive forestry, natural resources, and environmental grants program
-**(a) Establishment** The Secretary of Agriculture (hereafter referred to in this section as the “Secretary”) shall establish a competitive forestry, natural resources, and environmental grant program to award grants for the conduct of research as described in subsection (c) of this section.
+**(a) Establishment** The Secretary of Agriculture (hereafter referred to in this section as the “Secretary”) shall establish a competitive forestry, natural resources, and environmental grant program to award grants for the conduct of research as described in subsection (c).
 
-**(b) Eligible entities** To be eligible to receive a grant under subsection (a) of this section, an entity shall—
+**(b) Eligible entities** To be eligible to receive a grant under subsection (a), an entity shall—
 
 (1) be a State agricultural experiment station, a college or university, a research institution or organization, a Federal agency, a private organization, or a corporation that has a demonstrable capacity to conduct forestry, natural resources, and environmental research as determined by the Secretary; and
 
 (2) prepare and submit to the Secretary, an application at such time, in such manner, and containing such information as the Secretary shall require, including the proposed use of the amounts that may be received under a grant.
 
-**(c) Use** In awarding the initial grants under subsection (a) of this section the Secretary shall give priority to applicants who will use such grants for research concerning—
+**(c) Use** In awarding the initial grants under subsection (a) the Secretary shall give priority to applicants who will use such grants for research concerning—
 
 (1) the biology of forest organisms, including physiology, genetic mechanisms, and biotechnology;
 
@@ -2056,7 +2091,7 @@ Amendment by Pub. L. 92–318 effective after June 30, 1970, see section 506(n) 
 
 (2) **Priorities and criteria** — The Secretary, in consultation with the Cooperative Forestry Research Council appointed under [section 582a–4(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section582a–4/b&num=0&edition=prelim), may develop criteria and priorities for the awarding of grants for use under paragraph (1).
 
-**(e) Recommendations** The Secretary shall request the Cooperative Forestry Research Council referred to in subsection (d)(2) of this section to provide recommendations regarding grant priorities.
+**(e) Recommendations** The Secretary shall request the Cooperative Forestry Research Council referred to in subsection (d)(2) to provide recommendations regarding grant priorities.
 
 **(f) Term** The Secretary may make grants under this section for periods of not to exceed 5 years.
 
@@ -2207,9 +2242,9 @@ This subchapter, referred to in subsec. (g), was in the original “this subtitl
 
 (3) shall have its principal offices in the Washington, D.C. metropolitan area; and
 
-(4) shall at all times maintain a designated agent in the District of Columbia authorized to accept service of process for the Foundation.
+(4) shall at all times maintain a designated agent in the District of Columbia authorized to accept notice or service of process for the Foundation.
 
-**(b) Notice and service of process** The serving of notice to, or service of process upon, the agent required under this paragraph,11 So in original. Probably should be “this section,”. or mailed to the business address of such agent, shall be deemed as service upon or notice to the Foundation.
+**(b) Notice and service of process** The serving of notice to, or service of process upon, the agent required by subsection (a)(4), or mailed to the business address of such agent, shall be deemed as service upon or notice to the Foundation.
 
 **(c) Seal** The Foundation shall have an official seal selected by the Board which shall be judicially noticed.
 
@@ -2239,18 +2274,27 @@ This subchapter, referred to in subsec. (g), was in the original “this subtitl
 
 (4) Contributions, gifts, and other transfers made to or for the use of the Foundation shall be treated as contributions, gifts, or transfers to an organization exempt from taxation under [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim).
 
+### Statutory Notes
+
+#### Amendments
+2015—Subsec. (a)(4). Pub. L. 114–54, § 201(c)(1)(A), inserted “notice or” after “authorized to accept”.
+
+Subsec. (b). Pub. L. 114–54, § 201(c)(1)(B), substituted “by subsection (a)(4)” for “under this paragraph”.
+
 
 <a id="section-583j-3"></a>
 ## § 583j–3. Administrative services and support
 **(a) Startup funds** For purposes of assisting the Foundation in establishing an office and meeting initial administrative, project, and other startup expenses, the Secretary is authorized to provide to the Foundation $500,000, from funds appropriated pursuant to [section 583j–8(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section583j–8/a&num=0&edition=prelim), per year for the two years beginning October 1, 1992. Such funds shall remain available to the Foundation until they are expended for authorized purposes.
 
-**(b) Matching funds** In addition to the startup funds provided under subsection (a) of this section, for a period of five years beginning October 1, 1992, the Secretary is authorized to provide matching funds for administrative and project expenses incurred by the Foundation as authorized by [section 583j–8(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section583j–8/b&num=0&edition=prelim) including reimbursement of expenses under [section 583j–1 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-583j-1), not to exceed then current Federal Government per diem rates.
+**(b) Matching funds** In addition to the startup funds provided under subsection (a) of this section, during fiscal years 2016 through 2018, the Secretary is authorized to provide matching funds for administrative and project expenses incurred by the Foundation as authorized by [section 583j–8(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section583j–8/b&num=0&edition=prelim) including reimbursement of expenses under [section 583j–1 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-583j-1), not to exceed then current Federal Government per diem rates.
 
 **(c) Administrative expenses** At any time, the Secretary may provide the Foundation use of Department of Agriculture personnel, facilities, and equipment, with partial or no reimbursement, with such limitations and on such terms and conditions as the Secretary shall establish.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (b). Pub. L. 114–54 substituted “during fiscal years 2016 through 2018” for “for a period of five years beginning October 1, 1992”.
+
 1993—Subsec. (a). Pub. L. 103–106, § 3(a)(1), inserted “, project,” after “administrative” and substituted “beginning October 1, 1992” for “following November 16, 1990”.
 
 Subsec. (b). Pub. L. 103–106, § 3(a)(2), substituted “beginning October 1, 1992” for “from November 16, 1990” and inserted “and project” after “administrative”.
@@ -2274,12 +2318,15 @@ The Volunteers in the National Forests Act of 1972, referred to in text, is Pub.
 ## § 583j–5. Audits and report requirements
 **(a) Audits** For purposes of [section 10101 of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section10101&num=0&edition=prelim) the Foundation shall be treated as a corporation in part B of subtitle II of title 36.
 
-**(b) Annual reports** The Foundation shall,11 So in original. The comma probably should not appear. transmit each year to Congress a report of its proceedings and activities of the previous year, including a full and complete statement of its receipts, expenditures, and investments.
+**(b) Annual reports** The Foundation shall transmit each year to Congress a report of its proceedings and activities of the previous year, including a full and complete statement of its receipts, expenditures, and investments.
 
 ### Statutory Notes
 
 #### Codification
 In subsec. (a), “[section 10101 of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section10101&num=0&edition=prelim)” substituted for “the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law,’ approved August 30, 1964 ([36 U.S.C. 1101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section1101&num=0&edition=prelim) through 1103; Public Law 88–504)” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of Pub. L. 105–225, § 5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+
+#### Amendments
+2015—Subsec. (b). Pub. L. 114–54 struck out comma after “The Foundation shall”.
 
 
 <a id="section-583j-6"></a>
@@ -2303,11 +2350,13 @@ This Act, referred to in text, is Pub. L. 101–593, Nov. 16, 1990, 104 Stat. 29
 ## § 583j–8. Authorization of appropriations
 **(a) Startup funds** For the purposes of [section 583j–3 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-583j-3), there are authorized to be appropriated $1,000,000.
 
-**(b) Matching funds** For the purposes of [section 583j–3 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-583j-3), during the five-year period beginning October 1, 1992, there are authorized to be appropriated $1,000,000 annually to the Secretary of Agriculture to be made available to the Foundation to match, on a one-for-one basis, private contributions made to the Foundation.
+**(b) Matching funds** For the purposes of [section 583j–3 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-583j-3), there are authorized to be appropriated $3,000,000 for each of fiscal years 2016 through 2018 to the Secretary of Agriculture to be made available to the Foundation to match, on a one-for-one basis, private contributions made to the Foundation.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (b). Pub. L. 114–54 substituted “there are authorized to be appropriated $3,000,000 for each of fiscal years 2016 through 2018” for “during the five-year period beginning October 1, 1992, there are authorized to be appropriated $1,000,000 annually”.
+
 1993—Subsec. (b). Pub. L. 103–106 substituted “beginning October 1, 1992” for “following November 16, 1990”.
 
 
@@ -2345,3 +2394,182 @@ Pub. L. 108–447, div. E, title II, Dec. 8, 2004, 118 Stat. 3079.
 Pub. L. 108–108, title II, Nov. 10, 2003, 117 Stat. 1288.
 
 Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 256.
+
+
+<a id="section-583k"></a>
+## § 583k. Findings
+
+Congress finds as follows:
+
+(1) The National Forest System features a world-class trail system with over 157,000 miles of trails that provide world-class opportunities for hiking, horseback riding, hunting, mountain bicycling, motorized vehicles, and other outdoor activities.
+
+(2) According to the Government Accountability Office, the Forest Service is only able to maintain about one-quarter of National Forest System trails to the agency standard, and the agency faces a trail maintenance backlog of $314 million, and an additional backlog of $210 million in annual maintenance, capital improvements, and operations.
+
+(3) The lack of maintenance on National Forest System trails threatens access to public lands, and may cause increased environmental damage, threaten public safety, and increase future maintenance costs.
+
+(4) Federal budget limitations require solutions to National Forest System trail maintenance issues that make more efficient use of existing resources.
+
+(5) Volunteers, partners, and outfitters and guides play an important role in maintaining National Forest System trails, and a comprehensive strategy is needed to ensure that volunteers and partners are used as effectively as possible.
+
+### Statutory Notes
+
+#### Short Title
+Pub. L. 114–245, § 1(a), Nov. 28, 2016, 130 Stat. 990, provided that: “This Act [enacting this subchapter and amending [section 558c of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558c)] may be cited as the ‘National Forest System Trails Stewardship Act’.”
+
+
+<a id="section-583k-1"></a>
+## § 583k–1. Definitions
+
+In this subchapter:
+
+(1) **Administrative Unit** — The term “Administrative Unit” means a national forest or national grassland.
+
+(2) **Outfitter or guide** — The term “outfitter or guide” means an individual, organization, or business who provides outfitting or guiding services, as defined in section 251.51 of title 36, Code of Federal Regulations.
+
+(3) **Partner** — The term “partner” means a non-Federal entity that engages in a partnership.
+
+(4) **Partnership** — The term “partnership” means arrangements between the Department of Agriculture or the Forest Service and a non-Federal entity that are voluntary, mutually beneficial, and entered into for the purpose of mutually agreed-upon objectives.
+
+(5) **Priority area** — The term “priority area” means a well-defined region on National Forest System land selected by the Secretary under [section 583k–3(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section583k–3/a&num=0&edition=prelim).
+
+(6) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
+
+(7) **Strategy** — The term “strategy” means the National Forest System Trails Volunteer and Partnership Strategy authorized by [section 583k–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section583k–2/a&num=0&edition=prelim).
+
+(8) **Trail maintenance** — The term “trail maintenance” means any activity to maintain the usability and sustainability of trails within the National Forest System, including—
+
+  (A) ensuring trails are passable by the users for which they are managed;
+
+  (B) preventing environmental damage resulting from trail deterioration;
+
+  (C) protecting public safety; and
+
+  (D) averting future deferred maintenance costs.
+
+(9) **Volunteer** — The term “volunteer” means an individual whose services are accepted by the Secretary without compensation under the Volunteers in the National Forests Act of 1972 ([16 U.S.C. 558a](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) et seq.).
+
+### Statutory Notes
+
+#### References in Text
+The Volunteers in the National Forests Act of 1972, referred to in par. (9), is Pub. L. 92–300, May 18, 1972, 86 Stat. 147, which is classified generally to section 558a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 558a of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) and Tables.
+
+
+<a id="section-583k-2"></a>
+## § 583k–2. National Forest System Trails Volunteer and Partnership Strategy
+**(a) In general** Not later than 2 years after November 28, 2016, the Secretary shall publish in the Federal Register a strategy to significantly increase the role of volunteers and partners in trail maintenance.
+
+**(b) Required elements** The strategy required by subsection (a) shall—
+
+(1) augment and support the capabilities of Federal employees to carry out or contribute to trail maintenance;
+
+(2) provide meaningful opportunities for volunteers and partners to carry out trail maintenance in each region of the Forest Service;
+
+(3) address the barriers to increased volunteerism and partnerships in trail maintenance identified by volunteers, partners, and others;
+
+(4) prioritize increased volunteerism and partnerships in trail maintenance in those regions with the most severe trail maintenance needs, and where trail maintenance backlogs are jeopardizing access to National Forest lands; and
+
+(5) aim to increase trail maintenance by volunteers and partners by 100 percent by the date that is 5 years after November 28, 2016.
+
+**(c) Additional requirement** As a component of the strategy, the Secretary shall study opportunities to improve trail maintenance by addressing opportunities to use fire crews in trail maintenance activities in a manner that does not jeopardize firefighting capabilities, public safety, or resource protection. Upon a determination that trail maintenance would be advanced by use of fire crews in trail maintenance, the Secretary shall incorporate these proposals into the strategy, subject to such terms and conditions as the Secretary determines to be necessary.
+
+**(d) Volunteer liability**
+
+(1) **Omitted**
+
+(2) **Additional requirement** — Not later than 2 years after November 28, 2016, the Secretary shall adopt regulations implementing this section. These regulations shall ensure that the financial risk from claims or liability associated with volunteers undertaking trail maintenance is shared by all administrative units.
+
+**(e) Consultation** The Secretary shall develop the strategy in consultation with volunteer and partner trail maintenance organizations, a broad array of outdoor recreation stakeholders, and other relevant stakeholders.
+
+**(f) Volunteer and partnership coordination** The Secretary shall require each administrative unit to develop a volunteer and partner coordination implementation plan for the strategy which clearly defines roles and responsibilities for the administrative unit and district staff, and includes strategies to ensure sufficient coordination, assistance, and support for volunteers and partners to improve trail maintenance.
+
+**(g) Report**
+
+(1) **Contents** — The Secretary shall prepare a report on—
+
+  (A) the effectiveness of the strategy in addressing the trail maintenance backlog;
+
+  (B) the increase in volunteerism and partnership efforts on trail maintenance as a result of the strategy;
+
+  (C) the miles of National Forest System trails maintained by volunteers and partners, and the approximate value of the volunteer and partnership efforts;
+
+  (D) the status of the stewardship credits for outfitters and guides pilot program described in [section 583k–5 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-583k-5) that includes the number of participating sites, total amount of the credits offered, estimated value of trail maintenance performed, and suggestions for revising the program; and
+
+  (E) recommendations for further increasing volunteerism and partnerships in trail maintenance.
+
+(2) **Submission** — Not later than 3 years after November 28, 2016, the Secretary shall submit the report required by paragraph (1) to—
+
+  (A) the Committee on Agriculture, Nutrition, and Forestry and the Committee on Energy and Natural Resources of the Senate; and
+
+  (B) the Committee on Agriculture and the Committee on Natural Resources of the House of Representatives.
+
+### Statutory Notes
+
+#### Codification
+Section is comprised of section 4 of Pub. L. 114–245. Subsec. (d)(1) of section 4 of Pub. L. 114–245 amended [section 558c of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558c).
+
+
+<a id="section-583k-3"></a>
+## § 583k–3. Priority trail maintenance program
+**(a) Selection** In accordance with subsections (b) and (c), not later than 6 months after November 28, 2016, the Secretary of Agriculture shall select no fewer than 9 and no more than 15 priority areas for increased trail maintenance accomplishments.
+
+**(b) Criteria** Priority areas shall include a well-defined region on National Forest System land where the lack of trail maintenance has—
+
+(1) reduced access to public land;
+
+(2) led to an increase, or risk of increase, in harm to natural resources;
+
+(3) jeopardized public safety;
+
+(4) resulted in trails being impassible by the intended managed users; or
+
+(5) increased future deferred trail maintenance costs.
+
+**(c) Requirements** In selecting priority areas, the Secretary shall—
+
+(1) consider any public input on priority areas received within 3 months of November 28, 2016;
+
+(2) consider the range of trail users (including motorized and non-motorized trail users); and
+
+(3) include at least one priority area in each region of the United States Forest Service.
+
+**(d) Increased trail maintenance**
+
+(1) **In general** — Within 6 months of the selection of priority areas under subsection (a), and in accordance with paragraph (2), the Secretary shall develop an approach to substantially increase trail maintenance accomplishments within each priority area.
+
+(2) **Contents** — In developing the approach under paragraph (1), the Secretary shall—
+
+  (A) consider any public input on trail maintenance priorities and needs within any priority area;
+
+  (B) consider the costs and benefits of increased trail maintenance within each priority area; and
+
+  (C) incorporate partners and volunteers in the trail maintenance.
+
+(3) **Required trail maintenance** — Utilizing the approach developed under paragraph (1), the Secretary shall substantially increase trail maintenance within each priority area.
+
+**(e) Coordination** The regional volunteer and partnership coordinators may be responsible for assisting partner organizations in developing and implementing volunteer and partnership projects to increase trail maintenance within priority areas.
+
+**(f) Revision** The Secretary shall periodically review the priority areas to determine whether revisions are necessary and may revise the priority areas, including the selection of new priority areas or removal of existing priority areas, at his sole discretion.
+
+
+<a id="section-583k-4"></a>
+## § 583k–4. Cooperative agreements
+**(a) In general** The Secretary may enter into a cooperative agreement with any State, tribal, local governmental, and private entity to carry out this subchapter.
+
+**(b) Contents** Cooperative agreements authorized under this section may—
+
+(1) improve trail maintenance in a priority area;
+
+(2) implement the strategy; or
+
+(3) advance trail maintenance in a manner deemed appropriate by the Secretary.
+
+
+<a id="section-583k-5"></a>
+## § 583k–5. Stewardship credits for outfitters and guides
+**(a) Pilot program** Within 1 year after November 28, 2016, in accordance with this section, the Secretary shall establish a pilot program on not less than 20 administrative units to offset all or part of the land use fee for an outfitting and guiding permit by the cost of the work performed by the permit holder to construct, improve, or maintain National Forest System trails, trailheads, or developed sites that support public use under terms established by the Secretary.
+
+**(b) Additional requirements** In establishing the pilot program authorized by subsection (a), the Secretary shall—
+
+(1) select administrative units where the pilot program will improve trail maintenance; and
+
+(2) establish appropriate terms and conditions, including meeting National Quality Standards for Trails and the Trail Management Objectives identified for the trail.

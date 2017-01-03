@@ -206,6 +206,10 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 #### Commemorative Medals
 Provisions authorizing commemorative medals were contained in the following acts:
 
+Pub. L. 114–269, Dec. 14, 2016, 130 Stat. 1391, recognizing the Office of Strategic Services.
+
+Pub. L. 114–265, Dec. 14, 2016, 130 Stat. 1376, recognizing Filipino Veterans of World War II.
+
 Pub. L. 114–5, Mar. 7, 2015, 129 Stat. 78, recognizing Foot Soldiers who participated in Bloody Sunday, Turnaround Tuesday, or the final Selma to Montgomery Voting Rights March in March, 1965.
 
 Pub. L. 113–210, Dec. 16, 2014, 128 Stat. 2077, recognizing Jack Nicklaus.
@@ -739,33 +743,21 @@ Pub. L. 95–630, title IV, §§ 401–407, Nov. 10, 1978, 92 Stat. 3679, 3680, 
 
     (ii) bear such other inscriptions as the Secretary determines to be appropriate.
 
-(3) **Subsequent designs.—** — After the 1-year period described to in paragraph (2), the Secretary may—
-
-  (A) after consulting with the Commission of Fine Arts, and subject to the review of the Citizens Coinage Advisory Committee, change the design on the obverse or reverse of gold bullion coins struck under this subsection; and
-
-  (B) change the maximum number of coins issued in any year.
-
-(4) **Source of gold bullion.—**
+(3) **Source of gold bullion.—**
 
   (A) *In general.—* — The Secretary shall acquire gold for the coins issued under this subsection by purchase of gold mined from natural deposits in the United States, or in a territory or possession of the United States, within 1 year after the month in which the ore from which it is derived was mined.
 
   (B) *Price of gold.—* — The Secretary shall pay not more than the average world price for the gold mined under subparagraph (A).
 
-(5) **Sale of coins.—** — Each gold bullion coin issued under this subsection shall be sold for an amount the Secretary determines to be appropriate, but not less than the sum of—
+(4) **Sale of coins.—** — Each gold bullion coin issued under this subsection shall be sold for an amount the Secretary determines to be appropriate, but not less than the sum of—
 
   (A) the market value of the bullion at the time of sale; and
 
   (B) the cost of designing and issuing the coins, including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping.
 
-(6) **Legal tender.—** — The coins minted under this title shall be legal tender, as provided in section 5103.
+(5) **Legal tender.—** — The coins minted under this title shall be legal tender, as provided in section 5103.
 
-(7) **Treatment as numismatic items.—** — For purposes of section 1 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
-
-(8) **Protective covering.—**
-
-  (A) *In general.—* — Each bullion coin having a metallic content as described in subsection (a)(11) and a design specified in paragraph (2) shall be sold in an inexpensive covering that will protect the coin from damage due to ordinary handling or storage.
-
-  (B) *Design.—* — The protective covering required under subparagraph (A) shall be readily distinguishable from any coin packaging that may be used to protect proof coins minted and issued under this subsection.
+(6) **Treatment as numismatic items.—** — For purposes of section 1 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
 
 **(r) Redesign and Issuance of Circulating $1 Coins Honoring Native Americans and the Important Contributions Made by Indian Tribes and Individual Native Americans in United States History.—**
 
@@ -951,7 +943,7 @@ Pub. L. 95–630, title IV, §§ 401–407, Nov. 10, 1978, 92 Stat. 3679, 3680, 
 
   (A) *Quality of coins.—* — The Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (3) in uncirculated and proof qualities as the Secretary determines to be appropriate.
 
-  (B) *Silver coins.—* — Notwithstanding subsection (b), the Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (3) as the Secretary determines to be appropriate, with a content of 90 percent silver and 10 percent copper.
+  (B) *Silver coins.—* — Notwithstanding subsection (b), the Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (3) as the Secretary determines to be appropriate, with a content of not less than 90 percent silver.
 
 (7) **Period of issuance.—**
 
@@ -1003,11 +995,11 @@ Pub. L. 95–630, title IV, §§ 401–407, Nov. 10, 1978, 92 Stat. 3679, 3680, 
 
 **(v) Palladium Bullion Investment Coins.—**
 
-(1) **In general.—** — Subject to the submission to the Secretary and the Congress of a marketing study described in paragraph (8), beginning not more than 1 year after the submission of the study to the Secretary and the Congress, the Secretary shall mint and issue the palladium coins described in paragraph (12) of subsection (a) in such quantities as the Secretary may determine to be appropriate to meet demand.
+(1) **In general.—** — The Secretary shall mint and issue the palladium coins described in paragraph (12) of subsection (a) in such quantities as the Secretary may determine to be appropriate to meet demand.
 
 (2) **Source of bullion.—**
 
-  (A) *In general.—* — The Secretary shall acquire bullion for the palladium coins issued under this subsection by purchase of palladium mined from natural deposits in the United States, or in a territory or possession of the United States, within 1 year after the month in which the ore from which it is derived was mined. If no such palladium is available or if it is not economically feasible to obtain such palladium, the Secretary may obtain palladium for the palladium coins described in paragraph (12) of subsection (a) from other available sources.
+  (A) *In general.—* — To the greatest extent possible, the Secretary shall acquire bullion for the palladium coins issued under this subsection by purchase of palladium mined from natural deposits in the United States, or in a territory or possession of the United States, within 1 year after the month in which the ore from which it is derived was mined. If no such palladium is available or if it is not economically feasible to obtain such palladium, the Secretary may obtain palladium for the palladium coins described in paragraph (12) of subsection (a) from other available sources.
 
   (B) *Price of bullion.—* — The Secretary shall pay not more than the average world price for the palladium under subparagraph (A).
 
@@ -1019,7 +1011,7 @@ Pub. L. 95–630, title IV, §§ 401–407, Nov. 10, 1978, 92 Stat. 3679, 3680, 
 
 (4) **Treatment.—** — For purposes of section 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
 
-(5) **Quality.—** — The Secretary may issue the coins described in paragraph (1) in both proof and uncirculated versions, except that, should the Secretary determine that it is appropriate to issue proof or uncirculated versions of such coin, the Secretary shall, to the greatest extent possible, ensure that the surface treatment of each year’s proof or uncirculated version differs in some material way from that of the preceding year.
+(5) **Quality.—** — The Secretary may issue collectible versions of the coins described in paragraph (1) in both proof and uncirculated versions, except that, should the Secretary determine that it is appropriate to issue proof or uncirculated versions of such coin, the Secretary shall, to the greatest extent possible, ensure that the surface treatment of each year’s proof or uncirculated version differs in some material way from that of the preceding year.
 
 (6) **Design.—** — Coins minted and issued under this subsection shall bear designs on the obverse and reverse that are close likenesses of the work of famed American coin designer and medallic artist Adolph Alexander Weinman—
 
@@ -1030,8 +1022,6 @@ Pub. L. 95–630, title IV, §§ 401–407, Nov. 10, 1978, 92 Stat. 3679, 3680, 
   (C) the coin shall bear such other inscriptions, including “Liberty”, “In God We Trust”, “United States of America”, the denomination and weight of the coin and the fineness of the metal, as the Secretary determines to be appropriate and in keeping with the original design.
 
 (7) **Mint facility.—** — Any United States mint, other than the United States Mint at West Point, New York, may be used to strike coins minted under this subsection other than any proof version of any such coin. If the Secretary determines that it is appropriate to issue any proof version of such coin, coins of such version shall be struck only at the United States Mint at West Point, New York.
-
-(8) **Marketing study defined.—** — The market study described in paragraph (1) means an analysis of the market for palladium bullion investments conducted by a reputable, independent third party that demonstrates that there would be adequate demand for palladium bullion coins produced by the United States Mint to ensure that such coins could be minted and issued at no net cost to taxpayers.
 
 ### Statutory Notes
 
@@ -1093,6 +1083,18 @@ Section 3 of the Federal Deposit Insurance Act, referred to in subsec. (t)(1)(C)
 The date of the enactment of the America’s Beautiful National Parks Quarter Dollar Coin Act of 2008, referred to in subsec. (t)(3)(A)(ii), is the date of enactment of Pub. L. 110–456, which was approved Dec. 23, 2008.
 
 #### Amendments
+2015—Subsec. (q)(3) to (8). Pub. L. 114–94, § 73001(1)(A), redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former pars. (3) and (8), which related to subsequent designs and protective covering, respectively.
+
+Subsec. (t)(6)(B). Pub. L. 114–94, § 73001(1)(B), substituted “not less than 90 percent silver” for “90 percent silver and 10 percent copper”.
+
+Subsec. (v)(1). Pub. L. 114–94, § 73001(1)(C)(i), substituted “The Secretary shall” for “Subject to the submission to the Secretary and the Congress of a marketing study described in paragraph (8), beginning not more than 1 year after the submission of the study to the Secretary and the Congress, the Secretary shall”.
+
+Subsec. (v)(2)(A). Pub. L. 114–94, § 73001(1)(C)(ii), substituted “To the greatest extent possible, the Secretary” for “The Secretary”.
+
+Subsec. (v)(5). Pub. L. 114–94, § 73001(1)(C)(iii), inserted “collectible versions of” after “may issue”.
+
+Subsec. (v)(8). Pub. L. 114–94, § 73001(1)(C)(iv), struck out par. (8). Text read as follows: “The market study described in paragraph (1) means an analysis of the market for palladium bullion investments conducted by a reputable, independent third party that demonstrates that there would be adequate demand for palladium bullion coins produced by the United States Mint to ensure that such coins could be minted and issued at no net cost to taxpayers.”
+
 2010—Subsec. (a)(12). Pub. L. 111–303, § 2(1), added par. (12).
 
 Subsec. (e). Pub. L. 111–302, § 4, substituted “qualities and quantities that the Secretary determines are” for “quantities” in introductory provisions.
@@ -1263,6 +1265,10 @@ Pub. L. 99–185, § 2(g), Dec. 17, 1985, 99 Stat. 1178, provided that: “The S
 #### Commemorative Coins
 Provisions authorizing commemorative coins were contained in the following acts:
 
+Pub. L. 114–282, Dec. 16, 2016, 130 Stat. 1441.—Apollo 11 50th Anniversary.
+
+Pub. L. 114–148, Apr. 29, 2016, 130 Stat. 360.—Breast Cancer Awareness.
+
 Pub. L. 114–30, July 6, 2015, 129 Stat. 424.—Boys Town Centennial.
 
 Pub. L. 113–291, div. B, title XXX, § 3055, Dec. 19, 2014, 128 Stat. 3808.—National Park Service 100th anniversary.
@@ -1386,7 +1392,7 @@ Pub. L. 99–61, title I, July 9, 1985, 99 Stat. 113.—Statue of Liberty and El
 Pub. L. 97–220, July 22, 1982, 96 Stat. 222.—1984 Olympic Games.
 
 #### Possession of Gold Coins and Bullion
-The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974. See notes set out under [section 5 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section5&num=0&edition=prelim), Appendix, War and National Defense.
+The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974.
 
 
 <a id="section-5113"></a>
@@ -1870,7 +1876,7 @@ In subsection (d)(2), the words “in an exchange under this subsection” are a
 In subsection (e), the word “suitable” is substituted for “expedient” in 31:325(words between 4th and last commas) for clarity. The words “but the fineness thereof shall be ascertained and” in 31:347 are omitted as unnecessary because of the source provisions restated in section 5121(a) of the revised title.
 
 #### Possession of Gold Coins and Bullion
-The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974. See notes set out under [section 95a of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section95a&num=0&edition=prelim), Banks and Banking.
+The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974.
 
 
 <a id="section-5122"></a>
@@ -1988,7 +1994,7 @@ For authority of special police officers of United States Mint over buildings an
 
   (B) Notwithstanding any other provision of law, for purposes of this paragraph—
 
-    (i) the coins described in paragraphs (2) through (4) of section 5112(a) shall be made of an alloy of 90 percent silver and 10 percent copper; and
+    (i) the coins described in paragraphs (2) through (4) of section 5112(a) shall be made of an alloy of not less than 90 percent silver; and
 
     (ii) all coins minted under this paragraph shall have a mint mark indicating the place of manufacture.
 
@@ -2038,6 +2044,8 @@ This is necessary because the language was restated by section 382(h)(1) of the 
 The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a)(2)(D), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 98 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (a)(2)(B)(i). Pub. L. 114–94 substituted “not less than 90 percent silver” for “90 percent silver and 10 percent copper”.
+
 2000—Subsec. (a)(2)(B)(i). Pub. L. 106–445 substituted “paragraphs (2)” for “paragraphs (1)”.
 
 1992—Subsec. (a)(1). Pub. L. 102–390, § 225(b)(3), substituted “United States Mint” for “Bureau of the Mint” in two places.

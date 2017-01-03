@@ -225,7 +225,7 @@ Subsec. (b)(2). Pub. L. 100–509, § 7(b)(1), substituted “10” for “5”.
 
     (iii) such representative has failed or refused to act on behalf of the individual;
 
-(5) have an arrangement with the Secretary and the agency of the State which administers the State plan under title XIX of the Social Security Act [[42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.] for the furnishing of the information required by subsection (b) of this section;
+(5) have an arrangement with the Secretary and the agency of the State which administers the State plan under title XIX of the Social Security Act [[42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.] for the furnishing of the information required by subsection (b);
 
 (6) establish an advisory council—
 
@@ -235,11 +235,11 @@ Subsec. (b)(2). Pub. L. 100–509, § 7(b)(1), substituted “10” for “5”.
 
   (C) which shall be chaired by an individual who has received or is receiving mental health services or who is a family member of such an individual;
 
-(7) on January 1, 1987, and January 1 of each succeeding year, prepare and transmit to the Secretary and the head of the State mental health agency of the State in which the system is located a report describing the activities, accomplishments, and expenditures of the system during the most recently completed fiscal year, including a section prepared by the advisory council that describes the activities of the council and its assessment of the operations of the system;
+(7) on January 1, 1987, and January 1 of each succeeding year, prepare and transmit to the Secretary and the head of the State mental health agency of the State in which the system is located, and make publicly available, a report describing the activities, accomplishments, and expenditures of the system during the most recently completed fiscal year, including a section prepared by the advisory council that describes the activities of the council and its assessment of the operations of the system;
 
 (8) on an annual basis, provide the public with an opportunity to comment on the priorities established by, and the activities of, the system;
 
-(9) establish a grievance procedure for clients or prospective clients of the system to assure that individuals with mental illness have full access to the services of the system and for individuals who have received or are receiving mental health services, family members of such individuals with mental illness, or representatives of such individuals or family members to assure that the eligible system is operating in compliance with the provisions of this subchapter and subchapter III of this chapter; and
+(9) establish a grievance procedure for clients or prospective clients of the system to assure that individuals with mental illness have full access to the services of the system and for individuals who have received or are receiving mental health services, family members of such individuals with mental illness, or representatives of such individuals or family members to assure that the eligible system is operating in compliance with the provisions of this subchapter and subchapter III; and
 
 (10) not use allotments provided to a system in a manner inconsistent with [section 14404 of this title](./chapter-138-assisted-suicide-funding-restriction.md#section-14404).
 
@@ -270,6 +270,8 @@ Subsec. (b)(2). Pub. L. 100–509, § 7(b)(1), substituted “10” for “5”.
 The Social Security Act, referred to in subsecs. (a)(5) and (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Amendments
+2016—Subsec. (a)(7). Pub. L. 114–255 substituted “is located, and make publicly available, a report” for “is located a report”.
+
 1997—Subsec. (a)(10). Pub. L. 105–12 added par. (10).
 
 1991—Subsec. (a). Pub. L. 102–173, § 10, substituted “individual with mental illness” for “mentally ill individual” and “individuals with mental illness” for “mentally ill individuals” wherever appearing.
@@ -278,7 +280,7 @@ Subsec. (a)(4). Pub. L. 102–173, § 6(a), inserted “as a result of monitorin
 
 Subsec. (a)(6). Pub. L. 102–173, § 6(b), substituted “60 percent” for “one-half” in subpar. (B) and added subpar. (C).
 
-Subsec. (a)(9). Pub. L. 102–173, § 6(c), inserted before period at end “and for individuals who have received or are receiving mental health services, family members of such individuals with mental illness, or representatives of such individuals or family members to assure that the eligible system is operating in compliance with the provisions of this subchapter and subchapter III of this chapter”.
+Subsec. (a)(9). Pub. L. 102–173, § 6(c), inserted before period at end “and for individuals who have received or are receiving mental health services, family members of such individuals with mental illness, or representatives of such individuals or family members to assure that the eligible system is operating in compliance with the provisions of this subchapter and subchapter III”.
 
 Subsec. (b). Pub. L. 102–173, § 10(2), substituted “individuals with mental illness” for “mentally ill individuals”.
 
@@ -300,7 +302,7 @@ Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal
 
 <a id="section-10806"></a>
 ## § 10806. Access to records
-**(a)** An eligible system which, pursuant to [section 10805(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10805/a/4&num=0&edition=prelim), has access to records which, under Federal or State law, are required to be maintained in a confidential manner by a provider of mental health services, shall, except as provided in subsection (b) of this section, maintain the confidentiality of such records to the same extent as is required of the provider of such services.
+**(a)** An eligible system which, pursuant to [section 10805(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10805/a/4&num=0&edition=prelim), has access to records which, under Federal or State law, are required to be maintained in a confidential manner by a provider of mental health services, shall, except as provided in subsection (b), maintain the confidentiality of such records to the same extent as is required of the provider of such services.
 
 **(b)**
 
@@ -334,7 +336,7 @@ Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal
 
   (A) As used in this section, the term “records” includes reports prepared by any staff of a facility rendering care and treatment or reports prepared by an agency charged with investigating reports of incidents of abuse, neglect, and injury occurring at such facility that describe incidents of abuse, neglect, and injury occurring at such facility and the steps taken to investigate such incidents, and discharge planning records.
 
-  (B) An eligible system shall have access to the type of records described in subparagraph (A) in accordance with the provisions of subsection (a) of this section and paragraphs (1) and (2) of subsection (b) of this section.
+  (B) An eligible system shall have access to the type of records described in subparagraph (A) in accordance with the provisions of subsection (a) and paragraphs (1) and (2) of subsection (b).
 
 ### Statutory Notes
 
@@ -348,7 +350,7 @@ Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal
 ## § 10807. Legal actions
 **(a)** Prior to instituting any legal action in a Federal or State court on behalf of a 11 So in original. Probably should be “an”. individual with mental illness, an eligible system, or a State agency or nonprofit organization which entered into a contract with an eligible system under [section 10804(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10804/a&num=0&edition=prelim), shall exhaust in a timely manner all administrative remedies where appropriate. If, in pursuing administrative remedies, the system, agency, or organization determines that any matter with respect to such individual will not be resolved within a reasonable time, the system, agency, or organization may pursue alternative remedies, including the initiation of a legal action.
 
-**(b)** Subsection (a) of this section does not apply to any legal action instituted to prevent or eliminate imminent serious harm to a 1 individual with mental illness.
+**(b)** Subsection (a) does not apply to any legal action instituted to prevent or eliminate imminent serious harm to a 1 individual with mental illness.
 
 ### Statutory Notes
 
@@ -368,7 +370,7 @@ Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal
 
 (4) such other information as the Secretary may by regulation prescribe.
 
-**(b) Satisfaction of requirements regarding trained staff** The assurance required under subsection (a)(2) of this section regarding trained staff may be satisfied through the provision of training by individuals who have received or are receiving mental health services and family members of such individuals.
+**(b) Satisfaction of requirements regarding trained staff** The assurance required under subsection (a)(2) regarding trained staff may be satisfied through the provision of training by individuals who have received or are receiving mental health services and family members of such individuals.
 
 **(c) Duration of applications and assurances** Applications submitted under this section shall remain in effect for a 4-year period, and the assurances required under this section shall be for the same 4-year period.
 
@@ -428,7 +430,7 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
 (2) The amount of an allotment to an eligible system for a fiscal year which the Secretary determines will not be required by the system during the period for which it is available shall be available for reallotment by the Secretary to other eligible systems with respect to which such a determination has not been made.
 
-(3) The Secretary shall make reallotments under paragraphs (1) and (2) on such date or dates as the Secretary may fix (but not earlier than 30 days after the Secretary has published notice of the intention of the Secretary to make such reallotment in the Federal Register). A reallotment to an eligible system shall be made in proportion to the original allotment of such system for such fiscal year, but with such proportionate amount for such system being reduced to the extent it exceeds the sum the Secretary estimates such system needs and will be able to use during such period. The total of such reductions shall be similarly reallotted among eligible systems whose proportionate amounts were not so reduced. Any amount so reallotted to an eligible system for a fiscal year shall be deemed to be a part of its allotment under subsection (a) of this section for such fiscal year.
+(3) The Secretary shall make reallotments under paragraphs (1) and (2) on such date or dates as the Secretary may fix (but not earlier than 30 days after the Secretary has published notice of the intention of the Secretary to make such reallotment in the Federal Register). A reallotment to an eligible system shall be made in proportion to the original allotment of such system for such fiscal year, but with such proportionate amount for such system being reduced to the extent it exceeds the sum the Secretary estimates such system needs and will be able to use during such period. The total of such reductions shall be similarly reallotted among eligible systems whose proportionate amounts were not so reduced. Any amount so reallotted to an eligible system for a fiscal year shall be deemed to be a part of its allotment under subsection (a) for such fiscal year.
 
 ### Statutory Notes
 
@@ -486,15 +488,19 @@ For each fiscal year, the Secretary shall make payments to each eligible system 
 
   (D) the coordination among such systems, activities, and mechanisms;
 
-(3) a specification of the number of systems established with allotments under this subchapter and of whether each such system was established by a public or nonprofit private entity; and
+(3) a specification of the number of systems established with allotments under this subchapter and of whether each such system was established by a public or nonprofit private entity;
 
-(4) recommendations for activities and services to improve the protection and advocacy of the rights of individuals with mental illness and a description of needs for such activities and services which have not been met by systems established under this subchapter.
+(4) recommendations for activities and services to improve the protection and advocacy of the rights of individuals with mental illness and a description of needs for such activities and services which have not been met by systems established under this subchapter; and
 
-**(b)** In preparing each statement required by subsection (a) of this section, the Secretary shall use and include information submitted to the Secretary in the reports required under [section 10805(a)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10805/a/7&num=0&edition=prelim).
+(5) using data from the existing required annual program progress reports submitted by each system funded under this subchapter, a detailed accounting for each such system of how funds are spent, disaggregated according to whether the funds were received from the Federal Government, the State government, a local government, or a private entity.
+
+**(b)** In preparing each statement required by subsection (a), the Secretary shall use and include information submitted to the Secretary in the reports required under [section 10805(a)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10805/a/7&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a)(5). Pub. L. 114–255 added par. (5).
+
 2000—Subsec. (a). Pub. L. 106–402 substituted “[section 15005 of this title](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15005)” for “[section 6006(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6006/c&num=0&edition=prelim)” in introductory provisions.
 
 1991—Subsec. (a). Pub. L. 102–173 substituted “individuals with mental illness” for “mentally ill individuals” wherever appearing.
@@ -515,7 +521,7 @@ The Secretary shall use not more than 2 percent of the amounts appropriated unde
 ## § 10826. Administration
 **(a) In general** The Secretary shall carry out this subchapter through the Administrator of the Substance Abuse and Mental Health Services Administration.
 
-**(b) Regulations** Not later than 6 months after November 27, 1991, the Secretary shall promulgate final regulations to carry out this subchapter and subchapter III of this chapter.
+**(b) Regulations** Not later than 6 months after November 27, 1991, the Secretary shall promulgate final regulations to carry out this subchapter and subchapter IIIr.
 
 ### Statutory Notes
 
@@ -607,7 +613,7 @@ It is the sense of the Congress that, as previously stated in title V of the Men
 
     (ii) rights protection service within the State mental health system designed to be available to such person;
 
-    (iii) system established under subchapter I of this chapter to protect and advocate the rights of individuals with mental illness; and
+    (iii) system established under subchapter I to protect and advocate the rights of individuals with mental illness; and
 
     (iv) qualified advocate;
     for the purpose of receiving assistance to understand, exercise, and protect the rights described in this section and in other provisions of law.
@@ -665,7 +671,7 @@ The Mental Health Systems Act, referred to in introductory text, is Pub. L. 96�
 
 <a id="section-10851"></a>
 ## § 10851. Construction of subchapters I and II; “individual with mental illness” defined
-**(a)** Subchapters I and II of this chapter shall not be construed as establishing any new rights for individuals with mental illness.
+**(a)** Subchapters I and II shall not be construed as establishing any new rights for individuals with mental illness.
 
 **(b)** For purposes of this section, the term “individual with mental illness” has the same meaning as in section 10802(3) 11 See References in Text note below. of this title.
 

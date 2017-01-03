@@ -2,41 +2,47 @@
 title: 25
 chapter: '17'
 heading: FINANCING ECONOMIC DEVELOPMENT OF INDIANS AND INDIAN ORGANIZATIONS
-section_count: 42
+section_count: 44
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25&num=0&edition=prelim
 ---
 <a id="section-1451"></a>
-## § 1451. Agency cooperation; private contracts for management services and technical assistance
+## § 1451. Additional compensation to contractors of Federal agency
 
-For the purpose of providing the assistance required under [section 1541 of this title](./chapter-017-financing-economic-development-of-indians-and-indian-organizations.md#section-1541), the Secretary is authorized to cooperate with the Small Business Administration and the Corporation for National and Community Service and other Federal agencies in the use of existing programs of this character in those agencies. In addition, the Secretary is authorized to enter into contracts with private organizations for providing such services and assistance.
-
-### Statutory Notes
-
-#### Amendments
-1993—Pub. L. 103–82 substituted “the Corporation for National and Community Service” for “ACTION Agency”.
-
-1973—Pub. L. 93–113 substituted “ACTION Agency” for “ACTION”.
-
-#### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under [section 8332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8332&num=0&edition=prelim), Government Organization and Employees.
+Notwithstanding any other provision of law, a contractor of a Federal agency under any Act of Congress may be allowed an additional amount of compensation equal to 5 percent of the amount paid, or to be paid, to a subcontractor or supplier, in carrying out the contract if such subcontractor or supplier is an Indian organization or Indian-owned economic enterprise as defined in this chapter.
 
 
 <a id="section-1452"></a>
-## § 1452. Funds limitation for private contracts
+## § 1452. Livestock loans; cash settlements
 
-For the purpose of entering into contracts pursuant to [section 1542 of this title](./chapter-017-financing-economic-development-of-indians-and-indian-organizations.md#section-1542) in fiscal year 1985, the Secretary is authorized to use not to exceed 6 percent of any funds appropriated for any fiscal year pursuant to [section 1512 of this title](./chapter-017-financing-economic-development-of-indians-and-indian-organizations.md#section-1512). For fiscal year 1986 and for each fiscal year thereafter, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subchapter.
+All acceptances of cash settlements by the Commissioner of Indian Affairs for livestock lent by the United States to any individual Indian, or to any tribe, association, corporation, or other group of Indians, and all sales and relending of livestock repaid in kind to the United States on account of such loans are authorized and ratified: Provided, That on and after May 24, 1950, the value of such livestock for the purposes of any such cash settlement shall be based on prevailing market prices in the area and shall be ascertained by a committee composed of three members, one of whom shall be selected by the superintendent of the particular agency, one of whom shall be selected by the chairman of the tribal council, and one of whom shall be selected by the other two members.
 
 ### Statutory Notes
 
-#### Amendments
-1984—Pub. L. 98–449 amended section generally, substituting provisions limiting funds expended for private contracts to 6 percent of appropriated funds in 1985 and authorizing the appropriation of such sums as may be necessary to carry out this subchapter in fiscal years after 1985 for provisions putting a 5 percent limitation on use of appropriated funds.
+#### Codification
+Section was enacted as part of act May 24, 1950, ch. 197, and not as part of the Indian Financing Act of 1974 which comprises this chapter.
+
+Section was formerly classified to [section 442 of this title](./chapter-014-miscellaneous.md#section-442) prior to editorial reclassification and renumbering as this section.
 
 
 <a id="section-1453"></a>
-## § 1453. Additional compensation to contractors of Federal agency
+## § 1453. Disposition of cash settlements
 
-Notwithstanding any other provision of law, a contractor of a Federal agency under any Act of Congress may be allowed an additional amount of compensation equal to 5 percent of the amount paid, or to be paid, to a subcontractor or supplier, in carrying out the contract if such subcontractor or supplier is an Indian organization or Indian-owned economic enterprise as defined in this chapter.
+Any moneys received on and after May 24, 1950, in settlement of such debts or from the sale of livestock so repaid to the United States shall be deposited in the revolving fund established pursuant to the Acts of June 18, 1934 (48 Stat. 984) [[25 U.S.C. 5101](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5101) et seq.], and June 26, 1936 (49 Stat. 1967), as amended and supplemented.
+
+### Statutory Notes
+
+#### References in Text
+Act of June 18, 1934, referred to in text, is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to chapter 45 (§ 5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5101 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5101) and Tables. Provisions of the Act establishing the revolving fund are set out in [section 5113 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5113).
+
+Act of June 26, 1936, referred to in text, is act June 26, 1936, ch. 831, 49 Stat. 1967, popularly known as the Oklahoma Welfare Act, which was classified generally to subchapter VIII (§ 501 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 45A (§ 5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5201 of this title](./chapter-45a-oklahoma-indian-welfare.md#section-5201) and Tables. Provisions of the Act relating to the revolving fund appear in [section 5206 of this title](./chapter-45a-oklahoma-indian-welfare.md#section-5206).
+
+Funds in the revolving fund authorized by these Acts, and certain other sums, to be administered after Apr. 12, 1974, as a single Indian Revolving Loan Fund, see [section 1461 of this title](./chapter-017-financing-economic-development-of-indians-and-indian-organizations.md#section-1461).
+
+#### Codification
+Section was enacted as part of act May 24, 1950, ch. 197, and not as part of the Indian Financing Act of 1974 which comprises this chapter.
+
+Section was formerly classified to [section 443 of this title](./chapter-014-miscellaneous.md#section-443) prior to editorial reclassification and renumbering as this section.
 
 
 <a id="section-1461"></a>
@@ -74,7 +80,7 @@ For the purpose of this chapter, the term—
 
 **(e)** “Economic enterprise” means any Indian-owned (as defined by the Secretary of the Interior) commercial, industrial, or business activity established or organized for the purpose of profit: Provided, That such Indian ownership shall constitute not less than 51 per centum of the enterprise.
 
-**(f)** “Organization”, unless otherwise specified, shall be the governing body of any Indian tribe, as defined in subsection (c) of this section, or entity established or recognized by such governing body for the purpose of this chapter.
+**(f)** “Organization”, unless otherwise specified, shall be the governing body of any Indian tribe, as defined in subsection (c), or entity established or recognized by such governing body for the purpose of this chapter.
 
 **(g)** “Other organizations” means any non-Indian individual, firm, corporation, partnership, or association.
 
@@ -100,16 +106,16 @@ No provision of this chapter or any other Act shall be construed to terminate or
 <a id="section-1464"></a>
 ## § 1464. Administration as single Indian Revolving Loan Fund sums from diverse sources; availability of fund for loans to Indians and for administrative expenses
 
-In order to provide credit that is not available from private money markets, or to supplement funds from private lenders, including loans guaranteed by the Secretary pursuant to [section 1481 of this title](./chapter-017-financing-economic-development-of-indians-and-indian-organizations.md#section-1481), all funds that are now or hereafter a part of the revolving fund authorized by the Act of June 18, 1934 (48 Stat. 986) [[25 U.S.C. 461](./chapter-014-miscellaneous.md#section-461) et seq.], the Act of June 26, 1936 (49 Stat. 1967) [[25 U.S.C. 501](./chapter-014-miscellaneous.md#section-501) et seq.], and the Act of April 19, 1950 (64 Stat. 44) [[25 U.S.C. 631](./chapter-014-miscellaneous.md#section-631) et seq.], as amended and supplemented, including sums received in settlement of debts of livestock pursuant to sections 442 and 443 of this title, and sums collected in repayment of loans heretofore or hereafter made, and as interest or other charges on loans, shall hereafter be administered as a single Indian Revolving Loan Fund. The fund shall be available for loans to Indians having a form of organization that is satisfactory to the Secretary and for loans to individual Indians: Provided, That, where the Secretary determines a rejection of a loan application from a member of an organization making loans to its membership from moneys borrowed from the fund is unwarranted, he may, in his discretion, make a direct loan to such individual from the fund. The fund shall also be available for administrative expenses incurred in connection therewith, or, in the discretion of the Secretary of the Interior, as a contribution to the Indian Loan Guaranty and Insurance Fund authorized by [section 1497 of this title](./chapter-017-financing-economic-development-of-indians-and-indian-organizations.md#section-1497), or for the payment of interest subsidies authorized by [section 1511 of this title](./chapter-017-financing-economic-development-of-indians-and-indian-organizations.md#section-1511).
+In order to provide credit that is not available from private money markets, or to supplement funds from private lenders, including loans guaranteed by the Secretary pursuant to [section 1481 of this title](./chapter-017-financing-economic-development-of-indians-and-indian-organizations.md#section-1481), all funds that are now or hereafter a part of the revolving fund authorized by the Act of June 18, 1934 (48 Stat. 986) [[25 U.S.C. 5101](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5101) et seq.], the Act of June 26, 1936 (49 Stat. 1967), and the Act of April 19, 1950 (64 Stat. 44), as amended and supplemented, including sums received in settlement of debts of livestock pursuant to sections 1545 and 1546 of this title, and sums collected in repayment of loans heretofore or hereafter made, and as interest or other charges on loans, shall hereafter be administered as a single Indian Revolving Loan Fund. The fund shall be available for loans to Indians having a form of organization that is satisfactory to the Secretary and for loans to individual Indians: Provided, That, where the Secretary determines a rejection of a loan application from a member of an organization making loans to its membership from moneys borrowed from the fund is unwarranted, he may, in his discretion, make a direct loan to such individual from the fund. The fund shall also be available for administrative expenses incurred in connection therewith, or, in the discretion of the Secretary of the Interior, as a contribution to the Indian Loan Guaranty and Insurance Fund authorized by [section 1497 of this title](./chapter-017-financing-economic-development-of-indians-and-indian-organizations.md#section-1497), or for the payment of interest subsidies authorized by [section 1511 of this title](./chapter-017-financing-economic-development-of-indians-and-indian-organizations.md#section-1511).
 
 ### Statutory Notes
 
 #### References in Text
-Act of June 18, 1934, referred to in text, popularly known as the Indian Reorganization Act, is classified generally to subchapter V (§ 461 et seq.) of chapter 14 of this title. Provisions of the act establishing the revolving fund are set out in [section 470 of this title](./chapter-014-miscellaneous.md#section-470). For complete classification of this Act to the Code, see Short Title note set out under [section 461 of this title](./chapter-014-miscellaneous.md#section-461) and Tables.
+Act of June 18, 1934, referred to in text, is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to chapter 45 (§ 5101 et seq.) of this title. Provisions of the act establishing the revolving fund are set out in [section 5113 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5113). For complete classification of this Act to the Code, see Short Title note set out under [section 5101 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5101) and Tables.
 
-Act of June 26, 1936, referred to in text, popularly known as the Oklahoma Welfare Act, is classified generally to subchapter VIII (§ 501 et seq.) of chapter 14 of this title. Provisions of the act relating to the revolving fund appear in [section 506 of this title](./chapter-014-miscellaneous.md#section-506). For complete classification of this Act to the Code, see Short Title note set out under [section 501 of this title](./chapter-014-miscellaneous.md#section-501) and Tables.
+Act of June 26, 1936, referred to in text, is act June 26, 1936, ch. 831, 49 Stat. 1967, popularly known as the Oklahoma Welfare Act, which was classified generally to subchapter VIII (§ 501 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 45A (§ 5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5201 of this title](./chapter-45a-oklahoma-indian-welfare.md#section-5201) and Tables. Provisions of the Act relating to the revolving fund appear in [section 5206 of this title](./chapter-45a-oklahoma-indian-welfare.md#section-5206).
 
-Act of April 19, 1950, referred to in text, is classified generally to subchapter XXI (§ 631 et seq.) of chapter 14 of this title. Provisions of the act relating to the revolving fund appear in [section 634 of this title](./chapter-014-miscellaneous.md#section-634). For complete classification of this Act to the Code, see Tables.
+Act of April 19, 1950, referred to in text, is act Apr. 19, 1950, ch. 92, 64 Stat. 44, which was classified generally to subchapter XXI (§ 631 et seq.) of chapter 14 of this title and was omitted from the Code as being of special and not general application.
 
 #### Amendments
 1990—Pub. L. 101–644 substituted “money markets, or to supplement funds from private lenders, including loans guaranteed by the Secretary pursuant to [section 1481 of this title](./chapter-017-financing-economic-development-of-indians-and-indian-organizations.md#section-1481),” for “money markets,” in first sentence and inserted before period at end of third sentence “, or, in the discretion of the Secretary of the Interior, as a contribution to the Indian Loan Guaranty and Insurance Fund authorized by [section 1497 of this title](./chapter-017-financing-economic-development-of-indians-and-indian-organizations.md#section-1497), or for the payment of interest subsidies authorized by [section 1511 of this title](./chapter-017-financing-economic-development-of-indians-and-indian-organizations.md#section-1511)”.
@@ -449,7 +455,7 @@ Pub. L. 100–442, § 4(c), Sept. 22, 1988, 102 Stat. 1763, provided that: “An
 
 (4) the surety will provide appropriate technical assistance and advice to, and monitor the performance of, the Indian individual or economic enterprise for the prevention or mitigation of a loss.
 
-**(c) Fees and charges** The rules and regulations promulgated by the Secretary to carry out this section shall include the setting of reasonable fees to be paid by the Indian individual or economic enterprise and reasonable premium charges to be paid by sureties. In setting fees and charges, the Secretary may take into consideration the cost to the surety of providing the services required by paragraph (4) of subsection (b) of this section. The receipts from the fees and charges shall be deposited in the Fund established by [section 1497(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1497/a&num=0&edition=prelim).
+**(c) Fees and charges** The rules and regulations promulgated by the Secretary to carry out this section shall include the setting of reasonable fees to be paid by the Indian individual or economic enterprise and reasonable premium charges to be paid by sureties. In setting fees and charges, the Secretary may take into consideration the cost to the surety of providing the services required by paragraph (4) of subsection (b). The receipts from the fees and charges shall be deposited in the Fund established by [section 1497(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1497/a&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -535,3 +541,30 @@ Prior to and concurrent with the making or guaranteeing of any loan under subcha
 
 #### Amendments
 1984—Pub. L. 98–449 amended section generally, inserting “Prior to and” and “for preparation of the application and/or administration of funds granted”.
+
+
+<a id="section-1545"></a>
+## § 1545. Agency cooperation; private contracts for management services and technical assistance
+
+For the purpose of providing the assistance required under [section 1541 of this title](./chapter-017-financing-economic-development-of-indians-and-indian-organizations.md#section-1541), the Secretary is authorized to cooperate with the Small Business Administration and the Corporation for National and Community Service and other Federal agencies in the use of existing programs of this character in those agencies. In addition, the Secretary is authorized to enter into contracts with private organizations for providing such services and assistance.
+
+### Statutory Notes
+
+#### Amendments
+1993—Pub. L. 103–82 substituted “the Corporation for National and Community Service” for “ACTION Agency”.
+
+1973—Pub. L. 93–113 substituted “ACTION Agency” for “ACTION”.
+
+#### Effective Date of 1993 Amendment
+Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under [section 8332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8332&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-1546"></a>
+## § 1546. Funds limitation for private contracts
+
+For the purpose of entering into contracts pursuant to [section 1542 of this title](./chapter-017-financing-economic-development-of-indians-and-indian-organizations.md#section-1542) in fiscal year 1985, the Secretary is authorized to use not to exceed 6 percent of any funds appropriated for any fiscal year pursuant to [section 1512 of this title](./chapter-017-financing-economic-development-of-indians-and-indian-organizations.md#section-1512). For fiscal year 1986 and for each fiscal year thereafter, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subchapter.
+
+### Statutory Notes
+
+#### Amendments
+1984—Pub. L. 98–449 amended section generally, substituting provisions limiting funds expended for private contracts to 6 percent of appropriated funds in 1985 and authorizing the appropriation of such sums as may be necessary to carry out this subchapter in fiscal years after 1985 for provisions putting a 5 percent limitation on use of appropriated funds.

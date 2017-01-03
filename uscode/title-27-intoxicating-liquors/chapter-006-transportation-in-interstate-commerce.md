@@ -61,7 +61,7 @@ Act Mar. 1, 1913, is popularly known as the “Webb-Kenyon Act”.
 
 **(d) Requirements for injunctions and orders**
 
-(1) **In general** — In any action brought under this section, upon a proper showing by the attorney general of the State, the court may issue a preliminary or permanent injunction to restrain a violation of this section. A proper showing under this paragraph shall require that a State prove by a preponderance of the evidence that a violation of State law as described in subsection (b) of this section has taken place or is taking place.
+(1) **In general** — In any action brought under this section, upon a proper showing by the attorney general of the State, the court may issue a preliminary or permanent injunction to restrain a violation of this section. A proper showing under this paragraph shall require that a State prove by a preponderance of the evidence that a violation of State law as described in subsection (b) has taken place or is taking place.
 
 (2) **Additional showing for preliminary injunction** — No preliminary injunction may be granted except upon—
 
@@ -153,6 +153,6 @@ Section, acts Mar. 3, 1917, ch. 162, § 5, 39 Stat. 1069; Mar. 4, 1917, ch. 192,
 
 (5) the purchaser could have carried the wine lawfully into the State or the District of Columbia to which the wine is shipped.
 
-**(b) Violations** If any person fails to meet any of the conditions under subsection (a) of this section, the attorney general of any State may bring a civil action under the same terms as those set out in [section 122a of this title](./chapter-006-transportation-in-interstate-commerce.md#section-122a).
+**(b) Violations** If any person fails to meet any of the conditions under subsection (a), the attorney general of any State may bring a civil action under the same terms as those set out in [section 122a of this title](./chapter-006-transportation-in-interstate-commerce.md#section-122a).
 
 **(c) Report** Not later than 2 years after November 2, 2002, and at 2-year intervals thereafter, the Attorney General of the United States, in consultation with the Administrator of the Federal Aviation Administration, shall prepare and submit to the Committee on the Judiciary of the Senate and to the Committee on the Judiciary of the House of Representatives a report on the implementation of this section.

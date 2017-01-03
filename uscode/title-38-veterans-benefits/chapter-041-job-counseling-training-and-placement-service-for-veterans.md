@@ -2,7 +2,7 @@
 title: 38
 chapter: '41'
 heading: 'JOB COUNSELING, TRAINING, AND PLACEMENT SERVICE FOR VETERANS'
-section_count: 20
+section_count: 21
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -102,7 +102,7 @@ Par. (6). Pub. L. 96–466, §§ 503(2), 801(h)(2), redesignated former par. (3)
 1966—Pub. L. 89–358 inserted “or of service after January 31, 1955” after “veterans of any war”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 2002 Amendment
 Pub. L. 107–288, § 5(a)(2), Nov. 7, 2002, 116 Stat. 2044, provided that: “The amendments made by paragraph (1) [amending this section and sections 4102, 4106, 4107, and 4109 of this title] shall take effect on the date of the enactment of this Act [Nov. 7, 2002].”
@@ -310,7 +310,7 @@ Pub. L. 93–567, title I, § 104, Dec. 31, 1974, 88 Stat. 1848, as amended by P
 
       (II) A description of the standard practices of the State for evaluating training received by veterans while serving on active duty in the Armed Forces and evaluating the documented work experience of such veterans during such service for purposes of approving or denying a certification or license described in subparagraph (B).
 
-      (III) Identification of areas in which training and experience described in subclause (II) fails to meet criteria described in subclause (I).” 22 So in original. The quotation marks probably should not appear.
+      (III) Identification of areas in which training and experience described in subclause (II) fails to meet criteria described in subclause (I).
 
   (B) A certification or license described in this subparagraph is any of the following:
 
@@ -370,6 +370,8 @@ The Wagner-Peyser Act, referred to in subsec. (c)(6), is act June 6, 1933, ch. 4
 The Workforce Innovation and Opportunity Act, referred to in subsec. (d), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. Section 116(b) of the Act is classified to [section 3141(b) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3141/b&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (c)(9)(A)(ii)(III). Pub. L. 114–58 struck out closing quotation marks at end.
+
 2014—Subsec. (d). Pub. L. 113–128, § 512(gg)(2)(A), substituted “participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Innovation and Opportunity Act” for “participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Investment Act of 1998”.
 
 Subsec. (f)(2)(A). Pub. L. 113–128, § 512(gg)(2)(B), substituted “be consistent with State performance accountability measures applicable under section 116(b) of the Workforce Innovation and Opportunity Act” for “be consistent with State performance measures applicable under section 136(b) of the Workforce Investment Act of 1998”.
@@ -447,7 +449,7 @@ Subsecs. (b) to (e). Pub. L. 100–323, § 2(a), added subsecs. (b) to (e).
 1980—Pub. L. 96–466 struck out “Deputy” before “Assistant Secretary” in section catchline and text.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 2013 Amendment
 Pub. L. 112–239, div. A, title V, § 544(b), Jan. 2, 2013, 126 Stat. 1738, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to a program year beginning on or after the date of the enactment of this Act [Jan. 2, 2013].”
@@ -500,6 +502,8 @@ Pub. L. 96–466, title V, § 504(b), (c), Oct. 17, 1980, 94 Stat. 2203, provide
 
 **(b) Additional Federal Personnel.—** The Secretary may also assign as supervisory personnel such representatives of the Veterans’ Employment and Training Service as the Secretary determines appropriate to carry out the employment, training, and placement services required under this chapter, including Assistant Directors for Veterans’ Employment and Training.
 
+**(c) Coordination With State Departments of Labor and Veterans Affairs.—** Each Director for Veterans’ Employment and Training for a State shall coordinate the Director’s activities under this chapter with the State department of labor and the State department of veterans affairs.
+
 ### Statutory Notes
 
 #### Prior Provisions
@@ -508,6 +512,8 @@ Prior section 4103, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1243; Pub. L. 86�
 Provisions similar to those comprising this section were contained in [section 2002 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2002) prior to the amendment of this chapter by Pub. L. 92–540.
 
 #### Amendments
+2016—Subsec. (c). Pub. L. 114–315 added subsec. (c).
+
 2008—Subsec. (a)(2). Pub. L. 110–389 designated existing provisions as subpar. (A) and added subpar. (B).
 
 2002—Pub. L. 107–288 substituted “Directors and Assistant Directors for Veterans’ Employment and Training; additional Federal personnel” for “Directors and Assistant Directors for Veterans’ Employment and Training” in section catchline and amended text generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (c) relating to Directors and Assistant Directors and their responsibilities.
@@ -567,6 +573,9 @@ Subsec. (c)(8) to (12). Pub. L. 97–306, § 304(c), added cls. (8) to (12).
 1972—Pub. L. 92–540 substituted provisions relating to the assignment of veterans’ employment representatives for provisions relating to the assignment of employees of local offices. See [section 2004 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2004&num=0&edition=prelim).
 
 1966—Pub. L. 89–358 inserted “or of service after January 31, 1955” after “veterans of any war”.
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–315, title V, § 504(b), Dec. 16, 2016, 130 Stat. 1569, provided that: “Subsection (c) of such section [this section], as added by subsection (a), shall take effect on the date that is 1 year after the date of the enactment of this Act [Dec. 16, 2016].”
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–288 effective Nov. 7, 2002, and applicable for program and fiscal years under this chapter beginning on or after such date, see section 4(a)(4) of Pub. L. 107–288, set out as a note under [section 4102A of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4102a).
@@ -895,7 +904,7 @@ A prior section 4104A, added Pub. L. 100–323, § 4(a)(1), May 20, 1988, 102 St
 2014—Subsecs. (b)(1)(B), (c)(1)(A). Pub. L. 113–128 substituted “the appropriate State boards and local boards (as such terms are defined in section 3 of the Workforce Innovation and Opportunity Act)” for “the appropriate State boards and local boards (as such terms are defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)))”.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-4105"></a>
@@ -1443,7 +1452,7 @@ The Workforce Innovation and Opportunity Act, referred to in text, is Pub. L. 11
 2006—Pub. L. 109–233 substituted “implementation of the Workforce Investment Act of 1998” for “implementation of this Act” and inserted “([29 U.S.C. 2822(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2822/b&num=0&edition=prelim))” before period at end.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 
 <a id="section-4111"></a>
@@ -1626,3 +1635,72 @@ Subsecs. (d) to (h). Pub. L. 112–56, § 237(a)(3), added subsec. (d) and struc
 
 #### Veteran Skills to Jobs
 Pub. L. 112–147, July 23, 2012, 126 Stat. 1138, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Veteran Skills to Jobs Act’. “SEC. 2. CONSIDERATION OF RELEVANT MILITARY TRAINING FOR ISSUANCE OF A FEDERAL LICENSE.“(a) In General.—The head of each Federal licensing authority shall consider and may accept, in the case of any individual applying for a license, any relevant training received by such individual while serving as a member of the armed forces, for the purpose of satisfying the requirements for such license. “(b) Definitions.—For purposes of this Act—“(1) the term ‘license’ means a license, certification, or other grant of permission to engage in a particular activity; “(2) the term ‘Federal licensing authority’ means a department, agency, or other entity of the Government having authority to issue a license; “(3) the term ‘armed forces’ has the meaning given such term by [section 2101(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2101/2&num=0&edition=prelim), United States Code; and “(4) the term ‘Government’ means the Government of the United States. “SEC. 3. REGULATIONS.“The head of each Federal licensing authority shall—“(1) with respect to any license a licensing authority grants or is empowered to grant as of the date of enactment of this Act [July 23, 2012], prescribe any regulations necessary to carry out this Act not later than 180 days after such date; and “(2) with respect to any license of a licensing authority not constituted or not empowered to grant the license as of the date of enactment of this Act, prescribe any regulations necessary to carry out this Act not later than 180 days after the date on which the agency is so constituted or empowered, as the case may be.”
+
+
+<a id="section-4115"></a>
+## § 4115. Longitudinal study of job counseling, training, and placement service for veterans
+**(a) Study Required.—**
+
+(1) The Secretary shall enter into a contract with a non-government entity to conduct a longitudinal study of a statistically valid sample of each of the groups of individuals described in paragraph (2). The contract shall provide for the study of each such group over a period of at least 5 years.
+
+(2) The groups of individuals described in this paragraph are the following:
+
+  (A) Veterans who have received intensive services.
+
+  (B) Veterans who did not receive intensive services but who otherwise received services under this chapter.
+
+  (C) Veterans who did not seek or receive services under this chapter.
+
+(3) The study required by this subsection shall include the collection of the following information for each individual who participates in the study:
+
+  (A) The average number of months such individual served on active duty.
+
+  (B) The disability ratings of such individual.
+
+  (C) Any unemployment benefits received by such individual.
+
+  (D) The average number of months such individual was employed during the year covered by the report.
+
+  (E) The average annual starting and ending salaries of any such individual who was employed during the year covered by the report.
+
+  (F) The average annual income of such individual.
+
+  (G) The average total household income of such individual for the year covered by the report.
+
+  (H) The percentage of such individuals who own their principal residences.
+
+  (I) The employment status of such individual.
+
+  (J) In the case of such an individual who received services under this chapter, whether the individual believes that any service provided by a disabled veterans’ outreach program specialist or local veterans’ employment representative helped the individual to become employed.
+
+  (K) In the case of such an individual who believes such a service helped the individual to become employed, whether—
+
+    (i) the individual retained the position of employment for a period of 1 year or longer; and
+
+    (ii) the individual believes such a service helped the individual to secure a higher wage or salary.
+
+  (L) The conditions under which such individual was discharged or released from the Armed Forces.
+
+  (M) Whether such individual has used any educational assistance to which the individual is entitled under this title.
+
+  (N) Whether such individual has participated in a rehabilitation program under chapter 31 of this title.
+
+  (O) Whether such individual had contact with a One-Stop Career Center employee while attending a workshop or job fair under the Transition GPS Program of the Department of Defense.
+
+  (P) Demographic information about such individual.
+
+  (Q) Such other information as the Secretary determines appropriate.
+
+**(b) Annual Report.—**
+
+(1) By not later than July 1 of each year covered by the study required under subsection (a), the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the outcomes of the study during the preceding year.
+
+(2) The Secretary shall include in each report submitted under paragraph (1) the following:
+
+  (A) Information with respect to job fairs attended by One-Stop Career Center employees at which the employees had contact with a veteran, including, for the year preceding the year in which the report is submitted, the following:
+
+    (i) The number of job fairs attended by One-Stop Career Center employees at which the employees had contact with a veteran.
+
+    (ii) The number of veterans contacted at each such job fair.
+
+  (B) Such information as the Secretary determines is necessary to determine the long-term outcomes of the individuals in the groups described in subsection (a)(2).

@@ -238,6 +238,9 @@ Subsec. (g)(3). Pub. L. 106–569, § 403(a)(2)(C), substituted “residential m
 
 Subsec. (h). Pub. L. 106–569, § 405(c), added subsec. (h).
 
+#### Effective Date
+Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under [section 4901 of this title](./chapter-049-homeowners-protection.md#section-4901).
+
 
 <a id="section-4903"></a>
 ## § 4903. Disclosure requirements
@@ -305,6 +308,9 @@ Subsec. (c). Pub. L. 106–569, § 403(b)(2), substituted “subsection (a)(3)�
 
 Subsec. (d). Pub. L. 106–569, § 403(b)(3), inserted before period at end “, which disclosures shall relate to the mortgagor’s rights under this chapter”.
 
+#### Effective Date
+Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under [section 4901 of this title](./chapter-049-homeowners-protection.md#section-4901).
+
 
 <a id="section-4904"></a>
 ## § 4904. Notification upon cancellation or termination
@@ -332,6 +338,9 @@ Subsec. (d). Pub. L. 106–569, § 403(b)(3), inserted before period at end “,
 
 #### References in Text
 [Section 4902(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4902/a/3&num=0&edition=prelim), referred to in subsec. (b)(2)(A)(ii), was redesignated [section 4902(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4902/a/4&num=0&edition=prelim) by Pub. L. 106–569, title IV, § 404(1)(C), Dec. 27, 2000, 114 Stat. 2958.
+
+#### Effective Date
+Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under [section 4901 of this title](./chapter-049-homeowners-protection.md#section-4901).
 
 
 <a id="section-4905"></a>
@@ -380,11 +389,19 @@ Subsec. (c)(2). Pub. L. 106–569, § 403(c)(1)(B), inserted “transaction” b
 
 Subsec. (d). Pub. L. 106–569, § 403(c)(2), inserted “transaction” after “residential mortgage”.
 
+#### Effective Date
+Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under [section 4901 of this title](./chapter-049-homeowners-protection.md#section-4901).
+
 
 <a id="section-4906"></a>
 ## § 4906. Fees for disclosures
 
 No fee or other cost may be imposed on any mortgagor with respect to the provision of any notice or information to the mortgagor pursuant to this chapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under [section 4901 of this title](./chapter-049-homeowners-protection.md#section-4901).
 
 
 <a id="section-4907"></a>
@@ -414,6 +431,11 @@ No fee or other cost may be imposed on any mortgagor with respect to the provisi
 (1) **In general** — With respect to a residential mortgage transaction, the failure of a servicer to comply with the requirements of this chapter due to the failure of a mortgage insurer or a mortgagee to comply with the requirements of this chapter, shall not be construed to be a violation of this chapter by the servicer.
 
 (2) **Rule of construction** — Nothing in paragraph (1) shall be construed to impose any additional requirement or liability on a mortgage insurer, a mortgagee, or a holder of a residential mortgage.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under [section 4901 of this title](./chapter-049-homeowners-protection.md#section-4901).
 
 
 <a id="section-4908"></a>
@@ -454,6 +476,9 @@ No fee or other cost may be imposed on any mortgagor with respect to the provisi
 
 #### References in Text
 The effective date of this chapter, referred to in subsec. (a)(1), is 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as an Effective Date note under [section 4901 of this title](./chapter-049-homeowners-protection.md#section-4901).
+
+#### Effective Date
+Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under [section 4901 of this title](./chapter-049-homeowners-protection.md#section-4901).
 
 
 <a id="section-4909"></a>
@@ -517,9 +542,17 @@ Subsec. (b)(2). Pub. L. 111–203, § 1095(2), inserted “, subject to subtitle
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
 
+#### Effective Date
+Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under [section 4901 of this title](./chapter-049-homeowners-protection.md#section-4901).
+
 
 <a id="section-4910"></a>
 ## § 4910. Construction
 **(a) PMI not required** Nothing in this chapter shall be construed to impose any requirement for private mortgage insurance in connection with a residential mortgage transaction.
 
 **(b) No preclusion of cancellation or termination agreements** Nothing in this chapter shall be construed to preclude cancellation or termination, by agreement between a mortgagor and the holder of the mortgage, of a requirement for private mortgage insurance in connection with a residential mortgage transaction before the cancellation or termination date established by this chapter for the mortgage.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under [section 4901 of this title](./chapter-049-homeowners-protection.md#section-4901).

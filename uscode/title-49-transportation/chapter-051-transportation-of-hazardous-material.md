@@ -23,6 +23,11 @@ The words “It is declared to be the policy of Congress”, “the Nation”, a
 #### Amendments
 2005—Pub. L. 109–59 substituted “The purpose of this chapter is to protect against the risks to life, property, and the environment that are inherent in the transportation of hazardous material in intrastate, interstate, and foreign commerce” for “The purpose of this chapter is to provide adequate protection against the risks to life and property inherent in the transportation of hazardous material in commerce by improving the regulatory and enforcement authority of the Secretary of Transportation”.
 
+#### Short Title of 2015 Amendment
+Pub. L. 114–94, div. A, title III, § 3001, Dec. 4, 2015, 129 Stat. 1446, provided that: “This title [amending sections 5302 to 5304, 5307, 5309 to 5312, 5314, 5315, 5323, 5325, 5327, 5329, 5336 to 5340, and 10501 of this title and sections 5313 and 5314 of Title 5, Government Organization and Employees, repealing sections 5313, 5319, and 5322 of this title, enacting provisions set out as notes under 5309, 5310, 5325, 5329, 5338 of this title, [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), and [section 12143 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12143&num=0&edition=prelim), The Public Health and Welfare, amending provisions set out as a note under sections 5303 of this title, and repealing provisions set out as a note under [section 5309 of this title](./chapter-053-public-transportation.md#section-5309)] may be cited as the ‘Federal Public Transportation Act of 2015’.”
+
+Pub. L. 114–94, div. A, title VII, § 7001, Dec. 4, 2015, 129 Stat. 1588, provided that: “This title [amending sections 5103, 5107 to 5109, 5116, 5117, 5121, and 5128 of this title and enacting provisions set out as notes under sections 5103, 5116, 20103, 20141, 20155, and 31305 of this title] may be cited as the ‘Hazardous Materials Transportation Safety Improvement Act of 2015’.”
+
 #### Short Title of 2012 Amendment
 Pub. L. 112–141, div. B, § 20001, July 6, 2012, 126 Stat. 622, provided that: “This division [see Tables for classification] may be cited as the ‘Federal Public Transportation Act of 2012’.”
 
@@ -116,7 +121,7 @@ In this chapter—
 
 (5) “imminent hazard” means the existence of a condition relating to hazardous material that presents a substantial likelihood that death, serious illness, severe personal injury, or a substantial endangerment to health, property, or the environment may occur before the reasonably foreseeable completion date of a formal proceeding begun to lessen the risk of that death, illness, injury, or endangerment.
 
-(6) “Indian tribe” has the same meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)).
+(6) “Indian tribe” has the same meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)).11 See References in Text note below.
 
 (7) “motor carrier”—
 
@@ -193,6 +198,9 @@ In clause (9), before subclause (A), the words “including any trustee, receive
 
 In clause (12), the words “by any mode” are omitted as surplus.
 
+#### References in Text
+Section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)), referred to in par. (6), is section 4 of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2204, which was classified to [section 450b of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim), Indians, prior to editorial reclassification as [section 5304 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
+
 #### Amendments
 2008—Par. (3). Pub. L. 110–244 amended Pub. L. 109–59, § 7102(2). See 2005 Amendment notes below.
 
@@ -260,9 +268,23 @@ Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 
 
 (2) A proceeding to prescribe the regulations must be conducted under [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), including an opportunity for informal oral presentation.
 
-**(c) Consultation.—** When prescribing a security regulation or issuing a security order that affects the safety of the transportation of hazardous material, the Secretary of Homeland Security shall consult with the Secretary of Transportation.
+**(c) Federally Declared Disasters and Emergencies.—**
 
-**(d) Biennial Report.—** The Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Senate Committee on Commerce, Science, and Transportation a biennial report providing information on whether the Secretary has designated as hazardous materials for purposes of chapter 51 of such title all by-products of the methamphetamine-production process that are known by the Secretary to pose an unreasonable risk to health and safety or property when transported in commerce in a particular amount and form.
+(1) **In general.—** — The Secretary may by order waive compliance with any part of an applicable standard prescribed under this chapter without prior notice and comment and on terms the Secretary considers appropriate if the Secretary determines that—
+
+  (A) it is in the public interest to grant the waiver;
+
+  (B) the waiver is not inconsistent with the safety of transporting hazardous materials; and
+
+  (C) the waiver is necessary to facilitate the safe movement of hazardous materials into, from, and within an area of a major disaster or emergency that has been declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.).
+
+(2) **Period of waiver.—** — A waiver under this subsection may be issued for a period of not more than 60 days and may be renewed upon application to the Secretary only after notice and an opportunity for a hearing on the waiver. The Secretary shall immediately revoke the waiver if continuation of the waiver would not be consistent with the goals and objectives of this chapter.
+
+(3) **Statement of reasons.—** — The Secretary shall include in any order issued under this section the reasons for granting the waiver.
+
+**(d) Consultation.—** When prescribing a security regulation or issuing a security order that affects the safety of the transportation of hazardous material, the Secretary of Homeland Security shall consult with the Secretary of Transportation.
+
+**(e) Biennial Report.—** The Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Senate Committee on Commerce, Science, and Transportation a biennial report providing information on whether the Secretary has designated as hazardous materials for purposes of chapter 51 of such title all by-products of the methamphetamine-production process that are known by the Secretary to pose an unreasonable risk to health and safety or property when transported in commerce in a particular amount and form.
 
 ### Statutory Notes
 
@@ -280,7 +302,12 @@ In subsection (b)(1), before clause (A), the words “in accordance with [sectio
 #### Pub. L. 103–429
 This amends 49:5103(b)(2) to clarify the restatement of 49 App.:1804(a)(2) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 761).
 
+#### References in Text
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(1)(C), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+
 #### Amendments
+2015—Subsecs. (c) to (e). Pub. L. 114–94 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
 2006—Subsec. (d). Pub. L. 109–177 added subsec. (d).
 
 2005—Subsec. (a). Pub. L. 109–59, § 7126, substituted “Secretary shall designate” for “Secretary of Transportation shall designate”.
@@ -309,11 +336,17 @@ Subsec. (b)(1)(C). Pub. L. 107–296, § 1711(a)(3), added subpar. (C).
 
 Subsec. (b)(2). Pub. L. 103–429 substituted “be conducted under [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), including” for “include” and “presentation” for “presentations”.
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under [section 321 of this title](./chapter-003-general-duties-and-powers.md#section-321).
+
+#### GAO Study on Acceptance of Classification Examinations
+Pub. L. 114–94, div. A, title VII, § 7207, Dec. 4, 2015, 129 Stat. 1592, provided that: “(a) In General.—Not later than 180 days after the date of enactment of this Act [Dec. 4, 2015], the Comptroller General of the United States shall evaluate and transmit to the Secretary [of Transportation], the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate, a report on the standards, metrics, and protocols that the Secretary uses to regulate the performance of persons approved to recommend hazard classifications pursuant to section 173.56(b) of title 49, Code of Federal Regulations (commonly referred to as ‘third-party labs’). “(b) Evaluation.—The evaluation required under subsection (a) shall—“(1) identify what standards and protocols are used to approve such persons, assess the adequacy of such standards and protocols to ensure that persons seeking approval are qualified and capable of performing classifications, and make recommendations to address any deficiencies identified; “(2) assess the adequacy of the Secretary’s oversight of persons approved to perform the classifications, including the qualification of individuals engaged in the oversight of approved persons, and make recommendations to enhance oversight sufficiently to ensure that classifications are issued as required; “(3) identify what standards and protocols exist to rescind, suspend, or deny approval of persons who perform such classifications, assess the adequacy of such standards and protocols, and make recommendations to enhance such standards and protocols if necessary; and “(4) include annual data for fiscal years 2005 through 2015 on the number of applications received for new classifications pursuant to section 173.56(b) of title 49, Code of Federal Regulations, of those applications how many classifications recommended by persons approved by the Secretary were changed to another classification and the reasons for the change, and how many hazardous materials incidents have been attributed to a classification recommended by such approved persons in the United States. “(c) Action Plan.—Not later than 180 days after receiving the report required under subsection (a), the Secretary shall make available to the public a plan describing any actions the Secretary will take to establish standards, metrics, and protocols based on the findings and recommendations in the report to ensure that persons approved to perform classification examinations required under section 173.56(b) of title 49, Code of Federal Regulations, can sufficiently perform such examinations in a manner that meets the hazardous materials regulations. “(d) Regulations.—If the report required under subsection (a) recommends new regulations in order for the Secretary to have confidence in the accuracy of classification recommendations rendered by persons approved to perform classification examinations required under section 173.56(b) of title 49, Code of Federal Regulations, the Secretary shall consider such recommendations, and if determined appropriate, issue regulations to address the recommendations not later than 18 months after the date of the publication of the plan under subsection (c).”
 
 #### Railroad Carrier Employee Exposure to Radiation Study
 Pub. L. 110–432, div. A, title IV, § 411, Oct. 16, 2008, 122 Stat. 4888, provided that: “(a) Study.—The Secretary of Transportation shall, in consultation with the Secretary of Energy, the Secretary of Labor, the Administrator of the Environmental Protection Agency, and the Chairman of the Nuclear Regulatory Commission, as appropriate, conduct a study of the potential hazards to which employees of railroad carriers and railroad contractors or subcontractors are exposed during the transportation of high-level radioactive waste and spent nuclear fuel (as defined in section 5101(a) [probably means section 5105(a)] of title 49, United States Code), supplementing the report submitted under section 5101(b) [probably means section 5105(b)] of that title, which may include—“(1) an analysis of the potential application of ‘as low as reasonably achievable’ principles for exposure to radiation to such employees with an emphasis on the need for special protection from radiation exposure for such employees during the first trimester of pregnancy or who are undergoing or have recently undergone radiation therapy; “(2) the feasibility of requiring real-time dosimetry monitoring for such employees; “(3) the feasibility of requiring routine radiation exposure monitoring in fixed railroad locations, such as yards and repair facilities; and “(4) a review of the effectiveness of the Department’s packaging requirements for radioactive materials. “(b) Report.—Not later than 18 months after the date of enactment of this Act [Oct. 16, 2008], the Secretary of Transportation shall transmit a report on the results of the study required by subsection (a) and any recommendations to further protect employees of a railroad carrier or of a contractor or subcontractor to a railroad carrier from unsafe exposure to radiation during the transportation of high-level radioactive waste and spent nuclear fuel to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure. “(c) Regulatory Authority.—The Secretary of Transportation may issue regulations that the Secretary determines appropriate, pursuant to the report required by subsection (b), to protect railroad employees from unsafe exposure to radiation during the transportation of radioactive materials.”
@@ -645,6 +678,12 @@ Before clause (1), the text of 49 App.:1805(a) (last sentence) is omitted as bei
 
 **(h) Existing Effort.—** No grant under subsection (e) shall supplant or replace existing employer-provided hazardous materials training efforts or obligations.
 
+**(i) Community Safety Grants.—** The Secretary shall establish a competitive program for making grants to nonprofit organizations for—
+
+(1) conducting national outreach and training programs to assist communities in preparing for and responding to accidents and incidents involving the transportation of hazardous materials, including Class 3 flammable liquids by rail; and
+
+(2) training State and local personnel responsible for enforcing the safe transportation of hazardous materials, including Class 3 flammable liquids.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -673,6 +712,8 @@ In subsection (e), the words “and education” are omitted as being included i
 In subsection (f)(1), the words “(relating to coordination of Federal information policy)” are omitted as surplus.
 
 #### Amendments
+2015—Subsec. (i). Pub. L. 114–94 added subsec. (i).
+
 2012—Subsec. (e)(2). Pub. L. 112–141 inserted “through a competitive process” after “shall be made” and struck out “hazmat employee” after “nonprofit” in introductory provisions.
 
 2005—Subsecs. (a) to (d). Pub. L. 109–59, § 7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions of subsecs. (a) to (c) and “Secretary shall” for “Secretary of Transportation shall” in introductory provisions of subsec. (d).
@@ -700,6 +741,9 @@ Subsec. (h). Pub. L. 109–59, § 7108(2), redesignated subsec. (g) as (h).
 Subsec. (e). Pub. L. 103–311, § 119(c)(1), (2), in first sentence substituted “The Secretary shall, subject to the availability of funds under section 5127(c)(3), make grants for training instructors to train hazmat employees under this section.” for “In consultation with the Secretaries of Transportation and Labor and the Administrator, the Director of the National Institute of Environmental Health Sciences may make grants to train hazmat employees under this section.” and in second sentence inserted “hazmat employee” after “nonprofit”.
 
 Subsec. (g). Pub. L. 103–311, § 119(c)(3), added subsec. (g).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
@@ -777,9 +821,9 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
     (ix) other factors the Secretary considers appropriate.
 
-  (B) The Secretary shall adjust the amount being collected under this paragraph to reflect any unexpended balance in the account established under [section 5116(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5116/i&num=0&edition=prelim). However, the Secretary is not required to refund any fee collected under this paragraph.
+  (B) The Secretary shall adjust the amount being collected under this paragraph to reflect any unexpended balance in the account established under [section 5116(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5116/h&num=0&edition=prelim). However, the Secretary is not required to refund any fee collected under this paragraph.
 
-  (C) The Secretary shall transfer to the Secretary of the Treasury amounts the Secretary of Transportation collects under this paragraph for deposit in the Hazardous Materials Emergency Preparedness Fund established under [section 5116(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5116/i&num=0&edition=prelim).
+  (C) The Secretary shall transfer to the Secretary of the Treasury amounts the Secretary of Transportation collects under this paragraph for deposit in the Hazardous Materials Emergency Preparedness Fund established under [section 5116(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5116/h&num=0&edition=prelim).
 
 (3) **Fees on exempt persons.—** — Notwithstanding subsection (a)(4), the Secretary shall impose and collect a fee of $25 from a person who is required to register under this section but who is otherwise exempted by the Secretary from paying any fee under this section. The fee shall be used to pay the costs incurred by the Secretary in processing registration statements filed by such persons.
 
@@ -832,6 +876,8 @@ In subsection (i)(2)(A), the words “Notwithstanding any other provisions of th
 This amends 49:5108(f) to correct an erroneous cross-reference.
 
 #### Amendments
+2015—Subsec. (g)(2)(B), (C). Pub. L. 114–94 substituted “5116(h)” for “5116(i)”.
+
 2005—Subsec. (a)(1). Pub. L. 109–59, § 7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
 
 Subsec. (a)(1)(B). Pub. L. 109–59, § 7109(a)(1), substituted “Division 1.1, 1.2, or 1.3 explosive material” for “class A or B explosive”.
@@ -886,6 +932,9 @@ Subsec. (a)(4). Pub. L. 103–311, § 104, added par. (4).
 
 Subsec. (g)(2)(A)(viii). Pub. L. 103–311, § 119(d)(1), struck out “5107(e),” before “5108(g)(2)”.
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Registration
 Pub. L. 109–59, title VII, § 7109(d), Aug. 10, 2005, 119 Stat. 1898, provided that: “As soon as practicable, the Administrator of the Pipeline and Hazardous Materials Safety Administration shall transmit to the Federal Motor Carrier Safety Administration hazardous material registrant information obtained before, on, or after the date of enactment of this Act [Aug. 10, 2005] under [section 5108 of title 49](./chapter-051-transportation-of-hazardous-material.md#section-5108), United States Code, together with any Department of Transportation identification number for each registrant.”
 
@@ -932,7 +981,11 @@ Pub. L. 109–59, title VII, § 7109(d), Aug. 10, 2005, 119 Stat. 1898, provided
 
 **(g) Conditions.—** A motor carrier may provide transportation under a safety permit issued under this section only if the carrier complies with conditions the Secretary finds are required to protect public safety.
 
-**(h) Regulations.—** The Secretary shall prescribe regulations necessary to carry out this section not later than November 16, 1991.
+**(h) Limitation on Denial.—** The Secretary may not deny a non-temporary permit held by a motor carrier pursuant to this section based on a comprehensive review of that carrier triggered by safety management system scores or out-of-service disqualification standards, unless—
+
+(1) the carrier has the opportunity, prior to the denial of such permit, to submit a written description of corrective actions taken and other documentation the carrier wishes the Secretary to consider, including a corrective action plan; and
+
+(2) the Secretary determines the actions or plan is insufficient to address the safety concerns identified during the course of the comprehensive review.
 
 ### Statutory Notes
 
@@ -957,7 +1010,12 @@ In subsection (e)(2), the word “conditions” is omitted as being included in 
 In subsection (h), the text of section 8(b) (words before semicolon of the Hazardous Materials Transportation Uniform Safety Act of 1990 (Public Law 101–615, 104 Stat. 3258) is omitted as obsolete.
 
 #### Amendments
+2015—Subsec. (h). Pub. L. 114–94 amended subsec. (h) generally. Prior to amendment, text read as follows: “The Secretary shall prescribe regulations necessary to carry out this section not later than November 16, 1991.”
+
 2005—Subsec. (a). Pub. L. 109–59 substituted “Secretary issues” for “Secretary of Transportation issues” in introductory provisions.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Motor Carrier Safety Permits
 Pub. L. 112–141, div. C, title III, § 33014, July 6, 2012, 126 Stat. 840, provided that: “(a) Review.—Not later than 1 year after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways], the Secretary [of Transportation] shall conduct a study of, and transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on, the implementation of the hazardous material safety permit program under [section 5109 of title 49](./chapter-051-transportation-of-hazardous-material.md#section-5109), United States Code. In conducting the study, the Secretary shall review, at a minimum—“(1) the list of hazardous materials requiring a safety permit; “(2) the number of permits that have been issued, denied, revoked, or suspended since inception of the program and the number of commercial motor carriers that have never had a permit denied, revoked, or suspended since inception of the program; “(3) the reasons for such denials, revocations, or suspensions; “(4) the criteria used by the Federal Motor Carrier Safety Administration to determine whether a hazardous material safety permit issued by a State is equivalent to the Federal permit; and “(5) actions the Secretary could implement to improve the program, including whether to provide opportunities for an additional level of fitness review prior to the denial, revocation, or suspension of a safety permit. “(b) Actions Taken.—Not later than 2 years after the date of enactment of this Act, based on the study conducted under subsection (a), the Secretary shall either institute a rulemaking to make any necessary improvements to the hazardous materials safety permit program under [section 5109 of title 49](./chapter-051-transportation-of-hazardous-material.md#section-5109), United States Code or publish in the Federal Register the Secretary’s justification for why a rulemaking is not necessary.”
@@ -1237,7 +1295,7 @@ In subsection (b), the words “further” and “effective” are omitted as su
 
 <a id="section-5115"></a>
 ## § 5115. Training curriculum for the public sector
-**(a) In General.—** In coordination with the Administrator of the Federal Emergency Management Agency, the Chairman of the Nuclear Regulatory Commission, the Administrator of the Environmental Protection Agency, the Secretaries of Labor, Energy, and Health and Human Services, and the Director of the National Institute of Environmental Health Sciences, and using existing coordinating mechanisms of the National Response Team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee, the Secretary of Transportation shall maintain, and update periodically, a current curriculum of courses necessary to train public sector emergency response and preparedness teams in matters relating to the transportation of hazardous material. Only in developing the curriculum, the Secretary of Transportation shall consult with regional response teams established under the national contingency plan established under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9605](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9605&num=0&edition=prelim)), representatives of commissions established under section 301 of the Emergency Planning and Community Right-To-Know Act of 1986 ([42 U.S.C. 11001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11001&num=0&edition=prelim)), persons (including governmental entities) that provide training for responding to accidents and incidents involving the transportation of hazardous material, and representatives of persons that respond to those accidents and incidents.
+**(a) In General.—** In coordination with the Administrator of the Federal Emergency Management Agency, the Chairman of the Nuclear Regulatory Commission, the Administrator of the Environmental Protection Agency, the Secretaries of Labor, Energy, and Health and Human Services, and the Director of the National Institute of Environmental Health Sciences, and using existing coordinating mechanisms of the National Response Team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee, the Secretary of Transportation shall maintain, and update periodically, a current curriculum of courses, including online curriculum as appropriate, necessary to train public sector emergency response and preparedness teams in matters relating to the transportation of hazardous material. Only in developing the curriculum, the Secretary of Transportation shall consult with regional response teams established under the national contingency plan established under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9605](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9605&num=0&edition=prelim)), representatives of commissions established under section 301 of the Emergency Planning and Community Right-To-Know Act of 1986 ([42 U.S.C. 11001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11001&num=0&edition=prelim)), persons (including governmental entities) that provide training for responding to accidents and incidents involving the transportation of hazardous material, and representatives of persons that respond to those accidents and incidents.
 
 **(b) Requirements.—** The curriculum maintained and updated under subsection (a) of this section—
 
@@ -1285,6 +1343,8 @@ In subsection (d)(1), the word “updates” is substituted for “amendments”
 This amends 49:5115(b)(1)(C) to make a cross-reference more precise.
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–94 inserted “, including online curriculum as appropriate,” after “a current curriculum of courses”.
+
 2012—Subsecs. (b)(1)(B), (2), (c). Pub. L. 112–141 struck out “basic” after “recommended”.
 
 2005—Subsec. (a). Pub. L. 109–59, § 7113(a), inserted heading and first sentence and struck out former heading and first sentence. Text read as follows: “Not later than November 16, 1992, in coordination with the Director of the Federal Emergency Management Agency, Chairman of the Nuclear Regulatory Commission, Administrator of the Environmental Protection Agency, Secretaries of Labor, Energy, and Health and Human Services, and Director of the National Institute of Environmental Health Sciences, and using the existing coordinating mechanisms of the national response team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee, the Secretary of Transportation shall develop and update periodically a curriculum consisting of a list of courses necessary to train public sector emergency response and preparedness teams.”
@@ -1308,6 +1368,9 @@ Pub. L. 109–59, § 7113(d)(3), inserted “and distribute” after “publish�
 #### Change of Name
 “Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (a) on authority of section 612(c) of Pub. L. 109–295, set out as a note under [section 313 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section313&num=0&edition=prelim), Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under [section 313 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section313&num=0&edition=prelim).
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
@@ -1317,39 +1380,31 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 <a id="section-5116"></a>
 ## § 5116. Planning and training grants, monitoring, and review
-**(a) Planning Grants.—**
+**(a) Planning and Training Grants.—**
 
 (1) The Secretary shall make grants to States and Indian tribes—
 
-  (A) to develop, improve, and carry out emergency plans under the Emergency Planning and Community Right-To-Know Act of 1986 ([42 U.S.C. 11001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11001&num=0&edition=prelim) et seq.), including ascertaining flow patterns of hazardous material on lands under the jurisdiction of a State or Indian tribe, and between lands under the jurisdiction of a State or Indian tribe and lands of another State or Indian tribe; and
+  (A) to develop, improve, and carry out emergency plans under the Emergency Planning and Community Right-To-Know Act of 1986 ([42 U.S.C. 11001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11001&num=0&edition=prelim) et seq.), including ascertaining flow patterns of hazardous material on lands under the jurisdiction of a State or Indian tribe, and between lands under the jurisdiction of a State or Indian tribe and lands of another State or Indian tribe;
 
-  (B) to decide on the need for a regional hazardous material emergency response team.
+  (B) to decide on the need for regional hazardous material emergency response teams; and
 
-(2) The Secretary may make a grant to a State or Indian tribe under paragraph (1) of this subsection in a fiscal year only if—
+  (C) to train public sector employees to respond to accidents and incidents involving hazardous material.
 
-  (A) the State or Indian tribe certifies that the total amount the State or Indian tribe expends (except amounts of the United States Government) to develop, improve, and carry out emergency plans under the Act will at least equal the average level of expenditure for the last 5 fiscal years; and
+(2) To the extent that a grant is used to train emergency responders under paragraph (1)(C), the State or Indian tribe shall provide written certification to the Secretary that the emergency responders who receive training under the grant will have the ability to protect nearby persons, property, and the environment from the effects of accidents or incidents involving the transportation of hazardous material in accordance with existing regulations or National Fire Protection Association standards for competence of responders to accidents and incidents involving hazardous materials.
 
-  (B) the State agrees to make available at least 75 percent of the amount of the grant under paragraph (1) of this subsection in the fiscal year to local emergency planning committees established under section 301(c) of the Act ([42 U.S.C. 11001(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11001/c&num=0&edition=prelim)) to develop emergency plans under the Act.
+(3) The Secretary may make a grant to a State or Indian tribe under paragraph (1) of this subsection only if—
 
-(3) A State or Indian tribe receiving a grant under this subsection shall ensure that planning under the grant is coordinated with emergency planning conducted by adjacent States and Indian tribes.
+  (A) the State or Indian tribe certifies that the total amount the State or Indian tribe expends (except amounts of the Federal Government) for the purpose of the grant will at least equal the average level of expenditure for the last 5 years; and
 
-**(b) Training Grants.—**
-
-(1) The Secretary shall make grants to States and Indian tribes to train public sector employees to respond to accidents and incidents involving hazardous material. To the extent that a grant is used to train emergency responders, the State or Indian tribe shall provide written certification to the Secretary that the emergency responders who receive training under the grant will have the ability to protect nearby persons, property, and the environment from the effects of accidents or incidents involving the transportation of hazardous material in accordance with existing regulations or National Fire Protection Association standards for competence of responders to accidents and incidents involving hazardous materials.
-
-(2) The Secretary may make a grant under paragraph (1) of this subsection in a fiscal year—
-
-  (A) to a State or Indian tribe only if the State or tribe certifies that the total amount the State or tribe expends (except amounts of the Government) to train public sector employees to respond to an accident or incident involving hazardous material will at least equal the average level of expenditure for the last 5 fiscal years;
-
-  (B) to a State or Indian tribe only if the State or tribe makes an agreement with the Secretary that the State or tribe will use in that fiscal year, for training public sector employees to respond to an accident or incident involving hazardous material—
+  (B) any emergency response training provided under the grant shall consist of—
 
     (i) a course developed or identified under [section 5115 of this title](./chapter-051-transportation-of-hazardous-material.md#section-5115); or
 
-    (ii) another course the Secretary decides is consistent with the objectives of this section; and
+    (ii) any other course the Secretary determines is consistent with the objectives of this section.
 
-  (C) to a State only if the State agrees to make available at least 75 percent of the amount of the grant under paragraph (1) of this subsection in the fiscal year for training public sector employees a political subdivision of the State employs or uses.
+(4) A State or Indian tribe receiving a grant under this subsection shall ensure that planning and emergency response training under the grant is coordinated with adjacent States and Indian tribes.
 
-(3) A grant under this subsection may be used—
+(5) A training grant under paragraph (1)(C) may be used—
 
   (A) to pay—
 
@@ -1363,33 +1418,37 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
   (B) by the State, political subdivision, or Indian tribe to provide the training; and
 
-  (C) to make an agreement the Secretary approves authorizing a person (including an authority of a State or political subdivision of a State or Indian tribe) to provide the training—
+  (C) to make an agreement with a person (including an authority of a State, a political subdivision of a State or Indian tribe, or a local jurisdiction), subject to approval by the Secretary, to provide the training if—
 
-    (i) if the agreement allows the Secretary and the State or tribe to conduct random examinations, inspections, and audits of the training without prior notice; and
+    (i) the agreement allows the Secretary and the State or Indian tribe to conduct random examinations, inspections, and audits of the training without prior notice;
 
-    (ii) if the State or tribe conducts at least one on-site observation of the training each year.
+    (ii) the person agrees to have an auditable accounting system; and
 
-(4) The Secretary shall allocate amounts made available for grants under this subsection for a fiscal year among eligible States and Indian tribes based on the needs of the States and tribes for emergency response training. In making a decision about those needs, the Secretary shall consider—
+    (iii) the State or Indian tribe conducts at least one on-site observation of the training each year.
 
-  (A) the number of hazardous material facilities in the State or on land under the jurisdiction of the tribe;
+(6) The Secretary shall allocate amounts made available for grants under this subsection among eligible States and Indian tribes based on the needs of the States and Indian tribes for emergency response planning and training. In making a decision about those needs, the Secretary shall consider—
 
-  (B) the types and amounts of hazardous material transported in the State or on that land;
+  (A) the number of hazardous material facilities in the State or on land under the jurisdiction of the Indian tribe;
 
-  (C) whether the State or tribe imposes and collects a fee on transporting hazardous material;
+  (B) the types and amounts of hazardous material transported in the State or on such land;
 
-  (D) whether the fee is used only to carry out a purpose related to transporting hazardous material; and
+  (C) whether the State or Indian tribe imposes and collects a fee for transporting hazardous material;
 
-  (E) other factors the Secretary decides are appropriate to carry out this subsection.
+  (D) whether such fee is used only to carry out a purpose related to transporting hazardous material;
 
-**(c) Compliance With Certain Law.—** The Secretary may make a grant to a State under this section in a fiscal year only if the State certifies that the State complies with sections 301 and 303 of the Emergency Planning and Community Right-To-Know Act of 1986 ([42 U.S.C. 11001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11001&num=0&edition=prelim), 11003).
+  (E) the past record of the State or Indian tribe in effectively managing planning and training grants; and
 
-**(d) Applications.—** A State or Indian tribe interested in receiving a grant under this section shall submit an application to the Secretary. The application must be submitted at the time, and contain information, the Secretary requires by regulation to carry out the objectives of this section.
+  (F) any other factors the Secretary determines are appropriate to carry out this subsection.
 
-**(e) Government’s Share of Costs.—** A grant under this section is for 80 percent of the cost the State or Indian tribe incurs in the fiscal year to carry out the activity for which the grant is made. Amounts of the State or tribe under subsections (a)(2)(A) and (b)(2)(A) of this section are not part of the non-Government share under this subsection.
+**(b) Compliance With Certain Law.—** The Secretary may make a grant to a State under this section in a fiscal year only if the State certifies that the State complies with sections 301 and 303 of the Emergency Planning and Community Right-To-Know Act of 1986 ([42 U.S.C. 11001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11001&num=0&edition=prelim), 11003).
 
-**(f) Monitoring and Technical Assistance.—** In coordination with the Secretaries of Transportation and Energy, Administrator of the Environmental Protection Agency, and Director of the National Institute of Environmental Health Sciences, the Administrator of the Federal Emergency Management Agency shall monitor public sector emergency response planning and training for an accident or incident involving hazardous material. Considering the results of the monitoring, the Secretaries, Administrators, and Director each shall provide technical assistance to a State, political subdivision of a State, or Indian tribe for carrying out emergency response training and planning for an accident or incident involving hazardous material and shall coordinate the assistance using the existing coordinating mechanisms of the National Response Team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee.
+**(c) Applications.—** A State or Indian tribe interested in receiving a grant under this section shall submit an application to the Secretary. The application must be submitted at the time, and contain information, the Secretary requires by regulation to carry out the objectives of this section.
 
-**(g) Delegation of Authority.—** To minimize administrative costs and to coordinate Federal financial assistance for emergency response training and planning, the Secretary may delegate to the Administrator of the Federal Emergency Management Agency, Director of the National Institute of Environmental Health Sciences, Chairman of the Nuclear Regulatory Commission, Administrator of the Environmental Protection Agency, and Secretaries of Labor and Energy any of the following:
+**(d) Government’s Share of Costs.—** A grant under this section is for 80 percent of the cost the State or Indian tribe incurs in the fiscal year to carry out the activity for which the grant is made. Amounts of the State or tribe under subsection (a)(3)(A) of this section are not part of the non-Government share under this subsection.
+
+**(e) Monitoring and Technical Assistance.—** In coordination with the Secretaries of Transportation and Energy, Administrator of the Environmental Protection Agency, and Director of the National Institute of Environmental Health Sciences, the Administrator of the Federal Emergency Management Agency shall monitor public sector emergency response planning and training for an accident or incident involving hazardous material. Considering the results of the monitoring, the Secretaries, Administrators, and Director each shall provide technical assistance to a State, political subdivision of a State, or Indian tribe for carrying out emergency response training and planning for an accident or incident involving hazardous material and shall coordinate the assistance using the existing coordinating mechanisms of the National Response Team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee.
+
+**(f) Delegation of Authority.—** To minimize administrative costs and to coordinate Federal financial assistance for emergency response training and planning, the Secretary may delegate to the Administrator of the Federal Emergency Management Agency, Director of the National Institute of Environmental Health Sciences, Chairman of the Nuclear Regulatory Commission, Administrator of the Environmental Protection Agency, and Secretaries of Labor and Energy any of the following:
 
 (1) authority to receive applications for grants under this section.
 
@@ -1399,21 +1458,21 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 (4) any other ministerial duty associated with grants under this section.
 
-**(h) Minimizing Duplication of Effort and Expenses.—** The Secretaries of Transportation, Labor, and Energy, Administrator of the Federal Emergency Management Agency, Director of the National Institute of Environmental Health Sciences, Chairman of the Nuclear Regulatory Commission, and Administrator of the Environmental Protection Agency shall review periodically, with the head of each department, agency, or instrumentality of the Government, all emergency response and preparedness training programs of that department, agency, or instrumentality to minimize duplication of effort and expense of the department, agency, or instrumentality in carrying out the programs and shall take necessary action to minimize duplication.
+**(g) Minimizing Duplication of Effort and Expenses.—** The Secretaries of Transportation, Labor, and Energy, Administrator of the Federal Emergency Management Agency, Director of the National Institute of Environmental Health Sciences, Chairman of the Nuclear Regulatory Commission, and Administrator of the Environmental Protection Agency shall review periodically, with the head of each department, agency, or instrumentality of the Government, all emergency response and preparedness training programs of that department, agency, or instrumentality to minimize duplication of effort and expense of the department, agency, or instrumentality in carrying out the programs and shall take necessary action to minimize duplication.
 
-**(i) Annual Registration Fee Account and Its Uses.—** The Secretary of the Treasury shall establish an account in the Treasury (to be known as the “Hazardous Materials Emergency Preparedness Fund”) into which the Secretary of the Treasury shall deposit amounts the Secretary of Transportation transfers to the Secretary of the Treasury under [section 5108(g)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5108/g/2/C&num=0&edition=prelim). Without further appropriation, amounts in the account are available—
+**(h) Annual Registration Fee Account and Its Uses.—** The Secretary of the Treasury shall establish an account in the Treasury (to be known as the “Hazardous Materials Emergency Preparedness Fund”) into which the Secretary of the Treasury shall deposit amounts the Secretary of Transportation transfers to the Secretary of the Treasury under [section 5108(g)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5108/g/2/C&num=0&edition=prelim). Without further appropriation, amounts in the account are available—
 
-(1) to make grants under this section;
+(1) to make grants under this section and section 5107(e);
 
-(2) to monitor and provide technical assistance under subsection (f) of this section;
+(2) to monitor and provide technical assistance under subsection (e) of this section;
 
 (3) to publish and distribute an emergency response guide; and
 
-(4) to pay administrative costs of carrying out this section and sections 5108(g)(2) and 5115 of this title, except that not more than 2 percent of the amounts made available from the account in a fiscal year may be used to pay those costs.
+(4) to pay administrative costs of carrying out this section and sections 5107(e) and 5108(g)(2) of this title, except that not more than 2 percent of the amounts made available from the account in a fiscal year may be used to pay those costs.
 
-**(j) Supplemental Training Grants.—**
+**(i) Supplemental Training Grants.—**
 
-(1) In order to further the purposes of subsection (b), the Secretary shall, subject to the availability of funds and through a competitive process, make a grant or make grants to national nonprofit fire service organizations for the purpose of training instructors to conduct hazardous materials response training programs for individuals with statutory responsibility to respond to hazardous materials accidents and incidents.
+(1) In order to further the purposes of subsection (a), the Secretary shall, subject to the availability of funds and through a competitive process, make a grant or make grants to national nonprofit fire service organizations for the purpose of training instructors to conduct hazardous materials response training programs for individuals with statutory responsibility to respond to hazardous materials accidents and incidents.
 
 (2) For the purposes of this subsection the Secretary, after consultation with interested organizations, shall—
 
@@ -1444,15 +1503,15 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 (8) The Secretary may impose such additional terms and conditions on grants to be made under this subsection as the Secretary determines are necessary to protect the interests of the United States and to carry out the objectives of this subsection.
 
-**(k) Reports.—** The Secretary shall submit an annual report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate and make available the report to the public. The report submitted under this subsection shall include information on the allocation and uses of the planning grants allocated under subsection (a), training grants under subsection (b), and grants under subsection (j) of this section and under section 5107. The report submitted under this subsection shall identify the ultimate recipients of such grants and include—
+**(j) Reports.—** The Secretary shall submit an annual report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate and make available the report to the public. The report submitted under this subsection shall include information on the allocation and uses of the planning and training grants under subsection (a) and grants under subsection (i) of this section and under subsections (e) and (i) of section 5107. The report submitted under this subsection shall identify the ultimate recipients of such grants and include—
 
-(A) a detailed accounting and description of each grant expenditure by each grant recipient, including the amount of, and purpose for, each expenditure;
+(1) a detailed accounting and description of each grant expenditure by each grant recipient, including the amount of, and purpose for, each expenditure;
 
-(B) the number of persons trained under the grant program, by training level;
+(2) the number of persons trained under the grant program, by training level;
 
-(C) an evaluation of the efficacy of such planning and training programs; and
+(3) an evaluation of the efficacy of such planning and training programs; and
 
-(D) any recommendations the Secretary may have for improving such grant programs.
+(4) any recommendations the Secretary may have for improving such grant programs.
 
 ### Statutory Notes
 
@@ -1491,9 +1550,33 @@ In subsection (h), the words “including coordination of training programs” a
 This amends 49:5116(j)(4)(A) to correct an erroneous cross-reference.
 
 #### References in Text
-The Emergency Planning and Community Right-To-Know Act of 1986, referred to in subsec. (a)(1)(A), (2), is title III of Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1728, which is classified generally to chapter 116 (§ 11001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 11001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11001&num=0&edition=prelim) and Tables.
+The Emergency Planning and Community Right-To-Know Act of 1986, referred to in subsec. (a)(1)(A), is title III of Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1728, which is classified generally to chapter 116 (§ 11001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 11001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–94, § 7203(a)(3), added subsec. (a) and struck out former subsec. (a) which related to planning grants.
+
+Subsecs. (b), (c). Pub. L. 114–94, § 7203(a)(1), (2), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to training grants.
+
+Subsec. (d). Pub. L. 114–94, § 7203(a)(1), (b)(2)(A), redesignated subsec. (e) as (d) and substituted “subsection (a)(3)(A)” for “subsections (a)(2)(A) and (b)(2)(A)”. Former subsec. (d) redesignated (c).
+
+Subsecs. (e) to (g). Pub. L. 114–94, § 7203(a)(1), redesignated subsecs. (f) to (h) as (e) to (g), respectively. Former subsec. (e) redesignated (d).
+
+Subsec. (h). Pub. L. 114–94, § 7203(a)(1), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
+
+Subsec. (h)(1). Pub. L. 114–94, § 7203(b)(2)(B)(i), inserted “and section 5107(e)” after “section”.
+
+Subsec. (h)(2). Pub. L. 114–94, § 7203(b)(2)(B)(ii), substituted “subsection (e)” for “subsection (f)”.
+
+Subsec. (h)(4). Pub. L. 114–94, § 7203(b)(2)(B)(iii), substituted “5107(e) and 5108(g)(2)” for “5108(g)(2) and 5115”.
+
+Subsec. (i). Pub. L. 114–94, § 7203(a)(1), (b)(2)(C), redesignated subsec. (j) as (i) and substituted “subsection (a)” for “subsection (b)” in par. (1). Former subsec. (i) redesignated (h).
+
+Subsec. (j). Pub. L. 114–94, § 7203(b)(2)(D), substituted, in introductory provisions, “planning and training grants under subsection (a) and grants under subsection (i) of this section and under subsections (e) and (i) of section 5107” for “planning grants allocated under subsection (a), training grants under subsection (b), and grants under subsection (j) of this section and under section 5107” and redesignated subpars. (A) to (D) as pars. (1) to (4), respectively.
+
+Pub. L. 114–94, § 7203(a)(1), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
+
+Subsec. (k). Pub. L. 114–94, § 7203(a)(1), redesignated subsec. (k) as (j).
+
 2012—Subsec. (b)(1). Pub. L. 112–141, § 33004(b)(1), inserted at end “To the extent that a grant is used to train emergency responders, the State or Indian tribe shall provide written certification to the Secretary that the emergency responders who receive training under the grant will have the ability to protect nearby persons, property, and the environment from the effects of accidents or incidents involving the transportation of hazardous material in accordance with existing regulations or National Fire Protection Association standards for competence of responders to accidents and incidents involving hazardous materials.”
 
 Subsec. (j)(1). Pub. L. 112–141, § 33004(b)(2)(A), substituted “funds and through a competitive process, make a grant or make grants to national nonprofit fire service organizations for” for “funds, make grants to national nonprofit employee organizations engaged solely in fighting fires for”.
@@ -1557,6 +1640,9 @@ Subsecs. (j), (k). Pub. L. 103–311, § 119(a), added subsecs. (j) and (k).
 #### Change of Name
 “Administrator of the Federal Emergency Management Agency”, “Administrators, and Director”, and “Administrator of the Federal Emergency Management Agency, Director of the National Institute of Environmental Health Sciences” substituted for “Director of the Federal Emergency Management Agency”, “Administrator, and Directors”, and “Directors of the Federal Emergency Management Agency and National Institute of Environmental Health Sciences”, respectively, in subsecs. (f) to (h), on authority of section 612(c) of Pub. L. 109–295, set out as a note under [section 313 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section313&num=0&edition=prelim), Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under [section 313 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section313&num=0&edition=prelim).
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
@@ -1565,6 +1651,9 @@ Pub. L. 104–287, § 6(b), Oct. 11, 1996, 110 Stat. 3398, provided that the ame
 
 #### Effective Date of 1994 Amendment
 Pub. L. 103–429, § 7(c), Oct. 31, 1994, 108 Stat. 4389, provided that the amendment made by section 7(c) is effective Aug. 26, 1994.
+
+#### Savings Clause
+Pub. L. 114–94, div. A, title VII, § 7203(c), Dec. 4, 2015, 129 Stat. 1591, provided that: “Nothing in this section [amending this section and [section 5108 of this title](./chapter-051-transportation-of-hazardous-material.md#section-5108)] may be construed to prohibit the Secretary [of Transportation] from recovering and deobligating funds from grants that are not managed or expended in compliance with a grant agreement.”
 
 
 <a id="section-5117"></a>
@@ -1579,9 +1668,9 @@ Pub. L. 103–429, § 7(c), Oct. 31, 1994, 108 Stat. 4389, provided that the ame
 
 (2) A special permit issued under this section shall be effective for an initial period of not more than 2 years and may be renewed by the Secretary upon application for successive periods of not more than 4 years each or, in the case of a special permit relating to section 5112, for an additional period of not more than 2 years.
 
-**(b) Applications.—** When applying for a special permit or renewal of a special permit under this section, the person must provide a safety analysis prescribed by the Secretary that justifies the special permit. The Secretary shall publish in the Federal Register notice that an application for a special permit has been filed and shall give the public an opportunity to inspect the safety analysis and comment on the application. This subsection does not require the release of information protected by law from public disclosure.
+**(b) Applications.—** When applying for a special permit or renewal of a special permit under this section, the person must provide a safety analysis prescribed by the Secretary that justifies the special permit. The Secretary shall publish in the Federal Register notice that an application for a new special permit or a modification to an existing special permit has been filed and shall give the public an opportunity to inspect the safety analysis and comment on the application. The Secretary shall make available to the public on the Department of Transportation’s Internet Web site any special permit other than a new special permit or a modification to an existing special permit and shall give the public an opportunity to inspect the safety analysis and comment on the application for a period of not more than 15 days. This subsection does not require the release of information protected by law from public disclosure.
 
-**(c) Applications To Be Dealt With Promptly.—** The Secretary shall issue or renew the special permit for which an application was filed or deny such issuance or renewal within 180 days after the first day of the month following the date of the filing of such application, or the Secretary shall publish a statement in the Federal Register of the reason why the Secretary’s decision on the special permit is delayed, along with an estimate of the additional time necessary before the decision is made.
+**(c) Applications To Be Dealt With Promptly.—** The Secretary shall issue or renew a special permit or approval for which an application was filed or deny such issuance or renewal within 120 days after the first day of the month following the date of the filing of such application, or the Secretary shall make available to the public a statement of the reason why the Secretary’s decision on a special permit or approval is delayed, along with an estimate of the additional time necessary before the decision is made.
 
 **(d) Exclusions.—**
 
@@ -1617,6 +1706,12 @@ Pub. L. 103–429, § 7(c), Oct. 31, 1994, 108 Stat. 4389, provided that the ame
 
 (3) **Rulemaking.—** — After completing the review and analysis under paragraph (1) and after providing notice and opportunity for public comment, the Secretary shall either institute a rulemaking to incorporate the special permit into the hazardous materials regulations or publish in the Federal Register the Secretary’s justification for why the special permit is not appropriate for incorporation into the regulations.
 
+**(g) Disclosure of Final Action.—** The Secretary shall periodically, but at least every 120 days—
+
+(1) publish in the Federal Register notice of the final disposition of each application for a new special permit, modification to an existing special permit, or approval during the preceding quarter; and
+
+(2) make available to the public on the Department of Transportation’s Internet Web site notice of the final disposition of any other special permit during the preceding quarter.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -1644,6 +1739,12 @@ In subsection (d), the words “by which”, “the requirements of”, and “o
 The Ports and Waterways Safety Act of 1972, referred to in subsec. (d)(1)(C), is Pub. L. 92–340, July 10, 1972, 86 Stat. 424, as amended, which is classified generally to chapter 25 (§ 1221 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1221 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1221&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (b). Pub. L. 114–94, § 7204(1), substituted “an application for a new special permit or a modification to an existing special permit” for “an application for a special permit” and inserted “The Secretary shall make available to the public on the Department of Transportation’s Internet Web site any special permit other than a new special permit or a modification to an existing special permit and shall give the public an opportunity to inspect the safety analysis and comment on the application for a period of not more than 15 days.” before “This subsection”.
+
+Subsec. (c). Pub. L. 114–94, § 7204(2), substituted “a special permit or approval” for “the special permit” in two places, “120 days” for “180 days”, and “make available to the public” for “publish”, and struck out “in the Federal Register” after “a statement”.
+
+Subsec. (g). Pub. L. 114–94, § 7204(3), added subsec. (g).
+
 2012—Subsec. (f). Pub. L. 112–141 added subsec. (f).
 
 2005—Pub. L. 109–59, § 7115(a)(1), substituted “Special permits and exclusions” for “Exemptions and exclusions” in section catchline.
@@ -1664,6 +1765,9 @@ Subsec. (e). Pub. L. 109–59, § 7115(g), substituted “a special permit” fo
 
 1994—Subsecs. (c) to (e). Pub. L. 103–311 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
 
@@ -1683,16 +1787,48 @@ Pub. L. 112–141, div. C, title III, § 33012(a), (b), July 6, 2012, 126 Stat. 
 
 (2) **Coordination.—** — In developing the program under paragraph (1), the Secretary shall—
 
-  (A) utilize information gathered from other modal administrations with similar programs; and
+  (A) utilize information gathered from other modal administrations with similar programs;
 
-  (B) coordinate with other modal administrations, as appropriate.
+  (B) coordinate with other modal administrations, as appropriate; and
+
+  (C) coordinate, as appropriate, with other Federal agencies.
 
 **(b) Cooperation.—** In carrying out subsection (a), the Secretary shall work cooperatively with regulated and other entities, including shippers, carriers, emergency responders, State and local officials, and academic institutions.
+
+**(c) Cooperative Research.—**
+
+(1) **In general.—** — As part of the program established under subsection (a), the Secretary may carry out cooperative research on hazardous materials transport.
+
+(2) **National academies.—** — The Secretary may enter into an agreement with the National Academies to support research described in paragraph (1).
+
+(3) **Research.—** — Research conducted under this subsection may include activities relating to—
+
+  (A) emergency planning and response, including information and programs that can be readily assessed and implemented in local jurisdictions;
+
+  (B) risk analysis and perception and data assessment;
+
+  (C) commodity flow data, including voluntary collaboration between shippers and first responders for secure data exchange of critical information;
+
+  (D) integration of safety and security;
+
+  (E) cargo packaging and handling;
+
+  (F) hazmat release consequences; and
+
+  (G) materials and equipment testing.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 5118, Pub. L. 103–272, § 1(d), July 5, 1994, 108 Stat. 777; Pub. L. 108–426, § 2(c)(2), Nov. 30, 2004, 118 Stat. 2424, related to employment of additional hazardous material safety inspectors, prior to repeal by Pub. L. 109–59, title VII, § 7115(h), Aug. 10, 2005, 119 Stat. 1901.
+
+#### Amendments
+2015—Subsec. (a)(2)(C). Pub. L. 114–94, § 6014(1), added subpar. (C).
+
+Subsec. (c). Pub. L. 114–94, § 6014(2), added subsec. (c).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
@@ -1878,7 +2014,7 @@ Subsec. (c)(2). Pub. L. 109–59, § 7117(b)(2), struck out “included in a sta
 
 (4) to otherwise carry out this chapter.
 
-**(h) Report.—** The Secretary shall, once every 2 years, prepare and transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a comprehensive report on the transportation of hazardous materials during the preceding 2 calendar years. The report shall include—
+**(h) Report.—** The Secretary shall, once every 2 years, prepare and make available to the public on the Department of Transportation’s Internet Web site a comprehensive report on the transportation of hazardous materials during the preceding 2 calendar years. The report shall include—
 
 (1) a statistical compilation of accidents and casualties related to the transportation of hazardous material;
 
@@ -1917,6 +2053,8 @@ In subsection (e), before clause (1), the words “prepare and” and “compreh
 The date of enactment of the Hazardous Materials Transportation Safety and Security Reauthorization Act of 2005, referred to in subsec. (e), is the date of enactment of title VII of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
+2015—Subsec. (h). Pub. L. 114–94 substituted “make available to the public on the Department of Transportation’s Internet Web site” for “transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate” in introductory provisions.
+
 2012—Subsec. (c)(1)(G). Pub. L. 112–141, § 33009(a), added subpar. (G).
 
 Subsec. (c)(2). Pub. L. 112–141, § 32501(c), inserted “, in person or in writing,” after “proper credentials”.
@@ -1962,6 +2100,9 @@ Subsec. (h)(4). Pub. L. 109–59, § 7118(f)(2), inserted “relating to a funct
 1994—Subsec. (c)(1)(A). Pub. L. 103–311, § 117(a)(2), substituted “a packaging or a” for “a package or”.
 
 Subsec. (e). Pub. L. 103–311, § 108, substituted “Report” for “Annual Report” in heading and substituted first sentence for former first sentence which read as follows: “The Secretary shall submit to the President, for submission to Congress, not later than June 15th of each year, a report about the transportation of hazardous material during the prior calendar year.”
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
@@ -2373,43 +2514,33 @@ A prior section 5127 was renumbered [section 5128 of this title](./chapter-051-t
 ## § 5128. Authorization of appropriations
 **(a) In General.—** There are authorized to be appropriated to the Secretary to carry out this chapter (except sections 5107(e), 5108(g)(2), 5113, 5115, 5116, and 5119)—
 
-(1) $42,338,000 for fiscal year 2013;
+(1) $53,000,000 for fiscal year 2016;
 
-(2) $42,762,000 for fiscal year 2014; and
+(2) $55,000,000 for fiscal year 2017;
 
-(3) $35,615,474 for the period beginning on October 1, 2014, and ending on July 31, 2015.
+(3) $57,000,000 for fiscal year 2018;
 
-**(b) Hazardous Materials Emergency Preparedness Fund.—**
+(4) $58,000,000 for fiscal year 2019; and
 
-(1) **Fiscal years 2013 and 2014.—** — From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend, during each of fiscal years 2013 and 2014—
+(5) $60,000,000 for fiscal year 2020.
 
-  (A) $188,000 to carry out section 5115;
+**(b) Hazardous Materials Emergency Preparedness Fund.—** From the Hazardous Materials Emergency Preparedness Fund established under section 5116(h), the Secretary may expend, for each of fiscal years 2016 through 2020—
 
-  (B) $21,800,000 to carry out subsections (a) and (b) of section 5116, of which not less than $13,650,000 shall be available to carry out section 5116(b);
+(1) $21,988,000 to carry out section 5116(a);
 
-  (C) $150,000 to carry out section 5116(f);
+(2) $150,000 to carry out section 5116(e);
 
-  (D) $625,000 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
+(3) $625,000 to publish and distribute the Emergency Response Guidebook under section 5116(h)(3); and
 
-  (E) $1,000,000 to carry out section 5116(j).
+(4) $1,000,000 to carry out section 5116(i).
 
-(2) **Fiscal year 2015.—** — From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend for the period beginning on October 1, 2014, and ending on July 31, 2015—
+**(c) Hazardous Materials Training Grants.—** From the Hazardous Materials Emergency Preparedness Fund established pursuant to section 5116(h), the Secretary may expend $4,000,000 for each of fiscal years 2016 through 2020 to carry out section 5107(e).
 
-  (A) $156,581 to carry out section 5115;
+**(d) Community Safety Grants.—** Of the amounts made available under subsection (a) to carry out this chapter, the Secretary shall withhold $1,000,000 for each of fiscal years 2016 through 2020 to carry out section 5107(i).
 
-  (B) $18,156,712 to carry out subsections (a) and (b) of section 5116, of which not less than $11,368,767 shall be available to carry out section 5116(b);
+**(e) Credits to Appropriations.—**
 
-  (C) $124,932 to carry out section 5116(f);
-
-  (D) $520,548 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
-
-  (E) $832,877 to carry out section 5116(j).
-
-**(c) Hazardous Materials Training Grants.—** From the Hazardous Materials Emergency Preparedness Fund established pursuant to section 5116(i), the Secretary may expend $4,000,000 for each of the fiscal years 2013 and 2014 and $3,331,507 for the period beginning on October 1, 2014, and ending on July 31, 2015, to carry out section 5107(e).
-
-**(d) Credits to Appropriations.—**
-
-(1) **Expenses.—** — In addition to amounts otherwise made available to carry out this chapter, the Secretary may credit amounts received from a State, Indian tribe, or other public authority or private entity for expenses the Secretary incurs in providing training to the State, authority, or entity.
+(1) **Expenses.—** — In addition to amounts otherwise made available to carry out this chapter, the Secretary may credit amounts received from a State, Indian tribe, or other public authority or private entity for expenses the Secretary incurs in providing training to the State, Indian tribe, authority, or entity.
 
 (2) **Availability of amounts.—** — Amounts made available under this section shall remain available until expended.
 
@@ -2436,9 +2567,57 @@ In subsection (c), the text of 49 App.:1815(i)(3)(A) is omitted as obsolete.
 In subsection (c)(2), the words “relating to dissemination of the curriculum” are omitted as surplus.
 
 #### Amendments
-2015—Subsec. (a)(3). Pub. L. 114–21, § 1301(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “$28,468,948 for the period beginning on October 1, 2014, and ending on May 31, 2015.”
+2015—Pub. L. 114–94 amended section generally. Prior to amendment, section related to authorization of appropriations for fiscal years 2013 to 2015.
 
-Subsec. (b)(2). Pub. L. 114–21, § 1301(b), amended par. (2) generally. Prior to amendment, text read as follows: “From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend for the period beginning on October 1, 2014, and ending on May 31, 2015—
+Subsec. (a)(3). Pub. L. 114–41, § 1301(a)(2), added par. (3) and struck out former par. (3) which read as follows: “$35,615,474 for the period beginning on October 1, 2014, and ending on July 31, 2015.”
+
+Pub. L. 114–21, § 1301(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “$28,468,948 for the period beginning on October 1, 2014, and ending on May 31, 2015.”
+
+Subsec. (a)(4). Pub. L. 114–87, § 1301(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “$5,958,639 for the period beginning on October 1, 2015, and ending on November 20, 2015.”
+
+Pub. L. 114–73, § 1301(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “$3,388,246 for the period beginning on October 1, 2015, and ending on October 29, 2015.”
+
+Pub. L. 114–41, § 1301(a), added par. (4).
+
+Subsec. (b)(1). Pub. L. 114–41, § 1301(b)(1), substituted “Fiscal years 2013 through 2015”for “Fiscal years 2013 and 2014” in heading and “fiscal years 2013 through 2015” for “fiscal years 2013 and 2014” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 114–87, § 1301(b), amended par. (2) generally. Prior to amendment, text read as follows: “From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend for the period beginning on October 1, 2015, and ending on November 20, 2015—
+
+“(A) $26,197 to carry out section 5115;
+
+“(B) $3,037,705 to carry out subsections (a) and (b) of section 5116, of which not less than $1,902,049 shall be available to carry out section 5116(b);
+
+“(C) $20,902 to carry out section 5116(f);
+
+“(D) $87,090 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
+
+“(E) $139,344 to carry out section 5116(j).”
+
+Pub. L. 114–73, § 1301(b), amended par. (2) generally. Prior to amendment, text read as follows: “From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend for the period beginning on October 1, 2015, and ending on October 29, 2015—
+
+“(A) $14,896 to carry out section 5115;
+
+“(B) $1,727,322 to carry out subsections (a) and (b) of section 5116, of which not less than $1,081,557 shall be available to carry out section 5116(b);
+
+“(C) $11,885 to carry out section 5116(f);
+
+“(D) $49,522 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
+
+“(E) $79,235 to carry out section 5116(j).”
+
+Pub. L. 114–41, § 1301(b)(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend for the period beginning on October 1, 2014, and ending on July 31, 2015—
+
+“(A) $156,581 to carry out section 5115;
+
+“(B) $18,156,712 to carry out subsections (a) and (b) of section 5116, of which not less than $11,368,767 shall be available to carry out section 5116(b);
+
+“(C) $124,932 to carry out section 5116(f);
+
+“(D) $520,548 to publish and distribute the Emergency Response Guidebook under section 5116(i)(3); and
+
+“(E) $832,877 to carry out section 5116(j).”
+
+Pub. L. 114–21, § 1301(b), amended par. (2) generally. Prior to amendment, text read as follows: “From the Hazardous Materials Emergency Preparedness Fund established under section 5116(i), the Secretary may expend for the period beginning on October 1, 2014, and ending on May 31, 2015—
 
 “(A) $125,162 to carry out section 5115;
 
@@ -2450,7 +2629,13 @@ Subsec. (b)(2). Pub. L. 114–21, § 1301(b), amended par. (2) generally. Prior 
 
 “(E) $665,753 to carry out section 5116(j).”
 
-Subsec. (c). Pub. L. 114–21, § 1301(c), substituted “and $3,331,507 for the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and $2,663,014 for the period beginning on October 1, 2014, and ending on May 31, 2015,”.
+Subsec. (c). Pub. L. 114–87, § 1301(c), substituted “and $710,383 for the period beginning on October 1, 2015, and ending on December 4, 2015,” for “and $557,377 for the period beginning on October 1, 2015, and ending on November 20, 2015,”.
+
+Pub. L. 114–73, § 1301(c), substituted “and $557,377 for the period beginning on October 1, 2015, and ending on November 20, 2015,” for “and $316,940 for the period beginning on October 1, 2015, and ending on October 29, 2015,”.
+
+Pub. L. 114–41, § 1301(c), substituted “each of fiscal years 2013 through 2015 and $316,940 for the period beginning on October 1, 2015, and ending on October 29, 2015,” for “each of the fiscal years 2013 and 2014 and $3,331,507 for the period beginning on October 1, 2014, and ending on July 31, 2015,”.
+
+Pub. L. 114–21, § 1301(c), substituted “and $3,331,507 for the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and $2,663,014 for the period beginning on October 1, 2014, and ending on May 31, 2015,”.
 
 2014—Subsec. (a)(3). Pub. L. 113–159, § 1301(a), added par. (3).
 
@@ -2473,6 +2658,9 @@ Subsec. (b). Pub. L. 103–311, § 119(c)(4), amended subsec. (b)(1) generally. 
 “(b) Hazmat Employee Training.—(1) Not more than $250,000 is available to the Director of the National Institute of Environmental Health Sciences from the account established under [section 5116(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5116/i&num=0&edition=prelim) for each of the fiscal years ending September 30, 1993–1998, to carry out [section 5107(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5107/e&num=0&edition=prelim).”
 
 Pub. L. 103–311, § 119(b), designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.

@@ -12,7 +12,7 @@ source: >-
 
 **(b)** Each organizational element or unit of the Coast Guard Auxiliary organization (but excluding any corporation formed by an organizational element or unit of the Auxiliary under subsection (c) of this section), shall, except when acting outside the scope of section 822, at all times be deemed to be an instrumentality of the United States, for purposes of the following:
 
-(1) Chapter 26 11 So in original. Probably should be 171. of title 28 (popularly known as the Federal Tort Claims Act).
+(1) Chapter 171 of title 28 (popularly known as the Federal Tort Claims Act).
 
 (2) [Section 2733 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2733&num=0&edition=prelim) (popularly known as the Military Claims Act).
 
@@ -52,6 +52,8 @@ Based on title 14, U.S.C., 1946 ed., §§ 260, 263 (Feb. 19, 1941, ch. 8, title 
 This section continues the Auxiliary, redefining it as a nonmilitary organization, and providing for its administration. 81st Congress, House Report No. 557.
 
 #### Amendments
+2016—Subsec. (b)(1). Pub. L. 114–120 substituted “Chapter 171” for “Chapter 26”.
+
 2006—Subsec. (b)(3) to (5). Pub. L. 109–304 added pars (3) to (5) and struck out former pars. (3) to (5) which read as follows:
 
 “(3) The Act of March 3, 1925 (46 App. U.S.C. 781–790; popularly known as the Public Vessels Act).
@@ -70,8 +72,13 @@ Pub. L. 99–640, § 9, Nov. 10, 1986, 100 Stat. 3548, provided that: “(a) It 
 
 <a id="section-822"></a>
 ## § 822. Purpose of the Coast Guard Auxiliary
+**(a) In General.—** The purpose of the Auxiliary is to assist the Coast Guard as authorized by the Commandant, in performing any Coast Guard function, power, duty, role, mission, or operation authorized by law.
 
-The purpose of the Auxiliary is to assist the Coast Guard as authorized by the Commandant, in performing any Coast Guard function, power, duty, role, mission, or operation authorized by law.
+**(b) Limitation.—** The Auxiliary may conduct a patrol of a waterway, or a portion thereof, only if—
+
+(1) the Commandant has determined such waterway, or portion thereof, is navigable for purposes of the jurisdiction of the Coast Guard; or
+
+(2) a State or other proper authority has requested such patrol pursuant to [section 141 of this title](./chapter-007-cooperation-with-other-agencies.md#section-141) or [section 13109 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section13109&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -81,6 +88,8 @@ Based on title 14, U.S.C., 1946 ed., § 261 (Feb. 19, 1941, ch. 8, title I, § 2
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
+2016—Pub. L. 114–120 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
 1996—Pub. L. 104–324 inserted “of the Coast Guard Auxiliary” after “Purpose” in section catchline and amended text generally. Prior to amendment, text read as follows: “The purpose of the Auxiliary is to assist the Coast Guard:
 
 “(a) to promote safety and to effect rescues on and over the high seas and on navigable waters;
@@ -124,7 +133,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 **(b)** A member of the Auxiliary while assigned to duty shall be deemed to be a Federal employee only for the purposes of the following:
 
-(1) Chapter 26 11 So in original. Probably should be 171. of title 28 (popularly known as the Federal Tort Claims Act).
+(1) Chapter 171 of title 28 (popularly known as the Federal Tort Claims Act).
 
 (2) [Section 2733 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2733&num=0&edition=prelim) (popularly known as the Military Claims Act).
 
@@ -152,6 +161,8 @@ The Military Personnel and Civilian Employees’ Claims Act of 1964, referred to
 Section 651 of Public Law 104–208, referred to in subsec. (b)(9), is section 101(f) [title VI, § 651] of Pub. L. 104–208, which is set out as a note under [section 8133 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8133&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2016—Subsec. (b)(1). Pub. L. 114–120 substituted “Chapter 171” for “Chapter 26”.
+
 2006—Subsec. (b)(3) to (5). Pub. L. 109–304 added pars (3) to (5) and struck out former pars. (3) to (5) which read as follows:
 
 “(3) The Act of March 3, 1925 (46 App. U.S.C. 781–790; popularly known as the Public Vessels Act).

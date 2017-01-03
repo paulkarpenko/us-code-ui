@@ -62,7 +62,7 @@ As used in this chapter—
 
 **(d) Loss of status as wild free-roaming horses and burros; exclusion from coverage** Wild free-roaming horses and burros or their remains shall lose their status as wild free-roaming horses or burros and shall no longer be considered as falling within the purview of this chapter—
 
-(1) upon passage of title pursuant to subsection (c) of this section except for the limitation of subsection (c)(1) 11 So in original. Probably should be subsection “(c)”. of this section; or
+(1) upon passage of title pursuant to subsection (c) except for the limitation of subsection (c)(1) 11 So in original. Probably should be subsection “(c)”. of this section; or
 
 (2) if they have been transferred for private maintenance or adoption pursuant to this chapter and die of natural causes before passage of title; or
 
@@ -137,6 +137,8 @@ The Secretary is authorized to enter into cooperative agreements with other land
 Pub. L. 112–74, div. E, title I, § 114, Dec. 23, 2011, 125 Stat. 1009, provided that: “(a) Notwithstanding any other provision of this Act [div. E of Pub. L. 112–74, see Tables for classification], the Secretary of the Interior may enter into multiyear cooperative agreements with nonprofit organizations and other appropriate entities, and may enter into multiyear contracts in accordance with the provisions of section 304B of the Federal Property and Administrative Services Act of 1949 ([former] [41 U.S.C. 254c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section254c&num=0&edition=prelim)) [see [41 U.S.C. 3903](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3903&num=0&edition=prelim)] (except that the 5-year term restriction in subsection (d) [see [41 U.S.C. 3903(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3903/a&num=0&edition=prelim)] shall not apply), for the long-term care and maintenance of excess wild free roaming horses and burros by such organizations or entities on private land. Such cooperative agreements and contracts may not exceed 10 years, subject to renewal at the discretion of the Secretary. “(b) During fiscal year 2012 and subsequent fiscal years, in carrying out work involving cooperation with any State or political subdivision thereof, the Bureau of Land Management may record obligations against accounts receivable from any such entities.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 114–113, div. G, title I, § 109, Dec. 18, 2015, 129 Stat. 2549.
 
 Pub. L. 113–235, div. F, title I, § 110, Dec. 16, 2014, 128 Stat. 2419.
 

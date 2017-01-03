@@ -97,7 +97,7 @@ This chapter, referred to in text, was in the original “this subdivision” pr
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security.
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -132,7 +132,7 @@ a percentage ratio, quota system, or other program to achieve racial balance in 
 ## § 10504. Prohibition of discrimination
 **(a) Federally assisted emergency assistance activities** No person in any State shall, on the ground of race, color, religion, national origin, or sex, be excluded from participation in, be denied the benefits of, be subjected to discrimination under, or be denied employment in connection with any activity for which Federal law enforcement assistance is provided under this chapter.
 
-**(b) Provisions of section 3789d(c)(3) and (4) of this title applicable to violations** Paragraph (3) and paragraph (4) of [section 3789d(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3789d/c&num=0&edition=prelim) shall apply with respect to a violation of subsection (a) of this section, except that the terms “this section” and “paragraph (1)”, as such terms appear in such paragraphs, shall be deemed to be references to subsection (a) of this section, and a reference to the Office of Justice Programs in such paragraphs shall be deemed to be a reference to the Attorney General.
+**(b) Provisions of section 3789d(c)(3) and (4) of this title applicable to violations** Paragraph (3) and paragraph (4) of [section 3789d(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3789d/c&num=0&edition=prelim) shall apply with respect to a violation of subsection (a), except that the terms “this section” and “paragraph (1)”, as such terms appear in such paragraphs, shall be deemed to be references to subsection (a) of this section, and a reference to the Office of Justice Programs in such paragraphs shall be deemed to be a reference to the Attorney General.
 
 
 <a id="section-10505"></a>
@@ -158,7 +158,7 @@ No funds provided under this chapter shall be used for land acquisition.
 ## § 10507. Repayment
 **(a) Violation of conditions; amount** If Federal law enforcement assistance provided under this chapter is used by the recipient of such assistance in violation of section 10504 11 See References in Text note below. of this title or for any purpose other than the purpose for which it is provided, then such recipient shall promptly repay to the Attorney General an amount equal to the value of such assistance.
 
-**(b) Civil action** The Attorney General may bring a civil action in an appropriate United States district court to recover any amount required to be repaid under subsection (a) of this section.
+**(b) Civil action** The Attorney General may bring a civil action in an appropriate United States district court to recover any amount required to be repaid under subsection (a).
 
 ### Statutory Notes
 
@@ -206,6 +206,11 @@ The Attorney General, after consultation with appropriate members of the law enf
 
 <a id="section-10513"></a>
 ## § 10513. Authorization of appropriations
-**(a) Assistance in form of funds** There is authorized to be appropriated $20,000,000 for each fiscal year ending after September 30, 1984, to provide under this chapter Federal law enforcement assistance in the form of funds.
+**(a) Assistance in form of funds** There is authorized to be appropriated $20,000,000 for each fiscal year ending after September 30, 2021, to provide under this chapter Federal law enforcement assistance in the form of funds.
 
 **(b) Assistance other than funds** There are authorized to be appropriated for each fiscal year ending after September 30, 1984, such sums as may be necessary to provide under this chapter Federal law enforcement assistance other than funds.
+
+### Statutory Notes
+
+#### Amendments
+2016—Subsec. (a). Pub. L. 114–198 substituted “September 30, 2021” for “September 30, 1984”.

@@ -117,8 +117,6 @@ The date of enactment of this chapter, referred to in subsec. (f)(1), is the dat
 #### Prior Provisions
 A prior section 3771, acts June 25, 1948, ch. 645, 62 Stat. 846; May 24, 1949, ch. 139, § 59, 63 Stat. 98; May 10, 1950, ch. 174, § 1, 64 Stat. 158; July 7, 1958, Pub. L. 85–508, § 12(k), 72 Stat. 348; Mar. 18, 1959, Pub. L. 86–3, § 14(g), 73 Stat. 11; Oct. 17, 1968, Pub. L. 90–578, title III, § 301(a)(2), 82 Stat. 1115, related to procedure to and including verdict, prior to repeal by Pub. L. 100–702, title IV, §§ 404(a), 407, Nov. 19, 1988, 102 Stat. 4651, 4652, effective Dec. 1, 1988.
 
-A prior section 3772, acts June 25, 1948, ch. 645, 62 Stat. 846; May 24, 1949, ch. 139, § 60, 63 Stat. 98; July 7, 1958, Pub. L. 85–508, § 12(l), 72 Stat. 348; Mar. 18, 1959, Pub. L. 86–3, § 14(h), 73 Stat. 11; Oct. 12, 1984, Pub. L. 98–473, title II, § 206, 98 Stat. 1986, related to procedure after verdict, prior to repeal by Pub. L. 100–702, title IV, §§ 404(a), 407, Nov. 19, 1988, 102 Stat. 4651, 4652, effective Dec. 1, 1988.
-
 #### Amendments
 2015—Subsec. (a)(9), (10). Pub. L. 114–22, § 113(a)(1), added pars. (9) and (10).
 
@@ -126,7 +124,7 @@ Subsec. (d)(3). Pub. L. 114–22, § 113(c)(1), inserted “In deciding such app
 
 Pub. L. 114–22, § 113(a)(2), inserted “, unless the litigants, with the approval of the court, have stipulated to a different time period for consideration” after “after the petition has been filed”.
 
-Subsec. (e). Pub. L. 114–22, § 113(a)(3), substituted “For the purposes of this chapter:” for “For the purposes of this chapter, the term”; designated remainder of existing provisions as par. (2) and inserted par. heading; in par. (2), inserted subpar. (A) designation, heading, and “The term” before “ ‘crime victim’ means” and inserted subpar. (B) designation and heading before “In the case”; and added pars. (1) and (3).
+Subsec. (e). Pub. L. 114–22, § 113(a)(3), substituted “For the purposes of this chapter:” for “For the purposes of this chapter, the term”, designated remainder of existing provisions as par. (2) and inserted par. heading, in par. (2), inserted subpar. (A) designation, heading, and “The term” before “ ‘crime victim’ means” and inserted subpar. (B) designation and heading before “In the case”, and added pars. (1) and (3).
 
 2009—Subsec. (d)(5)(B). Pub. L. 111–16 substituted “14 days” for “10 days”.
 

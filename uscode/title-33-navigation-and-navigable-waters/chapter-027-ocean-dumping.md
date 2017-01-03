@@ -14,7 +14,7 @@ source: >-
 
 (2) the results of activities undertaken pursuant to [section 1442 of this title](./chapter-027-ocean-dumping.md#section-1442);
 
-(3) with the concurrence of the Administrator and after consulting with officials of other appropriate Federal agencies, an identification of the short- and long-term research requirements associated with activities under subchapter I of this chapter, and a description of how Federal research under this subchapter and subchapter I of this chapter will meet those requirements; and
+(3) with the concurrence of the Administrator and after consulting with officials of other appropriate Federal agencies, an identification of the short- and long-term research requirements associated with activities under subchapter I, and a description of how Federal research under this subchapter and subchapter I will meet those requirements; and
 
 (4) activities of the Department of Commerce under [section 665 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section665&num=0&edition=prelim).
 
@@ -222,7 +222,7 @@ In establishing or revising such criteria, the Administrator shall consult with 
 
 **(c) Designation of sites**
 
-(1) **In general** — The Administrator shall, in a manner consistent with the criteria established pursuant to subsection (a) of this section, designate sites or time periods for dumping. The Administrator shall designate sites or time periods for dumping that will mitigate adverse impact on the environment to the greatest extent practicable.
+(1) **In general** — The Administrator shall, in a manner consistent with the criteria established pursuant to subsection (a), designate sites or time periods for dumping. The Administrator shall designate sites or time periods for dumping that will mitigate adverse impact on the environment to the greatest extent practicable.
 
 (2) **Prohibitions regarding site or time period** — In any case where the Administrator determines that, with respect to certain materials, it is necessary to prohibit dumping at a site or during a time period, the Administrator shall prohibit the dumping of such materials in such site or during such time period. This prohibition shall apply to any dumping at the site or during such time period. This prohibition shall apply to any dumping at the site or during the time period, including any dumping under [section 1413(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1413/e&num=0&edition=prelim).
 
@@ -258,7 +258,7 @@ This Act, referred to in subsec. (c)(4), means Pub. L. 92–532, which is classi
 
 1999—Subsec. (c)(4). Pub. L. 106–53 substituted “January 1, 2003” for “January 1, 2000” in third sentence.
 
-1996—Subsec. (e)(4). Pub. L. 104–303 inserted “(other than the site located off the coast of Newport Beach, California, which is known as ‘LA–3’)” after “for a site” and inserted at end “Beginning January 1, 2000, no permit for dumping pursuant to this Act or authorization for dumping under [section 1413(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1413/e&num=0&edition=prelim) shall be issued for the site located off the coast of Newport Beach, California, which is known as ‘LA–3’, unless such site has received a final designation pursuant to this subsection or an alternative site has been selected pursuant to [section 1413(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1413/b&num=0&edition=prelim).”
+1996—Subsec. (c)(4). Pub. L. 104–303 inserted “(other than the site located off the coast of Newport Beach, California, which is known as ‘LA–3’)” after “for a site” and inserted at end “Beginning January 1, 2000, no permit for dumping pursuant to this Act or authorization for dumping under [section 1413(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1413/e&num=0&edition=prelim) shall be issued for the site located off the coast of Newport Beach, California, which is known as ‘LA–3’, unless such site has received a final designation pursuant to this subsection or an alternative site has been selected pursuant to [section 1413(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1413/b&num=0&edition=prelim).”
 
 1992—Subsec. (c). Pub. L. 102–580 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Administrator may, considering the criteria established pursuant to subsection (a) of this section, designate recommended sites or times for dumping and, when he finds it necessary to protect critical areas, shall, after consultation with the Secretary, also designate sites or times within which certain materials may not be dumped.”
 
@@ -312,7 +312,7 @@ Subsecs. (c), (d). Pub. L. 96–572, § 2(2), added subsecs. (c) and (d).
 ## § 1414a. Dumping permit program for dredged mate­rial
 **(a) Issuance by Secretary of the Army** Subject to the provisions of subsections (b), (c), and (d) of this section, the Secretary may issue permits, after notice and opportunity for public hearings, for the transportation of dredged material for the purpose of dumping it into ocean waters, where the Secretary determines that the dumping will not unreasonably degrade or endanger human health, welfare, or amenities, or the marine environment, ecological systems, or economic potentialities.
 
-**(b) Independent determination of need for dumping, other methods of disposal, and appropriate locations; alternative sites** In making the determination required by subsection (a) of this section, the Secretary shall apply those criteria, established pursuant to [section 1412(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/a&num=0&edition=prelim), relating to the effects of the dumping. Based upon an evaluation of the potential effect of a permit denial on navigation, economic and industrial development, and foreign and domestic commerce of the United States, the Secretary shall make an independent determination as to the need for the dumping. The Secretary shall also make an independent determination as to other possible methods of disposal and as to appropriate locations for the dumping. In considering appropriate locations, he shall, to the maximum extent feasible, utilize the recommended sites designated by the Administrator pursuant to [section 1412(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/c&num=0&edition=prelim). In any case in which the use of a designated site is not feasible, the Secretary may, with the concurrence of the Administrator, select an alternative site. The criteria and factors established in [section 1412(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/a&num=0&edition=prelim) relating to site selection shall be used in selecting the alternative site in a manner consistent with the application of such factors and criteria pursuant to [section 1412(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/c&num=0&edition=prelim). Disposal at or in the vicinity of an alternative site shall be limited to a period of not greater than 5 years unless the site is subsequently designated pursuant to [section 1412(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/c&num=0&edition=prelim); except that an alternative site may continue to be used for an additional period of time that shall not exceed 5 years if—
+**(b) Independent determination of need for dumping, other methods of disposal, and appropriate locations; alternative sites** In making the determination required by subsection (a), the Secretary shall apply those criteria, established pursuant to [section 1412(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/a&num=0&edition=prelim), relating to the effects of the dumping. Based upon an evaluation of the potential effect of a permit denial on navigation, economic and industrial development, and foreign and domestic commerce of the United States, the Secretary shall make an independent determination as to the need for the dumping. The Secretary shall also make an independent determination as to other possible methods of disposal and as to appropriate locations for the dumping. In considering appropriate locations, he shall, to the maximum extent feasible, utilize the recommended sites designated by the Administrator pursuant to [section 1412(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/c&num=0&edition=prelim). In any case in which the use of a designated site is not feasible, the Secretary may, with the concurrence of the Administrator, select an alternative site. The criteria and factors established in [section 1412(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/a&num=0&edition=prelim) relating to site selection shall be used in selecting the alternative site in a manner consistent with the application of such factors and criteria pursuant to [section 1412(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/c&num=0&edition=prelim). Disposal at or in the vicinity of an alternative site shall be limited to a period of not greater than 5 years unless the site is subsequently designated pursuant to [section 1412(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/c&num=0&edition=prelim); except that an alternative site may continue to be used for an additional period of time that shall not exceed 5 years if—
 
 (1) no feasible disposal site has been designated by the Administrator;
 
@@ -330,7 +330,7 @@ Subsecs. (c), (d). Pub. L. 96–572, § 2(2), added subsecs. (c) and (d).
 
 (4) **Failure to act** — If no written documentation is made by the Administrator within the time period provided for in paragraph (2), the Secretary may issue the permit.
 
-(5) **Compliance with criteria and restrictions** — Unless the Administrator grants a waiver pursuant to subsection (d) of this section, any permit issued by the Secretary shall require compliance with such criteria and restrictions.
+(5) **Compliance with criteria and restrictions** — Unless the Administrator grants a waiver pursuant to subsection (d), any permit issued by the Secretary shall require compliance with such criteria and restrictions.
 
 **(d) Waiver of requirements** If, in any case, the Secretary finds that, in the disposition of dredged material, there is no economically feasible method or site available other than a dumping site the utilization of which would result in non-compliance with the criteria established pursuant to [section 1412(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/a&num=0&edition=prelim) relating to the effects of dumping or with the restrictions established pursuant to [section 1412(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/c&num=0&edition=prelim) relating to critical areas, he shall so certify and request a waiver from the Administrator of the specific requirements involved. Within thirty days of the receipt of the waiver request, unless the Administrator finds that the dumping of the material will result in an unacceptably adverse impact on municipal water supplies, shell-fish beds, wildlife, fisheries (including spawning and breeding areas), or recreational areas, he shall grant the waiver.
 
@@ -341,7 +341,7 @@ Subsecs. (c), (d). Pub. L. 96–572, § 2(2), added subsecs. (c) and (d).
 #### Amendments
 1992—Subsec. (b). Pub. L. 102–580, § 506(b), inserted “maximum” before “extent feasible” and inserted three sentences at end.
 
-Subsec. (c). Pub. L. 102–580, § 504(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Prior to issuing any permit under this section, the Secretary shall first notify the Administrator of his intention to do so. In any case in which the Administrator disagrees with the determination of the Secretary as to compliance with the criteria established pursuant to [section 1412(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/a&num=0&edition=prelim) relating to the effects of the dumping or with the restrictions established pursuant to [section 1412(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/c&num=0&edition=prelim) relating to critical areas, the determination of the Administrator shall prevail. Unless the Administrator grants a waiver pursuant to subsection (d) of this section, the Secretary shall not issue a permit which does not comply with such criteria and with such restrictions.”
+Subsec. (c). Pub. L. 102–580, § 504(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Prior to issuing any permit under this section, the Secretary shall first notify the Administrator of his intention to do so. In any case in which the Administrator disagrees with the determination of the Secretary as to compliance with the criteria established pursuant to [section 1412(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/a&num=0&edition=prelim) relating to the effects of the dumping or with the restrictions established pursuant to [section 1412(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/c&num=0&edition=prelim) relating to critical areas, the determination of the Administrator shall prevail. Unless the Administrator grants a waiver pursuant to subsection (d), the Secretary shall not issue a permit which does not comply with such criteria and with such restrictions.”
 
 Subsec. (e). Pub. L. 102–580, § 504(b), inserted before period at end “and section 1414(a) and (d) of this title”.
 
@@ -460,7 +460,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
   (B) the day determined by the Administrator to be the first day on which municipal sludge generated by eligible authorities can reasonably be dumped at a site designated under [section 1412 of this title](./chapter-027-ocean-dumping.md#section-1412) other than a site within the Apex.
 
-**(b) Restriction on use of 106-mile site** The Administrator may not issue or renew any permit under this subchapter which authorizes any person, other than a person that is an eligible authority within the meaning of subsection (a)(1)(C) of this section, to dump, or to transport for the purposes of dumping, municipal sludge within the site designated under [section 1412(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/c&num=0&edition=prelim) by the Administrator and known as the “106-Mile Ocean Waste Dump Site” (as described in 49 F.R. 19005).
+**(b) Restriction on use of 106-mile site** The Administrator may not issue or renew any permit under this subchapter which authorizes any person, other than a person that is an eligible authority within the meaning of subsection (a)(1)(C), to dump, or to transport for the purposes of dumping, municipal sludge within the site designated under [section 1412(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1412/c&num=0&edition=prelim) by the Administrator and known as the “106-Mile Ocean Waste Dump Site” (as described in 49 F.R. 19005).
 
 ### Statutory Notes
 
@@ -481,7 +481,7 @@ An identical provision was enacted by Pub. L. 100–4, title V, § 508(a), Feb. 
 
   (A) on and after the 270th day after November 18, 1988, no person (including a person described in [section 1414a(a)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1414a/a/1/C&num=0&edition=prelim)) shall dump into ocean waters, or transport for the purpose of dumping into ocean waters, sewage sludge or industrial waste, unless such person—
 
-    (i) has entered into a compliance agreement or enforcement agreement which meets the requirements of subsection (c)(2) or (3) of this section, as applicable; and
+    (i) has entered into a compliance agreement or enforcement agreement which meets the requirements of subsection (c)(2) or (3), as applicable; and
 
     (ii) has obtained a permit issued under [section 1412 of this title](./chapter-027-ocean-dumping.md#section-1412) which authorizes such transportation and dumping; and
 
@@ -501,27 +501,27 @@ An identical provision was enacted by Pub. L. 100–4, title V, § 508(a), Feb. 
 
 (2) **Payment of fees** — Of the amount of fees under paragraph (1) for which a person is liable, such person—
 
-  (A) shall pay into a trust account established by the person in accordance with subsection (e) of this section a sum equal to 85 percent of such amount;
+  (A) shall pay into a trust account established by the person in accordance with subsection (e) a sum equal to 85 percent of such amount;
 
-  (B) shall pay to the Administrator a sum equal to $15 per dry ton (or equivalent) of sewage sludge and industrial waste transported or dumped by such person, for use for agency activities as provided in subsection (f)(1) of this section;
+  (B) shall pay to the Administrator a sum equal to $15 per dry ton (or equivalent) of sewage sludge and industrial waste transported or dumped by such person, for use for agency activities as provided in subsection (f)(1);
 
   (C) subject to paragraph (5), shall pay into the Clean Oceans Fund established by the State in which the person is located a sum equal to 50 percent of the balance of such amount after application of subparagraphs (A) and (B); and
 
-  (D) subject to paragraph (5), shall pay to the State in which the person is located a sum equal to the balance of such amount after application of subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act [[33 U.S.C. 1381](./chapter-026-water-pollution-prevention-and-control.md#section-1381) et seq.], as provided in subsection (f)(2) of this section.
+  (D) subject to paragraph (5), shall pay to the State in which the person is located a sum equal to the balance of such amount after application of subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act [[33 U.S.C. 1381](./chapter-026-water-pollution-prevention-and-control.md#section-1381) et seq.], as provided in subsection (f)(2).
 
 (3) **Schedule for payment** — Fees under this subsection shall be paid on a quarterly basis.
 
 (4) **Waiver of fees**
 
-  (A) The Administrator shall waive all fees under this subsection, other than the portion of fees required to be paid to the Administrator under paragraph (2)(B) for agency activities, for any person who has entered into a compliance agreement which meets the requirements of subsection (c)(2) of this section.
+  (A) The Administrator shall waive all fees under this subsection, other than the portion of fees required to be paid to the Administrator under paragraph (2)(B) for agency activities, for any person who has entered into a compliance agreement which meets the requirements of subsection (c)(2).
 
   (B) The Administrator shall reimpose fees under this subsection for a person for whom such fees are waived under subparagraph (A) if the Administrator determines that—
 
-    (i) the person has failed to comply with the terms of a compliance agreement which the person entered into under subsection (c)(2) of this section; and
+    (i) the person has failed to comply with the terms of a compliance agreement which the person entered into under subsection (c)(2); and
 
     (ii) such failure is likely to result in the person not being able to terminate by December 31, 1991, dumping of sewage sludge or industrial waste into ocean waters.
 
-  (C) The Administrator may waive fees reimposed for a person under subparagraph (B) if the Administrator determines that the person has returned to compliance with a compliance agreement which the person entered into under subsection (c)(2) of this section.
+  (C) The Administrator may waive fees reimposed for a person under subparagraph (B) if the Administrator determines that the person has returned to compliance with a compliance agreement which the person entered into under subsection (c)(2).
 
 (5) **Payments prior to establishment of account**
 
@@ -593,19 +593,19 @@ An identical provision was enacted by Pub. L. 100–4, title V, § 508(a), Feb. 
 
 (5) **Clean oceans funds**
 
-  (A) Each State that is a party to a compliance agreement or an enforcement agreement under this subsection shall establish an interest bearing account, to be known as a Clean Oceans Fund, into which a person shall pay fees and penalties in accordance with subsections (b)(2)(C) and (d)(2)(C)(i) of this section, respectively.
+  (A) Each State that is a party to a compliance agreement or an enforcement agreement under this subsection shall establish an interest bearing account, to be known as a Clean Oceans Fund, into which a person shall pay fees and penalties in accordance with subsections (b)(2)(C) and (d)(2)(C)(i), respectively.
 
   (B) A State which establishes a Clean Oceans Fund pursuant to this paragraph shall allocate and pay from the fund each year, to each person in the State which has entered into a compliance agreement or enforcement agreement under this subsection, a portion of amounts in the fund on the last day of that year which is equal to the sum of—
 
-    (i) amounts paid by the person into the fund in that year as fees pursuant to subsection (b)(2)(C) of this section and as penalties pursuant to subsection (d)(2)(C)(i) of this section;
+    (i) amounts paid by the person into the fund in that year as fees pursuant to subsection (b)(2)(C) and as penalties pursuant to subsection (d)(2)(C)(i);
 
-    (ii) amounts paid by the Administrator into the fund in that year as fees held in escrow for the person pursuant to subsection (b)(5)(B) of this section; and
+    (ii) amounts paid by the Administrator into the fund in that year as fees held in escrow for the person pursuant to subsection (b)(5)(B); and
 
     (iii) interest on such amounts.
 
   (C) Amounts allocated and paid to a person pursuant to subparagraph (B)—
 
-    (i) shall be used for the purposes described in subsection (e)(2)(B) of this section; and
+    (i) shall be used for the purposes described in subsection (e)(2)(B); and
 
     (ii) may be used for matching Federal grants.
 
@@ -615,7 +615,7 @@ An identical provision was enacted by Pub. L. 100–4, title V, § 508(a), Feb. 
 
 **(d) Penalties**
 
-(1) **In general** — In lieu of any other civil penalty under this Act, any person who has entered into a compliance agreement or enforcement agreement under subsection (c) of this section and who dumps or transports sewage sludge or industrial waste in violation of subsection (a)(1)(B) of this section shall be liable for a civil penalty, to be assessed by the Administrator, as follows:
+(1) **In general** — In lieu of any other civil penalty under this Act, any person who has entered into a compliance agreement or enforcement agreement under subsection (c) and who dumps or transports sewage sludge or industrial waste in violation of subsection (a)(1)(B) shall be liable for a civil penalty, to be assessed by the Administrator, as follows:
 
   (A) For each dry ton (or equivalent) of sewage sludge or industrial waste dumped or transported by the person in violation of this subsection in calendar year 1992, $600.
 
@@ -627,29 +627,29 @@ An identical provision was enacted by Pub. L. 100–4, title V, § 508(a), Feb. 
 
 (2) **Payment of penalty** — Of the amount of penalties under paragraph (1) for which a person is liable, such person—
 
-  (A) shall pay into a trust account established by the person in accordance with subsection (e) of this section a sum which is a percentage of such amount equal to—
+  (A) shall pay into a trust account established by the person in accordance with subsection (e) a sum which is a percentage of such amount equal to—
 
     (i) 90 percent of such amount, reduced by
 
     (ii) 5 percent of such amount for each full calendar year since December 31, 1991;
 
-  (B) shall pay to the Administrator a sum equal to $15 per dry ton (or equivalent) of sewage sludge and industrial waste transported or dumped by such person in that year, for use for agency activities as provided in subsection (f)(1) of this section;
+  (B) shall pay to the Administrator a sum equal to $15 per dry ton (or equivalent) of sewage sludge and industrial waste transported or dumped by such person in that year, for use for agency activities as provided in subsection (f)(1);
 
   (C) for violations in any year before calendar year 1995—
 
     (i) subject to paragraph (4), shall pay into the Clean Oceans Fund established by the State in which the person is located a sum equal to 50 percent of the balance of such amount; and
 
-    (ii) subject to paragraph (4), shall pay to the State in which the person is located a sum equal to the portion of such amount which is not paid as provided in subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act [[33 U.S.C. 1381](./chapter-026-water-pollution-prevention-and-control.md#section-1381) et seq.], as provided in subsection (f)(2) of this section; and
+    (ii) subject to paragraph (4), shall pay to the State in which the person is located a sum equal to the portion of such amount which is not paid as provided in subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act [[33 U.S.C. 1381](./chapter-026-water-pollution-prevention-and-control.md#section-1381) et seq.], as provided in subsection (f)(2); and
 
-  (D) for violations in any year after calendar year 1994, shall pay to the State in which the person is located a sum equal to the balance of such amount, for use by the State for providing assistance under subsection (f)(3) of this section.
+  (D) for violations in any year after calendar year 1994, shall pay to the State in which the person is located a sum equal to the balance of such amount, for use by the State for providing assistance under subsection (f)(3).
 
 (3) **Schedule for payment** — Penalties under this subsection shall be paid on a quarterly basis.
 
-(4) **Payments prior to establishment of account** — In any case in which a State has not established a Clean Oceans Fund or a water pollution control revolving fund under title VI of the Federal Water Pollution Control Act, penalties required to be paid by a person in that State under paragraph (2)(C)(i) or (ii), as applicable, shall be paid to the Administrator for holding and payment or reversion, as applicable, in the same manner as fees are held and paid or revert under subsection (b)(5) of this section.
+(4) **Payments prior to establishment of account** — In any case in which a State has not established a Clean Oceans Fund or a water pollution control revolving fund under title VI of the Federal Water Pollution Control Act, penalties required to be paid by a person in that State under paragraph (2)(C)(i) or (ii), as applicable, shall be paid to the Administrator for holding and payment or reversion, as applicable, in the same manner as fees are held and paid or revert under subsection (b)(5).
 
 **(e) Trust account**
 
-(1) **In general** — A person who enters into a compliance agreement or an enforcement agreement under subsection (c) of this section shall establish a trust account for the payment and use of fees and penalties under this section.
+(1) **In general** — A person who enters into a compliance agreement or an enforcement agreement under subsection (c) shall establish a trust account for the payment and use of fees and penalties under this section.
 
 (2) **Trust account requirements** — An account shall be a trust account for purposes of this subsection only if it meets, to the satisfaction of the Administrator, the following requirements:
 
@@ -661,7 +661,7 @@ An identical provision was enacted by Pub. L. 100–4, title V, § 508(a), Feb. 
 
     (ii) improvements in pretreatment, treatment, and storage techniques for sewage sludge and industrial waste to facilitate the implementation of such alternative system or interim measures.
 
-  (C) Upon a finding by the Administrator that a person did not pay fees or penalties into an account as required by this section, or did not use amounts in the account in accordance with this subsection, the balance of the amounts in the account shall be paid to the State in which the person is located, for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act [[33 U.S.C. 1381](./chapter-026-water-pollution-prevention-and-control.md#section-1381) et seq.], as provided in subsection (f)(2) of this section.
+  (C) Upon a finding by the Administrator that a person did not pay fees or penalties into an account as required by this section, or did not use amounts in the account in accordance with this subsection, the balance of the amounts in the account shall be paid to the State in which the person is located, for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act [[33 U.S.C. 1381](./chapter-026-water-pollution-prevention-and-control.md#section-1381) et seq.], as provided in subsection (f)(2).
 
 (3) **Use of unexpended amounts** — Upon a determination by the Administrator that a person has terminated ocean dumping of sewage sludge or industrial waste, the balance of amounts in an account established by the person under this subsection shall be paid to the person for use—
 
@@ -675,13 +675,13 @@ An identical provision was enacted by Pub. L. 100–4, title V, § 508(a), Feb. 
 
 **(f) Use of fees and penalties**
 
-(1) **Agency activities** — Of the total amount of fees and penalties paid to the Administrator in a fiscal year pursuant to subsections (b)(2)(B) and (d)(2)(B) of this section, respectively—
+(1) **Agency activities** — Of the total amount of fees and penalties paid to the Administrator in a fiscal year pursuant to subsections (b)(2)(B) and (d)(2)(B), respectively—
 
   (A) not to exceed one-third of such total amount shall be used by the Administrator for—
 
     (i) costs incurred or expected to be incurred in undertaking activities directly associated with the issuance under this Act of permits for the transportation or dumping of sewage sludge and industrial waste, including the costs of any environmental assessment of the direct effects of dumping under the permits;
 
-    (ii) preparation of reports under subsection (i) of this section; and
+    (ii) preparation of reports under subsection (i); and
 
     (iii) such other research, studies, and projects the Administrator considers necessary for, and consistent with, the development and implementation of alternative systems for the management of sewage sludge and industrial waste;
 
@@ -693,13 +693,13 @@ An identical provision was enacted by Pub. L. 100–4, title V, § 508(a), Feb. 
 
   (C) not to exceed one-third of such total amount shall be transferred to the Under Secretary of Commerce for Oceans and Atmosphere for use for—
 
-    (i) monitoring, research, and related activities consistent with the program developed pursuant to subsection (j)(1) of this section; and
+    (i) monitoring, research, and related activities consistent with the program developed pursuant to subsection (j)(1); and
 
-    (ii) preparing annual reports to the Congress pursuant to subsection (j)(4) 11 See References in Text note below. of this section which describe the results of such monitoring, research, and activities.
+    (ii) preparing annual reports to the Congress pursuant to subsection (j)(4) 11 See References in Text note below. which describe the results of such monitoring, research, and activities.
 
 (2) **Deposits into State water pollution control revolving fund**
 
-  (A) Amounts paid to a State pursuant to subsection (b)(2)(D), (d)(2)(C)(ii), or (e)(2)(C) of this section shall be deposited into the water pollution control revolving fund established by the State pursuant to title VI of the Federal Water Pollution Control Act [[33 U.S.C. 1381](./chapter-026-water-pollution-prevention-and-control.md#section-1381) et seq.].
+  (A) Amounts paid to a State pursuant to subsection (b)(2)(D), (d)(2)(C)(ii), or (e)(2)(C) shall be deposited into the water pollution control revolving fund established by the State pursuant to title VI of the Federal Water Pollution Control Act [[33 U.S.C. 1381](./chapter-026-water-pollution-prevention-and-control.md#section-1381) et seq.].
 
   (B) Amounts deposited into a State water pollution control revolving fund pursuant to this paragraph—
 
@@ -711,7 +711,7 @@ An identical provision was enacted by Pub. L. 100–4, title V, § 508(a), Feb. 
 
 (3) **Penalty payments to States after 1994**
 
-  (A) Amounts paid to a State as penalties pursuant to subsection (d)(2)(D) of this section may be used by the State—
+  (A) Amounts paid to a State as penalties pursuant to subsection (d)(2)(D) may be used by the State—
 
     (i) for providing assistance to any person in the State—
 
@@ -723,7 +723,7 @@ An identical provision was enacted by Pub. L. 100–4, title V, § 508(a), Feb. 
 
     (ii) for providing assistance to any person in the State who was not required to pay such penalties for construction of treatment works (as defined in section 212 of the Federal Water Pollution Control Act [[33 U.S.C. 1292](./chapter-026-water-pollution-prevention-and-control.md#section-1292)]) which are publicly owned.
 
-  (B) Amounts paid to a State as penalties pursuant to subsection (d)(2)(D) of this section which are not used in accordance with subparagraph (A) shall be deposited into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act. Amounts deposited into such a fund pursuant to this subparagraph—
+  (B) Amounts paid to a State as penalties pursuant to subsection (d)(2)(D) which are not used in accordance with subparagraph (A) shall be deposited into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act. Amounts deposited into such a fund pursuant to this subparagraph—
 
     (i) shall not be used by the State to provide assistance to the person who paid such amounts;
 
@@ -731,13 +731,13 @@ An identical provision was enacted by Pub. L. 100–4, title V, § 508(a), Feb. 
 
     (iii) shall not be subject to State matching requirements under such title.
 
-(4) **Deposits into Treasury as offsetting collections** — Amounts of fees and penalties paid to the Administrator pursuant to subsection (b)(2)(B) or (d)(2)(B) of this section which are used by an agency in accordance with paragraph (1) shall be deposited into the Treasury as offsetting collections of the agency.
+(4) **Deposits into Treasury as offsetting collections** — Amounts of fees and penalties paid to the Administrator pursuant to subsection (b)(2)(B) or (d)(2)(B) which are used by an agency in accordance with paragraph (1) shall be deposited into the Treasury as offsetting collections of the agency.
 
 **(g) Enforcement**
 
-(1) **In general** — Whenever, on the basis of any information available, the Administrator finds that a person is dumping or transporting sewage sludge or industrial waste in violation of subsection (a)(1) of this section, the Administrator shall issue an order requiring such person to terminate such dumping or transporting (as applicable) until such person—
+(1) **In general** — Whenever, on the basis of any information available, the Administrator finds that a person is dumping or transporting sewage sludge or industrial waste in violation of subsection (a)(1), the Administrator shall issue an order requiring such person to terminate such dumping or transporting (as applicable) until such person—
 
-  (A) enters into a compliance agreement or an enforcement agreement under subsection (c) of this section; and
+  (A) enters into a compliance agreement or an enforcement agreement under subsection (c); and
 
   (B) obtains a permit under [section 1412 of this title](./chapter-027-ocean-dumping.md#section-1412) which authorizes such dumping or transporting.
 
@@ -749,17 +749,17 @@ An identical provision was enacted by Pub. L. 100–4, title V, § 508(a), Feb. 
 
   (C) shall require that the person named in the order, as a condition of dumping into ocean waters, or transporting for the purpose of dumping into ocean waters, sewage sludge or industrial waste—
 
-    (i) shall enter into a compliance agreement or an enforcement agreement under subsection (c) of this section; and
+    (i) shall enter into a compliance agreement or an enforcement agreement under subsection (c); and
 
     (ii) shall obtain a permit under [section 1412 of this title](./chapter-027-ocean-dumping.md#section-1412) which authorizes such dumping or transporting.
 
-(3) **Actions** — The Administrator may request the Attorney General to commence a civil action for appropriate relief, including a temporary or permanent injunction and the imposition of civil penalties authorized by subsection (d)(1) of this section, for any violation of subsection (a)(1) of this section or of an order issued by the Administrator under this section. Such an action may be brought in the district court of the United States for the district in which the defendant is located, resides, or is doing business, and such court shall have jurisdiction to restrain such violation and require compliance with subsection (a)(1) of this section and any such order.
+(3) **Actions** — The Administrator may request the Attorney General to commence a civil action for appropriate relief, including a temporary or permanent injunction and the imposition of civil penalties authorized by subsection (d)(1), for any violation of subsection (a)(1) or of an order issued by the Administrator under this section. Such an action may be brought in the district court of the United States for the district in which the defendant is located, resides, or is doing business, and such court shall have jurisdiction to restrain such violation and require compliance with subsection (a)(1) and any such order.
 
 **(h) State progress reports**
 
-(1) **In general** — The Governor of each State that is a party to a compliance agreement or an enforcement agreement under subsection (c) of this section shall submit to the Administrator on September 30 of 1989 and of every year thereafter until the Administrator determines that ocean dumping of sewage sludge and industrial waste by persons located in that State has terminated, a report which describes—
+(1) **In general** — The Governor of each State that is a party to a compliance agreement or an enforcement agreement under subsection (c) shall submit to the Administrator on September 30 of 1989 and of every year thereafter until the Administrator determines that ocean dumping of sewage sludge and industrial waste by persons located in that State has terminated, a report which describes—
 
-  (A) the efforts of each person located in the State to comply with a compliance agreement or enforcement agreement entered into by the person pursuant to subsection (c) of this section, including the extent to which such person has complied with deadlines established by the schedule included in such agreement;
+  (A) the efforts of each person located in the State to comply with a compliance agreement or enforcement agreement entered into by the person pursuant to subsection (c), including the extent to which such person has complied with deadlines established by the schedule included in such agreement;
 
   (B) activity of the State regarding permits for the construction and operation of each alternative system; and
 
@@ -773,7 +773,7 @@ An identical provision was enacted by Pub. L. 100–4, title V, § 508(a), Feb. 
 
   (A) progress being made by persons issued permits under [section 1412 of this title](./chapter-027-ocean-dumping.md#section-1412) for transportation or dumping of sewage sludge or industrial waste in developing alternative systems for managing sewage sludge and industrial waste;
 
-  (B) the efforts of each such person to comply with a compliance agreement or enforcement agreement entered into by the person pursuant to subsection (c) of this section, including the extent to which such person has complied with deadlines established by the schedule included in such agreement;
+  (B) the efforts of each such person to comply with a compliance agreement or enforcement agreement entered into by the person pursuant to subsection (c), including the extent to which such person has complied with deadlines established by the schedule included in such agreement;
 
   (C) progress being made by the Administrator and others in identifying and implementing alternative systems for the management of sewage sludge and industrial waste; and
 
@@ -807,7 +807,7 @@ An identical provision was enacted by Pub. L. 100–4, title V, § 508(a), Feb. 
 
 (1) the term “alternative system” means any method for the management of sewage sludge or industrial waste which does not require a permit under this Act;
 
-(2) the term “Clean Oceans Fund” means such a fund established by a State in accordance with subsection (c)(5) of this section;
+(2) the term “Clean Oceans Fund” means such a fund established by a State in accordance with subsection (c)(5);
 
 (3) the term “excluded material” means—
 
@@ -832,7 +832,7 @@ This Act, referred to in subsecs. (a)(2), (d)(1), (e)(3)(A), (f)(1)(A)(i), (B), 
 
 The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(D), (5)(A), (d)(2)(C)(ii), (4), (e)(2)(C), (3)(A), (B), (f)(2)(A), (B)(ii), (iii), and (3)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. Title VI of that Act is classified to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
 
-Subsection (j)(4) of this section, referred to in subsec. (f)(1)(C)(ii), was omitted from the Code. See Codification note below.
+Subsection (j)(4), referred to in subsec. (f)(1)(C)(ii), was omitted from the Code. See Codification note below.
 
 Section 2301 of the Marine Plastic Pollution Research and Control Act of 1987, referred to in subsec. (f)(3)(A)(i)(III), is section 2301 of Pub. L. 100–220 which is set out as a note under [section 2267 of this title](./chapter-036-water-resources-development.md#section-2267).
 
@@ -867,7 +867,7 @@ This Act, referred to in subsec. (b)(1), means Pub. L. 92–532, which is classi
 ## § 1417. Penalties
 **(a) Assessment of civil penalty by Administrator; remission or mitigation; court action for appropriate relief** Any person who violates any provision of this subchapter, or of the regulations promulgated under this subchapter, or a permit issued under this subchapter shall be liable to a civil penalty of not more than $50,000 for each violation to be assessed by the Administrator. In addition, any person who violates this subchapter or any regulation issued under this subchapter by engaging in activity involving the dumping of medical waste shall be liable for a civil penalty of not more than $125,000 for each violation, to be assessed by the Administrator after written notice and an opportunity for a hearing. No penalty shall be assessed until the person charged shall have been given notice and an opportunity for a hearing of such violation. In determining the amount of the penalty, the gravity of the violation, prior violations, and the demonstrated good faith of the person charged in attempting to achieve rapid compliance after notification of a violation shall be considered by said Administrator. For good cause shown, the Administrator may remit or mitigate such penalty. Upon failure of the offending party to pay the penalty, the Administrator may request the Attorney General to commence an action in the appropriate district court of the United States for such relief as may be appropriate.
 
-**(b) Criminal penalties** In addition to any action that may be brought under subsection (a) of this section—
+**(b) Criminal penalties** In addition to any action that may be brought under subsection (a)—
 
 (1) any person who knowingly violates any provision of this subchapter, any regulation promulgated under this subchapter, or a permit issued under this subchapter, shall be fined under title 18 or imprisoned for not more than 5 years, or both; and
 
@@ -913,7 +913,7 @@ This Act, referred to in subsec. (b)(1), means Pub. L. 92–532, which is classi
 
 **(i) Seizure and forfeiture**
 
-(1) **In general** — Any vessel used to commit an act for which a penalty is imposed under subsection (b) of this section shall be subject to seizure and forfeiture to the United States under procedures established for seizure and forfeiture of conveyances under sections 853 and 881 of title 21.
+(1) **In general** — Any vessel used to commit an act for which a penalty is imposed under subsection (b) shall be subject to seizure and forfeiture to the United States under procedures established for seizure and forfeiture of conveyances under sections 853 and 881 of title 21.
 
 (2) **Limitation on application** — This subsection does not apply to an act committed substantially in accordance with a compliance agreement or enforcement agreement entered into by the Administrator under [section 1414b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1414b/c&num=0&edition=prelim).
 
@@ -927,7 +927,7 @@ Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e
 
 “(1) In addition to any action which may be brought under subsection (a) of this section, a person who knowingly violates this subchapter, regulations promulgated under this subchapter, or a permit issued under this subchapter shall be fined not more than $50,000, or imprisoned for not more than one year, or both.
 
-“(2) In addition to any action which may be brought under subsection (a) of this section, any person—
+“(2) In addition to any action which may be brought under subsection (a), any person—
 
 “(A) who knowingly violates any provision of this subchapter by engaging in activity involving the dumping into ocean waters of medical waste shall upon conviction be fined not more than $250,000, or imprisoned for not more than 5 years, or both; and
 
@@ -944,7 +944,7 @@ Subsec. (b). Pub. L. 100–688, § 3201(d), designated existing provisions as pa
 ## § 1418. Relationship to other laws
 **(a) Voiding of preexisting licenses** After the effective date of this subchapter, all licenses, permits, and authorizations other than those issued pursuant to this subchapter shall be void and of no legal effect, to the extent that they purport to authorize any activity regulated by this subchapter, and whether issued before or after the effective date of this subchapter.
 
-**(b) Actions under authority of Rivers and Harbors Act** The provisions of subsection (a) of this section shall not apply to actions taken before the effective date of this subchapter under the authority of the Rivers and Harbors Act of 1899 (30 Stat. 1151), as amended ([33 U.S.C. 401](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-401) et seq.).
+**(b) Actions under authority of Rivers and Harbors Act** The provisions of subsection (a) shall not apply to actions taken before the effective date of this subchapter under the authority of the Rivers and Harbors Act of 1899 (30 Stat. 1151), as amended ([33 U.S.C. 401](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-401) et seq.).
 
 **(c) Impairment of navigation** Prior to issuing any permit under this subchapter, if it appears to the Administrator that the disposition of material, other than dredged material, may adversely affect navigation in the territorial sea of the United States, or in the approaches to any harbor of the United States, or may create an artificial island on the Outer Continental Shelf, the Administrator shall consult with the Secretary and no permit shall be issued if the Secretary determines that navigation will be unreasonably impaired.
 
@@ -1084,7 +1084,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (1) The Secretary of Commerce, in close consultation with other appropriate Federal departments, agencies, and instrumentalities shall, within six months of October 23, 1972, initiate a comprehensive and continuing program of research with respect to the possible long-range effects of pollution, overfishing, and man-induced changes of ocean ecosystems. These responsibilities shall include the scientific assessment of damages to the natural resources from spills of petroleum or petroleum products. In carrying out such research, the Secretary of Commerce shall take into account such factors as existing and proposed international policies affecting oceanic problems, economic considerations involved in both the protection and the use of the oceans, possible alternatives to existing programs, and ways in which the health of the oceans may best be preserved for the benefit of succeeding generations of mankind.
 
-(2) The Secretary of Commerce shall ensure that the program under this section complements, when appropriate, the activities undertaken by other Federal agencies pursuant to subchapter I of this chapter and [section 1443 of this title](./chapter-027-ocean-dumping.md#section-1443). That program shall include but not be limited to—
+(2) The Secretary of Commerce shall ensure that the program under this section complements, when appropriate, the activities undertaken by other Federal agencies pursuant to subchapter I and [section 1443 of this title](./chapter-027-ocean-dumping.md#section-1443). That program shall include but not be limited to—
 
   (A) the development and assessment of scientific techniques to define and quantify the degradation of the marine environment;
 
@@ -1154,7 +1154,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(d) Report on sewage disposal in New York metropolitan area** The Administrator, in cooperation with the Secretary of Commerce, shall submit to the Congress and the President, not later than one year after April 7, 1986, a report on sewage sludge disposal in the New York City metropolitan region. The report shall—
 
-(1) consider the factors listed in subsection (c) of this section as they relate to landfilling, incineration, ocean dumping, or any other feasible disposal or reuse/recycling option;
+(1) consider the factors listed in subsection (c) as they relate to landfilling, incineration, ocean dumping, or any other feasible disposal or reuse/recycling option;
 
 (2) include an assessment of the cost of these alternatives; and
 

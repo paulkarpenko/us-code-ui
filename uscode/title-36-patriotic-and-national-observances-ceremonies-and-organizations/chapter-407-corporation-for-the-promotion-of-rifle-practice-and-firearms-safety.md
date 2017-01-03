@@ -2,7 +2,7 @@
 title: 36
 chapter: '407'
 heading: CORPORATION FOR THE PROMOTION OF RIFLE PRACTICE AND FIREARMS SAFETY
-section_count: 21
+section_count: 22
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36&num=0&edition=prelim
 ---
@@ -412,6 +412,12 @@ In subsection (b)(2), the words “for the use of” and “performance of” ar
 
 **(g) Cost of Transfers.—** A transfer of firearms, ammunition, or parts to the corporation under this section shall be made without cost to the corporation, except that the corporation shall assume the cost of preparation and transportation of firearms and ammunition transferred under this section.
 
+**(h) Authorized Transfers.—**
+
+(1) Subject to paragraph (2), the Secretary may transfer to the corporation, in accordance with the procedure prescribed in this subchapter, surplus caliber .45 M1911/M1911A1 pistols and spare parts and related accessories for those pistols that, on the date of the enactment of this subsection, are under the control of the Secretary and are surplus to the requirements of the Department of the Army, and such material as may be recovered by the Secretary pursuant to [section 40728A(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section40728A/a&num=0&edition=prelim). The Secretary shall determine a reasonable schedule for the transfer of such surplus pistols.
+
+(2) The Secretary may not transfer more than 10,000 surplus caliber .45 M1911/M1911A1 pistols to the corporation during any year and may only transfer such pistols as long as pistols described in paragraph (1) remain available for transfer.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -440,31 +446,85 @@ In subsection (e), the words “transfer . . . to” are substituted for “make
 #### References in Text
 Sections 4307 and 4308 of title 10, referred to in subsecs. (a) and (d), were repealed by Pub. L. 104–106, div. A, title XVI, § 1624(a)(1), Feb. 10, 1996, 110 Stat. 522.
 
+The date of the enactment of this subsection, referred to in subsec. (h)(1), is the date of enactment of Pub. L. 114–92, which was approved Nov. 25, 2015.
+
+#### Amendments
+2015—Subsec. (h). Pub. L. 114–92 added subsec. (h).
+
+#### Transfers of Surplus Firearms to Corporation for the Promotion of Rifle Practice and Firearms Safety: Pilot Program and Limitation
+Pub. L. 114–92, div. A, title X, § 1087(b), (c), Nov. 25, 2015, 129 Stat. 1013, 1014, provided that: “(b) Pilot Program.—“(1) One-year authority.—The Secretary of the Army may carry out a one-year pilot program under which the Secretary may transfer to the Corporation for the Promotion of Rifle Practice and Firearms Safety not more than 10,000 firearms described in paragraph (2). “(2) Firearms described.—The firearms described in this paragraph are surplus caliber .45 M1911/M1911A1 pistols and spare parts and related accessories for those pistols that, on the date of the enactment of this section [Nov. 25, 2015], are under the control of the Secretary and are surplus to the requirements of the Department of the Army. “(3) Transfer requirements.—Transfers of surplus caliber .45 M1911/M1911A1 pistols from the Army to the Corporation under the pilot program shall be made in accordance with subchapter II of chapter 407 of title 36, United States Code. “(4) Reports to congress.—“(A) Interim report.—Not later than 90 days after the Secretary initiates the pilot program under this subsection, the Secretary shall submit to Congress an interim report on the pilot program. “(B) Final report.—Not later than 15 days after the Secretary completes the pilot program under this subsection, the Secretary shall submit to Congress a final report on the pilot program. “(C) Contents of report.—Each report required by this subsection shall include, for the period covered by the report—“(i) the number of firearms described in subsection (a)(2) transferred under the pilot program; and “(ii) information on any crimes committed using firearms transferred under the pilot program. “(c) Limitation on Transfer of Surplus Caliber .45 M1911/M1911A1 Pistols.—The Secretary may not transfer firearms described in subsection (b)(2) under subchapter II of chapter 407 of title 36, United States Code, until the date that is 60 days after the date of the submittal of the final report required under subsection (b)(4)(B).”
+
 
 <a id="section-40728a"></a>
 ## § 40728A. Recovery of excess firearms, ammunition, and parts granted to foreign countries and transfer to corporation
-**(a) Authority to Recover.—** The Secretary of the Army may recover from any country to which rifles, ammunition, repair parts, or other supplies described in [section 40731(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section40731/a&num=0&edition=prelim) are furnished on a grant basis under the conditions imposed by section 505 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2314](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2314&num=0&edition=prelim)) any such rifles, ammunition, repair parts, or supplies that become excess to the needs of such country.
+**(a) Authority to Recover.—** The Secretary of the Army may recover from any country to which surplus firearms, ammunition, repair parts, or other supplies described in [section 40732(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section40732/a&num=0&edition=prelim) are furnished on a grant basis under the conditions imposed by section 505 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2314](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2314&num=0&edition=prelim)) any such surplus firearms, ammunition, repair parts, or supplies that become excess to the needs of such country.
 
 **(b) Cost of Recovery.—**
 
-(1) Except as provided in paragraph (2), the cost of recovery of any rifles, ammunition, repair parts, or supplies under subsection (a) shall be treated as incremental direct costs incurred in providing logistical support to the corporation for which reimbursement shall be required as provided in [section 40727(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section40727/a&num=0&edition=prelim).
+(1) Except as provided in paragraph (2), the cost of recovery of any surplus firearms, ammunition, repair parts, or supplies under subsection (a) shall be treated as incremental direct costs incurred in providing logistical support to the corporation for which reimbursement shall be required as provided in [section 40727(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section40727/a&num=0&edition=prelim).
 
 (2) The Secretary may require the corporation to pay costs of recovery described in paragraph (1) in advance of incurring such costs. Amounts so paid shall not be subject to the provisions of [section 3302 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3302&num=0&edition=prelim), but shall be administered in accordance with the last sentence of [section 40727(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section40727/a&num=0&edition=prelim).
 
-**(c) Availability for Transfer to Corporation.—** Any rifles, ammunition, repair parts, or supplies recovered under subsection (a) shall be available for transfer to the corporation in accordance with [section 40728 of this title](./chapter-407-corporation-for-the-promotion-of-rifle-practice-and-firearms-safety.md#section-40728) under such additional terms and conditions as the Secretary shall prescribe for purposes of this section.
+**(c) Availability for Transfer to Corporation.—** Any surplus firearms, ammunition, repair parts, or supplies recovered under subsection (a) shall be available for transfer to the corporation in accordance with [section 40728 of this title](./chapter-407-corporation-for-the-promotion-of-rifle-practice-and-firearms-safety.md#section-40728) under such additional terms and conditions as the Secretary shall prescribe for purposes of this section.
+
+### Statutory Notes
+
+#### Amendments
+2015—Pub. L. 114–92, § 1087(a)(2)(A)(i), substituted “surplus firearms” for “rifles” wherever appearing.
+
+Subsec. (a). Pub. L. 114–92, § 1087(a)(2)(A)(ii), substituted “section 40732(a)” for “section 40731(a)”.
+
+
+<a id="section-40728b"></a>
+## § 40728B. Recovery of excess rifles, ammunition, and parts granted to foreign countries and transfer to certain persons
+**(a) Authority to Recover.—**
+
+(1) Subject to paragraph (2) and subsection (b), the Secretary of the Army may acquire from any person any rifle, ammunition, repair parts, or other supplies described in [section 40731(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section40731/a&num=0&edition=prelim) which were—
+
+  (A) provided to any country on a grant basis under the conditions imposed by section 505 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2314](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2314&num=0&edition=prelim)) that became excess to the needs of such country; and
+
+  (B) lawfully acquired by such person.
+
+(2) The Secretary of the Army may not acquire anything under paragraph (1) except for transfer to a person in the United States under subsection (c).
+
+(3) The Secretary of the Army may accept rifles, ammunition, repair parts, or other supplies under paragraph (1) notwithstanding [section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim).
+
+**(b) Cost of Recovery.—** The Secretary of the Army may not acquire anything under subsection (a) if the United States would incur any cost for such acquisition.
+
+**(c) Availability for Transfer.—** Any rifles, ammunition, repair parts, or supplies acquired under subsection (a) shall be available for transfer in the United States to the person from whom acquired if such person—
+
+(1) is licensed as a manufacturer, importer, or dealer pursuant to [section 923(a) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section923/a&num=0&edition=prelim); and
+
+(2) uses an ammunition depot of the Army that is an eligible facility for receipt of any rifles, ammunition, repair parts, or supplies under this paragraph.
+
+**(d) Market Value.—** The Secretary of the Army may only transfer an item under subsection (c) if the Secretary receives fair market value for the item.
+
+**(e) Contracts.—** Notwithstanding subsection (k) of [section 2304 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304&num=0&edition=prelim), the Secretary may enter into such contracts or cooperative agreements on a sole source basis pursuant to paragraphs (4) and (5) of subsection (c) of such section to carry out this section.
+
+**(f) AECA.—** Transfers authorized under this section may only be made in accordance with applicable provisions of the Arms Export Control Act ([22 U.S.C. 2778](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2778&num=0&edition=prelim)).
+
+**(g) Rifle Defined.—** In this section, the term “rifle” has the meaning given such term in [section 921 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section921&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+The Arms Export Control Act, referred to in subsec. (f), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) and Tables.
+
+#### Report on Acquisition and Transfer
+Pub. L. 114–328, div. A, title X, § 1096(d), Dec. 23, 2016, 130 Stat. 2441, provided that: “(1) Report required.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of the Army shall submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives a report on the acquisition and transfer of excess rifles, ammunition, repair parts, and other supplies described in [section 40731(a) of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section40731/a&num=0&edition=prelim), United States Code, that were provided to a country on a grant basis under the conditions imposed by section 505 of the Foreign Assistance Act of 1961 [[22 U.S.C. 2314](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2314&num=0&edition=prelim)]. The report shall include each of the following:“(A) A list of excess rifles, ammunition, repair parts, and other supplies known to the United States Army as eligible for transfer under [section 40731(a) of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section40731/a&num=0&edition=prelim), United States Code. “(B) An assessment of whether and how the Secretary of the Army intends to use the authorities under [section 40728B of title 36](./chapter-407-corporation-for-the-promotion-of-rifle-practice-and-firearms-safety.md#section-40728b), United States Code, as added by this section. “(C) Any other issue that the Secretary of the Army considers appropriate. “(2) Prohibition on transfers pending submittal of report.—No rifle, ammunition, repair part, or supplies acquired under [section 40728B(a) of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section40728B/a&num=0&edition=prelim), United States Code, may be transferred until the date that is 90 days after the date of the submittal of the report required under paragraph (1).”
 
 
 <a id="section-40729"></a>
 ## § 40729. Reservation of firearms, ammunition, and parts
 **(a) Reservation.—** The Secretary of the Army shall reserve for the corporation—
 
-(1) firearms described in [section 40728(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section40728/a&num=0&edition=prelim);
+(1) firearms described in subsections (a) and (h) of [section 40728 of this title](./chapter-407-corporation-for-the-promotion-of-rifle-practice-and-firearms-safety.md#section-40728);
 
-(2) ammunition for firearms described in 40728(a) of this title;
+(2) ammunition for firearms described in subsections (a) and (h) of [section 40728 of this title](./chapter-407-corporation-for-the-promotion-of-rifle-practice-and-firearms-safety.md#section-40728);
 
 (3) M–16 rifles held by the Department of the Army on February 10, 1996, and used to support the small-arms firing school; and
 
-(4) parts from, and other supplies for, surplus caliber .30 and caliber .22 rimfire rifles.
+(4) parts from, and other supplies for, surplus caliber .30 and caliber .22 rimfire rifles and caliber .45 M1911/M1911A1 surplus pistols.
 
 **(b) Exception.—** This section does not supersede the authority provided in section 1208 of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; [10 U.S.C. 372](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section372&num=0&edition=prelim) note).
 
@@ -479,7 +539,14 @@ Sections 4307 and 4308 of title 10, referred to in subsecs. (a) and (d), were re
 In subsection (a)(4), the words “other supplies” are substituted for “accessories and accouterments” for consistency in the revised title.
 
 #### References in Text
-Section 1208 of the National Defense Authorization Act for Fiscal Years 1990 and 1991, referred to in subsec. (b), is section 1208 of Pub. L. 101–189, div. A, title XII, Nov. 29, 1989, 103 Stat. 1566, as amended, which was set out as a note under [section 372 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section372&num=0&edition=prelim), Armed Forces, and was repealed and restated in [section 2576a of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2576a&num=0&edition=prelim) by Pub. L. 104–201, div. A, title X, § 1033(a)(1), (b)(1), Sept. 23, 1996, 110 Stat. 2639, 2640.
+Section 1208 of the National Defense Authorization Act for Fiscal Years 1990 and 1991, referred to in subsec. (b), is section 1208 of Pub. L. 101–189, div. A, title XII, Nov. 29, 1989, 103 Stat. 1566, which was set out as a note under [section 372 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section372&num=0&edition=prelim), Armed Forces, and was repealed and restated in [section 2576a of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2576a&num=0&edition=prelim) by Pub. L. 104–201, div. A, title X, § 1033(a)(1), (b)(1), Sept. 23, 1996, 110 Stat. 2639, 2640. [Section 372 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section372&num=0&edition=prelim) was renumbered [section 272 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section272&num=0&edition=prelim) by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+
+#### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–92, § 1087(a)(2)(B)(i), substituted “subsections (a) and (h) of section 40728” for “section 40728(a)”.
+
+Subsec. (a)(2). Pub. L. 114–92, § 1087(a)(2)(B)(ii), substituted “subsections (a) and (h) of section 40728” for “40728(a)”.
+
+Subsec. (a)(4). Pub. L. 114–92, § 1087(a)(2)(B)(iii), inserted “and caliber .45 M1911/M1911A1 surplus pistols” after “caliber .30 and caliber .22 rimfire rifles”.
 
 
 <a id="section-40730"></a>
@@ -528,23 +595,25 @@ In subsection (b) the words “shall ensure” are substituted for “shall be r
 
 <a id="section-40732"></a>
 ## § 40732. Sale of firearms and supplies
-**(a) Affiliated Organizations.—** The corporation may sell, at fair market value, caliber .22 rimfire and caliber .30 surplus rifles, air rifles, caliber .22 and .30 ammunition, repair parts, and other supplies to organizations affiliated with the corporation that provide training in the use of firearms.
+**(a) Affiliated Organizations.—** The corporation may sell, at fair market value, surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, and caliber .45 M1911/M1911A1 surplus pistols, air rifles, caliber .22 and .30 ammunition, repair parts, and other supplies to organizations affiliated with the corporation that provide training in the use of firearms.
 
 **(b) Gun Club Members.—**
 
-(1) The corporation may sell, at fair market value, caliber .22 rimfire and caliber .30 surplus rifles, ammunition, repair parts and other supplies necessary for target practice to a citizen of the United States who is over 18 years of age and who is a member of a gun club affiliated with the corporation.
+(1) The corporation may sell, at fair market value, surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, and caliber .45 M1911/M1911A1 surplus pistols, ammunition, repair parts and other supplies necessary for target practice to a citizen of the United States who is legally of age and who is a member of a gun club affiliated with the corporation.
 
 (2) Except as provided in [section 40733 of this title](./chapter-407-corporation-for-the-promotion-of-rifle-practice-and-firearms-safety.md#section-40733), sales under this subsection are subject to applicable United States, State, and local law. In addition to any other requirement, the corporation shall establish procedures to obtain a criminal records check of the individual with United States Government and State law enforcement agencies.
 
 **(c) Limitation on Sales.—**
 
-(1) The corporation may not sell a repair part designed to convert a firearm to fire in a fully automatic mode.
+(1) No person acquiring a firearm under this chapter may sell a repair part designed to convert a firearm to fire in a fully automatic mode.
 
 (2) The corporation may not sell any item to an individual who has been convicted of—
 
   (A) a felony; or
 
   (B) a violation of [section 922 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim).
+
+**(d) Sales by Other Persons.—** A person who receives a rifle or any ammunition, repair parts, or supplies under [section 40728B(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section40728B/c&num=0&edition=prelim) may sell, at fair market value, such rifle, ammunition, repair parts, or supplies. With respect to rifles other than caliber .22 rimfire and caliber .30 rifles, the seller shall obtain a license as a dealer in rifles and abide by all requirements imposed on persons licensed under chapter 44 of title 18, including maintaining acquisition and disposition records, and conducting background checks.
 
 ### Statutory Notes
 
@@ -567,11 +636,21 @@ In subsection (c)(1), the word “sell” is substituted for “offer for sale�
 
 In subsection (c)(2), the words “any item” are substituted for “rifles, ammunition, or any other item available for sale to individuals under the Civilian Marksmanship Program” to eliminate unnecessary words.
 
+#### Amendments
+2016—Subsec. (c)(1). Pub. L. 114–328, § 1096(b)(2), substituted “No person acquiring a firearm under this chapter may” for “The corporation may not”.
+
+Subsec. (d). Pub. L. 114–328, § 1096(b)(1), added subsec. (d).
+
+2015—Subsec. (a). Pub. L. 114–92, § 1087(a)(2)(C)(i), substituted “surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, and caliber .45 M1911/M1911A1 surplus pistols” for “caliber .22 rimfire and caliber .30 surplus rifles”.
+
+Subsec. (b)(1). Pub. L. 114–92 substituted “surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, and caliber .45 M1911/M1911A1 surplus pistols” for “caliber .22 rimfire and caliber .30 surplus rifles” and “is legally of age” for “is over 18 years of age”.
+
 
 <a id="section-40733"></a>
 ## § 40733. Applicability of other law
+**(a) In General.—** Except as provided in subsection (b), section 922(a)(1)–(3) and (5) of title 18 does not apply to the shipment, transportation, receipt, transfer, sale, issuance, loan, or delivery by the corporation, of an item that the corporation is authorized to issue, loan, sell, or receive under this chapter.
 
-Section 922(a)(1)–(3) and (5) of title 18 does not apply to the shipment, transportation, receipt, transfer, sale, issuance, loan, or delivery by the corporation, of an item that the corporation is authorized to issue, loan, sell, or receive under this chapter.
+**(b) Exception.—** With respect to firearms other than caliber .22 rimfire and caliber .30 rifles, the corporation shall obtain a license as a dealer in firearms and abide by all requirements imposed on persons licensed under chapter 44 of title 18, including maintaining acquisition and disposition records, and conducting background checks.
 
 ### Statutory Notes
 
@@ -579,3 +658,6 @@ Section 922(a)(1)–(3) and (5) of title 18 does not apply to the shipment, tran
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 40733 | 36:5504(e)(2). | Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1614(e)(2), 110 Stat. 518. |
+
+#### Amendments
+2015—Pub. L. 114–92 designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b), section” for “Section”, and added subsec. (b).

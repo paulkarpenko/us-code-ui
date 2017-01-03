@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-7001"></a>
 ## § 7001. General rule of validity
-**(a) In general** Notwithstanding any statute, regulation, or other rule of law (other than this subchapter and subchapter II of this chapter), with respect to any transaction in or affecting interstate or foreign commerce—
+**(a) In general** Notwithstanding any statute, regulation, or other rule of law (other than this subchapter and subchapter II), with respect to any transaction in or affecting interstate or foreign commerce—
 
 (1) a signature, contract, or other record relating to such transaction may not be denied legal effect, validity, or enforceability solely because it is in electronic form; and
 
@@ -22,7 +22,7 @@ source: >-
 
 **(c) Consumer disclosures**
 
-(1) **Consent to electronic records** — Notwithstanding subsection (a) of this section, if a statute, regulation, or other rule of law requires that information relating to a transaction or transactions in or affecting interstate or foreign commerce be provided or made available to a consumer in writing, the use of an electronic record to provide or make available (whichever is required) such information satisfies the requirement that such information be in writing if—
+(1) **Consent to electronic records** — Notwithstanding subsection (a), if a statute, regulation, or other rule of law requires that information relating to a transaction or transactions in or affecting interstate or foreign commerce be provided or made available to a consumer in writing, the use of an electronic record to provide or make available (whichever is required) such information satisfies the requirement that such information be in writing if—
 
   (A) the consumer has affirmatively consented to such use and has not withdrawn such consent;
 
@@ -76,7 +76,7 @@ source: >-
 
 (4) **Checks** — If a statute, regulation, or other rule of law requires the retention of a check, that requirement is satisfied by retention of an electronic record of the information on the front and back of the check in accordance with paragraph (1).
 
-**(e) Accuracy and ability to retain contracts and other records** Notwithstanding subsection (a) of this section, if a statute, regulation, or other rule of law requires that a contract or other record relating to a transaction in or affecting interstate or foreign commerce be in writing, the legal effect, validity, or enforceability of an electronic record of such contract or other record may be denied if such electronic record is not in a form that is capable of being retained and accurately reproduced for later reference by all parties or persons who are entitled to retain the contract or other record.
+**(e) Accuracy and ability to retain contracts and other records** Notwithstanding subsection (a), if a statute, regulation, or other rule of law requires that a contract or other record relating to a transaction in or affecting interstate or foreign commerce be in writing, the legal effect, validity, or enforceability of an electronic record of such contract or other record may be denied if such electronic record is not in a form that is capable of being retained and accurately reproduced for later reference by all parties or persons who are entitled to retain the contract or other record.
 
 **(f) Proximity** Nothing in this subchapter affects the proximity required by any statute, regulation, or other rule of law with respect to any warning, notice, disclosure, or other record required to be posted, displayed, or publicly affixed.
 
@@ -84,7 +84,7 @@ source: >-
 
 **(h) Electronic agents** A contract or other record relating to a transaction in or affecting interstate or foreign commerce may not be denied legal effect, validity, or enforceability solely because its formation, creation, or delivery involved the action of one or more electronic agents so long as the action of any such electronic agent is legally attributable to the person to be bound.
 
-**(i) Insurance** It is the specific intent of the Congress that this subchapter and subchapter II of this chapter apply to the business of insurance.
+**(i) Insurance** It is the specific intent of the Congress that this subchapter and subchapter II apply to the business of insurance.
 
 **(j) Insurance agents and brokers** An insurance agent or broker acting under the direction of a party that enters into a contract by means of an electronic record or electronic signature may not be held liable for any deficiency in the electronic procedures agreed to by the parties under that contract if—
 
@@ -102,7 +102,7 @@ This chapter, referred to in subsec. (c)(2)(B), was in the original “this Act�
 For the effective date of this subchapter, referred to in subsec. (c)(5), see Effective Date note below.
 
 #### Effective Date
-Pub. L. 106–229, title I, § 107, June 30, 2000, 114 Stat. 473, provided that: “(a) In General.—Except as provided in subsection (b), this title [enacting this subchapter] shall be effective on October 1, 2000. “(b) Exceptions.—“(1) Record retention.—“(A) In general.—Subject to subparagraph (B), this title [enacting this subchapter] shall be effective on March 1, 2001, with respect to a requirement that a record be retained imposed by—“(i) a Federal statute, regulation, or other rule of law, or “(ii) a State statute, regulation, or other rule of law administered or promulgated by a State regulatory agency. “(B) Delayed effect for pending rulemakings.—If on March 1, 2001, a Federal regulatory agency or State regulatory agency has announced, proposed, or initiated, but not completed, a rulemaking proceeding to prescribe a regulation under section 104(b)(3) [[15 U.S.C. 7004(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7004/b/3&num=0&edition=prelim)] with respect to a requirement described in subparagraph (A), this title shall be effective on June 1, 2001, with respect to such requirement. “(2) Certain guaranteed and insured loans.—With regard to any transaction involving a loan guarantee or loan guarantee commitment (as those terms are defined in section 502 of the Federal Credit Reform Act of 1990 [[2 U.S.C. 661a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim)]), or involving a program listed in the Federal Credit Supplement, Budget of the United States, FY 2001, this title applies only to such transactions entered into, and to any loan or mortgage made, insured, or guaranteed by the United States Government thereunder, on and after one year after the date of enactment of this Act [June 30, 2000]. “(3) Student loans.—With respect to any records that are provided or made available to a consumer pursuant to an application for a loan, or a loan made, pursuant to title IV of the Higher Education Act of 1965 [[20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq., [42 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751&num=0&edition=prelim) et seq.], section 101(c) of this Act [[15 U.S.C. 7001(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7001/c&num=0&edition=prelim)] shall not apply until the earlier of—“(A) such time as the Secretary of Education publishes revised promissory notes under section 432(m) of the Higher Education Act of 1965 [[20 U.S.C. 1082(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1082/m&num=0&edition=prelim)]; or “(B) one year after the date of enactment of this Act [June 30, 2000].”
+Pub. L. 106–229, title I, § 107, June 30, 2000, 114 Stat. 473, provided that: “(a) In General.—Except as provided in subsection (b), this title [enacting this subchapter] shall be effective on October 1, 2000. “(b) Exceptions.—“(1) Record retention.—“(A) In general.—Subject to subparagraph (B), this title [enacting this subchapter] shall be effective on March 1, 2001, with respect to a requirement that a record be retained imposed by—“(i) a Federal statute, regulation, or other rule of law, or “(ii) a State statute, regulation, or other rule of law administered or promulgated by a State regulatory agency. “(B) Delayed effect for pending rulemakings.—If on March 1, 2001, a Federal regulatory agency or State regulatory agency has announced, proposed, or initiated, but not completed, a rulemaking proceeding to prescribe a regulation under section 104(b)(3) [[15 U.S.C. 7004(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7004/b/3&num=0&edition=prelim)] with respect to a requirement described in subparagraph (A), this title shall be effective on June 1, 2001, with respect to such requirement. “(2) Certain guaranteed and insured loans.—With regard to any transaction involving a loan guarantee or loan guarantee commitment (as those terms are defined in section 502 of the Federal Credit Reform Act of 1990 [[2 U.S.C. 661a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim)]), or involving a program listed in the Federal Credit Supplement, Budget of the United States, FY 2001, this title applies only to such transactions entered into, and to any loan or mortgage made, insured, or guaranteed by the United States Government thereunder, on and after one year after the date of enactment of this Act [June 30, 2000]. “(3) Student loans.—With respect to any records that are provided or made available to a consumer pursuant to an application for a loan, or a loan made, pursuant to title IV of the Higher Education Act of 1965 [[20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq.], section 101(c) of this Act [[15 U.S.C. 7001(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7001/c&num=0&edition=prelim)] shall not apply until the earlier of—“(A) such time as the Secretary of Education publishes revised promissory notes under section 432(m) of the Higher Education Act of 1965 [[20 U.S.C. 1082(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1082/m&num=0&edition=prelim)]; or “(B) one year after the date of enactment of this Act [June 30, 2000].”
 
 #### Short Title
 Pub. L. 106–229, § 1, June 30, 2000, 114 Stat. 464, provided that: “This Act [enacting this chapter and amending provisions set out as a note under [section 231 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section231&num=0&edition=prelim), Telecommunications] may be cited as the ‘Electronic Signatures in Global and National Commerce Act’.”
@@ -112,21 +112,26 @@ Pub. L. 106–229, § 1, June 30, 2000, 114 Stat. 464, provided that: “This Ac
 ## § 7002. Exemption to preemption
 **(a) In general** A State statute, regulation, or other rule of law may modify, limit, or supersede the provisions of [section 7001 of this title](./chapter-096-electronic-signatures-in-global-and-national-commerce.md#section-7001) with respect to State law only if such statute, regulation, or rule of law—
 
-(1) constitutes an enactment or adoption of the Uniform Electronic Transactions Act as approved and recommended for enactment in all the States by the National Conference of Commissioners on Uniform State Laws in 1999, except that any exception to the scope of such Act enacted by a State under section 3(b)(4) of such Act shall be preempted to the extent such exception is inconsistent with this subchapter or subchapter II of this chapter, or would not be permitted under paragraph (2)(A)(ii) of this subsection; or
+(1) constitutes an enactment or adoption of the Uniform Electronic Transactions Act as approved and recommended for enactment in all the States by the National Conference of Commissioners on Uniform State Laws in 1999, except that any exception to the scope of such Act enacted by a State under section 3(b)(4) of such Act shall be preempted to the extent such exception is inconsistent with this subchapter or subchapter II, or would not be permitted under paragraph (2)(A)(ii) of this subsection; or
 
 (2)
 
   (A) specifies the alternative procedures or requirements for the use or acceptance (or both) of electronic records or electronic signatures to establish the legal effect, validity, or enforceability of contracts or other records, if—
 
-    (i) such alternative procedures or requirements are consistent with this subchapter and subchapter II of this chapter; and
+    (i) such alternative procedures or requirements are consistent with this subchapter and subchapter II; and
 
     (ii) such alternative procedures or requirements do not require, or accord greater legal status or effect to, the implementation or application of a specific technology or technical specification for performing the functions of creating, storing, generating, receiving, communicating, or authenticating electronic records or electronic signatures; and
 
   (B) if enacted or adopted after June 30, 2000, makes specific reference to this chapter.
 
-**(b) Exceptions for actions by States as market participants** Subsection (a)(2)(A)(ii) of this section shall not apply to the statutes, regulations, or other rules of law governing procurement by any State, or any agency or instrumentality thereof.
+**(b) Exceptions for actions by States as market participants** Subsection (a)(2)(A)(ii) shall not apply to the statutes, regulations, or other rules of law governing procurement by any State, or any agency or instrumentality thereof.
 
-**(c) Prevention of circumvention** Subsection (a) of this section does not permit a State to circumvent this subchapter or subchapter II of this chapter through the imposition of nonelectronic delivery methods under section 8(b)(2) of the Uniform Electronic Transactions Act.
+**(c) Prevention of circumvention** Subsection (a) does not permit a State to circumvent this subchapter or subchapter II through the imposition of nonelectronic delivery methods under section 8(b)(2) of the Uniform Electronic Transactions Act.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2000, with exceptions relating to record retention and certain loans, see section 107 of Pub. L. 106–229, set out as a note under [section 7001 of this title](./chapter-096-electronic-signatures-in-global-and-national-commerce.md#section-7001).
 
 
 <a id="section-7003"></a>
@@ -157,18 +162,23 @@ Pub. L. 106–229, § 1, June 30, 2000, 114 Stat. 464, provided that: “This Ac
 
 **(c) Review of exceptions**
 
-(1) **Evaluation required** — The Secretary of Commerce, acting through the Assistant Secretary for Communications and Information, shall review the operation of the exceptions in subsections (a) and (b) of this section to evaluate, over a period of 3 years, whether such exceptions continue to be necessary for the protection of consumers. Within 3 years after June 30, 2000, the Assistant Secretary shall submit a report to the Congress on the results of such evaluation.
+(1) **Evaluation required** — The Secretary of Commerce, acting through the Assistant Secretary for Communications and Information, shall review the operation of the exceptions in subsections (a) and (b) to evaluate, over a period of 3 years, whether such exceptions continue to be necessary for the protection of consumers. Within 3 years after June 30, 2000, the Assistant Secretary shall submit a report to the Congress on the results of such evaluation.
 
 (2) **Determinations** — If a Federal regulatory agency, with respect to matter within its jurisdiction, determines after notice and an opportunity for public comment, and publishes a finding, that one or more such exceptions are no longer necessary for the protection of consumers and eliminating such exceptions will not increase the material risk of harm to consumers, such agency may extend the application of [section 7001 of this title](./chapter-096-electronic-signatures-in-global-and-national-commerce.md#section-7001) to the exceptions identified in such finding.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2000, with exceptions relating to record retention and certain loans, see section 107 of Pub. L. 106–229, set out as a note under [section 7001 of this title](./chapter-096-electronic-signatures-in-global-and-national-commerce.md#section-7001).
 
 
 <a id="section-7004"></a>
 ## § 7004. Applicability to Federal and State governments
-**(a) Filing and access requirements** Subject to subsection (c)(2) of this section, nothing in this subchapter limits or supersedes any requirement by a Federal regulatory agency, self-regulatory organization, or State regulatory agency that records be filed with such agency or organization in accordance with specified standards or formats.
+**(a) Filing and access requirements** Subject to subsection (c)(2), nothing in this subchapter limits or supersedes any requirement by a Federal regulatory agency, self-regulatory organization, or State regulatory agency that records be filed with such agency or organization in accordance with specified standards or formats.
 
 **(b) Preservation of existing rulemaking authority**
 
-(1) **Use of authority to interpret** — Subject to paragraph (2) and subsection (c) of this section, a Federal regulatory agency or State regulatory agency that is responsible for rulemaking under any other statute may interpret [section 7001 of this title](./chapter-096-electronic-signatures-in-global-and-national-commerce.md#section-7001) with respect to such statute through—
+(1) **Use of authority to interpret** — Subject to paragraph (2) and subsection (c), a Federal regulatory agency or State regulatory agency that is responsible for rulemaking under any other statute may interpret [section 7001 of this title](./chapter-096-electronic-signatures-in-global-and-national-commerce.md#section-7001) with respect to such statute through—
 
   (A) the issuance of regulations pursuant to a statute; or
 
@@ -197,7 +207,7 @@ Pub. L. 106–229, § 1, June 30, 2000, 114 Stat. 464, provided that: “This Ac
 
   (A) *Accuracy, record integrity, accessibility* — Notwithstanding paragraph (2)(C)(iii), a Federal regulatory agency or State regulatory agency may interpret [section 7001(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7001/d&num=0&edition=prelim) to specify performance standards to assure accuracy, record integrity, and accessibility of records that are required to be retained. Such performance standards may be specified in a manner that imposes a requirement in violation of paragraph (2)(C)(iii) if the requirement (i) serves an important governmental objective; and (ii) is substantially related to the achievement of that objective. Nothing in this paragraph shall be construed to grant any Federal regulatory agency or State regulatory agency authority to require use of a particular type of software or hardware in order to comply with [section 7001(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7001/d&num=0&edition=prelim).
 
-  (B) *Paper or printed form* — Notwithstanding subsection (c)(1) of this section, a Federal regulatory agency or State regulatory agency may interpret [section 7001(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7001/d&num=0&edition=prelim) to require retention of a record in a tangible printed or paper form if—
+  (B) *Paper or printed form* — Notwithstanding subsection (c)(1), a Federal regulatory agency or State regulatory agency may interpret [section 7001(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7001/d&num=0&edition=prelim) to require retention of a record in a tangible printed or paper form if—
 
     (i) there is a compelling governmental interest relating to law enforcement or national security for imposing such requirement; and
 
@@ -207,9 +217,9 @@ Pub. L. 106–229, § 1, June 30, 2000, 114 Stat. 464, provided that: “This Ac
 
 **(c) Additional limitations**
 
-(1) **Reimposing paper prohibited** — Nothing in subsection (b) of this section (other than paragraph (3)(B) thereof) shall be construed to grant any Federal regulatory agency or State regulatory agency authority to impose or reimpose any requirement that a record be in a tangible printed or paper form.
+(1) **Reimposing paper prohibited** — Nothing in subsection (b) (other than paragraph (3)(B) thereof) shall be construed to grant any Federal regulatory agency or State regulatory agency authority to impose or reimpose any requirement that a record be in a tangible printed or paper form.
 
-(2) **Continuing obligation under Government Paperwork Elimination Act** — Nothing in subsection (a) or (b) of this section relieves any Federal regulatory agency of its obligations under the Government Paperwork Elimination Act (title XVII of Public Law 105–277).
+(2) **Continuing obligation under Government Paperwork Elimination Act** — Nothing in subsection (a) or (b) relieves any Federal regulatory agency of its obligations under the Government Paperwork Elimination Act (title XVII of Public Law 105–277).
 
 **(d) Authority to exempt from consent provision**
 
@@ -226,12 +236,20 @@ The Government Paperwork Elimination Act, referred to in subsec. (c)(2), is titl
 
 The Investment Company Act of 1940, referred to in subsec. (d)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
 
+#### Effective Date
+Section effective Oct. 1, 2000, with exceptions relating to record retention and certain loans, see section 107 of Pub. L. 106–229, set out as a note under [section 7001 of this title](./chapter-096-electronic-signatures-in-global-and-national-commerce.md#section-7001).
+
 
 <a id="section-7005"></a>
 ## § 7005. Studies
 **(a) Delivery** Within 12 months after June 30, 2000, the Secretary of Commerce shall conduct an inquiry regarding the effectiveness of the delivery of electronic records to consumers using electronic mail as compared with delivery of written records via the United States Postal Service and private express mail services. The Secretary shall submit a report to the Congress regarding the results of such inquiry by the conclusion of such 12-month period.
 
 **(b) Study of electronic consent** Within 12 months after June 30, 2000, the Secretary of Commerce and the Federal Trade Commission shall submit a report to the Congress evaluating any benefits provided to consumers by the procedure required by [section 7001(c)(1)(C)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7001/c/1/C/ii&num=0&edition=prelim); any burdens imposed on electronic commerce by that provision; whether the benefits outweigh the burdens; whether the absence of the procedure required by [section 7001(c)(1)(C)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7001/c/1/C/ii&num=0&edition=prelim) would increase the incidence of fraud directed against consumers; and suggesting any revisions to the provision deemed appropriate by the Secretary and the Commission. In conducting this evaluation, the Secretary and the Commission shall solicit comment from the general public, consumer representatives, and electronic commerce businesses.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2000, with exceptions relating to record retention and certain loans, see section 107 of Pub. L. 106–229, set out as a note under [section 7001 of this title](./chapter-096-electronic-signatures-in-global-and-national-commerce.md#section-7001).
 
 
 <a id="section-7006"></a>
@@ -269,6 +287,11 @@ For purposes of this subchapter:
 
   (B) the sale, lease, exchange, or other disposition of any interest in real property, or any combination thereof.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2000, with exceptions relating to record retention and certain loans, see section 107 of Pub. L. 106–229, set out as a note under [section 7001 of this title](./chapter-096-electronic-signatures-in-global-and-national-commerce.md#section-7001).
+
 
 <a id="section-7021"></a>
 ## § 7021. Transferable records
@@ -287,7 +310,7 @@ For purposes of this subchapter:
 
 **(b) Control** A person has control of a transferable record if a system employed for evidencing the transfer of interests in the transferable record reliably establishes that person as the person to which the transferable record was issued or transferred.
 
-**(c) Conditions** A system satisfies subsection (b) of this section, and a person is deemed to have control of a transferable record, if the transferable record is created, stored, and assigned in such a manner that—
+**(c) Conditions** A system satisfies subsection (b), and a person is deemed to have control of a transferable record, if the transferable record is created, stored, and assigned in such a manner that—
 
 (1) a single authoritative copy of the transferable record exists which is unique, identifiable, and, except as otherwise provided in paragraphs (4), (5), and (6), unalterable;
 

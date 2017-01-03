@@ -739,7 +739,7 @@ In subsection (d)(2), the words “in which the action is brought” are added f
 In subsection (d)(3), the words “in a civil action under this subsection” are substituted for “in any such suit” for clarity.
 
 #### Amendments
-2014—Subsec. (a)(2). Pub. L. 113–291, § 1074(a)(1), inserted second sentence.
+2014—Subsec. (a)(2). Pub. L. 113–291, § 1074(a)(1), inserted at end “A civil action shall not be instituted against the United States under this chapter unless the claimant first presents the claim to the Secretary of Transportation and such claim is finally denied by the Secretary in writing and notice of the denial of such claim is sent by certified or registered mail.”
 
 Subsec. (c). Pub. L. 113–291, § 1074(a)(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “When an insurance claim is made under this chapter, the period during which, under [section 2401 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2401&num=0&edition=prelim), a civil action must be brought under subsection (a) of this section is suspended until 60 days after the Secretary of Transportation denies the claim. The claim is deemed to be administratively denied if the Secretary does not act on the claim not later than 6 months after filing, unless the Secretary makes a different agreement with the claimant when there is good cause for an agreement.”
 
@@ -753,7 +753,7 @@ Pub. L. 113–291, div. A, title X, § 1074(b), Dec. 19, 2014, 128 Stat. 3519, p
 ## § 44310. Ending effective date
 **(a) In General.—** The authority of the Secretary of Transportation to provide insurance and reinsurance under any provision of this chapter other than section 44305 is not effective after December 11, 2014.
 
-**(b) Insurance of United States Government Property.—** The authority of the Secretary of Transportation to provide insurance and reinsurance for a department, agency, or instrumentality of the United States Government under section 44305 is not effective after December 31, 2018.
+**(b) Insurance of United States Government Property.—** The authority of the Secretary of Transportation to provide insurance and reinsurance for a department, agency, or instrumentality of the United States Government under section 44305 is not effective after December 31, 2019.
 
 ### Statutory Notes
 
@@ -765,6 +765,8 @@ Pub. L. 113–291, div. A, title X, § 1074(b), Dec. 19, 2014, 128 Stat. 3519, p
 The words “is not effective after” are substituted for “shall expire at the termination of” for clarity and consistency in the revised title.
 
 #### Amendments
+2016—Subsec. (b). Pub. L. 114–328 substituted “December 31, 2019” for “December 31, 2018”.
+
 2014—Subsec. (a). Pub. L. 113–235 substituted “December 11, 2014” for “the date specified in section 106(3) of the Continuing Appropriations Resolution, 2015”.
 
 Pub. L. 113–164 substituted “the date specified in section 106(3) of the Continuing Appropriations Resolution, 2015” for “September 30, 2014”.

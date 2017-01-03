@@ -87,21 +87,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(c)** In determining the scope of a proposed military construction project, the Secretary concerned shall submit to the President such recommendations as the Secretary considers to be appropriate regarding the incorporation and inclusion of life-cycle cost-effective practices as an element in the project documents submitted to Congress in connection with the budget submitted pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) for the fiscal year in which a contract is proposed to be awarded for the project.
 
-**(d)**
-
-(1) The requirement under subsection (a) that a military construction project must be authorized by law includes military construction projects funded through payment-in-kind contributions pursuant to a bilateral agreement with a host country.
-
-(2) The Secretary of Defense or the Secretary concerned shall include military construction projects covered under paragraph (1) in the budget justification documents for the Department of Defense submitted to Congress in connection with the budget for a fiscal year submitted under 1105 of title 31.
-
-(3) This subsection does not apply to a military construction project that—
-
-  (A) was specified in a bilateral agreement with a host country that was entered into prior to the date of the enactment of the Military Construction Authorization Act for Fiscal Year 2014;
-
-  (B) was accepted as payment-in-kind for the residual value of improvements made by the United States at military installations released to the host country under section 2921 of the Military Construction Authorization Act for Fiscal Year 1991 (division B of Public Law 101–510; [10 U.S.C. 2687](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687) note) prior to the date of the enactment of the Military Construction Authorization Act for Fiscal Year 2014; or
-
-  (C) will cost less than the cost specified in subsection (a)(2) of [section 2805 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2805) for certain unspecified minor military construction projects.
-
-(4) In the case of a military construction project excluded pursuant to paragraph (3)(C) whose cost will exceed the cost specified in subsection (b) of [section 2805 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2805) for certain unspecified minor military construction projects, the congressional notification requirements and waiting period specified in paragraph (2) of such subsection shall apply.
+**(d)** Repealed. Pub. L. 114–328, div. B, title XXVIII, § 2811(b), Dec. 23, 2016, 130 Stat. 2716.]
 
 **(e)**
 
@@ -123,28 +109,12 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 ### Statutory Notes
 
-#### Amendment of Subsection (d)
-Pub. L. 113–291, div. B, title XXVIII, § 2803(b), (d), Dec. 19, 2014, 128 Stat. 3697, provided that, effective on the later of Sept. 30, 2016, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2017, subsection (d) of this section is amended as follows:
-
-(1) in paragraph (1), by striking “payment-in-kind contributions” and inserting “payments-in-kind or in-kind contributions”;
-
-(2) by striking paragraph (3) and inserting the following:
-
-“(3) This subsection does not apply to a military construction project covered by one of the exceptions in [section 2687a(f)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687a/f/4&num=0&edition=prelim).”; and
-
-(3) in paragraph (4), by striking “paragraph (3)(C)” and inserting “paragraph (3), by reference to [section 2687a(f)(4)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687a/f/4/D&num=0&edition=prelim),”.
-
-See 2014 Amendment notes below.
-
-#### References in Text
-The date of the enactment of the Military Construction Authorization Act for Fiscal Year 2014, referred to in subsec. (d)(3)(A) and (B), is the date of enactment of div. B of Pub. L. 113–66, which was approved Dec. 26, 2013.
-
 #### Amendments
-2014—Subsec. (d)(1). Pub. L. 113–291, § 2803(b)(1), substituted “payments-in-kind or in-kind contributions” for “payment-in-kind contributions”.
+2016—Subsec. (d). Pub. L. 114–328, § 2811(b), which directed striking out subsec. (d), was executed by striking out subsec. (d) as it read after the repeal of Pub. L. 113–291, § 2803(b), and restoration of the text prior to those amendments, to reflect the probable intent of Congress. As restored, subsec. (d) related to requirements for military construction projects funded through payment-in-kind contributions, inclusion of such projects in budget justification documents, and exceptions to those requirements.
 
-Subsec. (d)(3). Pub. L. 113–291, § 2803(b)(2), added par. (3) and struck out former par. (3) which described certain military construction projects to which subsec. (d) did not apply.
+Pub. L. 114–328, § 2811(c), repealed Pub. L. 113–291, § 2803(b), and provided that the provisions of law amended by such section 2803(b) are restored as if such section had not been enacted into law. See 2014 Amendment note below.
 
-Subsec. (d)(4). Pub. L. 113–291, § 2803(b)(3), substituted “paragraph (3), by reference to [section 2687a(f)(4)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687a/f/4/D&num=0&edition=prelim),” for “paragraph (3)(C)”.
+2014—Subsec. (d). Pub. L. 113–291, § 2803(b), which substituted “payments-in-kind or in-kind contributions” for “payment-in-kind contributions” in par. (1), added par. (3) and struck out former par. (3) which described certain military construction projects to which subsec. (d) did not apply, and substituted “paragraph (3), by reference to [section 2687a(f)(4)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687a/f/4/D&num=0&edition=prelim),” for “paragraph (3)(C)” in par. (4), was repealed by Pub. L. 114–328, § 2811(c).
 
 Subsec. (e). Pub. L. 113–291, § 2801, added subsec. (e).
 
@@ -153,9 +123,6 @@ Subsec. (e). Pub. L. 113–291, § 2801, added subsec. (e).
 2008—Subsec. (a). Pub. L. 110–181 inserted “, land acquisitions, and defense access road projects (as described under [section 210 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section210&num=0&edition=prelim))” after “military construction projects”.
 
 Subsec. (c). Pub. L. 110–417 added subsec. (c).
-
-#### Effective Date of 2014 Amendment
-Amendment by section 2803(b) of Pub. L. 113–291 effective on the later of Sept. 30, 2016, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2017, see section 2803(d) of Pub. L. 113–291, set out as a note under [section 2687a of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687a).
 
 #### Effective Date
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under [section 2801 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2801).
@@ -245,13 +212,13 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 (1) For the revitalization and recapitalization of laboratories owned by the United States and under the jurisdiction of the Secretary concerned, the Secretary concerned may obligate and expend—
 
-  (A) from appropriations available to the Secretary concerned for operation and maintenance, amounts necessary to carry out an unspecified minor military construction project costing not more than $4,000,000, notwithstanding subsection (c); or
+  (A) from appropriations available to the Secretary concerned for operation and maintenance, amounts necessary to carry out an unspecified minor military construction project costing not more than $6,000,000, notwithstanding subsection (c); or
 
-  (B) from appropriations available to the Secretary concerned for military construction not otherwise authorized by law or from funds authorized to be made available under section 219(a) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; [10 U.S.C. 2358](./chapter-139-research-and-development.md#section-2358) note), amounts necessary to carry out an unspecified minor military construction project costing not more than $4,000,000.
+  (B) from appropriations available to the Secretary concerned for military construction not otherwise authorized by law or from funds authorized to be made available under section 219(a) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; [10 U.S.C. 2358](./chapter-139-research-and-development.md#section-2358) note), amounts necessary to carry out an unspecified minor military construction project costing not more than $6,000,000.
 
-(2) For purposes of this subsection, an unspecified minor military construction project is a military construction project that (notwithstanding subsection (a)) has an approved cost equal to or less than $4,000,000. The Secretary of Defense shall establish procedures for the review and approval of requests from the Secretary of a military department to carry out a construction project under this subsection.
+(2) For purposes of this subsection, an unspecified minor military construction project is a military construction project that (notwithstanding subsection (a)) has an approved cost equal to or less than $6,000,000.
 
-(3) Not later than February 1, 2014, the Secretary of Defense shall submit to the congressional defense committees a report on the use of the authority provided by this subsection. The report shall include a list and description of the construction projects carried out under this subsection, including the location and cost of each project.
+(3) If the Secretary concerned makes a decision to carry out an unspecified minor military construction project to which this subsection applies, the Secretary concerned shall notify in writing the appropriate committees of Congress of that decision, of the justification for the project, and of the estimated cost of the project. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by the committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
 
 (4) In this subsection, the term “laboratory” includes—
 
@@ -259,13 +226,21 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
   (B) a test and evaluation activity.
 
-(5) The authority to carry out a project under this subsection expires on September 30, 2018.
+(5) The authority to carry out a project under this subsection expires on September 30, 2025.
 
 **(e) Prohibition on Use for New Housing Units.—** Military family housing projects for construction of new housing units may not be carried out under the authority of this section.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (d)(1). Pub. L. 114–328, § 2801(a), substituted “$6,000,000” for “$4,000,000” in subpars. (A) and (B).
+
+Subsec. (d)(2). Pub. L. 114–328, § 2801(a), (b)(1), substituted “$6,000,000” for “$4,000,000” in first sentence and struck out second sentence which read as follows: “The Secretary of Defense shall establish procedures for the review and approval of requests from the Secretary of a military department to carry out a construction project under this subsection.”
+
+Subsec. (d)(3). Pub. L. 114–328, § 2801(b)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Not later than February 1, 2014, the Secretary of Defense shall submit to the congressional defense committees a report on the use of the authority provided by this subsection. The report shall include a list and description of the construction projects carried out under this subsection, including the location and cost of each project.”
+
+Subsec. (d)(5). Pub. L. 114–328, § 2801(c), substituted “2025” for “2018”.
+
 2014—Subsec. (a)(2). Pub. L. 113–291, § 2802(a), substituted “$3,000,000” for “$2,000,000” in first sentence and “$4,000,000” for “$3,000,000” in second sentence.
 
 Subsec. (b)(1). Pub. L. 113–291, § 2802(b), substituted “$1,000,000” for “$750,000”.
@@ -609,11 +584,17 @@ Section, added Pub. L. 99–499, title II, § 211(b)(1), Oct. 17, 1986, 100 Stat
 
 (3) a description of the elements of military construction, including the elements specified in [section 2802(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2802/b&num=0&edition=prelim), incorporated into the repair project.
 
-**(e) Repair Project Defined.—** In this section, the term “repair project” means a project to restore a real property facility, system, or component to such a condition that it may effectively be used for its designated functional purpose.
+**(e) Repair Project Defined.—** In this section, the term “repair project” means a project—
+
+(1) to restore a real property facility, system, or component to such a condition that it may effectively be used for its designated functional purpose; or
+
+(2) to convert a real property facility, system, or component to a new functional purpose without increasing its external dimensions.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (e). Pub. L. 114–328 amended subsec. (e) generally. Prior to amendment, text read as follows: “In this section, the term ‘repair project’ means a project to restore a real property facility, system, or component to such a condition that it may effectively be used for its designated functional purpose.”
+
 2009—Subsec. (d)(2), (3). Pub. L. 111–84 added pars. (2) and (3) and struck out former par. (2) which read as follows: “the justification for carrying out the project under this section.”
 
 2004—Subsec. (b). Pub. L. 108–375, § 2801(a), substituted “$7,500,000” for “$5,000,000”.
@@ -895,10 +876,17 @@ Subsec. (d). Pub. L. 99–167 added subsec. (d).
 #### Effective Date
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under [section 2801 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2801).
 
+#### Mitigation of Risks Posed by Window Coverings With Accessible Cords in Certain Military Housing Units
+Pub. L. 114–328, div. A, title III, § 345, Dec. 23, 2016, 130 Stat. 2085, provided that: “(a) Removal of Certain Window Coverings.—Not later than three years after the date of enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall remove and replace disqualified window coverings from—“(1) military housing units owned by the Department of Defense in which children under the age of 9 may reside; and “(2) military housing units leased by the Department of Defense in which children under the age of 9 may reside if the lease for such units requires the Department to provide window coverings. “(b) Prohibition on Disqualified Window Coverings in Military Housing Units Acquired or Constructed by Contract.—All contracts entered into by the Secretary of Defense after September 30, 2017, for the acquisition or construction of military family housing, including military family housing acquired or constructed pursuant to subchapter IV of chapter 169 of title 10, United States Code, shall prohibit the use of disqualified window coverings in such housing. “(c) Disqualified Window Covering Defined.—In this section, the term ‘disqualified window covering’ means—“(1) a window covering with an accessible cord that exceeds 8 inches in length; or “(2) a window covering with an accessible continuous loop cord that does not have a cord tension device that prevents operation when the cord is not anchored to the wall.”
+
 #### Repair and Maintenance of Family Housing Units
-Pub. L. 113–235, div. I, title I, § 121, Dec. 16, 2014, 128 Stat. 2550, provided that: “Notwithstanding any other provision of law, funds made available in this title [see Tables for classification] for operation and maintenance of family housing shall be the exclusive source of funds for repair and maintenance of all family housing units, including general or flag officer quarters: Provided, That not more than $35,000 per unit may be spent annually for the maintenance and repair of any general or flag officer quarters without 30 days prior notification, or 14 days for a notification provided in an electronic medium pursuant to sections 480 and 2883 of title 10, United States Code, to the Committees on Appropriations of both Houses of Congress, except that an after-the-fact notification shall be submitted if the limitation is exceeded solely due to costs associated with environmental remediation that could not be reasonably anticipated at the time of the budget submission: Provided further, That the Under Secretary of Defense (Comptroller) is to report annually to the Committees on Appropriations of both Houses of Congress all operation and maintenance expenditures for each individual general or flag officer quarters for the prior fiscal year.”
+Pub. L. 114–223, div. A, title I, § 119, Sept. 29, 2016, 130 Stat. 864, provided that: “Notwithstanding any other provision of law, funds made available in this title [see Tables for classification] for operation and maintenance of family housing shall be the exclusive source of funds for repair and maintenance of all family housing units, including general or flag officer quarters: Provided, That not more than $35,000 per unit may be spent annually for the maintenance and repair of any general or flag officer quarters without 30 days prior notification, or 14 days for a notification provided in an electronic medium pursuant to sections 480 and 2883 of title 10, United States Code, to the Committees on Appropriations of both Houses of Congress, except that an after-the-fact notification shall be submitted if the limitation is exceeded solely due to costs associated with environmental remediation that could not be reasonably anticipated at the time of the budget submission: Provided further, That the Under Secretary of Defense (Comptroller) is to report annually to the Committees on Appropriations of both Houses of Congress all operation and maintenance expenditures for each individual general or flag officer quarters for the prior fiscal year.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 114–113, div. J, title I, § 119, Dec. 18, 2015, 129 Stat. 2681.
+
+Pub. L. 113–235, div. I, title I, § 121, Dec. 16, 2014, 128 Stat. 2550.
 
 Pub. L. 113–76, div. J, title I, § 121, Jan. 17, 2014, 128 Stat. 445.
 
@@ -1093,7 +1081,7 @@ Subsec. (b)(1). Pub. L. 100–180 substituted “$40,000” for “$30,000”.
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under [section 2801 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2801).
 
 #### Provision of Adequate Storage Space To Secure Personal Property Outside of Assigned Military Family Housing Unit
-Pub. L. 109–364, div. A, title III, § 362, Oct. 17, 2006, 120 Stat. 2167, provided that: “The Secretary of a military department shall ensure that a member of the Armed Forces under the jurisdiction of the Secretary who occupies a unit of military family housing is provided with adequate storage space to secure personal property that the member is unable to secure within the unit whenever— “(1) the member is assigned to duty in an area for which special pay under [section 310 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section310&num=0&edition=prelim), United States Code, is available and the assignment is pursuant to orders specifying an assignment of 180 days or more; and “(2) the dependents of the member who otherwise occupy the unit of military family housing are absent from the unit for more than 30 consecutive days during the period of the assignment of the member.”
+Pub. L. 109–364, div. A, title III, § 362, Oct. 17, 2006, 120 Stat. 2167, as amended by Pub. L. 114–328, div. A, title VI, § 618(d), Dec. 23, 2016, 130 Stat. 2160, provided that: “The Secretary of a military department shall ensure that a member of the Armed Forces under the jurisdiction of the Secretary who occupies a unit of military family housing is provided with adequate storage space to secure personal property that the member is unable to secure within the unit whenever— “(1) the member is assigned to duty in an area for which special pay under section 310, or paragraph (1) or (3) of section 351(a), of title 37, United States Code, is available and the assignment is pursuant to orders specifying an assignment of 180 days or more; and “(2) the dependents of the member who otherwise occupy the unit of military family housing are absent from the unit for more than 30 consecutive days during the period of the assignment of the member.”
 
 #### Initial Establishment of Certain Amounts Required To Be Specified by Law
 Maximum amount of $30,000 per unit for an improvement project for family housing units under this section during the period beginning Oct. 1, 1982, and ending on the date of the enactment of the Military Construction Authorization Act for fiscal year 1984 or Oct. 1, 1983, whichever is later, see section 11(3) of Pub. L. 97–214, set out as a note under [section 2828 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2828).
@@ -1144,6 +1132,9 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 #### Effective Date
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under [section 2801 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2801).
+
+#### Conveyance to Indian Tribes of Relocatable Military Housing Units at Military Installations in the United States
+Pub. L. 114–92, div. B, title XXVIII, § 2805, Nov. 25, 2015, 129 Stat. 1171, provided that: “(a) Definitions.—In this section:“(1) Executive director.—The term ‘Executive Director’ means the Executive Director of Walking Shield, Inc. “(2) Indian tribe.—The term ‘Indian tribe’ means any Indian tribe included on the list published by the Secretary of the Interior under section 104 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 479a–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section479a–1&num=0&edition=prelim)) [now [25 U.S.C. 5131](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5131&num=0&edition=prelim)]. “(b) Requests for Conveyance.—“(1) In general.—The Executive Director may submit to the Secretary of the military department concerned, on behalf of any Indian tribe, a request for conveyance of any relocatable military housing unit located at a military installation in the United States. “(2) Conflicts.—The Executive Director shall resolve any conflict among requests of Indian tribes for housing units described in paragraph (1) before submitting a request to the Secretary of the military department concerned under this subsection. “(c) Conveyance by a Secretary.—Notwithstanding any other provision of law, on receipt of a request under subsection (b)(1), the Secretary of the military department concerned may convey to the Indian tribe that is the subject of the request, at no cost to such military department and without consideration, any relocatable military housing unit described in subsection (b)(1) that, as determined by such Secretary, is in excess of the needs of the military.”
 
 
 <a id="section-2828"></a>
@@ -1904,13 +1895,13 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 <a id="section-2853"></a>
 ## § 2853. Authorized cost and scope of work variations
-**(a)** Except as provided in subsection (c) or (d), the cost authorized for a military construction project or for the construction, improvement, and acquisition of a military family housing project may be increased or decreased by not more than 25 percent of the amount appropriated for such project or 200 percent of the minor construction project ceiling specified in section 2805(a), whichever is less, if the Secretary concerned determines that such revised cost is required for the sole purpose of meeting unusual variations in cost and that such variations in cost could not have reasonably been anticipated at the time the project was authorized by Congress.
+**(a)** Except as provided in subsection (c), (d), or (e), the cost authorized for a military construction project or for the construction, improvement, and acquisition of a military family housing project may be increased or decreased by not more than 25 percent of the amount appropriated for such project or 200 percent of the minor construction project ceiling specified in [section 2805(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2805/a&num=0&edition=prelim), whichever is less, if the Secretary concerned determines that such revised cost is required for the sole purpose of meeting unusual variations in cost and that such variations in cost could not have reasonably been anticipated at the time the project was authorized by Congress.
 
 **(b)**
 
 (1) Except as provided in subsection (c), the scope of work for a military construction project or for the construction, improvement, and acquisition of a military family housing project may be reduced by not more than 25 percent from the amount specified for that project, construction, improvement, or acquisition in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition. Any reduction in scope of work for a military construction project shall not result in a facility or item of infrastructure that is not complete and useable or does not fully meet the mission requirement contained in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition.
 
-(2) The scope of work for a military construction project or for the construction, improvement, and acquisition of a military family housing project may not be increased above the amount specified for that project, construction, improvement, or acquisition in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition.
+(2) Except as provided in subsection (d), the scope of work for a military construction project or for the construction, improvement, and acquisition of a military family housing project may not be increased above the amount specified for that project, construction, improvement, or acquisition in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition.
 
 (3) In this subsection, the term “scope of work” refers to the function, size, or quantity of a facility or item of complete and useable infrastructure contained in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition.
 
@@ -1924,17 +1915,39 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 (2) in the case of a cost decrease, the Secretary concerned notifies the appropriate committees of Congress in writing not later than 14 days after the date funds are obligated in connection with the military construction project or military family housing project.
 
-**(d)** The limitation on cost variations in subsection (a) does not apply to the following:
+**(d)** The limitation in subsection (b)(2) on an increase in the scope of work does not apply if—
+
+(1) the increase in the scope of work is not more than 10 percent of the amount specified for that project, construction, improvement, or acquisition in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition;
+
+(2) the increase is approved by the Secretary concerned;
+
+(3) the Secretary concerned notifies the congressional defense committees in writing of the increase in scope and the reasons therefor; and
+
+(4) a period of 21 days has elapsed after the date on which the notification is received by the committees or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480).
+
+**(e)** The limitation on cost variations in subsection (a) does not apply to the following:
 
 (1) The settlement of a contractor claim under a contract.
 
 (2) The costs associated with the required remediation of an environmental hazard in connection with a military construction project or military family housing project, such as asbestos removal, radon abatement, lead-based paint removal or abatement, or any other legally required environmental hazard remediation, if the required remediation could not have reasonably been anticipated at the time the project was approved originally by Congress.
 
-**(e)** Notwithstanding the authority under subsections (a) through (d), the Secretary concerned shall ensure compliance of contracts for military construction projects and for the construction, improvement, and acquisition of military family housing projects with [section 1341 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1341&num=0&edition=prelim) (commonly referred to as the “Anti-Deficiency Act”).
+**(f)** Notwithstanding the authority under subsections (a) through (e), the Secretary concerned shall ensure compliance of contracts for military construction projects and for the construction, improvement, and acquisition of military family housing projects with [section 1341 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1341&num=0&edition=prelim) (commonly referred to as the “Anti-Deficiency Act”).
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328, § 2803(c), inserted “of this title” after “section 2805(a)”.
+
+Pub. L. 114–328, § 2803(b)(1), substituted “subsection (c), (d), or (e)” for “subsection (c) or (d)”.
+
+Subsec. (b)(2). Pub. L. 114–328, § 2803(a)(1), substituted “Except as provided in subsection (d), the scope of work” for “The scope of work”.
+
+Subsec. (d). Pub. L. 114–328, § 2803(a)(3), added subsec. (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 114–328, § 2803(a)(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 114–328, § 2803(a)(2), (b)(2), redesignated subsec. (e) as (f) and substituted “through (e)” for “through (d)”.
+
 2014—Subsec. (c)(1)(A). Pub. L. 113–291 substituted “can still be” for “can be still be”.
 
 2013—Subsec. (a). Pub. L. 112–239, § 2801(1), substituted “was authorized” for “was approved originally”.
@@ -3237,6 +3250,9 @@ Subsec. (b)(3) to (5). Pub. L. 108–136, § 2807(b)(2), added pars. (3) to (5) 
 #### Effective Date of 2011 Amendment
 Pub. L. 111–383, div. A, title X, § 1075(h), Jan. 7, 2011, 124 Stat. 4377, provided that amendment by section 1075(h)(6) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsecs. (b) and (c) of this section requiring submittal of reports to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
 #### Final Report
 Pub. L. 104–106, div. B, title XXVIII, § 2801(b), Feb. 10, 1996, 110 Stat. 551, provided that, not later than Mar. 1, 2000, the Secretary of Defense was to submit to the congressional defense committees a report on the use by the Secretary of Defense and the Secretaries of the military departments of the authorities provided by subchapter IV of chapter 169 of this title.
 
@@ -3292,4 +3308,4 @@ Subsec. (a)(3). Pub. L. 113–66 substituted “In the case of a project for new
 Subsec. (f). Pub. L. 112–239, § 2803(a)(1), added subsec. (f).
 
 #### Change of Name
-“Assistant Secretary of Defense for Energy, Installations, and Environment” substituted for “Deputy Under Secretary of Defense (Installations and Environment)” in subsec. (a)(3) on authority of section 901(n)(2) of Pub. L. 113–291, set out as a note under [section 131 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-131).
+“Assistant Secretary of Defense for Energy, Installations, and Environment” substituted for “Deputy Under Secretary of Defense (Installations and Environment)” in subsec. (a)(3) on authority of section 901(n)(2) of Pub. L. 113–291, set out as a References note under [section 131 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-131).

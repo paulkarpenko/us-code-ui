@@ -399,7 +399,7 @@ Subsec. (c). Pub. L. 109–284, § 6(10), inserted heading.
 ## § 3134. Waivers for certain contracts
 **(a) Military.—** The Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or the Secretary of Transportation may waive this subchapter with respect to cost-plus-a-fixed fee and other cost-type contracts for the construction, alteration, or repair of any public building or public work of the Federal Government and with respect to contracts for manufacturing, producing, furnishing, constructing, altering, repairing, processing, or assembling vessels, aircraft, munitions, materiel, or supplies for the Army, Navy, Air Force, or Coast Guard, respectively, regardless of the terms of the contracts as to payment or title.
 
-**(b) Transportation.—** The Secretary of Transportation may waive this subchapter with respect to contracts for the construction, alteration, or repair of vessels when the contract is made under sections 1535 and 1536 of title 31, subtitle V of title 46, or the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1735 et seq.), regardless of the terms of the contracts as to payment or title.
+**(b) Transportation.—** The Secretary of Transportation may waive this subchapter with respect to contracts for the construction, alteration, or repair of vessels when the contract is made under sections 1535 and 1536 of title 31, subtitle V of title 46, or the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1735 et seq.),11 See References in Text note below. regardless of the terms of the contracts as to payment or title.
 
 ### Statutory Notes
 
@@ -414,7 +414,7 @@ In subsection (a), the words “Secretary of Transportation” are substituted f
 In subsection (b), the words “of any kind or nature” are omitted as unnecessary. The words “sections 1535 and 1536 of title 31” are substituted for “the Act of June 30, 1932 (47 Stat. 382, 417–418), as amended [[31 U.S.C. 686](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section686&num=0&edition=prelim), 686b]” because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
 
 #### References in Text
-The Merchant Ship Sales Act of 1946, referred to in subsec. (b), is act Mar. 8, 1946, ch. 82, 60 Stat. 41, as amended, which is classified to sections 1735 to 1746 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1735 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1735&num=0&edition=prelim), Appendix, and Tables.
+The Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1735 et seq.), referred to in subsec. (b), is act Mar. 8, 1946, ch. 82, 60 Stat. 41, which was classified to sections 1735 to 1746 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification, and is now classified principally to chapter 54 (§ 4401 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2006—Subsec. (b). Pub. L. 109–304 substituted “subtitle V of title 46” for “the Merchant Marine Act, 1936 (46 App. U.S.C. 1101 et seq.)”.
@@ -620,7 +620,7 @@ It is the purpose of this subchapter to promote and provide opportunities for in
 
 <a id="section-3162"></a>
 ## § 3162. Waiver for individuals who perform volunteer services
-**(a) Criteria for Receiving Waiver.—** The requirement that certain laborers and mechanics be paid in accordance with the wage-setting provisions of subchapter IV of this chapter as set forth in the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.), the Indian Health Care Improvement Act ([25 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) et seq.), and the Housing and Community Development Act of 1974 ([42 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim) et seq.) does not apply to an individual—
+**(a) Criteria for Receiving Waiver.—** The requirement that certain laborers and mechanics be paid in accordance with the wage-setting provisions of subchapter IV of this chapter as set forth in the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.),11 See References in Text note below. the Indian Health Care Improvement Act ([25 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) et seq.), and the Housing and Community Development Act of 1974 ([42 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim) et seq.) does not apply to an individual—
 
 (1) who volunteers to perform a service directly to a state or local government, a public agency, or a public or private nonprofit recipient of federal assistance—
 
@@ -670,7 +670,7 @@ In subsection (a), the references to sections 254b and 254c of title 42 in 40:27
 In subsection (b)(1), the words “Volunteers who are performing services directly to a public or private nonprofit entity may not receive those payments” are added for clarity.
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.), referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
 The Indian Health Care Improvement Act, referred to in subsec. (a), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§ 1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) and Tables.
 

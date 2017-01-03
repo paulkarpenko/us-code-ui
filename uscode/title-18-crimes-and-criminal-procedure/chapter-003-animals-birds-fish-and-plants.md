@@ -350,11 +350,11 @@ Pub. L. 111–294, § 2, Dec. 9, 2010, 124 Stat. 3177, provided that: “The Con
 
 <a id="section-49"></a>
 ## § 49. Enforcement of animal fighting prohibitions
-**(a) In general** Whoever violates subsection (a)(1), (b), (c), or (e) of section 26 of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 5 years, or both, for each violation.
+**(a) In General.—** Whoever violates subsection (a)(1), (b), (c), or (e) of section 26 of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 5 years, or both, for each violation.
 
-**(b) Attending an animal fighting venture** Whoever violates subsection (a)(2)(A) of section 26 of the Animal Welfare Act ([7 U.S.C. 2156](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2156&num=0&edition=prelim)) shall be fined under this title, imprisoned for not more than 1 year, or both, for each violation.
+**(b) Attending an Animal Fighting Venture.—** Whoever violates subsection (a)(2)(A) of section 26 of the Animal Welfare Act ([7 U.S.C. 2156](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2156&num=0&edition=prelim)) shall be fined under this title, imprisoned for not more than 1 year, or both, for each violation.
 
-**(c) Causing an individual who has not attained the age of 16 to attend an animal fighting venture** Whoever violates subsection (a)(2)(B) of section 26 ([7 U.S.C. 2156](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2156&num=0&edition=prelim)) of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 3 years, or both, for each violation.
+**(c) Causing an Individual Who Has Not Attained the Age of 16 To Attend an Animal Fighting Venture.—** Whoever violates subsection (a)(2)(B) of section 26 ([7 U.S.C. 2156](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2156&num=0&edition=prelim)) of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 3 years, or both, for each violation.
 
 ### Statutory Notes
 

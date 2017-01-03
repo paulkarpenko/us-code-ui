@@ -40,7 +40,7 @@ The Service shall implement a maintenance management system in the maintenance a
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101301 | [16 U.S.C. 1a–8(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–8/a&num=0&edition=prelim) | Pub. L. 98–540, § 4(a), Oct. 24, 1984, 98 Stat. 2719; Pub. L. 103–437, § 6(d)(1), Nov. 2, 1994, 108 Stat. 4583. |
+| 101301 | [16 U.S.C. 1a–8(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–8/a&num=0&edition=prelim). | Pub. L. 98–540, § 4(a), Oct. 24, 1984, 98 Stat. 2719; Pub. L. 103–437, § 6(d)(1), Nov. 2, 1994, 108 Stat. 4583. |
 
 
 <a id="section-101302"></a>
@@ -64,11 +64,11 @@ The Service shall implement a maintenance management system in the maintenance a
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101302(a) | [16 U.S.C. 1a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2&num=0&edition=prelim) (matter before (a)) | Pub. L. 91–383, § 3 (matter before (a)), Aug. 18, 1970, 84 Stat. 826. |
-| 101302(b) | [16 U.S.C. 1a–2(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/a&num=0&edition=prelim) | Pub. L. 91–383, § 3(a), (b), (d), Aug. 18, 1970, 84 Stat. 826, 827; Pub. L. 106–176, title I, § 118(2), (3), Mar. 10, 2000, 114 Stat. 28. |
-| 101302(c) | [16 U.S.C. 1a–2(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/b&num=0&edition=prelim) |  |
-| 101302(d) | [16 U.S.C. 1a–2(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/d&num=0&edition=prelim) |  |
-| 101302(e) | [16 U.S.C. 1a–2(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/i&num=0&edition=prelim) | Pub. L. 91–383, § 3(i), as added Pub. L. 94–458, § 1(2), Oct. 7, 1976, 90 Stat. 1939; Pub. L. 106–176, title I, § 118(2), (4), Mar. 10, 2000, 114 Stat. 28. |
+| 101302(a) | [16 U.S.C. 1a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2&num=0&edition=prelim) (matter before (a)). | Pub. L. 91–383, § 3 (matter before (a)), Aug. 18, 1970, 84 Stat. 826. |
+| 101302(b) | [16 U.S.C. 1a–2(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/a&num=0&edition=prelim). | Pub. L. 91–383, § 3(a), (b), (d), Aug. 18, 1970, 84 Stat. 826, 827; Pub. L. 106–176, title I, § 118(2), (3), Mar. 10, 2000, 114 Stat. 28. |
+| 101302(c) | [16 U.S.C. 1a–2(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/b&num=0&edition=prelim). |  |
+| 101302(d) | [16 U.S.C. 1a–2(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/d&num=0&edition=prelim). |  |
+| 101302(e) | [16 U.S.C. 1a–2(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/i&num=0&edition=prelim). | Pub. L. 91–383, § 3(i), as added Pub. L. 94–458, § 1(2), Oct. 7, 1976, 90 Stat. 1939; Pub. L. 106–176, title I, § 118(2), (4), Mar. 10, 2000, 114 Stat. 28. |
 
 
 <a id="section-101303"></a>
@@ -86,8 +86,8 @@ The Service shall implement a maintenance management system in the maintenance a
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101303(a) | [16 U.S.C. 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section11&num=0&edition=prelim) | May 10, 1926, ch. 277, § 1 (last undesignated par. under heading “NATIONAL PARKS”), 44 Stat. 491. |
-| 101303(b) | [16 U.S.C. 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section13&num=0&edition=prelim) | July 3, 1926, ch. 792, § 2, 44 Stat. 900. |
+| 101303(a) | [16 U.S.C. 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section11&num=0&edition=prelim). | May 10, 1926, ch. 277, § 1 (last undesignated par. under heading “NATIONAL PARKS”), 44 Stat. 491. |
+| 101303(b) | [16 U.S.C. 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section13&num=0&edition=prelim). | July 3, 1926, ch. 792, § 2, 44 Stat. 900. |
 
 
 <a id="section-101304"></a>
@@ -109,10 +109,10 @@ The Service shall implement a maintenance management system in the maintenance a
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101304(a) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim) | May 26, 1930, ch. 324, §§ 1, 7 to 9, 46 Stat. 381, 382. |
-| 101304(b) | [16 U.S.C. 17f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17f&num=0&edition=prelim) |  |
-| 101304(c) | [16 U.S.C. 17g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17g&num=0&edition=prelim) |  |
-| 101304(d) | [16 U.S.C. 17h](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17h&num=0&edition=prelim) |  |
+| 101304(a) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim). | May 26, 1930, ch. 324, §§ 1, 7 to 9, 46 Stat. 381, 382. |
+| 101304(b) | [16 U.S.C. 17f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17f&num=0&edition=prelim). |  |
+| 101304(c) | [16 U.S.C. 17g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17g&num=0&edition=prelim). |  |
+| 101304(d) | [16 U.S.C. 17h](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17h&num=0&edition=prelim). |  |
 
 
 <a id="section-101305"></a>
@@ -133,7 +133,7 @@ In the administration of the System, the Secretary may, under regulations the Se
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101305 | [16 U.S.C. 17j](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17j&num=0&edition=prelim) | May 26, 1930, ch. 324, § 11, 46 Stat. 383; Pub. L. 91–383, § 5, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1939. |
+| 101305 | [16 U.S.C. 17j](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17j&num=0&edition=prelim). | May 26, 1930, ch. 324, § 11, 46 Stat. 383; Pub. L. 91–383, § 5, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1939. |
 
 
 <a id="section-101321"></a>
@@ -146,7 +146,7 @@ The Secretary shall develop a comprehensive training program for employees in al
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101321 | [16 U.S.C. 5912](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5912&num=0&edition=prelim) | Pub. L. 105–391, title I, § 102, Nov. 13, 1998, 112 Stat. 3498. |
+| 101321 | [16 U.S.C. 5912](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5912&num=0&edition=prelim). | Pub. L. 105–391, title I, § 102, Nov. 13, 1998, 112 Stat. 3498. |
 
 
 <a id="section-101322"></a>
@@ -159,9 +159,9 @@ The Secretary shall maintain a clear plan for management training and developmen
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101322 | [16 U.S.C. 5913](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5913&num=0&edition=prelim) | Pub. L. 105–391, title I, § 103, Nov. 13, 1998, 112 Stat. 3498. |
+| 101322 | [16 U.S.C. 5913](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5913&num=0&edition=prelim). | Pub. L. 105–391, title I, § 103, Nov. 13, 1998, 112 Stat. 3498. |
 
-The word “maintain” is substituted for “Within 2 years after November 13, 1998 .á.á. develop” to eliminate obsolete words.
+The word “maintain” is substituted for “Within 2 years after November 13, 1998 . . . develop” to eliminate obsolete words.
 
 
 <a id="section-101331"></a>
@@ -186,7 +186,7 @@ In this subchapter:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101331 | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(19) | Pub. L. 104–333, div. I, title VIII, § 814(a)(19), Nov. 12, 1996, 110 Stat. 4194. |
+| 101331 | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(19). | Pub. L. 104–333, div. I, title VIII, § 814(a)(19), Nov. 12, 1996, 110 Stat. 4194. |
 
 The text of [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(19)(B) is omitted because the term “land management agency” is not used.
 
@@ -210,10 +210,10 @@ The text of [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101332(a) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(2) | Pub. L. 104–333, div. I, title VIII, § 814(a)(2), (17)(A), (B), Nov. 12, 1996, 110 Stat. 4190, 4193. |
-| 101332(b) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(9) | Pub. L. 104–333, div. I, title VIII, § 814(a)(9), Nov. 12, 1996, 110 Stat. 4191; Pub. L. 106–176, title I, § 120(a)(1)(C), Mar. 10, 2000, 114 Stat. 28. |
-| 101332(c) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(17)(A) |  |
-| 101332(d) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(17)(B) |  |
+| 101332(a) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(2). | Pub. L. 104–333, div. I, title VIII, § 814(a)(2), (17)(A), (B), Nov. 12, 1996, 110 Stat. 4190, 4193. |
+| 101332(b) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(9). | Pub. L. 104–333, div. I, title VIII, § 814(a)(9), Nov. 12, 1996, 110 Stat. 4191; Pub. L. 106–176, title I, § 120(a)(1)(C), Mar. 10, 2000, 114 Stat. 28. |
+| 101332(c) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(17)(A). |  |
+| 101332(d) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(17)(B). |  |
 
 In subsection (a)(2), the words “or lease” are omitted to distinguish between leasing property and renting employee housing.
 
@@ -228,7 +228,7 @@ The Secretary shall maintain criteria under which housing is provided to employe
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101333 | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(3) | Pub. L. 104–333, div. I, title VIII, § 814(a)(3), Nov. 12, 1996, 110 Stat. 4190. |
+| 101333 | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(3). | Pub. L. 104–333, div. I, title VIII, § 814(a)(3), Nov. 12, 1996, 110 Stat. 4190. |
 
 The words “The Secretary shall maintain” are substituted for “On November 12, 1996, the Secretary shall review and revise the existing”, and the word “existing” is omitted, to eliminate obsolete words.
 
@@ -243,7 +243,7 @@ The Secretary may, pursuant to the authorities contained in this subchapter and 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101334 | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(6) | Pub. L. 104–333, div. I, title VIII, § 814(a)(6), Nov. 12, 1996, 110 Stat. 4191; Pub. L. 106–176, title I, § 120(a)(1)(A), Mar. 10, 2000, 114 Stat. 28. |
+| 101334 | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(6). | Pub. L. 104–333, div. I, title VIII, § 814(a)(6), Nov. 12, 1996, 110 Stat. 4191; Pub. L. 106–176, title I, § 120(a)(1)(A), Mar. 10, 2000, 114 Stat. 28. |
 
 The words “For those units of the National Park System for which the review required by paragraphs (3) and (5) has been completed” are omitted as obsolete. The words “or lease” are omitted to distinguish between leasing property and renting employee housing.
 
@@ -295,8 +295,8 @@ The words “For those units of the National Park System for which the review re
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101335(a) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(7) | Pub. L. 104–333, div. I, title VIII, § 814(a)(7), Nov. 12, 1996, 110 Stat. 4190; Pub. L. 106–176, title I, § 120(a)(1)(B), Mar. 10, 2000, 114 Stat. 28. |
-| 101335(b) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(8) | Pub. L. 104–333, div. I, title VIII, § 814(a)(8), Nov. 12, 1996, 110 Stat. 4192. |
+| 101335(a) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(7). | Pub. L. 104–333, div. I, title VIII, § 814(a)(7), Nov. 12, 1996, 110 Stat. 4190; Pub. L. 106–176, title I, § 120(a)(1)(B), Mar. 10, 2000, 114 Stat. 28. |
+| 101335(b) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(8). | Pub. L. 104–333, div. I, title VIII, § 814(a)(8), Nov. 12, 1996, 110 Stat. 4192. |
 
 
 <a id="section-101336"></a>
@@ -309,7 +309,7 @@ Subject to the appropriation of necessary funds in advance, the Secretary may en
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101336 | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(10) | Pub. L. 104–333, div. I, title VIII, § 814(a)(10), Nov. 12, 1996, 110 Stat. 4192. |
+| 101336 | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(10). | Pub. L. 104–333, div. I, title VIII, § 814(a)(10), Nov. 12, 1996, 110 Stat. 4192. |
 
 
 <a id="section-101337"></a>
@@ -329,7 +329,7 @@ Subject to the appropriation of necessary funds in advance, the Secretary may en
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101337 | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(11) | Pub. L. 104–333, div. I, title VIII, § 814(a)(11), Nov. 12, 1996, 110 Stat. 4192; Pub. L. 106–176, title I, § 120(a)(1)(D), Mar. 10, 2000, 114 Stat. 28. |
+| 101337 | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(11). | Pub. L. 104–333, div. I, title VIII, § 814(a)(11), Nov. 12, 1996, 110 Stat. 4192; Pub. L. 106–176, title I, § 120(a)(1)(D), Mar. 10, 2000, 114 Stat. 28. |
 
 
 <a id="section-101338"></a>
@@ -343,8 +343,8 @@ Subject to the appropriation of necessary funds in advance, the Secretary may en
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101338(a) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(17)(C) | Pub. L. 104–333, div. I, title VIII, § 814(a)(17)(C), Nov. 12, 1996, 110 Stat. 4194. |
-| 101338(b) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(18) | Pub. L. 104–333, div. I, title VIII, § 814(a)(18), Nov. 12, 1996, 110 Stat. 4191; Pub. L. 106–176, title I, § 120(a)(1)(F), Mar. 10, 2000, 114 Stat. 28. |
+| 101338(a) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(17)(C). | Pub. L. 104–333, div. I, title VIII, § 814(a)(17)(C), Nov. 12, 1996, 110 Stat. 4194. |
+| 101338(b) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(18). | Pub. L. 104–333, div. I, title VIII, § 814(a)(18), Nov. 12, 1996, 110 Stat. 4191; Pub. L. 106–176, title I, § 120(a)(1)(F), Mar. 10, 2000, 114 Stat. 28. |
 
 
 <a id="section-101339"></a>
@@ -361,7 +361,7 @@ The Secretary shall—
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101339 | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(12) | Pub. L. 104–333, div. I, title VIII, § 814(a)(12), Nov. 12, 1996, 110 Stat. 4193. |
+| 101339 | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(12). | Pub. L. 104–333, div. I, title VIII, § 814(a)(12), Nov. 12, 1996, 110 Stat. 4193. |
 
 In paragraph (1), the words “mission of the Service” are substituted for “agency mission” because the provision applies only to the Service.
 
@@ -379,9 +379,9 @@ In paragraph (2), the word “Service-wide” is substituted for “agency-wide�
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 101340(a) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(13) | Pub. L. 104–333, div. I, title VIII, § 814(a)(13), Nov. 12, 1996, 110 Stat. 4193; Pub. L. 106–176, title I, § 120(a)(1)(E), Mar. 10, 2000, 114 Stat. 28. |
-| 101340(b) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(14) | Pub. L. 104–333, div. I, title VIII, § 814(a)(14), Nov. 12, 1996, 110 Stat. 4193. |
+| 101340(a) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(13). | Pub. L. 104–333, div. I, title VIII, § 814(a)(13), Nov. 12, 1996, 110 Stat. 4193; Pub. L. 106–176, title I, § 120(a)(1)(E), Mar. 10, 2000, 114 Stat. 28. |
+| 101340(b) | [16 U.S.C. 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section17&num=0&edition=prelim)o(14). | Pub. L. 104–333, div. I, title VIII, § 814(a)(14), Nov. 12, 1996, 110 Stat. 4193. |
 
 In subsection (a), the word “Secretary” is substituted for “agency” to correct an error in the source provision because the provision only applies to the Service and the Secretary develops the priority listing.
 
-In subsection (b), the words “for the first fiscal year after November 12, 1996, and .á.á. subsequent” are omitted as obsolete.
+In subsection (b), the words “for the first fiscal year after November 12, 1996, and . . . subsequent” are omitted as obsolete.

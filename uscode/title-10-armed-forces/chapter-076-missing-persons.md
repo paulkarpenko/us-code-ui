@@ -12,7 +12,7 @@ source: >-
 
 (1)
 
-  (A) The Secretary of Defense shall designate a single organization within the Department of Defense to have responsibility for Department matters relating to missing persons, including accounting for missing persons and persons whose remains have not been recovered from the conflict in which they were lost.
+  (A) The Secretary of Defense shall designate a single organization within the Department of Defense to have responsibility for Department matters relating to missing persons from past conflicts, including accounting for missing persons and persons whose remains have not been recovered from the conflict in which they were lost.
 
   (B) The organization designated under this paragraph shall be a Defense Agency or other entity of the Department of Defense outside the military departments and is referred to in this chapter as the “designated Defense Agency”.
 
@@ -20,23 +20,19 @@ source: >-
 
 (2) Subject to the authority, direction, and control of the Secretary of Defense, the responsibilities of the designated Agency Director shall include the following:
 
-  (A) Policy, control, and oversight within the Department of Defense of the entire process for investigation and recovery related to missing persons, including matters related to search, rescue, escape, and evasion.
+  (A) Policy, control, and oversight of the program established under [section 1509 of this title](./chapter-076-missing-persons.md#section-1509).
 
-  (B) Policy, control, and oversight of the program established under [section 1509 of this title](./chapter-076-missing-persons.md#section-1509).
+  (B) Responsibility for accounting for missing persons from past conflicts, including locating, recovering, and identifying missing persons from past conflicts or their remains after hostilities have ceased.
 
-  (C) Responsibility for accounting for missing persons, including locating, recovering, and identifying missing persons or their remains after hostilities have ceased.
+  (C) Coordination for the Department of Defense with other departments and agencies of the United States on all matters concerning missing persons from past conflicts.
 
-  (D) Coordination for the Department of Defense with other departments and agencies of the United States on all matters concerning missing persons.
+  (D) Dissemination of appropriate information on the status of missing persons from past conflicts to authorized family members.
 
-  (E) Dissemination of appropriate information on the status of missing persons to authorized family members.
-
-  (F) Establishment of a means for communication between officials of the designated Defense Agency and family members of missing persons, veterans service organizations, concerned citizens, and the public on the Department’s efforts to account for missing persons, including a readily available means for communication of their views and recommendations to the designated Agency Director.
+  (E) Establishment of a means for communication between officials of the designated Defense Agency and family members of missing persons from past conflicts, veterans service organizations, concerned citizens, and the public on the Department’s efforts to account for missing persons from past conflicts, including a readily available means for communication of their views and recommendations to the designated Agency Director.
 
 (3) In carrying out the responsibilities established under this subsection, the designated Agency Director shall be responsible for the coordination for such purposes within the Department of Defense among the military departments, the Joint Staff, and the commanders of the combatant commands.
 
-(4) The designated Agency Director shall establish policies, which shall apply uniformly throughout the Department of Defense, for personnel recovery (including search, rescue, escape, and evasion) and for personnel accounting (including locating, recovering, and identifying missing persons or their remains after hostilities have ceased).
-
-(5) The designated Agency Director shall establish procedures to be followed by Department of Defense boards of inquiry, and by officials reviewing the reports of such boards, under this chapter.
+(4) The designated Agency Director shall establish policies, which shall apply uniformly throughout the Department of Defense, for personnel accounting (including locating, recovering, and identifying missing persons from past conflicts or their remains after hostilities have ceased).
 
 **(b) Uniform DoD Procedures.—**
 
@@ -77,6 +73,22 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a)(1)(A). Pub. L. 114–328, § 953(a)(1), inserted “from past conflicts” after “matters relating to missing persons”.
+
+Subsec. (a)(2)(A). Pub. L. 114–328, § 953(a)(2)(A), (B), redesignated par. (B) as (A) and struck out former par. (A), which read as follows: “Policy, control, and oversight within the Department of Defense of the entire process for investigation and recovery related to missing persons, including matters related to search, rescue, escape, and evasion.”.
+
+Subsec. (a)(2)(B). Pub. L. 114–328, § 953(a)(2)(B), (C), redesignated par. (C) as (B) and inserted “from past conflicts” after “missing persons” in two places. Former par. (B) redesignated (A).
+
+Subsec. (a)(2)(C), (D). Pub. L. 114–328, § 953(a)(2)(B), redesignated pars. (D) and (E) as (C) and (D), respectively. Former par. (C) redesignated (B).
+
+Subsec. (a)(2)(E), (F). Pub. L. 114–328, § 953(a)(2)(B), (C), redesignated par. (F) as (E) and inserted “from past conflicts” after “missing persons” in two places.
+
+Subsec. (a)(4). Pub. L. 114–328, § 953(a)(3)(B),inserted “from past conflicts” after “missing persons”.
+
+Pub. L. 114–328, § 953(a)(3)(A), which directed striking out “for personal recovery (including search, rescue, escape, and evasion) and” was executed by striking out “for personnel recovery (including search, rescue, escape, and evasion) and” after “Department of Defense,”, to reflect the probable intent of Congress.
+
+Subsec. (a)(5). Pub. L. 114–328, § 953(a)(4), struck out par. (5), which read as follow: “The designated Agency Director shall establish procedures to be followed by Department of Defense boards of inquiry, and by officials reviewing the reports of such boards, under this chapter.”
+
 2014—Subsec. (a). Pub. L. 113–291 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to responsibility for missing personnel, consisting of pars. (1) to (6).
 
 2013—Subsec. (a)(1)(D). Pub. L. 113–66 added subpar. (D).
@@ -499,17 +511,19 @@ Subsec. (d)(4). Pub. L. 104–201, § 578(a)(3)(B), substituted “section 1503(
 
 **(c) Action Upon Discovery or Receipt of Information.—**
 
-(1) Whenever any United States intelligence agency or other element of the Government finds or receives information that may be related to a missing person, the information shall promptly be forwarded to the designated Agency Director.
+(1) Whenever any United States intelligence agency or other element of the Government finds or receives information that may be related to a missing person, the information shall promptly be forwarded to the Secretary of Defense.
 
-(2) Upon receipt of information under paragraph (1), the designated Agency Director shall as expeditiously as possible ensure that the information is added to the appropriate case file for that missing person and notify (A) the designated missing person’s counsel for that person, and (B) the primary next of kin and any previously designated person for the missing person of the existence of that information.
+(2) Upon receipt of information under paragraph (1), the Secretary of Defense shall as expeditiously as possible ensure that the information is added to the appropriate case file for that missing person and notify (A) the designated missing person’s counsel for that person, and (B) the primary next of kin and any previously designated person for the missing person of the existence of that information.
 
-(3) The designated Agency Director, with the advice of the missing person’s counsel notified under paragraph (2), shall determine whether the information is significant enough to require a board review under this section.
+(3) The Secretary of Defense, with the advice of the missing person’s counsel notified under paragraph (2), shall determine whether the information is significant enough to require a board review under this section.
 
 **(d) Conduct of Proceedings.—** If it is determined that such a board should be appointed, the appointment of, and activities before, a board appointed under this section shall be governed by the provisions of [section 1504 of this title](./chapter-076-missing-persons.md#section-1504) with respect to a board appointed under that section.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (c). Pub. L. 114–328 substituted “Secretary of Defense” for “designated Agency Director” in pars. (1), (2), and (3).
+
 2014—Subsec. (c)(1). Pub. L. 113–291, § 916(c)(1), substituted “the designated Agency Director” for “the office established under [section 1501 of this title](./chapter-076-missing-persons.md#section-1501)”.
 
 Subsec. (c)(2), (3). Pub. L. 113–291, § 916(c)(2), substituted “designated Agency Director” for “head of the office established under [section 1501 of this title](./chapter-076-missing-persons.md#section-1501)”.
@@ -725,7 +739,7 @@ Subsec. (d). Pub. L. 113–291, § 916(d)(2)(A), inserted “; Centralized Datab
 
 Subsec. (d)(4). Pub. L. 113–291, § 916(d)(2)(B), added par. (4).
 
-Subsec. (f)(1). Pub. L. 113–291, § 916(d)(3)(A), substituted “In carrying out the program, the designated Agency Director shall ensure coordination” for “In establishing and carrying out the program, the Secretary of Defense shall coordinate”
+Subsec. (f)(1). Pub. L. 113–291, § 916(d)(3)(A), substituted “In carrying out the program, the designated Agency Director shall ensure coordination” for “In establishing and carrying out the program, the Secretary of Defense shall coordinate”.
 
 Subsec. (f)(2). Pub. L. 113–291, § 916(d)(3)(B), inserted “staff” after “National Security Council” and struck out “POW/MIA accounting community” after “Department of Defense”.
 
@@ -817,7 +831,7 @@ In this chapter:
 
   (A) the person is returned to United States control alive;
 
-  (B) the remains of the person are recovered and, if not identifiable through visual means as those of the missing person, are identified as those of the missing person by a practitioner of an appropriate forensic science; or
+  (B) the remains of the person are recovered to the extent practicable and, if not identifiable through visual means as those of the missing person, are identified as those of the missing person by a practitioner of an appropriate forensic science; or
 
   (C) credible evidence exists to support another determination of the person’s status.
 
@@ -846,6 +860,8 @@ In this chapter:
 ### Statutory Notes
 
 #### Amendments
+2016—Par. (3)(B). Pub. L. 114–328 inserted “to the extent practicable” after “are recovered”
+
 2014—Par. (1). Pub. L. 113–291 substituted “subsection (c)” for “subsection (b)” in concluding provisions.
 
 2013—Par. (9). Pub. L. 113–66 added par. (9).

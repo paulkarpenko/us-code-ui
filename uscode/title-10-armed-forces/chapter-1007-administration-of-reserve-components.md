@@ -19,7 +19,7 @@ As provided in [section 138(b)(2) of this title](https://uscode.house.gov/view.x
 1996—Pub. L. 104–106, § 903(a), (f)(4), which directed that this section be amended, eff. Jan. 31, 1997, to read “The official in the Department of Defense with responsibility for overall supervision of reserve component affairs of the Department of Defense is the official designated by the Secretary of Defense to have that responsibility.”, was repealed by Pub. L. 104–201.
 
 #### Effective Date
-Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-10202"></a>
@@ -33,13 +33,16 @@ Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 280 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section280&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+Provisions similar to those in this section were contained in [section 280 of this title](./chapter-015-military-support-for-civilian-law-enforcement-agencies.md#section-280), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
 
 #### Amendments
 2002—Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-10203"></a>
@@ -65,6 +68,9 @@ Provisions similar to those in this section were contained in [section 264(a) of
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-10204"></a>
 ## § 10204. Personnel records
@@ -87,7 +93,10 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 275 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section275&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+Provisions similar to those in this section were contained in [section 275 of this title](./chapter-015-military-support-for-civilian-law-enforcement-agencies.md#section-275), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-10205"></a>
@@ -106,6 +115,9 @@ Provisions similar to those in this section were contained in [section 652 of th
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-10206"></a>
@@ -150,6 +162,9 @@ Subsec. (c). Pub. L. 107–107, § 516(a)(2), redesignated concluding provisions
 
 Subsec. (d). Pub. L. 107–107, § 516(a)(3), redesignated subsec. (b) as (d).
 
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-10207"></a>
 ## § 10207. Mobilization forces: maintenance
@@ -160,7 +175,10 @@ Subsec. (d). Pub. L. 107–107, § 516(a)(3), redesignated subsec. (b) as (d).
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 276 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section276&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+Provisions similar to those in this section were contained in [section 276 of this title](./chapter-015-military-support-for-civilian-law-enforcement-agencies.md#section-276), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-10208"></a>
@@ -173,6 +191,9 @@ Provisions similar to those in this section were contained in [section 276 of th
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in Pub. L. 98–525, title V, § 552(e), Oct. 19, 1984, 98 Stat. 2531, which was set out in a note under [section 12001 of this title](./chapter-1201-authorized-strengths-and-distribution-in-grade.md#section-12001), prior to repeal by Pub. L. 103–337, § 1661(a)(3)(B).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-10209"></a>
@@ -189,7 +210,10 @@ Laws applying to both Regulars and Reserves shall be administered without discri
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 277 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section277&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+Provisions similar to those in this section were contained in [section 277 of this title](./chapter-015-military-support-for-civilian-law-enforcement-agencies.md#section-277), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-10210"></a>
@@ -200,7 +224,10 @@ The Secretary of Defense shall require the complete and current dissemination, t
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 278 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section278&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+Provisions similar to those in this section were contained in [section 278 of this title](./chapter-015-military-support-for-civilian-law-enforcement-agencies.md#section-278), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-10211"></a>
@@ -212,6 +239,9 @@ Within such numbers and in such grades and assignments as the Secretary concerne
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 265 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section265&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-10212"></a>
@@ -227,7 +257,7 @@ Provisions similar to those in this section were contained in [section 265 of th
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 279 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section279&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A), and in sections 4541 and 9541 of this title, prior to repeal by Pub. L. 103–160, § 822(d)(2).
+Provisions similar to those in this section were contained in [section 279 of this title](./chapter-015-military-support-for-civilian-law-enforcement-agencies.md#section-279), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A), and in sections 4541 and 9541 of this title, prior to repeal by Pub. L. 103–160, § 822(d)(2).
 
 #### Amendments
 1994—Pub. L. 103–355 added subsec. (a) and designated existing provisions as subsec. (b).
@@ -249,6 +279,9 @@ Except as otherwise provided in this title, no person may be a member of more th
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 261(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section261/b&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
 
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-10214"></a>
 ## § 10214. Adjutants general and assistant adjutants general: reference to other officers of National Guard
@@ -258,10 +291,13 @@ In any case in which, under the laws of a State, an officer of the National Guar
 ### Statutory Notes
 
 #### Prior Provisions
-Provisions similar to those in this section were contained in [section 281 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section281&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
+Provisions similar to those in this section were contained in [section 281 of this title](./chapter-015-military-support-for-civilian-law-enforcement-agencies.md#section-281), prior to repeal by Pub. L. 103–337, § 1661(a)(2)(A).
 
 #### Amendments
 2011—Pub. L. 111–383 substituted “14508(h)” for “14508(e)”.
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-10215"></a>
@@ -292,6 +328,9 @@ Provisions similar to those in this section were contained in [section 281 of th
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 3080 and 8080 of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-10216"></a>
@@ -474,6 +513,14 @@ Subsec. (d). Pub. L. 104–201, § 1214(1), redesignated subsec. (c) as (d).
 #### Effective Date of 2006 Amendment
 Pub. L. 109–163, div. A, title V, § 513(b), Jan. 6, 2006, 119 Stat. 3232, provided that: “The Secretary of the Army shall implement subsection (f) of [section 10216 of title 10](./chapter-1007-administration-of-reserve-components.md#section-10216), United States Code, as added by subsection (a), not later than 90 days after the date of the enactment of this Act [Jan. 6, 2006].”
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
+#### Conversion of Certain Military Technician (Dual Status) Positions to Civilian Positions
+Pub. L. 114–92, div. A, title X, § 1053(a), Nov. 25, 2015, 129 Stat. 981, as amended by Pub. L. 114–328, div. A, title X, § 1084(a), Dec. 23, 2016, 130 Stat. 2421, provided that: “(1) In general.—By not later than October 1, 2017, the Secretary of Defense shall convert not fewer than 20 percent of all military technician positions to positions filled by individuals who are employed under [section 3101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3101&num=0&edition=prelim), United States Code, or [section 1601 of title 10](./chapter-083-civilian-defense-intelligence-employees.md#section-1601), United States Code, and are not military technicians. The positions to be converted are described in paragraph (2). “(2) Covered positions.—The positions described in this paragraph are military technician (dual status) positions as follows:“(A) Military technician (dual status) positions identified as general administration, clerical, finance, and office service occupations by the Army Reserve, the Air Force Reserve, the National Guard Bureau, State adjutants general, and the Secretary of Defense in the course of reviewing all military technician positions for purposes of implementing this section. “(B) Such other military technician (dual status) positions as the Secretary shall specify for purposes of this subsection. “(3) Treatment of incumbents.—In the case of a position converted under paragraph (1) for which there is an incumbent employee, the Secretary shall fill that position, as converted, with the incumbent employee without regard to any requirement concerning competition or competitive hiring procedures.”
+
+[Pub. L. 114–328, div. A, title X, § 1084(a), Dec. 23, 2016, 130 Stat. 2421, which directed amendment of par. (2) of section 1053(a) of Pub. L. 114–92, set out above, by striking “in the report” and all that follows and inserting “by the Army Reserve, the Air Force Reserve, the National Guard Bureau, State adjutants general, and the Secretary of Defense in the course of reviewing all military technician positions for purposes of implementing this section.”, was executed to subpar. (A) of par. (2) to reflect the probable intent of Congress.]
+
 
 <a id="section-10217"></a>
 ## § 10217. Non-dual status technicians
@@ -517,12 +564,26 @@ Pub. L. 109–163, div. A, title V, § 513(b), Jan. 6, 2006, 119 Stat. 3232, pro
 
 (3) No person may be hired under the authority of this subsection after January 6, 2013.
 
+**(e) Conversion of Positions.—**
+
+(1) No individual may be newly hired or employed, or rehired or reemployed, as a non-dual status technician for purposes of this section after September 30, 2017.
+
+(2) By not later than October 1, 2017, the Secretary of Defense shall convert all non-dual status technicians to positions filled by individuals who are employed under [section 3101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3101&num=0&edition=prelim) or [section 1601 of this title](./chapter-083-civilian-defense-intelligence-employees.md#section-1601) and are not military technicians.
+
+(3) In the case of a position converted under paragraph (2) for which there is an incumbent employee on October 1, 2017, the Secretary shall fill that position, as converted, with the incumbent employee without regard to any requirement concerning competition or competitive hiring procedures.
+
+(4) Any individual newly hired or employed, or rehired or employed, to a position required to be filled by reason of paragraph (1) shall an individual employed in such position under [section 3101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3101&num=0&edition=prelim) or [section 1601 of this title](./chapter-083-civilian-defense-intelligence-employees.md#section-1601).
+
 ### Statutory Notes
 
 #### References in Text
 Section 8016 of the Department of Defense Appropriations Act, 1996 (Public Law 104–61; 109 Stat. 654), referred to in subsec. (b)(4), was set out as a note under [section 10101 of this title](./chapter-1003-reserve-components-generally.md#section-10101) prior to repeal by Pub. L. 105–85, div. A, title V, § 522(e), Nov. 18, 1997, 111 Stat. 1735.
 
 #### Amendments
+2016—Subsec. (e). Pub. L. 114–328 amended subsec. (e) generally. Prior to amendment, subsec. (e) related to phased-in termination of non-dual status positions.
+
+2015—Subsec. (e). Pub. L. 114–92 added subsec. (e).
+
 2013—Subsec. (c)(3). Pub. L. 112–239, § 1076(f)(45), substituted “considered” for “consider”.
 
 Subsec. (d)(3). Pub. L. 112–239, § 1076(e)(7), substituted “after January 6, 2013” for “after the end of the 2-year period beginning on the date of the enactment of this subsection”.
@@ -698,7 +759,7 @@ Pub. L. 106–65, div. A, title V, § 522(a)(3), Oct. 5, 1999, 113 Stat. 597, pr
 
   (B) members of a reserve component who are individual mobilization augmentees.
 
-**(g) Termination.—** The program under this section shall terminate on October 1, 2017.
+**(g) Termination.—** The program under this section shall terminate on October 1, 2018.
 
 ### Statutory Notes
 
@@ -706,4 +767,6 @@ Pub. L. 106–65, div. A, title V, § 522(a)(3), Oct. 5, 1999, 113 Stat. 597, pr
 Section 582 of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (a), is section 582 of Pub. L. 110–181, which is set out as a note under [section 10101 of this title](./chapter-1003-reserve-components-generally.md#section-10101).
 
 #### Amendments
+2016—Subsec. (g). Pub. L. 114–328 substituted “October 1, 2018” for “October 1, 2017”.
+
 2013—Subsecs. (f), (g). Pub. L. 113–66 added subsec. (f) and redesignated former subsec. (f) as (g).

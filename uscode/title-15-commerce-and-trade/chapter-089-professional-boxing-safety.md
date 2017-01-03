@@ -88,12 +88,17 @@ The purposes of this chapter are—
 
 (2) to assist State boxing commissions to provide proper oversight for the professional boxing industry in the United States.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1997, see section 23 of Pub. L. 104–272, set out as a note under [section 6301 of this title](./chapter-089-professional-boxing-safety.md#section-6301).
+
 
 <a id="section-6303"></a>
 ## § 6303. Boxing matches in States without boxing commissions
 **(a)** No person may arrange, promote, organize, produce, or fight in a professional boxing match held in a State that does not have a boxing commission unless the match is supervised by a boxing commission from another State and subject to the most recent version of the recommended regulatory guidelines certified and published by the Association of Boxing Commissions as well as any additional relevant professional boxing regulations and requirements of such other State.
 
-**(b)** For the purpose of this chapter, if no State commission is available to supervise a boxing match according to subsection (a) of this section, then—
+**(b)** For the purpose of this chapter, if no State commission is available to supervise a boxing match according to subsection (a), then—
 
 (1) the match may not be held unless it is supervised by an association of boxing commissions to which at least a majority of the States belong; and
 
@@ -103,6 +108,9 @@ The purposes of this chapter are—
 
 #### Amendments
 2000—Pub. L. 106–210 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Effective Date
+Section effective Jan. 1, 1997, see section 23 of Pub. L. 104–272, set out as a note under [section 6301 of this title](./chapter-089-professional-boxing-safety.md#section-6301).
 
 
 <a id="section-6304"></a>
@@ -118,6 +126,11 @@ No person may arrange, promote, organize, produce, or fight in a professional bo
 
 (4) Health insurance for each boxer to provide medical coverage for any injuries sustained in the match.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1997, see section 23(2) of Pub. L. 104–272, set out as a note under [section 6301 of this title](./chapter-089-professional-boxing-safety.md#section-6301).
+
 
 <a id="section-6305"></a>
 ## § 6305. Registration
@@ -129,7 +142,7 @@ No person may arrange, promote, organize, produce, or fight in a professional bo
 
 **(b) Identification card**
 
-(1) **Issuance** — A boxing commission shall issue to each professional boxer who registers in accordance with subsection (a) of this section, an identification card that contains each of the following:
+(1) **Issuance** — A boxing commission shall issue to each professional boxer who registers in accordance with subsection (a), an identification card that contains each of the following:
 
   (A) A recent photograph of the boxer.
 
@@ -141,7 +154,7 @@ No person may arrange, promote, organize, produce, or fight in a professional bo
 
 (3) **Presentation** — Each professional boxer shall present his or her identification card to the appropriate boxing commission not later than the time of the weigh-in for a professional boxing match.
 
-**(c) Health and safety disclosures** It is the sense of the Congress that a boxing commission should, upon issuing an identification card to a boxer under subsection (b)(1) of this section, make a health and safety disclosure to that boxer as that commission considers appropriate. The health and safety disclosure should include the health and safety risks associated with boxing, and, in particular, the risk and frequency of brain injury and the advisability that a boxer periodically undergo medical procedures designed to detect brain injury.
+**(c) Health and safety disclosures** It is the sense of the Congress that a boxing commission should, upon issuing an identification card to a boxer under subsection (b)(1), make a health and safety disclosure to that boxer as that commission considers appropriate. The health and safety disclosure should include the health and safety risks associated with boxing, and, in particular, the risk and frequency of brain injury and the advisability that a boxer periodically undergo medical procedures designed to detect brain injury.
 
 ### Statutory Notes
 
@@ -150,6 +163,9 @@ No person may arrange, promote, organize, produce, or fight in a professional bo
 
 Subsec. (c). Pub. L. 106–210, § 7(f), added subsec. (c).
 
+#### Effective Date
+Section effective July 1, 1997, see section 23(2) of Pub. L. 104–272, set out as a note under [section 6301 of this title](./chapter-089-professional-boxing-safety.md#section-6301).
+
 
 <a id="section-6306"></a>
 ## § 6306. Review
@@ -157,7 +173,7 @@ Subsec. (c). Pub. L. 106–210, § 7(f), added subsec. (c).
 
 (1) Procedures to evaluate the professional records and physician’s certification of each boxer participating in a professional boxing match in the State, and to deny authorization for a boxer to fight where appropriate.
 
-(2) Procedures to ensure that, except as provided in subsection (b) of this section, no boxer is permitted to box while under suspension from any boxing commission due to—
+(2) Procedures to ensure that, except as provided in subsection (b), no boxer is permitted to box while under suspension from any boxing commission due to—
 
   (A) a recent knockout or series of consecutive losses;
 
@@ -179,7 +195,7 @@ Subsec. (c). Pub. L. 106–210, § 7(f), added subsec. (c).
 
 **(b) Suspension in another State** A boxing commission may allow a boxer who is under suspension in any State to participate in a professional boxing match—
 
-(1) for any reason other than those listed in subsection (a) of this section if such commission notifies in writing and consults with the designated official of the suspending State’s boxing commission prior to the grant of approval for such individual to participate in that professional boxing match; or
+(1) for any reason other than those listed in subsection (a) if such commission notifies in writing and consults with the designated official of the suspending State’s boxing commission prior to the grant of approval for such individual to participate in that professional boxing match; or
 
 (2) if the boxer appeals to the Association of Boxing Commissions, and the Association of Boxing Commissions determines that the suspension of such boxer was without sufficient grounds, for an improper purpose, or not related to the health and safety of the boxer or the purposes of this chapter.
 
@@ -190,11 +206,19 @@ Subsec. (c). Pub. L. 106–210, § 7(f), added subsec. (c).
 
 Subsec. (a)(3). Pub. L. 106–210, § 7(d), substituted “boxer, licensee, manager, matchmaker, promoter, or other boxing service provider” for “boxer” the first place appearing.
 
+#### Effective Date
+Section effective July 1, 1997, see section 23(2) of Pub. L. 104–272, set out as a note under [section 6301 of this title](./chapter-089-professional-boxing-safety.md#section-6301).
+
 
 <a id="section-6307"></a>
 ## § 6307. Reporting
 
 Not later than 48 business hours after the conclusion of a professional boxing match, the supervising boxing commission shall report the results of such boxing match and any related suspensions to each boxer registry.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective July 1, 1997, see section 23(2) of Pub. L. 104–272, set out as a note under [section 6301 of this title](./chapter-089-professional-boxing-safety.md#section-6301).
 
 
 <a id="section-6307a"></a>
@@ -228,7 +252,7 @@ A prior section 9 of Pub. L. 104–272 was renumbered section 17 and is classifi
 
 **(b) Promotional rights under mandatory bout contracts** No boxing service provider may require a boxer to grant any future promotional rights as a requirement of competing in a professional boxing match that is a mandatory bout under the rules of a sanctioning organization.
 
-**(c) Protection from coercive contracts with broadcasters** Subsection (a) of this section applies to any contract between a commercial broadcaster and a boxer, or granting any rights with respect to that boxer, involving a broadcast in or affecting interstate commerce, regardless of the broadcast medium. For the purpose of this subsection, any reference in subsection (a)(1)(B) of this section to “promoter” shall be considered a reference to “commercial broadcaster”.
+**(c) Protection from coercive contracts with broadcasters** Subsection (a) of this section applies to any contract between a commercial broadcaster and a boxer, or granting any rights with respect to that boxer, involving a broadcast in or affecting interstate commerce, regardless of the broadcast medium. For the purpose of this subsection, any reference in subsection (a)(1)(B) to “promoter” shall be considered a reference to “commercial broadcaster”.
 
 ### Statutory Notes
 
@@ -401,6 +425,9 @@ No person may arrange, promote, organize, produce, or fight in a professional bo
 #### Amendments
 2000—Pub. L. 106–210, § 5, designated existing provisions as subsec. (a), inserted subsec. heading, and added subsecs. (b) and (c).
 
+#### Effective Date
+Section effective July 1, 1997, and not applicable to an otherwise authorized boxing commission in the Commonwealth of Virginia until July 1, 1998, see section 23(1), (2) of Pub. L. 104–272, set out as a note under [section 6301 of this title](./chapter-089-professional-boxing-safety.md#section-6301).
+
 
 <a id="section-6309"></a>
 ## § 6309. Enforcement
@@ -426,7 +453,7 @@ No person may arrange, promote, organize, produce, or fight in a professional bo
 
 (2) to enforce compliance with this chapter;
 
-(3) to obtain the fines provided under subsection (b) of this section or appropriate restitution; or
+(3) to obtain the fines provided under subsection (b) or appropriate restitution; or
 
 (4) to obtain such other relief as the court may deem appropriate.
 
@@ -451,6 +478,9 @@ Subsec. (b)(3), (4). Pub. L. 106–210, § 6(2), (4), redesignated pars. (2) and
 
 Subsecs. (c) to (e). Pub. L. 106–210, § 6(5), added subsecs. (c) to (e).
 
+#### Effective Date
+Section effective Jan. 1, 1997, see section 23 of Pub. L. 104–272, set out as a note under [section 6301 of this title](./chapter-089-professional-boxing-safety.md#section-6301).
+
 
 <a id="section-6310"></a>
 ## § 6310. Notification of supervising boxing commission
@@ -467,6 +497,11 @@ Each promoter who intends to hold a professional boxing match in a State that do
 
 (3) For any individual listed under paragraph (2), the identity of the boxing commission that issued the suspension described in paragraph (2)(A).
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1997, see section 23 of Pub. L. 104–272, set out as a note under [section 6301 of this title](./chapter-089-professional-boxing-safety.md#section-6301).
+
 
 <a id="section-6311"></a>
 ## § 6311. Studies
@@ -474,18 +509,23 @@ Each promoter who intends to hold a professional boxing match in a State that do
 
 **(b) Health, safety, and equipment** The Secretary of Health and Human Services shall conduct a study to develop recommendations for health, safety, and equipment standards for boxers and for professional boxing matches.
 
-**(c) Reports** Not later than one year after October 9, 1996, the Secretary of Labor shall submit a report to the Congress on the findings of the study conducted pursuant to subsection (a) of this section. Not later than 180 days after October 9, 1996, the Secretary of Health and Human Services shall submit a report to the Congress on the findings of the study conducted pursuant to subsection (b) of this section.
+**(c) Reports** Not later than one year after October 9, 1996, the Secretary of Labor shall submit a report to the Congress on the findings of the study conducted pursuant to subsection (a). Not later than 180 days after October 9, 1996, the Secretary of Health and Human Services shall submit a report to the Congress on the findings of the study conducted pursuant to subsection (b).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1997, see section 23 of Pub. L. 104–272, set out as a note under [section 6301 of this title](./chapter-089-professional-boxing-safety.md#section-6301).
 
 
 <a id="section-6312"></a>
 ## § 6312. Professional boxing matches conducted on Indian reservations
 **(a) Definitions** For purposes of this section, the following definitions shall apply:
 
-(1) **Indian tribe** — The term “Indian tribe” has the same meaning as in [section 450b(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim).
+(1) **Indian tribe** — The term “Indian tribe” has the same meaning as in [section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim).
 
 (2) **Reservation** — The term “reservation” means the geographically defined area over which a tribal organization exercises governmental jurisdiction.
 
-(3) **Tribal organization** — The term “tribal organization” has the same meaning as in section 450b(l) of title 25.
+(3) **Tribal organization** — The term “tribal organization” has the same meaning as in section 5304(l) of title 25.
 
 **(b) Requirements**
 
@@ -501,8 +541,18 @@ Each promoter who intends to hold a professional boxing match in a State that do
 
   (B) the most recently published version of the recommended regulatory guidelines certified and published by the Association of Boxing Commissions.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1997, see section 23 of Pub. L. 104–272, set out as a note under [section 6301 of this title](./chapter-089-professional-boxing-safety.md#section-6301).
+
 
 <a id="section-6313"></a>
 ## § 6313. Relationship with State law
 
 Nothing in this chapter shall prohibit a State from adopting or enforcing supplemental or more stringent laws or regulations not inconsistent with this chapter, or criminal, civil, or administrative fines for violations of such laws or regulations.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1997, see section 23 of Pub. L. 104–272, set out as a note under [section 6301 of this title](./chapter-089-professional-boxing-safety.md#section-6301).

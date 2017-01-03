@@ -66,12 +66,17 @@ Pub. L. 98–94, title IX, § 925(b)(3), Sept. 24, 1983, 97 Stat. 648, required 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(1)
+Pub. L. 114–92, div. A, title VI, §§ 633(a)(3), 635, Nov. 25, 2015, 129 Stat. 850, 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (a)(1) of this section is amended by striking “or 1414” and inserting “, 1414, or 1415”. See 2015 Amendment note below.
+
 #### References in Text
 Section 4 of Public Law 92–425, referred to in subsec. (a)(4), is set out as a note under [section 1448 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1448).
 
 Section 5 of Public Law 96–402, referred to in subsec. (a)(4), is set out as a note under [section 1448 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1448).
 
 #### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–92 substituted “, 1414, or 1415” for “or 1414”.
+
 2004—Subsec. (a)(1). Pub. L. 108–375 substituted “1413a” for “1413, 1413a,”.
 
 2003—Subsec. (a)(1). Pub. L. 108–136 inserted before semicolon at end “and payments under section 1413, 1413a, or 1414 of this title paid to such members”.
@@ -85,6 +90,9 @@ Section 5 of Public Law 96–402, referred to in subsec. (a)(4), is set out as a
 1992—Subsec. (a). Pub. L. 102–484, as amended by Pub. L. 103–35, added par. (5).
 
 1989—Subsec. (a). Pub. L. 101–189 substituted “members” for “persons” in par. (1), added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+#### Effective Date of 2015 Amendment; Implementation
+Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under [section 8432 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8432&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2003 Amendment
 Amendment by Pub. L. 108–136 effective Oct. 1, 2003, with Secretary of Defense to provide for certain administrative adjustments, see section 641(c)(6) of Pub. L. 108–136, set out as a note under [section 1413a of this title](./chapter-071-computation-of-retired-pay.md#section-1413a).

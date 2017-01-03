@@ -81,6 +81,14 @@ There is a Secretary of Veterans Affairs, who is the head of the Department and 
 #### Prior Provisions
 Provisions similar to those in this section were contained in section 210(a), (b)(1) of this title and in second and third sentences of section 2 of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, §§ 2(a), 3(1).
 
+#### Inclusion in Annual Budget Submission of Information on Capacity of Veterans Benefits Administration To Process Benefits Claims
+Pub. L. 114–315, title I, § 106, Dec. 16, 2016, 130 Stat. 1542, provided that: “(a) In General.—Along with the supporting information included in the budget submitted to Congress by the President pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, the President shall include information on the capacity of the Veterans Benefits Administration to process claims for benefits under the laws administered by the Secretary of Veterans Affairs, including information described in subsection (b), during the fiscal year covered by the budget with which the information is submitted. “(b) Information Described.—The information described in this subsection is the following:“(1) An estimate of the average number of claims for benefits under the laws administered by the Secretary, excluding such claims completed during mandatory overtime, that a single full-time equivalent employee of the Administration should be able to process in a year, based on the following:“(A) A time and motion study that the Secretary shall conduct on the processing of such claims. “(B) Such other information relating to such claims as the Secretary considers appropriate. “(2) A description of the actions the Secretary will take to improve the processing of such claims. “(3) An assessment of the actions identified by the Secretary under paragraph (2) in the previous year and an identification of the effects of those actions. “(c) Effective Date.—This section shall apply with respect to any budget submitted as described in subsection (a) with respect to any fiscal year after fiscal year 2018.”
+
+#### Information To Be Included in Budget Justification Documents for Construction, Major Projects Account
+Pub. L. 114–223, div. A, title II, § 258, Sept. 29, 2016, 130 Stat. 895, provided that: “(a) In fiscal year 2017 and each fiscal year hereafter, beginning with the fiscal year 2018 budget request submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, the budget justification documents submitted for the ‘Construction, Major Projects’ account of the Department of Veterans Affairs shall include, at a minimum, the information required under subsection (b). “(b) The budget justification documents submitted pursuant to subsection (a) shall include, for each project—“(1) the estimated total cost of the project; “(2) the funding provided for each fiscal year prior to the budget year; “(3) the amount requested for the budget year; “(4) the estimated funding required for the project for each of the 4 fiscal years succeeding the budget year; and “(5) such additional information as is enumerated under the heading relating to the ‘Construction, Major Projects’ account of the Department of Veterans Affairs in the joint explanatory statement accompanying this Act. “(c) Not later than 45 days after the date of enactment of this Act [Sept. 29, 2016], the Secretary of Veterans Affairs shall submit to the Committees on Appropriations of both Houses of Congress a proposed budget justification template that complies with the requirements of this section.”
+
+[For definition of “joint explanatory statement accompanying this Act” as used in section 258 of div. A of Pub. L. 114–223, set out above, see section 6 of Pub. L. 114–223, Sept. 29, 2016, 130 Stat. 858.]
+
 #### Notice to Congressional Veterans Committees of Certain Transfers of Funds
 Pub. L. 109–461, title X, § 1001, Dec. 22, 2006, 120 Stat. 3464, provided that: “To the extent that the Secretary of Veterans Affairs is required or directed, under any provision of law, to provide written notice to any committee of Congress other than the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives on the transfer of appropriations from one account to any other account, the Secretary shall also transmit such notice to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives.”
 
@@ -373,10 +381,36 @@ Provisions similar to those in this section were contained in section 8(a) of Pu
 
 (2) The President shall include in the budget transmitted to the Congress for each fiscal year pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) an estimate of the amount for the Office of Inspector General that is sufficient to provide for a number of full-time positions in that office that is not less than the number of full-time positions in that office on March 15, 1989, plus 40.
 
+**(c)**
+
+(1) Whenever the Inspector General, in carrying out the duties and responsibilities established under the Inspector General Act of 1978 (5 U.S.C. App.), issues a work product the Inspector General shall—
+
+  (A) submit the work product to—
+
+    (i) the Secretary;
+
+    (ii) the Committee on Veterans’ Affairs, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate;
+
+    (iii) the Committee on Veterans’ Affairs, the Committee on Oversight and Government Reform, and the Committee on Appropriations of the House of Representatives;
+
+    (iv) if the work product was initiated upon request by an individual or entity other than the Inspector General, that individual or entity; and
+
+    (v) any Member of Congress upon request; and
+
+  (B) the Inspector General shall submit all final work products to—
+
+    (i) if the work product was initiated upon request by an individual or entity other than the Inspector General, that individual or entity; and
+
+    (ii) any Member of Congress upon request; and
+
+  (C) not later than 3 days after the work product is submitted in final form to the Secretary, post the work product on the Internet website of the Inspector General.
+
+(2) Nothing in this subsection shall be construed to authorize the public disclosure of information that is specifically prohibited from disclosure by any other provision of law.
+
 ### Statutory Notes
 
 #### References in Text
-The Inspector General Act of 1978, referred to in subsec. (a), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsecs. (a) and (c)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 Prior section 312 was renumbered [section 1112 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1112).
@@ -384,6 +418,10 @@ Prior section 312 was renumbered [section 1112 of this title](./chapter-011-comp
 Provisions similar to those in this section were contained in section 9(b) of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, § 3(3).
 
 #### Amendments
+2016—Subsec. (c)(1). Pub. L. 114–223, in introductory provisions, struck out “that makes a recommendation or otherwise suggests corrective action,” after “work product”.
+
+2015—Subsec. (c). Pub. L. 114–113 added subsec. (c).
+
 1994—Subsec. (a). Pub. L. 103–446, § 1201(e)(3), substituted “(5 U.S.C. App.)” for “(5 U.S.C. App. 3)”.
 
 Subsec. (b)(3). Pub. L. 103–446, § 1201(g)(1), struck out par. (3) which read as follows: “The Secretary shall provide the number of additional full-time positions in the Office of Inspector General required by paragraph (1) not later than September 30, 1991.”
@@ -445,6 +483,9 @@ Prior section 313 was renumbered [section 1113 of this title](./chapter-011-comp
 
 Provisions similar to those in this section were contained in [section 203 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section203&num=0&edition=prelim) prior to repeal by Pub. L. 102–83, § 2(a).
 
+#### Recurring Expenses Transformational Fund
+Pub. L. 114–113, div. J, title II, § 243, Dec. 18, 2015, 129 Stat. 2701, provided that: “There is hereby established in the Treasury of the United States a fund to be known as the ‘Recurring Expenses Transformational Fund’ (the Fund): Provided, That unobligated balances of expired discretionary funds appropriated in this or any succeeding fiscal year from the General Fund of the Treasury to the Department of Veterans Affairs by this or any other Act may be transferred (at the end of the fifth fiscal year after the last fiscal year for which such funds are available for the purposes for which appropriated) into the Fund: Provided further, That amounts deposited in the Fund shall be available until expended, and in addition to such other funds as may be available for such purposes, for facilities infrastructure improvements, including nonrecurring maintenance, at existing hospitals and clinics of the Veterans Health Administration, and information technology systems improvements and sustainment, subject to approval by the Office of Management and Budget: Provided further, That prior to obligation of any amounts in the Fund, the Secretary of Veterans Affairs shall request from the Committees on Appropriations of both Houses of Congress the authority to make such obligation and such Committees issue an approval, or absent a response, a period of 30 days has elapsed.”
+
 
 <a id="section-314"></a>
 ## § 314. Central Office
@@ -463,7 +504,7 @@ Provisions similar to those in this section were contained in [section 230(a) of
 ## § 315. Regional offices
 **(a)** The Secretary may establish such regional offices and such other field offices within the United States, its Territories, Commonwealths, and possessions, as the Secretary considers necessary.
 
-**(b)** The Secretary may maintain a regional office in the Republic of the Philippines until September 30, 2015.
+**(b)** The Secretary may maintain a regional office in the Republic of the Philippines until September 30, 2017.
 
 ### Statutory Notes
 
@@ -473,6 +514,10 @@ Prior section 315 was renumbered [section 1115 of this title](./chapter-011-comp
 Provisions similar to those in this section were contained in section 230(a), (b) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 #### Amendments
+2016—Subsec. (b). Pub. L. 114–228 substituted “September 30, 2017” for “September 30, 2016”.
+
+2015—Subsec. (b). Pub. L. 114–58 substituted “September 30, 2016” for “September 30, 2015”.
+
 2014—Subsec. (b). Pub. L. 113–175 substituted “September 30, 2015” for “December 31, 2014”.
 
 2013—Subsec. (b). Pub. L. 113–59 substituted “December 31, 2014” for “December 31, 2013”.
@@ -776,7 +821,7 @@ Pub. L. 105–114, title I, § 102(b), Nov. 21, 1997, 111 Stat. 2281, provided t
 
 (1) The Deputy Secretary of Veterans Affairs and the Under Secretary of Defense shall determine the size and structure of the Committee, as well as the administrative and procedural guidelines for the operation of the Committee.
 
-(2) The two Departments shall supply appropriate staff and resources to provide administrative support and services. Support for such purposes shall be provided at a level sufficient for the efficient operation of the Committee, including a subordinate Health Executive Committee, a subordinate Benefits Executive Committee, and such other committees or working groups as considered necessary by the Deputy Secretary and Under Secretary.
+(2) The two Departments shall supply appropriate staff and resources to provide administrative support and services. Support for such purposes shall be provided at a level sufficient for the efficient operation of the Committee, including a subordinate Health Executive Committee, a subordinate Benefits Executive Committee, a subordinate Job Training and Post-Service Placement Executive Committee, and such other committees or working groups as considered necessary by the Deputy Secretary and Under Secretary.
 
 **(c) Recommendations.—**
 
@@ -788,7 +833,7 @@ Pub. L. 105–114, title I, § 102(b), Nov. 21, 1997, 111 Stat. 2281, provided t
 
 (1) Review existing policies, procedures, and practices relating to the coordination and sharing of resources between the two Departments.
 
-(2) Identify changes in policies, procedures, and practices that, in the judgment of the Committee, would promote mutually beneficial coordination, use, or exchange of use of services and resources of the two Departments, with the goal of improving the quality, efficiency and effectiveness of the delivery of benefits and services to veterans, service members, military retirees, and their families through an enhanced Department of Veterans Affairs and Department of Defense partnership.
+(2) Identify changes in policies, procedures, and practices that, in the judgment of the Committee, would promote mutually beneficial coordination, use, or exchange of use of services and resources of the two Departments, with the goal of improving the quality, efficiency and effectiveness of the delivery of benefits and services to veterans, service members, military retirees, and their families through an enhanced Department of Veterans Affairs and Department of Defense partnership, including with respect to job training and post-service placement.
 
 (3) Identify and assess further opportunities for the coordination and collaboration between the Departments that, in the judgment of the Committee, would not adversely affect the range of services, the quality of care, or the established priorities for benefits provided by either Department.
 
@@ -796,7 +841,20 @@ Pub. L. 105–114, title I, § 102(b), Nov. 21, 1997, 111 Stat. 2281, provided t
 
 (5) Review the implementation of activities designed to promote the coordination and sharing of resources between the Departments.
 
+**(e) Job Training and Post-Service Placement Executive Committee.—** The Job Training and Post-Service Placement Executive Committee described in subsection (b)(2) shall—
+
+(1) review existing policies, procedures, and practices of the Departments (including the military departments) with respect to job training and post-service placement programs; and
+
+(2) identify changes to such policies, procedures, and practices to improve job training and post-service placement.
+
 ### Statutory Notes
+
+#### Amendments
+2015—Subsec. (b)(2). Pub. L. 114–92, § 561(1), inserted “a subordinate Job Training and Post-Service Placement Executive Committee,” before “such other committees”.
+
+Subsec. (d)(2). Pub. L. 114–92, § 561(3), inserted “, including with respect to job training and post-service placement” before period at end.
+
+Subsec. (e). Pub. L. 114–92, § 561(2), added subsec. (e).
 
 #### Effective Date
 Pub. L. 108–136, div. A, title V, § 583(d)(2), Nov. 24, 2003, 117 Stat. 1492, provided that: “If this Act is enacted on or after October 1, 2003, the amendments made by this section [enacting this section and amending [section 8111 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8111)] shall take effect on the date of the enactment of this Act [Nov. 24, 2003].”
@@ -844,13 +902,17 @@ Pub. L. 108–136, div. A, title VII, § 727, Nov. 24, 2003, 117 Stat. 1537, pro
 
 **(d) Monthly Assistance Allowance.—**
 
-(1) Subject to the availability of appropriations for such purpose, the Secretary may provide a monthly assistance allowance to a veteran with a disability invited by the United States Olympic Committee to compete for a slot on, or selected for, the Paralympic Team for any month in which the veteran is training or competing in any event sanctioned by the United States Olympic Committee or who is residing at a United States Olympic Committee training center.
+(1) Subject to the availability of appropriations for such purpose, the Secretary may provide a monthly assistance allowance to—
+
+  (A) a veteran with a disability invited by the United States Olympic Committee to compete for a slot on, or selected for, the Paralympic Team for any month in which the veteran is training or competing in any event sanctioned by the United States Olympic Committee or who is residing at a United States Olympic Committee training center; and
+
+  (B) a veteran with a VA service-connected disability rated as 30 percent or greater by the Department of Veterans Affairs who is selected by the United States Olympic Committee for the United States Olympic Team for any month in which the veteran is competing in any event sanctioned by the National Governing Bodies of the United States Olympic Sports.
 
 (2) The amount of the monthly assistance payable to a veteran under paragraph (1) shall be equal to the monthly amount of subsistence allowance that would be payable to the veteran under chapter 31 of this title if the veteran were eligible for and entitled to rehabilitation under such chapter.
 
 (3) In providing assistance under this subsection, the Secretary shall give priority to veterans with service-connected disabilities.
 
-(4) There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2015.
+(4) There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2017.
 
 **(e) Applicability to Commonwealths and Territories of the United States.—** The provisions of this subsection shall apply in the same manner and to the same degree as to the United States Olympic Committee to the Paralympic sport entities the Secretary considers appropriate to represent the interests of each of the following:
 
@@ -872,6 +934,12 @@ Pub. L. 108–136, div. A, title VII, § 727, Nov. 24, 2003, 117 Stat. 1537, pro
 The date of the enactment of this section, referred to in subsec. (f), is the date of enactment of Pub. L. 110–389, which was approved Oct. 10, 2008.
 
 #### Amendments
+2016—Subsec. (d)(1). Pub. L. 114–223 substituted “allowance to—” for “allowance to”, inserted subpar. (A) designation before “a veteran”, and added subpar. (B).
+
+Subsec. (d)(4). Pub. L. 114–228 substituted “2017” for “2016”.
+
+2015—Subsec. (d)(4). Pub. L. 114–58 substituted “2016” for “2015”.
+
 2013—Subsec. (b)(4). Pub. L. 113–59, § 4(b), substituted “cooperate with entities with significant experience in managing large-scale adaptive sports programs;” for “cooperate with the United States Olympic Committee and its partners to promote the participation of disabled veterans and disabled members of the Armed Forces in sporting events sponsored by the United States Olympic Committee and its partners;”.
 
 Pub. L. 113–37, § 2(a)(2), substituted “United States Olympic Committee” for “United States Paralympics, Inc.,” in two places.

@@ -22,7 +22,7 @@ Congress finds the following:
 ### Statutory Notes
 
 #### Effective Date
-Chapter effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 #### Short Title
 Pub. L. 110–140, title XIV, § 1401, Dec. 19, 2007, 121 Stat. 1794, provided that: “This title [enacting this chapter] may be cited as the ‘Virginia Graeme Baker Pool and Spa Safety Act’.”
@@ -58,6 +58,9 @@ In this chapter:
 2011—Par. (8). Pub. L. 112–10 inserted at end “For purposes of eligibility for the grants authorized under [section 8004 of this title](./chapter-106-pool-and-spa-safety.md#section-8004), such term shall also include any political subdivision of a State.”
 
 2008—Par. (8). Pub. L. 110–314 added par. (8).
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-8003"></a>
@@ -114,6 +117,9 @@ The Consumer Product Safety Act, referred to in subsec. (a), is Pub. L. 92–573
 #### Amendments
 2008—Subsec. (b). Pub. L. 110–314 inserted at end “If a successor standard is proposed, the American Society of Mechanical Engineers shall notify the Commission of the proposed revision. If the Commission determines that the proposed revision is in the public interest, it shall incorporate the revision into the standard after providing 30 days notice to the public.”
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-8004"></a>
 ## § 8004. State swimming pool safety grant program
@@ -164,6 +170,9 @@ Subsec. (e). Pub. L. 113–76, § 501(1)(B), substituted “There is authorized 
 Subsec. (e). Pub. L. 112–74, § 502(a), substituted “2012” for “2011”.
 
 Pub. L. 112–10, which directed substitution of “2011” for “2010”, was executed by making the substitution for “2010” the second place appearing to reflect the probable intent of Congress.
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-8005"></a>
@@ -241,6 +250,9 @@ Pub. L. 112–10, which directed substitution of “2011” for “2010”, was 
 
 Subsec. (a)(2) to (4). Pub. L. 113–76, § 501(2)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, substituted “paragraph (1)(B)” for “paragraph (1)” in introductory provisions of par. (3), and struck out former par. (2) which read as follows: “The minimum State law notification requirement under paragraph (1)(A)(v) shall not be construed to imply any liability on the part of a State related to that requirement.”
 
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-8006"></a>
 ## § 8006. Education program
@@ -254,11 +266,21 @@ Subsec. (a)(2) to (4). Pub. L. 113–76, § 501(2)(B), (C), redesignated pars. (
 
 **(b) Authorization of appropriations** There are authorized to be appropriated to the Commission for each of the fiscal years 2008 through 2012 $5,000,000 to carry out the education program authorized by subsection (a).
 
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
 
 <a id="section-8007"></a>
 ## § 8007. CPSC report
 
 Not later than 1 year after the last day of each fiscal year for which grants are made under [section 8004 of this title](./chapter-106-pool-and-spa-safety.md#section-8004), the Commission shall submit to Congress a report evaluating the implementation of the grant program authorized by that section.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
 <a id="section-8008"></a>

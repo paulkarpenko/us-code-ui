@@ -35,7 +35,7 @@ Provisions similar to those in this section were contained in [section 11101 of 
 1996—Subsec. (e). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this section”.
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-15721"></a>

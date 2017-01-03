@@ -260,7 +260,7 @@ As used in this chapter, the term—
 
 (5) “fire service” means any organization in any State consisting of personnel, apparatus, and equipment which has as its purpose protecting property and maintaining the safety and welfare of the public from the dangers of fire, including a private firefighting brigade. The personnel of any such organization may be paid employees or unpaid volunteers or any combination thereof. The location of any such organization and its responsibility for extinguishment and suppression of fires may include, but need not be limited to, a Federal installation, a State, city, town, borough, parish, county, Indian tribe, fire district, fire protection district, rural fire district, or other special district. The terms “fire prevention”, “firefighting”, and “fire control” relate to activities conducted by a fire service;
 
-(6) “Indian tribe” has the meaning given that term in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim) and “tribal” means of or pertaining to an Indian tribe;
+(6) “Indian tribe” has the meaning given that term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim) and “tribal” means of or pertaining to an Indian tribe;
 
 (7) “local” means of or pertaining to any city, town, county, special purpose district, unincorporated territory, or other political subdivision of a State;
 
@@ -606,7 +606,7 @@ Pub. L. 101–507, title III, Nov. 5, 1990, 104 Stat. 1377, provided that: “Th
 
 **(f) Technology evaluation and standards development**
 
-(1) **In general** — In addition to, or as part of, the program conducted under subsection (a) of this section, the Administrator, in consultation with the National Institute of Standards and Technology, the Inter-Agency Board for Equipment Standardization and Inter-Operability, the National Institute for Occupational Safety and Health, the Directorate of Science and Technology of the Department of Homeland Security, national voluntary consensus standards development organizations, interested Federal, State, and local agencies, and other interested parties, shall—
+(1) **In general** — In addition to, or as part of, the program conducted under subsection (a), the Administrator, in consultation with the National Institute of Standards and Technology, the Inter-Agency Board for Equipment Standardization and Inter-Operability, the National Institute for Occupational Safety and Health, the Directorate of Science and Technology of the Department of Homeland Security, national voluntary consensus standards development organizations, interested Federal, State, and local agencies, and other interested parties, shall—
 
   (A) develop new, and utilize existing, measurement techniques and testing methodologies for evaluating new firefighting technologies, including—
 
@@ -1337,7 +1337,7 @@ Functions of Administrator of United States Fire Administration under this secti
 
   (B) innovative courses developed with the Academy and made available to volunteer firefighters through regional delivery methods, including teleconferencing and satellite delivered television programs.
 
-**(d) Structuring of applications** The Administrator shall assist grant applicants in structuring their applications so as to ensure that at least one grant is awarded for each goal described in subsection (c) of this section.
+**(d) Structuring of applications** The Administrator shall assist grant applicants in structuring their applications so as to ensure that at least one grant is awarded for each goal described in subsection (c).
 
 **(e) State qualification criteria** In order to qualify for a grant under this section, a State, or consortium of States, shall provide assurances adequate to the Administrator that the State or consortium—
 
@@ -1482,9 +1482,9 @@ Section was enacted as part of the Firefighters’ Safety Study Act, and not as 
 
 **(b) Compilation and distribution of master list**
 
-(1) Not later than 60 days after the expiration of the 2-year period referred to in subsection (a) of this section, the Administrator of FEMA shall compile and publish in the Federal Register a national master list of all of the places of public accommodation affecting commerce located in each State that meet the requirements of the guidelines described in [section 2225 of this title](./chapter-049-fire-prevention-and-control.md#section-2225), and shall distribute such list to each agency of the Federal Government and take steps to make the employees of such agencies aware of its existence and contents.
+(1) Not later than 60 days after the expiration of the 2-year period referred to in subsection (a), the Administrator of FEMA shall compile and publish in the Federal Register a national master list of all of the places of public accommodation affecting commerce located in each State that meet the requirements of the guidelines described in [section 2225 of this title](./chapter-049-fire-prevention-and-control.md#section-2225), and shall distribute such list to each agency of the Federal Government and take steps to make the employees of such agencies aware of its existence and contents.
 
-(2) The Administrator of FEMA shall periodically update the national master list compiled pursuant to paragraph (1) to reflect changes in the State lists submitted to the Administrator of FEMA pursuant to subsection (a) of this section, and shall periodically redistribute the updated master list to each agency of the Federal Government.
+(2) The Administrator of FEMA shall periodically update the national master list compiled pursuant to paragraph (1) to reflect changes in the State lists submitted to the Administrator of FEMA pursuant to subsection (a), and shall periodically redistribute the updated master list to each agency of the Federal Government.
 
 (3) For purposes of this subsection, the term “agency” has the meaning given to it under [section 5701(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701/1&num=0&edition=prelim).
 
@@ -1513,9 +1513,9 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **(b) Exceptions**
 
-(1) The requirement described in subsection (a)(2) of this section shall not apply to a place of public accommodation affecting commerce with an automatic sprinkler system installed before October 25, 1992, if the automatic sprinkler system is installed in compliance with an applicable standard (adopted by the governmental authority having jurisdiction, and in effect, at the time of installation) that required the placement of a sprinkler head in the sleeping area of each guest room.
+(1) The requirement described in subsection (a)(2) shall not apply to a place of public accommodation affecting commerce with an automatic sprinkler system installed before October 25, 1992, if the automatic sprinkler system is installed in compliance with an applicable standard (adopted by the governmental authority having jurisdiction, and in effect, at the time of installation) that required the placement of a sprinkler head in the sleeping area of each guest room.
 
-(2) The requirement described in subsection (a)(2) of this section shall not apply to a place of public accommodation affecting commerce to the extent that such place of public accommodation affecting commerce is subject to a standard that includes a requirement or prohibition that prevents compliance with a provision of National Fire Protection Association Standard 13 or 13–R, or any successor standard to that standard. In such a case, the place of public accommodation affecting commerce is exempt only from that specific provision.
+(2) The requirement described in subsection (a)(2) shall not apply to a place of public accommodation affecting commerce to the extent that such place of public accommodation affecting commerce is subject to a standard that includes a requirement or prohibition that prevents compliance with a provision of National Fire Protection Association Standard 13 or 13–R, or any successor standard to that standard. In such a case, the place of public accommodation affecting commerce is exempt only from that specific provision.
 
 **(c) Effect on State and local law** The provisions of this section shall not be construed to limit the power of any State or political subdivision thereof to implement or enforce any law, rule, regulation, or standard concerning fire prevention and control.
 
@@ -1547,21 +1547,21 @@ Subsec. (d)(3). Pub. L. 102–522, § 105(b), added par. (3).
 
 **(b) Waiver**
 
-(1) **In general** — The head of an agency of the Federal Government sponsoring or funding a particular meeting, convention, conference, or training seminar may waive the prohibition described in subsection (a) of this section if the head of such agency determines that a waiver of such prohibition is necessary in the public interest in the case of such particular event.
+(1) **In general** — The head of an agency of the Federal Government sponsoring or funding a particular meeting, convention, conference, or training seminar may waive the prohibition described in subsection (a) if the head of such agency determines that a waiver of such prohibition is necessary in the public interest in the case of such particular event.
 
-(2) **Delegation of authority** — The head of an agency of the Federal Government may delegate the authority provided under paragraph (1) to waive the prohibition described in subsection (a) of this section and to determine whether such a waiver is necessary in the public interest to an officer or employee of the agency if such officer or employee is given such authority with respect to all meetings, conventions, conferences, and training seminars sponsored or funded by the agency.
+(2) **Delegation of authority** — The head of an agency of the Federal Government may delegate the authority provided under paragraph (1) to waive the prohibition described in subsection (a) and to determine whether such a waiver is necessary in the public interest to an officer or employee of the agency if such officer or employee is given such authority with respect to all meetings, conventions, conferences, and training seminars sponsored or funded by the agency.
 
 **(c) Notice requirements**
 
 (1) **Advertisements and applications**
 
-  (A) Any advertisement for or application for attendance at a meeting, convention, conference, or training seminar sponsored or funded in whole or in part by the Federal Government shall include a notice regarding the prohibition described in subsection (a) of this section.
+  (A) Any advertisement for or application for attendance at a meeting, convention, conference, or training seminar sponsored or funded in whole or in part by the Federal Government shall include a notice regarding the prohibition described in subsection (a).
 
-  (B) The requirement described in subparagraph (A) shall not apply in the case of an event for which a head of an agency of the Federal Government, pursuant to subsection (b) of this section, waives the prohibition described in subsection (a) of this section.
+  (B) The requirement described in subparagraph (A) shall not apply in the case of an event for which a head of an agency of the Federal Government, pursuant to subsection (b), waives the prohibition described in subsection (a).
 
 (2) **Providing notice to recipients of funds**
 
-  (A) Each Executive department, Government corporation, and independent establishment providing Federal funds to non-Federal entities shall notify recipients of such funds of the prohibition described in subsection (a) of this section.
+  (A) Each Executive department, Government corporation, and independent establishment providing Federal funds to non-Federal entities shall notify recipients of such funds of the prohibition described in subsection (a).
 
   (B) In subparagraph (A), the terms “Executive department”, “Government corporation”, and “independent establishment” have the meanings given such terms in chapter 1 of title 5.
 
@@ -1717,7 +1717,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 (1) Within 3 years after October 26, 1992, and every 3 years thereafter, the Administrator of General Services shall transmit to Congress a report on the level of fire safety in Federal employee office buildings subject to fire safety requirements under this section. Such report shall contain a description of such buildings for each Federal agency.
 
-(2) Within 10 years after October 26, 1992, each Federal agency providing housing to Federal employees or housing assistance shall submit a report to Congress on the progress of that agency in implementing subsection (c) of this section and on plans for continuing such implementation.
+(2) Within 10 years after October 26, 1992, each Federal agency providing housing to Federal employees or housing assistance shall submit a report to Congress on the progress of that agency in implementing subsection (c) and on plans for continuing such implementation.
 
 (3)
 
@@ -2277,7 +2277,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
   (A) The Administrator of FEMA shall make grants directly to career fire departments, combination fire departments, and volunteer fire departments, in consultation with the chief executive of the State in which the applicant is located, for the purpose of increasing the number of firefighters to help communities meet industry minimum standards and attain 24-hour staffing to provide adequate protection from fire and fire-related hazards, and to fulfill traditional missions of fire departments that antedate the creation of the Department of Homeland Security.
 
-  (B) Grants made under this paragraph shall be for 3 years and be used for programs to hire new, additional firefighters.
+  (B) Grants made under this paragraph shall be for 3 years and be used for programs to hire new, additional firefighters and to provide specialized training to paramedics, emergency medical services workers, and other first responders to recognize individuals who have mental illness and how to properly intervene with individuals with mental illness, including strategies for verbal de-escalation of crises.
 
   (C) In awarding grants under this subsection, the Administrator of FEMA may give preferential consideration to applications that involve a non-Federal contribution exceeding the minimums under subparagraph (E).
 
@@ -2309,7 +2309,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
   (A) explain the applicant’s inability to address the need without Federal assistance;
 
-  (B) in the case of a grant under subsection (a)(1) of this section, explain how the applicant plans to meet the requirements of subsection (a)(1)(B)(ii) and (F) of this section;
+  (B) in the case of a grant under subsection (a)(1), explain how the applicant plans to meet the requirements of subsection (a)(1)(B)(ii) and (F);
 
   (C) specify long-term plans for retaining firefighters following the conclusion of Federal support provided under this section; and
 
@@ -2422,6 +2422,8 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 A prior section 34 of Pub. L. 93–498 was renumbered section 36 and is classified to [section 2231 of this title](./chapter-049-fire-prevention-and-control.md#section-2231).
 
 #### Amendments
+2016—Subsec. (a)(1)(B). Pub. L. 114–255 inserted before period at end “and to provide specialized training to paramedics, emergency medical services workers, and other first responders to recognize individuals who have mental illness and how to properly intervene with individuals with mental illness, including strategies for verbal de-escalation of crises”.
+
 2013—Pub. L. 112–239, § 1804(j), substituted “Staffing for adequate fire and emergency response” for “Expansion of pre-September 11, 2001, fire grant program” in section catchline.
 
 Pub. L. 112–239, § 1804(i), as amended by Pub. L. 113–66, § 1091(b)(9)(B), substituted “Administrator of FEMA” for “Administrator” wherever appearing, except in those places in which “Administrator of FEMA” already appeared.

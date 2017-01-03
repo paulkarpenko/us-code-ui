@@ -29,7 +29,7 @@ For the purpose of this chapter—
 
   (H) an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 (72 Stat. 838);
 
-  (I) an individual appointed to a position on the office staff of a former President, or a former Vice President under section 4 of the Presidential Transition Act of 1963, as amended (78 Stat. 153), who immediately before the date of such appointment was an employee as defined under any other subparagraph of this paragraph; and
+  (I) an individual appointed to a position on the office staff of a former President, or a former Vice President under section 5 of the Presidential Transition Act of 1963, as amended (78 Stat. 153), who immediately before the date of such appointment was an employee as defined under any other subparagraph of this paragraph; and
 
   (J) an individual who is employed by the Roosevelt Campobello International Park Commission and is a citizen of the United States,
   but does not include—
@@ -143,11 +143,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 #### References in Text
 Section 1(b) of the Act of August 25, 1958 (72 Stat. 838), referred to in par. (1)(H), is section 1(b) of Pub. L. 85–745 which is set out as a note under [section 102 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim), The President.
 
-Section 4 of the Presidential Transition Act of 1963, referred to in par. (1)(I), is section 4 of Pub. L. 88–277, which is set out as a note under [section 102 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim).
+Section 5 of the Presidential Transition Act of 1963, referred to in par. (1)(I), is section 5 of Pub. L. 88–277, which is set out as a note under [section 102 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim), The President.
 
 The date of enactment of [section 8903a of this title](./chapter-089-health-insurance.md#section-8903a), referred to in par. (8)(B), means the date of enactment of Pub. L. 99–53, which enacted section 8903a and which was approved June 17, 1985.
 
 #### Amendments
+2016—Par. (1)(I). Pub. L. 114–136 substituted “section 5” for “section 4”.
+
 2007—Par. (1)(J). Pub. L. 110–74 added subpar. (J).
 
 1998—Par. (7). Pub. L. 105–266 substituted “organization and an association of organizations or other entities described in this paragraph sponsoring a health benefits plan;” for “organization;”.

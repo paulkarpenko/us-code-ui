@@ -33,6 +33,9 @@ In order to increase uniformity, reduce regulatory burden, enhance consumer prot
 
 ### Statutory Notes
 
+#### Short Title of 2015 Amendment
+Pub. L. 114–94, div. G, title LXXXVIII, § 88001, Dec. 4, 2015, 129 Stat. 1799, provided that: “This title [amending [section 5110 of this title](./chapter-051-secure-and-fair-enforcement-for-mortgage-licensing.md#section-5110)] may be cited as the ‘State Licensing Efficiency Act of 2015’.”
+
 #### Short Title
 Pub. L. 110–289, div. A, title V, § 1501, July 30, 2008, 122 Stat. 2810, provided that: “This title [enacting this chapter] may be cited as the ‘Secure and Fair Enforcement for Mortgage Licensing Act of 2008’ or ‘S.A.F.E. Mortgage Licensing Act of 2008’.”
 
@@ -412,14 +415,19 @@ Section effective on the designated transfer date, see section 1100H of Pub. L. 
 
 <a id="section-5110"></a>
 ## § 5110. Background checks of loan originators
-**(a) Access to records** Notwithstanding any other provision of law, in providing identification and processing functions, the Attorney General shall provide access to all criminal history information to the appropriate State officials responsible for regulating State-licensed loan originators to the extent criminal history background checks are required under the laws of the State for the licensing of such loan originators.
+**(a) Access to records** Notwithstanding any other provision of law, in providing identification and processing functions, the Attorney General shall provide access to all criminal history information to the appropriate State officials responsible for regulating State-licensed loan originators and other financial service providers to the extent criminal history background checks are required under the laws of the State for the licensing of such loan originators or other financial service providers.
 
-**(b) Agent** For the purposes of this section and in order to reduce the points of contact which the Federal Bureau of Investigation may have to maintain for purposes of subsection (a), the Conference of State Bank Supervisors or a wholly owned subsidiary may be used as a channeling agent of the States for requesting and distributing information between the Department of Justice and the appropriate State agencies.
+**(b) Agent** For the purposes of this section and in order to reduce the points of contact which the Federal Bureau of Investigation may have to maintain for purposes of subsection (a), the Conference of State Bank Supervisors or a wholly owned subsidiary may be used as a channeling agent of the States for requesting and distributing information between the Department of Justice and the appropriate State agencies .
+
+### Statutory Notes
+
+#### Amendments
+2015—Subsec. (a). Pub. L. 114–94 inserted “and other financial service providers” after “State-licensed loan originators” and “or other financial service providers” before period at end.
 
 
 <a id="section-5111"></a>
 ## § 5111. Confidentiality of information
-**(a) System confidentiality** Except as otherwise provided in this section, any requirement under Federal or State law regarding the privacy or confidentiality of any information or material provided to the Nationwide Mortgage Licensing System and Registry or a system established by the Director under [section 5108 of this title](./chapter-051-secure-and-fair-enforcement-for-mortgage-licensing.md#section-5108), and any privilege arising under Federal or State law (including the rules of any Federal or State court) with respect to such information or material, shall continue to apply to such information or material after the information or material has been disclosed to the system. Such information and material may be shared with all State and Federal regulatory officials with mortgage industry oversight authority without the loss of privilege or the loss of confidentiality protections provided by Federal and State laws.
+**(a) System confidentiality** Except as otherwise provided in this section, any requirement under Federal or State law regarding the privacy or confidentiality of any information or material provided to the Nationwide Mortgage Licensing System and Registry or a system established by the Director under [section 5108 of this title](./chapter-051-secure-and-fair-enforcement-for-mortgage-licensing.md#section-5108), and any privilege arising under Federal or State law (including the rules of any Federal or State court) with respect to such information or material, shall continue to apply to such information or material after the information or material has been disclosed to the system. Such information and material may be shared with all State and Federal regulatory officials with mortgage or financial services industry oversight authority without the loss of privilege or the loss of confidentiality protections provided by Federal and State laws.
 
 **(b) Nonapplicability of certain requirements** Information or material that is subject to a privilege or confidentiality under subsection (a) shall not be subject to—
 
@@ -434,6 +442,8 @@ Section effective on the designated transfer date, see section 1100H of Pub. L. 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–113 inserted “or financial services” before “industry”.
+
 2010—Subsecs. (a), (b)(2). Pub. L. 111–203 substituted “Director” for “Secretary”.
 
 #### Effective Date of 2010 Amendment

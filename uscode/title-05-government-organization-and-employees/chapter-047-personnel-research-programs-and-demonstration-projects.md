@@ -53,7 +53,7 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under [section 305 of this title](./chapter-003-powers.md#section-305).
 
 #### Effective Date
-Chapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 #### Design Elements of Pay-for-Performance Systems in Demonstration Projects
 Pub. L. 108–136, div. A, title XI, § 1126, Nov. 24, 2003, 117 Stat. 1640, provided that: “A pay-for-performance system may not be initiated under chapter 47 of title 5, United States Code, after the date of the enactment of this Act [Nov. 24, 2003], unless it incorporates the following elements: “(1) Adherence to merit principles set forth in section 2301 of such title. “(2) A fair, credible, and transparent employee performance appraisal system. “(3) A link between elements of the pay-for-performance system, the employee performance appraisal system, and the agency’s strategic plan. “(4) A means for ensuring employee involvement in the design and implementation of the system. “(5) Adequate training and retraining for supervisors, managers, and employees in the implementation and operation of the pay-for-performance system. “(6) A process for ensuring ongoing performance feedback and dialogue between supervisors, managers, and employees throughout the appraisal period, and setting timetables for review. “(7) Effective safeguards to ensure that the management of the system is fair and equitable and based on employee performance. “(8) A means for ensuring that adequate agency resources are allocated for the design, implementation, and administration of the pay-for-performance system.”
@@ -71,6 +71,11 @@ The Office of Personnel Management shall—
 (3) establish and maintain a program for the collection and public dissemination of information relating to personnel management research and for encouraging and facilitating the exchange of information among interested persons and entities; and
 
 (4) carry out the preceding functions directly or through agreement or contract.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 
 <a id="section-4703"></a>
@@ -177,6 +182,9 @@ The Office of Personnel Management shall—
 
 ### Statutory Notes
 
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
+
 #### Authority of Export-Import Bank To Conduct Demonstration Program
 Pub. L. 104–97, § 2, Jan. 11, 1996, 109 Stat. 984, provided that: “Notwithstanding [section 4701(a)(1)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section4701/a/1/A&num=0&edition=prelim), United States Code, the Export-Import Bank of the United States may conduct a demonstration project in accordance with section 4703 of such title.”
 
@@ -185,6 +193,11 @@ Pub. L. 104–97, § 2, Jan. 11, 1996, 109 Stat. 984, provided that: “Notwiths
 ## § 4704. Allocation of funds
 
 Funds appropriated to the Office of Personnel Management for the purpose of this chapter may be allocated by the Office to any agency conducting demonstration projects or assisting the Office in conducting such projects. Funds so allocated shall remain available for such period as may be specified in appropriation Acts. No contract shall be entered into under this chapter unless the contract has been provided for in advance in appropriation Acts.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 
 <a id="section-4705"></a>
@@ -196,6 +209,9 @@ The Office of Personnel Management shall prescribe regulations to carry out the 
 
 #### Prior Provisions
 A prior section 4705, added Pub. L. 95–454, title VI, § 601(a), Oct. 13, 1978, 92 Stat. 1188, required annual report on research programs and demonstration projects, prior to repeal by Pub. L. 105–362, title XIII, § 1302(b)(2)(B)(i), Nov. 10, 1998, 112 Stat. 3293.
+
+#### Effective Date
+Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 
 <a id="section-4706"></a>

@@ -135,7 +135,7 @@ Section effective Oct. 1, 1991, see section 3 of Pub. L. 102–132, set out as a
 
 (7) to improve the availability and coordination of local services related to drug abuse, for runaway and homeless youth.
 
-**(b) Priority** In selecting among applicants for grants under subsection (a) of this section, the Secretary shall give priority to agencies and organizations that have experience in providing services to runaway and homeless youth.
+**(b) Priority** In selecting among applicants for grants under subsection (a), the Secretary shall give priority to agencies and organizations that have experience in providing services to runaway and homeless youth.
 
 **(c) Limitation** Grants under this section may be made for a period not to exceed 3 years.
 
@@ -220,9 +220,9 @@ Amendment by Pub. L. 102–132 effective Oct. 1, 1991, see section 3 of Pub. L. 
 
   (C) describing the procedures applicable to submitting and reviewing applications for such funds.
 
-(2) As part of such process, each application referred to in subsection (a) of this section shall be subject to peer review by individuals (excluding officers and employees of the Department of Justice and the Department of Health and Human Services) who have expertise in the subject matter related to the project or activity proposed in such application.
+(2) As part of such process, each application referred to in subsection (a) shall be subject to peer review by individuals (excluding officers and employees of the Department of Justice and the Department of Health and Human Services) who have expertise in the subject matter related to the project or activity proposed in such application.
 
-**(c) Expedited review** The appropriate Federal officer shall expedite the consideration of an application referred to in subsection (a) of this section if the applicant demonstrates, to the satisfaction of the 11 So in original. The word “the” probably should not appear. such officer, that the failure to expedite such consideration would prevent the effective implementation of the project or activity set forth in such application.
+**(c) Expedited review** The appropriate Federal officer shall expedite the consideration of an application referred to in subsection (a) if the applicant demonstrates, to the satisfaction of the 11 So in original. The word “the” probably should not appear. such officer, that the failure to expedite such consideration would prevent the effective implementation of the project or activity set forth in such application.
 
 ### Statutory Notes
 
@@ -239,23 +239,23 @@ Subsec. (c). Pub. L. 101–204, § 1001(b)(2), substituted “such officer” fo
 
 <a id="section-11841"></a>
 ## § 11841. Community youth activity program
-**(a) Block grant program** The Secretary of Health and Human Services shall make grants to eligible States to enable such States to carry out the activities described in subsection (e) of this section.
+**(a) Block grant program** The Secretary of Health and Human Services shall make grants to eligible States to enable such States to carry out the activities described in subsection (e).
 
 **(b) Application**
 
 (1) **In general** — To be eligible to receive a grant under this section, a State, acting on its own behalf or on behalf of a person, shall submit to the Secretary an application that contains such information and is in such form as may be required by the Secretary.
 
-(2) **Demonstration of need** — In the application submitted under paragraph (1), the State shall demonstrate a need for the activities described in subsection (e) of this section and provide a description of those activities and projects that will receive financial assistance from a grant made under this section to the State.
+(2) **Demonstration of need** — In the application submitted under paragraph (1), the State shall demonstrate a need for the activities described in subsection (e) and provide a description of those activities and projects that will receive financial assistance from a grant made under this section to the State.
 
 **(c) Amount of grant**
 
-(1) **Minimum amount** — Each State that submits for a fiscal year an application under subsection (b) of this section that meets the requirements of the Secretary shall, subject to the availability of appropriations, receive a grant in an amount determined in accordance with paragraph (3).
+(1) **Minimum amount** — Each State that submits for a fiscal year an application under subsection (b) that meets the requirements of the Secretary shall, subject to the availability of appropriations, receive a grant in an amount determined in accordance with paragraph (3).
 
 (2) **Programs of national significance** — Of amounts appropriated or otherwise available to carry out this section for any fiscal year, the Secretary shall reserve 5 percent to be provided for activities and projects of national significance or projects expected to have a significant impact in preventing the abuse of drugs by youth.
 
 (3) **Specified appropriations**
 
-  (A) *In general* — Of the aggregate amount appropriated under subsection (g) of this section for any fiscal year and after reserving the amount required by paragraph (2), the Secretary shall—
+  (A) *In general* — Of the aggregate amount appropriated under subsection (g) for any fiscal year and after reserving the amount required by paragraph (2), the Secretary shall—
 
     (i) allot—
 
@@ -275,7 +275,7 @@ Subsec. (c). Pub. L. 101–204, § 1001(b)(2), substituted “such officer” fo
     (ii) if a tangible need has been identified by the State involved; and
 
     (iii) if the State involved has proposed the funding of additional projects targeted at the areas of highest need;
-    to carry out the activities and projects that are consistent with the activities described in subsection (e)(1) of this section. The activities and projects for which such grants are made shall be selected by the Secretary from among proposed activities and projects submitted to the Secretary by the States. Such grants shall be made to the States for redistribution to the persons on whose behalf the State submitted an application under subsection (b) of this section.
+    to carry out the activities and projects that are consistent with the activities described in subsection (e)(1). The activities and projects for which such grants are made shall be selected by the Secretary from among proposed activities and projects submitted to the Secretary by the States. Such grants shall be made to the States for redistribution to the persons on whose behalf the State submitted an application under subsection (b).
 
 **(d) Priority** In making grants under this section, the Secretary shall give priority to—
 
@@ -285,7 +285,7 @@ Subsec. (c). Pub. L. 101–204, § 1001(b)(2), substituted “such officer” fo
 
 (3) projects to provide after-school, vacation, and weekend activities designed to give youth opportunities to actively participate in a variety of activities, including youth sports programs;
 
-(4) activities and projects that are consistent with activities and projects described in subsection (e)(1) of this section and that include participation by the business community;
+(4) activities and projects that are consistent with activities and projects described in subsection (e)(1) and that include participation by the business community;
 
 (5) projects that provide outreach to individuals of all ages who are at high risk of involvement with drug abuse;
 
@@ -303,7 +303,7 @@ Subsec. (c). Pub. L. 101–204, § 1001(b)(2), substituted “such officer” fo
 
 (8) programs for unsupervised children before and after school, including—
 
-  (A) education and instruction consistent with title IV of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7101&num=0&edition=prelim) et seq.];
+  (A) education and instruction consistent with part A of title IV of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7101&num=0&edition=prelim) et seq.];
 
   (B) athletic activities;
 
@@ -339,9 +339,11 @@ Subsec. (c). Pub. L. 101–204, § 1001(b)(2), substituted “such officer” fo
 ### Statutory Notes
 
 #### References in Text
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(8)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally. Title IV of the Act is classified generally to subchapter IV (§ 7101 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(8)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title IV of the Act is classified generally to part A (§ 7101 et seq.) of subchapter IV of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (d)(8)(A). Pub. L. 114–95 substituted “education and instruction consistent with part A of title IV of the Elementary and Secondary Education Act of 1965” for “education and instruction consistent with title IV of the Elementary and Secondary Education Act of 1965”.
+
 1998—Subsec. (c)(2). Pub. L. 105–285 struck out “, such as activities authorized by [section 9910(a)(2)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9910/a/2/F&num=0&edition=prelim),” after “national significance”.
 
 1994—Subsec. (d)(8)(A). Pub. L. 103–382 substituted “title IV of the Elementary and Secondary Education Act of 1965” for “the Drug-Free Schools and Communities Act of 1986”.
@@ -352,6 +354,9 @@ Subsec. (c)(3)(A). Pub. L. 101–93, § 4(1)(B), substituted “subsection (g)�
 
 Subsec. (d). Pub. L. 101–226, which directed amendment of section 3521(d) of the National Narcotics Leadership Act of 1988 by adding par. (8) and redesignating former par. (8) as (9), was executed to section 3521(d) of Pub. L. 100–690, the Anti-Drug Abuse Act of 1988, as the probable intent of Congress. Subtitle A (§§ 1001–1012) of title I of Pub. L. 100–690 is the National Narcotics Leadership Act of 1988.
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 #### Termination of Trust Territory of the Pacific Islands
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
 
@@ -360,9 +365,9 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 ## § 11842. Evaluation of drug abuse education and prevention efforts
 **(a) Method** The Secretary of Health and Human Services shall develop and conduct a structured evaluation of the different approaches utilized across the Nation to reduce drug abuse.
 
-**(b) Grants** The Secretary of Health and Human Services may make grants to or enter into contracts with appropriate entities for the purpose of conducting the evaluations required by subsection (a) of this section.
+**(b) Grants** The Secretary of Health and Human Services may make grants to or enter into contracts with appropriate entities for the purpose of conducting the evaluations required by subsection (a).
 
-**(c) Time of reports** The Secretary shall submit a report based on the evaluations prepared under subsection (a) of this section not later than 1 year after November 18, 1988, and another report based on such evaluations not later than 3 years after November 18, 1988. A third report based on such evaluations shall be submitted by the Secretary not later than January 1, 1994.
+**(c) Time of reports** The Secretary shall submit a report based on the evaluations prepared under subsection (a) not later than 1 year after November 18, 1988, and another report based on such evaluations not later than 3 years after November 18, 1988. A third report based on such evaluations shall be submitted by the Secretary not later than January 1, 1994.
 
 **(d) Authorization of appropriations** To carry out this section, there are authorized to be appropriated $12,000,000 in fiscal year 1989, and $15,000,000 for each of the fiscal years 1990 through 1993.
 

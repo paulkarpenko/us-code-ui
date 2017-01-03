@@ -79,6 +79,9 @@ Pub. L. 102–341, title VII, § 730, Aug. 14, 1992, 106 Stat. 909, provided tha
 #### Amendments
 1990—Subsec. (b). Pub. L. 101–624 inserted “to identify the quantity of farmland actually converted by Federal programs, and” after “of this section,”.
 
+#### Effective Date
+Section effective six months after Dec. 22, 1981, see secton 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
+
 
 <a id="section-4203"></a>
 ## § 4203. Existing policies and procedures; review, etc.
@@ -86,11 +89,21 @@ Pub. L. 102–341, title VII, § 730, Aug. 14, 1992, 106 Stat. 909, provided tha
 
 **(b)** Each department, agency, independent commission, or other unit of the Federal Government, with the assistance of the Department of Agriculture, shall, as appropriate, develop proposals for action to bring its programs, authorities, and administrative activities into conformity with the purpose and policy of this chapter.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective six months after Dec. 22, 1981, see secton 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
+
 
 <a id="section-4204"></a>
 ## § 4204. Technical assistance
 
 The Secretary is encouraged to provide technical assistance to any State or unit of local government, or any nonprofit organization, as determined by the Secretary, that desires to develop programs or policies to limit the conversion of productive farmland to nonagricultural uses.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective six months after Dec. 22, 1981, see secton 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
 
 
 <a id="section-4205"></a>
@@ -99,11 +112,21 @@ The Secretary is encouraged to provide technical assistance to any State or unit
 
 **(b)** The Secretary shall designate one or more farmland information centers to serve as central depositories and distribution points for information on farmland issues, policies, programs, technical principles, and innovative actions or proposals by local and State governments.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective six months after Dec. 22, 1981, see secton 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
+
 
 <a id="section-4206"></a>
 ## § 4206. Grants, contracts, etc., authority
 
 The Secretary may carry out the purposes of this chapter, with existing facilities and funds otherwise available, through the use of grants, contracts, or such other means as the Secretary deems appropriate.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective six months after Dec. 22, 1981, see secton 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
 
 
 <a id="section-4207"></a>
@@ -120,6 +143,9 @@ On January 1, 1987, and at the beginning of each subsequent calendar year.11 So 
 #### Amendments
 1985—Pub. L. 99–198 substituted “On January 1, 1987, and at the beginning of each subsequent calendar year.” for “Within one year after December 22, 1981,”.
 
+#### Effective Date
+Section effective six months after Dec. 22, 1981, see secton 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
+
 
 <a id="section-4208"></a>
 ## § 4208. Limitations
@@ -132,6 +158,9 @@ On January 1, 1987, and at the beginning of each subsequent calendar year.11 So 
 #### Amendments
 1990—Subsec. (b). Pub. L. 101–624 inserted before period at end “during a national emergency”.
 
+#### Effective Date
+Section effective six months after Dec. 22, 1981, see secton 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).
+
 
 <a id="section-4209"></a>
 ## § 4209. Prohibition on maintenance of actions
@@ -142,3 +171,6 @@ This chapter shall not be deemed to provide a basis for any action, either legal
 
 #### Amendments
 1985—Pub. L. 99–198 substituted “by any person” for “by any State, local unit of government, or any person” and inserted proviso.
+
+#### Effective Date
+Section effective six months after Dec. 22, 1981, see secton 1549 of Pub. L. 97–98, set out as a note under [section 4201 of this title](./chapter-073-farmland-protection-policy.md#section-4201).

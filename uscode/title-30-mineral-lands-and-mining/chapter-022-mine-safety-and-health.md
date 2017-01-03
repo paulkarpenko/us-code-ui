@@ -128,7 +128,9 @@ This fiscal year, referred to in text, is fiscal year 2014.
 Section was enacted as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2014, and also as part of the Consolidated Appropriations Act, 2014, and not as part of the Federal Mine Safety and Health Act of 1977 which comprises this chapter.
 
 #### Similar Provisions
-Similar provisions were contained in the following appropriation act:
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 114–113, div. H, title I, Dec. 18, 2015, 129 Stat. 2593.
 
 Pub. L. 113–235, div. G, title I, Dec. 16, 2014, 128 Stat. 2460.
 
@@ -3332,6 +3334,8 @@ Section was enacted as part of the appropriation act cited as the credit to this
 
 #### Similar Provisions
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. G, title I, Dec. 16, 2014, 128 Stat. 2460.
 
 Pub. L. 113–76, div. H, title I, Jan. 17, 2014, 128 Stat. 357.
 

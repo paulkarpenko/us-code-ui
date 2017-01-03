@@ -275,11 +275,11 @@ Subsec. (a)(7). Pub. L. 109–108, § 113(a)(2), added par. (7).
 
 (2) **Contents** — Each application required by paragraph (1) shall—
 
-  (A) include the certification of the chief executive that the State receiving such grant—
+  (A)
 
-    (i) has adopted all national prison rape standards that, as of the date on which the application was submitted, have been promulgated under this chapter; and
+    (i) include the certification of the chief executive that the State receiving such grant has adopted all national prison rape standards that, as of the date on which the application was submitted, have been promulgated under this chapter; or
 
-    (ii) will consider adopting all national prison rape standards that are promulgated under this chapter after such date;
+    (ii) demonstrate to the Attorney General, in such manner as the Attorney General shall require, that the State receiving such grant is actively working to adopt and achieve full compliance with the national prison rape standards described in clause (i);
 
   (B) specify with particularity the preventative, prosecutorial, or administrative activities to be undertaken by the State with the amounts received under the grant; and
 
@@ -308,6 +308,15 @@ Subsec. (a)(7). Pub. L. 109–108, § 113(a)(2), added par. (7).
 (1) **In general** — There are authorized to be appropriated for grants under this section $40,000,000 for each of fiscal years 2004 through 2010.
 
 (2) **Limitation** — Of amounts made available for grants under this section, not less than 50 percent shall be available only for activities specified in paragraph (1) of subsection (b).
+
+### Statutory Notes
+
+#### Amendments
+2016—Subsec. (d)(2)(A). Pub. L. 114–324 added subpar. (A) and struck out former subpar. (A) which read as follows: “include the certification of the chief executive that the State receiving such grant—
+
+“(i) has adopted all national prison rape standards that, as of the date on which the application was submitted, have been promulgated under this chapter; and
+
+“(ii) will consider adopting all national prison rape standards that are promulgated under this chapter after such date;”.
 
 
 <a id="section-15606"></a>
@@ -564,17 +573,83 @@ For construction of amendments by Pub. L. 110–199 and requirements for grants 
 
   (A) *In general* — For purposes of this subsection, a grant program is covered by this subsection if, and only if—
 
-    (i) the program is carried out by or under the authority of the Attorney General; and
+    (i) the program is carried out by or under the authority of the Attorney General;
 
-    (ii) the program may provide amounts to States for prison purposes.
+    (ii) the program may provide amounts to States for prison purposes; and
+
+    (iii) the program is not administered by the Office on Violence Against Women of the Department of Justice.
 
   (B) *List* — For each fiscal year, the Attorney General shall prepare a list identifying each program that meets the criteria of subparagraph (A) and provide that list to each State.
 
-(2) **Adoption of national standards** — For each fiscal year, any amount that a State would otherwise receive for prison purposes for that fiscal year under a grant program covered by this subsection shall be reduced by 5 percent, unless the chief executive of the State submits to the Attorney General—
+(2) **Adoption of national standards**
 
-  (A) a certification that the State has adopted, and is in full compliance with, the national standards described in subsection (a); or
+  (A) *In general* — For each fiscal year, any amount that a State would otherwise receive for prison purposes for that fiscal year under a grant program covered by this subsection shall be reduced by 5 percent, unless the chief executive officer of the State submits to the Attorney General proof of compliance with this chapter through—
 
-  (B) an assurance that not less than 5 percent of such amount shall be used only for the purpose of enabling the State to adopt, and achieve full compliance with, those national standards, so as to ensure that a certification under subparagraph (A) may be submitted in future years.
+    (i) a certification that the State has adopted, and is in full compliance with, the national standards described in subsection (a); or
+
+    (ii) an assurance that the State intends to adopt and achieve full compliance with those national standards so as to ensure that a certification under clause (i) may be submitted in future years, which includes—
+
+      (I) a commitment that not less than 5 percent of such amount shall be used for this purpose; or
+
+      (II) a request that the Attorney General hold 5 percent of such amount in abeyance pursuant to the requirements of subparagraph (E).
+
+  (B) *Rules for certification*
+
+    (i) *In general* — A chief executive officer of a State who submits a certification under this paragraph shall also provide the Attorney General with—
+
+      (I) a list of the prisons under the operational control of the executive branch of the State;
+
+      (II) a list of the prisons listed under subclause (I) that were audited during the most recently concluded audit year;
+
+      (III) all final audit reports for prisons listed under subclause (I) that were completed during the most recently concluded audit year; and
+
+      (IV) a proposed schedule for completing an audit of all the prisons listed under subclause (I) during the following 3 audit years.
+
+    (ii) *Audit appeal exception* — Beginning on the date that is 3 years after December 16, 2016, a chief executive officer of a State may submit a certification that the State is in full compliance pursuant to subparagraph (A)(i) even if a prison under the operational control of the executive branch of the State has an audit appeal pending.
+
+  (C) *Rules for assurances*
+
+    (i) *In general* — A chief executive officer of a State who submits an assurance under subparagraph (A)(ii) shall also provide the Attorney General with—
+
+      (I) a list of the prisons under the operational control of the executive branch of the State;
+
+      (II) a list of the prisons listed under subclause (I) that were audited during the most recently concluded audit year;
+
+      (III) an explanation of any barriers the State faces to completing required audits;
+
+      (IV) all final audit reports for prisons listed under subclause (I) that were completed during the most recently concluded audit year;
+
+      (V) a proposed schedule for completing an audit of all prisons under the operational control of the executive branch of the State during the following 3 audit years; and
+
+      (VI) an explanation of the State’s current degree of implementation of the national standards.
+
+    (ii) *Additional requirement* — A chief executive officer of a State who submits an assurance under subparagraph (A)(ii)(I) shall, before receiving the applicable funds described in subparagraph (A)(ii)(I), also provide the Attorney General with a proposed plan for the expenditure of the funds during the applicable grant period.
+
+    (iii) *Accounting of funds* — A chief executive officer of a State who submits an assurance under subparagraph (A)(ii)(I) shall, in a manner consistent with the applicable grant reporting requirements, submit to the Attorney General a detailed accounting of how the funds described in subparagraph (A) were used.
+
+  (D) *Sunset of assurance option*
+
+    (i) *In general* — On the date that is 3 years after December 16, 2016, subclause (II) of subparagraph (A)(ii) shall cease to have effect.
+
+    (ii) *Additional sunset* — On the date that is 6 years after December 16, 2016, clause (ii) of subparagraph (A) shall cease to have effect.
+
+    (iii) *Emergency assurances*
+
+      (I) *Request* — Notwithstanding clause (ii), during the 2-year period beginning 6 years after December 16, 2016, a chief executive officer of a State who certifies that the State has audited not less than 90 percent of prisons under the operational control of the executive branch of the State may request that the Attorney General allow the chief executive officer to submit an emergency assurance in accordance with subparagraph (A)(ii) as in effect on the day before the date on which that subparagraph ceased to have effect under clause (ii) of this subparagraph.
+
+      (II) *Grant of request* — The Attorney General shall grant a request submitted under subclause (I) within 60 days upon a showing of good cause.
+
+  (E) *Disposition of funds held in abeyance*
+
+    (i) *In general* — If the chief executive officer of a State who has submitted an assurance under subparagraph (A)(ii)(II) subsequently submits a certification under subparagraph (A)(i) during the 3-year period beginning on December 16, 2016, the Attorney General will release all funds held in abeyance under subparagraph (A)(ii)(II) to be used by the State in accordance with the conditions of the grant program for which the funds were provided.
+
+    (ii) *Release of funds* — If the chief executive officer of a State who has submitted an assurance under subparagraph (A)(ii)(II) is unable to submit a certification during the 3-year period beginning on December 16, 2016, but does assure the Attorney General that ⅔ of prisons under the operational control of the executive branch of the State have been audited at least once, the Attorney General shall release all of the funds of the State held in abeyance to be used in adopting and achieving full compliance with the national standards, if the State agrees to comply with the applicable requirements in clauses (ii) and (iii) of subparagraph (C).
+
+    (iii) *Redistribution of funds* — If the chief executive officer of a State who has submitted an assurance under subparagraph (A)(ii)(II) is unable to submit a certification during the 3-year period beginning on December 16, 2016, and does not assure the Attorney General that ⅔ of prisons under the operational control of the executive branch of the State have been audited at least once, the Attorney General shall redistribute the funds of the State held in abeyance to other States to be used in accordance with the conditions of the grant program for which the funds were provided.
+
+  (F) *Publication of audit results* — Not later than 1 year after December 16, 2016, the Attorney General shall request from each State, and make available on an appropriate Internet website, all final audit reports completed to date for prisons under the operational control of the executive branch of each State. The Attorney General shall update such website annually with reports received from States under subparagraphs (B)(i) and (C)(i).
+
+  (G) *Report on implementation of national standards* — Not later than 2 years after December 16, 2016, the Attorney General shall issue a report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives on the status of implementation of the national standards and the steps the Department, in conjunction with the States and other key stakeholders, is taking to address any unresolved implementation issues.
 
 (3) **Report on noncompliance** — Not later than September 30 of each year, the Attorney General shall publish a report listing each grantee that is not in compliance with the national standards adopted pursuant to subsection (a).
 
@@ -590,9 +665,21 @@ For construction of amendments by Pub. L. 110–199 and requirements for grants 
 
   (B) *Requirement for cooperation* — The first grants to which paragraph (4) applies are grants for the fiscal year beginning after September 4, 2003.
 
+(8) **Background checks for auditors** — An individual seeking certification by the Department of Justice to serve as an auditor of prison compliance with the national standards described in subsection (a) shall, upon request, submit fingerprints in the manner determined by the Attorney General for criminal history record checks of the applicable State and Federal Bureau of Investigation repositories.
+
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (e)(1)(A)(iii). Pub. L. 114–324, § 5, added cl. (iii).
+
+Subsec. (e)(2). Pub. L. 114–324, § 7(2)(A), added par. (2) and struck out former par. (2) which read as follows: “For each fiscal year, any amount that a State would otherwise receive for prison purposes for that fiscal year under a grant program covered by this subsection shall be reduced by 5 percent, unless the chief executive of the State submits to the Attorney General—
+
+“(A) a certification that the State has adopted, and is in full compliance with, the national standards described in subsection (a); or
+
+“(B) an assurance that not less than 5 percent of such amount shall be used only for the purpose of enabling the State to adopt, and achieve full compliance with, those national standards, so as to ensure that a certification under subparagraph (A) may be submitted in future years.”
+
+Subsec. (e)(8). Pub. L. 114–324, § 7(2)(B), added par. (8).
+
 2013—Subsecs. (c) to (e). Pub. L. 113–4 added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
 

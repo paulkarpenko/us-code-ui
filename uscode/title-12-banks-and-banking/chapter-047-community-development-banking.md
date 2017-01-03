@@ -891,13 +891,17 @@ Section is comprised of section 114 of Pub. L. 103–325. Subsec. (c) of section
 ### Statutory Notes
 
 #### Termination of Section
-For delay of termination of section by Pub. L. 113–235, see Termination Date note below.
+For delay of termination of section by Pub. L. 114–113, see Termination Date note below.
 
 #### References in Text
 The Community Reinvestment Act of 1977, referred to in subsec. (i), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2901 of this title](./chapter-030-community-reinvestment.md#section-2901) and Tables.
 
 #### Termination Date
-Pub. L. 113–235, div. E, title I, Dec. 16, 2014, 128 Stat. 2336, provided in part: “That such section 114A [this section] shall remain in effect until September 30, 2015.”
+Pub. L. 114–113, div. E, title I, Dec. 18, 2015, 129 Stat. 2427, provided in part: “That such section 114A [this section] shall remain in effect until September 30, 2016.”
+
+Similar provisions were contained in the following prior appropriations act:
+
+Pub. L. 113–235, div. E, title I, Dec. 16, 2014, 128 Stat. 2336.
 
 
 <a id="section-4714"></a>

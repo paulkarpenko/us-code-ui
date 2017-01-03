@@ -2,7 +2,7 @@
 title: 16
 chapter: 12A
 heading: TENNESSEE VALLEY AUTHORITY
-section_count: 45
+section_count: 46
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -98,7 +98,7 @@ Amendment by Pub. L. 108–447 effective on the later of the date on which at le
 
   (E) adopt and submit to Congress a conflict-of-interest policy applicable to members of the Board and employees of the Corporation;
 
-  (F) establish a compensation plan for employees of the Corporation in accordance with subsection (i) of this section;
+  (F) establish a compensation plan for employees of the Corporation in accordance with subsection (i);
 
   (G) approve all compensation (including salary or any other pay, bonuses, benefits, incentives, and any other form of remuneration) of all managers and technical personnel that report directly to the chief executive officer (including any adjustment to compensation);
 
@@ -358,13 +358,13 @@ Section effective Nov. 18, 1988, and applicable to all claims, civil actions, an
 
 <a id="section-831c-3"></a>
 ## § 831c–3. Law enforcement
-**(a) Designation of law enforcement agents** The Board may designate employees of the corporation to act as law enforcement agents in the area of jurisdiction described in subsection (c) of this section.
+**(a) Designation of law enforcement agents** The Board may designate employees of the corporation to act as law enforcement agents in the area of jurisdiction described in subsection (c).
 
 **(b) Duties and powers**
 
-(1) **Duties** — A law enforcement agent designated under subsection (a) of this section shall maintain law and order and protect persons and property in the area of jurisdiction described in subsection (c) of this section and protect property and officials and employees of the corporation outside that area.
+(1) **Duties** — A law enforcement agent designated under subsection (a) shall maintain law and order and protect persons and property in the area of jurisdiction described in subsection (c) and protect property and officials and employees of the corporation outside that area.
 
-(2) **Powers** — In the performance of duties described in paragraph (1), a law enforcement agent designated under subsection (a) of this section may—
+(2) **Powers** — In the performance of duties described in paragraph (1), a law enforcement agent designated under subsection (a) may—
 
   (A) make arrests without warrant for any offense against the United States committed in the agent’s presence, or for any felony cognizable under the laws of the United States if the agent has probable cause to believe that the person to be arrested has committed or is committing such a felony;
 
@@ -374,9 +374,9 @@ Section effective Nov. 18, 1988, and applicable to all claims, civil actions, an
 
   (D) carry firearms in carrying out any activity described in subparagraph (A), (B), or (C).
 
-**(c) Area of jurisdiction** A law enforcement agent designated under subsection (a) of this section shall be authorized to exercise the law enforcement duties and powers described in subsection (b) of this section—
+**(c) Area of jurisdiction** A law enforcement agent designated under subsection (a) shall be authorized to exercise the law enforcement duties and powers described in subsection (b)—
 
-(1) on any lands or facilities owned or leased by the corporation or within such adjoining areas in the vicinities of such lands or facilities as may be determined by the Board under subsection (e) of this section; and
+(1) on any lands or facilities owned or leased by the corporation or within such adjoining areas in the vicinities of such lands or facilities as may be determined by the Board under subsection (e); and
 
 (2) on other lands or facilities—
 
@@ -394,15 +394,15 @@ Section effective Nov. 18, 1988, and applicable to all claims, civil actions, an
 
 **(e) Determination of adjoining areas**
 
-(1) **In general** — The Board shall determine and may from time-to-time modify the adjoining areas for each facility or particular area of land, or for individual categories of such facilities or lands, for the purposes of subsection (c)(1) of this section.
+(1) **In general** — The Board shall determine and may from time-to-time modify the adjoining areas for each facility or particular area of land, or for individual categories of such facilities or lands, for the purposes of subsection (c)(1).
 
 (2) **Notice** — A notice and description of each adjoining area determination or modification of a determination made under paragraph (1) shall be published in the Federal Register.
 
-**(f) Qualifications and training** The Board, in consultation with the Attorney General, shall adopt qualification and training standards for law enforcement agents designated under subsection (a) of this section.
+**(f) Qualifications and training** The Board, in consultation with the Attorney General, shall adopt qualification and training standards for law enforcement agents designated under subsection (a).
 
-**(g) Relation to other law** A law enforcement agent designated under subsection (a) of this section shall not be considered to be a law enforcement officer of the United States for the purposes of any other law, and no law enforcement agent designated under subsection (a) of this section or other employee of the corporation shall receive an increase in compensation solely on account of this section.
+**(g) Relation to other law** A law enforcement agent designated under subsection (a) shall not be considered to be a law enforcement officer of the United States for the purposes of any other law, and no law enforcement agent designated under subsection (a) or other employee of the corporation shall receive an increase in compensation solely on account of this section.
 
-**(h) Relationship with Attorney General** The duties and powers of law enforcement agents designated under subsection (a) of this section that are described in subsection (b) of this section shall be exercised in accordance with guidelines approved by the Attorney General.
+**(h) Relationship with Attorney General** The duties and powers of law enforcement agents designated under subsection (a) that are described in subsection (b) shall be exercised in accordance with guidelines approved by the Attorney General.
 
 ### Statutory Notes
 
@@ -613,6 +613,49 @@ The Board is directed in the operation of any dam or reservoir in its possession
 Section, act July 30, 1947, ch. 358, title II, § 201, 61 Stat. 574, placed a limitation on use of power revenues of the Tennessee Valley Authority. See [section 831n–4 of this title](./chapter-12a-tennessee-valley-authority.md#section-831n-4).
 
 
+<a id="section-831h-3"></a>
+## § 831h–3. Recreational access
+**(a) Definition of floating cabin** In this section, the term “floating cabin” means a watercraft or other floating structure—
+
+(1) primarily designed and used for human habitation or occupation; and
+
+(2) not primarily designed or used for navigation or transportation on water.
+
+**(b) Recreational access** The Board may allow the use of a floating cabin if—
+
+(1) the floating cabin is maintained by the owner to reasonable health, safety, and environmental standards, as required by the Board;
+
+(2) the Corporation has authorized the use of recreational vessels on the waters; and
+
+(3) the floating cabin was located on waters under the jurisdiction of the Corporation as of December 16, 2016.
+
+**(c) Fees** The Board may levy fees on the owner of a floating cabin on waters under the jurisdiction of the Corporation for the purpose of ensuring compliance with subsection (b) if the fees are necessary and reasonable for such purpose.
+
+**(d) Continued recreational use**
+
+(1) **In general** — With respect to a floating cabin located on waters under the jurisdiction of the Corporation on December 16, 2016, the Board—
+
+  (A) may not require the removal of the floating cabin—
+
+    (i) in the case of a floating cabin that was granted a permit by the Corporation before December 16, 2016, for a period of 15 years beginning on such date; and
+
+    (ii) in the case of a floating cabin not granted a permit by the Corporation before December 16, 2016, for a period of 5 years beginning on such date; and
+
+  (B) shall approve and allow the use of the floating cabin on waters under the jurisdiction of the Corporation at such time and for such duration as—
+
+    (i) the floating cabin meets the requirements of subsection (b); and
+
+    (ii) the owner of the floating cabin has paid any fee assessed pursuant to subsection (c).
+
+(2) **Savings provisions**
+
+  (A) Nothing in this subsection restricts the ability of the Corporation to enforce reasonable health, safety, or environmental standards.
+
+  (B) This section applies only to floating cabins located on waters under the jurisdiction of the Corporation.
+
+**(e) New construction** The Corporation may establish regulations to prevent the construction of new floating cabins.
+
+
 <a id="section-831i"></a>
 ## § 831i. Sale of surplus power; preferences; experimental work; acquisition of existing electric facilities
 
@@ -686,7 +729,7 @@ Federal Power Commission terminated and its functions, personnel, property, fund
 
 **(b) Conduct of program**
 
-(1) **In general** — In conducting a least-cost planning program under subsection (a) of this section, the Tennessee Valley Authority shall employ and implement a planning and selection process for new energy resources which evaluates the full range of existing and incremental resources (including new power supplies, energy conservation and efficiency, and renewable energy resources) in order to provide adequate and reliable service to electric customers of the Tennessee Valley Authority at the lowest system cost.
+(1) **In general** — In conducting a least-cost planning program under subsection (a), the Tennessee Valley Authority shall employ and implement a planning and selection process for new energy resources which evaluates the full range of existing and incremental resources (including new power supplies, energy conservation and efficiency, and renewable energy resources) in order to provide adequate and reliable service to electric customers of the Tennessee Valley Authority at the lowest system cost.
 
 (2) **Planning and selection process** — The planning and selection process referred to in paragraph (1) shall—
 
@@ -700,7 +743,7 @@ Federal Power Commission terminated and its functions, personnel, property, fund
 
 **(c) Participation by distributors**
 
-(1) **In general** — In conducting a least-cost planning program under subsection (a) of this section, the Tennessee Valley Authority shall—
+(1) **In general** — In conducting a least-cost planning program under subsection (a), the Tennessee Valley Authority shall—
 
   (A) provide an opportunity for distributors of the Tennessee Valley Authority to recommend cost-effective energy efficiency opportunities, rate structure incentives, and renewable energy proposals for inclusion in such program; and
 
@@ -776,7 +819,7 @@ With the approval of the Secretary of the Treasury the Corporation is authorized
 
 (4) Not to exceed $3,500,000 may be used for constructing electric transmission lines, substations, and other electrical facilities necessary to connect the electric utility properties purchased by the Corporation in accordance with the foregoing provisions of this section with the electric power system of the Corporation.
 
-(5) Not to exceed $2,000,000 may be used for making loans under [section 831k–1 of this title](./chapter-12a-tennessee-valley-authority.md#section-831k-1) to States, counties, municipalities, and nonprofit organizations to enable them to purchase any electric utility properties referred to in the contract between the Corporation and the Commonwealth and Southern Corporation and others, dated as of May 12, 1939, or any electric utility properties of the Alabama Power Company or Mississippi Power Company in any of the counties in northern Alabama or northern Mississippi named in paragraph (2) of this section.The Corporation shall file with the President and with the Congress in December of each year a financial statement and complete report as to the expenditure of funds derived from the sale of bonds under this section covering the period not covered by any such previous statement or report. Such bonds shall be in such forms and denominations, shall mature within such periods not more than fifty years from the date of their issue, may be redeemable at the option of the Corporation before maturity in such manner as may be stipulated therein, shall bear such rates of interest not exceeding 3½ per centum per annum, shall be subject to such terms and conditions, shall be issued in such manner and amount, and sold at such prices, as may be prescribed by the Corporation with the approval of the Secretary of the Treasury: Provided, That such bonds shall not be sold at such prices or on such terms as to afford an investment yield to the holders in excess of 3½ per centum per annum. Such bonds shall be fully and unconditionally guaranteed both as to interest and principal by the United States, and such guaranty shall be expressed on the face thereof, and such bonds shall be lawful investments, and may be accepted as security, for all fiduciary, trust, and public funds, the investment or deposit of which shall be under the authority or control of the United States or any officer or officers thereof. In the event that the Corporation should not pay upon demand when due, the principal of, or interest on, such bonds, the Secretary of the Treasury shall pay to the holder the amount thereof, which is authorized to be appropriated out of any moneys in the Treasury not otherwise appropriated, and thereupon to the extent of the amount so paid the Secretary of the Treasury shall succeed to all the rights of the holders of such bonds. The Secretary of the Treasury, in his discretion, is authorized to purchase any bonds issued hereunder, and for such purpose the Secretary of the Treasury is authorized to use as a public-debt transaction the proceeds from the sale of any securities hereafter issued under chapter 31 of title 31, and the purposes for which securities may be issued under such chapter are extended to include any purchases of the Corporation’s bonds hereunder. The Secretary of the Treasury may, at any time, sell any of the bonds of the Corporation acquired by him under this section. All redemptions, purchases, and sales by the Secretary of the Treasury of the bonds of the Corporation shall be treated as public-debt transactions of the United States. With the approval of the Secretary of the Treasury, the Corporation shall have power to purchase such bonds in the open market at any time and at any price. None of the proceeds of the bonds shall be used for the performance of any proposed contract negotiated by the Corporation under the authority of [section 831k–1 of this title](./chapter-12a-tennessee-valley-authority.md#section-831k-1) until the proposed contract shall have been submitted to and approved by the Federal Power Commission. When any such proposed contract shall have been submitted to the said Commission, the matter shall be given precedence and shall be in every way expedited and the Commission’s determination of the matter shall be final. The authority of the Corporation to issue bonds under this section shall expire January 1, 1941, except that if at the time such authority expires the amount of bonds issued by the Corporation under this section is less than $61,500,000, the Corporation may, subject to the foregoing provisions of this section, issue, after the expiration of such period, bonds in an amount not in excess of the amount by which the bonds so issued prior to the expiration of such period is less than $61,500,000, for refunding purposes, or, subject to the provisions of paragraph (5) of this section (limiting the purposes for which loans under [section 831k–1 of this title](./chapter-12a-tennessee-valley-authority.md#section-831k-1) of funds derived from bonds proceeds may be made) to provide funds found necessary in the performance of any contract entered into by the Corporation prior to the expiration of such period, under the authority of [section 831k–1 of this title](./chapter-12a-tennessee-valley-authority.md#section-831k-1).
+(5) Not to exceed $2,000,000 may be used for making loans under [section 831k–1 of this title](./chapter-12a-tennessee-valley-authority.md#section-831k-1) to States, counties, municipalities, and nonprofit organizations to enable them to purchase any electric utility properties referred to in the contract between the Corporation and the Commonwealth and Southern Corporation and others, dated as of May 12, 1939, or any electric utility properties of the Alabama Power Company or Mississippi Power Company in any of the counties in northern Alabama or northern Mississippi named in paragraph (2).The Corporation shall file with the President and with the Congress in December of each year a financial statement and complete report as to the expenditure of funds derived from the sale of bonds under this section covering the period not covered by any such previous statement or report. Such bonds shall be in such forms and denominations, shall mature within such periods not more than fifty years from the date of their issue, may be redeemable at the option of the Corporation before maturity in such manner as may be stipulated therein, shall bear such rates of interest not exceeding 3½ per centum per annum, shall be subject to such terms and conditions, shall be issued in such manner and amount, and sold at such prices, as may be prescribed by the Corporation with the approval of the Secretary of the Treasury: Provided, That such bonds shall not be sold at such prices or on such terms as to afford an investment yield to the holders in excess of 3½ per centum per annum. Such bonds shall be fully and unconditionally guaranteed both as to interest and principal by the United States, and such guaranty shall be expressed on the face thereof, and such bonds shall be lawful investments, and may be accepted as security, for all fiduciary, trust, and public funds, the investment or deposit of which shall be under the authority or control of the United States or any officer or officers thereof. In the event that the Corporation should not pay upon demand when due, the principal of, or interest on, such bonds, the Secretary of the Treasury shall pay to the holder the amount thereof, which is authorized to be appropriated out of any moneys in the Treasury not otherwise appropriated, and thereupon to the extent of the amount so paid the Secretary of the Treasury shall succeed to all the rights of the holders of such bonds. The Secretary of the Treasury, in his discretion, is authorized to purchase any bonds issued hereunder, and for such purpose the Secretary of the Treasury is authorized to use as a public-debt transaction the proceeds from the sale of any securities hereafter issued under chapter 31 of title 31, and the purposes for which securities may be issued under such chapter are extended to include any purchases of the Corporation’s bonds hereunder. The Secretary of the Treasury may, at any time, sell any of the bonds of the Corporation acquired by him under this section. All redemptions, purchases, and sales by the Secretary of the Treasury of the bonds of the Corporation shall be treated as public-debt transactions of the United States. With the approval of the Secretary of the Treasury, the Corporation shall have power to purchase such bonds in the open market at any time and at any price. None of the proceeds of the bonds shall be used for the performance of any proposed contract negotiated by the Corporation under the authority of [section 831k–1 of this title](./chapter-12a-tennessee-valley-authority.md#section-831k-1) until the proposed contract shall have been submitted to and approved by the Federal Power Commission. When any such proposed contract shall have been submitted to the said Commission, the matter shall be given precedence and shall be in every way expedited and the Commission’s determination of the matter shall be final. The authority of the Corporation to issue bonds under this section shall expire January 1, 1941, except that if at the time such authority expires the amount of bonds issued by the Corporation under this section is less than $61,500,000, the Corporation may, subject to the foregoing provisions of this section, issue, after the expiration of such period, bonds in an amount not in excess of the amount by which the bonds so issued prior to the expiration of such period is less than $61,500,000, for refunding purposes, or, subject to the provisions of paragraph (5) of this section (limiting the purposes for which loans under [section 831k–1 of this title](./chapter-12a-tennessee-valley-authority.md#section-831k-1) of funds derived from bonds proceeds may be made) to provide funds found necessary in the performance of any contract entered into by the Corporation prior to the expiration of such period, under the authority of [section 831k–1 of this title](./chapter-12a-tennessee-valley-authority.md#section-831k-1).
 
 ### Statutory Notes
 
@@ -804,7 +847,7 @@ Executive and administrative functions of Federal Power Commission, with certain
 
 **(e) Payment of excess power proceeds into Treasury; deferral** From net power proceeds in excess of those required to meet the Corporation’s obligations under the provisions of any bond or bond contract, the Corporation shall, beginning with fiscal year 1961, make payments into the Treasury as miscellaneous receipts on or before September 30, of each fiscal year as a return on the appropriation investment in the Corporation’s power facilities, plus a repayment sum of not less than $10,000,000 for each of the first five fiscal years, $15,000,000 for each of the next five fiscal years, and $20,000,000 for each fiscal year thereafter, which repayment sum shall be applied to reduction of said appropriation investment until a total of $1,000,000,000 of said appropriation investment shall have been repaid. The said appropriation investment shall consist, in any fiscal year, of that part of the Corporation’s total investment assigned to power as of the beginning of the fiscal year (including both completed plant and construction in progress) which has been provided from appropriations or by transfers of property from other Government agencies without reimbursement by the Corporation, less repayments of such appropriation investment made under title II of the Government Corporations Appropriation Act, 1948, this chapter, or other applicable legislation. The payment as a return on the appropriation investment in each fiscal year shall be equal to the computed average interest rate payable by the Treasury upon its total marketable public obligations as of the beginning of said fiscal year applied to said appropriation investment. Payments due hereunder may be deferred for not more than two years when, in the judgment of the Board of Directors of the Corporation, such payments cannot feasibly be made because of inadequacy of funds occasioned by drought, poor business conditions, emergency replacements, or other factors beyond the control of the Corporation.
 
-**(f) Rates for sale of power; application of net proceeds** The Corporation shall charge rates for power which will produce gross revenues sufficient to provide funds for operation, maintenance, and administration of its power system; payments to States and counties in lieu of taxes; debt service on outstanding bonds, including provision and maintenance of reserve funds and other funds established in connection therewith; payments to the Treasury as a return on the appropriation investment pursuant to subsection (e) of this section; payment to the Treasury of the repayment sums specified in subsection (e) of this section; and such additional margin as the Board may consider desirable for investment in power system assets, retirement of outstanding bonds in advance of maturity, additional reduction of appropriation investment, and other purposes connected with the Corporation’s power business, having due regard for the primary objectives of the chapter, including the objective that power shall be sold at rates as low as are feasible. In order to protect the investment of holders of the Corporation’s securities and the appropriation investment as defined in subsection (e) of this section, the Corporation, during each successive five-year period beginning with the five-year period which commences on July 1 of the first full fiscal year after the effective date of this section, shall apply net power proceeds either in reduction (directly or through payments into reserve or sinking funds) of its capital obligations, including bonds and the appropriation investment, or to reinvestment in power assets, at least to the extent of the combined amount of the aggregate of the depreciation accruals and other charges representing the amortization of capital expenditures applicable to its power properties plus the net proceeds realized from any disposition of power facilities in said period. As of October 1, 1975, the five-year periods described herein shall be computed as beginning on October 1 of that year and of each fifth year thereafter.
+**(f) Rates for sale of power; application of net proceeds** The Corporation shall charge rates for power which will produce gross revenues sufficient to provide funds for operation, maintenance, and administration of its power system; payments to States and counties in lieu of taxes; debt service on outstanding bonds, including provision and maintenance of reserve funds and other funds established in connection therewith; payments to the Treasury as a return on the appropriation investment pursuant to subsection (e) hereof; payment to the Treasury of the repayment sums specified in subsection (e) hereof; and such additional margin as the Board may consider desirable for investment in power system assets, retirement of outstanding bonds in advance of maturity, additional reduction of appropriation investment, and other purposes connected with the Corporation’s power business, having due regard for the primary objectives of the chapter, including the objective that power shall be sold at rates as low as are feasible. In order to protect the investment of holders of the Corporation’s securities and the appropriation investment as defined in subsection (e) hereof, the Corporation, during each successive five-year period beginning with the five-year period which commences on July 1 of the first full fiscal year after the effective date of this section, shall apply net power proceeds either in reduction (directly or through payments into reserve or sinking funds) of its capital obligations, including bonds and the appropriation investment, or to reinvestment in power assets, at least to the extent of the combined amount of the aggregate of the depreciation accruals and other charges representing the amortization of capital expenditures applicable to its power properties plus the net proceeds realized from any disposition of power facilities in said period. As of October 1, 1975, the five-year periods described herein shall be computed as beginning on October 1 of that year and of each fifth year thereafter.
 
 **(g) Power property; lease and lease-purchase agreements** Power generating and related facilities operated by the Corporation under lease and lease-purchase agreements shall constitute power property held by the Corporation within the meaning of section 831l of this title, but that portion of the payment due for any fiscal year under said section 831l of this title to a State where such facilities are located which is determined or estimated by the Board to result from holding such facilities or selling electric energy generated thereby shall be reduced by the amount of any taxes or tax equivalents applicable to such fiscal year paid by the owners or others on account of said facilities to said State and to local taxing jurisdictions therein. In connection with the construction of a generating plant or other facilities under an agreement providing for lease or purchase of said facilities or any interest therein by or on behalf of the Corporation, or for the purchase of the output thereof, the Corporation may convey, in the name of the United States by deed, lease, or otherwise, any real property in its possession or control, may perform necessary engineering and construction work and other services, and may enter into any necessary contractual arrangements.
 

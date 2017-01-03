@@ -1,7 +1,7 @@
 ---
 title: 51
 chapter: '507'
-heading: OFFICE OF SPACE COMMERCIALIZATION
+heading: OFFICE OF SPACE COMMERCE
 section_count: 3
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51&num=0&edition=prelim
@@ -9,7 +9,7 @@ source: >-
 <a id="section-50701"></a>
 ## § 50701. Definition of Office
 
-In this chapter, the term “Office” means the Office of Space Commercialization established in [section 50702 of this title](./chapter-507-office-of-space-commercialization.md#section-50702).
+In this chapter, the term “Office” means the Office of Space Commerce established in [section 50702 of this title](./chapter-507-office-of-space-commerce.md#section-50702).
 
 ### Statutory Notes
 
@@ -20,14 +20,27 @@ In this chapter, the term “Office” means the Office of Space Commercializati
 
 A chapter-wide definition for the term “Office” is added for clarity and convenience.
 
+#### Amendments
+2015—Pub. L. 114–90 substituted “Commerce” for “Commercialization”.
+
 
 <a id="section-50702"></a>
 ## § 50702. Establishment
-**(a) In General.—** There is established within the Department of Commerce an Office of Space Commercialization.
+**(a) In General.—** There is established within the Department of Commerce an Office of Space Commerce.
 
 **(b) Director.—** The Office shall be headed by a Director, who shall be a senior executive and shall be compensated at a level in the Senior Executive Service under [section 5382 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5382&num=0&edition=prelim) as determined by the Secretary of Commerce.
 
-**(c) Functions of Office.—** The Office shall be the principal unit for the coordination of space-related issues, programs, and initiatives within the Department of Commerce.
+**(c) Functions of Office.—** The Office shall be the principal unit for the coordination of space-related issues, programs, and initiatives within the Department of Commerce, including—
+
+(1) to foster the conditions for the economic growth and technological advancement of the United States space commerce industry;
+
+(2) to coordinate space commerce policy issues and actions within the Department of Commerce;
+
+(3) to represent the Department of Commerce in the development of United States policies and in negotiations with foreign countries to promote United States space commerce;
+
+(4) to promote the advancement of United States geospatial technologies related to space commerce, in cooperation with relevant interagency working groups; and
+
+(5) to provide support to Federal Government organizations working on Space-Based Positioning Navigation, and Timing policy, including the National Coordination Office for Space-Based Position,11 So in original. Probably should be “Positioning,”. Navigation, and Timing.
 
 **(d) Duties of Director.—** The primary responsibilities of the Director in carrying out the functions of the Office shall include—
 
@@ -51,6 +64,11 @@ A chapter-wide definition for the term “Office” is added for clarity and con
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 50702 | [15 U.S.C. 1511e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1511e&num=0&edition=prelim). | Pub. L. 105–309, § 8, Oct. 30, 1998, 112 Stat. 2937; Pub. L. 107–305, § 14, Nov. 27, 2002, 116 Stat. 2380; Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2878. |
+
+#### Amendments
+2015—Subsec. (a). Pub. L. 114–90, § 301(c), substituted “Space Commerce” for “Space Commercialization”.
+
+Subsec. (c). Pub. L. 114–90, § 302, substituted “Commerce, including—” for “Commerce.” and added pars. (1) to (5).
 
 #### Cooperation With Former Soviet Republics
 Pub. L. 102–588, title II, § 218, Nov. 4, 1992, 106 Stat. 5117, provided that: “(a) Report to Congress.—Within one year after the date of enactment of this Act [Nov. 4, 1992], the President shall submit to Congress a report describing—“(1) the opportunities for increased space related trade with the independent states of the former Soviet Union; “(2) a technology procurement plan for identifying and evaluating all unique space hardware, space technology, and space services available to the United States from the independent states of the former Soviet Union, specifically including those technologies the National Aeronautics and Space Administration has identified as high priority in its Space Research and Technology Integrated Technology Plan.[;] “(3) the trade missions carried out pursuant to subsection (c), including the private participation and the results of such missions; “(4) the offices and accounts of the National Aeronautics and Space Administration to which expenses for either cooperative activities or procurement actions, involving the independent states of the former Soviet Union, are charged; “(5) any barriers, regulatory or practical, that inhibit space-related trade between the United States and the independent states of the former Soviet Union, including such barriers in either the United States or the independent states; and “(6) any anticompetitive issues raised by a potential acquisition. “(b) Notification to Congress.—If any United States Government agency denies a request for a license or other approval that may be necessary to conduct discussions on space-related matters with the independent states of the former Soviet Union, that agency shall immediately notify the Speaker of the House of Representatives and President of the Senate. Each such notification shall include a statement of the reasons for the denial. “(c) Role of the Office of Space Commerce.—The Office of Space Commerce of the Department of Commerce is authorized and encouraged to conduct trade missions to appropriate independent states of the former Soviet Union for the purpose of familiarizing United States aerospace industry representatives with space hardware, space technologies, and space services that may be available from the independent states, and with the business practices and overall business climate in the independent states. The Office of Space Commerce shall also advise the Administrator [of the National Aeronautics and Space Administration] as to the impact on United States industry of each potential acquisition of space hardware, space technology, or space services from the independent states of the former Soviet Union, specifically including any anticompetitive issues the Office may observe.”

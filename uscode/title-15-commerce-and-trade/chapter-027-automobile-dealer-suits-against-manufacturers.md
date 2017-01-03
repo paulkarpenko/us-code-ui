@@ -60,7 +60,7 @@ This chapter shall not invalidate any provision of the laws of any State except 
 
 (3) **Explanation required** — Notwithstanding any other provision of law, whenever arbitration is elected to settle a dispute under a motor vehicle franchise contract, the arbitrator shall provide the parties to such contract with a written explanation of the factual and legal basis for the award.
 
-**(b) Application** Subsection (a) of this section shall apply to contracts entered into, amended, altered, modified, renewed, or extended after November 2, 2002.
+**(b) Application** Subsection (a) shall apply to contracts entered into, amended, altered, modified, renewed, or extended after November 2, 2002.
 
 ### Statutory Notes
 

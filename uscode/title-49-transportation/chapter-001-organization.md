@@ -2,7 +2,7 @@
 title: 49
 chapter: '1'
 heading: ORGANIZATION
-section_count: 15
+section_count: 17
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -155,9 +155,9 @@ George W. Bush.
 
 **(e) Assistant Secretaries; General Counsel.—**
 
-(1) **Appointment.—** — The Department has 5 Assistant Secretaries and a General Counsel, including—
+(1) **Appointment.—** — The Department has 6 Assistant Secretaries and a General Counsel, including—
 
-  (A) an Assistant Secretary for Aviation and International Affairs, an Assistant Secretary for Governmental Affairs, and an Assistant Secretary for Transportation Policy, who shall each be appointed by the President, with the advice and consent of the Senate;
+  (A) an Assistant Secretary for Aviation and International Affairs, an Assistant Secretary for Governmental Affairs, an Assistant Secretary for Research and Technology, and an Assistant Secretary for Transportation Policy, who shall each be appointed by the President, with the advice and consent of the Senate;
 
   (B) an Assistant Secretary for Budget and Programs who shall be appointed by the President;
 
@@ -211,6 +211,10 @@ In subsection (d), the words “in the competitive service” are substituted fo
 In subsection (e), the words “The Secretary shall cause a . . . of office” and “of such device” are omitted as unnecessary because of the restatement. The words “as he shall approve” are omitted as unnecessary because subsection (b) of the section establishes the Secretary of Transportation as the head of the Department of Transportation.
 
 #### Amendments
+2015—Subsec. (e)(1). Pub. L. 114–94, § 6011(a)(1), substituted “6” for “5” in introductory provisions.
+
+Subsec. (e)(1)(A). Pub. L. 114–94, § 6011(a)(2), inserted “an Assistant Secretary for Research and Technology,” after “Governmental Affairs,”.
+
 2012—Subsec. (e). Pub. L. 112–166 inserted subsec. (e) heading, struck out “The Department has 4 Assistant Secretaries and a General Counsel appointed by the President, by and with the advice and consent of the Senate. The Department also has an Assistant Secretary of Transportation for Administration appointed in the competitive service by the Secretary, with the approval of the President. They shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary” before “or the General Counsel,”, added par. (1), inserted par. (2) designation and heading, and, in par. (2), inserted “The officers set forth in paragraph (1) shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary”.
 
 2007—Subsecs. (g), (h). Pub. L. 110–140 added subsec. (g) and redesignated former subsec. (g) as (h).
@@ -228,6 +232,9 @@ Pub. L. 107–295, § 215(a)(1), redesignated subsec. (d) as (g).
 1994—Subsecs. (e), (f). Pub. L. 103–272 redesignated subsec. (e), relating to judicial recognition of Department seal, as (f).
 
 1984—Subsecs. (d), (e). Pub. L. 98–557 added subsec. (d) and redesignated former subsec. (d), relating to Assistant Secretaries and General Counsel, as (e).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under [section 113 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section113&num=0&edition=prelim), Domestic Security.
@@ -356,8 +363,8 @@ Subsec. (e). Pub. L. 103–440 added subsec. (e).
 
 1984—Subsec. (c)(1). Pub. L. 98–216 substituted “49 App. U.S.C.” for “49 U.S.C.”.
 
-#### Update of Federal Railroad Administration’s Website
-Pub. L. 110–432, div. A, title III, § 307, Oct. 16, 2008, 122 Stat. 4881, provided that: “(a) In General.—The Secretary shall update the Federal Railroad Administration’s public website to better facilitate the ability of the public, including those individuals who are not regular users of the public website, to find current information regarding the Federal Railroad Administration’s activities. “(b) Public Reporting of Violations.—On the Federal Railroad Administration’s public website’s home page, the Secretary shall provide a mechanism for the public to submit written reports of potential violations of Federal railroad safety and hazardous materials transportation laws, regulations, and orders to the Federal Railroad Administration.”
+#### Update of Federal Railroad Administration Web Site
+Pub. L. 110–432, div. A, title III, § 307, Oct. 16, 2008, 122 Stat. 4881, as amended by Pub. L. 114–94, div. A, title XI, § 11316(j)(5), Dec. 4, 2015, 129 Stat. 1677, provided that: “(a) In General.—The Secretary shall update the Federal Railroad Administration’s public Web site to better facilitate the ability of the public, including those individuals who are not regular users of the public Web site, to find current information regarding the Federal Railroad Administration’s activities. “(b) Public Reporting of Violations.—On the Federal Railroad Administration’s public Web site’s home page, the Secretary shall provide a mechanism for the public to submit written reports of potential violations of Federal railroad safety and hazardous materials transportation laws, regulations, and orders to the Federal Railroad Administration.”
 
 [For definitions of “Secretary” and “railroad”, as used in section 307 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under [section 20102 of this title](./chapter-201-general.md#section-20102).]
 
@@ -467,6 +474,9 @@ The text of section 201(d) of the Highway Safety Act of 1966 is omitted as execu
 
 #### Amendments
 1994—Subsec. (d). Pub. L. 103–272 substituted “chapter 301 of this title” for “the National Traffic and Motor Vehicle Safety Act of 1966 ([15 U.S.C. 1381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1381&num=0&edition=prelim) et seq.)”.
+
+#### Required Reporting of NHTSA Agenda
+Pub. L. 114–94, div. B, title XXIV, § 24401, Dec. 4, 2015, 129 Stat. 1720, provided that: “Not later than December 1 of the year beginning after the date of enactment of this Act [Dec. 4, 2015], and each year thereafter, the Administrator of the National Highway Traffic Safety Administration shall publish on the public website of the Administration, and file with the Committees on Energy and Commerce and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an annual plan for the following calendar year detailing the Administration’s projected activities, including— “(1) the Administrator’s policy priorities; “(2) any rulemakings projected to be commenced; “(3) any plans to develop guidelines; “(4) any plans to restructure the Administration or to establish or alter working groups; “(5) any planned projects or initiatives of the Administration, including the working groups and advisory committees of the Administration; and “(6) any projected dates or timetables associated with any of the items described in paragraphs (1) through (5).”
 
 #### National Highway Traffic Safety Administration Electronics, Software, and Engineering Expertise
 Pub. L. 112–141, div. C, title I, § 31401, July 6, 2012, 126 Stat. 772, provided that: “(a) Council for Vehicle Electronics, Vehicle Software, and Emerging Technologies.—“(1) In general.—The Secretary [of Transportation] shall establish, within the National Highway Traffic Safety Administration, a Council for Vehicle Electronics, Vehicle Software, and Emerging Technologies (referred to in this section as the ‘Council’) to build, integrate, and aggregate the Administration’s expertise in passenger motor vehicle electronics and other new and emerging technologies. “(2) Implementation of roadmap.—The Council shall research the inclusion of emerging lightweight plastic and composite technologies in motor vehicles to increase fuel efficiency, lower emissions, meet fuel economy standards, and enhance passenger motor vehicle safety through continued utilization of the Administration’s Plastic and Composite Intensive Vehicle Safety Roadmap (Report No. DOT HS 810 863). “(3) Intra-agency coordination.—The Council shall coordinate with all components of the Administration responsible for vehicle safety, including research and development, rulemaking, and defects investigation. “(b) Honors Recruitment Program.—“(1) Establishment.—The Secretary shall establish, within the National Highway Traffic Safety Administration, an honors program for engineering students, computer science students, and other students interested in vehicle safety that will enable such students to train with engineers and other safety officials for careers in vehicle safety. “(2) Stipend.—The Secretary is authorized to provide a stipend to any student during the student’s participation in the program established under paragraph (1). “(c) Assessment.—The Council, in consultation with affected stakeholders, shall periodically assess the implications of emerging safety technologies in passenger motor vehicles, including the effect of such technologies on consumers, product availability, and cost.”
@@ -580,9 +590,11 @@ Pub. L. 112–141, div. C, title I, § 31401, July 6, 2012, 126 Stat. 772, provi
 
   (B) $9,539,000,000 for fiscal year 2013;
 
-  (C) $9,596,000,000 for fiscal year 2014; and
+  (C) $9,596,000,000 for fiscal year 2014;
 
-  (D) $9,653,000,000 for fiscal year 2015.
+  (D) $9,653,000,000 for fiscal year 2015; and
+
+  (E) $9,909,724,000 for each of fiscal years 2016 and 2017.
   Such sums shall remain available until expended.
 
 (2) **Authorized expenditures.—** — Out of amounts appropriated under paragraph (1), the following expenditures are authorized:
@@ -593,7 +605,7 @@ Pub. L. 112–141, div. C, title I, § 31401, July 6, 2012, 126 Stat. 772, provi
 
   (C) Such sums as may be necessary for fiscal years 2012 through 2015 to carry out the Aviation Safety Reporting System and the development and maintenance of helicopter approach procedures.
 
-(3) **Administering program within available funding.—** — Notwithstanding any other provision of law, in each of fiscal years 2012 through 2015, if the Secretary determines that the funds appropriated under paragraph (1) are insufficient to meet the salary, operations, and maintenance expenses of the Federal Aviation Administration, as authorized by this section, the Secretary shall reduce nonsafety-related activities of the Administration as necessary to reduce such expenses to a level that can be met by the funding available under paragraph (1).
+(3) **Administering program within available funding.—** — Notwithstanding any other provision of law, in each of fiscal years 2012 through 2017, if the Secretary determines that the funds appropriated under paragraph (1) are insufficient to meet the salary, operations, and maintenance expenses of the Federal Aviation Administration, as authorized by this section, the Secretary shall reduce nonsafety-related activities of the Administration as necessary to reduce such expenses to a level that can be met by the funding available under paragraph (1).
 
 **(l) Personnel and Services.—**
 
@@ -1065,6 +1077,18 @@ The date of enactment of the Vision 100—Century of Aviation Reauthorization Ac
 The Ethics in Government Act of 1978, referred to in subsec. (p)(6)(I)(i), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
 #### Amendments
+2016—Subsec. (k)(1)(E). Pub. L. 114–190, § 1103(1), added subpar. (E) and struck out former subpar. (E) which read as follows: “$7,711,387,500 for the period beginning on October 1, 2015, and ending on July 15, 2016.”
+
+Pub. L. 114–141, § 103(1), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “$4,870,350,000 for the period beginning on October 1, 2015, and ending on March 31, 2016.”
+
+Subsec. (k)(3). Pub. L. 114–190, § 1103(2), substituted “fiscal years 2012 through 2017,” for “fiscal years 2012 through 2015 and for the period beginning on October 1, 2015, and ending on July 15, 2016,”.
+
+Pub. L. 114–141, § 103(2), substituted “July 15, 2016” for “March 31, 2016”.
+
+2015—Subsec. (k)(1)(E). Pub. L. 114–55, § 103(1), added subpar. (E).
+
+Subsec. (k)(3). Pub. L. 114–55, § 103(2), inserted “and for the period beginning on October 1, 2015, and ending on March 31, 2016” after “fiscal years 2012 through 2015”.
+
 2014—Subsec. (p)(7)(H), (I). Pub. L. 113–188 redesignated subpar. (I) as (H) and struck out former subsec. (H) which related to reports and other actions by the Air Traffic Services Committee, Administrator, and Comptroller General.
 
 2012—Subsec. (b). Pub. L. 112–166, § 2(k)(2)(A), substituted “, who shall be appointed” for “. The Administration has a Deputy Administrator. They are appointed”.
@@ -1401,7 +1425,7 @@ Pub. L. 104–264, title II, § 223(b), Oct. 9, 1996, 110 Stat. 3230, provided t
 Pub. L. 104–50, title III, § 347, Nov. 15, 1995, 109 Stat. 460, as amended by Pub. L. 104–122, Mar. 29, 1996, 110 Stat. 876; Pub. L. 105–339, § 5, Oct. 31, 1998, 112 Stat. 3187, which required the Administrator of the Federal Aviation Administration to develop and implement, not later than Jan. 1, 1996, a personnel management system, exempt from most provisions of Title 5, Government Organization and Employees, to provide for greater flexibility in the hiring, training, compensation, and location of personnel, was repealed by Pub. L. 106–181, title III, § 307(d), Apr. 5, 2000, 114 Stat. 126.
 
 #### Dependents of Federal Aviation Administration Personnel
-Pub. L. 106–346, § 101(a) [title III, § 303], Oct. 23, 2000, 114 Stat. 1356, 1356A–23, provided that: “Hereafter, funds appropriated under this or any other Act for expenditures by the Federal Aviation Administration shall be available: (1) except as otherwise authorized by title VIII of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7701&num=0&edition=prelim) et seq.), for expenses of primary and secondary schooling for dependents of Federal Aviation Administration personnel stationed outside the continental United States at costs for any given area not in excess of those of the Department of Defense for the same area, when it is determined by the Secretary that the schools, if any, available in the locality are unable to provide adequately for the education of such dependents; and (2) for transportation of said dependents between schools serving the area that they attend and their places of residence when the Secretary, under such regulations as may be prescribed, determines that such schools are not accessible by public means of transportation on a regular basis.”
+Pub. L. 106–346, § 101(a) [title III, § 303], Oct. 23, 2000, 114 Stat. 1356, 1356A–23, as amended by Pub. L. 114–95, title IX, § 9215(x), Dec. 10, 2015, 129 Stat. 2172, provided that: “Hereafter, funds appropriated under this or any other Act for expenditures by the Federal Aviation Administration shall be available: (1) except as otherwise authorized by title VII of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7701&num=0&edition=prelim) et seq.], for expenses of primary and secondary schooling for dependents of Federal Aviation Administration personnel stationed outside the continental United States at costs for any given area not in excess of those of the Department of Defense for the same area, when it is determined by the Secretary that the schools, if any, available in the locality are unable to provide adequately for the education of such dependents; and (2) for transportation of said dependents between schools serving the area that they attend and their places of residence when the Secretary, under such regulations as may be prescribed, determines that such schools are not accessible by public means of transportation on a regular basis.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -1626,10 +1650,13 @@ Section 4(j)(4) amends 49:108(a) to reflect the intent of 49 App.:1655(b)(2), on
 #### Savings Provisions
 Pub. L. 108–426, § 5, Nov. 30, 2004, 118 Stat. 2426, as amended by Pub. L. 110–244, title III, § 302(h), June 6, 2008, 122 Stat. 1618, provided that: “(a) Transfer of Assets and Personnel.—Personnel, property, and records employed, used, held, available, or to be made available in connection with functions transferred within the Department of Transportation by this Act [see Short Title of 2004 Amendment note set out under [section 101 of this title](./chapter-001-organization.md#section-101)] shall be transferred for use in connection with the functions transferred, and unexpended balances of appropriations, allocations, and other funds (including funds of any predecessor entity) shall also be transferred accordingly. “(b) Legal Documents.—All orders (including delegations by the Secretary of Transportation), determinations, rules, regulations, permits, grants, loans, contracts, settlements, agreements, certificates, licenses, and privileges—“(1) that have been issued, made, granted, or allowed to become effective by any officer or employee, or any other Government official, or by a court of competent jurisdiction, in the performance of any function that is transferred by this Act; and “(2) that are in effect on the effective date of such transfer (or become effective after such date pursuant to their terms as in effect on such effective date), shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the Department, any other authorized official, a court of competent jurisdiction, or operation of law. “(c) Proceedings.—The provisions of this Act shall not affect any proceedings, including administrative enforcement actions, pending before this Act takes effect, insofar as those functions are transferred by this Act; but such proceedings, to the extent that they relate to functions so transferred, shall proceed in accordance with applicable law and regulations. Nothing in this subsection shall be deemed to prohibit the conclusion or modification of any proceeding described in this subsection under the same terms and conditions and to the same extent that such proceeding could have been concluded or modified if this Act had not been enacted. The Secretary of Transportation is authorized to provide for the orderly transfer of pending proceedings. “(d) Suits.—“(1) In general.—This Act shall not affect suits commenced before the date of enactment of this Act [Nov. 30, 2004], except as provided in paragraphs (2) and (3). In all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted. “(2) Suits by or against department.—Any suit by or against the Department begun before the date of enactment of this Act, shall proceed in accordance with applicable law and regulations, insofar as it involves a function retained and transferred under this Act. “(3) Procedures for remanded cases.—If the court in a suit described in paragraph (1) remands a case, subsequent proceedings related to such case shall proceed under procedures that are in accordance with applicable law and regulations as in effect at the time of such subsequent proceedings. “(e) Continuance of Actions Against Officers.—No suit, action, or other proceeding commenced by or against any officer in his or her official capacity shall abate by reason of the enactment of this Act. “(f) Exercise of Authorities.—An officer or employee of the Department, for purposes of performing a function transferred by this Act, may exercise all authorities under any other provision of law that were available with respect to the performance of that function to the official responsible for the performance of the function immediately before the effective date of the transfer of the function by this Act. “(g) References.—A reference relating to an agency, officer, or employee affected by this Act in any Federal law, Executive order, rule, regulation, or delegation of authority, or in any document pertaining to an officer or employee, is deemed to refer, as appropriate, to the agency, officer, or employee who succeeds to the functions transferred by this Act. “(h) Definition.—In this section, the term ‘this Act’ includes the amendments made by this Act.”
 
+#### Workforce Management
+Pub. L. 114–183, § 9, June 22, 2016, 130 Stat. 520, provided that: “(a) Review.—Not later than 1 year after the date of the enactment of this Act [June 22, 2016], the Inspector General of the Department of Transportation shall submit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, a review of Pipeline and Hazardous Materials Safety Administration staff resource management, including—“(1) geographic allocation plans, hiring and time-to-hire challenges, and expected retirement rates and recruitment and retention strategies; “(2) an identification and description of any previous periods of macroeconomic and pipeline industry conditions under which the Pipeline and Hazardous Materials Safety Administration has encountered difficulty in filling vacancies, and the degree to which special hiring authorities, including direct hiring authority authorized by the Office of Personnel Management, could have ameliorated such difficulty; and “(3) recommendations to address hiring challenges, training needs, and any other identified staff resource challenges. “(b) Direct Hiring.—Upon identification of a period described in subsection (a)(2), the Administrator of the Pipeline and Hazardous Materials Safety Administration may apply to the Office of Personnel Management for the authority to appoint qualified candidates to any position relating to pipeline safety, as determined by the Administrator, without regard to sections 3309 through 3319 of title 5, United States Code. “(c) Savings Clause.—Nothing in this section shall preclude the Administrator of the Pipeline and Hazardous Materials Safety Administration from applying to the Office of Personnel Management for the authority described in subsection (b) prior to the completion of the report required under subsection (a).”
+
 #### Transfer of Duties and Powers of Research and Special Programs Administration
 Pub. L. 108–426, § 2(b), Nov. 30, 2004, 118 Stat. 2424, provided that: “The authority of the Research and Special Programs Administration exercised under chapters 51, 57, 61, 601, and 603 of title 49, United States Code, is transferred to the Administrator of the Pipeline and Hazardous Materials Safety Administration.”
 
-For transfer of authority of the Research and Special Programs Administration, other than authority exercised under chapters 51, 57, 61, 601, and 603 of this title, to the Administrator of the Research and Innovative Technology Administration, see section 4(b) of Pub. L. 108–426, set out as a note under [section 112 of this title](./chapter-001-organization.md#section-112).
+For transfer of authority of the Research and Special Programs Administration, other than authority exercised under chapters 51, 57, 61, 601, and 603 of this title, to the Administrator of the Research and Innovative Technology Administration, see section 4(b) of Pub. L. 108–426, set out as a note under former [section 112 of this title](./chapter-001-organization.md#section-112).
 
 Pub. L. 108–426, § 7, Nov. 30, 2004, 118 Stat. 2428, provided that: “The Secretary shall provide for the orderly transfer of duties and powers under this Act [see Short Title of 2004 Amendment note set out under [section 101 of this title](./chapter-001-organization.md#section-101)], including the amendments made by this Act, as soon as practicable but not later than 90 days after the date of enactment of this Act [Nov. 30, 2004].”
 
@@ -1689,8 +1716,6 @@ Pub. L. 108–426, § 6, Nov. 30, 2004, 118 Stat. 2428, provided that: “(a) Re
 
   (I) other operations and training expenses related to the development of waterborne transportation systems, the use of waterborne transportation systems, and general administration.
 
-(3) **Training Vessels.—** — Amounts may not be appropriated for the purchase or construction of training vessels for State maritime academies unless the Secretary has approved a plan for sharing training vessels between State maritime academies.
-
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -1732,6 +1757,8 @@ In subsection (h)(2), the words “according to approved commercial practice as 
 In subsection (i)(2), the words “Notwithstanding any other provision of this chapter or any other law” are omitted as unnecessary. In clause (G), the words “National Defense Reserve Fleet” are substituted for “reserve fleet” for clarity. Clause (H) is substituted for “(7) maritime training at the Merchant Marine Academy at Kings Point, New York”, “(8) financial assistance to State maritime academies under section 1295c of this Appendix”, “(10) expenses necessary for additional training provided under section 1295d of this Appendix”, and “(10) expenses necessary to carry out subchapter XIII of this chapter” because of the reorganization of revised title 46 and to eliminate unnecessary words. The text of 46 App. U.S.C. 1119 (proviso) is omitted as obsolete.
 
 #### Amendments
+2016—Subsec. (j)(3). Pub. L. 114–328 struck out par. (3). Text read as follows: “Amounts may not be appropriated for the purchase or construction of training vessels for State maritime academies unless the Secretary has approved a plan for sharing training vessels between State maritime academies.”
+
 2012—Subsec. (a). Pub. L. 112–213 substituted “Organization and Mission” for “Organization” in heading and inserted at end of text “The mission of the Maritime Administration is to foster, promote, and develop the merchant maritime industry of the United States.”
 
 2011—Subsec. (h). Pub. L. 111–383 made technical amendment to directory language of Pub. L. 111–84, § 3508(1). See 2009 Amendment note below.
@@ -1757,6 +1784,12 @@ Pub. L. 111–383, div. A, title X, § 1075(d), Jan. 7, 2011, 124 Stat. 4372, pr
 
 #### References in Other Federal Laws to Functions or Offices Transferred
 Pub. L. 97–31, § 10, Aug. 6, 1981, 95 Stat. 153, provided that: “With respect to any function or office transferred by this Act [see Tables for classification] and exercised on or after the effective date of this Act [Aug. 6, 1981], reference in any other Federal law to the Maritime Administration or any of its predecessor agencies or any officer or office the functions of which are so transferred shall be deemed to refer to the Secretary of Transportation, other official, or component of the Department of Transportation to which this Act transfers such functions.”
+
+#### Workforce Plans and Onboarding Policies
+Pub. L. 114–328, div. C, title XXXV, § 3519, Dec. 23, 2016, 130 Stat. 2792, provided that: “(a) Workforce Plans.—Not later than 9 months after the date of the enactment of this Act [Dec. 23, 2016], the Maritime Administrator shall review the Maritime Administration’s workforce plans, including its Strategic Human Capital Plan and Leadership Succession Plan, and fully implement competency models for mission-critical occupations, including—“(1) leadership positions; “(2) human resources positions; and “(3) transportation specialist positions. “(b) Onboarding Policies.—Not later than 9 months after the date of the enactment of this Act, the Maritime Administrator shall—“(1) review the Maritime Administration’s policies related to new hire orientation, training, and misconduct; “(2) align the onboarding policies and procedures at headquarters and the field offices to ensure consistent implementation and provision of critical information across the Maritime Administration; and “(3) update the Maritime Administration’s training policies and training systems to include controls that ensure that all completed training is tracked in a standardized training repository. “(c) Report.—Not later than 1 year after the date of the enactment of this Act [Dec. 23, 2016], the Maritime Administrator shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Armed Services and the Committee on Transportation and Infrastructure of the House of Representatives that describes the Maritime Administration’s compliance with the requirements under this section.”
+
+#### Drug and Alcohol Policy
+Pub. L. 114–328, div. C, title XXXV, § 3520, Dec. 23, 2016, 130 Stat. 2792, provided that: “(a) Review.—Not later than 9 months after the date of the enactment of this Act [Dec. 23, 2016], the Maritime Administrator shall—“(1) review the Maritime Administration’s drug and alcohol policies, procedures, and training practices; “(2) ensure that all fleet managers have received training on the Department of Transportation’s drug and alcohol policy, including the testing procedures used by the Department and the Maritime Administration in cases of reasonable suspicion; and “(3) institute a system for tracking all drug and alcohol policy training conducted under paragraph (2) in a standardized training repository. “(b) Report.—Not later than 1 year after the date of the enactment of this Act [Dec. 23, 2016], the Maritime Administrator shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Armed Services and the Committee on Transportation and Infrastructure of the House of Representatives that describes the Maritime Administration’s compliance with the requirements under this section.”
 
 #### Expansion of the Marine View System
 Pub. L. 111–84, div. C, title XXXV, § 3516, Oct. 28, 2009, 123 Stat. 2725, provided that: “(a) Definitions.—In this section:“(1) Marine transportation system.—The term ‘marine transportation system’ means the navigable water transportation system of the United States, including the vessels, ports (and intermodal connections thereto), and shipyards and other vessel repair facilities that are components of that system. “(2) Marine view system.—The term ‘Marine View system’ means the information system of the Maritime Administration known as Marine View. “(b) Purposes.—The purposes of this section are—“(1) to expand the Marine View system; and “(2) to provide support for the strategic requirements of the marine transportation system and its contribution to the economic viability of the United States. “(c) Expansion of Marine View System.—To accomplish the purposes of this section, the Secretary of Transportation shall expand the Marine View system so that such system is able to identify, collect, integrate, secure, protect, store, and securely distribute throughout the marine transportation system information that—“(1) provides access to many disparate marine transportation system data sources; “(2) enables a system-wide view of the marine transportation system; “(3) fosters partnerships between the Government of the United States and private entities; “(4) facilitates accurate and efficient modeling of the entire marine transportation system environment; “(5) monitors and tracks threats to the marine transportation system, including areas of severe weather or reported piracy; and “(6) provides vessel tracking and rerouting, as appropriate, to ensure that the economic viability of the United States waterways is maintained.”
@@ -1794,105 +1827,25 @@ Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as
 
 
 <a id="section-112"></a>
-## § 112. Office of the Assistant Secretary for Research and Technology of the Department of Transportation
-**(a) Establishment.—** The Office of the Assistant Secretary for Research and Technology of the Department of Transportation shall be an administration in the Department of Transportation.
-
-**(b) Administrator.—**
-
-(1) **Appointment.—** — The Administration shall be headed by an Administrator who shall be appointed by the President, by and with the advice and consent of the Senate.
-
-(2) **Reporting.—** — The Administrator shall report directly to the Secretary.
-
-**(c) Deputy Administrator.—** The Administration shall have a Deputy Administrator who shall be appointed by the Secretary of Transportation. The Deputy Administrator shall carry out duties and powers prescribed by the Administrator.
-
-**(d) Powers and Duties of the Administrator.—** The Administrator shall carry out—
-
-(1) powers and duties prescribed by the Secretary for—
-
-  (A) coordination, facilitation, and review of the Department’s research and development programs and activities;
-
-  (B) advancement, and research and development, of innovative technologies, including intelligent transportation systems;
-
-  (C) comprehensive transportation statistics research, analysis, and reporting;
-
-  (D) education and training in transportation and transportation-related fields; and
-
-  (E) activities of the Volpe National Transportation Center; and
-
-(2) other powers and duties prescribed by the Secretary.
-
-**(e) Administrative Authorities.—** The Administrator may enter into grants and cooperative agreements with Federal agencies, State and local government agencies, other public entities, private organizations, and other persons—
-
-(1) to conduct research into transportation service and infrastructure assurance; and
-
-(2) to carry out other research activities of the Administration.
-
-**(f) Program Evaluation and Oversight.—** For each of fiscal years 2013 and 2014, the Administrator is authorized to expend not more than 1 ½ percent of the amounts authorized to be appropriated for necessary expenses for administration and operations of the Research and Innovative Technology Administration for the coordination, evaluation, and oversight of the programs administered by the Administration.
-
-**(g) Collaborative Research and Development.—**
-
-(1) **In general.—** — To encourage innovative solutions to multimodal transportation problems and stimulate the deployment of new technology, the Administrator may carry out, on a cost-shared basis, collaborative research and development with—
-
-  (A) non-Federal entities, including State and local governments, foreign governments, institutions of higher education, corporations, institutions, partnerships, sole proprietorships, and trade associations that are incorporated or established under the laws of any State;
-
-  (B) Federal laboratories; and
-
-  (C) other Federal agencies.
-
-(2) **Cooperation, grants, contracts, and agreements.—** — Notwithstanding any other provision of law, the Administrator may directly initiate contracts, grants, cooperative research and development agreements (as defined in section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3710a&num=0&edition=prelim))), and other agreements to fund, and accept funds from, the Transportation Research Board of the National Research Council of the National Academy of Sciences, State departments of transportation, cities, counties, institutions of higher education, associations, and the agents of those entities to carry out joint transportation research and technology efforts.
-
-(3) **Federal share.—**
-
-  (A) *In general.—* — Subject to subparagraph (B), the Federal share of the cost of an activity carried out under paragraph (2) shall not exceed 50 percent.
-
-  (B) *Exception.—* — If the Secretary determines that the activity is of substantial public interest or benefit, the Secretary may approve a greater Federal share.
-
-  (C) *Non-federal share.—* — All costs directly incurred by the non-Federal partners, including personnel, travel, facility, and hardware development costs, shall be credited toward the non-Federal share of the cost of an activity described in subparagraph (A).
-
-(4) **Use of technology.—** — The research, development, or use of a technology under a contract, grant, cooperative research and development agreement, or other agreement entered into under this subsection, including the terms under which the technology may be licensed and the resulting royalties may be distributed, shall be subject to the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) et seq.).
-
-(5) **Waiver of advertising requirements.—** — [Section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim) shall not apply to a contract, grant, or other agreement entered into under this section.
+## § 112. Repealed. Pub. L. 114–94, div. A, title VI, § 6012(a), Dec. 4, 2015, 129 Stat. 1570]
 
 ### Statutory Notes
 
-#### References in Text
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (g)(4), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
+Section, added Pub. L. 102–508, title IV, § 401(a), Oct. 24, 1992, 106 Stat. 3310; amended Pub. L. 103–429, § 6(1), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 108–426, § 4(a), Nov. 30, 2004, 118 Stat. 2425; Pub. L. 109–59, title VII, § 7301, Aug. 10, 2005, 119 Stat. 1914; Pub. L. 112–141, div. E, title II, § 52012, July 6, 2012, 126 Stat. 896; Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 574, related to establishment of the Research and Innovative Technology Administration, whose functions were subsequently transferred to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation. See Transfer of Duties and Powers note below.
 
-#### Amendments
-2012–Subsecs. (f), (g). Pub. L. 112–141 added subsecs. (f) and (g).
-
-2005—Subsec. (e). Pub. L. 109–59 added subsec. (e).
-
-2004—Pub. L. 108–426, § 4(a)(1), substituted “Research and Innovative Technology Administration” for “Research and Special Programs Administration” in section catchline.
-
-Subsec. (a). Pub. L. 108–426, § 4(a)(2), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There is established in the Department of Transportation a Research and Special Programs Administration.”
-
-Subsec. (d). Pub. L. 108–426, § 4(a)(3), added subsec. (d) and struck out heading and text of former subsec. (d) which related to the responsibilities of the Administrator of the Research and Special Programs Administration.
-
-Subsec. (e). Pub. L. 108–426, § 4(a)(4), struck out heading and text of subsec. (e). Text read as follows: “Nothing in this section shall affect any delegation of authority, regulation, order, approval, exemption, waiver, contract, or other administrative act of the Secretary with respect to laws administered through the Research and Special Programs Administration of the Department of Transportation on October 24, 1992.”
-
-1994—Subsec. (e). Pub. L. 103–429 substituted “October 24, 1992” for “the date of the enactment of this section”.
-
-#### Change of Name
-“Office of the Assistant Secretary for Research and Technology of the Department of Transportation” substituted for “Research and Innovative Technology Administration” in section catchline and subsec. (a) on authority of title I of div. L. of Pub. L. 113–76, set out in part as a note below.
-
-#### Effective Date of 2012 Amendment
-Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
-
-#### National Highway Traffic Safety Administration Programs Administered by Secretary of Transportation
-Pub. L. 108–426, § 4(b), Nov. 30, 2004, 118 Stat. 2425, as amended by Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 574, provided that: “(1) In general.—Nothing in this Act [see Short Title of 2004 Amendment note set out under [section 101 of this title](./chapter-001-organization.md#section-101)] shall grant any authority to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation over research and other programs, activities, standards, or regulations administered by the Secretary of Transportation through the National Highway Traffic Safety Administration. “(2) Applicability.—Paragraph (1) shall not apply to the research and other programs, activities, standards, or regulations provided for in highway and traffic safety programs, administered by the Secretary through the National Highway Traffic Safety Administration, in title 23, United States Code, and chapter 303 of title 49, United States Code, as in effect on the date of enactment of this Act [Nov. 30, 2004].”
+#### Effective Date of Repeal
+Repeal effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Transfer of Duties and Powers
 Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 574, provided in part: “That notwithstanding any other provision of law, the powers and duties, functions, authorities and personnel of the Research and Innovative Technology Administration are hereby transferred to the Office of the Assistant Secretary for Research and Technology in the Office of the Secretary: Provided further, That notwithstanding [section 102 of title 49](./chapter-001-organization.md#section-102) and [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), United States Code, there shall be an Assistant Secretary for Research and Technology within the Office of the Secretary, appointed by the President with the advice and consent of the Senate, to lead such office: Provided further, That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation.”
+
+[Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2835, provided in part: “That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall continue to be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation.” ]
 
 [Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2696, provided in part: “That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall continue to be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation.” ]
 
 Pub. L. 108–426, § 4(d), Nov. 30, 2004, 118 Stat. 2426, provided that: “The authority of the Research and Special Programs Administration, other than authority exercised under chapters 51, 57, 61, 601, and 603 of title 49, United States Code, is transferred to the Administrator of the Research and Innovative Technology Administration.”
 
 For transfer of authority of the Research and Special Programs Administration exercised under chapters 51, 57, 61, 601, and 603 of this title to the Administrator of the Pipeline and Hazardous Materials Safety Administration, see section 2(b) of Pub. L. 108–426, set out as a note under [section 108 of this title](./chapter-001-organization.md#section-108).
-
-#### Development of Underground Utility Location Technologies
-Pub. L. 102–508, title III, § 306, Oct. 24, 1992, 106 Stat. 3309, provided that: “(a) In General.—The Secretary of Transportation shall carry out a research and development program on underground utility location technologies. “(b) Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $500,000 for fiscal years beginning after September 30, 1992. Such sums shall remain available until expended.”
 
 
 <a id="section-113"></a>
@@ -1923,6 +1876,15 @@ Pub. L. 102–508, title III, § 306, Oct. 24, 1992, 106 Stat. 3309, provided th
 
 #### Effective Date
 Section effective Jan. 1, 2000, see section 107(a) of Pub. L. 106–159, set out as an Effective Date of 1999 Amendment note under [section 104 of this title](./chapter-001-organization.md#section-104).
+
+#### Guidance
+Pub. L. 114–94, div. A, title V, § 5203, Dec. 4, 2015, 129 Stat. 1535, provided that: “(a) In General.—“(1) Date of issuance and point of contact.—Each guidance document issued by the Federal Motor Carrier Safety Administration shall have a date of issuance or a date of revision, as applicable, and shall include the name and contact information of a point of contact at the Administration who can respond to questions regarding the guidance. “(2) Public accessibility.—“(A) In general.—Each guidance document issued or revised by the Federal Motor Carrier Safety Administration shall be published on a publicly accessible Internet Web site of the Department [of Transportation] on the date of issuance or revision. “(B) Redaction.—The Administrator of the Federal Motor Carrier Safety Administration may redact from a guidance document published under subparagraph (A) any information that would reveal investigative techniques that would compromise Administration enforcement efforts. “(3) Incorporation into regulations.—Not later than 5 years after the date on which a guidance document is published under paragraph (2) or during an applicable review under subsection (c), whichever is earlier, the Secretary [of Transportation] shall revise regulations to incorporate the guidance document to the extent practicable. “(4) Reissuance.—If a guidance document is not incorporated into regulations in accordance with paragraph (3), the Administrator shall—“(A) reissue an updated version of the guidance document; and “(B) review and reissue an updated version of the guidance document every 5 years until the date on which the guidance document is removed or incorporated into applicable regulations. “(b) Initial Review.—Not later than 1 year after the date of enactment of this Act [Dec. 4, 2015], the Administrator shall review all guidance documents issued by the Federal Motor Carrier Safety Administration and in effect on such date of enactment to ensure that such documents are current, are readily accessible to the public, and meet the standards specified in subparagraphs (A), (B), and (C) of subsection (c)(1). “(c) Regular Review.—“(1) In general.—Subject to paragraph (2), not less than once every 5 years, the Administrator shall conduct a comprehensive review of the guidance documents issued by the Federal Motor Carrier Safety Administration to determine whether such documents are—“(A) consistent and clear; “(B) uniformly and consistently enforced; and “(C) still necessary. “(2) Notice and comment.—Prior to beginning a review under paragraph (1), the Administrator shall publish in the Federal Register a notice and request for comment that solicits input from stakeholders on which guidance documents should be updated or eliminated. “(3) Report.—“(A) In general.—Not later than 60 days after the date on which a review under paragraph (1) is completed, the Administrator shall publish on a publicly accessible Internet Web site of the Department a report detailing the review and a full inventory of the guidance documents of the Administration. “(B) Contents.—A report under subparagraph (A) shall include a summary of the response of the Administration to comments received under paragraph (2). “(d) Guidance Document Defined.—In this section, the term ‘guidance document’ means a document issued by the Federal Motor Carrier Safety Administration that—“(1) provides an interpretation of a regulation of the Administration; or “(2) includes an enforcement policy of the Administration available to the public.”
+
+#### Petitions
+Pub. L. 114–94, div. A, title V, § 5204, Dec. 4, 2015, 129 Stat. 1536, provided that: “(a) In General.—The Administrator of the Federal Motor Carrier Safety Administration shall—“(1) publish on a publicly accessible Internet Web site of the Department [of Transportation] a summary of all petitions for regulatory action submitted to the Administration; “(2) prioritize the petitions submitted based on the likelihood of safety improvements resulting from the regulatory action requested; “(3) not later than 180 days after the date a summary of a petition is published under paragraph (1), formally respond to such petition by indicating whether the Administrator will accept, deny, or further review the petition; “(4) prioritize responses to petitions consistent with a petition’s potential to reduce crashes, improve enforcement, and reduce unnecessary burdens; and “(5) not later than 60 days after the date of receipt of a petition, publish on a publicly accessible Internet Web site of the Department an updated inventory of the petitions described in paragraph (1), including any applicable disposition information for those petitions. “(b) Treatment of Multiple Petitions.—The Administrator may treat multiple similar petitions as a single petition for the purposes of subsection (a). “(c) Petition Defined.—In this section, the term ‘petition’ means a request for—“(1) a new regulation; “(2) a regulatory interpretation or clarification; or “(3) a determination by the Administrator that a regulation should be modified or eliminated because it is—“(A) no longer—“(i) consistent and clear; “(ii) current with the operational realities of the motor carrier industry; or “(iii) uniformly enforced; “(B) ineffective; or “(C) overly burdensome.”
+
+#### Prioritizing Statutory Rulemakings
+Pub. L. 114–94, div. A, title V, § 5302, Dec. 4, 2015, 129 Stat. 1543, provided that: “The Administrator of the Federal Motor Carrier Safety Administration shall prioritize the completion of each outstanding rulemaking required by statute before beginning any other rulemaking, unless the Secretary [of Transportation] determines that there is a significant need for such other rulemaking and notifies Congress of such determination.”
 
 #### Findings
 Pub. L. 106–159, § 3, Dec. 9, 1999, 113 Stat. 1749, provided that: “Congress makes the following findings: “(1) The current rate, number, and severity of crashes involving motor carriers in the United States are unacceptable. “(2) The number of Federal and State commercial motor vehicle and operator inspections is insufficient and civil penalties for violators must be utilized to deter future violations. “(3) The Department of Transportation is failing to meet statutorily mandated deadlines for completing rulemaking proceedings on motor carrier safety and, in some significant safety rulemaking proceedings, including driver hours-of-service regulations, extensive periods have elapsed without progress toward resolution or implementation. “(4) Too few motor carriers undergo compliance reviews and the Department’s data bases and information systems require substantial improvement to enhance the Department’s ability to target inspection and enforcement resources toward the most serious safety problems and to improve States’ ability to keep dangerous drivers off the roads. “(5) Additional safety inspectors and inspection facilities are needed in international border areas to ensure that commercial motor vehicles, drivers, and carriers comply with United States safety standards. “(6) The Department should rigorously avoid conflicts of interest in federally funded research. “(7) Meaningful measures to improve safety must be implemented expeditiously to prevent increases in motor carrier crashes, injuries, and fatalities. “(8) Proper use of Federal resources is essential to the Department’s ability to improve its research, rulemaking, oversight, and enforcement activities related to commercial motor vehicles, operators, and carriers.”
@@ -2204,7 +2166,7 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
 (1) **Definitions.—** — In this subsection:
 
-  (A) *Appropriate congressional committees.—* — The term “appropriate congressional committees” has the meaning given that term in subsection (t).33 So in original. Probably should be “subsection (s).”.
+  (A) *Appropriate congressional committees.—* — The term “appropriate congressional committees” has the meaning given that term in subsection (s)(4)(E).
 
   (B) *Plan.—* — The term “Plan” means the Transportation Security Information Sharing Plan established under paragraph (2).
 
@@ -2240,17 +2202,9 @@ Pub. L. 106–159, title I, § 106, Dec. 9, 1999, 113 Stat. 1756, provided that:
 
   (B) *Annual report.—* — Not later than 1 year after the date of enactment of this subsection, the Secretary shall submit to the appropriate congressional committees a report on updates to and the implementation of the Plan.
 
-(7) **Survey and report.—**
+(7) **Security clearances.—** — The Secretary shall, to the greatest extent practicable, take steps to expedite the security clearances needed for designated public and private stakeholders to receive and obtain access to classified information distributed under this section, as appropriate.
 
-  (A) *In general.—* — The Comptroller General of the United States shall conduct a biennial survey of the satisfaction of recipients of transportation intelligence reports disseminated under the Plan.
-
-  (B) *Information sought.—* — The survey conducted under subparagraph (A) shall seek information about the quality, speed, regularity, and classification of the transportation security information products disseminated by the Department of Homeland Security to public and private stakeholders.
-
-  (C) *Report.—* — Not later than 1 year after the date of the enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, and every even numbered year thereafter, the Comptroller General shall submit to the appropriate congressional committees, a report on the results of the survey conducted under subparagraph (A). The Comptroller General shall also provide a copy of the report to the Secretary.
-
-(8) **Security clearances.—** — The Secretary shall, to the greatest extent practicable, take steps to expedite the security clearances needed for designated public and private stakeholders to receive and obtain access to classified information distributed under this section, as appropriate.
-
-(9) **Classification of material.—** — The Secretary, to the greatest extent practicable, shall provide designated public and private stakeholders with transportation security information in an unclassified format.
+(8) **Classification of material.—** — The Secretary, to the greatest extent practicable, shall provide designated public and private stakeholders with transportation security information in an unclassified format.
 
 **(v) Enforcement of Regulations and Orders of the Secretary of Homeland Security.—**
 
@@ -2381,9 +2335,13 @@ The Aviation and Transportation Security Act, referred to in subsec. (r)(1), is 
 
 The Implementing Recommendations of the 9/11 Commission Act of 2007, referred to in subsec. (s)(3)(B), is Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 266. Section 1410 of the Act is classified to [section 1139 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1139&num=0&edition=prelim), Domestic Security. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim) and Tables.
 
-The date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007 and the date of enactment of this subsection, referred to in subsecs. (s)(3)(F), (u)(6), (7)(C), and (v)(7)(D), is the date of enactment of Pub. L. 110–53, which was approved Aug. 3, 2007.
+The date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007 and the date of enactment of this subsection, referred to in subsecs. (s)(3)(F), (u)(6), and (v)(7)(D), is the date of enactment of Pub. L. 110–53, which was approved Aug. 3, 2007.
 
 #### Amendments
+2016—Subsec. (u)(1)(A). Pub. L. 114–301, § 2(d)(1), substituted “subsection (s)(4)(E)” for “subsection (t)”.
+
+Subsec. (u)(7) to (9). Pub. L. 114–301, § 2(d)(2), (3), redesignated pars. (8) and (9) as (7) and (8), respectively, and struck out former par. (7) which related to surveys and reports.
+
 2009—Subsec. (r)(4). Pub. L. 111–83 added par. (4).
 
 2007—Subsecs. (o) to (s). Pub. L. 110–161 redesignated subsecs. (p) to (s) as (o) to (r), respectively, and struck out former subsec. (o). Text of former subsec. (o) read as follows: “The acquisition management system established by the Administrator of the Federal Aviation Administration under section 40110 shall apply to acquisitions of equipment, supplies, and materials by the Transportation Security Administration, or, subject to the requirements of such section, the Under Secretary may make such modifications to the acquisition management system with respect to such acquisitions of equipment, supplies, and materials as the Under Secretary considers appropriate, such as adopting aspects of other acquisition management systems of the Department of Transportation.”
@@ -2448,7 +2406,7 @@ Pub. L. 114–4, title V, § 536, Mar. 4, 2015, 129 Stat. 67, provided that: “
 Pub. L. 110–161, div. E, title V, § 571, Dec. 26, 2007, 121 Stat. 2093, provided that: “Effective no later than ninety days after the date of enactment of this Act [Dec. 26, 2007], the Transportation Security Administration shall permit approved members of Registered Traveler programs to satisfy fully the required identity verification procedures at security screening checkpoints by presenting a biometrically-secure Registered Traveler card in lieu of the government-issued photo identification document required of non-participants: Provided, That if their identity is not confirmed biometrically, the standard identity and screening procedures will apply: Provided further, That if the Assistant Secretary (Transportation Security Administration) determines this is a threat to civil aviation, then the Assistant Secretary (Transportation Security Administration) shall notify the Committees on Appropriations of the Senate and House of Representatives five days in advance of such determination and require Registered Travelers to present government-issued photo identification documents in conjunction with a biometrically-secure Registered Traveler card.”
 
 #### Congressional Oversight of Security Assurance for Public and Private Stakeholders
-Pub. L. 110–53, title XII, § 1203(b), Aug. 3, 2007, 121 Stat. 385, provided that: “(1) In general.—Except as provided in paragraph (2), the Secretary [of Homeland Security] shall provide a semiannual report to the Committee on Homeland Security and Governmental Affairs, the Committee on Commerce, Science, and Transportation, and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives that includes—“(A) the number of public and private stakeholders who were provided with each report; “(B) a description of the measures the Secretary has taken, under [section 114(u)(7) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/u/7&num=0&edition=prelim), United States Code, as added by this section, or otherwise, to ensure proper treatment and security for any classified information to be shared with the public and private stakeholders under the Plan; and “(C) an explanation of the reason for the denial of transportation security information to any stakeholder who had previously received such information. “(2) No report required if no changes in stakeholders.—The Secretary is not required to provide a semiannual report under paragraph (1) if no stakeholders have been added to or removed from the group of persons with whom transportation security information is shared under the plan since the end of the period covered by the last preceding semiannual report.”
+Pub. L. 110–53, title XII, § 1203(b), Aug. 3, 2007, 121 Stat. 385, provided that: “(1) In general.—Except as provided in paragraph (2), the Secretary [of Homeland Security] shall provide a semiannual report to the Committee on Homeland Security and Governmental Affairs, the Committee on Commerce, Science, and Transportation, and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives that includes—“(A) the number of public and private stakeholders who were provided with each report; “(B) a description of the measures the Secretary has taken, under [former] [section 114(u)(7) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/u/7&num=0&edition=prelim), United States Code, as added by this section, or otherwise, to ensure proper treatment and security for any classified information to be shared with the public and private stakeholders under the Plan; and “(C) an explanation of the reason for the denial of transportation security information to any stakeholder who had previously received such information. “(2) No report required if no changes in stakeholders.—The Secretary is not required to provide a semiannual report under paragraph (1) if no stakeholders have been added to or removed from the group of persons with whom transportation security information is shared under the plan since the end of the period covered by the last preceding semiannual report.”
 
 #### Specialized Training
 Pub. L. 110–53, title XVI, § 1611, Aug. 3, 2007, 121 Stat. 485, provided that: “The Administrator of the Transportation Security Administration shall provide advanced training to transportation security officers for the development of specialized security skills, including behavior observation and analysis, explosives detection, and document examination, in order to enhance the effectiveness of layered transportation security measures.”
@@ -2537,3 +2495,276 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+
+<a id="section-116"></a>
+## § 116. National Surface Transportation and Innovative Finance Bureau
+**(a) Establishment.—** The Secretary of Transportation shall establish a National Surface Transportation and Innovative Finance Bureau in the Department.
+
+**(b) Purposes.—** The purposes of the Bureau shall be—
+
+(1) to provide assistance and communicate best practices and financing and funding opportunities to eligible entities for the programs referred to in subsection (d)(1);
+
+(2) to administer the application processes for programs within the Department in accordance with subsection (d);
+
+(3) to promote innovative financing best practices in accordance with subsection (e);
+
+(4) to reduce uncertainty and delays with respect to environmental reviews and permitting in accordance with subsection (f); and
+
+(5) to reduce costs and risks to taxpayers in project delivery and procurement in accordance with subsection (g).
+
+**(c) Executive Director.—**
+
+(1) **Appointment.—** — The Bureau shall be headed by an Executive Director, who shall be appointed in the competitive service by the Secretary, with the approval of the President.
+
+(2) **Duties.—** — The Executive Director shall—
+
+  (A) report to the Under Secretary of Transportation for Policy;
+
+  (B) be responsible for the management and oversight of the daily activities, decisions, operations, and personnel of the Bureau;
+
+  (C) support the Council on Credit and Finance established under section 117 in accordance with this section; and
+
+  (D) carry out such additional duties as the Secretary may prescribe.
+
+**(d) Administration of Certain Application Processes.—**
+
+(1) **In general.—** — The Bureau shall administer the application processes for the following programs:
+
+  (A) The infrastructure finance programs authorized under chapter 6 of title 23.
+
+  (B) The railroad rehabilitation and improvement financing program authorized under sections 501 through 503 of the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 821–823](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section821–823&num=0&edition=prelim)).
+
+  (C) Amount allocations authorized under section 142(m) of the Internal Revenue Code of 1986.
+
+  (D) The nationally significant freight and highway projects program under [section 117 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section117&num=0&edition=prelim).
+
+(2) **Congressional notification.—** — The Executive Director shall ensure that the congressional notification requirements for each program referred to in paragraph (1) are followed in accordance with the statutory provisions applicable to the program.
+
+(3) **Reports.—** — The Executive Director shall ensure that the reporting requirements for each program referred to in paragraph (1) are followed in accordance with the statutory provisions applicable to the program.
+
+(4) **Coordination.—** — In administering the application processes for the programs referred to in paragraph (1), the Executive Director shall coordinate with appropriate officials in the Department and its modal administrations responsible for administering such programs.
+
+(5) **Streamlining approval processes.—** — Not later than 1 year after the date of enactment of this section, the Executive Director shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Environment and Public Works of the Senate a report that—
+
+  (A) evaluates the application processes for the programs referred to in paragraph (1);
+
+  (B) identifies administrative and legislative actions that would improve the efficiency of the application processes without diminishing Federal oversight; and
+
+  (C) describes how the Executive Director will implement administrative actions identified under subparagraph (B) that do not require an Act of Congress.
+
+(6) **Procedures and transparency.—**
+
+  (A) *Procedures.—* — With respect to the programs referred to in paragraph (1), the Executive Director shall—
+
+    (i) establish procedures for analyzing and evaluating applications and for utilizing the recommendations of the Council on Credit and Finance;
+
+    (ii) establish procedures for addressing late-arriving applications, as applicable, and communicating the Bureau’s decisions for accepting or rejecting late applications to the applicant and the public; and
+
+    (iii) document major decisions in the application evaluation process through a decision memorandum or similar mechanism that provides a clear rationale for such decisions.
+
+  (B) *Review.—*
+
+    (i) *In general.—* — The Comptroller General of the United States shall review the compliance of the Executive Director with the requirements of this paragraph.
+
+    (ii) *Recommendations.—* — The Comptroller General may make recommendations to the Executive Director in order to improve compliance with the requirements of this paragraph.
+
+    (iii) *Report.—* — Not later than 3 years after the date of enactment of this section, the Comptroller General shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the review conducted under clause (i), including findings and recommendations for improvement.
+
+**(e) Innovative Financing Best Practices.—**
+
+(1) **In general.—** — The Bureau shall work with the modal administrations within the Department, eligible entities, and other public and private interests to develop and promote best practices for innovative financing and public-private partnerships.
+
+(2) **Activities.—** — The Bureau shall carry out paragraph (1)—
+
+  (A) by making Federal credit assistance programs more accessible to eligible recipients;
+
+  (B) by providing advice and expertise to eligible entities that seek to leverage public and private funding;
+
+  (C) by sharing innovative financing best practices and case studies from eligible entities with other eligible entities that are interested in utilizing innovative financing methods; and
+
+  (D) by developing and monitoring—
+
+    (i) best practices with respect to standardized State public-private partnership authorities and practices, including best practices related to—
+
+      (I) accurate and reliable assumptions for analyzing public-private partnership procurements;
+
+      (II) procedures for the handling of unsolicited bids;
+
+      (III) policies with respect to noncompete clauses; and
+
+      (IV) other significant terms of public-private partnership procurements, as determined appropriate by the Bureau;
+
+    (ii) standard contracts for the most common types of public-private partnerships for transportation facilities; and
+
+    (iii) analytical tools and other techniques to aid eligible entities in determining the appropriate project delivery model, including a value for money analysis.
+
+(3) **Transparency.—** — The Bureau shall—
+
+  (A) ensure the transparency of a project receiving credit assistance under a program referred to in subsection (d)(1) and procured as a public-private partnership by—
+
+    (i) requiring the sponsor of the project to undergo a value for money analysis or a comparable analysis prior to deciding to advance the project as a public-private partnership;
+
+    (ii) requiring the analysis required under subparagraph (A), and other key terms of the relevant public-private partnership agreement, to be made publicly available by the project sponsor at an appropriate time;
+
+    (iii) not later than 3 years after the date of completion of the project, requiring the sponsor of the project to conduct a review regarding whether the private partner is meeting the terms of the relevant public-private partnership agreement; and
+
+    (iv) providing a publicly available summary of the total level of Federal assistance in such project; and
+
+  (B) develop guidance to implement this paragraph that takes into consideration variations in State and local laws and requirements related to public-private partnerships.
+
+(4) **Support to project sponsors.—** — At the request of an eligible entity, the Bureau shall provide technical assistance to the eligible entity regarding proposed public-private partnership agreements for transportation facilities, including assistance in performing a value for money analysis or comparable analysis.
+
+**(f) Environmental Review and Permitting.—**
+
+(1) **In general.—** — The Bureau shall take actions that are appropriate and consistent with the Department’s goals and policies to improve the delivery timelines for projects carried out under the programs referred to in subsection (d)(1).
+
+(2) **Activities.—** — The Bureau shall carry out paragraph (1)—
+
+  (A) by serving as the Department’s liaison to the Council on Environmental Quality;
+
+  (B) by coordinating efforts to improve the efficiency and effectiveness of the environmental review and permitting process;
+
+  (C) by providing technical assistance and training to field and headquarters staff of Federal agencies on policy changes and innovative approaches to the delivery of projects; and
+
+  (D) by identifying, developing, and tracking metrics for permit reviews and decisions by Federal agencies for projects under the National Environmental Policy Act of 1969.
+
+(3) **Support to project sponsors.—** — At the request of an eligible entity that is carrying out a project under a program referred to in subsection (d)(1), the Bureau, in coordination with the appropriate modal administrations within the Department, shall provide technical assistance with regard to the compliance of the project with the requirements of the National Environmental Policy Act 1969 and relevant Federal environmental permits.
+
+**(g) Project Procurement.—**
+
+(1) **In general.—** — The Bureau shall promote best practices in procurement for a project receiving assistance under a program referred to in subsection (d)(1) by developing, in coordination with modal administrations within the Department as appropriate, procurement benchmarks in order to ensure accountable expenditure of Federal assistance over the life cycle of the project.
+
+(2) **Procurement benchmarks.—** — To the maximum extent practicable, the procurement benchmarks developed under paragraph (1) shall—
+
+  (A) establish maximum thresholds for acceptable project cost increases and delays in project delivery;
+
+  (B) establish uniform methods for States to measure cost and delivery changes over the life cycle of a project; and
+
+  (C) be tailored, as necessary, to various types of project procurements, including design-bid-build, design-build, and public-private partnerships.
+
+(3) **Data collection.—** — The Bureau shall—
+
+  (A) collect information related to procurement benchmarks developed under paragraph (1), including project specific information detailed under paragraph (2); and
+
+  (B) provide on a publicly accessible Internet Web site of the Department a report on the information collected under subparagraph (A).
+
+**(h) Elimination and Consolidation of Duplicative Offices.—**
+
+(1) **Elimination of offices.—** — The Secretary may eliminate any office within the Department if the Secretary determines that—
+
+  (A) the purposes of the office are duplicative of the purposes of the Bureau; and
+
+  (B) the elimination of the office does not adversely affect the obligations of the Secretary under any Federal law.
+
+(2) **Consolidation of offices and office functions.—** — The Secretary may consolidate any office or office function within the Department into the Bureau that the Secretary determines has duties, responsibilities, resources, or expertise that support the purposes of the Bureau.
+
+(3) **Staffing and budgetary resources.—**
+
+  (A) *In general.—* — The Secretary shall ensure that the Bureau is adequately staffed and funded.
+
+  (B) *Staffing.—* — The Secretary may transfer to the Bureau a position within the Department from any office that is eliminated or consolidated under this subsection if the Secretary determines that the position is necessary to carry out the purposes of the Bureau.
+
+  (C) *Savings provision.—* — If the Secretary transfers a position to the Bureau under subparagraph (B), the Secretary, in coordination with the appropriate modal administration, shall ensure that the transfer of the position does not adversely affect the obligations of the modal administration under any Federal law.
+
+  (D) *Budgetary resources.—*
+
+    (i) *Transfer of funds from eliminated or consolidated offices.—* — During the 2-year period beginning on the date of enactment of this section, the Secretary may transfer to the Bureau funds allocated to any office or office function that is eliminated or consolidated under this subsection to carry out the purposes of the Bureau.
+
+    (ii) *Transfer of funds allocated to administrative costs.—* — During the 2-year period beginning on the date of enactment of this section, the Secretary may transfer to the Bureau funds allocated to the administrative costs of processing applications for the programs referred to in subsection (d)(1).
+
+(4) **Notification.—** — Not later than 90 days after the date of enactment of this section, and every 90 days thereafter, the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Commerce, Science, and Transportation of the Senate of—
+
+  (A) the offices eliminated under paragraph (1) and the rationale for elimination of the offices;
+
+  (B) the offices and office functions consolidated under paragraph (2) and the rationale for consolidation of the offices and office functions;
+
+  (C) the actions taken under paragraph (3) and the rationale for taking such actions; and
+
+  (D) any additional legislative actions that may be needed.
+
+**(i) Savings Provisions.—**
+
+(1) **Laws and regulations.—** — Nothing in this section may be construed to change a law or regulation with respect to a program referred to in subsection (d)(1).
+
+(2) **Responsibilities.—** — Nothing in this section may be construed to abrogate the responsibilities of an agency, operating administration, or office within the Department otherwise charged by a law or regulation with other aspects of program administration, oversight, or project approval or implementation for the programs and projects subject to this section.
+
+(3) **Applicability.—** — Nothing in this section may be construed to affect any pending application under 1 or more of the programs referred to in subsection (d)(1) that was received by the Secretary on or before the date of enactment of this section.
+
+**(j) Definitions.—** In this section, the following definitions apply:
+
+(1) **Bureau.—** — The term “Bureau” means the National Surface Transportation and Innovative Finance Bureau of the Department.
+
+(2) **Department.—** — The term “Department” means the Department of Transportation.
+
+(3) **Eligible entity.—** — The term “eligible entity” means an eligible applicant receiving financial or credit assistance under 1 or more of the programs referred to in subsection (d)(1).
+
+(4) **Executive director.—** — The term “Executive Director” means the Executive Director of the Bureau.
+
+(5) **Multimodal project.—** — The term “multimodal project” means a project involving the participation of more than 1 modal administration or secretarial office within the Department.
+
+(6) **Project.—** — The term “project” means a highway project, public transportation capital project, freight or passenger rail project, or multimodal project.
+
+### Statutory Notes
+
+#### References in Text
+Section 142 of the Internal Revenue Code of 1986, referred to in subsec. (d)(1)(C), is classified to [section 142 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section142&num=0&edition=prelim), Internal Revenue Code.
+
+The date of enactment of this section, referred to in subsecs. (d)(5), (6)(B)(iii), (h)(3)(D), (4), and (i)(3), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+The National Environmental Policy Act of 1969, referred to in subsec. (f)(2)(D), (3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+#### Effective Date
+Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-117"></a>
+## § 117. Council on Credit and Finance
+**(a) Establishment.—** The Secretary of Transportation shall establish a Council on Credit and Finance in accordance with this section.
+
+**(b) Membership.—**
+
+(1) **In general.—** — The Council shall be composed of the following members:
+
+  (A) The Deputy Secretary of Transportation.
+
+  (B) The Under Secretary of Transportation for Policy.
+
+  (C) The Chief Financial Officer and Assistant Secretary for Budget and Programs.
+
+  (D) The General Counsel of the Department of Transportation.
+
+  (E) The Assistant Secretary for Transportation Policy.
+
+  (F) The Administrator of the Federal Highway Administration.
+
+  (G) The Administrator of the Federal Transit Administration.
+
+  (H) The Administrator of the Federal Railroad Administration.
+
+(2) **Additional members.—** — The Secretary may designate up to 3 additional officials of the Department to serve as at-large members of the Council.
+
+(3) **Chairperson and vice chairperson.—**
+
+  (A) *Chairperson.—* — The Deputy Secretary of Transportation shall serve as the chairperson of the Council.
+
+  (B) *Vice chairperson.—* — The Chief Financial Officer and Assistant Secretary for Budget and Programs shall serve as the vice chairperson of the Council.
+
+(4) **Executive director.—** — The Executive Director of the National Surface Transportation and Innovative Finance Bureau shall serve as a nonvoting member of the Council.
+
+**(c) Duties.—** The Council shall—
+
+(1) review applications for assistance submitted under the programs referred to in subparagraphs (A), (B), and (C) of section 116(d)(1);
+
+(2) review applications for assistance submitted under the program referred to in section 116(d)(1)(D), as determined appropriate by the Secretary;
+
+(3) make recommendations to the Secretary regarding the selection of projects to receive assistance under such programs;
+
+(4) review, on a regular basis, projects that received assistance under such programs; and
+
+(5) carry out such additional duties as the Secretary may prescribe.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.

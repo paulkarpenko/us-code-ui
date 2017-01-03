@@ -2,7 +2,7 @@
 title: 15
 chapter: '63'
 heading: TECHNOLOGY INNOVATION
-section_count: 33
+section_count: 35
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -37,6 +37,9 @@ The Congress finds and declares that:
 
 #### Amendments
 1986—Par. (10). Pub. L. 99–502 inserted “, which include inventions, computer software, and training technologies,”.
+
+#### Short Title of 2017 Amendment
+Pub. L. 114–329, title IV, § 401(a), Jan. 6, 2017, 130 Stat. 3016, provided that: “This section [enacting [section 3724 of this title](./chapter-063-technology-innovation.md#section-3724) and amending sections 272, 278, and 3719 of this title] may be cited as the ‘Science Prize Competition Act’.”
 
 #### Short Title of 2000 Amendment
 Pub. L. 106–404, § 1, Nov. 1, 2000, 114 Stat. 1742, provided that: “This Act [enacting [section 7261c of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7261c&num=0&edition=prelim), The Public Health and Welfare, amending sections 3703, 3704, 3707, 3710, 3710a, 3710c, 3714, and 3715 of this title and sections 200, 202, 207, and 209 of Title 35, Patents, and enacting provisions set out as notes under this section and [section 3710a of this title](./chapter-063-technology-innovation.md#section-3710a)] may be cited as the ‘Technology Transfer Commercialization Act of 2000’.”
@@ -364,6 +367,8 @@ Pars. (7) to (12). Pub. L. 99–502, § 9(b)(2)(D), (d), redesignated pars. (7) 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (c)(8)(D), (G), (H). Pub. L. 114–95 made technical amendments to references in original act which appear in text as references to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
 2008—Subsec. (c). Pub. L. 110–315 added subsec. (c).
 
 2007—Pub. L. 110–69, § 3002(a)(5), substituted “Experimental program to stimulate competitive technology” for “Commerce and technological innovation” in section catchline.
@@ -420,6 +425,9 @@ Subsec. (e). Pub. L. 99–502, § 9(e)(2)(A), which directed the insertion of �
 
 Pub. L. 99–382, § 2(1), redesignated subsec. (d) as (e).
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 #### Construction
 Pub. L. 110–69, title III, § 3002(b), Aug. 9, 2007, 121 Stat. 586, provided that: “The amendments made by subsection (a) [amending this section] shall not be construed to eliminate the National Institute of Standards and Technology or the National Technical Information Service.”
 
@@ -452,7 +460,7 @@ Pub. L. 100–519, title II, § 201(f), as added by Pub. L. 100–685, title II,
 
 (8) make use of, and disseminate, the nationwide study of State industrial extension programs conducted by the Secretary.
 
-**(c) Contracts** In carrying out subsection (b) of this section, the Secretary may enter into contracts for the purpose of collecting information on the nature, extent, and effects of initiatives.
+**(c) Contracts** In carrying out subsection (b), the Secretary may enter into contracts for the purpose of collecting information on the nature, extent, and effects of initiatives.
 
 ### Statutory Notes
 
@@ -468,7 +476,7 @@ Subsec. (d) of this section, which required the Secretary to prepare and transmi
 
   (A) Enter into such contracts, cooperative agreements, joint ventures, and other transactions, in accordance with all relevant provisions of Federal law applicable to such contracts and agreements, and under reasonable terms and conditions, as may be necessary in the conduct of the business of the National Technical Information Service (hereafter in this section referred to as the “Service”).
 
-  (B) In addition to the authority regarding fees contained in section 2 of the Act entitled “An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes” enacted September 9, 1950 ([15 U.S.C. 1152](./chapter-023-dissemination-of-technical-scientific-and-engineering-information.md#section-1152)), retain and, subject to appropriations Acts, utilize its net revenues to the extent necessary to implement the plan submitted under subsection (f)(3)(D) of this section.
+  (B) In addition to the authority regarding fees contained in section 2 of the Act entitled “An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes” enacted September 9, 1950 ([15 U.S.C. 1152](./chapter-023-dissemination-of-technical-scientific-and-engineering-information.md#section-1152)), retain and, subject to appropriations Acts, utilize its net revenues to the extent necessary to implement the plan submitted under subsection (f)(3)(D).
 
   (C) Enter into contracts for the performance of part or all of the functions performed by the Promotion Division of the Service prior to October 24, 1988. The details of any such contract, and a statement of its effect on the operations and personnel of the Service, shall be provided to the appropriate committees of the Congress 30 days in advance of the execution of such contract.
 
@@ -477,7 +485,7 @@ Subsec. (d) of this section, which required the Secretary to prepare and transmi
   (E) For the period of October 1, 1991 through September 30, 1992, only, retain and use all earned and unearned monies heretofore or hereafter received, including receipts, revenues, and advanced payments and deposits, to fund all obligations and expenses, including inventories and capital equipment.
   An increase or decrease in the personnel of the Service shall not affect or be affected by any ceilings on the number or grade of personnel.
 
-(2) The functions and activities of the Service specified in subsection (e)(1) through (6) of this section are permanent Federal functions to be carried out by the Secretary through the Service and its employees, and shall not be transferred from the Service, by contract or otherwise, to the private sector on a permanent or temporary basis without express approval of the Congress. Functions or activities—
+(2) The functions and activities of the Service specified in subsection (e)(1) through (6) are permanent Federal functions to be carried out by the Secretary through the Service and its employees, and shall not be transferred from the Service, by contract or otherwise, to the private sector on a permanent or temporary basis without express approval of the Congress. Functions or activities—
 
   (A) for the procurement of supplies, materials, and equipment by the Service;
 
@@ -534,7 +542,7 @@ Subsec. (d) of this section, which required the Secretary to prepare and transmi
 
   (D) describe the long-term modernization plans of the Service; and
 
-  (E) include the results of the most recent annual audit carried out under subsection (d) of this section.
+  (E) include the results of the most recent annual audit carried out under subsection (d).
 
 (4) The Secretary shall also give the Congress detailed advance notice of not less than 30 calendar days of—
 
@@ -592,7 +600,7 @@ Section was enacted as part of the American Technology Preeminence Act of 1991, 
 
 **(b) Annual report to Congress** As part of the annual report required under [section 3704b(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3704b/f/3&num=0&edition=prelim), the Secretary shall report to Congress on the status of efforts under this section to ensure access to Federal scientific and technical information by the public. Such report shall include—
 
-(1) an evaluation of the comprehensiveness of transfers of information by each Federal executive department or agency under subsection (a) of this section;
+(1) an evaluation of the comprehensiveness of transfers of information by each Federal executive department or agency under subsection (a);
 
 (2) a description of the use of Federal scientific and technical information;
 
@@ -649,7 +657,7 @@ Each Center need not undertake all of the activities under this subsection.
 
 (5) consideration has been given to any effects upon competition of the activities proposed under the Center.
 
-**(d) Planning grants** The Secretary is authorized to make available nonrenewable planning grants to universities or nonprofit institutions for the purpose of developing a plan required under subsection (c)(3) of this section.
+**(d) Planning grants** The Secretary is authorized to make available nonrenewable planning grants to universities or nonprofit institutions for the purpose of developing a plan required under subsection (c)(3).
 
 **(e) Research and development utilization** In the promotion of technology from research and development efforts by Centers under this section, chapter 18 of title 35 shall apply to the extent not inconsistent with this section.
 
@@ -673,7 +681,7 @@ Pub. L. 101–510, div. A, title VIII, § 827(b), Nov. 5, 1990, 104 Stat. 1607, 
 
 <a id="section-3706"></a>
 ## § 3706. Grants and cooperative agreements
-**(a) In general** The Secretary may make grants and enter into cooperative agreements according to the provisions of this section in order to assist any activity consistent with this chapter, including activities performed by individuals. The total amount of any such grant or cooperative agreement may not exceed 75 percent of the total cost of the program.
+**(a) In general** The Secretary may make grants and enter into cooperative agreements according to the provisions of this section in order to assist any activity consistent with this chapter, including activities performed by individuals.
 
 **(b) Eligibility and procedure** Any person or institution may apply to the Secretary for a grant or cooperative agreement available under this section. Application shall be made in such form and manner, and with such content and other submissions, as the Assistant Secretary shall prescribe. The Secretary shall act upon each such application within 90 days after the date on which all required information is received.
 
@@ -689,6 +697,8 @@ Pub. L. 101–510, div. A, title VIII, § 827(b), Nov. 5, 1990, 104 Stat. 1607, 
 A prior section 8 of Pub. L. 96–480 was renumbered section 9 and is classified to [section 3707 of this title](./chapter-063-technology-innovation.md#section-3707).
 
 #### Amendments
+2017—Subsec. (a). Pub. L. 114–329 struck out at end “The total amount of any such grant or cooperative agreement may not exceed 75 percent of the total cost of the program.”
+
 1988—Subsec. (b). Pub. L. 100–418, § 5115(b)(1), substituted “Assistant Secretary” for “Director”.
 
 
@@ -722,7 +732,7 @@ A prior section 9 of Pub. L. 96–480 was renumbered section 10 and is classifie
 
 **(c) Administrative authorization**
 
-(1) Departments and agencies described in subsection (b) of this section are authorized to participate in, contribute to, and serve as resources for the Centers and for any other activities authorized under this chapter.
+(1) Departments and agencies described in subsection (b) are authorized to participate in, contribute to, and serve as resources for the Centers and for any other activities authorized under this chapter.
 
 (2) The Secretary and the National Science Foundation are authorized to receive moneys and to receive other forms of assistance from other departments or agencies to support activities of the Centers and any other activities authorized under this chapter.
 
@@ -786,7 +796,7 @@ Agencies which have established organizational structures outside their Federal 
 
 (3) receive requests for technical assistance from State and local governments, respond to such requests with published information available to the Service, and refer such requests to the Federal Laboratory Consortium for Technology Transfer to the extent that such requests require a response involving more than the published information available to the Service;
 
-(4) provide funding, at the discretion of the Secretary, for Federal laboratories to provide the assistance specified in subsection (c)(3) of this section;
+(4) provide funding, at the discretion of the Secretary, for Federal laboratories to provide the assistance specified in subsection (c)(3);
 
 (5) use appropriate technology transfer mechanisms such as personnel exchanges and computer-based systems; and
 
@@ -822,7 +832,7 @@ Agencies which have established organizational structures outside their Federal 
 
   (K) work with the Director of the National Institute on Disability and Rehabilitation Research to compile a compendium of current and projected Federal Laboratory technologies and projects that have or will have an intended or recognized impact on the available range of assistive technology for individuals with disabilities (as defined in [section 3002 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3002&num=0&edition=prelim)), including technologies and projects that incorporate the principles of universal design (as defined in [section 3002 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3002&num=0&edition=prelim)), as appropriate.
 
-(2) The membership of the Consortium shall consist of the Federal laboratories described in clause (1) of subsection (b) of this section and such other laboratories as may choose to join the Consortium. The representatives to the Consortium shall include a senior staff member of each Federal laboratory which is a member of the Consortium and a senior representative appointed from each Federal agency with one or more member laboratories.
+(2) The membership of the Consortium shall consist of the Federal laboratories described in clause (1) of subsection (b) and such other laboratories as may choose to join the Consortium. The representatives to the Consortium shall include a senior staff member of each Federal laboratory which is a member of the Consortium and a senior representative appointed from each Federal agency with one or more member laboratories.
 
 (3) The representatives to the Consortium shall elect a Chairman of the Consortium.
 
@@ -864,7 +874,7 @@ Agencies which have established organizational structures outside their Federal 
 
     (vii) any other parameters or discussion that the agency deems relevant or unique to its practice of technology transfer.
 
-(3) **Copy to Secretary; Attorney General; Congress** — The agency shall transmit a copy of the report to the Secretary of Commerce and the Attorney General for inclusion in the annual report to Congress and the President required by subsection (g)(2) of this section.
+(3) **Copy to Secretary; Attorney General; Congress** — The agency shall transmit a copy of the report to the Secretary of Commerce and the Attorney General for inclusion in the annual report to Congress and the President required by subsection (g)(2).
 
 (4) **Public availability** — Each Federal agency reporting under this subsection is also strongly encouraged to make the information contained in such report available to the public through Internet sites or other electronic means.
 
@@ -884,7 +894,7 @@ Agencies which have established organizational structures outside their Federal 
 
   (B) *Content.—* — The report shall—
 
-    (i) draw upon the reports prepared by the agencies under subsection (f) of this section;
+    (i) draw upon the reports prepared by the agencies under subsection (f);
 
     (ii) discuss technology transfer best practices and effective approaches in the licensing and transfer of technology in the context of the agencies’ missions; and
 
@@ -1087,7 +1097,7 @@ Ronald Reagan.
 
 **(b) Enumerated authority**
 
-(1) Under an agreement entered into pursuant to subsection (a)(1) of this section, the laboratory may grant, or agree to grant in advance, to a collaborating party patent licenses or assignments, or options thereto, in any invention made in whole or in part by a laboratory employee under the agreement, or, subject to [section 209 of title 35](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section209&num=0&edition=prelim), may grant a license to an invention which is federally owned, for which a patent application was filed before the signing of the agreement, and directly within the scope of the work under the agreement, for reasonable compensation when appropriate. The laboratory shall ensure, through such agreement, that the collaborating party has the option to choose an exclusive license for a pre-negotiated field of use for any such invention under the agreement or, if there is more than one collaborating party, that the collaborating parties are offered the option to hold licensing rights that collectively encompass the rights that would be held under such an exclusive license by one party. In consideration for the Government’s contribution under the agreement, grants under this paragraph shall be subject to the following explicit conditions:
+(1) Under an agreement entered into pursuant to subsection (a)(1), the laboratory may grant, or agree to grant in advance, to a collaborating party patent licenses or assignments, or options thereto, in any invention made in whole or in part by a laboratory employee under the agreement, or, subject to [section 209 of title 35](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section209&num=0&edition=prelim), may grant a license to an invention which is federally owned, for which a patent application was filed before the signing of the agreement, and directly within the scope of the work under the agreement, for reasonable compensation when appropriate. The laboratory shall ensure, through such agreement, that the collaborating party has the option to choose an exclusive license for a pre-negotiated field of use for any such invention under the agreement or, if there is more than one collaborating party, that the collaborating parties are offered the option to hold licensing rights that collectively encompass the rights that would be held under such an exclusive license by one party. In consideration for the Government’s contribution under the agreement, grants under this paragraph shall be subject to the following explicit conditions:
 
   (A) A nonexclusive, nontransferable, irrevocable, paid-up license from the collaborating party to the laboratory to practice the invention or have the invention practiced throughout the world by or on behalf of the Government. In the exercise of such license, the Government shall not publicly disclose trade secrets or commercial or financial information that is privileged or confidential within the meaning of [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim) or which would be considered as such if it had been obtained from a non-Federal party.
 
@@ -1103,12 +1113,12 @@ Ronald Reagan.
 
     (ii) the action is necessary to meet requirements for public use specified by Federal regulations, and such requirements are not reasonably satisfied by the collaborating party; or
 
-    (iii) the collaborating party has failed to comply with an agreement containing provisions described in subsection (c)(4)(B) of this section.
+    (iii) the collaborating party has failed to comply with an agreement containing provisions described in subsection (c)(4)(B).
     This determination is subject to administrative appeal and judicial review under section 203(2) 11 See References in Text note below. of title 35.
 
-(2) Under agreements entered into pursuant to subsection (a)(1) of this section, the laboratory shall ensure that a collaborating party may retain title to any invention made solely by its employee in exchange for normally granting the Government a nonexclusive, nontransferable, irrevocable, paid-up license to practice the invention or have the invention practiced throughout the world by or on behalf of the Government for research or other Government purposes.
+(2) Under agreements entered into pursuant to subsection (a)(1), the laboratory shall ensure that a collaborating party may retain title to any invention made solely by its employee in exchange for normally granting the Government a nonexclusive, nontransferable, irrevocable, paid-up license to practice the invention or have the invention practiced throughout the world by or on behalf of the Government for research or other Government purposes.
 
-(3) Under an agreement entered into pursuant to subsection (a)(1) of this section, a laboratory may—
+(3) Under an agreement entered into pursuant to subsection (a)(1), a laboratory may—
 
   (A) accept, retain, and use funds, personnel, services, and property from a collaborating party and provide personnel, services, and property to a collaborating party;
 
@@ -1118,9 +1128,9 @@ Ronald Reagan.
 
   (D) waive, subject to reservation by the Government of a nonexclusive, irrevocable, paid-up license to practice the invention or have the invention practiced throughout the world by or on behalf of the Government, in advance, in whole or in part, any right of ownership which the Federal Government may have to any subject invention made under the agreement by a collaborating party or employee of a collaborating party.
 
-(4) A collaborating party in an exclusive license in any invention made under an agreement entered into pursuant to subsection (a)(1) of this section shall have the right of enforcement under chapter 29 of title 35.
+(4) A collaborating party in an exclusive license in any invention made under an agreement entered into pursuant to subsection (a)(1) shall have the right of enforcement under chapter 29 of title 35.
 
-(5) A Government-owned, contractor-operated laboratory that enters into a cooperative research and development agreement pursuant to subsection (a)(1) of this section may use or obligate royalties or other income accruing to the laboratory under such agreement with respect to any invention only—
+(5) A Government-owned, contractor-operated laboratory that enters into a cooperative research and development agreement pursuant to subsection (a)(1) may use or obligate royalties or other income accruing to the laboratory under such agreement with respect to any invention only—
 
   (A) for payments to inventors;
 
@@ -1144,7 +1154,7 @@ Ronald Reagan.
 
 (3)
 
-  (A) Any agency using the authority given it under subsection (a) of this section shall review standards of conduct for its employees for resolving potential conflicts of interest to make sure they adequately establish guidelines for situations likely to arise through the use of this authority, including but not limited to cases where present or former employees or their partners negotiate licenses or assignments of titles to inventions or negotiate cooperative research and development agreements with Federal agencies (including the agency with which the employee involved is or was formerly employed).
+  (A) Any agency using the authority given it under subsection (a) shall review standards of conduct for its employees for resolving potential conflicts of interest to make sure they adequately establish guidelines for situations likely to arise through the use of this authority, including but not limited to cases where present or former employees or their partners negotiate licenses or assignments of titles to inventions or negotiate cooperative research and development agreements with Federal agencies (including the agency with which the employee involved is or was formerly employed).
 
   (B) If, in implementing subparagraph (A), an agency is unable to resolve potential conflicts of interest within its current statutory framework, it shall propose necessary statutory changes to be forwarded to its authorizing committees in Congress.
 
@@ -1505,7 +1515,7 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 <a id="section-3711c"></a>
 ## § 3711c. Advanced motor vehicle research award
-**(a) Establishment** There is established a National Award for the Advancement of Motor Vehicle Research and Development. The award shall consist of a medal, and a cash prize if funding is available for the prize under subsection (c) of this section. The medal shall be of such design and materials and bear inscriptions as is determined by the Secretary of Transportation.
+**(a) Establishment** There is established a National Award for the Advancement of Motor Vehicle Research and Development. The award shall consist of a medal, and a cash prize if funding is available for the prize under subsection (c). The medal shall be of such design and materials and bear inscriptions as is determined by the Secretary of Transportation.
 
 **(b) Making and presenting award** The Secretary of Transportation shall periodically make and present the award to domestic motor vehicle manufacturers, suppliers, or Federal laboratory personnel who, in the opinion of the Secretary of Transportation, have substantially improved domestic motor vehicle research and development in safety, energy savings, or environmental impact. No person may receive the award more than once every 5 years.
 
@@ -1533,7 +1543,7 @@ The Secretary, the Secretary of Energy, and the Director of the National Science
 
 **(b)** In addition to the authorization of appropriations provided under subsection (a) of this section, there is authorized to be appropriated to the Secretary for the purposes of carrying out [section 3704a of this title](./chapter-063-technology-innovation.md#section-3704a) not to exceed $500,000 for the fiscal year ending September 30, 1988, $1,000,000 for the fiscal year ending September 30, 1989, and $1,500,000 for the fiscal year ending September 30, 1990.
 
-**(c)** Such sums as may be appropriated under subsections (a) and (b) of this section shall remain available until expended.
+**(c)** Such sums as may be appropriated under subsections (a) and (b) shall remain available until expended.
 
 **(d)** To enable the National Science Foundation to carry out its powers and duties under this chapter only such sums may be appropriated as the Congress may authorize by law.
 
@@ -1603,7 +1613,7 @@ Pub. L. 103–337, div. A, title II, § 217(f), Oct. 5, 1994, 108 Stat. 2695, as
 
 (2) list the major research and development initiatives being undertaken, and the substantial investments being made, by the Federal Government, including its research laboratories, in each of the critical industries identified under paragraph (1).
 
-**(b) Initial report** The Secretary shall submit a report to the Congress within 1 year after February 14, 1992, on the actions taken under subsection (a) of this section.
+**(b) Initial report** The Secretary shall submit a report to the Congress within 1 year after February 14, 1992, on the actions taken under subsection (a).
 
 ### Statutory Notes
 
@@ -1651,7 +1661,7 @@ Section was enacted as part of the American Technology Preeminence Act of 1991, 
 
 (12) one representative from the Foundation for the Malcolm Baldrige National Quality Award.
 
-**(c) Terms** The term of office of each member of the Council appointed under paragraphs (1) through (7) of subsection (b) of this section shall be 2 years, except that when making the initial appointments under such paragraphs; the Secretary shall appoint not more than 50 percent of the members to 1 year terms. No member appointed under such paragraphs shall serve on the Council for more than 2 consecutive terms.
+**(c) Terms** The term of office of each member of the Council appointed under paragraphs (1) through (7) of subsection (b) shall be 2 years, except that when making the initial appointments under such paragraphs; the Secretary shall appoint not more than 50 percent of the members to 1 year terms. No member appointed under such paragraphs shall serve on the Council for more than 2 consecutive terms.
 
 **(d) Chairman and Vice Chairman** The Secretary shall designate one of the members initially appointed to the Council as Chairman. Thereafter, the members of the Council shall annually elect one of their number as Chairman. The members of the Council shall also annually elect one of their members as Vice Chairman. No individual shall serve as Chairman or Vice Chairman for more than 2 consecutive years.
 
@@ -1818,35 +1828,35 @@ George W. Bush.
 
 **(b) In general** Each head of an agency, or the heads of multiple agencies in cooperation, may carry out a program to award prizes competitively to stimulate innovation that has the potential to advance the mission of the respective agency.
 
-**(c) Prizes** For purposes of this section, a prize may be one or more of the following:
+**(c) Prize competitions** For purposes of this section, a prize competition may be 1 or more of the following types of activities:
 
 (1) A point solution prize that rewards and spurs the development of solutions for a particular, well-defined problem.
 
-(2) An exposition prize that helps identify and promote a broad range of ideas and practices that may not otherwise attract attention, facilitating further development of the idea or practice by third parties.
+(2) An exposition prize competition that helps identify and promote a broad range of ideas and practices that may not otherwise attract attention, facilitating further development of the idea or practice by third parties.
 
-(3) Participation prizes that create value during and after the competition by encouraging contestants to change their behavior or develop new skills that may have beneficial effects during and after the competition.
+(3) Participation prize competitions that create value during and after the competition by encouraging contestants to change their behavior or develop new skills that may have beneficial effects during and after the competition.
 
-(4) Such other types of prizes as each head of an agency considers appropriate to stimulate innovation that has the potential to advance the mission of the respective agency.
+(4) Such other types of prize competitions as each head of an agency considers appropriate to stimulate innovation that has the potential to advance the mission of the respective agency.
 
 **(d) Topics** In selecting topics for prize competitions, the head of an agency shall consult widely both within and outside the Federal Government, and may empanel advisory committees.
 
 **(e) Advertising** The head of an agency shall widely advertise each prize competition to encourage broad participation.
 
-**(f) Requirements and registration** For each prize competition, the head of an agency shall publish a notice in the Federal Register announcing—
+**(f) Requirements and registration** For each prize competition, the head of an agency shall publish a notice on a publicly accessible Government website, such as www.challenge.gov, announcing—
 
-(1) the subject of the competition;
+(1) the subject of the prize competition;
 
-(2) the rules for being eligible to participate in the competition;
+(2) the rules for being eligible to participate in the prize competition;
 
-(3) the process for participants to register for the competition;
+(3) the process for participants to register for the prize competition;
 
-(4) the amount of the prize; and
+(4) the amount of the cash prize purse or non-cash prize award; and
 
 (5) the basis on which a winner will be selected.
 
-**(g) Eligibility** To be eligible to win a prize under this section, an individual or entity—
+**(g) Eligibility** To be eligible to win a cash prize purse under this section, an individual or entity—
 
-(1) shall have registered to participate in the competition under any rules promulgated by the head of an agency under subsection (f);
+(1) shall have registered to participate in the prize competition under any rules promulgated by the head of an agency under subsection (f);
 
 (2) shall have complied with all the requirements under this section;
 
@@ -1854,7 +1864,7 @@ George W. Bush.
 
 (4) may not be a Federal entity or Federal employee acting within the scope of their employment.
 
-**(h) Consultation with Federal employees** An individual or entity shall not be deemed ineligible under subsection (g) because the individual or entity used Federal facilities or consulted with Federal employees during a competition if the facilities and employees are made available to all individuals and entities participating in the competition on an equitable basis.
+**(h) Consultation with Federal employees** An individual or entity shall not be deemed ineligible under subsection (g) because the individual or entity used Federal facilities or consulted with Federal employees during a prize competition if the facilities and employees are made available to all individuals and entities participating in the prize competition on an equitable basis.
 
 **(i) Liability**
 
@@ -1862,79 +1872,85 @@ George W. Bush.
 
   (A) *Definition* — In this paragraph, the term “related entity” means a contractor or subcontractor at any tier, and a supplier, user, customer, cooperating party, grantee, investigator, or detailee.
 
-  (B) *Liability* — Registered participants shall be required to agree to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in a competition, whether the injury, death, damage, or loss arises through negligence or otherwise.
+  (B) *Liability* — Registered participants shall be required to agree to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in a prize competition, whether the injury, death, damage, or loss arises through negligence or otherwise.
 
 (2) **Insurance** — Participants shall be required to obtain liability insurance or demonstrate financial responsibility, in amounts determined by the head of an agency, for claims by—
 
-  (A) a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a competition, with the Federal Government named as an additional insured under the registered participant’s insurance policy and registered participants agreeing to indemnify the Federal Government against third party claims for damages arising from or related to competition activities; and
+  (A) a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a prize competition, with the Federal Government named as an additional insured under the registered participant’s insurance policy and registered participants agreeing to indemnify the Federal Government against third party claims for damages arising from or related to prize competition activities; and
 
   (B) the Federal Government for damage or loss to Government property resulting from such an activity.
 
-(3) **Exception** — The head of an agency may not require a participant to waive claims against the administering entity arising out of the unauthorized use or disclosure by the agency of the intellectual property, trade secrets, or confidential business information of the participant.
+(3) **Waivers**
+
+  (A) *In general* — An agency may waive the requirement under paragraph (2).
+
+  (B) *List* — The Director shall include a list of all of the waivers granted under this paragraph during the preceding fiscal year, including a detailed explanation of the reason for granting the waiver.
+
+(4) **Exception** — The head of an agency may not require a participant to waive claims against the administering entity arising out of the unauthorized use or disclosure by the agency of the intellectual property, trade secrets, or confidential business information of the participant.
 
 **(j) Intellectual property**
 
-(1) **Prohibition on the government acquiring intellectual property rights** — The Federal Government may not gain an interest in intellectual property developed by a participant in a competition without the written consent of the participant.
+(1) **Prohibition on the government acquiring intellectual property rights** — The Federal Government may not gain an interest in intellectual property developed by a participant in a prize competition without the written consent of the participant.
 
-(2) **Licenses** — The Federal Government may negotiate a license for the use of intellectual property developed by a participant for a competition.
+(2) **Licenses** — As appropriate and to further the goals of a prize competition, the Federal Government may negotiate a license for the use of intellectual property developed by a registered participant in a prize competition.
 
 **(k) Judges**
 
-(1) **In general** — For each competition, the head of an agency, either directly or through an agreement under subsection (l), shall appoint one or more qualified judges to select the winner or winners of the prize competition on the basis described under subsection (f). Judges for each competition may include individuals from outside the agency, including from the private sector.
+(1) **In general** — For each prize competition, the head of an agency, either directly or through an agreement under subsection (l), shall appoint one or more qualified judges to select the winner or winners of the prize competition on the basis described under subsection (f). Judges for each prize competition may include individuals from outside the agency, including from the private sector.
 
 (2) **Restrictions** — A judge may not—
 
-  (A) have personal or financial interests in, or be an employee, officer, director, or agent of any entity that is a registered participant in a competition; or
+  (A) have personal or financial interests in, or be an employee, officer, director, or agent of any entity that is a registered participant in a prize competition; or
 
   (B) have a familial or financial relationship with an individual who is a registered participant.
 
-(3) **Guidelines** — The heads of agencies who carry out competitions under this section shall develop guidelines to ensure that the judges appointed for such competitions are fairly balanced and operate in a transparent manner.
+(3) **Guidelines** — The heads of agencies who carry out prize competitions under this section shall develop guidelines to ensure that the judges appointed for such prize competitions are fairly balanced and operate in a transparent manner.
 
 (4) **Exemption from FACA** — The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any committee, board, commission, panel, task force, or similar entity, created solely for the purpose of judging prize competitions under this section.
 
-**(l) Administering the competition** The head of an agency may enter into an agreement with a private, nonprofit entity to administer a prize competition, subject to the provisions of this section.
+**(l) Administering the competition** The head of an agency may enter into a grant, contract, cooperative agreement, or other agreement with a private sector for-profit or nonprofit entity or State or local government agency to administer the prize competition, subject to the provisions of this section.
 
 **(m) Funding**
 
-(1) **In general** — Support for a prize competition under this section, including financial support for the design and administration of a prize or funds for a monetary prize purse, may consist of Federal appropriated funds and funds provided by the private sector for such cash prizes. The head of an agency may accept funds from other Federal agencies to support such competitions. The head of an agency may not give any special consideration to any private sector entity in return for a donation.
+(1) **In general** — Support for a prize competition under this section, including financial support for the design and administration of a prize competition or funds for a cash prize purse, may consist of Federal appropriated funds and funds provided by private sector for-profit and nonprofit entities. The head of an agency may request and accept funds from other Federal agencies, State, United States territory, local, or tribal government agencies, private sector for-profit entities, and nonprofit entities, to be available to the extent provided by appropriations Acts, to support such prize competitions. The head of an agency may not give any special consideration to any agency or entity in return for a donation.
 
-(2) **Availability of funds** — Notwithstanding any other provision of law, funds appropriated for prize awards under this section shall remain available until expended. No provision in this section permits obligation or payment of funds in violation of [section 1341 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1341&num=0&edition=prelim).
+(2) **Availability of funds** — Notwithstanding any other provision of law, funds appropriated for cash prize purses or non-cash prize awards under this section shall remain available until expended. No provision in this section permits obligation or payment of funds in violation of [section 1341 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1341&num=0&edition=prelim).
 
 (3) **Amount of prize**
 
-  (A) *Announcement* — No prize may be announced under subsection (f) until all the funds needed to pay out the announced amount of the prize have been appropriated or committed in writing by a private source.
+  (A) *Announcement* — No prize competition may be announced under subsection (f) until all the funds needed to pay out the announced amount of the cash prize purse have been appropriated or committed in writing by a private or State, United States territory, local, or tribal government source.
 
-  (B) *Increase in amount* — The head of an agency may increase the amount of a prize after an initial announcement is made under subsection (f) only if—
+  (B) *Increase in amount* — The head of an agency may increase the amount of a cash prize purse or non-cash prize award after an initial announcement is made under subsection (f) only if—
 
-    (i) notice of the increase is provided in the same manner as the initial notice of the prize; and
+    (i) notice of the increase is provided in the same manner as the initial notice of the prize competition; and
 
-    (ii) the funds needed to pay out the announced amount of the increase have been appropriated or committed in writing by a private source.
+    (ii) the funds needed to pay out the announced amount of the increase have been appropriated or committed in writing by a private or State, United States territory, local, or tribal government source.
 
 (4) **Limitation on amount**
 
-  (A) *Notice to Congress* — No prize competition under this section may offer a prize in an amount greater than $50,000,000 unless 30 days have elapsed after written notice has been transmitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives.
+  (A) *Notice to Congress* — No prize competition under this section may offer a cash prize purse or a non-cash prize award in an amount greater than $50,000,000 unless 30 days have elapsed after written notice has been transmitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
 
-  (B) *Approval of head of agency* — No prize competition under this section may result in the award of more than $1,000,000 in cash prizes without the approval of the head of an agency.
+  (B) *Approval of head of agency* — No prize competition under this section may result in the award of more than $1,000,000 in cash prize purses or non-cash prize awards without the approval of the head of an agency.
 
-**(n) General Service 11 So in original. Probably should be “Services”. Administration assistance** Not later than 180 days after January 4, 2011, the General Services Administration shall provide government wide services to share best practices and assist agencies in developing guidelines for issuing prize competitions. The General Services Administration shall develop a contract vehicle to provide agencies access to relevant products and services, including technical assistance in structuring and conducting prize competitions to take maximum benefit of the marketplace as they identify and pursue prize competitions to further the policy objectives of the Federal Government.
+**(n) General Services Administration assistance** Not later than 180 days after January 6, 2017, the General Services Administration shall provide government wide services to share best practices and assist agencies in developing guidelines for issuing prize competitions. The General Services Administration shall develop a contract vehicle for both for-profit and nonprofit entities and State, United States territory, local, and tribal government entities, to provide agencies access to relevant products and services, including technical assistance in structuring and conducting prize competitions to take maximum benefit of the marketplace as they identify and pursue prize competitions to further the policy objectives of the Federal Government.
 
 **(o) Compliance with existing law**
 
-(1) **In general** — The Federal Government shall not, by virtue of offering or providing a prize under this section, be responsible for compliance by registered participants in a prize competition with Federal law, including licensing, export control, and nonproliferation laws, and related regulations.
+(1) **In general** — The Federal Government shall not, by virtue of offering a prize competition or providing a cash prize purse or non-cash prize award under this section, be responsible for compliance by registered participants in a prize competition with Federal law, including licensing, export control, and nonproliferation laws, and related regulations.
 
 (2) **Other prize authority** — Nothing in this section affects the prize authority authorized by any other provision of law.
 
-**(p) Annual report**
+**(p) Biennial report**
 
-(1) **In general** — Not later than March 1 of each year, the Director shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives a report on the activities carried out during the preceding fiscal year under the authority in subsection (b).
+(1) **In general** — Not later than March 1 of every other year, the Director shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the activities carried out during the preceding 2 fiscal years under the authority in subsection (b).
 
-(2) **Information included** — The report for a fiscal year under this subsection shall include, for each prize competition under subsection (b), the following:
+(2) **Information included** — A report under this subsection shall include, for each prize competition under subsection (b), the following:
 
   (A) *Proposed goals* — A description of the proposed goals of each prize competition.
 
   (B) *Preferable method* — An analysis of why the utilization of the authority in subsection (b) was the preferable method of achieving the goals described in subparagraph (A) as opposed to other authorities available to the agency, such as contracts, grants, and cooperative agreements.
 
-  (C) *Amount of cash prizes* — The total amount of cash prizes awarded for each prize competition, including a description of amount of private funds contributed to the program, the sources of such funds, and the manner in which the amounts of cash prizes awarded and claimed were allocated among the accounts of the agency for recording as obligations and expenditures.
+  (C) *Amount of cash prize purses or non-cash prize awards* — The total amount of cash prize purses or non-cash prize awards awarded for each prize competition, including a description of amount of private funds contributed to the program, the sources of such funds, and the manner in which the amounts of cash prize purses or non-cash prize awards awarded and claimed were allocated among the accounts of the agency for recording as obligations and expenditures.
 
   (D) *Solicitations and evaluation of submissions* — The methods used for the solicitation and evaluation of submissions under each prize competition, together with an assessment of the effectiveness of such methods and lessons learned for future prize competitions.
 
@@ -1942,13 +1958,79 @@ George W. Bush.
 
   (F) *Results* — A description of how each prize competition advanced the mission of the agency concerned.
 
+  (G) *Plan* — A description of crosscutting topical areas and agency-specific mission needs that may be the strongest opportunities for prize competitions during the upcoming 2 fiscal years.
+
 ### Statutory Notes
 
 #### References in Text
 The Federal Advisory Committee Act, referred to in subsec. (k)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Change of Name
-Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+#### Amendments
+2017—Subsec. (c). Pub. L. 114–329, § 401(b)(1)(A), (B), substituted “Prize competitions” for “Prizes” in heading and “prize competition may be 1 or more of the following types of activities” for “prize may be one or more of the following” in introductory provisions.
+
+Subsec. (c)(2). Pub. L. 114–329, § 401(b)(1)(C), inserted “competition” after “prize”.
+
+Subsec. (c)(3), (4). Pub. L. 114–329, § 401(b)(1)(D), substituted “prize competitions” for “prizes”.
+
+Subsec. (f). Pub. L. 114–329, § 401(b)(2)(A), substituted “on a publicly accessible Government website, such as www.challenge.gov,” for “in the Federal Register” in introductory provisions.
+
+Subsec. (f)(1) to (3). Pub. L. 114–329, § 401(b)(2)(B), inserted “prize” before “competition”.
+
+Subsec. (f)(4). Pub. L. 114–329, § 401(b)(2)(C), substituted “cash prize purse or non-cash prize award” for “prize”.
+
+Subsec. (g). Pub. L. 114–329, § 401(b)(3)(A), substituted “cash prize purse” for “prize” in introductory provisions.
+
+Subsec. (g)(1). Pub. L. 114–329, § 401(b)(3)(B), inserted “prize” before “competition”.
+
+Subsec. (h). Pub. L. 114–329, § 401(b)(4), inserted “prize” before “competition” in two places.
+
+Subsec. (i)(1)(B). Pub. L. 114–329, § 401(b)(5)(A), inserted “prize” before “competition”.
+
+Subsec. (i)(2)(A). Pub. L. 114–329, § 401(b)(5)(B), inserted “prize” before “competition” in two places.
+
+Subsec. (i)(3), (4). Pub. L. 114–329, § 401(b)(5)(C), (D), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (j)(1). Pub. L. 114–329, § 401(b)(6)(A), inserted “prize” before “competition”.
+
+Subsec. (j)(2). Pub. L. 114–329, § 401(b)(6)(B), amended par. (2) generally. Prior to amendment, text read as follows: “The Federal Government may negotiate a license for the use of intellectual property developed by a participant for a competition.”
+
+Subsec. (k)(1). Pub. L. 114–329, § 401(b)(7)(A), substituted “each prize competition” for “each competition” in two places.
+
+Subsec. (k)(2)(A). Pub. L. 114–329, § 401(b)(7)(B), inserted “prize” before “competition”.
+
+Subsec. (k)(3). Pub. L. 114–329, § 401(b)(7)(C), inserted “prize” before “competitions” in two places.
+
+Subsec. (l). Pub. L. 114–329, § 401(b)(8), substituted “a grant, contract, cooperative agreement, or other agreement with a private sector for-profit or nonprofit entity or State or local government agency to administer the prize competition, subject to the provisions of this section.” for “an agreement with a private, nonprofit entity to administer a prize competition, subject to the provisions of this section.”
+
+Subsec. (m)(1). Pub. L. 114–329, § 401(b)(9)(A), amended par. (1) generally. Prior to amendment, text read as follows: “Support for a prize competition under this section, including financial support for the design and administration of a prize or funds for a monetary prize purse, may consist of Federal appropriated funds and funds provided by the private sector for such cash prizes. The head of an agency may accept funds from other Federal agencies to support such competitions. The head of an agency may not give any special consideration to any private sector entity in return for a donation.”
+
+Subsec. (m)(2). Pub. L. 114–329, § 401(b)(9)(B), substituted “cash prize purses or non-cash prize awards” for “prize awards”.
+
+Subsec. (m)(3)(A). Pub. L. 114–329, § 401(b)(9)(C)(i), amended subpar. (A) generally. Prior to amendment, text read as follows: “No prize may be announced under subsection (f) until all the funds needed to pay out the announced amount of the prize have been appropriated or committed in writing by a private source.”
+
+Subsec. (m)(3)(B). Pub. L. 114–329, § 401(b)(9)(C)(ii)(I), substituted “a prize” for “a cash prize purse or non-cash prize award” in introductory provisions.
+
+Subsec. (m)(3)(B)(i). Pub. L. 114–329, § 401(b)(9)(C)(ii)(II), inserted “competition” after “prize”.
+
+Subsec. (m)(3)(B)(ii). Pub. L. 114–329, § 401(b)(9)(C)(ii)(III), inserted “or State, United States territory, local, or tribal government” after “private”.
+
+Subsec. (m)(4)(A). Pub. L. 114–329, § 401(b)(9)(D)(i), substituted “a cash prize purse or a non-cash prize award” for “a prize” and “Science, Space, and Technology” for “Science and Technology”.
+
+Subsec. (m)(4)(B). Pub. L. 114–329, § 401(b)(9)(D)(ii), substituted “cash prize purses or non-cash prize awards” for “cash prizes”.
+
+Subsec. (n). Pub. L. 114–329, § 401(b)(10), in heading, substituted “Services” for “Service” and, in text, substituted “January 6, 2017,” for “January 4, 2011,” and inserted “for both for-profit and nonprofit entities and State, United States territory, local, and tribal government entities,” after “contract vehicle”.
+
+Subsec. (o)(1). Pub. L. 114–329, § 401(b)(11), substituted “a prize competition or providing a cash prize purse or non-cash prize award” for “or providing a prize”.
+
+Subsec. (p). Pub. L. 114–329, § 401(b)(12)(A), substituted “Biennial” for “Annual” in heading.
+
+Subsec. (p)(1). Pub. L. 114–329, § 401(b)(12)(B), substituted “every other year” for “each year”, “Science, Space, and Technology” for “Science and Technology”, and “2 fiscal years” for “fiscal year”.
+
+Subsec. (p)(2). Pub. L. 114–329, § 401(b)(12)(C)(i), substituted “A report” for “The report for a fiscal year” in introductory provisions.
+
+Subsec. (p)(2)(C). Pub. L. 114–329, § 401(b)(12)(C)(ii), substituted “cash prize purses or non-cash prize awards” for “cash prizes” in heading and in two places in text.
+
+Subsec. (p)(2)(G). Pub. L. 114–329, § 401(b)(12)(C)(iii), added subpar. (G).
 
 
 <a id="section-3720"></a>
@@ -2253,3 +2335,205 @@ The Revitalize American Manufacturing and Innovation Act of 2014, referred to in
 
 #### Amendments
 2014—Pub. L. 113–235 amended section generally. Prior to amendment, text related to regional innovation program and consisted of subsecs. (a) to (i), including provisions relating to establishment of program, cluster grants, science and research park development grants, loan guarantees for science park infrastructure, regional innovation research and information program, interagency coordination, evaluation of program, definitions, and authorization of appropriations.
+
+
+<a id="section-3723"></a>
+## § 3723. STEM apprenticeship programs
+**(a) In general** The Secretary of Commerce may carry out a grant program to identify the need for skilled science, technology, engineering, and mathematics (referred to in this section as “STEM”) workers and to expand STEM apprenticeship programs.
+
+**(b) Eligible recipient defined** In this section, the term “eligible recipient” means—
+
+(1) a State;
+
+(2) an Indian tribe;
+
+(3) a city or other political subdivision of a State;
+
+(4) an entity that—
+
+  (A) is a nonprofit organization, an institution of higher education, a public-private partnership, a science or research park, a Federal laboratory, or an economic development organization or similar entity; and
+
+  (B) has an application that is supported by a State, a political subdivision of a State, or a native organization; or
+
+(5) a consortium of any of the entities described in paragraphs (1) through (5).
+
+**(c) Needs assessment grants** The Secretary of Commerce may provide a grant to an eligible recipient to conduct a needs assessment to identify—
+
+(1) the unmet need of a region’s employer base for skilled STEM workers;
+
+(2) the potential of STEM apprenticeships to address the unmet need described in paragraph (1); and
+
+(3) any barriers to addressing the unmet need described in paragraph (1).
+
+**(d) Apprenticeship expansion grants** The Secretary of Commerce may provide a grant to an eligible recipient that has conducted a needs assessment as described in subsection (c)(1) to develop infrastructure to expand STEM apprenticeship programs.
+
+### Statutory Notes
+
+#### Developing STEM Apprenticeships
+Pub. L. 114–329, title III, § 312(a)–(d), Jan. 6, 2017, 130 Stat. 3013, 3014, provided that: “(a) Findings.—Congress makes the following findings:“(1) The lack of data on the return on investment for United States employers using registered apprenticeships makes it difficult—“(A) to communicate the value of these programs to businesses; and “(B) to expand registered apprenticeships. “(2) The lack of data on the value and impact of employer-provided worker training, which is likely substantial, hinders the ability of the Federal Government to formulate policy related to workforce training. “(3) The Secretary of Commerce has initiated—“(A) the first study on the return on investment for United States employers using registered apprenticeships through case studies of firms in various sectors, occupations, and geographic locations to provide the business community with data on employer benefits and costs; and “(B) discussions with officials at relevant Federal agencies about the need to collect comprehensive data on—“(i) employer-provided worker training; and “(ii) existing tools that could be used to collect such data. “(b) Development of Apprenticeship Information.—The Secretary of Commerce shall continue to research the value to businesses of utilizing apprenticeship programs, including—“(1) evidence of return on investment of apprenticeships, including estimates for the average time it takes a business to recover the costs associated with training apprentices; and “(2) data from the United States Census Bureau and other statistical surveys on employer-provided training, including apprenticeships and other on-the-job training and industry-recognized certification programs. “(c) Dissemination of Apprenticeship Information.—The Secretary of Commerce shall disseminate findings from research on apprenticeships to businesses and other relevant stakeholders, including—“(1) institutions of higher education; “(2) State and local chambers of commerce; and “(3) workforce training organizations. “(d) New Apprenticeship Program Study.—The Secretary of Commerce may collaborate with the Secretary of Labor to study approaches for reducing the cost of creating new apprenticeship programs and hosting apprentices for businesses, particularly small businesses, including—“(1) training sharing agreements; “(2) group training models; and “(3) pooling resources and best practices.”
+
+[For definitions of “STEM” and “institution of higher learning” as used in section 312(a)–(d) of Pub. L. 114–329, set out above, see section 2 of Pub. L. 114–329, set out as a note under [section 1862s of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1862s&num=0&edition=prelim), The Public Health and Welfare.]
+
+
+<a id="section-3724"></a>
+## § 3724. Crowdsourcing and citizen science
+**(a) Short title** This section may be cited as the “Crowdsourcing and Citizen Science Act”.
+
+**(b) Sense of Congress** It is the sense of Congress that—
+
+(1) the authority granted to Federal agencies under the America COMPETES Reauthorization Act of 2010 (Public Law 111–358; 124 Stat. 3982) to pursue the use of incentive prizes and challenges has yielded numerous benefits;
+
+(2) crowdsourcing and citizen science projects have a number of additional unique benefits, including accelerating scientific research, increasing cost effectiveness to maximize the return on taxpayer dollars, addressing societal needs, providing hands-on learning in STEM, and connecting members of the public directly to Federal science agency missions and to each other; and
+
+(3) granting Federal science agencies the direct, explicit authority to use crowdsourcing and citizen science will encourage its appropriate use to advance Federal science agency missions and stimulate and facilitate broader public participation in the innovation process, yielding numerous benefits to the Federal Government and citizens who participate in such projects.
+
+**(c) Definitions** In this section:
+
+(1) **Citizen science** — The term “citizen science” means a form of open collaboration in which individuals or organizations participate voluntarily in the scientific process in various ways, including—
+
+  (A) enabling the formulation of research questions;
+
+  (B) creating and refining project design;
+
+  (C) conducting scientific experiments;
+
+  (D) collecting and analyzing data;
+
+  (E) interpreting the results of data;
+
+  (F) developing technologies and applications;
+
+  (G) making discoveries; and
+
+  (H) solving problems.
+
+(2) **Crowdsourcing** — The term “crowdsourcing” means a method to obtain needed services, ideas, or content by soliciting voluntary contributions from a group of individuals or organizations, especially from an online community.
+
+(3) **Participant** — The term “participant” means any individual or other entity that has volunteered in a crowdsourcing or citizen science project under this section.
+
+**(d) Crowdsourcing and citizen science**
+
+(1) **In general** — The head of each Federal science agency, or the heads of multiple Federal science agencies working cooperatively, may utilize crowdsourcing and citizen science to conduct projects designed to advance the mission of the respective Federal science agency or the joint mission of Federal science agencies, as applicable.
+
+(2) **Voluntary services** — Notwithstanding [section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim), the head of a Federal science agency may accept, subject to regulations issued by the Director of the Office of Personnel Management, in coordination with the Director of the Office of Science and Technology Policy, services from participants under this section if such services—
+
+  (A) are performed voluntarily as a part of a crowdsourcing or citizen science project authorized under paragraph (1);
+
+  (B) are not financially compensated for their time; and
+
+  (C) will not be used to displace any employee of the Federal Government.
+
+(3) **Outreach** — The head of each Federal science agency engaged in a crowdsourcing or citizen science project under this section shall make public and promote such project to encourage broad participation.
+
+(4) **Consent, registration, and terms of use**
+
+  (A) *In general* — Each Federal science agency shall determine the appropriate level of consent, registration, or acknowledgment of the terms of use that are required from participants in crowdsourcing or citizen science projects under this section on a per-project basis.
+
+  (B) *Disclosures* — In seeking consent, conducting registration, or developing terms of use for a project under this subsection, a Federal science agency shall disclose the privacy, intellectual property, data ownership, compensation, service, program, and other terms of use to the participant in a clear and reasonable manner.
+
+  (C) *Mode of consent* — A Federal agency or Federal science agencies, as applicable, may obtain consent electronically or in written form from participants under this section.
+
+(5) **Protections for human subjects** — Any crowdsourcing or citizen science project under this section that involves research involving human subjects shall be subject to part 46 of title 28, Code of Federal Regulations (or any successor regulation).
+
+(6) **Data**
+
+  (A) *In general* — A Federal science agency shall, where appropriate and to the extent practicable, make data collected through a crowdsourcing or citizen science project under this section available to the public, in a machine readable format, unless prohibited by law.
+
+  (B) *Notice* — As part of the consent process, the Federal science agency shall notify all participants—
+
+    (i) of the expected uses of the data compiled through the project;
+
+    (ii) if the Federal science agency will retain ownership of such data;
+
+    (iii) if and how the data and results from the project would be made available for public or third party use; and
+
+    (iv) if participants are authorized to publish such data.
+
+(7) **Technologies and applications** — Federal science agencies shall endeavor to make technologies, applications, code, and derivations of such intellectual property developed through a crowdsourcing or citizen science project under this section available to the public.
+
+(8) **Liability** — Each participant in a crowdsourcing or citizen science project under this section shall agree—
+
+  (A) to assume any and all risks associated with such participation; and
+
+  (B) to waive all claims against the Federal Government and its related entities, except for claims based on willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits (whether direct, indirect, or consequential) arising from participation in the project.
+
+(9) **Research misconduct** — Federal science agencies coordinating crowdsourcing or citizen science projects under this section shall make all practicable efforts to ensure that participants adhere to all relevant Federal research misconduct policies and other applicable ethics policies.
+
+(10) **Multi-sector partnerships** — The head of each Federal science agency engaged in crowdsourcing or citizen science under this section, or the heads of multiple Federal science agencies working cooperatively, may enter into a contract or other agreement to share administrative duties for such projects with—
+
+  (A) a for profit or nonprofit private sector entity, including a private institution of higher education;
+
+  (B) a State, tribal, local, or foreign government agency, including a public institution of higher education; or
+
+  (C) a public-private partnership.
+
+(11) **Funding** — In carrying out crowdsourcing and citizen science projects under this section, the head of a Federal science agency, or the heads of multiple Federal science agencies working cooperatively—
+
+  (A) may use funds appropriated by Congress;
+
+  (B) may publicize projects and solicit and accept funds or in-kind support for such projects, to be available to the extent provided by appropriations Acts, from—
+
+    (i) other Federal agencies;
+
+    (ii) for profit or nonprofit private sector entities, including private institutions of higher education; or
+
+    (iii) State, tribal, local, or foreign government agencies, including public institutions of higher education; and
+
+  (C) may not give any special consideration to any entity described in subparagraph (B) in return for such funds or in-kind support.
+
+(12) **Facilitation**
+
+  (A) *General Services Administration assistance* — The Administrator of the General Services Administration, in coordination with the Director of the Office of Personnel Management and the Director of the Office of Science and Technology Policy, shall, at no cost to Federal science agencies, identify and develop relevant products, training, and services to facilitate the use of crowdsourcing and citizen science projects under this section, including by specifying the appropriate contract vehicles and technology and organizational platforms to enhance the ability of Federal science agencies to carry out the projects under this section.
+
+  (B) *Additional guidance* — The head of each Federal science agency engaged in crowdsourcing or citizen science under this section may—
+
+    (i) consult any guidance provided by the Director of the Office of Science and Technology Policy, including the Federal Crowdsourcing and Citizen Science Toolkit;
+
+    (ii) designate a coordinator for that Federal science agency’s crowdsourcing and citizen science projects; and
+
+    (iii) share best practices with other Federal agencies, including participation of staff in the Federal Community of Practice for Crowdsourcing and Citizen Science.
+
+**(e) Report**
+
+(1) **In general** — Not later than 2 years after January 6, 2017, the Director of the Office of Science and Technology Policy shall include, as a component of an annual report required under section 24(p) of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3719(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3719/p&num=0&edition=prelim)), a report on the projects and activities carried out under this section.
+
+(2) **Information included** — The report required under paragraph (1) shall include—
+
+  (A) a summary of each crowdsourcing and citizen science project conducted by a Federal science agency during the most recently completed 2 fiscal years, including a description of the proposed goals of each crowdsourcing and citizen science project;
+
+  (B) an analysis of why the utilization of a crowdsourcing or citizen science project summarized in subparagraph (A) was the preferable method of achieving the goals described in subparagraph (A) as opposed to other authorities available to the Federal science agency, such as contracts, grants, cooperative agreements, and prize competitions;
+
+  (C) the participation rates, submission levels, number of consents, and any other statistic that might be considered relevant in each crowdsourcing and citizen science project;
+
+  (D) a detailed description of—
+
+    (i) the resources, including personnel and funding, that were used in the execution of each crowdsourcing and citizen science project;
+
+    (ii) the project activities for which such resources were used; and
+
+    (iii) how the obligations and expenditures relating to the project’s execution were allocated among the accounts of the Federal science agency, including a description of the amount and source of all funds, private, public, and in-kind, contributed to each crowdsourcing and citizen science project;
+
+  (E) a summary of the use of crowdsourcing and citizen science by all Federal science agencies, including interagency and multi-sector partnerships;
+
+  (F) a description of how each crowdsourcing and citizen science project advanced the mission of each participating Federal science agency;
+
+  (G) an identification of each crowdsourcing or citizen science project where data collected through such project was not made available to the public, including the reasons for such action; and
+
+  (H) any other information that the Director of the Office of Science and Technology Policy considers relevant.
+
+**(f) Savings provision** Nothing in this section may be construed—
+
+(1) to affect the authority to conduct crowdsourcing and citizen science authorized by any other provision of law; or
+
+(2) to displace Federal Government resources allocated to the Federal science agencies that use crowdsourcing or citizen science authorized under this section to carry out a project.
+
+### Statutory Notes
+
+#### References in Text
+The America COMPETES Reauthorization Act of 2010, referred to in subsec. (b)(1), is Pub. L. 111–358, Jan. 4, 2011, 124 Stat. 3982, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010. For complete classification of this Act to the Code, see Short Title of 2011 Amendment note set out under [section 1861 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1861&num=0&edition=prelim), The Public Health and Welfare, and Tables.
+
+#### Codification
+Section was enacted as part of the American Innovation and Competitiveness Act, and not as part of the Stevenson-Wydler Technology Innovation Act of 1980 which comprises this chapter.
+
+#### Definitions
+For definitions of terms used in this section, see section 2 of Pub. L. 114–329, set out as a note under [section 1862s of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1862s&num=0&edition=prelim), The Public Health and Welfare.

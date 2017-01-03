@@ -469,7 +469,7 @@ Amendment by section 512(b)(1) of Pub. L. 113–128 effective on the first day o
 
       (I) *In general* — The State shall conduct public-awareness activities designed to provide information to targeted individuals and entities relating to the availability, benefits, appropriateness, and costs of assistive technology devices and assistive technology services, including—
 
-        (aa) the development of procedures for providing direct communication between providers of assistive technology and targeted individuals and entities, which may include partnerships with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act, State vocational rehabilitation centers, public and private employers, or elementary and secondary public schools;
+        (aa) the development of procedures for providing direct communication between providers of assistive technology and targeted individuals and entities, which may include partnerships with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act [[29 U.S.C. 3101](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) et seq.], State vocational rehabilitation centers, public and private employers, or elementary and secondary public schools;
 
         (bb) the development and dissemination, to targeted individuals and entities, of information about State efforts related to assistive technology; and
 
@@ -563,11 +563,16 @@ The Americans with Disabilities Act of 1990, referred to in subsecs. (d)(6)(E) a
 The Workforce Innovation and Opportunity Act, referred to in subsec. (e)(3)(B)(ii)(I)(aa), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of this title, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
 #### Amendments
+2015—Subsec. (c)(2)(B)(i)(V). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
 2014—Subsec. (c)(2)(B)(i)(IV). Pub. L. 113–128, § 512(b)(2)(A), substituted “a representative of the State workforce development board established under section 101 of the Workforce Innovation and Opportunity Act” for “a representative of the State workforce investment board established under section 111 of the Workforce Investment Act of 1998 ([29 U.S.C. 2821](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2821&num=0&edition=prelim))”.
 
 Subsec. (e)(2)(D)(i). Pub. L. 113–128, § 512(b)(2)(B)(i), substituted “such as one-stop partners, as defined in section 3 of the Workforce Innovation and Opportunity Act,” for “such as one-stop partners, as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801)),”.
 
 Subsec. (e)(3)(B)(ii)(I)(aa). Pub. L. 113–128, § 512(b)(2)(B)(ii), substituted “with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act,” for “with entities in the statewide and local workforce investment systems established under the Workforce Investment Act of 1998 ([29 U.S.C. 2801](./chapter-030-workforce-investment-systems.md#section-2801) et seq.),”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).

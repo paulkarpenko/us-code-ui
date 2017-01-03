@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-57101"></a>
 ## § 57101. Placement of vessels in National Defense Reserve Fleet
-**(a) In General.—** Any vessel acquired by the Maritime Administration of 1,500 gross tons or more or such other vessels as the Secretary of Transportation determines are appropriate shall be placed in the National Defense Reserve Fleet maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744).
+**(a) In General.—** Any vessel acquired by the Maritime Administration of 1,500 gross tons or more or such other vessels as the Secretary of Transportation determines are appropriate shall be placed in the National Defense Reserve Fleet maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744).11 See References in Text note below.
 
 **(b) Removal From Fleet.—** A vessel placed in the Fleet under subsection (a) may not be traded out or sold from the Fleet, except as provided in section 57102, 57103, or 57104 or chapter 533, 537, 573, or 575 of this title.
 
@@ -24,6 +24,9 @@ source: >-
 In subsection (a), the words “vessel acquired by the Maritime Administration” are subtituted for “vessel heretofore or hereafter acquired under this section, or otherwise acquired by the Maritime Administration of the Department of Transportation under any other authority” to eliminate unnecessary words.
 
 In subsection (b), the words “except as provided in section 57102, 57103, or 57104 or chapter 533, 537, 573, or 575 of this title” are substituted for “except as provided for in subsections (g) and (i) of this section. This limitation shall not affect the rights of the Secretary of Transportation to dispose of a vessel as provided in other sections of this subchapter or in subchapters VII or XI of this chapter” because of the restatement.
+
+#### References in Text
+Section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744), referred to in subsec. (a), is section 11 of act Mar. 8, 1946, ch. 82, 60 Stat. 49, which was classified to section 1744 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as [section 4405 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4405&num=0&edition=prelim).
 
 #### Amendments
 2012—Subsec. (a). Pub. L. 112–213, § 406, inserted “of 1,500 gross tons or more or such other vessels as the Secretary of Transportation determines are appropriate” after “Administration”.

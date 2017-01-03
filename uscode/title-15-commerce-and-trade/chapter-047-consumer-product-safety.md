@@ -187,6 +187,9 @@ Subsec. (b). Pub. L. 110–314, § 235(b)(5), (c)(1), inserted heading and inser
 #### Effective Date of 1981 Amendment
 Pub. L. 97–35, title XII, § 1215, Aug. 13, 1981, 95 Stat. 724, provided that: “(a) Except as provided in subsection (b), the amendments made by this subtitle [see Short Title of 1981 Amendment note set out under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051)] shall take effect on the date of the enactment of this Act [Aug. 13, 1981]. “(b) The amendments made by section 1207 [enacting sections 1204, 1276, and 2083 of this title and amending [section 2076 of this title](./chapter-047-consumer-product-safety.md#section-2076)] shall apply with respect to consumer product safety rules under the Consumer Product Safety Act [this chapter] and regulations under the Federal Hazardous Substances Act [section 1261 et seq. of this title] and the Flammable Fabrics Act [section 1191 et seq. of this title] promulgated by the Consumer Product Safety Commission after the date of the enactment of this Act [Aug. 13, 1981]; and the amendments made by sections 1202, 1203, and 1206 of this subtitle [enacting [section 2077 of this title](./chapter-047-consumer-product-safety.md#section-2077) and amending sections 1193, 1262, 2056, 2057, 2058, and 2080 of this title] shall apply with respect to regulations under the Consumer Product Safety Act, the Federal Hazardous Substances Act, and the Flammable Fabrics Act for which notices of proposed rulemaking are issued after August 14, 1981.”
 
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
+
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
@@ -232,7 +235,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
   (C) Subparagraph (A) shall not be construed to prohibit appropriate reorganizations or changes in classification.
 
-(2) The Chairman, subject to subsection (f)(2) of this section, may employ such other officers and employees (including attorneys) as are necessary in the execution of the Commission’s functions.
+(2) The Chairman, subject to subsection (f)(2), may employ such other officers and employees (including attorneys) as are necessary in the execution of the Commission’s functions.
 
 (3) In addition to the number of positions authorized by [section 5108(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108/a&num=0&edition=prelim), the Chairman, subject to the approval of the Commission, and subject to the standards and procedures prescribed by chapter 51 of title 5, may place a total of twelve positions in grades GS–16, GS–17, and GS–18.
 
@@ -372,6 +375,9 @@ Subsec. (b)(3). Pub. L. 97–35, § 1209(b), struck out provision that the Commi
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35, effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under [section 2052 of this title](./chapter-047-consumer-product-safety.md#section-2052).
+
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
 
 #### Study of Aversive Agents
 Pub. L. 101–608, title II, § 204, Nov. 16, 1990, 104 Stat. 3124, provided that: “The Consumer Product Safety Commission shall conduct a study of requiring manufacturers of consumer products to include aversive agents, as appropriate, in products which present a hazard if ingested to determine the potential effectiveness of the aversive agents in deterring ingestion. In conducting the study, the Commission shall consult with appropriate consumer, health, and business organizations and appropriate government agencies. The Commission shall report to Congress the status of the study within one year of the date of the enactment of this Act [Nov. 16, 1990] and shall complete the study not later than 2 years after such date of enactment.”
@@ -524,6 +530,9 @@ Subsecs. (c), (d). Pub. L. 97–35 reenacted subsec. (c) without change and adde
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under [section 2052 of this title](./chapter-047-consumer-product-safety.md#section-2052).
+
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
 
 #### Confidentiality Protections for Information Reported on Incidents of Children Choking
 For purposes of subsection (b)(5) of this section, information reported to Consumer Product Safety Commission on incidents of children choking on a marble, small ball, latex balloon, or other small part contained in a toy or game, to be treated as information submitted pursuant to [section 2064(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2064/b&num=0&edition=prelim), see section 102 of Pub. L. 103–267, set out as a Reporting Requirements note under [section 2064 of this title](./chapter-047-consumer-product-safety.md#section-2064).
@@ -710,7 +719,7 @@ Any requirement of such a standard shall be reasonably necessary to prevent or r
 
 **(b) Reliance of Commission upon voluntary standards**
 
-(1) The Commission shall rely upon voluntary consumer product safety standards rather than promulgate a consumer product safety standard prescribing requirements described in subsection (a) of this section whenever compliance with such voluntary standards would eliminate or adequately reduce the risk of injury addressed and it is likely that there will be substantial compliance with such voluntary standards.
+(1) The Commission shall rely upon voluntary consumer product safety standards rather than promulgate a consumer product safety standard prescribing requirements described in subsection (a) whenever compliance with such voluntary standards would eliminate or adequately reduce the risk of injury addressed and it is likely that there will be substantial compliance with such voluntary standards.
 
 (2) The Commission shall devise procedures to monitor compliance with any voluntary standards—
 
@@ -768,6 +777,9 @@ Subsec. (f). Pub. L. 94–284, § 7(c), provided that if within 60 days after pu
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 applicable with respect to regulations under this chapter and chapters 25 and 30 of this title for which notices of proposed rulemaking are issued after Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as a note under [section 2052 of this title](./chapter-047-consumer-product-safety.md#section-2052).
+
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
 
 #### Children’s Gasoline Burn Prevention
 Pub. L. 110–278, July 17, 2008, 122 Stat. 2602, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Children’s Gasoline Burn Prevention Act’. “SEC. 2. CHILD-RESISTANT PORTABLE GASOLINE CONTAINERS.“(a) Consumer Product Safety Rule.—The provision of subsection (b) shall be considered to be a consumer product safety rule issued by the Consumer Product Safety Commission under section 9 of the Consumer Product Safety Act ([15 U.S.C. 2058](./chapter-047-consumer-product-safety.md#section-2058)). “(b) Requirements.—Effective 6 months after the date of enactment of this Act [July 17, 2008], each portable gasoline container manufactured on or after that date for sale in the United States shall conform to the child-resistance requirements for closures on portable gasoline containers specified in the standard ASTM F2517-05, issued by ASTM International. “(c) Definition.—As used in this Act, the term ‘portable gasoline container’ means any portable gasoline container intended for use by consumers. “(d) Revision of Rule.—If, after the enactment of this Act, ASTM International proposes to revise the child resistance requirements of ASTM F2517-05, ASTM International shall notify the Consumer Product Safety Commission of the proposed revision and the proposed revision shall be incorporated in the consumer product safety rule under subsection (a) unless, within 60 days of such notice, the Commission notifies ASTM International that the Commission has determined that such revision does not carry out the purposes of subsection (b). “(e) Implementing Regulations.—[Section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code, shall apply with respect to the issuance of any regulations by the Consumer Product Safety Commission to implement the requirements of this section, and sections 7 and 9 of the Consumer Product Safety Act [[15 U.S.C. 2056](./chapter-047-consumer-product-safety.md#section-2056), 2058] shall not apply to such issuance. “(f) Report.—Not later than 2 years after the date of enactment of this Act [July 17, 2008], the Consumer Product Safety Commission shall transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on—“(1) the degree of industry compliance with the standard promulgated under subsection (a); “(2) any enforcement actions brought by the Commission to enforce such standard; and “(3) incidents involving children interacting with portable gasoline containers (including both those that are and are not in compliance with the standard promulgated under subsection (a)).”
@@ -1058,10 +1070,13 @@ the Commission may, in accordance with [section 2058 of this title](./chapter-04
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 applicable with respect to regulations under this chapter and chapters 25 and 30 of this title for which notices of proposed rulemaking are issued after Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as a note under [section 2052 of this title](./chapter-047-consumer-product-safety.md#section-2052).
 
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
+
 
 <a id="section-2057a"></a>
 ## § 2057a. Banning of butyl nitrite
-**(a) In general** Except as provided in subsection (b) of this section, butyl nitrite shall be considered a banned hazardous product under [section 2057 of this title](./chapter-047-consumer-product-safety.md#section-2057).
+**(a) In general** Except as provided in subsection (b), butyl nitrite shall be considered a banned hazardous product under [section 2057 of this title](./chapter-047-consumer-product-safety.md#section-2057).
 
 **(b) Lawful purposes** For the purposes of [section 2057 of this title](./chapter-047-consumer-product-safety.md#section-2057), it shall not be unlawful for any person to manufacture for sale, offer for sale, distribute in commerce, or import into the United States butyl nitrite for any commercial purpose or any other purpose approved under the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.].
 
@@ -1084,7 +1099,7 @@ Section was enacted as part of the Anti-Drug Abuse Act of 1988 and also as part 
 
 <a id="section-2057b"></a>
 ## § 2057b. Banning of isopropal nitrite and other nitrites
-**(a) In general** Except as provided in subsection (b) of this section, volatile alkyl nitrite shall be considered a banned hazardous product under [section 2057 of this title](./chapter-047-consumer-product-safety.md#section-2057).
+**(a) In general** Except as provided in subsection (b), volatile alkyl nitrite shall be considered a banned hazardous product under [section 2057 of this title](./chapter-047-consumer-product-safety.md#section-2057).
 
 **(b) Lawful purposes** For the purposes of [section 2057 of this title](./chapter-047-consumer-product-safety.md#section-2057), it shall not be unlawful for any person to manufacture for sale, offer for sale, distribute in commerce, or import into the United States volatile alkyl nitrites for any commercial purpose or any other purpose approved under the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.].
 
@@ -1222,11 +1237,11 @@ The Commission shall transmit such notice within 10 calendar days to the appropr
 
 **(b) Voluntary standard; publication as proposed rule; notice of reliance of Commission on standard**
 
-(1) If the Commission determines that any standard submitted to it in response to an invitation in a notice published under subsection (a)(5) of this section if promulgated (in whole, in part, or in combination with any other standard submitted to the Commission or any part of such a standard) as a consumer product safety standard, would eliminate or adequately reduce the risk of injury identified in a notice under subsection (a)(1) of this section, the Commission may publish such standard, in whole, in part, or in such combination and with nonmaterial modifications, as a proposed consumer product safety rule.
+(1) If the Commission determines that any standard submitted to it in response to an invitation in a notice published under subsection (a)(5) if promulgated (in whole, in part, or in combination with any other standard submitted to the Commission or any part of such a standard) as a consumer product safety standard, would eliminate or adequately reduce the risk of injury identified in a notice under subsection (a)(1), the Commission may publish such standard, in whole, in part, or in such combination and with nonmaterial modifications, as a proposed consumer product safety rule.
 
 (2) If the Commission determines that—
 
-  (A) compliance with any standard submitted to it in response to an invitation in a notice published under subsection (a)(6) of this section is likely to result in the elimination or adequate reduction of the risk of injury identified in the notice, and
+  (A) compliance with any standard submitted to it in response to an invitation in a notice published under subsection (a)(6) is likely to result in the elimination or adequate reduction of the risk of injury identified in the notice, and
 
   (B) it is likely that there will be substantial compliance with such standard,
   the Commission shall terminate any proceeding to promulgate a consumer product safety rule respecting such risk of injury and shall publish in the Federal Register a notice which includes the determination of the Commission and which notifies the public that the Commission will rely on the voluntary standard to eliminate or reduce the risk of injury, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary consumer product safety standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.
@@ -1235,18 +1250,18 @@ The Commission shall transmit such notice within 10 calendar days to the appropr
 
 (1) a preliminary description of the potential benefits and potential costs of the proposed rule, including any benefits or costs that cannot be quantified in monetary terms, and an identification of those likely to receive the benefits and bear the costs;
 
-(2) a discussion of the reasons any standard or portion of a standard submitted to the Commission under subsection (a)(5) of this section was not published by the Commission as the proposed rule or part of the proposed rule;
+(2) a discussion of the reasons any standard or portion of a standard submitted to the Commission under subsection (a)(5) was not published by the Commission as the proposed rule or part of the proposed rule;
 
-(3) a discussion of the reasons for the Commission’s preliminary determination that efforts proposed under subsection (a)(6) of this section and assisted by the Commission as required by [section 2054(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2054/a/3&num=0&edition=prelim) would not, within a reasonable period of time, be likely to result in the development of a voluntary consumer product safety standard that would eliminate or adequately reduce the risk of injury addressed by the proposed rule; and
+(3) a discussion of the reasons for the Commission’s preliminary determination that efforts proposed under subsection (a)(6) and assisted by the Commission as required by [section 2054(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2054/a/3&num=0&edition=prelim) would not, within a reasonable period of time, be likely to result in the development of a voluntary consumer product safety standard that would eliminate or adequately reduce the risk of injury addressed by the proposed rule; and
 
 (4) a description of any reasonable alternatives to the proposed rule, together with a summary description of their potential costs and benefits, and a brief explanation of why such alternatives should not be published as a proposed rule.
 The Commission shall transmit such notice within 10 calendar days to the appropriate Congressional committees. Any proposed consumer product safety rule shall be issued within twelve months after the date of publication of the notice, unless the Commission determines that such proposed rule is not reasonably necessary to eliminate or reduce the risk of injury associated with the product or is not in the public interest. The Commission may extend the twelve-month period for good cause. If the Commission extends such period, it shall immediately transmit notice of such extension to the appropriate Congressional committees. Such notice shall include an explanation of the reasons for such extension, together with an estimate of the date by which the Commission anticipates such rulemaking will be completed. The Commission shall publish notice of such extension and the information submitted to the Congress in the Federal Register. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed consumer product safety standard.
 
 **(d) Promulgation of rule; time**
 
-(1) Within 60 days after the publication under subsection (c) of this section of a proposed consumer product safety rule respecting a risk of injury associated with a consumer product, the Commission shall—
+(1) Within 60 days after the publication under subsection (c) of a proposed consumer product safety rule respecting a risk of injury associated with a consumer product, the Commission shall—
 
-  (A) promulgate a consumer product safety rule respecting the risk of injury associated with such product, if it makes the findings required under subsection (f) of this section, or
+  (A) promulgate a consumer product safety rule respecting the risk of injury associated with such product, if it makes the findings required under subsection (f), or
 
   (B) withdraw the applicable notice of proposed rulemaking if it determines that such rule is not (i) reasonably necessary to eliminate or reduce an unreasonable risk of injury associated with the product, or (ii) in the public interest;
   except that the Commission may extend such 60-day period for good cause shown (if it publishes its reasons therefor in the Federal Register).
@@ -1296,7 +1311,7 @@ The Commission shall transmit such notice within 10 calendar days to the appropr
 
 (4)
 
-  (A) Any preliminary or final regulatory analysis prepared under subsection (c) or (f)(2) of this section shall not be subject to independent judicial review, except that when an action for judicial review of a rule is instituted, the contents of any such regulatory analysis shall constitute part of the whole rulemaking record of agency action in connection with such review.
+  (A) Any preliminary or final regulatory analysis prepared under subsection (c) or (f)(2) shall not be subject to independent judicial review, except that when an action for judicial review of a rule is instituted, the contents of any such regulatory analysis shall constitute part of the whole rulemaking record of agency action in connection with such review.
 
   (B) The provisions of subparagraph (A) shall not be construed to alter the substantive or procedural standards otherwise applicable to judicial review of any action by the Commission.
 
@@ -1348,6 +1363,9 @@ Subsecs. (f) to (h). Pub. L. 97–35 added subsecs. (f) to (h).
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 applicable with respect to regulations under this chapter and chapters 25 and 30 of this title for which notices of proposed rulemaking are issued after Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as a note under [section 2052 of this title](./chapter-047-consumer-product-safety.md#section-2052).
 
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
+
 
 <a id="section-2059"></a>
 ## § 2059. Repealed. Pub. L. 97–35, title XII, § 1210, Aug. 13, 1981, 95 Stat. 721
@@ -1366,7 +1384,7 @@ Repeal effective Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as 
 
 **(b) Additional data, views, or arguments** If the petitioner applies to the court for leave to adduce additional data, views, or arguments and shows to the satisfaction of the court that such additional data, views, or arguments are material and that there were reasonable grounds for the petitioner’s failure to adduce such data, views, or arguments in the proceeding before the Commission, the court may order the Commission to provide additional opportunity for the oral presentation of data, views, or arguments and for written submissions. The Commission may modify its findings, or make new findings by reason of the additional data, views, or arguments so taken and shall file such modified or new findings, and its recommendation, if any, for the modification or setting aside of its original rule, with the return of such additional data, views, or arguments.
 
-**(c) Jurisdiction; costs and attorneys’ fees; substantial evidence to support administrative findings** Upon the filing of the petition under subsection (a) of this section the court shall have jurisdiction to review the consumer product safety rule in accordance with chapter 7 of title 5, and to grant appropriate relief, including interim relief, as provided in such chapter. A court may in the interest of justice include in such relief an award of the costs of suit, including reasonable attorneys’ fees (determined in accordance with subsection (f) of this section 11 So in original. Probably should be followed by a closing parenthesis. and reasonable expert witnesses’ fees. Attorneys’ fees may be awarded against the United States (or any agency or official of the United States) without regard to [section 2412 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2412&num=0&edition=prelim) or any other provision of law. The consumer product safety rule shall not be affirmed unless the Commission’s findings under sections 2058(f)(1) and 2058(f)(3) of this title are supported by substantial evidence on the record taken as a whole.
+**(c) Jurisdiction; costs and attorneys’ fees; substantial evidence to support administrative findings** Upon the filing of the petition under subsection (a) of this section the court shall have jurisdiction to review the consumer product safety rule in accordance with chapter 7 of title 5, and to grant appropriate relief, including interim relief, as provided in such chapter. A court may in the interest of justice include in such relief an award of the costs of suit, including reasonable attorneys’ fees (determined in accordance with subsection (f) 11 So in original. Probably should be followed by a closing parenthesis. and reasonable expert witnesses’ fees. Attorneys’ fees may be awarded against the United States (or any agency or official of the United States) without regard to [section 2412 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2412&num=0&edition=prelim) or any other provision of law. The consumer product safety rule shall not be affirmed unless the Commission’s findings under sections 2058(f)(1) and 2058(f)(3) of this title are supported by substantial evidence on the record taken as a whole.
 
 **(d) Supreme Court review** The judgment of the court affirming or setting aside, in whole or in part, any consumer product safety rule shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in [section 1254 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1254&num=0&edition=prelim).
 
@@ -1399,7 +1417,7 @@ Repeal effective Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as 
 #### Amendments
 2008—Subsec. (g). Pub. L. 110–314 added subsec. (g).
 
-1983—Subsec. (c). Pub. L. 97–414 substituted “subsection (f) of this section” for “[section 2059(e)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2059/e/4&num=0&edition=prelim)”.
+1983—Subsec. (c). Pub. L. 97–414 substituted “subsection (f)” for “[section 2059(e)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2059/e/4&num=0&edition=prelim)”.
 
 1981—Subsec. (a). Pub. L. 97–35, § 1211(h)(2), substituted reference to [section 2058(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2058/d/2&num=0&edition=prelim) for reference to [section 2058(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2058/a/2&num=0&edition=prelim).
 
@@ -1414,13 +1432,16 @@ Subsec. (c). Pub. L. 94–284, § 10(b), inserted provision permitting the court
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under [section 2052 of this title](./chapter-047-consumer-product-safety.md#section-2052).
 
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
+
 #### Pending Actions Unaffected
 Pub. L. 110–314, title II, § 236(b), Aug. 14, 2008, 122 Stat. 3076, provided that: “The amendment made by subsection (a) [amending this section] shall not apply to any petition filed before the date of enactment of this Act [Aug. 14, 2008] for judicial review of any action by the Consumer Product Safety Commission.”
 
 
 <a id="section-2061"></a>
 ## § 2061. Imminent hazards
-**(a) Filing of action** The Commission may file in a United States district court an action (1) against an imminently hazardous consumer product for seizure of such product under subsection (b)(2) of this section, or (2) against any person who is a manufacturer, distributor, or retailer of such product, or (3) against both. Such an action may be filed notwithstanding the existence of a consumer product safety rule applicable to such product, or the pendency of any administrative or judicial proceedings under any other provision of this chapter. As used in this section, and hereinafter in this chapter, the term “imminently hazardous consumer product” means a consumer product which presents imminent and unreasonable risk of death, serious illness, or severe personal injury.
+**(a) Filing of action** The Commission may file in a United States district court an action (1) against an imminently hazardous consumer product for seizure of such product under subsection (b)(2), or (2) against any person who is a manufacturer, distributor, or retailer of such product, or (3) against both. Such an action may be filed notwithstanding the existence of a consumer product safety rule applicable to such product, or the pendency of any administrative or judicial proceedings under any other provision of this chapter. As used in this section, and hereinafter in this chapter, the term “imminently hazardous consumer product” means a consumer product which presents imminent and unreasonable risk of death, serious illness, or severe personal injury.
 
 **(b) Relief; product condemnation and seizure**
 
@@ -1438,7 +1459,7 @@ Pub. L. 110–314, title II, § 236(b), Aug. 14, 2008, 122 Stat. 3076, provided 
 
 **(e) Employment of attorneys by Commission** Notwithstanding any other provision of law, in any action under this section, the Commission may direct attorneys employed by it to appear and represent it.
 
-**(g) 11 So in original. Probably should be “(f)”. Cost-benefit analysis of compliance with relief ordered in action for judicial review of consumer product safety rule not required** Nothing in this section shall be construed to require the Commission, in determining whether to bring an action against a consumer product or a person under this section, to prepare a comparison of the costs that would be incurred in complying with the relief that may be ordered in such action with the benefits to the public from such relief.
+**(g) 11 So in original. No subsec. (f) has been enacted. Cost-benefit analysis of compliance with relief ordered in action for judicial review of consumer product safety rule not required** Nothing in this section shall be construed to require the Commission, in determining whether to bring an action against a consumer product or a person under this section, to prepare a comparison of the costs that would be incurred in complying with the relief that may be ordered in such action with the benefits to the public from such relief.
 
 ### Statutory Notes
 
@@ -1449,6 +1470,9 @@ Pub. L. 110–314, title II, § 236(b), Aug. 14, 2008, 122 Stat. 3076, provided 
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under [section 2052 of this title](./chapter-047-consumer-product-safety.md#section-2052).
+
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
 
 
 <a id="section-2062"></a>
@@ -1519,7 +1543,7 @@ Repeal effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as 
 
   (B) The Commission may, by regulation, exclude a specific product or class of products from the requirements in subparagraph (A) if the Commission determines that it is not practicable for such product or class of products to bear the marks required by such subparagraph. The Commission may establish alternative requirements for any product or class of products excluded under the preceding sentence consistent with the purposes described in clauses (i) and (ii) of subparagraph (A).
 
-**(b) Rules to establish reasonable testing programs** The Commission may by rule prescribe reasonable testing programs for any product which is subject to a consumer product safety rule under this chapter, or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission, and for which a certificate is required under subsection (a) of this section. Any test or testing program on the basis of which a certificate is issued under subsection (a) of this section may, at the option of the person required to certify the product, be conducted by an independent third party qualified to perform such tests, unless the Commission, by rule, requires testing by an independent third party for a particular rule, regulation, standard, or ban, or for a particular class of products.
+**(b) Rules to establish reasonable testing programs** The Commission may by rule prescribe reasonable testing programs for any product which is subject to a consumer product safety rule under this chapter, or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission, and for which a certificate is required under subsection (a). Any test or testing program on the basis of which a certificate is issued under subsection (a) may, at the option of the person required to certify the product, be conducted by an independent third party qualified to perform such tests, unless the Commission, by rule, requires testing by an independent third party for a particular rule, regulation, standard, or ban, or for a particular class of products.
 
 **(c) Form and contents of labels** The Commission may by rule require the use and prescribe the form and content of labels which contain the following information (or that portion of it specified in the rule)—
 
@@ -1685,7 +1709,7 @@ Such labels, where practicable, may be required by the Commission to be permanen
 
 (3) **Availability of certificates** — Every certificate required under this section shall accompany the applicable product or shipment of products covered by the same certificate and a copy of the certificate shall be furnished to each distributor or retailer of the product. Upon request, the manufacturer or private labeler issuing the certificate shall furnish a copy of the certificate to the Commission.
 
-(4) **Electronic filing of certificates for imported products** — In consultation with the Commissioner of Customs, the Commission may, by rule, provide for the electronic filing of certificates under this section up to 24 hours before arrival of an imported product. Upon request, the manufacturer or private labeler issuing the certificate shall furnish a copy to the Commission and to the Commissioner of Customs.
+(4) **Electronic filing of certificates for imported products** — In consultation with the Commissioner of U.S. Customs and Border Protection, the Commission may, by rule, provide for the electronic filing of certificates under this section up to 24 hours before arrival of an imported product. Upon request, the manufacturer or private labeler issuing the certificate shall furnish a copy to the Commission and to the Commissioner of U.S. Customs and Border Protection.
 
 **(h) Rule of construction** Compliance of any children’s product with third party testing and certification or general conformity certification requirements under this section shall not be construed to exempt such children’s product from any requirement that such product actually be in conformity with all applicable rules, regulation, standards, or ban under any Act enforced by the Commission.
 
@@ -1727,10 +1751,16 @@ Pub. L. 110–314, § 102(b), added subsec. (d) relating to additional regulatio
 
 Subsecs. (e) to (h). Pub. L. 110–314, § 102(b), added subsecs. (e) to (h).
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in two places in subsec. (g)(4) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Effective Date of 2008 Amendment
 Pub. L. 110–314, title I, § 102(a)(1)(B), Aug. 14, 2008, 122 Stat. 3022, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect 90 days after the date of enactment of this Act [Aug. 14, 2008].”
 
 Amendment by section 103(c) of Pub. L. 110–314 effective on the date that is 60 days after Aug. 14, 2008, see section 239(a) of Pub. L. 110–314, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
+
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
 
 #### CPSC Consideration of Existing Requirements
 Pub. L. 110–314, title I, § 102(c), Aug. 14, 2008, 122 Stat. 3027, provided that: “In establishing standards for accreditation of a third party conformity assessment body under section 14(a)(3) of the Consumer Product Safety Act [[15 U.S.C. 2063(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2063/a/3&num=0&edition=prelim)], as added by subsection (a), the [Consumer Product Safety] Commission may consider standards and protocols for accreditation of such conformity assessment bodies by independent accreditation organizations that are in effect on the date of enactment of this Act [Aug. 14, 2008], but shall ensure that the protocols, standards, and requirements prescribed under such section 14(a)(3) incorporate, as the standard for accreditation, the most current scientific and technological standards and techniques available.”
@@ -1750,7 +1780,7 @@ Pub. L. 110–314, title I, § 102(c), Aug. 14, 2008, 122 Stat. 3027, provided t
 
 (2) fails to comply with any other rule, regulation, standard, or ban under this chapter or any other Act enforced by the Commission;
 
-(3) contains a defect which could create a substantial product hazard described in subsection (a)(2) of this section; or
+(3) contains a defect which could create a substantial product hazard described in subsection (a)(2); or
 
 (4) creates an unreasonable risk of serious injury or death,
 shall immediately inform the Commission of such failure to comply, of such defect, or of such risk, unless such manufacturer, distributor, or retailer has actual knowledge that the Commission has been adequately informed of such defect, failure to comply, or such risk. A report provided under paragraph (2) may not be used as the basis for criminal prosecution of the reporting person under [section 1264 of this title](./chapter-030-hazardous-substances.md#section-1264), except for offenses which require a showing of intent to defraud or mislead.
@@ -1778,13 +1808,13 @@ shall immediately inform the Commission of such failure to comply, of such defec
 
 **(d) Repair; replacement; refunds; action plan**
 
-(1) If the Commission determines (after affording interested parties, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (f) of this section) that a product distributed in commerce presents a substantial product hazard and that action under this subsection is in the public interest, it may order the manufacturer or any distributor or retailer of such product to provide the notice required by subsection (c) and to take any one or more of the following actions it determines to be in the public interest:
+(1) If the Commission determines (after affording interested parties, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (f)) that a product distributed in commerce presents a substantial product hazard and that action under this subsection is in the public interest, it may order the manufacturer or any distributor or retailer of such product to provide the notice required by subsection (c) and to take any one or more of the following actions it determines to be in the public interest:
 
   (A) To bring such product into conformity with the requirements of the applicable rule, regulation, standard, or ban or to repair the defect in such product.
 
   (B) To replace such product with a like or equivalent product which complies with the applicable rule, regulation, standard, or ban or which does not contain the defect.
 
-  (C) To refund the purchase price of such product (less a reasonable allowance for use, if such product has been in the possession of a consumer for one year or more (i) at the time of public notice under subsection (c) of this section, or (ii) at the time the consumer receives actual notice of the defect or noncompliance, whichever first occurs).
+  (C) To refund the purchase price of such product (less a reasonable allowance for use, if such product has been in the possession of a consumer for one year or more (i) at the time of public notice under subsection (c), or (ii) at the time the consumer receives actual notice of the defect or noncompliance, whichever first occurs).
 
 (2) An order under this subsection shall also require the person to whom it applies to submit a plan, for approval by the Commission, for taking action under whichever of the preceding subparagraphs under which such person has been ordered to act. The Commission shall specify in the order the persons to whom refunds must be made if the Commission orders the action described in subparagraph (C)..11 So in original. Probably should be “paragraph (1)(C).” An order under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, the product with respect to which the order was issued.
 
@@ -1798,19 +1828,19 @@ shall immediately inform the Commission of such failure to comply, of such defec
 
 **(e) Reimbursement**
 
-(1) No charge shall be made to any person (other than a manufacturer, distributor, or retailer) who avails himself of any remedy provided under an order issued under subsection (d) of this section, and the person subject to the order shall reimburse each person (other than a manufacturer, distributor, or retailer) who is entitled to such a remedy for any reasonable and foreseeable expenses incurred by such person in availing himself of such remedy.
+(1) No charge shall be made to any person (other than a manufacturer, distributor, or retailer) who avails himself of any remedy provided under an order issued under subsection (d), and the person subject to the order shall reimburse each person (other than a manufacturer, distributor, or retailer) who is entitled to such a remedy for any reasonable and foreseeable expenses incurred by such person in availing himself of such remedy.
 
-(2) An order issued under subsection (c) or (d) of this section with respect to a product may require any person who is a manufacturer, distributor, or retailer of the product to reimburse any other person who is a manufacturer, distributor, or retailer of such product for such other person’s expenses in connection with carrying out the order, if the Commission determines such reimbursement to be in the public interest.
+(2) An order issued under subsection (c) or (d) with respect to a product may require any person who is a manufacturer, distributor, or retailer of the product to reimburse any other person who is a manufacturer, distributor, or retailer of such product for such other person’s expenses in connection with carrying out the order, if the Commission determines such reimbursement to be in the public interest.
 
 **(f) Hearing**
 
-(1) Except as provided in paragraph (2), an order under subsection (c) or (d) of this section may be issued only after an opportunity for a hearing in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim) except that, if the Commission determines that any person who wishes to participate in such hearing is a part of a class of participants who share an identity of interest, the Commission may limit such person’s participation in such hearing to participation through a single representative designated by such class (or by the Commission if such class fails to designate such a representative). Any settlement offer which is submitted to the presiding officer at a hearing under this subsection shall be transmitted by the officer to the Commission for its consideration unless the settlement offer is clearly frivolous or duplicative of offers previously made.
+(1) Except as provided in paragraph (2), an order under subsection (c) or (d) may be issued only after an opportunity for a hearing in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim) except that, if the Commission determines that any person who wishes to participate in such hearing is a part of a class of participants who share an identity of interest, the Commission may limit such person’s participation in such hearing to participation through a single representative designated by such class (or by the Commission if such class fails to designate such a representative). Any settlement offer which is submitted to the presiding officer at a hearing under this subsection shall be transmitted by the officer to the Commission for its consideration unless the settlement offer is clearly frivolous or duplicative of offers previously made.
 
 (2) The requirement for a hearing in paragraph (1) shall not apply to an order issued under subsection (c) or (d) relating to an imminently hazardous consumer product with regard to which the Commission has filed an action under [section 2061 of this title](./chapter-047-consumer-product-safety.md#section-2061).
 
 **(g) Preliminary injunction**
 
-(1) If the Commission has initiated a proceeding under this section for the issuance of an order under subsection (d) of this section with respect to a product which the Commission has reason to believe presents a substantial product hazard, the Commission (without regard to [section 2076(b)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2076/b/7&num=0&edition=prelim)) or the Attorney General may, in accordance with 2061(d)(1) 22 So in original. Probably should be preceded by “section”. of this title, apply to a district court of the United States for the issuance of a preliminary injunction to restrain the distribution in commerce of such product pending the completion of such proceeding. If such a preliminary injunction has been issued, the Commission (or the Attorney General if the preliminary injunction was issued upon an application of the Attorney General) may apply to the issuing court for extensions of such preliminary injunction.
+(1) If the Commission has initiated a proceeding under this section for the issuance of an order under subsection (d) with respect to a product which the Commission has reason to believe presents a substantial product hazard, the Commission (without regard to [section 2076(b)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2076/b/7&num=0&edition=prelim)) or the Attorney General may, in accordance with 2061(d)(1) 22 So in original. Probably should be preceded by “section”. of this title, apply to a district court of the United States for the issuance of a preliminary injunction to restrain the distribution in commerce of such product pending the completion of such proceeding. If such a preliminary injunction has been issued, the Commission (or the Attorney General if the preliminary injunction was issued upon an application of the Attorney General) may apply to the issuing court for extensions of such preliminary injunction.
 
 (2) Any preliminary injunction, and any extension of a preliminary injunction, issued under this subsection with respect to a product shall be in effect for such period as the issuing court prescribes not to exceed a period which extends beyond the thirtieth day from the date of the issuance of the preliminary injunction (or, in the case of a preliminary injunction which has been extended, the date of its extension) or the date of the completion or termination of the proceeding under this section respecting such product, whichever date occurs first.
 
@@ -1949,6 +1979,9 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under [section 2052 of this title](./chapter-047-consumer-product-safety.md#section-2052).
 
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
+
 #### Reporting Requirements
 Pub. L. 103–267, title I, § 102, June 16, 1994, 108 Stat. 726, provided that: “(a) Reports to Consumer Product Safety Commission.—“(1) Requirement to report.—Each manufacturer, distributor, retailer, and importer of a marble, small ball, or latex balloon, or a toy or game that contains a marble, small ball, latex balloon, or other small part, shall report to the Commission any information obtained by such manufacturer, distributor, retailer, or importer which reasonably supports the conclusion that—“(A) an incident occurred in which a child (regardless of age) choked on such a marble, small ball, or latex balloon or on a marble, small ball, latex balloon, or other small part contained in such toy or game; and “(B) as a result of that incident the child died, suffered serious injury, ceased breathing for any length of time, or was treated by a medical professional. “(2) Treatment under cpsa.—For purposes of section 19(a)(3) of the Consumer Product Safety Act ([15 U.S.C. 2068(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2068/a/3&num=0&edition=prelim)), the requirement to report information under this subsection is deemed to be a requirement under such Act [[15 U.S.C. 2051](./chapter-047-consumer-product-safety.md#section-2051) et seq.]. “(3) Effect on liability.—A report by a manufacturer, distributor, retailer, or importer under paragraph (1) shall not be interpreted, for any purpose, as an admission of liability or of the truth of the information contained in the report. “(b) Confidentiality Protections.—The confidentiality protections of section 6(b) of the Consumer Product Safety Act ([15 U.S.C. 2055(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2055/b&num=0&edition=prelim)) apply to any information reported to the Commission under subsection (a) of this section. For purposes of section 6(b)(5) of such Act, information so reported shall be treated as information submitted pursuant to section 15(b) of such Act [[15 U.S.C. 2064(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2064/b&num=0&edition=prelim)] respecting a consumer product.”
 
@@ -1992,6 +2025,9 @@ Subsec. (c). Pub. L. 110–314, § 215(b), added subsec. (c).
 
 Subsec. (d). Pub. L. 110–314, § 223(c)(2), added subsec. (d).
 
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
+
 
 <a id="section-2066"></a>
 ## § 2066. Imported products
@@ -2005,13 +2041,13 @@ Subsec. (d). Pub. L. 110–314, § 223(c)(2), added subsec. (d).
 
 (4) has a product defect which constitutes a substantial product hazard (within the meaning of section 2064(a)(2)) of this title; or
 
-(5) is a product which was manufactured by a person who the Commission has informed the Secretary of the Treasury is in violation of subsection (g) of this section.
+(5) is a product which was manufactured by a person who the Commission has informed the Secretary of the Treasury is in violation of subsection (g).
 
-**(b) Samples** The Secretary of the Treasury shall obtain without charge and deliver to the Commission, upon the latter’s request, a reasonable number of samples of consumer products being offered for import. Except for those owners or consignees who are or have been afforded an opportunity for a hearing in a proceeding under [section 2061 of this title](./chapter-047-consumer-product-safety.md#section-2061) with respect to an imminently hazardous product, the owner or consignee of the product shall be afforded an opportunity by the Commission for a hearing in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim) with respect to the importation of such products into the customs territory of the United States. If it appears from examination of such samples or otherwise that a product must be refused admission under the terms of subsection (a) of this section, such product shall be refused admission, unless subsection (c) of this section applies and is complied with.
+**(b) Samples** The Secretary of the Treasury shall obtain without charge and deliver to the Commission, upon the latter’s request, a reasonable number of samples of consumer products being offered for import. Except for those owners or consignees who are or have been afforded an opportunity for a hearing in a proceeding under [section 2061 of this title](./chapter-047-consumer-product-safety.md#section-2061) with respect to an imminently hazardous product, the owner or consignee of the product shall be afforded an opportunity by the Commission for a hearing in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim) with respect to the importation of such products into the customs territory of the United States. If it appears from examination of such samples or otherwise that a product must be refused admission under the terms of subsection (a), such product shall be refused admission, unless subsection (c) of this section applies and is complied with.
 
-**(c) Modification** If it appears to the Commission that any consumer product which may be refused admission pursuant to subsection (a) of this section can be so modified that it need not (under the terms of paragraphs (1) through (4) of subsection (a) of this section) be refused admission, the Commission may defer final determination as to the admission of such product and, in accordance with such regulations as the Commission and the Secretary of the Treasury shall jointly agree to, permit such product to be delivered from customs custody under bond for the purpose of permitting the owner or consignee an opportunity to so modify such product.
+**(c) Modification** If it appears to the Commission that any consumer product which may be refused admission pursuant to subsection (a) of this section can be so modified that it need not (under the terms of paragraphs (1) through (4) of subsection (a)) be refused admission, the Commission may defer final determination as to the admission of such product and, in accordance with such regulations as the Commission and the Secretary of the Treasury shall jointly agree to, permit such product to be delivered from customs custody under bond for the purpose of permitting the owner or consignee an opportunity to so modify such product.
 
-**(d) Supervision of modifications** All actions taken by an owner or consignee to modify such product under subsection (c) of this section shall be subject to the supervision of an officer or employee of the Commission and of the Department of the Treasury. If it appears to the Commission that the product cannot be so modified or that the owner or consignee is not proceeding satisfactorily to modify such product, it shall be refused admission into the customs territory of the United States, and the Commission may direct the Secretary to demand redelivery of the product into customs custody, and to seize the product in accordance with [section 2071(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2071/b&num=0&edition=prelim) if it is not so redelivered.
+**(d) Supervision of modifications** All actions taken by an owner or consignee to modify such product under subsection (c) shall be subject to the supervision of an officer or employee of the Commission and of the Department of the Treasury. If it appears to the Commission that the product cannot be so modified or that the owner or consignee is not proceeding satisfactorily to modify such product, it shall be refused admission into the customs territory of the United States, and the Commission may direct the Secretary to demand redelivery of the product into customs custody, and to seize the product in accordance with [section 2071(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2071/b&num=0&edition=prelim) if it is not so redelivered.
 
 **(e) Product destruction** Products refused admission into the customs territory of the United States shall be destroyed unless, upon application by the owner, consignee, or importer of record, the Secretary of the Treasury permits the export of the product in lieu of destruction. If the owner, consignee, or importer of record does not export the product within 90 days of approval to export, such product shall be destroyed.
 
@@ -2051,6 +2087,9 @@ Amendment by sections 216(b) and 223(b) of Pub. L. 110–314 effective on the da
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under [section 3001 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3001&num=0&edition=prelim), Customs Duties.
 
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
+
 #### Import Safety Management and Interagency Cooperation
 Pub. L. 110–314, title II, § 222, Aug. 14, 2008, 122 Stat. 3066, provided that: “(a) Risk Assessment Methodology.—Not later than 2 years after the date of enactment of this Act [Aug. 14, 2008], the Commission shall develop a risk assessment methodology for the identification of shipments of consumer products that are—“(1) intended for import into the United States; and “(2) likely to include consumer products in violation of section 17(a) of the Consumer Product Safety Act ([15 U.S.C. 2066(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2066/a&num=0&edition=prelim)) or other import provisions enforced by the Commission. “(b) Use of International Trade Data System and Other Databases.—In developing the methodology required under subsection (a), the Commission shall—“(1) provide for the use of the International Trade Data System, insofar as is practicable, established under section 411(d) of the Tariff Act of 1930 ([19 U.S.C. 1411(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1411/d&num=0&edition=prelim)) to evaluate and assess information about shipments of consumer products intended for import into the customs territory of the United States; “(2) incorporate the risk assessment methodology required under this section into its information technology modernization plan; “(3) examine, in consultation with U.S. Customs and Border Protection, how to share information collected and retained by the Commission, including information in the database required under section 6A of the Consumer Product Safety Act [[15 U.S.C. 2055a](./chapter-047-consumer-product-safety.md#section-2055a)], for the purpose of identifying shipments of consumer products in violation of section 17(a) of such Act ([15 U.S.C. 2066(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2066/a&num=0&edition=prelim)) or other import provisions enforced by the Commission; and “(4) examine, in consultation with U.S. Customs and Border Protection, how to share information required by section 15(j) of the CPSA [[15 U.S.C. 2064(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2064/j&num=0&edition=prelim)] as added by section 223 of this Act for the purpose of identifying shipments of consumer products in violation of section 17(a) of the Consumer Product Safety Act ([15 U.S.C. 2066(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2066/a&num=0&edition=prelim)) or other import provisions enforced by the Commission. “(c) Cooperation With U.S. Customs and Border Protection.—Not later than 1 year after the date of enactment of this Act [Aug. 14, 2008], the Commission shall develop a plan for sharing information and coordinating with U.S. Customs and Border Protection that considers, at a minimum, the following:“(1) The number of full-time equivalent personnel employed by the Commission that should be stationed at U.S. ports of entry for the purpose of identifying shipments of consumer products that are in violation of section 17(a) of the Consumer Product Safety Act ([15 U.S.C. 2066(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2066/a&num=0&edition=prelim)) or other import provisions enforced by the Commission. “(2) The extent and nature of cooperation between the Commission and U.S. Customs and Border Protection personnel stationed at ports of entry in the identification of shipments of consumer product that are in violation of section 17(a) of the Consumer Product Safety Act ([15 U.S.C. 2066(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2066/a&num=0&edition=prelim)) or other import provisions enforced by the Commission under this Act [see Short Title of 2008 Amendment note set out under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051)] or any other provision of law. “(3) The number of full-time equivalent personnel employed by the Commission that should be stationed at the National Targeting Center (or its equivalent) of U.S. Customs and Border Protection, including—“(A) the extent and nature of cooperation between Commission and U.S. Customs and Border Protection personnel stationed at the National Targeting Center (or its equivalent), as well as at United States ports of entry; “(B) the responsibilities of Commission personnel assigned to the National Targeting Center (or its equivalent) under subsection (b)(3); and “(C) whether the information available at the National Targeting Center (or its equivalent) would be useful to the Commission or U.S. Customs and Border Protection in identifying the consumer products described in subsection (a). “(4) The development of rule sets for the Automated Targeting System and expedited access for the Commission to the Automated Targeting System. “(5) The information and resources necessary for the development, updating, and effective implementation of the risk assessment methodology required in subsection (a). “(d) Report to Congress.—Not later than 180 days after completion of the risk assessment methodology required under this section, the Commission shall submit a report to the appropriate Congressional committees concerning, at a minimum, the following:“(1) The Commission’s plan for implementing the risk assessment methodology required under this section. “(2) The changes made or necessary to be made to the Commission’s memorandum of understanding with U.S. Customs and Border Protection. “(3) The status of—“(A) the development of the Automated Targeting System rule set required under subsection (c)(4) of this section; “(B) the Commission’s access to the Automated Targeting System; and “(C) the effectiveness of the International Trade Data System in enhancing cooperation between the Commission and U.S. Customs and Border Protection for the purpose of identifying shipments of consumer products in violation of section 17(a) of the Consumer Product Safety Act ([15 U.S.C. 2066(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2066/a&num=0&edition=prelim)) or other import provisions enforced by the Commission; “(4) Whether the Commission requires additional statutory authority under the Consumer Product Safety Act [[15 U.S.C. 2051](./chapter-047-consumer-product-safety.md#section-2051) et seq.], the Federal Hazardous Substances Act [[15 U.S.C. 1261](./chapter-030-hazardous-substances.md#section-1261) et seq.], the Flammable Fabrics Act [[15 U.S.C. 1191](./chapter-025-flammable-fabrics.md#section-1191) et seq.], or the Poison Prevention Packaging Act of 1970 [[15 U.S.C. 1471](./chapter-39a-special-packaging-of-household-substances-for-protection-of-children.md#section-1471) et seq.] in order to implement the risk assessment methodology required under this section. “(5) The level of appropriations necessary to implement the risk assessment methodology required under this section.”
 
@@ -2079,6 +2118,9 @@ Pub. L. 110–314, title II, § 222, Aug. 14, 2008, 122 Stat. 3066, provided tha
 Subsecs. (c), (d). Pub. L. 110–314, § 221(a)(2), added subsecs. (c) and (d).
 
 1978—Subsec. (a). Pub. L. 95–631 designated existing text as subsec. (a) and cl. (A) and in subsec. (a), as so designated, added cl. (B), and added subsec. (b).
+
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
 
 
 <a id="section-2068"></a>
@@ -2163,6 +2205,9 @@ Pub. L. 95–319 added par. (10), providing that it be unlawful to fail to compl
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–314 effective on the date that is 30 days after Aug. 14, 2008, see section 239(a) of Pub. L. 110–314, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
 
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
+
 #### Duty To Report Choking Incidents Caused by Children’s Toys or Games
 For purposes of subsec. (a)(3) of this section, requirement to report information relating to choking incidents caused by children’s toys or games to Consumer Product Safety Commission deemed a requirement under this chapter, see section 102 of Pub. L. 103–267, set out as a Reporting Requirements note under [section 2064 of this title](./chapter-047-consumer-product-safety.md#section-2064).
 
@@ -2240,6 +2285,9 @@ Amendment by section 217(a)(1) of Pub. L. 110–314 effective on the date that i
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under [section 2052 of this title](./chapter-047-consumer-product-safety.md#section-2052).
 
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
+
 #### Civil Penalty Criteria
 Pub. L. 110–314, title II, § 217(b)(2), Aug. 14, 2008, 122 Stat. 3059, provided that: “Not later than 1 year after the date of enactment of this Act [Aug. 14, 2008], and in accordance with the procedures of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code, the [Consumer Product Safety] Commission shall issue a final regulation providing its interpretation of the penalty factors described in section 20(b) of the Consumer Product Safety Act ([15 U.S.C. 2069(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2069/b&num=0&edition=prelim)), section 5(c)(3) of the Federal Hazardous Substances Act ([15 U.S.C. 1264(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1264/c/3&num=0&edition=prelim)), and section 5(e)(2) of the Flammable Fabrics Act ([15 U.S.C. 1194(e)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1194/e/2&num=0&edition=prelim)), as amended by subsection (a).”
 
@@ -2254,7 +2302,7 @@ Pub. L. 110–314, title II, § 217(b)(2), Aug. 14, 2008, 122 Stat. 3059, provid
 
 (3) both.
 
-**(b)** Any individual director, officer, or agent of a corporation who knowingly and willfully authorizes, orders, or performs any of the acts or practices constituting in whole or in part a violation of [section 2068 of this title](./chapter-047-consumer-product-safety.md#section-2068) shall be subject to penalties under this section without regard to any penalties to which that corporation may be subject under subsection (a) of this section.
+**(b)** Any individual director, officer, or agent of a corporation who knowingly and willfully authorizes, orders, or performs any of the acts or practices constituting in whole or in part a violation of [section 2068 of this title](./chapter-047-consumer-product-safety.md#section-2068) shall be subject to penalties under this section without regard to any penalties to which that corporation may be subject under subsection (a).
 
 **(c)**
 
@@ -2270,6 +2318,9 @@ Pub. L. 110–314, title II, § 217(b)(2), Aug. 14, 2008, 122 Stat. 3059, provid
 Subsec. (b). Pub. L. 110–314, § 217(c)(2), struck out “, and who has knowledge of notice of noncompliance received by the corporation from the Commission,” after “[section 2068 of this title](./chapter-047-consumer-product-safety.md#section-2068)”.
 
 Subsec. (c). Pub. L. 110–314, § 217(d), added subsec. (c).
+
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
 
 
 <a id="section-2071"></a>
@@ -2297,6 +2348,9 @@ when introduced into or while in commerce or while held for sale after shipment 
 
 Subsec. (b). Pub. L. 94–284, § 12(c)(2), amended subsec. (b) generally, inserting provision designated as par. (2) which included within consumer products liable to proceedings, a product of which the manufacture for sale, offering for sale, distribution in commerce, or importation into the United States has been prohibited.
 
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
+
 
 <a id="section-2072"></a>
 ## § 2072. Suits for damages
@@ -2322,6 +2376,9 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L
 
 #### Effective Date of 1980 Amendment; Applicability
 For effective date and applicability of amendment by Pub. L. 96–486, see section 4 of Pub. L. 96–486, set out as an Effective Date of 1980 Amendment note under [section 1331 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1331&num=0&edition=prelim), Judiciary and Judicial Procedure.
+
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
 
 
 <a id="section-2073"></a>
@@ -2384,6 +2441,9 @@ For effective date and applicability of amendment by Pub. L. 96–486, see secti
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under [section 2052 of this title](./chapter-047-consumer-product-safety.md#section-2052).
 
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
+
 
 <a id="section-2074"></a>
 ## § 2074. Private remedies
@@ -2395,6 +2455,9 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L
 
 ### Statutory Notes
 
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
+
 #### Preemption
 The provisions of this section establishing the extent to which the Consumer Product Safety Act [[15 U.S.C. 2051](./chapter-047-consumer-product-safety.md#section-2051) et seq.] preempts, limits, or otherwise affects any other Federal, State, or local law, any rule, procedure, or regulation, or any cause of action under State or local law not to be expanded or contracted in scope, or limited, modified or extended in application, by any rule or regulation under the Consumer Product Safety Act, or by reference in any preamble, statement of policy, executive branch statements, or other matter associated with the publication of any such rule or regulation, see section 231 of Pub. L. 110–314, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
 
@@ -2405,7 +2468,7 @@ The provisions of this section establishing the extent to which the Consumer Pro
 
 **(b) Consumer product safety requirements which impose performance standards more stringent than Federal standards** Subsection (a) of this section does not prevent the Federal Government or the government of any State or political subdivision of a State from establishing or continuing in effect a safety requirement applicable to a consumer product for its own use which requirement is designed to protect against a risk of injury associated with the product and which is not identical to the consumer product safety standard applicable to the product under this chapter if the Federal, State, or political subdivision requirement provides a higher degree of protection from such risk of injury than the standard applicable under this chapter.
 
-**(c) Exemptions** Upon application of a State or political subdivision of a State, the Commission may by rule, after notice and opportunity for oral presentation of views, exempt from the provisions of subsection (a) of this section (under such conditions as it may impose in the rule) any proposed safety standard or regulation which is described in such application and which is designed to protect against a risk of injury associated with a consumer product subject to a consumer product safety standard under this chapter if the State or political subdivision standard or regulation—
+**(c) Exemptions** Upon application of a State or political subdivision of a State, the Commission may by rule, after notice and opportunity for oral presentation of views, exempt from the provisions of subsection (a) (under such conditions as it may impose in the rule) any proposed safety standard or regulation which is described in such application and which is designed to protect against a risk of injury associated with a consumer product subject to a consumer product safety standard under this chapter if the State or political subdivision standard or regulation—
 
 (1) provides a significantly higher degree of protection from such risk of injury than the consumer product safety standard under this chapter, and
 
@@ -2418,6 +2481,9 @@ In determining the burden, if any, of a State or political subdivision standard 
 1976—Subsec. (b). Pub. L. 94–284 substituted provision that a standard provide a significantly higher degree of protection from the risk of injury for the provision that the standard impose a higher level of performance.
 
 Subsec. (c). Pub. L. 94–284 substituted requirement that a State standard provide a significantly higher degree of protection from the risk of injury than the standard under this chapter for the requirement that the State standard impose a higher level of performance, eliminated the requirement of a compelling local condition, and inserted the requirement that the Commission make specific findings in determining the burden on interstate commerce.
+
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
 
 #### Preemption
 The provisions of this section establishing the extent to which the Consumer Product Safety Act [[15 U.S.C. 2051](./chapter-047-consumer-product-safety.md#section-2051) et seq.] preempts, limits, or otherwise affects any other Federal, State, or local law, any rule, procedure, or regulation, or any cause of action under State or local law not to be expanded or contracted in scope, or limited, modified or extended in application, by any rule or regulation under the Consumer Product Safety Act, or by reference in any preamble, statement of policy, executive branch statements, or other matter associated with the publication of any such rule or regulation, see section 231 of Pub. L. 110–314, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
@@ -2455,7 +2521,7 @@ The provisions of this section establishing the extent to which the Consumer Pro
 (10) to delegate any of its functions or powers, other than the power to issue subpenas under paragraph (3) (except as provided in paragraph (9)), to any officer or employee of the Commission.
 An order issued under paragraph (1) shall contain a complete statement of the reason the Commission requires the report or answers specified in the order to carry out a specific regulatory or enforcement function of the Commission. Such an order shall be designed to place the least burden on the person subject to the order as is practicable taking into account the purpose for which the order was issued.
 
-**(c) Noncompliance with subpena or Commission order; contempt** Any United States district court within the jurisdiction of which any inquiry is carried on, may, upon petition by the Commission (subject to subsection (b)(7) of this section) or by the Attorney General, in case of refusal to obey a subpena or order of the Commission issued under subsection (b) of this section, issue an order requiring compliance therewith; and any failure to obey the order of the court may be punished by the court as a contempt thereof.
+**(c) Noncompliance with subpena or Commission order; contempt** Any United States district court within the jurisdiction of which any inquiry is carried on, may, upon petition by the Commission (subject to subsection (b)(7)) or by the Attorney General, in case of refusal to obey a subpena or order of the Commission issued under subsection (b) of this section, issue an order requiring compliance therewith; and any failure to obey the order of the court may be punished by the court as a contempt thereof.
 
 **(d) Disclosure of information** No person shall be subject to civil liability to any person (other than the Commission or the United States) for disclosing information at the request of the Commission.
 
@@ -2560,7 +2626,7 @@ Subsec. (m). Pub. L. 97–35, § 1211(d), struck out subsec. (m) which defined �
 
 Subsec. (b)(8), (9). Pub. L. 94–284, § 8(b), added par. (8) and redesignated former par. (8) as par (9).
 
-Subsec. (c). Pub. L. 94–284, § 11(d), substituted “(subject to subsection (b)(7) of this section)” for “with the concurrence of the Attorney General”.
+Subsec. (c). Pub. L. 94–284, § 11(d), substituted “(subject to subsection (b)(7))” for “with the concurrence of the Attorney General”.
 
 Subsec. (j). Pub. L. 94–273 substituted “at the beginning of each regular session of Congress” for “on or before October 1 of each year”.
 
@@ -2571,6 +2637,9 @@ Pub. L. 110–314, title II, § 209(b), Aug. 14, 2008, 122 Stat. 3047, provided 
 
 #### Effective Date of 1981 Amendment
 Amendment by section 1207(b) of Pub. L. 97–35 applicable with respect to consumer product safety rules under this chapter and regulations under chapters 25 and 30 of this title promulgated after Aug. 13, 1981, and amendment by sections 1208, 1209(c), and 1211(d) of Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under [section 2052 of this title](./chapter-047-consumer-product-safety.md#section-2052).
+
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
 
 #### Submission of Copy of Certain Documents to Congress
 Pub. L. 110–314, title II, § 203(a), Aug. 14, 2008, 122 Stat. 3040, provided that: “Notwithstanding any rule, regulation, or order to the contrary, the [Consumer Product Safety] Commission shall comply with the requirements of section 27(k) of the Consumer Product Safety Act ([15 U.S.C. 2076(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2076/k&num=0&edition=prelim)) with respect to budget recommendations, legislative recommendations, testimony, and comments on legislation submitted by the Commission to the President or the Office of Management and Budget after the date of enactment of this Act [Aug. 14, 2008].”
@@ -2651,9 +2720,9 @@ The President of the National Academy of Sciences shall nominate for each Panel 
 
 **(e) Administrative support services** The Commission shall provide each Panel with such administrative support services as it may require to carry out its duties under [section 2080 of this title](./chapter-047-consumer-product-safety.md#section-2080).
 
-**(f) Compensation** A member of a Panel appointed under subsection (a) of this section shall be paid at a rate not to exceed the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including traveltime) during which the member is engaged in the actual performance of the duties of the Panel.
+**(f) Compensation** A member of a Panel appointed under subsection (a) shall be paid at a rate not to exceed the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including traveltime) during which the member is engaged in the actual performance of the duties of the Panel.
 
-**(g) Requests for and disclosures of information** Each Panel shall request information and disclose information to the public, as provided in subsection (h) of this section, only through the Commission.
+**(g) Requests for and disclosures of information** Each Panel shall request information and disclose information to the public, as provided in subsection (h), only through the Commission.
 
 **(h) Information from other Federal departments and agencies**
 
@@ -2713,7 +2782,7 @@ which the agency or authority makes available to any member of the public. No Fe
 
     (iii) with respect to a foreign law enforcement agency, with the approval of the Attorney General, other foreign criminal laws, if such foreign criminal laws are offenses defined in or covered by a criminal mutual legal assistance treaty in force between the government of the United States and the foreign law enforcement agency’s government; and
 
-  (C) in the case of a foreign government agency, such agency is not from a foreign state that the Secretary of State has determined, in accordance with section 2405(j) of the Appendix to title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 2405(j)(4) of the Appendix to title 50.
+  (C) in the case of a foreign government agency, such agency is not from a foreign state that the Secretary of State has determined, in accordance with [section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to [section 4605(j)(4) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/4&num=0&edition=prelim).
 
 (2) **Abrogation of agreements** — The Commission may abrogate any agreement or memorandum of understanding with another agency if the Commission determines that the other agency has failed to maintain in confidence any information provided under such agreement or memorandum of understanding, or has used any such information for purposes other than those set forth in such agreement or memorandum of understanding.
 
@@ -2745,6 +2814,9 @@ Subsecs. (f), (g). Pub. L. 110–314, § 207, added subsecs. (f) and (g).
 1988—Subsec. (d). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
 1976—Subsec. (e). Pub. L. 94–284 added subsec. (e).
+
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
 
 
 <a id="section-2079"></a>
@@ -2800,6 +2872,9 @@ Paragraphs (3) through (8)(A) of section 15(b) of the Clean Air Amendments of 19
 1976—Subsec. (a). Pub. L. 94–284, § 3(f), struck out “of the Administrator of the Environmental Protection Agency and” before “of the Secretary of Health, Education, and Welfare” and substituted “Federal Food, Drug, and Cosmetic Act” for “Acts amended by subsections (b) through (f) of section 7 of the Poison Prevention Act of 1970”.
 
 Subsec. (d). Pub. L. 94–284, § 16, inserted requirement that the Commission find by a rule, promulgated in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), that it is within the public interest to regulate a risk of injury under this chapter which could be eliminated or reduced by action under the enumerated acts.
+
+#### Effective Date
+Section effective on the later of 150 days after Oct. 27, 1972, or the date on which at least three members of the Commission first take office, see section 34(2) of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
 
 
 <a id="section-2080"></a>
@@ -2857,6 +2932,9 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(2)(D), is Pub. L.
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 applicable with respect to regulations under this chapter and chapters 25 and 30 of this title for which notices of proposed rulemaking are issued after Aug. 14, 1981, see section 1215 of Pub. L. 97–35, set out as a note under [section 2052 of this title](./chapter-047-consumer-product-safety.md#section-2052).
 
+#### Effective Date
+Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
+
 #### Manufacture or Sale of Firearms or Firearms Ammunition
 Pub. L. 94–284, § 3(e), May 11, 1976, 90 Stat. 504, provided that: “The Consumer Product Safety Commission shall make no ruling or order that restricts the manufacture or sale of firearms, firearms ammunition, or components of firearms ammunition, including black powder or gunpowder for firearms.”
 
@@ -2883,7 +2961,7 @@ Pub. L. 94–284, § 3(e), May 11, 1976, 90 Stat. 504, provided that: “The Con
 
   (B) whose interests may be substantially affected by the performance or nonperformance of the Commissioner’s or employee’s official duties.
 
-**(b) Limitation** No funds appropriated under subsection (a) of this section may be used to pay any claim described in [section 2053(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2053/i&num=0&edition=prelim) whether pursuant to a judgment of a court or under any award, compromise, or settlement of such claim made under [section 2672 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2672&num=0&edition=prelim), or under any other provision of law.
+**(b) Limitation** No funds appropriated under subsection (a) may be used to pay any claim described in [section 2053(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2053/i&num=0&edition=prelim) whether pursuant to a judgment of a court or under any award, compromise, or settlement of such claim made under [section 2672 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2672&num=0&edition=prelim), or under any other provision of law.
 
 ### Statutory Notes
 
@@ -2911,6 +2989,9 @@ Subsec. (c). Pub. L. 94–284, § 5(b), added subsec. (c).
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under [section 2052 of this title](./chapter-047-consumer-product-safety.md#section-2052).
 
+#### Effective Date
+Section effective Oct. 27, 1972, see section 34(1) of Pub. L. 92–573, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
+
 
 <a id="section-2082"></a>
 ## § 2082. Interim cellulose insulation safety standard
@@ -2920,9 +3001,9 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L
 
 (2) The interim consumer product safety standard established in paragraph (1) shall provide that any cellulose insulation which is produced or distributed for sale or use as a consumer product shall have a flame spread rating of 0 to 25, as such rating is set forth in the General Services Administration’s specification for cellulose insulation, HH–I–515C.
 
-(3) During the period for which the interim consumer product safety standard established in subsection (a) of this section is in effect, in addition to complying with any labeling requirement established by the Commission under this chapter, each manufacturer or private labeler of cellulose insulation shall include the following statement on any container of such cellulose insulation: “ATTENTION: This material meets the applicable minimum Federal flammability standard. This standard is based upon laboratory tests only, which do not represent actual conditions which may occur in the home”. Such statement shall be located in a conspicuous place on such container and shall appear in conspicuous and legible type in contrast by typography, layout, and color with other printed matter on such container.
+(3) During the period for which the interim consumer product safety standard established in subsection (a) is in effect, in addition to complying with any labeling requirement established by the Commission under this chapter, each manufacturer or private labeler of cellulose insulation shall include the following statement on any container of such cellulose insulation: “ATTENTION: This material meets the applicable minimum Federal flammability standard. This standard is based upon laboratory tests only, which do not represent actual conditions which may occur in the home”. Such statement shall be located in a conspicuous place on such container and shall appear in conspicuous and legible type in contrast by typography, layout, and color with other printed matter on such container.
 
-**(b) Scope of judicial review** Judicial review of the interim consumer product safety standard established in subsection (a) of this section, as such standard is in effect on and after the last day of the 60-day period specified in such subsection, shall be limited solely to the issue of whether any changes made by the Commission under paragraph (1) are technical, nonsubstantive changes. For purposes of such review, any change made by the Commission under paragraph (1) which requires that any test to determine the flame spread rating of cellulose insulation shall include a correction for variations in test results caused by equipment used in the test shall be considered a technical, nonsubstantive change.
+**(b) Scope of judicial review** Judicial review of the interim consumer product safety standard established in subsection (a), as such standard is in effect on and after the last day of the 60-day period specified in such subsection, shall be limited solely to the issue of whether any changes made by the Commission under paragraph (1) are technical, nonsubstantive changes. For purposes of such review, any change made by the Commission under paragraph (1) which requires that any test to determine the flame spread rating of cellulose insulation shall include a correction for variations in test results caused by equipment used in the test shall be considered a technical, nonsubstantive change.
 
 **(c) Enforcement; violations; promulgation of final standard; procedures applicable to promulgation; revision of interim standard; procedures applicable to revision**
 
@@ -2934,7 +3015,7 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L
 
 (2)
 
-  (A) Until there is in effect such a final consumer product safety standard, the Commission shall incorporate into the interim consumer product safety standard, in accordance with the provisions of this paragraph, each revision superseding the requirements for flame resistance and corrosiveness referred to in subsection (a) of this section and promulgated by the General Services Administration.
+  (A) Until there is in effect such a final consumer product safety standard, the Commission shall incorporate into the interim consumer product safety standard, in accordance with the provisions of this paragraph, each revision superseding the requirements for flame resistance and corrosiveness referred to in subsection (a) and promulgated by the General Services Administration.
 
   (B) At least 45 days before any revision superseding such requirements is to become effective, the Administrator of the General Services Administration shall notify the Commission of such revision. In the case of any such revision which becomes effective during the period beginning on February 1, 1978, and ending on July 11, 1978, such notice from the Administrator of the General Services Administration shall be deemed to have been made on July 11, 1978.
 
@@ -3007,7 +3088,7 @@ Pub. L. 95–319, § 2, July 11, 1978, 92 Stat. 386, provided that: “(a) The C
 ## § 2083. Congressional veto of consumer product safety rules
 **(a) Transmission to Congress** The Commission shall transmit to the Secretary of the Senate and the Clerk of the House of Representatives a copy of any consumer product safety rule promulgated by the Commission under [section 2058 of this title](./chapter-047-consumer-product-safety.md#section-2058).
 
-**(b) Disapproval by concurrent resolution** Any rule specified in subsection (a) of this section shall not take effect if—
+**(b) Disapproval by concurrent resolution** Any rule specified in subsection (a) shall not take effect if—
 
 (1) within the 90 calendar days of continuous session of the Congress which occur after the date of the promulgation of such rule, both Houses of the Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows (with the blank spaces appropriately filled): “That the Congress disapproves the consumer product safety rule which was promulgated by the Consumer Product Safety Commission with respect to and which was transmitted to the Congress on and disapproves the rule for the following reasons: .”; or
 
@@ -3019,7 +3100,7 @@ Pub. L. 95–319, § 2, July 11, 1978, 92 Stat. 386, provided that: “(a) The C
 
 (1) continuity of session is broken only by an adjournment of the Congress sine die; and
 
-(2) the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of the periods of continuous session of the Congress specified in subsection (b) of this section.
+(2) the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of the periods of continuous session of the Congress specified in subsection (b).
 
 ### Statutory Notes
 
@@ -3029,13 +3110,13 @@ Section applicable with respect to consumer product safety rules under this chap
 
 <a id="section-2084"></a>
 ## § 2084. Information reporting
-**(a) Notification of settlements or judgments** If a particular model of a consumer product is the subject of at least 3 civil actions that have been filed in Federal or State court for death or grievous bodily injury which in each of the 24-month periods defined in subsection (b) of this section result in either a final settlement involving the manufacturer or a court judgment in favor of the plaintiff, the manufacturer of such product shall, in accordance with subsection (c) of this section, report to the Commission each such civil action within 30 days after the final settlement or court judgment in the third of such civil actions, and, within 30 days after any subsequent settlement or judgment in that 24-month period, any other such action.
+**(a) Notification of settlements or judgments** If a particular model of a consumer product is the subject of at least 3 civil actions that have been filed in Federal or State court for death or grievous bodily injury which in each of the 24-month periods defined in subsection (b) result in either a final settlement involving the manufacturer or a court judgment in favor of the plaintiff, the manufacturer of such product shall, in accordance with subsection (c), report to the Commission each such civil action within 30 days after the final settlement or court judgment in the third of such civil actions, and, within 30 days after any subsequent settlement or judgment in that 24-month period, any other such action.
 
-**(b) Calculation of 24-month periods** The 24-month periods referred to in subsection (a) of this section are the 24-month period commencing on January 1, 1991, and subsequent 24-month periods beginning on January 1 of the calendar year that is two years following the beginning of the previous 24-month period.
+**(b) Calculation of 24-month periods** The 24-month periods referred to in subsection (a) are the 24-month period commencing on January 1, 1991, and subsequent 24-month periods beginning on January 1 of the calendar year that is two years following the beginning of the previous 24-month period.
 
 **(c) Information required to be reported**
 
-(1) The information required by subsection (a) of this section to be reported to the Commission, with respect to each civil action described in subsection (a) of this section, shall include and in addition to any voluntary information provided under paragraph (2) shall be limited to the following:
+(1) The information required by subsection (a) to be reported to the Commission, with respect to each civil action described in subsection (a), shall include and in addition to any voluntary information provided under paragraph (2) shall be limited to the following:
 
   (A) The name and address of the manufacturer.
 
@@ -3047,11 +3128,11 @@ Section applicable with respect to consumer product safety rules under this chap
 
   (E) in 11 So in original. Probably should be capitalized. the case of a judgment in favor of the plaintiff, the name of the civil action, the number assigned the civil action, and the court in which the civil action was filed.
 
-(2) A manufacturer furnishing the report required by paragraph (1) may include (A) a statement as to whether any judgment in favor of the plaintiff is under appeal or is expected to be appealed or (B) any other information which the manufacturer chooses to provide. A manufacturer reporting to the Commission under subsection (a) of this section need not admit or may specifically deny that the information it submits reasonably supports the conclusion that its consumer product caused a death or grievous bodily injury.
+(2) A manufacturer furnishing the report required by paragraph (1) may include (A) a statement as to whether any judgment in favor of the plaintiff is under appeal or is expected to be appealed or (B) any other information which the manufacturer chooses to provide. A manufacturer reporting to the Commission under subsection (a) need not admit or may specifically deny that the information it submits reasonably supports the conclusion that its consumer product caused a death or grievous bodily injury.
 
-(3) No statement of the amount paid by the manufacturer in a final settlement shall be required as part of the report furnished under subsection (a) of this section, nor shall such a statement of settlement amount be required under any other section of this chapter.
+(3) No statement of the amount paid by the manufacturer in a final settlement shall be required as part of the report furnished under subsection (a), nor shall such a statement of settlement amount be required under any other section of this chapter.
 
-**(d) Report not deemed an admission of liability** The reporting of a civil action described in subsection (a) of this section by a manufacturer shall not constitute an admission of—
+**(d) Report not deemed an admission of liability** The reporting of a civil action described in subsection (a) by a manufacturer shall not constitute an admission of—
 
 (1) an unreasonable risk of injury,
 
@@ -3083,7 +3164,7 @@ Pub. L. 101–608, title I, § 112(f), Nov. 16, 1990, 104 Stat. 3117, provided t
 
 **(c) Promulgation of requirements** To further protect the safety of consumers who ride low-speed electric bicycles, the Commission may promulgate new or amended requirements applicable to such vehicles as necessary and appropriate.
 
-**(d) Preemption** This section shall supersede any State law or requirement with respect to low-speed electric bicycles to the extent that such State law or requirement is more stringent than the Federal law or requirements referred to in subsection (a) of this section.
+**(d) Preemption** This section shall supersede any State law or requirement with respect to low-speed electric bicycles to the extent that such State law or requirement is more stringent than the Federal law or requirements referred to in subsection (a).
 
 ### Statutory Notes
 

@@ -34,7 +34,7 @@ source: >-
 
 <a id="section-4602"></a>
 ## § 4602. Grants to Sematech
-**(a) Authority to make grants** The Secretary of Defense shall make grants, in accordance with [section 6304 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6304&num=0&edition=prelim), to Sematech in order to defray expenses incurred by Sematech in conducting research on and development of semiconductor manufacturing technology. The grants shall be made in accordance with a memorandum of understanding entered into under subsection (b) of this section.
+**(a) Authority to make grants** The Secretary of Defense shall make grants, in accordance with [section 6304 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6304&num=0&edition=prelim), to Sematech in order to defray expenses incurred by Sematech in conducting research on and development of semiconductor manufacturing technology. The grants shall be made in accordance with a memorandum of understanding entered into under subsection (b).
 
 **(b) Memorandum of understanding** The Secretary of Defense shall enter into a memorandum of understanding with Sematech for the purposes of this subchapter. The memorandum of understanding shall require the following:
 
@@ -54,11 +54,14 @@ source: >-
 
 (6) That Sematech take all steps necessary to maximize the expeditious and timely transfer of technology developed and owned by Sematech to the participants in Sematech in accordance with the agreement between Sematech and those participants and for the purpose of improving manufacturing productivity of United States semiconductor firms.
 
-**(c) Construction of memorandum of understanding** The memorandum of understanding entered into under subsection (b) of this section shall not be considered to be a contract for the purpose of any law or regulation relating to the formation, content, and administration of contracts awarded by the Federal Government and subcontracts under such contracts, including [section 2306a of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306a&num=0&edition=prelim), section 2168 of the Appendix to title 50, and the Federal Acquisition Regulations, and such provisions of law and regulation shall not apply with respect to the memorandum of understanding.
+**(c) Construction of memorandum of understanding** The memorandum of understanding entered into under subsection (b) shall not be considered to be a contract for the purpose of any law or regulation relating to the formation, content, and administration of contracts awarded by the Federal Government and subcontracts under such contracts, including [section 2306a of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306a&num=0&edition=prelim), section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168),11 See References in Text note below. and the Federal Acquisition Regulations, and such provisions of law and regulation shall not apply with respect to the memorandum of understanding.
 
 **(d) Funding for FY88** Of the amounts appropriated to the Defense Agencies for fiscal year 1988 for research, development, test, and evaluation, $100,000,000 may be obligated only to make grants under this section.
 
 ### Statutory Notes
+
+#### References in Text
+Section 719 of the Defense Production Act of 1950, referred to in subsec. (c), is section 719 of act Sept. 8, 1950, ch. 932, title VII, as added Pub. L. 91–379, title I, § 103, Aug. 15, 1970, 84 Stat. 796, which was formerly classified to section 2168 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 100–679, § 5(b), Nov. 17, 1988, 102 Stat. 4063.
 
 #### Amendments
 1993—Subsec. (b)(1)(B). Pub. L. 103–160 substituted “Semiconductor Technology Council” for “Advisory Council on Federal Participation in Sematech”.
@@ -122,9 +125,9 @@ source: >-
 
   (D) One individual who is eminent in an academic institution.
 
-**(d) Terms of membership** Each member of the Council appointed under subsection (c)(7) of this section shall be appointed for a term of three years, except that of the members first appointed, two shall be appointed for a term of one year, five shall be appointed for a term of two years, and three shall be appointed for a term of three years, as designated by the President at the time of appointment. A member of the Council may serve after the expiration of the member’s term until a successor has taken office.
+**(d) Terms of membership** Each member of the Council appointed under subsection (c)(7) shall be appointed for a term of three years, except that of the members first appointed, two shall be appointed for a term of one year, five shall be appointed for a term of two years, and three shall be appointed for a term of three years, as designated by the President at the time of appointment. A member of the Council may serve after the expiration of the member’s term until a successor has taken office.
 
-**(e) Vacancies** A vacancy in the Council shall not affect its powers but, in the case of a member appointed under subsection (c)(7) of this section, shall be filled in the same manner as the original appointment was made. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term.
+**(e) Vacancies** A vacancy in the Council shall not affect its powers but, in the case of a member appointed under subsection (c)(7), shall be filled in the same manner as the original appointment was made. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term.
 
 **(f) Quorum** Eleven members of the Council shall constitute a quorum.
 
@@ -184,7 +187,7 @@ Pub. L. 103–160, div. A, title II, § 263(g), Nov. 30, 1993, 107 Stat. 1610, p
 ## § 4603a. Study and report by Semiconductor Technology Council
 **(a) Study and report** Not later than February 1, 1989, and annually thereafter for each fiscal year in which appropriated funds are expended for Sematech the Semiconductor Technology Council established under [section 4603(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4603/a&num=0&edition=prelim) shall conduct a study and submit a report to the Governmental Affairs Committee and the Armed Services Committee of the Senate and to appropriate committees of the House of Representatives concerning Federal participation in Sematech. The study and report shall be conducted under the direction of the Under Secretary of Commerce for Technology.
 
-**(b) Council recommendations and report** The Council shall include in the report submitted under subsection (a) of this section the following:
+**(b) Council recommendations and report** The Council shall include in the report submitted under subsection (a) the following:
 
 (1) identification of potential sources of Federal funding from department and agency budgets for Sematech and recommendations concerning methods and terms of Federal financial participation in Sematech, including grants, loans, loan guarantees, and contributions in kind. The feasibility of methods of Federal recoupment shall also be considered;
 
@@ -219,12 +222,12 @@ Section, Pub. L. 100–180, div. A, title II, § 274, Dec. 4, 1987, 101 Stat. 10
 <a id="section-4605"></a>
 ## § 4605. Export of semiconductor manufacturing
 
-Any export of materials, equipment, and technology developed by Sematech in whole or in part with financial assistance provided under [section 4602(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4602/a&num=0&edition=prelim) shall be subject to the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) and shall not be subject to the Arms Export Control Act [[22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) et seq.].
+Any export of materials, equipment, and technology developed by Sematech in whole or in part with financial assistance provided under [section 4602(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4602/a&num=0&edition=prelim) shall be subject to the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) [now [50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.] and shall not be subject to the Arms Export Control Act [[22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) et seq.].
 
 ### Statutory Notes
 
 #### References in Text
-The Export Administration Act of 1979, referred to in text, is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2401 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2401&num=0&edition=prelim), Appendix, and Tables.
+The Export Administration Act of 1979, referred to in text, is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The Arms Export Control Act, referred to in text, is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) and Tables.
 
@@ -292,7 +295,7 @@ The Secretary of Energy may authorize temporary exchanges of personnel between t
 
 <a id="section-4625"></a>
 ## § 4625. Other Department of Energy resources
-**(a) Availability of resources** Subject to subsection (b) of this section, the Secretary of Energy may make available to the Department of Defense, to any other department or agency of the Federal Government, and to any consortium that has entered into an agreement in furtherance of the Initiative any facilities, personnel, equipment, services, and other resources of the Department of Energy for the purpose of conducting research and development projects under the Initiative consistent with [section 4623(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4623/a&num=0&edition=prelim).
+**(a) Availability of resources** Subject to subsection (b), the Secretary of Energy may make available to the Department of Defense, to any other department or agency of the Federal Government, and to any consortium that has entered into an agreement in furtherance of the Initiative any facilities, personnel, equipment, services, and other resources of the Department of Energy for the purpose of conducting research and development projects under the Initiative consistent with [section 4623(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4623/a&num=0&edition=prelim).
 
 **(b) Reimbursement** The Secretary may make facilities available under this section only to the extent that the cost of the use of such facilities is reimbursed by the user.
 
@@ -301,7 +304,7 @@ The Secretary of Energy may authorize temporary exchanges of personnel between t
 ## § 4626. Budgeting for semiconductor manufacturing technology research
 **(a) Budget submission** To the extent the Secretary considers appropriate and necessary, the Secretary of Energy, in preparing the research and development budget of the Department of Energy to be included in the annual budget submitted to the Congress by the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), shall provide for programs, projects, and activities that encourage the development of new technology in the field of semiconductors.
 
-**(b) Budget categories** The programs, projects, and activities described in subsection (a) of this section shall be included in the budget for general science and research activities of the Department of Energy, except that any programs, projects, and activities that directly support and directly benefit the defense activities of the Department shall be included in the budget for atomic energy defense activities of the Department of Energy.
+**(b) Budget categories** The programs, projects, and activities described in subsection (a) shall be included in the budget for general science and research activities of the Department of Energy, except that any programs, projects, and activities that directly support and directly benefit the defense activities of the Department shall be included in the budget for atomic energy defense activities of the Department of Energy.
 
 
 <a id="section-4627"></a>
@@ -380,7 +383,7 @@ There is authorized to be appropriated to the Department of Energy for fiscal ye
 
   (A) collect and analyze information on the needs and capabilities of industry, the Federal Government, and the scientific and research communities related to semiconductor technology;
 
-  (B) identify the components of a successful national semiconductor strategy in accordance with subsection (b)(2)(B) of this section;
+  (B) identify the components of a successful national semiconductor strategy in accordance with subsection (b)(2)(B);
 
   (C) analyze options, establish priorities, and recommend roles for participants in the national strategy;
 
@@ -418,7 +421,7 @@ There is authorized to be appropriated to the Department of Energy for fiscal ye
 
 (4) The Chairman shall call the first meeting of the Committee not later than 90 days after August 23, 1988.
 
-(5) At the close of each fiscal year the Committee shall submit to the President and the Congress a report on its activities conducted during such year and its planned activities for the coming year, including specific findings and recommendations with respect to the national semiconductor strategy devised and promulgated under subsection (b)(2)(B) of this section. The first report shall include an analysis of those technical areas, including manufacturing, which are of importance to the United States semiconductor industry, and shall make specific recommendations regarding the appropriate Federal role in correcting any deficiencies identified by the analysis. Each report shall include an estimate of the length of time the Committee must continue before the achievement of its purposes and the issuance of its final report.
+(5) At the close of each fiscal year the Committee shall submit to the President and the Congress a report on its activities conducted during such year and its planned activities for the coming year, including specific findings and recommendations with respect to the national semiconductor strategy devised and promulgated under subsection (b)(2)(B). The first report shall include an analysis of those technical areas, including manufacturing, which are of importance to the United States semiconductor industry, and shall make specific recommendations regarding the appropriate Federal role in correcting any deficiencies identified by the analysis. Each report shall include an estimate of the length of time the Committee must continue before the achievement of its purposes and the issuance of its final report.
 
 **(f) Authorization of appropriations** There are authorized to be appropriated to carry out the purposes of this section such sums as may be necessary for the fiscal years 1988, 1989, 1990, 1991, 1992, and 1993.
 

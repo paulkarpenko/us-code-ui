@@ -69,7 +69,7 @@ Pub. L. 99–433, title III, § 303, Oct. 1, 1986, 100 Stat. 1023, directed Secr
 
 ### Statutory Notes
 
-#### Amendment of Subsection (e)(2)
+#### Reference in Subsection (e)(2)
 Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469, provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See Change of Name note below.
 
 #### Prior Provisions
@@ -87,7 +87,7 @@ Subsec. (e)(2). Pub. L. 110–181, § 904(c), substituted “that the Director o
 1998—Subsec. (d). Pub. L. 105–261 added subsec. (d).
 
 #### Change of Name
-“Under Secretary of Defense for Business Management and Information” substituted for “Deputy Chief Management Officer of the Department of Defense” in subsec. (e)(2) after Feb. 1, 2017, on authority of section 901(n)(1) of Pub. L. 113–291, set out as a note under [section 131 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-131).
+Reference to “Deputy Chief Management Officer of the Department of Defense” in subsec. (e)(2) deemed to refer to “Under Secretary of Defense for Business Management and Information” after Feb. 1, 2017, pursuant to section 901(n)(1) of Pub. L. 113–291, set out as a References note under [section 131 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-131). Section 901(a)(1) of Pub. L. 113–291, which amended [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a), effective Feb. 1, 2017, to establish the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 114–328, div. A, title IX, § 901(d), Dec. 23, 2016, 130 Stat. 2342, effective Dec. 23, 2016.
 
 #### First Review of Defense Agencies by Secretary of Defense
 Pub. L. 99–433, title III, § 304(a), Oct. 1, 1986, 100 Stat. 1024, required the first review under subsec. (c) of this section to be completed not later than two years after the date that the report under Pub. L. 99–433, § 303(e), formerly set out as a note under [section 191 of this title](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-191), was required to be submitted to Congress (Oct. 1, 1987).
@@ -228,7 +228,7 @@ Pub. L. 105–85, div. A, title III, § 387(c), Nov. 18, 1997, 111 Stat. 1713, a
 
 **(b) Director and Deputy Director.—**
 
-(1) At the head of the Center shall be a Director, selected by the Secretary from among individuals who have substantial experience in the field of test and evaluation. A commissioned officer serving as the Director, while so serving, holds the grade of lieutenant general or, in the case of an officer of the Navy, vice admiral. A civilian officer or employee serving as the Director, while so serving, has a pay level equivalent in grade to lieutenant general.
+(1) At the head of the Center shall be a Director, selected by the Secretary from among individuals who have substantial experience in the field of test and evaluation.
 
 (2) There shall be a Deputy Director of the Center, selected by the Secretary from among individuals who have substantial experience in the field of test and evaluation. The Deputy Director shall act for, and exercise the powers of, the Director when the Director is disabled or the position of Director is vacant.
 
@@ -240,7 +240,7 @@ Pub. L. 105–85, div. A, title III, § 387(c), Nov. 18, 1997, 111 Stat. 1713, a
 
     (i) the test and evaluation facilities and resources of the Major Range and Test Facility Base of the Department of Defense; and
 
-    (ii) all other test and evaluation facilities and resources within and outside of the Department of Defense, other than budgets and expenditures for activities described in section 139(i) 11 See References in Text note below. of this title.
+    (ii) all other test and evaluation facilities and resources within and outside of the Department of Defense, other than budgets and expenditures for activities described in [section 139(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section139/j&num=0&edition=prelim).
 
   (B) To review proposed significant changes to the test and evaluation facilities and resources of the Major Range and Test Facility Base, including with respect to the expansion, divestment, consolidation, or curtailment of activities, before they are implemented by the Secretaries of the military departments or the heads of the Defense Agencies with test and evaluation responsibilities and advise the Secretary of Defense and the Under Secretary of Acquisition, Technology, and Logistics of the impact of such changes on the adequacy of such test and evaluation facilities and resources to meet the test and evaluation requirements of the Department.
 
@@ -310,10 +310,11 @@ Pub. L. 105–85, div. A, title III, § 387(c), Nov. 18, 1997, 111 Stat. 1713, a
 
 ### Statutory Notes
 
-#### References in Text
-[Section 139(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section139/i&num=0&edition=prelim), referred to in subsec. (c)(1)(A)(ii), was redesignated as [section 139(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section139/j&num=0&edition=prelim) by Pub. L. 110–181, title II, § 221, Jan. 28, 2008, 122 Stat. 37.
-
 #### Amendments
+2016—Subsec. (b)(1). Pub. L. 114–328, § 502(c), struck out second and third sentences which read as follows: “A commissioned officer serving as the Director, while so serving, holds the grade of lieutenant general or, in the case of an officer of the Navy, vice admiral. A civilian officer or employee serving as the Director, while so serving, has a pay level equivalent in grade to lieutenant general.”
+
+Subsec. (c)(1)(A)(ii). Pub. L. 114–328, § 1081(a)(3), substituted “section 139(j)” for “section 139(i)”.
+
 2014—Subsec. (c)(1)(B). Pub. L. 113–291, § 214(a), inserted “, including with respect to the expansion, divestment, consolidation, or curtailment of activities,” after “Base”.
 
 Subsec. (d)(2)(E) to (G). Pub. L. 113–291, § 214(b), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
@@ -335,6 +336,9 @@ Subsec. (h). Pub. L. 109–163, § 258(a), substituted “Secretary of Defense�
 Subsec. (c)(1)(B). Pub. L. 108–136, § 212(b)(1), inserted “, other than budgets and expenditures for activities described in [section 139(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section139/i&num=0&edition=prelim)” after “Department of Defense”.
 
 Subsec. (e)(1). Pub. L. 108–136, § 212(b)(2), struck out “, the Director of Operational Test and Evaluation,” after “each military department” and substituted “or Defense Agency head’s” for “, Director’s, or head’s”.
+
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsecs. (d)(1), (4), and (e)(3) of this section requiring submittal of report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
 #### Administration of Programs To Begin After First Strategic Plan
 Pub. L. 107–314, div. A, title II, § 231(b), (c), Dec. 2, 2002, 116 Stat. 2489, directed that the first strategic plan required to be completed under subsec. (d)(1) of this section was to be completed not later than six months after Dec. 2, 2002, and that the duty of the Director of the Department of Defense Test Resource Management Center to administer the programs specified in subsec. (c)(4) of this section would take effect upon the beginning of the first fiscal year that began after the report on the first strategic plan was transmitted to committees of Congress.
@@ -425,14 +429,11 @@ Section, added Pub. L. 97–269, title V, § 501(a), Sept. 27, 1982, 96 Stat. 11
 
 
 <a id="section-203"></a>
-## § 203. Director of Missile Defense Agency
-
-If an officer of the armed forces on active duty is appointed to the position of Director of the Missile Defense Agency, the position shall be treated as having been designated by the President as a position of importance and responsibility for purposes of [section 601 of this title](./chapter-035-temporary-appointments-in-officer-grades.md#section-601) and shall carry the grade of lieutenant general or general or, in the case of an officer of the Navy, vice admiral or admiral.
+## § 203. Repealed. Pub. L. 114–328, div. A, title V, § 502(d)(1), Dec. 23, 2016, 130 Stat. 2102]
 
 ### Statutory Notes
 
-#### Amendments
-2002—Pub. L. 107–314 substituted “Missile Defense Agency” for “Ballistic Missile Defense Organization” in section catchline and text.
+Section, added Pub. L. 105–85, div. A, title II, § 235(a), Nov. 18, 1997, 111 Stat. 1665; amended Pub. L. 107–314, div. A, title II, § 225(b)(1)(A), (B)(i), Dec. 2, 2002, 116 Stat. 2486, related to appointment of Director of Missile Defense Agency.
 
 
 <a id="section-204"></a>

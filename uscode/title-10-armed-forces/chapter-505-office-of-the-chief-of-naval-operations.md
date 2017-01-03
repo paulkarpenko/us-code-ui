@@ -70,7 +70,7 @@ A prior section 5032 was renumbered [section 5013a of this title](./chapter-503-
 
   (A) the officer has had significant experience in joint duty assignments; and
 
-  (B) such experience includes at least one full tour of duty in a joint duty assignment (as defined in [section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim)) as a flag officer.
+  (B) such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) 1 of this title) as a flag officer.
 
 (3) The President may waive paragraph (2) in the case of an officer if the President determines such action is necessary in the national interest.
 
@@ -88,7 +88,7 @@ A prior section 5032 was renumbered [section 5013a of this title](./chapter-503-
 
 (4) exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Navy and the Marine Corps as the Secretary determines;
 
-(5) perform the duties prescribed for him by [section 171 of this title](./chapter-007-boards-councils-and-committees.md#section-171) and other provisions of law; and
+(5) perform the duties prescribed for him by sections 171 and 2547 of this title and other provisions of law; and
 
 (6) perform such other military duties, not otherwise assigned by law, as are assigned to him by the President, the Secretary of Defense, or the Secretary of the Navy.
 
@@ -102,12 +102,17 @@ A prior section 5032 was renumbered [section 5013a of this title](./chapter-503-
 
 ### Statutory Notes
 
+#### References in Text
+[Section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim), referred to in subsec. (a)(2)(B), was redesignated as [section 664(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/d&num=0&edition=prelim) by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
+
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 5081 and 5082 of this title prior to enactment of Pub. L. 99–433.
 
 A prior section 5033, acts Aug. 10, 1956, ch. 1041, 70A Stat. 279; Sept. 2, 1958, Pub. L. 85–861, § 1(108), 72 Stat. 1490; Aug. 14, 1964, Pub. L. 88–426, title III, §§ 305(5), 306(j)(5), 78 Stat. 422, 432, related to appointment and duties of Under Secretary of the Navy, prior to repeal by Pub. L. 99–433, § 511(e). See [section 5015 of this title](./chapter-503-department-of-the-navy.md#section-5015).
 
 #### Amendments
+2015—Subsec. (d)(5). Pub. L. 114–92 substituted “sections 171 and 2547” for “section 171”.
+
 2003—Subsec. (a)(1). Pub. L. 108–136 substituted “from the flag officers of the Navy” for “from officers on the active-duty list in the line of the Navy who are eligible to command at sea and who hold the grade of rear admiral or above”.
 
 1988—Subsec. (a)(2)(B). Pub. L. 100–456 substituted “full tour of duty in a joint duty assignment (as defined in [section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim))” for “joint duty assignment”.
@@ -191,15 +196,15 @@ Provisions similar to those in this section were contained in [section 5087 of t
 ## § 5038. Director for Expeditionary Warfare
 **(a)** One of the Directors within the office of the Deputy Chief of Naval Operations with responsibility for warfare requirements and programs shall be the Director for Expeditionary Warfare who shall be detailed from officers on the active-duty list of the Marine Corps.
 
-**(b)** An officer assigned to the position of Director for Expeditionary Warfare, while so serving, has the grade of major general.
+**(b)** The principal duty of the Director for Expeditionary Warfare shall be to supervise the performance of all staff responsibilities of the Chief of Naval Operations regarding expeditionary warfare, including responsibilities regarding amphibious lift, mine warfare, naval fire support, and other missions essential to supporting expeditionary warfare.
 
-**(c)** The principal duty of the Director for Expeditionary Warfare shall be to supervise the performance of all staff responsibilities of the Chief of Naval Operations regarding expeditionary warfare, including responsibilities regarding amphibious lift, mine warfare, naval fire support, and other missions essential to supporting expeditionary warfare.
-
-**(d)** The Chief of Naval Operations shall transfer duties, responsibilities, and staff from other personnel within the Office of the Chief of Naval Operations as necessary to fully support the Director for Expeditionary Warfare.
+**(c)** The Chief of Naval Operations shall transfer duties, responsibilities, and staff from other personnel within the Office of the Chief of Naval Operations as necessary to fully support the Director for Expeditionary Warfare.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsecs. (b) to (d). Pub. L. 114–328 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “An officer assigned to the position of Director for Expeditionary Warfare, while so serving, has the grade of major general.”
+
 2001—Subsec. (a). Pub. L. 107–107 substituted “office of the Deputy Chief of Naval Operations with responsibility for warfare requirements and programs” for “Office of the Deputy Chief of Naval Operations for Resources, Warfare Requirements, and Assessments”.
 
 1993—Subsec. (e). Pub. L. 103–160 struck out subsec. (e) which read as follows: “This section shall cease to apply on November 1, 1997.”

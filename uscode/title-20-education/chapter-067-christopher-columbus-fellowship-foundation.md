@@ -37,7 +37,7 @@ Pub. L. 102–281, title IV, § 421, May 13, 1992, 106 Stat. 142, provided that:
 
 **(c) Chairman and Vice Chairman of Foundation** The President shall designate a Chairman and a Vice Chairman from among the members appointed by the President.
 
-**(d) Terms of office; vacancies** Each member of the Board of Trustees appointed under subsection (b) of this section shall serve for a term of 6 years from the expiration of the term of such member’s predecessor, except that—
+**(d) Terms of office; vacancies** Each member of the Board of Trustees appointed under subsection (b) shall serve for a term of 6 years from the expiration of the term of such member’s predecessor, except that—
 
 (1) any member appointed to fill a vacancy occurring prior to the expiration of the term for which such member’s predecessor was appointed shall be appointed for the remainder of such term; and
 
@@ -72,9 +72,9 @@ Each person awarded a fellowship under this chapter shall receive a stipend as d
 ## § 5705. Christopher Columbus Fellowship Fund
 **(a) In general** There is established in the Treasury a fund to be known as the Christopher Columbus Scholarship 11 So in original. Probably should be “Fellowship”. Fund (hereafter in this chapter referred to as the “fund”), which shall consist of—
 
-(1) amounts deposited under subsection (d) of this section;
+(1) amounts deposited under subsection (d);
 
-(2) obligations obtained under subsection (c) of this section;
+(2) obligations obtained under subsection (c);
 
 (3) amounts contributed to the Foundation;
 
@@ -94,7 +94,7 @@ Each person awarded a fellowship under this chapter shall receive a stipend as d
 
 (3) **Special obligations** — The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of special obligations exclusively to the fund. Such special obligations shall bear interest at a rate equal to the average rate of interest, computed as to the end of the calendar month preceding the date of such issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt; except that, if such average rate is not a multiple of ⅛ of 1 percent, the rate of interest of such special obligations shall be the multiple of ⅛ of 1 percent next lower than such average rate. Such special obligations shall be issued only if the Secretary determines that the purchase of other obligations of the United States, or of obligations guaranteed as to both principal and interest by the United States or original issue at the market price, is not in the public interest.
 
-**(c) Sale of obligations** Any obligations acquired by the fund (except special obligations issued exclusively to the fund in accordance with subsection (b)(3) of this section) may be sold by the Secretary at the market price, and such special obligations may be redeemed at par plus accrued interest.
+**(c) Sale of obligations** Any obligations acquired by the fund (except special obligations issued exclusively to the fund in accordance with subsection (b)(3)) may be sold by the Secretary at the market price, and such special obligations may be redeemed at par plus accrued interest.
 
 **(d) Interest** The interest on, and the proceeds from, the sale or redemption of any obligations held in the fund shall be credited to and form a part of the fund.
 

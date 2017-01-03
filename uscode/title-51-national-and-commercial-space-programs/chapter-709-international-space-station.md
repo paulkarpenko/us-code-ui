@@ -165,9 +165,16 @@ The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–
 
 
 <a id="section-70907"></a>
-## § 70907. Maintaining use through at least 2020
+## § 70907. Maintaining use through at least 2024
+**(a) Policy.—** The Administrator shall take all necessary steps to ensure that the International Space Station remains a viable and productive facility capable of potential United States utilization through at least September 30, 2024.
 
-The Administrator shall take all necessary steps to ensure that the International Space Station remains a viable and productive facility capable of potential United States utilization through at least 2020 and shall take no steps that would preclude its continued operation and utilization by the United States after 2015.
+**(b) NASA Actions.—** In furtherance of the policy under subsection (a), the Administrator shall ensure, to the extent practicable, that the International Space Station, as a designated national laboratory—
+
+(1) remains viable as an element of overall exploration and partnership strategies and approaches;
+
+(2) is considered for use by all NASA mission directorates, as appropriate, for technically appropriate scientific data gathering or technology risk reduction demonstrations; and
+
+(3) remains an effective, functional vehicle providing research and test bed capabilities for the United States through at least September 30, 2024.
 
 ### Statutory Notes
 
@@ -175,3 +182,6 @@ The Administrator shall take all necessary steps to ensure that the Internationa
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 70907 | [42 U.S.C. 17751(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17751/a&num=0&edition=prelim). | Pub. L. 110–422, title VI, § 601(a), Oct. 15, 2008, 122 Stat. 4793. |
+
+#### Amendments
+2015—Pub. L. 114–90 amended section generally. Prior to amendment, section related to maintaining the International Space Station as a viable and productive facility capable of potential United States utilization through at least 2020.

@@ -231,14 +231,24 @@ It is the sense of Congress that the human rights of North Koreans should remain
 
 **(c) Report** Not later than 1 year after October 18, 2004, and annually through 2017, the Secretary of State, after consultation with the heads of other appropriate Federal departments and agencies, shall submit to the appropriate congressional committees a report, in classified form, on actions taken pursuant to this section.
 
+**(d) Information technology study** Not later than 180 days after the date of the enactment of the North Korea Sanctions and Policy Enhancement Act of 2015,11 See References in Text note below. the President shall submit to the appropriate congressional committees a classified report that sets forth a detailed plan for making unrestricted, unmonitored, and inexpensive electronic mass communications available to the people of North Korea.
+
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of the North Korea Sanctions and Policy Enhancement Act of 2015, referred to in subsec. (d), probably means the date of enactment of the North Korea Sanctions and Policy Enhancement Act of 2016, Pub. L. 114–122, which was approved Feb. 18, 2016.
+
 #### Amendments
+2016—Subsec. (d). Pub. L. 114–122 added subsec. (d).
+
 2012—Subsecs. (b)(1), (c). Pub. L. 112–172 substituted “2017” for “2012”.
 
 2008—Subsec. (b)(1). Pub. L. 110–346, § 7(1), substituted “2012” for “2008”.
 
 Subsec. (c). Pub. L. 110–346, § 7(2), substituted “annually through 2012” for “in each of the 3 years thereafter”.
+
+#### Delegation of Functions
+Functions of President under section 301 of Pub. L. 114–122 (adding subsec. (d) of this section) delegated to Secretary of State by Memorandum of President of the United States, May 18, 2016, 81 F.R. 37479, set out as a note under [section 9212 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9212).
 
 
 <a id="section-7831"></a>

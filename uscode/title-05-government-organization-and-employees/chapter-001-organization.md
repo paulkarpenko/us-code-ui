@@ -54,6 +54,24 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 #### Effective Date of 1966 Amendment
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
+#### Short Title of 2016 Amendment
+Pub. L. 114–328, div. A, title XI, § 1138(a), Dec. 23, 2016, 130 Stat. 2460, provided that: “This section [enacting sections 6329a to 6329c of this title, amending [section 6502 of this title](./chapter-065-telework.md#section-6502), and enacting provisions set out as notes under [section 6329a of this title](./chapter-063-leave.md#section-6329a)] may be cited as the ‘Administrative Leave Act of 2016’.”
+
+Pub. L. 114–302, § 1, Dec. 16, 2016, 130 Stat. 1516, provided that: “This Act [amending [section 2303 of this title](./chapter-023-merit-system-principles.md#section-2303)] may be cited as the ‘Federal Bureau of Investigation Whistleblower Protection Enhancement Act of 2016’.”
+
+Pub. L. 114–185, § 1, June 30, 2016, 130 Stat. 538, provided that: “This Act [amending [section 552 of this title](./chapter-005-administrative-procedure.md#section-552) and [section 3102 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3102&num=0&edition=prelim), Public Printing and Documents, and enacting provisions set out as notes under [section 552 of this title](./chapter-005-administrative-procedure.md#section-552)] may be cited as the ‘FOIA Improvement Act of 2016’.”
+
+Pub. L. 114–137, § 1, Mar. 18, 2016, 130 Stat. 310, provided that: “This Act [amending sections 3318, 3319, and 9510 of this title and enacting provisions set out as a note under [section 3318 of this title](./chapter-033-examination-selection-and-placement.md#section-3318)] may be cited as the ‘Competitive Service Act of 2015’.”
+
+Pub. L. 114–136, § 1, Mar. 18, 2016, 130 Stat. 301, provided that: “This Act [amending sections 8331, 8701, and 8901 of this title and [section 2203 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section2203&num=0&edition=prelim), Public Printing and Documents, enacting provisions set out as a note under [section 3101 of this title](./chapter-031-authority-for-employment.md#section-3101), amending provisions set out as a note under [section 102 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim), The President, and repealing provisions set out as a note under [section 102 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim)] may be cited as the ‘Edward “Ted” Kaufman and Michael Leavitt Presidential Transitions Improvements Act of 2015’.”
+
+#### Short Title of 2015 Amendment
+Pub. L. 114–75, § 1, Nov. 5, 2015, 129 Stat. 640, provided that: “This Act [enacting [section 6329 of this title](./chapter-063-leave.md#section-6329) and provisions set out as notes under [section 6329 of this title](./chapter-063-leave.md#section-6329)] may be cited as the ‘Wounded Warriors Federal Leave Act of 2015’.”
+
+Pub. L. 114–62, § 1, Oct. 7, 2015, 129 Stat. 547, provided that: “This Act [amending [section 2108 of this title](./chapter-021-definitions.md#section-2108) and enacting provisions set out as a note under [section 2108 of this title](./chapter-021-definitions.md#section-2108)] may be cited as the ‘Gold Star Fathers Act of 2015’.”
+
+Pub. L. 114–47, § 1, Aug. 7, 2015, 129 Stat. 485, provided that: “This Act [enacting chapter 96 of this title] may be cited as the ‘Land Management Workforce Flexibility Act’.”
+
 #### Short Title of 2014 Amendment
 Pub. L. 113–277, § 1, Dec. 18, 2014, 128 Stat. 2995, provided that: “This Act [enacting [section 5550 of this title](./chapter-055-pay-administration.md#section-5550) and [section 147 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section147&num=0&edition=prelim), Domestic Security, amending sections 3132, 5542, 5547, and 8331 of this title and [section 213 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section213&num=0&edition=prelim), Labor, and enacting provisions set out as notes under sections 5542 and 5550 of this title and [section 146 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section146&num=0&edition=prelim)] may be cited as the ‘Border Patrol Agent Pay Reform Act of 2014’.”
 

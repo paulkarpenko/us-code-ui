@@ -88,7 +88,7 @@ For purposes of this chapter—
 
   (G) referral to other sources of assistance or resources.
 
-(5) The term “service unit” means an administrative entity within the Indian Health Service or a tribe or tribal organization operating health care programs or facilities with funds from the Indian Health Service under the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.] through which the services are provided, directly or by contract, to the eligible Indian population within a defined geographic area.
+(5) The term “service unit” means an administrative entity within the Indian Health Service or a tribe or tribal organization operating health care programs or facilities with funds from the Indian Health Service under the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.] through which the services are provided, directly or by contract, to the eligible Indian population within a defined geographic area.
 
 (6) The terms “Urban Indian”, “Urban Center”, and “Urban Indian Organization” shall have the same meaning as provided in [section 1603 of this title](./chapter-018-indian-health-care.md#section-1603).
 
@@ -97,7 +97,7 @@ For purposes of this chapter—
 #### References in Text
 The Alaska Native Claims Settlement Act, referred to in par. (3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
-The Indian Self-Determination Act, referred to in par. (5), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in par. (5), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Amendments
 1988—Par. (6). Pub. L. 100–690 added par. (6).
@@ -130,9 +130,9 @@ The Indian Self-Determination Act, referred to in par. (5), is title I of Pub. L
 
 (7) provide for an annual review of such agreements by the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services.
 
-**(b) Character of activities** To the extent that there are new activities undertaken pursuant to this chapter, those activities shall supplement, not supplant, activities, programs, and local actions that are ongoing on October 27, 1986. Such activities shall be undertaken in the manner least disruptive to tribal control, in accordance with the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), and local control, in accordance with section 2010 11 See References in Text note below. of this title.
+**(b) Character of activities** To the extent that there are new activities undertaken pursuant to this chapter, those activities shall supplement, not supplant, activities, programs, and local actions that are ongoing on October 27, 1986. Such activities shall be undertaken in the manner least disruptive to tribal control, in accordance with the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.),11 See References in Text note below. and local control, in accordance with section 2010 1 of this title.
 
-**(c) Consultation** The Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall, in developing the Memorandum of Agreement under subsection (a) of this section, consult with and solicit the comments of—
+**(c) Consultation** The Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall, in developing the Memorandum of Agreement under subsection (a), consult with and solicit the comments of—
 
 (1) interested Indian tribes,
 
@@ -142,12 +142,12 @@ The Indian Self-Determination Act, referred to in par. (5), is title I of Pub. L
 
 (4) professionals in the treatment of alcohol and substance abuse.
 
-**(d) Publication** The Memorandum of Agreement under subsection (a) of this section shall be submitted to Congress and published in the Federal Register not later than 130 days after July 29, 2010. At the same time as publication in the Federal Register, the Secretary of the Interior shall provide a copy of this chapter and the Memorandum of Agreement under subsection (a) of this section to each Indian tribe.
+**(d) Publication** The Memorandum of Agreement under subsection (a) shall be submitted to Congress and published in the Federal Register not later than 130 days after July 29, 2010. At the same time as publication in the Federal Register, the Secretary of the Interior shall provide a copy of this chapter and the Memorandum of Agreement under subsection (a) to each Indian tribe.
 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 [Section 2010 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2010), referred to in subsec. (b), was in the original a reference to section 1130 of the Education Amendments of 1978, Pub. L. 95–561. Section 1130 of Pub. L. 95–561 was omitted in the general amendment of chapter 22 (§ 2001 et seq.) of this title by Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3979. Pub. L. 103–382 enacted a new section 1130 of Pub. L. 95–561, relating to uniform direct funding and support, which is classified to [section 2010 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2010). Provisions relating to Indian control of Indian education are now contained in [section 2011 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2011).
 
@@ -169,11 +169,11 @@ Subsec. (d). Pub. L. 111–211, § 241(a)(1)(C), substituted “July 29, 2010”
 ## § 2412. Tribal Action Plans
 **(a) In general** The governing body of any Indian tribe may, at its discretion, adopt a resolution for the establishment of a Tribal Action Plan to coordinate available resources and programs, including programs and resources made available by this chapter, in an effort to combat alcohol and substance abuse among its members. Such resolution shall be the basis for the implementation of this chapter and of the Memorandum of Agreement under [section 2411 of this title](./chapter-026-indian-alcohol-and-substance-abuse-prevention-and-treatment.md#section-2411).
 
-**(b) Cooperation** At the request of any Indian tribe pursuant to a resolution adopted under subsection (a) of this section, the Bureau of Indian Affairs agency and education superintendents, where appropriate,,11 So in original. the Office of Justice Programs, the Substance Abuse and Mental Health Services Administration, and the Indian Health Service service unit director providing services to such tribe shall cooperate with the tribe in the development of a Tribal Action Plan to coordinate resources and programs relevant to alcohol and substance abuse prevention and treatment. Upon the development of such a plan, such superintendents and director, as directed by the Memorandum of Agreement established under [section 2411 of this title](./chapter-026-indian-alcohol-and-substance-abuse-prevention-and-treatment.md#section-2411), shall enter into an agreement with the tribe for the implementation of the Tribal Action Plan under subsection (a) of this section.
+**(b) Cooperation** At the request of any Indian tribe pursuant to a resolution adopted under subsection (a), the Bureau of Indian Affairs agency and education superintendents, where appropriate,,11 So in original. the Office of Justice Programs, the Substance Abuse and Mental Health Services Administration, and the Indian Health Service service unit director providing services to such tribe shall cooperate with the tribe in the development of a Tribal Action Plan to coordinate resources and programs relevant to alcohol and substance abuse prevention and treatment. Upon the development of such a plan, such superintendents and director, as directed by the Memorandum of Agreement established under [section 2411 of this title](./chapter-026-indian-alcohol-and-substance-abuse-prevention-and-treatment.md#section-2411), shall enter into an agreement with the tribe for the implementation of the Tribal Action Plan under subsection (a).
 
 **(c) Provisions**
 
-(1) Any Tribal Action Plan entered into under subsection (b) of this section shall provide for—
+(1) Any Tribal Action Plan entered into under subsection (b) shall provide for—
 
   (A) the establishment of a Tribal Coordinating Committee which shall—
 
@@ -209,15 +209,15 @@ Subsec. (d). Pub. L. 111–211, § 241(a)(1)(C), substituted “July 29, 2010”
 
 **(d) Grants**
 
-(1) The Secretary of the Interior may make grants to Indian tribes adopting a resolution pursuant to subsection (a) of this section to provide technical assistance in the development of a Tribal Action Plan. The Secretary shall allocate funds based on need.
+(1) The Secretary of the Interior may make grants to Indian tribes adopting a resolution pursuant to subsection (a) to provide technical assistance in the development of a Tribal Action Plan. The Secretary shall allocate funds based on need.
 
 (2) There are authorized to be appropriated for grants under this subsection not more than $2,000,000 for the period of fiscal years 2011 through 2015.
 
-**(e) Federal action** If any Indian tribe does not adopt a resolution as provided in subsection (a) of this section within 90 days after the publication of the Memorandum of Agreement in the Federal Register as provided in [section 2411 of this title](./chapter-026-indian-alcohol-and-substance-abuse-prevention-and-treatment.md#section-2411), the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall require the Bureau of Indian Affairs agency and education superintendents, where appropriate, and the Indian Health Service service unit director serving such tribe to enter into an agreement to identify and coordinate available programs and resources to carry out the purposes of this chapter for such tribe. After such an agreement has been entered into for a tribe such tribe may adopt a resolution under subsection (a) of this section.
+**(e) Federal action** If any Indian tribe does not adopt a resolution as provided in subsection (a) within 90 days after the publication of the Memorandum of Agreement in the Federal Register as provided in [section 2411 of this title](./chapter-026-indian-alcohol-and-substance-abuse-prevention-and-treatment.md#section-2411), the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall require the Bureau of Indian Affairs agency and education superintendents, where appropriate, and the Indian Health Service service unit director serving such tribe to enter into an agreement to identify and coordinate available programs and resources to carry out the purposes of this chapter for such tribe. After such an agreement has been entered into for a tribe such tribe may adopt a resolution under subsection (a).
 
 **(f) Grants for training, education, and prevention programs**
 
-(1) The Secretary of the Interior may make grants to Indian tribes adopting a resolution pursuant to subsection (a) of this section to implement and develop community and in-school training, education, and prevention programs on alcohol and substance abuse, fetal alcohol syndrome and fetal alcohol effect.
+(1) The Secretary of the Interior may make grants to Indian tribes adopting a resolution pursuant to subsection (a) to implement and develop community and in-school training, education, and prevention programs on alcohol and substance abuse, fetal alcohol syndrome and fetal alcohol effect.
 
 (2) Funds provided under this section may be used for, but are not limited to, the development and implementation of tribal programs for—
 
@@ -371,7 +371,7 @@ shall be liberally construed and administered to achieve the purposes of this ch
 (4) the effectiveness of public and private alcohol and substance abuse treatment programs in operation on October 27, 1986,
 to determine their applicability and relevance in carrying out the purposes of this chapter.
 
-**(b) Dissemination** The results of the review conducted under subsection (a) of this section shall be provided to every Indian tribe as soon as possible for their consideration and use in the development or modification of a Tribal Action Plan.
+**(b) Dissemination** The results of the review conducted under subsection (a) shall be provided to every Indian tribe as soon as possible for their consideration and use in the development or modification of a Tribal Action Plan.
 
 ### Statutory Notes
 
@@ -388,7 +388,7 @@ Pub. L. 111–211, § 241(a)(4), which directed amendment of section 4208a of th
 ## § 2415. Federal facilities, property, and equipment; leasing of tribal property
 **(a) Facility availability** In the furtherance of the purposes and goals of this chapter, the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall make available for community use, to the extent permitted by law and as may be provided in a Tribal Action Plan, local Federal facilities, property, and equipment, including school facilities. Such facility availability shall include school facilities under the Secretary of the Interior’s jurisdiction: Provided, That the use of any school facilities shall be conditioned upon approval of the local school board with jurisdiction over such school.
 
-**(b) Costs** Any additional cost associated with the use of Federal facilities, property, or equipment under subsection (a) of this section may be borne by the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services out of available Federal, tribal, State, local, or private funds, if not otherwise prohibited by law. This subsection does not require the Secretary of the Interior, nor the Attorney General, nor the Secretary of Health and Human Services to expend additional funds to meet the additional costs which may be associated with the provision of such facilities, property, or equipment for community use. Where the use of Federal facilities, property, or equipment under subsection (a) of this section furthers the purposes and goals of this chapter, the use of funds other than those funds appropriated to the Department of the Interior, the Department of Justice, or the Department of Health and Human Services to meet the additional costs associated with such use shall not constitute an augmentation of Federal appropriations.
+**(b) Costs** Any additional cost associated with the use of Federal facilities, property, or equipment under subsection (a) may be borne by the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services out of available Federal, tribal, State, local, or private funds, if not otherwise prohibited by law. This subsection does not require the Secretary of the Interior, nor the Attorney General, nor the Secretary of Health and Human Services to expend additional funds to meet the additional costs which may be associated with the provision of such facilities, property, or equipment for community use. Where the use of Federal facilities, property, or equipment under subsection (a) furthers the purposes and goals of this chapter, the use of funds other than those funds appropriated to the Department of the Interior, the Department of Justice, or the Department of Health and Human Services to meet the additional costs associated with such use shall not constitute an augmentation of Federal appropriations.
 
 **(c) Leases**
 
@@ -413,7 +413,7 @@ Subsec. (c)(1). Pub. L. 111–211, § 241(a)(5)(C), which directed insertion of 
 Subsec. (c). Pub. L. 100–690, § 2205(2), added subsec. (c).
 
 #### Lease and Operation of Facilities in Fairbanks, Alaska
-Pub. L. 101–630, title V, § 509(b), (c), Nov. 28, 1990, 104 Stat. 4567, provided that: “(b) Lease of Facilities.—The Secretary of Health and Human Services, acting under section 4209(c) and 4227(b) of the Indian Alcohol and Substance Abuse Prevention and Treatment Act [of 1986, [25 U.S.C. 2415(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2415/c&num=0&edition=prelim), 2474(b)], may—“(1) without regard to section 4209(c)(2) of that Act, lease from the Tanana Chiefs Conference facilities that are located in Fairbanks, Alaska, and that the Tanana Chiefs Conference has leased from another entity, and “(2) if the Secretary enters into a lease under paragraph (1) for at least 40 years, renovate the facilities to the extent needed. “(c) Self-Determination Contracts for Staffing and Operation.—The Secretary of Health and Human Services, acting under section 102 of the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f)], may contract with the Tanana Chiefs Conference to staff and operate the facilities leased under subsection (b), without a request of an Indian tribe, and without regard to the definition and proviso in section 4(l) of that Act [[25 U.S.C. 450b](./chapter-014-miscellaneous.md#section-450b)(l)].”
+Pub. L. 101–630, title V, § 509(b), (c), Nov. 28, 1990, 104 Stat. 4567, provided that: “(b) Lease of Facilities.—The Secretary of Health and Human Services, acting under section 4209(c) and 4227(b) of the Indian Alcohol and Substance Abuse Prevention and Treatment Act [of 1986, [25 U.S.C. 2415(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2415/c&num=0&edition=prelim), 2474(b)], may—“(1) without regard to section 4209(c)(2) of that Act, lease from the Tanana Chiefs Conference facilities that are located in Fairbanks, Alaska, and that the Tanana Chiefs Conference has leased from another entity, and “(2) if the Secretary enters into a lease under paragraph (1) for at least 40 years, renovate the facilities to the extent needed. “(c) Self-Determination Contracts for Staffing and Operation.—The Secretary of Health and Human Services, acting under section 102 of the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321)], may contract with the Tanana Chiefs Conference to staff and operate the facilities leased under subsection (b), without a request of an Indian tribe, and without regard to the definition and proviso in section 4(l) of that Act [[25 U.S.C. 5304](./chapter-046-indian-self-determination-and-education-assistance.md#section-5304)(l)].”
 
 
 <a id="section-2416"></a>
@@ -463,7 +463,7 @@ Pub. L. 101–630, title V, § 509(b), (c), Nov. 28, 1990, 104 Stat. 4567, provi
 (5) tribal, State, local, and private resources for programs similar to those cited in paragraphs (3) and (4),
 to determine their applicability and relevance in carrying out the purposes of this chapter.
 
-**(b) Publication** The results of the review conducted under subsection (a) of this section shall be provided to each Indian tribe as soon as possible for their consideration and use in the development or modification of a Tribal Action Plan under [section 2412 of this title](./chapter-026-indian-alcohol-and-substance-abuse-prevention-and-treatment.md#section-2412).
+**(b) Publication** The results of the review conducted under subsection (a) shall be provided to each Indian tribe as soon as possible for their consideration and use in the development or modification of a Tribal Action Plan under [section 2412 of this title](./chapter-026-indian-alcohol-and-substance-abuse-prevention-and-treatment.md#section-2412).
 
 ### Statutory Notes
 
@@ -483,9 +483,9 @@ to determine their applicability and relevance in carrying out the purposes of t
 
 **(b) Use of funds** Federal financial assistance made available to public or private schools because of the enrollment of Indian children pursuant to—
 
-(1) the Act of April 16, 1934, as amended by the Indian Education Assistance Act ([25 U.S.C. 452](./chapter-014-miscellaneous.md#section-452) et seq.),
+(1) the Act of April 16, 1934, as amended by the Indian Education Assistance Act ([25 U.S.C. 452](./chapter-014-miscellaneous.md#section-452) et seq.),11 See References in Text note below.
 
-(2) the Indian Elementary and Secondary School Assistance Act ([20 U.S.C. 241aa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section241aa&num=0&edition=prelim) et seq.),11 See References in Text note below. and
+(2) the Indian Elementary and Secondary School Assistance Act ([20 U.S.C. 241aa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section241aa&num=0&edition=prelim) et seq.),1 and
 
 (3) the Indian Education Act ([20 U.S.C. 3385](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3385&num=0&edition=prelim)),1
 may be used to support a program of instruction relating to alcohol and substance abuse prevention and treatment.
@@ -495,9 +495,9 @@ may be used to support a program of instruction relating to alcohol and substanc
 #### References in Text
 This Act, referred to in subsec. (a)(1), is Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207, known as the Anti-Drug Abuse Act of 1986. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim), Food and Drugs, and Tables.
 
-Act of April 16, 1934, referred to in subsec. (b)(1), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, as amended, popularly known as the Johnson-O’Malley Act, which is classified generally to section 452 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 452 of this title](./chapter-014-miscellaneous.md#section-452) and Tables.
+Act of April 16, 1934, referred to in subsec. (b)(1), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, popularly known as the Johnson-O’Malley Act, which was classified generally to section 452 et seq. of this title prior to editorial reclassification as section 5342 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
-The Indian Education Assistance Act, referred to in subsec. (b)(1), is title II of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2213, which enacted part C (§ 458a et seq.) of subchapter II of chapter 14 of this title, sections 455 to 457 of this title, and provisions set out as a note under [section 457 of this title](./chapter-014-miscellaneous.md#section-457). For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Education Assistance Act, referred to in subsec. (b)(1), is title II of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2213, which enacted subchapter III (§ 5349 et seq.) of chapter 46 of this title, sections 5345 to 5347 of this title, and provisions set out as a note under [section 5347 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5347). For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 The Indian Elementary and Secondary School Assistance Act, referred to in subsec. (b)(2), is title III of act Sept. 30, 1950, ch. 1124, as added by Pub. L. 92–318, title IV, § 411(a), June 23, 1972, 86 Stat. 334, as amended, which was classified generally to subchapter III (§ 241aa et seq.) of chapter 13 of Title 20, Education, and was repealed by Pub. L. 100–297, title V, § 5352(1), Apr. 28, 1988, 102 Stat. 414.
 
@@ -526,11 +526,11 @@ Pub. L. 111–211, § 241(b), which directed amendment of “[s]ection 4212 of t
 
 **(c) Direction to States** In the case of any State that exercises criminal jurisdiction over any part of Indian country under [section 1162 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1162&num=0&edition=prelim) or [section 1321 of this title](./chapter-015-constitutional-rights-of-indians.md#section-1321), such State is urged to require its law enforcement officers to—
 
-(1) place any Indian youth arrested for any offense related to alcohol or substance abuse in a temporary emergency shelter described in subsection (d) of this section or a community-based alcohol or substance abuse treatment facility in lieu of incarceration to the extent such facilities are available, and
+(1) place any Indian youth arrested for any offense related to alcohol or substance abuse in a temporary emergency shelter described in subsection (d) or a community-based alcohol or substance abuse treatment facility in lieu of incarceration to the extent such facilities are available, and
 
-(2) observe the standards promulgated under subsection (d) of this section.
+(2) observe the standards promulgated under subsection (d).
 
-**(d) Standards** The Assistant Secretary of Indian Affairs shall, as part of the development of the Memorandum of Agreement set out in [section 2411 of this title](./chapter-026-indian-alcohol-and-substance-abuse-prevention-and-treatment.md#section-2411), promulgate standards by which the emergency shelters established under a program pursuant to subsection (a) of this section shall be established and operated.
+**(d) Standards** The Assistant Secretary of Indian Affairs shall, as part of the development of the Memorandum of Agreement set out in [section 2411 of this title](./chapter-026-indian-alcohol-and-substance-abuse-prevention-and-treatment.md#section-2411), promulgate standards by which the emergency shelters established under a program pursuant to subsection (a) shall be established and operated.
 
 **(e) Authorization**
 
@@ -538,17 +538,17 @@ Pub. L. 111–211, § 241(b), which directed amendment of “[s]ection 4212 of t
 
 (2) For the staffing and operation of emergency shelters and half-way houses, there are authorized to be appropriated $5,000,000 for fiscal year 1993 and $7,000,000 for each of fiscal years 2011 through 2015.
 
-(3) The Secretary of the Interior shall allocate funds appropriated pursuant to this subsection on the basis of priority of need of the various Indian tribes and such funds, when allocated, shall be subject to contracting or available for grants pursuant to the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.].
+(3) The Secretary of the Interior shall allocate funds appropriated pursuant to this subsection on the basis of priority of need of the various Indian tribes and such funds, when allocated, shall be subject to contracting or available for grants pursuant to the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.].
 
 (4) Funds appropriated under the authority of this subsection may be used by any Indian tribe or tribal organization to purchase or lease any land or facilities if—
 
-  (A) the Secretary of the Interior determines that no Federal land or facilities are rea­sonably available for emergency shelters or halfway 11 So in original. Probably should be “half-way”. houses described in subsection (a) of this section to serve the needs of that Indian tribe or tribal organization, and
+  (A) the Secretary of the Interior determines that no Federal land or facilities are rea­sonably available for emergency shelters or halfway 11 So in original. Probably should be “half-way”. houses described in subsection (a) to serve the needs of that Indian tribe or tribal organization, and
 
-  (B) the Indian tribe or tribal organization enters into an agreement with the Secretary of the Interior that requires the Indian tribe or tribal organization to use the land or facilities for emergency shelters or half-way houses described in subsection (a) of this section.
+  (B) the Indian tribe or tribal organization enters into an agreement with the Secretary of the Interior that requires the Indian tribe or tribal organization to use the land or facilities for emergency shelters or half-way houses described in subsection (a).
 
 (5) Nothing in this Act may be construed—
 
-  (A) to limit the authority for contracts with, or grants to, Indian tribes or tribal organizations under the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.] for the construction, improvement, renovation, operation, repair, land acquisition, or maintenance of tribal juvenile detention facilities, emergency shelters, or half-way houses, or
+  (A) to limit the authority for contracts with, or grants to, Indian tribes or tribal organizations under the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.] for the construction, improvement, renovation, operation, repair, land acquisition, or maintenance of tribal juvenile detention facilities, emergency shelters, or half-way houses, or
 
   (B) to require a lease of tribal facilities to the United States to qualify for financial assistance for the facilities under this chapter or any other Act.
 
@@ -557,7 +557,7 @@ Pub. L. 111–211, § 241(b), which directed amendment of “[s]ection 4212 of t
 #### References in Text
 The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (b)(1), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§ 5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) and Tables.
 
-The Indian Self-Determination Act, referred to in subsec. (e)(3), (5)(A), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in subsec. (e)(3), (5)(A), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 This Act, referred to in subsec. (e)(5), is Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207, known as the Anti-Drug Abuse Act of 1986. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim), Food and Drugs, and Tables.
 
@@ -587,16 +587,16 @@ Subsec. (e). Pub. L. 100–690, § 2207(b), amended subsec. (e) generally. Prior
 
 <a id="section-2434"></a>
 ## § 2434. Social services reports
-**(a) Data** The Secretary of the Interior, with respect to the administration of any family or social services program by the Bureau of Indian Affairs directly or through contracts under the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.], shall require the compilation of data relating to the number and types of child abuse and neglect cases seen and the type of assistance provided. Additionally, such data should also be categorized to reflect those cases that involve, or appear to involve, alcohol and substance abuse, those cases which are recurring, and those cases which involve other minor siblings.
+**(a) Data** The Secretary of the Interior, with respect to the administration of any family or social services program by the Bureau of Indian Affairs directly or through contracts under the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.], shall require the compilation of data relating to the number and types of child abuse and neglect cases seen and the type of assistance provided. Additionally, such data should also be categorized to reflect those cases that involve, or appear to involve, alcohol and substance abuse, those cases which are recurring, and those cases which involve other minor siblings.
 
-**(b) Referral of data** The data compiled pursuant to subsection (a) of this section shall be provided annually to the affected Indian tribe and Tribal Coordinating Committee to assist them in developing or modifying a Tribal Action Plan and shall also be submitted to the Indian Health Service service unit director who will have responsibility for compiling a tribal comprehensive report as provided in section 2477 11 See References in Text note below. of this title.
+**(b) Referral of data** The data compiled pursuant to subsection (a) shall be provided annually to the affected Indian tribe and Tribal Coordinating Committee to assist them in developing or modifying a Tribal Action Plan and shall also be submitted to the Indian Health Service service unit director who will have responsibility for compiling a tribal comprehensive report as provided in section 2477 11 See References in Text note below. of this title.
 
-**(c) Confidentiality** In carrying out the requirements of subsections (a) and (b) of this section, the Secretary shall insure that the data is compiled and reported in a manner which will preserve the confidentiality of the families and individuals.
+**(c) Confidentiality** In carrying out the requirements of subsections (a) and (b), the Secretary shall insure that the data is compiled and reported in a manner which will preserve the confidentiality of the families and individuals.
 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 [Section 2477 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2477&num=0&edition=prelim), referred to in subsec. (b), was repealed by Pub. L. 102–573, title VII, § 702(b)(2), Oct. 29, 1992, 106 Stat. 4582.
 
@@ -610,7 +610,7 @@ The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub
 (2) tribal and State and local law enforcement and judicial programs and systems
 to determine their applicability and relevance in carrying out the purposes of this chapter.
 
-**(b) Dissemination of review** The results of the review conducted pursuant to subsection (a) of this section shall be made available to every Indian tribe as soon as possible for their consideration and use in the development and modification of a Tribal Action Plan.
+**(b) Dissemination of review** The results of the review conducted pursuant to subsection (a) shall be made available to every Indian tribe as soon as possible for their consideration and use in the development and modification of a Tribal Action Plan.
 
 ### Statutory Notes
 
@@ -638,14 +638,14 @@ to determine their applicability and relevance in carrying out the purposes of t
 
 **(b) Marijuana eradication and interdiction**
 
-(1) The Secretary of the Interior, in cooperation with appropriate Federal, tribal, and State and local law enforcement agencies, shall establish and implement a program for the eradication of marijuana cultivation, and interdiction, investigation, and control of illegal narcotics trafficking within Indian country as defined in [section 1152 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1152&num=0&edition=prelim). The Secretary shall establish a priority for the use of funds appropriated under paragraph (2) for those Indian reservations where the scope of the problem is most critical, and such funds shall be available for contracting by Indian tribes pursuant to the Indian Self-Determination Act ([25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.).
+(1) The Secretary of the Interior, in cooperation with appropriate Federal, tribal, and State and local law enforcement agencies, shall establish and implement a program for the eradication of marijuana cultivation, and interdiction, investigation, and control of illegal narcotics trafficking within Indian country as defined in [section 1152 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1152&num=0&edition=prelim). The Secretary shall establish a priority for the use of funds appropriated under paragraph (2) for those Indian reservations where the scope of the problem is most critical, and such funds shall be available for contracting by Indian tribes pursuant to the Indian Self-Determination Act ([25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.).11 See References in Text note below.
 
 (2) For the purpose of establishing the program required by paragraph (1), there are authorized to be appropriated $2,000,000 for each of fiscal years 2011 through 2015.
 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in subsec. (b)(1), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act ([25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.), referred to in subsec. (b)(1), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which was classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title prior to editorial reclassification as subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Amendments
 2010—Subsec. (a)(1)(D). Pub. L. 111–211, § 241(e)(1)(A), added subpar. (D).
@@ -699,7 +699,7 @@ Subsec. (b)(2). Pub. L. 100–690, § 2208(b), amended par. (2) generally. Prior
 
 (2) **Youth-related training** — Any training provided to Bureau of Indian Affairs or tribal law enforcement or judicial personnel under paragraph (1) shall include training in issues relating to youth alcohol and substance abuse prevention and treatment.
 
-**(b) Authorization** For the purposes of providing the training required by subsection (a) of this section, there are authorized to be appropriated $2,000,000 for fiscal year 1993 and such sums as are necessary for each of fiscal years 2011 through 2015.
+**(b) Authorization** For the purposes of providing the training required by subsection (a), there are authorized to be appropriated $2,000,000 for fiscal year 1993 and such sums as are necessary for each of fiscal years 2011 through 2015.
 
 ### Statutory Notes
 
@@ -723,7 +723,7 @@ Subsec. (b). Pub. L. 111–211, § 241(f)(2), substituted “as are necessary fo
 
 (3) shall be provided by the Indian Health Service, either through its direct or contract health service.
 
-**(b) Treatment of certain committed youth** The Indian Health Service shall not refuse to provide necessary interim treatment for any Indian youth referred pursuant to subsection (a) of this section who has been charged or is being prosecuted for any crime unless such referral is prohibited by a court of competent jurisdiction or the youth is determined by a court of competent jurisdiction to be a danger to others.
+**(b) Treatment of certain committed youth** The Indian Health Service shall not refuse to provide necessary interim treatment for any Indian youth referred pursuant to subsection (a) who has been charged or is being prosecuted for any crime unless such referral is prohibited by a court of competent jurisdiction or the youth is determined by a court of competent jurisdiction to be a danger to others.
 
 ### Statutory Notes
 
@@ -747,7 +747,7 @@ Subsec. (b). Pub. L. 111–211, § 241(f)(2), substituted “as are necessary fo
 
 **(b) Authorization**
 
-(1) For the purpose of constructing or renovating juvenile detention centers as provided in subsection (a) of this section, there are authorized to be appropriated $10,000,000 for each of fiscal years 2011 through 2015.
+(1) For the purpose of constructing or renovating juvenile detention centers as provided in subsection (a), there are authorized to be appropriated $10,000,000 for each of fiscal years 2011 through 2015.
 
 (2) For the purpose of staffing and operating juvenile detention centers, there are authorized to be appropriated $7,000,000 for each of fiscal years 2011 through 2015.
 
@@ -765,11 +765,11 @@ Subsec. (b)(2). Pub. L. 111–211, § 241(g)(2), substituted “for each of fisc
 
 1992—Subsec. (b). Pub. L. 102–573 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-“(1) For the purpose of constructing or renovating juvenile detention centers as provided in subsection (a) of this section, there is authorized to be appropriated $10,000,000 for the fiscal year 1989 and $5,000,000 for each of the fiscal years 1990 and 1991.
+“(1) For the purpose of constructing or renovating juvenile detention centers as provided in subsection (a), there is authorized to be appropriated $10,000,000 for the fiscal year 1989 and $5,000,000 for each of the fiscal years 1990 and 1991.
 
 “(2) For the purpose of staffing and operating juvenile detention centers, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1989 and 1990. An amount equal to the amount of funds appropriated pursuant to this paragraph for fiscal year 1990 shall be included in the base budget of the Bureau of Indian Affairs and funding thereafter shall be pursuant to [section 13 of this title](./chapter-001-bureau-of-indian-affairs.md#section-13).”
 
-1988—Subsec. (b). Pub. L. 100–690 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purpose of subsection (a) of this section, there is authorized to be appropriated $10,000,000 for construction and renovation for each of the fiscal years 1987, 1988, and 1989, and $5,000,000 for staffing and operation for each of the fiscal years 1987, 1988, and 1989.”
+1988—Subsec. (b). Pub. L. 100–690 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purpose of subsection (a), there is authorized to be appropriated $10,000,000 for construction and renovation for each of the fiscal years 1987, 1988, and 1989, and $5,000,000 for staffing and operation for each of the fiscal years 1987, 1988, and 1989.”
 
 
 <a id="section-2454"></a>
@@ -785,16 +785,16 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in text
 
 <a id="section-2455"></a>
 ## § 2455. Law enforcement and judicial report
-**(a) Compilation of law enforcement data** The Secretary of the Interior, with respect to the administration of any law enforcement or judicial services program by the Bureau of Indian Affairs, either directly or through contracts under the Indian Self-Determination Act [[25 U.S.C. 450f](./chapter-014-miscellaneous.md#section-450f) et seq.], shall require the compilation of data relating to calls and encounters, arrests and detentions, and disposition of cases by Bureau of Indian Affairs or tribal law enforcement or judicial personnel involving Indians where it is determined that alcohol or substance abuse is a contributing factor.
+**(a) Compilation of law enforcement data** The Secretary of the Interior, with respect to the administration of any law enforcement or judicial services program by the Bureau of Indian Affairs, either directly or through contracts under the Indian Self-Determination Act [[25 U.S.C. 5321](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321) et seq.], shall require the compilation of data relating to calls and encounters, arrests and detentions, and disposition of cases by Bureau of Indian Affairs or tribal law enforcement or judicial personnel involving Indians where it is determined that alcohol or substance abuse is a contributing factor.
 
-**(b) Referral of data** The data compiled pursuant to subsection (a) of this section shall be provided annually to the affected Indian tribe and Tribal Coordinating Committee to assist them in developing or modifying a Tribal Action Plan and shall also be submitted to the Indian Health Service 11 So in original. Probably should be followed by “service”. unit director who will have the responsibility for compiling a tribal comprehensive report as provided in section 2477 22 See References in Text note below. of this title.
+**(b) Referral of data** The data compiled pursuant to subsection (a) shall be provided annually to the affected Indian tribe and Tribal Coordinating Committee to assist them in developing or modifying a Tribal Action Plan and shall also be submitted to the Indian Health Service 11 So in original. Probably should be followed by “service”. unit director who will have the responsibility for compiling a tribal comprehensive report as provided in section 2477 22 See References in Text note below. of this title.
 
 **(c) Confidentiality** In carrying out this section, the Secretary shall insure that the data is compiled and reported in a manner which will preserve the confidentiality of the families and individuals involved.
 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 [Section 2477 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2477&num=0&edition=prelim), referred to in subsec. (b), was repealed by Pub. L. 102–573, title VII, § 702(b)(2), Oct. 29, 1992, 106 Stat. 4582.
 

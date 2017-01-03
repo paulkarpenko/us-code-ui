@@ -324,11 +324,11 @@ Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of
 ## § 617. Exportation of unprocessed timber from Federal lands
 **(a) Limitation of quantity available for export** For each of the calendar years 1969 through 1973, inclusive, not more than 350 million board feet, in the aggregate, of unprocessed timber may be sold for export from the United States from Federal lands located west of the 100th meridian.
 
-**(b) Surplus quantities and species available for export; public hearing; administrative finding** After public hearing and a finding by the appropriate Secretary of the department administering Federal lands referred to in subsection (a) of this section that specific quantities and species of unprocessed timber are surplus to the needs of domestic users and processors, such quantities and species may be designated by the said Secretary as available for export from the United States in addition to that quantity stated in subsection (a) of this section.
+**(b) Surplus quantities and species available for export; public hearing; administrative finding** After public hearing and a finding by the appropriate Secretary of the department administering Federal lands referred to in subsection (a) that specific quantities and species of unprocessed timber are surplus to the needs of domestic users and processors, such quantities and species may be designated by the said Secretary as available for export from the United States in addition to that quantity stated in subsection (a).
 
-**(c) Rules and regulations; prevention of substitution of Federal for non-Federal timber** The Secretaries of the departments administering lands referred to in subsection (a) of this section may issue rules and regulations to carry out the purposes of this section, including the prevention of substitution of timber restricted from export by this section for exported non-Federal timber.
+**(c) Rules and regulations; prevention of substitution of Federal for non-Federal timber** The Secretaries of the departments administering lands referred to in subsection (a) may issue rules and regulations to carry out the purposes of this section, including the prevention of substitution of timber restricted from export by this section for exported non-Federal timber.
 
-**(d) Limitations inapplicable to sales of prescribed minimum value** In issuing rules and regulations pursuant to subsection (c) of this section, the appropriate Secretaries may include therein provisions authorizing the said Secretaries, in their discretion, to exclude from the limitations imposed by this section sales having an appraised value of less than $2,000.
+**(d) Limitations inapplicable to sales of prescribed minimum value** In issuing rules and regulations pursuant to subsection (c), the appropriate Secretaries may include therein provisions authorizing the said Secretaries, in their discretion, to exclude from the limitations imposed by this section sales having an appraised value of less than $2,000.
 
 ### Statutory Notes
 
@@ -406,7 +406,7 @@ Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of
 
 **(b) Extension of time for performance of contracts; covered contracts; damages for default**
 
-(1) Timber contracts bid prior to January 1, 1982, not bought out pursuant to subsection (a) of this section and included in the President’s program of July 28, 1983, shall not be subject to any further extension of time for performance except as permitted under the President’s program of July 28, 1983, as implemented by the Secretary of Agriculture and the Secretary of the Interior, providing for the extension of certain timber sale contracts and requiring the phased harvesting of such extended contracts, which program is hereby ratified except as modified by paragraph (2).
+(1) Timber contracts bid prior to January 1, 1982, not bought out pursuant to subsection (a) and included in the President’s program of July 28, 1983, shall not be subject to any further extension of time for performance except as permitted under the President’s program of July 28, 1983, as implemented by the Secretary of Agriculture and the Secretary of the Interior, providing for the extension of certain timber sale contracts and requiring the phased harvesting of such extended contracts, which program is hereby ratified except as modified by paragraph (2).
 
 (2) Notwithstanding any other provision of law, timber contracts extended pursuant to the President’s program of July 28, 1983, as implemented by the Secretary of Agriculture shall not be subject to inclusion of additional provisions for calculating damages for default.
 
@@ -496,11 +496,11 @@ Pub. L. 101–382, title IV, § 487, Aug. 20, 1990, 104 Stat. 714, provided that
 
 <a id="section-620a"></a>
 ## § 620a. Restrictions on exports of unprocessed timber originating from Federal lands
-**(a) Prohibition on export of unprocessed timber originating from Federal lands** No person who acquires unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States may export such timber from the United States, or sell, trade, exchange, or otherwise convey such timber to any other person for the purpose of exporting such timber from the United States, unless such timber has been determined under subsection (b) of this section to be surplus to the needs of timber manufacturing facilities in the United States.
+**(a) Prohibition on export of unprocessed timber originating from Federal lands** No person who acquires unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States may export such timber from the United States, or sell, trade, exchange, or otherwise convey such timber to any other person for the purpose of exporting such timber from the United States, unless such timber has been determined under subsection (b) to be surplus to the needs of timber manufacturing facilities in the United States.
 
 **(b) Surpluses**
 
-(1) **Determinations by Secretary concerned** — The prohibition contained in subsection (a) of this section shall not apply to specific quantities of grades and species of unprocessed timber originating from Federal lands which the Secretary concerned determines to be surplus to domestic manufacturing needs.
+(1) **Determinations by Secretary concerned** — The prohibition contained in subsection (a) shall not apply to specific quantities of grades and species of unprocessed timber originating from Federal lands which the Secretary concerned determines to be surplus to domestic manufacturing needs.
 
 (2) **Procedures** — Any determination under paragraph (1) shall be made in regulations issued in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim). Any such determination shall be reviewed at least once in every 3-year period. The Secretary concerned shall publish notice of such review in the Federal Register, and shall give the public an opportunity to comment on such review.
 
@@ -509,7 +509,7 @@ Pub. L. 101–382, title IV, § 487, Aug. 20, 1990, 104 Stat. 714, provided that
 ## § 620b. Limitations on substitution of unprocessed Federal timber for unprocessed timber exported from private lands
 **(a) Direct substitution**
 
-(1) Except as provided in paragraph (3) and subsection (c) of this section, no person may purchase directly from any department or agency of the United States unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States if—
+(1) Except as provided in paragraph (3) and subsection (c), no person may purchase directly from any department or agency of the United States unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States if—
 
   (A) such unprocessed timber is to be used in substitution for exported unprocessed timber originating from private lands; or
 
@@ -558,7 +558,7 @@ Pub. L. 101–382, title IV, § 487, Aug. 20, 1990, 104 Stat. 714, provided that
 
 **(c) Sourcing areas**
 
-(1) **In general** — The prohibitions contained in subsections (a) and (b) of this section shall not apply with respect to the acquisition of unprocessed timber originating from Federal lands within a sourcing area west of the 100th meridian in the contiguous 48 States approved by the Secretary concerned under this subsection by a person who—
+(1) **In general** — The prohibitions contained in subsections (a) and (b) shall not apply with respect to the acquisition of unprocessed timber originating from Federal lands within a sourcing area west of the 100th meridian in the contiguous 48 States approved by the Secretary concerned under this subsection by a person who—
 
   (A) in the previous 24 months, has not exported unprocessed timber originating from private lands within the sourcing area; and
 
@@ -570,7 +570,7 @@ Pub. L. 101–382, title IV, § 487, Aug. 20, 1990, 104 Stat. 714, provided that
   (A) information regarding the location of private lands (except private land located in the northwestern private timber open market area) from which such person has, within the previous year, harvested or otherwise acquired unprocessed timber which has been exported from the United States; and
 
   (B) information regarding the location of each timber manufacturing facility owned or operated by such person within the proposed sourcing area boundaries at which the applicant proposes to process timber originating from Federal lands.
-  The prohibition contained in subsection (a) of this section shall not apply to a person before the date which is 1 month after the procedures referred to in this paragraph are prescribed. With respect to any person who submits an application in accordance with such procedures by the end of the time period set forth in the preceding sentence, the prohibition contained in subsection (a) of this section shall not apply to such person before the date on which the Secretary concerned approves or disapproves such application.
+  The prohibition contained in subsection (a) shall not apply to a person before the date which is 1 month after the procedures referred to in this paragraph are prescribed. With respect to any person who submits an application in accordance with such procedures by the end of the time period set forth in the preceding sentence, the prohibition contained in subsection (a) shall not apply to such person before the date on which the Secretary concerned approves or disapproves such application.
 
 (3) **Grant of approval for sourcing areas for processing facilities located outside of the northwestern private timber open market area**
 
@@ -588,7 +588,7 @@ Pub. L. 101–382, title IV, § 487, Aug. 20, 1990, 104 Stat. 714, provided that
 
 (4) **Denial of application for sourcing areas for processing facilities located outside the northwestern private timber open market area**
 
-  (A) Subject to subparagraph (B), and notwithstanding any other provision of law, in the 9-month period after receiving disapproval of an application submitted pursuant to this subsection, the applicant may purchase unprocessed timber originating from Federal lands in the area which is the subject of the application in an amount not to exceed 75 percent of the annual average of such person’s purchases of unprocessed timber originating from Federal lands in the same area during the 5 full fiscal years immediately prior to submission of the application. In the subsequent 6-month period, such person may purchase not more than 25 percent of such annual average, after which time the prohibitions contained in subsection (a) of this section shall fully apply.
+  (A) Subject to subparagraph (B), and notwithstanding any other provision of law, in the 9-month period after receiving disapproval of an application submitted pursuant to this subsection, the applicant may purchase unprocessed timber originating from Federal lands in the area which is the subject of the application in an amount not to exceed 75 percent of the annual average of such person’s purchases of unprocessed timber originating from Federal lands in the same area during the 5 full fiscal years immediately prior to submission of the application. In the subsequent 6-month period, such person may purchase not more than 25 percent of such annual average, after which time the prohibitions contained in subsection (a) shall fully apply.
 
   (B) If a person referred to in subparagraph (A) certifies to the Secretary concerned, within 90 days after receiving disapproval of such application, that such person shall, within 15 months after such disapproval, cease the export of unprocessed timber originating from private lands from the geographic area determined by the Secretary for which the application would have been approved, such person may continue to purchase unprocessed timber originating from Federal lands in the area which is the subject of the application, without being subject to the restrictions of subparagraph (A), except that such purchases during that 15-month period may not exceed 125 percent of the annual average of such person’s purchases of unprocessed timber originating from Federal lands in the same area during the 5 full fiscal years immediately prior to submission of the application which was denied.
 
@@ -667,13 +667,13 @@ Subsec. (d). Pub. L. 105–83, § 602(a)(3), added subsec. (d).
 
 <a id="section-620c"></a>
 ## § 620c. Restriction on exports of unprocessed timber from State and other public lands
-**(a) Order to prohibit export of unprocessed timber originating from State or other public lands** Except as provided in subsection (g) of this section, the Secretary of Commerce shall issue orders to prohibit the export from the United States of unprocessed timber originating from public lands, as provided in subsection (b) of this section.
+**(a) Order to prohibit export of unprocessed timber originating from State or other public lands** Except as provided in subsection (g), the Secretary of Commerce shall issue orders to prohibit the export from the United States of unprocessed timber originating from public lands, as provided in subsection (b).
 
 **(b) Schedule for determination to prohibit export of unprocessed timber originating from State or other public lands**
 
-(1) **States with annual sales of 400,000,000 board feet or less** — With respect to States with annual sales volumes of 400,000,000 board feet or less, the Secretary of Commerce shall issue an order referred to in subsection (a) of this section to prohibit, notwithstanding any other provision of law, the export of unprocessed timber originating from public lands, effective June 1, 1993.
+(1) **States with annual sales of 400,000,000 board feet or less** — With respect to States with annual sales volumes of 400,000,000 board feet or less, the Secretary of Commerce shall issue an order referred to in subsection (a) to prohibit, notwithstanding any other provision of law, the export of unprocessed timber originating from public lands, effective June 1, 1993.
 
-(2) **States with annual sales of greater than 400,000,000 board feet** — With respect to any State with an annual sales volume greater than 400,000,000 board feet, the Secretary of Commerce shall issue an order referred to in subsection (a) of this section to prohibit, notwithstanding any other provision of law, the export of unprocessed timber originating from public lands, effective as of November 14, 1997.
+(2) **States with annual sales of greater than 400,000,000 board feet** — With respect to any State with an annual sales volume greater than 400,000,000 board feet, the Secretary of Commerce shall issue an order referred to in subsection (a) to prohibit, notwithstanding any other provision of law, the export of unprocessed timber originating from public lands, effective as of November 14, 1997.
 
 (3) **Prohibition on substitution**
 
@@ -685,14 +685,14 @@ Subsec. (d). Pub. L. 105–83, § 602(a)(3), added subsec. (d).
 
   (B) *Exemption* — The prohibitions referred to in subparagraph (A) shall not apply in a State on or after the date on which—
 
-    (i) the Governor of that State provides the Secretary of Commerce with notification of a prior program under subparagraph (C) of subsection (d)(2) of this section,
+    (i) the Governor of that State provides the Secretary of Commerce with notification of a prior program under subparagraph (C) of subsection (d)(2),
 
-    (ii) the Secretary of Commerce approves a program of that State under subparagraph (A) of subsection (d)(2) of this section, or
+    (ii) the Secretary of Commerce approves a program of that State under subparagraph (A) of subsection (d)(2), or
 
-    (iii) regulations of the Secretary of Commerce issued under subsection (c) of this section to carry out this section take effect,
+    (iii) regulations of the Secretary of Commerce issued under subsection (c) to carry out this section take effect,
     whichever occurs first.
 
-(4) **Report to Congress** — Not later than June 1, 1995, the Secretary of Commerce, in conjunction with the Secretaries of Agriculture and Interior, shall issue a report to the Congress on the effects of the reallocation, as a result of the enactment of sections 620 to 620j of this title, of public lands timber resources to the domestic timber processing sector, the ability of the domestic timber processing sector to meet domestic demand for forest products, the volume of transshipment of timber originating from public lands across State borders, the effectiveness of rules issued and administered by the Secretary of Commerce pursuant to sections 620 to 620j of this title and the effectiveness of State programs authorized under subsection (d) of this section, and trends in growth and productivity in the domestic timber processing sector.
+(4) **Report to Congress** — Not later than June 1, 1995, the Secretary of Commerce, in conjunction with the Secretaries of Agriculture and Interior, shall issue a report to the Congress on the effects of the reallocation, as a result of the enactment of sections 620 to 620j of this title, of public lands timber resources to the domestic timber processing sector, the ability of the domestic timber processing sector to meet domestic demand for forest products, the volume of transshipment of timber originating from public lands across State borders, the effectiveness of rules issued and administered by the Secretary of Commerce pursuant to sections 620 to 620j of this title and the effectiveness of State programs authorized under subsection (d), and trends in growth and productivity in the domestic timber processing sector.
 
 **(c) Federal program**
 
@@ -700,7 +700,7 @@ Subsec. (d). Pub. L. 105–83, § 602(a)(3), added subsec. (d).
 
   (A) *In general* — Subject to subparagraph (B), the Secretary of Commerce shall, as soon as possible after July 1, 1993—
 
-    (i) determine the species, grades, and geographic origin of unprocessed timber to be prohibited from export in each State that is subject to an order issued under subsection (a) of this section;
+    (i) determine the species, grades, and geographic origin of unprocessed timber to be prohibited from export in each State that is subject to an order issued under subsection (a);
 
     (ii) administer the prohibitions consistent with sections 620 to 620j of this title;
 
@@ -708,15 +708,15 @@ Subsec. (d). Pub. L. 105–83, § 602(a)(3), added subsec. (d).
 
     (iv) issue such regulations as are necessary to carry out this section.
 
-  (B) *Exemption* — The actions and regulations of the Secretary under subparagraph (A) shall not apply with respect to a State that is administering and enforcing a program under subsection (d) of this section.
+  (B) *Exemption* — The actions and regulations of the Secretary under subparagraph (A) shall not apply with respect to a State that is administering and enforcing a program under subsection (d).
 
 (2) **Cooperation with other agencies** — The Secretary of Commerce is authorized to enter into agreements with Federal and State agencies with appropriate jurisdiction to assist the Secretary in carrying out sections 620 to 620j of this title.
 
 **(d) Authorized State programs**
 
-(1) **Authorization of new State programs** — Notwithstanding subsection (c) of this section, the Governor of any State may submit a program to the Secretary of Commerce for approval that—
+(1) **Authorization of new State programs** — Notwithstanding subsection (c), the Governor of any State may submit a program to the Secretary of Commerce for approval that—
 
-  (A) implements, with respect to unprocessed timber originating from public lands in that State, the prohibition on exports set forth in the Secretary’s order under subsection (a) of this section; and
+  (A) implements, with respect to unprocessed timber originating from public lands in that State, the prohibition on exports set forth in the Secretary’s order under subsection (a); and
 
   (B) ensures that the species, grades, and geographic origin of unprocessed timber prohibited from export within the State is representative of the species, grades, and geographic origin of timber comprising the total timber sales program of the State.
 
@@ -724,9 +724,9 @@ Subsec. (d). Pub. L. 105–83, § 602(a)(3), added subsec. (d).
 
   (A) *Program approval* — Not later than 30 days after the submission of a program under paragraph (1), the Secretary of Commerce shall approve the program unless the Secretary finds that the program will result in the export of unprocessed timber from public lands in violation of sections 620 to 620j of this title and publishes that finding in the Federal Register.
 
-  (B) *State program in lieu of Federal program* — If the Secretary of Commerce approves a program submitted under paragraph (1), the Governor of the State for which the program was submitted, or such other official of that State as the Governor may designate, may administer and enforce the program, which shall apply in that State in lieu of the regulations issued under subsection (c) of this section.
+  (B) *State program in lieu of Federal program* — If the Secretary of Commerce approves a program submitted under paragraph (1), the Governor of the State for which the program was submitted, or such other official of that State as the Governor may designate, may administer and enforce the program, which shall apply in that State in lieu of the regulations issued under subsection (c).
 
-  (C) *Prior State programs* — Not later than 30 days after July 1, 1993, the Governor of any State that had, before May 4, 1993, issued regulations under this subsection as in effect before May 4, 1993, may provide the Secretary of Commerce with written notification that the State has a program that was in effect on May 3, 1993, and that meets the requirements of paragraph (1). Upon such notification, that State may administer and enforce that program in that State until the end of the 9-month period beginning on the date on which the Secretary of Commerce issues regulations under subsection (c) of this section, and that program shall, during the period in which it is so administered and enforced, apply in that State in lieu of the regulations issued under subsection (c) of this section. Such Governor may submit, with such notification, the program for approval by the Secretary under paragraph (1).
+  (C) *Prior State programs* — Not later than 30 days after July 1, 1993, the Governor of any State that had, before May 4, 1993, issued regulations under this subsection as in effect before May 4, 1993, may provide the Secretary of Commerce with written notification that the State has a program that was in effect on May 3, 1993, and that meets the requirements of paragraph (1). Upon such notification, that State may administer and enforce that program in that State until the end of the 9-month period beginning on the date on which the Secretary of Commerce issues regulations under subsection (c), and that program shall, during the period in which it is so administered and enforced, apply in that State in lieu of the regulations issued under subsection (c). Such Governor may submit, with such notification, the program for approval by the Secretary under paragraph (1).
 
 **(e) Prior contracts** Nothing in this section shall apply to—
 
@@ -738,7 +738,7 @@ Subsec. (d). Pub. L. 105–83, § 602(a)(3), added subsec. (d).
 
 (2) any contract under which exports of unprocessed timber were permitted pursuant to an order of the Secretary of Commerce in effect under this section before October 23, 1992.
 
-**(f) Western red cedar** Nothing in this section shall be construed to supersede [section 2406(i) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2406/i&num=0&edition=prelim), Appendix.
+**(f) Western red cedar** Nothing in this section shall be construed to supersede [section 4606(i) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4606/i&num=0&edition=prelim).
 
 **(g) Presidential authority** The President is authorized, after suitable notice and a public comment period of not less than 120 days, to suspend the provisions of this section if a panel of experts has reported to the Dispute Settlement Body of the World Trade Organization (as the term “World Trade Organization” is defined in [section 3501(8) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/8&num=0&edition=prelim)), or a ruling issued under the formal dispute settlement proceeding provided under any other trade agreement finds, that the provisions of this section are in violation of, or inconsistent with, United States obligations under that trade agreement.
 
@@ -746,9 +746,9 @@ Subsec. (d). Pub. L. 105–83, § 602(a)(3), added subsec. (d).
 
 **(i) Effect of prior Federal law** No provision of Federal law which imposes requirements with respect to the generation of revenue from State timberlands and was enacted before August 20, 1990, shall be construed to invalidate, supersede, or otherwise affect any action of a State or political subdivision of a State pursuant to sections 620 to 620j of this title.
 
-**(j) Surplus timber** The prohibitions on exports contained in orders of the Secretary of Commerce issued under subsection (a) of this section shall not apply to specific quantities of grades and species of unprocessed timber originating from public lands which the Secretary concerned determines by rule to be surplus to the needs of timber manufacturing facilities in the United States. Any such determination may, by rule, be withdrawn by the Secretary concerned if the Secretary determines that the affected timber is no longer surplus to the needs of timber manufacturing facilities in the United States.
+**(j) Surplus timber** The prohibitions on exports contained in orders of the Secretary of Commerce issued under subsection (a) shall not apply to specific quantities of grades and species of unprocessed timber originating from public lands which the Secretary concerned determines by rule to be surplus to the needs of timber manufacturing facilities in the United States. Any such determination may, by rule, be withdrawn by the Secretary concerned if the Secretary determines that the affected timber is no longer surplus to the needs of timber manufacturing facilities in the United States.
 
-**(k) Suspension of prohibitions** Notwithstanding any other provision of this section, beginning on January 1, 1998, and annually thereafter, if the President finds, upon review of the purposes and implementation of sections 620 to 620j of this title, that the prohibitions on exports required by subsection (a) of this section no longer promote the purposes of sections 620 to 620j of this title, then the President may suspend such prohibitions, except that such suspension shall not take effect until 90 days after the President notifies the Congress of such finding.
+**(k) Suspension of prohibitions** Notwithstanding any other provision of this section, beginning on January 1, 1998, and annually thereafter, if the President finds, upon review of the purposes and implementation of sections 620 to 620j of this title, that the prohibitions on exports required by subsection (a) no longer promote the purposes of sections 620 to 620j of this title, then the President may suspend such prohibitions, except that such suspension shall not take effect until 90 days after the President notifies the Congress of such finding.
 
 **(l) Existing authority not affected** Nothing in sections 620 to 620j of this title shall be construed to limit the authority of the President or the United States Trade Representative to take action authorized by law to respond appropriately to any measures taken by a foreign government in connection with sections 620 to 620j of this title.
 
@@ -771,7 +771,7 @@ Subsec. (b)(2). Pub. L. 103–45, § 2(2)(B), added subpar. (A) and struck out f
 
 “(C) For the period beginning on January 1, 1994, and ending on December 31, 1995, the Secretary of Commerce shall, after notice and an opportunity for a hearing, issue an order referred to in subsection (a) of this section not later than September 30, 1993. Such order shall prohibit the export of at least 75 percent of such State’s annual sales volume for this 2-year period.”
 
-Subsec. (b)(3), (4). Pub. L. 103–45, § 2(2)(C), (D), added par. (3), redesignated former par. (3) as (4), and substituted “the Secretary of Commerce pursuant to sections 620 to 620j of this title and the effectiveness of State programs authorized under subsection (d) of this section” for “States pursuant to sections 620 to 620j of this title”.
+Subsec. (b)(3), (4). Pub. L. 103–45, § 2(2)(C), (D), added par. (3), redesignated former par. (3) as (4), and substituted “the Secretary of Commerce pursuant to sections 620 to 620j of this title and the effectiveness of State programs authorized under subsection (d)” for “States pursuant to sections 620 to 620j of this title”.
 
 Subsecs. (c) to (l). Pub. L. 103–45, § 2(3), (4), added subsecs. (c) to (f), struck out former subsecs. (c) and (d) which related to basis for increase in volume prohibited from export and administrative provisions, respectively, and redesignated former subsecs. (e) to (j) as (g) to (l), respectively.
 
@@ -815,7 +815,7 @@ Pub. L. 104–99, title I, § 130, Jan. 26, 1996, 110 Stat. 34.
 
   (C) provide to the Secretary of Commerce copies of all notices, acknowledgments, and agreements referred to in subparagraphs (A) and (B).
 
-**(b) Report to Congress** Using the information gathered under subsection (a) of this section, the Secretaries of Agriculture and Interior shall, not later than June 1, 1995, submit to the Congress a report on the disposition of unprocessed timber harvested from Federal lands west of the 100th meridian in the contiguous 48 States, and recommendations concerning the practice of indirect substitution of such timber for exported timber harvested from private lands. Specifically, such report shall—
+**(b) Report to Congress** Using the information gathered under subsection (a), the Secretaries of Agriculture and Interior shall, not later than June 1, 1995, submit to the Congress a report on the disposition of unprocessed timber harvested from Federal lands west of the 100th meridian in the contiguous 48 States, and recommendations concerning the practice of indirect substitution of such timber for exported timber harvested from private lands. Specifically, such report shall—
 
 (1) analyze the effects of indirect substitution on market efficiency;
 
@@ -889,7 +889,7 @@ Pub. L. 104–99, title I, § 130, Jan. 26, 1996, 110 Stat. 34.
 
 (2) **Cancellation of contracts** — The head of the appropriate Federal department or agency under sections 620 to 620j of this title may cancel any contract entered into with a person found to have violated sections 620 to 620j of this title or regulations issued under sections 620 to 620j of this title.
 
-**(e) Exception** Subsections (c) and (d) of this section do not apply to violations of [section 620i of this title](./chapter-004-protection-of-timber-and-depredations.md#section-620i).
+**(e) Exception** Subsections (c) and (d) do not apply to violations of [section 620i of this title](./chapter-004-protection-of-timber-and-depredations.md#section-620i).
 
 ### Statutory Notes
 
@@ -1124,4 +1124,4 @@ Nothing in sections 620 to 620j of this title shall be construed to—
 (1) prejudice the outcome of pending or prospective petitions filed under, or
 
 (2) warrant the exercise of the authority contained in,
-section 7 of the Export Administration Act of 1979 [50 U.S.C. App. 2406] with respect to the export of unprocessed timber.
+section 7 of the Export Administration Act of 1979 [[50 U.S.C. 4606](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4606&num=0&edition=prelim)] with respect to the export of unprocessed timber.

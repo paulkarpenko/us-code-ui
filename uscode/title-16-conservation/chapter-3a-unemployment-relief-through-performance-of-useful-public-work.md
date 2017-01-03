@@ -70,7 +70,7 @@ Act June 13, 1940, ch. 348, 54 Stat. 383, formerly classified to [section 584d o
 Act Oct. 21, 1940, ch. 906, 54 Stat. 1206, formerly classified to [section 584g of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section584g&num=0&edition=prelim), was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 651.
 
 #### Transfer of Functions
-Civilian Conservation Corps camps transferred to Administrator of Food Production and Distribution by former section 1355(e) of Appendix to Title 50, War and National Defense.
+Civilian Conservation Corps camps transferred to Administrator of Food Production and Distribution by former section 1355(e) of the former Appendix to Title 50, War and National Defense.
 
 Civilian Conservation Corps and its functions consolidated with other agencies under Federal Security Agency, to be administered by Director of said Corps under direction and supervision of Federal Security Administration by Reorg. Plan No. I of 1939, §§ 201 and 207, eff. July 1, 1939, 4 F.R. 2728, 2729, 53 Stat. 1425, set out in the Appendix to Title 5, Government Organization and Employees.
 

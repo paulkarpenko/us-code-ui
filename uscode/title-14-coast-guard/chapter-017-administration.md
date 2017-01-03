@@ -2,7 +2,7 @@
 title: 14
 chapter: '17'
 heading: ADMINISTRATION
-section_count: 52
+section_count: 54
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -128,9 +128,9 @@ Said sections are rewritten, the provisions concerning oaths being broadened to 
 
 (1) it is a Coast Guard vessel or aircraft;
 
-(2) it is a surface naval vessel or military aircraft on which one or more members of the Coast Guard are assigned pursuant to [section 379 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section379&num=0&edition=prelim); or
+(2) it is a surface naval vessel or military aircraft on which one or more members of the Coast Guard are assigned pursuant to [section 379 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section379&num=0&edition=prelim); 11 See References in Text note below. or
 
-(3) any 11 So in original. Probably should be preceded by “it is”. other vessel or aircraft on government noncommercial service when—
+(3) it is any other vessel or aircraft on government noncommercial service when—
 
   (A) the vessel or aircraft is under the tactical control of the Coast Guard; and
 
@@ -145,7 +145,12 @@ Aircraft are included within the protective terms of this section which permits 
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
+#### References in Text
+[Section 379 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section379&num=0&edition=prelim), referred to in subsec. (c)(2), was renumbered [section 279 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section279&num=0&edition=prelim) by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+
 #### Amendments
+2016—Subsec. (c)(3). Pub. L. 114–120 inserted “it is” before “any” in introductory provisions.
+
 2010—Subsec. (c)(3). Pub. L. 111–281 added par. (3).
 
 2004—Pub. L. 108–293, § 205(e)(1), substituted “indemnity” for “immunity” in section catchline.
@@ -211,7 +216,7 @@ This section makes the unauthorized use of the words “Coast Guard” or any de
 1950—Act Aug. 3, 1950, made it possible for Commandant to grant authority to private business organizations to use terms or designations otherwise prohibited by this section.
 
 #### Coast Guard City, USA
-Pub. L. 105–383, title IV, § 409, Nov. 13, 1998, 112 Stat. 3431, provided that: “The Commandant of the Coast Guard may recognize the community of Grand Haven, Michigan, as ‘Coast Guard City, USA’. If the Commandant desires to recognize any other community in the same manner or any other community requests such recognition from the Coast Guard, the Commandant shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives 90 days prior to approving such recognition.”
+Pub. L. 105–383, title IV, § 409, Nov. 13, 1998, 112 Stat. 3431, as amended by Pub. L. 114–120, title II, § 206, Feb. 8, 2016, 130 Stat. 37, provided that: “The Commandant of the Coast Guard may recognize the community of Grand Haven, Michigan, as ‘Coast Guard City, USA’. If the Commandant desires to recognize any other community in the same manner or any other community requests such recognition from the Coast Guard, the Commandant shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives 30 days prior to approving such recognition.”
 
 
 <a id="section-640"></a>
@@ -252,7 +257,7 @@ A prior section, acts Aug. 4, 1949, ch. 393, 63 Stat. 546; June 15, 1955, ch. 14
 
 (2) If, after funds are credited, a balance remains available to a Coast Guard installation and the installation has a qualified recycling program, not more than 50 percent of that balance may be used at the installation for projects for pollution abatement, energy conservation, and occupational safety and health activities. The cost of the project may not be greater than 50 percent of the amount permissible for a minor construction project.
 
-(3) The remaining balance available to a Coast Guard,11 So in original. The comma probably should not appear. installation may be transferred to the Coast Guard Morale, Welfare, and Recreation Program.
+(3) The remaining balance available to a Coast Guard installation may be transferred to the Coast Guard Morale, Welfare, and Recreation Program.
 
 **(e)** If the balance available to the Coast Guard installation under this section at the end of a fiscal year is in excess of $200,000, the amount of that excess shall be deposited in the general fund of the Treasury as offsetting receipts of the Department in which the Coast Guard is operating and ascribed to Coast Guard activities.
 
@@ -266,6 +271,8 @@ Subsection (b) is based on title 33, U.S.C., 1946 ed., § 752a (May 22, 1926, ch
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
+2016—Subsec. (d)(3). Pub. L. 114–120 substituted “Guard installation” for “Guard, installation”.
+
 2011—Subsec. (a). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)”.
 
 2002—Subsec. (a). Pub. L. 107–217, § 3(c)(3)(A), inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)” for “([40 U.S.C. 471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section471&num=0&edition=prelim) et seq.)”.
@@ -575,10 +582,10 @@ Subsec. (d). Pub. L. 112–213, § 212(a), added subsec. (d).
 Pub. L. 93–283, § 1(9)(B), (C), added subsec. (a) and redesignated former subsecs. (a) and (b) as (b) and (c), respectively.
 
 #### Current Coast Guard Plans for Capital Investment, Cutters, Aviation, and Shore Facilities; Submittal to Congress With Budget Requests
-Pub. L. 96–376, § 12, Oct. 3, 1980, 94 Stat. 1511, which had provided that the President submit to the Congress, with the fiscal year 1982 budget request for the Coast Guard and each subsequent budget request, the current copy of the Coast Guard’s Capital Investment Plan, Cutter Plan, Aviation Plan, and Shore Facilities Plan, was repealed and reenacted as [section 663 of this title](./chapter-017-administration.md#section-663) by Pub. L. 97–295, §§ 2(20)(A), 6(b), Oct. 12, 1982, 96 Stat. 1303, 1315.
+Pub. L. 96–376, § 12, Oct. 3, 1980, 94 Stat. 1511, which had provided that the President submit to the Congress, with the fiscal year 1982 budget request for the Coast Guard and each subsequent budget request, the current copy of the Coast Guard’s Capital Investment Plan, Cutter Plan, Aviation Plan, and Shore Facilities Plan, was repealed and reenacted as [section 663 of this title](./chapter-017-administration.md#section-663) by Pub. L. 97–295, §§ 2(20)(A), 6(b), Oct. 12, 1982, 96 Stat. 1303, 1315 and subsequently transferred to [section 2902 of this title](./chapter-029-reports.md#section-2902) by Pub. L. 114–120, title I, § 101(d)(2), Feb. 8, 2016, 130 Stat. 31.
 
 #### Funds Appropriated to or for Use of Coast Guard After Fiscal Year 1977; Limitation
-Pub. L. 94–406, § 5, Sept. 10, 1976, 90 Stat. 1236, which had provided that after fiscal year 1977, funds may not be appropriated to or for the use of the Coast Guard for the operation and maintenance of the Coast Guard; for acquisition, construction, rebuilding, or improvement of aids to navigation, shore or offshore establishments, vessels, or aircraft, including equipment related thereto; for alteration of obstructive bridges; or for research, development, tests, or evaluation related to any of the above, unless the appropriation of such funds had been authorized by legislation enacted after December 31, 1976, was repealed and reenacted as [section 662 of this title](./chapter-017-administration.md#section-662) by Pub. L. 97–295, §§ 2(20)(A), 6(b), Oct. 12, 1982, 96 Stat. 1303, 1314.
+Pub. L. 94–406, § 5, Sept. 10, 1976, 90 Stat. 1236, which had provided that after fiscal year 1977, funds may not be appropriated to or for the use of the Coast Guard for the operation and maintenance of the Coast Guard; for acquisition, construction, rebuilding, or improvement of aids to navigation, shore or offshore establishments, vessels, or aircraft, including equipment related thereto; for alteration of obstructive bridges; or for research, development, tests, or evaluation related to any of the above, unless the appropriation of such funds had been authorized by legislation enacted after December 31, 1976, was repealed and reenacted as [section 662 of this title](./chapter-017-administration.md#section-662) by Pub. L. 97–295, §§ 2(20)(A), 6(b), Oct. 12, 1982, 96 Stat. 1303, 1314 and subsequently transferred to [section 2701 of this title](./chapter-027-authorizations.md#section-2701) by Pub. L. 114–120, title I, § 101(b)(1), (2), Feb. 8, 2016, 130 Stat. 30, 31.
 
 
 <a id="section-657"></a>
@@ -642,168 +649,19 @@ Pub. L. 99–145, title XVI, § 1623, Nov. 8, 1985, 99 Stat. 778, provided that 
 
 
 <a id="section-661"></a>
-## § 661. Authorization of personnel end strengths
-**(a)** For each fiscal year, Congress shall authorize the strength for active duty personnel of the Coast Guard as of the end of that fiscal year. Amounts may be appropriated for a fiscal year to or for the use of active duty personnel of the Coast Guard only if the end strength for active duty personnel for that fiscal year has been authorized by law. If at the end of any fiscal year there is in effect a declaration of war or national emergency, the President may defer the effectiveness of any end-strength limitation with respect to that fiscal year prescribed by law for any military or civilian component of the Coast Guard, for a period not to exceed 6 months after the end of the war or termination of the national emergency.
-
-**(b)**
-
-(1) Congress shall authorize the average military training student loads for the Coast Guard for each fiscal year. That authorization is required for student loads for the following individual training categories:
-
-  (A) Recruit and specialized training.
-
-  (B) Flight training.
-
-  (C) Professional training in military and civilian institutions.
-
-  (D) Officer acquisition training.
-
-(2) Amounts may be appropriated for a fiscal year for use in training military personnel of the Coast Guard in the categories referred to in paragraph (1) only if the average student loads for the Coast Guard for that fiscal year have been authorized by law.
-
-### Statutory Notes
-
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 661 | 14:ch. 11(note). | Sept. 10, 1976, Pub. L. 94–406, § 6, 90 Stat. 1236. |
-
-The words “after fiscal year 1977” are omitted as executed. The word “Amounts” is substituted for “funds” for clarity and consistency.
-
-#### Amendments
-2002—Subsec. (a). Pub. L. 107–295 inserted at end “If at the end of any fiscal year there is in effect a declaration of war or national emergency, the President may defer the effectiveness of any end-strength limitation with respect to that fiscal year prescribed by law for any military or civilian component of the Coast Guard, for a period not to exceed 6 months after the end of the war or termination of the national emergency.”
+## § 661. Renumbered § 2703]
 
 
 <a id="section-662"></a>
-## § 662. Requirement for prior authorization of appropriations
-
-Amounts may be appropriated to or for the use of the Coast Guard for the following matters only if the amounts have been authorized by law after December 31, 1976:
-
-(1) For the operation and maintenance of the Coast Guard.
-
-(2) For the acquisition, construction, rebuilding, and improvement of aids to navigation, shore or offshore establishments, vessels, or aircraft, including equipment related to the aids, establishments, vessels, or aircraft.
-
-(3) For altering obstructive bridges.
-
-(4) For research, development, test, or evaluation related to intelligence systems and capabilities or a matter referred to in clauses (1)–(3).
-
-(5) For environmental compliance and restoration at Coast Guard facilities.
-
-### Statutory Notes
-
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 662 | 14:656(note). | Sept. 10, 1976, Pub. L. 94–406, § 5, 90 Stat. 1236. |
-
-The word “Amounts” is substituted for “funds” for clarity and consistency. Before clause (1), the words “After fiscal year 1977” are omitted as executed. The words “of such funds” are omitted as unnecessary. In clause (2), the words “aids, establishments, vessels, or aircraft” are substituted for “thereto” for clarity. In clause (4), the words “a matter referred to in clauses (1)–(3)” are substituted for “any of the above” for clarity.
-
-#### Amendments
-2010—Par. (4). Pub. L. 111–259 inserted “intelligence systems and capabilities or” after “related to”.
-
-1989—Par. (5). Pub. L. 101–225 added par. (5).
+## § 662. Renumbered § 2701]
 
 
 <a id="section-662a"></a>
-## § 662a. Transmission of annual Coast Guard authorization request
-**(a) In General.—** Not later than 30 days after the date on which the President submits to Congress a budget for a fiscal year pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a Coast Guard authorization request with respect to such fiscal year.
-
-**(b) Coast Guard Authorization Request Defined.—** In this section, the term “Coast Guard authorization request” means a proposal for legislation that, with respect to the Coast Guard for the relevant fiscal year—
-
-(1) recommends end strengths for personnel for that fiscal year, as described in section 661;
-
-(2) recommends authorizations of appropriations for that fiscal year, including with respect to matters described in section 662; and
-
-(3) addresses any other matter that the Secretary determines is appropriate for inclusion in a Coast Guard authorization bill.
+## § 662a. Renumbered § 2901]
 
 
 <a id="section-663"></a>
-## § 663. Capital investment plan
-**(a) In General.—** On the date on which the President submits to Congress a budget pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Commandant of the Coast Guard shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
-
-(1) a capital investment plan for the Coast Guard that identifies for each capital asset for which appropriations are proposed in that budget—
-
-  (A) the proposed appropriations included in the budget;
-
-  (B) the total estimated cost of completion;
-
-  (C) projected funding levels for each fiscal year for the next 5 fiscal years or until project completion, whichever is earlier;
-
-  (D) an estimated completion date at the projected funding levels; and
-
-  (E) an acquisition program baseline, as applicable; and
-
-(2) a list of each unfunded priority for the Coast Guard.
-
-**(b) Unfunded Priority Defined.—** In this section, the term “unfunded priority” means a program or mission requirement that—
-
-(1) has not been selected for funding in the applicable proposed budget;
-
-(2) is necessary to fulfill a requirement associated with an operational need; and
-
-(3) the Commandant would have recommended for inclusion in the applicable proposed budget had additional resources been available or had the requirement emerged before the budget was submitted.
-
-### Statutory Notes
-
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 663 | 14:656(note). | Oct. 3, 1980, Pub. L. 96–376, § 12, 94 Stat. 1511. |
-
-The words “with the fiscal year 1982 budget request” and “subsequent” are omitted as executed.
-
-#### Amendments
-2012—Pub. L. 112–213 amended section generally. Prior to amendment, text read as follows: “The President shall submit to Congress with each budget request for the Coast Guard the current copy of the Coast Guard’s Capital Investment Plan, Cutter Plan, Aviation Plan, Shore Facilities Plan, and Information Resources Management Plan. Not later than 30 days after the date on which the President submits to the Congress a budget under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) which includes a proposed 2-year budget for the Coast Guard, the Secretary shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate, and to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives, detailed Coast Guard budget estimates for the fiscal years covered by such proposed 2-year budget.”
-
-2002—Pub. L. 107–295 substituted “Transportation and Infrastructure” for “Merchant Marine and Fisheries”.
-
-1990—Pub. L. 101–595 substituted “Shore Facilities Plan, and Information Resources Management Plan.” for “and Shore Facilities Plan.”
-
-1988—Pub. L. 100–448 inserted at end “Not later than 30 days after the date on which the President submits to the Congress a budget under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) which includes a proposed 2-year budget for the Coast Guard, the Secretary shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate, and to the Committee on Merchant Marine and Fisheries and the Committee on Appropriations of the House of Representatives, detailed Coast Guard budget estimates for the fiscal years covered by such proposed 2-year budget.”
-
-#### Capital Investment Plan
-Pub. L. 111–281, title IX, § 918, Oct. 15, 2010, 124 Stat. 3022, which required the Commandant to submit to Congress the Coast Guard’s 5-year capital investment plan concurrent with the President’s budget submission for each fiscal year, was repealed by Pub. L. 112–213, title II, § 213(c)(3), Dec. 20, 2012, 126 Stat. 1553.
-
-#### Deepwater Reports
-Pub. L. 109–241, title IV, § 408, July 11, 2006, 120 Stat. 537, as amended by Pub. L. 112–213, title II, § 210(c)(1), Dec. 20, 2012, 126 Stat. 1551, provided that: “[(a) Repealed. Pub. L. 112–213, title II, § 210(c)(1), Dec. 20, 2012, 126 Stat. 1551.] “(b) Deepwater Acceleration Report.—Not later than 30 days after the date of enactment of this Act [July 11, 2006], the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the acceleration of the current Deepwater program acquisition timeline that reflects completion of the Deepwater program in each of 10 years and 15 years and includes—“(1) a detailed explanation of the number and type of each asset that would be procured for each fiscal year under each accelerated acquisition timeline; “(2) the required funding for such completion under each accelerated acquisition timeline; “(3) anticipated costs associated with legacy asset sustainment for the Deepwater program under each accelerated acquisition timeline; “(4) anticipated mission deficiencies, if any, associated with the continued degradation of legacy assets in combination with the procurement of new assets under each accelerated acquisition timeline; and “(5) an evaluation of the overall feasibility of achieving each accelerated acquisition timeline, including—“(A) contractor capacity; “(B) national shipbuilding capacity; “(C) asset integration into Coast Guard facilities; “(D) required personnel; and “(E) training infrastructure capacity on technology associated with new assets. “(c) Oversight Report.—Not later than 90 days after the date of enactment of this Act [July 11, 2006], the Commandant of the Coast Guard, in consultation with the Government Accountability Office, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of the Coast Guard’s implementation of the Government Accountability Office’s recommendations in its report, GAO–04–380, entitled ‘Coast Guard Deepwater Program Needs Increased Attention to Management and Contractor Oversight’, including the dates by which the Coast Guard plans to complete implementation of such recommendations if any of such recommendations remain open as of the date the report is transmitted to the Committees. “(d) Independent Analysis of Revised Deepwater Plan.—The Secretary may periodically, either through an internal review process or a contract with an outside entity, conduct an analysis of all or part of the Deepwater program and assess whether—“(1) the choice of assets and capabilities selected as part of that program meets the Coast Guard’s goals for performance and minimizing total ownership costs; or “(2) additional or different assets should be considered as part of that program.”
-
-#### Revised Deepwater Implementation Plan
-Pub. L. 111–83, title II, Oct. 28, 2009, 123 Stat. 2153, provided in part: “That the Secretary [of Homeland Security] shall submit to the Committees on Appropriations of the Senate and the House of Representatives, in conjunction with the fiscal year 2011 budget request, a comprehensive review of the Revised Deepwater Implementation Plan, and every 5 years thereafter, that includes a complete projection of the acquisition costs and schedule for the duration of the plan”.
-
-Similar provisions were contained in the following prior appropriation acts:
-
-Pub. L. 110–329, div. D, title II, Sept. 30, 2008, 122 Stat. 3665.
-
-Pub. L. 110–161, div. E, title II, Dec. 26, 2007, 121 Stat. 2056.
-
-Pub. L. 109–295, title II, Oct. 4, 2006, 120 Stat. 1365.
-
-Pub. L. 109–90, title II, Oct. 18, 2005, 119 Stat. 2072.
-
-#### Future-Years Capital Investment Plan
-Pub. L. 113–6, div. D, title II, Mar. 26, 2013, 127 Stat. 351, provided in part: “That the Commandant of the Coast Guard shall submit to the Committees on Appropriations of the Senate and the House of Representatives, at the time that the President’s budget is submitted each year under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, a future-years capital investment plan for the Coast Guard that identifies for each requested capital asset—“(1) the proposed appropriations included in that budget; “(2) the total estimated cost of completion, including and clearly delineating the costs of associated major acquisition systems infrastructure and transition to operations; “(3) projected funding levels for each fiscal year for the next 5 fiscal years or until acquisition program baseline or project completion, whichever is earlier; “(4) an estimated completion date at the projected funding levels; and “(5) a current acquisition program baseline for each capital asset, as applicable, that—“(A) includes the total acquisition cost of each asset, subdivided by fiscal year and including a detailed description of the purpose of the proposed funding levels for each fiscal year, including for each fiscal year funds requested for design, pre-acquisition activities, production, structural modifications, missionization, post-delivery, and transition to operations costs; “(B) includes a detailed project schedule through completion, subdivided by fiscal year, that details—“(i) quantities planned for each fiscal year; and “(ii) major acquisition and project events, including development of operational requirements, contracting actions, design reviews, production, delivery, test and evaluation, and transition to operations, including necessary training, shore infrastructure, and logistics; “(C) notes and explains any deviations in cost, performance parameters, schedule, or estimated date of completion from the original acquisition program baseline and the most recent baseline approved by the Department of Homeland Security’s Acquisition Review Board, if applicable; “(D) aligns the acquisition of each asset to mission requirements by defining existing capabilities of comparable legacy assets, identifying known capability gaps between such existing capabilities and stated mission requirements, and explaining how the acquisition of each asset will address such known capability gaps; “(E) defines life-cycle costs for each asset and the date of the estimate on which such costs are based, including all associated costs of major acquisitions systems infrastructure and transition to operations, delineated by purpose and fiscal year for the projected service life of the asset; “(F) includes the earned value management system summary schedule performance index and cost performance index for each asset, if applicable; and “(G) includes a phase-out and decommissioning schedule delineated by fiscal year for each existing legacy asset that each asset is intended to replace or recapitalize: Provided further, That the Commandant of the Coast Guard shall ensure that amounts specified in the future-years capital investment plan are consistent, to the maximum extent practicable, with proposed appropriations necessary to support the programs, projects, and activities of the Coast Guard in the President’s budget as submitted under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, for that fiscal year: Provided further, That any inconsistencies between the capital investment plan and proposed appropriations shall be identified and justified”.
-
-Similar provisions were contained in the following appropriation acts:
-
-Pub. L. 113–76, div. F, title II, Jan. 17, 2014, 128 Stat. 256.
-
-Pub. L. 112–74, div. D, title II, Dec. 23, 2011, 125 Stat. 954.
-
-Pub. L. 111–83, title II, Oct. 28, 2009, 123 Stat. 2153.
-
-Pub. L. 110–329, div. D, title II, Sept. 30, 2008, 122 Stat. 3665.
-
-Pub. L. 110–161, div. E, title II, Dec. 26, 2007, 121 Stat. 2056.
-
-Pub. L. 109–295, title II, Oct. 4, 2006, 120 Stat. 1365.
-
-Pub. L. 109–90, title II, Oct. 18, 2005, 119 Stat. 2072.
-
-Pub. L. 108–334, title II, Oct. 18, 2004, 118 Stat. 1306.
-
-#### Unfunded Priorities
-Pub. L. 108–334, title V, § 514, Oct. 18, 2004, 118 Stat. 1317, provided that: “The Commandant of the Coast Guard shall provide to the Congress each year, at the time that the President’s budget is submitted under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, a list of approved but unfunded Coast Guard priorities and the funds needed for each such priority in the same manner and with the same contents as the unfunded priorities lists submitted by the chiefs of other Armed Services.”
-
-#### Status Reports on Polar Icebreaking Vessels
-Pub. L. 99–640, § 15, Nov. 10, 1986, 100 Stat. 3552, provided that: “The Secretary of the department in which the Coast Guard is operating shall provide detailed reports to Congress concerning the status of design and construction plans for the procurement of at least two new polar icebreaking vessels. Such reports shall be included in the Cutter Plan required annually by [section 663 of title 14](./chapter-017-administration.md#section-663), United States Code, and shall be submitted each year until at least two new polar icebreaking vessels have been delivered to the Coast Guard.”
+## § 663. Renumbered § 2902]
 
 
 <a id="section-664"></a>
@@ -1131,6 +989,72 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 Pub. L. 107–295, title IV, § 405(b), Nov. 25, 2002, 116 Stat. 2116, provided that: “The Secretary shall prescribe the standards required under section 675(a) [676(a)] of title 14, United States Code, as enacted by subsection (a) of this section, before January 1, 2003.”
 
 
+<a id="section-676a"></a>
+## § 676a. Air facility closures
+**(a) Prohibition.—**
+
+(1) **In general.—** — The Coast Guard may not—
+
+  (A) close a Coast Guard air facility that was in operation on November 30, 2014; or
+
+  (B) retire, transfer, relocate, or deploy an aviation asset from an air facility described in subparagraph (A) for the purpose of closing such facility.
+
+(2) **Sunset.—** — Paragraph (1) shall have no force or effect beginning on the later of—
+
+  (A) January 1, 2018; or
+
+  (B) the date on which the Secretary submits to the Committee on Transportation and Infrastructure of the House of Representatives, and to the Committee on Commerce, Science, and Transportation of the Senate, rotary wing strategic plans prepared in accordance with section 208(b) of the Coast Guard Authorization Act of 2016.
+
+**(b) Closures.—**
+
+(1) **In general.—** — Beginning on January 1, 2018, the Secretary may not close a Coast Guard air facility, except as specified by this section.
+
+(2) **Determinations.—** — The Secretary may not propose closing or terminating operations at a Coast Guard air facility unless the Secretary determines that—
+
+  (A) remaining search and rescue capabilities maintain the safety of the maritime public in the area of the air facility;
+
+  (B) regional or local prevailing weather and marine conditions, including water temperatures or unusual tide and current conditions, do not require continued operation of the air facility; and
+
+  (C) Coast Guard search and rescue standards related to search and response times are met.
+
+(3) **Public notice and comment.—** — Prior to closing an air facility, the Secretary shall provide opportunities for public comment, including the convening of public meetings in communities in the area of responsibility of the air facility with regard to the proposed closure or cessation of operations at the air facility.
+
+(4) **Notice to congress.—** — Prior to closure, cessation of operations, or any significant reduction in personnel and use of a Coast Guard air facility that is in operation on or after December 31, 2015, the Secretary shall—
+
+  (A) submit to the Congress a proposal for such closure, cessation, or reduction in operations along with the budget of the President submitted to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim) for the fiscal year in which the action will be carried out; and
+
+  (B) not later than 7 days after the date a proposal for an air facility is submitted pursuant to subparagraph (A), provide written notice of such proposal to each of the following:
+
+    (i) Each member of the House of Representatives who represents a district in which the air facility is located.
+
+    (ii) Each member of the Senate who represents a State in which the air facility is located.
+
+    (iii) Each member of the House of Representatives who represents a district in which assets of the air facility conduct search and rescue operations.
+
+    (iv) Each member of the Senate who represents a State in which assets of the air facility conduct search and rescue operations.
+
+    (v) The Committee on Appropriations of the House of Representatives.
+
+    (vi) The Committee on Transportation and Infrastructure of the House of Representatives.
+
+    (vii) The Committee on Appropriations of the Senate.
+
+    (viii) The Committee on Commerce, Science, and Transportation of the Senate.
+
+**(c) Operational Flexibility.—** The Secretary may implement any reasonable management efficiencies within the air station and air facility network, such as modifying the operational posture of units or reallocating resources as necessary to ensure the safety of the maritime public nationwide.
+
+### Statutory Notes
+
+#### References in Text
+Section 208(b) of the Coast Guard Authorization Act of 2016, referred to in subsec. (a)(2)(B), is section 208(b) of Pub. L. 114–120, title II, Feb. 8, 2016, 130 Stat. 39, which is not classified to the Code.
+
+#### Amendments
+2016—Subsec. (a)(2)(B). Pub. L. 114–328 substituted “Coast Guard Authorization Act of 2016” for “Coast Guard Authorization Act of 2015”.
+
+#### Effective Date of 2016 Amendment
+Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under [section 60 of this title](./chapter-003-composition-and-organization.md#section-60).
+
+
 <a id="section-677"></a>
 ## § 677. Turnkey selection procedures
 **(a) Authority to Use.—** The Secretary may use one-step turnkey selection procedures for the purpose of entering into contracts for construction projects.
@@ -1228,3 +1152,28 @@ shall not be considered an advisory committee under the Federal Advisory Committ
 
 #### References in Text
 The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+
+<a id="section-681-1"></a>
+## § 681.1. Disposition of infrastructure related to E–LORAN
+**(a) In General.—** The Secretary may not carry out activities related to the dismantling or disposal of infrastructure comprising the LORAN–C system until the date on which the Secretary provides to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate notice of a determination by the Secretary that such infrastructure is not required to provide a positioning, navigation, and timing system to provide redundant capability in the event the Global Positioning System signals are disrupted.
+
+**(b) Exception.—** Subsection (a) does not apply to activities necessary for the safety of human life.
+
+**(c) Disposition of Property.—**
+
+(1) **In general.—** — On any date after the notification is made under subsection (a), the Administrator of General Services, acting on behalf of the Secretary, may, notwithstanding any other provision of law, sell any real and personal property under the administrative control of the Coast Guard and used for the LORAN–C system, subject to such terms and conditions that the Secretary believes to be necessary to protect government interests and program requirements of the Coast Guard.
+
+(2) **Availability of proceeds.—**
+
+  (A) *Availability of proceeds.—* — The proceeds of such sales, less the costs of sale incurred by the General Services Administration, shall be deposited as offsetting collections into the Coast Guard “Environmental Compliance and Restoration” account and, without further appropriation, shall be available until expended for—
+
+    (i) environmental compliance and restoration purposes associated with the LORAN–C system;
+
+    (ii) the costs of securing and maintaining equipment that may be used as a backup to the Global Positioning System or to meet any other Federal navigation requirement;
+
+    (iii) the demolition of improvements on such real property; and
+
+    (iv) the costs associated with the sale of such real and personal property, including due diligence requirements, necessary environmental remediation, and reimbursement of expenses incurred by the General Services Administration.
+
+  (B) *Other environmental compliance and restoration activities.—* — After the completion of activities described in subparagraph (A), the unexpended balances of such proceeds shall be available for any other environmental compliance and restoration activities of the Coast Guard.

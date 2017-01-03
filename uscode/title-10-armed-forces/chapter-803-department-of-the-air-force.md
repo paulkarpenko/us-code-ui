@@ -74,7 +74,7 @@ Harry S. Truman.
 ## § 8013. Secretary of the Air Force
 **(a)**
 
-(1) There is a Secretary of the Air Force, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary is the head of the Department of the Air Force.
+(1) There is a Secretary of the Air Force, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary shall, to the greatest extent practicable, be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management or leadership experience. The Secretary is the head of the Department of the Air Force.
 
 (2) A person may not be appointed as Secretary of the Air Force within five years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
@@ -142,6 +142,8 @@ A prior section 8013, acts Aug. 10, 1956, ch. 1041, 70A Stat. 488, § 8012; Sept
 Another prior section 8013 was renumbered [section 8014 of this title](./chapter-803-department-of-the-air-force.md#section-8014) and subsequently repealed.
 
 #### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–328 inserted “The Secretary shall, to the greatest extent practicable, be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management or leadership experience.” after first sentence.
+
 2003—Subsec. (c)(4). Pub. L. 108–136 struck out “(to the maximum extent practicable)” after “fulfill”.
 
 1986—Subsec. (a)(2). Pub. L. 99–661 substituted “five years” for “10 years”.
@@ -219,7 +221,9 @@ Pub. L. 112–239, div. A, title III, § 323, Jan. 2, 2013, 126 Stat. 1696, prov
 
 (3) The total number of general officers assigned or detailed to permanent duty in the Office of the Secretary of the Air Force and on the Air Staff may not exceed 60.
 
-(4) The limitations in paragraphs (1), (2), and (3) do not apply in time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Air Force or on the Air Staff.
+(4) The limitations in paragraphs (1), (2), and (3) do not apply in time of war.
+
+(5) Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.
 
 ### Statutory Notes
 
@@ -229,6 +233,10 @@ A prior section 8014, acts Aug. 10, 1956, ch. 1041, 70A Stat. 489, § 8013; Aug.
 Another prior section 8014 was renumbered [section 8015 of this title](./chapter-803-department-of-the-air-force.md#section-8015) and subsequently repealed.
 
 #### Amendments
+2016—Subsec. (f)(4). Pub. L. 114–328, § 903(e)(1), substituted “time of war.” for “time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Air Force or on the Air Staff.”.
+
+Subsec. (f)(5). Pub. L. 114–328, § 903(e)(2), added par. (5).
+
 2002—Subsec. (b)(5) to (7). Pub. L. 107–314 added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
 2001—Subsec. (f)(3). Pub. L. 107–107 substituted “60” for “the number equal to 85 percent of the number of general officers assigned or detailed to such duty on the date of the enactment of this subsection”.
@@ -280,9 +288,9 @@ For order of succession in event of death, permanent disability, or resignation 
 
 (4)
 
-  (A) One of the Assistant Secretaries shall be the Assistant Secretary of the Air Force for Acquisition. The principal duty of the Assistant Secretary shall be the overall supervision of acquisition matters of the Department of the Air Force.
+  (A) One of the Assistant Secretaries shall be the Assistant Secretary of the Air Force for Acquisition, Technology, and Logistics. The principal duty of the Assistant Secretary shall be the overall supervision of acquisition, technology, and logistics matters of the Department of the Air Force.
 
-  (B) The Assistant Secretary shall have a Principal Military Deputy, who shall be a lieutenant general of the Air Force on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under [section 1733 of this title](./chapter-087-defense-acquisition-workforce.md#section-1733).
+  (B) The Assistant Secretary shall have a Principal Military Deputy, who shall be an officer of the Air Force on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under [section 1733 of this title](./chapter-087-defense-acquisition-workforce.md#section-1733). In the event of a vacancy in the position of Assistant Secretary of the Air Force for Acquisition, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.
 
 ### Statutory Notes
 
@@ -290,11 +298,20 @@ For order of succession in event of death, permanent disability, or resignation 
 Provisions similar to those in this section were contained in [section 3013 of this title](./chapter-303-department-of-the-army.md#section-3013) prior to enactment of Pub. L. 99–433.
 
 #### Amendments
+2016—Subsec. (b)(4)(A). Pub. L. 114–328, § 934(a), substituted “Assistant Secretary of the Air Force for Acquisition, Technology, and Logistics” for “Assistant Secretary of the Air Force for Acquisition” and inserted “, technology, and logistics” after “acquisition”.
+
+Subsec. (b)(4)(B). Pub. L. 114–328, § 802(c), inserted at end “In the event of a vacancy in the position of Assistant Secretary of the Air Force for Acquisition, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.”
+
+Pub. L. 114–328, § 502(ii), substituted “an officer” for “a lieutenant general”.
+
 2008—Subsec. (b)(4). Pub. L. 110–181 added par. (4).
 
 1988—Subsec. (a). Pub. L. 100–456, § 702(d), substituted “four” for “three”.
 
 Subsec. (b)(3). Pub. L. 100–456, § 702(c)[(1)], added par. (3).
+
+#### References
+Pub. L. 114–328, div. A, title IX, § 934(b), Dec. 23, 2016, 130 Stat. 2365, provided that: “Any reference to the Assistant Secretary of the Air Force for Acquisition in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Assistant Secretary of the Air Force for Acquisition, Technology, and Logistics.”
 
 #### Effective Date of 1988 Amendment
 Pub. L. 100–456, div. A, title VII, § 702(e)(2), Sept. 29, 1988, 102 Stat. 1996, provided that: “The amendments made by subsections (c) and (d) [enacting [section 8022 of this title](./chapter-803-department-of-the-air-force.md#section-8022) and amending this section] shall take effect on July 1, 1989, except that such amendments shall take effect on such earlier date, but not before January 21, 1989, as may be prescribed by the President in advance by Executive order.”
@@ -454,9 +471,14 @@ Section effective July 1, 1989, but with an earlier effective date, not before J
 
 <a id="section-8023"></a>
 ## § 8023. Chief of Legislative Liaison
-**(a)** There is a Chief of Legislative Liaison in the Department of the Air Force. An officer assigned to that position shall be an officer in the grade of major general.
+**(a)** There is a Chief of Legislative Liaison in the Department of the Air Force.
 
 **(b)** The Chief of Legislative Liaison shall perform legislative affairs functions as specified for the Office of the Secretary of the Air Force by [section 8014(c)(1)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8014/c/1/F&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendments
+2016—Subsec. (a). Pub. L. 114–328 struck out second sentence which read as follows: “An officer assigned to that position shall be an officer in the grade of major general.”
 
 
 <a id="section-8024"></a>

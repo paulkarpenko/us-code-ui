@@ -145,7 +145,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 **(b) State implementation and enforcement**
 
-(1) Each State identified under subsection (a) of this section with respect to a coastal fishery management plan shall implement and enforce the measures of such plan within the timeframe established in the plan.
+(1) Each State identified under subsection (a) with respect to a coastal fishery management plan shall implement and enforce the measures of such plan within the timeframe established in the plan.
 
 (2) Within 90 days after December 20, 1993, the Commission shall establish a schedule of timeframes within which States shall implement and enforce the measures of coastal fishery management plans in existence before December 20, 1993. No such timeframe shall exceed 12 months after the date on which the schedule is adopted.
 
@@ -156,9 +156,9 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 ## § 5105. State noncompliance with coastal fishery management plans
 **(a) Noncompliance determination** The Commission shall determine that a State is not in compliance with the provisions of a coastal fishery management plan if it finds that the State has not implemented and enforced such plan within the timeframes established under the plan or under [section 5104 of this title](./chapter-071-atlantic-coastal-fisheries-cooperative-management.md#section-5104).
 
-**(b) Notification** Upon making any determination under subsection (a) of this section, the Commission shall within 10 working days notify the Secretaries of such determination. Such notification shall include the reasons for making the determination and an explicit list of actions that the affected State must take to comply with the coastal fishery management plan. The Commission shall provide a copy of the notification to the affected State.
+**(b) Notification** Upon making any determination under subsection (a), the Commission shall within 10 working days notify the Secretaries of such determination. Such notification shall include the reasons for making the determination and an explicit list of actions that the affected State must take to comply with the coastal fishery management plan. The Commission shall provide a copy of the notification to the affected State.
 
-**(c) Withdrawal of noncompliance determination** After making a determination under subsection (a) of this section, the Commission shall continue to monitor State implementation and enforcement. Upon finding that a State has complied with the actions required under subsection (b) of this section, the Commission shall immediately withdraw its determination of noncompliance. The Commission shall promptly notify the Secretaries of such withdrawal.
+**(c) Withdrawal of noncompliance determination** After making a determination under subsection (a), the Commission shall continue to monitor State implementation and enforcement. Upon finding that a State has complied with the actions required under subsection (b), the Commission shall immediately withdraw its determination of noncompliance. The Commission shall promptly notify the Secretaries of such withdrawal.
 
 
 <a id="section-5106"></a>
@@ -169,7 +169,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 (2) if so, whether the measures that the State has failed to implement and enforce are necessary for the conservation of the fishery in question.
 
-**(b) Consideration of comments** In making a finding under subsection (a) of this section, the Secretary shall—
+**(b) Consideration of comments** In making a finding under subsection (a), the Secretary shall—
 
 (A) give careful consideration to the comments of the State that the Commission has determined under [section 5105(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5105/a&num=0&edition=prelim) is not in compliance with a coastal fishery management plan, and provide such State, upon request, with the opportunity to meet with and present its comments directly to the Secretary; and
 
@@ -177,7 +177,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 **(c) Moratorium**
 
-(1) Upon making a finding under subsection (a) of this section that a State has failed to carry out its responsibility under [section 5104 of this title](./chapter-071-atlantic-coastal-fisheries-cooperative-management.md#section-5104) and that the measures it failed to implement and enforce are necessary for conservation, the Secretary shall declare a moratorium on fishing in the fishery in question within the waters of the noncomplying State. The Secretary shall specify the moratorium’s effective date, which shall be any date within 6 months after declaration of the moratorium.
+(1) Upon making a finding under subsection (a) that a State has failed to carry out its responsibility under [section 5104 of this title](./chapter-071-atlantic-coastal-fisheries-cooperative-management.md#section-5104) and that the measures it failed to implement and enforce are necessary for conservation, the Secretary shall declare a moratorium on fishing in the fishery in question within the waters of the noncomplying State. The Secretary shall specify the moratorium’s effective date, which shall be any date within 6 months after declaration of the moratorium.
 
 (2) If after a moratorium is declared under paragraph (1) the Secretary is notified by the Commission that the Commission is withdrawing under [section 5105(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5105/c&num=0&edition=prelim) the determination of noncompliance, the Secretary shall immediately determine whether the State is in compliance with the applicable plan. If so, the moratorium shall be terminated.
 
@@ -195,13 +195,13 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 **(e) Prohibited acts during moratorium** During the time in which a moratorium under this section is in effect, it is unlawful for any person to—
 
-(1) violate the terms of the moratorium or of any implementing regulation issued under subsection (d) of this section;
+(1) violate the terms of the moratorium or of any implementing regulation issued under subsection (d);
 
 (2) engage in fishing for any species of fish to which the moratorium applies within the waters of the State subject to the moratorium;
 
-(3) land, attempt to land, or possess fish that are caught, taken, or harvested in violation of the moratorium or of any implementing regulation issued under subsection (d) of this section;
+(3) land, attempt to land, or possess fish that are caught, taken, or harvested in violation of the moratorium or of any implementing regulation issued under subsection (d);
 
-(4) fail to return to the water immediately, with a minimum of injury, any fish to which the moratorium applies that are taken incidental to fishing for species other than those to which the moratorium applies, except as provided by regulations issued under subsection (d) of this section;
+(4) fail to return to the water immediately, with a minimum of injury, any fish to which the moratorium applies that are taken incidental to fishing for species other than those to which the moratorium applies, except as provided by regulations issued under subsection (d);
 
 (5) refuse to permit any officer authorized to enforce the provisions of this chapter to board a fishing vessel subject to such person’s control for purposes of conducting any search or inspection in connection with the enforcement of this chapter;
 
@@ -215,13 +215,13 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 **(f) Civil and criminal penalties**
 
-(1) Any person who commits any act that is unlawful under subsection (e) of this section shall be liable to the United States for a civil penalty as provided by section 308 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1858](./chapter-038-fishery-conservation-and-management.md#section-1858)).
+(1) Any person who commits any act that is unlawful under subsection (e) shall be liable to the United States for a civil penalty as provided by section 308 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1858](./chapter-038-fishery-conservation-and-management.md#section-1858)).
 
-(2) Any person who commits an act prohibited by paragraph (5), (6), (7), or (9) of subsection (e) of this section is guilty of an offense punishable as provided by section 309(a)(1) and (b) of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1859(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1859/a/1&num=0&edition=prelim) and (b)).
+(2) Any person who commits an act prohibited by paragraph (5), (6), (7), or (9) of subsection (e) is guilty of an offense punishable as provided by section 309(a)(1) and (b) of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1859(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1859/a/1&num=0&edition=prelim) and (b)).
 
 **(g) Civil forfeitures**
 
-(1) Any vessel (including its gear, equipment, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with, or as the result of, the commission of any act that is unlawful under subsection (e) of this section, shall be subject to forfeiture to the United States as provided in section 310 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1860](./chapter-038-fishery-conservation-and-management.md#section-1860)).
+(1) Any vessel (including its gear, equipment, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with, or as the result of, the commission of any act that is unlawful under subsection (e), shall be subject to forfeiture to the United States as provided in section 310 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1860](./chapter-038-fishery-conservation-and-management.md#section-1860)).
 
 (2) Any fish seized pursuant to this chapter may be disposed of pursuant to the order of a court of competent jurisdiction or, if perishable, in a manner prescribed in regulation.
 
@@ -266,7 +266,7 @@ Pub. L. 106–555, title I, § 122(c), Dec. 21, 2000, 114 Stat. 2766, provided t
 
 (4) south of Bois Bubert Island in the area located north of the line 44° 19′ 15′′ N, 67° 49′ 30′′ W and 44° 23′ 45′′ N, 67° 40′ 33′′ W.
 
-**(b) Enforcement** The exemption from Federal fishery permitting requirements granted by subsection (a) of this section may be revoked or suspended by the Secretary in accordance with section 308(g) of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1858(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1858/g&num=0&edition=prelim)) for violations of such Act or this chapter.
+**(b) Enforcement** The exemption from Federal fishery permitting requirements granted by subsection (a) may be revoked or suspended by the Secretary in accordance with section 308(g) of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1858(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1858/g&num=0&edition=prelim)) for violations of such Act or this chapter.
 
 ### Statutory Notes
 
@@ -292,7 +292,7 @@ A prior section 809 of Pub. L. 103–206 was renumbered section 811, and is clas
 
 **(b) Secretary to monitor landings** Before January 1, 1998, the Secretary shall monitor, on a timely basis, landings of American lobster, and, if the Secretary determines that catches from vessels that take lobsters in the exclusive economic zone by a method other than pots or traps have increased significantly, then the Secretary may, consistent with the national standards in section 301 of the Magnuson-Stevens Fishery Conservation and Management Act [[16 U.S.C. 1851](./chapter-038-fishery-conservation-and-management.md#section-1851)], and after opportunity for public comment and consultation with the Atlantic States Marine Fisheries Commission, implement regulations under [section 5103(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5103/b&num=0&edition=prelim) that are necessary for the conservation of American lobster.
 
-**(c) Regulations to remain in effect until plan implemented** Regulations issued under subsection (a) or (b) of this section shall remain in effect until the Secretary implements regulations under [section 5103(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5103/b&num=0&edition=prelim) to implement a coastal fishery management plan for American lobster.
+**(c) Regulations to remain in effect until plan implemented** Regulations issued under subsection (a) or (b) shall remain in effect until the Secretary implements regulations under [section 5103(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5103/b&num=0&edition=prelim) to implement a coastal fishery management plan for American lobster.
 
 ### Statutory Notes
 
@@ -312,7 +312,7 @@ A prior section 810 of Pub. L. 103–206, which repealed section 9 of Pub. L. 98
 ## § 5108. Authorization of appropriations
 **(a) In general** To carry out this chapter, there are authorized to be appropriated $10,000,000 for each of fiscal years 2001 through 2005.
 
-**(b) Cooperative statistics program** Amounts authorized under subsection (a) of this section may be used by the Secretary to support the Commission’s cooperative statistics program.
+**(b) Cooperative statistics program** Amounts authorized under subsection (a) may be used by the Secretary to support the Commission’s cooperative statistics program.
 
 ### Statutory Notes
 

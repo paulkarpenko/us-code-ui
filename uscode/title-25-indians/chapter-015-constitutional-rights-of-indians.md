@@ -364,7 +364,7 @@ Notwithstanding any other provision of law, if any application made by an Indian
 
 (3) have prepared, to the extent determined by the Secretary of the Interior to be feasible, an accurate compilation of the official opinions, published and unpublished, of the Solicitor of the Department of the Interior relating to Indian affairs rendered by the Solicitor prior to September 1, 1967, and to have such compilation printed as a Government publication at the Government Publishing Office.
 
-**(b) Current services** With respect to the document entitled “Indian Affairs, Laws and Treaties” as revised and extended in accordance with paragraph (1) of subsection (a) of this section, and the compilation prepared in accordance with paragraph (3) of such subsection, the Secretary of the Interior shall take such action as may be necessary to keep such document and compilation current on an annual basis.
+**(b) Current services** With respect to the document entitled “Indian Affairs, Laws and Treaties” as revised and extended in accordance with paragraph (1) of subsection (a), and the compilation prepared in accordance with paragraph (3) of such subsection, the Secretary of the Interior shall take such action as may be necessary to keep such document and compilation current on an annual basis.
 
 **(c) Authorization of appropriations** There is authorized to be appropriated for carrying out the provisions of this subchapter such sum as may be necessary.
 

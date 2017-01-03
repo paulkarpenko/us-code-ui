@@ -21,9 +21,9 @@ As used in this chapter—
 
 **(e)** The term “interior furnishing” means any type of furnishing made in whole or in part of fabric or related material and intended for use or which may reasonably be expected to be used, in homes, offices, or other places of assembly or accommodation.
 
-**(f)** The term “fabric” means any material (except fiber, filament, or yarn for other than retail sale) woven, knitted, felted, or otherwise produced from or in combination with any natural or synthetic fiber, film, or substitute therefor which is intended for use or which may reasonably be expected to be used, in any product as defined in paragraph (h) of this section.
+**(f)** The term “fabric” means any material (except fiber, filament, or yarn for other than retail sale) woven, knitted, felted, or otherwise produced from or in combination with any natural or synthetic fiber, film, or substitute therefor which is intended for use or which may reasonably be expected to be used, in any product as defined in subsection (h).
 
-**(g)** The term “related material” means paper, plastic, rubber, synthetic film, or synthetic foam which is intended for use or which may reasonably be expected to be used in any product as defined in paragraph (h) of this section.
+**(g)** The term “related material” means paper, plastic, rubber, synthetic film, or synthetic foam which is intended for use or which may reasonably be expected to be used in any product as defined in subsection (h).
 
 **(h)** The term “product” means any article of wearing apparel or interior furnishing.
 
@@ -47,7 +47,7 @@ Par. (d). Pub. L. 90–189, § 1(3), struck out provisions which excepted hats, 
 
 Par. (e). Pub. L. 90–189, § 1(5), (6), added par. (e) and redesignated former par. (e) as (f).
 
-Par. (f). Pub. L. 90–189, § 1(4), (5), (7), redesignated par. (e) as (f), substituted “(except fiber, filament, or yarn for other than retail sale)” for “(other than fiber, filament, or yarn)” and “for use or which may reasonably be expected to be used, in any product as defined in paragraph (h) of this section” for “or sold for use in wearing apparel except that interlining fabrics when intended or sold for use in wearing apparel shall not be subject to this chapter”, and struck out former par. (f) which defined “interlining”.
+Par. (f). Pub. L. 90–189, § 1(4), (5), (7), redesignated par. (e) as (f), substituted “(except fiber, filament, or yarn for other than retail sale)” for “(other than fiber, filament, or yarn)” and “for use or which may reasonably be expected to be used, in any product as defined in subsection (h)” for “or sold for use in wearing apparel except that interlining fabrics when intended or sold for use in wearing apparel shall not be subject to this chapter”, and struck out former par. (f) which defined “interlining”.
 
 Pars. (g) to (j). Pub. L. 90–189, § 1(5), (8), added pars. (g) and (h) and redesignated former pars. (g) and (h) as (i) and (j), respectively.
 
@@ -103,13 +103,13 @@ Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce,
 
 (2) If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Commission, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Commission, and to be adduced upon the hearing, in such manner and upon such terms and conditions as to the court may seem proper. The Commission may modify its findings, or make new findings, by reason of the additional evidence so taken, and it shall file such modified or new findings, and its recommendations, if any, for the modification or setting aside of its original standard or regulation or amendment thereto, with the return of such additional evidence.
 
-(3) Upon the filing of the petition referred to in paragraph (1) of this subsection, the court shall have jurisdiction to review the standard or regulation in accordance with chapter 7 of title 5 and to grant appropriate relief as provided in such chapter. The standard or regulation shall not be affirmed unless the findings required by the first sentence of subsection (b) of this section are supported by substantial evidence on the record taken as a whole. For purposes of this paragraph, the term “record” means the standard or regulation, any notice published with respect to the promulgation of such standard or regulation, the transcript required by subsection (d) of this section of any oral presentation, any written submission of interested parties, and any other information which the Commission considers relevant to such standard or regulation.
+(3) Upon the filing of the petition referred to in paragraph (1) of this subsection, the court shall have jurisdiction to review the standard or regulation in accordance with chapter 7 of title 5 and to grant appropriate relief as provided in such chapter. The standard or regulation shall not be affirmed unless the findings required by the first sentence of subsection (b) are supported by substantial evidence on the record taken as a whole. For purposes of this paragraph, the term “record” means the standard or regulation, any notice published with respect to the promulgation of such standard or regulation, the transcript required by subsection (d) of any oral presentation, any written submission of interested parties, and any other information which the Commission considers relevant to such standard or regulation.
 
 (4) The judgment of the court affirming or setting aside, in whole or in part, any such standard or regulation of the Commission shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in [section 1254 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1254&num=0&edition=prelim).
 
 (5) The remedies provided for in this subsection shall be in addition to and not in substitution for any other remedies provided by law.
 
-**(f) Transcript of proceedings** A certified copy of the transcript of the record and proceedings under subsection (e) shall be furnished by the Commission to any interested party at his request, and payment of the costs thereof, and shall be admissible in any criminal, exclusion of imports, or other proceeding arising under or in respect of this chapter, irrespective of whether proceedings with respect to the standard or regulation or amendment thereto have previously been initiated or become final under subsection (e) of this section.
+**(f) Transcript of proceedings** A certified copy of the transcript of the record and proceedings under subsection (e) shall be furnished by the Commission to any interested party at his request, and payment of the costs thereof, and shall be admissible in any criminal, exclusion of imports, or other proceeding arising under or in respect of this chapter, irrespective of whether proceedings with respect to the standard or regulation or amendment thereto have previously been initiated or become final under subsection (e).
 
 **(g) Promulgation of regulation; commencement of proceeding; publication of prescribed notice of proposed rulemaking** A proceeding for the promulgation of a regulation under this section for a fabric, related material, or product may be commenced by a notice of proposed rulemaking or by the publication in the Federal Register of an advance notice of proposed rulemaking which shall—
 
@@ -128,11 +128,11 @@ The Commission shall transmit such notice within 10 calendar days to the Committ
 
 **(h) Voluntary standard; publication as proposed regulation; prerequisites for reliance by Commission**
 
-(1) If the Commission determines that any standard submitted to it in response to an invitation in a notice published under subsection (g)(5) of this section if promulgated (in whole, in part, or in combination with any other standard submitted to the Commission or any part of such a standard) as a regulation, would eliminate or adequately reduce the risk of injury identified in the notice provided under subsection (g)(1) of this section, the Commission may publish such standard, in whole, in part, or in such combination and with nonmaterial modifications, as a proposed regulation under this section.
+(1) If the Commission determines that any standard submitted to it in response to an invitation in a notice published under subsection (g)(5) if promulgated (in whole, in part, or in combination with any other standard submitted to the Commission or any part of such a standard) as a regulation, would eliminate or adequately reduce the risk of injury identified in the notice provided under subsection (g)(1), the Commission may publish such standard, in whole, in part, or in such combination and with nonmaterial modifications, as a proposed regulation under this section.
 
 (2) If the Commission determines that—
 
-  (A) compliance with any standard submitted to it in response to an invitation in a notice published under subsection (g)(6) of this section is likely to result in the elimination or adequate reduction of the risk of injury identified in the notice, and
+  (A) compliance with any standard submitted to it in response to an invitation in a notice published under subsection (g)(6) is likely to result in the elimination or adequate reduction of the risk of injury identified in the notice, and
 
   (B) it is likely that there will be substantial compliance with such standard,
   the Commission shall terminate any proceeding to promulgate a regulation respecting such risk of injury and shall publish in the Federal Register a notice which includes the determination of the Commission and which notifies the public that the Commission will rely on the voluntary standard to eliminate or reduce the risk of injury, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.
@@ -149,9 +149,9 @@ The Commission shall transmit such notice within 10 calendar days to the Committ
 
 (1) a preliminary description of the potential benefits and potential costs of the proposed regulation, including any benefits or costs that cannot be quantified in monetary terms, and an identification of those likely to receive the benefits and bear the costs;
 
-(2) a discussion of the reasons any standard or portion of a standard submitted to the Commission under subsection (g)(5) of this section was not published by the Commission as the proposed regulation or part of the proposed regulation;
+(2) a discussion of the reasons any standard or portion of a standard submitted to the Commission under subsection (g)(5) was not published by the Commission as the proposed regulation or part of the proposed regulation;
 
-(3) a discussion of the reasons for the Commission’s preliminary determination that efforts proposed under subsection (g)(6) of this section and assisted by the Commission as required by [section 2054(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2054/a/3&num=0&edition=prelim) would not, within a reasonable period of time, be likely to result in the development of a voluntary standard that would eliminate or adequately reduce the risk of injury identified in the notice provided under subsection (g)(1) of this section; and
+(3) a discussion of the reasons for the Commission’s preliminary determination that efforts proposed under subsection (g)(6) and assisted by the Commission as required by [section 2054(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2054/a/3&num=0&edition=prelim) would not, within a reasonable period of time, be likely to result in the development of a voluntary standard that would eliminate or adequately reduce the risk of injury identified in the notice provided under subsection (g)(1); and
 
 (4) a description of any reasonable alternatives to the proposed regulation, together with a summary description of their potential costs and benefits, and a brief explanation of why such alternatives should not be published as a proposed regulation.
 The Commission shall transmit such notice within 10 calendar days to the appropriate Congressional committees. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed regulation.
@@ -181,7 +181,7 @@ The Commission shall transmit such notice within 10 calendar days to the appropr
 
 (3)
 
-  (A) Any regulatory analysis prepared under subsection (i) of this section or paragraph (1) shall not be subject to independent judicial review, except that when an action for judicial review of a regulation is instituted, the contents of any such regulatory analysis shall constitute part of the whole rulemaking record of agency action in connection with such review.
+  (A) Any regulatory analysis prepared under subsection (i) or paragraph (1) shall not be subject to independent judicial review, except that when an action for judicial review of a regulation is instituted, the contents of any such regulatory analysis shall constitute part of the whole rulemaking record of agency action in connection with such review.
 
   (B) The provisions of subparagraph (A) shall not be construed to alter the substantive or procedural standards otherwise applicable to judicial review of any action by the Commission.
 
@@ -494,13 +494,13 @@ Subsec. (c). Pub. L. 95–631, § 8(a)(3), added subsec. (c).
 
 <a id="section-1203"></a>
 ## § 1203. Preemption of Federal standards
-**(a) Standards or regulations designed to protect against same risk as State standards or regulations; identical State standards** Except as provided in subsections (b) and (c) of this section, whenever a flammability standard or other regulation for a fabric, related material, or product is in effect under this chapter, no State or political subdivision of a State may establish or continue in effect a flammability standard or other regulation for such fabric, related material, or product if the standard or other regulation is designed to protect against the same risk of occurrence of fire with respect to which the standard or other regulation under this chapter is in effect unless the State or political subdivision standard or other regulation is identical to the Federal standard or other regulation.
+**(a) Standards or regulations designed to protect against same risk as State standards or regulations; identical State standards** Except as provided in subsections (b) and (c), whenever a flammability standard or other regulation for a fabric, related material, or product is in effect under this chapter, no State or political subdivision of a State may establish or continue in effect a flammability standard or other regulation for such fabric, related material, or product if the standard or other regulation is designed to protect against the same risk of occurrence of fire with respect to which the standard or other regulation under this chapter is in effect unless the State or political subdivision standard or other regulation is identical to the Federal standard or other regulation.
 
 **(b) State standards or regulations which afford a higher degree of protection** The Federal Government and the government of any State or political subdivision of a State may establish and continue in effect a flammability standard or other regulation applicable to a fabric, related material, or product for its own use which standard or other regulation is designed to protect against a risk of occurrence of fire with respect to which a flammability standard or other regulation is in effect under this chapter and which is not identical to such standard or other regulation if the Federal, State, or political subdivision standard or other regulation provides a higher degree of protection from such risk of occurrence of fire than the standard or other regulation in effect under this chapter.
 
 **(c) Exemption for State standards or regulations; requirements; determination of burden on interstate commerce; notice and hearing**
 
-(1) Upon application of a State or political subdivision of a State, the Commission may, by regulation promulgated in accordance with paragraph (2), exempt from subsection (a) of this section, under such conditions as may be prescribed in such regulation, any flammability standard or other regulation of such State or political subdivision applicable to a fabric, related material, or product subject to a standard or other regulation in effect under this chapter, if—
+(1) Upon application of a State or political subdivision of a State, the Commission may, by regulation promulgated in accordance with paragraph (2), exempt from subsection (a), under such conditions as may be prescribed in such regulation, any flammability standard or other regulation of such State or political subdivision applicable to a fabric, related material, or product subject to a standard or other regulation in effect under this chapter, if—
 
   (A) compliance with the State or political subdivision requirement would not cause the fabric, related material, or product to be in violation of the standard or other regulation in effect under this chapter, and
 
@@ -533,7 +533,7 @@ The provisions of this section establishing the extent to which the Flammable Fa
 ## § 1204. Congressional veto of flammability regulations
 **(a) Transmission to Congress** The Commission shall transmit to the Secretary of the Senate and the Clerk of the House of Representatives a copy of any flammability regulation promulgated by the Commission under [section 1193 of this title](./chapter-025-flammable-fabrics.md#section-1193).
 
-**(b) Disapproval by concurrent resolution** Any regulation specified in subsection (a) of this section shall not take effect if—
+**(b) Disapproval by concurrent resolution** Any regulation specified in subsection (a) shall not take effect if—
 
 (1) within the ninety calendar days of continuous session of the Congress which occur after the date of the promulgation of such regulation, both Houses of the Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows (with the blank spaces appropriately filled): “That the Congress disapproves the flammability regulation which was promulgated under the Flammable Fabrics Act by the Consumer Product Safety Commission with respect to and which was transmitted to the Congress on and disapproves the regulation for the following reasons: .”; or
 
@@ -545,7 +545,7 @@ The provisions of this section establishing the extent to which the Flammable Fa
 
 (1) continuity of session is broken only by an adjournment of the Congress sine die; and
 
-(2) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the periods of continuous session of the Congress specified in subsection (b) of this section.
+(2) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the periods of continuous session of the Congress specified in subsection (b).
 
 ### Statutory Notes
 

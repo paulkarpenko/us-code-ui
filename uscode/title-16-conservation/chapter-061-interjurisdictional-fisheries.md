@@ -88,11 +88,11 @@ Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1
 
 **(c) Limitations**
 
-(1) No State may receive an apportionment under subsection (b) of this section for either fiscal year 1987 or fiscal year 1988 which is less than one-half of one percent of the total amount of funds available for that fiscal year.
+(1) No State may receive an apportionment under subsection (b) for either fiscal year 1987 or fiscal year 1988 which is less than one-half of one percent of the total amount of funds available for that fiscal year.
 
-(2) For any fiscal year after fiscal year 1988, no State that, under the apportionment formula in subsection (b) of this section, has a ratio of one-third of one percent or higher may receive an apportionment for any fiscal year which is less than one percent of the total amount of funds available for that fiscal year.
+(2) For any fiscal year after fiscal year 1988, no State that, under the apportionment formula in subsection (b), has a ratio of one-third of one percent or higher may receive an apportionment for any fiscal year which is less than one percent of the total amount of funds available for that fiscal year.
 
-(3) For any fiscal year after fiscal year 1988, no State may receive an apportionment under this section for any fiscal year if that State’s ratio under the apportionment formula in subsection (b) of this section is less than one-third of one percent, unless the State—
+(3) For any fiscal year after fiscal year 1988, no State may receive an apportionment under this section for any fiscal year if that State’s ratio under the apportionment formula in subsection (b) is less than one-third of one percent, unless the State—
 
   (A) is signatory to an interstate fishery compact;
 
@@ -102,7 +102,7 @@ Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1
 
   (D) has entered into an interstate cooperative fishery management agreement and has in effect an interstate fisheries management or interstate fisheries research program.
 
-(4) No State that, under the apportionment formula in subsection (b) of this section, has a ratio of less than one-third of one percent and meets any of the requirements set forth in paragraph (1)(A), (B), (C), or (D) may receive an apportionment for any fiscal year which is less than one-half of one percent of the total amount of funds available for apportionment for such fiscal year.
+(4) No State that, under the apportionment formula in subsection (b), has a ratio of less than one-third of one percent and meets any of the requirements set forth in paragraph (1)(A), (B), (C), or (D) may receive an apportionment for any fiscal year which is less than one-half of one percent of the total amount of funds available for apportionment for such fiscal year.
 
 (5) No State may receive an apportionment for any fiscal year under this section which is more than 6 percent of the total amount of funds available for apportionment for such fiscal year.
 
@@ -113,7 +113,7 @@ Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1
 (2) with respect to which the State notifies the Secretary that it does not wish to receive that part; or
 
 (3) that is returned to the Secretary by the State,
-may not be considered to be apportioned to that State and shall be added to such funds as are appropriated pursuant to [section 4107(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4107/a&num=0&edition=prelim) for the next fiscal year (and shall be treated as having been appropriated for such next year) for apportionment under subsection (a) of this section. Any notification or return of funds referred to in paragraph (2) or (3) by a State is irrevocable.
+may not be considered to be apportioned to that State and shall be added to such funds as are appropriated pursuant to [section 4107(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4107/a&num=0&edition=prelim) for the next fiscal year (and shall be treated as having been appropriated for such next year) for apportionment under subsection (a). Any notification or return of funds referred to in paragraph (2) or (3) by a State is irrevocable.
 
 ### Statutory Notes
 
@@ -156,7 +156,7 @@ may not be considered to be apportioned to that State and shall be added to such
 
   (B) For the purposes of this chapter, funds apportioned under this section to any State shall be treated as having been obligated with respect to a project during the fiscal year in which the written notification of approval required under subparagraph (A) for the project proposal is made.
 
-**(b) Restriction** The expenditure of funds under this chapter shall be applied only to projects for which a proposal has been approved under subsection (a) of this section, except that up to $25,000 each fiscal year may be obligated for a State to carry out an agreement with the Secretary or the Secretary of the Interior under which the personnel, services and equipment of the State and the Federal agency concerned will be made mutually available for the enforcement of Federal and State laws pertaining to the protection of fishery resources. If otherwise applied, such funds shall be replaced by the State before the State may receive any additional funds under this chapter.
+**(b) Restriction** The expenditure of funds under this chapter shall be applied only to projects for which a proposal has been approved under subsection (a), except that up to $25,000 each fiscal year may be obligated for a State to carry out an agreement with the Secretary or the Secretary of the Interior under which the personnel, services and equipment of the State and the Federal agency concerned will be made mutually available for the enforcement of Federal and State laws pertaining to the protection of fishery resources. If otherwise applied, such funds shall be replaced by the State before the State may receive any additional funds under this chapter.
 
 **(c) Payment** When the Secretary determines that a project carried out under a proposal approved by the Secretary has been completed, or where the Secretary otherwise deems it appropriate, the Secretary shall cause to be paid to the proper authority of the State, or to the official or depository designated by the interstate commission if the State agency specifies that payment is to be made to the interstate commission, the Federal share of the project. Any payment made to an interstate commission shall be charged against the apportionment of the State concerned.
 
@@ -206,7 +206,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 ## § 4107. Authorization of appropriations
 **(a) General appropriations** There are authorized to be appropriated to the Secretary of Commerce for apportionment to carry out the purposes of this chapter $5,000,000 for each of fiscal years 2007 through 2010, and $2,500,000 for each of fiscal years 2011 and 2012.
 
-**(b) Additional appropriations** In addition to the amounts authorized in subsection (a) of this section, there are authorized to be appropriated to the Department of Commerce $65,000,000 for each of the fiscal years 1994 and 1995, which shall be available in such amounts as the Secretary may determine appropriate for the purposes of this chapter; except that—
+**(b) Additional appropriations** In addition to the amounts authorized in subsection (a), there are authorized to be appropriated to the Department of Commerce $65,000,000 for each of the fiscal years 1994 and 1995, which shall be available in such amounts as the Secretary may determine appropriate for the purposes of this chapter; except that—
 
 (1) in providing funds to States under this subsection, the Secretary shall give a preference to those States regarding which the Secretary determines there is a commercial fishery failure or serious disruption affecting future production due to a fishery resource disaster arising from natural or undetermined causes, and any sums made available under this subsection may be used either by the States or directly by the Secretary in cooperation with the States for any purpose that the Secretary determines is appropriate to restore the fishery affected by such a failure or to prevent a similar failure in the future;
 
@@ -215,7 +215,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 (3) the Federal share of the cost of any activity carried out with an amount appropriated under the authority of this subsection shall be 75 percent of the cost of that activity.
 Amounts appropriated under this subsection shall remain available until expended.
 
-**(c) Development of management plans** In addition to the amounts authorized under subsections (a) and (b) of this section, there are authorized to be appropriated to the Department of Commerce $900,000 for each of fiscal years 2007 through 2012, to support the efforts of the following interstate commissions to develop interstate fishery management plans for interjurisdictional fishery resources:
+**(c) Development of management plans** In addition to the amounts authorized under subsections (a) and (b), there are authorized to be appropriated to the Department of Commerce $900,000 for each of fiscal years 2007 through 2012, to support the efforts of the following interstate commissions to develop interstate fishery management plans for interjurisdictional fishery resources:
 
 (1) The commission established by the Atlantic States Marine Fisheries Compact, as consented to and approved by Public Law 77–539 (56 Stat. 267), approved May 4, 1942.
 
@@ -225,7 +225,7 @@ Amounts appropriated under this subsection shall remain available until expended
 
 **(d) Assistance to commercial fishermen**
 
-(1) In addition to the amounts authorized under subsections (a), (b), and (c) of this section, there are authorized to be appropriated to the Department of Commerce $65,000,000 for fiscal year 1992 to enable the Secretary to help persons engaged in commercial fisheries, either by providing assistance directly to those persons or by providing assistance indirectly through States and local government agencies and nonprofit organizations, for projects or other measures to alleviate harm determined by the Secretary to have been incurred as a direct result of a fishery resource disaster arising from Hurricane Hugo, Hurricane Andrew, Hurricane Iniki, or any other natural disaster. Amounts appropriated under this subsection shall remain available until expended.
+(1) In addition to the amounts authorized under subsections (a), (b), and (c), there are authorized to be appropriated to the Department of Commerce $65,000,000 for fiscal year 1992 to enable the Secretary to help persons engaged in commercial fisheries, either by providing assistance directly to those persons or by providing assistance indirectly through States and local government agencies and nonprofit organizations, for projects or other measures to alleviate harm determined by the Secretary to have been incurred as a direct result of a fishery resource disaster arising from Hurricane Hugo, Hurricane Andrew, Hurricane Iniki, or any other natural disaster. Amounts appropriated under this subsection shall remain available until expended.
 
 (2) The Secretary shall determine the extent, and the beginning and ending dates, of any fishery resource disaster under this subsection.
 

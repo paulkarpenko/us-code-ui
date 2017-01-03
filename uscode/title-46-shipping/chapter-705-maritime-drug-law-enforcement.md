@@ -120,12 +120,14 @@ Subsec. (f). Pub. L. 110–407 added subsec. (f).
 
 
 <a id="section-70503"></a>
-## § 70503. Manufacture, distribution, or possession of controlled substances on vessels
-**(a) Prohibitions.—** An individual may not knowingly or intentionally manufacture or distribute, or possess with intent to manufacture or distribute, a controlled substance on board—
+## § 70503. Prohibited acts
+**(a) Prohibitions.—** While on board a covered vessel, an individual may not knowingly or intentionally—
 
-(1) a vessel of the United States or a vessel subject to the jurisdiction of the United States; or
+(1) manufacture or distribute, or possess with intent to manufacture or distribute, a controlled substance;
 
-(2) any vessel if the individual is a citizen of the United States or a resident alien of the United States.
+(2) destroy (including jettisoning any item or scuttling, burning, or hastily cleaning a vessel), or attempt or conspire to destroy, property that is subject to forfeiture under section 511(a) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 881(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section881/a&num=0&edition=prelim)); or
+
+(3) conceal, or attempt or conspire to conceal, more than $100,000 in currency or other monetary instruments on the person of such individual or in any conveyance, article of luggage, merchandise, or other container, or compartment of or aboard the covered vessel if that vessel is outfitted for smuggling.
 
 **(b) Extension Beyond Territorial Jurisdiction.—** Subsection (a) applies even though the act is committed outside the territorial jurisdiction of the United States.
 
@@ -141,6 +143,12 @@ Subsec. (f). Pub. L. 110–407 added subsec. (f).
 
 **(d) Burden of Proof.—** The United States Government is not required to negative a defense provided by subsection (c) in a complaint, information, indictment, or other pleading or in a trial or other proceeding. The burden of going forward with the evidence supporting the defense is on the person claiming its benefit.
 
+**(e) Covered Vessel Defined.—** In this section the term “covered vessel” means—
+
+(1) a vessel of the United States or a vessel subject to the jurisdiction of the United States; or
+
+(2) any other vessel if the individual is a citizen of the United States or a resident alien of the United States.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -154,6 +162,17 @@ Subsec. (f). Pub. L. 110–407 added subsec. (f).
 In subsection (a), before paragraph (1), the words “may not” are substituted for “It is unlawful for” for consistency in the revised title and to eliminate unnecessary words.
 
 In subsection (b), the words “applies to” are substituted for “is intended to reach” for clarity and to eliminate unnecessary words.
+
+#### Amendments
+2016—Pub. L. 114–120, § 314(e)(1), substituted “Prohibited acts” for “Manufacture, distribution, or possession of controlled substances on vessels” in section catchline.
+
+Subsec. (a). Pub. L. 114–120, § 314(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “An individual may not knowingly or intentionally manufacture or distribute, or possess with intent to manufacture or distribute, a controlled substance on board—
+
+“(1) a vessel of the United States or a vessel subject to the jurisdiction of the United States; or
+
+“(2) any vessel if the individual is a citizen of the United States or a resident alien of the United States.”
+
+Subsec. (e). Pub. L. 114–120, § 314(b), added subsec. (e).
 
 
 <a id="section-70504"></a>
@@ -195,7 +214,7 @@ A person charged with violating [section 70503 of this title](./chapter-705-mari
 
 <a id="section-70506"></a>
 ## § 70506. Penalties
-**(a) Violations.—** A person violating [section 70503 of this title](./chapter-705-maritime-drug-law-enforcement.md#section-70503) shall be punished as provided in section 1010 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 960](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section960&num=0&edition=prelim)). However, if the offense is a second or subsequent offense as provided in section 1012(b) of that Act ([21 U.S.C. 962(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section962/b&num=0&edition=prelim)), the person shall be punished as provided in section 1012 of that Act ([21 U.S.C. 962](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section962&num=0&edition=prelim)).
+**(a) Violations.—** A person violating paragraph (1) of [section 70503(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70503/a&num=0&edition=prelim) shall be punished as provided in section 1010 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 960](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section960&num=0&edition=prelim)). However, if the offense is a second or subsequent offense as provided in section 1012(b) of that Act ([21 U.S.C. 962(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section962/b&num=0&edition=prelim)), the person shall be punished as provided in section 1012 of that Act ([21 U.S.C. 962](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section962&num=0&edition=prelim)).
 
 **(b) Attempts and Conspiracies.—** A person attempting or conspiring to violate [section 70503 of this title](./chapter-705-maritime-drug-law-enforcement.md#section-70503) is subject to the same penalties as provided for violating section 70503.
 
@@ -206,6 +225,8 @@ A person charged with violating [section 70503 of this title](./chapter-705-mari
 (2) **Determination of amount.—** — In determining the amount of the penalty, the Secretary shall consider the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and other matters that justice requires.
 
 (3) **Treatment of civil penalty assessment.—** — Assessment of a civil penalty under this subsection shall not be considered a conviction for purposes of State or Federal law but may be considered proof of possession if such a determination is relevant.
+
+**(d) Penalty.—** A person violating paragraph (2) or (3) of section 70503(a) shall be fined in accordance with [section 3571 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3571&num=0&edition=prelim), imprisoned not more than 15 years, or both.
 
 ### Statutory Notes
 
@@ -221,12 +242,16 @@ In subsection (b), the words “the commission of which was the object of the at
 The Controlled Substances Act, referred to in subsec. (c)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–120, § 314(c)(1), substituted “A person violating paragraph (1) of section 70503(a)” for “A person violating section 70503”.
+
+Subsec. (d). Pub. L. 114–120, § 314(c)(2), added subsec. (d).
+
 2010—Subsec. (c). Pub. L. 111–281 added subsec. (c).
 
 
 <a id="section-70507"></a>
 ## § 70507. Forfeitures
-**(a) In General.—** Property described in section 511(a) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 881(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section881/a&num=0&edition=prelim)) that is used or intended for use to commit, or to facilitate the commission of, an offense under [section 70503 of this title](./chapter-705-maritime-drug-law-enforcement.md#section-70503) may be seized and forfeited in the same manner that similar property may be seized and forfeited under section 511 of that Act ([21 U.S.C. 881](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section881&num=0&edition=prelim)).
+**(a) In General.—** Property described in section 511(a) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 881(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section881/a&num=0&edition=prelim)) that is used or intended for use to commit, or to facilitate the commission of, an offense under section 70503 or 70508 of this title may be seized and forfeited in the same manner that similar property may be seized and forfeited under section 511 of that Act ([21 U.S.C. 881](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section881&num=0&edition=prelim)).
 
 **(b) Prima Facie Evidence of Violation.—** Practices commonly recognized as smuggling tactics may provide prima facie evidence of intent to use a vessel to commit, or to facilitate the commission of, an offense under [section 70503 of this title](./chapter-705-maritime-drug-law-enforcement.md#section-70503), and may support seizure and forfeiture of the vessel, even in the absence of controlled substances aboard the vessel. The following indicia, among others, may be considered, in the totality of the circumstances, to be prima facie evidence that a vessel is intended to be used to commit, or to facilitate the commission of, such an offense:
 
@@ -268,6 +293,9 @@ The Controlled Substances Act, referred to in subsec. (c)(1), is title II of Pub
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 70507 | 46 App.:1904. | Pub. L. 96–350, § 4, Sept. 15, 1980, 94 Stat. 1160; Pub. L. 99–570, title III, § 3202, Oct. 27, 1986, 100 Stat. 3207–97; Pub. L. 99–640, § 17, Nov. 10, 1986, 100 Stat. 3554; Pub. L. 107–295, title IV, § 418(b), Nov. 25, 2002, 116 Stat. 2123. |
+
+#### Amendments
+2016—Subsec. (a). Pub. L. 114–120 substituted “section 70503 or 70508” for “section 70503”.
 
 
 <a id="section-70508"></a>

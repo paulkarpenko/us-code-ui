@@ -36,8 +36,8 @@ In this chapter:
 Pub. L. 111–281, title II, § 221(b), Oct. 15, 2010, 124 Stat. 2920, provided that: “This section [amending this section and sections 681, 685, 687, and 688 of this title and repealing sections 682 to 684, 686, 687a, and 689 of this title] shall not affect any action commenced prior to the date of enactment of this Act [Oct. 15, 2010].”
 
 
-<a id="section-681"></a>
-## § 681. General authority
+<a id="section-681-1"></a>
+## § 681.1. General authority
 **(a) Authority.—** In addition to any other authority providing for the acquisition or construction of military family housing or military unaccompanied housing, the Secretary may acquire or construct the following:
 
 (1) Military family housing on or near Coast Guard installations within the United States and its territories and possessions.

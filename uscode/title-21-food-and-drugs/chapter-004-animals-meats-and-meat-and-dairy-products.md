@@ -271,9 +271,9 @@ Section 114h, Pub. L. 87–209, § 2, Sept. 6, 1961, 75 Stat. 481, related to ad
 
 **(b) Establishment of program** The Secretary of Agriculture shall establish and carry out a program for the eradication of pseudorabies in United States swine populations.
 
-**(c) Use of funds for testing and control of pseudorabies** The Secretary shall ensure that not less than 65 percent of the funds appropriated for the program established under subsection (b) of this section shall be used for testing and screening of animals and for other purposes directly related to the eradication or control of pseudorabies. This requirement on the use of appropriated funds for this program shall not be implemented in a manner that would adversely affect any other animal or plant disease or pest eradication or control program.
+**(c) Use of funds for testing and control of pseudorabies** The Secretary shall ensure that not less than 65 percent of the funds appropriated for the program established under subsection (b) shall be used for testing and screening of animals and for other purposes directly related to the eradication or control of pseudorabies. This requirement on the use of appropriated funds for this program shall not be implemented in a manner that would adversely affect any other animal or plant disease or pest eradication or control program.
 
-**(d) Authorization of appropriations** There are authorized to be appropriated for each of the fiscal years 1991 through 2007 such sums as may be necessary for the purpose of carrying out the program established under subsection (b) of this section.
+**(d) Authorization of appropriations** There are authorized to be appropriated for each of the fiscal years 1991 through 2007 such sums as may be necessary for the purpose of carrying out the program established under subsection (b).
 
 ### Statutory Notes
 
@@ -630,13 +630,13 @@ The Secretary of Agriculture, in carrying out regulations prohibiting or restric
 
   (D) any other Act administered by the Secretary relating to plant or animal diseases or pests.
 
-(2) **Customs territory** — For the purposes of subsection (a) of this section, the term “customs territory of the United States” means the 50 States, the District of Columbia, and Puerto Rico.
+(2) **Customs territory** — For the purposes of subsection (a), the term “customs territory of the United States” means the 50 States, the District of Columbia, and Puerto Rico.
 
 (3) **Person** — For the purposes of this section, the term “person” means an individual, corporation, partnership, trust, association, or any other public or private entity, or any officer, employee, or agent thereof.
 
-(4) **United States** — For the purposes of subsection (b) of this section, the term “United States” means the several States of the United States, the District of Columbia, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and all other territories and possessions of the United States.
+(4) **United States** — For the purposes of subsection (b), the term “United States” means the several States of the United States, the District of Columbia, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and all other territories and possessions of the United States.
 
-(5) **Vessel** — For the purposes of subsection (a) of this section, the term “vessel” does not include any ferry.
+(5) **Vessel** — For the purposes of subsection (a), the term “vessel” does not include any ferry.
 
 ### Statutory Notes
 

@@ -2,7 +2,7 @@
 title: 49
 chapter: '201'
 heading: GENERAL
-section_count: 57
+section_count: 59
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -20,6 +20,13 @@ The purpose of this chapter is to promote safety in every area of railroad opera
 
 The words “The Congress declares that” are omitted as surplus. The words “accidents and incidents” are substituted for “accidents” for consistency with the source provisions restated in section 20105(b)(1)(B) of the revised title. The words “and to reduce deaths and injuries to persons and to reduce damage to property caused by accidents involving any carrier of hazardous materials” are omitted as obsolete because they applied to 49 App.:1761 and 1762, that were repealed by section 113(g) of the Hazardous Materials Transportation Act (Public Law 93–633, 88 Stat. 2163).
 
+#### Short Title of 2015 Amendment
+Pub. L. 114–94, div. A, title XI, § 11001, Dec. 4, 2015, 129 Stat. 1622, provided that: “This title [see Tables for classification] may be cited as the ‘Passenger Rail Reform and Investment Act of 2015’.”
+
+Pub. L. 114–94, div. A, title XI, § 11501, Dec. 4, 2015, 129 Stat. 1690, provided that: “This subtitle [subtitle E (§§ 11501–11504) of title XI of div. A of Pub. L. 114–94, enacting sections 24201 and 24202 of this title, amending [section 303 of this title](./chapter-003-general-duties-and-powers.md#section-303) and [section 138 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section138&num=0&edition=prelim), Highways, and enacting provisions set out as a note under [section 4370m of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m&num=0&edition=prelim), The Public Health and Welfare] may be cited as the ‘Track, Railroad, and Infrastructure Network Act’ or the ‘TRAIN Act’.”
+
+Pub. L. 114–73, title I, § 1302(a), Oct. 29, 2015, 129 Stat. 576, provided that: “This section [amending [section 20157 of this title](./chapter-201-general.md#section-20157)] may be cited as the ‘Positive Train Control Enforcement and Implementation Act of 2015’.”
+
 #### Short Title of 2008 Amendment
 Pub. L. 110–432, div. A, § 1(a), Oct. 16, 2008, 122 Stat. 4848, provided that: “This division [see Tables for classification] may be cited as the ‘Rail Safety Improvement Act of 2008’.”
 
@@ -33,8 +40,11 @@ Pub. L. 103–440, title I, § 101, Nov. 2, 1994, 108 Stat. 4615, provided that:
 
 Pub. L. 103–440, title II, § 201, Nov. 2, 1994, 108 Stat. 4619, provided that: “This title [enacting sections 20145 to 20151 and 21108 of this title, amending sections 103, 20103, 20111, 20116, 20117, 20133, 20142, and 21303 of this title, and enacting provisions set out as a note under [section 11504 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11504&num=0&edition=prelim)] may be cited as the ‘Federal Railroad Safety Authorization Act of 1994’.”
 
+#### Shared-Use Study
+Pub. L. 114–94, div. A, title XI, § 11311, Dec. 4, 2015, 129 Stat. 1670, provided that: “(a) In General.—Not later than 3 years after the date of enactment of this Act [Dec. 4, 2015], the Secretary [of Transportation], in consultation with Amtrak, commuter rail passenger transportation authorities, other railroad carriers, railroad carriers that own rail infrastructure over which both passenger and freight trains operate, States, the Surface Transportation Board, the Northeast Corridor Commission established under [section 24905 of title 49](./chapter-249-northeast-corridor-improvement-program.md#section-24905), United States Code, the State-Supported Route Committee established under section 24712 of such title, and groups representing rail passengers and customers, as appropriate, shall complete a study that evaluates—“(1) the shared use of right-of-way by passenger and freight rail systems; and “(2) the operational, institutional, and legal structures that would best support improvements to the systems referred to in paragraph (1). “(b) Areas of Study.—In conducting the study under subsection (a), the Secretary shall evaluate—“(1) the access and use of railroad right-of-way by a rail carrier that does not own the right-of-way, such as passenger rail services that operate over privately-owned right-of-way, including an analysis of—“(A) access agreements; “(B) costs of access; and “(C) the resolution of disputes relating to such access or costs; “(2) the effectiveness of existing contractual, statutory, and regulatory mechanisms for establishing, measuring, and enforcing train performance standards, including—“(A) the manner in which passenger train delays are recorded; “(B) the assignment of responsibility for such delays; and “(C) the use of incentives and penalties for performance; “(3) the strengths and weaknesses of the existing mechanisms described in paragraph (2) and possible approaches to address the weaknesses; “(4) mechanisms for measuring and maintaining public benefits resulting from publicly funded freight or passenger rail improvements, including improvements directed towards shared-use right-of-way by passenger and freight rail; “(5) approaches to operations, capacity, and cost estimation modeling that—“(A) allow for transparent decisionmaking; and “(B) protect the proprietary interests of all parties; “(6) liability requirements and arrangements, including—“(A) whether to expand statutory liability limits to additional parties; “(B) whether to revise the current statutory liability limits; “(C) whether current insurance levels of passenger rail operators are adequate and whether to establish minimum insurance requirements for such passenger rail operators; and “(D) whether to establish alternative insurance models, including other models administered by the Federal Government; “(7) the effect on rail passenger services, operations, liability limits, and insurance levels of the assertion of sovereign immunity by a State; and “(8) other issues identified by the Secretary. “(c) Report.—Not later than 60 days after the study under subsection (a) is complete, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—“(1) the results of the study; and “(2) any recommendations for further action, including any legislative proposals consistent with such recommendations. “(d) Implementation.—The Secretary shall integrate, as appropriate, the recommendations submitted under subsection (c) into the financial assistance programs under subtitle V of title 49, United States Code, and section 502 of the Railroad Revitalization and Regulatory Reform Act of 1976 ([45 U.S.C. 822](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section822&num=0&edition=prelim)).”
+
 #### Railroad Safety Strategy
-Pub. L. 110–432, div. A, title I, § 102, Oct. 16, 2008, 122 Stat. 4852, provided that: “(a) Safety Goals.—In conjunction with existing federally-required and voluntary strategic planning efforts ongoing at the Department and the Federal Railroad Administration as of the date of enactment of this Act [Oct. 16, 2008], the Secretary shall develop a long-term strategy for improving railroad safety to cover a period of not less than 5 years. The strategy shall include an annual plan and schedule for achieving, at a minimum, the following goals:“(1) Reducing the number and rates of accidents, incidents, injuries, and fatalities involving railroads including train collisions, derailments, and human factors. “(2) Improving the consistency and effectiveness of enforcement and compliance programs. “(3) Improving the identification of high-risk highway-rail grade crossings and strengthening enforcement and other methods to increase grade crossing safety. “(4) Improving research efforts to enhance and promote railroad safety and performance. “(5) Preventing railroad trespasser accidents, incidents, injuries, and fatalities. “(6) Improving the safety of railroad bridges, tunnels, and related infrastructure to prevent accidents, incidents, injuries, and fatalities caused by catastrophic failures and other bridge and tunnel failures. “(b) Resource Needs.—The strategy and annual plan shall include estimates of the funds and staff resources needed to accomplish the goals established by subsection (a). Such estimates shall also include the staff skills and training required for timely and effective accomplishment of each such goal. “(c) Submission With the President’s Budget.—The Secretary shall submit the strategy and annual plan to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure at the same time as the President’s budget submission. “(d) Achievement of Goals.—“(1) Progress assessment.—No less frequently than annually, the Secretary shall assess the progress of the Department toward achieving the strategic goals described in subsection (a). The Secretary shall identify any deficiencies in achieving the goals within the strategy and develop and institute measures to remediate such deficiencies. The Secretary and the Administrator shall convey their assessment to the employees of the Federal Railroad Administration and shall identify any deficiencies that should be remediated before the next progress assessment. “(2) Report to congress.—Beginning in 2009, not later than November 1 of each year, the Secretary shall transmit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure on the performance of the Federal Railroad Administration containing the progress assessment required by paragraph (1) toward achieving the goals of the railroad safety strategy and annual plans under subsection (a).”
+Pub. L. 110–432, div. A, title I, § 102, Oct. 16, 2008, 122 Stat. 4852, as amended by Pub. L. 114–94, div. A, title XI, § 11316(j)(3), Dec. 4, 2015, 129 Stat. 1677, provided that: “(a) Safety Goals.—In conjunction with existing federally-required and voluntary strategic planning efforts ongoing at the Department and the Federal Railroad Administration as of the date of enactment of this Act [Oct. 16, 2008], the Secretary shall develop a long-term strategy for improving railroad safety to cover a period of not less than 5 years. The strategy shall include an annual plan and schedule for achieving, at a minimum, the following goals:“(1) Reducing the number and rates of accidents, incidents, injuries, and fatalities involving railroads including train collisions, derailments, and human factors. “(2) Improving the consistency and effectiveness of enforcement and compliance programs. “(3) Improving the identification of high-risk highway-rail grade crossings and strengthening enforcement and other methods to increase grade crossing safety. “(4) Improving research efforts to enhance and promote railroad safety and performance. “(5) Preventing railroad trespasser accidents, incidents, injuries, and fatalities. “(6) Improving the safety of railroad bridges, tunnels, and related infrastructure to prevent accidents, incidents, injuries, and fatalities caused by catastrophic and other failures of such infrastructure. “(b) Resource Needs.—The strategy and annual plan shall include estimates of the funds and staff resources needed to accomplish the goals established by subsection (a). Such estimates shall also include the staff skills and training required for timely and effective accomplishment of each such goal. “(c) Submission With the President’s Budget.—The Secretary shall submit the strategy and annual plan to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure at the same time as the President’s budget submission. “(d) Achievement of Goals.—“(1) Progress assessment.—No less frequently than annually, the Secretary shall assess the progress of the Department toward achieving the strategic goals described in subsection (a). The Secretary shall identify any deficiencies in achieving the goals within the strategy and develop and institute measures to remediate such deficiencies. The Secretary and the Administrator shall convey their assessment to the employees of the Federal Railroad Administration and shall identify any deficiencies that should be remediated before the next progress assessment. “(2) Report to congress.—Beginning in 2009, not later than November 1 of each year, the Secretary shall transmit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure on the performance of the Federal Railroad Administration containing the progress assessment required by paragraph (1) toward achieving the goals of the railroad safety strategy and annual plans under subsection (a).”
 
 [For definitions of “railroad”, “Department”, “Secretary”, and “crossing”, as used in section 102 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under [section 20102 of this title](./chapter-201-general.md#section-20102).]
 
@@ -101,7 +111,7 @@ Clause (2) is added to distinguish between railroad transportation and the entit
 Par. (3). Pub. L. 110–432, § 407, amended par. (3) generally. Prior to amendment, text read as follows: “ ‘railroad carrier’ means a person providing railroad transportation.”
 
 #### Definitions Applicable to Division A of Pub. L. 110–432
-Pub. L. 110–432, div. A, § 2(a), Oct. 16, 2008, 122 Stat. 4849, provided that: “In this division [see Short Title of 2008 Amendment note set out under [section 20101 of this title](./chapter-201-general.md#section-20101)]: “(1) Crossing.—The term ‘crossing’ means a location within a State, other than a location where one or more railroad tracks cross one or more railroad tracks at grade[,] where—“(A) a public highway, road, or street, or a private roadway, including associated sidewalks and pathways, crosses one or more railroad tracks either at grade or grade-separated; or “(B) a pathway explicitly authorized by a public authority or a railroad carrier that is dedicated for the use of nonvehicular traffic, including pedestrians, bicyclists, and others, that is not associated with a public highway, road, or street, or a private roadway, crosses one or more railroad tracks either at grade or grade-separated. “(2) Department.—The term ‘Department’ means the Department of Transportation. “(3) Railroad.—The term ‘railroad’ has the meaning given that term by [section 20102 of title 49](./chapter-201-general.md#section-20102), United States Code. “(4) Railroad carrier.—The term ‘railroad carrier’ has the meaning given that term by [section 20102 of title 49](./chapter-201-general.md#section-20102), United States Code. “(5) Secretary.—The term ‘Secretary’ means the Secretary of Transportation. “(6) State.—The term ‘State’ means a State of the United States, the District of Columbia, or the Commonwealth of Puerto Rico.”
+Pub. L. 110–432, div. A, § 2(a), Oct. 16, 2008, 122 Stat. 4849, as amended by Pub. L. 114–94, div. A, title XI, § 11316(j)(2), Dec. 4, 2015, 129 Stat. 1677, provided that: “In this division [see Short Title of 2008 Amendment note set out under [section 20101 of this title](./chapter-201-general.md#section-20101)]: “(1) Crossing.—The term ‘crossing’ means a location within a State, other than a location where one or more railroad tracks cross one or more railroad tracks at grade, where—“(A) a public highway, road, or street, or a private roadway, including associated sidewalks and pathways, crosses one or more railroad tracks either at grade or grade-separated; or “(B) a pathway explicitly authorized by a public authority or a railroad carrier that is dedicated for the use of nonvehicular traffic, including pedestrians, bicyclists, and others, that is not associated with a public highway, road, or street, or a private roadway, crosses one or more railroad tracks either at grade or grade-separated. “(2) Department.—The term ‘Department’ means the Department of Transportation. “(3) Railroad.—The term ‘railroad’ has the meaning given that term by [section 20102 of title 49](./chapter-201-general.md#section-20102), United States Code. “(4) Railroad carrier.—The term ‘railroad carrier’ has the meaning given that term by [section 20102 of title 49](./chapter-201-general.md#section-20102), United States Code. “(5) Secretary.—The term ‘Secretary’ means the Secretary of Transportation. “(6) State.—The term ‘State’ means a State of the United States, the District of Columbia, or the Commonwealth of Puerto Rico.”
 
 
 <a id="section-20103"></a>
@@ -172,18 +182,24 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Regulations
 Pub. L. 103–272, § 4(t), July 5, 1994, 108 Stat. 1372, provided that: “(1) Not later than March 3, 1995, the Secretary of Transportation shall complete a regulatory proceeding to consider prescribing regulations to improve the safety and working conditions of locomotive cabs. The proceeding shall assess—“(A) the adequacy of Locomotive Crashworthiness Requirements Standard S–580, or any successor standard, adopted by the Association of American Railroads in 1989 in improving the safety of locomotive cabs; and “(B) the extent to which environmental, sanitary, and other working conditions in locomotive cabs affect productivity, health, and the safe operation of locomotives. “(2) Supporting Research and Analysis.—In support of the proceeding required under paragraph (1) of this subsection, the Secretary shall conduct research and analysis, including computer modeling and full-scale crash testing, as appropriate, to consider—“(A) the costs and benefits associated with equipping locomotives with—“(i) braced collision posts; “(ii) rollover protection devices; “(iii) deflection plates; “(iv) shatterproof windows; “(v) readily accessible crash refuges; “(vi) uniform sill heights; “(vii) anticlimbers, or other equipment designed to prevent overrides resulting from head-on locomotive collisions; “(viii) equipment to deter post-collision entry of flammable liquids into locomotive cabs; “(ix) any other devices intended to provide crash protection for occupants of locomotive cabs; and “(x) functioning and regularly maintained sanitary facilities; and “(B) the effects on train crews of the presence of asbestos in locomotive components. “(3) Report.—If, on the basis of the proceeding required under paragraph (1) of this subsection, the Secretary decides not to prescribe regulations, the Secretary shall report to Congress on the reasons for that decision.”
 
+#### Real-Time Emergency Response Information
+Pub. L. 114–94, div. A, title VII, § 7302, Dec. 4, 2015, 129 Stat. 1594, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Dec. 4, 2015], the Secretary [of Transportation], in consultation with appropriate Federal agencies, shall issue regulations that—“(1) require a Class I railroad transporting hazardous materials—“(A) to generate accurate, real-time, and electronic train consist information, including—“(i) the identity, quantity, and location of hazardous materials on a train; “(ii) the point of origin and destination of the train; “(iii) any emergency response information or resources required by the Secretary; and “(iv) an emergency response point of contact designated by the Class I railroad; and “(B) to enter into a memorandum of understanding with each applicable fusion center to provide the fusion center with secure and confidential access to the electronic train consist information described in subparagraph (A) for each train transporting hazardous materials in the jurisdiction of the fusion center; “(2) require each applicable fusion center to provide the electronic train consist information described in paragraph (1)(A) to State and local first responders, emergency response officials, and law enforcement personnel that are involved in the response to or investigation of an accident, incident, or public health or safety emergency involving the rail transportation of hazardous materials and that request such electronic train consist information; “(3) require each Class I railroad to provide advanced notification and information on high-hazard flammable trains to each State emergency response commission, consistent with the notification content requirements in Emergency Order Docket No. DOT–OST–2014–0067, including—“(A) a reasonable estimate of the number of implicated trains that are expected to travel, per week, through each county within the applicable State; “(B) updates to such estimate prior to making any material changes to any volumes or frequencies of trains traveling through a county; “(C) identification and a description of the Class 3 flammable liquid being transported on such trains; “(D) applicable emergency response information, as required by regulation; “(E) identification of the routes over which such liquid will be transported; and “(F) a point of contact at the Class I railroad responsible for serving as the point of contact for State emergency response centers and local emergency responders related to the Class I railroad’s transportation of such liquid. “(4) require each applicable State emergency response commission to provide to a political subdivision of a State, or public agency responsible for emergency response or law enforcement, upon request of the political subdivision or public agency, the information the commission receives from a Class I railroad pursuant to paragraph (3), including, for any such political subdivision or public agency responsible for emergency response or law enforcement that makes an initial request for such information, any updates received by the State emergency response commission. “(5) prohibit any Class I railroad, employee, or agent from withholding, or causing to be withheld, the train consist information from first responders, emergency response officials, and law enforcement personnel described in paragraph (2) in the event of an incident, accident, or public health or safety emergency involving the rail transportation of hazardous materials; “(6) establish security and confidentiality protections, including protections from the public release of proprietary information or security-sensitive information, to prevent the release to unauthorized persons any electronic train consist information or advanced notification or information provided by Class I railroads under this section; and “(7) allow each Class I railroad to enter into a memorandum of understanding with any Class II railroad or Class III railroad that operates trains over the Class I railroad’s line to incorporate the Class II railroad or Class III railroad’s train consist information within the existing framework described in paragraph (1). “(b) Definitions.—In this section:“(1) Applicable fusion center.—The term ‘applicable fusion center’ means a fusion center with responsibility for a geographic area in which a Class I railroad operates. “(2) Class i railroad; class ii railroad; class iii railroad.—The terms ‘Class I railroad’, ‘Class II railroad’, and ‘Class III railroad’ have the meaning given those terms in [section 20102 of title 49](./chapter-201-general.md#section-20102), United States Code. “(3) Class 3 flammable liquid.—The term ‘Class 3 flammable liquid’ has the meaning given the term flammable liquid in section 173.120(a) of title 49, Code of Federal Regulations. “(4) Fusion center.—The term ‘fusion center’ has the meaning given the term in section 210A(j) of the Homeland Security Act of 2002 ([6 U.S.C. 124h(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section124h/j&num=0&edition=prelim)). “(5) Hazardous material.—The term ‘hazardous material’ means a substance or material the Secretary designates as hazardous under [section 5103 of title 49](./chapter-051-transportation-of-hazardous-material.md#section-5103), United States Code. “(6) High-hazard flammable train.—The term ‘high-hazard flammable train’ means a single train transporting 20 or more tank cars loaded with a Class 3 flammable liquid in a continuous block or a single train transporting 35 or more tank cars loaded with a Class 3 flammable liquid throughout the train consist. “(7) Train consist.—The term ‘train consist’ includes, with regard to a specific train, the number of rail cars and the commodity transported by each rail car. “(c) Savings Clause.—Nothing in this section may be construed to prohibit a Class I railroad from voluntarily entering into a memorandum of understanding, as described in subsection (a)(1)(B), with a State emergency response commission or an entity representing or including first responders, emergency response officials, and law enforcement personnel.”
+
+#### Alerters
+Pub. L. 114–94, div. A, title XI, § 11407, Dec. 4, 2015, 129 Stat. 1684, provided that: “(a) In General.—The Secretary [of Transportation] shall promulgate a rule to require a working alerter in the controlling locomotive of each passenger train in intercity rail passenger transportation (as defined in [section 24102 of title 49](./chapter-241-general.md#section-24102), United States Code) or commuter rail passenger transportation (as defined in [section 24102 of title 49](./chapter-241-general.md#section-24102), United States Code). “(b) Rulemaking.—“(1) In general.—The Secretary may promulgate a rule to specify the essential functionalities of a working alerter, including the manner in which the alerter can be reset. “(2) Alternate practice or technology.—The Secretary may require or allow a technology or practice in lieu of a working alerter if the Secretary determines that the technology or practice would achieve an equivalent or greater level of safety in enhancing or ensuring appropriate locomotive control.”
+
 #### Locomotive Cab Studies
 Pub. L. 110–432, div. A, title IV, § 405, Oct. 16, 2008, 122 Stat. 4885, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Oct. 16, 2008], the Secretary, through the Railroad Safety Advisory Committee if the Secretary makes such a request, shall complete a study on the safety impact of the use of personal electronic devices, including cell phones, video games, and other distracting devices, by safety-related railroad employees (as defined in [section 20102(4) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section20102/4&num=0&edition=prelim), United States Code), during the performance of such employees’ duties. The study shall consider the prevalence of the use of such devices. “(b) Locomotive Cab Environment.—The Secretary may also study other elements of the locomotive cab environment and their effect on an employee’s health and safety. “(c) Report.—Not later than 6 months after the completion of any study under this section, the Secretary shall issue a report on the study to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure. “(d) Authority.—Based on the conclusions of the study required under (a), the Secretary of Transportation may prohibit the use of personal electronic devices, such as cell phones, video games, or other electronic devices that may distract employees from safely performing their duties, unless those devices are being used according to railroad operating rules or for other work purposes. Based on the conclusions of other studies conducted under subsection (b), the Secretary may prescribe regulations to improve elements of the cab environment to protect an employee’s health and safety.”
 
 [For definitions of “Secretary” and “railroad”, as used in section 405 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under [section 20102 of this title](./chapter-201-general.md#section-20102).]
 
 #### Tunnel Information
-Pub. L. 110–432, div. A, title IV, § 414, Oct. 16, 2008, 122 Stat. 4889, provided that: “Not later than 120 days after the date of enactment of this Act [Oct. 16, 2008], each railroad carrier shall, with respect to each of its tunnels which—“(1) are longer than 1000 feet and located under a city with a population of 400,000 or greater; or “(2) carry 5 or more scheduled passenger trains per day, or 500 or more carloads of poison- or toxic-by-inhalation hazardous materials (as defined in parts [probably should be “sections”] 171.8, 173.115, and 173.132 of title 49, Code of Federal Regulations) per year, maintain, for at least two years, historical documentation of structural inspection and maintenance activities for such tunnels, including information on the methods of ingress and egress into and out of the tunnel, the types of cargos typically transported through the tunnel, and schematics or blueprints for the tunnel, when available. Upon request, a railroad carrier shall provide periodic briefings on such information to the governments of the local jurisdiction in which the tunnel is located, including updates whenever a repair or rehabilitation project substantially alters the methods of ingress and egress. Such governments shall use appropriate means to protect and restrict the distribution of any security sensitive information (as defined in part [probably should be “section” ] 1520.5 of title 49, Code of Federal Regulations) provided by the railroad carrier under this section, consistent with national security interests.”
+Pub. L. 110–432, div. A, title IV, § 414, Oct. 16, 2008, 122 Stat. 4889, as amended by Pub. L. 114–94, div. A, title XI, § 11316(j)(7), Dec. 4, 2015, 129 Stat. 1678, provided that: “Not later than 120 days after the date of enactment of this Act [Oct. 16, 2008], each railroad carrier shall, with respect to each of its tunnels which—“(1) are longer than 1000 feet and located under a city with a population of 400,000 or greater; or “(2) carry 5 or more scheduled passenger trains per day, or 500 or more carloads of poison- or toxic-by-inhalation hazardous materials (as defined in sections 171.8, 173.115, and 173.132 of title 49, Code of Federal Regulations) per year, maintain, for at least two years, historical documentation of structural inspection and maintenance activities for such tunnels, including information on the methods of ingress and egress into and out of the tunnel, the types of cargos typically transported through the tunnel, and schematics or blueprints for the tunnel, when available. Upon request, a railroad carrier shall provide periodic briefings on such information to the governments of the local jurisdiction in which the tunnel is located, including updates whenever a repair or rehabilitation project substantially alters the methods of ingress and egress. Such governments shall use appropriate means to protect and restrict the distribution of any security sensitive information (as defined in section 1520.5 of title 49, Code of Federal Regulations) provided by the railroad carrier under this section, consistent with national security interests.”
 
 [For definition of “railroad carrier”, as used in section 414 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under [section 20102 of this title](./chapter-201-general.md#section-20102).]
 
 #### Railroad Bridge Safety Assurance
-Pub. L. 110–432, div. A, title IV, § 417, Oct. 16, 2008, 122 Stat. 4890, provided that: “(a) In General.—Not later than 12 months after the date of enactment of this Act [Oct. 16, 2008], the Secretary shall promulgate a regulation requiring owners of track carried on one or more railroad bridges to adopt a bridge safety management program to prevent the deterioration of railroad bridges and reduce the risk of human casualties, environmental damage, and disruption to the Nation’s railroad transportation system that would result from a catastrophic bridge failure. “(b) Requirements.—The regulations shall, at a minimum, require each track owner to [sic]—“(1) to develop and maintain an accurate inventory of its railroad bridges, which shall identify the location of each bridge, its configuration, type of construction, number of spans, span lengths, and all other information necessary to provide for the safe management of the bridges; “(2) to ensure that a professional engineer competent in the field of railroad bridge engineering, or a qualified person under the supervision of the track owner, determines bridge capacity; “(3) to maintain, and update as appropriate, a record of the safe capacity of each bridge which carries its track and, if available, maintain the original design documents of each bridge and a documentation of all repairs, modifications, and inspections of the bridge; “(4) to develop, maintain, and enforce a written procedure that will ensure that its bridges are not loaded beyond their capacities; “(5) to conduct regular comprehensive inspections of each bridge, at least once every year, and maintain records of those inspections that include the date on which the inspection was performed, the precise identification of the bridge inspected, the items inspected, an accurate description of the condition of those items, and a narrative of any inspection item that is found by the inspector to be a potential problem; “(6) to ensure that the level of detail and the inspection procedures are appropriate to the configuration of the bridge, conditions found during previous inspections, and the nature of the railroad traffic moved over the bridge, including car weights, train frequency and length, levels of passenger and hazardous materials traffic, and vulnerability of the bridge to damage; “(7) to ensure that an engineer who is competent in the field of railroad bridge engineering—“(A) is responsible for the development of all inspection procedures; “(B) reviews all inspection reports; and “(C) determines whether bridges are being inspected according to the applicable procedures and frequency, and reviews any items noted by an inspector as exceptions; and “(8) to designate qualified bridge inspectors or maintenance personnel to authorize the operation of trains on bridges following repairs, damage, or indications of potential structural problems. “(c) Use of Bridge Management Programs Required.—The Secretary shall instruct bridge experts to obtain copies of the most recent bridge management programs of each railroad within the expert’s areas of responsibility, and require that experts use those programs when conducting bridge observations. “(d) Review of Data.—The Secretary shall establish a program to periodically review bridge inspection and maintenance data from railroad carrier bridge inspectors and Federal Railroad Administration bridge experts.”
+Pub. L. 110–432, div. A, title IV, § 417, Oct. 16, 2008, 122 Stat. 4890, as amended by Pub. L. 114–94, div. A, title XI, § 11405, Dec. 4, 2015, 129 Stat. 1682, provided that: “(a) In General.—Not later than 12 months after the date of enactment of this Act [Oct. 16, 2008], the Secretary shall promulgate a regulation requiring owners of track carried on one or more railroad bridges to adopt a bridge safety management program to prevent the deterioration of railroad bridges and reduce the risk of human casualties, environmental damage, and disruption to the Nation’s railroad transportation system that would result from a catastrophic bridge failure. “(b) Requirements.—The regulations shall, at a minimum, require each track owner to [sic]—“(1) to develop and maintain an accurate inventory of its railroad bridges, which shall identify the location of each bridge, its configuration, type of construction, number of spans, span lengths, and all other information necessary to provide for the safe management of the bridges; “(2) to ensure that a professional engineer competent in the field of railroad bridge engineering, or a qualified person under the supervision of the track owner, determines bridge capacity; “(3) to maintain, and update as appropriate, a record of the safe capacity of each bridge which carries its track and, if available, maintain the original design documents of each bridge and a documentation of all repairs, modifications, and inspections of the bridge; “(4) to develop, maintain, and enforce a written procedure that will ensure that its bridges are not loaded beyond their capacities; “(5) to conduct regular comprehensive inspections of each bridge, at least once every year, and maintain records of those inspections that include the date on which the inspection was performed, the precise identification of the bridge inspected, the items inspected, an accurate description of the condition of those items, and a narrative of any inspection item that is found by the inspector to be a potential problem; “(6) to ensure that the level of detail and the inspection procedures are appropriate to the configuration of the bridge, conditions found during previous inspections, and the nature of the railroad traffic moved over the bridge, including car weights, train frequency and length, levels of passenger and hazardous materials traffic, and vulnerability of the bridge to damage; “(7) to ensure that an engineer who is competent in the field of railroad bridge engineering—“(A) is responsible for the development of all inspection procedures; “(B) reviews all inspection reports; and “(C) determines whether bridges are being inspected according to the applicable procedures and frequency, and reviews any items noted by an inspector as exceptions; and “(8) to designate qualified bridge inspectors or maintenance personnel to authorize the operation of trains on bridges following repairs, damage, or indications of potential structural problems. “(c) Use of Bridge Management Programs Required.—The Secretary shall instruct bridge experts to obtain copies of the most recent bridge management programs of each railroad within the expert’s areas of responsibility, and require that experts use those programs when conducting bridge observations. “(d) Review of Data.—“(1) In general.—The Secretary shall establish a program to periodically review bridge inspection and maintenance data from railroad carrier bridge inspectors and Federal Railroad Administration bridge experts. “(2) Availability of bridge condition.—“(A) In general.—A State or political subdivision of a State may file a request with the Secretary for a public version of a bridge inspection report generated under subsection (b)(5) for a bridge located in such State or political subdivision’s jurisdiction. “(B) Public version of report.—If the Secretary determines that the request is reasonable, the Secretary shall require a railroad to submit a public version of the most recent bridge inspection report, such as a summary form, for a bridge subject to a request under subparagraph (A). The public version of a bridge inspection report shall include the date of last inspection, length of bridge, location of bridge, type of bridge, type of structure, feature crossed by bridge, and railroad contact information, along with a general statement on the condition of the bridge. “(C) Provision of report.—The Secretary shall provide to a State or political subdivision of a State a public version of a bridge inspection report submitted under subparagraph (B). “(D) Technical assistance.—The Secretary, upon the reasonable request of State or political subdivision of a State, shall provide technical assistance to such State or political subdivision of a State to facilitate the understanding of a bridge inspection report.”
 
 [For definitions of “Secretary”, “railroad”, and “railroad carrier”, as used in section 417 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under [section 20102 of this title](./chapter-201-general.md#section-20102).]
 
@@ -440,7 +456,7 @@ In subsection (b), the words “In carrying out this part” are substituted for
 2008—Subsec. (c). Pub. L. 110–432 added subsec. (c).
 
 #### Safety Inspections in Mexico
-Pub. L. 110–432, div. A, title IV, § 416, Oct. 16, 2008, 122 Stat. 4890, provided that: “Mechanical and brake inspections of rail cars performed in Mexico shall not be treated as satisfying United States rail safety laws or regulations unless the Secretary of Transportation certifies that— “(1) such inspections are being performed under regulations and standards equivalent to those applicable in the United States; “(2) the inspections are being performed by employees that have received training similar to the training received by similar railroad employees in the United States; “(3) inspection records that are required to be available to the crewmembers on board the train, including air slips and blue cards, are maintained in both English and Spanish, and such records are available to the Federal Railroad Administration for review; and “(4) the Federal Railroad Administration is permitted to perform onsite inspections for the purpose of ensuring compliance with the requirements of this subsection [sic].”
+Pub. L. 110–432, div. A, title IV, § 416, Oct. 16, 2008, 122 Stat. 4890, as amended by Pub. L. 114–94, div. A, title XI, § 11316(j)(8), Dec. 4, 2015, 129 Stat. 1678, provided that: “Mechanical and brake inspections of rail cars performed in Mexico shall not be treated as satisfying United States rail safety laws or regulations unless the Secretary certifies that— “(1) such inspections are being performed under regulations and standards equivalent to those applicable in the United States; “(2) the inspections are being performed by employees that have received training similar to the training received by similar railroad employees in the United States; “(3) inspection records that are required to be available to the crewmembers on board the train, including air slips and blue cards, are maintained in both English and Spanish, and such records are available to the Federal Railroad Administration for review; and “(4) the Federal Railroad Administration is permitted to perform onsite inspections for the purpose of ensuring compliance with the requirements of this section.”
 
 [For definition of “railroad”, as used in section 416 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under [section 20102 of this title](./chapter-201-general.md#section-20102).]
 
@@ -861,12 +877,22 @@ In subsection (c), the words “beginning on March 1, 1991” are omitted as obs
 <a id="section-20116"></a>
 ## § 20116. Rulemaking process
 
-No rule or order issued by the Secretary under this part shall be effective if it incorporates by reference a code, rule, standard, requirement, or practice issued by an association or other entity that is not an agency of the Federal Government, unless the date on which the code, rule, standard, requirement, or practice was adopted is specifically cited in the rule or order, or the code, rule, standard, requirement, or practice has been subject to notice and comment under a rule or order issued under this part.
+No rule or order issued by the Secretary under this part shall be effective if it incorporates by reference a code, rule, standard, requirement, or practice issued by an association or other entity that is not an agency of the Federal Government, unless—
+
+(1) the date on which the code, rule, standard, requirement, or practice was adopted is specifically cited in the rule or order; or
+
+(2) the code, rule, standard, requirement, or practice has been subject to notice and comment under a rule or order issued under this part.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 20116, Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 871; amended Pub. L. 103–440, title II, § 206(a), Nov. 2, 1994, 108 Stat. 4620, related to biennial safety reports prior to repeal by Pub. L. 104–66, title I, § 1121(g)(1), Dec. 21, 1995, 109 Stat. 724.
+
+#### Amendments
+2015—Pub. L. 114–94 substituted “unless—” for “unless”, inserted par. (1) designation before “the date”, substituted “order; or” for “order, or” in par. (1), inserted par. (2) designation before “the code, rule, standard, requirement, or practice has been subject to notice and comment under a rule or order issued under this part.”, and realigned margins.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-20117"></a>
@@ -945,9 +971,9 @@ Subsec. (e). Pub. L. 103–440, § 218, added subsec. (e).
 
 <a id="section-20120"></a>
 ## § 20120. Enforcement report
-**(a) 11 So in original. No subsec. (b) has been enacted. In General.—** Beginning not later than December 31, 2009, the Secretary of Transportation shall make available to the public and publish on its public website an annual report that—
+**(a) 11 So in original. No subsec. (b) has been enacted. In General.—** Beginning not later than December 31, 2009, the Secretary of Transportation shall make available to the public and publish on its public Web site an annual report that—
 
-(1) provides a summary of railroad safety and hazardous materials compliance inspections and audits that Federal or State inspectors conducted in the prior fiscal year organized by type of alleged violation, including track, motive power and equipment, signal, grade crossing, operating practices, accident and incidence reporting, and hazardous materials;
+(1) provides a summary of railroad safety and hazardous materials compliance inspections and audits that Federal or State inspectors conducted in the prior fiscal year organized by type of alleged violation, including track, motive power and equipment, signal, grade crossing, operating practices, accident and incident reporting, and hazardous materials;
 
 (2) provides a summary of all enforcement actions taken by the Secretary or the Federal Railroad Administration during the prior fiscal year, including—
 
@@ -963,13 +989,13 @@ Subsec. (e). Pub. L. 103–440, § 218, added subsec. (e).
 
   (F) the number of administrative hearings requested and completed related to hazardous materials transportation law violations or enforcement actions against individuals;
 
-  (G) the number of cases referred to the Attorney General for civil or criminal prosecution; 22 So in original. Probably should be followed by “and”.
+  (G) the number of cases referred to the Attorney General for civil or criminal prosecution; and
 
   (H) the number and subject matter of all compliance orders, emergency orders, or precursor agreements;
 
 (3) analyzes the effect of the number of inspections conducted and enforcement actions taken on the number and rate of reported accidents and incidents and railroad safety;
 
-(4) provide 33 So in original. Probably should be “provides”. the information required by paragraphs (2) and (3)—
+(4) provide 22 So in original. Probably should be “provides”. the information required by paragraphs (2) and (3)—
 
   (A) for each Class I railroad individually; and
 
@@ -987,13 +1013,38 @@ Subsec. (e). Pub. L. 103–440, § 218, added subsec. (e).
 
   (A) the Locomotive Engineer Review Board;
 
-  (B) an Administrative Hearing Officer or Administrative Law Judge; or
+  (B) an administrative hearing officer or administrative law judge; or
 
   (C) the Administrator of the Federal Railroad Administration;
 
 (6) provides an explanation regarding any changes in the Secretary’s or the Federal Railroad Administration’s enforcement programs or policies that may substantially affect the information reported; and
 
 (7) includes any additional information that the Secretary determines is useful to improve the transparency of its enforcement program.
+
+### Statutory Notes
+
+#### Amendments
+2015—Subsec. (a). Pub. L. 114–94, § 11316(d)(1), substituted “Web site” for “website” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 114–94, § 11316(d)(2), substituted “accident and incident reporting” for “accident and incidence reporting”.
+
+Subsec. (a)(2)(G). Pub. L. 114–94, § 11316(d)(3), inserted “and” at end.
+
+Subsec. (a)(5)(B). Pub. L. 114–94, § 11316(d)(4), substituted “administrative hearing officer or administrative law judge” for “Administrative Hearing Officer or Administrative Law Judge”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-20121"></a>
+## § 20121. Repair and replacement of damaged track inspection equipment
+
+The Secretary of Transportation may receive and expend cash, or receive and utilize spare parts and similar items, from non-United States Government sources to repair damages to or replace United States Government-owned automated track inspection cars and equipment as a result of third-party liability for such damages, and any amounts collected under this section shall be credited directly to the Railroad Safety and Operations account of the Federal Railroad Administration and shall remain available until expended for the repair, operation, and maintenance of automated track inspection cars and equipment in connection with the automated track inspection program.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-20131"></a>
@@ -1356,9 +1407,9 @@ In subsection (c)(5), the word “tested” is substituted for “assayed” for
 1995—Subsec. (b)(1)(A). Pub. L. 104–59 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a railroad carrier to conduct preemployment, reasonable suspicion, random, and post-accident testing of all railroad employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or a controlled substance in violation of law or a United States Government regulation; and”.
 
 #### Alcohol and Controlled Substance Testing for Maintenance-of-Way Employees
-Pub. L. 110–432, div. A, title IV, § 412, Oct. 16, 2008, 122 Stat. 4889, provided that: “Not later than 2 years following the date of enactment of this Act [Oct. 16, 2008], the Secretary of Transportation shall complete a rulemaking proceeding to revise the regulations prescribed under [section 20140 of title 49](./chapter-201-general.md#section-20140), United States Code, to cover all employees of railroad carriers and contractors or subcontractors to railroad carriers who perform maintenance-of-way activities.”
+Pub. L. 110–432, div. A, title IV, § 412, Oct. 16, 2008, 122 Stat. 4889, as amended by Pub. L. 114–94, div. A, title XI, § 11316(j)(6), Dec. 4, 2015, 129 Stat. 1678, provided that: “Not later than 2 years following the date of enactment of this Act [Oct. 16, 2008], the Secretary shall complete a rulemaking proceeding to revise the regulations prescribed under [section 20140 of title 49](./chapter-201-general.md#section-20140), United States Code, to cover all employees of railroad carriers and contractors or subcontractors to railroad carriers who perform maintenance-of-way activities.”
 
-[For definition of “railroad carrier”, as used in section 412 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under [section 20102 of this title](./chapter-201-general.md#section-20102).]
+[For definition of “railroad carrier”, as used in section 412 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under [section 20102 of this title](./chapter-201-general.md#section-20102).]’
 
 
 <a id="section-20141"></a>
@@ -1401,6 +1452,9 @@ Pub. L. 110–432, div. A, title IV, § 412, Oct. 16, 2008, 122 Stat. 4889, prov
 | 20141(a) | 45:431(r)(1), (2). | Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, § 202(r); added Sept. 3, 1992, Pub. L. 102–365, § 7, 106 Stat. 976. |
 | 20141(b) | 45:431(r)(3). |  |
 | 20141(c) | 45:431(r)(4). |  |
+
+#### Study and Testing of Electronically Controlled Pneumatic Brakes
+Pub. L. 114–94, div. A, title VII, § 7311, Dec. 4, 2015, 129 Stat. 1601, provided that: “(a) Government Accountability Office Study.—“(1) In general.—The Comptroller General of the United States shall conduct an independent evaluation of ECP brake systems, pilot program data, and the Department [of Transportation]’s research and analysis on the costs, benefits, and effects of ECP brake systems. “(2) Study elements.—In completing the independent evaluation under paragraph (1), the Comptroller General shall examine the following issues related to ECP brake systems:“(A) Data and modeling results on safety benefits relative to conventional brakes and to other braking technologies or systems, such as distributed power and 2-way end-of-train devices. “(B) Data and modeling results on business benefits, including the effects of dynamic braking. “(C) Data on costs, including up-front capital costs and on-going maintenance costs. “(D) Analysis of potential operational benefits and challenges, including the effects of potential locomotive and car segregation, technical reliability issues, and network disruptions. “(E) Analysis of potential implementation challenges, including installation time, positive train control integration complexities, component availability issues, and tank car shop capabilities. “(F) Analysis of international experiences with the use of advanced braking technologies. “(3) Report.—Not later than 18 months after the date of enactment of this Act [Dec. 4, 2015], the Comptroller General shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the independent evaluation under paragraph (1). “(b) Emergency Braking Application Testing.—“(1) In general.—The Secretary [of Transportation] shall enter into an agreement with the National Academy of Sciences to—“(A) complete testing of ECP brake systems during emergency braking application, including more than 1 scenario involving the uncoupling of a train with 70 or more DOT–117 specification or DOT–117R specification tank cars; and “(B) transmit, not later than 18 months after the date of enactment of this Act, to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the testing. “(2) Independent experts.—In completing the testing under paragraph (1)(A), the National Academy of Sciences may contract with 1 or more engineering or rail experts, as appropriate, that—“(A) are not railroad carriers, entities funded by such carriers, or entities directly impacted by the final rule issued on May 8, 2015, entitled “Enhanced Tank Car Standards and Operational Controls for High-Hazard Flammable Trains” (80 Fed. Reg. 26643); and “(B) have relevant experience in conducting railroad safety technology tests or similar crash tests. “(3) Testing framework.—In completing the testing under paragraph (1), the National Academy of Sciences and each contractor described in paragraph (2) shall ensure that the testing objectively, accurately, and reliably measures the performance of ECP brake systems relative to other braking technologies or systems, such as distributed power and 2-way end-of-train devices, including differences in—“(A) the number of cars derailed; “(B) the number of cars punctured; “(C) the measures of in-train forces; and “(D) the stopping distance. “(4) Funding.—The Secretary shall provide funding, as part of the agreement under paragraph (1), to the National Academy of Sciences for the testing required under this section—“(A) using sums made available to carry out sections 20108 and 5118 of title 49, United States Code; and “(B) to the extent funding under subparagraph (A) is insufficient or unavailable to fund the testing required under this section, using such sums as are necessary from the amounts appropriated to the Secretary, the Federal Railroad Administration, or the Pipeline and Hazardous Materials Safety Administration, or a combination thereof. “(5) Equipment.—“(A) Receipt.—The National Academy of Sciences and each contractor described in paragraph (2) may receive or use rolling stock, track, and other equipment or infrastructure from a railroad carrier or other private entity for the purposes of conducting the testing required under this section. “(B) Contracted use.—Notwithstanding paragraph (2)(A), to facilitate testing, the National Academy of Sciences and each contractor may contract with a railroad carrier or any other private entity for the use of such carrier or entity’s rolling stock, track, or other equipment and receive technical assistance on their use. “(c) Evidence-Based Approach.—“(1) Analysis.—The Secretary shall—“(A) not later than 90 days after the report date, fully incorporate the results of the evaluation under subsection (a) and the testing under subsection (b) and update the regulatory impact analysis of the final rule described in subsection (b)(2)(A) of the costs, benefits, and effects of the applicable ECP brake system requirements; “(B) as soon as practicable after completion of the updated analysis under subparagraph (A), solicit public comment in the Federal Register on the analysis for a period of not more than 30 days; and “(C) not later than 60 days after the end of the public comment period under subparagraph (B), post the final updated regulatory impact analysis on the Department of Transportation’s Internet Web site. “(2) Determination.—Not later than 2 years after the date of enactment of this Act, the Secretary shall—“(A) determine, based on whether the final regulatory impact analysis described in paragraph (1)(C) demonstrates that the benefits, including safety benefits, of the applicable ECP brake system requirements exceed the costs of such requirements, whether the applicable ECP brake system requirements are justified; “(B) if the applicable ECP brake system requirements are justified, publish in the Federal Register the determination and reasons for such determination; and “(C) if the Secretary does not publish the determination under subparagraph (B), repeal the applicable ECP brake system requirements. “(3) Savings clause.—Nothing in this section shall be construed to prohibit the Secretary from implementing the final rule described under subsection (b)(2)(A) prior to the determination required under subsection (c)(2) of this section, or require the Secretary to promulgate a new rule on the provisions of such final rule, other than on the applicable ECP brake system requirements, if the Secretary does not determine that the applicable ECP brake system requirements are justified pursuant to this subsection. “(d) Definitions.—In this section, the following definitions apply:“(1) Applicable ecp brake system requirements.—The term ‘applicable ECP brake system requirements’ means sections 174.310(a)(3)(ii), 174.310(a)(3)(iii), 174.310(a)(5)(v), 179.202–10, 179.202–12(g), and 179.202–13(i) of title 49, Code of Federal Regulations, and any other regulation in effect on the date of enactment of this Act requiring the installation of ECP brakes or operation in ECP brake mode. “(2) Class 3 flammable liquid.—The term ‘Class 3 flammable liquid’ has the meaning given the term flammable liquid in section 173.120(a) of title 49, Code of Federal Regulations. “(3) ECP.—The term ‘ECP’ means electronically controlled pneumatic when applied to a brake or brakes. “(4) ECP brake mode.—The term ‘ECP brake mode’ includes any operation of a rail car or an entire train using an ECP brake system. “(5) ECP brake system.—“(A) In general.—The term ‘ECP brake system’ means a train power braking system actuated by compressed air and controlled by electronic signals from the locomotive or an ECP–EOT to the cars in the consist for service and emergency applications in which the brake pipe is used to provide a constant supply of compressed air to the reservoirs on each car but does not convey braking signals to the car. “(B) Inclusions.—The term ‘ECP brake system’ includes dual mode and stand-alone ECP brake systems. “(6) Railroad carrier.—The term ‘railroad carrier’ has the meaning given the term in [section 20102 of title 49](./chapter-201-general.md#section-20102), United States Code. “(7) Report date.—The term ‘report date’ means the date that the reports under subsections (a)(3) and (b)(1)(B) are required to be transmitted pursuant to those subsections.”
 
 
 <a id="section-20142"></a>
@@ -1457,6 +1511,9 @@ The date of enactment of this subsection, referred to in subsec. (e)(1), is the 
 Subsec. (b). Pub. L. 103–440, § 208(1), substituted “September 1, 1995” for “September 3, 1994”.
 
 Subsec. (d). Pub. L. 103–440, § 208(3), added subsec. (d).
+
+#### Commuter Rail Track Inspections
+Pub. L. 114–94, div. A, title XI, § 11409, Dec. 4, 2015, 129 Stat. 1684, provided that: “(a) In General.—The Secretary [of Transportation] shall evaluate track inspection regulations to determine if a railroad carrier providing commuter rail passenger transportation on high density commuter railroad lines should be required to inspect the lines in the same manner as is required for other commuter railroad lines. “(b) Rulemaking.—Considering safety, including railroad carrier employee and contractor safety, system capacity, and other relevant factors, the Secretary may promulgate a rule for high density commuter railroad lines. If, after the evaluation under subsection (a), the Secretary determines that it is necessary to promulgate a rule, the Secretary shall specifically consider the following regulatory requirements for high density commuter railroad lines:“(1) At least once every 2 weeks—“(A) traverse each main line by vehicle; or “(B) inspect each main line on foot. “(2) At least once each month, traverse and inspect each siding by vehicle or by foot. “(c) Report.—If, after the evaluation under subsection (a), the Secretary determines it is not necessary to revise the regulations under this section, the Secretary, not later than 18 months after the date of enactment of this Act [Dec. 4, 2015], shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report explaining the reasons for not revising the regulations. “(d) Construction.—Nothing in this section may be construed to limit the authority of the Secretary to promulgate regulations or issue orders under any other law.”
 
 #### Track Inspection Time Study
 Pub. L. 110–432, div. A, title IV, § 403, Oct. 16, 2008, 122 Stat. 4884, provided that: “(a) Study.—Not later that [sic] 2 years after the date of enactment of this Act [Oct. 16, 2008], the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the results of a study to determine whether—“(1) the required intervals of track inspections for each class of track should be amended; “(2) track remedial action requirements should be amended; “(3) different track inspection and repair priorities or methods should be required; and “(4) the speed at which railroad track inspection vehicles operate and the scope of the territory they generally cover allow for proper inspection of the track and whether such speed and appropriate scope should be regulated by the Secretary. “(b) Considerations.—In conducting the study the Secretary shall consider—“(1) the most current rail flaw, rail defect growth, rail fatigue, and other relevant track- or rail-related research and studies; “(2) the availability and feasibility of developing and implementing new or novel rail inspection technology for routine track inspections; “(3) information from National Transportation Safety Board or Federal Railroad Administration accident investigations where track defects were the cause or a contributing cause; and “(4) other relevant information, as determined by the Secretary. “(c) Update of Regulations.—Not later than 2 years after the completion of the study required by subsection (a), the Secretary shall prescribe regulations based on the results of the study conducted under subsection (a). “(d) Concrete Cross Ties.—Not later than 18 months after the date of enactment of this Act [Oct. 16, 2008], the Secretary shall promulgate regulations for concrete cross ties. In developing the regulations for class 1 through 5 track, the Secretary may address, as appropriate—“(1) limits for rail seat abrasion; “(2) concrete cross tie pad wear limits; “(3) missing or broken rail fasteners; “(4) loss of appropriate toeload pressure; “(5) improper fastener configurations; and “(6) excessive lateral rail movement.”
@@ -1755,83 +1812,17 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 
 <a id="section-20154"></a>
-## § 20154. Capital grants for rail line relocation projects
-**(a) Establishment of Program.—** The Secretary of Transportation shall carry out a grant program to provide financial assistance for local rail line relocation and improvement projects.
-
-**(b) Eligibility.—** A State is eligible for a grant under this section for any construction project for the improvement of the route or structure of a rail line that either—
-
-(1) is carried out for the purpose of mitigating the adverse effects of rail traffic on safety, motor vehicle traffic flow, community quality of life, or economic development; or
-
-(2) involves a lateral or vertical relocation of any portion of the rail line.
-
-**(c) Considerations for Approval of Grant Applications.—** In determining whether to award a grant to an eligible State under this section, the Secretary shall consider the following factors:
-
-(1) The capability of the State to fund the rail line relocation project without Federal grant funding.
-
-(2) The requirement and limitation relating to allocation of grant funds provided in subsection (d).
-
-(3) Equitable treatment of the various regions of the United States.
-
-(4) The effects of the rail line, relocated or improved as proposed, on motor vehicle and pedestrian traffic, safety, community quality of life, and area commerce.
-
-(5) The effects of the rail line, relocated as proposed, on the freight and passenger rail operations on the rail line.
-
-**(d) Allocation Requirements.—** At least 50 percent of all grant funds awarded under this section out of funds appropriated for a fiscal year shall be provided as grant awards of not more than $20,000,000 each. The $20,000,000 amount shall be adjusted by the Secretary to reflect inflation for fiscal years beginning after fiscal year 2006.
-
-**(e) Non-Federal Share.—**
-
-(1) **Percentage.—** — A State or other non-Federal entity shall pay at least 10 percent of the shared costs of a project that is funded in part by a grant awarded under this section.
-
-(2) **Forms of contributions.—** — The share required by paragraph (1) may be paid in cash or in kind.
-
-(3) **In-kind contributions.—** — The in-kind contributions that are permitted to be counted under paragraph (2) for a project for a State or other non-Federal entity are as follows:
-
-  (A) A contribution of real property or tangible personal property (whether provided by the State or a person for the State).
-
-  (B) A contribution of the services of employees of the State or other non-Federal entity, calculated on the basis of costs incurred by the State or other non-Federal entity for the pay and benefits of the employees, but excluding overhead and general administrative costs.
-
-  (C) A payment of any costs that were incurred for the project before the filing of an application for a grant for the project under this section, and any in-kind contributions that were made for the project before the filing of the application, if and to the extent that the costs were incurred or in-kind contributions were made, as the case may be, to comply with a provision of a statute required to be satisfied in order to carry out the project.
-
-(4) **Financial contribution from private entities.—**
-
-  (A) The Secretary shall require a State to submit a description of the anticipated public and private benefits associated with each rail line relocation or improvement project described in subsection (a). The determination of such benefits shall be developed in consultation with the owner and user of the rail line being relocated or improved or other private entity involved in the project.
-
-  (B) The Secretary shall consider the feasibility of seeking financial contributions or commitments from private entities involved with the project in proportion to the expected benefits determined under subparagraph (A) that accrue to such entities from the project.
-
-**(f) Agreements To Combine Amounts.—** Two or more States (not including political subdivisions of States) may, pursuant to an agreement entered into by the States, combine any part of the amounts provided through grants for a project under this section if—
-
-(1) the project will benefit each of the States entering into the agreement; and
-
-(2) the agreement is not a violation of a law of any such State.
-
-**(g) Regulations.—** The Secretary shall prescribe regulations for carrying out this section.
-
-**(h) Definitions.—** In this section:
-
-(1) **Construction.—** — The term “construction” means the supervising, inspecting, actual building, and incurrence of all costs incidental to the construction or reconstruction of a project described under subsection (b)(1) of this section, including bond costs and other costs relating to the issuance of bonds or other debt financing instruments and costs incurred by the State in performing project related audits, and includes—
-
-  (A) locating, surveying, and mapping;
-
-  (B) track installation, restoration, and rehabilitation;
-
-  (C) acquisition of rights-of-way;
-
-  (D) relocation assistance, acquisition of replacement housing sites, and acquisition and rehabilitation, relocation, and construction of replacement housing;
-
-  (E) elimination of obstacles and relocation of utilities; and
-
-  (F) other activities defined by the Secretary.
-
-(2) **Quality of life.—** — The term “quality of life” includes first responders’ emergency response time, the environment, noise levels, and other factors as determined by the Secretary.
-
-(3) **State.—** — The term “State” includes, except as otherwise specifically provided, a political subdivision of a State, and the District of Columbia.
-
-**(i) Authorization of Appropriations.—** There are authorized to be appropriated to the Secretary for use in carrying out this section $350,000,000 for each of the fiscal years 2006 through 2009.
+## § 20154. Repealed. Pub. L. 114–94, div. A, title XI, § 11301(c)(1), Dec. 4, 2015, 129 Stat. 1648]
 
 ### Statutory Notes
 
+Section, Pub. L. 109–59, title IX, § 9002(a)(1), Aug. 10, 2005, 119 Stat. 1919, related to capital grants for rail line relocation projects.
+
+#### Effective Date of Repeal
+Repeal by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 #### Regulations
-Pub. L. 109–59, title IX, § 9002(b), Aug. 10, 2005, 119 Stat. 1921, provided that: “(1) Temporary regulations.—Not later than April 1, 2006, the Secretary of Transportation shall issue temporary regulations to implement the grant program under [section 20154 of title 49](./chapter-201-general.md#section-20154), United States Code, as added by subsection (a). Subchapter II of chapter 5 of title 5, United States Code, shall not apply to the issuance of a temporary regulation under this subsection or of any amendment of such a temporary regulation. “(2) Final regulations.—Not later than October 1, 2006, the Secretary shall issue final regulations implementing the program.”
+Pub. L. 109–59, title IX, § 9002(b), Aug. 10, 2005, 119 Stat. 1921, required Secretary of Transportation to issue temporary regulations to implement grant program under this section by April 1, 2006, and to issue final regulations by October 1, 2006.
 
 
 <a id="section-20155"></a>
@@ -1848,6 +1839,15 @@ Pub. L. 109–59, title IX, § 9002(b), Aug. 10, 2005, 119 Stat. 1921, provided 
 
 #### References in Text
 The date of enactment of this section, referred to in text, is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
+
+#### Phase-Out of All Tank Cars Used To Transport Class 3 Flammable Liquids
+Pub. L. 114–94, div. A, title VII, § 7304, Dec. 4, 2015, 129 Stat. 1596, provided that: “(a) In General.—Except as provided for in subsection (b), beginning on the date of enactment of this Act [Dec. 4, 2015], all DOT–111 specification railroad tank cars used to transport Class 3 flammable liquids shall meet the DOT–117, DOT–117P, or DOT–117R specifications in part 179 of title 49, Code of Federal Regulations, regardless of train composition. “(b) Phase-Out Schedule.—Certain tank cars not meeting DOT–117, DOT–117P, or DOT–117R specifications on the date of enactment of this Act may be used, regardless of train composition, until the following end-dates:“(1) For transport of unrefined petroleum products in Class 3 flammable service, including crude oil—“(A) January 1, 2018, for non-jacketed DOT–111 tank cars; “(B) March 1, 2018, for jacketed DOT–111 tank cars; “(C) April 1, 2020, for non-jacketed CPC–1232 tank cars; and “(D) May 1, 2025, for jacketed CPC–1232 tank cars. “(2) For transport of ethanol—“(A) May 1, 2023, for non-jacketed and jacketed DOT–111 tank cars; “(B) July 1, 2023, for non-jacketed CPC–1232 tank cars; and “(C) May 1, 2025, for jacketed CPC–1232 tank cars. “(3) For transport of Class 3 flammable liquids in Packing Group I, other than Class 3 flammable liquids specified in paragraphs (1) and (2), May 1, 2025. “(4) For transport of Class 3 flammable liquids in Packing Groups II and III, other than Class 3 flammable liquids specified in paragraphs (1) and (2), May 1, 2029. “(c) Retrofitting Shop Capacity.—The Secretary [of Transportation] may extend the deadlines established under paragraphs (3) and (4) of subsection (b) for a period not to exceed 2 years if the Secretary determines that insufficient retrofitting shop capacity will prevent the phase-out of tank cars not meeting the DOT–117, DOT–117P, or DOT–117R specifications by the deadlines set forth in such paragraphs. “(d) Conforming Regulatory Amendments.—“(1) In general.—Immediately after the date of enactment of this section [Dec. 4, 2015], the Secretary—“(A) shall remove or revise the date-specific deadlines in any applicable regulations or orders to the extent necessary to conform with the requirements of this section; and “(B) may not enforce any such date-specific deadlines or requirements that are inconsistent with the requirements of this section. “(2) Implementation.—Nothing in this section shall be construed to require the Secretary to issue regulations, except as required under paragraph (1), to implement this section. “(e) Savings Clause.—Nothing in this section shall be construed to prohibit the Secretary from implementing the final rule issued on May 08, 2015, entitled ‘Enhanced Tank Car Standards and Operational Controls for High-Hazard Flammable Trains’ (80 Fed. Reg. 26643), other than the provisions of the final rule that are inconsistent with this section. “(f) Class 3 Flammable Liquid Defined.—In this section, the term ‘Class 3 flammable liquid’ has the meaning given the term flammable liquid in section 173.120(a) of title 49, Code of Federal Regulations.”
+
+#### Thermal Blankets
+Pub. L. 114–94, div. A, title VII, § 7305, Dec. 4, 2015, 129 Stat. 1597, provided that: “(a) Requirements.—Not later than 180 days after the date of enactment of this Act [Dec. 4, 2015], the Secretary [of Transportation] shall issue such regulations as are necessary to require that each tank car built to meet the DOT–117 specification and each non-jacketed tank car modified to meet the DOT–117R specification be equipped with an insulating blanket with at least ½-inch-thick material that has been approved by the Secretary pursuant to section 179.18(c) of title 49, Code of Federal Regulations. “(b) Savings Clause.—Nothing in this section shall prohibit the Secretary from approving new or alternative technologies or materials as they become available that provide a level of safety at least equivalent to the level of safety provided for under subsection (a).”
+
+#### Modification Reporting
+Pub. L. 114–94, div. A, title VII, § 7308, Dec. 4, 2015, 129 Stat. 1599, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Dec. 4, 2015], the Secretary [of Transportation] shall implement a reporting requirement to monitor industry-wide progress toward modifying rail tank cars used to transport Class 3 flammable liquids by the applicable deadlines established in section 7304 [set out as a note above]. “(b) Tank Car Data.—The Secretary shall collect data from shippers and rail tank car owners on—“(1) the total number of tank cars modified to meet the DOT–117R specification, or equivalent, specifying—“(A) the type or specification of each tank car before it was modified, including non-jacketed DOT–111, jacketed DOT–111, non-jacketed DOT–111 meeting the CPC–1232 standard, or jacketed DOT–111 meeting the CPC–1232 standard; and “(B) the identification number of each Class 3 flammable liquid carried by each tank car in the past year; “(2) the total number of tank cars built to meet the DOT–117 specification, or equivalent; and “(3) the total number of tank cars used or likely to be used to transport Class 3 flammable liquids that have not been modified, specifying—“(A) the type or specification of each tank car not modified, including the non-jacketed DOT–111, jacketed DOT–111, non-jacketed DOT–111 meeting the CPC–1232 standard, or jacketed DOT–111 meeting the CPC–1232 standard; and “(B) the identification number of each Class 3 flammable liquid carried by each tank car in the past year. “(c) Tank Car Shop Data.—The Secretary shall conduct a survey of tank car facilities modifying tank cars to the DOT–117R specification, or equivalent, or building new tank cars to the DOT–117 specification, or equivalent, to generate statistically-valid estimates of the anticipated number of tank cars those facilities expect to modify to DOT–117R specification, or equivalent, or build to the DOT–117 specification, or equivalent. “(d) Frequency.—The Secretary shall collect the data under subsection (b) and conduct the survey under subsection (c) annually until May 1, 2029. “(e) Information Protections.—“(1) In general.—The Secretary shall only report data in industry-wide totals and shall treat company-specific information as confidential business information. “(2) Level of confidentiality.—The Secretary shall ensure the data collected under subsection (b) and the survey data under subsection (c) have the same level of confidentiality as required by the Confidential Information Protection and Statistical Efficiency Act of 2002 ([44 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim) note), as administered by the Bureau of Transportation Statistics. “(3) Designee.—The Secretary may—“(A) designate the Director of the Bureau of Transportation Statistics to collect data under subsection (b) and the survey data under subsection (c); and “(B) direct the Director to ensure the confidentially of company-specific information to the maximum extent permitted by law. “(f) Report.—Each year, not later than 60 days after the date that both the collection of the data under subsection (b) and the survey under subsection (c) are complete, the Secretary shall submit a written report on the aggregate results, without company-specific information, to—“(1) the Committee on Commerce, Science, and Transportation of the Senate; and “(2) the Committee on Transportation and Infrastructure of the House of Representatives. “(g) Definition of Class 3 Flammable Liquid.—In this section, the term ‘Class 3 flammable liquid’ has the meaning given the term flammable liquid in section 173.120 of title 49, Code of Federal Regulations.”
 
 
 <a id="section-20156"></a>
@@ -1870,7 +1870,7 @@ The date of enactment of this section, referred to in text, is the date of enact
 
 **(b) Certification.—** The chief official responsible for safety of each railroad carrier required to submit a railroad safety risk reduction program under subsection (a) shall certify that the contents of the program are accurate and that the railroad carrier will implement the contents of the program as approved by the Secretary.
 
-**(c) Risk Analysis.—** In developing its railroad safety risk reduction program each railroad carrier required to submit such a program pursuant to subsection (a) shall identify and analyze the aspects of its railroad, including operating rules and practices, infrastructure, equipment, employee levels and schedules, safety culture, management structure, employee training, and other matters, including those not covered by railroad safety regulations or other Federal regulations, that impact railroad safety.
+**(c) Risk Analysis.—** In developing its railroad safety risk reduction program, each railroad carrier required to submit such a program pursuant to subsection (a) shall identify and analyze the aspects of its railroad, including operating rules and practices, infrastructure, equipment, employee levels and schedules, safety culture, management structure, employee training, and other matters, including those not covered by railroad safety regulations or other Federal regulations, that impact railroad safety.
 
 **(d) Program Elements.—**
 
@@ -1926,7 +1926,7 @@ The date of enactment of this section, referred to in text, is the date of enact
 
 **(g) Consensus.—**
 
-(1) **In general.—** — Each railroad carrier required to submit a railroad safety risk reduction program under subsection (a) shall consult with, employ good faith and use its best efforts to reach agreement with, all of its directly affected employees, including any non-profit employee labor organization representing a class or craft of directly affected employees of the railroad carrier, on the contents of the safety risk reduction program.
+(1) **In general.—** — Each railroad carrier required to submit a railroad safety risk reduction program under subsection (a) shall consult with, employ good faith, and use its best efforts to reach agreement with, all of its directly affected employees, including any nonprofit employee labor organization representing a class or craft of directly affected employees of the railroad carrier, on the contents of the safety risk reduction program.
 
 (2) **Statement.—** — If the railroad carrier and its directly affected employees, including any nonprofit employee labor organization representing a class or craft of directly affected employees of the railroad carrier, cannot reach consensus on the proposed contents of the plan, then directly affected employees and such organization may file a statement with the Secretary explaining their views on the plan on which consensus was not reached. The Secretary shall consider such views during review and approval of the program.
 
@@ -1937,51 +1937,257 @@ The date of enactment of this section, referred to in text, is the date of enact
 #### References in Text
 The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsec. (a)(1), is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
 
+#### Amendments
+2015—Subsec. (c). Pub. L. 114–94, § 11316(e)(1), inserted comma after “In developing its railroad safety risk reduction program”.
+
+Subsec. (g)(1). Pub. L. 114–94, § 11316(e)(2), inserted comma after “good faith” and substituted “nonprofit” for “non-profit”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 
 <a id="section-20157"></a>
 ## § 20157. Implementation of positive train control systems
 **(a) In General.—**
 
-(1) **Plan required.—** — Not later than 18 months after the date of enactment of the Rail Safety Improvement Act of 2008, each Class I railroad carrier and each entity providing regularly scheduled intercity or commuter rail passenger transportation shall develop and submit to the Secretary of Transportation a plan for implementing a positive train control system by December 31, 2015, governing operations on—
+(1) **Plan required.—** — Not later than 90 days after the date of enactment of the Positive Train Control Enforcement and Implementation Act of 2015, each Class I railroad carrier and each entity providing regularly scheduled intercity or commuter rail passenger transportation shall submit to the Secretary of Transportation a revised plan for implementing a positive train control system by December 31, 2018, governing operations on—
 
   (A) its main line over which intercity rail passenger transportation or commuter rail passenger transportation, as defined in section 24102, is regularly provided;
 
-  (B) its main line over which poison- or toxic-by-inhalation hazardous materials, as defined in parts 11 So in original. Probably should be “sections”. 171.8, 173.115, and 173.132 of title 49, Code of Federal Regulations, are transported; and
+  (B) its main line over which poison- or toxic-by-inhalation hazardous materials, as defined in sections 171.8, 173.115, and 173.132 of title 49, Code of Federal Regulations, are transported; and
 
   (C) such other tracks as the Secretary may prescribe by regulation or order.
 
-(2) **Implementation.—** — The plan shall describe how it will provide for interoperability of the system with movements of trains of other railroad carriers over its lines and shall, to the extent practical, implement the system in a manner that addresses areas of greater risk before areas of lesser risk. The railroad carrier shall implement a positive train control system in accordance with the plan.
+(2) **Implementation.—**
+
+  (A) *Contents of revised plan.—* — A revised plan required under paragraph (1) shall—
+
+    (i) describe—
+
+      (I) how the positive train control system will provide for interoperability of the system with the movements of trains of other railroad carriers over its lines; and
+
+      (II) how, to the extent practical, the positive train control system will be implemented in a manner that addresses areas of greater risk before areas of lesser risk;
+
+    (ii) comply with the positive train control system implementation plan content requirements under section 236.1011 of title 49, Code of Federal Regulations; and
+
+    (iii) provide—
+
+      (I) the calendar year or years in which spectrum will be acquired and will be available for use in each area as needed for positive train control system implementation, if such spectrum is not already acquired and available for use;
+
+      (II) the total amount of positive train control system hardware that will be installed for implementation, with totals separated by each major hardware category;
+
+      (III) the total amount of positive train control system hardware that will be installed by the end of each calendar year until the positive train control system is implemented, with totals separated by each hardware category;
+
+      (IV) the total number of employees required to receive training under the applicable positive train control system regulations;
+
+      (V) the total number of employees that will receive the training, as required under the applicable positive train control system regulations, by the end of each calendar year until the positive train control system is implemented;
+
+      (VI) a summary of any remaining technical, programmatic, operational, or other challenges to the implementation of a positive train control system, including challenges with—
+
+        (aa) availability of public funding;
+
+        (bb) interoperability;
+
+        (cc) spectrum;
+
+        (dd) software;
+
+        (ee) permitting; and
+
+        (ff) testing, demonstration, and certification; and
+
+      (VII) a schedule and sequence for implementing a positive train control system by the deadline established under paragraph (1).
+
+  (B) *Alternative schedule and sequence.—* — Notwithstanding the implementation deadline under paragraph (1) and in lieu of a schedule and sequence under paragraph (2)(A)(iii)(VII), a railroad carrier or other entity subject to paragraph (1) may include in its revised plan an alternative schedule and sequence for implementing a positive train control system, subject to review under paragraph (3). Such schedule and sequence shall provide for implementation of a positive train control system as soon as practicable, but not later than the date that is 24 months after the implementation deadline under paragraph (1).
+
+  (C) *Amendments.—* — A railroad carrier or other entity subject to paragraph (1) may file a request to amend a revised plan, including any alternative schedule and sequence, as applicable, in accordance with section 236.1021 of title 49, Code of Federal Regulations.
+
+  (D) *Compliance.—* — A railroad carrier or other entity subject to paragraph (1) shall implement a positive train control system in accordance with its revised plan, including any amendments or any alternative schedule and sequence approved by the Secretary under paragraph (3).
+
+(3) **Secretarial review.—**
+
+  (A) *Notification.—* — A railroad carrier or other entity that submits a revised plan under paragraph (1) and proposes an alternative schedule and sequence under paragraph (2)(B) shall submit to the Secretary a written notification when such railroad carrier or other entity is prepared for review under subparagraph (B).
+
+  (B) *Criteria.—* — Not later than 90 days after a railroad carrier or other entity submits a notification under subparagraph (A), the Secretary shall review the alternative schedule and sequence submitted pursuant to paragraph (2)(B) and determine whether the railroad carrier or other entity has demonstrated, to the satisfaction of the Secretary, that such carrier or entity has—
+
+    (i) installed all positive train control system hardware consistent with the plan contents provided pursuant to paragraph (2)(A)(iii)(II) on or before the implementation deadline under paragraph (1);
+
+    (ii) acquired all spectrum necessary for implementation of a positive train control system, consistent with the plan contents provided pursuant to paragraph (2)(A)(iii)(I) on or before the implementation deadline under paragraph (1);
+
+    (iii) completed employee training required under the applicable positive train control system regulations;
+
+    (iv) included in its revised plan an alternative schedule and sequence for implementing a positive train control system as soon as practicable, pursuant to paragraph (2)(B);
+
+    (v) certified to the Secretary in writing that it will be in full compliance with the requirements of this section on or before the date provided in an alternative schedule and sequence, subject to approval by the Secretary;
+
+    (vi) in the case of a Class I railroad carrier and Amtrak, implemented a positive train control system or initiated revenue service demonstration on the majority of territories, such as subdivisions or districts, or route miles that are owned or controlled by such carrier and required to have operations governed by a positive train control system; and
+
+    (vii) in the case of any other railroad carrier or other entity not subject to clause (vi)—
+
+      (I) initiated revenue service demonstration on at least 1 territory that is required to have operations governed by a positive train control system; or
+
+      (II) met any other criteria established by the Secretary.
+
+  (C) *Decision.—*
+
+    (i) *In general.—* — Not later than 90 days after the receipt of the notification from a railroad carrier or other entity under subparagraph (A), the Secretary shall—
+
+      (I) approve an alternative schedule and sequence submitted pursuant to paragraph (2)(B) if the railroad carrier or other entity meets the criteria in subparagraph (B); and
+
+      (II) notify in writing the railroad carrier or other entity of the decision.
+
+    (ii) *Deficiencies.—* — Not later than 45 days after the receipt of the notification under subparagraph (A), the Secretary shall provide to the railroad carrier or other entity a written notification of any deficiencies that would prevent approval under clause (i) and provide the railroad carrier or other entity an opportunity to correct deficiencies before the date specified in such clause.
+
+  (D) *Revised deadlines.—*
+
+    (i) *Pending reviews.—* — For a railroad carrier or other entity that submits a notification under subparagraph (A), the deadline for implementation of a positive train control system required under paragraph (1) shall be extended until the date on which the Secretary approves or disapproves the alternative schedule and sequence, if such date is later than the implementation date under paragraph (1).
+
+    (ii) *Alternative schedule and sequence deadline.—* — If the Secretary approves a railroad carrier or other entity’s alternative schedule and sequence under subparagraph (C)(i), the railroad carrier or other entity’s deadline for implementation of a positive train control system required under paragraph (1) shall be the date specified in that railroad carrier or other entity’s alternative schedule and sequence. The Secretary may not approve a date for implementation that is later than 24 months from the deadline in paragraph (1).
 
 **(b) Technical Assistance.—** The Secretary may provide technical assistance and guidance to railroad carriers in developing the plans required under subsection (a).
 
-**(c) Review and Approval.—** Not later than 90 days after the Secretary receives a plan, the Secretary shall review and approve or disapprove it. If the proposed plan is not approved, the Secretary shall notify the affected railroad carrier or other entity as to the specific areas in which the proposed plan is deficient, and the railroad carrier or other entity shall correct all deficiencies within 30 days following receipt of written notice from the Secretary. The Secretary shall annually conduct a review to ensure that the railroad carriers are complying with their plans.
+**(c) Progress Reports and Review.—**
 
-**(d) Report.—** Not later than December 31, 2012, the Secretary shall transmit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the progress of the railroad carriers in implementing such positive train control systems.
+(1) **Progress reports.—** — Each railroad carrier or other entity subject to subsection (a) shall, not later than March 31, 2016, and annually thereafter until such carrier or entity has completed implementation of a positive train control system, submit to the Secretary a report on the progress toward implementing such systems, including—
 
-**(e) Enforcement.—** The Secretary is authorized to assess civil penalties pursuant to chapter 213 for a violation of this section, including the failure to submit or comply with a plan for implementing positive train control under subsection (a).
+  (A) the information on spectrum acquisition provided pursuant to subsection (a)(2)(A)(iii)(I);
+
+  (B) the totals provided pursuant to subclauses (III) and (V) of subsection (a)(2)(A)(iii), by territory, if applicable;
+
+  (C) the extent to which the railroad carrier or other entity is complying with the implementation schedule under subsection (a)(2)(A)(iii)(VII) or subsection (a)(2)(B);
+
+  (D) any update to the information provided under subsection (a)(2)(A)(iii)(VI);
+
+  (E) for each entity providing regularly scheduled intercity or commuter rail passenger transportation, a description of the resources identified and allocated to implement a positive train control system;
+
+  (F) for each railroad carrier or other entity subject to subsection (a), the total number of route miles on which a positive train control system has been initiated for revenue service demonstration or implemented, as compared to the total number of route miles required to have a positive train control system under subsection (a); and
+
+  (G) any other information requested by the Secretary.
+
+(2) **Plan review.—** — The Secretary shall at least annually conduct reviews to ensure that railroad carriers or other entities are complying with the revised plan submitted under subsection (a), including any amendments or any alternative schedule and sequence approved by the Secretary. Such railroad carriers or other entities shall provide such information as the Secretary determines necessary to adequately conduct such reviews.
+
+(3) **Public availability.—** — Not later than 60 days after receipt, the Secretary shall make available to the public on the Internet Web site of the Department of Transportation any report submitted pursuant to paragraph (1) or subsection (d), but may exclude, as the Secretary determines appropriate—
+
+  (A) proprietary information; and
+
+  (B) security-sensitive information, including information described in section 1520.5(a) of title 49, Code of Federal Regulations.
+
+**(d) Report to Congress.—** Not later than July 1, 2018, the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the progress of each railroad carrier or other entity subject to subsection (a) in implementing a positive train control system.
+
+**(e) Enforcement.—** The Secretary is authorized to assess civil penalties pursuant to chapter 213 for—
+
+(1) a violation of this section;
+
+(2) the failure to submit or comply with the revised plan required under subsection (a), including the failure to comply with the totals provided pursuant to subclauses (III) and (V) of subsection (a)(2)(A)(iii) and the spectrum acquisition dates provided pursuant to subsection (a)(2)(A)(iii)(I);
+
+(3) failure to comply with any amendments to such revised plan pursuant to subsection (a)(2)(C); and
+
+(4) the failure to comply with an alternative schedule and sequence submitted under subsection (a)(2)(B) and approved by the Secretary under subsection (a)(3)(C).
 
 **(f) Other Railroad Carriers.—** Nothing in this section restricts the discretion of the Secretary to require railroad carriers other than those specified in subsection (a) to implement a positive train control system pursuant to this section or section 20156, or to specify the period by which implementation shall occur that does not exceed the time limits established in this section or section 20156. In exercising such discretion, the Secretary shall, at a minimum, consider the risk to railroad employees and the public associated with the operations of the railroad carrier.
 
-**(g) Regulations.—** The Secretary shall prescribe regulations or issue orders necessary to implement this section, including regulations specifying in appropriate technical detail the essential functionalities of positive train control systems, and the means by which those systems will be qualified.
+**(g) Regulations.—**
 
-**(h) Certification.—** The Secretary shall not permit the installation of any positive train control system or component in revenue service unless the Secretary has certified that any such system or component has been approved through the approval process set forth in part 236 of title 49, Code of Federal Regulations, and complies with the requirements of that part.
+(1) **In general.—** — The Secretary shall prescribe regulations or issue orders necessary to implement this section, including regulations specifying in appropriate technical detail the essential functionalities of positive train control systems, and the means by which those systems will be qualified.
+
+(2) **Conforming regulatory amendments.—** — Immediately after the date of the enactment of the Positive Train Control Enforcement and Implementation Act of 2015, the Secretary—
+
+  (A) shall remove or revise the date-specific deadlines in the regulations or orders implementing this section to the extent necessary to conform with the amendments made by such Act; and
+
+  (B) may not enforce any such date-specific deadlines or requirements that are inconsistent with the amendments made by such Act.
+
+(3) **Review.—** — Nothing in the Positive Train Control Enforcement and Implementation Act of 2015, or the amendments made by such Act, shall be construed to require the Secretary to issue regulations to implement such Act or amendments other than the regulatory amendments required to conform with this section.
+
+(4) **Clarification.—**
+
+  (A) *Prohibitions.—* — The Secretary is prohibited from—
+
+    (i) approving or disapproving a revised plan submitted under subsection (a)(1);
+
+    (ii) considering a revised plan under subsection (a)(1) as a request for amendment under section 236.1021 of title 49, Code of Federal Regulations; or
+
+    (iii) requiring the submission, as part of the revised plan under subsection (a)(1), of—
+
+      (I) only a schedule and sequence under subsection (a)(2)(A)(iii)(VII); or
+
+      (II) both a schedule and sequence under subsection (a)(2)(A)(iii)(VII) and an alternative schedule and sequence under subsection (a)(2)(B).
+
+  (B) *Civil penalty authority.—* — Except as provided in paragraph (2) and this paragraph, nothing in this subsection shall be construed to limit the Secretary’s authority to assess civil penalties pursuant to subsection (e), consistent with the requirements of this section.
+
+  (C) *Retained review authority.—* — The Secretary retains the authority to review revised plans submitted under subsection (a)(1) and is authorized to require modifications of those plans to the extent necessary to ensure that such plans include the descriptions under subsection (a)(2)(A)(i), the contents under subsection (a)(2)(A)(ii), and the year or years, totals, and summary under subsection (a)(2)(A)(iii)(I) through (VI).
+
+**(h) Certification.—**
+
+(1) **In general.—** — The Secretary shall not permit the installation of any positive train control system or component in revenue service unless the Secretary has certified that any such system or component has been approved through the approval process set forth in part 236 of title 49, Code of Federal Regulations, and complies with the requirements of that part.
+
+(2) **Provisional operation.—** — Notwithstanding the requirements of paragraph (1), the Secretary may authorize a railroad carrier or other entity to commence operation in revenue service of a positive train control system or component to the extent necessary to enable the safe implementation and operation of a positive train control system in phases.
 
 **(i) Definitions.—** In this section:
 
-(1) **Interoperability.—** — The term “interoperability” means the ability to control locomotives of the host railroad and tenant railroad to communicate with and respond to the positive train control system, including uninterrupted movements over property boundaries.
+(1) **Equivalent or greater level of safety.—** — The term “equivalent or greater level of safety” means the compliance of a railroad carrier with—
 
-(2) **Main line.—** — The term “main line” means a segment or route of railroad tracks over which 5,000,000 or more gross tons of railroad traffic is transported annually, except that—
+  (A) appropriate operating rules in place immediately prior to the use or implementation of such carrier’s positive train control system, except that such rules may be changed by such carrier to improve safe operations; and
+
+  (B) all applicable safety regulations, except as specified in subsection (j).
+
+(2) **Hardware.—** — The term “hardware” means a locomotive apparatus, a wayside interface unit (including any associated legacy signal system replacements), switch position monitors needed for a positive train control system, physical back office system equipment, a base station radio, a wayside radio, a locomotive radio, or a communication tower or pole.
+
+(3) **Interoperability.—** — The term “interoperability” means the ability to control locomotives of the host railroad and tenant railroad to communicate with and respond to the positive train control system, including uninterrupted movements over property boundaries.
+
+(4) **Main line.—** — The term “main line” means a segment or route of railroad tracks over which 5,000,000 or more gross tons of railroad traffic is transported annually, except that—
 
   (A) the Secretary may, through regulations under subsection (g), designate additional tracks as main line as appropriate for this section; and
 
   (B) for intercity rail passenger transportation or commuter rail passenger transportation routes or segments over which limited or no freight railroad operations occur, the Secretary shall define the term “main line” by regulation.
 
-(3) **Positive train control system.—** — The term “positive train control system” means a system designed to prevent train-to-train collisions, over-speed derailments, incursions into established work zone limits, and the movement of a train through a switch left in the wrong position.
+(5) **Positive train control system.—** — The term “positive train control system” means a system designed to prevent train-to-train collisions, over-speed derailments, incursions into established work zone limits, and the movement of a train through a switch left in the wrong position.
+
+**(j) Early Adoption.—**
+
+(1) **Operations.—** — From the date of enactment of the Positive Train Control Enforcement and Implementation Act of 2015 through the 1-year period beginning on the date on which the last Class I railroad carrier’s positive train control system subject to subsection (a) is certified by the Secretary under subsection (h)(1) of this section and is implemented on all of that railroad carrier’s lines required to have operations governed by a positive train control system, any railroad carrier, including any railroad carrier that has its positive train control system certified by the Secretary, shall not be subject to the operational restrictions set forth in sections 236.567 and 236.1029 of title 49, Code of Federal Regulations, that would apply where a controlling locomotive that is operating in, or is to be operated in, a positive train control-equipped track segment experiences a positive train control system failure, a positive train control operated consist is not provided by another railroad carrier when provided in interchange, or a positive train control system otherwise fails to initialize, cuts out, or malfunctions, provided that such carrier operates at an equivalent or greater level of safety than the level achieved immediately prior to the use or implementation of its positive train control system.
+
+(2) **Safety assurance.—** — During the period described in paragraph (1), if a positive train control system that has been certified and implemented fails to initialize, cuts out, or malfunctions, the affected railroad carrier or other entity shall make reasonable efforts to determine the cause of the failure and adjust, repair, or replace any faulty component causing the system failure in a timely manner.
+
+(3) **Plans.—** — The positive train control safety plan for each railroad carrier or other entity shall describe the safety measures, such as operating rules and actions to comply with applicable safety regulations, that will be put in place during any system failure.
+
+(4) **Notification.—** — During the period described in paragraph (1), if a positive train control system that has been certified and implemented fails to initialize, cuts out, or malfunctions, the affected railroad carrier or other entity shall submit a notification to the appropriate regional office of the Federal Railroad Administration within 7 days of the system failure, or under alternative location and deadline requirements set by the Secretary, and include in the notification a description of the safety measures the affected railroad carrier or other entity has in place.
+
+**(k) Small Railroads.—** Not later than 120 days after the date of the enactment of this Act,11 See References in Text note below. the Secretary shall amend section 236.1006(b)(4)(iii)(B) of title 49, Code of Federal Regulations (relating to equipping locomotives for applicable Class II and Class III railroads operating in positive train control territory) to extend each deadline under such section by 3 years.
+
+**(l) Revenue Service Demonstration.—** When a railroad carrier or other entity subject to (a)(1) 22 So in original. Probably should be preceded by “subsection”. notifies the Secretary it is prepared to initiate revenue service demonstration, it shall also notify any applicable tenant railroad carrier or other entity subject to subsection (a)(1).
 
 ### Statutory Notes
 
 #### References in Text
-The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsec. (a)(1), is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
+The date of enactment of the Positive Train Control Enforcement and Implementation Act of 2015, referred to in subsecs. (a)(1), (g)(2), and (j)(1), is the date of enactment of section 1302 of Pub. L. 114–73, which was approved Oct. 29, 2015.
+
+The Positive Train Control Enforcement and Implementation Act of 2015, referred to in subsec. (g)(2), (3), is Pub. L. 114–73, title I, § 1302, Oct. 29, 2015, 129 Stat. 576, which amended this section and enacted provisions set out as a note under [section 20101 of this title](./chapter-201-general.md#section-20101). For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 20101 of this title](./chapter-201-general.md#section-20101) and Tables.
+
+The date of the enactment of this Act, referred to in subsec. (k), probably means the date of enactment of section 1302 of Pub. L. 114–73, known as the Positive Train Control Enforcement and Implementation Act of 2015, which enacted subsec. (k) and was approved Oct. 29, 2015.
+
+#### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–73, § 1302(b)(1)(A)–(D), in introductory provisions, substituted “90 days after the date of enactment of the Positive Train Control Enforcement and Implementation Act of 2015” for “18 months after the date of enactment of the Rail Safety Improvement Act of 2008”, “a revised plan for implementing” for “a plan for implementing”, and “December 31, 2018” for “December 31, 2015” and struck out “develop and” before “submit to the Secretary of Transportation”.
+
+Subsec. (a)(1)(B). Pub. L. 114–73, § 1302(b)(1)(E), substituted “defined in sections” for “defined in parts”.
+
+Subsec. (a)(2), (3). Pub. L. 114–73, § 1302(b)(2), added pars. (2) and (3) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The plan shall describe how it will provide for interoperability of the system with movements of trains of other railroad carriers over its lines and shall, to the extent practical, implement the system in a manner that addresses areas of greater risk before areas of lesser risk. The railroad carrier shall implement a positive train control system in accordance with the plan.”
+
+Subsecs. (c) to (e). Pub. L. 114–73, § 1302(b)(3), added subsecs. (c) to (e) and struck out former subsecs. (c) to (e) which related, respectively, to review and approval of plans, progress report on implementation of positive train control systems, and enforcement of section.
+
+Subsec. (g). Pub. L. 114–73, § 1302(c), designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
+
+Subsec. (g)(3). Pub. L. 114–94, § 11315(d)(2), substituted “to conform with this section” for “by paragraph (2) and subsection (k)”.
+
+Subsec. (g)(4). Pub. L. 114–94, § 11315(d)(1), added par. (4).
+
+Subsec. (h). Pub. L. 114–73, § 1302(b)(4), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (i). Pub. L. 114–73, § 1302(b)(5), added pars. (1) and (2) and redesignated former pars. (1) to (3) as (3) to (5), respectively.
+
+Subsecs. (j) to (l). Pub. L. 114–73, § 1302(b)(6), added subsecs. (j) to (l).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-20158"></a>
@@ -2010,19 +2216,25 @@ The date of enactment of the Rail Safety Improvement Act of 2008, referred to in
 <a id="section-20159"></a>
 ## § 20159. Roadway user sight distance at highway-rail grade crossings
 
-Not later than 18 months after the date of enactment of the Rail Safety Improvement Act of 2008, the Secretary, after consultation with the Federal Railroad Administration, the Federal Highway Administration, and States, shall develop and make available to States model legislation providing for improving safety by addressing sight obstructions, including vegetation growth, topographic features, structures, and standing railroad equipment, at highway-rail grade crossings that are equipped solely with passive warnings, as recommended by the Inspector General of the Department of Transportation in Report No. MH–2007–044.
+Not later than 18 months after the date of enactment of the Rail Safety Improvement Act of 2008, the Secretary of Transportation, after consultation with the Federal Railroad Administration, the Federal Highway Administration, and States, shall develop and make available to States model legislation providing for improving safety by addressing sight obstructions, including vegetation growth, topographic features, structures, and standing railroad equipment, at highway-rail grade crossings that are equipped solely with passive warnings, as recommended by the Inspector General of the Department of Transportation in Report No. MH–2007–044.
 
 ### Statutory Notes
 
 #### References in Text
 The date of enactment of the Rail Safety Improvement Act of 2008, referred to in text, is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
 
+#### Amendments
+2015—Pub. L. 114–94 substituted “the Secretary of Transportation” for “the Secretary”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
 
 <a id="section-20160"></a>
 ## § 20160. National crossing inventory
 **(a) Initial Reporting of Information About Previously Unreported Crossings.—** Not later than 1 year after the date of enactment of the Rail Safety Improvement Act of 2008 or 6 months after a new crossing becomes operational, whichever occurs later, each railroad carrier shall—
 
-(1) report to the Secretary of Transportation current information, including information about warning devices and signage, as specified by the Secretary, concerning each previously unreported crossing through which it operates or with respect to the trackage over which it operates; or
+(1) report to the Secretary of Transportation current information, including information about warning devices and signage, as specified by the Secretary, concerning each previously unreported crossing through which it operates with respect to the trackage over which it operates; or
 
 (2) ensure that the information has been reported to the Secretary by another railroad carrier that operates through the crossing.
 
@@ -2030,7 +2242,7 @@ The date of enactment of the Rail Safety Improvement Act of 2008, referred to in
 
 (1) On a periodic basis beginning not later than 2 years after the date of enactment of the Rail Safety Improvement Act of 2008 and on or before September 30 of every year thereafter, or as otherwise specified by the Secretary, each railroad carrier shall—
 
-  (A) report to the Secretary current information, including information about warning devices and signage, as specified by the Secretary, concerning each crossing through which it operates or with respect to the trackage over which it operates; or
+  (A) report to the Secretary current information, including information about warning devices and signage, as specified by the Secretary, concerning each crossing through which it operates with respect to the trackage over which it operates; or
 
   (B) ensure that the information has been reported to the Secretary by another railroad carrier that operates through the crossing.
 
@@ -2052,6 +2264,14 @@ The date of enactment of the Rail Safety Improvement Act of 2008, referred to in
 
 #### References in Text
 The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsecs. (a) to (c), is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
+
+#### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–94, § 11316(g)(1), substituted “concerning each previously unreported crossing through which it operates with respect to the trackage over which it operates” for “concerning each previously unreported crossing through which it operates or with respect to the trackage over which it operates”.
+
+Subsec. (b)(1)(A). Pub. L. 114–94, § 11316(g)(2), substituted “concerning each crossing through which it operates with respect to the trackage over which it operates” for “concerning each crossing through which it operates or with respect to the trackage over which it operates”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-20161"></a>
@@ -2092,7 +2312,7 @@ The Highway Safety Act of 1973, referred to in subsec. (a)(4), is title II of Pu
 
 (2) a requirement that railroad carriers, contractors, and subcontractors develop and submit training and qualification plans to the Secretary for approval, including training programs and information deemed necessary by the Secretary to ensure that all safety-related railroad employees receive appropriate training in a timely manner; and
 
-(3) a minimum training curriculum, and ongoing training criteria, testing, and skills evaluation measures to ensure that safety-related railroad employees, and contractor and subcontractor employees, charged with the inspection of track or railroad equipment are qualified to assess railroad compliance with Federal standards to identify defective conditions and initiate immediate remedial action to correct critical safety defects that are known to contribute to derailments, accidents, incidents, or injuries, and, in implementing the requirements of this paragraph, take into consideration existing training programs of railroad carriers.
+(3) a minimum training curriculum, and ongoing training criteria, testing, and skills evaluation measures to ensure that safety-related railroad employees, and contractor and subcontractor employees, charged with the inspection of track or railroad equipment are qualified to assess railroad carrier compliance with Federal standards to identify defective conditions and initiate immediate remedial action to correct critical safety defects that are known to contribute to derailments, accidents, incidents, or injuries, and, in implementing the requirements of this paragraph, take into consideration existing training programs of railroad carriers.
 
 **(b) Approval.—** The Secretary shall review and approve the plans required under subsection (a)(2) utilizing an approval process required for programs to certify the qualification of locomotive engineers pursuant to part 240 of title 49, Code of Federal Regulations.
 
@@ -2102,6 +2322,12 @@ The Highway Safety Act of 1973, referred to in subsec. (a)(4), is title II of Pu
 
 #### References in Text
 The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsecs. (a) and (c), is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
+
+#### Amendments
+2015—Subsec. (a)(3). Pub. L. 114–94 substituted “railroad carrier compliance with Federal standards” for “railroad compliance with Federal standards”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Report and Regulations on Certification of Certain Crafts or Classes of Employees
 Pub. L. 110–432, div. A, title IV, § 402(b)–(d), Oct. 16, 2008, 122 Stat. 4884, provided that: “(b) Report.—Not later than 6 months after promulgating regulations under [section 20162 of title 49](./chapter-201-general.md#section-20162), United States Code, the Secretary shall issue a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure about whether the certification of certain crafts or classes of railroad carrier or railroad carrier contractor or subcontractor employees is necessary to reduce the number and rate of accidents and incidents or to improve railroad safety. “(c) Crafts and Classes to Be Considered.—As part of the report, the Secretary shall consider—“(1) car repair and maintenance employees; “(2) onboard service workers; “(3) rail welders; “(4) dispatchers; “(5) signal repair and maintenance employees; and “(6) any other craft or class of employees that the Secretary determines appropriate. “(d) Regulations.—The Secretary may prescribe regulations requiring the certification of certain crafts or classes of employees that the Secretary determines pursuant to the report required by paragraph (1) are necessary to reduce the number and rate of accidents and incidents or to improve railroad safety.”
@@ -2123,7 +2349,7 @@ The date of enactment of the Rail Safety Improvement Act of 2008, referred to in
 
 <a id="section-20164"></a>
 ## § 20164. Development and use of rail safety technology
-**(a) In General.—** Not later than 1 year after enactment of the Railroad Safety Enhancement Act of 2008,11 See References in Text note below. the Secretary of Transportation shall prescribe standards, guidance, regulations, or orders governing the development, use, and implementation of rail safety technology in dark territory, in arrangements not defined in section 20501 or otherwise not covered by Federal standards, guidance, regulations, or orders that ensure the safe operation of such technology, such as—
+**(a) In General.—** Not later than 1 year after the date of enactment of the Rail Safety Improvement Act of 2008, the Secretary of Transportation shall prescribe standards, guidance, regulations, or orders governing the development, use, and implementation of rail safety technology in dark territory, in arrangements not defined in section 20501 or otherwise not covered by Federal standards, guidance, regulations, or orders that ensure the safe operation of such technology, such as—
 
 (1) switch position monitoring devices or indicators;
 
@@ -2146,7 +2372,13 @@ The date of enactment of the Rail Safety Improvement Act of 2008, referred to in
 ### Statutory Notes
 
 #### References in Text
-The Railroad Safety Enhancement Act of 2008, referred to in subsec. (a), probably means the Rail Safety Improvement Act of 2008, div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
+The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsec. (a), is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
+
+#### Amendments
+2015—Subsec. (a). Pub. L. 114–94 substituted “after the date of enactment of the Rail Safety Improvement Act of 2008” for “after enactment of the Railroad Safety Enhancement Act of 2008” in introductory provisions.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-20165"></a>
@@ -2176,23 +2408,64 @@ The date of enactment of the Rail Safety Improvement Act of 2008, referred to in
 
 
 <a id="section-20167"></a>
-## § 20167. Railroad safety infrastructure improvement grants
-**(a) Grant Program.—** The Secretary of Transportation shall establish a grant program for safety improvements to railroad infrastructure, including the acquisition, improvement, or rehabilitation of intermodal or rail equipment or facilities, including track, bridges, tunnels, yards, buildings, passenger stations, facilities, and maintenance and repair shops.
+## § 20167. Repealed. Pub. L. 114–94, div. A, title XI, § 11301(c)(1), Dec. 4, 2015, 129 Stat. 1648]
 
-**(b) Eligibility.—** Grants shall be made under this section to eligible passenger and freight railroad carriers, and State and local governments for projects described in subsection (a). Grants shall also be made available to assist a State or political subdivision thereof in establishing a quiet zone pursuant to part 222 of title 49, Code of Federal Regulations.
+### Statutory Notes
 
-**(c) Considerations.—** In awarding grants, the Secretary shall consider, at a minimum—
+Section, Pub. L. 110–432, div. A, title IV, § 418(a), Oct. 16, 2008, 122 Stat. 4891, related to railroad safety infrastructure improvement grants.
 
-(1) the age and condition of the rail infrastructure of the applicant;
+#### Effective Date of Repeal
+Repeal by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
-(2) the railroad carrier’s safety record, including accident and incident numbers and rates;
 
-(3) the volume of hazardous materials transported by the railroad;
+<a id="section-20168"></a>
+## § 20168. Installation of audio and image recording devices
+**(a) In General.—** Not later than 2 years after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, the Secretary of Transportation shall promulgate regulations to require each railroad carrier that provides regularly scheduled intercity rail passenger or commuter rail passenger transportation to the public to install inward- and outward-facing image recording devices in all controlling locomotive cabs and cab car operating compartments in such passenger trains.
 
-(4) the operation of passenger trains over the railroad; and
+**(b) Device Standards.—** Each inward- and outward-facing image recording device shall—
 
-(5) whether the railroad carrier has submitted a railroad safety risk reduction program, as required by section 20156.
+(1) have a minimum 12-hour continuous recording capability;
 
-**(d) Matching Requirements.—** Federal funds for any eligible project under this section shall not exceed 50 percent of the total cost of such project.
+(2) have crash and fire protections for any in-cab image recordings that are stored only within a controlling locomotive cab or cab car operating compartment; and
 
-**(e) Authorization of Appropriations.—** There are authorized to be appropriated to the Secretary of Transportation $5,000,000 for each of fiscal years 2010 through 2013 to carry out this section. Amounts appropriated pursuant to this subsection shall remain available until expended.
+(3) have recordings accessible for review during an accident or incident investigation.
+
+**(c) Review.—** The Secretary shall establish a process to review and approve or disapprove an inward- or outward-facing image recording device for compliance with the standards described in subsection (b).
+
+**(d) Uses.—** A railroad carrier subject to the requirements of subsection (a) that has installed an inward- or outward-facing image recording device approved under subsection (c) may use recordings from that inward- or outward-facing image recording device for the following purposes:
+
+(1) Verifying that train crew actions are in accordance with applicable safety laws and the railroad carrier’s operating rules and procedures, including a system-wide program for such verification.
+
+(2) Assisting in an investigation into the causation of a reportable accident or incident.
+
+(3) Documenting a criminal act or monitoring unauthorized occupancy of the controlling locomotive cab or car operating compartment.
+
+(4) Other purposes that the Secretary considers appropriate.
+
+**(e) Discretion.—**
+
+(1) **In general.—** — The Secretary may—
+
+  (A) require in-cab audio recording devices for the purposes described in subsection (d); and
+
+  (B) define in appropriate technical detail the essential features of the devices required under subparagraph (A).
+
+(2) **Exemptions.—** — The Secretary may exempt any railroad carrier subject to the requirements of subsection (a) or any part of the carrier’s operations from the requirements under subsection (a) if the Secretary determines that the carrier has implemented an alternative technology or practice that provides an equivalent or greater safety benefit or that is better suited to the risks of the operation.
+
+**(f) Tampering.—** A railroad carrier subject to the requirements of subsection (a) may take appropriate enforcement or administrative action against any employee that tampers with or disables an audio or inward- or outward-facing image recording device installed by the railroad carrier.
+
+**(g) Preservation of Data.—** Each railroad carrier subject to the requirements of subsection (a) shall preserve recording device data for 1 year after the date of a reportable accident or incident.
+
+**(h) Information Protections.—** The Secretary may not disclose publicly any part of an in-cab audio or image recording or transcript of oral communications by or among train employees or other operating employees responsible for the movement and direction of the train, or between such operating employees and company communication centers, related to an accident or incident investigated by the Secretary. The Secretary may make public any part of a transcript or any written depiction of visual information that the Secretary determines is relevant to the accident at the time a majority of the other factual reports on the accident or incident are released to the public.
+
+**(i) Prohibited Use.—** An in-cab audio or image recording obtained by a railroad carrier under this section may not be used to retaliate against an employee.
+
+**(j) Savings Clause.—** Nothing in this section may be construed as requiring a railroad carrier to cease or restrict operations upon a technical failure of an inward- or outward-facing image recording device or in-cab audio device. Such railroad carrier shall repair or replace the failed inward- or outward-facing image recording device as soon as practicable.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (a), is the date of enactment of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+#### Effective Date
+Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.

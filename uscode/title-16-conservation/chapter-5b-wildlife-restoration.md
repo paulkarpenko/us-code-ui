@@ -103,7 +103,7 @@ Act July 2, 1956, ch. 489, § 5, 70 Stat. 473, provided in part that: “The ame
 
   (B) constitute the sums available for allocation by the Secretary under [section 4407 of this title](./chapter-064-north-american-wetlands-conservation.md#section-4407); and
 
-  (C) shall become available for apportionment under this chapter at the beginning of fiscal year 2016.
+  (C) shall become available for apportionment under this chapter at the beginning of fiscal year 2026.
 
 **(c) Wildlife Conservation and Restoration Account**
 
@@ -121,6 +121,8 @@ Act July 2, 1956, ch. 489, § 5, 70 Stat. 473, provided in part that: “The ame
 The Migratory Bird Conservation Act, referred to in subsec. (a), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 715 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) and Tables.
 
 #### Amendments
+2015—Subsec. (b)(2)(C). Pub. L. 114–113 substituted “2026” for “2016”.
+
 2005—Subsec. (b)(2)(C). Pub. L. 109–75 substituted “2016” for “2006”.
 
 2000—Subsec. (a). Pub. L. 106–553, § 1(a)(2) [title IX, § 902(d)(1)], designated existing provisions as par. (1) and added par. (2).
@@ -186,7 +188,7 @@ Section was not enacted as part of act Sept. 2, 1937, ch. 899, 50 Stat. 917, whi
 
   (B) *Apportionment of unobligated amounts* — Not later than 60 days after the end of a fiscal year, the Secretary of the Interior shall apportion among the States any of the available amount under paragraph (1) that remains unobligated at the end of the fiscal year, on the same basis and in the same manner as other amounts made available under this chapter are apportioned among the States for the fiscal year.
 
-**(b) Apportionment to States** The Secretary of the Interior, after deducting the available amount under subsection (a) of this section, the amount apportioned under subsection (c) 11 Probably means the subsection (c) relating to apportionment of certain taxes. of this section, any amount apportioned under [section 669g–1 of this title](./chapter-5b-wildlife-restoration.md#section-669g-1), and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion the remainder of the revenue in said fund for each fiscal year among the several States in the following manner: One-half in the ratio which the area of each State bears to the total area of all the States, and one-half in the ratio which the number of paid hunting-license holders of each State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the total number of paid hunting-license holders of all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than one-half of 1 per centum nor more than 5 per centum of the total amount apportioned. The term fiscal year as used in this chapter shall be a period of twelve consecutive months from October 1 through the succeeding September 30, except that the period for enumeration of paid hunting-license holders shall be a State’s fiscal or license year.
+**(b) Apportionment to States** The Secretary of the Interior, after deducting the available amount under subsection (a), the amount apportioned under subsection (c),11 Probably means the subsection (c) relating to apportionment of certain taxes. any amount apportioned under [section 669g–1 of this title](./chapter-5b-wildlife-restoration.md#section-669g-1), and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion the remainder of the revenue in said fund for each fiscal year among the several States in the following manner: One-half in the ratio which the area of each State bears to the total area of all the States, and one-half in the ratio which the number of paid hunting-license holders of each State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the total number of paid hunting-license holders of all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than one-half of 1 per centum nor more than 5 per centum of the total amount apportioned. The term fiscal year as used in this chapter shall be a period of twelve consecutive months from October 1 through the succeeding September 30, except that the period for enumeration of paid hunting-license holders shall be a State’s fiscal or license year.
 
 **(c) 22 So in original. Two subsecs. (c) have been enacted. Apportionment of certain taxes** One-half of the revenues accruing to the fund under this chapter each fiscal year (beginning with the fiscal year 1975) from any tax imposed on pistols, revolvers, bows, and arrows shall be apportioned among the States in proportion to the ratio that the population of each State bears to the population of all the States: Provided, That each State shall be apportioned not more than 3 per centum and not less than 1 per centum of such revenues and Guam, the Virgin Islands, American Samoa, Puerto Rico, and the Northern Mariana Islands shall each be apportioned one-sixth of 1 per centum of such revenues. For the purpose of this subsection, population shall be determined on the basis of the latest decennial census for which figures are available, as certified by the Secretary of Commerce.
 
@@ -244,7 +246,7 @@ Section was not enacted as part of act Sept. 2, 1937, ch. 899, 50 Stat. 917, whi
 
 (2) A State shall provide an opportunity for public participation in the development of the comprehensive plan required under paragraph (1).
 
-(3) If the Secretary finds that the comprehensive plan submitted by a State complies with paragraph (1), the Secretary shall approve the wildlife conservation and restoration program of the State and set aside from the apportionment to the State made pursuant to subsection (c) 33 Probably means the subsection (c) relating to apportionment of Wildlife Conservation and Restoration Account. of this section an amount that shall not exceed 75 percent of the estimated cost of developing and implementing the program.
+(3) If the Secretary finds that the comprehensive plan submitted by a State complies with paragraph (1), the Secretary shall approve the wildlife conservation and restoration program of the State and set aside from the apportionment to the State made pursuant to subsection (c) 33 Probably means the subsection (c) relating to apportionment of Wildlife Conservation and Restoration Account. an amount that shall not exceed 75 percent of the estimated cost of developing and implementing the program.
 
 (4)
 
@@ -257,7 +259,7 @@ Section was not enacted as part of act Sept. 2, 1937, ch. 899, 50 Stat. 917, whi
 ### Statutory Notes
 
 #### Amendments
-2000—Pub. L. 106–408 inserted section catchline, substituted subsec. (a) for “(a) So much, not to exceed 8 per centum, of the revenues (excluding interest accruing under [section 669b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669b/b&num=0&edition=prelim)) covered into said fund in each fiscal year as the Secretary of the Interior may estimate to be necessary for his expenses in the administration and execution of this chapter and the Migratory Bird Conservation Act shall be deducted for that purpose, and such sum is authorized to be made available therefor until the expiration of the next succeeding fiscal year, and within sixty days after the close of such fiscal year the Secretary of the Interior shall apportion such part thereof as remains unexpended by him, if any, and make certificate thereof to the Secretary of the Treasury and to the State fish and game departments on the same basis and in the same manner as is provided as to other amounts authorized by this chapter to be apportioned among the States for such current fiscal year.”, inserted subsec. (b) designation and heading, substituted “after deducting the available amount under subsection (a) of this section, the amount apportioned under subsection (c) of this section, any amount apportioned under [section 669g–1 of this title](./chapter-5b-wildlife-restoration.md#section-669g-1), and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion” for “after making the aforesaid deduction, shall apportion, except as provided in subsection (b) of this section,”, redesignated former subsec. (b) as (c), and inserted “Puerto Rico,” after “American Samoa,”.
+2000—Pub. L. 106–408 inserted section catchline, substituted subsec. (a) for “(a) So much, not to exceed 8 per centum, of the revenues (excluding interest accruing under [section 669b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669b/b&num=0&edition=prelim)) covered into said fund in each fiscal year as the Secretary of the Interior may estimate to be necessary for his expenses in the administration and execution of this chapter and the Migratory Bird Conservation Act shall be deducted for that purpose, and such sum is authorized to be made available therefor until the expiration of the next succeeding fiscal year, and within sixty days after the close of such fiscal year the Secretary of the Interior shall apportion such part thereof as remains unexpended by him, if any, and make certificate thereof to the Secretary of the Treasury and to the State fish and game departments on the same basis and in the same manner as is provided as to other amounts authorized by this chapter to be apportioned among the States for such current fiscal year.”, inserted subsec. (b) designation and heading, substituted “after deducting the available amount under subsection (a), the amount apportioned under subsection (c), any amount apportioned under [section 669g–1 of this title](./chapter-5b-wildlife-restoration.md#section-669g-1), and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion” for “after making the aforesaid deduction, shall apportion, except as provided in subsection (b) of this section,”, redesignated former subsec. (b) as (c), and inserted “Puerto Rico,” after “American Samoa,”.
 
 Subsec. (c). Pub. L. 106–553 added subsec. (c) relating to apportionment of Wildlife Conservation and Restoration Account.
 
@@ -285,7 +287,7 @@ Amendment by Pub. L. 92–558 effective Jan. 1, 1975, see section 101(c) of Pub.
 Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 #### Suspension of Expense Limitation
-The Interior Department Appropriation Act, 1945, act June 28, 1944, ch. 298, § 1, 58 Stat. 504, provided that the limitations in this chapter were waived to the extent necessary to provide overtime under the provisions of the War Overtime Pay Act, 1943, former sections 1401 to 1415 of Appendix to Title 50, War and National Defense, which act expired June 30, 1945.
+The Interior Department Appropriation Act, 1945, act June 28, 1944, ch. 298, § 1, 58 Stat. 504, provided that the limitations in this chapter were waived to the extent necessary to provide overtime under the provisions of the War Overtime Pay Act, 1943, former sections 1401 to 1415 of the former Appendix to Title 50, War and National Defense, which act expired June 30, 1945.
 
 
 <a id="section-669d"></a>
@@ -412,7 +414,7 @@ Act May 19, 1956, ch. 313, ch. VI, § 601, 70 Stat. 169, authorized increases of
 
 <a id="section-669h"></a>
 ## § 669h. Requirements and restrictions concerning use of amounts for expenses for administration
-**(a) Authorized expenses for administration** Except as provided in subsection (b) of this section, the Secretary of the Interior may use available amounts under [section 669c(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669c/a/1&num=0&edition=prelim) only for expenses for administration that directly support the implementation of this chapter that consist of—
+**(a) Authorized expenses for administration** Except as provided in subsection (b), the Secretary of the Interior may use available amounts under [section 669c(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669c/a/1&num=0&edition=prelim) only for expenses for administration that directly support the implementation of this chapter that consist of—
 
 (1) personnel costs of employees who directly administer this chapter on a full-time basis;
 
@@ -430,7 +432,7 @@ Act May 19, 1956, ch. 313, ch. VI, § 601, 70 Stat. 169, authorized increases of
 
 (6) costs incurred in auditing, every 5 years, the wildlife and sport fish activities of each State fish and game department and the use of funds under [section 669e of this title](./chapter-5b-wildlife-restoration.md#section-669e) by each State fish and game department;
 
-(7) costs of audits under subsection (d) of this section;
+(7) costs of audits under subsection (d);
 
 (8) costs of necessary training of Federal and State full-time personnel who administer this chapter to improve administration of this chapter;
 
@@ -448,7 +450,7 @@ Act May 19, 1956, ch. 313, ch. VI, § 601, 70 Stat. 169, authorized increases of
 
 **(b) Reporting of other uses**
 
-(1) **In general** — Subject to paragraph (2), if the Secretary of the Interior determines that available amounts under [section 669c(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669c/a/1&num=0&edition=prelim) should be used for an expense for administration other than an expense for administration described in subsection (a) of this section, the Secretary—
+(1) **In general** — Subject to paragraph (2), if the Secretary of the Interior determines that available amounts under [section 669c(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669c/a/1&num=0&edition=prelim) should be used for an expense for administration other than an expense for administration described in subsection (a), the Secretary—
 
   (A) shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives a report describing the expense for administration and stating the amount of the expense; and
 
@@ -456,7 +458,7 @@ Act May 19, 1956, ch. 313, ch. VI, § 601, 70 Stat. 169, authorized increases of
 
 (2) **Maximum amount** — For any fiscal year, the Secretary of the Interior may use under paragraph (1) not more than $25,000.
 
-**(c) Restriction on use to supplement general appropriations** The Secretary of the Interior shall not use available amounts under subsection (b) of this section to supplement the funding of any function for which general appropriations are made for the United States Fish and Wildlife Service or any other entity of the Department of the Interior.
+**(c) Restriction on use to supplement general appropriations** The Secretary of the Interior shall not use available amounts under subsection (b) to supplement the funding of any function for which general appropriations are made for the United States Fish and Wildlife Service or any other entity of the Department of the Interior.
 
 **(d) Audit requirement**
 
@@ -512,7 +514,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 (1) **Period of availability** — Amounts made available and apportioned for grants under this section shall remain available only for the fiscal year for which the amounts are apportioned.
 
-(2) **Reapportionment** — At the end of the period of availability under paragraph (1), the Secretary of the Interior shall apportion amounts made available that have not been used to make grants under this section among the States described in subsection (a)(1)(B) of this section for use by those States in accordance with this chapter.
+(2) **Reapportionment** — At the end of the period of availability under paragraph (1), the Secretary of the Interior shall apportion amounts made available that have not been used to make grants under this section among the States described in subsection (a)(1)(B) for use by those States in accordance with this chapter.
 
 ### Statutory Notes
 
@@ -576,7 +578,7 @@ A prior section 10 of act Sept. 2, 1937, was renumbered section 12 and is classi
 
     (i) will not use the grant funds to fund, in whole or in part, any activity of the organization that promotes or encourages opposition to the regulated hunting or trapping of wildlife; and
 
-    (ii) will use the grant funds in compliance with subsection (d) of this section.
+    (ii) will use the grant funds in compliance with subsection (d).
 
   (B) *Penalties for certain activities* — Any nongovernmental organization that is found to use grant funds in violation of subparagraph (A) shall return all funds received under this section and be subject to any other applicable penalties under law.
 
@@ -648,7 +650,7 @@ Section, act Sept. 2, 1937, ch. 899, § 11, 50 Stat. 919; Reorg. Plan No. II, §
 
 (2) **Transmission to Congress** — Not later than December 31 of a fiscal year, the Secretary of the Interior shall transmit all certifications under paragraph (1) for the previous fiscal year to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
-**(e) Limitation on delegation** The Secretary of the Interior shall not delegate the responsibility for making a certification under subsection (c) of this section to any person except the Assistant Secretary for Fish and Wildlife and Parks.
+**(e) Limitation on delegation** The Secretary of the Interior shall not delegate the responsibility for making a certification under subsection (c) to any person except the Assistant Secretary for Fish and Wildlife and Parks.
 
 ### Statutory Notes
 

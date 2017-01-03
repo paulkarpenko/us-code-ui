@@ -107,10 +107,10 @@ The suspensions shall remain in effect until revoked by the President, or by con
 Based on 44 U.S. Code, 1964, ed., § 305 (July 26, 1935, ch. 417, § 5, 49 Stat. 501; June 25, 1956, ch. 444, 70 Stat. 337).
 
 #### Delegation of Functions
-For delegation of functions vested in President by section 5(a) of Federal Register Act [now subsec. (a) of this section], to Attorney General and Archivist of United States, see section 6(a) of Ex. Ord. No. 10530, May 11, 1954, 19 F.R. 2709, as amended, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President. See, also, section 103(b)(1) of Pub. L. 98–497, set out as a note under [section 2102 of this title](./chapter-021-national-archives-and-records-administration.md#section-2102).
+For delegation of functions vested in President by section 5(a) of Federal Register Act [now subsec. (a) of this section], to Attorney General and Archivist of United States, see section 6(a) of Ex. Ord. No. 10530, May 10, 1954, 19 F.R. 2709, as amended, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President. See, also, section 103(b)(1) of Pub. L. 98–497, set out as a note under [section 2102 of this title](./chapter-021-national-archives-and-records-administration.md#section-2102).
 
 #### Ex. Ord. No. 11030. Preparation, Presentation, Filing, and Publication of Executive Orders and Proclamations
-Ex. Ord. No. 11030, June 19, 1962, 27 F.R. 5847, as amended by Ex. Ord. No. 11354, May 23, 1967, 32 F.R. 7695; Ex. Ord. No. 12080, Sept. 18, 1978, 43 F.R. 42235; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13403, § 1, May 12, 2006, 71 F.R. 28543, provided:
+Ex. Ord. No. 11030, June 19, 1962, 27 F.R. 5847, as amended by Ex. Ord. No. 11354, May 23, 1967, 32 F.R. 7695; Ex. Ord. No. 12080, Sept. 18, 1978, 43 F.R. 42235; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13403, § 1, May 12, 2006, 71 F.R. 28543; Ex. Ord. No. 13683, § 1, Dec. 11, 2014, 79 F.R. 75041, provided:
 
 By virtue of the authority vested in me by the Federal Register Act (49 Stat. 500, as amended; [44 U.S.C. 301](./chapter-003-government-publishing-office.md#section-301) et seq.) [now this chapter], and as President of the United States, I hereby prescribe the following regulations governing the preparation, presentation, filing, and publication of Executive orders and proclamations:
 
@@ -126,7 +126,7 @@ Section 1. Form. Proposed Executive orders and proclamations shall be prepared i
 
 (e) Descriptions of tracts of land shall conform, so far as practicable, to the most recent edition of the “Specifications for Descriptions of Tracts of Land for Use in Executive Orders and Proclamations,” prepared by the Bureau of Land Management, Department of the Interior.
 
-(f) Proposed Executive orders and proclamations shall be prepared on paper approximately 8.5 × 14 inches, shall have a left-hand margin of approximately 1 inches [sic] and a right-hand margin of approximately 1 inch, and shall be double-spaced, except that quotations, tabulations, and descriptions of land may be single-spaced.
+(f) Proposed Executive orders and proclamations shall be prepared on paper approximately 8.5 × 14 inches, shall have a left-hand margin of approximately 1 inch and a right-hand margin of approximately 1 inch, and shall be double-spaced, except that quotations, tabulations, and descriptions of land may be single-spaced.
 
 (g) Proclamations issued by the President shall conclude with the following described recitation—
 
@@ -142,13 +142,15 @@ Sec. 3. Routing and certification of originals and copies. (a) If the order or p
 
 (b) The Office of the Federal Register shall cause to be placed upon the copies of all Executive orders and proclamations forwarded as provided in subsection (a) of this section the following notation, to be signed by the Director or by some person authorized by him to sign such notation: “Certified to be a true copy of the original.”
 
-Sec. 4. Proclamations calling for the observance of special days or events. Except as may be otherwise provided by law, responsibility for the preparation and presentation of proposed proclamations calling for the observance of special days, or other periods of time, or events shall be assigned by the Director of the Office of Management and Budget to such agencies as he may consider appropriate. Such proposed proclamations shall be submitted to the Director at least sixty days before the date of the specified observance. Notwithstanding the provisions of Section 2, the Director shall transmit any approved commemorative proclamations to the President.
+Sec. 4. Proclamations calling for the observance of special days or events. Except as may be otherwise provided by law, responsibility for the preparation and presentation of proposed proclamations calling for the observance of special days, or other periods of time, or events shall be assigned by the Director of the Office of Management and Budget to such agencies or offices as the Director may consider appropriate. Such proposed proclamations shall be submitted to the Director, or to an office within the Executive Office of the President designated by the Director, at least sixty days before the date of the specified observance. Notwithstanding the provisions of Section 2, the Director or the head of such designated office, as appropriate, shall transmit any approved commemorative proclamations to the President.
 
-Sec. 5. Proclamations of treaties excluded. Consonant with the provisions of [section 1511 of title 44](./chapter-015-federal-register-and-code-of-federal-regulations.md#section-1511), United States Code (49 Stat. 503 [sic]; [44 U.S.C. 1511](./chapter-015-federal-register-and-code-of-federal-regulations.md#section-1511)), nothing in this order shall be construed to apply to treaties, conventions, protocols, or other international agreements, or proclamations thereof by the President.
+Sec. 5. Trade Proclamations. (a) Proclamations to be issued under the Trade Act of 1974 or other trade law (“trade proclamations”) shall be prepared by the United States Trade Representative and submitted to the Attorney General for consideration as to both form and legality. Section 2 of this order does not apply to trade proclamations.
 
-Sec. 6. Definition. The term “Presidential proclamations and Executive orders,” as used in sub[section 1505(a) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section1505/a&num=0&edition=prelim), United States Code ([44 U.S.C. 1505(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section1505/a&num=0&edition=prelim)), shall, except as the President or his representative may hereafter otherwise direct, be deemed to include such attachments thereto as are referred to in the respective proclamations or orders.
+Sec. 6. Proclamations of treaties excluded. Consonant with the provisions of [section 1511 of title 44](./chapter-015-federal-register-and-code-of-federal-regulations.md#section-1511), United States Code (49 Stat. 503 [sic]; [44 U.S.C. 1511](./chapter-015-federal-register-and-code-of-federal-regulations.md#section-1511)), nothing in this order shall be construed to apply to treaties, conventions, protocols, or other international agreements, or proclamations thereof by the President.
 
-Sec. 7. Prior order. Upon its publication in the Federal Register, this order shall supersede Executive Order No. 10006 of October 9, 1948.
+Sec. 7. Definition. The term “Presidential proclamations and Executive orders,” as used in sub[section 1505(a) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section1505/a&num=0&edition=prelim), United States Code ([44 U.S.C. 1505(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section1505/a&num=0&edition=prelim)), shall, except as the President or his representative may hereafter otherwise direct, be deemed to include such attachments thereto as are referred to in the respective proclamations or orders.
+
+Sec. 8. Prior order. Upon its publication in the Federal Register, this order shall supersede Executive Order No. 10006 of October 9, 1948.
 
 The regulations prescribed by this order shall be codified under Title 1 of the Code of Federal Regulations.
 
@@ -184,7 +186,7 @@ This section incorporates only the last sentence from former section 391(b). The
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under [section 2102 of this title](./chapter-021-national-archives-and-records-administration.md#section-2102).
 
 #### Delegation of Functions
-For delegations of functions vested in President by section 6 of Federal Register Act [now this section], to Attorney General and Archivist of United States, see section 6(b) of Ex. Ord. No. 10530, May 11, 1954, 19 F.R. 2709, as amended, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President. See, also, section 103(b)(1) of Pub. L. 98–497, set out as a note under [section 2102 of this title](./chapter-021-national-archives-and-records-administration.md#section-2102).
+For delegations of functions vested in President by section 6 of Federal Register Act [now this section], to Attorney General and Archivist of United States, see section 6(b) of Ex. Ord. No. 10530, May 10, 1954, 19 F.R. 2709, as amended, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President. See, also, section 103(b)(1) of Pub. L. 98–497, set out as a note under [section 2102 of this title](./chapter-021-national-archives-and-records-administration.md#section-2102).
 
 
 <a id="section-1507"></a>
@@ -241,7 +243,7 @@ A reference to section 10 of Act June 19, 1934 is deleted because of the repeal 
 1977—Pub. L. 95–94 substituted “Costs of publication, etc.” for “Cost of publication; appropriations authorized; penalty mail privilege” in section catchline, added subsec. (a), designated former first paragraph as subsec. (b) and inserted provision restricting coverage to the other publications of the Federal Register program and struck out provision requiring payments for the Federal Register to be covered into the Treasury as miscellaneous receipts and former second paragraph relating to penalty mail privileges for the Federal Register.
 
 #### Change of Name
-“Government Publishing Office” substituted for “Government Printing Office” in subsecs. (a) and (b) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
+“Government Publishing Office” substituted for “Government Printing Office” wherever appearing in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of this title](./chapter-003-government-publishing-office.md#section-301).
 
 #### Effective Date of 1977 Amendment
 Pub. L. 95–94, title IV, § 408(b), Aug. 5, 1977, 91 Stat. 683, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1977.”
@@ -272,7 +274,7 @@ Based on 44 U.S. Code, 1964 ed., § 311 (July 26, 1935, ch. 417, § 11, 49 Stat.
 Pub. L. 88–190, § 2, Dec. 2, 1963, 77 Stat. 344, provided that: “Section 11 of the Federal Register Act [section 311 of former Title 44, Public Printing and Documents, now this section], as amended by the first section of this Act [amending subsecs. (b) to (d) and (g) of such section 311, now subsecs. (b) to (d) and (g) of this section], shall apply to the Code of Federal Regulations previously authorized and published as well as to future publications made pursuant to that section as so amended.”
 
 #### Delegation of Functions
-For delegation of functions vested in President by section 11(a), (f) of Federal Register Act [now subsecs. (a) and (f) of this section], to Attorney General and Archivist of United States, see section 6(b) of Ex. Ord. No. 10530, May 11, 1954, 19 F.R. 2709, as amended, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President. See, also, section 103(b)(1) of Pub. L. 98–497, set out as a note under [section 2102 of this title](./chapter-021-national-archives-and-records-administration.md#section-2102).
+For delegation of functions vested in President by section 11(a), (f) of Federal Register Act [now subsecs. (a) and (f) of this section], to Attorney General and Archivist of United States, see section 6(b) of Ex. Ord. No. 10530, May 10, 1954, 19 F.R. 2709, as amended, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President. See, also, section 103(b)(1) of Pub. L. 98–497, set out as a note under [section 2102 of this title](./chapter-021-national-archives-and-records-administration.md#section-2102).
 
 #### Codification of Executive and Administrative Documents
 Under authority of section 11(d) of the Federal Register Act [now subsec. (d) of this section] the Administrative Committee of the Federal Register issued regulations for the codification of executive and administrative documents, approved by the President Nov. 10, 1937, and set out in F.R. 2849 D.I., 2450 B.V.

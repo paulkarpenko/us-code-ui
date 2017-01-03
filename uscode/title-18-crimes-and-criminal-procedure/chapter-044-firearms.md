@@ -273,7 +273,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 Pub. L. 105–277, div. A, § 101(b) [title I, § 119(e)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–70, provided that: “The amendments made by this section [amending this section and [section 923 of this title](./chapter-044-firearms.md#section-923)] shall take effect 180 days after the date of enactment of this Act [Oct. 21, 1998].”
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 #### Effective and Termination Dates of 1994 Amendment
 Pub. L. 103–322, title XI, § 110105, Sept. 13, 1994, 108 Stat. 2000, provided that subtitle A (§§ 110101–110106) of title XI of Pub. L. 103–322 (amending this section and sections 922 to 924 of this title and enacting provisions set out as notes under this section) and the amendments made by that subtitle were effective Sept. 13, 1994, and were repealed effective as of the date that is 10 years after that date.
@@ -893,7 +893,7 @@ to ship or transport in interstate or foreign commerce, or possess in or affecti
 
     (ii) the transfer to, or possession by, a law enforcement officer employed by an entity referred to in clause (i) of a handgun for law enforcement purposes (whether on or off duty); or
 
-  (B) the transfer to, or possession by, a rail police officer employed by a rail carrier and certified or commissioned as a police officer under the laws of a State of a handgun for purposes of law enforcement (whether on or off duty);
+  (B) the transfer to, or possession by, a rail police officer directly employed by or contracted by a rail carrier and certified or commissioned as a police officer under the laws of a State of a handgun for purposes of law enforcement (whether on or off duty);
 
   (C) the transfer to any person of a handgun listed as a curio or relic by the Secretary pursuant to section 921(a)(13); or
 
@@ -940,10 +940,9 @@ Section 102 of the Controlled Substances Act, referred to in subsec. (s)(3)(B)(i
 
 Section 103 of the Brady Handgun Violence Prevention Act, referred to in subsec. (t)(1), is section 103 of Pub. L. 103–159, which is set out below.
 
-#### Constitutionality
-For information regarding constitutionality of certain provisions of this section, as added by section 102(a)(1) of Pub. L. 103–159, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
-
 #### Amendments
+2015—Subsec. (z)(2)(B). Pub. L. 114–94 substituted “directly employed by or contracted by” for “employed by”.
+
 2005—Subsec. (a)(7), (8). Pub. L. 109–92, § 6(a), added pars. (7) and (8) and struck out former pars. (7) and (8) which related to prohibitions on the manufacture, importation, sale, and delivery of armor piercing ammunition.
 
 Subsec. (z). Pub. L. 109–92, § 5(c)(1), added subsec. (z).
@@ -1140,6 +1139,9 @@ Subsec. (m). Pub. L. 90–618 redesignated former subsec. (k) as (m) and added l
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under [section 3001 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim), War and National Defense.
 
 Post Office Department, referred to in subsec. (c)(2), redesignated United States Postal Service pursuant to Pub. L. 91–375, § 6(o), Aug. 12, 1970, 84 Stat. 733, set out as a note preceding [section 101 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section101&num=0&edition=prelim), Postal Service.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2005 Amendment
 Pub. L. 109–92, § 5(d), Oct. 26, 2005, 119 Stat. 2101, provided that: “This section [amending this section and [section 924 of this title](./chapter-044-firearms.md#section-924) and enacting provisions set out as notes under this section and [section 921 of this title](./chapter-044-firearms.md#section-921)] and the amendments made by this section shall take effect 180 days after the date of enactment of this Act [Oct. 26, 2005].”
@@ -1827,6 +1829,9 @@ The Controlled Substances Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)
 
 The Controlled Substances Import and Export Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) and Tables.
 
+#### Constitutionality
+For information regarding constitutionality of certain provisions of this section, as added by section 1402(b) of Pub. L. 99–570, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+
 #### Amendments
 2006—Subsecs. (c)(2), (e)(2)(A)(i). Pub. L. 109–304, § 17(d)(3)(A), substituted “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
 
@@ -2276,6 +2281,9 @@ Subsec. (e). Pub. L. 111–272, § 2(b), added subsec. (e) and struck out former
 “(3) any destructive device (as defined in [section 921 of this title](./chapter-044-firearms.md#section-921)).”
 
 Subsec. (f). Pub. L. 111–272, § 2(a)(2), added subsec. (f).
+
+#### Federal Law Enforcement Self-Defense and Protection
+Pub. L. 114–180, June 22, 2016, 130 Stat. 445, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Federal Law Enforcement Self-Defense and Protection Act of 2015’. “SEC. 2. FINDINGS.“Congress finds the following:“(1) Too often, Federal law enforcement officers encounter potentially violent criminals, placing officers in danger of grave physical harm. “(2) In 2012 alone, 1,857 Federal law enforcement officers were assaulted, with 206 sustaining serious injuries. “(3) From 2008 through 2011, an additional 8,587 Federal law enforcement officers were assaulted. “(4) Federal law enforcement officers remain a target even when they are off-duty. Over the past 3 years, 27 law enforcement officers have been killed off-duty. “(5) It is essential that law enforcement officers are able to defend themselves, so they can carry out their critical missions and ensure their own personal safety and the safety of their families whether on-duty or off-duty. “(6) These dangers to law enforcement officers continue to exist during a covered furlough. “SEC. 3. DEFINITIONS.“In this Act—“(1) the term ‘agency’ means each authority of the executive, legislative, or judicial branch of the Government of the United States; “(2) the term ‘covered Federal law enforcement officer’ means any individual who—“(A) is an employee of an agency; “(B) has the authority to make arrests or apprehensions for, or prosecute, violations of Federal law; and “(C) on the day before the date on which the applicable covered furlough begins, is authorized by the agency employing the individual to carry a firearm in the course of official duties; “(3) the term ‘covered furlough’ means a planned event by an agency during which employees are involuntarily furloughed due to downsizing, reduced funding, lack of work, or any budget situation including a lapse in appropriations; and “(4) the term ‘firearm’ has the meaning given that term in [section 921 of title 18](./chapter-044-firearms.md#section-921), United States Code. “SEC. 4. PROTECTING FEDERAL LAW ENFORCEMENT OFFICERS WHO ARE SUBJECTED TO A COVERED FURLOUGH.“During a covered furlough, a covered Federal law enforcement officer shall have the same rights to carry a firearm issued by the Federal Government as if the covered furlough was not in effect, including, if authorized on the day before the date on which the covered furlough begins, the right to carry a concealed firearm, if the sole reason the covered Federal law enforcement officer was placed on leave was due to the covered furlough.”
 
 
 <a id="section-926c"></a>

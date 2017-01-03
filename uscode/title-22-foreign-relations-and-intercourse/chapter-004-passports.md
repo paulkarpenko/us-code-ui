@@ -2,7 +2,7 @@
 title: 22
 chapter: '4'
 heading: PASSPORTS
-section_count: 14
+section_count: 15
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -113,6 +113,35 @@ R.S. § 4076 derived from act May 30, 1866, ch. 102, 14 Stat. 54.
 The Immigration and Nationality Act, referred to in subsec. (a)(2), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
 
+<a id="section-212b"></a>
+## § 212b. Unique passport identifiers for covered sex offenders
+**(a) In general** Immediately after receiving a written determination from the Angel Watch Center that an individual is a covered sex offender, through the process developed for that purpose under [section 16935f of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16935f&num=0&edition=prelim), the Secretary of State shall take appropriate action under subsection (b).
+
+**(b) Authority to use unique passport identifiers**
+
+(1) **In general** — Except as provided under paragraph (2), the Secretary of State shall not issue a passport to a covered sex offender unless the passport contains a unique identifier, and may revoke a passport previously issued without such an identifier of a covered sex offender.
+
+(2) **Authority to reissue** — Notwithstanding paragraph (1), the Secretary of State may reissue a passport that does not include a unique identifier if an individual described in subsection (a) reapplies for a passport and the Angel Watch Center provides a written determination, through the process developed for that purpose under [section 16935f of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16935f&num=0&edition=prelim), to the Secretary of State that the individual is no longer required to register as a covered sex offender.
+
+**(c) Defined terms** In this section—
+
+(1) the term “covered sex offender” means an individual who—
+
+  (A) is a sex offender, as defined in [section 16935b(f) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16935b/f&num=0&edition=prelim); and
+
+  (B) is currently required to register under the sex offender registration program of any jurisdiction;
+
+(2) the term “unique identifier” means any visual designation affixed to a conspicuous location on the passport indicating that the individual is a covered sex offender; and
+
+(3) the term “passport” means a passport book or passport card.
+
+**(d) Prohibition** The Secretary of State, the Secretary of Homeland Security, and the Attorney General, and their agencies, officers, employees, and agents, shall not be liable to any person for any action taken under this section.
+
+**(e) Disclosure** In furtherance of this section, the Secretary of State may require a passport applicant to disclose that they are a registered sex offender.
+
+**(f) Effective date** This section shall take effect upon certification by the Secretary of State, the Secretary of Homeland Security, and the Attorney General, that the process developed and reported to the appropriate congressional committees under [section 16935f of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16935f&num=0&edition=prelim) has been successfully implemented.
+
+
 <a id="section-213"></a>
 ## § 213. Application for passport; verification by oath of initial passport
 
@@ -178,9 +207,11 @@ Pub. L. 92–14, § 2, May 14, 1971, 85 Stat. 38, as amended by Pub. L. 93–126
 Amendment by Pub. L. 90–428 effective on thirtieth day following July 26, 1968, see section 4 of Pub. L. 90–428, set out as a note under [section 217a of this title](./chapter-004-passports.md#section-217a).
 
 #### Extension of Authority
-Pub. L. 113–235, div. J, title VII, § 7034(l)(1), Dec. 16, 2014, 128 Stat. 2625, provided that: “Section 1(b)(2) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214/b/2&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2015’ for ‘September 30, 2010’.”
+Pub. L. 114–113, div. K, title VII, § 7034(k)(1), Dec. 18, 2015, 129 Stat. 2764, provided that: “Section 1(b)(2) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214/b/2&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2016’ for ‘September 30, 2010’.”
 
 Prior extensions were contained in the following prior acts:
+
+Pub. L. 113–235, div. J, title VII, § 7034(l)(1), Dec. 16, 2014, 128 Stat. 2625.
 
 Pub. L. 113–76, div. K, title VII, § 7034(m)(1), Jan. 17, 2014, 128 Stat. 515.
 

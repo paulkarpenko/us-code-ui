@@ -84,7 +84,7 @@ The Solid Waste Disposal Act, referred to in par. (8), is title II of Pub. L. 89
 ## § 3903. Inventory of open dumps
 **(a) Study and inventory** Not later than 12 months after October 22, 1994, the Director shall conduct a study and inventory of open dumps on Indian lands and Alaska Native lands. The inventory shall list the geographic location of all open dumps, an evaluation of the contents of each dump, and an assessment of the relative severity of the threat to public health and the environment posed by each dump. Such assessment shall be carried out cooperatively with the Administrator of the Environmental Protection Agency. The Director shall obtain the concurrence of the Administrator in the determination of relative severity made by any such assessment.
 
-**(b) Annual reports** Upon completion of the study and inventory under subsection (a) of this section, the Director shall report to the Congress, and update such report annually—
+**(b) Annual reports** Upon completion of the study and inventory under subsection (a), the Director shall report to the Congress, and update such report annually—
 
 (1) the current priority of Indian and Alaska Native solid waste deficiencies,
 
@@ -115,25 +115,25 @@ The Solid Waste Disposal Act, referred to in par. (8), is title II of Pub. L. 89
 
 (2) The inventory and evaluation authorized under paragraph (1)(A) shall be carried out cooperatively with the Administrator of the Environmental Protection Agency. The Director shall obtain the concurrence of the Administrator in the determination of relative severity made under paragraph (1)(B).
 
-**(b) Assistance** Upon completion of the activities required to be performed pursuant to subsection (a) of this section, the Director shall, subject to subsection (c) of this section, provide financial and technical assistance to the Indian tribal government or Alaska Native entity to carry out the activities necessary to—
+**(b) Assistance** Upon completion of the activities required to be performed pursuant to subsection (a), the Director shall, subject to subsection (c), provide financial and technical assistance to the Indian tribal government or Alaska Native entity to carry out the activities necessary to—
 
 (1) close such dumps; and
 
 (2) provide for postclosure maintenance of such dumps.
 
-**(c) Conditions** All assistance provided pursuant to subsection (b) of this section shall be made available on a site-specific basis in accordance with priorities developed by the Director. Priorities on specific Indian lands or Alaska Native lands shall be developed in consultation with the Indian tribal government or Alaska Native entity. The priorities shall take into account the relative severity of the threat to public health and the environment posed by each open dump and the availability of funds necessary for closure and postclosure maintenance.
+**(c) Conditions** All assistance provided pursuant to subsection (b) shall be made available on a site-specific basis in accordance with priorities developed by the Director. Priorities on specific Indian lands or Alaska Native lands shall be developed in consultation with the Indian tribal government or Alaska Native entity. The priorities shall take into account the relative severity of the threat to public health and the environment posed by each open dump and the availability of funds necessary for closure and postclosure maintenance.
 
 
 <a id="section-3905"></a>
 ## § 3905. Contract authority
-**(a) Authority of Director** To the maximum extent feasible, the Director shall carry out duties under this chapter through contracts, compacts, or memoranda of agreement with Indian tribal governments or Alaska Native entities pursuant to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), [section 2004a of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2004a&num=0&edition=prelim), or [section 1632 of this title](./chapter-018-indian-health-care.md#section-1632).
+**(a) Authority of Director** To the maximum extent feasible, the Director shall carry out duties under this chapter through contracts, compacts, or memoranda of agreement with Indian tribal governments or Alaska Native entities pursuant to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.),11 See References in Text note below. [section 2004a of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2004a&num=0&edition=prelim), or [section 1632 of this title](./chapter-018-indian-health-care.md#section-1632).
 
 **(b) Cooperative agreements** The Director is authorized, for purposes of carrying out the duties of the Director under this chapter, to contract with or enter into such cooperative agreements with such other Federal agencies as is considered necessary to provide cost-sharing for closure and postclosure activities, to obtain necessary technical and financial assistance and expertise, and for such other purposes as the Director considers necessary.
 
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 
 <a id="section-3906"></a>

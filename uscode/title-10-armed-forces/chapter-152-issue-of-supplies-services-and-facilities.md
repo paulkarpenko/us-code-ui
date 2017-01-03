@@ -260,6 +260,9 @@ Another section 2555 was renumbered [section 2565 of this title](./chapter-152-i
 #### Effective Date
 Pub. L. 98–94, title III, § 305(b), Sept. 24, 1983, 97 Stat. 629, provided that: “Section 2546 [now 2556] of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1983.”
 
+#### Prior Certification Required for use of Department of Defense Facilities by Other Federal Agencies for Temporary Housing Support
+Pub. L. 114–328, div. B, title XXVIII, § 2815, Dec. 23, 2016, 130 Stat. 2718, provided that: “The Secretary of Defense shall not sign a memorandum of agreement with another Federal agency to provide the agency with a vacant facility for purposes of temporary housing support unless the Secretary first submits to the Committees on Armed Services of the House of Representatives and Senate a certification that the provision of the facility to the agency for such purpose will not negatively affect military training, operations, readiness, or other military requirements, including National Guard and Reserve readiness.”
+
 
 <a id="section-2557"></a>
 ## § 2557. Excess nonlethal supplies: availability for humanitarian relief, domestic emergency assistance, and homeless veterans assistance
@@ -290,7 +293,7 @@ Pub. L. 98–94, title III, § 305(b), Sept. 24, 1983, 97 Stat. 629, provided th
 ### Statutory Notes
 
 #### References in Text
-The National Security Act of 1947, referred to in subsec. (c), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (c), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2014—Subsec. (c). Pub. L. 113–291 substituted “([50 U.S.C. 3091](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim) et seq.)” for “([50 U.S.C. 413](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section413&num=0&edition=prelim) et seq.)”.
@@ -455,6 +458,9 @@ Subsec. (f). Pub. L. 104–106, § 1312(6), added subsec. (f). Former subsec. (f
 
 Subsec. (g). Pub. L. 104–106, § 1312(5), redesignated subsec. (g) as (e).
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
 #### Notifications Regarding Humanitarian Relief
 Notification provided to appropriate congressional committees with respect to assistance under this section to include detailed description of items for which transportation is provided that are excess nonlethal supplies of Department of Defense, including quantity, acquisition value, and value at time of transportation of such items, see section 1504(c) of Pub. L. 103–160, set out in a Humanitarian and Civic Assistance note under [section 401 of this title](./chapter-020-humanitarian-and-other-assistance.md#section-401).
 
@@ -463,35 +469,11 @@ Pub. L. 102–484, div. A, title III, § 304(d), Oct. 28, 1992, 106 Stat. 2362, 
 
 
 <a id="section-2562"></a>
-## § 2562. Limitation on use of excess construction or fire equipment from Department of Defense stocks in foreign assistance or military sales programs
-**(a) Limitation.—** Excess construction or fire equipment from the stocks of the Department of Defense may be transferred to any foreign country or international organization pursuant to part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2301&num=0&edition=prelim) et seq.) or section 21 of the Arms Export Control Act ([22 U.S.C. 2761](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2761&num=0&edition=prelim)) only if—
-
-(1) no department or agency of the Federal Government (other than the Department of Defense), no State, and no other person or entity eligible to receive excess or surplus property under subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 submits to the Defense Reutilization and Marketing Service a request for such equipment during the period for which the Defense Reutilization and Marketing Service accepts such a request; or
-
-(2) the President determines that the transfer is necessary in order to respond to an emergency for which the equipment is especially suited.
-
-**(b) Rule of Construction.—** Nothing in subsection (a) shall be construed to limit the authority to transfer construction or fire equipment under [section 2557 of this title](./chapter-152-issue-of-supplies-services-and-facilities.md#section-2557).
-
-**(c) Definition.—** In this section, the term “construction or fire equipment” includes tractors, scrapers, loaders, graders, bulldozers, dump trucks, generators, pumpers, fuel and water tankers, crash trucks, utility vans, rescue trucks, ambulances, hook and ladder units, compressors, and miscellaneous fire fighting equipment.
+## § 2562. Repealed. Pub. L. 114–328, div. A, title XII, § 1253(a)(1)(C), Dec. 23, 2016, 130 Stat. 2532]
 
 ### Statutory Notes
 
-#### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Part II of the Act is classified generally to subchapter II (§ 2301 et seq.) of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) and Tables.
-
-#### Amendments
-2011—Subsec. (a)(1). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)”.
-
-2002—Subsec. (a)(1). Pub. L. 107–217, § 3(b)(8)(A), as amended by Pub. L. 107–314, inserted “subtitle I of title 40 and title III of” before “the Federal” the second place it appeared.
-
-Pub. L. 107–217, § 3(b)(8)(B), substituted “([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)” for “([40 U.S.C. 472](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section472&num=0&edition=prelim) et seq.)”.
-
-2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1)], renumbered [section 2552 of this title](./chapter-152-issue-of-supplies-services-and-facilities.md#section-2552) as this section.
-
-Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title X, § 1033(c)(2)], substituted “section 2557” for “section 2547”.
-
-#### Effective Date of 2002 Amendment
-Pub. L. 107–314, div. A, title X, § 1062(e), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made by section 1062(e)(1) is effective as if included in Pub. L. 107–217 as originally enacted.
+Section, added Pub. L. 102–484, div. D, title XLIII, § 4304(a), Oct. 23, 1992, 106 Stat. 2699, § 2552; renumbered § 2562 and amended Pub. L. 106–398, § 1 [[div. A], title X, § 1033(b)(1), (c)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 107–217, § 3(b)(8), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 107–314, div. A, title X, § 1062(e)(1), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 111–350, § 5(b)(41), Jan. 4, 2011, 124 Stat. 3846, related to the limitation on use of excess construction or fire equipment from Department of Defense stocks in foreign assistance or military sales programs.
 
 
 <a id="section-2563"></a>
@@ -587,7 +569,7 @@ Pub. L. 103–337, div. A, title III, § 339(b), Oct. 5, 1994, 108 Stat. 2720, p
 
 (2) to the extent that the provision of such assistance does not adversely affect the military preparedness of the armed forces; and
 
-(3) if the organization requesting such assistance agrees to reimburse the Department for amounts expended by the Department in providing the assistance in accordance with the provisions of [section 377 of this title](./chapter-018-military-support-for-civilian-law-enforcement-agencies.md#section-377) and other applicable provisions of law.
+(3) if the organization requesting such assistance agrees to reimburse the Department for amounts expended by the Department in providing the assistance in accordance with the provisions of [section 377 of this title](./chapter-016-security-cooperation.md#section-377) 11 See References in Text note below. and other applicable provisions of law.
 
 **(c) Inapplicability to Certain Events.—** Subsections (a) and (b) do not apply to the following sporting events:
 
@@ -629,7 +611,7 @@ Pub. L. 103–337, div. A, title III, § 339(b), Oct. 5, 1994, 108 Stat. 2720, p
 
   (B) the amount the Department was reimbursed under that subsection.
 
-**(f) Relationship to Other Laws.—** Assistance provided under this section shall be subject to the provisions of sections 375 and 376 of this title.
+**(f) Relationship to Other Laws.—** Assistance provided under this section shall be subject to the provisions of sections 375 and 376 of this title.1
 
 **(g) Funding for Support of Certain Events.—**
 
@@ -638,6 +620,11 @@ Pub. L. 103–337, div. A, title III, § 339(b), Oct. 5, 1994, 108 Stat. 2720, p
 (2) The total amount expended for any fiscal year to provide support for sporting events described in subsection (c)(5) may not exceed $1,000,000.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 377 of this title](./chapter-016-security-cooperation.md#section-377), referred to in subsec. (b)(3), was renumbered [section 277 of this title](./chapter-015-military-support-for-civilian-law-enforcement-agencies.md#section-277) by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+
+Sections 375 and 376 of this title, referred to in subsec. (f), were renumbered sections 275 and 276 of this title, respectively, by Pub. L. 114–328, div. A, title XII, § 1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
 #### Amendments
 2008—Subsec. (c)(4), (5). Pub. L. 110–181, § 372(a)(1), added pars. (4) and (5).
@@ -740,11 +727,27 @@ Subsec. (b)(3). Pub. L. 107–107, § 1201(b)(2)(D), struck out par. (3) which r
 
 
 <a id="section-2567"></a>
-## § 2567. Repealed. Pub. L. 110–181, div. A, title X, § 1068(b)(1), Jan. 28, 2008, 122 Stat. 326]
+## § 2567. Space and services: provision to WIC offices
+**(a) Allotment of Space and Provision of Services Authorized.—** Upon application by a WIC office, the Secretary of a military department may allot space on a military installation under the jurisdiction of the Secretary to the WIC office without charge for rent or services if the Secretary determines that—
+
+(1) the WIC office provides or will provide services solely to members of the armed forces assigned to the installation, civilian employees of the Department of Defense employed at the installation, or dependents of such members or employees;
+
+(2) space is available on the installation;
+
+(3) operation of the WIC office will not hinder military mission requirements; and
+
+(4) the security situation at the installation permits the presence of a non-Federal entity on the installation.
+
+**(b) Definitions.—** In this section:
+
+(1) The term “services” includes the provision of lighting, heating, cooling, and electricity.
+
+(2) The term “WIC office” means a local agency (as defined in subsection (b)(6) of section 17 of the Child Nutrition Act of 1966 ([42 U.S.C. 1786](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1786&num=0&edition=prelim))) that participates in the special supplemental nutrition program for women, infants, and children under such section.
 
 ### Statutory Notes
 
-Section, added Pub. L. 109–364, div. A, title X, § 1076(b)(1), Oct. 17, 2006, 120 Stat. 2405, related to supplies, services, and equipment: provision in major public emergencies.
+#### Prior Provisions
+A prior section 2567, added Pub. L. 109–364, div. A, title X, § 1076(b)(1), Oct. 17, 2006, 120 Stat. 2405, which related to supplies, services, and equipment: provision in major public emergencies, was repealed by Pub. L. 110–181, div. A, title X, § 1068(b)(1), Jan. 28, 2008, 122 Stat. 326.
 
 
 <a id="section-2568"></a>

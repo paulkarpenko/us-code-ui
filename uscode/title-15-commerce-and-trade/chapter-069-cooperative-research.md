@@ -35,7 +35,7 @@ source: >-
   (F) the collection, exchange, and analysis of research or production information, or
 
   (G) any combination of the purposes specified in subparagraphs (A), (B), (C), (D), (E), and (F),
-  and may include the establishment and operation of facilities for the conducting of such venture, the conducting of such venture on a protected and proprietary basis, and the prosecuting of applications for patents and the granting of licenses for the results of such venture, but does not include any activity specified in subsection (b) of this section.
+  and may include the establishment and operation of facilities for the conducting of such venture, the conducting of such venture on a protected and proprietary basis, and the prosecuting of applications for patents and the granting of licenses for the results of such venture, but does not include any activity specified in subsection (b).
 
 (7) The term “standards development activity” means any action taken by a standards development organization for the purpose of developing, promulgating, revising, amending, reissuing, interpreting, or otherwise maintaining a voluntary consensus standard, or using such standard in conformity assessment activities, including actions relating to the intellectual property policies of the standards development organization.
 
@@ -168,7 +168,7 @@ shall” for “of any person in making or performing a contract to carry out a 
 
 **(d) Interest** Interest shall be awarded on the damages involved for the period beginning on the earliest date for which injury can be established and ending on the date of judgment, unless the court finds that the award of all or part of such interest is unjust in the circumstances.
 
-**(e) Rule of construction** Subsections (a), (b), and (c) of this section shall not be construed to modify the liability under the antitrust laws of any person (other than a standards development organization) who—
+**(e) Rule of construction** Subsections (a), (b), and (c) shall not be construed to modify the liability under the antitrust laws of any person (other than a standards development organization) who—
 
 (1) directly (or through an employee or agent) participates in a standards development activity with respect to which a violation of any of the antitrust laws is found,
 
@@ -202,9 +202,9 @@ Subsec. (e). Pub. L. 103–42, § 3(e)(1)(A), (C), substituted “October 11, 19
 
 (2) award to a substantially prevailing party defending against any such claim the cost of suit attributable to such claim, including a reasonable attorney’s fee, if the claim, or the claimant’s conduct during the litigation of the claim, was frivolous, unreasonable, without foundation, or in bad faith.
 
-**(b)** The award made under subsection (a) of this section may be offset in whole or in part by an award in favor of any other party for any part of the cost of suit, including a reasonable attorney’s fee, attributable to conduct during the litigation by any prevailing party that the court finds to be frivolous, unreasonable, without foundation, or in bad faith.
+**(b)** The award made under subsection (a) may be offset in whole or in part by an award in favor of any other party for any part of the cost of suit, including a reasonable attorney’s fee, attributable to conduct during the litigation by any prevailing party that the court finds to be frivolous, unreasonable, without foundation, or in bad faith.
 
-**(c)** Subsections (a) and (b) of this section shall not apply with respect to any person who—
+**(c)** Subsections (a) and (b) shall not apply with respect to any person who—
 
 (1) directly participates in a standards development activity with respect to which a violation of any of the antitrust laws is found,
 
@@ -242,28 +242,28 @@ Subsec. (c). Pub. L. 108–237, § 106(2), added subsec. (c).
   (B) documents showing the nature and scope of such activity.
   Any standards development organization may file additional disclosure notifications pursuant to this section as are appropriate to extend the protections of [section 4303 of this title](./chapter-069-cooperative-research.md#section-4303) to standards development activities that are not covered by the initial filing or that have changed significantly since the initial filing.
 
-**(b) Publication; Federal Register; notice** Except as provided in subsection (e) of this section, not later than 30 days after receiving a notification filed under subsection (a) of this section, the Attorney General or the Commission shall publish in the Federal Register a notice with respect to such venture that identifies the parties to such venture and that describes in general terms the area of planned activity of such venture, or a notice with respect to such standards development activity that identifies the standards development organization engaged in such activity and that describes such activity in general terms. Prior to its publication, the contents of such notice shall be made available to the parties to such venture or available to such organization, as the case may be.
+**(b) Publication; Federal Register; notice** Except as provided in subsection (e), not later than 30 days after receiving a notification filed under subsection (a), the Attorney General or the Commission shall publish in the Federal Register a notice with respect to such venture that identifies the parties to such venture and that describes in general terms the area of planned activity of such venture, or a notice with respect to such standards development activity that identifies the standards development organization engaged in such activity and that describes such activity in general terms. Prior to its publication, the contents of such notice shall be made available to the parties to such venture or available to such organization, as the case may be.
 
-**(c) Effect of notice** If with respect to a notification filed under subsection (a) of this section, notice is published in the Federal Register, then such notification shall operate to convey the protections of [section 4303 of this title](./chapter-069-cooperative-research.md#section-4303) as of the earlier of—
+**(c) Effect of notice** If with respect to a notification filed under subsection (a), notice is published in the Federal Register, then such notification shall operate to convey the protections of [section 4303 of this title](./chapter-069-cooperative-research.md#section-4303) as of the earlier of—
 
-(1) the date of publication of notice under subsection (b) of this section, or
+(1) the date of publication of notice under subsection (b), or
 
-(2) if such notice is not so published within the time required by subsection (b) of this section, after the expiration of the 30-day period beginning on the date the Attorney General or the Commission receives the applicable information described in subsection (a) of this section.
+(2) if such notice is not so published within the time required by subsection (b), after the expiration of the 30-day period beginning on the date the Attorney General or the Commission receives the applicable information described in subsection (a).
 
-**(d) Exemption; disclosure; information** Except with respect to the information published pursuant to subsection (b) of this section—
+**(d) Exemption; disclosure; information** Except with respect to the information published pursuant to subsection (b)—
 
 (1) all information and documentary material submitted as part of a notification filed pursuant to this section, and
 
 (2) all other information obtained by the Attorney General or the Commission in the course of any investigation, administrative proceeding, or case, with respect to a potential violation of the antitrust laws by the joint venture, or the standards development activity, with respect to which such notification was filed,
 shall be exempt from disclosure under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), and shall not be made publicly available by any agency of the United States to which such section applies except in a judicial or administrative proceeding in which such information and material is subject to any protective order.
 
-**(e) Withdrawal of notification** Any person or standards development organization that files a notification pursuant to this section may withdraw such notification before notice of the joint venture involved is published under subsection (b) of this section. Any notification so withdrawn shall not be subject to subsection (b) of this section and shall not confer the protections of [section 4303 of this title](./chapter-069-cooperative-research.md#section-4303) on any person or any standards development organization with respect to whom such notification was filed.
+**(e) Withdrawal of notification** Any person or standards development organization that files a notification pursuant to this section may withdraw such notification before notice of the joint venture involved is published under subsection (b). Any notification so withdrawn shall not be subject to subsection (b) and shall not confer the protections of [section 4303 of this title](./chapter-069-cooperative-research.md#section-4303) on any person or any standards development organization with respect to whom such notification was filed.
 
 **(f) Judicial review; inapplicable with respect to notifications** Any action taken or not taken by the Attorney General or the Commission with respect to notifications filed pursuant to this section shall not be subject to judicial review.
 
 **(g) Admissibility into evidence; disclosure of conduct; publication of notice; supporting or answering claims under antitrust laws**
 
-(1) Except as provided in paragraph (2), for the sole purpose of establishing that a person or standards development organization is entitled to the protections of [section 4303 of this title](./chapter-069-cooperative-research.md#section-4303), the fact of disclosure of conduct under subsection (a) of this section and the fact of publication of a notice under subsection (b) of this section shall be admissible into evidence in any judicial or administrative proceeding.
+(1) Except as provided in paragraph (2), for the sole purpose of establishing that a person or standards development organization is entitled to the protections of [section 4303 of this title](./chapter-069-cooperative-research.md#section-4303), the fact of disclosure of conduct under subsection (a) and the fact of publication of a notice under subsection (b) shall be admissible into evidence in any judicial or administrative proceeding.
 
 (2) No action by the Attorney General or the Commission taken pursuant to this section shall be admissible into evidence in any such proceeding for the purpose of supporting or answering any claim under the antitrust laws or under any State law similar to the antitrust laws.
 

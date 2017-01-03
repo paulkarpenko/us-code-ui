@@ -72,7 +72,7 @@ In this chapter:
 
 (7) **Import** — The term “import” means to move from a place outside the territorial limits of the United States to a place within the territorial limits of the United States.
 
-(8) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim).
+(8) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 (9) **Interstate commerce** — The term “interstate commerce” means trade, traffic, or other commerce—
 
@@ -547,11 +547,17 @@ For transfer of functions of the Secretary of Agriculture relating to agricultur
 ## § 8311. Reimbursable agreements
 **(a) Authority to enter into agreements** The Secretary may enter into reimbursable fee agreements with persons for preclearance of animals or articles at locations outside the United States for movement into the United States.
 
-**(b) Funds collected for preclearance** Funds collected for preclearance activities shall—
+**(b) Funds collected for preclearance** Funds collected for preclearance activities—
 
-(1) be credited to accounts that may be established by the Secretary for carrying out this section; and
+(1) may be collected in advance of the provision of such activities;
 
-(2) remain available until expended for the preclearance activities, without fiscal year limitation.
+(2) shall be credited as offsetting collections to the currently applicable appropriation, account, or fund of U.S. Customs and Border Protection;
+
+(3) shall remain available until expended;
+
+(4) shall be available for the purposes for which such appropriation, account, or fund is authorized to be used; and
+
+(5) may be collected and shall be available only to the extent provided in appropriations Acts.
 
 **(c) Payment of employees**
 
@@ -581,6 +587,13 @@ For transfer of functions of the Secretary of Agriculture relating to agricultur
 
 #### References in Text
 This chapter, referred to in subsec. (c)(1), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under [section 8301 of this title](./chapter-109-animal-health-protection.md#section-8301) and Tables.
+
+#### Amendments
+2016—Subsec. (b). Pub. L. 114–125 amended subsec. (b) generally. Prior to amendment, text read as follows: “Funds collected for preclearance activities shall—
+
+“(1) be credited to accounts that may be established by the Secretary for carrying out this section; and
+
+“(2) remain available until expended for the preclearance activities, without fiscal year limitation.”
 
 #### Transfer of Functions
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).

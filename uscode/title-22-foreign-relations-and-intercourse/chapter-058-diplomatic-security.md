@@ -2,7 +2,7 @@
 title: 22
 chapter: '58'
 heading: DIPLOMATIC SECURITY
-section_count: 30
+section_count: 34
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -45,7 +45,7 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 601], Nov. 29, 1999, 113 Stat. 1536, 1501A–451, provided that: “This title [enacting [section 4865 of this title](./chapter-058-diplomatic-security.md#section-4865), amending [section 4831 of this title](./chapter-058-diplomatic-security.md#section-4831), and enacting provisions set out as notes under [section 4865 of this title](./chapter-058-diplomatic-security.md#section-4865)] may be cited as the ‘Secure Embassy Construction and Counterterrorism Act of 1999’.”
 
 #### Short Title
-Pub. L. 99–399, § 1, Aug. 27, 1986, 100 Stat. 853, provided that: “This Act [enacting this chapter and sections 2656e, 2711, 2712, 2780, 3244, and 4901 to 4904 of this title, sections 5569 and 5570 of Title 5, Government Organization and Employees, sections 1051, 1095, and 2181 to 2185 of Title 10, Armed Forces, [section 2331 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2331&num=0&edition=prelim), Crimes and Criminal Procedure, [section 1226 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1226&num=0&edition=prelim), Navigation and Navigable Waters, sections 559 and 1013 of Title 37, Pay and Allowances of the Uniformed Services, sections 2160b, 2160c, and 2169 of Title 42, The Public Health and Welfare, and sections 1801 to 1809 of Title 46, Appendix, Shipping, amending sections 300, 2151a, 2349aa–2, 2349aa–4, 2349aa–7, 2502, 2652, 2708, 3929, and 3929a of this title, [section 208 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section208&num=0&edition=prelim), The President, sections 5315 and 6325 of Title 5, sections 2 and 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, sections 793, 794, and 3671 of Title 18, and [section 2405 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2405&num=0&edition=prelim), Appendix, War and National Defense, enacting provisions set out as notes under sections 2708 and 4901 of this title, [section 5569 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5569&num=0&edition=prelim), sections 133, 1051, 1095, and 2181 of Title 10, [section 559 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section559&num=0&edition=prelim), [section 2169 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2169&num=0&edition=prelim), and [section 1801 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section1801&num=0&edition=prelim), Appendix, and amending a provision set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651)] may be cited as the ‘Omnibus Diplomatic Security and Antiterrorism Act of 1986’.”
+Pub. L. 99–399, § 1, Aug. 27, 1986, 100 Stat. 853, provided that: “This Act [enacting this chapter and sections 2656e, 2711, 2712, 2780, 3244, and 4901 to 4904 of this title, sections 5569 and 5570 of Title 5, Government Organization and Employees, sections 1051, 1095, and 2181 to 2185 of Title 10, Armed Forces, [section 2331 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2331&num=0&edition=prelim), Crimes and Criminal Procedure, [section 1226 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1226&num=0&edition=prelim), Navigation and Navigable Waters, sections 559 and 1013 of Title 37, Pay and Allowances of the Uniformed Services, sections 2160b, 2160c, and 2169 of Title 42, The Public Health and Welfare, and sections 1801 to 1809 of Title 46, Appendix, Shipping, amending sections 300, 2151a, 2349aa–2, 2349aa–4, 2349aa–7, 2502, 2652, 2708, 3929, and 3929a of this title, [section 208 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section208&num=0&edition=prelim), The President, sections 5315 and 6325 of Title 5, sections 2 and 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, sections 793, 794, and 3671 of Title 18, and [section 4605 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605&num=0&edition=prelim), War and National Defense, enacting provisions set out as notes under sections 2708 and 4901 of this title, [section 5569 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5569&num=0&edition=prelim), sections 133, 1051, 1095, and 2181 of Title 10, [section 559 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section559&num=0&edition=prelim), [section 2169 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2169&num=0&edition=prelim), and [section 1801 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section1801&num=0&edition=prelim), Appendix, and amending a provision set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651)] may be cited as the ‘Omnibus Diplomatic Security and Antiterrorism Act of 1986’.”
 
 Pub. L. 99–399, title I, § 101, Aug. 27, 1986, 100 Stat. 855, provided that: “Titles I through IV of this Act [enacting this chapter and amending sections 300, 2349aa–4, 2652, 3929, and 3929a of this title, [section 208 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section208&num=0&edition=prelim), The President, [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, and sections 2 and 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5] may be cited as the ‘Diplomatic Security Act’.”
 
@@ -147,23 +147,90 @@ Subsec. (b)(3). Pub. L. 100–461 struck out par. (3) which read as follows: “
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under [section 2651a of this title](./chapter-038-department-of-state.md#section-2651a).
 
+#### Direct Reporting
+Pub. L. 114–323, title I, § 103, Dec. 16, 2016, 130 Stat. 1909, provided that: “The Assistant Secretary for Diplomatic Security shall report directly to the Secretary [of State], without being required to obtain the approval or concurrence of any other official of the Department [of State], as threats and circumstances require.”
+
+#### Marine Corps Security Guard Program
+Pub. L. 114–323, title I, § 131, Dec. 16, 2016, 130 Stat. 1914, provided that: “(a) In General.—Pursuant to the responsibility of the Secretary [of State] for diplomatic security under section 103 of the Diplomatic Security Act ([22 U.S.C. 4802](./chapter-058-diplomatic-security.md#section-4802); enacted as part of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (Public Law 99–399)), the Secretary, in consultation with the Secretary of Defense, shall conduct an annual review of the Marine Corps Security Guard Program, including the following:“(1) An evaluation of whether the size and composition of the Marine Corps Security Guard Program is adequate to meet global diplomatic security requirements. “(2) An assessment of whether the Marine Corps security guards are appropriately deployed among United States embassies, consulates, and other diplomatic facilities to respond to evolving security developments and potential threats to United States interests abroad. “(3) An assessment of the mission objectives of the Marine Corps Security Guard Program and the procedural rules of engagement to protect diplomatic personnel under the Program. “(b) Reporting Requirement.—Not later than 180 days after the date of the enactment of this Act [Dec. 16, 2016] and annually thereafter for 3 years, the Secretary, in consultation with the Secretary of Defense, shall submit to the Committee on Foreign Affairs, the Committee on Armed Services, and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Appropriations of the Senate an unclassified report, with a classified annex as necessary, that addresses the requirements specified in subsection (a).
+
+#### Congressional Notification and Briefing Requirement on Ordered Evacuations of United States Embassies and Consulates Involving Support Provided by the Department of Defense
+Pub. L. 114–92, div. A, title X, § 1091, Nov. 25, 2015, 129 Stat. 1018, provided that: “(a) Notification Requirement.—The Secretary of Defense and the Secretary of State shall provide notification to the appropriate congressional committees as soon as practicable upon the initiation of an ordered evacuation of a United States embassy or consulate involving support provided by the Department of Defense. “(b) Briefing Requirement.—The Secretary of Defense and the Secretary of State shall provide a briefing to the appropriate congressional committees not later than 15 days after the initiation of an ordered evacuation of a United States embassy or consulate involving support provided by the Department of Defense. “(c) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—“(1) the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]; and “(2) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.”
+
 #### Personnel Security Program for Embassies in High Intelligence Threat Countries
 Pub. L. 100–204, title I, § 155, Dec. 22, 1987, 101 Stat. 1353, provided that: “(a) Special Security Program.—The Secretary of State shall develop and implement, within three months after the date of enactment of this Act [Dec. 22, 1987], a special personnel security program for personnel of the Department of State assigned to United States diplomatic and consular posts in high intelligence threat countries who are responsible for security at those posts and for any individuals performing guard functions at those posts. Such program shall include—“(1) selection criteria and screening to ensure suitability for assignment to high intelligence threat countries; “(2) counterintelligence awareness and related training; “(3) security reporting and command arrangements designed to counter intelligence threats; and “(4) length of duty criteria and policies regarding rest and recuperative absences. “(b) Report to Congress.—Not later than 6 months after the date of enactment of this subsection [Dec. 22, 1987], the Secretary of State shall report to the Congress on the special personnel security program required by subsection (a). “(c) Definition.—As used in subsection (a), the term ‘high intelligence threat country’ means—“(1) a country listed as a Communist country in section 620(f) of the Foreign Assistance Act of 1961 [[22 U.S.C. 2370(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2370/f&num=0&edition=prelim)]; and “(2) any other country designated as a high intelligence threat country for purposes of this section by the Secretary of State, the Secretary of Defense, the Director of Central Intelligence, or the Director of the Federal Bureau of Investigation.”
 
 [Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under [section 3001 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim), War and National Defense.]
 
 
-<a id="section-4803-4804"></a>
-## § 4803, 4804. Repealed. Pub. L. 103–236, title I, § 162(g)(3), (4), Apr. 30, 1994, 108 Stat. 407
+<a id="section-4803"></a>
+## § 4803. Designation of high risk, high threat posts
+**(a) Initial designation** Not later than 30 days after December 16, 2016, the Department of State shall submit to the appropriate congressional committees a report, in classified form, that contains a list of diplomatic and consular posts designated as high risk, high threat posts.
+
+**(b) Designations before opening or reopening posts** Before opening or reopening a diplomatic or consular post, the Secretary shall determine if such post should be designated as a high risk, high threat post.
+
+**(c) Designating existing posts** The Secretary shall regularly review existing diplomatic and consular posts to determine if any such post should be designated as a high risk, high threat post if conditions at such post or the surrounding security environment require such a designation.
+
+**(d) Definitions** In this section:
+
+(1) **Appropriate congressional committees** — The term “appropriate congressional committees” means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
+
+(2) **High risk, high threat post** — The term “high risk, high threat post” means a United States diplomatic or consular post or other United States mission abroad, as determined by the Secretary, that, among other factors—
+
+  (A) is located in a country—
+
+    (i) with high to critical levels of political violence and terrorism; and
+
+    (ii) the government of which lacks the ability or willingness to provide adequate security; and
+
+  (B) has mission physical security platforms that fall below the Department of State’s established standards.
 
 ### Statutory Notes
 
-Section 4803, Pub. L. 99–399, title I, § 104(a), Aug. 27, 1986, 100 Stat. 856, established Bureau of Diplomatic Security in Department of State.
+#### Prior Provisions
+A prior section 4803, Pub. L. 99–399, title I, § 104(a), Aug. 27, 1986, 100 Stat. 856, established Bureau of Diplomatic Security in Department of State, prior to repeal by Pub. L. 103–236, title I, § 162(g)(3), Apr. 30, 1994, 108 Stat. 407.
 
-Section 4804, Pub. L. 99–399, title I, § 105, Aug. 27, 1986, 100 Stat. 856, set out responsibilities of Assistant Secretary of State for Diplomatic Security.
+A prior section 104 of Pub. L. 99–399, enacted this section, and amended former [section 2652 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2652&num=0&edition=prelim) and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, prior to repeal by Pub. L. 103–236, title I, § 162(g)(3), Apr. 30, 1994, 108 Stat. 407.
 
-#### Effective Date of Repeal
-Repeal applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as an Effective Date of 1994 Amendment note under [section 2651a of this title](./chapter-038-department-of-state.md#section-2651a).
+
+<a id="section-4804"></a>
+## § 4804. Briefings on embassy security
+**(a) Briefing** The Secretary shall provide monthly briefings to the appropriate congressional committees on—
+
+(1) any plans to open or reopen a high risk, high threat post, including—
+
+  (A) the importance and appropriateness of the objectives of the proposed post to the national security of the United States, and the type and level of security threats such post could encounter;
+
+  (B) working plans to expedite the approval and funding for establishing and operating such post, implementing physical security measures, providing necessary security and management personnel, and the provision of necessary equipment;
+
+  (C) security “tripwires” that would determine specific action, including enhanced security measures or evacuation of such post, based on the improvement or deterioration of the local security environment; and
+
+  (D) in coordination with the Secretary of Defense, an evaluation of available United States military assets and operational plans to respond to such posts in extremis;
+
+(2) personnel staffing and rotation cycles at high risk, high threat posts;
+
+(3) the current security posture at posts of particular concern as determined by such committees; and
+
+(4) the progress towards implementation of the provisions specified in title I of the Department of State Authorities Act, Fiscal Year 2017.
+
+**(b) Congressional notification**
+
+(1) **In general** — Except as provided in paragraph (2), not later than 30 days before opening or reopening a high risk, high threat post, the Secretary shall notify the appropriate congressional committees of the decision to open or reopen such post.
+
+(2) **Emergency circumstances** — If the Secretary determines that the national security interests of the United States require the opening or reopening of a high risk, high threat post in fewer than 30 days, then as soon as possible, but not later than 48 hours before such opening or reopening, the Secretary shall transmit to the appropriate congressional committees a notification detailing the decision to open or reopen such post, the nature of the critical national security interests at stake, and the circumstances that prevented the normal 30-day notice under paragraph (1).
+
+**(c) Appropriate congressional committees** In this section, the term “appropriate congressional committees” means—
+
+(1) the Committee on Foreign Affairs, the Committee on Armed Services, the Permanent Select Committee on Intelligence, and the Committee on Appropriations of the House of Representatives; and
+
+(2) the Committee on Foreign Relations, the Committee on Armed Services, the Select Committee on Intelligence, and the Committee on Appropriations of the Senate.
+
+### Statutory Notes
+
+#### References in Text
+Title I of the Department of State Authorities Act, Fiscal Year 2017, referred to in subsec. (a)(4), is title I of Pub. L. 114–323, Dec. 16, 2016, 130 Stat. 1907, which enacted this section and sections 304, 2679d, 4803, and 4866 to 4868 of this title, amended sections 292, 295, 2701, 4834, 4864, and 4865 of this title, enacted provisions set out as notes under sections 4802 and 4834 of this title, and amended provisions set out as a note under [section 4865 of this title](./chapter-058-diplomatic-security.md#section-4865).
+
+#### Prior Provisions
+A prior section 4804, Pub. L. 99–399, title I, § 105, Aug. 27, 1986, 100 Stat. 856, set out responsibilities of Assistant Secretary of State for Diplomatic Security, prior to repeal by Pub. L. 103–236, title I, § 162(g)(4), Apr. 30, 1994, 108 Stat. 407.
 
 
 <a id="section-4805"></a>
@@ -365,9 +432,11 @@ Subsec. (a)(3). Pub. L. 109–140, § 3(2), added par. (3).
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Continuation of Review Boards for Facilities in Afghanistan and Iraq
-Pub. L. 113–235, div. J, title VII, § 7034(l)(2), Dec. 16, 2014, 128 Stat. 2625, provided that: “The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 ([22 U.S.C. 4831(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4831/a/3&num=0&edition=prelim)) shall remain in effect for facilities in Afghanistan through September 30, 2015, except that the notification and reporting requirements contained in such section shall include the Committees on Appropriations.”
+Pub. L. 114–113, div. K, title VII, § 7034(k)(2), Dec. 18, 2015, 129 Stat. 2764, provided that: “The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 ([22 U.S.C. 4831(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4831/a/3&num=0&edition=prelim)) shall remain in effect for facilities in Afghanistan through September 30, 2016, except that the notification and reporting requirements contained in such section shall include the Committees on Appropriations.”
 
 Prior continuations were contained in the following prior acts:
+
+Pub. L. 113–235, div. J, title VII, § 7034(l)(2), Dec. 16, 2014, 128 Stat. 2625.
 
 Pub. L. 113–76, div. K, title VII, § 7034(m)(2), Jan. 17, 2014, 128 Stat. 515.
 
@@ -463,14 +532,14 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 **(b) Program recommendations** A Board shall submit its findings (which may be classified to the extent deemed necessary by the Board) to the Secretary of State, together with recommendations as appropriate to improve the security and efficiency of any program or operation which the Board has reviewed.
 
-**(c) Personnel recommendations** Whenever a Board finds reasonable cause to believe that an individual described in [section 4833(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4833/a/1/B&num=0&edition=prelim) has breached the duty of that individual, the Board shall—
+**(c) Personnel recommendations** If a Board finds reasonable cause to believe that an individual described in [section 4833(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4833/a/1/B&num=0&edition=prelim) has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual, and such misconduct or unsatisfactory performance has significantly contributed to the serious injury, loss of life, or significant destruction of property, or the serious breach of security that is the subject of the Board’s examination as described in subsection (a), the Board shall—
 
 (1) notify the individual concerned,
 
-(2) transmit the finding of reasonable cause, together with all information relevant to such finding, to the head of the appropriate Federal agency or instrumentality, and
+(2) transmit the findings of reasonable cause, together with all information relevant to such findings, to the head of the appropriate Federal agency or instrumentality, and
 
 (3) recommend that such agency or instrumentality initiate an appropriate investigatory or disciplinary action.
-In determining whether an individual has breached a duty of that individual, the Board shall take into account any standard of conduct, law, rule, regulation, contract, or order which is pertinent to the performance of the duties of that individual.
+In determining whether an individual has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual as described in this subsection, the Board shall take into account any standard of conduct, law, rule, regulation, contract, or order which is pertinent.
 
 **(d) Reports**
 
@@ -485,7 +554,16 @@ In determining whether an individual has breached a duty of that individual, the
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (c). Pub. L. 114–323, § 104(a)(3), in concluding provisions, substituted “has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual as described in this subsection” for “has breached a duty of that individual” and struck out “to the performance of the duties of that individual” after “pertinent”.
+
+Pub. L. 114–323, § 104(a)(1), in introductory provisions, substituted “If” for “Whenever” and “has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual, and such misconduct or unsatisfactory performance has significantly contributed to the serious injury, loss of life, or significant destruction of property, or the serious breach of security that is the subject of the Board’s examination as described in subsection (a)” for “has breached the duty of that individual”.
+
+Subsec. (c)(2). Pub. L. 114–323, § 104(a)(2), substituted “findings” for “finding” in two places.
+
 1987—Subsec. (a). Pub. L. 100–204 inserted “or surrounding the serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad (as the case may be)” after first reference to “mission abroad”.
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–323, title I, § 104(b), Dec. 16, 2016, 130 Stat. 1910, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to any Accountability Review Board that is convened under section 301 of the Diplomatic Security Act ([22 U.S.C. 4831](./chapter-058-diplomatic-security.md#section-4831)) on or after the date of the enactment of this Act [Dec. 16, 2016].”
 
 
 <a id="section-4835"></a>
@@ -850,12 +928,16 @@ This Act, referred to in text, is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853
 
 **(g) Limitation of subcontracting** With respect to local guard contracts subject to subsection (c), a prime contractor may not subcontract more than 50 percent of the total value of its contract for that project.
 
+**(h) Award of local guard and protective service contracts** In evaluating proposals for local guard contracts under this section, the Secretary of State may award such contracts on the basis of best value as determined by a cost-technical tradeoff analysis (as described in Federal Acquisition Regulation part 15.101) and, with respect to such contracts for posts that are not high risk, high threat posts (as such term is defined in [section 4803 of this title](./chapter-058-diplomatic-security.md#section-4803)), subject to congressional notification 15-days prior to any such award.
+
 ### Statutory Notes
 
 #### Codification
 Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991, and not as part of the Diplomatic Security Act which comprises this chapter.
 
 #### Amendments
+2016—Subsec. (h). Pub. L. 114–323 added subsec. (h).
+
 1998—Subsec. (c)(3). Pub. L. 105–277, § 2210(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “in evaluating and scoring proposals for such contracts, award not less than 60 percent of the total points on the basis of technical factors and subfactors;”.
 
 Subsec. (c)(5). Pub. L. 105–277, § 2210(2), inserted “and” at end.
@@ -880,7 +962,7 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 
 (1) **Threat assessment**
 
-  (A) *Emergency Action Plan* — The Emergency Action Plan (EAP) of each United States mission shall address the threat of large explosive attacks from vehicles and the safety of employees during such an explosive attack. Such plan shall be reviewed and updated annually.
+  (A) *Emergency Action Plan* — The Emergency Action Plan (EAP) of each United States mission shall address the threat of large explosive attacks from vehicles and from complex attacks (as such term is defined in [section 4866 of this title](./chapter-058-diplomatic-security.md#section-4866)), and the safety of employees during such an explosive attack or such a complex attack. Such plan shall be reviewed and updated annually.
 
   (B) *Security Environment Threat List* — The Security Environment Threat List shall contain a section that addresses potential acts of international terrorism against United States diplomatic facilities based on threat identification criteria that emphasize the threat of transnational terrorism and include the local security environment, host government support, and other relevant factors such as cultural realities. Such plan shall be reviewed and updated every six months.
 
@@ -948,7 +1030,7 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 
     (iii) *Authority to lease aircraft to respond to a terrorist attack abroad* — Subject to the availability of appropriations, when the Attorney General of the Department of Justice exercises the Attorney General’s authority to lease commercial aircraft to transport equipment and personnel in response to a terrorist attack abroad if there have been reasonable efforts to obtain appropriate Department of Defense aircraft and such aircraft are unavailable, the Attorney General shall have the authority to obtain indemnification insurance or guarantees if necessary and appropriate.
 
-(7) **Rapid response procedures** — The Secretary of State shall enter into a memorandum of understanding with the Secretary of Defense setting out rapid response procedures for mobilization of personnel and equipment of their respective departments to provide more effective assistance in times of emergency with respect to United States diplomatic facilities.
+(7) **Rapid response procedures** — The Secretary of State shall enter into a memorandum of understanding with the Secretary of Defense setting out rapid response procedures for mobilization of personnel and equipment of their respective departments to provide more effective assistance in times of emergency with respect to United States diplomatic facilities, including at high risk, high threat posts (as such term is defined in [section 4803 of this title](./chapter-058-diplomatic-security.md#section-4803)), including options for the deployment of additional military personnel or equipment to bolster security and rapid deployment of armed or surveillance assets in response to an attack.
 
 (8) **Storage of emergency equipment and records** — All United States diplomatic facilities shall have emergency equipment and records required in case of an emergency situation stored at an off-site facility.
 
@@ -958,6 +1040,11 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 
 #### Codification
 Section was enacted as part of the Secure Embassy Construction and Counterterrorism Act of 1999, and also as part of the Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001, and not as part of the Diplomatic Security Act which comprises this chapter.
+
+#### Amendments
+2016—Subsec. (a)(1)(A). Pub. L. 114–323, § 102(1), inserted “and from complex attacks (as such term is defined in [section 4866 of this title](./chapter-058-diplomatic-security.md#section-4866)),” after “attacks from vehicles” and “or such a complex attack” after “an explosive attack”.
+
+Subsec. (a)(7). Pub. L. 114–323, § 102(2), inserted before period at end “, including at high risk, high threat posts (as such term is defined in [section 4803 of this title](./chapter-058-diplomatic-security.md#section-4803)), including options for the deployment of additional military personnel or equipment to bolster security and rapid deployment of armed or surveillance assets in response to an attack”.
 
 #### Delegation of Authority
 Memorandum of President of the United States, July 17, 2000, 65 F.R. 45511, provided:
@@ -970,6 +1057,9 @@ You are hereby authorized and directed to publish this delegation in the Federal
 
 William J. Clinton.
 
+#### Inclusion of Sensitive Compartmented Information Facilities in United States Diplomatic Facilities in Cuba
+Pub. L. 114–113, div. M, title V, § 513, Dec. 18, 2015, 129 Stat. 2926, provided that: “(a) Restricted Access Space Requirement.—Each United States diplomatic facility in Cuba in which classified information will be processed or in which classified communications occur that, after the date of the enactment of this Act [Dec. 18, 2015], is constructed or undergoes a major construction upgrade shall be constructed to include a sensitive compartmented information facility. “(b) National Security Waiver.—The Secretary of State may waive the requirement under subsection (a) if the Secretary—“(1) determines that such waiver is in the national security interest of the United States; and “(2) submits a written justification for such waiver to the appropriate congressional committees not later than 90 days before exercising such waiver. “(c) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—“(1) the congressional intelligence committees [Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives]; “(2) the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and “(3) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.”
+
 #### Inclusion of Sensitive Compartmented Information Facilities in United States Diplomatic Facilities in the Russian Federation and Adjacent Countries
 Pub. L. 113–293, title III, § 314, Dec. 19, 2014, 128 Stat. 4002, provided that: “(a) Sensitive Compartmented Information Facility Requirement.—Each United States diplomatic facility that, after the date of the enactment of this Act [Dec. 19, 2014], is constructed in, or undergoes a construction upgrade in, the Russian Federation, any country that shares a land border with the Russian Federation, or any country that is a former member of the Soviet Union shall be constructed to include a Sensitive Compartmented Information Facility. “(b) National Security Waiver.—The Secretary of State may waive the requirement under subsection (a) if the Secretary determines that such waiver is in the national security interest of the United States and submits a written justification to the appropriate congressional committees not later than 180 days before exercising such waiver. “(c) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—“(1) the congressional intelligence committees [Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives]; “(2) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and “(3) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.”
 
@@ -980,7 +1070,7 @@ Pub. L. 109–364, div. A, title III, § 357, Oct. 17, 2006, 120 Stat. 2163, pro
 Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 602], Nov. 29, 1999, 113 Stat. 1536, 1501A–451, provided that: “Congress makes the following findings: “(1) On August 7, 1998, the United States embassies in Nairobi, Kenya, and in Dar es Salaam, Tanzania, were destroyed by simultaneously exploding bombs. The resulting explosions killed 220 persons and injured more than 4,000 others. Twelve Americans and 40 Kenyan and Tanzanian employees of the United States Foreign Service were killed in the attack. “(2) The United States personnel in both Dar es Salaam and Nairobi showed leadership and personal courage in their response to the attacks. Despite the havoc wreaked upon the embassies, staff in both embassies provided rapid response in locating and rescuing victims, providing emergency assistance, and quickly restoring embassy operations during a crisis. “(3) The bombs are believed to have been set by individuals associated with Osama bin Laden, leader of a known transnational terrorist organization. In February 1998, bin Laden issued a directive to his followers that called for attacks against United States interests anywhere in the world. “(4) Threats continue to be made against United States diplomatic facilities. “(5) Accountability Review Boards were convened following the bombings, as required by Public Law 99–399 [see Tables for classification], chaired by Admiral William J. Crowe, United States Navy (Ret.) (in this section referred to as the ‘Crowe panels’). “(6) The conclusions of the Crowe panels were strikingly similar to those stated by the Commission chaired by Admiral Bobby Ray Inman, which issued an extensive embassy security report in 1985. “(7) The Crowe panels issued a report setting out many problems with security at United States diplomatic facilities, in particular the following:“(A) The United States Government has devoted inadequate resources to security against terrorist attacks. “(B) The United States Government places too low a priority on security concerns. “(8) The result has been a failure to take adequate steps to prevent tragedies such as the bombings in Kenya and Tanzania. “(9) The Crowe panels found that there was an institutional failure on the part of the Department of State to recognize threats posed by transnational terrorism and vehicular bombs. “(10) Responsibility for ensuring adequate resources for security programs is widely shared throughout the United States Government, including Congress. Unless the vulnerabilities identified by the Crowe panels are addressed in a sustained and financially realistic manner, the lives and safety of United States employees in diplomatic facilities will continue to be at risk from further terrorist attacks. “(11) Although service in the Foreign Service or other United States Government positions abroad can never be completely without risk, the United States Government must take all reasonable steps to minimize security risks.”
 
 #### Authorizations of Appropriations
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 604], Nov. 29, 1999, 113 Stat. 1536, 1501A–453, as amended by Pub. L. 107–228, div. A, title I, § 111(a)(3)(B), Sept. 30, 2002, 116 Stat. 1356; Pub. L. 108–447, div. B, title VI, § 629, Dec. 8, 2004, 118 Stat. 2920; Pub. L. 112–74, div. I, title VII, § 7004(e), Dec. 23, 2011, 125 Stat. 1194, provided that: “(a) Authorization of Appropriations.—In addition to amounts otherwise authorized to be appropriated by this or any other Act, there are authorized to be appropriated for ‘Embassy Security, Construction and Maintenance’—“(1) for fiscal year 2000, $900,000,000; “(2) for fiscal year 2001, $900,000,000; “(3) for fiscal year 2002, $900,000,000; “(4) for fiscal year 2003, $1,000,000,000; and “(5) for fiscal year 2004, $900,000,000. “(b) Purposes.—Funds made available under the ‘Embassy Security, Construction, and Maintenance’ account may be used only for the purposes of—“(1) the acquisition of United States diplomatic facilities and, if necessary, any residences or other structures located in close physical proximity to such facilities, or “(2) the provision of major security enhancements to United States diplomatic facilities, to the extent necessary to bring the United States Government into compliance with all requirements applicable to the security of United States diplomatic facilities, including the relevant requirements set forth in section 606 [[22 U.S.C. 4865](./chapter-058-diplomatic-security.md#section-4865)]. “(c) Availability of Authorizations.—Authorizations of appropriations under subsection (a) shall remain available until the appropriations are made. “(d) Availability of Funds.—Amounts appropriated pursuant to subsection (a) are authorized to remain available until expended. “(e) Capital Security Cost Sharing.—“(1) Authority.—Notwithstanding any other provision of law, all agencies with personnel overseas subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 ([22 U.S.C. 3927](./chapter-052-foreign-service.md#section-3927)) shall participate and provide funding in advance for their share of costs of providing, maintaining, repairing, and renovating safe, secure United States diplomatic facilities, without offsets, on the basis of the total overseas presence of each agency as determined annually by the Secretary of State in consultation with such agency. Amounts advanced by such agencies to the Department of State shall be credited to the Embassy Security, Construction and Maintenance account, and remain available until expended. “(2) Implementation.—Implementation of this subsection shall be carried out in a manner that encourages right-sizing of each agency’s overseas presence. “(3) Exclusion.—For purposes of this subsection ‘agency’ does not include the Marine Security Guard.”
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 604], Nov. 29, 1999, 113 Stat. 1536, 1501A–453, as amended by Pub. L. 107–228, div. A, title I, § 111(a)(3)(B), Sept. 30, 2002, 116 Stat. 1356; Pub. L. 108–447, div. B, title VI, § 629, Dec. 8, 2004, 118 Stat. 2920; Pub. L. 112–74, div. I, title VII, § 7004(e), Dec. 23, 2011, 125 Stat. 1194; Pub. L. 114–323, title I, § 111(b), Dec. 16, 2016, 130 Stat. 1910, provided that: “(a) Authorization of Appropriations.—In addition to amounts otherwise authorized to be appropriated by this or any other Act, there are authorized to be appropriated for ‘Embassy Security, Construction and Maintenance’—“(1) for fiscal year 2000, $900,000,000; “(2) for fiscal year 2001, $900,000,000; “(3) for fiscal year 2002, $900,000,000; “(4) for fiscal year 2003, $1,000,000,000; and “(5) for fiscal year 2004, $900,000,000. “(b) Purposes.—Funds made available under the ‘Embassy Security, Construction, and Maintenance’ account may be used only for the purposes of—“(1) the acquisition of United States diplomatic facilities and, if necessary, any residences or other structures located in close physical proximity to such facilities, or “(2) the provision of major security enhancements to United States diplomatic facilities, to the extent necessary to bring the United States Government into compliance with all requirements applicable to the security of United States diplomatic facilities, including the relevant requirements set forth in section 606 [[22 U.S.C. 4865](./chapter-058-diplomatic-security.md#section-4865)]. “(c) Availability of Authorizations.—Authorizations of appropriations under subsection (a) shall remain available until the appropriations are made. “(d) Availability of Funds.—Amounts appropriated pursuant to subsection (a) are authorized to remain available until expended. “(e) Capital Security Cost Sharing.—“(1) Authority.—Notwithstanding any other provision of law, all agencies with personnel overseas subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 ([22 U.S.C. 3927](./chapter-052-foreign-service.md#section-3927)) shall participate and provide funding in advance for their share of costs of providing, maintaining, repairing, and renovating safe, secure United States diplomatic facilities, without offsets, on the basis of the total overseas presence of each agency as determined annually by the Secretary of State in consultation with such agency. Amounts advanced by such agencies to the Department of State shall be credited to the Embassy Security, Construction and Maintenance account, and remain available until expended. “(2) Implementation.—Implementation of this subsection shall be carried out in a manner that encourages right-sizing of each agency’s overseas presence. A project to construct a diplomatic facility of the United States may not include office space or other accommodations for an employee of a Federal department or agency to the extent that the Secretary of State determines that such department or agency has not provided to the Department of State the full amount of funding required under paragraph (1), notwithstanding any authorization and appropriation of relevant funds by Congress. “(3) Exclusion.—For purposes of this subsection ‘agency’ does not include the Marine Security Guard.”
 
 #### Obligations and Expenditures
 Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 605], Nov. 29, 1999, 113 Stat. 1536, 1501A–453, as amended by Pub. L. 112–74, div. I, title VII, § 7034(n), Dec. 23, 2011, 125 Stat. 1217, provided that: “(a) Report and Priority of Obligations.—“(1) Report.—Not later than February 1 of the year 2000 and each of the four subsequent years, the Secretary of State shall submit a classified report to the appropriate congressional committees identifying each diplomatic facility or each diplomatic or consular post composed of such facilities that is a priority for replacement or for any major security enhancement because of its vulnerability to terrorist attack (by reason of the terrorist threat and the current condition of the facility). The report shall list such facilities in groups of 20. The groups shall be ranked in order from most vulnerable to least vulnerable to such an attack. “(2) Priority on use of funds.—“(A) In general.—Except as provided in subparagraph (B), funds authorized to be appropriated by section 604 [set out as a note above] for a particular project may be used only for those facilities which are listed in the first four groups described in paragraph (1). “(B) Exception.—Funds authorized to be made available by section 604 may only be used for facilities which are not in the first 4 groups described in paragraph (1), if the Congress authorizes or appropriates funds for such a diplomatic facility or the Secretary of State notifies the appropriate congressional committees that such funds will be used for a facility in accordance with the procedures applicable to a reprogramming of funds under section 34(a) of the State Department Basic Authorities Act of 1956 ([22 U.S.C. 2706(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2706/a&num=0&edition=prelim)). “(b) Prohibition on Transfer of Funds.—None of the funds authorized to be appropriated by section 604 may be transferred to any other account.”
@@ -989,3 +1079,82 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 605], Nov. 29, 19
 For definitions of the terms “Secretary” and “appropriate congressional committees” used in this section and in section 1000(a)(7) [div. A, title VI, § 605] of Pub. L. 106–113, set out as a note above, see section 1000(a)(7) [§ 3] of Pub. L. 106–113, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
 
 Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 603], Nov. 29, 1999, 113 Stat. 1536, 1501A–452, provided that: “In this title [enacting this section, amending [section 4831 of this title](./chapter-058-diplomatic-security.md#section-4831), and enacting provisions set out as notes above], the terms ‘United States diplomatic facility’ and ‘diplomatic facility’ mean any chancery, consulate, or other office notified to the host government as diplomatic or consular premises in accordance with the Vienna Conventions on Diplomatic and Consular Relations, or otherwise subject to a publicly available bilateral agreement with the host government (contained in the records of the United States Department of State) that recognizes the official status of the United States Government personnel present at the facility.”
+
+
+<a id="section-4866"></a>
+## § 4866. Security training for personnel assigned to a high risk, high threat post
+**(a) In general** Individuals assigned permanently to or who are in long-term temporary duty status as designated by the Secretary of State at a high risk, high threat post shall receive security training described in subsection (b) on a mandatory basis in order to prepare such individuals for living and working at such posts.
+
+**(b) Security training described** Security training referred to in subsection (a)—
+
+(1) is training to improve basic knowledge and skills; and
+
+(2) may include—
+
+  (A) an ability to recognize, avoid, and respond to potential terrorist situations, including a complex attack;
+
+  (B) conducting surveillance detection;
+
+  (C) providing emergency medical care;
+
+  (D) ability to detect the presence of improvised explosive devices;
+
+  (E) minimal firearms familiarization; and
+
+  (F) defensive driving maneuvers.
+
+**(c) Effective date** The requirements of this section shall take effect upon December 16, 2016.
+
+**(d) Definitions** In this section and [section 4867 of this title](./chapter-058-diplomatic-security.md#section-4867):
+
+(1) **Complex attack** — The term “complex attack” has the meaning given such term by the North Atlantic Treaty Organization, as follows: “An attack conducted by multiple hostile elements which employ at least two distinct classes of weapon systems (i.e., indirect fire and direct fire, improvised explosive devices, and surface to air fire).”.
+
+(2) **High risk, high threat post** — The term “high risk, high threat post” has the meaning given such term in [section 4803 of this title](./chapter-058-diplomatic-security.md#section-4803).
+
+
+<a id="section-4867"></a>
+## § 4867. Security management training for officials assigned to a high risk, high threat post
+**(a) In general** Officials described in subsection (c) who are assigned to a high risk, high threat post shall receive security training described in subsection (b) on a mandatory basis in order to improve the ability of such officials to make security-related management decisions.
+
+**(b) Security training described** Security training referred to in subsection (a) may include—
+
+(1) development of skills to better evaluate threats;
+
+(2) effective use of security resources to mitigate such threats; and
+
+(3) improved familiarity of available security resources.
+
+**(c) Officials described** Officials referred to in subsection (a) are the following:
+
+(1) Members of the Senior Foreign Service appointed under section 3942(a)(1) or 3943 of this title or members of the Senior Executive Service (as such term is described in [section 3132(a)(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132/a/2&num=0&edition=prelim)).
+
+(2) Foreign Service officers appointed under [section 3942(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3942/a/1&num=0&edition=prelim) holding a position in classes FS–1 or FS–2.
+
+(3) Foreign Service Specialists appointed by the Secretary under [section 3943 of this title](./chapter-052-foreign-service.md#section-3943) holding a position in classes FS–1 or FS–2.
+
+(4) Individuals holding a position in grades GS–14 or GS–15.
+
+(5) Personal services contractors and other contractors serving in positions or capacities similar to the officials described in paragraphs (1) through (4).
+
+**(d) Effective date** The requirements of this section shall take effect beginning on the date that is 1 year after December 16, 2016.
+
+
+<a id="section-4868"></a>
+## § 4868. Assignment of personnel at high risk, high threat posts
+
+The Secretary to the extent practicable shall station key personnel for sustained periods of time at high risk, high threat posts (as such term is defined in [section 4803 of this title](./chapter-058-diplomatic-security.md#section-4803)) in order to—
+
+(1) establish institutional knowledge and situational awareness that would allow for a fuller familiarization of the local political and security environment in which such posts are located; and
+
+(2) ensure that necessary security procedures are implemented.
+
+### Statutory Notes
+
+#### References in Text
+[Section 4803 of this title](./chapter-058-diplomatic-security.md#section-4803), referred to in text, was in the original “section 104 of the Omnibus Diplomatic Security and Antiterrorism Act of 1986, as added by section 401 of this Act” and was translated as reading “section 104 of the Omnibus Diplomatic Security and Antiterrorism Act of 1986, as added by section 101(a) of this Act”, meaning section 104 of Pub. L. 99–399, as added by section 101(a) of Pub. L. 114–323, which is classified to [section 4803 of this title](./chapter-058-diplomatic-security.md#section-4803).
+
+#### Codification
+Section was enacted as part of the Department of State Authorities Act, Fiscal Year 2017, and not as part of the Diplomatic Security Act which comprises this chapter.
+
+#### Definitions
+For definition of “Secretary” as used in this section, see section 2 of Pub. L. 114–323, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).

@@ -76,9 +76,9 @@ Pub. L. 106–279, § 1(a), Oct. 6, 2000, 114 Stat. 825, provided that: “This 
 
 As used in this chapter:
 
-(1) **Accredited agency** — The term “accredited agency” means an agency accredited under subchapter II of this chapter to provide adoption services in the United States in cases subject to the Convention.
+(1) **Accredited agency** — The term “accredited agency” means an agency accredited under subchapter II to provide adoption services in the United States in cases subject to the Convention.
 
-(2) **Accrediting entity** — The term “accrediting entity” means an entity designated under [section 14922(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14922/a&num=0&edition=prelim) to accredit agencies and approve persons under subchapter II of this chapter.
+(2) **Accrediting entity** — The term “accrediting entity” means an entity designated under [section 14922(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14922/a&num=0&edition=prelim) to accredit agencies and approve persons under subchapter II.
 
 (3) **Adoption service** — The term “adoption service” means—
 
@@ -97,7 +97,7 @@ As used in this chapter:
 
 (4) **Agency** — The term “agency” means any person other than an individual.
 
-(5) **Approved person** — The term “approved person” means a person approved under subchapter II of this chapter to provide adoption services in the United States in cases subject to the Convention.
+(5) **Approved person** — The term “approved person” means a person approved under subchapter II to provide adoption services in the United States in cases subject to the Convention.
 
 (6) **Attorney General** — Except as used in [section 14944 of this title](./chapter-143-intercountry-adoptions.md#section-14944), the term “Attorney General” means the Attorney General, acting through the Commissioner of Immigration and Naturalization.
 
@@ -128,7 +128,7 @@ As used in this chapter:
 #### References in Text
 This chapter, referred to in introductory provisions, was in the original “this Act”, meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, known as the Intercountry Adoption Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 14901 of this title](./chapter-143-intercountry-adoptions.md#section-14901) and Tables.
 
-Subchapter II of this chapter, referred to in pars. (1), (2), and (5), was in the original “title II”, meaning title II of Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 830, which enacted subchapter II of this chapter and amended [section 622 of this title](./chapter-007-social-security.md#section-622). For complete classification of title II to the Code, see Tables.
+Subchapter II, referred to in pars. (1), (2), and (5), was in the original “title II”, meaning title II of Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 830, which enacted subchapter II of this chapter and amended [section 622 of this title](./chapter-007-social-security.md#section-622). For complete classification of title II to the Code, see Tables.
 
 #### Effective Date
 Section effective Oct. 6, 2000, with transition rule, see section 505(a)(1), (b) of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under [section 14901 of this title](./chapter-143-intercountry-adoptions.md#section-14901).
@@ -194,7 +194,7 @@ Section effective Oct. 6, 2000, with transition rule, see section 505(a)(1), (b)
 
 (6) facilitating the transmittal of other appropriate information to, and among, central authorities, Federal and State agencies (including State courts), and accredited agencies and approved persons.
 
-**(c) Accreditation and approval responsibilities** The Secretary shall carry out the functions prescribed by the Convention with respect to the accreditation of agencies and the approval of persons to provide adoption services in the United States in cases subject to the Convention as provided in subchapter II of this chapter. Such functions may not be delegated to any other Federal agency.
+**(c) Accreditation and approval responsibilities** The Secretary shall carry out the functions prescribed by the Convention with respect to the accreditation of agencies and the approval of persons to provide adoption services in the United States in cases subject to the Convention as provided in subchapter II. Such functions may not be delegated to any other Federal agency.
 
 **(d) Additional responsibilities** The Secretary—
 
@@ -213,7 +213,7 @@ Section effective Oct. 6, 2000, with transition rule, see section 505(a)(1), (b)
 ### Statutory Notes
 
 #### References in Text
-Subchapter II of this chapter, referred to in subsec. (c), was in the original “title II”, meaning title II of Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 830, which enacted subchapter II of this chapter and amended [section 622 of this title](./chapter-007-social-security.md#section-622). For complete classification of title II to the Code, see Tables.
+Subchapter II, referred to in subsec. (c), was in the original “title II”, meaning title II of Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 830, which enacted subchapter II of this chapter and amended [section 622 of this title](./chapter-007-social-security.md#section-622). For complete classification of title II to the Code, see Tables.
 
 This chapter, referred to in subsec. (f)(2), was in the original “this Act”, meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, known as the Intercountry Adoption Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 14901 of this title](./chapter-143-intercountry-adoptions.md#section-14901) and Tables.
 
@@ -239,7 +239,7 @@ Section effective Oct. 6, 2000, with transition rule, see section 505(a)(1), (b)
 ## § 14922. Annual report on intercountry adoptions
 **(a) Reports required** Beginning 1 year after the date of the entry into force of the Convention for the United States and each year thereafter, the Secretary, in consultation with the Attorney General and other appropriate agencies, shall submit a report describing the activities of the central authority of the United States under this chapter during the preceding year to the Committee on International Relations, the Committee on Ways and Means, and the Committee on the Judiciary of the House of Representatives and the Committee on Foreign Relations, the Committee on Finance, and the Committee on the Judiciary of the Senate.
 
-**(b) Report elements** Each report under subsection (a) of this section shall set forth with respect to the year concerned, the following:
+**(b) Report elements** Each report under subsection (a) shall set forth with respect to the year concerned, the following:
 
 (1) The number of intercountry adoptions involving immigration to the United States, regardless of whether the adoption occurred under the Convention, including the country from which each child emigrated, the State to which each child immigrated, and the country in which the adoption was finalized.
 
@@ -283,7 +283,7 @@ Section effective upon entry into force for the United States of the Convention 
 
 (2) is providing such services through or under the supervision and responsibility of an accredited agency or approved person.
 
-**(b) Exceptions** Subsection (a) of this section shall not apply to the following:
+**(b) Exceptions** Subsection (a) shall not apply to the following:
 
 (1) **Background studies and home studies** — The performance of a background study on a child or a home study on a prospective adoptive parent, or any report on any such study by a social work professional or organization who is not providing any other adoption service in the case, if the background or home study is approved by an accredited agency.
 
@@ -306,7 +306,7 @@ Section effective upon entry into force for the United States of the Convention 
 ## § 14924. Process for accreditation and approval; role of accrediting entities
 **(a) Designation of accrediting entities**
 
-(1) **In general** — The Secretary shall enter into agreements with one or more qualified entities under which such entities will perform the duties described in subsection (b) of this section in accordance with the Convention, this subchapter, and the regulations prescribed under [section 14923 of this title](./chapter-143-intercountry-adoptions.md#section-14923), and upon entering into each such agreement shall designate the qualified entity as an accrediting entity.
+(1) **In general** — The Secretary shall enter into agreements with one or more qualified entities under which such entities will perform the duties described in subsection (b) in accordance with the Convention, this subchapter, and the regulations prescribed under [section 14923 of this title](./chapter-143-intercountry-adoptions.md#section-14923), and upon entering into each such agreement shall designate the qualified entity as an accrediting entity.
 
 (2) **Qualified entities** — In paragraph (1), the term “qualified entity” means—
 
@@ -370,7 +370,7 @@ Section effective Oct. 6, 2000, with transition rule, see section 505(a)(1), (b)
 
 **(b) Minimum requirements**
 
-(1) **Accreditation** — The standards prescribed under subsection (a) of this section shall include the requirement that accreditation of an agency may not be provided or continued under this subchapter unless the agency meets the following requirements:
+(1) **Accreditation** — The standards prescribed under subsection (a) shall include the requirement that accreditation of an agency may not be provided or continued under this subchapter unless the agency meets the following requirements:
 
   (A) *Specific requirements*
 
@@ -404,15 +404,15 @@ Section effective Oct. 6, 2000, with transition rule, see section 505(a)(1), (b)
 
   (G) *Nonprofit organization with state license to provide adoption services* — The agency is a private nonprofit organization licensed to provide adoption services in at least one State.
 
-(2) **Approval** — The standards prescribed under subsection (a) of this section shall include the requirement that a person shall not be approved under this subchapter unless the person is a private for-profit entity that meets the requirements of subparagraphs (A) through (F) of paragraph (1) of this subsection.
+(2) **Approval** — The standards prescribed under subsection (a) shall include the requirement that a person shall not be approved under this subchapter unless the person is a private for-profit entity that meets the requirements of subparagraphs (A) through (F) of paragraph (1) of this subsection.
 
-(3) **Renewal of accreditation or approval** — The standards prescribed under subsection (a) of this section shall provide that the accreditation of an agency or approval of a person under this subchapter shall be for a period of not less than 3 years and not more than 5 years, and may be renewed on a showing that the agency or person meets the requirements applicable to original accreditation or approval under this subchapter.
+(3) **Renewal of accreditation or approval** — The standards prescribed under subsection (a) shall provide that the accreditation of an agency or approval of a person under this subchapter shall be for a period of not less than 3 years and not more than 5 years, and may be renewed on a showing that the agency or person meets the requirements applicable to original accreditation or approval under this subchapter.
 
 **(c) Temporary registration of community based agencies**
 
-(1) **One-year registration period for medium community based agencies** — For a 1-year period after the entry into force of the Convention and notwithstanding subsection (b) of this section, the Secretary may provide, in regulations issued pursuant to subsection (a) of this section, that an agency may register with the Secretary and be accredited to provide adoption services in the United States in cases subject to the Convention during such period if the agency has provided adoption services in fewer than 100 intercountry adoptions in the preceding calendar year and meets the criteria described in paragraph (3).
+(1) **One-year registration period for medium community based agencies** — For a 1-year period after the entry into force of the Convention and notwithstanding subsection (b), the Secretary may provide, in regulations issued pursuant to subsection (a), that an agency may register with the Secretary and be accredited to provide adoption services in the United States in cases subject to the Convention during such period if the agency has provided adoption services in fewer than 100 intercountry adoptions in the preceding calendar year and meets the criteria described in paragraph (3).
 
-(2) **Two-year registration period for small community-based agencies** — For a 2-year period after the entry into force of the Convention and notwithstanding subsection (b) of this section, the Secretary may provide, in regulations issued pursuant to subsection (a) of this section, that an agency may register with the Secretary and be accredited to provide adoption services in the United States in cases subject to the Convention during such period if the agency has provided adoption services in fewer than 50 intercountry adoptions in the preceding calendar year and meets the criteria described in paragraph (3).
+(2) **Two-year registration period for small community-based agencies** — For a 2-year period after the entry into force of the Convention and notwithstanding subsection (b), the Secretary may provide, in regulations issued pursuant to subsection (a), that an agency may register with the Secretary and be accredited to provide adoption services in the United States in cases subject to the Convention during such period if the agency has provided adoption services in fewer than 50 intercountry adoptions in the preceding calendar year and meets the criteria described in paragraph (3).
 
 (3) **Criteria for registration** — Agencies registered under this subsection shall meet the following criteria:
 
@@ -487,9 +487,9 @@ Section effective Oct. 6, 2000, with transition rule, see section 505(a)(1), (b)
 
   (B) consultation between the Secretary and the accrediting entity where an agency or person has engaged in substantial noncompliance with the requirements of section 14923(b)(A)(ii) 1 of this title, unless the accrediting entity has taken appropriate corrective action and the noncompliance has not recurred.
 
-(3) **Repeated failures to comply** — Repeated serious, willful, or grossly negligent failures to comply with the requirements of [section 14923(b)(1)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14923/b/1/A/ii&num=0&edition=prelim) by an agency or person after consultation between Secretary and the accrediting entity with respect to previous noncompliance by such agency or person shall constitute a pattern of serious, willful, or grossly negligent failures to comply under subsection (c)(1)(B) of this section.
+(3) **Repeated failures to comply** — Repeated serious, willful, or grossly negligent failures to comply with the requirements of [section 14923(b)(1)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14923/b/1/A/ii&num=0&edition=prelim) by an agency or person after consultation between Secretary and the accrediting entity with respect to previous noncompliance by such agency or person shall constitute a pattern of serious, willful, or grossly negligent failures to comply under subsection (c)(1)(B).
 
-(4) **Failure to comply with certain requirements** — A failure to comply with the requirements of [section 14923(b)(1)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14923/b/1/A/ii&num=0&edition=prelim) shall constitute a serious failure to comply under subsection (c)(1)(B) of this section unless it is shown by clear and convincing evidence that such noncompliance had neither the purpose nor the effect of determining the outcome of a decision or proceeding by a court or other competent authority in the United States or the child’s country of origin.
+(4) **Failure to comply with certain requirements** — A failure to comply with the requirements of [section 14923(b)(1)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14923/b/1/A/ii&num=0&edition=prelim) shall constitute a serious failure to comply under subsection (c)(1)(B) unless it is shown by clear and convincing evidence that such noncompliance had neither the purpose nor the effect of determining the outcome of a decision or proceeding by a court or other competent authority in the United States or the child’s country of origin.
 
 ### Statutory Notes
 
@@ -542,7 +542,7 @@ Pub. L. 112–276, § 4, Jan. 14, 2013, 126 Stat. 2467, provided that: “In thi
 
 **(b) Legal effect of Convention adoption finalized in another Convention country** A final adoption in another Convention country, certified by the Secretary of State pursuant to subsection (a) of this section or [section 14932(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14932/c&num=0&edition=prelim), shall be recognized as a final valid adoption for purposes of all Federal, State, and local laws of the United States.
 
-**(c) Condition on finalization of Convention adoption by State court** In the case of a child who has entered the United States from another Convention country for the purpose of adoption, an order declaring the adoption final shall not be entered unless the Secretary of State has issued the certificate provided for in subsection (a) of this section with respect to the adoption.
+**(c) Condition on finalization of Convention adoption by State court** In the case of a child who has entered the United States from another Convention country for the purpose of adoption, an order declaring the adoption final shall not be entered unless the Secretary of State has issued the certificate provided for in subsection (a) with respect to the adoption.
 
 ### Statutory Notes
 
@@ -587,19 +587,19 @@ Section effective upon entry into force for the United States of the Convention 
 
   (B) the information and documents described in paragraph (2), to the extent required by the United States central authority; and
 
-  (C) any other information concerning the case required by the United States central authority to perform the functions specified in subsection (c) of this section or otherwise to carry out the duties of the United States central authority under the Convention.
+  (C) any other information concerning the case required by the United States central authority to perform the functions specified in subsection (c) or otherwise to carry out the duties of the United States central authority under the Convention.
 
-**(b) Conditions on State court orders** An order declaring an adoption to be final or granting custody for the purpose of adoption in a case described in subsection (a) of this section shall not be entered unless the court—
+**(b) Conditions on State court orders** An order declaring an adoption to be final or granting custody for the purpose of adoption in a case described in subsection (a) shall not be entered unless the court—
 
 (1) has received and verified to the extent the court may find necessary—
 
-  (A) the material described in subsection (a)(2) of this section; and
+  (A) the material described in subsection (a)(2); and
 
   (B) satisfactory evidence that the requirements of Articles 4 and 15 through 21 of the Convention have been met; and
 
 (2) has determined that the adoptive placement is in the best interests of the child.
 
-**(c) Duties of the Secretary of State** In a case described in subsection (a) of this section, the Secretary, on receipt and verification as necessary of the material and information described in subsection (a)(3) of this section, shall issue, as applicable, an official certification that the child has been adopted or a declaration that custody for purposes of adoption has been granted, in accordance with the Convention and this chapter.
+**(c) Duties of the Secretary of State** In a case described in subsection (a), the Secretary, on receipt and verification as necessary of the material and information described in subsection (a)(3), shall issue, as applicable, an official certification that the child has been adopted or a declaration that custody for purposes of adoption has been granted, in accordance with the Convention and this chapter.
 
 **(d) Filing with registry regarding non-Convention adoptions** Accredited agencies, approved persons, and other persons, including governmental authorities, providing adoption services in an intercountry adoption not subject to the Convention that involves the emigration of a child from the United States shall file information required by regulations jointly issued by the Attorney General and the Secretary of State for purposes of implementing [section 14912(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14912/e&num=0&edition=prelim).
 
@@ -690,7 +690,7 @@ Section effective Oct. 6, 2000, with transition rule, see section 505(a)(1), (b)
 
 (2) makes a false or fraudulent statement, or misrepresentation, with respect to a material fact, or offers, gives, solicits, or accepts inducement by way of compensation, intended to influence or affect in the United States or a foreign country—
 
-  (A) a decision by an accrediting entity with respect to the accreditation of an agency or approval of a person under subchapter II of this chapter;
+  (A) a decision by an accrediting entity with respect to the accreditation of an agency or approval of a person under subchapter II;
 
   (B) the relinquishment of parental rights or the giving of parental consent relating to the adoption of a child in a case subject to the Convention; or
 
@@ -701,16 +701,16 @@ shall be subject, in addition to any other penalty that may be prescribed by law
 
 **(b) Civil enforcement**
 
-(1) **Authority of Attorney General** — The Attorney General may bring a civil action to enforce subsection (a) of this section against any person in any United States district court.
+(1) **Authority of Attorney General** — The Attorney General may bring a civil action to enforce subsection (a) against any person in any United States district court.
 
 (2) **Factors to be considered in imposing penalties** — In imposing penalties the court shall consider the gravity of the violation, the degree of culpability of the defendant, and any history of prior violations by the defendant.
 
-**(c) Criminal penalties** Whoever knowingly and willfully violates paragraph (1) or (2) of subsection (a) of this section shall be subject to a fine of not more than $250,000, imprisonment for not more than 5 years, or both.
+**(c) Criminal penalties** Whoever knowingly and willfully violates paragraph (1) or (2) of subsection (a) shall be subject to a fine of not more than $250,000, imprisonment for not more than 5 years, or both.
 
 ### Statutory Notes
 
 #### References in Text
-Subchapter II of this chapter, referred to in subsec. (a)(2)(A), was in the original “title II”, meaning title II of Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 830, which enacted subchapter II of this chapter and amended [section 622 of this title](./chapter-007-social-security.md#section-622). For complete classification of title II to the Code, see Tables.
+Subchapter II, referred to in subsec. (a)(2)(A), was in the original “title II”, meaning title II of Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 830, which enacted subchapter II of this chapter and amended [section 622 of this title](./chapter-007-social-security.md#section-622). For complete classification of title II to the Code, see Tables.
 
 #### Effective Date
 Section effective upon entry into force for the United States of the Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption, pursuant to Article 46(2)(a) of the Convention, with transition rule, see section 505(a)(2), (b) of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under [section 14901 of this title](./chapter-143-intercountry-adoptions.md#section-14901).

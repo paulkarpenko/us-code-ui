@@ -63,7 +63,7 @@ As used in this chapter, unless the context otherwise requires:
 
 **(b) Duties** The President shall—
 
-(1) promulgate the 5-year plans described in subsection (d)(9) of this section;
+(1) promulgate the 5-year plans described in subsection (d)(9);
 
 (2) define the roles in the Program of Federal officers, departments, and agencies, including the Departments of Agriculture, Commerce, Defense, Energy, Interior, State, and Transportation; the Environmental Protection Agency; the National Aeronautics and Space Administration; the Council on Environmental Quality; the National Science Foundation; and the Office of Science and Technology Policy; and
 
@@ -81,14 +81,14 @@ As used in this chapter, unless the context otherwise requires:
 
   (C) serve as the staff for the Board and its supporting committees and working groups;
 
-  (D) review each agency budget request transmitted under subsection (g)(1) of this section and submit an analysis of the requests to the Board for its review;
+  (D) review each agency budget request transmitted under subsection (g)(1) and submit an analysis of the requests to the Board for its review;
 
   (E) be responsible for coordinating interagency participation in international climate-related activities; and
 
-  (F) work with the National Academy of Sciences and other private, academic, State, and local groups in preparing and implementing the 5-year plan (described in subsection (d)(9) of this section) and the program.
+  (F) work with the National Academy of Sciences and other private, academic, State, and local groups in preparing and implementing the 5-year plan (described in subsection (d)(9)) and the program.
   The analysis described in subparagraph (D) shall include an analysis of how each agency’s budget request relates to the priorities and goals of the program established pursuant to this chapter.
 
-(3) The Secretary may provide, through the Office, financial assistance, in the form of contracts or grants or cooperative agreements, for climate-related activities which are needed to meet the goals and priorities of the program set forth in the 5-year plan pursuant to subsection (d)(9) of this section, if such goals and priorities are not being adequately addressed by any Federal department, agency, or instrumentality.
+(3) The Secretary may provide, through the Office, financial assistance, in the form of contracts or grants or cooperative agreements, for climate-related activities which are needed to meet the goals and priorities of the program set forth in the 5-year plan pursuant to subsection (d)(9), if such goals and priorities are not being adequately addressed by any Federal department, agency, or instrumentality.
 
 (4) Each Federal officer, employee, department and agency involved in the Program shall cooperate with the Secretary in carrying out the provisions of this chapter.
 
@@ -114,13 +114,13 @@ As used in this chapter, unless the context otherwise requires:
 
 **(e) Climate Program Policy Board**
 
-(1) The Secretary shall establish and maintain an interagency Climate Program Policy Board, consisting of representatives of the Federal agencies specified in subsection (b)(2) of this section and any other agency which the Secretary determines should participate in the Program.
+(1) The Secretary shall establish and maintain an interagency Climate Program Policy Board, consisting of representatives of the Federal agencies specified in subsection (b)(2) and any other agency which the Secretary determines should participate in the Program.
 
 (2) The Board shall—
 
   (A) be responsible for coordinated planning and progress review for the Program;
 
-  (B) review all agency and department budget requests related to climate transmitted under subsection (g)(1) of this section and submit a report to the Office of Management and Budget concerning such budget requests;
+  (B) review all agency and department budget requests related to climate transmitted under subsection (g)(1) and submit a report to the Office of Management and Budget concerning such budget requests;
 
   (C) establish and maintain such interagency groups as the Board determines to be necessary to carry out its activities; and
 
@@ -192,7 +192,7 @@ The Secretary shall prepare and submit to the President and the authorizing comm
 
 (1) Each person or entity to which Federal funds are made available under a contract or grant arrangement as authorized by this chapter shall keep such records as the Director of the Office shall prescribe, including records which fully disclose the amount and disposition by such person or entity of such funds, the total cost of the activities for which such funds were so made available, the amount of that portion of such cost supplied from other sources, and such other records as will facilitate an effective audit.
 
-(2) The Director of the Office and the Comptroller General of the United States, or any of their duly authorized representatives, shall, until the expiration of 3 years after the completion of the activities (referred to in paragraph (1)) of any person or entity pursuant to any contract or grant arrangement referred to in subsection (a) of this section, have access for the purpose of audit and examination to any books, documents, papers, and records of such person or entity which, in the judgment of the Director or the Comptroller General, may be related or pertinent to such contract or grant arrangement.
+(2) The Director of the Office and the Comptroller General of the United States, or any of their duly authorized representatives, shall, until the expiration of 3 years after the completion of the activities (referred to in paragraph (1)) of any person or entity pursuant to any contract or grant arrangement referred to in subsection (a), have access for the purpose of audit and examination to any books, documents, papers, and records of such person or entity which, in the judgment of the Director or the Comptroller General, may be related or pertinent to such contract or grant arrangement.
 
 
 <a id="section-2908"></a>

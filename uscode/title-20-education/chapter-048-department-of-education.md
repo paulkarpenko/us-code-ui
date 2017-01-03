@@ -142,13 +142,15 @@ Ex. Ord. No. 12900, Feb. 22, 1994, 59 F.R. 9061, which established in the Depart
 Ex. Ord. No. 13230, Oct. 12, 2001, 66 F.R. 52841, which established in the Department of Education the President’s Advisory Commission on Educational Excellence for Hispanic Americans and the White House Initiative on Educational Excellence for Hispanic Americans, set forth reporting requirements, and required cooperation by executive departments and agencies, was revoked by Ex. Ord. No. 13555, § 4(a), Oct. 19, 2010, 75 F.R. 65420, set out below.
 
 #### Extension of Term of President’s Advisory Commission on Educational Excellence for Hispanic Americans
-Term of President’s Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of President’s Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 1999, by Ex. Ord. No. 13062, § 1(d), Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Previous extensions of term of President’s Advisory Commission on Educational Excellence for Hispanic Americans were contained in the following prior Executive Orders:
 
-Term of President’s Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, extended term until Sept. 30, 2001.
 
-Term of President’s Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 13062, § 1(d), Sept. 29, 1997, 62 F.R. 51755, extended term until Sept. 30, 1999.
+
+Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, extended term until Sept. 30, 1997.
 
 #### Ex. Ord. No. 13555. White House Initiative on Educational Excellence for Hispanics
 Ex. Ord. No. 13555, Oct. 19, 2010, 75 F.R. 65417, provided:
@@ -261,7 +263,11 @@ Sec. 2. General Provisions. (a) Nothing in this order shall be construed to impa
 Barack Obama.
 
 #### Extension of Term of President’s Advisory Commission on Educational Excellence for Hispanics
-Term of President’s Advisory Commission on Educational Excellence for Hispanics extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Advisory Commission on Educational Excellence for Hispanics extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+Previous extension of term of President’s Advisory Commission on Educational Excellence for Hispanics was contained in the following prior Executive Order:
+
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
 #### Ex. Ord. No. 13621. White House Initiative on Educational Excellence for African Americans
 Ex. Ord. No. 13621, July 26, 2012, 77 F.R. 45471, provided:
@@ -377,7 +383,11 @@ Sec. 4. General Provisions. (a) The heads of agencies shall assist and provide i
 Barack Obama.
 
 #### Extension of Term of President’s Advisory Commission on Educational Excellence for African Americans
-Term of President’s Advisory Commission on Educational Excellence for African Americans extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Advisory Commission on Educational Excellence for African Americans extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+Previous extension of term of President’s Advisory Commission on Educational Excellence for African Americans was contained in the following prior Executive Order:
+
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
 #### Creating and Expanding Ladders of Opportunity for Boys and Young Men of Color
 Memorandum of President of the United States, Feb. 27, 2014, 79 F.R. 12923, provided:
@@ -662,7 +672,7 @@ There shall be in the Department an Office of Elementary and Secondary Education
 #### References in Text
 The Elementary and Secondary Education Act of 1965, referred to in text, is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part C of title I of the Act is classified generally to part C (§ 6391 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
-The Higher Education Act of 1965, referred to in text, is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Subpart 5 of part A of title IV of this Act is classified generally to subpart 5 (§ 1070d–2) of part A of subchapter IV of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
+The Higher Education Act of 1965, referred to in text, is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Subpart 5 of part A of title IV of the Act is classified generally to subpart 5 (§ 1070d–2) of part A of subchapter IV of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
 
 #### Amendments
 1994—Pub. L. 103–382 substituted “part C” for “subpart 1 of part B”.
@@ -698,6 +708,7 @@ There shall be in the Department an Office of Career, Technical, and Adult Educa
 
 ### Statutory Notes
 
+#### Amendments
 2014—Pub. L. 113–76 substituted, in section catchline, “Office of Career, Technical, and Adult Education” for “Office of Vocational and Adult Education” and, in text, “Office of Career, Technical, and Adult Education” for “Office of Vocational and Adult Education”, “Assistant Secretary for Career, Technical, and Adult Education” for “Assistant Secretary for Vocational and Adult Education”, and “career, technical, and adult education” for “vocational and adult education” in two places.
 
 
@@ -867,7 +878,7 @@ Another prior section 214 of Pub. L. 96–88 was renumbered section 217 and is c
 
 (2) **Duties** — The Director shall—
 
-  (A) be responsible for administering this title; 11 See References in Text note below.
+  (A) be responsible for administering part A of title VI of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 7401](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7401) et seq.];
 
   (B) be involved in, and be primarily responsible for, the development of all policies affecting Indian children and adults under programs administered by the Office of Elementary and Secondary Education;
 
@@ -884,12 +895,18 @@ Another prior section 214 of Pub. L. 96–88 was renumbered section 217 and is c
 ### Statutory Notes
 
 #### References in Text
-This title, referred to in subsec. (b)(2)(A), is title II of Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 671, which is classified to this subchapter, but probably should have been a reference to part A of title IX of the Elementary and Secondary Education Act of 1965. Part A of title IX of that Act was classified generally to part A (§ 7801 et seq.) of subchapter IX of chapter 70 of this title, prior to general amendment by Pub. L. 107–110, title IX, § 901, Jan. 8, 2002, 115 Stat. 1956. Provisions similar to those formerly appearing in part A of title IX are contained in part A of title VII of that Act, which is classified generally to part A (§ 7401 et seq.) of subchapter VII of chapter 70 of this title. For complete classification of the Elementary and Secondary Education Act of 1965 to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title VI of the Act is classified generally to part A (§ 7401 et seq.) of subchapter VI of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
 #### Prior Provisions
 A prior section 215 of Pub. L. 96–88 was renumbered section 217 and is classified to [section 3424 of this title](./chapter-048-department-of-education.md#section-3424).
 
 Provisions similar to those in this section were contained in [section 2641 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2641&num=0&edition=prelim), Indians, prior to repeal by Pub. L. 103–382, § 367.
+
+#### Amendments
+2015—Subsec. (b)(2)(A). Pub. L. 114–95 substituted “be responsible for administering part A of title VI of the Elementary and Secondary Education Act of 1965” for “be responsible for administering this title”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Office of Educational Research and Improvement
 The Office of Educational Research and Improvement was established by [section 3419 of this title](./chapter-048-department-of-education.md#section-3419). Section 3419 was repealed and a new section 3419 establishing the Institute of Educational Sciences was enacted by Pub. L. 107–279, title IV, § 402(2), Nov. 5, 2002, 116 Stat. 1985.
@@ -950,7 +967,7 @@ The Office of Educational Research and Improvement was established by [section 3
 
 **(f) Required meetings; establishment of subcommittees** The Committee shall meet at least twice each year. The Secretary may establish subcommittees of the Committee to facilitate coordination in important areas of Federal activity.
 
-**(g) Support assistance** The Secretary and the head of each agency represented on the Committee under subsection (c) of this section shall furnish necessary assistance to the Committee.
+**(g) Support assistance** The Secretary and the head of each agency represented on the Committee under subsection (c) shall furnish necessary assistance to the Committee.
 
 ### Statutory Notes
 
@@ -1019,7 +1036,7 @@ Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–24
 ## § 3427. Coordinator for the outlying areas
 **(a) Establishment** The Secretary shall designate an office of the Department to coordinate the activities of the Department as they relate to the outlying areas.
 
-**(b) Appointment** Not later than 90 days after January 8, 2002, the head of the office designated under subsection (a) of this section shall appoint a coordinator for the outlying areas, who shall be a person with substantial experience in the operation of Federal programs in the outlying areas.
+**(b) Appointment** Not later than 90 days after January 8, 2002, the head of the office designated under subsection (a) shall appoint a coordinator for the outlying areas, who shall be a person with substantial experience in the operation of Federal programs in the outlying areas.
 
 **(c) Duties** The coordinator for the outlying areas shall—
 
@@ -1051,7 +1068,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
   (B) the Elementary and Secondary Education Act of 1965;
 
-  (C) the Higher Education Act of 1965 [[20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq., [42 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751&num=0&edition=prelim) et seq.];
+  (C) the Higher Education Act of 1965 [[20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.];
 
   (D) the Education Amendments of 1978;
 
@@ -1099,7 +1116,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
 (1) all offices in the Office of the Assistant Secretary for Education or in the Education Division of the Department of Health, Education, and Welfare;
 
-(2) all offices in the Department of Health, Education, and Welfare established under the provisions of law listed in subparagraphs (A) through (Q) of subsection (a)(2) of this section;
+(2) all offices in the Department of Health, Education, and Welfare established under the provisions of law listed in subparagraphs (A) through (Q) of subsection (a)(2);
 
 (3) all offices in the Department of Health, Education, and Welfare established under the Rehabilitation Act of 1973 [[29 U.S.C. 701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) et seq.];
 
@@ -1126,7 +1143,7 @@ The General Education Provisions Act, referred to in subsec. (a)(2)(A), is title
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (a)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
 
 The Education Amendments of 1978, referred to in subsec. (a)(2)(D), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
@@ -1185,7 +1202,7 @@ Section, Pub. L. 96–88, title III, § 302, Oct. 17, 1979, 93 Stat. 679; Pub. L
 ## § 3443. Transfers from Department of Labor
 **(a) Functions relating to programs for the education of migrant and seasonal farmworkers** Notwithstanding the provisions of section 601 of this Act, there shall be transferred to the Secretary, at such time on or after May 4, 1980, as the Secretary certifies that there has been established in the Department a single component responsible for the administration and the coordination of programs relating to the education of migrants, all functions of the Secretary of Labor or the Department of Labor relating to such education.
 
-**(b) Authorization to conduct functions** The Secretary is authorized to conduct the functions transferred by subsection (a) of this section.
+**(b) Authorization to conduct functions** The Secretary is authorized to conduct the functions transferred by subsection (a).
 
 ### Statutory Notes
 
@@ -1217,7 +1234,7 @@ A prior section 302 of Pub. L. 96–88 was classified to [section 3442 of this t
 
 (2) Except as provided in paragraph (1), no mission oriented research functions or programs of the National Science Foundation or any other Federal agency shall be transferred by this chapter.
 
-**(b) Authority of Secretary; consultation and advice** The Secretary is authorized to conduct the programs transferred by subsection (a) of this section. In conducting such programs the Secretary shall consult, as appropriate, with the Director of the National Science Foundation, and shall establish advisory mechanisms designed to assure that scientists and engineers are fully involved in the development, implementation, and review of science education programs.
+**(b) Authority of Secretary; consultation and advice** The Secretary is authorized to conduct the programs transferred by subsection (a). In conducting such programs the Secretary shall consult, as appropriate, with the Director of the National Science Foundation, and shall establish advisory mechanisms designed to assure that scientists and engineers are fully involved in the development, implementation, and review of science education programs.
 
 **(c) Report by Secretary** The annual report to be transmitted by the Secretary pursuant to [section 3486 of this title](./chapter-048-department-of-education.md#section-3486) shall include a description of arrangements, developed by the Secretary in consultation with the Director of the National Science Foundation, for coordinated planning and operation of science education programs, including measures to facilitate the implementations of successful innovations.
 
@@ -1403,7 +1420,7 @@ Except as otherwise provided in this chapter, the Secretary may delegate any fun
 ## § 3473. Reorganization of Department
 **(a) Authorization; limitations** The Secretary is authorized, subject to the requirements of [section 3412(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3412/f&num=0&edition=prelim), to allocate or reallocate functions among the officers of the Department, and to establish, consolidate, alter, or discontinue such organizational entities within the Department as may be necessary or appropriate, but the authority of the Secretary under this subsection does not extend to—
 
-(1) any office, bureau, unit, or other entity transferred to the Department and established by statute or any function vested by statute in such an entity or officer of such an entity, except as provided in subsection (b) of this section;
+(1) any office, bureau, unit, or other entity transferred to the Department and established by statute or any function vested by statute in such an entity or officer of such an entity, except as provided in subsection (b);
 
 (2) the abolition of organizational entities established by this chapter; or
 
@@ -1536,7 +1553,7 @@ The Secretary is authorized to establish, alter, discontinue, or maintain such r
 
 (7) transportation for dependents of employees of the Department to the nearest appropriate educational facilities.
 
-**(b) Reimbursements** The furnishing of medical treatment under paragraph (1) of subsection (a) of this section and the furnishing of services and supplies under paragraphs (2), (3), and (4) of subsection (a) of this section shall be at prices reflecting reasonable value as determined by the Secretary.
+**(b) Reimbursements** The furnishing of medical treatment under paragraph (1) of subsection (a) and the furnishing of services and supplies under paragraphs (2), (3), and (4) of subsection (a) shall be at prices reflecting reasonable value as determined by the Secretary.
 
 **(c) Appropriation credits and refunds** Proceeds from reimbursements under this section may be credited to the appropriation of funds that bear or will bear all or part of the cost of such work or services or used to refund excess sums when necessary.
 
@@ -1628,7 +1645,7 @@ The Secretary shall cause a seal of office to be made for the Department of such
 (3) the reduction of excessive or burdensome regulation and of unnecessary duplication and fragmentation in Federal education programs,
 accompanied where necessary by recommendations for proposed legislation for the achievement of such objectives.
 
-**(b) Estimate on non-Federal personnel employed** The report required by subsection (a) of this section shall also include an estimate of the extent of the non-Federal personnel employed pursuant to contracts entered into by the Department under [section 3475 of this title](./chapter-048-department-of-education.md#section-3475) or under any other authority (including any subcontract thereunder), the number of such contracts and subcontracts pursuant to which non-Federal personnel are employed, and the total cost of those contracts and subcontracts.
+**(b) Estimate on non-Federal personnel employed** The report required by subsection (a) shall also include an estimate of the extent of the non-Federal personnel employed pursuant to contracts entered into by the Department under [section 3475 of this title](./chapter-048-department-of-education.md#section-3475) or under any other authority (including any subcontract thereunder), the number of such contracts and subcontracts pursuant to which non-Federal personnel are employed, and the total cost of those contracts and subcontracts.
 
 ### Statutory Notes
 
@@ -1682,7 +1699,7 @@ Subject to the limitations contained in subtitle A of this title, there are auth
 
 (11) title IV of the Civil Rights Act of 1964 [[42 U.S.C. 2000c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000c&num=0&edition=prelim) et seq.];
 
-(12) the Navajo Community College Act [[25 U.S.C. 640a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section640a&num=0&edition=prelim) et seq.] and the Tribally Controlled Colleges and Universities Assistance Act of 1978 [[25 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1801&num=0&edition=prelim) et seq.];
+(12) the Navajo Community College Act and the Tribally Controlled Colleges and Universities Assistance Act of 1978 [[25 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1801&num=0&edition=prelim) et seq.];
 
 (13) part C of title IX of the Elementary and Secondary Education Act of 1965,1 relating to Women’s Educational Equity; and
 
@@ -1715,7 +1732,7 @@ The Vocational Education Act of 1963, referred to in par. (10), was title I of P
 
 The Civil Rights Act of 1964, referred to in par. (11), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title IV of the Civil Rights Act of 1964 is classified generally to subchapter IV (§ 2000c et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
 
-The Navajo Community College Act, referred to in par. (12), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 640a of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section640a&num=0&edition=prelim) and Tables.
+The Navajo Community College Act, referred to in par. (12), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, which was classified to section 640a et seq. of Title 25, Indians, and was omitted from the Code as being of special and not general application.
 
 The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in par. (12), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§ 1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1801&num=0&edition=prelim) and Tables.
 
@@ -1847,7 +1864,7 @@ shall continue in effect according to their terms until modified, terminated, su
 
 (2) The Secretary is authorized to promulgate regulations providing for the orderly transfer of proceedings continued under paragraph (1) to the Department.
 
-**(c) Actions** Except as provided in subsection (e) of this section—
+**(c) Actions** Except as provided in subsection (e)—
 
 (1) the provisions of this chapter shall not affect suits commenced prior to May 4, 1980, and
 

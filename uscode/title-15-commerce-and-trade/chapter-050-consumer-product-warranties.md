@@ -62,6 +62,9 @@ For the purposes of this chapter:
 #### References in Text
 For definition of Canal Zone, referred to in par. (15), see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 
+#### Short Title of 2015 Amendment
+Pub. L. 114–51, § 1, Sept. 24, 2015, 129 Stat. 494, provided that: “This Act [amending [section 2302 of this title](./chapter-050-consumer-product-warranties.md#section-2302) and enacting provisions set out as notes under [section 2302 of this title](./chapter-050-consumer-product-warranties.md#section-2302)] may be cited as the ‘E-Warranty Act of 2015’.”
+
 #### Short Title
 Pub. L. 93–637, § 1, Jan. 4, 1975, 88 Stat. 2183, provided: “That this act [enacting this chapter and sections 57a to 57c of this title, amending sections 45, 46, 49, 50, 52, 56, and 58 of this title, and enacting provisions set out as notes under sections 45, 56, 57a, and 57b of this title] may be cited as the ‘Magnuson-Moss Warranty—Federal Trade Commission Improvement Act’.”
 
@@ -96,7 +99,7 @@ Pub. L. 93–637, § 1, Jan. 4, 1975, 88 Stat. 2183, provided: “That this act 
 
 (13) The elements of the warranty in words or phrases which would not mislead a reasonable, average consumer as to the nature or scope of the warranty.
 
-**(b) Availability of terms to consumer; manner and form for presentation and display of information; duration; extension of period for written warranty or service contract**
+**(b) Availability of terms to consumer; manner and form for presentation and display of information; duration; extension of period for written warranty or service contract; electronic display of terms of warranty**
 
 (1)
 
@@ -108,6 +111,20 @@ Pub. L. 93–637, § 1, Jan. 4, 1975, 88 Stat. 2183, provided: “That this act 
 
 (3) The Commission may prescribe rules for extending the period of time a written warranty or service contract is in effect to correspond with any period of time in excess of a reasonable period (not less than 10 days) during which the consumer is deprived of the use of such consumer product by reason of failure of the product to conform with the written warranty or by reason of the failure of the warrantor (or service contractor) to carry out such warranty (or service contract) within the period specified in the warranty (or service contract).
 
+(4)
+
+  (A) Except as provided in subparagraph (B), the rules prescribed under this subsection shall allow for the satisfaction of all requirements concerning the availability of terms of a written warranty on a consumer product under this subsection by—
+
+    (i) making available such terms in an accessible digital format on the Internet website of the manufacturer of the consumer product in a clear and conspicuous manner; and
+
+    (ii) providing to the consumer (or prospective consumer) information with respect to how to obtain and review such terms by indicating on the product or product packaging or in the product manual—
+
+      (I) the Internet website of the manufacturer where such terms can be obtained and reviewed; and
+
+      (II) the phone number of the manufacturer, the postal mailing address of the manufacturer, or another reasonable non-Internet based means of contacting the manufacturer to obtain and review such terms.
+
+  (B) With respect to any requirement that the terms of any written warranty for a consumer product be made available to the consumer (or prospective consumer) prior to sale of the product, in a case in which a consumer product is offered for sale in a retail location, by catalog, or through door-to-door sales, subparagraph (A) shall only apply if the seller makes available, through electronic or other means, at the location of the sale to the consumer purchasing the consumer product the terms of the warranty for the consumer product before the purchase.
+
 **(c) Prohibition on conditions for written or implied warranty; waiver by Commission** No warrantor of a consumer product may condition his written or implied warranty of such product on the consumer’s using, in connection with such product, any article or service (other than article or service provided without charge under the terms of the warranty) which is identified by brand, trade, or corporate name; except that the prohibition of this subsection may be waived by the Commission if—
 
 (1) the warrantor satisfies the Commission that the warranted product will function properly only if the article or service so identified is used in connection with the warranted product, and
@@ -118,6 +135,17 @@ The Commission shall identify in the Federal Register, and permit public comment
 **(d) Incorporation by reference of detailed substantive warranty provisions** The Commission may by rule devise detailed substantive warranty provisions which warrantors may incorporate by reference in their warranties.
 
 **(e) Applicability to consumer products costing more than $5** The provisions of this section apply only to warranties which pertain to consumer products actually costing the consumer more than $5.
+
+### Statutory Notes
+
+#### Amendments
+2015—Subsec. (b)(4). Pub. L. 114–51 added par. (4).
+
+#### Findings
+Pub. L. 114–51, § 2, Sept. 24, 2015, 129 Stat. 494, provided that: “Congress makes the following findings: “(1) Many manufacturers and consumers prefer to have the option to provide or receive warranty information online. “(2) Modernizing warranty notification rules is necessary to allow the United States to continue to compete globally in manufacturing, trade, and the development of consumer products connected to the Internet. “(3) Allowing an electronic warranty option would expand consumer access to relevant consumer information in an environmentally friendly way, and would provide additional flexibility to manufacturers to meet their labeling and warranty requirements.”
+
+#### Revision of Rules
+Pub. L. 114–51, § 3(b), Sept. 24, 2015, 129 Stat. 495, provided that: “(1) In general.—Not later than 1 year after the date of the enactment of this Act [Sept. 24, 2015], the Federal Trade Commission shall revise the rules prescribed under such section [meaning section 102(b) of Pub. L. 93–637, which is classified to subsec. (b) of this section] to comply with the requirements of paragraph (4) of such section, as added by subsection (a) of this section [amending this section]. “(2) Authority to waive requirement for oral presentation.—In revising rules under paragraph (1), the Federal Trade Commission may waive the requirement of section 109(a) of such Act ([15 U.S.C. 2309(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2309/a&num=0&edition=prelim)) to give interested persons an opportunity for oral presentation if the Commission determines that giving interested persons such opportunity would interfere with the ability of the Commission to revise rules under paragraph (1) in a timely manner.”
 
 
 <a id="section-2303"></a>
@@ -149,17 +177,17 @@ The Commission shall identify in the Federal Register, and permit public comment
 
 **(b) Duties and conditions imposed on consumer by warrantor**
 
-(1) In fulfilling the duties under subsection (a) of this section respecting a written warranty, the warrantor shall not impose any duty other than notification upon any consumer as a condition of securing remedy of any consumer product which malfunctions, is defective, or does not conform to the written warranty, unless the warrantor has demonstrated in a rulemaking proceeding, or can demonstrate in an administrative or judicial enforcement proceeding (including private enforcement), or in an informal dispute settlement proceeding, that such a duty is reasonable.
+(1) In fulfilling the duties under subsection (a) respecting a written warranty, the warrantor shall not impose any duty other than notification upon any consumer as a condition of securing remedy of any consumer product which malfunctions, is defective, or does not conform to the written warranty, unless the warrantor has demonstrated in a rulemaking proceeding, or can demonstrate in an administrative or judicial enforcement proceeding (including private enforcement), or in an informal dispute settlement proceeding, that such a duty is reasonable.
 
-(2) Notwithstanding paragraph (1), a warrantor may require, as a condition to replacement of, or refund for, any consumer product under subsection (a) of this section, that such consumer product shall be made available to the warrantor free and clear of liens and other encumbrances, except as otherwise provided by rule or order of the Commission in cases in which such a requirement would not be practicable.
+(2) Notwithstanding paragraph (1), a warrantor may require, as a condition to replacement of, or refund for, any consumer product under subsection (a), that such consumer product shall be made available to the warrantor free and clear of liens and other encumbrances, except as otherwise provided by rule or order of the Commission in cases in which such a requirement would not be practicable.
 
 (3) The Commission may, by rule define in detail the duties set forth in subsection (a) of this section and the applicability of such duties to warrantors of different categories of consumer products with “full (statement of duration)” warranties.
 
-(4) The duties under subsection (a) of this section extend from the warrantor to each person who is a consumer with respect to the consumer product.
+(4) The duties under subsection (a) extend from the warrantor to each person who is a consumer with respect to the consumer product.
 
-**(c) Waiver of standards** The performance of the duties under subsection (a) of this section shall not be required of the warrantor if he can show that the defect, malfunction, or failure of any warranted consumer product to conform with a written warranty, was caused by damage (not resulting from defect or malfunction) while in the possession of the consumer, or unreasonable use (including failure to provide reasonable and necessary maintenance).
+**(c) Waiver of standards** The performance of the duties under subsection (a) shall not be required of the warrantor if he can show that the defect, malfunction, or failure of any warranted consumer product to conform with a written warranty, was caused by damage (not resulting from defect or malfunction) while in the possession of the consumer, or unreasonable use (including failure to provide reasonable and necessary maintenance).
 
-**(d) Remedy without charge** For purposes of this section and of [section 2302(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2302/c&num=0&edition=prelim), the term “without charge” means that the warrantor may not assess the consumer for any costs the warrantor or his representatives incur in connection with the required remedy of a warranted consumer product. An obligation under subsection (a)(1)(A) of this section to remedy without charge does not necessarily require the warrantor to compensate the consumer for incidental expenses; however, if any incidental expenses are incurred because the remedy is not made within a reasonable time or because the warrantor imposed an unreasonable duty upon the consumer as a condition of securing remedy, then the consumer shall be entitled to recover reasonable incidental expenses which are so incurred in any action against the warrantor.
+**(d) Remedy without charge** For purposes of this section and of [section 2302(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2302/c&num=0&edition=prelim), the term “without charge” means that the warrantor may not assess the consumer for any costs the warrantor or his representatives incur in connection with the required remedy of a warranted consumer product. An obligation under subsection (a)(1)(A) to remedy without charge does not necessarily require the warrantor to compensate the consumer for incidental expenses; however, if any incidental expenses are incurred because the remedy is not made within a reasonable time or because the warrantor imposed an unreasonable duty upon the consumer as a condition of securing remedy, then the consumer shall be entitled to recover reasonable incidental expenses which are so incurred in any action against the warrantor.
 
 **(e) Incorporation of standards to products designated with full warranty for purposes of judicial actions** If a supplier designates a warranty applicable to a consumer product as a “full (statement of duration)” warranty, then the warranty on such product shall, for purposes of any action under [section 2310(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2310/d&num=0&edition=prelim) or under any State law, be deemed to incorporate at least the minimum requirements of this section and rules prescribed under this section.
 
@@ -185,7 +213,7 @@ Nothing in this chapter shall be construed to prevent any warrantor from designa
 
 <a id="section-2308"></a>
 ## § 2308. Implied warranties
-**(a) Restrictions on disclaimers or modifications** No supplier may disclaim or modify (except as provided in subsection (b) of this section) any implied warranty to a consumer with respect to such consumer product if (1) such supplier makes any written warranty to the consumer with respect to such consumer Product, or (2) at the time of sale, or within 90 days thereafter, such supplier enters into a service contract with the consumer which applies to such consumer product.
+**(a) Restrictions on disclaimers or modifications** No supplier may disclaim or modify (except as provided in subsection (b)) any implied warranty to a consumer with respect to such consumer product if (1) such supplier makes any written warranty to the consumer with respect to such consumer Product, or (2) at the time of sale, or within 90 days thereafter, such supplier enters into a service contract with the consumer which applies to such consumer product.
 
 **(b) Limitation on duration** For purposes of this chapter (other than [section 2304(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2304/a/2&num=0&edition=prelim)), implied warranties may be limited in duration to the duration of a written warranty of reasonable duration, if such limitation is conscionable and is set forth in clear and unmistakable language and prominently displayed on the face of the warranty.
 
@@ -214,11 +242,11 @@ Nothing in this chapter shall be construed to prevent any warrantor from designa
   (B) such procedure, and its implementation, meets the requirements of such rules, and
 
   (C) he incorporates in a written warranty a requirement that the consumer resort to such procedure before pursuing any legal remedy under this section respecting such warranty,
-  then (i) the consumer may not commence a civil action (other than a class action) under subsection (d) of this section unless he initially resorts to such procedure; and (ii) a class of consumers may not proceed in a class action under subsection (d) of this section except to the extent the court determines necessary to establish the representative capacity of the named plaintiffs, unless the named plaintiffs (upon notifying the defendant that they are named plaintiffs in a class action with respect to a warranty obligation) initially resort to such procedure. In the case of such a class action which is brought in a district court of the United States, the representative capacity of the named plaintiffs shall be established in the application of rule 23 of the Federal Rules of Civil Procedure. In any civil action arising out of a warranty obligation and relating to a matter considered in such a procedure, any decision in such procedure shall be admissible in evidence.
+  then (i) the consumer may not commence a civil action (other than a class action) under subsection (d) of this section unless he initially resorts to such procedure; and (ii) a class of consumers may not proceed in a class action under subsection (d) except to the extent the court determines necessary to establish the representative capacity of the named plaintiffs, unless the named plaintiffs (upon notifying the defendant that they are named plaintiffs in a class action with respect to a warranty obligation) initially resort to such procedure. In the case of such a class action which is brought in a district court of the United States, the representative capacity of the named plaintiffs shall be established in the application of rule 23 of the Federal Rules of Civil Procedure. In any civil action arising out of a warranty obligation and relating to a matter considered in such a procedure, any decision in such procedure shall be admissible in evidence.
 
 (4) The Commission on its own initiative may, or upon written complaint filed by any interested person shall, review the bona fide operation of any dispute settlement procedure resort to which is stated in a written warranty to be a prerequisite to pursuing a legal remedy under this section. If the Commission finds that such procedure or its implementation fails to comply with the requirements of the rules under paragraph (2), the Commission may take appropriate remedial action under any authority it may have under this chapter or any other provision of law.
 
-(5) Until rules under paragraph (2) take effect, this subsection shall not affect the validity of any informal dispute settlement procedure respecting consumer warranties, but in any action under subsection (d) of this section, the court may invalidate any such procedure if it finds that such procedure is unfair.
+(5) Until rules under paragraph (2) take effect, this subsection shall not affect the validity of any informal dispute settlement procedure respecting consumer warranties, but in any action under subsection (d), the court may invalidate any such procedure if it finds that such procedure is unfair.
 
 **(b) Prohibited acts** It shall be a violation of [section 45(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section45/a/1&num=0&edition=prelim) for any person to fail to comply with any requirement imposed on such person by this chapter (or a rule thereunder) or to violate any prohibition contained in this chapter (or a rule thereunder).
 
@@ -230,7 +258,7 @@ Nothing in this chapter shall be construed to prevent any warrantor from designa
 
 **(d) Civil action by consumer for damages, etc.; jurisdiction; recovery of costs and expenses; cognizable claims**
 
-(1) Subject to subsections (a)(3) and (e) of this section, a consumer who is damaged by the failure of a supplier, warrantor, or service contractor to comply with any obligation under this chapter, or under a written warranty, implied warranty, or service contract, may bring suit for damages and other legal and equitable relief—
+(1) Subject to subsections (a)(3) and (e), a consumer who is damaged by the failure of a supplier, warrantor, or service contractor to comply with any obligation under this chapter, or under a written warranty, implied warranty, or service contract, may bring suit for damages and other legal and equitable relief—
 
   (A) in any court of competent jurisdiction in any State or the District of Columbia; or
 
@@ -246,7 +274,7 @@ Nothing in this chapter shall be construed to prevent any warrantor from designa
 
   (C) if the action is brought as a class action, and the number of named plaintiffs is less than one hundred.
 
-**(e) Class actions; conditions; procedures applicable** No action (other than a class action or an action respecting a warranty to which subsection (a)(3) of this section applies) may be brought under subsection (d) of this section for failure to comply with any obligation under any written or implied warranty or service contract, and a class of consumers may not proceed in a class action under such subsection with respect to such a failure except to the extent the court determines necessary to establish the representative capacity of the named plaintiffs, unless the person obligated under the warranty or service contract is afforded a reasonable opportunity to cure such failure to comply. In the case of such a class action (other than a class action respecting a warranty to which subsection (a)(3) of this section applies) brought under subsection (d) of this section for breach of any written or implied warranty or service contract, such reasonable opportunity will be afforded by the named plaintiffs and they shall at that time notify the defendant that they are acting on behalf of the class. In the case of such a class action which is brought in a district court of the United States, the representative capacity of the named plaintiffs shall be established in the application of rule 23 of the Federal Rules of Civil Procedure.
+**(e) Class actions; conditions; procedures applicable** No action (other than a class action or an action respecting a warranty to which subsection (a)(3) applies) may be brought under subsection (d) for failure to comply with any obligation under any written or implied warranty or service contract, and a class of consumers may not proceed in a class action under such subsection with respect to such a failure except to the extent the court determines necessary to establish the representative capacity of the named plaintiffs, unless the person obligated under the warranty or service contract is afforded a reasonable opportunity to cure such failure to comply. In the case of such a class action (other than a class action respecting a warranty to which subsection (a)(3) applies) brought under subsection (d) for breach of any written or implied warranty or service contract, such reasonable opportunity will be afforded by the named plaintiffs and they shall at that time notify the defendant that they are acting on behalf of the class. In the case of such a class action which is brought in a district court of the United States, the representative capacity of the named plaintiffs shall be established in the application of rule 23 of the Federal Rules of Civil Procedure.
 
 **(f) Warrantors subject to enforcement of remedies** For purposes of this section, only the warrantor actually making a written affirmation of fact, promise, or undertaking shall be deemed to have created a written warranty, and any rights arising thereunder may be enforced under this section only against such warrantor and no other person.
 
@@ -272,7 +300,7 @@ Rule 23 of the Federal Rules of Civil Procedure, referred to in subsecs. (a)(3) 
 
 **(c) State warranty laws**
 
-(1) Except as provided in subsection (b) of this section and in paragraph (2) of this subsection, a State requirement—
+(1) Except as provided in subsection (b) and in paragraph (2) of this subsection, a State requirement—
 
   (A) which relates to labeling or disclosure with respect to written warranties or performance thereunder;
 

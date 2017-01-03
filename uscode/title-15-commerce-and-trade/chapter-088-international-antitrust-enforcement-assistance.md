@@ -34,7 +34,7 @@ Pub. L. 103–438, § 1, Nov. 2, 1994, 108 Stat. 4597, provided that: “This Ac
 
 (2) in enforcing any of such foreign antitrust laws.
 
-**(c) Special scope of authority** An investigation may be conducted under subsection (b) of this section, and antitrust evidence obtained through such investigation may be provided, without regard to whether the conduct investigated violates any of the Federal antitrust laws.
+**(c) Special scope of authority** An investigation may be conducted under subsection (b), and antitrust evidence obtained through such investigation may be provided, without regard to whether the conduct investigated violates any of the Federal antitrust laws.
 
 **(d) Rights and privileges preserved** A person may not be compelled in connection with an investigation under this section to give testimony or a statement, or to produce a document or other thing, in violation of any legally applicable right or privilege.
 
@@ -56,19 +56,19 @@ Section is comprised of section 3 of Pub. L. 103–438. Subsec. (e) of section 3
 
 (1) **Use of appointee to receive evidence**
 
-  (A) An order issued under subsection (a) of this section may direct that testimony or a statement be given, or a document or other thing be produced, to a person who shall be recommended by the Attorney General and appointed by the court.
+  (A) An order issued under subsection (a) may direct that testimony or a statement be given, or a document or other thing be produced, to a person who shall be recommended by the Attorney General and appointed by the court.
 
   (B) A person appointed under subparagraph (A) shall have power to administer any necessary oath and to take such testimony or such statement.
 
 (2) **Practice and procedure**
 
-  (A) An order issued under subsection (a) of this section may prescribe the practice and procedure for taking testimony and statements and for producing documents and other things.
+  (A) An order issued under subsection (a) may prescribe the practice and procedure for taking testimony and statements and for producing documents and other things.
 
   (B) Such practice and procedure may be in whole or in part the practice and procedure of the foreign state, or the regional economic integration organization, represented by the foreign antitrust authority with respect to which the Attorney General requests such order.
 
   (C) To the extent such order does not prescribe otherwise, any testimony and statements required to be taken shall be taken, and any documents and other things required to be produced shall be produced, in accordance with the Federal Rules of Civil Procedure.
 
-**(c) Rights and privileges preserved** A person may not be compelled under an order issued under subsection (a) of this section to give testimony or a statement, or to produce a document or other thing, in violation of any legally applicable right or privilege.
+**(c) Rights and privileges preserved** A person may not be compelled under an order issued under subsection (a) to give testimony or a statement, or to produce a document or other thing, in violation of any legally applicable right or privilege.
 
 **(d) Voluntary conduct** This section does not preclude a person in the United States from voluntarily giving testimony or a statement, or producing a document or other thing, in any manner acceptable to such person for use in an investigation by a foreign antitrust authority.
 
@@ -137,7 +137,7 @@ Executive Order 12356, referred to in par. (3), is Ex. Ord. No. 12356, Apr. 2, 1
 
   (B) a description of the manner in which a copy of the antitrust mutual assistance agreement, as so amended, may be obtained from the Attorney General and the Commission.
 
-**(d) Condition for validity** An antitrust mutual assistance agreement, or an agreement that makes an amendment to an antitrust mutual assistance agreement, with respect to which publication does not occur in accordance with subsections (a), (b), and (c) of this section shall not be considered to be in effect under this chapter.
+**(d) Condition for validity** An antitrust mutual assistance agreement, or an agreement that makes an amendment to an antitrust mutual assistance agreement, with respect to which publication does not occur in accordance with subsections (a), (b), and (c) shall not be considered to be in effect under this chapter.
 
 
 <a id="section-6207"></a>

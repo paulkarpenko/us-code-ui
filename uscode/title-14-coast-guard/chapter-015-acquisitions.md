@@ -2,7 +2,7 @@
 title: 14
 chapter: '15'
 heading: ACQUISITIONS
-section_count: 18
+section_count: 20
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -12,14 +12,22 @@ source: >-
 
 **(b) Mission.—** The mission of the acquisition directorate is—
 
-(1) to acquire and deliver assets and systems that increase operational readiness, enhance mission performance, and create a safe working environment; and
+(1) to acquire and deliver assets and systems that increase operational readiness, enhance mission performance, and create a safe working environment;
 
-(2) to assist in the development of a workforce that is trained and qualified to further the Coast Guard’s missions and deliver the best-value products and services to the Nation.
+(2) to assist in the development of a workforce that is trained and qualified to further the Coast Guard’s missions and deliver the best-value products and services to the Nation; and
+
+(3) to meet the needs of customers of major acquisition programs in the most cost-effective manner practicable.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 561, act Aug. 4, 1949, ch. 393, 63 Stat. 538, related to limitations on punishment by commanding officer, prior to repeal by act May 5, 1950, ch. 169, §§ 5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
+
+#### Amendments
+2016—Subsec. (b)(3). Pub. L. 114–328 added par. (3).
+
+#### Review Required
+Pub. L. 114–328, div. A, title VIII, § 899(c), Dec. 23, 2016, 130 Stat. 2335, provided that: “(1) Requirement.—The Commandant of the Coast Guard shall conduct a review of—“(A) the authorities provided to the Commandant in chapter 15 of title 14, United States Code, and other relevant statutes and regulations related to Coast Guard acquisitions, including developing recommendations to ensure that the Commandant plays an appropriate role in the development of requirements, acquisition processes, and the associated budget practices; “(B) implementation of the strategy prepared in accordance with [section 562(b)(2) of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section562/b/2&num=0&edition=prelim), United States Code, as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2017 [Pub. L. 114–328, see Tables for classification]; and “(C) acquisition policies, directives, and regulations of the Coast Guard to ensure such policies, directives, and regulations establish a customer-oriented acquisition system. “(2) Report.—Not later than March 1, 2017, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing, at a minimum, the following:“(A) The recommendations developed by the Commandant under paragraph (1) and other results of the review conducted under such paragraph. “(B) The actions the Commandant is taking, if any, within the Commandant’s existing authority to implement such recommendations. “(3) Modification of policies, directives, and regulations.—Not later than one year after the date of the enactment of this Act {Dec. 23, 2016], the Commandant of the Coast Guard shall modify the acquisition policies, directives, and regulations of the Coast Guard as necessary to ensure the development and implementation of a customer-oriented acquisition system, pursuant to the review under paragraph (1)(C).”
 
 
 <a id="section-562"></a>
@@ -30,35 +38,7 @@ A prior section 561, act Aug. 4, 1949, ch. 393, 63 Stat. 538, related to limitat
 
 (2) **Level 2 projects.—** — An individual may not be assigned as the project or program manager for a Level 2 acquisition unless the individual holds a Level II acquisition certification as a program manager.
 
-**(b) Guidance on Tenure and Accountability of Program and Project Managers.—**
-
-(1) **Issuance of guidance.—** — Not later than one year after the date of enactment of the Coast Guard Authorization Act of 2010, the Commandant shall issue guidance to address the qualifications, resources, responsibilities, tenure, and accountability of program and project managers for the management of acquisition projects and programs. The guidance shall address, at a minimum—
-
-  (A) the qualifications required for project or program managers, including the number of years of acquisition experience and the professional training levels to be required of those appointed to project or program management positions;
-
-  (B) authorities available to project or program managers, including, to the extent appropriate, the authority to object to the addition of new program requirements that would be inconsistent with the parameters established for an acquisition program; and
-
-  (C) the extent to which a project or program manager who initiates a new acquisition project or program will continue in management of that project or program without interruption until the delivery of the first production units of the program.
-
-(2) **Strategy.—**
-
-  (A) *In general.—* — Not later than 18 months after the date of enactment of this section, the Commandant shall develop a comprehensive strategy for enhancing the role of Coast Guard project or program managers in developing and carrying out acquisition programs.
-
-  (B) *Matters to be addressed.—* — The strategy required by this section shall address, at a minimum—
-
-    (i) the creation of a specific career path and career opportunities for individuals who are or may become project or program managers, including the rotational assignments that will be provided to project or program managers;
-
-    (ii) the provision of enhanced training and educational opportunities for individuals who are or may become project or program managers;
-
-    (iii) the provision of mentoring support to current and future project or program managers by experienced senior executives and program managers within the Coast Guard, and through rotational assignments to the Department of Defense;
-
-    (iv) the methods by which the Coast Guard will collect and disseminate best practices and lessons learned on systems acquisition to enhance project and program management throughout the Coast Guard;
-
-    (v) the templates and tools that will be used to support improved data gathering and analysis for project and program management and oversight purposes, including the metrics that will be utilized to assess the effectiveness of Coast Guard project or program managers in managing systems acquisition efforts; and
-
-    (vi) the methods by which the accountability of project or program managers for the results of acquisition projects and programs will be increased.
-
-**(c) Acquisition Workforce.—**
+**(b) Acquisition Workforce.—**
 
 (1) **In general.—** — The Commandant shall designate a sufficient number of positions to be in the Coast Guard’s acquisition workforce to perform acquisition-related functions at Coast Guard headquarters and field activities.
 
@@ -90,7 +70,7 @@ A prior section 561, act Aug. 4, 1949, ch. 393, 63 Stat. 538, related to limitat
 
 (4) **Appropriate expertise required.—** — The Commandant shall ensure that each individual assigned to a position in the acquisition workforce has the appropriate expertise to carry out the responsibilities of that position.
 
-**(d) Management Information System.—**
+**(c) Management Information System.—**
 
 (1) **In general.—** — The Commandant shall establish a management information system capability to improve acquisition workforce management and reporting.
 
@@ -100,11 +80,9 @@ A prior section 561, act Aug. 4, 1949, ch. 393, 63 Stat. 538, related to limitat
 
   (B) Promotion rates for officers and members of the Coast Guard in the acquisition workforce.
 
-**(e)** Repealed. Pub. L. 112–213, title II, § 210(c)(2)(A), Dec. 20, 2012, 126 Stat. 1551.]
+**(d) Appointments to Acquisition Positions.—** The Commandant shall ensure that no requirement or preference for officers or members of the Coast Guard is used in the consideration of persons for positions in the acquisition workforce.
 
-**(f) Appointments to Acquisition Positions.—** The Commandant shall ensure that no requirement or preference for officers or members of the Coast Guard is used in the consideration of persons for positions in the acquisition workforce.
-
-**(g) Career Paths.—**
+**(e) Career Paths.—**
 
 (1) **Identification of career paths.—** — To establish acquisition management as a core competency of the Coast Guard, the Commandant shall—
 
@@ -123,6 +101,8 @@ The date of enactment of the Coast Guard Authorization Act of 2010 and the date 
 A prior section 562, act Aug. 4, 1949, ch. 393, 63 Stat. 539; Aug. 3, 1950, ch. 536, § 27, 64 Stat. 407, related to deck courts, prior to repeal by act May 5, 1950, ch. 169, §§ 5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
 
 #### Amendments
+2016—Pub. L. 114–328 redesignated subsecs. (c), (d), (f), and (g) as (b), (c), (d), and (e), respectively, and struck out former subsec. (b) which related to guidance on tenure and accountability of program and project managers.
+
 2012—Subsec. (e). Pub. L. 112–213 struck out subsec. (e) which related to annual report on adequacy of acquisition workforce.
 
 2010—Pub. L. 111–330 amended Pub. L. 111–281, § 402(a), which enacted this section.
@@ -133,7 +113,7 @@ Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendm
 
 <a id="section-563"></a>
 ## § 563. Recognition of Coast Guard personnel for excellence in acquisition
-**(a) In General.—** Not later than 180 days after the date of enactment of the Coast Guard Authorization Act of 2010, the Commandant shall commence implementation of a program to recognize excellent performance by individuals and teams comprised of officers, members, and employees of the Coast Guard that contributed to the long-term success of a Coast Guard acquisition project or program.
+**(a) In General.—** The Commandant shall maintain a program to recognize excellent performance by individuals and teams comprised of officers, members, and employees of the Coast Guard that contributed to the long-term success of a Coast Guard acquisition project or program.
 
 **(b) Elements.—** The program shall include—
 
@@ -147,13 +127,12 @@ Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendm
 
 ### Statutory Notes
 
-#### References in Text
-The date of enactment of the Coast Guard Authorization Act of 2010, referred to in subsec. (a), is the date of enactment of Pub. L. 111–281, which was approved Oct. 15, 2010.
-
 #### Prior Provisions
 A prior section 563, act Aug. 4, 1949, ch. 393, 63 Stat. 539; Aug. 3, 1950, ch. 536, § 28, 64 Stat. 407, related to summary courts-martial, prior to repeal by act May 5, 1950, ch. 169, §§ 5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328 substituted “The Commandant shall maintain” for “Not later than 180 days after the date of enactment of the Coast Guard Authorization Act of 2010, the Commandant shall commence implementation of”.
+
 2010—Pub. L. 111–330 amended Pub. L. 111–281, § 402(a), which enacted this section.
 
 #### Effective Date of 2010 Amendment
@@ -180,6 +159,28 @@ Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendm
 
 (4) the Commandant has determined that the procurement was awarded in a manner consistent with Federal acquisition laws and regulations promulgated under those laws, including the Federal Acquisition Regulation.
 
+**(c) Acquisition of Unmanned Aerial Systems.—**
+
+(1) **In general.—** — During any fiscal year for which funds are appropriated for the design or construction of the Offshore Patrol Cutter, the Commandant—
+
+  (A) may not award a contract for design of an unmanned aerial system for use by the Coast Guard; and
+
+  (B) may acquire an unmanned aerial system only—
+
+    (i) if such a system has been acquired by, or has been used by, the Department of Defense or the Department of Homeland Security, or a component thereof, before the date on which the Commandant acquires the system; and
+
+    (ii) through an agreement with such a department or component, unless the unmanned aerial system can be obtained at less cost through independent contract action.
+
+(2) **Limitations on application.—**
+
+  (A) *Small unmanned aerial systems.—* — The limitations in paragraph (1)(B) do not apply to any small unmanned aerial system that consists of—
+
+    (i) an unmanned aircraft weighing less than 55 pounds on takeoff, including all components and equipment on board or otherwise attached to the aircraft; and
+
+    (ii) associated elements (including communication links and the components that control such aircraft) that are required for the safe and efficient operation of such aircraft.
+
+  (B) *Previously funded systems.—* — The limitations in paragraph (1) do not apply to the design or acquisition of an unmanned aerial system for which funds for research, development, test, and evaluation have been received from the Department of Defense or the Department of Homeland Security
+
 ### Statutory Notes
 
 #### References in Text
@@ -189,6 +190,8 @@ The Small Business Act, referred to in subsec. (a)(3), is Pub. L. 85–536, § 2
 A prior section 564, act Aug. 4, 1949, ch. 393, 63 Stat. 540; Aug. 3, 1950, ch. 536, § 29, 64 Stat. 407, related to general courts-martial, prior to repeal by act May 5, 1950, ch. 169, §§ 5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
 
 #### Amendments
+2016—Subsec. (c). Pub. L. 114–328 added subsec. (c).
+
 2012—Pub. L. 112–213 amended section generally. Prior to amendment, section related to prohibition on use of lead systems integrators and provided for certain exceptions to such prohibition.
 
 2010—Pub. L. 111–330 amended Pub. L. 111–281, § 402(a), which enacted this section.
@@ -395,9 +398,9 @@ Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendm
 
   (C) describes the missions the Coast Guard will not be able to achieve, by fiscal year, for each gap identified under subparagraph (A).
 
-(2) **Major acquisition program.—** — The term “major acquisition program” has the meaning given that term in section 569a(e).
+(2) **Major acquisition program.—** — The term “major acquisition program” has the meaning given that term in section 2903.
 
-(3) **Capital investment plan.—** — The term “capital investment plan” means the plan required under section 663(a)(1).
+(3) **Capital investment plan.—** — The term “capital investment plan” means the plan required under section 2902(a)(1).
 
 ### Statutory Notes
 
@@ -405,56 +408,20 @@ Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendm
 A prior section 569, act Aug. 4, 1949, ch. 393, 63 Stat. 542, related to trial by civil authorities for offenses against United States, prior to repeal by act May 5, 1950, ch. 169, §§ 5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
 
 #### Amendments
+2016—Subsec. (b)(2). Pub. L. 114–120, § 102(f)(1), substituted “in section 2903” for “in section 569a(e)”.
+
+Subsec. (b)(3). Pub. L. 114–120, § 102(f)(2), substituted “under section 2902(a)(1)” for “under section 663(a)(1)”.
+
 2014—Pub. L. 113–281 amended section generally. Prior to amendment, section related to submission of report, not later than Dec. 31, 2011, to appropriate congressional committees on the employment during the preceding year by Coast Guard contractors of individuals who were Coast Guard officials in the previous 5-year period.
 
 2012—Subsec. (a). Pub. L. 112–213 struck out “and annually thereafter,” after “December 31, 2011,”.
 
+#### Additional Submissions
+Pub. L. 114–120, title I, § 101(f), Feb. 8, 2016, 130 Stat. 32, provided that: “The Commandant of the Coast Guard shall submit to the Committee on Homeland Security of the House of Representatives— “(1) each plan required under [section 2904 of title 14](./chapter-029-reports.md#section-2904), United States Code, as added by subsection (a) of this section; “(2) each plan required under [section 2903(e) of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2903/e&num=0&edition=prelim), United States Code, as added by section 206 of this Act; “(3) each plan required under [section 2902 of title 14](./chapter-029-reports.md#section-2902), United States Code, as redesignated by subsection (d) of this section; and “(4) each mission need statement required under [section 569 of title 14](./chapter-015-acquisitions.md#section-569), United States Code.”
+
 
 <a id="section-569a"></a>
-## § 569a. Major acquisitions
-**(a) In General.—** In conjunction with the transmittal by the President to Congress of the budget of the United States for fiscal year 2014 and biennially thereafter, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of all major acquisition programs.
-
-**(b) Information To Be Included.—** Each report under subsection (a) shall include for each major acquisition program—
-
-(1) a statement of the Coast Guard’s mission needs and performance goals relating to such program, including a justification for any change to those needs and goals subsequent to a report previously submitted under this section;
-
-(2) a justification explaining how the projected number and capabilities of assets acquired under such program meet applicable mission needs and performance goals;
-
-(3) an identification of any and all mission hour gaps, accompanied by an explanation of how and when the Coast Guard will close those gaps;
-
-(4) an identification of any changes with respect to such program, including—
-
-  (A) any changes to the timeline for the acquisition of each new asset and the phaseout of legacy assets; and
-
-  (B) any changes to—
-
-    (i) the costs of new assets or legacy assets for that fiscal year or future fiscal years; or
-
-    (ii) the total acquisition cost;
-
-(5) a justification explaining how any change to such program fulfills the mission needs and performance goals of the Coast Guard;
-
-(6) a description of how the Coast Guard is planning for the integration of each new asset acquired under such program into the Coast Guard, including needs related to shore-based infrastructure and human resources;
-
-(7) an identification of how funds in the applicable fiscal year’s budget request will be allocated, including information on the purchase of specific assets;
-
-(8) a projection of the remaining operational lifespan and life-cycle cost of each legacy asset that also identifies any anticipated resource gaps;
-
-(9) a detailed explanation of how the costs of legacy assets are being accounted for within such program; and
-
-(10) an annual performance comparison of new assets to legacy assets.
-
-**(c) Adequacy of Acquisition Workforce.—** Each report under subsection (a) shall—
-
-(1) include information on the scope of the acquisition activities to be performed in the next fiscal year and on the adequacy of the current acquisition workforce to meet that anticipated workload;
-
-(2) specify the number of officers, members, and employees of the Coast Guard currently and planned to be assigned to each position designated under section 562(c) of this subchapter; and
-
-(3) identify positions that are or will be understaffed and actions that will be taken to correct such understaffing.
-
-**(d) Cutters Not Maintained in Class.—** Each report under subsection (a) shall identify which, if any, Coast Guard cutters that have been issued a certificate of classification by the American Bureau of Shipping have not been maintained in class, with an explanation detailing the reasons why the cutters have not been maintained in class.
-
-**(e) Major Acquisition Program Defined.—** In this section, the term “major acquisition program” means an ongoing acquisition undertaken by the Coast Guard with a life-cycle cost estimate greater than or equal to $300,000,000.
+## § 569a. Renumbered § 2903]
 
 ### Statutory Notes
 
@@ -560,19 +527,23 @@ A prior section 571, act Aug. 4, 1949, ch. 393, 63 Stat. 542, related to Treasur
 
   (A) the key performance parameters to be resolved through the integrated test and evaluation strategy;
 
-  (B) critical operational issues to be assessed in addition to the key performance parameters;
+  (B) the performance data to be used to determine whether the key performance parameters have been resolved;
 
-  (C) specific development test and evaluation phases and the scope of each phase;
+  (C) critical operational issues to be assessed in addition to the key performance parameters;
 
-  (D) modeling and simulation activities to be performed, if any, and the scope of such activities;
+  (D) the results during test and evaluation that will be required to demonstrate that a capability, asset, or subsystem meets performance requirements;
 
-  (E) early operational assessments to be performed, if any, and the scope of such assessments;
+  (E) specific development test and evaluation phases and the scope of each phase;
 
-  (F) operational test and evaluation phases;
+  (F) modeling and simulation activities to be performed, if any, and the scope of such activities;
 
-  (G) an estimate of the resources, including funds, that will be required for all test, evaluation, assessment, modeling, and simulation activities; and
+  (G) early operational assessments to be performed, if any, and the scope of such assessments;
 
-  (H) the Government entity or independent entity that will perform the test, evaluation, assessment, modeling, and simulation activities.
+  (H) operational test and evaluation phases;
+
+  (I) an estimate of the resources, including funds, that will be required for all test, evaluation, assessment, modeling, and simulation activities; and
+
+  (J) the Government entity or independent entity that will perform the test, evaluation, assessment, modeling, and simulation activities.
 
 (4) **Update.—** — The Chief Acquisition Officer must approve an updated master plan whenever there is a revision to project or program test and evaluation strategy, scope, or phasing.
 
@@ -594,6 +565,9 @@ A prior section 571, act Aug. 4, 1949, ch. 393, 63 Stat. 542, related to Treasur
 
 #### Prior Provisions
 A prior section 572, act Aug. 4, 1949, ch. 393, 63 Stat. 543, related to courts of inquiry, prior to repeal by act May 5, 1950, ch. 169, §§ 5, 14(v), 64 Stat. 145, 148, effective May 31, 1951.
+
+#### Amendments
+2016—Subsec. (d)(3)(B) to (J). Pub. L. 114–120 added subpars. (B) and (D) and redesignated former subpar. (B) as (C) and former subpars. (C) to (H) as (E) to (J), respectively.
 
 
 <a id="section-573"></a>
@@ -651,6 +625,8 @@ A prior section 572, act Aug. 4, 1949, ch. 393, 63 Stat. 543, related to courts 
 ### Statutory Notes
 
 #### References in Text
+Section 572(d)(1), referred to in subsec. (b)(1), was redesignated [section 572(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section572/f/1&num=0&edition=prelim) by Pub. L. 114–120, title II, § 204(a)(1), Feb. 8, 2016, 130 Stat. 34.
+
 The date of enactment of the Coast Guard Authorization Act of 2010, referred to in subsec. (c)(2)(A), (3)(A), (5), is the date of enactment of Pub. L. 111–281, which was approved Oct. 15, 2010.
 
 #### Prior Provisions
@@ -772,6 +748,31 @@ Pub. L. 113–281, title II, § 223, Dec. 18, 2014, 128 Stat. 3038, provided tha
 Pub. L. 113–6, div. D, title V, § 557, Mar. 26, 2013, 127 Stat. 377, provided that: “(a) Notwithstanding Office of Management and Budget Circular A–11, funds made available in fiscal year 2013, or any fiscal year thereafter, under Department of Homeland Security, Coast Guard, ‘Acquisition, Construction, and Improvements’ for—“(1) long lead time materials, components, and designs of a vessel of the Coast Guard shall be immediately available and allotted to make a contract award notwithstanding the availability of funds for production, outfitting, post-delivery activities, and spare or repair parts; and “(2) production of a vessel of the Coast Guard shall be immediately available and allotted to make a contract award notwithstanding the availability of funds for outfitting, post-delivery activities, and spare or repair parts. “(b) The Secretary of Homeland Security shall develop fiscal policy that prescribes Coast Guard budgetary policies, procedures and technical direction necessary to comply with subsection (a) of this section and consistent with the Department of Defense Financial Management Regulation (Volume 2A, Chapter 1 C. Procedures for Full Funding) to include the costs associated with outfitting and post-delivery activities; spare and repair parts; and long lead time materials. The requirement set forth in this section shall not preclude the immediate availability or allotment of funds for fiscal year 2013, pursuant to subsection (a). “(c) In this section—“(1) the term ‘long lead time items’ means components, parts, material, or effort which must be procured in advance of the production award in order to maintain the production schedule; “(2) the term ‘outfitting’ means procurement or installation of onboard repair parts, other secondary items, equipage, and recreation items; precommissioning crew support; general use consumables furnished to the shipbuilder; the fitting out activity to fill a vessel’s initial allowances; and contractor-furnished spares; and “(3) the term ‘post-delivery activities’ means design, planning, Government-furnished material, and related labor for non-production and non-long lead time items contract activities and other work, including certifications, full operational capability activities and other equipment installation; spares, logistics, technical analysis, and support; correction of Government-responsible defects and deficiencies identified during builders trials, acceptance trials, and testing during the post-delivery period; costs of all work required to correct defects or deficiencies identified during the post-delivery period; and costs of all work required to correct trial card deficiencies on a vessel of a particular class, as well as on subsequent vessels of that class (whether or not delivered) until the corrective action for that cutter class is completed.”
 
 
+<a id="section-578"></a>
+## § 578. Role of Vice Commandant in major acquisition programs
+
+The Vice Commandant—
+
+(1) shall represent the customer of a major acquisition program with regard to trade-offs made among cost, schedule, technical feasibility, and performance with respect to such program; and
+
+(2) shall advise the Commandant in decisions regarding the balancing of resources against priorities, and associated trade-offs referred to in paragraph (1), on behalf of the customer of a major acquisition program.
+
+
+<a id="section-579"></a>
+## § 579. Extension of major acquisition program contracts
+**(a) In General.—** Notwithstanding [section 564(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section564/a/2&num=0&edition=prelim) and [section 2304 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304&num=0&edition=prelim), and subject to subsections (b) and (c) of this section, the Secretary may acquire additional units procured under a Coast Guard major acquisition program contract, by extension of such contract without competition, if the Director of the Cost Analysis Division of the Department of Homeland Security determines that the costs that would be saved through award of a new contract in accordance with such sections would not exceed the costs of such an award.
+
+**(b) Limitation on Number of Additional Units.—** The number of additional units acquired under a contract extension under this section may not exceed the number of additional units for which such determination is made.
+
+**(c) Determination of Costs Upon Request.—** The Director of the Cost Analysis Division of the Department of Homeland Security shall, at the request of the Secretary, determine for purposes of this section—
+
+(1) the costs that would be saved through award of a new major acquisition program contract in accordance with section 564(a)(2) for the acquisition of a number of additional units specified by the Secretary; and
+
+(2) the costs of such award, including the costs that would be incurred due to acquisition schedule delays and asset design changes associated with such award.
+
+**(d) Number of Extensions.—** A contract may be extended under this section more than once.
+
+
 <a id="section-581"></a>
 ## § 581. Definitions
 
@@ -781,9 +782,11 @@ In this chapter:
 
 (2) **Chief acquisition officer.—** — The term “Chief Acquisition Officer” means the officer appointed under [section 56 of this title](./chapter-003-composition-and-organization.md#section-56).
 
-(3) **Commandant.—** — The term “Commandant” means the Commandant of the Coast Guard.
+(3) **Customer of a major acquisition program.—** — The term “customer of a major acquisition program” means the operating field unit of the Coast Guard that will field the system or systems acquired under a major acquisition program.
 
-(4) **Level 1 acquisition.—** — The term “Level 1 acquisition” means—
+(4) **Commandant.—** — The term “Commandant” means the Commandant of the Coast Guard.
+
+(5) **Level 1 acquisition.—** — The term “Level 1 acquisition” means—
 
   (A) an acquisition by the Coast Guard—
 
@@ -805,30 +808,47 @@ In this chapter:
 
     (ii) because such acquisition is a joint acquisition.
 
-(5) **Level 2 acquisition.—** — The term “Level 2 acquisition” means an acquisition by the Coast Guard—
+(6) **Level 2 acquisition.—** — The term “Level 2 acquisition” means an acquisition by the Coast Guard—
 
   (A) the estimated life-cycle costs of which are equal to or less than $1,000,000,000, but greater than $300,000,000; or
 
-  (B) the estimated total acquisition costs of which are equal to or less than $300,000,0000, 11 So in original. but greater than $100,000,000.
+  (B) the estimated total acquisition costs of which are equal to or less than $300,000,000, but greater than $100,000,000.
 
-(6) **Life-cycle cost.—** — The term “life-cycle cost” means all costs for development, procurement, construction, and operations and support for a particular capability or asset, without regard to funding source or management control.
+(7) **Life-cycle cost.—** — The term “life-cycle cost” means all costs for development, procurement, construction, and operations and support for a particular capability or asset, without regard to funding source or management control.
 
-(7) **Project or program manager defined.—** — The term “project or program manager” means an individual designated—
+(8) **Major acquisition program.—** — The term “major acquisition program” means an ongoing acquisition undertaken by the Coast Guard with a life-cycle cost estimate greater than or equal to $300,000,000.
+
+(9) **Project or program manager defined.—** — The term “project or program manager” means an individual designated—
 
   (A) to develop, produce, and deploy a new asset to meet identified operational requirements; and
 
   (B) to manage cost, schedule, and performance of the acquisition, project, or program.
 
-(8) **Safety concern.—** — The term “safety concern” means any hazard associated with a capability or asset or a subsystem of a capability or asset that is likely to cause serious bodily injury or death to a typical Coast Guard user in testing, maintaining, repairing, or operating the capability, asset, or subsystem or any hazard associated with the capability, asset, or subsystem that is likely to cause major damage to the capability, asset, or subsystem during the course of its normal operation by a typical Coast Guard user.
+(10) **Safety concern.—** — The term “safety concern” means any hazard associated with a capability or asset or a subsystem of a capability or asset that is likely to cause serious bodily injury or death to a typical Coast Guard user in testing, maintaining, repairing, or operating the capability, asset, or subsystem or any hazard associated with the capability, asset, or subsystem that is likely to cause major damage to the capability, asset, or subsystem during the course of its normal operation by a typical Coast Guard user.
 
-(9) **Developmental test and evaluation.—** — The term “developmental test and evaluation” means—
+(11) **Developmental test and evaluation.—** — The term “developmental test and evaluation” means—
 
   (A) the testing of a capability or asset and the subsystems of the capability or asset to determine whether they meet all contractual performance requirements, including technical performance requirements, supportability requirements, and interoperability requirements and related specifications; and
 
   (B) the evaluation of the results of such testing.
 
-(10) **Operational test and evaluation.—** — The term “operational test and evaluation” means—
+(12) **Operational test and evaluation.—** — The term “operational test and evaluation” means—
 
   (A) the testing of a capability or asset and the subsystems of the capability or asset, under conditions similar to those in which the capability or asset and subsystems will actually be deployed, for the purpose of determining the effectiveness and suitability of the capability or asset and subsystems for use by typical Coast Guard users to conduct those missions for which the capability or asset and subsystems are intended to be used; and
 
   (B) the evaluation of the results of such testing.
+
+### Statutory Notes
+
+#### Amendments
+2016—Par. (3). Pub. L. 114–328, § 899(b)(1)(F)(ii), added par. (3). Former par. (3) redesignated (4).
+
+Pars. (4), (5). Pub. L. 114–328, § 899(b)(1)(F)(i), redesignated pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
+
+Par. (5)(B). Pub. L. 114–120 substituted “$300,000,000,” for “$300,000,0000,”.
+
+Pars. (6), (7). Pub. L. 114–328, § 899(b)(1)(F)(i), redesignated pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (9).
+
+Par. (8). Pub. L. 114–328, § 899(b)(1)(F)(iii), added par. (8). Former par. (8) redesignated (10).
+
+Pars. (9) to (12). Pub. L. 114–328, § 899(b)(1)(F)(i), redesignated pars. (7) to (10) as (9) to (12), respectively.

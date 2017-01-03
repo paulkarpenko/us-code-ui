@@ -114,7 +114,7 @@ In computing length of service, a competing employee—
 
   (A) shall be given to—
 
-    (i) the State or entity designated by the State to carry out rapid response activities under section 134(a)(2)(A) of the Workforce Investment Act of 1998; and
+    (i) the State or entity designated by the State to carry out rapid response activities under section 134(a)(2)(A) of the Workforce Investment Act of 1998; 11 See References in Text note below. and
 
     (ii) the chief elected official of such unit or each of such units of local government as may be appropriate; and
 
@@ -124,9 +124,9 @@ In computing length of service, a competing employee—
 
     (ii) when those separations will occur; and
 
-    (iii) any other matter which might facilitate the delivery of rapid response assistance or other services under title I of the Workforce Investment Act of 1998.
+    (iii) any other matter which might facilitate the delivery of rapid response assistance or other services under title I of the Workforce Investment Act of 1998.1
 
-(4) The Office shall prescribe such regulations as may be necessary to carry out this subsection. The Office shall consult with the Secretary of Labor on matters relating to title I of the Workforce Investment Act of 1998.
+(4) The Office shall prescribe such regulations as may be necessary to carry out this subsection. The Office shall consult with the Secretary of Labor on matters relating to title I of the Workforce Investment Act of 1998.1
 
 **(e)**
 
@@ -171,7 +171,7 @@ Section 8(b) of the Soil Conservation and Allotment Act, referred to in subsec. 
 
 Section 10(b) of the Agricultural Adjustment Act, referred to in subsec. (a)(C)(i), is classified to [section 610(b) of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section610/b&num=0&edition=prelim), Agriculture.
 
-The Workforce Investment Act of 1998, referred to in subsec. (d)(3), (4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. Section 134(a)(2)(A) of the Act is classified to [section 2864(a)(2)(A) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/a/2/A&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (d)(3), (4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I of the Act was classified principally to former chapter 30 (former § 2801 et seq.) of Title 29, Labor. Section 134(a)(2)(A) of the Act was classified to former [section 2864(a)(2)(A) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/a/2/A&num=0&edition=prelim). Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2013—Subsec. (f)(5). Pub. L. 113–66 substituted “September 30, 2018” for “September 30, 2014”.
@@ -261,7 +261,7 @@ Pub. L. 103–337, div. A, title X, § 1066, Oct. 5, 1994, 108 Stat. 2850, as am
 Pub. L. 102–484, div. D, title XLIV, § 4433(b), Oct. 23, 1992, 106 Stat. 2722, as amended by Pub. L. 103–337, div. A, title III, § 341(a), Oct. 5, 1994, 108 Stat. 2720, provided that: “(1) The provisions of section 3502(d) and (e) of title 5, United States Code (as added by subsection (a)) shall apply to employees of the Department of Defense according to their terms, except that, with respect to any reduction in force within that agency that would involve the separation of a significant number of employees (as determined under paragraph (1)(B) of such section 3502(d)), any reference in such section 3502(d) to ‘60 days’ shall, in the case of the employees described in paragraph (2), be deemed to read ‘120 days’. “(2) The employees described in this paragraph are those employees of the Department of Defense who are to be separated, due to a reduction in force described in paragraph (1), effective on or after the last day of the 90-day period referred to in subsection (a)(2) [see Effective Date of 1992 Amendment note above] and before February 1, 2000. “(3) Nothing in this subsection shall prevent the application of the amendment made by subsection (a) [amending this section] with respect to an employee if—“(A) the preceding paragraphs of this subsection do not apply with respect to such employee; and “(B) the amendment made by subsection (a) would otherwise apply with respect to such employee. “(4) The Secretary of Defense shall prescribe such regulations as may be necessary to carry out this subsection.”
 
 #### Indian Preference Laws Applicable to Bureau of Indian Affairs and Indian Health Service Positions
-Applicability of Indian preference laws to Bureau of Indian Affairs and Indian Health Service positions for purposes of reduction-in-force procedures under subsec. (a) of this section, see [section 472a(a) of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section472a/a&num=0&edition=prelim), Indians.
+Applicability of Indian preference laws to Bureau of Indian Affairs and Indian Health Service positions for purposes of reduction-in-force procedures under subsec. (a) of this section, see [section 5117(a) of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5117/a&num=0&edition=prelim), Indians.
 
 #### Ex. Ord. No. 12828. Delegation of Certain Personnel Management Authorities
 Ex. Ord. No. 12828, Jan. 5, 1993, 58 F.R. 2965, as amended by Ex. Ord. No. 13415, § 2(b), Dec. 1, 2006, 71 F.R. 70641, provided:
@@ -413,6 +413,11 @@ Pub. L. 107–296, title XIII, § 1313(c), Nov. 25, 2002, 116 Stat. 2296, provid
 
 **(c)** The Director of the Office of Personnel Management shall review each agency’s plan an 11 So in original. Probably should be “and”. may make any appropriate modifications in the plan, in consultation with the Director of the Office of Management and Budget. A plan under this section may not be implemented without the approval of the Directive 22 So in original. Probably should be “Director”. of the Office of Personnel Management.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 60 days after Nov. 25, 2002, see section 1313(a)(4) of Pub. L. 107–296, set out as a note under [section 3521 of this title](./chapter-035-retention-preference-voluntary-separation-incentive-payments-restoration-and-reemployment.md#section-3521).
+
 
 <a id="section-3523"></a>
 ## § 3523. Authority to provide voluntary separation incentive payments
@@ -450,6 +455,11 @@ Pub. L. 107–296, title XIII, § 1313(c), Nov. 25, 2002, 116 Stat. 2296, provid
 
 (7) shall be paid from appropriations or funds available for the payment of the basic pay of the employee.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective 60 days after Nov. 25, 2002, see section 1313(a)(4) of Pub. L. 107–296, set out as a note under [section 3521 of this title](./chapter-035-retention-preference-voluntary-separation-incentive-payments-restoration-and-reemployment.md#section-3521).
+
 
 <a id="section-3524"></a>
 ## § 3524. Effect of subsequent employment with the Government
@@ -484,6 +494,9 @@ Pub. L. 107–296, title XIII, § 1313(c), Nov. 25, 2002, 116 Stat. 2296, provid
 
 2004—Subsec. (c)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
 
+#### Effective Date
+Section effective 60 days after Nov. 25, 2002, see section 1313(a)(4) of Pub. L. 107–296, set out as a note under [section 3521 of this title](./chapter-035-retention-preference-voluntary-separation-incentive-payments-restoration-and-reemployment.md#section-3521).
+
 
 <a id="section-3525"></a>
 ## § 3525. Regulations
@@ -494,6 +507,9 @@ The Office of Personnel Management may prescribe regulations to carry out this s
 
 #### Prior Provisions
 A prior section 3551, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 429; Pub. L. 90–491, § 2, Aug. 17, 1968, 82 Stat. 791, related to restoration of positions of Federal and District of Columbia employees upon release from duty in Reserves or National Guard, prior to repeal by Pub. L. 103–353, §§ 2(b)(2)(B), 8, Oct. 13, 1994, 108 Stat. 3169, 3175, effective with respect to reemployments initiated on or after first day after 60-day period beginning Oct. 13, 1994, with transition rules.
+
+#### Effective Date
+Section effective 60 days after Nov. 25, 2002, see section 1313(a)(4) of Pub. L. 107–296, set out as a note under [section 3521 of this title](./chapter-035-retention-preference-voluntary-separation-incentive-payments-restoration-and-reemployment.md#section-3521).
 
 
 <a id="section-3571"></a>
@@ -694,7 +710,7 @@ For the purpose of this subchapter, “agency”, “Senior Executive Service po
 ### Statutory Notes
 
 #### Effective Date
-Subchapter effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b), of Pub. L. 95–454, set out as a note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b), of Pub. L. 95–454, set out as a note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
 
 
 <a id="section-3592"></a>
@@ -746,6 +762,9 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date of 1989 Amendment
 Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub. L. 101–194, set out as a note under [section 3151 of this title](./chapter-031-authority-for-employment.md#section-3151).
+
+#### Effective Date
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b), of Pub. L. 95–454, set out as a note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
 
 #### Savings Provision
 Pub. L. 107–296, title XIII, § 1321(b), Nov. 25, 2002, 116 Stat. 2297, provided that: “Notwithstanding the amendments made by subsection (a)(2)(A) [amending this section], an appeal under the final sentence of [section 3592(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3592/a&num=0&edition=prelim), United States Code, that is pending on the day before the effective date of this section [see Effective Date of 2002 Amendment note above]— “(1) shall not abate by reason of the enactment of the amendments made by subsection (a)(2)(A); and “(2) shall continue as if such amendments had not been enacted.”
@@ -799,6 +818,9 @@ Amendment by Pub. L. 98–615 effective following expiration of 90-day period be
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–35 effective June 1, 1981, with certain exceptions and conditions, see section 1704(e) of Pub. L. 97–35, set out as an Effective Date note under [section 3595 of this title](./chapter-035-retention-preference-voluntary-separation-incentive-payments-restoration-and-reemployment.md#section-3595).
+
+#### Effective Date
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b), of Pub. L. 95–454, set out as a note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
 
 
 <a id="section-3594"></a>
@@ -861,6 +883,9 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under [section 3393 of this title](./chapter-033-examination-selection-and-placement.md#section-3393).
+
+#### Effective Date
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b), of Pub. L. 95–454, set out as a note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
 
 
 <a id="section-3595"></a>
@@ -943,6 +968,9 @@ The Office of Personnel Management shall prescribe regulations to carry out the 
 
 #### Amendments
 1981—Pub. L. 97–35 renumbered [section 3596 of this title](./chapter-035-retention-preference-voluntary-separation-incentive-payments-restoration-and-reemployment.md#section-3596) as this section.
+
+#### Effective Date
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b), of Pub. L. 95–454, set out as a note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
 
 
 <a id="section-3597"></a>

@@ -61,7 +61,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 (3) perform other functions directly related to assisting State regulatory authorities in carrying out their functions under State law and this Act.
 
-**(b) Federal share** Grants under this section shall not be used to provide more than the following percentages of the cost to the institute of carrying out the activities specified in subsection (a) of this section:
+**(b) Federal share** Grants under this section shall not be used to provide more than the following percentages of the cost to the institute of carrying out the activities specified in subsection (a):
 
 (1) 80 percent for the fiscal year 1979; and
 
@@ -250,11 +250,11 @@ Notwithstanding the limitation contained in [section 2612(b) of this title](http
 
 <a id="section-2624"></a>
 ## § 2624. Consideration and determination respecting certain ratemaking standards
-**(a) Consideration and determination** Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall consider each standard established by subsection (d) of this section and make a determination concerning whether or not it is appropriate to implement such standard to carry out the purposes of this chapter. For purposes of such consideration and determination in accordance with subsections (b) and (c) of this section, and for purposes of any review of such consideration and determination in any court in accordance with [section 2633 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2633), the purposes of this chapter supplement otherwise applicable State law. Nothing in this subsection prohibits any State regulatory authority or nonregulated electric utility from making any determination that it is not appropriate to implement any such standard, pursuant to its authority under otherwise applicable State law.
+**(a) Consideration and determination** Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall consider each standard established by subsection (d) and make a determination concerning whether or not it is appropriate to implement such standard to carry out the purposes of this chapter. For purposes of such consideration and determination in accordance with subsections (b) and (c), and for purposes of any review of such consideration and determination in any court in accordance with [section 2633 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2633), the purposes of this chapter supplement otherwise applicable State law. Nothing in this subsection prohibits any State regulatory authority or nonregulated electric utility from making any determination that it is not appropriate to implement any such standard, pursuant to its authority under otherwise applicable State law.
 
 **(b) Procedural requirements for consideration and determination**
 
-(1) The consideration referred to in subsection (a) of this section shall be made after public notice and hearing. The determination referred to in subsection (a) of this section shall be—
+(1) The consideration referred to in subsection (a) shall be made after public notice and hearing. The determination referred to in subsection (a) shall be—
 
   (A) in writing,
 
@@ -262,19 +262,19 @@ Notwithstanding the limitation contained in [section 2612(b) of this title](http
 
   (C) available to the public.
 
-(2) Except as otherwise provided in paragraph (1), in the second sentence of [section 2622(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2622/a&num=0&edition=prelim), and in sections 2631 and 2632 of this title, the procedures for the consideration and determination referred to in subsection (a) of this section shall be those established by the State regulatory authority or the nonregulated electric utility.
+(2) Except as otherwise provided in paragraph (1), in the second sentence of [section 2622(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2622/a&num=0&edition=prelim), and in sections 2631 and 2632 of this title, the procedures for the consideration and determination referred to in subsection (a) shall be those established by the State regulatory authority or the nonregulated electric utility.
 
 **(c) Implementation**
 
 (1) The State regulatory authority (with respect to each electric utility for which it has ratemaking authority) or nonregulated electric utility may, to the extent consistent with otherwise applicable State law—
 
-  (A) implement any such standard determined under subsection (a) of this section to be appropriate to carry out the purposes of this chapter, or
+  (A) implement any such standard determined under subsection (a) to be appropriate to carry out the purposes of this chapter, or
 
   (B) decline to implement any such standard.
 
-(2) If a State regulatory authority (with respect to each electric utility for which it has ratemaking authority) or nonregulated electric utility declines to implement any standard established by subsection (d) of this section which is determined under subsection (a) of this section to be appropriate to carry out the purposes of this chapter, such authority or nonregulated electric utility shall state in writing the reasons therefor. Such statement of reasons shall be available to the public.
+(2) If a State regulatory authority (with respect to each electric utility for which it has ratemaking authority) or nonregulated electric utility declines to implement any standard established by subsection (d) which is determined under subsection (a) to be appropriate to carry out the purposes of this chapter, such authority or nonregulated electric utility shall state in writing the reasons therefor. Such statement of reasons shall be available to the public.
 
-(3) If a State regulatory authority implements a standard established by subsection (d)(7) or (8) of this section, such authority shall—
+(3) If a State regulatory authority implements a standard established by subsection (d)(7) or (8), such authority shall—
 
   (A) consider the impact that implementation of such standard would have on small businesses engaged in the design, sale, supply, installation or servicing of energy conservation, energy efficiency or other demand side management measures, and
 
@@ -507,7 +507,7 @@ Pub. L. 95–617, title VI, § 601, Nov. 9, 1978, 92 Stat. 3164, directed the Se
 
   (B) Not later than 2 years after December 19, 2007, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in [section 2621 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2621) with respect to each standard established by paragraphs (16) through (19) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim).
 
-**(c) Failure to comply** Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall undertake the consideration, and make the determination, referred to in [section 2621 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2621) with respect to each standard established by [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim) in the first rate proceeding commenced after the date three years after November 9, 1978, respecting the rates of such utility if such State regulatory authority or nonregulated electric utility has not, before such date, complied with subsection (b)(2) of this section with respect to such standard. In the case of each standard established by paragraphs (11) through (13) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (14) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (15),11 So in original. Probably should be “paragraph (15) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim),”. the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standards established by paragraphs (16) through (19) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to December 19, 2007.
+**(c) Failure to comply** Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall undertake the consideration, and make the determination, referred to in [section 2621 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2621) with respect to each standard established by [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim) in the first rate proceeding commenced after the date three years after November 9, 1978, respecting the rates of such utility if such State regulatory authority or nonregulated electric utility has not, before such date, complied with subsection (b)(2) with respect to such standard. In the case of each standard established by paragraphs (11) through (13) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (14) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (15),11 So in original. Probably should be “paragraph (15) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim),”. the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standards established by paragraphs (16) through (19) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to December 19, 2007.
 
 **(d) Prior State actions relating to standard under certain paragraphs of section 2621(d)** Subsections (b) and (c) of this section shall not apply to the standards established by paragraphs (11) through (13) and paragraphs (16) through (19) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim) in the case of any electric utility in a State if, before August 8, 2005—
 
@@ -576,11 +576,11 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 <a id="section-2626"></a>
 ## § 2626. Adoption of certain standards
-**(a) Adoption of standards** Not later than two years after November 9, 1978, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall provide public notice and conduct a hearing respecting the standards established by subsection (b) of this section and, on the basis of such hearing, shall—
+**(a) Adoption of standards** Not later than two years after November 9, 1978, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall provide public notice and conduct a hearing respecting the standards established by subsection (b) and, on the basis of such hearing, shall—
 
-(1) adopt the standards established by subsection (b) of this section (other than paragraph (4) thereof) if, and to the extent, such authority or nonregulated electric utility determines that such adoption is appropriate to carry out the purposes of this chapter, is otherwise appropriate, and is consistent with otherwise applicable State law, and
+(1) adopt the standards established by subsection (b) (other than paragraph (4) thereof) if, and to the extent, such authority or nonregulated electric utility determines that such adoption is appropriate to carry out the purposes of this chapter, is otherwise appropriate, and is consistent with otherwise applicable State law, and
 
-(2) adopt the standard established by subsection (b)(4) of this section if, and to the extent, such authority or nonregulated electric utility determines that such adoption is appropriate and consistent with otherwise applicable State law.
+(2) adopt the standard established by subsection (b)(4) if, and to the extent, such authority or nonregulated electric utility determines that such adoption is appropriate and consistent with otherwise applicable State law.
 For purposes of any determination under paragraphs (1) or (2) and any review of such determination in any court in accordance with [section 2633 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2633), the purposes of this chapter supplement otherwise applicable State law. Nothing in this subsection prohibits any State regulatory authority or nonregulated electric utility from making any determination that it is not appropriate to adopt any such standard, pursuant to its authority under otherwise applicable State law.
 
 **(b) Establishment** The following Federal standards are hereby established:
@@ -595,7 +595,7 @@ For purposes of any determination under paragraphs (1) or (2) and any review of 
 
 (5) **Advertising** — No electric utility may recover from any person other than the shareholders (or other owners) of such utility any direct or indirect expenditure by such utility for promotional or political advertising as defined in [section 2625(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2625/h&num=0&edition=prelim).
 
-**(c) Procedural requirements** Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility, within the two-year period specified in subsection (a) of this section, shall (1) adopt, pursuant to subsection (a) of this section, each of the standards established by subsection (b) of this section, or, (2) with respect to any such standard which is not adopted, such authority or nonregulated electric utility shall state in writing that it has determined not to adopt such standard, together with the reasons for such determination. Such statement of reasons shall be available to the public.
+**(c) Procedural requirements** Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility, within the two-year period specified in subsection (a), shall (1) adopt, pursuant to subsection (a), each of the standards established by subsection (b) or, (2) with respect to any such standard which is not adopted, such authority or nonregulated electric utility shall state in writing that it has determined not to adopt such standard, together with the reasons for such determination. Such statement of reasons shall be available to the public.
 
 ### Statutory Notes
 
@@ -607,7 +607,7 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this t
 ## § 2627. Lifeline rates
 **(a) Lower rates** No provision of this chapter prohibits a State regulatory authority (with respect to an electric utility for which it has ratemaking authority) or a nonregulated electric utility from fixing, approving, or allowing to go into effect a rate for essential needs (as defined by the State regulatory authority or by the nonregulated electric utility, as the case may be) of residential electric consumers which is lower than a rate under the standard referred to in [section 2621(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d/1&num=0&edition=prelim).
 
-**(b) Determination** If any State regulated electric utility or nonregulated electric utility does not have a lower rate as described in subsection (a) of this section in effect two years after November 9, 1978, the State regulatory authority having ratemaking authority with respect to such State regulated electric utility or the nonregulated electric utility, as the case may be, shall determine, after an evidentiary hearing, whether such a rate should be implemented by such utility.
+**(b) Determination** If any State regulated electric utility or nonregulated electric utility does not have a lower rate as described in subsection (a) in effect two years after November 9, 1978, the State regulatory authority having ratemaking authority with respect to such State regulated electric utility or the nonregulated electric utility, as the case may be, shall determine, after an evidentiary hearing, whether such a rate should be implemented by such utility.
 
 **(c) Prior proceedings** [Section 2634 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2634) shall not apply to the requirements of this section.
 
@@ -729,7 +729,7 @@ Subsec. (i). Pub. L. 109–58, § 1252(b)(3), added subsec. (i).
 
 **(b) Secretary** Not later than eighteen months after November 9, 1978, and annually thereafter for ten years, the Secretary shall submit a report to the President and the Congress containing—
 
-(1) a summary of the reports submitted under subsection (a) of this section,
+(1) a summary of the reports submitted under subsection (a),
 
 (2) his analysis of such reports, and
 
@@ -759,7 +759,7 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this t
 ## § 2634. Intervention in proceedings
 **(a) Authority to intervene and participate** In order to initiate and participate in the consideration of one or more of the standards established by subchapter II or other concepts which contribute to the achievement of the purposes of this chapter, the Secretary, any affected electric utility, or any electric consumer of an affected electric utility may intervene and participate as a matter of right in any ratemaking proceeding or other appropriate regulatory proceeding relating to rates or rate design which is conducted by a State regulatory authority (with respect to an electric utility for which it has ratemaking authority) or by a nonregulated electric utility.
 
-**(b) Access to information** Any intervenor or participant in a proceeding described in subsection (a) of this section shall have access to information available to other parties to the proceeding if such information is relevant to the issues to which his intervention or participation in such proceeding relates. Such information may be obtained through reasonable rules relating to discovery of information prescribed by the State regulatory authority (in the case of proceedings concerning electric utilities for which it has ratemaking authority) or by the nonregulated electric utility (in the case of a proceeding conducted by a nonregulated electric utility).
+**(b) Access to information** Any intervenor or participant in a proceeding described in subsection (a) shall have access to information available to other parties to the proceeding if such information is relevant to the issues to which his intervention or participation in such proceeding relates. Such information may be obtained through reasonable rules relating to discovery of information prescribed by the State regulatory authority (in the case of proceedings concerning electric utilities for which it has ratemaking authority) or by the nonregulated electric utility (in the case of a proceeding conducted by a nonregulated electric utility).
 
 **(c) Effective date; procedures** Any intervention or participation under this section, in any proceeding commenced before November 9, 1978, but not completed before such date, shall be permitted under this section only to the extent such intervention or participation is timely under otherwise applicable law.
 
@@ -773,7 +773,7 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 ## § 2641. Consumer representation
 **(a) Compensation for costs of participation or intervention**
 
-(1) If no alternative means for assuring representation of electric consumers is adopted in accordance with subsection (b) of this section and if an electric consumer of an electric utility substantially contributed to the approval, in whole or in part, of a position advocated by such consumer in a proceeding concerning such utility, and relating to any standard set forth in subchapter II, such utility shall be liable to compensate such consumer (pursuant to paragraph (2)) for reasonable attorneys’ fees, expert witness fees, and other reasonable costs incurred in preparation and advocacy of such position in such proceeding (including fees and costs of obtaining judicial review of any determination made in such proceeding with respect to such position).
+(1) If no alternative means for assuring representation of electric consumers is adopted in accordance with subsection (b) and if an electric consumer of an electric utility substantially contributed to the approval, in whole or in part, of a position advocated by such consumer in a proceeding concerning such utility, and relating to any standard set forth in subchapter II, such utility shall be liable to compensate such consumer (pursuant to paragraph (2)) for reasonable attorneys’ fees, expert witness fees, and other reasonable costs incurred in preparation and advocacy of such position in such proceeding (including fees and costs of obtaining judicial review of any determination made in such proceeding with respect to such position).
 
 (2) A consumer entitled to fees and costs under paragraph (1) may collect such fees and costs from an electric utility by bringing a civil action in any State court of competent jurisdiction, unless the State regulatory authority (in the case of a proceeding concerning a State regulated electric utility) or nonregulated electric utility (in the case of a proceeding concerning such nonregulated electric utility) has adopted a reasonable procedure pursuant to which such authority or nonregulated electric utility—
 
@@ -787,7 +787,7 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 
   (B) persons with the same or similar interests have a common legal representative in the proceeding as a condition to receiving compensation.
 
-**(b) Alternative means** Compensation shall not be required under subsection (a) of this section if the State, the State regulatory authority (in the case of a proceeding concerning a State regulated electric utility), or the nonregulated electric utility (in the case of a proceeding concerning such nonregulated electric utility) has provided an alternative means for providing adequate compensation to persons—
+**(b) Alternative means** Compensation shall not be required under subsection (a) if the State, the State regulatory authority (in the case of a proceeding concerning a State regulated electric utility), or the nonregulated electric utility (in the case of a proceeding concerning such nonregulated electric utility) has provided an alternative means for providing adequate compensation to persons—
 
 (1) who have, or represent, an interest—
 
@@ -808,7 +808,7 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 ## § 2642. Judicial review and enforcement
 **(a) Limitation of Federal jurisdiction** Notwithstanding any other provision of law, no court of the United States shall have jurisdiction over any action arising under any provision of subchapter I or II or of this subchapter except for—
 
-(1) an action over which a court of the United States has jurisdiction under subsection (b) or (c)(2) of this section; and
+(1) an action over which a court of the United States has jurisdiction under subsection (b) or (c)(2); and
 
 (2) review of any action in the Supreme Court of the United States in accordance with sections 1257 and 1258 of title 28.
 
@@ -878,7 +878,7 @@ The Secretary may prescribe voluntary guidelines respecting the standards establ
 
 **(b) Technical assistance** The Secretary may provide such technical assistance as he determines appropriate to assist the State regulatory authorities in carrying out their responsibilities under subchapter II and as is requested by any State regulatory authority relating to the standards established by subchapter II.
 
-**(c) Appropriations** There are authorized to be appropriated to carry out the purposes of subsection (b) of this section not to exceed $1,000,000 for each of the fiscal years 1979 and 1980.
+**(c) Appropriations** There are authorized to be appropriated to carry out the purposes of subsection (b) not to exceed $1,000,000 for each of the fiscal years 1979 and 1980.
 
 **(d) Demand response** The Secretary shall be responsible for—
 

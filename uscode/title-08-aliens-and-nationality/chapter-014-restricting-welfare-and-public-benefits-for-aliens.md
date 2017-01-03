@@ -57,11 +57,11 @@ Pub. L. 110–328, § 1, Sept. 30, 2008, 122 Stat. 3567, provided that: “This 
 
 <a id="section-1612"></a>
 ## § 1612. Aliens who are not qualified aliens ineligible for Federal public benefits
-**(a) In general** Notwithstanding any other provision of law and except as provided in subsection (b) of this section, an alien who is not a qualified alien (as defined in [section 1641 of this title](./chapter-014-restricting-welfare-and-public-benefits-for-aliens.md#section-1641)) is not eligible for any Federal public benefit (as defined in subsection (c) of this section).
+**(a) In general** Notwithstanding any other provision of law and except as provided in subsection (b), an alien who is not a qualified alien (as defined in [section 1641 of this title](./chapter-014-restricting-welfare-and-public-benefits-for-aliens.md#section-1641)) is not eligible for any Federal public benefit (as defined in subsection (c)).
 
 **(b) Exceptions**
 
-(1) Subsection (a) of this section shall not apply with respect to the following Federal public benefits:
+(1) Subsection (a) shall not apply with respect to the following Federal public benefits:
 
   (A) Medical assistance under title XIX of the Social Security Act [[42 U.S.C. 1396](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396&num=0&edition=prelim) et seq.] (or any successor program to such title) for care and services that are necessary for the treatment of an emergency medical condition (as defined in section 1903(v)(3) of such Act [[42 U.S.C. 1396b(v)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/v/3&num=0&edition=prelim)]) of the alien involved and are not related to an organ transplant procedure, if the alien involved otherwise meets the eligibility requirements for medical assistance under the State plan approved under such title (other than the requirement of the receipt of aid or assistance under title IV of such Act [[42 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section601&num=0&edition=prelim) et seq.], supplemental security income benefits under title XVI of such Act [[42 U.S.C. 1381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1381&num=0&edition=prelim) et seq.], or a State supplementary payment).
 
@@ -73,13 +73,13 @@ Pub. L. 110–328, § 1, Sept. 30, 2008, 122 Stat. 3567, provided that: “This 
 
   (E) Programs for housing or community development assistance or financial assistance administered by the Secretary of Housing and Urban Development, any program under title V of the Housing Act of 1949 [[42 U.S.C. 1471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1471&num=0&edition=prelim) et seq.], or any assistance under [section 1926c of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1926c&num=0&edition=prelim), to the extent that the alien is receiving such a benefit on August 22, 1996.
 
-(2) Subsection (a) of this section shall not apply to any benefit payable under title II of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.] to an alien who is lawfully present in the United States as determined by the Attorney General, to any benefit if nonpayment of such benefit would contravene an international agreement described in section 233 of the Social Security Act [[42 U.S.C. 433](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section433&num=0&edition=prelim)], to any benefit if nonpayment would be contrary to section 202(t) of the Social Security Act [[42 U.S.C. 402(t)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/t&num=0&edition=prelim)], or to any benefit payable under title II of the Social Security Act to which entitlement is based on an application filed in or before August 1996.
+(2) Subsection (a) shall not apply to any benefit payable under title II of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.] to an alien who is lawfully present in the United States as determined by the Attorney General, to any benefit if nonpayment of such benefit would contravene an international agreement described in section 233 of the Social Security Act [[42 U.S.C. 433](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section433&num=0&edition=prelim)], to any benefit if nonpayment would be contrary to section 202(t) of the Social Security Act [[42 U.S.C. 402(t)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section402/t&num=0&edition=prelim)], or to any benefit payable under title II of the Social Security Act to which entitlement is based on an application filed in or before August 1996.
 
-(3) Subsection (a) of this section shall not apply to any benefit payable under title XVIII of the Social Security Act [[42 U.S.C. 1395](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395&num=0&edition=prelim) et seq.] (relating to the medicare program) to an alien who is lawfully present in the United States as determined by the Attorney General and, with respect to benefits payable under part A of such title [[42 U.S.C. 1395c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395c&num=0&edition=prelim) et seq.], who was authorized to be employed with respect to any wages attributable to employment which are counted for purposes of eligibility for such benefits.
+(3) Subsection (a) shall not apply to any benefit payable under title XVIII of the Social Security Act [[42 U.S.C. 1395](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395&num=0&edition=prelim) et seq.] (relating to the medicare program) to an alien who is lawfully present in the United States as determined by the Attorney General and, with respect to benefits payable under part A of such title [[42 U.S.C. 1395c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395c&num=0&edition=prelim) et seq.], who was authorized to be employed with respect to any wages attributable to employment which are counted for purposes of eligibility for such benefits.
 
-(4) Subsection (a) of this section shall not apply to any benefit payable under the Railroad Retirement Act of 1974 [[45 U.S.C. 231](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim) et seq.] or the Railroad Unemployment Insurance Act [[45 U.S.C. 351](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section351&num=0&edition=prelim) et seq.] to an alien who is lawfully present in the United States as determined by the Attorney General or to an alien residing outside the United States.
+(4) Subsection (a) shall not apply to any benefit payable under the Railroad Retirement Act of 1974 [[45 U.S.C. 231](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim) et seq.] or the Railroad Unemployment Insurance Act [[45 U.S.C. 351](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section351&num=0&edition=prelim) et seq.] to an alien who is lawfully present in the United States as determined by the Attorney General or to an alien residing outside the United States.
 
-(5) Subsection (a) of this section shall not apply to eligibility for benefits for the program defined in [section 1612(a)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1612/a/3/A&num=0&edition=prelim) (relating to the supplemental security income program), or to eligibility for benefits under any other program that is based on eligibility for benefits under the program so defined, for an alien who was receiving such benefits on August 22, 1996.
+(5) Subsection (a) shall not apply to eligibility for benefits for the program defined in [section 1612(a)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1612/a/3/A&num=0&edition=prelim) (relating to the supplemental security income program), or to eligibility for benefits under any other program that is based on eligibility for benefits under the program so defined, for an alien who was receiving such benefits on August 22, 1996.
 
 **(c) “Federal public benefit” defined**
 
@@ -210,7 +210,7 @@ Pub. L. 104–208, div. C, title V, § 506, Sept. 30, 1996, 110 Stat. 3009–672
 
     (i) who is an American Indian born in Canada to whom the provisions of section 289 of the Immigration and Nationality Act ([8 U.S.C. 1359](./chapter-012-immigration-and-nationality.md#section-1359)) apply; or
 
-    (ii) who is a member of an Indian tribe (as defined in [section 450b(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b/e&num=0&edition=prelim)).
+    (ii) who is a member of an Indian tribe (as defined in [section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim)).
 
   (H) *SSI exception for certain recipients on the basis of very old applications* — With respect to eligibility for benefits for the program defined in paragraph (3)(A) (relating to the supplemental security income program), paragraph (1) shall not apply to any individual—
 
@@ -296,7 +296,7 @@ Pub. L. 104–208, div. C, title V, § 506, Sept. 30, 1996, 110 Stat. 3009–672
 
       (IV) an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
 
-      (V) an alien 33 So in original. Probably should be “alien is”. admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) 1 of this section until 5 years after the date of such alien’s entry into the United States.
+      (V) an alien 33 So in original. Probably should be “alien is”. admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) 1 until 5 years after the date of such alien’s entry into the United States.
 
     (ii) *Other designated Federal programs* — With respect to the designated Federal programs under paragraph (3) (other than subparagraph (C)), paragraph (1) shall not apply to an alien until 5 years after the date—
 
@@ -308,7 +308,7 @@ Pub. L. 104–208, div. C, title V, § 506, Sept. 30, 1996, 110 Stat. 3009–672
 
       (IV) an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
 
-      (V) an alien 3 admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) 1 of this section until 5 years after the date of such alien’s entry into the United States.
+      (V) an alien 3 admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) 1 until 5 years after the date of such alien’s entry into the United States.
 
   (B) *Certain permanent resident aliens* — An alien who—
 
@@ -328,9 +328,9 @@ Pub. L. 104–208, div. C, title V, § 506, Sept. 30, 1996, 110 Stat. 3009–672
 
   (D) *Transition for those currently receiving benefits* — An alien who on August 22, 1996, is lawfully residing in any State and is receiving benefits under such program on August 22, 1996, shall continue to be eligible to receive such benefits until January 1, 1997.
 
-  (E) *Medicaid exception for certain Indians* — With respect to eligibility for benefits for the program defined in paragraph (3)(C) (relating to the medicaid program), [section 1611(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1611/a&num=0&edition=prelim) and paragraph (1) shall not apply to any individual described in subsection (a)(2)(G) of this section.
+  (E) *Medicaid exception for certain Indians* — With respect to eligibility for benefits for the program defined in paragraph (3)(C) (relating to the medicaid program), [section 1611(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1611/a&num=0&edition=prelim) and paragraph (1) shall not apply to any individual described in subsection (a)(2)(G).
 
-  (F) *Medicaid exception for aliens receiving SSI* — An alien who is receiving benefits under the program defined in subsection (a)(3)(A) of this section (relating to the supplemental security income program) shall be eligible for medical assistance under a State plan under title XIX of the Social Security Act ([42 U.S.C. 1396](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396&num=0&edition=prelim) et seq.) under the same terms and conditions that apply to other recipients of benefits under the program defined in such subsection.
+  (F) *Medicaid exception for aliens receiving SSI* — An alien who is receiving benefits under the program defined in subsection (a)(3)(A) (relating to the supplemental security income program) shall be eligible for medical assistance under a State plan under title XIX of the Social Security Act ([42 U.S.C. 1396](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396&num=0&edition=prelim) et seq.) under the same terms and conditions that apply to other recipients of benefits under the program defined in such subsection.
 
 (3) **“Designated Federal program” defined** — For purposes of this chapter, the term “designated Federal program” means any of the following:
 
@@ -498,9 +498,9 @@ Pub. L. 104–208, div. C, title V, § 510, Sept. 30, 1996, 110 Stat. 3009–673
 
 <a id="section-1614"></a>
 ## § 1614. Five-year limited eligibility of qualified aliens for Federal means-tested public benefit
-**(a) In general** Notwithstanding any other provision of law and except as provided in subsections (b), (c), and (d) of this section, an alien who is a qualified alien (as defined in [section 1641 of this title](./chapter-014-restricting-welfare-and-public-benefits-for-aliens.md#section-1641)) and who enters the United States on or after August 22, 1996, is not eligible for any Federal means-tested public benefit for a period of 5 years beginning on the date of the alien’s entry into the United States with a status within the meaning of the term “qualified alien”.
+**(a) In general** Notwithstanding any other provision of law and except as provided in subsections (b), (c), and (d), an alien who is a qualified alien (as defined in [section 1641 of this title](./chapter-014-restricting-welfare-and-public-benefits-for-aliens.md#section-1641)) and who enters the United States on or after August 22, 1996, is not eligible for any Federal means-tested public benefit for a period of 5 years beginning on the date of the alien’s entry into the United States with a status within the meaning of the term “qualified alien”.
 
-**(b) Exceptions** The limitation under subsection (a) of this section shall not apply to the following aliens:
+**(b) Exceptions** The limitation under subsection (a) shall not apply to the following aliens:
 
 (1) **Exception for refugees and asylees**
 
@@ -524,7 +524,7 @@ Pub. L. 104–208, div. C, title V, § 510, Sept. 30, 1996, 110 Stat. 3009–673
 
 **(c) Application of term Federal means-tested public benefit**
 
-(1) The limitation under subsection (a) of this section shall not apply to assistance or benefits under paragraph (2).
+(1) The limitation under subsection (a) shall not apply to assistance or benefits under paragraph (2).
 
 (2) Assistance and benefits under this paragraph are as follows:
 
@@ -538,11 +538,11 @@ Pub. L. 104–208, div. C, title V, § 510, Sept. 30, 1996, 110 Stat. 3009–673
 
   (E) Public health assistance (not including any assistance under title XIX of the Social Security Act [[42 U.S.C. 1396](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396&num=0&edition=prelim) et seq.]) for immunizations with respect to immunizable diseases and for testing and treatment of symptoms of communicable diseases whether or not such symptoms are caused by a communicable disease.
 
-  (F) Payments for foster care and adoption assistance under parts B and E of title IV of the Social Security Act [[42 U.S.C. 620](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section620&num=0&edition=prelim) et seq., 670 et seq.] for a parent or a child who would, in the absence of subsection (a) of this section, be eligible to have such payments made on the child’s behalf under such part, but only if the foster or adoptive parent (or parents) of such child is a qualified alien (as defined in [section 1641 of this title](./chapter-014-restricting-welfare-and-public-benefits-for-aliens.md#section-1641)).
+  (F) Payments for foster care and adoption assistance under parts B and E of title IV of the Social Security Act [[42 U.S.C. 620](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section620&num=0&edition=prelim) et seq., 670 et seq.] for a parent or a child who would, in the absence of subsection (a), be eligible to have such payments made on the child’s behalf under such part, but only if the foster or adoptive parent (or parents) of such child is a qualified alien (as defined in [section 1641 of this title](./chapter-014-restricting-welfare-and-public-benefits-for-aliens.md#section-1641)).
 
   (G) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General, in the Attorney General’s sole and unreviewable discretion after consultation with appropriate Federal agencies and departments, which (i) deliver in-kind services at the community level, including through public or private nonprofit agencies; (ii) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient’s income or resources; and (iii) are necessary for the protection of life or safety.
 
-  (H) Programs of student assistance under titles IV, V, IX, and X of the Higher Education Act of 1965 [[20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq., 1101 et seq., 1134 et seq., 1135 et seq., [42 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2751&num=0&edition=prelim) et seq.], and titles III, VII, and VIII of the Public Health Service Act [[42 U.S.C. 241](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section241&num=0&edition=prelim) et seq., 292 et seq., 296 et seq.].
+  (H) Programs of student assistance under titles IV, V, IX, and X of the Higher Education Act of 1965 [[20 U.S.C. 1070](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070&num=0&edition=prelim) et seq., 1101 et seq., 1134 et seq., 1135 et seq.], and titles III, VII, and VIII of the Public Health Service Act [[42 U.S.C. 241](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section241&num=0&edition=prelim) et seq., 292 et seq., 296 et seq.].
 
   (I) Means-tested programs under the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) et seq.].
 
@@ -552,7 +552,7 @@ Pub. L. 104–208, div. C, title V, § 510, Sept. 30, 1996, 110 Stat. 3009–673
 
   (L) Assistance or benefits provided to individuals under the age of 18 under the Food Stamp Act of 1977 1 ([7 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) et seq.).
 
-**(d) Benefits for certain groups** Notwithstanding any other provision of law, the limitations under [section 1611(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1611/a&num=0&edition=prelim) and subsection (a) of this section shall not apply to—
+**(d) Benefits for certain groups** Notwithstanding any other provision of law, the limitations under [section 1611(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1611/a&num=0&edition=prelim) and subsection (a) shall not apply to—
 
 (1) an individual described in [section 1612(a)(2)(G) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1612/a/2/G&num=0&edition=prelim), but only with respect to the programs specified in subsections (a)(3) and (b)(3)(C) of [section 1612 of this title](./chapter-014-restricting-welfare-and-public-benefits-for-aliens.md#section-1612); or
 
@@ -573,7 +573,7 @@ The Child Nutrition Act of 1966, referred to in subsec. (c)(2)(D), is Pub. L. 89
 
 The Social Security Act, referred to in subsec. (c)(2)(E), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts B and E of title IV and title XIX of the Act are classified generally to parts B (§ 620 et seq.) and E (§ 670 et seq.) of subchapter IV and subchapter XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (c)(2)(H), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42. Titles V, IX, and X of the Act are classified generally to subchapters V (§ 1101 et seq.), IX (§ 1134 et seq.), and X (§ 1135 et seq.), respectively, of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (c)(2)(H), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Titles IV, V, IX, and X of the Act are classified generally to subchapters IV (§ 1070 et seq.), V (§ 1101 et seq.), IX (§ 1134 et seq.), and X (§ 1135 et seq.), respectively, of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 The Public Health Service Act, referred to in subsec. (c)(2)(H), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Titles III, VII, and VIII of the Act are classified generally to subchapters II (§ 241 et seq.), V (§ 292 et seq.), and VI (§ 296 et seq.), respectively, of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
@@ -615,7 +615,7 @@ Subsec. (d). Pub. L. 105–33, § 5303(c), added subsec. (d).
 Pub. L. 105–33, § 5302(c)(1)(B), struck out heading and text of subsec. (d). Text read as follows: “The limitation under subsection (a) of this section shall not apply to refugee and entrant assistance activities, authorized by title IV of the Immigration and Nationality Act [[8 U.S.C. 1521](./chapter-012-immigration-and-nationality.md#section-1521) et seq.] and section 501 of the Refugee Education Assistance Act of 1980, for Cuban and Haitian entrants as defined in section 501(e)(2) of the Refugee Education Assistance Act of 1980.”
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 2002 Amendment
 Amendment by section 4401(b)(2)(A) of Pub. L. 107–171 effective Oct. 1, 2003, see section 4401(b)(3) of Pub. L. 107–171, set out as a note under [section 2014 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2014&num=0&edition=prelim), Agriculture.
@@ -682,16 +682,16 @@ Section was enacted as part of title VII of the Personal Responsibility and Work
 
 <a id="section-1622"></a>
 ## § 1622. Aliens who are not qualified aliens or nonimmigrants ineligible for State and local public benefits
-**(a) In general** Notwithstanding any other provision of law and except as provided in subsections (b) and (d) of this section, an alien who is not—
+**(a) In general** Notwithstanding any other provision of law and except as provided in subsections (b) and (d), an alien who is not—
 
 (1) a qualified alien (as defined in [section 1641 of this title](./chapter-014-restricting-welfare-and-public-benefits-for-aliens.md#section-1641)),
 
 (2) a nonimmigrant under the Immigration and Nationality Act [[8 U.S.C. 1101](./chapter-012-immigration-and-nationality.md#section-1101) et seq.], or
 
 (3) an alien who is paroled into the United States under section 212(d)(5) of such Act [[8 U.S.C. 1182(d)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182/d/5&num=0&edition=prelim)] for less than one year,
-is not eligible for any State or local public benefit (as defined in subsection (c) of this section).
+is not eligible for any State or local public benefit (as defined in subsection (c)).
 
-**(b) Exceptions** Subsection (a) of this section shall not apply with respect to the following State or local public benefits:
+**(b) Exceptions** Subsection (a) shall not apply with respect to the following State or local public benefits:
 
 (1) Assistance for health care items and services that are necessary for the treatment of an emergency medical condition (as defined in [section 1396b(v)(3) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/v/3&num=0&edition=prelim)) of the alien involved and are not related to an organ transplant procedure.
 
@@ -719,7 +719,7 @@ is not eligible for any State or local public benefit (as defined in subsection 
 
 (3) Such term does not include any Federal public benefit under [section 1611(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1611/c&num=0&edition=prelim).
 
-**(d) State authority to provide for eligibility of illegal aliens for State and local public benefits** A State may provide that an alien who is not lawfully present in the United States is eligible for any State or local public benefit for which such alien would otherwise be ineligible under subsection (a) of this section only through the enactment of a State law after August 22, 1996, which affirmatively provides for such eligibility.
+**(d) State authority to provide for eligibility of illegal aliens for State and local public benefits** A State may provide that an alien who is not lawfully present in the United States is eligible for any State or local public benefit for which such alien would otherwise be ineligible under subsection (a) only through the enactment of a State law after August 22, 1996, which affirmatively provides for such eligibility.
 
 ### Statutory Notes
 
@@ -744,7 +744,7 @@ Pub. L. 104–208, div. C, title V, § 502, Sept. 30, 1996, 110 Stat. 3009–671
 
 <a id="section-1623"></a>
 ## § 1623. State authority to limit eligibility of qualified aliens for State public benefits
-**(a) In general** Notwithstanding any other provision of law and except as provided in subsection (b) of this section, a State is authorized to determine the eligibility for any State public benefits of an alien who is a qualified alien (as defined in [section 1641 of this title](./chapter-014-restricting-welfare-and-public-benefits-for-aliens.md#section-1641)), a nonimmigrant under the Immigration and Nationality Act [[8 U.S.C. 1101](./chapter-012-immigration-and-nationality.md#section-1101) et seq.], or an alien who is paroled into the United States under section 212(d)(5) of such Act [[8 U.S.C. 1182(d)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182/d/5&num=0&edition=prelim)] for less than one year.
+**(a) In general** Notwithstanding any other provision of law and except as provided in subsection (b), a State is authorized to determine the eligibility for any State public benefits of an alien who is a qualified alien (as defined in [section 1641 of this title](./chapter-014-restricting-welfare-and-public-benefits-for-aliens.md#section-1641)), a nonimmigrant under the Immigration and Nationality Act [[8 U.S.C. 1101](./chapter-012-immigration-and-nationality.md#section-1101) et seq.], or an alien who is paroled into the United States under section 212(d)(5) of such Act [[8 U.S.C. 1182(d)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182/d/5&num=0&edition=prelim)] for less than one year.
 
 **(b) Exceptions** Qualified aliens under this subsection shall be eligible for any State public benefits.
 
@@ -826,9 +826,9 @@ Section was enacted as part of the Illegal Immigration Reform and Immigrant Resp
 
 <a id="section-1625"></a>
 ## § 1625. Authority of States and political subdivisions of States to limit assistance to aliens and to distinguish among classes of aliens in providing general cash public assistance
-**(a) In general** Subject to subsection (b) of this section and notwithstanding any other provision of law, a State or political subdivision of a State is authorized to prohibit or otherwise limit or restrict the eligibility of aliens or classes of aliens for programs of general cash public assistance furnished under the law of the State or a political subdivision of a State.
+**(a) In general** Subject to subsection (b) and notwithstanding any other provision of law, a State or political subdivision of a State is authorized to prohibit or otherwise limit or restrict the eligibility of aliens or classes of aliens for programs of general cash public assistance furnished under the law of the State or a political subdivision of a State.
 
-**(b) Limitation** The authority provided for under subsection (a) of this section may be exercised only to the extent that any prohibitions, limitations, or restrictions imposed by a State or political subdivision of a State are not more restrictive than the prohibitions, limitations, or restrictions imposed under comparable Federal programs. For purposes of this section, attribution to an alien of a sponsor’s income and resources (as described in [section 1631 of this title](./chapter-014-restricting-welfare-and-public-benefits-for-aliens.md#section-1631)) for purposes of determining eligibility for, and the amount of, benefits shall be considered less restrictive than a prohibition of eligibility for such benefits.
+**(b) Limitation** The authority provided for under subsection (a) may be exercised only to the extent that any prohibitions, limitations, or restrictions imposed by a State or political subdivision of a State are not more restrictive than the prohibitions, limitations, or restrictions imposed under comparable Federal programs. For purposes of this section, attribution to an alien of a sponsor’s income and resources (as described in [section 1631 of this title](./chapter-014-restricting-welfare-and-public-benefits-for-aliens.md#section-1631)) for purposes of determining eligibility for, and the amount of, benefits shall be considered less restrictive than a prohibition of eligibility for such benefits.
 
 ### Statutory Notes
 
@@ -855,7 +855,7 @@ Section effective, except as otherwise provided, as if included in the enactment
 
 (2) The income and resources of the spouse (if any) of the person.
 
-**(b) Duration of attribution period** Subsection (a) of this section shall apply with respect to an alien until such time as the alien—
+**(b) Duration of attribution period** Subsection (a) shall apply with respect to an alien until such time as the alien—
 
 (1) achieves United States citizenship through naturalization pursuant to chapter 2 of title III of the Immigration and Nationality Act [[8 U.S.C. 1421](./chapter-012-immigration-and-nationality.md#section-1421) et seq.]; or
 
@@ -863,7 +863,7 @@ Section effective, except as otherwise provided, as if included in the enactment
 
   (A) has worked 40 qualifying quarters of coverage as defined under title II of the Social Security Act [[42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.] or can be credited with such qualifying quarters as provided under [section 1645 of this title](./chapter-014-restricting-welfare-and-public-benefits-for-aliens.md#section-1645), and (B) in the case of any such qualifying quarter creditable for any period beginning after December 31, 1996, did not receive any Federal means-tested public benefit (as provided under [section 1613 of this title](./chapter-014-restricting-welfare-and-public-benefits-for-aliens.md#section-1613)) during any such period.
 
-**(c) Review of income and resources of alien upon reapplication** Whenever an alien is required to reapply for benefits under any Federal means-tested public benefits program, the applicable agency shall review the income and resources attributed to the alien under subsection (a) of this section.
+**(c) Review of income and resources of alien upon reapplication** Whenever an alien is required to reapply for benefits under any Federal means-tested public benefits program, the applicable agency shall review the income and resources attributed to the alien under subsection (a).
 
 **(d) Application**
 
@@ -881,7 +881,7 @@ Section effective, except as otherwise provided, as if included in the enactment
 
 **(f) Special rule for battered spouse and child**
 
-(1) **In general** — Subject to paragraph (2) and notwithstanding any other provision of this section, subsection (a) of this section shall not apply to benefits—
+(1) **In general** — Subject to paragraph (2) and notwithstanding any other provision of this section, subsection (a) shall not apply to benefits—
 
   (A) during a 12 month period if the alien demonstrates that (i) the alien has been battered or subjected to extreme cruelty in the United States by a spouse or a parent, or by a member of the spouse or parent’s family residing in the same household as the alien and the spouse or parent consented to or acquiesced to such battery or cruelty, (ii) the alien’s child has been battered or subjected to extreme cruelty in the United States by the spouse or parent of the alien (without the active participation of the alien in the battery or cruelty), or by a member of the spouse’s or parent’s family residing in the same household as the alien when the spouse or parent consented or acquiesced to and the alien did not actively participate in such battery or cruelty, or (iii) the alien is a child whose parent (who resides in the same household as the alien child) has been battered or subjected to extreme cruelty in the United States by that parent’s spouse, or by a member of the spouse’s family residing in the same household as the parent and the spouse consented to, or acquiesced in, such battery or cruelty, and the battery or cruelty described in clause (i), (ii), or (iii) (in the opinion of the agency providing such public benefits, which opinion is not subject to review by any court) has a substantial connection to the need for the public benefits applied for; and
 
@@ -924,13 +924,13 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 <a id="section-1641"></a>
 ## § 1641. Authority for States to provide for attribution of sponsors income and resources to the alien with respect to State programs
-**(a) Optional application to State programs** Except as provided in subsection (b) of this section, in determining the eligibility and the amount of benefits of an alien for any State public benefits, the State or political subdivision that offers the benefits is authorized to provide that the income and resources of the alien shall be deemed to include—
+**(a) Optional application to State programs** Except as provided in subsection (b), in determining the eligibility and the amount of benefits of an alien for any State public benefits, the State or political subdivision that offers the benefits is authorized to provide that the income and resources of the alien shall be deemed to include—
 
 (1) the income and resources of any individual who executed an affidavit of support pursuant to [section 1183a of this title](./chapter-012-immigration-and-nationality.md#section-1183a) (as added by section 423 and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) on behalf of such alien, and
 
 (2) the income and resources of the spouse (if any) of the individual.
 
-**(b) Exceptions** Subsection (a) of this section shall not apply with respect to the following State public benefits:
+**(b) Exceptions** Subsection (a) shall not apply with respect to the following State public benefits:
 
 (1) Assistance described in [section 1621(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1621/b/1&num=0&edition=prelim).
 
@@ -1089,11 +1089,11 @@ Amendment by section 501 of Pub. L. 104–208 effective Sept. 30, 1996, see sect
 
 (3) Not later than 90 days after August 5, 1997, the Attorney General shall promulgate regulations which set forth the procedures by which a State or local government can verify whether an alien applying for a State or local public benefit is a qualified alien, a nonimmigrant under the Immigration and Nationality Act [[8 U.S.C. 1101](./chapter-012-immigration-and-nationality.md#section-1101) et seq.], or an alien paroled into the United States under section 212(d)(5) of the Immigration and Nationality Act [[8 U.S.C. 1182(d)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182/d/5&num=0&edition=prelim)] for less than 1 year, for purposes of determining whether the alien is ineligible for benefits under [section 1621 of this title](./chapter-014-restricting-welfare-and-public-benefits-for-aliens.md#section-1621).
 
-**(b) State compliance** Not later than 24 months after the date the regulations described in subsection (a) of this section are adopted, a State that administers a program that provides a Federal public benefit shall have in effect a verification system that complies with the regulations.
+**(b) State compliance** Not later than 24 months after the date the regulations described in subsection (a) are adopted, a State that administers a program that provides a Federal public benefit shall have in effect a verification system that complies with the regulations.
 
 **(c) Authorization of appropriations** There are authorized to be appropriated such sums as may be necessary to carry out the purpose of this section.
 
-**(d) No verification requirement for nonprofit charitable organizations** Subject to subsection (a) of this section, a nonprofit charitable organization, in providing any Federal public benefit (as defined in [section 1611(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1611/c&num=0&edition=prelim)) or any State or local public benefit (as defined in [section 1621(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1621/c&num=0&edition=prelim)), is not required under this chapter to determine, verify, or otherwise require proof of eligibility of any applicant for such benefits.
+**(d) No verification requirement for nonprofit charitable organizations** Subject to subsection (a), a nonprofit charitable organization, in providing any Federal public benefit (as defined in [section 1611(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1611/c&num=0&edition=prelim)) or any State or local public benefit (as defined in [section 1621(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1621/c&num=0&edition=prelim)), is not required under this chapter to determine, verify, or otherwise require proof of eligibility of any applicant for such benefits.
 
 ### Statutory Notes
 

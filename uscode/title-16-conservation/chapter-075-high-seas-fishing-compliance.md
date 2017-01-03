@@ -142,7 +142,11 @@ In par. (10), “subsections (c) and (d) of [section 70502 of title 46](https://
 
 (2) The fees authorized by paragraph (1) shall be collected and credited to the Operations, Research and Facilities account of the National Oceanic and Atmospheric Administration. Fees collected under this subsection shall be available for the necessary expenses of the National Oceanic and Atmospheric Administration in implementing this chapter, and shall remain available until expended.
 
-**(f) Duration** A permit issued under this section is valid for 5 years. A permit issued under this section is void in the event the vessel is no longer eligible for United States documentation, such documentation is revoked or denied, or the vessel is deleted from such documentation.
+**(f) Validity** A permit issued under this section for a vessel is void if—
+
+(1) any other permit or authorization required for the vessel to fish is expired, revoked, or suspended; or
+
+(2) the vessel is no longer documented under the laws of the United States or eligible for such documentation.
 
 ### Statutory Notes
 
@@ -150,6 +154,8 @@ In par. (10), “subsections (c) and (d) of [section 70502 of title 46](https://
 This chapter, referred to in subsec. (e)(2), was in the original “this Act”, and was translated as reading “this title”, meaning title I of Pub. L. 104–43, to reflect the probable intent of Congress.
 
 #### Amendments
+2015—Subsec. (f). Pub. L. 114–81 amended subsec. (f) generally. Prior to amendment, text read as follows: “A permit issued under this section is valid for 5 years. A permit issued under this section is void in the event the vessel is no longer eligible for United States documentation, such documentation is revoked or denied, or the vessel is deleted from such documentation.”
+
 1996—Subsec. (d)(1). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to [section 1855 of this title](./chapter-038-fishery-conservation-and-management.md#section-1855).
 
 #### Effective Date of 1996 Amendment
@@ -162,7 +168,7 @@ Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1
 
 **(b) Information to FAO** The Secretary, in cooperation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, shall—
 
-(1) make available to FAO information contained in the record maintained under subsection (a) of this section;
+(1) make available to FAO information contained in the record maintained under subsection (a);
 
 (2) promptly notify FAO of changes in such information;
 
@@ -233,7 +239,7 @@ It is unlawful for any person subject to the jurisdiction of the United States�
 
 **(c) Powers of enforcement officers**
 
-(1) Any officer who is authorized under subsection (a) of this section to enforce the provisions of this chapter may—
+(1) Any officer who is authorized under subsection (a) to enforce the provisions of this chapter may—
 
   (A) with or without a warrant or other process—
 
@@ -253,7 +259,7 @@ It is unlawful for any person subject to the jurisdiction of the United States�
 
 (2) Subject to the direction of the Secretary, a person charged with law enforcement responsibilities by the Secretary who is performing a duty related to enforcement of a law regarding fisheries or other marine resources may make an arrest without a warrant for an offense against the United States committed in his presence, or for a felony cognizable under the laws of the United States, if he has reasonable grounds to believe that the person to be arrested has committed or is committing a felony.
 
-**(d) Issuance of citations** If any authorized officer finds that a high seas fishing vessel is operating or has been operated in violation of any provision of this chapter, such officer may issue a citation to the owner or operator of such vessel in lieu of proceeding under subsection (c) of this section. If a permit has been issued pursuant to this chapter for such vessel, such officer shall note the issuance of any citation under this subsection, including the date thereof and the reason therefor, on the permit. The Secretary shall maintain a record of all citations issued pursuant to this subsection.
+**(d) Issuance of citations** If any authorized officer finds that a high seas fishing vessel is operating or has been operated in violation of any provision of this chapter, such officer may issue a citation to the owner or operator of such vessel in lieu of proceeding under subsection (c). If a permit has been issued pursuant to this chapter for such vessel, such officer shall note the issuance of any citation under this subsection, including the date thereof and the reason therefor, on the permit. The Secretary shall maintain a record of all citations issued pursuant to this subsection.
 
 **(e) Liability for costs** Any person assessed a civil penalty for, or convicted of, any violation of this chapter shall be liable for the cost incurred in storage, care, and maintenance of any living marine resource or other property seized in connection with the violation.
 
@@ -306,27 +312,27 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(c) Hearing** For the purposes of conducting any hearing under this section, the Secretary may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contempt or refusal to obey a subpoena served upon any person pursuant to this subsection, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Secretary or to appear and produce documents before the Secretary, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
-**(d) Judicial review** Any person against whom a civil penalty is assessed under subsection (a) of this section or against whose vessel a permit sanction is imposed under subsection (b) of this section (other than a permit suspension for nonpayment of penalty or fine) may obtain review thereof in the United States district court for the appropriate district by filing a complaint against the Secretary in such court within 30 days from the date of such penalty or sanction. The Secretary shall promptly file in such court a certified copy of the record upon which such penalty or sanction was imposed, as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim). The findings and order of the Secretary shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in [section 706(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706/2&num=0&edition=prelim).
+**(d) Judicial review** Any person against whom a civil penalty is assessed under subsection (a) or against whose vessel a permit sanction is imposed under subsection (b) (other than a permit suspension for nonpayment of penalty or fine) may obtain review thereof in the United States district court for the appropriate district by filing a complaint against the Secretary in such court within 30 days from the date of such penalty or sanction. The Secretary shall promptly file in such court a certified copy of the record upon which such penalty or sanction was imposed, as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim). The findings and order of the Secretary shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in [section 706(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706/2&num=0&edition=prelim).
 
 **(e) Collection**
 
 (1) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court has entered final judgment in favor of the Secretary, the matter shall be referred to the Attorney General, who shall recover the amount assessed in any appropriate district court of the United States. In such action the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
-(2) A high seas fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used in the commission of an act prohibited by [section 5505 of this title](./chapter-075-high-seas-fishing-compliance.md#section-5505) shall be liable in rem for any civil penalty assessed for such violation under subsection (a) of this section and may be proceeded against in any district court of the United States having jurisdiction thereof. Such penalty shall constitute a maritime lien on such vessel that may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.
+(2) A high seas fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used in the commission of an act prohibited by [section 5505 of this title](./chapter-075-high-seas-fishing-compliance.md#section-5505) shall be liable in rem for any civil penalty assessed for such violation under subsection (a) and may be proceeded against in any district court of the United States having jurisdiction thereof. Such penalty shall constitute a maritime lien on such vessel that may be recovered in an action in rem in the district court of the United States having jurisdiction over the vessel.
 
 
 <a id="section-5508"></a>
 ## § 5508. Criminal offenses
 **(a) Offenses** A person is guilty of an offense if the person commits any act prohibited by paragraph (6), (7), (8), or (9) of [section 5505 of this title](./chapter-075-high-seas-fishing-compliance.md#section-5505).
 
-**(b) Punishment** Any offense described in subsection (a) of this section is a class A misdemeanor punishable by a fine under title 18, or imprisonment for not more than one year, or both; except that if in the commission of any offense the person uses a dangerous weapon, engages in conduct that causes bodily injury to any authorized officer, or places any such officer in fear of imminent bodily injury, the offense is a felony punishable by a fine under title 18, or imprisonment for not more than 10 years, or both.
+**(b) Punishment** Any offense described in subsection (a) is a class A misdemeanor punishable by a fine under title 18, or imprisonment for not more than one year, or both; except that if in the commission of any offense the person uses a dangerous weapon, engages in conduct that causes bodily injury to any authorized officer, or places any such officer in fear of imminent bodily injury, the offense is a felony punishable by a fine under title 18, or imprisonment for not more than 10 years, or both.
 
 
 <a id="section-5509"></a>
 ## § 5509. Forfeitures
 **(a) In general** Any high seas fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used, and any living marine resources (or the fair market value thereof) taken or retained, in any manner, in connection with or as a result of the commission of any act prohibited by [section 5505 of this title](./chapter-075-high-seas-fishing-compliance.md#section-5505) (other than an act for which the issuance of a citation under [section 5506 of this title](./chapter-075-high-seas-fishing-compliance.md#section-5506) is a sufficient sanction) shall be subject to forfeiture to the United States. All or part of such vessel may, and all such living marine resources (or the fair market value thereof) shall, be forfeited to the United States pursuant to a civil proceeding under this section.
 
-**(b) Jurisdiction of district courts** Any district court of the United States shall have jurisdiction, upon application of the Attorney General on behalf of the United States, to order any forfeiture authorized under subsection (a) of this section and any action provided for under subsection (d) of this section.
+**(b) Jurisdiction of district courts** Any district court of the United States shall have jurisdiction, upon application of the Attorney General on behalf of the United States, to order any forfeiture authorized under subsection (a) and any action provided for under subsection (d).
 
 **(c) Judgment** If a judgment is entered for the United States in a civil forfeiture proceeding under this section, the Attorney General may seize any property or other interest declared forfeited to the United States, which has not previously been seized pursuant to this chapter or for which security has not previously been obtained. The provisions of the customs laws relating to—
 

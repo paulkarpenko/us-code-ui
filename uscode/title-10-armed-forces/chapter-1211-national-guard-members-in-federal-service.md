@@ -17,7 +17,7 @@ Members of the Army National Guard of the United States and the Air National Gua
 Provisions similar to those in this section were contained in sections 3495 and 8495 of this title, prior to repeal by Pub. L. 103–337, § 1662(f)(2).
 
 #### Effective Date
-Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-12402"></a>
@@ -41,6 +41,9 @@ Provisions similar to those in this section were contained in sections 3496 and 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
 
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-12403"></a>
 ## § 12403. Army and Air National Guard of the United States: members; status in which ordered into Federal service
@@ -57,6 +60,9 @@ Provisions similar to those in this section were contained in sections 3497 and 
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-12404"></a>
@@ -75,6 +81,9 @@ Provisions similar to those in this section were contained in sections 3498 and 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
 
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-12405"></a>
 ## § 12405. National Guard in Federal service: status
@@ -85,6 +94,9 @@ Members of the National Guard called into Federal service are, from the time whe
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 3499 and 8499 of this title, prior to repeal by Pub. L. 103–337, § 1662(f)(2).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-12406"></a>
@@ -107,6 +119,9 @@ Provisions similar to those in this section were contained in sections 3500 and 
 #### Amendments
 2006—Par. (1). Pub. L. 109–163 substituted “Commonwealths or possessions” for “Territories, Commonwealths, or possessions”.
 
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-12407"></a>
 ## § 12407. National Guard in Federal service: period of service; apportionment
@@ -125,6 +140,9 @@ Provisions similar to those in this section were contained in sections 3501 and 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
 
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-12408"></a>
 ## § 12408. National Guard in Federal service: physical examination
@@ -139,3 +157,6 @@ Provisions similar to those in this section were contained in sections 3502 and 
 
 #### Amendments
 1996—Subsec. (a). Pub. L. 104–201 inserted “under section 12301(a), 12302, or 12304 of this title” after “called into Federal service”.
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).

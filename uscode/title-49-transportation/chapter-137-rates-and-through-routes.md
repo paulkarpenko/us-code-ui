@@ -41,7 +41,7 @@ source: >-
 Provisions similar to those in this section were contained in sections 10701, 10704, and 10705 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13702"></a>
@@ -219,7 +219,7 @@ Subsec. (e). Pub. L. 106–159, § 227(c), designated existing provisions as par
 Subsec. (f)(2). Pub. L. 104–287, § 5(28)(B), substituted “December 31, 1995” for “the day before the effective date of this section”.
 
 #### Abolition of Interstate Commerce Commission
-Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under [section 101 of this title](./chapter-001-organization.md#section-101).
@@ -412,7 +412,7 @@ Provisions similar to those in this section were contained in [section 10701 of 
 Subsec. (e). Pub. L. 104–287, § 5(29)(B), substituted “January 1, 1996” for “the effective date of this section” and “December 31, 1995” for “the day before such effective date”.
 
 #### Abolition of Interstate Commerce Commission
-Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13710"></a>
@@ -453,7 +453,7 @@ Provisions similar to those in this section were contained in sections 10762 and
 Subsec. (b). Pub. L. 104–287, § 5(30)(B), substituted “December 31, 1995” for “the day before the effective date of this section” and “January 1, 1996,” for “the effective date of this section”.
 
 #### Abolition of Interstate Commerce Commission
-Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13711"></a>
@@ -509,7 +509,7 @@ Subsec. (d). Pub. L. 104–287, § 5(31)(B), substituted “January 1, 1996” f
 Subsec. (g). Pub. L. 104–287, § 5(31)(C), substituted “January 1, 1996” for “the effective date of this section”.
 
 #### Abolition of Interstate Commerce Commission
-Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-13712"></a>

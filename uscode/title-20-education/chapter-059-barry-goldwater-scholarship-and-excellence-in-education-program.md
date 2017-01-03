@@ -76,9 +76,9 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
   (B) a member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed and shall be appointed in the same manner as the original appointment for that vacancy was made; and
 
-  (C) notwithstanding the term limitation provided for under this paragraph, a member appointed under subsection (b) of this section may continue to serve under such appointment until the successor to the member is appointed.
+  (C) notwithstanding the term limitation provided for under this paragraph, a member appointed under subsection (b) may continue to serve under such appointment until the successor to the member is appointed.
 
-(2) A Member of Congress appointed to the Board under clause (1) or (2) of subsection (b) of this section may not serve as a member of the Board for more than a total of six years.
+(2) A Member of Congress appointed to the Board under clause (1) or (2) of subsection (b) may not serve as a member of the Board for more than a total of six years.
 
 **(d) Travel and subsistence pay** Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
 
@@ -134,12 +134,12 @@ Each person awarded a scholarship or fellowship under this chapter shall receive
 ## § 4706. Scholarship conditions
 **(a) In general** A person awarded a scholarship under this chapter may receive payments authorized under this chapter only during such periods as the Foundation finds that the person is maintaining satisfactory proficiency and devoting full time to study or research and is not engaging in gainful employment other than employment approved by the Foundation pursuant to regulations of the Board.
 
-**(b) Reports** The Foundation may require reports containing such information in such form and to be filed at such times as the Foundation determines to be necessary from any person awarded a scholarship under this chapter. Such reports shall be accompanied by a certificate from an appropriate official at the institution of higher education, approved by the Foundation, stating that such person is making satisfactory progress in, and is devoting essentially full time to study or research, except as otherwise provided in subsection (a) of this section.
+**(b) Reports** The Foundation may require reports containing such information in such form and to be filed at such times as the Foundation determines to be necessary from any person awarded a scholarship under this chapter. Such reports shall be accompanied by a certificate from an appropriate official at the institution of higher education, approved by the Foundation, stating that such person is making satisfactory progress in, and is devoting essentially full time to study or research, except as otherwise provided in subsection (a).
 
 
 <a id="section-4707"></a>
 ## § 4707. Barry Goldwater Scholarship and Excellence in Education Fund
-**(a) Establishment of fund** There is established in the Treasury of the United States a trust fund to be known as the Barry Goldwater Scholarship and Excellence in Education Fund. The fund shall consist of amounts appropriated to it pursuant to [section 4711 of this title](./chapter-059-barry-goldwater-scholarship-and-excellence-in-education-program.md#section-4711) and amounts credited to it under subsection (d) of this section.
+**(a) Establishment of fund** There is established in the Treasury of the United States a trust fund to be known as the Barry Goldwater Scholarship and Excellence in Education Fund. The fund shall consist of amounts appropriated to it pursuant to [section 4711 of this title](./chapter-059-barry-goldwater-scholarship-and-excellence-in-education-program.md#section-4711) and amounts credited to it under subsection (d).
 
 **(b) Investment of fund assets** It shall be the duty of the Secretary of the Treasury to invest in full the amounts appropriated to the fund. Such investments may be made only in public debt securities of the United States with maturities suitable to the fund. For such purpose, such obligations may be acquired (1) on original issue at the issue price, or (2) by purchase of outstanding obligations at the market place. The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of special obligations exclusively to the fund. Such special obligations shall bear interest at a rate equal to the average rate of interest, computed as to the end of the calendar month next preceding the date of such issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt, except that where such average rate is not a multiple of ⅛ of 1 percent, the rate of interest of such special obligations shall be the multiple of ⅛ of 1 percent next lower than such average rate. Such special obligations shall be issued only if the Secretary determines that the purchases of other interest-bearing obligations of the United States, or of obligations guaranteed as to both principal and interest by the United States or original issue or at the market price, is not in the public interest.
 

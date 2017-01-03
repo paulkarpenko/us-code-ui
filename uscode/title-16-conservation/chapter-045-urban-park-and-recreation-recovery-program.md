@@ -116,4 +116,4 @@ Section, Pub. L. 95–625, title X, § 1014, Nov. 10, 1978, 92 Stat. 3544, relat
 
 ### Statutory Notes
 
-Section, Pub. L. 95–625, title X, § 1015, Nov. 10, 1978, 92 Stat. 3544; Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(M), Nov. 12, 1996, 110 Stat. 4196, related to sunset and reporting provisions. Subsec. (b), which required annual reports on the innovation grant program, had been previously repealed by Pub. L. 104–333.
+Section, Pub. L. 95–625, title X, § 1015, Nov. 10, 1978, 92 Stat. 3544; Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(M), Nov. 12, 1996, 110 Stat. 4196, related to sunset and reporting provisions.

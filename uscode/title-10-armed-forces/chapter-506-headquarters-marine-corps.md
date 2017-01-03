@@ -67,7 +67,7 @@ source: >-
 
   (A) the officer has had significant experience in joint duty assignments; and
 
-  (B) such experience includes at least one full tour of duty in a joint duty assignment (as defined in [section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim)) as a general officer.
+  (B) such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) 11 See References in Text note below. of this title) as a general officer.
 
 (3) The President may waive paragraph (2) in the case of an officer if the President determines such action is necessary in the national interest.
 
@@ -87,7 +87,7 @@ source: >-
 
 (4) exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Marine Corps and the Navy as the Secretary determines;
 
-(5) perform the duties prescribed for him by [section 171 of this title](./chapter-007-boards-councils-and-committees.md#section-171) and other provisions of law; and
+(5) perform the duties prescribed for him by sections 171 and 2547 of this title and other provisions of law; and
 
 (6) perform such other military duties, not otherwise assigned by law, as are assigned to him by the President, the Secretary of Defense, or the Secretary of the Navy.
 
@@ -101,10 +101,15 @@ source: >-
 
 ### Statutory Notes
 
+#### References in Text
+[Section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim), referred to in subsec. (a)(2)(B), was redesignated as [section 664(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/d&num=0&edition=prelim) by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
+
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 5201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5201&num=0&edition=prelim) prior to enactment of Pub. L. 99–433.
 
 #### Amendments
+2015—Subsec. (e)(5). Pub. L. 114–92 substituted “sections 171 and 2547” for “section 171”.
+
 2003—Subsec. (a)(1). Pub. L. 108–136 substituted “from the general officers of the Marine Corps” for “from officers on the active-duty list of the Marine Corps not below the grade of colonel”.
 
 1996—Subsec. (c). Pub. L. 104–106 struck out subsec. (c) which read as follows: “An officer who is retired while serving as Commandant of the Marine Corps, or who, after serving at least two and one-half years as Commandant, is retired after completion of that service while serving in a lower grade than general, may, in the discretion of the President and by and with the advice and consent of the Senate, be retired with the grade of general.”
@@ -140,11 +145,13 @@ Provisions similar to those in this section were contained in [section 5202 of t
 <a id="section-5045"></a>
 ## § 5045. Deputy Commandants
 
-There are in the Headquarters, Marine Corps, not more than six Deputy Commandants, detailed by the Secretary of the Navy from officers on the active-duty list of the Marine Corps.
+There are in the Headquarters, Marine Corps, not more than seven Deputy Commandants, detailed by the Secretary of the Navy from officers on the active-duty list of the Marine Corps.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Pub. L. 114–328 substituted “seven” for “six”.
+
 2002—Pub. L. 107–314 substituted “six” for “five”.
 
 2000—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, text read as follows: “There are in the Headquarters, Marine Corps, a Chief of Staff, not more than five Deputy Chiefs of Staff, and not more than three Assistant Chiefs of Staff, detailed by the Secretary of the Navy from officers on the active-duty list of the Marine Corps.”
@@ -152,7 +159,7 @@ There are in the Headquarters, Marine Corps, not more than six Deputy Commandant
 
 <a id="section-5046"></a>
 ## § 5046. Staff Judge Advocate to the Commandant of the Marine Corps
-**(a)** An officer of the Marine Corps who is a judge advocate and a member of the bar of a Federal court or the highest court of a State or territory and who has had at least eight years of experience in legal duties as a commissioned officer may be appointed by the President, by and with the advice and consent of the Senate, as Staff Judge Advocate to the Commandant of the Marine Corps. If the officer to be appointed as the Staff Judge Advocate to the Commandant of the Marine Corps holds a grade lower than the grade of major general immediately before the appointment, the officer shall be appointed in the grade of major general.
+**(a)** An officer of the Marine Corps who is a judge advocate and a member of the bar of a Federal court or the highest court of a State or territory and who has had at least eight years of experience in legal duties as a commissioned officer may be appointed by the President, by and with the advice and consent of the Senate, as Staff Judge Advocate to the Commandant of the Marine Corps.
 
 **(b)** Under regulations prescribed by the Secretary of Defense, the Secretary of the Navy, in selecting an officer for recommendation to the President for appointment as the Staff Judge Advocate to the Commandant of the Marine Corps, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
 
@@ -173,6 +180,8 @@ There are in the Headquarters, Marine Corps, not more than six Deputy Commandant
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328 struck out last sentence which read as follows: “If the officer to be appointed as the Staff Judge Advocate to the Commandant of the Marine Corps holds a grade lower than the grade of major general immediately before the appointment, the officer shall be appointed in the grade of major general.”
+
 2013—Subsec. (a). Pub. L. 112–239, § 531(a), substituted “appointed by the President, by and with the advice and consent of the Senate,” for “detailed” and “If the officer to be appointed as the Staff Judge Advocate to the Commandant of the Marine Corps holds a grade lower than the grade of major general immediately before the appointment, the officer shall be appointed in the grade of major general.” for “The Staff Judge Advocate to the Commandant of the Marine Corps, while so serving, has the grade of major general.”
 
 Subsecs. (c), (d). Pub. L. 112–239, § 531(b), added subsec. (c) and redesignated former subsec. (c) as (d).
@@ -195,4 +204,9 @@ Pub. L. 99–661, div. A, title V, § 509(d), Nov. 14, 1986, 100 Stat. 3868, pro
 <a id="section-5047"></a>
 ## § 5047. Legislative Assistant to the Commandant
 
-There is in the Marine Corps a Legislative Assistant to the Commandant. An officer assigned to that position shall be in a grade above colonel.
+There is in the Marine Corps a Legislative Assistant to the Commandant.
+
+### Statutory Notes
+
+#### Amendments
+2016—Pub. L. 114–328 struck out second sentence which read as follows: “An officer assigned to that position shall be in a grade above colonel.”

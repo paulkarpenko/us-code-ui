@@ -132,7 +132,7 @@ When unable to attend a meeting of the Board, a member appointed under clauses (
 
 **(b) Term**
 
-(1) The members of the Board appointed under clauses (7), (8), (9), (10), (11), and any private sector members appointed pursuant to clause (12) of subsection (a) of this section shall be appointed for a four-year term coterminous with the term of the President. Members other than members appointed under such clauses, with the exception of the Chairman, shall serve as long as such member is head of the department or agency represented on the Board. No person shall serve as an acting or temporary member in positions requiring Senate confirmation including that of Chairman, for a period in excess of three months.
+(1) The members of the Board appointed under clauses (7), (8), (9), (10), (11), and any private sector members appointed pursuant to clause (12) of subsection (a) shall be appointed for a four-year term coterminous with the term of the President. Members other than members appointed under such clauses, with the exception of the Chairman, shall serve as long as such member is head of the department or agency represented on the Board. No person shall serve as an acting or temporary member in positions requiring Senate confirmation including that of Chairman, for a period in excess of three months.
 
 (2) The President shall appoint a Chairman for a term of four years coterminous with the term of the President. In appointing a Chairman, the President may appoint an individual who is an officer of the United States. If that officer has been appointed to his current position, by and with the advice and consent of the Senate, or if such individual is the Vice President of the United States, such individual may be appointed chairman by the President without the requirement of confirmation by the Senate.
 
@@ -140,7 +140,7 @@ When unable to attend a meeting of the Board, a member appointed under clauses (
 
 **(d) Compensation, travel, subsistence, and other expense items**
 
-(1) Each member of the Board appointed under clauses (7), (8), (9), (10), (11), and any private sector members appointed pursuant to clause (12) of subsection (a) of this section may be compensated at the daily rate provided for GS–18 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), including traveltime, for each day such member is engaged in the performance of his duties as a member of the Board and shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in carrying out the functions of the Board.
+(1) Each member of the Board appointed under clauses (7), (8), (9), (10), (11), and any private sector members appointed pursuant to clause (12) of subsection (a) may be compensated at the daily rate provided for GS–18 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), including traveltime, for each day such member is engaged in the performance of his duties as a member of the Board and shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in carrying out the functions of the Board.
 
 (2) Other members of the Board, with the exception of the Chairman, and the Executive Director of the Center shall serve without additional compensation but shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in carrying out the functions of the Board.
 
@@ -345,7 +345,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 ## § 2461. Audit, review, and evaluation
 **(a) Audit, etc., by Comptroller General** The Comptroller General of the United States shall audit, review, and evaluate the implementation of the provisions of this chapter by the Center.
 
-**(b) Report to Congress; contents** Not less than thirty months nor more than thirty-six months after November 28, 1975, the Comptroller General shall prepare and submit to the Congress a report on his audit conducted pursuant to subsection (a) of this section, which shall contain, but not be limited to, the following:
+**(b) Report to Congress; contents** Not less than thirty months nor more than thirty-six months after November 28, 1975, the Comptroller General shall prepare and submit to the Congress a report on his audit conducted pursuant to subsection (a), which shall contain, but not be limited to, the following:
 
 (1) an evaluation of the effectiveness of the Center’s activities;
 

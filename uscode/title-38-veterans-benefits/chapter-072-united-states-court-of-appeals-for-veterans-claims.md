@@ -148,11 +148,38 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 (1) Subject to paragraph (2), effective as of December 31, 2009, the authorized number of judges of the Court specified in subsection (a) is increased by two.
 
-(2) Effective as of January 1, 2013, an appointment may not be made to the Court if the appointment would result in there being more judges of the Court than the authorized number of judges of the Court specified in subsection (a).
+(2) Effective as of January 1, 2021, an appointment may not be made to the Court if the appointment would result in there being more judges of the Court than the authorized number of judges of the Court specified in subsection (a).
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)
+Pub. L. 114–315, title II, § 204, Dec. 16, 2016, 130 Stat. 1548, provided that, with respect to the selection of a chief judge occurring on or after January 1, 2020, subsection (d) of this section is amended as follows:
+
+(1) in paragraph (1), by—
+
+(A) striking “and” at the end of subparagraph (A);
+
+(B) redesignating subparagraph (B) as subparagraph (C); and
+
+(C) inserting after subparagraph (A) the following new subparagraph (B):
+
+“(B) have at least 3 years remaining in term of office; and”; and
+
+(2) by amending paragraph (2) to read as follows:
+
+“(2)(A) In any case in which there is no judge of the Court in regular active service who meets the requirements under paragraph (1), the judge of the Court in regular active service who is senior in commission and meets subparagraph (A) or (B) and subparagraph (C) of paragraph (1) shall act as the chief judge.
+
+“(B) In any case under subparagraph (A) of this paragraph in which there is no judge of the Court in regular active service who meets subparagraph (A) or (B) and subparagraph (C) of paragraph (1), the judge of the Court in regular active service who is senior in commission and meets subparagraph (C) shall act as the chief judge.”
+
+See 2016 Amendment notes below.
+
 #### Amendments
+2016—Subsec. (d)(1)(B), (C). Pub. L. 114–315, § 204(a)(1), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (d)(2). Pub. L. 114–315, § 204(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In any case in which there is no judge of the Court in regular active service who has served as a judge of the Court for at least one year, the judge of the court in regular active service who is senior in commission and has not served previously as chief judge shall act as the chief judge.”
+
+Subsec. (i)(2). Pub. L. 114–315, § 201(a), substituted “January 1, 2021” for “January 1, 2013”.
+
 2013—Subsec. (f)(1). Pub. L. 112–260, which directed substitution of “engaging in the practice of law, or violating [section 7255(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7255/c&num=0&edition=prelim)” for “or engaging in the practice of law” in section 7253(f)(1), without specifying the Code title to be amended, was executed to subsec. (f)(1) of this section, to reflect the probable intent of Congress.
 
 2008—Subsec. (i). Pub. L. 110–389 added subsec. (i).
@@ -198,6 +225,9 @@ Pub. L. 105–368, § 501, inserted at end “A judge who is nominated by the Pr
 Subsec. (g). Pub. L. 102–82 added subsec. (g).
 
 1989—Subsec. (f)(1). Pub. L. 101–94 inserted “or” before “engaging” and substituted “law” for “law, or physical or mental disability which, in the opinion of the President, prevents the proper execution of the judge’s duties”.
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–315, title II, § 204(b), Dec. 16, 2016, 130 Stat. 1550, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to the selection of a chief judge occurring on or after January 1, 2020.”
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–260 effective on the date that is 180 days after Jan. 10, 2013, see section 302(c)(1) of Pub. L. 112–260, set out as a note under [section 7255 of this title](./chapter-072-united-states-court-of-appeals-for-veterans-claims.md#section-7255).
@@ -659,12 +689,18 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 **(i)** The Court may accept and utilize voluntary services and uncompensated (gratuitous) services, including services as authorized by [section 3102(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3102/b&num=0&edition=prelim) and may accept, hold, administer, and utilize gifts and bequests of personal property for the purposes of aiding or facilitating the work of the Court. Gifts or bequests of money to the Court shall be covered into the Treasury.
 
+**(j)** For purposes of chapter 87 of title 5, a judge who is in regular active service and a judge who is retired under [section 7296 of this title](./chapter-072-united-states-court-of-appeals-for-veterans-claims.md#section-7296) or under chapter 83 or 84 of title 5 shall be treated as an employee described in [section 8701(a)(5) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8701/a/5&num=0&edition=prelim).
+
+**(k)** Notwithstanding any other provision of law, the Court may pay on behalf of its judges, who are age 65 or older, any increase in the cost of Federal Employees’ Group Life Insurance imposed after April 24, 1999, including any expenses generated by such payments, as authorized by the chief judge of the Court in a manner consistent with such payment authorized by the Judicial Conference of the United States pursuant to [section 604(a)(5) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section604/a/5&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### References in Text
 The provisions of title 5 governing appointment in the competitive service, referred to in subsecs. (a) to (c), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
+2016—Subsecs. (j), (k). Pub. L. 114–315 added subsecs. (j) and (k).
+
 1999—Subsec. (g). Pub. L. 106–117 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Chief Judge of the Court may exercise the authority of the Court under this section whenever there are not at least two associate judges of the Court.”
 
 1998—Subsec. (a). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
@@ -674,6 +710,9 @@ The provisions of title 5 governing appointment in the competitive service, refe
 Subsec. (i). Pub. L. 102–82 added subsec. (i).
 
 1989—Pub. L. 101–94 amended section generally. Prior to amendment, section read as follows: “The Court of Veterans Appeals may appoint such employees as may be necessary to execute the functions vested in the Court. Such appointments shall be made in accordance with the provisions of title 5 governing appointment in the competitive service, except that the Court may classify such positions based upon the classification of comparable positions in the judicial branch. The basic pay of such employees shall be fixed in accordance with subchapter III of chapter 53 of title 5.”
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–315, title II, § 202(b), Dec. 16, 2016, 130 Stat. 1549, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to any payment made on or after the first day of the first applicable pay period beginning on or after the date of the enactment of this Act [Dec. 16, 2016].”
 
 #### Effective Date of 1999 Amendment
 Amendment by Pub. L. 106–117 effective Nov. 30, 1999, with savings provision for incumbent chief judge, see section 1036 of Pub. L. 106–117, set out as a note under [section 7253 of this title](./chapter-072-united-states-court-of-appeals-for-veterans-claims.md#section-7253).
@@ -1260,9 +1299,27 @@ Pub. L. 106–117, title X, §§ 1011, 1012, Nov. 30, 1999, 113 Stat. 1588, 1590
 
 **(o)** Each survivor annuity payable from the retirement fund shall be increased at the same time as, and by the same percentage by which, annuities payable from the Judicial Survivors’ Annuities Fund are increased pursuant to [section 376(m) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section376/m&num=0&edition=prelim).
 
+**(p)**
+
+(1) A covered judge who makes an election under subsection (b) may purchase, in 3-month increments, up to an additional year of service credit for each year of Federal judicial service completed, under the terms set forth in this section.
+
+(2) In this subsection, the term “covered judge” means any of the following:
+
+  (A) A judge in regular active service.
+
+  (B) A retired judge who is a recall-eligible retired judge pursuant to subsection (a) of [section 7257 of this title](./chapter-072-united-states-court-of-appeals-for-veterans-claims.md#section-7257).
+
+  (C) A retired judge who would be a recall-eligible retired judge pursuant to subsection (a) of section 7257 but for—
+
+    (i) meeting the aggregate recall service requirements under subsection (b)(3) of such section; or
+
+    (ii) being permanently disabled as described by subsection (b)(4) of such section.
+
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (p). Pub. L. 114–315 added subsec. (p).
+
 1999—Subsec. (a)(2). Pub. L. 106–117, § 1035(2), substituted “a judge” for “the chief judge or an associate judge”.
 
 Pub. L. 106–117, § 1023(e)(2)(A), inserted “who is in active service or who has retired under [section 7296 of this title](./chapter-072-united-states-court-of-appeals-for-veterans-claims.md#section-7296)” after “Court”.

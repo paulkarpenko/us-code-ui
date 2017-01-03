@@ -46,7 +46,7 @@ A prior section 5012 was renumbered [section 5062 of this title](./chapter-507-c
 ## § 5013. Secretary of the Navy
 **(a)**
 
-(1) There is a Secretary of the Navy, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary is the head of the Department of the Navy.
+(1) There is a Secretary of the Navy, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary shall, to the greatest extent practicable, be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management or leadership experience. The Secretary is the head of the Department of the Navy.
 
 (2) A person may not be appointed as Secretary of the Navy within five years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
@@ -114,6 +114,8 @@ Provisions similar to those in this section were contained in [section 5031 of t
 A prior section 5013 was renumbered [section 5063 of this title](./chapter-507-composition-of-the-department-of-the-navy.md#section-5063).
 
 #### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–328 inserted “The Secretary shall, to the greatest extent practicable, be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management or leadership experience.” after first sentence.
+
 2003—Subsec. (c)(4). Pub. L. 108–136 struck out “(to the maximum extent practicable)” after “fulfill”.
 
 1986—Subsec. (a)(2). Pub. L. 99–661 substituted “five years” for “10 years”.
@@ -248,7 +250,9 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 (3) The total number of general and flag officers assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, and the Headquarters, Marine Corps, may not exceed 74.
 
-(4) The limitations in paragraphs (1), (2), and (3) do not apply in time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, or the Headquarters, Marine Corps.
+(4) The limitations in paragraphs (1), (2), and (3) do not apply in time of war.
+
+(5) Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.
 
 ### Statutory Notes
 
@@ -256,6 +260,10 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 A prior section 5014, added Pub. L. 85–861, § 1(106)(A), Sept. 2, 1958, 72 Stat. 1490, prescribed compensation of General Counsel of Department of the Navy, prior to repeal by Pub. L. 88–426, title III, § 305(40)(A), Aug. 14, 1964, 78 Stat. 427, eff. first day of first pay period beginning on or after July 1, 1964. See [section 5316 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2016—Subsec. (f)(4). Pub. L. 114–328, § 903(d)(1), substituted “time of war.” for “time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, or the Headquarters, Marine Corps.”.
+
+Subsec. (f)(5). Pub. L. 114–328, § 903(d)(2), added par. (5).
+
 2002—Subsec. (b)(6) to (8). Pub. L. 107–314 added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
 2001—Subsec. (f)(3). Pub. L. 107–107 substituted “74” for “the number equal to 85 percent of the number of general and flag officers assigned or detailed to such duty on the date of the enactment of this subsection”.
@@ -307,7 +315,7 @@ For order of succession in event of death, permanent disability, or resignation 
 
   (A) One of the Assistant Secretaries shall be the Assistant Secretary of the Navy for Research, Development, and Acquisition. The principal duty of the Assistant Secretary shall be the overall supervision of research, development, and acquisition matters of the Department of the Navy.
 
-  (B) The Assistant Secretary shall have a Principal Military Deputy, who shall be a vice admiral of the Navy or a lieutenant general of the Marine Corps on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under [section 1733 of this title](./chapter-087-defense-acquisition-workforce.md#section-1733).
+  (B) The Assistant Secretary shall have a Principal Military Deputy, who shall be an officer of the Navy or the Marine Corps on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under [section 1733 of this title](./chapter-087-defense-acquisition-workforce.md#section-1733). In the event of a vacancy in the position of Assistant Secretary of the Navy for Research, Development, and Acquisition, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.
 
 ### Statutory Notes
 
@@ -315,6 +323,10 @@ For order of succession in event of death, permanent disability, or resignation 
 Provisions similar to those in this section were contained in [section 5034 of this title](./chapter-505-office-of-the-chief-of-naval-operations.md#section-5034) prior to enactment of Pub. L. 99–433.
 
 #### Amendments
+2016—Subsec. (b)(4)(B). Pub. L. 114–328, § 802(b), inserted at end “In the event of a vacancy in the position of Assistant Secretary of the Navy for Research, Development, and Acquisition, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.”
+
+Pub. L. 114–328, § 502(t), substituted “an officer of the Navy or the Marine Corps” for “a vice admiral of the Navy or a lieutenant general of the Marine Corps”.
+
 2008—Subsec. (b)(4). Pub. L. 110–181 added par. (4).
 
 1988—Subsec. (b)(3). Pub. L. 100–456 added par. (3).
@@ -426,11 +438,7 @@ Section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 290, § 5150; Sept. 7, 1962, Pu
 
 <a id="section-5022"></a>
 ## § 5022. Office of Naval Research: duties
-**(a)**
-
-(1) There is in the Office of the Secretary of the Navy an Office of Naval Research.
-
-(2) Unless appointed to higher grade under another provision of law, an officer, while serving in the Office of Naval Research as Chief of Naval Research, has the rank of rear admiral.
+**(a)** There is in the Office of the Secretary of the Navy an Office of Naval Research.
 
 **(b)** The Office of Naval Research shall perform such duties as the Secretary of the Navy prescribes relating to—
 
@@ -458,6 +466,8 @@ Section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 290, § 5150; Sept. 7, 1962, Pu
 In subsection (c) the words “shall have full force and effect as such” are omitted as surplusage.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328, which directed amendment of “[Section 5022 of title 10](./chapter-503-department-of-the-navy.md#section-5022), United States Code,” by striking the par. (1) designation and by striking par. (2), without specifying the subsection of section 5022 to be amended, was executed by striking the par. (1) designation before “There is in the Office” in subsec. (a) and by striking par. (2) of subsec. (a) to reflect the probable intent of Congress. Par. (2) of subsec. (a) read as follows: “Unless appointed to higher grade under another provision of law, an officer, while serving in the Office of Naval Research as Chief of Naval Research, has the rank of rear admiral.”
+
 2002—Subsec. (a)(2). Pub. L. 107–314 struck out “(upper half)” after “rear admiral”.
 
 2000—Subsec. (b)(4). Pub. L. 106–398 added par. (4).
@@ -586,9 +596,14 @@ The Secretary of the Navy shall ensure that the views of the Commandant of the M
 
 <a id="section-5027"></a>
 ## § 5027. Chief of Legislative Affairs
-**(a)** There is a Chief of Legislative Affairs in the Department of the Navy. An officer assigned to that position shall be an officer in the grade of rear admiral.
+**(a)** There is a Chief of Legislative Affairs in the Department of the Navy.
 
 **(b)** The Chief of Legislative Affairs shall perform legislative affairs functions as specified for the Office of the Secretary of the Navy by [section 5014(c)(1)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5014/c/1/F&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendments
+2016—Subsec. (a). Pub. L. 114–328 struck out second sentence which read as follows: “An officer assigned to that position shall be an officer in the grade of rear admiral.”
 
 
 <a id="section-5028"></a>

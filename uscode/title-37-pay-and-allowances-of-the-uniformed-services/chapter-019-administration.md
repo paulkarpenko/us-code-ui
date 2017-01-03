@@ -305,6 +305,22 @@ Pub. L. 94–212, title VII, § 744, Feb. 9, 1976, 90 Stat. 175, provided that: 
 
   (B) In all cases described in subparagraph (A), the Secretary concerned shall provide a reasonable opportunity for the member to request a delay in the imposition of the repayment requirement to recover the indebtedness. Before beginning collection efforts, the Secretary concerned shall consider the reasons provided by the member for the requested delay, including the financial ability of the member to repay the indebtedness, and the hardship that immediate collection would impose on the member and the member’s dependents.
 
+  (C)
+
+    (i) In accordance with clause (ii), if the indebtedness of a member of the uniformed services to the United States occurs, through no fault of the member, as a result of the overpayment of pay or allowances to the member or upon the settlement of the member’s accounts, the Secretary concerned may not recover the indebtedness from the member, including a retired or former member, using deductions from the pay of the member, deductions from retired or separation pay, or any other collection method unless recovery of the indebtedness commences before the end of the 10-year period beginning on the date on which the indebtedness was incurred.
+
+    (ii) Clause (i) applies with respect to indebtedness incurred on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017.
+
+  (D)
+
+    (i) Not later than January 1 of each of 2017 through 2027, the Director of the Defense Finance and Accounting Service shall review all cases occurring during the 10-year period prior to the date of the review of indebtedness of a member of the uniformed services, including a retired or former member, to the United States in which—
+
+      (I) the recovery of the indebtedness commenced after the end of the 10-year period beginning on the date on which the indebtedness was incurred; or
+
+      (II) the Director did not otherwise notify the member of such indebtedness during such 10-year period.
+
+    (ii) The Director shall submit to the congressional defense committees and the Committees on Veterans’ Affairs of the House of Representatives and the Senate each review conducted under clause (i), including the amounts owed to the United States by the members included in such review.
+
 (4)
 
   (A) If a member of the uniformed services, through no fault of the member, incurs a wound, injury, or illness while in the line of duty in a combat operation or combat zone designated by the President or the Secretary of Defense, any overpayment of pay or allowances made to the member while the member recovers from the wound, injury, or illness may not be deducted from the member’s pay until—
@@ -367,10 +383,15 @@ Pub. L. 94–212, title VII, § 744, Feb. 9, 1976, 90 Stat. 175, provided that: 
 | 1007(g) | 10:4837(g). | [None.] |
 |  | 10:9837(g). | [None.] |
 
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (c)(3)(C)(ii), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
+
 #### Prior Provisions
 Provisions similar to those in subsec. (i) of this section were contained in [section 44c of Title 24](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title24-section44c&num=0&edition=prelim), Hospitals and Asylums, prior to repeal by Pub. L. 101–189, § 347(4).
 
 #### Amendments
+2016—Subsec. (c)(3)(C), (D). Pub. L. 114–328 added subpars. (C) and (D).
+
 2010—Subsec. (i)(3). Pub. L. 111–281, § 205(b)(2)(A), inserted “or, in the case of the Coast Guard, the Commandant” after “Secretary of Defense”.
 
 Subsec. (i)(4), (5). Pub. L. 111–281, § 205(b)(2)(B), (C), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “In this subsection, the term ‘armed forces’ does not include the Coast Guard when it is not operating as a service in the Navy.”
@@ -582,10 +603,12 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Effective Date
 Pub. L. 93–419, § 9, Sept. 19, 1974, 88 Stat. 1153, provided that: “This Act [enacting this section, amending sections 101, 203, 402, and 403 of this title, and enacting provisions set out as notes under this section] is effective upon enactment [Sept. 19, 1974].”
 
-#### Increase in Basic Pay for Fiscal Year 2013
-Pub. L. 112–239, div. A, title VI, § 601, Jan. 2, 2013, 126 Stat. 1773, provided that: “(a) Waiver of Section 1009 Adjustment.—The adjustment to become effective during fiscal year 2013 required by [section 1009 of title 37](./chapter-019-administration.md#section-1009), United States Code, in the rates of monthly basic pay authorized members of the uniformed services shall not be made. “(b) Increase in Basic Pay.—Effective on January 1, 2013, the rates of monthly basic pay for members of the uniformed services are increased by 1.7 percent.”
+#### Increase in Basic Pay for Fiscal Year 2017
+Pub. L. 114–328, div. A, title VI, § 601, Dec. 23, 2016, 130 Stat. 2155, provided that: “(a) Waiver of Section 1009 Adjustment.—The adjustment to become effective during fiscal year 2017 required by [section 1009 of title 37](./chapter-019-administration.md#section-1009), United States Code, in the rates of monthly basic pay authorized members of the uniformed services shall not be made. “(b) Increase in Basic Pay.—Effective on January 1, 2017, the rates of monthly basic pay for members of the uniformed services are increased by 2.1 percent.”
 
 Provisions relating to adjustment of compensation for members of the uniformed services for prior fiscal years were contained in the following acts:
+
+2013—Pub. L. 112–239, div. A, title VI, § 601, Jan. 2, 2013, 126 Stat. 1773.
 
 2010—Pub. L. 111–84, div. A, title VI, § 601, Oct. 28, 2009, 123 Stat. 2347.
 
@@ -781,8 +804,12 @@ Section 101(c) [title IX, § 9103(4)] of Pub. L. 99–500 and Pub. L. 99–591, 
 
 
 <a id="section-1015"></a>
-## § 1015. Repealed. Pub. L. 109–364, div. A, title X, § 1046(b)(1), Oct. 17, 2006, 120 Stat. 2393]
+## § 1015. Recordation of installment payment obligations for incentive pays and similar benefits
+**(a) In General.—** In the case of any pay, allowance, bonus, or other benefit described in subsection (b) that is paid to a member of the uniformed services on an installment basis, each installment payment shall be charged to appropriations that are available for obligation at the time such payment is payable.
+
+**(b) Covered Pay and Benefits.—** Subsection (a) applies to any incentive pay, special pay, or bonus, or similar periodic payment of pay or allowances, or of educational benefits or stipends, that is paid to a member of the uniformed services under this title or title 10.
 
 ### Statutory Notes
 
-Section, added Pub. L. 106–65, div. A, title VI, § 673(a)(1), Oct. 5, 1999, 113 Stat. 674, related to annual report on effects of recruitment and retention initiatives.
+#### Prior Provisions
+A prior section 1015, added Pub. L. 106–65, div. A, title VI, § 673(a)(1), Oct. 5, 1999, 113 Stat. 674, related to annual report on effects of recruitment and retention initiatives, prior to repeal by Pub. L. 109–364, div. A, title X, § 1046(b)(1), Oct. 17, 2006, 120 Stat. 2393.

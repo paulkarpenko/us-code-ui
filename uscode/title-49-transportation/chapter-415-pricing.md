@@ -65,7 +65,7 @@ This amends the catchline for 49:41502 to make a technical and conforming amendm
 1995—Pub. L. 104–88 substituted “another carrier” for “another common carrier” in subsec. (a) and “a carrier” for “a common carrier” in subsecs. (a), (b), and (c).
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-41503"></a>

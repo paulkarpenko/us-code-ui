@@ -19,7 +19,7 @@ source: >-
 ### Statutory Notes
 
 #### Effective Date
-Chapter effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Short Title
 Pub. L. 95–113, title XVII, § 1701, Sept. 29, 1977, 91 Stat. 1031, provided that: “This title [enacting this chapter] may be cited as the ‘Wheat and Wheat Foods Research and Nutrition Education Act’.”
@@ -59,12 +59,22 @@ For the purposes of this chapter:
 
 **(m)** The term “United States” means the several States and the District of Columbia, including any territory or possession.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-3403"></a>
 ## § 3403. Issuance of orders
 **(a) Notice and hearing** Whenever the Secretary has reason to believe that the issuance of an order will tend to effectuate the declared policy of this chapter, the Secretary shall give due notice and opportunity for hearing upon a proposed order. Such hearing may be requested and proposal for an order submitted by an organization certified pursuant to [section 3413 of this title](./chapter-065-wheat-and-wheat-foods-research-and-nutrition-education.md#section-3413), or by any interested person affected by the provisions of this chapter, including the Secretary.
 
 **(b) Effectuation of Congressional policy** After notice and opportunity for hearing as provided in subsection (a) of this section, the Secretary shall issue an order if the Secretary finds, and sets forth in such order, upon the evidence introduced at such hearing that the issuance of such order and all the terms and conditions thereof will tend to effectuate the declared policy of this chapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-3404"></a>
@@ -81,6 +91,11 @@ Any order issued pursuant to this chapter shall contain one or more of the follo
 **(d) Assessment exemption** providing for exemption of specified end products, or types or categories thereof, from the assessments required to be paid under [section 3405 of this title](./chapter-065-wheat-and-wheat-foods-research-and-nutrition-education.md#section-3405) under such conditions and procedures as may be prescribed in the order or rules and regulations issued thereunder; and
 
 **(e) Miscellaneous terms and conditions** terms and conditions incidental to and not inconsistent with the terms and conditions specified in this chapter and necessary to effectuate the other provisions of such order.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-3405"></a>
@@ -108,17 +123,32 @@ Any order issued pursuant to this chapter shall contain such terms and condition
 
 **(j) Reimbursement of expenses** that the Council members, and alternates therefor, shall serve without compensation, but shall be reimbursed for their reasonable expenses incurred in performing their duties as members of the Council.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-3406"></a>
 ## § 3406. Exemption for retail bakers
 
 Any end product manufacturer who is a retail baker shall be exempt from the provisions of this chapter. For the purposes of this section, the term “retail baker” shall be deemed to include all end product manufacturers who sell end products directly to the ultimate consumer: Provided, That such term shall not include any end product manufacturer who derives less than 10 per centum of gross end product sales revenues from sales to ultimate consumers or who derives 10 per centum or more of gross food or food products sales revenues from the sale of such products manufactured or produced by others.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-3407"></a>
 ## § 3407. Referendum
 
 The Secretary shall conduct a referendum as soon as practicable among end product manufacturers not exempt hereunder who, during a representative period preceding the date of the referendum, as determined by the Secretary, have been engaged in the manufacture of end products, for the purpose of ascertaining whether the issuance of an order is approved or favored by such manufacturers. Qualified end product manufacturers may register with the Secretary by mail to vote in such referendum during a period ending not less than thirty days prior to the date of the referendum. Within ten days thereafter, the Secretary shall determine which end product manufacturers are eligible to vote in such referendum and cause to be published the list of such eligible voters. The Secretary shall issue ballots to all such persons who have so registered and been declared eligible to vote. No order issued pursuant to this chapter shall be effective unless the Secretary determines (1) that votes were cast by at least 50 per centum of such registered end product manufacturers, and (2) that the issuance of such order is approved or favored by not less than two-thirds of the end product manufacturers voting in such referendum or by a majority of the end product manufacturers voting in such referendum if such majority manufactured end products containing not less than two-thirds of the total processed wheat contained in all end products manufactured by those voting in the referendum, during the representative period defined by the Secretary: Provided, That at the time of the registration provided under this section each end product manufacturer so registering shall certify to the Secretary the amount of processed wheat contained in the end products manufactured by such end product manufacturer during such representative period. The Secretary shall be reimbursed from assessments collected by the Council for any expenses incurred for the conduct of the referendum. Eligible voter lists and ballots cast in the referendum shall be retained by the Secretary for a period of not less than twelve months after they are cast for audit and recount in the event the results of the referendum are challenged and either the Secretary or the courts determine a recount and retabulation of results is appropriate.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-3408"></a>
@@ -127,12 +157,22 @@ The Secretary shall conduct a referendum as soon as practicable among end produc
 
 **(b) Refund demand; rules and regulations** Notwithstanding any other provision of this chapter, any end product manufacturer who has been subject to and has paid an assessment, but who has reserved the right, under subsection (a) of this section, to seek a refund, and who is not in favor of supporting the programs as provided for herein, shall have the right to demand and receive from the Council a refund of such assessment: Provided, That such demand shall be made by such end product manufacturer in accordance with regulations, and on a form and within a time period, prescribed by the Council and approved by the Secretary and upon submission of proof satisfactory to the Council that the end product manufacturer paid the assessment for which refund is sought, and any such refund shall be made within sixty days after demand is received therefor.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-3409"></a>
 ## § 3409. Petition and review
 **(a) Petition; hearing; ruling** Any person subject to any order may file a written petition with the Secretary, stating that any such order or any provision of such order or any obligation imposed in connection therewith is not in accordance with law and praying for a modification thereof or for an exemption therefrom. The petitioner shall thereupon be given an opportunity for a hearing upon such petition, in accordance with regulations issued by the Secretary. After such hearing, the Secretary shall make a ruling upon the prayer of such petition which shall be final, if in accordance with law.
 
 **(b) Judicial review; jurisdiction; process; remand** The district courts of the United States in any district in which such person is an inhabitant, or has his principal place of business, are hereby vested with jurisdiction to review such ruling, provided a complaint for that purpose is filed within twenty days from the date of the entry of such ruling. Service of process in such proceedings may be had upon the Secretary by delivering a copy of the complaint to the Secretary. If the court determines that such ruling is not in accordance with law, it shall remand such proceedings to the Secretary with directions either (1) to make such ruling as the court shall determine to be in accordance with law, or (2) to take such further proceedings as, in its opinion, the law requires.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-3410"></a>
@@ -143,6 +183,11 @@ The Secretary shall conduct a referendum as soon as practicable among end produc
 
 **(c) Other remedies** The remedies provided in subsections (a) and (b) of this section shall be in addition to, and not exclusive of, the remedies otherwise provided at law or in equity.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-3411"></a>
 ## § 3411. Suspension and termination of orders
@@ -152,11 +197,21 @@ The Secretary shall conduct a referendum as soon as practicable among end produc
 
 **(c) Suspension or termination of order not to be considered an order** The termination or suspension of any order, or any provision thereof, shall not be considered an order within the meaning of this chapter.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-3412"></a>
 ## § 3412. Investigations; power to subpena and take oaths and affirmations; aid of courts
 
 The Secretary may make such investigations as the Secretary deems necessary for the effective administration of this chapter or to determine whether any person subject to the provisions of this chapter has engaged or is about to engage in any acts or practices which constitute or will constitute a violation of any provisions of this chapter, or of any order, or rule or regulation issued under this chapter. For the purpose of such investigation, the Secretary is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence and require the production of any books, papers, and documents which are relevant to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States. In case of contumacy by, or refusal to obey a subpena to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, and documents; and such court may issue an order requiring such person to appear before the Secretary, there to produce records, if so ordered, or to give testimony touching the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or wherever such person may be found.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-3413"></a>
@@ -176,11 +231,21 @@ The eligibility of any organization to represent wheat producers, processors, en
 
 **(f)** the organization’s ability and willingness to further the aims and objectives of this title: Provided, That the primary consideration in determining the eligibility of an organization, other than a consumer organization, shall be whether its membership consists primarily of wheat producers, processors, or end product manufacturers who produce a substantial volume of wheat, processed wheat, or end products, respectively, and whether the organization is based on a primary or overriding interest in the production, processing, or end manufacture of wheat or wheat products, and the nutritional attributes thereof: Provided further, That the primary consideration in determining the eligibility of a consumer organization shall be whether (1) a principal purpose of the organization is to promote consumer interests, consumer research, or consumer education, (2) such organization has a broadly representative constituency of consumers, with active membership participation on a regular basis, and (3) the organization has demonstrated to the Secretary’s satisfaction its commitment to the achievement of the objectives of this chapter.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-3414"></a>
 ## § 3414. Other programs relating to wheat or wheat food research or nutrition education
 
 Nothing in this chapter shall be construed to preempt or interfere with the workings of any other program relating to wheat or wheat foods research or nutrition education organized and operating under the laws of the United States or any State.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-3415"></a>
@@ -188,14 +253,29 @@ Nothing in this chapter shall be construed to preempt or interfere with the work
 
 The Secretary is authorized to issue such regulations as may be necessary to carry out the provisions of this chapter.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-3416"></a>
 ## § 3416. Amendments to orders
 
 The provisions of this chapter applicable to orders shall be applicable to amendments to orders.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-3417"></a>
 ## § 3417. Authorization of appropriations
 
 There are hereby authorized to be appropriated out of any money in the Treasury not otherwise appropriated such funds as are necessary to carry out the provisions of this chapter. The funds so appropriated shall not be available for payment of the expenses or expenditures of the Council in administering any provisions of any order issued pursuant to the terms of this chapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).

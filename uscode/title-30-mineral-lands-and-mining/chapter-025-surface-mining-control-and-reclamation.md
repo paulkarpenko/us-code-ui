@@ -38,6 +38,9 @@ The Congress finds and declares that—
 #### References in Text
 This chapter, referred to in pars. (e), (f), and (k), was in the original “this Act”, meaning Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which enacted this chapter and amended [section 1114 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1114&num=0&edition=prelim), Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
+#### Short Title of 2016 Amendment
+Pub. L. 114–223, div. C, § 167(a), as added by Pub. L. 114–254, div. A, § 101(3), Dec. 10, 2016, 130 Stat. 1009, provided that: “This section [amending [section 1232 of this title](./chapter-025-surface-mining-control-and-reclamation.md#section-1232)] may be cited as the ‘Continued Health Benefits for Miners Act’.”
+
 #### Short Title of 2006 Amendment
 Pub. L. 109–432, div. C, title II, § 200, Dec. 20, 2006, 120 Stat. 3006, provided that: “This title [enacting [section 1244 of this title](./chapter-025-surface-mining-control-and-reclamation.md#section-1244), amending sections 1231 to 1233, 1236, 1238, 1240a, 1260, 1300, and 1302 of this title and sections 9701, 9702, 9704 to 9707, 9711, 9712, and 9721 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under [section 1232 of this title](./chapter-025-surface-mining-control-and-reclamation.md#section-1232) and sections 9701, 9704, and 9712 of Title 26] may be cited as the ‘Surface Mining Control and Reclamation Act Amendments of 2006’.”
 
@@ -163,6 +166,8 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1793, provided: “That notwithstanding any other provisions of law, appropriations for the Office of Surface Mining Reclamation and Enforcement may, hereafter, provide for the travel and per diem expenses of State and tribal personnel attending OSMRE sponsored training”.
 
 Similar provisions were contained in the following appropriations acts:
+
+Pub. L. 114–113, div. G, title I, Dec. 18, 2015, 129 Stat. 2536.
 
 Pub. L. 113–235, div. F, title I, Dec. 16, 2014, 128 Stat. 2406.
 
@@ -439,7 +444,7 @@ A prior section 1228, Pub. L. 95–87, title III, § 308, Aug. 3, 1977, 91 Stat.
 Section 10 of the Federal Advisory Committee Act, referred to in subsec. (f), is section 10 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
-Section was enacted as part of the Mining and Mineral Resources Research Institute Act of 1984, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
+Section was enacted as part of the Mining and Mineral Resources Institutes Act, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
 
 #### Prior Provisions
 A prior section 1229, Pub. L. 95–87, title III, § 309, Aug. 3, 1977, 91 Stat. 455, contained provisions similar to this section covering fiscal years 1978 through 1984.
@@ -788,12 +793,30 @@ Pub. L. 99–509, title III, § 3501, Oct. 21, 1986, 100 Stat. 1891, as amended 
 
       (II) payments paid by Federal agencies in connection with benefits provided by the 1992 UMWA Benefit Plan.
 
-  (C) *Multiemployer Health Benefit Plan* — A transfer to the Multiemployer Health Benefit Plan established after July 20, 1992, by the parties that are the settlors of the 1992 UMWA Benefit Plan referred to in subparagraph (B) (referred to in this subparagraph and subparagraph (D) as “the Plan”), in an amount equal to the excess (if any) of—
+  (C) *Multiemployer Health Benefit Plan*
 
-    (i) the amount that the trustees of the Plan estimate will be expended from the Plan during the next calendar year, to provide benefits no greater than those provided by the Plan as of December 31, 2006; over
+    (i) *Transfer to the Plan* — A transfer to the Multiemployer Health Benefit Plan established after July 20, 1992, by the parties that are the settlors of the 1992 UMWA Benefit Plan referred to in subparagraph (B) (referred to in this subparagraph and subparagraph (D) as “the Plan”), in an amount equal to the excess (if any) of—
 
-    (ii) the amount that the trustees estimated the Plan will receive during the next calendar year in payments paid by Federal agencies in connection with benefits provided by the Plan.
-    Such excess shall be calculated by taking into account only those beneficiaries actually enrolled in the Plan as of December 31, 2006, who are eligible to receive benefits under the Plan on the first day of the calendar year for which the transfer is made.
+      (I) the amount that the trustees of the Plan estimate will be expended from the Plan during the next calendar year, to provide benefits no greater than those provided by the Plan as of December 31, 2006; over
+
+      (II) the amount that the trustees estimated the Plan will receive during the next calendar year in payments paid by Federal agencies in connection with benefits provided by the Plan.
+
+    (ii) *Calculation of excess* — The excess determined under clause (i) shall be calculated—
+
+      (I) except as provided in subclause (II), by taking into account only those beneficiaries actually enrolled in the Plan as of December 31, 2006, who are eligible to receive health benefits under the Plan on the first day of the calendar year for which the transfer is made; and
+
+      (II) for purposes of the transfer made for fiscal year 2017, as if, for the period beginning January 1, 2017, and ending April 30, 2017, only—
+
+        (aa) those beneficiaries actually enrolled in the Plan as of December 10, 2016, who are eligible to receive health benefits under the Plan on January 1, 2017, other than those beneficiaries enrolled in the Plan under the terms of a participation agreement with the current or former employer of such beneficiaries; and
+
+        (bb) those beneficiaries whose health benefits, defined as those benefits payable directly following death or retirement or upon a finding of disability by an employer in the bituminous coal industry under a coal wage agreement (as defined in [section 9701(b)(1) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9701/b/1&num=0&edition=prelim)), would be denied or reduced as a result of a bankruptcy proceeding commenced in 2012 or 2015,
+    were taken into account, and for any other period during such fiscal year, only the beneficiaries described in subclause (I) were taken into account.
+
+    (iii) *Eligibility of certain retirees* — Individuals referred to in clause (ii)(II)(bb) shall be treated as eligible to receive health benefits under the Plan for the plan year that includes January 1, 2017.
+
+    (iv) *Requirements for transfer* — The amount of the transfer otherwise determined under this subparagraph for fiscal year 2017 shall be reduced by any amount transferred for the fiscal year to the Plan, to pay benefits required under the Plan, from a voluntary employees’ beneficiary association established as a result of a bankruptcy proceeding described in clause (ii)(II).
+
+    (v) *VEBA transfer* — The administrator of such voluntary employees’ beneficiary association shall transfer to the Plan any amounts received as a result of such bankruptcy proceeding, reduced by an amount for administrative costs of such association.
 
   (D) *Individuals considered enrolled* — For purposes of subparagraph (C), any individual who was eligible to receive benefits from the Plan as of December 20, 2006, even though benefits were being provided to the individual pursuant to a settlement agreement approved by order of a bankruptcy court entered on or before September 30, 2004, will be considered to be actually enrolled in the Plan and shall receive benefits from the Plan beginning on December 31, 2006.
 
@@ -893,13 +916,13 @@ Pub. L. 99–509, title III, § 3501, Oct. 21, 1986, 100 Stat. 1891, as amended 
 
   (A) *Cap* — The total amount transferred under this subsection for any fiscal year shall not exceed $490,000,000.
 
-  (B) *Insufficient amounts* — In a case in which the amount required to be transferred without regard to this paragraph exceeds the maximum annual limitation in subparagraph (A), the Secretary shall adjust the transfers of funds so that—
+  (B) *Insufficient amounts* — In a case in which the amount required to be transferred without regard to this paragraph exceeds the maximum annual limitation in subparagraph (A), the Secretary shall adjust the transfers of funds under paragraph (1) so that—
 
-    (i) each transfer for the fiscal year is a percentage of the amount described;
+    (i) each such transfer for the fiscal year is a percentage of the amount described;
 
     (ii) the amount is determined without regard to subsection (h)(5)(A); and
 
-    (iii) the percentage transferred is the same for all transfers made under this subsection for the fiscal year.
+    (iii) the percentage transferred is the same for all transfers made under paragraph (1) for the fiscal year.
 
 (4) **Availability of funds** — Funds shall be transferred under paragraphs (1) and (2) beginning in fiscal year 2008 and each fiscal year thereafter, and shall remain available until expended.
 
@@ -909,6 +932,10 @@ Pub. L. 99–509, title III, § 3501, Oct. 21, 1986, 100 Stat. 1891, as amended 
 November 5, 1990, referred to in subsec. (g)(4)(B)(ii), was in the original “the date of enactment of this paragraph”, which was translated as meaning the date of enactment of Pub. L. 101–508, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+2016—Subsec. (h)(2)(C). Pub. L. 114–223, div. C, § 167(b), as added by Pub. L. 114–254, div. A, § 101(3), designated existing provisions as cl. (i), inserted heading, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), realigned margins, added cls. (ii) to (v), and struck out concluding provisions which read as follows: “Such excess shall be calculated by taking into account only those beneficiaries actually enrolled in the Plan as of December 31, 2006, who are eligible to receive benefits under the Plan on the first day of the calendar year for which the transfer is made.”
+
+Subsec. (i)(3)(B). Pub. L. 114–223, div. C, § 167(c), as added by Pub. L. 114–254, div. A, § 101(3), substituted “under paragraph (1) so that” for “so that” in introductory provisions, “each such transfer” for “each transfer” in cl. (i), and “paragraph (1)” for “this subsection” in cl. (iii).
+
 2008—Subsec. (i)(1)(C). Pub. L. 110–343 substituted “$9,000,000 on October 1, 2009, and $9,000,000 on October 1, 2010” for “and $9,000,000 on October 1, 2009” in introductory provisions.
 
 2006—Subsec. (a). Pub. L. 109–432, § 202(a)(2), substituted “28” for “31.5”, “12” for “13.5”, and “8 cents” for “9 cents”.
@@ -1305,7 +1332,15 @@ Amendment by Pub. L. 101–508 effective Oct. 1, 1991, see section 6014 of Pub. 
 
   (B) *Amount due* — In this paragraph, the term “amount due” means the unappropriated amount allocated to a State or Indian tribe before October 1, 2007, under subparagraph (A) or (B) of [section 1232(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232/g/1&num=0&edition=prelim).
 
-  (C) *Schedule* — Payments under subparagraph (A) shall be made in 7 equal annual installments, beginning with fiscal year 2008.
+  (C) *Schedule*
+
+    (i) *In general* — Payments under subparagraph (A) shall be made in 7 equal annual installments, beginning with fiscal year 2008.
+
+    (ii) *Certain payments required* — Not withstanding any other provision of this chapter, as soon as practicable, but not later than December 10, 2015, of the 7 equal installments referred to in clause (i), the Secretary shall pay to any certified State or Indian tribe to which the total annual payment under this subsection was limited to $15,000,000 in 2013 and $28,000,000 in fiscal year 2014—
+
+      (I) the final 2 installments in 2 separate payments of $82,700,000 each; and
+
+      (II) 2 separate payments of $38,250,000 each.
 
   (D) *Use of funds*
 
@@ -1333,20 +1368,6 @@ Amendment by Pub. L. 101–508 effective Oct. 1, 1991, see section 6014 of Pub. 
 
   (B) *Allocation* — The grants shall be allocated based on the amount of coal historically produced before August 3, 1977, in the same manner as under [section 1232(g)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232/g/5&num=0&edition=prelim).
 
-(5) **Limitation on annual payments** — Notwithstanding any other provision of this subsection, the total annual payment to a certified State or Indian tribe under this subsection shall be not more than $15,000,000.
-
-(6) **Supplemental funding**
-
-  (A) *Waiver of limitation* — Notwithstanding paragraph (5), the limitation on the total annual payments to a certified State or Indian tribe under this subsection shall not apply for fiscal years 2014 and 2015.
-
-  (B) *Limitation on waiver* — Notwithstanding subparagraph (A), the total annual payment to a certified State or Indian tribe under this subsection for fiscal year 2014 shall not be more than $28,000,000 and for fiscal year 2015 shall not be more than $75,000,000.
-
-  (C) *Insufficient amounts* — If the total annual payment to a certified State or Indian tribe under paragraphs (1) and (2) is limited by subparagraph (B), the Secretary shall—
-
-    (i) give priority to making payments under paragraph (2); and
-
-    (ii) use any remaining funds to make payments under paragraph (1).
-
 ### Statutory Notes
 
 #### References in Text
@@ -1358,6 +1379,10 @@ The Comprehensive Environmental Response Compensation and Liability Act of 1980,
 A prior section 411 of Pub. L. 95–87 was renumbered section 412 and was classified to [section 1241 of this title](./chapter-025-surface-mining-control-and-reclamation.md#section-1241), prior to being omitted from the Code.
 
 #### Amendments
+2015—Subsec. (h)(1)(C). Pub. L. 114–94, § 43001(1), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+
+Subsec. (h)(5), (6). Pub. L. 114–94, § 43001(2), struck out pars. (5) and (6) which related to limitation on annual payments and supplemental funding, respectively.
+
 2013—Subsec. (h)(6). Pub. L. 113–40 added par. (6).
 
 2012—Subsec. (h)(4)(A). Pub. L. 112–175 amended subpar. (A) generally. Prior to amendment, text read as follows: “The amount allocated to any State or Indian tribe under subparagraph (A) or (B) of [section 1232(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232/g/1&num=0&edition=prelim) that is paid to the State or Indian tribe as a result of a payment under paragraph (1) or (2) shall be reallocated and available for grants under [section 1232(g)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1232/g/5&num=0&edition=prelim).”
@@ -1691,6 +1716,8 @@ Amendment by Pub. L. 101–508, effective Oct. 1, 1991, see section 6014 of Pub.
 Pub. L. 113–76, div. G, title I, Jan. 17, 2014, 128 Stat. 299, provided in part: “That, in subsequent fiscal years [after fiscal year 2014], all amounts collected by the Office of Surface Mining from permit fees pursuant to section 507 of Public Law 95–87 ([30 U.S.C. 1257](./chapter-025-surface-mining-control-and-reclamation.md#section-1257)) shall be credited to this account [Office of Surface Mining Reclamation and Enforcement—regulation and technology] as discretionary offsetting collections, to remain available until expended.”
 
 Similar provisions were contained in the following appropriations acts:
+
+Pub. L. 114–113, div. G, title I, Dec. 18, 2015, 129 Stat. 2536.
 
 Pub. L. 113–235, div. F, title I, Dec. 16, 2014, 128 Stat. 2406.
 
@@ -2107,7 +2134,7 @@ Section 4 of the Federal Coal Leasing Amendments Act of 1975 (90 Stat. 1085), re
 ### Statutory Notes
 
 #### References in Text
-Public Law 83–566, referred to in subsec. (b)(8)(B), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, as amended, known as the Watershed Protection and Flood Prevention Act, which is classified generally to chapter 18 (§ 1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1001&num=0&edition=prelim) and Tables.
+Public Law 83–566, referred to in subsec. (b)(8)(B), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, known as the Watershed Protection and Flood Prevention Act, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1001&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.

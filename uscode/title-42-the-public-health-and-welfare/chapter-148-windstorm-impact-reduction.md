@@ -31,6 +31,9 @@ The Congress finds the following:
 
 ### Statutory Notes
 
+#### Short Title of 2015 Amendment
+Pub. L. 114–52, § 1, Sept. 30, 2015, 129 Stat. 496, provided that: “This Act [amending sections 15702 to 15704 and 15706 of this title] may be cited as the ‘National Windstorm Impact Reduction Act Reauthorization of 2015’.”
+
 #### Short Title
 Pub. L. 108–360, title II, § 201, Oct. 25, 2004, 118 Stat. 1675, provided that: “This Act [probably should be ‘this title’, enacting this chapter and amending [section 1885d of this title](./chapter-016-national-science-foundation.md#section-1885d)] may be cited as the ‘National Windstorm Impact Reduction Act of 2004’.”
 
@@ -40,37 +43,74 @@ Pub. L. 108–360, title II, § 201, Oct. 25, 2004, 118 Stat. 1675, provided tha
 
 In this chapter:
 
-(1) **Director** — The term “Director” means the Director of the Office of Science and Technology Policy.
+(1) **Director** — The term “Director” means the Director of the National Institute of Standards and Technology.
 
-(2) **Program** — The term “Program” means the National Windstorm Impact Reduction Program established by [section 15703(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15703/a&num=0&edition=prelim).
+(2) **Lifelines** — The term “lifelines” means public works and utilities, including transportation facilities and infrastructure, oil and gas pipelines, electrical power and communication facilities and infrastructure, and water supply and sewage treatment facilities.
 
-(3) **State** — The term “State” means each of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
+(3) **Program** — The term “Program” means the National Windstorm Impact Reduction Program established by [section 15703(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15703/a&num=0&edition=prelim).
 
-(4) **Windstorm** — The term “windstorm” means any storm with a damaging or destructive wind component, such as a hurricane, tropical storm, tornado, or thunderstorm.
+(4) **State** — The term “State” means each of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
+
+(5) **Windstorm** — The term “windstorm” means any storm with a damaging or destructive wind component, such as a hurricane, tropical storm, northeaster, tornado, or thunderstorm.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 108–360, Oct. 25, 2004, 118 Stat. 1675, which is classified generally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 15701 of this title](./chapter-148-windstorm-impact-reduction.md#section-15701) and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 108–360, Oct. 25, 2004, 118 Stat. 1675, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 15701 of this title](./chapter-148-windstorm-impact-reduction.md#section-15701) and Tables.
+
+#### Amendments
+2015—Par. (1). Pub. L. 114–52, § 2(a), substituted “Director of the National Institute of Standards and Technology” for “Director of the Office of Science and Technology Policy”.
+
+Par. (2). Pub. L. 114–52, § 2(b)(2), added par. (2). Former par. (2) redesignated (3).
+
+Pars. (3), (4). Pub. L. 114–52, § 2(b)(1), redesignated pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
+
+Par. (5). Pub. L. 114–52, § 2(b)(1), (c), redesignated par. (4) as (5) and inserted “northeaster,” after “tropical storm,”.
 
 
 <a id="section-15703"></a>
 ## § 15703. National Windstorm Impact Reduction Program
-**(a) Establishment** There is established the National Windstorm Impact Reduction Program.
+**(a) Establishment** There is established the National Windstorm Impact Reduction Program, the purpose of which is to achieve major measurable reductions in the losses of life and property from windstorms through a coordinated Federal effort, in cooperation with other levels of government, academia, and the private sector, aimed at improving the understanding of windstorms and their impacts and developing and encouraging the implementation of cost-effective mitigation measures to reduce those impacts.
 
-**(b) Objective** The objective of the Program is the achievement of major measurable reductions in losses of life and property from windstorms. The objective is to be achieved through a coordinated Federal effort, in cooperation with other levels of government, academia, and the private sector, aimed at improving the understanding of windstorms and their impacts and developing and encouraging implementation of cost-effective mitigation measures to reduce those impacts.
+**(b) Responsibilities of Program agencies**
 
-**(c) Interagency Working Group** Not later than 90 days after October 25, 2004, the Director shall establish an Interagency Working Group consisting of representatives of the National Science Foundation, the National Oceanic and Atmospheric Administration, the National Institute of Standards and Technology, the Federal Emergency Management Agency, and other Federal agencies as appropriate. The Director shall designate an agency to serve as Chair of the Working Group and be responsible for the planning, management, and coordination of the Program, including budget coordination. Specific agency roles and responsibilities under the Program shall be defined in the implementation plan required under subsection (e). General agency responsibilities shall include the following:
+(1) **Lead agency** — The National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director shall—
 
-(1) The National Institute of Standards and Technology shall support research and development to improve building codes and standards and practices for design and construction of buildings, structures, and lifelines.
+  (A) ensure that the Program includes the necessary components to promote the implementation of windstorm risk reduction measures by Federal, State, and local governments, national standards and model building code organizations, architects and engineers, and others with a role in planning and constructing buildings and lifelines;
 
-(2) The National Science Foundation shall support research in engineering and the atmospheric sciences to improve the understanding of the behavior of windstorms and their impact on buildings, structures, and lifelines.
+  (B) support the development of performance-based engineering tools, and work with appropriate groups to promote the commercial application of such tools, including through wind-related model building codes, voluntary standards, and construction best practices;
 
-(3) The National Oceanic and Atmospheric Administration shall support atmospheric sciences research to improve the understanding of the behavior of windstorms and their impact on buildings, structures, and lifelines.
+  (C) request the assistance of Federal agencies other than the Program agencies, as necessary to assist in carrying out this chapter;
 
-(4) The Federal Emergency Management Agency shall support the development of risk assessment tools and effective mitigation techniques, windstorm-related data collection and analysis, public outreach, information dissemination, and implementation of mitigation measures consistent with the Agency’s all-hazards approach.
+  (D) coordinate all Federal post-windstorm investigations to the extent practicable; and
 
-**(d) Program components**
+  (E) when warranted by research or investigative findings, issue recommendations to assist in informing the development of model codes, and provide information to Congress on the use of such recommendations.
+
+(2) **National Institute of Standards and Technology** — In addition to the lead agency responsibilities described under paragraph (1), the National Institute of Standards and Technology shall be responsible for carrying out research and development to improve model building codes, voluntary standards, and best practices for the design, construction, and retrofit of buildings, structures, and lifelines.
+
+(3) **National Science Foundation** — The National Science Foundation shall support research in—
+
+  (A) engineering and the atmospheric sciences to improve the understanding of the behavior of windstorms and their impact on buildings, structures, and lifelines; and
+
+  (B) economic and social factors influencing windstorm risk reduction measures.
+
+(4) **National Oceanic and Atmospheric Administration** — The National Oceanic and Atmospheric Administration shall support atmospheric sciences research to improve the understanding of the behavior of windstorms and their impact on buildings, structures, and lifelines.
+
+(5) **Federal Emergency Management Agency** — The Federal Emergency Management Agency shall—
+
+  (A) support—
+
+    (i) the development of risk assessment tools and effective mitigation techniques;
+
+    (ii) windstorm-related data collection and analysis;
+
+    (iii) public outreach and information dissemination; and
+
+    (iv) promotion of the adoption of windstorm preparedness and mitigation measures, including for households, businesses, and communities, consistent with the Agency’s all-hazards approach; and
+
+  (B) work closely with national standards and model building code organizations, in conjunction with the National Institute of Standards and Technology, to promote the implementation of research results and promote better building practices within the building design and construction industry, including architects, engineers, contractors, builders, and inspectors.
+
+**(c) Program components**
 
 (1) **In general** — The Program shall consist of three primary mitigation components: improved understanding of windstorms, windstorm impact assessment, and windstorm impact reduction. The components shall be implemented through activities such as data collection and analysis, risk assessment, outreach, technology transfer, and research and development. To the extent practicable, research activities authorized under this chapter shall be peer-reviewed, and the components shall be designed to be complementary to, and avoid duplication of, other public and private hazard reduction efforts.
 
@@ -92,24 +132,71 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
   (C) outreach and information dissemination related to cost-effective and affordable construction techniques, loss estimation and risk assessment methodologies, and other pertinent information regarding windstorm phenomena to Federal, State, and local officials, the construction industry, and the general public.
 
-**(e) Implementation plan** Not later than 1 year after October 25, 2004, the Interagency Working Group shall develop and transmit to the Congress an implementation plan for achieving the objectives of the Program. The plan shall include—
+**(d) Budget activities** The Director of the National Institute of Standards and Technology, the Director of the National Science Foundation, the Director of the National Oceanic and Atmospheric Administration, and the Director of the Federal Emergency Management Agency shall each include in their agency’s annual budget request to Congress a description of their agency’s projected activities under the Program for the fiscal year covered by the budget request, along with an assessment of what they plan to spend on those activities for that fiscal year.
 
-(1) an assessment of past and current public and private efforts to reduce windstorm impacts, including a comprehensive review and analysis of windstorm mitigation activities supported by the Federal Government;
+**(e) Interagency Coordinating Committee on Windstorm Impact Reduction**
 
-(2) a description of plans for technology transfer and coordination with natural hazard mitigation activities supported by the Federal Government;
+(1) **Establishment** — There is established an Interagency Coordinating Committee on Windstorm Impact Reduction, chaired by the Director or the Director’s designee.
 
-(3) a statement of strategic goals and priorities for each Program component area;
+(2) **Membership** — In addition to the chair, the Committee shall be composed of—
 
-(4) a description of how the Program will achieve such goals, including detailed responsibilities for each agency; and
+  (A) the heads or such designees of—
 
-(5) a description of plans for cooperation and coordination with interested public and private sector entities in each program component area.
+    (i) the Federal Emergency Management Agency;
 
-**(f) Biennial report** The Interagency Working Group shall, on a biennial basis, and not later than 180 days after the end of the preceding 2 fiscal years, transmit a report to the Congress describing the status of the windstorm impact reduction program, including progress achieved during the preceding two fiscal years. Each such report shall include any recommendations for legislative and other action the Interagency Working Group considers necessary and appropriate. In developing the biennial report, the Interagency Working Group shall consider the recommendations of the Advisory Committee established under [section 15704 of this title](./chapter-148-windstorm-impact-reduction.md#section-15704).
+    (ii) the National Oceanic and Atmospheric Administration;
+
+    (iii) the National Science Foundation;
+
+    (iv) the Office of Science and Technology Policy; and
+
+    (v) the Office of Management and Budget; and
+
+  (B) the head of any other Federal agency, or such designee, the chair considers appropriate.
+
+(3) **Meetings** — The Committee shall meet not less than once a year at the call of the Director of the National Institute of Standards and Technology.
+
+(4) **General purpose and duties** — The Committee shall oversee the planning and coordination of the Program.
+
+(5) **Strategic plan** — The Committee shall develop and submit to Congress, not later than 1 year after September 30, 2015, a Strategic Plan for the Program that includes—
+
+  (A) prioritized goals for the Program that will mitigate against the loss of life and property from future windstorms;
+
+  (B) short-term, mid-term, and long-term research objectives to achieve those goals;
+
+  (C) a description of the role of each Program agency in achieving the prioritized goals;
+
+  (D) the methods by which progress towards the goals will be assessed; and
+
+  (E) an explanation of how the Program will foster the transfer of research results into outcomes, such as improved model building codes.
+
+(6) **Progress report** — Not later than 18 months after September 30, 2015, the Committee shall submit to the Congress a report on the progress of the Program that includes—
+
+  (A) a description of the activities funded under the Program, a description of how these activities align with the prioritized goals and research objectives established in the Strategic Plan, and the budgets, per agency, for these activities;
+
+  (B) the outcomes achieved by the Program for each of the goals identified in the Strategic Plan;
+
+  (C) a description of any recommendations made to change existing building codes that were the result of Program activities; and
+
+  (D) a description of the extent to which the Program has incorporated recommendations from the Advisory Committee on Windstorm Impact Reduction.
+
+(7) **Coordinated budget** — The Committee shall develop a coordinated budget for the Program, which shall be submitted to the Congress not later than 60 days after the date of the President’s budget submission for each fiscal year.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (d)(1), was in the original “this title”, meaning title II of Pub. L. 108–360, Oct. 25, 2004, 118 Stat. 1675, which is classified generally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 15701 of this title](./chapter-148-windstorm-impact-reduction.md#section-15701) and Tables.
+This chapter, referred to in subsec. (b)(1)(C), was in the original “this Act” and was translated as reading “this title”, to reflect the probable intent of Congress. See below.
+
+This chapter, referred to in subsec. (c)(1), was in the original “this title”, meaning title II of Pub. L. 108–360, Oct. 25, 2004, 118 Stat. 1675, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 15701 of this title](./chapter-148-windstorm-impact-reduction.md#section-15701) and Tables.
+
+#### Amendments
+2015—Subsecs. (a), (b). Pub. L. 114–52, § 3(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to the establishment and objective of the National Windstorm Impact Reduction Program, respectively.
+
+Subsec. (c). Pub. L. 114–52, § 3(1), (2), redesignated subsec. (d) as (c) and struck out former subsec. (c) which established an Interagency Working Group.
+
+Subsecs. (d), (e). Pub. L. 114–52, § 3(2), (3), added subsecs. (d) and (e), redesignated former subsec. (d) as (c), and struck out former subsec. (e) which required an implementation plan from the Interagency Working Group.
+
+Subsec. (f). Pub. L. 114–52, § 3(2), struck out subsec. (f) which required biennial reports on the status of the windstorm impact reduction program.
 
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
@@ -117,26 +204,47 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 <a id="section-15704"></a>
 ## § 15704. National Advisory Committee on Windstorm Impact Reduction
-**(a) Establishment** The Director shall establish a National Advisory Committee on Windstorm Impact Reduction, consisting of not less than 11 and not more than 15 non-Federal members representing a broad cross section of interests such as the research, technology transfer, design and construction, and financial communities; materials and systems suppliers; State, county, and local governments; the insurance industry; and other representatives as designated by the Director.
+**(a) In general** The Director of the National Institute of Standards and Technology shall establish an Advisory Committee on Windstorm Impact Reduction, which shall be composed of at least 7 and not more than 15 members who are qualified to provide advice on windstorm impact reduction and represent related scientific, architectural, and engineering disciplines, none of whom may be employees of the Federal Government, including—
 
-**(b) Assessment** The Advisory Committee shall assess—
+(1) representatives of research and academic institutions;
 
-(1) trends and developments in the science and engineering of windstorm impact reduction;
+(2) industry standards development organizations;
 
-(2) the effectiveness of the Program in carrying out the activities under [section 15703(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15703/d&num=0&edition=prelim);
+(3) emergency management agencies;
 
-(3) the need to revise the Program; and
+(4) State and local government; and
 
-(4) the management, coordination, implementation, and activities of the Program.
+(5) business communities, including the insurance industry.
 
-**(c) Biennial report** At least once every two years, the Advisory Committee shall report to Congress and the Interagency Working Group on the assessment carried out under subsection (b).
+**(b) Assessments** The Advisory Committee on Windstorm Impact Reduction shall offer assessments and recommendations on—
 
-**(d) Sunset exemption** Section 14 of the Federal Advisory Committee Act shall not apply to the Advisory Committee established under this section.
+(1) trends and developments in the natural, engineering, and social sciences and practices of windstorm impact mitigation;
+
+(2) the priorities of the Program’s Strategic Plan;
+
+(3) the coordination of the Program;
+
+(4) the effectiveness of the Program in meeting its purposes; and
+
+(5) any revisions to the Program which may be necessary.
+
+**(c) Compensation** The members of the Advisory Committee established under this section shall serve without compensation.
+
+**(d) Reports** At least every 2 years, the Advisory Committee shall report to the Director on the assessments carried out under subsection (b) and its recommendations for ways to improve the Program.
+
+**(e) Charter** Notwithstanding section 14(b)(2) of the Federal Advisory Committee Act (5 U.S.C. App.), the Advisory Committee shall not be required to file a charter subsequent to its initial charter, filed under section 9(c) of such Act, before the termination date specified in subsection (f) of this section.
+
+**(f) Termination** The Advisory Committee shall terminate on September 30, 2017.
+
+**(g) Conflict of interest** An Advisory Committee member shall recuse himself from any Advisory Committee activity in which he has an actual pecuniary interest.
 
 ### Statutory Notes
 
 #### References in Text
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Sections 9 and 14 of the Federal Advisory Committee Act, referred to in subsec. (e), are sections 9 and 14, respectively, of Pub. L. 92–463, which are set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+2015—Pub. L. 114–52 amended section generally. Prior to amendment, section established a National Advisory Committee on Windstorm Impact Reduction.
 
 
 <a id="section-15705"></a>
@@ -147,7 +255,7 @@ Nothing in this chapter supersedes any provision of the National Manufactured Ho
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 108–360, Oct. 25, 2004, 118 Stat. 1675, which is classified generally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 15701 of this title](./chapter-148-windstorm-impact-reduction.md#section-15701) and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 108–360, Oct. 25, 2004, 118 Stat. 1675, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 15701 of this title](./chapter-148-windstorm-impact-reduction.md#section-15701) and Tables.
 
 The National Manufactured Housing Construction and Safety Standards Act of 1974, referred to in text, is title VI of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 700, as amended, which is classified generally to chapter 70 (§ 5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5401 of this title](./chapter-070-manufactured-home-construction-and-safety-standards.md#section-5401) and Tables.
 
@@ -156,40 +264,43 @@ The National Manufactured Housing Construction and Safety Standards Act of 1974,
 ## § 15706. Authorization of appropriations
 **(a) Federal Emergency Management Agency** There are authorized to be appropriated to the Federal Emergency Management Agency for carrying out this chapter—
 
-(1) $8,700,000 for fiscal year 2006;
+(1) $5,332,000 for fiscal year 2015;
 
-(2) $9,400,000 for fiscal year 2007; and
+(2) $5,332,000 for fiscal year 2016; and
 
-(3) $9,400,000 for fiscal year 2008.
+(3) $5,332,000 for fiscal year 2017.
 
 **(b) National Science Foundation** There are authorized to be appropriated to the National Science Foundation for carrying out this chapter—
 
-(1) $8,700,000 for fiscal year 2006;
+(1) $9,682,000 for fiscal year 2015;
 
-(2) $9,400,000 for fiscal year 2007; and
+(2) $9,682,000 for fiscal year 2016; and
 
-(3) $9,400,000 for fiscal year 2008.
+(3) $9,682,000 for fiscal year 2017.
 
 **(c) National Institute of Standards and Technology** There are authorized to be appropriated to the National Institute of Standards and Technology for carrying out this chapter—
 
-(1) $3,000,000 for fiscal year 2006;
+(1) $4,120,000 for fiscal year 2015;
 
-(2) $4,000,000 for fiscal year 2007; and
+(2) $4,120,000 for fiscal year 2016; and
 
-(3) $4,000,000 for fiscal year 2008.
+(3) $4,120,000 for fiscal year 2017.
 
 **(d) National Oceanic and Atmospheric Administration** There are authorized to be appropriated to the National Oceanic and Atmospheric Administration for carrying out this chapter—
 
-(1) $2,100,000 for fiscal year 2006;
+(1) $2,266,000 for fiscal year 2015;
 
-(2) $2,200,000 for fiscal year 2007; and
+(2) $2,266,000 for fiscal year 2016; and
 
-(3) $2,200,000 for fiscal year 2008.
+(3) $2,266,000 for fiscal year 2017.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 108–360, Oct. 25, 2004, 118 Stat. 1675, which is classified generally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 15701 of this title](./chapter-148-windstorm-impact-reduction.md#section-15701) and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 108–360, Oct. 25, 2004, 118 Stat. 1675, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 15701 of this title](./chapter-148-windstorm-impact-reduction.md#section-15701) and Tables.
+
+#### Amendments
+2015—Pub. L. 114–52 amended section generally. Prior to amendment, section authorized appropriations for fiscal years 2006 to 2008.
 
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
@@ -203,4 +314,4 @@ The Secretary of Commerce, the Director of the National Institute of Standards a
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 108–360, Oct. 25, 2004, 118 Stat. 1675, which is classified generally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 15701 of this title](./chapter-148-windstorm-impact-reduction.md#section-15701) and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 108–360, Oct. 25, 2004, 118 Stat. 1675, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 15701 of this title](./chapter-148-windstorm-impact-reduction.md#section-15701) and Tables.

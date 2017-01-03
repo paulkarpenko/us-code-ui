@@ -11,7 +11,7 @@ source: >-
 
 Notwithstanding any other provision of law—
 
-**(a) Gasohol feedstock or food security reserves; establishment** Whenever the President or other member of the executive branch of Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 [50 U.S.C. App. 2401 et seq.] or any other provision of law and the Secretary of Agriculture determines that such suspension or restriction will result in a surplus supply of such commodity that will adversely affect prices producers receive for the commodity, the Secretary may establish a gasohol feedstock reserve or a food security reserve, or both, of the commodity, as provided in subsections (c) and (d) of this section, if the commodity is suitable for stockpiling in a reserve.
+**(a) Gasohol feedstock or food security reserves; establishment** Whenever the President or other member of the executive branch of Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 [[50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.] or any other provision of law and the Secretary of Agriculture determines that such suspension or restriction will result in a surplus supply of such commodity that will adversely affect prices producers receive for the commodity, the Secretary may establish a gasohol feedstock reserve or a food security reserve, or both, of the commodity, as provided in subsections (c) and (d) of this section, if the commodity is suitable for stockpiling in a reserve.
 
 **(b) Announcement of intention to establish reserves; contents** Within thirty days after the export of any agricultural commodity to a country or area is suspended or restricted as described in subsection (a) of this section, the Secretary of Agriculture shall announce whether a gasohol feedstock reserve or a food security reserve of the commodity, or both, will be established under this section and shall include in such announcement the amount of the commodity that will be placed in such reserves, which shall be that portion of the estimated exports of the commodity affected by the suspension or restriction, as determined by the Secretary, that should be removed from the market to prevent the accumulation of a surplus supply of the commodity that will adversely affect prices producers receive for the commodity.
 
@@ -44,7 +44,7 @@ Notwithstanding any other provision of law—
 ### Statutory Notes
 
 #### References in Text
-The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 [Section 1445e of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1445e), referred to in subsec. (c)(2), was amended generally by Pub. L. 101–624, title XI, § 1123, Nov. 28, 1990, 104 Stat. 3503, and, as so amended, subsec. (b) of section 1445e does not contain a clause (5).
 
@@ -112,6 +112,9 @@ Pub. L. 96–494, title II, § 201, Dec. 3, 1980, 94 Stat. 2570, provided that: 
 #### References in Text
 The producer storage program provided for under [section 1445e of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1445e), referred to in subsec. (a)(4), refers to section 1445e prior to the general amendment of such section by Pub. L. 101–624, title XI, § 1123, Nov. 28, 1990, 104 Stat. 3503. As amended, section 1445e now provides for a farmer owned reserve program.
 
+#### Effective Date
+Section effective Dec. 3, 1980, see section 213 of Pub. L. 96–494, set out as a note under [section 4001 of this title](./chapter-071-agricultural-trade-suspension-adjustment.md#section-4001).
+
 
 <a id="section-4003"></a>
 ## § 4003. Study of potential for expansion of United States agricultural export markets; report to President and Congress
@@ -128,6 +131,11 @@ The producer storage program provided for under [section 1445e of this title](./
 (4) the potential for the development of international agreements for the exchange of United States agricultural products for natural resources, including energy sources, or other commodities and products needed by the United States; and
 
 (5) the steps that the United States must take to (A) increase agricultural export trade, and (B) obtain needed natural resources or other commodities and products in exchange for agricultural products, to the maximum extent feasible.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Dec. 3, 1980, see section 213 of Pub. L. 96–494, set out as a note under [section 4001 of this title](./chapter-071-agricultural-trade-suspension-adjustment.md#section-4001).
 
 
 <a id="section-4004"></a>
@@ -169,6 +177,9 @@ Subsecs. (f), (g). Pub. L. 97–98, § 1114(b)(4), (5), added subsec. (f), redes
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
+#### Effective Date
+Section effective Dec. 3, 1980, see section 213 of Pub. L. 96–494, set out as a note under [section 4001 of this title](./chapter-071-agricultural-trade-suspension-adjustment.md#section-4001).
+
 #### Community Services Administration
 Community Services Administration, which was established by section 601 of Economic Opportunity Act of 1964, as amended ([42 U.S.C. 2941](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2941&num=0&edition=prelim)), terminated when Economic Opportunity Act of 1964, Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, was repealed, except for titles VIII and X, effective Oct. 1, 1981, by section 683(a) of Pub. L. 97–35, title VI, Aug. 13, 1981, 95 Stat. 519, which is classified to [42 U.S.C. 9912(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9912/a&num=0&edition=prelim). An Office of Community Services, headed by a Director, was established in the Department of Health and Human Services by section 676 of Pub. L. 97–35, which is classified to [42 U.S.C. 9905](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9905&num=0&edition=prelim).
 
@@ -206,3 +217,6 @@ As used in this chapter, the phrase “fuel conversion price” means the price 
 
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 96–494, Dec. 3, 1980, 94 Stat. 2570, as amended, which enacted this chapter and [section 1445h of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1445h), amended sections 1444c, 1445b, 1445e, and 1446 of this title, and enacted provisions set out as notes under sections 1445e, and 1445h and 4001 of this title and [section 714c of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714c&num=0&edition=prelim), Commerce and Trade. For complete classification of title II to the Code, see Short Title note set out under [section 4001 of this title](./chapter-071-agricultural-trade-suspension-adjustment.md#section-4001) and Tables.
+
+#### Effective Date
+Section effective Dec. 3, 1980, see section 213 of Pub. L. 96–494, set out as a note under [section 4001 of this title](./chapter-071-agricultural-trade-suspension-adjustment.md#section-4001).

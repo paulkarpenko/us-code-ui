@@ -14,18 +14,18 @@ The President is authorized, in his discretion and under such regulations as he 
 ### Statutory Notes
 
 #### Codification
-Section originally provided that “not more than one citizen of any American republic shall receive instruction at the same time in the United States Military Academy and not more than one in the United States Naval Academy.” This phrase has been omitted in view of acts July 14, 1941, and June 26, 1946. See sections 4344, 6957, and 9344 of Title 10, Armed Forces.
+Section originally provided that “not more than one citizen of any American republic shall receive instruction at the same time in the United States Military Academy and not more than one in the United States Naval Academy.” This phrase has been omitted in view of acts July 14, 1941, and June 26, 1946.
 
 
 <a id="section-221a"></a>
 ## § 221a. Instructions of citizens from American republics; United States Military Academy; restrictions; saving provision
 
-After June 26, 1946, no person shall have authority to permit citizens of the American Republics to receive instruction at the United States Military Academy under the provisions of [section 221 of this title](./chapter-012-foreign-and-exchange-students.md#section-221). Any person who is receiving instruction at the United States Military Academy on June 26, 1946, under authority of [section 221 of this title](./chapter-012-foreign-and-exchange-students.md#section-221), may, in the discretion of the President, be permitted to continue to receive such instruction and, if so permitted, shall thereafter be deemed to be receiving instruction under the provisions of sections 4344 and 9344 of title 10.
+After June 26, 1946, no person shall have authority to permit citizens of the American Republics to receive instruction at the United States Military Academy under the provisions of [section 221 of this title](./chapter-012-foreign-and-exchange-students.md#section-221). Any person who is receiving instruction at the United States Military Academy on June 26, 1946, under authority of [section 221 of this title](./chapter-012-foreign-and-exchange-students.md#section-221), may, in the discretion of the President, be permitted to continue to receive such instruction and, if so permitted, shall thereafter be deemed to be receiving instruction under the provisions of [section 347 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section347&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Codification
-Words “sections 4344 and 9344 of title 10” substituted in text for “section 1 of this Act”, meaning section 1 of act June 27, 1946, ch. 493, 60 Stat. 311, on authority of act Aug. 10, 1956, § 49(b), ch. 1041, 70A Stat. 640, the first section of which enacted Title 10, Armed Forces.
+Words “[section 347 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section347&num=0&edition=prelim)” substituted in text for “sections 4344 and 9344 of title 10” in view of repeal of sections 4344 and 9344 of title 10 by Pub. L. 114–328, div. A, title XII, § 1248(b)(1), Dec. 23, 2016, 130 Stat. 2525 and enactment of [section 347 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section347&num=0&edition=prelim) by Pub. L. 114–328, div. A, title XII, § 1248(a), Dec. 23, 2016, 130 Stat. 2522. Words “sections 4344 and 9344 of title 10” substituted in text for “section 1 of this Act”, meaning section 1 of act June 27, 1946, ch. 493, 60 Stat. 311, on authority of act Aug. 10, 1956, § 49(b), ch. 1041, 70A Stat. 640, the first section of which enacted Title 10, Armed Forces.
 
 
 <a id="section-222-to-224"></a>

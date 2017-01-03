@@ -40,7 +40,7 @@ Pub. L. 103–141, § 1, Nov. 16, 1993, 107 Stat. 1488, provided that: “This A
 
 <a id="section-2000bb-1"></a>
 ## § 2000bb–1. Free exercise of religion protected
-**(a) In general** Government shall not substantially burden a person’s exercise of religion even if the burden results from a rule of general applicability, except as provided in subsection (b) of this section.
+**(a) In general** Government shall not substantially burden a person’s exercise of religion even if the burden results from a rule of general applicability, except as provided in subsection (b).
 
 **(b) Exception** Government may substantially burden a person’s exercise of religion only if it demonstrates that application of the burden to the person—
 

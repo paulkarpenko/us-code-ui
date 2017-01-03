@@ -391,7 +391,7 @@ Pub. L. 98–525, title VII, § 706(b), Oct. 19, 1984, 98 Stat. 2570, directed t
 
 <a id="section-2006a"></a>
 ## § 2006a. Assistance for education and training: availability of certain assistance for use only for certain programs of education
-**(a) In General.—** Effective as of August,11 So in original. 1, 2014, an individual eligible for assistance under a Department of Defense educational assistance program or authority covered by this section may, except as provided in subsection (b), only use such assistance for educational expenses incurred for a program as follows:
+**(a) In General.—** Effective as of August 1, 2014, an individual eligible for assistance under a Department of Defense educational assistance program or authority covered by this section may, except as provided in subsection (b), only use such assistance for educational expenses incurred for a program as follows:
 
 (1) An eligible program (as defined in section 481 of the Higher Education Act of 1965 ([20 U.S.C. 1088](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1088&num=0&edition=prelim))) that is offered by an institution of higher education that has entered into, and is complying with, a program participation agreement under section 487 of such Act ([20 U.S.C. 1094](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1094&num=0&edition=prelim)).
 
@@ -405,7 +405,7 @@ Pub. L. 98–525, title VII, § 706(b), Oct. 19, 1984, 98 Stat. 2570, directed t
 
 (2) was not an eligible program described in subsection (a) at any time during the most recent two-year period;
 
-(3) is a program that the Secretary determines would further the purposes of the educational assistance programs or authorities covered by this chapter, or would further the education interests of students eligible for assistance under the such 1 programs or authorities; and
+(3) is a program that the Secretary determines would further the purposes of the educational assistance programs or authorities covered by this chapter, or would further the education interests of students eligible for assistance under the such 11 So in original. programs or authorities; and
 
 (4) the institution providing the program does not provide any commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to any persons or entities engaged in any student recruiting or admission activities or in making decisions regarding the award of student financial assistance, except for the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance.
 
@@ -426,6 +426,9 @@ Pub. L. 98–525, title VII, § 706(b), Oct. 19, 1984, 98 Stat. 2570, directed t
 (2) The term “institution of higher education” has the meaning given that term in section 102 of the Higher Education Act for 1965 ([20 U.S.C. 1002](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002&num=0&edition=prelim)).
 
 ### Statutory Notes
+
+#### Amendments
+2015—Subsec. (a). Pub. L. 114–92 substituted “August 1” for “August, 1” in introductory provisions.
 
 #### Effective Date
 Pub. L. 113–66, div. A, title V, § 541(c), Dec. 26, 2013, 127 Stat. 762, provided that: “The amendments made by this section [enacting this section] shall take effect on August 1, 2014.”
@@ -649,12 +652,20 @@ Pub. L. 99–190, § 101(b) [title VIII, § 8086], Dec. 19, 1985, 99 Stat. 1185,
 <a id="section-2008"></a>
 ## § 2008. Authority to use funds for certain educational purposes
 
-Funds appropriated to the Department of Defense may be used to carry out construction, as defined in section 8013(3) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7713(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7713/3&num=0&edition=prelim)), or to carry out section 8008 of such Act ([20 U.S.C. 7708](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7708&num=0&edition=prelim)), relating to the provision of assistance to certain school facilities under the impact aid program.
+Funds appropriated to the Department of Defense may be used to carry out construction, as defined in section 7013(3) of the Elementary and Secondary Education Act of 1965, or to carry out section 7008 of such Act, relating to the provision of assistance to certain school facilities under the impact aid program.
 
 ### Statutory Notes
 
+#### References in Text
+Sections 7008 and 7013(3) of the Elementary and Secondary Education Act of 1965, referred to in text, are classified to sections 7708 and 7713(3), respectively, of Title 20, Education.
+
 #### Amendments
+2015—Pub. L. 114–95 substituted “section 7013(3) of the Elementary and Secondary Education Act of 1965, or to carry out section 7008 of such Act” for “section 8013(3) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7713(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7713/3&num=0&edition=prelim)), or to carry out section 8008 of such Act ([20 U.S.C. 7708](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7708&num=0&edition=prelim))”.
+
 1996—Pub. L. 104–106 substituted “construction, as defined in section 8013(3) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7713(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7713/3&num=0&edition=prelim)), or to carry out section 8008 of such Act ([20 U.S.C. 7708](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7708&num=0&edition=prelim)), relating to the provision of assistance to certain school facilities under the impact aid program.” for “section 10 of the Act of September 23, 1950 ([20 U.S.C. 640](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section640&num=0&edition=prelim)), relating to impact aid authorization.”
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date
 Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under [section 520b of this title](./chapter-031-enlistments.md#section-520b).
@@ -676,83 +687,11 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 
 <a id="section-2010"></a>
-## § 2010. Participation of developing countries in combined exercises: payment of incremental expenses
-**(a)** The Secretary of Defense, after consultation with the Secretary of State, may pay the incremental expenses of a developing country that are incurred by that country as the direct result of participation in a bilateral or multilateral military exercise if—
-
-(1) the exercise is undertaken primarily to enhance the security interests of the United States; and
-
-(2) the Secretary of Defense determines that the participation by such country is necessary to the achievement of the fundamental objectives of the exercise and that those objectives cannot be achieved unless the United States provides the incremental expenses incurred by such country.
-
-**(b)** The Secretary of Defense shall establish by regulation such accounting procedures as may be necessary to ensure that funds expended under this section are properly expended.
-
-**(c)** Funds available to carry out this section shall be available, to the extent provided in appropriations Acts, for bilateral or multilateral military exercises that begin in a fiscal year and end in the following fiscal year.
-
-**(d)** In this section, the term “incremental expenses” means the reasonable and proper cost of the goods and services that are consumed by a developing country as a direct result of that country’s participation in a bilateral or multilateral military exercise with the United States, including rations, fuel, training ammunition, and transportation. Such term does not include pay, allowances, and other normal costs of such country’s personnel.
-
-### Statutory Notes
-
-#### Amendments
-2011—Subsecs. (b) to (e). Pub. L. 112–81 redesignated subsecs. (c) to (e) as (b) to (d), respectively, and struck out former subsec. (b) which read as follows: “The Secretary of Defense shall submit to Congress a report each year, not later than March 1, containing—
-
-“(1) a list of the developing countries for which expenses have been paid by the United States under this section during the preceding year; and
-
-“(2) the amounts expended on behalf of each government.”
-
-2008—Subsecs. (d), (e). Pub. L. 110–417 added subsec. (d) and redesignated former subsec. (d) as (e).
-
-1997—Subsec. (e). Pub. L. 105–85 struck out subsec. (e) which read as follows: “Not more than $13,400,000 may be obligated or expended for the purposes of this section during fiscal years 1987 through 1991.”
-
-#### Effective Date of 2008 Amendment
-Pub. L. 110–417, [div. A], title XII, § 1203(b), Oct. 14, 2008, 122 Stat. 4622, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 2008, and shall apply with respect to bilateral and multilateral military exercises described in [section 2010 of title 10](./chapter-101-training-generally.md#section-2010), United States Code, as so amended, that begin on or after that date.”
+## § 2010. Renumbered § 321]
 
 
 <a id="section-2011"></a>
-## § 2011. Special operations forces: training with friendly foreign forces
-**(a) Authority To Pay Training Expenses.—** Under regulations prescribed pursuant to subsection (c), the commander of the special operations command established pursuant to [section 167 of this title](./chapter-006-combatant-commands.md#section-167) and the commander of any other unified or specified combatant command may pay, or authorize payment for, any of the following expenses:
-
-(1) Expenses of training special operations forces assigned to that command in conjunction with training, and training with, armed forces and other security forces of a friendly foreign country.
-
-(2) Expenses of deploying such special operations forces for that training.
-
-(3) In the case of training in conjunction with a friendly developing country, the incremental expenses incurred by that country as the direct result of such training.
-
-**(b) Purpose of Training.—** The primary purpose of the training for which payment may be made under subsection (a) shall be to train the special operations forces of the combatant command.
-
-**(c) Regulations.—** The Secretary of Defense shall prescribe regulations for the administration of this section. The regulations shall require that training activities may be carried out under this section only with the prior approval of the Secretary of Defense. The regulations shall establish accounting procedures to ensure that the expenditures pursuant to this section are appropriate.
-
-**(d) Definitions.—** In this section:
-
-(1) The term “special operations forces” includes civil affairs forces and military information support operations forces.
-
-(2) The term “incremental expenses”, with respect to a developing country, means the reasonable and proper cost of rations, fuel, training ammunition, transportation, and other goods and services consumed by such country, except that the term does not include pay, allowances, and other normal costs of such country’s personnel.
-
-**(e) Reports.—** Not later than April 1 of each year, the Secretary of Defense shall submit to Congress a report regarding training during the preceding fiscal year for which expenses were paid under this section. Each report shall specify the following:
-
-(1) All countries in which that training was conducted.
-
-(2) The type of training conducted, including whether such training was related to counter-narcotics or counter-terrorism activities, the duration of that training, the number of members of the armed forces involved, and expenses paid.
-
-(3) The extent of participation by foreign military forces, including the number and service affiliation of foreign military personnel involved and physical and financial contribution of each host nation to the training effort.
-
-(4) The relationship of that training to other overseas training programs conducted by the armed forces, such as military exercise programs sponsored by the Joint Chiefs of Staff, military exercise programs sponsored by a combatant command, and military training activities sponsored by a military department (including deployments for training, short duration exercises, and other similar unit training events).
-
-(5) A summary of the expenditures under this section resulting from the training for which expenses were paid under this section.
-
-(6) A discussion of the unique military training benefit to United States special operations forces derived from the training activities for which expenses were paid under this section.
-
-### Statutory Notes
-
-#### Amendments
-2011—Subsec. (d)(1). Pub. L. 112–81 substituted “military information support operations” for “psychological operations”.
-
-1998—Subsec. (c). Pub. L. 105–261, § 1062(a), inserted after first sentence “The regulations shall require that training activities may be carried out under this section only with the prior approval of the Secretary of Defense.”
-
-Subsec. (e)(5), (6). Pub. L. 105–261, § 1062(b), added pars. (5) and (6).
-
-1996—Subsec. (a). Pub. L. 104–106 substituted “To” for “to” in heading.
-
-#### Training of General Purpose Forces of the United States Armed Forces With Military and Other Security Forces of Friendly Foreign Countries
-Pub. L. 113–66, div. A, title XII, § 1203, Dec. 26, 2013, 127 Stat. 894, provided that: “(a) Training Authorized.—“(1) In general.—Under regulations prescribed under subsection (f), general purpose forces of the United States Armed Forces may train with the military forces or other security forces of a friendly foreign country if the Secretary of Defense determines that it is in the national security interests of the United States to do so. Training may be conducted under this section only with the prior approval of the Secretary of Defense. “(2) Concurrence.—Before conducting a training event in or with a foreign country under this subsection, the Secretary of Defense shall seek the concurrence of the Secretary of State in such training event. “(b) Types of Training Authorized.—Any training conducted by the United States Armed Forces pursuant to subsection (a) shall, to the maximum extent practicable—“(1) support the mission essential tasks for which the training unit providing such training is responsible; “(2) be with a foreign unit or organization with equipment that is functionally similar to such training unit; and “(3) include elements that promote—“(A) observance of and respect for human rights and fundamental freedoms; and “(B) respect for legitimate civilian authority within the foreign country or countries concerned. “(c) Authority To Pay Expenses.—“(1) In general.—The Secretary of a military department or the commander of a combatant command may pay, or authorize payment for, the incremental expenses incurred by a friendly foreign country as the direct result of training with general purpose forces of the United States Armed Forces pursuant to subsection (a). “(2) Limitation.—The amount of incremental expenses payable under paragraph (1) in any fiscal year may not exceed $10,000,000. “(d) Notice Before Commencement of Training.—The Secretary of Defense shall notify the Committees on Armed Services of the Senate and the House of Representatives not later than 15 days before the commencement of any training event pursuant to subsection (a). The notice on a training event shall include a description of the event and the foreign country or countries involved in the event. “(e) Annual Reports to Congress.—Not later than April 1 of each year following a fiscal year in which training is conducted pursuant to subsection (a), the Secretary of Defense shall submit to the appropriate committees of Congress a report on the training conducted pursuant to that subsection. Each report shall specify the following:“(1) For the fiscal year covered by such report, the following:“(A) Each country in which training was conducted. “(B) The type of training conducted, the duration of such training, and the number of members of the United States Armed Forces involved in such training. “(C) The extent of participation in such training by foreign military forces and other security forces, including the number and service affiliation of foreign military and other security force personnel involved and the physical and financial contribution of each country specified in subparagraph (A) in such training. “(D) The relationship of such training to other overseas training programs conducted by the United States Armed Forces, such as military exercise programs sponsored by the Joint Chiefs of Staff, military exercise programs sponsored by a combatant command, and military training activities sponsored by a military department (including deployments for training, short duration exercises, and other similar unit training events). “(E) A summary of the expenditures under subsection (c) in connection with such training. “(F) A description and assessment of the unique military training benefits for members of the United States Armed Forces involved in such training. “(2) A list of the training events to be conducted during the 12-month period beginning on April 1 of the year in which such report is submitted. “(f) Regulations.—Any training conducted pursuant to subsection (a) shall be conducted under regulations prescribed by the Secretary of Defense for the administration of this section. The regulations shall be prescribed not later than 180 days after the date of the enactment of this Act [Dec. 26, 2013]. “(g) Definitions.—In this section:“(1) The term ‘appropriate committees of Congress’ means—“(A) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and “(B) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives. “(2) The term ‘incremental expenses’, with respect to a friendly foreign country, means the reasonable and proper costs of rations, fuel, training ammunition, transportation, and other goods and services consumed by such country as a direct result of that country’s participation in training conducted pursuant to subsection (a), except that such term does not include pay, allowances, and other normal costs of such country’s military or security force personnel. “(3) The term ‘other security forces’ includes national security forces that conduct border and maritime security, but does not include civilian police. “(h) Expiration.—The authority under this section may not be exercised after September 30, 2017.”
+## § 2011. Renumbered § 322]
 
 
 <a id="section-2012"></a>
@@ -968,7 +907,7 @@ Pub. L. 104–201, div. A, title III, § 362(b), Sept. 23, 1996, 110 Stat. 2493,
 ## § 2015. Program to assist members in obtaining professional credentials
 **(a) Program Required.—** The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, shall carry out a program to enable members of the armed forces to obtain, while serving in the armed forces, professional credentials related to military training and skills that—
 
-(1) are acquired during service in the armed forces incident to the performance of their military duties; and
+(1) are acquired during service in the armed forces; and
 
 (2) translate into civilian occupations.
 
@@ -978,7 +917,25 @@ Pub. L. 104–201, div. A, title III, § 362(b), Sept. 23, 1996, 110 Stat. 2493,
 
 (2) The authority under paragraph (1) may not be used to pay the expenses of a member to obtain professional credentials that are a prerequisite for appointment in the armed forces.
 
-**(c) Regulations.—**
+**(c) Quality Assurance of Certification Programs and Standards.—**
+
+(1) Commencing not later than three years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016, each Secretary concerned shall ensure that any credentialing program used in connection with the program under subsection (a) meets one of the requirements specified in paragraph (2).
+
+(2) The requirements for a credentialing program specified in this paragraph are that the credentialing program—
+
+  (A) is accredited by a nationally-recognized, third-party personnel certification program accreditor;
+
+  (B)
+
+    (i) is sought or accepted by employers within the industry or sector involved as a recognized, preferred, or required credential for recruitment, screening, hiring, retention, or advancement purposes; and
+
+    (ii) where appropriate, is endorsed by a nationally-recognized trade association or organization representing a significant part of the industry or sector;
+
+  (C) grants licenses that are recognized by the Federal Government or a State government; or
+
+  (D) meets credential standards of a Federal agency.
+
+**(d) Regulations.—**
 
 (1) The Secretary of Defense and the Secretary of Homeland Security shall prescribe regulations to carry out this section.
 
@@ -994,12 +951,37 @@ Pub. L. 104–201, div. A, title III, § 362(b), Sept. 23, 1996, 110 Stat. 2493,
 
   (D) Such other matters in connection with the payment of expenses and the provision of other benefits under the program as the Secretaries consider appropriate.
 
-**(d) Expenses Defined.—** In this section, the term “expenses” means expenses for class room instruction, hands-on training (and associated materials), manuals, study guides and materials, text books, processing fees, and test fees and related fees.
+**(e) Expenses Defined.—** In this section, the term “expenses” means expenses for class room instruction, hands-on training (and associated materials), manuals, study guides and materials, text books, processing fees, and test fees and related fees.
 
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2016, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 114–92, which was approved Nov. 25, 2015.
+
 #### Amendments
-2014—Pub. L. 113–291 amended section generally, substituting provision relating to program to assist members in obtaining professional credentials for provision which related to payment of expenses to obtain professional credentials.
+2016—Subsec. (a)(1). Pub. L. 114–328, § 561(a), struck out “incident to the performance of their military duties” after “in the armed forces”.
+
+Subsec. (c)(1). Pub. L. 114–328, § 561(b)(1), substituted “meets one of the requirements specified in paragraph (2).” for “is accredited by an accreditation body that meets the requirements specified in paragraph (2).”
+
+Subsec. (c)(2). Pub. L. 114–328, § 561(b)(2), added par. (2) and struck out former par. (2) which read as follows: “The requirements for accreditation bodies specified in this paragraph are requirements that an accreditation body—
+
+“(A) be an independent body that has in place mechanisms to ensure objectivity and impartiality in its accreditation activities;
+
+“(B) meet a recognized national or international standard that directs its policy and procedures regarding accreditation;
+
+“(C) apply a recognized national or international certification standard in making its accreditation decisions regarding certification bodies and programs;
+
+“(D) conduct on-site visits, as applicable, to verify the documents and records submitted by credentialing bodies for accreditation;
+
+“(E) have in place policies and procedures to ensure due process when addressing complaints and appeals regarding its accreditation activities;
+
+“(F) conduct regular training to ensure consistent and reliable decisions among reviewers conducting accreditations; and
+
+“(G) meet such other criteria as the Secretary concerned considers appropriate in order to ensure quality in its accreditation activities.”
+
+2015—Subsecs. (c) to (e). Pub. L. 114–92 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+2014—Pub. L. 113–291 amended section generally. Prior to amendment, section related to payment of certain expenses to obtain professional credentials.
 
 #### Enhancement of Mechanisms To Correlate Skills and Training for Military Occupational Specialties With Skills and Training Required for Civilian Certifications and Licenses
 Pub. L. 113–66, div. A, title V, § 542, Dec. 26, 2013, 127 Stat. 762, provided that: “(a) Improvement of Information Available to Members of the Armed Forces About Correlation.—“(1) In general.—The Secretaries of the military departments, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall, to the maximum extent practicable, make information on civilian credentialing opportunities available to members of the Armed Forces beginning with, and at every stage of, training of members for military occupational specialties, in order to permit members—“(A) to evaluate the extent to which such training correlates with the skills and training required in connection with various civilian certifications and licenses; and “(B) to assess the suitability of such training for obtaining or pursuing such civilian certifications and licenses. “(2) Coordination with transition goals plans success program.—Information shall be made available under paragraph (1) in a manner consistent with the Transition Goals Plans Success (GPS) program. “(3) Types of information.—The information made available under paragraph (1) shall include, but not be limited to, the following:“(A) Information on the civilian occupational equivalents of military occupational specialties (MOS). “(B) Information on civilian license or certification requirements, including examination requirements. “(C) Information on the availability and opportunities for use of educational benefits available to members of the Armed Forces, as appropriate, corresponding training, or continuing education that leads to a certification exam in order to provide a pathway to credentialing opportunities. “(4) Use and adaptation of certain programs.—In making information available under paragraph (1), the Secretaries of the military departments may use and adapt appropriate portions of the Credentialing Opportunities On-Line (COOL) programs of the Army and the Navy and the Credentialing and Educational Research Tool (CERT) of the Air Force. “(b) Improvement of Access of Accredited Civilian Credentialing and Related Entities to Military Training Content.—“(1) In general.—The Secretaries of the military departments, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall, to the maximum extent practicable consistent with national security and privacy requirements, make available to entities specified in paragraph (2), upon request of such entities, information such as military course training curricula, syllabi, and materials, levels of military advancement attained, and professional skills developed. “(2) Entities.—The entities specified in this paragraph are the following:“(A) Civilian credentialing agencies. “(B) Entities approved by the Secretary of Veterans Affairs, or by State approving agencies, for purposes of the use of educational assistance benefits under the laws administered by the Secretary of Veterans Affairs. “(3) Central repository.—The actions taken pursuant to paragraph (1) may include the establishment of a central repository of information on training and training materials provided members in connection with military occupational specialities that is readily accessible by entities specified in paragraph (2) in order to meet requests described in paragraph (1).”

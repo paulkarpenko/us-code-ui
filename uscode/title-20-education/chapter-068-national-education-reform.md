@@ -28,11 +28,11 @@ source: >-
 
 (3) **Application of provisions** — The provisions of paragraph (2) shall also apply to the provision of such routine or regular kindergarten, elementary or secondary education or library services in the facilities described in paragraph (2) not subject to paragraph (1).
 
-**(d) Notice** The prohibitions in subsections (a) through (c) of this section shall be incorporated by publication of a notice in the Federal Register by the Secretary (in consultation with the heads of other affected agencies) and by such agency heads in funding arrangements involving the provision of children’s services administered by such heads. Such prohibitions shall be effective 90 days after such notice is published, or 270 days after March 31, 1994, whichever occurs first.
+**(d) Notice** The prohibitions in subsections (a) through (c) shall be incorporated by publication of a notice in the Federal Register by the Secretary (in consultation with the heads of other affected agencies) and by such agency heads in funding arrangements involving the provision of children’s services administered by such heads. Such prohibitions shall be effective 90 days after such notice is published, or 270 days after March 31, 1994, whichever occurs first.
 
 **(e) Special waiver**
 
-(1) **In general** — On receipt of an application, the head of the Federal agency may grant a special waiver to a person described in subsection (a) of this section who employs individuals who are members of a labor organization and provide children’s services pursuant to a collective bargaining agreement that—
+(1) **In general** — On receipt of an application, the head of the Federal agency may grant a special waiver to a person described in subsection (a) who employs individuals who are members of a labor organization and provide children’s services pursuant to a collective bargaining agreement that—
 
   (A) took effect before March 31, 1994; and
 
@@ -46,7 +46,7 @@ source: >-
 
 **(f) Civil penalties**
 
-(1) **In general** — Any failure to comply with a prohibition in this section shall be a violation of this section and any person subject to such prohibition who commits such violation may be liable to the United States for a civil penalty in an amount not to exceed $1,000 for each violation, or may be subject to an administrative compliance order, or both, as determined by the Secretary. Each day a violation continues shall constitute a separate violation. In the case of any civil penalty under this section, the total amount shall not exceed the amount of Federal funds received by such person for the fiscal year in which the continuing violations occurred. For the purpose of the prohibition in subsection (c) of this section, the term “person” shall mean the head of the applicable Federal agency or the contractor of such agency providing the services to children.
+(1) **In general** — Any failure to comply with a prohibition in this section shall be a violation of this section and any person subject to such prohibition who commits such violation may be liable to the United States for a civil penalty in an amount not to exceed $1,000 for each violation, or may be subject to an administrative compliance order, or both, as determined by the Secretary. Each day a violation continues shall constitute a separate violation. In the case of any civil penalty under this section, the total amount shall not exceed the amount of Federal funds received by such person for the fiscal year in which the continuing violations occurred. For the purpose of the prohibition in subsection (c), the term “person” shall mean the head of the applicable Federal agency or the contractor of such agency providing the services to children.
 
 (2) **Administrative proceeding** — A civil penalty may be assessed in a written notice, or an administrative compliance order may be issued, by the Secretary only after an opportunity for a hearing in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim). Before making such assessment or issuing such order, or both, the Secretary shall give written notice thereof to such person by certified mail with return receipt and provide therein an opportunity to request in writing not later than 30 days after the date of receipt of such notice such hearing. The notice shall reasonably describe the violation and be accompanied with the procedures for such hearing and a simple form to request such hearing if such person desires to use such form. If a hearing is requested, the Secretary shall establish by such certified notice the time and place for such hearing which should be located, to the greatest extent possible, at a location convenient to such person. The Secretary (or the Secretary’s designee) and such person may consult to arrange a suitable date and location where appropriate.
 
@@ -155,7 +155,7 @@ Pub. L. 103–227, § 1(a), Mar. 31, 1994, 108 Stat. 125, provided that: “This
 
 (13) the term “State”, unless otherwise provided, means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and each of the outlying areas.
 
-**(b) Subchapters IV, V, VI, VII, VIII, and IX** For the purpose of subchapters IV, V, VI, VII, VIII, and IX of this chapter—
+**(b) Subchapters IV, V, VI, VII, VIII, and IX** For the purpose of subchapters IV, V, VI, VII, VIII, and IX—
 
 (1) except as provided in paragraph (3) and unless otherwise provided, the terms used in such subchapters have the same meanings given such terms in [section 8801 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section8801&num=0&edition=prelim); 1
 
@@ -396,7 +396,7 @@ Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 310(i)], Nov. 29, 1999, 
 
 In this Act:
 
-(1) **Local educational agency; State educational agency; outlying area** — The terms “local educational agency”, “State educational agency”, and “outlying area” have the meanings given the terms in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
+(1) **Educational service agency; local educational agency; State educational agency; outlying area** — The terms “educational service agency”, “local educational agency”, “State educational agency”, and “outlying area” have the meanings given the terms in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
 
 (2) **Eligible school attendance area; school attendance area** — The terms “eligible school attendance area” and “school attendance area” have the meanings given the terms in [section 6313(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6313/a/2&num=0&edition=prelim).
 
@@ -413,7 +413,12 @@ This Act, referred to in text, is Pub. L. 106–25, Apr. 29, 1999, 113 Stat. 41,
 Section was enacted as part of the Education Flexibility Partnership Act of 1999, and not as part of the Goals 2000: Educate America Act which comprises this chapter.
 
 #### Amendments
+2015—Par. (1). Pub. L. 114–95 substituted “Educational service agency; local” for “Local” in heading and, in text, substituted “The terms ‘educational service agency’,” for “The terms” and made technical amendment to reference in original act which appears in text as reference to [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
+
 2002—Par. (1). Pub. L. 107–110 substituted “7801” for “8801”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
@@ -423,38 +428,32 @@ Pub. L. 106–25, § 2, Apr. 29, 1999, 113 Stat. 41, provided that: “Congress 
 
 
 <a id="section-5896"></a>
-## § 5896. Education flexibility partnership
+## § 5896. Educational flexibility program
 **(a) Educational flexibility program**
 
 (1) **Program authorized**
 
-  (A) *In general* — The Secretary may carry out an educational flexibility program under which the Secretary authorizes a State educational agency that serves an eligible State to waive statutory or regulatory requirements applicable to one or more programs described in subsection (b) of this section, other than requirements described in subsection (c) of this section, for any local educational agency or school within the State.
+  (A) *In general* — The Secretary may carry out an educational flexibility program under which the Secretary authorizes a State educational agency that serves an eligible State to waive statutory or regulatory requirements applicable to one or more programs described in subsection (b), other than requirements described in subsection (c), for any local educational agency, educational service agency, or school within the State.
 
   (B) *Designation* — Each eligible State participating in the program described in subparagraph (A) shall be known as an “Ed-Flex Partnership State”.
 
-(2) **Eligible State** — For the purpose of this section the term “eligible State” means a State that—
+(2) **Eligible State** — For the purpose of this section, the term “eligible State” means a State that—
 
   (A) has—
 
-    (i) developed and implemented the challenging State content standards, challenging State student performance standards, and aligned assessments described in section 1111(b) of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6311(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b&num=0&edition=prelim)], and for which local educational agencies in the State are producing the individual school performance profiles required by section 1116(a)(3) of such Act; 11 See References in Text note below. or
+    (i) developed and implemented the challenging State academic standards, and aligned assessments, described in paragraphs (1) and (2) of section 1111(b) of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6311(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b&num=0&edition=prelim)], and is producing the report cards required by section 1111(h) of such Act; or
 
-    (ii)
+    (ii) if the State has adopted new challenging State academic standards under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965, as a result of the amendments made to such Act [[20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.] by the Every Student Succeeds Act, made substantial progress (as determined by the Secretary) toward developing and implementing such standards and toward producing the report cards required under section 1111(h) of such Act;
 
-      (I) developed and implemented the content standards described in clause (i);
+  (B) will hold local educational agencies, educational service agencies, and schools accountable for meeting the educational goals described in the local applications submitted under paragraph (4) and for engaging in technical assistance and, as applicable and appropriate, implementing comprehensive support and improvement activities and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965; and
 
-      (II) developed and implemented interim assessments; and
-
-      (III) made substantial progress (as determined by the Secretary) toward developing and implementing the performance standards and final aligned assessments described in clause (i), and toward having local educational agencies in the State produce the profiles described in clause (i);
-
-  (B) holds local educational agencies and schools accountable for meeting the educational goals described in the local applications submitted under paragraph (4) and for engaging in technical assistance and corrective actions consistent with section 1116 of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6316](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6316)], for the local educational agencies and schools that do not make adequate yearly progress as described in section 1111(b)(2) of such Act [[20 U.S.C. 6311(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2&num=0&edition=prelim)]; and
-
-  (C) waives State statutory or regulatory requirements relating to education while holding local educational agencies or schools within the State that are affected by such waivers accountable for the performance of the students who are affected by such waivers.
+  (C) waives State statutory or regulatory requirements relating to education while holding local educational agencies, educational service agencies, or schools within the State that are affected by such waivers accountable for the performance of the students who are affected by such waivers.
 
 (3) **State application**
 
   (A) *In general* — Each State educational agency desiring to participate in the educational flexibility program under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require. Each such application shall demonstrate that the eligible State has adopted an educational flexibility plan for the State that includes—
 
-    (i) a description of the process the State educational agency will use to evaluate applications from local educational agencies or schools requesting waivers of—
+    (i) a description of the process the State educational agency will use to evaluate applications from local educational agencies, educational service agencies, or schools requesting waivers of—
 
       (I) Federal statutory or regulatory requirements as described in paragraph (1)(A); and
 
@@ -462,65 +461,77 @@ Pub. L. 106–25, § 2, Apr. 29, 1999, 113 Stat. 41, provided that: “Congress 
 
     (ii) a detailed description of the State statutory and regulatory requirements relating to education that the State educational agency will waive;
 
-    (iii) a description of clear educational objectives the State intends to meet under the educational flexibility plan;
+    (iii) a description of clear educational objectives the State intends to meet under the educational flexibility plan, which may include innovative methods to leverage resources to improve program efficiencies that benefit students;
 
-    (iv) a description of how the educational flexibility plan is consistent with and will assist in implementing the State comprehensive reform plan or, if a State does not have a comprehensive reform plan, a description of how the educational flexibility plan is coordinated with activities described in section 1111(b) of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6311(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b&num=0&edition=prelim)];
+    (iv) a description of how the educational flexibility plan is coordinated with activities described in subsections (b), (c), and (d) of section 1111 of the Elementary and Secondary Education Act of 1965;
 
-    (v) a description of how the State educational agency will evaluate, (consistent with the requirements of title I of the Elementary and Secondary Education Act of 1965) [[20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.], the performance of students in the schools and local educational agencies affected by the waivers; and
+    (v) a description of how the State educational agency will evaluate (consistent with the requirements of title I of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.]) the performance of students in the schools, educational service agencies, and local educational agencies affected by the waivers; and
 
-    (vi) a description of how the State educational agency will meet the requirements of paragraph (8).
+    (vi) a description of how the State educational agency will meet the requirements of paragraph (7).
 
-  (B) *Approval and considerations* — The Secretary may approve an application described in subparagraph (A) only if the Secretary determines that such application demonstrates substantial promise of assisting the State educational agency and affected local educational agencies and schools within the State in carrying out comprehensive educational reform, after considering—
+  (B) *Approval and considerations*
 
-    (i) the eligibility of the State as described in paragraph (2);
+    (i) *In general* — By not later than 90 days after the date on which a State has submitted an application described in subparagraph (A), the Secretary shall issue a written decision that explains why such application has been approved or disapproved, and the process for revising and resubmitting the application for reconsideration.
 
-    (ii) the comprehensiveness and quality of the educational flexibility plan described in subparagraph (A);
+    (ii) *Approval* — The Secretary may approve an application described in subparagraph (A) only if the Secretary determines that such application demonstrates substantial promise of assisting the State educational agency and affected local educational agencies, educational service agencies, and schools within the State in carrying out comprehensive educational reform, after considering—
 
-    (iii) the ability of the educational flexibility plan to ensure accountability for the activities and goals described in such plan;
+      (I) the eligibility of the State as described in paragraph (2);
 
-    (iv) the degree to which the State’s objectives described in subparagraph (A)(iii)—
+      (II) the comprehensiveness and quality of the educational flexibility plan described in subparagraph (A);
 
-      (I) are clear and have the ability to be assessed; and
+      (III) the ability of the educational flexibility plan to ensure accountability for the activities and goals described in such plan;
 
-      (II) take into account the performance of local educational agencies or schools, and students, particularly those affected by waivers;
+      (IV) the degree to which the State’s objectives described in subparagraph (A)(iii)—
 
-    (v) the significance of the State statutory or regulatory requirements relating to education that will be waived; and
+        (aa) are clear and have the ability to be assessed; and
 
-    (vi) the quality of the State educational agency’s process for approving applications for waivers of Federal statutory or regulatory requirements as described in paragraph (1)(A) and for monitoring and evaluating the results of such waivers.
+        (bb) take into account the performance of local educational agencies, educational service agencies, or schools, and students, particularly those affected by waivers;
+
+      (V) the significance of the State statutory or regulatory requirements relating to education that will be waived; and
+
+      (VI) the quality of the State educational agency’s process for approving applications for waivers of Federal statutory or regulatory requirements as described in paragraph (1)(A) and for monitoring and evaluating the results of such waivers.
 
 (4) **Local application**
 
-  (A) *In general* — Each local educational agency or school requesting a waiver of a Federal statutory or regulatory requirement as described in paragraph (1)(A) and any relevant State statutory or regulatory requirement from a State educational agency shall submit an application to the State educational agency at such time, in such manner, and containing such information as the State educational agency may reasonably require. Each such application shall—
+  (A) *In general* — Each local educational agency, educational service agency, or school requesting a waiver of a Federal statutory or regulatory requirement as described in paragraph (1)(A) and any relevant State statutory or regulatory requirement from a State educational agency shall submit an application to the State educational agency at such time, in such manner, and containing such information as the State educational agency may reasonably require. Each such application shall—
 
     (i) indicate each Federal program affected and each statutory or regulatory requirement that will be waived;
 
-    (ii) describe the purposes and overall expected results of waiving each such requirement;
+    (ii) describe the purposes and overall expected results of waiving each such requirement, which may include innovative methods to leverage resources to improve program efficiencies that benefit students;
 
-    (iii) describe, for each school year, specific, measurable, educational goals for each local educational agency or school affected by the proposed waiver, and for the students served by the local educational agency or school who are affected by the waiver;
+    (iii) describe, for each school year, specific, measurable, educational goals for each local educational agency, educational service agency, or school affected by the proposed waiver, and for the students served by the local educational agency, educational service agency, or school who are affected by the waiver;
 
-    (iv) explain why the waiver will assist the local educational agency or school in reaching such goals; and
+    (iv) explain why the waiver will assist the local educational agency, educational service agency, or school in reaching such goals; and
 
-    (v) in the case of an application from a local educational agency, describe how the local educational agency will meet the requirements of paragraph (8).
+    (v) in the case of an application from a local educational agency or educational service agency, describe how the agency will meet the requirements of paragraph (7).
 
   (B) *Evaluation of applications* — A State educational agency shall evaluate an application submitted under subparagraph (A) in accordance with the State’s educational flexibility plan described in paragraph (3)(A).
 
   (C) *Approval* — A State educational agency shall not approve an application for a waiver under this paragraph unless—
 
-    (i) the local educational agency or school requesting such waiver has developed a local reform plan that is applicable to such agency or school, respectively;
+    (i) the local educational agency, educational service agency, or school requesting such waiver has developed a local reform plan that—
 
-    (ii) the waiver of Federal statutory or regulatory requirements as described in paragraph (1)(A) will assist the local educational agency or school in reaching its educational goals, particularly goals with respect to school and student performance; and
+      (I) is applicable to such agency or school, respectively; and
+
+      (II) may include innovative methods to leverage resources to improve program efficiencies that benefit students;
+
+    (ii) the waiver of Federal statutory or regulatory requirements as described in paragraph (1)(A) will assist the local educational agency, educational service agency, or school in reaching its educational goals, particularly goals with respect to school and student performance; and
 
     (iii) the State educational agency is satisfied that the underlying purposes of the statutory requirements of each program for which a waiver is granted will continue to be met.
 
-  (D) *Termination* — The State educational agency shall annually review the performance of any local educational agency or school granted a waiver of Federal statutory or regulatory requirements as described in paragraph (1)(A) in accordance with the evaluation requirement described in paragraph (3)(A)(v), and shall terminate any waiver granted to the local educational agency or school if the State educational agency determines, after notice and an opportunity for a hearing, that the local educational agency or school’s performance with respect to meeting the accountability requirement described in paragraph (2)(C) and the goals described in paragraph (4)(A)(iii)—
+  (D) *Termination* — The State educational agency shall annually review the performance of any local educational agency, educational service agency, or school granted a waiver of Federal statutory or regulatory requirements as described in paragraph (1)(A) in accordance with the evaluation requirement described in paragraph (3)(A)(v), and shall terminate or temporarily suspend any waiver granted to the local educational agency, educational service agency, or school if the State educational agency determines, after notice and an opportunity for a hearing, that—
 
-    (i) has been inadequate to justify continuation of such waiver; or
+    (i) there is compelling evidence of systematic waste, fraud, or abuse;
 
-    (ii) has decreased for two consecutive years, unless the State educational agency determines that the decrease in performance was justified due to exceptional or uncontrollable circumstances.
+    (ii) the performance of the local educational agency, educational service agency, or school with respect to meeting the accountability requirement described in paragraph (2)(C) and the goals described in subparagraph (A)(iii) has been inadequate to justify continuation of such waiver;
+
+    (iii) student achievement in the local educational agency, educational service agency, or school has decreased; or
+
+    (iv) substantial progress has not been made toward meeting the long-term goals and measurements of interim progress established by the State under section 1111(c)(4)(A)(i) of the Elementary and Secondary Education Act of 1965.
 
 (5) **Oversight and reporting**
 
-  (A) *Oversight* — Each State educational agency participating in the educational flexibility program under this section shall annually monitor the activities of local educational agencies and schools receiving waivers under this section.
+  (A) *Oversight* — Each State educational agency participating in the educational flexibility program under this section shall annually monitor the activities of local educational agencies, educational service agencies, and schools receiving waivers under this section.
 
   (B) *State reports*
 
@@ -536,7 +547,7 @@ Pub. L. 106–25, § 2, Apr. 29, 1999, 113 Stat. 41, provided that: “Congress 
 
       (IV) an assurance from State program managers that the data reported under this section are reliable, complete, and accurate, as defined by the State, or a description of a plan for improving the reliability, completeness, and accuracy of such data as defined by the State.
 
-  (C) *Secretary’s reports* — The Secretary, not later than 2 years after April 29, 1999, and annually thereafter, shall—
+  (C) *Secretary’s reports* — The Secretary shall annually—
 
     (i) make each State report submitted under subparagraph (B) available to Congress and the public; and
 
@@ -544,51 +555,81 @@ Pub. L. 106–25, § 2, Apr. 29, 1999, 113 Stat. 41, provided that: “Congress 
 
 (6) **Duration of Federal waivers**
 
-  (A) *In general* — The Secretary shall not approve the application of a State educational agency under paragraph (3) for a period exceeding 5 years, except that the Secretary may extend such period if the Secretary determines that such agency’s authority to grant waivers—
+  (A) *In general*
 
-    (i) has been effective in enabling such State or affected local educational agencies or schools to carry out their State or local reform plans and to continue to meet the accountability requirement described in paragraph (2)(C); and
+    (i) *Duration* — The Secretary shall approve the application of a State educational agency under paragraph (3) for a period of not more than 5 years.
 
-    (ii) has improved student performance.
+    (ii) *Automatic extension during review* — The Secretary shall automatically extend the authority of a State to continue as an Ed-Flex Partnership State until the Secretary has—
 
-  (B) *Performance review* — Three years after the date a State is designated an Ed-Flex Partnership State, the Secretary shall review the performance of the State educational agency in granting waivers of Federal statutory or regulatory requirements as described in paragraph (1)(A) and shall terminate such agency’s authority to grant such waivers if the Secretary determines, after notice and an opportunity for a hearing, that such agency’s performance (including performance with respect to meeting the objectives described in paragraph (3)(A)(iii)) has been inadequate to justify continuation of such authority.
+      (I) completed the performance review of the State educational agency’s educational flexibility plan as described in subparagraph (B); and
 
-  (C) *Renewal* — In deciding whether to extend a request for a State educational agency’s authority to issue waivers under this section, the Secretary shall review the progress of the State educational agency to determine if the State educational agency—
+      (II) issued a final decision on any pending request for renewal that was submitted by the State educational agency.
 
-    (i) has made progress toward achieving the objectives described in the application submitted pursuant to paragraph (3)(A)(iii); and
+    (iii) *Extension of approval* — The Secretary may extend the authority of a State to continue as an Ed-Flex Partnership State if the Secretary determines that the authority of the State educational agency to grant waivers—
 
-    (ii) demonstrates in the request that local educational agencies or schools affected by the waiver authority or waivers have made progress toward achieving the desired results described in the application submitted pursuant to paragraph (4)(A)(iii).
+      (I) has been effective in enabling such State or affected local educational agencies, educational service agencies, or schools to carry out their State or local reform plans and to continue to meet the accountability requirement described in paragraph (2)(C); and
 
-(7) **Authority to issue waivers** — Notwithstanding any other provision of law, the Secretary is authorized to carry out the educational flexibility program under this section for each of the fiscal years 1999 through 2004.
+      (II) has improved student performance.
 
-(8) **Public notice and comment** — Each State educational agency seeking waiver authority under this section and each local educational agency seeking a waiver under this section—
+  (B) *Performance review*
 
-  (A) shall provide the public with adequate and efficient notice of the proposed waiver authority or waiver, consisting of a description of the agency’s application for the proposed waiver authority or waiver in a widely read or distributed medium, including a description of any improved student performance that is expected to result from the waiver authority or waiver;
+    (i) *In general* — Following the expiration of an approved educational flexibility program for a State that is designated an Ed-Flex Partnership State, the Secretary shall have not more than 180 days to complete a review of the performance of the State educational agency in granting waivers of Federal statutory or regulatory requirements as described in paragraph (1)(A) to determine if the State educational agency—
 
-  (B) shall provide the opportunity for parents, educators, and all other interested members of the community to comment regarding the proposed waiver authority or waiver;
+      (I) has achieved, or is making substantial progress towards achieving, the objectives described in the application submitted pursuant to paragraph (3)(A)(iii) and the specific long-term goals and measurements of interim progress established under section 1111(c)(4)(A)(i) of the Elementary and Secondary Education Act of 1965; and
+
+      (II) demonstrates that local educational agencies, educational service agencies, or schools affected by the waiver authority or waivers have achieved, or are making progress toward achieving, the desired goals described in the application submitted pursuant to paragraph (4)(A)(iii).
+
+    (ii) *Termination of authority* — The Secretary shall terminate the authority of a State educational agency to grant waivers of Federal statutory or regulatory requirements as described in paragraph (1)(A) if the Secretary determines, after providing the State educational agency with notice and an opportunity for a hearing, that such agency’s performance has been inadequate to justify continuation of such authority based on such agency’s performance against the specific long-term goals and measurements of interim progress established under section 1111(c)(4)(A)(i) of the Elementary and Secondary Education Act of 1965.
+
+  (C) *Renewal*
+
+    (i) *In general* — Each State educational agency desiring to renew an approved educational flexibility program under this section shall submit a request for renewal to the Secretary not later than the date of expiration of the approved educational flexibility program.
+
+    (ii) *Timing for renewal* — The Secretary shall either approve or deny the request for renewal by not later than 90 days after completing the performance review of the State described in subparagraph (B).
+
+    (iii) *Determination* — In deciding whether to extend a request of a State educational agency for the authority to issue waivers under this section, the Secretary shall review the progress of the State educational agency to determine if the State educational agency—
+
+      (I) has made progress toward achieving the objectives described in the State application submitted pursuant to paragraph (3)(A)(iii); and
+
+      (II) demonstrates in the request that local educational agencies, educational service agencies, or schools affected by the waiver authority or waivers have made progress toward achieving the desired goals described in the local application submitted pursuant to paragraph (4)(A)(iii).
+
+  (D) *Termination*
+
+    (i) *In general* — The Secretary shall terminate or temporarily suspend the authority of a State educational agency to grant waivers under this section if the Secretary determines that—
+
+      (I) there is compelling evidence of systematic waste, fraud or abuse; or
+
+      (II) after notice and an opportunity for a hearing, such agency’s performance (including performance with respect to meeting the objectives described in paragraph (3)(A)(iii)) has been inadequate to justify continuation of such authority.
+
+    (ii) *Limited compliance period* — A State whose authority to grant such waivers has been terminated shall have not more than 1 additional fiscal year to come into compliance in order to seek renewal of the authority to grant waivers under this section.
+
+(7) **Public notice and comment** — Each State educational agency seeking waiver authority under this section and each local educational agency, educational service agency, or school seeking a waiver under this section—
+
+  (A) shall provide the public with adequate and efficient notice of the proposed waiver authority or waiver, consisting of a description of the agency’s application for the proposed waiver authority or waiver on each agency’s website, including a description of any improved student performance that is expected to result from the waiver authority or waiver;
+
+  (B) shall provide the opportunity for parents, educators, school administrators, and all other interested members of the community to comment regarding the proposed waiver authority or waiver;
 
   (C) shall provide the opportunity described in subparagraph (B) in accordance with any applicable State law specifying how the comments may be received, and how the comments may be reviewed by any member of the public; and
 
-  (D) shall submit the comments received with the agency’s application to the Secretary or the State educational agency, as appropriate.
+  (D) shall submit the comments received with the application of the agency or school to the Secretary or the State educational agency, as appropriate.
 
-**(b) Included programs** The statutory or regulatory requirements referred to in subsection (a)(1)(A) of this section are any such requirements for programs that are authorized under the following provisions and under which the Secretary provides funds to State educational agencies on the basis of a formula:
+**(b) Included programs** The statutory or regulatory requirements referred to in subsection (a)(1)(A) are any such requirements for programs that are authorized under the following provisions and under which the Secretary provides funds to State educational agencies on the basis of a formula:
 
 (1) The following provisions of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.]:
 
-  (A) Part A [[20 U.S.C. 6311](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6311) et seq.] (other than sections 1111 and 1116 [[20 U.S.C. 6311](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6311), 6316]), subpart 3 of part B [[20 U.S.C. 6381](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6381) et seq.], and parts C, D, and F [[20 U.S.C. 6391](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6391) et seq., 6421 et seq., 6511 et seq.] of title I.
+  (A) Part A of title I [[20 U.S.C. 6311](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6311) et seq.] (other than section 1111).
 
-  (B) Subparts 2 and 3 of part A of title II [[20 U.S.C. 6621](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6621) et seq., 6631 et seq.].
+  (B) Part C of title I [[20 U.S.C. 6391](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6391) et seq.].
 
-  (C) Subpart 1 of part D of title II [[20 U.S.C. 6761](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6761) et seq.].
+  (C) Part D of title I [[20 U.S.C. 6421](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6421) et seq.].
 
-  (D) Subpart 4 of part B of title III [[20 U.S.C. 6961](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6961) et seq.], if the funding trigger in section 3001 of such Act [[20 U.S.C. 6801](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6801)] is not reached.
+  (D) Part A of title II [[20 U.S.C. 6611](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6611) et seq.].
 
-  (E) Subpart 1 of part A of title IV [[20 U.S.C. 7111](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7111) et seq.].
-
-  (F) Part A of title V [[20 U.S.C. 7201](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7201) et seq.].
+  (E) Part A of title IV [[20 U.S.C. 7101](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7101) et seq.].
 
 (2) The Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301](./chapter-044-career-and-technical-education.md#section-2301) et seq.).
 
-**(c) Waivers not authorized** The Secretary and the State educational agency may not waive under subsection (a)(1)(A) of this section any statutory or regulatory requirement—
+**(c) Waivers not authorized** The Secretary and the State educational agency may not waive under subsection (a)(1)(A) any statutory or regulatory requirement—
 
 (1) relating to—
 
@@ -602,57 +643,39 @@ Pub. L. 106–25, § 2, Apr. 29, 1999, 113 Stat. 41, provided that: “Congress 
 
   (E) distribution of funds to States or to local educational agencies;
 
-  (F) serving eligible school attendance areas in rank order under section 1113(a)(3) of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6313(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6313/a/3&num=0&edition=prelim)];
+  (F) serving eligible school attendance areas in rank order in accordance with section 1113(a)(3) of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6313(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6313/a/3&num=0&edition=prelim)];
 
-  (G) the selection of a school attendance area or school under subsections (a) and (b) of section 1113 of the Elementary and Secondary Education Act of 1965 [[20 U.S.C. 6313(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6313/a&num=0&edition=prelim), (b)], except that a State educational agency may grant a waiver to allow a school attendance area or school to participate in activities under part A of title I of such Act [[20 U.S.C. 6311](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6311) et seq.] if the percentage of children from low-income families in the school attendance area of such school or who attend such school is not less than 10 percentage points below the lowest percentage of such children for any school attendance area or school of the local educational agency that meets the requirements of such subsections (a) and (b) of this section;
+  (G) the selection of a school attendance area or school under subsections (a) and (b) of section 1113 of the Elementary and Secondary Education Act of 1965, except that a State educational agency may grant a waiver to allow a school attendance area or school to participate in activities under part A of title I of such Act [[20 U.S.C. 6311](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6311) et seq.] if the percentage of children from low-income families in the school attendance area of such school or who attend such school is not less than 10 percentage points below the lowest percentage of such children for any school attendance area or school of the local educational agency that meets the requirements of such subsections;
 
   (H) use of Federal funds to supplement, not supplant, non-Federal funds; and
 
   (I) applicable civil rights requirements; and
 
-(2) unless the underlying purposes of the statutory requirements of the program for which a waiver is granted continue to be met to the satisfaction of the Secretary.
+(2) unless the State educational agency can demonstrate that the underlying purposes of the statutory requirements of the program for which a waiver is granted continue to be met to the satisfaction of the Secretary.
 
 **(d) Treatment of existing Ed-Flex Partnership States**
 
-(1) **In general** — Except as provided in paragraphs (3) and (4), this section shall not apply to a State educational agency that has been granted waiver authority under the provisions of law described in paragraph (2) for the duration of the waiver authority.
+(1) **In general** — Any designation of a State as an Ed-Flex Partnership State that was in effect on December 10, 2015, shall be immediately extended for a period of not more than 5 years, if the Secretary makes the determination described in paragraph (2).
 
-(2) **Applicable provisions** — The provisions of law referred to in paragraph (1) are as follows:
+(2) **Determination** — The determination referred to in paragraph (1) is a determination that the performance of the State educational agency, in carrying out the programs for which the State has received a waiver under the educational flexibility program, justifies the extension of the designation.
 
-  (A) Section 311(e) of the Goals 2000: Educate America Act.
-
-  (B) The proviso referring to such section 311(e) under the heading “education reform” in the Department of Education Appropriations Act, 1996 (Public Law 104–134; 110 Stat. 1321–229).
-
-(3) **Special rule** — If a State educational agency granted waiver authority pursuant to the provisions of law described in subparagraph (A) or (B) of paragraph (2) applies to the Secretary for waiver authority under this section—
-
-  (A) the Secretary shall review the progress of the State educational agency in achieving the objectives set forth in the application submitted pursuant to section 311(e) of the Goals 2000: Educate America Act; and
-
-  (B) the Secretary shall administer the waiver authority granted under this section in accordance with the requirements of this section.
-
-(4) **Technology** — In the case of a State educational agency granted waiver authority under the provisions of law described in subparagraph (A) or (B) of paragraph (2), the Secretary shall permit a State educational agency to expand, on or after April 29, 1999, the waiver authority to include programs under subpart 2 of part A of title III of the Elementary and Secondary Education Act of 1965 (other than section 3136 of such Act).1
-
-**(e) Publication** A notice of the Secretary’s decision to authorize State educational agencies to issue waivers under this section, including a description of the rationale the Secretary used to approve applications under subsection (a)(3)(B) of this section, shall be published in the Federal Register and the Secretary shall provide for the dissemination of such notice to State educational agencies, interested parties (including educators, parents, students, and advocacy and civil rights organizations), and the public.
+**(e) Publication** A notice of the Secretary’s decision to authorize State educational agencies to issue waivers under this section, including a description of the rationale the Secretary used to approve applications under subsection (a)(3)(B), shall be published in the Federal Register and the Secretary shall provide for the dissemination of such notice to State educational agencies, interested parties (including educators, parents, students, and advocacy and civil rights organizations), and the public.
 
 ### Statutory Notes
 
 #### References in Text
-Section 1116(a)(3) of such Act, referred to in subsec. (a)(2)(A)(i), means section 1116(a)(3) of Pub. L. 89–10. Section 1116 of Pub. L. 89–10, which was classified to [section 6317 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6317), was omitted in the general amendment of subchapter I (§ 6301 et seq.) of chapter 70 of this title, and a new section 1116, which is classified to [section 6316 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6316), was enacted, by Pub. L. 107–110, title I, § 101, Jan. 8, 2002, 115 Stat. 1439. The new section 1116 does not contain a subsec. (a)(3).
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(2)(A)(ii), (3)(A)(v), (b)(1), and (c)(1)(G), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of this title. Parts A, C, and D of title I of the Act are classified generally to parts A (§ 6311 et seq.), C (§ 6391 et seq.), and D (§ 6421 et seq.), respectively, of subchapter I of chapter 70 of this title. Part A of title II of the Act is classified generally to part A (§ 6611 et seq.) of subchapter II of chapter 70 of this title. Part A of title IV of the Act is classified generally to part A (§ 7101) of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(3)(A)(v), (b)(1), and (c)(1)(G), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of this title. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of this title. Subpart 3 of part B of title I is classified generally to subpart 3 (§ 6381 et seq.) of part B of subchapter I of chapter 70 of this title. Parts C, D, and F of title I are classified generally to parts C (§ 6391 et seq.), D (§ 6421 et seq.), and F (§ 6511 et seq.), respectively, of subchapter I of chapter 70 of this title. Subparts 2 and 3 of part A of title II are classified generally to subparts 2 (§ 6621 et seq.) and 3 (§ 6631 et seq.), respectively, of part A of subchapter II of chapter 70 of this title. Subpart 1 of part D of title II is classified generally to subpart 1 (§ 6761 et seq.) of part D of subchapter II of chapter 70 of this title. Subpart 4 of part B of title III is classified generally to subpart 4 (§ 6961 et seq.) of part B of subchapter III of chapter 70 of this title. Subpart 1 of part A of title IV is classified generally to subpart 1 (§ 7111 et seq.) of part A of subchapter IV of chapter 70 of this title. Part A of title V is classified generally to part A (§ 7201 et seq.) of subchapter V of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+The Every Student Succeeds Act, referred to in subsec. (a)(2)(A)(ii), is Pub. L. 114–95, Dec. 10, 2015, 129 Stat. 1802. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(2), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301) and Tables.
-
-Section 311(e) of the Goals 2000: Educate America Act, referred to in subsec. (d)(2), (3)(A), is section 311(e) of Pub. L. 103–227, which was classified to [section 5891(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section5891/e&num=0&edition=prelim) and was repealed by Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 310(i)], Nov. 29, 1999, 113 Stat. 1535, 1501A–265.
-
-The proviso referring to such section 311(e) under the heading “education reform” in the Department of Education Appropriations Act, 1996, referred to in subsec. (d)(2)(B), is Pub. L. 104–134, title I, § 101(d) [title III], Apr. 26, 1996, 110 Stat. 1321–211, 1321–229; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, which is set out as a note below.
-
-Subpart 2 of part A of title III of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(4), means subpart 2 of part A of title III of Pub. L. 89–10, as added by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3644, which related to State and local programs for school technology resources, and was classified generally to subpart 2 (§ 6841 et seq.) of part A of subchapter III of this chapter prior to the general amendment of title III of Pub. L. 89–10 by Pub. L. 107–110, title III, § 301, Jan. 8, 2002, 115 Stat. 1689, which enacted a new subpart 2 of part A, relating to accountability and administration.
-
-Section 3136 of such Act, referred to in subsec. (d)(4), means section 3136 of Pub. L. 89–10, as added by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3648, which was classified to [section 6846 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6846) prior to the general amendment of title III of Pub. L. 89–10 by Pub. L. 107–110, title III, § 301, Jan. 8, 2002, 115 Stat. 1689.
 
 #### Codification
 Section was enacted as part of the Education Flexibility Partnership Act of 1999, and not as part of the Goals 2000: Educate America Act which comprises this chapter.
 
 #### Amendments
+2015—Pub. L. 114–95 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to the educational flexibility program, programs included in the educational flexibility program, limitations on waivers of program requirements, treatment of existing Ed-Flex Partnership States, and publication of notice of the Secretary’s decision to authorize State educational agencies to issue waivers under this section, respectively.
+
 2006—Subsec. (b)(2). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
 
 2002—Subsec. (b). Pub. L. 107–110 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The statutory or regulatory requirements referred to in subsection (a)(1)(A) of this section are any such requirements for programs carried out under the following provisions:
@@ -670,6 +693,9 @@ Section was enacted as part of the Education Flexibility Partnership Act of 1999
 “(6) Part C of title VII of the Elementary and Secondary Education Act of 1965.
 
 “(7) The Carl D. Perkins Vocational and Technical Education Act of 1998.”
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
@@ -802,7 +828,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 ## § 5964. Safe schools program authorized
 **(a) Authority**
 
-(1) **In general** — From funds appropriated pursuant to the authority of subsection (b)(1) of this section, the Secretary shall make competitive grants to eligible local educational agencies to enable such agencies to carry out projects and activities designed to achieve Goal Six 11 So in original. Probably should be “Goal Seven”. of the National Education Goals by helping to ensure that all schools are safe and free of violence.
+(1) **In general** — From funds appropriated pursuant to the authority of subsection (b)(1), the Secretary shall make competitive grants to eligible local educational agencies to enable such agencies to carry out projects and activities designed to achieve Goal Six 11 So in original. Probably should be “Goal Seven”. of the National Education Goals by helping to ensure that all schools are safe and free of violence.
 
 (2) **Grant duration and amount** — Grants under this subchapter may not exceed—
 
@@ -881,7 +907,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 ### Statutory Notes
 
 #### References in Text
-The Drug-Free Schools and Communities Act of 1986, referred to in subsec. (a)(8), is title V of Pub. L. 89–10 as added by Pub. L. 100–297, title I, § 1001, Apr. 28, 1988, 102 Stat. 252, which was classified generally to subchapter V (§ 3171 et seq.) of chapter 47 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3519. See section 7101 et seq. of this title.
+The Drug-Free Schools and Communities Act of 1986, referred to in subsec. (a)(8), is title V of Pub. L. 89–10 as added by Pub. L. 100–297, title I, § 1001, Apr. 28, 1988, 102 Stat. 252, which was classified generally to subchapter V (§ 3171 et seq.) of chapter 47 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3519.
 
 The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (a)(9), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§ 5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5601&num=0&edition=prelim) and Tables.
 
@@ -940,11 +966,11 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subs
 
 (1) **In general** — A local educational agency may use not more than—
 
-  (A) a total of 5 percent of grant funds received under this subchapter in each fiscal year for activities described in paragraphs (11), (13), and (14) of subsection (a) of this section; and
+  (A) a total of 5 percent of grant funds received under this subchapter in each fiscal year for activities described in paragraphs (11), (13), and (14) of subsection (a); and
 
-  (B) 5 percent of grant funds received under this subchapter in each fiscal year for activities described in paragraph (16) of subsection (a) of this section.
+  (B) 5 percent of grant funds received under this subchapter in each fiscal year for activities described in paragraph (16) of subsection (a).
 
-(2) **Special rule** — A local educational agency shall only be able to use grant funds received under this subchapter for activities described in paragraphs (11), (13), and (14) of subsection (a) of this section if funding for such activities is not available from other Federal sources.
+(2) **Special rule** — A local educational agency shall only be able to use grant funds received under this subchapter for activities described in paragraphs (11), (13), and (14) of subsection (a) if funding for such activities is not available from other Federal sources.
 
 (3) **Prohibition** — A local educational agency may not use grant funds received under this subchapter for construction.
 
@@ -1067,7 +1093,7 @@ For purposes of this subchapter—
 ## § 6021. Applications
 **(a) Application required** Each eligible entity desiring a grant under this subchapter shall submit an application to the Secretary, at such time, in such manner and containing or accompanied by such information as the Secretary may reasonably require.
 
-**(b) Contents of application** Each application submitted pursuant to subsection (a) of this section shall—
+**(b) Contents of application** Each application submitted pursuant to subsection (a) shall—
 
 (1) define the learning objectives and course content of each seminar to be held and describe the manner in which seminar participants shall receive substantive academic instruction in the principles, institutions and processes of American government;
 
@@ -1165,7 +1191,7 @@ The Congress finds as follows with respect to improving education in the United 
 ### Statutory Notes
 
 #### References in Text
-The Job Training Partnership Act, referred to in par. (2)(D), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former [section 2940(b) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2940/b&num=0&edition=prelim), references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3101&num=0&edition=prelim) and Tables.
+The Job Training Partnership Act, referred to in par. (2)(D), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former [section 2940(b) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2940/b&num=0&edition=prelim), references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 #### Office of Educational Research and Improvement
 The Office of Educational Research and Improvement was established by [section 3419 of this title](./chapter-048-department-of-education.md#section-3419). Section 3419 was repealed and a new section 3419 establishing the Institute of Educational Sciences was enacted by Pub. L. 107–279, title IV, § 402(2), Nov. 5, 2002, 116 Stat. 1985.
@@ -1213,13 +1239,13 @@ Section, Pub. L. 103–227, title IX, § 951, Mar. 31, 1994, 108 Stat. 260, esta
 
 <a id="section-6056-6056a"></a>
 ## § 6056, 6056a. Continuation of awards
-**(a) In general** Notwithstanding any other provision of law, from funds appropriated under subsection (b) of this section, the Secretary—
+**(a) In general** Notwithstanding any other provision of law, from funds appropriated under subsection (b), the Secretary—
 
 (1) shall continue to fund any multiyear grant or contract awarded under section 3141 and parts A and C of title XIII of the Elementary and Secondary Education Act of 1965 (as such provisions were in effect on the day preceding January 8, 2002), for the duration of that multiyear award in accordance with its terms; and
 
 (2) may extend, on a year-to-year basis, any multiyear grant or contract awarded under an authority described in paragraph (1) that expires after January 8, 2002, but before the enactment of successor authority to this subchapter.11 See References in Text note below.
 
-**(b) Authorization of appropriations** There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out subsection (a) of this section.
+**(b) Authorization of appropriations** There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out subsection (a).
 
 ### Statutory Notes
 
@@ -1317,7 +1343,7 @@ Another section 1012 of Pub. L. 103–227 was classified to [section 6054a of th
 
 (2) **“Children with disabilities” defined** — For purposes of this section, the term “children with disabilities” has the same meaning given such term in [section 1401 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1401).
 
-**(b) Study components** The study conducted under subsection (a) of this section shall include—
+**(b) Study components** The study conducted under subsection (a) shall include—
 
 (1) an evaluation of the National Education Goals and objectives, curriculum reforms, standards, and other programs and activities intended to achieve those goals;
 
@@ -1329,7 +1355,7 @@ Another section 1012 of Pub. L. 103–227 was classified to [section 6054a of th
 
 (5) such other issues as the National Academy of Sciences or the National Academy of Education considers appropriate.
 
-**(c) Study panel membership** Any panel constituted in furtherance of the study to be conducted under subsection (a) of this section shall include consumer representatives.
+**(c) Study panel membership** Any panel constituted in furtherance of the study to be conducted under subsection (a) shall include consumer representatives.
 
 **(d) Findings and recommendations** The Secretary shall request the National Academy of Sciences or the National Academy of Education to submit an interim report of its findings and recommendations to the President and Congress not later than 12 months, and a final report not later than 24 months, from the date of the completion of procurement relating to the study.
 

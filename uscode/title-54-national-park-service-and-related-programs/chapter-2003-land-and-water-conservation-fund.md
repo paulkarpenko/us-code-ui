@@ -20,15 +20,15 @@ In this chapter:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200301(1) | no source |  |
-| 200301(2) | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–8(b)(5) (last sentence) | Pub. L. 88–578, title I, § 6(b)(5) (last sentence), formerly § 5, Sept. 3, 1964, 78 Stat. 900; renumbered § 6, Pub. L. 92–347, § 2, July 11, 1972, 86 Stat. 459; Pub. L. 94–422, title I, § 101(3), Sept. 28, 1976, 90 Stat. 1315. |
+| 200301(1) | no source. |  |
+| 200301(2) | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–8(b)(5) (last sentence). | Pub. L. 88–578, title I, § 6(b)(5) (last sentence), formerly § 5, Sept. 3, 1964, 78 Stat. 900; renumbered § 6, Pub. L. 92–347, § 2, July 11, 1972, 86 Stat. 459; Pub. L. 94–422, title I, § 101(3), Sept. 28, 1976, 90 Stat. 1315. |
 
 
 <a id="section-200302"></a>
 ## § 200302. Establishment of Land and Water Conservation Fund
 **(a) Establishment.—** There is established in the Treasury the Land and Water Conservation Fund.
 
-**(b) Deposits.—** During the period ending September 30, 2015, there shall be deposited in the Fund the following revenues and collections:
+**(b) Deposits.—** During the period ending September 30, 2018, there shall be deposited in the Fund the following revenues and collections:
 
 (1) All proceeds (except so much thereof as may be otherwise obligated, credited, or paid under authority of the provisions of law set forth in section 572(a) or 574(a) to (c) of title 40 or under authority of any appropriation Act that appropriates an amount, to be derived from proceeds from the transfer of excess property and the disposal of surplus property, for necessary expenses, not otherwise provided for, incident to the utilization and disposal of excess and surplus property) received from any disposal of surplus real property and related personal property under chapter 5 of title 40, notwithstanding any provision of law that such proceeds shall be credited to miscellaneous receipts of the Treasury. Nothing in this chapter shall affect existing laws or regulations concerning disposal of real or personal surplus property to schools, hospitals, and States and their political subdivisions.
 
@@ -36,7 +36,7 @@ In this chapter:
 
 **(c) Authorization of Appropriations.—**
 
-(1) **In general.—** — In addition to the sum of the revenues and collections estimated by the Secretary to be deposited in the Fund pursuant to this section, there are authorized to be appropriated annually to the Fund out of any money in the Treasury not otherwise appropriated such amounts as are necessary to make the income of the Fund not less than $900,000,000 for each fiscal year through September 30, 2015.
+(1) **In general.—** — In addition to the sum of the revenues and collections estimated by the Secretary to be deposited in the Fund pursuant to this section, there are authorized to be appropriated annually to the Fund out of any money in the Treasury not otherwise appropriated such amounts as are necessary to make the income of the Fund not less than $900,000,000 for each fiscal year through September 30, 2018.
 
 (2) **Receipts under outer continental shelf lands act.—** — To the extent that amounts appropriated under paragraph (1) are not sufficient to make the total annual income of the Fund equivalent to the amounts provided in paragraph (1), an amount sufficient to cover the remainder shall be credited to the Fund from revenues due and payable to the United States for deposit in the Treasury as miscellaneous receipts under the Outer Continental Shelf Lands Act ([43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) et seq.).
 
@@ -47,7 +47,7 @@ In this chapter:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200302 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–5 | Pub. L. 88–578, title I, § 2, Sept. 3, 1964, 78 Stat. 897; Pub. L. 89–72, § 11, July 9, 1965, 79 Stat. 218; Pub. L. 90–401, §§ 1(a), 2, July 15, 1968, 82 Stat. 354, 355; Pub. L. 91–308, § 2, July 7, 1970, 84 Stat. 410; Pub. L. 91–485, § 1, Oct. 22, 1970, 84 Stat. 1084; Pub. L. 94–273, § 2(7), Apr. 21, 1976, 90 Stat. 375; Pub. L. 94–422, title I, § 101(1), Sept. 28, 1976, 90 Stat. 1313; Pub. L. 95–42, § 1(1), June 10, 1977, 91 Stat. 210; Pub. L. 100–203, title V, § 5201(f)(1), Dec. 22, 1987, 101 Stat. 1330–267. |
+| 200302 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–5. | Pub. L. 88–578, title I, § 2, Sept. 3, 1964, 78 Stat. 897; Pub. L. 89–72, § 11, July 9, 1965, 79 Stat. 218; Pub. L. 90–401, §§ 1(a), 2, July 15, 1968, 82 Stat. 354, 355; Pub. L. 91–308, § 2, July 7, 1970, 84 Stat. 410; Pub. L. 91–485, § 1, Oct. 22, 1970, 84 Stat. 1084; Pub. L. 94–273, § 2(7), Apr. 21, 1976, 90 Stat. 375; Pub. L. 94–422, title I, § 101(1), Sept. 28, 1976, 90 Stat. 1313; Pub. L. 95–42, § 1(1), June 10, 1977, 91 Stat. 210; Pub. L. 100–203, title V, § 5201(f)(1), Dec. 22, 1987, 101 Stat. 1330–267. |
 
 In subsection (b), the words “section 572(a) or 574(a) to (c) of title 40” are substituted for “section 485(b)(e)[sic], title 40, United States Code”, and the words “chapter 5 of title 40” are substituted for “the Federal Property and Administrative Services Act of 1949, as amended” because of section 5(c) of the Act of August 21, 2002 (Public Law 107–217, 116 Stat. 1303), the 1st section of which enacted Title 40, United States Code, and in the case of “chapter 5 of title 40”, to provide a more precise cross reference. The words “any appropriation Act that appropriates an amount, to be derived from proceeds from the transfer of excess property and the disposal of surplus property, for necessary expenses, not otherwise provided for, incident to the utilization and disposal of excess and surplus property” are substituted for “the Independent Offices Appropriation Act, 1963 (76 Stat. 725) or in any later appropriation Act” to update the reference.
 
@@ -56,11 +56,16 @@ In subsection (c)(1), reference to fiscal years 1977 and 1978 and the word “th
 #### References in Text
 The Outer Continental Shelf Lands Act, referred to in subsec. (c)(2), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
+#### Amendments
+2015—Subsec. (b). Pub. L. 114–113, § 801(a)(1), substituted “September 30, 2018” for “September 30, 2015” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 114–113, § 801(a)(2), substituted “September 30, 2018” for “September 30, 2015”.
+
 #### Establishment and Collection of Use or Royalty Fees for Manufacture, Reproduction, or Use of “Golden Eagle Insignia”
 Pub. L. 92–347, § 3(a), July 11, 1972, 86 Stat. 461, provided that: “The Secretary of the Interior may establish and collect use or royalty fees for the manufacture, reproduction, or use of ‘The Golden Eagle Insignia’, originated by the Department of the Interior and announced in the December 3, 1970, issue of the Federal Register (35 Federal Register 18376) as the official symbol for Federal recreation areas designated for recreation fee collection. Any fees collected pursuant to this subsection shall be covered into the Land and Water Conservation Fund.”
 
 #### Termination of Rights in “Golden Eagle Insignia”
-Pub. L. 92–347, § 3(d), July 11, 1972, 86 Stat. 462, provided that: “The rights in ‘The Golden Eagle Insignia’ under this Act [see Tables for classification]], shall terminate if the use by the Secretary of the Interior of ‘The Golden Eagle Insignia’ is abandoned. Nonuse for a continuous period of two years shall constitute abandonment.”
+Pub. L. 92–347, § 3(d), July 11, 1972, 86 Stat. 462, provided that: “The rights in ‘The Golden Eagle Insignia’ under this Act [see Tables for classification], shall terminate if the use by the Secretary of the Interior of ‘The Golden Eagle Insignia’ is abandoned. Nonuse for a continuous period of two years shall constitute abandonment.”
 
 #### Ex. Ord. No. 11200. Establishment of Recreation User Fees
 Ex. Ord. No. 11200, Feb. 26, 1965, 30 F.R. 2645, provided:
@@ -125,7 +130,7 @@ Sec. 6. Coordination. (a) The Secretary of the Interior shall after consultation
 
 (3) Review and revision, if needed, of the criteria for designation set forth in Section 3 of this Order.
 
-(d) Except with respect to the schedule of fees and the criteria prescribed by the Secretary pursuant to subsection (b)(1) of this section, measures and regulations adopted by the Secretary pursuant to this Order shall not become effective until 30 days after they are presented for the consideration of the other officials described in Section 1(b). Any such official who does not concur in any such measure or regulation may, within that 30-day period, refer the matter to the Recreation Advisory Council established under Executive Order No. 11017 [superseded by Ex. Ord. No. 11278, which in turn was revoked by Ex. Ord. No. 11472 which is set out as a note under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim)] for resolution. If a proposed measure is referred to the Council for resolution, it shall not become effective until approved by the Council. With the approval of all other officials described in Section 1(b) of this Order, the provisions of this subsection may be waived with respect to any specific measure or regulation adopted by the Secretary of the Interior pursuant to this order so that any such measure or regulation may be made effective before the expiration of the 30-day waiting period prescribed by the first sentence of this subsection.
+(d) Except with respect to the schedule of fees and the criteria prescribed by the Secretary pursuant to subsection (b)(1) of this section, measures and regulations adopted by the Secretary pursuant to this Order shall not become effective until 30 days after they are presented for the consideration of the other officials described in Section 1(b). Any such official who does not concur in any such measure or regulation may, within that 30-day period, refer the matter to the Recreation Advisory Council established under Executive Order No. 11017 [superseded by Ex. Ord. No. 11278, which in turn was revoked by Ex. Ord. No. 11472, which is set out as a note under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim), The Public Health and Welfare] for resolution. If a proposed measure is referred to the Council for resolution, it shall not become effective until approved by the Council. With the approval of all other officials described in Section 1(b) of this Order, the provisions of this subsection may be waived with respect to any specific measure or regulation adopted by the Secretary of the Interior pursuant to this order so that any such measure or regulation may be made effective before the expiration of the 30-day waiting period prescribed by the first sentence of this subsection.
 
 Sec. 7. Review of contracts. The officials described in Section 1(b) of this Order shall, within a reasonable time, review all existing contracts and other arrangements between their respective agencies and any non-Federal public entity which relate to non-Federal management of Federally-owned outdoor recreation areas. Special attention shall be given to any provision in any such contract or other arrangement which prohibits or discourages in any way such non-Federal public entity from charging recreation user fees. Unless otherwise prohibited by law, each such restrictive provision shall be the subject of renegotiation designed to accomplish a modification thereof that will permit the charging of recreation user fees.
 
@@ -144,7 +149,7 @@ Amounts deposited in the Fund shall be available for expenditure for the purpose
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200303 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–6 | Pub. L. 88–578, title I, § 3, Sept. 3, 1964, 78 Stat. 899; Pub. L. 100–203, title V, § 5201(f)(2), Dec. 22, 1987, 101 Stat. 1330-267. |
+| 200303 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–6. | Pub. L. 88–578, title I, § 3, Sept. 3, 1964, 78 Stat. 899; Pub. L. 100–203, title V, § 5201(f)(2), Dec. 22, 1987, 101 Stat. 1330-267. |
 
 The words “or from the special account established under section 460l–6a(i)(1) of this title” are omitted as obsolete.
 
@@ -159,7 +164,7 @@ There shall be submitted with the annual budget of the United States a comprehen
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200304 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–7 | Pub. L. 88–578, title I, § 5, formerly § 4, Sept. 3, 1964, 78 Stat. 900; Pub. L. 90–401, § 3, July 15, 1968, 82 Stat. 355; renumbered § 5, Pub. L. 92–347, § 2, July 11, 1972, 86 Stat. 459; Pub. L. 94–273, § 3(4), Apr. 21, 1976, 90 Stat. 376; Pub. L. 94–422, title I, § 101(2), Sept. 28, 1976, 90 Stat. 1314; Pub. L. 95–42, § 1(2), June 10, 1977, 91 Stat. 210. |
+| 200304 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–7. | Pub. L. 88–578, title I, § 5, formerly § 4, Sept. 3, 1964, 78 Stat. 900; Pub. L. 90–401, § 3, July 15, 1968, 82 Stat. 355; renumbered § 5, Pub. L. 92–347, § 2, July 11, 1972, 86 Stat. 459; Pub. L. 94–273, § 3(4), Apr. 21, 1976, 90 Stat. 376; Pub. L. 94–422, title I, § 101(2), Sept. 28, 1976, 90 Stat. 1314; Pub. L. 95–42, § 1(2), June 10, 1977, 91 Stat. 210. |
 
 The references to fiscal years 1978 and 1979 and the special account are omitted as obsolete.
 
@@ -178,7 +183,7 @@ The references to fiscal years 1978 and 1979 and the special account are omitted
 
 (1) Forty percent of the 1st $225,000,000; 30 percent of the next $275,000,000; and 20 percent of all additional appropriations shall be apportioned equally among the States.
 
-(2) At any time, the remaining appropriation shall be apportioned on the basis of need to individual States by the Secretary in such amounts as in the Secretary’s judgment will best accomplish the purposes of this chapter. The determination of need shall include consideration of—–
+(2) At any time, the remaining appropriation shall be apportioned on the basis of need to individual States by the Secretary in such amounts as in the Secretary’s judgment will best accomplish the purposes of this chapter. The determination of need shall include consideration of—
 
   (A) the proportion that the population of each State bears to the total population of the United States;
 
@@ -281,7 +286,7 @@ The references to fiscal years 1978 and 1979 and the special account are omitted
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200305 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–8(less (b)(5) (last sentence)) | Pub. L. 88–578, title I, § 6, formerly § 5(less (b)(5) (last sentence)), Sept. 3, 1964, 78 Stat. 900; renumbered § 6, Pub. L. 92–347, § 2, July 11, 1972, 86 Stat. 459; Pub. L. 93–303, § 2, June 7, 1974, 88 Stat. 194; Pub. L. 94–422, title I, § 101(3), Sept. 28, 1976, 90 Stat. 1314. 1315; Pub. L. 95–625, title VI, § 606, Nov. 10, 1978, 92 Stat. 3519; Pub. L. 99–645, title III, § 303, Nov. 10, 1986, 100 Stat. 3587; Pub. L. 103–322, title IV, § 40133, Sept. 13, 1994, 108 Stat. 1918; Pub. L. 103–437, § 6(p)(2), Nov. 2, 1994, 108 Stat. 4586; Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(H), Nov. 12, 1996, 110 Stat. 4196. |
+| 200305 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–8(less (b)(5) (last sentence)). | Pub. L. 88–578, title I, § 6, formerly § 5(less (b)(5) (last sentence)), Sept. 3, 1964, 78 Stat. 900; renumbered § 6, Pub. L. 92–347, § 2, July 11, 1972, 86 Stat. 459; Pub. L. 93–303, § 2, June 7, 1974, 88 Stat. 194; Pub. L. 94–422, title I, § 101(3), Sept. 28, 1976, 90 Stat. 1314. 1315; Pub. L. 95–625, title VI, § 606, Nov. 10, 1978, 92 Stat. 3519; Pub. L. 99–645, title III, § 303, Nov. 10, 1986, 100 Stat. 3587; Pub. L. 103–322, title IV, § 40133, Sept. 13, 1994, 108 Stat. 1918; Pub. L. 103–437, § 6(p)(2), Nov. 2, 1994, 108 Stat. 4586; Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(H), Nov. 12, 1996, 110 Stat. 4196. |
 
 In subsection (b)(5), the words “(when such islands achieve Commonwealth status)” are omitted as obsolete.
 
@@ -347,7 +352,7 @@ In subsection (k)(3), the words “and the remaining share of the cost shall be 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200306 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–9(a), (b) | Pub. L. 88–578, title I, § 7, formerly § 6, Sept. 3, 1964, 78 Stat. 903; Pub. L. 90–401, § 1(c), July 15, 1968, 82 Stat. 355; renumbered § 7, Pub. L. 92–347, § 2, July 11, 1972, 86 Stat. 459; amended Pub. L. 93–205, § 13(c), Dec. 28, 1973, 87 Stat. 902; Pub. L. 94–422, title I, § 101(4), Sept. 28, 1976, 90 Stat. 1317; Pub. L. 95–42, § 1(3)–(5), June 10, 1977, 91 Stat. 210, 211; Pub. L. 96–203, § 2, Mar. 10, 1980, 94 Stat. 81; Pub. L. 99–645, title III, § 302, Nov. 10, 1986, 100 Stat. 3587; Pub. L. 103–437, § 6(p)(3), Nov. 2, 1994, 108 Stat. 4586; Pub. L. 104–333, div. I, title VIII, § 814(b), (d)(2)(C), Nov. 12, 1996, 110 Stat. 4194, 4196; Pub. L. 106–176, title I, §§ 120(b), 129, Mar. 10, 2000, 114 Stat. 28, 30. |
+| 200306 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–9(a), (b). | Pub. L. 88–578, title I, § 7, formerly § 6, Sept. 3, 1964, 78 Stat. 903; Pub. L. 90–401, § 1(c), July 15, 1968, 82 Stat. 355; renumbered § 7, Pub. L. 92–347, § 2, July 11, 1972, 86 Stat. 459; amended Pub. L. 93–205, § 13(c), Dec. 28, 1973, 87 Stat. 902; Pub. L. 94–422, title I, § 101(4), Sept. 28, 1976, 90 Stat. 1317; Pub. L. 95–42, § 1(3)–(5), June 10, 1977, 91 Stat. 210, 211; Pub. L. 96–203, § 2, Mar. 10, 1980, 94 Stat. 81; Pub. L. 99–645, title III, § 302, Nov. 10, 1986, 100 Stat. 3587; Pub. L. 103–437, § 6(p)(3), Nov. 2, 1994, 108 Stat. 4586; Pub. L. 104–333, div. I, title VIII, § 814(b), (d)(2)(C), Nov. 12, 1996, 110 Stat. 4194, 4196; Pub. L. 106–176, title I, §§ 120(b), 129, Mar. 10, 2000, 114 Stat. 28, 30. |
 
 In subsection (a)(4), the words “January 4, 1977” are substituted for “the convening of the Ninety-fifth Congress”, and the words “January 15, 1979” are substituted for “ the convening of the Ninety-sixth Congress”, for clarity.
 
@@ -363,7 +368,7 @@ In subsection (a)(4), the words “January 4, 1977” are substituted for “the
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200307 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–10 | Pub. L. 88–578, title I, § 8, formerly § 7, Sept. 3, 1964, 78 Stat. 903; renumbered § 8, Pub. L. 92–347, § 2, July 11, 1972, 86 Stat. 459; Pub. L. 94–422, title I, § 101(5), Sept. 28, 1976, 90 Stat. 1318. |
+| 200307 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–10. | Pub. L. 88–578, title I, § 8, formerly § 7, Sept. 3, 1964, 78 Stat. 903; renumbered § 8, Pub. L. 92–347, § 2, July 11, 1972, 86 Stat. 459; Pub. L. 94–422, title I, § 101(5), Sept. 28, 1976, 90 Stat. 1318. |
 
 
 <a id="section-200308"></a>
@@ -376,7 +381,16 @@ Not more than $30,000,000 of the amount authorized to be appropriated from the F
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200308 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–10a | Pub. L. 88–578, title I, § 9, formerly § 8, as added Pub. L. 90–401, § 4, July 15, 1968, 82 Stat. 355; Pub. L. 91–308, § 3, July 7, 1970, 84 Stat. 410; renumbered § 9, Pub. L. 92–347, § 2, July 11, 1972, 86 Stat. 459; Pub. L. 93–303, § 3, June 7, 1974, 88 Stat. 194. |
+| 200308 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–10a. | Pub. L. 88–578, title I, § 9, formerly § 8, as added Pub. L. 90–401, § 4, July 15, 1968, 82 Stat. 355; Pub. L. 91–308, § 3, July 7, 1970, 84 Stat. 410; renumbered § 9, Pub. L. 92–347, § 2, July 11, 1972, 86 Stat. 459; Pub. L. 93–303, § 3, June 7, 1974, 88 Stat. 194. |
+
+#### Rescission of Contract Authority
+Provisions rescinding contract authority provided for specific fiscal years by [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–10a (now this section) were contained in the appropriation acts listed in a note under former section 460l–10a of Title 16, Conservation, and in the following appropriation acts:
+
+Pub. L. 114–113, div. G, title I, Dec. 18, 2015, 129 Stat. 2532.
+
+Pub. L. 113–235, div. F, title I, Dec. 16, 2014, 128 Stat. 2402.
+
+Pub. L. 113–76, div. G, title I, Jan. 17, 2014, 128 Stat. 295.
 
 
 <a id="section-200309"></a>
@@ -389,7 +403,7 @@ The Secretary may enter into contracts for options to acquire land, water, or in
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200309 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–10b | Pub. L. 88–578, title I, § 10, formerly § 9, as added Pub. L. 90–401, § 4, July 15, 1968, 82 Stat. 355; renumbered § 10, Pub. L. 92–347, § 2, July 11, 1972, 86 Stat. 459. |
+| 200309 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–10b. | Pub. L. 88–578, title I, § 10, formerly § 9, as added Pub. L. 90–401, § 4, July 15, 1968, 82 Stat. 355; renumbered § 10, Pub. L. 92–347, § 2, July 11, 1972, 86 Stat. 459. |
 
 
 <a id="section-200310"></a>
@@ -398,17 +412,25 @@ The Secretary may enter into contracts for options to acquire land, water, or in
 
 **(b) Refunds of Taxes.—** There shall be paid from time to time from the Fund into the general fund of the Treasury amounts estimated by the Secretary of the Treasury as equivalent to—
 
-(1) the amounts paid before October 1, 2017, under section 6421 of the Internal Revenue Code of 1986 ([26 U.S.C. 6421](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6421&num=0&edition=prelim)) with respect to gasoline used after December 31, 1964, in motorboats, on the basis of claims filed for periods ending before October 1, 2016; and
+(1) the amounts paid before October 1, 2023, under section 6421 of the Internal Revenue Code of 1986 ([26 U.S.C. 6421](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6421&num=0&edition=prelim)) with respect to gasoline used after December 31, 1964, in motorboats, on the basis of claims filed for periods ending before October 1, 2022; and
 
-(2) 80 percent of the floor stocks refunds made before October 1, 2017, under section 6412(a)(1) of the Internal Revenue Code of 1986 ([26 U.S.C. 6412(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6412/a/1&num=0&edition=prelim)) with respect to gasoline to be used in motorboats.
+(2) 80 percent of the floor stocks refunds made before October 1, 2023, under section 6412(a)(1) of the Internal Revenue Code of 1986 ([26 U.S.C. 6412(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6412/a/1&num=0&edition=prelim)) with respect to gasoline to be used in motorboats.
 
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 200310 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–11 | Pub. L. 88–578, title II, § 201, Sept. 3, 1964, 78 Stat. 904; Pub. L. 91–605, title III, § 302, Dec. 31, 1970, 84 Stat. 1743; Pub. L. 94–273, § 3(4), Apr. 21, 1976, 90 Stat. 376; Pub. L. 94–280, title III, § 302, May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, § 503(b), Nov. 6, 1978, 92 Stat. 2757; Pub. L. 97–424, title V, § 531(c), Jan. 6, 1983, 96 Stat. 2191; Pub. L. 99–514, § 2, title XVIII, § 1875(e), Oct. 22, 1986, 100 Stat. 2095, 2897; Pub. L. 100–17, title V, § 503(c), Apr. 2, 1987, 101 Stat. 258; Pub. L. 101–508, title XI, § 11211(g)(2), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, § 8002(d)(2)(B), Dec. 18, 1991, 105 Stat. 2204; Pub. L. 105–178, title IX, § 9002(c)(2)(B), June 9, 1998, 112 Stat. 500; Pub. L. 109–59, title XI, § 11101(c)(2)(B), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 112–30, title I, § 142(e)(2)(B), Sept. 16, 2011, 125 Stat. 356 ; Pub. L. 112102, title IV, §402(e)(2)(B), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112140, title IV, §402(d)(2)(B), June 29, 2012, 126 Stat. 403; Pub. L. 112141, div. D, title I, §40102(e)(2)(B), July 6, 2012, 126 Stat. 845. |
+| 200310 | [16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–11. | Pub. L. 88–578, title II, § 201, Sept. 3, 1964, 78 Stat. 904; Pub. L. 91–605, title III, § 302, Dec. 31, 1970, 84 Stat. 1743; Pub. L. 94–273, § 3(4), Apr. 21, 1976, 90 Stat. 376; Pub. L. 94–280, title III, § 302, May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, § 503(b), Nov. 6, 1978, 92 Stat. 2757; Pub. L. 97–424, title V, § 531(c), Jan. 6, 1983, 96 Stat. 2191; Pub. L. 99–514, § 2, title XVIII, § 1875(e), Oct. 22, 1986, 100 Stat. 2095, 2897; Pub. L. 100–17, title V, § 503(c), Apr. 2, 1987, 101 Stat. 258; Pub. L. 101–508, title XI, § 11211(g)(2), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, § 8002(d)(2)(B), Dec. 18, 1991, 105 Stat. 2204; Pub. L. 105–178, title IX, § 9002(c)(2)(B), June 9, 1998, 112 Stat. 500; Pub. L. 109–59, title XI, § 11101(c)(2)(B), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 112–30, title I, § 142(e)(2)(B), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, §402(e)(2)(B), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, §402(d)(2)(B), June 29, 2012, 126 Stat. 403; Pub. L. 112–141, div. D, title I, §40102(e)(2)(B), July 6, 2012, 126 Stat. 845. |
 
 In subsection (a), the words “(relating to special motor fuels and gasoline used in motorboats)” are omitted as unnecessary.
 
 In subsection (b), the words “(relating to amounts paid in respect of gasoline used for certain nonhighway purposes or by local transit systems)” are omitted as unnecessary.
+
+#### Amendments
+2015—Subsec. (b)(1). Pub. L. 114–94 substituted “October 1, 2023” for “October 1, 2017” and “October 1, 2022” for “October 1, 2016”.
+
+Subsec. (b)(2). Pub. L. 114–94, § 31102(e)(2)(B)(i), substituted “October 1, 2023” for “October 1, 2017”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under [section 4041 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4041&num=0&edition=prelim), Internal Revenue Code.

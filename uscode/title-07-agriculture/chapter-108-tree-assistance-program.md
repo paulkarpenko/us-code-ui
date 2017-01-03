@@ -52,7 +52,7 @@ Subject to [section 8204 of this title](./chapter-108-tree-assistance-program.md
 ### Statutory Notes
 
 #### References in Text
-[Section 1308 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1308) (before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008), referred to in subsec. (c)(1), probably means [section 1308 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1308) before the amendment made by section 1603(b)(3)(A) of that Act, Pub. L. 110–246, which struck out provisions in [section 1308 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1308) relating to issuance of regulations defining the term “person”.
+[Section 1308 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1308) (before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008), referred to in subsec. (c)(1), means [section 1308 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1308) before the amendment by section 1603(a) of Pub. L. 110–246, which amended the definition of “covered commodity” in section 1308(a)(1). Section 1603(b) of Pub. L. 110–246 amended section 1308 by, among other things, adding subsec. (a)(4) which defined “person” and striking out subsec. (e) which related to issuance of regulations defining “person”. The amendments by section 1603 of Pub. L. 110–246 to section 1308 were effective May 22, 2008.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.

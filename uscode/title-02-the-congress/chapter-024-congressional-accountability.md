@@ -80,6 +80,9 @@ Pub. L. 110–437, title IV, § 422(d), Oct. 20, 2008, 122 Stat. 4997, provided 
 
 Amendment by Pub. L. 110–279 effective July 17, 2008, and applicable to remainder of fiscal year in which enacted and each fiscal year thereafter, see [section 2051(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section2051/i&num=0&edition=prelim).
 
+#### Short Title of 2015 Amendment
+Pub. L. 114–6, § 1, Mar. 20, 2015, 129 Stat. 81, provided that: “This Act [amending sections 1403, 1404, and 1416 of this title and enacting provisions set out as notes under sections 1381 and 1403 of this title] may be cited as the ‘Office of Compliance Administrative and Technical Corrections Act of 2015’.”
+
 #### Short Title
 Pub. L. 104–1, § 1(a), Jan. 23, 1995, 109 Stat. 3, provided that: “This Act [enacting this chapter, amending sections 1201, 1202, 1219, 1220, and 1831 of this title, [section 6381 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6381&num=0&edition=prelim), Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare, repealing sections 60m, 60n, 1203 to 1218, 1221, 1223, and 1224 of this title, and enacting provisions set out as a note under [section 751 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section751&num=0&edition=prelim), Money and Finance] may be cited as the ‘Congressional Accountability Act of 1995’.”
 
@@ -917,6 +920,8 @@ Committee on House Oversight of House of Representatives changed to Committee on
 Pub. L. 108–349, § 1(b), Oct. 21, 2004, 118 Stat. 1389, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to individuals serving on the Board of Directors of the Office of Compliance on or after September 30, 2004.”
 
 #### Additional Term for Members of Board of Directors of Office of Compliance
+Pub. L. 114–6, § 3, Mar. 20, 2015, 129 Stat. 82, provided that: “Notwithstanding section 301(e)(1) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1381(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1381/e/1&num=0&edition=prelim)), any individual serving as a member of the Board of Directors of the Office of Compliance as of February 28, 2015, may be appointed to serve for one additional term of 2 years.”
+
 Pub. L. 111–114, § 1, Dec. 14, 2009, 123 Stat. 3028, provided that: “Notwithstanding the second sentence of section 301(e)(1) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1381(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1381/e/1&num=0&edition=prelim)), any individual serving as a member of the Board of Directors of the Office of Compliance as of September 30, 2009, may serve for 3 terms.”
 
 
@@ -1213,7 +1218,7 @@ Part A of subchapter II, referred to in subsec. (a), was in the original “part
 
 **(b) Process** Mediation under this section—
 
-(1) may include the Office, the covered employee, the employing office, and one or more individuals appointed by the Executive Director after considering recommendations by organizations composed primarily of individuals experienced in adjudicating or arbitrating personnel matters, and
+(1) may include the Office, the covered employee, the employing office, and one or more individuals appointed by the Executive Director from the master list developed and maintained under subsection (e), and
 
 (2) shall involve meetings with the parties separately or jointly for the purpose of resolving the dispute between the covered employee and the employing office.
 
@@ -1221,15 +1226,39 @@ Part A of subchapter II, referred to in subsec. (a), was in the original “part
 
 **(d) Independence of mediation process** No individual, who is appointed by the Executive Director to mediate, may conduct or aid in a hearing conducted under [section 1405 of this title](./chapter-024-congressional-accountability.md#section-1405) with respect to the same matter or shall be subject to subpoena or any other compulsory process with respect to the same matter.
 
+**(e) Master list of mediators**
+
+(1) **Development and maintenance of master list** — The Executive Director shall develop and maintain a master list of individuals who are experienced in adjudicating, arbitrating, or mediating the kinds of personnel and other matters for which mediation may be held under this section. Such list may include, but not be limited to, members of the bar of a State or the District of Columbia and retired judges of the United States courts.
+
+(2) **Consideration of candidates** — In developing the master list under this subsection, the Executive Director shall consider candidates recommended by the Federal Mediation and Conciliation Service or the Administrative Conference of the United States.
+
+### Statutory Notes
+
+#### Amendments
+2015—Subsec. (b)(1). Pub. L. 114–6, § 2(a)(1), substituted “from the master list developed and maintained under subsection (e)” for “after considering recommendations by organizations composed primarily of individuals experienced in adjudicating or arbitrating personnel matters”.
+
+Subsec. (e). Pub. L. 114–6, § 2(a)(2), added subsec. (e).
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–6, § 2(d), Mar. 20, 2015, 129 Stat. 82, provided that: “The amendments made by this section [amending this section and sections 1404 and 1416 of this title] shall apply with respect to mediations and other proceedings which are first initiated after the date of the enactment of this Act [Mar. 20, 2015].”
+
 
 <a id="section-1404"></a>
 ## § 1404. Election of proceeding
 
-Not later than 90 days after a covered employee receives notice of the end of the period of mediation, but no sooner than 30 days after receipt of such notification, such covered employee may either—
+Not later than 90 days, but not sooner than 30 days, after the end of the period of mediation, a covered employee may either—
 
 (1) file a complaint with the Office in accordance with [section 1405 of this title](./chapter-024-congressional-accountability.md#section-1405), or
 
 (2) file a civil action in accordance with [section 1408 of this title](./chapter-024-congressional-accountability.md#section-1408) in the United States district court for the district in which the employee is employed or for the District of Columbia.
+
+### Statutory Notes
+
+#### Amendments
+2015—Pub. L. 114–6 substituted “Not later than 90 days, but not sooner than 30 days, after the end of the period of mediation, a covered employee” for “Not later than 90 days after a covered employee receives notice of the end of the period of mediation, but no sooner than 30 days after receipt of such notification, such covered employee” in introductory provisions.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–6 applicable with respect to mediations and other proceedings first initiated after Mar. 20, 2015, see section 2(d) of Pub. L. 114–6, set out as a note under [section 1403 of this title](./chapter-024-congressional-accountability.md#section-1403).
 
 
 <a id="section-1405"></a>
@@ -1487,9 +1516,9 @@ Pub. L. 113–76, div. I, title I, § 1101(b), Jan. 17, 2014, 128 Stat. 425, pro
 ## § 1416. Confidentiality
 **(a) Counseling** All counseling shall be strictly confidential, except that the Office and a covered employee may agree to notify the employing office of the allegations.
 
-**(b) Mediation** All mediation shall be strictly confidential.
+**(b) Mediation** All mediation shall be strictly confidential, and the Executive Director shall notify each person participating in the mediation of the confidentiality requirement and of the sanctions applicable to any person who violates the confidentiality requirement.
 
-**(c) Hearings and deliberations** Except as provided in subsections (d), (e), and (f), all proceedings and deliberations of hearing officers and the Board, including any related records, shall be confidential. This subsection shall not apply to proceedings under [section 1341 of this title](./chapter-024-congressional-accountability.md#section-1341), but shall apply to the deliberations of hearing officers and the Board under that section.
+**(c) Hearings and deliberations** Except as provided in subsections (d), (e), and (f), all proceedings and deliberations of hearing officers and the Board, including any related records, shall be confidential. This subsection shall not apply to proceedings under [section 1341 of this title](./chapter-024-congressional-accountability.md#section-1341), but shall apply to the deliberations of hearing officers and the Board under that section. The Executive Director shall notify each person participating in a proceeding or deliberation to which this subsection applies of the requirements of this subsection and of the sanctions applicable to any person who violates the requirements of this subsection.
 
 **(d) Release of records for judicial action** The records of hearing officers and the Board may be made public if required for the purpose of judicial review under [section 1407 of this title](./chapter-024-congressional-accountability.md#section-1407).
 
@@ -1499,8 +1528,16 @@ Pub. L. 113–76, div. I, title I, § 1101(b), Jan. 17, 2014, 128 Stat. 425, pro
 
 ### Statutory Notes
 
+#### Amendments
+2015—Subsec. (b). Pub. L. 114–6, § 2(c)(1), inserted before period at end “, and the Executive Director shall notify each person participating in the mediation of the confidentiality requirement and of the sanctions applicable to any person who violates the confidentiality requirement”.
+
+Subsec. (c). Pub. L. 114–6, § 2(c)(2), inserted at end “The Executive Director shall notify each person participating in a proceeding or deliberation to which this subsection applies of the requirements of this subsection and of the sanctions applicable to any person who violates the requirements of this subsection.”
+
 #### Change of Name
 Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–6 applicable with respect to mediations and other proceedings first initiated after Mar. 20, 2015, see section 2(d) of Pub. L. 114–6, set out as a note under [section 1403 of this title](./chapter-024-congressional-accountability.md#section-1403).
 
 
 <a id="section-1431"></a>

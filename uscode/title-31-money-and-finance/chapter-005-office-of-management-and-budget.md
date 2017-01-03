@@ -18,6 +18,9 @@ The Office of Management and Budget is an office in the Executive Office of the 
 | Revised Section | Source (U.S. Code | Source (Statutes at Large) |
 | 501 | 31:16(1st sentence). | June 10, 1921, ch. 18, § 207(1st sentence), 42 Stat. 22; Reorg. Plan No. 1 of 1939, eff. July 1, 1939, § 1, 53 Stat. 1423; Reorg. Plan No. 2 of 1970, eff. July 1, 1970, § 102(a), 84 Stat. 2085; restated Mar. 2, 1974, Pub. L. 93–250, § 1, 88 Stat. 11. |
 
+#### Short Title of 2016 Amendment
+Pub. L. 114–264, § 1, Dec. 14, 2016, 130 Stat. 1371, provided that: “This Act [enacting [section 1126 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1126), amending [section 503 of this title](./chapter-005-office-of-management-and-budget.md#section-503), and enacting provisions set out as notes under [section 503 of this title](./chapter-005-office-of-management-and-budget.md#section-503)] may be cited as the ‘Program Management Improvement Accountability Act’.”
+
 #### Short Title of 1990 Amendment
 Pub. L. 101–576, title I, § 101, Nov. 15, 1990, 104 Stat. 2838, provided that: “This Act [enacting sections 503, 504, 901 to 903, and 3515 of this title, amending sections 502, 1105, 3512, 3521, 9105, and 9106 of this title, sections 5313 to 5315 of Title 5, Government Organization and Employees, and [section 3533 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3533&num=0&edition=prelim), The Public Health and Welfare, renumbering sections 503 and 504 of this title as 505 and 506 of this title, respectively, enacting provisions set out as notes under this section and sections 901, 3511, 3515, and 3521 of this title, and amending provisions set out as a note under [section 301 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section301&num=0&edition=prelim), Veterans’ Benefits] may be cited as the ‘Chief Financial Officers Act of 1990’.”
 
@@ -93,9 +96,11 @@ Pub. L. 108–7, div. K, title I, § 108, Feb. 20, 2003, 117 Stat. 481.
 Pub. L. 107–73, title I, § 108, Nov. 26, 2001, 115 Stat. 658.
 
 #### Department of Homeland Security Working Capital Fund
-Pub. L. 114–4, title V, § 504, Mar. 4, 2015, 129 Stat. 62, provided that: “The Department of Homeland Security Working Capital Fund, established pursuant to section 403 of Public Law 103–356 ([31 U.S.C. 501](./chapter-005-office-of-management-and-budget.md#section-501) note), shall continue operations as a permanent working capital fund for fiscal year 2015: Provided, That none of the funds appropriated or otherwise made available to the Department of Homeland Security may be used to make payments to the Working Capital Fund, except for the activities and amounts allowed in the President’s fiscal year 2015 budget: Provided further, That funds provided to the Working Capital Fund shall be available for obligation until expended to carry out the purposes of the Working Capital Fund: Provided further, That all departmental components shall be charged only for direct usage of each Working Capital Fund service: Provided further, That funds provided to the Working Capital Fund shall be used only for purposes consistent with the contributing component: Provided further, That the Working Capital Fund shall be paid in advance or reimbursed at rates which will return the full cost of each service: Provided further, That the Committees on Appropriations of the Senate and House of Representatives shall be notified of any activity added to or removed from the fund: Provided further, That the Chief Financial Officer of the Department of Homeland Security shall submit a quarterly execution report with activity level detail, not later than 30 days after the end of each quarter.”
+Pub. L. 114–113, div. F, title V, § 504, Dec. 18, 2015, 129 Stat. 2512, provided that: “The Department of Homeland Security Working Capital Fund, established pursuant to section 403 of Public Law 103–356 ([31 U.S.C. 501](./chapter-005-office-of-management-and-budget.md#section-501) note), shall continue operations as a permanent working capital fund for fiscal year 2016: Provided, That none of the funds appropriated or otherwise made available to the Department of Homeland Security may be used to make payments to the Working Capital Fund, except for the activities and amounts allowed in the President’s fiscal year 2016 budget: Provided further, That funds provided to the Working Capital Fund shall be available for obligation until expended to carry out the purposes of the Working Capital Fund: Provided further, That all Departmental components shall be charged only for direct usage of each Working Capital Fund service: Provided further, That funds provided to the Working Capital Fund shall be used only for purposes consistent with the contributing component: Provided further, That the Working Capital Fund shall be paid in advance or reimbursed at rates which will return the full cost of each service: Provided further, That the Committees on Appropriations of the Senate and the House of Representatives shall be notified of any activity added to or removed from the fund: Provided further, That for any activity added to the fund, the notification shall identify sources of funds by program, project, and activity: Provided further, That the Chief Financial Officer of the Department of Homeland Security shall submit a quarterly execution report with activity level detail, not later than 30 days after the end of each quarter.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 114–4, title V, § 504, Mar. 4, 2015, 129 Stat. 62.
 
 Pub. L. 113–76, div. F, title V, § 504, Jan. 17, 2014, 128 Stat. 270.
 
@@ -1145,6 +1150,32 @@ In subsection (e), the words “When the Director and Deputy Director are absent
 
 (10) Perform any other functions prescribed by the Director.
 
+**(c) Program and Project Management.—**
+
+(1) **Requirement.—** — Subject to the direction and approval of the Director, the Deputy Director for Management or a designee shall—
+
+  (A) adopt governmentwide standards, policies, and guidelines for program and project management for executive agencies;
+
+  (B) oversee implementation of program and project management for the standards, policies, and guidelines established under subparagraph (A);
+
+  (C) chair the Program Management Policy Council established under section 1126(b);
+
+  (D) establish standards and policies for executive agencies, consistent with widely accepted standards for program and project management planning and delivery;
+
+  (E) engage with the private sector to identify best practices in program and project management that would improve Federal program and project management;
+
+  (F) conduct portfolio reviews to address programs identified as high risk by the Government Accountability Office;
+
+  (G) not less than annually, conduct portfolio reviews of agency programs in coordination with Project Management Improvement Officers designated under section 1126(a)(1) to assess the quality and effectiveness of program management; and
+
+  (H) establish a 5-year strategic plan for program and project management.
+
+(2) **Application to department of defense.—** — Paragraph (1) shall not apply to the Department of Defense to the extent that the provisions of that paragraph are substantially similar to or duplicative of—
+
+  (A) the provisions of chapter 87 of title 10; or
+
+  (B) policy, guidance, or instruction of the Department related to program management.
+
 ### Statutory Notes
 
 #### References in Text
@@ -1154,6 +1185,8 @@ Section 302 of the Chief Financial Officers Act of 1990 [Pub. L. 101–576], ref
 A prior section 503 was renumbered [section 505 of this title](./chapter-005-office-of-management-and-budget.md#section-505).
 
 #### Amendments
+2016—Subsec. (c). Pub. L. 114–264 and Pub. L. 114–328 amended section identically, adding subsec. (c).
+
 2002—Subsec. (b)(5) to (10). Pub. L. 107–347 added par. (5) and redesignated former pars. (5) to (9) as (6) to (10), respectively.
 
 1999—Subsec. (a)(7). Pub. L. 106–58, § 638(g)(1), substituted “respectively (excluding any officer designated or appointed under section 901(c)).” for “respectively.”
@@ -1167,6 +1200,11 @@ Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see secti
 
 #### Effective Date of 1999 Amendment
 Pub. L. 106–58, title VI, § 638(h), Sept. 29, 1999, 113 Stat. 476, provided that: “This section [amending this section and sections 901 and 1105 of this title and enacting provisions set out as a note under [section 901 of this title](./chapter-009-agency-chief-financial-officers.md#section-901)] shall take effect at noon on January 20, 2001.”
+
+#### Issuance of Standards, Policies, and Guidelines for Program and Project Management; Regulations
+Pub. L. 114–328, div. A, title VIII, § 861(a)(2), (3), Dec. 23, 2016, 130 Stat. 2299, provided that: “(2) Deadline for standards, policies, and guidelines.—Not later than 1 year after the date of enactment of this Act [Dec. 23, 2016], the Deputy Director for Management of the Office of Management and Budget shall issue the standards, policies, and guidelines required under [section 503(c) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section503/c&num=0&edition=prelim), United States Code, as added by paragraph (1). “(3) Regulations.—Not later than 90 days after the date on which the standards, policies, and guidelines are issued under paragraph (2), the Deputy Director for Management of the Office of Management and Budget, in consultation with the Program Management Policy Council established under [section 1126(b) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1126/b&num=0&edition=prelim), United States Code, as added by subsection (b)(1), and the Director of the Office of Management and Budget, shall issue any regulations as are necessary to implement the requirements of [section 503(c) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section503/c&num=0&edition=prelim), United States Code, as added by paragraph (1).”
+
+Similar provisions were contained in Pub. L. 114–264, § 2(a)(2), (3), Dec. 14, 2016, 130 Stat. 1372.
 
 
 <a id="section-504"></a>

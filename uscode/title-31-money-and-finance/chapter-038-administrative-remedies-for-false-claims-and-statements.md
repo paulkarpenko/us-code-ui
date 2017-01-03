@@ -16,7 +16,7 @@ source: >-
 
   (B) a military department;
 
-  (C) an establishment (as such term is defined in section 11(2) of the Inspector General Act of 1978) which is not an executive department;
+  (C) an establishment (as such term is defined in section 11(2) 11 See References in Text note below. of the Inspector General Act of 1978) which is not an executive department;
 
   (D) the United States Postal Service;
 
@@ -137,7 +137,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The Inspector General Act of 1978, referred to in subsec. (a)(1)(C), (F), (4)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (a)(1)(C), (F), (4)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees. Section 11(2) of the Act was renumbered section 12(2) by Pub. L. 110–409, § 7(a), Oct. 14, 2008, 122 Stat. 4305.
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(3), (9), is classified generally to Title 26, Internal Revenue Code.
 

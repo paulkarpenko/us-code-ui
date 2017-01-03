@@ -116,7 +116,7 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 
 (8) sports programs and sports activities that serve primarily youths from public or other federally assisted low-income housing projects and are operated in conjunction with, or in furtherance of, an organized program or plan designed to reduce or eliminate drugs and drug-related problems in and around such projects.
 
-**(b) Other PHA-owned housing** Notwithstanding any other provision of this subchapter, grants under this subchapter may be used to eliminate drug-related crime in and around housing owned by public housing agencies that is not public housing assisted under the United States Housing Act of 1937 [[42 U.S.C. 1437](./chapter-008-low-income-housing.md#section-1437) et seq.] and is not otherwise federally assisted, for the activities described in paragraphs (1) through (7) of subsection (a) of this section, but only if—
+**(b) Other PHA-owned housing** Notwithstanding any other provision of this subchapter, grants under this subchapter may be used to eliminate drug-related crime in and around housing owned by public housing agencies that is not public housing assisted under the United States Housing Act of 1937 [[42 U.S.C. 1437](./chapter-008-low-income-housing.md#section-1437) et seq.] and is not otherwise federally assisted, for the activities described in paragraphs (1) through (7) of subsection (a), but only if—
 
 (1) the housing is located in a high intensity drug trafficking area designated pursuant to section 1504 11 See References in Text note below. of title 21; and
 
@@ -204,7 +204,7 @@ Repeal effective and applicable beginning upon Oct. 1, 1999, except as otherwise
 
 (4) **Inapplicability to federally assisted low-income housing** — The provisions of this subsection shall not apply to federally assisted low-income housing.
 
-**(c) Criteria** The Secretary shall approve applications under subsection (b) of this section that are not subject to a preference under subsection (b)(2)(A) of this section on the basis of thresholds or criteria such as—
+**(c) Criteria** The Secretary shall approve applications under subsection (b) that are not subject to a preference under subsection (b)(2)(A) on the basis of thresholds or criteria such as—
 
 (1) the extent of the drug-related or violent crime problem in and around the public or federally assisted low-income housing project or projects proposed for assistance;
 
@@ -214,13 +214,13 @@ Repeal effective and applicable beginning upon Oct. 1, 1999, except as otherwise
 
 (4) the extent to which tenants, the local government and the local community support and participate in the design and implementation of the activities proposed to be funded under the application.
 
-**(d) Federally assisted low-income housing** In addition to the selection criteria specified in subsection (c) of this section, the Secretary may establish other criteria for the evaluation of applications submitted by owners of federally assisted low-income housing, except that such additional criteria shall be designed only to reflect—
+**(d) Federally assisted low-income housing** In addition to the selection criteria specified in subsection (c), the Secretary may establish other criteria for the evaluation of applications submitted by owners of federally assisted low-income housing, except that such additional criteria shall be designed only to reflect—
 
 (1) relevant differences between the financial resources and other characteristics of public housing authorities and owners of federally assisted low-income housing, or
 
 (2) relevant differences between the problem of drug-related or violent crime in public housing and the problem of drug-related or violent crime in federally assisted low-income housing.
 
-**(e) High intensity drug trafficking areas** In evaluating the extent of the drug-related crime problem pursuant to subsection (c) of this section, the Secretary may consider whether housing projects proposed for assistance are located in a high intensity drug trafficking area designated pursuant to section 1504 33 See References in Text note below. of title 21.
+**(e) High intensity drug trafficking areas** In evaluating the extent of the drug-related crime problem pursuant to subsection (c), the Secretary may consider whether housing projects proposed for assistance are located in a high intensity drug trafficking area designated pursuant to section 1504 33 See References in Text note below. of title 21.
 
 ### Statutory Notes
 
@@ -351,7 +351,7 @@ Section effective and applicable beginning upon Oct. 1, 1999, except as otherwis
 
 (2) **Description** — Each public housing agency that receives grant amounts under this subchapter shall describe, in the report under [section 11906(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11906/a&num=0&edition=prelim), such baseline of services for the unit of general local government in which the jurisdiction of the agency is located.
 
-**(c) Enforcement** The Secretary shall provide for the effective enforcement of this section, which may include the use of on-site monitoring, independent public audit requirements, certification by local law enforcement or local government officials regarding the performance of baseline services referred to in subsection (b) of this section, and entering into agreements with the Attorney General to achieve compliance, and verification of compliance, with the provisions of this subchapter.
+**(c) Enforcement** The Secretary shall provide for the effective enforcement of this section, which may include the use of on-site monitoring, independent public audit requirements, certification by local law enforcement or local government officials regarding the performance of baseline services referred to in subsection (b), and entering into agreements with the Attorney General to achieve compliance, and verification of compliance, with the provisions of this subchapter.
 
 ### Statutory Notes
 
@@ -406,7 +406,7 @@ The purpose of this subchapter is to reaffirm the principle that decent affordab
 ## § 11922. Clearinghouse on drug abuse in public housing
 **(a) Establishment** The Secretary of Housing and Urban Development shall establish, in the Office of Public Housing in the Department of Housing and Urban Development, a clearinghouse to receive, collect, process, and assemble information regarding the abuse of controlled substances in public housing projects.
 
-**(b) Functions** The clearinghouse established under subsection (a) of this section shall—
+**(b) Functions** The clearinghouse established under subsection (a) shall—
 
 (1) respond to inquiries by members of the public requesting assistance in investigating, studying, and working on the problem of the abuse of controlled substances; and
 
@@ -417,7 +417,7 @@ The purpose of this subchapter is to reaffirm the principle that decent affordab
 ## § 11923. Regional training program on drug abuse in public housing
 **(a) Establishment** The Secretary shall establish a regional training program for the training of public housing officials, to better prepare and educate the officials to confront the widespread abuse of controlled substances in the communities in which the officials work.
 
-**(b) Operation** The regional training program established under subsection (a) of this section shall be conducted within 12 months after November 18, 1988, by a national training unit established by the Secretary.
+**(b) Operation** The regional training program established under subsection (a) shall be conducted within 12 months after November 18, 1988, by a national training unit established by the Secretary.
 
 
 <a id="section-11924"></a>

@@ -500,7 +500,7 @@ Provisions of Tariff Act of 1930 corresponding to section 262, see [section 1449
 ## § 267. Overtime and premium pay for customs officers
 **(a) Overtime pay**
 
-(1) **In general** — Subject to paragraph (2) and subsection (c) of this section, a customs officer who is officially assigned to perform work in excess of 40 hours in the administrative workweek of the officer or in excess of 8 hours in a day shall be compensated for that work at an hourly rate of pay that is equal to 2 times the hourly rate of the basic pay of the officer. For purposes of this paragraph, the hourly rate of basic pay for a customs officer does not include any premium pay provided for under subsection (b) of this section.
+(1) **In general** — Subject to paragraph (2) and subsection (c), a customs officer who is officially assigned to perform work in excess of 40 hours in the administrative workweek of the officer or in excess of 8 hours in a day shall be compensated for that work at an hourly rate of pay that is equal to 2 times the hourly rate of the basic pay of the officer. For purposes of this paragraph, the hourly rate of basic pay for a customs officer does not include any premium pay provided for under subsection (b).
 
 (2) **Special provisions relating to overtime work on callback basis**
 
@@ -534,13 +534,13 @@ Provisions of Tariff Act of 1930 corresponding to section 262, see [section 1449
 
 **(c) Limitations**
 
-(1) **Fiscal year cap** — The aggregate of overtime pay under subsection (a) of this section (including commuting compensation under subsection (a)(2)(B) of this section) and premium pay under subsection (b) of this section that a customs officer may be paid in any fiscal year may not exceed $25,000; except that the Commissioner of Customs or his designee may waive this limitation in individual cases in order to prevent excessive costs or to meet emergency requirements of the Customs Service.
+(1) **Fiscal year cap** — The aggregate of overtime pay under subsection (a) (including commuting compensation under subsection (a)(2)(B)) and premium pay under subsection (b) that a customs officer may be paid in any fiscal year may not exceed $25,000; except that the Commissioner of U.S. Customs and Border Protection or his designee may waive this limitation in individual cases in order to prevent excessive costs or to meet emergency requirements of the Customs Service.
 
-(2) **Exclusivity of pay under this section** — A customs officer who receives overtime pay under subsection (a) of this section or premium pay under subsection (b) of this section for time worked may not receive pay or other compensation for that work under any other provision of law.
+(2) **Exclusivity of pay under this section** — A customs officer who receives overtime pay under subsection (a) or premium pay under subsection (b) for time worked may not receive pay or other compensation for that work under any other provision of law.
 
 **(d) Regulations** The Secretary of the Treasury shall promulgate regulations to prevent—
 
-(1) abuse of callback work assignments and commuting time compensation authorized under subsection (a)(2) of this section; and
+(1) abuse of callback work assignments and commuting time compensation authorized under subsection (a)(2); and
 
 (2) the disproportionately more frequent assignment of overtime work to customs officers who are near to retirement.
 
@@ -562,6 +562,9 @@ Prior to the general revision of section 5 of act Feb. 13, 1911, by section 1381
 
 1970—Pub. L. 91–271 substituted references to the appropriate customs officer for references to the collector of customs wherever appearing, and struck out reference to inspectors, storekeepers, weighers, and other customs officers and employees.
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (c)(1) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Effective Date of 1993 Amendment
 Pub. L. 103–66, title XIII, § 13811(c), Aug. 10, 1993, 107 Stat. 670, provided that: “The amendments made by subsections (a) and (b) [amending this section and [section 1450 of this title](./chapter-004-tariff-act-of-1930.md#section-1450), repealing [section 1451a of this title](./chapter-004-tariff-act-of-1930.md#section-1451a), and omitting provisions formerly set out as [section 261 of this title](./chapter-003-the-tariff-and-related-provisions.md#section-261)] apply to customs inspectional services provided on or after January 1, 1994.”
 
@@ -569,7 +572,7 @@ Pub. L. 103–66, title XIII, § 13811(c), Aug. 10, 1993, 107 Stat. 670, provide
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under [section 1500 of this title](./chapter-004-tariff-act-of-1930.md#section-1500).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers, referred to in this section, were under Department of the Treasury.
 
@@ -1069,7 +1072,7 @@ Section, act Sept. 21, 1922, ch. 356, title IV, § 581, 42 Stat. 979, related to
 ## § 482. Search of vehicles and persons
 **(a)** Any of the officers or persons authorized to board or search vessels may stop, search, and examine, as well without as within their respective districts, any vehicle, beast, or person, on which or whom he or they shall suspect there is merchandise which is subject to duty, or shall have been introduced into the United States in any manner contrary to law, whether by the person in possession or charge, or by, in, or upon such vehicle or beast, or otherwise, and to search any trunk or envelope, wherever found, in which he may have a reasonable cause to suspect there is merchandise which was imported contrary to law; and if any such officer or other person so authorized shall find any merchandise on or about any such vehicle, beast, or person, or in any such trunk or envelope, which he shall have reasonable cause to believe is subject to duty, or to have been unlawfully introduced into the United States, whether by the person in possession or charge, or by, in, or upon such vehicle, beast, or otherwise, he shall seize and secure the same for trial.
 
-**(b)** Any officer or employee of the United States conducting a search of a person pursuant to subsection (a) of this section shall not be held liable for any civil damages as a result of such search if the officer or employee performed the search in good faith and used reasonable means while effectuating such search.
+**(b)** Any officer or employee of the United States conducting a search of a person pursuant to subsection (a) shall not be held liable for any civil damages as a result of such search if the officer or employee performed the search in good faith and used reasonable means while effectuating such search.
 
 ### Statutory Notes
 
@@ -1085,7 +1088,7 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 #### Requirement To Post Policy and Procedures for Searches of Passengers
 Pub. L. 107–210, div. A, title III, § 341(b), Aug. 6, 2002, 116 Stat. 980, provided that: “Not later than 30 days after the date of the enactment of this Act [Aug. 6, 2002], the Commissioner of Customs shall ensure that at each Customs border facility appropriate notice is posted that provides a summary of the policy and procedures of the Customs Service for searching passengers, including a statement of the policy relating to the prohibition on the conduct of profiling of passengers based on gender, race, color, religion, or ethnic background.”
 
-[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).]
+[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).]
 
 
 <a id="section-483"></a>

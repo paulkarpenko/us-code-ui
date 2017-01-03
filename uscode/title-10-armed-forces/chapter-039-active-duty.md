@@ -14,7 +14,7 @@ source: >-
 
 **(c)**
 
-(1) A period of basic training (or equivalent training) shorter than 12 weeks may be established by the Secretary concerned for members of the armed forces who have been credentialed in a medical profession or occupation and are serving in a health-care occupational specialty, as determined under regulations prescribed under paragraph (2). Any such period shall be established under regulations prescribed under paragraph (2) and may be established notwithstanding section 4(a) of the Military Selective Service Act (50 U.S.C. App. 454(a)).
+(1) A period of basic training (or equivalent training) shorter than 12 weeks may be established by the Secretary concerned for members of the armed forces who have been credentialed in a medical profession or occupation and are serving in a health-care occupational specialty, as determined under regulations prescribed under paragraph (2). Any such period shall be established under regulations prescribed under paragraph (2) and may be established notwithstanding section 4(a) of the Military Selective Service Act ([50 U.S.C. 3803(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3803/a&num=0&edition=prelim)).
 
 (2) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations for the purposes of paragraph (1). The regulations prescribed by the Secretary of Defense shall apply uniformly to the military departments.
 
@@ -28,6 +28,8 @@ source: >-
 The words “four months of basic training or its equivalent” are substituted for the words “the equivalent of at least four months of basic training”. The words “who is enlisted, inducted, appointed, or ordered to active duty after the date of enactment of the 1951 Amendments to the Universal Military Training and Service Act [June 19, 1951]” and “at any installation located” are omitted as surplusage.
 
 #### Amendments
+2016—Subsec. (c)(1). Pub. L. 114–328 substituted “([50 U.S.C. 3803(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3803/a&num=0&edition=prelim))” for “(50 U.S.C. App. 454(a))”.
+
 2002—Subsec. (c)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1993—Subsec. (b). Pub. L. 103–160, § 511(1), inserted “(except as provided in subsection (c))” after “may not”.
@@ -361,25 +363,31 @@ Section effective Sept. 30, 1997, see section 521(b) of Pub. L. 104–201, set o
 
 **(b)** Unless otherwise provided by law, the number of members of the armed forces (other than the Coast Guard) on active duty at the end of any fiscal year shall be not less than the following:
 
-(1) For the Army, 490,000.
+(1) For the Army, 476,000.
 
-(2) For the Navy, 323,600.
+(2) For the Navy, 323,900.
 
-(3) For the Marine Corps, 184,100.
+(3) For the Marine Corps, 185,000.
 
-(4) For the Air Force, 310,900.
+(4) For the Air Force, 321,000.
 
 **(c)** The budget for the Department of Defense for any fiscal year as submitted to Congress shall include amounts for funding for each of the armed forces (other than the Coast Guard) at least in the amounts necessary to maintain the active duty end strengths prescribed in subsection (b), as in effect at the time that such budget is submitted.
 
 **(d)** No funds appropriated to the Department of Defense may be used to implement a reduction of the active duty end strength for any of the armed forces (other than the Coast Guard) for any fiscal year below the level specified in subsection (b) unless the reduction in end strength for that armed force for that fiscal year is specifically authorized by law.
 
-**(e)** The Secretary of Defense may reduce a number specified in subsection (b) by not more than 0.5 percent.
+**(e)** The Secretary of Defense may reduce a number specified in subsection (b) by not more than 2 percent.
 
 **(f)** The number of members of the armed forces on active duty shall be counted for purposes of this section in the same manner as applies under [section 115(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section115/a/1&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (b). Pub. L. 114–328 substituted “476,000” for “475,000” in par. (1), “323,900” for “329,200” in par. (2), “185,000” for “184,000” in par. (3), and “321,000” for “317,000” in par. (4).
+
+2015—Subsec. (b). Pub. L. 114–92, § 402(1), substituted “475,000” for “490,000” in par. (1), “329,200” for “323,600” in par. (2), “184,000” for “184,100” in par. (3), and “317,000” for “310,900” in par. (4).
+
+Subsec. (e). Pub. L. 114–92, § 402(2), substituted “2 percent” for “0.5 percent”.
+
 2014—Subsec. (b). Pub. L. 113–291 substituted “490,000” for “510,000” in par. (1), “184,100” for “188,000” in par. (3), and “310,900” for “327,600” in par. (4).
 
 2013—Subsec. (b). Pub. L. 113–66 substituted “510,000” for “542,700” in par. (1), “323,600” for “322,700” in par. (2), “188,000” for “193,500” in par. (3), and “327,600” for “329,460” in par. (4).

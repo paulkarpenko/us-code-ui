@@ -112,7 +112,7 @@ Closing text. Pub. L. 93–64, § 103(2), struck out second sentence, following 
 Pub. L. 103–160, div. A, title VI, § 631(b), Nov. 30, 1993, 107 Stat. 1684, provided that: “[Section 401(a)(4) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section401/a/4&num=0&edition=prelim), United States Code, as added by subsection (a), shall apply with respect to determinations of dependency made on or after July 1, 1994.”
 
 #### Effective Date of 1973 Amendment
-Pub. L. 93–64, title II, § 206, July 9, 1973, 87 Stat. 149, provided that: “This Act [enacting [section 1173 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1173&num=0&edition=prelim), Armed Forces, amending this section and sections 302, 302a, 303, 308a, and 403 of this title, and repealing sections 2210 to 2212 of Title 50, Appendix, War and National Defense] shall become effective July 1, 1973.”
+Pub. L. 93–64, title II, § 206, July 9, 1973, 87 Stat. 149, provided that: “This Act [enacting [section 1173 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1173&num=0&edition=prelim), Armed Forces, amending this section and sections 302, 302a, 303, 308a, and 403 of this title, and repealing sections 2210 to 2212 of the former Appendix to Title 50, War and National Defense] shall become effective July 1, 1973.”
 
 
 <a id="section-402"></a>
@@ -322,7 +322,7 @@ Ex. Ord. No. 10119, Mar. 30, 1950, 15 F.R. 1767, as amended by 1953 Reorg. Plan 
 
 **(b) Members Entitled to Allowance.—**
 
-(1) Subject to subsection (d), a member of the armed forces with dependents is entitled to receive the supplemental subsistence allowance if the Secretary concerned determines that the member’s income, together with the income of the rest of the member’s household (if any), is within the highest income standard of eligibility, as then in effect under section 5(c) of the Food and Nutrition Act of 2008 ([7 U.S.C. 2014(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2014/c&num=0&edition=prelim)) and without regard to paragraph (1) of such section, for participation in the supplemental nutrition assistance program.
+(1) Subject to subsection (d) and paragraph (4), a member of the armed forces with dependents is entitled to receive the supplemental subsistence allowance if the Secretary concerned determines that the member’s income, together with the income of the rest of the member’s household (if any), is within the highest income standard of eligibility, as then in effect under section 5(c) of the Food and Nutrition Act of 2008 ([7 U.S.C. 2014(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2014/c&num=0&edition=prelim)) and without regard to paragraph (1) of such section, for participation in the supplemental nutrition assistance program.
 
 (2) In determining whether a member meets the eligibility criteria under paragraph (1), the Secretary concerned shall take into consideration the amount of the basic allowance for housing that the member receives under [section 403 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-403) or would otherwise receive under such section, in the case of a member who is not entitled to that allowance as a result of assignment to quarters of the United States or a housing facility under the jurisdiction of a uniformed service.
 
@@ -330,9 +330,11 @@ Ex. Ord. No. 10119, Mar. 30, 1950, 15 F.R. 1767, as amended by 1953 Reorg. Plan 
 
   (A) the amount of the supplemental subsistence allowance that is payable under this section;
 
-  (B) the amount of any special pay that is payable to the member under [section 310 of this title](./chapter-005-special-and-incentive-pays.md#section-310), relating to duty subject to hostile fire or imminent danger; or
+  (B) the amount of any special pay that is payable to the member under section 310 or 351 of this title, relating to duty subject to hostile fire or imminent danger; or
 
   (C) the amount of any family separation allowance that is payable to the member under [section 427 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-427).
+
+(4) After September 30, 2016, a member is eligible for a supplemental subsistence allowance under this section only if the member is serving outside the United States, the Commonwealth of Puerto Rico, the United States Virgin Islands, or Guam.
 
 **(c) Application for Allowance.—** To request the supplemental subsistence allowance, a member shall submit an application to the Secretary concerned in such form and containing such information as the Secretary concerned may prescribe. A member applying for the supplemental subsistence allowance shall furnish such evidence regarding the member’s satisfaction of the eligibility criteria under subsection (b) as the Secretary concerned may require.
 
@@ -391,6 +393,12 @@ The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (f)(3)
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2016—Subsec. (b)(3)(B). Pub. L. 114–328 inserted “or 351” after “section 310”.
+
+2015—Subsec. (b)(1). Pub. L. 114–92, § 602(1), inserted “and paragraph (4)” after “subsection (d)”.
+
+Subsec. (b)(4). Pub. L. 114–92, § 602(2), added par. (4).
+
 2011—Subsecs. (f) to (h). Pub. L. 112–81 redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “Not later than March 1 of each year after 2001, the Secretary of Defense shall submit to Congress a report specifying the number of members of the armed forces who received, at any time during the preceding year, the supplemental subsistence allowance. In preparing the report, the Secretary of Defense shall consult with the Secretary of Homeland Security, with respect to the Coast Guard.”
 
 2009—Subsec. (a)(2), (3)(B). Pub. L. 111–84 substituted “$1,100” for “$500”.
@@ -462,7 +470,17 @@ Pub. L. 106–398, § 1 [[div. A], title VI, § 604(b)], Oct. 30, 2000, 114 Stat
 
     (ii) the amount equal to a specified percentage (determined under subparagraph (B)) of the national average monthly cost of adequate housing in the United States, as determined by the Secretary, for members of the uniformed services serving in the same pay grade and with the same dependency status as the member.
 
-  (B) The percentage to be used for purposes of subparagraph (A)(ii) shall be determined by the Secretary of Defense and may not exceed one percent.
+  (B) The percentage to be used for purposes of subparagraph (A)(ii) shall be determined by the Secretary of Defense and may not exceed the following:
+
+    (i) One percent for months occurring during 2015.
+
+    (ii) Two percent for months occurring during 2016.
+
+    (iii) Three percent for months occurring during 2017.
+
+    (iv) Four percent for months occurring during 2018.
+
+    (v) Five percent for months occurring after 2018.
 
 (4) An adjustment in the rates of the basic allowance for housing under this subsection as a result of the Secretary’s redetermination of housing costs in an area shall take effect on the same date as the effective date of the next increase in basic pay under [section 1009 of this title](./chapter-019-administration.md#section-1009) or other provision of law.
 
@@ -488,7 +506,7 @@ Pub. L. 106–398, § 1 [[div. A], title VI, § 604(b)], Oct. 30, 2000, 114 Stat
 
   (D) Subject to subparagraph (E), an increase in the rates of basic allowance for housing in an area under this paragraph shall remain in effect until the effective date of the first adjustment in rates of basic allowance for housing made for the area pursuant to a redetermination of housing costs in the area under this subsection that occurs after the date of the increase under this paragraph.
 
-  (E) An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2015.
+  (E) An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after December 31, 2017.
 
 **(c) Basic Allowance for Housing Outside the United States.—**
 
@@ -676,6 +694,12 @@ In subsection (f), the words “may be used” are substituted for the words “
 In subsection (g), the word “including” is substituted for the words “and such regulations shall include, but not be limited to”.
 
 #### Amendments
+2016—Subsec. (b)(7)(E). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
+
+2015—Subsec. (b)(3)(B). Pub. L. 114–92, § 603, substituted “may not exceed the following:” for “may not exceed one percent.” and added cls. (i) to (v).
+
+Subsec. (b)(7)(E). Pub. L. 114–92, § 604, substituted “December 31, 2016” for “December 31, 2015”.
+
 2014—Subsec. (b)(3). Pub. L. 113–291, § 604(a), amended par. (3) generally. Prior to amendment, par. (3) related to the total amount that could be paid for a fiscal year for the basic allowance for housing.
 
 Subsec. (b)(7)(E). Pub. L. 113–291, § 602, substituted “December 31, 2015” for “December 31, 2014”.
@@ -1044,7 +1068,7 @@ Pub. L. 113–291, div. A, title VI, § 604(b), Dec. 19, 2014, 128 Stat. 3399, p
 #### Transitional Provisions
 Pub. L. 112–239, div. A, title VI, § 604(b), Jan. 2, 2013, 126 Stat. 1774, as amended by Pub. L. 113–291, div. A, title X, § 1071(h), Dec. 19, 2014, 128 Stat. 3512, provided that: “(1) In general.—The basic allowance for housing paid to a member of a reserve component described in subparagraph (A) of paragraph (6) of [section 403(g) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403/g&num=0&edition=prelim), United States Code, as added by subsection (a), who on January 2, 2013, is being paid basic allowance for housing at a rate that is based on a housing area other than the member’s permanent duty station, shall be paid at that current rate until the member is assigned to perform duty at the member’s permanent duty station, at which time the member shall be paid basic allowance for housing at the prevailing permanent duty station housing area rate or at the permanent duty station housing rate for which the member has qualified under such paragraph (6). “(2) Alternative rate.—The Secretary of a military department, with the approval of the Secretary of Defense, may pay a member covered by paragraph (1) and under the jurisdiction of that Secretary a basic allowance for housing at a rate higher than the rate provided under such paragraph to ensure that the member is treated fairly and equitably or to serve the best interests of the United States.”
 
-[Pub. L. 113–291, div. A, title X, § 1071(h), Dec. 19, 2014, 128 Stat. 3512, provided that the amendment by that section is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.]
+[Pub. L. 113–291, div. A, title X, § 1071(h), Dec. 19, 2014, 128 Stat. 3512, provided that the amendment made by that section to section 604(b) of Pub. L. 112–239, set out above, is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.]
 
 #### Minimum Rates of Basic Allowance; Annual Limitation
 Pub. L. 106–246, div. B, title I, § 101(a), (b), July 13, 2000, 114 Stat. 528, provided that: “(a) Minimum Rates of Basic Allowance for Housing for Members of the Uniformed Services.—During the period beginning on January 1, 2000, and ending on September 30, 2001 (or such earlier date as the Secretary of Defense considers appropriate), a member of the uniformed services entitled to a basic allowance for housing for a military housing area in the United States shall be paid the allowance at a monthly rate not less than the rate in effect on December 31, 1999, in that area for members serving in the same pay grade and with the same dependency status as the member. “(b) Annual Limitation on Allowance.—In light of the rates for the basic allowance for housing authorized by subsection (a), the Secretary of Defense may exceed the limitation on the total amount paid during fiscal year 2000 and 2001 for the basic allowance for housing in the United States otherwise applicable under [section 403(b)(3) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403/b/3&num=0&edition=prelim), United States Code.”
@@ -1083,7 +1107,7 @@ Act Oct. 12, 1949, ch. 681, title III, § 302(f), 63 Stat. 812, as amended by Pu
 Act Oct. 12, 1949, ch. 681, title III, 302(g), 63 Stat. 812, which provided that enlisted members without dependents shall be entitled to a basic allowance for quarters at the rate of $51.30 per month, was repealed by Pub. L. 87–531, § 2, July 10, 1962, 76 Stat. 152. Laws effective after Jan. 9, 1962, that are inconsistent with Pub. L. 87–649, to be considered as superseding Pub. L. 87–649 to the extent of the inconsistency, see section 12(a) of Pub. L. 87–649, set out as a note preceding [section 101 of this title](./chapter-001-definitions.md#section-101).
 
 #### Authority of Secretaries With Respect to Payment of Quarters Allowances
-Pub. L. 87–531, § 5, July 10, 1962, 76 Stat. 153, provided that: “The Secretaries of the departments concerned shall have the same authority with respect to payments of quarters allowances to enlisted members of the uniformed services to pay grades E–4 (over 4 years’ service) through E–9 that they have with respect to enlisted members of the uniformed services in pay grades E–1, E–2, E–3, and E–4 (4 years’ or less service) under sections 10 and 11 of the Dependents Assistance Act of 1950 (50 App. U.S.C. 2210, 2211).”
+Pub. L. 87–531, § 5, July 10, 1962, 76 Stat. 153, provided that: “The Secretaries of the departments concerned shall have the same authority with respect to payments of quarters allowances to enlisted members of the uniformed services to pay grades E–4 (over 4 years’ service) through E–9 that they have with respect to enlisted members of the uniformed services in pay grades E–1, E–2, E–3, and E–4 (4 years’ or less service) under sections 10 and 11 of the Dependents Assistance Act of 1950 ([former] 50 App. U.S.C. 2210, 2211).”
 
 #### Executive Order No. 10204
 Ex. Ord. No. 10204, Jan. 16, 1951, 16 F.R. 417, as amended by Ex. Ord. No. 11120, Oct. 2, 1963, 28 F.R. 10631; Ex. Ord. No. 11146, Mar. 13, 1964, 29 F.R. 3417, which related to regulations governing basic allowances for quarters, was revoked by Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under [section 301 of this title](./chapter-005-special-and-incentive-pays.md#section-301).
@@ -1598,6 +1622,22 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 **(c)** A uniform allowance may not be paid, and uniforms may not be furnished, under [section 1593 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1593&num=0&edition=prelim) or [section 5901 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5901&num=0&edition=prelim) to a person referred to in subsection (b) for a period of employment referred to in that subsection for which clothing is furnished or a uniform allowance is paid under this section.
 
+**(d)**
+
+(1) In the case of athletic footwear needed by members of the Army, Navy, Air Force, or Marine Corps upon their initial entry into the armed forces, the Secretary of Defense shall furnish such footwear directly to the members instead of providing a cash allowance to the members for the purchase of such footwear.
+
+(2) In procuring athletic footwear to comply with paragraph (1), the Secretary of Defense shall—
+
+  (A) procure athletic footwear that complies with the requirements of [section 2533a of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2533a&num=0&edition=prelim), without regard to the applicability of any simplified acquisition threshold under chapter 137 of title 10 (or any other provision of law); and
+
+  (B) procure additional athletic footwear, for two years following the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, that is necessary to provide a member described in paragraph (1) with sufficient choices in athletic shoes so as to minimize the incidence of athletic injuries and potential unnecessary harm and risk to the safety and well-being of members in initial entry training.
+
+(3) This subsection does not prohibit the provision of a cash allowance to a member described in paragraph (1) for the purchase of athletic footwear if such footwear—
+
+  (A) is medically required to meet unique physiological needs of the member; and
+
+  (B) cannot be met with athletic footwear that complies with the requirements of this subsection.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -1607,7 +1647,12 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 The words “the armed forces” are substituted for the words “the Army, the Navy, the Air Force, the Marine Corps, the Coast Guard” to conform to the definition in [section 101(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section101/4&num=0&edition=prelim). The words “the Naval Reserve, the Marine Corps Reserve, . . . the National Guard of the United States, the Air National Guard of the United States, the Army Reserve, the Air Force Reserve, and the Coast Guard Reserve” are omitted, since, under the definitions of the armed forces concerned in sections 3062(c), 5001(a)(1) and (2), and 8062(d) of title 10, and [section 751a of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section751a&num=0&edition=prelim), those organizations, or their successors, are components of the armed force concerned.
 
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (d)(2)(B), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
+
 #### Amendments
+2016—Subsec. (d). Pub. L. 114–328 added subsec. (d).
+
 2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 2000—Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title VI, § 611(1)], substituted “The Secretary of Defense and the Secretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy,” for “The President”.
@@ -2142,10 +2187,18 @@ Pub. L. 106–65, div. A, title V, § 586(d)(2), Oct. 5, 1999, 113 Stat. 639, pr
 
 
 <a id="section-437"></a>
-## § 437. Allowance to cover monthly premium for Servicemembers’ Group Life Insurance: members serving in Operation Enduring Freedom or Operation Iraqi Freedom
-**(a) Required Reimbursement for Premium Deduction.—** In the case of a member of the armed forces who has insurance coverage for the member under the Servicemembers’ Group Life Insurance program under subchapter III of chapter 19 of title 38 and who serves in the theater of operations for Operation Enduring Freedom or Operation Iraqi Freedom at any time during a month, the Secretary concerned shall pay the member an allowance under this section for that month in an amount equal to the amount of the deduction made under subsection (a)(1) of section 1969 of such title for the amount of Servicemembers’ Group Life Insurance coverage held by the member under section 1967 of such title.
+## § 437. Allowance to cover monthly premiums for Servicemembers’ Group Life Insurance: members serving in a designated duty assignment
+**(a) Required Reimbursement for Premium Deduction.—**
 
-**(b) Notice of Availability of Allowance.—** To the maximum extent practicable, in advance of the deployment of a member to a theater of operations referred to in subsection (a), the Secretary concerned shall give the member information regarding the following:
+(1) In the case of a member of the armed forces who has insurance coverage for the member under the Servicemembers’ Group Life Insurance program under subchapter III of chapter 19 of title 38 and who serves in a designated duty assignment at any time during a month, the Secretary concerned shall pay the member an allowance under this section for that month in an amount equal to the amount of the deduction made under subsection (a)(1) of section 1969 of such title for the amount of Servicemembers’ Group Life Insurance coverage held by the member under section 1967 of such title.
+
+(2) In this subsection, the term “designated duty assignment” means a permanent or temporary duty assignment outside the United States or its possessions in support of a contingency operation in an area that—
+
+  (A) has been designated a combat zone; or
+
+  (B) is in direct support of an area that has been designated a combat zone.
+
+**(b) Notice of Availability of Allowance.—** To the maximum extent practicable, in advance of the deployment of a member to a designated duty assignment referred to in subsection (a), the Secretary concerned shall give the member information regarding the following:
 
 (1) The availability of the allowance under this section for members insured under the Servicemembers’ Group Life Insurance program.
 
@@ -2154,6 +2207,12 @@ Pub. L. 106–65, div. A, title V, § 586(d)(2), Oct. 5, 1999, 113 Stat. 639, pr
 ### Statutory Notes
 
 #### Amendments
+2016—Pub. L. 114–328, § 644(b)(2), substituted “Allowance to cover monthly premiums for Servicemembers’ Group Life Insurance: members serving in a designated duty assignment” for “Allowance to cover monthly premium for Servicemembers’ Group Life Insurance: members serving in Operation Enduring Freedom or Operation Iraqi Freedom” in section catchline.
+
+Subsec. (a). Pub. L. 114–328, § 644(a), designated existing provisions as par. (1), substituted “who serves in a designated duty assignment” for “who serves in the theater of operations for Operation Enduring Freedom or Operation Iraqi Freedom”, and added par. (2).
+
+Subsec. (b). Pub. L. 114–328, § 644(b)(1), substituted “designated duty assignment” for “theater of operations” in introductory provisions.
+
 2008—Subsec. (a). Pub. L. 110–181 made technical correction to directory language of Pub. L. 109–364, § 606(b)(1)(A). See 2006 Amendment note below.
 
 2006—Pub. L. 109–364, § 606(c), struck out “portion of” before “monthly premium” in section catchline.
@@ -2165,6 +2224,9 @@ Pub. L. 109–364, § 606(b)(1)(A), as amended by Pub. L. 110–181, struck out 
 Subsec. (a)(1). Pub. L. 109–364, § 606(a), substituted “for the amount of Servicemembers’ Group Life Insurance coverage held by the member under section 1967 of such title” for “for the first $150,000 of Servicemembers’ Group Life Insurance coverage held by the member under section 1967 of such title”.
 
 Subsecs. (b), (c). Pub. L. 109–364, § 606(b)(2), (3), redesignated subsec. (c) as (b), in par. (2) substituted “maximum coverage amount available for such insurance,” for “coverage amount specified in subsection (a)(1) or in effect pursuant to subsection (b),”, and struck out former subsec. (b). Text read as follows: “For purposes of subsection (a), the Secretary of Defense is authorized to increase the coverage amount specified in paragraph (1) of such subsection to permit the reimbursement of all or an additional amount of the deduction made under [section 1969(a)(1) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1969/a/1&num=0&edition=prelim) for levels of coverage in excess of $150,000 for members under the Servicemembers’ Group Life Insurance program.”
+
+#### Effective Date of 2016 Amendment
+Pub. L. 114–328, div. A, title VI, § 644(c), Dec. 23, 2016, 130 Stat. 2167, provided that: “The amendments made by this section [amending this section] shall apply to service by members of the Armed Forces in a designated duty assignment (as defined in subsection (a)(2) of [section 437 of title 37](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-437), United States Code) for any month beginning on or after the date of the enactment of this Act [Dec. 23, 2016].”
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–181, div. A, title X, § 1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(5) is effective as of Oct. 17, 2006, and as if included in Pub. L. 109–364 as enacted.

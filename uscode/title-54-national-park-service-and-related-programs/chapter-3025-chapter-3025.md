@@ -20,7 +20,7 @@ In this chapter:
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302501 | [16 U.S.C. 470a(c)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/c/4&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(c)(4), as added Pub. L. 102–575, title XL, § 4005, Oct. 30, 1992, 106 Stat. 4755. |
+| 302501 | [16 U.S.C. 470a(c)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/c/4&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(c)(4), as added Pub. L. 102–575, title XL, § 4005, Oct. 30, 1992, 106 Stat. 4755. |
 
 
 <a id="section-302502"></a>
@@ -33,7 +33,7 @@ Any State program approved under this subdivision shall provide a mechanism for 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302502 | [16 U.S.C. 470a(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/c/1&num=0&edition=prelim) (1st sentence) | Pub. L. 89–665, title I, § 101(c)(1) (1st sentence), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2991. |
+| 302502 | [16 U.S.C. 470a(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/c/1&num=0&edition=prelim) (1st sentence). | Pub. L. 89–665, title I, § 101(c)(1) (1st sentence), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2991. |
 
 
 <a id="section-302503"></a>
@@ -57,7 +57,7 @@ Any State program approved under this subdivision shall provide a mechanism for 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302503 | [16 U.S.C. 470a(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/c/1&num=0&edition=prelim) (2d, last sentences) | Pub. L. 89–665, title I, § 101(c)(1) (2d, last sentences), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2991. |
+| 302503 | [16 U.S.C. 470a(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/c/1&num=0&edition=prelim) (2d, last sentences). | Pub. L. 89–665, title I, § 101(c)(1) (2d, last sentences), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2991. |
 
 In subsection (b), the words “State program approved under [section 302302 of this title](./chapter-3023-chapter-3023.md#section-302302)” are substituted for “approved State program” for clarity.
 
@@ -79,7 +79,7 @@ In subsection (b), the words “State program approved under [section 302302 of 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302504 | [16 U.S.C. 470a(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/c/2&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(c)(2), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2992. |
+| 302504 | [16 U.S.C. 470a(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/c/2&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(c)(2), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2992. |
 
 
 <a id="section-302505"></a>
@@ -96,6 +96,6 @@ Any local government—
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302505 | [16 U.S.C. 470a(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/c/3&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(c)(3), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2992. |
+| 302505 | [16 U.S.C. 470a(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/c/3&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(c)(3), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2992. |
 
 The words “or which is making efforts to become so certified” are omitted in paragraph (1) for consistency with section 302902(c)(4) of the new title.

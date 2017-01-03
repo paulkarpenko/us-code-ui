@@ -2,7 +2,7 @@
 title: 10
 chapter: '53'
 heading: MISCELLANEOUS RIGHTS AND BENEFITS
-section_count: 44
+section_count: 42
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -122,7 +122,7 @@ A prior section 1032, act Aug. 10, 1956, ch. 1041, 70A Stat. 80, provided that a
 
 Subsec. (d)(2). Pub. L. 101–189, § 1622(e)(2)(B), inserted “The term” after “(2)”.
 
-1987—Pub. L. 100–26, § 7(e)(1)(A), renumbered the second [section 1051 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1051) as this section.
+1987—Pub. L. 100–26, § 7(e)(1)(A), renumbered the second [section 1051 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1051&num=0&edition=prelim) as this section.
 
 Subsec. (d)(1), (2). Pub. L. 100–26, § 3(8), amended directory language of Pub. L. 99–661. See 1986 Amendment note below.
 
@@ -216,7 +216,23 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
   (C) testimony, or otherwise participating in or assisting in an investigation or proceeding related to a communication under subparagraph (A) or (B), or filing, causing to be filed, participating in, or otherwise assisting in an action brought under this section.
 
-(2) Any action prohibited by paragraph (1) (including the threat to take any unfavorable action, the withholding or threat to withhold any favorable action, or making or threatening to make a significant change in the duties or responsibilities of a member of the armed forces not commensurate with the member’s grade) shall be considered for the purposes of this section to be a personnel action prohibited by this subsection.
+(2)
+
+  (A) The actions considered for purposes of this section to be a personnel action prohibited by this subsection shall include any action prohibited by paragraph (1), including any of the following:
+
+    (i) The threat to take any unfavorable action.
+
+    (ii) The withholding, or threat to withhold, any favorable action.
+
+    (iii) The making of, or threat to make, a significant change in the duties or responsibilities of a member of the armed forces not commensurate with the member’s grade.
+
+    (iv) The failure of a superior to respond to any retaliatory action or harassment (of which the superior had actual knowledge) taken by one or more subordinates against a member.
+
+    (v) The conducting of a retaliatory investigation of a member.
+
+  (B) In this paragraph, the term “retaliatory investigation” means an investigation requested, directed, initiated, or conducted for the primary purpose of punishing, harassing, or ostracizing a member of the armed forces for making a protected communication.
+
+  (C) Nothing in this paragraph shall be construed to limit the ability of a commander to consult with a superior in the chain of command, an inspector general, or a judge advocate general on the disposition of a complaint against a member of the armed forces for an allegation of collateral misconduct or for a matter unrelated to a protected communication. Such consultation shall provide an affirmative defense against an allegation that a member requested, directed, initiated, or conducted a retaliatory investigation under this section.
 
 **(c) Inspector General Investigation of Allegations of Prohibited Personnel Actions.—**
 
@@ -254,7 +270,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
   (D) Upon determining that an investigation of an allegation under paragraph (1) is warranted, the Inspector General making the determination shall expeditiously investigate the allegation. In the case of a determination made by the Inspector General of the Department of Defense, that Inspector General may delegate responsibility for the investigation to an appropriate Inspector General within a military department.
 
-  (E) In the case of an investigation under subparagraph (D) within the Department of Defense, the results of the investigation shall be determined by, or approved by, the Inspector General of the Department of Defense (regardless of whether the investigation itself is conducted by the Inspector General of the Department of Defense or by an Inspector General within a military department).
+  (E) If the Inspector General makes a preliminary determination in an investigation under subparagraph (D) that, more likely than not, a personnel action prohibited by subsection (b) has occurred and the personnel action will result in an immediate hardship to the member alleging the personnel action, the Inspector General shall promptly notify the Secretary of the military department concerned or the Secretary of Homeland Security, as applicable, of the hardship, and such Secretary shall take such action as such Secretary considers appropriate.
+
+  (F) In the case of an investigation under subparagraph (D) within the Department of Defense, the results of the investigation shall be determined by, or approved by, the Inspector General of the Department of Defense (regardless of whether the investigation itself is conducted by the Inspector General of the Department of Defense or by an Inspector General within a military department).
 
 (5) Neither an initial determination under paragraph (4)(A) nor an investigation under paragraph (4)(D) is required in the case of an allegation made more than one year after the date on which the member becomes aware of the personnel action that is the subject of the allegation.
 
@@ -268,27 +286,37 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(e) Reports on Investigations.—**
 
-(1) After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(4)(E), the Inspector General conducting the investigation shall submit a report on the results of the investigation to the Secretary of Defense and the Secretary of the military department concerned (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and shall transmit a copy of the report on the results of the investigation to the member of the armed forces who made the allegation investigated. The report shall be transmitted to such Secretaries, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(4)(E).
+(1) After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(4)(F), the Inspector General conducting the investigation shall submit a report on the results of the investigation to the Secretary of Defense and the Secretary of the military department concerned (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and shall transmit a copy of the report on the results of the investigation to the member of the armed forces who made the allegation investigated. The report shall be transmitted to such Secretaries, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(4)(E).
 
 (2) In the copy of the report transmitted to the member, the Inspector General shall ensure the maximum disclosure of information possible, with the exception of information that is not required to be disclosed under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim). However, the copy need not include summaries of interviews conducted, nor any document acquired, during the course of the investigation. Such items shall be transmitted to the member, if the member requests the items, with the copy of the report or after the transmittal to the member of the copy of the report, regardless of whether the request for those items is made before or after the copy of the report is transmitted to the member.
 
-(3) If, in the course of an investigation of an allegation under this section, the Inspector General determines that it is not possible to submit the report required by paragraph (1) within 180 days after the date of receipt of the allegation being investigated, the Inspector General shall provide to the Secretary of Defense and the Secretary of the military department concerned (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and to the member making the allegation a notice—
+(3)
 
-  (A) of that determination (including the reasons why the report may not be submitted within that time); and
+  (A) Not later than 180 days after the commencement of an investigation of an allegation under subsection (c)(4), and every 180 days thereafter until the transmission of the report on the investigation under paragraph (1) to the member concerned, the Inspector General conducting the investigation shall submit a notice on the investigation described in subparagraph (B) to the following:
 
-  (B) of the time when the report will be submitted.
+    (i) The member.
+
+    (ii) The Secretary of Defense.
+
+    (iii) The Secretary of the military department concerned, or the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy.
+
+  (B) Each notice on an investigation under subparagraph (A) shall include the following:
+
+    (i) A description of the current progress of the investigation.
+
+    (ii) An estimate of the time remaining until the completion of the investigation and the transmittal of the report required by paragraph (1) to the member concerned.
 
 (4) The report on the results of the investigation shall contain a thorough review of the facts and circumstances relevant to the allegation and the complaint or disclosure and shall include documents acquired during the course of the investigation, including summaries of interviews conducted. The report may include a recommendation as to the disposition of the complaint.
 
-**(f) Action in Case of Violations.—**
+**(f) Action in Case of Substantiated Violations.—**
 
-(1) Not later than 30 days after receiving a report from the Inspector General under subsection (e), the Secretary of Homeland Security or the Secretary of the military department concerned, as applicable, shall determine whether there is sufficient basis to conclude whether a personnel action prohibited by subsection (b) has occurred.
+(1) Not later than 30 days after receiving a report from the Inspector General under subsection (e), the Secretary of Homeland Security or the Secretary of the military department concerned, as applicable, shall determine whether corrective or disciplinary action should be taken. If the Secretary concerned determines that corrective or disciplinary action should be taken, the Secretary shall take appropriate corrective or disciplinary action.
 
-(2) If the Secretary concerned determines under paragraph (1) that a personnel action prohibited by subsection (b) has occurred, the Secretary shall—
+(2) If the Inspector General determines that a personnel action prohibited by subsection (b) has occurred, the Secretary concerned shall—
 
-  (A) order such action as is necessary to correct the record of a personnel action prohibited by subsection (b); and
+  (A) order such action as is necessary to correct the record of a personnel action prohibited by subsection (b), including referring the report to the appropriate board for the correction of military records; and
 
-  (B) take any appropriate disciplinary action against the individual who committed such prohibited personnel action.
+  (B) submit to the Inspector General a report on the actions taken by the Secretary pursuant to this paragraph, and provide for the inclusion of a summary of the report under this subparagraph (with any personally identifiable information redacted) in the semiannual report to Congress of the Inspector General of the Department of Defense or the Inspector General of the Department of Homeland Security, as applicable, under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.).
 
 (3) If the Secretary concerned determines under paragraph (1) that an order for corrective or disciplinary action is not appropriate, not later than 30 days after making the determination, such Secretary shall—
 
@@ -300,13 +328,15 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 (1) A board for the correction of military records acting under [section 1552 of this title](./chapter-079-correction-of-military-records.md#section-1552), in resolving an application for the correction of records made by a member or former member of the armed forces who has alleged a personnel action prohibited by subsection (b), on the request of the member or former member or otherwise, may review the matter.
 
-(2) In resolving an application described in paragraph (1), a correction board—
+(2) In resolving an application described in paragraph (1) for which there is a report of the Inspector General under subsection (e)(1), a correction board—
 
-  (A) shall review the report of the Inspector General submitted under subsection (e)(1);
+  (A) shall review the report of the Inspector General;
 
-  (B) may request the Inspector General to gather further evidence; and
+  (B) may request the Inspector General to gather further evidence;
 
-  (C) may receive oral argument, examine and cross-examine witnesses, take depositions, and, if appropriate, conduct an evidentiary hearing.
+  (C) may receive oral argument, examine and cross-examine witnesses, and take depositions; and
+
+  (D) shall consider a request by a member or former member in determining whether to hold an evidentiary hearing.
 
 (3) If the board holds an administrative hearing, the member or former member who filed the application described in paragraph (1)—
 
@@ -354,9 +384,39 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 The words “prevented”, “directly or indirectly”, “concerning any subject”, “or Members”, and “and safety” are omitted as surplusage. The word “unlawful” is substituted for the words “in violation of law”.
 
 #### References in Text
-The Inspector General Act of 1978, referred to in subsec. (b)(1)(B)(ii), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsecs. (b)(1)(B)(ii) and (f)(2)(B), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2016—Subsec. (b)(2). Pub. L. 114–328, § 531(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any action prohibited by paragraph (1) (including the threat to take any unfavorable action, the withholding or threat to withhold any favorable action, or making or threatening to make a significant change in the duties or responsibilities of a member of the armed forces not commensurate with the member’s grade) shall be considered for the purposes of this section to be a personnel action prohibited by this subsection.”
+
+Subsec. (c)(4)(E), (F). Pub. L. 114–328, § 531(b)(1), added subpar. (E) and redesignated former subpar. (E) as (F).
+
+Subsec. (e)(1). Pub. L. 114–328, § 531(b)(2), substituted “subsection (c)(4)(F)” for “subsection (c)(4)(E)”.
+
+Subsec. (e)(3). Pub. L. 114–328, § 531(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “If, in the course of an investigation of an allegation under this section, the Inspector General determines that it is not possible to submit the report required by paragraph (1) within 180 days after the date of receipt of the allegation being investigated, the Inspector General shall provide to the Secretary of Defense and the Secretary of the military department concerned (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and to the member making the allegation a notice—
+
+“(A) of that determination (including the reasons why the report may not be submitted within that time); and
+
+“(B) of the time when the report will be submitted.”
+
+Subsec. (f). Pub. L. 114–328, § 532(a)(1), substituted “Substantiated Violations” for “Violations” in heading.
+
+Subsec. (f)(1). Pub. L. 114–328, § 532(a)(2), substituted “corrective or disciplinary action should be taken. If the Secretary concerned determines that corrective or disciplinary action should be taken, the Secretary shall take appropriate corrective or disciplinary action.” for “there is sufficient basis to conclude whether a personnel action prohibited by subsection (b) has occurred.”
+
+Subsec. (f)(2). Pub. L. 114–328, § 532(b)(1), substituted “the Inspector General determines” for “the Secretary concerned determines under paragraph (1)” and “the Secretary concerned shall” for “the Secretary shall” in introductory provisions.
+
+Subsec. (f)(2)(A). Pub. L. 114–328, § 532(b)(2), inserted before semicolon “, including referring the report to the appropriate board for the correction of military records”.
+
+Subsec. (f)(2)(B). Pub. L. 114–328, § 532(b)(3), added subpar. (B) and struck out former subpar. (B) which read as follows: “take any appropriate disciplinary action against the individual who committed such prohibited personnel action.”
+
+Subsec. (g)(2). Pub. L. 114–328, § 531(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In resolving an application described in paragraph (1), a correction board—
+
+“(A) shall review the report of the Inspector General submitted under subsection (e)(1);
+
+“(B) may request the Inspector General to gather further evidence; and
+
+“(C) may receive oral argument, examine and cross-examine witnesses, take depositions, and, if appropriate, conduct an evidentiary hearing.”
+
 2013—Subsec. (b)(1). Pub. L. 113–66, § 1714(a)(1)(A), substituted “preparing or being perceived as making or preparing—” for “preparing—” in introductory provisions.
 
 Subsec. (b)(1)(B)(v), (vi). Pub. L. 113–66, § 1714(a)(1)(C), added cl. (v) and redesignated former cl. (v) as (vi).
@@ -485,6 +545,9 @@ Subsec. (e). Pub. L. 101–225, § 202(4), inserted “(except for a member or f
 
 1984—Pub. L. 98–525 substituted “Member” for “member” in section catchline and text.
 
+#### Effective Date of 2016 Amendment
+Pub. L. 114–328, div. A, title V, § 532(c), Dec. 23, 2016, 130 Stat. 2121, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 23, 2016], and shall apply with respect to reports received by the Secretaries of the military departments and the Secretary of Homeland Security under [section 1034(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1034/e&num=0&edition=prelim), United States Code, on or after that date.”
+
 #### Effective Date of 2004 Amendment
 Pub. L. 108–375, div. A, title V, § 591(b), Oct. 28, 2004, 118 Stat. 1933, provided that: “The amendments made by this section [amending this section] apply with respect to any unfavorable personnel action taken or threatened, and any withholding of or threat to withhold a favorable personnel action, on or after the date of the enactment of this Act [Oct. 28, 2004].”
 
@@ -497,7 +560,10 @@ Pub. L. 100–456, div. A, title VIII, § 846(d), Sept. 29, 1988, 102 Stat. 2030
 #### Regulations
 Pub. L. 103–337, div. A, title V, § 531(h), (i), Oct. 5, 1994, 108 Stat. 2758, provided that: “(h) Deadline for Regulations.—The Secretary of Defense and the Secretary of Transportation shall prescribe regulations to implement the amendments made by this section [amending this section] not later than 120 days after the date of the enactment of this Act [Oct. 5, 1994]. “(i) Content of Regulations.—In prescribing regulations under [section 1034 of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1034), United States Code, as amended by this section, the Secretary of Defense and the Secretary of Transportation shall provide for appropriate procedural protections for the subject of any investigation carried out under the provisions of that section, including a process for appeal and review of investigative findings.”
 
-Pub. L. 100–456, div. A, title VIII, § 846(b), Sept. 29, 1988, 102 Stat. 2030, provided that: “The Secretary of Defense and the Secretary of Transportation shall prescribe the regulations required by subsection (g) [now (h)] of [section 1034 of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1034), United States Code, as amended by subsection (a), not later than 180 days after the date of the enactment of this Act [Sept. 29, 1988].”
+Pub. L. 100–456, div. A, title VIII, § 846(b), Sept. 29, 1988, 102 Stat. 2030, provided that: “The Secretary of Defense and the Secretary of Transportation shall prescribe the regulations required by subsection (g) [now (i)] of [section 1034 of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1034), United States Code, as amended by subsection (a), not later than 180 days after the date of the enactment of this Act [Sept. 29, 1988].”
+
+#### Uniform Standards for Inspector General Investigations of Prohibited Personnel Actions and Other Matters
+Pub. L. 114–328, div. A, title V, § 531(e), Dec. 23, 2016, 130 Stat. 2120, provided that: “(1) In general.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2016], the Inspector General of the Department of Defense shall prescribe uniform standards for the following:“(A) The investigation of allegations of prohibited personnel actions under [section 1034 of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1034), United States Code (as amended by this section), by the Inspector General and the Inspectors General of the military departments. “(B) The training of the staffs of the Inspectors General referred to in subparagraph (A) on the conduct of investigations described in that subparagraph. “(2) Use.—Commencing 180 days after prescription of the standards required by paragraph (1), the Inspectors General referred to in that paragraph shall comply with such standards in the conduct of investigations described in that paragraph and in the training of the staffs of such Inspectors General in the conduct of such investigations.”
 
 #### Notice to Congress of Certain Department of Defense Nondisclosure Agreements
 Pub. L. 112–239, div. A, title X, § 1054, Jan. 2, 2013, 126 Stat. 1937, provided that: “(a) Notice Required.—The Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] notice of any request or requirement for members of the Armed Forces or civilian employees of the Department of Defense to enter into nondisclosure agreements that could restrict the ability of such members or employees to communicate with Congress. Each such notice shall include the following:“(1) The basis in law for the agreement. “(2) An explanation for the restriction of the ability to communicate with Congress. “(3) A description of the category of individuals requested or required to enter into the agreement. “(4) A copy of the language contained in the agreement. “(b) Timing of Notification.—“(1) Requests or requirements before date of enactment.—In the case of nondisclosure agreements described in subsection (a) that members or employees were first requested or required to enter into on or before the date of the enactment of this Act [Jan. 2, 2013], the notice required by subsection (a) shall be submitted not later than 60 days after the date of enactment. “(2) Requests or requirements after date of enactment.—In the case of nondisclosure agreements described in subsection (a) that members or employees were first requested or required to enter into after the date of the enactment of this Act, the notice required by subsection (a) shall be submitted not later than 30 days after the date on which the Secretary first requests or requires that the members or employees enter into the agreements.”
@@ -710,8 +776,6 @@ Pub. L. 87–165, § 2, Aug. 25, 1961, 75 Stat. 401, provided that: “Section 1
 
     (ii) such facility, in carrying out the required number of necessary obstetric cases, would not maintain competency of its obstetrical staff unless the facility provides such services to such dependent.
 
-  (F) The authority under this paragraph shall expire on September 30, 2016.
-
 **(b)** This section does not authorize transportation and travel expenses for a dependent for elective surgery which is determined to be not medically indicated by a medical authority designated under joint regulations to be prescribed under this section.
 
 **(c)** In this section, the term “dependent” has the meaning given that term in [section 1072 of this title](./chapter-055-medical-and-dental-care.md#section-1072).
@@ -724,6 +788,8 @@ Another section 1040 was renumbered [section 1041 of this title](./chapter-053-m
 Another section 1040, related to free postage from combat zones, was added by Pub. L. 89–132, § 9(a), Aug. 21, 1965, 79 Stat. 548, prior to repeal by Pub. L. 89–315, § 3(a), Nov. 1, 1965, 79 Stat. 1164. See section 3401 et seq. of Title 39, Postal Service.
 
 #### Amendments
+2015—Subsec. (a)(2)(F). Pub. L. 114–92 struck out subpar. (F) which read as follows: “The authority under this paragraph shall expire on September 30, 2016.”
+
 2014—Subsec. (a)(1). Pub. L. 113–291 substituted “37.” for “37..”.
 
 2013—Subsec. (a)(1). Pub. L. 113–66, § 621(b)(1), substituted “travel and transportation allowances may be furnished to necessary attendants. The dependents and any attendants shall be furnished such travel and transportation allowances as specified in regulations prescribed under [section 464 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section464&num=0&edition=prelim).” for “round-trip transportation and travel expenses may be furnished necessary attendants. In addition to transportation of a dependent at the expense of the United States authorized under this subsection, reasonable travel expenses incurred in connection with the transportation of the dependent may be paid at the expense of the United States”.
@@ -816,7 +882,7 @@ Active commissioned service in the National Oceanic and Atmospheric Administrati
 
 (1) Notwithstanding any law regarding the licensure of attorneys, a judge advocate or civilian attorney who is authorized to provide military legal assistance is authorized to provide that assistance in any jurisdiction, subject to such regulations as may be prescribed by the Secretary concerned.
 
-(2) Military legal assistance may be provided only by a judge advocate or a civilian attorney who is a member of the bar of a Federal court or of the highest court of a State and, for purposes of service as a Special Victims’ Counsel under [section 1044e of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044e), meets the additional qualifications specified in subsection (d)(2) of such section.
+(2) Military legal assistance may be provided only by a judge advocate or a civilian attorney who is a member of the bar of a Federal court or of the highest court of a State and, for purposes of service as a Special Victims’ Counsel under [section 1044e of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044e), satisfies the additional qualifications and training requirements specified in subsection (d) of such section.
 
 (3) In this subsection, the term “military legal assistance” includes—
 
@@ -829,6 +895,8 @@ Active commissioned service in the National Oceanic and Atmospheric Administrati
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (d)(2). Pub. L. 114–92 substituted “satisfies the additional qualifications and training requirements specified in subsection (d)” for “meets the additional qualifications specified in subsection (d)(2)”.
+
 2014—Subsec. (d)(2). Pub. L. 113–291 substituted “such section.” for “such section..”.
 
 2013—Subsec. (b). Pub. L. 112–239 inserted “, and within the Marine Corps the Staff Judge Advocate to the Commandant of the Marine Corps,” after “jurisdiction of the Secretary”.
@@ -887,6 +955,8 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 524(c)], Oct. 30, 2000, 114 Stat.
 
 (5) For the performance of notarial acts at locations outside the United States, all employees of a military department or the Coast Guard who are designated by regulations of the Secretary concerned or by statute to have those powers for exercise outside the United States.
 
+(6) All civilian paralegals serving at military legal assistance offices, supervised by a military legal assistance counsel (as defined in [section 1044d(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1044d/g&num=0&edition=prelim)).
+
 **(c)** No fee may be paid to or received by any person for the performance of a notarial act authorized in this section.
 
 **(d)** The signature of any such person acting as notary, together with the title of that person’s offices, is prima facie evidence that the signature is genuine, that the person holds the designated title, and that the person is authorized to perform a notarial act.
@@ -894,6 +964,8 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 524(c)], Oct. 30, 2000, 114 Stat.
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (b)(6). Pub. L. 114–328 added par. (6).
+
 2001—Subsec. (b)(2). Pub. L. 107–107, § 1103(a), substituted “legal assistance attorneys” for “legal assistance officers”.
 
 Subsec. (b)(5). Pub. L. 107–107, § 1103(b), added par. (5).
@@ -983,9 +1055,19 @@ Pub. L. 104–106, div. A, title VII, § 749(b), Feb. 10, 1996, 110 Stat. 389, p
 
 (1) the instrument is executed by the testator (or, if the testator is unable to execute the instrument personally, the instrument is executed in the presence of, by the direction of, and on behalf of the testator);
 
-(2) the instrument is executed in the presence of a military legal assistance counsel acting as presiding attorney;
+(2) the execution of the instrument is notarized by—
 
-(3) the instrument is executed in the presence of at least two disinterested witnesses (in addition to the presiding attorney), each of whom attests to witnessing the testator’s execution of the instrument by signing it; and
+  (A) a military legal assistance counsel;
+
+  (B) a person who is authorized to act as a notary under [section 1044a of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044a) who—
+
+    (i) is not an attorney; and
+
+    (ii) is supervised by a military legal assistance counsel; or
+
+  (C) a State-licensed notary employed by a military department or the Coast Guard who is supervised by a military legal assistance counsel;
+
+(3) the instrument is executed in the presence of at least two disinterested witnesses (in addition to the person notarizing the instrument in accordance with paragraph (2)), each of whom attests to witnessing the testator’s execution of the instrument by signing it; and
 
 (4) the instrument is executed in accordance with such additional requirements as may be provided in regulations prescribed under this section.
 
@@ -1030,6 +1112,10 @@ Pub. L. 104–106, div. A, title VII, § 749(b), Feb. 10, 1996, 110 Stat. 389, p
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (c)(2). Pub. L. 114–328, § 523(a)(1), added par. (2) and struck out former par. (2) which read as follows: “the instrument is executed in the presence of a military legal assistance counsel acting as presiding attorney;”.
+
+Subsec. (c)(3). Pub. L. 114–328, § 523(a)(2), substituted “person notarizing the instrument in accordance with paragraph (2)” for “presiding attorney”.
+
 2002—Subsec. (f). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 #### Effective Date of 2002 Amendment
@@ -1057,6 +1143,8 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
       (I) during a period in which the individual served on active duty, full-time National Guard duty, or inactive-duty training; or
 
       (II) during any period, regardless of the duty status of the individual, if the circumstances of the alleged sex-related offense have a nexus to the military service of the victim, as determined under regulations prescribed by the Secretary of Defense.
+
+  (C) A civilian employee of the Department of Defense who is not eligible for military legal assistance under [section 1044(a)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1044/a/7&num=0&edition=prelim), but who is the victim of an alleged sex-related offense, and the Secretary of Defense or the Secretary of the military department concerned waives the condition in such section for the purposes of offering Special Victims’ Counsel services to the employee.
 
 **(b) Types of Legal Assistance Authorized.—** The types of legal assistance authorized by subsection (a) include the following:
 
@@ -1098,15 +1186,31 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
   (D) in understanding the eligibility and requirements for, and obtaining, any available military and veteran benefits, such as transitional compensation benefits found in [section 1059 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1059) and other State and Federal victims’ compensation programs.
 
-(9) Such other legal assistance as the Secretary of Defense (or, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) may authorize in the regulations prescribed under subsection (h).
+(9) Legal consultation and assistance in connection with—
+
+  (A) any complaint against the Government, including an allegation under review by an inspector general and a complaint regarding equal employment opportunities;
+
+  (B) any request to the Government for information, including a request under [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim) (commonly referred to as a “Freedom of Information Act request”); and
+
+  (C) any correspondence or other communications with Congress.
+
+(10) Such other legal assistance as the Secretary of Defense (or, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) may authorize in the regulations prescribed under subsection (h).
 
 **(c) Nature of Relationship.—** The relationship between a Special Victims’ Counsel and a victim in the provision of legal advice and assistance shall be the relationship between an attorney and client.
 
-**(d) Qualifications.—** An individual may not be designated as a Special Victims’ Counsel under this section unless the individual—
+**(d) Qualifications.—**
 
-(1) meets the qualifications specified in [section 1044(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1044/d/2&num=0&edition=prelim); and
+(1) An individual may not be designated as a Special Victims’ Counsel under this section unless the individual—
 
-(2) is certified as competent to be designated as a Special Victims’ Counsel by the Judge Advocate General of the armed force in which the judge advocate is a member or by which the civilian attorney is employed, and within the Marine Corps, by the Staff Judge Advocate to the Commandant of the Marine Corps.
+  (A) meets the qualifications specified in [section 1044(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1044/d/2&num=0&edition=prelim); and
+
+  (B) is certified as competent to be designated as a Special Victims’ Counsel by the Judge Advocate General of the armed force in which the judge advocate is a member or by which the civilian attorney is employed, and within the Marine Corps, by the Staff Judge Advocate to the Commandant of the Marine Corps.
+
+(2) The Secretary of Defense shall—
+
+  (A) develop a policy to standardize the time period within which a Special Victims’ Counsel receives training; and
+
+  (B) establish the baseline training requirements for a Special Victims’ Counsel.
 
 **(e) Administrative Responsibility.—**
 
@@ -1114,11 +1218,25 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 (2) The Secretary of Defense (and, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) shall conduct a periodic evaluation of the Special Victims’ Counsel programs operated under this section.
 
+(3) The Secretary of Defense, in collaboration with the Secretaries of the military departments and the Secretary of the Department in which the Coast Guard is operating, shall establish—
+
+  (A) guiding principles for the Special Victims’ Counsel program, to include ensuring that—
+
+    (i) Special Victims’ Counsel are assigned to locations that maximize the opportunity for face-to-face communication between counsel and clients; and
+
+    (ii) effective means of communication are available to permit counsel and client interactions when face-to-face communication is not feasible;
+
+  (B) performance measures and standards to measure the effectiveness of the Special Victims’ Counsel program and client satisfaction with the program; and
+
+  (C) processes by which the Secretaries of the military departments and the Secretary of the Department in which the Coast Guard is operating will evaluate and monitor the Special Victims’ Counsel program using such guiding principles and performance measures and standards.
+
 **(f) Availability of Special Victims’ Counsel.—**
 
 (1) An individual described in subsection (a)(2) who is the victim of an alleged sex-related offense shall be offered the option of receiving assistance from a Special Victims’ Counsel upon report of an alleged sex-related offense or at the time the victim seeks assistance from a Sexual Assault Response Coordinator, a Sexual Assault Victim Advocate, a military criminal investigator, a victim/witness liaison, a trial counsel, a healthcare provider, or any other personnel designated by the Secretary concerned for purposes of this subsection.
 
-(2) The assistance of a Special Victims’ Counsel under this subsection shall be available to an individual described in subsection (a)(2) regardless of whether the individual elects unrestricted or restricted reporting of the alleged sex-related offense. The individual shall also be informed that the assistance of a Special Victims’ Counsel may be declined, in whole or in part, but that declining such assistance does not preclude the individual from subsequently requesting the assistance of a Special Victims’ Counsel.
+(2) Subject to such exceptions for exigent circumstances as the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating may prescribe, notice of the availability of a Special Victims’ Counsel shall be provided to an individual described in subsection (a)(2) before any military criminal investigator or trial counsel interviews, or requests any statement from, the individual regarding the alleged sex-related offense.
+
+(3) The assistance of a Special Victims’ Counsel under this subsection shall be available to an individual described in subsection (a)(2) regardless of whether the individual elects unrestricted or restricted reporting of the alleged sex-related offense. The individual shall also be informed that the assistance of a Special Victims’ Counsel may be declined, in whole or in part, but that declining such assistance does not preclude the individual from subsequently requesting the assistance of a Special Victims’ Counsel.
 
 **(g) Alleged Sex-related Offense Defined.—** In this section, the term “alleged sex-related offense” means any allegation of—
 
@@ -1131,6 +1249,16 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (a)(2)(C). Pub. L. 114–92, § 532, added subpar. (C).
+
+Subsec. (b)(9), (10). Pub. L. 114–92, § 533, added par. (9) and redesignated former par. (9) as (10).
+
+Subsec. (d). Pub. L. 114–92, § 535(a), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+
+Subsec. (e)(3). Pub. L. 114–92, § 535(b), added par. (3).
+
+Subsec. (f)(2), (3). Pub. L. 114–92, § 534(a), added par. (2) and redesignated former par. (2) as (3).
+
 2014—Subsec. (a). Pub. L. 113–291, § 533(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary concerned shall designate legal counsel (to be known as ‘Special Victims’ Counsel’) for the purpose of providing legal assistance to an individual eligible for military legal assistance under [section 1044 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044) who is the victim of an alleged sex-related offense, regardless of whether the report of that offense is restricted or unrestricted.”
 
 Subsec. (b)(4). Pub. L. 113–291, § 531(c)(1), substituted “the United States” for “the Department of Defense”.
@@ -1143,7 +1271,7 @@ Subsec. (e)(1). Pub. L. 113–291, § 531(c)(3), inserted “concerned” after 
 
 Subsec. (f). Pub. L. 113–291, § 533(b), substituted “described in subsection (a)(2)” for “eligible for military legal assistance under [section 1044 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044)” in pars. (1) and (2).
 
-#### Enhancement of Victims’ Rights in Connection With Prosecution of Certain Sex-related Offenses
+#### Enhancement of Victims’ Rights in Connection With Prosecution of Certain Sex-Related Offenses
 Pub. L. 113–291, div. A, title V, § 534(b)–(e), Dec. 19, 2014, 128 Stat. 3367, 3368, provided that: “(b) Consultation Regarding Victim’s Preference in Prosecution Venue.—“(1) Consultation process required.—The Secretary of Defense shall establish a process to ensure consultation with the victim of an alleged sex-related offense that occurs in the United States to solicit the victim’s preference regarding whether the offense should be prosecuted by court-martial or in a civilian court with jurisdiction over the offense. “(2) Convening authority consideration of preference.—The preference expressed by the victim of an alleged sex-related offense under paragraph (1) regarding the prosecution of the offense, while not binding, should be considered by the convening authority in making the determination regarding whether to refer the charge or specification for the offense to a court-martial for trial. “(3) Notice to appropriate jurisdiction of victim’s preference for civilian prosecution.—If the victim of an alleged sex-related offense expresses a preference under paragraph (1) for prosecution of the offense in a civilian court, the convening authority described in paragraph (2) shall ensure that the civilian authority with jurisdiction over the offense is notified of the victim’s preference for civilian prosecution. “(4) Notice to victim of status of civilian prosecution when victim expresses preference for civilian prosecution.—Following notification of the civilian authority with jurisdiction over an alleged sex-related offense of the preference of the victim of the offense for prosecution of the offense in a civilian court, the convening authority shall be responsible for notifying the victim if the convening authority learns of any decision by the civilian authority to prosecute or not prosecute the offence in a civilian court. “(c) Modification of Manual for Courts-Martial.—Not later than 180 days after the date of the enactment of this Act [Dec. 19, 2014], Part III of the Manual for Courts-Martial shall be modified to provide that when a victim of an alleged sex-related offense has a right to be heard in connection with the prosecution of the alleged sex-related such offense, the victim may exercise that right through counsel, including through a Special Victims’ Counsel under [section 1044e of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044e), United States Code (as amended by subsection (a)). “(d) Notice to Counsel on Scheduling of Proceedings.—The Secretary concerned shall establish policies and procedures designed to ensure that any counsel of the victim of an alleged sex-related offense, including a Special Victims’ Counsel under [section 1044e of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044e), United States Code (as amended by subsection (a)), is provided prompt and adequate notice of the scheduling of any hearing, trial, or other proceeding in connection with the prosecution of such offense in order to permit such counsel the opportunity to prepare for such proceeding. “(e) Definitions.—In this section:“(1) The term ‘alleged sex-related offense’ has the meaning given that term in [section 1044e(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1044e/g&num=0&edition=prelim), United States Code. “(2) The term ‘Secretary concerned’ has the meaning given that term in section 101(a)(9) of such title.”
 
 #### Implementation
@@ -1593,11 +1721,11 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 
 <a id="section-1050"></a>
-## § 1050. Latin American cooperation: payment of personnel expenses
-
-The Secretary of Defense or the Secretary of a military department may pay the travel, subsistence, and special compensation of officers and students of Latin American countries and other expenses that the Secretary considers necessary for Latin American cooperation.
+## § 1050. Repealed. Pub. L. 114–328, div. A, title XII, § 1243(b)(1), Dec. 23, 2016, 130 Stat. 2516]
 
 ### Statutory Notes
+
+Section 1050, added Pub. L. 98–525, title XIV, § 1401(d)(1), Oct. 19, 1984, 98 Stat. 2616; amended Pub. L. 105–261, div. A, title IX, § 905(b), Oct. 17, 1998, 112 Stat. 2093, related to the payment of personnel expenses for Latin American cooperation.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following appropriation acts:
@@ -1688,201 +1816,35 @@ July 1, 1943, ch. 185, § 1, 57 Stat. 365.
 
 July 2, 1942, ch. 477, § 1, 56 Stat. 628.
 
-#### Amendments
-1998—Pub. L. 105–261 inserted “Secretary of Defense or the” before “Secretary of a military department”.
-
-#### Effective Date
-Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under [section 520b of this title](./chapter-031-enlistments.md#section-520b).
+#### Savings Provision for Fiscal Year 2017
+Pub. L. 114–328, div. A, title XII, § 1243(c), Dec. 23, 2016, 130 Stat. 2516, provided that: “The authority under [section 1050 of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1050), United States Code, as in effect on the day before the date of the enactment of this Act [Dec. 23, 2016], shall continue to apply with respect to the Inter-American Defense College during fiscal year 2017 under regulations prescribed by the Secretary of Defense.”
 
 
-<a id="section-1050a"></a>
-## § 1050a. African cooperation: payment of personnel expenses
-
-The Secretary of Defense or the Secretary of a military department may pay the travel, subsistence, and special compensation of officers and students of African countries and other expenses that the Secretary considers necessary for African cooperation.
-
-
-<a id="section-1051"></a>
-## § 1051. Multilateral, bilateral, or regional cooperation programs: payment of personnel expenses
-**(a)** The Secretary of Defense may pay the travel, subsistence, and similar personal expenses of defense personnel of developing countries in connection with the attendance of such personnel at a multilateral, bilateral, or regional conference, seminar, or similar meeting if the Secretary determines that the attendance of such personnel at such conference, seminar, or similar meeting is in the national security interests of the United States.
-
-**(b)**
-
-(1) Except as provided in paragraphs (2) and (3), expenses authorized to be paid under subsection (a) may be paid on behalf of personnel from a developing country only in connection with travel to, from, and within the area of responsibility of the unified combatant command (as such term is defined in [section 161(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section161/c&num=0&edition=prelim)) in which the multilateral, bilateral, or regional conference, seminar, or similar meeting for which expenses are authorized is located or in connection with travel to Canada or Mexico.
-
-(2) In a case in which the headquarters of a unified combatant command is located within the United States, expenses authorized to be paid under subsection (a) may be paid in connection with travel of personnel to the United States to attend a multilateral, bilateral, or regional conference, seminar, or similar meeting.
-
-(3) In the case of defense personnel of a developing country that is not a member of the North Atlantic Treaty Organization and that is participating in the Partnership for Peace program of the North Atlantic Treaty Organization (NATO), expenses authorized to be paid under subsection (a) may be paid in connection with travel of personnel to the territory of any of the countries participating in the Partnership for Peace program or the territory of any NATO member country.
-
-(4) Expenses authorized to be paid under subsection (a) may not, in the case of any individual, exceed the amount that would be paid under chapter 7 of title 37 to a member of the armed forces of the United States (of a comparable grade) for authorized travel of a similar nature.
-
-**(c)** In addition to the expenses authorized to be paid under subsection (a), the Secretary of Defense may pay such other expenses in connection with any such conference, seminar, or similar meeting as the Secretary considers in the national security interests of the United States.
-
-**(d)** The authority to pay expenses under this section is in addition to the authority to pay certain expenses and compensation of officers and students of Latin American countries under [section 1050 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1050).
-
-**(e)** Funds available to carry out this section shall be available, to the extent provided in appropriations Acts, for programs and activities under this section that begin in a fiscal year and end in the following fiscal year.
+<a id="section-1050a-to-1051a"></a>
+## § 1050a to 1051a. Repealed. Pub. L. 114–328, div. A, title XII, § 1243(b)(1), Dec. 23, 2016, 130 Stat. 2516]
 
 ### Statutory Notes
 
-#### Codification
-Another section 1051 was renumbered [section 1032 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1032).
+Section 1050a, added Pub. L. 111–383, div. A, title XII, § 1204(a), Jan. 7, 2011, 124 Stat. 4386, related to the payment of personnel expenses for African cooperation.
 
-#### Amendments
-2008—Pub. L. 110–417, in section catchline substituted “Multilateral, bilateral, or regional” for “Bilateral or regional”, in subsec. (a) substituted “a multilateral, bilateral,” for “a bilateral”, in subsec. (b)(1) substituted “to, from, and” for “to and” and “multilateral, bilateral,” for “bilateral”, in subsec. (b)(2) substituted “multilateral, bilateral,” for “bilateral”, and added subsec. (e).
+Section 1051, added Pub. L. 99–661, div. A, title XIII, § 1322(a), Nov. 14, 1986, 100 Stat. 3989; amended Pub. L. 101–189, div. A, title IX, § 936, Nov. 29, 1989, 103 Stat. 1538; Pub. L. 101–510, div. A, title XIII, § 1301(5), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–484, div. A, title XIII, § 1362, Oct. 23, 1992, 106 Stat. 2560; Pub. L. 107–314, div. A, title XII, § 1202(a), Dec. 2, 2002, 116 Stat. 2663; Pub. L. 109–163, div. A, title XII, § 1203, Jan. 6, 2006, 119 Stat. 3456; Pub. L. 110–417, [div. A], title XII, § 1231(a), (b)(1), (c)(1), Oct. 14, 2008, 122 Stat. 4636, 4637, related to the payment of expenses for multilateral, bilateral, or regional cooperation programs.
 
-2006—Subsec. (b)(1). Pub. L. 109–163 inserted “to and” after “in connection with travel” and substituted “in which the bilateral or regional conference, seminar, or similar meeting for which expenses are authorized is located” for “in which the developing country is located”.
-
-2002—Subsec. (b)(1). Pub. L. 107–314, § 1202(a)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
-
-Subsec. (b)(3), (4). Pub. L. 107–314, § 1202(a)(2), (3), added par. (3) and redesignated former par. (3) as (4).
-
-1992—Subsec. (e). Pub. L. 102–484 struck out subsec. (e) which read as follows: “The authority of the Secretary of Defense under this section shall expire on September 30, 1992.”
-
-1990—Subsecs. (e) to (g). Pub. L. 101–510 redesignated subsec. (g) as (e) and struck out former subsecs. (e) and (f) which read as follows:
-
-“(e) Not later than March 1 each year, the Secretary of Defense shall submit to Congress a report containing—
-
-“(1) a list of the developing countries for which expenses have been paid under this section during the preceding fiscal year; and
-
-“(2) the amount paid by the United States in the case of each such country.
-
-“(f) During each of fiscal years 1987, 1988, and 1989, not more than $800,000 may be obligated or expended under this section.”
-
-1989—Subsec. (b)(1). Pub. L. 101–189, § 936(a), inserted before period at end “or in connection with travel to Canada or Mexico”.
-
-Subsec. (g). Pub. L. 101–189, § 936(b), substituted “1992” for “1989”.
-
-#### Effective Date of 2008 Amendment
-Pub. L. 110–417, [div. A], title XII, § 1231(b)(2), Oct. 14, 2008, 122 Stat. 4637, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on October 1, 2008, and shall apply with respect to programs and activities under [section 1051 of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1051), United States Code, as so amended, that begin on or after that date.”
-
-#### Effective Date of 2002 Amendment
-Pub. L. 107–314, div. A, title XII, § 1202(b), Dec. 2, 2002, 116 Stat. 2663, provided that: “The amendments made by subsection (a) [amending this section] shall apply only with respect to travel performed on or after the date of the enactment of this Act [Dec. 2, 2002].”
+Section 1051a, added Pub. L. 107–314, div. A, title XII, § 1201(a)(1), Dec. 2, 2002, 116 Stat. 2662; amended Pub. L. 109–13, div. A, title I, § 1010, May 11, 2005, 119 Stat. 244; Pub. L. 109–163, div. A, title XII, § 1205, Jan. 6, 2006, 119 Stat. 3456; Pub. L. 110–181, div. A, title XII, § 1203(a)–(e)(1), Jan. 28, 2008, 122 Stat. 364, 365; Pub. L. 111–84, div. A, title XII, § 1205(a), Oct. 28, 2009, 123 Stat. 2514; Pub. L. 113–291, div. A, title XII, § 1203, Dec. 19, 2014, 128 Stat. 3530, related to the payment of travel, subsistence, medical care, and other personal expenses and the provision of administrative services and support to liaison officers of certain foreign nations.
 
 #### Air Force Scholarships for Partnership for Peace Nations To Participate in the Euro-NATO Joint Jet Pilot Training Program
-Pub. L. 111–383, div. A, title XII, § 1206, Jan. 7, 2011, 124 Stat. 4387, provided that: “(a) Establishment of Scholarship Program.—The Secretary of the Air Force may establish and maintain a demonstration scholarship program to allow personnel of the air forces of countries that are signatories of the Partnership for Peace Framework Document to receive undergraduate pilot training and necessary related training through the Euro-NATO Joint Jet Pilot Training (ENJJPT) program. The Secretary of the Air Force shall establish the program pursuant to regulations prescribed by the Secretary of Defense in consultation with the Secretary of State. “(b) Transportation, Supplies, and Allowance.—Under such conditions as the Secretary of the Air Force may prescribe, the Secretary may provide to a person receiving a scholarship under the scholarship program—“(1) transportation incident to the training received under the ENJJPT program; “(2) supplies and equipment to be used during the training; “(3) flight clothing and other special clothing required for the training; “(4) billeting, food, and health services; and “(5) a living allowance at a rate to be prescribed by the Secretary, taking into account the amount of living allowances authorized for a member of the Armed Forces of the United States under similar circumstances. “(c) Relation to Euro-NATO Joint Jet Pilot Training Program.—“(1) Enjjpt steering committee authority.—Nothing in this section shall be construed or interpreted to supersede the authority of the ENJJPT Steering Committee under the ENJJPT Memorandum of Understanding. Pursuant to the ENJJPT Memorandum of Understanding, the ENJJPT Steering Committee may resolve to forbid any airman or airmen from a Partnership for Peace nation to participate in the Euro-NATO Joint Jet Pilot Training program under the authority of a scholarship under this section. “(2) No representation.—Countries whose air force personnel receive scholarships under the scholarship program shall not have privilege of ENJJPT Steering Committee representation. “(d) Limitation on Eligible Countries.—The Secretary of the Air Force may not use the authority in subsection (a) to provide assistance described in subsection (b) to any foreign country that is otherwise prohibited from receiving such type of assistance under the Foreign Assistance Act of 1961 ([22 U.S.C. 2151](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) et seq.) or any other provision of law. “(e) Cost-sharing.—For purposes of ENJJPT cost-sharing, personnel of an air force of a foreign country who receive a scholarship under the scholarship program may be counted as United States pilots. “(f) Progress Report.—Not later than February 1, 2012, the Secretary of the Air Force shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate a report on the status of the demonstration program, including the opinion of the Secretary and NATO allies on the benefits of the program and whether or not to permanently authorize the program or extend the program beyond fiscal year 2012. The report shall specify the following:“(1) The countries participating in the scholarship program. “(2) The total number of foreign pilots who received scholarships under the scholarship program. “(3) The amount expended on scholarships under the scholarship program. “(4) The source of funding for scholarships under the scholarship program. “(g) Duration.—No scholarship may be awarded under the scholarship program after September 30, 2012. “(h) Funding Source.—Amounts to award scholarships under the scholarship program shall be derived from amounts authorized to be appropriated for operation and maintenance for the Air Force.”
-
-
-<a id="section-1051a"></a>
-## § 1051a. Liaison officers of certain foreign nations; administrative services and support; travel, subsistence, medical care, and other personal expenses
-**(a) Authority.—** Subject to subsection (d), the Secretary of Defense may provide administrative services and support for the performance of duties by a liaison officer of another nation while the liaison officer is assigned temporarily as follows:
-
-(1) To the headquarters of a combatant command, component command, or subordinate operational command of the United States.
-
-(2) To the Joint Staff.
-
-**(b) Travel, Subsistence, and Medical Care Expenses.—**
-
-(1) The Secretary may pay the expenses specified in paragraph (2) of a liaison officer of a developing country in connection with the assignment of that officer as described in subsection (a), if the assignment is requested by the commander of the combatant command or by the Chairman of the Joint Chiefs of Staff, as appropriate.
-
-(2) Expenses of a liaison officer that may be paid under paragraph (1) in connection with an assignment described in that paragraph are the following:
-
-  (A) Travel and subsistence expenses.
-
-  (B) Personal expenses directly necessary to carry out the duties of that officer in connection with that assignment.
-
-  (C) Expenses for medical care at a civilian medical facility if—
-
-    (i) adequate medical care is not available to the liaison officer at a local military medical treatment facility;
-
-    (ii) the Secretary determines that payment of such medical expenses is necessary and in the best interests of the United States; and
-
-    (iii) medical care is not otherwise available to the liaison officer pursuant to any treaty or other international agreement.
-
-(3) The Secretary may pay the mission-related travel expenses of a liaison officer described in subsection (a) if such travel meets each of the following conditions:
-
-  (A) The travel is in support of the national interests of the United States.
-
-  (B) The commander of the relevant combatant command or the Chairman of the Joint Chiefs of Staff, as applicable, directs round-trip travel from the assigned location to one or more travel locations.
-
-**(c) Reimbursement.—** The Secretary may provide the services and support authorized by subsection (a) and the expenses authorized by subsection (b) with or without reimbursement from (or on behalf of) the recipients. The terms of reimbursement shall be specified in the appropriate agreement used to assign the liaison officer to a combatant command or to the Joint Staff.
-
-**(d) Limitation and Oversight.—**
-
-(1) The amount of unreimbursed support for any liaison officer supported under subsection (b)(1) in any fiscal year may not exceed $200,000 (in fiscal year 2014 constant dollars).
-
-(2) The Chairman of the Joint Chiefs of Staff shall be responsible for implementing the authority under this section.
-
-**(e) Secretary of State Coordination.—** The authority of the Secretary of Defense to provide administrative services and support under subsection (a) for the performance of duties by a liaison officer of another nation may be exercised only with respect to a liaison officer of another nation whose assignment as described in that subsection is accepted by the Secretary of Defense with the coordination of the Secretary of State.
-
-**(f) Definition.—** In this section, the term “administrative services and support” includes base or installation support services, office space, utilities, copying services, fire and police protection, training programs conducted to familiarize, orient, or certify liaison personnel regarding unique aspects of the assignments of the liaison personnel, and computer support.
-
-### Statutory Notes
-
-#### Amendments
-2014—Subsec. (a). Pub. L. 113–291, § 1203(a)(1), in introductory provisions, substituted “Subject to subsection (d), the Secretary of Defense” for “The Secretary of Defense” and struck out “involved in a military operation with the United States” after “another nation”.
-
-Subsec. (a)(1). Pub. L. 113–291, § 1203(a)(2), struck out “in connection with the planning for, or conduct of, a military operation” before period at end.
-
-Subsec. (a)(2). Pub. L. 113–291, § 1203(a)(3), substituted “To the Joint Staff.” for “To the headquarters of the combatant command assigned by the Secretary of Defense the mission of joint warfighting experimentation and joint forces training.”
-
-Subsec. (b)(1). Pub. L. 113–291, § 1203(b)(1), struck out “to the headquarters of a combatant command” after “that officer” and inserted “or by the Chairman of the Joint Chiefs of Staff, as appropriate” before period at end.
-
-Subsec. (b)(3). Pub. L. 113–291, § 1203(b)(2), substituted “if such travel meets each of the following conditions:” for “if such travel is in support of the national interests of the United States and the commander of the headquarters to which the liaison officer is temporarily assigned directs round-trip travel from the assigned headquarters to one or more locations.” and added subpars. (A) and (B).
-
-Subsec. (c). Pub. L. 113–291, § 1203(c), substituted “The” for “To the extent that the Secretary determines appropriate, the” and inserted at end “The terms of reimbursement shall be specified in the appropriate agreement used to assign the liaison officer to a combatant command or to the Joint Staff.”
-
-Subsecs. (d), (e). Pub. L. 113–291, § 1203(d)(2), (e), added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
-
-Subsec. (f). Pub. L. 113–291, § 1203(d)(1), (f), redesignated subsec. (d) as (f) and inserted “training programs conducted to familiarize, orient, or certify liaison personnel regarding unique aspects of the assignments of the liaison personnel,” after “police protection,”.
-
-2009—Subsec. (a). Pub. L. 111–84 substituted “assigned temporarily as follows:” for “assigned temporarily”, designated remainder of existing provisions as par. (1) and realigned margins, substituted “To the headquarters” for “to the headquarters”, and added par. (2).
-
-2008—Pub. L. 110–181, § 1203(e)(1), amended section catchline generally, substituting “Liaison officers of certain foreign nations; administrative services and support; travel, subsistence, medical care, and other personal expenses” for “Coalition liaison officers: administrative services and support; travel, subsistence, and other personal expenses”.
-
-Subsec. (a). Pub. L. 110–181, § 1203(a), substituted “involved in a military operation” for “involved in a coalition” and “military operation” for “coalition operation”.
-
-Subsec. (b). Pub. L. 110–181, § 1203(b)(1), substituted “, Subsistence, and Medical Care” for “and Subsistence” in heading.
-
-Subsec. (b)(2)(C). Pub. L. 110–181, § 1203(b)(2), added subpar. (C).
-
-Subsec. (b)(3). Pub. L. 110–181, § 1203(b)(3), added par. (3).
-
-Subsec. (d). Pub. L. 110–181, § 1203(c), substituted “Definition” for “Definitions” in heading, redesignated par. (1) as subsec. (d), and struck out par. (2) which read as follows: “The term “coalition” means an ad hoc arrangement between or among the United States and one or more other nations for common action.”
-
-Subsec. (e). Pub. L. 110–181, § 1203(d), struck out heading and text of subsec. (e). Text read as follows: “The authority under this section shall expire on September 30, 2007.”
-
-2006—Subsec. (e). Pub. L. 109–163, which directed amendment of subsec. (e) by substituting “September 30, 2007” for “September 30, 2005”, was executed by making the substitution for “December 31, 2005”, to reflect the probable intent of Congress and the amendment by Pub. L. 109–13. See note below.
-
-2005—Subsec. (e). Pub. L. 109–13 substituted “December 31, 2005” for “September 30, 2005”.
-
-#### Effective Date of 2009 Amendment
-Pub. L. 111–84, div. A, title XII, § 1205(b), Oct. 28, 2009, 123 Stat. 2514, provided that: “Paragraph (2) of [section 1051a(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1051a/a&num=0&edition=prelim), United States Code (as added by subsection (a)), shall take effect on October 1, 2009, or the date of the enactment of this Act [Oct. 28, 2009], whichever is later.”
-
-#### GAO Report
-Pub. L. 107–314, div. A, title XII, § 1201(b), Dec. 2, 2002, 116 Stat. 2663, directed the Comptroller General to submit to committees of Congress a report providing an assessment of the implementation of this section not later than Mar. 1, 2005.
+Pub. L. 111–383, div. A, title XII, § 1206, Jan. 7, 2011, 124 Stat. 4387, permitted the Secretary of the Air Force to establish and maintain a demonstration scholarship program, until Sept. 30, 2012, to allow personnel of the air forces of countries that are signatories of the Partnership for Peace Framework Document to receive undergraduate pilot training and necessary related training through the Euro-NATO Joint Jet Pilot Training (ENJJPT) program.
 
 
 <a id="section-1051b"></a>
-## § 1051b. Bilateral or regional cooperation programs: awards and mementos to recognize superior noncombat achievements or performance
-**(a) General Authority.—** The Secretary of Defense may present awards and mementos purchased with funds appropriated for operation and maintenance of the armed forces to recognize superior noncombat achievements or performance by members of friendly foreign forces and other foreign nationals that significantly enhance or support the National Security Strategy of the United States.
-
-**(b) Activities That May Be Recognized.—** Activities that may be recognized under subsection (a) include superior achievement or performance that—
-
-(1) plays a crucial role in shaping the international security environment in ways that protect and promote United States interests;
-
-(2) supports or enhances United States overseas presence and peacetime engagement activities, including defense cooperation initiatives, security assistance training and programs, and training and exercises with the armed forces;
-
-(3) helps to deter aggression and coercion, build coalitions, and promote regional stability; or
-
-(4) serves as a role model for appropriate conduct by military forces in emerging democracies.
-
-**(c) Limitation.—** Expenditures for the purchase or production of mementos for award under this section may not exceed the minimal value in effect under [section 7342(a)(5) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7342/a/5&num=0&edition=prelim).
+## § 1051b. Renumbered § 313]
 
 
 <a id="section-1051c"></a>
-## § 1051c. Multilateral, bilateral, or regional cooperation programs: assignments to improve education and training in information security
-**(a) Assignments Authorized; Purpose.—** The Secretary of Defense may authorize the temporary assignment of a member of the military forces of a foreign country to a Department of Defense organization for the purpose of assisting the member to obtain education and training to improve the member’s ability to understand and respond to information security threats, vulnerabilities of information security systems, and the consequences of information security incidents.
+## § 1051c. Repealed. Pub. L. 114–328, div. A, title XII, § 1253(a)(1)(B), Dec. 23, 2016, 130 Stat. 2532]
 
-**(b) Payment of Certain Expenses.—** To facilitate the assignment of a member of a foreign military force to a Department of Defense organization under subsection (a), the Secretary of Defense may pay such expenses in connection with the assignment as the Secretary considers in the national security interests of the United States.
+### Statutory Notes
 
-**(c) Protection of Department Cybersecurity.—** In authorizing the temporary assignment of members of foreign military forces to Department of Defense organizations under subsection (a), the Secretary of Defense shall require the inclusion of adequate safeguards to prevent any compromising of Department information security.
-
-**(d) Multi-year Availability of Funds.—** Funds available to carry out this section shall be available, to the extent provided in appropriations Acts, for programs and activities under this section that begin in a fiscal year and end in the following fiscal year.
-
-**(e) Information Security Defined.—** In this section, the term “information security” refers to—
-
-(1) the confidentiality, integrity, or availability of an information system or the information such system processes, stores, or transmits; and
-
-(2) the security policies, security procedures, or acceptable use policies with respect to an information system.
+Section, added Pub. L. 112–81, div. A, title IX, § 951(a)(1), Dec. 31, 2011, 125 Stat. 1548, related to assignments to improve education and training in information security as part of multilateral, bilateral, or regional cooperation programs.
 
 
 <a id="section-1052"></a>
@@ -2006,7 +1968,7 @@ Pub. L. 99–661, div. A, title VI, § 662(c), Nov. 14, 1986, 100 Stat. 3894, pr
 
 
 <a id="section-1053a"></a>
-## § 1053a. Repealed. Pub. L. 113–66, div. A, title VI, § 621(c)(2)(A), Dec. 26, 2013, 127 Stat. 784
+## § 1053a. Repealed. Pub. L. 113–66, div. A, title VI, § 621(c)(2)(A), Dec. 26, 2013, 127 Stat. 784]
 
 ### Statutory Notes
 

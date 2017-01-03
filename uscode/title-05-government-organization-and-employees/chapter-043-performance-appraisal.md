@@ -315,7 +315,7 @@ For the purpose of this subchapter, “agency”, “senior executive”, and �
 ### Statutory Notes
 
 #### Effective Date
-Subchapter effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b), of Pub. L. 95–454, set out as a note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b), of Pub. L. 95–454, set out as a note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
 
 
 <a id="section-4312"></a>
@@ -356,6 +356,9 @@ Subchapter effective 9 months after Oct. 13, 1978, and congressional review of p
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under [section 3393 of this title](./chapter-033-examination-selection-and-placement.md#section-3393).
 
+#### Effective Date
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b), of Pub. L. 95–454, set out as a note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
+
 
 <a id="section-4313"></a>
 ## § 4313. Criteria for performance appraisals
@@ -376,6 +379,9 @@ Appraisals of performance in the Senior Executive Service shall be based on both
 
 #### Amendments
 1994—Par. (5). Pub. L. 103–424 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “meeting affirmative action goals and achievement of equal employment opportunity requirements.”
+
+#### Effective Date
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b), of Pub. L. 95–454, set out as a note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
 
 
 <a id="section-4314"></a>
@@ -423,8 +429,16 @@ Appraisals of performance in the Senior Executive Service shall be based on both
 #### Amendments
 1995—Subsec. (d). Pub. L. 104–66 struck out subsec. (d) which related to reports to Congress.
 
+#### Effective Date
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b), of Pub. L. 95–454, set out as a note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
+
 
 <a id="section-4315"></a>
 ## § 4315. Regulations
 
 The Office of Personnel Management shall prescribe regulations to carry out the purpose of this subchapter.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b), of Pub. L. 95–454, set out as a note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).

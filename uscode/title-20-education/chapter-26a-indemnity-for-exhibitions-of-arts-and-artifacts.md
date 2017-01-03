@@ -66,7 +66,7 @@ Pub. L. 99–194, title III, § 302(b), Dec. 20, 1985, 99 Stat. 1345, provided t
 ## § 973. Application for indemnity agreements
 **(a) Parties** Any person, nonprofit agency, institution, or government desiring to make an indemnity agreement for eligible items under this chapter shall make application therefor in accordance with such procedures, in such form, and in such manner as the Council shall, by regulation, prescribe.
 
-**(b) Contents** An application under subsection (a) of this section shall—
+**(b) Contents** An application under subsection (a) shall—
 
 (1) describe each item to be covered by the agreement (including an estimated value of such item);
 

@@ -131,14 +131,14 @@ William J. Clinton.
 
 (2) to accept and use money, funds, property, and services of any kind made available by gift, devise, bequest, grant, or otherwise for such purposes.
 
-**(b) Performance of functions without regard to specified provisions of law** Whenever the President determines it to be in furtherance of the purposes of this chapter, the functions authorized under this chapter may be performed without regard to such provisions of law (other than the Renegotiation Act of 1951), as amended [50 U.S.C. App. 1211 et seq.], regulating the making, performance, amendment, or modification of contracts and the expenditure of funds of the United States Government as the President may specify.
+**(b) Performance of functions without regard to specified provisions of law** Whenever the President determines it to be in furtherance of the purposes of this chapter, the functions authorized under this chapter may be performed without regard to such provisions of law (other than the Renegotiation Act of 1951), as amended, regulating the making, performance, amendment, or modification of contracts and the expenditure of funds of the United States Government as the President may specify.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–510, June 28, 1962, 76 Stat. 121, as amended, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended [section 1104 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1104&num=0&edition=prelim), Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under [section 2601 of this title](./chapter-036-migration-and-refugee-assistance.md#section-2601), and amended a provision set out as a note under [section 1182 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title](./chapter-036-migration-and-refugee-assistance.md#section-2601) and Tables.
 
-The Renegotiation Act of 1951, as amended, referred to in subsec. (b), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of Title 50, Appendix, War and National Defense, prior to its omission from the Code. See Codification note preceding [section 1211 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1211&num=0&edition=prelim), Appendix.
+The Renegotiation Act of 1951, as amended, referred to in subsec. (b), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
 
 
 <a id="section-2603"></a>

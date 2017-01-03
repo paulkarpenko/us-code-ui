@@ -66,7 +66,7 @@ Par. (3). Pub. L. 102–83, § 4(a)(1), substituted “laws administered by the 
 
 Par. (4). Pub. L. 102–127 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The term ‘eligible veteran’ means a person who (A) served on active duty for a period of more than 180 days and was discharged or released therefrom with other than a dishonorable discharge, or (B) was discharged or released from active duty because of a service-connected disability.”
 
-1989—Par. (2)(B). Pub. L. 101–237 inserted before period at end “except for purposes of [section 2014 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2014&num=0&edition=prelim)”.
+1989—Par. (2)(B). Pub. L. 101–237 inserted before period at end “except for purposes of [section 2014 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2014)”.
 
 1984—Par. (1). Pub. L. 98–223 expanded term “special disabled veteran” to include a veteran with a disability rated at 10 to 20 percent in the case of a veteran who has been determined under [section 1506 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1506) to have a serious employment handicap.
 
@@ -303,7 +303,7 @@ Pub. L. 102–54 substituted “the Job Training Partnership Act ([29 U.S.C. 150
 1980—Pub. L. 96–466 substituted “Federal employment and” for “certain Federal manpower” in section catchline, and substituted “an eligible veteran” for “a veteran (as defined in [section 101(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/2&num=0&edition=prelim)) who served on active duty for a period of more than 180 days or was discharged or released from active duty for a service-connected disability” and “any employment or training program assisted under the Comprehensive Employment and Training Act, or any other employment or” for “any manpower training program assisted under the Manpower Development and Training Act of 1962, or any other man­power” in text.
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Effective Date of 1998 Amendment
 Amendment by section 101(f) [title VIII, § 405(d)(29)(C)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(21)(C)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under [section 3502 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3502&num=0&edition=prelim), Government Organization and Employees.
@@ -415,7 +415,7 @@ Subsec. (b)(3)(A)(ii). Pub. L. 102–568, § 505(b)(1), substituted “1995” f
 
 Subsec. (b)(3)(B)(ii). Pub. L. 102–568, § 505(b)(2), substituted “December 31” for “December 18”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered [section 2014 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2014&num=0&edition=prelim) as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered [section 2014 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2014) as this section.
 
 Subsec. (a)(1). Pub. L. 102–16, § 9(a), substituted “The United States has an obligation to assist veterans of the Armed Forces in readjusting to civilian life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers. The Federal Government is also continuously concerned with building an effective work force, and veterans constitute a major recruiting source. It is, therefore, the policy of the United States” for “It is the policy of the United States” and “disabled veterans and certain veterans of the Vietnam era and of the post-Vietnam era” for “certain veterans of the Vietnam era and veterans of the post-Vietnam era”.
 

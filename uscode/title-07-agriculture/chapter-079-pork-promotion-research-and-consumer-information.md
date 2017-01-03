@@ -116,6 +116,11 @@ For purposes of this chapter:
 
 (17) The term “to market” means to sell or to otherwise dispose of a porcine animal, pork, or pork product in commerce.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under [section 4801 of this title](./chapter-079-pork-promotion-research-and-consumer-information.md#section-4801).
+
 
 <a id="section-4803"></a>
 ## § 4803. Pork and pork product orders
@@ -127,6 +132,11 @@ For purposes of this chapter:
 
 **(b)** The Secretary may issue such regulations as are necessary to carry out this chapter.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under [section 4801 of this title](./chapter-079-pork-promotion-research-and-consumer-information.md#section-4801).
+
 
 <a id="section-4804"></a>
 ## § 4804. Notice and hearing
@@ -136,6 +146,11 @@ During the period beginning on January 1, 1986, and ending 30 days after receipt
 (1) publish such proposed order; and
 
 (2) give due notice of and opportunity for public comment on such proposed order.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under [section 4801 of this title](./chapter-079-pork-promotion-research-and-consumer-information.md#section-4801).
 
 
 <a id="section-4805"></a>
@@ -147,6 +162,11 @@ During the period beginning on January 1, 1986, and ending 30 days after receipt
 **(c) Effective date** An order shall become effective on a date that is not more than 90 days following the publication of such order.
 
 **(d) Terms and conditions** An order shall contain such terms and conditions as are required in sections 4806 through 4809 of this title and, except as provided in [section 4810 of this title](./chapter-079-pork-promotion-research-and-consumer-information.md#section-4810), no others.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under [section 4801 of this title](./chapter-079-pork-promotion-research-and-consumer-information.md#section-4801).
 
 
 <a id="section-4806"></a>
@@ -256,6 +276,11 @@ During the period beginning on January 1, 1986, and ending 30 days after receipt
 
 (2) determine the percentage of the aggregate amount of assessments collected in a State that each State association shall receive under [section 4809(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section4809/c/1&num=0&edition=prelim).
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under [section 4801 of this title](./chapter-079-pork-promotion-research-and-consumer-information.md#section-4801).
+
 
 <a id="section-4807"></a>
 ## § 4807. Selection of Delegate Body
@@ -310,6 +335,11 @@ During the period beginning on January 1, 1986, and ending 30 days after receipt
 (2) Such committee shall nominate producers of such State as candidates to fill the position for which an election is to be held.
 
 (3) Additional producers who are residents of a State may be nominated to fill such positions in accordance with subsection (a)(3).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under [section 4801 of this title](./chapter-079-pork-promotion-research-and-consumer-information.md#section-4801).
 
 
 <a id="section-4808"></a>
@@ -385,6 +415,11 @@ During the period beginning on January 1, 1986, and ending 30 days after receipt
         (bb) an accounting for funds received and expended under such contract; and
 
       (III) make such other reports as the Secretary or Board may require.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under [section 4801 of this title](./chapter-079-pork-promotion-research-and-consumer-information.md#section-4801).
 
 
 <a id="section-4809"></a>
@@ -521,6 +556,9 @@ This chapter, referred to in subsec. (c)(3)(B)(i), (iv), was in the original “
 #### Amendments
 1986—Subsecs. (c)(2)(A), (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
+#### Effective Date
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under [section 4801 of this title](./chapter-079-pork-promotion-research-and-consumer-information.md#section-4801).
+
 
 <a id="section-4810"></a>
 ## § 4810. Permissive provisions
@@ -569,6 +607,11 @@ This chapter, referred to in subsec. (c)(3)(B)(i), (iv), was in the original “
 
 (2) if such person is an employee of the Department of Agriculture or the Board, removed from office.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under [section 4801 of this title](./chapter-079-pork-promotion-research-and-consumer-information.md#section-4801).
+
 
 <a id="section-4811"></a>
 ## § 4811. Referendum
@@ -589,6 +632,11 @@ This chapter, referred to in subsec. (c)(3)(B)(i), (iv), was in the original “
 **(d) Manner of conducting** A referendum shall be conducted in such manner as prescribed by the Secretary.
 
 **(e) Amendment of initial order** A referendum to amend the initial order shall be conducted pursuant to this section.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under [section 4801 of this title](./chapter-079-pork-promotion-research-and-consumer-information.md#section-4801).
 
 
 <a id="section-4812"></a>
@@ -611,6 +659,11 @@ This chapter, referred to in subsec. (c)(3)(B)(i), (iv), was in the original “
 
 **(c) Termination or suspension not to be considered an order** The termination or suspension of an order, or a provision of an order, shall not be considered an order within the meaning of this chapter.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under [section 4801 of this title](./chapter-079-pork-promotion-research-and-consumer-information.md#section-4801).
+
 
 <a id="section-4813"></a>
 ## § 4813. Refunds
@@ -627,6 +680,11 @@ This chapter, referred to in subsec. (c)(3)(B)(i), (iv), was in the original “
 (1) paid the assessment for which refund is sought; and
 
 (2) did not collect such assessment from another producer, person, or importer.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under [section 4801 of this title](./chapter-079-pork-promotion-research-and-consumer-information.md#section-4801).
 
 
 <a id="section-4814"></a>
@@ -654,6 +712,11 @@ This chapter, referred to in subsec. (c)(3)(B)(i), (iv), was in the original “
   (A) make such ruling as the court shall determine to be in accordance with law; or
 
   (B) take such further proceedings as, in the opinion of the court, the law requires.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under [section 4801 of this title](./chapter-079-pork-promotion-research-and-consumer-information.md#section-4801).
 
 
 <a id="section-4815"></a>
@@ -708,6 +771,11 @@ This chapter, referred to in subsec. (c)(3)(B)(i), (iv), was in the original “
 
 **(c) Availability of additional remedies** The remedies provided in subsections (a) and (b) shall be in addition to, and not exclusive of, other remedies that may be available.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under [section 4801 of this title](./chapter-079-pork-promotion-research-and-consumer-information.md#section-4801).
+
 
 <a id="section-4816"></a>
 ## § 4816. Investigations
@@ -733,6 +801,11 @@ This chapter, referred to in subsec. (c)(3)(B)(i), (iv), was in the original “
 
 (4) Process in such case may be served in the judicial district in which such person is an inhabitant or wherever such person may be found.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under [section 4801 of this title](./chapter-079-pork-promotion-research-and-consumer-information.md#section-4801).
+
 
 <a id="section-4817"></a>
 ## § 4817. Preemption
@@ -746,11 +819,21 @@ This chapter, referred to in subsec. (c)(3)(B)(i), (iv), was in the original “
 
 **(c) Application of section** This section shall apply only during a period beginning on the date of the commencement of the collection of assessments under [section 4809 of this title](./chapter-079-pork-promotion-research-and-consumer-information.md#section-4809) and ending on the date of the termination of the collection of assessments under section 4811(a)(3) or 4811(b)(1)(B) 11 So in original. Probably should be “section 4811(b)(2)(A) or 4812(b)(1)(B)”. of this title.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under [section 4801 of this title](./chapter-079-pork-promotion-research-and-consumer-information.md#section-4801).
+
 
 <a id="section-4818"></a>
 ## § 4818. Administrative provision
 
 The provisions of this chapter applicable to orders shall be applicable to amendments to orders.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under [section 4801 of this title](./chapter-079-pork-promotion-research-and-consumer-information.md#section-4801).
 
 
 <a id="section-4819"></a>
@@ -758,3 +841,8 @@ The provisions of this chapter applicable to orders shall be applicable to amend
 **(a)** There are authorized to be appropriated such sums as may be necessary for the Secretary to carry out this chapter, subject to reimbursement from the Board under [section 4809(c)(3)(B)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section4809/c/3/B/iv&num=0&edition=prelim).
 
 **(b)** Sums appropriated to carry out this chapter shall not be available for payment of an expense or expenditure incurred by the Board in administering an order.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1986, see section 1631 of Pub. L. 99–198, set out as a note under [section 4801 of this title](./chapter-079-pork-promotion-research-and-consumer-information.md#section-4801).

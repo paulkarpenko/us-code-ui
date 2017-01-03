@@ -87,7 +87,7 @@ The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92�
 ## § 4304. Confidentiality of information concerning nature and location of significant caves
 **(a) In general** Information concerning the specific location of any significant cave may not be made available to the public under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) unless the Secretary determines that disclosure of such information would further the purposes of this chapter and would not create a substantial risk of harm, theft, or destruction of such cave.
 
-**(b) Exceptions** Notwithstanding subsection (a) of this section, the Secretary may make available information regarding significant caves upon the written request by Federal and State governmental agencies or bona fide educational and research institutions. Any such written request shall, at a minimum—
+**(b) Exceptions** Notwithstanding subsection (a), the Secretary may make available information regarding significant caves upon the written request by Federal and State governmental agencies or bona fide educational and research institutions. Any such written request shall, at a minimum—
 
 (1) describe the specific site or area for which information is sought;
 
@@ -127,15 +127,15 @@ The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92�
 ## § 4306. Prohibited acts and criminal penalties
 **(a) Prohibited acts**
 
-(1) Any person who, without prior authorization from the Secretary knowingly destroys, disturbs, defaces, mars, alters, removes or harms any significant cave or alters the free movement of any animal or plant life into or out of any significant cave located on Federal lands, or enters a significant cave with the intention of committing any act described in this paragraph shall be punished in accordance with subsection (b) of this section.
+(1) Any person who, without prior authorization from the Secretary knowingly destroys, disturbs, defaces, mars, alters, removes or harms any significant cave or alters the free movement of any animal or plant life into or out of any significant cave located on Federal lands, or enters a significant cave with the intention of committing any act described in this paragraph shall be punished in accordance with subsection (b).
 
-(2) Any person who possesses, consumes, sells, barters or exchanges, or offers for sale, barter or exchange, any cave resource from a significant cave with knowledge or reason to know that such resource was removed from a significant cave located on Federal lands shall be punished in accordance with subsection (b) of this section.
+(2) Any person who possesses, consumes, sells, barters or exchanges, or offers for sale, barter or exchange, any cave resource from a significant cave with knowledge or reason to know that such resource was removed from a significant cave located on Federal lands shall be punished in accordance with subsection (b).
 
-(3) Any person who counsels, procures, solicits, or employs any other person to violate any provisions of this subsection shall be punished in accordance with section 11 So in original. Probably should be “subsection”. (b) of this section.
+(3) Any person who counsels, procures, solicits, or employs any other person to violate any provisions of this subsection shall be punished in accordance with section 11 So in original. Probably should be “subsection”. (b).
 
 (4) Nothing in this section shall be deemed applicable to any person who was in lawful possession of a cave resource from a significant cave prior to November 18, 1988.
 
-**(b) Punishment** The punishment for violating any provision of subsection (a) of this section shall be imprisonment of not more than one year or a fine in accordance with the applicable provisions of title 18, or both. In the case of a second or subsequent violation, the punishment shall be imprisonment of not more than 3 years or a fine in accordance with the applicable provisions of title 18, or both.
+**(b) Punishment** The punishment for violating any provision of subsection (a) shall be imprisonment of not more than one year or a fine in accordance with the applicable provisions of title 18, or both. In the case of a second or subsequent violation, the punishment shall be imprisonment of not more than 3 years or a fine in accordance with the applicable provisions of title 18, or both.
 
 
 <a id="section-4307"></a>
@@ -150,9 +150,9 @@ The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92�
 
 **(c) Collection** If any person fails to pay an assessment of a civil penalty—
 
-(1) within 30 days after the order was issued under subsection (a) of this section, or
+(1) within 30 days after the order was issued under subsection (a), or
 
-(2) if the order is appealed within such 30-day period, within 10 days after court has entered a final judgment in favor of the Secretary under subsection (b) of this section,
+(2) if the order is appealed within such 30-day period, within 10 days after court has entered a final judgment in favor of the Secretary under subsection (b),
 the Secretary shall notify the Attorney General and the Attorney General shall bring a civil action in an appropriate United States district court to recover the amount of penalty assessed (plus costs, attorney’s fees, and interest at currently prevailing rates from the date the order was issued or the date of such final judgment, as the case may be). In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review.
 
 **(d) Subpoenas** The Secretary may issue subpoenas in connection with proceedings under this subsection compelling the attendance and testimony of witnesses and subpoenas duces tecum, and may request the Attorney General to bring an action to enforce any subpoena under this section. The district courts shall have jurisdiction to enforce such subpoenas and impose sanctions.

@@ -149,10 +149,28 @@ Pub. L. 105–206, title III, § 3462(d), July 22, 1998, 112 Stat. 766, provided
 
   (B) unsuccessful attempts to enter into a closing agreement under section 7121 or a compromise under section 7122.
 
+**(c) Administrative appeal relating to adverse determination of tax-exempt status of certain organizations**
+
+(1) **In general** — The Secretary shall prescribe procedures under which an organization which claims to be described in section 501(c) may request an administrative appeal (including a conference relating to such appeal if requested by the organization) to the Internal Revenue Service Office of Appeals of an adverse determination described in paragraph (2).
+
+(2) **Adverse determinations** — For purposes of paragraph (1), an adverse determination is described in this paragraph if such determination is adverse to an organization with respect to—
+
+  (A) the initial qualification or continuing qualification of the organization as exempt from tax under section 501(a) or as an organization described in section 170(c)(2),
+
+  (B) the initial classification or continuing classification of the organization as a private foundation under section 509(a), or
+
+  (C) the initial classification or continuing classification of the organization as a private operating foundation under section 4942(j)(3).
+
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 7123 was renumbered [section 7124 of this title](./chapter-074-closing-agreements-and-compromises.md#section-7124).
+
+#### Amendments
+2015—Subsec. (c). Pub. L. 114–113 added subsec. (c).
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title IV, § 404(b), Dec. 18, 2015, 129 Stat. 3118, provided that: “The amendment made by subsection (a) [amending this section] shall apply to determinations made on or after May 19, 2014.”
 
 
 <a id="section-7124"></a>

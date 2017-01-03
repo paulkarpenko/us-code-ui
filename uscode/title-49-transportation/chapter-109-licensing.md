@@ -41,7 +41,7 @@ only if the Board issues a certificate authorizing such activity under subsectio
 A prior section 10901, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1402; Pub. L. 96–448, title II, § 221, Oct. 14, 1980, 94 Stat. 1928, related to authorizing construction and operation of railroad lines, prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).
 
 #### Effective Date
-Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).
 
 
 <a id="section-10902"></a>
@@ -143,7 +143,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 #### Railroad Branchline Abandonments by Burlington Northern Railroad in North Dakota
 Pub. L. 97–102, title IV, § 402, Dec. 23, 1981, 95 Stat. 1465, as amended by Pub. L. 102–143, title III, § 343, Oct. 28, 1991, 105 Stat. 948, provided that: “Notwithstanding any other provision of law or of this Act, none of the funds provided in this or any other Act shall hereafter be used by the Interstate Commerce Commission to approve railroad branchline abandonments in the State of North Dakota by the entity generally known as the Burlington Northern Railroad, or its agents or assignees, in excess of a total of 350 miles, except that exempt abandonments and discontinuances that are effectuated pursuant to section 1152.50 of title 49 of the Code of Federal Regulations after the date of enactment of the Department of Transportation and Related Agencies Appropriations Act, 1992 [Oct. 28, 1991], shall not apply toward such 350-mile limit: Provided, That this section shall be in lieu of section 311 (amendment numbered 93) as set forth in the conference report and the joint explanatory statement of the committee of conference on the Department of Transportation and Related Agencies Appropriations Act, 1982 (H.R. 4209), filed in the House of Representatives on November 13, 1981 (H. Rept. No. 97–331).” [Section 311 of H.R. 4209 is section 311 of Pub. L. 97–102, title III, Dec. 23, 1981, 95 Stat. 1460, which is not classified to the Code.] Similar provisions were contained in Pub. L. 97–92, title IV, § 115, Dec. 15, 1981, 95 Stat. 1196.
 
-[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 702 of this title](./chapter-007-surface-transportation-board.md#section-702), and section 101 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).]
+[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of this title](./chapter-013-surface-transportation-board.md#section-1302), and section 101 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 1301 of this title](./chapter-013-surface-transportation-board.md#section-1301).]
 
 
 <a id="section-10904"></a>
@@ -459,7 +459,7 @@ For prior section 10908, see note set out under [section 10907 of this title](./
 
 (2) the Governor of a State in which a facility that is operating as of the date of enactment of the Clean Railroads Act of 2008 is located, or his or her designee, petitions the Board to initiate a permit proceeding for that particular facility.
 
-**(b) Land-Use Exemption Procedures.—** Not later than 90 days after the date of enactment of the Clean Railroad 11 So in original. Probably should be “Railroads”. Act of 2008, the Board shall publish procedures governing the submission and review of applications for solid waste rail transfer facility land-use exemptions. At a minimum, the procedures shall address—
+**(b) Land-Use Exemption Procedures.—** Not later than 90 days after the date of enactment of the Clean Railroads Act of 2008, the Board shall publish procedures governing the submission and review of applications for solid waste rail transfer facility land-use exemptions. At a minimum, the procedures shall address—
 
 (1) the information that each application should contain to explain how the solid waste rail transfer facility will not pose an unreasonable risk to public health, safety, or the environment;
 
@@ -495,7 +495,7 @@ For prior section 10908, see note set out under [section 10907 of this title](./
 
 (7) any other relevant factors, as determined by the Board.
 
-**(e) Existing Facilities.—** Upon the granting of 22 So in original. Probably should be followed by “a”. petition from the State in which a solid waste rail transfer facility is operating as of the date of enactment of the Clean Railroads Act of 2008 by the Board, the facility shall submit a complete application for a siting permit to the Board pursuant to the procedures issued pursuant to subsection (b). No State may enforce a law, regulation, order, or other requirement affecting the siting of a facility that is operating as of the date of enactment of the Clean Railroads Act of 2008 until the Board has approved or denied a permit pursuant to subsection (c).
+**(e) Existing Facilities.—** Upon the granting of a petition from the State in which a solid waste rail transfer facility is operating as of the date of enactment of the Clean Railroads Act of 2008 by the Board, the facility shall submit a complete application for a siting permit to the Board pursuant to the procedures issued pursuant to subsection (b). No State may enforce a law, regulation, order, or other requirement affecting the siting of a facility that is operating as of the date of enactment of the Clean Railroads Act of 2008 until the Board has approved or denied a permit pursuant to subsection (c).
 
 **(f) Effect of Land-Use Exemption.—** If the Board grants a land-use exemption to a solid waste rail transfer facility, all State laws, regulations, orders, or other requirements affecting the siting of a facility are preempted with regard to that facility. An exemption may require compliance with such State laws, regulations, orders, or other requirements.
 
@@ -514,6 +514,14 @@ Public Law 108–421, referred to in subsec. (c)(2), is Pub. L. 108–421, Nov. 
 
 #### Prior Provisions
 For prior section 10909, see note set out under [section 10907 of this title](./chapter-109-licensing.md#section-10907).
+
+#### Amendments
+2015—Subsec. (b). Pub. L. 114–94, § 11316(b)(1), substituted “Clean Railroads Act of 2008” for “Clean Railroad Act of 2008” in introductory provisions.
+
+Subsec. (e). Pub. L. 114–94, § 11316(b)(2), substituted “Upon the granting of a petition from the State” for “Upon the granting of petition from the State”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-10910"></a>

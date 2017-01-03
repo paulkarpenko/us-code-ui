@@ -454,7 +454,7 @@ Subchapter effective on the first day of the first month beginning more than one
 
 (1) Section 5101(c).
 
-(2) Subsections (a), (b)(2),11 See References in Text note below. (g), and (i) of section 5110.
+(2) Subsections (a), (b)(3), (g), and (i) of section 5110.
 
 (3) Section 5111.
 
@@ -462,15 +462,14 @@ Subchapter effective on the first day of the first month beginning more than one
 
 ### Statutory Notes
 
-#### References in Text
-Subsection (b)(2) of [section 5110 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5110), referred to in subsec. (b)(2), was redesignated subsec. (b)(3) by Pub. L. 112–154, title V, § 506(1), Aug. 6, 2012, 126 Stat. 1193.
-
 #### Prior Provisions
 A prior section 1832 was renumbered [section 3732 of this title](./chapter-037-housing-and-small-business-loans.md#section-3732).
 
 Another prior section 1832 was renumbered [section 3733(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3733/d&num=0&edition=prelim).
 
 #### Amendments
+2015—Subsec. (b)(2). Pub. L. 114–58 substituted “(b)(3)” for “(b)(2)”.
+
 2003—Pub. L. 108–183 renumbered [section 1822 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1822&num=0&edition=prelim) as this section.
 
 

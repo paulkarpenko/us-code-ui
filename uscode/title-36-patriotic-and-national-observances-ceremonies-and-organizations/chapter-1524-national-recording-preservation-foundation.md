@@ -40,11 +40,11 @@ The National Recording Preservation Act of 2000, referred to in par. (2), is Pub
 
 (2)
 
-  (A) The board consists of nine directors.
+  (A) The board consists of 12 directors.
 
   (B) Each director shall be a United States citizen.
 
-  (C) At least six directors shall be knowledgeable or experienced in sound recording production, distribution, preservation, or restoration, including two who are sitting members of the National Recording Preservation Board. These six directors shall, to the extent practicable, represent diverse points of view from the sound recording community.
+  (C) At least 8 directors shall be knowledgeable or experienced in sound recording production, distribution, preservation, or restoration, including two who are sitting members of the National Recording Preservation Board. These 8 directors shall, to the extent practicable, represent diverse points of view from the sound recording community.
 
 (3) A director is not an employee of the Library of Congress and appointment to the board does not constitute appointment as an officer or employee of the United States Government for the purpose of any law of the United States.
 
@@ -68,6 +68,10 @@ The National Recording Preservation Act of 2000, referred to in par. (2), is Pub
 The date of the enactment of this chapter, referred to in subsec. (b), is the date of enactment of Pub. L. 106–474, which was approved Nov. 9, 2000.
 
 #### Amendments
+2016—Subsec. (b)(2)(A). Pub. L. 114–217, § 2(b)(2)(A), substituted “12 directors” for “nine directors”.
+
+Subsec. (b)(2)(C). Pub. L. 114–217, § 2(b)(2)(B), substituted “8 directors” for “six directors” in two places.
+
 2008—Subsec. (b)(4). Pub. L. 110–336 struck out at end “An individual may not serve more than two consecutive terms.”
 
 
@@ -183,7 +187,7 @@ The United States Government is not liable for any debts, defaults, acts, or omi
 
 <a id="section-152411"></a>
 ## § 152411. Authorization of appropriations
-**(a) Authorization.—** There are authorized to be appropriated to the corporation for the first fiscal year beginning on or after the date of the enactment of this chapter and each succeeding fiscal year through fiscal year 2016 an amount not to exceed the amount of private contributions (whether in currency, services, or property) made to the corporation by private persons and State and local governments.
+**(a) Authorization.—** There are authorized to be appropriated to the corporation for the first fiscal year beginning on or after the date of the enactment of this chapter and each succeeding fiscal year through fiscal year 2026 an amount not to exceed the lesser of $1,000,000 or the amount of private contributions (whether in currency, services, or property) made to the corporation by private persons and State and local governments.
 
 **(b) Limitation Related to Administrative Expenses.—** Amounts authorized under this section may not be used by the corporation for management and general or fundraising expenses as reported to the Internal Revenue Service as part of an annual information return required under the Internal Revenue Code of 1986.
 
@@ -195,6 +199,8 @@ The date of the enactment of this chapter, referred to in subsec. (a), is the da
 The Internal Revenue Code of 1986, referred to in subsec. (b), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–217 substituted “through fiscal year 2026 an amount not to exceed the lesser of $1,000,000 or” for “through fiscal year 2016 an amount not to exceed”.
+
 2008—Subsec. (a). Pub. L. 110–336, § 2(b)(1)(A), substituted “for the first fiscal year beginning on or after the date of the enactment of this chapter and each succeeding fiscal year through fiscal year 2016” for “for each of the first 7 fiscal years beginning on or after the date of the enactment of this chapter”.
 
 Subsec. (b). Pub. L. 110–336, § 2(b)(4), amended subsec. (b) generally. Prior to amendment, text read as follows: “Except as permitted under section 152407, amounts authorized under this section may not be used by the corporation for administrative expenses of the corporation, including salaries, travel, transportation, and overhead expenses.”

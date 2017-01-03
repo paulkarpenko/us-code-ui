@@ -2,7 +2,7 @@
 title: 10
 chapter: '633'
 heading: NAVAL VESSELS
-section_count: 31
+section_count: 32
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -103,12 +103,6 @@ Pub. L. 89–37, title III, § 303, June 11, 1965, 79 Stat. 128, which provided 
 
 **(c)** The Secretary of the Navy may change the name of any vessel bought for the Navy.
 
-**(d)**
-
-(1) The Secretary of the Navy may not announce or implement any proposal to name a vessel of the Navy until 30 days after the date on which the Secretary submits to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth such proposal.
-
-(2) Each report under this subsection shall describe the justification for the proposal covered by such report in accordance with the standards referred to in section 1018(a) of the National Defense Authorization Act for Fiscal Year 2013.
-
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -124,10 +118,13 @@ In subsection (b) the words “first class” are omitted as obsolete.
 
 In subsection (c) the words “by authority of law” are omitted as surplusage.
 
-#### References in Text
-Section 1018(a) of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (d)(2), is section 1018(a) of Pub. L. 112–239, which is set out as a note below.
-
 #### Amendments
+2015—Subsec. (d). Pub. L. 114–92 struck out subsec. (d) which read as follows:
+
+“(1) The Secretary of the Navy may not announce or implement any proposal to name a vessel of the Navy until 30 days after the date on which the Secretary submits to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth such proposal.
+
+“(2) Each report under this subsection shall describe the justification for the proposal covered by such report in accordance with the standards referred to in section 1018(a) of the National Defense Authorization Act for Fiscal Year 2013.”
+
 2014—Subsec. (d)(2). Pub. L. 113–291 substituted “section 1018(a)” for “section 1024(a)”.
 
 2013—Subsec. (d). Pub. L. 112–239 added subsec. (d).
@@ -256,7 +253,7 @@ A prior section 7299, acts Aug. 10, 1956, ch. 1041, 70A Stat. 449; Aug. 25, 1958
 
 (3) Paragraph (1) does not apply in the case of voyage repairs.
 
-(4) In this subsection, the term “short-term work” means work that will be for a period of six months or less.
+(4) In this subsection, the term “short-term work” means work that will be for a period of 10 months or less.
 
 ### Statutory Notes
 
@@ -268,6 +265,8 @@ A prior section 7299, acts Aug. 10, 1956, ch. 1041, 70A Stat. 449; Aug. 25, 1958
 In subsection (a), the words “combatant vessels” are substituted for “warships” for consistency in title 10 and because of 1:3. The words “for which appropriations are authorized by this Act and hereafter” are omitted as unnecessary.
 
 #### Amendments
+2016—Subsec. (c)(4). Pub. L. 114–328 substituted “10 months” for “six months”.
+
 1992—Subsec. (a). Pub. L. 102–484, § 1016(a), (b)(1), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “The distribution of assignments and contracts for the construction of combatant vessels and escort vessels is subject to the Act of March 27, 1934 (ch. 95, 48 Stat. 503), requiring that the first and each succeeding alternate vessel be constructed in a Navy yard. However, the President may direct that a vessel be constructed in a Navy or private yard if the requirement of this subsection is inconsistent with the public interest.”
 
 Subsec. (b). Pub. L. 102–484, § 1016(b)(1), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
@@ -307,11 +306,31 @@ A prior section 7300, act Aug. 10, 1956, ch. 1041, 70A, Stat. 450, related to pr
 
 
 <a id="section-7301"></a>
-## § 7301. Repealed. Pub. L. 103–160, div. A, title VIII, § 824(a)(7), Nov. 30, 1993, 107 Stat. 1707]
+## § 7301. Determination of vessel delivery dates
+**(a) In General.—** The delivery of a covered vessel shall be deemed to occur on the date on which—
+
+(1) the Secretary of the Navy determines that the vessel is assembled and complete; and
+
+(2) custody of the vessel and all systems contained in the vessel transfers to the Navy.
+
+**(b) Inclusion in Budget and Acquisition Reports.—** The delivery dates of covered vessels shall be included—
+
+(1) in the materials submitted to Congress by the Secretary of Defense in support of the budget of the President for each fiscal year (as submitted to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code); and
+
+(2) in any relevant Selected Acquisition Report submitted to Congress under [section 2432 of this title](./chapter-144-major-defense-acquisition-programs.md#section-2432).
+
+**(c) Covered Vessel Defined.—** In this section, the term “covered vessel” means any vessel of the Navy that is under construction on or after the date of the enactment of this section using amounts authorized to be appropriated for the Department of Defense for shipbuilding and conversion, Navy.
 
 ### Statutory Notes
 
-Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 450, related to estimates required for bids on construction of naval vessels.
+#### References in Text
+The date of the enactment of this section, referred to in subsec. (c), is the date of the enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
+
+#### Prior Provisions
+A prior section 7301, act Aug. 10, 1956, ch. 1041, 70A Stat. 450, related to estimates required for bids on construction of naval vessels, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 824(a)(7), Nov. 30, 1993, 107 Stat. 1707.
+
+#### Certification
+Pub. L. 114–328, div. A, title I, § 121(b), Dec. 23, 2016, 130 Stat. 2030, provided that: “(1) In general.—Not later than January 1, 2017, the Secretary of the Navy shall certify to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that the delivery dates of the following vessels have been adjusted in accordance with [section 7301 of title 10](./chapter-633-naval-vessels.md#section-7301), United States Code, as added by subsection (a):“(A) The U.S.S. John F. Kennedy (CVN–79). “(B) The U.S.S. Zumwalt (DDG–1000). “(C) The U.S.S. Michael Monsoor (DDG–1001). “(D) The U.S.S. Lyndon B. Johnson (DDG–1002). “(E) Any other vessel of the Navy that is under construction on the date of the enactment of this Act [Dec. 23, 2016]. “(2) Contents.—The certification under paragraph (1) shall include—“(A) an identification of each vessel for which the delivery date was adjusted; and “(B) the delivery date of each such vessel, as so adjusted.”
 
 
 <a id="section-7302"></a>
@@ -436,23 +455,9 @@ Ex. Ord. No. 11765, Jan. 21, 1974, 39 F.R. 2577, related to sale of vessels of t
 
 **(c) Transfers To Be at No Cost to Department of Defense.—** Any transfer of a vessel under this section, the maintenance and preservation of that vessel as a museum or memorial, and the ultimate disposal of that vessel, including demilitarization of Munitions List items at the end of the useful life of the vessel as a museum or memorial, shall be made at no cost to the Department of Defense.
 
-**(d) Congressional Notice-and-Wait Period.—**
+**(d) Application of Environmental Laws.—** Nothing in this section shall affect the applicability of Federal, State, interstate, and local environmental laws and regulations, including the Toxic Substances Control Act ([15 U.S.C. 2601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) et seq.) and the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) et seq.), to the Department of Defense or to a donee.
 
-(1) A transfer under this section may not take effect until—
-
-  (A) the Secretary submits to Congress notice of the proposed transfer; and
-
-  (B) 30 days of a session of Congress have expired following the date on which the notice is sent to Congress.
-
-(2) For purposes of paragraph (1)(B)—
-
-  (A) the period of a session of Congress is broken only by an adjournment of Congress sine die at the end of the final session of a Congress; and
-
-  (B) any day on which either House of Congress is not in session because of an adjournment of more than 3 days to a day certain, or because of an adjournment sine die at the end of the first session of a Congress, shall be excluded in the computation of such 30-day period.
-
-**(e) Application of Environmental Laws.—** Nothing in this section shall affect the applicability of Federal, State, interstate, and local environmental laws and regulations, including the Toxic Substances Control Act ([15 U.S.C. 2601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) et seq.) and the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) et seq.), to the Department of Defense or to a donee.
-
-**(f) Definitions.—** In this section:
+**(e) Definitions.—** In this section:
 
 (1) The term “nonprofit entity” means any entity qualifying as an exempt organization under section 501(c)(3) of the Internal Revenue Code of 1986.
 
@@ -463,16 +468,18 @@ Ex. Ord. No. 11765, Jan. 21, 1974, 39 F.R. 2577, related to sale of vessels of t
 ### Statutory Notes
 
 #### References in Text
-The Toxic Substances Control Act, referred to in subsec. (e), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
+The Toxic Substances Control Act, referred to in subsec. (d), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (e), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (d), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
-Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (f)(1), is classified to [section 501(c)(3) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim), Internal Revenue Code.
+Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (e)(1), is classified to [section 501(c)(3) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim), Internal Revenue Code.
 
 #### Prior Provisions
 A prior section 7306, acts Aug. 10, 1956, ch. 1041, 70A Stat. 452; Nov. 8, 1965, Pub. L. 89–348, § 1(10), 79 Stat. 1311; Nov. 2, 1966, Pub. L. 89–718, § 42, 80 Stat. 1120; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, § 1616, 103 Stat. 1602, related to use of vessels stricken from the Naval Vessel Register for experimental purposes, prior to repeal by Pub. L. 103–160, § 824(b). See [section 7306a of this title](./chapter-633-naval-vessels.md#section-7306a).
 
 #### Amendments
+2015—Subsecs. (d) to (f). Pub. L. 114–92 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which related to congressional notice-and-wait period.
+
 2013—Pub. L. 113–66, § 1022(e)(1), substituted “Vessels stricken from Naval Vessel Register; captured vessels: conveyance by donation” for “Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise” in section catchline.
 
 Subsec. (a). Pub. L. 113–66, § 1022(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “Subject to [section 113 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section113&num=0&edition=prelim), the Secretary of the Navy may transfer, by gift or otherwise, any vessel stricken from the Naval Vessel Register, or any captured vessel, to—
@@ -706,6 +713,9 @@ Subsec. (c)(5)(C). Pub. L. 112–239, § 344(4), added subpar. (C).
 
 1993—Subsec. (b). Pub. L. 103–160, § 367, amended subsec. (b) generally, designating existing provisions as par. (1) and adding par. (2).
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
 
 <a id="section-7311"></a>
 ## § 7311. Repair or maintenance of naval vessels: handling of hazardous waste
@@ -919,3 +929,15 @@ Pub. L. 105–85, div. A, title X, § 1027(b), Nov. 18, 1997, 111 Stat. 1880, pr
 (2) In the case of a vessel, boat, craft, or component procured through an instrument not governed by [section 2320 of this title](./chapter-137-procurement-generally.md#section-2320), by the terms of the instrument (other than a contract) under which the design for such vessel, boat, craft, or component, as applicable, was developed for the Government.
 
 **(b) Construction of Superseding Authorities.—** This section may be modified or superseded by a provision of statute only if such provision expressly refers to this section in modifying or superseding this section.
+
+
+<a id="section-7318"></a>
+## § 7318. Warranty requirements for shipbuilding contracts
+**(a) Requirement.—** A contracting officer for a contract for new construction for which funds are expended from the Shipbuilding and Conversion, Navy account shall require, as a condition of the contract, that the work performed under the contract is covered by a warranty for a period of at least one year.
+
+**(b) Waiver.—** If the contracting officer for a contract covered by the requirement under subsection (a) determines that a limited liability of warranted work is in the best interest of the Government, the contracting officer may agree to limit the liability of the work performed under the contract to a level that the contracting officer determines is sufficient to protect the interests of the Government and in keeping with historical levels of warranted work on similar vessels.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 114–328, div. A, title X, § 1022(b), Dec. 23, 2016, 130 Stat. 2388, provided that: “[Section 7318 of title 10](./chapter-633-naval-vessels.md#section-7318), United States Code, as added by subsection (a), shall take effect on the later of the following dates: “(1) The date of the enactment of the National Defense Authorization for Fiscal Year 2018. “(2) September 30, 2017.”

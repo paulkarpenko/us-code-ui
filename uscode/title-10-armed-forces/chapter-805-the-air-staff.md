@@ -2,7 +2,7 @@
 title: 10
 chapter: '805'
 heading: THE AIR STAFF
-section_count: 9
+section_count: 10
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -113,7 +113,7 @@ Subsec. (b). Pub. L. 99–433, § 522(b)(2), substituted “Under the authority,
 
   (A) the officer has had significant experience in joint duty assignments; and
 
-  (B) such experience includes at least one full tour of duty in a joint duty assignment (as defined in [section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim)) as a general officer.
+  (B) such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) 11 See References in Text note below. of this title) as a general officer.
 
 (3) The President may waive paragraph (2) in the case of an officer if the President determines such action is necessary in the national interest.
 
@@ -131,7 +131,7 @@ Subsec. (b). Pub. L. 99–433, § 522(b)(2), substituted “Under the authority,
 
 (4) exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Air Force as the Secretary determines;
 
-(5) perform the duties prescribed for him by [section 171 of this title](./chapter-007-boards-councils-and-committees.md#section-171) and other provisions of law; and
+(5) perform the duties prescribed for him by sections 171 and 2547 of this title and other provisions of law, including pursuant to [section 8040 of this title](./chapter-805-the-air-staff.md#section-8040); and
 
 (6) perform such other military duties, not otherwise assigned by law, as are assigned to him by the President, the Secretary of Defense, or the Secretary of the Air Force.
 
@@ -163,10 +163,17 @@ In subsection (d), 10:38 (last par.) is omitted as covered by 10:1814(a). The wo
 #### 1962 Act
 The changes correct references to section 202(j) of the National Security Act of 1947, which is now set out as [section 124 of title 10](./chapter-003-general-powers-and-functions.md#section-124).
 
+#### References in Text
+[Section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim), referred to in subsec. (a)(2)(B), was redesignated as [section 664(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/d&num=0&edition=prelim) by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
+
 #### Prior Provisions
 A prior section 8033 was renumbered [section 10305 of this title](./chapter-1009-reserve-forces-policy-boards-and-committees.md#section-10305).
 
 #### Amendments
+2015—Subsec. (d)(5). Pub. L. 114–92, § 1652(a)(3), inserted “, including pursuant to [section 8040 of this title](./chapter-805-the-air-staff.md#section-8040)” after “other provisions of law”.
+
+Pub. L. 114–92, § 802(d)(4)(D), substituted “sections 171 and 2547” for “section 171”.
+
 1988—Subsec. (a)(2)(B). Pub. L. 100–456 substituted “full tour of duty in a joint duty assignment (as defined in [section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim))” for “joint duty assignment”.
 
 1986—Pub. L. 99–433 renumbered [section 8034 of this title](./chapter-805-the-air-staff.md#section-8034) as this section, substituted “Chief of Staff” for “Chief of Staff: appointment; duties” in section catchline, and amended text generally. Prior to amendment, text read as follows:
@@ -288,13 +295,22 @@ A prior section 8035 was renumbered [section 8034 of this title](./chapter-805-t
 
 
 <a id="section-8036"></a>
-## § 8036. Surgeon General: appointment; grade
+## § 8036. Surgeon General: appointment; duties
+**(a) Appointment.—** The Surgeon General of the Air Force shall be appointed by the President, by and with the advice and consent of the Senate from officers of the Air Force who are in the Air Force medical department.
 
-There is a Surgeon General of the Air Force who is appointed by the President by and with the advice and consent of the Senate from officers of the Air Force who are in the Air Force medical department. The Surgeon General, while so serving, has the grade of lieutenant general.
+**(b) Duties.—**
+
+(1) The Surgeon General serves as the principal advisor to the Secretary of the Air Force and the Chief of Staff of the Air Force on all health and medical matters of the Air Force, including strategic planning and policy development relating to such matters.
+
+(2) The Surgeon General serves as the chief medical advisor of the Air Force to the Director of the Defense Health Agency on matters pertaining to military health readiness requirements and safety of members of the Air Force.
+
+(3) The Surgeon General, acting under the authority, direction, and control of the Secretary of the Air Force, shall recruit, organize, train, and equip, medical personnel of the Air Force.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Pub. L. 114–328 amended section generally. Prior to amendment, text read as follows: “There is a Surgeon General of the Air Force who is appointed by the President by and with the advice and consent of the Senate from officers of the Air Force who are in the Air Force medical department. The Surgeon General, while so serving, has the grade of lieutenant general.”
+
 1996—Pub. L. 104–106 substituted “in the Air Force medical department” for “designated as medical officers under [section 8067(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8067/a&num=0&edition=prelim)”.
 
 1986—Pub. L. 99–433 substituted a semicolon for the comma in section catchline.
@@ -302,7 +318,7 @@ There is a Surgeon General of the Air Force who is appointed by the President by
 
 <a id="section-8037"></a>
 ## § 8037. Judge Advocate General, Deputy Judge Advocate General: appointment; duties
-**(a)** There is a Judge Advocate General in the Air Force, who is appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force. The term of office is four years. The Judge Advocate General, while so serving, has the grade of lieutenant general.
+**(a)** There is a Judge Advocate General in the Air Force, who is appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force. The term of office is four years.
 
 **(b)** The Judge Advocate General of the Air Force shall be appointed from those officers who at the time of appointment are members of the bar of a Federal court or the highest court of a State, and who have had at least eight years of experience in legal duties as commissioned officers.
 
@@ -316,7 +332,7 @@ There is a Surgeon General of the Air Force who is appointed by the President by
 
 **(d)**
 
-(1) There is a Deputy Judge Advocate General in the Air Force, who is appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force who have the qualifications prescribed in subsection (b) for the Judge Advocate General. The term of office of the Deputy Judge Advocate General is four years. An officer appointed as Deputy Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.
+(1) There is a Deputy Judge Advocate General in the Air Force, who is appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force who have the qualifications prescribed in subsection (b) for the Judge Advocate General. The term of office of the Deputy Judge Advocate General is four years.
 
 (2) When there is a vacancy in the office of the Judge Advocate General, or during the absence or disability of the Judge Advocate General, the Deputy Judge Advocate General shall perform the duties of the Judge Advocate General until a successor is appointed or the absence or disability ceases.
 
@@ -346,6 +362,10 @@ In subsection (b), the words “Hereafter” and “exclusive of the present inc
 In subsection (c), the Act of June 23, 1874, ch. 458, § 2 (words before semicolon of 1st sentence, and last sentence), 18 Stat. 244, are not contained in 10:62. They are also omitted from the revised section, since the Air Force does not have organic corps created by statute.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328, § 502(kk)(1), struck out last sentence which read as follows: “The Judge Advocate General, while so serving, has the grade of lieutenant general.”
+
+Subsec. (d)(1). Pub. L. 114–328, § 502(kk)(2), struck out last sentence which read as follows: “An officer appointed as Deputy Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.”
+
 2008—Subsec. (a). Pub. L. 110–181 substituted “The Judge Advocate General, while so serving, has the grade of lieutenant general.” for “The Judge Advocate General, while so serving, shall hold a grade not lower than major general.”
 
 2006—Subsec. (a). Pub. L. 109–163, § 508(c), substituted “The Judge Advocate General, while so serving, shall hold a grade not lower than major general.” for “An appointee who holds a lower regular grade shall be appointed in the regular grade of major general.”
@@ -397,11 +417,7 @@ Pub. L. 104–106, div. A, title V, § 507(b), Feb. 10, 1996, 110 Stat. 296, pro
   (B) the waiver is necessary for the good of the service.
   Any such waiver shall be made on a case-by-case basis.
 
-**(c) Term; Reappointment; Grade.—**
-
-(1) The Chief of Air Force Reserve is appointed for a period of four years, but may be removed for cause at any time. An officer serving as Chief of Air Force Reserve may be reappointed for one additional four-year period.
-
-(2) The Chief of Air Force Reserve, while so serving, holds the grade of lieutenant general.
+**(c) Term; Reappointment.—** The Chief of Air Force Reserve is appointed for a period of four years, but may be removed for cause at any time. An officer serving as Chief of Air Force Reserve may be reappointed for one additional four-year period.
 
 **(d) Budget.—** The Chief of Air Force Reserve is the official within the executive part of the Department of the Air Force who, subject to the authority, direction, and control of the Secretary of the Air Force and the Chief of Staff, is responsible for preparation, justification, and execution of the personnel, operation and maintenance, and construction budgets for the Air Force Reserve. As such, the Chief of Air Force Reserve is the director and functional manager of appropriations made for the Air Force Reserve in those areas.
 
@@ -416,6 +432,8 @@ Pub. L. 104–106, div. A, title V, § 507(b), Feb. 10, 1996, 110 Stat. 296, pro
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (c). Pub. L. 114–328, in heading, struck out “; Grade” after “Reappointment”, and in text, struck out par. (1) designation before “The Chief of Air Force Reserve” and struck out par. (2) which read as follows: “The Chief of Air Force Reserve, while so serving, holds the grade of lieutenant general.”
+
 2004—Subsec. (b)(4). Pub. L. 108–375 substituted “December 31, 2006” for “December 31, 2004”.
 
 2002—Subsec. (b)(4). Pub. L. 107–314 substituted “December 31, 2004” for “October 1, 2003”.
@@ -456,11 +474,9 @@ Section effective on first day of first calendar month following date of enactme
 
 (1) There is a Chief of Chaplains in the Air Force, appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force designated under [section 8067(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8067/h&num=0&edition=prelim) as chaplains who—
 
-  (A) are serving in the grade of colonel or above;
+  (A) are serving on active duty; and
 
-  (B) are serving on active duty; and
-
-  (C) have served on active duty as a chaplain for at least eight years.
+  (B) have served on active duty as a chaplain for at least eight years.
 
 (2) An officer appointed as the Chief of Chaplains shall be appointed for a term of three years. However, the President may terminate or extend the appointment at any time.
 
@@ -468,4 +484,22 @@ Section effective on first day of first calendar month following date of enactme
 
 **(b) Selection Board.—** Under regulations approved by the Secretary of Defense, the Secretary of the Air Force, in selecting an officer for recommendation to the President for appointment as the Chief of Chaplains, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to the selection boards convened under chapter 36 of this title.
 
-**(c) Grade.—** An officer appointed as Chief of Chaplains who holds a lower regular grade may be appointed in the regular grade of major general.
+### Statutory Notes
+
+#### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–328, § 502(mm)(1), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “are serving in the grade of colonel or above;”.
+
+Subsec. (c). Pub. L. 114–328, § 502(mm)(2), struck out subsec. (c). Text read as follows: “An officer appointed as Chief of Chaplains who holds a lower regular grade may be appointed in the regular grade of major general.”
+
+
+<a id="section-8040"></a>
+## § 8040. Oversight of nuclear deterrence mission
+**(a) Oversight of Nuclear Deterrence Mission.—** Subject to the authority, direction, and control of the Secretary of the Air Force, the Chief of Staff of the Air Force shall be responsible for overseeing the safety, security, reliability, effectiveness, and credibility of the nuclear deterrence mission of the Air Force.
+
+**(b) Deputy Chief of Staff.—** Not later than March 1, 2016, the Chief of Staff shall designate a Deputy Chief of Staff to carry out the following duties:
+
+(1) Provide direction, guidance, integration, and advocacy regarding the nuclear deterrence mission of the Air Force.
+
+(2) Conduct monitoring and oversight activities regarding the safety, security, reliability, effectiveness, and credibility of the nuclear deterrence mission of the Air Force.
+
+(3) Conduct periodic comprehensive assessments of all aspects of the nuclear deterrence mission of the Air Force and provide such assessments to the Secretary of the Air Force and the Chief of Staff of the Air Force.

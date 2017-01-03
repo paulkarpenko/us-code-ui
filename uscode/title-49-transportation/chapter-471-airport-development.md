@@ -188,6 +188,9 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under [section 321 of this title](./chapter-003-general-duties-and-powers.md#section-321).
 
+#### Reimbursable Agreements for Certain Airport Projects
+Pub. L. 114–307, § 1, Dec. 16, 2016, 130 Stat. 1523, provided that: “The Administrator of the Federal Aviation Administration may enter into a reimbursable agreement with a State or local government agency to carry out a project at an airport as to which notice is required under section 77.9 of title 14, Code of Federal Regulations, if the agreement— “(1) includes measures for cost-effective completion of such project; and “(2) would not negatively affect the safety or efficiency of the national airspace system.”
+
 #### Runway Safety
 Pub. L. 112–95, title III, § 314, Feb. 14, 2012, 126 Stat. 67, provided that: “(a) Strategic Runway Safety Plan.—“(1) In general.—Not later than 6 months after the date of enactment of this Act [Feb. 14, 2012], the Administrator of the Federal Aviation Administration shall develop and submit to Congress a report containing a strategic runway safety plan. “(2) Contents of plan.—The strategic runway safety plan—“(A) shall include, at a minimum—“(i) goals to improve runway safety; “(ii) near- and long-term actions designed to reduce the severity, number, and rate of runway incursions, losses of standard separation, and operational errors; “(iii) time frames and resources needed for the actions described in clause (ii); “(iv) a continuous evaluative process to track performance toward the goals referred to in clause (i); and “(v) a review with respect to runway safety of every commercial service airport (as defined in [section 47102 of title 49](./chapter-471-airport-development.md#section-47102), United States Code) in the United States and proposed action to improve airport lighting, provide better signs, and improve runway and taxiway markings at those airports; and “(B) shall address the increased runway safety risk associated with the expected increased volume of air traffic. “(b) Process.—Not later than 6 months after the date of enactment of this Act [Feb. 14, 2012], the Administrator shall develop a process for tracking and investigating operational errors, losses of standard separation, and runway incursions that includes procedures for—“(1) identifying who is responsible for tracking operational errors, losses of standard separation, and runway incursions, including a process for lower level employees to report to higher supervisory levels and for frontline managers to receive the information in a timely manner; “(2) conducting periodic random audits of the oversight process; and “(3) ensuring proper accountability. “(c) Plan for Installation and Deployment of Systems To Provide Alerts of Potential Runway Incursions.—Not later than June 30, 2012, the Administrator shall submit to Congress a report containing a plan for the installation and deployment of systems to alert air traffic controllers or flight crewmembers, or both, of potential runway incursions. The plan shall be integrated into the annual NextGen Implementation Plan of the Administration or any successor document.”
 
@@ -618,7 +621,7 @@ Subsec. (d). Pub. L. 112–95, § 152(a)(3), struck out “status of the” befo
 
 **(b) Incurring Obligations.—** The Secretary may incur obligations to make grants from amounts made available under [section 48103 of this title](./chapter-481-airport-and-airway-trust-fund-authorizations.md#section-48103) as soon as the amounts are apportioned under section 47114(c) and (d)(2) of this title.
 
-**(c) Expiration of Authority.—** After September 30, 2015, the Secretary may not incur obligations under subsection (b) of this section, except for obligations of amounts—
+**(c) Expiration of Authority.—** After September 30, 2017, the Secretary may not incur obligations under subsection (b) of this section, except for obligations of amounts—
 
 (1) remaining available after that date under [section 47117(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47117/b&num=0&edition=prelim); or
 
@@ -649,6 +652,12 @@ In subsection (c), the words “except for obligations of amounts” are substit
 In subsection (c), the text of section 109(b) of the Airport Improvement Program Temporary Extension Act of 1994 (Public Law 103–260, 108 Stat. 700) is omitted as executed.
 
 #### Amendments
+2016—Subsec. (c). Pub. L. 114–190 substituted “September 30, 2017,” for “July 15, 2016,” in introductory provisions.
+
+Pub. L. 114–141 substituted “July 15, 2016,” for “March 31, 2016,” in introductory provisions.
+
+2015—Subsec. (c). Pub. L. 114–55 substituted “March 31, 2016,” for “September 30, 2015,” in introductory provisions.
+
 2012—Subsec. (c). Pub. L. 112–95 substituted “After September 30, 2015,” for “After February 17, 2012,” in introductory provisions.
 
 Pub. L. 112–91 substituted “February 17, 2012,” for “January 31, 2012,” in introductory provisions.
@@ -1343,7 +1352,7 @@ Pub. L. 106–181, title VII, § 737, Apr. 5, 2000, 114 Stat. 172, provided that
 
   (C) provides a time frame within which, if any, the airport will be able to accommodate the requests.
 
-(3) **Sunset provision.—** — This subsection shall cease to be effective beginning October 1, 2015.
+(3) **Sunset provision.—** — This subsection shall cease to be effective beginning October 1, 2017.
 
 **(s) Agreements Granting Through-The-Fence Access to General Aviation Airports.—**
 
@@ -1368,6 +1377,24 @@ Pub. L. 106–181, title VII, § 737, Apr. 5, 2000, 114 Stat. 172, provided that
     (iv) to prohibit access to the airport from other properties through the property of the property owner; and
 
     (v) to prohibit any aircraft refueling from occurring on the property.
+
+**(t) Renewal of Certain Leases.—**
+
+(1) **In general.—** — Notwithstanding subsection (a)(13), an airport owner or operator who renews a covered lease shall not be treated as violating a written assurance requirement under this section as a result of such renewal.
+
+(2) **Covered lease defined.—** — In this subsection, the term “covered lease” means a lease—
+
+  (A) originally entered into before the date of enactment of this subsection;
+
+  (B) under which a nominal lease rate is provided;
+
+  (C) under which the lessee is a Federal or State government entity; and
+
+  (D) that supports the operation of military aircraft by the Air Force or Air National Guard—
+
+    (i) at the airport; or
+
+    (ii) remotely from the airport.
 
 ### Statutory Notes
 
@@ -1467,7 +1494,17 @@ Section 3(p) of the Small Business Act, referred to in subsec. (e)(1), (4)(B), (
 
 [Section 101(a) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101/a&num=0&edition=prelim), referred to in subsec. (j)(1)(B), was subsequently amended, and section 101(a) no longer defines “Federal-aid system”.
 
+The date of enactment of this subsection, referred to in subsec. (t)(2)(A), is the date of enactment of Pub. L. 114–238, which was approved Oct. 7, 2016.
+
 #### Amendments
+2016—Subsec. (r)(3). Pub. L. 114–190 substituted “October 1, 2017” for “July 16, 2016”.
+
+Pub. L. 114–141 substituted “July 16, 2016” for “April 1, 2016”.
+
+Subsec. (t). Pub. L. 114–238 added subsec. (t).
+
+2015—Subsec. (r)(3). Pub. L. 114–55 substituted “April 1, 2016” for “October 1, 2015”.
+
 2014—Subsec. (k). Pub. L. 113–188, § 1501(b)(1), (2)(A)(i), redesignated subsec. (l) as (k) and struck out former subsec. (k). Prior to amendment, text of subsec. (k) read as follows: “The Secretary shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an annual summary of the reports submitted to the Secretary under subsection (a)(19) of this section and under section 111(b) of the Federal Aviation Administration Authorization Act of 1994.”
 
 Subsec. (k)(5). Pub. L. 113–188, § 1501(b)(2)(A)(ii), substituted “subsection (m)(7)” for “subsection (n)(7)” in introductory provisions and “subsection (m)” for “subsection (n)” in subpar. (B).
@@ -2291,7 +2328,13 @@ Pub. L. 112–95, title I, § 140(a), Feb. 14, 2012, 126 Stat. 27, provided that
 
     (iii) the cause of the shortfall in passenger boardings was a temporary but significant interruption in service by an air carrier to that airport due to an employment action, natural disaster, or other event unrelated to the demand for air transportation at the affected airport.
 
-  (F) *Special rule for fiscal years 2012 and 2013.—* — Notwithstanding subparagraph (A), for an airport that had more than 10,000 passenger boardings and scheduled passenger aircraft service in calendar year 2007, but in either calendar year 2009 or 2010, or in both years, the number of passenger boardings decreased to a level below 10,000 boardings per year at such airport, the Secretary may apportion in each of fiscal years 2012 and 2013 to the sponsor of such airport an amount equal to the amount apportioned to that sponsor in fiscal year 2009.
+  (F) *Special rule for fiscal year 2017.—* — Notwithstanding subparagraph (A), the Secretary shall apportion to a sponsor of an airport under that subparagraph for fiscal year 2017 an amount based on the number of passenger boardings at the airport during calendar year 2012 if the airport—
+
+    (i) had 10,000 or more passenger boardings during calendar year 2012;
+
+    (ii) had fewer than 10,000 passenger boardings during the calendar year used to calculate the apportionment for fiscal year 2017 under subparagraph (A); and
+
+    (iii) had scheduled air service at any point during the calendar year used to calculate the apportionment for fiscal year 2017 under subparagraph (A).
 
 (2) **Cargo airports.—**
 
@@ -2461,6 +2504,8 @@ In subsection (c)(3)(B), the words “the total of all amounts apportioned under
 Section 15(a) of the Airport and Airway Development Act of 1970, referred to in subsec. (e)(1), is section 15(a) of Pub. L. 91–258, which was classified to section 1715(a) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, § 523(a), Sept. 3, 1982, 96 Stat. 695.
 
 #### Amendments
+2016—Subsec. (c)(1)(F). Pub. L. 114–190 amended subpar. (F) generally. Prior to amendment, text read as follows: “Notwithstanding subparagraph (A), for an airport that had more than 10,000 passenger boardings and scheduled passenger aircraft service in calendar year 2007, but in either calendar year 2009 or 2010, or in both years, the number of passenger boardings decreased to a level below 10,000 boardings per year at such airport, the Secretary may apportion in each of fiscal years 2012 and 2013 to the sponsor of such airport an amount equal to the amount apportioned to that sponsor in fiscal year 2009.”
+
 2012—Subsec. (c)(1)(F), (G). Pub. L. 112–95, § 141(b), added subpar. (F) and struck out former subpars. (F) and (G) which related, respectively, to special rules for fiscal years 2004 and 2005 and to special rule for fiscal year 2006.
 
 Subsec. (d)(7). Pub. L. 112–95, § 141(a), added par. (7).
@@ -2621,7 +2666,7 @@ Pub. L. 107–71, title I, § 119(b), Nov. 19, 2001, 115 Stat. 629, provided tha
 
 **(i) Considerations for Project Under Expanded Security Eligibility.—** In order to assure that funding under this subchapter is provided to the greatest needs, the Secretary, in selecting a project described in section 47102(3)(J) 11 See References in Text note below. for a grant, shall consider the non-federal 22 So in original. Probably should be “non-Federal”. resources available to sponsor, the use of such non-federal 2 resources, and the degree to which the sponsor is providing increased funding for the project.
 
-**(j) Marshall Islands, Micronesia, and Palau.—** For fiscal years 2012 through 2015, the sponsors of airports located in the Republic of the Marshall Islands, Federated States of Micronesia, and Republic of Palau shall be eligible for grants under this section and section 47116.
+**(j) Marshall Islands, Micronesia, and Palau.—** For fiscal years 2012 through 2017, the sponsors of airports located in the Republic of the Marshall Islands, Federated States of Micronesia, and Republic of Palau shall be eligible for grants under this section and section 47116.
 
 ### Statutory Notes
 
@@ -2663,6 +2708,12 @@ The Airport and Airway Improvement Act of 1982, referred to in subsec. (g)(1)(B)
 Section 47102(3)(J), referred to in subsec. (i), was repealed and subpar. (M) was redesignated (J) by Pub. L. 108–176, title I, § 159(b)(1)(A), Dec. 12, 2003, 117 Stat. 2510.
 
 #### Amendments
+2016—Subsec. (j). Pub. L. 114–190 substituted “fiscal years 2012 through 2017,” for “fiscal years 2012 through 2015 and for the period beginning on October 1, 2015, and ending on July 15, 2016,”.
+
+Pub. L. 114–141 substituted “July 15, 2016” for “March 31, 2016”.
+
+2015—Subsec. (j). Pub. L. 114–55 inserted “and for the period beginning on October 1, 2015, and ending on March 31, 2016” after “fiscal years 2012 through 2015”.
+
 2012—Subsec. (j). Pub. L. 112–95 substituted “For fiscal years 2012 through 2015,” for “For fiscal years 2004 through 2011, and for the portion of fiscal year 2012 ending before February 18, 2012,”.
 
 Pub. L. 112–91 substituted “February 18, 2012,” for “February 1, 2012,”.
@@ -3517,7 +3568,7 @@ The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 
 
   (D) *Costs exceeding benefits.—* — If the costs of operating an air traffic tower under the program exceed the benefits, the airport sponsor or State or local government having jurisdiction over the airport shall pay the portion of the costs that exceed such benefit, with the maximum allowable local cost share capped at 20 percent.
 
-  (E) *Funding.—* — Of the amounts appropriated pursuant to section 106(k)(1), not more than $10,350,000 for each of fiscal years 2012 through 2015 may be used to carry out this paragraph.
+  (E) *Funding.—* — Of the amounts appropriated pursuant to section 106(k)(1), not more than $10,350,000 for each of fiscal years 2012 through 2017 may be used to carry out this paragraph.
 
   (F) *Use of excess funds.—* — If the Secretary finds that all or part of an amount made available under this paragraph is not required during a fiscal year, the Secretary may use, during such fiscal year, the amount not so required to carry out the program continued under paragraph (1).
 
@@ -3581,7 +3632,13 @@ In subsection (b)(1), the words “in effect” are omitted as surplus. The word
 In subsection (b)(2), the word “Secretary” is substituted for “Administrator” for consistency in the chapter.
 
 #### Amendments
-2014—Subsec. (b)(3)(D). Pub. L. 113–76 and Pub. L. 113–235, which identically directed substitution of “benefit, with the maximum allowable local cost share capped at 20 percent.” for “benefit.”, could not be executed because of the prior amendment by Pub. L. 112–55, § 119. See 2011 Amendment note below.
+2016—Subsec. (b)(3)(E). Pub. L. 114–190 substituted “fiscal years 2012 through 2017” for “fiscal years 2012 through 2015 and not more than $8,193,750 for the period beginning on October 1, 2015, and ending on July 15, 2016,”.
+
+Pub. L. 114–141 substituted “$8,193,750 for the period beginning on October 1, 2015, and ending on July 15, 2016,” for “$5,175,000 for the period beginning on October 1, 2015, and ending on March 31, 2016,”.
+
+2015—Subsec. (b)(3)(E). Pub. L. 114–55 inserted “and not more than $5,175,000 for the period beginning on October 1, 2015, and ending on March 31, 2016,” after “fiscal years 2012 through 2015”.
+
+2014—Subsec. (b)(3)(D). Pub. L. 113–76 and Pub. L. 113–235, which identically directed substitution of “benefit, with the maximum allowable local cost share capped at 20 percent.” for “benefit.”, could not be executed because of the prior amendment by Pub. L. 112–55. See 2011 Amendment note below.
 
 2012—Subsec. (b)(1). Pub. L. 112–95, § 147(a)(1), designated existing provisions as subpar. (A), inserted par. and subpar. headings, and added subpars. (B) and (C).
 
@@ -4432,11 +4489,17 @@ Section applicable only to fiscal years beginning after Sept. 30, 2003, except a
 
 **(e) Eligible Projects.—** The Secretary may approve a grant under this section to a State or unit of local government for a project resulting from a land use compatibility plan only if the Secretary is satisfied that the project is consistent with the guidelines established by the Secretary under this section, the State or unit of local government has provided the assurances required by this section, the State or unit of local government has implemented (or has made provision to implement) those elements of the plan that are not eligible for Federal financial assistance, and that the project is not inconsistent with applicable Federal Aviation Administration standards.
 
-**(f) Sunset.—** This section shall not be in effect after September 30, 2015.
+**(f) Sunset.—** This section shall not be in effect after September 30, 2017.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (f). Pub. L. 114–190 substituted “September 30, 2017” for “July 15, 2016”.
+
+Pub. L. 114–141 substituted “July 15, 2016” for “March 31, 2016”.
+
+2015—Subsec. (f). Pub. L. 114–55 substituted “March 31, 2016” for “September 30, 2015”.
+
 2012—Subsec. (f). Pub. L. 112–95 amended subsec. (f) generally. Prior to amendment, text read as follows: “This section shall not be in effect after February 17, 2012.”
 
 Pub. L. 112–91 substituted “February 17, 2012.” for “January 31, 2012.”
@@ -4509,7 +4572,7 @@ Amendment by Pub. L. 110–253 effective July 1, 2008, see section 3(d) of Pub. 
 Section applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as an Effective Date of 2003 Amendment note under [section 106 of this title](./chapter-001-organization.md#section-106).
 
 #### Pilot Program for Redevelopment of Airport Properties
-Pub. L. 112–95, title VIII, § 822, Feb. 14, 2012, 126 Stat. 128, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Feb. 14, 2012], the Administrator of the Federal Aviation Administration shall establish a pilot program under which operators of up to 4 public-use airports may receive grants for activities related to the redevelopment of airport properties in accordance with the requirements of this section. “(b) Grants.—Under the pilot program, the Administrator may make a grant in a fiscal year, from funds made available for grants under [section 47117(e)(1)(A) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47117/e/1/A&num=0&edition=prelim), United States Code, to an airport operator for a project—“(1) to support joint planning, engineering, design, and environmental permitting of projects, including the assembly and redevelopment of property purchased with noise mitigation funds made available under section 48103 of such title or passenger facility revenue collected under section 40117 of such title; and “(2) to encourage airport-compatible land uses and generate economic benefits to the local airport authority and adjacent community. “(c) Eligibility.—An airport operator shall be eligible to participate in the pilot program if—“(1) the operator has received approval for a noise compatibility program under section 47504 of such title; and “(2) the operator demonstrates, as determined by the Administrator—“(A) a readiness to implement cooperative land use management and redevelopment plans with neighboring local jurisdictions; and “(B) the probability of a clear economic benefit to neighboring local jurisdictions and financial return to the airport through the implementation of those plans. “(d) Distribution.—The Administrator shall seek to award grants under the pilot program to airport operators representing different geographic areas of the United States. “(e) Partnership With Neighboring Local Jurisdictions.—An airport operator shall use grant funds made available under the pilot program only in partnership with neighboring local jurisdictions. “(f) Grant Requirements.—The Administrator may not make a grant to an airport operator under the pilot program unless the grant is—“(1) made to enable the airport operator and local jurisdictions undertaking community redevelopment efforts to expedite those efforts; “(2) subject to a requirement that the local jurisdiction governing the property interests subject to the redevelopment efforts has adopted and will continue in effect zoning regulations that permit airport-compatible redevelopment; and “(3) subject to a requirement that, in determining the part of the proceeds from disposing of land that is subject to repayment and reinvestment requirements under section 47107(c)(2)(A) of such title, the total amount of a grant issued under the pilot program that is attributable to the redevelopment of such land shall be added to other amounts that must be repaid or reinvested under that section upon disposal of such land by the airport operator. “(g) Exceptions to Repayment and Reinvestment Requirements.—Amounts paid to the Secretary of Transportation under subsection (f)(3)—“(1) shall be available to the Secretary for, giving preference to the actions in descending order—“(A) reinvestment in an approved noise compatibility project at the applicable airport; “(B) reinvestment in another approved project at the airport that is eligible for funding under section 47117(e) of such title; “(C) reinvestment in an approved airport development project at the airport that is eligible for funding under section 47114, 47115, or 47117 of such title; “(D) transfer to an operator of another public airport to be reinvested in an approved noise compatibility project at such airport; and “(E) deposit in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ([26 U.S.C. 9502](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim)); “(2) shall be available in addition to amounts authorized under section 48103 of such title; “(3) shall not be subject to any limitation on grant obligations for any fiscal year; and “(4) shall remain available until expended. “(h) Federal Share.—“(1) In general.—Notwithstanding any other provision of law, the Federal share of the allowable costs of a project carried out under the pilot program shall be 80 percent. “(2) Allowable costs.—In determining the allowable costs, the Administrator shall deduct from the total costs of the activities described in subsection (b) that portion of the costs which is equal to that portion of the total property to be redeveloped under this section that is not owned or to be acquired by the airport operator pursuant to the noise compatibility program or that is not owned by the affected neighboring local jurisdictions or other public entities. “(i) Maximum Amount.—Not more than $5,000,000 of the funds made available for grants under section 47117(e)(1)(A) of such title may be expended under the pilot program for any single public-use airport. “(j) Use of Passenger Revenue.—An airport operator participating in the pilot program may use passenger facility revenue collected under section 40117 of such title to pay any project cost described in subsection (b) that is not financed by a grant under the pilot program. “(k) Sunset.—This section shall not be in effect after September 30, 2015.”
+Pub. L. 112–95, title VIII, § 822, Feb. 14, 2012, 126 Stat. 128, as amended by Pub. L. 114–55, title I, § 102(j), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, § 102(h), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, § 1102(k), July 15, 2016, 130 Stat. 618, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Feb. 14, 2012], the Administrator of the Federal Aviation Administration shall establish a pilot program under which operators of up to 4 public-use airports may receive grants for activities related to the redevelopment of airport properties in accordance with the requirements of this section. “(b) Grants.—Under the pilot program, the Administrator may make a grant in a fiscal year, from funds made available for grants under [section 47117(e)(1)(A) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47117/e/1/A&num=0&edition=prelim), United States Code, to an airport operator for a project—“(1) to support joint planning, engineering, design, and environmental permitting of projects, including the assembly and redevelopment of property purchased with noise mitigation funds made available under section 48103 of such title or passenger facility revenue collected under section 40117 of such title; and “(2) to encourage airport-compatible land uses and generate economic benefits to the local airport authority and adjacent community. “(c) Eligibility.—An airport operator shall be eligible to participate in the pilot program if—“(1) the operator has received approval for a noise compatibility program under section 47504 of such title; and “(2) the operator demonstrates, as determined by the Administrator—“(A) a readiness to implement cooperative land use management and redevelopment plans with neighboring local jurisdictions; and “(B) the probability of a clear economic benefit to neighboring local jurisdictions and financial return to the airport through the implementation of those plans. “(d) Distribution.—The Administrator shall seek to award grants under the pilot program to airport operators representing different geographic areas of the United States. “(e) Partnership With Neighboring Local Jurisdictions.—An airport operator shall use grant funds made available under the pilot program only in partnership with neighboring local jurisdictions. “(f) Grant Requirements.—The Administrator may not make a grant to an airport operator under the pilot program unless the grant is—“(1) made to enable the airport operator and local jurisdictions undertaking community redevelopment efforts to expedite those efforts; “(2) subject to a requirement that the local jurisdiction governing the property interests subject to the redevelopment efforts has adopted and will continue in effect zoning regulations that permit airport-compatible redevelopment; and “(3) subject to a requirement that, in determining the part of the proceeds from disposing of land that is subject to repayment and reinvestment requirements under section 47107(c)(2)(A) of such title, the total amount of a grant issued under the pilot program that is attributable to the redevelopment of such land shall be added to other amounts that must be repaid or reinvested under that section upon disposal of such land by the airport operator. “(g) Exceptions to Repayment and Reinvestment Requirements.—Amounts paid to the Secretary of Transportation under subsection (f)(3)—“(1) shall be available to the Secretary for, giving preference to the actions in descending order—“(A) reinvestment in an approved noise compatibility project at the applicable airport; “(B) reinvestment in another approved project at the airport that is eligible for funding under section 47117(e) of such title; “(C) reinvestment in an approved airport development project at the airport that is eligible for funding under section 47114, 47115, or 47117 of such title; “(D) transfer to an operator of another public airport to be reinvested in an approved noise compatibility project at such airport; and “(E) deposit in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ([26 U.S.C. 9502](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim)); “(2) shall be available in addition to amounts authorized under section 48103 of such title; “(3) shall not be subject to any limitation on grant obligations for any fiscal year; and “(4) shall remain available until expended. “(h) Federal Share.—“(1) In general.—Notwithstanding any other provision of law, the Federal share of the allowable costs of a project carried out under the pilot program shall be 80 percent. “(2) Allowable costs.—In determining the allowable costs, the Administrator shall deduct from the total costs of the activities described in subsection (b) that portion of the costs which is equal to that portion of the total property to be redeveloped under this section that is not owned or to be acquired by the airport operator pursuant to the noise compatibility program or that is not owned by the affected neighboring local jurisdictions or other public entities. “(i) Maximum Amount.—Not more than $5,000,000 of the funds made available for grants under section 47117(e)(1)(A) of such title may be expended under the pilot program for any single public-use airport. “(j) Use of Passenger Revenue.—An airport operator participating in the pilot program may use passenger facility revenue collected under section 40117 of such title to pay any project cost described in subsection (b) that is not financed by a grant under the pilot program. “(k) Sunset.—This section shall not be in effect after September 30, 2017.”
 
 
 <a id="section-47142"></a>

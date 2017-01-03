@@ -2,14 +2,18 @@
 title: 14
 chapter: '13'
 heading: 'PAY, ALLOWANCES, AWARDS, AND OTHER RIGHTS AND BENEFITS'
-section_count: 62
+section_count: 64
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
 <a id="section-461"></a>
-## § 461. Remission of indebtedness of enlisted members upon discharge
+## § 461. Remission of indebtedness
 
-If he considers it in the best interest of the United States, the Secretary may have remitted or canceled any part of an enlisted member’s indebtedness to the United States or any of its instrumentalities remaining unpaid before or at the time of, that member’s honorable discharge.
+The Secretary may have remitted or cancelled any part of a person’s indebtedness to the United States or any instrumentality of the United States if—
+
+(1) the indebtedness was incurred while the person served as a member of the Coast Guard, whether as a regular or a reserve in active status; and
+
+(2) the Secretary determines that remitting or cancelling the indebtedness is in the best interest of the United States.
 
 ### Statutory Notes
 
@@ -25,6 +29,10 @@ This section assimilates the pay of military personnel of the Coast Guard to the
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
+2016—Pub. L. 114–120 amended section generally. Prior to amendment, text read as follows: “If he considers it in the best interest of the United States, the Secretary may have remitted or canceled any part of an enlisted member’s indebtedness to the United States or any of its instrumentalities remaining unpaid before or at the time of, that member’s honorable discharge.”
+
+Par. (1). Pub. L. 114–328 substituted “as a member of the Coast Guard, whether as a regular or a reserve in active status” for “on active duty as a member of the Coast Guard”.
+
 1976—Pub. L. 94–546 substituted “Secretary” for “Secretary of the Treasury”.
 
 1967—Pub. L. 90–83 corrected section 73(a)(3) of Pub. L. 89–718 to change the designation of sections repealed under Pub. L. 87–649 from sections 471(a) and (b) of Title 14 to sections 461(a) and (b) of Title 14. See 1966 Amendment note below.
@@ -38,6 +46,9 @@ Pub. L. 89–718, § 73(c)(1), struck out references to pay and allowances and p
 Subsec. (c). Pub. L. 87–526, § 1(1)(B), added subsec. (c).
 
 1954—Act Sept. 3, 1954 inserted “; pay of officers indebted to United States” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+
+#### Effective Date of 2016 Amendment
+Amendment by Pub. L. 114–328 effective Dec. 23, 2016, and applicable with respect to debt incurred on or after Oct. 7, 2001, see section 671(b)(5) of Pub. L. 114–328, set out as a note under [section 4837 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4837&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 1967 Amendment
 Pub. L. 90–83, § 9(i), Sept. 11, 1967, 81 Stat. 222, provided that: “Section 2 of this Act [correcting section 73(a)(3) of Pub. L. 89–718] is effective as of November 2, 1966, for all purposes.”
@@ -155,6 +166,9 @@ The monetary limitation is removed.
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
+#### Coast Guard Graduate Maritime Operations Education
+Pub. L. 114–120, title II, § 213, Feb. 8, 2016, 130 Stat. 42, provided that: “Not later than 1 year after the date of the enactment of this Act [Feb. 8, 2016], the Secretary of the department in which the Coast Guard is operating shall establish an education program, for members and employees of the Coast Guard, that— “(1) offers a master’s degree in maritime operations; “(2) is relevant to the professional development of such members and employees; “(3) provides resident and distant education options, including the ability to utilize both options; and “(4) to the greatest extent practicable, is conducted using existing academic programs at an accredited public academic institution that—“(A) is located near a significant number of Coast Guard, maritime, and other Department of Homeland Security law enforcement personnel; and “(B) has an ability to simulate operations normally conducted at a command center.”
+
 
 <a id="section-471"></a>
 ## § 471. Attendance at professional meetings
@@ -201,7 +215,7 @@ Section, added act Aug. 10, 1956, ch. 1041, § 11(a), 70A Stat. 624, authorized 
 ### Statutory Notes
 
 #### References in Text
-The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), C (§ 1087a et seq.), and D (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 472, act Aug. 4, 1949, ch. 393, 63 Stat. 532, related to travel allowance to enlisted men on discharge, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408. See [section 474 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
@@ -990,3 +1004,34 @@ Section applicable with respect to releases from active duty described in this s
 ## § 518. Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States
 
 In any case in which a covered beneficiary (as defined in [section 1072(5) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1072/5&num=0&edition=prelim)) resides on an island that is located in the 48 contiguous States and the District of Columbia and that lacks public access roads to the mainland and is referred by a primary care physician to a specialty care provider (as defined in [section 1074i(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1074i/b&num=0&edition=prelim)) on the mainland who provides services less than 100 miles from the location where the beneficiary resides, the Secretary shall reimburse the reasonable travel expenses of the covered beneficiary and, when accompaniment by an adult is necessary, for a parent or guardian of the covered beneficiary or another member of the covered beneficiary’s family who is at least 21 years of age.
+
+
+<a id="section-519"></a>
+## § 519. Annual audit of pay and allowances of members undergoing permanent change of station
+
+The Commandant shall conduct each calendar year an audit of member pay and allowances for the members who transferred to new units during such calendar year. The audit for a calendar year shall be completed by the end of the calendar year.
+
+
+<a id="section-520"></a>
+## § 520. Prospective payment of funds necessary to provide medical care
+**(a) Prospective Payment Required.—** In lieu of the reimbursement required under [section 1085 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1085&num=0&edition=prelim), the Secretary of Homeland Security shall make a prospective payment to the Secretary of Defense of an amount that represents the actuarial valuation of treatment or care—
+
+(1) that the Department of Defense shall provide to members of the Coast Guard, former members of the Coast Guard, and dependents of such members and former members (other than former members and dependents of former members who are a Medicare-eligible beneficiary or for whom the payment for treatment or care is made from the Medicare-Eligible Retiree Health Care Fund) at facilities under the jurisdiction of the Department of Defense or a military department; and
+
+(2) for which a reimbursement would otherwise be made under section 1085.
+
+**(b) Amount.—** The amount of the prospective payment under subsection (a) shall be—
+
+(1) in the case of treatment or care to be provided to members of the Coast Guard and their dependents, derived from amounts appropriated for the operating expenses of the Coast Guard;
+
+(2) in the case of treatment or care to be provided former members of the Coast Guard and their dependents, derived from amounts appropriated for retired pay;
+
+(3) determined under procedures established by the Secretary of Defense;
+
+(4) paid during the fiscal year in which treatment or care is provided; and
+
+(5) subject to adjustment or reconciliation as the Secretaries determine appropriate during or promptly after such fiscal year in cases in which the prospective payment is determined excessive or insufficient based on the services actually provided.
+
+**(c) No Prospective Payment When Service in Navy.—** No prospective payment shall be made under this section for any period during which the Coast Guard operates as a service in the Navy.
+
+**(d) Relationship to TRICARE.—** This section shall not be construed to require a payment for, or the prospective payment of an amount that represents the value of, treatment or care provided under any TRICARE program.

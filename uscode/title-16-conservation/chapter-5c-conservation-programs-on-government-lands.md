@@ -87,7 +87,7 @@ Pub. L. 86–797, § 1, as added by Pub. L. 105–85, div. B, title XXIX, § 290
 
   (B) except as specifically provided in the other provisions of this section and in [section 670b of this title](./chapter-5c-conservation-programs-on-government-lands.md#section-670b), authorizes the Secretary of a military department to require a Federal license or permit to hunt, fish, or trap on a military installation.
 
-**(b) Required elements of plans** Consistent with the use of military installations and State-owned National Guard installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a) of this section—
+**(b) Required elements of plans** Consistent with the use of military installations and State-owned National Guard installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a)—
 
 (1) shall, to the extent appropriate and applicable, provide for—
 
@@ -119,14 +119,14 @@ Pub. L. 86–797, § 1, as added by Pub. L. 105–85, div. B, title XXIX, § 290
 
   (B) the fees collected under this paragraph may not be expended with respect to other than the military installation on which collected, unless the military installation is subsequently closed, in which case the fees may be transferred to another military installation to be used for the same purposes.
 
-**(c) Prohibitions on sale and lease of lands unless effects compatible with plan** After an integrated natural resources management plan is agreed to under subsection (a) of this section—
+**(c) Prohibitions on sale and lease of lands unless effects compatible with plan** After an integrated natural resources management plan is agreed to under subsection (a)—
 
 (1) no sale of land, or forest products from land, that is within a military installation covered by that plan may be made under section 2665(a) or (b) of title 10; and
 
 (2) no leasing of land that is within the installation may be made under section 2667 of such title 10;
 unless the effects of that sale or leasing are compatible with the purposes of the plan.
 
-**(d) Implementation and enforcement of integrated natural resources management plans** With regard to the implementation and enforcement of integrated natural resources management plans agreed to under subsection (a) of this section—
+**(d) Implementation and enforcement of integrated natural resources management plans** With regard to the implementation and enforcement of integrated natural resources management plans agreed to under subsection (a)—
 
 (1) neither Office of Management and Budget Circular A–76 nor any successor circular thereto applies to the procurement of services that are necessary for that implementation and enforcement; and
 
@@ -197,7 +197,7 @@ Pub. L. 112–81, § 312(b)(1)(E)(i), inserted heading.
 
 1997—Subsec. (a). Pub. L. 105–85, § 2904(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of Defense is authorized to carry out a program of planning for, and the development, maintenance, and coordination of, wildlife, fish, and game conservation and rehabilitation in each military reservation in accordance with a cooperative plan mutually agreed upon by the Secretary of Defense, the Secretary of the Interior, and the appropriate State agency designated by the State in which the reservation is located.”
 
-Subsec. (b). Pub. L. 105–85, § 2904(c)(1), inserted heading and substituted, in introductory provisions, “Consistent with the use of military installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a) of this section—” for “Each cooperative plan entered into under subsection (a) of this section—”.
+Subsec. (b). Pub. L. 105–85, § 2904(c)(1), inserted heading and substituted, in introductory provisions, “Consistent with the use of military installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a)—” for “Each cooperative plan entered into under subsection (a)—”.
 
 Subsec. (b)(1). Pub. L. 105–85, § 2904(c)(1), added par. (1) and struck out former par. (1) which read as follows: “shall provide for—
 
@@ -307,13 +307,13 @@ Public Law 85–337, referred to in subsec. (b), is Pub. L. 85–337, Feb. 28, 1
 
 (3) The Secretary of Defense shall carry out this subsection in consultation with the Secretary of Veterans Affairs, national service, military, and veterans organizations, and sporting organizations in the private sector that participate in outdoor recreation projects for persons described in paragraph (2).
 
-**(c) Acceptance of donations** In connection with the facilities and programs for public outdoor recreation at military installations, in particular the requirement under subsection (b) of this section to provide access for persons described in paragraph (2) of such subsection, the Secretary of Defense may accept—
+**(c) Acceptance of donations** In connection with the facilities and programs for public outdoor recreation at military installations, in particular the requirement under subsection (b) to provide access for persons described in paragraph (2) of such subsection, the Secretary of Defense may accept—
 
 (1) the voluntary services of individuals and organizations; and
 
 (2) donations of property, whether real or personal.
 
-**(d) Treatment of volunteers** A volunteer under subsection (c) of this section shall not be considered to be a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits, except that—
+**(d) Treatment of volunteers** A volunteer under subsection (c) shall not be considered to be a Federal employee and shall not be subject to the provisions of law relating to Federal employment, including those relating to hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits, except that—
 
 (1) for the purposes of the tort claims provisions of chapter 171 of title 28, the volunteer shall be considered to be a Federal employee; and
 
@@ -339,7 +339,7 @@ Public Law 85–337, referred to in subsec. (b), is Pub. L. 85–337, Feb. 28, 1
 
 **(b) Multiyear agreements**
 
-(1) Funds appropriated to the Department of Defense for a fiscal year may be obligated to cover the cost of goods and services provided under a cooperative agreement or interagency agreement entered into under subsection (a) of this section or through an agency agreement under [section 1535 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim) during any 18-month period beginning in that fiscal year, without regard to whether the agreement crosses fiscal years.
+(1) Funds appropriated to the Department of Defense for a fiscal year may be obligated to cover the cost of goods and services provided under a cooperative agreement or interagency agreement entered into under subsection (a) or through an agency agreement under [section 1535 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim) during any 18-month period beginning in that fiscal year, without regard to whether the agreement crosses fiscal years.
 
 (2) In the case of a cooperative agreement under subsection (a)(2), such funds—
 
@@ -394,6 +394,9 @@ Subsec. (b). Pub. L. 105–85, § 2908(2), added heading and text of subsec. (b)
 “(2) to furnish services on a matching basis to carry out such programs, projects, and activities,
 
 or to do both.”
+
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (b)(3) of this section requiring submittal of report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-670d"></a>
@@ -505,7 +508,7 @@ Pub. L. 113–66, div. A, title X, § 1091(c), Dec. 26, 2013, 127 Stat. 876, pro
 ## § 670g. Wildlife, fish, and game conservation and rehabilitation programs
 **(a) Programs required** The Secretary of the Interior and the Secretary of Agriculture shall each, in cooperation with the State agencies and in accordance with comprehensive plans developed pursuant to [section 670h of this title](./chapter-5c-conservation-programs-on-government-lands.md#section-670h), plan, develop, maintain, and coordinate programs for the conservation and rehabilitation of wildlife, fish, and game. Such conservation and rehabilitation programs shall include, but not be limited to, specific habitat improvement projects and related activities and adequate protection for species of fish, wildlife, and plants considered threatened or endangered.
 
-**(b) Implementation of programs** The Secretary of the Interior shall implement the conservation and rehabilitation programs required under subsection (a) of this section on public land under his jurisdiction. The Secretary of the Interior shall adopt, modify, and implement the conservation and rehabilitation programs required under subsection (a) of this section on public land under the jurisdiction of the Chairman, but only with the prior written approval of the Atomic Energy Commission, and on public land under the jurisdiction of the Administrator, but only with the prior written approval of the Administrator. The Secretary of Agriculture shall implement such conservation and rehabilitation programs on public land under his jurisdiction.
+**(b) Implementation of programs** The Secretary of the Interior shall implement the conservation and rehabilitation programs required under subsection (a) of this section on public land under his jurisdiction. The Secretary of the Interior shall adopt, modify, and implement the conservation and rehabilitation programs required under such subsection (a) on public land under the jurisdiction of the Chairman, but only with the prior written approval of the Atomic Energy Commission, and on public land under the jurisdiction of the Administrator, but only with the prior written approval of the Administrator. The Secretary of Agriculture shall implement such conservation and rehabilitation programs on public land under his jurisdiction.
 
 ### Statutory Notes
 
@@ -628,7 +631,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 **(b) Enforcement powers and proceedings**
 
-(1) For the purpose of enforcing subsection (a) of this section, the Secretary of the Interior and the Secretary of Agriculture may designate any employee of their respective departments, and any State officer or employee authorized under a cooperative agreement to enforce subsection (a) of this section to (i) carry firearms; (ii) execute and serve any warrant or other process issued by a court or officer of competent jurisdiction; (iii) make arrests without warrant or process for a misdemeanor he has reasonable grounds to believe is being committed in his presence or view; (iv) search without warrant or process any person, place, or conveyance as provided by law; and (v) seize without warrant or process any evidentiary item as provided by law.
+(1) For the purpose of enforcing subsection (a) of this section, the Secretary of the Interior and the Secretary of Agriculture may designate any employee of their respective departments, and any State officer or employee authorized under a cooperative agreement to enforce such subsection (a), to (i) carry firearms; (ii) execute and serve any warrant or other process issued by a court or officer of competent jurisdiction; (iii) make arrests without warrant or process for a misdemeanor he has reasonable grounds to believe is being committed in his presence or view; (iv) search without warrant or process any person, place, or conveyance as provided by law; and (v) seize without warrant or process any evidentiary item as provided by law.
 
 (2) Upon the sworn information by a competent person, any United States magistrate judge or court of competent jurisdiction may issue process for the arrest of any person charged with committing any offense under subsection (a) of this section.
 
@@ -726,7 +729,7 @@ Section, Pub. L. 86–797, title II, § 208, as added Pub. L. 93–452, § 2, Oc
 
 **(c) Use of other conservation or rehabilitation authorities** The Secretary of the Interior and the Secretary of Agriculture may each use any authority available to him under other laws relating to fish, wildlife, or plant conservation or rehabilitation for purposes of carrying out the provisions of this subchapter.
 
-**(d) Contract authority** The Secretary of the Interior and the Secretary of Agriculture may each make purchases and contracts for property and services from, or provide assistance to, the State agencies concerned, if such property, services or assistance is required to implement those projects and programs carried out on, or of benefit to, Federal lands and identified in the comprehensive plans or cooperative agreements developed under [section 670h of this title](./chapter-5c-conservation-programs-on-government-lands.md#section-670h) without regard to division C (except sections 3302, 3307(e), 3501(b), 3509, 3901, 3905, 3906, 4710, and 4711) of subtitle I of title 41. Contract authority provided in this section is effective only to such extent or in such amounts as are provided in appropriation Acts.
+**(d) Contract authority** The Secretary of the Interior and the Secretary of Agriculture may each make purchases and contracts for property and services from, or provide assistance to, the State agencies concerned, if such property, services or assistance is required to implement those projects and programs carried out on, or of benefit to, Federal lands and identified in the comprehensive plans or cooperative agreements developed under [section 670h of this title](./chapter-5c-conservation-programs-on-government-lands.md#section-670h), without regard to division C (except sections 3302, 3307(e), 3501(b), 3509, 3901, 3905, 3906, 4710, and 4711) of subtitle I of title 41. Contract authority provided in this section is effective only to such extent or in such amounts as are provided in appropriation Acts.
 
 ### Statutory Notes
 

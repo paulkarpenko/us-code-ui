@@ -1218,11 +1218,7 @@ shall, if the offense affects interstate or foreign commerce, be punished as pro
 
 (2) In a prosecution for a violation of subsection (a)(9), (other than a violation consisting of producing or trafficking) it is an affirmative defense (which the defendant must establish by a preponderance of the evidence) that the conduct charged was engaged in for research or development in connection with a lawful purpose.
 
-**(h)** Any person who, outside the jurisdiction of the United States, engages in any act that, if committed within the jurisdiction of the United States, would constitute an offense under subsection (a) or (b) of this section, shall be subject to the fines, penalties, imprisonment, and forfeiture provided in this title if—
-
-(1) the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity within the jurisdiction of the United States; and
-
-(2) the person transports, delivers, conveys, transfers to or through, or otherwise stores, secrets, or holds within the jurisdiction of the United States, any article used to assist in the commission of the offense or the proceeds of such offense or property derived therefrom.
+**(h)** Any person who, outside the jurisdiction of the United States, engages in any act that, if committed within the jurisdiction of the United States, would constitute an offense under subsection (a) or (b) of this section, shall be subject to the fines, penalties, imprisonment, and forfeiture provided in this title if the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity organized under the laws of the United States, or any State, the District of Columbia, or other territory of the United States.
 
 ### Statutory Notes
 
@@ -1232,6 +1228,12 @@ Section 413 of the Controlled Substances Act, referred to in subsec. (c)(2), is 
 The Communications Act of 1934, referred to in subsec. (e)(10), is act June 19, 1934, ch. 652, 48 Stat. 1964, as amended. Title III of the Act is classified generally to subchapter III (§ 301 et seq.) of chapter 5 of Title 47, Telecommunications. For complete classification of this Act to the Code, see [section 609 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section609&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2015—Subsec. (h). Pub. L. 114–113 substituted “title if the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity organized under the laws of the United States, or any State, the District of Columbia, or other territory of the United States.” for “title if—
+
+“(1) the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity within the jurisdiction of the United States; and
+
+“(2) the person transports, delivers, conveys, transfers to or through, or otherwise stores, secrets, or holds within the jurisdiction of the United States, any article used to assist in the commission of the offense or the proceeds of such offense or property derived therefrom.”
+
 2002—Subsec. (c)(1)(A)(ii). Pub. L. 107–273, § 4002(b)(11)(A), substituted “(9)” for “(9),”.
 
 Subsec. (e)(8). Pub. L. 107–273, § 4002(b)(11)(B), inserted semicolon at end.

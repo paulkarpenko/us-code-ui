@@ -66,13 +66,19 @@ source: >-
 
 (3) oversee interagency coordination of the Program, including with the activities of the Defense Nanotechnology Research and Development Program established under section 246 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) and the National Institutes of Health;
 
-(4) develop, within 12 months after December 3, 2003, and update every 3 years thereafter, a strategic plan to guide the activities described under subsection (b), meet the goals, priorities, and anticipated outcomes of the participating agencies, and describe—
+(4) develop, not later than 5 years after the date of the release of the most-recent strategic plan, and update every 5 years thereafter, a strategic plan to guide the activities described under subsection (b) that describes—
 
-  (A) how the Program will move results out of the laboratory and into application for the benefit of society;
+  (A) the near-term and long-term objectives for the Program;
 
-  (B) the Program’s support for long-term funding for interdisciplinary research and development in nanotechnology; and
+  (B) the anticipated schedule for achieving the near-term objectives; and 11 So in original. The word “and” probably should not appear.
 
-  (C) the allocation of funding for interagency nanotechnology projects;
+  (C) the metrics that will be used to assess progress toward the near-term and long-term objectives;
+
+  (D) how the Program will move results out of the laboratory and into application for the benefit of society;
+
+  (E) the Program’s support for long-term funding for interdisciplinary research and development in nanotechnology; and
+
+  (F) the allocation of funding for interagency nanotechnology projects;
 
 (5) propose a coordinated interagency budget for the Program to the Office of Management and Budget to ensure the maintenance of a balanced nanotechnology research portfolio and an appropriate level of research effort;
 
@@ -102,6 +108,15 @@ source: >-
 
 #### References in Text
 Section 246 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred to in subsec. (c)(3), is section 246 of Pub. L. 107–314, which is set out as a note under [section 2358 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2358&num=0&edition=prelim), Armed Forces.
+
+#### Amendments
+2017—Subsec. (c)(4). Pub. L. 114–329 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “develop, within 12 months after December 3, 2003, and update every 3 years thereafter, a strategic plan to guide the activities described under subsection (b), meet the goals, priorities, and anticipated outcomes of the participating agencies, and describe—
+
+“(A) how the Program will move results out of the laboratory and into application for the benefit of society;
+
+“(B) the Program’s support for long-term funding for interdisciplinary research and development in nanotechnology; and
+
+“(C) the allocation of funding for interagency nanotechnology projects;”.
 
 #### Change of Name
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
@@ -163,7 +178,7 @@ Committee on Science of House of Representatives changed to Committee on Science
 
 (7) whether societal, ethical, legal, environmental, and workforce concerns are adequately addressed by the Program.
 
-**(d) Reports** The Advisory Panel shall report, not less frequently than once every 2 fiscal years, to the President on its assessments under subsection (c) and its recommendations for ways to improve the Program. The first report under this subsection shall be submitted within 1 year after December 3, 2003. The Director of the Office of Science and Technology Policy shall transmit a copy of each report under this subsection to the Senate Committee on Commerce, Science, and Technology, the House of Representatives Committee on Science, and other appropriate committees of the Congress.
+**(d) Reports** Not later than 4 years after the date of the most recent assessment under subsection (c), and quadrennially thereafter, the Advisory Panel shall submit to the President, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives a report its 11 So in original. assessments under subsection (c) and its recommendations for ways to improve the Program.
 
 **(e) Travel expenses of non-Federal members** Non-Federal members of the Advisory Panel, while attending meetings of the Advisory Panel or while otherwise serving at the request of the head of the Advisory Panel away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim) for individuals in the government serving without pay. Nothing in this subsection shall be construed to prohibit members of the Advisory Panel who are officers or employees of the United States from being allowed travel expenses, including per diem in lieu of subsistence, in accordance with existing law.
 
@@ -174,16 +189,16 @@ Committee on Science of House of Representatives changed to Committee on Science
 #### References in Text
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Change of Name
-Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+#### Amendments
+2017—Subsec. (d). Pub. L. 114–329 amended subsec. (d) generally. Prior to amendment, text read as follows: “The Advisory Panel shall report, not less frequently than once every 2 fiscal years, to the President on its assessments under subsection (c) and its recommendations for ways to improve the Program. The first report under this subsection shall be submitted within 1 year after December 3, 2003. The Director of the Office of Science and Technology Policy shall transmit a copy of each report under this subsection to the Senate Committee on Commerce, Science, and Technology, the House of Representatives Committee on Science, and other appropriate committees of the Congress.”
 
 #### Transfer of Functions
 President’s Council of Advisors on Science and Technology to serve as the advisory panel identified in this section and to be known as the National Nanotechnology Advisory Panel when performing the functions of such advisory committee, see section 2(a)(iv) of Ex. Ord. No. 13539, set out as a note under [section 6601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6601&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-7504"></a>
-## § 7504. Triennial external review of the National Nanotechnology Program
-**(a) In general** The Director of the National Nanotechnology Coordination Office shall enter into an arrangement with the National Research Council of the National Academy of Sciences to conduct a triennial evaluation of the Program, including—
+## § 7504. Quadrennial external review of the National Nanotechnology Program
+**(a) In general** The Director of the National Nanotechnology Coordination Office shall enter into an arrangement with the National Research Council of the National Academy of Sciences to conduct a quadrennial evaluation of the Program, including—
 
 (1) an evaluation of the technical accomplishments of the Program, including a review of whether the Program has achieved the goals under the metrics established by the Council;
 
@@ -211,9 +226,9 @@ President’s Council of Advisors on Science and Technology to serve as the advi
 
 (13) an analysis of the current impact of nanotechnology on the United States economy and recommendations for increasing its future impact.
 
-**(b) Study on molecular self-assembly** As part of the first triennial review conducted in accordance with subsection (a), the National Research Council shall conduct a one-time study to determine the technical feasibility of molecular self-assembly for the manufacture of materials and devices at the molecular scale.
+**(b) Study on molecular self-assembly** As part of the first quadrennial review conducted in accordance with subsection (a), the National Research Council shall conduct a one-time study to determine the technical feasibility of molecular self-assembly for the manufacture of materials and devices at the molecular scale.
 
-**(c) Study on the responsible development of nanotechnology** As part of the first triennial review conducted in accordance with subsection (a), the National Research Council shall conduct a one-time study to assess the need for standards, guidelines, or strategies for ensuring the responsible development of nanotechnology, including, but not limited to—
+**(c) Study on the responsible development of nanotechnology** As part of the first quadrennial review conducted in accordance with subsection (a), the National Research Council shall conduct a one-time study to assess the need for standards, guidelines, or strategies for ensuring the responsible development of nanotechnology, including, but not limited to—
 
 (1) self-replicating nanoscale machines or devices;
 
@@ -227,12 +242,18 @@ President’s Council of Advisors on Science and Technology to serve as the advi
 
 (6) the use of nanotechnology in developing artificial intelligence.
 
-**(d) Evaluation to be transmitted to Congress** The Director of the National Nanotechnology Coordination Office shall transmit the results of any evaluation for which it made arrangements under subsection (a) to the Advisory Panel, the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science upon receipt. The first such evaluation shall be transmitted no later than June 10, 2005, with subsequent evaluations transmitted to the Committees every 3 years thereafter.
+**(d) Report**
+
+(1) **In general** — Not later than 30 days after the date the first evaluation under subsection (a) is received, and quadrennially thereafter, the Director of the National Nanotechnology Coordination Office shall report to the President its assessments under subsection (c) and its recommendations for ways to improve the Program.
+
+(2) **Congress** — Not later than 30 days after the date the President receives the report under paragraph (1), the Director of the Office of Science and Technology Policy shall transmit a copy of the report to Congress.
 
 ### Statutory Notes
 
-#### Change of Name
-Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+#### Amendments
+2017—Pub. L. 114–329, § 204(b)(3)(A)–(D), substituted “Quadrennial” for “Triennial” in section catchline and “quadrennial” for “triennial” in subsecs. (a) to (c).
+
+Subsec. (d). Pub. L. 114–329, § 204(b)(3)(E), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Director of the National Nanotechnology Coordination Office shall transmit the results of any evaluation for which it made arrangements under subsection (a) to the Advisory Panel, the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science upon receipt. The first such evaluation shall be transmitted no later than June 10, 2005, with subsequent evaluations transmitted to the Committees every 3 years thereafter.”
 
 
 <a id="section-7505"></a>
@@ -301,7 +322,7 @@ Committee on Science of House of Representatives changed to Committee on Science
 ### Statutory Notes
 
 #### Change of Name
-The Manufacturing Extension Partnership Program, referred to in subsec. (a), redesignated the Hollings Manufacturing Partnership Program by a provision of title II of div. B of Pub. L. 108–447, formerly set out as a note under [section 278k of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278k).
+The Manufacturing Extension Partnership Program, referred to in subsec. (a), redesignated the Hollings Manufacturing Partnership Program by a provision of title II of div. B of Pub. L. 108–447, formerly set out as a note under [section 278k of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278k). Program subsequently designated the Hollings Manufacturing Extension Partnership by former [section 278k(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278k/i&num=0&edition=prelim), as added by Pub. L. 111–358, and by [section 278k of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278k), as generally amended by Pub. L. 114–329.
 
 
 <a id="section-7507"></a>

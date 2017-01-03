@@ -50,7 +50,7 @@ For purposes of this chapter—
 
 (4) The term “Native American Pacific Islander” means any descendent of the aboriginal people of any island in the Pacific Ocean that is a territory or possession of the United States.
 
-(5) The terms “Indian tribe” and “tribal organization” have the respective meaning given to each of such terms under [section 450b of this title](./chapter-014-miscellaneous.md#section-450b).
+(5) The terms “Indian tribe” and “tribal organization” have the respective meaning given to each of such terms under [section 5304 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5304).
 
 (6) The term “Native American language” means the historical, traditional languages spoken by Native Americans.
 
@@ -61,6 +61,10 @@ For purposes of this chapter—
 ### Statutory Notes
 
 #### Amendments
+2015—Par. (2). Pub. L. 114–95, § 9215(iii)(1), made technical amendment to reference in original act which appears in text as reference to [section 7491(3) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7491/3&num=0&edition=prelim).
+
+Par. (3). Pub. L. 114–95, § 9215(iii)(2), made technical amendment to reference in original act which appears in text as reference to [section 7517 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7517&num=0&edition=prelim).
+
 2002—Par. (2). Pub. L. 107–110, § 702(f)(1), substituted “[section 7491(3) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7491/3&num=0&edition=prelim)” for “[section 7881(4) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7881/4&num=0&edition=prelim)”.
 
 Par. (3). Pub. L. 107–110, § 702(f)(2), substituted “[section 7517 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7517&num=0&edition=prelim)” for “[section 7912(1) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7912/1&num=0&edition=prelim)”.
@@ -68,6 +72,9 @@ Par. (3). Pub. L. 107–110, § 702(f)(2), substituted “[section 7517 of title
 1996—Par. (2). Pub. L. 104–109, § 11(1), substituted “[section 7881(4) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7881/4&num=0&edition=prelim)” for “[section 2651(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2651/4&num=0&edition=prelim)”.
 
 Par. (3). Pub. L. 104–109, § 11(2), substituted “[section 7912(1) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7912/1&num=0&edition=prelim)” for “[section 4909 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section4909&num=0&edition=prelim)”.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.

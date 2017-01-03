@@ -50,7 +50,7 @@ A prior section 3012 was renumbered [section 3013 of this title](./chapter-303-d
 ## § 3013. Secretary of the Army
 **(a)**
 
-(1) There is a Secretary of the Army, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary is the head of the Department of the Army.
+(1) There is a Secretary of the Army, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary shall, to the greatest extent practicable, be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management or leadership experience. The Secretary is the head of the Department of the Army.
 
 (2) A person may not be appointed as Secretary of the Army within five years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
@@ -118,9 +118,20 @@ A prior section 3013, acts Aug. 10, 1956, ch. 1041, 70A Stat. 157, § 3012; Sept
 Another prior section 3013 was renumbered [section 3014 of this title](./chapter-303-department-of-the-army.md#section-3014) and subsequently repealed.
 
 #### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–328 inserted “The Secretary shall, to the greatest extent practicable, be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management or leadership experience.” after first sentence.
+
 2003—Subsec. (c)(4). Pub. L. 108–136 struck out “(to the maximum extent practicable)” after “fulfill”.
 
 1986—Subsec. (a)(2). Pub. L. 99–661 substituted “five years” for “10 years”.
+
+#### Restructuring of the Distributed Common Ground System of the Army
+Pub. L. 114–328, div. A, title II, § 220(a), (b), Dec. 23, 2016, 130 Stat. 2055, provided that: “(a) In General.—Not later that April 1, 2017, the Secretary of the Army shall restructure versions of the distributed common ground system of the Army after Increment 1—“(1) by discontinuing development of new software code, excluding the configuration and testing of system interfaces to commercial, open source, and existing Government off the shelf (GOTS) software, of any component of the system for which there is commercial, open source, or Government off the shelf software that is capable of fulfilling at least 80 percent of the system requirements applicable to such component; and “(2) by conducting a review of the acquisition strategy of the program to ensure that procurement of commercial software is the preferred method of meeting program requirements for major system components. “(b) Limitation.—The Secretary of the Army shall not award any contract for the development of new component software capability for the distributed common ground system of the Army if such a capability is already a commercial item or open source, except for configuration of capabilities that are incidental to and necessary for the proper functioning of the system.”
+
+#### Consolidation of Army Marketing and Pilot Program on Consolidated Army Recruiting
+Pub. L. 114–328, div. A, title V, § 527, Dec. 23, 2016, 130 Stat. 2117, provided that: “(a) Consolidation of Army Marketing.—Not later than October 1, 2017, the Secretary of the Army shall consolidate into a single organization within the Department of the Army all functions relating to the marketing of the Army and each of the components of the Army in order to assure unity of effort and cost effectiveness in the marketing of the Army and each of the components of the Army. “(b) Pilot Program on Consolidated Army Recruiting.—“(1) Pilot program required.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of the Army shall carry out a pilot program to consolidate the recruiting efforts of the Regular Army, Army Reserve, and Army National Guard under which a recruiter in one of the components participating in the pilot program may recruit individuals to enlist in any of the components regardless of the funding source of the recruiting activity. “(2) Credit toward enlistment goals.—Under the pilot program, a recruiter shall receive credit toward periodic enlistment goals for each enlistment regardless of the component in which the individual enlists. “(3) Duration.—The Secretary shall carry out the pilot program for a period of not less than three years. “(c) Briefing and Reports.—“(1) Briefing on consolidation plan.—Not later than March 1, 2017, the Secretary of the Army shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the Secretary’s plan to carry out the Army marketing consolidation required by subsection (a). “(2) Interim report on pilot program.—“(A) In general.—Not later than one year after the date on which the pilot program under subsection (b) commences, the Secretary shall submit to the congressional committees specified in paragraph (1) a report on the pilot program. “(B) Elements.—The report under subparagraph (A) shall include each of the following:“(i) An analysis of the effects that consolidated recruiting efforts has on the overall ability of recruiters to attract and place qualified candidates. “(ii) A determination of the extent to which consolidating recruiting efforts affects efficiency and recruiting costs. “(iii) An analysis of any challenges associated with a recruiter working to recruit individuals to enlist in a component in which the recruiter has not served. “(iv) An analysis of the satisfaction of recruiters and the component recruiting commands with the pilot program. “(3) Final report on pilot program.—Not later than 180 days after the date on which the pilot program is completed, the Secretary shall submit to the congressional committees specified in paragraph (1) a final report on the pilot program. The final report shall include any recommendations of the Secretary with respect to extending or making permanent the pilot program and a description of any related legislative actions that the Secretary considers appropriate.”
+
+#### Global Cultural Knowledge Network
+Pub. L. 114–328, div. A, title X, § 1087, Dec. 23, 2016, 130 Stat. 2425, provided that: “(a) Program Authorized.—The Secretary of the Army shall carry out a program to support the socio-cultural understanding needs of the Department of the Army, to be known as the Global Cultural Knowledge Network. “(b) Goals.—The Global Cultural Knowledge Network shall support the following goals:“(1) Provide socio-cultural analysis support to any unit deployed, or preparing to deploy, to an exercise or operation in the assigned region of responsibility of the unit being supported. “(2) Make recommendations or support policy or doctrine development to increase the social science expertise of military and civilian personnel of the Department of the Army. “(3) Provide reimbursable support to other military departments or Federal agencies if requested through an operational needs request process. “(c) Elements of the Program.—The Global Cultural Knowledge Network shall include the following elements:“(1) A center in the continental United States (referred to in this section as a ‘reach-back center’) to support requests for information, research, and analysis. “(2) Outreach to academic institutions and other Federal agencies involved in social science research to increase the network of resources for the reach-back center. “(3) Training with operational units during annual training exercises or during pre-deployment training. “(4) The training, contracting, and human resources capacity to rapidly respond to contingencies in which social science expertise is requested by operational commanders through an operational needs request process. “(d) Directive Required.—The Secretary of the Army shall issue a directive within one year after the date of the enactment of this Act [Dec. 23, 2016] for the governance of the Global Cultural Knowledge Network, including oversight and process controls for auditing the activities of personnel of the Network, the employment of the Global Cultural Knowledge Network by operational forces, and processes for requesting support by operational Army units and other Department of Defense and Federal entities. “(e) Prohibition on Deployments Under Global Cultural Knowledge Network.—“(1) Prohibition.—The Secretary of the Army may not deploy social scientists of the Global Cultural Knowledge Network in a conflict zone. “(2) Waiver.—The Secretary of the Army may waive the prohibition in paragraph (1) if the Secretary submits, at least 10 days before the deployment, to the Committees on Armed Services of the House of Representatives and the Senate—“(A) notice of the waiver; and “(B) a certification that there is a compelling national security interest for the deployment or there will be a benefit to the safety and welfare of members of the Armed Forces from the deployment. “(3) Elements of waiver notice.—A waiver notice under this subsection also shall include the following:“(A) The operational unit, or units, requesting support, including the location or locations where the social scientists are to be deployed. “(B) The number of Global Cultural Knowledge Network personnel to be deployed and the anticipated duration of such deployments. “(C) The anticipated resource needs for such deployment.”
 
 #### Pilot Program for the Human Terrain System
 Pub. L. 113–291, div. A, title X, § 1075, Dec. 19, 2014, 128 Stat. 3519, provided that: “(a) Pilot Program Required.—The Secretary of the Army may carry out a pilot program under which the Secretary utilizes Human Terrain System assets in the United States Pacific Command area of responsibility to support phase 0 shaping operations and the theater security cooperation plans of the Commander of the United States Pacific Command. “(b) Reports.—“(1) Initial report.—Not later than one year after the date of the enactment of this Act [Dec. 19, 2014], the Secretary of the Army shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the status of the pilot program under this section. Such report shall include the independent analysis and recommendations of the Commander of the United States Pacific Command regarding the effectiveness of the program and how it could be improved. “(2) Final report.—Not later than December 1, 2016, the Secretary of the Army shall submit to the congressional defense committees a final report on the pilot program. Such report shall include an analysis of the comparative value of human terrain information relative to other analytic tools and techniques, recommendations regarding expanding the program to include other combatant commands, and any improvements to the program and necessary resources that would enable expanding the program. “(c) Termination.—The authority to carry out a pilot program under this section shall terminate on September 30, 2016.”
@@ -212,7 +223,9 @@ For order of succession in event of death, permanent disability, or resignation 
 
 (3) The total number of general officers assigned or detailed to permanent duty in the Office of the Secretary of the Army and on the Army Staff may not exceed 67.
 
-(4) The limitations in paragraphs (1), (2), and (3) do not apply in time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Army or on the Army Staff.
+(4) The limitations in paragraphs (1), (2), and (3) do not apply in time of war.
+
+(5) Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.
 
 ### Statutory Notes
 
@@ -222,6 +235,10 @@ A prior section 3014, acts Aug. 10, 1956, ch. 1041, 70A Stat. 158, § 3013; Aug.
 Another prior section 3014 was renumbered [section 3015 of this title](./chapter-303-department-of-the-army.md#section-3015) and subsequently repealed.
 
 #### Amendments
+2016—Subsec. (f)(4). Pub. L. 114–328, § 903(c)(1), substituted “time of war.” for “time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Army or on the Army Staff.”
+
+Subsec. (f)(5). Pub. L. 114–328, § 903(c)(2), added par. (f)(5).
+
 2002—Subsec. (b)(6) to (8). Pub. L. 107–314 added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
 2001—Subsec. (f)(3). Pub. L. 107–107 substituted “67” for “the number equal to 85 percent of the number of general officers assigned or detailed to such duty on the date of the enactment of this subsection”.
@@ -279,7 +296,7 @@ For order of succession in event of death, permanent disability, or resignation 
 
   (A) One of the Assistant Secretaries shall be the Assistant Secretary of the Army for Acquisition, Technology, and Logistics. The principal duty of the Assistant Secretary shall be the overall supervision of acquisition, technology, and logistics matters of the Department of the Army.
 
-  (B) The Assistant Secretary shall have a Principal Military Deputy, who shall be a lieutenant general of the Army on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under [section 1733 of this title](./chapter-087-defense-acquisition-workforce.md#section-1733).
+  (B) The Assistant Secretary shall have a Principal Military Deputy, who shall be a lieutenant general of the Army on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under [section 1733 of this title](./chapter-087-defense-acquisition-workforce.md#section-1733). In the event of a vacancy in the position of Assistant Secretary of the Army for Acquisition, Logistics, and Technology, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.
 
 ### Statutory Notes
 
@@ -289,6 +306,8 @@ Provisions similar to those in this section were contained in [section 3013 of t
 A prior section 3016 was renumbered [section 3018 of this title](./chapter-303-department-of-the-army.md#section-3018).
 
 #### Amendments
+2016—Subsec. (b)(5)(B). Pub. L. 114–328 inserted at end “In the event of a vacancy in the position of Assistant Secretary of the Army for Acquisition, Logistics, and Technology, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.”
+
 2008—Subsec. (b)(5). Pub. L. 110–181 added par. (5).
 
 1988—Subsec. (b)(4). Pub. L. 100–456 added par. (4).
@@ -473,9 +492,14 @@ Section effective Jan. 20, 1989, see section 702(e)(1) of Pub. L. 100–456, set
 
 <a id="section-3023"></a>
 ## § 3023. Chief of Legislative Liaison
-**(a)** There is a Chief of Legislative Liaison in the Department of the Army. An officer assigned to that position shall be an officer in the grade of major general.
+**(a)** There is a Chief of Legislative Liaison in the Department of the Army.
 
 **(b)** The Chief of Legislative Liaison shall perform legislative affairs functions as specified for the Office of the Secretary of the Army by [section 3014(c)(1)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3014/c/1/F&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendments
+2016—Subsec. (a). Pub. L. 114–328 struck out second sentence which read as follows: “An officer assigned to that position shall be an officer in the grade of major general.”
 
 
 <a id="section-3024"></a>

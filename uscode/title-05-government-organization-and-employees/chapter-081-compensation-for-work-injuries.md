@@ -19,9 +19,13 @@ For the purpose of this subchapter—
 
   (C) an individual, other than an independent contractor or an individual employed by an independent contractor, employed on the Menominee Indian Reservation in Wisconsin in operations conducted under a statute relating to tribal timber and logging operations on that reservation;
 
-  (D) an individual employed by the government of the District of Columbia; and
+  (D) an individual employed by the government of the District of Columbia;
 
   (E) an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 (72 Stat. 838);
+
+  (F) 1 an individual selected pursuant to chapter 121 of title 28, and serving as a petit or grand juror; and
+
+  (G) an individual who is a System member of the National Urban Search and Rescue Response System during a period of appointment into Federal service pursuant to [section 5165f of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5165f&num=0&edition=prelim);
   but does not include—
 
   (i) a commissioned officer of the Regular Corps of the Public Health Service;
@@ -31,8 +35,6 @@ For the purpose of this subchapter—
   (iii) a commissioned officer of the Environmental Science Services Administration; or
 
   (iv) a member of the Metropolitan Police or the Fire Department of the District of Columbia who is pensioned or pensionable under sections 521–535 of title 4, District of Columbia Code; and
-
-  (F) 11 So in original. Pub. L. 93–416 added par. (F) immediately after par. (iv), rather than after par. (E). an individual selected pursuant to chapter 121 of title 28, United States Code, and serving as a petit or grand juror;
 
 (2) “physician” includes surgeons, podiatrists, dentists, clinical psychologists, optometrists, chiropractors, and osteopathic practitioners within the scope of their practice as defined by State law. The term “physician” includes chiropractors only to the extent that their reimbursable services are limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist, and subject to regulation by the Secretary;
 
@@ -148,9 +150,15 @@ In paragraph (19), the words “July 1966 and each later month” are substitute
 Act of August 25, 1958, 72 Stat. 838, referred to in par. (1)(E), is set out as a note under [section 102 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim), The President.
 
 #### Amendments
+2016—Par. (1)(D). Pub. L. 114–326, § 2(b)(1)(A), struck out “and” after semicolon at end.
+
+Par. (1)(F). Pub. L. 114–326, § 2(b)(1)(B), (C), moved subpar. (F) from end of par. to appear immediately after subpar. (E), struck out “United States Code,” after “title 28,”, and inserted “and” at end.
+
+Par. (1)(G). Pub. L. 114–326, § 2(b)(1)(D), added subpar. (G).
+
 1991—Par. (20). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1983—Par. (1)(F). Pub. L. 97–463 struck out “and who is otherwise an employee for the purposes of this subchapter as defined by paragraph (A), (B), (C), (D), and (E) of this subsection” after “petit or grand juror”.
+1983—Par. (1)(F). Pub. L. 97–463 substituted “grand juror;” for “grand juror and who is otherwise an employee for the purposes of this subchapter as defined by paragraph (A), (B), (C), (D), and (E) of this subsection.”
 
 1980—Pars. (19) to (21). Pub. L. 96–499 struck out par. (19) which defined “base month” as the month of July 1966 and each later month which was used as a basis for calculating an increase under [section 8146a of this title](./chapter-081-compensation-for-work-injuries.md#section-8146a), and redesignated pars. (20) and (21) as (19) and (20), respectively.
 
@@ -2206,7 +2214,7 @@ Public Law 77–784 (December 2, 1942), which extended coverage to war risk haza
 
 Public Law 84–879 (August 1, 1956), which extended coverage to certain members of the Reserve Officers Training Corps of the Army, Navy, and Air Force, was classified to section 802 of former Title 5, Executive Departments and Government Officers and Employees.
 
-Public Law 80–896 (July 3, 1948), which extended coverage to certain persons entitled to war claims, is act July 3, 1948, ch. 826, 62 Stat. 1240, as amended, popularly known as the War Claims Act of 1948, which is classified generally to section 2001 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2001&num=0&edition=prelim), Appendix, and Tables.
+Public Law 80–896 (July 3, 1948), which extended coverage to certain persons entitled to war claims, is act July 3, 1948, ch. 826, 62 Stat. 1240, popularly known as the War Claims Act of 1948, which is classified generally to chapter 51 (§ 4101 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 Act of September 8, 1959 (73 Stat. 469) which transferred from the Department of Commerce to the Department of Labor certain functions in respect to insurance benefits and disability payments to seamen for W.W. II service-connected injuries, death, or disability, was not classified to the Code.
 

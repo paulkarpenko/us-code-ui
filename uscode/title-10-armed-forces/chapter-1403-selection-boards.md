@@ -36,7 +36,7 @@ Subsec. (b)(1) to (3). Pub. L. 108–136, § 511(b)(1)(B), (C), redesignated par
 1997—Subsec. (a)(2). Pub. L. 105–85 struck out “(except in the case of a board convened to consider officers as provided in [section 14301(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14301/e&num=0&edition=prelim))” before “be known as a ‘vacancy promotion board’.”
 
 #### Effective Date
-Chapter effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14102"></a>
@@ -61,6 +61,9 @@ Provisions similar to those in this section were contained in sections 3362(b), 
 #### Amendments
 2003—Subsec. (a). Pub. L. 108–136 substituted “Selection boards convened under [section 14101(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/b&num=0&edition=prelim)” for “Continuation boards”.
 
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14103"></a>
 ## § 14103. Oath of members
@@ -71,6 +74,9 @@ Each member of a selection board convened under [section 14101 of this title](./
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 3362(d), 5894, and 8362(d) of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14104"></a>
@@ -104,12 +110,20 @@ Subsec. (c). Pub. L. 111–383, § 503(c)(3), added subsec. (c).
 #### Effective Date of 2006 Amendment
 This section, as amended by Pub. L. 109–364, applicable with respect to the proceedings of all selection boards convened under [section 14101 of this title](./chapter-1403-selection-boards.md#section-14101), including selection boards convened before Oct. 17, 2006, see section 547(c) of Pub. L. 109–364, set out as an Effective Date note under [section 613a of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-613a).
 
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14105"></a>
 ## § 14105. Notice of convening of promotion board
 **(a) Required Notice.—** At least 30 days before a promotion board is convened under [section 14101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/a&num=0&edition=prelim) to consider officers in a grade and competitive category for promotion to the next higher grade, the Secretary concerned shall either (1) notify in writing the officers eligible for consideration by the board for promotion regarding the convening of the board, or (2) issue a general written notice to the armed force concerned regarding the convening of the board.
 
 **(b) Content of Notice.—** A notice under subsection (a) shall include the date on which the board is to convene and (except in the case of a vacancy promotion board) the name and date of rank of the junior officer, and of the senior officer, in the promotion zone as of the date of the notice.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14106"></a>
@@ -127,6 +141,9 @@ Provisions similar to those in this section were contained in sections 3362(f), 
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–163 effective Mar. 1, 2006, and applicable with respect to selection boards convened on or after that date, see section 505(c) of Pub. L. 109–163, set out as a note under [section 614 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-614).
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14107"></a>
@@ -208,6 +225,9 @@ Subsec. (d). Pub. L. 109–163, § 515(b)(1)(QQ), substituted “Navy Reserve”
 #### Effective Date of 2006 Amendment
 Amendment by section 506(b) of Pub. L. 109–163 effective Oct. 1, 2006, and applicable with respect to promotion selection boards convened on or after that date, see section 506(c) of Pub. L. 109–163, set out as a note under [section 615 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-615).
 
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14108"></a>
 ## § 14108. Recommendations by promotion boards
@@ -244,6 +264,9 @@ Subsec. (b)(3). Pub. L. 109–364, § 512(b)(2)–(4), added par. (3).
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–364 effective Oct. 17, 2006, and applicable with respect to selection boards convened on or after that date, see section 512(c) of Pub. L. 109–364, set out as a note under [section 616 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-616).
 
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14109"></a>
 ## § 14109. Reports of promotion boards: in general
@@ -266,6 +289,9 @@ Amendment by Pub. L. 109–364 effective Oct. 17, 2006, and applicable with resp
 #### Prior Provisions
 Provisions similar to those in subsecs. (a) and (b) of this section were contained in [section 5897 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5897&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1629(b)(2).
 
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+
 
 <a id="section-14110"></a>
 ## § 14110. Reports of promotion boards: review by Secretary
@@ -277,6 +303,9 @@ Provisions similar to those in subsecs. (a) and (b) of this section were contain
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 5898(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section5898/a&num=0&edition=prelim), prior to repeal by Pub. L. 103–337, § 1629(b)(2).
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-14111"></a>
@@ -301,6 +330,9 @@ Provisions similar to those in subsecs. (a) and (b) of this section were contain
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–364 applicable with respect to selection boards convened on or after Oct. 17, 2006, see section 513(c) of Pub. L. 109–364, set out as a note under [section 618 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-618).
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Delegation of Functions
 For assignment of functions of President under first sentence of subsec. (a) of this section, see section 1(c) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, and section 1(a) of Ex. Ord. No. 13598, Jan. 27, 2012, 77 F.R. 5371, set out as notes under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
@@ -333,3 +365,6 @@ Provisions similar to those in this section were contained in [section 5898(d) o
 
 #### Amendments
 2000—Pub. L. 106–398 amended text generally. Prior to amendment, text read as follows: “Upon approval by the President of the report of a promotion board, the names of the officers recommended for promotion by the promotion board (other than any name removed by the President) may be disseminated to the armed force concerned. If those names have not been sooner disseminated, those names (other than the name of any officer whose promotion the Senate failed to confirm) shall be promptly disseminated to the armed force concerned upon confirmation by the Senate.”
+
+#### Effective Date
+Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).

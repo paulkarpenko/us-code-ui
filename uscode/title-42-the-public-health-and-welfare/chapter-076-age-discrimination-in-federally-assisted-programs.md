@@ -77,9 +77,6 @@ Pursuant to regulations prescribed under [section 6103 of this title](./chapter-
 #### References in Text
 The Age Discrimination in Employment Act of 1967 ([29 U.S.C. 621–634](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section621–634&num=0&edition=prelim)), as amended, referred to in subsec. (c)(2), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, as amended, which is classified generally to chapter 14 (§ 621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section621&num=0&edition=prelim) and Tables.
 
-#### Codification
-In subsec. (c)(1), “Job Training Partnership Act [[29 U.S.C. 1501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1501&num=0&edition=prelim) et seq.]” substituted for “Comprehensive Employment and Training Act of 1974 ([29 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section801&num=0&edition=prelim) et seq.), as amended” pursuant to section 183 of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357, which is classified to [section 1592 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1592&num=0&edition=prelim), Labor, and which provided in part that references in any other statute to the Comprehensive Employment and Training Act shall be deemed to refer to the Job Training Partnership Act.
-
 #### Amendments
 1998—Subsec. (c)(1). Pub. L. 105–277 substituted “Nothing” for “Except with respect to any program or activity receiving Federal financial assistance for public service employment under the Job Training Partnership Act, nothing”.
 
@@ -233,6 +230,8 @@ For purposes of this chapter—
 ### Statutory Notes
 
 #### Amendments
+2015—Par. (4)(B)(ii). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
 2006—Par. (3). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 2002—Par. (4)(B)(ii). Pub. L. 107–110 substituted “7801” for “8801”.
@@ -243,6 +242,9 @@ For purposes of this chapter—
 
 #### Change of Name
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in par. (2), pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.

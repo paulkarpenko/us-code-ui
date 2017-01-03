@@ -85,9 +85,11 @@ source: >-
 
   (B) *Determination of gross income* — For purposes of subparagraph (A)—
 
-    (i) In the case of a trade or business, the term “gross income” means the total of the amounts received or accrued from the sale of goods or services (if such amounts are required to be shown on the return) prior to diminution by the cost of such sales or services; and
+    (i) In the case of a trade or business, the term “gross income” means the total of the amounts received or accrued from the sale of goods or services (if such amounts are required to be shown on the return) prior to diminution by the cost of such sales or services;
 
-    (ii) In determining the amount omitted from gross income, there shall not be taken into account any amount which is omitted from gross income stated in the return if such amount is disclosed in the return, or in a statement attached to the return, in a manner adequate to apprise the Secretary of the nature and amount of such item.
+    (ii) An understatement of gross income by reason of an overstatement of unrecovered cost or other basis is an omission from gross income; and
+
+    (iii) In determining the amount omitted from gross income (other than in the case of an overstatement of unrecovered cost or other basis), there shall not be taken into account any amount which is omitted from gross income stated in the return if such amount is disclosed in the return, or in a statement attached to the return, in a manner adequate to apprise the Secretary of the nature and amount of such item.
 
   (C) *Constructive dividends* — If the taxpayer omits from gross income an amount properly includible therein under section 951(a), the tax may be assessed, or a proceeding in court for the collection of such tax may be done without assessing, at any time within 6 years after the return was filed.
 
@@ -142,8 +144,21 @@ the personal holding company tax for such year may be assessed, or a proceeding 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (n)
+Pub. L. 114–74, title XI, § 1101(f)(3), (g), Nov. 2, 2015, 129 Stat. 637, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (n) of this section is amended by striking paragraphs (2) and (3) and by striking “Cross references” and all that follows through “For period of limitations” and inserting “Cross reference” and “For period of limitations”. See 2015 Amendment note below.
+
 #### Amendments
-2015—Subsec. (m). Pub. L. 114–27 inserted “, 35(g)(11)” after “30D(e)(4)”.
+2015—Subsec. (e)(1)(B)(ii). Pub. L. 114–41, § 2005(a)(1), added cl. (ii). Former cl. (ii) redesignated (iii).
+
+Subsec. (e)(1)(B)(iii). Pub. L. 114–41 redesignated cl. (ii) as (iii) and inserted “(other than in the case of an overstatement of unrecovered cost or other basis)” after “In determining the amount omitted from gross income”.
+
+Subsec. (m). Pub. L. 114–27 inserted “, 35(g)(11)” after “30D(e)(4)”.
+
+Subsec. (n). Pub. L. 114–74 substituted “Cross reference” for “Cross references” in heading, struck out par. (1) designation before “For period of limitations”, and struck out pars. (2) and (3) which read as follows:
+
+“(2) For extension of period in the case of partnership items (as defined in section 6231(a)(3)), see section 6229.
+
+“(3) For declaratory judgment relating to treatment of items other than partnership items with respect to an oversheltered return, see section 6234.”
 
 2014—Subsec. (m). Pub. L. 113–295 struck out “section 30(e)(6),” before “30B(h)(9),”.
 
@@ -376,6 +391,10 @@ Subsec. (g)(2). Pub. L. 85–866, § 81(a), substituted “organization” for �
 Subsecs. (h), (i). Pub. L. 85–866, § 81(b), added subsec. (h) and redesignated former subsec. (h) as (i).
 
 #### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
+
+Pub. L. 114–41, title II, § 2005(b), July 31, 2015, 129 Stat. 457, provided that: “The amendments made by this section [amending this section] shall apply to— “(1) returns filed after the date of the enactment of this Act [July 31, 2015], and “(2) returns filed on or before such date if the period specified in section 6501 of the Internal Revenue Code of 1986 (determined without regard to such amendments) for assessment of the taxes with respect to which such return relates has not expired as of such date.”
+
 Amendment by Pub. L. 114–27 applicable to coverage months in taxable years beginning after Dec. 31, 2013, see section 407(f) of Pub. L. 114–27, set out as a note under [section 35 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-35).
 
 #### Effective Date of 2014 Amendment
@@ -699,6 +718,9 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(1)
+Pub. L. 114–74, title XI, § 1101(f)(4), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, subsection (a)(1) of this section is amended by striking “(or section 6229” and all that follows through “of section 6230(a))”. See 2015 Amendment note below.
+
 #### Codification
 Pub. L. 94–452, § 3(b), redesignated subsec. (i), relating to cross references, as subsec. (j) and added a new subsec. (i), relating to extension of time for collecting certain taxes.
 
@@ -711,6 +733,8 @@ Pub. L. 96–596, § 2(a)(4)(E) and (F), redesignated subsec. (j), relating to c
 Pub. L. 96–589 again redesignated subsec. (i), relating to cross references, as subsec. (j) and added a new subsec. (i), relating to cases under title 11.
 
 #### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–74 struck out “(or section 6229, but only with respect to a deficiency described in paragraph (2)(A) or (3) of section 6230(a))” after “section 6501 or 6502”.
+
 2007—Subsec. (k)(4). Pub. L. 110–28 substituted “Tax return preparers” for “Income tax return preparers”.
 
 1998—Subsec. (f). Pub. L. 105–206 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The running of the period of limitations on collection after assessment prescribed in section 6502 shall be suspended for a period equal to the period from the date property (including money) of a third party is wrongfully seized or received by the Secretary to the date the Secretary returns property pursuant to section 6343(b) or the date on which a judgment secured pursuant to section 7426 with respect to such property becomes final, and for 30 days thereafter. The running of the period of limitations on collection after assessment shall be suspended under this subsection only with respect to the amount of such assessment equal to the amount of money or the value of specific property returned.”
@@ -812,6 +836,9 @@ Subsec. (h). Pub. L. 89–719, § 106(c), redesignated former subsec. (g) as (h)
 1958—Subsec. (d). Pub. L. 85–866 struck out “assessment or” after “period of limitations for” and inserted “or under the provisions of section 6166”.
 
 1956—Subsecs. (e), (f). Act Aug. 6, 1956, added subsec. (e) and redesignated former subsec. (e) as (f).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–28 applicable to returns prepared after May 25, 2007, see section 8246(c) of Pub. L. 110–28, set out as a note under [section 6060 of this title](./chapter-061-information-and-returns.md#section-6060).
@@ -923,7 +950,12 @@ For limitation period in case of—
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 114–74, title XI, § 1101(f)(5), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is amended by striking paragraph (11). See 2015 Amendment note below.
+
 #### Amendments
+2015—Par. (11). Pub. L. 114–74 struck out par. (11) which read as follows: “Assessments of tax attributable to partnership items, see section 6229.”
+
 1997—Pars. (4) to (12). Pub. L. 105–34 redesignated pars. (5) to (12) as (4) to (11), respectively, and struck out former par. (4) which read as follows: “Gain upon sale or exchange of principal residence, see section 1034(j).”
 
 1986—Par. (2). Pub. L. 99–514 amended par. (2) generally, substituting “where taxpayer and his spouse make separate returns, see section 63(e)(3)” for “and zero bracket amount where taxpayer and his spouse make separate returns, see section 63(g)(5)”.
@@ -985,6 +1017,9 @@ Par. (15). Pub. L. 94–455, § 1906(a)(32)(B), redesignated par. (15) as (10).
 1956—Par. (13). Act. Apr. 2, 1956, added par. (13).
 
 Par. (14). Act June 29, 1956, added par. (14).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under [section 121 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-121).
@@ -1157,12 +1192,17 @@ Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act 
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 114–74, title XI, § 1101(f)(6), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is amended by striking subsection (g). See 2015 Amendment note below.
+
 #### References in Text
 Section 218 of the Social Security Act, referred to in subsec. (d)(5), is classified to [section 418 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section418&num=0&edition=prelim), The Public Health and Welfare.
 
 Section 4045 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (d)(6), is classified to [section 1345 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1345&num=0&edition=prelim), Labor.
 
 #### Amendments
+2015—Subsec. (g). Pub. L. 114–74 struck out subsec. (g). Text read as follows: “In the case of any tax imposed by subtitle A with respect to any person which is attributable to any partnership item (as defined in section 6231(a)(3)), the provisions of section 6227 and subsections (c) and (d) of section 6230 shall apply in lieu of the provisions of this subchapter.”
+
 2008—Subsec. (d)(8). Pub. L. 110–245 added par. (8).
 
 2001—Subsec. (i)(2). Pub. L. 107–16 substituted “2014(b)” for “2011(c), 2014(b),”.
@@ -1292,6 +1332,9 @@ Subsec. (d)(2)(A). Pub. L. 85–866, § 82(d), substituted in first sentence “
 1956—Subsec. (f)(5). Act Apr. 2, 1956, added par. (5).
 
 Subsec. (f)(6). Act June 29, 1956, added par. (6).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–245, title I, § 106(b), June 17, 2008, 122 Stat. 1630, provided that: “The amendment made by subsection (a) [amending this section] shall apply to claims for credit or refund filed after the date of the enactment of this Act [June 17, 2008].”
@@ -1466,7 +1509,12 @@ Pub. L. 85–866, title I, § 96, Sept. 2, 1958, 72 Stat. 1672, authorized refun
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)(3)
+Pub. L. 114–74, title XI, § 1101(f)(7), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (b)(3) of this section is amended by striking the second sentence. See 2015 Amendment note below.
+
 #### Amendments
+2015—Subsec. (b)(3). Pub. L. 114–74 struck out concluding provisions “In the case of a credit or refund relating to an affected item (within the meaning of section 6231(a)(5)), the preceding sentence shall be applied by substituting the periods under sections 6229 and 6230(d) for the periods under section 6511(b)(2), (c), and (d).” before “In a case described in subparagraph (B)”.
+
 2000—Subsec. (a)(1), (2), (5). Pub. L. 106–554 substituted a comma for a semicolon before “and” at end.
 
 1998—Subsec. (a)(5), (6). Pub. L. 105–206, § 3464(b), added pars. (5) and (6).
@@ -1520,6 +1568,9 @@ Subsec. (b)(1). Pub. L. 93–406 inserted reference to chapter 43.
 Subsec. (b)(1). Pub. L. 91–172, §§ 101(j)(48), 960(b), inserted reference to chapter 42 taxes and inserted reference to the exception to the Tax Court’s jurisdiction provided for in par. (2) and in [section 7463 of this title](./chapter-076-judicial-proceedings.md#section-7463).
 
 1962—Subsec. (b)(2)(C). Pub. L. 87–870 added subpar. (C).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 1997 Amendment
 Amendment by section 1239(c)(2) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1239(f) of Pub. L. 105–34, set out as a note under [section 6225 of this title](./chapter-063-assessment.md#section-6225).
@@ -1655,7 +1706,12 @@ For limitations in case of—
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 114–74, title XI, § 1101(f)(8), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is amended by striking paragraph (6).
+
 #### Amendments
+2015—Par. (6). Pub. L. 114–74 struck out par. (6) which read as follows: “Refunds or credits attributable to partnership items, see section 6227 and subsections (c) and (d) of section 6230.”
+
 1990—Pub. L. 101–508 struck out par. (2) and redesignated the succeeding pars. accordingly, which was executed with respect to the succeeding pars. (consisting of pars. (3) to (7)) by redesignating such pars. as (2) to (6), respectively. Prior to amendment, par. (2) provided a cross reference to section 1481 for overpayment in certain renegotiations of war contracts.
 
 1982—Par. (7). Pub. L. 97–248 added par. (7).
@@ -1669,6 +1725,9 @@ Par. (2). Pub. L. 94–455, § 1901(b)(37)(E), redesignated par. (4) as (2). For
 Pars. (3) to (7). Pub. L. 94–455, § 1901(b)(37)(E), redesignated pars. (3) to (7) as (1) to (5), respectively.
 
 Par. (8). Pub. L. 94–455, § 1601(f)(3), added par. (8) which was redesignated par. (6) by section 1901(b)(37)(E) of Pub. L. 94–455.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 1982 Amendment
 Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for applicability of amendment to any partnership taxable year ending after Sept. 3, 1982, if partnership, each partner, and each indirect partner requests such application and Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).

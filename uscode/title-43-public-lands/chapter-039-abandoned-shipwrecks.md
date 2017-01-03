@@ -28,9 +28,9 @@ For purposes of this chapter—
 
 **(a)** the term “embedded” means firmly affixed in the submerged lands or in coralline formations such that the use of tools of excavation is required in order to move the bottom sediments to gain access to the shipwreck, its cargo, and any part thereof;
 
-**(b)** the term “National Register” means the National Register of Historic Places maintained by the Secretary of the Interior under chapter 3021 of title 54;
+**(b)** the term “National Register” means the National Register of Historic Places maintained by the Secretary of the Interior under section 101 of the National Historic Preservation Act ([16 U.S.C. 470a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a&num=0&edition=prelim)); 11 See References in Text note below.
 
-**(c)** the terms “public lands”, “Indian lands”, and “Indian tribe” have the same meaning given the terms in the Archaeological Resource 11 So in original. Probably should be “Resources”. Protection Act of 1979 ([16 U.S.C. 470aa–470](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470aa–470&num=0&edition=prelim)ll);
+**(c)** the terms “public lands”, “Indian lands”, and “Indian tribe” have the same meaning given the terms in the Archaeological Resource 22 So in original. Probably should be “Resources”. Protection Act of 1979 ([16 U.S.C. 470aa–470](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470aa–470&num=0&edition=prelim)ll);
 
 **(d)** the term “shipwreck” means a vessel or wreck, its cargo, and other contents;
 
@@ -44,17 +44,16 @@ For purposes of this chapter—
 
 (3) of Guam, the Virgin Islands and American Samoa, as described in [section 1705 of title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1705&num=0&edition=prelim); and
 
-(4) of the Commonwealth of the Northern Mariana Islands, as described in section 801 of Public Law 94–241.22 See References in Text note below.
+(4) of the Commonwealth of the Northern Mariana Islands, as described in section 801 of Public Law 94–241.1
 
 ### Statutory Notes
 
 #### References in Text
+Section 101 of the National Historic Preservation Act ([16 U.S.C. 470a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a&num=0&edition=prelim)), referred to in subsec. (b), is section 101 of Pub. L. 89–665, which was repealed and restated as chapters 3021 to 3027 and sections 302902(a), 302903(a), 302904 to 302909, 303902, 303903, and 306101(b) and (c) of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272.
+
 The Archaeological Resource Protection Act of 1979, referred to in subsec. (c), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, as amended, which is classified generally to chapter 1B (§ 470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 470aa of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470aa&num=0&edition=prelim) and Tables.
 
 Section 801 of Public Law 94–241, referred to in subsec. (f)(4), probably means section 801 of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as contained in section 1 of Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, which is set out as a note under [section 1801 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1801&num=0&edition=prelim), Territories and Insular Possessions.
-
-#### Codification
-In subsec. (b), “chapter 3021 of title 54” substituted for “[section 470a of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a&num=0&edition=prelim)” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 
 <a id="section-2103"></a>
@@ -107,7 +106,7 @@ In subsec. (b), “chapter 3029 of title 54” substituted for “title I of the
 
 (3) on submerged lands of a State and is included in or determined eligible for inclusion in the National Register.
 
-**(b) Notice of shipwreck location; eligibility determination for inclusion in National Register of Historic Places** The public shall be given adequate notice of the location of any shipwreck to which title is asserted under this section. The Secretary of the Interior, after consultation with the appropriate State Historic Preservation Officer, shall make a written determination that an abandoned shipwreck meets the criteria for eligibility for inclusion in the National Register of Historic Places under clause (a)(3) of this section.
+**(b) Notice of shipwreck location; eligibility determination for inclusion in National Register of Historic Places** The public shall be given adequate notice of the location of any shipwreck to which title is asserted under this section. The Secretary of the Interior, after consultation with the appropriate State Historic Preservation Officer, shall make a written determination that an abandoned shipwreck meets the criteria for eligibility for inclusion in the National Register of Historic Places under clause (a)(3).
 
 **(c) Transfer of title to States** The title of the United States to any abandoned shipwreck asserted under subsection (a) of this section is transferred to the State in or on whose submerged lands the shipwreck is located.
 

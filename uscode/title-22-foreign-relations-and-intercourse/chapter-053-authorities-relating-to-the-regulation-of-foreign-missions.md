@@ -354,7 +354,7 @@ Section 1 of Pub. L. 105–375, which directed amendment of title I of the State
 
   (A) any country listed as a Communist country in [section 2370(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2370/f&num=0&edition=prelim);
 
-  (B) any country determined by the Secretary of State, for purposes of section 2405(j) of the Appendix to title 50, to be a country which has repeatedly provided support for acts of international terrorism; and
+  (B) any country determined by the Secretary of State, for purposes of [section 4605(j) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), to be a country which has repeatedly provided support for acts of international terrorism; and
 
   (C) any other country which engages in intelligence activities in the United States which are adverse to the national security interests of the United States.
 

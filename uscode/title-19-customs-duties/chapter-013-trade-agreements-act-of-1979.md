@@ -60,7 +60,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b) and (c), i
 
 (3) authority under the notes of the Harmonized Tariff Schedule of the United States, but not including any quantitative restriction imposed under section 22 of the Agricultural Adjustment Act of 1934 ([7 U.S.C. 624](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section624&num=0&edition=prelim)),
 
-(4) the Trading With the Enemy Act (50 U.S.C. App. 1–44),
+(4) the Trading With the Enemy Act (50 U.S.C. App. 1–44),11 See References in Text note below.
 
 (5) section 204 of the Agricultural Act of 1956 ([7 U.S.C. 1854](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1854&num=0&edition=prelim)) other than for meat or meat products, or
 
@@ -73,7 +73,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (b)(2), 
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
 
-The Trading With the Enemy Act, referred to in subsec. (b)(4), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act, referred to in subsec. (b)(4), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified generally to sections 1 to 6, 7 to 39 and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1988—Subsec. (b)(3). Pub. L. 100–418 substituted “notes of the Harmonized Tariff Schedule of the United States” for “headnotes of the Tariff Schedules of the United States”.
@@ -130,11 +130,11 @@ The Trade Act of 1974, referred to in par. (1), is Pub. L. 93–618, Jan. 3, 197
 
 <a id="section-2513"></a>
 ## § 2513. Approval of trade agreements
-**(a) Approval of agreements and statements of administrative action** In accordance with the provisions of sections 2112 and 2191 of this title, the Congress approves the trade agreements described in subsection (c) of this section submitted to the Congress on June 19, 1979, and the statements of administrative action proposed to implement such trade agreements submitted to the Congress on that date.
+**(a) Approval of agreements and statements of administrative action** In accordance with the provisions of sections 2112 and 2191 of this title, the Congress approves the trade agreements described in subsection (c) submitted to the Congress on June 19, 1979, and the statements of administrative action proposed to implement such trade agreements submitted to the Congress on that date.
 
 **(b) Acceptance of agreements by the President**
 
-(1) **In general** — The President may accept for the United States the final legal instruments or texts embodying each of the trade agreements approved by the Congress under subsection (a) of this section. The President shall submit a copy of each final instrument or text to the Congress on the date such text or instrument is available, together with a notification of any changes in the instruments or texts, including their annexes, if any, as accepted and the texts of such agreements as submitted to the Congress under subsection (a) of this section. Such final legal instruments or texts shall be deemed to be the agreements submitted to and approved by the Congress under subsection (a) of this section if such changes are—
+(1) **In general** — The President may accept for the United States the final legal instruments or texts embodying each of the trade agreements approved by the Congress under subsection (a). The President shall submit a copy of each final instrument or text to the Congress on the date such text or instrument is available, together with a notification of any changes in the instruments or texts, including their annexes, if any, as accepted and the texts of such agreements as submitted to the Congress under subsection (a). Such final legal instruments or texts shall be deemed to be the agreements submitted to and approved by the Congress under subsection (a) if such changes are—
 
   (A) only rectifications of a formal character or minor technical or clerical changes which do not affect the substance or meaning of the texts as submitted to the Congress on June 19, 1979, or
 
@@ -146,7 +146,7 @@ The Trade Act of 1974, referred to in par. (1), is Pub. L. 93–618, Jan. 3, 197
 
   (B) should not otherwise be denied the benefits of the agreement with respect to the United States because such country has not accorded adequate benefits, including substantially equal competitive opportunities for the commerce of the United States to the extent required under section 2136(c) 11 See References in Text note below. of this title, to the United States.
 
-(3) **Limitation on acceptance concerning major industrial countries** — The President may not accept an agreement described in paragraph (1), (2), (3), (4), (5), (6), (7), (9), (10), or (11) of subsection (c) of this section, unless he determines that each major industrial country (as defined in section 2136(d) 1 of this title) is also accepting the agreement. Notwithstanding the preceding sentence, the President may accept such an agreement, if he determines that only one major industrial country is not accepting that agreement and the acceptance of that agreement by that country is not essential to the effective operation of the agreement, and if—
+(3) **Limitation on acceptance concerning major industrial countries** — The President may not accept an agreement described in paragraph (1), (2), (3), (4), (5), (6), (7), (9), (10), or (11) of subsection (c), unless he determines that each major industrial country (as defined in section 2136(d) 1 of this title) is also accepting the agreement. Notwithstanding the preceding sentence, the President may accept such an agreement, if he determines that only one major industrial country is not accepting that agreement and the acceptance of that agreement by that country is not essential to the effective operation of the agreement, and if—
 
   (A) that country is not a major factor in trade in the products covered by that agreement,
 
@@ -155,7 +155,7 @@ The Trade Act of 1974, referred to in par. (1), is Pub. L. 93–618, Jan. 3, 197
   (C) a significant portion of United States trade would benefit from the agreement, notwithstanding such nonacceptance, and the President determines and reports to the Congress that it is in the national interest of the United States to accept the agreement.
   For purposes of this paragraph, the acceptance of an agreement by the European Communities on behalf of its member countries shall also be treated as acceptance of that agreement by each member country, and acceptance of an agreement by all the member countries of the European Communities shall also be treated as acceptance of that agreement by the European Communities.
 
-**(c) Trade agreements to which this Act applies** The trade agreements to which subsection (a) of this section applies are the following:
+**(c) Trade agreements to which this Act applies** The trade agreements to which subsection (a) applies are the following:
 
 (1) The Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade (relating to customs valuation).
 
@@ -349,13 +349,13 @@ Subsec. (c) of this section applicable as if United States-Canada Free-Trade Agr
 
 <a id="section-2515"></a>
 ## § 2515. General authority to modify discriminatory purchasing requirements
-**(a) Presidential waiver of discriminatory purchasing requirements** Subject to subsection (f) of this section, the President may waive, in whole or in part, with respect to eligible products of any foreign country or instrumentality designated under subsection (b) of this section, and suppliers of such products, the application of any law, regulation, procedure, or practice regarding Government procurement that would, if applied to such products and suppliers, result in treatment less favorable than that accorded—
+**(a) Presidential waiver of discriminatory purchasing requirements** Subject to subsection (f) of this section, the President may waive, in whole or in part, with respect to eligible products of any foreign country or instrumentality designated under subsection (b), and suppliers of such products, the application of any law, regulation, procedure, or practice regarding Government procurement that would, if applied to such products and suppliers, result in treatment less favorable than that accorded—
 
 (1) to United States products and suppliers of such products; or
 
 (2) to eligible products of another foreign country or instrumentality which is a party to the Agreement and suppliers of such products.
 
-**(b) Designation of eligible countries and instrumentalities** The President may designate a foreign country or instrumentality for purposes of subsection (a) of this section only if he determines that such country or instrumentality—
+**(b) Designation of eligible countries and instrumentalities** The President may designate a foreign country or instrumentality for purposes of subsection (a) only if he determines that such country or instrumentality—
 
 (1) is a country or instrumentality which (A) has become a party to the Agreement or the North American Free Trade Agreement, and (B) will provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products;
 
@@ -365,7 +365,7 @@ Subsec. (c) of this section applicable as if United States-Canada Free-Trade Agr
 
 (4) is a least developed country.
 
-**(c) Modification or withdrawal of waivers and designations** The President may modify or withdraw any waiver granted pursuant to subsection (a) of this section or designation made pursuant to subsection (b) of this section.
+**(c) Modification or withdrawal of waivers and designations** The President may modify or withdraw any waiver granted pursuant to subsection (a) or designation made pursuant to subsection (b).
 
 **(d) Omitted**
 
@@ -719,9 +719,9 @@ Construction contracts—$6,500,000
 
   (B) the offers of products or services of the United States or of eligible products are insufficient to fulfill the requirements of the United States Government.
 
-**(b) Deferrals and waivers** Notwithstanding subsection (a) of this section, but in furtherance of the objective of encouraging countries to become parties to the Agreement and provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products, the President may—
+**(b) Deferrals and waivers** Notwithstanding subsection (a), but in furtherance of the objective of encouraging countries to become parties to the Agreement and provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products, the President may—
 
-(1) waive the prohibition required by subsection (a)(1) of this section on procurement of products of a foreign country or instrumentality which has not yet become a party to the Agreement but—
+(1) waive the prohibition required by subsection (a)(1) on procurement of products of a foreign country or instrumentality which has not yet become a party to the Agreement but—
 
   (A) has agreed to apply transparent and competitive procedures to its government procurement equivalent to those in the Agreement, and
 
@@ -742,7 +742,7 @@ Before exercising the waiver authority under paragraph (1), the President shall 
 
 **(d) Proposed action**
 
-(1) **Presidential report** — On or before October 1, 1981, the President shall prepare and transmit to the congressional committees referred to in subsection (c)(1) of this section a report which describes the actions he deems appropriate to establish reciprocity with major industrialized countries in the area of Government procurement.
+(1) **Presidential report** — On or before October 1, 1981, the President shall prepare and transmit to the congressional committees referred to in subsection (c)(1) a report which describes the actions he deems appropriate to establish reciprocity with major industrialized countries in the area of Government procurement.
 
 (2) **Procedure**
 
@@ -771,7 +771,7 @@ Subsec. (b)(1). Pub. L. 103–465, § 343(b)(1), amended par. (1) generally. Pri
 #### Change of Name
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 1994 Amendment
 Pub. L. 103–465, title III, § 344, Dec. 8, 1994, 108 Stat. 4955, provided that: “(a) In General.—Except as provided in subsection (b), the amendments made by this subtitle [subtitle E (§§ 341–344 of title III of Pub. L. 103–465, amending this section and sections 2513 to 2515, 2517, and 2518 of this title, repealing [section 2516 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2516), and amending provisions set out as a note under [section 903 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section903&num=0&edition=prelim), Agriculture] take effect on the date on which the Agreement on Government Procurement referred to in section 101(d)(17) [[19 U.S.C. 3511(d)(17)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d/17&num=0&edition=prelim)] enters into force with respect to the United States [Jan. 1, 1995]. “(b) Section 342(g).—The amendments made by section 342(g) [amending provisions set out as a note under [section 903 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section903&num=0&edition=prelim)] take effect on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995].”
@@ -810,7 +810,7 @@ Functions of President under this section delegated to United States Trade Repre
 ## § 2518. Expansion of the coverage of the Agreement
 **(a) Overall negotiating objective** The President shall seek in the renegotiations provided for in article XXIV(7) of the Agreement more open and equitable market access abroad, and the harmonization, reduction, or elimination of devices which distort trade or commerce related to Government procurement, with the overall goal of maximizing the economic benefit to the United States through maintaining and enlarging foreign markets for products of United States agriculture, industry, mining, and commerce, the development of fair and equitable market opportunities, and open and nondiscriminatory world trade. In carrying out the provisions of this subsection, the President shall consider the assessment made in the report required under section 2516(a) 11 See References in Text note below. of this title.
 
-**(b) Sector negotiating objectives** The President shall seek, consistent with the overall objective set forth in subsection (a) of this section and to the maximum extent feasible, with respect to appropriate product sectors, competitive opportunities for the export of United States products to the developed countries of the world equivalent to the competitive opportunities afforded by the United States, taking into account all barriers to, and other distortions of, international trade affecting that sector.
+**(b) Sector negotiating objectives** The President shall seek, consistent with the overall objective set forth in subsection (a) and to the maximum extent feasible, with respect to appropriate product sectors, competitive opportunities for the export of United States products to the developed countries of the world equivalent to the competitive opportunities afforded by the United States, taking into account all barriers to, and other distortions of, international trade affecting that sector.
 
 **(c) Independent verification objective** The President shall seek to establish in the renegotiation provided for in article XXIV(7) of the Agreement a system for independent verification of information provided by parties to the Agreement to the Committee on Government Procurement pursuant to article XIX(5) of the Agreement.
 
@@ -1369,11 +1369,11 @@ Subsecs. (a), (b). Pub. L. 103–182, § 351(b)(2)(A), as amended by Pub. L. 104
 ## § 2546. Establishment and operation of technical offices
 **(a) Establishment**
 
-(1) **For nonagricultural products** — The Secretary of Commerce shall establish and maintain within the Department of Commerce a technical office that shall carry out the functions prescribed under subsection (b) of this section with respect to nonagricultural products.
+(1) **For nonagricultural products** — The Secretary of Commerce shall establish and maintain within the Department of Commerce a technical office that shall carry out the functions prescribed under subsection (b) with respect to nonagricultural products.
 
-(2) **For agricultural products** — The Secretary of Agriculture shall establish and maintain within the Department of Agriculture a technical office that shall carry out the functions prescribed under subsection (b) of this section with respect to agricultural products.
+(2) **For agricultural products** — The Secretary of Agriculture shall establish and maintain within the Department of Agriculture a technical office that shall carry out the functions prescribed under subsection (b) with respect to agricultural products.
 
-**(b) Functions of offices** The President shall prescribe for each technical office established under subsection (a) of this section such functions as the President deems necessary or appropriate to implement this subchapter.
+**(b) Functions of offices** The President shall prescribe for each technical office established under subsection (a) such functions as the President deems necessary or appropriate to implement this subchapter.
 
 ### Statutory Notes
 
@@ -1389,7 +1389,7 @@ Functions of President under subsec. (b) of this section delegated to Secretary 
 
 (2) keep adequately informed regarding international standards-related activities and identify those that may substantially affect the commerce of the United States; and
 
-(3) carry out such functions as are required under subsections (b) and (c) of this section.
+(3) carry out such functions as are required under subsections (b) and (c).
 
 **(b) Representation of United States interests by private persons**
 
@@ -1448,7 +1448,7 @@ Functions of President under subsec. (b) of this section delegated to Secretary 
 
 **(c) Sanitary and phytosanitary measures**
 
-(1) **Public information** — The standards information center shall, in addition to the functions specified under subsection (b) of this section, make available to the public relevant documents, at such reasonable fees as the Secretary of Commerce may prescribe, and information regarding—
+(1) **Public information** — The standards information center shall, in addition to the functions specified under subsection (b), make available to the public relevant documents, at such reasonable fees as the Secretary of Commerce may prescribe, and information regarding—
 
   (A) any sanitary or phytosanitary measure of general application, including any inspection procedure or approval procedure proposed, adopted, or maintained by a Federal agency or agency of a State or local government;
 
@@ -1488,7 +1488,7 @@ Amendment by section 431(a) of Pub. L. 103–465 effective on the date of entry 
 (4) to encourage United States exports through increased awareness of foreign standards-related activities that may affect United States exports.
 No contract entered into under this section shall be effective except to such extent, and in such amount, as is provided in advance in appropriation Acts.
 
-**(b) Terms and conditions** Any contract entered into, or any grant made, under subsection (a) of this section shall be subject to such terms and conditions as the Trade Representative or Secretary concerned shall by regulation prescribe as being necessary or appropriate to protect the interests of the United States.
+**(b) Terms and conditions** Any contract entered into, or any grant made, under subsection (a) shall be subject to such terms and conditions as the Trade Representative or Secretary concerned shall by regulation prescribe as being necessary or appropriate to protect the interests of the United States.
 
 **(c) Limitations** Financial assistance extended under this section shall not exceed 75 percent of the total costs (as established by the Trade Representative or Secretary concerned, as the case may be) of the program or activity for which assistance is made available. The non-Federal share of such costs shall be made in cash or kind, consistent with the maintenance of the program or activity concerned.
 
@@ -1924,9 +1924,9 @@ Notwithstanding [section 2571 of this title](./chapter-013-trade-agreements-act-
 ## § 2582. Notice of United States participation in international standard-setting activities
 **(a) In general** The President shall designate an agency to be responsible for informing the public of the sanitary and phytosanitary standard-setting activities of each international standard-setting organization.
 
-**(b) Notification** Not later than June 1 of each year, the agency designated under subsection (a) of this section with respect to each international standard-setting organization shall publish notice in the Federal Register of the information specified in subsection (c) of this section with respect to that organization. The notice shall cover the period ending on June 1 of the year in which the notice is published, and beginning on the date of the preceding notice under this subsection, except that the first such notice shall cover the 1-year period ending on the date of the notice.
+**(b) Notification** Not later than June 1 of each year, the agency designated under subsection (a) with respect to each international standard-setting organization shall publish notice in the Federal Register of the information specified in subsection (c) with respect to that organization. The notice shall cover the period ending on June 1 of the year in which the notice is published, and beginning on the date of the preceding notice under this subsection, except that the first such notice shall cover the 1-year period ending on the date of the notice.
 
-**(c) Required information** The information to be provided in the notice under subsection (b) of this section is—
+**(c) Required information** The information to be provided in the notice under subsection (b) is—
 
 (1) the sanitary or phytosanitary standards under consideration or planned for consideration by that organization;
 
@@ -1940,7 +1940,7 @@ Notwithstanding [section 2571 of this title](./chapter-013-trade-agreements-act-
 
   (D) the agency responsible for representing the United States with respect to the standard.
 
-**(d) Public comment** The agency specified in subsection (c)(2)(D) of this section shall provide an opportunity for public comment with respect to the standards for which the agency is responsible and shall take the comments into account in participating in the consideration of the standards and in proposing matters to be considered by the organization.
+**(d) Public comment** The agency specified in subsection (c)(2)(D) shall provide an opportunity for public comment with respect to the standards for which the agency is responsible and shall take the comments into account in participating in the consideration of the standards and in proposing matters to be considered by the organization.
 
 ### Statutory Notes
 

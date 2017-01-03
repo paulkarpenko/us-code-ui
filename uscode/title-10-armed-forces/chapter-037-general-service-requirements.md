@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-651"></a>
 ## § 651. Members: required service
-**(a)** Each person who becomes a member of an armed force, other than a person deferred under the next to the last sentence of section 6(d)(1) of the Military Selective Service Act (50 U.S.C. App. 456(d)(1)) shall serve in the armed forces for a total initial period of not less than six years nor more than eight years, as provided in regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as service in the Navy, unless such person is sooner discharged under such regulations because of personal hardship. Any part of such service that is not active duty or that is active duty for training shall be performed in a reserve component.
+**(a)** Each person who becomes a member of an armed force, other than a person deferred under the next to the last sentence of section 6(d)(1) of the Military Selective Service Act ([50 U.S.C. 3806(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3806/d/1&num=0&edition=prelim)) 11 So in original. Probably should be followed by “, shall serve”. in the armed forces for a total initial period of not less than six years nor more than eight years, as provided in regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as service in the Navy, unless such person is sooner discharged under such regulations because of personal hardship. Any part of such service that is not active duty or that is active duty for training shall be performed in a reserve component.
 
 **(b)** Each person covered by subsection (a) who is not a Reserve, and who is qualified, shall, upon his release from active duty, be transferred to a reserve component of his armed force to complete the service required by subsection (a).
 
@@ -44,6 +44,8 @@ In [former] subsection (c), the words “who is released from active duty” are
 In subsection (a), the word “male” is inserted, since the source statute applies only to male persons. The words “subsequent to the date of enactment of the Reserve Forces Act of 1955” are omitted as executed. The words “becomes a member” are substituted for the words “is inducted, enlisted, or appointed . . . in”. The last sentence is substituted for the words “on active training and service . . . and in a reserve component”. The requirement of transfer to and service in a reserve component, after active training and service is covered by subsection (b) of this section. The words “under any provision of law” and “including the reserve components thereof” are omitted as surplusage.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328 substituted “([50 U.S.C. 3806(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3806/d/1&num=0&edition=prelim))” for “(50 U.S.C. App. 456(d)(1)) shall serve”.
+
 2008—Subsec. (c). Pub. L. 110–181 added subsec. (c).
 
 2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
@@ -82,7 +84,7 @@ Pub. L. 95–79, title VIII, § 803(b), July 30, 1977, 91 Stat. 333, provided th
 ## § 652. Notice to Congress of proposed changes in units, assignments, etc. to which female members may be assigned
 **(a) Rule for Ground Combat Personnel Policy.—**
 
-(1) If the Secretary of Defense proposes to make any change described in paragraph (2)(A) or (2)(B) to the ground combat exclusion policy or proposes to make a change described in paragraph (2)(C), the Secretary shall, before any such change is implemented, submit to Congress a report providing notice of the proposed change. Such a change may then be implemented only after the end of a period of 30 days of continuous session of Congress (excluding any day on which either House of Congress is not in session) following the date on which the report is received.
+(1) If the Secretary of Defense proposes to make any change described in paragraph (2)(A) or (2)(B) to the ground combat exclusion policy or proposes to make a change described in paragraph (2)(C), the Secretary shall, not less than 30 calendar days before such change is implemented, submit to Congress a report providing notice of the proposed change.
 
 (2) A change referred to in paragraph (1) is a change that—
 
@@ -96,11 +98,11 @@ Pub. L. 95–79, title VIII, § 803(b), July 30, 1977, 91 Stat. 333, provided th
 
   (A) a detailed description of, and justification for, the proposed change; and
 
-  (B) a detailed analysis of legal implication of the proposed change with respect to the constitutionality of the application of the Military Selective Service Act (50 App. U.S.C. 451 et seq.) to males only.
+  (B) a detailed analysis of legal implication of the proposed change with respect to the constitutionality of the application of the Military Selective Service Act (50 App. U.S.C. 451 et seq.) 11 See References in Text note below. to males only.
 
 (4) In this subsection, the term “ground combat exclusion policy” means the military personnel policies of the Department of Defense and the military departments, as in effect on October 1, 1994, by which female members of the armed forces are restricted from assignment to units and positions below brigade level whose primary mission is to engage in direct combat on the ground.
 
-(5) For purposes of this subsection, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die.
+(5) Repealed. Pub. L. 114–92, div. A, title V, § 524(a)(2), Nov. 25, 2015, 129 Stat. 813.]
 
 (6) For purposes of this subsection, a military career designator is one that is related to military operations on the ground as of May 18, 2005, and applies—
 
@@ -110,7 +112,7 @@ Pub. L. 95–79, title VIII, § 803(b), July 30, 1977, 91 Stat. 333, provided th
 
 **(b) Other Personnel Policy Changes.—**
 
-(1) Except in a case covered by [section 6035 of this title](./chapter-555-administration.md#section-6035) or by subsection (a), whenever the Secretary of Defense proposes to make a change to military personnel policies described in paragraph (2), the Secretary shall, not less than 30 days before such change is implemented, submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives notice, in writing, of the proposed change.
+(1) Except in a case covered by [section 6035 of this title](./chapter-555-administration.md#section-6035) or by subsection (a), whenever the Secretary of Defense proposes to make a change to military personnel policies described in paragraph (2), the Secretary shall, not less than 30 calendar days before such change is implemented, submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives notice, in writing, of the proposed change.
 
 (2) Paragraph (1) applies to a proposed military personnel policy change, other than a policy change covered by subsection (a), that would make available to female members of the armed forces assignment to any of the following that, as of the date of the proposed change, is closed to such assignment:
 
@@ -123,12 +125,19 @@ Pub. L. 95–79, title VIII, § 803(b), July 30, 1977, 91 Stat. 333, provided th
 ### Statutory Notes
 
 #### References in Text
-The Military Selective Service Act, referred to in subsec. (a)(3)(B), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under [section 451 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section451&num=0&edition=prelim), Appendix, and Tables.
+The Military Selective Service Act, referred to in subsec. (a)(3)(B), is act June 24, 1948, ch. 625, 62 Stat. 604, which was classified principally to section 451 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 49 (§ 3801 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 A prior section 652, added Pub. L. 95–485, title IV, § 405(d)(1), Oct. 20, 1978, 92 Stat. 1616, related to Ready Reserve requirement of notification of change of status, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat. 2980, 3026, effective Dec. 1, 1994. See [section 10205 of this title](./chapter-1007-administration-of-reserve-components.md#section-10205).
 
 Provisions similar to those in this section were contained in Pub. L. 103–160, div. A, title V, § 542, Nov. 30, 1993, 107 Stat. 1659, which was set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113), prior to repeal by Pub. L. 109–163, § 541(c).
+
+#### Amendments
+2015—Subsec. (a)(1). Pub. L. 114–92, § 524(a)(1), substituted “not less than 30 calendar days before such change is implemented” for “before any such change is implemented” and struck out at end “Such a change may then be implemented only after the end of a period of 30 days of continuous session of Congress (excluding any day on which either House of Congress is not in session) following the date on which the report is received.”
+
+Subsec. (a)(5). Pub. L. 114–92, § 524(a)(2), struck out par. (5) which read as follows: “For purposes of this subsection, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die.”
+
+Subsec. (b)(1). Pub. L. 114–92, § 524(b), inserted “calendar” before “days”.
 
 
 <a id="section-653"></a>

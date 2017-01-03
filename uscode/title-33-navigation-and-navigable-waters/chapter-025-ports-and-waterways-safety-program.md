@@ -155,7 +155,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(e) Cooperative agreements**
 
-(1) The Secretary may enter into cooperative agreements with public or private agencies, authorities, associations, institutions, corporations, organizations, or other persons to carry out the functions under subsection (a)(1) of this section.
+(1) The Secretary may enter into cooperative agreements with public or private agencies, authorities, associations, institutions, corporations, organizations, or other persons to carry out the functions under subsection (a)(1).
 
 (2) A nongovernmental entity may not under this subsection carry out an inherently governmental function.
 
@@ -197,6 +197,9 @@ Pub. L. 109–241, title IX, § 901(d), July 11, 2006, 120 Stat. 564, provided i
 #### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701).
 
+#### No Wake Zones in Navigation Channels
+Pub. L. 114–322, title I, § 1149, Dec. 16, 2016, 130 Stat. 1660, provided that: “(a) In General.—At the request of a State or local official, the Secretary [of the Army], in consultation with the Commandant of the Coast Guard, shall promptly identify and, subject to the considerations in subsection (b), allow the implementation of measures for addressing navigation safety hazards in a covered navigation channel resulting from wakes created by recreational vessels identified by such official, while maintaining the navigability of the channel. “(b) Considerations.—In identifying measures under subsection (a) with respect to a covered navigation channel, the Secretary shall consider, at a minimum, whether—“(1) State or local law enforcement officers have documented the existence of safety hazards in the channel that are the direct result of excessive wakes from recreational vessels present in the channel; “(2) the Secretary has made a determination that safety concerns exist in the channel and that the proposed measures will remedy those concerns without significant impacts to the navigable capacity of the channel; and “(3) the measures are consistent with any recommendations made by the Commandant of the Coast Guard to ensure the safety of vessels operating in the channel and the safety of the passengers and crew aboard such vessels. “(c) Covered Navigation Channel Defined.—In this section, the term ‘covered navigation channel’ means a navigation channel that—“(1) is federally marked or maintained; “(2) is part of the Atlantic Intracoastal Waterway; and “(3) is adjacent to a marina. “(d) Savings Clause.—Nothing in this section shall be construed to relieve the master, pilot, or other person responsible for determining the speed of a vessel from the obligation to comply with the inland navigation regulations promulgated pursuant to section 3 of the Inland Navigational Rules Act of 1980 ([33 U.S.C. 2071](./chapter-034-inland-navigational-rules.md#section-2071)) or any other applicable laws or regulations governing the safe navigation of a vessel.”
+
 #### Notice of Arrival for Foreign Vessels on the Outer Continental Shelf
 Pub. L. 112–213, title VII, § 704, Dec. 20, 2012, 126 Stat. 1580, provided that: “The regulations required under section 109(a) of the Security and Accountability For Every Port Act of 2006 [Pub. L. 109–347] ([33 U.S.C. 1223](./chapter-025-ports-and-waterways-safety-program.md#section-1223) note) dealing with notice of arrival requirements for foreign vessels on the Outer Continental Shelf shall not apply to a vessel documented under [section 12105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section12105&num=0&edition=prelim), United States Code, unless the vessel arrives from a foreign port or place.”
 
@@ -229,7 +232,7 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
   (B) waive the application of paragraph (1) with respect to operation of vessels on navigable waters of the United States specified by the Secretary, if the Secretary finds that electronic charts are not needed for safe navigation on those waters.
 
-**(b) Regulations** The Secretary of the department in which the Coast Guard is operating shall prescribe regulations implementing subsection (a) of this section before January 1, 2007, including requirements for the operation and maintenance of the electronic charts required under subsection (a) of this section.
+**(b) Regulations** The Secretary of the department in which the Coast Guard is operating shall prescribe regulations implementing subsection (a) before January 1, 2007, including requirements for the operation and maintenance of the electronic charts required under subsection (a).
 
 
 <a id="section-1224"></a>
@@ -299,7 +302,7 @@ In subsec. (a)(2)(A), “[section 2101 of title 46](https://uscode.house.gov/vie
 
 <a id="section-1226"></a>
 ## § 1226. Port, harbor, and coastal facility security
-**(a) General authority** The Secretary may take actions described in subsection (b) of this section to prevent or respond to an act of terrorism against—
+**(a) General authority** The Secretary may take actions described in subsection (b) to prevent or respond to an act of terrorism against—
 
 (1) an individual, vessel, or public or commercial structure, that is—
 
@@ -309,7 +312,7 @@ In subsec. (a)(2)(A), “[section 2101 of title 46](https://uscode.house.gov/vie
 
 (2) a vessel of the United States or an individual on board that vessel.
 
-**(b) Specific authority** Under subsection (a) of this section, the Secretary may—
+**(b) Specific authority** Under subsection (a), the Secretary may—
 
 (1) carry out or require measures, including inspections, port and harbor patrols, the establishment of security and safety zones, and the development of contingency plans and procedures, to prevent or respond to acts of terrorism;
 
@@ -366,7 +369,7 @@ Pub. L. 107–295, title I, § 107(b), Nov. 25, 2002, 116 Stat. 2088, provided t
 
 (7) while underway, does not have at least one licensed deck officer on the navigation bridge who is capable of clearly understanding English.
 
-**(b) Exceptions** The Secretary may allow provisional entry of a vessel not in compliance with subsection (a) of this section, if the owner or operator of such vessel proves, to the satisfaction of the Secretary, that such vessel is not unsafe or a threat to the marine environment, and if such entry is necessary for the safety of the vessel or persons aboard. In addition, paragraphs (1), (2), (3), and (4) of subsection (a) of this section shall not apply if the owner or operator of such vessel proves, to the satisfaction of the Secretary, that such vessel is no longer unsafe or a threat to the marine environment, and is no longer in violation of any applicable law, treaty, regulation or condition, as appropriate. Clauses (5) and (6) of subsection (a) of this section shall become applicable eighteen months after October 17, 1978.
+**(b) Exceptions** The Secretary may allow provisional entry of a vessel not in compliance with subsection (a), if the owner or operator of such vessel proves, to the satisfaction of the Secretary, that such vessel is not unsafe or a threat to the marine environment, and if such entry is necessary for the safety of the vessel or persons aboard. In addition, paragraphs (1), (2), (3), and (4) of subsection (a) shall not apply if the owner or operator of such vessel proves, to the satisfaction of the Secretary, that such vessel is no longer unsafe or a threat to the marine environment, and is no longer in violation of any applicable law, treaty, regulation or condition, as appropriate. Clauses (5) and (6) of subsection (a) shall become applicable eighteen months after October 17, 1978.
 
 ### Statutory Notes
 
@@ -398,7 +401,7 @@ This chapter shall not apply to the Panama Canal. The authority granted to the S
 
 (2) enter into negotiations, through appropriate international bodies, and conclude and execute agreements to establish vessel traffic services in appropriate areas of the high seas.
 
-**(c) Operations** The Secretary, pursuant to any agreement negotiated under subsection (b) of this section which is binding upon the United States in accordance with constitutional requirements, may—
+**(c) Operations** The Secretary, pursuant to any agreement negotiated under subsection (b) which is binding upon the United States in accordance with constitutional requirements, may—
 
 (1) require vessels in the vessel traffic service area to utilize or to comply with the vessel traffic service, including the carrying or installation of equipment and devices as necessary for the use of the service; and
 
@@ -431,6 +434,11 @@ This chapter shall not apply to the Panama Canal. The authority granted to the S
 (6) any other interested parties who are knowledgeable or experienced in dealing with problems involving vessel safety, port and waterways safety, and protection of the marine environment, and
 
 (7) advisory committees consisting of all interested segments of the public when the establishment of such committees is considered necessary because the issues involved are highly complex or controversial.
+
+### Statutory Notes
+
+#### Safety Zones for Permitted Marine Events
+Pub. L. 114–120, title III, § 305, Feb. 8, 2016, 130 Stat. 54, provided that: “Not later than 6 months after the date of the enactment of this Act [Feb. 8, 2016], the Secretary of the department in which the Coast Guard is operating shall establish and implement a process to— “(1) account for the number of safety zones established for permitted marine events; “(2) differentiate whether the event sponsor who requested a permit for such an event is—“(A) an individual; “(B) an organization; or “(C) a government entity; and “(3) account for Coast Guard resources utilized to enforce safety zones established for permitted marine events, including for—“(A) the number of Coast Guard or Coast Guard Auxiliary vessels used; and “(B) the number of Coast Guard or Coast Guard Auxiliary patrol hours required.”
 
 
 <a id="section-1231a"></a>
@@ -511,11 +519,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (2) Any person who, in the willfull 11 So in original. Probably should be “willful”. and knowing violation of this chapter or of any regulation issued hereunder, uses a dangerous weapon, or engages in conduct that causes bodily injury or fear of imminent bodily injury to any officer authorized to enforce the provisions of this chapter or the regulations issued hereunder, commits a class C felony.
 
-**(c) In rem liability** Any vessel subject to the provisions of this chapter, which is used in violation of this chapter, or any regulations issued hereunder, shall be liable in rem for any civil penalty assessed pursuant to subsection (a) of this section and may be proceeded against in the United States district court for any district in which such vessel may be found.
+**(c) In rem liability** Any vessel subject to the provisions of this chapter, which is used in violation of this chapter, or any regulations issued hereunder, shall be liable in rem for any civil penalty assessed pursuant to subsection (a) and may be proceeded against in the United States district court for any district in which such vessel may be found.
 
 **(d) Injunction** The United States district courts shall have jurisdiction to restrain violations of this chapter or of regulations issued hereunder, for cause shown.
 
-**(e) Denial of entry** Except as provided in [section 1228 of this title](./chapter-025-ports-and-waterways-safety-program.md#section-1228), the Secretary may, subject to recognized principles of international law, deny entry into the navigable waters of the United States to any port or place under the jurisdiction of the United States or to any vessel not in compliance with the provisions of this chapter or the regulations issued hereunder.
+**(e) Denial of entry** Except as provided in [section 1228 of this title](./chapter-025-ports-and-waterways-safety-program.md#section-1228), the Secretary may, subject to recognized principles of international law, deny entry into the navigable waters of the United States or to any port or place under the jurisdiction of the United States to any vessel not in compliance with the provisions of this chapter or the regulations issued hereunder.
 
 **(f) Withholding of clearance**
 

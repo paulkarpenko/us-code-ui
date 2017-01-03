@@ -25,13 +25,16 @@ Pub. L. 107–273, div. B, title II, § 2411, Nov. 2, 2002, 116 Stat. 1799, prov
 
 <a id="section-3602"></a>
 ## § 3602. Appointment of probation officers
-**(a) Appointment.—** A district court of the United States shall appoint qualified persons to serve, with or without compensation, as probation officers within the jurisdiction and under the direction of the court making the appointment. The court may, for cause, remove a probation officer appointed to serve with compensation, and may, in its discretion, remove a probation officer appointed to serve without compensation.
+**(a) Appointment.—** A district court of the United States shall appoint qualified persons to serve, with or without compensation, as probation officers within the jurisdiction and under the direction of the court making the appointment. A person appointed as a probation officer in one district may serve in another district with the consent of the appointing court and the court in the other district. The appointing court may, for cause, remove a probation officer appointed to serve with compensation, and may, in its discretion, remove a probation officer appointed to serve without compensation.
 
 **(b) Record of Appointment.—** The order of appointment shall be entered on the records of the court, a copy of the order shall be delivered to the officer appointed, and a copy shall be sent to the Director of the Administrative Office of the United States Courts.
 
 **(c) Chief Probation Officer.—** If the court appoints more than one probation officer, one may be designated by the court as chief probation officer and shall direct the work of all probation officers serving in the judicial district.
 
 ### Statutory Notes
+
+#### Amendments
+2015—Subsec. (a). Pub. L. 114–113 inserted “A person appointed as a probation officer in one district may serve in another district with the consent of the appointing court and the court in the other district.” after first sentence and “appointing” before “court may, for cause, remove”.
 
 #### Effective Date
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
@@ -247,12 +250,55 @@ If the fifteenth day under paragraph (2) is a Saturday, Sunday, or legal public 
 
 **(i) Application of Payments.—** Payments relating to fines and restitution shall be applied in the following order: (1) to principal; (2) to costs; (3) to interest; and (4) to penalties.
 
+**(j) Evaluation of Offices of the United States Attorney and Department Components.—**
+
+(1) **In general.—** — The Attorney General shall, as part of the regular evaluation process, evaluate each office of the United States attorney and each component of the Department of Justice on the performance of the office or the component, as the case may be, in seeking and recovering restitution for victims under each provision of this title and the Controlled Substances Act ([21 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) et seq.) that authorizes restitution.
+
+(2) **Requirement.—** — Following an evaluation under paragraph (1), each office of the United States attorney and each component of the Department of Justice shall work to improve the practices of the office or component, as the case may be, with respect to seeking and recovering restitution for victims under each provision of this title and the Controlled Substances Act ([21 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) et seq.) that authorizes restitution.
+
+**(k) GAO Reports.—**
+
+(1) **Report.—** — Not later than 1 year after the date of enactment of this subsection, the Comptroller General of the United States shall prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on restitution sought by the Attorney General under each provision of this title and the Controlled Substances Act ([21 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) et seq.) that authorizes restitution during the 3-year period preceding the report.
+
+(2) **Contents.—** — The report required under paragraph (1) shall include statistically valid estimates of—
+
+  (A) the number of cases in which a defendant was convicted and the Attorney General could seek restitution under this title or the Controlled Substances Act ([21 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) et seq.);
+
+  (B) the number of cases in which the Attorney General sought restitution;
+
+  (C) of the cases in which the Attorney General sought restitution, the number of times restitution was ordered by the district courts of the United States;
+
+  (D) the amount of restitution ordered by the district courts of the United States;
+
+  (E) the amount of restitution collected pursuant to the restitution orders described in subparagraph (D);
+
+  (F) the percentage of restitution orders for which the full amount of restitution has not been collected; and
+
+  (G) any other measurement the Comptroller General determines would assist in evaluating how to improve the restitution process in Federal criminal cases.
+
+(3) **Recommendations.—** — The report required under paragraph (1) shall include recommendations on the best practices for—
+
+  (A) requesting restitution in cases in which restitution may be sought under each provision of this title and the Controlled Substances Act ([21 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) et seq.) that authorizes restitution;
+
+  (B) obtaining restitution orders from the district courts of the United States; and
+
+  (C) collecting restitution ordered by the district courts of the United States.
+
+(4) **Report.—** — Not later than 3 years after the date on which the report required under paragraph (1) is submitted, the Comptroller General of the United States shall prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on the implementation by the Attorney General of the best practices recommended under paragraph (3).
+
 ### Statutory Notes
+
+#### References in Text
+The Controlled Substances Act, referred to in subsecs. (j) and (k), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+
+The date of enactment of this subsection, referred to in subsec. (k)(1), is the date of enactment of Pub. L. 114–324, which was approved Dec. 16, 2016.
 
 #### Prior Provisions
 For a prior section 3612, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding [section 3601 of this title](./chapter-229-postsentence-administration.md#section-3601).
 
 #### Amendments
+2016—Subsecs. (j), (k). Pub. L. 114–324 added subsecs. (j) and (k).
+
 2002—Subsec. (f)(2)(B). Pub. L. 107–273 substituted “preceding the first day” for “preceding. the first day”.
 
 2000—Subsec. (f)(2)(B). Pub. L. 106–554 substituted “the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the calendar week preceding.” for “the coupon issue yield equivalent (as determined by the Secretary of the Treasury) of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled before”.
@@ -345,7 +391,7 @@ Pub. L. 98–473, title II, § 237, Oct. 12, 1984, 98 Stat. 2033, provided that:
 
 (3) the provisions of section 303 of the Consumer Credit Protection Act ([15 U.S.C. 1673](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1673&num=0&edition=prelim)) shall apply to enforcement of the judgment under Federal law or State law.
 
-**(b) Termination of Liability.—** The liability to pay a fine shall terminate the later of 20 years from the entry of judgment or 20 years after the release from imprisonment of the person fined, or upon the death of the individual fined.
+**(b) Termination of Liability.—** The liability to pay a fine shall terminate the later of 20 years from the entry of judgment or 20 years after the release from imprisonment of the person fined, or upon the death of the individual fined. The liability to pay restitution shall terminate on the date that is the later of 20 years from the entry of judgment or 20 years after the release from imprisonment of the person ordered to pay restitution. In the event of the death of the person ordered to pay restitution, the individual’s estate will be held responsible for any unpaid balance of the restitution amount, and the lien provided in subsection (c) of this section shall continue until the estate receives a written release of that liability.
 
 **(c) Lien.—** A fine imposed pursuant to the provisions of subchapter C of chapter 227 of this title, or an order of restitution made pursuant to sections 11 So in original. Probably should be “section”. 2248, 2259, 2264, 2327, 3663, 3663A, or 3664 of this title, is a lien in favor of the United States on all property and rights to property of the person fined as if the liability of the person fined were a liability for a tax assessed under the Internal Revenue Code of 1986. The lien arises on the entry of judgment and continues for 20 years or until the liability is satisfied, remitted, set aside, or is terminated under subsection (b).
 
@@ -366,6 +412,8 @@ The Internal Revenue Code of 1986, referred to in subsecs. (a)(1), (c), and (d),
 For a prior section 3613, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding [section 3601 of this title](./chapter-229-postsentence-administration.md#section-3601).
 
 #### Amendments
+2016—Subsec. (b). Pub. L. 114–324 inserted at end “The liability to pay restitution shall terminate on the date that is the later of 20 years from the entry of judgment or 20 years after the release from imprisonment of the person ordered to pay restitution. In the event of the death of the person ordered to pay restitution, the individual’s estate will be held responsible for any unpaid balance of the restitution amount, and the lien provided in subsection (c) of this section shall continue until the estate receives a written release of that liability.”
+
 1996—Pub. L. 104–132 amended section generally, reenacting section catchline without change and substituting, in subsec. (a), provisions relating to enforcement for provisions relating to lien, in subsec. (b), provisions relating to termination of liability for provisions relating to expiration of lien, in subsec. (c), provisions relating to lien for provisions relating to application of other lien provisions, in subsec. (d), provisions relating to effect of filing notice of lien for provisions relating to effect of notice of lien, in subsec. (e), provisions relating to inapplicability of bankruptcy discharges of debt for provisions relating to alternative enforcement, and in subsec. (f), provisions relating to applicability to order of restitution for provisions relating to inapplicability of bankruptcy discharges of debt.
 
 1990—Subsec. (c). Pub. L. 101–647, which directed amendment of “Section 3613(c)” by striking the period before the closing quotation marks and inserting a period after such marks, without identifying a Code title or Act for section 3613, was executed by substituting “construed to mean ‘fine’.” for “construed to mean ‘fine.’ ” in subsec. (c) of this section to reflect the probable intent of Congress.

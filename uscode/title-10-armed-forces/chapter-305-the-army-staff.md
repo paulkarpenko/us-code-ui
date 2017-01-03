@@ -115,7 +115,7 @@ Subsec. (b). Pub. L. 99–433, § 502(b)(2), substituted “authority, direction
 
   (A) the officer has had significant experience in joint duty assignments; and
 
-  (B) such experience includes at least one full tour of duty in a joint duty assignment (as defined in [section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim)) as a general officer.
+  (B) such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) 11 See References in Text note below. of this title) as a general officer.
 
 (3) The President may waive paragraph (2) in the case of an officer if the President determines such action is necessary in the national interest.
 
@@ -133,7 +133,7 @@ Subsec. (b). Pub. L. 99–433, § 502(b)(2), substituted “authority, direction
 
 (4) exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Army as the Secretary determines;
 
-(5) perform the duties prescribed for him by [section 171 of this title](./chapter-007-boards-councils-and-committees.md#section-171) and other provisions of law; and
+(5) perform the duties prescribed for him by sections 171 and 2547 of this title and other provisions of law; and
 
 (6) perform such other military duties, not otherwise assigned by law, as are assigned to him by the President, the Secretary of Defense, or the Secretary of the Army.
 
@@ -165,10 +165,15 @@ In subsection (d), 10:38 (last par.) is omitted as covered by 10:21d(a). The wor
 #### 1962 Act
 The changes correct references to section 202(j) of the National Security Act of 1947, which is now set out as [section 124 of title 10](./chapter-003-general-powers-and-functions.md#section-124).
 
+#### References in Text
+[Section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim), referred to in subsec. (a)(2)(B), was redesignated as [section 664(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/d&num=0&edition=prelim) by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
+
 #### Prior Provisions
 A prior section 3033 was renumbered [section 10302 of this title](./chapter-1009-reserve-forces-policy-boards-and-committees.md#section-10302).
 
 #### Amendments
+2015—Subsec. (d)(5). Pub. L. 114–92 substituted “sections 171 and 2547” for “section 171”.
+
 1988—Subsec. (a)(2)(B). Pub. L. 100–456 substituted “full tour of duty in a joint duty assignment (as defined in [section 664(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section664/f&num=0&edition=prelim))” for “joint duty assignment”.
 
 1986—Pub. L. 99–433 renumbered [section 3034 of this title](./chapter-305-the-army-staff.md#section-3034) as this section, substituted “Chief of Staff” for “Chief of Staff: appointment; duties” in section catchline, and amended text generally. Prior to amendment, text read as follows:
@@ -300,23 +305,31 @@ A prior section 3035 was renumbered [section 3034 of this title](./chapter-305-t
 (1) have shown by extensive duty in the branch concerned, or by similar duty, that they are qualified for the appointment; and
 
 (2) have been recommended by a board under subsection (e).
-Each officer covered by the preceding sentence, except the Surgeon General, shall be appointed in the regular grade of major general. The Surgeon General may be appointed from officers in any corps of the Army Medical Department and, while so serving, has the grade of lieutenant general. The Judge Advocate General shall be appointed as prescribed in [section 3037 of this title](./chapter-305-the-army-staff.md#section-3037).
+The Surgeon General may be appointed from officers in any corps of the Army Medical Department. The Judge Advocate General shall be appointed as prescribed in [section 3037 of this title](./chapter-305-the-army-staff.md#section-3037).
 
 **(c)** An officer appointed under subsection (b) normally holds office for four years. However, the President may terminate or extend the appointment at any time.
 
-**(d)**
+**(d)** Each officer named in subsection (a) shall perform duties prescribed by the Secretary of the Army and by law.
 
-(1) Each officer named in subsection (a) shall perform duties prescribed by the Secretary of the Army and by law.
+**(e)**
 
-(2) Under the supervision of the Secretary, the Chief of Engineers may accept orders to provide services to another department, agency, or instrumentality of the United States or to a State or political subdivision of a State. The Chief of Engineers may provide any part of those services by contract. Services may be provided to a State, or to a political subdivision of a State, only if—
+(1) Under the supervision of the Secretary, the Chief of Engineers may accept orders to provide services to another department, agency, or instrumentality of the United States or to a State or political subdivision of a State. The Chief of Engineers may provide any part of those services by contract. Services may be provided to a State, or to a political subdivision of a State, only if—
 
   (A) the work to be undertaken on behalf of non-Federal interests involves Federal assistance and the head of the department or agency providing Federal assistance for the work does not object to the provision of services by the Chief of Engineers; and
 
   (B) the services are provided on a reimbursable basis.
 
-(3) In this subsection, the term “State” includes the several States, the District of Columbia, the Commonwealths of Puerto Rico and the Northern Mariana Islands, territories and possessions of the United States, and Indian tribes.
+(2) In this subsection, the term “State” includes the several States, the District of Columbia, the Commonwealths of Puerto Rico and the Northern Mariana Islands, territories and possessions of the United States, and Indian tribes.
 
-**(e)** For each office to be filled under subsection (b), the Secretary shall select a board of five general officers, including the incumbent, if any, of the office, and at least two officers, if available, in a grade above major general who have had extensive service in the branch concerned. The Secretary shall give the board a list of the officers to be considered and shall specify the number of officers, not less than three, to be recommended. The list shall include—
+**(f)**
+
+(1) The Surgeon General serves as the principal advisor to the Secretary of the Army and the Chief of Staff of the Army on all health and medical matters of the Army, including strategic planning and policy development relating to such matters.
+
+(2) The Surgeon General serves as the chief medical advisor of the Army to the Director of the Defense Health Agency on matters pertaining to military health readiness requirements and safety of members of the Army.
+
+(3) The Surgeon General, acting under the authority, direction, and control of the Secretary of the Army, shall recruit, organize, train, and equip, medical personnel of the Army.
+
+**(g)** For each office to be filled under subsection (b), the Secretary shall select a board of five general officers, including the incumbent, if any, of the office, and at least two officers, if available, in a grade above major general who have had extensive service in the branch concerned. The Secretary shall give the board a list of the officers to be considered and shall specify the number of officers, not less than three, to be recommended. The list shall include—
 
 (1) the name of each officer of the Regular Army who is appointed in, or assigned to, that branch, and whose regular grade is colonel;
 
@@ -351,6 +364,12 @@ In subsection (e), the introductory clause is substituted for 10:559g(b) (words 
 The first sentence is restated to clarify that the Secretary concerned is the Secretary of the Army. The word “services” is substituted for “work or services” because it is inclusive. The word “instrumentality” is added for clarity.
 
 #### Amendments
+2016—Subsec. (b). Pub. L. 114–328, § 502(k)(2), which directed amendment of second sentence of concluding provisions by striking “, and while so serving, has the grade of lieutenant general”, was executed by striking out “and, while so serving, has the grade of lieutenant general” after “Army Medical Department” to reflect the probable intent of Congress.
+
+Pub. L. 114–328, § 502(k)(1), struck out first sentence of concluding provisions which read as follows: “Each officer covered by the preceding sentence, except the Surgeon General, shall be appointed in the regular grade of major general.”
+
+Subsecs. (d) to (g). Pub. L. 114–328, § 702(b)(1), struck out par. (1) designation before “Each officer” in subsec. (d), redesignated subsec. (e) as (g), added subsec. (e) designation, redesignated pars. (2) and (3) of subsec. (d) as pars. (1) and (2), respectively, of subsec. (e), and added subsec. (f).
+
 1996—Subsec. (b). Pub. L. 104–106 inserted “may be appointed from officers in any corps of the Army Medical Department and” after “The Surgeon General” in concluding provisions.
 
 Subsec. (d)(3). Pub. L. 104–201 substituted “In this subsection” for “For purposes of this subsection”.
@@ -382,6 +401,9 @@ for “and may provide”, which resulted in the creation of an incomplete sente
 1966—Subsec. (a). Pub. L. 89–718 struck out cls. (2) to (8) naming the Chief Signal Officer, Adjutant General, Quartermaster General, Chief of Finance, Chief of Ordnance, Chief Chemical Officer, and Chief of Transportation respectively, and redesignated cls. (9) to (11) as (2) to (4), respectively.
 
 1965—Subsec. (b). Pub. L. 89–288 provided Surgeon General, while so serving, with grade of lieutenant general.
+
+#### Veterans’ Curation Program
+Pub. L. 114–189, July 6, 2016, 130 Stat. 613, provided that: “SECTION 1. FINDINGS.“Congress finds the following:“(1) The Corps of Engineers and other Federal agencies are required to preserve and catalogue artifacts and other items of national historical significance that are uncovered during the course of their work (notably under part 79 of title 36, Code of Federal Regulations). “(2) Uncatalogued artifacts within the care of Federal agencies are stored in hundreds of repositories and museums across the Nation. “(3) In October 2009, the Corps of Engineers, Center of Expertise for the Curation and Management of Archaeological Collections, initiated the Veterans’ Curation Program to employ and train Iraq and Afghanistan veterans in archaeological processing. “(4) The Veterans’ Curation Program employs veterans and members of the Armed Forces in the sorting, cleaning, and cataloguing of artifacts managed by the Corps of Engineers. “(5) Employees of the Veterans’ Curation Program gain valuable work skills, including computer database management, records management, photographic and scanning techniques, computer software proficiency, vocabulary and writing skills, and interpersonal communication skills, as well as knowledge and training in archaeology and history. “(6) Since 2009, a total of 241 veterans have participated in the Veterans’ Curation Program, including the current class of 38 participants. Of the 203 graduates of the program, 87 percent have received permanent employment in a field related to training received under the program or chosen to continue their education. “(7) Experience in archaeological curation gained through the Veterans’ Curation Program is valuable training and experience for the museum, forensics, administrative, records management, and other fields. “(8) Veterans’ Curation Program participants may assist the Corps of Engineers in developing a more efficient and comprehensive collections management program and also may provide the workforce to meet the records management needs at other agencies and departments, including the Department of Veterans Affairs. “SEC. 2. TRAINING AND EMPLOYMENT FOR VETERANS AND MEMBERS OF ARMED FORCES IN CURATION AND HISTORIC PRESERVATION.“Using available funds, the Secretary of the Army, acting through the Chief of Engineers, shall carry out a Veterans’ Curation Program to hire veterans and members of the Armed Forces to assist the Secretary in carrying out curation and historic preservation activities.”
 
 #### Corps of Engineers; Annual Budget Submission
 Pub. L. 110–161, div. C, title I, § 114, Dec. 26, 2007, 121 Stat. 1944, provided that: “All budget documents and justification materials for the Corps of Engineers annual budget submission to Congress shall be assembled and presented based on the most recent annual appropriations Act: Provided, That new budget proposals for fiscal year 2008 and thereafter, shall not be integrated into the budget justifications submitted to Congress but shall be submitted separately from the budget justifications documents.”
@@ -430,7 +452,7 @@ The Adjutant General.
 
 <a id="section-3037"></a>
 ## § 3037. Judge Advocate General, Deputy Judge Advocate General, and general officers of Judge Advocate General’s Corps: appointment; duties
-**(a)** The President, by and with the advice and consent of the Senate, shall appoint the Judge Advocate General, the Deputy Judge Advocate General, and general officers of the Judge Advocate General’s Corps, from officers of the Judge Advocate General’s Corps, who are recommended by the Secretary of the Army. The term of office of the Judge Advocate General and the Deputy Judge Advocate General is four years. The Judge Advocate General, while so serving, has the grade of lieutenant general. An officer appointed as Deputy Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.
+**(a)** The President, by and with the advice and consent of the Senate, shall appoint the Judge Advocate General, the Deputy Judge Advocate General, and general officers of the Judge Advocate General’s Corps, from officers of the Judge Advocate General’s Corps, who are recommended by the Secretary of the Army. The term of office of the Judge Advocate General and the Deputy Judge Advocate General is four years.
 
 **(b)** The Judge Advocate General shall be appointed from those officers who at the time of appointment are members of the bar of a Federal court or the highest court of a State, and who have had at least eight years of experience in legal duties as commissioned officers.
 
@@ -471,6 +493,8 @@ In subsection (c), the words “In addition to duties elsewhere prescribed for h
 The change corrects an inadvertence. The source statute for [section 3036(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3036/c&num=0&edition=prelim) (the third sentence of sec. 513(a) of the Officer Personnel Act of 1947, 61 Stat. 901), providing for a 4-year term of office, applied also to the Judge Advocate General and the Assistant Judge Advocate General. As restated in section 3036(c), it now applies only to the officers named in section 3036(b), which excludes the two officers named. For this reason, the effect of the source statute with respect to those officers is added to section 3037(a), relating to their appointment.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328 struck out last two sentences which read as follows: “The Judge Advocate General, while so serving, has the grade of lieutenant general. An officer appointed as Deputy Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.”
+
 2008—Pub. L. 110–181, § 543(a)(3)(A), amended section catchline generally, substituting “Deputy” for “Assistant”.
 
 Subsec. (a). Pub. L. 110–181, § 543(a)(1), (2)(A), substituted “Deputy Judge Advocate General” for “Assistant Judge Advocate General” wherever appearing and substituted “The Judge Advocate General, while so serving, has the grade of lieutenant general.” for “The Judge Advocate General, while so serving, shall hold a grade not lower than major general.”
@@ -516,11 +540,7 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
   (B) the waiver is necessary for the good of the service.
   Any such waiver shall be made on a case-by-case basis.
 
-**(c) Term; Reappointment; Grade.—**
-
-(1) The Chief of Army Reserve is appointed for a period of four years, but may be removed for cause at any time. An officer serving as Chief of Army Reserve may be reappointed for one additional four-year period.
-
-(2) The Chief of Army Reserve, while so serving, holds the grade of lieutenant general.
+**(c) Term; Reappointment.—** The Chief of Army Reserve is appointed for a period of four years, but may be removed for cause at any time. An officer serving as Chief of Army Reserve may be reappointed for one additional four-year period.
 
 **(d) Budget.—** The Chief of Army Reserve is the official within the executive part of the Department of the Army who, subject to the authority, direction, and control of the Secretary of the Army and the Chief of Staff, is responsible for justification and execution of the personnel, operation and maintenance, and construction budgets for the Army Reserve. As such, the Chief of Army Reserve is the director and functional manager of appropriations made for the Army Reserve in those areas.
 
@@ -538,6 +558,8 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 A prior section 3038, act Aug. 10, 1956, ch. 1041, 70A Stat. 164, charged Chief of Engineers with responsibility for Army construction, real estate acquisition and management, and the operation of water, gas, electric, and sewer utilities, prior to repeal by Pub. L. 89–718, § 25(a), Nov. 2, 1966, 80 Stat. 1119.
 
 #### Amendments
+2016—Subsec. (c). Pub. L. 114–328 struck out “; Grade” after “Reappointment” in heading, and in text struck out par. (1) designation before “The Chief of Army Reserve” and struck out par. (2) which read as follows: “The Chief of Army Reserve, while so serving, holds the grade of lieutenant general.”
+
 2004—Subsec. (b)(4). Pub. L. 108–375 substituted “December 31, 2006” for “December 31, 2004” in introductory provisions.
 
 2002—Subsec. (b)(4). Pub. L. 107–314 substituted “December 31, 2004” for “October 1, 2003” in introductory provisions.
@@ -573,34 +595,14 @@ Section effective on first day of first calendar month following date of enactme
 
 
 <a id="section-3039"></a>
-## § 3039. Deputy and assistant chiefs of branches
-**(a)** Each officer named in [section 3036 of this title](./chapter-305-the-army-staff.md#section-3036) shall have, in addition to the assistants prescribed by subsections (b) and (c) and by [section 3037 of this title](./chapter-305-the-army-staff.md#section-3037), such deputies and assistants as the Secretary of the Army may prescribe. Each such deputy and assistant shall be an officer detailed by the Secretary to that position from the officers of the Army for a tour of duty of not more than four years, under a procedure prescribed by the Secretary similar to that prescribed in [section 3036 of this title](./chapter-305-the-army-staff.md#section-3036).
-
-**(b)** There is an Assistant Surgeon General appointed from the officers of the Dental Corps, as prescribed in [section 3036 of this title](./chapter-305-the-army-staff.md#section-3036). The Assistant Surgeon General is Chief of the Dental Corps and is responsible for making recommendations to the Surgeon General and through the Surgeon General to the Chief of Staff on all matters concerning dentistry and the dental health of the Army. An appointee who holds a lower regular grade shall be appointed in the regular grade of major general.
-
-**(c)** There are two assistants to the Chief of Engineers appointed as prescribed in [section 3036 of this title](./chapter-305-the-army-staff.md#section-3036). An appointee who holds a lower regular grade shall be appointed in the regular grade of brigadier general.
+## § 3039. Repealed. Pub. L. 114–328, div. A, title V, § 502(n)(1), Dec. 23, 2016, 130 Stat. 2103]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised section | Source (U.S. Code) | Source (Statutes at Large) |
-| 3040(a) 3040(b) 3040(c) | 10:21h(a). 10:21h(b). 10:181 (18th through 25th words). 10:181a (14th through 30th words). | June 28, 1950, ch. 383, § 208 (less (c)), 64 Stat. 268. June 3, 1916, ch. 134, § 11 (18th through 25th words); restated June 4, 1920, ch. 227, subch. I, § 11 (18th through 25th words), 41 Stat. 768. |
-|  |  | June 26, 1936, ch. 839 (16th through 31st words), 49 Stat. 1974. |
-
-In subsection (a), the words “in addition to the assistants prescribed by subsections (b) and (c) and [section 3037 of this title](./chapter-305-the-army-staff.md#section-3037)” are substituted for the words “Except as prescribed in subsections (b) and (c) of this section”. The words “selected and”, “which procedure shall be”, and 10:21h(a) (last 21 words) are omitted as surplusage.
-
-In subsection (b), the words “appointed from the officers of the Dental Corps” are substituted for the words “who shall be an officer of the Dental Corps, and who shall be selected and appointed”. The last sentence is substituted for the words “with the rank of major general”.
-
-Subsection (c) is based on section 11 of the National Defense Act, as amended by the Act of June 26, 1936, ch. 839, 49 Stat. 1974 (10:181 and 181a), which provides for two assistants to the Chief of Engineers with the rank of brigadier general, and as impliedly amended by section 513(a) and 513(b) of the Officer Personnel Act of 1947 (10:559g), which provides the method of selection of assistant chiefs of branches, and prescribes that assistant chiefs be promoted to the grade held as such in the Regular Army if they hold a lower grade in the Regular Army. Section 404(f) of the Army Organization Act of 1950, 64 Stat. 274, exempts these two positions from the operation of section 208(a) of that act (10:21h(a)).
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 165, § 3040; Pub. L. 95–485, title VIII, § 805(a), Oct. 20, 1978, 92 Stat. 1621; renumbered § 3039 and amended Pub. L. 99–433, title V, § 502(f)(2), Oct. 1, 1986, 100 Stat. 1042, related to deputy and assistant chiefs of branches.
 
 #### Prior Provisions
 A prior section 3039, act Aug. 10, 1956, ch. 1041, 70A Stat. 164, related to Inspector General and Provost Marshal General, prior to repeal by Pub. L. 99–433, § 502(f)(1). See [section 3020 of this title](./chapter-303-department-of-the-army.md#section-3020).
-
-#### Amendments
-1986—Pub. L. 99–433 renumbered [section 3040 of this title](./chapter-305-the-army-staff.md#section-3040) as this section and substituted “section 3036” for “sections 3036 and 3039” in subsec. (a).
-
-1978—Subsec. (b). Pub. L. 95–485 inserted provision establishing the Assistant Surgeon General as Chief of the Dental Corps and making him responsible for recommendations to the Surgeon General and through the Surgeon General to the Chief of Staff on all matters concerning dentistry and dental health of the Army.
 
 
 <a id="section-3040"></a>

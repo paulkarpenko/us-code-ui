@@ -2,7 +2,7 @@
 title: 40
 chapter: '145'
 heading: SPECIAL APPALACHIAN PROGRAMS
-section_count: 14
+section_count: 15
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40&num=0&edition=prelim
 ---
@@ -69,7 +69,7 @@ In subsection (e), the text of 40 App.:201(g) is omitted as obsolete.
 2004—Subsec. (a). Pub. L. 108–199, which directed substitution of “three thousand and ninety” for “three thousand and twenty-five” in third sentence, was executed by substituting “three thousand and ninety” for “3,025” in second sentence of subsec. (a) to reflect the probable intent of Congress.
 
 #### Appalachian Development Highway System
-Pub. L. 112–141, div. A, title I, § 1528, July 6, 2012, 126 Stat. 582, provided that: “(a) Sense of the Senate.—It is the Sense of the Senate that the timely completion of the Appalachian development highway system is a transportation priority in the national interest. “(b) Modified Federal Share for Projects on ADHS.—For fiscal years 2012 through 2021, the Federal share payable for the cost of constructing highways and access roads on the Appalachian development highway system under [section 14501 of title 40](./chapter-145-special-appalachian-programs.md#section-14501), United States Code, with funds made available to a State for fiscal year 2012 or a previous fiscal year for the Appalachian development highway system program, or with funds made available for fiscal year 2012 or a previous fiscal year for a specific project, route, or corridor on that system, shall be 100 percent. “(c) Federal Share for Other Funds Used on ADHS.—For fiscal years 2012 through 2021, the Federal share payable for the cost of constructing highways and access roads on the Appalachian development highway system under [section 14501 of title 40](./chapter-145-special-appalachian-programs.md#section-14501), United States Code, with Federal funds apportioned to a State for a program other than the Appalachian development highway system program shall be 100 percent. “(d) Completion Plan.—“(1) In general.—Subject to paragraph (2), not later than 1 year after the date of enactment of the MAP–21 [deemed to be Oct. 1, 2012], each State represented on the Appalachian Regional Commission shall establish a plan for the completion of the designated corridors of the Appalachian development highway system within the State, including annual performance targets, with a target completion date. “(2) Significant uncompleted miles.—If the percentage of remaining Appalachian development highway system needs for a State, according to the latest cost to complete estimate for the Appalachian development highway system, is greater than 15 percent of the total cost to complete estimate for the entire Appalachian development highway system, the State shall not establish a plan under paragraph (1) that would result in a reduction of obligated funds for the Appalachian development highway system within the State for any subsequent fiscal year.”
+Pub. L. 112–141, div. A, title I, § 1528, July 6, 2012, 126 Stat. 582, as amended by Pub. L. 114–94, div. A, title I, § 1435, Dec. 4, 2015, 129 Stat. 1430, provided that: “(a) Sense of the Senate.—It is the Sense of the Senate that the timely completion of the Appalachian development highway system is a transportation priority in the national interest. “(b) Modified Federal Share for Projects on ADHS.—For fiscal years 2012 through 2050, the Federal share payable for the cost of constructing highways and access roads on the Appalachian development highway system under [section 14501 of title 40](./chapter-145-special-appalachian-programs.md#section-14501), United States Code, with funds made available to a State for fiscal year 2012 or a previous fiscal year for the Appalachian development highway system program, or with funds made available for fiscal year 2012 or a previous fiscal year for a specific project, route, or corridor on that system, shall be up to 100 percent, as determined by the State. “(c) Federal Share for Other Funds Used on ADHS.—For fiscal years 2012 through 2050, the Federal share payable for the cost of constructing highways and access roads on the Appalachian development highway system under [section 14501 of title 40](./chapter-145-special-appalachian-programs.md#section-14501), United States Code, with Federal funds apportioned to a State for a program other than the Appalachian development highway system program shall be up to 100 percent, as determined by the State. “(d) Completion Plan.—“(1) In general.—Subject to paragraph (2), not later than 1 year after the date of enactment of the MAP–21 [deemed to be Oct. 1, 2012], each State represented on the Appalachian Regional Commission shall establish a plan for the completion of the designated corridors of the Appalachian development highway system within the State, including annual performance targets, with a target completion date. “(2) Significant uncompleted miles.—If the percentage of remaining Appalachian development highway system needs for a State, according to the latest cost to complete estimate for the Appalachian development highway system, is greater than 15 percent of the total cost to complete estimate for the entire Appalachian development highway system, the State shall not establish a plan under paragraph (1) that would result in a reduction of obligated funds for the Appalachian development highway system within the State for any subsequent fiscal year.”
 
 
 <a id="section-14502"></a>
@@ -552,6 +552,46 @@ Subsec. (g)(3). Pub. L. 110–371, § 2(g)(2), added par. (3).
 **(c) Sources of Assistance.—** Subject to subsection (b), grants provided under this section may be provided from amounts made available to carry out this section in combination with amounts made available under other Federal programs or from any other source.
 
 **(d) Federal Share.—** Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Commission decides is appropriate.
+
+
+<a id="section-14509"></a>
+## § 14509. High-speed broadband deployment initiative
+**(a) In General.—** The Appalachian Regional Commission may provide technical assistance, make grants, enter into contracts, or otherwise provide amounts to individuals or entities in the Appalachian region for projects and activities—
+
+(1) to increase affordable access to broadband networks throughout the Appalachian region;
+
+(2) to conduct research, analysis, and training to increase broadband adoption efforts in the Appalachian region;
+
+(3) to provide technology assets, including computers, smartboards, and video projectors to educational systems throughout the Appalachian region;
+
+(4) to increase distance learning opportunities throughout the Appalachian region;
+
+(5) to increase the use of telehealth technologies in the Appalachian region; and
+
+(6) to promote e-commerce applications in the Appalachian region.
+
+**(b) Limitation on Available Amounts.—** Of the cost of any activity eligible for a grant under this section—
+
+(1) not more than 50 percent may be provided from amounts appropriated to carry out this section; and
+
+(2) notwithstanding paragraph (1)—
+
+  (A) in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526, not more than 80 percent may be provided from amounts appropriated to carry out this section; and
+
+  (B) in the case of a project to be carried out in a county for which an at-risk designation is in effect under section 14526, not more than 70 percent may be provided from amounts appropriated to carry out this section.
+
+**(c) Sources of Assistance.—** Subject to subsection (b), a grant provided under this section may be provided from amounts made available to carry out this section in combination with amounts made available—
+
+(1) under any other Federal program; or
+
+(2) from any other source.
+
+**(d) Federal Share.—** Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Appalachian Regional Commission determines to be appropriate.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 114–94, div. A, title I, § 1436(d), Dec. 4, 2015, 129 Stat. 1432, provided that: “This section [enacting this section and amending sections 14703 and 14704 of this title] and the amendments made by this section take effect on October 1, 2015.”
 
 
 <a id="section-14521"></a>

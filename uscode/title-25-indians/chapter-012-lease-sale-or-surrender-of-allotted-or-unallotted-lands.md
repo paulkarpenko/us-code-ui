@@ -106,12 +106,12 @@ Act May 11, 1938, ch. 198, § 7, 52 Stat. 348, provided that: “All Act [Acts] 
 <a id="section-396b"></a>
 ## § 396b. Public auction of oil and gas leases; requirements
 
-Leases for oil- and/or gas-mining purposes covering such unallotted lands shall be offered for sale to the highest responsible qualified bidder, at public auction or on sealed bids, after notice and advertisement, upon such terms and subject to such conditions as the Secretary of the Interior may prescribe. Such advertisement shall reserve to the Secretary of the Interior the right to reject all bids whenever in his judgment the interest of the Indians will be served by so doing, and if no satisfactory bid is received, or the accepted bidder fails to complete the lease, or the Secretary of the Interior shall determine that it is unwise in the interest of the Indians to accept the highest bid, said Secretary may readvertise such lease for sale, or with the consent of the tribal council or other governing tribal authorities, a lease may be made by private negotiations: Provided, That the foregoing provisions shall in no manner restrict the right of tribes organized and incorporated under sections 16 and 17 of the Act of June 18, 1934 (48 Stat. 984) [[25 U.S.C. 476](./chapter-014-miscellaneous.md#section-476), 477], to lease lands for mining purposes as therein provided and in accordance with the provisions of any constitution and charter adopted by any Indian tribe pursuant to the Act of June 18, 1934 [[25 U.S.C. 461](./chapter-014-miscellaneous.md#section-461) et seq.].
+Leases for oil- and/or gas-mining purposes covering such unallotted lands shall be offered for sale to the highest responsible qualified bidder, at public auction or on sealed bids, after notice and advertisement, upon such terms and subject to such conditions as the Secretary of the Interior may prescribe. Such advertisement shall reserve to the Secretary of the Interior the right to reject all bids whenever in his judgment the interest of the Indians will be served by so doing, and if no satisfactory bid is received, or the accepted bidder fails to complete the lease, or the Secretary of the Interior shall determine that it is unwise in the interest of the Indians to accept the highest bid, said Secretary may readvertise such lease for sale, or with the consent of the tribal council or other governing tribal authorities, a lease may be made by private negotiations: Provided, That the foregoing provisions shall in no manner restrict the right of tribes organized and incorporated under sections 16 and 17 of the Act of June 18, 1934 (48 Stat. 984) [[25 U.S.C. 5123](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5123), 5124], to lease lands for mining purposes as therein provided and in accordance with the provisions of any constitution and charter adopted by any Indian tribe pursuant to the Act of June 18, 1934 [[25 U.S.C. 5101](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5101) et seq.].
 
 ### Statutory Notes
 
 #### References in Text
-Act of June 18, 1934, referred to in text, popularly known as the Indian Reorganization Act, is classified generally to subchapter V (§ 461 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 461 of this title](./chapter-014-miscellaneous.md#section-461) and Tables.
+Act of June 18, 1934, referred to in text, is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to chapter 45 (§ 5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5101 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5101) and Tables.
 
 #### Repeal of Inconsistent Acts
 For repeal of inconsistent acts, see section 7 of act May 11, 1938, set out as a note under [section 396a of this title](./chapter-012-lease-sale-or-surrender-of-allotted-or-unallotted-lands.md#section-396a).
@@ -167,7 +167,7 @@ Sections 396a, 396b, 396c, and 396d of this title shall not apply to the Crow Re
 For repeal of inconsistent acts, see section 7 of act May 11, 1938, set out as a note under [section 396a of this title](./chapter-012-lease-sale-or-surrender-of-allotted-or-unallotted-lands.md#section-396a).
 
 #### Papago Indian Reservation
-Section 1 of act May 27, 1955, authorized the leasing of minerals for mining purposes. See note under [section 463 of this title](./chapter-014-miscellaneous.md#section-463).
+Section 1 of act May 27, 1955, authorized the leasing of minerals for mining purposes. See note under [section 5103 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5103).
 
 
 <a id="section-396g"></a>
@@ -516,7 +516,7 @@ On and after August 25, 1937, in all sales of tribal lands of the Choctaw and Ch
 
 **(b) Leases involving Tulalip Tribes** Any lease by the Tulalip Tribes, the Puyallup Tribe of Indians, the Swinomish Indian Tribal Community, or the Kalispel Tribe of Indians under subsection (a) of this section, except a lease for the exploitation of any natural resource, shall not require the approval of the Secretary of the Interior (1) if the term of the lease does not exceed fifteen years, with no option to renew, (2) if the term of the lease does not exceed thirty years, with no option to renew, and the lease is executed pursuant to tribal regulations previously approved by the Secretary of the Interior, or (3) if the term does not exceed seventy-five years (including options to renew), and the lease is executed under tribal regulations approved by the Secretary under this clause (3).
 
-**(c) Leases involving Hopi Tribe and Hopi Partitioned Lands Accommodation Agreement** Notwithstanding subsection (a) of this section, a lease of land by the Hopi Tribe to Navajo Indians on the Hopi Partitioned Lands may be for a term of 75 years, and may be extended at the conclusion of the term of the lease.
+**(c) Leases involving Hopi Tribe and Hopi Partitioned Lands Accommodation Agreement** Notwithstanding subsection (a), a lease of land by the Hopi Tribe to Navajo Indians on the Hopi Partitioned Lands may be for a term of 75 years, and may be extended at the conclusion of the term of the lease.
 
 **(d) Definitions** For purposes of this section—
 
@@ -546,7 +546,7 @@ On and after August 25, 1937, in all sales of tribal lands of the Choctaw and Ch
 
 (8) the term “tribal regulations” means regulations enacted in accordance with applicable tribal law and approved by the Secretary;
 
-(9) the term “Indian tribe” has the meaning given such term in [section 479a of this title](./chapter-014-miscellaneous.md#section-479a); and
+(9) the term “Indian tribe” has the meaning given such term in [section 5130 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5130); and
 
 (10) the term “individually owned allotted land” means a parcel of land that—
 
@@ -560,7 +560,7 @@ On and after August 25, 1937, in all sales of tribal lands of the Choctaw and Ch
 
 **(e) Leases of restricted lands for the Navajo Nation**
 
-(1) Any leases by the Navajo Nation for purposes authorized under subsection (a) of this section, and any amendments thereto, except a lease for the exploration, development, or extraction of any mineral resources, shall not require the approval of the Secretary if the lease is executed under the tribal regulations approved by the Secretary under this subsection and the term of the lease does not exceed—
+(1) Any leases by the Navajo Nation for purposes authorized under subsection (a), and any amendments thereto, except a lease for the exploration, development, or extraction of any mineral resources, shall not require the approval of the Secretary if the lease is executed under the tribal regulations approved by the Secretary under this subsection and the term of the lease does not exceed—
 
   (A) in the case of a business or agricultural lease, 25 years, except that any such lease may include an option to renew for up to two additional terms, each of which may not exceed 25 years; and
 
@@ -568,7 +568,7 @@ On and after August 25, 1937, in all sales of tribal lands of the Choctaw and Ch
 
 (2) Paragraph (1) shall not apply to individually owned Navajo Indian allotted land.
 
-(3) The Secretary shall have the authority to approve or disapprove tribal regulations referred to under paragraph (1). The Secretary shall approve such tribal regulations if such regulations are consistent with the regulations of the Secretary under subsection (a) of this section, and any amendments thereto, and provide for an environmental review process. The Secretary shall review and approve or disapprove the regulations of the Navajo Nation within 120 days of the submission of such regulations to the Secretary. Any disapproval of such regulations by the Secretary shall be accompanied by written documentation that sets forth the basis for the disapproval. Such 120-day period may be extended by the Secretary after consultation with the Navajo Nation.
+(3) The Secretary shall have the authority to approve or disapprove tribal regulations referred to under paragraph (1). The Secretary shall approve such tribal regulations if such regulations are consistent with the regulations of the Secretary under subsection (a), and any amendments thereto, and provide for an environmental review process. The Secretary shall review and approve or disapprove the regulations of the Navajo Nation within 120 days of the submission of such regulations to the Secretary. Any disapproval of such regulations by the Secretary shall be accompanied by written documentation that sets forth the basis for the disapproval. Such 120-day period may be extended by the Secretary after consultation with the Navajo Nation.
 
 (4) If the Navajo Nation has executed a lease pursuant to tribal regulations under paragraph (1), the Navajo Nation shall provide the Secretary with—
 
@@ -594,7 +594,7 @@ On and after August 25, 1937, in all sales of tribal lands of the Choctaw and Ch
 
 **(g) Lease of tribally-owned land by Assiniboine and Sioux Tribes of the Fort Peck Reservation**
 
-(1) **In general** — Notwithstanding subsection (a) of this section and any regulations under part 162 of title 25, Code of Federal Regulations (or any successor regulation), subject to paragraph (2), the Assiniboine and Sioux Tribes of the Fort Peck Reservation may lease to the Northern Border Pipeline Company tribally-owned land on the Fort Peck Indian Reservation for 1 or more interstate gas pipelines.
+(1) **In general** — Notwithstanding subsection (a) and any regulations under part 162 of title 25, Code of Federal Regulations (or any successor regulation), subject to paragraph (2), the Assiniboine and Sioux Tribes of the Fort Peck Reservation may lease to the Northern Border Pipeline Company tribally-owned land on the Fort Peck Indian Reservation for 1 or more interstate gas pipelines.
 
 (2) **Conditions** — A lease entered into under paragraph (1)—
 
@@ -638,7 +638,7 @@ On and after August 25, 1937, in all sales of tribal lands of the Choctaw and Ch
 
   (C) *Technical assistance* — The Secretary may provide technical assistance, upon request of the Indian tribe, for development of a regulatory environmental review process under subparagraph (B)(ii).
 
-  (D) *Indian Self-Determination Act* — The technical assistance to be provided by the Secretary pursuant to subparagraph (C) may be made available through contracts, grants, or agreements entered into in accordance with, and made available to entities eligible for, such contracts, grants, or agreements under the Indian Self-Determination Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) 33 So in original. Probably should be “450f”. et seq.).
+  (D) *Indian Self-Determination Act* — The technical assistance to be provided by the Secretary pursuant to subparagraph (C) may be made available through contracts, grants, or agreements entered into in accordance with, and made available to entities eligible for, such contracts, grants, or agreements under the Indian Self-Determination Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.).33 See References in Text note below.
 
 (4) **Review process**
 
@@ -685,7 +685,7 @@ On and after August 25, 1937, in all sales of tribal lands of the Choctaw and Ch
 ### Statutory Notes
 
 #### References in Text
-The Indian Self-Determination Act, referred to in subsec. (h)(3)(D), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 450 of this title](./chapter-014-miscellaneous.md#section-450) and Tables.
+The Indian Self-Determination Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsec. (h)(3)(D), probably means title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which was classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title prior to editorial reclassification as subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
@@ -869,7 +869,7 @@ Any trust or restricted Indian lands, whether tribally or individually owned, lo
 ## § 416a. Lease provisions
 **(a) Covenant not to cause waste, etc.** Every lease entered into under [section 416 of this title](./chapter-012-lease-sale-or-surrender-of-allotted-or-unallotted-lands.md#section-416) shall contain a covenant on the part of the lessee that he will not commit or permit on the leased land any act which causes waste or a nuisance or which creates a hazard to health of persons or to property, wherever such persons or property may be.
 
-**(b) Judicial enforcement** The State of Arizona, or any political subdivision thereof contiguous with the San Xavier or Salt River Pima-Maricopa Indian Reservation, may bring suit, without regard to the amount in controversy, in the United States District Court for the District of Arizona to abate or enjoin any violation of the covenant required under subsection (a) of this section: Provided, That if, by reason of the citizenship of the parties and the law applicable to the cause of action, the District Court finds it lacks jurisdiction to hear and determine such suit, it may be brought in any court of competent jurisdiction of the State of Arizona.
+**(b) Judicial enforcement** The State of Arizona, or any political subdivision thereof contiguous with the San Xavier or Salt River Pima-Maricopa Indian Reservation, may bring suit, without regard to the amount in controversy, in the United States District Court for the District of Arizona to abate or enjoin any violation of the covenant required under subsection (a): Provided, That if, by reason of the citizenship of the parties and the law applicable to the cause of action, the District Court finds it lacks jurisdiction to hear and determine such suit, it may be brought in any court of competent jurisdiction of the State of Arizona.
 
 **(c) Binding arbitration of disputes** Any contract, including a lease, affecting land within the Salt River Pima-Maricopa Indian Reservation may contain a provision for the binding arbitration of disputes arising out of such contract. Such contracts shall be considered within the meaning of “commerce” as defined and subject to the provisions of [section 1 of title 9](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title9-section1&num=0&edition=prelim). Any refusal to submit to arbitration pursuant to a binding agreement for arbitration or the exercise of any right conferred by title 9 to abide by the outcome of arbitration pursuant to the provisions of chapter 1 of title 9, sections 1 through 14, shall be deemed to be a civil action arising under the Constitution, laws or treaties of the United States within the meaning of [section 1331 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1331&num=0&edition=prelim).
 

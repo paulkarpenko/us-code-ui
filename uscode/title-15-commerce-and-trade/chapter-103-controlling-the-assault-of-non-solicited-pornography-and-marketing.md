@@ -136,6 +136,9 @@ The Federal Trade Commission Act, referred to in par. (7), is act Sept. 26, 1914
 
 The Internet Tax Freedom Act, referred to in par. (10), is title XI of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–719, which is set out as a note under [section 151 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section151&num=0&edition=prelim), Telecommunications.
 
+#### Effective Date
+Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under [section 7701 of this title](./chapter-103-controlling-the-assault-of-non-solicited-pornography-and-marketing.md#section-7701).
+
 
 <a id="section-7703"></a>
 ## § 7703. Prohibition against predatory and abusive commercial e-mail
@@ -169,6 +172,9 @@ The Internet Tax Freedom Act, referred to in par. (10), is title XI of Pub. L. 1
 
 #### Codification
 Section is comprised of section 4 of Pub. L. 108–187. Subsec. (a) of section 4 of Pub. L. 108–187 enacted [section 1037 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1037&num=0&edition=prelim), Crimes and Criminal Procedure, and amended analysis for chapter 47 of Title 18. The provisions of subsec. (b) of section 4 of Pub. L. 108–187 are also listed in a table relating to sentencing guidelines set out as a note under [section 994 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim), Judiciary and Judicial Procedure.
+
+#### Effective Date
+Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under [section 7701 of this title](./chapter-103-controlling-the-assault-of-non-solicited-pornography-and-marketing.md#section-7701).
 
 
 <a id="section-7704"></a>
@@ -280,6 +286,9 @@ Section is comprised of section 4 of Pub. L. 108–187. Subsec. (a) of section 4
 #### References in Text
 This chapter, referred to in subsec. (a)(4)(A)(iv), was in the original “this Act”, meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of this title](./chapter-103-controlling-the-assault-of-non-solicited-pornography-and-marketing.md#section-7701) and Tables.
 
+#### Effective Date
+Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under [section 7701 of this title](./chapter-103-controlling-the-assault-of-non-solicited-pornography-and-marketing.md#section-7701).
+
 
 <a id="section-7705"></a>
 ## § 7705. Businesses knowingly promoted by electronic mail with false or misleading transmission information
@@ -317,6 +326,9 @@ This chapter, referred to in subsec. (a)(4)(A)(iv), was in the original “this 
 
 #### References in Text
 This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of this title](./chapter-103-controlling-the-assault-of-non-solicited-pornography-and-marketing.md#section-7701) and Tables.
+
+#### Effective Date
+Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under [section 7701 of this title](./chapter-103-controlling-the-assault-of-non-solicited-pornography-and-marketing.md#section-7701).
 
 
 <a id="section-7706"></a>
@@ -486,6 +498,9 @@ The Communications Act of 1934, referred to in subsec. (b)(10), is act June 19, 
 
 The Federal Trade Commission Act, referred to in subsec. (d), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
+#### Effective Date
+Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under [section 7701 of this title](./chapter-103-controlling-the-assault-of-non-solicited-pornography-and-marketing.md#section-7701).
+
 
 <a id="section-7707"></a>
 ## § 7707. Effect on other laws
@@ -511,6 +526,9 @@ The Federal Trade Commission Act, referred to in subsec. (d), is act Sept. 26, 1
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of this title](./chapter-103-controlling-the-assault-of-non-solicited-pornography-and-marketing.md#section-7701) and Tables.
+
+#### Effective Date
+Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under [section 7701 of this title](./chapter-103-controlling-the-assault-of-non-solicited-pornography-and-marketing.md#section-7701).
 
 
 <a id="section-7708"></a>
@@ -543,6 +561,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 #### References in Text
 This chapter, referred to in subsecs. (a) and (b)(1), was in the original “this Act”, meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of this title](./chapter-103-controlling-the-assault-of-non-solicited-pornography-and-marketing.md#section-7701) and Tables.
 
+#### Effective Date
+Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under [section 7701 of this title](./chapter-103-controlling-the-assault-of-non-solicited-pornography-and-marketing.md#section-7701).
+
 
 <a id="section-7710"></a>
 ## § 7710. Improving enforcement by providing rewards for information about violations; labeling
@@ -566,6 +587,9 @@ The Commission shall transmit to the Senate Committee on Commerce, Science, and 
 #### References in Text
 This chapter, referred to in par. (1), was in the original “this Act”, meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of this title](./chapter-103-controlling-the-assault-of-non-solicited-pornography-and-marketing.md#section-7701) and Tables.
 
+#### Effective Date
+Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under [section 7701 of this title](./chapter-103-controlling-the-assault-of-non-solicited-pornography-and-marketing.md#section-7701).
+
 
 <a id="section-7711"></a>
 ## § 7711. Regulations
@@ -577,6 +601,9 @@ This chapter, referred to in par. (1), was in the original “this Act”, meani
 
 #### References in Text
 This Act (not including the amendments made by sections 4 and 12), referred to in subsec. (a), is Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. Section 4 enacted [section 7703 of this title](./chapter-103-controlling-the-assault-of-non-solicited-pornography-and-marketing.md#section-7703), [section 1037 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1037&num=0&edition=prelim), Crimes and Criminal Procedure, and provisions listed in a table relating to sentencing guidelines set out as a note under [section 994 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim), Judiciary and Judicial Procedure. Section 12 amended [section 227 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section227&num=0&edition=prelim), Telecommunications. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of this title](./chapter-103-controlling-the-assault-of-non-solicited-pornography-and-marketing.md#section-7701) and Tables.
+
+#### Effective Date
+Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under [section 7701 of this title](./chapter-103-controlling-the-assault-of-non-solicited-pornography-and-marketing.md#section-7701).
 
 
 <a id="section-7712"></a>
@@ -606,6 +633,9 @@ This Act (not including the amendments made by sections 4 and 12), referred to i
 #### References in Text
 This chapter, referred to in subsecs. (a) and (b)(3), (4), was in the original “this Act”, meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of this title](./chapter-103-controlling-the-assault-of-non-solicited-pornography-and-marketing.md#section-7701) and Tables.
 
+#### Effective Date
+Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under [section 7701 of this title](./chapter-103-controlling-the-assault-of-non-solicited-pornography-and-marketing.md#section-7701).
+
 
 <a id="section-7713"></a>
 ## § 7713. Separability
@@ -616,3 +646,6 @@ If any provision of this chapter or the application thereof to any person or cir
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of this title](./chapter-103-controlling-the-assault-of-non-solicited-pornography-and-marketing.md#section-7701) and Tables.
+
+#### Effective Date
+Section effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as a note under [section 7701 of this title](./chapter-103-controlling-the-assault-of-non-solicited-pornography-and-marketing.md#section-7701).

@@ -135,7 +135,7 @@ Section is based on provisions of proviso on 32 Stat. 26, act of Feb. 14, 1902, 
 
 (1) Amounts appropriated for any fiscal year for the House of Representatives under the headings specified in paragraph (2) may be transferred among and merged with such headings, effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer.
 
-(2) The headings referred to in paragraph (1) are “House Leadership Offices”, “Members’ Representational Allowances”, “Committee Employees”, “Salaries, Officers and Employees”, “Allowances and Expenses’, the heading for any joint committee under the heading “Joint Items” (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), and “Office of the Attending Physician”.
+(2) The headings referred to in paragraph (1) are “House Leadership Offices”, “Members’ Representational Allowances”, “Committee Employees”, “Salaries, Officers and Employees”, “Allowances and Expenses”, the heading for any joint committee under the heading “Joint Items” (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), and “Office of the Attending Physician”.
 
 **(d) Transfers to Architect of the Capitol** Amounts appropriated for any fiscal year for the House of Representatives under the heading “Allowances and Expenses” may be transferred to the Architect of the Capitol and merged with and made available under the heading “House Office Buildings”, subject to the approval of the Committee on Appropriations of the House of Representatives.
 
@@ -507,7 +507,7 @@ Amendment by Pub. L. 108–447 applicable with respect to fiscal year 2005 and e
 
     (i) the term “computer-related equipment” includes desktops, laptops, printers, file servers, and peripherals which are appropriate for use in public school education;
 
-    (ii) the terms “public elementary school” and “public secondary school” have the meaning given such terms in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim); and
+    (ii) the terms “public elementary school” and “public secondary school” have the meaning given the terms elementary school and secondary school in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim); and
 
     (iii) the term “workstation” includes desktops and peripherals, file servers and peripherals, laptops and peripherals, printers and peripherals, and workstations and peripherals.
 
@@ -531,6 +531,8 @@ Section is based on section 104(a) of title I of H.R. 5203 (see House Report 99�
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2015—Par. (3)(B)(ii). Pub. L. 114–95 substituted “given the terms elementary school and secondary school in section 7801” for “given such terms in section 7801”.
+
 2002—Par. (3)(B)(ii). Pub. L. 107–110 substituted “7801” for “8801”.
 
 2001—Par. (1). Pub. L. 107–68, in third sentence, substituted “for credit to the appropriate account of the House of Representatives, and shall be available for expenditure in accordance with applicable law. For purposes of the previous sentence, in the case of receipts from the sale or disposal of any audio or video transcripts prepared by the House Recording Studio, the ‘appropriate account of the House of Representatives’ shall be the account of the Chief Administrative Officer of the House of Representatives” for “for credit to the appropriate account under the appropriation for ‘allowances and expenses’ under the heading ‘Contingent Expenses of the House’, and shall be available for expenditure in accordance with applicable law”.
@@ -549,6 +551,9 @@ Pars. (2) to (4). Pub. L. 101–163, § 103(a)(3), added pars. (2) to (4).
 
 #### Change of Name
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.

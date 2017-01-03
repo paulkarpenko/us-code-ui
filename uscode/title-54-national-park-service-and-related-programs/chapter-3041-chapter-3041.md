@@ -24,32 +24,66 @@ source: >-
 
 (7) The President of the National Conference of State Historic Preservation Officers.
 
-(8) The Chairman of the National Trust.
+(8) The General Chairman of the National Association of Tribal Historic Preservation Officers.
 
-(9) Four experts in the field of historic preservation appointed by the President from architecture, history, archeology, and other appropriate disciplines.
+(9) The Chairman of the National Trust.
 
-(10) Three members from the general public, appointed by the President.
+(10) Four experts in the field of historic preservation appointed by the President from architecture, history, archeology, and other appropriate disciplines.
 
-(11) One member of an Indian tribe or Native Hawaiian organization who represents the interests of the Indian tribe or Native Hawaiian organization of which he or she is a member, appointed by the President.
+(11) Three members from the general public, appointed by the President.
 
-**(b) Designation of Substitutes.—** Each member of the Council specified in paragraphs (2) to (5), (7), and (8) of subsection (a) may designate another officer of the department, agency, or organization to serve on the Council instead of the member, except that, in the case of paragraphs (2) and (4), no officer other than an Assistant Secretary or an officer having major department-wide or agency-wide responsibilities may be designated.
+(12) One member of an Indian tribe or Native Hawaiian organization who represents the interests of the Indian tribe or Native Hawaiian organization of which he or she is a member, appointed by the President.
 
-**(c) Term of Office.—** Each member of the Council appointed under paragraphs (1) and (9) to (11) of subsection (a) shall serve for a term of 4 years from the expiration of the term of the member’s predecessor. The members appointed under paragraphs (5) and (6) shall serve for the term of their elected office but not in excess of 4 years. An appointed member may not serve more than 2 terms. An appointed member whose term has expired shall serve until that member’s successor has been appointed.
+**(b) Designation of Substitutes.—** Each member of the Council specified in paragraphs (2) to (5) and (7) through (9) of subsection (a) may designate another officer of the department, agency, or organization to serve on the Council instead of the member, except that, in the case of paragraphs (2) and (4), no officer other than an Assistant Secretary or an officer having major department-wide or agency-wide responsibilities may be designated.
+
+**(c) Term of Office.—** Each member of the Council appointed under paragraphs (10) through (12) of subsection (a) shall serve for a term of 4 years from the expiration of the term of the member’s predecessor. The members appointed under paragraphs (5) and (6) shall serve for the term of their elected office but not in excess of 4 years. An appointed member, other than the Chairman of the Council, may not serve more than 2 terms. An appointed member whose term has expired shall serve until that member’s successor has been appointed.
 
 **(d) Vacancies.—** A vacancy in the Council shall not affect its powers, but shall be filled, not later than 60 days after the vacancy commences, in the same manner as the original appointment (and for the balance of the unexpired term).
 
-**(e) Designation of Vice Chairman.—** The President shall designate a Vice Chairman from the members appointed under paragraph (5), (6), (9), or (10) of subsection (a). The Vice Chairman may act in place of the Chairman during the absence or disability of the Chairman or when the office is vacant.
+**(e) Chairman.—**
 
-**(f) Quorum.—** Twelve members of the Council shall constitute a quorum.
+(1) After January 20, 2017, the Chairman shall—
+
+  (A) be appointed by the President, by and with the advice and consent of the Senate;
+
+  (B) serve at the will of the President;
+
+  (C) serve full time; and
+
+  (D) be compensated at the rate provided for Level V of the Executive Schedule Pay Rates under [section 5316 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim).
+
+(2) The Chairman shall serve for a term of 4 years and may be reappointed once, for a total of not more than 8 years of service as Chairman, except that a Chairman whose appointment has expired under this paragraph shall serve until his or her successor has been appointed. The term of a Chairman shall start (regardless of actual appointment date) on January 20 after each general Presidential election. The first Chairman appointed after the date of enactment of this paragraph shall have a first term commencing on January 20, 2017, and ending on January 19, 2021.
+
+(3) The Chairmen before the first appointment of a Chairman in accordance with paragraph (1) of this subsection shall receive $100 per diem when engaged in the performance of the duties of the Council, and shall receive reimbursement for necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Council.
+
+**(f) Designation of Vice Chairman.—** The President shall designate a Vice Chairman from the members appointed under paragraph (5), (6), (10), or (11) of subsection (a). The Vice Chairman shall perform the functions of the Chairman during the absence or disability of the Chairman or when the office is vacant.
+
+**(g) Quorum.—** Thirteen members of the Council shall constitute a quorum.
 
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 304101 | [16 U.S.C. 470i](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470i&num=0&edition=prelim) | Pub. L. 89–665, title II, § 201, Oct. 15, 1966, 80 Stat. 917; Pub. L. 91–243, § 1(b) through (e), May 9, 1970, 84 Stat. 204; Pub. L. 93–54, § 1(c), July 1, 1973, 87 Stat. 139; Pub. L. 94–422, title II, § 201(5), Sept. 28, 1976, 90 Stat. 1320; Pub. L. 96–515, title III, § 301(a) through (f), Dec. 12, 1980, 94 Stat. 2998; Pub. L. 102–575, title XL, §§ 4016, 4019(b), Oct. 30, 1992, 106 Stat. 4763, 4765; Pub. L. 104–333, div. I, title V, § 509(c)(1), (2), Nov. 12, 1996, 110 Stat. 4157; Pub. L. 109–453, § 1(d), Dec. 22, 2006, 120 Stat. 3367. |
+| 304101 | [16 U.S.C. 470i](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470i&num=0&edition=prelim). | Pub. L. 89–665, title II, § 201, Oct. 15, 1966, 80 Stat. 917; Pub. L. 91–243, § 1(b) through (e), May 9, 1970, 84 Stat. 204; Pub. L. 93–54, § 1(c), July 1, 1973, 87 Stat. 139; Pub. L. 94–422, title II, § 201(5), Sept. 28, 1976, 90 Stat. 1320; Pub. L. 96–515, title III, § 301(a) through (f), Dec. 12, 1980, 94 Stat. 2998; Pub. L. 102–575, title XL, §§ 4016, 4019(b), Oct. 30, 1992, 106 Stat. 4763, 4765; Pub. L. 104–333, div. I, title V, § 509(c)(1), (2), Nov. 12, 1996, 110 Stat. 4157; Pub. L. 109–453, § 1(d), Dec. 22, 2006, 120 Stat. 3367. |
 
 In subsection (a)(9), the words “the disciplines of” are omitted as unnecessary.
+
+#### References in Text
+The date of enactment of this paragraph, referred to in subsec. (e)(2), is the date of enactment of Pub. L. 114–289, which was approved Dec. 16, 2016.
+
+#### Amendments
+2016—Subsec. (a)(8) to (12). Pub. L. 114–289, § 501(a), added par. (8) and redesignated former pars. (8) to (11) as (9) to (12), respectively.
+
+Subsec. (b). Pub. L. 114–289, § 501(c)(1)(A), substituted “and (7) through (9)” for “, (7), and (8)”.
+
+Subsec. (c). Pub. L. 114–289, § 501(c)(1)(B), substituted “under paragraphs (10) through (12)” for “under paragraphs (1) and (9) to (11)” and “An appointed member, other than the Chairman of the Council, may not serve more than 2 terms.” for “An appointed member may not serve more than 2 terms.”
+
+Subsec. (e). Pub. L. 114–289, § 501(b)(2), added subsec. (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 114–289, § 501(b)(1), (3), (c)(1)(C), redesignated subsec. (e) as (f) and substituted “paragraph (5), (6), (10), or (11)” for “paragraph (5), (6), (9), or (10)” and “shall perform the functions” for “may act in place”. Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 114–289, § 501(b)(1), (c)(1)(D), redesignated subsec. (f) as (g) and substituted “Thirteen members” for “Twelve members”.
 
 
 <a id="section-304102"></a>
@@ -81,7 +115,7 @@ In subsection (a)(9), the words “the disciplines of” are omitted as unnecess
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 304102 | [16 U.S.C. 470j](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470j&num=0&edition=prelim) | Pub. L. 89–665, title II, § 202, Oct. 15, 1966, 80 Stat. 918; Pub. L. 96–515, title III, § 301(g), Dec. 12, 1980, 94 Stat. 2999. |
+| 304102 | [16 U.S.C. 470j](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470j&num=0&edition=prelim). | Pub. L. 89–665, title II, § 202, Oct. 15, 1966, 80 Stat. 918; Pub. L. 96–515, title III, § 301(g), Dec. 12, 1980, 94 Stat. 2999. |
 
 
 <a id="section-304103"></a>
@@ -94,7 +128,7 @@ The Council may secure directly from any Federal agency information, suggestions
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 304103 | [16 U.S.C. 470k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470k&num=0&edition=prelim) | Pub. L. 89–665, title II, § 203, Oct. 15, 1966, 80 Stat. 918. |
+| 304103 | [16 U.S.C. 470k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470k&num=0&edition=prelim). | Pub. L. 89–665, title II, § 203, Oct. 15, 1966, 80 Stat. 918. |
 
 The words “Federal agency” are substituted for “department, bureau, agency, board, commission, office, independent establishment or instrumentality of the executive branch of the Federal Government” to eliminate unnecessary words and for consistency in the revised chapter.
 
@@ -102,19 +136,22 @@ The words “Federal agency” are substituted for “department, bureau, agency
 <a id="section-304104"></a>
 ## § 304104. Compensation of members of Council
 
-The members of the Council specified in paragraphs (2), (3), and (4) of [section 304101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section304101/a&num=0&edition=prelim) shall serve without additional compensation. The other members of the Council shall receive $100 per diem when engaged in the performance of the duties of the Council. All members of the Council shall receive reimbursement for necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Council.
+The members of the Council specified in paragraphs (2), (3), and (4) of [section 304101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section304101/a&num=0&edition=prelim) shall serve without additional compensation. The Chairman of the Council shall be compensated as provided in subsection (e) of section 304101. The other members of the Council shall receive $100 per diem when engaged in the performance of the duties of the Council. All members of the Council shall receive reimbursement for necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Council.
 
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 304104 | [16 U.S.C. 470](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470&num=0&edition=prelim)l | Pub. L. 89–665, title II, § 204, Oct. 15, 1966, 80 Stat. 918; Pub. L. 91–243, § 1(f), May 9, 1970, 84 Stat. 204; Pub. L. 94–422, title II, § 201(6), Sept. 28, 1976, 90 Stat. 1321; Pub. L. 96–515, title III, § 301(h), Dec. 12, 1980, 94 Stat. 2999. |
+| 304104 | [16 U.S.C. 470](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470&num=0&edition=prelim)l. | Pub. L. 89–665, title II, § 204, Oct. 15, 1966, 80 Stat. 918; Pub. L. 91–243, § 1(f), May 9, 1970, 84 Stat. 204; Pub. L. 94–422, title II, § 201(6), Sept. 28, 1976, 90 Stat. 1321; Pub. L. 96–515, title III, § 301(h), Dec. 12, 1980, 94 Stat. 2999. |
+
+#### Amendments
+2016—Pub. L. 114–289 inserted “The Chairman of the Council shall be compensated as provided in subsection (e) of section 304101.” after “without additional compensation.”
 
 
 <a id="section-304105"></a>
 ## § 304105. Administration
-**(a) Executive Director.—** There shall be an Executive Director of the Council who shall be appointed by the Chairman with the concurrence of the Council in the competitive service at a rate within the General Schedule, in the competitive service at a rate that may exceed the rate prescribed for the highest rate established for grade 15 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), or in the Senior Executive Service under [section 3393 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3393&num=0&edition=prelim). The Executive Director shall report directly to the Council and perform such functions and duties as the Council may prescribe.
+**(a) Executive Director.—** There shall be an Executive Director of the Council who shall be appointed by the Chairman with the concurrence of the Council in the competitive service at a rate within the General Schedule, in the competitive service at a rate that may exceed the rate prescribed for the highest rate established for grade 15 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), or in the Senior Executive Service under [section 3393 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3393&num=0&edition=prelim). The Executive Director shall report directly to the Chairman and perform such functions and duties as the Chairman may prescribe.
 
 **(b) General Counsel and Appointment of Other Attorneys.—**
 
@@ -159,9 +196,9 @@ The members of the Council specified in paragraphs (2), (3), and (4) of [section
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 304105(a) through (g) | [16 U.S.C. 470m](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470m&num=0&edition=prelim) | Pub. L. 89–665, title II, § 205, Oct. 15, 1966, 80 Stat. 919; Pub. L. 91–243, § 1(g), May 9, 1970, 84 Stat. 204; Pub. L. 94–422, title II, § 201(7), Sept. 28, 1976, 90 Stat. 1321; Pub. L. 96–515, title III, § 301(i), Dec. 12, 1980, 94 Stat. 2999; Pub. L. 104–333, div. I, title V, § 509(c)(4), Nov. 12, 1996, 110 Stat. 4158; Pub. L. 106–176, title I, § 109, Mar. 10, 2000, 114 Stat. 26; Pub. L. 109–453, § 1(e), Dec. 22, 2006, 120 Stat. 3367. |
-| 304105(h) | [16 U.S.C. 470p](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470p&num=0&edition=prelim) | Pub. L. 89–665, title II, §§ 208, 209 as added Pub. L. 94–422, title II, § 201(9), Sept. 28, 1976, 90 Stat. 1322. |
-| 304105(i), (j) | [16 U.S.C. 470q](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470q&num=0&edition=prelim) |  |
+| 304105(a) through (g) | [16 U.S.C. 470m](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470m&num=0&edition=prelim). | Pub. L. 89–665, title II, § 205, Oct. 15, 1966, 80 Stat. 919; Pub. L. 91–243, § 1(g), May 9, 1970, 84 Stat. 204; Pub. L. 94–422, title II, § 201(7), Sept. 28, 1976, 90 Stat. 1321; Pub. L. 96–515, title III, § 301(i), Dec. 12, 1980, 94 Stat. 2999; Pub. L. 104–333, div. I, title V, § 509(c)(4), Nov. 12, 1996, 110 Stat. 4158; Pub. L. 106–176, title I, § 109, Mar. 10, 2000, 114 Stat. 26; Pub. L. 109–453, § 1(e), Dec. 22, 2006, 120 Stat. 3367. |
+| 304105(h) | [16 U.S.C. 470p](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470p&num=0&edition=prelim). | Pub. L. 89–665, title II, §§ 208, 209, as added Pub. L. 94–422, title II, § 201(9), Sept. 28, 1976, 90 Stat. 1322. |
+| 304105(i), (j) | [16 U.S.C. 470q](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470q&num=0&edition=prelim). |  |
 
 In subsection (a), the words “at a rate within the Executive Schedule” are added to retain the ability to hire an Executive Director within the General Schedule. The words “in the competitive service at a rate that may exceed the rate prescribed for the highest rate established for grade 15 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), or in the Senior Executive Service under [section 3393 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3393&num=0&edition=prelim)” are added for consistency with the intent of the source provision language as it existed in 1966, which included all Federal employees. The language is updated to reflect the existence of the Senior Executive Service and senior level employees above grade 15.
 
@@ -172,9 +209,12 @@ In subsection (d), the words “chapter 51 and subchapter III of chapter 53 of t
 In subsection (f)(1), the word “Secretary” is substituted for “Department of the Interior” because of [43 U.S.C. 1451](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1451&num=0&edition=prelim).
 
 #### References in Text
-Section 207 of the National Historic Preservation Act, referred to in subsec. (h), is section 207 of title II of Pub. L. 89–665, as added Pub. L. 94–422, title II, § 201(9), Sept. 28, 1976, 90 Stat. 1322, which related to transfer of personnel and property by Department of the Interior to Advisory Council on Historic Preservation and was classified to section 470o of Title 16, Conservation, prior to repeal by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272.
+Section 207 of the National Historic Preservation Act, referred to in subsec. (h), is section 207 of Pub. L. 89–665, as added Pub. L. 94–422, title II, § 201(9), Sept. 28, 1976, 90 Stat. 1322, which related to transfer of personnel and property by Department of the Interior to Advisory Council on Historic Preservation and was classified to section 470o of Title 16, Conservation, prior to repeal by Pub. L. 113–287, § 7, Dec. 19, 2014, 128 Stat. 3272.
 
 The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+2016—Subsec. (a). Pub. L. 114–289 substituted “report directly to the Chairman” for “report directly to the Council” and “duties as the Chairman may prescribe” for “duties as the Council may prescribe”.
 
 
 <a id="section-304106"></a>
@@ -188,7 +228,7 @@ The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 304106 | [16 U.S.C. 470n](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470n&num=0&edition=prelim) | Pub. L. 89–665, title II, § 206, as added Pub. L. 91–243, § 2, May 9, 1970, 84 Stat. 204; Pub. L. 93–54, § 1(b), July 1, 1973, 87 Stat. 139; Pub. L. 94–422, title II, § 201(8), Sept. 28, 1976, 90 Stat. 1322; Pub. L. 96–199, title I, § 114, Mar. 5, 1980, 94 Stat. 71; Pub. L. 106–208, § 5(b), May 26, 2000, 114 Stat. 319. |
+| 304106 | [16 U.S.C. 470n](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470n&num=0&edition=prelim). | Pub. L. 89–665, title II, § 206, as added Pub. L. 91–243, § 2, May 9, 1970, 84 Stat. 204; Pub. L. 93–54, § 1(b), July 1, 1973, 87 Stat. 139; Pub. L. 94–422, title II, § 201(8), Sept. 28, 1976, 90 Stat. 1322; Pub. L. 96–199, title I, § 114, Mar. 5, 1980, 94 Stat. 71; Pub. L. 106–208, § 5(b), May 26, 2000, 114 Stat. 319. |
 
 The text of [16 U.S.C. 470n(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470n/c&num=0&edition=prelim) is omitted as obsolete.
 
@@ -203,7 +243,7 @@ No officer or agency of the United States shall have any authority to require th
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 304107 | [16 U.S.C. 470r](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470r&num=0&edition=prelim) | Pub. L. 89–665, title II, § 210, as added Pub. L. 94–422, title II, § 201(9), Sept. 28, 1976, 90 Stat. 1322; Pub. L. 96–515, title III, § 301(k), Dec. 12, 1980, 94 Stat. 2999. |
+| 304107 | [16 U.S.C. 470r](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470r&num=0&edition=prelim). | Pub. L. 89–665, title II, § 210, as added Pub. L. 94–422, title II, § 201(9), Sept. 28, 1976, 90 Stat. 1322; Pub. L. 96–515, title III, § 301(k), Dec. 12, 1980, 94 Stat. 2999. |
 
 
 <a id="section-304108"></a>
@@ -219,8 +259,8 @@ No officer or agency of the United States shall have any authority to require th
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 304108(a), (b) | [16 U.S.C. 470s](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470s&num=0&edition=prelim) | Pub. L. 89–665, title II, § 211, as added Pub. L. 94–422, title II, § 201(9), Sept. 28, 1976, 90 Stat. 1322; Pub. L. 96–515, title III, § 301(l), Dec. 12, 1980, 94 Stat. 2999; Pub. L. 102–575, title XL, § 4018, Oct. 30, 1992, 106 Stat. 4763. |
-| 304108(c) | [16 U.S.C. 470v](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470v&num=0&edition=prelim) | Pub. L. 89–665, title II, § 214, as added Pub. L. 96–515, title III, § 302(a), Dec. 12, 1980, 94 Stat. 3000. |
+| 304108(a), (b) | [16 U.S.C. 470s](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470s&num=0&edition=prelim). | Pub. L. 89–665, title II, § 211, as added Pub. L. 94–422, title II, § 201(9), Sept. 28, 1976, 90 Stat. 1322; Pub. L. 96–515, title III, § 301(l), Dec. 12, 1980, 94 Stat. 2999; Pub. L. 102–575, title XL, § 4018, Oct. 30, 1992, 106 Stat. 4763. |
+| 304108(c) | [16 U.S.C. 470v](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470v&num=0&edition=prelim). | Pub. L. 89–665, title II, § 214, as added Pub. L. 96–515, title III, § 302(a), Dec. 12, 1980, 94 Stat. 3000. |
 
 
 <a id="section-304109"></a>
@@ -234,8 +274,8 @@ No officer or agency of the United States shall have any authority to require th
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 304109(a) | [16 U.S.C. 470t(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470t/a&num=0&edition=prelim) (1st sentence) | Pub. L. 89–665, title II, § 212(a) (1st sentence), (b), as added Pub. L. 94–422, title II, § 201(9), Sept. 28, 1976, 90 Stat. 1323; Pub. L. 96–205, title VI, § 608(a)(3), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title III, § 302(b), Dec. 12, 1980, 94 Stat. 3000; Pub. L. 103–437, § 6(d)(29), Nov. 2, 1994, 108 Stat. 4584. |
-| 304109(b) | [16 U.S.C. 470t(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470t/b&num=0&edition=prelim) |  |
+| 304109(a) | [16 U.S.C. 470t(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470t/a&num=0&edition=prelim) (1st sentence). | Pub. L. 89–665, title II, § 212(a) (1st sentence), (b), as added Pub. L. 94–422, title II, § 201(9), Sept. 28, 1976, 90 Stat. 1323; Pub. L. 96–205, title VI, § 608(a)(3), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title III, § 302(b), Dec. 12, 1980, 94 Stat. 3000; Pub. L. 103–437, § 6(d)(29), Nov. 2, 1994, 108 Stat. 4584. |
+| 304109(b) | [16 U.S.C. 470t(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470t/b&num=0&edition=prelim). |  |
 
 
 <a id="section-304110"></a>
@@ -248,7 +288,7 @@ To assist the Council in discharging its responsibilities under this division, t
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 304110 | [16 U.S.C. 470u](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470u&num=0&edition=prelim) | Pub. L. 89–665, title II, § 213, as added Pub. L. 96–515, title III, § 302(a), Dec. 12, 1980, 94 Stat. 3000. |
+| 304110 | [16 U.S.C. 470u](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470u&num=0&edition=prelim). | Pub. L. 89–665, title II, § 213, as added Pub. L. 96–515, title III, § 302(a), Dec. 12, 1980, 94 Stat. 3000. |
 
 
 <a id="section-304111"></a>
@@ -261,7 +301,7 @@ Subject to applicable conflict of interest laws, the Council may receive reimbur
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 304111 | [16 U.S.C. 470v–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470v–1&num=0&edition=prelim) | Pub. L. 89–665, title II, § 215, as added Pub. L. 104–333, div. I, title V, § 509(c)(3), Nov. 12, 1996, 110 Stat. 4157. |
+| 304111 | [16 U.S.C. 470v–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470v–1&num=0&edition=prelim). | Pub. L. 89–665, title II, § 215, as added Pub. L. 104–333, div. I, title V, § 509(c)(3), Nov. 12, 1996, 110 Stat. 4157. |
 
 
 <a id="section-304112"></a>
@@ -281,4 +321,4 @@ Subject to applicable conflict of interest laws, the Council may receive reimbur
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 304112 | [16 U.S.C. 470v–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470v–2&num=0&edition=prelim) | Pub. L. 89–665, title II, § 216, as added Pub. L. 109–453, § 1(g), Dec. 22, 2006, 120 Stat. 3368. |
+| 304112 | [16 U.S.C. 470v–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470v–2&num=0&edition=prelim). | Pub. L. 89–665, title II, § 216, as added Pub. L. 109–453, § 1(g), Dec. 22, 2006, 120 Stat. 3368. |

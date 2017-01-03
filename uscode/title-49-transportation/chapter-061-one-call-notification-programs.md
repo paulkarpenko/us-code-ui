@@ -191,14 +191,19 @@ The date of enactment of this chapter, referred to in subsec. (b), is the date o
 
 
 <a id="section-6107"></a>
-## § 6107. Authorization of appropriations
-**(a) For Grants to States.—** There are authorized to be appropriated to the Secretary to provide grants to States under section 6106 $1,000,000 for each of fiscal years 2012 through 2015. Such funds shall remain available until expended.
+## § 6107. Funding
 
-**(b) For Administration.—** There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out sections 6103, 6104, and 6105 for fiscal years 2012 through 2015.
+Of the amounts made available under section 60125(a)(1), the Secretary shall expend $1,058,000 for each of fiscal years 2016 through 2019 to carry out section 6106.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Pub. L. 114–183 amended section generally. Prior to amendment, text read as follows:
+
+“(a) For Grants to States.—There are authorized to be appropriated to the Secretary to provide grants to States under section 6106 $1,000,000 for each of fiscal years 2012 through 2015. Such funds shall remain available until expended.
+
+“(b) For Administration.—There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out sections 6103, 6104, and 6105 for fiscal years 2012 through 2015.”
+
 2012—Subsecs. (a), (b). Pub. L. 112–90, § 32(c)(1), (2), substituted “2012 through 2015.” for “2007 through 2010.”
 
 Subsec. (c). Pub. L. 112–90, § 32(c)(3), struck out subsec. (c). Text read as follows: “Any sums appropriated under this section shall be derived from general revenues and may not be derived from amounts collected under [section 60301 of this title](./chapter-603-user-fees.md#section-60301).”

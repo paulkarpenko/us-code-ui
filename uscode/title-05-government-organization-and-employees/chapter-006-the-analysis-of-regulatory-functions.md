@@ -1339,6 +1339,231 @@ Sec. 5. General Provisions. (a) For purposes of this order, “agency” means a
 
 Barack Obama.
 
+#### Ex. Ord. No. 13707. Using Behavioral Science Insights To Better Serve the American People
+Ex. Ord. No. 13707, Sept. 15, 2015, 80 F.R. 56365, provided:
+
+A growing body of evidence demonstrates that behavioral science insights—research findings from fields such as behavioral economics and psychology about how people make decisions and act on them—can be used to design government policies to better serve the American people.
+
+Where Federal policies have been designed to reflect behavioral science insights, they have substantially improved outcomes for the individuals, families, communities, and businesses those policies serve. For example, automatic enrollment and automatic escalation in retirement savings plans have made it easier to save for the future, and have helped Americans accumulate billions of dollars in additional retirement savings. Similarly, streamlining the application process for Federal financial aid has made college more financially accessible for millions of students.
+
+To more fully realize the benefits of behavioral insights and deliver better results at a lower cost for the American people, the Federal Government should design its policies and programs to reflect our best understanding of how people engage with, participate in, use, and respond to those policies and programs. By improving the effectiveness and efficiency of Government, behavioral science insights can support a range of national priorities, including helping workers to find better jobs; enabling Americans to lead longer, healthier lives; improving access to educational opportunities and support for success in school; and accelerating the transition to a low-carbon economy.
+
+NOW, THEREFORE, by the authority vested in me as President by the Constitution and the laws of the United States, I hereby direct the following:
+
+Section 1. Behavioral Science Insights Policy Directive.
+
+(a) Executive departments and agencies (agencies) are encouraged to:
+
+(i) identify policies, programs, and operations where applying behavioral science insights may yield substantial improvements in public welfare, program outcomes, and program cost effectiveness;
+
+(ii) develop strategies for applying behavioral science insights to programs and, where possible, rigorously test and evaluate the impact of these insights;
+
+(iii) recruit behavioral science experts to join the Federal Government as necessary to achieve the goals of this directive; and
+
+(iv) strengthen agency relationships with the research community to better use empirical findings from the behavioral sciences.
+
+(b) In implementing the policy directives in section (a), agencies shall:
+
+(i) identify opportunities to help qualifying individuals, families, communities, and businesses access public programs and benefits by, as appropriate, streamlining processes that may otherwise limit or delay participation—for example, removing administrative hurdles, shortening wait times, and simplifying forms;
+
+(ii) improve how information is presented to consumers, borrowers, program beneficiaries, and other individuals, whether as directly conveyed by the agency, or in setting standards for the presentation of information, by considering how the content, format, timing, and medium by which information is conveyed affects comprehension and action by individuals, as appropriate;
+
+(iii) identify programs that offer choices and carefully consider how the presentation and structure of those choices, including the order, number, and arrangement of options, can most effectively promote public welfare, as appropriate, giving particular consideration to the selection and setting of default options; and
+
+(iv) review elements of their policies and programs that are designed to encourage or make it easier for Americans to take specific actions, such as saving for retirement or completing education programs. In doing so, agencies shall consider how the timing, frequency, presentation, and labeling of benefits, taxes, subsidies, and other incentives can more effectively and efficiently promote those actions, as appropriate. Particular attention should be paid to opportunities to use nonfinancial incentives.
+
+(c) For policies with a regulatory component, agencies are encouraged to combine this behavioral science insights policy directive with their ongoing review of existing significant regulations to identify and reduce regulatory burdens, as appropriate and consistent with Executive Order 13563 of January 18, 2011 (Improving Regulation and Regulatory Review), and Executive Order 13610 of May 10, 2012 (Identifying and Reducing Regulatory Burdens).
+
+Sec. 2. Implementation of the Behavioral Science Insights Policy Directive. (a) The Social and Behavioral Sciences Team (SBST), under the National Science and Technology Council (NSTC) and chaired by the Assistant to the President for Science and Technology, shall provide agencies with advice and policy guidance to help them execute the policy objectives outlined in section 1 of this order, as appropriate.
+
+(b) The NSTC shall release a yearly report summarizing agency implementation of section 1 of this order each year until 2019. Member agencies of the SBST are expected to contribute to this report.
+
+(c) To help execute the policy directive set forth in section 1 of this order, the Chair of the SBST shall, within 45 days of the date of this order and thereafter as necessary, issue guidance to assist agencies in implementing this order.
+
+Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to a department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) Independent agencies are strongly encouraged to comply with the requirements of this order.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.
+
+#### Ex. Ord. No. 13725. Steps To Increase Competition and Better Inform Consumers and Workers To Support Continued Growth of the American Economy
+Ex. Ord. No. 13725, Apr. 15, 2016, 81 F.R. 23417, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to protect American consumers and workers and encourage competition in the U.S. economy, it is hereby ordered as follows:
+
+Section 1. Policy. Maintaining, encouraging, and supporting a fair, efficient, and competitive marketplace is a cornerstone of the American economy. Consumers and workers need both competitive markets and information to make informed choices.
+
+Certain business practices such as unlawful collusion, illegal bid rigging, price fixing, and wage setting, as well as anticompetitive exclusionary conduct and mergers stifle competition and erode the foundation of America’s economic vitality. The immediate results of such conduct—higher prices and poorer service for customers, less innovation, fewer new businesses being launched, and reduced opportunities for workers—can impact Americans in every walk of life.
+
+Competitive markets also help advance national priorities, such as the delivery of affordable health care, energy independence, and improved access to fast and affordable broadband. Competitive markets also promote economic growth, which creates opportunity for American workers and encourages entrepreneurs to start innovative companies that create jobs.
+
+The Department of Justice (DOJ) and the Federal Trade Commission (FTC) have a proven record of detecting and stopping anticompetitive conduct and challenging mergers and acquisitions that threaten to consolidate markets and reduce competition.
+
+Promoting competitive markets and ensuring that consumers and workers have access to the information needed to make informed choices must be a shared priority across the Federal Government. Executive departments and agencies can contribute to these goals through, among other things, pro-competitive rulemaking and regulations, and by eliminating regulations that create barriers to or limit competition. Such Government-wide action is essential to ensuring that consumers, workers, startups, small businesses, and farms reap the full benefits of competitive markets.
+
+Sec. 2. Agency Responsibilities. (a) Executive departments and agencies with authorities that could be used to enhance competition (agencies) shall, where consistent with other laws, use those authorities to promote competition, arm consumers and workers with the information they need to make informed choices, and eliminate regulations that restrict competition without corresponding benefits to the American public.
+
+(b) Agencies shall identify specific actions that they can take in their areas of responsibility to build upon efforts to detect abuses such as price fixing, anticompetitive behavior in labor and other input markets, exclusionary conduct, and blocking access to critical resources that are needed for competitive entry. Behaviors that appear to violate our antitrust laws should be referred to antitrust enforcers at DOJ and the FTC. Such a referral shall not preclude further action by the referring agency against that behavior under that agency’s relevant statutory authority.
+
+(c) Agencies shall also identify specific actions that they can take in their areas of responsibility to address undue burdens on competition. As permitted by law, agencies shall consult with other interested parties to identify ways that the agency can promote competition through pro-competitive rulemaking and regulations, by providing consumers and workers with information they need to make informed choices, and by eliminating regulations that restrict competition without corresponding benefits to the American public.
+
+(d) Not later than 30 days from the date of this order, agencies shall submit to the Director of the National Economic Council an initial list of (1) actions each agency can potentially take to promote more competitive markets; (2) any specific practices, such as blocking access to critical resources, that potentially restrict meaningful consumer or worker choice or unduly stifle new market entrants, along with any actions the agency can potentially take to address those practices; and (3) any relevant authorities and tools potentially available to enhance competition or make information more widely available for consumers and workers.
+
+(e) Not later than 60 days from the date of this order, agencies shall report to the President, through the Director of the National Economic Council, recommendations on agency-specific actions that eliminate barriers to competition, promote greater competition, and improve consumer access to information needed to make informed purchasing decisions. Such recommendations shall include a list of priority actions, including rulemakings, as well as timelines for completing those actions.
+
+(f) Subsequently, agencies shall report semi-annually to the President, through the Director of the National Economic Council, on additional actions that they plan to undertake to promote greater competition.
+
+(g) Sections 2(d), 2(e), and 2(f) of this order do not require reporting of information related to law enforcement policy and activities.
+
+Sec. 3. General Provisions. (a) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(b) Independent agencies are strongly encouraged to comply with the requirements of this order.
+
+(c) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to a department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.
+
+#### Ex. Ord. No. 13748. Establishing a Community Solutions Council
+Ex. Ord. No. 13748, Nov. 16, 2016, 81 F.R. 83619, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. Place is a strong determinant of opportunity and well-being. Research shows that the neighborhood in which a child grows up impacts his or her odds of going to college, enjoying good health, and obtaining a lifetime of economic opportunities. Even after 73 consecutive months of total job growth since 2009, communities of persistent poverty remain and for far too many, the odds are stacked against opportunity and achieving the American dream. In addition, between now and 2050, growing our economy, expected population growth, climate change, and demographic shifts will require major new investments in physical, social, and technological infrastructure.
+
+Specific challenges in communities—including crime, access to care, opportunities to pursue quality education, lack of housing options, unemployment, and deteriorating infrastructure—can be met by leveraging Federal assistance and resources. While the Federal Government provides rural, suburban, urban, and tribal communities with significant investments in aid annually, coordinating these investments, as appropriate, across agencies based on locally led visions can more effectively reach communities of greatest need to maximize impact. In recent years, the Federal Government has deepened its engagement with communities, recognizing the critical role of these partnerships in enabling Americans to live healthier and more prosperous lives. Since 2015, the Community Solutions Task Force, comprising executive departments, offices, and agencies (agencies) across the Federal Government, has served as the primary interagency coordinator of agency work to engage with communities to deliver improved outcomes. This order builds on recent work to facilitate inter-agency and community-level collaboration to meet the unique needs of communities in a way that reflects these communities’ local assets, economies, geography, size, history, strengths, talent networks, and visions for the future.
+
+Sec. 2. Principles. Our effort to modernize the Federal Government’s work with communities is rooted in the following principles:
+
+(a) A community-driven, locally led vision and long-term plan for clear outcomes should guide individual projects.
+
+(b) The Federal Government should coordinate its efforts at the Federal, regional, State, local, tribal, and community level, and with cross-sector partners, to offer a more seamless process for communities to access needed support and ensure equitable investments.
+
+(c) The Federal Government should help communities identify, develop, and share local solutions, rely on data to determine what does and does not work, and harness technology and modern collaboration and engagement methods to help share these solutions and help communities meet their local goals.
+
+Sec. 3. Community Solutions Council.
+
+(a) Establishment. There is hereby established a Council for Community Solutions (Council), led by two Co-Chairs. One Co-Chair will be an Assistant to the President or the Director of the Office of Management and Budget, as designated by the President. The second Co-Chair will be rotated every 4 years and designated by the President from among the heads of the Departments of Justice, Agriculture, Commerce, Labor, Health and Human Services, Housing and Urban Development, Transportation, and Education, and the Environmental Protection Agency (Agency Co-Chair).
+
+(b) Membership. The Council shall consist of the following members:
+
+(i) the Secretary of State;
+
+(ii) the Secretary of the Treasury;
+
+(iii) the Secretary of Defense;
+
+(iv) the Attorney General;
+
+(v) the Secretary of the Interior;
+
+(vi) the Secretary of Agriculture;
+
+(vii) the Secretary of Commerce;
+
+(viii) the Secretary of Labor;
+
+(ix) the Secretary of Health and Human Services;
+
+(x) the Secretary of Housing and Urban Development;
+
+(xi) the Secretary of Transportation;
+
+(xii) the Secretary of Energy;
+
+(xiii) the Secretary of Education;
+
+(xiv) the Secretary of Veterans Affairs;
+
+(xv) the Secretary of Homeland Security;
+
+(xvi) the Administrator of the Environmental Protection Agency;
+
+(xvii) the Administrator of General Services;
+
+(xviii) the Administrator of the Small Business Administration;
+
+(xix) the Chief Executive Officer of the Corporation for National and Community Service;
+
+(xx) the Chairperson of the National Endowment for the Arts;
+
+(xxi) the Director of the Institute for Museum and Library Services;
+
+(xxii) the Federal Co-Chair of the Delta Regional Authority;
+
+(xxiii) the Federal Co-Chair of the Appalachian Regional Commission;
+
+(xxiv) the Director of the Office of Personnel Management;
+
+(xxv) the Director of the Office of Management and Budget;
+
+(xxvi) the Chair of the Council of Economic Advisers;
+
+(xxvii) the Assistant to the President for Intergovernmental Affairs and Public Engagement;
+
+(xxviii) the Assistant to the President and Cabinet Secretary;
+
+(xxix) the Assistant to the President for Economic Policy and Director of the National Economic Council;
+
+(xxx) the Chair of the Council on Environmental Quality;
+
+(xxxi) the Director of the Office of Science and Technology Policy;
+
+(xxxii) the Assistant to the President and Chief Technology Officer;
+
+(xxxiii) the Administrator of the United States Digital Service; and
+
+(xxxiv) other officials, as the Co-Chairs may designate or invite to participate.
+
+(c) Administration.
+
+(i) The President will designate one of the Co-Chairs to appoint or designate, as appropriate, an Executive Director, who shall coordinate the Council’s activities. The department, agency, or component within the Executive Office of the President in which the Executive Director is appointed or designated, as appropriate, (funding entity) shall provide funding and administrative support for the Council to the extent permitted by law and within existing appropriations as may be necessary for the performance of its functions.
+
+(ii) To the extent permitted by law, including the Economy Act, and within existing appropriations, participating agencies may detail staff to the funding entity to support the Council’s coordination and implementation efforts.
+
+(iii) The Co-Chairs shall convene regular meetings of the Council, determine its agenda, and direct its work. At the direction of the Co-Chairs, the Council may establish subgroups consisting exclusively of Council members or their designees, as appropriate.
+
+(iv) A member of the Council may designate a senior-level official who is part of the member’s department, agency, or office to perform the Council functions of the member.
+
+Sec. 4. Mission and Priorities of the Council. (a) The Council shall foster collaboration across agencies, policy councils, and offices to coordinate actions, identify working solutions to share broadly, and develop and implement policy recommendations that put the community-driven, locally led vision at the center of policymaking. The Council shall:
+
+(i) Work across agencies to coordinate investments in initiatives and practices that align the work of the Federal Government to have the greatest impact on the lives of individuals and communities.
+
+(ii) Use evidence-based practices in policymaking, including identifying existing solutions, scaling up practices that are working, and designing solutions with regular input of the individuals and communities to be served.
+
+(iii) Invest in recruiting, training, and retaining talent to further the effective delivery of services to individuals and communities and empower them with best-practice community engagement options, open government transparency methods, equitable policy approaches, technical assistance and capacity building tools, and data-driven practice.
+
+(b) Consistent with the principles set forth in this order and in accordance with applicable law, including the Federal Advisory Committee Act, the Council should conduct outreach to representatives of nonprofit organizations, civil rights organizations, businesses, labor and professional organizations, start-up and entrepreneurial communities, State, local, and tribal government agencies, school districts, youth, elected officials, seniors, faith and other community-based organizations, philanthropies, technologists, other institutions of local importance, and other interested or affected persons with relevant expertise in the expansion and improvement of efforts to build local capacity, ensure equity, and address economic, social, environmental, and other issues in communities or regions.
+
+Sec. 5. Executive Orders 13560 and 13602, and Building Upon Other Efforts. This order supersedes Executive Order 13560 of December 14, 2010 (White House Council for Community Solutions), and Executive Order 13602 of March 15, 2012 (Establishing a White House Council on Strong Cities, Strong Communities), which are hereby revoked.
+
+This Council builds on existing efforts involving Federal working groups, task forces, memoranda of agreement, and initiatives, including the Community Solutions Task Force, the Federal Working Groups dedicated to supporting the needs and priorities of local leadership in Detroit, Baltimore, and Pine Ridge; the Interagency Working Group on Environmental Justice; the Partnership for Sustainable Communities; Local Foods, Local Places; Performance Partnership Pilots for Disconnected Youth; Empowerment Zones; StrikeForce; Partnerships for Opportunity and Workforce and Economic Revitalization; the Neighborhood Revitalization Initiative; Climate Action Champions; Better Communities Alliance; Investing in Manufacturing Communities Partnership; Promise Zones; and the 2016 Memorandum of Agreement on Interagency Technical Assistance. The Council shall also coordinate with existing Chief Officer Councils across the government with oversight responsibility for human capital, performance improvement, and financial assistance.
+
+Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof, or the status of that department or agency within the Federal Government; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.
+
 #### Regulatory Reform—Waiver of Penalties and Reduction of Reports
 Memorandum of President of the United States, Apr. 21, 1995, 60 F.R. 20621, provided:
 
@@ -1637,6 +1862,69 @@ Sec. 2. General Provisions. (a) Nothing in this memorandum shall be construed to
 
 Barack Obama.
 
+#### Expanding Federal Support for Predevelopment Activities for Nonfederal Domestic Infrastructure Assets
+Memorandum of President of the United States, Jan. 16, 2015, 80 F.R. 3455, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+The United States is significantly underinvesting in both the maintenance of existing public infrastructure and the development of new infrastructure projects. While there is no replacement for adequate public funding, innovative financing options and increased collaboration between the private and public sectors can help to increase overall investment in infrastructure.
+
+However, a major challenge for innovative infrastructure projects, whether using emerging technologies or alternative financing, is the lack of funding for the phases of infrastructure project development that precede actual construction. Infrastructure projects require upfront costs, commonly known as “predevelopment” costs, for activities such as project and system planning, economic impact analyses, preliminary engineering assessments, and environmental review. Although only accounting for a small percentage of total costs, predevelopment activities have considerable influence on which projects will move forward, where and how they will be built, who will fund them, and who will benefit from them. Yet, in light of factors like fiscal constraints, the extent of overall needs, and risk aversion, State, local, and tribal governments tend to focus scarce resources on constructing and developing conventional projects and addressing their most critical infrastructure needs, thereby underinvesting in predevelopment.
+
+Greater attention to the predevelopment phase could yield a range of benefits—for example, providing the opportunity to develop longer-term, more innovative, and more complex infrastructure projects and facilitating assessment of a range of financing approaches, including public-private partnerships. Additional investment in predevelopment costs also may enable State, local, and tribal governments to utilize innovations in infrastructure design and emerging technologies, reduce long-term costs to infrastructure project users, and provide other benefits, such as improved environmental performance and enhanced resilience to climate change.
+
+The Federal Government can meaningfully expand opportunities for public-private collaboration, encourage more transformational projects, and improve project outcomes by encouraging Federal investment in robust predevelopment activities and providing other forms of support, such as technical assistance, to communities during the predevelopment phase.
+
+Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
+
+Section 1. Policy. It shall be the policy of the Federal Government for all executive departments and agencies (agencies) that provide grants, technical assistance, and other forms of support for nonfederal domestic infrastructure assets, or regulate the development of these infrastructure assets, to actively support nonfederal predevelopment activities with all available tools, including grants, technical assistance, and regulatory changes, to the extent permitted by law and consistent with agency mission. Agencies shall seek to make predevelopment funding and support available, as permitted by law and consistent with agency mission and where it is in the public interest and does not supplant existing public investment, to encourage opportunities for private sector investment. Agencies shall pay particular attention to predevelopment activities in sectors where State, local, and tribal governments have traditionally played a significant role, such as surface transportation, drinking water, sewage and storm water management systems, landside ports, and social infrastructure like schools and community facilities.
+
+Sec. 2. Definitions. For the purposes of this memorandum:
+
+(a) “Predevelopment activities” means activities that provide decisionmakers with the opportunity to identify and assess potential infrastructure projects and modifications to existing infrastructure projects, and to advance those projects from the conceptual phase to actual construction. Predevelopment activities include:
+
+(i) project planning, feasibility studies, economic assessments and cost-benefit analyses, and public benefit studies and value-for-money analyses;
+
+(ii) design and engineering;
+
+(iii) financial planning (including the identification of funding and financing options);
+
+(iv) permitting, environmental review, and regulatory processes;
+
+(v) assessment of the impacts of potential projects on the area, including the effect on communities, the environment, the workforce, and wages and benefits, as well as assessment of infrastructure vulnerability and resilience to climate change and other risks; and
+
+(vi) public outreach and community engagement.
+
+(b) “Predevelopment funding” means funding for predevelopment activities and associated costs, such as flexible staff, external advisors, convening potential investment partners, and associated legal costs directly related to predevelopment activities.
+
+Sec. 3. Federal Action to Support Predevelopment Activities. Agencies shall take the following actions to support predevelopment activities:
+
+(a) the Department of Commerce, through the Economic Development Administration’s Public Works grants and Economic Adjustment Assistance grants, and consistent with the programs’ mission and goals, shall take steps to increase assistance for the predevelopment phase of infrastructure projects;
+
+(b) the Department of Transportation shall develop guidance to clarify where predevelopment activities are eligible for funding through its programs. To further encourage early collaboration in the project development process, the Department of Transportation shall also clarify options for providing early feedback into environmental review processes;
+
+(c) the Department of Homeland Security shall clarify for grantees where predevelopment funding is available through the Hazard Mitigation Grant Program;
+
+(d) the Department of Housing and Urban Development shall clarify for grantees how the Community Development Block Grant program and other Federal funding sources can be used for predevelopment activities;
+
+(e) the Department of Agriculture shall develop guidance to clarify where predevelopment activities are eligible for funding through its programs, including grants for water and waste projects pursuant to 7 CFR 1780.1 et seq., the Special Evaluation Assistance for Rural Communities and Households Program, the Community Facilities Grant program, and the Watershed and Flood Prevention Operations Program. To encourage innovative predevelopment work, the Department of Agriculture shall also train Water and Environmental Programs field staff on predevelopment best practices and prioritize predevelopment in the Department of Agriculture’s project development process; and
+
+(f) the other members of the Working Group established in section 3 of my memorandum of July 17, 2014 (Expanding Public-Private Collaboration on Infrastructure Development and Financing), shall take such steps as appropriate to clarify program eligibilities related to predevelopment activities for nonfederal domestic infrastructure assets.
+
+Sec. 4. Implementation, Public Education, and Best Practices. The Departments of Agriculture, Commerce, Labor, Housing and Urban Development, Transportation, Energy, and Homeland Security, and the Environmental Protection Agency shall develop plans for implementing the requirements of this memorandum, providing technical assistance to nonfederal actors engaged in predevelopment activities, and educating grantees and the public on the benefits of predevelopment and the Federal resources available for these activities. These agencies shall also work together to develop a guide for nonfederal actors undertaking nonfederal predevelopment activities that includes best practices on how to evaluate and compare traditional and alternative financing strategies. No later than 60 days after the date of this memorandum, these agencies shall provide these plans and the best practice guide to the Director of the National Economic Council. Subsequently, these agencies shall provide regular updates to the Director of the National Economic Council on their progress in increasing support for predevelopment activities.
+
+Sec. 5. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(c) The Secretary of Transportation is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.
+
 
 <a id="section-602"></a>
 ## § 602. Regulatory agenda
@@ -1653,6 +1941,11 @@ Barack Obama.
 **(c)** Each agency shall endeavor to provide notice of each regulatory flexibility agenda to small entities or their representatives through direct notification or publication of the agenda in publications likely to be obtained by such small entities and shall invite comments upon each subject area on the agenda.
 
 **(d)** Nothing in this section precludes an agency from considering or acting on any matter not included in a regulatory flexibility agenda, or requires an agency to consider or act on any matter listed in such agenda.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under [section 601 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-601).
 
 
 <a id="section-603"></a>
@@ -1712,6 +2005,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29, 1996, but inapplicable to interpretative rules for which a notice of proposed rulemaking was published prior to Mar. 29, 1996, see section 245 of Pub. L. 104–121, set out as a note under [section 601 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-601).
 
+#### Effective Date
+Section effective Jan. 1, 1981, except that the requirements of this section applicable only to rules for which a notice of proposed rulemaking was issued on or after Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under [section 601 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-601).
+
 
 <a id="section-604"></a>
 ## § 604. Final regulatory flexibility analysis
@@ -1768,6 +2064,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29, 1996, but inapplicable to interpretative rules for which a notice of proposed rulemaking was published prior to Mar. 29, 1996, see section 245 of Pub. L. 104–121, set out as a note under [section 601 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-601).
 
+#### Effective Date
+Section effective Jan. 1, 1981, except that the requirements of this section applicable only to rules for which a notice of proposed rulemaking was issued on or after Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under [section 601 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-601).
+
 
 <a id="section-605"></a>
 ## § 605. Avoidance of duplicative or unnecessary analyses
@@ -1785,11 +2084,19 @@ Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29,
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29, 1996, but inapplicable to interpretative rules for which a notice of proposed rulemaking was published prior to Mar. 29, 1996, see section 245 of Pub. L. 104–121, set out as a note under [section 601 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-601).
 
+#### Effective Date
+Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under [section 601 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-601).
+
 
 <a id="section-606"></a>
 ## § 606. Effect on other law
 
 The requirements of sections 603 and 604 of this title do not alter in any manner standards otherwise applicable by law to agency action.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under [section 601 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-601).
 
 
 <a id="section-607"></a>
@@ -1797,12 +2104,22 @@ The requirements of sections 603 and 604 of this title do not alter in any manne
 
 In complying with the provisions of sections 603 and 604 of this title, an agency may provide either a quantifiable or numerical description of the effects of a proposed rule or alternatives to the proposed rule, or more general descriptive statements if quantification is not practicable or reliable.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under [section 601 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-601).
+
 
 <a id="section-608"></a>
 ## § 608. Procedure for waiver or delay of completion
 **(a)** An agency head may waive or delay the completion of some or all of the requirements of [section 603 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-603) by publishing in the Federal Register, not later than the date of publication of the final rule, a written finding, with reasons therefor, that the final rule is being promulgated in response to an emergency that makes compliance or timely compliance with the provisions of [section 603 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-603) impracticable.
 
 **(b)** Except as provided in section 605(b), an agency head may not waive the requirements of [section 604 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-604). An agency head may delay the completion of the requirements of [section 604 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-604) for a period of not more than one hundred and eighty days after the date of publication in the Federal Register of a final rule by publishing in the Federal Register, not later than such date of publication, a written finding, with reasons therefor, that the final rule is being promulgated in response to an emergency that makes timely compliance with the provisions of [section 604 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-604) impracticable. If the agency has not prepared a final regulatory analysis pursuant to [section 604 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-604) within one hundred and eighty days from the date of publication of the final rule, such rule shall lapse and have no effect. Such rule shall not be repromulgated until a final regulatory flexibility analysis has been completed by the agency.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under [section 601 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-601).
 
 
 <a id="section-609"></a>
@@ -1868,6 +2185,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29, 1996, but inapplicable to interpretative rules for which a notice of proposed rulemaking was published prior to Mar. 29, 1996, see section 245 of Pub. L. 104–121, set out as a note under [section 601 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-601).
 
+#### Effective Date
+Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under [section 601 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-601).
+
 #### Small Business Advocacy Chairpersons
 Pub. L. 104–121, title II, § 244(b), Mar. 29, 1996, 110 Stat. 868, provided that: “Not later than 30 days after the date of enactment of this Act [Mar. 29, 1996], the head of each covered agency that has conducted a final regulatory flexibility analysis shall designate a small business advocacy chairperson using existing personnel to the extent possible, to be responsible for implementing this section and to act as permanent chair of the agency’s review panels established pursuant to this section.”
 
@@ -1894,6 +2214,9 @@ Pub. L. 104–121, title II, § 244(b), Mar. 29, 1996, 110 Stat. 868, provided t
 
 #### References in Text
 The effective date of this chapter, referred to in subsec. (a), is Jan. 1, 1981. See Effective Date note set out under [section 601 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-601).
+
+#### Effective Date
+Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under [section 601 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-601).
 
 
 <a id="section-611"></a>
@@ -1942,6 +2265,9 @@ The effective date of this chapter, referred to in subsec. (a), is Jan. 1, 1981.
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29, 1996, but inapplicable to interpretative rules for which a notice of proposed rulemaking was published prior to Mar. 29, 1996, see section 245 of Pub. L. 104–121, set out as a note under [section 601 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-601).
 
+#### Effective Date
+Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under [section 601 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-601).
+
 
 <a id="section-612"></a>
 ## § 612. Reports and intervention rights
@@ -1963,6 +2289,9 @@ Committee on Small Business of Senate changed to Committee on Small Business and
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29, 1996, but inapplicable to interpretative rules for which a notice of proposed rulemaking was published prior to Mar. 29, 1996, see section 245 of Pub. L. 104–121, set out as a note under [section 601 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-601).
+
+#### Effective Date
+Section effective Jan. 1, 1981, see section 4 of Pub. L. 96–354, set out as a note under [section 601 of this title](./chapter-006-the-analysis-of-regulatory-functions.md#section-601).
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of reporting provisions in subsec. (a) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 191 of House Document No. 103–7.

@@ -511,7 +511,7 @@ Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see sectio
 Subsec. (b). Pub. L. 91–579, § 16(2), substituted “carrying out” for “effectuating”.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 #### Effective Date of 1985 Amendment
 Amendment by Pub. L. 99–198 effective one year after Dec. 23, 1985, see section 1759 of Pub. L. 99–198, set out as a note under [section 2131 of this title](./chapter-054-transportation-sale-and-handling-of-certain-animals.md#section-2131).

@@ -17,7 +17,7 @@ The Secretary concerned shall detail such members of the regular and reserve com
 Provisions similar to those in this section were contained in [section 715 of this title](./chapter-041-special-appointments-assignments-details-and-duties.md#section-715), prior to repeal by Pub. L. 103–337, § 1662(g)(2).
 
 #### Effective Date
-Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-12502"></a>
@@ -30,6 +30,9 @@ Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in sections 3542 and 8542 of this title, prior to repeal by Pub. L. 103–337, § 1662(g)(2).
+
+#### Effective Date
+Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 
 <a id="section-12503"></a>

@@ -10,7 +10,7 @@ source: >-
 ## § 6801. Protection of nonpublic personal information
 **(a) Privacy obligation policy** It is the policy of the Congress that each financial institution has an affirmative and continuing obligation to respect the privacy of its customers and to protect the security and confidentiality of those customers’ nonpublic personal information.
 
-**(b) Financial institutions safeguards** In furtherance of the policy in subsection (a) of this section, each agency or authority described in [section 6805(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6805/a&num=0&edition=prelim), other than the Bureau of Consumer Financial Protection, shall establish appropriate standards for the financial institutions subject to their jurisdiction relating to administrative, technical, and physical safeguards—
+**(b) Financial institutions safeguards** In furtherance of the policy in subsection (a), each agency or authority described in [section 6805(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6805/a&num=0&edition=prelim), other than the Bureau of Consumer Financial Protection, shall establish appropriate standards for the financial institutions subject to their jurisdiction relating to administrative, technical, and physical safeguards—
 
 (1) to insure the security and confidentiality of customer records and information;
 
@@ -50,7 +50,7 @@ Pub. L. 106–102, title V, § 510, Nov. 12, 1999, 113 Stat. 1445, provided that
 
 **(d) Limitations on the sharing of account number information for marketing purposes** A financial institution shall not disclose, other than to a consumer reporting agency, an account number or similar form of access number or access code for a credit card account, deposit account, or transaction account of a consumer to any nonaffiliated third party for use in telemarketing, direct mail marketing, or other marketing through electronic mail to the consumer.
 
-**(e) General exceptions** Subsections (a) and (b) of this section shall not prohibit the disclosure of nonpublic personal information—
+**(e) General exceptions** Subsections (a) and (b) shall not prohibit the disclosure of nonpublic personal information—
 
 (1) as necessary to effect, administer, or enforce a transaction requested or authorized by the consumer, or in connection with—
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **(b) Regulations** Disclosures required by subsection (a) shall be made in accordance with the regulations prescribed under [section 6804 of this title](./chapter-094-privacy.md#section-6804).
 
-**(c) Information to be included** The disclosure required by subsection (a) of this section shall include—
+**(c) Information to be included** The disclosure required by subsection (a) shall include—
 
 (1) the policies and practices of the institution with respect to disclosing nonpublic personal information to nonaffiliated third parties, other than agents of the institution, consistent with [section 6802 of this title](./chapter-094-privacy.md#section-6802), and including—
 
@@ -154,9 +154,18 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 (4) **Safe harbor** — Any financial institution that elects to provide the model form developed by the agencies under this subsection shall be deemed to be in compliance with the disclosures required under this section.
 
+**(f) Exception to annual notice requirement** A financial institution that—
+
+(1) provides nonpublic personal information only in accordance with the provisions of subsection (b)(2) or (e) of [section 6802 of this title](./chapter-094-privacy.md#section-6802) or regulations prescribed under [section 6804(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6804/b&num=0&edition=prelim), and
+
+(2) has not changed its policies and practices with regard to disclosing nonpublic personal information from the policies and practices that were disclosed in the most recent disclosure sent to consumers in accordance with this section,
+shall not be required to provide an annual disclosure under this section until such time as the financial institution fails to comply with any criteria described in paragraph (1) or (2).
+
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (f). Pub. L. 114–94 added subsec. (f).
+
 2006—Pub. L. 109–351 designated concluding provisions of subsec. (a) as (b), inserted heading, substituted “Disclosures required by subsection (a)” for “Such disclosures”, redesignated former subsec. (b) as (c), and added subsecs. (d) and (e).
 
 #### Termination of Trust Territory of the Pacific Islands
@@ -181,7 +190,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 (3) **Procedures and deadline** — Such regulations shall be prescribed in accordance with applicable requirements of title 5.
 
-**(b) Authority to grant exceptions** The regulations prescribed under subsection (a) of this section may include such additional exceptions to subsections (a) through (d) of [section 6802 of this title](./chapter-094-privacy.md#section-6802) as are deemed consistent with the purposes of this subchapter.
+**(b) Authority to grant exceptions** The regulations prescribed under subsection (a) may include such additional exceptions to subsections (a) through (d) of [section 6802 of this title](./chapter-094-privacy.md#section-6802) as are deemed consistent with the purposes of this subchapter.
 
 ### Statutory Notes
 
@@ -229,13 +238,13 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **(b) Enforcement of section 6801**
 
-(1) **In general** — Except as provided in paragraph (2), the agencies and authorities described in subsection (a), other than the Bureau of Consumer Financial Protection, of this section shall implement the standards prescribed under [section 6801(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6801/b&num=0&edition=prelim) in the same manner, to the extent practicable, as standards prescribed pursuant to [section 1831p–1(a) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1831p–1/a&num=0&edition=prelim) are implemented pursuant to such section.
+(1) **In general** — Except as provided in paragraph (2), the agencies and authorities described in subsection (a), other than the Bureau of Consumer Financial Protection, shall implement the standards prescribed under [section 6801(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6801/b&num=0&edition=prelim) in the same manner, to the extent practicable, as standards prescribed pursuant to [section 1831p–1(a) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1831p–1/a&num=0&edition=prelim) are implemented pursuant to such section.
 
-(2) **Exception** — The agencies and authorities described in paragraphs (3), (4), (5), (6), and (7) of subsection (a) of this section shall implement the standards prescribed under [section 6801(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6801/b&num=0&edition=prelim) by rule with respect to the financial institutions and other persons subject to their respective jurisdictions under subsection (a) of this section.
+(2) **Exception** — The agencies and authorities described in paragraphs (3), (4), (5), (6), and (7) of subsection (a) shall implement the standards prescribed under [section 6801(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6801/b&num=0&edition=prelim) by rule with respect to the financial institutions and other persons subject to their respective jurisdictions under subsection (a).
 
 **(c) Absence of State action** If a State insurance authority fails to adopt regulations to carry out this subchapter, such State shall not be eligible to override, pursuant to [section 1831x(g)(2)(B)(iii) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1831x/g/2/B/iii&num=0&edition=prelim), the insurance customer protection regulations prescribed by a Federal banking agency under [section 1831x(a) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1831x/a&num=0&edition=prelim).
 
-**(d) Definitions** The terms used in subsection (a)(1) of this section that are not defined in this subchapter or otherwise defined in [section 1813(s) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/s&num=0&edition=prelim) shall have the same meaning as given in [section 3101 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3101&num=0&edition=prelim).
+**(d) Definitions** The terms used in subsection (a)(1) that are not defined in this subchapter or otherwise defined in [section 1813(s) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/s&num=0&edition=prelim) shall have the same meaning as given in [section 3101 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3101&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -332,9 +341,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 (9) the feasibility of restricting sharing of information for specific uses or of permitting customers to direct the uses for which information may be shared.
 
-**(b) Consultation** The Secretary shall consult with representatives of State insurance authorities designated by the National Association of Insurance Commissioners, and also with financial services industry, consumer organizations and privacy groups, and other representatives of the general public, in formulating and conducting the study required by subsection (a) of this section.
+**(b) Consultation** The Secretary shall consult with representatives of State insurance authorities designated by the National Association of Insurance Commissioners, and also with financial services industry, consumer organizations and privacy groups, and other representatives of the general public, in formulating and conducting the study required by subsection (a).
 
-**(c) Report** On or before January 1, 2002, the Secretary shall submit a report to the Congress containing the findings and conclusions of the study required under subsection (a) of this section, together with such recommendations for legislative or administrative action as may be appropriate.
+**(c) Report** On or before January 1, 2002, the Secretary shall submit a report to the Congress containing the findings and conclusions of the study required under subsection (a), together with such recommendations for legislative or administrative action as may be appropriate.
 
 
 <a id="section-6809"></a>
@@ -438,7 +447,7 @@ The Farm Credit Act of 1971, referred to in par. (3)(C), is Pub. L. 92–181, De
 
 (3) by providing any document to an officer, employee, or agent of a financial institution, knowing that the document is forged, counterfeit, lost, or stolen, was fraudulently obtained, or contains a false, fictitious, or fraudulent statement or representation.
 
-**(b) Prohibition on solicitation of a person to obtain customer information from financial institution under false pretenses** It shall be a violation of this subchapter to request a person to obtain customer information of a financial institution, knowing that the person will obtain, or attempt to obtain, the information from the institution in any manner described in subsection (a) of this section.
+**(b) Prohibition on solicitation of a person to obtain customer information from financial institution under false pretenses** It shall be a violation of this subchapter to request a person to obtain customer information of a financial institution, knowing that the person will obtain, or attempt to obtain, the information from the institution in any manner described in subsection (a).
 
 **(c) Nonapplicability to law enforcement agencies** No provision of this section shall be construed so as to prevent any action by a law enforcement agency, or any officer, employee, or agent of such agency, to obtain customer information of a financial institution in connection with the performance of the official duties of the agency.
 
@@ -448,7 +457,7 @@ The Farm Credit Act of 1971, referred to in par. (3)(C), is Pub. L. 92–181, De
 
 (2) investigating allegations of misconduct or negligence on the part of any officer, employee, or agent of the financial institution; or
 
-(3) recovering customer information of the financial institution which was obtained or received by another person in any manner described in subsection (a) or (b) of this section.
+(3) recovering customer information of the financial institution which was obtained or received by another person in any manner described in subsection (a) or (b).
 
 **(e) Nonapplicability to insurance institutions for investigation of insurance fraud** No provision of this section shall be construed so as to prevent any insurance institution, or any officer, employee, or agency of an insurance institution, from obtaining information as part of an insurance investigation into criminal activity, fraud, material misrepresentation, or material nondisclosure that is authorized for such institution under State law, regulation, interpretation, or order.
 
@@ -459,7 +468,7 @@ The Farm Credit Act of 1971, referred to in par. (3)(C), is Pub. L. 92–181, De
 
 <a id="section-6822"></a>
 ## § 6822. Administrative enforcement
-**(a) Enforcement by Federal Trade Commission** Except as provided in subsection (b) of this section, compliance with this subchapter shall be enforced by the Federal Trade Commission in the same manner and with the same power and authority as the Commission has under the Fair Debt Collection Practices Act [[15 U.S.C. 1692](./chapter-041-consumer-credit-protection.md#section-1692) et seq.] to enforce compliance with such Act.
+**(a) Enforcement by Federal Trade Commission** Except as provided in subsection (b), compliance with this subchapter shall be enforced by the Federal Trade Commission in the same manner and with the same power and authority as the Commission has under the Fair Debt Collection Practices Act [[15 U.S.C. 1692](./chapter-041-consumer-credit-protection.md#section-1692) et seq.] to enforce compliance with such Act.
 
 **(b) Enforcement by other agencies in certain cases**
 

@@ -57,7 +57,7 @@ source: >-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 303901 | [16 U.S.C. 470d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470d&num=0&edition=prelim) | Pub. L. 89–665, title I, § 104, Oct. 15, 1966, 80 Stat. 917; Pub. L. 96–515, title II, § 204, Dec. 12, 1980, 94 Stat. 2994. |
+| 303901 | [16 U.S.C. 470d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470d&num=0&edition=prelim). | Pub. L. 89–665, title I, § 104, Oct. 15, 1966, 80 Stat. 917; Pub. L. 96–515, title II, § 204, Dec. 12, 1980, 94 Stat. 2994. |
 
 The text of [16 U.S.C. 470d(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470d/j&num=0&edition=prelim) is omitted as unnecessary.
 
@@ -80,7 +80,7 @@ The Secretary shall develop and make available to Federal agencies, State and lo
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 303902 | [16 U.S.C. 470a(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/i&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(i), formerly § 101(h), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2992; redesignated as § 101(i), Pub. L. 102–575, title XL, § 4006(a)(1), Oct. 30, 1992, 106 Stat. 4758. |
+| 303902 | [16 U.S.C. 470a(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/i&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(i), formerly § 101(h), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, § 11, as added Pub. L. 94–458, § 2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, § 1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, § 608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, § 201(a), Dec. 12, 1980, 94 Stat. 2992; redesignated as § 101(i), Pub. L. 102–575, title XL, § 4006(a)(1), Oct. 30, 1992, 106 Stat. 4758. |
 
 
 <a id="section-303903"></a>
@@ -107,7 +107,7 @@ The Secretary, in consultation with the Council and other appropriate Federal, t
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 303903 | [16 U.S.C. 470a(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/j&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(j), as added Pub. L. 102–575, title XL, § 4008, Oct. 30, 1992, 106 Stat. 4758. |
+| 303903 | [16 U.S.C. 470a(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/j&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(j), as added Pub. L. 102–575, title XL, § 4008, Oct. 30, 1992, 106 Stat. 4758. |
 
 In paragraph (1), the word “new” is omitted as unnecessary.
 

@@ -2,53 +2,48 @@
 title: 22
 chapter: '73'
 heading: INTERNATIONAL RELIGIOUS FREEDOM
-section_count: 34
+section_count: 39
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
 <a id="section-6401"></a>
-## § 6401. Studies on effect of expedited removal provisions on asylum claims
-**(a) Studies**
+## § 6401. Voluntary codes of conduct for United States institutions of higher education outside the United States
+**(a) Finding** Congress recognizes the enduring importance of United States institutions of higher education worldwide—
 
-(1) **Commission request for participation by experts on refugee and asylum issues** — If the Commission so requests, the Attorney General shall invite experts designated by the Commission, who are recognized for their expertise and knowledge of refugee and asylum issues, to conduct a study, in cooperation with the Comptroller General of the United States, to determine whether immigration officers described in paragraph (2) are engaging in any of the conduct described in such paragraph.
+(1) for their potential for shaping positive leadership and new educational models in host countries; and
 
-(2) **Duties of Comptroller General** — The Comptroller General of the United States shall conduct a study alone or, upon request by the Commission, in cooperation with experts designated by the Commission, to determine whether immigration officers performing duties under [section 1225(b) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1225/b&num=0&edition=prelim) with respect to aliens who may be eligible to be granted asylum are engaging in any of the following conduct:
+(2) for their emphasis on teaching universally recognized rights of free inquiry and academic freedom.
 
-  (A) Improperly encouraging such aliens to withdraw their applications for admission.
+**(b) Sense of Congress** It is the sense of Congress that United States institutions of higher education operating campuses outside the United States or establishing any educational entities with foreign governments, particularly with or in countries the governments of which engage in or tolerate severe violations of religious freedom as identified in the Annual Report, should seek to adopt a voluntary code of conduct for operating in such countries that should—
 
-  (B) Incorrectly failing to refer such aliens for an interview by an asylum officer for a determination of whether they have a credible fear of persecution (within the meaning of [section 1225(b)(1)(B)(v) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1225/b/1/B/v&num=0&edition=prelim)).
+(1) uphold the right of freedom of religion of their employees and students, including the right to manifest that religion peacefully as protected in international law;
 
-  (C) Incorrectly removing such aliens to a country where they may be persecuted.
+(2) ensure that the religious views and peaceful practice of religion in no way affect, or be allowed to affect, the status of a worker’s or faculty member’s employment or a student’s enrollment; and
 
-  (D) Detaining such aliens improperly or in inappropriate conditions.
-
-**(b) Reports**
-
-(1) **Participation by experts** — In the case of a Commission request under subsection (a), the experts designated by the Commission under that subsection may submit a report to the committees described in paragraph (2). Such report may be submitted with the Comptroller General’s report under subsection (a)(2) or independently.
-
-(2) **Duties of Comptroller General** — Not later than September 1, 2000, the Comptroller General of the United States shall submit to the Committees on the Judiciary of the House of Representatives and the Senate, the Committee on International Relations of the House of Representatives, and the Committee on Foreign Relations of the Senate a report containing the results of the study conducted under subsection (a)(2). If the Commission requests designated experts to participate with the Comptroller General in the preparation and submission of the report, the Comptroller General shall grant the request.
-
-**(c) Access to proceedings**
-
-(1) **In general** — Except as provided in paragraph (2), to facilitate the studies and reports, the Attorney General shall permit the Comptroller General of the United States and, in the case of a Commission request under subsection (a), the experts designated under subsection (a) to have unrestricted access to all stages of all proceedings conducted under [section 1225(b) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1225/b&num=0&edition=prelim).
-
-(2) **Exceptions** — Paragraph (1) shall not apply in cases in which the alien objects to such access, or the Attorney General determines that the security of a particular proceeding would be threatened by such access, so long as any restrictions on the access of experts designated by the Commission under subsection (a) do not contravene international law.
-
-### Statutory Notes
-
-#### Change of Name
-Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+(3) make every effort in all negotiations, contracts, or memoranda of understanding engaged in or constructed with a foreign government to protect academic freedom and the rights enshrined in the United Nations Declaration of Human Rights.
 
 
 <a id="section-6402"></a>
-## § 6402. Business codes of conduct
-**(a) Congressional finding** Congress recognizes the increasing importance of transnational corporations as global actors, and their potential for providing positive leadership in their host countries in the area of human rights.
+## § 6402. Sense of Congress regarding national security strategy to promote religious freedom through United States foreign policy
 
-**(b) Sense of Congress** It is the sense of the Congress that transnational corporations operating overseas, particularly those corporations operating in countries the governments of which have engaged in or tolerated violations of religious freedom, as identified in the Annual Report, should adopt codes of conduct—
+It is the sense of Congress that the annual national security strategy report of the President required under [section 3043 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3043&num=0&edition=prelim)—
 
-(1) upholding the right to freedom of religion of their employees; and
+(1) should promote international religious freedom as a foreign policy and national security priority; and
 
-(2) ensuring that a worker’s religious views and peaceful practices of belief in no way affect, or be allowed to affect, the status or terms of his or her employment.
+(2) should articulate that promotion of the right to freedom of religion is a strategy that—
+
+  (A) protects other, related human rights, and advances democracy outside the United States; and
+
+  (B) makes clear its importance to United States foreign policy goals of stability, security, development, and diplomacy;
+
+(3) should be a guide for the strategies and activities of relevant Federal agencies; and
+
+(4) should inform the Department of Defense quadrennial defense review under section 118 11 See References in Text note below. of title 10 and the Department of State Quadrennial Diplomacy and Development Review.
+
+### Statutory Notes
+
+#### References in Text
+[Section 118 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section118&num=0&edition=prelim), referred to in par. (4), was repealed by Pub. L. 114–328, div. A, title IX, § 941(b)(1), Dec. 23, 2016, 130 Stat. 2367. For provisions related to national defense strategy similar to those contained in former section 118 prior to repeal, see [section 113(g) of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-6411"></a>
@@ -59,13 +54,13 @@ Committee on International Relations of House of Representatives changed to Comm
 
 (2) Freedom of religious belief and practice is a universal human right and fundamental freedom articulated in numerous international instruments, including the Universal Declaration of Human Rights, the International Covenant on Civil and Political Rights, the Helsinki Accords, the Declaration on the Elimination of All Forms of Intolerance and Discrimination Based on Religion or Belief, the United Nations Charter, and the European Convention for the Protection of Human Rights and Fundamental Freedoms.
 
-(3) Article 18 of the Universal Declaration of Human Rights recognizes that “Everyone has the right to freedom of thought, conscience, and religion. This right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship, and observance.”. Article 18(1) of the International Covenant on Civil and Political Rights recognizes that “Everyone shall have the right to freedom of thought, conscience, and religion. This right shall include freedom to have or to adopt a religion or belief of his choice, and freedom, either individually or in community with others and in public or private, to manifest his religion or belief in worship, observance, practice, and teaching”. Governments have the responsibility to protect the fundamental rights of their citizens and to pursue justice for all. Religious freedom is a fundamental right of every individual, regardless of race, sex, country, creed, or nationality, and should never be arbitrarily abridged by any government.
+(3) Article 18 of the Universal Declaration of Human Rights recognizes that “Everyone has the right to freedom of thought, conscience, and religion. This right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship, and observance.”. Article 18(1) of the International Covenant on Civil and Political Rights recognizes that “Everyone shall have the right to freedom of thought, conscience, and religion. This right shall include freedom to have or to adopt a religion or belief of his choice, and freedom, either individually or in community with others and in public or private, to manifest his religion or belief in worship, observance, practice, and teaching”. The freedom of thought, conscience, and religion is understood to protect theistic and non-theistic beliefs and the right not to profess or practice any religion. Governments have the responsibility to protect the fundamental rights of their citizens and to pursue justice for all. Religious freedom is a fundamental right of every individual, regardless of race, sex, country, creed, or nationality, and should never be arbitrarily abridged by any government.
 
-(4) The right to freedom of religion is under renewed and, in some cases, increasing assault in many countries around the world. More than one-half of the world’s population lives under regimes that severely restrict or prohibit the freedom of their citizens to study, believe, observe, and freely practice the religious faith of their choice. Religious believers and communities suffer both government-sponsored and government-tolerated violations of their rights to religious freedom. Among the many forms of such violations are state-sponsored slander campaigns, confiscations of property, desecration of cemeteries, surveillance by security police, including by special divisions of “religious police”, severe prohibitions against construction and repair of places of worship, denial of the right to assemble and relegation of religious communities to illegal status through arbitrary registration laws, prohibitions against the pursuit of education or public office, and prohibitions against publishing, distributing, or possessing religious literature and materials.
+(4) The right to freedom of religion is under renewed and, in some cases, increasing assault in many countries around the world. More than one-half of the world’s population lives under regimes that severely restrict or prohibit the freedom of their citizens to study, believe, observe, and freely practice the religious faith of their choice. Religious believers and communities suffer both government-sponsored and government-tolerated violations of their rights to religious freedom. Among the many forms of such violations are state-sponsored slander campaigns, confiscations of property, desecration of cemeteries, surveillance by security police, including by special divisions of “religious police”, severe prohibitions against construction and repair of places of worship, denial of the right to assemble and relegation of religious communities to illegal status through arbitrary registration laws, prohibitions against the pursuit of education or public office, and prohibitions against publishing, distributing, or possessing religious literature and materials. A policy or practice of routinely denying applications for visas for religious workers in a country can be indicative of a poor state of religious freedom in that country.
 
 (5) Even more abhorrent, religious believers in many countries face such severe and violent forms of religious persecution as detention, torture, beatings, forced marriage, rape, imprisonment, enslavement, mass resettlement, and death merely for the peaceful belief in, change of or practice of their faith. In many countries, religious believers are forced to meet secretly, and religious leaders are targeted by national security forces and hostile mobs.
 
-(6) Though not confined to a particular region or regime, religious persecution is often particularly widespread, systematic, and heinous under totalitarian governments and in countries with militant, politicized religious majorities.
+(6) Though not confined to a particular region or regime, religious persecution and the specific targeting of non-theists, humanists, and atheists because of their beliefs is often particularly widespread, systematic, and heinous under totalitarian governments and in countries with militant, politicized religious majorities and in regions where non-state actors exercise significant political power and territorial control.
 
 (7) Congress has recognized and denounced acts of religious persecution through the adoption of the following resolutions:
 
@@ -75,29 +70,51 @@ Committee on International Relations of House of Representatives changed to Comm
 
   (C) House Concurrent Resolution 102 of the One Hundred Fourth Congress, expressing the sense of the House of Representatives concerning the emancipation of the Iranian Baha’i community.
 
-**(b) Policy** It shall be the policy of the United States, as follows:
+**(b) Policy**
 
-(1) To condemn violations of religious freedom, and to promote, and to assist other governments in the promotion of, the fundamental right to freedom of religion.
+(1) **In general** — The following shall be the policy of the United States:
 
-(2) To seek to channel United States security and development assistance to governments other than those found to be engaged in gross violations of the right to freedom of religion, as set forth in the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.], in the International Financial Institutions Act of 1977, and in other formulations of United States human rights policy.
+  (A) To condemn violations of religious freedom, and to promote, and to assist other governments in the promotion of, the fundamental right to freedom of religion.
 
-(3) To be vigorous and flexible, reflecting both the unwavering commitment of the United States to religious freedom and the desire of the United States for the most effective and principled response, in light of the range of violations of religious freedom by a variety of persecuting regimes, and the status of the relations of the United States with different nations.
+  (B) To seek to channel United States security and development assistance to governments other than those found to be engaged in gross violations of the right to freedom of religion, as set forth in the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.], in the International Financial Institutions Act of 1977, and in other formulations of United States human rights policy.
 
-(4) To work with foreign governments that affirm and protect religious freedom, in order to develop multilateral documents and initiatives to combat violations of religious freedom and promote the right to religious freedom abroad.
+  (C) To be vigorous and flexible, reflecting both the unwavering commitment of the United States to religious freedom and the desire of the United States for the most effective and principled response, in light of the range of violations of religious freedom by a variety of persecuting regimes, and the status of the relations of the United States with different nations.
 
-(5) Standing for liberty and standing with the persecuted, to use and implement appropriate tools in the United States foreign policy apparatus, including diplomatic, political, commercial, charitable, educational, and cultural channels, to promote respect for religious freedom by all governments and peoples.
+  (D) To work with foreign governments that affirm and protect religious freedom, in order to develop multilateral documents and initiatives to combat violations of religious freedom and promote the right to religious freedom abroad.
+
+  (E) Standing for liberty and standing with the persecuted, to use and implement appropriate tools in the United States foreign policy apparatus, including diplomatic, political, commercial, charitable, educational, and cultural channels, to promote respect for religious freedom by all governments and peoples.
+
+(2) **Evolving policies and coordinated diplomatic responses** — Because the promotion of international religious freedom protects human rights, advances democracy abroad, and advances United States interests in stability, security, and development globally, the promotion of international religious freedom requires new and evolving policies and diplomatic responses that—
+
+  (A) are drawn from the expertise of the national security agencies, the diplomatic services, and other governmental agencies and nongovernmental organizations; and
+
+  (B) are coordinated across and carried out by the entire range of Federal agencies.
 
 ### Statutory Notes
 
 #### References in Text
 House Concurrent Resolution 102, referred to in subsec. (a)(7)(C), is H. Con. Res. 102, June 26, 1996, 110 Stat. 4483, which is not classified to the Code.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(1)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
-The International Financial Institutions Act of 1977, referred to in subsec. (b)(2), probably means the International Financial Institutions Act, Pub. L. 95–118, Oct. 3, 1977, 91 Stat. 1067, as amended, which enacted sections 262c, 262d, 262e to 262g–3, 262m to 262p–12, 262r to 262t, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as notes under sections 262c and 282i of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 261 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-261) and Tables.
+The International Financial Institutions Act of 1977, referred to in subsec. (b)(1)(B), probably means the International Financial Institutions Act, Pub. L. 95–118, Oct. 3, 1977, 91 Stat. 1067, as amended, which enacted sections 262c, 262d, 262e to 262g–3, 262m to 262p–12, 262r to 262t, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as notes under sections 262c and 282i of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 261 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-261) and Tables.
 
 #### Amendments
+2016—Subsec. (a)(3). Pub. L. 114–281, § 2(a)(1), inserted “The freedom of thought, conscience, and religion is understood to protect theistic and non-theistic beliefs and the right not to profess or practice any religion.” before “Governments have the responsibility”.
+
+Subsec. (a)(4). Pub. L. 114–281, § 2(a)(2), inserted at end “A policy or practice of routinely denying applications for visas for religious workers in a country can be indicative of a poor state of religious freedom in that country.”
+
+Subsec. (a)(6). Pub. L. 114–281, § 2(a)(3), inserted “and the specific targeting of non-theists, humanists, and atheists because of their beliefs” after “religious persecution” and “and in regions where non-state actors exercise significant political power and territorial control” before period at end.
+
+Subsec. (b). Pub. L. 114–281, § 2(b), designated existing provisions as par. (1) and inserted heading, substituted “The following shall be the policy of the United States:” for “It shall be the policy of the United States, as follows:”, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, and added par. (2).
+
 2014—Subsec. (a)(4). Pub. L. 113–154 inserted “desecration of cemeteries,” after “confiscations of property,”.
+
+#### Short Title of 2016 Amendment
+Pub. L. 114–281, § 1(a), Dec. 16, 2016, 130 Stat. 1426, provided that: “This Act [enacting sections 6442a, 6473a, 6482, and 6483 of this title and amending this section and sections 4028, 6402, 6411, 6412, 6417, 6442, 6444, 6447, 6448, and 6474 of this title] may be cited as the ‘Frank R. Wolf International Religious Freedom Act’.”
+
+#### Short Title of 2015 Amendment
+Pub. L. 114–71, § 1, Oct. 16, 2015, 129 Stat. 563, provided that: “This Act [enacting [section 6433a of this title](./chapter-073-international-religious-freedom.md#section-6433a), amending sections 6435 and 6436 of this title, and enacting provisions set out as a note under section 6432 of this section] may be cited as the ‘United States Commission on International Religious Freedom Reauthorization Act of 2015’.”
 
 #### Short Title of 2011 Amendment
 Pub. L. 112–75, § 1, Dec. 23, 2011, 125 Stat. 1272, provided that: “This Act [amending sections 6431, 6432b, 6435, 6435a, and 6436 of this title and enacting provisions set out as a note under [section 6432b of this title](./chapter-073-international-religious-freedom.md#section-6432b)] may be cited as the ‘United States Commission on International Religious Freedom Reform and Reauthorization Act of 2011’.”
@@ -136,9 +153,19 @@ In this chapter:
 
 (9) **Human Rights Reports** — The term “Human Rights Reports” means all reports submitted by the Department of State to Congress under sections 2151n and 2304 of this title.
 
-(10) **Office** — The term “Office” means the Office on International Religious Freedom established in [section 6411(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6411/a&num=0&edition=prelim).
+(10) **Institution of higher education** — The term “institution of higher education” has the meaning given that term in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim).
 
-(11) **Particularly severe violations of religious freedom** — The term “particularly severe violations of religious freedom” means systematic, ongoing, egregious violations of religious freedom, including violations such as—
+(11) **Non-state actor** — The term “non-state actor” means a nonsovereign entity that—
+
+  (A) exercises significant political power and territorial control;
+
+  (B) is outside the control of a sovereign government; and
+
+  (C) often employs violence in pursuit of its objectives.
+
+(12) **Office** — The term “Office” means the Office on International Religious Freedom established in [section 6411(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6411/a&num=0&edition=prelim).
+
+(13) **Particularly severe violations of religious freedom** — The term “particularly severe violations of religious freedom” means systematic, ongoing, egregious violations of religious freedom, including violations such as—
 
   (A) torture or cruel, inhuman, or degrading treatment or punishment;
 
@@ -148,9 +175,11 @@ In this chapter:
 
   (D) other flagrant denial of the right to life, liberty, or the security of persons.
 
-(12) **Special Adviser** — The term “Special Adviser” means the Special Adviser to the President on International Religious Freedom described in [section 3021(i) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021/i&num=0&edition=prelim).22 See References in Text note below.
+(14) **Special Adviser** — The term “Special Adviser” means the Special Adviser to the President on International Religious Freedom described in [section 3021(i) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021/i&num=0&edition=prelim).22 See References in Text note below.
 
-(13) **Violations of religious freedom** — The term “violations of religious freedom” means violations of the internationally recognized right to freedom of religion and religious belief and practice, as set forth in the international instruments referred to in [section 6401(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6401/a/2&num=0&edition=prelim) and as described in [section 6401(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6401/a/3&num=0&edition=prelim), including violations such as—
+(15) **Special Watch List** — The term “Special Watch List” means the Special Watch List described in [section 6442(b)(1)(A)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6442/b/1/A/iii&num=0&edition=prelim).
+
+(16) **Violations of religious freedom** — The term “violations of religious freedom” means violations of the internationally recognized right to freedom of religion and religious belief and practice, as set forth in the international instruments referred to in [section 6401(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6401/a/2&num=0&edition=prelim) and as described in [section 6401(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6401/a/3&num=0&edition=prelim), including violations such as—
 
   (A) arbitrary prohibitions on, restrictions of, or punishment for—
 
@@ -160,18 +189,31 @@ In this chapter:
 
     (iii) changing one’s religious beliefs and affiliation;
 
-    (iv) possession and distribution of religious literature, including Bibles; or
+    (iv) not professing a particular religion, or any religion;
 
-    (v) raising one’s children in the religious teachings and practices of one’s choice; or
+    (v) possession and distribution of religious literature, including Bibles; or
 
-  (B) any of the following acts if committed on account of an individual’s religious belief or practice: detention, interrogation, imposition of an onerous financial penalty, forced labor, forced mass resettlement, imprisonment, forced religious conversion, beating, torture, mutilation, rape, enslavement, murder, and execution.
+    (vi) raising one’s children in the religious teachings and practices of one’s choice; or
+
+  (B) any of the following acts if committed on account of an individual’s conscience, non-theistic views, or religious belief or practice: detention, interrogation, imposition of an onerous financial penalty, forced labor, forced mass resettlement, imprisonment, forced religious conversion, forcibly compelling non-believers or non-theists to recant their beliefs or to convert, beating, torture, mutilation, rape, enslavement, murder, and execution.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6401 of this title](./chapter-073-international-religious-freedom.md#section-6401) and Tables.
 
-[Section 3021(i) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021/i&num=0&edition=prelim), referred to in par. (12), was redesignated section 3021(k) by Pub. L. 110–53, title XVIII, § 1841(g)(1), Aug. 3, 2007, 121 Stat. 500.
+[Section 3021(i) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021/i&num=0&edition=prelim), referred to in par. (14), was redesignated section 3021(k) by Pub. L. 110–53, title XVIII, § 1841(g)(1), Aug. 3, 2007, 121 Stat. 500.
+
+#### Amendments
+2016—Pars. (10) to (14). Pub. L. 114–281, § 3(2), (3), added pars. (10) and (11) and redesignated former pars. (10) to (12) as (12) to (14), respectively. Former par. (13) redesignated (16).
+
+Par. (15). Pub. L. 114–281, § 3(4), added par. (15).
+
+Par. (16). Pub. L. 114–281, § 3(1), redesignated par. (13) as (16).
+
+Par. (16)(A)(iv) to (vi). Pub. L. 114–281, § 3(5)(A), added cl. (iv) and redesignated former cls. (iv) and (v) as (v) and (vi), respectively.
+
+Par. (16)(B). Pub. L. 114–281, § 3(5)(B), inserted “conscience, non-theistic views, or” after “an individual’s” and “forcibly compelling non-believers or non-theists to recant their beliefs or to convert,” after “forced religious conversion,”.
 
 #### Change of Name
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
@@ -183,13 +225,17 @@ Committee on Banking and Financial Services of House of Representatives abolishe
 ## § 6413. Office on International Religious Freedom; Ambassador at Large for International Religious Freedom
 **(a) Establishment of Office** There is established within the Department of State an Office on International Religious Freedom that shall be headed by the Ambassador at Large for International Religious Freedom appointed under subsection (b).
 
-**(b) Appointment** The Ambassador at Large shall be appointed by the President, by and with the advice and consent of the Senate.
+**(b) Appointment** The Ambassador at Large shall be appointed by the President, by and with the advice and consent of the Senate, and shall report directly to the Secretary of State.
 
 **(c) Duties** The Ambassador at Large shall have the following responsibilities:
 
-(1) **In general** — The primary responsibility of the Ambassador at Large shall be to advance the right to freedom of religion abroad, to denounce the violation of that right, and to recommend appropriate responses by the United States Government when this right is violated.
+(1) **In general** — The primary responsibilities of the Ambassador at Large shall be to—
 
-(2) **Advisory role** — The Ambassador at Large shall be a principal adviser to the President and the Secretary of State regarding matters affecting religious freedom abroad and, with advice from the Commission on International Religious Freedom, shall make recommendations regarding—
+  (A) advance the right to freedom of religion abroad, to denounce the violation of that right, and to recommend appropriate responses by the United States Government when this right is violated; and
+
+  (B) integrate United States international religious freedom policies and strategies into the foreign policy efforts of the United States.
+
+(2) **Advisory role** — The Ambassador at Large shall be a principal adviser to the President and the principal adviser to the Secretary of State regarding matters affecting religious freedom abroad and, with advice from the Commission on International Religious Freedom, shall make recommendations regarding—
 
   (A) the policies of the United States Government toward governments that violate freedom of religion or that fail to ensure the individual’s right to religious belief and practice; and
 
@@ -197,15 +243,39 @@ Committee on Banking and Financial Services of House of Representatives abolishe
 
 (3) **Diplomatic representation** — Subject to the direction of the President and the Secretary of State, the Ambassador at Large is authorized to represent the United States in matters and cases relevant to religious freedom abroad in—
 
-  (A) contacts with foreign governments, intergovernmental organizations, and specialized agencies of the United Nations, the Organization on Security and Cooperation in Europe, and other international organizations of which the United States is a member; and
+  (A) contacts with foreign governments, intergovernmental organizations, and specialized agencies of the United Nations, the Organization on Security and Cooperation in Europe, and other international organizations of which the United States is a member;
 
-  (B) multilateral conferences and meetings relevant to religious freedom abroad.
+  (B) multilateral conferences and meetings relevant to religious freedom abroad; and
 
-(4) **Reporting responsibilities** — The Ambassador at Large shall have the reporting responsibilities described in [section 6412 of this title](./chapter-073-international-religious-freedom.md#section-6412).
+  (C) contacts with nongovernmental organizations that have an impact on the state of religious freedom in their respective societies or regions, or internationally.
 
-**(d) Funding** The Secretary of State shall provide the Ambassador at Large with such funds as may be necessary for the hiring of staff for the Office, for the conduct of investigations by the Office, and for necessary travel to carry out the provisions of this section.
+(4) **Coordination responsibilities** — In order to promote religious freedom as an interest of United States foreign policy, the Ambassador at Large—
+
+  (A) shall coordinate international religious freedom policies across all programs, projects, and activities of the United States; and
+
+  (B) should participate in any interagency processes on issues in which the promotion of international religious freedom policy can advance United States national security interests, including in democracy promotion, stability, security, and development globally.
+
+(5) **Reporting responsibilities** — The Ambassador at Large shall have the reporting responsibilities described in [section 6412 of this title](./chapter-073-international-religious-freedom.md#section-6412).
+
+**(d) Funding** The Secretary of State shall provide the Ambassador at Large with such funds as may be necessary for the hiring of appropriate staff for the Office, including full-time equivalent positions and other temporary staff positions needed to compile, edit, and manage the Annual Report under the direct supervision of the Ambassador at Large, and for the conduct of investigations by the Office and for necessary travel to carry out this chapter. The Secretary of State should provide the Ambassador at Large with sufficient funding to carry out the duties described in this section, including, as necessary, representation funds. On the date on which the President’s annual budget request is submitted to Congress, the Secretary shall submit an annual report to the appropriate congressional committees that includes a report on staffing levels for the International Religious Freedom Office.
 
 ### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6401 of this title](./chapter-073-international-religious-freedom.md#section-6401) and Tables.
+
+#### Amendments
+2016—Subsec. (b). Pub. L. 114–281, § 101(a)(1), inserted before period at end “, and shall report directly to the Secretary of State”.
+
+Subsec. (c)(1). Pub. L. 114–281, § 101(a)(2)(A), substituted “responsibilities” for “responsibility”, inserted dash after “shall be to”, designated remainder of existing provisions as subpar. (A), substituted “; and” for period at end, and added subpar. (B).
+
+Subsec. (c)(2). Pub. L. 114–281, § 101(a)(2)(B), inserted “the principal adviser to” before “the Secretary of State” in introductory provisions.
+
+Subsec. (c)(3)(C). Pub. L. 114–281, § 101(a)(2)(C), added subpar. (C).
+
+Subsec. (c)(4), (5). Pub. L. 114–281, § 101(a)(2)(D), (E), added par. (4) and redesignated former par. (4) as (5).
+
+Subsec. (d). Pub. L. 114–281, § 101(a)(3), substituted “appropriate staff for the Office, including full-time equivalent positions and other temporary staff positions needed to compile, edit, and manage the Annual Report under the direct supervision of the Ambassador at Large, and for the conduct of investigations by the Office and for necessary travel to carry out this chapter. The Secretary of State should provide the Ambassador at Large with sufficient funding to carry out the duties described in this section, including, as necessary, representation funds. On the date on which the President’s annual budget request is submitted to Congress, the Secretary shall submit an annual report to the appropriate congressional committees that includes a report on staffing levels for the International Religious Freedom Office.” for “staff for the Office, for the conduct of investigations by the Office, and for necessary travel to carry out the provisions of this section.”
 
 #### Near East and South Central Asia Religious Freedom
 Pub. L. 113–161, Aug. 8, 2014, 128 Stat. 1855, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Near East and South Central Asia Religious Freedom Act of 2014’. “SEC. 2. SPECIAL ENVOY TO PROMOTE RELIGIOUS FREEDOM OF RELIGIOUS MINORITIES IN THE NEAR EAST AND SOUTH CENTRAL ASIA.“(a) Appointment.—The President may appoint a Special Envoy to Promote Religious Freedom of Religious Minorities in the Near East and South Central Asia (in this Act referred to as the ‘Special Envoy’) within the Department of State. The Special Envoy shall have the rank of ambassador and shall hold the office at the pleasure of the President. “(b) Qualifications.—The Special Envoy should be a person of recognized distinction in the field of human rights and religious freedom and with expertise in the Near East and South Central Asia. “SEC. 3. DUTIES.“(a) In General.—The Special Envoy shall carry out the following duties:“(1) Promote the right of religious freedom of religious minorities in the countries of the Near East and the countries of South Central Asia, denounce the violation of such right, and recommend appropriate responses by the United States Government when such right is violated. “(2) Monitor and combat acts of religious intolerance and incitement targeted against religious minorities in the countries of the Near East and the countries of South Central Asia. “(3) Work to ensure that the unique needs of religious minority communities in the countries of the Near East and the countries of South Central Asia are addressed, including the economic and security needs of such communities. “(4) Work with foreign governments of the countries of the Near East and the countries of South Central Asia to address laws that are discriminatory toward religious minority communities in such countries. “(5) Coordinate and assist in the preparation of that portion of the report required by sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151n(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151n/d&num=0&edition=prelim) and 2304(b)) relating to the nature and extent of religious freedom of religious minorities in the countries of the Near East and the countries of South Central Asia. “(6) Coordinate and assist in the preparation of that portion of the report required by section 102(b) of the International Religious Freedom Act of 1998 ([22 U.S.C. 6412(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6412/b&num=0&edition=prelim)) relating to the nature and extent of religious freedom of religious minorities in the countries of the Near East and the countries of South Central Asia. “(b) Coordination.—In carrying out the duties under subsection (a), the Special Envoy shall, to the maximum extent practicable, coordinate with the Assistant Secretary of State for Population, Refugees and Migration, the Ambassador at Large for International Religious Freedom, the United States Commission on International Religious Freedom, and other relevant Federal agencies and officials. “SEC. 4. DIPLOMATIC REPRESENTATION.“Subject to the direction of the President and the Secretary of State, the Special Envoy is authorized to represent the United States in matters and cases relevant to religious freedom in the countries of the Near East and the countries of South Central Asia in—“(1) contacts with foreign governments, intergovernmental organizations, and specialized agencies of the United Nations, the Organization of Security and Cooperation in Europe, and other international organizations of which the United States is a member; and “(2) multilateral conferences and meetings relevant to religious freedom in the countries of the Near East and the countries of South Central Asia. “SEC. 5. CONSULTATIONS.“The Special Envoy shall consult with domestic and international nongovernmental organizations and multilateral organizations and institutions, as the Special Envoy considers appropriate to fulfill the purposes of this Act. “SEC. 6. SUNSET.“This Act shall cease to be effective beginning on October 1, 2019. “SEC. 7. FUNDING.“Of the amounts appropriated or otherwise made available to the Secretary of State for ‘Diplomatic and Consular Programs’ for fiscal years 2015 through 2019, the Secretary of State is authorized to provide to the Special Envoy $1,000,000 for each such fiscal year for the hiring of staff, the conduct of investigations, and necessary travel to carry out the provisions of this Act.”
@@ -217,7 +287,7 @@ Pub. L. 113–161, Aug. 8, 2014, 128 Stat. 1855, provided that: “SECTION 1. SH
 
 **(b) Annual Report on International Religious Freedom**
 
-(1) **Deadline for submission** — On September 1 of each year or the first day thereafter on which the appropriate House of Congress is in session, the Secretary of State, with the assistance of the Ambassador at Large, and taking into consideration the recommendations of the Commission, shall prepare and transmit to Congress an Annual Report on International Religious Freedom supplementing the most recent Human Rights Reports by providing additional detailed information with respect to matters involving international religious freedom. Each Annual Report shall contain the following:
+(1) **Deadline for submission** — On May 1 of each year or the first day thereafter on which the appropriate House of Congress is in session, the Secretary of State, with the assistance of the Ambassador at Large, and taking into consideration the recommendations of the Commission, shall prepare and transmit to Congress an Annual Report on International Religious Freedom supplementing the most recent Human Rights Reports by providing additional detailed information with respect to matters involving international religious freedom. Each Annual Report shall contain the following:
 
   (A) *Status of religious freedom* — A description of the status of religious freedom in each foreign country, including—
 
@@ -225,21 +295,27 @@ Pub. L. 113–161, Aug. 8, 2014, 128 Stat. 1855, provided that: “SECTION 1. SH
 
     (ii) violations of religious freedom engaged in or tolerated by the government of that country;
 
-    (iii) particularly severe violations of religious freedom engaged in or tolerated by the government of that country; and
+    (iii) particularly severe violations of religious freedom engaged in or tolerated by the government of that country as well as the routine denial of visa applications for religious workers;
 
-    (iv) wherever applicable, an assessment and description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement that occur in that country during the preceding year, including—
+    (iv) particularly severe violations of religious freedom in that country if such country does not have a functioning government or the government of such country does not control its territory;
+
+    (v) the identification of prisoners, to the extent possible, in that country pursuant to [section 6417(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6417/d&num=0&edition=prelim);
+
+    (vi) any action taken by the government of that country to censor religious content, communications, or worship activities online, including descriptions of the targeted religious group, the content, communication, or activities censored, and the means used; and
+
+    (vii) wherever applicable, an assessment and description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement that occur in that country during the preceding year, including—
 
       (I) acts of physical violence against, or harassment of, Jewish people, acts of violence against, or vandalism of, Jewish community institutions, and instances of propaganda in government and nongovernment media that incite such acts; and
 
       (II) the actions taken by the government of that country to respond to such violence and attacks or to eliminate such propaganda or incitement, to enact and enforce laws relating to the protection of the right to religious freedom of Jewish people, and to promote anti-bias and tolerance education.
 
-  (B) *Violations of religious freedom* — An assessment and description of the nature and extent of violations of religious freedom in each foreign country, including persecution of one religious group by another religious group, religious persecution by governmental and nongovernmental entities, persecution targeted at individuals or particular denominations or entire religions, the existence of government policies violating religious freedom, including policies that discriminate against particular religious groups or members of such groups, and the existence of government policies concerning—
+  (B) *Violations of religious freedom* — An assessment and description of the nature and extent of violations of religious freedom in each foreign country, including persecution of one religious group by another religious group, religious persecution by governmental and nongovernmental entities, persecution targeted at individuals or particular denominations or entire religions, persecution of lawyers, politicians, or other human rights advocates seeking to defend the rights of members of religious groups or highlight religious freedom violations, prohibitions on ritual animal slaughter or male infant circumcision, the existence of government policies violating religious freedom, including policies that discriminate against particular religious groups or members of such groups, policies that ban or restrict the public manifestation of religious belief and the peaceful involvement of religious groups or their members in the political life of each such foreign country, and the existence of government policies concerning—
 
     (i) limitations or prohibitions on, or lack of availability of, openly conducted, organized religious services outside of the premises of foreign diplomatic missions or consular posts; and
 
     (ii) the forced religious conversion of minor United States citizens who have been abducted or illegally removed from the United States, and the refusal to allow such citizens to be returned to the United States.
 
-  (C) *United States policies* — A description of United States actions and policies in support of religious freedom in each foreign country engaging in or tolerating violations of religious freedom, including a description of the measures and policies implemented during the preceding 12 months by the United States under titles I, IV, and V of this Act in opposition to violations of religious freedom and in support of international religious freedom.
+  (C) *United States policies* — A detailed description of United States actions, diplomatic and political coordination efforts, and other policies in support of religious freedom in each foreign country engaging in or tolerating violations of religious freedom, including a description of the measures and policies implemented during the preceding 12 months by the United States under titles I, IV, and V of this Act in opposition to violations of religious freedom and in support of international religious freedom.
 
   (D) *International agreements in effect* — A description of any binding agreement with a foreign government entered into by the United States under section 6441(b) or 6442(c) of this title.
 
@@ -251,7 +327,7 @@ Pub. L. 113–161, Aug. 8, 2014, 128 Stat. 1855, provided that: “SECTION 1. SH
 
   (F) *Executive Summary* — An Executive Summary to the Annual Report highlighting the status of religious freedom in certain foreign countries and including the following:
 
-    (i) *Countries in which the United States is actively promoting religious freedom* — An identification of foreign countries in which the United States is actively promoting religious freedom. This section of the report shall include a description of United States actions taken to promote the internationally recognized right to freedom of religion and oppose violations of such right under title IV and title V of this Act during the period covered by the Annual Report. Any country designated as a country of particular concern for religious freedom under [section 6442(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6442/b/1&num=0&edition=prelim) shall be included in this section of the report.
+    (i) *Countries in which the United States is actively promoting religious freedom* — An identification of foreign countries in which the United States is actively promoting religious freedom. This section of the report shall include a description of United States actions taken to promote the internationally recognized right to freedom of religion and oppose violations of such right under title IV and title V of this Act during the period covered by the Annual Report. Any country designated as a country of particular concern for religious freedom under [section 6442(b)(1)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6442/b/1/A/ii&num=0&edition=prelim) shall be included in this section of the report. Any country in which a non-state actor designated as an entity of particular concern for religious freedom under [section 6442a of this title](./chapter-073-international-religious-freedom.md#section-6442a) is located shall be included in this section of the report.
 
     (ii) *Countries of significant improvement in religious freedom* — An identification of foreign countries the governments of which have demonstrated significant improvement in the protection and promotion of the internationally recognized right to freedom of religion during the period covered by the Annual Report. This section of the report shall include a description of the nature of the improvement and an analysis of the factors contributing to such improvement, including actions taken by the United States under this chapter.
 
@@ -274,6 +350,18 @@ This chapter, referred to in subsec. (b)(1)(F)(ii), (2), was in the original “
 Section is comprised of section 102 of Pub. L. 105–292. Subsec. (d) of section 102 of Pub. L. 105–292 amended sections 2151n and 2304 of this title.
 
 #### Amendments
+2016—Subsec. (b)(1). Pub. L. 114–281, § 102(a)(1), substituted “May 1” for “September 1” in introductory provisions.
+
+Subsec. (b)(1)(A)(iii). Pub. L. 114–281, § 102(a)(2)(A), substituted “as well as the routine denial of visa applications for religious workers;” for “; and”.
+
+Subsec. (b)(1)(A)(iv) to (vii). Pub. L. 114–281, § 102(a)(2)(B), (C), added cls. (iv) to (vi) and redesignated former cl. (iv) as (vii).
+
+Subsec. (b)(1)(B). Pub. L. 114–281, § 102(a)(3), in introductory provisions, inserted “persecution of lawyers, politicians, or other human rights advocates seeking to defend the rights of members of religious groups or highlight religious freedom violations, prohibitions on ritual animal slaughter or male infant circumcision,” after “entire religions,” and “policies that ban or restrict the public manifestation of religious belief and the peaceful involvement of religious groups or their members in the political life of each such foreign country,” after “such groups,”.
+
+Subsec. (b)(1)(C). Pub. L. 114–281, § 102(a)(4), substituted “A detailed description of United States actions, diplomatic and political coordination efforts, and other” for “A description of United States actions and”.
+
+Subsec. (b)(1)(F)(i). Pub. L. 114–281, § 102(a)(5), substituted “[section 6442(b)(1)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6442/b/1/A/ii&num=0&edition=prelim)” for “[section 6442(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6442/b/1&num=0&edition=prelim)” and inserted at end “Any country in which a non-state actor designated as an entity of particular concern for religious freedom under [section 6442a of this title](./chapter-073-international-religious-freedom.md#section-6442a) is located shall be included in this section of the report.”
+
 2004—Subsec. (b)(1)(A)(iv). Pub. L. 108–332 added cl. (iv).
 
 2002—Subsec. (b)(1)(B). Pub. L. 107–228 inserted “including policies that discriminate against particular religious groups or members of such groups,” after “the existence of government policies violating religious freedom,”.
@@ -330,9 +418,24 @@ It is the sense of the Congress that—
 ## § 6432. Prisoner lists and issue briefs on religious freedom concerns
 **(a) Sense of Congress** To encourage involvement with religious freedom concerns at every possible opportunity and by all appropriate representatives of the United States Government, it is the sense of the Congress that officials of the executive branch of Government should promote increased advocacy on such issues during meetings between foreign dignitaries and executive branch officials or Members of Congress.
 
-**(b) Prisoner lists and issue briefs on religious freedom concerns** The Secretary of State, in consultation with the Ambassador at Large, the Assistant Secretary of State for Democracy, Human Rights and Labor, United States chiefs of mission abroad, regional experts, and nongovernmental human rights and religious groups, shall prepare and maintain issue briefs on religious freedom, on a country-by-country basis, consisting of lists of persons believed to be imprisoned, detained, or placed under house arrest for their religious faith, together with brief evaluations and critiques of the policies of the respective country restricting religious freedom. In considering the inclusion of names of prisoners on such lists, the Secretary of State shall exercise appropriate discretion, including concerns regarding the safety, security, and benefit to such prisoners.
+**(b) Prisoner lists and issue briefs on religious freedom concerns** The Secretary of State, in consultation with the Ambassador at Large, the Assistant Secretary of State for Democracy, Human Rights and Labor, United States chiefs of mission abroad, regional experts, and nongovernmental human rights and religious groups, shall prepare and maintain issue briefs on religious freedom, on a country-by-country basis, consisting of lists of persons believed to be imprisoned, detained, or placed under house arrest for their religious activities, religious freedom advocacy, or efforts to protect and advance the universally recognized right to the freedom of religion, together with brief evaluations and critiques of the policies of the respective country restricting religious freedom. In considering the inclusion of names of prisoners on such lists, the Secretary of State shall exercise appropriate discretion, including concerns regarding the safety, security, and benefit to such prisoners.
 
-**(c) Availability of information** The Secretary shall, as appropriate, provide religious freedom issue briefs under subsection (b) to executive branch officials and Members of Congress in anticipation of bilateral contacts with foreign leaders, both in the United States and abroad.
+**(c) Availability of information** The Secretary shall make available religious freedom issue briefs under subsection (b) to executive branch officials and Members of Congress in anticipation of bilateral contacts with foreign leaders, both in the United States and abroad.
+
+**(d) Victims list maintained by the United States Commission on International Religious Freedom**
+
+(1) **In general** — The Commission shall make publicly available, to the extent practicable, online and in official publications, lists of persons it determines are imprisoned or detained, have disappeared, been placed under house arrest, been tortured, or subjected to forced renunciations of faith for their religious activity or religious freedom advocacy by the government of a foreign country that the Commission recommends for designation as a country of particular concern for religious freedom under [section 6442(b)(1)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6442/b/1/A/ii&num=0&edition=prelim) or by a non-state actor that the Commission recommends for designation as an entity of particular concern for religious freedom under [section 6442a of this title](./chapter-073-international-religious-freedom.md#section-6442a) and include as much publicly available information as practicable on the conditions and circumstances of such persons.
+
+(2) **Discretion** — In compiling lists under paragraph (1), the Commission shall exercise all appropriate discretion, including consideration of the safety and security of, and benefit to, the persons who may be included on the lists and the families of such persons.
+
+### Statutory Notes
+
+#### Amendments
+2016—Subsec. (b). Pub. L. 114–281, § 104(1), substituted “activities, religious freedom advocacy, or efforts to protect and advance the universally recognized right to the freedom of religion,” for “faith,”.
+
+Subsec. (c). Pub. L. 114–281, § 104(2), substituted “make available” for “, as appropriate, provide”.
+
+Subsec. (d). Pub. L. 114–281, § 104(3), added subsec. (d).
 
 
 <a id="section-6432a"></a>
@@ -440,6 +543,9 @@ Subsec. (h). Pub. L. 106–55, § 1(a)(3), amended heading and text of subsec. (
 #### Amendments
 1999—Subsec. (f). Pub. L. 106–55 struck out heading and text of subsec. (f). Text read as follows: “The Commission may, for the purpose of carrying out its duties under this subchapter, hold hearings, sit and act at times and places in the United States, take testimony, and receive evidence as the Commission considers advisable to carry out the purposes of this chapter.”
 
+#### Sense of Congress
+Pub. L. 114–71, § 2, Oct. 16, 2015, 129 Stat. 563, provided that: “It is the sense of the Congress that the United States Commission on International Religious Freedom— “(1) was created by Congress to independently assess and to accurately and unflinchingly describe threats to religious freedom around the world; and “(2) in carrying out its prescribed duties, should use its authorized powers to ensure that efforts by the United States to advance religious freedom abroad are timely, appropriate to the circumstances, prudent, and effective.”
+
 
 <a id="section-6433"></a>
 ## § 6433. Powers of the Commission
@@ -464,8 +570,8 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 A prior section 203 of Pub. L. 105–292 was renumbered section 205 and is classified to [section 6433 of this title](./chapter-073-international-religious-freedom.md#section-6433).
 
 
-<a id="section-6434"></a>
-## § 6434. Commission personnel matters
+<a id="section-6433a"></a>
+## § 6433a. Commission personnel matters
 **(a) In general** The Commission may, without regard to the civil service laws and regulations, appoint and terminate an Executive Director and such other additional personnel as may be necessary to enable the Commission to perform its duties. The decision to employ or terminate an Executive Director shall be made by an affirmative vote of at least six of the nine members of the Commission.
 
 **(b) Compensation** The Commission may fix the compensation of the Executive Director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates, except that the rate of pay for the Executive Director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
@@ -499,8 +605,8 @@ A prior section 204 of Pub. L. 105–292 was renumbered section 206 and is class
 Pub. L. 112–75, § 3(b), Dec. 23, 2011, 125 Stat. 1273, provided that: “Any administrative or judicial claim or action pending on the date of the enactment of this Act [Dec. 23, 2011] may be maintained under section 204(g) of the International Religious Freedom Act of 1998 [[22 U.S.C. 6432b(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6432b/g&num=0&edition=prelim)], as added by subsection (a).”
 
 
-<a id="section-6435"></a>
-## § 6435. Report of Commission
+<a id="section-6434"></a>
+## § 6434. Report of Commission
 **(a) In general** Not later than May 1 of each year, the Commission shall submit a report to the President, the Secretary of State, and Congress setting forth its recommendations for United States policy options based on its evaluations under [section 6432 of this title](./chapter-073-international-religious-freedom.md#section-6432).
 
 **(b) Classified form of report** The report may be submitted in classified form, together with a public summary of recommendations, if the classification of information would further the purposes of this chapter.
@@ -514,6 +620,76 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Prior Provisions
 A prior section 205 of Pub. L. 105–292 was renumbered section 207 and is classified to [section 6435 of this title](./chapter-073-international-religious-freedom.md#section-6435).
+
+
+<a id="section-6435"></a>
+## § 6435. Strategic plan
+**(a) Definitions** In this section:
+
+(1) **Appropriate congressional committees** — The term “appropriate congressional committees” means—
+
+  (A) the Committee on Foreign Relations of the Senate;
+
+  (B) the Committee on Foreign Affairs of the House of Representatives;
+
+  (C) the Committee on Appropriations of the Senate; and
+
+  (D) the Committee on Appropriations of the House of Representatives.
+
+(2) **Commission** — The term “Commission” means the United States Commission on International Religious Freedom established under [section 6431 of this title](./chapter-073-international-religious-freedom.md#section-6431).
+
+(3) **Commissioner** — The term “Commissioner” means a member of the Commission.
+
+(4) **Vice Chair** — The term “Vice Chair” means the Vice Chair of the Commission who was appointed to such position by an elected official from the political party that is different from the political party of the elected official who appointed the Chair of the Commission.
+
+**(b) Strategic policy and organizational review planning process** Not later than 60 days after October 16, 2015, and not less frequently than biennially thereafter, the Chair and Vice Chair of the Commission, in coordination with the Commissioners, the Ambassador-at-Large for International Religious Freedom, Commission staff, and others jointly selected by the Chair and Vice Chair, shall carry out a strategic policy and organizational review planning process that includes—
+
+(1) a review of the duties set forth in [section 6432 of this title](./chapter-073-international-religious-freedom.md#section-6432) and the powers set forth in [section 6432a of this title](./chapter-073-international-religious-freedom.md#section-6432a);
+
+(2) the preparation of a written description of prioritized actions that the Commission is required to complete to fulfill the strategic plan required under subsection (d);
+
+(3) a review of the scope, content, and timing of the Commission’s annual report and any required changes; and
+
+(4) a review of the personnel policies set forth in [section 6432b of this title](./chapter-073-international-religious-freedom.md#section-6432b) and any required changes to such policies.
+
+**(c) Unanimous agreement**
+
+(1) **In general** — To the greatest extent possible, the Chair, Vice Chair, and all of the Commissioners shall ensure that this section is implemented in a manner that results in unanimous agreement among the Commissioners with regard to—
+
+  (A) the strategic policy and organizational review planning process required under subsection (b); and
+
+  (B) the strategic plan required under subsection (d).
+
+(2) **Alternative approval process** — If unanimous agreement under paragraph (1) is not possible, items for inclusion in the strategic plan may, at the joint discretion of the Chair and Vice Chair, be approved by an affirmative vote of—
+
+  (A) a majority of Commissioners appointed by an elected official from the political party of the President; and
+
+  (B) a majority of Commissioners appointed by an elected official from the political party that is not the party of the President.
+
+**(d) Submission of strategic plan** Not later than 180 days after October 16, 2015, and not less frequently than biennially thereafter, the Chair and Vice Chair of the Commission shall jointly submit, to the appropriate congressional committees, a written strategic plan that includes—
+
+(1) a description of prioritized actions for the Commission for a period of time to be specified by the Commissioners;
+
+(2) a description of any changes the Commission considers necessary with regard to the scope, content, and timing of the Commission’s annual report;
+
+(3) a description of any changes the Commission considers necessary with regard to personnel matters; and
+
+(4) the Commission’s funding requirements for the period covered by the strategic plan.
+
+**(e) Pending issues** The strategic plan required under subsection (d) may identify any issues or proposals that have not yet been resolved by the Commission.
+
+**(f) Implementation of personnel provisions and annual report** Notwithstanding section 11 So in original. Probably should be “sections”. 6432b(a) and 6533(a) of this title, the Commission is authorized to implement provisions related to personnel and the Commission’s annual report that are included in the strategic plan submitted pursuant to this section.
+
+**(g) Congressional oversight** Upon request, the Commission shall—
+
+(1) make available for inspection any information and documents requested by the appropriate congressional committees; and
+
+(2) respond to any requests to provide testimony before the appropriate congressional committees.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the United States Commission on International Religious Freedom Reauthorization Act of 2015, and not as part of the International Religious Freedom Act of 1998 which comprises this chapter.
 
 
 <a id="section-6435a"></a>
@@ -532,13 +708,28 @@ A prior section 206 of Pub. L. 105–292 was renumbered section 209 and is class
 
 <a id="section-6436"></a>
 ## § 6436. Authorization of appropriations
-**(a) In general** There are authorized to be appropriated to the Commission $3,000,000 for each of the fiscal years 2012 through 2015 to carry out the provisions of this subchapter.
+**(a) In general** There are authorized to be appropriated to the Commission $3,500,000 for each of the fiscal years 2016 to 2019 to carry out the provisions of this chapter and [section 6433a of this title](./chapter-073-international-religious-freedom.md#section-6433a).
 
-**(b) Availability of funds** Amounts authorized to be appropriated under subparagraph (a) are authorized to remain available until expended but not later than the date of termination of the Commission.
+**(b) Availability of funds** Amounts authorized to be appropriated under subsection (a) shall remain available until the earlier of—
+
+(1) the date on which they have been expended; or
+
+(2) the date on which the Commission is terminated under [section 6436 of this title](./chapter-073-international-religious-freedom.md#section-6436).
+
+**(c) Limitation** In each fiscal year, the Commission shall only be authorized to expend amounts that have been appropriated pursuant to subsection (a) if the Commission—
+
+(1) complies with the requirements set forth in [section 6433a of this title](./chapter-073-international-religious-freedom.md#section-6433a); and
+
+(2) submits the annual financial report required under [section 6435a(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6435a/e&num=0&edition=prelim) to the appropriate congressional committees.
 
 ### Statutory Notes
 
+#### References in Text
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6401 of this title](./chapter-073-international-religious-freedom.md#section-6401) and Tables.
+
 #### Amendments
+2015—Pub. L. 114–71 amended section generally. Prior to amendment, section authorized appropriations for fiscal years 2012 through 2015.
+
 2014—Subsec. (a). Pub. L. 113–271 substituted “2015” for “2014”.
 
 2011—Subsec. (a). Pub. L. 112–75 substituted “for each of the fiscal years 2012 through 2014” for “for the fiscal year 2003”.
@@ -577,7 +768,7 @@ Pub. L. 113–271, § 2, Dec. 18, 2014, 128 Stat. 2951, provided that: “The am
 
 (1) **In general** — Subject to the availability of appropriations, the Commission may contract with and compensate Government agencies or persons for the conduct of activities necessary to the discharge of its functions under this subchapter. Any such person shall be hired without interruption or loss of civil service or Foreign Service status or privilege. The Commission may procure temporary and intermittent services under the authority of [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim), except that the Commission may not expend more than $250,000 in any fiscal year to procure such services.
 
-(2) **Expert study** — In the case of a study requested under [section 6474 of this title](./chapter-073-international-religious-freedom.md#section-6474), the Commission may, subject to the availability of appropriations, contract with experts and shall provide the funds for such a study. The Commission shall not be required to provide the funds for that part of the study conducted by the Comptroller General of the United States.
+(2) **Expert study** — In the case of a study requested under section 6474 22 See References in Text note below. of this title, the Commission may, subject to the availability of appropriations, contract with experts and shall provide the funds for such a study. The Commission shall not be required to provide the funds for that part of the study conducted by the Comptroller General of the United States.
 
 **(d) Gifts**
 
@@ -604,6 +795,8 @@ Pub. L. 113–271, § 2, Dec. 18, 2014, 128 Stat. 2951, provided that: “The am
 ### Statutory Notes
 
 #### References in Text
+[Section 6474 of this title](./chapter-073-international-religious-freedom.md#section-6474), referred to in subsec. (c)(2), was in the original a reference to section 605 of Pub. L. 105–292, which was renumbered section 606 by Pub. L. Pub. L. 114–281, title V, § 501(1), Dec. 16, 2016, 130 Stat. 1437.
+
 The Foreign Gifts and Decorations Act of 1966, referred to in subsec. (d)(2)(E), is Pub. L. 89–673, Oct. 15, 1966, 80 Stat. 952, as amended, which was classified principally to chapter 37 (§ 2621 et seq.) of this title. The Act was substantially repealed, except for provisions which are classified to [section 2625 of this title](./chapter-037-foreign-gifts-and-decorations.md#section-2625), and with limited applicability, to [section 2621 of this title](./chapter-037-foreign-gifts-and-decorations.md#section-2621), and was restated in [section 7342 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7342&num=0&edition=prelim), Government Organization and Employees, by Pub. L. 90–83, § 10(b), Sept. 11, 1967, 91 Stat. 224. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
@@ -617,11 +810,13 @@ Subsec. (e). Pub. L. 112–75, § 5(2), substituted “Foreign Affairs” for �
 <a id="section-6442"></a>
 ## § 6442. Termination
 
-The Commission shall terminate on September 30, 2015.
+The Commission shall terminate on September 30, 2019.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Pub. L. 114–71 substituted “September 30, 2019” for “September 30, 2015”.
+
 2014—Pub. L. 113–271 substituted “September 30, 2015” for “September 30, 2014”.
 
 2011—Pub. L. 112–75 substituted “September 30, 2014” for “September 30, 2011”.
@@ -637,8 +832,8 @@ Amendment by Pub. L. 113–271 effective as if enacted on Dec. 10, 2014, see sec
 Pub. L. 112–74, div. I, title I, Dec. 23, 2011, 125 Stat. 1173, provided in part: “That section 209 of the International Religious Freedom Act of 1998 ([22 U.S.C. 6436](./chapter-073-international-religious-freedom.md#section-6436)) shall be applied by substituting ‘September 30, 2012’ for ‘September 30, 2011’ ”.
 
 
-<a id="section-6443"></a>
-## § 6443. Presidential actions in response to violations of religious freedom
+<a id="section-6442a"></a>
+## § 6442a. Presidential actions in response to violations of religious freedom
 **(a) Response to violations of religious freedom**
 
 (1) **In general**
@@ -703,8 +898,8 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 William J. Clinton.
 
 
-<a id="section-6444"></a>
-## § 6444. Presidential actions in response to particularly severe violations of religious freedom
+<a id="section-6443"></a>
+## § 6443. Presidential actions in response to particularly severe violations of religious freedom
 **(a) Response to particularly severe violations of religious freedom**
 
 (1) **United States policy** — It shall be the policy of the United States—
@@ -719,19 +914,33 @@ William J. Clinton.
 
 (1) **Annual review**
 
-  (A) *In general* — Not later than September 1 of each year, the President shall review the status of religious freedom in each foreign country to determine whether the government of that country has engaged in or tolerated particularly severe violations of religious freedom in that country during the preceding 12 months or since the date of the last review of that country under this subparagraph, whichever period is longer. The President shall designate each country the government of which has engaged in or tolerated violations described in this subparagraph as a country of particular concern for religious freedom.
+  (A) *In general* — Not later than 90 days after the date on which each Annual Report is submitted under [section 6412(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6412/b&num=0&edition=prelim), the President shall—
+
+    (i) review the status of religious freedom in each foreign country to determine whether the government of that country has engaged in or tolerated particularly severe violations of religious freedom in each such country during the preceding 12 months or longer;
+
+    (ii) designate each country the government of which has engaged in or tolerated violations described in clause (i) as a country of particular concern for religious freedom; and
+
+    (iii) designate each country that engaged in or tolerated severe violations of religious freedom during the previous year, but does not meet, in the opinion of the President at the time of publication of the Annual Report, all of the criteria described in [section 6402(15) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6402/15&num=0&edition=prelim) for designation under clause (ii) as being placed on a “Special Watch List”.
 
   (B) *Basis of review* — Each review conducted under subparagraph (A) shall be based upon information contained in the latest Country Reports on Human Rights Practices, the Annual Report, and on any other evidence available and shall take into account any findings or recommendations by the Commission with respect to the foreign country.
 
-  (C) *Implementation* — Any review under subparagraph (A) of a foreign country may take place singly or jointly with the review of one or more countries and may take place at any time prior to September 1 of the respective year.
+  (C) *Implementation* — Any review under subparagraph (A) of a foreign country may take place singly or jointly with the review of one or more countries and may take place at any time before the date on which each Annual Report is submitted under [section 6412(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6412/b&num=0&edition=prelim).
 
 (2) **Determinations of responsible parties** — For the government of each country designated as a country of particular concern for religious freedom under paragraph (1)(A), the President shall seek to determine the agency or instrumentality thereof and the specific officials thereof that are responsible for the particularly severe violations of religious freedom engaged in or tolerated by that government in order to appropriately target Presidential actions under this section in response.
 
-(3) **Congressional notification** — Whenever the President designates a country as a country of particular concern for religious freedom under paragraph (1)(A), the President shall, as soon as practicable after the designation is made, transmit to the appropriate congressional committees—
+(3) **Congressional notification**
 
-  (A) the designation of the country, signed by the President; and
+  (A) *In general* — Whenever the President designates a country as a country of particular concern for religious freedom under paragraph (1)(A)(ii), the President, not later than 90 days after such designation, shall submit to the appropriate congressional committees—
 
-  (B) the identification, if any, of responsible parties determined under paragraph (2).
+    (i) the designation of the country, signed by the President;
+
+    (ii) the identification, if any, of responsible parties determined under paragraph (2); and
+
+    (iii) a description of the actions taken under subsection (c), the purposes of the actions taken, and the effectiveness of the actions taken.
+
+  (B) *Removal of designation* — A country that is designated as a country of particular concern for religious freedom under paragraph (1)(A)(ii) shall retain such designation until the President determines and reports to the appropriate congressional committees that the country should no longer be so designated.
+
+(4) **Effect on designation as country of particular concern** — The presence or absence of a country from the Special Watch List in any given year shall not preclude the designation of such country as a country of particular concern for religious freedom under paragraph (1)(A)(ii) in any such year.
 
 **(c) Presidential actions with respect to countries of particular concern for religious freedom**
 
@@ -768,7 +977,7 @@ William J. Clinton.
 
   (C) the President reports to Congress the information described in section 6444(a)(1), (2), (3), and (4) of this title regarding the actions in effect with respect to the country.
 
-(5) **Exception for ongoing, multiple, broad-based sanctions in response to human rights violations** — At the time the President determines a country to be a country of particular concern, if that country is already subject to multiple, broad-based sanctions imposed in significant part in response to human rights abuses, and such sanctions are ongoing, the President may determine that one or more of these sanctions also satisfies the requirements of this subsection. In a report to Congress pursuant to section 6444(a)(1), (2), (3), and (4) of this title, and, as applicable, to [section 6448 of this title](./chapter-073-international-religious-freedom.md#section-6448), the President must designate the specific sanction or sanctions which he determines satisfy the requirements of this subsection. The sanctions so designated shall remain in effect subject to [section 6449 of this title](./chapter-073-international-religious-freedom.md#section-6449).
+(5) **Exception for ongoing, multiple, broad-based sanctions in response to human rights violations** — At the time the President determines a country to be a country of particular concern, if that country is already subject to multiple, broad-based sanctions imposed in significant part in response to human rights abuses, and such sanctions are ongoing, the President may determine that one or more of these sanctions also satisfies the requirements of this subsection. In a report to Congress pursuant to section 6444(a)(1), (2), (3), and (4) of this title, and, as applicable, to [section 6448 of this title](./chapter-073-international-religious-freedom.md#section-6448), the President shall designate the specific sanction or sanctions that the President determines satisfy the requirements under this subsection and include a description of the impact of such sanction or sanctions on each country. The sanctions so designated shall remain in effect subject to [section 6449 of this title](./chapter-073-international-religious-freedom.md#section-6449).
 
 **(d) Statutory construction** A determination under this chapter, or any amendment made by this chapter, that a foreign country has engaged in or tolerated particularly severe violations of religious freedom shall not be construed to require the termination of assistance or other activities with respect to that country under any other provision of law, including section 2151n or 2304 of this title.
 
@@ -780,11 +989,66 @@ This subchapter, referred to in subsec. (c)(2)(A), was in the original “this t
 This chapter, referred to in subsecs. (c)(4) and (d), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6401 of this title](./chapter-073-international-religious-freedom.md#section-6401) and Tables.
 
 #### Amendments
+2016—Subsec. (b)(1)(A). Pub. L. 114–281, § 302(1)(A)(i), amended subpar. (A) generally. Prior to amendment, text read as follows: “Not later than September 1 of each year, the President shall review the status of religious freedom in each foreign country to determine whether the government of that country has engaged in or tolerated particularly severe violations of religious freedom in that country during the preceding 12 months or since the date of the last review of that country under this subparagraph, whichever period is longer. The President shall designate each country the government of which has engaged in or tolerated violations described in this subparagraph as a country of particular concern for religious freedom.”
+
+Subsec. (b)(1)(C). Pub. L. 114–281, § 302(1)(A)(ii), substituted “before the date on which each Annual Report is submitted under [section 6412(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6412/b&num=0&edition=prelim)” for “prior to September 1 of the respective year”.
+
+Subsec. (b)(3). Pub. L. 114–281, § 302(1)(B), amended par. (3) generally. Prior to amendment, text read as follows: “Whenever the President designates a country as a country of particular concern for religious freedom under paragraph (1)(A), the President shall, as soon as practicable after the designation is made, transmit to the appropriate congressional committees—
+
+“(A) the designation of the country, signed by the President; and
+
+“(B) the identification, if any, of responsible parties determined under paragraph (2).”
+
+Subsec. (b)(4). Pub. L. 114–281, § 302(1)(C), added par. (4).
+
+Subsec. (c)(5). Pub. L. 114–281, § 302(2), substituted “the President shall designate the specific sanction or sanctions that the President determines satisfy the requirements under this subsection and include a description of the impact of such sanction or sanctions on each country.” for “the President must designate the specific sanction or sanctions which he determines satisfy the requirements of this subsection.”
+
 1999—Subsec. (c)(1). Pub. L. 106–55, § 2(a)(1), substituted “(4), and (5)” for “and (4)” in introductory provisions.
 
 Subsec. (c)(4). Pub. L. 106–55, § 2(a)(2)(A), inserted “under this chapter” after “Exception for ongoing Presidential action” in heading.
 
 Subsec. (c)(4)(B) to (D), (5). Pub. L. 106–55, § 2(a)(2)(B)–(D), inserted “and” at end of subpar. (B), substituted period for “; and” at end of subpar. (C), redesignated subpar. (D) as par. (5), inserted par. heading, and substituted “At the time” for “at the time”.
+
+
+<a id="section-6444"></a>
+## § 6444. Non-state actor designations
+**(a) In general** The President, concurrent with the annual foreign country review required under section 402(b)(1)(A) of the International Religious Freedom Act of 1998 ([22 U.S.C. 6442(b)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6442/b/1/A&num=0&edition=prelim)), shall—
+
+(1) review and identify any non-state actors operating in any such reviewed country or surrounding region that have engaged in particularly severe violations of religious freedom; and
+
+(2) designate, in a manner consistent with such Act [[22 U.S.C. 6401](./chapter-073-international-religious-freedom.md#section-6401) et seq.], each such non-state actor as an entity of particular concern for religious freedom.
+
+**(b) Report** Whenever the President designates a non-state actor under subsection (a) as an entity of particular concern for religious freedom, the President, as soon as practicable after the designation is made, shall submit a report to the appropriate congressional committees that describes the reasons for such designation.
+
+**(c) Actions** The President should take specific actions, when practicable, to address severe violations of religious freedom of non-state actors that are designated under subsection (a)(2).
+
+**(d) Department of State annual report** The Secretary of State should include information detailing the reasons the President designated a non-state actor as an entity of particular concern for religious freedom under subsection (a) in the Annual Report required under section 102(b)(1) of the International Religious Freedom Act of 1998 ([22 U.S.C. 6412(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6412/b/1&num=0&edition=prelim)).
+
+**(e) Sense of Congress** It is the sense of Congress that—
+
+(1) the Secretary of State should work with Congress and the U.S. Commission on International Religious Freedom—
+
+  (A) to create new political, financial, and diplomatic tools to address severe violations of religious freedom by non-state actors; and
+
+  (B) to update the actions the President can take under section 405 of the International Religious Freedom Act of 1998 ([22 U.S.C. 6445](./chapter-073-international-religious-freedom.md#section-6445));
+
+(2) governments must ultimately be held accountable for the abuses that occur in their territories; and
+
+(3) any actions the President takes after designating a non-state actor as an entity of particular concern should also involve high-level diplomacy with the government of the country in which the non-state actor is operating.
+
+**(f) Determinations of responsible parties** In order to appropriately target Presidential actions under the International Religious Freedom Act of 1998 ([22 U.S.C. 6401](./chapter-073-international-religious-freedom.md#section-6401) et seq.), the President, with respect to each non-state actor designated as an entity of particular concern for religious freedom under subsection (a), shall seek to determine, to the extent practicable, the specific officials or members that are responsible for the particularly severe violations of religious freedom engaged in or tolerated by such non-state actor.
+
+**(g) Definitions** In this section, the terms “appropriate congressional committees”, “non-state actor”, and “particularly severe violations of religious freedom” have the meanings given such terms in section 3 of the International Religious Freedom Act of 1998 ([22 U.S.C. 6402](./chapter-073-international-religious-freedom.md#section-6402)), as amended by section 3 of this Act.
+
+### Statutory Notes
+
+#### References in Text
+The International Religious Freedom Act of 1998, referred to in subsecs. (a)(2) and (f), is Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6401 of this title](./chapter-073-international-religious-freedom.md#section-6401) and Tables.
+
+Section 3 of this Act, referred to in subsec. (g), means section 3 of Pub. L. 114–281, which amended [section 6402 of this title](./chapter-073-international-religious-freedom.md#section-6402).
+
+#### Codification
+Section was enacted as part of the Frank R. Wolf International Religious Freedom Act, and not as part of the International Religious Freedom Act of 1998 which comprises this chapter.
 
 
 <a id="section-6445"></a>
@@ -824,9 +1088,11 @@ Subsec. (c)(4)(B) to (D), (5). Pub. L. 106–55, § 2(a)(2)(B)–(D), inserted �
 
     (i) the impact upon the foreign government;
 
-    (ii) the impact upon the population of the country; and
+    (ii) the impact upon the population of the country;
 
-    (iii) the impact upon the United States economy and other interested parties.
+    (iii) the impact upon the United States economy and other interested parties; and
+
+    (iv) the impact on the advancement of United States interests in democracy, human rights, and security, and a description of policy tools being applied in the country, including programs that target democratic stability, economic growth, and counterterrorism.
 
   (B) *Authority to withhold disclosure* — The President may withhold part or all of such evaluation from the public but shall provide the entire evaluation to Congress.
 
@@ -835,6 +1101,11 @@ Subsec. (c)(4)(B) to (D), (5). Pub. L. 106–55, § 2(a)(2)(B)–(D), inserted �
 (6) **Description of multilateral negotiations** — A description of multilateral negotiations sought or carried out, if appropriate and applicable.
 
 **(b) Delay in transmittal of report** If, on or before the date that the President is required (but for this subsection) to submit a report under subsection (a) to Congress, the President determines and certifies to Congress that a single, additional period of time not to exceed 90 days is necessary pursuant to section 6441(b)(3) or 6442(c)(3) of this title, then the President shall not be required to submit the report to Congress until the expiration of that period of time.
+
+### Statutory Notes
+
+#### Amendments
+2016—Subsec. (a)(4)(A)(iv). Pub. L. 114–281 added cl. (iv).
 
 
 <a id="section-6447"></a>
@@ -867,7 +1138,7 @@ Subsec. (c)(4)(B) to (D), (5). Pub. L. 106–55, § 2(a)(2)(B)–(D), inserted �
 
 (13) Ordering the heads of the appropriate United States agencies not to issue any (or a specified number of) specific licenses, and not to grant any other specific authority (or a specified number of authorities), to export any goods or technology to the specific foreign government, agency, instrumentality, or official found or determined by the President to be responsible for violations under section 6441 or 6442 of this title, under—
 
-  (A) the Export Administration Act of 1979 [50 U.S.C. App. 2401 et seq.];
+  (A) the Export Administration Act of 1979 [[50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.];
 
   (B) the Arms Export Control Act [[22 U.S.C. 2751](./chapter-039-arms-export-control.md#section-2751) et seq.];
 
@@ -888,7 +1159,7 @@ Subsec. (c)(4)(B) to (D), (5). Pub. L. 106–55, § 2(a)(2)(B)–(D), inserted �
 ### Statutory Notes
 
 #### References in Text
-The Export Administration Act of 1979, referred to in subsec. (a)(13)(A), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+The Export Administration Act of 1979, referred to in subsec. (a)(13)(A), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 The Arms Export Control Act, referred to in subsec. (a)(13)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
@@ -913,27 +1184,48 @@ The President shall not be required to apply or maintain any Presidential action
 
 <a id="section-6449"></a>
 ## § 6449. Presidential waiver
-**(a) In general** Subject to subsection (b), the President may waive the application of any of the actions described in paragraphs (9) through (15) of [section 6445(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6445/a&num=0&edition=prelim) (or commensurate action in substitution thereto) with respect to a country, if the President determines and so reports to the appropriate congressional committees that—
+**(a) In general** Subject to subsection (c), the President may waive, for a single, 180-day period, the application of any of the actions described in paragraphs (9) through (15) of [section 6445(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6445/a&num=0&edition=prelim) (or commensurate action in substitution thereto) with respect to a country, if the President determines and so reports to the appropriate congressional committees that—
 
-(1) the respective foreign government has ceased the violations giving rise to the Presidential action;
+(1) the exercise of such waiver authority would further the purposes of this chapter; or
 
-(2) the exercise of such waiver authority would further the purposes of this chapter; or
+(2) the important national interest of the United States requires the exercise of such waiver authority.
 
-(3) the important national interest of the United States requires the exercise of such waiver authority.
+**(b) Additional authority** Subject to subsection (c), the President may waive, for any additional specified period of time after the 180-day period described in subsection (a), the application of any of the actions described in paragraphs (9) through (15) of [section 6445(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6445/a&num=0&edition=prelim) (or a commensurate substitute action) with respect to a country, if the President determines and reports to the appropriate congressional committees that—
 
-**(b) Congressional notification** Not later than the date of the exercise of a waiver under subsection (a), the President shall notify the appropriate congressional committees of the waiver or the intention to exercise the waiver, together with a detailed justification thereof.
+(1) the respective foreign government has ceased the violations giving rise to the Presidential action; or
+
+(2) the important national interest of the United States requires the exercise of such waiver authority.
+
+**(c) Congressional notification** Not later than the date of the exercise of a waiver under subsection (a) or (b), the President shall notify the appropriate congressional committees of the waiver or the intention to exercise the waiver, together with a detailed justification thereof.
+
+**(d) Sense of Congress** It is the sense of Congress that—
+
+(1) ongoing and persistent waivers of the application of any of the actions described in paragraphs (9) through (15) of [section 6445(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6445/a&num=0&edition=prelim) (or commensurate substitute action) with respect to a country do not fulfill the purposes of this chapter; and
+
+(2) because the promotion of religious freedom is an important interest of United States foreign policy, the President, the Secretary of State, and other executive branch officials, in consultation with Congress, should seek to find ways to address existing violations, on a case-by-case basis, through the actions described in [section 6445 of this title](./chapter-073-international-religious-freedom.md#section-6445) or other commensurate substitute action.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a)(2), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6401 of this title](./chapter-073-international-religious-freedom.md#section-6401) and Tables.
+This chapter, referred to in subsecs. (a)(1) and (d)(1), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6401 of this title](./chapter-073-international-religious-freedom.md#section-6401) and Tables.
+
+#### Amendments
+2016—Subsec. (a). Pub. L. 114–281, § 304(1)(A), (B), in introductory provisions, substituted “subsection (c)” for “subsection (b)” and inserted “, for a single, 180-day period,” after “may waive”.
+
+Subsec. (a)(1) to (3). Pub. L. 114–281, § 304(1)(C), (D), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “the respective foreign government has ceased the violations giving rise to the Presidential action;”.
+
+Subsec. (b). Pub. L. 114–281, § 304(3), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 114–281, § 304(2), (4), redesignated subsec. (b) as (c) and inserted “or (b)” after “subsection (a)”.
+
+Subsec. (d). Pub. L. 114–281, § 304(5), added subsec. (d).
 
 
 <a id="section-6450"></a>
 ## § 6450. Publication in Federal Register
 **(a) In general** Subject to subsection (b), the President shall cause to be published in the Federal Register the following:
 
-(1) **Determinations of governments, officials, and entities of particular concern** — Any designation of a country of particular concern for religious freedom under [section 6442(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6442/b/1&num=0&edition=prelim), together with, when applicable and to the extent practicable, the identities of the officials or entities determined to be responsible for the violations under [section 6442(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6442/b/2&num=0&edition=prelim).
+(1) **Determinations of governments, officials, and entities of particular concern** — Any designation of a country of particular concern for religious freedom under [section 6442(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6442/b/1&num=0&edition=prelim), together with, when applicable and to the extent practicable, the identities of the officials or entities determined to be responsible for the violations under [section 6442(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6442/b/2&num=0&edition=prelim). Any designation of a non-state actor as an entity of particular concern for religious freedom under [section 6442a of this title](./chapter-073-international-religious-freedom.md#section-6442a) and, if applicable and to the extent practicable, the identities of individuals determined to be responsible for violations described in subsection (f) of such section.
 
 (2) **Presidential actions** — A description of any Presidential action under paragraphs (9) through (15) of [section 6445(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6445/a&num=0&edition=prelim) (or commensurate action in substitution thereto) and the effective date of the Presidential action.
 
@@ -948,6 +1240,9 @@ This chapter, referred to in subsec. (a)(2), was in the original “this Act”,
 (2) would not further the purposes of this chapter.
 
 ### Statutory Notes
+
+#### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–281 inserted at end “Any designation of a non-state actor as an entity of particular concern for religious freedom under [section 6442a of this title](./chapter-073-international-religious-freedom.md#section-6442a) and, if applicable and to the extent practicable, the identities of individuals determined to be responsible for violations described in subsection (f) of such section.”
 
 #### References in Text
 This chapter, referred to in subsec. (b)(2), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6401 of this title](./chapter-073-international-religious-freedom.md#section-6401) and Tables.
@@ -981,7 +1276,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 <a id="section-6472"></a>
 ## § 6472. Exports of certain items used in particularly severe violations of religious freedom
-**(a) Mandatory licensing** Notwithstanding any other provision of law, the Secretary of Commerce, with the concurrence of the Secretary of State, shall include on the list of crime control and detection instruments or equipment controlled for export and reexport under [section 2405(n) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2405/n&num=0&edition=prelim), Appendix, or under any other provision of law, items being exported or reexported to countries of particular concern for religious freedom that the Secretary of Commerce, with the concurrence of the Secretary of State, and in consultation with appropriate officials including the Assistant Secretary of State for Democracy, Human Rights and Labor and the Ambassador at Large, determines are being used or are intended for use directly and in significant measure to carry out particularly severe violations of religious freedom.
+**(a) Mandatory licensing** Notwithstanding any other provision of law, the Secretary of Commerce, with the concurrence of the Secretary of State, shall include on the list of crime control and detection instruments or equipment controlled for export and reexport under [section 4605(n) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/n&num=0&edition=prelim) or under any other provision of law, items being exported or reexported to countries of particular concern for religious freedom that the Secretary of Commerce, with the concurrence of the Secretary of State, and in consultation with appropriate officials including the Assistant Secretary of State for Democracy, Human Rights and Labor and the Ambassador at Large, determines are being used or are intended for use directly and in significant measure to carry out particularly severe violations of religious freedom.
 
 **(b) Licensing ban** The prohibition on the issuance of a license for export of crime control and detection instruments or equipment under [section 2304(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2304/a/2&num=0&edition=prelim) shall apply to the export and reexport of any item included pursuant to subsection (a) on the list of crime control instruments.
 
@@ -997,8 +1292,8 @@ The Annual Report, together with other relevant documentation, shall serve as a 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1551&num=0&edition=prelim), Aliens and Nationality.
 
 
-<a id="section-6474"></a>
-## § 6474. Reform of refugee policy
+<a id="section-6473a"></a>
+## § 6473a. Reform of refugee policy
 **(a) , (b) Omitted**
 
 **(c) Guidelines for refugee-processing posts**
@@ -1025,8 +1320,8 @@ Subsec. (c)(3). Pub. L. 106–113, § 1000(a)(7) [div. A, title II, § 253(b)], 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1551&num=0&edition=prelim), Aliens and Nationality.
 
 
-<a id="section-6481"></a>
-## § 6481. Reform of asylum policy
+<a id="section-6474"></a>
+## § 6474. Reform of asylum policy
 **(a) Guidelines** The Attorney General and the Secretary of State shall develop guidelines to ensure that persons with potential biases against individuals on the grounds of religion, race, nationality, membership in a particular social group, or political opinion, including interpreters and personnel of airlines owned by governments known to be involved in practices which would meet the definition of persecution under international refugee law, shall not in any manner be used to interpret conversations between aliens and inspection or asylum officers.
 
 **(b) Training for asylum and immigration officers** The Attorney General, in consultation with the Secretary of State, the Ambassador at Large, and other relevant officials such as the Director of the George P. Shultz National Foreign Affairs Training Center, shall provide training to all officers adjudicating asylum cases, and to immigration officers performing duties under [section 1225(b) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1225/b&num=0&edition=prelim), on the nature of religious persecution abroad, including country-specific conditions, instruction on the internationally recognized right to freedom of religion, instruction on methods of religious persecution practiced in foreign countries, and applicable distinctions within a country in the treatment of various religious practices and believers.
@@ -1040,3 +1335,97 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1551&num=0&edition=prelim), Aliens and Nationality.
+
+
+<a id="section-6481"></a>
+## § 6481. Designated persons list for particularly severe violations of religious freedom
+**(a) List**
+
+(1) **In general** — The Secretary of State, in coordination with the Ambassador at Large and in consultation with relevant government and nongovernment experts, shall establish and maintain a list of foreign individuals to whom a consular post has denied a visa on the grounds of particularly severe violations of religious freedom under [section 1182(a)(2)(G) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1182/a/2/G&num=0&edition=prelim), or who are subject to financial sanctions or other measures for particularly severe violations of freedom religion.
+
+(2) **Reference** — The list required under paragraph (1) shall be known as the “Designated Persons List for Particularly Severe Violations of Religious Freedom”.
+
+**(b) Report**
+
+(1) **In general** — The Secretary of State shall submit a report to the appropriate congressional committees that contains the list required under subsection (a), including, with respect to each foreign individual on the list—
+
+  (A) the name of the individual and a description of the particularly severe violation of religious freedom committed by the individual;
+
+  (B) the name of the country or other location in which such violation took place; and
+
+  (C) a description of the actions taken pursuant to this chapter or any other Act or Executive order in response to such violation.
+
+(2) **Submission and updates** — The Secretary of State shall submit to the appropriate congressional committees—
+
+  (A) the initial report required under paragraph (1) not later than 180 days after December 16, 2016; and
+
+  (B) updates to the report every 180 days thereafter and as new information becomes available.
+
+(3) **Form** — The report required under paragraph (1) should be submitted in unclassified form but may contain a classified annex.
+
+(4) **Definition** — In this subsection, the term “appropriate congressional committees” means—
+
+  (A) the Committee on Foreign Relations of the Senate;
+
+  (B) the Committee on Appropriations of the Senate;
+
+  (C) the Committee on Banking, Housing, and Urban Affairs of the Senate;
+
+  (D) the Committee on Foreign Affairs of the House of Representatives;
+
+  (E) the Committee on Appropriations of the House of Representatives; and
+
+  (F) the Committee on Financial Services of the House of Representatives.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (b)(1)(C), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6401 of this title](./chapter-073-international-religious-freedom.md#section-6401) and Tables.
+
+#### Prior Provisions
+A prior section 605 of Pub. L. 105–292 was renumbered section 606 and is classified to [section 6474 of this title](./chapter-073-international-religious-freedom.md#section-6474).
+
+
+<a id="section-6482"></a>
+## § 6482. Studies on effect of expedited removal provisions on asylum claims
+**(a) Studies**
+
+(1) **Commission request for participation by experts on refugee and asylum issues** — If the Commission so requests, the Attorney General shall invite experts designated by the Commission, who are recognized for their expertise and knowledge of refugee and asylum issues, to conduct a study, in cooperation with the Comptroller General of the United States, to determine whether immigration officers described in paragraph (2) are engaging in any of the conduct described in such paragraph.
+
+(2) **Duties of Comptroller General** — The Comptroller General of the United States shall conduct a study alone or, upon request by the Commission, in cooperation with experts designated by the Commission, to determine whether immigration officers performing duties under [section 1225(b) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1225/b&num=0&edition=prelim) with respect to aliens who may be eligible to be granted asylum are engaging in any of the following conduct:
+
+  (A) Improperly encouraging such aliens to withdraw their applications for admission.
+
+  (B) Incorrectly failing to refer such aliens for an interview by an asylum officer for a determination of whether they have a credible fear of persecution (within the meaning of [section 1225(b)(1)(B)(v) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1225/b/1/B/v&num=0&edition=prelim)).
+
+  (C) Incorrectly removing such aliens to a country where they may be persecuted.
+
+  (D) Detaining such aliens improperly or in inappropriate conditions.
+
+**(b) Reports**
+
+(1) **Participation by experts** — In the case of a Commission request under subsection (a), the experts designated by the Commission under that subsection may submit a report to the committees described in paragraph (2). Such report may be submitted with the Comptroller General’s report under subsection (a)(2) or independently.
+
+(2) **Duties of Comptroller General** — Not later than September 1, 2000, the Comptroller General of the United States shall submit to the Committees on the Judiciary of the House of Representatives and the Senate, the Committee on International Relations of the House of Representatives, and the Committee on Foreign Relations of the Senate a report containing the results of the study conducted under subsection (a)(2). If the Commission requests designated experts to participate with the Comptroller General in the preparation and submission of the report, the Comptroller General shall grant the request.
+
+**(c) Access to proceedings**
+
+(1) **In general** — Except as provided in paragraph (2), to facilitate the studies and reports, the Attorney General shall permit the Comptroller General of the United States and, in the case of a Commission request under subsection (a), the experts designated under subsection (a) to have unrestricted access to all stages of all proceedings conducted under [section 1225(b) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1225/b&num=0&edition=prelim).
+
+(2) **Exceptions** — Paragraph (1) shall not apply in cases in which the alien objects to such access, or the Attorney General determines that the security of a particular proceeding would be threatened by such access, so long as any restrictions on the access of experts designated by the Commission under subsection (a) do not contravene international law.
+
+### Statutory Notes
+
+#### Change of Name
+Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+
+<a id="section-6483"></a>
+## § 6483. Business codes of conduct
+**(a) Congressional finding** Congress recognizes the increasing importance of transnational corporations as global actors, and their potential for providing positive leadership in their host countries in the area of human rights.
+
+**(b) Sense of Congress** It is the sense of the Congress that transnational corporations operating overseas, particularly those corporations operating in countries the governments of which have engaged in or tolerated violations of religious freedom, as identified in the Annual Report, should adopt codes of conduct—
+
+(1) upholding the right to freedom of religion of their employees; and
+
+(2) ensuring that a worker’s religious views and peaceful practices of belief in no way affect, or be allowed to affect, the status or terms of his or her employment.

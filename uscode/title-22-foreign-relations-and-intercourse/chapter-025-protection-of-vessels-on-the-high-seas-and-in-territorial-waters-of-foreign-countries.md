@@ -196,7 +196,7 @@ There are authorized to be appropriated such amounts as may be necessary to carr
 
 **(d) Finality of determinations; insured losses** All determinations made under this section shall be final. No payment under this section shall be made with respect to any losses covered by any policy of insurance or other provision of law.
 
-**(e) Effective date** The provisions of this section shall be effective until October 1, 2008; except that payments may be made under this section only to such extent and in such amounts as are provided in advance in appropriation Acts.
+**(e) Effective date** The provisions of this section shall be effective until October 1, 2018; except that payments may be made under this section only to such extent and in such amounts as are provided in advance in appropriation Acts.
 
 **(f) Definitions** For the purposes of this section—
 
@@ -207,6 +207,8 @@ There are authorized to be appropriated such amounts as may be necessary to carr
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (e). Pub. L. 114–323 substituted “2018” for “2008”.
+
 2004—Subsec. (e). Pub. L. 108–219 substituted “2008” for “2003”.
 
 2002—Subsec. (a)(3). Pub. L. 107–228 substituted “Secretary of State” for “Secretary of Commerce”.
@@ -256,11 +258,11 @@ Amendment by Pub. L. 92–569 applicable with respect to seizure of vessels of t
 ## § 1978. Restriction on importation of fishery or wildlife products from countries which violate international fishery or endangered or threatened species programs
 **(a) Certification to President**
 
-(1) When the Secretary of Commerce determines that nationals of a foreign country, directly or indirectly, are conducting fishing operations in a manner or under circumstances which diminish the effectiveness of an international fishery conservation program, the Secretary of Commerce shall certify such fact to the President.
+(1) When the Secretary of Commerce, in consultation with the Secretary of State, determines that nationals of a foreign country, directly or indirectly, are conducting fishing operations in a manner or under circumstances which diminish the effectiveness of an international fishery conservation program, the Secretary of Commerce shall certify such fact to the President.
 
-(2) When the Secretary of Commerce or the Secretary of the Interior finds that nationals of a foreign country, directly or indirectly, are engaging in trade or taking which diminishes the effectiveness of any international program for endangered or threatened species, the Secretary making such finding shall certify such fact to the President.
+(2) When the Secretary of Commerce or the Secretary of the Interior, in consultation with the Secretary of State, finds that nationals of a foreign country, directly or indirectly, are engaging in trade or taking which diminishes the effectiveness of any international program for endangered or threatened species, the Secretary making such finding shall certify such fact to the President.
 
-(3) In administering this subsection, the Secretary of Commerce or the Secretary of the Interior, as appropriate, shall—
+(3) In administering this subsection, the Secretary of Commerce or the Secretary of the Interior, as appropriate, in consultation with the Secretary of State, shall—
 
   (A) periodically monitor the activities of foreign nationals that may affect the international programs referred to in paragraphs (1) and (2);
 
@@ -268,13 +270,15 @@ Amendment by Pub. L. 92–569 applicable with respect to seizure of vessels of t
 
   (C) promptly conclude; and reach a decision with respect to; any investigation commenced under subparagraph (B).
 
-(4) Upon receipt of any certification made under paragraph (1) or (2), the President may direct the Secretary of the Treasury to prohibit the bringing or the importation into the United States of any products from the offending country for any duration as the President determines appropriate and to the extent that such prohibition is sanctioned by the World Trade Organization (as defined in [section 3501(8) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/8&num=0&edition=prelim)) or the multilateral trade agreements (as defined in [section 3501(4) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/4&num=0&edition=prelim)).
+(4) The Secretary of Commerce and the Secretary of the Interior shall each report to Congress each certification to the President made by such Secretary under this subsection, within 15 days after making such certification.
+
+(5) Upon receipt of any certification made under paragraph (1) or (2), the President may direct the Secretary of the Treasury to prohibit the bringing or the importation into the United States of any products from the offending country for any duration as the President determines appropriate and to the extent that such prohibition is sanctioned by the World Trade Organization (as defined in [section 3501(8) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/8&num=0&edition=prelim)) or the multilateral trade agreements (as defined in [section 3501(4) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/4&num=0&edition=prelim)).
 
 **(b) Notification to Congress** Within sixty days following certification by the Secretary of Commerce or the Secretary of the Interior, the President shall notify the Congress of any action taken by him pursuant to such certification. In the event the President fails to direct the Secretary of the Treasury to prohibit the importation of fish products or wildlife products of the offending country, or if such prohibition does not cover all fish products or wildlife products of the offending country, the President shall inform the Congress of the reasons therefor.
 
 **(c) Importation of fish products from offending country prohibited** It shall be unlawful for any person subject to the jurisdiction of the United States knowingly to bring or import into, or cause to be imported into, the United States any products prohibited by the Secretary of the Treasury pursuant to this section.
 
-**(d) Periodic review by Secretary of Commerce or Secretary of the Interior; termination of certification; notice** After making a certification to the President under subsection (a), the Secretary of Commerce or the Secretary of the Interior, as the case may be, shall periodically review the activities of the nationals of the offending country to determine if the reasons for which the certification was made no longer prevail. Upon determining that such reasons no longer prevail, the Secretary concerned shall terminate the certification and publish notice thereof, together with a statement of the facts on which such determination is based, in the Federal Register.
+**(d) Periodic review by Secretary of Commerce or Secretary of the Interior; termination of certification; notice** After making a certification to the President under subsection (a), the Secretary of Commerce or the Secretary of the Interior, as the case may be, in consultation with the Secretary of State, shall periodically review the activities of the nationals of the offending country to determine if the reasons for which the certification was made no longer prevail. Upon determining that such reasons no longer prevail, the Secretary concerned shall terminate the certification and publish notice thereof, together with a statement of the facts on which such determination is based, in the Federal Register.
 
 **(e) Penalties; forfeiture; customs laws**
 
@@ -321,6 +325,16 @@ Amendment by Pub. L. 92–569 applicable with respect to seizure of vessels of t
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–231, § 501(1)(A), which directed the insertion of “, in consultation with the Secretary of State,” after “Secretary of Commerce”, was executed by making the insertion after “Secretary of Commerce” the first time appearing to reflect the probable intent of Congress.
+
+Subsec. (a)(2). Pub. L. 114–231, § 501(1)(B), inserted “, in consultation with the Secretary of State,” after “Secretary of the Interior”.
+
+Subsec. (a)(3). Pub. L. 114–231, § 501(1)(C), inserted “in consultation with the Secretary of State,” after “, as appropriate,” in introductory provisions.
+
+Subsec. (a)(4), (5). Pub. L. 114–231, § 501(1)(D), (E), added par. (4) and redesignated former par. (4) as (5).
+
+Subsec. (d). Pub. L. 114–231, § 501(2), inserted “in consultation with the Secretary of State,” after “as the case may be,”.
+
 1999—Subsec. (a)(4). Pub. L. 106–36 substituted “World Trade Organization (as defined in [section 3501(8) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/8&num=0&edition=prelim)) or the multilateral trade agreements (as defined in [section 3501(4) of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3501/4&num=0&edition=prelim))” for “General Agreement on Tariffs and Trade”.
 
 1992—Subsec. (a)(4). Pub. L. 102–582, § 201(a)(1), substituted “any products from the offending country for any duration” for “fish products (if the certification is made under paragraph (1)) or wildlife products (if the certification is made under paragraph (2)) from the offending country for such duration”.

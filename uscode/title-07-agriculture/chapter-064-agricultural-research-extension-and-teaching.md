@@ -446,7 +446,7 @@ Pars. (10), (11). Pub. L. 97–98, § 1405(4)–(6), added pars. (10) and (11).
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
 #### Effective Date
-Subchapter effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-3122"></a>
@@ -661,6 +661,9 @@ Amendment by section 7511(c)(8) of Pub. L. 110–246 effective Oct. 1, 2009, see
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 #### Effect of 2008 Amendment on Terms
 Pub. L. 110–234, title VII, § 7102(b), May 22, 2008, 122 Stat. 1215, and Pub. L. 110–246, § 4(a), title VII, § 7102(b), June 18, 2008, 122 Stat. 1664, 1976, provided that: “Nothing in this section [amending this section] or any amendment made by this section affects the term of any member of the National Agricultural Research, Extension, Education, and Economics Advisory Board serving as of the date of enactment of this Act [June 18, 2008].”
 
@@ -847,6 +850,9 @@ For definition of “this chapter”, referred to in text, see note set out unde
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-3124a"></a>
 ## § 3124a. Federal-State partnership and coordination
@@ -973,6 +979,9 @@ The Secretary shall submit to the President and Congress by January 1 of each ye
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions of this section relating to submittal to Congress of annual report on agricultural research, extension, and teaching activities, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 44 of House Document No. 103–7.
@@ -1125,6 +1134,9 @@ Subsec. (b)(3). Pub. L. 97–98, § 1412(4), substituted “notification about t
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-3127"></a>
 ## § 3127. Support for Advisory Board
@@ -1168,6 +1180,9 @@ Subsecs. (b), (c). Pub. L. 101–624, § 1605(b)(1)(C), (D), which directed the 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
 
@@ -1208,6 +1223,9 @@ Subsecs. (d), (e). Pub. L. 101–624, § 1605(b)(2)(C), redesignated subsec. (e)
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-3129"></a>
@@ -1298,7 +1316,7 @@ Subsec. (c). Pub. L. 101–624, § 1607(b)(3), inserted heading.
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
 #### Effective Date
-Subchapter effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-3151a"></a>
@@ -1596,6 +1614,8 @@ The Food and Agriculture Act of 1977, referred to in subsec. (k), is Pub. L. 95�
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2015—Subsec. (j)(1)(B). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
 2014—Subsec. (m). Pub. L. 113–79 substituted “section—” for “section $60,000,000 for each of the fiscal years 1990 through 2012.” and added pars. (1) and (2).
 
 2008—Subsec. (b). Pub. L. 110–246, § 7106(1), inserted “(including the University of the District of Columbia)” after “land-grant colleges and universities” in introductory provisions.
@@ -1682,6 +1702,9 @@ Subsec. (c). Pub. L. 97–98 inserted provisions relating to the transfer to the
 
 Subsec. (d). Pub. L. 97–98, § 1418(c), inserted provisions relating to the authorization of appropriations for fiscal years ending Sept. 30, 1983, Sept. 30, 1984, and Sept. 30, 1985.
 
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
+
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
@@ -1697,6 +1720,9 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-3153"></a>
@@ -1724,6 +1750,9 @@ Subsecs. (c) to (e). Pub. L. 97–98, § 1420(a)(3), (4), added subsec. (c) and 
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-3154"></a>
@@ -1885,7 +1914,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 ### Statutory Notes
 
 #### Effective Date
-Subchapter effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Nutrition Information and Awareness Pilot Program
 Pub. L. 107–171, title IV, § 4403, May 13, 2002, 116 Stat. 334, as amended by Pub. L. 110–234, title IV, § 4406(c)(2), May 22, 2008, 122 Stat. 1142; Pub. L. 110–246, § 4(a), title IV, § 4406(c)(2), June 18, 2008, 122 Stat. 1664, 1903, directed the Secretary of Agriculture to establish, in not more than 5 States, for a period not to exceed 4 years for each participating State, a pilot program to increase the domestic consumption of fresh fruits and vegetables, prior to repeal by Pub. L. 113–79, title IV, § 4210, Feb. 7, 2014, 128 Stat. 830.
@@ -1906,6 +1935,11 @@ In order to carry out the policy of this subchapter, the Secretary shall develop
 
 (5) the development of techniques and equipment to assist consumers in the home or in institutions in selecting food that supplies a nutritionally adequate diet.
 
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-3173"></a>
 ## § 3173. Research by Department of Agriculture
@@ -1914,6 +1948,9 @@ In order to carry out the policy of this subchapter, the Secretary shall develop
 **(b) Periodic consultation with administrators of other Federal departments and agencies** The Secretary, in administering the food and human nutrition research program, shall periodically consult with the administrators of the other Federal departments and agencies that have responsibility for programs dealing with human food and nutrition, as to the specific research needs of those departments and agencies.
 
 ### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### National Food and Human Nutrition Research Program; Congressional Findings; Comprehensive Plan; Annual Report; Joint Dietary Assessment, Studies and Reports; Submission of Plan and Reports to Congressional Committees
 Pub. L. 99–198, title XIV, subtitle B, §§ 1451–1453, Dec. 23, 1985, 99 Stat. 1561, 1562, as amended by Pub. L. 104–127, title VIII, § 872, Apr. 4, 1996, 110 Stat. 1175, provided that: “findings“Sec. 1451. Congress finds that—“(1) nutrition and health considerations are important to United States agricultural policy; “(2) section 1405 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ([7 U.S.C. 3121](./chapter-064-agricultural-research-extension-and-teaching.md#section-3121)) designates the Department of Agriculture as the lead agency of the Federal Government for human nutrition research (except with respect to the biomedical aspects of human nutrition concerned with diagnosis or treatment of disease); “(3) section 1423 of such Act ([7 U.S.C. 3173](./chapter-064-agricultural-research-extension-and-teaching.md#section-3173)) requires the Secretary of Agriculture to establish research into food and human nutrition as a separate and distinct mission of the Department of Agriculture; “(4) the Secretary has established a nutrition education program; and “(5) nutrition research continues to be of great importance to those involved in agricultural production. “[Sec. 1452. Repealed. Pub. L. 104–127, title VIII, § 872, Apr. 4, 1996, 110 Stat. 1175.] “dietary assessment and studies“Sec. 1453. (a) The Secretary of Agriculture and the Secretary of Health and Human Services shall jointly conduct an assessment of existing scientific literature and research relating to—“(1) the relationship between dietary cholesterol and blood cholesterol and human health and nutrition; and “(2) dietary calcium and its importance in human health and nutrition. In conducting the assessments under this subsection, the Secretaries shall consult with agencies of the Federal Government involved in related research. On completion of such assessments, the Secretaries shall each recommend such further studies as the Secretaries consider useful. “(b) Not later than 1 year after the date of enactment of this Act [Dec. 23, 1985], the Secretary of Agriculture and the Secretary of Health and Human Services shall each submit to the House Committees on Agriculture and Energy and Commerce and the Senate Committees on Agriculture, Nutrition, and Forestry and Labor and Human Resources a report that shall include the results of the assessments conducted under subsection (a) and recommendations made under such subsection, for more complete studies of the issues examined under such subsection, including a protocol, feasibility assessment, budget estimates and a timetable for such research as each Secretary shall consider appropriate.”
@@ -2031,6 +2068,9 @@ Amendment by Pub. L. 101–624 effective Oct. 1, 1990, see section 1781(b)(1) of
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-3175a"></a>
@@ -2182,6 +2222,9 @@ Section 330 of the Public Health Service Act, referred to in subsec. (a)(2), is 
 #### Change of Name
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-3178a"></a>
 ## § 3178a. Nutrition monitoring
@@ -2287,7 +2330,7 @@ Pub. L. 111–296, § 2, Dec. 13, 2010, 124 Stat. 3185, provided that: “In thi
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
 #### Effective Date
-Subchapter effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Studies on Agricultural Research and Technology
 Pub. L. 107–171, title X, § 10907, May 13, 2002, 116 Stat. 538, provided that: “(a) Scientific Studies.—“(1) In general.—The Secretary of Agriculture may conduct scientific studies on—“(A) the transmission of spongiform encephalopathy in deer, elk, and moose; and “(B) chronic wasting disease (including the risks that chronic wasting disease poses to livestock). “(2) Report.—The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the results of any scientific studies conducted under paragraph (1). “(b) Vaccines.—“(1) Vaccine storage study.—The Secretary may—“(A) conduct a study to determine the number of doses of livestock disease vaccines that should be available to protect against livestock diseases that could be introduced into the United States; and “(B) compare that number with the number of doses of the livestock disease vaccines that are available as of that date. “(2) Stockpiling of vaccines.—If, after conducting the study and comparison described in paragraph (1), the Secretary determines that there is an insufficient number of doses of a particular vaccine referred to in that paragraph, the Secretary may take such actions as are necessary to obtain the required additional doses of the vaccine.”
@@ -2318,6 +2361,9 @@ Par. (2). Pub. L. 97–98 substituted “an accredited school or college of vete
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-3193"></a>
 ## § 3193. Authorization to Secretary of Agriculture
@@ -2343,6 +2389,9 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 2014—Subsec. (a). Pub. L. 113–79 inserted “under sections 3195(a) and 3196 of this title” after “eligible institutions”.
 
 1990—Pub. L. 101–624 amended section catchline generally, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-3194"></a>
@@ -2479,6 +2528,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-3196"></a>
 ## § 3196. Research on national and regional animal health or disease problems
@@ -2555,6 +2607,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-3197"></a>
 ## § 3197. Availability of appropriated funds
@@ -2566,6 +2621,9 @@ Funds available to carry out sections 3195(a) and 3196 of this title shall be pa
 #### Amendments
 2014—Pub. L. 113–79 substituted “to carry out sections 3195(a) and 3196 of this title” for “for allocation under the terms of this subchapter”.
 
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-3198"></a>
 ## § 3198. Withholding of appropriated funds
@@ -2576,6 +2634,9 @@ If the Secretary determines that a State is not entitled to receive its allocati
 
 #### Amendments
 2014—Pub. L. 113–79 substituted “subsection (c) of [section 3195 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3195) to carry out subsection (a) of such section” for “[section 3195 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3195)”.
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-3199"></a>
@@ -2590,6 +2651,9 @@ With respect to research projects on problems of animal health and disease to be
 
 1998—Pub. L. 105–185 struck out “with the advice, when available, of the Board” after “by the Secretary” in first sentence.
 
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-3200"></a>
 ## § 3200. Matching funds
@@ -2601,6 +2665,9 @@ No funds in excess of $100,000, exclusive of the funds provided for research on 
 #### Amendments
 2014—Pub. L. 113–79 substituted “under subsection (c) of section 3195 of this section to carry out subsection (a) of such section” for “under this subchapter”.
 
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-3201"></a>
 ## § 3201. Funds appropriated or otherwise made available pursuant to other provisions of law
@@ -2611,6 +2678,9 @@ The sums appropriated and allocated to States and eligible institutions under su
 
 #### Amendments
 2014—Pub. L. 113–79 substituted “under subsection (c) of [section 3195 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3195) to carry out subsection (a) of such section or [section 3196 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3196), as applicable,” for “under this subchapter”.
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-3202"></a>
@@ -2757,7 +2827,7 @@ Pub. L. 105–185, title II, § 225(c), June 23, 1998, 112 Stat. 542, provided t
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
 #### Effective Date
-Subchapter effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### West Virginia State College, Institute, West Virginia
 Pub. L. 106–78, title I, Oct. 22, 1999, 113 Stat. 1141, provided in part that West Virginia State College in Institute, West Virginia: “for fiscal year 2000 and thereafter shall be designated as an eligible institution under section 1444 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ([7 U.S.C. 3221](./chapter-064-agricultural-research-extension-and-teaching.md#section-3221))”.
@@ -2886,6 +2956,9 @@ Amendment by section 225(b) of Pub. L. 105–185 effective Oct. 1, 1999, see sec
 
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### West Virginia State College, Institute, West Virginia
 Pub. L. 106–78, title I, Oct. 22, 1999, 113 Stat. 1140, provided in part that West Virginia State College in Institute, West Virginia: “for fiscal year 2000 and thereafter shall be designated as an eligible institution under section 1445 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ([7 U.S.C. 3222](./chapter-064-agricultural-research-extension-and-teaching.md#section-3222))”.
@@ -3665,7 +3738,7 @@ Pub. L. 99–198, title XIV, § 1422(a), (b), Dec. 23, 1985, 99 Stat. 1552, prov
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
 #### Effective Date
-Subchapter effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-3312"></a>
@@ -3704,6 +3777,9 @@ Pub. L. 99–198, title XIV, § 1423, Dec. 23, 1985, 99 Stat. 1552, provided tha
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-3313"></a>
 ## § 3313. Payment of funds
@@ -3714,6 +3790,9 @@ Except as provided elsewhere in this Act or any other Act of Congress, funds ava
 
 #### References in Text
 For definition of “this chapter”, referred to in text, see note set out under [section 3102 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3102).
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-3314"></a>
@@ -3772,6 +3851,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by section 4002(b)(1)(B), (2)(H) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under [section 1161 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1161&num=0&edition=prelim), The Congress.
 
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
+
 
 <a id="section-3315a"></a>
 ## § 3315a. Availability of competitive grant funds
@@ -3788,6 +3870,9 @@ The Secretary is authorized to issue such rules and regulations as the Secretary
 
 #### References in Text
 For definition of “this chapter”, referred to in text, see note set out under [section 3102 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3102).
+
+#### Effective Date
+Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 
 <a id="section-3317"></a>
@@ -4506,7 +4591,7 @@ It is the purpose of this subchapter to promote research and extension activitie
 The National Aquaculture Act of 1980, referred to in text, is Pub. L. 96–362, Sept. 26, 1980, 94 Stat. 1198, which is classified generally to chapter 48 (§ 2801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 2801 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2801&num=0&edition=prelim) and Tables.
 
 #### Effective Date
-Subchapter effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
+Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
 
 <a id="section-3322"></a>
@@ -4564,6 +4649,9 @@ Subsec. (d). Pub. L. 99–198, § 1429(a)(3), (4), substituted in first sentence
 
 Subsec. (e). Pub. L. 99–198, § 1429(a)(5), inserted “the House Committee on Merchant Marine and Fisheries,”.
 
+#### Effective Date
+Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
+
 
 <a id="section-3323"></a>
 ## § 3323. Repealed. Pub. L. 105–185, title III, § 302(a), June 23, 1998, 112 Stat. 563
@@ -4608,6 +4696,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
+#### Effective Date
+Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
+
 
 <a id="section-3331"></a>
 ## § 3331. Congressional statement of purpose
@@ -4617,7 +4708,7 @@ It is the purpose of this subchapter to promote the general welfare through impr
 ### Statutory Notes
 
 #### Effective Date
-Subchapter effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
+Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
 
 <a id="section-3332"></a>
@@ -4629,6 +4720,9 @@ The Secretary may develop and implement a cooperative rangeland research program
 
 #### References in Text
 The Renewable Resources Extension Act of 1978, referred to in text, is Pub. L. 95–306, June 30, 1978, 92 Stat. 349, which is classified generally to subchapter III (§ 1671 et seq.) of chapter 36 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1978 Amendments note set out under [section 1600 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1600&num=0&edition=prelim) and Tables.
+
+#### Effective Date
+Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
 
 <a id="section-3333"></a>
@@ -4646,6 +4740,9 @@ The Secretary may make grants to—
 2014—Pub. L. 113–79 struck out subsec. (a) designation and heading and subsec. (b). Prior to amendment, subsec. (b) related to matching requirements.
 
 2002—Pub. L. 107–171 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary may make grants to land-grant colleges and universities, State agricultural experiment stations, and to colleges, universities, and Federal laboratories having a demonstrable capacity in rangeland research, as determined by the Secretary, to carry out rangeland research. Except in the case of Federal laboratories, this grant program shall be based on a matching formula of 50 per centum Federal and 50 per centum non-Federal funding.”
+
+#### Effective Date
+Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
 
 <a id="section-3334-3335"></a>
@@ -4692,6 +4789,9 @@ Subsec. (b). Pub. L. 105–185, § 606(e), which directed that the second senten
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
+
+#### Effective Date
+Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under [section 4301 of this title](./chapter-074-floral-research-and-consumer-information.md#section-4301).
 
 
 <a id="section-3351"></a>

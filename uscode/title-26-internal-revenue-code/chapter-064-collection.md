@@ -2,7 +2,7 @@
 title: 26
 chapter: '64'
 heading: COLLECTION
-section_count: 39
+section_count: 40
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
@@ -346,18 +346,82 @@ Section effective Aug. 1, 1975, see section 101(f) of Pub. L. 93–647, set out 
 
 (4) permits subcontractors to perform other services only with the approval of the Secretary.
 
-**(c) Fees** The Secretary may retain and use—
+**(c) Collection of inactive tax receivables**
+
+(1) **In general** — Notwithstanding any other provision of law, the Secretary shall enter into one or more qualified tax collection contracts for the collection of all outstanding inactive tax receivables.
+
+(2) **Inactive tax receivables** — For purposes of this section—
+
+  (A) *In general* — The term “inactive tax receivable” means any tax receivable if—
+
+    (i) at any time after assessment, the Internal Revenue Service removes such receivable from the active inventory for lack of resources or inability to locate the taxpayer,
+
+    (ii) more than ⅓ of the period of the applicable statute of limitation has lapsed and such receivable has not been assigned for collection to any employee of the Internal Revenue Service, or
+
+    (iii) in the case of a receivable which has been assigned for collection, more than 365 days have passed without interaction with the taxpayer or a third party for purposes of furthering the collection of such receivable.
+
+  (B) *Tax receivable* — The term “tax receivable” means any outstanding assessment which the Internal Revenue Service includes in potentially collectible inventory.
+
+**(d) Certain tax receivables not eligible for collection under qualified tax collections contracts** A tax receivable shall not be eligible for collection pursuant to a qualified tax collection contract if such receivable—
+
+(1) is subject to a pending or active offer-in-compromise or installment agreement,
+
+(2) is classified as an innocent spouse case,
+
+(3) involves a taxpayer identified by the Secretary as being—
+
+  (A) deceased,
+
+  (B) under the age of 18,
+
+  (C) in a designated combat zone, or
+
+  (D) a victim of tax-related identity theft,
+
+(4) is currently under examination, litigation, criminal investigation, or levy, or
+
+(5) is currently subject to a proper exercise of a right of appeal under this title.
+
+**(e) Fees** The Secretary may retain and use—
 
 (1) an amount not in excess of 25 percent of the amount collected under any qualified tax collection contract for the costs of services performed under such contract, and
 
-(2) an amount not in excess of 25 percent of such amount collected for collection enforcement activities of the Internal Revenue Service.
+(2) an amount not in excess of 25 percent of such amount collected to fund the special compliance personnel program account under section 6307.
 The Secretary shall keep adequate records regarding amounts so retained and used. The amount credited as paid by any taxpayer shall be determined without regard to this subsection.
 
-**(d) No Federal liability** The United States shall not be liable for any act or omission of any person performing services under a qualified tax collection contract.
+**(f) No Federal liability** The United States shall not be liable for any act or omission of any person performing services under a qualified tax collection contract.
 
-**(e) Application of Fair Debt Collection Practices Act** The provisions of the Fair Debt Collection Practices Act ([15 U.S.C. 1692](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1692&num=0&edition=prelim) et seq.) shall apply to any qualified tax collection contract, except to the extent superseded by section 6304, section 7602(c), or by any other provision of this title.
+**(g) Application of Fair Debt Collection Practices Act** The provisions of the Fair Debt Collection Practices Act ([15 U.S.C. 1692](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1692&num=0&edition=prelim) et seq.) shall apply to any qualified tax collection contract, except to the extent superseded by section 6304, section 7602(c), or by any other provision of this title.
 
-**(f) Cross references**
+**(h) Contracting priority** In contracting for the services of any person under this section, the Secretary shall utilize private collection contractors and debt collection centers on the schedule required under [section 3711(g) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3711/g&num=0&edition=prelim), United States Code, including the technology and communications infrastructure established therein, to the extent such private collection contractors and debt collection centers are appropriate to carry out the purposes of this section.
+
+**(i) Taxpayers in presidentially declared disaster areas** The Secretary may prescribe procedures under which a taxpayer determined to be affected by a Federally declared disaster (as defined by section 165(i)(5)) may request—
+
+(1) relief from immediate collection measures by contractors under this section, and
+
+(2) a return of the inactive tax receivable to the inventory of the Internal Revenue Service to be collected by an employee thereof.
+
+**(j) Report to Congress** Not later than 90 days after the last day of each fiscal year (beginning with the first such fiscal year ending after the date of the enactment of this subsection), the Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report with respect to qualified tax collection contracts under this section which shall include—
+
+(1) annually, with respect to such fiscal year—
+
+  (A) the total number and amount of tax receivables provided to each contractor for collection under this section,
+
+  (B) the total amounts collected (and amounts of installment agreements entered into under subsection (b)(1)(B)) with respect to each contractor and the collection costs incurred (directly and indirectly) by the Internal Revenue Service with respect to such amounts,
+
+  (C) the impact of such contracts on the total number and amount of unpaid assessments, and on the number and amount of assessments collected by Internal Revenue Service personnel after initial contact by a contractor,
+
+  (D) the amount of fees retained by the Secretary under subsection (e) and a description of the use of such funds, and
+
+  (E) a disclosure safeguard report in a form similar to that required under section 6103(p)(5), and
+
+(2) biannually (beginning with the second report submitted under this subsection)—
+
+  (A) an independent evaluation of contractor performance, and
+
+  (B) a measurement plan that includes a comparison of the best practices used by the private collectors to the collection techniques used by the Internal Revenue Service and mechanisms to identify and capture information on successful collection techniques used by the contractors that could be adopted by the Internal Revenue Service.
+
+**(k) Cross references**
 
 (1) For damages for certain unauthorized collection actions by persons performing services under a qualified tax collection contract, see section 7433A.
 
@@ -368,11 +432,71 @@ The Secretary shall keep adequate records regarding amounts so retained and used
 #### References in Text
 The Fair Debt Collection Practices Act, referred to in subsec. (e), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, as amended, which is classified generally to subchapter V (§ 1692 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
+#### Amendments
+2015—Subsec. (c). Pub. L. 114–94, § 32102(a), added subsec. (c). Former subsec. (c) redesignated (e).
+
+Subsec. (d). Pub. L. 114–94, § 32102(b), added subsec. (d). Former subsec. (d) redesignated (f).
+
+Subsec. (e). Pub. L. 114–94, § 32102(a), (b), successively redesignated subsec. (c) as (d) and then as (e). Former subsec. (e) redesignated (g).
+
+Subsec. (e)(2). Pub. L. 114–94, § 32103(a), substituted “to fund the special compliance personnel program account under section 6307” for “for collection enforcement activities of the Internal Revenue Service”.
+
+Subsec. (f). Pub. L. 114–94, § 32102(a), (b), successively redesignated subsec. (d) as (e) and then as (f). Former subsec. (f) redesignated (k).
+
+Subsec. (g). Pub. L. 114–94, § 32102(a), (b), successively redesignated subsec. (e) as (f) and then as (g).
+
+Subsec. (h). Pub. L. 114–94, § 32102(c), added subsec. (h).
+
+Subsec. (i). Pub. L. 114–94, § 32102(e), added subsec. (i).
+
+Subsec. (j). Pub. L. 114–94, § 32102(f)(1), added subsec. (j).
+
+Subsec. (k). Pub. L. 114–94, § 32102(a), (b), (c), (e), (f)(1), successively redesignated subsec. (f) as (g), (h), (i), (j), and then (k).
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–94, div. C, title XXXII, § 32102(g)(1), (2), Dec. 4, 2015, 129 Stat. 1736, provided that: “(1) In general.—The amendments made by subsections (a) and (b) [amending this section] shall apply to tax receivables identified by the Secretary [probably means Secretary of the Treasury] after the date of the enactment of this Act [Dec. 4, 2015]. “(2) Contracting priority.—The Secretary shall begin entering into contracts and agreements as described in the amendment made by subsection (c) [amending this section] within 3 months after the date of the enactment of this Act.”
+
+Pub. L. 114–94, div. C, title XXXII, § 32102(g)(4), Dec. 4, 2015, 129 Stat. 1736, provided that: “The amendments made by subsections (e) and (f) [amending this section and repealing provisions formerly set out as a note under this section] shall take effect on the date of the enactment of this Act [Dec. 4, 2015].”
+
+Pub. L. 114–94, div. C, title XXXII, § 32103(d), Dec. 4, 2015, 129 Stat. 1738, provided that: “The amendment made by subsection (a) [amending this section] shall apply to amounts collected and retained by the Secretary [probably means Secretary of the Treasury] after the date of the enactment of this Act [Dec. 4, 2015].”
+
 #### Effective Date
 Pub. L. 108–357, title VIII, § 881(f), Oct. 22, 2004, 118 Stat. 1627, provided that: “The amendments made to [by] this section [enacting this section and [section 7433A of this title](./chapter-076-judicial-proceedings.md#section-7433a), amending sections 7809 and 7811 of this title, and amending provisions set out as a note under [section 7804 of this title](./chapter-080-general-rules.md#section-7804)] shall take effect on the date of the enactment of this Act [Oct. 22, 2004].”
 
 #### Biennial Report
-Pub. L. 108–357, title VIII, § 881(e), Oct. 22, 2004, 118 Stat. 1627, provided that: “The Secretary of the Treasury shall biennially submit (beginning in 2005) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report with respect to qualified tax collection contracts under section 6306 of the Internal Revenue Code of 1986 (as added by this section) which includes— “(1) a complete cost benefit analysis, “(2) the impact of such contracts on collection enforcement staff levels in the Internal Revenue Service, “(3) the impact of such contracts on the total number and amount of unpaid assessments, and on the number and amount of assessments collected by Internal Revenue Service personnel after initial contact by a contractor, “(4) the amounts collected and the collection costs incurred (directly and indirectly) by the Internal Revenue Service, “(5) an evaluation of contractor performance, “(6) a disclosure safeguard report in a form similar to that required under section 6103(p)(5) of such Code, and “(7) a measurement plan which includes a comparison of the best practices used by the private collectors with the Internal Revenue Service’s own collection techniques and mechanisms to identify and capture information on successful collection techniques used by the contractors which could be adopted by the Internal Revenue Service.”
+Pub. L. 108–357, title VIII, § 881(e), Oct. 22, 2004, 118 Stat. 1627, directed the Secretary of the Treasury to biennially submit (beginning in 2005) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report with respect to qualified tax collection contracts under this section, prior to repeal by Pub. L. 114–94, div. C, title XXXII, § 32102(f)(2), Dec. 4, 2015, 129 Stat. 1736.
+
+
+<a id="section-6307"></a>
+## § 6307. Special compliance personnel program account
+**(a) Establishment of a special compliance personnel program account** The Secretary shall establish an account within the Department for carrying out a program consisting of the hiring, training, and employment of special compliance personnel, and shall transfer to such account from time to time amounts retained by the Secretary under section 6306(e)(2).
+
+**(b) Restrictions** The program described in subsection (a) shall be subject to the following restrictions:
+
+(1) No funds shall be transferred to such account except as described in subsection (a).
+
+(2) No other funds from any other source shall be expended for special compliance personnel employed under such program, and no funds from such account shall be expended for the hiring of any personnel other than special compliance personnel.
+
+(3) Notwithstanding any other authority, the Secretary is prohibited from spending funds out of such account for any purpose other than for costs under such program associated with the employment of special compliance personnel and the retraining and reassignment of current noncollections personnel as special compliance personnel, and to reimburse the Internal Revenue Service or other government agencies for the cost of administering qualified tax collection contracts under section 6306.
+
+**(c) Reporting** Not later than March of each year, the Commissioner of Internal Revenue shall submit a report to the Committees on Finance and Appropriations of the Senate and the Committees on Ways and Means and Appropriations of the House of Representatives consisting of the following:
+
+(1) For the preceding fiscal year, all funds received in the account established under subsection (a), administrative and program costs for the program described in such subsection, the number of special compliance personnel hired and employed under the program, and the amount of revenue actually collected by such personnel.
+
+(2) For the current fiscal year, all actual and estimated funds received or to be received in the account, all actual and estimated administrative and program costs, the number of all actual and estimated special compliance personnel hired and employed under the program, and the actual and estimated revenue actually collected or to be collected by such personnel.
+
+(3) For the following fiscal year, an estimate of all funds to be received in the account, all estimated administrative and program costs, the estimated number of special compliance personnel hired and employed under the program, and the estimated revenue to be collected by such personnel.
+
+**(d) Definitions** For purposes of this section—
+
+(1) **Special compliance personnel** — The term “special compliance personnel” means individuals employed by the Internal Revenue Service as field function collection officers or in a similar position, or employed to collect taxes using the automated collection system or an equivalent replacement system.
+
+(2) **Program costs** — The term “program costs” means—
+
+  (A) total salaries (including locality pay and bonuses), benefits, and employment taxes for special compliance personnel employed or trained under the program described in subsection (a), and
+
+  (B) direct overhead costs, salaries, benefits, and employment taxes relating to support staff, rental payments, office equipment and furniture, travel, data processing services, vehicle costs, utilities, telecommunications, postage, printing and reproduction, supplies and materials, lands and structures, insurance claims, and indemnities for special compliance personnel hired and employed under this section.
+  For purposes of subparagraph (B), the cost of management and supervision of special compliance personnel shall be taken into account as direct overhead costs to the extent such costs, when included in total program costs under this paragraph, do not represent more than 10 percent of such total costs.
 
 
 <a id="section-6311"></a>
@@ -582,9 +706,11 @@ Section applicable with respect to calendar years beginning after Dec. 31, 1969,
 
   (B) the right of the person to request a hearing during the 30-day period beginning on the day after the 5-day period described in paragraph (2);
 
-  (C) the administrative appeals available to the taxpayer with respect to such lien and the procedures relating to such appeals; and
+  (C) the administrative appeals available to the taxpayer with respect to such lien and the procedures relating to such appeals;
 
-  (D) the provisions of this title and procedures relating to the release of liens on property.
+  (D) the provisions of this title and procedures relating to the release of liens on property; and
+
+  (E) the provisions of section 7345 relating to the certification of seriously delinquent tax debts and the denial, revocation, or limitation of passports of individuals with such debts pursuant to section 32101 of the FAST Act.
 
 **(b) Right to fair hearing**
 
@@ -596,11 +722,18 @@ Section applicable with respect to calendar years beginning after Dec. 31, 1969,
 
 (4) **Coordination with section 6330** — To the extent practicable, a hearing under this section shall be held in conjunction with a hearing under section 6330.
 
-**(c) Conduct of hearing; review; suspensions** For purposes of this section, subsections (c), (d) (other than paragraph (2)(B) thereof), (e), and (g) of section 6330 shall apply.
+**(c) Conduct of hearing; review; suspensions** For purposes of this section, subsections (c), (d) (other than paragraph (3)(B) thereof), (e), and (g) of section 6330 shall apply.
 
 ### Statutory Notes
 
+#### References in Text
+Section 32101 of the FAST Act, referred to in subsec. (a)(3)(E), is section 32101 of Pub. L. 114–94, which enacted [section 7345 of this title](./chapter-075-crimes-other-offenses-and-forfeitures.md#section-7345) and [section 2714a of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2714a&num=0&edition=prelim), Foreign Relations and Intercourse, and amended this section and sections 6103, 6331, and 7508 of this title.
+
 #### Amendments
+2015—Subsec. (a)(3)(E). Pub. L. 114–94 added subpar. (E).
+
+Subsec. (c). Pub. L. 114–113 substituted “(3)(B)” for “(2)(B)”.
+
 2006—Subsec. (b)(1). Pub. L. 109–432, § 407(c)(1), substituted “in writing under subsection (a)(3)(B) and states the grounds for the requested hearing” for “under subsection (a)(3)(B)”.
 
 Subsec. (c). Pub. L. 109–432, § 407(c)(2), substituted “(e), and (g)” for “and (e)”.
@@ -1413,9 +1546,11 @@ Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proc
 
 **(d) Proceeding after hearing**
 
-(1) **Judicial review of determination** — The person may, within 30 days of a determination under this section, appeal such determination to the Tax Court (and the Tax Court shall have jurisdiction with respect to such matter).
+(1) **Petition for review by Tax Court** — The person may, within 30 days of a determination under this section, petition the Tax Court for review of such determination (and the Tax Court shall have jurisdiction with respect to such matter).
 
-(2) **Jurisdiction retained at IRS Office of Appeals** — The Internal Revenue Service Office of Appeals shall retain jurisdiction with respect to any determination made under this section, including subsequent hearings requested by the person who requested the original hearing on issues regarding—
+(2) **Suspension of running of period for filing petition in title 11 cases** — In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1) with respect to a determination under this section, the running of the period prescribed by such subsection for filing such a petition with respect to such determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 30 days thereafter, and 11 So in original.
+
+(3) **Jurisdiction retained at IRS Office of Appeals** — The Internal Revenue Service Office of Appeals shall retain jurisdiction with respect to any determination made under this section, including subsequent hearings requested by the person who requested the original hearing on issues regarding—
 
   (A) collection actions taken or proposed with respect to such determination; and
 
@@ -1448,7 +1583,20 @@ this section shall not apply, except that the taxpayer shall be given the opport
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)(4)
+Pub. L. 114–74, title XI, § 1101(d), (g), Nov. 2, 2015, 129 Stat. 637, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (c)(4) of this section is amended by striking “or” at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting “; or”, and by inserting after subparagraph (B) the following new subparagraph:
+
+“(C) a final determination has been made with respect to such issue in a proceeding brought under subchapter C of chapter 63.”
+
+See 2015 Amendment note below.
+
 #### Amendments
+2015—Subsec. (c)(4)(C). Pub. L. 114–74 added subpar. (C).
+
+Subsec. (d)(1). Pub. L. 114–113, § 424(b)(1)(A), (B), substituted “Petition for review by Tax Court” for “Judicial review of determination” in heading and “petition the Tax Court for review of such determination” for “appeal such determination to the Tax Court” in text.
+
+Subsec. (d)(2), (3). Pub. L. 114–113, § 424(b)(1)(C), (D), added par. (2) and redesignated former par. (2) as (3).
+
 2010—Subsec. (f). Pub. L. 111–240, § 2104(c), substituted “Exceptions” for “Jeopardy and State refund collection” in heading.
 
 Subsec. (f)(4). Pub. L. 111–240, § 2104(a), added par. (4).
@@ -1476,6 +1624,11 @@ Subsec. (g). Pub. L. 109–432, § 407(b)(1), added subsec. (g).
 2000—Subsec. (d)(1)(A). Pub. L. 106–554, § 1(a)(7) [title III, § 313(d)], substituted “with respect to” for “to hear”.
 
 Subsec. (e)(1). Pub. L. 106–554, § 1(a)(7) [title III, § 313(b)(2)(A)], inserted at end “Notwithstanding the provisions of section 7421(a), the beginning of a levy or proceeding during the time the suspension under this paragraph is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction under this paragraph to enjoin any action or proceeding unless a timely appeal has been filed under subsection (d)(1) and then only in respect of the unpaid tax or proposed levy to which the determination being appealed relates.”
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title IV, § 424(b)(2), Dec. 18, 2015, 129 Stat. 3124, provided that: “The amendments made by this subsection [amending this section] shall apply to petitions filed under section 6330 of the Internal Revenue Code of 1986 after the date of the enactment of this Act [Dec. 18, 2015].”
+
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–240, title II, § 2104(d), Sept. 27, 2010, 124 Stat. 2565, provided that: “The amendments made by this section [amending this section] shall apply to levies issued after the date of the enactment of this Act [Sept. 27, 2010].”
@@ -1528,9 +1681,11 @@ Section applicable to collection actions initiated after the date which is 180 d
 
   (D) the alternatives available to taxpayers which could prevent levy on the property (including installment agreements under section 6159),
 
-  (E) the provisions of this title relating to redemption of property and release of liens on property, and
+  (E) the provisions of this title relating to redemption of property and release of liens on property,
 
-  (F) the procedures applicable to the redemption of property and the release of a lien on property under this title.
+  (F) the procedures applicable to the redemption of property and the release of a lien on property under this title, and
+
+  (G) the provisions of section 7345 relating to the certification of seriously delinquent tax debts and the denial, revocation, or limitation of passports of individuals with such debts pursuant to section 32101 of the FAST Act.
 
 **(e) Continuing levy on salary and wages** The effect of a levy on salary or wages payable to or received by a taxpayer shall be continuous from the date such levy is first made until such levy is released under section 6343.
 
@@ -1649,6 +1804,8 @@ Section applicable to collection actions initiated after the date which is 180 d
 ### Statutory Notes
 
 #### References in Text
+Section 32101 of the FAST Act, referred to in subsec. (d)(4)(G), is section 32101 of Pub. L. 114–94, which enacted [section 7345 of this title](./chapter-075-crimes-other-offenses-and-forfeitures.md#section-7345) and [section 2714a of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2714a&num=0&edition=prelim), Foreign Relations and Intercourse, and amended this section and sections 6103, 6320, and 7508 of this title.
+
 The Railroad Retirement Act, referred to in subsec. (h)(2)(C), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, known as the Railroad Retirement Act of 1974, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim), [section 231t of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231t&num=0&edition=prelim), and Tables.
 
 The Railroad Unemployment Insurance Act, referred to in subsec. (h)(2)(C), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§ 351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 367 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section367&num=0&edition=prelim) and Tables.
@@ -1656,7 +1813,9 @@ The Railroad Unemployment Insurance Act, referred to in subsec. (h)(2)(C), is ac
 The Social Security Act, referred to in subsec. (h)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
-2015—Subsec. (h)(3). Pub. L. 114–10 substituted “and by substituting ‘100 percent’ ” for “and by substituting ‘30 percent’ ”.
+2015—Subsec. (d)(4)(G). Pub. L. 114–94 added subpar. (G).
+
+Subsec. (h)(3). Pub. L. 114–10 substituted “and by substituting ‘100 percent’ ” for “and by substituting ‘30 percent’ ”.
 
 2014—Subsec. (h)(3). Pub. L. 113–295 inserted “and by substituting ‘30 percent’ for ‘15 percent’ in the case of any specified payment due to a Medicare provider or supplier under title XVIII of the Social Security Act” before period at end.
 
@@ -1964,7 +2123,7 @@ The Railroad Unemployment Insurance Act, referred to in subsec. (a)(6), is act J
 
 The Social Security Act, referred to in subsecs. (a)(11)(A) and (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles IV and XVI of the Social Security Act are classified generally to subchapters IV (§ 601 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Section 207 of the Social Security Act is classified to [section 407 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section407&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-The Job Training Partnership Act, referred to in subsec. (a)(12), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former [section 2940(b) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2940/b&num=0&edition=prelim), references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3101) and Tables.
+The Job Training Partnership Act, referred to in subsec. (a)(12), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former [section 2940(b) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2940/b&num=0&edition=prelim), references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1998—Subsec. (a)(2). Pub. L. 105–206, § 3431(a), substituted “$6,250” for “$2,500”.

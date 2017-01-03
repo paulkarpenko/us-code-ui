@@ -412,21 +412,17 @@ For the purpose of this title—
 
   (E) the wife or husband of a service-connected disabled veteran if the veteran has been unable to qualify for any appointment in the civil service or in the government of the District of Columbia;
 
-  (F) the mother of an individual who lost his life under honorable conditions while serving in the armed forces during a period named by paragraph (1)(A) of this section, if—
+  (F) the parent of an individual who lost his or her life under honorable conditions while serving in the armed forces during a period named by paragraph (1)(A) of this section, if—
 
-    (i) her husband is totally and permanently disabled;
+    (i) the spouse of that parent is totally and permanently disabled; or
 
-    (ii) she is widowed, divorced, or separated from the father and has not remarried; or
+    (ii) that parent, when preference is claimed, is unmarried or, if married, legally separated from his or her spouse;
 
-    (iii) she has remarried but is widowed, divorced, or legally separated from her husband when preference is claimed;
+  (G) the parent of a service-connected permanently and totally disabled veteran, if—
 
-  (G) the mother of a service-connected permanently and totally disabled veteran, if—
+    (i) the spouse of that parent is totally and permanently disabled; or
 
-    (i) her husband is totally and permanently disabled;
-
-    (ii) she is widowed, divorced, or separated from the father and has not remarried; or
-
-    (iii) she has remarried but is widowed, divorced, or legally separated from her husband when preference is claimed; and
+    (ii) that parent, when preference is claimed, is unmarried or, if married, legally separated from his or her spouse; and
 
   (H) a veteran who was discharged or released from a period of active duty by reason of a sole survivorship discharge (as that term is defined in [section 1174(i) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1174/i&num=0&edition=prelim));
   but does not include applicants for, or members of, the Senior Executive Service, the Defense Intelligence Senior Executive Service, the Senior Cryptologic Executive Service, or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service;
@@ -462,6 +458,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 | 2108 | 5 App.: 851. | Mar. 3, 1966, Pub. L. 89–358, § 11, 80 Stat. 28. |
 
 #### Amendments
+2015—Par. (3)(F), (G). Pub. L. 114–62 added subpars. (F) and (G) and struck out former subpars. (F) and (G) which included in the definition of “preference eligible” certain mothers of individuals who lost their lives under honorable conditions in the armed forces and certain mothers of service-connected permanently and totally disabled veterans.
+
 2011—Par. (1). Pub. L. 112–56, § 235(a)(2)(A)(i), in concluding provisions, inserted “, except as provided under section 2108a,” before “who has been”.
 
 Par. (2). Pub. L. 112–56, § 235(a)(2)(A)(ii), inserted “(except as provided under section 2108a)” before “has been separated”.
@@ -513,6 +511,9 @@ Par. (5). Pub. L. 95–454, § 401(d), inserted “; but does not include applic
 Par. (3)(E). Pub. L. 92–187 inserted “or husband” after “the wife”.
 
 1968—Par. (3)(D). Pub. L. 90–623 inserted “as defined by paragraph (1)(A) of this section” after “veteran”.
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–62, § 3, Oct. 7, 2015, 129 Stat. 548, provided that: “The amendment made by this Act [amending this section] shall take effect 90 days after the date of enactment of this Act [Oct. 7, 2015].”
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–317, § 10, Aug. 29, 2008, 122 Stat. 3530, provided that: “(a) Retroactive Effective Date.—Except as provided in subsection (b) and section 9 [amending [section 685 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section685&num=0&edition=prelim), Internal Revenue Code, and enacting provisions set out as a note under [section 685 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section685&num=0&edition=prelim)], this Act [amending this section, [section 8521 of this title](./chapter-085-unemployment-compensation.md#section-8521), sections 1145, 1146, and 1174 of Title 10, Armed Forces, [section 685 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section685&num=0&edition=prelim), [section 303a of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, and sections 3011, 3012, 3702, and 4211 of Title 38, Veterans’ Benefits, and enacting provisions set out as notes under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim) and [section 685 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section685&num=0&edition=prelim)] and the amendments made by this Act shall apply with respect to any sole survivorship discharge granted after September 11, 2001. “(b) Date of Enactment Effective Date for Certain Amendments.—The amendments made by sections 4, 7, and 8 [amending this section and [section 8521 of this title](./chapter-085-unemployment-compensation.md#section-8521) and [section 1145 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1145&num=0&edition=prelim)] shall apply with respect to any sole survivorship discharge granted after the date of the enactment of this Act [Aug. 29, 2008]. “(c) Sole Survivorship Discharge Defined.—In this section, the term ‘sole survivorship discharge’ means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—“(1) the father or mother or one or more siblings—“(A) served in the Armed Forces; and “(B) was killed, died as a result of wounds, accident, or disease, is in a captured or missing in action status, or is permanently 100 percent disabled or hospitalized on a continuing basis (and is not employed gainfully because of the disability or hospitalization); and “(2) the death, status, or disability did not result from the intentional misconduct or willful neglect of the parent or sibling and was not incurred during a period of unauthorized absence.”

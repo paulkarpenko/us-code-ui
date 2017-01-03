@@ -44,7 +44,7 @@ The purposes of the corporation are as provided in its bylaws and articles of in
 ### Statutory Notes
 
 #### Amendments
-2014—Pub. L. 113–237 struck out subsec. (a) designation and heading “General.” before “The purposes” in introductory provisions.
+2014—Pub. L. 113–237 struck out subsec. (a) designation and heading “General” before “The purposes” in introductory provisions.
 
 
 <a id="section-140403"></a>

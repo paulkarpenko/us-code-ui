@@ -105,7 +105,7 @@ In this title, the term “barge” means a non-self-propelled vessel.
 <a id="section-103"></a>
 ## § 103. Boundary Line
 
-In this title, the term “Boundary Line” means a line established under section 2(b) of the Act of February 19, 1895 ([33 U.S.C. 151](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section151&num=0&edition=prelim)).11 So in original. Probably should be “([33 U.S.C. 151(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section151/b&num=0&edition=prelim)).”.
+In this title, the term “Boundary Line” means a line established under section 2(b) of the Act of February 19, 1895 ([33 U.S.C. 151(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section151/b&num=0&edition=prelim)).
 
 ### Statutory Notes
 
@@ -113,6 +113,9 @@ In this title, the term “Boundary Line” means a line established under secti
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 103 | 46:2101(3). |  |
+
+#### Amendments
+2016—Pub. L. 114–120 substituted “([33 U.S.C. 151(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section151/b&num=0&edition=prelim)).” for “([33 U.S.C. 151](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section151&num=0&edition=prelim)).”
 
 
 <a id="section-104"></a>

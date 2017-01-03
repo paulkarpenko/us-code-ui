@@ -222,6 +222,9 @@ Subsec. (h). Pub. L. 110–181, § 1422(a)(2), inserted at end “The annual rep
 #### Effective Date
 Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, formerly set out as a note under [section 401 of this title](./chapter-010-armed-forces-retirement-home.md#section-401).
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (h) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim), Armed Forces.
+
 
 <a id="section-413"></a>
 ## § 413. Residents of Retirement Home
@@ -237,7 +240,7 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 
 (3) Persons who—
 
-  (A) served in a war theater during a time of war declared by Congress or were eligible for hostile fire special pay under [section 310 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section310&num=0&edition=prelim);
+  (A) served in a war theater during a time of war declared by Congress or were eligible for hostile fire special pay under section 310 or 351 of title 37;
 
   (B) were discharged or released from service in the Armed Forces under honorable conditions; and
 
@@ -258,6 +261,8 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a)(3)(A). Pub. L. 114–328 inserted “or 351” after “section 310”.
+
 2011—Pub. L. 112–81, § 567(c)(6), made technical amendment to section catchline.
 
 Subsec. (c). Pub. L. 112–81, § 564(b)(1), substituted “Administrator” for “Director”.
@@ -1048,7 +1053,7 @@ Subsec. (e). Pub. L. 107–107, § 1404(b)(4)(E), substituted “Chief Operating
 ### Statutory Notes
 
 #### Codification
-In subsec. (b), “[section 302904 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section302904&num=0&edition=prelim)” substituted for “[section 470a(e)(3) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/e/3&num=0&edition=prelim)” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+In subsec. (b), “[section 302904 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section302904&num=0&edition=prelim)” substituted for “section 101(e)(3) of the National Historic Preservation Act ([16 U.S.C. 470a(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/e/3&num=0&edition=prelim))” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments
 2011—Subsec. (b). Pub. L. 112–81 substituted “Administrator” for “Director”.

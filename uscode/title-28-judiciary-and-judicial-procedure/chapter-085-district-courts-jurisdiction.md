@@ -457,7 +457,7 @@ Changes were made in phraseology.
 1964—Pub. L. 88–513 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 #### Effective Date of 1992 Amendment
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under [section 171 of this title](./chapter-007-united-states-court-of-federal-claims.md#section-171).
@@ -496,7 +496,7 @@ Changes were made in phraseology.
 1978—Pub. L. 95–486 designated existing provisions as subsec. (a), inserted proviso giving the district courts original jurisdiction of actions brought under sections 20(11) and 219 of the Interstate Commerce Act when the amounts in controversy for each receipt exceed $10,000, exclusive of interests and costs, and added subsec. (b).
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under [section 251 of this title](./chapter-011-court-of-international-trade.md#section-251).

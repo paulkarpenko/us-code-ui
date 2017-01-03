@@ -163,7 +163,7 @@ Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L
 
   (A) provide technical assistance and outreach throughout the Nation to meet the training and information needs of parents of infants, children, and youth who are deaf or hard of hearing; and
 
-  (B) provide technical assistance and training to personnel for use in teaching (i) students who are deaf or hard of hearing, in various educational environments, and (ii) students who are deaf or hard of hearing with a broad spectrum of needs as described in subsection (a) of this section.
+  (B) provide technical assistance and training to personnel for use in teaching (i) students who are deaf or hard of hearing, in various educational environments, and (ii) students who are deaf or hard of hearing with a broad spectrum of needs as described in subsection (a).
 
 (2) To the extent possible, the Clerc Center shall provide the services required under paragraph (1)(B) in an equitable manner, based on the national distribution of students who are deaf or hard of hearing in educational environments as determined by the Secretary for purposes of section 618(a)(1) of the Individuals with Disabilities Education Act [[20 U.S.C. 1418(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1418/a/1&num=0&edition=prelim)]. Such educational environments shall include—
 
@@ -207,13 +207,13 @@ Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L
 
   (A)
 
-    (i) select challenging academic content standards, challenging student academic achievement standards, and academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (3) of [section 6311(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b&num=0&edition=prelim) and approved by the Secretary; and
+    (i) select challenging State academic content standards, aligned academic achievement standards, and State academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (2) of [section 6311(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b&num=0&edition=prelim) and approved by the Secretary; and
 
-    (ii) implement such standards and assessments for such programs by not later than the beginning of the 2009–2010 academic year;
+    (ii) implement such standards and assessments for such programs by not later than the beginning of the 2016–2017 academic year;
 
-  (B) annually determine whether such programs at the Clerc Center are making adequate yearly progress, as determined according to the definition of adequate yearly progress defined (pursuant to [section 6311(b)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/C&num=0&edition=prelim)) by the State that has adopted and implemented the standards and assessments selected under subparagraph (A)(i); and
+  (B) adopt the accountability system, consistent with [section 6311(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/c&num=0&edition=prelim), of the State from which standards and assessments are selected under subparagraph (A)(i); and
 
-  (C) publicly report the results of the academic assessments implemented under subparagraph (A), except where such reporting would not yield statistically reliable information or would reveal personally identifiable information about an individual student, and whether the programs at the Clerc Center are making adequate yearly progress, as determined under subparagraph (B).
+  (C) publicly report the results of the academic assessments implemented under subparagraph (A), except where such reporting would not yield statistically reliable information or would reveal personally identifiable information about an individual student, and the results of the annual evaluation of the programs at the Clerc Center, as determined under subparagraph (B).
 
 ### Statutory Notes
 
@@ -221,6 +221,14 @@ Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L
 The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(B) and (b)(3), (4)(C), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
 #### Amendments
+2015—Subsec. (b)(5)(A)(i). Pub. L. 114–95, § 9215(ee)(1)(A), substituted “select challenging State academic content standards, aligned academic achievement standards, and State academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (2) of [section 6311(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b&num=0&edition=prelim)” for “select challenging academic content standards, challenging student academic achievement standards, and academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (3) of [section 6311(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b&num=0&edition=prelim)”.
+
+Subsec. (b)(5)(A)(ii). Pub. L. 114–95, § 9215(ee)(1)(B), substituted “2016–2017 academic year” for “2009–2010 academic year”.
+
+Subsec. (b)(5)(B). Pub. L. 114–95, § 9215(ee)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “annually determine whether such programs at the Clerc Center are making adequate yearly progress, as determined according to the definition of adequate yearly progress defined (pursuant to [section 6311(b)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/C&num=0&edition=prelim)) by the State that has adopted and implemented the standards and assessments selected under subparagraph (A)(i); and”.
+
+Subsec. (b)(5)(C). Pub. L. 114–95, § 9215(ee)(3), substituted “the results of the annual evaluation of the programs at the Clerc Center” for “whether the programs at the Clerc Center are making adequate yearly progress”.
+
 2008—Pub. L. 110–315, § 901(1), substituted “Laurent Clerc National Deaf Education Center” for “Elementary and secondary education programs” in section catchline.
 
 Subsec. (a)(1)(A). Pub. L. 110–315, § 901(2), inserted “the Laurent Clerc National Deaf Education Center (referred to in this section as the ‘Clerc Center’) to carry out” after “maintain and operate”.
@@ -268,6 +276,9 @@ Subsec. (a)(1). Pub. L. 103–73, § 203(d)(2), in subpar. (A) substituted “de
 Subsec. (b)(1). Pub. L. 103–73, § 203(d)(3), substituted “infants, children, and youth” for “infants and children” in subpar. (A) and a period for the semicolon at end of subpar. (C).
 
 Subsec. (b)(4). Pub. L. 103–73, § 203(d)(4), substituted “program” for “programs” in subpar. (A), “the child to and from that program” for “students to and from those programs” in subpar. (B), and “a decision” for “decisions” in subpar. (C)(iii).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
@@ -722,7 +733,7 @@ Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L
 ## § 4355. Monitoring, evaluation, and reporting
 **(a) Activities** The Secretary shall conduct monitoring and evaluation activities of the education programs and activities and the administrative operations of the University (including the elementary, secondary, undergraduate, and graduate programs) and of NTID. The Secretary may also conduct studies related to the provision of preschool, elementary, secondary, and postsecondary education and other related services to individuals who are deaf or hard of hearing. In carrying out the responsibilities described in this section, the Secretary is authorized to employ such consultants as may be necessary pursuant to [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim).
 
-**(b) Report** The Secretary shall annually transmit information to Congress on the monitoring and evaluation activities pursuant to subsection (a) of this section, together with such recommendations, including recommendations for legislation, as the Secretary may consider necessary.
+**(b) Report** The Secretary shall annually transmit information to Congress on the monitoring and evaluation activities pursuant to subsection (a), together with such recommendations, including recommendations for legislation, as the Secretary may consider necessary.
 
 **(c) Authorization of appropriations** There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 through 2014 to carry out the monitoring and evaluation activities authorized under this section.
 
@@ -803,13 +814,13 @@ Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. 
 
 **(b) Federal payments**
 
-(1) The Secretary shall, consistent with this section, make payments to the Federal endowment funds established under subsection (a) of this section from amounts appropriated under subsection (h) of this section for the fund involved.
+(1) The Secretary shall, consistent with this section, make payments to the Federal endowment funds established under subsection (a) from amounts appropriated under subsection (h) for the fund involved.
 
 (2) Subject to the availability of appropriations, the Secretary shall make payments to each Federal endowment fund in amounts equal to sums contributed to the fund from non-Federal sources during the fiscal year in which the appropriations are made available (excluding transfers from other endowment funds of the institution involved).
 
 **(c) Investments**
 
-(1) Except as provided in subsection (e) of this section, the University and NTID, respectively, shall invest the Federal contribution of its Federal endowment fund corpus and income in instruments and securities offered through one or more cooperative service organizations of operating educational organizations under [section 501(f) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/f&num=0&edition=prelim), or in low-risk instruments and securities in which a regulated insurance company may invest under the laws of the State in which the institution involved is located.
+(1) Except as provided in subsection (e), the University and NTID, respectively, shall invest the Federal contribution of its Federal endowment fund corpus and income in instruments and securities offered through one or more cooperative service organizations of operating educational organizations under [section 501(f) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/f&num=0&edition=prelim), or in low-risk instruments and securities in which a regulated insurance company may invest under the laws of the State in which the institution involved is located.
 
 (2) In managing the investment of its Federal endowment fund, the University or NTID shall exercise the judgment and care, under the prevailing circumstances, that a person of prudence, discretion, and intelligence would exercise in the management of that person’s own business affairs.
 
@@ -839,7 +850,7 @@ Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. 
 
     (iii) another unusual occurrence or exigent circumstance.
 
-**(e) Investment and expenditure flexibility** The corpus associated with a Federal payment (and its non-Federal match) made to the Federal endowment fund of the University or NTID shall not be subject to the investment limitations of subsection (c)(1) of this section after 10 fiscal years following the fiscal year in which the funds are matched, and the income generated from such corpus after the tenth fiscal year described in this subsection shall not be subject to such investment limitations or to the withdrawal and expenditure limitations of subsection (d)(3) of this section.
+**(e) Investment and expenditure flexibility** The corpus associated with a Federal payment (and its non-Federal match) made to the Federal endowment fund of the University or NTID shall not be subject to the investment limitations of subsection (c)(1) after 10 fiscal years following the fiscal year in which the funds are matched, and the income generated from such corpus after the tenth fiscal year described in this subsection shall not be subject to such investment limitations or to the withdrawal and expenditure limitations of subsection (d)(3).
 
 **(f) Recovery of payments** After notice and an opportunity for a hearing, the Secretary is authorized to recover any Federal payments under this section if the University or NTID—
 
@@ -914,7 +925,7 @@ Repeal effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244
 
 <a id="section-4359"></a>
 ## § 4359. Oversight and effect of agreements
-**(a) Oversight activities** Nothing in this chapter shall be construed to diminish the oversight activities of the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate with respect to any agreement entered into between the Secretary of Education and Gallaudet University, and the institution of higher education with which the Secretary has an agreement under part B of subchapter I of this chapter.
+**(a) Oversight activities** Nothing in this chapter shall be construed to diminish the oversight activities of the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate with respect to any agreement entered into between the Secretary of Education and Gallaudet University, and the institution of higher education with which the Secretary has an agreement under part B of subchapter I.
 
 **(b) Construction of agreements** The agreements described in subsection (a) of this section shall continue in effect, to the extent that such agreements are not inconsistent with this chapter.
 
@@ -930,7 +941,7 @@ Another prior section 208 of Pub. L. 99–371 was classified to [section 4358 of
 
 1998—Subsec. (a). Pub. L. 105–244, § 921(1), substituted “Committee on Education and the Workforce” for “Committee on Education and Labor”.
 
-1993—Subsec. (a). Pub. L. 103–73, § 204(g)(1), substituted “an agreement under part B of subchapter I of this chapter” for “an agreement under title II”.
+1993—Subsec. (a). Pub. L. 103–73, § 204(g)(1), substituted “an agreement under part B of subchapter I” for “an agreement under title II”.
 
 Subsec. (b). Pub. L. 103–73, § 204(g)(2), struck out “the provisions of” after “inconsistent with”.
 
@@ -1014,7 +1025,7 @@ Section effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as
 
 **(b) Research reports** The University and NTID shall each prepare and submit an annual research report, to the Secretary, the Committee on Education and Labor of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, not later than January 10 of each year, that shall include—
 
-(1) a summary of the public input received as part of the establishment and dissemination of priorities required by subsection (a) of this section, and the University’s and NTID’s response to the input; and
+(1) a summary of the public input received as part of the establishment and dissemination of priorities required by subsection (a), and the University’s and NTID’s response to the input; and
 
 (2) a summary description of the research undertaken by the University and NTID, the start and projected end dates for each research project, the projected cost and source or sources of funding for each project, and any products resulting from research completed in the prior fiscal year.
 
@@ -1059,7 +1070,7 @@ Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–24
 
 (1) recommendations relating to educated-related factors that contribute to successful postsecondary education experiences and employment for individuals who are deaf, including recommendations for legislation, that the commission deems appropriate; and
 
-(2) a detailed summary of the input received under subsection (b) of this section and the ways in which the report addresses such input.
+(2) a detailed summary of the input received under subsection (b) and the ways in which the report addresses such input.
 
 **(d) Authorization of appropriations** There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 and 2010 to carry out the provisions of this section.
 
@@ -1085,7 +1096,7 @@ Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–24
 
 <a id="section-4360a"></a>
 ## § 4360a. Authorization of appropriations
-**(a) Gallaudet University** There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 through 2014 to carry out the provisions of subchapter I of this chapter and this subchapter, relating to—
+**(a) Gallaudet University** There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 through 2014 to carry out the provisions of subchapter I and this subchapter, relating to—
 
 (1) Gallaudet University;
 
@@ -1093,7 +1104,7 @@ Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–24
 
 (3) the Model Secondary School for the Deaf.
 
-**(b) National Technical Institute for the Deaf** There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 through 2014 to carry out the provisions of subchapter I of this chapter and this subchapter relating to the National Technical Institute for the Deaf.
+**(b) National Technical Institute for the Deaf** There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 through 2014 to carry out the provisions of subchapter I and this subchapter relating to the National Technical Institute for the Deaf.
 
 ### Statutory Notes
 

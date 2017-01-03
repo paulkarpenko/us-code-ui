@@ -55,7 +55,7 @@ In this chapter:
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
 | 2232 | 50:886. | Sept. 11, 1950, ch. 945, § 7, 64 Stat. 831. |
 
-Clause (1) is substituted for 50:886(b). The words “(2) Puerto Rico; and (3) the District of Columbia” are omitted, since they are specifically included, where applicable, in the revised chapter. The words “together with any improvement thereto” and “of the United States” are omitted as surplusage. 50:886(c) is omitted, since the reserve components of the armed forces are named in [section 261 of this title](./chapter-011-reserve-components.md#section-261). 50:886(d) is omitted, since its subject matter is covered by other relevant sections of the revised chapter.
+Clause (1) is substituted for 50:886(b). The words “(2) Puerto Rico; and (3) the District of Columbia” are omitted, since they are specifically included, where applicable, in the revised chapter. The words “together with any improvement thereto” and “of the United States” are omitted as surplusage. 50:886(c) is omitted, since the reserve components of the armed forces are named in [section 261 of this title](./chapter-014-arming-of-american-vessels.md#section-261). 50:886(d) is omitted, since its subject matter is covered by other relevant sections of the revised chapter.
 
 | 1958 Act |  |  |
 | --- | --- | --- |
@@ -211,7 +211,7 @@ Section 16 of Pub. L. 85–861, Sept. 2, 1958, 72 Stat. 1558, provided that not 
 
 <a id="section-18233a"></a>
 ## § 18233a. Notice and wait requirements for certain projects
-**(a) Congressional Notification.—** Except as provided in subsection (b), an expenditure or contribution in an amount in excess of $750,000 may not be made under [section 18233 of this title](./chapter-1803-facilities-for-reserve-components.md#section-18233) for any facility until—
+**(a) Congressional Notification.—** Except as provided in subsection (b), an expenditure or contribution in excess of the amount specified in [section 2805(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2805/b/1&num=0&edition=prelim) may not be made under [section 18233 of this title](./chapter-1803-facilities-for-reserve-components.md#section-18233) for any facility until—
 
 (1) the Secretary of Defense has notified the congressional defense committees of the location, nature, and estimated cost of the facility; and
 
@@ -231,11 +231,15 @@ Section 16 of Pub. L. 85–861, Sept. 2, 1958, 72 Stat. 1558, provided that not 
 
     (ii) 200 percent of the amount specified by [section 2805(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2805/a&num=0&edition=prelim) as the maximum amount for a minor military construction project.
 
-(3) A repair project (as that term is defined in [section 2811(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2811/e&num=0&edition=prelim)) that costs less than $7,500,000.
+(3) A repair project (as that term is defined in subsection (e) of [section 2811 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2811)) that costs less than the amount specified in subsection (d) of such section.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (a). Pub. L. 114–92, § 2801(1), substituted “in excess of the amount specified in [section 2805(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2805/b/1&num=0&edition=prelim)” for “in an amount in excess of $750,000” in introductory provisions.
+
+Subsec. (b)(3). Pub. L. 114–92, § 2801(2), substituted “subsection (e) of [section 2811 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2811)) that costs less than the amount specified in subsection (d) of such section” for “[section 2811(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2811/e&num=0&edition=prelim)) that costs less than $7,500,000”.
+
 2011—Subsec. (b)(2)(B)(ii). Pub. L. 112–81 substituted “section 2805(a)” for “section 2805(a)(2)”.
 
 2004—Pub. L. 108–375 amended section generally, substituting provisions relating to notice and wait requirements for certain projects for provisions relating to limitation on certain projects and authority to carry out small projects with operation and maintenance funds.

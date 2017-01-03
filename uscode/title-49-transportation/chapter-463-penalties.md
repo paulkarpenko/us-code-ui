@@ -2,7 +2,7 @@
 title: 49
 chapter: '463'
 heading: PENALTIES
-section_count: 19
+section_count: 20
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -84,7 +84,7 @@ source: >-
 
   (D) “repairman” means an individual who holds a repairman certificate issued under part 65 of title 14, Code of Federal Regulations.
 
-(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 451, section 46301(b), section 46302 (for a violation relating to section 46504), section 46318, section 46319, or section 47107(b) (as further defined by the Secretary under section 47107(k) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), section 46302 (except for a violation relating to section 46504), or [section 46303 of this title](./chapter-463-penalties.md#section-46303) or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security or Administrator shall give written notice of the finding of a violation and the penalty.
+(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 451, section 46301(b), section 46302 (for a violation relating to section 46504), section 46318, section 46319, section 46320, or section 47107(b) (as further defined by the Secretary under section 47107(k) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), section 46302 (except for a violation relating to section 46504), or [section 46303 of this title](./chapter-463-penalties.md#section-46303) or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security or Administrator shall give written notice of the finding of a violation and the penalty.
 
 (3) In a civil action to collect a civil penalty imposed by the Secretary of Homeland Security or Administrator under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
 
@@ -269,6 +269,8 @@ The date of enactment of this paragraph, referred to in subsec. (a)(6), is the d
 The date of enactment of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (d)(4)(A), (8), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
 #### Amendments
+2016—Subsec. (d)(2). Pub. L. 114–190 inserted “section 46320,” after “section 46319,”.
+
 2014—Subsec. (d)(2). Pub. L. 113–188 substituted “section 47107(k)” for “section 47107(l)”.
 
 2012—Subsec. (a)(1)(A). Pub. L. 112–95, § 803(1), inserted “chapter 451,” before “section 47107(b)”.
@@ -463,6 +465,9 @@ Pub. L. 102–345, § 2(c), Aug. 26, 1992, 106 Stat. 925, provided that: “Notw
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Laser Pointer Incidents
+Pub. L. 114–190, title II, § 2104, July 15, 2016, 130 Stat. 620, provided that: “(a) In General.—Beginning 90 days after the date of enactment of this Act [July 15, 2016], the Administrator of the Federal Aviation Administration, in coordination with appropriate Federal law enforcement agencies, shall provide quarterly updates to the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives] regarding—“(1) the number of incidents involving the beam from a laser pointer (as defined in [section 39A of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section39A&num=0&edition=prelim), United States Code) being aimed at, or in the flight path of, an aircraft in the airspace jurisdiction of the United States; “(2) the number of civil or criminal enforcement actions taken by the Federal Aviation Administration, the Department of Transportation, or another Federal agency with regard to the incidents described in paragraph (1), including the amount of the civil or criminal penalties imposed on violators; “(3) the resolution of any incidents described in paragraph (1) that did not result in a civil or criminal enforcement action; and “(4) any actions the Department of Transportation or another Federal agency has taken on its own, or in conjunction with other Federal agencies or local law enforcement agencies, to deter the type of activity described in paragraph (1). “(b) Civil Penalties.—The Administrator shall revise the maximum civil penalty that may be imposed on an individual who aims the beam of a laser pointer at an aircraft in the airspace jurisdiction of the United States, or at the flight path of such an aircraft, to be $25,000.”
+
 
 <a id="section-46302"></a>
 ## § 46302. False information
@@ -646,7 +651,7 @@ The text of 49 App.:1473(b)(4) is omitted because of 28:ch. 131. The words “im
 
 **(d) Seizure and Forfeiture.—**
 
-(1) The Administrator of Drug Enforcement or the Commissioner of Customs may seize and forfeit under the customs laws an aircraft whose use is related to a violation of subsection (b) of this section, or to aid or facilitate a violation, regardless of whether a person is charged with the violation.
+(1) The Administrator of Drug Enforcement or the Commissioner of U.S. Customs and Border Protection may seize and forfeit under the customs laws an aircraft whose use is related to a violation of subsection (b) of this section, or to aid or facilitate a violation, regardless of whether a person is charged with the violation.
 
 (2) An aircraft’s use is presumed to have been related to a violation of, or to aid or facilitate a violation of—
 
@@ -720,11 +725,14 @@ This makes a clarifying amendment to 49:46306(c)(2)(B).
 #### Amendments
 1996—Subsec. (c)(2)(B). Pub. L. 104–287 inserted “that is” before “provided”.
 
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (d)(1) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under [section 5303 of this title](./chapter-053-public-transportation.md#section-5303).
 
 #### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 
 <a id="section-46307"></a>
@@ -1092,3 +1100,22 @@ Section applicable only to fiscal years beginning after Sept. 30, 1999, see sect
 
 #### Effective Date
 Section applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as an Effective Date of 2003 Amendment note under [section 106 of this title](./chapter-001-organization.md#section-106).
+
+
+<a id="section-46320"></a>
+## § 46320. Interference with wildfire suppression, law enforcement, or emergency response effort by operation of unmanned aircraft
+**(a) In General.—** Except as provided in subsection (b), an individual who operates an unmanned aircraft and in so doing knowingly or recklessly interferes with a wildfire suppression, law enforcement, or emergency response effort is liable to the United States Government for a civil penalty of not more than $20,000.
+
+**(b) Exceptions.—** This section does not apply to the operation of an unmanned aircraft conducted by a unit or agency of the United States Government or of a State, tribal, or local government (including any individual conducting such operation pursuant to a contract or other agreement entered into with the unit or agency) for the purpose of protecting the public safety and welfare, including firefighting, law enforcement, or emergency response.
+
+**(c) Compromise and Setoff.—**
+
+(1) **Compromise.—** — The United States Government may compromise the amount of a civil penalty imposed under this section.
+
+(2) **Setoff.—** — The United States Government may deduct the amount of a civil penalty imposed or compromised under this section from the amounts the Government owes the person liable for the penalty.
+
+**(d) Definitions.—** In this section, the following definitions apply:
+
+(1) **Wildfire.—** — The term “wildfire” has the meaning given that term in section 2 of the Emergency Wildfire Suppression Act ([42 U.S.C. 1856m](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1856m&num=0&edition=prelim)).
+
+(2) **Wildfire suppression.—** — The term “wildfire suppression” means an effort to contain, extinguish, or suppress a wildfire.

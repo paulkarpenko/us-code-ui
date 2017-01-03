@@ -80,7 +80,7 @@ Pub. L. 89–454, title III, § 301, as added by Pub. L. 92–583, Oct. 27, 1972
 Pub. L. 110–114, title V, § 5022, Nov. 8, 2007, 121 Stat. 1203, provided that: “The Secretary [of the Army] may participate with Federal, State, and local agencies, non-Federal and nonprofit entities, regional researchers, and other interested parties to assess hypoxia in the Gulf of Mexico.”
 
 #### Harmful Algal Blooms and Hypoxia Research and Control
-Pub. L. 108–456, title I, § 102, Dec. 10, 2004, 118 Stat. 3630, formerly set out in part as a note under this section, was transferred to [section 4001a of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section4001a&num=0&edition=prelim), Navigation and Navigable Waters.
+Pub. L. 108–456, title I, § 102 (part), Dec. 10, 2004, 118 Stat. 3630, formerly set out as a note under this section, was transferred to [section 4001a of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section4001a&num=0&edition=prelim), Navigation and Navigable Waters.
 
 Pub. L. 105–383, title VI, Nov. 13, 1998, 112 Stat. 3447, as amended by Pub. L. 108–456, title I, §§ 102–105, Dec. 10, 2004, 118 Stat. 3630–3633; Pub. L. 110–161, div. B, title V, § 528, Dec. 26, 2007, 121 Stat. 1930, formerly set out as a note under this section, was transferred to chapter 53 (§ 4001 et seq.) of Title 33, Navigation and Navigable Waters.
 
@@ -348,7 +348,7 @@ Pub. L. 104–150, § 2(b)(3), June 3, 1996, 110 Stat. 1380, provided that: “T
 
 (2) For programs approved after November 5, 1990, 4 to 1 for the first fiscal year, 2.3 to 1 for the second fiscal year, 1.5 to 1 for the third fiscal year, and 1 to 1 for each fiscal year thereafter.
 
-**(b) Grants to coastal states; requirements** The Secretary may make a grant to a coastal state under subsection (a) of this section only if the Secretary finds that the management program of the coastal state meets all applicable requirements of this chapter and has been approved in accordance with subsection (d) of this section.
+**(b) Grants to coastal states; requirements** The Secretary may make a grant to a coastal state under subsection (a) only if the Secretary finds that the management program of the coastal state meets all applicable requirements of this chapter and has been approved in accordance with subsection (d).
 
 **(c) Allocation of grants to coastal states** Grants under this section shall be allocated to coastal states with approved programs based on rules and regulations promulgated by the Secretary which shall take into account the extent and nature of the shoreline and area covered by the program, population of the area, and other relevant factors. The Secretary shall establish, after consulting with the coastal states, maximum and minimum grants for any fiscal year to promote equity between coastal states and effective coastal management.
 
@@ -519,7 +519,7 @@ Pub. L. 101–508, title VI, § 6206(b), Nov. 5, 1990, 104 Stat. 1388–306, pro
 
   (B) low-cost construction projects determined by the Secretary to be consistent with the purposes of this section, including but not limited to, paths, walkways, fences, parks, and the rehabilitation of historic buildings and structures; except that not more than 50 per centum of any grant made under this section may be used for such construction projects;
 
-  (C) in the case of grants made for objectives described in subsection (b)(2) of this section—
+  (C) in the case of grants made for objectives described in subsection (b)(2)—
 
     (i) the rehabilitation or acquisition of piers to provide increased public use, including compatible commercial activity,
 
@@ -570,11 +570,11 @@ Pub. L. 101–508, § 6207, inserted before period at end “, or for the purpos
 ## § 1455b. Protecting coastal waters
 **(a) In general**
 
-(1) **Program development** — Not later than 30 months after the date of the publication of final guidance under subsection (g) of this section, each State for which a management program has been approved pursuant to section 306 of the Coastal Zone Management Act of 1972 [[16 U.S.C. 1455](./chapter-033-coastal-zone-management.md#section-1455)] shall prepare and submit to the Secretary and the Administrator a Coastal Nonpoint Pollution Control Program for approval pursuant to this section. The purpose of the program shall be to develop and implement management measures for nonpoint source pollution to restore and protect coastal waters, working in close conjunction with other State and local authorities.
+(1) **Program development** — Not later than 30 months after the date of the publication of final guidance under subsection (g), each State for which a management program has been approved pursuant to section 306 of the Coastal Zone Management Act of 1972 [[16 U.S.C. 1455](./chapter-033-coastal-zone-management.md#section-1455)] shall prepare and submit to the Secretary and the Administrator a Coastal Nonpoint Pollution Control Program for approval pursuant to this section. The purpose of the program shall be to develop and implement management measures for nonpoint source pollution to restore and protect coastal waters, working in close conjunction with other State and local authorities.
 
 (2) **Program coordination** — A State program under this section shall be coordinated closely with State and local water quality plans and programs developed pursuant to sections 1288, 1313, 1329, and 1330 of title 33 and with State plans developed pursuant to the Coastal Zone Management Act of 1972, as amended by this Act [[16 U.S.C. 1451](./chapter-033-coastal-zone-management.md#section-1451) et seq.]. The program shall serve as an update and expansion of the State nonpoint source management program developed under [section 1329 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1329&num=0&edition=prelim), as the program under that section relates to land and water uses affecting coastal waters.
 
-**(b) Program contents** Each State program under this section shall provide for the implementation, at a minimum, of management measures in conformity with the guidance published under subsection (g) of this section, to protect coastal waters generally, and shall also contain the following:
+**(b) Program contents** Each State program under this section shall provide for the implementation, at a minimum, of management measures in conformity with the guidance published under subsection (g), to protect coastal waters generally, and shall also contain the following:
 
 (1) **Identifying land uses** — The identification of, and a continuing process for identifying, land uses which, individually or cumulatively, may cause or contribute significantly to a degradation of—
 
@@ -582,7 +582,7 @@ Pub. L. 101–508, § 6207, inserted before period at end “, or for the purpos
 
   (B) those coastal waters that are threatened by reasonably foreseeable increases in pollution loadings from new or expanding sources.
 
-(2) **Identifying critical coastal areas** — The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph (1)(A) and (B), within which any new land uses or substantial expansion of existing land uses shall be subject to management measures in addition to those provided for in subsection (g) of this section.
+(2) **Identifying critical coastal areas** — The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph (1)(A) and (B), within which any new land uses or substantial expansion of existing land uses shall be subject to management measures in addition to those provided for in subsection (g).
 
 (3) **Management measures** — The implementation and continuing revision from time to time of additional management measures applicable to the land uses and areas identified pursuant to paragraphs (1) and (2) that are necessary to achieve and maintain applicable water quality standards under [section 1313 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1313&num=0&edition=prelim) and protect designated uses.
 
@@ -592,7 +592,7 @@ Pub. L. 101–508, § 6207, inserted before period at end “, or for the purpos
 
 (6) **Administrative coordination** — The establishment of mechanisms to improve coordination among State agencies and between State and local officials responsible for land use programs and permitting, water quality permitting and enforcement, habitat protection, and public health and safety, through the use of joint project review, memoranda of agreement, or other mechanisms.
 
-(7) **State coastal zone boundary modification** — A proposal to modify the boundaries of the State coastal zone as the coastal management agency of the State determines is necessary to implement the recommendations made pursuant to subsection (e) of this section. If the coastal management agency does not have the authority to modify such boundaries, the program shall include recommendations for such modifications to the appropriate State authority.
+(7) **State coastal zone boundary modification** — A proposal to modify the boundaries of the State coastal zone as the coastal management agency of the State determines is necessary to implement the recommendations made pursuant to subsection (e). If the coastal management agency does not have the authority to modify such boundaries, the program shall include recommendations for such modifications to the appropriate State authority.
 
 **(c) Program submission, approval, and implementation**
 
@@ -602,7 +602,7 @@ Pub. L. 101–508, § 6207, inserted before period at end “, or for the purpos
 
   (B) the Administrator determines that the portions of the program under the authority of the Administrator meet the requirements of this section and the Secretary concurs with that determination.
 
-(2) **Implementation of approved program** — If the program of a State is approved in accordance with paragraph (1), the State shall implement the program, including the management measures included in the program pursuant to subsection (b) of this section, through—
+(2) **Implementation of approved program** — If the program of a State is approved in accordance with paragraph (1), the State shall implement the program, including the management measures included in the program pursuant to subsection (b), through—
 
   (A) changes to the State plan for control of nonpoint source pollution approved under [section 1329 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1329&num=0&edition=prelim); and
 
@@ -690,9 +690,9 @@ Pub. L. 101–508, § 6207, inserted before period at end “, or for the purpos
 
 (2) **Secretary**
 
-  (A) Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) 11 See References in Text note below. of the Coastal Zone Management Act of 1972, as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for that fiscal year, other than for providing in the form of grants under subsection (f) of this section.
+  (A) Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) 11 See References in Text note below. of the Coastal Zone Management Act of 1972, as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for that fiscal year, other than for providing in the form of grants under subsection (f).
 
-  (B) There is authorized to be appropriated to the Secretary for use for providing in the form of grants under subsection (f) of this section not more than—
+  (B) There is authorized to be appropriated to the Secretary for use for providing in the form of grants under subsection (f) not more than—
 
     (i) $6,000,000 for fiscal year 1992;
 
@@ -744,7 +744,7 @@ Section was enacted as part of the Coastal Zone Act Reauthorization Amendments o
 
   (A) Each Federal agency activity within or outside the coastal zone that affects any land or water use or natural resource of the coastal zone shall be carried out in a manner which is consistent to the maximum extent practicable with the enforceable policies of approved State management programs. A Federal agency activity shall be subject to this paragraph unless it is subject to paragraph (2) or (3).
 
-  (B) After any final judgment, decree, or order of any Federal court that is appealable under section 1291 or 1292 of title 28, or under any other applicable provision of Federal law, that a specific Federal agency activity is not in compliance with subparagraph (A), and certification by the Secretary that mediation under subsection (h) of this section is not likely to result in such compliance, the President may, upon written request from the Secretary, exempt from compliance those elements of the Federal agency activity that are found by the Federal court to be inconsistent with an approved State program, if the President determines that the activity is in the paramount interest of the United States. No such exemption shall be granted on the basis of a lack of appropriations unless the President has specifically requested such appropriations as part of the budgetary process, and the Congress has failed to make available the requested appropriations.
+  (B) After any final judgment, decree, or order of any Federal court that is appealable under section 1291 or 1292 of title 28, or under any other applicable provision of Federal law, that a specific Federal agency activity is not in compliance with subparagraph (A), and certification by the Secretary that mediation under subsection (h) is not likely to result in such compliance, the President may, upon written request from the Secretary, exempt from compliance those elements of the Federal agency activity that are found by the Federal court to be inconsistent with an approved State program, if the President determines that the activity is in the paramount interest of the United States. No such exemption shall be granted on the basis of a lack of appropriations unless the President has specifically requested such appropriations as part of the budgetary process, and the Congress has failed to make available the requested appropriations.
 
   (C) Each Federal agency carrying out an activity subject to paragraph (1) shall provide a consistency determination to the relevant State agency designated under [section 1455(d)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1455/d/6&num=0&edition=prelim) at the earliest practicable time, but in no case later than 90 days before final approval of the Federal activity unless both the Federal agency and the State agency agree to a different schedule.
 
@@ -784,11 +784,11 @@ the Secretary, with the cooperation of the Executive Office of the President, sh
 
 **(i) Application fee for appeals**
 
-(1) With respect to appeals under subsections (c)(3) and (d) of this section which are submitted after November 5, 1990, the Secretary shall collect an application fee of not less than $200 for minor appeals and not less than $500 for major appeals, unless the Secretary, upon consideration of an applicant’s request for a fee waiver, determines that the applicant is unable to pay the fee.
+(1) With respect to appeals under subsections (c)(3) and (d) which are submitted after November 5, 1990, the Secretary shall collect an application fee of not less than $200 for minor appeals and not less than $500 for major appeals, unless the Secretary, upon consideration of an applicant’s request for a fee waiver, determines that the applicant is unable to pay the fee.
 
 (2)
 
-  (A) The Secretary shall collect such other fees as are necessary to recover the full costs of administering and processing such appeals under subsection (c) of this section.
+  (A) The Secretary shall collect such other fees as are necessary to recover the full costs of administering and processing such appeals under subsection (c).
 
   (B) If the Secretary waives the application fee under paragraph (1) for an applicant, the Secretary shall waive all other fees under this subsection for the applicant.
 
@@ -846,11 +846,11 @@ Subsec. (h). Pub. L. 94–370, § 6(4), added subsec. (h) which incorporates for
 
   (C) Recommend to the Congress that legislation be enacted to forgive the loan.
 
-(2) Loan repayments made pursuant to this subsection shall be retained by the Secretary as offsetting collections, and shall be deposited into the Coastal Zone Management Fund established under subsection (b) of this section.
+(2) Loan repayments made pursuant to this subsection shall be retained by the Secretary as offsetting collections, and shall be deposited into the Coastal Zone Management Fund established under subsection (b).
 
 **(b)**
 
-(1) The Secretary shall establish and maintain a fund, to be known as the “Coastal Zone Management Fund”, which shall consist of amounts retained and deposited into the Fund under subsection (a) of this section and fees deposited into the Fund under [section 1456(i)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1456/i/3&num=0&edition=prelim).
+(1) The Secretary shall establish and maintain a fund, to be known as the “Coastal Zone Management Fund”, which shall consist of amounts retained and deposited into the Fund under subsection (a) and fees deposited into the Fund under [section 1456(i)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1456/i/3&num=0&edition=prelim).
 
 (2) Subject to amounts provided in appropriation Acts, amounts in the Fund shall be available to the Secretary for use for the following:
 
@@ -900,7 +900,7 @@ Subsec. (a)(1). Pub. L. 102–587, § 2205(b)(16), in first sentence, made techn
 
 Pub. L. 102–587, § 2205(b)(1)(A), substituted “coastal state” for “coastal State” in two places.
 
-Subsec. (b)(1). Pub. L. 102–587, § 2205(b)(17), (18), struck out “(hereinafter in this section referred to as the ‘Fund’)” after “Management Fund’ ” and inserted “and fees deposited into the Fund under [section 1456(i)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1456/i/3&num=0&edition=prelim)” after “subsection (a) of this section”.
+Subsec. (b)(1). Pub. L. 102–587, § 2205(b)(17), (18), struck out “(hereinafter in this section referred to as the ‘Fund’)” after “Management Fund’ ” and inserted “and fees deposited into the Fund under [section 1456(i)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1456/i/3&num=0&edition=prelim)” after “subsection (a)”.
 
 Subsec. (b)(2)(B)(vi). Pub. L. 102–587, § 2205(b)(1)(B), substituted “coastal states” for “coastal States”.
 
@@ -976,7 +976,7 @@ Pub. L. 99–626, § 6, Nov. 7, 1986, 100 Stat. 3506, provided that: “The auth
 
   (B) Grants under this paragraph to implement a program change may not be made in any fiscal year after the second fiscal year that begins after the approval of that change by the Secretary.
 
-**(c) Evaluation of State proposals by Secretary** The Secretary shall evaluate and rank State proposals for funding under this section, and make funding awards based on those proposals, taking into account the criteria established by the Secretary under subsection (d) of this section. The Secretary shall ensure that funding decisions under this section take into consideration the fiscal and technical needs of proposing States and the overall merit of each proposal in terms of benefits to the public.
+**(c) Evaluation of State proposals by Secretary** The Secretary shall evaluate and rank State proposals for funding under this section, and make funding awards based on those proposals, taking into account the criteria established by the Secretary under subsection (d). The Secretary shall ensure that funding decisions under this section take into consideration the fiscal and technical needs of proposing States and the overall merit of each proposal in terms of benefits to the public.
 
 **(d) Promulgation of regulations by Secretary** Within 12 months following November 5, 1990, and consistent with the notice and participation requirements established in [section 1463 of this title](./chapter-033-coastal-zone-management.md#section-1463), the Secretary shall promulgate regulations concerning coastal zone enhancement grants that establish—
 
@@ -1172,9 +1172,9 @@ All public hearings required under this chapter must be announced at least thirt
 
 (3) The suspension of financial assistance may not last for less than 6 months or more than 36 months after the date of suspension.
 
-**(d) Withdrawal of approval of program** The Secretary shall withdraw approval of the management program of any coastal state and shall withdraw financial assistance available to that State under this chapter as well as any unexpended portion of such assistance, if the Secretary determines that the coastal state has failed to take the actions referred to in subsection (c)(2)(A) of this section.
+**(d) Withdrawal of approval of program** The Secretary shall withdraw approval of the management program of any coastal state and shall withdraw financial assistance available to that State under this chapter as well as any unexpended portion of such assistance, if the Secretary determines that the coastal state has failed to take the actions referred to in subsection (c)(2)(A).
 
-**(e) Notice and hearing** Management program approval and financial assistance may not be withdrawn under subsection (d) of this section, unless the Secretary gives the coastal state notice of the proposed withdrawal and an opportunity for a public hearing on the proposed action. Upon the withdrawal of management program approval under this subsection (d) of this section, the Secretary shall provide the coastal state with written specifications of the actions that should be taken, or not engaged in, by the state in order that such withdrawal may be canceled by the Secretary.
+**(e) Notice and hearing** Management program approval and financial assistance may not be withdrawn under subsection (d), unless the Secretary gives the coastal state notice of the proposed withdrawal and an opportunity for a public hearing on the proposed action. Upon the withdrawal of management program approval under this subsection (d), the Secretary shall provide the coastal state with written specifications of the actions that should be taken, or not engaged in, by the state in order that such withdrawal may be canceled by the Secretary.
 
 ### Statutory Notes
 
@@ -1248,9 +1248,9 @@ Subsec. (b). Pub. L. 94–370, § 11(3), inserted provisions limiting duration o
 
 (3) up to 10 graduate students whose academic study promises to contribute materially to development of new or improved approaches to coastal zone management.
 
-**(c) Solicitation of nominations for local government recipients** In making selections under subsection (b)(2) of this section the Secretary shall solicit nominations from the coastal states, and shall consult with experts in local government planning and land use.
+**(c) Solicitation of nominations for local government recipients** In making selections under subsection (b)(2) the Secretary shall solicit nominations from the coastal states, and shall consult with experts in local government planning and land use.
 
-**(d) Solicitation of nominations for graduate student recipients** In making selections under subsection (b)(3) of this section the Secretary shall solicit nominations from coastal states and the National Sea Grant College Program.
+**(d) Solicitation of nominations for graduate student recipients** In making selections under subsection (b)(3) the Secretary shall solicit nominations from coastal states and the National Sea Grant College Program.
 
 **(e) Funding; types of awards** Using sums in the Coastal Zone Management Fund established under [section 1456a of this title](./chapter-033-coastal-zone-management.md#section-1456a) and other amounts available to carry out this chapter (other than amounts appropriated to carry out sections 1454, 1455, 1455a, 1456b, 1456c, and 1461 of this title), the Secretary shall establish and execute appropriate awards, to be known as the “Walter B. Jones Awards”, including—
 
@@ -1275,7 +1275,7 @@ A prior section 1460, Pub. L. 89–454, title III, § 314, formerly § 311, as a
 
 (1) each estuarine sanctuary designated under this section as in effect before April 7, 1986; and
 
-(2) each estuarine area designated as a national estuarine reserve under subsection (b) of this section.
+(2) each estuarine area designated as a national estuarine reserve under subsection (b).
 Each estuarine sanctuary referred to in paragraph (1) is hereby designated as a national estuarine reserve.
 
 **(b) Designation of national estuarine reserves** After April 7, 1986, the Secretary may designate an estuarine area as a national estuarine reserve if—
@@ -1302,7 +1302,7 @@ Each estuarine sanctuary referred to in paragraph (1) is hereby designated as a 
 
 (4) the establishment of performance standards upon which the effectiveness of the research efforts and the value of reserves within the System in addressing the coastal management issues identified in paragraph (1) may be measured; and
 
-(5) the consideration of additional sources of funds for estuarine research than the funds authorized under this chapter, and strategies for encouraging the use of such funds within the System, with particular emphasis on mechanisms established under subsection (d) of this section.
+(5) the consideration of additional sources of funds for estuarine research than the funds authorized under this chapter, and strategies for encouraging the use of such funds within the System, with particular emphasis on mechanisms established under subsection (d).
 In developing the guidelines under this section, the Secretary shall consult with prominent members of the estuarine research community.
 
 **(d) Promotion and coordination of estuarine research** The Secretary shall take such action as is necessary to promote and coordinate the use of the System for research purposes including—
@@ -1323,7 +1323,7 @@ In developing the guidelines under this section, the Secretary shall consult wit
 
     (iii) for purposes of conducting educational or interpretive activities; and
 
-  (B) to any coastal state or public or private person for purposes of supporting research and monitoring within a national estuarine reserve that are consistent with the research guidelines developed under subsection (c) of this section.
+  (B) to any coastal state or public or private person for purposes of supporting research and monitoring within a national estuarine reserve that are consistent with the research guidelines developed under subsection (c).
 
 (2) Financial assistance provided under paragraph (1) shall be subject to such terms and conditions as the Secretary considers necessary or appropriate to protect the interests of the United States, including requiring coastal states to execute suitable title documents setting forth the property interest or interests of the United States in any lands and waters acquired in whole or part with such financial assistance.
 
@@ -1339,13 +1339,13 @@ In developing the guidelines under this section, the Secretary shall consult wit
 
 (1) The Secretary shall periodically evaluate the operation and management of each national estuarine reserve, including education and interpretive activities, and the research being conducted within the reserve.
 
-(2) If evaluation under paragraph (1) reveals that the operation and management of the reserve is deficient, or that the research being conducted within the reserve is not consistent with the research guidelines developed under subsection (c) of this section, the Secretary may suspend the eligibility of that reserve for financial assistance under subsection (e) of this section until the deficiency or inconsistency is remedied.
+(2) If evaluation under paragraph (1) reveals that the operation and management of the reserve is deficient, or that the research being conducted within the reserve is not consistent with the research guidelines developed under subsection (c), the Secretary may suspend the eligibility of that reserve for financial assistance under subsection (e) until the deficiency or inconsistency is remedied.
 
 (3) The Secretary may withdraw the designation of an estuarine area as a national estuarine reserve if evaluation under paragraph (1) reveals that—
 
-  (A) the basis for any one or more of the findings made under subsection (b)(2) of this section regarding that area no longer exists; or
+  (A) the basis for any one or more of the findings made under subsection (b)(2) regarding that area no longer exists; or
 
-  (B) a substantial portion of the research conducted within the area, over a period of years, has not been consistent with the research guidelines developed under subsection (c) of this section.
+  (B) a substantial portion of the research conducted within the area, over a period of years, has not been consistent with the research guidelines developed under subsection (c).
 
 **(g) Report** The Secretary shall include in the report required under [section 1462 of this title](./chapter-033-coastal-zone-management.md#section-1462) information regarding—
 
@@ -1355,7 +1355,7 @@ In developing the guidelines under this section, the Secretary shall consult wit
 
 (3) the status of the research program being conducted within the System; and
 
-(4) a summary of the evaluations made under subsection (f) of this section.
+(4) a summary of the evaluations made under subsection (f).
 
 ### Statutory Notes
 
@@ -1393,7 +1393,7 @@ The amount of any such grant shall not exceed 50 per centum of the cost of the p
 ## § 1462. Coastal zone management reports
 **(a) Biennial reports** The Secretary shall consult with the Congress on a regular basis concerning the administration of this chapter and shall prepare and submit to the President for transmittal to the Congress a report summarizing the administration of this chapter during each period of two consecutive fiscal years. Each report, which shall be transmitted to the Congress not later than April 1 of the year following the close of the biennial period to which it pertains, shall include, but not be restricted to (1) an identification of the state programs approved pursuant to this chapter during the preceding Federal fiscal year and a description of those programs; (2) a listing of the states participating in the provisions of this chapter and a description of the status of each state’s programs and its accomplishments during the preceding Federal fiscal year; (3) an itemization of the allocation of funds to the various coastal states and a breakdown of the major projects and areas on which these funds were expended; (4) an identification of any state programs which have been reviewed and disapproved, and a statement of the reasons for such actions; (5) a summary of evaluation findings prepared in accordance with subsection (a) of [section 1458 of this title](./chapter-033-coastal-zone-management.md#section-1458), and a description of any sanctions imposed under subsections (c) and (d) of [section 1458 of this title](./chapter-033-coastal-zone-management.md#section-1458); (6) a listing of all activities and projects which, pursuant to the provisions of subsection (c) or subsection (d) of [section 1456 of this title](./chapter-033-coastal-zone-management.md#section-1456), are not consistent with an applicable approved state management program; (7) a summary of the regulations issued by the Secretary or in effect during the preceding Federal fiscal year; (8) a summary of a coordinated national strategy and program for the Nation’s coastal zone including identification and discussion of Federal, regional, state, and local responsibilities and functions therein; (9) a summary of outstanding problems arising in the administration of this chapter in order of priority; (10) a description of the economic, environmental, and social consequences of energy activity affecting the coastal zone and an evaluation of the effectiveness of financial assistance under [section 1456a of this title](./chapter-033-coastal-zone-management.md#section-1456a) in dealing with such consequences; (11) a description and evaluation of applicable interstate and regional planning and coordination mechanisms developed by the coastal states; (12) a summary and evaluation of the research, studies, and training conducted in support of coastal zone management; and (13) such other information as may be appropriate.
 
-**(b) Recommendations for legislation** The report required by subsection (a) of this section shall contain such recommendations for additional legislation as the Secretary deems necessary to achieve the objectives of this chapter and enhance its effective operation.
+**(b) Recommendations for legislation** The report required by subsection (a) shall contain such recommendations for additional legislation as the Secretary deems necessary to achieve the objectives of this chapter and enhance its effective operation.
 
 **(c) Review of other Federal programs; report to Congress**
 
@@ -1604,7 +1604,7 @@ Subsec. (a)(3). Pub. L. 93–612, § 1(3)(B), inserted “and for each of the th
 
 **(b) Closure of record**
 
-(1) **In general** — Not later than the end of the 160-day period beginning on the date of publication of an initial notice under subsection (a) of this section, except as provided in paragraph (3), the Secretary shall immediately close the decision record and receive no more filings on the appeal.
+(1) **In general** — Not later than the end of the 160-day period beginning on the date of publication of an initial notice under subsection (a), except as provided in paragraph (3), the Secretary shall immediately close the decision record and receive no more filings on the appeal.
 
 (2) **Notice** — After closing the administrative record, the Secretary shall immediately publish a notice in the Federal Register that the administrative record has been closed.
 

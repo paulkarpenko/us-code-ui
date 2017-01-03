@@ -55,7 +55,7 @@ In this chapter:
 
 (4) **Indian** — The term “Indian” means an individual who is a member of an Indian tribe.
 
-(5) **Indian tribe** — The term “Indian tribe” means any Indian or Alaska Native tribe, band, nation, pueblo, village, or other community the name of which is included on a list published by the Secretary of the Interior pursuant to [section 479a–1 of this title](./chapter-014-miscellaneous.md#section-479a-1).
+(5) **Indian tribe** — The term “Indian tribe” means any Indian or Alaska Native tribe, band, nation, pueblo, village, or other community the name of which is included on a list published by the Secretary of the Interior pursuant to [section 5131 of this title](./chapter-045-protection-of-indians-and-conservation-of-resources.md#section-5131).
 
 (6) **Lineal descendant** — The term “lineal descendant” means an individual that can trace, directly and without interruption, the ancestry of the individual through the traditional kinship system of an Indian tribe, or through the common law system of descent, to a known Indian, the human remains, funerary objects, or other sacred objects of whom are claimed by the individual.
 

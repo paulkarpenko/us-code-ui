@@ -52,7 +52,7 @@ Prior to repeal, section was classified to section 1375b of former Title 10, Arm
 ### Statutory Notes
 
 #### Codification
-Section, act Apr. 30, 1908, ch. 153, 35 Stat. 73, relating to transportation of Indian goods and supplies, was transferred to [section 443b of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section443b&num=0&edition=prelim), Indians.
+Section, act Apr. 30, 1908, ch. 153, 35 Stat. 73, relating to transportation of Indian goods and supplies, was transferred to [section 443b of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section443b&num=0&edition=prelim), Indians, prior to editorial reclassification as a note under [section 1457 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1457&num=0&edition=prelim), Public Lands.
 
 
 <a id="section-94-95"></a>

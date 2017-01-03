@@ -2,7 +2,7 @@
 title: 38
 chapter: '7'
 heading: EMPLOYEES
-section_count: 8
+section_count: 18
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -50,7 +50,7 @@ Pub. L. 113–146, title III, § 303, Aug. 7, 2014, 128 Stat. 1788, provided tha
 [For definition of “facility of the Department” as used in section 303 of Pub. L. 113–146, set out above, see section 2 of Pub. L. 113–146, set out as a note under [section 1701 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1701).]
 
 #### Limitation on Awards and Bonuses Paid to Employees of Department of Veterans Affairs
-Pub. L. 113–146, title VII, § 705, Aug. 7, 2014, 128 Stat. 1798, provided that: “In each of fiscal years 2015 through 2024, the Secretary of Veterans Affairs shall ensure that the aggregate amount of awards and bonuses paid by the Secretary in a fiscal year under chapter 45 or 53 of title 5, United States Code, or any other awards or bonuses authorized under such title does not exceed $360,000,000.”
+Pub. L. 113–146, title VII, § 705, Aug. 7, 2014, 128 Stat. 1798, as amended by Pub. L. 114–198, title IX, § 951, July 22, 2016, 130 Stat. 778, provided that: “(a) Limitation.—The Secretary of Veterans Affairs shall ensure that the aggregate amount of awards and bonuses paid by the Secretary in a fiscal year under chapter 45 or 53 of title 5, United States Code, or any other awards or bonuses authorized under such title or title 38, United States Code, does not exceed the following amounts:“(1) With respect to each of fiscal years 2017 through 2018, $230,000,000. “(2) With respect to each of fiscal years 2019 through 2021, $225,000,000. “(3) With respect to each of fiscal years 2022 through 2024, $360,000,000. “(b) Sense of Congress.—It is the sense of Congress that the limitation under subsection (a) should not disproportionately impact lower-wage employees and that the Department of Veterans Affairs is encouraged to use bonuses to incentivize high-performing employees in areas in which retention is challenging.”
 
 
 <a id="section-705"></a>
@@ -282,7 +282,7 @@ A prior section 712 was renumbered [section 1912 of this title](./chapter-019-in
 ### Statutory Notes
 
 #### Prior Provisions
-Prior sections 713 to 729, 740 to 763, 765 to 779, 781 to 788, and 801 to 806 were renumbered sections 1913 to 1929, 1940 to 1963, 1965 to 1979, 1981 to 1988, and 2101 to 2106 of this title, respectively.
+A prior section 713 was renumbered [section 1913 of this title](./chapter-019-insurance.md#section-1913).
 
 #### Construction
 Pub. L. 113–146, title VII, § 707(d), Aug. 7, 2014, 128 Stat. 1801, provided that: “(1) In general.—Nothing in this section [enacting this section and provisions set out as notes under this section] or [section 713 of title 38](./chapter-007-employees.md#section-713), United States Code, as added by subsection (a), shall be construed to apply to an appeal of a removal, transfer, or other personnel action that was pending before the date of the enactment of this Act [Aug. 7, 2014]. “(2) Relation to title 5.—With respect to the removal or transfer of an individual (as that term is defined in such section 713) employed at the Department of Veterans Affairs, the authority provided by such section 713 is in addition to the authority provided by section 3592 or subchapter V of chapter 75 of title 5, United States Code.”
@@ -292,3 +292,302 @@ Pub. L. 113–146, title VII, § 707(b), Aug. 7, 2014, 128 Stat. 1800, provided 
 
 #### Temporary Exemption From Certain Limitation on Initiation of Removal From Senior Executive Service
 Pub. L. 113–146, title VII, § 707(c), Aug. 7, 2014, 128 Stat. 1800, provided that: “During the 120-day period beginning on the date of the enactment of this Act [Aug. 7, 2014], an action to remove an individual from the Senior Executive Service at the Department of Veterans Affairs pursuant to [section 7543 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7543&num=0&edition=prelim), United States Code, may be initiated, notwithstanding section 3592(b) of such title, or any other provision of law.”
+
+
+<a id="section-714"></a>
+## § 714. Renumbered § 1914]
+
+
+<a id="section-715"></a>
+## § 715. Congressional testimony by employees: treatment as official duty
+**(a) Congressional Testimony.—** An employee of the Department is performing official duty during the period with respect to which the employee is testifying in an official capacity in front of either chamber of Congress, a committee of either chamber of Congress, or a joint or select committee of Congress.
+
+**(b) Travel Expenses.—** The Secretary shall provide travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5, to any employee of the Department of Veterans Affairs performing official duty described under subsection (a).
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 715 was renumbered [section 1915 of this title](./chapter-019-insurance.md#section-1915).
+
+
+<a id="section-716"></a>
+## § 716. Renumbered § 1916]
+
+
+<a id="section-717"></a>
+## § 717. Limitation on administrative leave
+**(a) In General.—** Except as provided in subsection (b), the Secretary may not place any covered individual on administrative leave, or any other type of paid non-duty status without charge to leave, for more than a total of 14 days during any 365-day period.
+
+**(b) Waiver.—** The Secretary may waive the limitation under subsection (a) and extend the administrative leave or other paid non-duty status without charge to leave of a covered individual placed on such leave or status under subsection (a) if the Secretary submits to the Committees on Veterans’ Affairs of the Senate and House of Representatives a detailed explanation of the reasons the individual was placed on administrative leave or other paid non-duty status without charge to leave and the reasons for the extension of such leave or status. Such explanation shall include the job title and grade of the covered individual and the location where the individual is employed.
+
+**(c) Covered Individual.—** In this section, the term “covered individual” means an employee of the Department—
+
+(1) who is subject to an investigation for purposes of determining whether such individual should be subject to any disciplinary action under this title or title 5; or
+
+(2) against whom any disciplinary action is proposed or initiated under this title or title 5.
+
+### Statutory Notes
+
+#### Prior Provisions
+Prior sections 717 to 729, 740 to 763, 765 to 779, 781 to 788, and 801 to 806 were renumbered sections 1917 to 1929, 1940 to 1963, 1965 to 1979, 1981 to 1988, and 2101 to 2106 of this title, respectively.
+
+#### Effective Date
+Pub. L. 114–315, title V, § 503(b), Dec. 16, 2016, 130 Stat. 1568, provided that: “[Section 717 of title 38](./chapter-007-employees.md#section-717), United States Code, as added by subsection (a)(1), shall apply with respect to any 365-day period beginning on or after the date of enactment of this Act [Dec. 16, 2016].”
+
+
+<a id="section-731"></a>
+## § 731. Whistleblower complaint defined
+
+In this subchapter, the term “whistleblower complaint” means a complaint by an employee of the Department disclosing, or assisting another employee to disclose, a potential violation of any law, rule, or regulation, or gross mismanagement, gross waste of funds, abuse of authority, or substantial and specific danger to public health and safety.
+
+
+<a id="section-732"></a>
+## § 732. Treatment of whistleblower complaints
+**(a) Filing.—**
+
+(1) In addition to any other method established by law in which an employee may file a whistleblower complaint, an employee of the Department may file a whistleblower complaint in accordance with subsection (g) with a supervisor of the employee.
+
+(2) Except as provided by subsection (d)(1), in making a whistleblower complaint under paragraph (1), an employee shall file the initial complaint with the immediate supervisor of the employee.
+
+**(b) Notification.—**
+
+(1)
+
+  (A) Not later than four business days after the date on which a supervisor receives a whistleblower complaint by an employee under this section, the supervisor shall notify, in writing, the employee of whether the supervisor determines that there is a reasonable likelihood that the complaint discloses a violation of any law, rule, or regulation, or gross mismanagement, gross waste of funds, abuse of authority, or substantial and specific danger to public health and safety.
+
+  (B) The supervisor shall retain written documentation regarding the whistleblower complaint and shall submit to the next-level supervisor and the central whistleblower office described in subsection (h) a written report on the complaint.
+
+(2)
+
+  (A) On a monthly basis, the supervisor shall submit to the appropriate director or other official who is superior to the supervisor a written report that includes the number of whistleblower complaints received by the supervisor under this section during the month covered by the report, the disposition of such complaints, and any actions taken because of such complaints pursuant to subsection (c).
+
+  (B) In the case in which such a director or official carries out this paragraph, the director or official shall submit such monthly report to the supervisor of the director or official and to the central whistleblower office described in subsection (h).
+
+**(c) Positive Determination.—** If a supervisor makes a positive determination under subsection (b)(1) regarding a whistleblower complaint of an employee, the supervisor shall include in the notification to the employee under such subsection the specific actions that the supervisor will take to address the complaint.
+
+**(d) Filing Complaint With Next-Level Supervisors.—**
+
+(1) If any circumstance described in paragraph (3) is met, an employee may file a whistleblower complaint in accordance with subsection (g) with the next-level supervisor who shall treat such complaint in accordance with this section.
+
+(2) An employee may file a whistleblower complaint with the Secretary if the employee has filed the whistleblower complaint to each level of supervisors between the employee and the Secretary in accordance with paragraph (1).
+
+(3) A circumstance described in this paragraph is any of the following circumstances:
+
+  (A) A supervisor does not make a timely determination under subsection (b)(1) regarding a whistleblower complaint.
+
+  (B) The employee who made a whistleblower complaint determines that the supervisor did not adequately address the complaint pursuant to subsection (c).
+
+  (C) The immediate supervisor of the employee is the basis of the whistleblower complaint.
+
+**(e) Transfer of Employee Who Files Whistleblower Complaint.—** If a supervisor makes a positive determination under subsection (b)(1) regarding a whistleblower complaint filed by an employee, the Secretary shall—
+
+(1) inform the employee of the ability to volunteer for a transfer in accordance with [section 3352 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3352&num=0&edition=prelim); and
+
+(2) give preference to the employee for such a transfer in accordance with such section.
+
+**(f) Prohibition on Exemption.—** The Secretary may not exempt any employee of the Department from being covered by this section.
+
+**(g) Whistleblower Complaint Form.—**
+
+(1) A whistleblower complaint filed by an employee under subsection (a) or (d) shall consist of the form described in paragraph (2) and any supporting materials or documentation the employee determines necessary.
+
+(2) The form described in this paragraph is a form developed by the Secretary, in consultation with the Special Counsel, that includes the following:
+
+  (A) An explanation of the purpose of the whistleblower complaint form.
+
+  (B) Instructions for filing a whistleblower complaint as described in this section.
+
+  (C) An explanation that filing a whistleblower complaint under this section does not preclude the employee from any other method established by law in which an employee may file a whistleblower complaint.
+
+  (D) A statement directing the employee to information accessible on the Internet website of the Department as described in section 735(d).
+
+  (E) Fields for the employee to provide—
+
+    (i) the date that the form is submitted;
+
+    (ii) the name of the employee;
+
+    (iii) the contact information of the employee;
+
+    (iv) a summary of the whistleblower complaint (including the option to append supporting documents pursuant to paragraph (1)); and
+
+    (v) proposed solutions to the complaint.
+
+  (F) Any other information or fields that the Secretary determines appropriate.
+
+(3) The Secretary, in consultation with the Special Counsel, shall develop the form described in paragraph (2) by not later than 60 days after the date of the enactment of this section.
+
+**(h) Central Whistleblower Office.—**
+
+(1) The Secretary shall ensure that the central whistleblower office—
+
+  (A) is not an element of the Office of the General Counsel;
+
+  (B) is not headed by an official who reports to the General Counsel;
+
+  (C) does not provide, or receive from, the General Counsel any information regarding a whistleblower complaint except pursuant to an action regarding the complaint before an administrative body or court; and
+
+  (D) does not provide advice to the General Counsel.
+
+(2) The central whistleblower office shall be responsible for investigating all whistleblower complaints of the Department, regardless of whether such complaints are made by or against an employee who is not a member of the Senior Executive Service.
+
+(3) The Secretary shall ensure that the central whistleblower office maintains a toll-free hotline to anonymously receive whistleblower complaints.
+
+(4) The Secretary shall ensure that the central whistleblower office has such staff and resources as the Secretary considers necessary to carry out the functions of the central whistleblower office.
+
+(5) In this subsection, the term “central whistleblower office” means the Office of Accountability Review or a successor office that is established or designated by the Secretary to investigate whistleblower complaints filed under this section or any other method established by law.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in subsec. (g)(3), is the date of enactment of Pub. L. 114–223, which was approved Sept. 29, 2016.
+
+
+<a id="section-733"></a>
+## § 733. Adverse actions against supervisory employees who commit prohibited personnel actions relating to whistleblower complaints
+**(a) In General.—**
+
+(1) In accordance with paragraph (2), the Secretary shall carry out the following adverse actions against supervisory employees (as defined in [section 7103(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7103/a&num=0&edition=prelim)) whom the Secretary, an administrative judge, the Merit Systems Protection Board, the Office of Special Counsel, an adjudicating body provided under a union contract, a Federal judge, or the Inspector General of the Department determines committed a prohibited personnel action described in subsection (c):
+
+  (A) With respect to the first offense, an adverse action that is not less than a 12-day suspension and not more than removal.
+
+  (B) With respect to the second offense, removal.
+
+(2)
+
+  (A) An employee against whom an adverse action under paragraph (1) is proposed is entitled to written notice.
+
+  (B)
+
+    (i) An employee who is notified under subparagraph (A) of being the subject of a proposed adverse action under paragraph (1) is entitled to 14 days following such notification to answer and furnish evidence in support of the answer.
+
+    (ii) If the employee does not furnish any such evidence as described in clause (i) or if the Secretary determines that such evidence is not sufficient to reverse the determination to propose the adverse action, the Secretary shall carry out the adverse action following such 14-day period.
+
+  (C) Paragraphs (1) and (2) of subsection (b) of [section 7513 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7513&num=0&edition=prelim), subsection (c) of such section, paragraphs (1) and (2) of subsection (b) of section 7543 of such title, and subsection (c) of such section shall not apply with respect to an adverse action carried out under paragraph (1).
+
+**(b) Limitation on Other Adverse Actions.—** With respect to a prohibited personnel action described in subsection (c), if the Secretary carries out an adverse action against a supervisory employee, the Secretary may carry out an additional adverse action under this section based on the same prohibited personnel action if the total severity of the adverse actions do not exceed the level specified in subsection (a).
+
+**(c) Prohibited Personnel Action Described.—** A prohibited personnel action described in this subsection is any of the following actions:
+
+(1) Taking or failing to take a personnel action in violation of [section 2302 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302&num=0&edition=prelim) against an employee relating to the employee—
+
+  (A) filing a whistleblower complaint in accordance with [section 732 of this title](./chapter-007-employees.md#section-732);
+
+  (B) filing a whistleblower complaint with the Inspector General of the Department, the Special Counsel, or Congress;
+
+  (C) providing information or participating as a witness in an investigation of a whistleblower complaint in accordance with section 732 or with the Inspector General of the Department, the Special Counsel, or Congress;
+
+  (D) participating in an audit or investigation by the Comptroller General of the United States;
+
+  (E) refusing to perform an action that is unlawful or prohibited by the Department; or
+
+  (F) engaging in communications that are related to the duties of the position or are otherwise protected.
+
+(2) Preventing or restricting an employee from making an action described in any of subparagraphs (A) through (F) of paragraph (1).
+
+(3) Conducting a negative peer review or opening a retaliatory investigation because of an activity of an employee that is protected by [section 2302 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302&num=0&edition=prelim).
+
+(4) Requesting a contractor to carry out an action that is prohibited by section 4705(b) or [section 4712(a)(1) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section4712/a/1&num=0&edition=prelim), as the case may be.
+
+
+<a id="section-734"></a>
+## § 734. Evaluation criteria of supervisors and treatment of bonuses
+**(a) Evaluation Criteria.—**
+
+(1) In evaluating the performance of supervisors of the Department, the Secretary shall include the criteria described in paragraph (2).
+
+(2) The criteria described in this subsection are the following:
+
+  (A) Whether the supervisor treats whistleblower complaints in accordance with [section 732 of this title](./chapter-007-employees.md#section-732).
+
+  (B) Whether the appropriate deciding official, performance review board, or performance review committee determines that the supervisor was found to have committed a prohibited personnel action described in [section 733(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section733/b&num=0&edition=prelim) by an administrative judge, the Merit Systems Protection Board, the Office of Special Counsel, an adjudicating body provided under a union contract, a Federal judge, or, in the case of a settlement of a whistleblower complaint (regardless of whether any fault was assigned under such settlement), the Secretary.
+
+**(b) Bonuses.—**
+
+(1) The Secretary may not pay to a supervisor described in subsection (a)(2)(B) an award or bonus under this title or title 5, including under chapter 45 or 53 of such title, during the one-year period beginning on the date on which the determination was made under such subsection.
+
+(2) Notwithstanding any other provision of law, the Secretary shall issue an order directing a supervisor described in subsection (a)(2)(B) to repay the amount of any award or bonus paid under this title or title 5, including under chapter 45 or 53 of such title, if—
+
+  (A) such award or bonus was paid for performance during a period in which the supervisor committed a prohibited personnel action as determined pursuant to such subsection (a)(2)(B);
+
+  (B) the Secretary determines such repayment appropriate pursuant to regulations prescribed by the Secretary to carry out this section; and
+
+  (C) the supervisor is afforded notice and an opportunity for a hearing before making such repayment.
+
+
+<a id="section-735"></a>
+## § 735. Training regarding whistleblower complaints
+**(a) Training.—** Not less frequently than once each year, the Secretary, in coordination with the Whistleblower Protection Ombudsman designated under section 3(d)(1)(C) of the Inspector General Act of 1978 (5 U.S.C. App.), shall provide to each employee of the Department training regarding whistleblower complaints, including—
+
+(1) an explanation of each method established by law in which an employee may file a whistleblower complaint;
+
+(2) an explanation of prohibited personnel actions described by [section 733(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section733/c&num=0&edition=prelim);
+
+(3) with respect to supervisors, how to treat whistleblower complaints in accordance with [section 732 of this title](./chapter-007-employees.md#section-732);
+
+(4) the right of the employee to petition Congress regarding a whistleblower complaint in accordance with [section 7211 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7211&num=0&edition=prelim);
+
+(5) an explanation that the employee may not be prosecuted or reprised against for disclosing information to Congress, the Inspector General, or another investigatory agency in instances where such disclosure is permitted by law, including under sections 5701, 5705, and 7732 of this title, under [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim) (commonly referred to as the Privacy Act), under chapter 93 of title 18, and pursuant to regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191; [42 U.S.C. 1320d–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320d–2&num=0&edition=prelim) note);
+
+(6) an explanation of the language that is required to be included in all nondisclosure policies, forms, and agreements pursuant to section 115(a)(1) of the Whistleblower Protection Enhancement Act of 2012 ([5 U.S.C. 2302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302&num=0&edition=prelim) note); and
+
+(7) the right of contractors to be protected from reprisal for the disclosure of certain information under section 4705 or 4712 of title 41.
+
+**(b) Manner Training Is Provided.—** The Secretary shall ensure that training provided under subsection (a) is provided in person.
+
+**(c) Certification.—** Not less frequently than once each year, the Secretary shall provide training on merit system protection in a manner that the Special Counsel certifies as being satisfactory.
+
+**(d) Publication.—**
+
+(1) The Secretary shall publish on the Internet website of the Department, and display prominently at each facility of the Department, the rights of an employee to file a whistleblower complaint, including the information described in paragraphs (1) through (7) of subsection (a).
+
+(2) The Secretary shall publish on the Internet website of the Department, the whistleblower complaint form described in section 732(g)(2).
+
+### Statutory Notes
+
+#### References in Text
+Section 3(d)(1)(C) of the Inspector General Act of 1978, referred to in subsec. (a), is section 3(d)(1)(C) of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (a)(5), is section 264(c) of Pub. L. 104–191, which is set out as a note under [section 1320d–2 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320d–2&num=0&edition=prelim), The Public Health and Welfare.
+
+Section 115(a)(1) of the Whistleblower Protection Enhancement Act of 2012, referred to in subsec. (a)(6), is section 115(a)(1) of Pub. L. 112–199, which is set out as a note under [section 2302 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302&num=0&edition=prelim), Government Organization and Employees.
+
+#### Amendments
+2016—Subsec. (a)(5). Pub. L. 114–315 substituted “(Public Law 104–191; [42 U.S.C. 1320d–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320d–2&num=0&edition=prelim) note)” for “(Public Law 104–191)”.
+
+
+<a id="section-736"></a>
+## § 736. Reports to Congress
+**(a) Annual Reports.—** Not less frequently than once each year, the Secretary shall submit to the appropriate committees of Congress a report that includes—
+
+(1) with respect to whistleblower complaints filed under [section 732 of this title](./chapter-007-employees.md#section-732) during the year covered by the report—
+
+  (A) the number of such complaints filed;
+
+  (B) the disposition of such complaints; and
+
+  (C) the ways in which the Secretary addressed such complaints in which a positive determination was made by a supervisor under subsection (b)(1) of such section;
+
+(2) the number of whistleblower complaints filed during the year covered by the report that are not included under paragraph (1), including—
+
+  (A) the method in which such complaints were filed;
+
+  (B) the disposition of such complaints; and
+
+  (C) the ways in which the Secretary addressed such complaints; and
+
+(3) with respect to disclosures made by a contractor under section 4705 or 4712 of title 41—
+
+  (A) the number of complaints relating to such disclosures that were investigated by the Inspector General of the Department of Veterans Affairs during the year covered by the report;
+
+  (B) the disposition of such complaints; and
+
+  (C) the ways in which the Secretary addressed such complaints.
+
+**(b) Notice of Office of Special Counsel Determinations.—** Not later than 30 days after the date on which the Secretary receives from the Special Counsel information relating to a whistleblower complaint pursuant to [section 1213 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1213&num=0&edition=prelim), the Secretary shall notify the appropriate committees of Congress of such information, including the determination made by the Special Counsel.
+
+**(c) Appropriate Committees of Congress.—** In this section, the term “appropriate committees of Congress” means—
+
+(1) the Committee on Veterans’ Affairs and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+(2) the Committee on Veterans’ Affairs and the Committee on Oversight and Government Reform of the House of Representatives.

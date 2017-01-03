@@ -57,7 +57,7 @@ source: >-
 
   (A) qualifies as an institution of higher education, as defined in subsection 11 So in original. Probably should be “section”. 10013(3) of this title; and
 
-  (B) continues to be eligible to participate in the programs under title IV of the Higher Education Act of 1965.
+  (B) continues to be eligible to participate in the programs under title IV of the Higher Education Act of 1965 [[20 U.S.C. 1070](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070) et seq.].
 
 **(c) Rule of construction** Nothing in this section shall allow a local educational agency to engage in school modernization, renovation, or repair that is inconsistent with State law.
 
@@ -66,7 +66,7 @@ source: >-
 #### References in Text
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(3), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (b)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of this title and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
 
 #### Amendments
 2009—Subsec. (a)(2)(A)(i). Pub. L. 111–8, § 523(a), inserted “education” after “secondary” in introductory provisions.
@@ -76,7 +76,7 @@ Subsec. (b)(1). Pub. L. 111–8, § 523(b), substituted “10001(d)” for “10
 
 <a id="section-10003"></a>
 ## § 10003. Uses of funds by local educational agencies
-**(a) In general** A local educational agency that receives funds under this chapter may use the funds for any activity authorized by the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.) (“ESEA”), the Individuals with Disabilities Education Act ([20 U.S.C. 1400](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) et seq.) (“IDEA”), the Adult Education and Family Literacy Act [[29 U.S.C. 3271](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3271&num=0&edition=prelim) et seq.], or the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301](./chapter-044-career-and-technical-education.md#section-2301) et seq.) (“the Perkins Act”) or for modernization, renovation, or repair of public school facilities, including modernization, renovation, and repairs that are consistent with a recognized green building rating system.
+**(a) In general** A local educational agency that receives funds under this chapter may use the funds for any activity authorized by the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.) (“ESEA”), the Individuals with Disabilities Education Act ([20 U.S.C. 1400](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) et seq.) (“IDEA”), the Adult Education and Family Literacy Act ([20 U.S.C. 9201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim) et seq.),11 See References in Text note below. or the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301](./chapter-044-career-and-technical-education.md#section-2301) et seq.) (“the Perkins Act”) or for modernization, renovation, or repair of public school facilities, including modernization, renovation, and repairs that are consistent with a recognized green building rating system.
 
 **(b) Prohibition** A local educational agency may not use funds received under this chapter for—
 
@@ -97,7 +97,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), 
 
 The Individuals with Disabilities Education Act, referred to in subsec. (a), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
-The Adult Education and Family Literacy Act, referred to in subsec. (a), is title II of Pub. L. 113–128, July 22, 2014, 128 Stat. 1608, which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
+The Adult Education and Family Literacy Act, referred to in subsec. (a), was title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, which was classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of this title, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pub. L. 113–128 also included a title II, entitled the “Adult Education and Family Literacy Act”, which is classified generally to subchapter II (§ 3271 et seq.) of chapter 32 of Title 29, Labor. Pursuant to [section 3361(a) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3361/a&num=0&edition=prelim), references to a provision of Pub. L. 105–220 are deemed to refer to the corresponding provision of Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of title II of Pub. L. 105–220 to the Code, see Tables. For complete classification of title II of Pub. L. 113–128 to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301) and Tables.
 
@@ -140,9 +140,9 @@ The Carl D. Perkins Career and Technical Education Act of 2006, referred to in s
 
 (1) submit an application for consideration;
 
-(2) describe the status of the State’s progress in each of the areas described in subsection (d), and the strategies the State is employing to help ensure that students in the subgroups described in section 1111(b)(2)(C)(v)(II) of the ESEA ([20 U.S.C. 6311(b)(2)(C)(v)(II)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/C/v/II&num=0&edition=prelim)) who have not met the State’s proficiency targets continue making progress toward meeting the State’s student academic achievement standards;
+(2) describe the status of the State’s progress in each of the areas described in subsection (d), and the strategies the State is employing to help ensure that students in the subgroups described in section 1111(b)(2)(C)(v)(II) 11 See References in Text note below. of the ESEA ([20 U.S.C. 6311(b)(2)(C)(v)(II)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/C/v/II&num=0&edition=prelim)) who have not met the State’s proficiency targets continue making progress toward meeting the State’s student academic achievement standards;
 
-(3) describe the achievement and graduation rates (as described in section 1111(b)(2)(C)(vi) of the ESEA ([20 U.S.C. 6311(b)(2)(C)(vi)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/C/vi&num=0&edition=prelim)) and as clarified in section 200.19(b)(1) of title 34, Code of Federal Regulations) of public elementary and secondary school students in the State, and the strategies the State is employing to help ensure that all subgroups of students identified in section 1111(b)(2) of the ESEA ([20 U.S.C. 6311(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2&num=0&edition=prelim)) in the State continue making progress toward meeting the State’s student academic achievement standards;
+(3) describe the achievement and graduation rates (as described in section 1111(b)(2)(C)(vi) 1 of the ESEA ([20 U.S.C. 6311(b)(2)(C)(vi)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/C/vi&num=0&edition=prelim)) and as clarified in section 200.19(b)(1) of title 34, Code of Federal Regulations) of public elementary and secondary school students in the State, and the strategies the State is employing to help ensure that all subgroups of students identified in section 1111(b)(2) of the ESEA ([20 U.S.C. 6311(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2&num=0&edition=prelim)) in the State continue making progress toward meeting the State’s student academic achievement standards;
 
 (4) describe how the State would use its grant funding to improve student academic achievement in the State, including how it will allocate the funds to give priority to high-need local educational agencies; and
 
@@ -156,19 +156,19 @@ The Carl D. Perkins Career and Technical Education Act of 2006, referred to in s
 
   (B) *Higher education* — The State will, in each of fiscal years 2009, 2010, and 2011, maintain State support for public institutions of higher education (not including support for capital projects or for research and development or tuition and fees paid by students) at least at the level of such support in fiscal year 2006.
 
-(2) **Achieving equity in teacher distribution** — The State will take actions to improve teacher effectiveness and comply with section 1111(b)(8)(C) of the ESEA ([20 U.S.C. 6311(b)(8)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/8/C&num=0&edition=prelim)) in order to address inequities in the distribution of highly qualified teachers between high- and low-poverty schools, and to ensure that low-income and minority children are not taught at higher rates than other children by inexperienced, unqualified, or out-of-field teachers.
+(2) **Achieving equity in teacher distribution** — The State will take actions to improve teacher effectiveness and comply with section 1111(b)(8)(C) 1 of the ESEA ([20 U.S.C. 6311(b)(8)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/8/C&num=0&edition=prelim)) in order to address inequities in the distribution of highly qualified teachers between high- and low-poverty schools, and to ensure that low-income and minority children are not taught at higher rates than other children by inexperienced, unqualified, or out-of-field teachers.
 
 (3) **Improving collection and use of data** — The State will establish a longitudinal data system that includes the elements described in [section 9871(e)(2)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9871/e/2/D&num=0&edition=prelim).
 
 (4) **Standards and assessments** — The State—
 
-  (A) will enhance the quality of the academic assessments it administers pursuant to section 1111(b)(3) of the ESEA ([20 U.S.C. 6311(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/3&num=0&edition=prelim)) through activities such as those described in section 6112(a) of such Act ([20 U.S.C. 7301a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7301a/a&num=0&edition=prelim));
+  (A) will enhance the quality of the academic assessments it administers pursuant to section 1111(b)(3) of the ESEA ([20 U.S.C. 6311(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/3&num=0&edition=prelim)) through activities such as those described in section 6112(a) 1 of such Act ([20 U.S.C. 7301a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7301a/a&num=0&edition=prelim));
 
-  (B) will comply with the requirements of paragraphs (3)(C)(ix) and (6) of section 1111(b) of the ESEA ([20 U.S.C. 6311(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b&num=0&edition=prelim)) and section 612(a)(16) of the IDEA ([20 U.S.C. 1412(a)(16)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/16&num=0&edition=prelim)) related to the inclusion of children with disabilities and limited English proficient students in State assessments, the development of valid and reliable assessments for those students, and the provision of accommodations that enable their participation in State assessments; and
+  (B) will comply with the requirements of paragraphs (3)(C)(ix) and (6) of section 1111(b) 1 of the ESEA ([20 U.S.C. 6311(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b&num=0&edition=prelim)) and section 612(a)(16) of the IDEA ([20 U.S.C. 1412(a)(16)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/16&num=0&edition=prelim)) related to the inclusion of children with disabilities and limited English proficient students in State assessments, the development of valid and reliable assessments for those students, and the provision of accommodations that enable their participation in State assessments; and
 
   (C) will take steps to improve State academic content standards and student academic achievement standards consistent with [section 9871(e)(1)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9871/e/1/A/ii&num=0&edition=prelim).
 
-(5) **Supporting struggling schools** — The State will ensure compliance with the requirements of section 1116(b)(7)(C)(iv) [[20 U.S.C. 6316(b)(7)(C)(iv)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6316/b/7/C/iv&num=0&edition=prelim)] and section 1116(b)(8)(B) [[20 U.S.C. 6316(b)(8)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6316/b/8/B&num=0&edition=prelim)] of the ESEA with respect to schools identified under such sections.
+(5) **Supporting struggling schools** — The State will ensure compliance with the requirements of section 1116(b)(7)(C)(iv) 1 and section 1116(b)(8)(B) 1 of the ESEA with respect to schools identified under such sections.
 
 (6) **Improving early childhood care and education** — The State will take actions to—
 
@@ -185,7 +185,13 @@ ESEA, referred to in subsec. (b)(3), is the Elementary and Secondary Education A
 
 IDEA, referred to in subsec. (b)(3), is the Individuals with Disabilities Education Act, Pub. L. 91–230, title VI, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
+Section 1111 of the ESEA, referred to in subsecs. (c)(2), (3) and (d)(2), (4)(A), (B), is section 1111 of Pub. L. 89–10, which is classified to [section 6311 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6311). Section 1111 was amended generally by Pub. L. 114–95, title I, § 1005, Dec. 10, 2015, 129 Stat. 1820, and as so amended, does not contain a subsec. (b)(2)(C)(v), (vi), (3)(C)(ix), (6), or (8)(C).
+
 [Section 9871 of this title](./chapter-078-science-technology-engineering-mathematics-and-critical-foreign-language-education.md#section-9871), referred to in subsec. (d)(3), (4)(C), was in the original “section 6401”, and was translated as meaning section 6201 of Pub. L. 110–69 to reflect the probable intent of Congress and the renumbering of section 6401 of Pub. L. 110–69 as section 6201 by Pub. L. 111–358, title X, § 1002(b)(3), Jan. 4, 2011, 124 Stat. 4048.
+
+Section 6112 of the ESEA, referred to in subsec. (d)(4)(A), is section 6112 of Pub. L. 89–10, which was classified to [section 7301a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7301a&num=0&edition=prelim), prior to repeal by Pub. L. 114–95, § 5, title V, § 5001(b)(1), Dec. 10, 2015, 129 Stat. 1806, 2040, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+
+Section 1116 of the ESEA, referred to in subsec. (d)(5), is section 1116 of Pub. L. 89–10, which was classified to [section 6316 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6316&num=0&edition=prelim), prior to repeal by Pub. L. 114–95, § 5, title I, § 1000(1), Dec. 10, 2015, 129 Stat. 1806, 1814, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs. Section 1000(2) of Pub. L. 114–95 renumbered section 1118 of Pub. L. 89–10 as section 1116, which is classified to [section 6318 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6318). Section 6318 does not contain a subsec. (b)(7) or (8).
 
 #### Amendments
 2011—Subsec. (d)(6). Pub. L. 112–10 added par. (6).
@@ -242,7 +248,7 @@ Pub. L. 112–10, § 1832(b)(2)(B), inserted before period at end “, or to a S
 
     (ii) a consortium of schools.
 
-(2) **Program established** — From the total amount reserved under section 10001(c), the Secretary may reserve up to $650,000,000 to establish an Innovation Fund, which shall consist of academic achievement awards that recognize eligible entities that meet the requirements described in subsection (b).
+(2) **Program established** — From the total amount reserved under [section 10001(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section10001/c&num=0&edition=prelim), the Secretary may reserve up to $650,000,000 to establish an Innovation Fund, which shall consist of academic achievement awards that recognize eligible entities that meet the requirements described in subsection (b).
 
 (3) **Purpose of awards** — The Secretary shall make awards to eligible entities in order to identify, document, and bring to scale innovative best practices based on demonstrated success, to allow such eligible entities to—
 
@@ -254,7 +260,7 @@ Pub. L. 112–10, § 1832(b)(2)(B), inserted before period at end “, or to a S
 
 (1)
 
-  (A) have significantly closed the achievement gaps between groups of students described in [section 6311(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2&num=0&edition=prelim); or
+  (A) have significantly closed the achievement gaps between groups of students described in section 6311(b)(2) 11 See References in Text note below. of this title; or
 
   (B) have demonstrated success in significantly increasing student academic achievement for all groups of students described in such section;
 
@@ -267,6 +273,9 @@ Pub. L. 112–10, § 1832(b)(2)(B), inserted before period at end “, or to a S
 **(d) Subgrants** In the case of an eligible entity that is a partnership described in subsection (a)(1)(B), the partner serving as the fiscal agent may make subgrants to one or more of the other entities in the partnership.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 6311 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6311), referred to in subsec. (b)(1)(A), was amended generally by Pub. L. 114–95, title I, § 1005, Dec. 10, 2015, 129 Stat. 1820, and, as so amended, subsec. (b)(2) does not describe achievement gaps.
 
 #### Amendments
 2009—Subsec. (a)(3). Pub. L. 111–117, § 307(1), amended par. (3) generally. Prior to amendment, text read as follows: “The Secretary shall make awards to eligible entities that have made significant gains in closing the achievement gap as described in subsection (b)(1)—
@@ -380,4 +389,9 @@ Except as otherwise provided in this chapter, as used in this chapter—
 
 (5) the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico; and
 
-(6) any other term used that is defined in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801) shall have the meaning given the term in such section.
+(6) any other term used that is defined in section 7801 11 See References in Text note below. of this title shall have the meaning given the term in such section.
+
+### Statutory Notes
+
+#### References in Text
+[Section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801), referred to in par. (6), was in the original a reference to section 9101 of Pub. L. 89–10, which was renumbered section 8101 by Pub. L. 114–95, title VIII, § 8001(a)(1), Dec. 10, 2015, 129 Stat. 2089.

@@ -7,26 +7,11 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
 <a id="section-9681"></a>
-## § 9681. Surplus war material: sale to States and foreign governments
-
-Subject to regulations under [section 121 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section121&num=0&edition=prelim), the Secretary of the Air Force may sell surplus war material and supplies, except food, of the Department of the Air Force, for which there is no adequate domestic market, to any State or to any foreign government with which the United States was at peace on June 5, 1920. Sales under this section shall be made upon terms that the Secretary considers expedient.
+## § 9681. Repealed. Pub. L. 114–328, div. A, title XII, § 1253(a)(1)(D), Dec. 23, 2016, 130 Stat. 2532]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised section | Source (U.S. Code) | Source (Statutes at Large) |
-| 9681 | 10:1262. | June 5, 1920, ch. 240 (2d proviso under “Contingencies of the Army”), 41 Stat. 949; Oct. 31, 1951, ch. 654, § 2(8), 65 Stat. 707. |
-
-The word “may” is substituted for the words “is authorized in his discretion, to”. The words “war material” are substituted for the word “matériel”. The words “or equipment” are omitted as covered by the word “supplies”. The words “of the Department of the Air Force” are substituted for the words “pertaining to the Military Establishment”. The words “which are not needed for military purposes” are omitted as covered by the word “surplus”. The words “as or may be found to be” are omitted as surplusage.
-
-#### Amendments
-2002—Pub. L. 107–217 substituted “[section 121 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section121&num=0&edition=prelim)” for “section 205 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim))”.
-
-1980—Pub. L. 96–513 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim))” for “[section 486 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim)”.
-
-#### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 583; Pub. L. 96–513, title V, § 514(18), Dec. 12, 1980, 94 Stat. 2936; Pub. L. 107–217, § 3(b)(36), Aug. 21, 2002, 116 Stat. 1298, related to sale to States and certain foreign governments of surplus war material.
 
 
 <a id="section-9682"></a>

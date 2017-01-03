@@ -65,6 +65,8 @@ source: >-
 
   (H) Any property, real or personal, involved in a violation or attempted violation, or which constitutes or is derived from proceeds traceable to a violation, of [section 2339C of this title](./chapter-113b-terrorism.md#section-2339c).
 
+  (I) Any property, real or personal, that is involved in a violation or attempted violation, or which constitutes or is derived from proceeds traceable to a prohibition imposed pursuant to section 104(a) of the North Korea Sanctions and Policy Enhancement Act of 2016.
+
 (2) For purposes of paragraph (1), the term “proceeds” is defined as follows:
 
   (A) In cases involving illegal goods, illegal services, unlawful activities, and telemarketing and health care fraud schemes, the term “proceeds” means property of any kind obtained directly or indirectly, as the result of the commission of the offense giving rise to forfeiture, and any property traceable thereto, and is not limited to the net gain or profit realized from the offense.
@@ -214,6 +216,8 @@ The Attorney General, the Secretary of the Treasury, or the Postal Service, as t
 #### References in Text
 The Controlled Substances Act, referred to in subsecs. (a)(1)(B)(i), (b)(4)(A), and (k)(1)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
+Section 104(a) of the North Korea Sanctions and Policy Enhancement Act of 2016, referred to in subsec. (a)(1)(I), is classified to [section 9214(a) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9214/a&num=0&edition=prelim), Foreign Relations and Intercourse.
+
 The Federal Rules of Criminal Procedure, referred to in subsec. (b)(2), (3), are set out in the Appendix to this title.
 
 The Supplemental Rules for Certain Admiralty and Maritime Claims, referred to in subsec. (b)(2)(A), were renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions and are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -227,6 +231,8 @@ Section 8(e)(7)(D) of the Federal Deposit Insurance Act, referred to in subsec. 
 Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (i)(1)(C), was classified to [section 2291(h) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291/h&num=0&edition=prelim), Foreign Relations and Intercourse, prior to repeal of subsec. (h) by Pub. L. 102–583, § 6(b)(2), Nov. 2, 1992, 106 Stat. 4932. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably should be to section 490(a)(1) of the Act, which is classified to [section 2291j(a)(1) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2291j/a/1&num=0&edition=prelim).
 
 #### Amendments
+2016—Subsec. (a)(1)(I). Pub. L. 114–122 added subpar. (I).
+
 2012—Subsec. (a)(1)(C). Pub. L. 112–186 inserted “670,” after “657,”.
 
 2010—Subsec. (a)(1)(D). Pub. L. 111–203, in concluding provisions, struck out “Resolution Trust Corporation,” after “acquired or held by the” and “or the Office of Thrift Supervision” after “Office of the Comptroller of the Currency”.
@@ -813,7 +819,7 @@ Pub. L. 103–322, title XXXIII, § 330011(s)(1), Sept. 13, 1994, 108 Stat. 2145
 
   (C) the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.);
 
-  (D) the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.) or the International Emergency Economic Powers Act (IEEPA) ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.); or
+  (D) the Trading with the Enemy Act ([50 U.S.C. 4301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4301&num=0&edition=prelim) et seq.), the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.), or the North Korea Sanctions Enforcement Act of 2016; 11 See References in Text note below. or
 
   (E) section 1 of title VI of the Act of June 15, 1917 (40 Stat. 233; [22 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section401&num=0&edition=prelim)).
 
@@ -848,13 +854,17 @@ The Internal Revenue Code of 1986, referred to in subsec. (i)(2)(B), is classifi
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (i)(2)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
-The Trading with the Enemy Act, referred to in subsec. (i)(2)(D), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading with the Enemy Act, referred to in subsec. (i)(2)(D), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified principally to chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The International Emergency Economic Powers Act, referred to in (i)(2)(D), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+
+The North Korea Sanctions Enforcement Act of 2016, referred to in subsec. (i)(2)(D), probably means the North Korea Sanctions and Policy Enhancement Act of 2016, Pub. L. 114–222, Feb. 18, 2016, 130 Stat. 93, which is classified principally to chapter 99 (§ 9201 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9201&num=0&edition=prelim) and Tables.
 
 The Federal Rules of Evidence, referred to in subsec. (j)(4), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+2016—Subsec. (i)(2)(D). Pub. L. 114–122 amended subpar. (D) generally. Prior to amendment, text read as follows: “the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.) or the International Emergency Economic Powers Act (IEEPA) ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.); or”.
+
 2009—Subsec. (j)(3). Pub. L. 111–16 substituted “14 days” for “10 days”.
 
 2001—Subsec. (i)(2)(D). Pub. L. 107–56 inserted “or the International Emergency Economic Powers Act (IEEPA) ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.)” before semicolon.

@@ -89,6 +89,9 @@ Pub. L. 91–138, § 1, Dec. 5, 1969, 83 Stat. 284, provided that: “This Act [
 
 Subsec. (c)(4), (5). Pub. L. 104–186, § 211(3)(B), struck out “or” at end of par. (4) and inserted “or” at end of par. (5).
 
+#### Effective Date
+Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under [section 381 of this title](./chapter-012-contested-elections.md#section-381).
+
 
 <a id="section-383"></a>
 ## § 383. Response of contestee
@@ -108,6 +111,11 @@ Subsec. (c)(4), (5). Pub. L. 104–186, § 211(3)(B), struck out “or” at end
 
 **(d) Time for serving answer after service of motion** Service of a motion permitted under this section alters the time for serving the answer as follows, unless a different time is fixed by order of the committee: If the committee denies the motion or postpones its disposition until the hearing on the merits, the answer shall be served within ten days after notice of such action. If the committee grants a motion for a more definite statement the answer shall be served within ten days after service of the more definite statement.
 
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under [section 381 of this title](./chapter-012-contested-elections.md#section-381).
+
 
 <a id="section-384"></a>
 ## § 384. Service and filing of papers other than notice of contest
@@ -123,11 +131,21 @@ Subsec. (c)(4), (5). Pub. L. 104–186, § 211(3)(B), struck out “or” at end
 
 **(c) Proof of service** Papers filed subsequent to the notice of contest shall be accompanied by proof of service showing the time and manner of service, made by affidavit of the person making service or by certificate of an attorney representing the party in whose behalf service is made. Failure to make proof of service does not affect the validity of such service.
 
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under [section 381 of this title](./chapter-012-contested-elections.md#section-381).
+
 
 <a id="section-385"></a>
 ## § 385. Default of contestee
 
 The failure of contestee to answer the notice of contest or to otherwise defend as provided by this chapter shall not be deemed an admission of the truth of the averments in the notice of contest. Notwithstanding such failure, the burden is upon contestant to prove that the election results entitle him to contestee’s seat.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under [section 381 of this title](./chapter-012-contested-elections.md#section-381).
 
 
 <a id="section-386"></a>
@@ -154,6 +172,11 @@ The failure of contestee to answer the notice of contest or to otherwise defend 
 
 **(h) Examination of deposition by witness; signature of witness or officer; use of deposition** When the testimony is fully transcribed, the deposition shall be submitted to the witness for examination and shall be read to or by him, unless such examination and reading are waived by the witness and the parties. Any changes in the form or substance which the witness desires to make shall be entered upon the deposition by the officer with a statement of the reasons given by the witness for making them. The deposition shall be signed by the witness, unless the parties by stipulation waive the signing or the witness is ill or cannot be found or refuses to sign. If the deposition is not signed by the witness, the officer shall sign it and note on the deposition the fact of the waiver or of the illness or the absence of the witness or the fact of refusal to sign together with the reason, if any, given therefor; and the deposition may then be used as fully as though signed, unless on a motion to suppress, the committee rules that the reasons given for the refusal to sign require rejection of the deposition in whole or in part.
 
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under [section 381 of this title](./chapter-012-contested-elections.md#section-381).
+
 
 <a id="section-387"></a>
 ## § 387. Notice of depositions
@@ -162,6 +185,11 @@ The failure of contestee to answer the notice of contest or to otherwise defend 
 **(b) Testimony by stipulation** By written stipulation of the parties, the deposition of a witness may be taken without notice. A copy of such stipulation shall be attached to the deposition when it is filed with the Clerk.
 
 **(c) Testimony by affidavit; time for filing** By written stipulation of the parties, the testimony of any witness of either party may be filed in the form of an affidavit by such witness or the parties may agree what a particular witness would testify to if his deposition were taken. Such testimonial affidavits or stipulations shall be filed within the time limits prescribed for the taking of testimony in [section 386 of this title](./chapter-012-contested-elections.md#section-386).
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under [section 381 of this title](./chapter-012-contested-elections.md#section-381).
 
 
 <a id="section-388"></a>
@@ -182,6 +210,11 @@ The failure of contestee to answer the notice of contest or to otherwise defend 
 
 **(e) Production of documents** A subpena may also command the person to whom it is directed to produce the books, papers, documents, or other tangible things designated therein, but the committee, upon motion promptly made and in any event at or before the time specified in the subpena for compliance therewith, may (1) quash or modify the subpena if it is unreasonable or oppressive, or (2) condition denial of the motion upon the advancement by the party in whose behalf the subpena is issued of the reasonable cost of producing the books, papers, documents, or tangible things. In the case of public records or documents, copies thereof, certified by the person having official custody thereof, may be produced in lieu of the originals.
 
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under [section 381 of this title](./chapter-012-contested-elections.md#section-381).
+
 
 <a id="section-389"></a>
 ## § 389. Officer and witness fees
@@ -189,11 +222,21 @@ The failure of contestee to answer the notice of contest or to otherwise defend 
 
 **(b)** Witnesses whose depositions are taken shall be entitled to receive from the party at whose instance the witness appeared the same fees and travel allowance paid to witnesses subpenaed to appear before the House of Representatives or its committees.
 
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under [section 381 of this title](./chapter-012-contested-elections.md#section-381).
+
 
 <a id="section-390"></a>
 ## § 390. Penalty for failure to appear, testify, or produce documents
 
 Every person who, having been subpenaed as a witness under this chapter to give testimony or to produce documents, willfully makes default, or who, having appeared, refuses to answer any question pertinent to the contested election case, shall be deemed guilty of a misdemeanor punishable by fine of not more than $1,000 nor less than $100 or imprisonment for not less than one month nor more than twelve months, or both.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under [section 381 of this title](./chapter-012-contested-elections.md#section-381).
 
 
 <a id="section-391"></a>
@@ -203,6 +246,11 @@ Every person who, having been subpenaed as a witness under this chapter to give 
 **(b) Notification of filing** After filing the deposition, the officer shall promptly notify the parties of its filing.
 
 **(c) Copy of deposition to parties or deponents** Upon payment of reasonable charges therefor, not to exceed the charges allowed in the district court of the United States for the district wherein the place of examination is located, the officer shall furnish a copy of deposition to any party or the deponent.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under [section 381 of this title](./chapter-012-contested-elections.md#section-381).
 
 
 <a id="section-392"></a>
@@ -221,6 +269,11 @@ Every person who, having been subpenaed as a witness under this chapter to give 
 
 **(g) Form of briefs; number of copies served and filed** The form and length of the briefs, the form of the appendixes, and the number of copies to be served and filed shall be in accordance with such rules as the committee may prescribe.
 
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under [section 381 of this title](./chapter-012-contested-elections.md#section-381).
+
 
 <a id="section-393"></a>
 ## § 393. Filing of pleadings, motions, depositions, appendixes, briefs, and other papers
@@ -234,6 +287,11 @@ Every person who, having been subpenaed as a witness under this chapter to give 
 
 **(b)** All papers filed with the Clerk pursuant to this chapter shall be promptly transmitted by him to the committee.
 
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under [section 381 of this title](./chapter-012-contested-elections.md#section-381).
+
 
 <a id="section-394"></a>
 ## § 394. Computation of time
@@ -243,11 +301,21 @@ Every person who, having been subpenaed as a witness under this chapter to give 
 
 **(c) Enlargement of time** When by this chapter or by the rules or any order of the committee an act is required or allowed to be done at or within a specified time, the committee, for good cause shown, may at any time in its discretion (1) with or without motion or notice, order the period enlarged if request therefor is made before the expiration of the period originally prescribed or as extended by a previous order, or (2) upon motion made after the expiration of the specified period, permit the act to be done where the failure to act was the result of excusable neglect, but it shall not extend the time for serving and filing the notice of contest under [section 382 of this title](./chapter-012-contested-elections.md#section-382).
 
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under [section 381 of this title](./chapter-012-contested-elections.md#section-381).
+
 
 <a id="section-395"></a>
 ## § 395. Death of contestant
 
 In the event of the death of the contestant, the contested election case shall abate.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under [section 381 of this title](./chapter-012-contested-elections.md#section-381).
 
 
 <a id="section-396"></a>
@@ -259,3 +327,6 @@ The committee may allow any party reimbursement from the applicable accounts of 
 
 #### Amendments
 1996—Pub. L. 104–186 substituted “applicable accounts” for “contingent fund”.
+
+#### Effective Date
+Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under [section 381 of this title](./chapter-012-contested-elections.md#section-381).

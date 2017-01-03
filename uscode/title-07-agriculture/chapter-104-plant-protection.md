@@ -1168,7 +1168,7 @@ For transfer of functions of the Secretary of Agriculture relating to agricultur
 
 In this subchapter:
 
-(1) **Indian tribe** — The term “Indian Tribe” has the meaning given that term in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim).
+(1) **Indian tribe** — The term “Indian Tribe” has the meaning given that term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 (2) **Weed management entity** — The term “weed management entity” means an entity that—
 

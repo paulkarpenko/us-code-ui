@@ -267,15 +267,27 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 (3) a reduction in force, removal, or an adverse action involving discharge from technician employment, suspension, furlough without pay, or reduction in rank or compensation shall be accomplished by the adjutant general of the jurisdiction concerned;
 
-(4) a right of appeal which may exist with respect to paragraph (1), (2), or (3) shall not extend beyond the adjutant general of the jurisdiction concerned; and
+(4) a right of appeal which may exist with respect to paragraph (1), (2), or (3) shall not extend beyond the adjutant general of the jurisdiction concerned when the appeal concerns activity occurring while the member is in a military pay status, or concerns fitness for duty in the reserve components;
 
-(5) a technician shall be notified in writing of the termination of his employment as a technician and, unless the technician is serving under a temporary appointment, is serving in a trial or probationary period, or has voluntarily ceased to be a member of the National Guard when such membership is a condition of employment, such notification shall be given at least 30 days before the termination date of such employment.
+(5) with respect to an appeal concerning any activity not covered by paragraph (4), the provisions of sections 7511, 7512, and 7513 of title 5, and section 717 of the Civil Rights Act of 1991 11 See References in Text note below. ([42 U.S.C. 2000e–16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–16&num=0&edition=prelim)) shall apply; and
 
-**(g)** Sections 2108, 3502, 7511, and 7512 of title 5 do not apply to a person employed under this section.
+(6) a technician shall be notified in writing of the termination of his employment as a technician and, unless the technician is serving under a temporary appointment, is serving in a trial or probationary period, or has voluntarily ceased to be a member of the National Guard when such membership is a condition of employment, such notification shall be given at least 30 days before the termination date of such employment.
+
+**(g)**
+
+(1) Except as provided in subsection (f), sections 2108, 3502, 7511, and 7512 of title 5 do not apply to a person employed under this section.
+
+(2) In addition to the sections referred to in paragraph (1), [section 6323(a)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6323/a/1&num=0&edition=prelim) also does not apply to a person employed under this section who is performing active Guard and Reserve duty (as that term is defined in [section 101(d)(6) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/d/6&num=0&edition=prelim)).
 
 **(h)** Notwithstanding sections 5544(a) and 6101(a) of title 5 or any other provision of law, the Secretary concerned may prescribe the hours of duty for technicians. Notwithstanding sections 5542 and 5543 of title 5 or any other provision of law, such technicians shall be granted an amount of compensatory time off from their scheduled tour of duty equal to the amount of any time spent by them in irregular or overtime work, and shall not be entitled to compensation for such work.
 
 **(i)** The Secretary concerned may not prescribe for purposes of eligibility for Federal recognition under [section 301 of this title](./chapter-003-personnel.md#section-301) a qualification applicable to technicians employed under subsection (a) that is not applicable pursuant to that section to the other members of the National Guard in the same grade, branch, position, and type of unit or organization involved.
+
+**(j)** In this section:
+
+(1) The term “military pay status” means a period of service where the amount of pay payable to a technician for that service is based on rates of military pay provided for under title 37.
+
+(2) The term “fitness for duty in the reserve components” refers only to military-unique service requirements that attend to military service generally, including service in the reserve components or service on active duty.
 
 ### Statutory Notes
 
@@ -296,7 +308,18 @@ In subsection (e), the words “Funds appropriated by Congress” are substitute
 
 In subsection (f), the words “authorized to be employed under this section” are substituted for the words “authorized to be employed”. The words “person to employ them” are substituted for the words “by whom they shall be employed”. The words “by regulations” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions.
 
+#### References in Text
+Section 717 of the Civil Rights Act of 1991, referred to in subsec. (f)(5), probably means section 717 of the Civil Rights Act of 1964, Pub. L. 88–352, title VII, as added Pub. L. 92–261, § 11, Mar. 24, 1972, 86 Stat. 111, which is classified to [section 2000e–16 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–16&num=0&edition=prelim), The Public Health and Welfare. The Civil Rights Act of 1991 does not contain a section 717.
+
 #### Amendments
+2016—Subsec. (f)(4). Pub. L. 114–328, § 512(a)(1)(A), substituted “when the appeal concerns activity occurring while the member is in a military pay status, or concerns fitness for duty in the reserve components;” for “; and”.
+
+Subsec. (f)(5), (6). Pub. L. 114–328, § 512(a)(1)(B), (C), added par. (5) and redesignated former par. (5) as (6).
+
+Subsec. (g). Pub. L. 114–328, §§ 512(a)(2), 513, designated existing provisions as par. (1), substituted “Except as provided in subsection (f), sections” for “Sections”, and added par. (2).
+
+Subsec. (j). Pub. L. 114–328, § 512(b), added subsec. (j).
+
 2006—Subsec. (a)(1). Pub. L. 109–364, § 525(d)(1)(A), substituted “organizing, administering, instructing, or” for “administration and”.
 
 Subsec. (a)(3). Pub. L. 109–364, § 525(d)(1)(B)–(3), added par. (3).

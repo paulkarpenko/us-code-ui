@@ -2,7 +2,7 @@
 title: 7
 chapter: '38'
 heading: DISTRIBUTION AND MARKETING OF AGRICULTURAL PRODUCTS
-section_count: 48
+section_count: 54
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
 ---
@@ -158,7 +158,7 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1307).
 
 #### Transfer of Functions
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 702 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section702&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim).
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1302&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim).
 
 Section 304 of 1961 Reorg. Plan No. 7, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, set out in the Appendix to Title 5, Government Organization and Employees, abolished Federal Maritime Board, including offices of members of Board. Functions of Board transferred either to Federal Maritime Commission or to Secretary of Commerce by sections 103 and 202 of 1961 Reorg. Plan No. 7.
 
@@ -1482,7 +1482,7 @@ The purpose of this subchapter is to establish a program of information regardin
 ### Statutory Notes
 
 #### Livestock Mandatory Reporting
-Pub. L. 106–78, title IX, Oct. 22, 1999, 113 Stat. 1188, as amended by Pub. L. 108–444, § 1, Dec. 3, 2004, 118 Stat. 2635; Pub. L. 109–296, § 1(b), Oct. 5, 2006, 120 Stat. 1464; Pub. L. 111–239, § 2(a)(2), Sept. 27, 2010, 124 Stat. 2501, provided that: “SEC. 901. SHORT TITLE.“This title [enacting sections 198 to 198b and 1635 to 1636h of this title and this note, amending sections 192 and 5712 of this title, repealing [section 229a of this title](./chapter-009-packers-and-stockyards.md#section-229a), and amending provisions set out as a note under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421)] may be cited as the ‘Livestock Mandatory Reporting Act of 1999’. “Subtitle A—Livestock Mandatory Reporting“SEC. 911. LIVESTOCK MANDATORY REPORTING.“[Enacted this subchapter.] “SEC. 912. UNJUST DISQUALIFICATION.“[Amended [section 192 of this title](./chapter-009-packers-and-stockyards.md#section-192).] “SEC. 913. CONFORMING AMENDMENTS.“(a) [Repealed [section 229a of this title](./chapter-009-packers-and-stockyards.md#section-229a).] “(b) [Amended section 101(a) [title XI, § 1127] of Pub. L. 105–277, former [7 U.S.C. 1421](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) note.] “Subtitle B—Related Beef Reporting Provisions“SEC. 921. BEEF EXPORT REPORTING.“[Amended [section 5712 of this title](./chapter-087-export-promotion.md#section-5712).] “SEC. 922. EXPORT CERTIFICATES FOR MEAT AND MEAT FOOD PRODUCTS.“Not later than 1 year after the date of the enactment of this Act [Oct. 22, 1999], the Secretary of Agriculture shall fully implement a program, through the use of a streamlined electronic online system, to issue and report export certificates for all meat and meat products. “SEC. 923. IMPORTS OF BEEF, BEEF VARIETY MEATS, AND CATTLE.“(a) In General.—The Secretary of Agriculture shall—“(1) obtain information regarding the import of beef and beef variety meats (consistent with the information categories reported for beef exports under section 602(a) of the Agricultural Trade Act of 1978 ([7 U.S.C. 5712(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5712/a&num=0&edition=prelim))) and cattle using available information sources; and “(2) publish the information in a timely manner weekly and in a form that maximizes the utility of the information to beef producers, packers, and other market participants. “(b) Content.—The published information shall include information reporting the year-to-date cumulative annual imports of beef, beef variety meats, and cattle for the current and prior marketing years. “SEC. 924. AUTHORIZATION OF APPROPRIATIONS.“There are authorized to be appropriated such sums as are necessary to carry out sections 922 and 923. “Subtitle C—Related Swine Reporting Provisions“SEC. 931. IMPROVEMENT OF HOGS AND PIGS INVENTORY REPORT.“(a) In General.—Effective beginning not later than 90 days after the date of the enactment of this Act [Oct. 22, 1999], the Secretary of Agriculture shall publish on a monthly basis the Hogs and Pigs Inventory Report. “(b) Gestating Sows.—The Secretary shall include in a separate category of the Report the number of bred female swine that are assumed, or have been confirmed, to be pregnant during the reporting period. “(c) Phase-Out.—Effective for a period of eight quarters after the implementation of the monthly report required under subsection (a), the Secretary shall continue to maintain and publish on a quarterly basis the Hogs and Pigs Inventory Report published on or before the date of the enactment of this Act. “SEC. 932. BARROW AND GILT SLAUGHTER.“(a) In General.—The Secretary of Agriculture shall promptly obtain and maintain, through an appropriate collection system or valid sampling system at packing plants, information on the total slaughter of swine that reflects differences in numbers between barrows and gilts, as determined by the Secretary. “(b) Availability.—The information shall be made available to swine producers, packers, and other market participants in a report published by the Secretary not less frequently than weekly. “(c) Administration.—“(1) In general.—The Secretary shall administer the collection and compilation of information, and the publication of the report, required by this section. “(2) Nondelegation.—The Secretary shall not delegate the collection, compilation, or administration of the information required by this section to any packer (as defined in section 201 of the Packers and Stockyards Act, 1921 ([7 U.S.C. 191](./chapter-009-packers-and-stockyards.md#section-191))). “SEC. 933. AVERAGE TRIM LOSS CORRELATION STUDY AND REPORT.“(a) In General.—The Secretary of Agriculture shall contract with a qualified contractor to conduct a correlation study and prepare a report establishing a baseline and standards for determining and improving average trim loss measurements and processing techniques for pork processors to employ in the slaughter of swine. “(b) Correlation Study and Report.—The study and report shall—“(1) analyze processing techniques that would assist the pork processing industry in improving procedures for uniformity and transparency in how trim loss is discounted (in dollars per hundred pounds carcass weight) by different packers and processors; “(2) analyze slaughter inspection procedures that could be improved so that trimming procedures and policies of the Secretary are uniform to the maximum extent determined practicable by the Secretary; “(3) determine how the Secretary may be able to foster improved breeding techniques and animal handling and transportation procedures through training programs made available to swine producers so as to minimize trim loss in slaughter processing; and “(4) make recommendations that are designed to effect changes in the pork industry so as to achieve continuous improvement in average trim losses and discounts. “(c) Subsequent Reports on Status of Improvements and Updates in Baseline.—Not less frequently than once every 2 years after the initial publication of the report required under this section, the Secretary shall make subsequent periodic reports that—“(1) examine the status of the improvement in reducing trim loss discounts in the pork processing industry; and “(2) update the baseline to reflect changes in trim loss discounts. “(d) Submission of Reports to Congress, Producers, Packers, and Others.—The reports required under this section shall be made available to—“(1) the public on the Internet; “(2) the Committee on Agriculture of the House of Representatives; “(3) the Committee on Agriculture, Nutrition, and Forestry of the Senate; “(4) producers and packers; and “(5) other market participants. “SEC. 934. SWINE PACKER MARKETING CONTRACTS.“[Enacted sections 198 to 198b of this title.] “SEC. 935. AUTHORIZATION OF APPROPRIATIONS.“There are authorized to be appropriated such sums as are necessary to carry out this subtitle and the amendments made by this subtitle. “Subtitle D—Implementation“SEC. 941. REGULATIONS.“(a) In General.—Not later than 180 days after the date of the enactment of this Act [Oct. 22, 1999], the Secretary of Agriculture shall publish final regulations to implement this title and the amendments made by this title. “(b) Publication of Proposed Regulations.—Not later than 90 days after the date of the enactment of this Act, the Secretary shall publish proposed regulations to implement this title and the amendments made by this title. “(c) Comment Period.—The Secretary shall provide an opportunity for comment on the proposed regulations during the 30-day period beginning on the date of the publication of the proposed regulations. “(d) Final Regulations.—Not later than 60 days after the conclusion of the comment period, the Secretary shall publish the final regulations and implement this title and the amendments made by this title. “SEC. 942. TERMINATION OF AUTHORITY.“The authority provided by this title [enacting sections 198 to 198b and 1635 to 1636h of this title and this note, amending sections 192 and 5712 of this title, repealing [section 229a of this title](./chapter-009-packers-and-stockyards.md#section-229a), and amending provisions set out as a note under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421)] and the amendments made by this title (other than section 911 of subtitle A [enacting this subchapter] and the amendments made by that section) terminate on September 30, 2015.”
+Pub. L. 106–78, title IX, Oct. 22, 1999, 113 Stat. 1188, as amended by Pub. L. 108–444, § 1, Dec. 3, 2004, 118 Stat. 2635; Pub. L. 109–296, § 1(b), Oct. 5, 2006, 120 Stat. 1464; Pub. L. 111–239, § 2(a)(2), Sept. 27, 2010, 124 Stat. 2501; Pub. L. 114–54, title I, § 101(b), Sept. 30, 2015, 129 Stat. 513, provided that: “SEC. 901. SHORT TITLE.“This title [enacting sections 198 to 198b and 1635 to 1636h of this title and this note, amending sections 192 and 5712 of this title, repealing [section 229a of this title](./chapter-009-packers-and-stockyards.md#section-229a), and amending provisions set out as a note under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421)] may be cited as the ‘Livestock Mandatory Reporting Act of 1999’. “Subtitle A—Livestock Mandatory Reporting“SEC. 911. LIVESTOCK MANDATORY REPORTING.“[Enacted this subchapter.] “SEC. 912. UNJUST DISQUALIFICATION.“[Amended [section 192 of this title](./chapter-009-packers-and-stockyards.md#section-192).] “SEC. 913. CONFORMING AMENDMENTS.“(a) [Repealed [section 229a of this title](./chapter-009-packers-and-stockyards.md#section-229a).] “(b) [Amended section 101(a) [title XI, § 1127] of Pub. L. 105–277, former [7 U.S.C. 1421](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) note.] “Subtitle B—Related Beef Reporting Provisions“SEC. 921. BEEF EXPORT REPORTING.“[Amended [section 5712 of this title](./chapter-087-export-promotion.md#section-5712).] “SEC. 922. EXPORT CERTIFICATES FOR MEAT AND MEAT FOOD PRODUCTS.“Not later than 1 year after the date of the enactment of this Act [Oct. 22, 1999], the Secretary of Agriculture shall fully implement a program, through the use of a streamlined electronic online system, to issue and report export certificates for all meat and meat products. “SEC. 923. IMPORTS OF BEEF, BEEF VARIETY MEATS, AND CATTLE.“(a) In General.—The Secretary of Agriculture shall—“(1) obtain information regarding the import of beef and beef variety meats (consistent with the information categories reported for beef exports under section 602(a) of the Agricultural Trade Act of 1978 ([7 U.S.C. 5712(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5712/a&num=0&edition=prelim))) and cattle using available information sources; and “(2) publish the information in a timely manner weekly and in a form that maximizes the utility of the information to beef producers, packers, and other market participants. “(b) Content.—The published information shall include information reporting the year-to-date cumulative annual imports of beef, beef variety meats, and cattle for the current and prior marketing years. “SEC. 924. AUTHORIZATION OF APPROPRIATIONS.“There are authorized to be appropriated such sums as are necessary to carry out sections 922 and 923. “Subtitle C—Related Swine Reporting Provisions“SEC. 931. IMPROVEMENT OF HOGS AND PIGS INVENTORY REPORT.“(a) In General.—Effective beginning not later than 90 days after the date of the enactment of this Act [Oct. 22, 1999], the Secretary of Agriculture shall publish on a monthly basis the Hogs and Pigs Inventory Report. “(b) Gestating Sows.—The Secretary shall include in a separate category of the Report the number of bred female swine that are assumed, or have been confirmed, to be pregnant during the reporting period. “(c) Phase-Out.—Effective for a period of eight quarters after the implementation of the monthly report required under subsection (a), the Secretary shall continue to maintain and publish on a quarterly basis the Hogs and Pigs Inventory Report published on or before the date of the enactment of this Act. “SEC. 932. BARROW AND GILT SLAUGHTER.“(a) In General.—The Secretary of Agriculture shall promptly obtain and maintain, through an appropriate collection system or valid sampling system at packing plants, information on the total slaughter of swine that reflects differences in numbers between barrows and gilts, as determined by the Secretary. “(b) Availability.—The information shall be made available to swine producers, packers, and other market participants in a report published by the Secretary not less frequently than weekly. “(c) Administration.—“(1) In general.—The Secretary shall administer the collection and compilation of information, and the publication of the report, required by this section. “(2) Nondelegation.—The Secretary shall not delegate the collection, compilation, or administration of the information required by this section to any packer (as defined in section 201 of the Packers and Stockyards Act, 1921 ([7 U.S.C. 191](./chapter-009-packers-and-stockyards.md#section-191))). “SEC. 933. AVERAGE TRIM LOSS CORRELATION STUDY AND REPORT.“(a) In General.—The Secretary of Agriculture shall contract with a qualified contractor to conduct a correlation study and prepare a report establishing a baseline and standards for determining and improving average trim loss measurements and processing techniques for pork processors to employ in the slaughter of swine. “(b) Correlation Study and Report.—The study and report shall—“(1) analyze processing techniques that would assist the pork processing industry in improving procedures for uniformity and transparency in how trim loss is discounted (in dollars per hundred pounds carcass weight) by different packers and processors; “(2) analyze slaughter inspection procedures that could be improved so that trimming procedures and policies of the Secretary are uniform to the maximum extent determined practicable by the Secretary; “(3) determine how the Secretary may be able to foster improved breeding techniques and animal handling and transportation procedures through training programs made available to swine producers so as to minimize trim loss in slaughter processing; and “(4) make recommendations that are designed to effect changes in the pork industry so as to achieve continuous improvement in average trim losses and discounts. “(c) Subsequent Reports on Status of Improvements and Updates in Baseline.—Not less frequently than once every 2 years after the initial publication of the report required under this section, the Secretary shall make subsequent periodic reports that—“(1) examine the status of the improvement in reducing trim loss discounts in the pork processing industry; and “(2) update the baseline to reflect changes in trim loss discounts. “(d) Submission of Reports to Congress, Producers, Packers, and Others.—The reports required under this section shall be made available to—“(1) the public on the Internet; “(2) the Committee on Agriculture of the House of Representatives; “(3) the Committee on Agriculture, Nutrition, and Forestry of the Senate; “(4) producers and packers; and “(5) other market participants. “SEC. 934. SWINE PACKER MARKETING CONTRACTS.“[Enacted sections 198 to 198b of this title.] “SEC. 935. AUTHORIZATION OF APPROPRIATIONS.“There are authorized to be appropriated such sums as are necessary to carry out this subtitle and the amendments made by this subtitle. “Subtitle D—Implementation“SEC. 941. REGULATIONS.“(a) In General.—Not later than 180 days after the date of the enactment of this Act [Oct. 22, 1999], the Secretary of Agriculture shall publish final regulations to implement this title and the amendments made by this title. “(b) Publication of Proposed Regulations.—Not later than 90 days after the date of the enactment of this Act, the Secretary shall publish proposed regulations to implement this title and the amendments made by this title. “(c) Comment Period.—The Secretary shall provide an opportunity for comment on the proposed regulations during the 30-day period beginning on the date of the publication of the proposed regulations. “(d) Final Regulations.—Not later than 60 days after the conclusion of the comment period, the Secretary shall publish the final regulations and implement this title and the amendments made by this title. “SEC. 942. TERMINATION OF AUTHORITY.“The authority provided by this title [enacting sections 198 to 198b and 1635 to 1636h of this title and this note, amending sections 192 and 5712 of this title, repealing [section 229a of this title](./chapter-009-packers-and-stockyards.md#section-229a), and amending provisions set out as a note under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421)] and the amendments made by this title (other than section 911 of subtitle A [enacting this subchapter] and the amendments made by that section) terminate[s] on September 30, 2020.”
 
 
 <a id="section-1635a"></a>
@@ -1750,21 +1750,27 @@ In this part:
 
   (C) boars or stags.
 
-(9) **Noncarcass merit premium** — The term “noncarcass merit premium” means an increase in the base price of the swine offered by an individual packer or packing plant, based on any factor other than the characteristics of the carcass, if the actual amount of the premium is known before the sale and delivery of the swine.
+(9) **Negotiated formula purchase** — The term “negotiated formula purchase” means a swine or pork market formula purchase under which—
 
-(10) **Other market formula purchase**
+  (A) the formula is determined by negotiation on a lot-by-lot basis; and
+
+  (B) the swine are scheduled for delivery to the packer not later than 14 days after the date on which the formula is negotiated and swine are committed to the packer.
+
+(10) **Noncarcass merit premium** — The term “noncarcass merit premium” means an increase in the base price of the swine offered by an individual packer or packing plant, based on any factor other than the characteristics of the carcass, if the actual amount of the premium is known before the sale and delivery of the swine.
+
+(11) **Other market formula purchase**
 
   (A) *In general* — The term “other market formula purchase” means a purchase of swine by a packer in which the pricing mechanism is a formula price based on any market other than the market for swine, pork, or a pork product.
 
   (B) *Inclusion* — The term “other market formula purchase” includes a formula purchase in a case in which the price formula is based on one or more futures or options contracts.
 
-(11) **Other purchase arrangement** — The term “other purchase arrangement” means a purchase of swine by a packer that—
+(12) **Other purchase arrangement** — The term “other purchase arrangement” means a purchase of swine by a packer that—
 
-  (A) is not a negotiated purchase, swine or pork market formula purchase, or other market formula purchase; and
+  (A) is not a negotiated purchase, swine or pork market formula purchase, negotiated formula purchase, or other market formula purchase; and
 
   (B) does not involve packer-owned swine.
 
-(12) **Packer** — The term “packer” means any person engaged in the business of buying swine in commerce for purposes of slaughter, of manufacturing or preparing meats or meat food products from swine for sale or shipment in commerce, or of marketing meats or meat food products from swine in an unmanufactured form acting as a wholesale broker, dealer, or distributor in commerce, except that—
+(13) **Packer** — The term “packer” means any person engaged in the business of buying swine in commerce for purposes of slaughter, of manufacturing or preparing meats or meat food products from swine for sale or shipment in commerce, or of marketing meats or meat food products from swine in an unmanufactured form acting as a wholesale broker, dealer, or distributor in commerce, except that—
 
   (A) the term includes only a swine processing plant that is federally inspected;
 
@@ -1776,27 +1782,19 @@ In this part:
 
   (C) in the case of a swine processing plant or person that did not slaughter swine during the immediately preceding 5 calendar years, the Secretary shall consider the plant capacity of the processing plant or person in determining whether the processing plant or person should be considered a packer under this part.
 
-(13) **Packer-owned swine** — The term “packer-owned swine” means swine that a packer (including a subsidiary or affiliate of the packer) owns for at least 14 days immediately before slaughter.
+(14) **Packer-owned swine** — The term “packer-owned swine” means swine that a packer (including a subsidiary or affiliate of the packer) owns for at least 14 days immediately before slaughter.
 
-(14) **Packer-sold swine** — The term “packer-sold swine” means the swine that are—
+(15) **Packer-sold swine** — The term “packer-sold swine” means the swine that are—
 
   (A) owned by a packer (including a subsidiary or affiliate of the packer) for more than 14 days immediately before sale for slaughter; and
 
   (B) sold for slaughter to another packer.
 
-(15) **Pork** — The term “pork” means the meat of a porcine animal.
+(16) **Pork** — The term “pork” means the meat of a porcine animal.
 
-(16) **Pork product** — The term “pork product” means a product or byproduct produced or processed in whole or in part from pork.
+(17) **Pork product** — The term “pork product” means a product or byproduct produced or processed in whole or in part from pork.
 
-(17) **Purchase data** — The term “purchase data” means all of the applicable data, including weight (if purchased live), for all swine purchased during the applicable reporting period, regardless of the expected delivery date of the swine, reported by—
-
-  (A) hog class;
-
-  (B) type of purchase; and
-
-  (C) packer-owned swine.
-
-(18) **Slaughter data** — The term “slaughter data” means all of the applicable data for all swine slaughtered by a packer during the applicable reporting period, regardless of when the price of the swine was negotiated or otherwise determined, reported by—
+(18) **Purchase data** — The term “purchase data” means all of the applicable data, including weight (if purchased live), for all swine purchased during the applicable reporting period, regardless of the expected delivery date of the swine, reported by—
 
   (A) hog class;
 
@@ -1804,25 +1802,43 @@ In this part:
 
   (C) packer-owned swine.
 
-(19) **Sow** — The term “sow” means an adult female swine that has produced one or more litters.
+(19) **Slaughter data** — The term “slaughter data” means all of the applicable data for all swine slaughtered by a packer during the applicable reporting period, regardless of when the price of the swine was negotiated or otherwise determined, reported by—
 
-(20) **Swine** — The term “swine” means a porcine animal raised to be a feeder pig, raised for seedstock, or raised for slaughter.
+  (A) hog class;
 
-(21) **Swine or pork market formula purchase** — The term “swine or pork market formula purchase” means a purchase of swine by a packer in which the pricing mechanism is a formula price based on a market for swine, pork, or a pork product, other than a future or option for swine, pork, or a pork product.
+  (B) type of purchase; and
 
-(22) **Type of purchase** — The term “type of purchase”, with respect to swine, means—
+  (C) packer-owned swine.
+
+(20) **Sow** — The term “sow” means an adult female swine that has produced one or more litters.
+
+(21) **Swine** — The term “swine” means a porcine animal raised to be a feeder pig, raised for seedstock, or raised for slaughter.
+
+(22) **Swine or pork market formula purchase** — The term “swine or pork market formula purchase” means a purchase of swine by a packer in which the pricing mechanism is a formula price based on a market for swine, pork, or a pork product, other than a future or option for swine, pork, or a pork product.
+
+(23) **Type of purchase** — The term “type of purchase”, with respect to swine, means—
 
   (A) a negotiated purchase;
 
   (B) other market formula purchase;
 
-  (C) a swine or pork market formula purchase; and
+  (C) a swine or pork market formula purchase;
 
-  (D) other purchase arrangement.
+  (D) a negotiated formula purchase; and
+
+  (E) other purchase arrangement.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Pars. (9) to (12). Pub. L. 114–54, § 102(a)(1), (2), added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively. Former par. (12) redesignated (13).
+
+Par. (12)(A). Pub. L. 114–54, § 102(a)(3), inserted “negotiated formula purchase,” after “pork market formula purchase,”.
+
+Pars. (13) to (23). Pub. L. 114–54, § 102(a)(1), redesignated pars. (12) to (22) as (13) to (23), respectively.
+
+Par. (23)(D), (E). Pub. L. 114–54, § 102(a)(4), added subpar. (D) and redesignated former subpar. (D) as (E).
+
 2006—Par. (4). Pub. L. 109–296, § 2(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘base market hog’ means a hog for which no discounts are subtracted from and no premiums are added to the base price.”
 
 Par. (5). Pub. L. 109–296, § 2(b), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The term ‘bred female swine’ means any female swine, whether a sow or gilt, that has been mated or inseminated and is assumed, or has been confirmed, to be pregnant.”
@@ -1943,7 +1959,13 @@ Par. (12)(C). Pub. L. 109–296, § 2(c)(2), inserted “or person” after “s
       (II) in the case of information regarding barrows and gilts slaughtered, not later than 10:00 a.m. Central Time,
     on the reporting day on which the information is received from the packer.
 
-    (ii) *Price distributions* — The information published by the Secretary under clause (i) shall include a distribution of net prices in the range between and including the lowest net price and the highest net price reported. The publication shall include a delineation of the number of barrows and gilts at each reported price level or, at the option of the Secretary, the number of barrows and gilts within each of a series of reasonable price bands within the range of prices.
+    (ii) *Price distributions* — The information published by the Secretary under clause (i) shall include—
+
+      (I) a distribution of net prices in the range between and including the lowest net price and the highest net price reported;
+
+      (II) a delineation of the number of barrows and gilts at each reported price level or, at the option of the Secretary, the number of barrows and gilts within each of a series of reasonable price bands within the range of prices; and
+
+      (III) the total number and weighted average price of barrows and gilts purchased through negotiated purchases and negotiated formula purchases.
 
 (2) **Morning report**
 
@@ -1972,6 +1994,8 @@ Par. (12)(C). Pub. L. 109–296, § 2(c)(2), inserted “or person” after “s
     (iv) the base price paid for all base market hogs purchased up to that time of the reporting day through each type of purchase other than negotiated purchase, unless such information is unavailable due to pricing that is determined on a delayed basis.
 
   (B) *Publication* — The Secretary shall publish the information obtained under this paragraph in the afternoon report as soon as practicable, but not later than 3:00 p.m. Central Time, on each reporting day.
+
+  (C) *Late in the day report information* — The Secretary shall include in the morning report and the afternoon report for the following day any information required to be reported under subparagraph (A) that is obtained after the time of the reporting day specified in that subparagraph.
 
 **(d) Daily reporting; sows and boars**
 
@@ -2030,6 +2054,10 @@ Par. (12)(C). Pub. L. 109–296, § 2(c)(2), inserted “or person” after “s
 ### Statutory Notes
 
 #### Amendments
+2015—Subsec. (c)(1)(D)(ii). Pub. L. 114–54, § 102(b)(1), added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “The information published by the Secretary under clause (i) shall include a distribution of net prices in the range between and including the lowest net price and the highest net price reported. The publication shall include a delineation of the number of barrows and gilts at each reported price level or, at the option of the Secretary, the number of barrows and gilts within each of a series of reasonable price bands within the range of prices.”
+
+Subsec. (c)(3)(C). Pub. L. 114–54, § 102(b)(2), added subpar. (C).
+
 2006—Subsec. (c). Pub. L. 109–296, § 3, amended heading and text of subsec. (c) generally. Prior to amendment, text related to daily reporting.
 
 Subsecs. (d), (e). Pub. L. 109–296, § 4, added subsec. (d) and redesignated former subsec. (d) as (e).
@@ -2058,6 +2086,11 @@ Pub. L. 111–239, § 2(b)(2)–(4), Sept. 27, 2010, 124 Stat. 2501, provided th
 (3) promote competition in the lamb slaughtering industry.
 
 **(b) Notice and comment** If the Secretary establishes a mandatory price reporting program under subsection (a), the Secretary shall provide an opportunity for comment on proposed regulations to establish the program during the 30-day period beginning on the date of the publication of the proposed regulations.
+
+### Statutory Notes
+
+#### Lamb Reporting
+Pub. L. 114–54, title I, § 103, Sept. 30, 2015, 129 Stat. 514, provided that: “Not later than 180 days after the date of enactment of this Act [Sept. 30, 2015], the Secretary of Agriculture shall revise section 59.300 of title 7, Code of Federal Regulations, so that— “(1) the definition of the term ‘importer’—“(A) includes only those importers that imported an average of 1,000 metric tons of lamb meat products per year during the immediately preceding 4 calendar years; and “(B) may include any person that does not meet the requirement referred to in subparagraph (A), if the Secretary determines that the person should be considered an importer based on their volume of lamb imports; and “(2) the definition of the term ‘packer’—“(A) applies to any entity with 50 percent or more ownership in a facility; “(B) includes a federally inspected lamb processing plant which slaughtered or processed the equivalent of an average of 35,000 head of lambs per year during the immediately preceding 5 calendar years; and “(C) may include any other lamb processing plant that does not meet the requirement referred to in subparagraph (B), if the Secretary determines that the processing plant should be considered a packer after considering the capacity of the processing plant.”
 
 
 <a id="section-1636"></a>
@@ -2313,11 +2346,13 @@ In order to achieve the goals, purposes, and objectives of this chapter on a nat
 <a id="section-1636i"></a>
 ## § 1636i. Termination of authority
 
-The authority provided by this subchapter terminates on September 30, 2015.
+The authority provided by this subchapter terminates on September 30, 2020.
 
 ### Statutory Notes
 
 #### Amendments
+2015—Pub. L. 114–54 substituted “September 30, 2020” for “September 30, 2015”.
+
 2010—Pub. L. 111–239 substituted “September 30, 2015” for “September 30, 2010”.
 
 
@@ -2470,15 +2505,13 @@ Pub. L. 111–239, § 3(b), Sept. 27, 2010, 124 Stat. 2502, provided that: “No
 
 In this subchapter:
 
-(1) **Beef** — The term “beef” means meat produced from cattle (including veal).
-
-(2) **Covered commodity**
+(1) **Covered commodity**
 
   (A) *In general* — The term “covered commodity” means—
 
-    (i) muscle cuts of beef, lamb, pork, and venison;
+    (i) muscle cuts of lamb and venison;
 
-    (ii) ground beef, ground lamb, ground pork, and ground venison;
+    (ii) ground lamb and ground venison;
 
     (iii) farm-raised fish;
 
@@ -2500,23 +2533,21 @@ In this subchapter:
 
   (B) *Exclusions* — The term “covered commodity” does not include an item described in subparagraph (A) if the item is an ingredient in a processed food item.
 
-(3) **Farm-raised fish** — The term “farm-raised fish” includes—
+(2) **Farm-raised fish** — The term “farm-raised fish” includes—
 
   (A) farm-raised shellfish; and
 
   (B) fillets, steaks, nuggets, and any other flesh from a farm-raised fish or shellfish.
 
-(4) **Food service establishment** — The term “food service establishment” means a restaurant, cafeteria, lunch room, food stand, saloon, tavern, bar, lounge, or other similar facility operated as an enterprise engaged in the business of selling food to the public.
+(3) **Food service establishment** — The term “food service establishment” means a restaurant, cafeteria, lunch room, food stand, saloon, tavern, bar, lounge, or other similar facility operated as an enterprise engaged in the business of selling food to the public.
 
-(5) **Lamb** — The term “lamb” means meat, other than mutton, produced from sheep.
+(4) **Lamb** — The term “lamb” means meat, other than mutton, produced from sheep.
 
-(6) **Perishable agricultural commodity; retailer** — The terms “perishable agricultural commodity” and “retailer” have the meanings given the terms in [section 499a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section499a/b&num=0&edition=prelim).
+(5) **Perishable agricultural commodity; retailer** — The terms “perishable agricultural commodity” and “retailer” have the meanings given the terms in [section 499a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section499a/b&num=0&edition=prelim).
 
-(7) **Pork** — The term “pork” means meat produced from hogs.
+(6) **Secretary** — The term “Secretary” means the Secretary of Agriculture, acting through the Agricultural Marketing Service.
 
-(8) **Secretary** — The term “Secretary” means the Secretary of Agriculture, acting through the Agricultural Marketing Service.
-
-(9) **Wild fish**
+(7) **Wild fish**
 
   (A) *In general* — The term “wild fish” means naturally-born or hatchery-raised fish and shellfish harvested in the wild.
 
@@ -2530,6 +2561,8 @@ In this subchapter:
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2015—Pub. L. 114–113 redesignated pars. (2), (3), (4), (5), (6), (8), and (9) as pars. (1), (2), (3), (4), (5), (6), and (7), respectively, in par. (1)(A)(i) struck out references to beef and pork, in par. (1)(A)(ii) struck out references to ground beef and ground pork, and struck out former pars. (1) and (7), which defined “beef” and “pork”, respectively .
+
 2014—Par. (2)(A)(i). Pub. L. 113–79, § 12104(b)(1)(A), substituted “pork, and venison” for “and pork”.
 
 Par. (2)(A)(ii). Pub. L. 113–79, § 12104(b)(1)(B), substituted “ground pork, and ground venison” for “and ground pork”.
@@ -2546,9 +2579,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 (1) **Requirement** — Except as provided in subsection (b), a retailer of a covered commodity shall inform consumers, at the final point of sale of the covered commodity to consumers, of the country of origin of the covered commodity.
 
-(2) **Designation of country of origin for beef, lamb, pork, chicken, goat, and venison meat**
+(2) **Designation of country of origin for lamb, chicken, goat, and venison meat**
 
-  (A) *United States country of origin* — A retailer of a covered commodity that is beef, lamb, pork, chicken, goat, or venison meat may designate the covered commodity as exclusively having a United States country of origin only if the covered commodity is derived from an animal that was—
+  (A) *United States country of origin* — A retailer of a covered commodity that is lamb, chicken, goat, or venison meat may designate the covered commodity as exclusively having a United States country of origin only if the covered commodity is derived from an animal that was—
 
     (i) exclusively born, raised, and slaughtered in the United States;
 
@@ -2558,7 +2591,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (B) *Multiple countries of origin*
 
-    (i) *In general* — A retailer of a covered commodity that is beef, lamb, pork, chicken, goat, or venison meat that is derived from an animal that is—
+    (i) *In general* — A retailer of a covered commodity that is lamb, chicken, goat, or venison meat that is derived from an animal that is—
 
       (I) not exclusively born, raised, and slaughtered in the United States,
 
@@ -2569,19 +2602,19 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
     (ii) *Relation to general requirement* — Nothing in this subparagraph alters the mandatory requirement to inform consumers of the country of origin of covered commodities under paragraph (1).
 
-  (C) *Imported for immediate slaughter* — A retailer of a covered commodity that is beef, lamb, pork, chicken, goat, or venison meat that is derived from an animal that is imported into the United States for immediate slaughter shall designate the origin of such covered commodity as—
+  (C) *Imported for immediate slaughter* — A retailer of a covered commodity that is lamb, chicken, goat, or venison meat that is derived from an animal that is imported into the United States for immediate slaughter shall designate the origin of such covered commodity as—
 
     (i) the country from which the animal was imported; and
 
     (ii) the United States.
 
-  (D) *Foreign country of origin* — A retailer of a covered commodity that is beef, lamb, pork, chicken, goat, or venison meat that is derived from an animal that is not born, raised, or slaughtered in the United States shall designate a country other than the United States as the country of origin of such commodity.
+  (D) *Foreign country of origin* — A retailer of a covered commodity that is lamb, chicken, goat, or venison meat that is derived from an animal that is not born, raised, or slaughtered in the United States shall designate a country other than the United States as the country of origin of such commodity.
 
-  (E) *Ground beef, pork, lamb, chicken, goat, and venison* — The notice of country of origin for ground beef, ground pork, ground lamb, ground chicken, ground goat, or ground venison shall include—
+  (E) *Ground lamb, chicken, goat, and venison* — The notice of country of origin for ground lamb, ground chicken, ground goat, or ground venison shall include—
 
-    (i) a list of all countries of origin of such ground beef, ground pork, ground lamb, ground chicken, ground goat, or ground venison; or
+    (i) a list of all countries of origin of such ground lamb, ground chicken, ground goat, or ground venison; or
 
-    (ii) a list of all reasonably possible countries of origin of such ground beef, ground pork, ground lamb, ground chicken, ground goat, or ground venison.
+    (ii) a list of all reasonably possible countries of origin of such ground lamb, ground chicken, ground goat, or ground venison.
 
 (3) **Designation of country of origin for fish**
 
@@ -2639,18 +2672,14 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (A) the carcass grading and certification system carried out under this Act;
 
-  (B) the voluntary country of origin beef labeling system carried out under this Act;
+  (B) the origin verification system established to carry out the child and adult care food program established under [section 1766 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1766&num=0&edition=prelim); or
 
-  (C) voluntary programs established to certify certain premium beef cuts;
-
-  (D) the origin verification system established to carry out the child and adult care food program established under [section 1766 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1766&num=0&edition=prelim); or
-
-  (E) the origin verification system established to carry out the market access program under [section 5623 of this title](./chapter-087-export-promotion.md#section-5623).
+  (C) the origin verification system established to carry out the market access program under [section 5623 of this title](./chapter-087-export-promotion.md#section-5623).
 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (f)(2)(A), (B), is act Aug. 14, 1946, ch. 966, 60 Stat. 1082, which enacted this chapter and sections 427h to 427j of this title and amended [section 427 of this title](./chapter-017-miscellaneous-matters.md#section-427). For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (f)(2)(A), is act Aug. 14, 1946, ch. 966, 60 Stat. 1082, which enacted this chapter and sections 427h to 427j of this title and amended [section 427 of this title](./chapter-017-miscellaneous-matters.md#section-427). For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 May 13, 2002, referred to in subsec. (f)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 107–171, which enacted this subchapter, to reflect the probable intent of Congress.
@@ -2658,6 +2687,18 @@ May 13, 2002, referred to in subsec. (f)(2), was in the original “the date of 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2015—Subsec. (a)(2). Pub. L. 114–113, § 759(b)(1)(A), in heading, struck out “beef,” before “lamb,” and “pork,” before “chicken,”.
+
+Subsec. (a)(2)(A) to (D). Pub. L. 114–113, § 759(b)(1)(B), struck out “beef,” and “pork,” wherever appearing.
+
+Subsec. (a)(2)(E). Pub. L. 114–113, § 759(b)(1)(C), in heading, struck out “beef, pork,” after “Ground” and, in text, struck out “ground beef, ground pork,” wherever appearing.
+
+Subsec. (f)(2)(B) to (E). Pub. L. 114–113, § 759(b)(2), redesignated subpars. (D) and (E) as (B) and (C), respectively, and struck out former subpars. (B) and (C), which read as follows:
+
+“(B) the voluntary country of origin beef labeling system carried out under this Act;
+
+“(C) voluntary programs established to certify certain premium beef cuts;”.
+
 2014—Subsec. (a)(2). Pub. L. 113–79, § 12104(b)(2)(A), substituted “goat, and venison” for “and goat” in heading.
 
 Subsec. (a)(2)(A), (B)(i), (C), (D). Pub. L. 113–79, § 12104(b)(2)(B), substituted “goat, or venison” for “or goat”.
@@ -2725,3 +2766,196 @@ This subchapter shall apply to the retail sale of a covered commodity beginning 
 2005—Pub. L. 109–97 substituted “2008” for “2006”.
 
 2004—Pub. L. 108–199 substituted “2006, except for ‘farm-raised fish’ and ‘wild fish’ which shall be September 30, 2004” for “2004”.
+
+
+<a id="section-1639"></a>
+## § 1639. Definitions
+
+In this subchapter:
+
+(1) **Bioengineering** — The term “bioengineering”, and any similar term, as determined by the Secretary, with respect to a food, refers to a food—
+
+  (A) that contains genetic material that has been modified through in vitro recombinant deoxyribonucleic acid (DNA) techniques; and
+
+  (B) for which the modification could not otherwise be obtained through conventional breeding or found in nature.
+
+(2) **Food** — The term “food” means a food (as defined in [section 321 of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321&num=0&edition=prelim)) that is intended for human consumption.
+
+(3) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
+
+
+<a id="section-1639a"></a>
+## § 1639a. Applicability
+**(a) In general** This subchapter shall apply to any claim in a disclosure that a food bears that indicates that the food is a bioengineered food.
+
+**(b) Application of definition** The definition of the term “bioengineering” under [section 1639 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1639) shall not affect any other definition, program, rule, or regulation of the Federal Government.
+
+**(c) Application to foods** This subchapter shall apply only to a food subject to—
+
+(1) the labeling requirements under the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.); or
+
+(2) the labeling requirements under the Federal Meat Inspection Act ([21 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section601&num=0&edition=prelim) et seq.), the Poultry Products Inspection Act ([21 U.S.C. 451](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section451&num=0&edition=prelim) et seq.), or the Egg Products Inspection Act ([21 U.S.C. 1031](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1031&num=0&edition=prelim) et seq.) only if—
+
+  (A) the most predominant ingredient of the food would independently be subject to the labeling requirements under the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.); or
+
+  (B)
+
+    (i) the most predominant ingredient of the food is broth, stock, water, or a similar solution; and
+
+    (ii) the second-most predominant ingredient of the food would independently be subject to the labeling requirements under the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.).
+
+### Statutory Notes
+
+#### References in Text
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1), (2)(A), (B)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+
+The Federal Meat Inspection Act, referred to in subsec. (c)(2), is titles I to IV of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, which are classified generally to subchapters I to IV (§ 601 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section601&num=0&edition=prelim) and Tables.
+
+The Poultry Products Inspection Act, referred to in subsec. (c)(2), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§ 451 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 451 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section451&num=0&edition=prelim) and Tables.
+
+The Egg Products Inspection Act, referred to in subsec. (c)(2), is Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to chapter 15 (§ 1031 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 1031 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1031&num=0&edition=prelim) and Tables.
+
+
+<a id="section-1639b"></a>
+## § 1639b. Establishment of national bioengineered food disclosure standard
+**(a) Establishment of mandatory standard** Not later than 2 years after July 29, 2016, the Secretary shall—
+
+(1) establish a national mandatory bioengineered food disclosure standard with respect to any bioengineered food and any food that may be bioengineered; and
+
+(2) establish such requirements and procedures as the Secretary determines necessary to carry out the standard.
+
+**(b) Regulations**
+
+(1) **In general** — A food may bear a disclosure that the food is bioengineered only in accordance with regulations promulgated by the Secretary in accordance with this subchapter.
+
+(2) **Requirements** — A regulation promulgated by the Secretary in carrying out this subchapter shall—
+
+  (A) prohibit a food derived from an animal to be considered a bioengineered food solely because the animal consumed feed produced from, containing, or consisting of a bioengineered substance;
+
+  (B) determine the amounts of a bioengineered substance that may be present in food, as appropriate, in order for the food to be a bioengineered food;
+
+  (C) establish a process for requesting and granting a determination by the Secretary regarding other factors and conditions under which a food is considered a bioengineered food;
+
+  (D) in accordance with subsection (d), require that the form of a food disclosure under this section be a text, symbol, or electronic or digital link, but excluding Internet website Uniform Resource Locators not embedded in the link, with the disclosure option to be selected by the food manufacturer;
+
+  (E) provide alternative reasonable disclosure options for food contained in small or very small packages;
+
+  (F) in the case of small food manufacturers, provide—
+
+    (i) an implementation date that is not earlier than 1 year after the implementation date for regulations promulgated in accordance with this section; and
+
+    (ii) on-package disclosure options, in addition to those available under subparagraph (D), to be selected by the small food manufacturer, that consist of—
+
+      (I) a telephone number accompanied by appropriate language to indicate that the phone number provides access to additional information; and
+
+      (II) an Internet website maintained by the small food manufacturer in a manner consistent with subsection (d), as appropriate; and
+
+  (G) exclude—
+
+    (i) food served in a restaurant or similar retail food establishment; and
+
+    (ii) very small food manufacturers.
+
+(3) **Safety** — For the purpose of regulations promulgated and food disclosures made pursuant to paragraph (2), a bioengineered food that has successfully completed the pre-market Federal regulatory review process shall not be treated as safer than, or not as safe as, a non-bioengineered counterpart of the food solely because the food is bioengineered or produced or developed with the use of bioengineering.
+
+**(c) Study of electronic or digital link disclosure**
+
+(1) **In general** — Not later than 1 year after July 29, 2016, the Secretary shall conduct a study to identify potential technological challenges that may impact whether consumers would have access to the bioengineering disclosure through electronic or digital disclosure methods.
+
+(2) **Public comments** — In conducting the study under paragraph (1), the Secretary shall solicit and consider comments from the public.
+
+(3) **Factors** — The study conducted under paragraph (1) shall consider whether consumer access to the bioengineering disclosure through electronic or digital disclosure methods under this subchapter would be affected by the following factors:
+
+  (A) The availability of wireless Internet or cellular networks.
+
+  (B) The availability of landline telephones in stores.
+
+  (C) Challenges facing small retailers and rural retailers.
+
+  (D) The efforts that retailers and other entities have taken to address potential technology and infrastructure challenges.
+
+  (E) The costs and benefits of installing in retail stores electronic or digital link scanners or other evolving technology that provide bioengineering disclosure information.
+
+(4) **Additional disclosure options** — If the Secretary determines in the study conducted under paragraph (1) that consumers, while shopping, would not have sufficient access to the bioengineering disclosure through electronic or digital disclosure methods, the Secretary, after consultation with food retailers and manufacturers, shall provide additional and comparable options to access the bioengineering disclosure.
+
+**(d) Disclosure** In promulgating regulations under this section, the Secretary shall ensure that—
+
+(1) on-package language accompanies—
+
+  (A) the electronic or digital link disclosure, indicating that the electronic or digital link will provide access to an Internet website or other landing page by stating only “Scan here for more food information”, or equivalent language that only reflects technological changes; or
+
+  (B) any telephone number disclosure, indicating that the telephone number will provide access to additional information by stating only “Call for more food information.”;
+
+(2) the electronic or digital link will provide access to the bioengineering disclosure located, in a consistent and conspicuous manner, on the first product information page that appears for the product on a mobile device, Internet website, or other landing page, which shall exclude marketing and promotional information;
+
+(3)
+
+  (A) the electronic or digital link disclosure may not collect, analyze, or sell any personally identifiable information about consumers or the devices of consumers; but
+
+  (B) if information described in subparagraph (A) must be collected to carry out the purposes of this subchapter, that information shall be deleted immediately and not used for any other purpose;
+
+(4) the electronic or digital link disclosure also includes a telephone number that provides access to the bioengineering disclosure; and
+
+(5) the electronic or digital link disclosure is of sufficient size to be easily and effectively scanned or read by a digital device.
+
+**(e) State food labeling standards** Notwithstanding [section 1639i of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1639i), no State or political subdivision of a State may directly or indirectly establish under any authority or continue in effect as to any food in interstate commerce any requirement relating to the labeling or disclosure of whether a food is bioengineered or was developed or produced using bioengineering for a food that is the subject of the national bioengineered food disclosure standard under this section that is not identical to the mandatory disclosure requirement under that standard.
+
+**(f) Consistency with certain laws** The Secretary shall consider establishing consistency between—
+
+(1) the national bioengineered food disclosure standard established under this section; and
+
+(2) the Organic Foods Production Act of 1990 ([7 U.S.C. 6501](./chapter-094-organic-certification.md#section-6501) et seq.) and any rules or regulations implementing that Act.
+
+**(g) Enforcement**
+
+(1) **Prohibited act** — It shall be a prohibited act for a person to knowingly fail to make a disclosure as required under this section.
+
+(2) **Recordkeeping** — Each person subject to the mandatory disclosure requirement under this section shall maintain, and make available to the Secretary, on request, such records as the Secretary determines to be customary or reasonable in the food industry, by regulation, to establish compliance with this section.
+
+(3) **Examination and audit**
+
+  (A) *In general* — The Secretary may conduct an examination, audit, or similar activity with respect to any records required under paragraph (2).
+
+  (B) *Notice and hearing* — A person subject to an examination, audit, or similar activity under subparagraph (A) shall be provided notice and opportunity for a hearing on the results of any examination, audit, or similar activity.
+
+  (C) *Audit results* — After the notice and opportunity for a hearing under subparagraph (B), the Secretary shall make public the summary of any examination, audit, or similar activity under subparagraph (A).
+
+(4) **Recall authority** — The Secretary shall have no authority to recall any food subject to this subchapter on the basis of whether the food bears a disclosure that the food is bioengineered.
+
+### Statutory Notes
+
+#### References in Text
+The Organic Foods Production Act of 1990, referred to in subsec. (f)(2), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§ 6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6501 of this title](./chapter-094-organic-certification.md#section-6501) and Tables.
+
+
+<a id="section-1639c"></a>
+## § 1639c. Savings provisions
+**(a) Trade** This subchapter shall be applied in a manner consistent with United States obligations under international agreements.
+
+**(b) Other authorities** Nothing in this subchapter—
+
+(1) affects the authority of the Secretary of Health and Human Services or creates any rights or obligations for any person under the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.); or
+
+(2) affects the authority of the Secretary of the Treasury or creates any rights or obligations for any person under the Federal Alcohol Administration Act ([27 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title27-section201&num=0&edition=prelim) et seq.).
+
+**(c) Other** A food may not be considered to be “not bioengineered”, “non-GMO”, or any other similar claim describing the absence of bioengineering in the food solely because the food is not required to bear a disclosure that the food is bioengineered under this subchapter.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+
+The Federal Alcohol Administration Act, referred to in subsec. (b)(2), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, which is classified generally to subchapter I (§ 201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. For complete classification of this Act to the Code, see [section 201 of Title 27](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title27-section201&num=0&edition=prelim) and Tables.
+
+
+<a id="section-1639i"></a>
+## § 1639i. Federal preemption
+**(a) Definition of food** In this subchapter, the term “food” has the meaning given the term in [section 321 of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321&num=0&edition=prelim).
+
+**(b) Federal preemption** No State or a political subdivision of a State may directly or indirectly establish under any authority or continue in effect as to any food or seed in interstate commerce any requirement relating to the labeling of whether a food (including food served in a restaurant or similar establishment) or seed is genetically engineered (which shall include such other similar terms as determined by the Secretary of Agriculture) or was developed or produced using genetic engineering, including any requirement for claims that a food or seed is or contains an ingredient that was developed or produced using genetic engineering.
+
+
+<a id="section-1639j"></a>
+## § 1639j. Exclusion from Federal preemption
+
+Nothing in this subchapter, subchapter V, or any regulation, rule, or requirement promulgated in accordance with this subchapter or subchapter V shall be construed to preempt any remedy created by a State or Federal statutory or common law right.

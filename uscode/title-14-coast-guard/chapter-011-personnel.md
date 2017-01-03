@@ -2,7 +2,7 @@
 title: 14
 chapter: '11'
 heading: PERSONNEL
-section_count: 111
+section_count: 113
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -967,7 +967,7 @@ Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88
 
 <a id="section-290"></a>
 ## § 290. Rear admirals and rear admirals (lower half); continuation on active duty; involuntary retirement
-**(a)** The Secretary shall from time to time convene boards to recommend for continuation on active duty the most senior officers on the active duty promotion list serving in the grade of rear admiral (lower half) or rear admiral who have not previously been considered for continuation in that grade. Officers, other than the Commandant, serving for the time being or who have served in or above the grade of vice admiral are not subject to consideration for continuation under this subsection, and as to all other provisions of this section shall be considered as having been continued at the grade of rear admiral. A board shall consist of at least five officers serving in the grade of vice admiral or as rear admirals previously continued. Boards shall be convened frequently enough to assure that each officer serving in the grade of rear admiral (lower half) or rear admiral is subject to consideration for continuation during a promotion year in which that officer completes not less than four or more than five years combined service in the grades of rear admiral (lower half) and rear admiral.
+**(a)** The Secretary shall from time to time convene boards to recommend for continuation on active duty the most senior officers on the active duty promotion list serving in the grade of rear admiral (lower half) or rear admiral who have not previously been considered for continuation in that grade. Officers, other than the Commandant, serving for the time being or who have served in or above the grade of vice admiral are not subject to consideration for continuation under this subsection, and as to all other provisions of this section shall be considered as having been continued at the grade of rear admiral. A board shall consist of at least 5 officers (other than the Commandant) serving in the grade of admiral or vice admiral or as rear admirals previously continued. Boards shall be convened frequently enough to assure that each officer serving in the grade of rear admiral (lower half) or rear admiral is subject to consideration for continuation during a promotion year in which that officer completes not less than four or more than five years combined service in the grades of rear admiral (lower half) and rear admiral.
 
 **(b)** The Secretary shall, based upon the needs of the service, furnish each board convened under this section with the number of officers to be considered for continuation on active duty. The number that may be recommended for continuation shall be not less than 50 per centum or more than 75 per centum of the number of officers being considered for continuation.
 
@@ -992,6 +992,8 @@ Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328 substituted “5 officers (other than the Commandant) serving in the grade of admiral or vice admiral” for “five officers serving in the grade of vice admiral”.
+
 2012—Subsec. (a). Pub. L. 112–213 substituted “in or above the grade of vice admiral” for “in the grade of vice admiral” in second sentence.
 
 2010—Subsec. (a). Pub. L. 111–281 substituted “Officers, other than the Commandant, serving for the time being or who have served in the grade of vice admiral are not subject to consideration for continuation under this subsection, and as to all other provisions of this section shall be considered as having been continued at the grade of rear admiral.” for “Officers serving for the time being or who have served in the grade of vice admiral are not subject to consideration for continuation under this subsection, and as to all other provisions of this section shall be considered as having been continued in the grade of rear admiral.”
@@ -1563,58 +1565,13 @@ Section, act Aug. 4, 1949, ch. 393, 63 Stat. 521, related to retirement for disa
 
 
 <a id="section-357"></a>
-## § 357. Involuntary retirement of enlisted members
-**(a)** Enlisted Personnel Boards shall be convened as the Commandant may prescribe to review the records of enlisted members who have twenty or more years of active military service.
+## § 357. Retirement of enlisted members: increase in retired pay
 
-**(b)** Enlisted members who have twenty or more years of active military service may be considered by the Commandant for involuntary retirement and may be retired on recommendation of a Board—
-
-(1) because the member’s performance is below the standards the Commandant prescribes; or
-
-(2) because of professional dereliction.
-
-**(c)** An enlisted member under review by the Board shall be—
-
-(1) notified in writing of the reasons the member is being considered for involuntary retirement;
-
-(2) allowed sixty days from the date on which counsel is provided under paragraph (3) to submit any matters in rebuttal;
-
-(3) provided counsel, certified under [section 827(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section827/b&num=0&edition=prelim), to help prepare the rebuttal submitted under paragraph (2) and to represent the member before the Board under paragraph (5);
-
-(4) allowed full access to and be furnished with copies of records relevant to the consideration for involuntary retirement prior to submission of the rebuttal submitted under paragraph (2); and
-
-(5) allowed to appear before the Board and present witnesses or other documentation related to the review.
-
-**(d)** A Board convened under this section shall consist of at least three commissioned officers, at least one of whom shall be of the grade of commander or above.
-
-**(e)** A Board convened under this section shall recommend to the Commandant enlisted members who—
-
-(1) have twenty or more years of active service;
-
-(2) have been considered for involuntary retirement; and
-
-(3) it determines should be involuntarily retired.
-
-**(f)** After the Board makes its determination, each enlisted member the Commandant considers for involuntary retirement shall be—
-
-(1) notified by certified mail of the reasons the member is being considered for involuntary retirement;
-
-(2) allowed sixty days from the date counsel is provided under paragraph (3) to submit any matters in rebuttal;
-
-(3) provided counsel, certified under [section 827(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section827/b&num=0&edition=prelim), to help prepare the rebuttal submitted under paragraph (2); and
-
-(4) allowed full access to and be furnished with copies of records relevant to the consideration for involuntary retirement prior to submission of the rebuttal submitted under paragraph (2).
-
-**(g)** If the Commandant approves the Board’s recommendation, the enlisted member shall be notified of the Commandant’s decision and shall be retired from the service within ninety days of the notification.
-
-**(h)** An enlisted member, who has completed twenty years of service and who the Commandant has involuntarily retired under this section, shall receive retired pay.
-
-**(i)** An enlisted member voluntarily or involuntarily retired after twenty years of service who was cited for extraordinary heroism in the line of duty shall be entitled to an increase in retired pay. The retired pay shall be increased by 10 percent of—
+An enlisted member voluntarily or involuntarily retired after twenty years of service who was cited for extraordinary heroism in the line of duty shall be entitled to an increase in retired pay. The retired pay shall be increased by 10 percent of—
 
 (1) the active-duty pay and permanent additions thereto of the grade or rating with which retired when the member’s retired pay is computed under [section 423(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section423/a&num=0&edition=prelim); or
 
 (2) the member’s retired pay base under [section 1407 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1407&num=0&edition=prelim), when a member’s retired pay is computed under [section 423(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section423/b&num=0&edition=prelim).
-
-**(j)** When the Secretary orders a reduction in force, enlisted personnel may be involuntarily separated from the service without the Board’s action.
 
 ### Statutory Notes
 
@@ -1628,6 +1585,56 @@ Subsection (c) is based on title 14, U.S.C., 1946 ed., § 185d (May 24, 1939, ch
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
+2016—Pub. L. 114–120, § 215(b)(1), amended heading generally. Prior to amendment, heading read as follows: “Involuntary retirement of enlisted members”.
+
+Pub. L. 114–120, § 215(a), struck out subsecs. (a) to (h) and (j) and subsec. (i) designation. Prior to amendment, subsecs. (a) to (h) and (j) read as follows:
+
+“(a) Enlisted Personnel Boards shall be convened as the Commandant may prescribe to review the records of enlisted members who have twenty or more years of active military service.
+
+“(b) Enlisted members who have twenty or more years of active military service may be considered by the Commandant for involuntary retirement and may be retired on recommendation of a Board—
+
+“(1) because the member’s performance is below the standards the Commandant prescribes; or
+
+“(2) because of professional dereliction.
+
+“(c) An enlisted member under review by the Board shall be—
+
+“(1) notified in writing of the reasons the member is being considered for involuntary retirement;
+
+“(2) allowed sixty days from the date on which counsel is provided under paragraph (3) to submit any matters in rebuttal;
+
+“(3) provided counsel, certified under [section 827(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section827/b&num=0&edition=prelim), to help prepare the rebuttal submitted under paragraph (2) and to represent the member before the Board under paragraph (5);
+
+“(4) allowed full access to and be furnished with copies of records relevant to the consideration for involuntary retirement prior to submission of the rebuttal submitted under paragraph (2); and
+
+“(5) allowed to appear before the Board and present witnesses or other documentation related to the review.
+
+“(d) A Board convened under this section shall consist of at least three commissioned officers, at least one of whom shall be of the grade of commander or above.
+
+“(e) A Board convened under this section shall recommend to the Commandant enlisted members who—
+
+“(1) have twenty or more years of active service;
+
+“(2) have been considered for involuntary retirement; and
+
+“(3) it determines should be involuntarily retired.
+
+“(f) After the Board makes its determination, each enlisted member the Commandant considers for involuntary retirement shall be—
+
+“(1) notified by certified mail of the reasons the member is being considered for involuntary retirement;
+
+“(2) allowed sixty days from the date counsel is provided under paragraph (3) to submit any matters in rebuttal;
+
+“(3) provided counsel, certified under [section 827(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section827/b&num=0&edition=prelim), to help prepare the rebuttal submitted under paragraph (2); and
+
+“(4) allowed full access to and be furnished with copies of records relevant to the consideration for involuntary retirement prior to submission of the rebuttal submitted under paragraph (2).
+
+“(g) If the Commandant approves the Board’s recommendation, the enlisted member shall be notified of the Commandant’s decision and shall be retired from the service within ninety days of the notification.
+
+“(h) An enlisted member, who has completed twenty years of service and who the Commandant has involuntarily retired under this section, shall receive retired pay.
+
+“(j) When the Secretary orders a reduction in force, enlisted personnel may be involuntarily separated from the service without the Board’s action.”
+
 1991—Pub. L. 102–241 substituted “Involuntary retirement of enlisted members” for “Enlisted Personnel Board” in section catchline and amended text generally. Prior to amendment, text provided that the Commandant assemble annually a Coast Guard Enlisted Personnel Board to recommend enlisted members for retirement, that the recommendations be transmitted to the Commandant for approval, in which event the enlisted members concerned would be notified and given opportunity to file a written protest, which would require a subsequent annual Board determination and approval by the Commandant to effect the involuntary retirement of that member, and further provided that an enlisted member with twenty years’ service retired from active duty by the Commandant pursuant to this section was to receive retired pay, and that an enlisted member voluntarily or involuntarily retired by reason of twenty years’ service who had been cited for extraordinary heroism was entitled to an increase in retired pay.
 
 1986—Subsec. (b). Pub. L. 99–348, § 205(b)(9)(A), substituted “retired pay” for “the retired pay of the grade or rating with which retired”.
@@ -2098,9 +2105,14 @@ Pub. L. 111–281, title II, § 207(c), Oct. 15, 2010, 124 Stat. 2912, provided 
 
 (1) **In general.—** — The Secretary may require a Physical Evaluation Board to reevaluate any covered individual if the Secretary determines there is reason to believe that a medical condition of the covered individual considered by a Physical Evaluation Board during an evaluation of the covered individual renders the covered individual unsuitable for continued duty.
 
-(2) **Retirements and separations.—** — A covered individual who is determined, based on a reevaluation under paragraph (1), to be unfit to perform the duties of the covered individual’s office, grade, rank, or rating may be retired or separated for physical disability under this chapter.
+(2) **Retirements and separations.—** — A covered individual who is determined, based on a reevaluation under paragraph (1), to be unfit to perform the duties of the covered individual’s office, grade, rank, or rating may be retired or separated for physical disability under chapter 61 of title 10.
 
 **(c) Covered Individual Defined.—** In this section, the term “covered individual” means any member of the Coast Guard who has been determined by a Physical Evaluation Board, pursuant to a physical evaluation by that board, to be fit for duty.
+
+### Statutory Notes
+
+#### Amendments
+2016—Subsec. (b)(2). Pub. L. 114–120 substituted “chapter 61 of title 10” for “this chapter”.
 
 
 <a id="section-428"></a>
@@ -2114,15 +2126,53 @@ Pub. L. 111–281, title II, § 207(c), Oct. 15, 2010, 124 Stat. 2912, provided 
 **(b) Deadline.—** Not later than 30 days after receiving a request for a sea service letter from a member or former member of the Coast Guard under subsection (a), the Secretary shall provide such letter to such member or former member if such member or former member satisfies the requirement under subsection (a)(1).
 
 
-<a id="section-431"></a>
-## § 431. Repealed. Pub. L. 99–640, § 10(a)(6)(A), Nov. 10, 1986, 100 Stat. 3549]
+<a id="section-429"></a>
+## § 429. Multirater assessment of certain personnel
+**(a) Multirater Assessment of Certain Personnel.—**
+
+(1) **In general.—** — Commencing not later than one year after the date of the enactment of the Coast Guard Authorization Act of 2016, the Commandant of the Coast Guard shall develop and implement a plan to conduct every two years a multirater assessment for each of the following:
+
+  (A) Each flag officer of the Coast Guard.
+
+  (B) Each member of the Senior Executive Service of the Coast Guard.
+
+  (C) Each officer of the Coast Guard nominated for promotion to the grade of flag officer.
+
+(2) **Post-assessment elements.—** — Following an assessment of an individual pursuant to paragraph (1), the individual shall be provided appropriate post-assessment counseling and leadership coaching.
+
+**(b) Multirater Assessment Defined.—** In this section, the term “multirater assessment” means a review that seeks opinion from members senior to the reviewee and the peers and subordinates of the reviewee.
 
 ### Statutory Notes
 
-Section, acts Aug. 4, 1949, ch. 393, 63 Stat. 526; Aug. 3, 1950, ch. 536, § 24, 64 Stat. 407, related to personnel of former Life Saving Service.
+#### References in Text
+The date of the enactment of the Coast Guard Authorization Act of 2016, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 114–120, which was approved Feb. 8, 2016.
 
-#### Savings Provision
-Pub. L. 99–640, § 10(a)(6)(A), Nov. 10, 1986, 100 Stat. 3549, provided in part that the repeal of sections 431, 433, 434, and 438 of this title did not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun under such sections before Nov. 10, 1986.
+#### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–328 substituted “Coast Guard Authorization Act of 2016” for “Coast Guard Authorization Act of 2015”.
+
+#### Effective Date of 2016 Amendment
+Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under [section 60 of this title](./chapter-003-composition-and-organization.md#section-60).
+
+
+<a id="section-430"></a>
+## § 430. Investigations of flag officers and Senior Executive Service employees
+
+In conducting an investigation into an allegation of misconduct by a flag officer or member of the Senior Executive Service serving in the Coast Guard, the Inspector General of the Department of Homeland Security shall—
+
+(1) conduct the investigation in a manner consistent with Department of Defense policies for such an investigation; and
+
+(2) consult with the Inspector General of the Department of Defense.
+
+
+<a id="section-431"></a>
+## § 431. Leave policies for the Coast Guard
+
+Not later than 1 year after the date on which the Secretary of the Navy promulgates a new rule, policy, or memorandum pursuant to [section 704 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section704&num=0&edition=prelim), United States Code, with respect to leave associated with the birth or adoption of a child, the Secretary of the department in which the Coast Guard is operating shall promulgate a similar rule, policy, or memorandum that provides leave to officers and enlisted members of the Coast Guard that is equal in duration and compensation to that provided by the Secretary of the Navy.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 431, acts Aug. 4, 1949, ch. 393, 63 Stat. 526; Aug. 3, 1950, ch. 536, § 24, 64 Stat. 407, related to personnel of former Life Saving Service, prior to repeal by Pub. L. 99–640, § 10(a)(6)(A), Nov. 10, 1986, 100 Stat. 3549, which provided in part that the repeal of sections 431, 433, 434, and 438 of this title did not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun under such sections before Nov. 10, 1986.
 
 
 <a id="section-432"></a>

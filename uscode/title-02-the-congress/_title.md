@@ -2,7 +2,7 @@
 title: 2
 heading: THE CONGRESS
 positive_law: false
-sections: 1558
+sections: 1565
 chapters: 54
 ---
 # Title 2. THE CONGRESS

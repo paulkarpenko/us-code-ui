@@ -20,14 +20,14 @@ source: >-
 
 **(d) Scope of Tribal Programs.—** The tribal programs implemented by specific tribal organizations may vary in scope, as determined by each Indian tribe’s chief governing authority.
 
-**(e) Consultation.—** The Secretary shall consult with Indian tribes, other Federal agencies, State Historic Preservations Officers, and other interested parties concerning the program under subsection (a).
+**(e) Consultation.—** The Secretary shall consult with Indian tribes, other Federal agencies, State Historic Preservations 11 So in original. Probably should be “Preservation”. Officers, and other interested parties concerning the program under subsection (a).
 
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302701 | [16 U.S.C. 470a(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/d/1&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(d)(1), as added Pub. L. 102–575, title XL, § 4006(a)(2), Oct. 30, 1992, 106 Stat. 4755. |
+| 302701 | [16 U.S.C. 470a(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/d/1&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(d)(1), as added Pub. L. 102–575, title XL, § 4006(a)(2), Oct. 30, 1992, 106 Stat. 4755. |
 
 In subsection (e), the words “and initiate the program under subparagraph (A) by not later than October 1, 1994” are omitted as obsolete.
 
@@ -71,7 +71,7 @@ In consultation with interested Indian tribes, other Native American organizatio
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302703 | [16 U.S.C. 470a(d)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/d/3&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(d)(3), as added Pub. L. 102–575, title XL, § 4006(a)(2), Oct. 30, 1992, 106 Stat. 4756. |
+| 302703 | [16 U.S.C. 470a(d)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/d/3&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(d)(3), as added Pub. L. 102–575, title XL, § 4006(a)(2), Oct. 30, 1992, 106 Stat. 4756. |
 
 
 <a id="section-302704"></a>
@@ -96,7 +96,7 @@ At the request of an Indian tribe whose preservation program has been approved t
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302704 | [16 U.S.C. 470a(d)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/d/4&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(d)(4), as added Pub. L. 102–575, title XL, § 4006(a)(2), Oct. 30, 1992, 106 Stat. 4757. |
+| 302704 | [16 U.S.C. 470a(d)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/d/4&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(d)(4), as added Pub. L. 102–575, title XL, § 4006(a)(2), Oct. 30, 1992, 106 Stat. 4757. |
 
 
 <a id="section-302705"></a>
@@ -109,7 +109,7 @@ The Council may enter into an agreement with an Indian tribe to permit undertaki
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302705 | [16 U.S.C. 470a(d)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/d/5&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(d)(5), as added Pub. L. 102–575, title XL, § 4006(a)(2), Oct. 30, 1992, 106 Stat. 4757. |
+| 302705 | [16 U.S.C. 470a(d)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/d/5&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(d)(5), as added Pub. L. 102–575, title XL, § 4006(a)(2), Oct. 30, 1992, 106 Stat. 4757. |
 
 
 <a id="section-302706"></a>
@@ -131,4 +131,4 @@ The Council may enter into an agreement with an Indian tribe to permit undertaki
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 302706 | [16 U.S.C. 470a(d)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/d/6&num=0&edition=prelim) | Pub. L. 89–665, title I, § 101(d)(6), as added Pub. L. 102–575, title XL, § 4006(a)(2), Oct. 30, 1992, 106 Stat. 4757. |
+| 302706 | [16 U.S.C. 470a(d)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470a/d/6&num=0&edition=prelim). | Pub. L. 89–665, title I, § 101(d)(6), as added Pub. L. 102–575, title XL, § 4006(a)(2), Oct. 30, 1992, 106 Stat. 4757. |

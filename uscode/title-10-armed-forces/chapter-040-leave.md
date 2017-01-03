@@ -2,7 +2,7 @@
 title: 10
 chapter: '40'
 heading: LEAVE
-section_count: 11
+section_count: 13
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -56,19 +56,65 @@ Leave accumulated while in missing status shall be accounted for separately. It 
 
 **(i)**
 
-(1) Under regulations prescribed by the Secretary of Defense, a member of the armed forces adopting a child in a qualifying child adoption is allowed up to 21 days of leave in a calendar year to be used in connection with the adoption.
+(1)
 
-(2) For the purpose of this subsection, an adoption of a child by a member is a qualifying child adoption if the member is eligible for reimbursement of qualified adoption expenses for such adoption under [section 1052 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1052).
+  (A) Under regulations prescribed by the Secretary of Defense, a member of the armed forces described in paragraph (2) who is the primary caregiver in the case of the birth of a child is allowed up to twelve weeks of total leave, including up to six weeks of medical convalescent leave, to be used in connection with such birth.
 
-(3) In the event that two members of the armed forces who are married to each other adopt a child in a qualifying child adoption, only one such member shall be allowed leave under this subsection.
+  (B) Under the regulations prescribed for purposes of this subsection, a member of the armed forces described in paragraph (2) who is the primary caregiver in the case of the adoption of a child is allowed up to six weeks of total leave to be used in connection with such adoption.
 
-(4) Leave under paragraph (1) is in addition to other leave provided under other provisions of this section.
+(2) Paragraph (1) applies to the following members:
+
+  (A) A member on active duty.
+
+  (B) A member of a reserve component performing active Guard and Reserve duty.
+
+  (C) A member of a reserve component subject to an active duty recall or mobilization order in excess of 12 months.
+
+(3) The Secretary shall prescribe in the regulations referred to in paragraph (1) a definition of the term “primary caregiver” for purposes of this subsection.
+
+(4) Notwithstanding paragraph (1)(A), a member may receive more than six weeks of medical convalescent leave in connection with the birth of a child, but only if the additional medical convalescent leave—
+
+  (A) is specifically recommended, in writing, by the medical provider of the member to address a diagnosed medical condition; and
+
+  (B) is approved by the commander of the member.
+
+(5) Any leave taken by a member under this subsection, including leave under paragraphs (1) and (4), may be taken only in one increment in connection with such birth or adoption.
+
+(6)
+
+  (A) Any leave authorized by this subsection that is not taken within one year of such birth or adoption shall be forfeited.
+
+  (B) Any leave authorized by this subsection for a member of a reserve component on active duty that is not taken by the time the member is separated from active duty shall be forfeited at that time.
+
+(7) The period of active duty of a member of a reserve component may not be extended in order to permit the member to take leave authorized by this subsection.
+
+(8) Under the regulations prescribed for purposes of this subsection, a member taking leave under paragraph (1) may, as a condition for taking such leave, be required—
+
+  (A) to accept an extension of the member’s current service obligation, if any, by one week for every week of leave taken under paragraph (1); or
+
+  (B) to incur a reduction in the member’s leave account by one week for every week of leave taken under paragraph (1).
+
+(9)
+
+  (A) Leave authorized by this subsection is in addition to any other leave provided under other provisions of this section.
+
+  (B) Medical convalescent leave under paragraph (4) is in addition to any other leave provided under other provisions of this subsection.
+
+(10)
+
+  (A) Subject to subparagraph (B), a member taking leave under paragraph (1) during a period of obligated service shall not be eligible for terminal leave, or to sell back leave, at the end such period of obligated service.
+
+  (B) Under the regulations for purposes of this subsection, the Secretary concerned may waive, whether in whole or in part, the applicability of subparagraph (A) to a member who reenlists at the end of the member’s period of obligated service described in that subparagraph if the Secretary determines that the waiver is in the interests of the armed force concerned.
 
 **(j)**
 
-(1) Under regulations prescribed by the Secretary concerned, a married member of the armed forces on active duty whose wife gives birth to a child shall receive 10 days of leave to be used in connection with the birth of the child.
+(1) Under regulations prescribed by the Secretary of Defense, a member of the armed forces described in subsection (i)(2) who is the secondary caregiver in the case of the birth of a child or the adoption of a child is allowed up to 21 days of leave to be used in connection with such birth or adoption.
 
-(2) Leave under paragraph (1) is in addition to other leave authorized under this section.
+(2) The Secretary shall prescribe in the regulations referred to in paragraph (1) a definition of the term “secondary caregiver” for purposes of this subsection.
+
+(3) Any leave taken by a member under this subsection may be taken only in one increment in connection with such birth or adoption.
+
+(4) Under the regulations prescribed for purposes of this subsection, paragraphs (6) through (10) of subsection (i) (other than paragraph (9)(B) of such subsection) shall apply to leave, and the taking of leave, authorized by this subsection.
 
 **(k)** A member of a reserve component who accumulates leave during a period of active service may carry over any leave so accumulated to the member’s next period of active service, subject to the accumulation limits in subsections (b), (d), and (f), without regard to separation or release from active service if the separation or release is under honorable conditions. The taking of leave carried over under this subsection shall be subject to the provisions of this section.
 
@@ -88,6 +134,20 @@ In subsections (b) and (c), the word “accrued” is omitted as covered by the 
 In subsection (e), the words “before or after August 9, 1946” and section 31a(a) (words after semicolon in 9th sentence) of existing title 37 are omitted as executed.
 
 #### Amendments
+2016—Subsecs. (i), (j). Pub. L. 114–328 added subsecs. (i) and (j) and struck out former subsecs. (i) and (j) which read as follows:
+
+“(i)(1) Under regulations prescribed by the Secretary of Defense, a member of the armed forces adopting a child in a qualifying child adoption is allowed up to 21 days of leave in a calendar year to be used in connection with the adoption.
+
+“(2) For the purpose of this subsection, an adoption of a child by a member is a qualifying child adoption if the member is eligible for reimbursement of qualified adoption expenses for such adoption under [section 1052 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1052).
+
+“(3) In the event that two members of the armed forces who are married to each other adopt a child in a qualifying child adoption, only one such member shall be allowed leave under this subsection.
+
+“(4) Leave under paragraph (1) is in addition to other leave provided under other provisions of this section.
+
+“(j)(1) Under regulations prescribed by the Secretary concerned, a married member of the armed forces on active duty whose wife gives birth to a child shall receive 10 days of leave to be used in connection with the birth of the child.
+
+“(2) Leave under paragraph (1) is in addition to other leave authorized under this section.”
+
 2013—Subsec. (d). Pub. L. 112–239 substituted “September 30, 2015” for “September 30, 2013”.
 
 2011—Subsec. (k). Pub. L. 111–383 added subsec. (k).
@@ -177,9 +237,6 @@ Section effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a
 
 #### National Oceanic and Atmospheric Administration
 Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary’s designee, see [section 3071 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3071&num=0&edition=prelim), Navigation and Navigable Waters.
-
-#### Public Health Service
-Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see [section 213a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section213a&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Accumulation of Leave After September 30, 1980, Pursuant to Subsection (f)
 Pub. L. 97–39, title VII, § 702, Aug. 14, 1981, 95 Stat. 943, provided that: “The amendment made by section 10 of the Military Pay and Allowances Benefits Act of 1980 (Public Law 96–579; 94 Stat. 3368) [amending this section] shall apply with respect to the accumulation of leave by members of the Armed Forces who after September 30, 1979, are assigned (1) to a deployable ship or mobile unit, or (2) to other duty designated after the date of the enactment of this Act [Aug. 14, 1981] as duty qualifying for the purpose of [section 701(f) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701/f&num=0&edition=prelim), United States Code, as amended by that amendment.”
@@ -364,6 +421,17 @@ Section effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a
 
 #### Facilitating Granting of Leave for Attendance at Hearings Involving Parental Support Obligations
 Pub. L. 104–193, title III, § 363(b), Aug. 22, 1996, 110 Stat. 2248, as amended by Pub. L. 107–296, title XVII, § 1704(e)(1)(B), Nov. 25, 2002, 116 Stat. 2315, formerly set out as a note under this section, was transferred to subsec. (c) of this section.
+
+
+<a id="section-704a"></a>
+## § 704a. Administration of leave: prohibition on authorizing, granting, or assigning leave not expressly authorized by law
+
+No member or category of members of the armed forces may be authorized, granted, or assigned leave, including uncharged leave, not expressly authorized by a provision of this chapter or another statute unless expressly authorized by an Act of Congress enacted after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, referred to in text, is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
 
 
 <a id="section-705"></a>
@@ -616,3 +684,16 @@ Pub. L. 98–525, title VII, § 707(b), Oct. 19, 1984, 98 Stat. 2572, provided t
 (1) The term “unearned leave status” means leave approved to be used by a member of the armed forces that exceeds the amount of leave credit that has been accrued as a result of the member’s active service and that has not been previously used by the member.
 
 (2) The term “excess leave status” means leave approved to be used by a member of the armed forces that is unearned leave for which a member is unable to accrue leave credit during the member’s current term of service before the member’s separation.
+
+
+<a id="section-709a"></a>
+## § 709a. Expenses incurred in connection with leave canceled due to contingency operations: reimbursement
+**(a) Authorization To Reimburse.—** The Secretary concerned may reimburse a member of the armed forces under the jurisdiction of the Secretary for travel and related expenses (to the extent not otherwise reimbursable under law) incurred by the member as a result of the cancellation of previously approved leave when—
+
+(1) the leave is canceled in connection with the member’s participation in a contingency operation; and
+
+(2) the cancellation occurs within 48 hours of the time the leave would have commenced.
+
+**(b) Regulations.—** The Secretary of Defense and, in the case of the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security shall prescribe regulations to establish the criteria for the applicability of subsection (a).
+
+**(c) Conclusiveness of Settlement.—** The settlement of an application for reimbursement under subsection (a) is final and conclusive.

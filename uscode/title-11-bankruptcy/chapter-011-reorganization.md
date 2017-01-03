@@ -562,7 +562,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, with this section, as amended by section 201 of Pub. L. 103–394, applicable with respect to any lease, as defined by subsec. (c) of this section, entered into in connection with a settlement of any proceeding in any case pending under this title on Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 702 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section702&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim).
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1302&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim).
 
 #### Aircraft Equipment Settlement Leases
 Pub. L. 103–7, Mar. 17, 1993, 107 Stat. 36, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Aircraft Equipment Settlement Leases Act of 1993’. “SEC. 2. TREATMENT OF AIRCRAFT EQUIPMENT SETTLEMENT LEASES WITH THE PENSION BENEFIT GUARANTY CORPORATION.“In the case of any settlement of liability under title IV of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1301&num=0&edition=prelim) et seq.] entered into by the Pension Benefit Guaranty Corporation and one or more other parties, if—“(1) such settlement was entered into before, on, or after the date of the enactment of this Act [Mar. 17, 1993], “(2) at least one party to such settlement was a debtor under title 11 of the United States Code, and “(3) an agreement that is entered into as part of such settlement provides that such agreement is to be treated as a lease, then such agreement shall be treated as a lease for purposes of section 1110 of such title 11.”
@@ -2253,7 +2253,7 @@ In this subchapter, “Board” means the “Surface Transportation Board”.
 A prior section 1162, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2641, defined “Commission”, prior to repeal by Pub. L. 104–88, title III, § 302(1), Dec. 29, 1995, 109 Stat. 943.
 
 #### Effective Date
-Section effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as a note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Section effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 
 <a id="section-1163"></a>
@@ -2300,7 +2300,7 @@ Section 1164 of the House amendment is derived from section 1163 of the House bi
 1995—Pub. L. 104–88 substituted “Board” for “Commission”.
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 
 <a id="section-1165"></a>
@@ -2555,7 +2555,7 @@ Subsec. (d)(2). Pub. L. 98–353, § 521(c), substituted “such abandonment” 
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -2643,7 +2643,7 @@ The plan may also provide for abandonment in accordance with section 1169, gover
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Effective Date of 1995 Amendment
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section701&num=0&edition=prelim), Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim), Transportation.
 
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub. L. 96–448, set out as a note under [section 1170 of this title](./chapter-011-reorganization.md#section-1170).

@@ -98,6 +98,9 @@ source: >-
 
 ### Statutory Notes
 
+#### Amendment of Subsection (c)
+Pub. L. 114–74, title XI, § 1101(f)(9), (g), Nov. 2, 2015, 129 Stat. 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (c) of this section is amended by striking the last sentence. See 2015 Amendment note below.
+
 #### Inflation Adjusted Items for Certain Years
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
@@ -105,6 +108,8 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 Section 6156, referred to in subsec. (b)(2), was repealed by Pub. L. 108–357, title VIII, § 867(b)(1), Oct. 22, 2004, 118 Stat. 1622.
 
 #### Amendments
+2015—Subsec. (c). Pub. L. 114–74 struck out at end “In the case of a settlement under section 6224(c) which results in the conversion of partnership items to nonpartnership items pursuant to section 6231(b)(1)(C), the preceding sentence shall apply to a computational adjustment resulting from such settlement in the same manner as if such adjustment were a deficiency and such settlement were a waiver referred to in the preceding sentence.”
+
 2005—Subsec. (d)(4). Pub. L. 109–135 substituted “6611(f)(4)(A)” for “6611(f)(3)(A)”.
 
 1998—Subsec. (f). Pub. L. 105–206 inserted at end “The preceding sentence shall not apply to the extent that section 6621(d) applies.”
@@ -222,6 +227,9 @@ Subsecs. (k), (l). Pub. L. 91–53 added subsec. (k) and redesignated former sub
 1958—Subsec. (b). Pub. L. 85–866, §§ 66(c), 206(e), inserted reference to section 6166, and substituted “if the time for payment of an amount of such tax is postponed or extended as provided by section 6163” for “if postponement of the payment of an amount of such tax is permitted by section 6163(a)”.
 
 Subsecs. (g) to (j). Pub. L. 85–866, §§ 83(a)(1), 84(a), added subsecs. (g) and (h) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, see section 1101(g) of Pub. L. 114–74, set out as a note under [section 6221 of this title](./chapter-063-assessment.md#section-6221).
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–135 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 409(d) of Pub. L. 109–135, set out as a note under [section 961 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-961).

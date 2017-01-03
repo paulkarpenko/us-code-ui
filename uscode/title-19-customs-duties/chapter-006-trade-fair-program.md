@@ -14,7 +14,7 @@ source: >-
 
 (1) The term “fair” means any fair, exhibition, or exposition designated by the Secretary of Commerce pursuant to this section.
 
-(2) The term “closing date” in the case of any fair means the date designated pursuant to subsection (a)(3) of this section as the date when the fair will close, or (if earlier) the date on which such fair actually closes.
+(2) The term “closing date” in the case of any fair means the date designated pursuant to subsection (a)(3) as the date when the fair will close, or (if earlier) the date on which such fair actually closes.
 
 **(c) Regulations** The Secretary of Commerce may prescribe such regulations as he deems necessary or appropriate to carry out the provisions of this section.
 
@@ -60,7 +60,7 @@ Presidential determination of cultural significance of objects and exhibition or
 
 **(c) Mandatory abandonment to Government** If any article entered under [section 1752 of this title](./chapter-006-trade-fair-program.md#section-1752) is still in customs custody, under such entry, at the expiration of 3 months after the closing date of the fair for which it was entered, such article shall thereupon be regarded as an article abandoned to the Government and shall be subject to sale or destruction of the article and disposition of the proceeds of sale in the manner provided for in sections 1491, 1492, and 1493 of this title. For purposes of this subsection, any duties or internal-revenue taxes on the article shall be computed on the basis of its condition and quantity at the time it becomes subject to sale.
 
-**(d) Period for performance of certain acts** Whenever any article entered under [section 1752 of this title](./chapter-006-trade-fair-program.md#section-1752) is transferred pursuant to subsection (b)(2) of this section or entered under subsection (a) of this section, the period prescribed for the performance of any act required by the provision governing the status to which the article is transferred, or under which the article is entered, shall run from the date of such transfer or entry.
+**(d) Period for performance of certain acts** Whenever any article entered under [section 1752 of this title](./chapter-006-trade-fair-program.md#section-1752) is transferred pursuant to subsection (b)(2) or entered under subsection (a), the period prescribed for the performance of any act required by the provision governing the status to which the article is transferred, or under which the article is entered, shall run from the date of such transfer or entry.
 
 
 <a id="section-1754"></a>

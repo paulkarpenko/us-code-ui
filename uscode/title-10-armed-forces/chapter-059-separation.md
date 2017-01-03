@@ -16,7 +16,7 @@ source: >-
 
 (3) in time of war, by order of the President.
 
-**(b)** The President may drop from the rolls of any armed force any commissioned officer (1) who has been absent without authority for at least three months, (2) who may be separated under [section 1167 of this title](./chapter-059-separation.md#section-1167) by reason of a sentence to confinement adjudged by a court-martial, or (3) who is sentenced to confinement in a Federal or State penitentiary or correctional institution after having been found guilty of an offense by a court other than a court-martial or other military court, and whose sentence has become final.
+**(b)** The President or the Secretary of Defense, or in the case of a commissioned officer of the Coast Guard, the Secretary of the department in which the Coast Guard is operating when it is not operating in the Navy, may drop from the rolls of any armed force any commissioned officer (1) who has been absent without authority for at least three months, (2) who may be separated under [section 1167 of this title](./chapter-059-separation.md#section-1167) by reason of a sentence to confinement adjudged by a court-martial, or (3) who is sentenced to confinement in a Federal or State penitentiary or correctional institution after having been found guilty of an offense by a court other than a court-martial or other military court, and whose sentence has become final.
 
 ### Statutory Notes
 
@@ -31,6 +31,8 @@ In subsections (a) and (b), the word “commissioned” is inserted since, for t
 In subsection (b), the words “from his place of duty” are omitted as surplusage. The words “at least” are substituted for the words “or more”. The words “by a court other than a court-martial or other military court” are substituted for the words “by the civil authorities”.
 
 #### Amendments
+2016—Subsec. (b). Pub. L. 114–328 inserted “or the Secretary of Defense, or in the case of a commissioned officer of the Coast Guard, the Secretary of the department in which the Coast Guard is operating when it is not operating in the Navy,” after “President”.
+
 1996—Subsec. (b). Pub. L. 104–201 substituted “section 1167” for “section 1178” in par. (2).
 
 Pub. L. 104–106 struck out “or” after “three months,”, added par. (2), and redesignated former par. (2) as (3).
@@ -903,15 +905,15 @@ Pub. L. 102–190, div. A, title VI, § 662(b), Dec. 5, 1991, 105 Stat. 1398, pr
 
 (1) Except as provided in paragraphs (2) and (3), a member of the armed forces who, after having received all or part of voluntary separation pay under this section, returns to active duty shall have deducted from each payment of basic pay, in such schedule of monthly installments as the Secretary concerned shall specify, until the total amount deducted from such basic pay equals the total amount of voluntary separation pay received.
 
-(2) Members who are involuntarily recalled to active duty or full-time National Guard duty in accordance with section 12301(a), 12301(b), 12301(g), 12302, 12303, or 12304 of this title or [section 502(f)(1) of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section502/f/1&num=0&edition=prelim) shall not be subject to this subsection.
+(2) Members who are involuntarily recalled to active duty or full-time National Guard duty in accordance with section 12301(a), 12301(b), 12301(g), 12302, 12303, 12304, 12304a, or 12304b of this title or [section 502(f)(1)(A) of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section502/f/1/A&num=0&edition=prelim) shall not be subject to this subsection.
 
-(3) Members who are recalled or perform active duty or full-time National Guard duty in accordance with section 101(d)(1), 101(d)(2), 101(d)(5), 12301(d) (insofar as the period served is less than 180 consecutive days with the consent of the member), 12319, or 12503 of this title, or section 114, 115, or 502(f)(2) of title 32 (insofar as the period served is less than 180 consecutive days with consent of the member), shall not be subject to this subsection.
+(3) Members who are recalled or perform active duty or full-time National Guard duty in accordance with section 101(d)(1), 101(d)(2), 101(d)(5), 12301(d) (insofar as the period served is less than 180 consecutive days with the consent of the member), 12319, or 12503 of this title, or section 114, 115, or 502(f)(1)(B) of title 32 (insofar as the period served is less than 180 consecutive days with consent of the member), shall not be subject to this subsection.
 
 (4) The Secretary of Defense may waive, in whole or in part, repayment required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States. The authority in this paragraph may be delegated only to the Undersecretary of Defense for Personnel and Readiness and the Principal Deputy Undersecretary of Defense for Personnel and Readiness.
 
 **(k) Termination of Authority.—**
 
-(1) The authority to separate a member of the armed forces from active duty under subsection (c) shall terminate on December 31, 2018.
+(1) The authority to separate a member of the armed forces from active duty under subsection (c) shall terminate on December 31, 2025.
 
 (2) A member who separates by the date specified in paragraph (1) may continue to be provided voluntary separation pay and benefits under this section until the member has received the entire amount of pay and benefits to which the member is entitled under this section.
 
@@ -921,6 +923,12 @@ Pub. L. 102–190, div. A, title VI, § 662(b), Dec. 5, 1991, 105 Stat. 1398, pr
 Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2)(A), is classified generally to chapter 24 (§ 3401 et seq.) of Title 26, Internal Revenue Code.
 
 #### Amendments
+2016—Subsec. (j)(2). Pub. L. 114–328, § 526(1), substituted “12304, 12304a, or 12304b” for “or 12304” and “502(f)(1)(A)” for “502(f)(1)”.
+
+Subsec. (j)(3). Pub. L. 114–328, § 526(2), substituted “502(f)(1)(B)” for “502(f)(2)”.
+
+Subsec. (k)(1). Pub. L. 114–328, § 508(c), substituted “December 31, 2025” for “December 31, 2018”.
+
 2013—Subsec. (e)(2)(B). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
 2011—Subsec. (e)(2)(B). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404” and “476” for “406”.
@@ -978,7 +986,7 @@ Pub. L. 103–160, div. A, title V, § 562(b), Nov. 30, 1993, 107 Stat. 1669, pr
 ## § 1177. Members diagnosed with or reasonably asserting post-traumatic stress disorder or traumatic brain injury: medical examination required before administrative separation
 **(a) Medical Examination Required.—**
 
-(1) Under regulations prescribed by the Secretary of Defense, the Secretary of a military department shall ensure that a member of the armed forces under the jurisdiction of the Secretary who has been deployed overseas in support of a contingency operation during the previous 24 months, and who is diagnosed by a physician, clinical psychologist, psychiatrist, licensed clinical social worker, or psychiatric advanced practice registered nurse as experiencing post-traumatic stress disorder or traumatic brain injury or who otherwise reasonably alleges, based on the service of the member while deployed, the influence of such a condition, receives a medical examination to evaluate a diagnosis of post-traumatic stress disorder or traumatic brain injury.
+(1) Under regulations prescribed by the Secretary of Defense, the Secretary of a military department shall ensure that a member of the armed forces under the jurisdiction of the Secretary who has been deployed overseas in support of a contingency operation, or sexually assaulted, during the previous 24 months, and who is diagnosed by a physician, clinical psychologist, psychiatrist, licensed clinical social worker, or psychiatric advanced practice registered nurse as experiencing post-traumatic stress disorder or traumatic brain injury or who otherwise reasonably alleges, based on the service of the member while deployed, or based on such sexual assault, the influence of such a condition, receives a medical examination to evaluate a diagnosis of post-traumatic stress disorder or traumatic brain injury.
 
 (2) A member covered by paragraph (1) shall not be administratively separated under conditions other than honorable, including an administrative separation in lieu of court-martial, until the results of the medical examination have been reviewed by appropriate authorities responsible for evaluating, reviewing, and approving the separation case, as determined by the Secretary concerned.
 
@@ -997,6 +1005,8 @@ The Uniform Code of Military Justice, referred to in subsec. (c), is classified 
 A prior section 1177, added Pub. L. 103–337, div. A, title V, § 560(a)(1), Oct. 5, 1994, 108 Stat. 2777; amended Pub. L. 104–106, div. A, title V, § 567(a)(1), title XV, § 1503(a)(12), Feb. 10, 1996, 110 Stat. 328, 511, related to mandatory discharge or retirement of members infected with HIV–1 virus, prior to repeal by Pub. L. 104–134, title II, § 2707(a)(1), Apr. 26, 1996, 110 Stat. 1321–330.
 
 #### Amendments
+2016—Subsec. (a)(1). Pub. L. 114–328 inserted “, or sexually assaulted,” after “deployed overseas in support of a contingency operation” and “or based on such sexual assault,” after “while deployed,”.
+
 2013—Subsec. (a)(1). Pub. L. 112–239, § 518(1), substituted “psychiatrist, licensed clinical social worker, or psychiatric advanced practice registered nurse” for “or psychiatrist”.
 
 Subsec. (a)(2). Pub. L. 113–66 inserted “, including an administrative separation in lieu of court-martial,” after “honorable”.

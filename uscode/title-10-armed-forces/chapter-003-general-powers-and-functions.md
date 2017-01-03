@@ -2,7 +2,7 @@
 title: 10
 chapter: '3'
 heading: GENERAL POWERS AND FUNCTIONS
-section_count: 27
+section_count: 31
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -431,15 +431,17 @@ Subsec. (b)(1). Pub. L. 111–383, § 1075(b)(2)(B), substituted “armed forces
 Pub. L. 104–106, div. A, title X, § 1003(b), Feb. 10, 1996, 110 Stat. 417, provided that: “The amendment to [section 127a of title 10](./chapter-003-general-powers-and-functions.md#section-127a), United States Code, made by subsection (a) shall take effect on the date of the enactment of this Act [Feb. 10, 1996] and shall apply to any operation of the Department of Defense that is in effect on or after that date, whether such operation is begun before, on, or after such date of enactment. In the case of an operation begun before such date, any reference in such section to the commencement of such operation shall be treated as referring to the effective date under the preceding sentence.”
 
 #### Incremental Contingency Operations Cost Report
-Pub. L. 113–235, div. C, title VIII, § 8097, Dec. 16, 2014, 128 Stat. 2276, provided that: “The Department of Defense shall continue to report incremental contingency operations costs for Operation Inherent Resolve, Operation Enduring Freedom, and any named successor operations, on a monthly basis and any other operation designated and identified by the Secretary of Defense for the purposes of [section 127a of title 10](./chapter-003-general-powers-and-functions.md#section-127a), United States Code, on a semi-annual basis in the Cost of War Execution Report as prescribed in the Department of Defense Financial Management Regulation Department of Defense Instruction 7000.14, Volume 12, Chapter 23 ‘Contingency Operations’, Annex 1, dated September 2005.”
+Pub. L. 114–113, div. C, title VIII, § 8093, Dec. 18, 2015, 129 Stat. 2373, provided that: “The Department of Defense shall continue to report incremental contingency operations costs for Operation Inherent Resolve, Operation Freedom’s Sentinel, and any named successor operations, on a monthly basis and any other operation designated and identified by the Secretary of Defense for the purposes of [section 127a of title 10](./chapter-003-general-powers-and-functions.md#section-127a), United States Code, on a semi-annual basis in the Cost of War Execution Report as prescribed in the Department of Defense Financial Management Regulation Department of Defense Instruction 7000.14, Volume 12, Chapter 23 ‘Contingency Operations’, Annex 1, dated September 2005.”
 
-Similar provisions were contained in the following appropriation act:
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 113–235, div. C, title VIII, § 8097, Dec. 16, 2014, 128 Stat. 2276.
 
 Pub. L. 113–76, div. C, title VIII, § 8092, Jan. 17, 2014, 128 Stat. 126.
 
 
 <a id="section-127b"></a>
-## § 127b. Assistance in combating terrorism: rewards
+## § 127b. Department of Defense rewards program
 **(a) Authority.—** The Secretary of Defense may pay a monetary amount, or provide a payment-in-kind, to a person as a reward for providing United States Government personnel, or government personnel of allied forces participating in a combined operation with the armed forces, with information or nonlethal assistance that is beneficial to—
 
 (1) an operation or activity of the armed forces, or of allied forces participating in a combined operation with the armed forces, conducted outside the United States against international terrorism; or
@@ -460,19 +462,9 @@ Pub. L. 113–76, div. C, title VIII, § 8092, Jan. 17, 2014, 128 Stat. 126.
 
 (3)
 
-  (A) Subject to subparagraphs (B) and (C), an official who has authority delegated under paragraph (1) or (2) may use that authority, acting through government personnel of allied forces, to offer and make rewards.
+  (A) Subject to subparagraph (B), an official who has authority delegated under paragraph (1) or (2) may use that authority, acting through government personnel of allied forces, to offer and make rewards.
 
   (B) The Secretary of Defense shall prescribe policies and procedures for making rewards in the manner described in subparagraph (A), which shall include guidance for the accountability of funds used for making rewards in that manner. The policies and procedures shall not take effect until 30 days after the date on which the Secretary submits the policies and procedures to the congressional defense committees. Rewards may not be made in the manner described in subparagraph (A) except under policies and procedures that have taken effect.
-
-  (C) Rewards may not be made in the manner described in subparagraph (A) after September 30, 2015.
-
-  (D) Not later than April 1, 2008, the Secretary of Defense shall submit to the congressional defense committees a report on the implementation of this paragraph. The report shall identify each reward made in the manner described in subparagraph (A) and, for each such reward—
-
-    (i) identify the type, amount, and recipient of the reward;
-
-    (ii) explain the reason for making the reward; and
-
-    (iii) assess the success of the reward in advancing the effort to combat terrorism.
 
 **(d) Coordination.—**
 
@@ -506,21 +498,51 @@ Pub. L. 113–76, div. C, title VIII, § 8092, Jan. 17, 2014, 128 Stat. 126.
 
     (iii) a description of the information or assistance for which the reward was paid, together with an assessment of the significance and benefit of the information or assistance.
 
-  (D) Information on the implementation of paragraph (3) of subsection (c).
+  (D) A description of the status of program implementation in each geographic combatant command, including in which countries the program is being operated.
 
-  (E) A description of the status of program implementation in each geographic combatant command.
+  (E) A description of efforts to coordinate and de-conflict the authority under subsection (a) with similar rewards programs administered by the United States Government.
 
-  (F) A description of efforts to coordinate and de-conflict the authority under subsection (a) with similar rewards programs administered by the United States Government.
-
-  (G) An assessment of the effectiveness of the program in meeting its objectives.
+  (F) An assessment of the effectiveness of the program in meeting its objectives.
 
 (3) The Secretary may submit the report in classified form if the Secretary determines that it is necessary to do so.
 
 **(g) Determinations by the Secretary.—** A determination by the Secretary under this section is final and conclusive and is not subject to judicial review.
 
+**(h) Report on Designation of Countries for Which Rewards May Be Paid.—** Not later than 15 days after the date on which the Secretary designates a country as a country in which an operation or activity of the armed forces is occurring in connection with which rewards may be paid under this section, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the designation. Each report shall include the following:
+
+(1) The country so designated.
+
+(2) The reason and justification for the designation of the country.
+
+(3) An estimate of the amount or value of the rewards to be paid as monetary payment or payment-in-kind under this section.
+
 ### Statutory Notes
 
 #### Amendments
+2016—Subsec. (h)(2). Pub. L. 114–328, § 1063(1), inserted “and justification” after “reason”.
+
+Subsec. (h)(3). Pub. L. 114–328, § 1063(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A justification for the designation of the country for purposes of this section.”
+
+2015—Pub. L. 114–92, § 1042(d)(1), substituted “Department of Defense rewards program” for “Assistance in combating terrorism: rewards” in section catchline.
+
+Subsec. (c)(3)(A). Pub. L. 114–92, § 1042(a)(1), substituted “subparagraph (B)” for “subparagraphs (B) and (C)”.
+
+Subsec. (c)(3)(C), (D). Pub. L. 114–92, § 1042(a)(2), struck out subpars. (C) and (D) which read as follows:
+
+“(C) Rewards may not be made in the manner described in subparagraph (A) after September 30, 2015.
+
+“(D) Not later than April 1, 2008, the Secretary of Defense shall submit to the congressional defense committees a report on the implementation of this paragraph. The report shall identify each reward made in the manner described in subparagraph (A) and, for each such reward—
+
+“(i) identify the type, amount, and recipient of the reward;
+
+“(ii) explain the reason for making the reward; and
+
+“(iii) assess the success of the reward in advancing the effort to combat terrorism.”
+
+Subsec. (f)(2)(D) to (G). Pub. L. 114–92, § 1042(b), redesignated subpars. (E) to (G) as (D) to (F), respectively, inserted “, including in which countries the program is being operated” before period at end of subpar. (D), and struck out former subpar. (D) which read as follows: “Information on the implementation of paragraph (3) of subsection (c).”
+
+Subsec. (h). Pub. L. 114–92, § 1042(c), added subsec. (h).
+
 2014—Subsec. (c)(3)(C). Pub. L. 113–291 substituted “September 30, 2015” for “September 30, 2014”.
 
 2013—Subsec. (c)(3)(C). Pub. L. 112–239 substituted “September 30, 2014” for “September 30, 2013”.
@@ -559,6 +581,9 @@ Subsec. (f)(2)(D). Pub. L. 110–181, § 1033(c), added subpar. (D).
 
 Subsec. (d)(1). Pub. L. 109–163 substituted “Such policies” for “Such polices”.
 
+#### Termination of Reporting Requirements
+For termination, effective Dec. 31, 2021, of provisions in subsec. (f) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
+
 
 <a id="section-127c"></a>
 ## § 127c. Purchase of weapons overseas: force protection
@@ -575,74 +600,64 @@ Subsec. (d)(1). Pub. L. 109–163 substituted “Such policies” for “Such po
 ### Statutory Notes
 
 #### Codification
-Another section 127c was renumbered [section 127d of this title](./chapter-003-general-powers-and-functions.md#section-127d).
+Another section 127c was renumbered [section 127d of this title](./chapter-003-general-powers-and-functions.md#section-127d) prior to being renumbered [section 331 of this title](./chapter-016-security-cooperation.md#section-331).
 
 
 <a id="section-127d"></a>
-## § 127d. Allied forces participating in combined operations: authority to provide logistic support, supplies, and services
-**(a) Authority.—**
+## § 127d. Renumbered § 331]
 
-(1) Subject to subsections (b) and (c), the Secretary of Defense may provide logistic support, supplies, and services to allied forces participating in a combined operation with the armed forces of the United States.
 
-(2) In addition to any logistic support, supplies, and services provided under paragraph (1), the Secretary may provide logistic support, supplies, and services to allied forces solely for the purpose of enhancing the interoperability of the logistical support systems of military forces participating in combined operations with the United States in order to facilitate such operations. Such logistic support, supplies, and services may also be provided under this paragraph to a nonmilitary logistics, security, or similar agency of an allied government if such provision would directly benefit the armed forces of the United States.
+<a id="section-127e"></a>
+## § 127e. Support of special operations to combat terrorism
+**(a) Authority.—** The Secretary of Defense may, with the concurrence of the relevant Chief of Mission, expend up to $100,000,000 during any fiscal year to provide support to foreign forces, irregular forces, groups, or individuals engaged in supporting or facilitating ongoing military operations by United States special operations forces to combat terrorism.
 
-(3) Provision of support, supplies, and services pursuant to paragraph (1) or (2) may be made only with the concurrence of the Secretary of State.
+**(b) Funds.—** Funds for support under this section in a fiscal year shall be derived from amounts authorized to be appropriated for that fiscal year for the Department of Defense for operation and maintenance.
 
-**(b) Limitations.—**
+**(c) Procedures.—** The authority in this section shall be exercised in accordance with such procedures as the Secretary shall establish for purposes of this section. The Secretary shall notify the congressional defense committees of any material modification of such procedures.
 
-(1) The authority provided by subsection (a)(1) may be used only in accordance with the Arms Export Control Act and other export control laws of the United States.
+**(d) Notification.—**
 
-(2) The authority provided by subsection (a)(1) may be used only for a combined operation—
+(1) **In general.—** — Not later than 15 days before exercising the authority in this section to make funds available to initiate support of an approved military operation or changing the scope or funding level of any support for such an operation by $1,000,000 or an amount equal to 20 percent of such funding level (whichever is less), or not later than 48 hours after exercising such authority if the Secretary determines that extraordinary circumstances that impact the national security of the United States exist, the Secretary shall notify the congressional defense committees of the use of such authority with respect to that operation. Any such notification shall be in writing.
 
-  (A) that is carried out during active hostilities or as part of a contingency operation or a noncombat operation (including an operation in support of the provision of humanitarian or foreign disaster assistance, a country stabilization operation, or a peacekeeping operation under chapter VI or VII of the Charter of the United Nations); and
+(2) **Elements.—** — A notification required by this subsection shall include the following:
 
-  (B) in a case in which the Secretary of Defense determines that the allied forces to be provided logistic support, supplies, and services—
+  (A) The type of support provided or to be provided to United States special operations forces.
 
-    (i) are essential to the success of the combined operation; and
+  (B) The type of support provided or to be provided to the recipient of the funds.
 
-    (ii) would not be able to participate in the combined operation but for the provision of such logistic support, supplies, and services by the Secretary.
+  (C) The amount obligated under the authority to provide support.
 
-**(c) Limitations on Value.—**
+**(e) Limitation on Delegation.—** The authority of the Secretary to make funds available under this section for support of a military operation may not be delegated.
 
-(1) The value of logistic support, supplies, and services provided under subsection (a)(1) in any fiscal year may not exceed $100,000,000.
+**(f) Intelligence Activities.—** This section does not constitute authority to conduct a covert action, as such term is defined in section 503(e) of the National Security Act of 1947 ([50 U.S.C. 3093(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093/e&num=0&edition=prelim)).
 
-(2) The value of the logistic support, supplies, and services provided under subsection (a)(2) in any fiscal year may not exceed $5,000,000.
+**(g) Biannual Reports.—**
 
-**(d) Annual Report.—**
+(1) **Report on preceding calendar year.—** — Not later than March 1 each year, the Secretary shall submit to the congressional defense committees a report on the support provided under this section during the preceding calendar year.
 
-(1) Not later than December 31 each year, the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives a report on the use of the authority provided by subsection (a) during the preceding fiscal year.
+(2) **Report on current calendar year.—** — Not later than September 1 each year, the Secretary shall submit to the congressional defense committees a report on the support provided under this section during the first half of the calendar year in which the report is submitted.
 
-(2) Each report under paragraph (1) shall be prepared in coordination with the Secretary of State.
+(3) **Elements.—** — Each report required by this subsection shall include, for the period covered by such report, the following:
 
-(3) Each report under paragraph (1) shall include, for the fiscal year covered by the report, the following:
+  (A) A summary of the ongoing military operations by United States special operations forces to combat terrorism that were supported or facilitated by foreign forces, irregular forces, groups, or individuals for which support was provided under this section.
 
-  (A) Each nation provided logistic support, supplies, and services through the use of the authority provided by subsection (a).
+  (B) A description of the support or facilitation provided by such foreign forces, irregular forces, groups, or individuals to United States special operations forces.
 
-  (B) For each such nation, a description of the type and value of logistic support, supplies, and services so provided.
+  (C) The type of recipients that were provided support under this section, identified by authorized category (foreign forces, irregular forces, groups, or individuals).
 
-**(e) Definition.—** In this section, the term “logistic support, supplies, and services” has the meaning given that term in [section 2350(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2350/1&num=0&edition=prelim).
+  (D) The total amount obligated for support under this section, including budget details.
 
-### Statutory Notes
+  (E) The total amount obligated in prior fiscal years under this section and applicable preceding authority.
 
-#### References in Text
-The Arms Export Control Act, referred to in subsec. (b)(1), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) and Tables.
+  (F) The intended duration of support provided under this section.
 
-#### Amendments
-2011—Subsec. (a). Pub. L. 111–383, § 1202(a), designated existing provisions as par. (1), inserted “of the United States” after “armed forces”, struck out “Provision of such support, supplies, and services to the forces of an allied nation may be made only with the concurrence of the Secretary of State.” at end, and added pars. (2) and (3).
+  (G) A description of the support or training provided to the recipients of support under this section.
 
-Subsec. (b). Pub. L. 111–383, § 1202(b)(1), substituted “subsection (a)(1)” for “subsection (a)” in par. (1) and in introductory provisions of par. (2).
-
-Subsec. (c)(1). Pub. L. 111–383, § 1202(b)(2)(A), substituted “The” for “Except as provided in paragraph (2), the” and “subsection (a)(1)” for “this section”.
-
-Subsec. (c)(2). Pub. L. 111–383, § 1202(b)(2)(B), substituted “The value of the logistic support, supplies, and services provided under subsection (a)(2) in any fiscal year may not” for “In addition to any logistic support, supplies, and services provided under subsection (a) that are covered by paragraph (1), the value of logistic support, supplies, and services provided under this section solely for the purposes of enhancing the interoperability of the logistical support systems of military forces participating in combined operation of the United States in order to facilitate such operations may not, in any fiscal year,”.
-
-Subsec. (d)(1). Pub. L. 111–383, § 1075(b)(3), substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
-
-2008—Pub. L. 110–181 renumbered [section 127c of this title](./chapter-003-general-powers-and-functions.md#section-127c), relating to allied forces participating in combined operations, as this section.
+  (H) A value assessment of the support provided under this section, including a summary of significant activities undertaken by foreign forces, irregular forces, groups, or individuals to support operations by United States special operations forces to combat terrorism.
 
 
 <a id="section-128"></a>
-## § 128. Physical protection of special nuclear material: limitation on dissemination of unclassified information
+## § 128. Control and physical protection of special nuclear material: limitation on dissemination of unclassified information
 **(a)**
 
 (1) In addition to any other authority or requirement regarding protection from dissemination of information, and subject to [section 552(b)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/3&num=0&edition=prelim), the Secretary of Defense, with respect to special nuclear materials, shall prescribe such regulations, after notice and opportunity for public comment thereon, or issue such orders as may be necessary to prohibit the unauthorized dissemination of unclassified information pertaining to security measures, including security plans, procedures, and equipment for the physical protection of special nuclear material.
@@ -669,54 +684,70 @@ Subsec. (d)(1). Pub. L. 111–383, § 1075(b)(3), substituted “Committee on Fo
 
 **(c)** Any determination by the Secretary concerning the applicability of this section shall be subject to judicial review pursuant to [section 552(a)(4)(B) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/a/4/B&num=0&edition=prelim).
 
+**(d)** Information that the Secretary prohibits to be disseminated pursuant to subsection (a) that is provided to a State or local government shall remain under the control of the Department of Defense, and a State or local law authorizing or requiring a State or local government to disclose such information shall not apply to such information.
+
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 128 was renumbered [section 421 of this title](./chapter-021-department-of-defense-intelligence-matters.md#section-421).
 
 #### Amendments
+2016—Pub. L. 114–328, § 1662(a)(2), substituted “Control and physical protection” for “Physical protection” in section catchline.
+
+Subsec. (d). Pub. L. 114–328, § 1662(a)(1), added subsec. (d).
+
 2003—Subsec. (d). Pub. L. 108–136 struck out subsec. (d) which required the Secretary to prepare an annual report detailing the Secretary’s application during the year of each regulation or order prescribed or issued under this section.
 
 1990—Subsec. (d). Pub. L. 101–510 substituted “on an annual basis” for “on a quarterly basis”.
 
 
 <a id="section-129"></a>
-## § 129. Prohibition of certain civilian personnel management constraints
-**(a)** The civilian personnel of the Department of Defense shall be managed each fiscal year solely on the basis of and consistent with (1) the total force management policies and procedures established under [section 129a of this title](./chapter-003-general-powers-and-functions.md#section-129a), (2) the workload required to carry out the functions and activities of the department, and (3) the funds made available to the department for such fiscal year. The management of such personnel in any fiscal year shall not be subject to any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees. The Secretary of Defense and the Secretaries of the military departments may not be required to make a reduction in the number of full-time equivalent positions in the Department of Defense unless such reduction is necessary due to a reduction in funds available to the Department or is required under a law that is enacted after February 10, 1996, and that refers specifically to this subsection.
+## § 129. Civilian personnel management
+**(a)** The civilian personnel of the Department of Defense shall be managed each fiscal year on the basis of and consistent with (1) the total force management policies and procedures established under [section 129a of this title](./chapter-003-general-powers-and-functions.md#section-129a), (2) the workload required to carry out the functions and activities of the department, and (3) the funds made available to the department for such fiscal year. Any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees shall be developed on the basis of those factors and shall be subject to adjustment solely for reasons of changed circumstances. The Secretary of Defense and the Secretaries of the military departments may not be required to make a reduction in the number of full-time equivalent positions in the Department of Defense except in accordance with the requirements of this section and [section 129a of this title](./chapter-003-general-powers-and-functions.md#section-129a).
 
-**(b)** The number of, and the amount of funds available to be paid to, indirectly funded Government employees of the Department of Defense may not be—
+**(b)** With respect to each budget activity within an appropriation for a fiscal year for operations and maintenance, the Secretary of Defense shall ensure that there are employed during that fiscal year employees in the number and with the combination of skills and qualifications that are necessary to carry out the functions within that budget activity as determined under the total force management policies and procedures established under [section 129a of this title](./chapter-003-general-powers-and-functions.md#section-129a).
 
-(1) subject to any constraint or limitation on the number of such personnel who may be employed on the last day of a fiscal year;
+**(c)**
 
-(2) managed on the basis of any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees; or
+(1) Not later than February 1 of each year—
 
-(3) controlled under any policy of the Secretary of a military department for control of civilian manpower resources.
+  (A) the Secretary of Defense shall submit to the congressional defense committees a report on the management of the civilian workforce of the Office of the Secretary of Defense and the Defense Agencies and Field Activities; and
 
-**(c)** In this section, the term “indirectly funded Government employees” means civilian employees of the Department of Defense—
+  (B) the Secretary of each military department shall submit to the congressional defense committees a report on the management of the civilian workforces under the jurisdiction of such Secretary.
 
-(1) who are employed by industrial-type activities, the Major Range and Test Facility Base, or commercial-type activities described in [section 2208 of this title](./chapter-131-planning-and-coordination.md#section-2208); and
+(2) Each report under paragraph (1) shall contain, with respect to the civilian workforce under the jurisdiction of the official submitting the report, the following:
 
-(2) whose salaries and benefits are funded from sources other than appropriated funds.
+  (A) An assessment of the projected size of such civilian workforce in the current year and for each year in the future-years defense program.
 
-**(d)** With respect to each budget activity within an appropriation for a fiscal year for operations and maintenance, the Secretary of Defense shall ensure that there are employed during that fiscal year employees in the number and with the combination of skills and qualifications that are necessary to carry out the functions within that budget activity as determined under the total force management policies and procedures established under [section 129a of this title](./chapter-003-general-powers-and-functions.md#section-129a).
+  (B) If the projected size of such civilian workforce has changed from the previous year’s projected size, an explanation of the reasons for the increase or decrease from the previous projection, including an explanation of any efforts that have been taken to identify offsetting reductions and avoid unnecessary overall growth in the size of the civilian workforce.
 
-**(e)** Subsections (a), (b), and (c) apply to the Major Range and Test Facility Base (MRTFB) at the installation level.
-
-**(f)**
-
-(1) Not later than February 1 of each year, the Secretary of each military department and the head of each Defense Agency shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the management of the civilian workforce under the jurisdiction of that official.
-
-(2) Each report of an official under paragraph (1) shall contain the following:
-
-  (A) The official’s certification (i) that the civilian workforce under the jurisdiction of the official is not subject to any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees, and (ii) that, during the 12 months preceding the date on which the report is due, such workforce has not been subject to any such constraint or limitation.
-
-  (B) A description of how the civilian workforce is managed.
-
-  (C) A detailed description of the analytical tools used to determine civilian workforce requirements during the 12-month period referred to in subparagraph (A).
+  (C) In the case of a transfer of functions between military, civilian, and contractor workforces, an explanation of the reasons for the transfer and the steps that have been taken to control the overall cost of the function to the Department.
 
 ### Statutory Notes
 
 #### Amendments
+2016—Pub. L. 114–328, § 1101(b)(1), amended section catchline generally, substituting “Civilian personnel management” for “Prohibition of certain civilian personnel management constraints”.
+
+Subsec. (a). Pub. L. 114–328, § 1101(a)(1), in first sentence, struck out “solely” before “on the basis”, in second sentence, substituted “Any” for “The management of such personnel in any fiscal year shall not be subject to any” and inserted “shall be developed on the basis of those factors and shall be subject to adjustment solely for reasons of changed circumstances” after “employees”, and in third sentence, substituted “except in accordance with the requirements of this section and [section 129a of this title](./chapter-003-general-powers-and-functions.md#section-129a).” for “unless such reduction is necessary due to a reduction in funds available to the Department or is required under a law that is enacted after February 10, 1996, and that refers specifically to this subsection.”.
+
+Subsec. (b). Pub. L. 114–328, § 1101(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to the number of, and the amount of funds available to be paid to, indirectly funded Government employees of the Department of Defense.
+
+Subsec. (c). Pub. L. 114–328, § 1101(a)(2), (4), added subsec. (c) and struck out former subsec. (c) which defined the term “indirectly funded Government employees”.
+
+Subsecs. (d) to (f). Pub. L. 114–328, § 1101(a)(2), (3), redesignated subsec. (d) as (b) and struck out subsecs. (e) and (f) which read as follows:
+
+“(e) Subsections (a), (b), and (c) apply to the Major Range and Test Facility Base (MRTFB) at the installation level.
+
+“(f)(1) Not later than February 1 of each year, the Secretary of each military department and the head of each Defense Agency shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the management of the civilian workforce under the jurisdiction of that official.
+
+“(2) Each report of an official under paragraph (1) shall contain the following:
+
+“(A) The official’s certification (i) that the civilian workforce under the jurisdiction of the official is not subject to any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees, and (ii) that, during the 12 months preceding the date on which the report is due, such workforce has not been subject to any such constraint or limitation.
+
+“(B) A description of how the civilian workforce is managed.
+
+“(C) A detailed description of the analytical tools used to determine civilian workforce requirements during the 12-month period referred to in subparagraph (A).”
+
 2011—Subsec. (a). Pub. L. 112–81, § 932(1), inserted “the total force management policies and procedures established under [section 129a of this title](./chapter-003-general-powers-and-functions.md#section-129a), (2)” after “(1)” and substituted “department, and (3)” for “department and (2)”.
 
 Subsec. (d). Pub. L. 112–81, § 932(2), substituted “within that budget activity as determined under the total force management policies and procedures established under [section 129a of this title](./chapter-003-general-powers-and-functions.md#section-129a).” for “within that budget activity for which funds are provided for that fiscal year.”
@@ -750,7 +781,7 @@ Pub. L. 99–433 renumbered [section 140b of this title](./chapter-004-office-of
 ## § 129a. General policy for total force management
 **(a) Policies and Procedures.—** The Secretary of Defense shall establish policies and procedures for determining the most appropriate and cost efficient mix of military, civilian, and contractor personnel to perform the mission of the Department of Defense.
 
-**(b) Risk Mitigation Over Cost.—** In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces (as identified pursuant to [section 118b of this title](./chapter-002-department-of-defense.md#section-118b)) takes precedence over cost.
+**(b) Risk Mitigation Over Cost.—** In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces (as identified pursuant to section 118b 11 See References in Text note below. of this title) takes precedence over cost.
 
 **(c) Delegation of Responsibilities.—** The Secretary shall delegate responsibility for implementation of the policies and procedures established under subsection (a) as follows:
 
@@ -764,7 +795,7 @@ Pub. L. 99–433 renumbered [section 140b of this title](./chapter-004-office-of
 
 **(d) Use of Plan, Inventory, and List.—** The policies and procedures established by the Secretary under subsection (a) shall specifically require the Department of Defense to use the following when making determinations regarding the appropriate workforce mix necessary to perform its mission:
 
-(1) The civilian strategic workforce plan (required by [section 115b of this title](./chapter-002-department-of-defense.md#section-115b)).
+(1) The civilian strategic workforce plan (required by section 115b 1 of this title).
 
 (2) The civilian positions master plan (required by [section 1597(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1597/c&num=0&edition=prelim)).
 
@@ -794,12 +825,29 @@ Pub. L. 99–433 renumbered [section 140b of this title](./chapter-004-office-of
 
 (5) the imposition of a civilian hiring freeze that may inhibit the implementation of the policies and procedures established under subsection (a).
 
+**(g) Performance of Civilian Functions by Military Personnel.—**
+
+(1) Functions performed by civilian personnel should not be performed by military personnel except—
+
+  (A) if the Secretary of the military department concerned determines in writing based on mission requirements that the performance of such functions by military personnel, including a permanent conversion of such functions to performance by military personnel, is cost-effective or required by a mission; or
+
+  (B) if the performance of such functions by military personnel is required to address critical staffing needs resulting from a reduction in personnel or budgetary resources by reason of an Act of Congress, in which case such functions may not be performed by military personnel for a period in excess of one year.
+
+(2) In determining the workforce mix between civilian and military personnel, the Secretary of a military department shall reserve military personnel for the performance of the functions that, in the estimation of the Secretary, are required to be performed by military personnel in order to achieve national defense goals or in order to enable the proper functioning of the military department. In making workforce decisions, the Secretary shall account for the relative budgetary impact of military versus civilian personnel in determining the functions required to be performed by military personnel.
+
 ### Statutory Notes
+
+#### References in Text
+[Section 118b of this title](./chapter-002-department-of-defense.md#section-118b), referred to in subsec. (b), was repealed by Pub. L. 113–291, div. A, title X, § 1072(b)(1), Dec. 19, 2014, 128 Stat. 3516.
+
+[Section 115b of this title](./chapter-002-department-of-defense.md#section-115b), referred to in subsec. (d)(1), was repealed by Pub. L. 114–328, div. A, title XI, § 1102(a), Dec. 23, 2016, 130 Stat. 2444.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 115(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section115/b/5&num=0&edition=prelim), prior to repeal by Pub. L. 101–510, § 1483(a).
 
 #### Amendments
+2016—Subsec. (g). Pub. L. 114–328 added subsec. (g).
+
 2011—Pub. L. 112–81 amended section generally. Prior to amendment, text read as follows: “The Secretary of Defense shall use the least costly form of personnel consistent with military requirements and other needs of the Department. In developing the annual personnel authorization requests to Congress and in carrying out personnel policies, the Secretary shall—
 
 “(1) consider particularly the advantages of converting from one form of personnel (military, civilian, or private contract) to another for the performance of a specified job; and
@@ -810,7 +858,7 @@ Provisions similar to those in this section were contained in [section 115(b)(5)
 Pub. L. 113–66, div. A, title III, § 324, Dec. 26, 2013, 127 Stat. 733, provided that: “(a) Establishment of Policy.—“(1) In general.—The Secretary of Defense shall establish a policy setting forth the programs and priorities of the Department of Defense for the retrograde, reconstitution, and replacement of units and materiel used to support overseas contingency operations. The policy shall take into account national security threats, the requirements of the combatant commands, the current readiness of the operating forces of the military departments, and risk associated with strategic depth and the time necessary to reestablish required personnel, equipment, and training readiness in such operating forces. “(2) Elements.—The policy required under paragraph (1) shall include the following elements:“(A) Establishment and assignment of responsibilities and authorities within the Department for oversight and execution of the planning, organization, and management of the programs to reestablish the readiness of redeployed operating forces. “(B) Guidance concerning priorities, goals, objectives, timelines, and resources to reestablish the readiness of redeployed operating forces in support of national defense objectives and combatant command requirements. “(C) Oversight reporting requirements and metrics for the evaluation of Department of Defense and military department progress on restoring the readiness of redeployed operating forces in accordance with the policy required under paragraph (1). “(D) A framework for joint departmental reviews of military services’ annual budgets proposed for retrograde, reconstitution, or replacement activities, including an assessment of the strategic and operational risk assumed by the proposed levels of investment across the Department of Defense. “(b) Implementation Plan.—“(1) In general.—Not later than 90 days after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan for implementation of the policy required under this section. “(2) Elements.—The implementation plan required under paragraph (1) shall include the following elements:“(A) The assignment of responsibilities and authorities for oversight and execution of the planning, organization, and management of the programs to reestablish the readiness of redeployed operating forces. “(B) Establishment of priorities, goals, objectives, timelines, and resources to reestablish the readiness of redeployed operating forces in support of national defense objectives and combatant command requirements. “(C) A description of how the plan will be implemented, including a schedule with milestones to meet the goals of the plan. “(D) An estimate of the resources by military service and by year required to implement the plan, including an assessment of the risks assumed in the plan. “(3) Updates.—Not later than one year after submitting the plan required under paragraph (1), and annually thereafter for two years, the Secretary of Defense shall submit to the congressional defense committees an update on progress toward meeting the goals of the plan. “(c) Comptroller General Report.—Not later than 120 days after the date of the enactment of this Act, and annually after the submittal of each update to the implementation plan under subsection (b), the Comptroller General of the United States shall review the implementation plan submitted under subsection (b) and the policy required by subsection (a), and submit to the congressional defense committees a report describing the findings of such review and progress made toward meeting the goals of the plan and including any additional information relating to the policy and plan that the Comptroller General determines appropriate.”
 
 #### Savings To Be Achieved in Civilian Personnel Workforce and Service Contractor Workforce of the Department of Defense
-Pub. L. 112–239, div. A, title IX, § 955, Jan. 2, 2013, 126 Stat. 1896, provided that: “(a) Required Plan.—“(1) In general.—The Secretary of Defense shall ensure that the civilian personnel workforce and service contractor workforce of the Department of Defense are appropriately sized to support and execute the National Military Strategy, taking into account military personnel and force structure levels. Not later than 90 days after the date of the enactment of this Act [Jan. 2, 2013], the Secretary of Defense shall develop and begin to execute an efficiencies plan for the civilian personnel workforce and service contractor workforce of the Department of Defense. “(2) Consistency with other policies and procedures.—The Secretary shall ensure the plan required under this subsection is consistent with the policies and procedures required under [section 129a of title 10](./chapter-003-general-powers-and-functions.md#section-129a), United States Code, as implemented under the policies issued by the Under Secretary of Defense for Personnel and Readiness for determining the most appropriate and cost-efficient mix of military, civilian, and service contractor personnel to perform the missions of the Department of Defense. “(b) Savings.—The plan required under subsection (a) shall achieve savings in the total funding for each workforce covered by such plan over the period from fiscal year 2012 through fiscal year 2017 that are not less, as a percentage of such funding, than the savings in funding for basic military personnel pay achieved from reductions in military end strengths over the same period of time. “(c) Exclusions.—In developing and implementing the plan required by subsection (a) and achieving the savings percentages required by subsection (b), the Secretary of Defense may exclude expenses related to the performance of functions identified as core or critical to the mission of the Department, consistent with the workload analysis and risk assessments required by sections 129 and 129a of title 10, United States Code. In making a determination of core or critical functions, the Secretary shall consider at least the following:“(1) Civilian personnel expenses for personnel as follows:“(A) Personnel in Mission Critical Occupations, as defined by the Civilian Human Capital Strategic Plan of the Department of Defense and the Acquisition Workforce Plan of the Department of Defense. “(B) Personnel employed at facilities providing core logistics capabilities pursuant to [section 2464 of title 10](./chapter-146-contracting-for-performance-of-civilian-commercial-or-industrial-type-functions.md#section-2464), United States Code. “(C) Personnel in the Offices of the Inspectors General of the Department of Defense. “(2) Service contractor expenses for personnel as follows:“(A) Personnel performing maintenance and repair of military equipment. “(B) Personnel providing medical services. “(C) Personnel performing financial audit services. “(3) Personnel expenses for personnel in the civilian personnel workforce or service contractor workforce performing such other critical functions as may be identified by the Secretary as requiring exemption in the interest of the national defense. “(d) Reports.—“(1) Initial report.—Not later than 120 days after the date of the enactment of this Act [Jan. 2, 2013], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report including a comprehensive description of the plan required by subsection (a). “(2) Status reports.—As part of the budget submitted by the President to Congress for each of fiscal years 2015 through 2018, the Secretary shall include a report describing the implementation of the plan during the prior fiscal year and any modifications to the plan required due to changing circumstances. Each such report shall include a summary of the savings achieved in such prior fiscal year through reductions in the military, civilian, and service contractor personnel workforces, and the number of military, civilian, and service contractor personnel reduced. In any case in which savings fall short of the annual target, the report shall include an explanation of the reasons for such shortfall. “(3) Exclusions.—Each report under paragraphs (1) and (2) shall specifically identify any exclusion granted by the Secretary under subsection (c) in the period of time covered by the report. “(e) Limitation on Transfers of Functions.—The Secretary shall ensure that the savings required by this section are not achieved through unjustified transfers of functions between or among the military, civilian, and service contractor personnel workforces of the Department of Defense. Nothing in this section shall be construed to preclude the Secretary from exercising authority available to the Department under sections 129a, 2330a, 2461, and 2463 of title 10, United States Code. “(f) Sense of Congress.—It is the sense of Congress that an amount equal to 30 percent of the amount of the reductions in appropriated funds attributable to reduced budgets for the civilian and service contractor workforces of the Department by reason of the plan required by subsection (a) should be made available for costs of assisting military personnel separated from the Armed Forces in the transition from military service. “(g) Service Contractor Workforce Defined.—In this section, the term ‘service contractor workforce’ means contractor employees performing contract services, as defined in [section 2330(c)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2330/c/2&num=0&edition=prelim), United States Code, other than contract services that are funded out of amounts available for overseas contingency operations. “(h) Comptroller General Review and Report.—For each fiscal year from fiscal year 2015 through fiscal year 2018, the Comptroller General of the United States shall review the status reports submitted by the Secretary as required by subsection (d)(2) to determine whether the savings required by subsection (b) are being achieved in the civilian personnel workforce and the service contractor workforce and whether the plan required under subsection (a) is being implemented consistent with sourcing and workforce management laws, including sections 129, 129a, 2330a, 2461, and 2463 of title 10, United States Code. The Comptroller General shall submit a report on the findings of each review to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] not later than 120 days after the end of each fiscal year covered by this subsection.”
+Pub. L. 112–239, div. A, title IX, § 955, Jan. 2, 2013, 126 Stat. 1896, which related to efficiencies plan for the civilian personnel workforce and service contractor workforce of the Department of Defense, requiring specific savings, excluding certain expenses, setting reporting requirements, limiting transfers of functions, recommending application of certain funds saved to transition assistance for personnel separated from the Armed Forces, and providing definition of “service contractor workforce”, was repealed by Pub. L. 114–328, div. A, title IX, § 915, Dec. 23, 2016, 130 Stat. 2350.
 
 #### Conversion of Military Positions to Civilian Positions
 Pub. L. 104–106, div. A, title X, § 1032, Feb. 10, 1996, 110 Stat. 429, as amended by Pub. L. 104–201, div. A, title XVI, § 1601, Sept. 23, 1996, 110 Stat. 2734, directed Secretary of Defense, by Sept. 30, 1996, to convert at least 3,000 military positions to civilian positions and, not later than Mar. 31, 1996, submit to Congress a plan for the implementation of conversion.
@@ -917,7 +965,7 @@ Provisions similar to those in this section were contained in Pub. L. 101–510,
 1997—Subsec. (e)(1). Pub. L. 105–85 substituted “section 115a(e)(2)” for “section 115a(g)(2)”.
 
 #### Prohibition on Conversion of Military Medical and Dental Positions to Civilian Medical and Dental Positions
-Pub. L. 110–181, div. A, title VII, § 721(a)–(d), Jan. 28, 2008, 122 Stat. 198, 199, as amended by Pub. L. 111–84, div. A, title VII, § 701, Oct. 28, 2009, 123 Stat. 2372, provided that: “(a) Prohibition.—The Secretary of a military department may not convert any military medical or dental position to a civilian medical or dental position on or after October 1, 2007. “(b) Restoration of Certain Positions to Military Positions.—In the case of any military medical or dental position that is converted to a civilian medical or dental position during the period beginning on October 1, 2004, and ending on September 30, 2008, if the position is not filled by a civilian by September 30, 2008, the Secretary of the military department concerned shall restore the position to a military medical or dental position that can be filled only by a member of the Armed Forces who is a health professional. “(c) Report.—“(1) Requirement.—The Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on conversions made during fiscal year 2007 not later than 180 days after the enactment of this Act [Jan. 28, 2008]. “(2) Matters covered.—The report shall include the following:“(A) The number of military medical or dental positions, by grade or band and specialty, converted to civilian medical or dental positions. “(B) The results of a market survey in each affected area of the availability of civilian medical and dental care providers in such area in order to determine whether there were civilian medical and dental care providers available in such area adequate to fill the civilian positions created by the conversion of military medical and dental positions to civilian positions in such area. “(C) An analysis, by affected area, showing the extent to which access to health care and cost of health care was affected in both the direct care and purchased care systems, including an assessment of the effect of any increased shifts in patient load from the direct care to the purchased care system, or any delays in receipt of care in either the direct or purchased care system because of the conversions. “(D) The extent to which military medical and dental positions converted to civilian medical or dental positions affected recruiting and retention of uniformed medical and dental personnel. “(E) A comparison of the full costs for the military medical and dental positions converted with the full costs for civilian medical and dental positions, including expenses such as recruiting, salary, benefits, training, and any other costs the Department identifies. “(F) An assessment showing that the military medical or dental positions converted were in excess of the military medical and dental positions needed to meet medical and dental readiness requirements of the uniformed services, as determined jointly by all the uniformed services. “(d) Definitions.—In this section:“(1) The term ‘military medical or dental position’ means a position for the performance of health care functions within the Armed Forces held by a member of the Armed Forces. “(2) The term ‘civilian medical or dental position’ means a position for the performance of health care functions within the Department of Defense held by an employee of the Department or of a contractor of the Department. “(3) The term ‘uniformed services’ has the meaning given that term in [section 1072(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1072/1&num=0&edition=prelim), United States Code. “(4) The term ‘conversion’, with respect to a military medical or dental position, means a change of the position to a civilian medical or dental position, effective as of the date of the manning authorization document of the military department making the change (through a change in designation from military to civilian in the document, the elimination of the listing of the position as a military position in the document, or through any other means indicating the change in the document or otherwise).”
+Pub. L. 110–181, div. A, title VII, § 721(a)–(d), Jan. 28, 2008, 122 Stat. 198, 199, as amended by Pub. L. 111–84, div. A, title VII, § 701, Oct. 28, 2009, 123 Stat. 2372, prohibited the Secretary of a military department from converting any military medical or dental position to a civilian medical or dental position on or after Oct. 1, 2007, and required restoration of certain converted positions to military positions, prior to repeal by Pub. L. 114–328, div. A, title VII, § 721(c), Dec. 23, 2016, 130 Stat. 2228.
 
 #### Requirement To Certify and Report on Conversion of Military Medical and Dental Positions to Civilian Medical and Dental Positions
 Pub. L. 109–364, div. A, title VII, § 742, Oct. 17, 2006, 120 Stat. 2306, which prohibited the Secretary of a military department from converting any military medical or dental position to a civilian medical or dental position in a fiscal year until the Secretary submitted to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives with respect to that fiscal year a certification that the conversions within that department would not increase cost or decrease quality of care or access to care, was repealed by Pub. L. 110–181, div. A, title VII, § 721(e), Jan. 28, 2008, 122 Stat. 199.
@@ -954,7 +1002,7 @@ Pub. L. 104–106, div. A, title V, § 564(b), Feb. 10, 1996, 110 Stat. 326, pro
 
 <a id="section-130"></a>
 ## § 130. Authority to withhold from public disclosure certain technical data
-**(a)** Notwithstanding any other provision of law, the Secretary of Defense may withhold from public disclosure any technical data with military or space application in the possession of, or under the control of, the Department of Defense, if such data may not be exported lawfully outside the United States without an approval, authorization, or license under the Export Administration Act of 1979 (50 U.S.C. App. 2401–2420) or the Arms Export Control Act ([22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) et seq.). However, technical data may not be withheld under this section if regulations promulgated under either such Act authorize the export of such data pursuant to a general, unrestricted license or exemption in such regulations.
+**(a)** Notwithstanding any other provision of law, the Secretary of Defense may withhold from public disclosure any technical data with military or space application in the possession of, or under the control of, the Department of Defense, if such data may not be exported lawfully outside the United States without an approval, authorization, or license under the Export Administration Act of 1979 ([50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.) or the Arms Export Control Act ([22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) et seq.). However, technical data may not be withheld under this section if regulations promulgated under either such Act authorize the export of such data pursuant to a general, unrestricted license or exemption in such regulations.
 
 **(b)** Regulations under this section shall be published in the Federal Register for a period of no less than 30 days for public comment before promulgation. Such regulations shall address, where appropriate, releases of technical data to allies of the United States and to qualified United States contractors, including United States contractors that are small business concerns, for use in performing United States Government contracts.
 
@@ -963,11 +1011,13 @@ Pub. L. 104–106, div. A, title V, § 564(b), Feb. 10, 1996, 110 Stat. 326, pro
 ### Statutory Notes
 
 #### References in Text
-The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
+The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) and Tables.
 
 The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2016—Subsec. (a). Pub. L. 114–328 substituted “([50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.)” for “(50 U.S.C. App. 2401–2420)”.
+
 1990—Subsecs. (b), (c). Pub. L. 101–510 substituted “Regulations under this section” for “(1) Within 90 days after September 24, 1983, the Secretary of Defense shall propose regulations to implement this section. Such regulations” in subsec. (b) and redesignated former subsec. (b)(2) as subsec. (c).
 
 1987—Subsec. (b)(2). Pub. L. 100–26 inserted “the term” after “In this section,”.
@@ -1127,59 +1177,180 @@ Confidential business information and other sensitive but unclassified homeland 
 
 
 <a id="section-130e"></a>
-## § 130e. Treatment under Freedom of Information Act of critical infrastructure security information
+## § 130e. Treatment under Freedom of Information Act of certain critical infrastructure security information
 **(a) Exemption.—** The Secretary of Defense may exempt Department of Defense critical infrastructure security information from disclosure pursuant to [section 552(b)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/3&num=0&edition=prelim), upon a written determination that—
 
 (1) the information is Department of Defense critical infrastructure security information; and
 
 (2) the public interest consideration in the disclosure of such information does not outweigh preventing the disclosure of such information.
 
-**(b) Information Provided to State and Local Governments.—** Department of Defense critical infrastructure security information covered by a written determination under subsection (a) that is provided to a State or local government shall remain under the control of the Department of Defense.
+**(b) Designation of Department of Defense Critical Infrastructure Security Information.—** In addition to any other authority or requirement regarding protection from dissemination of information, the Secretary may designate information as being Department of Defense critical infrastructure security information, including during the course of creating such information, to ensure that such information is not disseminated without authorization. Information so designated is subject to the determination process under subsection (a) to determine whether to exempt such information from disclosure described in such subsection.
 
-**(c) Definition.—** In this section, the term “Department of Defense critical infrastructure security information” means sensitive but unclassified information that, if disclosed, would reveal vulnerabilities in Department of Defense critical infrastructure that, if exploited, would likely result in the significant disruption, destruction, or damage of or to Department of Defense operations, property, or facilities, including information regarding the securing and safeguarding of explosives, hazardous chemicals, or pipelines, related to critical infrastructure or protected systems owned or operated by or on behalf of the Department of Defense, including vulnerability assessments prepared by or on behalf of the Department of Defense, explosives safety information (including storage and handling), and other site-specific information on or relating to installation security.
+**(c) Information Provided to State and Local Governments.—**
+
+(1) Department of Defense critical infrastructure security information covered by a written determination under subsection (a) or designated under subsection (b) that is provided to a State or local government shall remain under the control of the Department of Defense.
+
+(2)
+
+  (A) A State or local law authorizing or requiring a State or local government to disclose Department of Defense critical infrastructure security information that is covered by a written determination under subsection (a) shall not apply to such information.
+
+  (B) If a person requests pursuant to a State or local law that a State or local government disclose information that is designated as Department of Defense critical infrastructure security information under subsection (b), the State or local government shall provide the Secretary an opportunity to carry out the determination process under subsection (a) to determine whether to exempt such information from disclosure pursuant to subparagraph (A).
 
 **(d) Delegation.—** The Secretary of Defense may delegate the authority to make a determination under subsection (a) to the Director of Administration and Management.
 
 **(e) Transparency.—** Each determination of the Secretary, or the Secretary’s designee, under subsection (a) shall be made in writing and accompanied by a statement of the basis for the determination. All such determinations and statements of basis shall be available to the public, upon request, through the Office of the Director of Administration and Management.
 
+**(f) Definition.—** In this section, the term “Department of Defense critical infrastructure security information” means sensitive but unclassified information that, if disclosed, would reveal vulnerabilities in Department of Defense critical infrastructure that, if exploited, would likely result in the significant disruption, destruction, or damage of or to Department of Defense operations, property, or facilities, including information regarding the securing and safeguarding of explosives, hazardous chemicals, or pipelines, related to critical infrastructure or protected systems owned or operated by or on behalf of the Department of Defense, including vulnerability assessments prepared by or on behalf of the Department of Defense, explosives safety information (including storage and handling), and other site-specific information on or relating to installation security.
+
+### Statutory Notes
+
+#### Amendments
+2016—Subsecs. (b), (c), (f). Pub. L. 114–328 added subsecs. (b) and (c), redesignated former subsec. (c) as (f), and struck out former subsec. (b). Text of subsec. (b) read as follows: “Department of Defense critical infrastructure security information covered by a written determination under subsection (a) that is provided to a State or local government shall remain under the control of the Department of Defense.”
+
+2015—Pub. L. 114–92 substituted “Treatment under Freedom of Information Act of certain critical infrastructure security information” for “Treatment under Freedom of Information Act of critical infrastructure security information” in section catchline.
+
 
 <a id="section-130f"></a>
-## § 130f. Congressional notification of sensitive military operations
-**(a) In General.—** The Secretary of Defense shall promptly submit to the congressional defense committees notice in writing of any sensitive military operation conducted under this title following such operation. Department of Defense support to operations conducted under the National Security Act of 1947 ([50 U.S.C. 3001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim) et seq.) is addressed in the classified annex prepared to accompany the National Defense Authorization Act for Fiscal Year 2014.
+## § 130f. Notification requirements for sensitive military operations
+**(a) In General.—** The Secretary of Defense shall promptly submit to the congressional defense committees notice in writing of any sensitive military operation conducted under this title no later than 48 hours following such operation.
 
 **(b) Procedures.—**
 
-(1) The Secretary of Defense shall establish and submit to the congressional defense committees procedures for complying with the requirements of subsection (a) consistent with the national security of the United States and the protection of operational integrity.
+(1) The Secretary of Defense shall establish and submit to the congressional defense committees procedures for complying with the requirements of subsection (a) consistent with the national security of the United States and the protection of operational integrity. The Secretary shall promptly notify the congressional defense committees in writing of any changes to such procedures at least 14 days prior to the adoption of any such changes 11 So in original. Probably should be followed by a period.
 
 (2) The congressional defense committees shall ensure that committee procedures designed to protect from unauthorized disclosure classified information relating to national security of the United States are sufficient to protect the information that is submitted to the committees pursuant to this section.
 
-**(c) Briefing Requirement.—** The Secretary of Defense shall periodically brief the congressional defense committees on Department of Defense personnel and equipment assigned to sensitive military operations.
+(3) In the event of an unauthorized disclosure of a sensitive military operation covered by this section, the Secretary shall ensure, to the maximum extent practicable, that the congressional defense committees are notified immediately of the sensitive military operation concerned. The notification under this paragraph may be verbal or written, but in the event of a verbal notification a written notification shall be provided by not later than 48 hours after the provision of the verbal notification.
 
-**(d) Sensitive Military Operation Defined.—** The term “sensitive military operation” means a lethal operation or capture operation conducted by the armed forces outside the United States and outside a theater of major hostilities pursuant to—
+**(c) Briefing Requirement.—** The Secretary of Defense shall periodically brief the congressional defense committees on Department of Defense personnel and equipment assigned to sensitive military operations, including Department of Defense support to such operations conducted under the National Security Act of 1947 ([50 U.S.C. 3001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim) et seq.).
 
-(1) the Authorization for Use of Military Force (Public Law 107–40; [50 U.S.C. 1541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1541&num=0&edition=prelim) note); or
+**(d) Sensitive Military Operation Defined.—** The term “sensitive military operation” means the following:
 
-(2) any other authority except—
+(1) A lethal operation or capture operation—
 
-  (A) a declaration of war; or
+  (A) conducted by the armed forces outside a declared theater of active armed conflict; or
 
-  (B) a specific statutory authorization for the use of force other than the authorization referred to in paragraph (1).
+  (B) conducted by a foreign partner in coordination with the armed forces that targets a specific individual or individuals.
 
-**(e) Exception.—** The notification requirement under subsection (a) shall not apply with respect to a sensitive military operation executed within the territory of Afghanistan pursuant to the Authorization for Use of Military Force (Public Law 107–40; [50 U.S.C. 1541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1541&num=0&edition=prelim) note).
+(2) An operation conducted by the armed forces outside a declared theater of active armed conflict in self-defense or in defense of foreign partners, including during a cooperative operation.
 
-**(f) Rule of Construction.—** Nothing in this section shall be construed to provide any new authority or to alter or otherwise affect the War Powers Resolution ([50 U.S.C. 1541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1541&num=0&edition=prelim) et seq.), the Authorization for Use of Military Force (Public Law 107–40; [50 U.S.C. 1541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1541&num=0&edition=prelim) note), or any requirement under the National Security Act of 1947 ([50 U.S.C. 3001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim) et seq.).
+**(e) Rule of Construction.—** Nothing in this section shall be construed to provide any new authority or to alter or otherwise affect the War Powers Resolution ([50 U.S.C. 1541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1541&num=0&edition=prelim) et seq.), the Authorization for Use of Military Force (Public Law 107–40; [50 U.S.C. 1541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1541&num=0&edition=prelim) note), or any requirement under the National Security Act of 1947 ([50 U.S.C. 3001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim) et seq.).
 
 ### Statutory Notes
 
 #### References in Text
-The National Security Act of 1947, referred to in subsecs. (a) and (f), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§ 3001 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsecs. (c) and (e), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§ 3001 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-The National Defense Authorization Act for Fiscal Year 2014, referred to in subsec. (a), is Pub. L. 113–66, Dec. 26, 2013, 127 Stat. 672. For complete classification of this Act to the Code, see Tables.
+The War Powers Resolution, referred to in subsec. (e), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under [section 1541 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1541&num=0&edition=prelim) and Tables.
 
-The War Powers Resolution, referred to in subsec. (f), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under [section 1541 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1541&num=0&edition=prelim) and Tables.
+#### Amendments
+2016—Pub. L. 114–328, § 1036(f)(1), amended section catchline generally, substituting “Notification requirements for sensitive military operations” for “Congressional notification of sensitive military operations”.
+
+Subsec. (a). Pub. L. 114–328, § 1036(a), (c)(1), inserted “no later than 48 hours” before “following such operation” and struck out at end “Department of Defense support to operations conducted under the National Security Act of 1947 ([50 U.S.C. 3001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim) et seq.) is addressed in the classified annex prepared to accompany the National Defense Authorization Act for Fiscal Year 2014.”
+
+Subsec. (b)(1). Pub. L. 114–328, § 1036(b)(1), inserted at end “The Secretary shall promptly notify the congressional defense committees in writing of any changes to such procedures at least 14 days prior to the adoption of any such changes”.
+
+Subsec. (b)(3). Pub. L. 114–328, § 1036(b)(2), added par. (3).
+
+Subsec. (c). Pub. L. 114–328, § 1036(c)(2), inserted before period at end “, including Department of Defense support to such operations conducted under the National Security Act of 1947 ([50 U.S.C. 3001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim) et seq.)”.
+
+Subsec. (d). Pub. L. 114–328, § 1036(d), substituted “means the following:” and pars. (1) and (2) for “means a lethal operation or capture operation conducted by the armed forces outside the United States and outside a theater of major hostilities pursuant to—
+
+“(1) the Authorization for Use of Military Force (Public Law 107–40; [50 U.S.C. 1541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1541&num=0&edition=prelim) note); or
+
+“(2) any other authority except—
+
+“(A) a declaration of war; or
+
+“(B) a specific statutory authorization for the use of force other than the authorization referred to in paragraph (1).”
+
+Subsecs. (e), (f). Pub. L. 114–328, § 1036(e), redesignated subsec. (f) as (e) and struck out former subsec. (e) which provided exception to notification requirement.
+
+2015—Subsec. (e). Pub. L. 114–92 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date
 Pub. L. 113–66, div. A, title X, § 1041(b), Dec. 26, 2013, 127 Stat. 857, provided that: “[Section 130f of title 10](./chapter-003-general-powers-and-functions.md#section-130f), United States Code, as added by subsection (a), shall apply with respect to any sensitive military operation (as defined in subsection (d) of such section) executed on or after the date of the enactment of this Act [Dec. 26, 2013].”
 
 #### Deadline for Submittal of Procedures
 Pub. L. 113–66, div. A, title X, § 1041(c), Dec. 26, 2013, 127 Stat. 857, provided that: “The Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the procedures required under [section 130f(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section130f/b&num=0&edition=prelim), United States Code, as added by subsection (a), by not later than 60 days after the date of the enactment of this Act [Dec. 26, 2013].”
+
+
+<a id="section-130g"></a>
+## § 130g. Authorities concerning military cyber operations
+
+The Secretary of Defense shall develop, prepare, and coordinate; make ready all armed forces for purposes of; and, when appropriately authorized to do so, conduct, a military cyber operation in response to malicious cyber activity carried out against the United States or a United States person by a foreign power (as such terms are defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1801&num=0&edition=prelim))).
+
+
+<a id="section-130h"></a>
+## § 130h. Prohibitions relating to missile defense information and systems
+**(a) Certain “Hit-to-kill” Technology and Telemetry Data.—** None of the funds authorized to be appropriated or otherwise made available for any fiscal year for the Department of Defense may be used to provide the Russian Federation with “hit-to-kill” technology and telemetry data for missile defense interceptors or target vehicles.
+
+**(b) Other Sensitive Missile Defense Information.—** None of the funds authorized to be appropriated or otherwise made available for any fiscal year for the Department of Defense may be used to provide the Russian Federation with—
+
+(1) information relating to velocity at burnout of missile defense interceptors or targets of the United States; or
+
+(2) classified or otherwise controlled missile defense information.
+
+**(c) Exception.—** The prohibitions in subsections (a) and (b) shall not apply to the United States providing to the Russian Federation information regarding ballistic missile early warning.
+
+**(d) Integration.—** None of the funds authorized to be appropriated or otherwise made available for any fiscal year for the Department of Defense may be obligated or expended to integrate a missile defense system of the Russian Federation or a missile defense system of the People’s Republic of China into any missile defense system of the United States.
+
+**(e) Sunset.—** The prohibitions in subsections (a), (b), and (d) shall expire on January 1, 2019.
+
+### Statutory Notes
+
+#### Amendments
+2016—Pub. L. 114–328, § 1682(a)(1)(C), added section catchline and struck out former section catchline which read as follows: “Prohibitions on providing certain missile defense information to Russian Federation”.
+
+Subsec. (c). Pub. L. 114–328, § 1081(a)(1), substituted “subsections (a) and (b)” for “subsection (a) and (b)”.
+
+Subsec. (d). Pub. L. 114–328, § 1682(a)(1)(A), (B), added subsec. (d). Former subsec. (d) redesignated (e).
+
+Pub. L. 114–328, § 1081(a)(1), substituted “subsections (a) and (b)” for “subsection (a) and (b)”.
+
+Subsec. (e). Pub. L. 114–328, § 1682(a)(1)(A), (b), redesignated subsec. (d) as (e) and amended subsec. (e) generally. Text read as follows: “The prohibitions in subsections (a) and (b) shall expire on January 1, 2017.”
+
+
+<a id="section-130i"></a>
+## § 130i. Protection of certain facilities and assets from unmanned aircraft
+**(a) Authority.—** Notwithstanding any provision of title 18, the Secretary of Defense may take, and may authorize the armed forces to take, such actions described in subsection (b)(1) that are necessary to mitigate the threat (as defined by the Secretary of Defense, in consultation with the Secretary of Transportation) that an unmanned aircraft system or unmanned aircraft poses to the safety or security of a covered facility or asset.
+
+**(b) Actions Described.—**
+
+(1) The actions described in this paragraph are the following:
+
+  (A) Detect, identify, monitor, and track the unmanned aircraft system or unmanned aircraft, without prior consent, including by means of intercept or other access of a wire, oral, or electronic communication used to control the unmanned aircraft system or unmanned aircraft.
+
+  (B) Warn the operator of the unmanned aircraft system or unmanned aircraft, including by passive or active, and direct or indirect physical, electronic, radio, and electromagnetic means.
+
+  (C) Disrupt control of the unmanned aircraft system or unmanned aircraft, without prior consent, including by disabling the unmanned aircraft system or unmanned aircraft by intercepting, interfering, or causing interference with wire, oral, electronic, or radio communications used to control the unmanned aircraft system or unmanned aircraft.
+
+  (D) Seize or exercise control of the unmanned aircraft system or unmanned aircraft.
+
+  (E) Seize or otherwise confiscate the unmanned aircraft system or unmanned aircraft.
+
+  (F) Use reasonable force to disable, damage, or destroy the unmanned aircraft system or unmanned aircraft.
+
+(2) The Secretary of Defense shall develop the actions described in paragraph (1) in coordination with the Secretary of Transportation.
+
+**(c) Forfeiture.—** Any unmanned aircraft system or unmanned aircraft described in subsection (a) that is seized by the Secretary of Defense is subject to forfeiture to the United States.
+
+**(d) Regulations.—** The Secretary of Defense and the Secretary of Transportation may prescribe regulations and shall issue guidance in the respective areas of each Secretary to carry out this section.
+
+**(e) Definitions.—** In this section:
+
+(1) The term “covered facility or asset” means any facility or asset that—
+
+  (A) is identified by the Secretary of Defense for purposes of this section;
+
+  (B) is located in the United States (including the territories and possessions of the United States); and
+
+  (C) relates to—
+
+    (i) the nuclear deterrence mission of the Department of Defense, including with respect to nuclear command and control, integrated tactical warning and attack assessment, and continuity of government;
+
+    (ii) the missile defense mission of the Department; or
+
+    (iii) the national security space mission of the Department.
+
+(2) The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; [49 U.S.C. 40101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim) note).

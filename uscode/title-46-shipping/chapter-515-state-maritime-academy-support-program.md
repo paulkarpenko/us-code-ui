@@ -162,15 +162,29 @@ Subsec. (b)(2)(B). Pub. L. 110–181, § 3523(a)(3), incorporated the substance 
 
 <a id="section-51506"></a>
 ## § 51506. Conditions to receiving payments and use of vessels
-**(a) General Conditions.—** As conditions of receiving an annual payment or the use of a vessel under this chapter, a State maritime academy must—
+**(a) General Conditions.—** As conditions of receiving an annual payment or the use of a vessel under this chapter, a State maritime academy shall—
 
 (1) provide courses of instruction on navigation, marine engineering (including steam and diesel propulsion), the operation and maintenance of new vessels and equipment, and innovations being introduced to the merchant marine of the United States;
 
-(2) agree in writing to conform to the standards for courses, training facilities, admissions, and instruction that the Secretary of Transportation may establish after consultation with the superintendents of State maritime academies; and
+(2) agree in writing to conform to the standards for courses, training facilities, admissions, and instruction that the Secretary of Transportation may establish after consultation with the superintendents of State maritime academies;
 
-(3) agree in writing to require, as a condition for graduation, that each individual who is a citizen of the United States and who is attending the academy in a merchant marine officer preparation program pass the examination required for the issuance of a license under [section 7101 of this title](./chapter-071-licenses-and-certificates-of-registry.md#section-7101).
+(3) agree in writing to require, as a condition for graduation, that each individual who is a citizen of the United States and who is attending the academy in a merchant marine officer preparation program pass the examination required for the issuance of a license under [section 7101 of this title](./chapter-071-licenses-and-certificates-of-registry.md#section-7101); and
+
+(4) agree that any individual enrolled at such State maritime academy in a merchant marine officer preparation program—
+
+  (A) shall, not later than 9 months after such individual’s date of enrollment, pass an examination in form and substance satisfactory to the Secretary that demonstrates that such individual meets the medical and physical requirements—
+
+    (i) required for the issuance of an original license under section 7101; or
+
+    (ii) set by the Coast Guard for issuing merchant mariners’ documentation under section 7302, with no limit to the individual’s operational authority;
+
+  (B) following passage of the examination under subparagraph (A), shall continue to meet the requirements described in subparagraph (A) throughout the remainder of the individual’s enrollment at the State maritime academy; and
+
+  (C) if the individual has a medical or physical condition that disqualifies the individual from meeting the requirements referred to in subparagraph (A), shall be transferred to a program other than a merchant marine officer preparation program, or otherwise appropriately disenrolled from such State maritime academy, until the individual demonstrates to the Secretary that the individual meets such requirements.
 
 **(b) Additional Condition to Payments of More Than $25,000.—** As a condition of receiving an annual payment of more than $25,000 under [section 51505 of this title](./chapter-515-state-maritime-academy-support-program.md#section-51505), a State maritime academy also must agree to admit each year a number of citizens of the United States who meet its admission requirements and reside in a State not supporting that academy. The Secretary shall determine the number of individuals to be admitted by each academy under this subsection. The number may not be more than one-third of the total number of individuals attending the academy at any time.
+
+**(c) Secretarial Waiver Authority.—** The Secretary may modify or waive any of the terms set forth in subsection (a)(4) with respect to any individual or State maritime academy.
 
 ### Statutory Notes
 
@@ -180,6 +194,13 @@ Subsec. (b)(2)(B). Pub. L. 110–181, § 3523(a)(3), incorporated the substance 
 | 51506 | 46 App.:1295c(f). | June 29, 1936, ch. 858, title XIII, § 1304(f), as added Pub. L. 96–453, § 2, Oct. 15, 1980, 94 Stat. 2004; Pub. L. 101–115, § 3(a), Oct. 13, 1989, 103 Stat. 692. |
 
 In subsection (a)(3), the words “administered by the Coast Guard” are omitted as unnecessary.
+
+#### Amendments
+2016—Subsec. (a). Pub. L. 114–328, § 3515(1)(A), substituted “shall” for “must” in introductory provisions.
+
+Subsec. (a)(4). Pub. L. 114–328, § 3515(1)(B)–(D), added par. (4).
+
+Subsec. (c). Pub. L. 114–328, § 3515(2), added subsec. (c).
 
 
 <a id="section-51507"></a>
@@ -220,19 +241,31 @@ Under regulations prescribed by the Secretary of Transportation, a student at a 
 ## § 51509. Student incentive payment agreements
 **(a) General Authority.—** If a State maritime academy has an agreement with the Secretary of Transportation under [section 51505 of this title](./chapter-515-state-maritime-academy-support-program.md#section-51505), the Secretary may make an agreement with a student at the academy who is a citizen of the United States to make student incentive payments to the individual. An agreement with a student may not be effective for more than 4 academic years. The Secretary shall allocate payments under this section among the various State maritime academies in an equitable manner.
 
-**(b) Payments.—** Payments under an agreement under this section shall be equal to $8,000 each academic year and be paid in such installments as the Secretary shall determine while the individual is attending the academy, as prescribed by the Secretary. The payments shall be used for uniforms, tuition, books, and subsistence.
+**(b) Payments.—**
 
-**(c) Enlisted Reserve Status.—** An agreement under this section shall require the student to accept enlisted reserve status in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve) or the Coast Guard Reserve before receiving any payments under the agreement.
+(1) **In general.—** — Except as provided in paragraph (2), payments under an agreement under this section shall be equal to $8,000 each academic year and be paid in such installments as the Secretary shall determine while the individual is attending the academy, as prescribed by the Secretary.
+
+(2) **Exception.—** — The Secretary may modify the payments made to an individual under paragraph (1), but the total amount of payments to that individual may not exceed $32,000.
+
+(3) **Authorized uses.—** — The payments shall be used for uniforms, tuition, books, and subsistence.
+
+**(c) Enlisted Reserve Status.—** An agreement under this section shall require the student to accept enlisted reserve status in the Navy Reserve (including the Strategic Sealift Officer Program, Navy Reserve) or the Coast Guard Reserve before receiving any payments under the agreement.
 
 **(d) Agreement Requirements.—** An agreement under this section shall require the student to—
 
 (1) complete the course of instruction at the academy the individual is attending;
 
-(2) take the examination for a license as an officer in the merchant marine of the United States before graduation from the academy and fulfill the requirements for such a license within 3 months after graduation from the academy;
+(2) obtain a merchant mariner license, without limitation as to tonnage or horsepower, from the Coast Guard as an officer in the merchant marine of the United States, accompanied by the appropriate national and international endorsements and certification required by the Coast Guard for service aboard vessels on domestic and international voyages, without limitation, within three months of completion of the course of instruction at the academy the individual is attending;
 
-(3) maintain a valid license as an officer in the merchant marine of the United States for at least 6 years after graduation from the academy, accompanied by the appropriate national and international endorsements and certification required by the Coast Guard for service aboard vessels on domestic and international voyages;
+(3) for at least 6 years after graduation from the academy, maintain—
 
-(4) accept, if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve), the Coast Guard Reserve, or any other reserve unit of an armed force of the United States, and, if tendered the appointment, to serve for at least 6 years after graduation from the academy;
+  (A) a valid merchant mariner license, unlimited as to horsepower or tonnage, issued by the Coast Guard as an officer in the merchant marine of the United States, accompanied by the appropriate national and international endorsements and certifications required by the Coast Guard for service aboard vessels on domestic and international voyages, without limitation;
+
+  (B) a valid transportation worker identification credential; and
+
+  (C) a Coast Guard medical certificate;
+
+(4) apply for, and accept, if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Strategic Sealift Officer Program, Navy Reserve), the Coast Guard Reserve, or any other reserve component of an armed force of the United States, and, if tendered the appointment, to serve and meet the participation requirements and to maintain active status in good standing, as determined by the program manager of the appropriate military service, for at least 8 years after the date of commissioning;
 
 (5) serve the foreign and domestic commerce and the national defense of the United States for at least 3 years after graduation from the academy—
 
@@ -248,7 +281,25 @@ Under regulations prescribed by the Secretary of Transportation, a student at a 
 
 **(e) Failure To Complete Course of Instruction.—**
 
-(1) **Active duty.—** — If the Secretary of Transportation determines that an individual who has accepted the payments described in subsection (b) for a minimum of 2 academic years has failed to fulfill the part of the agreement described in subsection (d)(1), the individual may be ordered by the Secretary of Defense to serve on active duty in the armed forces of the United States for a period of not more than 2 years. In cases of hardship as determined by the Secretary of Transportation, the Secretary of Transportation may waive this paragraph in whole or in part.
+(1) **Active duty.—**
+
+  (A) *In general.—* — The Secretary of Defense may order an individual to serve on active duty in the armed forces of the United States for a period of not more than 2 years if—
+
+    (i) the individual has attended an academy under this section for more than 2 academic years, but less than 3 academic years;
+
+    (ii) the individual has accepted the payments described in subsection (b) in an amount totaling at least $8,000; and
+
+    (iii) the Secretary of Transportation has determined that the individual has failed to fulfill the part of the agreement described in subsection (d)(1).
+
+  (B) *3 or more years.—* — The Secretary of Defense may order an individual to serve on active duty in the armed forces of the United States for a period of not more than 3 years if—
+
+    (i) the individual has attended an academy under this section for 3 or more academic years;
+
+    (ii) the individual has accepted the payments described in subsection (b) in an amount totaling at least $16,000; and
+
+    (iii) the Secretary of Transportation has determined that the individual has failed to fulfill the part of the agreement described in subsection (d)(1).
+
+  (C) *Hardship waiver.—* — In cases of hardship as determined by the Secretary of Transportation, the Secretary of Transportation may waive this paragraph in whole or in part.
 
 (2) **Recovery of cost.—** — If the Secretary of Defense is unable or unwilling to order an individual to serve on active duty under paragraph (1), or if the Secretary of Transportation determines that reimbursement of the cost of education provided would better serve the interests of the United States, the Secretary of Transportation may recover from the individual the amount of student incentive payments, plus interest and attorney fees. The Secretary may reduce the amount to be recovered to reflect partial performance of service obligations and other factors the Secretary determines merit a reduction.
 
@@ -263,6 +314,12 @@ Under regulations prescribed by the Secretary of Transportation, a student at a 
 (1) request the Attorney General to bring a civil action against the individual; and
 
 (2) make use of the Federal debt collection procedures in chapter 176 of title 28 or other applicable administrative remedies.
+
+**(h) Alternative Service.—**
+
+(1) **Service as commissioned officer.—** — An individual who, for the 5-year period following graduation from an academy, serves as a commissioned officer on active duty in an armed force of the United States or as a commissioned officer of the National Oceanic and Atmospheric Administration or the Public Health Service shall be excused from the requirements of paragraphs (3) through (5) of subsection (d).
+
+(2) **Modification or waiver.—** — The Secretary may modify or waive any of the terms and conditions set forth in subsection (d) through the imposition of alternative service requirements.
 
 ### Statutory Notes
 
@@ -282,6 +339,20 @@ In subsection (a), the text of 46 App. U.S.C. 1295c(g)(8) is omitted as obsolete
 In subsection (g), the words “bring a civil action” are substituted for “begin court proceedings” for consistency in the revised title and with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
 #### Amendments
+2015—Subsec. (b). Pub. L. 114–92, § 3507(1), designated first sentence as par. (1) and last sentence as par. (3), inserted headings, realigned margins, in par. (1), substituted “Except as provided in paragraph (2), payments” for “Payments”, and added par. (2).
+
+Subsec. (c). Pub. L. 114–92, § 3507(2), substituted “Strategic Sealift Officer Program” for “Merchant Marine Reserve”.
+
+Subsec. (d)(2). Pub. L. 114–92, § 3507(3)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “take the examination for a license as an officer in the merchant marine of the United States before graduation from the academy and fulfill the requirements for such a license within 3 months after graduation from the academy;”.
+
+Subsec. (d)(3). Pub. L. 114–92, § 3507(3)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “maintain a valid license as an officer in the merchant marine of the United States for at least 6 years after graduation from the academy, accompanied by the appropriate national and international endorsements and certification required by the Coast Guard for service aboard vessels on domestic and international voyages;”.
+
+Subsec. (d)(4). Pub. L. 114–92, § 3507(3)(C), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “accept, if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Merchant Marine Reserve, Navy Reserve), the Coast Guard Reserve, or any other reserve unit of an armed force of the United States, and, if tendered the appointment, to serve for at least 6 years after graduation from the academy;”.
+
+Subsec. (e)(1). Pub. L. 114–92, § 3507(4), amended par. (1) generally. Prior to amendment, text read as follows: “If the Secretary of Transportation determines that an individual who has accepted the payments described in subsection (b) for a minimum of 2 academic years has failed to fulfill the part of the agreement described in subsection (d)(1), the individual may be ordered by the Secretary of Defense to serve on active duty in the armed forces of the United States for a period of not more than 2 years. In cases of hardship as determined by the Secretary of Transportation, the Secretary of Transportation may waive this paragraph in whole or in part.”
+
+Subsec. (h). Pub. L. 114–92, § 3507(5), added subsec. (h).
+
 2009—Pub. L. 111–84, § 3507(a), substituted “and be paid in such installments as the Secretary shall determine” for “and be paid before the start of each academic year, as prescribed by the Secretary,” and “academy, as prescribed by the Secretary.” for “academy.”.
 
 Pub. L. 111–8, § 177, which directed amendment identical to that made by Pub. L. 110–417, § 3503(1), (2), was repealed by Pub. L. 111–84, § 3507(b), with Pub. L. 111–8, § 177, to have no force or effect. See 2008 Amendment note below.
